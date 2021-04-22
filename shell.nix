@@ -2,7 +2,7 @@
 let
   recht-src = builtins.fetchTarball {
     url = "https://github.com/kmein/recht/archive/0.4.1.tar.gz";
-    sha256 = "0d65drym053832fwc4csry21ljiqd509rag4bp68c8jiq1hygq3l";
+    sha256 = "1z783qn46divf2zbixwhfwbxwp8nyd0drzsfcxdyxp3mnsb67ap5";
   };
   recht = pkgs.haskellPackages.callCabal2nix "recht" recht-src {};
 in
