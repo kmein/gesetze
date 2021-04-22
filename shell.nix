@@ -9,8 +9,8 @@ in
 pkgs.mkShell {
   buildInputs = [
     (pkgs.writers.writeBashBin "generate" ''
-      ${recht}/bin/recht list | ${pkgs.ansifilter}/bin/ansifilter | ${pkgs.gnused}/bin/sed 's/^\[//;s/].*$//' | while read -r law; do
-        ${recht}/bin/recht get "$law" | ${pkgs.ansifilter}/bin/ansifilter > "laws/''${law/\//_}.org" && echo "$law"
+      ${recht}/bin/recht list | ${pkgs.ansifilter}/bin/ansifilter | ${pkgs.gnugrep}/bin/grep -o '^\[.*]' | ${pkgs.gnused}/bin/sed 's/[][]//g' | while read -r law; do
+        ${recht}/bin/recht get "$law" | ${pkgs.ansifilter}/bin/ansifilter > "laws/''${law//\//_}.org" && echo "$law"
       done
     '')
   ];
