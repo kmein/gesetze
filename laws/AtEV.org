@@ -1,0 +1,523 @@
+[AtEV] Verordnung über Anforderungen und Verfahren zur Entsorgung radioaktiver Abfälle  (Atomrechtliche Entsorgungsverordnung - AtEV)
+
+Ausfertigungsdatum: 29.11.2018
+
+ 
+
+§ 1 - Anfall und Verbleib
+
+(1) Wer eine Tätigkeit nach § 5, § 6, § 7, § 9 oder § 9b des Atomgesetzes oder nach § 12 Absatz 1 Nummer 1, Nummer 2 oder Nummer 3 des Strahlenschutzgesetzes plant oder ausübt, ist verpflichtet,
+
+- 1. :: vor Beginn der Tätigkeit den erwarteten jährlichen Anfall von radioaktiven Abfällen für die Dauer des gesamten Tätigkeitszeitraumes abzuschätzen und diesen der zuständigen Behörde unter Angabe des geplanten Verbleibs der radioaktiven Abfälle mitzuteilen und
+- 2. :: nach Beginn der Tätigkeit den Verbleib der radioaktiven Abfälle nachzuweisen und hierzu
+  - a) :: den erwarteten Anfall an radioaktiven Abfällen für das laufende Kalenderjahr ab Beginn der Tätigkeit und danach für jedes nächste Kalenderjahr abzuschätzen und dabei Angaben über den Verbleib zu machen und
+  - b) :: den Anfall radioaktiver Abfälle seit dem letzten Stichtag und den Bestand zum Stichtag anzugeben.
+
+(2) Die Angaben nach Absatz 1 Nummer 2 sind jeweils zum Stichtag 31. Dezember fortzuschreiben und bis zum darauf folgenden 31. März der zuständigen Behörde vorzulegen und durch diese an den Dritten nach § 9a Absatz 3 Satz 2 zweiter Halbsatz des Atomgesetzes zu übermitteln. Sie sind unverzüglich fortzuschreiben und der zuständigen Behörde vorzulegen und durch diese an den Dritten nach § 9a Absatz 3 Satz 2 zweiter Halbsatz des Atomgesetzes zu übermitteln, falls sich wesentliche Änderungen ergeben.
+(3) Die Absätze 1 und 2 gelten nicht für bestrahlte Brennelemente und solche radioaktiven Abfälle aus der Wiederaufarbeitung, die nach Anlage Teil D erfasst werden; § 9a Absatz 1a bis 1e des Atomgesetzes bleibt unberührt. Die Absätze 1 und 2 gelten ferner nicht für radioaktive Abfälle, die nach § 5 Absatz 4 an Landessammelstellen abzuliefern sind, sofern die radioaktiven Abfälle unbehandelt sind. Abweichend von Satz 2 gelten die Absätze 1 und 2 entsprechend für denjenigen, der radioaktive Abfälle im Sinne des Satzes 2 von Abfallverursachern übernimmt und hierdurch selbst ablieferungspflichtig wird.
+(+++ § 1 Abs. 3 Satz 2 und 3: Zur Anwendung vgl. § 2 Abs. 4 +++)\\
+(+++ § 1 Abs. 3: Zur Anwendung vgl. § 3 Abs. 2 Satz 3, § 3 Abs. 3 Satz 2 und § 4 Abs. 5 +++)
+
+§ 2 - Pflicht zur Erfassung
+
+(1) Wer eine Tätigkeit nach § 5, § 6, § 7, § 9 oder § 9b des Atomgesetzes oder nach § 12 Absatz 1 Nummer 1, Nummer 2 oder Nummer 3 des Strahlenschutzgesetzes ausübt, ist verpflichtet,
+
+- 1. :: die radioaktiven Abfälle nach Anlage Teil A und Teil B zu erfassen sowie
+- 2. :: bestrahlte Brennelemente und radioaktive Abfälle aus der Wiederaufarbeitung nach Teil D zu erfassen.
+
+Bei Änderungen sind die erfassten Angaben zu aktualisieren. Besitzt ein anderer als der nach § 9a Absatz 1 des Atomgesetzes zur Entsorgung Verpflichtete die Abfälle, so hat dieser Besitzer bei Änderungen der erfassten Angaben die Änderungen nach den in Satz 1 genannten Vorgaben zu erfassen und die erfassten Angaben dem nach § 9a Absatz 1 des Atomgesetzes, auch in Verbindung mit § 2 Absatz 2 des Entsorgungsübergangsgesetzes, zur Entsorgung Verpflichteten zur Verfügung zu stellen.
+
+(2) Die erfassten Angaben sind in elektronischen Buchführungssystemen so aufzuzeichnen, dass sie der zuständigen Behörde auf Anfrage unverzüglich zur Verfügung gestellt werden können. Die Buchführungssysteme sind von dem nach § 9a Absatz 1 des Atomgesetzes Verpflichteten einzurichten und bedürfen der Zustimmung der zuständigen Behörde.
+(3) Die Angaben in den elektronischen Buchführungssystemen sind nach der Ablieferung der radioaktiven Abfälle an die Landessammelstelle oder an eine Anlage des Bundes zur Sicherstellung und zur Endlagerung radioaktiver Abfälle mindestens ein Jahr lang bereitzuhalten.
+(4) § 1 Absatz 3 Satz 2 und 3 gilt entsprechend.
+
+§ 3 - Behandlung und Verpackung
+
+(1) Die zuständige Behörde oder eine von ihr bestimmte Stelle kann die Art der Behandlung und Verpackung radioaktiver Abfälle vor deren Ablieferung entsprechend den jeweiligen Anforderungen der Einrichtung, an die abzuliefern ist, anordnen und einen Nachweis über die Einhaltung dieser Anordnung verlangen. Der Dritte nach § 9a Absatz 3 Satz 2 zweiter Halbsatz des Atomgesetzes legt alle sicherheitstechnischen Anforderungen an Abfallgebinde, die für die Endlagerung bestimmt sind, sowie die Vorgaben für die Behandlung der darin enthaltenen Abfälle fest und stellt die Endlagerfähigkeit der nach diesen Anforderungen und Vorgaben hergestellten Abfallgebinde fest.
+(2) Bei der Behandlung und Verpackung radioaktiver Abfälle zur Herstellung endlagerfähiger Abfallgebinde sind Verfahren anzuwenden, deren Anwendung der Dritte nach § 9a Absatz 3 Satz 2 zweiter Halbsatz des Atomgesetzes zugestimmt hat. Für radioaktive Abfälle, die nach § 5 Absatz 4 an Landessammelstellen abgeliefert worden sind und die nach Absatz 1 Satz 2 behandelt und verpackt wurden, trägt der Bund die Kosten, die sich aus einer nachträglichen Änderung der Anforderungen und Vorgaben ergeben. § 1 Absatz 3 gilt entsprechend.
+(3) Behälter oder sonstige Einheiten zur Verpackung radioaktiver Abfälle sind mit einer Kennzeichnung nach Anlage Teil B zu versehen. § 1 Absatz 3 gilt entsprechend.
+(4) Anforderungen auf der Grundlage des Gefahrgutbeförderungsgesetzes bleiben unberührt.
+
+§ 4 - Pflichten bei Abgabe und Empfang
+
+(1) Wer radioaktive Abfälle abgibt, ist verpflichtet, vorher eine schriftliche Erklärung des Empfängers über dessen Annahmebereitschaft einzuholen. Er hat dem Empfänger dabei die erfassten Angaben nach § 2 Absatz 1 zu überlassen, sofern entsprechend vorhanden, in elektronischer Form nach § 2 Absatz 2 Satz 1.
+(2) Wer radioaktive Abfälle zur Beförderung abgibt, ist verpflichtet, dies der für ihn zuständigen Behörde mindestens fünf Arbeitstage vor Beginn der Beförderung mitzuteilen. Die Mitteilung erfolgt in Form einer Transportmeldung nach Anlage Teil C. Ein Abdruck der Transportmeldung ist gleichzeitig dem Empfänger zuzusenden. Kann das Datum der Beförderung in der Transportmeldung noch nicht verbindlich genannt werden, ist dieses mindestens zwei Arbeitstage vor dem Beginn der Beförderung, abgesehen von der kürzeren Vorlauffrist, entsprechend den Sätzen 1 und 2 nachzumelden und dem Empfänger mitzuteilen. Die Sätze 1 und 2 gelten bezogen auf den erhaltenen Abdruck der Transportmeldung entsprechend auch für den Empfänger der radioaktiven Abfälle, falls für ihn eine andere Behörde zuständig ist als für den Abgebenden. Ein nach Satz 4 nachgemeldetes Datum hat der Empfänger nach Erhalt der für ihn zuständigen Behörde mitzuteilen, falls für ihn eine andere Behörde zuständig ist als für den Abgebenden.
+(3) Der Empfänger ist verpflichtet,
+
+- 1. :: unverzüglich die erhaltenen radioaktiven Abfälle mit den Angaben der Transportmeldung abzugleichen und festgestellte Unstimmigkeiten der für ihn zuständigen Behörde mitzuteilen,
+- 2. :: den Abgebenden unverzüglich schriftlich über die Annahme der radioaktiven Abfälle zu unterrichten und
+- 3. :: die Angaben nach § 2 Absatz 1 in sein Buchführungssystem zu übernehmen.
+
+(4) Absatz 2 und Absatz 3 Nummer 1 gelten nicht für Verbringungen nach § 5 Absatz 2 der Atomrechtlichen Abfallverbringungsverordnung.
+(5) § 1 Absatz 3 gilt entsprechend.
+
+§ 5 - Ablieferungspflicht
+
+(1) Radioaktive Abfälle sind an eine Anlage des Bundes zur Sicherstellung und zur Endlagerung radioaktiver Abfälle abzuliefern, wenn sie entstanden sind
+
+- 1. :: bei der staatlichen Verwahrung von Kernbrennstoffen nach § 5 Absatz 3 und 4 des Atomgesetzes,
+- 2. :: bei der Aufbewahrung nach § 6 des Atomgesetzes,
+- 3. :: in den nach § 7 des Atomgesetzes genehmigungsbedürftigen Anlagen,
+- 4. :: bei Tätigkeiten nach § 9 des Atomgesetzes oder
+- 5. :: bei Tätigkeiten, die nur auf Grund von § 2 Absatz 3 des Atomgesetzes als Umgang mit sonstigen radioaktiven Stoffen gelten und daher nicht der Genehmigungspflicht für den Umgang mit Kernbrennstoffen nach § 9 des Atomgesetzes unterfallen.
+
+(2) Absatz 1 ist auch anzuwenden auf radioaktive Abfälle aus einem Umgang nach § 12 Absatz 1 Nummer 3 des Strahlenschutzgesetzes, wenn
+
+- 1. :: dieser Umgang im Zusammenhang mit einer der Tätigkeiten nach Absatz 1 erfolgt oder
+- 2. :: wenn sich eine nach dem Atomgesetz erteilte Genehmigung gemäß § 10a Absatz 2 des Atomgesetzes auf einen Umgang nach § 12 Absatz 1 Nummer 3 des Strahlenschutzgesetzes erstreckt.
+
+(3) Andere radioaktive Abfälle dürfen nur dann an eine Anlage des Bundes zur Sicherstellung und zur Endlagerung radioaktiver Abfälle abgeliefert werden, wenn die für den Abfallerzeuger zuständige Landesbehörde dies zugelassen hat. Im Falle der Zulassung entfällt die Pflicht zur Ablieferung an eine Landessammelstelle nach Absatz 4.
+(4) Radioaktive Abfälle sind an die zuständige Landessammelstelle abzuliefern, wenn sie entstanden sind
+
+- 1. :: bei einem Umgang nach § 12 Absatz 1 Nummer 3 des Strahlenschutzgesetzes oder
+- 2. :: bei einem genehmigungsbedürftigen Betrieb von Anlagen zur Erzeugung ionisierender Strahlen nach § 12 Absatz 1 Nummer 1 des Strahlenschutzgesetzes,
+
+es sei denn, diese Abfälle sind nach Absatz 1 Nummer 5 an eine Anlage des Bundes zur Sicherstellung und zur Endlagerung radioaktiver Abfälle abzuliefern.
+
+(5) Die in den Absätzen 1 und 2 genannten radioaktiven Abfälle dürfen an eine Landessammelstelle nur dann abgeliefert werden, wenn die für den Abfallerzeuger zuständige Landesbehörde dies zugelassen hat. Im Falle der Zulassung entfällt die Ablieferungspflicht an eine Anlage des Bundes nach Absatz 1 oder 2.
+(6) Die Landessammelstelle führt die bei ihr zwischengelagerten radioaktiven Abfälle grundsätzlich an eine Anlage des Bundes zur Sicherstellung und zur Endlagerung radioaktiver Abfälle ab.
+
+§ 6 - Ausnahmen von der Ablieferungspflicht
+
+(1) Die Ablieferungspflicht nach § 5 bezieht sich nicht auf radioaktive Abfälle, deren anderweitige Beseitigung oder Abgabe im Einzelfall oder für einzelne Abfallarten im Einvernehmen mit der für den Empfänger der radioaktiven Abfälle zuständigen Behörde angeordnet oder genehmigt worden ist. Die Ablieferungspflicht nach § 5 ruht, solange
+
+- 1. :: über einen Antrag auf Freigabe nach § 32 der Strahlenschutzverordnung noch nicht entschieden worden ist oder
+- 2. :: eine anderweitige Zwischenlagerung der radioaktiven Abfälle angeordnet oder genehmigt ist.
+
+(2) Die Genehmigungsvoraussetzungen nach § 13 Absatz 1 bis 3 des Strahlenschutzgesetzes gelten für eine Genehmigung
+
+- 1. :: nach § 12 Absatz 1 Nummer 3 des Strahlenschutzgesetzes in Verbindung mit Absatz 1 Satz 1 zweiter Halbsatz für die anderweitige Beseitigung oder
+- 2. :: nach § 12 Absatz 1 Nummer 3 des Strahlenschutzgesetzes in Verbindung mit Absatz 1 Satz 2 Nummer 2 für die anderweitige Zwischenlagerung radioaktiver Abfälle.
+
+In den Fällen des § 5 Absatz 3 und 4 darf diese Genehmigung nur erteilt werden, wenn ein Bedürfnis für die anderweitige Beseitigung oder Zwischenlagerung besteht.
+
+
+§ 7 - Zwischenlagerung
+
+(1) Bis zur Inbetriebnahme von Anlagen des Bundes zur Sicherstellung und zur Endlagerung radioaktiver Abfälle sind die nach § 5 Absatz 1 oder 2 abzuliefernden radioaktiven Abfälle vom Ablieferungspflichtigen zwischenzulagern. Die Zwischenlagerung kann auch von mehreren Ablieferungspflichtigen gemeinsam oder durch Dritte erfolgen. § 2 des Entsorgungsübergangsgesetzes bleibt unberührt.
+(2) Nach Inbetriebnahme von Anlagen des Bundes zur Sicherstellung und zur Endlagerung radioaktiver Abfälle werden die zwischengelagerten radioaktiven Abfälle von dem Dritten nach § 9a Absatz 3 Satz 2 zweiter Halbsatz des Atomgesetzes abgerufen.
+
+§ 8 - Umgehungsverbot
+
+Niemand darf sich den Pflichten dieser Verordnung dadurch entziehen, dass er radioaktive Abfälle aus zulassungsbedürftigen Tätigkeiten ohne Zulassung unter Inanspruchnahme der Regelung des § 5 Absatz 1 der Strahlenschutzverordnung durch Verdünnung oder Aufteilung in Freigrenzenmengen beseitigt, beseitigen lässt oder die Beseitigung dieser radioaktiven Abfälle ermöglicht. § 34 der Strahlenschutzverordnung bleibt unberührt.
+
+§ 9 - Strahlenschutzvorschriften
+
+Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass die in § 1 Absatz 1 und 2 Satz 2, § 2 Absatz 1 und 2 Satz 1, Absatz 3 und 4, § 3 Absatz 2 und 3, § 4 Absatz 1 bis 3, § 5 Absatz 1 bis 5, § 7 Absatz 1 Satz 1 sowie § 8 Satz 1 vorgesehenen Schutzvorschriften eingehalten werden. Für den Strahlenschutzbeauftragten gilt Satz 1 entsprechend. Die §§ 69 bis 75 des Strahlenschutzgesetzes bleiben unberührt.
+
+§ 10 - Ordnungswidrigkeiten
+
+Ordnungswidrig im Sinne des § 46 Absatz 1 Nummer 4 des Atomgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 9 Satz 1, auch in Verbindung mit Satz 2, nicht dafür sorgt, dass eine dort genannte Vorschrift eingehalten wird.
+
+§ 11 - Übergangsvorschriften
+
+(1) Verwaltungsakte, die auf Grund der §§ 72 bis 79 einschließlich der Anlage X der Strahlenschutzverordnung in der bis zum 31. Dezember 2018 geltenden Fassung erlassen wurden, gelten als solche nach dieser Verordnung fort.
+(2) Soweit nach § 2 zu erfassende Angaben zum Zeitpunkt des Inkrafttretens dieser Verordnung nicht elektronisch vorliegen, sind sie bis zum 31. Dezember 2026 in elektronische Buchführungssysteme zu überführen.
+
+Anlage - Kategorisierung, Buchführung und Transportmeldung radioaktiver Abfälle mit vernachlässigbarer Wärmeentwicklung sowie bereitzustellende Daten über bestrahlte Brennelemente und radioaktive Abfälle aus der Wiederaufarbeitung
+
+(Fundstelle: BGBl. I 2018, 2176 - 2186)
+Radioaktive Abfälle mit vernachlässigbarer Wärmeentwicklung werden nach ihrem Verarbeitungszustand in die folgenden Kategorien eingeteilt:
+Tabelle 1\\
+Kategorien
+�
+- 1. :: Kennung für elektronische Buchführungssysteme
+  \\
+  Jeder angefallene radioaktive Abfall, der als deklarierbare Einheit gekennzeichnet werden kann und keiner betrieblichen Änderung mehr unterzogen wird, ist zu erfassen und in der Dokumentation mit einer eindeutigen Kennung je Behälter oder Einheit zu versehen. Die Kennung hat aus einer Buchstaben- und Zahlenkombination zu bestehen, aufgeteilt wie folgt:\\
+  \\
+  \\
+  | AABBBCCCCDEEEEEE |
+
+  \\
+  \\
+  Dabei gilt folgende Codierung:\\
+  \\
+  | AA     | Die beiden ersten Stellen (AA) bezeichnen in codierter Form den Erfasser der Daten.                                                                                                                                                                                              |
+  |        | Für die Erfassung durch den Verursacher ist der Code �_E“ zu verwenden. Codes für andere Erfasser werden auf Anfrage vom Dritten nach § 9a Absatz 3 Satz 2 zweiter Halbsatz des Atomgesetzes festgelegt, bei Bedarf aktualisiert und an zentraler Stelle zur Verfügung gestellt. |
+  | BBB    | Die Stellen drei bis fünf (BBB) stehen für den Ablieferungspflichtigen/Abführungspflichtigen des Abfalls (Verursacherkürzel).                                                                                                                                                    |
+  |        | Das Verursacherkürzel wird vom Dritten nach § 9a Absatz 3 Satz 2 zweiter Halbsatz des Atomgesetzes in einer Kürzelliste festgelegt, bei Bedarf aktualisiert und an zentraler Stelle zur Verfügung gestellt.                                                                      |
+  | CCCC   | Die Stellen sechs bis neun (CCCC) sind Ziffern und bezeichnen das Jahr, in dem der Abfall erfasst wird.                                                                                                                                                                          |
+  | D      | Die zehnte Stelle (D) bezeichnet den Verarbeitungszustand wie folgt:\\                                                                                                                                                                                                           |
+  |        | \\                                                                                                                                                                                                                                                                               |
+  |        | R Rohabfall (Kategorie gemäß Teil A: RA)\\                                                                                                                                                                                                                                       |
+  |        | Z Zwischenprodukt (Kategorie gemäß Teil A: VA)\\                                                                                                                                                                                                                                 |
+  |        | K Konditionierter Abfall (Kategorie gemäß Teil A: P1, P2, G1, G2)\\                                                                                                                                                                                                              |
+  |        | Hinweis: Die o. g. Zuordnung des Verarbeitungszustandes zur Kategorie gemäß Teil A kann für in der Vergangenheit erfasste Datensätze abweichen.                                                                                                                                  |
+  | EEEEEE | Die Stellen elf bis sechszehn (EEEEEE) stehen für eine eindeutige Nummer bezogen auf die vorangegangene Kombination AABBBCCCCD.                                                                                                                                                  |
+
+  \\
+  \\
+  Beispiel 1: _E<<FnR.FnA1-f804921_09>>[[#FnA1-f804921_09][1]]} KWG<<FnR.FnA1-f804921_10>>[[#FnA1-f804921_10][2]]} 2016<<FnR.FnA1-f804921_11>>[[#FnA1-f804921_11][3]]} R<<FnR.FnA1-f804921_12>>[[#FnA1-f804921_12][4]]} 000001<<FnR.FnA1-f804921_13>>[[#FnA1-f804921_13][5]]}
+- 2. :: Kennzeichnung von Abfallgebinden\\
+  \\
+  Die Kennzeichnung der Abfallgebinde, die an eine Anlage des Bundes zur Sicherstellung und zur Endlagerung radioaktiver Abfälle abzuliefern sind, erfolgt nach folgender einheitlicher Kombination (Abfallgebindenummer):
+  \\
+  \\
+  | BBBFFFFFFF |
+
+  \\
+  \\
+  Dabei gilt folgende Codierung:\\
+  \\
+  | BBB     | Das Verursacherkürzel wird vom Dritten nach § 9a Absatz 3 Satz 2 zweiter Halbsatz des Atomgesetzes in einer Kürzelliste festgelegt, bei Bedarf aktualisiert und an zentraler Stelle zur Verfügung gestellt. |
+  | FFFFFFF | Die Stellen vier bis zehn (FFFFFFF) stehen für eine eindeutige siebenstellige Nummer bezogen auf das Verursacherkürzel.                                                                                     |
+
+  \\
+  \\
+  Im Falle der Neufestlegung eines Verursacherkürzels dürfen bereits bestehende Verursacherkürzel weiterverwendet werden, solange sie in der Kürzelliste weiter aufgeführt sind. Auch bereits von den Ablieferungs- oder Abführungspflichtigen verwendete sechsstellige fortlaufende Nummern können, solange eine eindeutige Zuordnung des Gebindes möglich ist, weiterverwendet werden.
+  \\
+  \\
+  Beispiel 2: KWG<<FnR.FnA1-f804921_14>>[[#FnA1-f804921_14][6]]} 0000002<<FnR.FnA1-f804921_15>>[[#FnA1-f804921_15][7]]}\\
+  \\
+  \\
+  \\
+  ____________
+  - <<FnA1-f804921_09>>[[#FnR.FnA1-f804921_09][1]] :: Amtl. Anm.: _E steht für die Erfassung durch den Verursacher.
+  - <<FnA1-f804921_10>>[[#FnR.FnA1-f804921_10][2]] :: Amtl. Anm.: KWG steht für das Verursacherkürzel.
+  - <<FnA1-f804921_11>>[[#FnR.FnA1-f804921_11][3]] :: Amtl. Anm.: 2016 steht für das Jahr der Erfassung.
+  - <<FnA1-f804921_12>>[[#FnR.FnA1-f804921_12][4]] :: Amtl. Anm.: R steht für den Verarbeitungszustand.
+  - <<FnA1-f804921_13>>[[#FnR.FnA1-f804921_13][5]] :: Amtl. Anm.: 000001 steht für die eindeutige Nummer bezogen auf _EKWG2016R.
+  - <<FnA1-f804921_14>>[[#FnR.FnA1-f804921_14][6]] :: Amtl. Anm.: KWG steht für das Verursacherkürzel.
+  - <<FnA1-f804921_15>>[[#FnR.FnA1-f804921_15][7]] :: Amtl. Anm.: 000002 steht für die eindeutige Nummer bezogen auf KWG.
+
+  \\
+  \\
+- 3. :: Kennzeichnung von Behältern (Behälternummer)\\
+  \\
+  Behälter, in denen radioaktive Abfälle zur Sammlung, Verarbeitung oder zum Transport verpackt werden, sind mit einer innerhalb der Anlage unverwechselbaren und dauerhaften Identnummer, zum Beispiel der Herstellernummer oder einer individuell festgelegten Nummer, zu versehen. Endlagerbehälter sind spätestens vor Abgabe an das Endlager mit der Abfallgebindenummer und der Prüfzeugnisnummer des Endlagerbehälters zu kennzeichnen.\\
+  \\
+- 4. :: Datenerfassung\\
+  \\
+  Ist in der nachfolgenden Tabelle ein Kreuz eingetragen, so ist die Angabe für die jeweils vorliegende Abfallart, sofern zutreffend, zu erfassen.\\
+  \\
+  Tabelle 2\\
+  Vorgaben zur systematischen Datenerfassung\\
+  \\
+  Nummer
+- <<FnA2-f804921_16>>[[#FnR.FnA2-f804921_16][ 8]] :: Amtl. Anm.: Sofern vorhanden.
+- <<FnA2-f804921_17>>[[#FnR.FnA2-f804921_17][ 9]] :: Amtl. Anm.: Nach Spezifikation der jeweils annehmenden Anlage (Konditionierungsstätte, Zwischenlager, Landessammelstelle, Endlager).
+- <<FnA2-f804921_18>>[[#FnR.FnA2-f804921_18][10]] :: Amtl. Anm.: M = Messung, B = Berechnung, A = Abschätzung. Sofern die Art der Aktivitätsbestimmung nicht unter Nr. 19.1 bis 19.n nuklidbezogen angegeben ist.
+- <<FnA2-f804921_19>>[[#FnR.FnA2-f804921_19][11]] :: Amtl. Anm.: Sofern vorhanden.
+- <<FnA2-f804921_20>>[[#FnR.FnA2-f804921_20][12]] :: Amtl. Anm.: Endlagergerechte Bezeichnung oder Klassifizierung gemäß Festlegung durch den Dritten nach § 9a Absatz 3 Satz 2 zweiter Halbsatz des Atomgesetzes.
+- <<FnA2-f804921_21>>[[#FnR.FnA2-f804921_21][13]] :: Amtl. Anm.: Anzugeben sind die Kennungen der zum Zwischenprodukt verarbeiteten Rohabfälle bzw. die Kennungen der zum Abfallprodukt verarbeiteten Zwischenprodukte.
+- <<FnA2-f804921_22>>[[#FnR.FnA2-f804921_22][14]] :: Amtl. Anm.: Endlagergerechte Bezeichnung oder Klassifizierung gemäß Festlegung durch den Dritten nach § 9a Absatz 3 Satz 2 zweiter Halbsatz des Atomgesetzes.
+- <<FnA2-f804921_23>>[[#FnR.FnA2-f804921_23][15]] :: Amtl. Anm.: Endlagergerechte Bezeichnung oder Klassifizierung gemäß Festlegung durch den Dritten nach § 9a Absatz 3 Satz 2 zweiter Halbsatz des Atomgesetzes.
+- <<FnA2-f804921_24>>[[#FnR.FnA2-f804921_24][16]] :: Amtl. Anm.: Im Falle der Zwischenlagerung nur anzugeben, wenn durch die Annahmebedingungen des Zwischenlagers gefordert.
+
+\\
+\\
+
+| Code  | Bezeichnung          | Code  | Bezeichnung           | Code  | Bezeichnung          | Code  | Bezeichnung            |
+|-------+----------------------+-------+-----------------------+-------+----------------------+-------+------------------------|
+| A\\   | Feste Abfälle\\      | B\\   | Feste Abfälle\\       | C\\   | Flüssige Abfälle\\   | D\\   | Flüssige Abfälle\\     |
+| \\    | anorganisch\\        | \\    | organisch\\           | \\    | anorganisch\\        | \\    | organisch\\            |
+| \\    | \\                   | \\    | \\                    | \\    | \\                   | \\    | \\                     |
+| AA\\  | Metalle\\            | BA\\  | Leicht brennbare\\    | CA\\  | Chemieabwässer\\     | DA\\  | Öle\\                  |
+| AAA\\ | FerritischeMetalle\\ | \\    | Stoffe\\              | CAA\\ | Betriebsabwässer\\   | DAA\\ | Schmieröle\\           |
+| AAB\\ | Austenitische\\      | BAA\\ | Papier\\              | CAB\\ | Prozessabwässer\\    | DAB\\ | Hydrauliköle\\         |
+| \\    | Metalle\\            | BAB\\ | Textilien\\           | CAC\\ | Dekontaminations-\\  | DAC\\ | Transformatoröle\\     |
+| AAC\\ | Buntmetalle\\        | BAC\\ | Holz\\                | \\    | abwässer\\           | \\    | \\                     |
+| AAD\\ | Schwermetalle\\      | BAD\\ | Putzwolle\\           | CAD\\ | Laborabwässer\\      | DB\\  | Lösungsmittel\\        |
+| AAE\\ | Leichtmetalle\\      | BAE\\ | Zellstoff\\           | CAE\\ | Verdampfer-\\        | DBA\\ | Alkane\\               |
+| AAF\\ | Stahl verzinkt\\     | BAF\\ | Folie\\               | \\    | konzentrat\\         | DBB\\ | TBP\\                  |
+| AAG\\ | kontaminierte\\      | BAG\\ | Polyethylen\\         | CAF\\ | Schweres Wasser\\    | DBC\\ | Szintillationslösung\\ |
+| \\    | Anlagenteile\\       | \\    | \\                    | \\    | (D2O)\\              | DBD\\ | Markierte\\            |
+| AAH\\ | Hülsen und\\         | BB\\  | Schwer brennbare\\    | CAG\\ | Säure\\              | \\    | Flüssigkeiten\\        |
+| \\    | Strukturteile\\      | \\    | Stoffe\\              | CAH\\ | Lauge\\              | DBE\\ | Kerosin\\              |
+| \\    | \\                   | BBA\\ | Kunststoffe\\         | \\    | \\                   | DBF\\ | Alkohole\\             |
+| AB\\  | Nichtmetalle\\       | \\    | (ohne PVC)\\          | CB\\  | Schlämme/\\          | DBG\\ | Aromatische\\          |
+| ABA\\ | Bauschutt\\          | BBB\\ | PVC\\                 | \\    | Suspensionen\\       | \\    | Kohlenwasserstoffe\\   |
+| ABB\\ | Kies, Sand\\         | BBC\\ | Gummi\\               | CBA\\ | Abschlämmungen\\     | DBH\\ | Halogenierte\\         |
+| ABC\\ | Erdreich\\           | BBD\\ | Aktivkohle\\          | CBB\\ | Ionenaustauscher-/\\ | \\    | Kohlenwasserstoffe\\   |
+| ABD\\ | Glas\\               | BBE\\ | Ionenaustauscher-\\   | \\    | -harz-Suspension\\   | \\    | \\                     |
+| ABE\\ | Keramik\\            | \\    | harze\\               | CBC\\ | Fällschlämme\\       | DC\\  | Emulsionen\\           |
+| ABF\\ | Isolationsmaterial\\ | BBF\\ | Lacke, Farben\\       | CBD\\ | Sumpfschlämme\\      | \\    | \\                     |
+| ABG\\ | Kabel\\              | BBG\\ | Chemikalien\\         | CBE\\ | Dekanterrückstand\\  | E\\   | Gasförmige Abfälle\\   |
+| ABH\\ | Glaswolle\\          | BBH\\ | Kehricht\\            | \\    | \\                   | \\    | \\                     |
+| ABI\\ | Graphit\\            | \\    | \\                    | CC\\  | Biologische\\        | F\\   | Mischabfälle (A-D)\\   |
+| ABJ\\ | Asbest,\\            | BC\\  | Filter\\              | \\    | Abwässer\\           | \\    | \\                     |
+| \\    | Asbestzement\\       | BCA\\ | Laborfilter\\         | CCA\\ | Medizinische\\       | FA\\  | Ionenaustauscher/\\    |
+| ABK\\ | Chemikalien\\        | BCB\\ | Luftfilterelemente\\  | \\    | Abwässer\\           | \\    | Filterhilfsmittel,\\   |
+| \\    | \\                   | BCC\\ | Boxenfilter\\         | CCB\\ | Pharma-Abwässer\\    | \\    | Salze\\                |
+| AC\\  | Filter\\             | \\    | \\                    | CCC   | Fäkal-Abwässer       | \\    | \\                     |
+| ACA\\ | Laborfilter\\        | BD\\  | Biologische Abfälle\\ |       |                      | FB\\  | Feste Abfälle,\\       |
+| ACB\\ | Luftfilterelemente\\ | BDA\\ | Kadaver\\             |       |                      | \\    | Ionenaustauscher/\\    |
+| ACC\\ | Boxenfilter\\        | BDB\\ | Medizinische\\        |       |                      | \\    | Filterhilfsmittel,\\   |
+| ACD\\ | Filterkerzen\\       | \\    | Abfälle\\             |       |                      | \\    | Salze\\                |
+| \\    | \\                   | \\    | \\                    |       |                      | \\    | \\                     |
+| AD\\  | Filterhilfsmittel\\  | BZ    | Unsortierter Abfall   |       |                      | FC\\  | Zementierte\\          |
+| ADA\\ | Ionenaustauscher\\   |       |                       |       |                      | \\    | Verdampfer-\\          |
+| ADB\\ | Kieselgur\\          |       |                       |       |                      | \\    | konzentrate\\          |
+| ADC\\ | Silikagel\\          |       |                       |       |                      | \\    | \\                     |
+| ADD\\ | Molekularsieb\\      |       |                       |       |                      | G\\   | Strahlenquellen\\      |
+| \\    | \\                   |       |                       |       |                      | \\    | \\                     |
+| AE\\  | Sonstige\\           |       |                       |       |                      | GA\\  | Neutronenquellen\\     |
+| AEA   | Asche                |       |                       |       |                      | \\    | \\                     |
+|       |                      |       |                       |       |                      | GB\\  | Gammastrahlen-\\       |
+|       |                      |       |                       |       |                      |       | quellen                |
+| AEB\\ | Schlacke\\           |       |                       |       |                      | GC\\  | Prüfstrahler\\         |
+| AEC\\ | Filterstaub,\\       |       |                       |       |                      | \\    | \\                     |
+| \\    | Flugasche\\          |       |                       |       |                      | GD\\  | Diverse\\              |
+| AED\\ | Salze\\              |       |                       |       |                      | \\    | Strahlenquellen\\      |
+| \\    | \\                   |       |                       |       |                      | \\    | \\                     |
+| AF\\  | Kernbrennstoffe\\    |       |                       |       |                      | GE    | Alpha-Strahlen-\\      |
+| AFA\\ | Kernbrennstoffe\\    |       |                       |       |                      |       | quellen                |
+| \\    | unbestrahlt\\        |       |                       |       |                      |       |                        |
+| AFB\\ | Kernbrennstoffe\\    |       |                       |       |                      |       |                        |
+| \\    | bestrahlt\\          |       |                       |       |                      |       |                        |
+| \\    | \\                   |       |                       |       |                      |       |                        |
+| AZ    | Unsortierter Abfall  |       |                       |       |                      |       |                        |
+#+CAPTION: Tabelle 3\\
+Abfallart\\
+\\
+
+\\
+\\
+
+| Tabelle 4\\                                                                                                                                                      |
+| Behandlungsverfahren\\                                                                                                                                           |
+| \\                                                                                                                                                               |
+| Ein Abfall liegt entweder als unbehandelter Abfall (Rohabfall) oder als Zwischen- oder Endprodukt einer vorausgegangenen verfahrenstechnischen Behandlung vor.\\ |
+| \\                                                                                                                                                               |
+
+| Code | Behandlung                                              |
+|------+---------------------------------------------------------|
+| 000  | Unbehandelt                                             |
+| 001  | Sortieren                                               |
+| 002  | Dekontaminieren                                         |
+| 003  | Zerkleinern                                             |
+| 004  | Vorpressen                                              |
+| 005  | Verbrennen                                              |
+| 006  | Pyrolysieren                                            |
+| 007  | Verdampfen/Destillieren/Rektifizieren                   |
+| 008  | Dekantieren                                             |
+| 009  | Filtrieren                                              |
+| 010  | Schmelzen                                               |
+| 011  | Formstabil kompaktieren                                 |
+| 012  | Zementieren                                             |
+| 013  | Bituminieren                                            |
+| 014  | Verglasen                                               |
+| 015  | Trocknen                                                |
+| 016  | Kompaktieren und Zementieren                            |
+| 017  | Kompaktieren und Trocknen                               |
+| 018  | Verbrennen und Kompaktieren                             |
+| 019  | Verbrennen und Kompaktieren und Zementieren             |
+| 020  | Entwässern                                              |
+| 021  | Verfahren ohne physikalische oder chemische Veränderung |
+| 022  | Sonstiges                                               |
+| 023  | Einbringen in Endlagerbehälter                          |
+| 024  | Einbringen und Verfüllen von Endlagerbehältern          |
+| 025  | Einbringen und Vergießen von Endlagerbehältern          |
+
+\\
+\\
+
+Anzugeben ist das für den physikalischen oder chemischen Zustand des zu benennenden Abfalls relevante Verfahren oder die Kombination von Verfahren, sofern dies nicht schon bei dem bereits erfassten Vorgänger angegeben worden ist.\\
+\\
+
+Die Transportmeldung nach § 4 Absatz 2 hat folgende Angaben zu enthalten:
+
+- 1. :: Datum, Ausgangsort und Zielort des Transportes,
+- 2. :: Eigentümer der zu transportierenden Abfälle,
+- 3. :: Abgebender der zu transportierenden Abfälle gemäß § 85 Absatz 4 der Strahlenschutzverordnung,
+- 4. :: Absender der zu transportierenden Abfälle nach den Vorschriften für die Beförderung gefährlicher Güter,
+- 5. :: Beförderer oder Frachtführer sowie Nummer und Ausstellungsdatum der Beförderungsgenehmigung,
+- 6. :: Empfänger der Abfälle sowie Nummer und Ausstellungsdatum der Genehmigungen nach § 6, § 7 oder § 9 des Atomgesetzes oder nach § 12 Absatz 1 Nummer 1, Nummer 2 oder Nummer 3 des Strahlenschutzgesetzes,
+- 7. :: Annahmezusage des Empfängers,
+- 8. :: Art und Anzahl der zu transportierenden Behälter oder Verpackungen,
+- 9. :: Art, Masse oder Volumen und Gesamtaktivität der in den zu transportierenden Abfällen enthaltenen sonstigen radioaktiven Stoffe sowie Gesamtmasse der in ihnen enthaltenen Kernbrennstoffe nach § 2 Absatz 1 Satz 2 des Atomgesetzes.
+
+Ist in der nachfolgenden Tabelle ein Kreuz eingetragen, so ist die Angabe für die jeweils vorliegende Abfallart, sofern zutreffend, zu erfassen. Die Angaben für bestrahlte Brennelemente sind zu erfassen, sobald sich die bestrahlten Brennelemente in der trockenen Zwischenlagerung befinden.
+Tabelle 5\\
+Zu erfassende Daten für bestrahlte Brennelemente und\\
+radioaktive Abfälle aus der Wiederaufarbeitung in Kokillen\\
+\\
+|      | Charakteristika                                                                                                       | Einheit,\\             | Einheit,\\                                           | Einheit,\\                                                  |
+|      |                                                                                                                       | bzw. x kennzeichnet,\\ | bzw. x kennzeichnet,\\                               | bzw. x kennzeichnet,\\                                      |
+|      |                                                                                                                       | wenn erforderlich\\    | wenn erforderlich für bestrahlte Brenn-\\            | wenn erforderlich für\\                                     |
+|      |                                                                                                                       | für den Behälter       | elemente bzw. im Falle von Kugelbrennelementen für\\ | radioaktive Abfälle\\                                       |
+|      |                                                                                                                       |                        | Brennelementkannen                                   | aus der Wieder-\\                                           |
+|      |                                                                                                                       |                        |                                                      | aufarbeitung in\\                                           |
+|      |                                                                                                                       |                        |                                                      | Kokillen                                                    |
+|------+-----------------------------------------------------------------------------------------------------------------------+------------------------+------------------------------------------------------+-------------------------------------------------------------|
+|  1   | Identifizierungsnummer/Behälterseriennummer                                                                           | X                      | X                                                    | X                                                           |
+|  2   | Bauart des Behälters                                                                                                  | X                      |                                                      |                                                             |
+|  3   | Eigenschaften des Behälters                                                                                           | X                      |                                                      |                                                             |
+|      | -- Höhe (Zeichnungsmaß)                                                                                               | [mm]                   |                                                      |                                                             |
+|      | -- Durchmesser (Zeichnungsmaß)                                                                                        | [mm]                   |                                                      |                                                             |
+|      | -- Wandstärke (Zeichnungsmaß)                                                                                         | [mm]                   |                                                      |                                                             |
+|      | -- Neutronenmoderator (Material)                                                                                      | X                      |                                                      |                                                             |
+|      | -- Masse                                                                                                              |                        |                                                      |                                                             |
+|      |  -- Leer (nominal)                                                                                                    | [Mg]                   |                                                      |                                                             |
+|      |  -- Beladen (berechnet)                                                                                               | [Mg]                   |                                                      |                                                             |
+|  4   | Gemessene Leckagerate zwischen Verschlussplatte, Tragzapfen Behälterkörper und Deckel am Leerbehälter ermittelt mit\\ | [(Pa m³)/s]         |                                                      |                                                             |
+|      | -- Heliumdichtheitsprüfung\\                                                                                          |                        |                                                      |                                                             |
+|      | -- Druckanstiegsmethode                                                                                               |                        |                                                      |                                                             |
+|  5   | Werkstoffspezifikation                                                                                                | X                      |                                                      |                                                             |
+|  6   | Sonstiges Inventar (Köcher (z. B. mit Sonderbrennstäben oder anderem) und Brennelemente-Dummies)                      | X                      |                                                      |                                                             |
+|  7   | Maximale Restfeuchte im Behälterinnenraum: Druckanstiegsraten im Behälterinnenraum                                    | X                      |                                                      |                                                             |
+|  8   | Freies Volumen, berechnet                                                                                             | X                      |                                                      |                                                             |
+|  9   | Helium-Befüllmenge                                                                                                    | [mol]                  |                                                      |                                                             |
+| 10   | Gemessene Dosisleistung am Behälter                                                                                   |                        |                                                      |                                                             |
+|      | -- Messdatum                                                                                                          | X                      |                                                      |                                                             |
+|      | -- γ (Mittelwert der Oberflächendosisleistung\\                                                                       | [mSv/h]                |                                                      |                                                             |
+|      | an der Behältermantelfläche)                                                                                          |                        |                                                      |                                                             |
+|      | -- Neutronen (Mittelwert der Oberflächendosisleistung an der Behältermantelfläche)                                    | [mSv/h]                |                                                      |                                                             |
+| 11   | Nicht festhaftende Kontamination am\\                                                                                 |                        |                                                      |                                                             |
+|      | beladenen Behälter<<FnR.FnA3-f804921_25>>[[#FnA3-f804921_25][17]]}                                                  |                        |                                                      |                                                             |
+|      | -- Messdatum                                                                                                          | X                      |                                                      |                                                             |
+|      | -- α-Kontamination                                                                                                    | [Bq/cm²]            |                                                      |                                                             |
+|      | -- β/γ-Kontamination                                                                                                  | [Bq/cm²]            |                                                      |                                                             |
+| 12   | Eigentümer                                                                                                            | X                      |                                                      | X                                                           |
+| 13   | Lagerort                                                                                                              | X                      |                                                      |                                                             |
+| 14   | Beladedatum                                                                                                           | X                      |                                                      |                                                             |
+| 15   | Abgebende Anlage                                                                                                      | X                      |                                                      |                                                             |
+| 16   | Datum der Einlagerung am Lagerort                                                                                     | X                      |                                                      |                                                             |
+| 17   | Masse Schwermetall (U, Pu, Th) nominal                                                                                | [MgSM]                 | [MgSM]                                               |                                                             |
+| 18   | Masse Uran (U-233, U-235)                                                                                             | [g/Behälter]           | [g/Brennelement] bzw. [g/Brenn-\\                    | [g/Kokille]                                                 |
+|      |                                                                                                                       |                        | elementkanne]                                        |                                                             |
+| 19   | Masse Plutonium (Pu-239, Pu-241)                                                                                      | [g/Behälter]           | [g/Brennelement] bzw. [g/Brenn-\\                    | [g/Kokille]                                                 |
+|      |                                                                                                                       |                        | elementkanne]                                        |                                                             |
+| 20   | Masse Thorium (Th-232)                                                                                                | [g/Behälter]           | [g/Brennelement] bzw. [g/Brenn-\\                    |                                                             |
+|      |                                                                                                                       |                        | elementkanne]                                        |                                                             |
+| 21   | Gesamtaktivität, abdeckend                                                                                            |                        |                                                      |                                                             |
+|      | Referenzdatum der Aktivitätsangabe                                                                                    | X                      | X                                                    | X                                                           |
+|      | -- α-Aktivität                                                                                                        | [Bq/Behälter]          | [Bq/Brennelement] bzw. [g/Brenn-\\                   | [Bq/Kokille]                                                |
+|      |                                                                                                                       |                        | elementkanne]                                        |                                                             |
+|      | -- β/γ-Aktivität                                                                                                      | [Bq/Behälter]          | [Bq/Brennelement] bzw. [g/Brenn-\\                   | [Bq/Kokille]                                                |
+|      |                                                                                                                       |                        | elementkanne]                                        |                                                             |
+|      | -- Neutronenquellstärke                                                                                               | X                      | X                                                    |                                                             |
+|      | -- Gammaquellstärke                                                                                                   | X                      | X                                                    |                                                             |
+| 22   | Aktivitäten relevanter Radionuklide                                                                                   |                        |                                                      |                                                             |
+|      | Referenzdatum der Aktivitätsangabe                                                                                    | X                      | X                                                    | X                                                           |
+|      | -- Aktivierungsprodukte (Co-60, Cl-36, etc.)                                                                          | [Bq]                   | [Bq]                                                 | [Bq]                                                        |
+|      | -- Flüchtige Nuklide (H-3, Kr-85, C-14, J-129, Rn-222 (als Ra-226) etc.)                                              | [Bq]                   | [Bq]                                                 | [Bq]                                                        |
+|      | -- Spaltprodukte (Cs-137, Sr-90 etc.)                                                                                 | [Bq]                   | [Bq]                                                 | [Bq]                                                        |
+|      | -- Aktinide (Np-237, Am-24, Cm-244, U- und Pu-Isotope etc.)                                                           | [Bq]                   | [Bq]                                                 | [Bq]                                                        |
+| 23   | Thermische Eigenschaften                                                                                              |                        |                                                      |                                                             |
+|      | Bezugsdaten der Angabe                                                                                                | X                      | X                                                    | X                                                           |
+|      | -- Nachzerfallsleistung                                                                                               | [kW]                   | [kW]                                                 | [kW]<<FnR.FnA3-f804921_26>>[[#FnA3-f804921_26][18]]}      |
+|      | -- Wärmeleitfähigkeit (50 < T < 450 °C)                                                                               |                        |                                                      | [W/(m*K)]<<FnR.FnA3-f804921_27>>[[#FnA3-f804921_27][19]]} |
+|      | -- Einhaltung der maximalen Zentraltemperatur                                                                         |                        |                                                      | ja/nein                                                     |
+| 24   | Beschreibung des Brennelements                                                                                        |                        |                                                      |                                                             |
+|      | -- Position jedes Brennelements/Köchers im Behälter                                                                   | X                      |                                                      |                                                             |
+| 24.1 | Kaltdaten                                                                                                             |                        |                                                      |                                                             |
+|      | -- Brennelementzeichnung                                                                                              |                        | X                                                    |                                                             |
+|      | -- Brennelementtyp, Art (z. B. DWR, SWR, MOX), Brennelementdesign                                                     |                        | X                                                    |                                                             |
+|      | -- Gittertyp                                                                                                          |                        | X                                                    |                                                             |
+|      | -- Gitterabstand                                                                                                      |                        | X                                                    |                                                             |
+|      | -- Brennstabanzahl (im Beladezustand)                                                                                 |                        | X                                                    |                                                             |
+|      | -- Nominale Brennelementlänge, abdeckend                                                                              |                        | X                                                    |                                                             |
+|      | -- Brennelementquerschnitt, abdeckend<<FnR.FnA3-f804921_28>>[[#FnA3-f804921_28][20]]}                               |                        | X                                                    |                                                             |
+|      | -- Nominale Brennelementmasse, abdeckend<<FnR.FnA3-f804921_29>>[[#FnA3-f804921_29][21]]}                            |                        | X                                                    |                                                             |
+|      | -- Maximaler U-235-Anreicherungsgrad                                                                                  |                        | X                                                    |                                                             |
+|      | -- Nominale Länge der aktiven Zone                                                                                    |                        | X                                                    |                                                             |
+|      | -- Pu- und U-Vektor (WAU) bei\\                                                                                       |                        | X                                                    |                                                             |
+|      | MOX-Brennelementen                                                                                                    |                        |                                                      |                                                             |
+|      | -- Gadoliniumgehalt                                                                                                   |                        | X                                                    |                                                             |
+|      | -- Chemische Zusammensetzung(en),\\                                                                                   |                        | X                                                    |                                                             |
+|      | U-Faktoren(en) und Anreicherungen(en) für jeden Brennstab                                                             |                        |                                                      |                                                             |
+|      | -- Abstandhalteranzahl                                                                                                |                        | X                                                    |                                                             |
+|      | -- Masse von Abstandhaltern, Endstücken\\                                                                             |                        | X                                                    |                                                             |
+|      | und anderen Strukturteilen                                                                                            |                        |                                                      |                                                             |
+|      | -- Abstandhaltervolumen in der aktiven Zone                                                                           |                        | X                                                    |                                                             |
+|      | -- Länge der Brennstäbe                                                                                               |                        | X                                                    |                                                             |
+|      | -- Werkstoff und Dichte des Hüllrohrmaterials                                                                         |                        | X                                                    |                                                             |
+|      | -- Nominaler Hüllrohraußendurchmesser                                                                                 |                        | X                                                    |                                                             |
+|      | -- Nominaler Hüllrohrinnendurchmesser                                                                                 |                        | X                                                    |                                                             |
+|      | -- Nominaler Pelletdurchmesser                                                                                        |                        | X                                                    |                                                             |
+|      | -- Nominale Pellethöhe                                                                                                |                        | X                                                    |                                                             |
+|      | -- Nominale Brennstoffdichte des Pellets                                                                              |                        | X                                                    |                                                             |
+|      | -- Volumenanteil Dishing und Chamfering für ein Pellet, nominal                                                       |                        | X                                                    |                                                             |
+|      | -- Vorinnendruck im Brennstab Füllgas (He), nominal                                                                   |                        | X                                                    |                                                             |
+|      | -- Freies Volumen im Brennstabplenum<<FnR.FnA3-f804921_30>>[[#FnA3-f804921_30][22]]}                                |                        | X                                                    |                                                             |
+|      | -- Köcher                                                                                                             |                        |                                                      |                                                             |
+|      |  -- Identifizierungsnummer                                                                                            |                        | X                                                    |                                                             |
+|      |  -- Anzahl der Brennstäbe                                                                                             |                        | X                                                    |                                                             |
+|      |  -- Masse an Schwermetall (Pu, U) vor\\                                                                               |                        | X                                                    |                                                             |
+|      | der Bestrahlung                                                                                                       |                        |                                                      |                                                             |
+|      |  -- Masse Uran (U-233, U-235) vor der Bestrahlung                                                                     |                        | X                                                    |                                                             |
+|      |  -- Maximale Restfeuchte                                                                                              |                        | X                                                    |                                                             |
+|      |  -- Füllgasdruck (He)                                                                                                 |                        | X                                                    |                                                             |
+|      | -- Für jeden Brennstab in jedem Köcher                                                                                |                        | X                                                    |                                                             |
+|      |  -- Identifizierungsnummer<<FnR.FnA3-f804921_31>>[[#FnA3-f804921_31][23]]}                                          |                        | X                                                    |                                                             |
+|      |  -- Identifizierungsnummer und Typ des\\                                                                              |                        | X                                                    |                                                             |
+|      | Köchers                                                                                                               |                        |                                                      |                                                             |
+|      |  -- Masse Schwermetall (U, Pu), abdeckend                                                                             |                        | X                                                    |                                                             |
+|      |  -- Masse Uran (U-233, U-235) vor der\\                                                                               |                        | X                                                    |                                                             |
+|      | Bestrahlung, abdeckend                                                                                                |                        |                                                      |                                                             |
+|      |  -- Mittlerer Abbrand                                                                                                 |                        | X                                                    |                                                             |
+|      |  -- Datum der Entladung aus dem Reaktor                                                                               |                        | X                                                    |                                                             |
+| 24.2 | Heißdaten (Bestrahlungsdaten)                                                                                         |                        |                                                      |                                                             |
+|      | -- Standzeit<<FnR.FnA3-f804921_32>>[[#FnA3-f804921_32][24]]}                                                        |                        | X                                                    |                                                             |
+|      | -- Entladedatum                                                                                                       |                        | X                                                    |                                                             |
+|      | -- Mittlerer Entladeabbrand                                                                                           |                        | X                                                    |                                                             |
+|      | -- Anzahl der unterzogenen Reaktorzyklen                                                                              |                        | X                                                    |                                                             |
+|      | -- Abbrandzuwachs je Zyklus                                                                                           |                        | X                                                    |                                                             |
+|      | -- Mittlere Brennelementleistung                                                                                      |                        | X                                                    |                                                             |
+|      | -- Peaking-Faktor                                                                                                     |                        | X                                                    |                                                             |
+|      | -- Oxidschichtdicke am Brennstab,\\                                                                                   |                        | X                                                    |                                                             |
+|      | Auslegungswert, axial und umfangs-\\                                                                                  |                        |                                                      |                                                             |
+|      | gemittelt<<FnR.FnA3-f804921_33>>[[#FnA3-f804921_33][25]]}                                                           |                        |                                                      |                                                             |
+|      | -- Isotopenzusammensetzung des U und Pu zum Zeitpunkt der Entladung aus dem Reaktor                                   |                        | X                                                    |                                                             |
+| 25   | Kugelbrennelemente                                                                                                    |                        |                                                      |                                                             |
+|      | -- Anzahl der Brennelementkannen pro Behälter                                                                         |                        | X                                                    |                                                             |
+|      | -- Identifikationsnummer der Brennelementkanne                                                                        |                        | X                                                    |                                                             |
+|      | -- Leermasse der Brennelementkanne                                                                                    |                        | X                                                    |                                                             |
+|      | -- Position der Brennelementkanne im Behälter                                                                         |                        | X                                                    |                                                             |
+|      | -- Anzahl Kugeln pro Brennelementkanne                                                                                |                        | X                                                    |                                                             |
+|      | -- Material der Brennelementkanne                                                                                     |                        | X                                                    |                                                             |
+|      | -- Gesamtmasse der Brennelementkanne                                                                                  |                        | X                                                    |                                                             |
+|      | -- Mittlerer Abbrand der Kugelbrennelemente\\                                                                         |                        | X                                                    |                                                             |
+|      | in einer Brennelementkanne                                                                                            |                        |                                                      |                                                             |
+|      | -- Höchster Abbrand einer Brennelementkugel in einer Kanne                                                            |                        | X                                                    |                                                             |
+|      | -- Abbrand-Verteilung der Kugeln in einer Brennelementkanne                                                           |                        | X                                                    |                                                             |
+|      | -- Anzahl der Kugeln nach Typ (HEU/LEU/\\                                                                             |                        | X                                                    |                                                             |
+|      | Moderator/Absorber)                                                                                                   |                        |                                                      |                                                             |
+|      | -- Maximales Kernbrennstoffinventar eines Kugelbrennelements (U-233, U-235, Pu-239, Pu-241, Th-232)                   |                        | X                                                    |                                                             |
+| 26   | Beschreibung von verglasten radioaktiven Abfällen aus der Wiederaufarbeitung                                          |                        |                                                      |                                                             |
+|      | -- Position der Kokille im Behälter                                                                                   |                        |                                                      | X                                                           |
+|      | -- Kokillenmaterial                                                                                                   |                        |                                                      | X                                                           |
+|      | -- Maximale Spaltstoffkonzentration                                                                                   |                        |                                                      | X                                                           |
+|      | -- Qualität des Fixierungsmittels\\                                                                                   |                        |                                                      | X                                                           |
+|      | (Fixierung in Glas mit optimierter\\                                                                                  |                        |                                                      |                                                             |
+|      | chemischer Zusammensetzung)                                                                                           |                        |                                                      |                                                             |
+|      | -- Zusammensetzung der Glasmatrix                                                                                     |                        |                                                      | X                                                           |
+|      |  -- Mengenverhältnis\\                                                                                                |                        |                                                      | X                                                           |
+|      | Abfall : Fritte : Zuschlagstoffe                                                                                      |                        |                                                      |                                                             |
+|      |  -- Anteil der Abfalloxide (Ist-Beladung)                                                                             |                        |                                                      | X                                                           |
+|      |  -- Chemische Zusammensetzung der\\                                                                                   |                        |                                                      | X                                                           |
+|      | Glasfritte                                                                                                            |                        |                                                      |                                                             |
+|      | -- Durchmischung                                                                                                      |                        |                                                      |                                                             |
+|      |  -- Verglasung/Einbindung des Abfalls                                                                                 |                        |                                                      | ja/nein                                                     |
+|      |  -- Homogene Aktivitätsverteilung                                                                                     |                        |                                                      | ja/nein                                                     |
+|      | -- Volumen Kokille                                                                                                    |                        |                                                      | X                                                           |
+|      | -- Masse Glaskörper                                                                                                   |                        |                                                      | X                                                           |
+|      | -- Glasproduktzustand                                                                                                 |                        |                                                      |                                                             |
+|      |  -- Dichte                                                                                                            |                        |                                                      | [g/cm³]                                                  |
+|      |  -- Transformationstemperatur                                                                                         |                        |                                                      | [°C]                                                        |
+|      |  -- Lagerung unterhalb der Transformationstemperatur                                                                  |                        |                                                      | ja/nein                                                     |
+| 27   | Beschreibung von kompaktierten radioaktiven Abfällen aus der Wiederaufarbeitung                                       |                        |                                                      |                                                             |
+|      | -- Position der Kokille im Behälter                                                                                   |                        |                                                      | X                                                           |
+|      | -- Kokillenmaterial                                                                                                   |                        |                                                      | X                                                           |
+|      | -- Spezifizierter Pressdruck                                                                                          |                        |                                                      | X                                                           |
+|      | -- Gewicht des Presslings                                                                                             |                        |                                                      | X                                                           |
+|      | -- Durchmesser des Presslings                                                                                         |                        |                                                      | X                                                           |
+|      | -- Höhe des Presslings                                                                                                |                        |                                                      | X                                                           |
+|      | -- Wurden Hülsen und Strukturteile gemeinsam mit Technologieabfall verpresst                                          |                        |                                                      | ja/nein                                                     |
+|      | -- Material der Kartusche                                                                                             |                        |                                                      | X                                                           |
+|      | -- Gewicht der leeren Kartusche                                                                                       |                        |                                                      | X                                                           |
+|      | -- Anzahl der Presslinge                                                                                              |                        |                                                      | X                                                           |
+|      | -- Leervolumen des Gebindes                                                                                           |                        |                                                      | X                                                           |
+
+_________
+
+- <<FnA3-f804921_25>>[[#FnR.FnA3-f804921_25][17]] :: Amtl. Anm.: Die Parameter wurden für die in der verkehrsrechtlichen Zulassung und lagerrechtlichen Genehmigung festgelegten Randbedingungen ausgelegt und bewertet.
+- <<FnA3-f804921_26>>[[#FnR.FnA3-f804921_26][18]] :: Amtl. Anm.: Nur für verglaste radioaktive Abfälle.
+- <<FnA3-f804921_27>>[[#FnR.FnA3-f804921_27][19]] :: Amtl. Anm.: Nur für verglaste radioaktive Abfälle.
+- <<FnA3-f804921_28>>[[#FnR.FnA3-f804921_28][20]] :: Amtl. Anm.: Bei Brennelementen aus Siedewasserreaktoren ggf. mit Brennelementkasten.
+- <<FnA3-f804921_29>>[[#FnR.FnA3-f804921_29][21]] :: Amtl. Anm.: Bei Brennelementen aus Siedewasserreaktoren ggf. mit Brennelementkasten.
+- <<FnA3-f804921_30>>[[#FnR.FnA3-f804921_30][22]] :: Amtl. Anm.: Angabe von abdeckenden Werten.
+- <<FnA3-f804921_31>>[[#FnR.FnA3-f804921_31][23]] :: Amtl. Anm.: Identifikationsnummer des Brennelements, aus dem der Brennstab entnommen wurde, sowie Position des Brennstabs.
+- <<FnA3-f804921_32>>[[#FnR.FnA3-f804921_32][24]] :: Amtl. Anm.: Die Standzeit der Brennelemente im Reaktor lässt sich über den Abbrand und die Anzahl der unterzogenen Reaktorzyklen ableiten.
+- <<FnA3-f804921_33>>[[#FnR.FnA3-f804921_33][25]] :: Amtl. Anm.: Sofern gemessene Werte vorhanden.

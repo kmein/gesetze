@@ -1,0 +1,491 @@
+[TechKontrollV] Verordnung √ºber technische Kontrollen von Nutzfahrzeugen auf der Stra√üe  (TechKontrollV)
+
+Ausfertigungsdatum: 21.05.2003
+
+ 
+
+Eingangsformel
+
+Auf Grund des ¬ß 6 Abs. 1 Nr. 20 des Stra√üenverkehrsgesetzes in der Fassung der Bekanntmachung vom 5. M√§rz 2003 (BGBl. I S. 310) und des ¬ß 17 des G√ºterkraftverkehrsgesetzes vom 22. Juni 1998 (BGBl. I S. 1485), von denen
+
+- - :: ¬ß 6 Abs. 1 durch Artikel 244 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) ge√§ndert und ¬ß 6 Abs. 1 Nr. 20 durch Artikel 1 des Gesetzes vom 11. September 2002 (BGBl. I S. 3574) eingef√ºgt worden ist,
+- - :: ¬ß 17 durch Artikel 251 Nr. 1 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) ge√§ndert worden ist,
+
+verordnet das Bundesministerium f√ºr Verkehr, Bau- und Wohnungswesen:
+
+
+¬ß 1 - Anwendungsbereich
+
+(1) Die Vorschriften dieser Verordnung gelten f√ºr die technische Kontrolle von Nutzfahrzeugen, die am Stra√üenverkehr teilnehmen oder aus einem Drittland in Deutschland einfahren.
+(2) Auf Grund anderer Rechtsvorschriften durchzuf√ºhrende Kontrollen von Nutzfahrzeugen, die nicht unter Absatz 1 fallen, bleiben unber√ºhrt.
+
+¬ß 2 - Begriffsbestimmungen
+
+Im Sinne dieser Verordnung bezeichnet der Begriff:
+
+- 1. :: ‚ÄNutzfahrzeug‚Äú: ein Kraftfahrzeug samt zugeh√∂rigem Anh√§nger oder Sattelanh√§nger, das der Bef√∂rderung von G√ºtern oder Fahrg√§sten dient und der Fahrzeugklasse M_{2}, M_{3}, N_{2}, N_{3}, O_{3}, O_{4} des Anhangs II der Richtlinie 2007/46/EG des Europ√§ischen Parlaments und des Rates vom 5. September 2007 zur Schaffung eines Rahmens f√ºr die Genehmigung von Kraftfahrzeugen und Kraftfahrzeuganh√§ngern sowie von Systemen, Bauteilen und selbstst√§ndigen technischen Einheiten f√ºr diese Fahrzeuge (Rahmenrichtlinie) (ABl. L 263 vom 9.10.2007, S. 1) oder der Fahrzeugklasse T_{b} nach Artikel 4 Nummer 1 Buchstabe b der Verordnung (EU) Nr. 167/2013 des Europ√§ischen Parlaments und des Rates vom 5. Februar 2013 √ºber die Genehmigung und Markt√ºberwachung von land- und forstwirtschaftlichen Fahrzeugen (ABl. L 60 vom 2.3.2013, S. 1), die zuletzt durch die Delegierte Verordnung (EU) 2016/1788 (ABl. L 277 vom 13.10.2016, S. 1) ge√§ndert worden ist, angeh√∂rt,
+- 2. :: "Kontrolle": die von den Beh√∂rden nicht angek√ºndigte und somit unerwartete, auf √∂ffentlichen Stra√üen oder hierf√ºr durch die nach ¬ß 3 Absatz 1 zust√§ndigen Beh√∂rden gesondert bestimmten Fl√§chen durchgef√ºhrte √úberwachung, Pr√ºfung oder Untersuchung eines Nutzfahrzeugs hinsichtlich seines technischen Zustands nach den Ma√ügaben des ¬ß 5 durch die zust√§ndigen Beh√∂rden,
+- 3. :: ‚ÄPr√ºfpunkt‚Äú: die technische Ausr√ºstung und Beschaffenheit der Nutzfahrzeuge, die kontrolliert werden sollen und die Sicherung der mit ihnen bef√∂rderten Ladung; die Pr√ºfpunkte sind in den Anh√§ngen II, III Abschnitt II und im Anhang IV der Richtlinie 2014/47/EU des Europ√§ischen Parlaments und des Rates vom 3. April 2014 √ºber die technische Unterwegskontrolle der Verkehrs- und Betriebssicherheit von Nutzfahrzeugen, die in der Union am Stra√üenverkehr teilnehmen, und zur Aufhebung der Richtlinie 2000/30/EG (ABl. L 127 vom 29.4.2014, S. 134; L 197 vom 4.7.2014, S. 87) aufgelistet,
+- 4. :: "Mitgliedstaaten": solche, die Mitgliedstaaten der Europ√§ischen Union oder Vertragsstaaten des Abkommens √ºber den Europ√§ischen Wirtschaftsraum sind,
+- 5. :: ‚ÄSichtpr√ºfung‚Äú: Inaugenscheinnahme auch im Zusammenhang mit Bet√§tigung der betreffenden Einrichtungen,
+- 6. :: ‚Ägeringe M√§ngel‚Äú: solche ohne bedeutende Auswirkung auf die Fahrzeugsicherheit oder auf die Umwelt sowie andere geringf√ºgige Unregelm√§√üigkeiten,
+- 7. :: ‚Äerhebliche M√§ngel‚Äú: solche, die die Fahrzeugsicherheit oder die Umwelt beeintr√§chtigen oder durch die andere Verkehrsteilnehmer gef√§hrdet werden k√∂nnen oder andere bedeutende Unregelm√§√üigkeiten,
+- 8. :: ‚Ägef√§hrliche M√§ngel‚Äú: solche, die eine direkte und unmittelbare Gefahr f√ºr die Stra√üenverkehrssicherheit darstellen oder die Umwelt beeintr√§chtigen.
+
+
+¬ß 3 - Zust√§ndigkeiten
+
+(1) Die Kontrollen f√ºhren die nach Bundes- und Landesrecht zust√§ndigen Beh√∂rden durch.
+(2) Die zust√§ndigen Beh√∂rden k√∂nnen amtlich anerkannte Sachverst√§ndige und Pr√ºfer f√ºr den Kraftfahrzeugverkehr nach dem Kraftfahrsachverst√§ndigengesetz, Pr√ºfingenieure nach Anlage VIIIb Nummer 3.9 der Stra√üenverkehrs-Zulassungs-Ordnung oder die f√ºr die Durchf√ºhrung von Sicherheitspr√ºfungen anerkannten Kraftfahrzeugwerkst√§tten aus gegebenem Anlass beauftragen, an den technischen Kontrollen ganz oder teilweise mitzuwirken.
+(3) Das Bundesamt f√ºr G√ºterverkehr wird als die f√ºr die Bundesrepublik Deutschland zust√§ndige Kontaktstelle bestimmt, die im Rahmen dieser Verordnung die Informationen und die Amtshilfe unter den Mitgliedstaaten und deren Beh√∂rden und das Berichtswesen mit der Kommission der Europ√§ischen Union entsprechend der ¬ß¬ß 8 bis 10 durchf√ºhrt.
+
+¬ß 4 - H√§ufigkeit der Kontrollen
+
+(1) Die zust√§ndigen Beh√∂rden stellen sicher, dass in ihrem sachlichen und √∂rtlichen Zust√§ndigkeitsbereich ein ausreichender Anteil an Nutzfahrzeugen den in dieser Verordnung vorgesehenen Kontrollen unterworfen wird, um zu pr√ºfen, ob die technischen Vorschriften in den Zeitr√§umen zwischen den nach ¬ß 29 der Stra√üenverkehrs-Zulassungs-Ordnung oder der Richtlinie 2014/45/EU des Europ√§ischen Parlaments und des Rates vom 3. April 2014 √ºber die regelm√§√üige technische √úberwachung von Kraftfahrzeugen und Kraftfahrzeuganh√§ngern und zur Aufhebung der Richtlinie 2009/40/EG (ABl. L 127 vom 29.4.2014, S. 51; L 334 vom 22.12.2015, S. 66) vorgeschriebenen Untersuchungen der Nutzfahrzeuge eingehalten werden.
+(2) Ausreichend ist ein repr√§sentativer Anteil an den im jeweiligen Land zugelassenen Nutzfahrzeugen und dem Verkehrsaufkommen mit Nutzfahrzeugen. Die Zahlen √ºber den jeweiligen Bestand der Nutzfahrzeuge und das Verkehrsaufkommen mit Nutzfahrzeugen in den L√§ndern werden alle zwei Jahre zum 30. Juni f√ºr die vorangegangenen zwei Jahre den L√§ndern durch das Bundesamt f√ºr G√ºterverkehr in Abstimmung mit dem Kraftfahrt-Bundesamt zur Verf√ºgung gestellt.
+
+¬ß 5 - Kontrollen auf der Stra√üe
+
+(1) Die Auswahl eines Fahrzeugs f√ºr die Kontrolle und die Durchf√ºhrung der Kontrollen erfolgt
+
+- 1. :: in Ausf√ºhrung von Artikel 3 der Verordnung (EG) Nr. 1100/2008 des Europ√§ischen Parlaments und des Rates vom 22. Oktober 2008 √ºber den Abbau von Grenzkontrollen der Mitgliedstaaten im Stra√üen- und Binnenschiffsverkehr (kodifizierte Fassung) (ABl. L 304 vom 14.11.2008, S. 63) und Artikel 1 der Verordnung (EWG) Nr. 3912/92 des Rates vom 17. Dezember 1992 √ºber innerhalb der Gemeinschaft durchgef√ºhrte Kontrollen im Stra√üen- und Binnenschiffsverkehr von in einem Drittland registrierten oder zum Verkehr zugelassenen Verkehrsmitteln (ABl. L 395 vom 31.12.1992, S. 6),
+- 2. :: ohne Unterscheidung hinsichtlich der Staatsangeh√∂rigkeit des Fahrers oder des Staates, in dem das Nutzfahrzeug zugelassen oder in Betrieb genommen wurde,
+- 3. :: verdachtsunabh√§ngig oder wenn der Verdacht besteht, dass von dem Fahrzeug eine Gefahr f√ºr die Stra√üenverkehrssicherheit oder die Umwelt ausgeht oder -- sobald und soweit m√∂glich -- durch Ermitteln von Fahrzeugen, die von Unternehmen mit einem hohen Risikoprofil im Sinne des Artikels 6 der Richtlinie 2014/47/EU betrieben werden.
+
+(2) Das System der Kontrollen umfasst anf√§ngliche technische Unterwegskontrollen nach den Abs√§tzen 3 und 4 und gr√ºndlichere technische Unterwegskontrollen nach Absatz 5.
+(3) Jede anf√§ngliche technische Unterwegskontrolle beinhaltet:
+
+- 1. :: eine Pr√ºfung des letzten f√ºr das Nutzfahrzeug erstellten Kontrollberichts √ºber eine Kontrolle nach der Richtlinie 2014/47/EU einschlie√ülich der Pr√ºfung, ob die dort festgestellten M√§ngel behoben worden sind,
+- 2. :: eine Pr√ºfung der letzten Pr√ºfbescheinigung nach der Richtlinie 2014/45/EU,
+- 3. :: eine Sichtpr√ºfung des technischen Zustandes des Nutzfahrzeugs.
+
+Der Kontrollbericht nach Nummer 1 und die Pr√ºfbescheinigung nach Nummer 2 sind zum Zweck der Kontrolle im Fahrzeug mitzuf√ºhren.
+
+(4) Zus√§tzlich zu den im Absatz 3 genannten Pr√ºfarten kann die anf√§ngliche technische Unterwegskontrolle Folgendes beinhalten:
+
+- 1. :: Sichtpr√ºfung der Sicherung der Ladung des Fahrzeugs in √úbereinstimmung mit ¬ß 22 Absatz 1 der Stra√üenverkehrs-Ordnung und Anhang III Abschnitt II der Richtlinie 2014/47/EU,
+- 2. :: technische Pr√ºfung von im Anhang II der Richtlinie 2014/47/EU aufgef√ºhrten Positionen nach jeder f√ºr zweckm√§√üig erachteten Methode.
+
+(5) Wird bei der anf√§nglichen technischen Unterwegskontrolle festgestellt, dass bestimmte in Anhang II der Richtlinie 2014/47/EU aufgef√ºhrte Positionen nicht √ºberpr√ºft werden k√∂nnen, eine solche Pr√ºfung aber f√ºr notwendig gehalten wird, wird das Fahrzeug oder sein Anh√§nger einer gr√ºndlicheren Unterwegskontrolle unterzogen. Bei der gr√ºndlicheren Unterwegskontrolle werden insbesondere die Sicherheit der Brems- und Lenkanlage, der Reifen, der R√§der, des Fahrgestells und die Umweltbelastung ber√ºcksichtigt.
+(6) Die gr√ºndlichere technische Unterwegskontrolle wird in einer Untersuchungsstelle nach Anlage VIIId der Stra√üenverkehrs-Zulassungs-Ordnung, unter Einsatz einer mobilen Kontrolleinheit oder in einer speziellen Einrichtung f√ºr Unterwegskontrollen durchgef√ºhrt. Soll die gr√ºndlichere Kontrolle in einer Pr√ºfstelle oder in einer speziellen Einrichtung f√ºr Unterwegskontrollen durchgef√ºhrt werden, sind die Kontrollen so rasch wie m√∂glich in einer der am n√§chsten gelegenen nutzbaren Pr√ºfstellen oder Einrichtungen durchzuf√ºhren. Mobile Kontrolleinheiten und spezielle Einrichtungen f√ºr Unterwegskontrollen m√ºssen √ºber geeignete Ausstattungen zur Durchf√ºhrung einer gr√ºndlicheren Kontrolle verf√ºgen, insbesondere zur Beurteilung des Zustandes der Bremsen und der Bremswirkung, der Lenkung und der Aufh√§ngung des Fahrzeugs und der vom Fahrzeug ausgehenden Umweltbelastung. Die Pr√ºfer und deren Beauftragte, die die gr√ºndlichere Kontrolle durchf√ºhren, m√ºssen die Mindestanforderungen an die Qualifikation und Ausbildung nach Artikel 13 und Anhang IV der Richtlinie 2014/45/EU erf√ºllen.
+(7) Wenn aus dem Bericht √ºber eine Kontrolle nach der Richtlinie 2014/47/EU oder aus einer Pr√ºfbescheinigung nach der Richtlinie 2014/45/EU hervorgeht, dass eine der in Anhang II aufgef√ºhrten Positionen w√§hrend der vorangegangenen drei Monate bereits Gegenstand einer Kontrolle war, wird bei der Kontrolle auf die erneute √úberpr√ºfung verzichtet, es sei denn, der Zustand stimmt mit dem Ergebnis des Berichts oder der Pr√ºfbescheinigung nicht √ºberein oder es liegt ein offensichtlicher Mangel vor.
+
+¬ß 6 - Kontrollbericht
+
+Die zust√§ndigen Beh√∂rden oder deren Beauftragte haben einen Kontrollbericht nach dem Muster des Anhangs IV der Richtlinie 2014/47/EU zu fertigen, wenn ein erheblicher oder gef√§hrlicher Mangel festgestellt oder eine gr√ºndlichere technische Unterwegskontrolle durchgef√ºhrt wurde. Eine Ausfertigung des Kontrollberichts erh√§lt der Fahrer des gepr√ºften Nutzfahrzeugs.
+
+¬ß 7 - Bewertung von M√§ngeln und Folgema√ünahmen
+
+(1) Die bei der Kontrolle festgestellten M√§ngel werden nach der im Anhang II der Richtlinie 2014/47/EU vorgenommenen Bewertung in eine der Gruppen: geringe M√§ngel, erhebliche M√§ngel oder gef√§hrliche M√§ngel eingestuft. Weist ein Fahrzeug M√§ngel auf, die in mehrere M√§ngelgruppen fallen, so wird es in die Gruppe eingeordnet, die dem schwerwiegendsten Mangel entspricht. Ein Fahrzeug mit mehreren M√§ngeln innerhalb der gleichen Pr√ºfbereiche der technischen Unterwegskontrolle nach Anhang II Nummer 1 der Richtlinie 2014/47/EU wird in die n√§chsth√∂here M√§ngelgruppe eingestuft, wenn davon auszugehen ist, dass das Zusammenwirken dieser M√§ngel eine gr√∂√üere Gef√§hrdung der Stra√üenverkehrssicherheit oder der Umwelt bewirkt.
+(2) Werden bei der √úberpr√ºfung eines Fahrzeugs erhebliche oder gef√§hrliche M√§ngel festgestellt, kann die Benutzung des Fahrzeugs bis zur Beseitigung der M√§ngel vorl√§ufig untersagt werden. Sind gef√§hrliche M√§ngel festgestellt worden, darf eine vorl√§ufige Nutzung des Fahrzeugs allein zu dem Zweck der Beseitigung der M√§ngel gestattet werden, wenn bei dem Betrieb des Fahrzeugs keine unmittelbaren Gefahren f√ºr die Sicherheit der Insassen oder anderer Verkehrsteilnehmer oder f√ºr die Umwelt bestehen. Bei M√§ngeln, die nicht unverz√ºglich beseitigt werden m√ºssen, bestimmt die zust√§ndige Beh√∂rde eine angemessene Frist, binnen derer die M√§ngel beseitigt werden m√ºssen. Die Befugnis zur vorl√§ufigen Weiternutzung des Fahrzeugs kann mit Bedingungen und Auflagen verbunden werden.
+(3) Unbeschadet des Absatzes 2 k√∂nnen von der zust√§ndigen Beh√∂rde bei erheblichen oder gef√§hrlichen M√§ngeln folgende Ma√ünahmen veranlasst werden:
+
+- 1. :: √úbermittlung des Kontrollberichts an die zust√§ndige Zulassungsbeh√∂rde, damit diese √ºber Anordnungen nach ¬ß 5 der Fahrzeug-Zulassungs-Verordnung entscheiden kann,
+- 2. :: die Verweigerung der Einfahrt des Nutzfahrzeugs, das in einem Drittland zugelassen ist, in die Bundesrepublik Deutschland.
+
+
+¬ß 8 - Informationen unter den Mitgliedstaaten
+
+Die obersten Landesbeh√∂rden oder die von ihnen beauftragten Stellen teilen j√§hrlich zum 30. Juni dem Bundesamt f√ºr G√ºterverkehr zur Durchf√ºhrung der Informationen unter den Mitgliedstaaten mit, welche Beh√∂rde in ihrem Land f√ºr die Durchf√ºhrung der Kontrollen zust√§ndig und wer Ansprechpartner ist.
+
+¬ß 9 - Aufgaben der nationalen Kontaktstelle; Zusammenarbeit zwischen den Beh√∂rden der Mitgliedstaaten
+
+(1) Das Bundesamt f√ºr G√ºterverkehr nimmt die Aufgaben als nationale Kontaktstelle im Sinne dieser Verordnung wahr. Meldungen, Mitteilungen und Ersuchen nach den Abs√§tzen 2 bis 5 richten die zust√§ndigen Beh√∂rden der L√§nder unmittelbar an die nationale Kontaktstelle.
+(2) Werden an einem nicht in Deutschland zugelassenen Fahrzeug erhebliche oder gef√§hrliche M√§ngel festgestellt, die zu einer Einschr√§nkung oder einem Verbot der Nutzung des Fahrzeugs f√ºhren, hat die zust√§ndige Beh√∂rde das Ergebnis der Kontrolle an die nationale Kontaktstelle mit den Angaben des Kontrollberichts gem√§√ü Anhang IV der Richtlinie 2014/47/EU zu √ºbermitteln. Die nationale Kontaktstelle unterrichtet die Kontaktstelle des Mitgliedstaats, in dem das Fahrzeug zugelassen ist, √ºber das Ergebnis der Kontrolle, indem sie dieser die Angaben des Kontrollberichts gem√§√ü Anhang IV der Richtlinie 2014/47/EU √ºbermittelt. Weitere Ma√ünahmen nach dieser Verordnung bleiben unber√ºhrt.
+(3) Neben der Meldung nach Absatz 1 kann die nationale Kontaktstelle die zust√§ndige Beh√∂rde des Mitgliedstaats, in dem das Fahrzeug zugelassen ist, √ºber die Kontaktstelle jenes Mitgliedstaats ersuchen, gegen√ºber dem Zuwiderhandelnden oder dem Transportunternehmen geeignete Ma√ünahmen, insbesondere die erneute Durchf√ºhrung der Pr√ºfung im Rahmen der technischen √úberwachung des Fahrzeugs, zu ergreifen.
+(4) Die nationale Kontaktstelle ist zust√§ndige Beh√∂rde im Sinne des ¬ß 8a Absatz 1 des Verwaltungsverfahrensgesetzes bei der Durchf√ºhrung der Richtlinie 2014/47/EU.
+(5) Wird der nationalen Kontaktstelle durch die Kontaktstelle eines Mitgliedstaats ein erheblicher oder gef√§hrlicher Mangel an einem in Deutschland zugelassenen Fahrzeug entsprechend Absatz 2 gemeldet oder ersucht diese Kontaktstelle um angemessene Ma√ünahmen entsprechend Absatz 3, so unterrichtet die nationale Kontaktstelle hiervon die nach dieser Verordnung zust√§ndige Beh√∂rde des Landes, in dem das Fahrzeug zugelassen ist, welche die erforderlichen Ma√ünahmen ergreift.
+
+¬ß 10 - Berichtswesen
+
+(1) Die nach Bundes- und Landesrecht zust√§ndigen Beh√∂rden √ºbermitteln dem Bundesamt f√ºr G√ºterverkehr jeweils f√ºr zwei Kalenderjahre sp√§testens zwei Monate nach deren Ablauf einen nach dem Muster in Anlage 3 f√ºr ihren Bereich erstellten Bericht √ºber die Anwendung dieser Verordnung mit folgenden Angaben:
+
+- 1. :: Anzahl der kontrollierten Nutzfahrzeuge, aufgeschl√ºsselt nach den Fahrzeugklassen und nach dem Zulassungsland gem√§√ü des Anhangs V (√úbersichtstabelle) der Richtlinie 2014/47/EU,
+- 2. :: Anzahl der festgestellten M√§ngel zu den Pr√ºfpunkten des Anhangs IV Nummer 10 der Richtlinie 2014/47/EU, aufgeschl√ºsselt nach den Fahrzeugklassen und nach dem Zulassungsland gem√§√ü des Anhangs V (Ergebnisse der gr√ºndlicheren Kontrollen) der Richtlinie 2014/47/EU.
+
+Das Musterformular ist in elektronischem Format f√ºr jedes Zulassungsland zu erstellen und dem Bundesamt f√ºr G√ºterverkehr ausschlie√ülich per De-Mail oder E-Mail zu √ºbermitteln.
+
+(2) Das Bundesamt f√ºr G√ºterverkehr erstellt auf Grund der Berichte nach Absatz 1 einen f√ºr Deutschland zusammengefassten Bericht und √ºbersendet diesen dem Bundesministerium f√ºr Verkehr und digitale Infrastruktur zur Weiterleitung an die Kommission der Europ√§ischen Union. Der Bericht wird den obersten Verkehrsbeh√∂rden der L√§nder √ºbermittelt.
+(3) (weggefallen)
+
+¬ß 11 - Kontrollen des Bundesamtes f√ºr G√ºterverkehr, der Bundespolizei und der Zollverwaltung
+
+Diese Verordnung wird entsprechend angewendet durch:
+
+- 1. :: das Bundesamt f√ºr G√ºterverkehr gem√§√ü ¬ß 11 Abs. 2 Nr. 3 Buchstabe m des G√ºterkraftverkehrsgesetzes,
+- 2. :: die Bundespolizei bei Einfahrten von Nutzfahrzeugen aus einem Drittland nach Deutschland im Rahmen seiner Gefahrenabwehr und
+- 3. :: den Grenzzolldienst bei Kontrollen an den Grenz√ºberg√§ngen und im grenznahen Raum.
+
+
+¬ß 12 - Inkrafttreten
+
+Diese Verordnung tritt am ersten Tage des dritten auf die Verk√ºndung folgenden Kalendermonats in Kraft.
+
+Schlussformel
+
+Der Bundesrat hat zugestimmt.
+
+Anlage 1 - (weggefallen)
+
+
+Anlage 2 - (weggefallen)
+
+
+Anlage 3 - (zu ¬ß 10 Absatz 1)Muster des Formulars f√ºr den Bericht an das Bundesamt f√ºr G√ºterverkehr √ºber die Anzahl der kontrollierten Nutzfahrzeuge und √ºber Verst√∂√üe und Ma√ünahmen bei festgestellten technischen M√§ngeln
+
+(Fundstelle: BGBl. I 2018, 547 --- 548)
+\\
+\\
+
+| Berichterstattendes Land: ..........¬† | Bundespolizei/Zollverwaltung: .......... |
+| Zulassungsstaat: ..........¬†          | Zeitraum: von ..........¬†bis ..........  |
+
+\\
+\\
+Fahrzeug-\\
+klasse
+N
+_{2}
+N
+_{3}
+O
+_{3}
+O
+_{4}
+M
+_{2}
+M
+_{3}
+T
+_{b}
+Andere Fahr-\\
+zeugklassen
+Insgesamt
+†
+Anzahl\\
+kontrollierter Fahrzeuge
+Anzahl von\\
+Untersagungen der Weiterfahrt
+Anzahl\\
+kontrollierter Fahrzeuge
+Anzahl von\\
+Untersagungen der Weiterfahrt
+Anzahl\\
+kontrollierter Fahrzeuge
+Anzahl von\\
+Untersagungen der Weiterfahrt
+Anzahl\\
+kontrollierter Fahrzeuge
+Anzahl von\\
+Untersagungen der Weiterfahrt
+Anzahl\\
+kontrollierter Fahrzeuge
+Anzahl von\\
+Untersagungen der Weiterfahrt
+Anzahl\\
+kontrollierter Fahrzeuge
+Anzahl von\\
+Untersagungen der Weiterfahrt
+Anzahl\\
+kontrollierter Fahrzeuge
+Anzahl von\\
+Untersagungen der Weiterfahrt
+Anzahl\\
+kontrollierter Fahrzeuge
+Anzahl von\\
+Untersagungen der Weiterfahrt
+Anzahl\\
+kontrollierter Fahrzeuge
+Anzahl\\
+von\\
+Untersagungen der Weiterfahrt
+Gesamt
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+M√§ngel im Einzelnen
+†
+Kontrolliert
+Nicht vorschriftsm√§√üig
+Kontrolliert
+Nicht vorschriftsm√§√üig
+Kontrolliert
+Nicht vorschriftsm√§√üig
+Kontrolliert
+Nicht vorschriftsm√§√üig
+Kontrolliert
+Nicht vorschriftsm√§√üig
+Kontrolliert
+Nicht vorschriftsm√§√üig
+Kontrolliert
+Nicht vorschriftsm√§√üig
+Kontrolliert
+Nicht vorschriftsm√§√üig
+Kontrolliert
+Nicht vorschriftsm√§√üig
+(0)
+Identifizie-\\
+rung
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+(1)
+Brems-\\
+anlage
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+(2)
+Lenkung
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+(3)
+Sicht
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+(4)
+Lichtanlage\\
+und Elektrik
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+(5)
+Achsen,\\
+R√§der,\\
+Reifen,\\
+Aufh√§n-\\
+gung
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+(6)
+Fahrgestell\\
+und am\\
+Fahrgestell\\
+befestigte\\
+Teile
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+(7)
+Sonstige\\
+Ger√§te ein-\\
+schlie√ülich\\
+Fahrten-\\
+schreiber\\
+und\\
+Geschwin-\\
+digkeits-\\
+begrenzer
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+(8)
+Umwelt-\\
+belastung\\
+durch\\
+Emissionen\\
+und Aus-\\
+tritt von\\
+Kraftstoff\\
+und/oder √ñl
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+(9)
+Zusatztests\\
+f√ºr M
+_{2}
+/M
+_{3}
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+(10)
+¬†Ladungs-\\
+sicherung
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†
+†

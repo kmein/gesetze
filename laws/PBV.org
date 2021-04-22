@@ -1,0 +1,3626 @@
+[PBV] Verordnung √ºber die Rechnungs- und Buchf√ºhrungspflichten der Pflegeeinrichtungen  (Pflege-Buchf√ºhrungsverordnung - PBV)
+
+Ausfertigungsdatum: 22.11.1995
+
+ 
+
+Eingangsformel
+
+Auf Grund des ¬ß 83 Abs. 1 Satz 1 Nr. 3 des Elften Buches Sozialgesetzbuch - Soziale Pflegeversicherung - vom 26. Mai 1994 (BGBl. I S. 1014) verordnet die Bundesregierung und auf Grund des durch Artikel 1 Nr. 8 des Gesetzes vom 19. Dezember 1985 (BGBl. I S. 2355) eingef√ºgten und durch Artikel 1 Nr. 7 Buchstabe a des Gesetzes vom 24. Juni 1994 (BGBl. I S. 1377) ge√§nderten ¬ß 330 Abs. 1 des Handelsgesetzbuchs verordnet das Bundesministerium der Justiz im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium f√ºr Wirtschaft:
+
+Inhalts√ºbersicht
+
+| ¬ß 1  | Anwendungsbereich                         |
+| ¬ß 2  | Gesch√§ftsjahr                             |
+| ¬ß 3  | Buchf√ºhrung, Inventar                     |
+| ¬ß 4  | Jahresabschlu√ü                            |
+| ¬ß 5  | Einzelvorschriften zur Bilanz             |
+| ¬ß 6  | Aufbewahrung und Vorlegung von Unterlagen |
+| ¬ß 7  | Kosten- und Leistungsrechnung             |
+| ¬ß 8  | Wahlrecht f√ºr Kapitalgesellschaften       |
+| ¬ß 9  | Befreiungen                               |
+| ¬ß 10 | Ordnungswidrigkeiten                      |
+| ¬ß 11 | Inkrafttreten und √úbergangsvorschriften   |
+
+| Anlage 1  | Gliederung der Bilanz                                              |
+| Anlage 2  | Gliederung der Gewinn- und Verlustrechnung                         |
+| Anlage 3a | Anlagennachweis                                                    |
+| Anlage 3b | Nachweis der F√∂rderungen nach Landesrecht (F√∂rdernachweis)         |
+| Anlage 4  | Kontenrahmen f√ºr die Buchf√ºhrung                                   |
+| Anlage 5  | Kostenstellenrahmen f√ºr die Kosten- und Leistungsrechnung (Muster) |
+| Anlage 6  | Kostentr√§ger√ºbersicht (Muster)                                     |
+
+
+¬ß 1 - Anwendungsbereich
+
+(1) Die Rechnungs- und Buchf√ºhrungspflichten der Pflegeeinrichtungen richten sich nach dieser Verordnung, unabh√§ngig davon, ob die Pflegeeinrichtung Kaufmann im Sinne des Handelsgesetzbuchs ist, und unabh√§ngig von der Rechtsform der Pflegeeinrichtung. Rechnungs-, Buchf√ºhrungs- und Aufzeichnungspflichten nach anderen Vorschriften bleiben unber√ºhrt.
+(2) Pflegeeinrichtungen im Sinne dieser Verordnung sind
+
+- 1. :: ambulante Pflegeeinrichtungen (Pflegedienste),
+- 2. :: teilstation√§re und vollstation√§re Pflegeeinrichtungen (Pflegeheime),
+
+mit denen ein Versorgungsvertrag nach dem Elften Buch Sozialgesetzbuch besteht (zugelassene Pflegeeinrichtungen). Erbringt eine zugelassene Pflegeeinrichtung neben Leistungen nach dem Elften Buch Sozialgesetzbuch andere Sozialleistungen im Sinne des Ersten Buches Sozialgesetzbuch (gemischte Einrichtung), so sind ihre Rechnungs- und Buchf√ºhrungspflichten nach dieser Verordnung auf die Leistungen beschr√§nkt, f√ºr die sie nach dem Elften Buch Sozialgesetzbuch als Pflegeeinrichtung zugelassen ist.
+
+
+¬ß 2 - Gesch√§ftsjahr
+
+Das Gesch√§ftsjahr ist das Kalenderjahr.
+
+¬ß 3 - Buchf√ºhrung, Inventar
+
+(1) Die Pflegeeinrichtungen f√ºhren ihre B√ºcher nach den Regeln der kaufm√§nnischen doppelten Buchf√ºhrung. F√ºr Buchf√ºhrung und Inventar gelten die ¬ß¬ß 238 bis 241 des Handelsgesetzbuchs.
+(2) Die Konten sind nach dem Kontenrahmen der Anlage 4 einzurichten. Bei Verwendung eines hiervon abweichenden Kontenplanes hat die Pflegeeinrichtung durch ein ordnungsm√§√üiges √úberleitungsverfahren die Umschl√ºsselung auf den Kontenrahmen nach Satz 1 zu gew√§hrleisten.
+
+¬ß 4 - Jahresabschlu√ü
+
+(1) Der Jahresabschlu√ü der Pflegeeinrichtung besteht aus:
+
+- 1. :: der Bilanz, gegliedert nach Anlage 1,
+- 2. :: der Gewinn- und Verlustrechnung, gegliedert nach Anlage 2, sowie
+- 3. :: dem Anhang einschlie√ülich des nach den Anlagen 3a und 3b gegliederten Anlagen- und F√∂rdernachweises.
+
+Der Jahresabschlu√ü ist innerhalb von sechs Monaten nach Ablauf des Gesch√§ftsjahres aufzustellen. F√ºr die Aufstellung und den Inhalt des Jahresabschlusses gelten ¬ß 242, ¬ß 243 Abs. 1 und 2, die ¬ß¬ß 244 bis 256a, 264 Absatz 1a und 2, ¬ß 265 Abs. 2, 5 und 8, ¬ß 268 Abs. 3, die ¬ß¬ß 272, 274, 275 Absatz 4, ¬ß 277 Absatz 1 und 3 Satz 1, ¬ß 284 Absatz 2 Nummer 1 und 2 des Handelsgesetzbuchs sowie Artikel 28, 42 bis 44 des Einf√ºhrungsgesetzes zum Handelsgesetzbuch.
+
+(2) Soweit ein Tr√§ger mehrere Pflegeeinrichtungen betreibt, die keine Vollkaufleute im Sinne des Handelsgesetzbuchs sind, kann er diese in einem Jahresabschlu√ü zusammenfassen. Dabei ist der Anlagen- und F√∂rdernachweis nach den Anlagen 3a und 3b f√ºr jede Pflegeeinrichtung gesondert zu erstellen. ¬ß 7 bleibt unber√ºhrt.
+(3) Bei gemischten Einrichtungen im Sinne des ¬ß 1 Abs. 2 Satz 2 kann der Tr√§ger
+
+- 1. :: einen auf die Leistungen nach dem Elften Buch Sozialgesetzbuch begrenzten Jahresabschlu√ü (Teil-Jahresabschlu√ü) erstellen oder
+- 2. :: unter Verwendung der Anlagen 3a und 3b die Ertr√§ge und Aufwendungen seiner Pflegeeinrichtungen in einer nach Anlage 2 gegliederten Teil-Gewinn- und Verlustrechnung so zusammenfassen, da√ü sie von den anderen Leistungsbereichen der Einrichtung getrennt sind. Ist eine Abgrenzung nicht m√∂glich, haben die erforderlichen Zuordnungen zu den verschiedenen Leistungsbereichen auf der Grundlage von vorsichtigen und wirklichkeitsnahen Sch√§tzungen zu erfolgen. ¬ß 7 bleibt unber√ºhrt.
+
+(+++ ¬ß 4: Zur Anwendung vgl. ¬ß 11 Abs. 3 F. ab 17.7.2015 +++)\\
+(+++ ¬ß 4 Abs. 1: Zur Anwendung vgl. ¬ß 11 Abs. 4 F. 21.12.2016 +++)
+
+¬ß 5 - Einzelvorschriften zur Bilanz
+
+(1) Verm√∂gensgegenst√§nde des Anlageverm√∂gens, deren Nutzung zeitlich begrenzt ist, sind in der Bilanz h√∂chstens zu den Anschaffungs- oder Herstellungskosten, vermindert um Abschreibungen, anzusetzen. Kann eine zugelassene Pflegeeinrichtung, die erstmals nach den Grunds√§tzen dieser Verordnung eine Bewertung des Anlageverm√∂gens vornimmt, zum Stichtag der Er√∂ffnungsbilanz die tats√§chlichen Anschaffungs- oder Herstellungskosten nicht ohne unvertretbaren Aufwand ermitteln, so sind den Preisverh√§ltnissen des vermutlichen Anschaffungs- oder Herstellungszeitpunkts entsprechende Erfahrungswerte als Anschaffungs- oder Herstellungskosten anzusetzen. Verm√∂gensgegenst√§nde des Anlageverm√∂gens, die bei Pflegeheimen am 1. Januar 1997, bei Pflegediensten am 1. Januar 1998 bis auf einen Erinnerungsposten abgeschrieben sind, k√∂nnen mit diesem Restbuchwert angesetzt werden.
+(2) Verm√∂gensgegenst√§nde des Anlageverm√∂gens, die mit √∂ffentlichen F√∂rdermitteln oder sonstigen Zuwendungen Dritter angeschafft oder hergestellt worden sind, sind auf der Aktivseite der Bilanz mit dem Bruttowert anzusetzen. Auf der Passivseite der Bilanz sind die bereits zweckentsprechend verwendeten F√∂rdermittel oder Zuwendungen als Sonderposten gesondert auszuweisen, vermindert um den Betrag der bis zum jeweiligen Bilanzstichtag angefallenen Abschreibungen auf die mit diesen Mitteln finanzierten Verm√∂gensgegenst√§nde des Anlageverm√∂gens.
+(3) Bei Pflegeeinrichtungen ohne eigene Rechtspers√∂nlichkeit oder in einer anderen Rechtsform als der Kapitalgesellschaft sind in der Bilanz unter dem Eigenkapital als "gew√§hrtes Kapital" die Betr√§ge auszuweisen, die der Einrichtung f√ºr die Erf√ºllung ihres Versorgungsauftrags nach dem Elften Buch Sozialgesetzbuch vom Rechtstr√§ger auf Dauer zur Verf√ºgung gestellt werden. Sonstige Einlagen des Rechtstr√§gers sind als Kapitalr√ºcklagen auszuweisen. F√ºr Gewinnr√ºcklagen gilt ¬ß 272 Abs. 3 des Handelsgesetzbuchs entsprechend.
+(4) Sind der Pflegeeinrichtung vor Aufnahme in den Landespflegeplan f√ºr Lasten aus Darlehen F√∂rdermittel bewilligt worden, so ist in H√∂he des Teils der j√§hrlichen Abschreibungen auf die mit diesen Mitteln finanzierten Verm√∂gensgegenst√§nde des Anlageverm√∂gens, der nicht durch den Tilgungsanteil der F√∂rdermittel gedeckt ist, in der Bilanz auf der Aktivseite ein "Ausgleichsposten aus Darlehensf√∂rderung" zu bilden. Ist der Tilgungsanteil der F√∂rdermittel aus der Darlehensf√∂rderung h√∂her als die j√§hrlichen Abschreibungen auf die mit diesen Mitteln finanzierten Verm√∂gensgegenst√§nde des Anlageverm√∂gens, so ist in der Bilanz in H√∂he des √ºberschie√üenden Betrages auf der Passivseite ein "Ausgleichsposten aus Darlehensf√∂rderung" zu bilden.
+(5) In H√∂he der Abschreibungen auf die aus Eigenmitteln des Tr√§gers der Pflegeeinrichtung vor Beginn der F√∂rderung beschafften Verm√∂gensgegenst√§nde des Anlageverm√∂gens, f√ºr die ein Ausgleich f√ºr die Abnutzung in der Zeit ab Beginn der F√∂rderung verlangt werden kann, ist in der Bilanz auf der Aktivseite ein "Ausgleichsposten f√ºr Eigenmittelf√∂rderung" zu bilden.
+
+¬ß 6 - Aufbewahrung und Vorlegung von Unterlagen
+
+F√ºr die Aufbewahrung von Unterlagen, die Aufbewahrungsfristen und die Vorlegung von Unterlagen gelten die ¬ß¬ß 257 und 261 des Handelsgesetzbuchs.
+
+¬ß 7 - Kosten- und Leistungsrechnung
+
+Die zugelassenen Pflegeeinrichtungen haben eine Kosten- und Leistungsrechnung zu f√ºhren, die eine betriebsinterne Steuerung sowie eine Beurteilung der Wirtschaftlichkeit und Leistungsf√§higkeit erm√∂glicht. Die Kosten- und Leistungsrechnung mu√ü die Ermittlung und Abgrenzung der Kosten der jeweiligen Betriebszweige sowie die Erstellung der Leistungsnachweise nach den Vorschriften des Achten Kapitels des Elften Buches Sozialgesetzbuch erm√∂glichen. Dazu geh√∂ren folgende Mindestanforderungen:
+
+- 1. :: Die Pflegeeinrichtungen haben die auf Grund ihrer Aufgaben und Strukturen erforderlichen Kostenstellen zu bilden; dabei kann der Kostenstellenrahmen nach dem Muster der Anlage 5 angewendet werden.
+- 2. :: Die Kosten sind aus der Buchf√ºhrung nachpr√ºfbar herzuleiten.
+- 3. :: Die Kosten und Leistungen sind verursachungsgerecht nach Kostenstellen zu erfassen; sie sind dar√ºber hinaus den anfordernden Kostenstellen zuzuordnen, soweit dies f√ºr die in Satz 1 genannten Zwecke erforderlich ist.
+- 4. :: Die Kosten und Leistungen sind verursachungsgerecht den Kostentr√§gern zuzuordnen; dabei kann die Kostentr√§ger√ºbersicht nach dem Muster der Anlage 6 angewendet werden.
+- 5. :: Bei Einrichtungen nach ¬ß 4 Abs. 2 oder 3 mu√ü eine verursachungsgerechte Abgrenzung der Kosten und Ertr√§ge mit anteiliger Zuordnung auf die verschiedenen Einrichtungen erfolgen; ¬ß 4 Abs. 3 Nr. 2 Satz 2 gilt entsprechend.
+
+
+¬ß 8 - Wahlrecht f√ºr Kapitalgesellschaften
+
+(1) Pflegeeinrichtungen, die Kapitalgesellschaften im Sinne des Zweiten Abschnitts des Dritten Buches des Handelsgesetzbuchs sind, brauchen auch f√ºr Zwecke des Handelsrechts bei der Aufstellung, Feststellung und Offenlegung ihres Jahresabschlusses nach dem Handelsgesetzbuch die Gliederungsvorschriften der ¬ß¬ß 266 und 275 des Handelsgesetzbuchs nicht anzuwenden. Nehmen die Pflegeeinrichtungen nach Satz 1 das Wahlrecht nach Satz 1 in Anspruch, so haben sie bei der Aufstellung, Feststellung und Offenlegung die Bilanz nach Anlage 1, die Gewinn- und Verlustrechnung nach Anlage 2 und den Anlagennachweis nach Anlage 3a zu gliedern. Nehmen die Pflegeeinrichtungen nach Satz 1 das Wahlrecht nach Satz 1 nicht in Anspruch, haben sie au√üerhalb des handelsrechtlichen Jahresabschlusses zus√§tzlich gesonderte Dokumente bestehend aus den in Satz 2 n√§her bezeichneten Unterlagen zu erstellen. Die im Anlagennachweis vorgeschriebenen Angaben sind auch f√ºr den Posten "Immaterielle Verm√∂gensgegenst√§nde" und jeweils f√ºr die Posten des Finanzanlageverm√∂gens zu machen.
+(2) Bei Inanspruchnahme des Wahlrechts nach Absatz 1 Satz 1 f√ºr Zwecke des Handelsrechts gelten die Erleichterungen f√ºr kleine und mittelgro√üe Kapitalgesellschaften nach ¬ß 266 Abs. 1 Satz 3 und ¬ß 276 des Handelsgesetzbuchs bei der Aufstellung und Feststellung nicht; bei der Offenlegung nach den ¬ß¬ß 325 bis 328 des Handelsgesetzbuchs d√ºrfen ¬ß 266 Abs. 1 Satz 3 und ¬ß 276 des Handelsgesetzbuchs mit der Ma√ügabe angewendet werden, da√ü in der Bilanz nach Anlage 1 und im Anlagennachweis nach Anlage 3a nur die mit Buchstaben und r√∂mischen Zahlen bezeichneten Posten ausgewiesen werden m√ºssen und da√ü in der Gewinn- und Verlustrechnung nach Anlage 2 die Posten 1 bis 8 und 10 zu dem Posten "Rohergebnis" zusammengefa√üt werden d√ºrfen.
+(+++ ¬ß 8: Zur Anwendung vgl. ¬ß 11 Abs. 3 F. ab 17.7.2015 +++)
+
+¬ß 9 - Befreiungen
+
+(1) Von den Vorschriften dieser Verordnung sind befreit:
+
+- 1. :: Pflegedienste mit bis zu sechs Vollzeitkr√§ften; Teilzeitkr√§fte sind auf Vollzeitkr√§fte umzurechnen,
+- 2. :: teilstation√§re Pflegeeinrichtungen und Einrichtungen der Kurzzeitpflege mit bis zu acht Pflegepl√§tzen,
+- 3. :: vollstation√§re Pflegeeinrichtungen mit bis zu zwanzig Pflegepl√§tzen.
+
+F√ºr die Ermittlung der Vollzeitkr√§fte und der Pflegepl√§tze sind die Durchschnittswerte im abgelaufenen Gesch√§ftsjahr ma√ügebend. Satz 1 gilt nicht f√ºr Pflegeeinrichtungen, deren Ums√§tze aus der Erf√ºllung ihres Versorgungsauftrages nach dem Elften Buch des Sozialgesetzbuchs (ohne Investitionsaufwendungen) bei Pflegeheimen 500.000 Euro, bei Pflegediensten 250.000 Euro im abgelaufenen Gesch√§ftsjahr √ºbersteigen.
+
+(2) Von den Vorschriften dieser Verordnung k√∂nnen ganz oder teilweise befreit werden:
+
+- 1. :: Pflegedienste mit sieben bis zu zehn Vollzeitkr√§ften; Teilzeitkr√§fte sind auf Vollzeitkr√§fte umzurechnen,
+- 2. :: teilstation√§re Pflegeeinrichtungen und Einrichtungen der Kurzzeitpflege mit neun bis zu f√ºnfzehn Pflegepl√§tzen,
+- 3. :: vollstation√§re Pflegeeinrichtungen mit einundzwanzig bis zu drei√üig Pflegepl√§tzen.
+
+Absatz 1 Satz 2 gilt entsprechend. √úber eine Befreiung und ihre Versagung entscheiden auf Antrag des Tr√§gers der Pflegeeinrichtung die Landesverb√§nde der Pflegekassen gemeinsam im Einvernehmen mit der zust√§ndigen Landesbeh√∂rde nach pflichtgem√§√üem Ermessen. Ma√üstab f√ºr diese Ermessensentscheidung ist insbesondere die Frage, ob die mit der Anwendung der Verordnung verbundenen Kosten in einem angemessenen Verh√§ltnis zu dem erreichbaren Nutzen stehen oder ob die in ¬ß 7 gestellten Anforderungen nicht auch auf andere Weise erreicht werden k√∂nnen.
+
+(3) Pflegeeinrichtungen, die nach Absatz 1 oder 2 von den Vorschriften dieser Verordnung befreit sind, haben eine vereinfachte Einnahmen- und Ausgabenrechnung zu f√ºhren, die den Grunds√§tzen ordnungsm√§√üiger Buchf√ºhrung entspricht; als Mindestanforderung gelten die in ¬ß 259 Abs. 1 des B√ºrgerlichen Gesetzbuchs aufgef√ºhrten Rechenschaftspflichten entsprechend. Die Auskunfts- und Nachweispflichten der Pflegeeinrichtungen nach dem Siebten und Achten Kapitel des Elften Buches Sozialgesetzbuch bleiben unber√ºhrt.
+
+¬ß 10 - Ordnungswidrigkeiten
+
+Ordnungswidrig im Sinne des ¬ß 334 Abs. 1 Nr. 6 des Handelsgesetzbuchs handelt, wer als Mitglied des vertretungsberechtigten Organs oder des Aufsichtsrats einer Pflegeeinrichtung, die Kapitalgesellschaft ist, bei der Aufstellung oder Feststellung des Jahresabschlusses
+
+- 1. :: entgegen ¬ß 8 Abs. 1 Satz 2
+  - a) :: die Bilanz nicht nach Anlage 1,
+  - b) :: die Gewinn- und Verlustrechnung nicht nach Anlage 2,
+  - c) :: den Anlagennachweis nicht nach Anlage 3a
+
+  gliedert oder
+- 2. :: entgegen ¬ß 8 Abs. 1 Satz 4 die dort bezeichneten zus√§tzlichen Angaben im Anlagennachweis nicht, nicht in der vorgeschriebenen Form oder nicht mit dem vorgeschriebenen Inhalt macht.
+
+(+++ ¬ß 10: Zur Anwendung vgl. ¬ß 11 Abs. 3 F. ab 17.7.2015 +++)
+
+¬ß 11 - Inkrafttreten und √úbergangsvorschriften
+
+(1) Diese Verordnung tritt am 1. Januar 1996 in Kraft.
+(2) ¬ß 279 des Handelsgesetzbuchs ist letztmals auf einen Jahresabschluss anzuwenden, der f√ºr ein Gesch√§ftsjahr aufzustellen ist, das vor dem 1. Januar 2010 beginnt. Die Anlagen 1 und 4 mit den √Ñnderungen, die durch das Bilanzrechtsmodernisierungsgesetz vom 25. Mai 2009 (BGBl. I S. 1102) und durch Artikel 6 Nummer 3 bis 5 der Verordnung zur √Ñnderung von Rechnungslegungsverordnungen vom 9. Juni 2011 (BGBl. I S. 1041) erfolgt sind, sind erstmals auf Jahresabschl√ºsse f√ºr Gesch√§ftsjahre anzuwenden, die nach dem 31. Dezember 2009, im Fall des Artikels 66 Absatz 3 Satz 6 des Einf√ºhrungsgesetzes zum Handelsgesetzbuch nach dem 31. Dezember 2008 beginnen. Die Anlagen 1 und 4 in der bis zum 28. Mai 2009 geltenden Fassung sind letztmals auf einen Jahresabschluss anzuwenden, der f√ºr ein Gesch√§ftsjahr aufzustellen ist, das vor dem 1. Januar 2010 beginnt. Soweit im √úbrigen in dieser Verordnung auf Bestimmungen des Handelsgesetzbuchs in der Fassung des Bilanzrechtsmodernisierungsgesetzes vom 25. Mai 2009 (BGBl. I S. 1102) verwiesen wird, gelten die in den Artikeln 66 und 67 des Einf√ºhrungsgesetzes zum Handelsgesetzbuch enthaltenen √úbergangsregelungen entsprechend. Artikel 66 Abs. 3 Satz 6 des Einf√ºhrungsgesetzes zum Handelsgesetzbuch gilt entsprechend.
+(3) Die ¬ß¬ß 4, 8 und 10, das Formblatt f√ºr die Bilanz (Anlage 1), die Gliederung der Gewinn- und Verlustrechnung (Anlage 2) sowie die Kontenrahmen f√ºr die Buchf√ºhrung in der Fassung des Bilanzrichtlinie-Umsetzungsgesetzes vom 17. Juli 2015 (BGBl. I S. 1245) sind erstmals auf Jahresabschl√ºsse f√ºr nach dem 31. Dezember 2015 beginnende Gesch√§ftsjahre und die gegebenenfalls hierauf bezogenen Dokumente nach ¬ß 8 Absatz 1 Satz 3 anzuwenden.
+(4) ¬ß 4 Absatz 1 Satz 3 und die Nummern 4a, 8, 22 und 28 der Gliederung der Gewinn- und Verlustrechnung (Anlage 2) in der Fassung der Zweiten Verordnung zur √Ñnderung von Rechnungslegungsverordnungen vom 21. Dezember 2016 (BGBl. I S. 3076) sind erstmals auf Jahresabschl√ºsse f√ºr nach dem 31. Dezember 2015 beginnende Gesch√§ftsjahre und die gegebenenfalls hierauf bezogenen Dokumente nach ¬ß 8 Absatz 1 Satz 3 anzuwenden.
+(5) Die Nummern 1 bis 3 der Gliederung der Gewinn- und Verlustrechnung (Anlage 2), der Kontenrahmen f√ºr die Buchf√ºhrung (Anlage 4) sowie die Anlagen 5 und 6 in der Fassung der Zweiten Verordnung zur √Ñnderung von Rechnungslegungsverordnungen vom 21. Dezember 2016 (BGBl. I S. 3076) sind erstmals auf Jahresabschl√ºsse f√ºr nach dem 31. Dezember 2016 beginnende Gesch√§ftsjahre und die gegebenenfalls hierauf bezogenen Dokumente nach ¬ß 8 Absatz 1 Satz 3 anzuwenden.
+
+Schlu√üformel
+
+Der Bundesrat hat zugestimmt.
+
+Anlage 1 - Gliederung der Bilanz*)
+
+(Fundstelle: BGBl. I 1995, 1532 - 1534;\\
+bzgl. der einzelnen √Ñnderungen vgl. Fu√ünote)
+
+\\
+
+#+BEGIN_EXAMPLE
+  Aktivseite
+   
+  A. Anlageverm√∂gen:
+   
+     I.   Immaterielle Verm√∂gensgegenst√§nde
+          1. Selbst geschaffene gewerbliche Schutzrechte und 
+             √§hnliche Rechte und Werte (KUGr.0800)               ......
+          2. entgeltlich erworbene Konzessionen, gewerbliche 
+             Schutzrechte und √§hnliche Rechte und Werte sowie 
+             Lizenzen an solchen Rechten und Werten (KUGr.0801)  ......
+          3. Gesch√§fts- oder Firmenwert (KUGr.0802)            ......
+          4. geleistete Anzahlungen (KUGr.0803)                  ......  ........
+   
+     II.  Sachanlagen:
+          1. Grundst√ºcke und grundst√ºcksgleiche Rechte mit
+             Betriebsbauten einschlie√ülich der Betriebsbauten
+             auf fremden Grundst√ºcken
+             (KGr.01, KUGr.040 u. 042) ........................  ......
+          2. Grundst√ºcke und grundst√ºcksgleiche Rechte mit
+             Wohnbauten einschlie√ülich der Wohnbauten auf
+             fremden Grundst√ºcken
+             (KGr.02, KUGr.041 u. 042, soweit nicht
+              unter 1.) .......................................  ......
+          3. Grundst√ºcke und grundst√ºcksgleiche Rechte
+             ohne Bauten (KGr.03) .............................  ......
+          4. Technische Anlagen (KGr.05) ......................  ......
+          5. Einrichtungen und Ausstattungen ohne Fahrzeuge
+             (KGr.06 ohne KUGr.063) ...........................  ......
+          6. Fahrzeuge (KUGr.063) .............................  ......
+          7. Geleistete Anzahlungen und Anlagen im Bau
+             (KGr.07) .........................................  ......  ........
+                                                                 ------
+   
+     III. Finanzanlagen
+          1. Anteile an verbundenen Unternehmen**)
+             (KUGr.081) .......................................  ......
+          2. Ausleihungen an verbundene Unternehmen**)
+             (KUGr.082) .......................................  ......
+          3. Beteiligungen (KUGr.083) .........................  ......
+          4. Ausleihungen an Unternehmen, mit denen ein
+             Beteiligungsverh√§ltnis besteht**) (KUGr.084) .....  ......
+          5. Wertpapiere des Anlageverm√∂gens (KUGr.085) .......  ......
+          6. Sonstige Finanzanlagen (KUGr.086) ................  ......  ........
+                                                                 ------
+   
+  B. Umlaufverm√∂gen
+   
+     I.   Vorr√§te
+          1. Roh-, Hilfs- und Betriebsstoffe (KUGr.101) .......  ......
+          2. Geleistete Anzahlungen (KUGr.102) ................  ......  ........
+                                                                 ------
+   
+     II.  Forderungen und sonstige Verm√∂gensgegenst√§nde
+          1. Forderungen aus Lieferungen und Leistungen
+             (KGr.11), ........................................  ......
+             davon mit einer Restlaufzeit von mehr als
+             einem Jahr .......................................
+          2. Forderungen an Gesellschafter oder Tr√§ger
+             der Einrichtung (KUGr.160), ......................  ......
+             davon mit einer Restlaufzeit von mehr als
+             einem Jahr .......................................
+          3. Forderungen gegen verbundene Unternehmen**)
+             (KUGr.161), ......................................  ......
+             davon mit einer Restlaufzeit von mehr als
+             einem Jahr .......................................
+          4. Forderungen gegen Unternehmen, mit denen
+             ein Beteiligungsverh√§ltnis besteht**)
+             (KUGr.162), ......................................  ......
+             davon mit einer Restlaufzeit von mehr als
+             einem Jahr .......................................
+          5. Forderungen aus √∂ffentlicher F√∂rderung
+             (KGr.14), ........................................  ......
+             davon mit einer Restlaufzeit von mehr als
+             einem Jahr .......................................
+          6. Forderungen aus nicht-√∂ffentlicher F√∂rderung
+             (KGr.15), ........................................  ......
+             davon mit einer Restlaufzeit von mehr als
+             einem Jahr .......................................
+          7. Eingefordertes, noch nicht eingezahltes Kapital**)  ......
+             (KUGr.165) .......................................
+          8. Sonstige Verm√∂gensgegenst√§nde (KUGr.163, 164)       ......  ........
+                                                                 ------
+             davon mit einer Restlaufzeit von mehr als einem Jahr
+   
+     III. Wertpapiere des Umlaufverm√∂gens
+          (KGr.13), ...........................................          ........
+          davon Anteile
+          an verbundenen Unternehmen ..........................
+   
+      IV. Kassenbestand, Guthaben bei Kreditinstituten
+          und Schecks (KGr.12) ................................          ........
+   
+  C. Ausgleichsposten
+     1. Ausgleichsposten aus Darlehensf√∂rderung
+        (KUGr.171) ............................................  ......
+     2. Ausgleichsposten f√ºr Eigenmittelf√∂rderung
+        (KUGr.172) ............................................  ......  ........
+                                                                 ------
+   
+  D. Rechnungsabgrenzungsposten
+     (KGr.18) .................................................          ........
+   
+  E. Aktive latente Steuern**) (KUGr.164)                                ........
+   
+  F. Aktiver Unterschiedsbetrag aus der Verm√∂gensverrechnung             ........
+   
+  G. Nicht durch Eigenkapital gedeckter Fehlbetrag                       ........
+  -------------------------------------------------------------------------------
+                                                                         ........
+                                                                         ========
+  ----------
+   *) Die Klammerhinweise auf den Kontenrahmen entfallen in der Bilanz.
+  **) Ausweis dieser Posten nur bei Kapitalgesellschaften
+   
+  Passivseite
+   
+  A. Eigenkapital
+     1. Eingefordertes Kapital (KUGr.2003)
+        Gezeichnetes Kapital (KUGr.2001)
+        abz√ºglich nicht eingeforderter ausstehender
+        Einlagen (KUGr.2002) ..................................  ......  ........
+     2. Kapitalr√ºcklagen (KUGr.201) ...........................  ......
+     3. Gewinnr√ºcklagen (KUGr.202) ............................  ......
+     4. Gewinnvortrag/Verlustvortrag (KUGr.203) ...............  ......
+     5. Jahres√ºberschu√ü/Jahresfehlbetrag (KUGr.204) ...........  ......  ........
+                                                                 ------
+   
+  B. Sonderposten aus Zusch√ºssen und Zuweisungen
+     zur Finanzierung des Sachanlageverm√∂gens
+     1. Sonderposten aus √∂ffentlichen F√∂rdermitteln f√ºr
+        Investitionen (KGr.21) ................................  ......
+     2. Sonderposten aus nicht-√∂ffentlicher F√∂rderung f√ºr
+        Investitionen (KGr.22) ................................  ......  ........
+                                                                 ------
+   
+  C. R√ºckstellungen (KGr.24) ..................................          ........
+   
+  D. Verbindlichkeiten
+      1. Verbindlichkeiten aus Lieferungen und Leistungen
+         (KGr.30), ............................................  ......
+         davon mit einer Restlaufzeit
+         bis zu einem Jahr ....................................
+      2. Verbindlichkeiten gegen√ºber Kreditinstituten
+         (KGr.31), ............................................  ......
+         davon mit einer Restlaufzeit
+         bis zu einem Jahr ....................................
+      3. Erhaltene Anzahlungen (KGr.34), ......................  ......
+         davon mit einer Restlaufzeit
+         bis zu einem Jahr ....................................
+      4. Verbindlichkeiten gegen√ºber Gesellschaftern oder dem
+         Tr√§ger der Einrichtung (KUGr.354), ...................  ......
+         davon mit einer Restlaufzeit
+         bis zu einem Jahr ....................................
+      5. Verbindlichkeiten gegen√ºber verbundenen Unternehmen**)
+         (KUGr.355), ..........................................  ......
+         davon mit einer Restlaufzeit
+         bis zu einem Jahr ....................................
+      6. Verbindlichkeiten gegen√ºber Unternehmen, mit denen ein
+         Beteiligungsverh√§ltnis besteht**) (KUGr.356), ........  ......
+         davon mit einer Restlaufzeit
+         bis zu einem Jahr ....................................
+      7. Verbindlichkeiten aus √∂ffentlichen F√∂rdermitteln
+         f√ºr Investitionen (KGr.32), ..........................  ......
+         davon mit einer Restlaufzeit
+         bis zu einem Jahr ....................................
+      8. Verbindlichkeiten aus nicht-√∂ffentlicher F√∂rderung
+         f√ºr Investitionen (KGr.33), ..........................  ......
+         davon mit einer Restlaufzeit
+         bis zu einem Jahr ....................................
+      9. Sonstige Verbindlichkeiten (KUGr.350
+         bis 353, 357, KGr.36) ................................  ......
+         davon mit einer Restlaufzeit bis zu einem Jahr .......
+         davon im Rahmen der sozialen Sicherheit ..............
+     10. Verwahrgeldkonto (KGr.37) ............................  ......  ........
+                                                                 ------
+   
+  E. Ausgleichsposten aus Darlehensf√∂rderung (KGr.23) .........          ........
+   
+  F. Rechnungsabgrenzungsposten (KGr.38) ........................          ........
+   
+  G. Passive latente Steuern (KGr.39)**) ......................          ........
+  -------------------------------------------------------------------------------
+                                                                         ........
+                                                                         ========
+  Eventualverbindlichkeiten aus Anspr√ºchen auf
+  Erstattung von F√∂rdermitteln
+  ----------
+   *) Die Klammerhinweise auf den Kontenrahmen entfallen in der Bilanz.
+  **) Ausweis dieser Posten nur bei Kapitalgesellschaften. 
+#+END_EXAMPLE
+
+(+++ Anlage 1: Zur Anwendung vgl. ¬ß 11 Abs. 3 F. ab 17.7.2015 +++)
+
+Anlage 2 - Gliederung der Gewinn- und Verlustrechnung
+
+(Fundstelle: BGBl. I 1995, 1535 - 1536;\\
+bzgl. der einzelnen √Ñnderungen vgl. Fu√ünote)
+
+\\
+
+#+BEGIN_EXAMPLE
+      1. Ertr√§ge aus ambulanter, teilstation√§rer und vollstation√§rer
+         Pflege sowie aus Kurzzeitpflege
+         (KGr. 40 bis 43) .....................................  ......
+      2. Ertr√§ge aus Unterkunft und Verpflegung
+         (KUGr. 416, 426, 436) ................................  ......
+      3. Ertr√§ge aus Zusatzleistungen und Transportleistungen
+         (KUGr. 417, 4191, 427, 437) ..........................  ......
+      4. Ertr√§ge aus gesonderter Berechnung von Investitionskosten
+         gegen√ºber Pflegebed√ºrftigen
+         (KUGr. 464) ..........................................  ......
+     4a. Umsatzerl√∂se nach ¬ß 277 Absatz 1 des Handelsgesetzbuchs
+         (KUGr. 480 bis 485, 488; KGr. 55),
+         soweit nicht in den Nummern 1 bis 4 enthalten ........  ......
+      5. Zuweisungen und Zusch√ºsse zu Betriebskosten
+         (KGr. 44) ............................................  ......
+      6. Erh√∂hung oder Verminderung des Bestandes an
+         fertigen/unfertigen Erzeugnissen und Leistungen
+         (KUGr. 540) ..........................................  ......
+      7. Andere aktivierte Eigenleistungen
+         (KUGr. 541) ..........................................  ......
+      8. Sonstige betriebliche Ertr√§ge
+         (KUGr. 486, 487; KGr. 52, 53) ........................  ......  ........
+                                                                 ------
+      9. Personalaufwand
+         a) L√∂hne und Geh√§lter (KGr. 60) ......................  ......
+         b) Sozialabgaben, Altersversorgung und sonstige
+            Aufwendungen (KGr. 61 bis 64) .....................  ......
+     10. Materialaufwand
+         a) Lebensmittel (KGr. 65) ............................  ......
+         b) Aufwendungen f√ºr Zusatzleistungen (KGr. 66) .......  ......
+         c) Wasser, Energie, Brennstoffe (KGr. 67) ............  ......
+         d) Wirtschaftsbedarf/Verwaltungsbedarf (KGr. 68, 70) .  ......
+     11. Aufwendungen f√ºr zentrale Dienstleistungen
+         (KUGr.685) ...........................................  ......
+     12. Steuern, Abgaben, Versicherungen (KGr.71) ............  ......
+     13. Sachaufwendungen f√ºr Hilfs- und Nebenbetriebe
+         (KGr.73) .............................................  ......
+     14. Mieten, Pacht, Leasing (KGr.76) ......................  ......  ........
+                                                                 ------  --------
+   
+     Zwischenergebnis .........................................          ........
+   
+     15. Ertr√§ge aus √∂ffentlicher und nicht-√∂ffentlicher
+         F√∂rderung von Investitionen (KGr.45, 46; KUGr.486) ...  ......
+     16. Ertr√§ge aus der Aufl√∂sung von Sonderposten
+         (KGr.47) .............................................  ......
+     17. Ertr√§ge aus der Erstattung von Ausgleichsposten aus
+         Darlehns- und Eigenmittelf√∂rderung (KUGr.487) ........  ......
+     18. Aufwendungen aus der Zuf√ºhrung zu Sonderposten/
+         Verbindlichkeiten (KGr.74) ...........................  ......
+     19. Aufwendungen aus der Zuf√ºhrung zu Ausgleichsposten
+         aus Darlehensf√∂rderung (KUGr.784) ....................  ......
+     20. Abschreibungen
+         a) Abschreibungen auf immaterielle Verm√∂gensgegenst√§nde
+            und Sachanlagen (KUGr.750, 751) ...................  ......
+         b) Abschreibungen auf Forderungen und sonstige
+            Verm√∂gensgegenst√§nde (KUGr. 753, 754) .............  ......
+     21. Aufwendungen f√ºr Instandhaltung und
+         Instandsetzung (KUGr.771) ............................  ......
+     22. Sonstige betriebliche Aufwendungen (KUGr.772) ........  ......  ........
+                                                                 ------  --------
+   
+     Zwischenergebnis .........................................          ........
+   
+     23. Ertr√§ge aus Beteiligungen (KUGr.500*), 501) ..........  ......
+     24. Ertr√§ge aus Finanzanlagen (KUGr.502*), 503) ..........  ......
+     25. Zinsen und √§hnliche Ertr√§ge (KGr.51) .................  ......
+     26. Abschreibungen auf Finanzanlagen und Wertpapiere
+         des Umlaufverm√∂gens (KUGr.752) .......................  ......
+     27. Zinsen und √§hnliche Aufwendungen (KGr.72) ............  ......  ........
+                                                                 ------  --------
+     28. (weggefallen)
+     29. Jahres√ºberschuss/Jahresfehlbetrag ....................          ........
+                                                                         ========
+  ----------
+  *) Ausweis dieser Posten nur bei Kapitalgesellschaften. 
+#+END_EXAMPLE
+
+(+++ Anlage 2: Zur Anwendung vgl. ¬ß 11 Abs. 3 F. ab 17.7.2015 u. ¬ß 11 Abs. 4 u. 5 F. 21.12.2016 +++)
+
+Anlage 3a - Anlagennachweis
+
+(Inhalt: nicht darstellbare Tabelle,\\
+Fundstelle: BGBl. I 1995, 1537;\\
+bzgl. der einzelnen √Ñnderungen vgl. Fu√ünote)
+
+Anlage 3b - Nachweis der F√∂rderungen nach Landesrecht (F√∂rdernachweis)
+
+(Inhalt: nicht darstellbare Tabelle,\\
+Fundstelle: BGBl. I 1995, 1538;\\
+bzgl. der einzelnen √Ñnderungen vgl. Fu√ünote)
+
+Anlage 4 - Kontenrahmen f√ºr die Buchf√ºhrung (Kontenklasse 0-8)
+
+(Fundstelle: BGBl. I 1995, 1539 - 1546;\\
+bzgl. der einzelnen √Ñnderungen vgl. Fu√ünote)
+
+\\
+\\
+
+Konten-\\
+klasse
+
+Konten-\\
+gruppe
+
+Konten-\\
+unter-\\
+gruppe
+
+Text-Erl√§uterung
+
+0
+
+†
+
+†
+
+Kontenklasse 0 Ausstehende Einlagen, Anlageverm√∂gen
+
+†
+
+†
+
+†
+
+Ausstehende Einlagen auf das gezeichnete oder festgesetzte Kapital
+
+†
+
+01
+
+†
+
+Grundst√ºcke und grundst√ºcksgleiche Rechte
+
+†
+
+†
+
+010
+
+Bebaute Grundst√ºcke
+
+†
+
+†
+
+011
+
+Betriebsbauten
+
+†
+
+†
+
+012
+
+Au√üenanlagen
+
+†
+
+02
+
+†
+
+Grundst√ºcke und grundst√ºcksgleiche Rechte mit Wohnbauten
+
+†
+
+†
+
+020
+
+Bebaute Grundst√ºcke
+
+†
+
+†
+
+021
+
+Wohnbauten
+
+†
+
+†
+
+022
+
+Au√üenanlagen
+
+†
+
+03
+
+†
+
+Grundst√ºcke und grundst√ºcksgleiche Rechte ohne Bauten
+
+†
+
+04
+
+†
+
+Bauten auf fremden Grundst√ºcken
+
+†
+
+†
+
+040
+
+Betriebsbauten
+
+†
+
+†
+
+041
+
+Wohnbauten
+
+†
+
+†
+
+042
+
+Au√üenanlagen
+
+†
+
+05
+
+†
+
+Technische Anlagen
+
+†
+
+†
+
+050
+
+in Betriebsbauten
+
+†
+
+†
+
+051
+
+in Wohnbauten
+
+†
+
+†
+
+052
+
+in Au√üenanlagen
+
+†
+
+06
+
+†
+
+Einrichtung und Ausstattung
+
+†
+
+†
+
+060
+
+in Betriebsbauten
+
+†
+
+†
+
+061
+
+in Wohnbauten
+
+†
+
+†
+
+062
+
+in Au√üenanlagen
+
+†
+
+†
+
+063
+
+Fahrzeuge
+
+†
+
+†
+
+064
+
+Geringwertige Wirtschaftsg√ºter (GWG's)
+
+†
+
+†
+
+065
+
+Festwerte in Betriebsbauten
+
+†
+
+†
+
+066
+
+Festwerte in Wohnbauten
+
+†
+
+07
+
+†
+
+Anlagen im Bau, Anzahlungen auf Anlagen
+
+†
+
+†
+
+070
+
+Betriebsbauten
+
+†
+
+†
+
+071
+
+Wohnbauten
+
+†
+
+08
+
+†
+
+Immaterielle Verm√∂gensgegenst√§nde, Beteiligungen und andere Finanzanlagen
+
+†
+
+†
+
+080
+
+Immaterielle Verm√∂gensgegenst√§nde
+
+†
+
+†
+
+0800
+
+Selbst geschaffene gewerbliche Schutzrechte und √§hnliche Rechte und Werte
+
+†
+
+†
+
+0801
+
+entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und √§hnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten
+
+†
+
+†
+
+0802
+
+Gesch√§fts- und Firmenwert
+
+†
+
+†
+
+0803
+
+geleistete Anzahlungen
+
+†
+
+†
+
+081
+
+Anteile an verbundenen Unternehmen*)
+
+†
+
+†
+
+082
+
+Ausleihungen an verbundene Unternehmern*)
+
+†
+
+†
+
+083
+
+Beteiligungen
+
+†
+
+†
+
+084
+
+Ausleihungen an Unternehmen, mit denen ein Beteiligungsverh√§ltnis besteht*)
+
+†
+
+†
+
+085
+
+Wertpapiere des Anlageverm√∂gens
+
+†
+
+†
+
+086
+
+sonstige Finanzanlagen
+
+†
+
+1
+
+†
+
+†
+
+Kontenklasse 1 Umlaufverm√∂gen, Rechnungsabgrenzung
+
+†
+
+10
+
+†
+
+Vorr√§te
+
+†
+
+†
+
+101
+
+Roh-, Hilfs- und Betriebsstoffe
+
+†
+
+†
+
+102
+
+Geleistete Anzahlungen
+
+†
+
+11
+
+†
+
+Forderungen aus, geleistete Anzahlungen auf Lieferungen und Leistungen
+
+†
+
+12
+
+†
+
+Kassenbestand, Guthaben bei Kreditinstituten und Schecks
+
+†
+
+13
+
+†
+
+Wertpapiere des Umlaufverm√∂gens
+
+†
+
+14
+
+†
+
+Forderungen aus √∂ffentlicher F√∂rderung
+
+†
+
+15
+
+†
+
+Forderungen aus nicht-√∂ffentlicher F√∂rderung
+
+†
+
+16
+
+†
+
+Sonstige Verm√∂gensgegenst√§nde
+
+†
+
+†
+
+160
+
+Forderungen an Gesellschafter oder Tr√§ger der Pflegeeinrichtung
+
+†
+
+†
+
+161
+
+Forderungen gegen verbundene Unternehmen*)
+
+†
+
+†
+
+162
+
+Forderungen gegen Unternehmen, mit denen ein Beteiligungsverh√§ltnis besteht*)
+
+†
+
+†
+
+163
+
+Vorsteuer
+
+†
+
+†
+
+164
+
+Sonstige Verm√∂gensgegenst√§nde
+
+†
+
+†
+
+165
+
+Eingefordertes, noch nicht eingezahltes Kapital
+
+†
+
+17
+
+†
+
+Ausgleichsposten
+
+†
+
+†
+
+171
+
+Ausgleichsposten aus Darlehensf√∂rderung
+
+†
+
+†
+
+172
+
+Ausgleichsposten f√ºr Eigenmittelf√∂rderung
+
+†
+
+18
+
+†
+
+Rechnungsabgrenzung
+
+†
+
+19
+
+†
+
+Aktive latente Steuern, Aktiver Unterschiedsbetrag aus der Verm√∂gensverrechnung, Bilanzverlust
+
+†
+
+†
+
+191†
+
+Aktive latente Steuern
+
+†
+
+†
+
+192†
+
+Aktiver Unterschiedsbetrag aus der Verm√∂gensverrechnung
+
+†
+
+†
+
+193†
+
+Bilanzverlust
+
+†
+
+2
+
+†
+
+†
+
+Kontenklasse 2 Eigenkapital, Sonderposten, R√ºckstellungen
+
+†
+
+20
+
+†
+
+Eigenkapital
+
+†
+
+†
+
+200
+
+Gezeichnetes/festgesetztes (gew√§hrtes) Kapital
+
+†
+
+†
+
+2001
+
+Gezeichnetes Kapital/festgesetztes Kapital
+
+†
+
+†
+
+2002
+
+Nicht eingeforderte ausstehende Einlagen
+
+†
+
+†
+
+2003
+
+Eingefordertes Kapital
+
+†
+
+†
+
+201
+
+Kapitalr√ºcklagen
+
+†
+
+†
+
+202
+
+Gewinnr√ºcklagen
+
+†
+
+†
+
+203
+
+Gewinnvortrag/Verlustvortrag
+
+†
+
+†
+
+204
+
+Jahres√ºberschu√ü/Jahresfehlbetrag
+
+†
+
+21
+
+†
+
+Sonderposten aus √∂ffentlichen F√∂rdermitteln f√ºr Investitionen
+
+†
+
+22
+
+†
+
+Sonderposten aus nicht-√∂ffentlicher F√∂rderung f√ºr Investitionen
+
+†
+
+23
+
+†
+
+Ausgleichsposten aus Darlehensf√∂rderung
+
+†
+
+24
+
+†
+
+R√ºckstellungen
+
+†
+
+†
+
+240
+
+Pensionsr√ºckstellungen
+
+†
+
+†
+
+241
+
+Steuerr√ºckstellungen
+
+†
+
+†
+
+242
+
+Urlaubsr√ºckstellungen
+
+†
+
+†
+
+243
+
+Sonstige R√ºckstellungen
+
+†
+
+3
+
+†
+
+†
+
+Kontenklasse 3 Verbindlichkeiten, Rechnungsabgrenzung
+
+†
+
+30
+
+†
+
+Verbindlichkeiten aus Lieferungen und Leistungen
+
+†
+
+31
+
+†
+
+Verbindlichkeiten gegen√ºber Kreditinstituten
+
+†
+
+32
+
+†
+
+Verbindlichkeiten aus √∂ffentlicher F√∂rderung
+
+†
+
+33
+
+†
+
+Verbindlichkeiten aus nicht-√∂ffentlicher F√∂rderung
+
+†
+
+34
+
+†
+
+Erhaltene Anzahlungen
+
+†
+
+35
+
+†
+
+Sonstige Verbindlichkeiten
+
+†
+
+†
+
+350
+
+gegen√ºber Mitarbeitern
+
+†
+
+†
+
+351
+
+gegen√ºber Sozialversicherungstr√§gern
+
+†
+
+†
+
+352
+
+gegen√ºber Finanzbeh√∂rden
+
+†
+
+†
+
+353
+
+gegen√ºber Bewohnern
+
+†
+
+†
+
+354
+
+Verbindlichkeiten gegen√ºber Gesellschafter oder dem Tr√§ger der Einrichtung
+
+†
+
+†
+
+355
+
+Verbindlichkeiten gegen√ºber verbundenen Unternehmen*)
+
+†
+
+†
+
+356
+
+Verbindlichkeiten gegen√ºber Unternehmen, mit denen ein Beteiligungsverh√§ltnis besteht*)
+
+†
+
+†
+
+357
+
+Sonstige Verbindlichkeiten
+
+†
+
+36
+
+†
+
+Umsatzsteuer
+
+†
+
+37
+
+†
+
+Verwahrgeldkonto
+
+†
+
+38
+
+†
+
+Rechnungsabgrenzung
+
+†
+
+39
+
+†
+
+Passive latente Steuern
+
+†
+
+4
+
+†
+
+†
+
+Kontenklasse 4 Betriebliche Ertr√§ge
+
+†
+
+40
+
+†
+
+Ertr√§ge aus ambulanten Pflegeleistungen
+
+†
+
+†
+
+400
+
+Ertr√§ge aus Leistungen der h√§uslichen Pflegehilfe bei Pflegegrad 1
+
+†
+
+†
+
+4000
+
+Pflegekasse
+
+†
+
+†
+
+4001
+
+Sozialhilfetr√§ger
+
+†
+
+†
+
+4002
+
+Selbstzahler
+
+†
+
+†
+
+4003
+
+√úbrige
+
+†
+
+†
+
+401
+
+Ertr√§ge aus Leistungen der h√§uslichen Pflegehilfe bei Pflegegrad 2
+
+†
+
+†
+
+4010
+
+Pflegekasse
+
+†
+
+†
+
+4011
+
+Sozialhilfetr√§ger
+
+†
+
+†
+
+4012
+
+Selbstzahler
+
+†
+
+†
+
+4013
+
+√úbrige
+
+†
+
+†
+
+402
+
+Ertr√§ge aus Leistungen der h√§uslichen Pflegehilfe bei Pflegegrad 3
+
+†
+
+†
+
+4020
+
+Pflegekasse
+
+†
+
+†
+
+4021
+
+Sozialhilfetr√§ger
+
+†
+
+†
+
+4022
+
+Selbstzahler
+
+†
+
+†
+
+4023
+
+√úbrige
+
+†
+
+†
+
+403
+
+Ertr√§ge aus Leistungen der h√§uslichen Pflegehilfe bei Pflegegrad 4
+
+†
+
+†
+
+4030
+
+Pflegekasse
+
+†
+
+†
+
+4031
+
+Sozialhilfetr√§ger
+
+†
+
+†
+
+4032
+
+Selbstzahler
+
+†
+
+†
+
+4033
+
+√úbrige
+
+†
+
+†
+
+404
+
+Ertr√§ge aus Leistungen der h√§uslichen Pflegehilfe bei Pflegegrad 5
+
+†
+
+†
+
+4040
+
+Pflegekasse
+
+†
+
+†
+
+4041
+
+Sozialhilfetr√§ger
+
+†
+
+†
+
+4042
+
+Selbstzahler
+
+†
+
+†
+
+4043
+
+√úbrige
+
+†
+
+†
+
+405
+
+Ertr√§ge aufgrund h√§uslicher Pflege bei Verhinderung der Pflegeperson
+
+†
+
+†
+
+406
+
+Ertr√§ge aufgrund von Regelungen √ºber Pflegehilfsmittel
+
+†
+
+†
+
+407
+
+Sonstige Ertr√§ge aus ambulanten Pflegeleistungen
+
+†
+
+†
+
+4070
+
+Ertr√§ge aus der Erbringung von Leistungen nach ¬ß 45b Absatz 1 Satz 3 SGB XI
+
+†
+
+†
+
+4071
+
+Weitere sonstige Ertr√§ge aus ambulanten Pflegeleistungen
+
+†
+
+†
+
+4072
+
+Ertr√§ge aus ambulanten Pflegedienstleistungen in anderen L√§ndern
+
+†
+
+41
+
+†
+
+Ertr√§ge aus teilstation√§ren Pflegeleistungen
+
+†
+
+†
+
+410
+
+Ertr√§ge aus Pflegeleistungen bei Pflegegrad 1
+
+†
+
+†
+
+4100
+
+Pflegekasse
+
+†
+
+†
+
+4101
+
+Sozialhilfetr√§ger
+
+†
+
+†
+
+4102
+
+Selbstzahler
+
+†
+
+†
+
+4103
+
+√úbrige
+
+†
+
+†
+
+411
+
+Ertr√§ge aus Pflegeleistungen bei Pflegegrad 2
+
+†
+
+†
+
+4110
+
+Pflegekasse
+
+†
+
+†
+
+4111
+
+Sozialhilfetr√§ger
+
+†
+
+†
+
+4112
+
+Selbstzahler
+
+†
+
+†
+
+4113
+
+√úbrige
+
+†
+
+†
+
+412
+
+Ertr√§ge aus Pflegeleistungen bei Pflegegrad 3
+
+†
+
+†
+
+4120
+
+Pflegekasse
+
+†
+
+†
+
+4121
+
+Sozialhilfetr√§ger
+
+†
+
+†
+
+4122
+
+Selbstzahler
+
+†
+
+†
+
+4123
+
+√úbrige
+
+†
+
+†
+
+413
+
+Ertr√§ge aus Pflegeleistungen bei Pflegegrad 4
+
+†
+
+†
+
+4130
+
+Pflegekasse
+
+†
+
+†
+
+4131
+
+Sozialhilfetr√§ger
+
+†
+
+†
+
+4132
+
+Selbstzahler
+
+†
+
+†
+
+4133
+
+√úbrige
+
+†
+
+†
+
+414
+
+Ertr√§ge aus Pflegeleistungen bei Pflegegrad 5
+
+†
+
+†
+
+4140
+
+Pflegekasse
+
+†
+
+†
+
+4141
+
+Sozialhilfetr√§ger
+
+†
+
+†
+
+4142
+
+Selbstzahler
+
+†
+
+†
+
+4143
+
+√úbrige
+
+†
+
+†
+
+415
+
+Ertr√§ge aus zus√§tzlicher Betreuung und Aktivierung (¬ß 43b SGB XI)
+
+†
+
+†
+
+4150
+
+Pflegekasse
+
+†
+
+†
+
+4151
+
+Sozialhilfetr√§ger
+
+†
+
+†
+
+416
+
+Ertr√§ge aus Unterkunft und Verpflegung
+
+†
+
+†
+
+417
+
+Ertr√§ge aus Zusatzleistungen
+
+†
+
+†
+
+4170
+
+Ertr√§ge aus Zusatzleistungen: Pflege
+
+†
+
+†
+
+4171
+
+Ertr√§ge aus Zusatzleistungen: Unterkunft und Verpflegung
+
+†
+
+†
+
+418
+
+Ertr√§ge aufgrund von Regelungen √ºber Pflegehilfsmittel
+
+†
+
+†
+
+419
+
+Sonstige Ertr√§ge aus teilstation√§ren Pflegeleistungen
+
+†
+
+†
+
+4190
+
+Ertr√§ge aus der Erbringung von Leistungen nach ¬ß 45b Absatz 1 Satz 3 SGB XI
+
+†
+
+†
+
+4191
+
+Ertr√§ge aus Transportleistungen
+
+†
+
+†
+
+4192
+
+Weitere sonstige Ertr√§ge aus teilstation√§ren Pflegeleistungen
+
+†
+
+42
+
+†
+
+Ertr√§ge aus vollstation√§ren Pflegeleistungen
+
+†
+
+†
+
+420
+
+Ertr√§ge aus Pflegeleistungen bei Pflegegrad 1
+
+†
+
+†
+
+4200
+
+Pflegekasse
+
+†
+
+†
+
+4201
+
+Sozialhilfetr√§ger
+
+†
+
+†
+
+4202
+
+Selbstzahler
+
+†
+
+†
+
+4203
+
+√úbrige
+
+†
+
+†
+
+421
+
+Ertr√§ge aus Pflegeleistungen bei Pflegegrad 2
+
+†
+
+†
+
+4210
+
+Pflegekasse
+
+†
+
+†
+
+4211
+
+Sozialhilfetr√§ger
+
+†
+
+†
+
+4212
+
+Selbstzahler
+
+†
+
+†
+
+4213
+
+√úbrige
+
+†
+
+†
+
+422
+
+Ertr√§ge aus Pflegeleistungen bei Pflegegrad 3
+
+†
+
+†
+
+4220
+
+Pflegekasse
+
+†
+
+†
+
+4221
+
+Sozialhilfetr√§ger
+
+†
+
+†
+
+4222
+
+Selbstzahler
+
+†
+
+†
+
+4223
+
+√úbrige
+
+†
+
+†
+
+423
+
+Ertr√§ge aus Pflegeleistungen bei Pflegegrad 4
+
+†
+
+†
+
+4230
+
+Pflegekasse
+
+†
+
+†
+
+4231
+
+Sozialhilfetr√§ger
+
+†
+
+†
+
+4232
+
+Selbstzahler
+
+†
+
+†
+
+4233
+
+√úbrige
+
+†
+
+†
+
+424
+
+Ertr√§ge aus Pflegeleistungen bei Pflegegrad 5
+
+†
+
+†
+
+4240
+
+Pflegekasse
+
+†
+
+†
+
+4241
+
+Sozialhilfetr√§ger
+
+†
+
+†
+
+4242
+
+Selbstzahler
+
+†
+
+†
+
+4243
+
+√úbrige
+
+†
+
+†
+
+425
+
+Ertr√§ge aus zus√§tzlicher Betreuung und Aktivierung (¬ß 43b SGB XI)
+
+†
+
+†
+
+4250
+
+Pflegekasse
+
+†
+
+†
+
+4251
+
+Sozialhilfetr√§ger
+
+†
+
+†
+
+426
+
+Ertr√§ge aus Unterkunft und Verpflegung
+
+†
+
+†
+
+427
+
+Ertr√§ge aus Zusatzleistungen
+
+†
+
+†
+
+4270
+
+Ertr√§ge aus Zusatzleistungen: Pflege
+
+†
+
+†
+
+4271
+
+Ertr√§ge aus Zusatzleistungen: Unterkunft und Verpflegung
+
+†
+
+†
+
+428
+
+Ertr√§ge aufgrund von Regelungen √ºber Pflegehilfsmittel
+
+†
+
+†
+
+429
+
+Sonstige Ertr√§ge aus vollstation√§ren Pflegeleistungen
+
+†
+
+43
+
+†
+
+Ertr√§ge aus Kurzzeitpflegeleistungen
+
+†
+
+†
+
+430
+
+Ertr√§ge aus Pflegeleistungen bei Pflegegrad 1
+
+†
+
+†
+
+4300
+
+Pflegekasse
+
+†
+
+†
+
+4301
+
+Sozialhilfetr√§ger
+
+†
+
+†
+
+4302
+
+Selbstzahler
+
+†
+
+†
+
+4303
+
+√úbrige
+
+†
+
+†
+
+431
+
+Ertr√§ge aus Pflegeleistungen bei Pflegegrad 2
+
+†
+
+†
+
+4310
+
+Pflegekasse
+
+†
+
+†
+
+4311
+
+Sozialhilfetr√§ger
+
+†
+
+†
+
+4312
+
+Selbstzahler
+
+†
+
+†
+
+4313
+
+√úbrige
+
+†
+
+†
+
+432
+
+Ertr√§ge aus Pflegeleistungen bei Pflegegrad 3
+
+†
+
+†
+
+4320
+
+Pflegekasse
+
+†
+
+†
+
+4321
+
+Sozialhilfetr√§ger
+
+†
+
+†
+
+4322
+
+Selbstzahler
+
+†
+
+†
+
+4323
+
+√úbrige
+
+†
+
+†
+
+433
+
+Ertr√§ge aus Pflegeleistungen bei Pflegegrad 4
+
+†
+
+†
+
+4330
+
+Pflegekasse
+
+†
+
+†
+
+4331
+
+Sozialhilfetr√§ger
+
+†
+
+†
+
+4332
+
+Selbstzahler
+
+†
+
+†
+
+4333
+
+√úbrige
+
+†
+
+†
+
+434
+
+Ertr√§ge aus Pflegeleistungen bei Pflegegrad 5
+
+†
+
+†
+
+4340
+
+Pflegekasse
+
+†
+
+†
+
+4341
+
+Sozialhilfetr√§ger
+
+†
+
+†
+
+4342
+
+Selbstzahler
+
+†
+
+†
+
+4343
+
+√úbrige
+
+†
+
+†
+
+435
+
+Ertr√§ge aus zus√§tzlicher Betreuung und Aktivierung (¬ß 43b SGB XI)
+
+†
+
+†
+
+4350
+
+Pflegekasse
+
+†
+
+†
+
+4351
+
+Sozialhilfetr√§ger
+
+†
+
+†
+
+436
+
+Ertr√§ge aus Unterkunft und Verpflegung
+
+†
+
+†
+
+437
+
+Ertr√§ge aus Zusatzleistungen
+
+†
+
+†
+
+4370
+
+Ertr√§ge aus Zusatzleistungen: Pflege
+
+†
+
+†
+
+4371
+
+Ertr√§ge aus Zusatzleistungen: Unterkunft und Verpflegung
+
+†
+
+†
+
+438
+
+Ertr√§ge aufgrund von Regelungen √ºber Pflegehilfsmittel
+
+†
+
+†
+
+439
+
+Sonstige Ertr√§ge aus Kurzzeitpflegeleistungen
+
+†
+
+†
+
+4390
+
+Ertr√§ge aus der Erbringung von Leistungen nach ¬ß 45b Absatz 1 Satz 3 SGB XI
+
+†
+
+†
+
+4391
+
+Weitere sonstige Ertr√§ge aus Kurzzeitpflegeleistungen
+
+†
+
+44
+
+†
+
+Zuweisungen und Zusch√ºsse zu Betriebskosten
+
+†
+
+†
+
+440
+
+f√ºr ambulante Pflegeleistungen
+
+†
+
+†
+
+441
+
+f√ºr teilstation√§re Pflegeleistungen
+
+†
+
+†
+
+442
+
+f√ºr vollstation√§re Pflegeleistungen
+
+†
+
+†
+
+443
+
+f√ºr Leistungen der Kurzzeitpflege
+
+†
+
+45
+
+†
+
+Ertr√§ge aus √∂ffentlicher F√∂rderung f√ºr Investitionen
+
+†
+
+†
+
+450
+
+in ambulanten Pflegeeinrichtungen
+
+†
+
+†
+
+451
+
+in teilstation√§ren Pflegeeinrichtungen
+
+†
+
+†
+
+452
+
+in vollstation√§ren Pflegeeinrichtungen
+
+†
+
+†
+
+453
+
+in Einrichtungen der Kurzzeitpflege
+
+†
+
+46
+
+†
+
+Ertr√§ge aus nicht-√∂ffentlicher F√∂rderung f√ºr Investitionen
+
+†
+
+†
+
+460
+
+in ambulanten Pflegeeinrichtungen
+
+†
+
+†
+
+461
+
+in teilstation√§ren Pflegeeinrichtungen
+
+†
+
+†
+
+462
+
+in vollstation√§ren Pflegeeinrichtungen
+
+†
+
+†
+
+463
+
+in Einrichtungen der Kurzzeitpflege
+
+†
+
+†
+
+464
+
+Ertr√§ge aus gesonderter Berechnung von Investitionsaufwendungen gegen√ºber Pflegebed√ºrftigen\\
+(¬ß 82 Abs. 3 und 4 SGB XI)
+
+†
+
+47
+
+†
+
+Ertr√§ge aus der Aufl√∂sung von Sonderposten
+
+†
+
+†
+
+470
+
+bei ambulanten Pflegeeinrichtungen
+
+†
+
+†
+
+471
+
+bei teilstation√§ren Pflegeeinrichtungen
+
+†
+
+†
+
+472
+
+bei vollstation√§ren Pflegeeinrichtungen
+
+†
+
+†
+
+473
+
+bei Einrichtungen der Kurzzeitpflege
+
+†
+
+48
+
+†
+
+R√ºckverg√ºtungen, Erstattungen, Sachbez√ºge, Ertr√§ge aus Sonderrechnungen
+
+†
+
+†
+
+480
+
+Erstattungen des Personals f√ºr freie Station
+
+†
+
+†
+
+481
+
+Erstattungen des Personals f√ºr Unterkunft
+
+†
+
+†
+
+482
+
+Erstattungen des Personals f√ºr Verpflegung
+
+†
+
+†
+
+483
+
+Sonstige Erstattungen
+
+†
+
+†
+
+484
+
+Ertr√§ge aus Hilfsbetrieben
+
+†
+
+†
+
+485
+
+Ertr√§ge aus Nebenbetrieben
+
+†
+
+†
+
+486
+
+Ertr√§ge aus Betriebskostenzusch√ºssen f√ºr sonstige ambulante Leistungen (au√üerhalb des SGB XI)
+
+†
+
+†
+
+487
+
+Ertr√§ge aus der Erstattung von Ausgleichsposten aus Darlehens- und Eigenmittelf√∂rderung
+
+†
+
+†
+
+488
+
+Sonstige Ertr√§ge aus Sonderrechnungen
+
+†
+
+49
+
+†
+
+frei
+
+†
+
+5
+
+†
+
+†
+
+Kontenklasse 5 Andere Ertr√§ge
+
+†
+
+50
+
+†
+
+Ertr√§ge aus Beteiligungen und Finanzanlagen
+
+†
+
+†
+
+500
+
+Ertr√§ge aus Beteiligungen an verbundenen Unternehmen*)
+
+†
+
+†
+
+501
+
+Ertr√§ge aus anderen Beteiligungen
+
+†
+
+†
+
+502
+
+Ertr√§ge aus Finanzanlagen in verbundenen Unternehmen*)
+
+†
+
+†
+
+503
+
+Ertr√§ge aus anderen Finanzanlagen
+
+†
+
+51
+
+†
+
+Zinsen und √§hnliche Ertr√§ge
+
+†
+
+†
+
+510
+
+Zinsen und √§hnliche Betr√§ge aus verbundenen Unternehmen*)
+
+†
+
+†
+
+511
+
+Zinsen f√ºr Einlagen bei Kreditinstituten
+
+†
+
+†
+
+512
+
+Zinsen aus Wertpapieren des Umlaufverm√∂gens
+
+†
+
+†
+
+513
+
+Zinsen f√ºr Forderungen
+
+†
+
+†
+
+514
+
+Sonstige Zinsen und √§hnliche Ertr√§ge
+
+†
+
+52
+
+†
+
+Ertr√§ge aus dem Abgang von Gegenst√§nden des Anlageverm√∂gens und aus Zuschreibungen zu Gegenst√§nden des Anlageverm√∂gens
+
+†
+
+53
+
+†
+
+Ertr√§ge aus der Aufl√∂sung von R√ºckstellungen
+
+†
+
+54
+
+†
+
+Bestandsver√§nderungen, aktivierte Eigenleistungen
+
+†
+
+†
+
+540
+
+Erh√∂hung oder Verminderung des Bestandes an fertigen und unfertigen Erzeugnissen oder Leistungen
+
+†
+
+†
+
+541
+
+Andere aktivierte Eigenleistungen
+
+†
+
+55
+
+†
+
+Sonstige Ertr√§ge
+
+†
+
+56
+
+†
+
+frei
+
+†
+
+†
+
+560
+
+frei
+
+†
+
+†
+
+561
+
+frei
+
+†
+
+†
+
+562
+
+frei
+
+†
+
+57
+
+†
+
+frei
+
+†
+
+58
+
+†
+
+frei
+
+†
+
+59
+
+†
+
+frei
+
+†
+
+6
+
+†
+
+†
+
+Kontenklasse 6 Aufwendungen
+
+†
+
+60
+
+†
+
+L√∂hne und Geh√§lter
+
+†
+
+†
+
+600
+
+Leitung der Pflegeeinrichtung
+
+†
+
+†
+
+601
+
+Pflegedienst
+
+†
+
+†
+
+602
+
+Betreuungsdienst
+
+†
+
+†
+
+603
+
+Hauswirtschaftlicher Dienst
+
+†
+
+†
+
+604
+
+Verwaltungsdienst
+
+†
+
+†
+
+605
+
+Technischer Dienst
+
+†
+
+†
+
+606
+
+Sonstige Dienste
+
+†
+
+61
+
+†
+
+Gesetzliche Sozialabgaben (Aufteilung wie 600 bis 606)
+
+†
+
+62
+
+†
+
+Altersversorgung (Aufteilung wie 600 bis 606)
+
+†
+
+63
+
+†
+
+Beihilfen und Unterst√ºtzungen (Aufteilung wie 600 bis 606)
+
+†
+
+64
+
+†
+
+Sonstige Personalaufwendungen (Aufteilung wie 600 bis 606)
+
+†
+
+65
+
+†
+
+Lebensmittel
+
+†
+
+66
+
+†
+
+Aufwendungen f√ºr Zusatzleistungen
+
+†
+
+67
+
+†
+
+Wasser, Energie, Brennstoffe
+
+†
+
+68
+
+†
+
+Wirtschaftsbedarf/Verwaltungsbedarf
+
+†
+
+†
+
+680
+
+Materialaufwendungen
+
+†
+
+†
+
+6800
+
+Eigenfinanzierung
+
+†
+
+†
+
+6801
+
+Finanzierung nach Landesrecht
+
+†
+
+†
+
+681
+
+Bezogene Leistungen
+
+†
+
+†
+
+682
+
+B√ºromaterial
+
+†
+
+†
+
+683
+
+Telefon
+
+†
+
+†
+
+684
+
+Sonstiger Verwaltungsbedarf
+
+†
+
+†
+
+685
+
+Aufwendungen f√ºr zentrale Dienstleistungen
+
+†
+
+69
+
+†
+
+frei
+
+†
+
+7
+
+†
+
+†
+
+Kontenklasse 7 weitere Aufwendungen
+
+†
+
+70
+
+†
+
+Aufwendungen f√ºr Verbrauchsg√ºter gem√§√ü ¬ß 82 Abs. 2 Nr. 1, 2. Halbsatz SGB XI (soweit nicht in anderen Konten verbucht)
+
+†
+
+71
+
+†
+
+Steuern, Abgaben, Versicherungen
+
+†
+
+†
+
+710
+
+Steuern
+
+†
+
+†
+
+711
+
+Abgaben
+
+†
+
+†
+
+712
+
+Versicherungen
+
+†
+
+72
+
+†
+
+Zinsen und √§hnliche Aufwendungen
+
+†
+
+†
+
+720
+
+Zinsen f√ºr Betriebsmittelkredite
+
+†
+
+†
+
+721
+
+Zinsen f√ºr langfristige Darlehen
+
+†
+
+†
+
+722
+
+Sonstige Zinsen
+
+†
+
+†
+
+723
+
+Sonstige Aufwendungen
+
+†
+
+73
+
+†
+
+Sachaufwendungen f√ºr Hilfs- und Nebenbetriebe
+
+†
+
+74
+
+†
+
+Zuf√ºhrung von F√∂rdermitteln zu Sonderposten oder Verbindlichkeiten
+
+†
+
+†
+
+740
+
+Zuf√ºhrung von √∂ffentlichen F√∂rdermitteln zu Sonderposten oder Verbindlichkeiten
+
+†
+
+†
+
+741
+
+Zuf√ºhrung von nicht-√∂ffentlichen Zuwendungen zu Sonderposten oder Verbindlichkeiten
+
+†
+
+75
+
+†
+
+Abschreibungen
+
+†
+
+†
+
+750
+
+Abschreibungen auf immaterielle Verm√∂gensgegenst√§nde
+
+†
+
+†
+
+751
+
+Abschreibungen auf Sachanlagen
+
+†
+
+†
+
+752
+
+Abschreibungen auf Finanzanlagen und Wertpapiere des Umlaufverm√∂gens
+
+†
+
+†
+
+753
+
+Abschreibungen auf Forderungen
+
+†
+
+†
+
+754
+
+Abschreibungen auf sonstige Verm√∂gensgegenst√§nde
+
+†
+
+76
+
+†
+
+Mieten, Pacht, Leasing
+
+†
+
+77
+
+†
+
+Aufwendungen f√ºr Instandhaltung und Instandsetzung, sonstige Aufwendungen
+
+†
+
+†
+
+771
+
+Aufwendungen f√ºr Instandhaltung und Instandsetzung
+
+†
+
+†
+
+772
+
+Sonstige Aufwendungen
+
+†
+
+78
+
+†
+
+frei
+
+†
+
+†
+
+780
+
+frei
+
+†
+
+†
+
+781
+
+frei
+
+†
+
+†
+
+782
+
+frei
+
+†
+
+†
+
+783
+
+frei
+
+†
+
+†
+
+784
+
+frei
+
+†
+
+†
+
+785
+
+frei
+
+†
+
+79
+
+†
+
+frei
+
+†
+
+8
+
+†
+
+†
+
+Kontenklasse 8 Er√∂ffnungs- und Abschlu√ükonten
+
+†
+
+80
+
+†
+
+frei
+
+†
+
+81
+
+†
+
+frei
+
+†
+
+82
+
+†
+
+frei
+
+†
+
+83
+
+†
+
+frei
+
+†
+
+84
+
+†
+
+frei
+
+†
+
+85
+
+†
+
+Er√∂ffnungs- und Abschlu√ükonten
+
+†
+
+86
+
+†
+
+Abgrenzung der Ertr√§ge, die nicht in die Kostenrechnung eingehen
+
+†
+
+87
+
+†
+
+Abgrenzung der Aufwendungen, die nicht in die Kostenrechnung eingehen
+
+†
+
+88
+
+†
+
+Kalkulatorische Kosten
+
+†
+
+89
+
+†
+
+frei
+
+---------
+
+- *) :: Ausweis dieser Posten nur bei Kapitalgesellschaften.
+
+(+++ Anlage 4: Zur Anwendung vgl. ¬ß 11 Abs. 7 F. ab 25.5.2009 u. ¬ß 11 Abs. 5 F. 21.12.2016 +++)
+
+Anlage 5 - Muster, Kostenstellenrahmen f√ºr die Kosten- und Leistungsrechnung
+
+(Fundstelle: BGBl. I 1995, 1547;\\
+bzgl. der einzelnen √Ñnderungen vgl. Fu√ünote)
+\\
+90
+Allgemeine Kostenstellen
+900
+Geb√§ude einschlie√ülich Grundst√ºcke
+901
+Au√üenanlagen
+902
+Leitung und Verwaltung der Pflegeeinrichtung
+903
+Hilfs- und Nebenbetriebe
+904
+Ausbildung, Fortbildung
+905
+Personaleinrichtungen (soweit f√ºr Betrieb der Einrichtung notwendig)
+906
+Sonstige
+†
+91
+Versorgungseinrichtungen
+910
+W√§scherei (Versorgung)
+911
+K√ºche (Versorgung)
+912
+Hol- und Bringedienst (Transporte innerbetrieblich)
+913
+Zentrale Sterilisation
+914
+Zentraler Reinigungsdienst
+915
+Energieversorgung (Wasser, Energie, Brennstoffe)
+916
+Sonstige
+†
+92
+H√§usliche Pflegehilfe
+920
+Pflegebereich -- Pflegegrad 1
+921
+Pflegebereich -- Pflegegrad 2
+922
+Pflegebereich -- Pflegegrad 3
+923
+Pflegebereich -- Pflegegrad 4
+924
+Pflegebereich -- Pflegegrad 5
+†
+93
+Teilstation√§re Pflege (Tagespflege)
+930
+Pflegebereich -- Pflegegrad 1
+931
+Pflegebereich -- Pflegegrad 2
+932
+Pflegebereich -- Pflegegrad 3
+933
+Pflegebereich -- Pflegegrad 4
+934
+Pflegebereich -- Pflegegrad 5
+†
+94
+Teilstation√§re Pflege (Nachtpflege)
+940
+Pflegebereich -- Pflegegrad 1
+941
+Pflegebereich -- Pflegegrad 2
+942
+Pflegebereich -- Pflegegrad 3
+943
+Pflegebereich -- Pflegegrad 4
+944
+Pflegebereich -- Pflegegrad 5
+†
+95
+Vollstation√§re Pflege
+950
+Pflegebereich -- Pflegegrad 1
+951
+Pflegebereich -- Pflegegrad 2
+952
+Pflegebereich -- Pflegegrad 3
+953
+Pflegebereich -- Pflegegrad 4
+954
+Pflegebereich -- Pflegegrad 5
+†
+96
+Kurzzeitpflege
+960
+Pflegebereich -- Pflegegrad 1
+961
+Pflegebereich -- Pflegegrad 2
+962
+Pflegebereich -- Pflegegrad 3
+963
+Pflegebereich -- Pflegegrad 4
+964
+Pflegebereich -- Pflegegrad 5
+†
+97
+Weitere Leistungen
+970
+Zus√§tzliche Betreuung und Aktivierung nach ¬ß 43b SGB XI
+971
+Leistungen nach ¬ß 45b Absatz 1 Satz 3 SGB XI
+†
+98, 99
+freibleibend
+(+++ Anlage 5: Zur Anwendung vgl. ¬ß 11 Abs. 5 F. 21.12.2016 +++)
+
+Anlage 6 - Muster, Kostentr√§ger√ºbersicht
+
+(Fundstelle: BGBl. I 1995, 1548;\\
+bzgl. der einzelnen √Ñnderungen vgl. Fu√ünote)
+\\
+†
+F√ºr teil- und vollstation√§re Pflegeeinrichtungen
+†
+Pflegegrad 1
+- Pflegeleistungen
+- Unterkunft und Verpflegung
+†
+Pflegegrad 2
+- Pflegeleistungen
+- Unterkunft und Verpflegung
+†
+Pflegegrad 3
+- Pflegeleistungen
+- Unterkunft und Verpflegung
+†
+Pflegegrad 4
+- Pflegeleistungen
+- Unterkunft und Verpflegung
+†
+Pflegegrad 5
+- Pflegeleistungen
+- Unterkunft und Verpflegung
+†
+Zusatzleistungen Pflege
+Zusatzleistungen Unterkunft und Verpflegung
+†
+†
+F√ºr ambulante Pflegeeinrichtungen
+†
+Kostentr√§ger sind die in den Verg√ºtungsempfehlungen der Spitzenverb√§nde der Pflegekassen aufgef√ºhrten Leistungskomplexe.
+(+++ Anlage 6: Zur Anwendung vgl. ¬ß 11 Abs. 5 F. 21.12.2016 +++)
