@@ -781,9 +781,9 @@ Das Ausschreibungsvolumen nach Satz 1 wird jeweils gleichmäßig auf die Ausschr
 - 6. :: die Festlegungen der Bundesnetzagentur nach § 85 Absatz 2 und § 85a, soweit sie die Gebotsabgabe oder das Zuschlagsverfahren betreffen.
 
 (2) Die Bekanntmachungen nach Absatz 1 erfolgen ausschließlich im öffentlichen Interesse.
-(+++ § 29: Zur Nichtanwendung vgl. § 38 Abs. 2 GEEV 2017 +++)\\
+(+++ § 29 Abs. 2: Zur Anwendung vgl. § 36 Abs. 4 Satz 2 +++)\\
+(+++ § 29: Zur Nichtanwendung vgl. § 38 Abs. 2 Satz 1 GEEV 2017 +++)\\
 (+++ § 29: Zur Anwendung vgl. § 2 Abs. 3 GEEV 2017 +++)\\
-(+++ § 27 bis 51: Zur Nichtanwendung vgl. § 32 Abs. 1 GEEV +++)\\
 (+++ § 29: Zur Anwendung vgl. § 3 GemAV +++)
 
 § 30 - Anforderungen an Gebote
@@ -963,9 +963,9 @@ Die Bundesnetzagentur kann Bieter und deren Gebote von dem Zuschlagsverfahren au
 § 36a - Sicherheiten für Windenergieanlagen an Land
 
 Die Höhe der Sicherheit nach § 31 für Windenergieanlagen an Land bestimmt sich aus der Gebotsmenge multipliziert mit 30 Euro pro Kilowatt zu installierender Leistung.
-(+++ § 36a: Zur Nichtanwendung vgl. § 38 Abs. 2 GEEV 2017 +++)\\
+(+++ §§ 36a bis 36c: Zur Anwendung vgl. § 36j Abs. 4 +++)\\
+(+++ § 36a: Zur Nichtanwendung vgl. § 38 Abs. 2 Satz 1 GEEV 2017 +++)\\
 (+++ § 36a: Zur Anwendung vgl. § 2 Abs. 3 GEEV 2017 +++)\\
-(+++ § 27 bis 51: Zur Nichtanwendung vgl. § 32 Abs. 1 GEEV +++)\\
 (+++ § 36a: Zur Anwendung vgl. § 3 GemAV +++)
 
 § 36b - Höchstwert für Windenergieanlagen an Land

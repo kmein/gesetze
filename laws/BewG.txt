@@ -65,7 +65,7 @@ Wirtschaftsgüter, die einem Unternehmen dienen, sind, soweit nichts anderes vor
 (2a) (weggefallen)
 (3) Ist der gemeine Wert einer Anzahl von Anteilen an einer Kapitalgesellschaft, die einer Person gehören, infolge besonderer Umstände (z. B. weil die Höhe der Beteiligung die Beherrschung der Kapitalgesellschaft ermöglicht) höher als der Wert, der sich auf Grund der Kurswerte (Absatz 1) oder der gemeinen Werte (Absatz 2) für die einzelnen Anteile insgesamt ergibt, so ist der gemeine Wert der Beteiligung maßgebend.
 (4) Anteile oder Aktien, die Rechte an einem Investmentvermögen im Sinne des Kapitalanlagegesetzbuchs verbriefen, sind mit dem Rücknahmepreis anzusetzen.
-(+++ Zur Anwendung vgl. § 205 Abs. 5 +++)
+(+++ Zur Anwendung vgl. § 265 Abs. 5 +++)
 
 § 12 - Kapitalforderungen und Schulden
 
@@ -207,7 +207,7 @@ Bescheide über Fortschreibungen oder Nachfeststellungen von Einheitswerten des 
 
 Die Zurechnung mehrerer Wirtschaftsgüter zu einer wirtschaftlichen Einheit (§ 2) wird beim Grundbesitz im Sinne der §§ 33 bis 94, 99 und 125 bis 133 nicht dadurch ausgeschlossen, daß die Wirtschaftsgüter zum Teil dem einen, zum Teil dem anderen Ehegatten oder Lebenspartner gehören.
 (+++ § 26 F. 1997-10-29: Zur erstmaligen Anwendung vgl. § 152 Abs. 3 +++)\\
-(+++ § 26 F. 2014-07-18: Zur erstmaligen Anwendung vgl. § 205 Abs. 7 +++)
+(+++ § 26 F. 2014-07-18: Zur erstmaligen Anwendung vgl. § 265 Abs. 7 +++)
 
 § 27 - Wertverhältnisse bei Fortschreibungen und Nachfeststellungen
 
@@ -412,7 +412,7 @@ Werden Betriebsflächen durch einen anderen Nutzungsberechtigten als den Eigent�
 
 der Unterschiedsbetrag zwischen dem für landwirtschaftliche Nutzung maßgebenden Vergleichswert und dem höheren Vergleichswert, der durch die unter den Nummern 1 bis 3 bezeichneten Nutzungen bedingt ist, bei der Feststellung des Einheitswerts des Eigentümers nicht zu berücksichtigen und für den Nutzungsberechtigten als selbständiger Einheitswert festzustellen. Ist ein Einheitswert für land- und forstwirtschaftliches Vermögen des Nutzungsberechtigten festzustellen, so ist der Unterschiedsbetrag in diesen Einheitswert einzubeziehen. Die Sätze 1 und 2 gelten nicht, wenn der Eigentümer die Flächen bereits intensiv im Sinne der Nummern 1 bis 3 genutzt hat.
 
-(+++ § 48a: Zur Anwendung vgl. § 205 Abs. 6 +++)
+(+++ § 48a: Zur Anwendung vgl. § 265 Abs. 6 +++)
 
 § 49 - (weggefallen)
 
@@ -844,7 +844,7 @@ Dem Gewerbebetrieb steht die Ausübung eines freien Berufs im Sinne des § 18 Ab
 (2) Einen Gewerbebetrieb bilden auch die Wirtschaftsgüter, die den sonstigen juristischen Personen des privaten Rechts, den nichtrechtsfähigen Vereinen, Anstalten, Stiftungen und anderen Zweckvermögen gehören, soweit sie einem wirtschaftlichen Geschäftsbetrieb (ausgenommen Land- und Forstwirtschaft) dienen.
 (3) (weggefallen)
 (+++ § 97 Abs. 1 Satz 1 Nr. 1: Erstmals anzuwenden zum 1.1.2006 gem. § 152 Abs. 3 +++)\\
-(+++ § 97 Abs. 1b Satz 4: Zur Anwendung vgl. § 205 Abs. 8 +++)
+(+++ § 97 Abs. 1b Satz 4: Zur Anwendung vgl. § 265 Abs. 8 +++)
 
 § 98 - (weggefallen)
 
@@ -1302,7 +1302,7 @@ Der Betriebswert, der Wert der Betriebswohnungen und der Wert des Wohnteils bild
 (1) Unbebaute Grundstücke sind Grundstücke, auf denen sich keine benutzbaren Gebäude befinden. Die Benutzbarkeit beginnt im Zeitpunkt der Bezugsfertigkeit. Gebäude sind als bezugsfertig anzusehen, wenn den zukünftigen Bewohnern oder sonstigen Benutzern zugemutet werden kann, sie zu benutzen; die Abnahme durch die Bauaufsichtsbehörde ist nicht entscheidend.
 (2) Befinden sich auf dem Grundstück Gebäude, die auf Dauer keiner oder nur einer unbedeutenden Nutzung zugeführt werden können, gilt das Grundstück als unbebaut; als unbedeutend gilt eine Nutzung, wenn die hierfür erzielte Jahresmiete (§ 146 Abs. 2) oder die übliche Miete (§ 146 Abs. 3) weniger als 1 Prozent des nach Absatz 3 anzusetzenden Werts beträgt. Als unbebautes Grundstück gilt auch ein Grundstück, auf dem infolge der Zerstörung oder des Verfalls der Gebäude auf Dauer benutzbarer Raum nicht mehr vorhanden ist.
 (3) Der Wert eines unbebauten Grundstücks bestimmt sich regelmäßig nach seiner Fläche und dem um 20 Prozent ermäßigten Bodenrichtwert (§ 196 des Baugesetzbuchs in der jeweils geltenden Fassung). Die Bodenrichtwerte sind von den Gutachterausschüssen nach dem Baugesetzbuch zu ermitteln und den Finanzämtern mitzuteilen. Bei der Wertermittlung ist stets der Bodenrichtwert anzusetzen, der vom Gutachterausschuss zuletzt zu ermitteln war. Wird von den Gutachterausschüssen kein Bodenrichtwert ermittelt, ist der Bodenwert aus den Werten vergleichbarer Flächen abzuleiten und um 20 Prozent zu ermäßigen.
-(+++ § 145 Abs. 3: Zur Anwendung vgl. § 205 Abs. 3 +++)
+(+++ § 145 Abs. 3: Zur Anwendung vgl. § 265 Abs. 3 +++)
 
 § 146 - Bebaute Grundstücke
 
@@ -1418,7 +1418,7 @@ Gegenüber mehreren Beteiligten nach Satz 1 erfolgt eine gesonderte und einheitl
 
 (2) In den Fällen des § 151 Abs. 1 Satz 1 Nr. 3 ist der Feststellungsbescheid auch der Kapitalgesellschaft bekannt zu geben.
 (3) Soweit der Gegenstand der Feststellung einer Erbengemeinschaft in Vertretung der Miterben zuzurechnen ist, ist § 183 der Abgabenordnung entsprechend anzuwenden. Bei der Bekanntgabe des Feststellungsbescheids ist darauf hinzuweisen, dass die Bekanntgabe mit Wirkung für und gegen alle Miterben erfolgt.
-(+++ § 154 Abs. 1 Satz 1 Nr. 3 u. Satz 2: Zur Anwendung vgl. § 205 Abs. 9 +++)
+(+++ § 154 Abs. 1 Satz 1 Nr. 3 u. Satz 2: Zur Anwendung vgl. § 265 Abs. 9 +++)
 
 § 155 - Rechtsbehelfsbefugnis
 
@@ -1577,7 +1577,7 @@ Der nach den Sätzen 2 und 3 maßgebliche Reingewinn ergibt sich aus der Spalte 
 - 1. :: ist der Grund und Boden im Sinne des § 158 Abs. 3 Satz 1 Nr. 1 mit den zuletzt vor dem Bewertungsstichtag ermittelten Bodenrichtwerten zu bewerten. § 179 Satz 2 bis 4 gilt entsprechend. Zur Berücksichtigung der Liquidationskosten ist der ermittelte Bodenwert um 10 Prozent zu mindern;
 - 2. :: sind die übrigen Wirtschaftsgüter im Sinne des § 158 Abs. 3 Satz 1 Nr. 2 bis 5 mit ihrem gemeinen Wert zu bewerten. Zur Berücksichtigung der Liquidationskosten sind die ermittelten Werte um 10 Prozent zu mindern.
 
-(+++ § 166 Abs. 2: Zur Anwendung vgl. § 205 Abs. 3 +++)
+(+++ § 166 Abs. 2: Zur Anwendung vgl. § 265 Abs. 3 +++)
 
 § 167 - Bewertung der Betriebswohnungen und des Wohnteils
 
@@ -1692,7 +1692,7 @@ Den Bewertungen nach den §§ 179 und 182 bis 196 ist der gemeine Wert (§ 9) zu
 § 179 - Bewertung der unbebauten Grundstücke
 
 Der Wert unbebauter Grundstücke bestimmt sich regelmäßig nach ihrer Fläche und den Bodenrichtwerten (§ 196 des Baugesetzbuchs). Die Bodenrichtwerte sind von den Gutachterausschüssen nach dem Baugesetzbuch zu ermitteln und den Finanzämtern mitzuteilen. Bei der Wertermittlung ist stets der Bodenrichtwert anzusetzen, der vom Gutachterausschuss zuletzt zu ermitteln war. Wird von den Gutachterausschüssen kein Bodenrichtwert ermittelt, ist der Bodenwert aus den Werten vergleichbarer Flächen abzuleiten.
-(+++ § 179: Zur Anwendung vgl. § 205 Abs. 3 +++)
+(+++ § 179: Zur Anwendung vgl. § 265 Abs. 3 +++)
 
 § 180 - Begriff der bebauten Grundstücke
 
@@ -1797,7 +1797,7 @@ ist die übliche Miete anzusetzen. Die übliche Miete ist in Anlehnung an die Mi
 (2) Die Anpassung der Regelherstellungskosten erfolgt anhand der vom Statistischen Bundesamt veröffentlichten Baupreisindizes. Dabei ist auf die Preisindizes für die Bauwirtschaft abzustellen, die das Statistische Bundesamt für den Neubau in konventioneller Bauart von Wohn- und Nichtwohngebäuden jeweils als Jahresdurchschnitt ermittelt. Diese Preisindizes sind für alle Bewertungsstichtage des folgenden Kalenderjahres anzuwenden. Das Bundesministerium der Finanzen veröffentlicht die maßgebenden Baupreisindizes im Bundessteuerblatt.
 (3) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Anlage 24 zu diesem Gesetz dadurch zu ändern, dass es die darin aufgeführten Regelherstellungskosten nach Maßgabe marktüblicher gewöhnlicher Herstellungskosten aktualisiert, soweit dies zur Ermittlung des gemeinen Werts erforderlich ist.
 (4) Vom Gebäuderegelherstellungswert ist eine Alterswertminderung abzuziehen. Diese wird regelmäßig nach dem Verhältnis des Alters des Gebäudes am Bewertungsstichtag zur wirtschaftlichen Gesamtnutzungsdauer nach Anlage 22 bestimmt. Sind nach Bezugsfertigkeit des Gebäudes Veränderungen eingetreten, die die wirtschaftliche Gesamtnutzungsdauer des Gebäudes verlängert haben, so ist von einem entsprechenden späteren Baujahr auszugehen. Bei bestehender Abbruchverpflichtung für das Gebäude ist bei der Ermittlung der Alterswertminderung von der tatsächlichen Gesamtnutzungsdauer des Gebäudes auszugehen. Der nach Abzug der Alterswertminderung verbleibende Gebäudewert ist regelmäßig mit mindestens 30 Prozent des Gebäuderegelherstellungswerts anzusetzen.
-(+++ § 190: Zur Anwendung vgl. § 205 Abs. 10 +++)
+(+++ § 190: Zur Anwendung vgl. § 265 Abs. 10 +++)
 
 § 191 - Wertzahlen
 
@@ -1807,7 +1807,7 @@ ist die übliche Miete anzusetzen. Die übliche Miete ist in Anlehnung an die Mi
 § 192 - Bewertung in Erbbaurechtsfällen
 
 Ist das Grundstück mit einem Erbbaurecht belastet, sind die Werte für die wirtschaftliche Einheit Erbbaurecht (§ 193) und für die wirtschaftliche Einheit des belasteten Grundstücks (§ 194) gesondert zu ermitteln. Mit der Bewertung des Erbbaurechts (§ 193) ist die Verpflichtung zur Zahlung des Erbbauzinses und mit der Bewertung des Erbbaurechtsgrundstücks (§ 194) ist das Recht auf den Erbbauzins abgegolten; die hiernach ermittelten Grundbesitzwerte dürfen nicht weniger als 0 Euro betragen.
-(+++ § 192: Zur Anwendung vgl. § 205 Abs. 3 +++)
+(+++ § 192: Zur Anwendung vgl. § 265 Abs. 3 +++)
 
 § 193 - Bewertung des Erbbaurechts
 
@@ -1842,7 +1842,7 @@ Der so ermittelte Unterschiedsbetrag ist über die Restlaufzeit des Erbbaurechts
 (1) In Fällen von Gebäuden auf fremdem Grund und Boden sind die Werte für die wirtschaftliche Einheit des Gebäudes auf fremdem Grund und Boden (Absatz 2) und die wirtschaftliche Einheit des belasteten Grundstücks (Absatz 3) gesondert zu ermitteln.
 (2) Das Gebäude auf fremdem Grund und Boden wird bei einer Bewertung im Ertragswertverfahren mit dem Gebäudeertragswert nach § 185, bei einer Bewertung im Sachwertverfahren mit dem Gebäudesachwert nach § 190 bewertet. Ist der Nutzer verpflichtet, das Gebäude bei Ablauf des Nutzungsrechts zu beseitigen, ist bei der Ermittlung des Gebäudeertragswerts der Vervielfältiger nach Anlage 21 anzuwenden, der sich für die am Bewertungsstichtag verbleibende Nutzungsdauer ergibt. § 185 Abs. 3 Satz 5 ist nicht anzuwenden. Ist in diesen Fällen der Gebäudesachwert zu ermitteln, bemisst sich die Alterswertminderung im Sinne des § 190 Absatz 4 Satz 1 bis 3 nach dem Alter des Gebäudes am Bewertungsstichtag und der tatsächlichen Gesamtnutzungsdauer. § 190 Absatz 4 Satz 5 ist nicht anzuwenden.
 (3) Der Wert des belasteten Grundstücks ist der auf den Bewertungsstichtag abgezinste Bodenwert nach § 179 zuzüglich des über die Restlaufzeit des Nutzungsrechts kapitalisierten Entgelts. Der Abzinsungsfaktor für den Bodenwert wird in Abhängigkeit vom Zinssatz nach § 193 Abs. 4 und der Restlaufzeit des Nutzungsverhältnisses ermittelt; er ist Anlage 26 zu entnehmen. Das über die Restlaufzeit des Nutzungsrechts kapitalisierte Entgelt ergibt sich durch Anwendung des Vervielfältigers nach Anlage 21 auf das zum Bewertungsstichtag vereinbarte jährliche Entgelt.
-(+++ § 195 Abs. 2 Satz 4 u. 5: Zur Anwendung vgl. § 205 Abs. 10 +++)
+(+++ § 195 Abs. 2 Satz 4 u. 5: Zur Anwendung vgl. § 265 Abs. 10 +++)
 
 § 196 - Grundstücke im Zustand der Bebauung
 
@@ -1902,7 +1902,7 @@ Weist der Steuerpflichtige nach, dass der gemeine Wert der wirtschaftlichen Einh
 
 (1) Der in diesem Verfahren anzuwendende Kapitalisierungsfaktor beträgt 13,75.
 (2) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates den Kapitalisierungsfaktor an die Entwicklung der Zinsstrukturdaten anzupassen.
-(+++ § 203: Zur Anwendung vgl. § 205 Abs. 11 +++)
+(+++ § 203: Zur Anwendung vgl. § 265 Abs. 11 +++)
 
 § 218 - Vermögensarten
 
@@ -2413,7 +2413,7 @@ Anlage 1 - (zu § 51)Umrechnungsschlüssel für Tierbestände in Vieheinheiten n
 (Fundstelle: BGBl. I 2011, 2619 - 2620)\\
 \\
 
-(+++ Anlage 1: Zur Anwendung vgl. § 205 Abs. 4 +++)
+(+++ Anlage 1: Zur Anwendung vgl. § 265 Abs. 4 +++)
 
 Anlage 2 - Gruppen der Zweige des Tierbestands nach der Flächenabhängigkeit
 
@@ -4845,7 +4845,7 @@ Anlage 18 - (zu § 163 Abs. 7 und § 164 Abs. 2 und 4)Sondernutzungen
 Anlage 19 - (zu § 169)Umrechnungsschlüssel für Tierbestände in Vieheinheiten nach dem Futterbedarf
 
 (Fundstelle: BGBl. I 2011, 2621 - 2622)
-(+++ Anlage 19: Zur Anwendung vgl. § 205 Abs. 4 +++)
+(+++ Anlage 19: Zur Anwendung vgl. § 265 Abs. 4 +++)
 
 Anlage 20 - (zu § 169 Abs. 5)Gruppen der Zweige des Tierbestands nach der Flächenabhängigkeit
 
@@ -4881,7 +4881,7 @@ Anlage 22 - (zu § 185 Absatz 3 Satz 3, § 190 Absatz 4 Satz 2)Wirtschaftliche G
 
 (Fundstelle: BGBl. I 2015, 1846)
 Teileigentum ist in Abhängigkeit von der baulichen Gestaltung den vorstehenden Gebäudearten zuzuordnen.
-(+++ Anlage 22: Zur Anwendung vgl. § 205 Abs. 10 +++)
+(+++ Anlage 22: Zur Anwendung vgl. § 265 Abs. 10 +++)
 
 Anlage 23 - (zu § 187 Abs. 2 Satz 2)Pauschalierte Bewirtschaftungskosten für Verwaltung, Instandhaltung und Mietausfallwagnis in Prozent der Jahresmiete oder üblichen Miete (ohne Betriebskosten)
 
@@ -7009,7 +7009,7 @@ Reitbodenbewässerung (einfache Ausführung)\\
 Schüttwände aus Holz zwischen Stahlstützen, Trocknungsanlage für Getreide
 Reitbodenbewässerung (komfortable Ausführung)\\
 Schüttwände aus Beton-Fertigteilen
-(+++ Anlage 24: Zur Anwendung vgl. § 205 Abs. 10 +++)
+(+++ Anlage 24: Zur Anwendung vgl. § 265 Abs. 10 +++)
 
 Anlage 25 - (zu § 191 Absatz 2)Wertzahlen für Ein- und Zweifamilienhäuser nach § 181 Absatz 1 Nummer 1 BewG und Wohnungseigentum nach § 181 Absatz 1 Nummer 3 BewG
 
@@ -7170,7 +7170,7 @@ bis
 über
 3 000 000 EUR
 0,60
-(+++ Anlage 25: Zur Anwendung vgl. § 205 Abs. 10 +++)
+(+++ Anlage 25: Zur Anwendung vgl. § 265 Abs. 10 +++)
 
 Anlage 26 - (zu § 194 Abs. 3 Satz 2 und Abs. 4 sowie § 195 Abs. 3 Satz 2)Abzinsungsfaktoren
 
