@@ -194,8 +194,8 @@ Umgehen mit Informations- und Kommunikationstechnik (Â§ 4 Nr. 5)
 a)
 Bedeutung und NutzungsmÃ¶glichkeiten von Informations- und Kommunikationssystemen fÃ¼r den Ausbildungsbetrieb erlÃ¤utern
 3
- 
- 
+
+
 b)
 Arbeitsaufgaben mit Hilfe von Informations- und Kommunikationssystemen bearbeiten
 c)
@@ -207,8 +207,8 @@ Vorbereiten von ArbeitsablÃ¤ufen, Arbeiten im Team (Â§ 4 Nr. 6)
 a)
 ArbeitsauftrÃ¤ge erfassen
 3
- 
- 
+
+
 b)
 Informationen beschaffen und nutzen, insbesondere Rezepte, Produktbeschreibungen, Fachliteratur, Kataloge sowie Herstellungsanleitungen und Gebrauchsanweisungen
 c)
@@ -222,8 +222,8 @@ QualitÃ¤tssichernde MaÃŸnahmen (Â§ 4 Nr. 7)
 a)
 Ursachen von Fehlern und QualitÃ¤tsmÃ¤ngeln ermitteln
 2
- 
- 
+
+
 b)
 zur Verbesserung von ArbeitsvorgÃ¤ngen im eigenen Bereich beitragen
 c)
@@ -237,8 +237,8 @@ Umsetzen von Hygienevorschriften (Â§ 4 Nr. 8)
 a)
 GrundsÃ¤tze der Personalhygiene und der Arbeitshygiene anwenden
 4
- 
- 
+
+
 b)
 Lebensmittelhygiene in den betrieblichen AblÃ¤ufen anwenden
 c)
@@ -248,8 +248,8 @@ Handhaben von Anlagen, Maschinen und GerÃ¤ten (Â§ 4 Nr. 9)
 a)
 Anlagen, Maschinen und GerÃ¤te pflegen und reinigen
 4
- 
- 
+
+
 b)
 Anlagen, Maschinen und GerÃ¤te vorbereiten
 c)
@@ -261,8 +261,8 @@ Lagern und Kontrollieren von Lebensmitteln und Verpackungsmaterialien (Â§ 4 Nr. 
 a)
 Lagerverfahren fÃ¼r Rohstoffe, vorgefertigte und fertige Erzeugnisse unter BerÃ¼cksichtigung von Temperatur, Licht und Feuchtigkeit festlegen und anwenden
 3
- 
- 
+
+
 b)
 Arten und Eigenschaften von Lebensmitteln, insbesondere ihre wechselseitigen BeeintrÃ¤chtigungen bei der Lagerung, berÃ¼cksichtigen
 c)
@@ -274,8 +274,8 @@ Herstellen und Weiterverarbeiten von Massen (Â§ 4 Nr. 11)
 a)
 Zutaten auswÃ¤hlen und nach Rezeptur einsetzen
 10
- 
- 
+
+
 b)
 Biskuitmassen, insbesondere Wiener Masse anschlagen
 c)
@@ -291,8 +291,8 @@ Herstellen von Feinen Backwaren aus Teigen (Â§ 4 Nr. 12)
 a)
 BlÃ¤tterteige herstellen
 12
- 
- 
+
+
 b)
 gefÃ¼llte und ungefÃ¼llte Teile aus BlÃ¤tterteig aufmachen
 c)
@@ -308,8 +308,8 @@ Herstellen von FÃ¼llungen und Cremes (Â§ 4 Nr. 13)
 a)
 Sahne aufschlagen
 4
- 
- 
+
+
 b)
 Cremes herstellen
 c)
@@ -323,8 +323,8 @@ FÃ¼llungen, insbesondere Mandel-, Nuss-, Quark- und MohnfÃ¼llungen, herstellen
 a)
 Aprikotur, Glasuren und Gelees herstellen und verarbeiten
 3
- 
- 
+
+
 b)
 KuvertÃ¼re auswÃ¤hlen, temperieren und verarbeiten
 c)
@@ -334,8 +334,8 @@ Herstellen von Salz-, KÃ¤se- und PartygebÃ¤ck (Â§ 4 Nr. 15)
 a)
 SalzgebÃ¤ck aus BlÃ¤tterteig herstellen
 2
- 
- 
+
+
 b)
 KÃ¤segebÃ¤ck aus verschiedenen Teigen herstellen
 c)
@@ -345,8 +345,8 @@ Kundenberatung und Verkauf (Â§ 4 Nr. 16)
 a)
 Kundenerwartungen im Hinblick auf Sprache, KÃ¶rperhaltung, Gestik, Mimik und Kleidung beachten
 2
- 
- 
+
+
 b)
 Verkaufshandlungen durchfÃ¼hren
 Abschnitt II: Berufliche Fachbildung
@@ -365,20 +365,20 @@ Zeitliche Richtwerte in Wochen im Ausbildungsjahr
 Vorbereiten von ArbeitsablÃ¤ufen, Arbeiten im Team (Â§ 4 Nr. 6)
 a)
 Vorgaben auf Umsetzbarkeit prÃ¼fen und LÃ¶sungen teamorientiert entwickeln
- 
+
 2
- 
- 
+
+
 b)
 Bedarf an Arbeitsmaterial ermitteln
 c)
 ArbeitsablÃ¤ufe unter BerÃ¼cksichtigung insbesondere fertigungstechnischer, wirtschaftlicher und ergonomischer Gesichtspunkte planen, festlegen und vorbereiten
 d)
 Zeitaufwand und personelle UnterstÃ¼tzung festlegen
- 
- 
+
+
 3
- 
+
 e)
 Backzettel herstellen, Reihenfolge der Produktherstellung festlegen
 f)
@@ -387,9 +387,9 @@ Bestellbuch und Bestelllisten fÃ¼hren
 QualitÃ¤tssichernde MaÃŸnahmen (Â§ 4 Nr. 7)
 a)
 Bedeutung und Wirksamkeit qualitÃ¤tssichernder MaÃŸnahmen fÃ¼r den betrieblichen Ablauf beurteilen
- 
- 
- 
+
+
+
 4
 b)
 qualitÃ¤tssichernde Verfahren anwenden, insbesondere Techniken des Frischhalteverpackens
@@ -403,26 +403,26 @@ Rezepturen und ArbeitsgÃ¤nge unter dem Gesichtspunkt der QualitÃ¤tssicherung prÃ
 Herstellen und Weiterverarbeiten von Massen (Â§ 4 Nr. 11)
 a)
 schwere Massen, insbesondere fÃ¼r Sandkuchen und Fruchtkuchen, rÃ¼hren
- 
- 
+
+
 4
- 
+
 b)
 Lebkuchenmassen herstellen
 c)
 Baumkuchenmasse anschlagen und auftragen
- 
- 
- 
+
+
+
 2
 20
 Herstellen von Feinen Backwaren aus Teigen (Â§ 4 Nr. 12)
 a)
 MÃ¼rbeteige nach unterschiedlichen Verfahren herstellen
- 
+
 10
- 
- 
+
+
 b)
 SpritzmÃ¼rbeteige rÃ¼hren und dressieren
 c)
@@ -435,15 +435,15 @@ Lebkuchenteige, insbesondere fÃ¼r Honigkuchen, herstellen und verarbeiten
 Herstellen von FÃ¼llungen und Cremes (Â§ 4 Nr. 13)
 a)
 Cremes herstellen, insbesondere Milchcreme, leichte Creme, Sahnecreme, Canachecreme, Weincreme und Marzipancreme sowie deutsche, franzÃ¶sische und italienische Buttercreme mit und ohne Fonds
- 
+
 5
- 
- 
+
+
 b)
 frische FrÃ¼chte zu DickzuckerfrÃ¼chten verarbeiten
- 
- 
- 
+
+
+
 3
 c)
 pikante FÃ¼llungen, insbesondere KÃ¤se-, Ei-, Fleisch-, Fisch-, MeeresfrÃ¼chte- und GemÃ¼sefÃ¼llungen, herstellen
@@ -451,10 +451,10 @@ pikante FÃ¼llungen, insbesondere KÃ¤se-, Ei-, Fleisch-, Fisch-, MeeresfrÃ¼chte- 
 Gestalten von Torten und Konditoreierzeugnissen (Â§ 4 Nr. 17)
 a)
 Dekortechniken ausfÃ¼hren, insbesondere Einstreichen, Einstreuen, Einschlagen, Riefen, Belegen und Garnieren
- 
+
 4
- 
- 
+
+
 b)
 Ornamente und Schriftzeichen entwerfen und zeichnen
 c)
@@ -463,17 +463,17 @@ d)
 Petits fours verschiedener Art zusammensetzen, fÃ¼llen, Ã¼berziehen und ausgarnieren
 e)
 Dekorationsattrappen von Konditoreierzeugnissen herstellen
- 
- 
+
+
 5
- 
+
 f)
 Rohstoffe und Materialien unter Beachtung der Wechselwirkung von Aussehen und Geschmack zusammenstellen, Anschnitttorten herstellen
 g)
 Werkzeichnungen fÃ¼r Torten und FormstÃ¼cke unter Beachtung der Harmonie von Material, Farbe und Form anfertigen
- 
- 
- 
+
+
+
 8
 h)
 Festtags-, Form- und Aufsatztorten herstellen
@@ -481,9 +481,9 @@ Festtags-, Form- und Aufsatztorten herstellen
 Herstellen von Spezial- und DauergebÃ¤ck (Â§ 4 Nr. 18)
 a)
 Rezepturen, Materialien und Herstellungsarten fÃ¼r diÃ¤tetische Konditoreierzeugnisse unterscheiden, Produkte herstellen
- 
- 
- 
+
+
+
 4
 b)
 DauergebÃ¤ck herstellen, insbesondere Florentiner und MandelhÃ¶rnchen
@@ -491,9 +491,9 @@ DauergebÃ¤ck herstellen, insbesondere Florentiner und MandelhÃ¶rnchen
 Herstellen von Marzipan-, Schokoladen- und Nougaterzeugnissen (Â§ 4 Nr. 19)
 a)
 Marzipan- und Nougatarten herstellen
- 
- 
- 
+
+
+
 8
 b)
 Hohlfiguren aus Schokolade, Figuren aus Marzipan und Erzeugnisse aus Nougat herstellen
@@ -505,9 +505,9 @@ KÃ¶nigsberger Marzipan kneifen, flÃ¤mmen, abglÃ¤nzen und garnieren
 Entwerfen und Herstellen von Zuckererzeugnissen (Â§ 4 Nr. 20)
 a)
 Zucker kochen, Zuckerstufen bestimmen
- 
- 
- 
+
+
+
 3
 b)
 Krokantarten herstellen und verarbeiten
@@ -519,17 +519,17 @@ Bonbons herstellen, insbesondere Fruchtbonbons und Rahmkaramellen
 Herstellen von Pralinen (Â§ 4 Nr. 21)
 a)
 PralinenkÃ¶rper aus Marzipan-, Nougat- und TrÃ¼ffelmasse herstellen
- 
- 
+
+
 4
- 
+
 b)
 SchokoladenhohlkÃ¶rper ausformen, fÃ¼llen und deckeln
 c)
 Mandelsplitter herstellen
- 
- 
- 
+
+
+
 4
 d)
 PralinenkÃ¶rper Ã¼berziehen und garnieren
@@ -537,19 +537,19 @@ PralinenkÃ¶rper Ã¼berziehen und garnieren
 Herstellen von Speiseeis und Speiseeiserzeugnissen (Â§ 4 Nr. 22)
 a)
 Eismix nach Sorten und vorgegebenen Rezepturen herstellen und gefrieren
- 
- 
+
+
 3
- 
+
 b)
 Eisspeisen anrichten
 c)
 EismixgetrÃ¤nke zubereiten
 d)
 SahneeisfÃ¼llungen und HalbeisfÃ¼llungen fÃ¼r Parfaits und Souflees zubereiten
- 
- 
- 
+
+
+
 4
 e)
 Eistorten, Eisbomben und Eisziegel einsetzen, gefrieren, stÃ¼rzen und garnieren
@@ -557,19 +557,19 @@ Eistorten, Eisbomben und Eisziegel einsetzen, gefrieren, stÃ¼rzen und garnieren
 Herstellen von SÃ¼ÃŸspeisen (Â§ 4 Nr. 23)
 a)
 SÃ¼ÃŸspeisen und Desserts herstellen, insbesondere Cremespeisen, sÃ¼ÃŸe Eierspeisen, Obstspeisen und Mousse
- 
+
 2
- 
- 
+
+
 b)
 Fruchtgelees und KonfitÃ¼ren herstellen
 29
 Herstellen von Salz-, KÃ¤se- und PartygebÃ¤ck (Â§ 4 Nr. 15)
 a)
 KÃ¤sefours und herzhafte Fours, insbesondere mit Fleisch-, Fisch-, MeeresfrÃ¼chte-, Eier- und GemÃ¼sefÃ¼llungen, herstellen
- 
- 
- 
+
+
+
 5
 b)
 Pasteten mit verschiedenen FÃ¼llungen, insbesondere aus KÃ¤se, Fleisch, MeeresfrÃ¼chten und GemÃ¼se, zubereiten
@@ -579,45 +579,45 @@ unterschiedliche Canapees herstellen
 Herstellen von kleinen Gerichten unter Verwendung frischer Rohstoffe (Â§ 4 Nr. 24)
 a)
 Salatvariationen zubereiten
- 
+
 3
- 
- 
+
+
 b)
 herzhafte Teig- und Eierspeisen herstellen, insbesondere GemÃ¼sekuchen, Zwiebelkuchen, Omelette und Quiche
 c)
 sÃ¼ÃŸe Teigspeisen herstellen, insbesondere Omelettes, Crepes und Apfelstrudel
 d)
 klare und gebundene Suppen herstellen
- 
- 
+
+
 5
- 
+
 e)
 AuflÃ¤ufe, Gratins und Nudelgerichte zubereiten
 f)
 Toastvariationen zubereiten
 g)
 Gerichte mit Fleisch, Fisch, MeeresfrÃ¼chten und GemÃ¼se zubereiten
- 
- 
- 
+
+
+
 4
 31
 Kundenberatung und Verkauf (Â§ 4 Nr. 16)
 a)
 Konditoreierzeugnisse kundengerecht und transportsicher verpacken
- 
- 
+
+
 2
- 
+
 b)
 Kunden am Tisch bedienen
 c)
 Kunden unter BerÃ¼cksichtigung ihrer WÃ¼nsche und der Produktbeschaffenheit beraten
- 
- 
- 
+
+
+
 3
 d)
 Konditoreierzeugnisse prÃ¤sentieren und verkaufen, verschiedene Verpackungstechniken anwenden

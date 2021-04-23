@@ -240,7 +240,7 @@ a)
 Skizzen und Zeichnungen lesen
 2
 2
-†
+
 b)
 Handskizzen anfertigen
 c)
@@ -252,112 +252,112 @@ Hei√üverarbeiten von Glasr√∂hren und Glasst√§ben (¬ß 4 Abs. 1 Nr. 8)
 a)
 Kapillar-, Biege- und Zylinderr√∂hren bis 12 mm Durchmesser mechanisch und thermisch trennen
 3
-†
-†
+
+
 b)
 an Bieger√∂hren Spitzen ziehen
 8
-†
-†
+
+
 c)
 Zylinderr√∂hren von h√∂chstens 15 mm Durchmesser verengen
 5
-†
-†
+
+
 d)
 Bieger√∂hren von h√∂chstens 10 mm Durchmesser stumpf- und rechtwinklig biegen
-†
+
 4
-†
+
 e)
 Bieger√∂hren gleichen Durchmessers von h√∂chstens 10 mm zusammensetzen
 6
-†
-†
+
+
 f)
 an runden Kapillarr√∂hren von 5 bis 7 mm Durchmesser Erweiterungen aufblasen und Gef√§√ür√∂hren ansetzen
-†
+
 10
-†
+
 g)
 Kapillaren und Gef√§√üe mit Quecksilber ausmessen und Gef√§√üe zuschmelzen
-†
+
 8
-†
+
 h)
 hei√üverarbeitetes Glas durch K√ºhlen entspannen und auf Restspannungen pr√ºfen
 3
-†
-†
+
+
 i)
 an Zylinderr√∂hren H√§lse ziehen
-†
+
 4
-†
+
 k)
 Scheibchen auftreiben
-†
+
 4
-†
+
 l)
 Kapillarr√∂hren mit unterschiedlicher √ñffnung zusammenschmelzen und Knie anbringen
-†
+
 4
-†
+
 m)
 vorgefertigte √ñsen an Stabthermometern anbringen
-†
+
 4
-†
+
 9
 Justieren und Skalieren (¬ß 4 Abs. 1 Nr. 9)
 a)
 Thermometerteile s√§ubern
 2
-†
-†
+
+
 b)
 einfache Stabthermometer mit benetzender Fl√ºssigkeit f√ºllen
 4
-†
-†
+
+
 c)
 Nullpunkt festlegen, √ºbersch√ºssige Fl√ºssigkeit entfernen
-†
+
 2
-†
+
 d)
 einfache Thermometer in Eis- und Wasserb√§dern bis zu 50 Grad C justieren
 8
-†
-†
+
+
 e)
 Einfache Skalen numerieren, stempeln und einpassen
 7
-†
-†
+
+
 f)
 einfache Skalen einstellen, verkorken oder versiegeln
-†
+
 4
-†
+
 g)
 Wachs auftragen
-†
+
 2
-†
+
 h)
 entwachsen und einf√§rben
-†
+
 2
-†
+
 10
 Qualit√§tskontrolle (¬ß 4 Abs. 1 Nr. 10)
 a)
 Kriterien f√ºr die Kontrolle von Rohmaterialien sowie Thermometerbl√§ser- und Thermometerjustierarbeiten nennen, Fehlerquellen f√ºr die Be- und Verarbeitung erl√§utern
 4
-†
-†
+
+
 b)
 Glasteile auf Fehler, insbesondere auf Ungeradheit, Schlieren, Steine, Luftstreifen und Kaliberfehler, pr√ºfen
 c)
@@ -366,9 +366,9 @@ d)
 gef√ºllte Thermometer auf Gaseinschl√ºsse √ºberpr√ºfen
 e)
 Thermometer vorjustieren
-†
+
 2
-†
+
 f)
 Teilung nachpr√ºfen
 II. Drittes Ausbildungsjahr
@@ -377,76 +377,76 @@ A. Fachrichtung Thermometerblasen
 Hei√üverarbeiten von Glasr√∂hren und Glasst√§ben zu Thermometern (¬ß 4 Abs. 2 Nr. 1 Buchstabe a)
 a)
 Bieger√∂hren an Zylinderr√∂hren ansetzen
-†
-†
+
+
 4
 b)
 Kapillaren zum Einschmelzen vorbereiten
 c)
 Kapillaren einschmelzen
-†
-†
+
+
 5
 d)
 Thermometer mit betriebs√ºblichen Ger√§ten und Anlagen durch K√ºhlen entspannen und der k√ºnstlichen Alterung zuf√ºhren
-†
-†
+
+
 2
 e)
 Zylinderthermometer mit benetzender F√ºllung f√ºr einen Me√übereich von 0 Grad C bis 100 Grad C herstellen
-†
-†
+
+
 4
 f)
 Stabthermometer bis 400 mm L√§nge und mit einem Me√übereich von 0 Grad C bis zu 400 Grad C herstellen
-†
-†
+
+
 6
 g)
 Stockthermometer mit einer Gesamtl√§nge bis zu 800 mm und einem Me√übereich von 0 Grad C bis zu 400 Grad C herstellen
-†
-†
+
+
 6
 h)
 Winkelthermometer mit Unterteil bis 300 mm L√§nge und einem Me√übereich von 0 Grad C bis zu 400 Grad C herstellen
-†
-†
+
+
 4
 i)
 Laboratoriumsthermometer bis 400 mm L√§nge und mit einem Me√übereich von -100 Grad C bis +30 Grad C herstellen
-†
-†
+
+
 6
 k)
 Kontaktthermometer in Stabform mit einem Kontakt zwischen 0 Grad C und 40 Grad C herstellen
-†
-†
+
+
 3
 l)
 Thermometer zuschmelzen, insbesondere mit Rundverschlu√ü, Verschlu√ü mit Stift und √ñse
-†
-†
+
+
 4
 2
 Evakuieren sowie F√ºllen von Thermometern (¬ß 4 Abs. 2 Nr. 1 Buchstabe b)
 a)
 Aufbau und Wirkungsweise von Vakuumanlagen erkl√§ren und entsprechende Sicherheitsvorschriften nennen
-†
-†
+
+
 2
 b)
 Thermometer mit der Vakuumanlage evakuieren
 c)
 F√ºllfl√ºssigkeiten nach Eigenschaften und Verwendungsbereichen einteilen
-†
-†
+
+
 4
 d)
 Thermometer mit benetzenden und nicht benetzenden Fl√ºssigkeiten von Hand f√ºllen
 e)
 Funktion von Schutzgasen in Thermometern sowie deren Einf√ºll- und Betriebsdruck erl√§utern
-†
-†
+
+
 2
 f)
 Schutzgas einf√ºllen
@@ -455,59 +455,59 @@ B. Fachrichtung Thermometerjustieren
 Justieren von Thermometern (¬ß 4 Abs. 2 Nr. 2 Buchstabe a)
 a)
 Wichtige in- und ausl√§ndische Normen und Eichvorschriften anwenden
-†
-†
+
+
 2
 b)
 Wassersiedeapparat bis 100 Grad C auf Normalbedingungen einregulieren und Thermometerjustieren
-†
-†
+
+
 5
 c)
 √ñl- und Salpeterapparat bis 300 Grad C einregulieren und Thermometer justieren
-†
-†
+
+
 6
 d)
 K√§ltemischungen mit Trockeneis ansetzen, einregulieren und K√§ltethermometer justieren
-†
-†
+
+
 5
 e)
 eine Quecksilbers√§ule abtrennen, die einer Teilungsl√§nge von 100 Grad C entspricht
-†
-†
+
+
 2
 f)
 Justierpunkte √ºberpr√ºfen und Korrekturen durchf√ºhren
-†
-†
+
+
 2
 2
 Skalieren und Fertigmachen von Thermometern (¬ß 4 Abs. 2 Nr. 2 Buchstabe b)
 a)
 Teilmaschine f√ºr verschiedene Me√übereiche und Skalenwerte von 2 Grad C bis 0,2 Grad C einrichten, Skalen unter Ber√ºcksichtigung der Justierpunkte teilen
-†
-†
+
+
 12
 b)
 verschiedene √Ñtzmittel und deren Anwendung nennen
-†
-†
+
+
 3
 c)
 Thermometerskalen √§tzen
 d)
 Thermometer mit Pantographen beschriften und Skalen beziffern
-†
-†
+
+
 8
 e)
 weitere Skalierungsverfahren nennen
 f)
 Thermometer fertigmachen, insbesondere einf√§rben, einbrennen, aufbinden sowie Skalenblatt abtrennen und mit Kappe verschlie√üen
-†
-†
+
+
 7
 
 Anhang EV - Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III  und Kapitel XVI Sachgebiet C Abschnitt III  (BGBl. II 1990, 889, 998, 1135)

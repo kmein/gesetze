@@ -6,10 +6,10 @@ Ausfertigungsdatum: 19.06.2017
 
 InhaltsÃ¼bersicht
 
- 
- 
- 
- 
+
+
+
+
 
 Â§ 1 - Ziel des Vorbereitungsdienstes
 
@@ -41,11 +41,11 @@ InhaltsÃ¼bersicht
 Â§ 4 - Bewertung von Leistungen
 
 (1) Leistungen werden wie folgt bewertet:
- 
+
 Rangpunktzahl
 Note
 Notendefinition
- 
+
 1
 2
 3
@@ -123,11 +123,11 @@ In den Vorbereitungsdienst kann eingestellt werden, wer Ã¼ber die allgemeinen be
 
 (1) Der Vorbereitungsdienst dauert zwei Jahre. Er besteht aus folgenden Ausbildungsphasen:\\
 \\
- 
+
 Ausbildungsphase
 DurchfÃ¼hrende Stelle
 Dauer
- 
+
 1
 2
 3

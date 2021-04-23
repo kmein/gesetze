@@ -290,46 +290,46 @@ Durch die Rückübertragung von Grundstücken und Gebäuden oder die Aufhebung d
 (2) Aufbauhypotheken und vergleichbare Grundpfandrechte zur Sicherung von Baukrediten, die durch den staatlichen Verwalter bestellt wurden, sind mit folgenden Abschlägen von dem zunächst auf Mark der Deutschen Demokratischen Republik umzurechnenden Nennbetrag des Grundpfandrechts zu berücksichtigen. Der Abschlag beträgt jährlich für ein Grundpfandrecht\\
 1.
 bei Gebäuden mit ein oder zwei Einheiten
-�
+
 bis zu 10.000 Mark der DDR
 4,0 vom Hundert,
-�
+
 bis zu 30.000 Mark der DDR
 3,0 vom Hundert,
-�
+
 über 30.000 Mark der DDR
 2,0 vom Hundert;
 2.
 bei Gebäuden mit drei oder vier Einheiten
-�
+
 bis zu 10.000 Mark der DDR
 4,5 vom Hundert,
-�
+
 bis zu 30.000 Mark der DDR
 3,5 vom Hundert,
-�
+
 über 30.000 Mark der DDR
 2,5 vom Hundert;
 3.
 bei Gebäuden mit fünf bis acht Einheiten
-�
+
 bis zu 20.000 Mark der DDR
 5,0 vom Hundert,
-�
+
 bis zu 50.000 Mark der DDR
 4,0 vom Hundert,
-�
+
 über 50.000 Mark der DDR
 2,5 vom Hundert;
 4.
 bei Gebäuden mit neun und mehr Einheiten
-�
+
 bis zu 40.000 Mark der DDR
 5,0 vom Hundert,
-�
+
 bis zu 80.000 Mark der DDR
 4,0 vom Hundert,
-�
+
 über 80.000 Mark der DDR
 2,5 vom Hundert.
 \\
@@ -460,7 +460,7 @@ Für jeden Landkreis, jede kreisfreie Stadt und für Berlin wird ein Amt zur Reg
 
 § 30b - Anmeldevermerk
 
-(1) Für Grundstücke und Erbbaurechte, für die innerhalb der Ausschlussfrist des § 30a ein Antrag auf Rückübertragung eingegangen ist, der weder bestandskräftig abgelehnt noch zurückgenommen oder für erledigt erklärt worden ist, ersucht die zuständige Behörde das Grundbuchamt um Eintragung eines Anmeldevermerks im Grundbuch. Der Anmeldevermerk ist in der zweiten Abteilung des Grundbuchs mit folgendem Wortlaut einzutragen: �Es liegt ein Antrag auf Rückübertragung nach § 30 Absatz 1 des Vermögensgesetzes vor.“ Die Eintragung erfolgt ausschließlich auf Grund von Ersuchen nach Satz 1.
+(1) Für Grundstücke und Erbbaurechte, für die innerhalb der Ausschlussfrist des § 30a ein Antrag auf Rückübertragung eingegangen ist, der weder bestandskräftig abgelehnt noch zurückgenommen oder für erledigt erklärt worden ist, ersucht die zuständige Behörde das Grundbuchamt um Eintragung eines Anmeldevermerks im Grundbuch. Der Anmeldevermerk ist in der zweiten Abteilung des Grundbuchs mit folgendem Wortlaut einzutragen: Es liegt ein Antrag auf Rückübertragung nach § 30 Absatz 1 des Vermögensgesetzes vor.“ Die Eintragung erfolgt ausschließlich auf Grund von Ersuchen nach Satz 1.
 (2) Wird der Antrag auf Rückübertragung in der Folgezeit bestandskräftig abgelehnt, zurückgenommen oder für erledigt erklärt, ersucht die zuständige Behörde das Grundbuchamt unverzüglich um Löschung des Anmeldevermerks.
 
 § 31 - Pflichten der Behörde

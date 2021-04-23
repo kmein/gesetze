@@ -71,40 +71,40 @@ Die Anlage 2a zum Sechsten Buch Sozialgesetzbuch wird f√ºr den Zeitraum "1.1.199
 (1) Die auf Grund des vorl√§ufigen Durchschnittsentgelts und des Beitragssatzes f√ºr das Jahr 1994 berechneten Faktoren betragen im Jahre 1994\\
 1.
 in der Rentenversicherung der Arbeiter und der Angestellten f√ºr die Umrechnung
-†
-†
+
+
 a)
 von Entgeltpunkten in Beitr√§ge
 9.960,3840,
-†
-†
+
+
 von Entgeltpunkten (Ost) in Beitr√§ge
 7.713,4547,
-†
+
 b)
 von Beitr√§gen, Barwerten, Deckungskapitalien und vergleichbaren Deckungsr√ºcklagen in Entgeltpunkte
 0,0001003977,
-†
-†
+
+
 von Beitr√§gen in Entgeltpunkte (Ost)
 0,0001296436,
 2.
 in der knappschaftlichen Rentenversicherung f√ºr die Umrechnung
-†
-†
+
+
 a)
 von Entgeltpunkten in Beitr√§ge
 13.228,6350,
-†
-†
+
+
 von Entgeltpunkten (Ost) in Beitr√§ge
 10.244,4320,
-†
+
 b)
 von Beitr√§gen in Entgeltpunkte
 0,0000755936,
-†
-†
+
+
 von Beitr√§gen in Entgeltpunkte (Ost)
 0,0000976140.
 (2) Entgeltpunkte werden in Beitr√§ge umgerechnet, indem sie mit dem im Zeitpunkt der Beitragsentrichtung ma√ügebenden Umrechnungsfaktor vervielf√§ltigt werden.

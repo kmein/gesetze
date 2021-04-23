@@ -78,23 +78,23 @@ und macht deren Namen jeweils im Bundesanzeiger bekannt. Dies gilt nicht für Ge
 - 6. :: Unterschrift,
 - 7. :: Größe,
 - 8. :: Farbe der Augen,
-- 9. :: Anschrift; hat der Ausweisinhaber keine Wohnung in Deutschland, kann die Angabe �keine Wohnung in Deutschland“ eingetragen werden,
+- 9. :: Anschrift; hat der Ausweisinhaber keine Wohnung in Deutschland, kann die Angabe keine Wohnung in Deutschland“ eingetragen werden,
 - 10. :: Staatsangehörigkeit,
 - 11. :: Seriennummer und
 - 12. :: Ordensname, Künstlername.
 
 (3) Der vorläufige Personalausweis enthält die in Absatz 2 Nr. 1 bis 12 und die in Absatz 4 Satz 2 genannten Angaben sowie die Angabe der ausstellenden Behörde, den Tag der Ausstellung und den letzten Tag der Gültigkeitsdauer.
-(3a) Der Ersatz-Personalausweis enthält die in Absatz 2 Nummer 1 bis 12 und die in Absatz 4 Satz 2 genannten Angaben sowie die Angabe der ausstellenden Behörde, den Tag der Ausstellung, den letzten Tag der Gültigkeitsdauer und den Vermerk, dass der Ersatz-Personalausweis nicht zum Verlassen Deutschlands berechtigt. Abweichend von Absatz 2 Nummer 9 ist die Eintragung �keine Wohnung in Deutschland“ nicht zulässig.
+(3a) Der Ersatz-Personalausweis enthält die in Absatz 2 Nummer 1 bis 12 und die in Absatz 4 Satz 2 genannten Angaben sowie die Angabe der ausstellenden Behörde, den Tag der Ausstellung, den letzten Tag der Gültigkeitsdauer und den Vermerk, dass der Ersatz-Personalausweis nicht zum Verlassen Deutschlands berechtigt. Abweichend von Absatz 2 Nummer 9 ist die Eintragung keine Wohnung in Deutschland“ nicht zulässig.
 (4) Ausweise haben einen Bereich für das automatisierte Auslesen. Dieser darf ausschließlich die folgenden sichtbar aufgedruckten Angaben enthalten:
 
 - 1. :: Abkürzungen
-  - a) :: �IDD“ für Personalausweis der Bundesrepublik Deutschland,
-  - b) :: �ITD“ für vorläufigen Personalausweis der Bundesrepublik Deutschland oder
-  - c) :: �IXD“ für Ersatz-Personalausweis der Bundesrepublik Deutschland,
+  - a) :: IDD“ für Personalausweis der Bundesrepublik Deutschland,
+  - b) :: ITD“ für vorläufigen Personalausweis der Bundesrepublik Deutschland oder
+  - c) :: IXD“ für Ersatz-Personalausweis der Bundesrepublik Deutschland,
 - 2. :: Familienname,
 - 3. :: Vornamen,
 - 4. :: Seriennummer,
-- 5. :: Abkürzung �D“ für deutsche Staatsangehörigkeit,
+- 5. :: Abkürzung D“ für deutsche Staatsangehörigkeit,
 - 6. :: Tag der Geburt,
 - 7. :: letzter Tag der Gültigkeitsdauer,
 - 8. :: Prüfziffern und
@@ -247,7 +247,7 @@ Zur Identitätsfeststellung berechtigte Behörden dürfen die im elektronischen 
 - 7. :: Dokumentenart,
 - 7a. :: letzter Tag der Gültigkeitsdauer,
 - 8. :: dienste- und kartenspezifisches Kennzeichen,
-- 9. :: Abkürzung �D“ für Bundesrepublik Deutschland,
+- 9. :: Abkürzung D“ für Bundesrepublik Deutschland,
 - 10. :: Angabe, ob ein bestimmtes Alter über- oder unterschritten wird,
 - 11. :: Angabe, ob ein Wohnort dem abgefragten Wohnort entspricht, und
 - 12. :: Ordensname, Künstlername.

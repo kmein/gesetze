@@ -36,14 +36,14 @@ verordnet das Bundesministerium für Arbeit und Soziales:
 - 1. :: in der allgemeinen Rentenversicherung jährlich 71 400 Euro und monatlich 5 950 Euro,
 - 2. :: in der knappschaftlichen Rentenversicherung jährlich 87 600 Euro und monatlich 7 300 Euro.
 
-Die Anlage 2 zum Sechsten Buch Sozialgesetzbuch wird für den Zeitraum �1. 1. 2014 -- 31. 12. 2014“ um die Jahresbeträge ergänzt.
+Die Anlage 2 zum Sechsten Buch Sozialgesetzbuch wird für den Zeitraum 1. 1. 2014 -- 31. 12. 2014“ um die Jahresbeträge ergänzt.
 
 (2) Die Beitragsbemessungsgrenzen (Ost) betragen im Jahr 2014
 
 - 1. :: in der allgemeinen Rentenversicherung jährlich 60 000 Euro und monatlich 5 000 Euro,
 - 2. :: in der knappschaftlichen Rentenversicherung jährlich 73 800 Euro und monatlich 6 150 Euro.
 
-Die Anlage 2a zum Sechsten Buch Sozialgesetzbuch wird für den Zeitraum �1. 1. 2014 -- 31. 12. 2014“ um die Jahresbeträge ergänzt.
+Die Anlage 2a zum Sechsten Buch Sozialgesetzbuch wird für den Zeitraum 1. 1. 2014 -- 31. 12. 2014“ um die Jahresbeträge ergänzt.
 
 
 § 4 - Jahresarbeitsentgeltgrenze in der Krankenversicherung
@@ -58,7 +58,7 @@ Die Anlage 10 zum Sechsten Buch Sozialgesetzbuch wird wie folgt ergänzt:\\
 | Jahr  | Umrechnungswert | vorläufiger\\   |
 |       |                 | Umrechnungswert |
 |-------+-----------------+-----------------|
-| �2012 | 1,1785          |                 |
+| 2012 | 1,1785          |                 |
 | 2014  |                 | 1,1873”.        |
 
 

@@ -10,7 +10,7 @@ Auf Grund des § 25 Absatz 1 Satz 1 in Verbindung mit § 26 Absatz 1 und 2 Satz 
 
 § 1 - Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf Schornsteinfeger und Schornsteinfegerin wird nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe 12 �Schornsteinfeger“ der Anlage A der Handwerksordnung staatlich anerkannt.
+Der Ausbildungsberuf Schornsteinfeger und Schornsteinfegerin wird nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe 12 Schornsteinfeger“ der Anlage A der Handwerksordnung staatlich anerkannt.
 
 § 2 - Dauer der Berufsausbildung
 
@@ -168,12 +168,12 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 (2) Die Gesellenprüfung ist bestanden, wenn die Leistungen wie folgt bewertet worden sind:
 
-- 1. :: im Gesamtergebnis mit mindestens �ausreichend“,
-- 2. :: im Prüfungsbereich Arbeitsauftrag mit mindestens �ausreichend“,
-- 3. :: in mindestens zwei weiteren Prüfungsbereichen mit mindestens �ausreichend“ und
-- 4. :: in keinem Prüfungsbereich mit �ungenügend“.
+- 1. :: im Gesamtergebnis mit mindestens ausreichend“,
+- 2. :: im Prüfungsbereich Arbeitsauftrag mit mindestens ausreichend“,
+- 3. :: in mindestens zwei weiteren Prüfungsbereichen mit mindestens ausreichend“ und
+- 4. :: in keinem Prüfungsbereich mit ungenügend“.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als �ausreichend“ bewerteten Prüfungsbereiche �Anlagentechnik“ oder �Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 :1 zu gewichten.
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als ausreichend“ bewerteten Prüfungsbereiche Anlagentechnik“ oder Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 :1 zu gewichten.
 
 § 8 - Bestehende Berufsausbildungsverhältnisse
 

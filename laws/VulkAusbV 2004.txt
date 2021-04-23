@@ -249,9 +249,9 @@ Planen und Vorbereiten von ArbeitsablÃ¤ufen sowie Kontrollieren und Bewerten von
 a)
 Arbeitsschritte und -ablÃ¤ufe nach funktionalen, organisatorischen, technischen, wirtschaftlichen Kriterien planen und festlegen
 4
- 
- 
- 
+
+
+
 b)
 Werkstoffe, Betriebsmittel und Hilfsstoffe ermitteln
 c)
@@ -267,9 +267,9 @@ QualitÃ¤tsmanagement (Â§ 5 Abs. 1 Nr. 6)
 a)
 PrÃ¼fverfahren und PrÃ¼fmittel anforderungsbezogen anwenden
 4
- 
- 
- 
+
+
+
 b)
 Ursachen von Fehlern und QualitÃ¤tsmÃ¤ngeln systematisch suchen, zur Beseitigung beitragen, Arbeiten dokumentieren
 c)
@@ -279,9 +279,9 @@ Messen und PrÃ¼fen an Systemen (Â§ 5 Abs. 1 Nr. 7)
 a)
 Verfahren und MessgerÃ¤te auswÃ¤hlen, Messfehler abschÃ¤tzen
 5
- 
- 
- 
+
+
+
 b)
 elektrische Verbindungen, Leitungen und LeitungsanschlÃ¼sse auf mechanische SchÃ¤den sichtprÃ¼fen
 c)
@@ -297,9 +297,9 @@ Betriebliche und technische Kommunikation (Â§ 5 Abs. 1 Nr. 8)
 a)
 Bedeutung der Information, Kommunikation und Dokumentation fÃ¼r den wirtschaftlichen Betriebsablauf beurteilen und zur Vermeidung von StÃ¶rungen beitragen
 8
- 
- 
- 
+
+
+
 b)
 betriebliches Informationssystem zum Bearbeiten von ArbeitsauftrÃ¤gen anwenden und zur Beschaffung von technischen Unterlagen und Informationen nutzen
 c)
@@ -325,9 +325,9 @@ Kommunikation mit internen und externen Kunden (Â§ 5 Abs. 1 Nr. 9)
 a)
 KundenwÃ¼nsche und Informationen entgegennehmen, im Betrieb weiterleiten und nach Vorgabe berÃ¼cksichtigen
 3
- 
- 
- 
+
+
+
 b)
 Vorgaben fÃ¼r das Informieren Ã¼ber Instandhaltungsarbeiten beachten
 c)
@@ -337,9 +337,9 @@ Bedienen von Fahrzeugen und Systemen (Â§ 5 Abs. 1 Nr. 10)
 a)
 Vorschriften und Hinweise zur Sicherheit und zur Bedienung beachten und anwenden
 3
- 
- 
- 
+
+
+
 b)
 Bedienungsanleitungen lesen, anwenden und erklÃ¤ren
 c)
@@ -351,9 +351,9 @@ Warten, PrÃ¼fen und Einstellen von Fahrzeugen und Systemen sowie von Betriebsein
 a)
 Arbeits- und Sicherheitsregeln sowie Herstellerrichtlinien beim Transport und beim Heben von Hand anwenden
 9
- 
- 
- 
+
+
+
 b)
 Fahrzeuge, Baugruppen und Systeme bewegen, abstellen, anheben, abstÃ¼tzen und sichern
 c)
@@ -373,9 +373,9 @@ Montieren, Demontieren und Instandsetzen von Bauteilen, Baugruppen und Systemen 
 a)
 Bauteile, Baugruppen und Systeme, insbesondere RÃ¤der, Reifen und Fahrwerk, auÃŸer Betrieb nehmen, demontieren, zerlegen, auf Wiederverwertbarkeit prÃ¼fen, kennzeichnen und systematisch ablegen
 16
- 
- 
- 
+
+
+
 b)
 demontierte Bauteile und Baugruppen Systemen zuordnen und auf VollstÃ¤ndigkeit prÃ¼fen
 c)
@@ -412,20 +412,20 @@ Zeitliche Richtwerte in Wochen im Ausbildungsjahr
 Planen und Vorbereiten von ArbeitsablÃ¤ufen sowie Kontrollieren und Bewerten von Arbeitsergebnissen (Â§ 5 Abs. 1 Nr. 5)
 a)
 ArbeitsablÃ¤ufe unter BerÃ¼cksichtigung des Arbeitsauftrages, der Instandhaltungsvorgaben, Einbauanleitungen, der personellen und technischen Gegebenheiten, planen, kontrollieren und beurteilen
- 
+
 3
- 
- 
+
+
 b)
 SchÃ¤den an angrenzenden Bauteilen und Baugruppen feststellen, protokollieren und MaÃŸnahmen zu ihrer Beseitigung einleiten
 c)
 Zeit-, Teile- und Materialbedarf sowie Betriebs- und Hilfsstoffe fÃ¼r den Arbeitsauftrag festlegen
 d)
 Aufgaben im Team planen und bearbeiten, Ergebnisse abstimmen und auswerten
- 
- 
+
+
 3
- 
+
 e)
 Arbeitsergebnisse Ã¼berprÃ¼fen, beurteilen und protokollieren
 f)
@@ -434,18 +434,18 @@ Verkehrs- und Betriebssicherheit kontrollieren und dokumentieren
 QualitÃ¤tsmanagement (Â§ 5 Abs. 1 Nr. 6)
 a)
 Richtlinien zur Sicherung der Produkt- und ArbeitsqualitÃ¤t beachten
- 
+
 2
- 
- 
+
+
 b)
 PrÃ¼f- und Wartungsfristen von Betriebs- und PrÃ¼fmitteln beachten und MaÃŸnahmen einleiten
 c)
 Verfahren fÃ¼r RÃ¼ckrufaktionen oder Nachbesserungen beachten
- 
- 
+
+
 2
- 
+
 d)
 zur kontinuierlichen Verbesserung von ArbeitsvorgÃ¤ngen im eigenen Arbeitsbereich beitragen
 e)
@@ -454,18 +454,18 @@ Dokumentation zur Ãœbergabe von Fahrzeugen zusammenstellen
 PrÃ¼fen und Eingrenzen von SchÃ¤den und StÃ¶rungen sowie Bestimmen der Ursachen (Â§ 5 Abs. 1 Nr. 13)
 a)
 SchÃ¤den und StÃ¶rungen unter Beachtung von Kundenangaben systematisch eingrenzen, feststellen und protokollieren, MÃ¶glichkeiten zur Behebung darstellen und beurteilen
- 
+
 3
- 
- 
+
+
 b)
 Bauteile und Baugruppen auf VerschleiÃŸ und Dichtheit prÃ¼fen
 c)
 Leitungen und LeitungsanschlÃ¼sse auf SchÃ¤den prÃ¼fen, SchÃ¤den beurteilen
- 
- 
+
+
 3
- 
+
 d)
 physikalische GrÃ¶ÃŸen, insbesondere Winkel, DrÃ¼cke und Temperaturen, prÃ¼fen und beurteilen
 e)
@@ -474,36 +474,36 @@ PrÃ¼f- und DiagnosegerÃ¤te auswÃ¤hlen und anwenden, Messwerte beurteilen
 Betriebliche und technische Kommunikation (Â§ 5 Abs. 1 Nr. 8)
 a)
 technische Informationen vermitteln, prÃ¤sentieren und dokumentieren
- 
+
 3
- 
- 
+
+
 b)
 Gesetze und Vorschriften, insbesondere des StraÃŸenverkehrs- und Haftungsrechts, auftragsbezogen beachten
 c)
 Kommunikations- und Informationssysteme, insbesondere zur Erstellung von Arbeitsnachweisen, nutzen
- 
- 
+
+
 3
- 
+
 d)
 Bedeutung deutscher und englischer FachausdrÃ¼cke erklÃ¤ren
 5
 Kommunikation mit internen und externen Kunden (Â§ 5 Abs. 1 Nr. 9)
 a)
 MaÃŸnahmen zur Umsetzung von KundenwÃ¼nschen einleiten
- 
+
 3
- 
- 
+
+
 b)
 Kunden auf MÃ¤ngel und Instandhaltungsbedarf hinweisen
 c)
 StÃ¶rungs- und Schadensanalyse durch eingrenzende Kundenbefragung durchfÃ¼hren
- 
- 
+
+
 7
- 
+
 d)
 Kunden in die Bedienung von ZubehÃ¶r und Zusatzeinrichtungen unter Beachtung der Bedienungsanleitung einweisen
 e)
@@ -516,30 +516,30 @@ Reklamationen entgegennehmen und unter kundenspezifischen und betrieblichen Gesi
 FÃ¼gen (Â§ 5 Abs. 1 Nr. 14)
 a)
 FÃ¼getechnik auswÃ¤hlen; Fahrzeugbauteile fÃ¼gen, insbesondere durch Schraub-, Kleb-, Press-, Klemm- und Steckverbindungen
- 
+
 2
- 
- 
+
+
 b)
 Reihenfolge, Form- und Kraftschluss sowie Sicherung beachten
 7
 Manuelles und maschinelles Be- und Verarbeiten von Werk- und Hilfsstoffen (Â§ 5 Abs. 1 Nr. 15)
 a)
 Kennwerte von handgefÃ¼hrten und ortsfesten Maschinen unter BerÃ¼cksichtigung von Werk- und Hilfsstoffen bestimmen und einstellen
- 
+
 3
- 
- 
+
+
 b)
 Werkzeuge und Maschinen unter BerÃ¼cksichtigung der WerkstÃ¼cke, der Verfahren sowie der Werk- und Hilfsstoffe auswÃ¤hlen und einrichten
 c)
 WerkstÃ¼cke und Bauteile unter BerÃ¼cksichtigung von Werkstoffeigenschaften manuell und mit Maschinen bearbeiten
 d)
 FlÃ¤chen und Formen an WerkstÃ¼cken und Bauteilen der Reifenmechanik und Vulkanisationstechnik aus Eisen, Nichteisenmetallen, Kunststoffen und Gummi bearbeiten
- 
- 
+
+
 4
- 
+
 e)
 Gummibauteile fÃ¼r verschiedene Anwendungsgebiete vulkanisieren
 f)
@@ -548,18 +548,18 @@ Werk- und Hilfsstoffe unter Beachtung ihrer Eigenschaften lagern
 Bedienen und Instandhalten von Werkzeugen, GerÃ¤ten, Maschinen und Anlagen (Â§ 5 Abs. 1 Nr. 16)
 a)
 Werkzeuge, GerÃ¤te, Maschinen und Anlagen, der Reifenservice- und Vulkanisationseinrichtungen auswÃ¤hlen und einrichten
- 
+
 2
- 
- 
+
+
 b)
 Funktionskontrollen durchfÃ¼hren und StÃ¶rungen beseitigen
 c)
 Mess- und PrÃ¼fgerÃ¤te auswÃ¤hlen, handhaben und instand halten
- 
- 
+
+
 4
- 
+
 d)
 Werkzeuge instand halten
 e)
@@ -568,10 +568,10 @@ GerÃ¤te, Maschinen und Anlagen warten
 Reparieren von SchlÃ¤uchen und ReifenlaufflÃ¤chen (Â§ 5 Abs. 1 Nr. 17)
 a)
 ReparaturfÃ¤higkeit von RÃ¤dern, Reifen und SchlÃ¤uchen unter BerÃ¼cksichtigung der Normen und des Ã¤uÃŸeren Erscheinungsbildes prÃ¼fen und beurteilen
- 
+
 5
- 
- 
+
+
 b)
 Reparaturmethode unter BerÃ¼cksichtigung gesetzlicher Vorschriften auswÃ¤hlen, Reparaturarbeiten durchfÃ¼hren, Ergebnisse kontrollieren und dokumentieren
 c)
@@ -593,8 +593,8 @@ Zeitliche Richtwerte in Wochen im Ausbildungsjahr
 Warten und Instandsetzen von Fahrwerken, Baugruppen und Systemen (Â§ 5 Abs. 2 Nr. 1 Buchstabe a)
 a)
 SchÃ¤den und StÃ¶rungen am Fahrwerk durch RadaufhÃ¤ngung, Rad- und Gummilager, Federung und DÃ¤mpfung, Radposition und Radstellung feststellen und beurteilen sowie Lenkung und Bremsen prÃ¼fen und beurteilen
- 
- 
+
+
 16
 b)
 Instandhalten von Fahrwerken unter BerÃ¼cksichtigung von Herstellerangaben durchfÃ¼hren und die Ergebnisse dokumentieren
@@ -606,8 +606,8 @@ Betriebseinrichtungen pflegen und warten
 Instandhalten von Reifen und RÃ¤dern (Â§ 5 Abs. 2 Nr. 1 Buchstabe b)
 a)
 Reifen und RÃ¤der unter BerÃ¼cksichtigung von Einsatzzweck, Fahrzeugart und Ã¤uÃŸerem Erscheinungsbild auf Fehler und SchÃ¤den prÃ¼fen und bewerten
- 
- 
+
+
 16
 b)
 Reifen auswÃ¤hlen
@@ -623,8 +623,8 @@ Reifen und RÃ¤der von ZweirÃ¤dern ein- und ausbauen
 VerÃ¤ndern der Fahrdynamik (Â§ 5 Abs. 2 Nr. 1 Buchstabe c)
 a)
 Fahrzeuge auf SonderrÃ¤der und -reifen umrÃ¼sten
- 
- 
+
+
 8
 b)
 Fahrwerke durch Ã„nderung von Komponenten nach KundenwÃ¼nschen optimieren
@@ -634,8 +634,8 @@ Fahrzeugoptik durch Anbauteile Ã¤ndern
 Verkaufen von Produkten (Â§ 5 Abs. 2 Nr. 1 Buchstabe d)
 a)
 Kundenbedarf ermitteln
- 
- 
+
+
 12
 b)
 Kunden bezÃ¼glich der technischen Machbarkeit ihrer WÃ¼nsche unter BerÃ¼cksichtigung von technischen Regeln, Normen und Vorschriften informieren und beraten
@@ -659,9 +659,9 @@ Zeitliche Richtwerte in Wochen im Ausbildungsjahr
 Instandsetzen von Reifen und SchlÃ¤uchen (Â§ 5 Abs. 2 Nr. 2 Buchstabe a)
 a)
 Reifen unter BerÃ¼cksichtigung von Dimensionierung, Aufbau, Einsatz, Fahrzeugart und Belastung prÃ¼fen und beurteilen, MaÃŸnahmen zur Fehlerbeseitigung ergreifen
- 
- 
- 
+
+
+
 16
 b)
 Reifenluftdruckkontrollsysteme prÃ¼fen und anpassen
@@ -679,9 +679,9 @@ Ventile an SchlÃ¤uchen ersetzen
 Erneuern von Reifen (Â§ 5 Abs. 2 Nr. 2 Buchstabe b)
 a)
 Reifen auf ErneuerungsfÃ¤higkeit prÃ¼fen und beurteilen, Erneuerungsverfahren auswÃ¤hlen, Reifen klassifizieren und Ergebnisse dokumentieren
- 
- 
- 
+
+
+
 20
 b)
 Werkstoffe unter BerÃ¼cksichtigung von formlosen und formgebenden Verfahren auswÃ¤hlen, Erneuerungsverfahren anwenden, Ergebnisse kontrollieren und dokumentieren
@@ -693,9 +693,9 @@ Betriebs- und Wertstoffe trennen und der Wiederverwertung zufÃ¼hren
 Warten und Instandsetzen von FÃ¶rdergurten (Â§ 5 Abs. 2 Nr. 2 Buchstabe c)
 a)
 FÃ¶rdergurte und FÃ¶rderbandanlagen unter BerÃ¼cksichtigung von Aufbau, Funktion und Einsatz prÃ¼fen
- 
- 
- 
+
+
+
 8
 b)
 Wartungs- und Instandsetzungsarbeiten mit verschiedenen Verfahren durchfÃ¼hren, Ergebnisse kontrollieren und dokumentieren
@@ -705,9 +705,9 @@ Endlosverbindungen mit verschiedenen Verfahren herstellen, Ergebnisse kontrollie
 Herstellen und Instandsetzen von Gummiauskleidungen und -belÃ¤gen (Â§ 5 Abs. 2 Nr. 2 Buchstabe d)
 a)
 Beschaffenheit von OberflÃ¤chen prÃ¼fen und beurteilen
- 
- 
- 
+
+
+
 8
 b)
 OberflÃ¤chen fÃ¼r Gummiauskleidungen und -belÃ¤ge unter BerÃ¼cksichtigung des Werkstoffes oder des Verbundstoffes vorbereiten

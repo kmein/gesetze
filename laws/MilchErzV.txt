@@ -98,7 +98,7 @@ Dies gilt nicht f√ºr Milcherzeugnisse, die unverpackt zum unmittelbaren Verzehr 
   - d) :: den in unmittelbarem Zusammenhang mit der Verkehrsbezeichnung stehenden Hinweis "sofort l√∂slich", wenn dem Trockenmilcherzeugnis der Stoff E 322 Lecithin zugesetzt worden ist,
 - 6. :: bei Molkenerzeugnissen, ausgenommen S√º√ümolke, Sauermolke, Molkensahne, S√º√ümolkenpulver und Sauermolkenpulver, die Angaben des Gehaltes an Eiwei√ü und Milchzucker sowie im Falle des Entsalzens auch an Mineralstoffen, ausgedr√ºckt als Aschegehalt in vom Hundert der Trockenmasse.
 
-(2) Wird bei einem Milcherzeugnis im Sinne der Anlage 1 der Laktosegehalt verringert, darf der Hinweis auf das Nichtvorhandensein von Laktose nur erfolgen, soweit der Laktosegehalt nach Ma√Laktosegehalt: unter 0,1 g/100 g‚Äú oder eine inhaltsgleiche Angabe enth√§lt.
+(2) Wird bei einem Milcherzeugnis im Sinne der Anlage 1 der Laktosegehalt verringert, darf der Hinweis auf das Nichtvorhandensein von Laktose nur erfolgen, soweit der Laktosegehalt nach MaLaktosegehalt: unter 0,1 g/100 g‚Äú oder eine inhaltsgleiche Angabe enth√§lt.
 
 ¬ß 5 - Zulassung von Zusatzstoffen
 
@@ -326,11 +326,11 @@ Kaffeesahne (Trinksahne, Kaffeerahm, Sahne, Rahm)
 wie Spalte 1, V b), jedoch ohne Anreicherung mit Milcheiwei√üerzeugnissen
 mindestens 10,0
 2.
-†
-†
-†
-†
-†
+
+
+
+
+
 3.
 Schlagsahne (Schlagrahm)
 3.
@@ -454,12 +454,12 @@ b) durch vollst√§ndiges oder teilweises Abscheiden des Eiwei√ües aus Milch herge
 S√º√ümolke
 1.
 durch Abscheiden des K√§sestoffes bei √ºber wiegender Labeinwirkung gewonnenes Milchserum, auch unter Verwendung von Lactase
-†
+
 2.
 Sauermolke
 2.
 durch Abscheiden des K√§sestoffes bei √ºberwiegender S√§ureeinwirkung gewonnenes Milchserum, auch unter Verwendung von Lactase
-†
+
 3.
 Molkensahne (Molkenrahm)
 3.
@@ -469,32 +469,32 @@ mindestens 10,0
 S√º√ümolkenpulver
 4.
 durch weitgehenden Entzug des Wassers aus S√º√ümolke hergestelltes Erzeugnis mit h√∂chstens 5% Wasser, Gehalt an Milchzucker mindestens 70%, auch unter Verwendung von Lactase
-†
+
 5.
 S√º√ümolkenpulver, teilentzuckert
 5.
 wie Nr. 4, jedoch geringerer Gehalt an Milchzucker durch teilweisen Entzug
-†
+
 6.
 Sauermolkenpulver
 6.
 durch weitgehenden Entzug des Wassers aus Sauermolke oder nachges√§uerter S√º√ümolke hergestelltes Erzeugnis mit h√∂chstens 6% Wasser, Gehalt an Milchzucker mindestens 60%, auch unter Verwendung von Lactase
-†
+
 7.
 Sauermolkenpulver, teilentzuckert
 7.
 wie Nr. 6, jedoch geringerer Gehalt an Milchzucker durch teilweisen Entzug
-†
+
 8.
 entsalztes Molkenpulver
 8.
 aus weitgehend entsalzter S√º√ü- oder Sauermolke hergestelltes S√º√ü- oder Sauermolkenpulver, Aschegehalt h√∂chstens 2,5%, Wassergehalt h√∂chstens 6%, auch unter Verwendung von Lactase
-†
+
 9.
 eiwei√üangereichertes Molkenpulver
 9.
 hergestellt aus S√º√ü- oder Sauermolke durch weitgehenden Entzug von Wasser, nach Verfahren, die das Molkeneiwei√ü anreichern, Eiwei√ügehalt mindestens 22%, Wassergehalt h√∂chstens 8%, auch unter Verwendung von Lactase
-†
+
 XI.
 a) Milchzuckererzeugnis
 b) aus Milch oder Molkenerzeugnissen durch Auskristallisieren oder andere Verfahren gewonnenes Kohlenhydrat, auch unter Verwendung von Lactase
@@ -502,12 +502,12 @@ b) aus Milch oder Molkenerzeugnissen durch Auskristallisieren oder andere Verfah
 Milchzucker Arzneibuchqualit√§t
 1.
 wie Spalte 1, XI b), raffiniert, dem Arzneibuch in seiner jeweils g√ºltigen Fassung entsprechend
-†
+
 2.
 Milchzucker (Laktose)
 2.
 wie Spalte 1, XI b), mit einem wasserfreien Laktosegehalt von mindestens 99,0¬†% m/m in der Trockenmasse, wasserfrei oder mit einem Molek√ºl Kristallwasser oder eine Mischung aus beidem
-†
+
 XII.
 a) Milcheiwei√üerzeugnis
 b) hergestellt aus entrahmter Milch, Buttermilch oder Molke nach den in Spalte 3 aufgef√ºhrten oder anderen Verfahren, die das Milcheiwei√ü in seiner Gesamtheit oder in Teilen von den √ºbrigen Milchbestandteilen trennen, unbeschadet einer etwaigen vorherigen Behandlung mit Ionenaustausch- und Konzentrationsverfahren; werden Labaustauschstoffe verwendet, m√ºssen sie den Anforderungen des ¬ß 20 Abs. 5 der K√§severordnung in der Fassung der Bekanntmachung vom 14. April 1986 (BGBl. I S. 412) entsprechen.
@@ -523,32 +523,32 @@ wie Nr. 1, in Wasser l√∂slich
 h√∂chstens 1,5
 3.
 (weggefallen)
-†
-†
-†
-†
+
+
+
+
 4.
 (weggefallen)
-†
-†
-†
-†
+
+
+
+
 5.
 (weggefallen)
-†
-†
-†
-†
+
+
+
+
 6.
 (weggefallen)
-†
-†
-†
+
+
+
 7.
 Molkeneiwei√ü
 7.
 hergestellt aus S√º√ü- oder Sauermolke nach Verfahren, die das Molkeneiwei√ü anreichern; Eiwei√ügehalt mindestens 70%, Wassergehalt h√∂chstens 7%, Aschegehalt h√∂chstens 8%, Milchzuckergehalt h√∂chstens 15%.
-†
+
 XIII.
 (weggefallen)
 XIV.
@@ -558,22 +558,22 @@ b) hergestellt aus Milch und/ oder einem oder mehreren Milcherzeugnissen der Gru
 Milchmischgetr√§nk oder Vollmilch in Verbindung mit der Verkehrsbezeichnung des beigegebenen Lebensmittels
 1.
 wie Spalte 1, XIV b), aus Vollmilch, fl√ºssig
-†
+
 2.
 Milchmischgetr√§nk oder teilentrahmte (fettarme) Milch in Verbindung mit der Verkehrsbezeichnung des beigegebenen Lebensmittels
 2.
 wie Nr. 1, jedoch aus teilentrahmter (fettarmer) Milch, fl√ºssig
-†
+
 3.
 Milchmischgetr√§nk aus entrahmter Milch (aus Magermilch) oder entrahmte Milch (Magermilch) in Verbindung mit der Verkehrsbezeichnung des beigegebenen Lebensmittels
 3.
 wie Nr. 1, jedoch aus entrahmter Milch (Magermilch), fl√ºssig
-†
+
 4.
 Bezeichnung der Standardsorte der Gruppen I bis V in Verbindung mit der Verkehrsbezeichnung des beigegebenen Lebensmittels
 4.
 wie Spalte 1, XIV b), aus einer Standardsorte der Gruppen I bis IV, jeweils ohne W√§rmebehandlung nach der Fermentation, sowie einer Standardsorte der Gruppe V
-†
+
 XV.
 a) Molkenmischerzeugnis
 b) hergestellt aus Molkenerzeugnissen der Gruppe X, auch unter Verwendung f√§rbender Lebensmittel und Lactase und/oder angereichert mit Milcheiwei√üerzeugnissen, unter Zusatz beigegebener Lebensmittel, wobei der Anteil der Molkenerzeugnisse gr√∂√üer ist als die Summe der anderen Anteile, zur Herstellung in Automaten auch ganz oder teilweise getrocknet
@@ -581,12 +581,12 @@ b) hergestellt aus Molkenerzeugnissen der Gruppe X, auch unter Verwendung f√§rbe
 Molke in Verbindung mit der Verkehrsbezeichnung des beigegebenen Lebensmittels
 1.
 wie Spalte 1, XVI b), jedoch aus Molke
-†
+
 2.
 Molkensahne (Molkenrahm) in Verbindung mit der Verkehrsbezeichnung des beigegebenen Lebensmittels
 2 .
 wie Spalte 1, XVI b), jedoch aus Molkensahne (Molkenrahm)
-†
+
 XVI.
 a) Milchfetterzeugnis
 b) hergestellt aus Milch, Sahne durch Abtrennen von Buttermilch und/oder Butter durch Abtrennen von Wasser und Einstellen der fettfreien Trockenmasse, fl√ºssig oder teilkristallisiert, auch unter Verwendung von Inertgas, auch durch Auftrennen in unterschiedliche Erweichungs- und Erstarrungsbereiche, Fettgehalt mehr als 90%
@@ -743,27 +743,27 @@ Mai 1988
 
 IV. (weggefallen)
 
-†
 
-†
 
-†
+
+
+
 
 V. (weggefallen)
 
-†
 
-†
 
-†
+
+
+
 
 VI. (weggefallen)
 
-†
 
-†
 
-†
+
+
+
 
 ---------
 

@@ -48,7 +48,7 @@ auf Dauer gesichert sind; der Schutz umfasst auch die Pflege, die Entwicklung un
 (2) Die Behörden des Bundes und der Länder haben im Rahmen ihrer Zuständigkeit die Verwirklichung der Ziele des Naturschutzes und der Landschaftspflege zu unterstützen.
 (3) Die Ziele des Naturschutzes und der Landschaftspflege sind zu verwirklichen, soweit es im Einzelfall möglich, erforderlich und unter Abwägung aller sich aus § 1 Absatz 1 ergebenden Anforderungen untereinander und gegen die sonstigen Anforderungen der Allgemeinheit an Natur und Landschaft angemessen ist.
 (4) Bei der Bewirtschaftung von Grundflächen im Eigentum oder Besitz der öffentlichen Hand sollen die Ziele des Naturschutzes und der Landschaftspflege in besonderer Weise berücksichtigt werden.
-(5) Die europäischen Bemühungen auf dem Gebiet des Naturschutzes und der Landschaftspflege werden insbesondere durch Aufbau und Schutz des Netzes �Natura 2000“ unterstützt. Die internationalen Bemühungen auf dem Gebiet des Naturschutzes und der Landschaftspflege werden insbesondere durch den Schutz des Kultur- und Naturerbes im Sinne des Übereinkommens vom 16. November 1972 zum Schutz des Kultur- und Naturerbes der Welt (BGBl. 1977 II S. 213, 215) unterstützt.
+(5) Die europäischen Bemühungen auf dem Gebiet des Naturschutzes und der Landschaftspflege werden insbesondere durch Aufbau und Schutz des Netzes Natura 2000“ unterstützt. Die internationalen Bemühungen auf dem Gebiet des Naturschutzes und der Landschaftspflege werden insbesondere durch den Schutz des Kultur- und Naturerbes im Sinne des Übereinkommens vom 16. November 1972 zum Schutz des Kultur- und Naturerbes der Welt (BGBl. 1977 II S. 213, 215) unterstützt.
 (6) Das allgemeine Verständnis für die Ziele des Naturschutzes und der Landschaftspflege ist mit geeigneten Mitteln zu fördern. Erziehungs-, Bildungs- und Informationsträger klären auf allen Ebenen über die Bedeutung von Natur und Landschaft, über deren Bewirtschaftung und Nutzung sowie über die Aufgaben des Naturschutzes und der Landschaftspflege auf und wecken das Bewusstsein für einen verantwortungsvollen Umgang mit Natur und Landschaft.
 § 2 Abs. 4 idF d. G v. 29.7.2009 I 2542: Bayern - Abweichung durch [[../abweichendes_Landesrecht/natschg_by__1.html][Art. 1 des Bayerischen Naturschutzgesetzes (BayNatSchG)]] v. 23.2.2011 GVBl S. 82, BayRS 791-1-UG mWv 1.3.2011 (vgl. BGBl. I 2011, 365)\\
 § 2 Abs. 4 idF d. G v. 29.7.2009 I 2542: Baden-Württemberg - Abweichung durch § 2 des Gesetzes des Landes Baden-Württemberg zum Schutz der Natur und zur Pflege der Landschaft (NatSchG) v. 23.6.2015 GBl. BW 2015, S. 585, geändert durch Artikel 1 des Gesetzes vom 21.11.2017 GBl. BW 2017, S. 597, ber. S. 643, ber. 2018 S. 4, mWv. 14.7.2015 (vgl. BGBl. I 2018, 533)\\
@@ -247,7 +247,7 @@ Die Ziele des Naturschutzes und der Landschaftspflege werden als Grundlage vorso
   - a) :: zur Vermeidung, Minderung oder Beseitigung von Beeinträchtigungen von Natur und Landschaft,
   - b) :: zum Schutz bestimmter Teile von Natur und Landschaft im Sinne des Kapitels 4 sowie der Biotope, Lebensgemeinschaften und Lebensstätten der Tiere und Pflanzen wild lebender Arten,
   - c) :: auf Flächen, die wegen ihres Zustands, ihrer Lage oder ihrer natürlichen Entwicklungsmöglichkeit für künftige Maßnahmen des Naturschutzes und der Landschaftspflege, insbesondere zur Kompensation von Eingriffen in Natur und Landschaft sowie zum Einsatz natur- und landschaftsbezogener Fördermittel besonders geeignet sind,
-  - d) :: zum Aufbau und Schutz eines Biotopverbunds, der Biotopvernetzung und des Netzes �Natura 2000“,
+  - d) :: zum Aufbau und Schutz eines Biotopverbunds, der Biotopvernetzung und des Netzes Natura 2000“,
   - e) :: zum Schutz, zur Qualitätsverbesserung und zur Regeneration von Böden, Gewässern, Luft und Klima,
   - f) :: zur Erhaltung und Entwicklung von Vielfalt, Eigenart und Schönheit sowie des Erholungswertes von Natur und Landschaft,
   - g) :: zur Erhaltung und Entwicklung von Freiräumen im besiedelten und unbesiedelten Bereich.
@@ -391,7 +391,7 @@ Absatz 1 Satz 1 Nummer 3 ist nicht auf durchgeführte oder zugelassene Maßnahme
 - 1. :: Ort, Art, Umfang und zeitlichen Ablauf des Eingriffs sowie
 - 2. :: die vorgesehenen Maßnahmen zur Vermeidung, zum Ausgleich und zum Ersatz der Beeinträchtigungen von Natur und Landschaft einschließlich Angaben zur tatsächlichen und rechtlichen Verfügbarkeit der für Ausgleich und Ersatz benötigten Flächen.
 
-Die zuständige Behörde kann die Vorlage von Gutachten verlangen, soweit dies zur Beurteilung der Auswirkungen des Eingriffs und der Ausgleichs- und Ersatzma�Natura 2000“ notwendigen Maßnahmen nach § 34 Absatz 5 und zu vorgezogenen Ausgleichsmaßnahmen nach § 44 Absatz 5 enthalten, sofern diese Vorschriften für das Vorhaben von Belang sind. Der Begleitplan ist Bestandteil des Fachplans.
+Die zuständige Behörde kann die Vorlage von Gutachten verlangen, soweit dies zur Beurteilung der Auswirkungen des Eingriffs und der Ausgleichs- und ErsatzmaNatura 2000“ notwendigen Maßnahmen nach § 34 Absatz 5 und zu vorgezogenen Ausgleichsmaßnahmen nach § 44 Absatz 5 enthalten, sofern diese Vorschriften für das Vorhaben von Belang sind. Der Begleitplan ist Bestandteil des Fachplans.
 
 (5) Die zuständige Behörde kann die Leistung einer Sicherheit bis zur Höhe der voraussichtlichen Kosten für die Ausgleichs- oder Ersatzmaßnahmen verlangen, soweit dies erforderlich ist, um die Erfüllung der Verpflichtungen nach § 15 zu gewährleisten. Auf Sicherheitsleistungen sind die §§ 232 bis 240 des Bürgerlichen Gesetzbuches anzuwenden.
 (6) Die Ausgleichs- und Ersatzmaßnahmen und die dafür in Anspruch genommenen Flächen werden in einem Kompensationsverzeichnis erfasst. Hierzu übermitteln die nach den Absätzen 1 und 3 zuständigen Behörden der für die Führung des Kompensationsverzeichnisses zuständigen Stelle die erforderlichen Angaben.
@@ -473,7 +473,7 @@ aufgeführt sind.
 
 § 21 - Biotopverbund, Biotopvernetzung
 
-(1) Der Biotopverbund dient der dauerhaften Sicherung der Populationen wild lebender Tiere und Pflanzen einschlie�Natura 2000“ beitragen.
+(1) Der Biotopverbund dient der dauerhaften Sicherung der Populationen wild lebender Tiere und Pflanzen einschlieNatura 2000“ beitragen.
 (2) Der Biotopverbund soll länderübergreifend erfolgen. Die Länder stimmen sich hierzu untereinander ab.
 (3) Der Biotopverbund besteht aus Kernflächen, Verbindungsflächen und Verbindungselementen. Bestandteile des Biotopverbunds sind
 
@@ -672,9 +672,9 @@ Die Verbote des Satzes 1 gelten auch für weitere von den Ländern gesetzlich ge
 § 30 Abs. 6 idF d. G v. 29.7.2009 I 2542: Hamburg - Abweichung durch [[../abweichendes_Landesrecht/bnatschgag_ha__14.html][§ 14 Abs. 3 des Hamburgischen Gesetzes zur Ausführung des Bundesnaturschutzgesetzes (HmbBNatSchAG)]] v. 11.5.2010 HmbGVBl. S. 350, 402 mWv 1.6.2010 (vgl. BGBl. I 2011, 93)\\
 § 30 Abs. 6 idF d. G v. 29.7.2009 I 2542: Baden-Württemberg - Abweichung durch § 33 Abs. 5 des Gesetzes des Landes Baden-Württemberg zum Schutz der Natur und zur Pflege der Landschaft (NatSchG) v. 23.6.2015 GBl. BW 2015, S. 585, geändert durch Artikel 1 des Gesetzes vom 21.11.2017 GBl. BW 2017, S. 597, ber. S. 643, ber. 2018 S. 4, mWv. 14.7.2015 (vgl. BGBl. I 2018, 538)
 
-§ 31 - Aufbau und Schutz des Netzes �Natura 2000“
+§ 31 - Aufbau und Schutz des Netzes Natura 2000“
 
-Der Bund und die Länder erfüllen die sich aus den Richtlinien 92/43/EWG und 2009/147/EG ergebenden Verpflichtungen zum Aufbau und Schutz des zusammenhängenden europäischen ökologischen Netzes �Natura 2000“ im Sinne des Artikels 3 der Richtlinie 92/43/EWG.
+Der Bund und die Länder erfüllen die sich aus den Richtlinien 92/43/EWG und 2009/147/EG ergebenden Verpflichtungen zum Aufbau und Schutz des zusammenhängenden europäischen ökologischen Netzes Natura 2000“ im Sinne des Artikels 3 der Richtlinie 92/43/EWG.
 
 § 32 - Schutzgebiete
 
@@ -716,7 +716,7 @@ Der Bund und die Länder erfüllen die sich aus den Richtlinien 92/43/EWG und 20
 - 2. :: zumutbare Alternativen, den mit dem Projekt verfolgten Zweck an anderer Stelle ohne oder mit geringeren Beeinträchtigungen zu erreichen, nicht gegeben sind.
 
 (4) Können von dem Projekt im Gebiet vorkommende prioritäre natürliche Lebensraumtypen oder prioritäre Arten betroffen werden, können als zwingende Gründe des überwiegenden öffentlichen Interesses nur solche im Zusammenhang mit der Gesundheit des Menschen, der öffentlichen Sicherheit, einschließlich der Verteidigung und des Schutzes der Zivilbevölkerung, oder den maßgeblich günstigen Auswirkungen des Projekts auf die Umwelt geltend gemacht werden. Sonstige Gründe im Sinne des Absatzes 3 Nummer 1 können nur berücksichtigt werden, wenn die zuständige Behörde zuvor über das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit eine Stellungnahme der Kommission eingeholt hat.
-(5) Soll ein Projekt nach Absatz 3, auch in Verbindung mit Absatz 4, zugelassen oder durchgeführt werden, sind die zur Sicherung des Zusammenhangs des Netzes �Natura 2000“ notwendigen Maßnahmen vorzusehen. Die zuständige Behörde unterrichtet die Kommission über das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit über die getroffenen Maßnahmen.
+(5) Soll ein Projekt nach Absatz 3, auch in Verbindung mit Absatz 4, zugelassen oder durchgeführt werden, sind die zur Sicherung des Zusammenhangs des Netzes Natura 2000“ notwendigen Maßnahmen vorzusehen. Die zuständige Behörde unterrichtet die Kommission über das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit über die getroffenen Maßnahmen.
 (6) Bedarf ein Projekt im Sinne des Absatzes 1 Satz 1, das nicht von einer Behörde durchgeführt wird, nach anderen Rechtsvorschriften keiner behördlichen Entscheidung oder Anzeige an eine Behörde, so ist es der für Naturschutz und Landschaftspflege zuständigen Behörde anzuzeigen. Diese kann die Durchführung des Projekts zeitlich befristen oder anderweitig beschränken, um die Einhaltung der Voraussetzungen der Absätze 1 bis 5 sicherzustellen. Trifft die Behörde innerhalb eines Monats nach Eingang der Anzeige keine Entscheidung, kann mit der Durchführung des Projekts begonnen werden. Wird mit der Durchführung eines Projekts ohne die erforderliche Anzeige begonnen, kann die Behörde die vorläufige Einstellung anordnen. Liegen im Fall des Absatzes 2 die Voraussetzungen der Absätze 3 bis 5 nicht vor, hat die Behörde die Durchführung des Projekts zu untersagen. Die Sätze 1 bis 5 sind nur insoweit anzuwenden, als Schutzvorschriften der Länder, einschließlich der Vorschriften über Ausnahmen und Befreiungen, keine strengeren Regelungen für die Zulässigkeit von Projekten enthalten.
 (7) Für geschützte Teile von Natur und Landschaft im Sinne des § 20 Absatz 2 und gesetzlich geschützte Biotope im Sinne des § 30 sind die Absätze 1 bis 6 nur insoweit anzuwenden, als die Schutzvorschriften, einschließlich der Vorschriften über Ausnahmen und Befreiungen, keine strengeren Regelungen für die Zulässigkeit von Projekten enthalten. Die Verpflichtungen nach Absatz 4 Satz 2 zur Beteiligung der Kommission und nach Absatz 5 Satz 2 zur Unterrichtung der Kommission bleiben unberührt.
 (8) Die Absätze 1 bis 7 gelten mit Ausnahme von Bebauungsplänen, die eine Planfeststellung ersetzen, nicht für Vorhaben im Sinne des § 29 des Baugesetzbuches in Gebieten mit Bebauungsplänen nach § 30 des Baugesetzbuches und während der Planaufstellung nach § 33 des Baugesetzbuches.
@@ -1175,7 +1175,7 @@ zu beschränken oder zu verbieten. Satz 1 Nummer 1 gilt nicht für Geräte, Mitt
 
 - 1. :: die Voraussetzungen und Bedingungen, unter denen von einer Verträglichkeit von Plänen und Projekten im Sinne von § 34 Absatz 1 auszugehen ist,
 - 2. :: die Voraussetzungen und Bedingungen für Abweichungsentscheidungen im Sinne von § 34 Absatz 3 und
-- 3. :: die zur Sicherung des Zusammenhangs des Netzes �Natura 2000“ notwendigen Maßnahmen im Sinne des § 34 Absatz 5.
+- 3. :: die zur Sicherung des Zusammenhangs des Netzes Natura 2000“ notwendigen Maßnahmen im Sinne des § 34 Absatz 5.
 
 Überschrift Kursivdruck: Müsste entsprechend der Inhaltsübersicht idF d. Art. 3 Nr. 1 G v. 28.7.2011 I 1690 mWv 5.2.2012 "Ermächtigung zum Erlass von Rechtsverordnungen und Verwaltungsvorschriften" lauten
 

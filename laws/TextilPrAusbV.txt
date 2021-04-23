@@ -174,7 +174,7 @@ Anlage - (zu ¬ß 3)Ausbildungsrahmenplan f√ºr die Berufsausbildung zum Produktpr√
 
 Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und F√§higkeiten
 
-†
+
 
 Lfd. Nr.
 
@@ -210,13 +210,13 @@ Textile Fertigungs- und Verarbeitungsprozesse\\
 
 8
 
-†
+
 
 - g) :: Auswirkungen von Faserstoffeigenschaften auf Produktionsprozesse ber√ºcksichtigen
 - h) :: Veredlungsprozesse hinsichtlich Art und Auswirkungen unterscheiden
 - i) :: Konfektions- und F√ºgetechniken unterscheiden
 
-†
+
 
 10
 
@@ -231,7 +231,7 @@ Produktanalyse und Strukturidentifizierung\\
 
 8
 
-†
+
 
 3
 
@@ -243,7 +243,7 @@ Umgehen mit internen und externen Kunden\\
 - c) :: Kundenforderungen bei der Durchf√ºhrung von Dienstleistungen beachten und umsetzen
 - d) :: Reklamationen entgegennehmen und bearbeiten, Beteiligte informieren
 
-†
+
 
 8
 
@@ -257,14 +257,14 @@ Produktkontrolle\\
 
 10
 
-†
+
 
 - c) :: Produkt- und Verarbeitungsstandards feststellen und mit Kundenvorgaben vergleichen
 - d) :: Art der Abweichung identifizieren und klassifizieren
 - e) :: Pr√ºfergebnisse auswerten und dokumentieren
 - f) :: weitere Verfahrensschritte festlegen, insbesondere hinsichtlich zu behebender und nicht zu behebender Fehler
 
-†
+
 
 16
 
@@ -279,16 +279,16 @@ Ausf√ºhren von Korrekturma√ünahmen\\
 
 16
 
-†
+
 
 - d) :: Ma√ünahmen zum Ver√§ndern von Produkteigenschaften veranlassen
 - e) :: Ursachen von M√§ngeln ermitteln und dokumentieren, Ursachenbehebung veranlassen
 
-†
+
 
 8
 
-†
+
 
 Abschnitt B: Integrative Fertigkeiten, Kenntnisse und F√§higkeiten
 
@@ -348,12 +348,12 @@ Planen und Vorbereiten von Arbeitsabl√§ufen\\
 
 4
 
-†
+
 
 - d) :: Arbeitsschritte planen, festlegen und dokumentieren
 - e) :: Warentransport sicherstellen
 
-†
+
 
 6
 
@@ -369,11 +369,11 @@ Betriebliche und technische Kommunikation\\
 
 4
 
-†
+
 
 - e) :: Informationsfluss mit vor- und nachgelagerten Bereichen sicherstellen, Abstimmungen treffen
 
-†
+
 
 4
 
@@ -388,4 +388,4 @@ Durchf√ºhren von qualit√§tssichernden Ma√ünahmen\\
 
 2
 
-†
+

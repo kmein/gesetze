@@ -10,18 +10,18 @@ Auf Grund des § 3a Absatz 2 Nummer 2, des § 14a, des § 14b Absatz 2, des § 1
 
 Inhaltsübersicht
 
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
+
+
+
+
+
+
+
+
+
+
+
+
 
 § 1 - Anwendungsbereich
 
@@ -370,8 +370,8 @@ Die Frist von fünf Jahren nach Satz 1 Nummer 1 beginnt mit Beginn des Jahres, d
 
 (1) Anbaumaterial von Gemüse- und Zierpflanzenarten darf zu gewerblichen Zwecken nur in den Verkehr gebracht werden, wenn es von einem Warenbegleitpapier oder Etikett begleitet wird, das folgende Angaben enthält:
 
-- 1. :: Bezeichnung �EG-Qualität“;
-- 2. :: Angabe �DE“;
+- 1. :: Bezeichnung EG-Qualität“;
+- 2. :: Angabe DE“;
 - 3. :: Registriernummer des Versorgers;
 - 4. :: Kennzeichen der zuständigen Behörde;
 - 5. :: Lieferant und Seriennummer des Warenbegleitpapiers, Partienummer oder Nummer der Woche, in der das Anbaumaterial in den Verkehr gebracht wird;
@@ -389,15 +389,15 @@ Die Frist von fünf Jahren nach Satz 1 Nummer 1 beginnt mit Beginn des Jahres, d
 
 (1) Anerkanntes Anbaumaterial von Obstarten darf zu gewerblichen Zwecken nur in den Verkehr gebracht werden, wenn es mit einem amtlichen Etikett gekennzeichnet ist, das folgende Angaben enthält:
 
-- 1. :: Bezeichnung �EU-Rechtsvorschriften und -Normen“;
-- 2. :: Angabe �DE“;
+- 1. :: Bezeichnung EU-Rechtsvorschriften und -Normen“;
+- 2. :: Angabe DE“;
 - 3. :: Registriernummer des Versorgers;
 - 4. :: Kennzeichen der zuständigen Behörde;
 - 5. :: Bezugsnummer der Packung, des Behältnisses oder des Bündels, laufende Nummer, Wochennummer oder Chargennummer;
 - 6. :: Art (botanische Bezeichnung);
 - 7. :: Kategorie, bei Basismaterial auch die Generation;
-- 8. :: Sortenbezeichnung und gegebenenfalls Bezeichnung des Klons; bei Unterlagen die keiner Sorte zugehören, die botanische Bezeichnung der Art oder der interspezifischen Hybride; bei veredelten Obstpflanzen die Bezeichnung für die Unterlage und für das Edelreis; bei Sorten, bei denen die Sortenzulassung oder die Erteilung des Sortenschutzes beantragt ist, die vorläufige Sortenbezeichnung und die Angabe �Sorte im laufenden Verfahren der Sortenzulassung“ oder die Angabe �Sorte im laufenden Verfahren der Sortenschutzerteilung“;
-- 9. :: bei Sorten mit amtlich anerkannter Beschreibung die Angabe �Sorte mit amtlich anerkannter Beschreibung“;
+- 8. :: Sortenbezeichnung und gegebenenfalls Bezeichnung des Klons; bei Unterlagen die keiner Sorte zugehören, die botanische Bezeichnung der Art oder der interspezifischen Hybride; bei veredelten Obstpflanzen die Bezeichnung für die Unterlage und für das Edelreis; bei Sorten, bei denen die Sortenzulassung oder die Erteilung des Sortenschutzes beantragt ist, die vorläufige Sortenbezeichnung und die Angabe Sorte im laufenden Verfahren der Sortenzulassung“ oder die Angabe Sorte im laufenden Verfahren der Sortenschutzerteilung“;
+- 9. :: bei Sorten mit amtlich anerkannter Beschreibung die Angabe Sorte mit amtlich anerkannter Beschreibung“;
 - 10. :: Stückzahl des Anbaumaterials;
 - 11. :: Erzeugungsland und dessen Code, falls abweichend von Nummer 2;
 - 12. :: Jahr der Ausstellung des Etiketts;
@@ -491,7 +491,7 @@ Dem Julius Kühn-Institut, Bundesforschungsinstitut für Kulturpflanzen, wird di
 
 Für Anbaumaterial von Zierpflanzen ist die Angabe nach Satz 1 Nummer 7 nicht erforderlich, sofern das Anbaumaterial nicht mit Bezugnahme auf die Sorte in Verkehr gebracht werden soll.
 
-(3) Wird das Anbaumaterial von einem Pflanzengesundheitszeugnis begleitet, das die Anforderungen des Internationalen Pflanzenschutzübereinkommens erfüllt, können die Angaben nach Absatz 1 auf diesem eingetragen sein. Dabei kann die erforderliche Angabe nach Absatz 2 Satz 1 Nummer 7 in dem Feld �Unterscheidungsmerkmale“ und die Angabe nach Absatz 2 Satz 1 Nummer 8 sowie die Angabe nach Absatz 2 Satz 1 Nummer 10 für anerkanntes Anbaumaterial in dem Feld �Zusätzliche Erklärung“ eingetragen werden.
+(3) Wird das Anbaumaterial von einem Pflanzengesundheitszeugnis begleitet, das die Anforderungen des Internationalen Pflanzenschutzübereinkommens erfüllt, können die Angaben nach Absatz 1 auf diesem eingetragen sein. Dabei kann die erforderliche Angabe nach Absatz 2 Satz 1 Nummer 7 in dem Feld Unterscheidungsmerkmale“ und die Angabe nach Absatz 2 Satz 1 Nummer 8 sowie die Angabe nach Absatz 2 Satz 1 Nummer 10 für anerkanntes Anbaumaterial in dem Feld Zusätzliche Erklärung“ eingetragen werden.
 (4) Die Einfuhr von Anbaumaterial ist nur über die nach § 62 Nummer 1 des Pflanzenschutzgesetzes im Bundesanzeiger bekannt gegebenen Zollstellen zulässig. Anbaumaterial wird von der zuständigen Behörde an der Einlassstelle oder an einem anderen geeigneten Ort vor der zollamtlichen Abfertigung auf die Erfüllung der folgenden Anforderungen stichprobenweise untersucht:
 
 - 1. :: im Fall von Standardmaterial von Obstpflanzen: auf die Erfüllung der Anforderungen des § 6 Absatz 5,

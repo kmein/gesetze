@@ -162,7 +162,7 @@ mg/l
 
 mg/l
 
- 
+
 
 Qualifizierte Stichprobe oder 2-Stunden-Mischprobe
 
@@ -300,7 +300,7 @@ Es werden keine Ã¼ber Â§ 3 hinausgehenden Anforderungen gestellt.
 
 (1) An das Abwasser werden fÃ¼r die Einleitungsstelle in das GewÃ¤sser folgende Anforderungen gestellt:\\
 
- 
+
 
 Qualifizierte Stichprobe oder 2-Stunden-Mischprobe
 
@@ -344,7 +344,7 @@ Es werden keine Ã¼ber Â§ 3 hinausgehenden Anforderungen gestellt.
 
 (1) An das Abwasser werden fÃ¼r die Einleitungsstelle in das GewÃ¤sser folgende Anforderungen gestellt:\\
 
- 
+
 
 Qualifizierte Stichprobe oder\\
 2-Stunden-Mischprobe\\
@@ -411,13 +411,13 @@ Anhang 4 - Ã–lsaatenaufbereitung, Speisefett- und SpeiseÃ¶lraffination
 
 (1) An das Abwasser werden fÃ¼r die Einleitungsstelle in das GewÃ¤sser folgende Anforderungen gestellt:\\
 
- 
+
 
 Qualifizierte Stichprobe oder 2-Stunden-Mischprobe
 
- 
 
- 
+
+
 
 Saatenaufbereitung
 
@@ -480,13 +480,13 @@ An das Abwasser werden fÃ¼r den Ort des Anfalls keine zusÃ¤tzlichen Anforderunge
 
 FÃ¼r vorhandene Einleitungen von Abwasser aus Anlagen, die vor dem 1. August 2002 rechtmÃ¤ÃŸig in Betrieb waren oder mit deren Bau zu diesem Zeitpunkt rechtmÃ¤ÃŸig begonnen worden ist, gelten abweichend von Teil C folgende Anforderungen:\\
 
- 
+
 
 Qualifizierte Stichprobe oder 2-Stunden-Mischprobe
 
- 
 
- 
+
+
 
 Saatenaufbereitung
 
@@ -544,12 +544,12 @@ Es werden keine Ã¼ber Â§ 3 hinausgehenden Anforderungen gestellt.
 
 (1) An das Abwasser werden fÃ¼r die Einleitungsstelle in das GewÃ¤sser folgende Anforderungen gestellt:\\
 
- 
+
 
 Qualifizierte Stichprobe oder\\
 2-Stunden-Mischprobe
 
- 
+
 
 mg/l
 
@@ -595,12 +595,12 @@ Es werden keine Ã¼ber Â§ 3 hinausgehenden Anforderungen gestellt.
 
 (1) An das Abwasser werden fÃ¼r die Einleitungsstelle in das GewÃ¤sser folgende Anforderungen gestellt:\\
 
- 
+
 
 Qualifizierte Stichprobe oder\\
 2-Stunden-Mischprobe
 
- 
+
 
 mg/l
 
@@ -636,12 +636,12 @@ Es werden keine Ã¼ber Â§ 3 hinausgehenden Anforderungen gestellt.
 
 (1) An das Abwasser werden fÃ¼r die Einleitungsstelle in das GewÃ¤sser folgende Anforderungen gestellt:\\
 
- 
+
 
 Qualifizierte Stichprobe oder\\
 2-Stunden-Mischprobe
 
- 
+
 
 mg/l
 
@@ -720,7 +720,7 @@ bzgl. der einzelnen Ã„nderungen vgl. FuÃŸnote)
 
 (1) An das Abwasser werden fÃ¼r die Einleitungsstelle in das GewÃ¤sser folgende Anforderungen gestellt:\\
 
- 
+
 
 Qualifizierte Stichprobe oder\\
 2-Stunden-Mischprobe
@@ -739,7 +739,7 @@ mg/l
 
 Giftigkeit gegenÃ¼ber Fischeiern (G_{Ei})
 
- 
+
 
 2
 
@@ -750,7 +750,7 @@ Giftigkeit gegenÃ¼ber Fischeiern (G_{Ei})
 
 (1) An das Abwasser aus folgenden Bereichen werden vor der Vermischung mit anderem Abwasser folgende Anforderungen gestellt:\\
 
- 
+
 
 WÃ¤ssrige Dispersionsfarben,\\
 kunstharzgebundene Putze\\
@@ -955,7 +955,7 @@ Anhang 13 - Herstellung von Holzspanplatten, Holzfaserplatten oder Holzfasermatt
 (2) Prozessabwasser und betriebsspezifisch verunreinigtes Niederschlagswasser sind getrennt zu behandeln.
 (1) FÃ¼r Anlagen mit einer ProduktionskapazitÃ¤t von 600 mÂ³ oder mehr je Tag darf fÃ¼r das betriebsspezifisch verunreinigte Niederschlagswasser an der Einleitungsstelle in das GewÃ¤sser ein Jahresmittelwert fÃ¼r abfiltrierbare Stoffe von 40 mg/l in der qualifizierten Stichprobe nicht Ã¼berschritten werden. Die abfiltrierbaren Stoffe sind nach Teil H Absatz 1 Nummer 1 zu messen. Die Ergebnisse der Messungen nach Satz 2 stehen Ergebnissen staatlicher Ãœberwachung gleich. Â§ 6 Absatz 1 findet keine Anwendung.
 (2) An das Prozessabwasser aus der Herstellung von Holzfaserplatten und Holzfasermatten werden fÃ¼r die Einleitungsstelle in das GewÃ¤sser folgende Anforderungen gestellt:
- 
+
 Qualifizierte Stichprobe oder\\
 2-Stunden-Mischprobe
 Biochemischer Sauerstoffbedarf in 5 Tagen (BSB_{5})
@@ -971,7 +971,7 @@ Phenolindex nach Destillation und Farbstoffextraktion
 g/t
 Â Â Â 0,30
 Giftigkeit gegenÃ¼ber Fischeiern (G_{Ei})
- 
+
 2
 (3) FÃ¼r Prozessabwasser aus der Herstellung von Holzfaserplatten mit einer Dichte von mehr als 900 kg/mÂ³, die im Nassverfahren hergestellt werden und eine Faserfeuchte von mehr als 20 Prozent im Stadium der Plattenformung aufweisen, gilt abweichend von Absatz 2 fÃ¼r den CSB ein Wert von 2,0 kg/t und fÃ¼r den TOC ein Wert von 0,70 kg/t.
 (4) Die Anforderungen nach den AbsÃ¤tzen 2 und 3 beziehen sich auf die der wasserrechtlichen Zulassung zugrunde liegende ProduktionskapazitÃ¤t an Holzfaserplatten oder Holzfasermatten (absolut trocken) in 0,5 oder 2 Stunden. Die Schadstofffracht ergibt sich aus einer Multiplikation des Konzentrationswerts der qualifizierten Stichprobe oder der 2-Stunden-Mischprobe mit dem Volumen des Abwasserstroms, der mit der Probenahme korrespondiert.
@@ -1109,7 +1109,7 @@ wiederverwendet worden ist.
 
 An das Abwasser werden fÃ¼r die Einleitungsstelle in das GewÃ¤sser folgende Anforderungen gestellt:\\
 
- 
+
 
 Qualifizierte Stichprobe oder\\
 2-Stunden-Mischprobe
@@ -1132,7 +1132,7 @@ Phosphor, gesamt
 
 (1) An das Abwasser werden vor der Vermischung mit anderem Abwasser folgende Anforderungen gestellt:\\
 
- 
+
 
 Qualifizierte Stichprobe oder\\
 2-Stunden-Mischprobe
@@ -1260,7 +1260,7 @@ Anhang 19 - Zellstofferzeugung
 
 (1) An das Abwasser werden fÃ¼r die Einleitungsstelle in das GewÃ¤sser folgende Anforderungen gestellt:\\
 
- 
+
 
 24-Stunden-Mischprobe
 
@@ -1268,19 +1268,19 @@ Gesamter organischer Kohlenstoff (TOC)
 
 kg/t
 
-12Â  
+12Â 
 
 Chemischer Sauerstoffbedarf (CSB)
 
 kg/t
 
-25Â  
+25Â 
 
 Biochemischer Sauerstoffbedarf in 5 Tagen (BSB_{5})
 
 mg/l
 
-30Â  
+30Â 
 
 Phosphor, gesamt
 
@@ -1292,19 +1292,19 @@ Stickstoff, gesamt, als Summe von Ammonium-, Nitrit- und Nitratstickstoff (N_{ge
 
 mg/l
 
-10Â  
+10Â 
 
 Gesamter gebundener Stickstoff (TN_{b})
 
 mg/l
 
-20Â  
+20Â 
 
 Giftigkeit gegenÃ¼ber Fischeiern (G_{Ei})
 
- 
 
-Â 2Â  
+
+Â 2Â 
 
 \\
 Die Anforderung an die Giftigkeit gegenÃ¼ber Fischeiern (G_{Ei}) bezieht sich auf die Stichprobe.\\
@@ -1481,7 +1481,7 @@ Die Anforderungen an die TOC-Gesamtfracht nach Satz 1 Nummer 1 gelten als eingeh
 1.
 Stickstoff, gesamt, als Summe von Ammonium-, Nitrit- und Nitratstickstoff (N_{ges}):
 50 mg/l.
- 
+
 In der wasserrechtlichen Zulassung kann eine hÃ¶here Konzentration von bis zu 75 mg/l\\
 festgesetzt werden, wenn die Stickstofffracht um 75 Prozent verringert wird.
 2.
@@ -1569,33 +1569,33 @@ Grundlage fÃ¼r die Festlegungen nach Satz 1 ist eine Ermittlung der fÃ¼r die ein
 Parameter
 Qualifizierte Stichprobe oder\\
 2-Stunden-Mischprobe (mg/l)
- 
+
 I
 II
 Quecksilber
 0,050
 0,0010
 Cadmium
-0,20 
+0,20
 0,0050
 Kupfer
-0,50 
-0,10Â  
+0,50
+0,10Â 
 Nickel
-0,50 
-0,050 
+0,50
+0,050
 Blei
-0,50 
-0,050 
+0,50
+0,050
 Chrom, gesamt
-0,50 
-0,050 
+0,50
+0,050
 Zink
-2,0Â  
-0,20Â  
+2,0Â 
+0,20Â 
 Zinn
-2,0Â  
-0,20Â  
+2,0Â 
+0,20Â 
 Die Werte der Spalte I gelten fÃ¼r AbwasserstrÃ¶me aus der Herstellung, Weiterverarbeitung oder Anwendung dieser Stoffe. Die Werte der Spalte II gelten fÃ¼r AbwasserstrÃ¶me, die nicht aus der Herstellung, Weiterverarbeitung oder Anwendung dieser Stoffe stammen, aber dennoch mit solchen Stoffen unterhalb der Konzentrationswerte der Spalte I belastet sind.
 FÃ¼r die Ãœberwachung der einzuhaltenden Gesamtfracht der einzelnen Stoffe nach Satz 1 Nummer 1 ist die Konzentration der jeweiligen Stoffe in der qualifizierten Stichprobe oder in der 2-Stunden-Mischprobe zu messen. Die tatsÃ¤chliche Gesamtfracht des jeweiligen Stoffes ergibt sich aus einer Multiplikation der gemessenen Konzentration mit dem Volumen des Abwasserstroms in 0,5 oder 2 Stunden, der mit der Probenahme korrespondiert.
 (4) Ein Abwasserstrom darf nur dann mit einem anderen Abwasserstrom, der unter den Anwendungsbereich dieses Anhangs fÃ¤llt, zusammengefÃ¼hrt oder mit anderem Abwasser vermischt werden, wenn
@@ -1656,7 +1656,7 @@ bzgl. der einzelnen Ã„nderungen vgl. FuÃŸnote)
 
 (1) An das Abwasser werden fÃ¼r die Einleitungsstelle in das GewÃ¤sser folgende Anforderungen gestellt:\\
 
- 
+
 
 Qualifizierte Stichprobe oder\\
 2-Stunden-Mischprobe
@@ -1693,7 +1693,7 @@ mg/l
 
 Giftigkeit gegenÃ¼ber Fischeiern (G_{Ei})
 
- 
+
 
 2
 
@@ -1706,7 +1706,7 @@ Die Anforderung an Kohlenwasserstoffe, gesamt, bezieht sich auf die Stichprobe.
 
 (1) An das Abwasser werden vor der Vermischung mit anderem Abwasser folgende Anforderungen gestellt:\\
 
- 
+
 
 Qualifizierte Stichprobe oder\\
 2-Stunden-Mischprobe
@@ -1804,7 +1804,7 @@ Anhang 24 - Eisen-, Stahl- und TempergieÃŸerei
 
 (1) An das Abwasser aus einem der in Teil A Abs. 1 genannten Bereiche werden fÃ¼r die Einleitungsstelle in das GewÃ¤sser folgende Anforderungen gestellt:\\
 
- 
+
 
 Qualifizierte Stichprobe oder\\
 2-Stunden-Mischprobe
@@ -1841,7 +1841,7 @@ g/t
 
 Giftigkeit gegenÃ¼ber Fischeiern (G_{Ei})
 
- 
+
 
 2
 
@@ -1933,7 +1933,7 @@ FÃ¼r die Pelzentfettung gilt bezÃ¼glich der flÃ¼chtigen organischen Halogenverbi
 
 (1) An das Abwasser werden fÃ¼r die Einleitungsstelle in das GewÃ¤sser folgende Anforderungen gestellt:\\
 
- 
+
 
 Qualifizierte Stichprobe oder\\
 2-Stunden-Mischprobe
@@ -1970,7 +1970,7 @@ mg/l
 
 Giftigkeit gegenÃ¼ber Fischeiern (G_{Ei})
 
- 
+
 
 2
 
@@ -2047,13 +2047,13 @@ Es werden keine Ã¼ber Â§ 3 hinausgehenden Anforderungen gestellt.
 
 (1) An das Abwasser aus einem der in Teil A Abs. 1 genannten Bereiche werden fÃ¼r die Einleitungsstelle in das GewÃ¤sser folgende Anforderungen gestellt:\\
 
- 
+
 
 Bereich 1
 
 Bereich 2
 
- 
+
 
 Qualifizierte Stichprobe oder 2-Stunden-Mischprobe\\
 mg/l
@@ -2119,7 +2119,7 @@ Die Schadstofffracht ist so gering zu halten, wie dies durch Verringerung des An
 
 (1) An das Abwasser werden fÃ¼r die Einleitungsstelle in das GewÃ¤sser folgende Anforderungen gestellt:\\
 
- 
+
 
 Qualifizierte Stichprobe oder\\
 2-Stunden-Mischprobe
@@ -2174,19 +2174,19 @@ mg/l
 
 Giftigkeit gegenÃ¼ber Fischeiern (G_{Ei})
 
- 
+
 
 2
 
 Giftigkeit gegenÃ¼ber Leuchtbakterien (G_{L})
 
- 
+
 
 4
 
 Giftigkeit gegenÃ¼ber Daphnien (G_{D})
 
- 
+
 
 4
 
@@ -2197,7 +2197,7 @@ Giftigkeit gegenÃ¼ber Daphnien (G_{D})
 
 (1) An das Abwasser werden vor der Vermischung mit anderem Abwasser folgende Anforderungen gestellt:\\
 
- 
+
 
 \\
 Stichprobe
@@ -2205,7 +2205,7 @@ Stichprobe
 Qualifizierte Stichprobe oder\\
 2-Stunden-Mischprobe
 
- 
+
 
 mg/l
 
@@ -2370,23 +2370,23 @@ Die DurchfÃ¼hrung der Vergleiche und AbwÃ¤gungen sowie die GrÃ¼nde fÃ¼r die Ents
 (5) Abwasserbehandlungsanlagen sind so zu errichten und zu betreiben, dass Geruchsemissionen vermieden werden, zum Beispiel durch optimale Durchmischung des Abwassers und kontinuierliche EntwÃ¤sserung des Schlammes.
 C Anforderungen an das Abwasser fÃ¼r die Einleitungsstelle
 (1) An das Abwasser werden fÃ¼r die Einleitungsstelle in das GewÃ¤sser folgende Anforderungen gestellt:
- 
+
 Qualifizierte Stichprobe oder\\
 2-Stunden-Mischprobe
- 
+
 mg/l
 kg/t
 Abfiltrierbare Stoffe
-50Â  
+50Â 
 --
 Biochemischer Sauerstoffbedarf in 5 Tagen (BSB_{5})
-25Â  
+25Â 
 --
 Gesamter gebundener Stickstoff (TN_{b})
-20Â  
+20Â 
 --
 Stickstoff, gesamt, als Summe von Ammonium-, Nitrit-, und Nitratstickstoff (N_{ges})
-10Â  
+10Â 
 --
 Phosphor, gesamt
 Â 2,0
@@ -2397,7 +2397,7 @@ gesamt (TOC)
 0,90
 Chemischer Sauerstoffbedarf (CSB)
 --
-3,0 
+3,0
 (2) Die Anforderung an abfiltrierbare Stoffe nach Absatz 1 gilt nicht, wenn das Abwasser biologisch behandelt wird.
 (3) In der wasserrechtlichen Zulassung kann bei der Herstellung holzfreier Papiere fÃ¼r den BSB_{5} ein Wert von bis zu 50 mg/l zugelassen werden, wenn die produktionsspezifische BSB_{5}-Fracht einen Wert von 1 kg/t nicht Ã¼bersteigt.
 (4) Abweichend von Absatz 1 kann in der wasserrechtlichen Zulassung ein Wert fÃ¼r TN_{b} bis zu 25 mg/l und fÃ¼r Abwasser aus der Herstellung von Pressspan auch ein Wert fÃ¼r TN_{b} Ã¼ber 25 mg/l festgelegt werden, wenn der Einleiter jeweils die Notwendigkeit eines erhÃ¶hten Wertes darlegt und dokumentiert.
@@ -2406,7 +2406,7 @@ Chemischer Sauerstoffbedarf (CSB)
 (7) Die produktionsspezifischen Frachtwerte (kg/t) nach den AbsÃ¤tzen 1, 3, 5 und 6 ergeben sich aus dem VerhÃ¤ltnis der Schadstofffracht zur MaschinenkapazitÃ¤t in Tonnen je Tag, die der wasserrechtlichen Zulassung zugrunde liegt. Die Schadstofffracht ergibt sich aus einer Multiplikation des Konzentrationswerts der qualifizierten Stichprobe oder der 2-Stunden-Mischprobe mit dem Volumen des Abwasserstroms, der mit der Probenahme korrespondiert.
 (8) Unbeschadet der Anforderungen nach den AbsÃ¤tzen 1 bis 7 dÃ¼rfen im Abwasser aus Anlagen zur Herstellung von Papier, Karton oder Pappe mit einer ProduktionskapazitÃ¤t von 20 Tonnen oder mehr je Tag folgende Jahresmittelwerte in Kilogramm je Tonne erzeugten Produktes nicht Ã¼berschritten werden:
 
- 
+
 
 Herstellung\\
 holzstoffhaltiger\\
@@ -2435,47 +2435,47 @@ integrierte\\
 Spezialpapier-\\
 fabriken
 
- 
+
 
 kg/t
 
 Chemischer Sauerstoff-\\
 bedarf (CSB)
 
-4,0<<FnR.FnA1-F803542_03>>[[#FnA1-F803542_03][1]]} Â  
+4,0<<FnR.FnA1-F803542_03>>[[#FnA1-F803542_03][1]]} Â 
 
-1,4Â Â  
+1,4Â Â 
 
-3,0<<FnR.FnA1-F803542_04>>[[#FnA1-F803542_04][2]]} Â  
+3,0<<FnR.FnA1-F803542_04>>[[#FnA1-F803542_04][2]]} Â 
 
-1,5Â  
+1,5Â 
 
-3,0<<FnR.FnA1-F803542_05>>[[#FnA1-F803542_05][3]]} Â  
+3,0<<FnR.FnA1-F803542_05>>[[#FnA1-F803542_05][3]]} Â 
 
 Abfiltrierbare Stoffe
 
-0,45 
+0,45
 
-0,20Â  
+0,20Â 
 
-0,30<<FnR.FnA1-F803542_06>>[[#FnA1-F803542_06][4]]}  
+0,30<<FnR.FnA1-F803542_06>>[[#FnA1-F803542_06][4]]} 
 
-0,35 
+0,35
 
-1,0Â  
+1,0Â 
 
 Gesamter\\
 gebundener Stickstoff (TN_{b})
 
-0,10<<FnR.FnA1-F803542_07>>[[#FnA1-F803542_07][5]]}  
+0,10<<FnR.FnA1-F803542_07>>[[#FnA1-F803542_07][5]]} 
 
-0,090 
+0,090
 
-0,10<<FnR.FnA1-F803542_08>>[[#FnA1-F803542_08][6]]}  
+0,10<<FnR.FnA1-F803542_08>>[[#FnA1-F803542_08][6]]} 
 
-0,10â¶ 
+0,10â¶
 
-0,40 
+0,40
 
 Phosphor, gesamt
 
@@ -2503,7 +2503,7 @@ Phosphor, gesamt
 D Anforderungen an das Abwasser vor Vermischung
 (1) FÃ¼r das Abwasser vor der Vermischung mit anderem Abwasser ist vorbehaltlich des Absatzes 2 ein Wert fÃ¼r adsorbierbare organisch gebundene Halogene (AOX) von 10 g/t in der qualifizierten Stichprobe oder in der 2-Stunden-Mischprobe einzuhalten.
 (2) FÃ¼r AOX kann unter Beachtung der Anforderungen nach Teil B Absatz 1 Nummer 3 in folgenden Bereichen eine hÃ¶here Fracht bis zu folgenden Werten zugelassen werden:
- 
+
 Nassfeste Papiere\\
 (weniger als 25 Prozent\\
 relativer Nassbruch-\\
@@ -2513,7 +2513,7 @@ Nassfeste Papiere\\
 relativer Nassbruch-\\
 widerstand)
 Dekorpapiere
- 
+
 Qualifizierte Stichprobe oder 2-Stunden-Mischprobe\\
 g/t
 Adsorbierbare organisch\\
@@ -2615,27 +2615,27 @@ mg/l
 
 Chemischer Sauerstoffbedarf (CSB)
 
-100Â  
+100Â 
 
-50Â  
+50Â 
 
-40Â  
+40Â 
 
-200Â  
+200Â 
 
-200Â  
+200Â 
 
-300Â  
+300Â 
 
-300Â  
+300Â 
 
 Abfiltrierbare Stoffe
 
-Â 30Â  
+Â 30Â 
 
 --
 
-20Â  
+20Â 
 
 --
 
@@ -2669,11 +2669,11 @@ Kohlenwasserstoffe, gesamt
 
 Â 5,0
 
-Â 10Â  
+Â 10Â 
 
-Â 10Â  
+Â 10Â 
 
-Â 10Â  
+Â 10Â 
 
 Â Â 5,0
 
@@ -2719,25 +2719,25 @@ Fluorid, gelÃ¶st
 
 --
 
-Â 30Â  
+Â 30Â 
 
-Â 30Â  
+Â 30Â 
 
 --
 
 Giftigkeit gegenÃ¼ber Fischeiern (G_{Ei})
 
-Â Â 6Â  
+Â Â 6Â 
 
-Â 2Â  
+Â 2Â 
 
-Â 2Â  
+Â 2Â 
 
-Â Â 2Â  
+Â Â 2Â 
 
-Â Â 6Â  
+Â Â 6Â 
 
-Â Â 6Â  
+Â Â 6Â 
 
 6
 
@@ -2980,12 +2980,12 @@ An das Abwasser werden fÃ¼r die Einleitungsstelle in das GewÃ¤sser folgende Anfo
   - b) :: Abwasser aus FilterrÃ¼ckspÃ¼lungen ist in den Aufbereitungsprozess zurÃ¼ckzufÃ¼hren. Ausgenommen hiervon ist FilterrÃ¼ckspÃ¼lwasser aus der Aufbereitung von Betriebswasser aus OberflÃ¤chen-, Brunnen- und SÃ¼mpfungswasser, soweit dieses ohne Zusatzstoffe mechanisch aufbereitet wurde, sowie von Trinkwasser und Schwimm- und Badebeckenwasser.
   - c) :: FÃ¼r Abwasser aus der Aufbereitung zu Schwimm- und Badebeckenwasser gilt ein Wert fÃ¼r den Chemischen Sauerstoffbedarf (CSB) von 30 mg/l in der qualifizierten Stichprobe oder der 2-Stunden-Mischprobe.
 - 2. :: KÃ¼hlsysteme\\
-   
+  
 
 \\
 
 - 3. :: Dampferzeugung
-   
+  
 
 \\
 
@@ -2996,7 +2996,7 @@ An das Abwasser werden fÃ¼r die Einleitungsstelle in das GewÃ¤sser folgende Anfo
 An das Abwasser werden vor der Vermischung mit anderem Abwasser folgende Anforderungen gestellt:
 
 - 1. :: Wasseraufbereitung
-   
+  
 
 \\
 
@@ -3009,7 +3009,7 @@ An das Abwasser werden vor der Vermischung mit anderem Abwasser folgende Anforde
 \\
 
 - 3. :: Dampferzeugung
-   
+  
 
 \\
 
@@ -3017,7 +3017,7 @@ An das Abwasser werden vor der Vermischung mit anderem Abwasser folgende Anforde
 
 (1) An das Abwasser aus einem der folgenden Bereiche werden folgende Anforderungen nach DurchfÃ¼hrung einer StoÃŸbehandlung mit mikrobiziden Wirkstoffen gestellt:\\
 
- 
+
 
 Abwasser aus der\\
 FrischwasserkÃ¼hlung\\
@@ -3059,7 +3059,7 @@ mg/l
 
 Giftigkeit gegenÃ¼ber Leuchtbakterien (G(tief)L)
 
- 
+
 
 -
 
@@ -3110,7 +3110,7 @@ Die Schadstofffracht ist so gering zu halten, wie dies nach PrÃ¼fung der VerhÃ¤l
 
 (1) An das Abwasser werden fÃ¼r die Einleitungsstelle in das GewÃ¤sser folgende Anforderungen gestellt:\\
 
- 
+
 
 Qualifizierte Stichprobe oder\\
 2-Stunden-Mischprobe
@@ -3141,7 +3141,7 @@ mg/l
 
 Giftigkeit gegenÃ¼ber Fischeiern (G_{Ei})
 
- 
+
 
 2
 
@@ -3152,7 +3152,7 @@ Giftigkeit gegenÃ¼ber Fischeiern (G_{Ei})
 
 (1) An das Abwasser werden vor der Vermischung mit anderem Abwasser folgende Anforderungen gestellt:\\
 
- 
+
 
 Qualifizierte Stichprobe oder\\
 2-Stunden-Mischprobe
@@ -3193,18 +3193,18 @@ Abwasser aus der Abgasreinigung von HausmÃ¼llverbrennungsanlagen darf nicht in e
 
 (1) An das Abwasser werden fÃ¼r die Einleitungsstelle in das GewÃ¤sser folgende Anforderungen gestellt:\\
 
- 
+
 
 Qualifizierte Stichprobe oder\\
 2-Stunden-Mischprobe
 
- 
+
 
 mg/l
 
 Chemischer Sauerstoffbedarf (CSB)
 
- 
+
 
 - Einsatz von Branntkalk
 
@@ -3237,7 +3237,7 @@ Giftigkeit gegenÃ¼ber Fischeiern (G_{Ei})
 
 (1) An das Abwasser werden vor der Vermischung mit anderem Abwasser folgende Anforderungen gestellt:\\
 
- 
+
 
 24-Stunden-Mischprobe
 
@@ -3416,7 +3416,7 @@ Es werden keine Ã¼ber Â§ 3 hinausgehenden Anforderungen gestellt.
 
 Bereiche
 
- 
+
 
 1
 
@@ -3542,7 +3542,7 @@ kg/t
 
 Giftigkeit gegenÃ¼ber Fischeiern (G_{Ei})
 
- 
+
 
 2
 
@@ -3568,7 +3568,7 @@ Giftigkeit gegenÃ¼ber Fischeiern (G_{Ei})
 
 Bereiche
 
- 
+
 
 1
 
@@ -3819,7 +3819,7 @@ Der Nachweis fÃ¼r die Einhaltung der allgemeinen Anforderungen ist in einem betr
 
 (1) An das Abwasser werden fÃ¼r die Einleitungsstelle in das GewÃ¤sser folgende Anforderungen gestellt:\\
 
- 
+
 
 Qualifizierte Stichprobe oder\\
 2-Stunden-Mischprobe
@@ -3862,15 +3862,15 @@ mg/l
 
 Giftigkeit gegenÃ¼ber Fischeiern (G_{Ei})
 
- 
+
 
 2
 
 FÃ¤rbung: Spektraler Absorptionskoeffizient bei
 
- 
 
- 
+
+
 
 436 nm (Gelbbereich)
 
@@ -3898,7 +3898,7 @@ Die Anforderungen fÃ¼r Ammoniumstickstoff und Stickstoff, gesamt, gelten bei ein
 
 (1) An das Abwasser werden vor der Vermischung mit anderem Abwasser folgende Anforderungen gestellt:\\
 
- 
+
 
 Qualifizierte Stichprobe oder\\
 2-Stunden-Mischprobe
@@ -3937,7 +3937,7 @@ Zinn
 Die Anforderung an den AOX gilt fÃ¼r die Stichprobe.\\
 (2) Abwasser aus den nachfolgenden Bereichen darf keine hÃ¶here Schadstofffracht enthalten, als die Fracht, die sich aus den folgenden Konzentrationswerten und dem aus dem Teil B abgeleiteten Abwasservolumenstrom ergibt:\\
 
- 
+
 
 Chrom, gesamt
 
@@ -3945,7 +3945,7 @@ Kupfer
 
 Nickel
 
- 
+
 
 mg/l
 
@@ -4041,7 +4041,7 @@ Abwasseranfall und Schadstofffracht sind so gering zu halten, wie dies durch fol
 
 An das Abwasser werden fÃ¼r die Einleitungsstelle in das GewÃ¤sser folgende Anforderungen gestellt:
 
- 
+
 
 Erzeugung und GieÃŸen\\
 der unter Teil A Absatz 1\\
@@ -4061,7 +4061,7 @@ GieÃŸen von Aluminium\\
 sowie Herstellung von\\
 Aluminiumhalbzeug
 
- 
+
 
 Qualifizierte Stichprobe oder 2-Stunden-Mischprobe
 
@@ -4150,7 +4150,7 @@ mg/l
 Giftigkeit gegenÃ¼ber\\
 Fischeiern (G_{Ei})
 
- 
+
 
 Â \\
 Â 4
@@ -4168,14 +4168,14 @@ Fischeiern (G_{Ei})
 
 Die Anforderungen an Kohlenwasserstoffe, gesamt, gelten fÃ¼r die Stichprobe.
 In der wasserrechtlichen Zulassung kann die Schadstofffracht je Parameter, die in dem Wasser bei der Entnahme aus einem GewÃ¤sser vorhanden war (Vorbelastung), berÃ¼cksichtigt werden, soweit die entnommene Fracht bei der Einleitung in das GewÃ¤sser noch vorhanden ist.
-FÃ¼r den Anwendungsbereich nach Teil A Absatz 1 Nummer 1 gilt anstelle des Wertes fÃ¼r den Parameter Eisen nach Satz 1 der Tabellenzeile â€Eisenâ€œ ein Wert von 4,0 mg/l.
+FÃ¼r den Anwendungsbereich nach Teil A Absatz 1 Nummer 1 gilt anstelle des Wertes fÃ¼r den Parameter Eisen nach Satz 1 der Tabellenzeile Eisenâ€œ ein Wert von 4,0 mg/l.
 (1) An das Abwasser werden vor der Vermischung mit anderem Abwasser folgende Anforderungen gestellt:
 
- 
+
 
 Erzeugung und GieÃŸen von<<FnR.FnA2-F812064_15>>[[#FnA2-F812064_15][1]]}
 
- 
+
 
 Kupfer
 
@@ -4194,15 +4194,15 @@ mg/l
 
 Cadmium
 
-0,10 
+0,10
 
-0,10 
+0,10
 
-0,10 
+0,10
 
 0,050
 
-0,10 
+0,10
 
 0,050
 
@@ -4222,83 +4222,83 @@ Quecksilber
 
 Zink
 
-1,0Â  
+1,0Â 
 
-1,0Â  
+1,0Â 
 
-1,0Â  
+1,0Â 
 
-0,40 
+0,40
 
-1,0Â  
+1,0Â 
 
-1,0Â  
+1,0Â 
 
 Blei
 
-0,50 
+0,50
 
-0,50 
+0,50
 
-0,20 
+0,20
 
-0,50 
+0,50
 
-0,50 
+0,50
 
-0,20 
+0,20
 
 Kupfer
 
-0,50 
+0,50
 
-0,20 
+0,20
 
-0,10 
+0,10
 
-0,30 
+0,30
 
-0,50 
+0,50
 
-0,50 
+0,50
 
 Arsen
 
-0,10 
+0,10
 
-0,10 
+0,10
 
-0,10 
+0,10
 
-0,10 
+0,10
 
-0,30 
+0,30
 
-0,10 
+0,10
 
 Nickel
 
-0,50 
+0,50
 
-0,50 
+0,50
 
-0,10 
+0,10
 
-0,50 
+0,50
 
-2,0Â  
+2,0Â 
 
-2,0Â  
+2,0Â 
 
 Thallium
 
-1,0Â  
+1,0Â 
 
-1,0Â  
+1,0Â 
 
-1,0Â  
+1,0Â 
 
-1,0Â  
+1,0Â 
 
 --
 
@@ -4306,17 +4306,17 @@ Thallium
 
 Chrom, gesamt
 
-0,50 
+0,50
 
-0,50 
+0,50
 
-0,50 
+0,50
 
-0,50 
+0,50
 
 --
 
-0,20 
+0,20
 
 Chrom VI
 
@@ -4334,27 +4334,27 @@ Chrom VI
 
 Cobalt
 
-1,0Â  
+1,0Â 
 
-0,10 
+0,10
 
-1,0Â  
+1,0Â 
 
-1,0Â  
+1,0Â 
 
-0,50 
+0,50
 
 --
 
 Silber
 
-0,10 
+0,10
 
-0,10 
+0,10
 
-0,10 
+0,10
 
-0,10 
+0,10
 
 --
 
@@ -4362,13 +4362,13 @@ Silber
 
 Zinn
 
-2,0Â  
+2,0Â 
 
-2,0Â  
+2,0Â 
 
-2,0Â  
+2,0Â 
 
-2,0Â  
+2,0Â 
 
 --
 
@@ -4378,16 +4378,16 @@ Sulfid, leicht\\
 freisetzbar
 
 \\
-1,0Â  
+1,0Â 
 
 \\
-1,0Â  
+1,0Â 
 
 \\
-1,0Â  
+1,0Â 
 
 \\
-1,0Â  
+1,0Â 
 
 \\
 --
@@ -4402,19 +4402,19 @@ Halogene (AOX)
 
 \\
 \\
-1,0Â  
+1,0Â 
 
 \\
 \\
-1,0Â  
+1,0Â 
 
 \\
 \\
-1,0Â  
+1,0Â 
 
 \\
 \\
-1,0Â  
+1,0Â 
 
 \\
 \\
@@ -4526,35 +4526,35 @@ Herkunftsbereiche
 
 12
 
- 
+
 
 Qualifizierte Stichprobe oder 2-Stunden-Mischprobe
 
 Aluminium
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
 
 mg/l
 
@@ -4584,29 +4584,29 @@ mg/l
 
 Ammoniumstickstoff
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
 
 mg/l
 
@@ -4636,29 +4636,29 @@ mg/l
 
 Chemischer Sauerstoffbedarf (CSB)
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
 
 mg/l
 
@@ -4688,29 +4688,29 @@ mg/l
 
 Eisen
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
 
 mg/l
 
@@ -4740,29 +4740,29 @@ mg/l
 
 Fluorid, gelÃ¶st
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
 
 mg/l
 
@@ -4792,29 +4792,29 @@ mg/l
 
 Nitritstickstoff
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
 
 mg/l
 
@@ -4844,29 +4844,29 @@ mg/l
 
 Kohlenwasserstoffe, gesamt
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
 
 mg/l
 
@@ -4896,29 +4896,29 @@ mg/l
 
 Phosphor, gesamt
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
 
 mg/l
 
@@ -5006,35 +5006,35 @@ Herkunftsbereiche
 
 12
 
- 
+
 
 Qualifizierte Stichprobe oder 2-Stunden-Mischprobe
 
 AOX
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
 
 mg/l
 
@@ -5064,29 +5064,29 @@ mg/l
 
 Arsen
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
 
 mg/l
 
@@ -5116,29 +5116,29 @@ mg/l
 
 Barium
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
 
 mg/l
 
@@ -5168,29 +5168,29 @@ mg/l
 
 Blei
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
 
 mg/l
 
@@ -5220,29 +5220,29 @@ mg/l
 
 Cadmium
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
 
 mg/l
 
@@ -5298,29 +5298,29 @@ kg/t
 
 Chlor, freies
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
 
 mg/l
 
@@ -5350,29 +5350,29 @@ mg/l
 
 Chrom, gesamt
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
 
 mg/l
 
@@ -5402,29 +5402,29 @@ mg/l
 
 Chrom VI
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
 
 mg/l
 
@@ -5454,29 +5454,29 @@ mg/l
 
 Cyanid, leicht freisetzbar
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
 
 mg/l
 
@@ -5506,29 +5506,29 @@ mg/l
 
 Cobalt
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
 
 mg/l
 
@@ -5558,29 +5558,29 @@ mg/l
 
 Kupfer
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
 
 mg/l
 
@@ -5610,29 +5610,29 @@ mg/l
 
 Nickel
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
 
 mg/l
 
@@ -5662,29 +5662,29 @@ mg/l
 
 Quecksilber
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
 
 mg/l
 
@@ -5740,29 +5740,29 @@ kg/t
 
 Selen
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
 
 mg/l
 
@@ -5792,29 +5792,29 @@ mg/l
 
 Silber
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
 
 mg/l
 
@@ -5844,29 +5844,29 @@ mg/l
 
 Sulfid, leicht freisetzbar
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
 
 mg/l
 
@@ -5896,29 +5896,29 @@ mg/l
 
 Zinn
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
 
 mg/l
 
@@ -5948,29 +5948,29 @@ mg/l
 
 Zink
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
 
 mg/l
 
@@ -6193,7 +6193,7 @@ Bei Anwendung des Membranverfahrens sollen zusÃ¤tzlich folgende MaÃŸnahmen ergri
 
 An das Abwasser werden fÃ¼r die Einleitungsstelle in das GewÃ¤sser folgende Anforderungen gestellt:
 
- 
+
 
 Qualifizierte Stichprobe oder\\
 2-Stunden-Mischprobe
@@ -6206,7 +6206,7 @@ mg/l
 
 Giftigkeit gegenÃ¼ber Fischeiern (G_{Ei})
 
- 
+
 
 2
 
@@ -6229,7 +6229,7 @@ FÃ¼r vorhandene Einleitungen von Abwasser sind die unter Teil B Absatz 2 genannt
 
 (1)Â ZusÃ¤tzlich zu Teil C werden an das Abwasser aus Anlagen nach dem Amalgamverfahren fÃ¼r die Einleitungsstelle in das GewÃ¤sser folgende Anforderungen gestellt:
 
- 
+
 
 Qualifizierte Stichprobe\\
 oder 2-Stunden-Mischprobe
@@ -6266,7 +6266,7 @@ mg/l
 
 (1) Abweichend von Teil C werden an das Abwasser aus Anlagen nach dem Diaphragmaverfahren fÃ¼r die Einleitungsstelle in das GewÃ¤sser folgende Anforderungen gestellt:
 
- 
+
 
 Qualifizierte Stichprobe oder\\
 2-Stunden-Mischprobe
@@ -6279,7 +6279,7 @@ mg/l
 
 Giftigkeit gegenÃ¼ber Fischeiern (G_{Ei})
 
- 
+
 
 2
 
@@ -6345,7 +6345,7 @@ bzgl. der einzelnen Ã„nderungen vgl. FuÃŸnote)
 
 Bereiche
 
- 
+
 
 1
 
@@ -6436,7 +6436,7 @@ Giftigkeit gegenÃ¼ber Fischeiern (G_{Ei})
 
 Herstellungsbereiche
 
- 
+
 
 1
 
@@ -6625,12 +6625,12 @@ bzgl. der einzelnen Ã„nderungen vgl. FuÃŸnote)
 (1) An das Abwasser werden fÃ¼r die Einleitungsstelle in das GewÃ¤sser folgende Anforderungen gestellt:\\
 \\
 
- 
+
 
 Qualifizierte Stichprobe oder\\
 2-Stunden-Mischprobe
 
- 
+
 
 g/t
 
@@ -6640,13 +6640,13 @@ Biochemischer Sauerstoffbedarf in 5 Tagen (BSB_{5})
 
 Â 9,0
 
-Â 20Â  
+Â 20Â 
 
 Chemischer Sauerstoffbedarf (CSB)
 
 --
 
-220Â  
+220Â 
 
 Stickstoff, gesamt, als Summe aus Ammonium-, Nitrit- und Nitratstickstoff (N_{ges})
 
@@ -6654,11 +6654,11 @@ Stickstoff, gesamt, als Summe aus Ammonium-, Nitrit- und Nitratstickstoff (N_{ge
 Â 9,0
 
 \\
-Â 35Â  
+Â 35Â 
 
 Gesamter gebundener Stickstoff (TN_{b})
 
-12Â  
+12Â 
 
 --
 
@@ -6677,12 +6677,12 @@ Phosphor, gesamt
 (1) An das Abwasser werden vor Vermischung mit anderem Abwasser folgende Anforderungen gestellt:\\
 \\
 
- 
+
 
 Qualifizierte Stichprobe oder\\
 2-Stunden-Mischprobe
 
- 
+
 
 g/t
 
@@ -6690,15 +6690,15 @@ mg/l
 
 Benzol und Derivate
 
-0,03 
+0,03
 
 --
 
 Sulfid, leicht freisetzbar
 
-0,03 
+0,03
 
-0,1 
+0,1
 
 Polycyclische aromatische Kohlenwasserstoffe (PAK)
 
@@ -6711,22 +6711,22 @@ Polycyclische aromatische Kohlenwasserstoffe (PAK)
 Phenolindex nach Destillation und Farbstoffextraktion
 
 \\
-0,15 
+0,15
 
 \\
-0,5 
+0,5
 
 Thiocyanat (SCN-})
 
 --
 
-4,0 
+4,0
 
 Cyanid, leicht freisetzbar
 
-0,03 
+0,03
 
-0,1 
+0,1
 
 Giftigkeit gegenÃ¼ber Fischeiern (G_{Ei})
 
@@ -6783,11 +6783,11 @@ Es werden keine Ã¼ber Â§ 3 hinausgehenden Anforderungen gestellt.
 
 (1) An das Abwasser werden vor der Vermischung mit anderem Abwasser folgende Anforderungen gestellt:\\
 
- 
+
 
 Qualifizierte Stichprobe oder 2-Stunden-Mischprobe
 
- 
+
 
 Steinkohlekraftwerke
 
@@ -6928,11 +6928,11 @@ Teil 6 Anforderungen fÃ¼r DDT, Pentachlorphenol
 (4) Pentachlorphenol (PCP) ist die chemische Verbindung 2,3,4,5,6-Pentachlor-1-Hydroxybenzol und ihre Salze.
 Teil 7 Anforderungen fÃ¼r Endosulfan
 (1) FÃ¼r Endosulfan gelten folgende Anforderungen:\\
- 
+
 Endosulfan
 g/t
 Âµg/l
- 
+
 in der Stichprobe
 Herstellung und Formulierung von Endosulfan im gleichen Betrieb
 0,23
@@ -6982,7 +6982,7 @@ TRI
 PER
 EDC
 TCB
- 
+
 g/t
 g/t
 g/t
@@ -7078,12 +7078,12 @@ Teil 11 Anforderungen fÃ¼r Titandioxid
 (2) Das Abwasser darf nur eingeleitet werden, wenn eine gezielte Schadstoffminderung fÃ¼r die Stoffe Eisen, Titan und Vanadium durchgefÃ¼hrt worden ist.
 (3) Das Abwasser darf keine AbfÃ¤lle aus der Herstellung von Titandioxid im Sinne von Artikel 67 der Richtlinie 2010/75/EU enthalten.
 (4) An das Abwasser werden fÃ¼r die Einleitungsstelle in das GewÃ¤sser folgende Anforderungen gestellt:\\
- 
+
 Chloridverfahren
 Sulfatverfahren
 Stufenkeimverfahren
 Kombikeimverfahren
- 
+
 Qualifizierte Stichprobe oder 2-Stunden-Mischprobe
 Chemischer Sauerstoffbedarf (CSB)
 kg/t
@@ -7091,10 +7091,10 @@ kg/t
 8
 8
 Chlorid bei Verwendung von
- 
- 
- 
- 
+
+
+
+
 - natÃ¼rlichem Rutil
 kg/t
 130
@@ -7116,17 +7116,17 @@ kg/t
 500
 500
 Giftigkeit gegenÃ¼ber Fischeiern (G_{Ei})
- 
+
 2
 2
 2
 \\
 Die Anforderungen fÃ¼r Chlorid in der Spalte Chloridverfahren gelten fÃ¼r das Chloridverfahren im Sinne von Anhang VIII Teil 1 Nummer 2 Buchstabe c der in Absatz 3 genannten Richtlinie. FÃ¼r Einleitungen in KÃ¼stengewÃ¤sser nach Â§ 3 Nummer 2 des Wasserhaushaltsgesetzes vom 31. Juli 2009 (BGBl. I S. 2585) und fÃ¼r ÃœbergangsgewÃ¤sser nach Â§ 2 Nummer 2 der OberflÃ¤chengewÃ¤sserverordnung vom 20. Juli 2011 (BGBl. I S. 1429) in der jeweils geltenden Fassung kann abweichend von Satz 1 bei Verwendung von Schlacke ein Emissionswert von 450 kg Chlorid pro Tonne nach dem Chloridverfahren erzeugten Titandioxids festgelegt werden. Wird mehr als ein Einsatzstoff verwendet, gelten die Emissionswerte fÃ¼r Chlorid proportional zu der Menge der verwendeten Einsatzstoffe.
 (5) An das Abwasser werden vor der Vermischung mit anderem Abwasser folgende Anforderungen gestellt:\\
- 
+
 Chloridverfahren
 Sulfatverfahren
- 
+
 Qualifizierte Stichprobe oder\\
 2-Stunden-Mischprobe
 Blei
@@ -7194,7 +7194,7 @@ Der Nachweis, dass die Anforderungen eingehalten sind, kann dadurch erbracht wer
 
 An das Abwasser werden fÃ¼r die Einleitungsstelle in das GewÃ¤sser folgende Anforderungen gestellt:\\
 
- 
+
 
 Qualifizierte Stichprobe oder\\
 2-Stunden-Mischprobe
@@ -7286,7 +7286,7 @@ Der Volumenstrom und die Schadstofffracht des Sickerwassers sind durch geeignete
 
 (1) An das Abwasser werden fÃ¼r die Einleitungsstelle in das GewÃ¤sser folgende Anforderungen gestellt:\\
 
- 
+
 
 Qualifizierte Stichprobe oder\\
 2-Stunden-Mischprobe
@@ -7329,7 +7329,7 @@ mg/l
 
 Giftigkeit gegenÃ¼ber Fischeiern (G_{Ei})
 
- 
+
 
 2
 
@@ -7342,7 +7342,7 @@ Giftigkeit gegenÃ¼ber Fischeiern (G_{Ei})
 
 (1) An das Abwasser werden vor der Vermischung mit anderem Abwasser folgende Anforderungen gestellt:\\
 
- 
+
 
 Qualifizierte Stichprobe oder\\
 2-Stunden-Mischprobe
@@ -7502,7 +7502,7 @@ An das Abwasser werden fÃ¼r die Einleitungsstelle in das GewÃ¤sser keine zusÃ¤tz
 (1) An das Abwasser werden vor Vermischung mit anderem Abwasser folgende Anforderungen gestellt:
 
 - 1. :: Abwasser aus der Behandlung von BÃ¤dern
-   
+  
 
 \\
 
@@ -7548,7 +7548,7 @@ An das Abwasser wird fÃ¼r die Einleitungsstelle in das GewÃ¤sser eine Anforderun
 
 An das Abwasser werden vor Vermischung mit anderem Abwasser folgende Anforderungen gestellt:\\
 
- 
+
 
 Qualifizierte Stichprobe oder\\
 2-Stunden-Mischprobe
@@ -7673,7 +7673,7 @@ Die Anforderungen gelten nicht, wenn der Anteil dieses Waschgutes 10 Prozent und
 (4) Die Anforderung nach Absatz 1 an AOX fÃ¼r das Abwasser aus Krankenhaus- und HeimwÃ¤sche gilt nicht im Seuchenfall bei meldepflichtigen Infektionskrankheiten.\\
 (5) An das Abwasser aus dem Waschen von PutztÃ¼chern, Berufsbekleidung<<FnR.bjnr056610997bjne004606377_1>>[[#bjnr056610997bjne004606377_1][*)]]} , Teppichen und Matten werden folgende Anforderungen vor der Vermischung mit anderem Abwasser gestellt:\\
 
- 
+
 
 Qualifizierte Stichprobe oder\\
 2-Stunden-Mischprobe
@@ -7781,7 +7781,7 @@ Die Anforderungen nach den Nummern 1 bis 4 gelten als eingehalten, wenn die eing
 
 An das Abwasser werden fÃ¼r die Einleitungsstelle in das GewÃ¤sser folgende Anforderungen gestellt:\\
 
- 
+
 
 Qualifizierte Stichprobe oder\\
 2-Stunden-Mischprobe
@@ -7830,7 +7830,7 @@ mg/l
 
 Giftigkeit gegenÃ¼ber Fischeiern (G_{Ei})
 
- 
+
 
 4
 
@@ -7853,7 +7853,7 @@ Bereiche
 
 5
 
- 
+
 
 Qualifizierte Stichprobe oder 2-Stunden-Mischprobe
 
@@ -8005,18 +8005,18 @@ Anhang 57 - WollwÃ¤schereien
 
 (1) An das Abwasser werden fÃ¼r die Einleitungsstelle in das GewÃ¤sser folgende Anforderungen gestellt:\\
 
- 
+
 
 Qualifizierte Stichprobe oder\\
 2-Stunden-Mischprobe
 
- 
+
 
 mg/l
 
 kg/t
 
- 
+
 
 Chemischer Sauerstoffbedarf (CSB)
 
@@ -8024,7 +8024,7 @@ Chemischer Sauerstoffbedarf (CSB)
 
 1,5
 
- 
+
 
 Biochemischer Sauerstoffbedarf in 5 Tagen (BSB_{5})
 
@@ -8032,7 +8032,7 @@ Biochemischer Sauerstoffbedarf in 5 Tagen (BSB_{5})
 
 0,1
 
- 
+
 
 Stickstoff, gesamt, als Summe von Ammonium-, Nitrit- und Nitratstickstoff (N_{ges})
 
@@ -8040,7 +8040,7 @@ Stickstoff, gesamt, als Summe von Ammonium-, Nitrit- und Nitratstickstoff (N_{ge
 
 0,3
 
- 
+
 
 Gesamter gebundener Stickstoff (TN_{b})
 
@@ -8048,7 +8048,7 @@ Gesamter gebundener Stickstoff (TN_{b})
 
 0,4
 
- 
+
 
 Phosphor, gesamt
 
@@ -8056,21 +8056,21 @@ Phosphor, gesamt
 
 0,02
 
- 
+
 
 Giftigkeit gegenÃ¼ber Fischeiern (G_{Ei})
 
- 
 
- 
+
+
 
 2
 
 Giftigkeit gegenÃ¼ber Daphnien (G_{D})
 
- 
 
- 
+
+
 
 2
 

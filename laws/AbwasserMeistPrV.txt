@@ -230,8 +230,8 @@ Wird die zu prüfende Person nach § 56 Absatz 2 von der Ablegung einzelner Prü
 § 7 - Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
-(2) Im Prüfungsteil �Grundlegende Qualifikationen“ sind die Prüfungsleistungen für jeden Prüfungsbereich einzeln zu bewerten. Aus den einzelnen Bewertungen ist als Bewertung für den Prüfungsteil das arithmetische Mittel zu berechnen.
-(3) Im Prüfungsteil �Handlungsspezifische Qualifikationen“ sind als Prüfungsleistungen zu bewerten:
+(2) Im Prüfungsteil Grundlegende Qualifikationen“ sind die Prüfungsleistungen für jeden Prüfungsbereich einzeln zu bewerten. Aus den einzelnen Bewertungen ist als Bewertung für den Prüfungsteil das arithmetische Mittel zu berechnen.
+(3) Im Prüfungsteil Handlungsspezifische Qualifikationen“ sind als Prüfungsleistungen zu bewerten:
 
 - 1. :: die beiden schriftlichen Situationsaufgaben nach § 5 Absatz 2 Satz 2 und
 - 2. :: das Fachgespräch nach § 5 Absatz 6.
@@ -244,20 +244,20 @@ Aus den einzelnen Bewertungen ist als Bewertung für den Prüfungsteil das arith
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
-- 1. :: in jedem Prüfungsbereich des Prüfungsteils �Grundlegende Qualifikationen“,
-- 2. :: im Prüfungsteil �Handlungsspezifische Qualifikationen“ in den beiden schriftlich zu lösenden Situationsaufgaben sowie im Fachgespräch.
+- 1. :: in jedem Prüfungsbereich des Prüfungsteils Grundlegende Qualifikationen“,
+- 2. :: im Prüfungsteil Handlungsspezifische Qualifikationen“ in den beiden schriftlich zu lösenden Situationsaufgaben sowie im Fachgespräch.
 
 (2) Ist die Prüfung bestanden, sind die folgenden Bewertungen jeweils kaufmännisch auf eine ganze Zahl zu runden:
 
-- 1. :: die Bewertung für den Prüfungsteil �Grundlegende Qualifikationen“,
-- 2. :: die Bewertung für den Prüfungsteil �Handlungsspezifische Qualifikationen“,
+- 1. :: die Bewertung für den Prüfungsteil Grundlegende Qualifikationen“,
+- 2. :: die Bewertung für den Prüfungsteil Handlungsspezifische Qualifikationen“,
 - 3. :: die Bewertung der Situationsaufgabe, in der eine mündliche Ergänzungsprüfung durchgeführt wurde.
 
-(3) Der Bewertung für den Prüfungsteil �Grundlegende Qualifikationen“ und den Bewertungen für die beiden schriftlichen Situationsaufgaben und der Bewertung für das Fachgespräch ist nach Anlage 1 die jeweilige Note als Dezimalzahl zuzuordnen.
+(3) Der Bewertung für den Prüfungsteil Grundlegende Qualifikationen“ und den Bewertungen für die beiden schriftlichen Situationsaufgaben und der Bewertung für das Fachgespräch ist nach Anlage 1 die jeweilige Note als Dezimalzahl zuzuordnen.
 (4) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das gewichtete arithmetische Mittel zu berechnen. Dabei werden die Bewertungen wie folgt gewichtet:
 
-- 1. :: die Bewertung für den Prüfungsteil �Grundlegende Qualifikationen“ mit 25 Prozent,
-- 2. :: die Bewertung für den im Prüfungsteil �Handlungsspezifische Qualifikationen“ mit 75 Prozent.
+- 1. :: die Bewertung für den Prüfungsteil Grundlegende Qualifikationen“ mit 25 Prozent,
+- 2. :: die Bewertung für den im Prüfungsteil Handlungsspezifische Qualifikationen“ mit 75 Prozent.
 
 Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerundeten Gesamtpunktzahl wird nach Anlage 1 eine Note als Dezimalzahl und die Note in Worten zugeordnet. Die zugeordnete Note ist die Gesamtnote.
 
@@ -316,10 +316,10 @@ Teil A -- Zeugnis ohne Prüfungsergebnisse:
 Teil B -- Zeugnis mit Prüfungsergebnissen:
 Alle Angaben des Teils A sowie zusätzlich:
 
-- 1. :: zum Prüfungsteil �Grundlegende Qualifikationen“
+- 1. :: zum Prüfungsteil Grundlegende Qualifikationen“
   - a) :: Benennung dieses Prüfungsteils und Bewertung mit Note sowie
   - b) :: Benennung der fünf Prüfungsbereiche und Bewertung mit Punkten,
-- 2. :: zum Prüfungsteil �Handlungsspezifische Qualifikationen“
+- 2. :: zum Prüfungsteil Handlungsspezifische Qualifikationen“
   - a) :: Benennung dieses Prüfungsteils,
   - b) :: Benennung der Situationsaufgabe nach § 5 Absatz 3 und Bewertung mit Note,
   - c) :: Benennung der Situationsaufgabe nach § 5 Absatz 4 und Bewertung mit Note,

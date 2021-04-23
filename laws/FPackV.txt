@@ -6,39 +6,39 @@ Ausfertigungsdatum: 18.11.2020
 
 Inhaltsübersicht
 
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 § 1 - Anwendungsbereich
 
@@ -176,7 +176,7 @@ Zulässige Minusabweichung
 in % von Q_{N}
 in g oder ml
 5 bis 50
-9 �
+9 
 --
 50 bis 100
 --
@@ -188,7 +188,7 @@ in g oder ml
 --
  9
 300 bis 500
-3 �
+3 
 --
 500 bis 1 000
 --
@@ -236,7 +236,7 @@ Bei der Anwendung dieser Tabelle sind die in Gewichts- und Volumeneinheiten bere
 
 § 11 - ℮-Zeichen
 
-(1) Das Zeichen �℮“ in der in Anhang II Nummer 3 der Richtlinie 2009/34/EG des Europäischen Parlaments und des Rates vom 23. April 2009 betreffend gemeinsame Vorschriften über Messgeräte sowie über Mess- und Prüfverfahren (Neufassung) (ABl. L 106 vom 28.4.2009, S. 7) dargestellten Form darf nur aufgebracht werden, wenn die Anforderungen der §§ 4, 6, 8, 9, 10 Absatz 5 und der §§ 38, 41 und 42 erfüllt sind. Ist neben der Nennfüllmenge auch das Abtropfgewicht anzugeben, so bezieht sich das Zeichen nur auf die Nennfüllmenge.
+(1) Das Zeichen ℮“ in der in Anhang II Nummer 3 der Richtlinie 2009/34/EG des Europäischen Parlaments und des Rates vom 23. April 2009 betreffend gemeinsame Vorschriften über Messgeräte sowie über Mess- und Prüfverfahren (Neufassung) (ABl. L 106 vom 28.4.2009, S. 7) dargestellten Form darf nur aufgebracht werden, wenn die Anforderungen der §§ 4, 6, 8, 9, 10 Absatz 5 und der §§ 38, 41 und 42 erfüllt sind. Ist neben der Nennfüllmenge auch das Abtropfgewicht anzugeben, so bezieht sich das Zeichen nur auf die Nennfüllmenge.
 (2) Das Zeichen muss in einer Größe von mindestens 3 Millimeter Höhe und im gleichen Sichtfeld wie die Angabe der Nennfüllmenge aufgebracht werden.
 (+++ § 11: Zur Anwendung vgl. § 12 Abs. 3 +++)\\
 (+++ § 11: Zur Anwendung vgl. § 13 Abs. 3 +++)\\
@@ -782,7 +782,7 @@ Anlage 1 - (zu § 1 Absatz 2 Nummer 5, § 23, § 39 Absatz 4)Verbindliche Werte 
   |                     | ml: 720 -- 1 800                                                                                                          |
 - 2. :: Begriffsbestimmungen für die Erzeugnisse
   | Wein                | Wein im Sinne von Artikel 1 Absatz 2 Buchstabe l in Verbindung mit Anhang I, Teil XII, Buchstabe b der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S. 671), zuletzt geändert durch die Verordnung (EU) Nr. 2017/2393 (ABl. L 350 vom 29.12.2017, S. 15); KN-Code ex 2204                                                                                                                                                                                                |
-  | Gelbwein            | Französischer Wein im Sinne von Artikel 56 in Verbindung mit Anhang VII Ziffer 3 Buchstabe b mit der Ursprungsbezeichnung �Côtes du Jura“, �Arbois“, �L´Etoile“ und �Château-Chalon“ in Flaschen im Sinne von Anhang VII Ziffer 3 Buchstabe a der Delegierten Verordnung (EU) 2019/33 der Kommission vom 17. Oktober 2018 zur Ergänzung der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates in Bezug auf Anträge auf Schutz von Ursprungsbezeichnungen, geografischen Angaben und traditionellen Begriffen im Weinsektor, das Einspruchsverfahren, Einschränkungen der Verwendung, Änderungen der Produktspezifikationen, die Löschung des Schutzes sowie die Kennzeichnung und Aufmachung (ABl. L 9 vom 11.1.2019, S. 2) |
+  | Gelbwein            | Französischer Wein im Sinne von Artikel 56 in Verbindung mit Anhang VII Ziffer 3 Buchstabe b mit der Ursprungsbezeichnung Côtes du Jura“, Arbois“, L´Etoile“ und Château-Chalon“ in Flaschen im Sinne von Anhang VII Ziffer 3 Buchstabe a der Delegierten Verordnung (EU) 2019/33 der Kommission vom 17. Oktober 2018 zur Ergänzung der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates in Bezug auf Anträge auf Schutz von Ursprungsbezeichnungen, geografischen Angaben und traditionellen Begriffen im Weinsektor, das Einspruchsverfahren, Einschränkungen der Verwendung, Änderungen der Produktspezifikationen, die Löschung des Schutzes sowie die Kennzeichnung und Aufmachung (ABl. L 9 vom 11.1.2019, S. 2) |
   | Schaumwein          | Weinbauerzeugnis im Sinne des Anhangs VII, Teil II Nummer 4, 7, 8 und 9 der Verordnung (EU) Nr. 1308/2013; KN-Code 2204 10                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
   | Likörwein           | Wein im Sinne des Anhangs VII Teil II Nummer 3 der Verordnung (EU) Nr. 1308/2013; KN-Code 2204 21 -- 2204 29                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
   | Aromatisierter Wein | Aromatisierter Wein im Sinne von Artikel 3 Absatz 2 der Verordnung (EU) Nr. 251/2014 des Europäischen Parlaments und des Rates vom 26. Februar 2014 über die Begriffsbestimmung, Beschreibung, Aufmachung und Etikettierung von aromatisierten Weinerzeugnissen sowie den Schutz geografischer Angaben für aromatisierte Weinerzeugnisse und zur Aufhebung der Verordnung (EWG) Nr. 1601/91 des Rates (ABl. L 84 vom 20.3.2014, S. 14); KN-Code 2205                                                                                                                                                                                                                                                                                              |
@@ -839,7 +839,7 @@ Anlage 3 - (zu § 9 Absatz 1 Nummer 1, Absatz 2 Nummer 1, § 10 Absatz 1, Absatz
   - d) :: Zerstörende Prüfung bei Abtropfgewichtskennzeichnung: Einfach-Stichprobenprüfung mit vermindertem Stichprobenumfang
     N
   - e) :: Zerstörende Prüfung
-    Einfach-Stichprobenprüfung mit vermindertem Stichprobenumfang für Fertigpackungen, die mit dem Zeichen �℮“ nach § 11 gekennzeichnet sind
+    Einfach-Stichprobenprüfung mit vermindertem Stichprobenumfang für Fertigpackungen, die mit dem Zeichen ℮“ nach § 11 gekennzeichnet sind
     N
   - f) :: Nicht zerstörende Prüfung für Fertigpackungen mit EG-Düngemitteln, Düngemitteln, die nicht als EG-Düngemittel bezeichnet sind sowie mit Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln über 10 Liter
     N
@@ -931,7 +931,7 @@ Anlage 4 - (zu § 26 Absatz 2 Nummer 1, § 28 Absatz 1 und Absatz 2,§ 30 Absatz
   - d) :: Bestimmung der Länge von Textilerzeugnissen
     Die Länge von Textilerzeugnissen ist nach den allgemein anerkannten Regeln der Technik zu bestimmen. Die mittlere feuchtigkeitsbedingte Längenänderung von Textilerzeugnissen und die mittlere Feinheit von Garnen sind an 3 Proben aus der Stichprobe nach Nummer 3 zu bestimmen.
 - 6. :: Feststellung des Mittelwertes
-  Die Vorschriften über die mittlere Füllmenge dieser Verordnung sind erfüllt, wenn der festgestellte Mittelwert x̄ der Füllmengen x_{i} aus der Stichprobe, vermehrt um den Betrag �a * R“, größer oder gleich der Nennfüllmenge ist.
+  Die Vorschriften über die mittlere Füllmenge dieser Verordnung sind erfüllt, wenn der festgestellte Mittelwert x̄ der Füllmengen x_{i} aus der Stichprobe, vermehrt um den Betrag a * R“, größer oder gleich der Nennfüllmenge ist.
   Der Faktor a ergibt sich aus der Tabelle unter Nummer 3; R ist die Spannweite der Füllmengen x_{i} der Stichprobe.
 - 7. :: Prüfung von Verkaufseinheiten gleicher Nennlänge oder gleicher Nennfläche ohne Umhüllung
   Die Nummern 1 bis 6 dieser Anlage sind auf die Prüfung von Verkaufseinheiten gleicher Nennlänge oder gleicher Nennfläche ohne Umhüllung entsprechend anzuwenden.

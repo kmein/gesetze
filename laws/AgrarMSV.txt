@@ -373,7 +373,7 @@ Anlage - (zu § 1 Absatz 1)Ergänzungen von Erzeugnisbereichen und weitere Erzeu
 
 (Fundstelle: BGBl. I 2013, 4006 - 4007; bzgl. einzelner Änderungen vgl. Fußnote)
 Im Folgenden meint KN-Code eine Position im Rahmen der Verordnung (EWG) Nr. 2658/87 des Rates vom 23. Juli 1987 über die zolltarifliche und statistische Nomenklatur sowie den Gemeinsamen Zolltarif (ABl. L 256 vom 7.9.1987, S. 1) in ihrer jeweils geltenden Fassung.
-�
+
 - 1. :: Der Erzeugnisbereich Getreide umfasst auch folgende Erzeugnisse:
   - a) :: KN-Code ex 0713: getrocknete ausgelöste Hülsenfrüchte, auch geschält oder zerkleinert,
   - b) :: KN-Code 1201 00 90: Sojabohnen, auch geschrotet, andere als zur Aussaat,

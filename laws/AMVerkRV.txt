@@ -787,19 +787,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 alpha-(Aminomethyl)benzylalkohol (Phenylaminoäthan),
 
-�
+
 
 dessen Abkömmlinge und Salze
 
 p-Aminophenol, dessen Abkömmlinge und deren
 
-�
+
 
 Salze
 
 2-Amino-1-phenylpropanol (Phenylaminopropanol),
 
-�
+
 
 dessen Abkömmlinge und Salze
 
@@ -813,13 +813,13 @@ Bleiverbindungen
 
 Borsäure und ihre Salze, ausgenommen zur Pufferung und/oder
 
-�
+
 
 Isotonisierung in Benetzungslösungen oder Desinfektionslösungen für Kontaktlinsen
 
 Bromverbindungen, ausgenommen Invertseifen,
 
-�
+
 
 ferner in Arzneimitteln, die dazu bestimmt sind, die Beschaffenheit, den Zustand oder die Funktionen des Körpers oder seelische Zustände erkennen zu lassen sowie in ausschließlich zum äußeren Gebrauch bestimmten Desinfektionsmitteln, Mund- und Rachendesinfektionsmitteln
 
@@ -827,19 +827,19 @@ Carbamidsäure-Abkömmlinge
 
 Carbamidsäure-Ester und -Amide mit insektizider,
 
-�
+
 
 akarizider oder fungizider Wirkung, ausgenommen in Fertigarzneimitteln zur äußeren Anwendung bei Hunden und Katzen
 
 Chinin und dessen Salze, ausgenommen Chinin-Triquecksilber(II)-dioxid-sulfat
 
-�
+
 
 in Zubereitungen bis zu 2,75% zur Verhütung von Geschlechtskrankheiten, als Fertigarzneimittel
 
 Chinolinabkömmlinge, ausgenommen in Zubereitungen zum äußeren
 
-�
+
 
 Gebrauch, zur Mund- und Rachendesinfektion sowie in Zubereitungen bis zu 3% zur Empfängnisverhütung als Fertigarzneimittel; die Ausnahme gilt nicht für halogenierte Hydroxychinoline
 
@@ -853,7 +853,7 @@ Dantron
 
 Fluoride, lösliche, ausgenommen in Zubereitungen,
 
-�
+
 
 sofern auf Behältnissen und äußeren Umhüllungen eine Tagesdosis angegeben ist, die einem Fluorgehalt bis zu 2 mg entspricht
 
@@ -863,13 +863,13 @@ Goldverbindungen
 
 Heilbuttleberöl, ausgenommen zur Anwendung bei Menschen
 
-�
+
 
 in Zubereitungen mit einer Tagesdosis von nicht mehr als 6 000 I.E. Vitamin A und 400 I.E. Vitamin D sowie ausgenommen zur Anwendung bei Tieren in Zubereitungen mit einer Tagesdosis von nicht mehr als 4 000 I.E. Vitamin A und 250 I.E. Vitamin D
 
 Heilwässer, in Flaschen abgefüllte, die je Liter
 
-�
+
 
 - a) :: 0,01 mg Arsen entsprechend 0,019 mg Hydrogenarsenat oder mehr enthalten oder
 - b) :: mehr als 3,7 Becquerel ²²⁶Radium oder mehr als 100 Becquerel ²²²Radon enthalten
@@ -878,13 +878,13 @@ Herzwirksame Glykoside
 
 Jod, ausgenommen in Zubereitungen mit einem Gehalt von nicht
 
-�
+
 
 mehr als 5% Jod und in Arzneimitteln nach § 44 Abs. 2 Nr. 1a und b des Arzneimittelgesetzes
 
 Jodverbindungen, ausgenommen in Arzneimitteln, die dazu bestimmt
 
-�
+
 
 sind, die Beschaffenheit, den Zustand oder die Funktionen des Körpers oder seelische Zustände erkennen zu lassen, ferner in ausschließlich zum äußeren Gebrauch bestimmten Desinfektionsmitteln und in Arzneimitteln nach § 44 Abs. 2 Nr. 1a und b des Arzneimittelgesetzes, ferner in Zubereitungen zur Herstellung von Bädern und von Seifen, auch unter Verwendung von Jod, zum äußeren Gebrauch, als Fertigarzneimittel
 
@@ -892,13 +892,13 @@ Natriumpicosulfat
 
 Oxazin und seine Hydrierungsprodukte,
 
-�
+
 
 ihre Salze, ihre Abkömmlinge sowie deren Salze
 
 Paraffin, dick- und dünnflüssiges, ausgenommen zum äußeren
 
-�
+
 
 Gebrauch oder bis zu einem Gehalt von 10% in nichtflüssigen Zubereitungen
 
@@ -912,7 +912,7 @@ Phenolphthalein
 
 Phosphorsäure-, Polyphosphorsäure-, substituierte
 
-�
+
 
 Phosphorsäure- (z.B. Thiophosphorsäure-) Ester und -Amide, einschließlich der Ester mit Nitrophenol und Methylhydroxycumarin mit insektizider, akarizider oder fungizider Wirkung, ausgenommen in Fertigarzneimitteln zur äußeren Anwendung bei Hunden oder Katzen
 
@@ -920,7 +920,7 @@ Procain und seine Salze zur oralen Anwendung
 
 Pyrazol und seine Hydrierungsprodukte, ihre Salze,
 
-�
+
 
 ihre Abkömmlinge sowie deren Salze
 
@@ -928,7 +928,7 @@ Resorcin
 
 Salicylsäure, ihre Abkömmlinge und deren Salze, ausgenommen
 
-�
+
 
 Zubereitungen zum äußeren Gebrauch, ferner Salicylsäureester in ausschließlich oder überwiegend zum äußeren Gebrauch bestimmten Desinfektionsmitteln, Mund- und Rachendesinfektionsmitteln
 
@@ -936,12 +936,12 @@ Senföle
 
 Vitamin A, ausgenommen Zubereitungen mit einer Tagesdosis von
 
-�
+
 
 nicht mehr als 5 000 I.E. und einer Einzeldosis von nicht mehr als 3 000 I.E., auch unter Zusatz von Vitamin D mit einer Tagesdosis von nicht mehr als 400 I.E., als Fertigarzneimittel für Menschen, sowie ausgenommen Zubereitungen mit einer Tagesdosis von nicht mehr als 4 000 I.E., auch unter Zusatz von Vitamin D mit einer Tagesdosis von nicht mehr als 250 I.E., als Arzneimittel für Tiere
 
 Vitamin D, ausgenommen Zubereitungen mit einer Tagesdosis von
 
-�
+
 
 nicht mehr als 400 I.E. als Fertigarzneimittel für Menschen, sowie ausgenommen Zubereitungen mit einer Tagesdosis von nicht mehr als 250 I.E. als Arzneimittel für Tiere

@@ -44,9 +44,9 @@ Es handelt sich um insgesamt 310 Fragen, davon\\
 \\
 aus den Themenfeldern des Rahmencurriculums zum Einbürgerungskurs\\
 \\
-• �Leben in der Demokratie“,\\
-• �Geschichte und Verantwortung“,\\
-• �Mensch und Gesellschaft,\\
+• Leben in der Demokratie“,\\
+• Geschichte und Verantwortung“,\\
+• Mensch und Gesellschaft,\\
 \\
 und\\
 \\
@@ -164,7 +164,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
   - □ :: Nein, denn nur der Bundesrat kann die Pressefreiheit abschaffen.
 
-- 13. :: Im Parlament steht der Begriff �Opposition“ für ...
+- 13. :: Im Parlament steht der Begriff Opposition“ für ...
   - □ :: die regierenden Parteien.
 
   - □ :: die Fraktion mit den meisten Abgeordneten.
@@ -218,7 +218,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
   - □ :: Meinungsfreiheit
 
-- 19. :: Was versteht man unter dem Recht der �Freizügigkeit“ in Deutschland?
+- 19. :: Was versteht man unter dem Recht der Freizügigkeit“ in Deutschland?
   - □ :: Man darf sich seinen Wohnort selbst aussuchen.
 
   - □ :: Man kann seinen Beruf wechseln.
@@ -518,7 +518,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
   - □ :: jemand ein Verbrechen begeht und deshalb verhaftet wird.
 
-- 52. :: Was bedeutet �Volkssouveränität“? Alle Staatsgewalt geht vom ...
+- 52. :: Was bedeutet Volkssouveränität“? Alle Staatsgewalt geht vom ...
   - □ :: Volke aus.
 
   - □ :: Bundestag aus.
@@ -527,7 +527,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
   - □ :: Bundesverfassungsgericht aus.
 
-- 53. :: Was bedeutet �Rechtsstaat“ in Deutschland?
+- 53. :: Was bedeutet Rechtsstaat“ in Deutschland?
   - □ :: Der Staat hat Recht.
 
   - □ :: Es gibt nur rechte Parteien.
@@ -584,7 +584,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
   - □ :: der Bundestagspräsident / die Bundestagspräsidentin
 
-- 59. :: Welche Parteien wurden in Deutschland 2007 zur Partei �Die Linke“?
+- 59. :: Welche Parteien wurden in Deutschland 2007 zur Partei Die Linke“?
   - □ :: CDU und SSW
 
   - □ :: PDS und WASG
@@ -602,7 +602,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
   - □ :: Judikative.
 
-- 61. :: Was bedeutet �Volkssouveränität“?
+- 61. :: Was bedeutet Volkssouveränität“?
   - □ :: Der König / die Königin herrscht über das Volk.
 
   - □ :: Das Bundesverfassungsgericht steht über der Verfassung.
@@ -893,7 +893,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
   - □ :: Christlich Soziale Union
 
-- 93. :: Je mehr �Zweitstimmen“ eine Partei bei einer Bundestagswahl bekommt, desto ...
+- 93. :: Je mehr Zweitstimmen“ eine Partei bei einer Bundestagswahl bekommt, desto ...
   - □ :: weniger Erststimmen kann sie haben.
 
   - □ :: mehr Direktkandidaten der Partei ziehen ins Parlament ein.
@@ -981,9 +981,9 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
   - □ :: Vaterländischen Verdienstorden
 
-  - □ :: Ehrentitel �Held der Deutschen Demokratischen Republik
+  - □ :: Ehrentitel Held der Deutschen Demokratischen Republik
 
-- 103. :: Was wird in Deutschland als �Ampelkoalition“ bezeichnet? Die Zusammenarbeit ...
+- 103. :: Was wird in Deutschland als Ampelkoalition“ bezeichnet? Die Zusammenarbeit ...
   - □ :: der Bundestagsfraktionen von CDU und CSU
 
   - □ :: von SPD, FDP und Bündnis 90/Die Grünen in einer Regierung
@@ -1091,7 +1091,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
   - □ :: eine Last.
 
-- 115. :: Was bedeutet �aktives Wahlrecht“ in Deutschland?
+- 115. :: Was bedeutet aktives Wahlrecht“ in Deutschland?
   - □ :: Man kann gewählt werden.
 
   - □ :: Man muss wählen gehen.
@@ -1163,7 +1163,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
   - □ :: sicher, offen, freiwillig.
 
-- 123. :: Was ist in Deutschland die �5 %-Hürde“?
+- 123. :: Was ist in Deutschland die 5 %-Hürde“?
   - □ :: Abstimmungsregelung im Bundestag für kleine Parteien
 
   - □ :: Anwesenheitskontrolle im Bundestag für Abstimmungen
@@ -1481,7 +1481,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
   - □ :: ein Fürstentum.
 
-- 158. :: Das �Dritte Reich“ war eine ...
+- 158. :: Das Dritte Reich“ war eine ...
   - □ :: Diktatur.
 
   - □ :: Demokratie.
@@ -1553,7 +1553,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
   - □ :: Willy Brandt
 
-- 166. :: Bei welchen Demonstrationen in Deutschland riefen die Menschen �Wir sind das Volk“?
+- 166. :: Bei welchen Demonstrationen in Deutschland riefen die Menschen Wir sind das Volk“?
   - □ :: beim Arbeiteraufstand 1953 in der DDR
 
   - □ :: bei den Demonstrationen 1968 in der Bundesrepublik Deutschland
@@ -1562,7 +1562,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
   - □ :: bei den Montagsdemonstrationen 1989 in der DDR
 
-- 167. :: Welche Länder wurden nach dem Zweiten Weltkrieg in Deutschland als �Alliierte Besatzungsmächte“ bezeichnet?
+- 167. :: Welche Länder wurden nach dem Zweiten Weltkrieg in Deutschland als Alliierte Besatzungsmächte“ bezeichnet?
   - □ :: Sowjetunion, Großbritannien, Polen, Schweden
 
   - □ :: Frankreich, Sowjetunion, Italien, Japan
@@ -1571,7 +1571,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
   - □ :: USA, Sowjetunion, Großbritannien, Frankreich
 
-- 168. :: Welches Land war keine �Alliierte Besatzungsmacht“ in Deutschland?
+- 168. :: Welches Land war keine Alliierte Besatzungsmacht“ in Deutschland?
   - □ :: USA
 
   - □ :: Sowjetunion
@@ -1712,7 +1712,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
   - □ :: KPD und CSU
 
-- 183. :: Wann war in der Bundesrepublik Deutschland das �Wirtschaftswunder“?
+- 183. :: Wann war in der Bundesrepublik Deutschland das Wirtschaftswunder“?
   - □ :: 40er Jahre
 
   - □ :: 50er Jahre
@@ -1721,7 +1721,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
   - □ :: 80er Jahre
 
-- 184. :: Was nannten die Menschen in Deutschland sehr lange �Die Stunde Null“?
+- 184. :: Was nannten die Menschen in Deutschland sehr lange Die Stunde Null“?
   - □ :: Damit wird die Zeit nach der Wende im Jahr 1989 bezeichnet.
 
   - □ :: Damit wurde der Beginn des Zweiten Weltkrieges bezeichnet.
@@ -1730,7 +1730,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
   - □ :: Damit ist die Stunde gemeint, in der die Uhr von der Sommerzeit auf die Winterzeit umgestellt wird.
 
-- 185. :: Wofür stand der Ausdruck �Eiserner Vorhang“? Für die Abschottung ...
+- 185. :: Wofür stand der Ausdruck Eiserner Vorhang“? Für die Abschottung ...
   - □ :: des Warschauer Pakts gegen den Westen
 
   - □ :: Norddeutschlands gegen Süddeutschland
@@ -1823,7 +1823,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
   - □ :: Saarland
 
-- 196. :: Warum nennt man die Zeit im Herbst 1989 in der DDR �Die Wende“? In dieser Zeit veränderte sich die DDR politisch ...
+- 196. :: Warum nennt man die Zeit im Herbst 1989 in der DDR Die Wende“? In dieser Zeit veränderte sich die DDR politisch ...
   - □ :: von einer Diktatur zur Demokratie.
 
   - □ :: von einer liberalen Marktwirtschaft zum Sozialismus.
@@ -1850,7 +1850,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
   - □ :: Baden-Württemberg
 
-- 199. :: Mit der Abkürzung �Stasi“ meinte man in der DDR ...
+- 199. :: Mit der Abkürzung Stasi“ meinte man in der DDR ...
   - □ :: das Parlament.
 
   - □ :: das Ministerium für Staatssicherheit.
@@ -1877,7 +1877,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
   - □ :: Sachsen, Thüringen, Hessen, Niedersachsen, Brandenburg
 
-- 202. :: Zu wem gehörte die DDR im �Kalten Krieg“?
+- 202. :: Zu wem gehörte die DDR im Kalten Krieg“?
   - □ :: zu den Westmächten
 
   - □ :: zum Warschauer Pakt
@@ -1913,7 +1913,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
   - □ :: zur Europäischen Verteidigungsgemeinschaft.
 
-- 206. :: Was bedeutete im Jahr 1989 in Deutschland das Wort �Montagsdemonstration“?
+- 206. :: Was bedeutete im Jahr 1989 in Deutschland das Wort Montagsdemonstration“?
   - □ :: In der Bundesrepublik waren Demonstrationen nur am Montag erlaubt.
 
   - □ :: Montags waren Demonstrationen gegen das DDR-Regime.
@@ -1931,8 +1931,8 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
   - □ :: im Europabündnis
 
-- 208. :: Was war die �Stasi“?
-  - □ :: der Geheimdienst im �Dritten Reich“
+- 208. :: Was war die Stasi“?
+  - □ :: der Geheimdienst im Dritten Reich“
 
   - □ :: eine berühmte deutsche Gedenkstätte
 
@@ -1961,7 +1961,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
   - □ :: der erste Besuch Fidel Castros
 
-- 211. :: Welcher Politiker steht für die �Ostverträge“?
+- 211. :: Welcher Politiker steht für die Ostverträge“?
   - □ :: Helmut Kohl
 
   - □ :: Willy Brandt
@@ -1997,7 +1997,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
   - □ :: schwarz-gelb-rot
 
-- 215. :: Wer wird als �Kanzler der Deutschen Einheit“ bezeichnet?
+- 215. :: Wer wird als Kanzler der Deutschen Einheit“ bezeichnet?
   - □ :: Gerhard Schröder
 
   - □ :: Helmut Kohl
@@ -2135,7 +2135,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
   - □ :: 8 Jahre.
 
-- 231. :: Was bedeutet der Begriff �europäische Integration“?
+- 231. :: Was bedeutet der Begriff europäische Integration“?
   - □ :: Damit sind amerikanische Einwanderer in Europa gemeint.
 
   - □ :: Der Begriff meint den Einwanderungsstopp nach Europa.
@@ -2192,7 +2192,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
   - □ :: 27
 
-- 237. :: 2007 wurde das 50-jährige Jubiläum der �Römischen Verträge“ gefeiert. Was war der Inhalt der Verträge?
+- 237. :: 2007 wurde das 50-jährige Jubiläum der Römischen Verträge“ gefeiert. Was war der Inhalt der Verträge?
   - □ :: Beitritt Deutschlands zur NATO
 
   - □ :: Gründung der Europäischen Wirtschaftsgemeinschaft (EWG)
@@ -2211,13 +2211,13 @@ die nur für das jeweilige Bundesland zu beantworten sind.
   - □ :: Bonn, Zürich und Mailand
 
 - 239. :: Durch welche Verträge schloss sich die Bundesrepublik Deutschland mit anderen Staaten zur Europäischen Wirtschaftsgemeinschaft zusammen?
-  - □ :: durch die �Hamburger Verträge“
+  - □ :: durch die Hamburger Verträge“
 
-  - □ :: durch die �Römischen Verträge“
+  - □ :: durch die Römischen Verträge“
 
-  - □ :: durch die �Pariser Verträge“
+  - □ :: durch die Pariser Verträge“
 
-  - □ :: durch die �Londoner Verträge“
+  - □ :: durch die Londoner Verträge“
 
 - 240. :: Seit wann bezahlt man in Deutschland mit dem Euro in bar?
   - □ :: 1995
@@ -2345,7 +2345,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
   - □ :: beim Gewerbeamt
 
-- 254. :: In Deutschland dürfen Ehepaare sich scheiden lassen. Meistens müssen sie dazu das �Trennungsjahr“ einhalten. Was bedeutet das?
+- 254. :: In Deutschland dürfen Ehepaare sich scheiden lassen. Meistens müssen sie dazu das Trennungsjahr“ einhalten. Was bedeutet das?
   - □ :: Der Scheidungsprozess dauert ein Jahr.
 
   - □ :: Mann und Frau sind ein Jahr verheiratet, dann ist die Scheidung möglich.
@@ -2570,7 +2570,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
   - □ :: kein Englisch spricht.
 
-- 279. :: In den meisten Mietshäusern in Deutschland gibt es eine �Hausordnung“. Was steht in einer solchen �Hausordnung“? Sie nennt ...
+- 279. :: In den meisten Mietshäusern in Deutschland gibt es eine Hausordnung“. Was steht in einer solchen Hausordnung“? Sie nennt ...
   - □ :: Regeln für die Benutzung öffentlicher Verkehrsmittel.
 
   - □ :: alle Mieter und Mieterinnen im Haus.
@@ -4316,9 +4316,9 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 Anlage 2 - Rahmencurriculum für den Einbürgerungskurs
 
 Inhalt
-�
 
-�
+
+
 
 Seite
 
@@ -4328,11 +4328,11 @@ I.
 
 144
 
-�
 
-�
 
-�
+
+
+
 
 II.
 
@@ -4340,47 +4340,47 @@ Maßgaben für das Curriculum
 
 144
 
-�
+
 
 1) Verknüpfung mit dem Integrationskurs / Orientierungskurs
 
 144
 
-�
+
 
 2) Aufbau des Curriculums
 
 145
 
-�
+
 
 3) Voraussetzungen auf Seiten der Teilnehmer
 
 147
 
-�
+
 
 4) Methodisch-didaktische Prinzipien im Einbürgerungskurs
 
 147
 
-�
+
 
 5) Kursumfang
 
 149
 
-�
+
 
 6) Gestaltung der Unterrichtszeiten
 
 149
 
-�
 
-�
 
-�
+
+
+
 
 III.
 
@@ -4388,7 +4388,7 @@ Themenbereiche und Lernziele (Module)
 
 151
 
-�
+
 
 Modul I:
 
@@ -4396,7 +4396,7 @@ Einführung
 
 151
 
-�
+
 
 Modul II:
 
@@ -4404,39 +4404,39 @@ Leben in der Demokratie
 
 152
 
-�
 
-�
+
+
 
 Teil 1: Demokratie und Teilhabe an der politischen Gestaltung
 
 152
 
-�
 
-�
+
+
 
 Teil 2: Rechte und Pflichten
 
 157
 
-�
 
-�
+
+
 
 Teil 3: Konfliktlösung in der demokratischen Gesellschaft
 
 161
 
-�
 
-�
+
+
 
 Teil 4: Besonderheiten des Bundeslandes
 
 164
 
-�
+
 
 Modul III:
 
@@ -4444,7 +4444,7 @@ Geschichte und Verantwortung
 
 166
 
-�
+
 
 Modul IV:
 
@@ -4452,7 +4452,7 @@ Mensch und Gesellschaft
 
 171
 
-�
+
 
 Modul V:
 
@@ -4464,13 +4464,13 @@ Kursabschluss
 \\
 I. Übergreifende Zielvorstellungen\\
 \\
-Nach dem von der Konferenz der Innenminister und -senatoren der Länder am 31. Mai/1. Juni 2007 in Berlin gebilligten Konzept �Bundeseinheitliche Standards für das Einbürgerungsverfahren“ ist die Vermittlung staatsbürgerlichen Grundwissens sowie der Grundsätze und Werte unserer Verfassung das Ziel des Einbürgerungskurses. Die dort vermittelten Kenntnisse dienen dem Erwerb des für das Bekenntnis zum Grundgesetz notwendigen Verständnisses von Prinzipien und Aufbau des deutschen Staatswesens sowie der damit in Zusammenhang stehenden gesellschaftspolitischen Prozesse. Der Einbürgerungskurs soll die Einbürgerungsbewerber in die Lage versetzen, ihre staatsbürgerlichen Rechte und Pflichten erkennen und aktiv wahrnehmen zu können. Das Rahmencurriculum trägt dieser Zielsetzung in Aufbau und Ausgestaltung Rechnung.\\
+Nach dem von der Konferenz der Innenminister und -senatoren der Länder am 31. Mai/1. Juni 2007 in Berlin gebilligten Konzept Bundeseinheitliche Standards für das Einbürgerungsverfahren“ ist die Vermittlung staatsbürgerlichen Grundwissens sowie der Grundsätze und Werte unserer Verfassung das Ziel des Einbürgerungskurses. Die dort vermittelten Kenntnisse dienen dem Erwerb des für das Bekenntnis zum Grundgesetz notwendigen Verständnisses von Prinzipien und Aufbau des deutschen Staatswesens sowie der damit in Zusammenhang stehenden gesellschaftspolitischen Prozesse. Der Einbürgerungskurs soll die Einbürgerungsbewerber in die Lage versetzen, ihre staatsbürgerlichen Rechte und Pflichten erkennen und aktiv wahrnehmen zu können. Das Rahmencurriculum trägt dieser Zielsetzung in Aufbau und Ausgestaltung Rechnung.\\
 \\
 II. Maßgaben für das Curriculum\\
 \\
 1) Verknüpfung mit dem Integrationskurs/Orientierungskurs\\
 \\
-Der Einbürgerungskurs baut auf den Themen des Orientierungskurses nach § 43 Abs. 3 Satz 1 des Aufenthaltsgesetzes auf. Er umfasst somit die Themenbereiche �Leben in der Demokratie“ (im Orientierungskurs: �Politik in der Demokratie“), �Geschichte und Verantwortung“ und �Mensch und Gesellschaft“. Während der Orientierungskurs vor allem grundlegende Kenntnisse vermittelt, behandelt der Einbürgerungskurs die Themenbereiche erweiternd, vertiefend und mit Blick auf zukünftige staatsbürgerliche Handlungsmöglichkeiten. Der Schwerpunkt liegt dabei im Bereich �Leben in der Demokratie“. Behandelt werden sollen insbesondere die Themen:\\
+Der Einbürgerungskurs baut auf den Themen des Orientierungskurses nach § 43 Abs. 3 Satz 1 des Aufenthaltsgesetzes auf. Er umfasst somit die Themenbereiche Leben in der Demokratie“ (im Orientierungskurs: Politik in der Demokratie“), Geschichte und Verantwortung“ und Mensch und Gesellschaft“. Während der Orientierungskurs vor allem grundlegende Kenntnisse vermittelt, behandelt der Einbürgerungskurs die Themenbereiche erweiternd, vertiefend und mit Blick auf zukünftige staatsbürgerliche Handlungsmöglichkeiten. Der Schwerpunkt liegt dabei im Bereich Leben in der Demokratie“. Behandelt werden sollen insbesondere die Themen:\\
 \\
 
 - ▪ :: Demokratie,
@@ -4498,25 +4498,25 @@ Modul II:
 
 Leben in der Demokratie
 
-�
+
 
 Teil 1:
 
 Demokratie und Teilhabe an der politischen Gestaltung
 
-�
+
 
 Teil 2:
 
 Rechte und Pflichten
 
-�
+
 
 Teil 3:
 
 Konfliktlösung in der demokratischen Gesellschaft
 
-�
+
 
 Teil 4:
 
@@ -4538,11 +4538,11 @@ Kursabschluss
 \\
 Die Lerninhalte der Module II bis IV sind um Schlüsselthemen angeordnet. Diese umfassen die Kerninhalte des Einbürgerungskurses, mit denen die notwendigen Kenntnisse und das zugehörige Verständniswissen erworben werden sollen. Die Schlüsselthemen stehen mit den weiteren Lerninhalten in enger inhaltlicher Verbindung. Von ihnen ausgehend sollen die Einzelthemen des jeweiligen Moduls im Unterricht behandelt werden.\\
 \\
-Die Auswahl der im Curriculum vorgegebenen Themen für den Einbürgerungskurs orientiert sich an der Fragestellung, welche konkreten Lerninhalte unter die Vorgaben �staatsbürgerliches Grundwissen“ sowie �Grundsätze und Werte unserer Verfassung“ fallen. Lerninhalte mit speziellem Bundeslandbezug werden berücksichtigt, allerdings nur solche, die in Zusammenhang mit demokratischen Teilhabemöglichkeiten stehen. Die länderspezifischen Lerninhalte können in Kooperation mit den Landeszentralen für politische Bildung entwickelt werden.\\
+Die Auswahl der im Curriculum vorgegebenen Themen für den Einbürgerungskurs orientiert sich an der Fragestellung, welche konkreten Lerninhalte unter die Vorgaben staatsbürgerliches Grundwissen“ sowie Grundsätze und Werte unserer Verfassung“ fallen. Lerninhalte mit speziellem Bundeslandbezug werden berücksichtigt, allerdings nur solche, die in Zusammenhang mit demokratischen Teilhabemöglichkeiten stehen. Die länderspezifischen Lerninhalte können in Kooperation mit den Landeszentralen für politische Bildung entwickelt werden.\\
 \\
 a. Leben in der Demokratie\\
 \\
-Der Bereich �Leben in der Demokratie“ bildet den Kernbereich des Einbürgerungskurses. Die Lerninhalte sind auf die späteren staatsbürgerlichen Partizipationsmöglichkeiten der Einbürgerungsbewerber ausgerichtet. Das heißt, dass vor allem Art und Bedeutung der verschiedenen Beteiligungsformen am politisch-gesellschaftlichen Leben in Deutschland (Wahlen, Partei- und Vereinsmitgliedschaften etc.) aufgezeigt werden sollen. Darauf aufbauend ist der Rahmen darzustellen, innerhalb dessen sich die Partizipation des Neubürgers am Gemeinwesen vollzieht, nämlich die grundlegenden Prinzipien, Werte und Normen (Grundrechte, Rechte und Pflichten, Konfliktlösung), die zentralen Funktionsmechanismen der parlamentarischen Demokratie sowie ihr Aufbau und ihre Strukturen.\\
+Der Bereich Leben in der Demokratie“ bildet den Kernbereich des Einbürgerungskurses. Die Lerninhalte sind auf die späteren staatsbürgerlichen Partizipationsmöglichkeiten der Einbürgerungsbewerber ausgerichtet. Das heißt, dass vor allem Art und Bedeutung der verschiedenen Beteiligungsformen am politisch-gesellschaftlichen Leben in Deutschland (Wahlen, Partei- und Vereinsmitgliedschaften etc.) aufgezeigt werden sollen. Darauf aufbauend ist der Rahmen darzustellen, innerhalb dessen sich die Partizipation des Neubürgers am Gemeinwesen vollzieht, nämlich die grundlegenden Prinzipien, Werte und Normen (Grundrechte, Rechte und Pflichten, Konfliktlösung), die zentralen Funktionsmechanismen der parlamentarischen Demokratie sowie ihr Aufbau und ihre Strukturen.\\
 \\
 b. Geschichte und Verantwortung\\
 \\
@@ -4553,7 +4553,7 @@ Der Entwicklungsprozess der Bundesrepublik Deutschland soll im Zusammenhang mit 
 c. Mensch und Gesellschaft\\
 \\
 In diesem Themenfeld wird auf grundlegende Aspekte der gesellschaftlichen Kultur bzw. des gesellschaftlichen Zusammenlebens in Deutschland eingegangen. Diese thematische Ausrichtung trägt auch der Prägung Deutschlands durch Migrationsprozesse Rechnung, weshalb die an dieser Stelle im Konzept benannten Lerninhalte dem Kernbestand staatsbürgerlichen Grundwissens zugerechnet werden.\\
-Wichtige Inhalte aus dem Modul �Leben in der Demokratie“, z. B. einzelne Grundrechte oder das Thema �Umgang mit Konflikten“, sind aufzugreifen und in Bezug zum gesellschaftlichen Miteinander im interkulturellen Kontext zu setzen. Neben Themen des religiösen und kulturellen Zusammenlebens im föderalen Deutschland soll auch der kulturelle Wandel infolge von Zuwanderung verdeutlicht werden.\\
+Wichtige Inhalte aus dem Modul Leben in der Demokratie“, z. B. einzelne Grundrechte oder das Thema Umgang mit Konflikten“, sind aufzugreifen und in Bezug zum gesellschaftlichen Miteinander im interkulturellen Kontext zu setzen. Neben Themen des religiösen und kulturellen Zusammenlebens im föderalen Deutschland soll auch der kulturelle Wandel infolge von Zuwanderung verdeutlicht werden.\\
 Um den Blick stärker auf die gesellschaftliche Dimension von Kultur zu richten, ist auch das Thema Bildung in den Lerninhaltekatalog aufgenommen worden. Bildung soll als zentrale Voraussetzung zur gleichberechtigten Teilhabe am gesellschaftlich-politischen Leben in Deutschland vermittelt werden.\\
 \\
 3) Voraussetzungen auf Seiten der Teilnehmer\\
@@ -4576,7 +4576,7 @@ Die methodisch-didaktische Ausgestaltung des Einbürgerungskurses orientiert sic
 \\
 
 - ▪ :: Teilnehmerorientierung\\
-  Die Ausrichtung der Themen und ihre Ausgestaltung orientieren sich an der Lebenswelt der Teilnehmer (�Anschlusslernen“). Die Erfahrungen und Vorkenntnisse der Teilnehmer werden stets berücksichtigt.
+  Die Ausrichtung der Themen und ihre Ausgestaltung orientieren sich an der Lebenswelt der Teilnehmer (Anschlusslernen“). Die Erfahrungen und Vorkenntnisse der Teilnehmer werden stets berücksichtigt.
 - ▪ :: Handlungs- und Subjektorientierung\\
   Die Teilnehmer sollen angeregt werden, sich aktiv in das Unterrichtsgeschehen einzubringen und an dessen Gestaltung zu partizipieren. Eine solche Aktivierung kann mittels Rollenspielen, Projekten etc. erreicht werden. Das Lernen wird als ganzheitlicher Prozess betrachtet, bei dem der Weg der Teilnehmer zur eigenständigen Erkenntnis im Mittelpunkt des Interesses steht.
 - ▪ :: Multiperspektivische Themenaufbereitung\\
@@ -4612,25 +4612,25 @@ Modul II:
 
 Leben in der Demokratie (insgesamt 33 UE)
 
-�
+
 
 Teil 1:
 
 Demokratie und Teilhabe an der politischen Gestaltung (11 UE)
 
-�
+
 
 Teil 2:
 
 Rechte und Pflichten (9 UE)
 
-�
+
 
 Teil 3:
 
 Konfliktlösung in der demokratischen Gesellschaft (7 UE)
 
-�
+
 
 Teil 4:
 
@@ -4668,7 +4668,7 @@ Die Kursteilnehmer und Kursleiter sollen sich zunächst kennenlernen und in eine
 \\
 Übergeordnete Lernziele/Schlüsselthemen\\
 \\
-Nach Abschluss des Moduls �Einführung“ sind folgende übergeordnete Lernziele erreicht:\\
+Nach Abschluss des Moduls Einführung“ sind folgende übergeordnete Lernziele erreicht:\\
 \\
 Die Kursteilnehmer (KT) ...\\
 \\
@@ -4763,7 +4763,7 @@ Die Kursteilnehmer (KT) ...\\
 \\
 
 - ▪ :: kennen den Aufbau des Grundgesetzes (GG) und wissen, dass die Grundrechte in den Artikeln 1 bis 19 verankert sind.
-- ▪ :: sind mit den Begriffen Freiheits- und Gleichheitsrechte, Menschenrechte und Bürgerrechte/�Deutschenrechte“ vertraut.
+- ▪ :: sind mit den Begriffen Freiheits- und Gleichheitsrechte, Menschenrechte und Bürgerrechte/Deutschenrechte“ vertraut.
 - ▪ :: sind besonders vertraut mit den Artikeln 1 bis 6 GG.
 - ▪ :: verstehen die Bedeutung des Rechtsstaatsprinzips, den grundlegenden Wert gegenseitiger Toleranz und des Schutzes der Menschenwürde (Art. 1 GG) für das friedliche Zusammenleben in der Bundesrepublik Deutschland.
 - ▪ :: erkennen in den staatsbürgerlichen Pflichten notwendige Forderungen an den Einzelnen für den Erhalt des Gemeinwohls.
@@ -4800,9 +4800,9 @@ b. Themen -- Feinlernziele -- Lerninhalte\\
 |                                                          |                                                                                                                                                                                    | - ▪ :: Bedeutung der Meinungs-, Informations-, Presse-, Kunst- und Forschungsfreiheit (Art. 5 Abs. 1 und 3 GG) für die freiheitliche demokratische Grundordnung |                                                                                                                                   |    |
 |                                                          |                                                                                                                                                                                    | - ▪ :: Ehe, Familie, nichteheliche Kinder (Art. 6 GG)                                                                                                           |                                                                                                                                   |    |
 |                                                          |                                                                                                                                                                                    | - ▪ :: Toleranzprinzip                                                                                                                                          |                                                                                                                                   |    |
-|                                                          |                                                                                                                                                                                    | - ▪ :: Grundrechte im Spannungsfeld zueinander (z. B. Rauchverbot, Lärmbelästigung, Kopftuchdebatte, Definition von Kunst, �Schmähkritik“)                      |                                                                                                                                   |    |
-| Bürgerrechte (�Deutschenrechte“) und weitere Grundrechte | KT ...\\                                                                                                                                                                           | - ▪ :: Staatsbürgerliche Rechte und Pflichten, Zugang zu öffentlichen Ämtern (Art. 33 GG)                                                                       | - ▪ :: II. 1 Wahlen und Parteien                                                                                                  | 2  |
-|                                                          | - ▪ :: wissen, dass es Rechte gibt, die an die deutsche Staatsangehörigkeit gebunden sind, die z. T. über Art. 2 GG oder andere Gesetze auch für Ausländer gelten.                 | - ▪ :: Begriff �Deutscher“ (Art. 116 GG)                                                                                                                        | - ▪ :: III. Wurzeln der Demokratie in Deutschland vor 1945; Die Zeit des Nationalsozialismus und ihre Folgen                      |    |
+|                                                          |                                                                                                                                                                                    | - ▪ :: Grundrechte im Spannungsfeld zueinander (z. B. Rauchverbot, Lärmbelästigung, Kopftuchdebatte, Definition von Kunst, Schmähkritik“)                      |                                                                                                                                   |    |
+| Bürgerrechte (Deutschenrechte“) und weitere Grundrechte | KT ...\\                                                                                                                                                                           | - ▪ :: Staatsbürgerliche Rechte und Pflichten, Zugang zu öffentlichen Ämtern (Art. 33 GG)                                                                       | - ▪ :: II. 1 Wahlen und Parteien                                                                                                  | 2  |
+|                                                          | - ▪ :: wissen, dass es Rechte gibt, die an die deutsche Staatsangehörigkeit gebunden sind, die z. T. über Art. 2 GG oder andere Gesetze auch für Ausländer gelten.                 | - ▪ :: Begriff Deutscher“ (Art. 116 GG)                                                                                                                        | - ▪ :: III. Wurzeln der Demokratie in Deutschland vor 1945; Die Zeit des Nationalsozialismus und ihre Folgen                      |    |
 |                                                          |                                                                                                                                                                                    | - ▪ :: Wahlrecht (Art. 38 Abs. 2 GG)                                                                                                                            |                                                                                                                                   |    |
 |                                                          |                                                                                                                                                                                    | - ▪ :: Versammlungsfreiheit (Art. 8 GG)                                                                                                                         |                                                                                                                                   |    |
 |                                                          |                                                                                                                                                                                    | - ▪ :: Vereinigungsfreiheit (Art. 9 GG)                                                                                                                         |                                                                                                                                   |    |
@@ -4810,7 +4810,7 @@ b. Themen -- Feinlernziele -- Lerninhalte\\
 |                                                          |                                                                                                                                                                                    | - ▪ :: Freie Berufswahl (Art. 12 Abs. 1 GG)                                                                                                                     |                                                                                                                                   |    |
 | Staatsbürgerliche Pflichten und Sozialstaat              | KT ...\\                                                                                                                                                                           | - ▪ :: Gleiche Rechte und Pflichten als Staatsangehöriger (Art. 33 Abs. 1 GG)                                                                                   |                                                                                                                                   | 2  |
 |                                                          | - ▪ :: wissen, dass an das Leben in einer Gemeinschaft zur Wahrung des Gemeinwohls Pflichten geknüpft sind.                                                                        | - ▪ :: Elternpflicht (Art. 6 Abs. 2 GG)                                                                                                                         |                                                                                                                                   |    |
-|                                                          | - ▪ :: verstehen die Bedeutung von Elternpflicht, Schulpflicht, Wehrpflicht, Zivildienst und den Grundsatz �Eigentum verpflichtet“.                                                | - ▪ :: Schulpflicht (Art. 7 GG)                                                                                                                                 |                                                                                                                                   |    |
+|                                                          | - ▪ :: verstehen die Bedeutung von Elternpflicht, Schulpflicht, Wehrpflicht, Zivildienst und den Grundsatz Eigentum verpflichtet“.                                                | - ▪ :: Schulpflicht (Art. 7 GG)                                                                                                                                 |                                                                                                                                   |    |
 |                                                          | - ▪ :: kennen die Grundzüge des Sozialstaatsprinzips.                                                                                                                              | - ▪ :: Wehrpflicht, Zivildienst (Art. 12a GG)                                                                                                                   |                                                                                                                                   |    |
 |                                                          | - ▪ :: wissen um die Pflichten der Bezieher von Sozialleistungen.                                                                                                                  | - ▪ :: Eigentum verpflichtet (Art. 14 Abs. 2 und 3 GG, Art. 15 GG)                                                                                              |                                                                                                                                   |    |
 |                                                          |                                                                                                                                                                                    | - ▪ :: Steuerpflicht                                                                                                                                            |                                                                                                                                   |    |
@@ -4825,7 +4825,7 @@ b. Themen -- Feinlernziele -- Lerninhalte\\
 \\
 c. Schlüsselbegriffe\\
 \\
-Rechtsstaatsprinzip, Rechtsgleichheit, Menschenwürde, Toleranz, Grundrechtsbindung, freie Persönlichkeitsentfaltung, allgemeine Handlungsfreiheit, Gleichberechtigung, Diskriminierungsverbot, Meinungsfreiheit, Pressefreiheit/Informationsfreiheit, Freiheit der Wissenschaft, Schutz von Ehe und Familie, Bürgerrechte/�Deutschenrechte“, Sozialstaatsprinzip, Fürsorgepflicht des Staates, soziale Gerechtigkeit, Gemeinwohl, Ehrenamt, Wahlhelfer, Schöffe(n), Katastrophenfall\\
+Rechtsstaatsprinzip, Rechtsgleichheit, Menschenwürde, Toleranz, Grundrechtsbindung, freie Persönlichkeitsentfaltung, allgemeine Handlungsfreiheit, Gleichberechtigung, Diskriminierungsverbot, Meinungsfreiheit, Pressefreiheit/Informationsfreiheit, Freiheit der Wissenschaft, Schutz von Ehe und Familie, Bürgerrechte/Deutschenrechte“, Sozialstaatsprinzip, Fürsorgepflicht des Staates, soziale Gerechtigkeit, Gemeinwohl, Ehrenamt, Wahlhelfer, Schöffe(n), Katastrophenfall\\
 \\
 Modul II: Leben in der Demokratie\\
 \\
@@ -4918,7 +4918,7 @@ Zur Erlangung eines tieferen Verständnisses für die deutsche Gegenwart und fü
 \\
 a. Übergeordnete Lernziele/Schlüsselthemen\\
 \\
-Nach Abschluss des Moduls �Geschichte und Verantwortung“ sind folgende übergeordnete Lernziele erreicht:\\
+Nach Abschluss des Moduls Geschichte und Verantwortung“ sind folgende übergeordnete Lernziele erreicht:\\
 \\
 Die Kursteilnehmer (KT) ...\\
 \\
@@ -4956,13 +4956,13 @@ b. Themen -- Feinlernziele -- Lerninhalte\\
 |                                                  | - ▪ :: erkennen, dass die Normen und Werte der NS-Zeit im Widerspruch zum GG stehen.                                                                          |                                                                                                                                                                               |                                                                             |    |
 |                                                  | - ▪ :: erkennen die große Verantwortung für einen demokratischen Neuanfang, der eine Wiederholung der Geschichte unmöglich machen soll.                       |                                                                                                                                                                               |                                                                             |    |
 | Gründung der Bundesrepublik Deutschland          | KT ...\\                                                                                                                                                      | - ▪ :: Kapitulation                                                                                                                                                           | - ▪ :: II. 1 Demokratie und Staatsaufbau; Föderalismus                      | 1  |
-|                                                  | - ▪ :: wissen, dass mit der Gründung der Bundesrepublik die Rechtsstaatlichkeit wiederhergestellt wurde, die durch die NS-Diktatur au�Stunde Null“                                                                                                                                                          | - ▪ :: II. 2 Rechtsstaatsprinzip; Grundrechte und Grundgesetz               |    |
+|                                                  | - ▪ :: wissen, dass mit der Gründung der Bundesrepublik die Rechtsstaatlichkeit wiederhergestellt wurde, die durch die NS-Diktatur auStunde Null“                                                                                                                                                          | - ▪ :: II. 2 Rechtsstaatsprinzip; Grundrechte und Grundgesetz               |    |
 |                                                  | - ▪ :: verstehen die bis heute damit verbundene Verantwortung.                                                                                                | - ▪ :: Demokratischer Neubeginn: Wiederherstellung der Rechtsstaatlichkeit, Grundgesetz, freie Wahlen, freie Presse                                                           | - ▪ :: III. Wurzeln der Demokratie in Deutschland vor 1945                  |    |
 | Wichtige Stationen der Nachkriegsgeschichte      | KT ...\\                                                                                                                                                      | - ▪ :: Aufbau der zerstörten Infrastruktur                                                                                                                                    | - ▪ :: II. 1 Föderalismus                                                   | 4  |
 |                                                  | - ▪ :: kennen die Grundzüge der historischen, politischen und wirtschaftlichen Entwicklung nach dem Zweiten Weltkrieg.                                        | - ▪ :: Kalter Krieg                                                                                                                                                           |                                                                             |    |
 |                                                  | - ▪ :: wissen um die Teilung Deutschlands und die Spaltung Europas.                                                                                           | - ▪ :: Bundesrepublik Deutschland:                                                                                                                                            |                                                                             |    |
 |                                                  | - ▪ :: kennen die Grundzüge der Entwicklung, die zur Wiedervereinigung Deutschlands und zur Einigung Europas geführt haben.                                   |   - ο :: Hilfe der USA (Marshall-Plan)                                                                                                                                        |                                                                             |    |
-|                                                  |                                                                                                                                                               |   - ο :: Einführung der Sozialen Marktwirtschaft / Währungsreform / �Wirtschaftswunder“                                                                                       |                                                                             |    |
+|                                                  |                                                                                                                                                               |   - ο :: Einführung der Sozialen Marktwirtschaft / Währungsreform / Wirtschaftswunder“                                                                                       |                                                                             |    |
 |                                                  |                                                                                                                                                               |   - ο :: Westintegration (NATO)                                                                                                                                               |                                                                             |    |
 |                                                  |                                                                                                                                                               |   - ο :: Entspannungspolitik                                                                                                                                                  |                                                                             |    |
 |                                                  |                                                                                                                                                               | - ▪ :: Deutsche Demokratische Republik:                                                                                                                                       |                                                                             |    |
@@ -4991,15 +4991,15 @@ b. Themen -- Feinlernziele -- Lerninhalte\\
 
 c. Schlüsselbegriffe\\
 \\
-Gründung der Bundesrepublik Deutschland, Wiederaufbau, Wirtschaftswunder, Teilung/Wiedervereinigung Deutschlands, europäische Einigung, demokratischer Neubeginn, Nachkriegszeit, Staatsformen, Nationalsozialismus/NS-Diktatur, Holocaust, �Stunde Null“, Rechtsstaatlichkeit, Währungsreform, Eiserner Vorhang, geteiltes Deutschland, Besatzung, Europäische Union, gemeinsamer Markt, Eurozone, EU-Erweiterung, Migrationsgeschichte, Arbeitsmigranten, (Spät-) Aussiedler, Flüchtlinge, Vertriebene, Asylbewerber/Bürgerkriegsflüchtlinge, jüdische Zuwanderer, Parlament in der Paulskirche, deutsches Kaiserreich, Weimarer Republik, Weltwirtschaftskrise\\
+Gründung der Bundesrepublik Deutschland, Wiederaufbau, Wirtschaftswunder, Teilung/Wiedervereinigung Deutschlands, europäische Einigung, demokratischer Neubeginn, Nachkriegszeit, Staatsformen, Nationalsozialismus/NS-Diktatur, Holocaust, Stunde Null“, Rechtsstaatlichkeit, Währungsreform, Eiserner Vorhang, geteiltes Deutschland, Besatzung, Europäische Union, gemeinsamer Markt, Eurozone, EU-Erweiterung, Migrationsgeschichte, Arbeitsmigranten, (Spät-) Aussiedler, Flüchtlinge, Vertriebene, Asylbewerber/Bürgerkriegsflüchtlinge, jüdische Zuwanderer, Parlament in der Paulskirche, deutsches Kaiserreich, Weimarer Republik, Weltwirtschaftskrise\\
 \\
 Modul IV: Mensch und Gesellschaft -- Umfang: 11 UE\\
 \\
-Das Modul �Mensch und Gesellschaft“ zielt auf verschiedene Aspekte des gesellschaftlichen Zusammenlebens in Deutschland. Die Teilnehmer setzen sich mit Interkulturalität und kulturellem Wandel auseinander. Der Kulturbegriff ist im Sinne der Einbürgerungswilligen so aufzufassen, dass er Bereiche einschließt, die das Leben der Teilnehmer maßgeblich beeinflussen. Sie sollen veranlasst werden, bisherige Erfahrungen ihres Lebens in Deutschland einzuordnen und gezielt auf ein friedliches und gemeinschaftliches Miteinander hin zu reflektieren. Diese Auseinandersetzung kann zu einem Nachdenken über die eigene Verortung in diesem kulturellen Umfeld beitragen und insbesondere den Blick auf bereits wahrgenommene oder zukünftig wahrnehmbare Teilhabechancen lenken.\\
+Das Modul Mensch und Gesellschaft“ zielt auf verschiedene Aspekte des gesellschaftlichen Zusammenlebens in Deutschland. Die Teilnehmer setzen sich mit Interkulturalität und kulturellem Wandel auseinander. Der Kulturbegriff ist im Sinne der Einbürgerungswilligen so aufzufassen, dass er Bereiche einschließt, die das Leben der Teilnehmer maßgeblich beeinflussen. Sie sollen veranlasst werden, bisherige Erfahrungen ihres Lebens in Deutschland einzuordnen und gezielt auf ein friedliches und gemeinschaftliches Miteinander hin zu reflektieren. Diese Auseinandersetzung kann zu einem Nachdenken über die eigene Verortung in diesem kulturellen Umfeld beitragen und insbesondere den Blick auf bereits wahrgenommene oder zukünftig wahrnehmbare Teilhabechancen lenken.\\
 \\
 a. Übergeordnete Lernziele/Schlüsselthemen\\
 \\
-Nach Abschluss des Moduls �Mensch und Gesellschaft“ sind folgende übergeordnete Lernziele erreicht:\\
+Nach Abschluss des Moduls Mensch und Gesellschaft“ sind folgende übergeordnete Lernziele erreicht:\\
 \\
 Die Kursteilnehmer (KT) ...\\
 \\
@@ -5051,7 +5051,7 @@ Der Kursabschluss gibt Raum, auf noch offengebliebene Fragen einzugehen und die 
 \\
 Übergeordnete Lernziele/Schlüsselthemen\\
 \\
-Nach dem Modul �Kursabschluss“ sind folgende übergeordnete Lernziele erreicht:\\
+Nach dem Modul Kursabschluss“ sind folgende übergeordnete Lernziele erreicht:\\
 \\
 Die Kursteilnehmer (KT) ...\\
 

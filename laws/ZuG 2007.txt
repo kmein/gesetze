@@ -7,7 +7,7 @@ Ausfertigungsdatum: 26.08.2004
 InhaltsÃ¼bersicht
 
 Abschnitt 1
- 
+
 Allgemeine Vorschriften
 Â§ 1
 Zweck des Gesetzes
@@ -16,7 +16,7 @@ Anwendungsbereich
 Â§ 3
 Begriffsbestimmungen
 Abschnitt 2
- 
+
 Mengenplanung
 Â§ 4
 Nationale Emissionsziele
@@ -25,14 +25,14 @@ ErfÃ¼llungsfaktor
 Â§ 6
 Reserve
 Abschnitt 3
- 
+
 Zuteilungsregeln
- 
- 
+
+
 Unterabschnitt 1
- 
- 
- 
+
+
+
 Grundregeln fÃ¼r die Zuteilung
 Â§ 7
 Zuteilung fÃ¼r bestehende Anlagen auf Basis historischer Emissionen
@@ -44,12 +44,12 @@ Einstellung des Betriebes von Anlagen
 Zuteilung fÃ¼r Neuanlagen als Ersatzanlagen
 Â§ 11
 Zuteilung fÃ¼r zusÃ¤tzliche Neuanlagen
- 
- 
+
+
 Unterabschnitt 2
- 
- 
- 
+
+
+
 Besondere Zuteilungsregeln
 Â§ 12
 FrÃ¼hzeitige Emissionsminderungen
@@ -59,12 +59,12 @@ Prozessbedingte Emissionen
 Sonderzuteilung fÃ¼r Anlagen mit Kraft-WÃ¤rme-Kopplung
 Â§ 15
 Sonderzuteilung bei Einstellung des Betriebes von Kernkraftwerken
- 
- 
+
+
 Unterabschnitt 3
- 
- 
- 
+
+
+
 Allgemeine Zuteilungsvorschriften
 Â§ 16
 NÃ¤here Bestimmung der Berechnung der Zuteilung
@@ -73,14 +73,14 @@ NÃ¤here Bestimmung der Berechnung der Zuteilung
 Â§ 18
 Kostenlose Zuteilung
 Abschnitt 4
- 
+
 Ausgabe und ÃœberfÃ¼hrung von Berechtigungen
 Â§ 19
 Ausgabe
 Â§ 20
 Ausschluss der ÃœberfÃ¼hrung von Berechtigungen
 Abschnitt 5
- 
+
 Gemeinsame Vorschriften
 Â§ 21
 Ordnungswidrigkeiten
@@ -119,26 +119,26 @@ Dieses Gesetz gilt fÃ¼r diejenige Freisetzung von Treibhausgasen durch Anlagen, 
 (2) Das allgemeine Ziel fÃ¼r die Zuteilungsperiode 2005 bis 2007 wird in Millionen Tonnen Kohlendioxid je Jahr wie folgt auf die Sektoren verteilt, in denen Kohlendioxid-Emissionen entstehen:\\
 -
 Energie und Industrie
- 
+
 503
 -
 andere Sektoren
- 
+
 356
- 
+
 davon:
- 
- 
- 
+
+
+
 -
 Verkehr und Haushalte
 298
- 
- 
+
+
 -
 Gewerbe, Handel, Dienstleistungen
 58.
- 
+
 (3) Das allgemeine Ziel fÃ¼r die Zuteilungsperiode 2008 bis 2012 wird in Millionen Tonnen Kohlendioxid je Jahr wie folgt auf die Sektoren verteilt:\\
 | - | Energie und Industrie               | 495 |
 | - | andere Sektoren                     | 349 |

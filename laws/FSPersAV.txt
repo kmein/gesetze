@@ -74,27 +74,27 @@ Aufsichtsbehörde ist das Bundesaufsichtsamt für Flugsicherung.
 
 (1) Die Lizenz für Fluglotsen enthält eine oder mehrere der folgenden Erlaubnisse und Befugnisse:
 
-- 1. :: die Erlaubnis �Flugplatzkontrolle an Flugplätzen mit Sichtflugbetrieb“ (Aerodrome Control Visual, ADV), mit der der Lizenzinhaber seine Befähigung zur Durchführung von Flugverkehrskontrolldiensten für den Flugplatzverkehr an einem Flugplatz, für den keine Instrumentenanflug- oder -abflugverfahren veröffentlicht sind, nachweist;
-- 2. :: die Erlaubnis �Flugplatzkontrolle an Flugplätzen mit Instrumentenflugbetrieb“ (Aerodrome Control Instrument, ADI), mit der der Lizenzinhaber seine Befähigung zur Durchführung von Flugverkehrskontrolldiensten für den Flugplatzverkehr an einem Flugplatz, für den Instrumentenanflug- oder -abflugverfahren veröffentlicht sind, nachweist. Diese Erlaubnis ist mit mindestens einer der nachfolgend beschriebenen Befugnisse zu erteilen:
-  - a) :: Die Befugnis �Platzverkehrskontrolle“ (Tower Control, TWR) gibt an, dass der Lizenzinhaber befähigt ist, Kontrolldienst durchzuführen, wenn die Flugplatzkontrolle von einem einzigen Arbeitsplatz aus erbracht wird.
-  - b) :: Die Befugnis �Rollverkehrskontrolle“ (Ground Movement Control, GMC) gibt an, dass der Lizenzinhaber befähigt ist, Rollverkehrskontrolle durchzuführen.
-  - c) :: Die Befugnis �Nutzung von elektronischer Rollverkehrsdarstellung“ (Ground Movement Surveillance, GMS), die zusätzlich zur Befugnis �Rollverkehrskontrolle“ oder �Platzverkehrskontrolle“ erteilt wird, gibt an, dass der Lizenzinhaber befähigt ist, Rollverkehrskontrolle mit Hilfe der Flugplatz-Rollführungssysteme durchzuführen.
-  - d) :: Die Befugnis �Luftverkehrskontrolle“ (Air Control, AIR) gibt an, dass der Lizenzinhaber befähigt ist, Luftverkehrskontrolle durchzuführen.
-  - e) :: Die Befugnis �Nutzung von Radar zur Luftverkehrsbeobachtung“ (Aerodrome Radar Control, RAD), die zusätzlich zur Befugnis �Luftverkehrskontrolle“ oder �Platzverkehrskontrolle“ erteilt wird, gibt an, dass der Lizenzinhaber befähigt ist, Flugplatzkontrolle mit Hilfe von Überwachungsradar durchzuführen.
-  - f) :: Die Befugnis �Nutzung von Radar zur Luftverkehrskontrolle“ (RAD-S), die zusätzlich zur Befugnis �Luftverkehrskontrolle“ oder �Platzverkehrskontrolle“ und zur Befugnis �Nutzung von Radar zur Luftverkehrsbeobachtung“ erteilt wird, gibt an, dass der Lizenzinhaber befähigt ist, Flugplatzkontrolle mit Hilfe von Überwachungsradar zu Staffelungszwecken durchzuführen;
-- 3. :: die Erlaubnis �Anflugkontrolle ohne elektronische Luftverkehrsdarstellung“ (Approach Control Procedural, APP), mit der der Lizenzinhaber seine Befähigung zur Durchführung von Flugverkehrskontrolldiensten für anfliegende, abfliegende oder durchfliegende Luftfahrzeuge ohne Nutzung von elektronischer Luftverkehrsdarstellung nachweist;
-- 4. :: die Erlaubnis �Anflugkontrolle mit elektronischer Luftverkehrsdarstellung“ (Approach Control Surveillance, APS), mit der der Lizenzinhaber seine Befähigung zur Durchführung von Flugverkehrskontrolldiensten für ankommende, abfliegende oder durchfliegende Luftfahrzeuge mit Nutzung von elektronischer Luftverkehrsdarstellung nachweist. Diese Erlaubnis ist mit mindestens einer der nachfolgend beschriebenen Befugnisse zu erteilen:
-  - a) :: Die Befugnis �Radar“ (Radar, RAD) gibt an, dass der Lizenzinhaber befähigt ist, Anflugkontrolldienst unter Nutzung von Primär- und Sekundärradar durchzuführen.
-  - b) :: Die Befugnis �Präzisionsanflug mit Radar“ (Precision Approach Radar, PAR), die zusätzlich zur Befugnis �Radar“ erteilt wird, gibt an, dass der Lizenzinhaber befähigt ist, bodengeführte Präzisionsanflüge unter Nutzung von Präzisionsanflugradar für Luftfahrzeuge im Endanflug auf die Landebahn durchzuführen.
-  - c) :: Die Befugnis �Anflug mit Überwachungsradar“ (Surveillance Radar Approach, SRA), die zusätzlich zur Befugnis �Radar“ erteilt wird, gibt an, dass der Lizenzinhaber befähigt ist, bodengeführte Nichtpräzisionsanflüge unter Nutzung von Überwachungsradar für Luftfahrzeuge im Endanflug auf die Landebahn durchzuführen.
-  - d) :: Die Befugnis �Automatische bordabhängige Überwachung“ (Automatic Dependent Surveillance, ADS) gibt an, dass der Lizenzinhaber befähigt ist, Anflugkontrolldienst unter Nutzung von automatischer bordabhängiger Überwachung durchzuführen.
-  - e) :: Die Befugnis �Nahbereichskontrolle“ (Terminal Control, TCL), die zusätzlich zur Befugnis �Radar“ oder �Automatische bordabhängige Überwachung“ erteilt wird, gibt an, dass der Lizenzinhaber befähigt ist, Flugverkehrskontrolldienst unter Nutzung von elektronischer Luftverkehrsdarstellung für Luftfahrzeuge durchzuführen, die in einem bestimmten Nahverkehrsbereich oder benachbarten Zuständigkeitsbereichen betrieben werden;
-- 5. :: die Erlaubnis �Bezirkskontrolle ohne elektronische Luftverkehrsdarstellung“ (Area Control Procedural, ACP), mit der der Lizenzinhaber seine Befähigung zur Durchführung von Flugverkehrskontrolldiensten für Luftfahrzeuge ohne Nutzung von elektronischer Luftverkehrsdarstellung nachweist;
-- 6. :: die Erlaubnis �Bezirkskontrolle mit elektronischer Luftverkehrsdarstellung“ (Area Control Surveillance, ACS), die angibt, dass der Lizenzinhaber befähigt ist, Flugverkehrskontrolldienst für Luftfahrzeuge mit Nutzung von elektronischer Luftverkehrsdarstellung durchzuführen. Diese Erlaubnis ist mit mindestens einer der nachfolgend beschriebenen Befugnisse zu erteilen:
-  - a) :: Die Befugnis �Radar“ (Radar, RAD) gibt an, dass der Lizenzinhaber befähigt ist, Bezirkskontrolldienst unter Nutzung von Überwachungsradar durchzuführen.
-  - b) :: Die Befugnis �Automatische bordabhängige Überwachung“ (Automatic Dependent Surveillance, ADS) gibt an, dass der Lizenzinhaber befähigt ist, Bezirkskontrolldienst unter Nutzung von automatischer bordabhängiger Überwachung durchzuführen.
-  - c) :: Die Befugnis �Nahverkehrskontrolle“ (Terminal Control, TCL), die zusätzlich zur Befugnis �Radar“ oder �Automatische bordabhängige Überwachung“ erteilt wird, gibt an, dass der Lizenzinhaber befähigt ist, Flugverkehrskontrolldienst unter Nutzung von elektronischer Luftverkehrsdarstellung für Luftfahrzeuge durchzuführen, die in einem bestimmten Nahverkehrsbereich oder benachbarten Zuständigkeitsbereichen betrieben werden.
-  - d) :: Die Befugnis �Ozeankontrolle“ (Oceanic Control, OCN) gibt an, dass der Lizenzinhaber befähigt ist, Flugverkehrskontrolldienst für Luftfahrzeuge durchzuführen, die in einem Ozeankontrollbezirk durchgeführt werden.
+- 1. :: die Erlaubnis Flugplatzkontrolle an Flugplätzen mit Sichtflugbetrieb“ (Aerodrome Control Visual, ADV), mit der der Lizenzinhaber seine Befähigung zur Durchführung von Flugverkehrskontrolldiensten für den Flugplatzverkehr an einem Flugplatz, für den keine Instrumentenanflug- oder -abflugverfahren veröffentlicht sind, nachweist;
+- 2. :: die Erlaubnis Flugplatzkontrolle an Flugplätzen mit Instrumentenflugbetrieb“ (Aerodrome Control Instrument, ADI), mit der der Lizenzinhaber seine Befähigung zur Durchführung von Flugverkehrskontrolldiensten für den Flugplatzverkehr an einem Flugplatz, für den Instrumentenanflug- oder -abflugverfahren veröffentlicht sind, nachweist. Diese Erlaubnis ist mit mindestens einer der nachfolgend beschriebenen Befugnisse zu erteilen:
+  - a) :: Die Befugnis Platzverkehrskontrolle“ (Tower Control, TWR) gibt an, dass der Lizenzinhaber befähigt ist, Kontrolldienst durchzuführen, wenn die Flugplatzkontrolle von einem einzigen Arbeitsplatz aus erbracht wird.
+  - b) :: Die Befugnis Rollverkehrskontrolle“ (Ground Movement Control, GMC) gibt an, dass der Lizenzinhaber befähigt ist, Rollverkehrskontrolle durchzuführen.
+  - c) :: Die Befugnis Nutzung von elektronischer Rollverkehrsdarstellung“ (Ground Movement Surveillance, GMS), die zusätzlich zur Befugnis Rollverkehrskontrolle“ oder Platzverkehrskontrolle“ erteilt wird, gibt an, dass der Lizenzinhaber befähigt ist, Rollverkehrskontrolle mit Hilfe der Flugplatz-Rollführungssysteme durchzuführen.
+  - d) :: Die Befugnis Luftverkehrskontrolle“ (Air Control, AIR) gibt an, dass der Lizenzinhaber befähigt ist, Luftverkehrskontrolle durchzuführen.
+  - e) :: Die Befugnis Nutzung von Radar zur Luftverkehrsbeobachtung“ (Aerodrome Radar Control, RAD), die zusätzlich zur Befugnis Luftverkehrskontrolle“ oder Platzverkehrskontrolle“ erteilt wird, gibt an, dass der Lizenzinhaber befähigt ist, Flugplatzkontrolle mit Hilfe von Überwachungsradar durchzuführen.
+  - f) :: Die Befugnis Nutzung von Radar zur Luftverkehrskontrolle“ (RAD-S), die zusätzlich zur Befugnis Luftverkehrskontrolle“ oder Platzverkehrskontrolle“ und zur Befugnis Nutzung von Radar zur Luftverkehrsbeobachtung“ erteilt wird, gibt an, dass der Lizenzinhaber befähigt ist, Flugplatzkontrolle mit Hilfe von Überwachungsradar zu Staffelungszwecken durchzuführen;
+- 3. :: die Erlaubnis Anflugkontrolle ohne elektronische Luftverkehrsdarstellung“ (Approach Control Procedural, APP), mit der der Lizenzinhaber seine Befähigung zur Durchführung von Flugverkehrskontrolldiensten für anfliegende, abfliegende oder durchfliegende Luftfahrzeuge ohne Nutzung von elektronischer Luftverkehrsdarstellung nachweist;
+- 4. :: die Erlaubnis Anflugkontrolle mit elektronischer Luftverkehrsdarstellung“ (Approach Control Surveillance, APS), mit der der Lizenzinhaber seine Befähigung zur Durchführung von Flugverkehrskontrolldiensten für ankommende, abfliegende oder durchfliegende Luftfahrzeuge mit Nutzung von elektronischer Luftverkehrsdarstellung nachweist. Diese Erlaubnis ist mit mindestens einer der nachfolgend beschriebenen Befugnisse zu erteilen:
+  - a) :: Die Befugnis Radar“ (Radar, RAD) gibt an, dass der Lizenzinhaber befähigt ist, Anflugkontrolldienst unter Nutzung von Primär- und Sekundärradar durchzuführen.
+  - b) :: Die Befugnis Präzisionsanflug mit Radar“ (Precision Approach Radar, PAR), die zusätzlich zur Befugnis Radar“ erteilt wird, gibt an, dass der Lizenzinhaber befähigt ist, bodengeführte Präzisionsanflüge unter Nutzung von Präzisionsanflugradar für Luftfahrzeuge im Endanflug auf die Landebahn durchzuführen.
+  - c) :: Die Befugnis Anflug mit Überwachungsradar“ (Surveillance Radar Approach, SRA), die zusätzlich zur Befugnis Radar“ erteilt wird, gibt an, dass der Lizenzinhaber befähigt ist, bodengeführte Nichtpräzisionsanflüge unter Nutzung von Überwachungsradar für Luftfahrzeuge im Endanflug auf die Landebahn durchzuführen.
+  - d) :: Die Befugnis Automatische bordabhängige Überwachung“ (Automatic Dependent Surveillance, ADS) gibt an, dass der Lizenzinhaber befähigt ist, Anflugkontrolldienst unter Nutzung von automatischer bordabhängiger Überwachung durchzuführen.
+  - e) :: Die Befugnis Nahbereichskontrolle“ (Terminal Control, TCL), die zusätzlich zur Befugnis Radar“ oder Automatische bordabhängige Überwachung“ erteilt wird, gibt an, dass der Lizenzinhaber befähigt ist, Flugverkehrskontrolldienst unter Nutzung von elektronischer Luftverkehrsdarstellung für Luftfahrzeuge durchzuführen, die in einem bestimmten Nahverkehrsbereich oder benachbarten Zuständigkeitsbereichen betrieben werden;
+- 5. :: die Erlaubnis Bezirkskontrolle ohne elektronische Luftverkehrsdarstellung“ (Area Control Procedural, ACP), mit der der Lizenzinhaber seine Befähigung zur Durchführung von Flugverkehrskontrolldiensten für Luftfahrzeuge ohne Nutzung von elektronischer Luftverkehrsdarstellung nachweist;
+- 6. :: die Erlaubnis Bezirkskontrolle mit elektronischer Luftverkehrsdarstellung“ (Area Control Surveillance, ACS), die angibt, dass der Lizenzinhaber befähigt ist, Flugverkehrskontrolldienst für Luftfahrzeuge mit Nutzung von elektronischer Luftverkehrsdarstellung durchzuführen. Diese Erlaubnis ist mit mindestens einer der nachfolgend beschriebenen Befugnisse zu erteilen:
+  - a) :: Die Befugnis Radar“ (Radar, RAD) gibt an, dass der Lizenzinhaber befähigt ist, Bezirkskontrolldienst unter Nutzung von Überwachungsradar durchzuführen.
+  - b) :: Die Befugnis Automatische bordabhängige Überwachung“ (Automatic Dependent Surveillance, ADS) gibt an, dass der Lizenzinhaber befähigt ist, Bezirkskontrolldienst unter Nutzung von automatischer bordabhängiger Überwachung durchzuführen.
+  - c) :: Die Befugnis Nahverkehrskontrolle“ (Terminal Control, TCL), die zusätzlich zur Befugnis Radar“ oder Automatische bordabhängige Überwachung“ erteilt wird, gibt an, dass der Lizenzinhaber befähigt ist, Flugverkehrskontrolldienst unter Nutzung von elektronischer Luftverkehrsdarstellung für Luftfahrzeuge durchzuführen, die in einem bestimmten Nahverkehrsbereich oder benachbarten Zuständigkeitsbereichen betrieben werden.
+  - d) :: Die Befugnis Ozeankontrolle“ (Oceanic Control, OCN) gibt an, dass der Lizenzinhaber befähigt ist, Flugverkehrskontrolldienst für Luftfahrzeuge durchzuführen, die in einem Ozeankontrollbezirk durchgeführt werden.
 
 (2) Der Lizenzschein muss die in Anlage 4 genannten Anforderungen erfüllen.
 
@@ -106,7 +106,7 @@ Aufsichtsbehörde ist das Bundesaufsichtsamt für Flugsicherung.
 - 2. :: der Bewerber mindestens Inhaber eines zum Hochschulzugang berechtigenden Abschlusszeugnisses oder eines gleichwertigen Zeugnisses ist,
 - 3. :: der Bewerber seine medizinische Tauglichkeit nach § 7 nachgewiesen hat,
 - 4. :: der Bewerber eine den besonderen Anforderungen an die Tätigkeit als Fluglotse genügende geistige und psychologische Eignung nachgewiesen hat; die Aufsichtsbehörde erlässt hierzu nähere Bestimmungen,
-- 5. :: der Bewerber über einen ausreichenden Wortschatz verfügt, um eine flüssige, fehlerfreie Konversation in englischer Sprache über allgemeine Themen zu führen; zum Erwerb der Erlaubnis �Flugplatzkontrolle an Flugplätzen mit Sichtflugbetrieb“ (ADV), der Erlaubnis �Flugplatzkontrolle an Flugplätzen mit Instrumentenflugbetrieb“ (ADI), der Erlaubnis �Anflugkontrolle ohne elektronische Luftverkehrsdarstellung“ (APP) oder der Erlaubnis �Anflugkontrolle mit elektronischer Luftverkehrsdarstellung“ (APS) ist daneben eine flüssige, fehlerfreie Konversation in deutscher Sprache nachzuweisen und
+- 5. :: der Bewerber über einen ausreichenden Wortschatz verfügt, um eine flüssige, fehlerfreie Konversation in englischer Sprache über allgemeine Themen zu führen; zum Erwerb der Erlaubnis Flugplatzkontrolle an Flugplätzen mit Sichtflugbetrieb“ (ADV), der Erlaubnis Flugplatzkontrolle an Flugplätzen mit Instrumentenflugbetrieb“ (ADI), der Erlaubnis Anflugkontrolle ohne elektronische Luftverkehrsdarstellung“ (APP) oder der Erlaubnis Anflugkontrolle mit elektronischer Luftverkehrsdarstellung“ (APS) ist daneben eine flüssige, fehlerfreie Konversation in deutscher Sprache nachzuweisen und
 - 6. :: keine Tatsachen vorliegen, die den Bewerber als unzuverlässig erscheinen lassen, Tätigkeiten in den Flugverkehrskontrolldiensten auszuüben.
 
 (2) Die Zuverlässigkeit eines Bewerbers im Sinne des Absatzes 1 Nr. 6 liegt nicht vor, wenn die Zuverlässigkeit des Bewerbers nach § 7 des Luftsicherheitsgesetzes nicht festgestellt worden ist. Die erforderliche Zuverlässigkeit besitzen Bewerber ferner in der Regel nicht,
@@ -129,7 +129,7 @@ Die Zuverlässigkeit kann auch im Fall von Verurteilungen, die nicht von Nummer 
 (4) Die Gültigkeitsdauer des Tauglichkeitszeugnisses beginnt mit Ablauf der Gültigkeitsdauer des bisherigen Tauglichkeitszeugnisses, wenn die Nachuntersuchung innerhalb der letzten 45 Tage vor diesem Zeitpunkt durchgeführt worden ist. Anderenfalls beginnt die Gültigkeitsdauer mit dem Tag der Ausstellung des Zeugnisses. Liegen Tatsachen vor, die Zweifel an der medizinischen Tauglichkeit begründen, ist der Fluglotse zu einer vorzeitigen Nachuntersuchung verpflichtet. Die vorzeitige Nachuntersuchung wird vom Fluglotsen oder von der Flugsicherungsorganisation veranlasst. Die Aufsichtsbehörde ist hiervon in Kenntnis zu setzen.
 (5) Der Bewerber um ein Tauglichkeitszeugnis oder die Flugsicherungsorganisation können bei der Aufsichtsbehörde eine Überprüfung des Ergebnisses der Tauglichkeitsuntersuchung durch ein anerkanntes flugmedizinisches Zentrum beantragen. Weisen Erstergebnis und Überprüfung unterschiedliche Aussagen zur Tauglichkeit oder Nichttauglichkeit eines Bewerbers um ein Tauglichkeitszeugnis aus, führt die Aufsichtsbehörde eine abschließende Klärung durch Hinzuziehung eines anerkannten flugmedizinischen Zentrums herbei.
 (6) Die flugmedizinischen Zentren und die Flugmediziner bedürfen für die Durchführung von medizinischen Tauglichkeitsuntersuchungen der Fluglotsen und für die Erteilung der Tauglichkeitszeugnisse der Anerkennung. Diese Anerkennung wird von der Aufsichtsbehörde auf der Grundlage von Anlage 10 erteilt.
-(7) Anerkannte flugmedizinische Zentren und anerkannte Flugmediziner unterliegen hinsichtlich Art und Umfang der Untersuchungen sowie der anzuwendenden Standards der Aufsicht durch die Aufsichtsbehörde; diese kann hierzu unter Berücksichtigung der Bestimmungen des Anhangs I des ICAO-Abkommens und den Anforderungen des Eurocontrol-Dokuments �Requirements for European Class 3 Medical Certification of Air Traffic Controllers“ nähere Bestimmungen erlassen. Bei medizinischen Fragestellungen kann sich die Aufsichtsbehörde der Fachkompetenz von anerkannten flugmedizinischen Zentren bedienen.
+(7) Anerkannte flugmedizinische Zentren und anerkannte Flugmediziner unterliegen hinsichtlich Art und Umfang der Untersuchungen sowie der anzuwendenden Standards der Aufsicht durch die Aufsichtsbehörde; diese kann hierzu unter Berücksichtigung der Bestimmungen des Anhangs I des ICAO-Abkommens und den Anforderungen des Eurocontrol-Dokuments Requirements for European Class 3 Medical Certification of Air Traffic Controllers“ nähere Bestimmungen erlassen. Bei medizinischen Fragestellungen kann sich die Aufsichtsbehörde der Fachkompetenz von anerkannten flugmedizinischen Zentren bedienen.
 
 § 8 - Ausbildungsinhalt
 
@@ -143,7 +143,7 @@ In der grundlegenden Ausbildung werden den Auszubildenden in mehreren aufeinande
 
 (1) Während der grundlegenden Ausbildung sind in jedem der aufeinander aufbauenden Ausbildungskurse schriftliche, mündliche oder praktische Leistungsnachweise zu erbringen. Schriftliche Leistungsnachweise können in Form computergestützter Tests durchgeführt werden. In den Leistungsnachweisen sind die notwendigen Kenntnisse und Fertigkeiten für die Tätigkeit als Fluglotse nachzuweisen. Ein Ausbildungskurs ist erfolgreich abgeschlossen, wenn alle diesem Kurs zugehörigen Leistungsnachweise erbracht wurden. Die Teilnahme an einem nachfolgenden Ausbildungskurs setzt den erfolgreichen Abschluss des vorausgehenden Kurses voraus. Art, Anzahl und Inhalte der Leistungsnachweise in jedem Ausbildungskurs sind in Anlage 1 Nr. 2 festgelegt.
 (2) Darüber hinaus ist der Nachweis nach Anlage 1 Nr. 2.1 Buchstabe d zu erbringen, dass die englische Sprachkompetenz mindestens der Kompetenzstufe 4 nach der Einstufungstabelle für Sprachkompetenz in Anlage 3 entspricht.
-(3) Zum Erwerb der Erlaubnis �Flugplatzkontrolle an Flugplätzen mit Sichtflugbetrieb“ (ADV), der Erlaubnis �Flugplatzkontrolle an Flugplätzen mit Instrumentenflugbetrieb“ (ADI), der Erlaubnis �Anflugkontrolle ohne elektronische Luftverkehrsdarstellung“ (APP) oder der Erlaubnis �Anflugkontrolle mit elektronischer Luftverkehrsdarstellung“ (APS) ist von Auszubildenden zusätzlich der Nachweis zu erbringen, dass die deutsche Sprachkompetenz mindestens der Kompetenzstufe 4 nach der Einstufungstabelle für Sprachkompetenz in Anlage 3 entspricht. Abweichend von Satz 1 ist für Auszubildende im Sinne dieser Verordnung, die bereits eine vergleichbare Ausbildung in einem anderen Staat absolviert haben, der Nachweis der deutschen Sprachkompetenz bei Erteilung der ersten Berechtigung nach dieser Verordnung erforderlich; Satz 2 gilt entsprechend für die Ausbildungsvoraussetzung des § 6 Abs. 1 Nr. 5 zweiter Halbsatz.
+(3) Zum Erwerb der Erlaubnis Flugplatzkontrolle an Flugplätzen mit Sichtflugbetrieb“ (ADV), der Erlaubnis Flugplatzkontrolle an Flugplätzen mit Instrumentenflugbetrieb“ (ADI), der Erlaubnis Anflugkontrolle ohne elektronische Luftverkehrsdarstellung“ (APP) oder der Erlaubnis Anflugkontrolle mit elektronischer Luftverkehrsdarstellung“ (APS) ist von Auszubildenden zusätzlich der Nachweis zu erbringen, dass die deutsche Sprachkompetenz mindestens der Kompetenzstufe 4 nach der Einstufungstabelle für Sprachkompetenz in Anlage 3 entspricht. Abweichend von Satz 1 ist für Auszubildende im Sinne dieser Verordnung, die bereits eine vergleichbare Ausbildung in einem anderen Staat absolviert haben, der Nachweis der deutschen Sprachkompetenz bei Erteilung der ersten Berechtigung nach dieser Verordnung erforderlich; Satz 2 gilt entsprechend für die Ausbildungsvoraussetzung des § 6 Abs. 1 Nr. 5 zweiter Halbsatz.
 (4) Ein Nachweis der Sprachkompetenz, die mit der Kompetenzstufe 4 bewertet wird, hat eine Gültigkeit von drei Jahren. Ein Nachweis der Sprachkompetenz, die mit der Kompetenzstufe 5 bewertet wird, ist sechs Jahre gültig. Ein Nachweis mit der Kompetenzstufe 6 gilt unbefristet.
 (5) Der Nachweis der Sprachkompetenz wird bei Erteilung einer Lizenz mit seiner Gültigkeitsdauer als Sprachenvermerk in den Lizenzschein eingetragen. Ein Nachweis über Kenntnisse der deutschen Sprache gemäß Kompetenzstufe 6 nach der Einstufungstabelle für Sprachkompetenz in Anlage 3 wird von Amts wegen als deutscher Sprachenvermerk in den Lizenzschein eingetragen, wenn der Fluglotse geeignete Dokumente vorlegt, aus denen sich ergibt, dass die deutsche Sprache seine Muttersprache ist oder seine Kenntnisse gleichwertig sind. Die Aufsichtsbehörde kann Einzelheiten zu den erforderlichen Dokumenten festlegen.
 (6) Auf Antrag kann auch der Nachweis von Kenntnissen einer anderen Sprache als Englisch oder Deutsch mit einer Gültigkeit nach Maßgabe von Absatz 3 als Sprachenvermerk in den Lizenzschein eingetragen oder verlängert werden, wenn der Antragssteller nachweist, über die entsprechenden Kenntnisse zu verfügen. Er verfügt regelmäßig über die entsprechenden Kenntnisse, wenn diese durch Bescheinigung einer Luftfahrtbehörde eines Staates, in dem die entsprechende Sprache als Amtssprache verwendet wird, oder durch eine anerkannte Stelle nach Absatz 7 bestätigt worden ist.
@@ -479,7 +479,7 @@ Die Ausbildung für sonstiges erlaubnispflichtiges Personal umfasst die grundleg
 (1) Die Aufsichtsbehörde kann in von ihr zu bestimmenden zeitlichen Abständen oder aus begründetem Anlass im Einzelfall die Kenntnisse, Fähigkeiten und Fertigkeiten der Berechtigungsinhaber von einem Prüfungsausschuss nach § 41 überprüfen lassen.
 (2) Bestehen Zweifel an der sicheren Betriebsabwicklung oder der ordnungsgemäßen Inbetriebhaltung durch den Berechtigungsinhaber oder ist er vorübergehend medizinisch nicht tauglich, kann die Aufsichtsbehörde das Ruhen der Berechtigungen anordnen. Die Berechtigungen werden widerrufen, wenn von einem Prüfungsausschuss nach § 41 festgestellt wird, dass der Berechtigungsinhaber nicht mehr die erforderlichen Kenntnisse, Fähigkeiten oder Fertigkeiten besitzt oder wenn tatsächliche Anhaltspunkte vorliegen, nach denen die nach § 31 erforderliche medizinische Tauglichkeit voraussichtlich auf Dauer nicht mehr gegeben ist. Der Widerruf wird im Erlaubnisschein eingetragen.
 (3) Die Überprüfung ist nicht öffentlich. Die Aufsichtsbehörde kann Vertreter zur Beobachtung der Überprüfung entsenden und anderen Personen die Anwesenheit bei der Überprüfung gestatten.
-(4) Das Ergebnis der Überprüfung wird mit �bestanden“ oder �nicht bestanden“ bewertet. Eine nicht bestandene Überprüfung kann unter den von der Aufsichtsbehörde bestimmten Voraussetzungen wiederholt werden.
+(4) Das Ergebnis der Überprüfung wird mit bestanden“ oder nicht bestanden“ bewertet. Eine nicht bestandene Überprüfung kann unter den von der Aufsichtsbehörde bestimmten Voraussetzungen wiederholt werden.
 (5) Der Prüfungsausschuss fertigt einen Überprüfungsbericht.
 
 § 45 - Erlaubnis zum Betrieb von Ausbildungsstätten
@@ -524,9 +524,9 @@ Ordnungswidrig im Sinne des § 58 Abs. 1 Nr. 10 des Luftverkehrsgesetzes handelt
 (2) Ausbilderberechtigungen nach § 13 der Flugsicherungspersonalausbildungsverordnung in der genannten Fassung für Flugsicherungsbetriebspersonal im Sinne des § 2 Nr. 3 und § 2 Nr. 1 Buchstabe a und b der Flugsicherungspersonalausbildungsverordnung in der genannten Fassung, die zum Zeitpunkt des Inkrafttretens dieser Verordnung gültig sind, gelten als Ausbildererlaubnisse nach § 17 dieser Verordnung mit den Beschränkungen nach § 17 Abs. 2 und mit einer Gültigkeitsdauer von 36 Monaten, gerechnet ab dem Zeitpunkt des Inkrafttretens dieser Verordnung.
 (3) Eine nicht beschränkte Erlaubnis nach § 9 der Flugsicherungspersonalausbildungsverordnung in der genannten Fassung für Flugsicherungsbetriebspersonal im Sinne des § 2 Nr. 1 Buchstabe a und b der Flugsicherungspersonalausbildungsverordnung in der genannten Fassung, die zum Zeitpunkt des Inkrafttretens dieser Verordnung gültig ist, gilt als Erlaubnis mit den jeweiligen Befugnissen nach § 5 dieser Verordnung. Diese wird in den Fluglotsenlizenzschein eingetragen. Abweichend hiervon wird eine Erlaubnis mit den zugehörigen Befugnissen aufgrund der erfolgreich abgeschlossenen grundlegenden Ausbildung, für die noch zu keinem Zeitpunkt eine ihr zugeordnete Berechtigung erworben wurde, in den Auszubildendenlizenzschein eingetragen.
 (4) Dem unter die Regelungen der Absätze 1 bis 3 fallenden Personal werden Auszubildendenlizenzen oder Fluglotsenlizenzen nach dieser Verordnung spätestens ein Jahr nach Inkrafttreten dieser Verordnung von der Aufsichtsbehörde ausgehändigt.
-(5) Eine gültige Erlaubnis nach § 9 Abs. 1 Satz 2 zweiter Halbsatz der Flugsicherungspersonalausbildungsverordnung in der genannten Fassung für Flugsicherungsbetriebspersonal im Sinne des § 2 Nr. 1 Buchstabe a der Flugsicherungspersonalausbildungsverordnung in der genannten Fassung, die auf die Tätigkeit an Flugplätzen beschränkt ist, für die nach § 27d Abs. 4 des Luftverkehrsgesetzes nur auf Antrag des Flugplatzunternehmers Flugsicherungsbetriebsdienste vorgehalten werden (beschränkte Erlaubnis), behält ihre Gültigkeit bis längstens ein Jahr nach Inkrafttreten dieser Verordnung. Nach erfolgreicher Teilnahme an dem Ergänzungskurs für Flugplatzkontrolle gemä�Flugplatzkontrolle an Flugplätzen mit Instrumentenflugbetrieb“ (ADI) und der Befugnis �Platzverkehrskontrolle“ (TWR) oder den Befugnissen �Luftverkehrskontrolle“ (AIR) und �Rollverkehrskontrolle“ (GMC) erteilt. Wird innerhalb eines Jahres nach Inkrafttreten dieser Verordnung die Erteilung einer Lizenz nach dieser Verordnung unter Wahrung des Besitzstandes beantragt, wird von der Aufsichtsbehörde eine Lizenz nach dieser Verordnung mit der Erlaubnis und den Befugnissen nach Satz 3 ohne das Erfordernis der erfolgreichen Teilnahme an dem Ergänzungskurs für Flugplatzkontrolle gemäß Anlage 1 Nr. 2.5 erteilt. Die Lizenz wird mit einem einschränkenden Vermerk versehen, der den Einsatz ausschließlich an dem Flugplatz ermöglicht, an dem der Fluglotse gültige Berechtigungen besitzt.
-(6) Hat ein Fluglotse mit einer gültigen, beschränkten Erlaubnis erfolgreich an einem Weiterbildungs- oder dem Befugniskurs zur Nutzung von Radar zur Luftverkehrsbeobachtung in der Flugplatzkontrolle teilgenommen, wird bei einer Lizenzerteilung nach Absatz 5 Satz 2 oder 3 zusätzlich die Befugnis �Nutzung von Radar zur Luftverkehrsbeobachtung“ (RAD) erteilt.
-(7) Hat ein Fluglotse mit einer gültigen, beschränkten Erlaubnis erfolgreich an einer Weiterbildungsma�Nutzung von elektronischer Rollverkehrsdarstellung“ (GMS) erteilt.
+(5) Eine gültige Erlaubnis nach § 9 Abs. 1 Satz 2 zweiter Halbsatz der Flugsicherungspersonalausbildungsverordnung in der genannten Fassung für Flugsicherungsbetriebspersonal im Sinne des § 2 Nr. 1 Buchstabe a der Flugsicherungspersonalausbildungsverordnung in der genannten Fassung, die auf die Tätigkeit an Flugplätzen beschränkt ist, für die nach § 27d Abs. 4 des Luftverkehrsgesetzes nur auf Antrag des Flugplatzunternehmers Flugsicherungsbetriebsdienste vorgehalten werden (beschränkte Erlaubnis), behält ihre Gültigkeit bis längstens ein Jahr nach Inkrafttreten dieser Verordnung. Nach erfolgreicher Teilnahme an dem Ergänzungskurs für Flugplatzkontrolle gemäFlugplatzkontrolle an Flugplätzen mit Instrumentenflugbetrieb“ (ADI) und der Befugnis Platzverkehrskontrolle“ (TWR) oder den Befugnissen Luftverkehrskontrolle“ (AIR) und Rollverkehrskontrolle“ (GMC) erteilt. Wird innerhalb eines Jahres nach Inkrafttreten dieser Verordnung die Erteilung einer Lizenz nach dieser Verordnung unter Wahrung des Besitzstandes beantragt, wird von der Aufsichtsbehörde eine Lizenz nach dieser Verordnung mit der Erlaubnis und den Befugnissen nach Satz 3 ohne das Erfordernis der erfolgreichen Teilnahme an dem Ergänzungskurs für Flugplatzkontrolle gemäß Anlage 1 Nr. 2.5 erteilt. Die Lizenz wird mit einem einschränkenden Vermerk versehen, der den Einsatz ausschließlich an dem Flugplatz ermöglicht, an dem der Fluglotse gültige Berechtigungen besitzt.
+(6) Hat ein Fluglotse mit einer gültigen, beschränkten Erlaubnis erfolgreich an einem Weiterbildungs- oder dem Befugniskurs zur Nutzung von Radar zur Luftverkehrsbeobachtung in der Flugplatzkontrolle teilgenommen, wird bei einer Lizenzerteilung nach Absatz 5 Satz 2 oder 3 zusätzlich die Befugnis Nutzung von Radar zur Luftverkehrsbeobachtung“ (RAD) erteilt.
+(7) Hat ein Fluglotse mit einer gültigen, beschränkten Erlaubnis erfolgreich an einer WeiterbildungsmaNutzung von elektronischer Rollverkehrsdarstellung“ (GMS) erteilt.
 (8) Die Ergänzungsausbildung gemäß Anlage 1 Nr. 2.5 darf nur von einem nach § 29 Abs. 1 von der Aufsichtsbehörde zertifizierten Ausbildungsanbieter durchgeführt werden.
 (9) Der nach § 26 Abs. 2 Nr. 4 für die Verlängerung von Berechtigungen erforderliche Nachweis der Sprachkompetenz ist erstmalig bis 17. Mai 2010 zu erbringen.
 (10) Der nach § 43 Abs. 2 für die Verlängerung von Berechtigungen erforderliche Nachweis der englischen Sprachkompetenz ist erstmalig bis 5. März 2011, der Nachweis der deutschen Sprachkompetenz ist erstmalig bis 17. Mai 2010 zu erbringen.
@@ -681,7 +681,7 @@ Anlage 1 - (zu den §§ 9, 10 Abs. 1 und 2, § 11 Abs. 1, 2, 3 und 5, § 47 Abs.
     - -- :: Betriebsstätten anderer Einrichtungen der Luftfahrt
     - -- :: Umfeld der Flugsicherung
   - c) :: Leistungsnachweise
-    Die Kursteilnehmer haben während des Grundkurses für Flugverkehrskontrolle einen mündlichen Leistungsnachweis mit einer Dauer von mindestens 15, höchstens 20 Minuten im Themengebiet �Luftfahrtenglisch“, drei schriftliche Leistungsnachweise mit einer Dauer von jeweils 180 Minuten in den weiteren unter Buchstabe b aufgeführten Themengebieten sowie einen praktischen Leistungsnachweis mit einer Dauer von mindestens 45, höchstens 60 Minuten im Themengebiet �Betriebsverfahren für die Flugverkehrskontrolle“ zu erbringen.
+    Die Kursteilnehmer haben während des Grundkurses für Flugverkehrskontrolle einen mündlichen Leistungsnachweis mit einer Dauer von mindestens 15, höchstens 20 Minuten im Themengebiet Luftfahrtenglisch“, drei schriftliche Leistungsnachweise mit einer Dauer von jeweils 180 Minuten in den weiteren unter Buchstabe b aufgeführten Themengebieten sowie einen praktischen Leistungsnachweis mit einer Dauer von mindestens 45, höchstens 60 Minuten im Themengebiet Betriebsverfahren für die Flugverkehrskontrolle“ zu erbringen.
   - d) :: Nachweis der Sprachkompetenz
     Zum Nachweis der englischen und, soweit erforderlich, deutschen Sprachkompetenz ist während des Grundkurses für Flugverkehrskontrolle jeweils ein mündlicher Leistungsnachweis zu erbringen.
     Am Ende des Grundkurses wird die Sprachkompetenz des Kursteilnehmers entsprechend der Einstufungstabelle für Sprachkompetenz nach Anlage 3 eingestuft.
@@ -708,7 +708,7 @@ Anlage 1 - (zu den §§ 9, 10 Abs. 1 und 2, § 11 Abs. 1, 2, 3 und 5, § 47 Abs.
 - 2.3 :: Befugniskurs zur Nutzung von Radar zur Luftverkehrsbeobachtung in der Flugplatzkontrolle
   - a) :: Ausbildungsziele
     Nach dem Befugniskurs zur Nutzung von Radar zur Luftverkehrsbeobachtung in der Flugplatzkontrolle
-    - • :: können die Teilnehmer Radarinformationen interpretieren und im Rahmen der in den �ICAO Procedures for Air Navigation Services“ (DOC 4444) beschriebenen Weise nutzen;
+    - • :: können die Teilnehmer Radarinformationen interpretieren und im Rahmen der in den ICAO Procedures for Air Navigation Services“ (DOC 4444) beschriebenen Weise nutzen;
     - • :: verfügen die Teilnehmer über das Wissen, die Fertigkeiten und die Verhaltensweisen, um die grundlegende Ausbildung mit dem Befugniskurs zur Nutzung von Radar zur Luftverkehrskontrolle in der Flugplatzkontrolle fortzusetzen;
     - • :: verfügen die Teilnehmer über das Wissen, die Fertigkeiten und die Verhaltensweisen, um mit der betrieblichen Ausbildung im Rahmen der Erlaubnis Flugplatzkontrolle an Flugplätzen mit Instrumentenflugbetrieb (ADI) und der Befugnis Platzverkehrskontrolle (TWR) oder den Befugnissen Luftverkehrskontrolle (AIR) und Rollverkehrskontrolle (GMC), der Befugnis Nutzung von elektronischer Rollverkehrsdarstellung (GMS) sowie der Befugnis Nutzung von Radar zur Luftverkehrsbeobachtung (RAD) zu beginnen oder im Rahmen gültiger Berechtigungen Radar zur Luftverkehrsbeobachtung oder elektronische Rollverkehrsdarstellung betrieblich zu nutzen.
   - b) :: Ausbildungsinhalte (Wesentliche Themengebiete)
@@ -716,7 +716,7 @@ Anlage 1 - (zu den §§ 9, 10 Abs. 1 und 2, § 11 Abs. 1, 2, 3 und 5, § 47 Abs.
     Rollfeldradar und Radarbeobachtung in der Flugplatzkontrolle, insbesondere:
     - -- :: Praktische Übungen und Simulation
   - c) :: Leistungsnachweise
-    Die Kursteilnehmer haben während des Befugniskurses zur Nutzung von Radar zur Luftverkehrsbeobachtung in der Flugplatzkontrolle einen schriftlichen Leistungsnachweis mit einer Dauer von 60 Minuten in dem unter Buchstabe b aufgeführten Themengebiet �Grundlegende Radartheorie und -verfahren“ zu erbringen.
+    Die Kursteilnehmer haben während des Befugniskurses zur Nutzung von Radar zur Luftverkehrsbeobachtung in der Flugplatzkontrolle einen schriftlichen Leistungsnachweis mit einer Dauer von 60 Minuten in dem unter Buchstabe b aufgeführten Themengebiet Grundlegende Radartheorie und -verfahren“ zu erbringen.
   - d) :: Prüfung
     Die Prüfung soll mindestens 25 Minuten und höchstens 35 Minuten dauern.
 - 2.4 :: Befugniskurs zur Nutzung von Radar zur Luftverkehrskontrolle in der Flugplatzkontrolle
@@ -759,7 +759,7 @@ Anlage 1 - (zu den §§ 9, 10 Abs. 1 und 2, § 11 Abs. 1, 2, 3 und 5, § 47 Abs.
 
     Einzelne Kursinhalte und -teile können erlassen werden, soweit der Fluglotse die erfolgreiche Teilnahme an inhaltsgleichen Fortbildungsveranstaltungen nachweist. Die Anzahl der praktischen Übungen und der Umfang der Simulation können angemessen verringert werden, wenn der Fluglotse in seiner bisherigen selbstverantwortlichen Tätigkeit in der Flugplatzkontrolle bereits regelmäßig komplexen Flugplatzverkehr bearbeitet hat.
   - c) :: Leistungsnachweise
-    Die Kursteilnehmer haben während des Ergänzungskurses für Flugplatzkontrolle einen schriftlichen Leistungsnachweis mit einer Dauer von 45 Minuten und einen praktischen Leistungsnachweis mit einer Dauer von mindestens 45, höchstens 60 Minuten in dem unter Buchstabe b aufgeführten Themengebiet �Betriebliche Kenntnisse und Verfahren zur Durchführung der Flugsicherungsdienste in Flugplatzkontrollstellen“ zu erbringen.
+    Die Kursteilnehmer haben während des Ergänzungskurses für Flugplatzkontrolle einen schriftlichen Leistungsnachweis mit einer Dauer von 45 Minuten und einen praktischen Leistungsnachweis mit einer Dauer von mindestens 45, höchstens 60 Minuten in dem unter Buchstabe b aufgeführten Themengebiet Betriebliche Kenntnisse und Verfahren zur Durchführung der Flugsicherungsdienste in Flugplatzkontrollstellen“ zu erbringen.
   - d) :: Prüfung
     Die Prüfung soll mindestens 25 Minuten und höchstens 35 Minuten dauern. Nach erfolgreicher Prüfung werden dem Fluglotsen die Erlaubnis Flugplatzkontrolle an Flugplätzen mit Instrumentenflugbetrieb (ADI) und die Befugnis Platzverkehrskontrolle (TWR) oder die Befugnisse Luftverkehrskontrolle (AIR) und Rollverkehrskontrolle (GMC) erteilt und in die Lizenzscheine für eine Auszubildendenlizenz oder Fluglotsenlizenz eingetragen.
 - 2.6 :: Befugniskurs zur Nutzung von elektronischer Rollverkehrsdarstellung
@@ -801,7 +801,7 @@ Anlage 1 - (zu den §§ 9, 10 Abs. 1 und 2, § 11 Abs. 1, 2, 3 und 5, § 47 Abs.
     - -- :: Menschliches Versagen
     - -- :: Arbeitsumfeld
   - c) :: Leistungsnachweise
-    Die Kursteilnehmer haben während des Erlaubniskurses für Anflugkontrolle drei schriftliche Leistungsnachweise mit einer Dauer von jeweils 120 Minuten und zwei schriftliche Leistungsnachweise mit einer Dauer von jeweils 90 Minuten mit den in diesem Kurs sowie im Grundkurs für Flugverkehrskontrolle vermittelten Ausbildungsinhalten sowie zwei praktische Leistungsnachweise in Form von fortlaufenden Beurteilungen in dem unter Buchstabe b aufgeführten Themengebiet �Betriebliche Kenntnisse und Verfahren zur Durchführung der Anflugkontrolle“ zu erbringen.
+    Die Kursteilnehmer haben während des Erlaubniskurses für Anflugkontrolle drei schriftliche Leistungsnachweise mit einer Dauer von jeweils 120 Minuten und zwei schriftliche Leistungsnachweise mit einer Dauer von jeweils 90 Minuten mit den in diesem Kurs sowie im Grundkurs für Flugverkehrskontrolle vermittelten Ausbildungsinhalten sowie zwei praktische Leistungsnachweise in Form von fortlaufenden Beurteilungen in dem unter Buchstabe b aufgeführten Themengebiet Betriebliche Kenntnisse und Verfahren zur Durchführung der Anflugkontrolle“ zu erbringen.
   - d) :: Prüfung
     Die Prüfung erfolgt in zwei Teilprüfungen. Eine Teilprüfung soll mindestens 55 Minuten und höchstens 70 Minuten dauern.
 - 2.8 :: Erlaubniskurs für Bezirkskontrolle
@@ -829,7 +829,7 @@ Anlage 1 - (zu den §§ 9, 10 Abs. 1 und 2, § 11 Abs. 1, 2, 3 und 5, § 47 Abs.
     - -- :: Menschliches Versagen
     - -- :: Arbeitsumfeld
   - c) :: Leistungsnachweise
-    Die Kursteilnehmer haben während des Erlaubniskurses für Bezirkskontrolle zwei schriftliche Leistungsnachweise mit einer Dauer von jeweils 120 Minuten und zwei schriftliche Leistungsnachweise mit einer Dauer von jeweils 90 Minuten mit den in diesem Kurs sowie im Grundkurs für Flugverkehrskontrolle vermittelten Ausbildungsinhalten sowie zwei praktische Leistungsnachweise in Form fortlaufender Beurteilungen in dem unter Buchstabe b aufgeführten Themengebiet �Betriebliche Kenntnisse und Verfahren zur Durchführung der Streckenkontrolle“ zu erbringen.
+    Die Kursteilnehmer haben während des Erlaubniskurses für Bezirkskontrolle zwei schriftliche Leistungsnachweise mit einer Dauer von jeweils 120 Minuten und zwei schriftliche Leistungsnachweise mit einer Dauer von jeweils 90 Minuten mit den in diesem Kurs sowie im Grundkurs für Flugverkehrskontrolle vermittelten Ausbildungsinhalten sowie zwei praktische Leistungsnachweise in Form fortlaufender Beurteilungen in dem unter Buchstabe b aufgeführten Themengebiet Betriebliche Kenntnisse und Verfahren zur Durchführung der Streckenkontrolle“ zu erbringen.
   - d) :: Prüfung
     Die Prüfung erfolgt in zwei Teilprüfungen. Eine Teilprüfung soll mindestens 55 Minuten und höchstens 70 Minuten dauern.
 - 2.9 :: Befugniskurs für Nahbereichskontrolle
@@ -849,15 +849,15 @@ Anlage 1 - (zu den §§ 9, 10 Abs. 1 und 2, § 11 Abs. 1, 2, 3 und 5, § 47 Abs.
     - -- :: Kontrollverfahren
     - -- :: Praktische Übungen und Simulation
   - c) :: Leistungsnachweise
-    Die Kursteilnehmer haben während des Befugniskurses für Nahbereichskontrolle zwei schriftliche Leistungsnachweise mit den in diesem Kurs vermittelten Ausbildungsinhalten mit einer Dauer von jeweils 90 Minuten und zwei praktische Leistungsnachweise in Form fortlaufender Beurteilungen in dem unter Buchstabe b aufgeführten Themengebiet �Betriebliche Kenntnisse und Verfahren zur Durchführung der Flugsicherungsdienste im Nahverkehrsbereich“ zu erbringen.
+    Die Kursteilnehmer haben während des Befugniskurses für Nahbereichskontrolle zwei schriftliche Leistungsnachweise mit den in diesem Kurs vermittelten Ausbildungsinhalten mit einer Dauer von jeweils 90 Minuten und zwei praktische Leistungsnachweise in Form fortlaufender Beurteilungen in dem unter Buchstabe b aufgeführten Themengebiet Betriebliche Kenntnisse und Verfahren zur Durchführung der Flugsicherungsdienste im Nahverkehrsbereich“ zu erbringen.
   - d) :: Prüfung
-    Für Erlaubnisinhaber � Anflugkontrolle mit elektronischer Luftverkehrsdarstellung“ (Approach Control Surveillance, APS) erfolgt die Prüfung in zwei Teilprüfungen. Eine Teilprüfung soll mindestens 55 Minuten und höchstens 70 Minuten dauern.
-    Für Erlaubnisinhaber �Bezirkskontrolle mit elektronischer Luftverkehrsdarstellung“ (Area Control Surveillance, ACS) soll die Prüfung mindestens 55 Minuten und höchstens 70 Minuten dauern.
+    Für Erlaubnisinhaber  Anflugkontrolle mit elektronischer Luftverkehrsdarstellung“ (Approach Control Surveillance, APS) erfolgt die Prüfung in zwei Teilprüfungen. Eine Teilprüfung soll mindestens 55 Minuten und höchstens 70 Minuten dauern.
+    Für Erlaubnisinhaber Bezirkskontrolle mit elektronischer Luftverkehrsdarstellung“ (Area Control Surveillance, ACS) soll die Prüfung mindestens 55 Minuten und höchstens 70 Minuten dauern.
 - 2.10 :: Erlaubniskurs für Anflug- und Nahbereichskontrolle
   - a) :: Ausbildungsziele und -inhalte
     In diesem Kurs sind die Ausbildungsziele und -inhalte des Erlaubniskurses für Anflugkontrolle (Nr. 2.7) und des Befugniskurses für Nahbereichskontrolle (Nr. 2.9) in einem Kurs zusammengefasst.
   - b) :: Leistungsnachweise
-    Die Kursteilnehmer haben während des Erlaubniskurses für Anflug- und Nahbereichskontrolle drei schriftliche Leistungsnachweise mit einer Dauer von jeweils 120 Minuten und zwei schriftliche Leistungsnachweise mit einer Dauer von jeweils 90 Minuten mit den in diesem Kurs sowie im Grundkurs für Flugverkehrskontrolle vermittelten Ausbildungsinhalten sowie zwei praktische Leistungsnachweise in Form fortlaufender Beurteilungen im Themengebiet �Betriebliche Kenntnisse und Verfahren zur Durchführung der Anflug- und Nahbereichskontrolle“ zu erbringen.
+    Die Kursteilnehmer haben während des Erlaubniskurses für Anflug- und Nahbereichskontrolle drei schriftliche Leistungsnachweise mit einer Dauer von jeweils 120 Minuten und zwei schriftliche Leistungsnachweise mit einer Dauer von jeweils 90 Minuten mit den in diesem Kurs sowie im Grundkurs für Flugverkehrskontrolle vermittelten Ausbildungsinhalten sowie zwei praktische Leistungsnachweise in Form fortlaufender Beurteilungen im Themengebiet Betriebliche Kenntnisse und Verfahren zur Durchführung der Anflug- und Nahbereichskontrolle“ zu erbringen.
   - c) :: Prüfung
     Die Prüfung erfolgt in drei Teilprüfungen. Eine Teilprüfung soll mindestens 55 Minuten und höchstens 70 Minuten dauern.
 - 2.11 :: Ergänzungskurs für Bezirkskontrolle
@@ -877,7 +877,7 @@ Anlage 1 - (zu den §§ 9, 10 Abs. 1 und 2, § 11 Abs. 1, 2, 3 und 5, § 47 Abs.
     - -- :: Kontrollverfahren
     - -- :: Praktische Übungen und Simulation
   - c) :: Leistungsnachweise
-    Die Kursteilnehmer haben während des Ergänzungskurses für Bezirkskontrolle drei schriftliche Leistungsnachweise mit einer Dauer von jeweils 90 Minuten mit den in diesem Kurs vermittelten Ausbildungsinhalten und zwei praktische Leistungsnachweise in Form von fortlaufenden Beurteilungen in dem unter Buchstabe b aufgeführten Themengebiet �Betriebliche Kenntnisse und Verfahren zur Durchführung der Streckenkontrolle“ zu erbringen.
+    Die Kursteilnehmer haben während des Ergänzungskurses für Bezirkskontrolle drei schriftliche Leistungsnachweise mit einer Dauer von jeweils 90 Minuten mit den in diesem Kurs vermittelten Ausbildungsinhalten und zwei praktische Leistungsnachweise in Form von fortlaufenden Beurteilungen in dem unter Buchstabe b aufgeführten Themengebiet Betriebliche Kenntnisse und Verfahren zur Durchführung der Streckenkontrolle“ zu erbringen.
   - d) :: Prüfung
     Die Prüfung erfolgt in zwei Teilprüfungen. Eine Teilprüfung soll mindestens 55 Minuten und höchstens 70 Minuten dauern.
 - 2.12 :: Ergänzungskurs für Anflugkontrolle
@@ -897,7 +897,7 @@ Anlage 1 - (zu den §§ 9, 10 Abs. 1 und 2, § 11 Abs. 1, 2, 3 und 5, § 47 Abs.
     - -- :: Kontrollverfahren
     - -- :: Praktische Übungen und Simulation
   - c) :: Leistungsnachweise
-    Die Kursteilnehmer haben während des Ergänzungskurses für Anflugkontrolle drei schriftliche Leistungsnachweise mit einer Dauer von jeweils 90 Minuten mit den in diesem Kurs vermittelten Ausbildungsinhalten und zwei praktische Leistungsnachweise in Form fortlaufender Beurteilungen in dem unter Buchstabe b aufgeführten Themengebiet �Betriebliche Kenntnisse und Verfahren zur Durchführung der Anflugkontrolle“ zu erbringen.
+    Die Kursteilnehmer haben während des Ergänzungskurses für Anflugkontrolle drei schriftliche Leistungsnachweise mit einer Dauer von jeweils 90 Minuten mit den in diesem Kurs vermittelten Ausbildungsinhalten und zwei praktische Leistungsnachweise in Form fortlaufender Beurteilungen in dem unter Buchstabe b aufgeführten Themengebiet Betriebliche Kenntnisse und Verfahren zur Durchführung der Anflugkontrolle“ zu erbringen.
   - d) :: Prüfung
     Die Prüfung soll mindestens 55 und höchstens 70 Minuten dauern.
 
@@ -1078,7 +1078,7 @@ Anlage 5 - (zu § 33 Abs. 1 und 3, § 34 Abs. 3, § 35 Abs. 3)Grundlegende Ausbi
 
     Betriebliches Umfeld
   - c) :: Leistungsnachweise
-    Die Kursteilnehmer haben während des Grundkurses für Flugverkehrsmanagement-Spezialisten einen mündlichen Leistungsnachweis mit einer Dauer von mindestens 15, höchstens 20 Minuten im Themengebiet �Luftfahrtenglisch“ und drei schriftliche Leistungsnachweise mit einer Dauer von jeweils 180 Minuten in den weiteren unter Buchstabe b aufgeführten Themengebieten zu erbringen.
+    Die Kursteilnehmer haben während des Grundkurses für Flugverkehrsmanagement-Spezialisten einen mündlichen Leistungsnachweis mit einer Dauer von mindestens 15, höchstens 20 Minuten im Themengebiet Luftfahrtenglisch“ und drei schriftliche Leistungsnachweise mit einer Dauer von jeweils 180 Minuten in den weiteren unter Buchstabe b aufgeführten Themengebieten zu erbringen.
 - 2.2 :: Erlaubniskurs für Flugdatenbearbeitung
   - a) :: Ausbildungsziele
     Nach dem Erlaubniskurs für Flugdatenbearbeitung
@@ -1114,7 +1114,7 @@ Anlage 5 - (zu § 33 Abs. 1 und 3, § 34 Abs. 3, § 35 Abs. 3)Grundlegende Ausbi
     - -- :: Umgang mit Systemen am Arbeitsplatz der Flugdatenbearbeitung
     - -- :: Flugdatenbearbeitung in außergewöhnlichen Situationen
   - c) :: Leistungsnachweise
-    Die Kursteilnehmer haben während des Erlaubniskurses für Flugdatenbearbeitung zwei schriftliche Leistungsnachweise mit einer Dauer von jeweils 90 Minuten mit den in diesem Kurs sowie im Grundkurs für Flugverkehrsmanagement-Spezialisten vermittelten Ausbildungsinhalten und einen praktischen Leistungsnachweis in Form einer fortlaufenden Beurteilung in dem unter Buchstabe b aufgeführten Themengebiet �Praktische Flugdatenbearbeitung“ zu erbringen.
+    Die Kursteilnehmer haben während des Erlaubniskurses für Flugdatenbearbeitung zwei schriftliche Leistungsnachweise mit einer Dauer von jeweils 90 Minuten mit den in diesem Kurs sowie im Grundkurs für Flugverkehrsmanagement-Spezialisten vermittelten Ausbildungsinhalten und einen praktischen Leistungsnachweis in Form einer fortlaufenden Beurteilung in dem unter Buchstabe b aufgeführten Themengebiet Praktische Flugdatenbearbeitung“ zu erbringen.
   - d) :: Prüfung
     Die Prüfung soll mindestens 55 Minuten und höchstens 70 Minuten dauern.
 - 2.3 :: Erlaubniskurs für Fluginformationsdienst
@@ -1176,7 +1176,7 @@ Anlage 5 - (zu § 33 Abs. 1 und 3, § 34 Abs. 3, § 35 Abs. 3)Grundlegende Ausbi
     - -- :: Anwendung der Sprechfunkverfahren
     - -- :: Verhalten bei Notfällen
   - c) :: Leistungsnachweise
-    Die Kursteilnehmer haben während des Erlaubniskurses für Fluginformationsdienst zwei schriftliche Leistungsnachweise mit einer Dauer von jeweils 90 Minuten mit den in diesem Kurs sowie im Grundkurs für Flugverkehrsmanagement-Spezialisten vermittelten Ausbildungsinhalten und zwei praktische Leistungsnachweise in Form von fortlaufenden Beurteilungen in den unter Buchstabe b aufgeführten Themengebieten �Praktischer Fluginformationsdienst ohne Radar“ und �Praktischer Fluginformationsdienst mit Radar“ zu erbringen.
+    Die Kursteilnehmer haben während des Erlaubniskurses für Fluginformationsdienst zwei schriftliche Leistungsnachweise mit einer Dauer von jeweils 90 Minuten mit den in diesem Kurs sowie im Grundkurs für Flugverkehrsmanagement-Spezialisten vermittelten Ausbildungsinhalten und zwei praktische Leistungsnachweise in Form von fortlaufenden Beurteilungen in den unter Buchstabe b aufgeführten Themengebieten Praktischer Fluginformationsdienst ohne Radar“ und Praktischer Fluginformationsdienst mit Radar“ zu erbringen.
   - d) :: Nachweis der Sprachkompetenz
     Zum Nachweis der englischen und, soweit erforderlich, deutschen Sprachkompetenz ist während des Erlaubniskurses für Fluginformationsdienst ein mündlicher Leistungsnachweis zu erbringen.
     Am Ende des Erlaubniskurses für Fluginformationsdienst wird die Sprachkompetenz des Kursteilnehmers entsprechend der Einstufungstabelle für Sprachkompetenz nach Anlage 3 eingestuft.
@@ -1223,7 +1223,7 @@ Anlage 5 - (zu § 33 Abs. 1 und 3, § 34 Abs. 3, § 35 Abs. 3)Grundlegende Ausbi
     - -- :: Fertigkeiten in der Flugberatung
     - -- :: Umgang mit Systemen am Arbeitsplatz der Flugberatung
   - c) :: Leistungsnachweise
-    Die Kursteilnehmer haben während des Erlaubniskurses für Flugberatung zwei schriftliche Leistungsnachweise mit einer Dauer von jeweils 90 Minuten mit den in diesem Kurs sowie im Grundkurs für Flugverkehrsmanagement-Spezialisten vermittelten Ausbildungsinhalten und einen praktischen Leistungsnachweis in Form einer fortlaufenden Beurteilung in dem unter Buchstabe b aufgeführten Themengebiet �Praktische Flugberatung“ zu erbringen.
+    Die Kursteilnehmer haben während des Erlaubniskurses für Flugberatung zwei schriftliche Leistungsnachweise mit einer Dauer von jeweils 90 Minuten mit den in diesem Kurs sowie im Grundkurs für Flugverkehrsmanagement-Spezialisten vermittelten Ausbildungsinhalten und einen praktischen Leistungsnachweis in Form einer fortlaufenden Beurteilung in dem unter Buchstabe b aufgeführten Themengebiet Praktische Flugberatung“ zu erbringen.
   - d) :: Prüfung
     Die Prüfung soll mindestens 55 Minuten und höchstens 70 Minuten dauern.
 - 2.5 :: Ergänzungskurs für Platzkoordination
@@ -1263,7 +1263,7 @@ Anlage 5 - (zu § 33 Abs. 1 und 3, § 34 Abs. 3, § 35 Abs. 3)Grundlegende Ausbi
     - -- :: Erstellen einer Anlass-Sequenz
     - -- :: Anwendung der Sprechfunkverfahren
   - c) :: Leistungsnachweise
-    Die Kursteilnehmer haben während des Ergänzungskurses für Platzkoordination einen schriftlichen Leistungsnachweis mit einer Dauer von 90 Minuten in den unter Buchstabe b aufgeführten Themengebieten und einen praktischen Leistungsnachweis in Form einer fortlaufenden Beurteilung im Themengebiet �Praktische Platzkoordination“ zu erbringen.
+    Die Kursteilnehmer haben während des Ergänzungskurses für Platzkoordination einen schriftlichen Leistungsnachweis mit einer Dauer von 90 Minuten in den unter Buchstabe b aufgeführten Themengebieten und einen praktischen Leistungsnachweis in Form einer fortlaufenden Beurteilung im Themengebiet Praktische Platzkoordination“ zu erbringen.
   - d) :: Nachweis der Sprachkompetenz
     Die englische Sprachkompetenz wird entsprechend der Einstufungstabelle für Sprachkompetenz nach Anlage 3 eingestuft.
   - e) :: Prüfung
@@ -1322,7 +1322,7 @@ Anlage 6 - (zu § 33 Abs. 3, § 34 Abs. 3, § 35 Abs. 3)Grundlegende Ausbildung 
   Betriebliches Praktikum, insbesondere:
   - -- :: Betrieblicher Einsatz und logistische Betreuung technischer Flugsicherungssysteme
 - c) :: Leistungsnachweise
-  Die Kursteilnehmer haben während des Erlaubniskurses für die flugsicherungstechnische Inbetriebhaltung einen schriftlichen Leistungsnachweis mit einer Dauer von mindestens 45 und höchstens 60 Minuten in dem unter Buchstabe b aufgeführten Lehrfach �Technisches Englisch“ zu erbringen.
+  Die Kursteilnehmer haben während des Erlaubniskurses für die flugsicherungstechnische Inbetriebhaltung einen schriftlichen Leistungsnachweis mit einer Dauer von mindestens 45 und höchstens 60 Minuten in dem unter Buchstabe b aufgeführten Lehrfach Technisches Englisch“ zu erbringen.
 - d) :: Prüfung
   Die Prüfung soll mindestens 150 Minuten und höchstens 210 Minuten dauern.
 
@@ -1412,17 +1412,17 @@ Anlage 9 - (zu § 18 Abs. 1, den §§ 20 und 35 Abs. 2)Bewertung der Leistungen 
   Bei der Bewertung mündlicher Leistungen wird die in Nummer 1.2 festgelegte Zuordnung der Prozentanteile zu den Bewertungsstufen sinngemäß angewendet.
 - 1.4 :: Bewertung praktischer Leistungen
   Ein praktischer Leistungsnachweis wird entweder als einzelne praktische Simulationsübung in der grundlegenden Ausbildung mit einer Dauer von mindestens 60 Minuten oder als fortlaufende Beurteilung über einen festgelegten Beurteilungszeitraum (Phasenbericht) durchgeführt und in der grundlegenden Ausbildung von mindestens zwei Ausbildern, in der betrieblichen Ausbildung vom Trainingsteam, das mindestens aus der verantwortlichen Führungskraft und einem Ausbilder besteht, einvernehmlich bewertet.
-  Die Bewertung praktischer Leistungen erfolgt durch die Bewertung von einzelnen Leistungsmerkmalen, die für die jeweilige Tätigkeit als Fluglotse oder in einem Verwendungsbereich nach § 1 Nr. 2 einschlägig sind, mit den Bewertungsstufen nach Nummer 1.1 (Einzelleistungen). Die Einzelleistungen werden zu einer Gesamtleistung zusammengefasst. Für die Bewertung der Gesamtleistung mit der Bewertungsstufe �E“ oder �Ü“ müssen sämtliche Einzelleistungen mindestens mit der Bewertungsstufe �E“ bewertet sein.
-  In einer Berechtigungsprüfung wird das Prüfungsergebnis nur mit �bestanden“ oder �nicht bestanden“ bewertet; für die Bewertung wesentliche Tatsachen sind in die Prüfungsniederschrift aufzunehmen.
+  Die Bewertung praktischer Leistungen erfolgt durch die Bewertung von einzelnen Leistungsmerkmalen, die für die jeweilige Tätigkeit als Fluglotse oder in einem Verwendungsbereich nach § 1 Nr. 2 einschlägig sind, mit den Bewertungsstufen nach Nummer 1.1 (Einzelleistungen). Die Einzelleistungen werden zu einer Gesamtleistung zusammengefasst. Für die Bewertung der Gesamtleistung mit der Bewertungsstufe E“ oder Ü“ müssen sämtliche Einzelleistungen mindestens mit der Bewertungsstufe E“ bewertet sein.
+  In einer Berechtigungsprüfung wird das Prüfungsergebnis nur mit bestanden“ oder nicht bestanden“ bewertet; für die Bewertung wesentliche Tatsachen sind in die Prüfungsniederschrift aufzunehmen.
 - 1.5 :: Erbringen von Leistungsnachweisen, Bestehen von Teilprüfungen und Prüfungen
-  Ein Leistungsnachweis ist erbracht oder die Prüfung oder Teilprüfung zum Erwerb der Auszubildendenlizenz oder einer zusätzlichen Befugnis oder die Erlaubnisprüfung ist bestanden, wenn die Gesamtleistungen mit �Anforderungen übertroffen“ (Stufe Ü) oder �Anforderungen erfüllt“ (Stufe E) bewertet sind. Anderenfalls ist der Leistungsnachweis nicht erbracht oder die Teilprüfung oder die Erlaubnisprüfung nicht bestanden. Bei Nichtbestehen einer Teilprüfung ist auch die Gesamtprüfung nicht bestanden.
-  Eine Berechtigungsprüfung ist bestanden, wenn sie mit �bestanden“ bewertet ist (vgl. Nummer 1.4 letzter Satz).
+  Ein Leistungsnachweis ist erbracht oder die Prüfung oder Teilprüfung zum Erwerb der Auszubildendenlizenz oder einer zusätzlichen Befugnis oder die Erlaubnisprüfung ist bestanden, wenn die Gesamtleistungen mit Anforderungen übertroffen“ (Stufe Ü) oder Anforderungen erfüllt“ (Stufe E) bewertet sind. Anderenfalls ist der Leistungsnachweis nicht erbracht oder die Teilprüfung oder die Erlaubnisprüfung nicht bestanden. Bei Nichtbestehen einer Teilprüfung ist auch die Gesamtprüfung nicht bestanden.
+  Eine Berechtigungsprüfung ist bestanden, wenn sie mit bestanden“ bewertet ist (vgl. Nummer 1.4 letzter Satz).
 - 1.6 :: Ermittlung des Ergebnisses einer Prüfung aus den Ergebnissen der Teilprüfungen
-  Besteht die Prüfung zum Erwerb der Auszubildendenlizenz oder einer zusätzlichen Befugnis aus mehreren Teilprüfungen und sind alle Teilprüfungen bestanden, wird das Ergebnis der Prüfung mit der Stufe �Ü“ (Anforderungen übertroffen) angegeben, wenn alle Teilprüfungen mit �Ü“ bewertet sind. Anderenfalls wird das Ergebnis mit �E“ (Anforderungen erfüllt) eingestuft.
-  Ist eine Teilprüfung oder sind mehrere Teilprüfungen nicht bestanden (Bewertung mit �T“ oder �N“), wird das Ergebnis der Prüfung mit �nicht bestanden“ angegeben.
+  Besteht die Prüfung zum Erwerb der Auszubildendenlizenz oder einer zusätzlichen Befugnis aus mehreren Teilprüfungen und sind alle Teilprüfungen bestanden, wird das Ergebnis der Prüfung mit der Stufe Ü“ (Anforderungen übertroffen) angegeben, wenn alle Teilprüfungen mit Ü“ bewertet sind. Anderenfalls wird das Ergebnis mit E“ (Anforderungen erfüllt) eingestuft.
+  Ist eine Teilprüfung oder sind mehrere Teilprüfungen nicht bestanden (Bewertung mit T“ oder N“), wird das Ergebnis der Prüfung mit nicht bestanden“ angegeben.
 - 2. :: Leistungsnachweise und Prüfungen für flugsicherungstechnisches Personal nach § 1 Nr. 3
 - 2.1 :: Bewertung der Leistungen
-  Die Leistungen in den Leistungsnachweisen der grundlegenden und betrieblichen Ausbildung, in der Erlaubnisprüfung, in den Berechtigungsprüfungen und in den zugehörigen Teilprüfungen werden mit �bestanden“ oder �nicht bestanden“ bewertet.
+  Die Leistungen in den Leistungsnachweisen der grundlegenden und betrieblichen Ausbildung, in der Erlaubnisprüfung, in den Berechtigungsprüfungen und in den zugehörigen Teilprüfungen werden mit bestanden“ oder nicht bestanden“ bewertet.
   Bei der Bewertung schriftlicher Leistungen werden den für die Leistung maßgebenden Einzelanforderungen Leistungspunkte entsprechend ihrer Anzahl, Zusammensetzung und Schwierigkeit zugeteilt. Soweit eine Anforderung ganz oder teilweise erfüllt ist, wird die jeweilige Anzahl von Punkten vollständig oder anteilig der Leistung zugerechnet. Der Prozentanteil der Summe der erreichten Leistungspunkte an der erreichbaren Gesamtpunktzahl wird mit einer Dezimalstelle hinter dem Komma ohne Auf- oder Abrundung berechnet.
 - 2.2 :: Erbringen von Leistungsnachweisen, Bestehen von Teilprüfungen und Prüfungen, Ermittlung des Ergebnisses einer Prüfung aus den Ergebnissen der Teilprüfungen
   Ein Leistungsnachweis ist erbracht, wenn der Prozentanteil der Summe der erreichten Leistungspunkte an der erreichbaren Gesamtpunktzahl mindestens 70,0 % beträgt. Anderenfalls ist der Leistungsnachweis nicht erbracht.
@@ -1448,11 +1448,11 @@ Anlage 10 - (zu § 7 Abs. 2 und 6, § 47 Abs. 11)Anforderungen für das Tauglich
   Die Anerkennung berechtigt, auf der Grundlage von medizinischen Untersuchungen nach dieser Anlage Tauglichkeitszeugnisse auszustellen, die für die Ausübung von Tätigkeiten in der Flugverkehrskontrolle notwendig sind.
 - 1.3 :: Anerkannter Flugmediziner
   Die Aufsichtsbehörde kann approbierte und qualifizierte Ärzte als flugmedizinische Untersuchungsstellen anerkennen, wenn sie ihre Qualifizierung durch eine Zusatzausbildung nach Nummer 1.4 nachgewiesen haben. Die Anerkennung berechtigt sie, Untersuchungen für Tauglichkeitszeugnisse der Klasse 3 durchzuführen und diese Zeugnisse zu erteilen, die für die Ausübung von Tätigkeiten in der Flugverkehrskontrolle (FVK) notwendig sind. Die Anerkennung erfolgt auf der Grundlage einer gutachtlichen Stellungnahme eines flugmedizinischen Zentrums.
-  Soweit ein anerkannter Flugmediziner weiterführende Untersuchungen durch einen Facharzt anordnet, muss der ausgewählte Facharzt zuvor von der Aufsichtsbehörde bestätigt oder freigegeben werden (�anerkannter Facharzt“). Die Aufsichtsbehörde legt fest, welcher Informationen sie hierfür bedarf.
+  Soweit ein anerkannter Flugmediziner weiterführende Untersuchungen durch einen Facharzt anordnet, muss der ausgewählte Facharzt zuvor von der Aufsichtsbehörde bestätigt oder freigegeben werden (anerkannter Facharzt“). Die Aufsichtsbehörde legt fest, welcher Informationen sie hierfür bedarf.
 - 1.4 :: Ausbildung der anerkannten Flugmediziner
   Der anerkannte Flugmediziner muss sich der Bedeutung seines Auftrags und seiner Verantwortung umfassend bewusst sein. Die Fehleinschätzung der Tauglichkeit eines Bewerbers oder Lizenzinhabers, die es einer körperlich oder psychologisch untauglichen Person ermöglicht, die Rechte ihrer Lizenz auszuüben, kann schwerwiegende Auswirkungen auf die Sicherheit in der Flugverkehrskontrolle haben. Der anerkannte Flugmediziner muss ein ausgebildeter und approbierter Arzt mit entsprechender Zusatzausbildung im Bereich Flugmedizin sein. Anerkannte Flugmediziner haben praktische Kenntnisse und Erfahrungen im Arbeitsumfeld der Flugverkehrskontrolle zu erwerben. Die Anerkennung berechtigt, auf der Grundlage von medizinischen Untersuchungen nach dieser Anlage Tauglichkeitszeugnisse auszustellen, die für die Ausübung von Tätigkeiten in der Flugverkehrskontrolle notwendig sind. Voraussetzung für die Aufrechterhaltung der Anerkennung ist, dass der entsprechende Arzt die medizinischen Untersuchungen in Übereinstimmung mit den geltenden Regeln durchführt, die Ausgangsbedingungen für die Anerkennung erfüllt (z. B. Besitz des Zertifikats über einen Aufbaulehrgang in Flugmedizin -- JAR FCL3 oder Gleichwertiges --) und sein flugmedizinisches Wissen, z. B. durch die Teilnahme an Kursen, Seminaren, Erfahrungen in der Luftfahrt immer auf aktuellem Stand hält.
 - 1.4.1 :: Qualifizierungslehrgang für die (Tauglichkeits-)Bewertung Klasse 3
-  Der Qualifizierungslehrgang �(Tauglichkeits-)Bewertung Klasse 3“ (einschließlich praktischer Betätigung) für Ärzte, die die medizinische Untersuchung von Fluglotsen und Auszubildenden durchführen, sollte folgende Themen umfassen:
+  Der Qualifizierungslehrgang (Tauglichkeits-)Bewertung Klasse 3“ (einschließlich praktischer Betätigung) für Ärzte, die die medizinische Untersuchung von Fluglotsen und Auszubildenden durchführen, sollte folgende Themen umfassen:
   Luftverkehrsregeln und Luftfahrtgesetze, medizinische Themen, Psychologie, flugverkehrskontrollbezogene Themen wie Organisation und Struktur von Flugsicherungen und internationalen Organisationen, Kenntnisse über Lotsenarbeitsplätze und -aufgaben, Luftfahrtpsychologie mit Bezug auf Flugverkehrskontrolle, menschliche Faktoren in der Flugverkehrskontrolle einschließlich Team Resource Management (TRM) sowie aktuelle und zukünftige Flugverkehrskontroll-Systeme. Dieser Lehrgang sollte auch die Möglichkeit bieten, Erfahrungen in Flugverkehrskontroll-Simulationen zu sammeln. Er ist mit einer Prüfung abzuschließen.
 - 1.4.2 :: Auffrischungslehrgang
   Alle anerkannten Flugmediziner sollten regelmäßig an Auffrischungslehrgängen teilnehmen. Auffrischungslehrgänge sollten Vorträge über die Weiterentwicklung/Veränderungen in der Flugmedizin und im Arbeitsumfeld der Fluglotsen umfassen. Dies schließt die Teilnahme an wissenschaftlichen Treffen oder Konferenzen zur Flugmedizin ein. Praktische Übungen sollten einen wichtigen Bestandteil der Auffrischungslehrgänge darstellen.
@@ -1482,8 +1482,8 @@ Anlage 10 - (zu § 7 Abs. 2 und 6, § 47 Abs. 11)Anforderungen für das Tauglich
 
 Muster eines Tauglichkeitszeugnisses der Klasse 3:
 Deckblatt
-�
-�
+
+
 \\
 \\
 Bundesrepublik Deutschland\\
@@ -1514,8 +1514,8 @@ for European Class 3 Medical Certification\\
 of Air Traffic Controllers\\
 \\
 \\
-�
-�
+
+
 Seite 2
 |                                |                                                    |
 | \\                             | Hier ist eine Beschreibung aller Einschränkungen\\ |
@@ -1533,14 +1533,14 @@ Seite 2
 
 Seite 3
 Seite 4
-�
-�
+
+
 \\
  Klasse des Tauglichkeitszeugnisses/\\
  Class of Certificate\\
 \\
 ........... \\
-�
+
 \\
  Gültig bis/Expiry Date\\
 \\
@@ -1562,8 +1562,8 @@ Seite 4
 \\
 Siegel oder Stempel können elektronisch oder manuell\\
 eingefügt werden.
-�
-�
+
+
 Seiten 5 und 6
 Seiten 7 und 8
 Tauglichkeitszeugnis: Zusammenfassung der regelmäßigen Anforderungen/\\

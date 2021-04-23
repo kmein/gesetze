@@ -262,76 +262,76 @@ A.
 Toxische Chemikalien:
 1.
 O-Alkyl(<- C(tief)10 einschlieÃŸlich Cycloalkyl)-alkyl-(Me, Et, n-Pr oder i-Pr)-phosphonofluoride, z.B.
- 
- 
+
+
 Sarin: O-Isopropylmethylphosphonofluorid
 (107-44-8)
 Soman: O-Pinakolylmethylphosphonofluorid
 (96-64-0)
 2.
 O-Alkyl(<- C(tief)10 einschlieÃŸlich Cycloalkyl)-N,N-dialkyl (Me, Et, n-Pr oder i-Pr)-phosphoramidocyanide, z.B.
- 
- 
+
+
 Tabun: O-Ethyl-N,N-dimethylphosphoramidocyanid
 (77-81-6)
 3.
 O-Alkyl(H oder <- C(tief)10 einschlieÃŸlich Cycloalkyl)-S-2-dialkyl(Me, Et, n-Pr oder i-Pr)-aminoethylalkyl(Me, Et, n-Pr oder i-Pr)-phosphonothiolate sowie entsprechende alkylierte und protonierte Salze, z.B.
- 
- 
+
+
 VX: O-Ethyl-S-2-diisopropylaminoethylmethyl-phosphonothiolat
 (50782-69-9)
 4.
 Schwefelloste:
- 
- 
+
+
 2-Chlorethylchlormethylsulfid
 (2625-76-5)
- 
+
 Senfgas: Bis-(2-chlorethyl)-sulfid
 (505-60-2)
- 
+
 Bis-(2-chlorethylthio)-methan
 (63869-13-6)
- 
+
 Sesqui-Yperit (Q): 1,2-Bis-(2-chlorethylthio)-ethan
 (3563-36-8)
- 
+
 Bis-1,3-(2-chlorethylthio)-n-propan
 (63905-10-2)
- 
+
 Bis-1,4-(2-chlorethylthio)-n-butan
 (142868-93-7)
- 
+
 Bis-1,5-(2-chlorethylthio)-n-pentan
 (142868-94-8)
- 
+
 Bis-(2-chlorethylthiomethyl)-ether
 (63918-90-1)
- 
+
 O-Lost: Bis-(2-chlorethylthioethyl)-ether
 (63918-89-8)
 5.
 Lewisite:
- 
- 
+
+
 Lewisit 1: 2-Chlorvinyldichlorarsin
 (541-25-3)
- 
+
 Lewisit 2: Bis-(2-chlorvinyl)-chlorarsin
 (40334-69-8)
- 
+
 Lewisit 3: Tris-(2-chlorvinyl)-arsin
 (40334-70-1)
 6.
 Stickstoffloste
- 
- 
+
+
 HN1: Bis-(2-chlorethyl)-ethylamin
 (538-07-8)
- 
+
 HN2: Bis-(2-chlorethyl)-methylamin
 (51-75-2)
- 
+
 HN3: Tris-(2-chlorethyl)-amin
 (555-77-1)
 7.
@@ -344,25 +344,25 @@ Ricin
 P-Alkyl (H oder â‰¤ C_{10} einschlieÃŸlich Cycloalkyl)-N-(1-(dialkyl(â‰¤ C_{10} einschlieÃŸlich\\
 Cycloalkyl)amino))alkyliden(H oder â‰¤ C_{10} einschlieÃŸlich Cycloalkyl)phosphonamidofluoride\\
 sowie entsprechende alkylierte und protonierte Salze, z.B.
- 
- 
+
+
 P-n-Decyl-N-(1-(di-n-decylamino)-n-decyliden)phosphonamidofluorid
 (2387495-99-8)
- 
+
 P-Methyl-N-(1-(diethylamino)ethyliden)phosphonamidofluorid
 (2387496-12-8)
 14.
 O-Alkyl (H oder â‰¤ C_{10} einschlieÃŸlich Cycloalkyl)-N-(1-(dialkyl(â‰¤ C_{10} einschlieÃŸlich\\
 Cycloalkyl)amino))alkyliden(H oder â‰¤ C_{10} einschlieÃŸlich Cycloalkyl)phosphoramidofluoride\\
 sowie entsprechende alkylierte und protonierte Salze, z.B.
- 
- 
+
+
 O-n-Decyl-N-(1-(di-n-decylamino)-n-decyliden)phosphoramidofluorid
 (2387496-00-4)
- 
+
 O-Methyl-N-(1-(diethylamino)ethyliden)phosphoramidofluorid
 (2387496-04-8)
- 
+
 O-Ethyl-N-(1-(diethylamino)ethyliden)phosphoramidofluorid
 (2387496-06-0)
 15.
@@ -373,18 +373,18 @@ Carbamate (quaternÃ¤re und bisquaternÃ¤re Dimethylcarbamoyloxypyridine)\\
 QuaternÃ¤re Dimethylcarbamoyloxypyridine:\\
 1-[N,N-Dialkyl(â‰¤ C_{10})-N-(x-(hydroxy, cyano, acetoxy)alkyl(â‰¤ C_{10})) ammonio]- 10-[N-(3-dimethylcarbamoyloxy-Î±-picolinyl)-N,N-dialkyl(â‰¤ C_{10}) ammonio]-\\
 n-decan-dibromide (x = 1-8) z.B.
- 
- 
+
+
 1-[N,N-Dimethyl-N-(2-hydroxy)ethylammonio]-\\
 10-[N-(3-dimethylcarbamoyloxy-Î±-picolinyl)-N,N-dimethylammonio]-\\
 n-decan-dibromid
 (77104-62-2)
- 
+
 BisquaternÃ¤re Dimethylcarbamoyloxypyridine:\\
 1,x-Bis[N-(3-dimethylcarbamoyloxy-Î±-picolinyl)-N,N-dialkyl(â‰¤ C_{10}) ammonio]-\\
 n-alkan-(2,(x-1)-dion)-dibromide (x = 2-12) z.B.
- 
- 
+
+
 1,10-Bis[N-(3-dimethylcarbamoyloxy-Î±-picolinyl)-N-ethyl-N-methylammonio]-\\
 n-decan-2,9-dion-dibromid
 (77104-00-8)
@@ -392,17 +392,17 @@ B.
 Ausgangsstoffe:
 9.
 Alkyl(Me, Et, n-Pr oder i-Pr)-phosphonsÃ¤uredifluoride, z.B.
- 
- 
+
+
 DF: MethylphosphonsÃ¤uredifluorid
 (676-99-3)
 10.
 O-Alkyl(H oder <- C(tief)10 einschlieÃŸlich Cycloalkyl)-O-2-Dialkyl(Me, Et, n-Pr oder i-Pr)-aminoethyl-alkyl(Me, Et, n-Pr oder i-Pr)-phosphonite und entsprechende alkylierte und protonierte Salze, z.B.
- 
- 
+
+
 QL: O-Ethyl-O-2-diisopropylaminoethyl-methylphosphonit
 (57856-11-8)
- 
+
 Registriernummer nach
 Chemical Abstracts Service
 (CAS-Nummer)
@@ -412,7 +412,7 @@ Chlor-Sarin: O-Isopropylmethylphosphonochlorid
 12.
 Chlor-Soman: O-Pinakolylmethylphosphonochlorid
 (7040-57-5)
- 
+
 Liste 2
 A.
 Toxische Chemikalien:
@@ -429,25 +429,25 @@ B.
 Ausgangsstoffe:
 4.
 Chemikalien, mit Ausnahme der in Liste 1 genannten, die ein Phosphoratom enthalten, an das eine Methyl-, Ethyl- oder Propyl-(Normal- oder Iso-)Gruppe gebunden ist, jedoch keine weiteren Kohlenstoffatome, z.B.
- 
- 
+
+
 MethylphosphonsÃ¤uredichlorid
 (676-97-1)
- 
+
 Dimethylmethylphosphonat
 (756-79-6)
- 
+
 Ausnahme:
- 
- 
+
+
 Fonofos: O-Ethyl-S-phenyl-ethyldithiophosphonat
 (944-22-9)
 5.
 N,N-Dialkyl(Me, Et, n-Pr oder i-Pr)-phosphoramid-dihalogenide
- 
+
 6.
 Dialkyl(Me, Et, n-Pr oder i-Pr)-N,N-dialkyl(Me, Et, n-Pr oder i-Pr)-phosphoramidate
- 
+
 7.
 Arsentrichlorid
 (7784-34-1)
@@ -459,29 +459,29 @@ Chinuclidin-3-ol
 (1619-34-7)
 10.
 N,N-Dialkyl(Me, Et, n-Pr oder i-Pr)-aminoethyl-2-chloride und entsprechende protonierte Salze
- 
+
 11.
 N,N-Dialkyl(Me, Et, n-Pr oder i-Pr)-aminoethan-2-ol und entsprechende protonierte Salze
- 
- 
+
+
 Ausnahmen:
- 
- 
+
+
 N-N-Dimethylaminoethanol und entsprechende protonierte Salze
 (108-01-0)
- 
+
 N-N-Diethylaminoethanol und entsprechende protonierte Salze
 (100-37-8)
 12.
 N,N-Dialkyl(Me, Et, n-Pr oder i-Pr)-aminoethan-2-thiol und entsprechende protonierte Salze
- 
+
 13.
 Thiodiglykol: Bis-(2-hydroxyethyl)-sulfid
 (111-48-8)
 14.
 Pinakolylalkohol: 3,3-Dimethylbutan-2-ol
 (464-07-3)
- 
+
 Liste 3
 A.
 Toxische Chemikalien:

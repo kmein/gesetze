@@ -6,9 +6,9 @@ Ausfertigungsdatum: 12.05.2017
 
 Inhaltsübersicht
 
-�
-�
-�
+
+
+
 
 § 1 - Feststellungsantrag
 
@@ -50,7 +50,7 @@ Die Auferlegung einer Eignungsprüfung gilt als Entscheidung nach Absatz 1 Satz 
 - 2. :: worin die Unterschiede nach Absatz 3 Satz 1 Nummer 1 liegen und warum diese nicht nach Absatz 3 Satz 1 Nummer 2 als ausgeglichen anzusehen sind.
 
 (5) Wer die Voraussetzungen des § 1 unmittelbar erfüllt oder die Eignungsprüfung besteht, erhält hierüber vom Deutschen Patent- und Markenamt eine Bescheinigung und wird nach den §§ 13 bis 34 und 41b bis 41d Absatz 1, 4 und 5 der Patentanwaltsordnung von der Patentanwaltskammer zur Patentanwaltschaft zugelassen.
-(6) Wer über eine Bescheinigung nach Absatz 5 verfügt, ist berechtigt, die Bezeichnung �Patentassessor“ oder �Patentassessorin“ zu führen.
+(6) Wer über eine Bescheinigung nach Absatz 5 verfügt, ist berechtigt, die Bezeichnung Patentassessor“ oder Patentassessorin“ zu führen.
 (+++ § 2: Zur Anwendung vgl. § 12 Abs. 2 +++)
 
 § 3 - Zweck der Eignungsprüfung
@@ -143,7 +143,7 @@ erforderlich sind, genügen Bescheinigungen des Heimat- oder Herkunftsstaates, d
 § 13 - Dienstleistender europäischer Patentanwalt
 
 (1) Natürliche Personen, die in einem anderen Mitgliedstaat zur Ausübung des Berufs des Patentanwalts rechtmäßig niedergelassen sind, dürfen die Tätigkeiten eines Patentanwalts in Deutschland vorübergehend und gelegentlich ausüben (dienstleistender europäischer Patentanwalt). Ob die Tätigkeiten vorübergehend und gelegentlich erbracht werden, ist im Einzelfall insbesondere anhand der Dauer, der Häufigkeit, der regelmäßigen Wiederkehr und der Kontinuität der Dienstleistung zu beurteilen.
-(2) Der dienstleistende europäische Patentanwalt hat seine Tätigkeit unter der in seinem Niederlassungsstaat geltenden Berufsbezeichnung zu erbringen. Eine Verwechslung mit der Berufsbezeichnung �Patentanwalt“ oder �Patentanwältin“ muss ausgeschlossen sein. Die Bezeichnung �europäischer Patentanwalt“ darf als Berufsbezeichnung und in der Werbung nicht verwendet werden.
+(2) Der dienstleistende europäische Patentanwalt hat seine Tätigkeit unter der in seinem Niederlassungsstaat geltenden Berufsbezeichnung zu erbringen. Eine Verwechslung mit der Berufsbezeichnung Patentanwalt“ oder Patentanwältin“ muss ausgeschlossen sein. Die Bezeichnung europäischer Patentanwalt“ darf als Berufsbezeichnung und in der Werbung nicht verwendet werden.
 
 § 14 - Berufserfahrung
 
@@ -208,7 +208,7 @@ Ein europäischer Patentanwalt, der in einem anderen Mitgliedstaat, in dem der B
 
 (1) Dem Antrag auf Aufnahme in die Patentanwaltskammer ist eine Bescheinigung der im Herkunftsstaat der antragstellenden Person zuständigen Behörde darüber beizufügen, dass die Person in diesem Staat als Patentanwalt niedergelassen ist. Eine solche Bescheinigung ist der Patentanwaltskammer jährlich neu vorzulegen. Kommt der niedergelassene europäische Patentanwalt der Pflicht nach Satz 2 nicht nach, ist die Aufnahme in die Patentanwaltskammer zu widerrufen. Zudem gilt § 4 Absatz 2 des Gesetzes über die Tätigkeit europäischer Rechtsanwälte in Deutschland entsprechend.
 (2) Für die Entscheidung über den Antrag auf Aufnahme in die Patentanwaltskammer, für die Rechtsstellung des niedergelassenen europäischen Patentanwalts nach der Aufnahme sowie für die Rücknahme und den Widerruf der Aufnahme gelten mit Ausnahme der §§ 5 bis 13, 18 Absatz 2 Nummer 1 und Absatz 4 sowie der §§ 19 und 24 der Zweite bis Vierte Teil, der Dritte Abschnitt des Fünften Teils sowie der Sechste bis Achte Teil der Patentanwaltsordnung sinngemäß sowie die aufgrund von § 29 Absatz 5 der Patentanwaltsordnung erlassene Rechtsverordnung. An die Stelle der Ausschließung aus der Patentanwaltschaft nach § 96 Absatz 1 Nummer 4 der Patentanwaltsordnung tritt der Verlust der Mitgliedschaft. Vorläufige Berufs- oder Vertretungsverbote nach § 132 Absatz 1 Satz 1 der Patentanwaltsordnung sind für das Bundesgebiet auszusprechen.
-(3) Der niedergelassene europäische Patentanwalt hat bei der Führung seiner Berufsbezeichnung den Herkunftsstaat in deutscher Sprache anzugeben. Wurde er als Syndikuspatentanwalt in die Patentanwaltskammer aufgenommen, hat er der Berufsbezeichnung zudem die Bezeichnung �Syndikus“ in Klammern nachzustellen. Der niedergelassene europäische Patentanwalt ist berechtigt, im beruflichen Verkehr die Bezeichnung �Mitglied der Patentanwaltskammer“ zu verwenden. Die Bezeichnung �europäischer Patentanwalt“ darf als Berufsbezeichnung und in der Werbung nicht verwendet werden.
+(3) Der niedergelassene europäische Patentanwalt hat bei der Führung seiner Berufsbezeichnung den Herkunftsstaat in deutscher Sprache anzugeben. Wurde er als Syndikuspatentanwalt in die Patentanwaltskammer aufgenommen, hat er der Berufsbezeichnung zudem die Bezeichnung Syndikus“ in Klammern nachzustellen. Der niedergelassene europäische Patentanwalt ist berechtigt, im beruflichen Verkehr die Bezeichnung Mitglied der Patentanwaltskammer“ zu verwenden. Die Bezeichnung europäischer Patentanwalt“ darf als Berufsbezeichnung und in der Werbung nicht verwendet werden.
 
 § 22 - Ergänzende Anwendung des Verwaltungsverfahrensgesetzes
 

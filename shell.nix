@@ -10,11 +10,19 @@ pkgs.mkShell {
   buildInputs = [
     (pkgs.writers.writeBashBin "generate" ''
       > index.md
-      ${recht}/bin/recht list | ${pkgs.ansifilter}/bin/ansifilter | while read -r law; do
+
+      ${recht}/bin/recht list \
+      | ${pkgs.ansifilter}/bin/ansifilter \
+      | ${pkgs.libiconv}/bin/iconv -t utf8//IGNORE \
+      | while read -r law; do
         law_title="''${law##*] }"
         law_abbreviation="$(echo $law | ${pkgs.gnugrep}/bin/grep -o '^\[.*]' | ${pkgs.gnused}/bin/sed 's/[][]//g')"
         law_path="laws/''${law_abbreviation//\//_}.txt"
-        ${recht}/bin/recht get "$law" | ${pkgs.ansifilter}/bin/ansifilter > "$law_path"
+
+        ${recht}/bin/recht get "$law_abbreviation" \
+        | ${pkgs.ansifilter}/bin/ansifilter \
+        | ${pkgs.libiconv}/bin/iconv -t utf8//IGNORE > "$law_path"
+
         echo "- [$law_abbreviation](''${law_path// /%20}) $law_title" | tee -a index.md
       done
     '')

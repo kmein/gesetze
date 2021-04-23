@@ -7,23 +7,23 @@ Ausfertigungsdatum: 07.10.1959
 Inhaltsverzeichnis
 
 ABSCHNITT A: ALLGEMEINES
-†
-†
-†
+
+
+
 a)
 Geltungsbereich und Zust√§ndigkeiten
-†
-†
-†
+
+
+
 b)
 Begriffsbestimmungen
-†
+
 ABSCHNITT B: DIE SIGNALE
-†
-†
+
+
 I.
 Hauptsignale (Hp)
-†
+
 Halt
 Signal Hp 0
 Fahrt
@@ -32,20 +32,20 @@ Langsamfahrt
 Signal Hp 2
 (weggefallen)
 Signal Hp 00
-†
+
 II.
 Vorsignale (Vr)
-†
+
 Zughalt erwarten
 Signal Vr 0
 Fahrt erwarten
 Signal Vr 1
 Langsamfahrt erwarten
 Signal Vr 2
-†
+
 III.
 Haupt- und Vorsignalverbindungen (Sv)
-†
+
 Zughalt! Weiterfahrt auf Sicht
 Signal Sv 0
 Fahrt! Fahrt erwarten
@@ -60,10 +60,10 @@ Langsamfahrt! Langsamfahrt erwarten
 Signal Sv 5
 Langsamfahrt! Halt erwarten
 Signal Sv 6
-†
+
 IV.
 Zusatzsignale (Zs)
-†
+
 Ersatzsignal
 Signal Zs 1
 Richtungsanzeiger
@@ -84,20 +84,20 @@ Vorsichtsignal
 Signal Zs 7
 Falschfahrt-Auftragssignal
 Signal Zs 8
-†
+
 V.
 Signale f√ºr Schiebelokomotiven und Sperrfahrten (Ts)
-†
+
 Nachschieben einstellen
 Signal Ts 1
 Halt f√ºr zur√ºckkehrende Schiebelokomotiven und Sperrfahrten
 Signal Ts 2
 Weiterfahrt f√ºr zur√ºckkehrende Schiebelokomotiven und Sperrfahrten
 Signal Ts 3
-†
+
 VI.
 Langsamfahrsignale (Lf)
-†
+
 Langsamfahrscheibe
 Signal Lf 1
 Anfangscheibe
@@ -112,10 +112,10 @@ Geschwindigkeits-Ank√ºndesignal
 Signal Lf 6
 Geschwindigkeitssignal
 Signal Lf 7
-†
+
 VII.
 Schutzsignale (Sh)
-†
+
 Halt! Fahrverbot
 Signal Sh 0
 Fahrverbot aufgehoben
@@ -128,15 +128,15 @@ Signal Sh 3
 Signal Sh 4
 Horn- und Pfeifsignal
 Signal Sh 5
-†
+
 VIII.
 Signale f√ºr den Rangierdienst (Ra)
-†
-†
-†
+
+
+
 A.
 Rangiersignale
-†
+
 Wegfahren
 Signal Ra 1
 Herkommen
@@ -147,11 +147,11 @@ Absto√üen
 Signal Ra 4
 Rangierhalt
 Signal Ra 5
-†
-†
+
+
 B.
 Abdr√ºcksignale
-†
+
 Halt! Abdr√ºcken verboten
 Signal Ra 6
 Langsam Abdr√ºcken
@@ -160,11 +160,11 @@ M√§√üig schnell abdr√ºcken
 Signal Ra 8
 Zur√ºckziehen
 Signal Ra 9
-†
-†
+
+
 C.
 Sonstige Signale f√ºr den Rangierdienst
-†
+
 Rangierhalttafel
 Signal Ra 10
 Wartezeichen
@@ -173,20 +173,20 @@ Grenzzeichen
 Signal Ra 12
 Isolierzeichen
 Signal Ra 13
-†
+
 IX.
 Weichensignale (Wn)
-†
-†
-†
+
+
+
 Signale f√ºr einfache Weichen und einfache Kreuzungsweichen
-†
+
 Gerader Zweig
 Signal Wn 1
 Gebogener Zweig
 Signal Wn 2
 Signale f√ºr doppelte Kreuzungsweichen
-†
+
 Gerade von links nach rechts
 Signal Wn 3
 Gerade von rechts nach links
@@ -195,15 +195,15 @@ Bogen von links nach links
 Signal Wn 5
 Bogen von rechts nach rechts
 Signal Wn 6
-†
+
 X.
 Signale f√ºr das Zugpersonal (Zp)
-†
-†
-†
+
+
+
 A.
 Signale des Triebfahrzeugf√ºhrers
-†
+
 Achtungssignal
 Signal Zp 1
 Handbremsen m√§√üig anziehen
@@ -214,48 +214,48 @@ Handbremsen l√∂sen
 Signal Zp 4
 Notsignal
 Signal Zp 5
-†
-†
+
+
 B.
 Bremsprobesignale
-†
+
 Bremse anlegen
 Signal Zp 6
 Bremse l√∂sen
 Signal Zp 7
 Bremse in Ordnung
 Signal Zp 8
-†
-†
+
+
 C.
 Abfahrsignal
-†
+
 Abfahren
 Signal Zp 9
-(weggefallen) ¬††
+(weggefallen) ¬†
 Signal Zp 10
-†
-†
+
+
 D.
 Rufsignale
-†
+
 Kommen
 Signal Zp 11
 Grenzzeichenfrei
 Signal Zp 12
-†
-†
+
+
 E.
-†
-†
-†
-†
+
+
+
+
 (weggefallen)
-†
-†
+
+
 XI.
 Fahrleitungssignale (El)
-†
+
 Ausschaltsignal
 Signal El 1
 Einschaltsignal
@@ -268,10 +268,10 @@ Signal El 4
 Signal El 5
 Halt f√ºr Fahrzeuge mit gehobenen Stromabnehmern
 Signal El 6
-†
+
 XII.
 Signale an Z√ºgen (Zg)
-†
+
 Spitzensignal
 Signal Zg 1
 Schlu√üsignal
@@ -280,10 +280,10 @@ Signal Zg 2
 Signal Zg 3
 (weggefallen)
 Signal Zg 4
-†
+
 XIII.
 Signale an einzelnen Fahrzeugen (Fz)
-†
+
 Rangierlokomotivsignal
 Signal Fz 1
 Gelbe Fahne
@@ -292,19 +292,19 @@ Signal Fz 2
 Signal Fz 3
 (weggefallen)
 Signal Fz 4
-†
+
 XIV.
-†
-†
-†
-†
-†
+
+
+
+
+
 (weggefallen)
-†
-†
+
+
 XV.
 Rottenwarnsignale (Ro)
-†
+
 Vorsicht! Im Nachbargleis n√§hern sich Fahrzeuge
 Signal Ro 1
 Arbeitsgleise r√§umen
@@ -313,10 +313,10 @@ Arbeitsgleise schnellstens r√§umen
 Signal Ro 3
 Fahnenschild
 Signal Ro 4
-†
+
 XVI.
 Nebensignale (Ne)
-†
+
 Trapeztafel
 Signal Ne 1
 Vorsignaltafel
@@ -341,10 +341,10 @@ Signal Ne 10
 Signal Ne 11
 (weggefallen)
 Signal Ne 12
-†
+
 XVII.
 Signale f√ºr Bahn√ºberg√§nge (B√º)
-†
+
 Halt vor dem Bahn√ºbergang! Weiterfahrt nach Sicherung
 Signal B√º 0
 Der Bahn√ºbergang darf befahren werden
@@ -358,25 +358,25 @@ Signal B√º 4
 L√§utetafel
 Signal B√º 5
 ABSCHNITT C: K√úNFTIG WEGFALLENDE SIGNALE
-†
-†
+
+
 1.
 Allgemeine Bestimmungen
-†
-†
+
+
 2.
 Von den Bestimmungen in Abschnitt B abweichende Signale
-†
-†
+
+
 I.
 Signale an Z√ºgen (Zg)
-†
+
 Vereinfachtes Schlu√üsignal
 Signal Zg 102
-†
+
 II.
 Signale f√ºr Bahn√ºberg√§nge (B√º)
-†
+
 Halt vor dem Bahn√ºbergang! Weiterfahrt nach Sicherung
 Signal B√º 100
 Der Bahn√ºbergang darf befahren werden
@@ -385,18 +385,18 @@ Rautentafel
 Signal B√º 102
 Merktafel
 Signal B√º 103
-†
+
 III.
 bis V.
-†
-†
-†
+
+
+
 (weggefallen)
-†
-†
+
+
 3.
 Im Abschnitt B nicht enthaltene Signale
-†
+
 Gefahranstrich
 Signal Ne 8
 (weggefallen)

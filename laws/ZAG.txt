@@ -6,30 +6,30 @@ Ausfertigungsdatum: 17.07.2017
 
 InhaltsÃ¼bersicht
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Â§ 1 - Begriffsbestimmungen
 
@@ -701,7 +701,7 @@ Zahlungsinstitute, die lediglich als Kontoinformationsdienstleister registriert 
 - 2. :: der Zahler dem kontofÃ¼hrenden Zahlungsdienstleister seine ausdrÃ¼ckliche Zustimmung erteilt hat, den Ersuchen eines bestimmten kartenausgebenden Zahlungsdienstleisters um BestÃ¤tigung der VerfÃ¼gbarkeit des Geldbetrags, der einem bestimmten kartengebundenen Zahlungsvorgang entspricht, auf dem Zahlungskonto des Zahlers nachzukommen und
 - 3. :: die Zustimmung nach Nummer 2 vor Eingang des ersten Ersuchens erteilt worden ist.
 
-(2) Die Antwort des kontofÃ¼hrenden Zahlungsdienstleisters auf das Ersuchen darf keine Mitteilung des Kontostandes des Zahlers enthalten und besteht ausschlieÃJaâ€œ oder â€Neinâ€œ.
+(2) Die Antwort des kontofÃ¼hrenden Zahlungsdienstleisters auf das Ersuchen darf keine Mitteilung des Kontostandes des Zahlers enthalten und besteht ausschlieJaâ€œ oder Neinâ€œ.
 (3) Die BestÃ¤tigung nach Absatz 1 erlaubt es dem kontofÃ¼hrenden Zahlungsdienstleister nicht, einen Geldbetrag auf dem Zahlungskonto des Zahlers zu sperren.
 
 Â§ 46 - Rechte und Pflichten des kartenausgebenden Zahlungsdienstleisters

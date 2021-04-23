@@ -22,7 +22,7 @@ Berufsberatung
 Erstattung von Aufwendungen für die Berufsberatung
 § 3
 Förderungsplan
-�
+
 Teil 2
 Dienstzeitbegleitende Förderung der schulischen und beruflichen Bildung nach § 4 des Soldatenversorgungsgesetzes
 § 4
@@ -33,7 +33,7 @@ Durchführung der dienstzeitbegleitenden Förderung
 Erstattung von Kosten
 § 7
 Bestandteile der Bewilligungen nach § 4 des Soldatenversorgungsgesetzes
-�
+
 Teil 3
 Förderung der schulischen Bildung nach § 5 des Soldatenversorgungsgesetzes
 § 8
@@ -50,7 +50,7 @@ Kosten der Lehrgangsteilnahme
 Form und Fristen
 § 14
 Versetzung und Prüfung
-�
+
 Teil 4
 Förderung der beruflichen Bildung nach § 5 des Soldatenversorgungsgesetzes
 § 15
@@ -83,10 +83,10 @@ Verbrauch und Verlängerung der Förderungszeiten
 Pflichten der Förderungsberechtigten
 § 29
 Bestandteile der Bewilligungen nach § 5 des Soldatenversorgungsgesetzes
-�
-�
+
+
 Teil 5
-�
+
 Eingliederung nach § 7 des Soldatenversorgungsgesetzes
 § 30
 Unterstützung zur Erlangung eines Arbeitsplatzes
@@ -108,7 +108,7 @@ Erstattung von Kosten für fachberufliche Prüfungen und für Umschreibungen mil
 Eingliederungsseminar nach § 7 Absatz 8 des Soldatenversorgungsgesetzes
 § 37
 Ausstellen von Bescheinigungen und Nachweisen zur zivilberuflichen Anerkennung militärischer Ausbildung und Verwendung
-�
+
 Teil 6
 Schlussvorschriften
 § 38
@@ -365,7 +365,7 @@ Sonstige Kosten dürfen nur mit Zustimmung des Bundesministeriums der Verteidigu
 (2) Kosten nach Absatz 1 Satz 1 Nummer 1 und 2 werden grundsätzlich nur bis zu folgenden Höchstbeträgen erstattet:\\
 \\
 
-�
+
 
 Dauer der Förderung\\
 nach § 5 Absatz 4\\
@@ -376,7 +376,7 @@ in Monaten
 Höchstbetrag\\
 in Euro
 
-�
+
 
  1
 

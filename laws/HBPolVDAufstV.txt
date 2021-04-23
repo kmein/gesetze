@@ -6,17 +6,17 @@ Ausfertigungsdatum: 31.03.2021
 
 InhaltsÃ¼bersicht
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
+
 
 Â§ 1 - Geltungsbereich
 
@@ -34,7 +34,7 @@ Die Ausbildung hat folgende Ziele:
 Â§ 3 - Bewertung der Leistungen in der Ausbildung und in der AbschlussprÃ¼fung
 
 (1) Die Leistungen der Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten in der Ausbildung und in der AbschlussprÃ¼fung werden wie folgt bewertet:
- 
+
 Prozentualer Anteil der\\
 erreichten Punktzahl\\
 an der erreichbaren\\
@@ -43,7 +43,7 @@ Rangpunkte oder\\
 Rangpunktzahl
 Note
 Notendefinition
- 
+
 1
 2
 3

@@ -233,13 +233,13 @@ Anlage 3 - (zu § 5 Absatz 1, § 6 Absatz 1, § 7 Absatz 1 und § 9 Absatz 1)Fac
   Modul
 - 3. :: Gleichwertigkeit mit Fachkunde-Modul Teil B\\
   \\
-  Die erfolgreiche Teilnahme an einer Schulung mit dem Lerninhalt des Moduls �Grundlagen der Haut und deren Anhangsgebilde“ ist nicht erforderlich, wenn eine Person
+  Die erfolgreiche Teilnahme an einer Schulung mit dem Lerninhalt des Moduls Grundlagen der Haut und deren Anhangsgebilde“ ist nicht erforderlich, wenn eine Person
   - 1. :: eine staatlich anerkannte Berufsausbildung zum Kosmetiker/zur Kosmetikerin erfolgreich absolviert hat,
   - 2. :: einen Bildungsgang staatlich geprüfter Kosmetiker/staatlich geprüfte Kosmetikerin erfolgreich absolviert hat,
   - 3. :: die Meisterprüfung im Kosmetikgewerbe erfolgreich absolviert hat oder
   - 4. :: am 5. Dezember 2021 über eine berufliche Praxis im Kosmetikgewerbe von mindestens fünf Jahren verfügt.
 
-�
+
 Lerninhalte (Mindestanzahl LE 80)
 
 - 1. :: Anatomie
@@ -252,7 +252,7 @@ Lerninhalte (Mindestanzahl LE 80)
 - 8. :: Praktikum
 - 9. :: Prüfung
 
-�
+
 Lerninhalte (Mindestanzahl LE 120)
 
 - 1. :: Gesetzliche Grundlagen
@@ -270,7 +270,7 @@ Lerninhalte (Mindestanzahl LE 120)
 - 13. :: Selbständige Durchführung von unterschiedlichen Anwendungen unter fachärztlicher Aufsicht
 - 14. :: Prüfung
 
-�
+
 Lerninhalte (Mindestanzahl LE 40)
 
 - 1. :: Gesetzliche Grundlagen
@@ -287,7 +287,7 @@ Lerninhalte (Mindestanzahl LE 40)
 - 12. :: Selbständige Durchführung von unterschiedlichen Anwendungen unter fachärztlicher Aufsicht
 - 13. :: Prüfung
 
-�
+
 Voraussetzung für die Teilnahme an diesem Modul ist der Nachweis einer Lizenz als Übungsleiterin/Übungsleiter mit einer Ausbildung von mindestens 120 Lerneinheiten oder mindestens einer C-Lizenz als Trainerin/Trainer mit einer Ausbildung von mindestens 120 Lerneinheiten oder einer vergleichbaren Ausbildung. Nachweise aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum über die Erfüllung der Anforderungen nach Teil E stehen inländischen Nachweisen gleich, wenn aus ihnen hervorgeht, dass die betreffenden Anforderungen oder die auf Grund ihrer Zielsetzung im Wesentlichen vergleichbaren Anforderungen des Ausstellungsstaates erfüllt sind. Unterlagen nach Satz 2 sind auf Verlangen im Original oder in Kopie vorzulegen. Eine Beglaubigung der Kopie sowie eine beglaubigte deutsche Übersetzung können verlangt werden.
 Lerninhalte (Mindestanzahl LE 24)
 
@@ -304,7 +304,7 @@ Lerninhalte (Mindestanzahl LE 24)
 - 11. :: Selbständige Durchführung von unterschiedlichen Anwendungen unter fachärztlicher Aufsicht
 - 12. :: Prüfung
 
-�
+
 Lerninhalte (Mindestanzahl LE 40)
 
 - 1. :: Gesetzliche Grundlagen

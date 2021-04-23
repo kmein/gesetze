@@ -48,34 +48,34 @@ Ohne eine entsprechende völkerrechtliche Vereinbarung dürfen weder KWK-Anlagen
 
 Im Sinne dieses Gesetzes ist oder sind
 
-- 1. :: �Abnahmestelle“ die Summe aller räumlich und physikalisch zusammenhängenden elektrischen Einrichtungen eines Letztverbrauchers, die sich auf einem in sich abgeschlossenen Betriebsgelände befinden und über einen oder mehrere Entnahmepunkte mit dem Netz des Netzbetreibers verbunden sind, sie muss über eigene Stromzähler an allen Entnahmepunkten und Eigenversorgungsanlagen verfügen,
-- 2. :: �Anlagenteile“ die betriebsnotwendigen Komponenten einer Anlage,
-- 3. :: �Anzahl der Vollbenutzungsstunden“ der Quotient aus der jährlichen zuschlagberechtigten KWK-Nettostromerzeugung und der maximalen KWK-Nettostromerzeugung im Auslegungszustand während einer Betriebsstunde unter normalen Einsatzbedingungen,
-- 4. :: �Ausbau eines Wärmenetzes“ die Erweiterung eines bestehenden Wärmenetzes zum Anschluss bisher nicht durch Wärmenetze versorgter Abnehmender durch die Errichtung neuer Wärmenetzbestandteile mit allen Komponenten, die zur Übertragung von Wärme vom bestehenden Wärmenetz bis zum Verbraucherabgang erforderlich sind,
-- 4a. :: �Ausschreibung“ ein transparentes, diskriminierungsfreies und wettbewerbliches Verfahren zur Bestimmung des Anspruchsberechtigten und der Zuschlagzahlung oder der Höhe der finanziellen Förderung,
-- 4b. :: �Ausschreibungsvolumen“ die Summe der installierten Leistung, für die der Anspruch auf eine Zuschlagzahlung nach § 8a oder eine finanzielle Förderung nach § 8b zu einem Gebotstermin ausgeschrieben wird,
-- 4c. :: �Ausschreibungszuschlag“ der im Rahmen einer Ausschreibung erteilte Zuschlag,
-- 5. :: �Baubeginn“ die erste Handlung, die unmittelbar der Verwirklichung des Vorhabens auf dem jeweiligen Baugrundstück dient,
-- 6. :: �Betreiber von KWK-Anlagen“ diejenigen, die den KWK-Strom erzeugen und das wirtschaftliche Risiko für den Betrieb der KWK-Anlagen tragen,
-- 6a. :: �Dampfnetze“ Einrichtungen zur leitungsgebundenen Versorgung einer Mehrzahl von Produktionsprozessen mit Prozessdampf und industrieller Abwärme, aus mindestens einer KWK-Anlage und einem externen Einspeiser im Sinn des § 2 Nummer 9,
-- 6b. :: �Dampfsammelschienen“ Einrichtungen zur leitungsgebundenen Versorgung mit Dampf, an denen mindestens zwei Dampferzeuger und eine Dampfturbine oder ein Dampferzeuger und zwei Dampfturbinen angeschlossen sind; keine Dampfturbinen in diesem Sinn sind Dampfentspannungseinrichtungen sowie Endkundenanlagen,
-- 6c. :: �Dampfsammelschienen-KWK-Anlagen“ KWK-Anlagen, die über Dampfsammelschienen verfügen,
-- 6d. :: �Dampfentspannungseinrichtungen“ an ein Dampf- oder Wärmenetz angeschlossene Kondensationsturbinen, die im Regelbetrieb zur Dampfdruckregulierung des Dampf- oder Wärmenetzes eingesetzt werden und bei denen der erzeugte Strom ein untergeordnetes Nebenprodukt aus Gründen der Energieeffizienz darstellt; Dampfentspannungseinrichtungen sind Bestandteil aller KWK-Anlagen, von denen sie Dampf beziehen; die insoweit zuzurechnende elektrische Leistung der Dampfentspannungseinrichtungen bemisst sich entsprechend dem Verhältnis der Dampferzeugungsleistung der jeweiligen KWK-Anlage zur Dampferzeugungsleistung sämtlicher Dampferzeuger, von denen die Dampfentspannungseinrichtungen Dampf beziehen,
-- 6e. :: �elektrische KWK-Leistung“ die elektrische Leistung einer KWK-Anlage, die unmittelbar mit der im KWK-Prozess höchstens auskoppelbaren Nutzwärme im Zusammenhang steht,
-- 7. :: �elektrische Leistung“ die höchste an den Generatorklemmen abgebbare Wirkleistung einer Anlage abzüglich der für ihren Betrieb erforderlichen Eigenverbrauchsleistung,
-- 8. :: �Endkundenanlagen“ von einem Anderen betriebene Dampfturbinen, die keinen Dampf in ein Dampf- oder Wärmenetz einspeisen; Endkundenanlagen sind Bestandteil aller KWK-Anlagen, von denen sie Dampf beziehen; die insoweit zuzurechnende elektrische KWK-Leistung und die elektrische Leistung der Endkundenanlagen bemessen sich entsprechend dem Verhältnis der Dampferzeugungsleistung der jeweiligen KWK-Anlage zur Dampferzeugungsleistung sämtlicher Dampferzeuger, von denen die Endkundenanlagen Dampf beziehen,
-- 8a. :: eine KWK-Anlage �hocheffizient“, sofern sie den Vorgaben der Richtlinie 2012/27/EU des Europäischen Parlaments und des Rates vom 25. Oktober 2012 zur Energieeffizienz, zur Änderung der Richtlinien 2009/125/EG und 2010/30/EU und zur Aufhebung der Richtlinien 2004/8/EG und 2006/32/EG (ABl. L 315 vom 14.11.2012, S. 1) in der jeweils geltenden Fassung entspricht,
-- 9. :: �industrielle Abwärme“ nicht genutzte Wärme aus industriellen Produktionsanlagen oder -prozessen in Unternehmen des verarbeitenden Gewerbes,
-- 9a. :: �innovative KWK-Systeme“ besonders energieeffiziente und treibhausgasarme Systeme, in denen KWK-Anlagen in Verbindung mit hohen Anteilen von Wärme aus erneuerbaren Energien oder aus dem gereinigten Wasser von Kläranlagen KWK-Strom und Wärme bedarfsgerecht erzeugen oder umwandeln,
+- 1. :: Abnahmestelle“ die Summe aller räumlich und physikalisch zusammenhängenden elektrischen Einrichtungen eines Letztverbrauchers, die sich auf einem in sich abgeschlossenen Betriebsgelände befinden und über einen oder mehrere Entnahmepunkte mit dem Netz des Netzbetreibers verbunden sind, sie muss über eigene Stromzähler an allen Entnahmepunkten und Eigenversorgungsanlagen verfügen,
+- 2. :: Anlagenteile“ die betriebsnotwendigen Komponenten einer Anlage,
+- 3. :: Anzahl der Vollbenutzungsstunden“ der Quotient aus der jährlichen zuschlagberechtigten KWK-Nettostromerzeugung und der maximalen KWK-Nettostromerzeugung im Auslegungszustand während einer Betriebsstunde unter normalen Einsatzbedingungen,
+- 4. :: Ausbau eines Wärmenetzes“ die Erweiterung eines bestehenden Wärmenetzes zum Anschluss bisher nicht durch Wärmenetze versorgter Abnehmender durch die Errichtung neuer Wärmenetzbestandteile mit allen Komponenten, die zur Übertragung von Wärme vom bestehenden Wärmenetz bis zum Verbraucherabgang erforderlich sind,
+- 4a. :: Ausschreibung“ ein transparentes, diskriminierungsfreies und wettbewerbliches Verfahren zur Bestimmung des Anspruchsberechtigten und der Zuschlagzahlung oder der Höhe der finanziellen Förderung,
+- 4b. :: Ausschreibungsvolumen“ die Summe der installierten Leistung, für die der Anspruch auf eine Zuschlagzahlung nach § 8a oder eine finanzielle Förderung nach § 8b zu einem Gebotstermin ausgeschrieben wird,
+- 4c. :: Ausschreibungszuschlag“ der im Rahmen einer Ausschreibung erteilte Zuschlag,
+- 5. :: Baubeginn“ die erste Handlung, die unmittelbar der Verwirklichung des Vorhabens auf dem jeweiligen Baugrundstück dient,
+- 6. :: Betreiber von KWK-Anlagen“ diejenigen, die den KWK-Strom erzeugen und das wirtschaftliche Risiko für den Betrieb der KWK-Anlagen tragen,
+- 6a. :: Dampfnetze“ Einrichtungen zur leitungsgebundenen Versorgung einer Mehrzahl von Produktionsprozessen mit Prozessdampf und industrieller Abwärme, aus mindestens einer KWK-Anlage und einem externen Einspeiser im Sinn des § 2 Nummer 9,
+- 6b. :: Dampfsammelschienen“ Einrichtungen zur leitungsgebundenen Versorgung mit Dampf, an denen mindestens zwei Dampferzeuger und eine Dampfturbine oder ein Dampferzeuger und zwei Dampfturbinen angeschlossen sind; keine Dampfturbinen in diesem Sinn sind Dampfentspannungseinrichtungen sowie Endkundenanlagen,
+- 6c. :: Dampfsammelschienen-KWK-Anlagen“ KWK-Anlagen, die über Dampfsammelschienen verfügen,
+- 6d. :: Dampfentspannungseinrichtungen“ an ein Dampf- oder Wärmenetz angeschlossene Kondensationsturbinen, die im Regelbetrieb zur Dampfdruckregulierung des Dampf- oder Wärmenetzes eingesetzt werden und bei denen der erzeugte Strom ein untergeordnetes Nebenprodukt aus Gründen der Energieeffizienz darstellt; Dampfentspannungseinrichtungen sind Bestandteil aller KWK-Anlagen, von denen sie Dampf beziehen; die insoweit zuzurechnende elektrische Leistung der Dampfentspannungseinrichtungen bemisst sich entsprechend dem Verhältnis der Dampferzeugungsleistung der jeweiligen KWK-Anlage zur Dampferzeugungsleistung sämtlicher Dampferzeuger, von denen die Dampfentspannungseinrichtungen Dampf beziehen,
+- 6e. :: elektrische KWK-Leistung“ die elektrische Leistung einer KWK-Anlage, die unmittelbar mit der im KWK-Prozess höchstens auskoppelbaren Nutzwärme im Zusammenhang steht,
+- 7. :: elektrische Leistung“ die höchste an den Generatorklemmen abgebbare Wirkleistung einer Anlage abzüglich der für ihren Betrieb erforderlichen Eigenverbrauchsleistung,
+- 8. :: Endkundenanlagen“ von einem Anderen betriebene Dampfturbinen, die keinen Dampf in ein Dampf- oder Wärmenetz einspeisen; Endkundenanlagen sind Bestandteil aller KWK-Anlagen, von denen sie Dampf beziehen; die insoweit zuzurechnende elektrische KWK-Leistung und die elektrische Leistung der Endkundenanlagen bemessen sich entsprechend dem Verhältnis der Dampferzeugungsleistung der jeweiligen KWK-Anlage zur Dampferzeugungsleistung sämtlicher Dampferzeuger, von denen die Endkundenanlagen Dampf beziehen,
+- 8a. :: eine KWK-Anlage hocheffizient“, sofern sie den Vorgaben der Richtlinie 2012/27/EU des Europäischen Parlaments und des Rates vom 25. Oktober 2012 zur Energieeffizienz, zur Änderung der Richtlinien 2009/125/EG und 2010/30/EU und zur Aufhebung der Richtlinien 2004/8/EG und 2006/32/EG (ABl. L 315 vom 14.11.2012, S. 1) in der jeweils geltenden Fassung entspricht,
+- 9. :: industrielle Abwärme“ nicht genutzte Wärme aus industriellen Produktionsanlagen oder -prozessen in Unternehmen des verarbeitenden Gewerbes,
+- 9a. :: innovative KWK-Systeme“ besonders energieeffiziente und treibhausgasarme Systeme, in denen KWK-Anlagen in Verbindung mit hohen Anteilen von Wärme aus erneuerbaren Energien oder aus dem gereinigten Wasser von Kläranlagen KWK-Strom und Wärme bedarfsgerecht erzeugen oder umwandeln,
 - 9b. :: (weggefallen)
-- 10. :: �Kältenetze“ Einrichtungen zur leitungsgebundenen Versorgung mit Kälte,
+- 10. :: Kältenetze“ Einrichtungen zur leitungsgebundenen Versorgung mit Kälte,
   - a) :: die eine horizontale Ausdehnung über die Grundstücksgrenze des Standorts der einspeisenden KWKK-Anlage hinaus haben,
   - b) :: an die als öffentliches Netz eine unbestimmte Anzahl von Abnehmenden angeschlossen werden kann und
   - c) :: an die mindestens ein Abnehmender angeschlossen ist, der nicht Eigentümer oder Betreiber der in das Kältenetz einspeisenden KWKK-Anlage ist,
-- 11. :: �Kältespeicher“ Anlagen zur Speicherung von Kälte, die direkt oder über ein Kältenetz mit einer KWKK-Anlage verbunden sind,
-- 12. :: �Kraft-Wärme-Kälte-Kopplung“ (KWKK) die Umwandlung von Nutzwärme aus KWK in Nutzkälte durch thermisch angetriebene Kältemaschinen,
-- 13. :: �Kraft-Wärme-Kopplung“ (KWK) die gleichzeitige Umwandlung von eingesetzter Energie in elektrische Energie und in Nutzwärme in einer ortsfesten technischen Anlage; Anlagen, die zur Erzielung einer höheren Auslastung für eine abwechselnde Nutzung an zwei Standorten betrieben werden, gelten als ortsfest,
-- 14. :: �KWK-Anlagen“ Anlagen, in denen Strom und Nutzwärme erzeugt werden; mehrere KWK-Anlagen an einem Standort gelten in Bezug auf die in den §§ 4 bis 8 genannten Leistungsgrenzen für den jeweils zuletzt in Betrieb genommenen Generator als eine KWK-Anlage, soweit sie innerhalb von zwölf aufeinanderfolgenden Kalendermonaten in Dauerbetrieb genommen worden sind; zu KWK-Anlagen gehören:
+- 11. :: Kältespeicher“ Anlagen zur Speicherung von Kälte, die direkt oder über ein Kältenetz mit einer KWKK-Anlage verbunden sind,
+- 12. :: Kraft-Wärme-Kälte-Kopplung“ (KWKK) die Umwandlung von Nutzwärme aus KWK in Nutzkälte durch thermisch angetriebene Kältemaschinen,
+- 13. :: Kraft-Wärme-Kopplung“ (KWK) die gleichzeitige Umwandlung von eingesetzter Energie in elektrische Energie und in Nutzwärme in einer ortsfesten technischen Anlage; Anlagen, die zur Erzielung einer höheren Auslastung für eine abwechselnde Nutzung an zwei Standorten betrieben werden, gelten als ortsfest,
+- 14. :: KWK-Anlagen“ Anlagen, in denen Strom und Nutzwärme erzeugt werden; mehrere KWK-Anlagen an einem Standort gelten in Bezug auf die in den §§ 4 bis 8 genannten Leistungsgrenzen für den jeweils zuletzt in Betrieb genommenen Generator als eine KWK-Anlage, soweit sie innerhalb von zwölf aufeinanderfolgenden Kalendermonaten in Dauerbetrieb genommen worden sind; zu KWK-Anlagen gehören:
   - a) :: Feuerungsanlagen mit Dampfturbinen-Anlagen, beispielsweise Gegendruckanlagen, Entnahme- oder Anzapfkondensationsanlagen,
   - b) :: Feuerungsanlagen mit Dampfmotoren,
   - c) :: Gasturbinen-Anlagen mit Abhitzekessel,
@@ -84,32 +84,32 @@ Im Sinne dieses Gesetzes ist oder sind
   - f) :: Stirling-Motoren,
   - g) :: Organic-Rankine-Cycle-Anlagen und
   - h) :: Brennstoffzellen-Anlagen,
-- 15. :: �KWKK-Anlagen“ KWK-Anlagen, die durch eine thermisch angetriebene Kältemaschine ergänzt sind,
-- 16. :: �KWK-Strom“ das rechnerische Produkt aus Nutzwärme und Stromkennzahl der KWK-Anlage; bei Anlagen, die nicht über Vorrichtungen zur Abwärmeabfuhr verfügen, ist die gesamte Nettostromerzeugung KWK-Strom,
-- 17. :: �Letztverbraucher“ jede natürliche oder juristische Person, die Strom verbraucht,
-- 18. :: �modernisierte KWK-Anlagen“ KWK-Anlagen, bei denen wesentliche die Effizienz bestimmende Anlagenteile erneuert worden sind und die Modernisierung eine Effizienzsteigerung bewirkt,
-- 19. :: �nachgerüstete KWK-Anlagen“ Anlagen der ungekoppelten Strom- oder Wärmeerzeugung, bei denen
+- 15. :: KWKK-Anlagen“ KWK-Anlagen, die durch eine thermisch angetriebene Kältemaschine ergänzt sind,
+- 16. :: KWK-Strom“ das rechnerische Produkt aus Nutzwärme und Stromkennzahl der KWK-Anlage; bei Anlagen, die nicht über Vorrichtungen zur Abwärmeabfuhr verfügen, ist die gesamte Nettostromerzeugung KWK-Strom,
+- 17. :: Letztverbraucher“ jede natürliche oder juristische Person, die Strom verbraucht,
+- 18. :: modernisierte KWK-Anlagen“ KWK-Anlagen, bei denen wesentliche die Effizienz bestimmende Anlagenteile erneuert worden sind und die Modernisierung eine Effizienzsteigerung bewirkt,
+- 19. :: nachgerüstete KWK-Anlagen“ Anlagen der ungekoppelten Strom- oder Wärmeerzeugung, bei denen
   - a) :: fabrikneue Anlagenteile zur Strom- oder Wärmeauskopplung nachgerüstet worden sind und
   - b) :: die Kosten der Nachrüstung mindestens 10 Prozent der Kosten betragen, welche die Neuerrichtung einer KWK-Anlage mit gleicher Leistung nach aktuellem Stand der Technik gekostet hätte,
-- 20. :: �Nettostromerzeugung“ die an den Generatorklemmen gemessene Stromerzeugung einer Anlage abzüglich des für ihren Betrieb erforderlichen Eigenverbrauchs im Sinne von § 61a Nummer 1 des Erneuerbare-Energien-Gesetzes in der jeweils geltenden Fassung,
-- 21. :: �Netzbetreiber“ die Betreiber von Stromnetzen aller Spannungsebenen für die allgemeine Versorgung mit Elektrizität sowie Betreiber von geschlossenen Verteilernetzen nach § 110 des Energiewirtschaftsgesetzes vom 7. Juli 2005 (BGBl. I S. 1970, 3621), das zuletzt durch Artikel 311 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, in der jeweils geltenden Fassung,
-- 22. :: �Netze der allgemeinen Versorgung“ Stromnetze im Sinne des § 3 Nummer 17 des Energiewirtschaftsgesetzes in der jeweils geltenden Fassung über eine oder mehrere Spannungsebenen,
-- 23. :: der �Neubau eines Wärmenetzes“ die erstmalige Errichtung eines Wärmenetzes einschließlich aller Teile, die zur Übertragung von Wärme vom Standort der einspeisenden KWK-Anlage bis zum Verbraucherabgang erforderlich sind, und zwar in einem Gebiet, das zuvor nicht mit Wärme durch Wärmenetze versorgt wurde,
-- 24. :: �Neubau eines Wärmespeichers“ die erstmalige Errichtung eines Wärmespeichers aus fabrikneuen Teilen,
-- 25. :: �neue KWK-Anlagen“ Anlagen mit fabrikneuen Anlagenteilen,
-- 26. :: �Nutzwärme“ die aus einem KWK-Prozess ausgekoppelte Wärme, die außerhalb der KWK-Anlage für die Raumheizung, die Warmwasserbereitung, die Kälteerzeugung oder als Prozesswärme verwendet wird,
-- 27. :: �Stromkennzahl“ das Verhältnis der KWK-Nettostromerzeugung zur KWK-Nutzwärmeerzeugung in einem bestimmten Zeitraum; die KWK-Nettostromerzeugung entspricht dabei dem Teil der Nettostromerzeugung, der physikalisch unmittelbar mit der Erzeugung der Nutzwärme gekoppelt ist,
-- 28. :: �stromkostenintensive Unternehmen“ Unternehmen oder selbständige Unternehmensteile, für die das Bundesamt für Wirtschaft und Ausfuhrkontrolle abnahmestellenbezogen die EEG-Umlage für Strom, der selbst verbraucht wird, nach § 63 Nummer 1 in Verbindung mit § 64 des Erneuerbare-Energien-Gesetzes für das jeweilige Kalenderjahr begrenzt hat,
-- 29. :: �Trasse“ die Gesamtheit aller Teile, die zur Übertragung von Wärme vom Standort der einspeisenden KWK-Anlagen bis zum Verbraucherabgang notwendig sind,
-- 29a. :: �Unternehmen“ ein Unternehmen im Sinn von § 3 Nummer 47 des Erneuerbare-Energien-Gesetzes,
-- 30. :: �Verbraucherabgang“ die Übergabestelle nach § 10 Absatz 1 der Verordnung über Allgemeine Bedingungen für die Versorgung mit Fernwärme vom 20. Juni 1980 (BGBl. I S. 742), die zuletzt durch Artikel 16 des Gesetzes vom 25. Juli 2013 (BGBl. I S. 2722) geändert worden ist,
-- 31. :: �Vorrichtungen zur Abwärmeabfuhr“ Kondensations-, Kühl- oder Bypass-Einrichtungen, in denen die Strom- und Nutzwärmeerzeugung entkoppelt werden kann,
-- 32. :: �Wärmenetze“ Einrichtungen zur leitungsgebundenen Versorgung mit Wärme,
+- 20. :: Nettostromerzeugung“ die an den Generatorklemmen gemessene Stromerzeugung einer Anlage abzüglich des für ihren Betrieb erforderlichen Eigenverbrauchs im Sinne von § 61a Nummer 1 des Erneuerbare-Energien-Gesetzes in der jeweils geltenden Fassung,
+- 21. :: Netzbetreiber“ die Betreiber von Stromnetzen aller Spannungsebenen für die allgemeine Versorgung mit Elektrizität sowie Betreiber von geschlossenen Verteilernetzen nach § 110 des Energiewirtschaftsgesetzes vom 7. Juli 2005 (BGBl. I S. 1970, 3621), das zuletzt durch Artikel 311 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, in der jeweils geltenden Fassung,
+- 22. :: Netze der allgemeinen Versorgung“ Stromnetze im Sinne des § 3 Nummer 17 des Energiewirtschaftsgesetzes in der jeweils geltenden Fassung über eine oder mehrere Spannungsebenen,
+- 23. :: der Neubau eines Wärmenetzes“ die erstmalige Errichtung eines Wärmenetzes einschließlich aller Teile, die zur Übertragung von Wärme vom Standort der einspeisenden KWK-Anlage bis zum Verbraucherabgang erforderlich sind, und zwar in einem Gebiet, das zuvor nicht mit Wärme durch Wärmenetze versorgt wurde,
+- 24. :: Neubau eines Wärmespeichers“ die erstmalige Errichtung eines Wärmespeichers aus fabrikneuen Teilen,
+- 25. :: neue KWK-Anlagen“ Anlagen mit fabrikneuen Anlagenteilen,
+- 26. :: Nutzwärme“ die aus einem KWK-Prozess ausgekoppelte Wärme, die außerhalb der KWK-Anlage für die Raumheizung, die Warmwasserbereitung, die Kälteerzeugung oder als Prozesswärme verwendet wird,
+- 27. :: Stromkennzahl“ das Verhältnis der KWK-Nettostromerzeugung zur KWK-Nutzwärmeerzeugung in einem bestimmten Zeitraum; die KWK-Nettostromerzeugung entspricht dabei dem Teil der Nettostromerzeugung, der physikalisch unmittelbar mit der Erzeugung der Nutzwärme gekoppelt ist,
+- 28. :: stromkostenintensive Unternehmen“ Unternehmen oder selbständige Unternehmensteile, für die das Bundesamt für Wirtschaft und Ausfuhrkontrolle abnahmestellenbezogen die EEG-Umlage für Strom, der selbst verbraucht wird, nach § 63 Nummer 1 in Verbindung mit § 64 des Erneuerbare-Energien-Gesetzes für das jeweilige Kalenderjahr begrenzt hat,
+- 29. :: Trasse“ die Gesamtheit aller Teile, die zur Übertragung von Wärme vom Standort der einspeisenden KWK-Anlagen bis zum Verbraucherabgang notwendig sind,
+- 29a. :: Unternehmen“ ein Unternehmen im Sinn von § 3 Nummer 47 des Erneuerbare-Energien-Gesetzes,
+- 30. :: Verbraucherabgang“ die Übergabestelle nach § 10 Absatz 1 der Verordnung über Allgemeine Bedingungen für die Versorgung mit Fernwärme vom 20. Juni 1980 (BGBl. I S. 742), die zuletzt durch Artikel 16 des Gesetzes vom 25. Juli 2013 (BGBl. I S. 2722) geändert worden ist,
+- 31. :: Vorrichtungen zur Abwärmeabfuhr“ Kondensations-, Kühl- oder Bypass-Einrichtungen, in denen die Strom- und Nutzwärmeerzeugung entkoppelt werden kann,
+- 32. :: Wärmenetze“ Einrichtungen zur leitungsgebundenen Versorgung mit Wärme,
   - a) :: die eine horizontale Ausdehnung über die Grundstücksgrenze des Standorts der einspeisenden KWK-Anlage hinaus haben,
   - b) :: an die als öffentliches Netz eine unbestimmte Anzahl von Abnehmenden angeschlossen werden kann und
   - c) :: an die mindestens ein Abnehmender angeschlossen ist, der nicht Eigentümer, Miteigentümer oder Betreiber der in das Wärmenetz einspeisenden KWK-Anlage ist,
-- 33. :: �Wärmespeicher“ eine technische Vorrichtung zur zeitlich befristeten Speicherung von Nutzwärme gemäß Nummer 26 einschließlich aller technischen Vorrichtungen zur Be- und Entladung des Wärmespeichers,
-- 34. :: �Wasseräquivalent“ die Wärmekapazität eines Speichermediums, die der eines Kubikmeters Wassers im flüssigen Zustand bei Normaldruck entspricht.
+- 33. :: Wärmespeicher“ eine technische Vorrichtung zur zeitlich befristeten Speicherung von Nutzwärme gemäß Nummer 26 einschließlich aller technischen Vorrichtungen zur Be- und Entladung des Wärmespeichers,
+- 34. :: Wasseräquivalent“ die Wärmekapazität eines Speichermediums, die der eines Kubikmeters Wassers im flüssigen Zustand bei Normaldruck entspricht.
 
 (+++ § 2: Zur Anwendung vgl. § 26 Abs. 1 KWKAusV +++)\\
 (+++ § 2 Nr. 14 Halbsatz 2: Zur Anwendung vgl. § 61c Abs. 2 Satz 3 EEG 2014 +++)
@@ -319,7 +319,7 @@ Ein Ersatz im Sinn des Satzes 1 liegt vor, wenn die neue KWK-Anlage in dasselbe 
 
 § 7d - (weggefallen)
 
-�
+
 
 § 7e - Mitteilungspflicht im Zusammenhang mit der Inanspruchnahme der Boni
 
@@ -411,7 +411,7 @@ Das Ausschreibungsvolumen für die Ausschreibungen nach den §§ 8a und 8b betr�
 
 (3) Die Einhaltung der allgemein anerkannten Regeln der Technik nach Absatz 2 Nummer 4 wird vermutet, wenn das Sachverständigengutachten
 
-- 1. :: nach den Grundlagen und Rechenmethoden der Nummern 4 bis 6 sowie 8 des Arbeitsblattes FW 308 �Zertifizierung von KWK-Anlagen -- Ermittlung des KWK-Stromes“ des Energieeffizienzverbandes für Wärme, Kälte und KWK e. V. AGFW (Bundesanzeiger vom 19. Oktober 2015, nichtamtlicher Teil, Institutionelle Veröffentlichungen) erstellt wurde und
+- 1. :: nach den Grundlagen und Rechenmethoden der Nummern 4 bis 6 sowie 8 des Arbeitsblattes FW 308 Zertifizierung von KWK-Anlagen -- Ermittlung des KWK-Stromes“ des Energieeffizienzverbandes für Wärme, Kälte und KWK e. V. AGFW (Bundesanzeiger vom 19. Oktober 2015, nichtamtlicher Teil, Institutionelle Veröffentlichungen) erstellt wurde und
 - 2. :: die Anhänge I und II der Richtlinie 2012/27/EU sowie die dazu erlassenen Leitlinien in der jeweils geltenden Fassung beachtet.
 
 (4) Für serienmäßig hergestellte KWK-Anlagen mit einer elektrischen KWK-Leistung von bis zu 2 Megawatt können anstelle des Gutachtens nach Absatz 3 geeignete Unterlagen des Herstellers vorgelegt werden, welche die folgenden Angaben enthalten müssen:
@@ -519,7 +519,7 @@ Die Höhe der Zuschlagzahlung nach diesem Abschnitt verringert sich um 20 Prozen
 - 6. :: in den Fällen des § 6 Absatz 3 Nummer 2 ein Nachweis über die entrichtete EEG-Umlage,
 - 7. :: in den Fällen des § 6 Absatz 3 Nummer 3 ein Nachweis über den Einsatz der KWK-Anlage in einem stromkostenintensiven Unternehmen sowie darüber, dass der KWK-Strom durch das Unternehmen selbst verbraucht wird.
 
-Die Einhaltung der allgemein anerkannten Regeln der Technik wird vermutet, wenn die Berechnung nach den Grundlagen und Rechenmethoden der Nummern 4 bis 6 sowie 8 des Arbeitsblattes FW 308 �Zertifizierung von KWK-Anlagen -- Ermittlung des KWK-Stromes“ des Energieeffizienzverbandes für Wärme, Kälte und KWK e. V. AGFW (Bundesanzeiger vom 19. Oktober 2015, nichtamtlicher Teil, Institutionelle Veröffentlichungen) erstellt wurde.
+Die Einhaltung der allgemein anerkannten Regeln der Technik wird vermutet, wenn die Berechnung nach den Grundlagen und Rechenmethoden der Nummern 4 bis 6 sowie 8 des Arbeitsblattes FW 308 Zertifizierung von KWK-Anlagen -- Ermittlung des KWK-Stromes“ des Energieeffizienzverbandes für Wärme, Kälte und KWK e. V. AGFW (Bundesanzeiger vom 19. Oktober 2015, nichtamtlicher Teil, Institutionelle Veröffentlichungen) erstellt wurde.
 
 (3) Der Betreiber einer KWK-Anlage mit einer elektrischen KWK-Leistung von bis zu 2 Megawatt oder ein von ihm beauftragter Dritter legt während der Dauer der Zuschlagzahlung dem Bundesamt für Wirtschaft und Ausfuhrkontrolle und dem Netzbetreiber jeweils bis zum 31. März eines jeden Jahres Angaben vor
 
@@ -677,7 +677,7 @@ Gewährte Bundes-, Länder- und Gemeindezuschüsse müssen abgesetzt werden, wen
 
 § 10 Absatz 2 Nummer 1a bis 1d ist entsprechend anzuwenden. Die Zulassung ergeht gegenüber dem Betreiber des Wärmespeichers und dem für die Auszahlung des Zuschlags nach § 22 Absatz 3 zuständigen Übertragungsnetzbetreiber.
 
-(2) Die Einhaltung der allgemein anerkannten Regeln der Technik bei der Berechnung der Wärmeverluste nach Absatz 1 Satz 2 Nummer 3 wird vermutet, wenn die Berechnung nach den Grundlagen und Rechenmethoden des Arbeitsblattes FW 313 �Berechnung der thermischen Verluste von thermischen Speichern“ des Energieeffizienzverbandes für Wärme, Kälte und KWK e. V. AGFW (Bundesanzeiger vom 27. November 2015, nichtamtlicher Teil, Institutionelle Veröffentlichungen) erstellt wurde. Für serienmäßig hergestellte Speicher können geeignete Unterlagen vorgelegt werden, aus denen die Berechnung der mittleren Wärmeverluste hervorgeht.
+(2) Die Einhaltung der allgemein anerkannten Regeln der Technik bei der Berechnung der Wärmeverluste nach Absatz 1 Satz 2 Nummer 3 wird vermutet, wenn die Berechnung nach den Grundlagen und Rechenmethoden des Arbeitsblattes FW 313 Berechnung der thermischen Verluste von thermischen Speichern“ des Energieeffizienzverbandes für Wärme, Kälte und KWK e. V. AGFW (Bundesanzeiger vom 27. November 2015, nichtamtlicher Teil, Institutionelle Veröffentlichungen) erstellt wurde. Für serienmäßig hergestellte Speicher können geeignete Unterlagen vorgelegt werden, aus denen die Berechnung der mittleren Wärmeverluste hervorgeht.
 (3) Für die Überprüfung der Zulassung ist § 11 Absatz 1 und 2 entsprechend anzuwenden.
 (4) Der Antrag auf Zulassung ist nach der Inbetriebnahme des neu gebauten Wärmespeichers bis zum 1. Juli des Kalenderjahres zu stellen, das auf die Inbetriebnahme folgt. Als Inbetriebnahme ist der Zeitpunkt der ersten Beladung nach Abschluss des Probebetriebs maßgebend.
 (5) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle kann Zulassungen für Speicher mit einem Volumen von bis zu 5 Kubikmetern Wasseräquivalent in Form der Allgemeinverfügung gemäß § 35 Satz 2 des Verwaltungsverfahrensgesetzes von Amts wegen erteilen. Die Allgemeinverfügung nach Satz 1 kann mit Auflagen verbunden werden.

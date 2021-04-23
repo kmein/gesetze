@@ -13,10 +13,10 @@ Ausfertigungsdatum: 06.11.2002
 
 (2) Die in der Anlage dieser Verordnung aufgeführten Ausnahmen finden nur in dem Geltungsbereich Anwendung, der im Titel der einzelnen Ausnahmen durch Buchstaben gekennzeichnet ist. Die dort verwendeten Buchstaben haben folgende Bedeutung:
 
-- 1. :: �B“ entspricht dem Geltungsbereich der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt nach § 1 Absatz 1 Satz 1 Nummer 3 für Beförderungen auf allen schiffbaren Binnengewässern (Binnenschifffahrt),
-- 2. :: �E“ entspricht dem Geltungsbereich der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt nach § 1 Absatz 1 Satz 1 Nummer 2 für Beförderungen auf der Schiene mit Eisenbahnen (Eisenbahnverkehr),
-- 3. :: �M“ entspricht dem Geltungsbereich der Gefahrgutverordnung See nach § 1 Absatz 1 und
-- 4. :: �S“ entspricht dem Geltungsbereich der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt nach § 1 Absatz 1 Satz 1 Nummer 1 für Beförderungen auf der Straße mit Fahrzeugen (Straßenverkehr).
+- 1. :: B“ entspricht dem Geltungsbereich der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt nach § 1 Absatz 1 Satz 1 Nummer 3 für Beförderungen auf allen schiffbaren Binnengewässern (Binnenschifffahrt),
+- 2. :: E“ entspricht dem Geltungsbereich der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt nach § 1 Absatz 1 Satz 1 Nummer 2 für Beförderungen auf der Schiene mit Eisenbahnen (Eisenbahnverkehr),
+- 3. :: M“ entspricht dem Geltungsbereich der Gefahrgutverordnung See nach § 1 Absatz 1 und
+- 4. :: S“ entspricht dem Geltungsbereich der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt nach § 1 Absatz 1 Satz 1 Nummer 1 für Beförderungen auf der Straße mit Fahrzeugen (Straßenverkehr).
 
 
 § 2 - Geltungsbereich von Ausnahmegenehmigungen nach § 5 Absatz 1 Nummer 2 und Absatz 2 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt
@@ -80,9 +80,9 @@ In dieser Anlage bedeuten:
 - 2.4 :: Für Beförderungseinheiten sind Stellplätze festzulegen; diese sind auf dem Fahrbahndeck oder Fahrzeugdeck kenntlich zu machen. Die Stellplätze müssen folgende Anforderungen erfüllen:
 - 2.4.1 :: Im Umkreis von 3 Meter um die Stellplätze und 2 Meter über der im Zulassungszeugnis der Fähre festgelegten größten Höhe der Beförderungseinheiten müssen folgende Anforderungen erfüllt sein:
 - 2.4.1.1 :: Offene Fähren
-  Die elektrischen Anlagen müssen mindestens der Vorschrift für elektrische Einrichtung vom Typ �begrenzte Explosionsgefahr“ für die Temperaturklasse T3 im Sinne des Abschnitts 1.2.1 ADN entsprechen.
+  Die elektrischen Anlagen müssen mindestens der Vorschrift für elektrische Einrichtung vom Typ begrenzte Explosionsgefahr“ für die Temperaturklasse T3 im Sinne des Abschnitts 1.2.1 ADN entsprechen.
   Gedeckte/geschlossene Fähren
-  Die elektrischen Anlagen müssen mindestens der Vorschrift für elektrische Einrichtung vom Typ �begrenzte Explosionsgefahr“ für die Temperaturklasse T4 im Sinne des Abschnitts 1.2.1 ADN entsprechen.
+  Die elektrischen Anlagen müssen mindestens der Vorschrift für elektrische Einrichtung vom Typ begrenzte Explosionsgefahr“ für die Temperaturklasse T4 im Sinne des Abschnitts 1.2.1 ADN entsprechen.
 - 2.4.1.2 :: Zu- und Ablüfter müssen wasserdicht verschließbar sein.
 - 2.4.1.3 :: Offene Fähren
   Nieder- und Eingänge zu Unterdecksräumen und Seitenräumen und sonstige Öffnungen müssen sprühwasserdicht und wetterdicht sein, wobei die Süllhöhe nicht unter 300 Millimeter betragen darf.
@@ -108,7 +108,7 @@ In dieser Anlage bedeuten:
 - 3.1 :: Pflichten des Fährbetreibers und des Fährpersonals
 - 3.1.1 :: Der Fährbetreiber hat sicherzustellen, dass der Fahrzeugführer einer Beförderungseinheit mit gefährlichen Gütern in geeigneter Weise auf seine nachfolgend genannten Pflichten hingewiesen wird. Der Hinweis kann insbesondere durch Aufstellen von Hinweisschildern oder durch mündliche Unterrichtung durch den Fährbetreiber oder das Fährpersonal erfolgen.
 - 3.1.2 :: Gedeckte/geschlossene Fähren
-  Für jede Fähre ist ein Notfallplan aufzustellen, in dem Angaben über die Platzierung der Feuerlöscher, der Hydranten, das Verhalten der Besatzung in Notfällen und der zu unterrichtenden zuständigen Behörden enthalten sind und der EmS-Leitfaden �Unfallbekämpfungsmaßnahmen für Schiffe, die gefährliche Güter befördern“ Berücksichtigung findet. Der Notfallplan ist durch die Reederei aufzustellen und muss mit der den Fährbetrieb genehmigenden Behörde abgestimmt sein.
+  Für jede Fähre ist ein Notfallplan aufzustellen, in dem Angaben über die Platzierung der Feuerlöscher, der Hydranten, das Verhalten der Besatzung in Notfällen und der zu unterrichtenden zuständigen Behörden enthalten sind und der EmS-Leitfaden Unfallbekämpfungsmaßnahmen für Schiffe, die gefährliche Güter befördern“ Berücksichtigung findet. Der Notfallplan ist durch die Reederei aufzustellen und muss mit der den Fährbetrieb genehmigenden Behörde abgestimmt sein.
 - 3.1.3 :: Gedeckte/geschlossene Fähren
   Während der Beförderung gefährlicher Güter muss ein Sachkundiger gemäß Unterabschnitt 8.2.1.2 ADN mit gültiger Bescheinigung an Bord sein.
 - 3.1.4 :: Gedeckte/geschlossene Fähren
@@ -151,7 +151,7 @@ In dieser Anlage bedeuten:
 
   nach der Ausnahme Nr. 26 der GGAV vom 23. Juni 1993 (BGBl. I S. 994), die zuletzt durch Artikel 1 der Verordnung vom 23. Juni 1999 (BGBl. I S. 1435) geändert worden ist, in Tanks (festverbundene Tanks, Aufsetztanks und Tankcontainer) aus glasfaserverstärktem ungesättigtem Polyesterharz oder glasfaserverstärkten Epoxidharz-Formstoffen (glasfaserverstärktem Kunststoff) befördert werden, für die diese Tanks vor dem 1. Januar 2002 entsprechend der jeweils gültigen Fassung der Ausnahme Nr. 26 der GGAV vom 23. Juni 1993 gebaut, ausgerüstet, bauartgeprüft, zugelassen und gekennzeichnet worden sind. Die neue Bezeichnung der Stoffe (UN-Nummer und Benennung) ist nach Kapitel 3.2 Tabelle A ADR/RID von den nach der GGVSEB für die Prüfung oder Zulassung von Tanks zuständigen Stellen zu ermitteln und in den Bescheinigungen nach Unterabschnitt 6.9.5.3 ADR/RID sowie in der ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.3.1 ADR und bei Tankcontainern zusätzlich auf dem Tankcontainer (auf dem Tank selbst oder auf einer Tafel) nach Absatz 6.8.2.5.2 ADR/RID anzugeben.
 - 2 :: Angaben im Beförderungspapier
-  Zusätzlich zu den sonst vorgeschriebenen Angaben ist zu vermerken: �Ausnahme 9“.
+  Zusätzlich zu den sonst vorgeschriebenen Angaben ist zu vermerken: Ausnahme 9“.
 
 -- offen --
 -- offen --
@@ -179,7 +179,7 @@ In dieser Anlage bedeuten:
   Satz 1 darf nicht angewendet werden für Beförderungen von Gütern
   - a) :: der Klasse 1, ausgenommen solcher der Klassifizierung 1.4S, sowie
   - b) :: der Klasse 5.2.
-- 3.2 :: Zusätzlich zu den sonst vorgeschriebenen Angaben ist im Beförderungspapier zu vermerken: �Ausnahme 18“.
+- 3.2 :: Zusätzlich zu den sonst vorgeschriebenen Angaben ist im Beförderungspapier zu vermerken: Ausnahme 18“.
 - 4 :: Sonstige Vorschriften
   Diese Ausnahme darf nicht angewendet werden für Beförderungen von Gütern der Klasse 7.
 - 5 :: Befristung
@@ -267,18 +267,18 @@ rungscode
 Gefäße, klein, mit Gas (Gaspatronen) (UN 2037)\\
 mit folgenden Eigenschaften:
 
-�
 
-�
 
-�
+
+
+
 
 Essigsäure,\\
 Kohlenwasserstoffgemisch
 
-�
 
-�
+
+
 
 5A
 
@@ -286,47 +286,47 @@ erstickend,
 
 (E)
 
-�
+
 
 2.2
 
-�
 
-�
 
-�
+
+
+
 
 5F
 
 entzündbar,
 
-�
 
-�
+
+
 
 2.1
 
-�
 
-�
 
-�
+
+
+
 
 5FC
 
 entzündbar, ätzend oder
 
-�
 
-�
+
+
 
 2.1 + 8
 
-�
 
-�
 
-�
+
+
+
 
 5O
 
@@ -334,43 +334,43 @@ oxidierend
 
 (E)
 
-�
+
 
 2.2 + 5.1
 
-�
 
-�
 
-�
 
-�
+
+
+
+
 
 Bem. 1: Dieser Gruppe dürfen auch nach Kapitel 3.4 des ADR/RID/ADN freigestellte Gegenstände der Klasse 2 beigegeben werden (z. B. Kohlendioxidpatronen).
 
-�
 
-�
 
-�
 
-�
 
-�
 
-�
 
-�
+
+
+
+
+
+
+
 
 Bem. 2: Feuerzeuge und deren Nachfüllpatronen der UN 1057 sind Gegenstände des Klassifizierungscodes 6F des ADR/RID/ADN und dürfen daher nicht im Rahmen dieser Ausnahme befördert werden (Beförderung nach Sondervorschrift 654 ADR/RID/ADN).
 
-�
 
-�
 
-�
 
-�
+
+
+
+
 
 1.2
 
@@ -382,17 +382,17 @@ rungscode
 Gefäße, klein, mit Gas (Gaspatronen) (UN 2037)\\
 mit folgenden Eigenschaften:
 
-�
 
-�
 
-�
 
-�
 
-�
 
-�
+
+
+
+
+
+
 
 5T
 
@@ -400,91 +400,91 @@ giftig,
 
 (D)
 
-�
+
 
 2.3
 
-�
 
-�
 
-�
+
+
+
 
 5TF
 
 giftig, entzündbar,
 
-�
 
-�
+
+
 
 2.3 + 2.1
 
-�
 
-�
 
-�
+
+
+
 
 5TC
 
 giftig, ätzend,
 
-�
 
-�
+
+
 
 2.3 + 8
 
-�
 
-�
 
-�
+
+
+
 
 5TO
 
 giftig, oxidierend,
 
-�
 
-�
+
+
 
 2.3 + 5.1
 
-�
 
-�
 
-�
+
+
+
 
 5TFC
 
 giftig, entzündbar, ätzend oder
 
-�
 
-�
+
+
 
 2.3 + 2.1 + 8
 
-�
 
-�
 
-�
+
+
+
 
 5TOC
 
 giftig, oxidierend, ätzend
 
-�
 
-�
+
+
 
 2.3 + 5.1 + 8
 
-�
+
 
 1.3
 
@@ -496,11 +496,11 @@ Abfallfeuerlöscher
 
 (D)
 
-�
+
 
 2.2
 
-�
+
 
 2.1
 
@@ -535,23 +535,23 @@ I
 
 3
 
-�
 
-�
 
-�
 
-�
+
+
+
+
 
 Bem.: Zu Härterpasten siehe Abfallgruppe 8
 
-�
 
-�
 
-�
 
-�
+
+
+
+
 
 3.1
 
@@ -584,7 +584,7 @@ I
 
 6.1 + 3
 
-�
+
 
 3.3
 
@@ -600,23 +600,23 @@ II
 
 9
 
-�
 
-�
 
-�
 
-�
+
+
+
+
 
 Bem.: Wegen PCB, PCT und polyhalogenierten Biphenylen und Terphenylen in unverpackten Geräten siehe Klasse 9, UN 2315, UN 3432, UN 3151 und UN 3152.
 
-�
 
-�
 
-�
 
-�
+
+
+
+
 
 3.4
 
@@ -632,7 +632,7 @@ I
 
 3 + 6.1
 
-�
+
 
 3.5
 
@@ -648,7 +648,7 @@ I
 
 6.1 + 3
 
-�
+
 
 4.1
 
@@ -682,7 +682,7 @@ I
 
 3 + 6.1 + 8
 
-�
+
 
 5.1
 
@@ -699,7 +699,7 @@ III
 9\\
 Zusätzlich ist dauerhaft die Kennzeichnung nach 5.2.1.8.3 anzubringen
 
-�
+
 
 6.1
 
@@ -716,23 +716,23 @@ II
 
 4.1
 
-�
 
-�
 
-�
 
-�
+
+
+
+
 
 Bem.: Phosphorsulfide, nicht frei von weißem oder gelbem Phosphor, sind zur Beförderung nicht zugelassen.
 
-�
 
-�
 
-�
 
-�
+
+
+
+
 
 6.2
 
@@ -748,7 +748,7 @@ II
 
 4.1
 
-�
+
 
 6.3
 
@@ -764,7 +764,7 @@ II
 
 4.1 + 6.1
 
-�
+
 
 6.4
 
@@ -780,7 +780,7 @@ II
 
 4.1 + 8
 
-�
+
 
 6.5
 
@@ -796,23 +796,23 @@ II
 
 4.2
 
-�
 
-�
 
-�
 
-�
+
+
+
+
 
 Selbsterhitzungsfähige organische feste Stoffe, nicht giftig, nicht ätzend, z. B. körnige oder poröse brennbare Stoffe, die mit der Selbstoxidation unterliegenden Bestandteilen getränkt oder verunreinigt sind, z. B. mit Leinöl, Leinölfirnisse, Firnisse aus anderen analogen Ölen, Petroleumrückstände
 
-�
 
-�
 
-�
 
-�
+
+
+
+
 
 6.6
 
@@ -828,7 +828,7 @@ II
 
 4.2
 
-�
+
 
 6.7
 
@@ -844,7 +844,7 @@ II
 
 4.2 + 6.1
 
-�
+
 
 6.8
 
@@ -860,7 +860,7 @@ II
 
 4.2 + 8
 
-�
+
 
 6.9
 
@@ -877,7 +877,7 @@ II
 
 4.2
 
-�
+
 
 6.10
 
@@ -893,7 +893,7 @@ II
 
 4.3
 
-�
+
 
 7.1
 
@@ -909,7 +909,7 @@ I
 
 4.3
 
-�
+
 
 7.2
 
@@ -926,7 +926,7 @@ I
 
 4.3 + 6.1
 
-�
+
 
 7.3
 
@@ -942,7 +942,7 @@ I
 
 6.1
 
-�
+
 
 8.1
 
@@ -960,37 +960,37 @@ II
 
 Salpetersäure, 55 %
 
-�
 
-�
 
-�
+
+
+
 
 Bem. 1: Lösungen von Schwimmbadchlorierungsmitteln siehe Abfallgruppe 14.
 
-�
 
-�
 
-�
 
-�
 
-�
 
-�
 
-�
+
+
+
+
+
+
+
 
 Bem. 2: Chlorit- und Hypochloritmischungen mit einem Ammoniumsalz sind zur Beförderung nicht zugelassen.
 
-�
 
-�
 
-�
 
-�
+
+
+
+
 
 8.2
 
@@ -1006,7 +1006,7 @@ II
 
 5.1 + 6.1
 
-�
+
 
 8.3
 
@@ -1022,7 +1022,7 @@ II
 
 5.1 + 8
 
-�
+
 
 8.4
 
@@ -1040,7 +1040,7 @@ II
 
 5.2
 
-�
+
 
 9.1
 
@@ -1073,23 +1073,23 @@ III
 
 8
 
-�
 
-�
 
-�
 
-�
+
+
+
+
 
 Bem.: Dieser Gruppe dürfen auch Gegenstände mit Quecksilber beigegeben werden.
 
-�
 
-�
 
-�
 
-�
+
+
+
+
 
 9.3
 
@@ -1105,7 +1105,7 @@ I
 
 6.1
 
-�
+
 
 9.4
 
@@ -1121,7 +1121,7 @@ I
 
 6.1
 
-�
+
 
 9.5
 
@@ -1137,7 +1137,7 @@ I
 
 6.1 + 8
 
-�
+
 
 9.6
 
@@ -1153,7 +1153,7 @@ I
 
 6.1 + 3
 
-�
+
 
 9.7
 
@@ -1169,7 +1169,7 @@ I
 
 6.1
 
-�
+
 
 10.1
 
@@ -1193,53 +1193,53 @@ I
 Salpetersäure, 55 %,\\
 Netzmittellösung
 
-�
 
-�
 
-�
+
+
+
 
 Bem. 1: Mischungen aus Salpetersäure und Salzsäure der UN 1798 sind zur Beförderung nicht zugelassen.
 
-�
 
-�
 
-�
 
-�
 
-�
 
-�
 
-�
+
+
+
+
+
+
+
 
 Bem. 2: Chemisch instabile Nitriersäuremischungen, nicht denitriert, sind zur Beförderung nicht zugelassen.
 
-�
 
-�
 
-�
 
-�
 
-�
 
-�
 
-�
+
+
+
+
+
+
+
 
 Bem. 3: Perchlorsäure, wässerige Lösungen mit mehr als 72 Masse-% reiner Säure, sind zur Beförderung nicht zugelassen.
 
-�
 
-�
 
-�
 
-�
+
+
+
+
 
 11.1
 
@@ -1257,21 +1257,21 @@ II
 
 Netzmittellösung
 
-�
 
-�
 
-�
+
+
+
 
 Bem.: Chemisch instabile Mischungen von Abfallschwefelsäure sind zur Beförderung nicht zugelassen.
 
-�
 
-�
 
-�
 
-�
+
+
+
+
 
 11.2
 
@@ -1287,7 +1287,7 @@ II
 
 8 + 6.1
 
-�
+
 
 11.3
 
@@ -1303,7 +1303,7 @@ I
 
 8 + 6.1
 
-�
+
 
 11.4
 
@@ -1319,7 +1319,7 @@ I
 
 8
 
-�
+
 
 12.1
 
@@ -1335,7 +1335,7 @@ I
 
 8
 
-�
+
 
 12.2
 
@@ -1351,7 +1351,7 @@ I
 
 8 + 6.1
 
-�
+
 
 13.1
 
@@ -1384,7 +1384,7 @@ I
 
 8
 
-�
+
 
 13.3
 
@@ -1400,7 +1400,7 @@ III
 
 8
 
-�
+
 
 14.1
 
@@ -1433,7 +1433,7 @@ II
 
 5.1
 
-�
+
 
 14.3
 
@@ -1449,7 +1449,7 @@ II
 
 5.1 + 8
 
-�
+
 
 14.4
 
@@ -1465,40 +1465,40 @@ II
 
 5.1 + 6.1
 
-�
+
 
 15.1
 
-�
 
-�
+
+
 
 Nicht identifizierbare gefährliche Abfälle
 
 (B/E)
 
-�
+
 
 Kennzeichnung gemäß 5.2.1.10.1
 
-�
 
-�
 
-�
 
-�
+
+
+
+
 
 Bem.: Für diese Abfälle gelten besondere Vorschriften, siehe Nummern 2.6, 2.8 und 4.3 dieser Ausnahme.
 
-�
 
-�
+
+
 
 Zusätzlich\\
-ist auf mindestens 2 Seiten dauerhaft die Aufschrift �Gefahrgut, nicht identifiziert“ anzubringen.
+ist auf mindestens 2 Seiten dauerhaft die Aufschrift Gefahrgut, nicht identifiziert“ anzubringen.
 
-�
+
 
 - 2.5 :: Sonstige Vorschriften
   Die Abfälle dürfen bei Sammlungen nur in kleinen Anlieferungsgefäßen bis zu 60 Liter Fassungsraum oder 60 Kilogramm Masse unter Aufsicht einer fachkundigen Person in die Verpackungen und Großpackmittel (IBC) eingegeben werden.
@@ -1524,8 +1524,8 @@ ist auf mindestens 2 Seiten dauerhaft die Aufschrift �Gefahrgut, nicht identifi
 - 2.8 :: Die Abfälle der Abfallgruppen/Abfalluntergruppen 2.2, 3, 4, 9, 10, 11, 12 und 15 in Anlieferungsgefäßen dürfen auch in metallenen Großpackmitteln (IBC) der Verpackungsgruppe I verpackt werden.
 - 2.9 :: Die Verschlüsse der Anlieferungsgefäße sind vor der Eingabe in die Verpackungen und Großpackmittel (IBC) auf Dichtheit zu kontrollieren.
 - 2.10 :: Bei zerbrechlichen, beschädigten oder nicht ordnungsgemäß verschlossenen Anlieferungsgefäßen sind inerte Saugstoffe so einzufüllen, dass die Freiräume zwischen den Anlieferungsgefäßen vollständig ausgefüllt sind.
-- 2.11 :: Bei Verpackungen mit W-Codierung (z. B. �1H2W“) müssen die Saugstoffe so bemessen sein, dass sie die gesamte Flüssigkeitsmenge bei einem eventuellen Freiwerden aufsaugen können. Bei festen Abfällen darf stattdessen das Anlieferungsgefäß in einen dicht zu verschließenden Beutel oder Sack aus Kunststofffolie verpackt werden.
-- 2.12 :: Gefä�4GW“) mit inerten Füllstoffen verpackt werden. Teilentleerte und nicht funktionsfähige Gefäße, klein, mit Gas (Gaspatronen), der Klasse 2 Klassifizierungscode 5F, die entzündbare Gase enthalten, können auch unter folgenden Bedingungen befördert werden:
+- 2.11 :: Bei Verpackungen mit W-Codierung (z. B. 1H2W“) müssen die Saugstoffe so bemessen sein, dass sie die gesamte Flüssigkeitsmenge bei einem eventuellen Freiwerden aufsaugen können. Bei festen Abfällen darf stattdessen das Anlieferungsgefäß in einen dicht zu verschließenden Beutel oder Sack aus Kunststofffolie verpackt werden.
+- 2.12 :: Gefä4GW“) mit inerten Füllstoffen verpackt werden. Teilentleerte und nicht funktionsfähige Gefäße, klein, mit Gas (Gaspatronen), der Klasse 2 Klassifizierungscode 5F, die entzündbare Gase enthalten, können auch unter folgenden Bedingungen befördert werden:
   - a) :: Sie sind so in Pappkisten einzusetzen, dass eine Bewegung und eine Belastung der Ventile vermieden werden.
   - b) :: Die Pappkisten müssen nach Kapitel 6.1 ADR/RID bauartgeprüft, -zugelassen und gekennzeichnet sein. Es gelten die Anforderungen der Verpackungsgruppe II.
 - 2.13 :: Abfallfeuerlöscher der Abfalluntergruppe 1.3 dürfen auch in folgenden nicht bauartgeprüften und -zugelassenen Verpackungen befördert werden:
@@ -1562,8 +1562,8 @@ ist auf mindestens 2 Seiten dauerhaft die Aufschrift �Gefahrgut, nicht identifi
     - -- :: Anzahl der Versandstücke und
     - -- :: Beschreibung der Versandstücke
 
-    Anstelle von �<<...>>“ sind die entsprechenden Angaben gemäß der Tabelle in Nummer 2.4 einzutragen. Die Verpackungsgruppe ist hierbei der Spalte 6 zu entnehmen.
-  - c) :: Zusätzlich ist zu vermerken: �Ausnahme 20“.
+    Anstelle von <<...>>“ sind die entsprechenden Angaben gemäß der Tabelle in Nummer 2.4 einzutragen. Die Verpackungsgruppe ist hierbei der Spalte 6 zu entnehmen.
+  - c) :: Zusätzlich ist zu vermerken: Ausnahme 20“.
 - 6 :: Befristung
   Die Ausnahme 20 ist bis zum 30. Juni 2027 befristet.
 
@@ -1581,7 +1581,7 @@ ist auf mindestens 2 Seiten dauerhaft die Aufschrift �Gefahrgut, nicht identifi
   Ein Versandstück darf nicht schwerer als 100 Kilogramm sein.
 - 4 :: Angaben im Beförderungspapier
   Zusätzlich zu den sonst vorgeschriebenen Angaben ist zu vermerken:
-  �Ausnahme 21“.
+  Ausnahme 21“.
 - 5 :: Befristung
   Die Ausnahme 21 ist bis zum 30. Juni 2027 befristet.
 
@@ -1596,8 +1596,8 @@ ist auf mindestens 2 Seiten dauerhaft die Aufschrift �Gefahrgut, nicht identifi
   - a) :: Bei Beförderung von Stoffen mit einem Flammpunkt von höchstens 60 Grad Celsius und solchen, die auf oder über ihren Flammpunkt erwärmt verladen oder befördert werden, darf eine Vermischung mit entzündend (oxidierend) wirkenden Stoffen nicht erfolgen.
   - b) :: Die Tanks sind nach jeder Benutzung zu reinigen und vor der erneuten Befüllung auf Schäden zu untersuchen. Dies gilt auch für die Armaturen und Dichtungen. Werden in festverbundenen Tanks und Aufsetztanks bei aufeinanderfolgenden Beförderungen die gleichen Stoffe befördert, sind die Tanks nach der ersten Beförderung und danach in Abständen von längstens sieben Tagen zu reinigen und zu untersuchen.
 - 3 :: Angaben in der ADR-Zulassungsbescheinigung, im Prüfbericht und im Beförderungspapier
-  In der ADR-Zulassungsbescheinigung für Tankfahrzeuge nach Unterabschnitt 9.1.3.1 ADR ist unter Nummer 11 Bemerkungen anzugeben: �Ausnahme 22“. In den Prüfbescheinigungen für festverbundene Tanks, Aufsetztanks und Tankcontainer nach Absatz 6.8.2.4.5 ADR/RID ist zusätzlich zu vermerken: �Ausnahme 22“.
-  Bei Beförderungen in Tankcontainern ist im Beförderungspapier nach Abschnitt 5.4.1 ADR/RID zusätzlich zu vermerken: �Ausnahme 22“.
+  In der ADR-Zulassungsbescheinigung für Tankfahrzeuge nach Unterabschnitt 9.1.3.1 ADR ist unter Nummer 11 Bemerkungen anzugeben: Ausnahme 22“. In den Prüfbescheinigungen für festverbundene Tanks, Aufsetztanks und Tankcontainer nach Absatz 6.8.2.4.5 ADR/RID ist zusätzlich zu vermerken: Ausnahme 22“.
+  Bei Beförderungen in Tankcontainern ist im Beförderungspapier nach Abschnitt 5.4.1 ADR/RID zusätzlich zu vermerken: Ausnahme 22“.
 
 -- offen --
 - 1 :: Abweichend von § 1 Absatz 3 Nummer 1 der GGVSEB in Verbindung mit den Vorschriften des ADR
@@ -1610,20 +1610,20 @@ ist auf mindestens 2 Seiten dauerhaft die Aufschrift �Gefahrgut, nicht identifi
 - 2.1 :: Die Vorschriften für ungereinigte leere Gefäße der Unterabschnitte 4.1.1.1, 4.1.1.11 und 5.1.3.1 sowie des Absatzes 5.4.1.1.6.2.1 ADR sind einzuhalten.
 - 2.2 :: Ungereinigte leere Eichnormale mit einem Einzelfassungsraum der Gefäße von höchstens 450 Liter gelten als Verpackung im Sinne des Unterabschnitts 1.1.3.1 Buchstabe c ADR.
 - 2.3 :: Schriftliche Weisungen nach Abschnitt 5.4.3 ADR sind bei jeder Beförderung mitzuführen.
-- 2.4 :: Die Eichnormale sind an beiden Seiten deutlich und dauerhaft mit der zutreffenden UN-Nummer, der die Buchstaben �UN“ vorangestellt werden, und mit den zutreffenden Gefahrzetteln nach Absatz 5.2.2.2.2 ADR zu kennzeichnen.
+- 2.4 :: Die Eichnormale sind an beiden Seiten deutlich und dauerhaft mit der zutreffenden UN-Nummer, der die Buchstaben UN“ vorangestellt werden, und mit den zutreffenden Gefahrzetteln nach Absatz 5.2.2.2.2 ADR zu kennzeichnen.
 - 2.5 :: Die Fahrzeuge mit Eichnormalen sind mit orangefarbenen Tafeln nach Absatz 5.3.2.1.1 ADR zu kennzeichnen.
 - 2.6 :: Die Vorschriften des Kapitels 1.3, der Abschnitte 7.5.7, 8.1.1 und 8.1.4, des Unterabschnitts 8.2.1.1 in Verbindung mit 8.2.1.2 sowie der Kapitel 8.3 und 8.5 S2 Absatz 1 ADR sind einzuhalten.
 - 3 :: Vorschriften für die Beförderung von ungereinigten leeren Eichnormalen mit einem Fassungsraum über 1 000 Liter und Fahrzeuge, die ungereinigte leere Eichnormale mit einem Fassungsraum über 1 000 Liter befördern
 - 3.1 :: Die Eichnormale für flüssige Stoffe sind entleert und drucklos und die Eichnormale für Gase sind entleert und mit einem Inertgas beaufschlagt zu befördern. Alle Öffnungen für das Befüllen und für das Entleeren müssen dicht verschlossen sein.
 - 3.2 :: Die Be- und Entlüftungsöffnungen müssen mit einer flammendurchschlagsicheren Armatur ausgerüstet sein.
 - 3.3 :: Schriftliche Weisungen nach Abschnitt 5.4.3 ADR sind bei jeder Beförderung mitzuführen, nicht jedoch die darin aufgeführte Ausrüstung.
-- 3.4 :: Die Eichnormale sind an beiden Seiten deutlich und dauerhaft mit der zutreffenden UN-Nummer, der die Buchstaben �UN“ vorangestellt werden, sowie mit dem Kennzeichen für umweltgefährdende Stoffe nach Absatz 5.2.1.8.3 und mit den zutreffenden Gefahrzetteln nach Absatz 5.2.2.2.2 ADR zu kennzeichnen. Diese Kennzeichnungen sind nicht erforderlich, wenn das Fahrzeug bereits mit Kennzeichnungen nach den Nummern 3.5 und 3.6 versehen ist, und die Eichnormale mit dem Fahrzeug fest verbunden sind.
+- 3.4 :: Die Eichnormale sind an beiden Seiten deutlich und dauerhaft mit der zutreffenden UN-Nummer, der die Buchstaben UN“ vorangestellt werden, sowie mit dem Kennzeichen für umweltgefährdende Stoffe nach Absatz 5.2.1.8.3 und mit den zutreffenden Gefahrzetteln nach Absatz 5.2.2.2.2 ADR zu kennzeichnen. Diese Kennzeichnungen sind nicht erforderlich, wenn das Fahrzeug bereits mit Kennzeichnungen nach den Nummern 3.5 und 3.6 versehen ist, und die Eichnormale mit dem Fahrzeug fest verbunden sind.
 - 3.5 :: Die Fahrzeuge mit Eichnormalen mit einem Fassungsraum über 1 000 Liter sind mit dem Kennzeichen für umweltgefährdende Stoffe nach Abschnitt 5.3.6 und mit Großzetteln nach Abschnitt 5.3.1 ADR an beiden Längsseiten und hinten zu versehen.
 - 3.6 :: Die Beförderungseinheiten sind vorn und hinten nach Absatz 5.3.2.1.2 ADR mit orangefarbenen Tafeln mit der Nummer zur Kennzeichnung der Gefahr und der UN-Nummer für den Stoff, der zuletzt in den Eichnormalen enthalten war, zu kennzeichnen.
 - 3.7 :: Die Eichnormale sind erstmalig vor Inbetriebnahme sowie wiederkehrend mindestens alle drei Jahre von einer Stelle nach § 12 der GGVSEB einer äußeren und inneren Prüfung sowie einer Dichtheitsprüfung mit Wasser ohne Überdruck zu unterziehen. Über die Prüfung hat die Überwachungsstelle eine Bescheinigung auszustellen, die bei jeder Beförderung mitzuführen ist.
 - 3.8 :: Zusätzlich zu den Vorschriften nach Nummer 2.6 sind die Vorschriften der Absätze 4.3.2.3.6, 4.3.2.4.1, 4.3.2.4.2, 4.3.4.2.2 und 6.8.2.1.27, des Abschnitts 7.5.10, des Unterabschnitts 8.2.1.1 in Verbindung mit 8.2.1.3, des Kapitels 8.5 S2 Absatz 2 und 3 sowie des Abschnitts 9.7.4 ADR einzuhalten.
 - 3.9 :: Die Fahrzeuge für die Beförderung von Eichnormalen müssen den Bau- und Zulassungsvorschriften für Fahrzeuge FL nach Teil 9 des ADR entsprechen.
-- 3.10 :: In der ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.3.1 ADR darf unter Nummer 9 auf die Angabe zu den Nummern 9.2, 9.5 und 9.6 verzichtet werden. Unter Nummer 11 ist anzugeben: �Ausnahme 24“.
+- 3.10 :: In der ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.3.1 ADR darf unter Nummer 9 auf die Angabe zu den Nummern 9.2, 9.5 und 9.6 verzichtet werden. Unter Nummer 11 ist anzugeben: Ausnahme 24“.
 - 4 :: Sonstige Vorschriften
   Die übrigen Vorschriften des ADR finden keine Anwendung.
 - 5 :: Befristung
@@ -1646,7 +1646,7 @@ ist auf mindestens 2 Seiten dauerhaft die Aufschrift �Gefahrgut, nicht identifi
 - 5 :: Sonstige Vorschriften
   Die sonstigen, für die Beförderung von UN 0431 PYROTECHNISCHE GEGENSTÄNDE für technische Zwecke sowie UN 0503 SICHERHEITSEINRICHTUNGEN, PYROTECHNISCH der Klasse 1, Klassifizierungscode 1.4G geltenden Vorschriften sind einzuhalten.
 - 6 :: Angaben im Beförderungspapier
-  Zusätzlich zu den sonst vorgeschriebenen Angaben ist zu vermerken: �Ausnahme 28“.
+  Zusätzlich zu den sonst vorgeschriebenen Angaben ist zu vermerken: Ausnahme 28“.
 - 7 :: Befristung
   Die Ausnahme 28 ist bis zum 30. Juni 2027 befristet.
 
@@ -1659,7 +1659,7 @@ ist auf mindestens 2 Seiten dauerhaft die Aufschrift �Gefahrgut, nicht identifi
 
 - 1 :: Abweichend von § 1 Absatz 3 Nummer 1 in Verbindung mit § 5 Absatz 6 der GGVSEB dürfen folgende Allgemeine Ausnahmegenehmigungen der Bundeswehr zur Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt (GGVSEB)<<FnR.f806001_02>>[[#f806001_02][*]]} auch durch zivile Unternehmen angewendet werden, die im Auftrag und unter der Verantwortung der Bundeswehr gefährliche Güter befördern:\\
   \\
-  | a) | Bw 01 (S, E) | AGGABw | �Mitführen“ gefährlicher Güter auf der Straße und der Eisenbahn mit Fahrzeugen der Bundeswehr                                                                                                                         |
+  | a) | Bw 01 (S, E) | AGGABw | Mitführen“ gefährlicher Güter auf der Straße und der Eisenbahn mit Fahrzeugen der Bundeswehr                                                                                                                         |
   | b) | Bw 17 (S, E) | AGGABw | Kennzeichnung von Gegenständen/Versandstücken gefährlicher Güter mit Gefahrzetteln geringerer Größe                                                                                                                   |
   | c) | Bw 21 (S, E) | AGGABw | Beförderung gefährlicher Güter Klasse 1 in (alt-)palettierten Versandstücken/geeigneten Handhabungseinrichtungen; keine Kennzeichnung mit Gefahrzetteln Nr. 8; Kennzeichnung mit Gefahrzetteln geringerer Abmessungen |
   | d) | Bw 23 (S, E) | AGGABw | Zusammenpacken von Gegenständen der Klasse 1 mit nicht gefährlichen Gütern (Zubehör)                                                                                                                                  |
@@ -1668,7 +1668,7 @@ ist auf mindestens 2 Seiten dauerhaft die Aufschrift �Gefahrgut, nicht identifi
   | g) | Bw 27 (S, E) | AGGABw | Verpackungen für militärische Güter der Klasse 1                                                                                                                                                                      |
   | h) | Bw 29 (S)    | AGGABw | Beförderung von Resten und/oder Komponenten gefährlicher Güter der Klasse 1 in Originalverpackungen unter Verzicht auf die vorgeschriebene Metallbebänderung.                                                         |
 - 2 :: Angaben im Beförderungspapier
-  Zusätzlich zu den sonst vorgeschriebenen Angaben ist zu vermerken: �Ausnahme 32 (BwXX)“, wobei XX der Nummer der Allgemeinen Ausnahmegenehmigung der Bundeswehr gemäß Nummer 1 Buchstabe a bis h entspricht.
+  Zusätzlich zu den sonst vorgeschriebenen Angaben ist zu vermerken: Ausnahme 32 (BwXX)“, wobei XX der Nummer der Allgemeinen Ausnahmegenehmigung der Bundeswehr gemäß Nummer 1 Buchstabe a bis h entspricht.
 
 - 1 :: Abweichend von § 3 Absatz 1 der GGVSee dürfen gefährliche Güter auf Fährschiffen, die Küstenschifffahrt im Sinne des § 1 der Verordnung über die Küstenschifffahrt vom 5. Juli 2002 (BGBl. I S. 2555), die zuletzt durch Artikel 176 des Gesetzes vom 29. März 2017 (BGBl. I S. 626) geändert worden ist, betreiben, sowie auf der Fährstrecke Eemshaven/Borkum befördert werden, wenn die nachfolgenden Bestimmungen beachtet werden.
 - 2 :: Anwendungsbereich
@@ -1692,7 +1692,7 @@ ist auf mindestens 2 Seiten dauerhaft die Aufschrift �Gefahrgut, nicht identifi
   Der Schiffsführer hat durch geeignete Maßnahmen dafür zu sorgen, dass der Stellplatz der CTU mit gefährlichen Gütern einschließlich des freien Schutzbereichs nach Nummer 4 von Unbefugten nicht betreten wird.
   Die Beförderungseinheiten sind gegen Wegrollen und Wegrutschen durch Anziehen der Feststellbremse, Unterlegen von Keilen vor und hinter mindestens je einem Rad an allen Achsen, und weitere Sicherungsmaßnahmen (z. B. Einlegen des 1. Ganges) zu sichern.
 - 9 :: Angaben im Beförderungspapier
-  Zusätzlich zu den sonst vorgeschriebenen Angaben ist zu vermerken: �Ausnahme 33“.
+  Zusätzlich zu den sonst vorgeschriebenen Angaben ist zu vermerken: Ausnahme 33“.
 - 10 :: Schriftliche Weisungen
   Der Schiffsführer hat die schriftlichen Weisungen nach Abschnitt 5.4.3 ADR griffbereit auf der Brücke vorzuhalten.
 - 11 :: Anlaufbedingungsverordnung
@@ -1708,7 +1708,7 @@ Abweichend von § 3 Absatz 1 Nummer 1 der GGVSee dürfen gefährliche Güter auf
 - 3 :: Dokumentation
 - 3.1 :: Für alle an Bord befindlichen gefährlichen Güter müssen die auf die jeweiligen Stoffe und Gegenstände zutreffenden Sicherheitsdatenblätter mitgeführt werden. Dies gilt nicht für Gegenstände, für die kein Sicherheitsdatenblatt nach Artikel 31 in Verbindung mit Anlage II der Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates vorgeschrieben ist.
 - 3.2 :: Zusätzlich ist ein Verzeichnis mitzuführen, in dem die gefährlichen Güter mit folgenden Angaben aufgeführt sind:
-  - a) :: die UN-Nummer, der die Buchstaben �UN“ vorangestellt werden,
+  - a) :: die UN-Nummer, der die Buchstaben UN“ vorangestellt werden,
   - b) :: der richtige technische Name nach Spalte 2 der Gefahrgutliste des IMDG-Codes,
   - c) :: die Klasse der Hauptgefahr oder, falls zugeordnet, Unterklasse der Güter sowie bei Klasse 1 der Buchstabe der Verträglichkeitsgruppe,
   - d) :: die gegebenenfalls zugeordnete(n) Nummer(n) für die Klasse oder Unterklasse der Zusatzgefahr und
@@ -1723,6 +1723,6 @@ Abweichend von § 3 Absatz 1 Nummer 1 der GGVSee dürfen gefährliche Güter auf
   - b) :: gefährliche Güter, deren Beförderung nach den Vorschriften des IMDG-Codes verboten ist oder für die die Verpackungsanweisung P 099 vorgeschrieben ist,
   - c) :: gefährliche Güter der Klasse 1 mit den Klassifizierungscodes 1.1 A, 1.1 L, 1.2 K, 1.2 L, 1.3 K und 1.3 L sowie der UN-Nummer 0190,
   - d) :: selbstzersetzliche Stoffe der Klasse 4.1, organische Peroxide der Klasse 5.2, polymerisierende Stoffe und entzündbare Gase und flüssige Stoffe mit einem Flammpunkt unter 23 °C, die unter Temperaturkontrolle zu befördern sind,
-  - e) :: Stoffe der Klassen 4.1 und 5.2, die zusätzlich mit dem Gefahrzettel �EXPLOSIVE“ Muster 1 zu versehen sind,
+  - e) :: Stoffe der Klassen 4.1 und 5.2, die zusätzlich mit dem Gefahrzettel EXPLOSIVE“ Muster 1 zu versehen sind,
   - f) :: gefährliche Güter der Klasse 6.2, Kategorie A und
   - g) :: gefährliche Güter der Klasse 7 mit Ausnahme der UN-Nummern 2908, 2909, 2910 und 2911.

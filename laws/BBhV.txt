@@ -44,7 +44,7 @@ Beihilfeberechtigt nach ¬ß 2 Abs. 1 Nr. 1 sind auch diejenigen Beamtinnen und Be
 (1) Ehegattinnen, Ehegatten, Lebenspartnerinnen und Lebenspartner beihilfeberechtigter Personen sind ber√ºcksichtigungsf√§hig.
 (2) Kinder sind ber√ºcksichtigungsf√§hig, wenn sie beim Familienzuschlag der beihilfeberechtigten Person nach dem Besoldungs- und Versorgungsrecht ber√ºcksichtigungsf√§hig sind. Dies gilt f√ºr beihilfeberechtigte Personen nach ¬ß 3, wenn
 
-- 1. :: Anspruch auf einen Auslandszuschlag nach ¬ß 53 Absatz 4 Nummer 2 und 2a des Bundesbesoldungsgesetzes besteht oder†
+- 1. :: Anspruch auf einen Auslandszuschlag nach ¬ß 53 Absatz 4 Nummer 2 und 2a des Bundesbesoldungsgesetzes besteht oder
 - 2. :: ein Auslandszuschlag nach ¬ß 53 Absatz 4 Nummer 2 und 2a des Bundesbesoldungsgesetzes nur deshalb nicht gezahlt wird, weil im Inland ein Haushalt eines Elternteils besteht, der f√ºr das Kind sorgeberechtigt ist oder war.
 
 Befinden sich Kinder nach Vollendung des 25. Lebensjahres noch in Schul- oder Berufsausbildung, sind sie weiter ber√ºcksichtigungsf√§hig, wenn die Ausbildung durch einen freiwilligen Wehrdienst nach ¬ß 58b des Soldatengesetzes, einen Freiwilligendienst nach dem Bundesfreiwilligendienstgesetz oder dem Jugendfreiwilligendienstegesetz oder einen vergleichbaren anerkannten Freiwilligendienst oder durch eine T√§tigkeit als Entwicklungshelfer im Sinne des ¬ß 1 Absatz 1 des Entwicklungshelfer-Gesetzes unterbrochen oder verz√∂gert worden ist. Die Dauer der weiteren Ber√ºcksichtigungsf√§higkeit entspricht der Dauer des abgeleisteten Dienstes, insgesamt h√∂chstens zw√∂lf Monate.
@@ -989,7 +989,7 @@ Daneben beteiligt sich der Bund an den Kosten der Pflegeberatung nach ¬ß 37 Absa
 
 - 1. :: √§rztliche Betreuung w√§hrend der Schwangerschaft und nach der Entbindung,
 - 2. :: die Hebamme oder den Entbindungspfleger im Rahmen der jeweiligen landesrechtlichen Geb√ºhrenordnung,
-- 3. :: von Hebammen oder Entbindungspflegern geleitete Einrichtungen im Sinne des ¬ß 134a des F√ºnften Buches Sozialgesetzbuch,†
+- 3. :: von Hebammen oder Entbindungspflegern geleitete Einrichtungen im Sinne des ¬ß 134a des F√ºnften Buches Sozialgesetzbuch,
 - 4. :: eine Haus- und Wochenpflegekraft f√ºr bis zu zwei Wochen nach der Geburt bei Hausentbindungen oder ambulanten Entbindungen. ¬ß 27 Absatz 4 gilt entsprechend.
 
 (2) Bei Personen, die nach ¬ß 3 beihilfeberechtigt oder bei einer nach ¬ß 3 beihilfeberechtigten Person ber√ºcksichtigungsf√§hig sind, sind in Geburtsf√§llen zus√§tzlich die vor Aufnahme in ein Krankenhaus am Entbindungsort entstehenden Kosten der Unterkunft beihilfef√§hig. ¬ß 32 Abs. 3 Satz 2 gilt entsprechend. Dies gilt nicht f√ºr die Unterkunft im Haushalt des Ehegatten, der Lebenspartnerin, der Eltern oder der Kinder der Schwangeren.
@@ -1070,7 +1070,7 @@ idiopathische, unerkl√§rbare Sterilit√§t, sofern alle diagnostischen und sonstig
 Subfertilit√§t des Mannes, sofern Behandlungsversuche nach Nummer 2 keinen Erfolg versprechen oder erfolglos geblieben sind
 5
 Intracytoplasmatische Spermieninjektion
-schwere m√§nnliche Fertilit√§tsst√∂rung, dokumentiert durch zwei aktuelle Spermiogramme, die auf der Grundlage des Handbuchs der Weltgesundheitsorganisation zu ‚ÄExamination and processing of human semen‚Äú erstellt worden sind; die Untersuchung des Mannes durch √Ñrztinnen und √Ñrzte mit der Zusatzbezeichnung ‚ÄAndrologie‚Äú muss der Indikationsstellung vorausgehen
+schwere m√§nnliche Fertilit√§tsst√∂rung, dokumentiert durch zwei aktuelle Spermiogramme, die auf der Grundlage des Handbuchs der Weltgesundheitsorganisation zu Examination and processing of human semen‚Äú erstellt worden sind; die Untersuchung des Mannes durch √Ñrztinnen und √Ñrzte mit der Zusatzbezeichnung Andrologie‚Äú muss der Indikationsstellung vorausgehen
 drei;\\
 \\
 der dritte Versuch ist nur beihilfef√§hig, wenn in einem von zwei Behandlungszyklen eine Befruchtung stattgefunden hat
@@ -1462,9 +1462,9 @@ Anlage 3 - (zu den ¬ß¬ß 18 bis 21)Ambulant durchgef√ºhrte psychotherapeutische B
   - a) :: Psychotherapeutische Medizin,
   - b) :: Psychiatrie und Psychotherapie oder Psychosomatische Medizin und Psychotherapie,
   - c) :: Kinder- und Jugendlichenpsychiatrie und -psychotherapie oder
-  - d) :: √Ñrztin oder Arzt mit der Bereichs- oder Zusatzbezeichnung ‚ÄPsychotherapie‚Äú oder ‚ÄPsychoanalyse‚Äú.
+  - d) :: √Ñrztin oder Arzt mit der Bereichs- oder Zusatzbezeichnung Psychotherapie‚Äú oder Psychoanalyse‚Äú.
 
-  Eine Fach√§rztin oder ein Facharzt f√ºr Psychotherapeutische Medizin, Psychiatrie und Psychotherapie oder Kinder- und Jugendlichenpsychiatrie und -psychotherapie sowie eine √Ñrztin oder ein Arzt mit der Bereichsbezeichnung ‚ÄPsychotherapie‚Äú kann nur tiefenpsychologisch fundierte Psychotherapie (Nummern 860 bis 862 der Anlage zur Geb√ºhrenordnung f√ºr √Ñrzte) durchf√ºhren. Eine √Ñrztin oder ein Arzt mit der Bereichs- oder Zusatzbezeichnung ‚ÄPsychoanalyse‚Äú oder mit der vor dem 1. April 1984 verliehenen Bereichsbezeichnung ‚ÄPsychotherapie‚Äú kann auch analytische Psychotherapie (Nummern 863 und 864 der Anlage zur Geb√ºhrenordnung f√ºr √Ñrzte) durchf√ºhren.
+  Eine Fach√§rztin oder ein Facharzt f√ºr Psychotherapeutische Medizin, Psychiatrie und Psychotherapie oder Kinder- und Jugendlichenpsychiatrie und -psychotherapie sowie eine √Ñrztin oder ein Arzt mit der Bereichsbezeichnung Psychotherapie‚Äú kann nur tiefenpsychologisch fundierte Psychotherapie (Nummern 860 bis 862 der Anlage zur Geb√ºhrenordnung f√ºr √Ñrzte) durchf√ºhren. Eine √Ñrztin oder ein Arzt mit der Bereichs- oder Zusatzbezeichnung Psychoanalyse‚Äú oder mit der vor dem 1. April 1984 verliehenen Bereichsbezeichnung Psychotherapie‚Äú kann auch analytische Psychotherapie (Nummern 863 und 864 der Anlage zur Geb√ºhrenordnung f√ºr √Ñrzte) durchf√ºhren.
 - 4. :: Voraussetzung f√ºr die Beihilfef√§higkeit der Aufwendungen in Ausnahmef√§llen (¬ß 19 Absatz 1 Nummer 3 und 4) ist, dass vor Beginn der Behandlung eine erneute eingehende Begr√ºndung der Therapeutin oder des Therapeuten vorgelegt wird und die Festsetzungsstelle vor Beginn der Behandlung zugestimmt hat. Zeigt sich bei der Therapie, dass das Behandlungsziel innerhalb der vorgesehenen Anzahl der Sitzungen nicht erreicht wird, kann in Ausnahmef√§llen eine weitere begrenzte Behandlungsdauer anerkannt werden. Die Anerkennung darf erst im letzten Behandlungsabschnitt erfolgen. Voraussetzung f√ºr die Anerkennung ist eine Indikation nach ¬ß 18a Absatz 1 und 2, die nach ihrer besonderen Symptomatik und Struktur eine besondere tiefenpsychologisch fundierte oder analytische Bearbeitung erfordert und eine hinreichende Prognose √ºber das Erreichen des Behandlungsziels erlaubt.
 
 - 1. :: Leistungen der Verhaltenstherapie d√ºrfen bei Personen, die das 18. Lebensjahr vollendet haben, nur von folgenden Personen erbracht werden:
@@ -1478,7 +1478,7 @@ Anlage 3 - (zu den ¬ß¬ß 18 bis 21)Ambulant durchgef√ºhrte psychotherapeutische B
   - a) :: Psychotherapeutische Medizin oder Psychosomatische Medizin,
   - b) :: Psychiatrie und Psychotherapie,
   - c) :: Kinder- und Jugendlichenpsychiatrie und -psychotherapie oder
-  - d) :: √Ñrztin oder Arzt mit der Bereichs- oder Zusatzbezeichnung ‚ÄPsychotherapie‚Äú.
+  - d) :: √Ñrztin oder Arzt mit der Bereichs- oder Zusatzbezeichnung Psychotherapie‚Äú.
 
   √Ñrztliche Psychotherapeutinnen oder √§rztliche Psychotherapeuten, die keine Fach√§rztinnen oder Fach√§rzte sind, k√∂nnen die Behandlung durchf√ºhren, wenn sie den Nachweis erbringen, dass sie w√§hrend ihrer Weiterbildung schwerpunktm√§√üig Kenntnisse und Erfahrungen in Verhaltenstherapie erworben haben.
 
@@ -1489,7 +1489,7 @@ Anlage 3 - (zu den ¬ß¬ß 18 bis 21)Ambulant durchgef√ºhrte psychotherapeutische B
 - 2. :: Wird die Behandlung von einer √§rztlichen Psychotherapeutin oder einem √§rztlichen Psychotherapeuten durchgef√ºhrt, muss diese Person Fach√§rztin oder Facharzt f√ºr eines der folgenden Fachgebiete sein:
   - a) :: Psychiatrie und Psychotherapie,
   - b) :: Psychosomatische Medizin und Psychotherapie oder
-  - c) :: √Ñrztin oder Arzt mit der Zusatzbezeichnung ‚ÄPsychotherapie‚Äú
+  - c) :: √Ñrztin oder Arzt mit der Zusatzbezeichnung Psychotherapie‚Äú
 
   mit erfolgreicher Weiterbildung auf dem Gebiet der Systemischen Therapie.
 
@@ -1512,10 +1512,10 @@ Nr.
 Produktbezeichnung
 Medizinische Anwendungsf√§lle
 0
-†
-†
-†
-†
+
+
+
+
 1xklysma salinisch
 Zur raschen und nachhaltigen Entleerung des Enddarms vor Operationen und diagnostischen Eingriffen; nicht zur Anwendung bei Personen, die das sechste Lebensjahr noch nicht vollendet haben.
 1
@@ -1567,18 +1567,18 @@ BSS STERILE SP√úLL√ñSUNG\\
 Zur Irrigation im Rahmen extraokularer und intraokularer Eingriffe.
 3
 unbesetzt
-†
-†
+
+
 4
 4.1
 Dimet 20
 Behandlung des Kopfhaares bei Pediculosis capitis bei Personen, die
-†
-†
+
+
 a)
 das zw√∂lfte Lebensjahr noch nicht vollendet haben,
-†
-†
+
+
 b)
 das zw√∂lfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsst√∂rungen leiden.
 4.2
@@ -1591,12 +1591,12 @@ Zur Anwendung als Operationshilfe in der Ophthalmochirurgie des vorderen Augenab
 5.1
 EtoPril
 Behandlung des Kopfhaares bei Pediculosis capitis bei Personen, die
-†
-†
+
+
 a)
 das zw√∂lfte Lebensjahr noch nicht vollendet haben,
-†
-†
+
+
 b)
 das zw√∂lfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsst√∂rungen leiden.
 5.2
@@ -1607,27 +1607,27 @@ Zur Irrigation im Rahmen extraokularer und intraokularer Eingriffe.
 6.1
 Freka-Clyss
 Behandlung
-†
-†
+
+
 a)
 der Obstipation im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Mukoviszidose oder neurogener Darml√§hmung,
-†
-†
+
+
 b)
 vor diagnostischen Eingriffen,
-†
-†
+
+
 c)
 bei Opiat- sowie Opioidtherapie und
-†
-†
+
+
 d)
 in der Terminalphase
-†
-†
+
+
 bei Personen, die das zw√∂lfte Lebensjahr vollendet haben.
-†
-†
+
+
 Behandlung der Obstipation, zur raschen und nachhaltigen Entleerung des Enddarms vor Operationen, zur Vorbereitung von urologischen, r√∂ntgenologischen und gyn√§kologischen Untersuchungen sowie vor Rektoskopien bei Personen, die das zw√∂lfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsst√∂rungen leiden.
 6.2
 Freka Drainjet NaCl 0,9 %
@@ -1638,12 +1638,12 @@ Purisole SM verd√ºnnt
 Zur intraoperativen und postoperativen Blasensp√ºlung bei urologischen Eingriffen.
 7
 unbesetzt
-†
-†
+
+
 8
-†
-†
-†
+
+
+
 8.1
 Healon
 F√ºr die intraokulare Verwendung bei Augenoperationen.
@@ -1656,12 +1656,12 @@ Als viskoelastische L√∂sung f√ºr die intraokulare Verwendung bei Operationen am 
 8.4
 Hedrin Once Liquid Gel
 Behandlung des Kopfhaares bei Pediculosis capitis bei Personen, die
-†
-†
+
+
 a)
 den sechsten Lebensmonat, aber noch nicht das zw√∂lfte Lebensjahr vollendet haben,
-†
-†
+
+
 b)
 das zw√∂lfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsst√∂rungen leiden.
 8.5
@@ -1683,27 +1683,27 @@ Als Tr√§gerl√∂sung bei der Verwendung von Inhalaten in Verneblern oder Aerosolge
 9.3
 ISOMOL
 Behandlung
-†
-†
+
+
 a)
 der Obstipation im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Divertikulitis, Mukoviszidose oder neurogener Darml√§hmung,
-†
-†
+
+
 b)
 bei phosphatbindender Medikation bei chronischer Niereninsuffizienz,
-†
-†
+
+
 c)
 bei Opiat- sowie Opioidtherapie und
-†
-†
+
+
 d)
 in der Terminalphase
-†
-†
+
+
 bei Personen, die das zw√∂lfte Lebensjahr vollendet haben.
-†
-†
+
+
 Behandlung der Obstipation bei Personen, die das zw√∂lfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsst√∂rungen leiden.
 9.4
 Isotonische Kochsalzl√∂sung zur\\
@@ -1711,8 +1711,8 @@ Inhalation (Eifelfango)
 Als Tr√§gerl√∂sung bei der Verwendung von Inhalaten in Verneblern oder Aerosolger√§ten, wenn der Zusatz einer isotonen Tr√§gerl√∂sung in der Fachinformation des arzneistoffhaltigen Inhalats zwingend vorgesehen ist.
 10
 unbesetzt
-†
-†
+
+
 11
 11.1
 Kinderlax elektrolytfrei
@@ -1720,27 +1720,27 @@ Zur Behandlung der Obstipation f√ºr Personen, die den f√ºnften Lebensmonat, aber
 11.2
 Klistier Fresenius
 Behandlung
-†
-†
+
+
 a)
 der Obstipation im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des kongenitalen Megacolons), Divertikulose, Mukoviszidose oder neurogener Darml√§hmung,
-†
-†
+
+
 b)
 vor diagnostischen Eingriffen,
-†
-†
+
+
 c)
 bei Opiat- sowie Opioidtherapie und
-†
-†
+
+
 d)
 in der Terminalphase
-†
-†
+
+
 bei Personen, die das zw√∂lfte Lebensjahr vollendet haben.
-†
-†
+
+
 Behandlung der Obstipation, zur raschen und nachhaltigen Entleerung des Enddarms vor Operationen, zur Vorbereitung von urologischen, r√∂ntgenologischen und gyn√§kologischen Untersuchungen sowie vor Rektoskopien bei Personen, die das zw√∂lfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsst√∂rungen leiden.
 11.3
 Kochsalz 0,9 %\\
@@ -1752,152 +1752,152 @@ unbesetzt
 13.1
 Macrogol AbZ
 Behandlung
-†
-†
+
+
 a)
 der Obstipation im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Divertikulitis, Mukoviszidose oder neurogener Darml√§hmung,
-†
-†
+
+
 b)
 bei phosphatbindender Medikation bei chronischer Niereninsuffizienz,
-†
-†
+
+
 c)
 bei Opiat- sowie Opioidtherapie und
-†
-†
+
+
 d)
 in der Terminalphase
-†
-†
+
+
 bei Personen, die das zw√∂lfte Lebensjahr vollendet haben.
-†
-†
+
+
 Behandlung der Obstipation bei Personen, die das zw√∂lfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsst√∂rungen leiden.
 13.2
 Macrogol dura
 Behandlung
-†
-†
+
+
 a)
 der Obstipation im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Divertikulitis, Mukoviszidose oder neurogener Darml√§hmung,
-†
-†
+
+
 b)
 bei phosphatbindender Medikation bei chronischer Niereninsuffizienz,
-†
-†
+
+
 c)
 bei Opiat- sowie Opioidtherapie und
-†
-†
+
+
 d)
 in der Terminalphase
-†
-†
+
+
 bei Personen, die das zw√∂lfte Lebensjahr vollendet haben.
-†
-†
+
+
 Behandlung der Obstipation bei Personen, die das zw√∂lfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsst√∂rungen leiden.
 13.3
 Macrogolratiopharm
 Behandlung
-†
-†
+
+
 a)
 der Obstipation im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Divertikulitis, Mukoviszidose oder neurogener Darml√§hmung,
-†
-†
+
+
 b)
 bei phosphatbindender Medikation bei chronischer Niereninsuffizienz,
-†
-†
+
+
 c)
 bei Opiat- sowie Opioidtherapie und
-†
-†
+
+
 d)
 in der Terminalphase
-†
-†
+
+
 bei Personen, die das zw√∂lfte Lebensjahr vollendet haben.
-†
-†
+
+
 Behandlung der Obstipation bei Personen, die das zw√∂lfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsst√∂rungen leiden.
 13.4
 Macrogolratiopharm fl√ºssig Orange
 Behandlung
-†
-†
+
+
 a)
 der Obstipation im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Divertikulitis, Mukoviszidose oder neurogener Darml√§hmung,
-†
-†
+
+
 b)
 bei phosphatbindender Medikation bei chronischer Niereninsuffizienz,
-†
-†
+
+
 c)
 bei Opiat- sowie Opioidtherapie und
-†
-†
+
+
 d)
 in der Terminalphase
-†
-†
+
+
 bei Personen, die das zw√∂lfte Lebensjahr vollendet haben.
-†
-†
+
+
 Behandlung der Obstipation bei Personen, die das zw√∂lfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsst√∂rungen leiden.
 13.5
 Macrogol TAD
 Behandlung
-†
-†
+
+
 a)
 der Obstipation im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Divertikulitis, Mukoviszidose oder neurogener Darml√§hmung,
-†
-†
+
+
 b)
 bei phosphatbindender Medikation bei chronischer Niereninsuffizienz,
-†
-†
+
+
 c)
 bei Opiat- sowie Opioidtherapie und
-†
-†
+
+
 d)
 in der Terminalphase
-†
-†
+
+
 bei Personen, die das zw√∂lfte Lebensjahr vollendet haben.
-†
-†
+
+
 Behandlung der Obstipation bei Personen, die das zw√∂lfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsst√∂rungen leiden.
 13.6
 Medicoforum Laxativ
 Behandlung
-†
-†
+
+
 a)
 der Obstipation im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Divertikulitis, Mukoviszidose oder neurogener Darml√§hmung,
-†
-†
+
+
 b)
 bei phosphatbindender Medikation bei chronischer Niereninsuffizienz,
-†
-†
+
+
 c)
 bei Opiat- sowie Opioidtherapie und
-†
-†
+
+
 d)
 in der Terminalphase
-†
-†
+
+
 bei Personen, die das zw√∂lfte Lebensjahr vollendet haben.
-†
-†
+
+
 Behandlung der Obstipation bei Personen, die das zw√∂lfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsst√∂rungen leiden.
 13.7
 Microvisc plus
@@ -1905,105 +1905,105 @@ Zur Anwendung als Operationshilfe in der Opthalmochirurgie des vorderen Augenabs
 13.8
 Mosquito med L√§use-Shampoo
 Behandlung des Kopfhaares bei Pediculosis capitis bei Personen, die
-†
-†
+
+
 a)
 das zw√∂lfte Lebensjahr noch nicht vollendet haben,
-†
-†
+
+
 b)
 das zw√∂lfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsst√∂rungen leiden.
 13.9
 Mosquito med L√§use-Shampoo 10
 Behandlung des Kopfhaares bei Pediculosis capitis bei Personen, die
-†
-†
+
+
 a)
 das zw√∂lfte Lebensjahr noch nicht vollendet haben,
-†
-†
+
+
 b)
 das zw√∂lfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsst√∂rungen leiden.
 13.10
 MOVICOL
 Behandlung
-†
-†
+
+
 a)
 der Obstipation im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Divertikulitis, Mukoviszidose oder neurogener Darml√§hmung,
-†
-†
+
+
 b)
 bei phosphatbindender Medikation der chronischen Niereninsuffizienz,
-†
-†
+
+
 c)
 bei Opiat- oder Opioidtherapie und
-†
-†
+
+
 d)
 in der Terminalphase
-†
-†
+
+
 bei Personen, die das zw√∂lfte Lebensjahr vollendet haben.
-†
-†
+
+
 Behandlung der Obstipation bei Personen, die das zw√∂lfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsst√∂rungen leiden.
 13.11
 MOVICOL aromafrei
 Behandlung
-†
-†
+
+
 a)
 der Obstipation im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Divertikulitis, Mukoviszidose oder neurogener Darml√§hmung,
-†
-†
+
+
 b)
 bei phosphatbindender Medikation bei chronischer Niereninsuffizienz,
-†
-†
+
+
 c)
 bei Opiat- sowie Opioidtherapie und
-†
-†
+
+
 d)
 in der Terminalphase
-†
-†
+
+
 bei Personen, die das zw√∂lfte Lebensjahr vollendet haben.
-†
-†
+
+
 Behandlung der Obstipation bei Personen, die das zw√∂lfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsst√∂rungen leiden.
 13.12
 MOVICOL fl√ºssig Orange
 Behandlung
-†
-†
+
+
 a)
 der Obstipation im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Divertikulitis, Mukoviszidose oder neurogener Darml√§hmung,
-†
-†
+
+
 b)
 bei phosphatbindender Medikation bei chronischer Niereninsuffizienz,
-†
-†
+
+
 c)
 bei Opiat- sowie Opioidtherapie und
-†
-†
+
+
 d)
 in der Terminalphase
-†
-†
+
+
 bei Personen, die das zw√∂lfte Lebensjahr vollendet haben.
-†
-†
+
+
 Behandlung der Obstipation bei Personen, die das zw√∂lfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsst√∂rungen leiden.
 13.13
 MOVICOL Junior aromafrei
 Behandlung der Obstipation bei Personen, die das zweite, aber noch nicht das elfte Lebensjahr vollendet haben.
-†
-†
+
+
 Behandlung der Koprostase bei Personen, die das f√ºnfte, aber noch nicht das elfte Lebensjahr vollendet haben.
 13.14
 MOVICOL Junior Schoko
@@ -2011,52 +2011,52 @@ Behandlung der Obstipation bei Personen, die das zweite, aber noch nicht das elf
 13.15
 MOVICOL Schoko
 Behandlung
-†
-†
+
+
 a)
 der Obstipation im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Divertikulitis, Mukoviszidose oder neurogener Darml√§hmung,
-†
-†
+
+
 b)
 bei phosphatbindender Medikation bei chronischer Niereninsuffizienz,
-†
-†
+
+
 c)
 bei Opiat- sowie Opioidtherapie und
-†
-†
+
+
 d)
 in der Terminalphase
-†
-†
+
+
 bei Personen, die das zw√∂lfte Lebensjahr vollendet haben.
-†
-†
+
+
 Behandlung der Obstipation bei Personen, die das zw√∂lfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsst√∂rungen leiden.
 13.16
 MOVICOL V
 Behandlung
-†
-†
+
+
 a)
 der Obstipation im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Divertikulitis, Mukoviszidose oder neurogener Darml√§hmung,
-†
-†
+
+
 b)
 bei phosphatbindender Medikation bei chronischer Niereninsuffizienz,
-†
-†
+
+
 c)
 bei Opiat- sowie Opioidtherapie und
-†
-†
+
+
 d)
 in der Terminalphase
-†
-†
+
+
 bei Personen, die das zw√∂lfte Lebensjahr vollendet haben.
-†
-†
+
+
 Behandlung der Obstipation bei Personen, die das zw√∂lfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsst√∂rungen leiden.
 13.17
 MucoClear 6 %
@@ -2081,23 +2081,23 @@ Zur symptomatischen Inhalationsbehandlung der Mukoviszidose bei Personen, die da
 14.5
 NYDA
 Behandlung des Kopfhaares bei Pediculosis capitis bei Personen, die
-†
-†
+
+
 a)
 das zw√∂lfte Lebensjahr noch nicht vollendet haben,
-†
-†
+
+
 b)
 das zw√∂lfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsst√∂rungen leiden.
 14.6
 NYDA L√§usespray
 Behandlung des Kopfhaares bei Pediculosis capitis bei Personen, die
-†
-†
+
+
 a)
 das zw√∂lfte Lebensjahr noch nicht vollendet haben,
-†
-†
+
+
 b)
 das zw√∂lfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsst√∂rungen leiden.
 15
@@ -2129,12 +2129,12 @@ Zur symptomatischen Inhalationsbehandlung der Mukoviszidose f√ºr Personen, die d
 16.2
 Paranix ohne Nissenkamm
 Behandlung des Kopfhaares bei Pediculosis capitis bei Personen, die
-†
-†
+
+
 a)
 das zw√∂lfte Lebensjahr noch nicht vollendet haben,
-†
-†
+
+
 b)
 das zw√∂lfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsst√∂rungen leiden.
 16.3
@@ -2143,27 +2143,27 @@ Als Tr√§gerl√∂sung bei der Verwendung von Inhalaten in Verneblern oder Aerosolge
 16.4
 ParkoLax
 Behandlung
-†
-†
+
+
 a)
 der Obstipation im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Divertikulitis, Mukoviszidose oder neurogener Darml√§hmung,
-†
-†
+
+
 b)
 bei phosphatbindender Medikation bei chronischer Niereninsuffizienz,
-†
-†
+
+
 c)
 bei Opiat- sowie Opioidtherapie und
-†
-†
+
+
 d)
 in der Terminalphase
-†
-†
+
+
 bei Personen, die das zw√∂lfte Lebensjahr vollendet haben.
-†
-†
+
+
 Behandlung der Obstipation bei Personen, die das zw√∂lfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsst√∂rungen leiden.
 16.5
 Pe-Ha-Luron 1,0 %
@@ -2188,8 +2188,8 @@ Purisole SM verd√ºnnt
 Zur intraoperativen und postoperativen Blasensp√ºlung bei urologischen Eingriffen; jeweils in einer Menge, die ausschlie√ülich f√ºr die einmalige Anwendung geeignet ist.
 17
 unbesetzt
-†
-†
+
+
 18
 18.1
 Ringer B. Braun
@@ -2219,8 +2219,8 @@ TP SalineFlush
 Ausschlie√ülich zum Sp√ºlen von In-situ-Gef√§√üzugangssystemen.
 21
 unbesetzt
-†
-†
+
+
 22
 22.1
 VISCOAT
@@ -2233,16 +2233,16 @@ VISMED MULTI
 Als synthetische Tr√§nenfl√ºssigkeit bei Autoimmunerkrankungen (Sj√∂gren-Syndrom mit deutlichen Funktionsst√∂rungen [trockenes Auge Grad 2], Epidermolysis bullosa, okul√§res Pemphigoid), Fehlen oder Sch√§digung der Tr√§nendr√ºse, Fazialisparese oder bei Lagophthalmus.
 23
 unbesetzt
-†
-†
+
+
 24
 unbesetzt
-†
-†
+
+
 25
 unbesetzt
-†
-†
+
+
 26
 26.1
 Z-HYALIN
@@ -2501,51 +2501,51 @@ H√∂chstbetrag\\
 in Euro
 bis 31.12.2018
 ab 1.1.2019
-†
+
 Bereich Inhalation
-†
-†
+
+
 ¬†1
 Inhalationstherapie, auch mittels Ultraschallvernebelung
-†
-†
-†
+
+
+
 a)
 als Einzelinhalation
 8,00
 8,80
-†
+
 b)
 als Rauminhalation in einer Gruppe, je Teilnehmerin oder Teilnehmer
 4,30
 4,80
-†
+
 c)
 als Rauminhalation in einer Gruppe bei Anwendung ortsgebundener nat√ºrlicher Heilw√§sser, je Teilnehmerin oder Teilnehmer
 6,80
 7,50
-†
+
 Aufwendungen f√ºr die f√ºr Inhalationen erforderlichen Zus√§tze sind daneben gesondert beihilfef√§hig.
-†
-†
+
+
 ¬†2
 Radon-Inhalation
-†
-†
-†
+
+
+
 a)
 im Stollen
 13,60
 14,90
-†
+
 b)
 mittels Hauben
 16,60
 18,20
-†
+
 Bereich Krankengymnastik, Bewegungs√ºbungen
-†
-†
+
+
 ¬†3
 Physiotherapeutische Erstbefundung zur Erstellung eines Behandlungsplans
 15,00
@@ -2576,19 +2576,19 @@ Krankengymnastik (Atemtherapie) bei Mukoviszidose und schweren Bronchialerkranku
 71,40
 10
 Krankengymnastik im Bewegungsbad
-†
-†
-†
+
+
+
 a)
 als Einzelbehandlung einschlie√ülich der erforderlichen Nachruhe, Richtwert: 30 Minuten
 28,30
 31,20
-†
+
 b)
 in einer Gruppe (2 bis 3 Personen), je Teilnehmerin oder Teilnehmer einschlie√ülich der erforderlichen Nachruhe, Richtwert: 30 Minuten
 17,80
 19,50
-†
+
 c)
 in einer Gruppe (4 bis 5 Personen), je Teilnehmerin oder Teilnehmer einschlie√ülich der erforderlichen Nachruhe, Richtwert: 30 Minuten
 14,20
@@ -2603,33 +2603,33 @@ Chirogymnastik (funktionelle Wirbels√§ulengymnastik), Richtwert: 20 Minuten
 19,00
 13
 Bewegungs√ºbungen
-†
-†
-†
+
+
+
 a)
 als Einzelbehandlung, Richtwert: 20 Minuten
 9,20
 10,20
-†
+
 b)
 in einer Gruppe (2 bis 5 Personen), Richtwert: 20 Minuten
 6,00
 6,60
 14
 Bewegungs√ºbungen im Bewegungsbad
-†
-†
-†
+
+
+
 a)
 als Einzelbehandlung einschlie√ülich der erforderlichen Nachruhe, Richtwert: 30 Minuten
 28,30
 31,20
-†
+
 b)
 in einer Gruppe (2 bis 3 Personen), je Teilnehmerin oder Teilnehmer einschlie√ülich der erforderlichen Nachruhe, Richtwert: 30 Minuten
 17,80
 19,50
-†
+
 c)
 in einer Gruppe (4 bis 5 Personen), je Teilnehmerin oder Teilnehmer einschlie√ülich der erforderlichen Nachruhe, Richtwert: 30 Minuten
 14,20
@@ -2646,44 +2646,44 @@ Ger√§tegest√ºtzte Krankengymnastik (KG-Ger√§t) einschlie√ülich Medizinischen Auf
 Traktionsbehandlung mit Ger√§t (zum Beispiel Schr√§gbrett, Extensionstisch, Perl¬¥sches Ger√§t, Schlingentisch) als Einzelbehandlung, Richtwert: 20 Minuten
 8,00
 8,80
-†
+
 Bereich Massagen
-†
-†
+
+
 18
 Massage einzelner oder mehrerer K√∂rperteile
-†
-†
-†
+
+
+
 a)
 Klassische Massagetherapie (KMT), Segment-, Periost-, Reflexzonen-, B√ºrsten- und Colonmassage, Richtwert: 20 Minuten
 16,60
 18,20
-†
+
 b)
 Bindegewebsmassage (BGM), Richtwert: 30 Minuten
 16,60
 18,20
 19
 Manuelle Lymphdrainage (MLD)
-†
-†
-†
+
+
+
 a)
 Teilbehandlung, Richtwert: 30 Minuten
 23,40
 25,70
-†
+
 b)
 Gro√übehandlung, Richtwert: 45 Minuten
 35,00
 38,50
-†
+
 c)
 Ganzbehandlung, Richtwert: 60 Minuten
 53,00
 58,30
-†
+
 d)
 Kompressionsbandagierung einer Extremit√§t, Aufwendungen f√ºr das notwendige Polster- und Bindenmaterial (zum Beispiel Mullbinden, Kurzzugbinden, Flie√üpolsterbinden) sind daneben beihilfef√§hig
 11,30
@@ -2692,44 +2692,44 @@ Kompressionsbandagierung einer Extremit√§t, Aufwendungen f√ºr das notwendige Pol
 Unterwasserdruckstrahlmassage einschlie√ülich der erforderlichen Nachruhe, Richtwert: 20 Minuten
 27,70
 30,50
-†
+
 Bereich Palliativversorgung
-†
-†
+
+
 21
 Physiotherapeutische Komplexbehandlung in der Palliativversorgung, Richtwert: 60 Minuten
 60,00
 66,00
-†
+
 Bereich Packungen, Hydrotherapie, B√§der
-†
-†
+
+
 22
 Hei√üe Rolle einschlie√ülich der erforderlichen Nachruhe
 12,40
 13,60
 23
 Warmpackung eines oder mehrerer K√∂rperteile einschlie√ülich der erforderlichen Nachruhe
-†
-†
-†
+
+
+
 a)
 bei Anwendung wiederverwendbarer Packungsmaterialien (zum Beispiel Fango-Paraffin, Moor-Paraffin, Pelose, Turbatherm)
 14,20
 15,60
-†
+
 b)
 bei Anwendung einmal verwendbarer nat√ºrlicher Peloide (Heilerde, Moor, Naturfango, Pelose, Schlamm, Schlick) ohne Verwendung von Folie oder Vlies zwischen Haut und Peloid
-†
-†
-†
-†
+
+
+
+
 aa)
 Teilpackung
 32,90
 36,20
-†
-†
+
+
 bb)
 Gro√üpackung
 43,40
@@ -2740,14 +2740,14 @@ Schwitzpackung (zum Beispiel spanischer Mantel, Salzhemd, Dreiviertel-Packung na
 19,70
 25
 Kaltpackung (Teilpackung)
-†
-†
-†
+
+
+
 a)
 Anwendung von Lehm, Quark oder √Ñhnlichem
 9,20
 10,20
-†
+
 b)
 Anwendung einmal verwendbarer Peloide (Heilerde, Moor, Naturfango, Pelose, Schlamm, Schlick) ohne Verwendung von Folie oder Vlies zwischen Haut und Peloid
 18,50
@@ -2769,12 +2769,12 @@ a)
 Teilguss, Teilblitzguss, Wechselteilguss
 3,70
 4,10
-†
+
 b)
 Vollguss, Vollblitzguss, Wechselvollguss
 5,50
 6,10
-†
+
 c)
 Abklatschung, Abreibung, Abwaschung
 4,90
@@ -2784,21 +2784,21 @@ a)
 an- oder absteigendes Teilbad (zum Beispiel nach Hauffe) einschlie√ülich der erforderlichen Nachruhe
 14,80
 16,20
-†
+
 b)
 an- oder absteigendes Vollbad (√úberw√§rmungsbad) einschlie√ülich der erforderlichen Nachruhe
 24,00
 26,40
 31
 Wechselbad einschlie√ülich der erforderlichen Nachruhe
-†
-†
-†
+
+
+
 a)
 Teilbad
 11,00
 12,10
-†
+
 b)
 Vollbad
 16,00
@@ -2809,28 +2809,28 @@ B√ºrstenmassagebad einschlie√ülich der erforderlichen Nachruhe
 25,10
 33
 Naturmoorbad einschlie√ülich der erforderlichen Nachruhe
-†
-†
-†
+
+
+
 a)
 Teilbad
 39,40
 43,30
-†
+
 b)
 Vollbad
 47,90
 52,70
 34
 Sandbad einschlie√ülich der erforderlichen Nachruhe
-†
-†
-†
+
+
+
 a)
 Teilbad
 34,40
 37,90
-†
+
 b)
 Vollbad
 39,40
@@ -2841,65 +2841,65 @@ Balneo-Phototherapie (Sole-Phototherapie) und Licht-√ñl-Bad einschlie√ülich Nach
 43,30
 36
 Medizinisches Bad mit Zusatz
-†
-†
-†
+
+
+
 a)
 Hand- oder Fu√übad
 8,00
 8,80
-†
+
 b)
 Teilbad einschlie√ülich der erforderlichen Nachruhe
 16,00
 17,60
-†
+
 c)
 Vollbad einschlie√ülich der erforderlichen Nachruhe
 22,20
 24,40
-†
+
 d)
 bei mehreren Zus√§tzen je weiterer Zusatz
 3,70
 4,10
 37
 Gashaltiges Bad
-†
-†
-†
+
+
+
 a)
 gashaltiges Bad (zum Beispiel Kohlens√§urebad, Sauerstoffbad) einschlie√ülich der erforderlichen Nachruhe
 23,40
 25,70
-†
+
 b)
 gashaltiges Bad mit Zusatz einschlie√ülich der erforderlichen Nachruhe
 27,00
 29,70
-†
+
 c)
 Kohlendioxidgasbad (Kohlens√§uregasbad) einschlie√ülich der erforderlichen Nachruhe
 25,20
 27,70
-†
+
 d)
 Radon-Bad einschlie√ülich der erforderlichen Nachruhe
 22,20
 24,40
-†
+
 e)
 Radon-Zusatz, je 500¬†000 Millistat
 3,70
 4,10
 38
 Aufwendungen f√ºr andere als die in diesem Abschnitt bezeichneten B√§der sind nicht beihilfef√§hig. Bei Teil- und Vollb√§dern mit ortsgebundenen nat√ºrlichen Heilw√§ssern erh√∂hen sich die H√∂chstbetr√§ge nach Nummer 36 Buchstabe a bis c und nach Nummer 37 Buchstabe b um 3,70 Euro und ab 1.1.2019 um 4,10 Euro. Weitere Zus√§tze hierzu sind nach Ma√ügabe der Nummer 36 Buchstabe d beihilfef√§hig.
-†
-†
-†
+
+
+
 Bereich K√§lte- und W√§rmebehandlung
-†
-†
+
+
 39
 K√§ltetherapie bei einem oder mehreren K√∂rperteilen mit lokaler Applikation intensiver K√§lte in Form von Eiskompressen, tiefgek√ºhlten Eis- oder Gelbeuteln, direkter Abreibung, Kaltgas und Kaltluft mit entsprechenden Apparaturen sowie Eisteilb√§dern in Fu√ü- oder Armbadewannen
 11,80
@@ -2912,10 +2912,10 @@ W√§rmetherapie mittels Hei√üluft bei einem oder mehreren K√∂rperteilen, Richtwer
 Ultraschall-W√§rmetherapie
 10,80
 11,90
-†
+
 Bereich Elektrotherapie
-†
-†
+
+
 42
 Elektrotherapie einzelner oder mehrerer K√∂rperteile mit individuell eingestellten Stromst√§rken und Frequenzen
 7,40
@@ -2936,153 +2936,153 @@ Hydroelektrisches Teilbad (Zwei- oder Vierzellenbad)
 Hydroelektrisches Vollbad (zum Beispiel Stangerbad), auch mit Zusatz, einschlie√ülich der erforderlichen Nachruhe
 26,40
 29,00
-†
+
 Bereich Stimm-, Sprech- und Sprachtherapie
-†
-†
+
+
 47
 Stimm-, sprech- und sprachtherapeutische Erstbefundung zur Erstellung eines Behandlungsplans, einmal je Behandlungsfall
 98,20
 108,00
 48
 Einzelbehandlung bei Atem-, Stimm-, Sprech-, Sprach-, H√∂r- und Schluckst√∂rungen
-†
-†
-†
+
+
+
 a)
 Richtwert: 30 Minuten
 38,00
 41,80
-†
+
 b)
 Richtwert: 45 Minuten
 53,60
 59,00
-†
+
 c)
 Richtwert: 60 Minuten
 62,60
 68,90
-†
+
 d)
 Richtwert: 90 Minuten
 94,00
 103,40
-†
+
 Aufwendungen f√ºr die Vor- und Nachbereitung, die Verlaufsdokumentation, den sprachtherapeutischen Bericht sowie f√ºr die Beratung der Patientin oder des Patienten und ihrer oder seiner Bezugspersonen sind daneben nicht beihilfef√§hig.
-†
-†
+
+
 49
 Gruppenbehandlung bei Atem-, Stimm-, Sprech-, Sprach-, H√∂r- und Schluckst√∂rungen, je Teilnehmerin oder Teilnehmer
-†
-†
-†
+
+
+
 a)
 Gruppe (2 Personen), Richtwert: 45 Minuten
 45,80
 50,40
-†
+
 b)
 Gruppe (3 bis 5 Personen), Richtwert: 45 Minuten
 31,40
 34,60
-†
+
 c)
 Gruppe (2 Personen), Richtwert: 90 Minuten
 61,40
 67,60
-†
+
 d)
 Gruppe (3 bis 5 Personen), Richtwert: 90 Minuten
 51,00
 56,10
-†
+
 Aufwendungen f√ºr die Vor- und Nachbereitung, die Verlaufsdokumentation, den sprachtherapeutischen Bericht sowie f√ºr die Beratung der Patientin oder des Patienten und ihrer oder seiner Bezugspersonen sind daneben nicht beihilfef√§hig.
-†
-†
-†
+
+
+
 Bereich Ergotherapie (Besch√§ftigungstherapie)
-†
-†
+
+
 50
 Funktionsanalyse und Erstgespr√§ch einschlie√ülich Beratung und Behandlungsplanung, einmal je Behandlungsfall
 38,00
 41,80
 51
 Einzelbehandlung
-†
-†
-†
+
+
+
 a)
 bei motorisch-funktionellen St√∂rungen, Richtwert: 30 Minuten
 38,00
 41,80
-†
+
 b)
 bei sensomotorischen oder perzeptiven St√∂rungen, Richtwert: 45 Minuten
 49,80
 54,80
-†
+
 c)
 bei psychisch-funktionellen St√∂rungen, Richtwert: 60 Minuten
 65,80
 72,30
-†
+
 d)
 bei psychisch-funktionellen St√∂rungen als Belastungserprobung, Richtwert: 120 Minuten
 116,50
 128,20
-†
+
 e)
 als Beratung zur Integration in das h√§usliche und soziale Umfeld im Rahmen eines Hausbesuchs, einmal pro Behandlungsfall
-†
-†
-†
-†
+
+
+
+
 aa)
 bis zu 3 Einheiten am Tag, je Einheit
-†
-†
-†
-†
-†
+
+
+
+
+
 aaa)
 bei motorisch-funktionellen St√∂rungen
 37,00
 40,70
-†
-†
-†
+
+
+
 bbb)
 bei sensomotorischen oder perzeptiven St√∂rungen
 49,40
 54,40
-†
-†
+
+
 bb)
 bis zu 2 Einheiten am Tag, je Einheit bei psychisch-funktionellen St√∂rungen
 61,60
 67,70
 52
 Gruppenbehandlung
-†
-†
-†
+
+
+
 a)
 bei motorisch-funktionellen St√∂rungen, Richtwert: 30 Minuten, je Teilnehmerin oder Teilnehmer
 14,50
 16,00
-†
+
 b)
 bei sensomotorischen oder perzeptiven St√∂rungen, Richtwert: 45 Minuten, je Teilnehmerin oder Teilnehmer
 18,70
 20,60
-†
+
 c)
 bei psychisch-funktionellen St√∂rungen, Richtwert: 90 Minuten, je Teilnehmerin oder Teilnehmer
 34,40
 37,90
-†
+
 d)
 bei psychisch-funktionellen St√∂rungen als Belastungserprobung, Richtwert: 180 Minuten, je Teilnehmerin oder Teilnehmer
 63,80
@@ -3095,10 +3095,10 @@ Hirnleistungstraining/Neuropsychologisch orientierte Einzelbehandlung, Richtwert
 Hirnleistungstraining als Gruppenbehandlung, Richtwert: 45 Minuten, je Teilnehmerin oder Teilnehmer
 18,70
 20,60
-†
+
 Bereich Podologie
-†
-†
+
+
 55
 Hornhautabtragung an beiden F√º√üen
 24,20
@@ -3143,10 +3143,10 @@ Versorgung mit einer konfektionierten bilateralen Federstahldraht-Orthonyxiespan
 Versorgung mit einer konfektionierten Klebespange, einteilig, einschlie√ülich Applikation und Spangensitzkontrolle nach 1 bis 2 Tagen
 34,00
 37,40
-†
+
 Bereich Ern√§hrungstherapie
-†
-†
+
+
 66
 Erstgespr√§ch mit Behandlungsplanung, Richtwert: 60 Minuten
 60,00
@@ -3159,22 +3159,22 @@ Einzelbehandlung, Richtwert: 30 Minuten, begrenzt auf maximal 12 Behandlungen pr
 Gruppenbehandlung, Richtwert: 30 Minuten, begrenzt auf maximal 12 Behandlungen pro Jahr
 10,00
 11,00
-†
+
 Bereich Sonstiges
-†
-†
+
+
 69
 √Ñrztlich verordneter Hausbesuch
 11,00
 12,10
 70
 Fahrtkosten f√ºr Fahrten der behandelnden Person (nur bei √§rztlich verordnetem Hausbesuch) bei Benutzung eines Kraftfahrzeuges in H√∂he von 0,30 Euro je Kilometer oder die niedrigsten Kosten eines regelm√§√üig verkehrenden Bef√∂rderungsmittels
-†
-†
+
+
 71
 Werden auf demselben Weg mehrere Patientinnen oder Patienten besucht, sind die Aufwendungen nach den Nummern 69 und 70 nur anteilig je Patientin oder Patient beihilfef√§hig.
-†
-†
+
+
 \\
 \\
 Richtwert im Sinne des Leistungsverzeichnisses ist die Zeitangabe zur regelm√§√üigen Dauer der jeweiligen Therapiema√ünahme (Regelbehandlungszeit). Er beinhaltet die Durchf√ºhrung der Therapiema√ünahme einschlie√ülich der Vor- und Nachbereitung. Die Regelbehandlungszeit darf nur aus medizinischen Gr√ºnden unterschritten werden.
@@ -3209,7 +3209,7 @@ Richtwert im Sinne des Leistungsverzeichnisses ist die Zeitangabe zur regelm√§√ü
   - a) :: einer Krankenhaus√§rztin oder einem Krankenhausarzt,
   - b) :: einer Fach√§rztin oder einem Facharzt f√ºr Orthop√§die, Neurologie oder Chirurgie,
   - c) :: einer √Ñrztin oder einem Arzt f√ºr Physikalische und Rehabilitative Medizin oder
-  - d) :: einer Allgemein√§rztin oder einem Allgemeinarzt mit der Zusatzbezeichnung ‚ÄPhysikalische und Rehabilitative Medizin‚Äú.
+  - d) :: einer Allgemein√§rztin oder einem Allgemeinarzt mit der Zusatzbezeichnung Physikalische und Rehabilitative Medizin‚Äú.
 - 2. :: Eine Verl√§ngerung der erweiterten ambulanten Physiotherapie erfordert eine erneute √§rztliche Verordnung. Eine Bescheinigung der Therapieeinrichtung oder von bei dieser besch√§ftigten √Ñrztinnen oder √Ñrzten reicht nicht aus. Nach Abschluss der erweiterten ambulanten Physiotherapie ist der Festsetzungsstelle die Therapiedokumentation zusammen mit der Rechnung vorzulegen.
 - 3. :: Die erweiterte ambulante Physiotherapie umfasst je Behandlungstag mindestens folgende Leistungen:
   - a) :: Krankengymnastische Einzeltherapie,
@@ -3223,7 +3223,7 @@ Richtwert im Sinne des Leistungsverzeichnisses ist die Zeitangabe zur regelm√§√ü
     - aa) :: einer Krankenhaus√§rztin oder einem Krankenhausarzt,
     - bb) :: einer Fach√§rztin oder einem Facharzt f√ºr Orthop√§die, Neurologie oder Chirurgie,
     - cc) :: einer √Ñrztin oder einem Arzt f√ºr Physikalische und Rehabilitative Medizin oder
-    - dd) :: einer Allgemein√§rztin oder einem Allgemeinarzt mit der Zusatzbezeichnung ‚ÄPhysikalische und Rehabilitative Medizin‚Äú,
+    - dd) :: einer Allgemein√§rztin oder einem Allgemeinarzt mit der Zusatzbezeichnung Physikalische und Rehabilitative Medizin‚Äú,
   - b) :: Therapieplanung und Ergebniskontrolle von einer √Ñrztin oder einem Arzt der Therapieeinrichtung vorgenommen werden und
   - c) :: jede therapeutische Sitzung unter √§rztlicher Aufsicht durchgef√ºhrt wird; die Durchf√ºhrung therapeutischer und diagnostischer Leistungen kann teilweise an speziell geschultes medizinisches Personal delegiert werden.
 - 2. :: Die Beihilfef√§higkeit ist auf maximal 25 Behandlungen je Kalenderhalbjahr begrenzt.

@@ -441,7 +441,7 @@ A.
 Vorbemerkungen
 B.
 Gesch√§ftsbereiche
-†
+
 Kapitel I
 Bundesminister des Ausw√§rtigen
 Kapitel II
@@ -478,7 +478,7 @@ Kapitel XVII
 Bundesminister f√ºr wirtschaftliche Zusammenarbeit
 C.
 Besondere Sachgebiete
-†
+
 Kapitel XVIII
 Statistik
 Kapitel XIX
@@ -1541,7 +1541,7 @@ Bundesrecht wird wie folgt aufgehoben, ge√§ndert oder erg√§nzt:
 
 bis zu 22.000 hl A
 
-†
+
 
 a)
 
@@ -1854,7 +1854,7 @@ von mehr als 45.000 bis zu 300.000 hl A
 
 Landwirtschaftliche Nutzung
 
-†
+
 
 a)
 
@@ -1864,7 +1864,7 @@ b)
 
 Hopfen
 
-†
+
 
 Hopfenbau-Vergleichszahl je Ar
 
@@ -1874,7 +1874,7 @@ c)
 
 Spargel
 
-†
+
 
 Spargelbau-Vergleichszahl je Ar
 
@@ -1884,7 +1884,7 @@ Spargelbau-Vergleichszahl je Ar
 
 Weinbauliche Nutzung
 
-†
+
 
 Weinbau-Vergleichszahlen je Ar:
 
@@ -1910,7 +1910,7 @@ Flaschenweinausbau
 
 G√§rtnerische Nutzung
 
-†
+
 
 Gartenbau-Vergleichszahlen je Ar:
 
@@ -1918,7 +1918,7 @@ a)
 
 Nutzungsteil Gem√ºse-, Blumen- und Zierpflanzenbau:
 
-†
+
 
 aa)
 
@@ -1948,19 +1948,19 @@ d)
 
 F√ºr Nutzungsfl√§chen unter Glas und Kunststoffplatten, ausgenommen Niederglas, erh√∂hen sich die vorstehenden Vergleichszahlen bei
 
-†
+
 
 aa)
 
 Gem√ºsebau
 
-†
+
 
 nicht heizbar
 
 um das 6-fache
 
-†
+
 
 heizbar
 
@@ -1970,13 +1970,13 @@ bb)
 
 Blumen- und Zierpflanzenbau, Baumschulen
 
-†
+
 
 nicht heizbar
 
 um das 4-fache
 
-†
+
 
 heizbar
 
@@ -1990,7 +1990,7 @@ um das 8-fache.
 
 Forstwirtschaftliche Nutzung
 
-†
+
 
 Der Ersatzvergleichswert betr√§gt 125 Deutsche Mark je Hektar.
 
@@ -1998,7 +1998,7 @@ Der Ersatzvergleichswert betr√§gt 125 Deutsche Mark je Hektar.
 
 Sonstige land- und forstwirtschaftliche Nutzung
 
-†
+
 
 Der Ersatzvergleichswert betr√§gt bei
 
@@ -2012,9 +2012,9 @@ b)
 
 Teichwirtschaft
 
-†
 
-†
+
+
 
 aa)
 
@@ -2022,7 +2022,7 @@ Forellenteichwirtschaft
 
 20.000 Deutsche Mark je Hektar
 
-†
+
 
 bb)
 
@@ -2034,9 +2034,9 @@ c)
 
 Fischzucht f√ºr Binnenfischerei und Teichwirtschaft
 
-†
 
-†
+
+
 
 aa)
 
@@ -2044,7 +2044,7 @@ f√ºr Forellenteichwirtschaft
 
 30.000 Deutsche Mark je Hektar
 
-†
+
 
 bb)
 
@@ -5271,63 +5271,63 @@ A.
 Vorbemerkungen
 B.
 Gesch√§ftsbereiche
-†
+
 Kapitel I
 Bundesminister des Ausw√§rtigen
-†
+
 Kapitel II
 Bundesminister des Innern
-†
+
 Kapitel III
 Bundesminister der Justiz
-†
+
 Kapitel IV
 Bundesminister der Finanzen
-†
+
 Kapitel V
 Bundesminister f√ºr Wirtschaft
-†
+
 Kapitel VI
 Bundesminister f√ºr Ern√§hrung, Landwirtschaft und Forsten
-†
+
 Kapitel VII
 - - -
-†
+
 Kapitel VIII
 Bundesminister f√ºr Arbeit und Sozialordnung
-†
+
 Kapitel IX
 Bundesminister der Verteidigung
-†
+
 Kapitel X
 Bundesminister f√ºr Jugend, Familie, Frauen und Gesundheit
-†
+
 Kapitel XI
 Bundesminister f√ºr Verkehr
-†
+
 Kapitel XII
 Bundesminister f√ºr Umwelt, Naturschutz und Reaktorsicherheit
-†
+
 Kapitel XIII
 Bundesminister f√ºr Post und Telekommunikation
-†
+
 Kapitel XIV
 Bundesminister f√ºr Raumordnung, Bauwesen und St√§dtebau
-†
+
 Kapitel XV
 Bundesminister f√ºr Forschung und Technologie
-†
+
 Kapitel XVI
 Bundesminister f√ºr Bildung und Wissenschaft
-†
+
 Kapitel XVII
 - - -
 C.
 Besondere Sachgebiete
-†
+
 Kapitel XVIII
 Statistik
-†
+
 Kapitel XIX
 Recht des √∂ffentlichen Dienstes einschlie√ülich des Rechts der Soldaten
 

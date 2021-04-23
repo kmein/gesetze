@@ -20,7 +20,7 @@ Verfahren über eine einheitliche Stelle
 § 4a
 Frist für den Erlass von Verwaltungsakten
 § 4b
-�
+
 Zweiter Teil
 Voraussetzungen für die Berufsausübung
 Erster Abschnitt: Zulassung zur Prüfung
@@ -44,7 +44,7 @@ Voraussetzungen für die Zulassung (Prüfungstätigkeit)
 § 11
 (weggefallen)
 § 11a
-�
+
 Zweiter Abschnitt: Prüfung
 Prüfungskommission und Gliederung der Prüfung
 § 12
@@ -62,7 +62,7 @@ Zulassungsgebühr, Prüfungsgebühr
 § 14b
 (weggefallen)
 § 14c
-�
+
 Dritter Abschnitt: Bestellung
 Bestellungsbehörde
 § 15
@@ -88,13 +88,13 @@ Wiederbestellung
 § 23
 (weggefallen)
 § 24
-�
+
 Vierter Abschnitt: (weggefallen)
 (weggefallen)
 § 25
 (weggefallen)
 § 26
-�
+
 Fünfter Abschnitt: Wirtschaftsprüfungsgesellschaften
 Rechtsform
 § 27
@@ -116,11 +116,11 @@ Rücknahme und Widerruf der Anerkennung
 § 35
 (weggefallen)
 § 36
-�
+
 Sechster Abschnitt: Allgemeine Vorschriften für das Verwaltungsverfahren
 Untersuchungsgrundsatz, Mitwirkungspflicht, Datenübermittlung
 § 36a
-�
+
 Siebenter Abschnitt: Berufsregister
 Registerführende Stelle
 § 37
@@ -132,13 +132,13 @@ Verfahren
 § 40
 Register für genossenschaftliche Prüfungsverbände und Prüfungsstellen der Sparkassen- und Giroverbände
 § 40a
-�
+
 Achter Abschnitt: Verwaltungsgerichtliches Verfahren
 Unmittelbare Klage gegen Bescheide der Wirtschaftsprüferkammer
 § 41
 (weggefallen)
 § 42
-�
+
 Dritter Teil
 Rechte und Pflichten der Wirtschaftsprüfer
 Allgemeine Berufspflichten
@@ -191,7 +191,7 @@ Bestellung eines Praxisabwicklers
 § 55c
 Anwendung der Vorschriften über die Rechte und Pflichten der Wirtschaftsprüfer auf Wirtschaftsprüfungsgesellschaften
 § 56
-�
+
 Vierter Teil
 Organisation des Berufs
 Aufgaben der Wirtschaftsprüferkammer
@@ -224,7 +224,7 @@ Satzung, Wirtschaftsplan
 § 60
 Beiträge und Gebühren
 § 61
-�
+
 Fünfter Teil
 Berufsaufsicht
 Zuständigkeit
@@ -267,15 +267,15 @@ Verjährung der Verfolgung einer Pflichtverletzung
 § 70
 Vorschriften für Mitglieder der Wirtschaftsprüferkammer, die nicht Wirtschaftsprüfer sind, und Wirtschaftsprüfungsgesellschaften
 § 71
-�
-�
+
+
 Sechster Teil
 Berufsgerichtsbarkeit
 Erster Abschnitt: Berufsgerichtliche Entscheidung
 Antrag auf berufsgerichtliche Entscheidung
 § 71a
-�
-�
+
+
 Zweiter Abschnitt: Die Gerichte
 Kammer für Wirtschaftsprüfersachen
 § 72
@@ -295,7 +295,7 @@ Reihenfolge der Teilnahme an den Sitzungen
 § 79
 Entschädigung der ehrenamtlichen Richter
 § 80
-�
+
 Dritter Abschnitt: Verfahrensvorschriften
 1. Allgemeines
 Vorschriften für das Verfahren
@@ -314,7 +314,7 @@ Aussetzung des berufsgerichtlichen Verfahrens
 § 83b
 Wiederaufnahme des berufsgerichtlichen Verfahrens
 § 83c
-�
+
 2. Das Verfahren im ersten Rechtszug
 Mitwirkung der Staatsanwaltschaft
 § 84
@@ -346,7 +346,7 @@ Verlesen von Protokollen
 § 102
 Entscheidung
 § 103
-�
+
 3. Die Rechtsmittel
 Beschwerde
 § 104
@@ -360,13 +360,13 @@ Einlegung der Revision und Verfahren
 § 107a
 Mitwirkung der Staatsanwaltschaft vor dem Bundesgerichtshof
 § 108
-�
+
 4. Die Sicherung von Beweisen
 Anordnung der Beweissicherung
 § 109
 Verfahren
 § 110
-�
+
 5. Das vorläufige Tätigkeits- und Berufsverbot
 Voraussetzung des Verbotes
 § 111
@@ -392,11 +392,11 @@ Mitteilung des Verbotes
 § 120a
 Bestellung eines Vertreters
 § 121
-�
+
 6. Das vorläufige Untersagungsverfahren
 Voraussetzung des Verfahrens
 § 121a
-�
+
 Vierter Abschnitt:
 Die Kosten in dem berufsgerichtlichen Verfahren.\\
 Die Vollstreckung der berufsgerichtlichen Maßnahmen und der Kosten.\\
@@ -413,11 +413,11 @@ Vollstreckung der berufsgerichtlichen Maßnahmen und der Kosten
 § 126
 Tilgung
 § 126a
-�
+
 Fünfter Abschnitt:\\
 Anzuwendende Vorschriften
 § 127
-�
+
 Siebenter Teil
 Vereidigte Buchprüfer und Buchprüfungsgesellschaften
 Berufszugehörigkeit und Berufsbezeichnung
@@ -426,8 +426,8 @@ Inhalt der Tätigkeit
 § 129
 Anwendung von Vorschriften des Gesetzes
 § 130
-�
-�
+
+
 Achter Teil
 EU- und\\
 EWR-Abschlussprüfungsgesellschaften
@@ -439,7 +439,7 @@ Registrierungsverfahren
 § 131b
 (weggefallen)
 §§ 131c bis 131f
-�
+
 Neunter Teil
 Eignungsprüfung als Wirtschaftsprüfer
 Zulassung zur Eignungsprüfung als Wirtschaftsprüfer
@@ -458,7 +458,7 @@ Bescheinigungen des Herkunftsmitgliedstaats
 § 131m
 (weggefallen)
 § 131n
-�
+
 Zehnter Teil
 Straf- und Bußgeldvorschriften
 Verbot verwechselungsfähiger Berufsbezeichnungen; Siegelimitate
@@ -475,7 +475,7 @@ Verwaltungsbehörde
 § 133d
 Verwendung der Geldbußen
 § 133e
-�
+
 Elfter Teil
 Übergangs- und Schlussvorschriften
 Anwendung von Vorschriften dieses Gesetzes auf Abschlussprüfer, Abschlussprüferinnen und Abschlussprüfungsgesellschaften aus Drittstaaten
@@ -502,7 +502,7 @@ Behandlung schwebender Verfahren
 § 140
 Inkrafttreten
 § 141
-�
+
 Anlage (zu § 122 Satz 1)
 
 § 1 - Wirtschaftsprüfer und Wirtschaftsprüfungsgesellschaften
@@ -952,7 +952,7 @@ In das Berufsregister sind einleitend die für alle Berufsangehörigen und Wirts
 
 Erkennt die Wirtschaftsprüferkammer, dass die Eintragung zu löschen ist, so ist der Vorgang vor der Entscheidung der nach § 63 des Genossenschaftsgesetzes zuständigen Aufsichtsbehörde vorzulegen.
 
-(6) Ein genossenschaftlicher Prüfungsverband, der erstmalig eine gesetzlich vorgeschriebene Abschlussprüfung durchführt, hat dies der Wirtschaftsprüferkammer spätestens zwei Wochen nach Beginn dieser Prüfung anzuzeigen. Er ist mit dem Zusatz �(vorläufige Eintragung bis zur erstmaligen Durchführung der Qualitätskontrolle)“ einzutragen. Der Zusatz ist nach Durchführung der Qualitätskontrolle zu löschen.
+(6) Ein genossenschaftlicher Prüfungsverband, der erstmalig eine gesetzlich vorgeschriebene Abschlussprüfung durchführt, hat dies der Wirtschaftsprüferkammer spätestens zwei Wochen nach Beginn dieser Prüfung anzuzeigen. Er ist mit dem Zusatz (vorläufige Eintragung bis zur erstmaligen Durchführung der Qualitätskontrolle)“ einzutragen. Der Zusatz ist nach Durchführung der Qualitätskontrolle zu löschen.
 
 § 41 - Unmittelbare Klage gegen Bescheide der Wirtschaftsprüferkammer
 

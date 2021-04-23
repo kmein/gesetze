@@ -9,7 +9,7 @@ Inhaltsübersicht
 
 § 1 - Bachelorstudium
 
-Der Studiengang �Zentralbankwesen / Central Banking“ an der Hochschule der Deutschen Bundesbank (Hochschule) ist der Vorbereitungsdienst für die Laufbahn des gehobenen Bankdienstes.
+Der Studiengang Zentralbankwesen / Central Banking“ an der Hochschule der Deutschen Bundesbank (Hochschule) ist der Vorbereitungsdienst für die Laufbahn des gehobenen Bankdienstes.
 
 § 2 - Ziele des Studiums
 
@@ -54,7 +54,7 @@ Der Test nach Satz 1 Nummer 3 umfasst einen Leistungstest, einen Intelligenztest
 - 1. :: einer Gruppenaufgabe sowie
 - 2. :: einem strukturierten Interview mit einer Präsentation.
 
-(2) Der mündliche Teil dient dazu, die Eignung der Bewerberinnen und Bewerber für den Vorbereitungsdienst im Kompetenzbereich �soziales Verhalten“ und in weiteren Kompetenzbereichen zu ermitteln.
+(2) Der mündliche Teil dient dazu, die Eignung der Bewerberinnen und Bewerber für den Vorbereitungsdienst im Kompetenzbereich soziales Verhalten“ und in weiteren Kompetenzbereichen zu ermitteln.
 (3) Für den mündlichen Teil erlässt die oberste Dienstbehörde oder eine von ihr bestimmte Stelle Auswahlrichtlinien. In ihnen werden festgelegt:
 
 - 1. :: die Kompetenzbereiche,
@@ -67,10 +67,10 @@ Der Test nach Satz 1 Nummer 3 umfasst einen Leistungstest, einen Intelligenztest
 
 (1) Für die Einzelbewertungen der im Auswahlverfahren erbrachten Leistungen gelten folgende Noten und Notendefinitionen:\\
 \\
-�
+
 Note
 Notendefinition
-�
+
 1
 2
 1
@@ -106,7 +106,7 @@ Die Eignung entspricht nicht den Anforderungen. Die Abweichungen liegen so deutl
 Eine Bewerberin oder ein Bewerber wird von der weiteren Teilnahme am Auswahlverfahren ausgeschlossen, wenn
 
 - 1. :: ein Abschnitt des schriftlichen Teils mit der Note 5 bewertet worden ist oder
-- 2. :: im mündlichen Teil der Kompetenzbereich �soziales Verhalten“ oder mindestens zwei andere Kompetenzbereiche mit der Teilnote 4,50 oder schlechter bewertet worden sind.
+- 2. :: im mündlichen Teil der Kompetenzbereich soziales Verhalten“ oder mindestens zwei andere Kompetenzbereiche mit der Teilnote 4,50 oder schlechter bewertet worden sind.
 
 
 § 11 - Gesamtergebnis des Auswahlverfahrens
@@ -250,7 +250,7 @@ Für die drei weiteren Mitglieder des Prüfungsamts sind Vertreterinnen oder Ver
 
 (1) Die Prüfungsleistungen werden wie folgt bewertet:\\
 \\
-�
+
 Prozentualer Anteil\\
 der erreichten Punkt-\\
 zahl an der erreich-\\
@@ -258,7 +258,7 @@ baren Punktzahl
 Rangpunkte
 Note
 Notendefinition
-�
+
 1
 2
 3
@@ -330,10 +330,10 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 (6) Nach den Absätzen 3 bis 5 ermittelte Rangpunktzahlen werden kaufmännisch auf die zweite Nachkommastelle gerundet.
 (7) Den Rangpunktzahlen entsprechen folgende Noten:\\
 \\
-�
+
 Rangpunktzahl
 Note
-�
+
 1
 2
 1
@@ -424,7 +424,7 @@ ungenügend
 - 3. :: gleichwertige Studien- und Prüfungsleistungen, die an Hochschulen erbracht worden sind, die nicht unter Nummer 1 fallen,
 - 4. :: gleichwertige nicht an einer Hochschule erworbene Kompetenzen oder sonstige Qualifikationen.
 
-(2) Gleichwertig sind Studien- und Prüfungsleistungen sowie nicht an einer Hochschule erworbene Kompetenzen oder sonstige Qualifikationen, wenn sie den besonderen Anforderungen des Studiengangs �Zentralbankwesen / Central Banking“ in Zielen, Inhalten und Umfang im Wesentlichen entsprechen. Für die Feststellung der Gleichwertigkeit ist kein schematischer Vergleich, sondern eine Gesamtbetrachtung und Gesamtbewertung vorzunehmen. Bei im Ausland erbrachten Studien- und Prüfungsleistungen sind die von der Kultusministerkonferenz und der Hochschulrektorenkonferenz gebildeten Äquivalenzvereinbarungen sowie Absprachen im Rahmen von Partnerschaften und Kooperationen mit einzubeziehen.
+(2) Gleichwertig sind Studien- und Prüfungsleistungen sowie nicht an einer Hochschule erworbene Kompetenzen oder sonstige Qualifikationen, wenn sie den besonderen Anforderungen des Studiengangs Zentralbankwesen / Central Banking“ in Zielen, Inhalten und Umfang im Wesentlichen entsprechen. Für die Feststellung der Gleichwertigkeit ist kein schematischer Vergleich, sondern eine Gesamtbetrachtung und Gesamtbewertung vorzunehmen. Bei im Ausland erbrachten Studien- und Prüfungsleistungen sind die von der Kultusministerkonferenz und der Hochschulrektorenkonferenz gebildeten Äquivalenzvereinbarungen sowie Absprachen im Rahmen von Partnerschaften und Kooperationen mit einzubeziehen.
 (3) Kompetenzen, Qualifikationen oder Leistungen nach Absatz 1 Nummer 2 bis 4 werden nur modulweise und bis höchstens 90 Leistungspunkte angerechnet. Eine Anerkennung erfolgt nur, wenn die antragstellende Person an der betreffenden Studien- oder Prüfungsleistung, auf die die Anrechnung erfolgen soll, noch nicht teilgenommen hat.
 (4) Ausgeschlossen ist die Anerkennung von Prüfungsleistungen anderer Studiengänge als Bachelorthesis, Verteidigung der Bachelorthesis oder mündliche Abschlussprüfung sowie die Anerkennung von Studienleistungen aus endgültig nicht bestandenen Modulen.
 (5) Der Antrag auf Anerkennung ist beim Prüfungsamt unter Beifügung einer Aufstellung der anzurechnenden Studien- und Prüfungsleistungen oder der nicht an einer Hochschule erworbenen Kompetenzen oder sonstigen Qualifikationen einzureichen. Die erbrachten Studien- und Prüfungsleistungen sollen durch Bescheinigungen der Hochschulen oder vergleichbarer Einrichtungen nachgewiesen werden, an denen die Leistungen erbracht worden sind. Die Bescheinigung der Studienleistungen soll Ziel, Inhalt und Umfang der Veranstaltungen sowie Bezeichnung und Inhalt des jeweiligen Moduls, in dem die Studienleistungen erbracht wurden, enthalten. Aus der Bescheinigung der Prüfungsleistung müssen hervorgehen:
@@ -438,7 +438,7 @@ ungenügend
 Für die nicht an einer Hochschule erworbenen Kompetenzen oder sonstige Qualifikationen sind dem Antrag Nachweise beizufügen.
 
 (6) Werden Studien- und Prüfungsleistungen oder nicht an einer Hochschule erworbene Kompetenzen oder sonstige Qualifikationen durch das Prüfungsamt anerkannt, sind die Bewertungen, soweit die Bewertungssysteme vergleichbar sind, zu übernehmen und nach Maßgabe des § 26 in die Berechnung der Rangpunktzahl der Laufbahnprüfung einzubeziehen. Sind die Bewertungssysteme nicht vergleichbar, wird die anerkannte Prüfungsleistung im relativen Verhältnis der Notenskalen den Rangpunktzahlen nach § 22 zugeordnet.
-(7) Liegt für eine anerkannte Prüfungsleistung keine Bewertung auf der Basis einer Notenskala vor, so wird die anerkannte Prüfungsleistung im Diploma Supplement mit dem Vermerk �bestanden“ versehen.
+(7) Liegt für eine anerkannte Prüfungsleistung keine Bewertung auf der Basis einer Notenskala vor, so wird die anerkannte Prüfungsleistung im Diploma Supplement mit dem Vermerk bestanden“ versehen.
 
 § 30 - Übergangsregelung
 

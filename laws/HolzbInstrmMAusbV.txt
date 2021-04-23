@@ -266,11 +266,11 @@ Planen und Vorbereiten des Arbeitsablaufs sowie Kontrollieren und Bewerten des A
 
 4
 
-†
 
-†
 
-†
+
+
+
 
 6
 
@@ -284,30 +284,30 @@ Pr√ºfen, Anrei√üen und Kennzeichnen\\
 
 4
 
-†
 
-†
 
-†
+
+
+
 
 - e) :: ebene und gew√∂lbte Fl√§chen auf Formgenauigkeit pr√ºfen
 
-†
+
 
 2
 
-†
 
-†
+
+
 
 - f) :: Werkst√ºcke mit Grenzlehren und Gewindelehren pr√ºfen
 - g) :: Oberfl√§chenqualit√§t durch Sichtpr√ºfen beurteilen
 
-†
 
-†
 
-†
+
+
+
 
 2
 
@@ -321,30 +321,30 @@ Lesen, Anwenden und Erstellen von technischen Unterlagen\\
 
 4
 
-†
 
-†
 
-†
+
+
+
 
 - c) :: Tabellen, Diagramme, Handb√ºcher und Bedienungshinweise lesen und anwenden
 - d) :: Zeichnungen lesen und anwenden
 
-†
 
-†
+
+
 
 2
 
-†
+
 
 - e) :: Konstruktive Merkmale zeichnen, insbesondere als Schnittdarstellung
 
-†
 
-†
 
-†
+
+
+
 
 2
 
@@ -357,11 +357,11 @@ Holzblasinstrumente im Hinblick auf Werkstoff, Tonerzeugung und Konstruktionsmer
 
 2
 
-†
 
-†
 
-†
+
+
+
 
 9
 
@@ -372,29 +372,29 @@ Ausw√§hlen der Werk- und Hilfsstoffe und deren Lagerung\\
 
 2
 
-†
 
-†
 
-†
+
+
+
 
 - b) :: H√∂lzer und Metalle lagern
 
-†
 
-†
+
+
 
 2
 
-†
+
 
 - c) :: Hilfs- und Verbrauchsstoffe ausw√§hlen und lagern
 
-†
 
-†
 
-†
+
+
+
 
 2
 
@@ -408,21 +408,21 @@ Ausrichten und Spannen von Werkzeugen und Werkst√ºcken\\
 
 3
 
-†
 
-†
 
-†
+
+
+
 
 - c) :: Werkzeuge mittels Spannfutter oder Spannzangen spannen und Mei√üelhalter ausrichten
 
-†
+
 
 2
 
-†
 
-†
+
+
 
 11
 
@@ -435,30 +435,30 @@ manuelles und maschinelles Bearbeiten von Werkstoffen\\
 
 7
 
-†
 
-†
 
-†
+
+
+
 
 - d) :: vorgefertigte Instrumententeile manuell und maschinell nach Skizzen oder Vorgaben bearbeiten
 
-†
 
-†
+
+
 
 6
 
-†
+
 
 - e) :: besondere Gefahren an Werkzeugmaschinen beachten und Arbeitsschutzvorschriften anwenden
 - f) :: Instrumententeile mit Werkzeugmaschinen, insbesondere Bohr-, Dreh- und Drechselmaschinen, l√§ngs-, plan- und runddrehen
 
-†
 
-†
 
-†
+
+
+
 
 5
 
@@ -471,21 +471,21 @@ Warten und Pflegen von Betriebsmitteln\\
 
 2
 
-†
 
-†
 
-†
+
+
+
 
 - b) :: Betriebsstoffe, insbesondere √ñle, K√ºhl- und Schmierstoffe, nach Betriebsvorschriften auff√ºllen und wechseln und der Entsorgung zuf√ºhren
 
-†
 
-†
+
+
 
 2
 
-†
+
 
 13
 
@@ -497,32 +497,32 @@ Anfertigen von Klappenmechanikteilen\\
 
 9
 
-†
 
-†
 
-†
+
+
+
 
 - c) :: Teile der Klappenmechanik durch einh√§ndiges Feilen bearbeiten
 - d) :: Bohrer entsprechend der Werkstoffe ausw√§hlen
 - e) :: Teile der Klappenmechanik nach Anzeichnung bohren
 
-†
+
 
 12
 
-†
 
-†
+
+
 
 - f) :: Klappenmechanik durch einh√§ndiges Feilen nach Lehre und Ma√üvorgabe bearbeiten
 - g) :: Klappenmechanik nach Lehre und Ma√üangaben durch Bohren bearbeiten
 
-†
 
-†
 
-†
+
+
+
 
 8
 
@@ -536,30 +536,30 @@ F√ºgen\\
 
 2
 
-†
 
-†
 
-†
+
+
+
 
 - c) :: Mechanikteile zusammenpassen und ausrichten
 - d) :: Klappenteile durch L√∂ten verbinden
 
-†
+
 
 4
 
-†
 
-†
+
+
 
 - e) :: Mechanikteile, insbesondere durch Nieten, Verstiften, Verschrauben oder L√∂ten, verbinden
 
-†
 
-†
 
-†
+
+
+
 
 4
 
@@ -572,13 +572,13 @@ Anfertigen und Zurichten von Kleinwerkzeugen\\
 - b) :: Schnittwerkzeuge sch√§rfen
 - c) :: Ma√ügenauigkeit pr√ºfen
 
-†
+
 
 6
 
-†
 
-†
+
+
 
 16
 
@@ -588,11 +588,11 @@ Herstellen von Korpussen aus Holz oder Metall\\
 - a) :: Holzkorpusse durch Drehen und Bohren oder Metallkorpusse durch Ziehen, Biegen und B√∂rdeln herstellen
 - b) :: zylindrische und konische Innenbohrungen durch Bohren, R√§umen und Drehen herstellen
 
-†
 
-†
 
-†
+
+
+
 
 7
 
@@ -607,21 +607,21 @@ Behandeln von Oberfl√§chen\\
 
 3
 
-†
 
-†
 
-†
+
+
+
 
 - d) :: f√ºr H√∂lzer Verfahren der Oberfl√§chenbehandlung ausw√§hlen
 - e) :: H√∂lzer mit Schutzmitteln impr√§gnieren
 - f) :: Oberfl√§chen aus Holz behandeln, insbesondere durch Schleifen, Polieren, Lackieren und F√§rben
 
-†
 
-†
 
-†
+
+
+
 
 3
 
@@ -634,11 +634,11 @@ Bohren von Ton- und S√§ulchenl√∂chern\\
 - b) :: Ton- und S√§ulchenl√∂cher mit Schablone bohren oder Tonl√∂cher mit Kopiervorrichtung stanzen, ziehen, fr√§sen oder b√∂rdeln
 - c) :: Oberfl√§cheng√ºte pr√ºfen und Ma√ühaltigkeit der Bohrungen messen
 
-†
 
-†
 
-†
+
+
+
 
 5
 
@@ -652,21 +652,21 @@ Anbringen und Bearbeiten von S√§ulchen\\
 
 5
 
-†
 
-†
 
-†
+
+
+
 
 - c) :: S√§ulchen parallel fr√§sen
 
-†
 
-†
+
+
 
 2
 
-†
+
 
 20
 
@@ -677,22 +677,22 @@ Zusammenbauen und Einpassen der Klappenmechanik\\
 
 5
 
-†
 
-†
 
-†
+
+
+
 
 - b) :: Klappenmechanik durch Schrauben, Fr√§sen, Biegen, Feilen und Einpassen auf dem Korpus zusammenbauen
 - c) :: Funktionspr√ºfung durchf√ºhren
 
-†
 
-†
+
+
 
 12
 
-†
+
 
 21
 
@@ -704,11 +704,11 @@ Spielfertigmachen von Instrumenten\\
 - c) :: Instrument spielbar machen und Endkontrolle durchf√ºhren
 - d) :: Kunden auf die vorbeugende Instandhaltung, insbesondere Reinigung, hinweisen
 
-†
 
-†
 
-†
+
+
+
 
 8
 
@@ -724,10 +724,10 @@ Reparieren von Instrumenten\\
 - e) :: Defekte beseitigen
 - f) :: Instrument zusammenbauen und pr√ºfen
 
-†
 
-†
 
-†
+
+
+
 
 6

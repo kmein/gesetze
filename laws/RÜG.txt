@@ -12,26 +12,26 @@ Inhaltsverzeichnis
 
 Erstes Kapitel
 Allgemeines
- 
- 
+
+
 Â§ 1
 Allgemeines
- 
+
 Zweites Kapitel
 Rentenanspruch
- 
+
 Erster Abschnitt
 Rentenarten und Voraussetzungen fÃ¼r einen Rentenanspruch
- 
+
 Â§ 2
 Rentenarten
 Â§ 3
 Voraussetzungen fÃ¼r einen Rentenanspruch
- 
+
 Zweiter Abschnitt
 Anspruchsvoraussetzungen fÃ¼r einzelne Renten
- 
- 
+
+
 Â Erster Unterabschnitt
 Â Renten wegen Alters
 Â§ 4
@@ -40,10 +40,10 @@ Altersrente
 Bergmannsaltersrente
 Â§ 6
 Bergmannsvollrente
- 
+
 Â Zweiter Unterabschnitt
 Â Renten wegen verminderter ErwerbsfÃ¤higkeit
- 
+
 Â§ 7
 Invalidenrente
 Â§ 8
@@ -52,10 +52,10 @@ Bergmannsinvalidenrente
 Bergmannsrente
 Â§ 10
 Invalidenrente fÃ¼r Behinderte
- 
+
 Â Dritter Unterabschnitt
 Â Renten wegen Todes
- 
+
 Â§ 11
 Witwenrente und Witwerrente
 Â§ 12
@@ -66,18 +66,18 @@ Bergmannswitwenrente und Bergmannswitwerrente
 Unterhaltsrente
 Â§ 15
 Waisenrente
- 
+
 Â Vierter Unterabschnitt
 Â WartezeiterfÃ¼llung
- 
+
 Â§ 16
 Wartezeiten
 Â§ 17
 Anrechenbare Zeiten
- 
+
 Â FÃ¼nfter Unterabschnitt
 Â Rentenrechtliche Zeiten
- 
+
 Â§ 18
 Begriffsbestimmung
 Â§ 19
@@ -96,22 +96,22 @@ Beitragszeiten zur FZR
 Zurechnungszeiten zur FZR
 Â§ 26
 Ermittlung von rentenrechtlichen Zeiten
- 
+
 Drittes Kapitel
 RentenhÃ¶he
- 
+
 Erster Abschnitt
 Â Grundsatz
- 
+
 Â§ 27
 Grundsatz
- 
+
 Zweiter Abschnitt
 Renten aus der Sozialpflichtversicherung
- 
+
 Â Erster Unterabschnitt
 Â Berechnung der Renten
- 
+
 Â§ 28
 Rentenformel fÃ¼r Monatsbetrag der Renten
 Â§ 29
@@ -126,48 +126,48 @@ Steigerungssatz
 Zuschlag fÃ¼r UntertagetÃ¤tigkeiten
 Â§ 34
 Mindestrenten und MindestbetrÃ¤ge
- 
+
 Â Zweiter Unterabschnitt
 Â Sonderbestimmungen
- 
+
 Â§ 35
 Besonderer Steigerungssatz
 Â§ 36
 ZusÃ¤tzlicher Steigerungsbetrag
- 
+
 Â Dritter Abschnitt
 Â Renten aus der freiwilligen Zusatzrentenversicherung
- 
+
 Â§ 37
 Rentenformel fÃ¼r Monatsbetrag der Zusatzrenten
 Â§ 38
 Durchschnittseinkommen fÃ¼r Zusatzrenten
- 
+
 Â Vierter Abschnitt
 Â ErhÃ¶hung auf den Stand 31. Dezember 1991
- 
+
 Â§ 39
 ErhÃ¶hung auf den Stand 31. Dezember 1991
- 
+
 Â FÃ¼nfter Abschnitt
 Â Berechnung von Geldleistungen
- 
+
 Â§ 40
 Berechnung von Geldleistungen
- 
+
 Viertes Kapitel
 Zusammentreffen von Renten
- 
+
 Â§ 41
 Mehrere RentenansprÃ¼che
 Â§ 42
 Mehrere Renten wegen Todes
 Â§ 43
 Rente und Leistungen aus der Unfallversicherung
- 
+
 FÃ¼nftes Kapitel
 Beginn, Ã„nderung und Ende von Renten
- 
+
 Â§ 44
 Beginn, Ã„nderung und Ende von Renten
 
@@ -990,7 +990,7 @@ Anlage - (zu Â§ 39)  Tabelle zur ErhÃ¶hung auf den Stand 31. Dezember 1991
 
 \\
 
- 
+
 
 Arbeitsjahre
 
@@ -1522,7 +1522,7 @@ ErhÃ¶hung fÃ¼r das Jahr in vom Hundert
 
 0,00
 
- 
+
 
 Arbeitsjahre
 
@@ -2054,7 +2054,7 @@ ErhÃ¶hung fÃ¼r das Jahr in vom Hundert
 
 0,00
 
- 
+
 
 Arbeitsjahre
 
@@ -2586,7 +2586,7 @@ ErhÃ¶hung fÃ¼r das Jahr in vom Hundert
 
 0,00
 
- 
+
 
 Arbeitsjahre
 
@@ -3118,7 +3118,7 @@ ErhÃ¶hung fÃ¼r das Jahr in vom Hundert
 
 0,00
 
- 
+
 
 Arbeitsjahre
 
@@ -3130,13 +3130,13 @@ ErhÃ¶hung fÃ¼r das Jahr in vom Hundert
 
 1970 *)
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 51 ++)
 
@@ -3146,13 +3146,13 @@ ErhÃ¶hung fÃ¼r das Jahr in vom Hundert
 
 62,04
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 50
 
@@ -3162,13 +3162,13 @@ ErhÃ¶hung fÃ¼r das Jahr in vom Hundert
 
 58,87
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 49
 
@@ -3178,13 +3178,13 @@ ErhÃ¶hung fÃ¼r das Jahr in vom Hundert
 
 55,69
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 48
 
@@ -3194,13 +3194,13 @@ ErhÃ¶hung fÃ¼r das Jahr in vom Hundert
 
 52,51
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 47
 
@@ -3210,13 +3210,13 @@ ErhÃ¶hung fÃ¼r das Jahr in vom Hundert
 
 49,33
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 46
 
@@ -3226,13 +3226,13 @@ ErhÃ¶hung fÃ¼r das Jahr in vom Hundert
 
 46,16
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 45
 
@@ -3242,13 +3242,13 @@ ErhÃ¶hung fÃ¼r das Jahr in vom Hundert
 
 42,98
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 44
 
@@ -3258,13 +3258,13 @@ ErhÃ¶hung fÃ¼r das Jahr in vom Hundert
 
 52,81
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 43
 
@@ -3274,13 +3274,13 @@ ErhÃ¶hung fÃ¼r das Jahr in vom Hundert
 
 49,33
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 42
 
@@ -3290,13 +3290,13 @@ ErhÃ¶hung fÃ¼r das Jahr in vom Hundert
 
 45,86
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 41
 
@@ -3306,13 +3306,13 @@ ErhÃ¶hung fÃ¼r das Jahr in vom Hundert
 
 42,39
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 40
 
@@ -3322,13 +3322,13 @@ ErhÃ¶hung fÃ¼r das Jahr in vom Hundert
 
 38,91
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 39
 
@@ -3338,13 +3338,13 @@ ErhÃ¶hung fÃ¼r das Jahr in vom Hundert
 
 42,05
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 38
 
@@ -3354,13 +3354,13 @@ ErhÃ¶hung fÃ¼r das Jahr in vom Hundert
 
 38,41
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 37
 
@@ -3370,13 +3370,13 @@ ErhÃ¶hung fÃ¼r das Jahr in vom Hundert
 
 34,76
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 36
 
@@ -3386,13 +3386,13 @@ ErhÃ¶hung fÃ¼r das Jahr in vom Hundert
 
 31,12
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 35
 
@@ -3402,13 +3402,13 @@ ErhÃ¶hung fÃ¼r das Jahr in vom Hundert
 
 27,48
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 34
 
@@ -3418,13 +3418,13 @@ ErhÃ¶hung fÃ¼r das Jahr in vom Hundert
 
 30,19
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 33
 
@@ -3434,13 +3434,13 @@ ErhÃ¶hung fÃ¼r das Jahr in vom Hundert
 
 26,36
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 32
 
@@ -3450,13 +3450,13 @@ ErhÃ¶hung fÃ¼r das Jahr in vom Hundert
 
 22,53
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 31
 
@@ -3466,13 +3466,13 @@ ErhÃ¶hung fÃ¼r das Jahr in vom Hundert
 
 18,70
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 30
 
@@ -3482,13 +3482,13 @@ ErhÃ¶hung fÃ¼r das Jahr in vom Hundert
 
 14,87
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 29
 
@@ -3498,13 +3498,13 @@ ErhÃ¶hung fÃ¼r das Jahr in vom Hundert
 
 17,04
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 28
 
@@ -3514,13 +3514,13 @@ ErhÃ¶hung fÃ¼r das Jahr in vom Hundert
 
 13,01
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 27
 
@@ -3530,13 +3530,13 @@ ErhÃ¶hung fÃ¼r das Jahr in vom Hundert
 
 8,97
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 26
 
@@ -3546,13 +3546,13 @@ ErhÃ¶hung fÃ¼r das Jahr in vom Hundert
 
 4,94
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 25
 
@@ -3562,13 +3562,13 @@ ErhÃ¶hung fÃ¼r das Jahr in vom Hundert
 
 0,90
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 24
 
@@ -3578,13 +3578,13 @@ ErhÃ¶hung fÃ¼r das Jahr in vom Hundert
 
 2,40
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 23
 
@@ -3594,13 +3594,13 @@ ErhÃ¶hung fÃ¼r das Jahr in vom Hundert
 
 0,00
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 22
 
@@ -3610,13 +3610,13 @@ ErhÃ¶hung fÃ¼r das Jahr in vom Hundert
 
 0,00
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 21
 
@@ -3626,13 +3626,13 @@ ErhÃ¶hung fÃ¼r das Jahr in vom Hundert
 
 0,00
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 20
 
@@ -3642,13 +3642,13 @@ ErhÃ¶hung fÃ¼r das Jahr in vom Hundert
 
 0,00
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 - *) :: und frÃ¼her
 - ++) :: und mehr

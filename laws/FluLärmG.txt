@@ -23,7 +23,7 @@ Zweck dieses Gesetzes ist es, in der Umgebung von Flugpl√§tzen bauliche Nutzungs
 
 Tag-Schutzzone 1:
 
-†
+
 
 L(tief)Aeq Tag
 
@@ -33,7 +33,7 @@ L(tief)Aeq Tag
 
 Tag-Schutzzone 2:
 
-†
+
 
 L(tief)Aeq Tag
 
@@ -47,7 +47,7 @@ a)
 
 bis zum 31. Dezember 2010:
 
-†
+
 
 L(tief)Aeq Nacht
 
@@ -55,7 +55,7 @@ L(tief)Aeq Nacht
 
 53 dB(A),
 
-†
+
 
 L(tief)Amax
 
@@ -67,7 +67,7 @@ b)
 
 ab dem 1. Januar 2011:
 
-†
+
 
 L(tief)Aeq Nacht
 
@@ -75,7 +75,7 @@ L(tief)Aeq Nacht
 
 50 dB(A),
 
-†
+
 
 L(tief)Amax
 
@@ -89,7 +89,7 @@ L(tief)Amax
 
 Tag-Schutzzone 1:
 
-†
+
 
 L(tief)Aeq Tag
 
@@ -99,7 +99,7 @@ L(tief)Aeq Tag
 
 Tag-Schutzzone 2:
 
-†
+
 
 L(tief)Aeq Tag
 
@@ -109,7 +109,7 @@ L(tief)Aeq Tag
 
 Nacht-Schutzzone:
 
-†
+
 
 L(tief)Aeq Nacht
 
@@ -117,7 +117,7 @@ L(tief)Aeq Nacht
 
 55 dB(A),
 
-†
+
 
 L(tief)Amax
 
@@ -131,7 +131,7 @@ L(tief)Amax
 
 Tag-Schutzzone 1:
 
-†
+
 
 L(tief)Aeq Tag
 
@@ -141,7 +141,7 @@ L(tief)Aeq Tag
 
 Tag-Schutzzone 2:
 
-†
+
 
 L(tief)Aeq Tag
 
@@ -155,7 +155,7 @@ a)
 
 bis zum 31. Dezember 2010:
 
-†
+
 
 L(tief)Aeq Nacht
 
@@ -163,7 +163,7 @@ L(tief)Aeq Nacht
 
 53 dB(A),
 
-†
+
 
 L(tief)Amax
 
@@ -175,7 +175,7 @@ b)
 
 ab dem 1. Januar 2011:
 
-†
+
 
 L(tief)Aeq Nacht
 
@@ -183,7 +183,7 @@ L(tief)Aeq Nacht
 
 50 dB(A),
 
-†
+
 
 L(tief)Amax
 
@@ -197,7 +197,7 @@ L(tief)Amax
 
 Tag-Schutzzone 1:
 
-†
+
 
 L(tief)Aeq Tag
 
@@ -207,7 +207,7 @@ L(tief)Aeq Tag
 
 Tag-Schutzzone 2:
 
-†
+
 
 L(tief)Aeq Tag
 
@@ -217,7 +217,7 @@ L(tief)Aeq Tag
 
 Nacht-Schutzzone:
 
-†
+
 
 L(tief)Aeq Nacht
 
@@ -225,7 +225,7 @@ L(tief)Aeq Nacht
 
 55 dB(A),
 
-†
+
 
 L(tief)Amax
 

@@ -42,8 +42,8 @@ Rechte und Pflichten der Pflegeeinrichtungen
 Aufgaben der Pflegekassen
 § 13
 Verhältnis der Leistungen der Pflegeversicherung zu anderen Sozialleistungen
-�
-�
+
+
 Zweites Kapitel
 Leistungsberechtigter Personenkreis
 § 14
@@ -66,8 +66,8 @@ Dienstleistungsorientierung im Begutachtungsverfahren
 Fachliche und wissenschaftliche Begleitung der Umstellung des Verfahrens zur Feststellung der Pflegebedürftigkeit
 § 19
 Begriff der Pflegepersonen
-�
-�
+
+
 Drittes Kapitel
 Versicherungspflichtiger Personenkreis
 § 20
@@ -88,18 +88,18 @@ Weiterversicherung
 Beitrittsrecht
 § 27
 Kündigung eines privaten Pflegeversicherungsvertrages
-�
-�
+
+
 Viertes Kapitel
 Leistungen der Pflegeversicherung
-�
+
 Erster Abschnitt
 Übersicht über die Leistungen
 § 28
 Leistungsarten, Grundsätze
 § 28a
 Leistungen bei Pflegegrad 1
-�
+
 Zweiter Abschnitt
 Gemeinsame Vorschriften
 § 29
@@ -120,11 +120,11 @@ Ruhen der Leistungsansprüche
 Erlöschen der Leistungsansprüche
 § 35a
 Teilnahme an einem Persönlichen Budget nach § 29 des Neunten Buches
-�
-�
+
+
 Dritter Abschnitt
 Leistungen
-�
+
  Erster Titel
  Leistungen bei häuslicher Pflege
 § 36
@@ -139,34 +139,34 @@ Zusätzliche Leistungen für Pflegebedürftige in ambulant betreuten Wohngruppen
 Häusliche Pflege bei Verhinderung der Pflegeperson
 § 40
 Pflegehilfsmittel und wohnumfeldverbessernde Maßnahmen
-�
-�
+
+
  Zweiter Titel
  Teilstationäre Pflege und Kurzzeitpflege
 § 41
 Tagespflege und Nachtpflege
 § 42
 Kurzzeitpflege
-�
-�
+
+
  Dritter Titel
  Vollstationäre Pflege
 § 43
 Inhalt der Leistung
-�
-�
+
+
  Vierter Titel
  Pauschalleistung für die Pflege von Menschen mit Behinderungen
 § 43a
 Inhalt der Leistungen
-�
-�
+
+
 Fünfter Titel
 Zusätzliche Betreuung und Aktivierung in stationären Pflegeeinrichtungen
 § 43b
 Inhalt der Leistung
-�
-�
+
+
   Vierter Abschnitt
   Leistungen für Pflegepersonen
 § 44
@@ -175,8 +175,8 @@ Leistungen zur sozialen Sicherung der Pflegepersonen
 Zusätzliche Leistungen bei Pflegezeit und kurzzeitiger Arbeitsverhinderung
 § 45
 Pflegekurse für Angehörige und ehrenamtliche Pflegepersonen
-�
-�
+
+
 Fünfter Abschnitt
 Angebote zur Unterstützung im Alltag, Entlastungsbetrag, Förderung der Weiterentwicklung der Versorgungsstrukturen und des Ehrenamts sowie der Selbsthilfe
 § 45a
@@ -187,22 +187,22 @@ Entlastungsbetrag
 Förderung der Weiterentwicklung der Versorgungsstrukturen und des Ehrenamts, Verordnungsermächtigung
 § 45d
 Förderung der Selbsthilfe, Verordnungsermächtigung
-�
+
 Sechster Abschnitt
 Initiativprogramm zur\\
 Förderung neuer Wohnformen
-�
+
 § 45e
 Anschubfinanzierung zur Gründung von ambulant betreuten Wohngruppen
 § 45f
 Weiterentwicklung neuer Wohnformen
-�
-�
-�
-�
+
+
+
+
 Fünftes Kapitel
 Organisation
-�
+
 Erster Abschnitt
 Träger der Pflegeversicherung
 § 46
@@ -211,24 +211,24 @@ Pflegekassen
 Satzung
 § 47a
 Stellen zur Bekämpfung von Fehlverhalten im Gesundheitswesen
-�
-�
+
+
 Zweiter Abschnitt
 Zuständigkeit, Mitgliedschaft
 § 48
 Zuständigkeit für Versicherte einer Krankenkasse und sonstige Versicherte
 § 49
 Mitgliedschaft
-�
-�
+
+
 Dritter Abschnitt
 Meldungen
 § 50
 Melde- und Auskunftspflichten bei Mitgliedern der sozialen Pflegeversicherung
 § 51
 Meldungen bei Mitgliedern der privaten Pflegeversicherung
-�
-�
+
+
 Vierter Abschnitt
 Wahrnehmung der Verbandsaufgaben
 § 52
@@ -239,8 +239,8 @@ Aufgaben auf Bundesebene
 Beauftragung von anderen unabhängigen Gutachtern durch die Pflegekassen im Verfahren zur Feststellung der Pflegebedürftigkeit
 § 53b
 Richtlinien zur Qualifikation und zu den Aufgaben zusätzlicher Betreuungskräfte
-�
-�
+
+
 Fünfter Abschnitt
 Medizinische Dienste,\\
 Medizinischer Dienst Bund
@@ -248,13 +248,13 @@ Medizinischer Dienst Bund
 Medizinische Dienste, Medizinischer Dienst Bund, Übergangsregelung
 § 53d
 Aufgaben des Medizinischen Dienstes Bund
-�
-�
-�
-�
+
+
+
+
 Sechstes Kapitel
 Finanzierung
-�
+
 Erster Abschnitt
 Beiträge
 § 54
@@ -271,14 +271,14 @@ Tragung der Beiträge bei versicherungspflichtig Beschäftigten
 Beitragstragung bei anderen Mitgliedern
 § 60
 Beitragszahlung
-�
-�
+
+
 Zweiter Abschnitt
 Beitragszuschüsse
 § 61
 Beitragszuschüsse für freiwillige Mitglieder der gesetzlichen Krankenversicherung und Privatversicherte
-�
-�
+
+
 Dritter Abschnitt
 Verwendung und Verwaltung der Mittel
 § 62
@@ -287,8 +287,8 @@ Mittel der Pflegekasse
 Betriebsmittel
 § 64
 Rücklage
-�
-�
+
+
 Vierter Abschnitt
 Ausgleichsfonds, Finanzausgleich
 § 65
@@ -299,19 +299,19 @@ Finanzausgleich
 Monatlicher Ausgleich
 § 68
 Jahresausgleich
-�
-�
+
+
 Siebtes Kapitel
 Beziehungen der Pflegekassen zu den Leistungserbringern
-�
+
 Erster Abschnitt
 Allgemeine Grundsätze
 § 69
 Sicherstellungsauftrag
 § 70
 Beitragssatzstabilität
-�
-�
+
+
 Zweiter Abschnitt
 Beziehungen zu den Pflegeeinrichtungen
 § 71
@@ -326,16 +326,16 @@ Kündigung von Versorgungsverträgen
 Rahmenverträge, Bundesempfehlungen und -vereinbarungen über die pflegerische Versorgung
 § 76
 Schiedsstelle
-�
-�
+
+
 Dritter Abschnitt
 Beziehungen zu sonstigen Leistungserbringern
 § 77
 Häusliche Pflege durch Einzelpersonen
 § 78
 Verträge über Pflegehilfsmittel, Pflegehilfsmittelverzeichnis und Empfehlungen zu wohnumfeldverbessernden Maßnahmen
-�
-�
+
+
 Vierter Abschnitt
 Wirtschaftlichkeitsprüfungen
 § 79
@@ -346,11 +346,11 @@ Wirtschaftlichkeits- und Abrechnungsprüfungen
 (weggefallen)
 § 81
 Verfahrensregelungen
-�
-�
+
+
 Achtes Kapitel
 Pflegevergütung
-�
+
 Erster Abschnitt
 Allgemeine Vorschriften
 § 82
@@ -361,8 +361,8 @@ Ausbildungsvergütung
 Ehrenamtliche Unterstützung
 § 83
 Verordnung zur Regelung der Pflegevergütung
-�
-�
+
+
 Zweiter Abschnitt
 Vergütung der stationären Pflegeleistungen
 § 84
@@ -379,16 +379,16 @@ Berechnung und Zahlung des Heimentgelts
 (weggefallen)
 § 88
 Zusatzleistungen
-�
-�
+
+
 Dritter Abschnitt
 Vergütung der ambulanten Pflegeleistungen
 § 89
 Grundsätze für die Vergütungsregelung
 § 90
 Gebührenordnung für ambulante Pflegeleistungen
-�
-�
+
+
 Vierter Abschnitt
 Kostenerstattung, Pflegeheimvergleich
 § 91
@@ -397,14 +397,14 @@ Kostenerstattung
 (weggefallen)
 § 92a
 Pflegeheimvergleich
-�
-�
+
+
 Fünfter Abschnitt
 Integrierte Versorgung
 § 92b
 Integrierte Versorgung
-�
-�
+
+
 Sechster Abschnitt
 Übergangsregelung für die stationäre Pflege
 § 92c
@@ -417,10 +417,10 @@ Verfahren für die Umrechnung
 Pflichten der Beteiligten
 Neuntes Kapitel
 Datenschutz und Statistik
-�
+
 Erster Abschnitt
 Informationsgrundlagen
-�
+
  Erster Titel
  Grundsätze der Datenverarbeitung
 § 93
@@ -443,8 +443,8 @@ Qualitätssicherung durch den Prüfdienst des Verbandes der privaten Krankenvers
 Begutachtung durch unabhängige Gutachter
 § 98
 Forschungsvorhaben
-�
-�
+
+
  Zweiter Titel
  Informationsgrundlagen der Pflegekassen
 § 99
@@ -457,8 +457,8 @@ Pflegeversichertennummer
 Angaben über Leistungsvoraussetzungen
 § 103
 Kennzeichen für Leistungsträger und Leistungserbringer
-�
-�
+
+
 Zweiter Abschnitt
 Übermittlung von Leistungsdaten
 § 104
@@ -471,30 +471,30 @@ Abweichende Vereinbarungen
 Mitteilungspflichten
 § 106b
 Finanzierung der Einbindung der Pflegeeinrichtungen in die Telematikinfrastruktur
-�
-�
+
+
 Dritter Abschnitt
 Datenlöschung, Auskunftspflicht
 § 107
 Löschen von Daten
 § 108
 Auskünfte an Versicherte
-�
-�
+
+
 Vierter Abschnitt
 Statistik
 § 109
 Pflegestatistiken
-�
-�
+
+
 Zehntes Kapitel
 Private Pflegeversicherung
 § 110
 Regelungen für die private Pflegeversicherung
 § 111
 Risikoausgleich
-�
-�
+
+
 Elftes Kapitel
 Qualitätssicherung, Sonstige Regelungen zum Schutz der Pflegebedürftigen
 § 112
@@ -531,28 +531,28 @@ Beteiligung von Interessenvertretungen, Verordnungsermächtigung
 Verträge mit Pflegeheimen außerhalb des Anwendungsbereichs des Wohn- und Betreuungsvertragsgesetzes
 § 120
 Pflegevertrag bei häuslicher Pflege
-�
-�
+
+
 Zwölftes Kapitel
 Bußgeldvorschrift
 § 121
 Bußgeldvorschrift
 § 122
 (weggefallen)
-�
+
 Dreizehntes Kapitel
 Befristete Modellvorhaben
-�
+
 § 123
 Durchführung der Modellvorhaben zur kommunalen Beratung Pflegebedürftiger und ihrer Angehörigen, Verordnungsermächtigung
 § 124
 Befristung, Widerruf und Begleitung der Modellvorhaben zur kommunalen Beratung; Beirat
 § 125
 Modellvorhaben zur Einbindung der Pflegeeinrichtungen in die Telematikinfrastruktur
-�
+
 Vierzehntes Kapitel
 Zulagenförderung der privaten Pflegevorsorge
-�
+
 § 126
 Zulageberechtigte
 § 127
@@ -563,10 +563,10 @@ Verfahren; Haftung des Versicherungsunternehmens
 Wartezeit bei förderfähigen Pflege-Zusatzversicherungen
 § 130
 Verordnungsermächtigung
-�
+
 Fünfzehntes Kapitel
 Bildung eines Pflegevorsorgefonds
-�
+
 § 131
 Pflegevorsorgefonds
 § 132
@@ -585,12 +585,12 @@ Vermögenstrennung
 Jahresrechnung
 § 139
 Auflösung
-�
-�
+
+
 Sechzehntes Kapitel
 Überleitungs- und Übergangsrecht
-�
-�
+
+
 Erster Abschnitt
 Regelungen zur Rechtsanwendung im Übergangszeitraum, zur Überleitung in die Pflegegrade, zum Besitzstandsschutz für Leistungen der Pflegeversicherung sowie Übergangsregelungen im Begutachtungsverfahren im Rahmen der Einführung des neuen Pflegebedürftigkeitsbegriffs
 § 140
@@ -601,8 +601,8 @@ Besitzstandsschutz und Übergangsrecht zur sozialen Sicherung von Pflegepersonen
 Übergangsregelungen im Begutachtungsverfahren
 § 143
 Sonderanpassungsrecht für die Allgemeinen Versicherungsbedingungen und die technischen Berechnungsgrundlagen privater Pflegeversicherungsverträge
-�
-�
+
+
 Zweiter Abschnitt
 Sonstige Überleitungs-, Übergangs- und Besitzstandsschutzregelungen
 § 144
@@ -611,8 +611,8 @@ Sonstige Überleitungs-, Übergangs- und Besitzstandsschutzregelungen
 Besitzstandsschutz für pflegebedürftige Menschen mit Behinderungen in häuslicher Pflege
 § 146
 Übergangs- und Überleitungsregelung zur Beratung nach § 37 Absatz 3
-�
-�
+
+
 Dritter Abschnitt
 Maßnahmen zur\\
 Aufrechterhaltung der pflegerischen\\
@@ -2071,7 +2071,7 @@ Pflegebedürftige und ihre Angehörigen sind von der stationären Pflegeeinricht
 - 1. :: die vollstationäre Pflegeeinrichtung über zusätzliches Pflegehilfskraftpersonal verfügt,
   - a) :: das über eine abgeschlossene, landesrechtlich geregelte Assistenz- oder Helferausbildung in der Pflege mit einer Ausbildungsdauer von mindestens einem Jahr verfügt, oder
   - b) :: das berufsbegleitend eine Ausbildung im Sinne von Buchstabe a begonnen hat oder
-  - c) :: für das die vollstationäre Pflegeeinrichtung sicherstellt, dass es spätestens bis zum Ablauf von zwei Jahren nach Vereinbarung des Vergütungszuschlages nach § 84 Absatz 9 Satz 1 oder nach der Mitteilung nach Absatz 11 Satz 1 eine berufsbegleitende, landesrechtlich geregelte Assistenz- oder Helferausbildung in der Pflege beginnen wird, die die von der Arbeits- und Sozialministerkonferenz 2012 und von der Gesundheitsministerkonferenz 2013 als Mindestanforderungen beschlossenen �Eckpunkte für die in Länderzuständigkeit liegenden Ausbildungen zu Assistenz- und Helferberufen in der Pflege“ (BAnz AT 17.02.2016 B3) erfüllt, es sei denn, dass der Beginn oder die Durchführung dieser Ausbildung aus Gründen, die die Einrichtung nicht zu vertreten hat, unmöglich ist,
+  - c) :: für das die vollstationäre Pflegeeinrichtung sicherstellt, dass es spätestens bis zum Ablauf von zwei Jahren nach Vereinbarung des Vergütungszuschlages nach § 84 Absatz 9 Satz 1 oder nach der Mitteilung nach Absatz 11 Satz 1 eine berufsbegleitende, landesrechtlich geregelte Assistenz- oder Helferausbildung in der Pflege beginnen wird, die die von der Arbeits- und Sozialministerkonferenz 2012 und von der Gesundheitsministerkonferenz 2013 als Mindestanforderungen beschlossenen Eckpunkte für die in Länderzuständigkeit liegenden Ausbildungen zu Assistenz- und Helferberufen in der Pflege“ (BAnz AT 17.02.2016 B3) erfüllt, es sei denn, dass der Beginn oder die Durchführung dieser Ausbildung aus Gründen, die die Einrichtung nicht zu vertreten hat, unmöglich ist,
 - 2. :: zusätzliche Stellenanteile im Umfang von bis zu 0,016 Vollzeitäquivalenten je Pflegebedürftigen des Pflegegrades 1 oder 2, 0,025 Vollzeitäquivalenten je Pflegebedürftigen des Pflegegrades 3, 0,032 Vollzeitäquivalenten je Pflegebedürftigen des Pflegegrades 4 und 0,036 Vollzeitäquivalenten je Pflegebedürftigen des Pflegegrades 5, mindestens aber 0,5 Vollzeitäquivalenten, für den Pflegesatzzeitraum finanziert werden,
 - 3. :: notwendige Ausbildungsaufwendungen für das zusätzliche Pflegehilfskraftpersonal, das eine Ausbildung im Sinne von Nummer 1 Buchstabe b oder c durchläuft, finanziert werden, soweit diese Aufwendungen nicht von einer anderen Stelle finanziert werden,
 - 4. :: die Aufwendungen für das zusätzliche Pflegehilfskraftpersonal weder bei der Bemessung der Pflegesätze noch bei den Zusatzleistungen nach § 88 berücksichtigt werden und
@@ -2476,7 +2476,7 @@ vorzusehen.
 (4) Die Vertragsparteien nach § 113 beauftragen zur Sicherstellung der Wissenschaftlichkeit bei der Wahrnehmung ihrer Aufgaben mit Unterstützung der qualifizierten Geschäftsstelle nach Absatz 6 fachlich unabhängige wissenschaftliche Einrichtungen oder Sachverständige. Diese wissenschaftlichen Einrichtungen oder Sachverständigen werden beauftragt, insbesondere
 
 - 1. :: bis zum 31. März 2017 die Instrumente für die Prüfung der Qualität der Leistungen, die von den stationären Pflegeeinrichtungen erbracht werden, und für die Qualitätsberichterstattung in der stationären Pflege zu entwickeln, wobei
-  - a) :: insbesondere die 2011 vorgelegten Ergebnisse des vom Bundesministerium für Gesundheit und vom Bundesministerium für Familie, Senioren, Frauen und Jugend geförderten Projektes �Entwicklung und Erprobung von Instrumenten zur Beurteilung der Ergebnisqualität in der stationären Altenhilfe“ und die Ergebnisse der dazu durchgeführten Umsetzungsprojekte einzubeziehen sind und
+  - a) :: insbesondere die 2011 vorgelegten Ergebnisse des vom Bundesministerium für Gesundheit und vom Bundesministerium für Familie, Senioren, Frauen und Jugend geförderten Projektes Entwicklung und Erprobung von Instrumenten zur Beurteilung der Ergebnisqualität in der stationären Altenhilfe“ und die Ergebnisse der dazu durchgeführten Umsetzungsprojekte einzubeziehen sind und
   - b) :: Aspekte der Prozess- und Strukturqualität zu berücksichtigen sind;
 - 2. :: bis zum 31. März 2017 auf der Grundlage der Ergebnisse nach Nummer 1 unter Beachtung des Prinzips der Datensparsamkeit ein bundesweites Datenerhebungsinstrument, bundesweite Verfahren für die Übermittlung und Auswertung der Daten einschließlich einer Bewertungssystematik sowie für die von Externen durchzuführende Prüfung der Daten zu entwickeln;
 - 3. :: bis zum 30. Juni 2017 die Instrumente für die Prüfung der Qualität der von den ambulanten Pflegeeinrichtungen erbrachten Leistungen und für die Qualitätsberichterstattung in der ambulanten Pflege zu entwickeln, eine anschließende Pilotierung durchzuführen und einen Abschlussbericht bis zum 31. März 2018 vorzulegen;
@@ -2556,7 +2556,7 @@ Die Pflegeeinrichtung kann verlangen, dass von einer Verringerung der Prüfpflic
 
 § 114c - Richtlinien zur Verlängerung des Prüfrhythmus in vollstationären Einrichtungen bei guter Qualität und zur Veranlassung unangemeldeter Prüfungen; Berichtspflicht
 
-(1) Abweichend von § 114 Absatz 2 kann eine Prüfung in einer zugelassenen vollstationären Pflegeeinrichtung ab dem 1. Januar 2023 regelmä�Darstellung der Konzeption für das neue Prüfverfahren und die Qualitätsdarstellung“ in der vom Qualitätsausschuss Pflege am 17. September 2018 abgenommenen Fassung zum indikatorengestützten Verfahren dargelegt wurden. Die Feststellung, ob ein hohes Qualitätsniveau durch eine Einrichtung erreicht worden ist, soll von den Landesverbänden der Pflegekassen auf der Grundlage der durch die Datenauswertungsstelle nach § 113 Absatz 1b Satz 3 übermittelten Daten und der Ergebnisse der nach § 114 durchgeführten Qualitätsprüfungen erfolgen. Die auf Bundesebene maßgeblichen Organisationen für die Wahrnehmung der Interessen und der Selbsthilfe pflegebedürftiger und behinderter Menschen wirken nach Maßgabe von § 118 an der Erstellung und Änderung der Richtlinien mit. Der Medizinische Dienst Bund hat die Vereinigungen der Träger der Pflegeeinrichtungen auf Bundesebene, die Verbände der Pflegeberufe auf Bundesebene, den Verband der privaten Krankenversicherung e. V., die Bundesarbeitsgemeinschaft der überörtlichen Träger der Sozialhilfe und die kommunalen Spitzenverbände auf Bundesebene zu beteiligen. Ihnen ist unter Übermittlung der hierfür erforderlichen Informationen innerhalb einer angemessenen Frist vor der Entscheidung Gelegenheit zur Stellungnahme zu geben; die Stellungnahmen sind in die Entscheidung einzubeziehen. Die Kriterien nach Satz 2 sind auf der Basis der empirischen Erkenntnisse der Datenauswertungsstelle nach § 113 Absatz 1b zur Messung und Bewertung der Qualität der Pflege in den Einrichtungen sowie des allgemein anerkannten Standes der medizinisch-pflegerischen Erkenntnisse regelmäßig, erstmals nach zwei Jahren, zu überprüfen.
+(1) Abweichend von § 114 Absatz 2 kann eine Prüfung in einer zugelassenen vollstationären Pflegeeinrichtung ab dem 1. Januar 2023 regelmäDarstellung der Konzeption für das neue Prüfverfahren und die Qualitätsdarstellung“ in der vom Qualitätsausschuss Pflege am 17. September 2018 abgenommenen Fassung zum indikatorengestützten Verfahren dargelegt wurden. Die Feststellung, ob ein hohes Qualitätsniveau durch eine Einrichtung erreicht worden ist, soll von den Landesverbänden der Pflegekassen auf der Grundlage der durch die Datenauswertungsstelle nach § 113 Absatz 1b Satz 3 übermittelten Daten und der Ergebnisse der nach § 114 durchgeführten Qualitätsprüfungen erfolgen. Die auf Bundesebene maßgeblichen Organisationen für die Wahrnehmung der Interessen und der Selbsthilfe pflegebedürftiger und behinderter Menschen wirken nach Maßgabe von § 118 an der Erstellung und Änderung der Richtlinien mit. Der Medizinische Dienst Bund hat die Vereinigungen der Träger der Pflegeeinrichtungen auf Bundesebene, die Verbände der Pflegeberufe auf Bundesebene, den Verband der privaten Krankenversicherung e. V., die Bundesarbeitsgemeinschaft der überörtlichen Träger der Sozialhilfe und die kommunalen Spitzenverbände auf Bundesebene zu beteiligen. Ihnen ist unter Übermittlung der hierfür erforderlichen Informationen innerhalb einer angemessenen Frist vor der Entscheidung Gelegenheit zur Stellungnahme zu geben; die Stellungnahmen sind in die Entscheidung einzubeziehen. Die Kriterien nach Satz 2 sind auf der Basis der empirischen Erkenntnisse der Datenauswertungsstelle nach § 113 Absatz 1b zur Messung und Bewertung der Qualität der Pflege in den Einrichtungen sowie des allgemein anerkannten Standes der medizinisch-pflegerischen Erkenntnisse regelmäßig, erstmals nach zwei Jahren, zu überprüfen.
 (2) Die Richtlinien werden erst wirksam, wenn das Bundesministerium für Gesundheit sie genehmigt. Die Genehmigung gilt als erteilt, wenn die Richtlinien nicht innerhalb eines Monats, nachdem sie dem Bundesministerium für Gesundheit vorgelegt worden sind, beanstandet werden. Beanstandungen des Bundesministeriums für Gesundheit sind innerhalb der von ihm gesetzten Frist zu beheben.
 (3) Der Spitzenverband Bund der Pflegekassen berichtet dem Bundesministerium für Gesundheit zum 30. Juni 2022, zum 31. März 2023 und danach jährlich über die Erfahrungen der Pflegekassen mit
 
@@ -2757,7 +2757,7 @@ Das Bundesministerium für Gesundheit wird ermächtigt, im Einvernehmen mit dem 
 
 § 131 - Pflegevorsorgefonds
 
-In der sozialen Pflegeversicherung wird ein Sondervermögen unter dem Namen �Vorsorgefonds der sozialen Pflegeversicherung“ errichtet.
+In der sozialen Pflegeversicherung wird ein Sondervermögen unter dem Namen Vorsorgefonds der sozialen Pflegeversicherung“ errichtet.
 
 § 132 - Zweck des Vorsorgefonds
 
@@ -2770,7 +2770,7 @@ Das Sondervermögen ist nicht rechtsfähig. Es kann unter seinem Namen im rechts
 § 134 - Verwaltung und Anlage der Mittel
 
 (1) Die Verwaltung und die Anlage der Mittel des Sondervermögens werden der Deutschen Bundesbank übertragen. Für die Verwaltung des Sondervermögens und seiner Mittel werden der Bundesbank entsprechend § 20 Satz 2 des Gesetzes über die Deutsche Bundesbank keine Kosten erstattet.
-(2) Die dem Sondervermögen zuflie�Versorgungsrücklage des Bundes“, �Versorgungsfonds des Bundes“, �Versorgungsfonds der Bundesagentur für Arbeit“ und �Vorsorgefonds der sozialen Pflegeversicherung“ (Anlagerichtlinien Sondervermögen) zu marktüblichen Bedingungen anzulegen. Dabei ist der in Aktien oder Aktienfonds angelegte Anteil des Sondervermögens ab dem Jahr 2035 über einen Zeitraum von höchstens zehn Jahren abzubauen. Das Bundesministerium für Gesundheit ist im Anlageausschuss nach § 5 der Anlagerichtlinien für die Sondervermögen �Versorgungsrücklage des Bundes“, �Versorgungsfonds des Bundes“, �Versorgungsfonds der Bundesagentur für Arbeit“ und �Vorsorgefonds der sozialen Pflegeversicherung“ (Anlagerichtlinien Sondervermögen) vertreten.
+(2) Die dem Sondervermögen zuflieVersorgungsrücklage des Bundes“, Versorgungsfonds des Bundes“, Versorgungsfonds der Bundesagentur für Arbeit“ und Vorsorgefonds der sozialen Pflegeversicherung“ (Anlagerichtlinien Sondervermögen) zu marktüblichen Bedingungen anzulegen. Dabei ist der in Aktien oder Aktienfonds angelegte Anteil des Sondervermögens ab dem Jahr 2035 über einen Zeitraum von höchstens zehn Jahren abzubauen. Das Bundesministerium für Gesundheit ist im Anlageausschuss nach § 5 der Anlagerichtlinien für die Sondervermögen Versorgungsrücklage des Bundes“, Versorgungsfonds des Bundes“, Versorgungsfonds der Bundesagentur für Arbeit“ und Vorsorgefonds der sozialen Pflegeversicherung“ (Anlagerichtlinien Sondervermögen) vertreten.
 
 § 135 - Zuführung der Mittel
 
@@ -3075,16 +3075,16 @@ Die Ausprägungen der Kriterien 4.1 bis 4.12 werden in den folgenden Kategorien 
 |        | Stuhlinkontinenz und Umgang mit Stoma                                                |             |               |               |               |
 
 Die Ausprägungen des Kriteriums der Ziffer 4.8 sowie die Ausprägung der Kriterien der Ziffern 4.9 und 4.10 werden wegen ihrer besonderen Bedeutung für die pflegerische Versorgung stärker gewichtet.
-Die Einzelpunkte für die Kriterien der Ziffern 4.11 und 4.12 gehen in die Berechnung nur ein, wenn bei der Begutachtung beim Versicherten darüber hinaus die Feststellung �überwiegend inkontinent“ oder �vollständig inkontinent“ getroffen wird oder eine künstliche Ableitung von Stuhl oder Harn erfolgt.
+Die Einzelpunkte für die Kriterien der Ziffern 4.11 und 4.12 gehen in die Berechnung nur ein, wenn bei der Begutachtung beim Versicherten darüber hinaus die Feststellung überwiegend inkontinent“ oder vollständig inkontinent“ getroffen wird oder eine künstliche Ableitung von Stuhl oder Harn erfolgt.
 Einzelpunkte für das Kriterium der Ziffer 4.13
 Die Ausprägungen des Kriteriums der Ziffer 4.13 werden in den folgenden Kategorien mit den nachstehenden Einzelpunkten gewertet:
 | Ziffer | Kriterium                          | entfällt | teilweise | vollständig |
 |--------+------------------------------------+----------+-----------+-------------|
 | 4.13   | Ernährung parental oder über Sonde | 0        | 6         | 3           |
 
-Das Kriterium ist mit �entfällt“ (0 Punkte) zu bewerten, wenn eine regelmäßige und tägliche parenterale Ernährung oder Sondenernährung auf Dauer, voraussichtlich für mindestens sechs Monate, nicht erforderlich ist. Kann die parenterale Ernährung oder Sondenernährung ohne Hilfe durch andere selbständig durchgeführt werden, werden ebenfalls keine Punkte vergeben.
-Das Kriterium ist mit �teilweise“ (6 Punkte) zu bewerten, wenn eine parenterale Ernährung oder Sondenernährung zur Vermeidung von Mangelernährung mit Hilfe täglich und zusätzlich zur oralen Aufnahme von Nahrung oder Flüssigkeit erfolgt.
-Das Kriterium ist mit �vollständig“ (3 Punkte) zu bewerten, wenn die Aufnahme von Nahrung oder Flüssigkeit ausschließlich oder nahezu ausschließlich parenteral oder über eine Sonde erfolgt.
+Das Kriterium ist mit entfällt“ (0 Punkte) zu bewerten, wenn eine regelmäßige und tägliche parenterale Ernährung oder Sondenernährung auf Dauer, voraussichtlich für mindestens sechs Monate, nicht erforderlich ist. Kann die parenterale Ernährung oder Sondenernährung ohne Hilfe durch andere selbständig durchgeführt werden, werden ebenfalls keine Punkte vergeben.
+Das Kriterium ist mit teilweise“ (6 Punkte) zu bewerten, wenn eine parenterale Ernährung oder Sondenernährung zur Vermeidung von Mangelernährung mit Hilfe täglich und zusätzlich zur oralen Aufnahme von Nahrung oder Flüssigkeit erfolgt.
+Das Kriterium ist mit vollständig“ (3 Punkte) zu bewerten, wenn die Aufnahme von Nahrung oder Flüssigkeit ausschließlich oder nahezu ausschließlich parenteral oder über eine Sonde erfolgt.
 Bei einer vollständigen parenteralen Ernährung oder Sondenernährung werden weniger Punkte vergeben als bei einer teilweisen parenteralen Ernährung oder Sondenernährung, da der oft hohe Aufwand zur Unterstützung bei der oralen Nahrungsaufnahme im Fall ausschließlich parenteraler oder Sondenernährung weitgehend entfällt.
 Einzelpunkte für das Kriterium der Ziffer 4.K
 Bei Kindern im Alter bis 18 Monate werden die Kriterien der Ziffern 4.1 bis 4.13 durch das Kriterium 4.K ersetzt und wie folgt gewertet:
@@ -3107,57 +3107,57 @@ pro Monat
 5.1
 Medikation
 0
-�
-�
-�
+
+
+
 5.2
 Injektionen (subcutan oder intramuskulär)
 0
-�
-�
-�
+
+
+
 5.3
 Versorgung intravenöser Zugänge (Port)
 0
-�
-�
-�
+
+
+
 5.4
 Absaugen und Sauerstoffgabe
 0
-�
-�
-�
+
+
+
 5.5
 Einreibungen oder Kälte- und\\
 Wärmeanwendungen
 0
-�
-�
-�
+
+
+
 5.6
 Messung und Deutung von\\
 Körperzuständen
 0
-�
-�
-�
+
+
+
 5.7
 Körpernahe Hilfsmittel
 0
-�
-�
-�
+
+
+
 Summe der Maßnahmen aus 5.1 bis 5.7
 0
-�
-�
-�
+
+
+
 Umrechnung in Maßnahmen pro Tag
 0
-�
-�
-�
+
+
+
 Einzelpunkte für die Kriterien der Ziffern 5.1 bis 5.7
 Maßnahme pro Tag
 keine oder\\
@@ -3192,39 +3192,39 @@ pro Monat
 5.8
 Verbandswechsel und Wundversorgung
 0
-�
-�
-�
+
+
+
 5.9
 Versorgung mit Stoma
 0
-�
-�
-�
+
+
+
 5.10
 Regelmäßige Einmalkatheterisierung\\
 und Nutzung von Abführmethoden
 0
-�
-�
-�
+
+
+
 5.11
 Therapiemaßnahmen in häuslicher\\
 Umgebung
 0
-�
-�
-�
+
+
+
 Summe der Maßnahmen aus 5.8 bis 5.11
 0
-�
-�
-�
+
+
+
 Umrechnung in Maßnahmen pro Tag
 0
-�
-�
-�
+
+
+
 Einzelpunkte für die Kriterien der Ziffern 5.8 bis 5.11
 Maßnahme pro Tag
 keine oder seltener als\\
@@ -3289,7 +3289,7 @@ bis unter
 3
 60 und
 mehr
-�
+
 6
 Einzelpunkte für das Kriterium der Ziffer 5.16
 Die Ausprägungen des Kriteriums der Ziffer 5.16 werden in den folgenden Kategorien mit den nachstehenden Einzelpunkten gewertet:

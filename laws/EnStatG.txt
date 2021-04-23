@@ -24,15 +24,15 @@ Ausfertigungsdatum: 06.03.2017
 
 § 2 - Begriffsbestimmungen
 
-(1) �Betreiber von Anlagen zur Erzeugung“ im Sinne dieses Gesetzes sind natürliche oder juristische Personen oder Personenvereinigungen, die bestimmenden Einfluss auf die Beschaffenheit und den Betrieb der Anlage zur Erzeugung ausüben. Wird die Anlage zur Erzeugung in einem Betrieb oder in einem Unternehmen eingesetzt, ist der Betriebsinhaber oder der Unternehmensinhaber der Betreiber der Anlage zur Erzeugung. Betreiber der Anlage zur Erzeugung können sowohl ihr Eigentümer als auch die auf Grund schuldrechtlicher Verpflichtung zum Betrieb berechtigten natürlichen oder juristischen Personen oder Personenvereinigungen sein.
-(2) �Anlagen zur Erzeugung“ im Sinne dieses Gesetzes sind Anlagen, die Elektrizität, Gas oder Wärme zur Abgabe an andere oder zur Eigenversorgung erzeugen. Wenn die gleiche erneuerbare Energie in mehreren Erzeugungseinheiten an einem Standort eingesetzt wird, gelten diese Erzeugungseinheiten als eine Anlage. Anlagen im Test- und Probebetrieb sind einzubeziehen.
-(3) �Brennstoffe“ im Sinne dieses Gesetzes sind feste, flüssige und gasförmige Energieträger. Den Brennstoffen gleichgestellt sind Kernbrennstoffe, Abfälle, Wärme einschließlich Abwärme und die Energie aus der Entspannung komprimierter Gase.
-(4) �Erneuerbare Energien“ im Sinne dieses Gesetzes sind
+(1) Betreiber von Anlagen zur Erzeugung“ im Sinne dieses Gesetzes sind natürliche oder juristische Personen oder Personenvereinigungen, die bestimmenden Einfluss auf die Beschaffenheit und den Betrieb der Anlage zur Erzeugung ausüben. Wird die Anlage zur Erzeugung in einem Betrieb oder in einem Unternehmen eingesetzt, ist der Betriebsinhaber oder der Unternehmensinhaber der Betreiber der Anlage zur Erzeugung. Betreiber der Anlage zur Erzeugung können sowohl ihr Eigentümer als auch die auf Grund schuldrechtlicher Verpflichtung zum Betrieb berechtigten natürlichen oder juristischen Personen oder Personenvereinigungen sein.
+(2) Anlagen zur Erzeugung“ im Sinne dieses Gesetzes sind Anlagen, die Elektrizität, Gas oder Wärme zur Abgabe an andere oder zur Eigenversorgung erzeugen. Wenn die gleiche erneuerbare Energie in mehreren Erzeugungseinheiten an einem Standort eingesetzt wird, gelten diese Erzeugungseinheiten als eine Anlage. Anlagen im Test- und Probebetrieb sind einzubeziehen.
+(3) Brennstoffe“ im Sinne dieses Gesetzes sind feste, flüssige und gasförmige Energieträger. Den Brennstoffen gleichgestellt sind Kernbrennstoffe, Abfälle, Wärme einschließlich Abwärme und die Energie aus der Entspannung komprimierter Gase.
+(4) Erneuerbare Energien“ im Sinne dieses Gesetzes sind
 
 - 1. :: erneuerbare Energien nach § 3 Nummer 21 des Erneuerbare-Energien-Gesetzes und
 - 2. :: Energie aus Klärschlamm und aus Pflanzenölmethylester sowie Energie aus dem biologisch abbaubaren Anteil von Abfällen aus Gewerbe, Handel und Dienstleistungen.
 
-(5) �Nutzbare Speicherkapazität“ im Sinne dieses Gesetzes ist die maximal aufnehmbare Energiemenge, abzüglich auftretender Lade-, Speicher- und Entladeverluste.
+(5) Nutzbare Speicherkapazität“ im Sinne dieses Gesetzes ist die maximal aufnehmbare Energiemenge, abzüglich auftretender Lade-, Speicher- und Entladeverluste.
 (6) Im Übrigen gelten die Begriffsbestimmungen
 
 - 1. :: des Energiewirtschaftsgesetzes,

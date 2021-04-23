@@ -7,7 +7,7 @@ Ausfertigungsdatum: 22.05.2005
 Inhaltsübersicht
 
 Abschnitt 1
-�
+
 Anwendungsbereich, Erlaubnis und Aufsicht
 § 1
 Begriffsbestimmungen
@@ -16,7 +16,7 @@ Erlaubnis
 § 3
 Aufsicht; Auskunfts- und Vorlageverlangen
 Abschnitt 2
-�
+
 Allgemeine Vorschriften über die Pfandbriefemission
 § 4
 Deckungskongruenz; Anordnung erhöhter Mindestdeckungsanforderungen
@@ -37,12 +37,12 @@ Befugnisse
 § 11
 Vergütung, Streitentscheidung
 Abschnitt 3
-�
+
 Besondere Vorschriften über die Deckungswerte
-�
-�
+
+
 Unterabschnitt 1
-�
+
 Hypothekenpfandbriefe
 § 12
 Deckungswerte
@@ -60,17 +60,17 @@ Beleihungswertermittlung
 Grundschulden und ausländische Sicherungsrechte
 § 19
 Weitere Deckungswerte
-�
+
 Unterabschnitt 2
-�
-�
+
+
 Öffentliche Pfandbriefe
 § 20
 Deckungswerte
-�
+
 Unterabschnitt 3
-�
-�
+
+
 Schiffspfandbriefe
 § 21
 Deckungswerte
@@ -84,10 +84,10 @@ Beleihungswertermittlung
 Abzahlungsbeginn
 § 26
 Weitere Deckungswerte
-�
+
 Unterabschnitt 4
-�
-�
+
+
 Flugzeugpfandbriefe
 § 26a
 Deckungswerte
@@ -102,7 +102,7 @@ Abzahlungsbeginn
 § 26f
 Weitere Deckungswerte
 Abschnitt 4
-�
+
 Allgemeine Vorschriften für das Pfandbriefgeschäft
 § 27
 Risikomanagement
@@ -111,7 +111,7 @@ Pfandbriefmeldungen; Verordnungsermächtigung
 § 28
 Transparenzvorschriften
 Abschnitt 5
-�
+
 Schutz vor Zwangsvollstreckung; Trennungsprinzip bei Insolvenz der Pfandbriefbank
 § 29
 Schutz vor Zwangsvollstreckung, Arresten und Aufrechnung
@@ -134,7 +134,7 @@ Teilweise Übertragung
 § 36a
 Trennungsprinzip bei Reorganisation oder Restrukturierung der Pfandbriefbank
 Abschnitt 6
-�
+
 Rechtsbehelfe und Zuwiderhandlungen
 § 37
 Sofortige Vollziehbarkeit
@@ -145,7 +145,7 @@ Bußgeldvorschriften
 § 40
 Verwaltungsbehörde
 Abschnitt 7
-�
+
 Schlussvorschriften
 § 41
 Bezeichnungsschutz
@@ -348,7 +348,7 @@ Für Nummer 2 gilt § 4 Absatz 1 Satz 4 bis 8 entsprechend.
   - b) :: Mitgliedstaaten der Europäischen Union oder Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum sowie deren Zentralnotenbanken,
   - c) :: Regionalverwaltungen sowie Gebietskörperschaften der in Buchstabe b genannten Staaten,
   - d) :: die Vereinigten Staaten von Amerika, Japan, die Schweiz, das Vereinigte Königreich Großbritannien und Nordirland und Kanada sowie deren Zentralnotenbanken, sofern das Risikogewicht nach Tabelle 1 des Artikels 114 Absatz 2 der Verordnung (EU) Nr. 575/2013 entsprechend der von den zuständigen Behörden vorgenommenen Zuordnung des Ratings anerkannter internationaler Ratingagenturen der Bonitätsstufe 1 zugeordnet worden ist,
-  - e) :: Regionalverwaltungen sowie Gebietskörperschaften der in Buchstabe d genannten Staaten, sofern sie von der jeweiligen nationalen Behörde dem Zentralstaat gleichgestellt worden sind oder sofern ihnen ein der Bonitätsstufe 1 entsprechendes Risikogewicht nach Tabelle 5 des Artikels 121 Absatz 1 der Verordnung (EU) Nr. 575/2013 nach den nationalen Regelungen zugeordnet worden ist, die zur Umsetzung der Rahmenvereinbarung �Internationale Konvergenz der Kapitalmessung und Eigenkapitalanforderungen“ des Baseler Ausschusses für Bankenaufsicht vom Juni 2004 erlassen worden sind; für die Zuordnung zur Bonitätsstufe 1 sind die Ratings anerkannter internationaler Ratingagenturen maßgeblich; hierfür gilt Artikel 115 Absatz 4 der Verordnung (EU) Nr. 575/2013 entsprechend,
+  - e) :: Regionalverwaltungen sowie Gebietskörperschaften der in Buchstabe d genannten Staaten, sofern sie von der jeweiligen nationalen Behörde dem Zentralstaat gleichgestellt worden sind oder sofern ihnen ein der Bonitätsstufe 1 entsprechendes Risikogewicht nach Tabelle 5 des Artikels 121 Absatz 1 der Verordnung (EU) Nr. 575/2013 nach den nationalen Regelungen zugeordnet worden ist, die zur Umsetzung der Rahmenvereinbarung Internationale Konvergenz der Kapitalmessung und Eigenkapitalanforderungen“ des Baseler Ausschusses für Bankenaufsicht vom Juni 2004 erlassen worden sind; für die Zuordnung zur Bonitätsstufe 1 sind die Ratings anerkannter internationaler Ratingagenturen maßgeblich; hierfür gilt Artikel 115 Absatz 4 der Verordnung (EU) Nr. 575/2013 entsprechend,
   - f) :: die Europäische Zentralbank sowie multilaterale Entwicklungsbanken und internationale Organisationen im Sinne der Artikel 117 und 118 der Verordnung (EU) Nr. 575/2013 oder den Europäischen Stabilitätsmechanismus,
   - g) :: öffentliche Stellen eines Mitgliedstaats der Europäischen Union oder eines anderen Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum,
   - h) :: öffentliche Stellen im Sinne des Artikels 4 Absatz 1 Nummer 8 der Verordnung (EU) Nr. 575/2013 der unter Buchstabe d genannten Staaten, sofern sie die in Buchstabe e aufgeführten Anforderungen erfüllen, oder
@@ -560,7 +560,7 @@ Arreste und Zwangsvollstreckungen in alle in ein Deckungsregister eingetragenen 
 (6) Die Bundesanstalt kann entsprechend § 46 des Kreditwesengesetzes eigene Maßnahmen in Bezug auf einzelne Deckungsmassen treffen. Im Falle der Zahlungsunfähigkeit oder Überschuldung einer Deckungsmasse findet über das Vermögen der Pfandbriefbank mit beschränkter Geschäftstätigkeit ein gesondertes Insolvenzverfahren statt; der Antrag auf Eröffnung des Insolvenzverfahrens kann nur von der Bundesanstalt gestellt werden. Absatz 4 ist entsprechend anzuwenden. Im Insolvenzverfahren über das übrige Vermögen der Pfandbriefbank können die Pfandbriefgläubiger ihre Forderungen nur in Höhe des Ausfalls geltend machen; im Übrigen gelten die Vorschriften für absonderungsberechtigte Gläubiger, insbesondere § 52 Satz 1, § 190 Abs. 1 und 2 sowie § 192 der Insolvenzordnung entsprechend. Werte im Sinne des Absatzes 3, die zur Insolvenzmasse der Pfandbriefbank gehören, berechtigen im Insolvenzverfahren über das Vermögen der Pfandbriefbank mit beschränkter Geschäftstätigkeit zur Aussonderung nach § 47 der Insolvenzordnung. Sowohl der Sachwalter als auch der Insolvenzverwalter in dem Insolvenzverfahren über das Vermögen der Pfandbriefbank mit beschränkter Geschäftstätigkeit sind berechtigt, die in Satz 4 genannten Forderungen der Pfandbriefgläubiger in dem Insolvenzverfahren über das Vermögen der Pfandbriefbank anzumelden. Das Recht der Pfandbriefgläubiger, die Anmeldung abzulehnen oder zurückzunehmen, bleibt unberührt.
 (6a) Im Insolvenzverfahren über das Vermögen der Pfandbriefbank mit beschränkter Geschäftstätigkeit soll das Insolvenzgericht auf Antrag der Bundesanstalt die Eigenverwaltung durch den Sachwalter anordnen, es sei denn, es ist nach den Umständen zu erwarten, dass die Anordnung zu Nachteilen für die Gläubiger führen wird. Falls eine solche von der Bundesanstalt beantragte Anordnung dem einstimmigen Beschluss eines vorläufigen Gläubigerausschusses, sofern ein solcher vorhanden ist, widerspricht, entscheidet das Gericht nach pflichtgemäßem Ermessen auf der Grundlage der von der Bundesanstalt, dem Sachwalter und dem vorläufigen Gläubigerausschuss mitgeteilten Tatsachen. Im Verfahren der Eigenverwaltung bleibt der Sachwalter im Sinne des Absatzes 2 (Eigenverwalter) für die schuldnerische Pfandbriefbank mit beschränkter Geschäftstätigkeit geschäftsführungs- und vertretungsbefugt, soweit die Vorschriften der Insolvenzordnung diese Befugnisse nicht beschränken. Die Stellung des Beirats nach § 31 Absatz 6a bleibt unberührt. Vor der Bestellung des Sachwalters im Sinne des § 270f Absatz 2 der Insolvenzordnung und des vorläufigen Sachwalters im Sinne des § 270b Absatz 1 Satz 1 der Insolvenzordnung ist die Bundesanstalt zu hören. Neben den gemäß § 270e Absatz 1 Nummer 4 bis 5 und § 272 Absatz 1 Nummer 3 bis 5 der Insolvenzordnung Antragsberechtigten ist auch die Bundesanstalt berechtigt, die Aufhebung der Anordnung der Eigenverwaltung oder der vorläufigen Eigenverwaltung zu beantragen. § 270c Absatz 5, die §§ 270d, 270f Absatz 1 und die §§ 276a, 278 Absatz 1 der Insolvenzordnung gelten nicht.
 (7) Gläubiger von Ansprüchen aus Derivategeschäften nach § 4 Abs. 3 stehen Pfandbriefgläubigern gleich.
-§ 30 Abs. 2 Satz 5 Kursivdruck: IdF d. Art. 4 Nr. 12 Buchst. b G v. 10.12.2014 I 2091 mWv 1.1.2015 (abweichend vom Bundesgesetzblatt wurde an Stelle des Wortes �fristgerechte“ das Wort �fristgerechten“ durch das Wort �vertragsgemäßen“ ersetzt)
+§ 30 Abs. 2 Satz 5 Kursivdruck: IdF d. Art. 4 Nr. 12 Buchst. b G v. 10.12.2014 I 2091 mWv 1.1.2015 (abweichend vom Bundesgesetzblatt wurde an Stelle des Wortes fristgerechte“ das Wort fristgerechten“ durch das Wort vertragsgemäßen“ ersetzt)
 
 § 31 - Ernennung des Sachwalters; Rechte und Pflichten
 

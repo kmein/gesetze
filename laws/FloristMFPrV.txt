@@ -16,7 +16,7 @@ Ausfertigungsdatum: 09.12.2019
 - 5. :: Übertragen von Aufgaben unter Berücksichtigung fachspezifischer, wirtschaftlicher und sozialer Aspekte auf die Mitarbeiter entsprechend ihrer Qualifikation, Leistungsfähigkeit und Eignung; Einarbeiten, Motivieren und Anleiten der Mitarbeiter; berufliche Aus- und Weiterbildung der Mitarbeiter; Zusammenarbeiten mit der Geschäftsführung und dem Betriebsrat;
 - 6. :: Durchführen der erforderlichen Maßnahmen des Arbeitsschutzes und der Unfallverhütung in Abstimmung mit den mit der Arbeitssicherheit befassten Stellen und Personen innerhalb und außerhalb des Betriebes; Erkennen der betriebsbedingten Umweltbelastungen und Beachten der Umweltschutzbestimmungen.
 
-(3) Die erfolgreich abgelegte Prüfung führt zu dem anerkannten Abschluss �Geprüfter Floristmeister“ oder �Geprüfte Floristmeisterin“.
+(3) Die erfolgreich abgelegte Prüfung führt zu dem anerkannten Abschluss Geprüfter Floristmeister“ oder Geprüfte Floristmeisterin“.
 
 § 2 - Zulassungsvoraussetzungen
 
@@ -52,7 +52,7 @@ Die Berufspraxis nach Satz 1 muss in Tätigkeiten erfolgt sein, die inhaltlich w
 - 7. :: Präsentation und Vermarktung (Werbung und Beratung),
 - 8. :: Fertigung und Kontrolle.
 
-(2) Im Handlungsbereich �Unternehmensführung“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, ein floristisches Unternehmen nach betriebswirtschaftlichen Handlungsprinzipien zu führen. Insbesondere soll sie die Grundsätze betrieblicher Aufbau- und Ablauforganisation beherrschen sowie die Entwicklungen des Marktes, sowohl lokal als auch global, erkennen, analysieren und darauf reagieren können. Sie soll die Instrumente des Controllings und des Qualitätsmanagements anwenden können sowie in der Lage sein, die für eine Unternehmensführung einschlägigen rechtlichen Rahmenbedingungen zu beachten. Es können insbesondere folgende Qualifikationsschwerpunkte geprüft werden:
+(2) Im Handlungsbereich Unternehmensführung“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, ein floristisches Unternehmen nach betriebswirtschaftlichen Handlungsprinzipien zu führen. Insbesondere soll sie die Grundsätze betrieblicher Aufbau- und Ablauforganisation beherrschen sowie die Entwicklungen des Marktes, sowohl lokal als auch global, erkennen, analysieren und darauf reagieren können. Sie soll die Instrumente des Controllings und des Qualitätsmanagements anwenden können sowie in der Lage sein, die für eine Unternehmensführung einschlägigen rechtlichen Rahmenbedingungen zu beachten. Es können insbesondere folgende Qualifikationsschwerpunkte geprüft werden:
 
 - 1. :: rechtliche, ökonomische und organisatorische Aspekte der Unternehmensformen verstehen und berücksichtigen,
 - 2. :: Grundsätze betrieblicher Aufbau- und Ablauforganisation anwenden,
@@ -60,14 +60,14 @@ Die Berufspraxis nach Satz 1 muss in Tätigkeiten erfolgt sein, die inhaltlich w
 - 4. :: rechtliche Rahmenbedingungen der Unternehmensführung kennen und beachten und
 - 5. :: Controllinginstrumente anwenden und Regeln des Qualitätsmanagements beachten.
 
-(3) Im Handlungsbereich �Interne und externe Kommunikation“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, inner- und außerbetriebliche Kommunikationsprozesse zu fördern und zu gestalten, kundenorientiert kommunikative Problemsituationen zu erkennen und angemessene Lösungsvorschläge zu unterbreiten sowie die Möglichkeiten zeitgemäßer Kommunikationstechniken und Datenverarbeitung zu nutzen. Es können insbesondere folgende Qualifikationsschwerpunkte geprüft werden:
+(3) Im Handlungsbereich Interne und externe Kommunikation“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, inner- und außerbetriebliche Kommunikationsprozesse zu fördern und zu gestalten, kundenorientiert kommunikative Problemsituationen zu erkennen und angemessene Lösungsvorschläge zu unterbreiten sowie die Möglichkeiten zeitgemäßer Kommunikationstechniken und Datenverarbeitung zu nutzen. Es können insbesondere folgende Qualifikationsschwerpunkte geprüft werden:
 
 - 1. :: Kommunikationsformen beherrschen,
 - 2. :: Individual- und Gruppenverhalten beurteilen und Teamarbeit fördern,
 - 3. :: Methoden der Konfliktvermeidung und der Konfliktlösung anwenden und
 - 4. :: Instrumente und Möglichkeiten der Kommunikationstechnologie nutzen.
 
-(4) Im Handlungsbereich �Mitarbeiterführung und Personalentwicklung“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, den Personalbedarf zu ermitteln und den Personaleinsatz den Anforderungen entsprechend sicherzustellen. Insbesondere soll sie Mitarbeiter durch die Anwendung geeigneter Methoden zielgerichtet zu eigenverantwortlichem Handeln führen können. Ferner soll sie in der Lage sein, auf der Basis einer quantitativen und qualitativen Personalplanung eine systematische Personalentwicklung durchzuführen. Es können insbesondere folgende Qualifikationsschwerpunkte geprüft werden:
+(4) Im Handlungsbereich Mitarbeiterführung und Personalentwicklung“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, den Personalbedarf zu ermitteln und den Personaleinsatz den Anforderungen entsprechend sicherzustellen. Insbesondere soll sie Mitarbeiter durch die Anwendung geeigneter Methoden zielgerichtet zu eigenverantwortlichem Handeln führen können. Ferner soll sie in der Lage sein, auf der Basis einer quantitativen und qualitativen Personalplanung eine systematische Personalentwicklung durchzuführen. Es können insbesondere folgende Qualifikationsschwerpunkte geprüft werden:
 
 - 1. :: quantitativen und qualitativen Personalbedarf bestimmen,
 - 2. :: Stellenbeschreibungen und Anforderungsprofile erstellen,
@@ -75,14 +75,14 @@ Die Berufspraxis nach Satz 1 muss in Tätigkeiten erfolgt sein, die inhaltlich w
 - 4. :: Mitarbeiter unter Berücksichtigung ihrer Eignung sowie der betrieblichen Anforderungen auswählen, einsetzen und motivieren und
 - 5. :: Maßnahmen der Personalentwicklung zur Qualifizierung und zielgerichteten Motivation unter Berücksichtigung des betrieblichen Bedarfs und der Mitarbeiterinteressen planen und veranlassen.
 
-(5) Im Handlungsbereich �Ausbildung“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, die nachfolgenden Qualifikationsschwerpunkte selbstständig zu planen, durchzuführen und zu kontrollieren und somit die berufs- und arbeitspädagogische Eignung zur Ausbildung in der Floristik besitzt. Es können folgende Handlungsfelder geprüft werden:
+(5) Im Handlungsbereich Ausbildung“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, die nachfolgenden Qualifikationsschwerpunkte selbstständig zu planen, durchzuführen und zu kontrollieren und somit die berufs- und arbeitspädagogische Eignung zur Ausbildung in der Floristik besitzt. Es können folgende Handlungsfelder geprüft werden:
 
 - 1. :: Ausbildungsvoraussetzungen prüfen und Ausbildung planen,
 - 2. :: Ausbildung vorbereiten und bei der Einstellung von Auszubildenden mitwirken,
 - 3. :: Ausbildung durchführen und
 - 4. :: Ausbildung abschließen.
 
-(6) Im Handlungsbereich �Planung, Organisation von Abläufen und Kalkulation“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, floristische Werkstücke und Dienstleistungen zu entwerfen sowie die betrieblichen Abläufe zu analysieren, zu planen, durchzuführen und zu kontrollieren. Sie soll das Personal- und Zeitmanagement beherrschen. Ferner soll sie die Arbeitsablaufplanung und die Disposition der Werkstoffe und Geräte durchführen und eine Kostenkalkulation erstellen können. Es können insbesondere folgende Qualifikationsschwerpunkte geprüft werden:
+(6) Im Handlungsbereich Planung, Organisation von Abläufen und Kalkulation“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, floristische Werkstücke und Dienstleistungen zu entwerfen sowie die betrieblichen Abläufe zu analysieren, zu planen, durchzuführen und zu kontrollieren. Sie soll das Personal- und Zeitmanagement beherrschen. Ferner soll sie die Arbeitsablaufplanung und die Disposition der Werkstoffe und Geräte durchführen und eine Kostenkalkulation erstellen können. Es können insbesondere folgende Qualifikationsschwerpunkte geprüft werden:
 
 - 1. :: Gestalterische Konzepte für floristische Werkstücke und Dienstleistungen entwickeln und erläutern,
 - 2. :: Betriebs- und Arbeitsplatzorganisation durchführen,
@@ -90,7 +90,7 @@ Die Berufspraxis nach Satz 1 muss in Tätigkeiten erfolgt sein, die inhaltlich w
 - 4. :: Kostenkalkulation und Preisbildung durchführen und
 - 5. :: Arbeitssicherheit sowie Gesundheits- und Umweltschutz berücksichtigen und gewährleisten.
 
-(7) Im Handlungsbereich �Beschaffung und Pflege“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, Bezugsquellen für pflanzliche und nichtpflanzliche Werkstoffe, Geräte und Dienstleistungen zu erschließen sowie die benötigten Güter in entsprechender Qualität und Quantität preisgünstig zu beschaffen. Ferner soll sie die sachgerechte Versorgung, Pflege und Lagerung der pflanzlichen und nichtpflanzlichen Werkstoffe beherrschen. Es können insbesondere folgende Qualifikationsschwerpunkte geprüft werden:
+(7) Im Handlungsbereich Beschaffung und Pflege“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, Bezugsquellen für pflanzliche und nichtpflanzliche Werkstoffe, Geräte und Dienstleistungen zu erschließen sowie die benötigten Güter in entsprechender Qualität und Quantität preisgünstig zu beschaffen. Ferner soll sie die sachgerechte Versorgung, Pflege und Lagerung der pflanzlichen und nichtpflanzlichen Werkstoffe beherrschen. Es können insbesondere folgende Qualifikationsschwerpunkte geprüft werden:
 
 - 1. :: Bezugsquellen erschließen, vergleichen und nutzen,
 - 2. :: Angebote von pflanzlichen und nichtpflanzlichen Werkstoffen beurteilen,
@@ -98,14 +98,14 @@ Die Berufspraxis nach Satz 1 muss in Tätigkeiten erfolgt sein, die inhaltlich w
 - 4. :: nichtpflanzliche Werkstoffe sachgerecht lagern und
 - 5. :: Umweltschutz beachten und Energie sparsam verwenden.
 
-(8) Im Handlungsbereich �Präsentation und Vermarktung (Werbung und Beratung)“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, Strategien der Vermarktung sowie die Präsentation von Waren und Dienstleistungen zu entwickeln und umzusetzen. Ferner soll sie Kunden zielgerichtet und sachgerecht beraten können. Es können insbesondere folgende Qualifikationsschwerpunkte geprüft werden:
+(8) Im Handlungsbereich Präsentation und Vermarktung (Werbung und Beratung)“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, Strategien der Vermarktung sowie die Präsentation von Waren und Dienstleistungen zu entwickeln und umzusetzen. Ferner soll sie Kunden zielgerichtet und sachgerecht beraten können. Es können insbesondere folgende Qualifikationsschwerpunkte geprüft werden:
 
 - 1. :: Marketingkonzepte und verkaufsfördernde Maßnahmen entwickeln, beurteilen und vorstellen,
 - 2. :: Angebote erstellen und Entwürfe zeichnerisch darstellen,
 - 3. :: Präsentationstechniken beherrschen und
 - 4. :: Beratungsgespräche führen.
 
-(9) Im Handlungsbereich �Fertigung und Kontrolle“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, auf der Grundlage eines floristischen Konzeptes Werkstücke unter Berücksichtigung einer ökonomischen und ökologischen Vorgehensweise zu fertigen und zu kontrollieren. Es können insbesondere folgende Qualifikationsschwerpunkte geprüft werden:
+(9) Im Handlungsbereich Fertigung und Kontrolle“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, auf der Grundlage eines floristischen Konzeptes Werkstücke unter Berücksichtigung einer ökonomischen und ökologischen Vorgehensweise zu fertigen und zu kontrollieren. Es können insbesondere folgende Qualifikationsschwerpunkte geprüft werden:
 
 - 1. :: themen-, raum- und anlassbezogene floristische Werkstücke fertigen,
 - 2. :: Werkstücke in ihrer Gestaltung erläutern und beurteilen und
@@ -150,8 +150,8 @@ Dabei sind Fragestellungen aus folgenden Handlungsbereichen einzubeziehen:
 - 3. :: Mitarbeiterführung und Personalentwicklung.
 
 (4) Die beiden Situationsaufgaben nach den Absätzen 2 und 3 sind schriftlich unter Aufsicht zu bearbeiten. Der zu prüfenden Person stehen jeweils mindestens vier Stunden, insgesamt höchstens zehn Stunden zur Verfügung. Eine der beiden Situationsaufgaben ist nach Maßgabe des Prüfungsausschusses in ein floristisches Werkstück umzusetzen. Die Bewertung der praktischen Umsetzung geht in die Gesamtbewertung der jeweiligen Aufgabe ein.
-(5) Eine weitere Situationsaufgabe beinhaltet schwerpunktmä�Fertigung und Kontrolle“. Die Konzeption dazu ist unter Einbeziehung aller übrigen Handlungsbereiche mit Ausnahme dem der Ausbildung schriftlich auszuarbeiten. Die Bearbeitungszeit beträgt 14 Tage. Die zu prüfende Person präsentiert die Konzeption und erläutert die geplante Vorgehensweise in einem Fachgespräch. Der Prüfungsausschuss kann weitergehende Fragestellungen, die sich auf die Situationsaufgabe beziehen, anschließen. Das Fachgespräch soll je zu prüfender Person wenigstens 15 Minuten und nicht länger als 30 Minuten dauern. Die praktische Umsetzung dieser Situationsaufgabe erfolgt ebenfalls unter Aufsicht und soll mindestens vier Stunden betragen. Insgesamt soll die praktische Umsetzung der Situationsaufgaben nach den Absätzen 4 und 5 nicht länger als acht Stunden dauern. Der Prüfungsausschuss legt die jeweilige Fertigungszeit fest. Die Bewertung der praktischen Umsetzung geht in das Prüfungsergebnis der Konzeption ein.
-(6) Der Nachweis der berufs- und arbeitspädagogischen Eignung erfolgt in einer Prüfung des Handlungsbereichs �Ausbildung“, die sich in ihrer Ausgestaltung an floristischen Tätigkeiten orientiert. Im schriftlichen Teil soll die zu prüfende Person in höchstens drei Stunden aus mehreren Qualifikationsschwerpunkten dieses Handlungsbereichs fallbezogene Aufgaben unter Aufsicht bearbeiten. Der praktische Teil der Prüfung besteht aus der Präsentation oder praktischen Durchführung einer Ausbildungseinheit und einem Prüfungsgespräch. Der Prüfungsteilnehmer wählt dazu eine Ausbildungseinheit aus. Die Auswahl und Gestaltung der Ausbildungseinheit hat die zu prüfende Person in einem Prüfungsgespräch zu begründen. Die Prüfung im praktischen Teil soll höchstens 30 Minuten dauern. Wurde die Prüfung im Handlungsbereich �Ausbildung“ bestanden, ist der zu prüfenden Person ein Zeugnis nach § 5 der Ausbilder-Eignungsverordnung auszustellen.
+(5) Eine weitere Situationsaufgabe beinhaltet schwerpunktmäFertigung und Kontrolle“. Die Konzeption dazu ist unter Einbeziehung aller übrigen Handlungsbereiche mit Ausnahme dem der Ausbildung schriftlich auszuarbeiten. Die Bearbeitungszeit beträgt 14 Tage. Die zu prüfende Person präsentiert die Konzeption und erläutert die geplante Vorgehensweise in einem Fachgespräch. Der Prüfungsausschuss kann weitergehende Fragestellungen, die sich auf die Situationsaufgabe beziehen, anschließen. Das Fachgespräch soll je zu prüfender Person wenigstens 15 Minuten und nicht länger als 30 Minuten dauern. Die praktische Umsetzung dieser Situationsaufgabe erfolgt ebenfalls unter Aufsicht und soll mindestens vier Stunden betragen. Insgesamt soll die praktische Umsetzung der Situationsaufgaben nach den Absätzen 4 und 5 nicht länger als acht Stunden dauern. Der Prüfungsausschuss legt die jeweilige Fertigungszeit fest. Die Bewertung der praktischen Umsetzung geht in das Prüfungsergebnis der Konzeption ein.
+(6) Der Nachweis der berufs- und arbeitspädagogischen Eignung erfolgt in einer Prüfung des Handlungsbereichs Ausbildung“, die sich in ihrer Ausgestaltung an floristischen Tätigkeiten orientiert. Im schriftlichen Teil soll die zu prüfende Person in höchstens drei Stunden aus mehreren Qualifikationsschwerpunkten dieses Handlungsbereichs fallbezogene Aufgaben unter Aufsicht bearbeiten. Der praktische Teil der Prüfung besteht aus der Präsentation oder praktischen Durchführung einer Ausbildungseinheit und einem Prüfungsgespräch. Der Prüfungsteilnehmer wählt dazu eine Ausbildungseinheit aus. Die Auswahl und Gestaltung der Ausbildungseinheit hat die zu prüfende Person in einem Prüfungsgespräch zu begründen. Die Prüfung im praktischen Teil soll höchstens 30 Minuten dauern. Wurde die Prüfung im Handlungsbereich Ausbildung“ bestanden, ist der zu prüfenden Person ein Zeugnis nach § 5 der Ausbilder-Eignungsverordnung auszustellen.
 (+++ § 6 Abs. 6: Zur Nichtanwendung vgl. § 7 Satz 4 +++)
 
 § 7 - Befreiung von einzelnen Prüfungsbestandteilen

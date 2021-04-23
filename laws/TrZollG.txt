@@ -66,7 +66,7 @@ zu ihrem ausschließlichen Gebrauch oder Verbrauch aus einem Drittland einführe
 - 3. :: schriftlich mit dem Formblatt 302 oder durch die tatsächliche Einfuhr und die Ausfertigung des Formblatts 302, wenn die ausländischen Streitkräfte oder Hauptquartiere ihre Nichtgemeinschaftswaren selbst über einen Militärflug- oder -seehafen im Geltungsbereich dieses Gesetzes aus einem Drittland einführen;
 - 4. :: schriftlich mit Abwicklungsschein durch den Inhaber der Bewilligung des Zollverfahrens mit wirtschaftlicher Bedeutung, wenn ausländische Streitkräfte, deren Entsendestaat Vertragspartei des Zusatzabkommens ist, oder Hauptquartiere Nichtgemeinschaftswaren aus Zollverfahren mit wirtschaftlicher Bedeutung beziehen; im Fall von ausländischen Streitkräften, deren Entsendestaat nicht Vertragspartei des Zusatzabkommens ist, erfolgt die Anmeldung zur Lieferung aus dem Zolllager jedoch schriftlich mit dem Formblatt 302;
 - 5. :: schriftlich mit der Einfuhr-/Erwerbsgenehmigung, wenn Mitglieder der ausländischen Streitkräfte oder der Hauptquartiere Nichtgemeinschaftswaren, die in Absatz 3 genannt sind, aus einem Drittland einführen oder aus Nichterhebungsverfahren oder Freizonen beziehen;
-- 6. :: schriftlich mit Einfuhr-/Erwerbsgenehmigung, mündlich oder durch das Verlassen des Flugzeugs bei der Einreise über einen Militärflugplatz ohne Zollstelle oder durch das Passieren einer Zollstelle ohne Abgabe einer anderen Zollanmeldung oder durch die Benutzung eines grünen Ausgangs �anmeldefreie Waren“, wenn Mitglieder der ausländischen Streitkräfte oder der Hauptquartiere andere als die in Absatz 3 genannten Nichtgemeinschaftswaren aus einem Drittland einführen oder aus Nichterhebungsverfahren oder Freizonen beziehen;
+- 6. :: schriftlich mit Einfuhr-/Erwerbsgenehmigung, mündlich oder durch das Verlassen des Flugzeugs bei der Einreise über einen Militärflugplatz ohne Zollstelle oder durch das Passieren einer Zollstelle ohne Abgabe einer anderen Zollanmeldung oder durch die Benutzung eines grünen Ausgangs anmeldefreie Waren“, wenn Mitglieder der ausländischen Streitkräfte oder der Hauptquartiere andere als die in Absatz 3 genannten Nichtgemeinschaftswaren aus einem Drittland einführen oder aus Nichterhebungsverfahren oder Freizonen beziehen;
 - 7. :: schriftlich mit Einfuhr-/Erwerbsgenehmigung oder durch das Entgegennehmen der Militärpostsendung, wenn Mitglieder der ausländischen Streitkräfte oder der Hauptquartiere Nichtgemeinschaftswaren zum Eigenbedarf im Militärpostverkehr aus einem Drittland einführen;
 - 8. :: schriftlich mit Einheitspapier, wenn nichtberechtigte Personen nach § 3 Abs. 2 Waren in anderen als den in Nummer 2 genannten Fällen aus einem Drittland einführen.
 
@@ -107,11 +107,11 @@ andere Tabakerzeugnisse
 3.
 Kaffee
 500 Gramm oder
-�
+
 a)
 Kaffee-Extrakte
 125 Gramm oder
-�
+
 b)
 gemischte Kaffee- Extrakte
 250 Gramm,
@@ -238,20 +238,20 @@ Whisky und Gin
 6 Liter je Person und Monat,
 5.
 Kraftstoff
-�
-�
+
+
 a)
 für Kraftfahrzeuge mit einer Motorleistung von mindestens 44 kW
 400 Liter je Fahrzeug und Monat,
-�
+
 b)
 für andere Kraftfahrzeuge
 200 Liter je Fahrzeug und Monat,
-�
+
 c)
 für Motorräder, Motorfahrräder und Motorroller
 80 Liter je Fahrzeug und Monat,
-�
+
 d)
 für Flugzeuge
 1 600 Liter je Flugzeug und Monat.
@@ -271,20 +271,20 @@ Whisky und Gin
 8,5 Liter je Person und Monat,
 5.
 Kraftstoff
-�
-�
+
+
 a)
 für Kraftfahrzeuge mit einer Motorleistung von mindestens 44 kW
 600 Liter je Fahrzeug und Monat,
-�
+
 b)
 für andere Kraftfahrzeuge
 300 Liter je Fahrzeug und Monat,
-�
+
 c)
 für Motorräder, Motorfahrräder und Motorroller
 120 Liter je Fahrzeug und Monat,
-�
+
 d)
 für Flugzeuge
 2 400 Liter je Flugzeug und Monat.

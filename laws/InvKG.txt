@@ -80,7 +80,7 @@ Fördergebiete sind das Lausitzer Revier, das Rheinische Revier und das Mittelde
 - 2. :: Förderperiode 2 von 2027 bis einschließlich 2032, in der Finanzhilfen in Höhe von bis zu 4,5 Milliarden Euro gewährt werden und
 - 3. :: Förderperiode 3 von 2033 bis einschließlich 2038, in der Finanzhilfen in Höhe von bis zu 4 Milliarden Euro gewährt werden.
 
-(2) In der Förderperiode 1 können Investitionen gefördert werden, wenn sie nach dem 1. Januar 2020 begonnen werden. Vor dem 1. Januar 2020 begonnene Investitionen, aber noch nicht abgeschlossene Ma�Verstärkung von Zuschüssen für Maßnahmen regionaler Strukturpolitik/Strukturwandel Kohlepolitik“ gefördert wurden.
+(2) In der Förderperiode 1 können Investitionen gefördert werden, wenn sie nach dem 1. Januar 2020 begonnen werden. Vor dem 1. Januar 2020 begonnene Investitionen, aber noch nicht abgeschlossene MaVerstärkung von Zuschüssen für Maßnahmen regionaler Strukturpolitik/Strukturwandel Kohlepolitik“ gefördert wurden.
 (3) Im Jahr 2038 können Finanzhilfen nur für Investitionsvorhaben oder selbstständige Abschnitte von Investitionsvorhaben eingesetzt werden, die bis zum 31. Dezember 2040 vollständig abgenommen wurden und bis 31. Dezember 2041 vollständig abgerechnet werden.
 (4) Förderfähig sind auch Investitionsvorhaben, bei denen sich die öffentliche Verwaltung zur Erledigung der von ihr wahrzunehmenden Aufgaben über den Lebenszyklus des Vorhabens eines Privaten im Rahmen einer vertraglichen Zusammenarbeit bedient. Dabei kann sie dem privaten Vertragspartner für den investiven Kostenanteil des Vorhabens eine einmalige Vorabfinanzierung gewähren als Öffentlich-Private Partnerschaft (Vorabfinanzierungs-ÖPP). Fördermittel für derartige Vorabfinanzierungs-ÖPP können bis zum 31. Dezember 2038 beantragt werden, wenn bis zum 31. Dezember 2042 die Abnahme und Abrechnung des Investitionsvorhabens erfolgt.
 (5) Die Finanzhilfen der Förderperioden 2 und 3 werden nur gewährt, wenn die Überprüfung des Bundesministeriums für Wirtschaft und Energie nach § 49 des Kohleverstromungsbeendigungsgesetzes ergibt, dass in der jeweils vorausgehenden Förderperiode in den Revieren nach § 2 Stilllegungen von Braunkohleanlagen in dem nach § 4 des Kohleverstromungsbeendigungsgesetzes in Verbindung mit Teil 5 des Kohleverstromungsbeendigungsgesetzes vorgesehenen Umfang erfolgt oder rechtsverbindlich vereinbart worden sind.
@@ -159,8 +159,8 @@ Der Bund fördert zweckgebunden Wissenschaft, Forschung, Lehre und Bildung in de
 
 § 16 - Maßnahmen zur Unterstützung der Energiewende und des Klimaschutzes
 
-(1) Zur Unterstützung der Wärmewende, insbesondere in der leitungsgebundenen Wärmeversorgung, wird in einem der Fördergebiete nach § 2 ein �Kompetenzzentrum Wärmewende“ eingerichtet. Das Kompetenzzentrum unterstützt als zentrale Anlaufstelle Gemeinden, Gemeindeverbände und Unternehmen bei der Erstellung von kommunalen Wärmeplänen sowie bei Planung, Neubau und Transformation von Wärmenetzen.
-(2) Die Forschungsinitiative �Reallabore der Energiewende“ wird um ein Sonderelement zum Strukturwandel aufgestockt. Mit dem Fokus auf Energieinnovationen in den Fördergebieten nach § 2 werden zusätzliche Mittel bereitgestellt, um vorhandene energietechnische Kompetenzen und Infrastrukturen zukunftssicher weiterzuentwickeln, das Innovationspotenzial der Regionen gezielt zu stärken und zukunftsfähige energietechnologische Wertschöpfung zu generieren.
+(1) Zur Unterstützung der Wärmewende, insbesondere in der leitungsgebundenen Wärmeversorgung, wird in einem der Fördergebiete nach § 2 ein Kompetenzzentrum Wärmewende“ eingerichtet. Das Kompetenzzentrum unterstützt als zentrale Anlaufstelle Gemeinden, Gemeindeverbände und Unternehmen bei der Erstellung von kommunalen Wärmeplänen sowie bei Planung, Neubau und Transformation von Wärmenetzen.
+(2) Die Forschungsinitiative Reallabore der Energiewende“ wird um ein Sonderelement zum Strukturwandel aufgestockt. Mit dem Fokus auf Energieinnovationen in den Fördergebieten nach § 2 werden zusätzliche Mittel bereitgestellt, um vorhandene energietechnische Kompetenzen und Infrastrukturen zukunftssicher weiterzuentwickeln, das Innovationspotenzial der Regionen gezielt zu stärken und zukunftsfähige energietechnologische Wertschöpfung zu generieren.
 (3) Zur Weiterentwicklung der Fördergebiete nach § 2 hin zu zukunftsorientierten Energieregionen werden im Jahr 2020 zusätzliche Einrichtungen des Deutschen Zentrums für Luft- und Raumfahrt eingerichtet:
 
 - 1. :: ein Institut zur Erforschung alternativer, insbesondere solarer Brennstoffe in Jülich für das Rheinische Revier,
@@ -173,33 +173,33 @@ Der Bund fördert zweckgebunden Wissenschaft, Forschung, Lehre und Bildung in de
 Der Bund wird unter Einhaltung des europäischen Beihilfenrechts und vorrangig zur Stärkung des wirtschaftlichen Wachstums und zur Schaffung von Arbeitsplätzen in den Gebieten nach § 2 insbesondere folgende Programme, Initiativen und Einrichtungen einrichten, ausweiten oder aufstocken:
 
 - 1. :: Auflage eines Förderprogramms der Beauftragten der Bundesregierung für Kultur und Medien zum Erhalt und zur Umgestaltung herausragender Industriegebäude und -anlagen zu lebendigen Kulturdenkmälern,
-- 2. :: Erweiterung des Programms mFUND um ein Programmmodul �Digitalisierung und datenbasierte Innovationen für Mobilität 4.0 und Daseinsvorsorge in den Braunkohlerevieren“,
+- 2. :: Erweiterung des Programms mFUND um ein Programmmodul Digitalisierung und datenbasierte Innovationen für Mobilität 4.0 und Daseinsvorsorge in den Braunkohlerevieren“,
 - 3. :: Aufstockung bestehender Förderprogramme des Bundesministeriums für Verkehr und digitale Infrastruktur im Bereich alternativer Antriebe und Kraftstoffe oder Elektromobilität sowohl für die Straße als auch die Schiene,
-- 4. :: Fortführung und Weiterentwicklung des Programms �Unternehmen Revier“ zur Förderung von Maßnahmen zur Strukturanpassung in Braunkohleregionen,
-- 5. :: Ausfinanzierung, Aufstockung und Verstetigung des Förderprogramms �Kommunale Modellvorhaben zur Umsetzung der ökologischen Nachhaltigkeitsziele in Strukturwandelregionen“,
+- 4. :: Fortführung und Weiterentwicklung des Programms Unternehmen Revier“ zur Förderung von Maßnahmen zur Strukturanpassung in Braunkohleregionen,
+- 5. :: Ausfinanzierung, Aufstockung und Verstetigung des Förderprogramms Kommunale Modellvorhaben zur Umsetzung der ökologischen Nachhaltigkeitsziele in Strukturwandelregionen“,
 - 6. :: Verstärkung investiver Maßnahmen im Klimaschutz auf kommunaler Ebene im Rahmen der Nationalen Klimaschutzinitiative,
-- 7. :: Aufstockung des Programms �WIR! -- Wandel durch Innovation in der Region“,
-- 8. :: Aufbau von regionalen Kompetenzzentren der Arbeitsforschung im Rahmen der Programmlinie �Zukunft der Arbeit“ des Programms �Innovationen für die Produktion, Dienstleistung und Arbeit von morgen“,
-- 9. :: Einrichtung eines neuen Programms für die Kommunen zur Weiterentwicklung der kommunalen Bildungslandschaft im Rahmen des Strukturförderprogramms �Transferinitiative Kommunales Bildungsmanagement“,
+- 7. :: Aufstockung des Programms WIR! -- Wandel durch Innovation in der Region“,
+- 8. :: Aufbau von regionalen Kompetenzzentren der Arbeitsforschung im Rahmen der Programmlinie Zukunft der Arbeit“ des Programms Innovationen für die Produktion, Dienstleistung und Arbeit von morgen“,
+- 9. :: Einrichtung eines neuen Programms für die Kommunen zur Weiterentwicklung der kommunalen Bildungslandschaft im Rahmen des Strukturförderprogramms Transferinitiative Kommunales Bildungsmanagement“,
 - 10. :: Einrichtung eines Modellvorhabens zur proaktiven Unternehmensberatung, mit der die Unternehmen ihr Wachstumspotenzial besser ausschöpfen können,
-- 11. :: Ausbau der Unterstützungsleistungen der Au�Germany Trade and Invest -- Gesellschaft für Außenwirtschaft und Standortmarketing mbH“ zur Anwerbung von Investitionen aus dem Ausland und zur Vermarktung von Standortvorteilen im Ausland,
-- 12. :: Erweiterung der Infrastrukturma�Modellregion Bioökonomie“ im Rheinischen Revier,
+- 11. :: Ausbau der Unterstützungsleistungen der AuGermany Trade and Invest -- Gesellschaft für Außenwirtschaft und Standortmarketing mbH“ zur Anwerbung von Investitionen aus dem Ausland und zur Vermarktung von Standortvorteilen im Ausland,
+- 12. :: Erweiterung der InfrastrukturmaModellregion Bioökonomie“ im Rheinischen Revier,
 - 13. :: verstärkte Investitionen in die kulturelle Infrastruktur und Förderung von Kultureinrichtungen und -projekten mit gesamtstaatlich-repräsentativer Bedeutung,
 - 14. :: Einrichtung eines wissenschaftlichen Monitoringzentrums für Biodiversität,
 - 15. :: weiterer Aufbau und Verstetigung des Betriebs des Kompetenzzentrums Klimaschutz in energieintensiven Industrien mit Sitz in Cottbus zur Umsetzung des Förderprogramms zur Dekarbonisierung in der Industrie, Aufwuchs der Mittel für das Förderprogramm zur Dekarbonisierung in der Industrie,
 - 16. :: Einrichtung eines Umwelt- und Naturschutzdatenzentrums Deutschland zum Aufbau und Betrieb eines nutzer- und anwenderorientierten fach- und behördenübergreifenden nationalen Online-Informations- und Partizipationsangebotes im Mitteldeutschen Revier,
 - 17. :: Realisierung eines Forschungs- und Demonstrationsfeldes für innovative Wasser- und Abwassertechnik an einem Klärwerkstandort im Lausitzer Revier,
-- 18. :: Ansiedlung eines �Center for Advanced System Understanding“ im Freistaat Sachsen,
+- 18. :: Ansiedlung eines Center for Advanced System Understanding“ im Freistaat Sachsen,
 - 19. :: Aufbau eines Fraunhofer-Instituts für Geothermie und Energieinfrastrukturen,
 - 20. :: Aufbau eines Fraunhofer-Zentrums für Digitale Energie im Rheinischen Revier,
 - 21. :: Ausbau des Ernst-Ruska-Centrums für Mikroskopie und Spektroskopie mit Elektronen am Forschungszentrum Jülich,
-- 22. :: weitere Förderung des Innovationscampus �Elektronik und Mikrosensorik Cottbus“ an der Brandenburgischen Technischen Universität Cottbus-Senftenberg,
-- 23. :: Forschungsvorhaben �Inkubator nachhaltige erneuerbare Wertschöpfungsketten“ im Rheinischen Revier,
-- 24. :: weitere Förderung des Forschungsvorhabens �Neuro-inspirierte Technologien der künstlichen Intelligenz für die Elektronik der Zukunft“ (NEUROTEC) im Rheinischen Revier,
+- 22. :: weitere Förderung des Innovationscampus Elektronik und Mikrosensorik Cottbus“ an der Brandenburgischen Technischen Universität Cottbus-Senftenberg,
+- 23. :: Forschungsvorhaben Inkubator nachhaltige erneuerbare Wertschöpfungsketten“ im Rheinischen Revier,
+- 24. :: weitere Förderung des Forschungsvorhabens Neuro-inspirierte Technologien der künstlichen Intelligenz für die Elektronik der Zukunft“ (NEUROTEC) im Rheinischen Revier,
 - 25. :: Ausbau der Förderung von existierenden Projekten und Standorten des Spitzensports in den Fördergebieten nach § 2,
 - 26. :: Einrichtung eines Kompetenzzentrums für die nachhaltige Erzeugung und Nutzung von Power-to-X inklusive einer Demonstrationsanlage in der Lausitz,
 - 27. :: Einrichtung eines Entwicklungs- und Testzentrums für klimafreundliche elektrische Nutzfahrzeuge,
-- 28. :: ein Innovationszentrum Universitätsmedizin Cottbus (IUC) soll als Kern der Modellregion Gesundheit Lausitz aufgebaut werden. Forschung, Lehre und Versorgung sollen in neuartiger Weise unter der Nutzung der Digitalisierung verknüpft und in einem �Reallabor“ für digitale Gesundheitsversorgung umgesetzt werden. Zugleich sollen die Medizinerausbildung neu strukturiert und die Gesundheitsversorgung �aus einem Guss“ neu gedacht werden,
+- 28. :: ein Innovationszentrum Universitätsmedizin Cottbus (IUC) soll als Kern der Modellregion Gesundheit Lausitz aufgebaut werden. Forschung, Lehre und Versorgung sollen in neuartiger Weise unter der Nutzung der Digitalisierung verknüpft und in einem Reallabor“ für digitale Gesundheitsversorgung umgesetzt werden. Zugleich sollen die Medizinerausbildung neu strukturiert und die Gesundheitsversorgung aus einem Guss“ neu gedacht werden,
 - 29. :: Gründung je eines neuen institutionell geförderten Großforschungszentrums nach Helmholtz- oder vergleichbaren Bedingungen in der sächsischen Lausitz und im mitteldeutschen Revier auf Grundlage eines Wettbewerbsverfahrens,
 - 30. :: Aufbau eines Helmholtz-Clusters für nachhaltige und infrastrukturkompatible Wasserstoffwirtschaft am Forschungszentrum Jülich einschließlich Aufbau von Forschungsverwertungsketten,
 - 31. :: Maßnahmen zur Förderung der Bewahrung und Fortentwicklung der Sprache, Kultur und Traditionen des sorbischen Volkes als nationaler Minderheit,
@@ -275,7 +275,7 @@ Strukturentwicklung in der Lausitz
 Das Lausitzer Revier ist seit Jahrzehnten Energieregion im Herzen Europas und ein Garant für Versorgungssicherheit in Deutschland. Es ist geprägt durch seine geografische Lage in Nachbarschaft zu Polen und Tschechien. Angesichts des bundespolitisch geplanten Ausstiegs aus der Braunkohleverstromung und der fortschreitenden Transformation des deutschen Energiesystems gilt es, es für den zunehmend globalen Wettbewerb der Regionen mit Bundesmitteln zukunftsfähig aufzustellen und zu einer lebenswerten und innovativen Wirtschaftsregion weiterzuentwickeln. Besondere Bedeutung kommt dabei der zügigen, raumwirksamen Vernetzung des gesamten Reviers mit den Metropolen Berlin, Leipzig und Dresden sowie den regionsinternen Zentren zu. An bestehende Kompetenzen anknüpfend sollen vorhandene Standorte in ihrer Entwicklung gefördert oder innovativ revitalisiert werden, um die volkswirtschaftliche Leistungsfähigkeit des Lausitzer Reviers insgesamt nachhaltig zu sichern.
 Europäische Modellregion für den Strukturwandel
 Proaktiv die Zukunft gestalten
-Eine grundständige Anzahl hochwertiger Industrie- und Dienstleistungsarbeitsplätze in Wissenschaft und Forschung, bei bestehenden und neuen Unternehmen sowie durch die Ansiedlung von Behörden soll das Revier in seiner Wertschöpfung stärken. Voraussetzung ist eine zügige, raumwirksame Vernetzung des gesamten Reviers mit den Metropolen Berlin, Leipzig und Dresden sowie eine rasche Erreichbarkeit innerhalb des Reviers. Die Lausitz soll als eine �Europäische Modellregion“ beispielgebend für einen gelungenen Strukturwandel sein.
+Eine grundständige Anzahl hochwertiger Industrie- und Dienstleistungsarbeitsplätze in Wissenschaft und Forschung, bei bestehenden und neuen Unternehmen sowie durch die Ansiedlung von Behörden soll das Revier in seiner Wertschöpfung stärken. Voraussetzung ist eine zügige, raumwirksame Vernetzung des gesamten Reviers mit den Metropolen Berlin, Leipzig und Dresden sowie eine rasche Erreichbarkeit innerhalb des Reviers. Die Lausitz soll als eine Europäische Modellregion“ beispielgebend für einen gelungenen Strukturwandel sein.
 Zentraler, europäischer Verflechtungsraum
 Neue Verbindungen im Herzen Europas schaffen
 Die zentrale innereuropäische Lage und die Mehrsprachigkeit der Region zwischen den Metropolen Dresden, Leipzig, Berlin, Wrocław/Breslau, Poznań/Posen und Praha/Prag verleiht ihr ein Alleinstellungsmerkmal. Die Grenzlage birgt Risiken und Nachteile, die es zu kompensieren gilt, und Chancen, die es zu nutzen gilt. Der Verbesserung der infrastrukturellen Anbindung an die umliegenden Metropolräume wird hohe Priorität eingeräumt. Über die Verbindungsachsen Dresden -- Görlitz -- Breslau sowie Berlin -- Cottbus -- Weißwasser -- Görlitz soll eine Anknüpfung an übergeordnete europäische Verbindungskorridore geschaffen werden.
@@ -285,7 +285,7 @@ Die Energiewirtschaft stellt die industrielle Basis der Region dar. Diese hat ih
 Zusätzlich soll sich die Lausitz als fortschrittlicher Standort für zukunftsweisende Antriebssysteme, innovative Verkehrskonzepte, moderne Produktionsverfahren (zum Beispiel additive Fertigung) sowie im Bereich der Kreislaufwirtschaft (unter anderem durch die Entwicklung biobasierter Kunststoffe) etablieren. Der engen Verzahnung von Wirtschaft und Wissenschaft kommt hierbei besondere Bedeutung zu. Grundlage für die Steigerung der Innovations- und Wettbewerbsfähigkeit der Region sind die Sicherung und Anziehung von hoch qualifizierten Fachkräften, der Ausbau tragender Infrastrukturen (Verkehr, Wissenschaft, digitale Netze, Daseinsvorsorge), die Bereitstellung von geeigneten Entwicklungsflächen sowie die Etablierung als Testregion und Reallabor für innovative Verkehrskonzepte (autonomes und vernetztes Fahren, Drohnen, E-Flugzeuge, E-Taxis und so weiter).
 Moderne und nachhaltige Energieregion
 Den umfangreichen Erfahrungsschatz für künftige Energiesysteme nutzen
-Die Lausitz soll auch nach dem Ausstieg aus der Kohleverstromung Energieregion bleiben. Aufbauend auf der vorhandenen Fachkompetenz und bestehenden Strukturen in den Bereichen Energieerzeugung und -technik wird die Lausitz das Energiesystem umbauen und auch künftig einen wichtigen Beitrag zur Sicherung der Energieversorgung Deutschlands leisten. In enger Zusammenarbeit von Wissenschaft, Forschung und zahlreichen in der Energiebranche beheimateten Unternehmen soll die Region zum Vorreiter werden. Ein zentraler Baustein für die Lausitz auf dem Weg zur weitgehenden Dekarbonisierung der Energieerzeugung wird die Sektorkopplung, also die Nutzung von erneuerbarem Strom mittels Power-to-X-Technologie zur Herstellung von Wärme, Verkehrsleistungen, E-Fuels oder der Produktion von regenerativ erzeugtem �grünem“ Gas (Wasserstoff) sein sowie weitere nachsorgefreie Energiesysteme. Die Power-to-X-Anlagen sollen in der Lausitz auch in industriellem Maßstab produziert werden.
+Die Lausitz soll auch nach dem Ausstieg aus der Kohleverstromung Energieregion bleiben. Aufbauend auf der vorhandenen Fachkompetenz und bestehenden Strukturen in den Bereichen Energieerzeugung und -technik wird die Lausitz das Energiesystem umbauen und auch künftig einen wichtigen Beitrag zur Sicherung der Energieversorgung Deutschlands leisten. In enger Zusammenarbeit von Wissenschaft, Forschung und zahlreichen in der Energiebranche beheimateten Unternehmen soll die Region zum Vorreiter werden. Ein zentraler Baustein für die Lausitz auf dem Weg zur weitgehenden Dekarbonisierung der Energieerzeugung wird die Sektorkopplung, also die Nutzung von erneuerbarem Strom mittels Power-to-X-Technologie zur Herstellung von Wärme, Verkehrsleistungen, E-Fuels oder der Produktion von regenerativ erzeugtem grünem“ Gas (Wasserstoff) sein sowie weitere nachsorgefreie Energiesysteme. Die Power-to-X-Anlagen sollen in der Lausitz auch in industriellem Maßstab produziert werden.
 Forschung, Innovation, Wissenschaft und Gesundheitsvorsorge
 Den digitalen Wandel nutzen und neue Wachstumspfade eröffnen
 Der digitale Wandel durchzieht alle Lebens- und Gesellschaftsbereiche und ist daher auch in der Lausitz Motor für Wissenschaft, Forschung und Wirtschaft. Der Ausbau von 5G-Netzen und von Breitbandverbindungen soll vorangetrieben werden. Die Wissenschaftslandschaft soll neben den bestehenden Universitäten und Fachhochschulen insbesondere durch außeruniversitäre Forschungseinrichtungen gestärkt werden. Der Aufbau einer digitalen, nachhaltigen medizinischen Versorgung und Ausbildung wird mit einem Next-Generation-Hospital und einer medizinischen Hochschulausbildung komplementiert. Die auf vorhandenen Kompetenzen aufbauenden Forschungsschwerpunkte wie die Entwicklung von Energiesystemen oder Energiespeichersystemen, alternativen und klimafreundlichen Antriebstechniken, Rekultivierung sowie künstliche Intelligenz werden ausgebaut, Wissens- und Technologietransfer intensiviert und das Gründungsgeschehen gestärkt. Der Ausbau der bestehenden Hochschuleinrichtungen in Görlitz und Zittau sowie der bereits bedeutsamen Brandenburgischen Technischen Universität Cottbus-Senftenberg wird nachhaltig regional neue Impulse setzen.
@@ -343,7 +343,7 @@ Für das Mitteldeutsche Revier zeichnen sich derzeit ohne Ableitung einer näher
 - 5. :: Energie,
 - 6. :: Innovation, Forschung und Entwicklung (FuE),
 - 7. :: Siedlungsentwicklung,
-- 8. :: Modell- und Laborregion �Zukunft“,
+- 8. :: Modell- und Laborregion Zukunft“,
 - 9. :: Kultur und Kreativwirtschaft,
 - 10. :: Landwirtschaft,
 - 11. :: Umwelt- und Lebensqualität,
@@ -360,8 +360,8 @@ Europäische Modellregion für Energieversorgungs- und Ressourcensicherheit
 Als Europäische Modellregion für Energieversorgungs- und Ressourcensicherheit setzt das Rheinische Zukunftsrevier auf die nachhaltige Weiterentwicklung der industriellen Wertschöpfungsketten im Rheinischen Revier. Ziel ist es, für die sinkende oder wegfallende Wertschöpfung aus der Kohle adäquaten Ersatz bei Wertschöpfung und Beschäftigung zu schaffen. Das Rheinische Zukunftsrevier leistet so auch einen Beitrag für die nachhaltige Modernisierung des Industrielandes Deutschland.
 Zur Schaffung neuer Wertschöpfungsketten und zukunftssicherer Arbeitsplätze bestehen im Rheinischen Revier Ansatzpunkte in folgenden Zukunftsfeldern:
 
-- -- :: Energie und Industrie: Das Rheinische Revier soll sich als Energierevier der Zukunft positionieren und ein Modellstandort im künftigen Energiesystem werden. Das Rheinische Revier weist eine hohe Lagekompetenz für die Investition in das durch die Energiewende neu zu konzipierende Produkt �Versorgungssicherheit“ auf.
-- -- :: Innovation und Bildung: Das Revier soll eine wegweisende Kultur für Gründung und Wachstum durch systematischen Wissens- und Technologietransfer entwickeln (�Innovation Valley Rheinland“). Ausgründungen und Impulse aus Hochschulen und wissenschaftlichen Einrichtungen führen zu neuen Ansiedlungen im Revier.
+- -- :: Energie und Industrie: Das Rheinische Revier soll sich als Energierevier der Zukunft positionieren und ein Modellstandort im künftigen Energiesystem werden. Das Rheinische Revier weist eine hohe Lagekompetenz für die Investition in das durch die Energiewende neu zu konzipierende Produkt Versorgungssicherheit“ auf.
+- -- :: Innovation und Bildung: Das Revier soll eine wegweisende Kultur für Gründung und Wachstum durch systematischen Wissens- und Technologietransfer entwickeln (Innovation Valley Rheinland“). Ausgründungen und Impulse aus Hochschulen und wissenschaftlichen Einrichtungen führen zu neuen Ansiedlungen im Revier.
 - -- :: Ressourcen und Agrobusiness: Die Region entwickelt sich zu einer Modellregion für geschlossene Stoffkreisläufe und Kreislaufwirtschaft, die neue Wertschöpfungen im Bereich der Bioökonomie etabliert.
 - -- :: Raum und Infrastruktur: Die großen Herausforderungen sollen als Möglichkeit für eine zukunftsfähige, ambitionierte und dynamische Raumentwicklung genutzt werden. Dabei benötigen sowohl die Tagebaurandkommunen als auch die durch Neu- oder Umplanung vormals geplanter Abbaugebiete betroffenen Kommunen besondere Unterstützung. Die Neuordnung und -gestaltung des Raums und die Weiterentwicklung der Siedlungen als ORTE DER ZUKUNFT in einem MOBILITÄTSREVIER DER ZUKUNFT soll mit dem Anspruch verknüpft werden, wegweisende Schritte in eine innovative und klimafreundliche Zukunft mit hoher Lebensqualität zu gehen. Eine gute infrastrukturelle Anbindung des Rheinischen Reviers zu den umliegenden Oberzentren und zur Entlastung dieser Oberzentren ist eine wesentliche Voraussetzung für das Gelingen dieses Konzepts. Das Mobilitätsrevier der Zukunft besteht aus mehr als aus infrastrukturellen Maßnahmen -- es wird zur Modellregion für Mobilität 4.0, unter anderem Digitales Mobilitätssystem Rheinisches Revier, Mobilitätszentrale Rheinisches Revier, innovative Personenmobilität und Stadtlogistik, Startup- und Transferzentrum digitalisierte und vernetzte Mobilität.
 
@@ -372,11 +372,11 @@ Zuständig für den Strukturwandel im Rheinischen Revier ist die Zukunftsagentur
 Anlage 4 - (zu den §§ 20 und 21) Verkehrsvorhaben nach den §§ 20 und 21
 
 (Fundstelle: BGBl. I 2020, 1809 - 1811)
-�
-�
-�
-�
-�
+
+
+
+
+
 Für die Bau- und Ausbauvorhaben nach dieser Anlage sind folgende Begriffsbestimmungen anzuwenden:\\
 \\
 |  1. | A:          | Bundesautobahn,                                                                                                                                                                                                                                                                                      |
@@ -394,8 +394,8 @@ Für die Bau- und Ausbauvorhaben nach dieser Anlage sind folgende Begriffsbestim
 Anlage 5 - (zu § 22)Verkehrsvorhaben nach § 22
 
 (Fundstelle: BGBl. I 2020, 1812 - 1814)
-�
-�
-�
-�
-�
+
+
+
+
+

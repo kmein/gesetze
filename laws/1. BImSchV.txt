@@ -79,7 +79,7 @@ In dieser Verordnung gelten die folgenden Begriffsbestimmungen:
 -  3a. :: Grill-Holzkohle, Grill-Holzkohlebriketts nach DIN EN 1860, Ausgabe September 2005,
 -  4. :: naturbelassenes stückiges Holz einschließlich anhaftender Rinde, insbesondere in Form von Scheitholz und Hackschnitzeln, sowie Reisig und Zapfen,
 -  5. :: naturbelassenes nicht stückiges Holz, insbesondere in Form von Sägemehl, Spänen und Schleifstaub, sowie Rinde,
--  5a. :: Presslinge aus naturbelassenem Holz in Form von Holzbriketts nach DIN 51731, Ausgabe Oktober 1996, oder in Form von Holzpellets nach den brennstofftechnischen Anforderungen des DINplus-Zertifizierungsprogramms �Holzpellets zur Verwendung in Kleinfeuerstätten nach DIN 51731-HP 5“, Ausgabe August 2007, sowie andere Holzbriketts oder Holzpellets aus naturbelassenem Holz mit gleichwertiger Qualität,
+-  5a. :: Presslinge aus naturbelassenem Holz in Form von Holzbriketts nach DIN 51731, Ausgabe Oktober 1996, oder in Form von Holzpellets nach den brennstofftechnischen Anforderungen des DINplus-Zertifizierungsprogramms Holzpellets zur Verwendung in Kleinfeuerstätten nach DIN 51731-HP 5“, Ausgabe August 2007, sowie andere Holzbriketts oder Holzpellets aus naturbelassenem Holz mit gleichwertiger Qualität,
 -  6. :: gestrichenes, lackiertes oder beschichtetes Holz sowie daraus anfallende Reste, soweit keine Holzschutzmittel aufgetragen oder infolge einer Behandlung enthalten sind und Beschichtungen keine halogenorganischen Verbindungen oder Schwermetalle enthalten,
 -  7. :: Sperrholz, Spanplatten, Faserplatten oder sonst verleimtes Holz sowie daraus anfallende Reste, soweit keine Holzschutzmittel aufgetragen oder infolge einer Behandlung enthalten sind und Beschichtungen keine halogenorganischen Verbindungen oder Schwermetalle enthalten,
 -  8. :: Stroh und ähnliche pflanzliche Stoffe, nicht als Lebensmittel bestimmtes Getreide wie Getreidekörner und Getreidebruchkörner, Getreideganzpflanzen, Getreideausputz, Getreidespelzen und Getreidehalmreste sowie Pellets aus den vorgenannten Brennstoffen,
@@ -118,7 +118,7 @@ In dieser Verordnung gelten die folgenden Begriffsbestimmungen:
 § 5 - Feuerungsanlagen mit einer Nennwärmeleistung von 4 Kilowatt oder mehr
 
 (1) Feuerungsanlagen für feste Brennstoffe mit einer Nennwärmeleistung von 4 Kilowatt oder mehr, ausgenommen Einzelraumfeuerungsanlagen, sind so zu errichten und zu betreiben, dass die nach Anlage 2 ermittelten Massenkonzentrationen die folgenden Emissionsgrenzwerte für Staub und Kohlenstoffmonoxid (CO) nicht überschreiten:
-�
+
 Brennstoff\\
 nach § 3\\
 Absatz 1
@@ -406,7 +406,7 @@ Die Feststellung des Zeitpunktes, ab wann die Anlagen die Grenzwerte nach Satz 1
   Brennstoff nach\\
     § 3 Absatz 1\\
 Nennwärme-   \\
-leistung in kW �
+leistung in kW 
 Nummer\\
 1 bis 3a
 Nummer 4 bis 5a
@@ -435,7 +435,7 @@ CO\\
    Brennstoff nach\\
      § 3 Absatz 1\\
 Nennwärme-       \\
-leistung in kW      �
+leistung in kW      
 Nummer 6 und 7
 Staub\\
 [g/m³]
@@ -453,7 +453,7 @@ CO\\
    Brennstoff nach\\
      § 3 Absatz 1\\
 Nennwärme-       \\
-leistung in kW      �
+leistung in kW      
 Nummer 8
 Staub\\
 [g/m³]
@@ -638,12 +638,12 @@ Anlage 3 - (zu § 2 Nummer 11, § 6)Bestimmung des Nutzungsgrades und des Sticks
 Anlage 4 - (zu § 3 Absatz 5 Nummer 2, § 4 Absatz 3, 5 und 7, § 26 Absatz 1 Satz 2 Nummer 2, Absatz 6)Anforderungen bei der Typprüfung
 
 - 1. :: Emissionsgrenzwerte und Mindestwirkungsgrade für Einzelraumfeuerungsanlagen für feste Brennstoffe (Anforderungen bei der Typprüfung)
-  �
+  
 - 2. :: Grenzwerte für Anlagen mit den in § 3 Absatz 1 Nummer 8 und 13 genannten Brennstoffen (Anforderungen bei der Typprüfung)
-  Dioxine und Furane: 0,1  ng/m³�
+  Dioxine und Furane: 0,1  ng/m³
   Stickstoffoxide:\\
-  Anlagen, die ab dem 22. März 2010 errichtet werden: 0,6   g/m³�
-  Anlagen, die nach dem 31. Dezember 2014 errichtet werden: 0,5   g/m³�
+  Anlagen, die ab dem 22. März 2010 errichtet werden: 0,6   g/m³
+  Anlagen, die nach dem 31. Dezember 2014 errichtet werden: 0,5   g/m³
   Kohlenstoffmonoxid: 0,25  g/m³.
 - 3. :: Durchführung der Messungen und Bestimmung des Wirkungsgrades:
   - 3.1 :: Kohlenstoffmonoxid

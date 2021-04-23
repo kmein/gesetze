@@ -198,12 +198,12 @@ Planen, Vorbereiten und Kontrollieren von Arbeitsabläufen, Arbeiten im Team\\
 
 6
 
-�
+
 
 - f) :: Aufgaben im Team planen und umsetzen, Ergebnisse gemeinsam abstimmen und auswerten
 - g) :: Gespräche situationsgerecht führen, Konfliktlösungsmöglichkeiten anwenden
 
-�
+
 
 4
 
@@ -220,12 +220,12 @@ Information und Kommunikation\\
 
 12
 
-�
+
 
 - f) :: Arbeitsaufgaben mit Hilfe von Informations- und Kommunikationstechniken bearbeiten
 - g) :: Sachverhalte darstellen, deutsche und englische Fachbegriffe anwenden; Auskünfte in Englisch erteilen
 
-�
+
 
 6
 
@@ -244,12 +244,12 @@ Logistische Prozesse\\
 
 10
 
-�
+
 
 - h) :: Wasserfahrzeuge unter Berücksichtigung des Einsatzes unterscheiden
 - i) :: bei logistischen Planungs- und Organisationsprozessen mitwirken, Informationsfluss sicherstellen, bei Abweichungen Maßnahmen ergreifen
 
-�
+
 
 4
 
@@ -269,7 +269,7 @@ Führen von Hafenfahrzeugen im Einsatzgebiet\\
 
 22
 
-�
+
 
 - i) :: Schlepp- oder Schubverbände zusammenstellen und koppeln
 - j) :: Koppelmanöver unter Aufsicht durchführen
@@ -277,7 +277,7 @@ Führen von Hafenfahrzeugen im Einsatzgebiet\\
 - l) :: Einfluss von Stabilität und Trimm auf das Manövrierverhalten von Hafenfahrzeugen berücksichtigen
 - m) :: Anlagen in Betrieb nehmen, bedienen und überwachen
 
-�
+
 
 22
 
@@ -290,12 +290,12 @@ Rechtliche Voraussetzungen des Schiffsbetriebes\\
 
 4
 
-�
+
 
 - b) :: Vorschriften für die Besetzung von Wasserfahrzeugen anwenden
 - c) :: Regelungen und Vorschriften, insbesondere für den Transport von Gütern und die Beförderung von Personen, anwenden
 
-�
+
 
 10
 
@@ -308,13 +308,13 @@ Kundenorientierung und qualitätssichernde Maßnahmen\\
 
 8
 
-�
+
 
 - b) :: Kundenwünsche beachten
 - c) :: qualitätsbewusst handeln und zur Qualitätssicherung beitragen
 - d) :: zur kontinuierlichen Verbesserung von Arbeitsabläufen im eigenen Arbeitsbereich beitragen
 
-�
+
 
 8
 
@@ -329,14 +329,14 @@ Pflege, Wartung und Instandhaltung, seemännische Arbeiten\\
 
 12
 
-�
+
 
 - d) :: Werkstoffe bearbeiten
 - e) :: Arten und Eigenschaften von Draht- und Fasertauwerk unterscheiden, Tauwerk pflegen und spleißen
 - f) :: Rettungsmittel und technische Einrichtungen nach Vorschriften pflegen und warten
 - g) :: Arbeitsgeschirre unter Berücksichtigung einschlägiger Vorschriften einsetzen
 
-�
+
 
 12
 
@@ -349,12 +349,12 @@ Verhalten bei besonderen Umständen, Havarien und Betriebsstörungen\\
 
 4
 
-�
+
 
 - b) :: Störungen im Schiffsbetrieb erkennen und bewerten, Maßnahmen zur Beseitigung veranlassen und durchführen
 - c) :: Hilfs- und Sofortmaßnahmen in Notfällen, insbesondere bei Havarien und Bränden, ergreifen
 - d) :: verunglückte Personen retten und Maßnahmen der ersten Hilfe durchführen
 
-�
+
 
 12

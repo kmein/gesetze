@@ -70,35 +70,35 @@ Ausstehende fÃ¤llige Zahlungsverpflichtungen aus der RangrÃ¼cktrittsvereinbarung
 
 Der Barwert der zukÃ¼nftigen Zahlungen entspricht der Summe der Barwerte der jÃ¤hrlichen Zahlungen fÃ¼r die Jahre 2005 bis einschlieÃŸlich zum Jahr der vollstÃ¤ndigen Tilgung der Altschulden. Dabei wird unterstellt, dass die jÃ¤hrlichen Zahlungen auf die RangrÃ¼cktrittsvereinbarung am Ende des Kalenderjahres erfolgen, in dem das abzurechnende GeschÃ¤ftsjahr endet. Der Barwert der einzelnen jÃ¤hrlichen Zahlung wird nach folgender Formel berechnet:\\
 \\
- 
- 
+
+
 [[../normengrafiken/bgbl1_2004/j2864_0010.jpg]]
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 BW
 _{L}
 =
 Barwert der Zahlung im Kalenderjahr L
- 
+
 B
 _{L}
 =
 Zahlung im Kalenderjahr L
- 
+
 Z
 =
 EU-Referenzzinssatz in vom Hundert gemÃ¤ÃŸ Â§ 7 Abs. 2\\
 des Landwirtschafts-Altschuldengesetzes in Verbindung\\
 mit Â§ 3 Abs. 2 Satz 2 und 3 dieser Verordnung
- 
+
 L
 =
 Kalenderjahr
- 
+
 
 Â§ 9 - VerfahrensgrundsÃ¤tze zur Bestimmung des AblÃ¶sebetrages
 

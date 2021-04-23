@@ -380,7 +380,7 @@ Die Preise sind in Euro je Tonne Produktgewicht anzugeben.
 - 4. :: Hackfleisch rein vom Schwein, gekühlt, unter Schutzatmosphäre abgepackt, oder tiefgefroren in Packungen bis zu 500 Gramm,
 - 5. :: Deutsche Markenbutter, geformt, in Packungen von 250 Gramm,
 - 6. :: schnittfesten Mozzarella mit mindestens 45 Prozent Trockenmasse, gerieben, in Scheiben oder am Stück, in Packungen bis zu 500 Gramm,
-- 7. :: Edamer der Fettgehaltsstufe �Fettstufe“, Emmentaler der Fettgehaltsstufe �Vollfettstufe“ und Gouda der Fettgehaltsstufe �Vollfettstufe“, gerieben, in Scheiben oder am Stück, in Packungen bis zu 500 Gramm,
+- 7. :: Edamer der Fettgehaltsstufe Fettstufe“, Emmentaler der Fettgehaltsstufe Vollfettstufe“ und Gouda der Fettgehaltsstufe Vollfettstufe“, gerieben, in Scheiben oder am Stück, in Packungen bis zu 500 Gramm,
 - 8. :: ganze Hähnchen der Klasse A, gekühlt oder tiefgefroren,
 - 9. :: Hähnchenbrustfilets, gekühlt, in Packungen bis zu 500 Gramm.
 
@@ -419,7 +419,7 @@ Die Meldepflicht gilt nur, soweit der Jahresumsatz des Herstellers 250 000 000
 
 Die Meldepflicht gilt nur, soweit der Jahresumsatz des Herstellers 250 000 000 Euro übersteigt.
 
-(6) Folgende Hersteller haben nach Ma�Fettstufe“, Emmentaler der Fettgehaltsstufe �Vollfettstufe“ und Gouda der Fettgehaltsstufe �Vollfettstufe“ in Form von Blockware, getrennt nach diesen Sorten, zu melden:
+(6) Folgende Hersteller haben nach MaFettstufe“, Emmentaler der Fettgehaltsstufe Vollfettstufe“ und Gouda der Fettgehaltsstufe Vollfettstufe“ in Form von Blockware, getrennt nach diesen Sorten, zu melden:
 
 - 1. :: Hersteller von Backwaren und Dauerbackwaren,
 - 2. :: Hersteller von Fertiggerichten einschließlich gefrorener oder auf andere Weise haltbar gemachter Pizza,

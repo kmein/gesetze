@@ -28,7 +28,7 @@ Diese Verordnung regelt die Prüfungen zu den anerkannten Fortbildungsabschlüss
 - 5. :: Lösungsstrategien und damit verbundene Produkte kundenorientiert kommunizieren sowie über Chancen, Risiken, Verpflichtungen und Kosten beraten und Kunden bei der Entscheidungsfindung unterstützen,
 - 6. :: Kunden bei der Umsetzung ihrer Entscheidungen begleiten sowie die Kundensituation regelmäßig und anlassbezogen überprüfen.
 
-(3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss �Geprüfter Fachberater für Finanzdienstleistungen“ oder �Geprüfte Fachberaterin für Finanzdienstleistungen“.
+(3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss Geprüfter Fachberater für Finanzdienstleistungen“ oder Geprüfte Fachberaterin für Finanzdienstleistungen“.
 
 § 3 - Zulassungsvoraussetzungen
 
@@ -60,7 +60,7 @@ nachweist.
 
 § 5 - Inhalt der Prüfung
 
-(1) Im Handlungsbereich �Organisation und Steuerung der eigenen Vertriebsaktivitäten“ sollen die Kompetenzen nachgewiesen werden, unter Beachtung der rechtlichen, volkswirtschaftlichen und betriebswirtschaftlichen Rahmenbedingungen die Gesamtsituation der Kundengruppen in ihren wirtschaftlichen Auswirkungen erfassen und bedarfsgerechte Ziele formulieren sowie die eigenen Vertriebsaktivitäten zielgruppengerecht steuern zu können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(1) Im Handlungsbereich Organisation und Steuerung der eigenen Vertriebsaktivitäten“ sollen die Kompetenzen nachgewiesen werden, unter Beachtung der rechtlichen, volkswirtschaftlichen und betriebswirtschaftlichen Rahmenbedingungen die Gesamtsituation der Kundengruppen in ihren wirtschaftlichen Auswirkungen erfassen und bedarfsgerechte Ziele formulieren sowie die eigenen Vertriebsaktivitäten zielgruppengerecht steuern zu können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: Zielgruppen festlegen und typische Bedarfe analysieren,
 - 2. :: eigene Vertriebsziele setzen und Vertriebsaktivitäten steuern,
@@ -68,14 +68,14 @@ nachweist.
 - 4. :: Kundenbetreuung planen und organisieren,
 - 5. :: Kundenstruktur und Vertriebsergebnisse analysieren, Veränderungsbedarfe ermitteln sowie Maßnahmen zur Anpassung ergreifen.
 
-(2) Im Handlungsbereich �Privatkundenberatung zu Geld- und Vermögensanlagen“ sollen die Kompetenzen nachgewiesen werden, die Situation des Kunden analysieren und eine entsprechende Produktauswahl unter Berücksichtigung des für den Kunden passenden Chancen- und Risikoverhältnisses und der rechtlichen, wirtschaftlichen sowie steuerlichen Rahmenbedingungen treffen zu können. Die Lösungen werden dem Kunden dargelegt sowie die Entscheidungsfindung und Umsetzung unterstützt. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(2) Im Handlungsbereich Privatkundenberatung zu Geld- und Vermögensanlagen“ sollen die Kompetenzen nachgewiesen werden, die Situation des Kunden analysieren und eine entsprechende Produktauswahl unter Berücksichtigung des für den Kunden passenden Chancen- und Risikoverhältnisses und der rechtlichen, wirtschaftlichen sowie steuerlichen Rahmenbedingungen treffen zu können. Die Lösungen werden dem Kunden dargelegt sowie die Entscheidungsfindung und Umsetzung unterstützt. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: die persönliche Situation des Kunden erfassen und den Kundenbedarf ermitteln sowie Lösungsvorschläge zur Kundenbedarfsdeckung entwickeln,
 - 2. :: die für die Kundenziele geeigneten Geld- und Vermögensanlageprodukte aus den Bereichen Wertpapiere, geschlossene Fonds, Lebensversicherungen zur Kapitalanlage, Anlagen auf Konten auswählen,
 - 3. :: Kunden anlegergerecht beraten und die Beratung dokumentieren,
 - 4. :: Kunden bei der Umsetzung ihrer Anlageentscheidungen begleiten und die Kundensituation regelmäßig und anlassbezogen überprüfen.
 
-(3) Im Handlungsbereich �Privatkundenberatung zu Immobilien und Finanzierungen“ sollen die Kompetenzen nachgewiesen werden, die Situation des Kunden unter Berücksichtigung der rechtlichen, wirtschaftlichen und steuerlichen Rahmenbedingungen in Bezug auf Immobilienanlagen zur Eigen- und Fremdnutzung sowie Immobilien- und Konsumentenfinanzierungen zu analysieren, sie bei der Entscheidungsfindung und Umsetzung von Finanzierungen zu beraten und zu unterstützen. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(3) Im Handlungsbereich Privatkundenberatung zu Immobilien und Finanzierungen“ sollen die Kompetenzen nachgewiesen werden, die Situation des Kunden unter Berücksichtigung der rechtlichen, wirtschaftlichen und steuerlichen Rahmenbedingungen in Bezug auf Immobilienanlagen zur Eigen- und Fremdnutzung sowie Immobilien- und Konsumentenfinanzierungen zu analysieren, sie bei der Entscheidungsfindung und Umsetzung von Finanzierungen zu beraten und zu unterstützen. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: die persönliche Situation des Kunden erfassen und den Kundenbedarf ermitteln sowie Lösungsvorschläge zur Kundenbedarfsdeckung entwickeln,
 - 2. :: die wirtschaftliche Eignung von Immobilien für die Zielsetzung des Kunden analysieren und bewerten,
@@ -83,7 +83,7 @@ nachweist.
 - 4. :: Kunden anforderungsgerecht beraten und die Beratung dokumentieren,
 - 5. :: Kunden bei der Umsetzung entsprechender Maßnahmen begleiten und die Kundensituation regelmäßig und anlassbezogen überprüfen.
 
-(4) Im Handlungsbereich �Privatkundenberatung zur Absicherung von Personen-, Sach- und Vermögensrisiken“ sollen die Kompetenzen nachgewiesen werden, die Risiken eines Kunden bewerten und geeignete Deckungskonzepte, orientiert an den Kundenzielen und dem Kundenbedarf unter Berücksichtigung der rechtlichen, wirtschaftlichen und steuerlichen Rahmenbedingungen, erarbeiten zu können. Dabei ist kundenorientiert zu kommunizieren sowie die Entscheidungsfindung und Umsetzung zu unterstützen. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(4) Im Handlungsbereich Privatkundenberatung zur Absicherung von Personen-, Sach- und Vermögensrisiken“ sollen die Kompetenzen nachgewiesen werden, die Risiken eines Kunden bewerten und geeignete Deckungskonzepte, orientiert an den Kundenzielen und dem Kundenbedarf unter Berücksichtigung der rechtlichen, wirtschaftlichen und steuerlichen Rahmenbedingungen, erarbeiten zu können. Dabei ist kundenorientiert zu kommunizieren sowie die Entscheidungsfindung und Umsetzung zu unterstützen. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: die persönliche Situation des Kunden erfassen und den Kundenbedarf ermitteln sowie Lösungsvorschläge zur Kundenbedarfsdeckung entwickeln,
 - 2. :: die für den Kundenbedarf geeigneten Deckungskonzepte auswählen,
@@ -107,7 +107,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in allen schriftlichen Prüfungsleistungen und in der mündlichen Teilprüfung mindestens 50 Punkte erreicht worden sind.
 (2) Ist die Prüfung bestanden, ist die zusammengefasste Bewertung der schriftlichen Prüfung auf eine ganze Zahl zu runden.
-(3) Den Bewertungen für die Prüfungsteile �schriftliche Prüfung“ und �mündliche Prüfung“ ist nach Anlage 1 die jeweilige Note als Dezimalzahl zuzuordnen.
+(3) Den Bewertungen für die Prüfungsteile schriftliche Prüfung“ und mündliche Prüfung“ ist nach Anlage 1 die jeweilige Note als Dezimalzahl zuzuordnen.
 (4) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das arithmetische Mittel aus der Summe aller schriftlichen Prüfungsleistungen und der mündlichen Teilprüfung zu berechnen. Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerundeten Gesamtpunktzahl ist nach Anlage 1 die Note als Dezimalzahl und die Note in Worten zuzuordnen. Die zugeordnete Note ist die Gesamtnote.
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
@@ -141,7 +141,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
   - d) :: Lösungsstrategien und damit verbundene Produkte kundenorientiert darstellen sowie über Chancen, Risiken, Verpflichtungen und Kosten beraten und den Kunden bei der Entscheidungsfindung unterstützen,
   - e) :: Kunden bei der Umsetzung seiner Entscheidungen begleiten sowie regelmäßiges und anlassbezogenes Überprüfen der Kundensituation.
 
-(3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss �Geprüfter Fachwirt für Finanzberatung“ oder �Geprüfte Fachwirtin für Finanzberatung“.
+(3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt für Finanzberatung“ oder Geprüfte Fachwirtin für Finanzberatung“.
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
 § 11 - Zulassungsvoraussetzungen
@@ -179,17 +179,17 @@ nachweist.
 
 (5) Die schriftliche Prüfung wird im Prüfungsteil A auf der Grundlage von betrieblichen Situationsbeschreibungen durchgeführt. Die Bearbeitungsdauer der schriftlichen Prüfungsleistungen beträgt für jeden Handlungsbereich jeweils 120 Minuten. Die schriftliche Prüfung wird im Prüfungsteil B auf der Grundlage von betrieblichen Situationsbeschreibungen durchgeführt. Dabei werden die Handlungsbereiche 1 und 2 sowie die Handlungsbereiche 4 und 5 jeweils zusammen und der Handlungsbereich 3 gesondert geprüft. Die Bearbeitungsdauer beträgt für
 
-- 1. :: die Handlungsbereiche �Unternehmens- und Personalführung“ sowie �Vertriebsplanung und -steuerung“ insgesamt 180 Minuten,
-- 2. :: den Handlungsbereich �Beratung zur Unternehmensfinanzierung“ 120 Minuten,
-- 3. :: die Handlungsbereiche �Risikoanalyse und Beratung zu Deckungskonzepten für Unternehmen“ und �Beratung zur betrieblichen Altersversorgung“ insgesamt 180 Minuten.
+- 1. :: die Handlungsbereiche Unternehmens- und Personalführung“ sowie Vertriebsplanung und -steuerung“ insgesamt 180 Minuten,
+- 2. :: den Handlungsbereich Beratung zur Unternehmensfinanzierung“ 120 Minuten,
+- 3. :: die Handlungsbereiche Risikoanalyse und Beratung zu Deckungskonzepten für Unternehmen“ und Beratung zur betrieblichen Altersversorgung“ insgesamt 180 Minuten.
 
-(6) Nach bestandener schriftlicher Prüfung wird die mündliche Prüfung durchgeführt. Diese beinhaltet ein fallbezogenes Beratungsgespräch sowie eine Präsentation einschlie�Vertriebsplanung und -steuerung“ beziehen, wobei Bezüge zu den Handlungsbereichen des Prüfungsteils A zu berücksichtigen sind. Die Dauer der Präsentation soll zehn Minuten nicht überschreiten. Das Thema der Präsentation wird von der zu prüfenden Person bestimmt und mit einer Kurzbeschreibung der Problemstellung, mit Nennung des Ziels und einer groben Gliederung dem Prüfungsausschuss zum Termin der ersten schriftlichen Prüfungsleistung des Prüfungsteils B eingereicht. Im Fachgespräch soll ausgehend von der Präsentation nachgewiesen werden, dass insbesondere im gewählten Handlungsbereich Wissen angewendet sowie Lösungen vorgeschlagen und begründet werden können. Das Fachgespräch soll nicht länger als 20 Minuten dauern.
+(6) Nach bestandener schriftlicher Prüfung wird die mündliche Prüfung durchgeführt. Diese beinhaltet ein fallbezogenes Beratungsgespräch sowie eine Präsentation einschlieVertriebsplanung und -steuerung“ beziehen, wobei Bezüge zu den Handlungsbereichen des Prüfungsteils A zu berücksichtigen sind. Die Dauer der Präsentation soll zehn Minuten nicht überschreiten. Das Thema der Präsentation wird von der zu prüfenden Person bestimmt und mit einer Kurzbeschreibung der Problemstellung, mit Nennung des Ziels und einer groben Gliederung dem Prüfungsausschuss zum Termin der ersten schriftlichen Prüfungsleistung des Prüfungsteils B eingereicht. Im Fachgespräch soll ausgehend von der Präsentation nachgewiesen werden, dass insbesondere im gewählten Handlungsbereich Wissen angewendet sowie Lösungen vorgeschlagen und begründet werden können. Das Fachgespräch soll nicht länger als 20 Minuten dauern.
 (7) Wurden je Prüfungsteil in nicht mehr als einer schriftlichen Prüfungsleistung mangelhafte Leistungen erbracht, ist zu der jeweils nicht bestandenen Prüfungsleistung eine mündliche Ergänzungsprüfung anzubieten. Bei einer oder mehreren ungenügenden Leistungen besteht diese Möglichkeit nicht. Die Ergänzungsprüfung soll anwendungsbezogen durchgeführt werden und je Ergänzungsprüfung in der Regel nicht länger als 15 Minuten dauern. Die Bewertungen der schriftlichen Prüfungsleistung und der mündlichen Ergänzungsprüfung werden zusammengefasst. Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
 § 13 - Inhalte im Prüfungsteil A (Privatkunden)
 
-(1) Im Handlungsbereich �Organisation und Steuerung der eigenen Vertriebsaktivitäten“ sollen die Kompetenzen nachgewiesen werden, unter Beachtung der rechtlichen, volkswirtschaftlichen und betriebswirtschaftlichen Rahmenbedingungen die Gesamtsituation der Kundengruppen in ihren wirtschaftlichen Auswirkungen erfassen und bedarfsgerechte Ziele formulieren sowie die eigenen Vertriebsaktivitäten zielgruppengerecht steuern zu können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(1) Im Handlungsbereich Organisation und Steuerung der eigenen Vertriebsaktivitäten“ sollen die Kompetenzen nachgewiesen werden, unter Beachtung der rechtlichen, volkswirtschaftlichen und betriebswirtschaftlichen Rahmenbedingungen die Gesamtsituation der Kundengruppen in ihren wirtschaftlichen Auswirkungen erfassen und bedarfsgerechte Ziele formulieren sowie die eigenen Vertriebsaktivitäten zielgruppengerecht steuern zu können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: Zielgruppen festlegen und typische Bedarfe analysieren,
 - 2. :: eigene Vertriebsziele setzen und Vertriebsaktivitäten steuern,
@@ -197,14 +197,14 @@ nachweist.
 - 4. :: Kundenbetreuung planen und organisieren,
 - 5. :: Kundenstruktur und Vertriebsergebnisse analysieren, Veränderungsbedarfe ermitteln sowie Maßnahmen zur Anpassung ergreifen.
 
-(2) Im Handlungsbereich �Privatkundenberatung zu Geld- und Vermögensanlagen“ sollen die Kompetenzen nachgewiesen werden, die Situation des Kunden analysieren und eine entsprechende Produktauswahl unter Berücksichtigung des für den Kunden passenden Chancen- und Risikoverhältnisses und der rechtlichen, wirtschaftlichen sowie steuerlichen Rahmenbedingungen treffen zu können. Die Lösungen werden dem Kunden dargelegt sowie die Entscheidungsfindung und Umsetzung unterstützt. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(2) Im Handlungsbereich Privatkundenberatung zu Geld- und Vermögensanlagen“ sollen die Kompetenzen nachgewiesen werden, die Situation des Kunden analysieren und eine entsprechende Produktauswahl unter Berücksichtigung des für den Kunden passenden Chancen- und Risikoverhältnisses und der rechtlichen, wirtschaftlichen sowie steuerlichen Rahmenbedingungen treffen zu können. Die Lösungen werden dem Kunden dargelegt sowie die Entscheidungsfindung und Umsetzung unterstützt. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: die persönliche Situation des Kunden erfassen und den Kundenbedarf ermitteln sowie Lösungsvorschläge zur Kundenbedarfsdeckung entwickeln,
 - 2. :: die für die Kundenziele geeigneten Geld- und Vermögensanlageprodukte aus den Bereichen Wertpapiere, geschlossene Fonds, Lebensversicherungen zur Kapitalanlage, Anlagen auf Konten auswählen,
 - 3. :: Kunden anlegergerecht beraten und die Beratung dokumentieren,
 - 4. :: Kunden bei der Umsetzung ihrer Anlageentscheidungen begleiten und die Kundensituation regelmäßig und anlassbezogen überprüfen.
 
-(3) Im Handlungsbereich �Privatkundenberatung zu Immobilien und Finanzierungen“ sollen die Kompetenzen nachgewiesen werden, die Situation des Kunden unter Berücksichtigung der rechtlichen, wirtschaftlichen und steuerlichen Rahmenbedingungen in Bezug auf Immobilienanlagen zur Eigen- und Fremdnutzung sowie Immobilien- und Konsumentenfinanzierungen zu analysieren, sie bei der Entscheidungsfindung und Umsetzung von Finanzierungen zu beraten und zu unterstützen. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(3) Im Handlungsbereich Privatkundenberatung zu Immobilien und Finanzierungen“ sollen die Kompetenzen nachgewiesen werden, die Situation des Kunden unter Berücksichtigung der rechtlichen, wirtschaftlichen und steuerlichen Rahmenbedingungen in Bezug auf Immobilienanlagen zur Eigen- und Fremdnutzung sowie Immobilien- und Konsumentenfinanzierungen zu analysieren, sie bei der Entscheidungsfindung und Umsetzung von Finanzierungen zu beraten und zu unterstützen. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: die persönliche Situation des Kunden erfassen und den Kundenbedarf ermitteln sowie Lösungsvorschläge zur Kundenbedarfsdeckung entwickeln,
 - 2. :: die wirtschaftliche Eignung von Immobilien für die Zielsetzung des Kunden analysieren und bewerten,
@@ -212,7 +212,7 @@ nachweist.
 - 4. :: Kunden anforderungsgerecht beraten und die Beratung dokumentieren,
 - 5. :: Kunden bei der Umsetzung entsprechender Maßnahmen begleiten und die Kundensituation regelmäßig und anlassbezogen überprüfen.
 
-(4) Im Handlungsbereich �Privatkundenberatung zur Absicherung von Personen-, Sach- und Vermögensrisiken“ sollen die Kompetenzen nachgewiesen werden, die Risiken eines Kunden bewerten und geeignete Deckungskonzepte, orientiert an den Kundenzielen und dem Kundenbedarf unter Berücksichtigung der rechtlichen, wirtschaftlichen und steuerlichen Rahmenbedingungen, erarbeiten zu können. Dabei ist kundenorientiert zu kommunizieren sowie die Entscheidungsfindung und Umsetzung zu unterstützen. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(4) Im Handlungsbereich Privatkundenberatung zur Absicherung von Personen-, Sach- und Vermögensrisiken“ sollen die Kompetenzen nachgewiesen werden, die Risiken eines Kunden bewerten und geeignete Deckungskonzepte, orientiert an den Kundenzielen und dem Kundenbedarf unter Berücksichtigung der rechtlichen, wirtschaftlichen und steuerlichen Rahmenbedingungen, erarbeiten zu können. Dabei ist kundenorientiert zu kommunizieren sowie die Entscheidungsfindung und Umsetzung zu unterstützen. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: die persönliche Situation des Kunden erfassen und den Kundenbedarf ermitteln sowie Lösungsvorschläge zur Kundenbedarfsdeckung entwickeln,
 - 2. :: die für den Kundenbedarf geeigneten Deckungskonzepte auswählen,
@@ -223,7 +223,7 @@ nachweist.
 
 § 14 - Inhalte im Prüfungsteil B (Geschäftskunden)
 
-(1) Im Handlungsbereich �Unternehmens- und Personalführung“ sollen die Kompetenzen nachgewiesen werden, Unternehmensstrategien auszugestalten und unternehmerische Handlungsschritte abzuleiten. Weiterhin soll nachgewiesen werden, Mitarbeiter und Mitarbeiterinnen sowie Auszubildende zielorientiert zu führen und zu fördern. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(1) Im Handlungsbereich Unternehmens- und Personalführung“ sollen die Kompetenzen nachgewiesen werden, Unternehmensstrategien auszugestalten und unternehmerische Handlungsschritte abzuleiten. Weiterhin soll nachgewiesen werden, Mitarbeiter und Mitarbeiterinnen sowie Auszubildende zielorientiert zu führen und zu fördern. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: quantitative und qualitative Steuerungsinstrumente zur Erreichung der Unternehmensziele einsetzen sowie Maßnahmen planen, durchführen und Ergebnisse analysieren,
 - 2. :: Ablauforganisation des Unternehmens zur Erreichung der Unternehmensziele gestalten,
@@ -231,28 +231,28 @@ nachweist.
 - 4. :: zielgerichtetes und motivierendes Führen und individuelles Fördern von Mitarbeitern und Mitarbeiterinnen zum Erreichen der Unternehmensziele,
 - 5. :: Ausbildung planen und durchführen.
 
-(2) Im Handlungsbereich �Vertriebsplanung und -steuerung“ sollen Kompetenzen nachgewiesen werden, die Vertriebsaktivitäten unter Beachtung von rechtlichen Rahmenbedingungen und der unternehmenspolitischen Bedingungen zielgruppengerecht zu steuern sowie die Gesamtsituation von Kunden in ihren wirtschaftlichen Auswirkungen unter Berücksichtigung der Märkte zu erfassen und kundengerechte Ziele zu formulieren. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(2) Im Handlungsbereich Vertriebsplanung und -steuerung“ sollen Kompetenzen nachgewiesen werden, die Vertriebsaktivitäten unter Beachtung von rechtlichen Rahmenbedingungen und der unternehmenspolitischen Bedingungen zielgruppengerecht zu steuern sowie die Gesamtsituation von Kunden in ihren wirtschaftlichen Auswirkungen unter Berücksichtigung der Märkte zu erfassen und kundengerechte Ziele zu formulieren. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: Zielgruppen festlegen sowie Kunden adäquat ansprechen und gewinnen,
 - 2. :: Vertriebsziele setzen und die Vertriebs- und Betreuungsaktivitäten nach quantitativen und qualitativen Aspekten steuern,
 - 3. :: die für Kunden wesentlichen wirtschaftlichen und rechtlichen Rahmenbedingungen erfassen und bewerten,
 - 4. :: die private und unternehmerische Situation von Kunden erfassen, den Bedarf ermitteln sowie entsprechende Lösungsvorschläge zur Bedarfsdeckung entwickeln.
 
-(3) Im Handlungsbereich �Beratung zur Unternehmensfinanzierung“ sollen die Kompetenzen nachgewiesen werden, aufgrund der erfolgten Analyse eine geeignete Produktauswahl unter Berücksichtigung der rechtlichen und steuerlichen Rahmenbedingungen zu treffen, Lösungen darzustellen, Kunden zu den Chancen und Risiken zu beraten sowie bei der Entscheidungsfindung und Umsetzung von Maßnahmen zu unterstützen. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(3) Im Handlungsbereich Beratung zur Unternehmensfinanzierung“ sollen die Kompetenzen nachgewiesen werden, aufgrund der erfolgten Analyse eine geeignete Produktauswahl unter Berücksichtigung der rechtlichen und steuerlichen Rahmenbedingungen zu treffen, Lösungen darzustellen, Kunden zu den Chancen und Risiken zu beraten sowie bei der Entscheidungsfindung und Umsetzung von Maßnahmen zu unterstützen. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: Investitionen hinsichtlich der Rentabilität und der Finanzierbarkeit bewerten,
 - 2. :: die Bonität des Kundenunternehmens bewerten,
 - 3. :: die für die Erreichung der Kundenziele angemessenen Finanzierungsmodelle und -produkte unter Berücksichtigung geeigneter Kreditsicherheiten auswählen,
 - 4. :: die laufende Finanzierungsüberwachung und -anpassung begleiten.
 
-(4) Im Handlungsbereich �Risikoanalyse und Beratung zu Deckungskonzepten für Unternehmen“ sollen die Kompetenzen nachgewiesen werden, Risiken zu erkennen und zu bewerten sowie geeignete Lösungen für Sach- und Vermögensrisiken anzubieten sowie das Unternehmen bei der Entscheidungsfindung in Bezug auf den Abschluss von geeigneten Versicherungen zu unterstützen. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(4) Im Handlungsbereich Risikoanalyse und Beratung zu Deckungskonzepten für Unternehmen“ sollen die Kompetenzen nachgewiesen werden, Risiken zu erkennen und zu bewerten sowie geeignete Lösungen für Sach- und Vermögensrisiken anzubieten sowie das Unternehmen bei der Entscheidungsfindung in Bezug auf den Abschluss von geeigneten Versicherungen zu unterstützen. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: Risikoanalysen für Unternehmer und Unternehmen zu Sach- und Vermögensrisiken durchführen,
 - 2. :: Kunden hinsichtlich tragbarer und fremdgetragener unternehmerischer Risiken beraten,
 - 3. :: geeignete Produktlösungen zur Risikodeckung auswählen, kundenorientiert darstellen und vermitteln,
 - 4. :: Kunden betreuen sowie die Absicherung an die Risikosituation regelmäßig und anlassbezogen anpassen.
 
-(5) Im Handlungsbereich �Beratung zur betrieblichen Altersversorgung“ sollen die Kompetenzen nachgewiesen werden, den Bedarf von Firmenkunden zu erkennen und bei der Einführung eines auf die betrieblichen Gegebenheiten passenden Durchführungsweges der betrieblichen Altersversorgung zu beraten. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(5) Im Handlungsbereich Beratung zur betrieblichen Altersversorgung“ sollen die Kompetenzen nachgewiesen werden, den Bedarf von Firmenkunden zu erkennen und bei der Einführung eines auf die betrieblichen Gegebenheiten passenden Durchführungsweges der betrieblichen Altersversorgung zu beraten. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: rechtliche Verpflichtung zur Einführung einer betrieblichen Altersvorsorge und deren Vorteile für das Unternehmen und die Mitarbeiter und Mitarbeiterinnen darstellen,
 - 2. :: Durchführungswege hinsichtlich der Eignung unter Beachtung der Kundenwünsche, Risiken und Auswirkungen auf das Unternehmen vergleichen, analysieren und bewerten,

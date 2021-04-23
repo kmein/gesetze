@@ -18,14 +18,14 @@ Auf Grund des § 137i Absatz 3 Satz 1 in Verbindung mit Satz 2 des Fünften Buch
 
 (1) Pflegekräfte im Sinne dieser Verordnung sind Pflegefachkräfte und Pflegehilfskräfte. Pflegefachkräfte sind Personen, die über die Erlaubnis zum Führen einer Berufsbezeichnung nach § 1 Absatz 1, § 58 Absatz 1 oder Absatz 2 des Pflegeberufegesetzes verfügen oder deren Erlaubnis zum Führen der Berufsbezeichnung nach dem Krankenpflegegesetz in der am 31. Dezember 2019 geltenden Fassung oder nach dem Altenpflegegesetz in der am 31. Dezember 2019 geltenden Fassung oder nach § 64 des Pflegeberufegesetzes fortgilt. Pflegehilfskräfte sind Personen,
 
-- 1. :: die erfolgreich eine landesrechtlich geregelte Assistenz- oder Helferausbildung in der Pflege von mindestens einjähriger Dauer abgeschlossen haben, die die �Eckpunkte für die in Länderzuständigkeit liegenden Ausbildungen zu Assistenz- und Helferberufen in der Pflege“ (BAnz AT 17.02.2016 B3) erfüllt, die von der Arbeits- und Sozialministerkonferenz 2012 und von der Gesundheitsministerkonferenz 2013 als Mindestanforderungen beschlossen wurden,
+- 1. :: die erfolgreich eine landesrechtlich geregelte Assistenz- oder Helferausbildung in der Pflege von mindestens einjähriger Dauer abgeschlossen haben, die die Eckpunkte für die in Länderzuständigkeit liegenden Ausbildungen zu Assistenz- und Helferberufen in der Pflege“ (BAnz AT 17.02.2016 B3) erfüllt, die von der Arbeits- und Sozialministerkonferenz 2012 und von der Gesundheitsministerkonferenz 2013 als Mindestanforderungen beschlossen wurden,
 - 2. :: die erfolgreich eine landesrechtlich geregelte Ausbildung in der Krankenpflegehilfe oder in der Altenpflegehilfe von mindestens einjähriger Dauer abgeschlossen haben oder
 - 3. :: denen auf der Grundlage des Krankenpflegegesetzes vom 4. Juni 1985 (BGBl. I S. 893) in der am 31. Dezember 2003 geltenden Fassung eine Erlaubnis als Krankenpflegehelferin oder Krankenpflegehelfer erteilt worden ist.
 
 Zu den Pflegehilfskräften im Sinne dieser Verordnung zählen außerdem
 
 - 1. :: Medizinische Fachangestellte, die erfolgreich eine Ausbildung nach der Verordnung über die Berufsausbildung zum Medizinischen Fachangestellten/zur Medizinischen Fachangestellten abgeschlossen haben oder eine Qualifikation vorweisen, die dieser Ausbildung entspricht,
-- 2. :: Anästhesietechnische Assistentinnen und Anästhesietechnische Assistenten, die erfolgreich eine Ausbildung nach der �Empfehlung der Deutschen Krankenhausgesellschaft zur Ausbildung und Prüfung von Operationstechnischen und Anästhesietechnischen Assistentinnen/Assistenten“, die auf der Internetseite der Deutschen Krankenhausgesellschaft veröffentlicht ist, in der jeweils geltenden Fassung abgeschlossen haben, und
+- 2. :: Anästhesietechnische Assistentinnen und Anästhesietechnische Assistenten, die erfolgreich eine Ausbildung nach der Empfehlung der Deutschen Krankenhausgesellschaft zur Ausbildung und Prüfung von Operationstechnischen und Anästhesietechnischen Assistentinnen/Assistenten“, die auf der Internetseite der Deutschen Krankenhausgesellschaft veröffentlicht ist, in der jeweils geltenden Fassung abgeschlossen haben, und
 - 3. :: Notfallsanitäterinnen und Notfallsanitäter, denen auf Grundlage des Notfallsanitätergesetzes eine Erlaubnis zum Führen der entsprechenden Berufsbezeichnung erteilt worden ist.
 
 (2) Schichten im Sinne dieser Verordnung sind die Tagschicht und die Nachtschicht. Die Tagschicht umfasst den Zeitraum von 6 Uhr bis 22 Uhr. Die Nachtschicht umfasst den Zeitraum von 22 Uhr bis 6 Uhr. Die Bestimmung der Tagschicht und der Nachtschicht nach den Sätzen 2 und 3 lässt die Schichteinteilungen unberührt, die in den Krankenhäusern insbesondere zur Gewährleistung familienfreundlicher und flexibler Arbeitszeiten vorgenommen werden. Führt die Arbeitszeitgestaltung eines Krankenhauses dazu, dass eine Schicht sowohl der Tagschicht als auch der Nachtschicht nach den Sätzen 2 und 3 unterfällt, so kann das für diese Schicht vorgehaltene Personal anteilig der Tagschicht und der Nachtschicht zugeordnet werden.
@@ -194,7 +194,7 @@ Anlage - (zu § 3 Absatz 1)Indikatoren-DRGs
 
 (Fundstelle: BGBl. I 2020, 2362 - 2385)
 Folgende DRGs des German Diagnosis Related Groups Fallpauschalen-Katalogs 2020, der auf der Internetseite des Instituts für das Entgeltsystem im Krankenhaus veröffentlicht ist, gelten als Indikatoren für das Vorhandensein eines pflegesensitiven Bereiches in Krankenhäusern:
-�
+
 | DRG  | DRG-Bezeichnung                                                                                                                                                                                                                                                |
 |------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | A01B | Lebertransplantation ohne kombinierte Dünndarmtransplantation mit Beatmung > 59 und < 180 Stunden oder mit Transplantatabstoßung oder mit kombinierter Nierentransplantation oder mit kombinierter Pankreastransplantation oder Alter < 6 Jahre                |
@@ -329,7 +329,7 @@ Folgende DRGs des German Diagnosis Related Groups Fallpauschalen-Katalogs 2020, 
 | Z02Z | Leberspende (Lebendspende)                                                                                                                                                                                                                                     |
 | Z03Z | Nierenspende (Lebendspende)                                                                                                                                                                                                                                    |
 
-�
+
 | DRG  | DRG-Bezeichnung                                                                                                                                                                                                                                               |
 |------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | B44A | Geriatrische frührehabilitative Komplexbehandlung bei Krankheiten und Störungen des Nervensystems mit neurologischer Komplexbehandlung oder anderer neurologischer Komplexbehandlung des akuten Schlaganfalls bei schwerer motorischer Funktionseinschränkung |
@@ -349,7 +349,7 @@ Folgende DRGs des German Diagnosis Related Groups Fallpauschalen-Katalogs 2020, 
 | T44Z | Geriatrische frührehabilitative Komplexbehandlung bei infektiösen und parasitären Krankheiten                                                                                                                                                                 |
 | U40Z | Geriatrische frührehabilitative Komplexbehandlung bei psychischen Krankheiten und Störungen                                                                                                                                                                   |
 
-�
+
 | DRG  | DRG-Bezeichnung                                                                                                                                                                                                                                             |
 |------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | A03A | Lungentransplantation mit Beatmung > 179 Stunden                                                                                                                                                                                                            |
@@ -377,7 +377,7 @@ Folgende DRGs des German Diagnosis Related Groups Fallpauschalen-Katalogs 2020, 
 | F36C | Intensivmedizinische Komplexbehandlung bei Krankheiten und Störungen des Kreislaufsystems mit komplizierenden Faktoren, > -/552/552 Aufwandspunkte ohne bestimmte OR-Prozedur, ohne bestimmten Aortenstent oder bestimmter mehrzeitiger komplexer Eingriff  |
 | F98A | Komplexe minimalinvasive Operationen an Herzklappen ohne minimalinvasiven Eingriff an mehreren Herzklappen, mit hochkomplexem Eingriff oder komplexer Diagnose oder Alter < 30 Jahre oder Implantation eines Wachstumsstents                                |
 
-�
+
 | DRG  | DRG-Bezeichnung                                                                                                                                                                                                                                                |
 |------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | A15A | Knochenmarktransplantation/Stammzelltransfusion, autogen, mit zweiter Knochenmarktransplantation/Stammzelltransfusion im selben Aufenthalt                                                                                                                     |
@@ -563,7 +563,7 @@ Folgende DRGs des German Diagnosis Related Groups Fallpauschalen-Katalogs 2020, 
 | Z01C | OR-Prozeduren bei anderen Zuständen, die zur Inanspruchnahme des Gesundheitswesens führen ohne komplexen Eingriff, ohne komplizierende Konstellation, ohne bestimmten Eingriff                                                                                 |
 | Z65Z | Beschwerden, Symptome, andere Anomalien und Nachbehandlung                                                                                                                                                                                                     |
 
-�
+
 | DRG  | DRG-Bezeichnung                                                                                                                                                                                                                                                |
 |------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | B12Z | Implantation eines Herzschrittmachers bei Krankheiten und Störungen des Nervensystems oder perkutan-transluminale Gefäßintervention an Herz und Koronargefäßen                                                                                                 |
@@ -642,7 +642,7 @@ Folgende DRGs des German Diagnosis Related Groups Fallpauschalen-Katalogs 2020, 
 | F98B | Komplexe minimalinvasive Operationen an Herzklappen ohne minimalinvasiven Eingriff an mehreren Herzklappen, ohne hochkomplexen Eingriff, ohne komplexe Diagnose, Alter > 29 Jahre, ohne Implantation eines Wachstumsstents, mit sehr komplexem Eingriff        |
 | F98C | Komplexe minimalinvasive Operationen an Herzklappen ohne minimalinvasiven Eingriff an mehreren Herzklappen, ohne hochkomplexen Eingriff, ohne komplexe Diagnose, Alter > 29 Jahre, ohne Implantation eines Wachstumsstents, ohne sehr komplexen Eingriff       |
 
-�
+
 | DRG  | DRG-Bezeichnung                                                                                                                                                                                                                                                |
 |------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | A07F | Beatmung > 999 Stunden ohne komplexe OR-Prozedur, ohne Polytrauma, Alter > 15 Jahre, ohne komplexe Diagnose, ohne komplizierende Konstellation, ohne intensivmedizinische Komplexbehandlung > 392/184/368 Aufwandspunkte, ohne Beatmung > 1799 Stunden         |
@@ -717,7 +717,7 @@ Folgende DRGs des German Diagnosis Related Groups Fallpauschalen-Katalogs 2020, 
 | W01A | Polytrauma mit Beatmung > 72 Stunden oder komplexen Eingriffen oder intensivmedizinische Komplexbehandlung > 392/368/552 Aufwandspunkte, mit Frührehabilitation                                                                                                |
 | W40Z | Frührehabilitation bei Polytrauma                                                                                                                                                                                                                              |
 
-�
+
 | DRG  | DRG-Bezeichnung                                                                                                                                                                                                                                                |
 |------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | A43Z | Frührehabilitation bei Wachkoma und Locked-in-Syndrom                                                                                                                                                                                                          |
@@ -728,7 +728,7 @@ Folgende DRGs des German Diagnosis Related Groups Fallpauschalen-Katalogs 2020, 
 | W01A | Polytrauma mit Beatmung > 72 Stunden oder komplexen Eingriffen oder intensivmedizinische Komplexbehandlung > 392/368/552 Aufwandspunkte, mit Frührehabilitation                                                                                                |
 | W40Z | Frührehabilitation bei Polytrauma                                                                                                                                                                                                                              |
 
-�
+
 | DRG  | DRG-Bezeichnung                                                                                                                                                                                                                                                |
 |------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | B80Z | Andere Kopfverletzungen                                                                                                                                                                                                                                        |

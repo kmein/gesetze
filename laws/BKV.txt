@@ -237,7 +237,7 @@ Funktionsweise der Fahrzeuge, insbesondere Motor, Kraft√ºbertragung, Fahrwerk, A
 
 17
 
-†
+
 
 b)
 
@@ -259,7 +259,7 @@ f)
 
 Dichtheit der Systeme sowie Funktionsf√§higkeit von elektrischen Anlagen, Kontrolleinrichtungen und Bremsanlagen pr√ºfen
 
-†
+
 
 15
 
@@ -285,7 +285,7 @@ Fahrzeuge und Hilfsmittel dem Verwendungszweck zuordnen
 
 6
 
-†
+
 
 b)
 
@@ -295,7 +295,7 @@ c)
 
 transportspezifische Skizzen anfertigen
 
-†
+
 
 20
 
@@ -327,7 +327,7 @@ a)
 
 Einfluss physikalischer und fahrtechnischer Parameter auf die Verkehrssicherheit beurteilen
 
-†
+
 
 22
 
@@ -357,13 +357,13 @@ Sozialvorschriften einhalten
 
 6*)
 
-†
+
 
 b)
 
 Verkehrsspezifische Rechtsvorschriften im Inland und in den Ziel- und Durchfahrtsl√§ndern einhalten
 
-†
+
 
 11*)
 
@@ -381,7 +381,7 @@ Gespr√§che situationsbezogen f√ºhren
 
 6
 
-†
+
 
 b)
 
@@ -391,7 +391,7 @@ c)
 
 Kommunikationsformen situationsbezogen anwenden
 
-†
+
 
 6
 
@@ -413,7 +413,7 @@ Unfallstellen, Gefahrenstellen und Fahrzeuge absichern
 
 6
 
-†
+
 
 b)
 
@@ -441,7 +441,7 @@ Funktion des Betriebes in der logistischen Kette beachten
 
 25
 
-†
+
 
 b)
 
@@ -481,7 +481,7 @@ Einflussfaktoren von Betriebskosten der Fahrzeuge ber√ºcksichtigen
 
 12
 
-†
+
 
 b)
 
@@ -503,7 +503,7 @@ a)
 
 Ziele, Aufgaben und Bedeutung qualit√§tssichernder Ma√ünahmen anhand betrieblicher Beispiele erl√§utern
 
-†
+
 
 4*)
 

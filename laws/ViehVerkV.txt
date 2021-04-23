@@ -478,7 +478,7 @@ Wer Schafe oder Ziegen in seinen Bestand Ã¼bernimmt, hat dies der zustÃ¤ndigen B
 
 - 1. :: so beschaffen sein, dass sie nur einmal verwendbar ist,
 - 2. :: auf der Vorderseite in deutlich lesbarer schwarzer Schrift auf weiÃŸem Grund mindestens folgende Angaben (Ohrmarkennummer) enthalten:
-  - a) :: â€DEâ€œ (fÃ¼r Deutschland),
+  - a) :: DEâ€œ (fÃ¼r Deutschland),
   - b) :: das fÃ¼r den Sitz des Betriebes geltende amtliche Kraftfahrzeugkennzeichen des Landkreises oder der kreisfreien Stadt und
   - c) :: die letzten sieben Zeichen der Registriernummer nach Â§ 26 Absatz 2 Satz 2.
 
@@ -549,8 +549,8 @@ vornehmen zu lassen.
 
 (2) Die letzten 15 Ziffern des Codes im Sinne des Artikels 2 Buchstabe n der DurchfÃ¼hrungsverordnung (EU) 2015/262 in Verbindung mit der ISO-Norm 11784<<FnR.F811033_03>>[[#F811033_03][3]]} mÃ¼ssen wie folgt zusammengesetzt sein:
 
-- 1. :: drei Ziffern â€276â€œ fÃ¼r â€Deutschlandâ€œ nach der ISO-Norm 3166<<FnR.F811033_04>>[[#F811033_04][4]]} ,
-- 2. :: zwei Ziffern â€02â€œ als Tierartenkenncode fÃ¼r â€Einhuferâ€œ,
+- 1. :: drei Ziffern 276â€œ fÃ¼r Deutschlandâ€œ nach der ISO-Norm 3166<<FnR.F811033_04>>[[#F811033_04][4]]} ,
+- 2. :: zwei Ziffern 02â€œ als Tierartenkenncode fÃ¼r Einhuferâ€œ,
 - 3. :: zehn Ziffern fÃ¼r den jeweils zu kennzeichnenden Einhufer.
 
 (3) Die zur Kennzeichnung nach Absatz 1 erforderlichen Transponder werden dem Tierhalter von der zustÃ¤ndigen BehÃ¶rde oder einer von dieser beauftragten Stelle auf Antrag und unter angemessener BerÃ¼cksichtigung des jÃ¤hrlichen Bedarfs zugeteilt.
@@ -786,41 +786,41 @@ gegebenenfalls\\
 Nummer der\\
 Bescheinigung
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 | 1                      | 2                        | 3                          | 4                 | 5               | 6                |
 |------------------------+--------------------------+----------------------------+-------------------+-----------------+------------------|
@@ -859,7 +859,7 @@ Anlage 4 - (zu Â§ 27 Absatz 3 und 4)Ohrmarken zur Rinderkennzeichnung
 1. Ohrmarke (Vorderseite/Lochteil)
 [[../normengrafiken/bgbl1_2020/j1170-1_0010.jpg]]
 Logo der ausgebenden BehÃ¶rde oder beauftragten Stelle
-LÃ¤ndercode â€DEâ€œ (Deutschland) und 10-stellige Nummer, (zweizeilig):\\
+LÃ¤ndercode DEâ€œ (Deutschland) und 10-stellige Nummer, (zweizeilig):\\
 -- 2 Ziffern (Bundesland)<<FnR.FnA1-F811033_05>>[[#FnA1-F811033_05][*]]}\\
 -- 8 Ziffern (individuell)
 erste Zeile: mindestens 5 mm
@@ -871,7 +871,7 @@ Breite 55 mm
 2. Ohrmarke (Vorderseite/Lochteil)
 [[../normengrafiken/bgbl1_2020/j1170-1_0020.jpg]]
 Logo der ausgebenden BehÃ¶rde oder beauftragten Stelle
-LÃ¤ndercode â€DEâ€œ (Deutschland) und 10-stellige Nummer<<FnR.FnA2-F811033_06>>[[#FnA2-F811033_06][*]]} ,(zweizeilig);
+LÃ¤ndercode DEâ€œ (Deutschland) und 10-stellige Nummer<<FnR.FnA2-F811033_06>>[[#FnA2-F811033_06][*]]} ,(zweizeilig);
 erste Zeile: mindestens 5 mm
 zweite Zeile: mindestens 18 mm
 Freiraum fÃ¼r handschriftliche Eintragungen
@@ -884,7 +884,7 @@ Breite 55 mm
 
 Logo der ausgebenden BehÃ¶rde oder beauftragten Stelle
 
-LÃ¤ndercode â€DEâ€œ (Deutschland) und 10-stellige Nummer[[#FnA2-F811033_06][*]]} ,(zweizeilig);
+LÃ¤ndercode DEâ€œ (Deutschland) und 10-stellige Nummer[[#FnA2-F811033_06][*]]} ,(zweizeilig);
 
 erste Zeile: mindestens 5 mm
 
@@ -896,7 +896,7 @@ HÃ¶he 58 mm
 
 Breite 55 mm
 
- 
+
 
 - <<FnA2-F811033_06>>[[#FnR.FnA2-F811033_06][*]] :: siehe 1. Ohrmarke (Vorderseite/Lochteil)
 
@@ -973,57 +973,57 @@ Ohrmarkennummer des Muttertieres
 Zugang
 Abgang
 Bemerkungen<<FnR.FnA1-F811033_08>>[[#FnA1-F811033_08][2]]}
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Datum
 Vorheriger Tierhalter, Name und Anschrift oder Registriernummer des vorherigen Tierhalters oder Geburt im eigenen Betrieb
 Datum\\
 Name und Anschrift des Ãœbernehmers oder Regis-\\
 triernummer des Ãœbernehmers oder Tod im eigenen Betrieb
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - <<FnA1-F811033_07>>[[#FnR.FnA1-F811033_07][1]] :: m = mÃ¤nnlich, w = weiblich.
 - <<FnA1-F811033_08>>[[#FnR.FnA1-F811033_08][2]] :: Datum der Beantragung und des Erhalts einer Ersatzohrmarke; Ursprungsland bei nicht im Inland geborenen Tieren; ursprÃ¼ngliche Kennzeichnung von aus DrittlÃ¤ndern stammenden Tieren u. a.
 
@@ -1046,8 +1046,8 @@ Nummer 1
 Abschnitt A (Vorderseite/Dornteil)
 [[../normengrafiken/bgbl1_2020/j1170-1_0050.jpg]]
 Logo der ausgebenden BehÃ¶rde oder beauftragten Stelle
-LÃ¤ndercode â€DEâ€œ (Deutschland) und 12-stellige Nummer (zweizeilig):\\
--- â€01â€œ (Tierartenkenncode)\\
+LÃ¤ndercode DEâ€œ (Deutschland) und 12-stellige Nummer (zweizeilig):\\
+-- 01â€œ (Tierartenkenncode)\\
 -- 2 Ziffern (Bundesland)<<FnR.F811033_09>>[[#F811033_09][*]]}\\
 -- 8 Ziffern (individuell)
 MindestgrÃ¶ÃŸe der Ohrmarke
@@ -1066,13 +1066,13 @@ MindestgrÃ¶ÃŸe\\
 der Ohrmarke
 25 mm
 HÃ¶he 25 mm
- 
+
 Breite 25 mm
 Abschnitt C (RÃ¼ckseite/Lochteil)
 Unterabschnitt A
 Unterabschnitt B
 [[../normengrafiken/bgbl1_2020/j1170-1_0080.jpg]]
-LÃ¤ndercode â€DEâ€œ\\
+LÃ¤ndercode DEâ€œ\\
 (Deutschland) und\\
 -- Kfz-Kennzeichen\\
 -- letzte sieben Ziffern\\
@@ -1080,7 +1080,7 @@ der nach Â§ 26 Ab-\\
 satz 2 Satz 2 erteilten\\
 Registriernummer
 [[../normengrafiken/bgbl1_2020/j1170-1_0090.jpg]]
-LÃ¤ndercode â€DEâ€œ (Deutschland) und\\
+LÃ¤ndercode DEâ€œ (Deutschland) und\\
 -- Kfz-Kennzeichen\\
 -- letzte sieben Ziffern der nach Â§ 26 Absatz 2 Satz 2 erteilten Registriernummer
 Mindestdurchmesser\\
@@ -1089,13 +1089,13 @@ MindestgrÃ¶ÃŸe\\
 der Ohrmarke
 25 mm
 HÃ¶he 25 mm
- 
+
 Breite 25 mm
 Nummer 2
 Abschnitt A (Vorderseite/Dornteil)
 [[../normengrafiken/bgbl1_2020/j1170-1_0100.jpg]]
 Logo der ausgebenden BehÃ¶rde oder beauftragten Stelle
-LÃ¤ndercode â€DEâ€œ (Deutschland) und\\
+LÃ¤ndercode DEâ€œ (Deutschland) und\\
 -- Kfz-Kennzeichen\\
 -- letzte sieben Ziffern der nach Â§ 26 Absatz 2 Satz 2 erteilten\\
 Registriernummer
@@ -1112,8 +1112,8 @@ Nummer 3
 Abschnitt A (Vorderseite/Loch- und Dornteil, mit Transponder)
 [[../normengrafiken/bgbl1_2020/j1170-1_0120.jpg]]
 Logo der ausgebenden BehÃ¶rde oder beauftragten Stelle
-LÃ¤ndercode â€DEâ€œ (Deutschland) und 12-stellige Nummer (einzeilig):\\
--- â€01â€œ (Tierartenkenncode)\\
+LÃ¤ndercode DEâ€œ (Deutschland) und 12-stellige Nummer (einzeilig):\\
+-- 01â€œ (Tierartenkenncode)\\
 -- 2 Ziffern (Bundesland)*\\
 -- 8 Ziffern (individuell)
 MindestgrÃ¶ÃŸe der Ohrmarke
@@ -1122,8 +1122,8 @@ Breite 9 mm (Corpus) und 11 mm (Loch- und Dornteil)
 Abschnitt B (Vorderseite/Loch- und Dornteil, ohne Transponder)
 [[../normengrafiken/bgbl1_2020/j1170-1_0130.jpg]]
 Logo der ausgebenden BehÃ¶rde oder beauftragten Stelle
-LÃ¤ndercode â€DEâ€œ (Deutschland) und 12-stellige Nummer (einzeilig):\\
--- â€01â€œ (Tierartenkenncode)\\
+LÃ¤ndercode DEâ€œ (Deutschland) und 12-stellige Nummer (einzeilig):\\
+-- 01â€œ (Tierartenkenncode)\\
 -- 2 Ziffern (Bundesland)*\\
 -- 8 Ziffern (individuell)
 MindestgrÃ¶ÃŸe der Ohrmarke
@@ -1146,4 +1146,4 @@ Anlage 12 - (zu Â§ 42 Absatz 1)Bestandsregister fÃ¼r Schweinehaltungen
 
 (Fundstelle: BGBl. I 2020, 1205)
 Seite: ...
- 
+

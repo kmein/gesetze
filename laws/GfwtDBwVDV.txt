@@ -199,19 +199,19 @@ In den Fällen, in denen der Vorbereitungsdienst nach § 3 Nummer 2 durchgeführ
 § 19 - Ausbildungsplan
 
 (1) Vor Beginn der Ausbildung erstellt die oder der Ausbildungsbeauftragte im Einvernehmen mit der Ausbildungsleitung für jede Anwärterin und jeden Anwärter einen Ausbildungsplan.
-(2) Im Ausbildungsplan sind die konkreten Zeiträume der einzelnen Ausbildungsabschnitte und die konkreten Ausbildungsstationen festzulegen. Die Zeiträume für die Durchführung des Lehrgangs �Menschenführung“ (§ 22) und des Lehrgangs �Organisation, Recht und Betriebswirtschaftslehre“ (§ 23) sind mit dem Bildungszentrum der Bundeswehr abzustimmen.
+(2) Im Ausbildungsplan sind die konkreten Zeiträume der einzelnen Ausbildungsabschnitte und die konkreten Ausbildungsstationen festzulegen. Die Zeiträume für die Durchführung des Lehrgangs Menschenführung“ (§ 22) und des Lehrgangs Organisation, Recht und Betriebswirtschaftslehre“ (§ 23) sind mit dem Bildungszentrum der Bundeswehr abzustimmen.
 (3) Die Anwärterin oder der Anwärter erhält eine Ausfertigung des Ausbildungsplans.
 
 § 20 - Ausbildungsabschnitte
 
 (1) Der Vorbereitungsdienst besteht aus den folgenden Ausbildungsabschnitten:
 
-- 1. :: dem Lehrgang �Feuerwehrtechnische Grundausbildung für den gehobenen feuerwehrtechnischen Dienst“,
-- 2. :: dem Lehrgang �Menschenführung“,
-- 3. :: dem Lehrgang �Organisation, Recht und Betriebswirtschaftslehre“,
-- 4. :: dem Lehrgang �Gruppenführung“,
-- 5. :: dem Lehrgang �Zugführung“,
-- 6. :: dem Lehrgang �Verbandsführung“ und
+- 1. :: dem Lehrgang Feuerwehrtechnische Grundausbildung für den gehobenen feuerwehrtechnischen Dienst“,
+- 2. :: dem Lehrgang Menschenführung“,
+- 3. :: dem Lehrgang Organisation, Recht und Betriebswirtschaftslehre“,
+- 4. :: dem Lehrgang Gruppenführung“,
+- 5. :: dem Lehrgang Zugführung“,
+- 6. :: dem Lehrgang Verbandsführung“ und
 - 7. :: der praktischen Ausbildung.
 
 Die Lehrgänge und die praktische Ausbildung können durch Exkursionen ergänzt werden.
@@ -231,18 +231,18 @@ Die Lehrgänge und die praktische Ausbildung können durch Exkursionen ergänzt 
 Die Lehrgänge können mit Zustimmung des Bundesministeriums der Verteidigung auch an einer anderen Dienststelle der Bundeswehr, an einer kooperierenden Hochschuleinrichtung oder an einer Lehreinrichtung der Länder durchgeführt werden. In diesem Fall gelten die Lehrpläne nach Absatz 4 entsprechend.
 
 
-§ 21 - Lehrgang �Feuerwehrtechnische Grundausbildung für den gehobenen feuerwehrtechnischen Dienst“
+§ 21 - Lehrgang Feuerwehrtechnische Grundausbildung für den gehobenen feuerwehrtechnischen Dienst“
 
-Im Lehrgang �Feuerwehrtechnische Grundausbildung für den gehobenen feuerwehrtechnischen Dienst“ werden den Anwärterinnen und Anwärtern allgemeine berufsbezogene Grundlagen und fachbezogene Grundlagen für den Feuerwehrdienst vermittelt. Sie werden zur Brandbekämpfung sowie zur Hilfeleistung, insbesondere zur Rettung von Menschen und Tieren aus lebensbedrohlichen Lagen, befähigt. Es werden ihnen die notwendigen Kenntnisse in den folgenden Bereichen vermittelt:
+Im Lehrgang Feuerwehrtechnische Grundausbildung für den gehobenen feuerwehrtechnischen Dienst“ werden den Anwärterinnen und Anwärtern allgemeine berufsbezogene Grundlagen und fachbezogene Grundlagen für den Feuerwehrdienst vermittelt. Sie werden zur Brandbekämpfung sowie zur Hilfeleistung, insbesondere zur Rettung von Menschen und Tieren aus lebensbedrohlichen Lagen, befähigt. Es werden ihnen die notwendigen Kenntnisse in den folgenden Bereichen vermittelt:
 
 - 1. :: einsatztaktische und einsatztechnische Grundlagen der Brandbekämpfung und der Hilfeleistung,
 - 2. :: Funktion und Einsatz der Rettungsgeräte sowie
 - 3. :: Fahrzeugtechnik und feuerwehrtechnische Ausstattung der Feuerwehrfahrzeuge.
 
 
-§ 22 - Lehrgang �Menschenführung“
+§ 22 - Lehrgang Menschenführung“
 
-Im Lehrgang �Menschenführung“ werden den Anwärterinnen und Anwärtern die notwendigen Kenntnisse in den folgenden Bereichen vermittelt:
+Im Lehrgang Menschenführung“ werden den Anwärterinnen und Anwärtern die notwendigen Kenntnisse in den folgenden Bereichen vermittelt:
 
 - 1. :: Menschenführung,
 - 2. :: Führungs- und Organisationskultur sowie
@@ -251,18 +251,18 @@ Im Lehrgang �Menschenführung“ werden den Anwärterinnen und Anwärtern die n
 Der Lehrgang ist insbesondere auf die Vermittlung der notwendigen Kenntnisse für die Wahrnehmung der Aufgaben als Führungskraft im Feuerwehreinsatz in zeitkritischen und psychisch belastenden Situationen ausgerichtet.
 
 
-§ 23 - Lehrgang �Organisation, Recht und Betriebswirtschaftslehre“
+§ 23 - Lehrgang Organisation, Recht und Betriebswirtschaftslehre“
 
-Im Lehrgang �Organisation, Recht und Betriebswirtschaftslehre“ werden den Anwärterinnen und Anwärtern die notwendigen Kenntnisse in den folgenden Bereichen vermittelt:
+Im Lehrgang Organisation, Recht und Betriebswirtschaftslehre“ werden den Anwärterinnen und Anwärtern die notwendigen Kenntnisse in den folgenden Bereichen vermittelt:
 
 - 1. :: Staatsrecht, Personalrecht, Einsatzrecht und Katastrophenschutzrecht,
 - 2. :: Aufbau und Organisation der Bundeswehr sowie Grundlagen und Grundzüge des Verwaltungshandelns und
 - 3. :: Grundlagen der Betriebswirtschaftslehre.
 
 
-§ 24 - Lehrgang �Gruppenführung“
+§ 24 - Lehrgang Gruppenführung“
 
-Im Lehrgang �Gruppenführung“ werden den Anwärterinnen und Anwärtern aufbauend auf dem Lehrgang �Feuerwehrtechnische Grundausbildung für den gehobenen feuerwehrtechnischen Dienst“ die Kenntnisse für den Einsatz als Einheitsführerin oder Einheitsführer vermittelt. Die Anwärterinnen und Anwärter sollen in der Lage sein,
+Im Lehrgang Gruppenführung“ werden den Anwärterinnen und Anwärtern aufbauend auf dem Lehrgang Feuerwehrtechnische Grundausbildung für den gehobenen feuerwehrtechnischen Dienst“ die Kenntnisse für den Einsatz als Einheitsführerin oder Einheitsführer vermittelt. Die Anwärterinnen und Anwärter sollen in der Lage sein,
 
 - 1. :: Einheiten in Trupp-, Staffel- oder Gruppenstärke als selbständige taktische Einheit zu führen,
 - 2. :: taktische Aufgaben nach Weisung innerhalb eines Zuges eigenständig auszuführen,
@@ -271,18 +271,18 @@ Im Lehrgang �Gruppenführung“ werden den Anwärterinnen und Anwärtern aufbau
 - 5. :: die Aus- und Fortbildung auf Standortebene durchzuführen.
 
 
-§ 25 - Lehrgang �Zugführung“
+§ 25 - Lehrgang Zugführung“
 
-Im Lehrgang �Zugführung“ werden den Anwärterinnen und Anwärtern aufbauend auf dem Lehrgang �Gruppenführung“ die Kenntnisse für den Einsatz als Zugführerin oder Zugführer vermittelt. Die Anwärterinnen und Anwärter sollen in der Lage sein,
+Im Lehrgang Zugführung“ werden den Anwärterinnen und Anwärtern aufbauend auf dem Lehrgang Gruppenführung“ die Kenntnisse für den Einsatz als Zugführerin oder Zugführer vermittelt. Die Anwärterinnen und Anwärter sollen in der Lage sein,
 
 - 1. :: taktische Einheiten bis zur Stärke eines erweiterten Zuges selbständig zu führen,
 - 2. :: die Funktion der Einsatzleitung bis zur Stärke eines erweiterten Zuges wahrzunehmen und
 - 3. :: im vorbeugenden Brandschutz auf Standortebene mitzuwirken sowie Einrichtungen des vorbeugenden Brandschutzes im Feuerwehreinsatz taktisch richtig einzusetzen.
 
 
-§ 26 - Lehrgang �Verbandsführung“
+§ 26 - Lehrgang Verbandsführung“
 
-Im Lehrgang �Verbandsführung“ werden den Anwärterinnen und Anwärtern aufbauend auf dem Lehrgang �Zugführung“ die Kenntnisse für den Einsatz als Verbandsführerin oder Verbandsführer vermittelt. Die Anwärterinnen und Anwärter werden befähigt
+Im Lehrgang Verbandsführung“ werden den Anwärterinnen und Anwärtern aufbauend auf dem Lehrgang Zugführung“ die Kenntnisse für den Einsatz als Verbandsführerin oder Verbandsführer vermittelt. Die Anwärterinnen und Anwärter werden befähigt
 
 - 1. :: zum Führen von Einheiten über dem erweiterten Zug,
 - 2. :: zur Leitung von Einsätzen mit Einheiten verschiedener Aufgabenbereiche und
@@ -291,7 +291,7 @@ Im Lehrgang �Verbandsführung“ werden den Anwärterinnen und Anwärtern aufba
 
 § 27 - Praktische Ausbildung
 
-(1) In der praktischen Ausbildung werden die Anwärterinnen und Anwärter mit allen Grundlagen der Zusammenarbeit innerhalb der militärischen Dienststellen und der Feuerwachen sowie dem Zusammenwirken mit anderen Organisationseinheiten vertraut gemacht. Die praktische Ausbildung ist insbesondere auf die Vermittlung praxisorientierter Kenntnisse, Fertigkeiten und Fähigkeiten ausgerichtet. Darüber hinaus werden die Kenntnisse, die in den Lehrgängen �Feuerwehrtechnische Grundausbildung für den gehobenen feuerwehrtechnischen Dienst“, �Gruppenführung“ und �Zugführung“ erworben worden sind, durch praktische Übungen und Einsatzaufgaben in den anzuwendenden Einsatztechniken vertieft.
+(1) In der praktischen Ausbildung werden die Anwärterinnen und Anwärter mit allen Grundlagen der Zusammenarbeit innerhalb der militärischen Dienststellen und der Feuerwachen sowie dem Zusammenwirken mit anderen Organisationseinheiten vertraut gemacht. Die praktische Ausbildung ist insbesondere auf die Vermittlung praxisorientierter Kenntnisse, Fertigkeiten und Fähigkeiten ausgerichtet. Darüber hinaus werden die Kenntnisse, die in den Lehrgängen Feuerwehrtechnische Grundausbildung für den gehobenen feuerwehrtechnischen Dienst“, Gruppenführung“ und Zugführung“ erworben worden sind, durch praktische Übungen und Einsatzaufgaben in den anzuwendenden Einsatztechniken vertieft.
 (2) Die praktische Ausbildung wird in mehreren Abschnitten bei der Bundeswehr-Feuerwehr und in Dienststellen mit Brandschutzzuständigkeit durchgeführt. Die Einstellungsbehörde kann im Einvernehmen mit dem Bundesamt für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr vorsehen, dass die praktische Ausbildung teilweise auch bei Berufsfeuerwehren der Kommunen oder bei hauptberuflichen Werkfeuerwehren durchgeführt wird.
 (3) Aufgaben, die nicht dem Zweck der Ausbildung entsprechen, dürfen den Anwärterinnen und Anwärtern nicht übertragen werden.
 
@@ -357,10 +357,10 @@ Die Laufbahnprüfung besteht aus
 
 (1) Mitglieder einer Prüfungskommission für die Bewertung der schriftlichen Prüfung sind
 
-- 1. :: für die Klausur zum Prüfungsgebiet �Organisation, Recht und Betriebswirtschaftslehre“ (§ 39 Absatz 2 Nummer 1)
+- 1. :: für die Klausur zum Prüfungsgebiet Organisation, Recht und Betriebswirtschaftslehre“ (§ 39 Absatz 2 Nummer 1)
   - a) :: eine Lehrkraft des Bildungszentrums der Bundeswehr oder eine Beamtin oder ein Beamter des höheren nichttechnischen Verwaltungsdienstes als Vorsitzende oder Vorsitzender und
   - b) :: eine Beamtin oder ein Beamter des höheren oder gehobenen nichttechnischen Verwaltungsdienstes als Beisitzende oder Beisitzender sowie
-- 2. :: für die Klausuren zu den Prüfungsgebieten �vorbeugender Brandschutz“ und �abwehrender Brandschutz“ (§ 39 Absatz 2 Nummer 2 und 3)
+- 2. :: für die Klausuren zu den Prüfungsgebieten vorbeugender Brandschutz“ und abwehrender Brandschutz“ (§ 39 Absatz 2 Nummer 2 und 3)
   - a) :: jeweils eine Beamtin oder ein Beamter des höheren feuerwehrtechnischen Verwaltungsdienstes in der Bundeswehr als Vorsitzende oder Vorsitzender und
   - b) :: jeweils eine Beamtin oder ein Beamter des höheren oder gehobenen feuerwehrtechnischen Verwaltungsdienstes in der Bundeswehr als Beisitzende oder Beisitzender.
 
@@ -403,13 +403,13 @@ Die Laufbahnprüfung besteht aus
 (1) In der schriftlichen Prüfung sollen die Anwärterinnen und Anwärter zeigen, dass sie die Aufgaben im Bereich der Feuerwehr rasch und sicher erfassen, in kurzer Frist mit den zugelassenen Hilfsmitteln lösen und das Ergebnis knapp und übersichtlich darstellen können.
 (2) Die schriftliche Prüfung besteht aus drei Klausuren. Je eine Klausur wird geschrieben
 
-- 1. :: im Prüfungsgebiet �Organisation, Recht und Betriebswirtschaftslehre“,
-- 2. :: im Prüfungsgebiet �vorbeugender Brandschutz“ und
-- 3. :: im Prüfungsgebiet �abwehrender Brandschutz“.
+- 1. :: im Prüfungsgebiet Organisation, Recht und Betriebswirtschaftslehre“,
+- 2. :: im Prüfungsgebiet vorbeugender Brandschutz“ und
+- 3. :: im Prüfungsgebiet abwehrender Brandschutz“.
 
 (3) Die Bearbeitungszeit für die drei Klausuren beträgt insgesamt zwölf Zeitstunden. Jede Klausur muss mindestens auf drei Zeitstunden ausgerichtet sein.
-(4) Die Aufgaben für die Klausur im Prüfungsgebiet �Organisation, Recht und Betriebswirtschaftslehre“ bestimmt das Prüfungsamt auf Vorschlag des Bildungszentrums der Bundeswehr. Die Aufgaben für die beiden übrigen Klausuren bestimmt es auf Vorschlag des Bundesamts für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr. Die Prüfungsvorschläge und -aufgaben unterliegen der Verschwiegenheitspflicht und sind bis zum Beginn der jeweiligen Prüfung unter Verschluss zu halten.
-(5) Die Klausur im Prüfungsgebiet �Organisation, Recht und Betriebswirtschaftslehre“ soll am Ende des Lehrgangs �Organisation, Recht und Betriebswirtschaftslehre“ (§ 23) geschrieben werden. Die beiden übrigen Klausuren sollen am Ende des Lehrgangs �Zugführung“ (§ 25) geschrieben werden.
+(4) Die Aufgaben für die Klausur im Prüfungsgebiet Organisation, Recht und Betriebswirtschaftslehre“ bestimmt das Prüfungsamt auf Vorschlag des Bildungszentrums der Bundeswehr. Die Aufgaben für die beiden übrigen Klausuren bestimmt es auf Vorschlag des Bundesamts für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr. Die Prüfungsvorschläge und -aufgaben unterliegen der Verschwiegenheitspflicht und sind bis zum Beginn der jeweiligen Prüfung unter Verschluss zu halten.
+(5) Die Klausur im Prüfungsgebiet Organisation, Recht und Betriebswirtschaftslehre“ soll am Ende des Lehrgangs Organisation, Recht und Betriebswirtschaftslehre“ (§ 23) geschrieben werden. Die beiden übrigen Klausuren sollen am Ende des Lehrgangs Zugführung“ (§ 25) geschrieben werden.
 
 § 40 - Durchführung der schriftlichen Prüfung
 

@@ -23,18 +23,18 @@ Die Beschleunigung des Ausbaus der länderübergreifenden und grenzüberschreite
 
 Im Sinne dieses Gesetzes ist oder sind:
 
-- 1. :: �Änderung oder Erweiterung einer Leitung“ die Änderung oder der Ausbau einer Leitung einschließlich Änderungen des Betriebskonzepts in einer Bestandstrasse, wobei die bestehende Leitung grundsätzlich fortbestehen soll; hierzu zählen auch
+- 1. :: Änderung oder Erweiterung einer Leitung“ die Änderung oder der Ausbau einer Leitung einschließlich Änderungen des Betriebskonzepts in einer Bestandstrasse, wobei die bestehende Leitung grundsätzlich fortbestehen soll; hierzu zählen auch
   - a) :: die Mitführung von zusätzlichen Seilsystemen auf einer bestehenden Maststruktur einschließlich einer gegebenenfalls hierfür erforderlichen Erhöhung einzelner Masten um bis zu 20 Prozent ohne wesentliche Änderungen des Fundaments (Zubeseilung),
   - b) :: die Ersetzung eines bereits bestehenden Seilsystems durch ein neues leistungsstärkeres Seilsystem einschließlich einer gegebenenfalls hierfür erforderlichen Erhöhung einzelner Masten um bis zu 20 Prozent ohne wesentliche Änderungen des Fundaments (Umbeseilung) und
   - c) :: Maßnahmen, die unter Beibehaltung der Masten lediglich die Auslastung der Leitung anpassen und keine oder allenfalls geringfügige und punktuelle bauliche Änderungen erfordern (Änderung des Betriebskonzepts),
-- 2. :: �Bestandstrasse“ die Trasse einer bestehenden oder bereits zugelassenen Hoch- oder Höchstspannungsleitung,
-- 3. :: �Errichtung“ der Neubau einer Leitung einschließlich des Ersatz- und Parallelneubaus,
-- 4. :: �Ersatzneubau“ die Errichtung einer neuen Leitung in oder unmittelbar neben einer Bestandstrasse, wobei die bestehende Leitung innerhalb von drei Jahren ersetzt wird; die Errichtung erfolgt in der Bestandstrasse, wenn sich bei Freileitungen die Mastfundamente und bei Erdkabeln die Kabel in der Bestandstrasse befinden; die Errichtung erfolgt unmittelbar neben der Bestandstrasse, wenn ein Abstand von 200 Metern zwischen den Trassenachsen nicht überschritten wird,
-- 5. :: �Parallelneubau“ die Errichtung einer neuen Leitung unmittelbar neben einer Bestandstrasse, wobei die bestehende Leitung fortbestehen soll; die Errichtung erfolgt unmittelbar neben der Bestandstrasse, wenn ein Abstand von 200 Metern zwischen den Trassenachsen nicht überschritten wird,
-- 6. :: �Trasse“ die von einem Leitungsvorhaben in Anspruch genommene oder in ihrer sonstigen Nutzbarkeit beschränkte Fläche,
-- 7. :: �Trassenkorridore“ die als Entscheidung der Bundesfachplanung auszuweisenden Gebietsstreifen, innerhalb derer die Trasse einer Stromleitung verläuft und für die die Raumverträglichkeit festgestellt werden soll oder festgestellt ist,
-- 8. :: �Vereinigungen“ nach § 3 des Umwelt-Rechtsbehelfsgesetzes anerkannte Umweltvereinigungen, die in ihrem satzungsgemäßen Aufgabenbereich berührt sind,
-- 9. :: �Vorhabenträger“ der für die Durchführung einer Maßnahme im nach § 12c Absatz 4 Satz 1 des Energiewirtschaftsgesetzes bestätigten Netzentwicklungsplan aufgeführte oder nach § 12c Absatz 8 des Energiewirtschaftsgesetzes bestimmte verantwortliche Betreiber von Übertragungsnetzen.
+- 2. :: Bestandstrasse“ die Trasse einer bestehenden oder bereits zugelassenen Hoch- oder Höchstspannungsleitung,
+- 3. :: Errichtung“ der Neubau einer Leitung einschließlich des Ersatz- und Parallelneubaus,
+- 4. :: Ersatzneubau“ die Errichtung einer neuen Leitung in oder unmittelbar neben einer Bestandstrasse, wobei die bestehende Leitung innerhalb von drei Jahren ersetzt wird; die Errichtung erfolgt in der Bestandstrasse, wenn sich bei Freileitungen die Mastfundamente und bei Erdkabeln die Kabel in der Bestandstrasse befinden; die Errichtung erfolgt unmittelbar neben der Bestandstrasse, wenn ein Abstand von 200 Metern zwischen den Trassenachsen nicht überschritten wird,
+- 5. :: Parallelneubau“ die Errichtung einer neuen Leitung unmittelbar neben einer Bestandstrasse, wobei die bestehende Leitung fortbestehen soll; die Errichtung erfolgt unmittelbar neben der Bestandstrasse, wenn ein Abstand von 200 Metern zwischen den Trassenachsen nicht überschritten wird,
+- 6. :: Trasse“ die von einem Leitungsvorhaben in Anspruch genommene oder in ihrer sonstigen Nutzbarkeit beschränkte Fläche,
+- 7. :: Trassenkorridore“ die als Entscheidung der Bundesfachplanung auszuweisenden Gebietsstreifen, innerhalb derer die Trasse einer Stromleitung verläuft und für die die Raumverträglichkeit festgestellt werden soll oder festgestellt ist,
+- 8. :: Vereinigungen“ nach § 3 des Umwelt-Rechtsbehelfsgesetzes anerkannte Umweltvereinigungen, die in ihrem satzungsgemäßen Aufgabenbereich berührt sind,
+- 9. :: Vorhabenträger“ der für die Durchführung einer Maßnahme im nach § 12c Absatz 4 Satz 1 des Energiewirtschaftsgesetzes bestätigten Netzentwicklungsplan aufgeführte oder nach § 12c Absatz 8 des Energiewirtschaftsgesetzes bestimmte verantwortliche Betreiber von Übertragungsnetzen.
 
 
 § 3a - Zusammenarbeit von Bund und Ländern

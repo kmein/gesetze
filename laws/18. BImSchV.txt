@@ -181,13 +181,13 @@ Ermittlungs- und Beurteilungsverfahren
 
 \\
 
-†
+
 
 an Werktagen
 
 T(tief)r = Summe i T(tief)i = 12 h,
 
-†
+
 
 an Sonn- und Feiertagen
 
@@ -197,9 +197,9 @@ b)
 
 f√ºr den Tag innerhalb der Ruhezeiten
 
-†
 
-†
+
+
 
 T(tief)r = Summe i T(tief)i = 2 h,
 
@@ -209,9 +209,9 @@ f√ºr die Nacht
 
 T(tief)r = Summe i T(tief)i = 1 h
 
-†
 
-†
+
+
 
 BGBl. I 1991, 1593)
 

@@ -6,43 +6,43 @@ Ausfertigungsdatum: 15.03.1974
 
 InhaltsÃ¼bersicht
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 AnlageÂ (zuÂ Â§Â 3Â AbsatzÂ 6)Â Kriterien zur Bestimmung des Standes der Technik
 
 Â§ 1 - Zweck des Gesetzes
@@ -827,11 +827,11 @@ Dieser Teil des Gesetzes gilt fÃ¼r den UmgebungslÃ¤rm, dem Menschen insbesondere
 
 Im Sinne dieses Gesetzes bezeichnen die Begriffe
 
-- 1. :: â€UmgebungslÃ¤rmâ€œ belÃ¤stigende oder gesundheitsschÃ¤dliche GerÃ¤usche im Freien, die durch AktivitÃ¤ten von Menschen verursacht werden, einschlieÃŸlich des LÃ¤rms, der von Verkehrsmitteln, StraÃŸenverkehr, Eisenbahnverkehr, Flugverkehr sowie GelÃ¤nden fÃ¼r industrielle TÃ¤tigkeiten ausgeht;
-- 2. :: â€Ballungsraumâ€œ ein Gebiet mit einer Einwohnerzahl von Ã¼ber 100Â 000 und einer BevÃ¶lkerungsdichte von mehr als 1Â 000 Einwohnern pro Quadratkilometer;
-- 3. :: â€HauptverkehrsstraÃŸeâ€œ eine BundesfernstraÃŸe, LandesstraÃŸe oder auch sonstige grenzÃ¼berschreitende StraÃŸe, jeweils mit einem Verkehrsaufkommen von Ã¼ber drei Millionen Kraftfahrzeugen pro Jahr;
-- 4. :: â€Haupteisenbahnstreckeâ€œ ein Schienenweg von Eisenbahnen nach dem Allgemeinen Eisenbahngesetz mit einem Verkehrsaufkommen von Ã¼ber 30Â 000 ZÃ¼gen pro Jahr;
-- 5. :: â€GroÃBewegungâ€œ der Start oder die Landung bezeichnet wird, hiervon sind ausschlieÃŸlich der Ausbildung dienende Bewegungen mit Leichtflugzeugen ausgenommen.
+- 1. :: UmgebungslÃ¤rmâ€œ belÃ¤stigende oder gesundheitsschÃ¤dliche GerÃ¤usche im Freien, die durch AktivitÃ¤ten von Menschen verursacht werden, einschlieÃŸlich des LÃ¤rms, der von Verkehrsmitteln, StraÃŸenverkehr, Eisenbahnverkehr, Flugverkehr sowie GelÃ¤nden fÃ¼r industrielle TÃ¤tigkeiten ausgeht;
+- 2. :: Ballungsraumâ€œ ein Gebiet mit einer Einwohnerzahl von Ã¼ber 100Â 000 und einer BevÃ¶lkerungsdichte von mehr als 1Â 000 Einwohnern pro Quadratkilometer;
+- 3. :: HauptverkehrsstraÃŸeâ€œ eine BundesfernstraÃŸe, LandesstraÃŸe oder auch sonstige grenzÃ¼berschreitende StraÃŸe, jeweils mit einem Verkehrsaufkommen von Ã¼ber drei Millionen Kraftfahrzeugen pro Jahr;
+- 4. :: Haupteisenbahnstreckeâ€œ ein Schienenweg von Eisenbahnen nach dem Allgemeinen Eisenbahngesetz mit einem Verkehrsaufkommen von Ã¼ber 30Â 000 ZÃ¼gen pro Jahr;
+- 5. :: GroBewegungâ€œ der Start oder die Landung bezeichnet wird, hiervon sind ausschlieÃŸlich der Ausbildung dienende Bewegungen mit Leichtflugzeugen ausgenommen.
 
 
 Â§ 47c - LÃ¤rmkarten

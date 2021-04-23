@@ -132,7 +132,7 @@ Die Rückgabe ist zu begründen. Der oder dem Vorschlagenden ist Gelegenheit zu 
 - 3. :: eine vorgedruckte Erklärung, dass die oder der Wahlberechtigte den Stimmzettel
   - a) :: persönlich und geheim gekennzeichnet hat oder
   - b) :: im Fall eines körperlichen Gebrechens gemäß ihrem oder seinem erklärten Willen durch eine Person des Vertrauens hat kennzeichnen lassen,
-- 4. :: einen an den Wahlvorstand adressierten Freiumschlag mit der oder dem Wahlberechtigten als Absenderin oder Absender und der Aufschrift �Schriftliche Stimmabgabe“ sowie
+- 4. :: einen an den Wahlvorstand adressierten Freiumschlag mit der oder dem Wahlberechtigten als Absenderin oder Absender und der Aufschrift Schriftliche Stimmabgabe“ sowie
 - 5. :: ein Begleitschreiben, in dem das Wahlverfahren beschrieben und der Tag für den fristgerechten Eingang der Wahlbriefe genannt ist.
 
 (4) Der Wahlvorstand hat die Bereitstellung der Unterlagen für die Briefwahl im Wählerverzeichnis zu vermerken.
@@ -142,7 +142,7 @@ Die Rückgabe ist zu begründen. Der oder dem Vorschlagenden ist Gelegenheit zu 
 (1) Die Wahlberechtigten kennzeichnen den Stimmzettel und legen ihn in den Stimmzettelumschlag. Der Stimmzettelumschlag darf nur den Stimmzettel enthalten. Die Wahlberechtigten haben durch Unterzeichnung der vorgedruckten Erklärung zu bestätigen, dass sie den Stimmzettel persönlich und geheim gekennzeichnet haben. Die Wahlberechtigten legen den Stimmzettelumschlag zusammen mit der Erklärung in den Freiumschlag und senden den Wahlbrief an den Wahlvorstand.
 (2) Im Fall eines körperlichen Gebrechens können die Wahlberechtigten den Stimmzettel durch eine Person des Vertrauens kennzeichnen lassen. Die Person des Vertrauens hat durch Unterzeichnung der vorgedruckten Erklärung zu bestätigen, dass sie den Stimmzettel gemäß dem erklärten Willen der oder des Wahlberechtigten gekennzeichnet hat. Die Person des Vertrauens legt den Stimmzettelumschlag zusammen mit der Erklärung in den Freiumschlag und sendet den Wahlbrief an den Wahlvorstand. Die Person des Vertrauens ist zur Geheimhaltung über Kenntnisse verpflichtet, die sie bei der Hilfestellung bei der Wahl durch einen anderen erlangt hat.
 (3) Die beim Wahlvorstand eingegangenen Wahlbriefe sind ungeöffnet und sicher vor dem Zugriff Dritter aufzubewahren.
-(4) Der Wahlvorstand entnimmt den Wahlbriefen unmittelbar vor Abschluss der Wahl die Stimmzettelumschläge und legt diese, wenn die unterschriebene Erklärung beiliegt, ungeöffnet in eine verschlossene Wahlurne. Mindestens zwei Mitglieder des Wahlvorstands vermerken die Stimmabgabe im Wählerverzeichnis. Stimmzettelumschläge, denen keine unterschriebene Erklärung beigefügt ist, bleiben ungeöffnet und sind mit dem Vermerk �ungültig“ zu versehen; der Vermerk ist von einem Mitglied des Wahlvorstands zu unterschreiben.
+(4) Der Wahlvorstand entnimmt den Wahlbriefen unmittelbar vor Abschluss der Wahl die Stimmzettelumschläge und legt diese, wenn die unterschriebene Erklärung beiliegt, ungeöffnet in eine verschlossene Wahlurne. Mindestens zwei Mitglieder des Wahlvorstands vermerken die Stimmabgabe im Wählerverzeichnis. Stimmzettelumschläge, denen keine unterschriebene Erklärung beigefügt ist, bleiben ungeöffnet und sind mit dem Vermerk ungültig“ zu versehen; der Vermerk ist von einem Mitglied des Wahlvorstands zu unterschreiben.
 (5) Verspätet eingegangene Wahlbriefe bleiben ungeöffnet und werden vom Wahlvorstand mit einem Vermerk über den Zeitpunkt des Eingangs versehen.
 
 § 13 - Auszählung
@@ -375,7 +375,7 @@ Die Bewerberin oder der Bewerber muss die Bewerbung unterschreiben.
 - 3. :: einer vorgedruckten Erklärung, dass die oder der Wahlberechtigte den Stimmzettel
   - a) :: persönlich und geheim gekennzeichnet hat oder
   - b) :: im Fall eines körperlichen Gebrechens gemäß ihrem oder seinem erklärten Willen durch eine Person des Vertrauens hat kennzeichnen lassen,
-- 4. :: einem an den dezentralen Wahlvorstand adressierten Freiumschlag mit der oder dem Wahlberechtigten als Absenderin oder Absender und der Aufschrift �Schriftliche Stimmabgabe“ und
+- 4. :: einem an den dezentralen Wahlvorstand adressierten Freiumschlag mit der oder dem Wahlberechtigten als Absenderin oder Absender und der Aufschrift Schriftliche Stimmabgabe“ und
 - 5. :: einem Begleitschreiben, in denen das Wahlverfahren beschrieben und die Frist für die Rücksendung des Wahlbriefs genannt ist.
 
 
@@ -384,7 +384,7 @@ Die Bewerberin oder der Bewerber muss die Bewerbung unterschreiben.
 (1) Wählen darf nur, wer in das Wählerverzeichnis eingetragen ist. Die Wahlberechtigten haben jeweils eine Stimme.
 (2) Die Wahlberechtigten kennzeichnen den Stimmzettel und legen ihn in den Stimmzettelumschlag. Der Stimmzettelumschlag darf nur den Stimmzettel enthalten. Die Wahlberechtigten haben durch Unterzeichnung der vorgedruckten Erklärung zu bestätigen, dass sie den Stimmzettel persönlich und geheim gekennzeichnet haben. Die Wahlberechtigten legen den Stimmzettelumschlag zusammen mit der Erklärung in den Freiumschlag und senden diesen Wahlbrief an den dezentralen Wahlvorstand.
 (3) Im Fall eines körperlichen Gebrechens können die Wahlberechtigten den Stimmzettel durch eine Person des Vertrauens kennzeichnen lassen. Die Person des Vertrauens hat durch Unterzeichnung der vorgedruckten Erklärung zu bestätigen, dass sie den Stimmzettel gemäß dem erklärten Willen der oder des Wahlberechtigten gekennzeichnet hat. Die Person des Vertrauens legt den Stimmzettelumschlag zusammen mit der Erklärung in den Freiumschlag und sendet diesen Wahlbrief an den Wahlvorstand. Die Person des Vertrauens ist zur Geheimhaltung über Kenntnisse verpflichtet, die sie bei der Hilfestellung bei der Wahl durch einen anderen erlangt hat.
-(4) Der dezentrale Wahlvorstand entnimmt den eingegangenen Wahlbriefen die Stimmzettelumschläge und legt diese, wenn die unterschriebene Erklärung beiliegt, ungeöffnet in eine verschlossene Wahlurne. Mindestens zwei Mitglieder des dezentralen Wahlvorstands vermerken die Stimmabgabe im Wählerverzeichnis. Stimmzettelumschläge, denen keine unterschriebene Erklärung beigefügt ist, bleiben ungeöffnet und sind mit dem Vermerk �ungültig“ zu versehen; der Vermerk ist von einem Mitglied des Wahlvorstands zu unterschreiben.
+(4) Der dezentrale Wahlvorstand entnimmt den eingegangenen Wahlbriefen die Stimmzettelumschläge und legt diese, wenn die unterschriebene Erklärung beiliegt, ungeöffnet in eine verschlossene Wahlurne. Mindestens zwei Mitglieder des dezentralen Wahlvorstands vermerken die Stimmabgabe im Wählerverzeichnis. Stimmzettelumschläge, denen keine unterschriebene Erklärung beigefügt ist, bleiben ungeöffnet und sind mit dem Vermerk ungültig“ zu versehen; der Vermerk ist von einem Mitglied des Wahlvorstands zu unterschreiben.
 (5) Die Wahlurne ist vor unbefugtem Zugriff zu schützen.
 (6) Verspätet eingegangene Wahlbriefe bleiben ungeöffnet und werden vom Wahlvorstand mit einem Vermerk über den Zeitpunkt des Eingangs versehen.
 
@@ -560,7 +560,7 @@ Die Bewerberin oder der Bewerber muss die Bewerbung unterschreiben.
 - 3. :: einer vorgedruckten Erklärung, dass die oder der Wahlberechtigte den Stimmzettel
   - a) :: persönlich und geheim gekennzeichnet hat oder
   - b) :: im Fall eines körperlichen Gebrechens gemäß ihrem oder seinem erklärten Willen durch eine Person des Vertrauens hat kennzeichnen lassen,
-- 4. :: einem an den Wahlvorstand adressierten Freiumschlag mit der oder dem Wahlberechtigten als Absenderin oder Absender und der Aufschrift �Schriftliche Stimmabgabe“ sowie
+- 4. :: einem an den Wahlvorstand adressierten Freiumschlag mit der oder dem Wahlberechtigten als Absenderin oder Absender und der Aufschrift Schriftliche Stimmabgabe“ sowie
 - 5. :: einem Begleitschreiben, in dem das Wahlverfahren beschrieben und die Frist für die Rücksendung des Wahlbriefs genannt ist.
 
 
@@ -569,7 +569,7 @@ Die Bewerberin oder der Bewerber muss die Bewerbung unterschreiben.
 (1) Wählen darf nur, wer in das Wählerverzeichnis eingetragen ist. Die Wahlberechtigten haben jeweils eine Stimme.
 (2) Die Wahlberechtigten kennzeichnen den Stimmzettel und legen ihn in den Stimmzettelumschlag. Der Stimmzettelumschlag darf nur den Stimmzettel enthalten. Die Wahlberechtigten haben durch Unterschrift unter der vorgedruckten Erklärung zu bestätigen, dass sie den Stimmzettel persönlich und geheim gekennzeichnet haben. Die Wahlberechtigten legen den Stimmzettelumschlag zusammen mit der Erklärung in den Freiumschlag und senden diesen Wahlbrief an den Wahlvorstand.
 (3) Im Fall eines körperlichen Gebrechens können die Wahlberechtigten den Stimmzettel durch eine Person des Vertrauens kennzeichnen lassen. Die Person des Vertrauens hat durch Unterschrift unter der vorgedruckten Erklärung zu bestätigen, dass sie den Stimmzettel gemäß dem erklärten Willen der oder des Wahlberechtigten gekennzeichnet hat. Die Person des Vertrauens legt den Stimmzettelumschlag zusammen mit der Erklärung in den Freiumschlag und sendet diesen Wahlbrief an den Wahlvorstand. Die Person des Vertrauens ist zur Geheimhaltung über Kenntnisse verpflichtet, die sie bei der Hilfestellung bei der Wahl durch einen anderen erlangt hat.
-(4) Der Wahlvorstand entnimmt den eingegangenen Wahlbriefen die Stimmzettelumschläge und legt diese, wenn die unterschriebene Erklärung beiliegt, ungeöffnet in eine verschlossene Wahlurne. Mindestens zwei Mitglieder des Wahlvorstands vermerken die Stimmabgabe im Wählerverzeichnis. Stimmzettelumschläge, denen keine unterschriebene Erklärung beigefügt ist, bleiben ungeöffnet und sind mit dem Vermerk �ungültig“ zu versehen; der Vermerk ist von einem Mitglied des Wahlvorstands zu unterschreiben.
+(4) Der Wahlvorstand entnimmt den eingegangenen Wahlbriefen die Stimmzettelumschläge und legt diese, wenn die unterschriebene Erklärung beiliegt, ungeöffnet in eine verschlossene Wahlurne. Mindestens zwei Mitglieder des Wahlvorstands vermerken die Stimmabgabe im Wählerverzeichnis. Stimmzettelumschläge, denen keine unterschriebene Erklärung beigefügt ist, bleiben ungeöffnet und sind mit dem Vermerk ungültig“ zu versehen; der Vermerk ist von einem Mitglied des Wahlvorstands zu unterschreiben.
 (5) Die Wahlurne ist vor unbefugtem Zugriff zu schützen.
 (6) Verspätet eingegangene Wahlbriefe bleiben ungeöffnet und werden vom Wahlvorstand mit einem Vermerk über den Zeitpunkt des Eingangs versehen.
 

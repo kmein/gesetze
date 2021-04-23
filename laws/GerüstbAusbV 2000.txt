@@ -218,11 +218,11 @@ Planen und Vorbereiten von Arbeitsabl√§ufen, Beschaffen und Auswerten von Inform
 
 2*)
 
-†
 
-†
 
-†
+
+
+
 
 - e) :: Arbeitsschritte unter Ber√ºcksichtigung konstruktiver, fertigungstechnischer und wirtschaftlicher Gesichtspunkte festlegen
 - f) :: Bedarf an Arbeitsmaterialien ermitteln, Arbeitsmaterialien zusammenstellen
@@ -232,24 +232,24 @@ Planen und Vorbereiten von Arbeitsabl√§ufen, Beschaffen und Auswerten von Inform
 - k) :: Zeitaufwand und personelle Unterst√ºtzung absch√§tzen, Zeitaufwand dokumentieren
 - l) :: Aufgaben im Team planen und umsetzen, Ergebnisse abstimmen und auswerten
 
-†
+
 
 2*)
 
-†
 
-†
+
+
 
 - m) :: technische Ver√§nderungen im Ger√ºstbau feststellen und auswerten
 - n) :: Gespr√§che situationsgerecht f√ºhren, Sachverhalte darstellen
 - o) :: M√∂glichkeiten der Konfliktregelung im Team anwenden
 - p) :: mit den am Bau Beteiligten Abstimmungen treffen
 
-†
 
-†
 
-†
+
+
+
 
 2*)
 
@@ -264,33 +264,33 @@ Anfertigen und Anwenden von technischen Unterlagen\\
 
 2
 
-†
 
-†
 
-†
+
+
+
 
 - d) :: Bauzeichnungen und Leistungsverzeichnisse lesen und anwenden
 - e) :: technische Unterlagen lesen und anwenden, insbesondere St√ºcklisten, Tabellen, Diagramme, Betriebsanleitungen, Handb√ºcher sowie Aufbau- und Verwendungsanleitungen
 
-†
+
 
 2
 
-†
 
-†
+
+
 
 - f) :: technische Vorgaben unter Ber√ºcksichtigung der Bausituation umsetzen
 - g) :: Verankerungspl√§ne erstellen
 
-†
 
-†
+
+
 
 2
 
-†
+
 
 7
 
@@ -307,35 +307,35 @@ Einrichten, Sichern und R√§umen von Baustellen\\
 
 2
 
-†
 
-†
 
-†
+
+
+
 
 - h) :: Baustelleneinrichtung und -sicherung mit den am Bau Beteiligten abstimmen
 - i) :: Bereitstellung von Ver- und Entsorgungseinrichtungen sowie von Unterk√ºnften und sanit√§ren Anlagen veranlassen
 - k) :: Ma√ünahmen zum Schutz von Personen auf Baustellen ergreifen
 - l) :: Verkehrs- und Transportwege auf ihre Eignung beurteilten, Ma√ünahmen zur Nutzung veranlassen
 
-†
+
 
 2
 
-†
 
-†
+
+
 
 - m) :: Ma√ünahmen zum Schutz benachbarter Grundst√ºcke und Bauwerke sowie technischer Einrichtungen ergreifen
 - n) :: Gefahrstoffe erkennen und Schutzma√ünahmen ergreifen, Lagerung von Gefahrstoffen sicherstellen
 - o) :: Ger√§te und Maschinen f√ºr den Abtransport vorbereiten
 - p) :: Verkehrsleiteinrichtungen nach vorgegebenem Verkehrszeichenplan aufstellen und unterhalten
 
-†
 
-†
 
-†
+
+
+
 
 2
 
@@ -352,19 +352,19 @@ Bearbeiten von Werkstoffen\\
 
 7
 
-†
 
-†
 
-†
+
+
+
 
 - f) :: Profilstahl brennschneiden und heftschwei√üen
 
-†
 
-†
 
-†
+
+
+
 
 2
 
@@ -378,31 +378,31 @@ Handhaben und Instandhalten von Werkzeugen, Ger√§ten, Maschinen und technischen 
 
 2
 
-†
 
-†
 
-†
+
+
+
 
 - c) :: Ger√§te und Maschinen auf Dichtigkeit pr√ºfen, Verunreinigung von B√∂den und Gew√§ssern vermeiden
 - d) :: Ger√§te, Maschinen und technische Einrichtungen unter Verwendung der Schutzeinrichtungen einsetzen
 - e) :: Werkzeuge, Ger√§te und Maschinen warten
 
-†
+
 
 5
 
-†
 
-†
+
+
 
 - f) :: St√∂rungen an Ger√§ten, Maschinen und technischen Einrichtungen erkennen, St√∂rungsbeseitigung veranlassen
 
-†
 
-†
 
-†
+
+
+
 
 2
 
@@ -415,31 +415,31 @@ Durchf√ºhren von Vermessungsarbeiten\\
 
 2
 
-†
 
-†
 
-†
+
+
+
 
 - b) :: Bauteile und Ger√ºste einmessen
 - c) :: Verankerungspunkte einmessen
 
-†
+
 
 2
 
-†
 
-†
+
+
 
 - d) :: Messger√§te auf Funktion pr√ºfen und lagern
 - e) :: Messverfahren ausw√§hlen, optische und elektronische Messinstrumente justieren und einsetzen
 
-†
 
-†
 
-†
+
+
+
 
 2
 
@@ -455,40 +455,40 @@ Warten, Lagern und Transportieren von Ger√ºstbauteilen\\
 
 6
 
-†
 
-†
 
-†
+
+
+
 
 - e) :: Korrosionsschutz- und Holzschutzma√ünahmen unter Beachtung der Gefahrenstoffe ausw√§hlen und an Ger√ºstbauteilen durchf√ºhren
 - f) :: Ger√ºstbauteile instandsetzen und warten
 
-†
+
 
 3
 
-†
 
-†
+
+
 
 - g) :: Lastenaufnahme- und Anschlagmittel ausw√§hlen und einsetzen
 
-†
 
-†
+
+
 
 2
 
-†
+
 
 - h) :: Transportmittel und -hilfen auf Betriebssicherheit pr√ºfen und einsetzen, insbesondere Gabelstapler, Hubwagen und Hebezeuge
 
-†
 
-†
 
-†
+
+
+
 
 3
 
@@ -501,31 +501,31 @@ Beurteilen von Traggr√ºnden und Herstellen der Tragf√§higkeit\\
 
 2
 
-†
 
-†
 
-†
+
+
+
 
 - b) :: Traggr√ºnde hinsichtlich der Belastungsf√§higkeit durch Inaugenscheinnahme beurteilen
 - c) :: Unterkonstruktionen herstellen
 
-†
 
-†
+
+
 
 3
 
-†
+
 
 - d) :: M√§ngel an Traggr√ºnden feststellen und dokumentieren
 - e) :: Herstellen der Tragf√§higkeit veranlassen
 
-†
 
-†
 
-†
+
+
+
 
 2
 
@@ -539,19 +539,19 @@ Verankern von Ger√ºsten\\
 
 6
 
-†
 
-†
 
-†
+
+
+
 
 - c) :: Abspannungen nach Vorgaben herstellen
 
-†
 
-†
 
-†
+
+
+
 
 2
 
@@ -569,44 +569,44 @@ Bauen von l√§ngen- und fl√§chenorientierten Arbeits- und Schutzger√ºsten\\
 
 14
 
-†
 
-†
 
-†
+
+
+
 
 - g) :: Leiterger√ºste auf-, um- und abbauen
 - h) :: Rohrkupplungsger√ºste au√üerhalb der Regelausf√ºhrung auf-, um- und abbauen
 - i) :: Systemger√ºste au√üerhalb der Regelausf√ºhrung auf-, um- und abbauen
 - k) :: Schutzw√§nde herstellen
 
-†
+
 
 8
 
-†
 
-†
+
+
 
 - l) :: Auslegerger√ºste auf-, um- und abbauen
 
-†
 
-†
+
+
 
 2
 
-†
+
 
 - m) :: Rohrkupplungsger√ºste nach statischen Berechnungen, Zeichnungen und Pl√§nen auf-, um- und abbauen
 - n) :: Systemger√ºste nach statischen Berechnungen, Zeichnungen und Pl√§nen auf-, um- und abbauen
 - o) :: freigegebene Ger√ºste auf Arbeitssicherheit kontrollieren und Ergebnisse dokumentieren
 
-†
 
-†
 
-†
+
+
+
 
 8
 
@@ -621,13 +621,13 @@ Bauen von Tragger√ºsten mit Unterkonstruktion einschlie√ülich der Grundschalung\
 - d) :: R√ºstt√ºrme auf-, um- und abbauen
 - e) :: Grundschalungen einbauen, ausrichten und ausbauen
 
-†
 
-†
+
+
 
 6
 
-†
+
 
 - f) :: R√ºstst√ºtzen auf-, um- und abbauen
 - g) :: R√ºstbinder und Tr√§ger auf-, um- und abbauen
@@ -636,11 +636,11 @@ Bauen von Tragger√ºsten mit Unterkonstruktion einschlie√ülich der Grundschalung\
 - k) :: Tragger√ºste absenken, insbesondere mechanisch und hydraulisch
 - l) :: Tragger√ºste verschieben und verfahren
 
-†
 
-†
 
-†
+
+
+
 
 10
 
@@ -654,41 +654,41 @@ Arbeitsplattformen, Arbeitsb√ºhnen und Aufz√ºge\\
 
 2
 
-†
 
-†
 
-†
+
+
+
 
 - c) :: Hubarbeitsb√ºhnen aufstellen und bedienen
 
-†
+
 
 2
 
-†
 
-†
+
+
 
 - d) :: Anh√§ngepunkte f√ºr vertikal und horizontal verfahrbare Arbeitsplattformen und -b√ºhnen nach Vorgaben herstellen und pr√ºfen
 
-†
 
-†
+
+
 
 2
 
-†
+
 
 - e) :: vertikal und horizontal verfahrbare Arbeitsplattformen und -b√ºhnen auf-, um- und abbauen sowie bedienen
 - f) :: mastgef√ºhrte Kletterarbeitsb√ºhnen auf- und abbauen sowie bedienen und Nutzer einweisen
 - g) :: Lasten- und Personenaufz√ºge auf- und abbauen sowie bedienen und Nutzer einweisen
 
-†
 
-†
 
-†
+
+
+
 
 5
 
@@ -701,21 +701,21 @@ Bauen von H√§ngeger√ºsten\\
 - b) :: Aufh√§ngesysteme unterscheiden und montieren
 - c) :: H√§ngeger√ºste in Regelausf√ºhrung auf-, um- und abbauen
 
-†
 
-†
+
+
 
 2
 
-†
+
 
 - d) :: H√§ngeger√ºste nach statischen Berechnungen, Zeichnungen und Pl√§nen auf-, um- und abbauen
 
-†
 
-†
 
-†
+
+
+
 
 5
 
@@ -727,21 +727,21 @@ Bauen von Wetterschutzhallen und Einhausungen\\
 - a) :: Wetterschutzhallen und Einhausungen nach Bauarten und Verwendungszweck ausw√§hlen, insbesondere gegen Witterungseinfl√ºsse, Immissionen und Besch√§digungen
 - b) :: Einhausungen nach Vorgaben auf-, um- und abbauen, insbesondere bei umweltbelastenden Arbeiten
 
-†
 
-†
+
+
 
 2
 
-†
+
 
 - c) :: Wetterschutzhallen nach statischen Berechnungen, Zeichnungen und Pl√§nen auf-, um- und abbauen
 
-†
 
-†
 
-†
+
+
+
 
 5
 
@@ -754,23 +754,23 @@ Bauen von Ger√ºsten f√ºr besondere Anforderungen\\
 
 3
 
-†
 
-†
 
-†
+
+
+
 
 - b) :: Vorschriften f√ºr den Bau und Betrieb von B√ºhnen und Trib√ºnen anwenden
 - c) :: Verkehrsger√ºste, Verkehrswege, B√ºhnen und Trib√ºnen nach Bauarten und Verwendungszweck unterscheiden
 - d) :: Verkehrsger√ºste, Verkehrswege, B√ºhnen und Trib√ºnen auf-, um- und abbauen, Verkehrssicherheit kontrollieren
 
-†
 
-†
+
+
 
 3
 
-†
+
 
 20
 
@@ -781,31 +781,31 @@ qualit√§tssichernde Ma√ünahmen und Berichtswesen\\
 
 2*)
 
-†
 
-†
 
-†
+
+
+
 
 - b) :: Ger√ºste und Ger√ºstbaukonstruktionen anhand des Arbeitsauftrages auf Ma√ü, Form, Funktion und Sicherheit pr√ºfen
 - c) :: Aufma√ü anfertigen
 
-†
 
-†
+
+
 
 2*)
 
-†
+
 
 - d) :: Abweichungen von Sollwerten w√§hrend der Ausf√ºhrung des Arbeitsauftrages feststellen und Kontrollergebnisse dokumentieren
 - e) :: zur kontinuierlichen Verbesserung von Arbeitsvorg√§ngen im eigenen Arbeitsbereich beitragen
 
-†
 
-†
 
-†
+
+
+
 
 2*)
 

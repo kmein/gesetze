@@ -189,14 +189,14 @@ statt.
 
 (10) Die Abschlussprüfung ist bestanden, wenn die Leistungen
 
-- 1. :: im Gesamtergebnis mit mindestens �ausreichend“,
-- 2. :: im Prüfungsbereich Warensortiment mit mindestens �ausreichend“,
-- 3. :: in mindestens drei weiteren Prüfungsbereichen mit mindestens �ausreichend“ und
-- 4. :: in keinem Prüfungsbereich mit �ungenügend“
+- 1. :: im Gesamtergebnis mit mindestens ausreichend“,
+- 2. :: im Prüfungsbereich Warensortiment mit mindestens ausreichend“,
+- 3. :: in mindestens drei weiteren Prüfungsbereichen mit mindestens ausreichend“ und
+- 4. :: in keinem Prüfungsbereich mit ungenügend“
 
 bewertet worden sind.
 
-(11) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als �ausreichend“ bewerteten Prüfungsbereiche Geschäfts- und Leistungsprozesse in der Apotheke, Warensortiment oder Wirtschafts- und Sozialkunde durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
+(11) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als ausreichend“ bewerteten Prüfungsbereiche Geschäfts- und Leistungsprozesse in der Apotheke, Warensortiment oder Wirtschafts- und Sozialkunde durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 § 7 - Bestehende Berufsausbildungsverhältnisse
 
@@ -229,7 +229,7 @@ Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
 Warenwirtschaft und Beschaffung\\
 (§ 3 Absatz 2 Abschnitt A Nummer 1)
 
-�
+
 
 1.1
 
@@ -313,7 +313,7 @@ Kaufmännische Steuerung\\
 und Kontrolle\\
 (§ 3 Absatz 2 Abschnitt A Nummer 2)
 
-�
+
 
 2.1
 
@@ -364,7 +364,7 @@ Preisbildung und\\
 Leistungsabrechnung\\
 (§ 3 Absatz 2 Abschnitt A Nummer 4)
 
-�
+
 
 4.1
 
@@ -393,7 +393,7 @@ Nummer 4.2)
 Tätigkeiten nach der Apothekenbetriebsordnung sowie Dokumentation\\
 (§ 3 Absatz 2 Abschnitt A Nummer 5)
 
-�
+
 
 5.1
 
@@ -497,7 +497,7 @@ Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
 Der Ausbildungsbetrieb\\
 (§ 3 Absatz 2 Abschnitt B Nummer 1)
 
-�
+
 
 1.1
 
@@ -556,7 +556,7 @@ Arbeitsorganisation und\\
 Bürowirtschaft\\
 (§ 3 Absatz 2 Abschnitt B Nummer 2)
 
-�
+
 
 2.1
 

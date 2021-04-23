@@ -124,7 +124,7 @@ Zu vermittelnde Fertigkeiten und Kenntnisse
 3
 1
 Der Ausbildungsbetrieb (§ 4 Nr. 1)
-�
+
 1.1
 Stellung, Rechtsform und Struktur (§ 4 Nr. 1.1)
 a)
@@ -182,7 +182,7 @@ d)
 Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 2
 Arbeitsorganisation, Information und Kommunikation (§ 4 Nr. 2)
-�
+
 2.1
 Arbeitsorganisation (§ 4 Nr. 2.1)
 a)
@@ -271,7 +271,7 @@ q)
 Schadenfälle abwickeln
 5
 Speditionelle und logistische Leistungen (§ 4 Nr. 5)
-�
+
 5.1
 Güterversendung und Transport (§ 4 Nr. 5.1)
 a)
@@ -402,7 +402,7 @@ d)
 Schutz- und Sicherheitsvorkehrungen begründen und beachten
 9
 Kaufmännische Steuerung und Kontrolle (§ 4 Nr. 9)
-�
+
 9.1
 Zahlungsverkehr und Buchführung (§ 4 Nr. 9.1)
 a)

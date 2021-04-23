@@ -255,13 +255,13 @@ Der Prüfling soll Aufgaben schriftlich bearbeiten. Die Prüfungszeit beträgt 4
 
 (2) Die Gesellenprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
-- 1. :: im Gesamtergebnis mit mindestens �ausreichend“,
-- 2. :: in mindestens vier Prüfungsbereichen mit mindestens �ausreichend“ und
-- 3. :: in keinem Prüfungsbereich mit �ungenügend“.
+- 1. :: im Gesamtergebnis mit mindestens ausreichend“,
+- 2. :: in mindestens vier Prüfungsbereichen mit mindestens ausreichend“ und
+- 3. :: in keinem Prüfungsbereich mit ungenügend“.
 
 (3) Auf Antrag des Prüflings ist die Prüfung entweder in dem Prüfungsbereich nach § 19 oder in einem der Teilprüfungsbereiche nach § 15 Absatz 2, § 17 Absatz 2 oder § 18 Absatz 3 durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-- 1. :: der Prüfungsbereich oder der Teilprüfungsbereich schlechter als mit �ausreichend“ bewertet worden ist und
+- 1. :: der Prüfungsbereich oder der Teilprüfungsbereich schlechter als mit ausreichend“ bewertet worden ist und
 - 2. :: die mündliche Ergänzungsprüfung für das Bestehen der Gesellenprüfung den Ausschlag geben kann.
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich oder diesen Teilprüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
@@ -317,14 +317,14 @@ Individuelle Hörprofile bestimmen und beurteilen\\
 
 5
 
-�
+
 
 - d) :: ärztliche Diagnosen und eigene Befunde, insbesondere im Hinblick auf die Hörsystemversorgung, einordnen
 - e) :: Auswirkungen der psychosozialen Situation von Patientinnen und Patienten auf die Hör- und Kommunikationsfähigkeit unter Berücksichtigung wahrnehmungspsychologischer Gesichtspunkte einschätzen
 - f) :: Hörbedarf unter Berücksichtigung der individuellen Hörsituationen sowie Wünsche und Erwartungen der Patientinnen und Patienten ermitteln, beurteilen und dokumentieren
 - g) :: hörbeeinträchtigende Befunde, insbesondere Tinnitus, unterscheiden sowie Kontraindikationen der Hörsystemversorgung erkennen und Patientinnen und Patienten über Indikationen und Kontraindikationen für die Hörsystemversorgung informieren
 
-�
+
 
 8
 
@@ -353,19 +353,19 @@ Berufsspezifische audiologische und otoskopische Befunde erheben und bewerten\\
 \\
 11\\
 
-�
 
-�
 
-�
+
+
+
 
 - g) :: Sprachverständlichkeit, Unbehaglichkeitsschwelle und den Bereich des angenehmen Hörens in Ruhe ermitteln
 - h) :: Vertäubungsregeln bei der Reinton- und Sprachaudiometrie anwenden
 - i) :: audiometrische Messergebnisse nach Schallleitungs-, Schallempfindungs- und kombinierter Schwerhörigkeit sowie zentrale Störungen klassifizieren
 
-�
 
-�
+
+
 
 - j) :: audiologisch und psychologisch relevante Tinnitusparameter ermitteln sowie weiterführende Messungen zur Verdeckbarkeit durchführen
 - k) :: den Zusammenhang zwischen Hörbeeinträchtigung und Sprachentwicklung beurteilen
@@ -380,21 +380,21 @@ Berufsspezifische audiologische und otoskopische Befunde erheben und bewerten\\
 - t) :: sprachaudiometrische Kenndaten des Gehörs im Störgeräusch ermitteln
 - u) :: Messergebnisse unter Einbeziehung der Anatomie und Physiologie des Mittel- und Innenohres sowie der zentralen Hörbahnen beurteilen, insbesondere in Bezug auf Frequenz-, Zeit- und Amplitudenauflösungsvermögen
 
-�
+
 
 \\
 \\
 16
 
-�
 
-�
+
+
 
 - v) :: audiologische Kenndaten und Hörgerätekenndaten zusammenführen
 
-�
 
-�
+
+
 
 3
 
@@ -407,7 +407,7 @@ Patientinnen und Patienten hinsichtlich der Versorgungsmöglichkeiten mit Hörsy
 
 4
 
-�
+
 
 - d) :: Patientinnen und Patienten Indikationen und Kontraindikationen für Hörsystemversorgungen erklären, Möglichkeiten und Grenzen des Hörsystems aufzeigen sowie zum Tragen des Hörsystems motivieren
 - e) :: Patientinnen und Patienten auf Grundlage des ermittelten Hörbedarfs bei Auswahl der Hörsysteme, Hörassistenzsysteme und Sonderversorgungen sowie Zubehör beraten
@@ -421,7 +421,7 @@ Patientinnen und Patienten hinsichtlich der Versorgungsmöglichkeiten mit Hörsy
 - m) :: Patientinnen und Patienten über Gefahren der Lärmeinwirkung aufklären, über Gehörschutzmittel beraten und zum Tragen der Gehörschutzmittel motivieren
 - n) :: Patientinnen und Patienten zu Hörtaktiken und über Möglichkeiten des Hörtrainings beraten
 
-�
+
 
 9
 
@@ -433,13 +433,13 @@ Dreidimensionale Abbilder des äußeren Ohres erstellen\\
 - a) :: Arbeitsplatz vorbereiten und vorgesehene Arbeitsmittel überprüfen
 - b) :: Vertrauensverhältnis zu Patientinnen und zu Patienten aufbauen, Patientinnen und Patienten in Abbildungsverfahren einweisen und dazu psychologische Gesichtspunkte, insbesondere über die Distanzzone, berücksichtigen
 
-�
 
-�
 
-�
 
-�
+
+
+
+
 
 - c) :: äußeres Ohr unter Beachtung der Hygienevorschriften otoskopieren sowie Ohrmuschel, Gehörgang und Trommelfell beurteilen und den Befund dokumentieren
 - d) :: Reinigungsbedarf sowie andere Hinderungsgründe für das Abbilden erkennen
@@ -450,12 +450,12 @@ Dreidimensionale Abbilder des äußeren Ohres erstellen\\
 \\
 10
 
-�
+
 
 - h) :: bei Reinigungsbedarf sowie anderen Hinderungsgründen für das Abbilden über weiteres Vorgehen entscheiden und dieses einleiten
 - i) :: Abbilder unter Beachtung anatomischer, pathologischer, akustischer, hörsystemtechnischer sowie kosmetischer Gegebenheiten bearbeiten
 
-�
+
 
 4
 
@@ -470,7 +470,7 @@ Otoplastiken, individuellen Gehörschutz und Sonderotoplastiken herstellen\\
 
 10
 
-�
+
 
 - d) :: Hohlschalen zur Aufnahme von Bauteilen adaptierfähig erstellen und bearbeiten
 - e) :: Sonderformen von Otoplastiken, insbesondere Auflageplastiken, herstellen und bearbeiten
@@ -478,7 +478,7 @@ Otoplastiken, individuellen Gehörschutz und Sonderotoplastiken herstellen\\
 - g) :: Schallpegel zur orientierenden Einschätzung einer Lärmsituation messen und Ergebnisse bewerten
 - h) :: persönliche Gehörschutzmittel nach Lärmpegel, Frequenzspektrum und Einwirkzeit auswählen, herstellen und anpassen
 
-�
+
 
 8
 
@@ -494,17 +494,17 @@ Hörsysteme und Hörassistenzsysteme entsprechend dem individuellen Hörprofil a
 
 12
 
-�
+
 
 - e) :: Hörsysteme unter Berücksichtigung des individuellen Hörprofils, der Wünsche von Patientinnen und Patienten und der audiologischen Gegebenheiten auswählen, dabei Bauform, Schallübertragung, digitale Signalverarbeitung, Arten der Begrenzung und Reglungsart, Handhabungsmöglichkeiten, Schnittstellen für Hörassistenzsysteme sowie Sonderversorgungen, insbesondere CROS-Versorgung, berücksichtigen
 
-�
 
-�
 
-�
 
-�
+
+
+
+
 
 - f) :: Otoplastiken nach audiologischen Erfordernissen, Handhabungsmöglichkeiten und den Wünschen von Patientinnen und Patienten auswählen
 - g) :: Anpassverfahren wählen und Hörsysteme voreinstellen
@@ -520,7 +520,7 @@ Hörsysteme und Hörassistenzsysteme entsprechend dem individuellen Hörprofil a
 - q) :: Hörsysteme, Kombigeräte sowie Tinnitusmasker, die den Tinnitus maskieren, hemmen und mildern, anpassen
 - r) :: Hörsystemeinstellungen abschließend dokumentieren
 
-�
+
 
 18\\
 \\
@@ -543,23 +543,23 @@ Patientinnen und Patienten betreuen und Rehabilitationsmaßnahmen durchführen\\
 
 3
 
-�
+
 
 - d) :: Hörsysteme gemäß dem sich ändernden Gehör sowie der Hörerwartung und Gewöhnung nachjustieren, insbesondere Otoplastiken und Dynamikverhalten modifizieren und, falls erforderlich, die Handhabung mit Patientinnen und Patienten üben
 
-�
 
-�
 
-�
 
-�
+
+
+
+
 
 - e) :: Patientinnen und Patienten ergänzend über Hörassistenzsysteme und Zubehör beraten und einweisen sowie Hörassistenzsysteme und Zubehör anpassen
 - f) :: Patientinnen und Patienten über Methoden und Möglichkeiten des Hörtrainings informieren
 - g) :: Patientinnen und Patienten über Rehabilitationsmaßnahmen zum Tinnitus beraten
 
-�
+
 
 \\
 5
@@ -578,11 +578,11 @@ Service- und Instandhaltungsmaßnahmen an Hörsystemen, Hörassistenzsystemen un
 
 6
 
-�
+
 
 - g) :: Schallwandler nach Kenndaten, Aufbau und Wirkungsweise unterscheiden und auswechseln sowie Bauteile und Module erneuern
 
-�
+
 
 2
 
@@ -604,25 +604,25 @@ Geschäfts- und Abrechnungsprozesse des Hörakustikbetriebes organisieren und au
 
 8
 
-�
+
 
 - k) :: Schriftverkehr mit Ärztinnen und Ärzten sowie Kostenträgern führen
 - l) :: Versorgungsabläufe unter Berücksichtigung der rechtlichen Rahmenbedingungen umsetzen, dokumentieren und auswerten
 
-�
 
-�
 
-�
 
-�
+
+
+
+
 
 - m) :: Angebote und Kostenvoranschläge für die Hörsystemversorgung nach vorheriger Kostenermittlung erstellen und dabei unterschiedliche Leistungen der Kranken-, Unfall- und Rentenversicherungen, der Versorgungsämter, der Sozialhilfe und der öffentlichen Arbeitgeber berücksichtigen
 - n) :: Grundzüge der betrieblichen Kosten-und-Leistungs-Rechnung anwenden
 - o) :: Abrechnungen von Hörsystemversorgungen gemäß den vertraglichen und rechtlichen Bestimmungen durchführen
 - p) :: Mahnverfahren durchführen
 
-�
+
 
 \\
 \\
@@ -716,7 +716,7 @@ Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsber
 - c) :: Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 - d) :: Abfälle vermeiden und Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
-�
+
 
 5
 
@@ -733,11 +733,11 @@ Betriebliche und technische Kommunikation sowie Patientendatenschutz\\
 
 4
 
-�
+
 
 - h) :: Gespräche mit Vorgesetzten, Mitarbeiterinnen und Mitarbeitern und im Team situationsgerecht führen und Sachverhalte darstellen
 
-�
+
 
 2
 
@@ -751,7 +751,7 @@ Planen und Organisieren von Arbeitsabläufen\\
 
 3
 
-�
+
 
 7
 
@@ -766,10 +766,10 @@ Durchführen qualitätssichernder Maßnahmen\\
 
 2
 
-�
+
 
 - f) :: Bedeutung von kontinuierlicher Fort- und Weiterbildung zur Qualitätssicherung erkennen
 
-�
+
 
 2

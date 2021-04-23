@@ -13,34 +13,34 @@ Der Beitragssatz für das Jahr 2002 beträgt in der Rentenversicherung der Arbei
 (1) Die auf Grund des vorläufigen Durchschnittsentgelts und der Beitragssätze für das Jahr 2002 berechneten Faktoren betragen im Jahr 2002\\
 1.
 in der Rentenversicherung der Arbeiter und der Angestellten für die Umrechnung
-�
+
 a)
 von Entgeltpunkten in Beiträge
 5446,9380,
-�
+
 von Entgeltpunkten (Ost) in Beiträge
 4545,5545,
 b)
 von Beiträgen, Barwerten, Deckungskapitalien und vergleichbaren Deckungsrücklagen
-�
+
 in Entgeltpunkte
 0,0001835894,
-�
+
 von Beiträgen in Entgeltpunkte (Ost)
 0,0002199952,
 2.
 in der knappschaftlichen Rentenversicherung für die Umrechnung
-�
+
 a)
 von Entgeltpunkten in Beiträge
 7243,5720,
-�
+
 von Entgeltpunkten (Ost) in Beiträge
 6044,8736,
 b)
 von Beiträgen in Entgeltpunkte
 0,0001380534,
-�
+
 von Beiträgen in Entgeltpunkte (Ost)
 0,0001654294.
 (2) Entgeltpunkte werden in Beiträge umgerechnet, indem sie mit dem im Zeitpunkt der Beitragsentrichtung maßgebenden Umrechnungsfaktor vervielfältigt werden.

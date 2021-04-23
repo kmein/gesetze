@@ -17,10 +17,10 @@ Auf Grund des § 8b Absatz 8 Satz 1 bis 3 des Bundesverfassungsschutzgesetzes, d
 
 (1) Im Sinne dieser Verordnung sind
 
-- 1. :: �Nachrichtendienste des Bundes“ das Bundesamt für Verfassungsschutz, der Militärische Abschirmdienst und der Bundesnachrichtendienst,
-- 2. :: �Auskunftsersuchen“ Ersuchen auf Grund von Anordnungen nach § 8a Absatz 1 Satz 1 Nummer 1, 2 und 5 des Bundesverfassungsschutzgesetzes, die an einen Verpflichteten gerichtet sind,
-- 3. :: �Verpflichteter“ jede nach § 8b Absatz 6 in Verbindung mit § 8a Absatz 1 Satz 1 Nummer 1, 2 und 5 des Bundesverfassungsschutzgesetzes verpflichtete Stelle,
-- 4. :: �Sektoren“ jeweils die folgenden Wirtschaftszweige:
+- 1. :: Nachrichtendienste des Bundes“ das Bundesamt für Verfassungsschutz, der Militärische Abschirmdienst und der Bundesnachrichtendienst,
+- 2. :: Auskunftsersuchen“ Ersuchen auf Grund von Anordnungen nach § 8a Absatz 1 Satz 1 Nummer 1, 2 und 5 des Bundesverfassungsschutzgesetzes, die an einen Verpflichteten gerichtet sind,
+- 3. :: Verpflichteter“ jede nach § 8b Absatz 6 in Verbindung mit § 8a Absatz 1 Satz 1 Nummer 1, 2 und 5 des Bundesverfassungsschutzgesetzes verpflichtete Stelle,
+- 4. :: Sektoren“ jeweils die folgenden Wirtschaftszweige:
   - a) :: Luftfahrtunternehmen,
   - b) :: Computerreservierungssysteme und Globale Distributionssysteme für Flüge,
   - c) :: Kreditinstitute, Finanzdienstleistungsinstitute und Finanzunternehmen sowie

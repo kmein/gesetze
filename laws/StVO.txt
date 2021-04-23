@@ -37,7 +37,7 @@ mit Reifen ausgerüstet sind, die unbeschadet der allgemeinen Anforderungen an d
 
 Wer ein kennzeichnungspflichtiges Fahrzeug mit gefährlichen Gütern führt, muss bei einer Sichtweite unter 50 m, bei Schneeglätte oder Glatteis jede Gefährdung Anderer ausschließen und wenn nötig den nächsten geeigneten Platz zum Parken aufsuchen.
 
-(4) Mit Fahrrädern darf nebeneinander gefahren werden, wenn dadurch der Verkehr nicht behindert wird; anderenfalls muss einzeln hintereinander gefahren werden. Eine Pflicht, Radwege in der jeweiligen Fahrtrichtung zu benutzen, besteht nur, wenn dies durch Zeichen 237, 240 oder 241 angeordnet ist. Rechte Radwege ohne die Zeichen 237, 240 oder 241 dürfen benutzt werden. Linke Radwege ohne die Zeichen 237, 240 oder 241 dürfen nur benutzt werden, wenn dies durch das allein stehende Zusatzzeichen �Radverkehr frei“ angezeigt ist. Wer mit dem Rad fährt, darf ferner rechte Seitenstreifen benutzen, wenn keine Radwege vorhanden sind und zu Fuß Gehende nicht behindert werden. Außerhalb geschlossener Ortschaften darf man mit Mofas und E-Bikes Radwege benutzen.
+(4) Mit Fahrrädern darf nebeneinander gefahren werden, wenn dadurch der Verkehr nicht behindert wird; anderenfalls muss einzeln hintereinander gefahren werden. Eine Pflicht, Radwege in der jeweiligen Fahrtrichtung zu benutzen, besteht nur, wenn dies durch Zeichen 237, 240 oder 241 angeordnet ist. Rechte Radwege ohne die Zeichen 237, 240 oder 241 dürfen benutzt werden. Linke Radwege ohne die Zeichen 237, 240 oder 241 dürfen nur benutzt werden, wenn dies durch das allein stehende Zusatzzeichen Radverkehr frei“ angezeigt ist. Wer mit dem Rad fährt, darf ferner rechte Seitenstreifen benutzen, wenn keine Radwege vorhanden sind und zu Fuß Gehende nicht behindert werden. Außerhalb geschlossener Ortschaften darf man mit Mofas und E-Bikes Radwege benutzen.
 (5) Kinder bis zum vollendeten achten Lebensjahr müssen, Kinder bis zum vollendeten zehnten Lebensjahr dürfen mit Fahrrädern Gehwege benutzen. Ist ein baulich von der Fahrbahn getrennter Radweg vorhanden, so dürfen abweichend von Satz 1 Kinder bis zum vollendeten achten Lebensjahr auch diesen Radweg benutzen. Soweit ein Kind bis zum vollendeten achten Lebensjahr von einer geeigneten Aufsichtsperson begleitet wird, darf diese Aufsichtsperson für die Dauer der Begleitung den Gehweg ebenfalls mit dem Fahrrad benutzen; eine Aufsichtsperson ist insbesondere geeignet, wenn diese mindestens 16 Jahre alt ist. Auf zu Fuß Gehende ist besondere Rücksicht zu nehmen. Der Fußgängerverkehr darf weder gefährdet noch behindert werden. Soweit erforderlich, muss die Geschwindigkeit an den Fußgängerverkehr angepasst werden. Wird vor dem Überqueren einer Fahrbahn ein Gehweg benutzt, müssen die Kinder und die diese begleitende Aufsichtsperson absteigen.
 
 § 3 - Geschwindigkeit
@@ -285,7 +285,7 @@ Bleibt ein mehrspuriges Fahrzeug an einer Stelle liegen, an der es nicht rechtze
 
 - 1. :: auf Bahnübergängen mit Andreaskreuz (Zeichen 201),
 - 2. :: auf Bahnübergängen über Fuß-, Feld-, Wald- oder Radwege und
-- 3. :: in Hafen- und Industriegebieten, wenn an den Einfahrten das Andreaskreuz mit dem Zusatzzeichen �Hafengebiet, Schienenfahrzeuge haben Vorrang“ oder �Industriegebiet, Schienenfahrzeuge haben Vorrang“ steht.
+- 3. :: in Hafen- und Industriegebieten, wenn an den Einfahrten das Andreaskreuz mit dem Zusatzzeichen Hafengebiet, Schienenfahrzeuge haben Vorrang“ oder Industriegebiet, Schienenfahrzeuge haben Vorrang“ steht.
 
 Der Straßenverkehr darf sich solchen Bahnübergängen nur mit mäßiger Geschwindigkeit nähern. Wer ein Fahrzeug führt, darf an Bahnübergängen vom Zeichen 151, 156 an bis einschließlich des Kreuzungsbereichs von Schiene und Straße Kraftfahrzeuge nicht überholen.
 
@@ -538,16 +538,16 @@ wenn dadurch am Verkehr Teilnehmende in einer den Verkehr gefährdenden oder ers
 (1) Die Zeichen und Weisungen der Polizeibeamten sind zu befolgen. Sie gehen allen anderen Anordnungen und sonstigen Regeln vor, entbinden den Verkehrsteilnehmer jedoch nicht von seiner Sorgfaltspflicht.
 (2) An Kreuzungen ordnet an:
 
-- 1. :: Seitliches Ausstrecken eines Armes oder beider Arme quer zur Fahrtrichtung: �Halt vor der Kreuzung“.\\
+- 1. :: Seitliches Ausstrecken eines Armes oder beider Arme quer zur Fahrtrichtung: Halt vor der Kreuzung“.\\
   \\
   Der Querverkehr ist freigegeben.\\
   \\
   Wird dieses Zeichen gegeben, gilt es fort, solange in der gleichen Richtung gewinkt oder nur die Grundstellung beibehalten wird. Der freigegebene Verkehr kann nach den Regeln des § 9 abbiegen, nach links jedoch nur, wenn er Schienenfahrzeuge dadurch nicht behindert.
 - 2. :: Hochheben eines Arms:\\
   \\
-  �Vor der Kreuzung auf das nächste Zeichen warten“,\\
+  Vor der Kreuzung auf das nächste Zeichen warten“,\\
   \\
-  für Verkehrsteilnehmer in der Kreuzung: �Kreuzung räumen“.
+  für Verkehrsteilnehmer in der Kreuzung: Kreuzung räumen“.
 
 (3) Diese Zeichen können durch Weisungen ergänzt oder geändert werden.
 (4) An anderen Straßenstellen, wie an Einmündungen und an Fußgängerüberwegen, haben die Zeichen entsprechende Bedeutung.
@@ -560,19 +560,19 @@ wenn dadurch am Verkehr Teilnehmende in einer den Verkehr gefährdenden oder ers
 
 - 1. :: An Kreuzungen bedeuten:\\
   \\
-  Grün: �Der Verkehr ist freigegeben“.\\
+  Grün: Der Verkehr ist freigegeben“.\\
   \\
   Er kann nach den Regeln des § 9 abbiegen, nach links jedoch nur, wenn er Schienenfahrzeuge dadurch nicht behindert.\\
   \\
-  Grüner Pfeil: �Nur in Richtung des Pfeils ist der Verkehr freigegeben“.\\
+  Grüner Pfeil: Nur in Richtung des Pfeils ist der Verkehr freigegeben“.\\
   \\
   Ein grüner Pfeil links hinter der Kreuzung zeigt an, dass der Gegenverkehr durch Rotlicht angehalten ist und dass, wer links abbiegt, die Kreuzung in Richtung des grünen Pfeils ungehindert befahren und räumen kann.\\
   \\
-  Gelb ordnet an: �Vor der Kreuzung auf das nächste Zeichen warten“.\\
+  Gelb ordnet an: Vor der Kreuzung auf das nächste Zeichen warten“.\\
   \\
   Keines dieser Zeichen entbindet von der Sorgfaltspflicht.\\
   \\
-  Rot ordnet an: �Halt vor der Kreuzung“.\\
+  Rot ordnet an: Halt vor der Kreuzung“.\\
   \\
   Nach dem Anhalten ist das Abbiegen nach rechts auch bei Rot erlaubt, wenn rechts neben dem Lichtzeichen Rot ein Schild mit grünem Pfeil auf schwarzem Grund (Grünpfeil) angebracht ist. Durch das Zeichen
   | [[../normengrafiken/bgbl1_2020/j0814-1_0010.jpg]] |
@@ -585,22 +585,22 @@ wenn dadurch am Verkehr Teilnehmende in einer den Verkehr gefährdenden oder ers
 - 2. :: An anderen Straßenstellen, wie an Einmündungen und an Markierungen für den Fußgängerverkehr, haben die Lichtzeichen entsprechende Bedeutung.
 - 3. :: Lichtzeichenanlagen können auf die Farbfolge Gelb-Rot beschränkt sein.
 - 4. :: Für jeden von mehreren markierten Fahrstreifen (Zeichen 295, 296 oder 340) kann ein eigenes Lichtzeichen gegeben werden. Für Schienenbahnen können besondere Zeichen, auch in abweichenden Phasen, gegeben werden; das gilt auch für Omnibusse des Linienverkehrs und nach dem Personenbeförderungsrecht mit dem Schulbus-Zeichen zu kennzeichnende Fahrzeuge des Schüler- und Behindertenverkehrs, wenn diese einen vom übrigen Verkehr freigehaltenen Verkehrsraum benutzen; dies gilt zudem für Krankenfahrzeuge, Fahrräder, Taxen und Busse im Gelegenheitsverkehr, soweit diese durch Zusatzzeichen dort ebenfalls zugelassen sind.
-- 5. :: Gelten die Lichtzeichen nur für zu Fu�Fu�Radverkehr“ angezeigt. Für zu Fuß Gehende ist die Farbfolge Grün-Rot-Grün; für Rad Fahrende kann sie so sein. Wechselt Grün auf Rot, während zu Fuß Gehende die Fahrbahn überschreiten, haben sie ihren Weg zügig fortzusetzen.
+- 5. :: Gelten die Lichtzeichen nur für zu FuFuRadverkehr“ angezeigt. Für zu Fuß Gehende ist die Farbfolge Grün-Rot-Grün; für Rad Fahrende kann sie so sein. Wechselt Grün auf Rot, während zu Fuß Gehende die Fahrbahn überschreiten, haben sie ihren Weg zügig fortzusetzen.
 - 6. :: Wer ein Rad fährt, hat die Lichtzeichen für den Fahrverkehr zu beachten. Davon abweichend sind auf Radverkehrsführungen die besonderen Lichtzeichen für den Radverkehr zu beachten. An Lichtzeichenanlagen mit Radverkehrsführungen ohne besondere Lichtzeichen für Rad Fahrende müssen Rad Fahrende bis zum 31. Dezember 2016 weiterhin die Lichtzeichen für zu Fuß Gehende beachten, soweit eine Radfahrerfurt an eine Fußgängerfurt grenzt.
 
 (3) Dauerlichtzeichen über einem Fahrstreifen sperren ihn oder geben ihn zum Befahren frei.\\
 \\
 Rote gekreuzte Schrägbalken ordnen an:\\
 \\
-�Der Fahrstreifen darf nicht benutzt werden“.\\
+Der Fahrstreifen darf nicht benutzt werden“.\\
 \\
 Ein grüner, nach unten gerichteter Pfeil bedeutet:\\
 \\
-�Der Verkehr auf dem Fahrstreifen ist freigegeben“.\\
+Der Verkehr auf dem Fahrstreifen ist freigegeben“.\\
 \\
 Ein gelb blinkender, schräg nach unten gerichteter Pfeil ordnet an:\\
 \\
-�Fahrstreifen in Pfeilrichtung wechseln“.
+Fahrstreifen in Pfeilrichtung wechseln“.
 (4) Wo Lichtzeichen den Verkehr regeln, darf nebeneinander gefahren werden, auch wenn die Verkehrsdichte das nicht rechtfertigt.
 (5) Wer ein Fahrzeug führt, darf auf Fahrstreifen mit Dauerlichtzeichen nicht halten.
 
@@ -610,7 +610,7 @@ Ein gelb blinkender, schräg nach unten gerichteter Pfeil ordnet an:\\
 \\
 Es ordnet an:\\
 \\
-�Alle übrigen Verkehrsteilnehmer haben sofort freie Bahn zu schaffen“.\\
+Alle übrigen Verkehrsteilnehmer haben sofort freie Bahn zu schaffen“.\\
 \\
 
 (2) Blaues Blinklicht allein darf nur von den damit ausgerüsteten Fahrzeugen und nur zur Warnung an Unfall- oder sonstigen Einsatzstellen, bei Einsatzfahrten oder bei der Begleitung von Fahrzeugen oder von geschlossenen Verbänden verwendet werden.
@@ -657,7 +657,7 @@ Es ordnet an:\\
 | [[../normengrafiken/bgbl1_2013/j0367-1_0160.jpg]] |                                                   |                                                                                                    |                                                   |
 | Gespannfuhrwerke                                  |                                                   |                                                                                                    |                                                   |
 
-(8) Bei besonderen Gefahrenlagen können als Gefahrzeichen nach Anlage 1 auch die Sinnbilder �Viehtrieb“ und �Reiter“ und Sinnbilder mit folgender Bedeutung angeordnet sein:
+(8) Bei besonderen Gefahrenlagen können als Gefahrzeichen nach Anlage 1 auch die Sinnbilder Viehtrieb“ und Reiter“ und Sinnbilder mit folgender Bedeutung angeordnet sein:
 | [[../normengrafiken/bgbl1_2013/j0367-1_0170.jpg]] | [[../normengrafiken/bgbl1_2013/j0367-1_0180.jpg]] | [[../normengrafiken/bgbl1_2013/j0367-1_0190.jpg]] |
 | Schnee- oder Eisglätte                            | Steinschlag                                       | Splitt, Schotter                                  |
 | [[../normengrafiken/bgbl1_2013/j0367-1_0200.jpg]] | [[../normengrafiken/bgbl1_2013/j0367-1_0210.jpg]] | [[../normengrafiken/bgbl1_2013/j0367-1_0220.jpg]] |
@@ -763,13 +763,13 @@ wenn dadurch anders nicht vermeidbare Belästigungen durch den Fahrzeugverkehr v
 
 Die Straßenverkehrsbehörden ordnen die Parkmöglichkeiten für Bewohner, die Kennzeichnung von Fußgängerbereichen, verkehrsberuhigten Bereichen und Maßnahmen zum Schutze der Bevölkerung vor Lärm und Abgasen oder zur Unterstützung einer geordneten städtebaulichen Entwicklung im Einvernehmen mit der Gemeinde an.
 
-(1c) Die Stra�rechts vor links“) gelten. Abweichend von Satz 3 bleiben vor dem 1. November 2000 angeordnete Tempo 30-Zonen mit Lichtzeichenanlagen zum Schutz der Fußgänger zulässig.
+(1c) Die Strarechts vor links“) gelten. Abweichend von Satz 3 bleiben vor dem 1. November 2000 angeordnete Tempo 30-Zonen mit Lichtzeichenanlagen zum Schutz der Fußgänger zulässig.
 (1d) In zentralen städtischen Bereichen mit hohem Fußgängeraufkommen und überwiegender Aufenthaltsfunktion (verkehrsberuhigte Geschäftsbereiche) können auch Zonen-Geschwindigkeitsbeschränkungen von weniger als 30 km/h angeordnet werden.
 (1e) Die Straßenverkehrsbehörden ordnen die für den Betrieb von mautgebührenpflichtigen Strecken erforderlichen Verkehrszeichen und Verkehrseinrichtungen auf der Grundlage des vom Konzessionsnehmer vorgelegten Verkehrszeichenplans an. Die erforderlichen Anordnungen sind spätestens drei Monate nach Eingang des Verkehrszeichenplans zu treffen.
 (1f) Zur Kennzeichnung der in einem Luftreinhalteplan oder einem Plan für kurzfristig zu ergreifende Maßnahmen nach § 47 Absatz 1 oder 2 des Bundes-Immissionsschutzgesetzes festgesetzten Umweltzonen ordnet die Straßenverkehrsbehörde die dafür erforderlichen Verkehrsverbote mittels der Zeichen 270.1 und 270.2 in Verbindung mit dem dazu vorgesehenen Zusatzzeichen an.
 (1g) Zur Bevorrechtigung elektrisch betriebener Fahrzeuge ordnet die Straßenverkehrsbehörde unter Beachtung der Anforderungen des § 3 Absatz 1 des Elektromobilitätsgesetzes die dafür erforderlichen Zeichen 314, 314.1 und 315 in Verbindung mit dem dazu vorgesehenen Zusatzzeichen an.
 (1h) Zur Parkbevorrechtigung von Carsharingfahrzeugen ordnet die Straßenverkehrsbehörde unter Beachtung der Anforderungen der §§ 2 und 3 des Carsharinggesetzes die dafür erforderlichen Zeichen 314, 314.1 und 315 in Verbindung mit dem dazu vorgesehenen Zusatzzeichen mit dem Carsharingsinnbild nach § 39 Absatz 11 an. Soll die Parkfläche nur für ein bestimmtes Carsharingunternehmen vorgehalten werden, ist auf einem weiteren Zusatzzeichen unterhalb dieses Zusatzzeichens die Firmenbezeichnung des Carsharingunternehmens namentlich in schwarzer Schrift auf weißem Grund anzuordnen.
-(1i) Die Stra�rechts vor links“) gelten. Die Anordnung einer Fahrradzone darf sich nicht mit der Anordnung einer Tempo 30-Zone überschneiden. Innerhalb der Fahrradzone ist in regelmäßigen Abständen das Zeichen 244.3 als Sinnbild auf der Fahrbahn aufzubringen.
+(1i) Die Strarechts vor links“) gelten. Die Anordnung einer Fahrradzone darf sich nicht mit der Anordnung einer Tempo 30-Zone überschneiden. Innerhalb der Fahrradzone ist in regelmäßigen Abständen das Zeichen 244.3 als Sinnbild auf der Fahrbahn aufzubringen.
 (2) Zur Durchführung von Straßenbauarbeiten und zur Verhütung von außerordentlichen Schäden an der Straße, die durch deren baulichen Zustand bedingt sind, können die nach Landesrecht für den Straßenbau bestimmten Behörden (Straßenbaubehörde) -- vorbehaltlich anderer Maßnahmen der Straßenverkehrsbehörden -- Verkehrsverbote und -beschränkungen anordnen, den Verkehr umleiten und ihn durch Markierungen und Leiteinrichtungen lenken. Für Bahnübergänge von Eisenbahnen des öffentlichen Verkehrs können nur die Bahnunternehmen durch Blinklicht- oder Lichtzeichenanlagen, durch rot-weiß gestreifte Schranken oder durch Aufstellung des Andreaskreuzes ein bestimmtes Verhalten der Verkehrsteilnehmer vorschreiben. Für Bahnübergänge von Straßenbahnen auf unabhängigem Bahnkörper gilt Satz 2 mit der Maßgabe entsprechend, dass die Befugnis zur Anordnung der Maßnahmen der nach personenbeförderungsrechtlichen Vorschriften zuständigen Technischen Aufsichtsbehörde des Straßenbahnunternehmens obliegt. Alle Gebote und Verbote sind durch Zeichen und Verkehrseinrichtungen nach dieser Verordnung anzuordnen.
 (3) Im Übrigen bestimmen die Straßenverkehrsbehörden, wo und welche Verkehrszeichen und Verkehrseinrichtungen anzubringen und zu entfernen sind, bei Straßennamensschildern nur darüber, wo diese so anzubringen sind, wie Zeichen 437 zeigt. Die Straßenbaubehörden legen -- vorbehaltlich anderer Anordnungen der Straßenverkehrsbehörden -- die Art der Anbringung und der Ausgestaltung, wie Übergröße, Beleuchtung fest; ob Leitpfosten anzubringen sind, bestimmen sie allein. Sie können auch -- vorbehaltlich anderer Maßnahmen der Straßenverkehrsbehörden -- Gefahrzeichen anbringen, wenn die Sicherheit des Verkehrs durch den Zustand der Straße gefährdet wird.
 (4) Die genannten Behörden dürfen den Verkehr nur durch Verkehrszeichen und Verkehrseinrichtungen regeln und lenken; in dem Fall des Absatzes 1 Satz 2 Nummer 5 jedoch auch durch Anordnungen, die durch Rundfunk, Fernsehen, Tageszeitungen oder auf andere Weise bekannt gegeben werden, sofern die Aufstellung von Verkehrszeichen und -einrichtungen nach den gegebenen Umständen nicht möglich ist.

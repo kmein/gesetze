@@ -6,13 +6,13 @@ Ausfertigungsdatum: 14.08.2017
 
 Inhaltsübersicht
 
-�
-�
-�
-�
-�
-�
-�
+
+
+
+
+
+
+
 
 § 1 - Anwendungsbereich
 
@@ -23,12 +23,12 @@ Inhaltsübersicht
 
 Im Sinne dieses Gesetzes ist oder sind:
 
-- 1. :: �Gesamtvorhaben KONSENS“ das Zusammenwirken des Bundes und der Länder nach § 1,
-- 2. :: �IT-Verfahren“ die Zusammenfassung mehrerer Software-Entwicklungen,
-- 3. :: �Hauptversion“ eine neue Version einer Software mit signifikant erweiterter Funktionalität,
-- 4. :: �Vorhabensplan“ der jährlich fortzuschreibende Plan der zu entwickelnden IT-Verfahren und Software,
-- 5. :: �Sourcingstrategie“ die Entwicklung, Anpassung und Planung einer Beschaffungsstrategie zum Einsatz interner und externer Unterstützung,
-- 6. :: �Architektur“ eine Beschreibung von IT-, Fach- und Betriebsarchitektur einschließlich der technischen Basis, auf der IT-Verfahren oder Software zur Umsetzung der festgelegten Anforderungen bereitgestellt werden müssen.
+- 1. :: Gesamtvorhaben KONSENS“ das Zusammenwirken des Bundes und der Länder nach § 1,
+- 2. :: IT-Verfahren“ die Zusammenfassung mehrerer Software-Entwicklungen,
+- 3. :: Hauptversion“ eine neue Version einer Software mit signifikant erweiterter Funktionalität,
+- 4. :: Vorhabensplan“ der jährlich fortzuschreibende Plan der zu entwickelnden IT-Verfahren und Software,
+- 5. :: Sourcingstrategie“ die Entwicklung, Anpassung und Planung einer Beschaffungsstrategie zum Einsatz interner und externer Unterstützung,
+- 6. :: Architektur“ eine Beschreibung von IT-, Fach- und Betriebsarchitektur einschließlich der technischen Basis, auf der IT-Verfahren oder Software zur Umsetzung der festgelegten Anforderungen bereitgestellt werden müssen.
 
 
 § 3 - Allgemeine Festlegungen

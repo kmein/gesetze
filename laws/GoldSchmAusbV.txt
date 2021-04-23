@@ -296,7 +296,7 @@ Arbeitssicherheit, Umweltschutz und rationelle Energieverwendung (¬ß 4 Abs. 1 Nr
 
 - *) :: F√ºr das erste Ausbildungsjahr sind die Ausbildungsinhalte der Berufe Goldschmied/Goldschmiedin, Silberschmied/Silberschmiedin und Edelsteinfasser/Edelsteinfasserin gleich.
 
-†
+
 
 5
 
@@ -309,11 +309,11 @@ Inbetriebnehmen von Maschinen sowie Warten von Betriebsmitteln (¬ß 4 Abs. 1 Nr. 
 
 2
 
-†
 
-†
 
-†
+
+
+
 
 6
 
@@ -327,11 +327,11 @@ Ausw√§hlen, Vorbereiten, Handhaben und Lagern von Werk- und Hilfsstoffen (¬ß 4 A
 
 2*)
 
-†
 
-†
 
-†
+
+
+
 
 7
 
@@ -344,32 +344,32 @@ Planen von Arbeitsabl√§ufen (¬ß 4 Abs. 1 Nr. 7)
 
 4*)
 
-†
 
-†
 
-†
+
+
+
 
 - e) :: Umsetzung eigener Entw√ºrfe unter Beachtung technischer M√∂glichkeiten und Grenzen sowie gestalterischer Absicht planen
 - f) :: Arbeitsablauf selbst√§ndig unter Ber√ºcksichtigung organisatorischer und informatorischer Notwendigkeiten sowie Dauer der Arbeitsg√§nge planen und die Durchf√ºhrung selbst√§ndig vorbereiten
 
-†
+
 
 2
 
-†
 
-†
+
+
 
 - g) :: gestalterische Pr√ºfkriterien entwickeln, insbesondere unter Beachtung der Proportionen und der Formqualit√§t des Entwurfes
 
-†
+
 
 2
 
-†
 
-†
+
+
 
 8
 
@@ -390,15 +390,15 @@ Messen und Kennzeichnen sowie Kontrollieren vor Arbeitsergebnissen (¬ß 4 Abs. 1 
 
 4*)
 
-†
 
-†
 
-†
+
+
+
 
 - *) :: Im Zusammenhang mit anderen im Ausbildungsrahmenplan aufgef√ºhrten Ausbildungsinhalten zu vermitteln.
 
-†
+
 
 9
 
@@ -410,34 +410,34 @@ Gestalten und Darstellen von Schmuck und Ger√§t (¬ß 4 Abs. 1 Nr. 9)
 
 5
 
-†
 
-†
 
-†
+
+
+
 
 - b) :: unter Beachtung von historischer und zeitgen√∂ssischer Formensprache
   - aa) :: Zeichnungen in mehreren Ansichten anfertigen
 
-†
+
 
 4
 
-†
 
-†
+
+
 
 - ¬† :: - bb) :: schwarzwei√üe perspektivische Kundenzeichnungen anfertigen
   - cc) :: farbige perspektivische Kundenzeichnungen anfertigen
   - dd) :: plastische Entw√ºrfe anfertigen
 
-†
+
 
 4
 
-†
 
-†
+
+
 
 10
 
@@ -454,31 +454,31 @@ unter Beachtung von Metalleigenschaften und gestellten Anforderungen
 
 8
 
-†
 
-†
 
-†
+
+
+
 
 - g) :: Werkst√ºcke schmieden, insbesondere querschnittver√§ndernd, streckend und stauchend
 
-†
+
 
 4
 
-†
 
-†
+
+
 
 - h) :: Schmuckteile auftiefen, aufziehen und einziehen
 
-†
+
 
 4
 
-†
 
-†
+
+
 
 11
 
@@ -499,11 +499,11 @@ unter Beachtung von Werkstoffeigenschaften und gestellten Anforderungen
 
 6
 
-†
 
-†
 
-†
+
+
+
 
 12
 
@@ -522,21 +522,21 @@ unter Beachtung von Werkstoffeigenschaften und gestellten Anforderungen
 
 7
 
-†
 
-†
 
-†
+
+
+
 
 - g) :: Schmuckteile mit Mehrfachl√∂tungen montieren
 
-†
+
 
 4
 
-†
 
-†
+
+
 
 13
 
@@ -550,21 +550,21 @@ unter Beachtung der ablaufenden chemischen und physikalischen Vorg√§nge
 
 2
 
-†
 
-†
 
-†
+
+
+
 
 - d) :: Metalle tempern
 
-†
+
 
 2
 
-†
 
-†
+
+
 
 14
 
@@ -575,11 +575,11 @@ Anfertigen von Kleinwerkzeugen (¬ß 4 Abs. 1 Nr. 14)
 
 4
 
-†
 
-†
 
-†
+
+
+
 
 15
 
@@ -591,24 +591,24 @@ unter Beachtung von gestalterischer Absicht und Funktion
 - b) :: Broschierungen anfertigen, insbesondere Zugsicherung und verdeckte Haken
 - c) :: Manschettenknopf-Mechaniken anfertigen
 
-†
+
 
 5
 
-†
 
-†
+
+
 
 - d) :: Verschl√ºsse anfertigen, insbesondere Schnapp-, Dreh- und Leiterverschl√ºsse
 - e) :: Ohrschmuck-Mechaniken anfertigen, insbesondere Clip-Mechaniken
 
-†
+
 
 5
 
-†
 
-†
+
+
 
 16
 
@@ -616,13 +616,13 @@ Anfertigen von Ketten (¬ß 4 Abs. 1 Nr. 16)
 
 Ankerketten anfertigen und verformen, insbesondere unter Beachtung von gestalterischer Absicht
 
-†
+
 
 5
 
-†
 
-†
+
+
 
 17
 
@@ -632,23 +632,23 @@ Anfertigen und Montieren von Zargen und Fassungen (¬ß 4 Abs. 1 Nr. 17)
 
 4
 
-†
 
-†
 
-†
+
+
+
 
 - b) :: unter Beachtung von gestalterischer Absicht und Funktion
   - aa) :: Fassungen anfertigen, insbesondere Chaton-, Krappen-, zylindrische und konische Fassungen
   - bb) :: Fassungen montieren
 
-†
+
 
 4
 
-†
 
-†
+
+
 
 18
 
@@ -663,23 +663,23 @@ Behandeln von Oberfl√§chen(¬ß 4 Abs. 1 Nr. 18)
 
 4
 
-†
 
-†
 
-†
+
+
+
 
 - b) :: unter Beachtung von Umwelt- und Gesundheitsschutzvorschriften
   - aa) :: galvanische √úberz√ºge herstellen
   - bb) :: Metalle mit chemischen Hilfsmitteln f√§rben
 
-†
+
 
 3
 
-†
 
-†
+
+
 
 19
 
@@ -690,15 +690,15 @@ unter Beachtung der Eigenschaften von Edelsteinen und organischen Stoffen
 - a) :: Edelsteine und organische Stoffe erkennen, zuordnen und handhaben
 - b) :: Wertverh√§ltnisse von Edelsteinen und organischen Stoffen sowie Sorgfaltspflichten beim Umgang mit diesen Stoffen beachten
 
-†
+
 
 4
 
-†
 
-†
 
-†
+
+
+
 
 II. Fertigkeiten und Kenntnisse in den Fachrichtungen gem√§√ü ¬ß 4 Abs. 2
 
@@ -710,13 +710,13 @@ Gestalten von Schmuck (¬ß 4 Abs. 2 Nr. 1a)
 
 unter Beachtung allgemeiner und spezieller Gestaltungsprinzipien Entw√ºrfe anfertigen, insbesondere f√ºr Gravier-, Ziselier-, √Ñtz-, Emaillier-, Niellier-, Tauschier- und Granuliertechniken
 
-†
 
-†
+
+
 
 7
 
-†
+
 
 2
 
@@ -727,13 +727,13 @@ unter Beachtung von gestalterischer Absicht
 - a) :: Schmuck und Schmuckteile schmieden, insbesondere Schienen, Spangen und Reifen
 - b) :: Schmuck und Schmuckteile mit Punzen formen
 
-†
 
-†
+
+
 
 12
 
-†
+
 
 3
 
@@ -746,13 +746,13 @@ unter Beachtung von gestalterischer Absicht
 - c) :: gie√üen
 - d) :: Gu√ü nacharbeiten
 
-†
 
-†
+
+
 
 7
 
-†
+
 
 4
 
@@ -765,13 +765,13 @@ unter Beachtung von gestalterischer Absicht sowie der M√∂glichkeiten und Grenzen
 - c) :: Fl√§chen durch Aufl√∂ten von Metallteilen, insbesondere Dr√§hten, gestalten
 - d) :: Fl√§chen mit Email gestalten, insbesondere Platten- und K√∂rperemail, Gruben- und Zellenschmelz, Fensteremail und Drucktechniken sowie malerischen Betragtechniken und Maltechniken ausf√ºhren
 
-†
 
-†
+
+
 
 14
 
-†
+
 
 5
 
@@ -785,13 +785,13 @@ unter Beachtung der gestalterischen Absicht
 - d) :: Bohrungen und Ajouren f√ºr Verschnittplatten anfertigen
 - e) :: Juwelenmontagen durchf√ºhren
 
-†
 
-†
+
+
 
 13
 
-†
+
 
 6
 
@@ -803,13 +803,13 @@ unter Beachtung von gestalterischer Absicht, Steineigenschaften und Sorgfaltspfl
 - b) :: Steine in Zargenfassungen fassen
 - c) :: Steine in Krappenfassungen fassen
 
-†
 
-†
+
+
 
 4
 
-†
+
 
 7
 
@@ -817,13 +817,13 @@ Aufarbeiten, Reparieren und Umarbeiten von Schmuck (¬ß 4 Abs. 2 Nr. 1g)
 
 Schmuck aufarbeiten, reparieren und umarbeiten
 
-†
 
-†
+
+
 
 15
 
-†
+
 
 8
 
@@ -834,15 +834,15 @@ auf der Basis von Fremd- und Eigenentw√ºrfen selbst√§ndig Ansteck-, Hals- und Oh
 - a) :: Schmuck mit selbstangefertigten Funktionsteilen unter Verwendung von Hilfsstoffen und Hilfsmitteln anfertigen, passen und verbinden
 - b) :: Edelsteine fassen, insbesondere durch Antreiben
 
-†
 
-†
+
+
 
 6
 
-†
 
-†
+
+
 
 B. Fachrichtung Juwelen
 
@@ -852,13 +852,13 @@ Gestalten von Juwelenschmuck (¬ß 4 Abs. 2 Nr. 2a)
 
 unter Beachtung allgemeiner und spezieller Gestaltungsprinzipien Entw√ºrfe anfertigen, insbesondere f√ºr Gravier-, Ziselier-, √Ñtz-, Emaillier-, Niellier-, Tauschier- und Granuliertechniken
 
-†
 
-†
+
+
 
 7
 
-†
+
 
 2
 
@@ -870,24 +870,24 @@ unter Beachtung der gestalterischen Absicht
 - b) :: doublieren
 - c) :: verkadern
 
-†
 
-†
+
+
 
 11
 
-†
+
 
 - d) :: Juwelenfassungen anfertigen, insbesondere K√∂rbchen- und Chatonfassungen, eckige und runde Fassungen sowie Bohrungen f√ºr Fa√üarbeiten und fl√§chendeckende Fassungen f√ºr Pavee und Fadenverschnitt
 - e) :: Edelsteinanordnungen festlegen
 
-†
 
-†
+
+
 
 15
 
-†
+
 
 3
 
@@ -900,13 +900,13 @@ unter Beachtung von gestalterischer Absicht sowie von M√∂glichkeiten und Grenzen
 - c) :: gie√üen
 - d) :: Gu√üteile nacharbeiten
 
-†
 
-†
+
+
 
 12
 
-†
+
 
 4
 
@@ -918,13 +918,13 @@ unter Beachtung von gestalterischer Absicht, Steineigenschaften und Sorgfaltspfl
 - b) :: Steine in Zargenfassungen fassen
 - c) :: Steine in Krappenfassungenfassen
 
-†
 
-†
+
+
 
 4
 
-†
+
 
 5
 
@@ -932,13 +932,13 @@ Aufarbeiten, Reparieren und Umarbeiten von Juwelenschmuck(¬ß 4 Abs. 2Nr. 2e)
 
 Juwelenschmuck aufarbeiten, reparieren und umarbeiten
 
-†
 
-†
+
+
 
 6
 
-†
+
 
 6
 
@@ -948,25 +948,25 @@ unter Beachtung der gestalterischen Absicht selbst√§ndig Ansteck-, Hals- und Ohr
 
 - a) :: klassischen Juwelenschmuck als Tr√§gerelement mit Chaton- und fl√§chendeckenden Fassungen sowie mit deren Kombinationen, insbesondere unter Einbeziehung von Bewegungstechniken, planen und anfertigen
 
-†
 
-†
+
+
 
 13
 
-†
+
 
 - b) :: zeitgem√§√üen Juwelenschmuck unter Einbeziehung zu gestaltendermetallischer und nichtmetallischer Fl√§chen planen und anfertigen
 
-†
 
-†
+
+
 
 10
 
-†
 
-†
+
+
 
 C. Fachrichtung Ketten
 
@@ -976,13 +976,13 @@ Gestalten von Ketten (¬ß 4 Abs. 2 Nr. 3a)
 
 unter Beachtung allgemeiner und spezieller Gestaltungsprinzipien Kettenschmuck gestalten
 
-†
 
-†
+
+
 
 9
 
-†
+
 
 2
 
@@ -1000,13 +1000,13 @@ unter Beachtung von gestalterischer Absicht
   - aa) :: Dr√§hte und Rohre auf Spindeln wickeln
   - bb) :: Glieder trennen
 
-†
 
-†
+
+
 
 10
 
-†
+
 
 3
 
@@ -1021,25 +1021,25 @@ unter Beachtung von gestalterischer Absicht
   - dd) :: Glieder unterschiedlicher Gr√∂√üe durch unterschiedliche Anordnung zu verschiedenartigen Ketten verbinden
   - ee) :: Glieder unterschiedlicher Form und Gr√∂√üe durch unterschiedliche Anordnung zu verschiedenartigen Ketten, insbesondere zu Figaroketten, verbinden
 
-†
 
-†
+
+
 
 13
 
-†
+
 
 - b) :: Ketten zu B√§ndern verbinden, insbesondere durch Ineinanderh√§ngen, Aneinanderl√∂ten und Verflechten
 - c) :: Geflechte anfertigen, insbesondere Glieder und Spiralen durch Verstiften verbinden
 - d) :: Kettenkerne chemisch aufl√∂sen
 
-†
 
-†
+
+
 
 11
 
-†
+
 
 4
 
@@ -1050,13 +1050,13 @@ unter Beachtung von gestalterischer Absicht und von Verformungsm√∂glichkeiten
 - a) :: Ketten spanlos verformen, insbesondere durch Pressen, nachfolgendes Gl√ºhen und Beweglichmachen sowie durch Verdrehen, Ziehen und Walzen
 - b) :: Ketten spanabhebend verformen, insbesondere durch Feilen, Fr√§sen und Facettieren
 
-†
 
-†
+
+
 
 11
 
-†
+
 
 5
 
@@ -1064,13 +1064,13 @@ Anfertigen von Kettenverschl√ºssen (¬ß 4 Abs. 2Nr. 3e)
 
 unter Beachtung von Funktion und gestalterischer Absicht Kettenverschl√ºsse anfertigen, insbesondere Kastenschl√∂sser
 
-†
 
-†
+
+
 
 9
 
-†
+
 
 6
 
@@ -1083,13 +1083,13 @@ unter Beachtung von Funktion und gestalterischer Absicht
 - c) :: Zwischenglieder zwischen Kettenteile einh√§ngen und einl√∂ten
 - d) :: Bel√∂tungen an Ketten anbringen
 
-†
 
-†
+
+
 
 11
 
-†
+
 
 7
 
@@ -1101,10 +1101,10 @@ unter Beachtung von gestalterischer Absicht, Steineigenschaften und Sorgfaltspfl
 - b) :: Steine in Zargenfassungen fassen
 - c) :: Steine in Krappenfassungenfassen
 
-†
 
-†
+
+
 
 4
 
-†
+

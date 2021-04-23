@@ -243,11 +243,11 @@ Planen und Vorbereiten des Arbeitsablaufes sowie Kontrollieren und Bewerten der 
 
 5*)
 
-†
 
-†
 
-†
+
+
+
 
 6
 
@@ -278,15 +278,15 @@ Pr√ºfen, Messen, Lehren\\
 
 6*)
 
-†
 
-†
 
-†
+
+
+
 
 - *) :: Im Zusammenhang mit anderen im Ausbildungsrahmenplan aufgef√ºhrten Ausbildungsinhalten zu vermitteln.
 
-†
+
 
 8
 
@@ -304,11 +304,11 @@ F√ºgen\\
 
 7
 
-†
 
-†
 
-†
+
+
+
 
 9
 
@@ -332,11 +332,11 @@ manuelles Spanen und Umformen\\
 
 5
 
-†
 
-†
 
-†
+
+
+
 
 10
 
@@ -354,11 +354,11 @@ maschinelles Bearbeiten\\
 
 6
 
-†
 
-†
 
-†
+
+
+
 
 11
 
@@ -385,11 +385,11 @@ Instandhalten\\
 
 11
 
-†
 
-†
 
-†
+
+
+
 
 12
 
@@ -406,15 +406,15 @@ Drehen und Fr√§sen\\
 
 12*)
 
-†
 
-†
 
-†
+
+
+
 
 - *) :: Dabei sollen bereits vermittelte Ausbildungsinhalte unter Ber√ºcksichtigung betriebsbedingter Schwerpunkte sowie des individuellen Lernfortschritts vertieft werden.
 
-†
+
 
 II. Berufliche Fachbildung
 
@@ -430,24 +430,24 @@ Planen und Vorbereiten des Arbeitsablaufes sowie Kontrollieren und Bewerten der 
 - e) :: Arbeitsplatz unter Ber√ºcksichtigung des Arbeitsauftrages vorbereiten
 - f) :: Arbeitsergebnisse kontrollieren und bewerten
 
-†
+
 
 4*)
 
-†
 
-†
+
+
 
 - g) :: Arbeitsablauf unter Ber√ºcksichtigung des Auftrages sowie organisatorischer und informatorischer Notwendigkeiten festlegen und sicherstellen
 - h) :: Fertigungs- und Instandsetzungsumfang absch√§tzen
 
-†
 
-†
+
+
 
 4
 
-†
+
 
 2
 
@@ -460,13 +460,13 @@ Lesen, Anwenden und Erstellen von technischen Unterlagen\\
 - d) :: Betriebs-, Bedienungs- und Instandhaltungsanleitungen anwenden
 - e) :: technische Sachverhalte, insbesondere in Form von Protokollen und Berichten, aufzeichnen
 
-†
+
 
 3*)
 
-†
 
-†
+
+
 
 3
 
@@ -476,13 +476,13 @@ Pr√ºfen, Messen, Lehren\\
 - a) :: L√§ngen und Formen unter Beachtung von Ma√ü-, Form- und Lagetoleranzen mit entsprechenden Pr√ºfmitteln unter Beachtung von systematischen und zuf√§lligen Me√üfehlerm√∂glichkeiten lehren und messen
 - b) :: Oberfl√§chenbeschaffenheit in Abh√§ngigkeit von ihrer Funktion beurteilen
 
-†
+
 
 3*)
 
-†
 
-†
+
+
 
 4
 
@@ -494,17 +494,17 @@ Unterscheiden, Zuordnen und Handhaben von Werk- und Hilfsstoffen\\
 - c) :: Hilfsstoffe, insbesondere K√ºhl- und Schmierstoffe, unterscheiden, ihrer Verwendung nach zuordnen und unter Beachtung des Umgangs mit gef√§hrlichen Arbeitsstoffen anwenden
 - d) :: Schleif- und Poliermittel ausw√§hlen und anwenden
 
-†
+
 
 4*)
 
-†
 
-†
+
+
 
 - *) :: Im Zusammenhang mit anderen im Ausbildungsrahmenplan aufgef√ºhrten Ausbildungsinhalten zu vermitteln.
 
-†
+
 
 5
 
@@ -519,13 +519,13 @@ L√∂ten, Schwei√üen, Kleben\\
   - ee) :: I-N√§hte an Feinblechen aus Stahl schwei√üen
 - b) :: Kleben: Bauteile aus Metallen und Kunststoffen mit dem f√ºr die jeweilige Materialpaarung geeigneten Klebstoff unter Beachtung der klebstoffspezifischen Verarbeitungsbedingungen, insbesondere der Vorbereitung der Oberfl√§chen, kleben
 
-†
 
-†
+
+
 
 4
 
-†
+
 
 6
 
@@ -535,13 +535,13 @@ W√§rmebehandeln, H√§rtepr√ºfen\\
 - a) :: Werkst√ºcke h√§rten, anlassen, gl√ºhen und verg√ºten
 - b) :: Werkst√ºcke mit werkstatt√ºblichen Verfahren h√§rtepr√ºfen
 
-†
+
 
 4
 
-†
 
-†
+
+
 
 7
 
@@ -550,23 +550,23 @@ Montieren von Bauteilen zu Baugruppen\\
 
 - a) :: Bauteile zu Baugruppen funktionsgerecht verbinden
 
-†
+
 
 4
 
-†
 
-†
+
+
 
 - b) :: montierte Baugruppen funktionsgerecht richten, die Lage sichern sowie durch Sichtkontrolle, Messen und Lehren pr√ºfen
 
-†
 
-†
+
+
 
 4
 
-†
+
 
 8
 
@@ -576,13 +576,13 @@ Aufbauen und Pr√ºfen von Pneumatikschaltungen\\
 - a) :: Druck in pneumatischen Systemen messen und einstellen
 - b) :: Funktion pneumatischer Bauelemente pr√ºfen
 
-†
+
 
 2
 
-†
 
-†
+
+
 
 9
 
@@ -595,13 +595,13 @@ Bearbeiten von Werkst√ºcken durch Spanen von Hand und mit handgef√ºhrten Maschin
 - d) :: Formen und Fl√§chen an Werkst√ºcken aus Eisen- und Nichteisenmetallen mit handgef√ºhrten Maschinen durch Polieren bearbeiten
 - e) :: Formen und Fl√§chen an geh√§rteten und ungeh√§rteten Werkzeugteilen mit unterschiedlichen Werkzeugen und Hilfsmitteln von Hand und mit handgef√ºhrten Maschinen bearbeiten
 
-†
+
 
 3
 
-†
 
-†
+
+
 
 10
 
@@ -612,13 +612,13 @@ Bearbeiten von Formen und Fl√§chen an Instrumenten, Ger√§ten oder Implantaten\\
 - b) :: Formen und Fl√§chen an Instrumenten, Ger√§ten oder Implantaten b√ºrsten, polieren, gl√§nzen
 - c) :: geh√§rtete und ungeh√§rtete Instrumente, Ger√§te oder Implantate durch Rauhen, Karieren, Kehlen und Strahlen bearbeiten
 
-†
 
-†
+
+
 
 8
 
-†
+
 
 11
 
@@ -630,13 +630,13 @@ Programmieren von numerisch gesteuerten Werkzeugmaschinen\\
 - c) :: Werkzeugkorrekturwerte bestimmen und einstellen
 - d) :: Fehler in Programmen eingrenzen und korrigieren
 
-†
 
-†
+
+
 
 4
 
-†
+
 
 12
 
@@ -650,13 +650,13 @@ Bearbeiten von Werkst√ºcken durch Spanen auf Werkzeugmaschinen\\
   - dd) :: Werkzeuge ausw√§hlen und in fixierende und verstellbare Aufnahmen einsetzen
   - ee) :: Werkzeuge von Hand scharfschleifen
 
-†
+
 
 3
 
-†
 
-†
+
+
 
 - b) :: Bohren, Senken, Reiben:
   - aa) :: Bohrungen in Werkst√ºcken aus Eisen- und Nichteisenmetallen sowie aus Kunststoffen bis zu einer Lagetoleranz von +- 0,1 mm an Bohr- und Drehmaschinen mit unterschiedlichen Werkzeugen durch Bohren ins Volle, Aufbohren, Zentrieren, Profilsenken und Plansenken herstellen
@@ -664,26 +664,26 @@ Bearbeiten von Werkst√ºcken durch Spanen auf Werkzeugmaschinen\\
 - c) :: Schleifen:\\
   geh√§rtete und ungeh√§rtete Werkst√ºcke bis zur Ma√ügenauigkeit +- 0,2 mm bearbeiten
 
-†
+
 
 4
 
-†
 
-†
+
+
 
 - d) :: Drehen und Fr√§sen:
   - aa) :: Werkst√ºcke aus Eisen- und Nichteisenmetallen sowie aus Kunststoffen bis zur Ma√ügenauigkeit IT 8 mit unterschiedlichen Drehmei√üeln durch Quer-Plan- und L√§ngs-Runddrehen auf Drehmaschinen bearbeiten
   - bb) :: Werkst√ºcke aus Eisen- und Nichteisenmetallen mit unterschiedlichen Drehmei√üeln durch Formdrehen, insbesondere Radien und Kegel, auf Drehmaschinen bearbeiten
   - cc) :: Werkst√ºcke aus Eisen- und Nichteisenmetallen bis zur Ma√ügenauigkeit IT 8 mit unterschiedlichen Fr√§sern durch Umfangs-Planfr√§sen und Stirn-Umfangs-Planfr√§sen auf Fr√§smaschinen bearbeiten
 
-†
+
 
 4
 
-†
 
-†
+
+
 
 - ¬† :: - dd) :: Werkst√ºcke aus Eisen- und Nichteisenmetallen sowie aus Kunststoffen bis zur Ma√ügenauigkeit IT 7 mit unterschiedlichen Drehmei√üeln durch Quer-Plan- und L√§ngs-Runddrehen auf Drehmaschinen bearbeiten
   - ee) :: Werkst√ºcke aus Eisen- und Nichteisenmetallen bis zur Ma√ügenauigkeit IT 7 mit unterschiedlichen Fr√§sern durch Umfangs-Planfr√§sen und Stirn-Umfangs-Planfr√§sen auf Fr√§smaschinen bearbeiten
@@ -691,13 +691,13 @@ Bearbeiten von Werkst√ºcken durch Spanen auf Werkzeugmaschinen\\
   - gg) :: Teilungen an Werkst√ºcken durch direktes Teilen herstellen
   - hh) :: Werkst√ºcke aus Eisen- und Nichteisenmetallen auf numerisch gesteuerten Werkzeugmaschinen bearbeiten
 
-†
 
-†
+
+
 
 12
 
-†
+
 
 13
 
@@ -706,43 +706,43 @@ Bearbeiten von Werkst√ºcken durch Freiformschleifen\\
 
 - a) :: ebene Fl√§chen an Instrumenten von Hand schleifen
 
-†
+
 
 8
 
-†
 
-†
+
+
 
 - b) :: zylindrische Fl√§chen an Instrumenten von Hand schleifen
 
-†
+
 
 6
 
-†
 
-†
+
+
 
 - c) :: analytisch nicht bestimmbare Fl√§chen an Instrumenten und Implantaten freiformschleifen
 
-†
 
-†
+
+
 
 13
 
-†
+
 
 - d) :: geh√§rtete Instrumente und Ger√§te sch√§rfen
 
-†
 
-†
+
+
 
 13
 
-†
+
 
 14
 
@@ -753,13 +753,13 @@ Montieren und Demontieren von Instrumenten, Ger√§ten oder Implantaten\\
 - b) :: montierte Baugruppen funktionsgerecht richten, die Lage sichern sowie durch Sichtkontrolle, Messen und Lehren pr√ºfen
 - c) :: Instrumente, Ger√§te oder Implantate unter Beachtung ihrer Funktion zerlegen und kennzeichnen
 
-†
 
-†
+
+
 
 4
 
-†
+
 
 15
 
@@ -770,13 +770,13 @@ Pr√ºfen und Einstellen der Funktion von Instrumenten, Ger√§ten oder Implantaten\
 - b) :: die Einzelfunktion im montierten Zustand pr√ºfen und korrigieren
 - c) :: die Gesamtfunktion, insbesondere Beweglichkeit und Schlie√ükraft im Wirkungsbereich, pr√ºfen und korrigieren
 
-†
 
-†
+
+
 
 5
 
-†
+
 
 16
 
@@ -790,13 +790,13 @@ Instandsetzen von Instrumenten, Ger√§ten oder Implantaten\\
 - e) :: schadhafte Normteile austauschen
 - f) :: Bauteile funktionsgerecht zusammenbauen und Funktion pr√ºfen
 
-†
 
-†
+
+
 
 7
 
-†
+
 
 
 Anhang EV - Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III  (BGBl. II 1990, 889, 998)  - Ma√ügaben f√ºr das beigetretene Gebiet (Art. 3 EinigVtr) -

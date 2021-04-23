@@ -257,10 +257,10 @@ Anlage - (zu § 12 Absatz 1)
 (Fundstelle: BGBl I 2018, 1759 - 1761)
 1. Angaben zum Emittenten
 Name:\\
-�
+
 LEI:
 Straße, Haus-Nr.:\\
-�
+
 PLZ:       Ort:
 | 2. Grund der Mitteilung (mehrere Angaben möglich)        |
 |  □ Erwerb bzw. Veräußerung von Aktien mit Stimmrechten\\ |
@@ -270,10 +270,10 @@ PLZ:       Ort:
 
 3. Angaben zum Mitteilungspflichtigen
 Natürliche Person (Vorname, Nachname):\\
-�
+
 Juristische Person:
 Geburtsdatum:\\
-�
+
 Registrierter Sitz, Staat:\\
         ,
 | 4. Namen der Aktionäre mit 3 % oder mehr Stimmrechten, wenn abweichend von 3.\\ |
@@ -283,7 +283,7 @@ Registrierter Sitz, Staat:\\
 |                                    |
 
 6. Gesamtstimmrechtsanteile
-�
+
 Anteil Stimmrechte\\
 (Summe 7.a.)
 Anteil Instrumente\\
@@ -297,12 +297,12 @@ neu
    %
    %
    %
-�
+
 letzte Mitteilung
    %
    %
    %
-�
+
 7. Einzelheiten zu den Stimmrechtsbeständen
 a. Stimmrechte (§§ 33, 34 WpHG)
 ISIN
@@ -316,18 +316,18 @@ direkt\\
 (§ 33 WpHG)
 zugerechnet\\
 (§ 34 WpHG)
-�
-�
-�
+
+
+
    %
    %
-�
-�
-�
+
+
+
    %
    %
 Summe
-�
+
    %
 b.1. Instrumente i. S. d. § 38 Abs. 1 Nr. 1 WpHG
 Art des Instruments
@@ -339,25 +339,25 @@ Stimmrechte\\
 absolut
 Stimmrechte\\
 in %
-�
-�
-�
-�
+
+
+
+
    %
-�
-�
-�
-�
+
+
+
+
    %
-�
-�
-�
-�
+
+
+
+
    %
-�
-�
+
+
 Summe
-�
+
    %
 b.2. Instrumente i. S. d. § 38 Abs. 1 Nr. 2 WpHG
 Art des Instruments
@@ -372,27 +372,27 @@ Stimmrechte\\
 absolut
 Stimmrechte\\
 in %
-�
-�
-�
-�
-�
+
+
+
+
+
    %
-�
-�
-�
-�
-�
+
+
+
+
+
    %
-�
-�
-�
-�
-�
+
+
+
+
+
    %
-�
+
 Summe
-�
+
    %
 8. Informationen in Bezug auf den Mitteilungspflichtigen (bitte Zutreffendes ankreuzen)\\
  □ Mitteilungspflichtiger (3.) wird weder beherrscht noch beherrscht Mitteilungspflichtiger andere Unternehmen, die Stimmrechte des Emittenten (1.) halten oder denen Stimmrechte des Emittenten zugerechnet werden.\\
@@ -404,19 +404,19 @@ Instrumente in %,\\
 wenn 5 % oder höher
 Summe in %,\\
 wenn 5 % oder höher
-�
+
    %
    %
    %
-�
+
    %
    %
    %
-�
+
    %
    %
    %
-�
+
    %
    %
    %

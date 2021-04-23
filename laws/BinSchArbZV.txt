@@ -29,7 +29,7 @@ Im Sinne dieser Verordnung ist
 - 6. :: "Ruhezeit" die Zeit außerhalb der Arbeitszeit, unabhängig davon ob sie auf dem fahrenden Fahrzeug, auf dem stillliegenden Fahrzeug oder an Land verbracht wird, wobei Zeiten bis zu 15 Minuten nicht als Ruhezeiten gelten,
 - 7. :: "Ruhetag" eine ununterbrochene Ruhezeit von 24 Stunden, die der Arbeitnehmer oder die Arbeitnehmerin an einem frei gewählten Ort verbringt,
 - 8. :: "Nachtzeit" die Zeit zwischen 23 Uhr und 6 Uhr,
-- 9. :: "Nachtarbeitnehmer" oder �Nachtarbeitnehmerin“ ein Arbeitnehmer oder eine Arbeitnehmerin, der oder die während der Nachtzeit
+- 9. :: "Nachtarbeitnehmer" oder Nachtarbeitnehmerin“ ein Arbeitnehmer oder eine Arbeitnehmerin, der oder die während der Nachtzeit
   - a) :: normalerweise mindestens drei Stunden seiner oder ihrer täglichen Arbeitszeit leistet oder
   - b) :: mindestens 20 Prozent seiner oder ihrer jährlichen Arbeitszeit leistet,
 - 10. :: "Bordpersonal" die Gesamtheit aller Beschäftigten an Bord eines Fahrgastschiffes, die nicht zur Besatzung (nautisches Personal) gehören,
@@ -136,7 +136,7 @@ beschäftigt, darf abweichend von § 7 Absatz 3 und 4 dem Arbeitnehmer oder der 
 
 (1) In einem Tarifvertrag oder auf Grund eines Tarifvertrags in einer Betriebs- oder Dienstvereinbarung kann zugelassen werden,
 
-- 1. :: abweichend von § 3 Nummer 9 Buchstabe b bei der Begriffsbestimmung �Nachtarbeitnehmer“ oder �Nachtarbeitnehmerin“ einen anderen Anteil von Nachtarbeit an der jährlichen Arbeitszeit festzulegen,
+- 1. :: abweichend von § 3 Nummer 9 Buchstabe b bei der Begriffsbestimmung Nachtarbeitnehmer“ oder Nachtarbeitnehmerin“ einen anderen Anteil von Nachtarbeit an der jährlichen Arbeitszeit festzulegen,
 - 2. :: abweichend von § 5 Regelungen zu den Voraussetzungen der Ruhepausen und eine Aufteilung in Kurzpausen von angemessener Dauer zu vereinbaren.
 
 (2) Im Geltungsbereich eines Tarifvertrags können die vereinbarten tarifvertraglichen Regelungen nach Absatz 1 im Betrieb eines nicht tarifgebundenen Arbeitgebers durch Betriebs- oder Dienstvereinbarung oder, wenn ein Betriebs- oder Personalrat nicht besteht, durch schriftliche Vereinbarung zwischen dem Arbeitgeber und dem Arbeitnehmer oder der Arbeitnehmerin übernommen werden.

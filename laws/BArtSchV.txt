@@ -292,19 +292,19 @@ Streng gesch√ºtzte Arten zu ¬ß 1 Satz 2
 
 Fauna
 
-†
 
-†
 
-†
+
+
+
 
 Mammalia
 
 S√§ugetiere
 
-†
 
-†
+
+
 
 Crocidura suaveolens ariadne
 
@@ -312,7 +312,7 @@ Kretische Gartenspitzmaus
 
 +
 
-†
+
 
 Crocidura suaveolens cypria
 
@@ -320,7 +320,7 @@ Zypriotische Gartenspitzmaus
 
 +
 
-†
+
 
 Desmana moschata
 
@@ -328,7 +328,7 @@ Russischer Desman
 
 +
 
-†
+
 
 Gazella subgutturosa
 
@@ -336,7 +336,7 @@ Kropfgazelle
 
 +
 
-†
+
 
 Gulo gulo 1)
 
@@ -344,7 +344,7 @@ Vielfra√ü
 
 +
 
-†
+
 
 Mesocricetus newtoni
 
@@ -352,7 +352,7 @@ Rum√§nischer Hamster
 
 +
 
-†
+
 
 Microtus bavaricus
 
@@ -368,7 +368,7 @@ Moschusochse
 
 +
 
-†
+
 
 Phoca hispida ladogensis
 
@@ -376,7 +376,7 @@ Ringelrobbe
 
 +
 
-†
+
 
 -
 
@@ -388,7 +388,7 @@ Bukowinische Blindmaus
 
 +
 
-†
+
 
 Vormela peregusna
 
@@ -396,7 +396,7 @@ Tigeriltis
 
 +
 
-†
+
 
 Mammalia spp. 2) 3) 4)
 
@@ -404,7 +404,7 @@ S√§ugetiere
 
 +
 
-†
+
 
 excl.
 
@@ -464,15 +464,15 @@ Aves
 
 V√∂gel
 
-†
 
-†
+
+
 
 Acrocephalus arundinaceus 5)
 
 Drosselrohrs√§nger
 
-†
+
 
 +
 
@@ -480,7 +480,7 @@ Acrocephalus paludicola 5)
 
 Seggenrohrs√§nger
 
-†
+
 
 +
 
@@ -488,7 +488,7 @@ Acrocephalus schoenobaenus 5)
 
 Schilfrohrs√§nger
 
-†
+
 
 +
 
@@ -496,7 +496,7 @@ Actitis hypoleucos 5)
 
 Flussuferl√§ufer
 
-†
+
 
 +
 
@@ -504,7 +504,7 @@ Alcedo atthis 5)
 
 Eisvogel
 
-†
+
 
 +
 
@@ -512,7 +512,7 @@ Alectoris gaeca 5)
 
 Steinhuhn
 
-†
+
 
 +
 
@@ -520,7 +520,7 @@ Alectoris rufa 5)
 
 Rothuhn
 
-†
+
 
 +
 
@@ -528,7 +528,7 @@ Anthus campestris 5)
 
 Brachpieper
 
-†
+
 
 +
 
@@ -536,7 +536,7 @@ Ardea purpurea 5)
 
 Purpurreiher
 
-†
+
 
 +
 
@@ -544,7 +544,7 @@ Arenaria interpres 5)
 
 Steinw√§lzer
 
-†
+
 
 +
 
@@ -552,7 +552,7 @@ Aythya nyroca
 
 Moorente
 
-†
+
 
 +
 
@@ -560,7 +560,7 @@ Botaurus stellaris 5)
 
 Rohrdommel
 
-†
+
 
 +
 
@@ -568,7 +568,7 @@ Burhinus oedicnemus 5)
 
 Triel
 
-†
+
 
 +
 
@@ -576,7 +576,7 @@ Calidris alpina 5)
 
 Alpenstrandl√§ufer
 
-†
+
 
 +
 
@@ -584,7 +584,7 @@ Caprimulgus europaeus 5)
 
 Ziegenmelker
 
-†
+
 
 +
 
@@ -592,7 +592,7 @@ Carpodacus erythrinus 5)
 
 Karmingimpel
 
-†
+
 
 +
 
@@ -602,7 +602,7 @@ Truthahngeier
 
 +
 
-†
+
 
 Cathartes burrovianus
 
@@ -610,7 +610,7 @@ Kleiner Gelbkopfgeier
 
 +
 
-†
+
 
 Cathartes melambrotus
 
@@ -618,13 +618,13 @@ Gro√üer Gelbkopfgeier
 
 +
 
-†
+
 
 Charadrius alexandrinus 5)
 
 Seeregenpfeifer
 
-†
+
 
 +
 
@@ -632,7 +632,7 @@ Charadrius dubius 5)
 
 Flussregenpfeifer
 
-†
+
 
 +
 
@@ -640,7 +640,7 @@ Charadrius hiaticula 5)
 
 Sandregenpfeifer
 
-†
+
 
 +
 
@@ -648,7 +648,7 @@ Chlidonias leucopterus 5)
 
 Wei√üfl√ºgelseeschwalbe
 
-†
+
 
 +
 
@@ -656,7 +656,7 @@ Chlidonias niger 5)
 
 Trauerseeschwalbe
 
-†
+
 
 +
 
@@ -664,7 +664,7 @@ Ciconia ciconia 5)
 
 Wei√üstorch
 
-†
+
 
 +
 
@@ -672,7 +672,7 @@ Coracias garrulus 5)
 
 Blauracke
 
-†
+
 
 +
 
@@ -682,13 +682,13 @@ Rabengeier
 
 +
 
-†
+
 
 Crex crex 5)
 
 Wachtelk√∂nig
 
-†
+
 
 +
 
@@ -696,7 +696,7 @@ Cygnus cygnus 5)
 
 Singschwan
 
-†
+
 
 +
 
@@ -704,7 +704,7 @@ Dendrocopos leucotos 5)
 
 Wei√ür√ºckenspecht
 
-†
+
 
 +
 
@@ -712,7 +712,7 @@ Dendrocopos medius 5)
 
 Mittelspecht
 
-†
+
 
 +
 
@@ -720,7 +720,7 @@ Dryocopus martius 5)
 
 Schwarzspecht
 
-†
+
 
 +
 
@@ -728,7 +728,7 @@ Emberiza calandra 5)
 
 Grauammer
 
-†
+
 
 +
 
@@ -736,7 +736,7 @@ Emberiza cia 5)
 
 Zippammer
 
-†
+
 
 +
 
@@ -744,7 +744,7 @@ Emberiza cirlus 5)
 
 Zaunammer
 
-†
+
 
 +
 
@@ -752,7 +752,7 @@ Emberiza hortulana 5)
 
 Ortolan
 
-†
+
 
 +
 
@@ -760,7 +760,7 @@ Eudromias morinellus 5)
 
 Mornellregenpfeifer
 
-†
+
 
 +
 
@@ -768,7 +768,7 @@ Ficedula albicollis 5)
 
 Halsbandschn√§pper
 
-†
+
 
 +
 
@@ -776,7 +776,7 @@ Ficedula parva 5)
 
 Zwergschn√§pper
 
-†
+
 
 +
 
@@ -784,7 +784,7 @@ Fratercula arctica 5)
 
 Papageitaucher
 
-†
+
 
 +
 
@@ -792,7 +792,7 @@ Fulmarus glacialis 5)
 
 Eissturmvogel
 
-†
+
 
 +
 
@@ -800,7 +800,7 @@ Galerida cristata 5)
 
 Haubenlerche
 
-†
+
 
 +
 
@@ -808,7 +808,7 @@ Gallinago gallinago 5)
 
 Bekassine
 
-†
+
 
 +
 
@@ -816,7 +816,7 @@ Gallinago media 5)
 
 Doppelschnepfe
 
-†
+
 
 +
 
@@ -824,7 +824,7 @@ Gallinula chloropus 5)
 
 Teichhuhn
 
-†
+
 
 +
 
@@ -832,7 +832,7 @@ Gavia immer 5)
 
 Eistaucher
 
-†
+
 
 +
 
@@ -840,7 +840,7 @@ Gelochelidon nilotica 5)
 
 Lachseeschwalbe
 
-†
+
 
 +
 
@@ -848,7 +848,7 @@ Himantopus himantopus 5)
 
 Stelzenl√§ufer
 
-†
+
 
 +
 
@@ -856,7 +856,7 @@ Hydrobates pelagicus 5)
 
 Sturmschwalbe
 
-†
+
 
 +
 
@@ -864,7 +864,7 @@ Ixobrychus minutus 5)
 
 Zwergdommel
 
-†
+
 
 +
 
@@ -872,7 +872,7 @@ Jynx torquilla 5)
 
 Wendehals
 
-†
+
 
 +
 
@@ -880,7 +880,7 @@ Lanius excubitor 5)
 
 Raubw√ºrger
 
-†
+
 
 +
 
@@ -888,7 +888,7 @@ Lanius minor 5)
 
 Schwarzstirnw√ºrger
 
-†
+
 
 +
 
@@ -896,7 +896,7 @@ Lanius senator 5)
 
 Rotkopfw√ºrger
 
-†
+
 
 +
 
@@ -904,7 +904,7 @@ Limosa limosa 5)
 
 Uferschnepfe
 
-†
+
 
 +
 
@@ -912,7 +912,7 @@ Locustella luscinioides 5)
 
 Rohrschwirl
 
-†
+
 
 +
 
@@ -920,7 +920,7 @@ Lullula arborea 5)
 
 Heidelerche
 
-†
+
 
 +
 
@@ -928,7 +928,7 @@ Luscinia svecica 5)
 
 Blaukehlchen
 
-†
+
 
 +
 
@@ -936,7 +936,7 @@ Lymnocryptes minimus 5)
 
 Zwergschnepfe
 
-†
+
 
 +
 
@@ -944,7 +944,7 @@ Merops apiaster 5)
 
 Bienenfresser
 
-†
+
 
 +
 
@@ -952,7 +952,7 @@ Monticola saxatilis 5)
 
 Steinr√∂tel
 
-†
+
 
 +
 
@@ -960,7 +960,7 @@ Numenius arquata 5)
 
 Gro√üer Brachvogel
 
-†
+
 
 +
 
@@ -968,7 +968,7 @@ Nycticorax nycticorax 5)
 
 Nachtreiher
 
-†
+
 
 +
 
@@ -976,7 +976,7 @@ Oceanodroma leucorhoa 5)
 
 Wellenl√§ufer
 
-†
+
 
 +
 
@@ -984,7 +984,7 @@ Petronia petronia 5)
 
 Steinsperling
 
-†
+
 
 +
 
@@ -992,7 +992,7 @@ Phalaropus lobatus 5)
 
 Odinsh√ºhnchen
 
-†
+
 
 +
 
@@ -1000,7 +1000,7 @@ Philomachus pugnax 5)
 
 Kampfl√§ufer
 
-†
+
 
 +
 
@@ -1008,7 +1008,7 @@ Phylloscopus bonelli 5)
 
 Berglaubs√§nger
 
-†
+
 
 +
 
@@ -1016,7 +1016,7 @@ Picoides tridactylus 5)
 
 Dreizehenspecht
 
-†
+
 
 +
 
@@ -1024,7 +1024,7 @@ Picus canus 5)
 
 Grauspecht
 
-†
+
 
 +
 
@@ -1032,7 +1032,7 @@ Picus viridis 5)
 
 Gr√ºnspecht
 
-†
+
 
 +
 
@@ -1040,7 +1040,7 @@ Plegadis falcinellus 5)
 
 Braunsichler
 
-†
+
 
 +
 
@@ -1048,7 +1048,7 @@ Pluvialis apricaria 5)
 
 Goldregenpfeifer
 
-†
+
 
 +
 
@@ -1056,7 +1056,7 @@ Podiceps auritus 5)
 
 Ohrentaucher
 
-†
+
 
 +
 
@@ -1064,7 +1064,7 @@ Podiceps grisegena 5)
 
 Rothalstaucher
 
-†
+
 
 +
 
@@ -1072,7 +1072,7 @@ Podiceps nigricollis 5)
 
 Schwarzhalstaucher
 
-†
+
 
 +
 
@@ -1080,7 +1080,7 @@ Porzana parva 5)
 
 Kleines Sumpfhuhn
 
-†
+
 
 +
 
@@ -1088,7 +1088,7 @@ Porzana porzana 5)
 
 T√ºpfelsumpfhuhn
 
-†
+
 
 +
 
@@ -1096,7 +1096,7 @@ Porzana pusilla 5)
 
 Zwergsumpfhuhn
 
-†
+
 
 +
 
@@ -1104,7 +1104,7 @@ Ptyonoprogne rupestris 5)
 
 Felsenschwalbe
 
-†
+
 
 +
 
@@ -1112,7 +1112,7 @@ Recurvirostra avosetta 5)
 
 S√§belschn√§bler
 
-†
+
 
 +
 
@@ -1120,7 +1120,7 @@ Riparia riparia 5)
 
 Uferschwalbe
 
-†
+
 
 +
 
@@ -1128,7 +1128,7 @@ Serinus citrinella 5)
 
 Zitronengirlitz
 
-†
+
 
 +
 
@@ -1136,7 +1136,7 @@ Sterna albifrons 5)
 
 Zwergseeschwalbe
 
-†
+
 
 +
 
@@ -1144,7 +1144,7 @@ Sterna caspia 5)
 
 Raubseeschwalbe
 
-†
+
 
 +
 
@@ -1152,7 +1152,7 @@ Sterna dougallii 5)
 
 Rosenseeschwalbe
 
-†
+
 
 +
 
@@ -1160,7 +1160,7 @@ Sterna hirundo 5)
 
 Flussseeschwalbe
 
-†
+
 
 +
 
@@ -1168,7 +1168,7 @@ Sterna paradisaea 5)
 
 K√ºstenseeschwalbe
 
-†
+
 
 +
 
@@ -1176,7 +1176,7 @@ Sterna sandvicensis 5)
 
 Brandseeschwalbe
 
-†
+
 
 +
 
@@ -1184,7 +1184,7 @@ Sylvia nisoria 5)
 
 Sperbergrasm√ºcke
 
-†
+
 
 +
 
@@ -1192,7 +1192,7 @@ Tetrao tetrix
 
 Birkhuhn
 
-†
+
 
 +
 
@@ -1200,7 +1200,7 @@ Tetrao urogallus
 
 Auerhuhn
 
-†
+
 
 +
 
@@ -1208,7 +1208,7 @@ Tringa glareola 5)
 
 Bruchwasserl√§ufer
 
-†
+
 
 +
 
@@ -1216,7 +1216,7 @@ Tringa ochropus 5)
 
 Waldwasserl√§ufer
 
-†
+
 
 +
 
@@ -1224,7 +1224,7 @@ Tringa stagnatilis 5)
 
 Teichwasserl√§ufer
 
-†
+
 
 +
 
@@ -1232,7 +1232,7 @@ Tringa totanus 5)
 
 Rotschenkel
 
-†
+
 
 +
 
@@ -1240,7 +1240,7 @@ Upupa epops 5)
 
 Wiedehopf
 
-†
+
 
 +
 
@@ -1248,7 +1248,7 @@ Vanellus vanellus 5)
 
 Kiebitz
 
-†
+
 
 +
 
@@ -1256,9 +1256,9 @@ Reptilia
 
 Kriechtiere
 
-†
 
-†
+
+
 
 Lacerta bilineata
 
@@ -1274,7 +1274,7 @@ Clarks Felseneidechse
 
 +
 
-†
+
 
 Lacerta parva
 
@@ -1282,7 +1282,7 @@ Zwergeidechse
 
 +
 
-†
+
 
 Lacerta princeps
 
@@ -1290,7 +1290,7 @@ Zagros-Eidechse
 
 +
 
-†
+
 
 Natrix megalocephala
 
@@ -1298,7 +1298,7 @@ Gro√ükopf-Ringelnatter
 
 +
 
-†
+
 
 Natrix natrix 3)
 
@@ -1306,7 +1306,7 @@ Ringelnatter
 
 +
 
-†
+
 
 Rafetus euphraticus
 
@@ -1314,15 +1314,15 @@ Euphrat-Weichschildkr√∂te
 
 +
 
-†
+
 
 Vipera albizona
 
-†
+
 
 +
 
-†
+
 
 Vipera aspis
 
@@ -1338,7 +1338,7 @@ Barans Viper
 
 +
 
-†
+
 
 Vipera lebetina
 
@@ -1346,7 +1346,7 @@ Levanteotter
 
 +
 
-†
+
 
 Vipera pontica
 
@@ -1354,7 +1354,7 @@ Pontische Viper
 
 +
 
-†
+
 
 Reptilia spp. 3) 4)
 
@@ -1362,7 +1362,7 @@ Kriechtiere
 
 +
 
-†
+
 
 -
 
@@ -1372,9 +1372,9 @@ Amphibia
 
 Lurche
 
-†
 
-†
+
+
 
 Bombina orientalis
 
@@ -1382,7 +1382,7 @@ Chinesische Rotbauchunke
 
 +
 
-†
+
 
 Hyla savignyi
 
@@ -1390,7 +1390,7 @@ Kleinasiatischer Laubfrosch
 
 +
 
-†
+
 
 Neurergus crocatus
 
@@ -1398,7 +1398,7 @@ Urmia-Molch
 
 +
 
-†
+
 
 Neurergus strauchi
 
@@ -1406,7 +1406,7 @@ T√ºrkischer Bergbachmolch
 
 +
 
-†
+
 
 Pelodytes caucasicus
 
@@ -1414,15 +1414,15 @@ Kaukasischer Schlammtaucher
 
 +
 
-†
+
 
 Rana holtzi
 
-†
+
 
 +
 
-†
+
 
 Amphibia spp. 3) 4)
 
@@ -1430,7 +1430,7 @@ Lurche
 
 +
 
-†
+
 
 -
 
@@ -1440,9 +1440,9 @@ Pisces et Cyclostomata
 
 Fische und Rundm√§uler
 
-†
 
-†
+
+
 
 Aphanius fasciatus 6)
 
@@ -1450,7 +1450,7 @@ Zebrak√§rpfling
 
 +
 
-†
+
 
 Aphanius iberus 6)
 
@@ -1458,7 +1458,7 @@ Spanienk√§rpfling
 
 +
 
-†
+
 
 Carcharodon charcharias 6)
 
@@ -1466,15 +1466,15 @@ Wei√üer Hai
 
 +
 
-†
+
 
 Lethenteron zanandrai 6)
 
-†
+
 
 +
 
-†
+
 
 Mobula mobular 6)
 
@@ -1482,7 +1482,7 @@ Teufelsrochen
 
 +
 
-†
+
 
 Petromyzonidae spp.
 
@@ -1490,7 +1490,7 @@ Rundm√§uler
 
 +
 
-†
+
 
 -
 
@@ -1498,19 +1498,19 @@ alle heimischen Arten
 
 Pomatoschistus canestrinii 6)
 
-†
+
 
 +
 
-†
+
 
 Pomatoschistus tortonesei 6)
 
-†
+
 
 +
 
-†
+
 
 Umbra krameri
 
@@ -1518,23 +1518,23 @@ Hundsfisch
 
 +
 
-†
+
 
 Valencia letourneuxi
 
-†
+
 
 +
 
-†
+
 
 Lepidoptera
 
 Schmetterlinge
 
-†
 
-†
+
+
 
 Acontia lucida
 
@@ -1566,7 +1566,7 @@ Gr√ºnwidderchen
 
 +
 
-†
+
 
 -
 
@@ -1586,7 +1586,7 @@ Wei√üfleck Widderchen
 
 +
 
-†
+
 
 Amphipyra livida
 
@@ -1610,7 +1610,7 @@ Kleiner Schillerfalter
 
 +
 
-†
+
 
 Apatura iris
 
@@ -1618,7 +1618,7 @@ Gro√üer Schillerfalter
 
 +
 
-†
+
 
 Aporophyla lueneburgensis
 
@@ -1634,7 +1634,7 @@ Schwarze Glattr√ºckeneule
 
 +
 
-†
+
 
 Arctia spp.
 
@@ -1642,7 +1642,7 @@ B√§renspinner
 
 +
 
-†
+
 
 -
 
@@ -1678,7 +1678,7 @@ Perlmuttfalter
 
 +
 
-†
+
 
 -
 
@@ -1690,7 +1690,7 @@ Gefleckter Rauschbeerenspanner
 
 +
 
-†
+
 
 Artiora evonymaria
 
@@ -1706,7 +1706,7 @@ Perlmuttfalter
 
 +
 
-†
+
 
 -
 
@@ -1726,7 +1726,7 @@ Wei√üer Waldportier
 
 +
 
-†
+
 
 Calliteara abietis
 
@@ -1734,7 +1734,7 @@ Fichten-B√ºrstenspinner
 
 +
 
-†
+
 
 Calyptra thalictri
 
@@ -1766,7 +1766,7 @@ Dickkopffalter
 
 +
 
-†
+
 
 -
 
@@ -1794,7 +1794,7 @@ Ordensb√§nder
 
 +
 
-†
+
 
 -
 
@@ -1814,7 +1814,7 @@ Berghexe
 
 +
 
-†
+
 
 Chelis maculosa
 
@@ -1846,7 +1846,7 @@ Wiesenv√∂gelchen
 
 +
 
-†
+
 
 -
 
@@ -1858,7 +1858,7 @@ Gelblinge
 
 +
 
-†
+
 
 -
 
@@ -1886,7 +1886,7 @@ M√∂nchseulen
 
 +
 
-†
+
 
 -
 
@@ -1938,7 +1938,7 @@ Mohrenfalter
 
 +
 
-†
+
 
 -
 
@@ -1970,7 +1970,7 @@ Wollafter
 
 +
 
-†
+
 
 -
 
@@ -1999,7 +1999,7 @@ Scheckenfalter
 
 +
 
-†
+
 
 -
 
@@ -2043,7 +2043,7 @@ Glucken
 
 +
 
-†
+
 
 -
 
@@ -2055,7 +2055,7 @@ Gro√üpunkt-Bl√§uling
 
 +
 
-†
+
 
 Gortyna borelii 3)
 
@@ -2095,7 +2095,7 @@ Hummelschw√§rmer
 
 +
 
-†
+
 
 Hemaris tityus
 
@@ -2103,7 +2103,7 @@ Skabiosenschw√§rmer
 
 +
 
-†
+
 
 Heterogynis penella
 
@@ -2143,7 +2143,7 @@ Schw√§rmer
 
 +
 
-†
+
 
 -
 
@@ -2187,7 +2187,7 @@ Segelfalter
 
 +
 
-†
+
 
 Jordanita chloros
 
@@ -2203,7 +2203,7 @@ Gr√ºnwidderchen
 
 +
 
-†
+
 
 -
 
@@ -2231,7 +2231,7 @@ Kleines Braunauge
 
 +
 
-†
+
 
 Lemonia spp.
 
@@ -2239,7 +2239,7 @@ Habichtskraut- und L√∂wenzahnspinner
 
 +
 
-†
+
 
 -
 
@@ -2259,7 +2259,7 @@ Kleiner Eisvogel
 
 +
 
-†
+
 
 Limenitis populi
 
@@ -2267,7 +2267,7 @@ Gro√üer Eisvogel
 
 +
 
-†
+
 
 Limenitis reducta
 
@@ -2275,7 +2275,7 @@ Blauschwarzer Eisvogel
 
 +
 
-†
+
 
 Lithophane lamda
 
@@ -2307,7 +2307,7 @@ Feuerfalter
 
 +
 
-†
+
 
 -
 
@@ -2319,7 +2319,7 @@ Ameisen-Bl√§ulinge
 
 +
 
-†
+
 
 -
 
@@ -2343,7 +2343,7 @@ Ringelspinner
 
 +
 
-†
+
 
 -
 
@@ -2372,7 +2372,7 @@ Kleinb√§rchen
 
 +
 
-†
+
 
 -
 
@@ -2400,7 +2400,7 @@ Trauermantel
 
 +
 
-†
+
 
 Nymphalis polychloros
 
@@ -2408,7 +2408,7 @@ Gro√üer Fuchs
 
 +
 
-†
+
 
 Nymphalis xanthomelas
 
@@ -2460,7 +2460,7 @@ B√ºrstenspinner
 
 +
 
-†
+
 
 -
 
@@ -2489,7 +2489,7 @@ Schwalbenschwanz
 
 +
 
-†
+
 
 Parnassius phoebus
 
@@ -2513,7 +2513,7 @@ Trauerspinner
 
 +
 
-†
+
 
 Pericallia matronula
 
@@ -2545,7 +2545,7 @@ Glucken
 
 +
 
-†
+
 
 -
 
@@ -2557,7 +2557,7 @@ Bl√§ulinge
 
 +
 
-†
+
 
 -
 
@@ -2569,7 +2569,7 @@ Waldrasen-Ziereule
 
 +
 
-†
+
 
 Polymixis polymita
 
@@ -2593,7 +2593,7 @@ Mt. Pollino-Bl√§uling
 
 +
 
-†
+
 
 Polyommatus humedusae
 
@@ -2601,7 +2601,7 @@ Val di Cogne-Bl√§uling
 
 +
 
-†
+
 
 Polyommatus spp.
 
@@ -2609,7 +2609,7 @@ Bl√§ulinge
 
 +
 
-†
+
 
 -
 
@@ -2629,7 +2629,7 @@ Bl√§ulinge
 
 +
 
-†
+
 
 -
 
@@ -2665,7 +2665,7 @@ W√ºrfeldickkopffalter
 
 +
 
-†
+
 
 -
 
@@ -2685,7 +2685,7 @@ Gr√ºnwidderchen
 
 +
 
-†
+
 
 -
 
@@ -2697,7 +2697,7 @@ Purpur-B√§r
 
 +
 
-†
+
 
 Rhyparioides metelkana
 
@@ -2729,7 +2729,7 @@ Bl√§ulinge
 
 +
 
-†
+
 
 -
 
@@ -2773,7 +2773,7 @@ Flechtenb√§rchen
 
 +
 
-†
+
 
 -
 
@@ -2793,7 +2793,7 @@ M√∂nchseulen
 
 +
 
-†
+
 
 -
 
@@ -2837,7 +2837,7 @@ Drahtschmieleneule
 
 +
 
-†
+
 
 Syngrapha microgamma
 
@@ -2893,7 +2893,7 @@ Olivgr√ºne Schmuckeule
 
 +
 
-†
+
 
 Watsonarctia casta
 
@@ -2901,7 +2901,7 @@ Labkraut-B√§r
 
 +
 
-†
+
 
 Xanthia sulphurago
 
@@ -2941,7 +2941,7 @@ Widderchen
 
 +
 
-†
+
 
 -
 
@@ -2951,9 +2951,9 @@ Hymenoptera
 
 Hautfl√ºgler
 
-†
 
-†
+
+
 
 Apoidea spp.
 
@@ -2961,7 +2961,7 @@ Bienen und Hummeln
 
 +
 
-†
+
 
 -
 
@@ -2973,7 +2973,7 @@ Kreiselwespen
 
 +
 
-†
+
 
 -
 
@@ -2985,7 +2985,7 @@ Knopfhornwespen
 
 +
 
-†
+
 
 -
 
@@ -2997,15 +2997,15 @@ Alpenwaldameise
 
 +
 
-†
+
 
 Formica bruni
 
-†
+
 
 +
 
-†
+
 
 Formica exsecta
 
@@ -3013,23 +3013,23 @@ Gro√üe Kerbameise
 
 +
 
-†
+
 
 Formica foreli
 
-†
+
 
 +
 
-†
+
 
 Formica forsslundi
 
-†
+
 
 +
 
-†
+
 
 Formica lugubris
 
@@ -3037,15 +3037,15 @@ Gebirgs-Waldameise
 
 +
 
-†
+
 
 Formica nigricans
 
-†
+
 
 +
 
-†
+
 
 Formica polyctena
 
@@ -3053,15 +3053,15 @@ Kahlr√ºckige Waldameise
 
 +
 
-†
+
 
 Formica pratensis
 
-†
+
 
 +
 
-†
+
 
 Formica pressilabris
 
@@ -3069,7 +3069,7 @@ Furchenlippige Kerbameise
 
 +
 
-†
+
 
 Formica rufa
 
@@ -3077,7 +3077,7 @@ Rote Waldameise
 
 +
 
-†
+
 
 Formica truncorum
 
@@ -3085,7 +3085,7 @@ Strunkameise
 
 +
 
-†
+
 
 Formica uralensis
 
@@ -3093,7 +3093,7 @@ Uralameise
 
 +
 
-†
+
 
 Vespa crabro
 
@@ -3101,15 +3101,15 @@ Hornisse
 
 +
 
-†
+
 
 Coleoptera
 
 K√§fer
 
-†
 
-†
+
+
 
 Acmaeodera degener
 
@@ -3145,7 +3145,7 @@ Prachtk√§fer
 
 +
 
-†
+
 
 -
 
@@ -3165,7 +3165,7 @@ Puppenr√§uber
 
 +
 
-†
+
 
 -
 
@@ -3201,7 +3201,7 @@ Laufk√§fer
 
 +
 
-†
+
 
 -
 
@@ -3221,7 +3221,7 @@ Bockk√§fer
 
 +
 
-†
+
 
 -
 
@@ -3234,7 +3234,7 @@ Rosenk√§fer
 
 +
 
-†
+
 
 Cicindela spp.
 
@@ -3242,7 +3242,7 @@ Sandl√§ufer
 
 +
 
-†
+
 
 -
 
@@ -3278,7 +3278,7 @@ Mondhornk√§fer
 
 +
 
-†
+
 
 Cylindera germanica
 
@@ -3342,7 +3342,7 @@ Kolbenwasserk√§fer
 
 +
 
-†
+
 
 -
 
@@ -3354,7 +3354,7 @@ Schr√∂ter
 
 +
 
-†
+
 
 -
 
@@ -3422,7 +3422,7 @@ Maiwurmk√§fer
 
 +
 
-†
+
 
 -
 
@@ -3450,7 +3450,7 @@ Nashornk√§fer
 
 +
 
-†
+
 
 Palmar festiva
 
@@ -3498,7 +3498,7 @@ Walker
 
 +
 
-†
+
 
 Protaetia aeruginosa
 
@@ -3522,7 +3522,7 @@ Goldk√§fer
 
 +
 
-†
+
 
 -
 
@@ -3550,7 +3550,7 @@ Schmalfl√ºgliger Pelzbienen√∂lk√§fer
 
 +
 
-†
+
 
 Trachypteris picta
 
@@ -3566,7 +3566,7 @@ Zottiger Bienenk√§fer
 
 +
 
-†
+
 
 Trichodes ircutensis
 
@@ -3582,15 +3582,15 @@ Stierk√§fer
 
 +
 
-†
+
 
 Odonata
 
 Libellen
 
-†
 
-†
+
+
 
 Odonata spp. 3)
 
@@ -3598,7 +3598,7 @@ Libellen
 
 +
 
-†
+
 
 -
 
@@ -3626,7 +3626,7 @@ Syrische Kurzlibelle
 
 +
 
-†
+
 
 Calopteryx syriaca
 
@@ -3634,7 +3634,7 @@ Syrische Prachtlibelle
 
 +
 
-†
+
 
 Ceriagrion tenellum
 
@@ -3704,9 +3704,9 @@ Neuroptera
 
 Echte Netzfl√ºgler
 
-†
 
-†
+
+
 
 Dendroleon pantherinus
 
@@ -3730,7 +3730,7 @@ Ameisenjungfern
 
 +
 
-†
+
 
 -
 
@@ -3740,9 +3740,9 @@ Mantodea
 
 Fangschrecken
 
-†
 
-†
+
+
 
 Mantis religiosa
 
@@ -3750,15 +3750,15 @@ Gottesanbeterin
 
 +
 
-†
+
 
 Saltatoria
 
 Springschrecken
 
-†
 
-†
+
+
 
 Aiolopus thalassinus
 
@@ -3798,7 +3798,7 @@ Italienische Sch√∂nschrecke
 
 +
 
-†
+
 
 Epacromius tergestinus
 
@@ -3838,7 +3838,7 @@ Blaufl√ºglige √ñdlandschrecke
 
 +
 
-†
+
 
 Oedipoda germanica
 
@@ -3846,7 +3846,7 @@ Rotfl√ºglige √ñdlandschrecke
 
 +
 
-†
+
 
 Platycleis montana
 
@@ -3870,7 +3870,7 @@ Rotfl√ºglige Schnarrschrecke
 
 +
 
-†
+
 
 Ruspolia nitidula
 
@@ -3886,19 +3886,19 @@ Blaufl√ºglige Sandschrecke
 
 +
 
-†
+
 
 Arachnida
 
 Spinnentiere
 
-†
 
-†
+
+
 
 Arctosa cinerea
 
-†
+
 
 +
 
@@ -3906,15 +3906,15 @@ Arctosa cinerea
 
 Dolomedes fimbriatus
 
-†
+
 
 +
 
-†
+
 
 Dolomedes plantarius
 
-†
+
 
 +
 
@@ -3922,15 +3922,15 @@ Dolomedes plantarius
 
 Eresus cinnaberinus
 
-†
+
 
 +
 
-†
+
 
 Philaeus chrysops
 
-†
+
 
 +
 
@@ -3940,9 +3940,9 @@ Crustacea
 
 Krebse
 
-†
 
-†
+
+
 
 Astacus astacus 7)
 
@@ -3958,11 +3958,11 @@ Steinkrebs
 
 +
 
-†
+
 
 Branchipus schaefferi
 
-†
+
 
 +
 
@@ -3970,7 +3970,7 @@ Branchipus schaefferi
 
 Chirocephalus diaphanus
 
-†
+
 
 +
 
@@ -3982,11 +3982,11 @@ Hummer
 
 +
 
-†
+
 
 Leptestheria dahalacensis
 
-†
+
 
 +
 
@@ -3994,7 +3994,7 @@ Leptestheria dahalacensis
 
 Lynceus brachyurus
 
-†
+
 
 +
 
@@ -4006,19 +4006,19 @@ Geisterkrabbe
 
 +
 
-†
+
 
 Pachylasma giganteum 6)
 
-†
+
 
 +
 
-†
+
 
 Tanymastix stagnalis
 
-†
+
 
 +
 
@@ -4028,9 +4028,9 @@ Mollusca
 
 Weichtiere
 
-†
 
-†
+
+
 
 Anodonta anatina 7)
 
@@ -4038,7 +4038,7 @@ Flache Teichmuschel
 
 +
 
-†
+
 
 Anodonta cygnea 7)
 
@@ -4046,15 +4046,15 @@ Gemeine Teichmuschel
 
 +
 
-†
+
 
 Charonia rubicunda 6)
 
-†
+
 
 +
 
-†
+
 
 Charonia tritonis 6)
 
@@ -4062,23 +4062,23 @@ Tritonshorn
 
 +
 
-†
+
 
 Dendropoma petraeum 6)
 
-†
+
 
 +
 
-†
+
 
 Erosaria spurca 6)
 
-†
+
 
 +
 
-†
+
 
 Helix aspersa 7)
 
@@ -4086,7 +4086,7 @@ Gefleckte Weinbergschnecke
 
 +
 
-†
+
 
 Helix pomatia 7)
 
@@ -4094,15 +4094,15 @@ Gew√∂hnliche Weinbergschnecke
 
 +
 
-†
+
 
 Luria lurida 6)
 
-†
+
 
 +
 
-†
+
 
 Margaritifera margaritifera 7)
 
@@ -4114,11 +4114,11 @@ Flussperlmuschel
 
 Mitra zonata 6)
 
-†
+
 
 +
 
-†
+
 
 Nucella lapillus 7)
 
@@ -4126,31 +4126,31 @@ Nordische Purpurschnecke
 
 +
 
-†
+
 
 Patella nigra 6)
 
-†
+
 
 +
 
-†
+
 
 Pholas dactylus 6)
 
-†
+
 
 +
 
-†
+
 
 Pinna pernula 6)
 
-†
+
 
 +
 
-†
+
 
 Pseudanodonta complanata 7)
 
@@ -4166,7 +4166,7 @@ Schlanke Teichmuschel
 
 +
 
-†
+
 
 Pseudanodonta middendorffi 7)
 
@@ -4174,31 +4174,31 @@ Donau-Teichmuschel
 
 +
 
-†
+
 
 Ranella olearia 6)
 
-†
+
 
 +
 
-†
+
 
 Schilderia achatidea 6)
 
-†
+
 
 +
 
-†
+
 
 Tonna galea 6)
 
-†
+
 
 +
 
-†
+
 
 Unio pictorum 7)
 
@@ -4206,7 +4206,7 @@ Malermuschel
 
 +
 
-†
+
 
 Unio tumidus 7)
 
@@ -4214,31 +4214,31 @@ Gro√üe Flussmuschel
 
 +
 
-†
+
 
 Zonaria pyrum 6)
 
-†
+
 
 +
 
-†
+
 
 Echinodermata
 
 Stachelh√§uter
 
-†
 
-†
+
+
 
 Asterina panceri 6)
 
-†
+
 
 +
 
-†
+
 
 Echinus esculentus 7)
 
@@ -4246,15 +4246,15 @@ Essbarer Seeigel
 
 +
 
-†
+
 
 Ophidiaster ophidianus 6)
 
-†
+
 
 +
 
-†
+
 
 Solaster papposus
 
@@ -4268,73 +4268,73 @@ Cnidaria
 
 Nesseltiere
 
-†
 
-†
+
+
 
 Gerardia savaglia 6)
 
-†
+
 
 +
 
-†
+
 
 Porifera
 
 Schw√§mme
 
-†
 
-†
+
+
 
 Aplysina cavernicola 6)
 
-†
+
 
 +
 
-†
+
 
 Asbestopluma hypogea 6)
 
-†
+
 
 +
 
-†
+
 
 Axinella polyploides 6)
 
-†
+
 
 +
 
-†
+
 
 Petrobiona massiliana 6)
 
-†
+
 
 +
 
-†
+
 
 Flora
 
-†
 
-†
 
-†
+
+
+
 
 Pteridophyta et Spermatophyta
 
 Farn- und Bl√ºtenpflanzen
 
-†
 
-†
+
+
 
 Achillea atrata L. 1)
 
@@ -4342,7 +4342,7 @@ Schwarze Schafgarbe
 
 +
 
-†
+
 
 Achillea clavennae L. 8)
 
@@ -4350,7 +4350,7 @@ Bittere Schafgarbe
 
 +
 
-†
+
 
 Aconitum spp. 3) 8)
 
@@ -4358,7 +4358,7 @@ Eisenhut
 
 +
 
-†
+
 
 -
 
@@ -4370,7 +4370,7 @@ Kyllenisches Adonisr√∂schen
 
 +
 
-†
+
 
 Alkanna pinardii Boiss.
 
@@ -4378,7 +4378,7 @@ Pinardi-Alkannawurzel
 
 +
 
-†
+
 
 Allium angulosum L. 8)
 
@@ -4386,7 +4386,7 @@ Kantiger Lauch
 
 +
 
-†
+
 
 Allium crameri Aschers. & Boiss.
 
@@ -4402,7 +4402,7 @@ Steifer Lauch
 
 +
 
-†
+
 
 Allium regelianum A. Becker
 
@@ -4410,7 +4410,7 @@ Regels Lauch
 
 +
 
-†
+
 
 Allium senescens L. subsp. montanum (Fries) Holub 8)
 
@@ -4418,7 +4418,7 @@ Berg-Lauch
 
 +
 
-†
+
 
 Allium vuralii Kit Tan
 
@@ -4426,7 +4426,7 @@ Vurals Lauch
 
 +
 
-†
+
 
 Althaea officinalis L. 8)
 
@@ -4434,7 +4434,7 @@ Echter Eibisch
 
 +
 
-†
+
 
 Alyssum montanum L. 8)
 
@@ -4442,7 +4442,7 @@ Berg-Steinkraut
 
 +
 
-†
+
 
 Alyssum saxatile L. 8)
 
@@ -4450,7 +4450,7 @@ Felsen-Steinkraut
 
 +
 
-†
+
 
 Anagallis tenella (L.) L.
 
@@ -4467,7 +4467,7 @@ Mannsschilde
 
 +
 
-†
+
 
 -
 
@@ -4479,7 +4479,7 @@ Narzissen-Windr√∂schen
 
 +
 
-†
+
 
 Anemone sylvestris L. 8)
 
@@ -4487,7 +4487,7 @@ Gro√ües Windr√∂schen
 
 +
 
-†
+
 
 Anemone uralensis Nevski
 
@@ -4495,7 +4495,7 @@ Ural-Windr√∂schen
 
 +
 
-†
+
 
 Antennaria dioica (L.) Gaertner 8)
 
@@ -4503,7 +4503,7 @@ Gew√∂hnliches Katzenpf√∂tchen
 
 +
 
-†
+
 
 Anthericum liliago L. 8)
 
@@ -4511,7 +4511,7 @@ Astlose Graslilie
 
 +
 
-†
+
 
 Anthericum racemosum L. 8)
 
@@ -4519,7 +4519,7 @@ Anthericum racemosum L. 8)
 
 +
 
-†
+
 
 Apium inundatum (L.) Reichenb. f.
 
@@ -4527,7 +4527,7 @@ Flutender Sellerie
 
 +
 
-†
+
 
 Aquilegia ottonis Orph. ex Boiss. ssp. taygetea (Orph.) Strid 8)
 
@@ -4543,7 +4543,7 @@ Akeleien
 
 +
 
-†
+
 
 -
 
@@ -4555,7 +4555,7 @@ Echte B√§rentraube
 
 +
 
-†
+
 
 Armeria maritima (Miller) Willd. ssp. purpurea (Koch) A. & D. L√∂ve 8)
 
@@ -4571,7 +4571,7 @@ Grasnelken
 
 +
 
-†
+
 
 -
 
@@ -4583,7 +4583,7 @@ Arnika, Berg-Wohlverleih
 
 +
 
-†
+
 
 Artemisia rupestris L. 8)
 
@@ -4599,7 +4599,7 @@ Echte Edelraute
 
 +
 
-†
+
 
 Asplenium azoricum Lovis, Rasbach & Reichstein
 
@@ -4607,15 +4607,15 @@ Azoren-Streifenfarn
 
 +
 
-†
+
 
 Asplenium ceterach L. 8)
 
 Milzfarn
 
-†
 
-†
+
+
 
 Asplenium cuneifolium Viv.
 
@@ -4623,7 +4623,7 @@ Serpentin-Streifenfarn
 
 +
 
-†
+
 
 Asplenium fissum Kit. ex Willd.
 
@@ -4631,7 +4631,7 @@ Zerschlitzter Streifenfarn
 
 +
 
-†
+
 
 Asplenium fontanum (L.) Bernh. 8)
 
@@ -4639,7 +4639,7 @@ Jura-Streifenfarn
 
 +
 
-†
+
 
 Asplenium foreziense Legrand 8)
 
@@ -4647,7 +4647,7 @@ Foreser Streifenfarn
 
 +
 
-†
+
 
 Asplenium obovatum Viv. ssp. lanceolatum Silva
 
@@ -4655,7 +4655,7 @@ Lanzettbl√§ttriger Streifenfarn
 
 +
 
-†
+
 
 Asplenium scolopendrium L. 8)
 
@@ -4663,7 +4663,7 @@ Hirschzunge
 
 +
 
-†
+
 
 Aster alpinus L. 8)
 
@@ -4671,7 +4671,7 @@ Alpen-Aster
 
 +
 
-†
+
 
 Aster amellus L. 8)
 
@@ -4679,7 +4679,7 @@ Berg-Aster
 
 +
 
-†
+
 
 Aster sibiricus L. 8)
 
@@ -4695,7 +4695,7 @@ Sand-Tragant
 
 +
 
-†
+
 
 Betula nana L. 8)
 
@@ -4703,7 +4703,7 @@ Zwerg-Birke
 
 +
 
-†
+
 
 Biscutella laevigata L. 8)
 
@@ -4711,7 +4711,7 @@ Gew√∂hnliche Brillenschote
 
 +
 
-†
+
 
 Botrychium matricariifolium A. Braun ex Koch
 
@@ -4735,17 +4735,17 @@ Rautenfarne, Mondrauten
 
 +
 
-†
 
-†
+
+
 
 -
 
 alle europ√§ischen Arten, soweit nicht im Einzelnen aufgef√ºhrt
 
-†
 
-†
+
+
 
 Brimeura spp. 8)
 
@@ -4753,17 +4753,17 @@ Brimeura
 
 +
 
-†
 
-†
+
+
 
 -
 
 alle Arten
 
-†
 
-†
+
+
 
 Buxus sempervirens L. 7) 8)
 
@@ -4771,7 +4771,7 @@ Buchsbaum
 
 +
 
-†
+
 
 Calla palustris L. 8)
 
@@ -4779,7 +4779,7 @@ Calla, Sumpf-Schlangenwurz
 
 +
 
-†
+
 
 Calystegia soldanella (L.) R. Br.
 
@@ -4795,7 +4795,7 @@ Bologneser Glockenblume
 
 +
 
-†
+
 
 Campanula cervicaria L. 8)
 
@@ -4803,7 +4803,7 @@ Borstige Glockenblume
 
 +
 
-†
+
 
 Campanula lanata Friv. 8)
 
@@ -4811,7 +4811,7 @@ Wollige Glockenblume
 
 +
 
-†
+
 
 Campanula latifolia L. 8)
 
@@ -4819,7 +4819,7 @@ Breitbl√§ttrige Glockenblume
 
 +
 
-†
+
 
 Campanula thyrsoides L. 8)
 
@@ -4827,7 +4827,7 @@ Strau√ü-Glockenblume
 
 +
 
-†
+
 
 Carex baldensis L. 8)
 
@@ -4835,7 +4835,7 @@ Monte-Baldo-Segge
 
 +
 
-†
+
 
 Carlina acaulis L. 8)
 
@@ -4843,7 +4843,7 @@ Silberdistel
 
 +
 
-†
+
 
 Carlina diae (Rech. f.) Meusel & K√§stner
 
@@ -4851,7 +4851,7 @@ Dhia-Eberwurz, Kretische Eberwurz
 
 +
 
-†
+
 
 Centaurium spp. 8)
 
@@ -4859,17 +4859,17 @@ Tausendg√ºldenkr√§uter
 
 +
 
-†
 
-†
+
+
 
 -
 
 alle heimischen Arten
 
-†
 
-†
+
+
 
 Chimaphila umbellata (L.) Barton 8)
 
@@ -4877,7 +4877,7 @@ Doldiges Winterlieb
 
 +
 
-†
+
 
 Chionodoxa luciliae Boiss. 8)
 
@@ -4885,7 +4885,7 @@ Lydischer Schneestolz
 
 +
 
-†
+
 
 Clematis alpina L. 8)
 
@@ -4893,7 +4893,7 @@ Alpen-Waldrebe
 
 +
 
-†
+
 
 Cochlearia spp. 8)
 
@@ -4901,17 +4901,17 @@ L√∂ffelkraut
 
 +
 
-†
 
-†
+
+
 
 -
 
 alle heimischen Arten
 
-†
 
-†
+
+
 
 Cornus suecica L. 8)
 
@@ -4919,7 +4919,7 @@ Schwedischer Hartriegel
 
 +
 
-†
+
 
 Cortusa matthioli L. 8)
 
@@ -4927,7 +4927,7 @@ Alpen Heilgl√∂ckchen
 
 +
 
-†
+
 
 Cotoneaster integerrimus Medicus 8)
 
@@ -4935,7 +4935,7 @@ Gew√∂hnliche Zwergmispel
 
 +
 
-†
+
 
 Crambe maritima L. 8)
 
@@ -4943,7 +4943,7 @@ Gew√∂hnlicher Meerkohl
 
 +
 
-†
+
 
 Crocus spp. 3) 8)
 
@@ -4951,17 +4951,17 @@ Krokus
 
 +
 
-†
 
-†
+
+
 
 -
 
 alle Arten
 
-†
 
-†
+
+
 
 Cryptogramma crispa (L.) A. Br. ex Hooker 8)
 
@@ -4969,7 +4969,7 @@ Krauser Rollfarn
 
 +
 
-†
+
 
 Cystopteris montana (Lam.) Desv.
 
@@ -4977,7 +4977,7 @@ Berg-Blasenfarn
 
 +
 
-†
+
 
 Cystopteris sudetica A. Br. & Milde
 
@@ -4985,7 +4985,7 @@ Sudeten-Blasenfarn
 
 +
 
-†
+
 
 Daphne spp. 3) 8)
 
@@ -4993,17 +4993,17 @@ Seidelbaste
 
 +
 
-†
 
-†
+
+
 
 -
 
 alle europ√§ischen Arten
 
-†
 
-†
+
+
 
 Delphinium elatum L. 8)
 
@@ -5011,7 +5011,7 @@ Hoher Rittersporn
 
 +
 
-†
+
 
 Dendranthema zawadskyi (Herb.) Tzvel. 8)
 
@@ -5019,7 +5019,7 @@ Zawadskys Wucherblume
 
 +
 
-†
+
 
 Dianthus spp. 3) 8)
 
@@ -5027,17 +5027,17 @@ Nelken
 
 +
 
-†
 
-†
+
+
 
 -
 
 alle europ√§ischen Arten
 
-†
 
-†
+
+
 
 Dictamnus albus L. 8)
 
@@ -5045,7 +5045,7 @@ Diptam
 
 +
 
-†
+
 
 Digitalis grandiflora Mill. 8)
 
@@ -5053,7 +5053,7 @@ Gro√übl√ºtiger Fingerhut
 
 +
 
-†
+
 
 Digitalis lutea L. 8)
 
@@ -5061,7 +5061,7 @@ Gelber Fingerhut
 
 +
 
-†
+
 
 Draba spp. 3) 8)
 
@@ -5069,7 +5069,7 @@ Felsenbl√ºmchen
 
 +
 
-†
+
 
 excl.
 
@@ -5078,15 +5078,15 @@ excl.
 alle europ√§ischen Arten,\\
 mit Ausnahme von Mauer-Felsenbl√ºmchen und Hain-Felsenbl√ºmchen
 
-†
 
-†
+
+
 
 Draba muralis L. et Draba nemorosa L.
 
-†
 
-†
+
+
 
 Dracocephalum ruyschiana L. 8)
 
@@ -5094,7 +5094,7 @@ Nordischer Drachenkopf
 
 +
 
-†
+
 
 Drosera spp. 8)
 
@@ -5102,17 +5102,17 @@ Sonnentaue
 
 +
 
-†
 
-†
+
+
 
 -
 
 alle heimischen Arten
 
-†
 
-†
+
+
 
 Dryopteris cristata (L.) A. Gray 8)
 
@@ -5120,7 +5120,7 @@ Kammfarn
 
 +
 
-†
+
 
 Eryngium campestre L. 8)
 
@@ -5128,7 +5128,7 @@ Feld-Mannstreu
 
 +
 
-†
+
 
 Eryngium maritimum L. 8)
 
@@ -5136,7 +5136,7 @@ Strand-Mannstreu, Stranddistel
 
 +
 
-†
+
 
 Euphorbia lucida Waldstein & Kitaibel 8)
 
@@ -5144,7 +5144,7 @@ Glanz-Wolfsmilch
 
 +
 
-†
+
 
 Euphorbia palustris L. 8)
 
@@ -5152,7 +5152,7 @@ Sumpf-Wolfsmilch
 
 +
 
-†
+
 
 Fritillaria spp. 3) 8)
 
@@ -5160,17 +5160,17 @@ Schachblumen
 
 +
 
-†
 
-†
+
+
 
 -
 
 alle Arten
 
-†
 
-†
+
+
 
 Gentiana lutea L. 8)
 
@@ -5178,7 +5178,7 @@ Gelber Enzian
 
 +
 
-†
+
 
 Gentiana spp. 3) 8)
 
@@ -5186,17 +5186,17 @@ Enziane
 
 +
 
-†
 
-†
+
+
 
 -
 
 alle europ√§ischen Arten, soweit nicht im Einzelnen aufgef√ºhrt
 
-†
 
-†
+
+
 
 Gentianella lutescens (Velenovsky) Holub
 
@@ -5212,17 +5212,17 @@ Enziane
 
 +
 
-†
 
-†
+
+
 
 -
 
 alle europ√§ischen Arten, soweit nicht im Einzelnen aufgef√ºhrt
 
-†
 
-†
+
+
 
 Gladiolus spp. 3) 8)
 
@@ -5230,17 +5230,17 @@ Siegwurze
 
 +
 
-†
 
-†
+
+
 
 -
 
 alle europ√§ischen Arten
 
-†
 
-†
+
+
 
 Globularia spp. 3) 8)
 
@@ -5248,17 +5248,17 @@ Kugelblumen
 
 +
 
-†
 
-†
+
+
 
 -
 
 alle europ√§ischen Arten
 
-†
 
-†
+
+
 
 Gratiola officinalis L. 8)
 
@@ -5266,7 +5266,7 @@ Gottes-Gnadenkraut
 
 +
 
-†
+
 
 Gypsophila fastigiata L. 8)
 
@@ -5274,7 +5274,7 @@ Ebenstr√§u√üiges Gipskraut
 
 +
 
-†
+
 
 Haberlea rhodopensis Friv. 8)
 
@@ -5282,7 +5282,7 @@ Rhodope-Haberlea
 
 +
 
-†
+
 
 Helianthemum apenninum (L.) Miller 8)
 
@@ -5290,7 +5290,7 @@ Apenninen-Sonnenr√∂schen
 
 +
 
-†
+
 
 Helianthemum arcticum (Grosser) Janchen
 
@@ -5298,7 +5298,7 @@ Arktisches Sonnenr√∂schen
 
 +
 
-†
+
 
 Helianthemum canum (L.) Baumg. 8)
 
@@ -5306,7 +5306,7 @@ Graufilziges Sonnenr√∂schen
 
 +
 
-†
+
 
 Helichrysum arenarium (L.) Moench 8)
 
@@ -5314,7 +5314,7 @@ Sand-Strohblume
 
 +
 
-†
+
 
 Helleborus spp. L. 8)
 
@@ -5322,17 +5322,17 @@ Nieswurze, Christrosen
 
 +
 
-†
 
-†
+
+
 
 -
 
 alle europ√§ischen Arten
 
-†
 
-†
+
+
 
 Hepatica nobilis Schreber 8)
 
@@ -5340,7 +5340,7 @@ Leberbl√ºmchen
 
 +
 
-†
+
 
 Horminium pyrenaicum L. 8)
 
@@ -5348,7 +5348,7 @@ Pyren√§en-Drachenmaul
 
 +
 
-†
+
 
 Hottonia palustris L. 8)
 
@@ -5356,7 +5356,7 @@ Wasserfeder, Wasserprimel
 
 +
 
-†
+
 
 Hymenophyllum tunbrigense (L.) Smith
 
@@ -5372,7 +5372,7 @@ Sumpf-Johanniskraut
 
 +
 
-†
+
 
 Ilex aquifolium L. 8)
 
@@ -5380,7 +5380,7 @@ Stechpalme
 
 +
 
-†
+
 
 Inula germanica L. 8)
 
@@ -5388,7 +5388,7 @@ Deutscher Alant
 
 +
 
-†
+
 
 Iris lortetii Barbey
 
@@ -5404,17 +5404,17 @@ Schwertlilien
 
 +
 
-†
 
-†
+
+
 
 -
 
 alle Arten, soweit nicht im Einzelnen aufgef√ºhrt
 
-†
 
-†
+
+
 
 Iris spuria L. 8)
 
@@ -5438,7 +5438,7 @@ See-Brachsenkraut
 
 +
 
-†
+
 
 Jovibarba spp. 8)
 
@@ -5446,17 +5446,17 @@ Fransenhauswurze
 
 +
 
-†
 
-†
+
+
 
 -
 
 alle europ√§ischen Arten
 
-†
 
-†
+
+
 
 Juncus stygius L. 8)
 
@@ -5480,7 +5480,7 @@ Rossk√ºmmel
 
 +
 
-†
+
 
 Lathyrus bauhinii Genty
 
@@ -5488,7 +5488,7 @@ Schwert-Platterbse
 
 +
 
-†
+
 
 Lathyrus maritimus Bigelow 8)
 
@@ -5496,7 +5496,7 @@ Strand-Platterbse
 
 +
 
-†
+
 
 Lathyrus palustris L. 8)
 
@@ -5504,7 +5504,7 @@ Sumpf-Platterbse
 
 +
 
-†
+
 
 Lathyrus pannonicus (Jacq.) Garcke 8)
 
@@ -5512,7 +5512,7 @@ Ungarische Platterbse
 
 +
 
-†
+
 
 Ledum palustre L. 8)
 
@@ -5520,7 +5520,7 @@ Sumpf-Porst
 
 +
 
-†
+
 
 Leontopodium alpinum Cass. 8)
 
@@ -5528,7 +5528,7 @@ Alpen-Edelwei√ü
 
 +
 
-†
+
 
 Leucojum spp. 3) 8)
 
@@ -5536,17 +5536,17 @@ Knotenblumen, M√§rzenbecher
 
 +
 
-†
 
-†
+
+
 
 -
 
 alle europ√§ischen Arten
 
-†
 
-†
+
+
 
 Lilium spp. 8)
 
@@ -5554,17 +5554,17 @@ Lilien
 
 +
 
-†
 
-†
+
+
 
 -
 
 alle Arten
 
-†
 
-†
+
+
 
 Limonium anatolicum Hedge
 
@@ -5588,17 +5588,17 @@ Strandflieder
 
 +
 
-†
 
-†
+
+
 
 -
 
 alle europ√§ischen Arten, soweit nicht im Einzelnen aufgef√ºhrt
 
-†
 
-†
+
+
 
 Linnaea borealis L. 8)
 
@@ -5606,7 +5606,7 @@ Moosgl√∂ckchen
 
 +
 
-†
+
 
 Linum flavum L. 8)
 
@@ -5630,7 +5630,7 @@ Lein
 
 +
 
-†
+
 
 excl. Linum catharticum L.
 
@@ -5639,9 +5639,9 @@ excl. Linum catharticum L.
 alle europ√§ischen Arten, soweit nicht im Einzelnen aufgef√ºhrt\\
 mit Ausnahme von Purgier-Lein
 
-†
 
-†
+
+
 
 Lloydia serotina (L.) Reichenb.
 
@@ -5649,7 +5649,7 @@ Sp√§tbl√ºhende Faltenlilie
 
 +
 
-†
+
 
 Lobelia dortmanna L. 8)
 
@@ -5665,7 +5665,7 @@ K√§rntner Tauernbl√ºmchen
 
 +
 
-†
+
 
 Lunaria rediviva L. 8)
 
@@ -5673,7 +5673,7 @@ Ausdauerndes Silberblatt
 
 +
 
-†
+
 
 Lycopodiales spp.
 
@@ -5681,17 +5681,17 @@ B√§rlappgew√§chse
 
 +
 
-†
 
-†
+
+
 
 -
 
 alle heimischen Arten
 
-†
 
-†
+
+
 
 Matteuccia struthiopteris (L.) Todaro 8)
 
@@ -5699,7 +5699,7 @@ Strau√üenfarn
 
 +
 
-†
+
 
 Melittis melissophyllum L. 8)
 
@@ -5707,7 +5707,7 @@ Immenblatt
 
 +
 
-†
+
 
 Menyanthes trifoliata L. 8)
 
@@ -5715,7 +5715,7 @@ Fieberklee
 
 +
 
-†
+
 
 Muscari spp. 3) 8)
 
@@ -5723,17 +5723,17 @@ Traubenhyazinthen
 
 +
 
-†
 
-†
+
+
 
 -
 
 alle europ√§ischen Arten
 
-†
 
-†
+
+
 
 Narcissus spp. 3) 8)
 
@@ -5741,17 +5741,17 @@ Narzissen
 
 +
 
-†
 
-†
+
+
 
 -
 
 alle europ√§ischen Arten
 
-†
 
-†
+
+
 
 Narthecium ossifragum (L.) Huds. 8)
 
@@ -5759,7 +5759,7 @@ Beinbrech, √Ñhrenlilie
 
 +
 
-†
+
 
 Nuphar lutea (L.) Sm. 8)
 
@@ -5767,7 +5767,7 @@ Gelbe Teichrose
 
 +
 
-†
+
 
 Nuphar pumila (Timm) DC. 8)
 
@@ -5783,7 +5783,7 @@ Wei√üe Seerose
 
 +
 
-†
+
 
 Nymphaea candida K. Presl 8)
 
@@ -5791,7 +5791,7 @@ Kleine Seerose
 
 +
 
-†
+
 
 Nymphoides peltata (S. G. Gmel.) O. Kuntze 8)
 
@@ -5799,7 +5799,7 @@ Seekanne
 
 +
 
-†
+
 
 Oenothera coronifera Renner
 
@@ -5807,7 +5807,7 @@ Kronen-Nachtkerze
 
 +
 
-†
+
 
 Onosma arenaria Waldstein & Kitaibel 8)
 
@@ -5831,17 +5831,17 @@ Lotwurze
 
 +
 
-†
 
-†
+
+
 
 -
 
 alle europ√§ischen Arten
 
-†
 
-†
+
+
 
 Osmunda regalis L. 8)
 
@@ -5849,7 +5849,7 @@ K√∂nigsfarn
 
 +
 
-†
+
 
 Oxytropis pilosa (L.) DC.
 
@@ -5857,7 +5857,7 @@ Zottige Fahnenwicke
 
 +
 
-†
+
 
 Papaver alpinum L. 8)
 
@@ -5865,7 +5865,7 @@ Alpen-Mohn
 
 +
 
-†
+
 
 Papaver lapponicum (Tolm.) Nordh. 8)
 
@@ -5873,7 +5873,7 @@ Lappland-Mohn
 
 +
 
-†
+
 
 Parnassia palustris L. 8)
 
@@ -5881,7 +5881,7 @@ Sumpf-Herzblatt
 
 +
 
-†
+
 
 Pedicularis sceptrumcarolinum L.
 
@@ -5897,17 +5897,17 @@ L√§usekr√§uter
 
 +
 
-†
 
-†
+
+
 
 -
 
 alle europ√§ischen Arten, soweit nicht im Einzelnen aufgef√ºhrt
 
-†
 
-†
+
+
 
 Petrocallis pyrenaica (L.) R. Br. 8)
 
@@ -5915,7 +5915,7 @@ Pyren√§en-Steinschm√ºckel
 
 +
 
-†
+
 
 Pinguicula alpina L. 8)
 
@@ -5923,7 +5923,7 @@ Alpen-Fettkraut
 
 +
 
-†
+
 
 Pinguicula vulgaris L. 8)
 
@@ -5931,7 +5931,7 @@ Gew√∂hnliches Fettkraut
 
 +
 
-†
+
 
 Polemonium caeruleum L. 8)
 
@@ -5939,7 +5939,7 @@ Blaue Himmelsleiter
 
 +
 
-†
+
 
 Polystichum spp. 8)
 
@@ -5947,17 +5947,17 @@ Schildfarne
 
 +
 
-†
 
-†
+
+
 
 -
 
 alle heimischen Arten
 
-†
 
-†
+
+
 
 Primula spp. 3) 8)
 
@@ -5965,17 +5965,17 @@ Primeln, Schl√ºsselblumen
 
 +
 
-†
 
-†
+
+
 
 -
 
 alle europ√§ischen Arten
 
-†
 
-†
+
+
 
 Pulmonaria angustifolia L. 8)
 
@@ -5983,7 +5983,7 @@ Schmalbl√§ttriges Lungenkraut
 
 +
 
-†
+
 
 Pulmonaria mollis Wulfen ex Hornem. 8)
 
@@ -5991,7 +5991,7 @@ Weiches Lungenkraut
 
 +
 
-†
+
 
 Pulmonaria montana Lejeune 8)
 
@@ -5999,7 +5999,7 @@ Berg-Lungenkraut
 
 +
 
-†
+
 
 Pulsatilla alba Reichenb. 8)
 
@@ -6015,17 +6015,17 @@ K√ºchenschellen
 
 +
 
-†
 
-†
+
+
 
 -
 
 alle europ√§ischen Arten, soweit nicht im Einzelnen aufgef√ºhrt
 
-†
 
-†
+
+
 
 Pulsatilla vernalis (L.) Miller 8)
 
@@ -6041,7 +6041,7 @@ Zungen-Hahnenfu√ü
 
 +
 
-†
+
 
 Rhazya orientalis (Decne) A. DC. 8)
 
@@ -6049,7 +6049,7 @@ Orientalische Rhazye
 
 +
 
-†
+
 
 Rheum rhaponticum L. 8)
 
@@ -6057,7 +6057,7 @@ Pontischer Rhabarber
 
 +
 
-†
+
 
 Rubus chamaemorus L. 7) 8)
 
@@ -6073,7 +6073,7 @@ Schwimmfarn
 
 +
 
-†
+
 
 Saxifraga spp. 3) 8)
 
@@ -6081,7 +6081,7 @@ Steinbrech
 
 +
 
-†
+
 
 excl. Saxifraga tridactylites L.
 
@@ -6092,7 +6092,7 @@ mit Ausnahme von Finger-Steinbrech
 
 +
 
-†
+
 
 Scheuchzeria palustris L.
 
@@ -6100,7 +6100,7 @@ Blasenbinse
 
 +
 
-†
+
 
 Scilla spp. 3) 8) (incl. Hyacinthoides spp.)
 
@@ -6108,15 +6108,15 @@ Blausterne (einschl. Hasengl√∂ckchen)
 
 +
 
-†
+
 
 -
 
 alle Arten
 
-†
 
-†
+
+
 
 Scorzonera austriaca Willd. 8)
 
@@ -6132,7 +6132,7 @@ Spanische Schwarzwurzel
 
 +
 
-†
+
 
 Scorzonera humilis L. 8)
 
@@ -6140,7 +6140,7 @@ Niedrige Schwarzwurzel
 
 +
 
-†
+
 
 Scorzonera purpurea L. 8)
 
@@ -6156,17 +6156,17 @@ Hauswurze
 
 +
 
-†
 
-†
+
+
 
 -
 
 alle europ√§ischen Arten
 
-†
 
-†
+
+
 
 Senecio incanus ssp. carniolicus Willd. 8)
 
@@ -6174,7 +6174,7 @@ Krainers Greiskraut
 
 +
 
-†
+
 
 Soldanella spp. 8)
 
@@ -6182,17 +6182,17 @@ Alpengl√∂ckchen, Troddelblumen
 
 +
 
-†
 
-†
+
+
 
 -
 
 alle heimischen Arten
 
-†
 
-†
+
+
 
 Stipa dasyphylla (Lindem.) Trautv.
 
@@ -6208,17 +6208,17 @@ Federgr√§ser, Pfriemengras
 
 +
 
-†
 
-†
+
+
 
 -
 
 alle europ√§ischen Arten, soweit nicht im Einzelnen aufgef√ºhrt
 
-†
 
-†
+
+
 
 Stratiotes aloides L. 8)
 
@@ -6226,7 +6226,7 @@ Krebsschere
 
 +
 
-†
+
 
 Swertia perennis L. 8)
 
@@ -6234,7 +6234,7 @@ Blauer Sumpfstern
 
 +
 
-†
+
 
 Taxus baccata L. 8)
 
@@ -6242,7 +6242,7 @@ Eibe
 
 +
 
-†
+
 
 Trapa natans L. 8)
 
@@ -6250,7 +6250,7 @@ Wassernuss
 
 +
 
-†
+
 
 Trollius europaeus L. 8)
 
@@ -6258,7 +6258,7 @@ Trollblume
 
 +
 
-†
+
 
 Tulipa spp. 3) 8)
 
@@ -6266,17 +6266,17 @@ Tulpen
 
 +
 
-†
 
-†
+
+
 
 -
 
 alle Arten
 
-†
 
-†
+
+
 
 Utricularia bremii Heer
 
@@ -6292,7 +6292,7 @@ Ockergelber Wasserschlauch
 
 +
 
-†
+
 
 Veronica longifolia L. 8)
 
@@ -6300,7 +6300,7 @@ Langbl√§ttriger Ehrenpreis
 
 +
 
-†
+
 
 Veronica spicata L. 8)
 
@@ -6308,7 +6308,7 @@ Veronica spicata L. 8)
 
 +
 
-†
+
 
 Viola calcarata L. 8)
 
@@ -6316,7 +6316,7 @@ Gesporntes Veilchen
 
 +
 
-†
+
 
 Viola guestphalica Nauenburg
 
@@ -6324,7 +6324,7 @@ Violettes Galmei-Veilchen
 
 +
 
-†
+
 
 Viola lutea Huds. ssp. calaminaria (Ging. in DC.) Rothm.
 
@@ -6332,7 +6332,7 @@ Gelbes Galmei-Veilchen
 
 +
 
-†
+
 
 Vitis vinifera L. ssp. sylvestris (C. C. Gmelin) Hegi 8)
 
@@ -6348,7 +6348,7 @@ Efeu-Moorgl√∂ckchen
 
 +
 
-†
+
 
 Woodsia spp. 8)
 
@@ -6356,25 +6356,25 @@ Wimperfarne
 
 +
 
-†
 
-†
+
+
 
 -
 
 alle heimischen Arten
 
-†
 
-†
+
+
 
 Bryophyta
 
 Moose
 
-†
 
-†
+
+
 
 Hylocomium spp. 8)
 
@@ -6382,7 +6382,7 @@ Hainmoose
 
 +
 
-†
+
 
 -
 
@@ -6394,7 +6394,7 @@ Wei√ümoose
 
 +
 
-†
+
 
 -
 
@@ -6406,7 +6406,7 @@ Torfmoose
 
 +
 
-†
+
 
 -
 
@@ -6416,9 +6416,9 @@ Lichenes
 
 Flechten
 
-†
 
-†
+
+
 
 Anaptychia spp.
 
@@ -6426,7 +6426,7 @@ Wimperflechten
 
 +
 
-†
+
 
 -
 
@@ -6438,7 +6438,7 @@ Moosflechten
 
 +
 
-†
+
 
 -
 
@@ -6450,7 +6450,7 @@ Rentierflechten
 
 +
 
-†
+
 
 -
 
@@ -6470,7 +6470,7 @@ Lungenflechten
 
 +
 
-†
+
 
 -
 
@@ -6482,7 +6482,7 @@ Schl√ºsselflechten
 
 +
 
-†
+
 
 -
 
@@ -6494,7 +6494,7 @@ Bartflechten
 
 +
 
-†
+
 
 -
 
@@ -6504,9 +6504,9 @@ Fungi
 
 Pilze
 
-†
 
-†
+
+
 
 Albatrellus spp. 7) 8)
 
@@ -6514,17 +6514,17 @@ Schaf-Porling, Semmel-Porlinge
 
 +
 
-†
 
-†
+
+
 
 -
 
 alle heimischen Arten
 
-†
 
-†
+
+
 
 Amanita caesarea (Scop. ex Fr.) Pers. ex Schw. 7) 8)
 
@@ -6532,7 +6532,7 @@ Kaiserling
 
 +
 
-†
+
 
 Boletus aereus Bull. ex Fr. 7) 8)
 
@@ -6540,7 +6540,7 @@ Wei√üer Bronze-R√∂hrling
 
 +
 
-†
+
 
 Boletus appendiculatus Schff. ex Fr. 7) 8)
 
@@ -6548,7 +6548,7 @@ Gelber Bronze-R√∂hrling
 
 +
 
-†
+
 
 Boletus edulis Bull. ex Fr. 7) 8)
 
@@ -6556,7 +6556,7 @@ Steinpilz
 
 +
 
-†
+
 
 Boletus fechtneri Vel. 7) 8)
 
@@ -6564,7 +6564,7 @@ Sommer-R√∂hrling
 
 +
 
-†
+
 
 Boletus regius Krbh. 7) 8)
 
@@ -6572,7 +6572,7 @@ Echter K√∂nigs-R√∂hrling
 
 +
 
-†
+
 
 Boletus speciosus Frost 7) 8)
 
@@ -6580,7 +6580,7 @@ Blauender K√∂nigs-R√∂hrling
 
 +
 
-†
+
 
 Cantharellus spp. 7) 8)
 
@@ -6588,17 +6588,17 @@ Pfifferlinge
 
 +
 
-†
 
-†
+
+
 
 -
 
 alle heimischen Arten
 
-†
 
-†
+
+
 
 Gomphus clavatus (Pers. ex Fr.) S. F. Gray 7) 8)
 
@@ -6606,7 +6606,7 @@ Schweinsohr
 
 +
 
-†
+
 
 Gyrodon lividus (Bull. ex Fr.) Sacc. 7) 8)
 
@@ -6614,7 +6614,7 @@ Erlen-Gr√ºbling
 
 +
 
-†
+
 
 Hygrocybe spp. 7) 8)
 
@@ -6622,17 +6622,17 @@ Saftlinge
 
 +
 
-†
 
-†
+
+
 
 -
 
 alle heimischen Arten
 
-†
 
-†
+
+
 
 Hygrophorus marzuolus (Fr.) Bres. 7) 8)
 
@@ -6640,7 +6640,7 @@ M√§rz-Schneckling
 
 +
 
-†
+
 
 Lactarius volemus Fr. 7) 8)
 
@@ -6648,7 +6648,7 @@ Br√§tling
 
 +
 
-†
+
 
 Leccinum spp. 7) 8)
 
@@ -6656,17 +6656,17 @@ Birkenpilze und Rotkappen
 
 +
 
-†
 
-†
+
+
 
 -
 
 alle heimischen Arten
 
-†
 
-†
+
+
 
 Morchella spp. 7) 8)
 
@@ -6674,17 +6674,17 @@ Morcheln
 
 +
 
-†
 
-†
+
+
 
 -
 
 alle heimischen Arten
 
-†
 
-†
+
+
 
 Tricholoma flavovirens (Pers. ex Fr.) Lund & Nannf. 7) 8)
 
@@ -6692,7 +6692,7 @@ Gr√ºnling
 
 +
 
-†
+
 
 Tuber spp. 7) 8)
 
@@ -6700,17 +6700,17 @@ Tr√ºffel
 
 +
 
-†
 
-†
+
+
 
 -
 
 alle heimischen Arten
 
-†
 
-†
+
+
 
 \\
 \\
@@ -7020,1667 +7020,1667 @@ zeichen
 6
 Mammalia
 S√§ugetiere
-†
-†
-†
-†
-†
+
+
+
+
+
 Acerodon jubatus
 Luzon-Flughund
-†
-†
-†
-†
-†
+
+
+
+
+
 Acerodon lucifer
 Panay-Riesenflughund
-†
-†
-†
-†
-†
+
+
+
+
+
 Acinonyx jubatus
 Gepard
-†
-†
+
+
 +
 +<<FnR.BJNR025810005BJNE002300000_1>>[[#BJNR025810005BJNE002300000_1][1)]]} <<FnR.BJNR025810005BJNE002300000_2>>[[#BJNR025810005BJNE002300000_2][2)]]}
-†
+
 Addax nasomaculatus
 Addax oder Mendesantilope
-†
-†
+
+
 +
-†
-†
+
+
 Ailuropoda melanoleuca
 Riesen-Panda
-†
-†
+
+
 +
 +
-†
+
 Ailurus fulgens
 Kleiner Panda
-†
-†
+
+
 +
-†
-†
+
+
 Allocebus trichotis
 B√ºschelohriger Katzenmaki
-†
-†
+
+
 +
-†
-†
+
+
 Alouatta coibensis
 Br√ºllaffe
-†
-†
-†
-†
-†
+
+
+
+
+
 Alouatta palliata
 Mantelbr√ºllaffe
-†
-†
-†
-†
-†
+
+
+
+
+
 Alouatta pigra
 Guatemala-Br√ºllaffe
-†
-†
-†
-†
-†
+
+
+
+
+
 Antilocapra americana
 Niederkalifornischer Gabelbock
-†
-†
-†
-†
-†
+
+
+
+
+
 Aonyx congicus<<FnR.BJNR025810005BJNE002300000_16>>[[#BJNR025810005BJNE002300000_16][16)]]}
 Kleinkrallenotter
-†
-†
-†
-†
-†
+
+
+
+
+
 Arctocephalus philippii
 Juan Fernandez-Seeb√§r
-†
-†
-†
-†
-†
+
+
+
+
+
 Arctocephalus townsendi
 Guadeloupe-Seeb√§r
-†
-†
-†
-†
-†
+
+
+
+
+
 Ateles geoffroyi frontatus
 Schwarzbrauen-Geoffroy-Klammeraffe
-†
-†
-†
-†
-†
+
+
+
+
+
 Ateles geoffroyi panamensis
 Panama-Klammeraffe
-†
-†
-†
-†
-†
+
+
+
+
+
 Axis kuhlii
 Bawean-Schweinshirsch, Kuhlhirsch
-†
-†
+
+
 +
-†
-†
+
+
 Axis porcinus annamiticus
 Hinterindischer Schweinshirsch
-†
-†
-†
-†
-†
+
+
+
+
+
 Axis calamianensis
 Calamian-Schweinshirsch
-†
-†
-†
-†
-†
+
+
+
+
+
 Babyrousa babyrussa
 Hirscheber
-†
-†
+
+
 +
-†
-†
+
+
 Bettongia penicillata
 Pinselschwanz-B√ºrstenk√§nguruh, Ogilby- B√ºrstenk√§nguruh
-†
-†
+
+
 +
-†
-†
+
+
 Bettongia spp.
 B√ºrstenk√§nguruhs\\
 -- soweit nicht im Einzelnen aufgef√ºhrt
-†
-†
-†
-†
-†
+
+
+
+
+
 Blastocerus dichotomus
 Sumpfhirsch
-†
-†
+
+
 +
-†
-†
+
+
 Bos gaurus
 Gaur
-†
-†
-†
-†
-†
+
+
+
+
+
 Bos mutus[[#BJNR025810005BJNE002300000_16][16)]]}
 Wildyak, Grunzochse
-†
-†
-†
-†
-†
+
+
+
+
+
 Bos sauveli
 Kouprey
-†
-†
+
+
 +
-†
-†
+
+
 Brachyteles arachnoides
 Spinnenaffe
-†
-†
-†
-†
-†
+
+
+
+
+
 Bubalus depressicornis
 Tieflandanoa, Gemsb√ºffel
-†
-†
+
+
 +
-†
-†
+
+
 Bubalus mindorensis
 Tamarau, Mindorob√ºffel
-†
-†
-†
-†
-†
+
+
+
+
+
 Bubalus quarlesi
 Berganoa
-†
-†
+
+
 +
-†
-†
+
+
 Cacajao calvus
 Roter Uakari
-†
-†
+
+
 +
-†
-†
+
+
 Cacajao melanocephalus
 Schwarzer Uakari
-†
-†
+
+
 +
-†
-†
+
+
 Cacajao spp.
 Uakaris, Kurzschwanzaffen\\
 -- soweit nicht im Einzelnen aufgef√ºhrt
-†
-†
-†
-†
-†
+
+
+
+
+
 Callicebus personatus
 Springaffe
-†
-†
-†
-†
-†
+
+
+
+
+
 Callimico goeldii
 Goeldi-Springtamarin
-†
-†
+
+
 +
-†
-†
+
+
 Callithrix aurita
 Wei√üohrseiden√§ffchen
-†
-†
-†
-†
-†
+
+
+
+
+
 Callithrix flaviceps
 Gelbkopfb√ºschelseiden√§ffchen
-†
-†
-†
-†
-†
+
+
+
+
+
 Caloprymnus campestris
 Nacktbrust-K√§nguruh
-†
-†
-†
-†
-†
+
+
+
+
+
 Canis lupus[[#BJNR025810005BJNE002300000_16][16)]]}
 Wolf
-†
-†
+
+
 +
-†
-†
+
+
 Canis simensis
 Abessinischer Fuchs
-†
-†
-†
-†
-†
+
+
+
+
+
 Capra falconeri
 Schraubenziege
-†
-†
+
+
 +
-†
-†
+
+
 Caprolagus hispidus
 Borstenkaninchen
-†
-†
-†
-†
-†
+
+
+
+
+
 Caracal caracal[[#BJNR025810005BJNE002300000_16][16)]]}
 Karakal, W√ºstenluchs
-†
-†
+
+
 +
-†
-†
+
+
 Castor canadensis
 Amerikanischer Biber
-†
-†
+
+
 +
-†
-†
+
+
 Catagonus wagneri
 Chaco-Pekari
-†
-†
+
+
 +
-†
-†
+
+
 Catopuma temminckii
 Asiatische Goldkatze
-†
-†
+
+
 +
-†
-†
+
+
 Cephalophus jentinki
 Jentinducker
-†
-†
+
+
 +
-†
-†
+
+
 Cephalorhynchus commersonii
 Emmerson-Delphin, Jacobita
-†
-†
-†
+
+
+
 +
-†
+
 Cercocebus galeritus
 Tana-Haubenmangabe
-†
-†
-†
-†
-†
+
+
+
+
+
 Cercopithecus diana
 Dianameerkatze
-†
-†
+
+
 +
-†
-†
+
+
 Cercopithecus solatus
 Gabun-Meerkatze
-†
-†
-†
-†
-†
+
+
+
+
+
 Cervus duvaucelii
 Barasingha
-†
-†
+
+
 +
-†
-†
+
+
 Cervus elaphus hanglu
 Kaschmirhirsch
-†
-†
-†
-†
-†
+
+
+
+
+
 Cervus eldii
 Leierhirsch
-†
-†
+
+
 +
-†
-†
+
+
 Cetacea spp.
 Wale\\
 -- soweit nicht im Einzelnen aufgef√ºhrt
-†
-†
-†
-†
-†
+
+
+
+
+
 Chaeropus ecaudatus
 Schweinsfu√ü
-†
-†
-†
-†
-†
+
+
+
+
+
 Cheirogaleidae spp.
 Katzenmakis\\
 -- soweit nicht im Einzelnen aufgef√ºhrt
-†
-†
-†
-†
-†
+
+
+
+
+
 Cheirogaleus major
 Gro√üer Katzenmaki
-†
-†
+
+
 +
-†
-†
+
+
 Cheirogaleus medius
 Mittlerer Katzenmaki
-†
-†
+
+
 +
-†
-†
+
+
 Chinchilla brevicaudata[[#BJNR025810005BJNE002300000_16][16)]]}
 Kurzschwanz-Chinchilla
-†
-†
+
+
 +
-†
-†
+
+
 Chinchilla lanigera[[#BJNR025810005BJNE002300000_16][16)]]}
 Langschwanz-Chinchilla
-†
-†
+
+
 +
-†
-†
+
+
 Chinchilla spp.[[#BJNR025810005BJNE002300000_16][16)]]}
 Chinchillas\\
 -- soweit nicht im Einzelnen aufgef√ºhrt
-†
-†
-†
-†
-†
+
+
+
+
+
 Chiropotes albinasus
 Wei√ünasensaki
-†
-†
+
+
 +
-†
-†
+
+
 Colobus satanas
 Schwarzer Colobus
-†
-†
-†
-†
-†
+
+
+
+
+
 Cynomys mexicanus
 Mexikanischer Pr√§riehund
-†
-†
+
+
 +
-†
-†
+
+
 Dama mesopotamica
 Mesopotamischer Damhirsch
-†
-†
+
+
 +
 +[[#BJNR025810005BJNE002300000_1][1)]]}
-†
+
 Daubentonia madagascariensis
 Fingertier
-†
-†
+
+
 +
-†
-†
+
+
 Delphinapterus leucas
 Wei√üwal, Beluga
-†
-†
-†
+
+
+
 +
-†
+
 Dugong dugong
 Dugong, Pazifische Seekuh
-†
-†
-†
-†
-†
+
+
+
+
+
 Elephas maximus
 Asiatischer Elefant
-†
-†
+
+
 +
 +[[#BJNR025810005BJNE002300000_2][2)]]}
 +<<FnR.BJNR025810005BJNE002300000_9>>[[#BJNR025810005BJNE002300000_9][9)]]}
 Enhydra lutris nereis
 Seeotter
-†
-†
-†
-†
-†
+
+
+
+
+
 Equus africanus
 Afrikanischer Wildesel
-†
-†
+
+
 +
 +<<FnR.BJNR025810005BJNE002300000_7>>[[#BJNR025810005BJNE002300000_7][7)]]}
-†
+
 Equus grevyi
 Grevyzebra
-†
-†
+
+
 +
 +[[#BJNR025810005BJNE002300000_1][1)]]}
-†
+
 Equus hemionus hemionus
 Dschiggetai
-†
-†
-†
-†
-†
+
+
+
+
+
 Equus kiang
 Kiang
-†
-†
+
+
 +
-†
-†
+
+
 Equus onager khur
 Indischer Halbesel
-†
-†
-†
-†
-†
+
+
+
+
+
 Equus przewalskii
 Przewalskipferd
-†
-†
+
+
 +
-†
+
 +[[#BJNR025810005BJNE002300000_9][9)]]}
 Equus zebra zebra
 Kap-Bergzebra
-†
-†
+
+
 +
 +[[#BJNR025810005BJNE002300000_1][1)]]}
-†
+
 Eulemur coronatus
 Kronenmaki
-†
-†
+
+
 +
-†
-†
+
+
 Eulemur fulvus
 Brauner Lemur
-†
-†
+
+
 +
-†
-†
+
+
 Eulemur macaco
 Mohrenmaki
-†
-†
+
+
 +
-†
-†
+
+
 Eulemur mongoz
 Mongozmaki
-†
-†
+
+
 +
-†
-†
+
+
 Eulemur rubriventer
 Rotbauchmaki
-†
-†
+
+
 +
-†
-†
+
+
 Felis nigripes
 Schwarzfu√ükatze
-†
-†
+
+
 +
 +[[#BJNR025810005BJNE002300000_1][1)]]}
-†
+
 Felis silvestris
 Wildkatze
-†
-†
+
+
 +
 +
-†
+
 Gazella dama
 Damagazelle
-†
-†
+
+
 +
 +[[#BJNR025810005BJNE002300000_7][7)]]}
-†
+
 Gorilla gorilla
 Gorilla
-†
-†
+
+
 +
 +<<FnR.BJNR025810005BJNE002300000_3>>[[#BJNR025810005BJNE002300000_3][3)]]}
-†
+
 Hapalemur aureus
 Goldener Bambuslemur
-†
-†
+
+
 +
-†
-†
+
+
 Hapalemur griseus
 Grauer Halbmaki
-†
-†
+
+
 +
-†
-†
+
+
 Hapalemur simus
 Gro√üer Halbmaki
-†
-†
+
+
 +
-†
-†
+
+
 Helarctos malayanus
 Malayenb√§r
-†
-†
+
+
 +
 +
-†
+
 Herpailurus yaguarondi[[#BJNR025810005BJNE002300000_16][16)]]}
 Wieselkatze
-†
-†
+
+
 +
 +[[#BJNR025810005BJNE002300000_1][1)]]}
-†
+
 Hippocamelus spp.
 Andenhirsche
-†
-†
-†
-†
-†
+
+
+
+
+
 Hippotragus niger variani
 Riesen-Rappenantilope
-†
-†
-†
-†
-†
+
+
+
+
+
 Hylobates agilis
 Ungka
-†
-†
+
+
 +
-†
-†
+
+
 Hylobates concolor
 Schwarzer Schopfgibbon
-†
-†
+
+
 +
-†
-†
+
+
 Hylobates gabriellae
 Gelbwangen-Schopf-gibbon
-†
-†
+
+
 +
-†
-†
+
+
 Hylobates lar
 Lar, Wei√ühandgibbon
-†
-†
+
+
 +
-†
-†
+
+
 Hylobates leucogenys
 Wei√üwangen-Schopf-gibbon
-†
-†
+
+
 +
-†
-†
+
+
 Hylobates moloch
 Silbergibbon
-†
-†
+
+
 +
-†
-†
+
+
 Hylobates muelleri
 Borneo-Silbergibbon
-†
-†
+
+
 +
-†
-†
+
+
 Hylobates pileatus
 Kappengibbon
-†
-†
+
+
 +
-†
-†
+
+
 Hylobates syndactylus
 Siamang
-†
-†
+
+
 +
-†
-†
+
+
 Hylobatidae spp.
 Gibbons\\
 -- soweit nicht im Einzelnen aufgef√ºhrt
-†
-†
-†
-†
-†
+
+
+
+
+
 Hystrix cristata
 Stachelschwein
-†
-†
+
+
 +
-†
-†
+
+
 Indridae spp.
 Indriartige
-†
-†
-†
-†
-†
+
+
+
+
+
 Inia geoffrensis
 Orinoko-Flussdelphin
-†
-†
-†
+
+
+
 +
-†
+
 Lagorchestes hirsutus
 Zottelhasen-K√§nguruh
-†
-†
-†
-†
-†
+
+
+
+
+
 Lagostrophus fasciatus
 B√§nder-K√§nguruh
-†
-†
-†
-†
-†
+
+
+
+
+
 Lagothrix flavicauda
 Gelbschwanzwollaffe
-†
-†
-†
-†
-†
+
+
+
+
+
 Lasiorhinus krefftii
 Moonie-Wombat
-†
-†
-†
-†
-†
+
+
+
+
+
 Lemur catta
 Katta
-†
-†
+
+
 +
-†
-†
+
+
 Lemuridae spp.
 Lemuren\\
 -- soweit nicht im Einzelnen aufgef√ºhrt
-†
-†
-†
-†
-†
+
+
+
+
+
 Leontopithecus chrysomelas
 Goldkopf-L√∂wen√§ffchen
-†
-†
+
+
 +
-†
+
 +<<FnR.BJNR025810005BJNE002300000_8>>[[#BJNR025810005BJNE002300000_8][8)]]}
 Leontopithecus rosalia
 Goldgelbes L√∂wen√§ffchen
-†
-†
+
+
 +
-†
+
 +[[#BJNR025810005BJNE002300000_8][8)]]}
 Leontopithecus spp.
 L√∂wen√§ffchen\\
 -- soweit nicht im Einzelnen aufgef√ºhrt
-†
-†
-†
-†
-†
+
+
+
+
+
 Leopardus pardalis
 Ozelot
-†
-†
+
+
 +
 +[[#BJNR025810005BJNE002300000_1][1)]]}
-†
+
 Leopardus tigrinus
 Tigerkatze
-†
-†
+
+
 +
 +[[#BJNR025810005BJNE002300000_1][1)]]}
-†
+
 Leopardus wiedii
 Langschwanzkatze
-†
-†
+
+
 +
 +[[#BJNR025810005BJNE002300000_1][1)]]}
-†
+
 Leporillus conditor
 Langohr-H√§schenratte
-†
-†
-†
-†
-†
+
+
+
+
+
 Lontra felina
 Meerotter
-†
-†
-†
-†
-†
+
+
+
+
+
 Lontra longicaudis
 S√ºdamerika-Fischotter
-†
-†
-†
-†
-†
+
+
+
+
+
 Lontra provocax
 S√ºdlicher Flussotter
-†
-†
-†
-†
-†
+
+
+
+
+
 Loxodonta africana
 Afrikanischer Elefant
-†
-†
+
+
 +
 +[[#BJNR025810005BJNE002300000_2][2)]]}
-†
+
 Lutra lutra
 Eurasischer Fischotter
-†
-†
+
+
 +
-†
-†
+
+
 Lynx lynx
 Luchs
-†
-†
+
+
 +
-†
-†
+
+
 Lynx pardinus
 Pardelluchs
-†
-†
+
+
 +
 +[[#BJNR025810005BJNE002300000_1][1)]]}
-†
+
 Macaca silenus
 Wanderu, Bartaffe
-†
-†
+
+
 +
-†
-†
+
+
 Macrotis lagotis
 Gro√üer Kaninchennasenbeutler
-†
-†
-†
-†
-†
+
+
+
+
+
 Macrotis leucura
 Kleiner Kaninchennasenbeutler
-†
-†
-†
-†
-†
+
+
+
+
+
 Mandrillus leucophaeus
 Drill
-†
-†
+
+
 +
-†
-†
+
+
 Mandrillus sphinx
 Mandrill
-†
-†
+
+
 +
-†
-†
+
+
 Megaladapidae spp.
 Wieselmakis
-†
-†
+
+
 +
-†
-†
+
+
 Megamuntiacus vuquanghensis
 Riesenmuntjak
-†
-†
-†
-†
-†
+
+
+
+
+
 Melursus ursinus
 Lippenb√§r
-†
-†
+
+
 +
-†
-†
+
+
 Monachus spp.
 M√∂nchsrobben
-†
-†
-†
-†
-†
+
+
+
+
+
 Moschus spp.[[#BJNR025810005BJNE002300000_16][16)]]}
 Moschustiere
-†
-†
+
+
 +
-†
-†
+
+
 Muntiacus crinifrons
 Schwarzer Muntjak
-†
-†
-†
-†
-†
+
+
+
+
+
 Mustela nigripes
 Schwarzfu√üiltis
-†
-†
-†
-†
-†
+
+
+
+
+
 Naemorhedus baileyi
 Goral
-†
-†
-†
-†
-†
+
+
+
+
+
 Naemorhedus caudatus
 Langschwanz-Goral
-†
-†
+
+
 +
-†
-†
+
+
 Naemorhedus goral
 Goral, Waldziegenantilope
-†
-†
+
+
 +
-†
-†
+
+
 Naemorhedus sumatraensis
 Seran
-†
-†
+
+
 +
-†
-†
+
+
 Nasalis concolor
 Pageh-Stumpfnasenaffe
-†
-†
-†
-†
-†
+
+
+
+
+
 Nasalis larvatus
 Nasenaffe
-†
-†
+
+
 +
-†
-†
+
+
 Neofelis nebulosa
 Nebelparder
-†
-†
+
+
 +
 +[[#BJNR025810005BJNE002300000_1][1)]]}
-†
+
 Oncifelis geoffroyi
 Geoffroy-Katze
-†
-†
+
+
 +
 +[[#BJNR025810005BJNE002300000_1][1)]]}
-†
+
 Onychogalea fraenata
 Z√ºgel-K√§nguruh, Kurznagel-K√§nguruh
-†
-†
-†
-†
-†
+
+
+
+
+
 Onychogalea lunata
 Mondnagel-K√§nguruh
-†
-†
-†
-†
-†
+
+
+
+
+
 Orcinus orca
 Schwertwal
-†
-†
-†
+
+
+
 +
-†
+
 Oreailurus jacobita
 Bergkatze
-†
-†
-†
-†
-†
+
+
+
+
+
 Oryx dammah
 S√§belantilope
-†
-†
+
+
 +
 +
-†
+
 Oryx leucoryx
 Wei√üe Oryx
-†
-†
+
+
 +
 +<<FnR.BJNR025810005BJNE002300000_10>>[[#BJNR025810005BJNE002300000_10][10)]]}
-†
+
 Ovis ammon hodgsonii
 Himalayaschaf
-†
-†
-†
-†
-†
+
+
+
+
+
 Ovis ammon nigrimontana
 Kara-Tau-Wildschaf
-†
-†
-†
-†
-†
+
+
+
+
+
 Ovis orientalis ophion
 Zyprisches Mufflon
-†
-†
-†
-†
-†
+
+
+
+
+
 Ovis vignei vignei
 Steppenschaf, Ladakschaf
-†
-†
+
+
 +
-†
-†
+
+
 Ozotoceros bezoarticus
 Pampashirsch
-†
-†
+
+
 +
-†
-†
+
+
 Pan paniscus
 Zwergschimpanse, Bonobo
-†
-†
+
+
 +
 +[[#BJNR025810005BJNE002300000_3][3)]]}
-†
+
 Pan troglodytes
 Schimpanse
-†
-†
+
+
 +
 +[[#BJNR025810005BJNE002300000_1][1)]]}
-†
+
 Panthera leo persica
 Persischer L√∂we
-†
-†
+
+
 +
-†
-†
+
+
 Panthera onca
 Jaguar
-†
-†
+
+
 +
 +[[#BJNR025810005BJNE002300000_1][1)]]}
-†
+
 Panthera pardus
 Leopard
-†
-†
+
+
 +
 +[[#BJNR025810005BJNE002300000_1][1)]]}
-†
+
 Panthera tigris
 Tiger
-†
-†
+
+
 +
 +[[#BJNR025810005BJNE002300000_1][1)]]}
-†
+
 Pantholops hodgsonii
 Tschiru (Orongo), Tibetantilope
-†
-†
-†
-†
-†
+
+
+
+
+
 Pardofelis marmorata
 Marmorkatze
-†
-†
+
+
 +
 +[[#BJNR025810005BJNE002300000_1][1)]]}
-†
+
 Perameles bougainville
 Westaustralischer Streifenbeuteldachs
-†
-†
-†
-†
-†
+
+
+
+
+
 Phaner furcifer
 Gabelstreif-Katzenmaki
-†
-†
+
+
 +
-†
-†
+
+
 Pongo pygmaeus
 Orang-Utan
-†
-†
+
+
 +
 +[[#BJNR025810005BJNE002300000_3][3)]]}
 +[[#BJNR025810005BJNE002300000_1][1)]]}
 Presbytis potenziani
 Mentalwilangur
-†
-†
-†
-†
-†
+
+
+
+
+
 Priodontes maximus
 Rieseng√ºrteltier
-†
-†
+
+
 +
 +<<FnR.BJNR025810005BJNE002300000_4>>[[#BJNR025810005BJNE002300000_4][4)]]}
-†
+
 Prionailurus bengalensis bengalensis[[#BJNR025810005BJNE002300000_16][16)]]}
 Indische Bengalkatze, Leopardkatze
-†
-†
+
+
 +
 +[[#BJNR025810005BJNE002300000_1][1)]]}
-†
+
 Prionailurus bengalensis iriomotensis
 Iriomotokatze
-†
-†
+
+
 +
-†
-†
+
+
 Prionailurus planiceps
 Flachkopfkatze
-†
-†
-†
-†
-†
+
+
+
+
+
 Prionailurus rubiginosus[[#BJNR025810005BJNE002300000_16][16)]]}
 Rostkatze
-†
-†
+
+
 +
 +[[#BJNR025810005BJNE002300000_1][1)]]}
-†
+
 Prionodon pardicolor
 Fleckenlingsang
-†
-†
-†
-†
-†
+
+
+
+
+
 Procolobus pennantii
 Sansibarstummelaffe
-†
-†
-†
-†
-†
+
+
+
+
+
 Procolobus preussi
 Kamerun-Stummelaffe
-†
-†
-†
-†
-†
+
+
+
+
+
 Procolobus rufomitratus
 Rotkopfstummelaffe, Roter Colobus
-†
-†
-†
-†
-†
+
+
+
+
+
 Pseudomys praeconis
 Shark Bay-Falschmaus
-†
-†
-†
-†
-†
+
+
+
+
+
 Pseudoryx nghetinhensis
 Vietnamesisches Waldrind, Vu-Quang-Rind
-†
-†
-†
-†
-†
+
+
+
+
+
 Pteronura brasiliensis
 Riesenotter
-†
-†
-†
+
+
+
 +<<FnR.BJNR025810005BJNE002300000_6>>[[#BJNR025810005BJNE002300000_6][6)]]}
-†
+
 Pteropus insularis
 Truk-Flughund
-†
-†
-†
-†
-†
+
+
+
+
+
 Pteropus livingstonei
 Komoren-Flughund
-†
-†
+
+
 +
-†
-†
+
+
 Pteropus mariannus
 Marianen-Flughund
-†
-†
-†
-†
-†
+
+
+
+
+
 Pteropus molossinus
 Ponape-Flughund
-†
-†
-†
-†
-†
+
+
+
+
+
 Pteropus phaeocephalus
 Mortloch-Flughund
-†
-†
-†
-†
-†
+
+
+
+
+
 Pteropus pilosus
 Palau-Flughund
-†
-†
-†
-†
-†
+
+
+
+
+
 Pteropus rodricensis
 Rodrigez-Flughund
-†
-†
+
+
 +
-†
-†
+
+
 Pteropus samoensis
 Samoa-Flughund
-†
-†
-†
-†
-†
+
+
+
+
+
 Pteropus tonganus
 Tonga-Flughund
-†
-†
-†
-†
-†
+
+
+
+
+
 Pteropus voeltzkowi
 Pemba-Flughund
-†
-†
-†
-†
-†
+
+
+
+
+
 Pudu puda
 S√ºdpudu
-†
-†
-†
-†
-†
+
+
+
+
+
 Puma concolor coryi
 Florida-Puma
-†
-†
-†
-†
-†
+
+
+
+
+
 Puma concolor costaricensis
 Costa-Rica-Puma
-†
-†
-†
-†
-†
+
+
+
+
+
 Puma concolor couguar
 Ostamerikanischer Puma
-†
-†
-†
-†
-†
+
+
+
+
+
 Pygathrix nemaeus
 Kleideraffe
-†
-†
+
+
 +
-†
-†
+
+
 Pygathrix spp.
 Stumpfnasenaffen, Kleideraffen\\
 -- soweit nicht im Einzelnen aufgef√ºhrt
-†
-†
-†
-†
-†
+
+
+
+
+
 Rhinocerotidae spp.
 Nash√∂rner
-†
-†
-†
-†
-†
+
+
+
+
+
 Romerolagus diazi
 Mexikanisches Vulkankaninchen
-†
-†
+
+
 +
-†
-†
+
+
 Rupicapra pyrenaica ornata
 Abruzzengemse
-†
-†
+
+
 +
-†
-†
+
+
 Saguinus bicolor
 Mantel√§ffchen
-†
-†
+
+
 +
-†
-†
+
+
 Saguinus geoffroyi
 Geoffroy-Per√ºcken√§ffchen
-†
-†
+
+
 +
-†
-†
+
+
 Saguinus leucopus
 Wei√üfu√ü√§ffchen
-†
-†
+
+
 +
-†
-†
+
+
 Saguinus oedipus
 Liszt√§ffchen
-†
-†
+
+
 +
-†
-†
+
+
 Saimiri oerstedii
 Gelbes Totenkopf√§ffchen
-†
-†
+
+
 +
-†
-†
+
+
 Semnopithecus entellus
 Hulman
-†
-†
+
+
 +
-†
-†
+
+
 Sminthopsis longicaudata
 Langschwanz-Schmalfu√übeutelmaus
-†
-†
-†
-†
-†
+
+
+
+
+
 Sminthopsis psammophila
 Gro√üe W√ºsten-Schmalfu√übeutelmaus
-†
-†
-†
-†
-†
+
+
+
+
+
 Sotalia spp.
 Sotalias
-†
-†
-†
+
+
+
 +
-†
+
 Speothos venaticus
 Waldhund
-†
-†
+
+
 +
-†
-†
+
+
 Sus salvanius
 Zwergwildschwein
-†
-†
-†
-†
-†
+
+
+
+
+
 Tapiridae spp.
 Tapire\\
 -- soweit nicht im Einzelnen aufgef√ºhrt
-†
-†
-†
-†
-†
+
+
+
+
+
 Tapirus bairdii
 Mittelamerikanischer Tapir
-†
-†
+
+
 +
-†
-†
+
+
 Tapirus indicus
 Schabrackentapir
-†
-†
+
+
 +
-†
-†
+
+
 Tapirus pinchaque
 Bergtapir
-†
-†
+
+
 +
-†
-†
+
+
 Tarsius spp.
 Koboldmakis
-†
-†
-†
-†
-†
+
+
+
+
+
 Thylacinus cynocephalus
 Beutelwolf
-†
-†
-†
-†
-†
+
+
+
+
+
 Trachypithecus francoisi
 Francois-Langur
-†
-†
+
+
 +
-†
-†
+
+
 Trachypithecus geei
 Gee's Langur
-†
-†
-†
-†
-†
+
+
+
+
+
 Trachypithecus johnii
 Tonkin Langur
-†
-†
-†
-†
-†
+
+
+
+
+
 Trachypithecus pileatus
 Schopflangur
-†
-†
-†
-†
-†
+
+
+
+
+
 Tremarctos ornatus
 Brillenb√§r
-†
-†
+
+
 +
 +[[#BJNR025810005BJNE002300000_3][3)]]}
-†
+
 Trichechus manatus
 Karibische Seekuh
-†
-†
-†
-†
+
+
+
+
 +[[#BJNR025810005BJNE002300000_9][9)]]}
 Trichechidae spp.
 Seek√ºhe\\
 -- soweit nicht im Einzelnen aufgef√ºhrt
-†
-†
-†
-†
-†
+
+
+
+
+
 Tursiops truncatus
 Gro√üer T√ºmmler
-†
-†
-†
+
+
+
 +
-†
+
 Uncia uncia
 Schneeleopard
-†
-†
+
+
 +
 +[[#BJNR025810005BJNE002300000_1][1)]]}
-†
+
 Ursus arctos
 Braunb√§r
-†
-†
+
+
 +
-†
-†
+
+
 Ursus thibetanus
 Kragenb√§r
-†
-†
+
+
 +
 +<<FnR.BJNR025810005BJNE002300000_5>>[[#BJNR025810005BJNE002300000_5][5)]]}
-†
+
 Varecia variegata
 Vari
-†
-†
+
+
 +
-†
-†
+
+
 Vicugna vicugna[[#BJNR025810005BJNE002300000_16][16)]]}
 Vicunja
-†
-†
-†
-†
-†
+
+
+
+
+
 Xeromys myoides
 Australische Landmaus
-†
-†
-†
-†
-†
+
+
+
+
+
 Zyzomys pedunculatus
 Dickschwanzratte
-†
-†
-†
-†
-†
+
+
+
+
+
 Aves<<FnR.BJNR025810005BJNE002300000_15>>[[#BJNR025810005BJNE002300000_15][15)]]}
 V√∂gel
-†
-†
-†
-†
-†
+
+
+
+
+
 Accipiter brevipes
 Kurzfangsperber
 +
 10.0
 +<<FnR.BJNR025810005BJNE002300000_13>>[[#BJNR025810005BJNE002300000_13][13)]]}
-†
-†
+
+
 Accipiter gentilis
 Habicht
 +
@@ -8688,449 +8688,449 @@ Habicht
 0,1 = 14.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +<<FnR.BJNR025810005BJNE002300000_14>>[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Accipiter nisus
 Sperber
 +
 1,0 = 7.0\\
 0,1 = 8.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Aceros nipalensis<<FnR.BJNR025810005BJNE002300000_24>>[[#BJNR025810005BJNE002300000_24][24)]]}
 Nepalhornvogel
-†
-†
+
+
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Aceros subruficollis[[#BJNR025810005BJNE002300000_24][24)]]}
 Sundajahrvogel
-†
-†
+
+
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Acrocephalus arundinaceus
 Drosselrohrs√§nger
 +
 3.3
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Acrocephalus dumetorum
 Buschrohrs√§nger
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Acrocephalus melanopogon
 Mariskens√§nger
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Acrocephalus paludicola
 Seggenrohrs√§nger
 +
 2.3
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Acrocephalus palustris
 Sumpfrohrs√§nger
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Acrocephalus schoenobaenus
 Schilfrohrs√§nger
 +
 2.3
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Acrocephalus scirpaceus
 Teichrohrs√§nger
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Aegithalos caudatus
 Schwanzmeise
 +
 2.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Aegolius funereus
 Rauhfu√ükauz
 +
 1,0 = 6.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Aegypius monachus
 M√∂nchsgeier
 +
 28.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Agapornis lilianae
 Erdbeerk√∂pfchen
 +
 4.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Agelaius flavus
 Gilbstarling
 +
-†
-†
+
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Alauda arvensis
 Feldlerche
 +
 2.8
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Alca torda[[#BJNR025810005BJNE002300000_24][24)]]}
 Tordalk
-†
-†
-†
+
+
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Alcedo atthis
 Eisvogel
 +
 3.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Alectoris barbara
 Felsenhuhn
 +
-†
-†
+
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Alectoris chukar
 Chukarhuhn
 +
 9.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Alectoris graeca
 Steinhuhn
 +
 10.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Alectoris rufa
 Rothuhn
 +
 10.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Alisterus amboinensis
 Amboina-K√∂nigssittich
 +
 7.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Alisterus chloropterus
 Gr√ºnfl√ºgel-K√∂nigssittich
 +
 7.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Alle alle
 Krabbentaucher
 +
 4.5
-†
-†
-†
+
+
+
 Amazona aestiva
 Blaustirnamazone
 +
 11.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Amazona agilis
 Rotspiegelamazone
 +
 9.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Amazona albifrons
 Wei√üstirnamazone
 +
 8.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Amazona amazonica
 Venezuela-Amazone
 +
 9.5
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Amazona arausiaca
 Blaukopfamazone
 +
 11.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Amazona autumnalis
 Gelbwangenamazone
 +
 9.5
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Amazona autumnalis diadema
 Diadem-Amazone
 +
 9.5
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Amazona barbadensis
 Gelbschulteramazone
 +
 9.5
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Amazona brasiliensis
 Rotschwanzamazone
 +
 11.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Amazona collaria
 Jamaika-Amazone
 +
 10.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Amazona dufresniana
-†
-†
-†
-†
-†
-†
+
+
+
+
+
+
 Amazona dufresniana dufresniana
 Dufresnes Amazone
 +
 12.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Amazona farinosa
 M√ºlleramazone
 +
 11.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Amazona festiva
 Blaubartamazone
-†
-†
-†
-†
-†
+
+
+
+
+
 Amazona festiva bodini
 Bodini Amazone
-†
-†
-†
-†
-†
+
+
+
+
+
 Amazona festiva festiva
 Blaubartamazone
 +
 11.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Amazona finschi
 Blaukappenamazone
 +
 9.5
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Amazona guildingii
 K√∂nigsamazone
 +
 11.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Amazona imperialis
 Kaiseramazone
 +
 13.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Amazona kawalli
 Kawallaamazone
 +
 11.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Amazona leucocephala
 Kubaamazone
 +
 9.5
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Amazona mercenaria
 Soldatenamazone
 +
-†
-†
+
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Amazona ochrocephala
 Gelbscheitelamazone
 +
 11.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Amazona ochrocephala auropalliata
 Gelbnackenamazone
 +
 11.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Amazona ochrocephala oratrix
 Doppelgelbkopf-Amazone
 +
 11.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Amazona pretrei
 Prachtamazone
 +
 9.5
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Amazona rhodocorytha
 Granadaamazone
 +
 11.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Amazona tucumana
 Tucumanamazone
 +
 9.5
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Amazona ventralis
 Blaukronenamazone
 +
 9.5
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Amazona versicolor
 Blaumaskenamazone
 +
 11.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Amazona vinacea
 Taubenhalsamazone
 +
 11.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Amazona viridigenalis
 Gr√ºnwangenamazone
 +
 9.5
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Amazona vittata
 Puerto-Rico-Amazone
 +
 9.5
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Amazona xantholora
 Goldz√ºgelamazone
 +
 7.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Amazona xanthops
 Gelbbauch-Amazone
 +
 9.5
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Anas aucklandica
 Auckland-Ente, Auckland-Kastanienente
 +
 9.0
 +
-†
-†
+
+
 Anas oustaleti
 Marianen-Stockente
 +
 12.0
-†
-†
-†
+
+
+
 Anodorhynchus hyacinthinus
 Hyazinth-Ara
 +
 16.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Anodorhynchus spp.
 Blauaras\\
 -- soweit nicht im Einzelnen aufgef√ºhrt
@@ -9138,343 +9138,343 @@ Blauaras\\
 18.0
 +
 +<<FnR.BJNR025810005BJNE002300000_12>>[[#BJNR025810005BJNE002300000_12][12)]]} [[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Anser erythropus
 Zwergbl√§ssgans, Zwerggans
 +
 15.0
 +
-†
-†
+
+
 Anthus berthelotii
 Kanarenpieper
 +
 2.7
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Anthus campestris
 Brachpieper
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Anthus cervinus
 Rotkehlpieper
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Anthus petrosus
 Strandpieper, Wasserpieper
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Anthus pratensis
 Wiesenpieper
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Anthus richardi
 Spornpieper
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Anthus spinoletta
 Bergpieper
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Anthus trivialis
 Baumpieper
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Apus apus
 Mauersegler
 +
 4.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Apus caffer
 Kaffernsegler
 +
-†
-†
+
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Apus pallidus
 Fahlsegler
 +
 3.2
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Apus unicolor
 Einfarbsegler
 +
-†
-†
+
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Aquila adalberti
 Spanischer Kaiseradler
 +
 24.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Aquila chrysaetos
 Steinadler
 +
 28.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Aquila clanga
 Schelladler
 +
 20.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Aquila heliaca
 Kaiseradler
 +
 24.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Aquila nipalensis
 Steppenadler
 +
-†
+
 +[[#BJNR025810005BJNE002300000_13][13)]]}
-†
-†
+
+
 Aquila pomarina
 Schreiadler
 +
 20.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Aquila rapax
 Raubadler
 +
-†
+
 +[[#BJNR025810005BJNE002300000_13][13)]]}
-†
-†
+
+
 Ara ambigua
 Gro√üer Soldaten-Ara, Bechstein-Ara
 +
 14.0
 +
 +[[#BJNR025810005BJNE002300000_12][12)]]} [[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Ara ararauna
 Gelbbrust-Ara
 +
 14.0
 +
 +[[#BJNR025810005BJNE002300000_12][12)]]} [[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Ara chloroptera
 Dunkelroter Ara
 +
 15.0
 +
 +[[#BJNR025810005BJNE002300000_12][12)]]} [[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Ara glaucogularis
 Caninde-Ara, Blaukehl-Ara
 +
 14.0
 +
 +[[#BJNR025810005BJNE002300000_12][12)]]} [[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Ara macao
 Hellroter Ara
 +
 14.0
 +
 +[[#BJNR025810005BJNE002300000_12][12)]]} [[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Ara militaris
 Kleiner Soldaten-Ara
 +
 13.0
 +
 +[[#BJNR025810005BJNE002300000_12][12)]]} [[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Ara rubrogenys
 Rotohrara
 +
 12.0
 +
 +[[#BJNR025810005BJNE002300000_12][12)]]} [[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Ara severa
 Rotbugara
 +
 9.5
-†
+
 +[[#BJNR025810005BJNE002300000_12][12)]]} [[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Aratinga acuticaudata
 Blaustirn-Sittich
 +
 7.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Aratinga erythrogenys
 Guayaquilsittich
 +
 7.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Aratinga euops
 Kubasittich
 +
 6.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Aratinga jandaya
 Jendayasittich
 +
 6.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Aratinga leucophthalmus
 Wei√üwangensittich
 +
 7.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Aratinga solstitialis
 Sonnensittich
 +
 6.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Ardea purpurea
 Purpurreiher
 +
 18.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Ardeola ralloides
 Rallenreiher
 +
 8.5
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Ardeotis nigriceps[[#BJNR025810005BJNE002300000_24][24)]]}
 Indische Trappe
-†
-†
-†
+
+
+
 +
-†
+
 Arenaria interpres
 Steinw√§lzer
 +
 4.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Asio flammeus
 Sumpfohreule
 +
 12.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Asio otus
 Waldohreule
 +
 10.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Athene blewitti
 B√§nder-Steinkauz
 +
 6.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Athene noctua
 Steinkauz
 +
 7.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Atrichornis clamosus
 Gro√üer Dickichtschl√ºpfer
-†
-†
-†
-†
-†
+
+
+
+
+
 Aythya innotata
 Malegassen-Moorente
 +
 9.0
 +
-†
-†
+
+
 Bebrornis rodericanus
 Mauritius-S√§nger
 +
-†
-†
+
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Bombycilla garrulus
 Seidenschwanz
 +
 3.2 --- 4.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Botaurus stellaris
 Rohrdommel
 +
 14.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Branta canadensis leucopareia
 Aleuten-Zwergkanadagans
 +
 14.0
 +
-†
-†
+
+
 Bubo bubo
 Uhu
 +
@@ -9482,1015 +9482,1015 @@ Uhu
 0,1 = 22.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Bubulcus ibis
 Kuhreiher
 +
 9.5
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Buceros bicornis
 Homrai-Doppelhornvogel
-†
-†
+
+
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Buceros vigil
 Schildhornvogel
-†
-†
+
+
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Bulweria bulwerii
 Bulwersturmvogel
 +
-†
-†
+
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Burhinus oedicnemus
 Triel
 +
 6.5
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Buteo buteo
 M√§usebussard
 +
 12.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Buteo lagopus
 Rauhfu√übussard
 +
 14.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Buteo rufinus
 Adlerbussard
 +
 14.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Cacatua alba
 Wei√ühaubenkakadu
 +
 12.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Cacatua ducorpsii
 Salomonen-Kakadu
 +
 9.5
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Cacatua galerita
 Gro√üer Gelbhaubenkakadu
 +
 14.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Cacatua galerita triton
 Triton-Geldhaubenkakadu
 +
 13.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Cacatua goffini
 Goffinikakadu
 +
 9.5
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Cacatua haematuropygia
 Rotstei√ükakadu
 +
 9.5
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Cacatua leadbeateri
 Inka-Kakadu
 +
 11.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Cacatua moluccensis
 Molukken-Kakadu
 +
 14.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Cacatua pastinator
 W√ºhler Kakadu
 +
 11.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Cacatua sanguinea
 Nacktaugenkakadu
 +
 9.5
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Cacatua sulphurea
 Kleiner Gelbhaubenkakadu
 +
 11.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Cacatua sulphurea citrinocristata
 Orangenhaubenkakadu
 +
 11.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Cairina scutulata
 Malayenente, Wei√üfl√ºgelente
 +
 14.0
 +
-†
-†
+
+
 Calandrella brachydactyla
 Kurzzehenlerche
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Calandrella rufescens
 Stummellerche
 +
 2.3
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Calcarius lapponicus
 Spornammer
 +
 2.8
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Calidris alba
 Sanderling
 +
 3.3
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Calidris alpina
 Alpenstrandl√§ufer
 +
 2.8 --- 3.2
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Calidris canutus
 Knutt
 +
 5.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Calidris ferruginea
 Sichelstrandl√§ufer
 +
 3.3
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Calidris maritima
 Meerstrandl√§ufer
 +
 3.3
-†
-†
-†
+
+
+
 Calidris minuta
 Zwergstrandl√§ufer
 +
 3.5
-†
-†
-†
+
+
+
 Calidris temminckii
 Temminckstrandl√§ufer
 +
 2.5
-†
-†
-†
+
+
+
 Callocephalon fimbriatum
 Helmkakadu
 +
 9.5
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Caloenas nicobarica
 Kragentaube
 +
 11.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Calonectris diomedea
 Gelbschnabel-Sturmtaucher
 +
 10.0
-†
-†
-†
+
+
+
 Calyptorhynchus baudinii
 Wei√üohr-Rabenkakadu
 +
 12.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Calyptorhynchus funereus
 Gelbohr-Rabenkakadu
 +
 14.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Calyptorhynchus banksii
 Banks-Rabenkakadu
 +
 14.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Campephilus imperialis[[#BJNR025810005BJNE002300000_24][24)]]}
 Kaiserspecht
-†
-†
-†
+
+
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Caprimulgus europaeus
 Ziegenmelker
 +
 4.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Caprimulgus ruficollis[[#BJNR025810005BJNE002300000_24][24)]]}
 Rothals-Ziegenmelker
-†
-†
-†
+
+
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Carduelis cannabina
 H√§nfling
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Carduelis carduelis
 Stieglitz
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Carduelis chloris
 Gr√ºnling
 +
 2.8
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Carduelis flammea
 Birkenzeisig
 +
 2.3
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Carduelis flavirostris
 Bergh√§nfling
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Carduelis hornemanni
 Polarbirkenzeisig
 +
 2.3
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Carduelis spinus
 Erlenzeisig
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Carpodacus erythrinus
 Karmingimpel
 +
 2.8
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Casmerodius albus
 Silberreiher
 +
 18.0
 +
-†
-†
+
+
 Catharacta skua[[#BJNR025810005BJNE002300000_24][24)]]}
 Skua
-†
+
 13.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Cepphus grylle
 Gryllteiste
 +
 12.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Cercotrichas galactotes
 Heckens√§nger
 +
 2.8
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Certhia brachydactyla
 Gartenbauml√§ufer
 +
 2.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Certhia familiaris
 Waldbauml√§ufer
 +
 2.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Cettia cetti
 Seidens√§nger
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Chalcopsitta cardinalis
 Kardinallori
 +
 7.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Charadrius alexandrinus
 Seeregenpfeifer
 +
 3.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Charadrius dubius
 Flussregenpfeifer
 +
 3.3
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Charadrius hiaticula
 Sandregenpfeifer
 +
 3.3
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Charadrius leschenaultii
 W√ºstenregenpfeifer
 +
 3.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Chersophilus duponti
 Dupont-Lerche
 +
 3.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Chlamydotis undulata
 Kragentrappe
 +
 14.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Chlidonias hybridus
 Wei√übartseeschwalbe
 +
 3.5
-†
-†
-†
+
+
+
 Chlidonias leucopterus
 Wei√üfl√ºgelseeschwalbe
 +
 3.0
-†
-†
-†
+
+
+
 Chlidonias niger
 Trauerseeschwalbe
 +
 4.0
-†
-†
-†
+
+
+
 Chondrohierax uncinatus wilsonii
 Wilsons Langschnabelweihe
 +
 12.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Ciconia boyciana
 Schwarzschnabelstorch
 +
-†
+
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Ciconia ciconia
 Wei√üstorch
 +
 16.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Ciconia nigra
 Schwarzstorch
 +
 16.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Ciconia stormi
 H√∂ckerstorch
 +
-†
+
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Cinclus cinclus
 Wasseramsel
 +
 4.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Circaetus gallicus
 Schlangenadler
 +
 24.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Circus aeruginosus
 Rohrweihe
 +
 12.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Circus cyaneus
 Kornweihe
 +
 12.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Circus macrourus
 Steppenweihe
 +
 12.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Circus pygargus
 Wiesenweihe
 +
 12.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Cisticola juncidis
 Cistens√§nger
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Clamator glandarius
 H√§herkuckuck
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Claravis godefrida
 Purpurbindent√§ubchen
 +
 4.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Coccothraustes coccothraustes
 Kernbei√üer
 +
 3.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Columba bollii
 Bolles Lorbeertaube
 +
 9.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Columba junoniae
 Lorbeertaube
 +
 9.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Columba trocaz
 Silberhalstaube
 +
 9.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Coracias garrulus
 Blauracke
 +
 5.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Corvus corone
 Aaskr√§he
 +
 9.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Corvus frugilegus
 Saatkr√§he
 +
 9.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Corvus monedula
 Dohle
 +
 6.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Cotinga maculata
 Halsbandkotinga
-†
-†
-†
+
+
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Crax alberti
 Blaulappenhokko
 +
 20.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Crax blumenbachii
 Blumenbach-Hokko
 +
 20.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Crex crex
 Wachtelk√∂nig
 +
 5.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Cuculus canorus
 Kuckuck
 +
 5.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Cursorius cursor
 Rennvogel
 +
-†
-†
+
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Cyanoliseus patagonus
 Felsensittich
 +
 7.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Cyanopica cyana
 Blauelster
 +
 4.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Cyanopsitta spixii
 Spix-Blauara
 +
-†
+
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Cyanoramphus novaezelandiae cookii
 Norfolk-Laufsittich
 +
 4.5
-†
-†
-†
+
+
+
 Cyclopsitta d. diophthalma
 Maskenzwergpapagei
 +
 4.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Cyclopsitta diophthalma coxeni
 Coxens Rotwangen-Zwergpapagei
 +
 4.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Cygnus columbianus
 Zwergschwan
 +
 26.0
 +
-†
-†
+
+
 Cygnus cygnus
 Singschwan
 +
 26.0
 +
-†
-†
+
+
 Dasyornis broadbenti litoralis
 Westliche R√∂tlichbraune Grasm√ºcke
 +
-†
-†
+
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Dasyornis longirostris
 Westliche Langschnabelgrasm√ºcke
 +
-†
-†
+
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Delichon urbica
 Mehlschwalbe
 +
 2.0
-†
-†
-†
+
+
+
 Dendrocopos leucotos
 Wei√ür√ºckenspecht
 +
 4.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Dendrocopos major
 Buntspecht
 +
 4.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Dendrocopos medius
 Mittelspecht
 +
 4.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Dendrocopos minor
 Kleinspecht
 +
 2.7
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Dendrocopos syriacus
 Blutspecht
 +
 4.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Deroptyus accipitrinus
 F√§cherpapagei
 +
 8.5
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Deroptyus accipitrinus fuscifrons
 F√§cherpapagei
 +
 8.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Diomedea albatrus[[#BJNR025810005BJNE002300000_24][24)]]}
 Kurzschwanzalbatros
-†
-†
-†
-†
-†
+
+
+
+
+
 Diopsittaca nobilis
 Hahns Zwergara
 +
 7.5
-†
+
 +[[#BJNR025810005BJNE002300000_12][12)]]} [[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Dryocopus javensis richardsi[[#BJNR025810005BJNE002300000_24][24)]]}
 Korea-Wei√übauch-Schwarzspecht
-†
-†
-†
+
+
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Dryocopus martius
 Schwarzspecht
 +
 6.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Ducula mindorensis
 Mindoro-Bronze-fruchttaube
 +
 10.0
 +
-†
-†
+
+
 Eclectus roratus
 Edelpapagei
 +
 11.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Egretta garzetta
 Seidenreiher
 +
 9.5
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Elanus caeruleus
 Gleitaar
 +
 12.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Emberiza aureola
 Weidenammer
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Emberiza caesia
 Grauortolan
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Emberiza cia
 Zippammer
 +
 2.3
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Emberiza cirlus
 Zaunammer
 +
 2.3
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Emberiza citrinella
 Goldammer
 +
 2.8
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Emberiza hortulana
 Ortolan
 +
 2.3
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Emberiza melanocephala
 Kappenammer
 +
 3.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Emberiza pusilla
 Zwergammer
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Emberiza rustica
 Waldammer
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Emberiza schoeniclus
 Rohrammer
 +
 2.3 --- 2.8
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Eolophus roseicapillus
 Rosakakadu
 +
 9.5
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Eos bornea
 Rotlori
 +
 6.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Eos cyanogenia[[#BJNR025810005BJNE002300000_24][24)]]}
 Blauohrlori
 +
 6.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Eos histrio
 Diademlori
 +
 7.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Eos squamata
 Kapuzenlori
 +
 6.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Eos reticulata
 Blaustrichellori
 +
 6.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Eremophila alpestris
 Ohrenlerche
 +
 2.8
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Erithacus rubecula
 Rotkehlchen
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Eudromias morinellus
 Mornellregenpfeifer
 +
 4.5
-†
-†
-†
+
+
+
 Eunymphicus cornutus
 Hornsittich
 +
 6.0
-†
-†
-†
+
+
+
 Eupodotis bengalensis[[#BJNR025810005BJNE002300000_24][24)]]}
 Barttrappe
-†
-†
-†
+
+
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Eupodotis indica[[#BJNR025810005BJNE002300000_24][24)]]}
 Flaggentrappe
-†
-†
-†
+
+
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Eutriorchis astur
 Schlangenhabicht
 +
 12.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Falco amurensis
 Amur-Falke
 +
-†
+
 +[[#BJNR025810005BJNE002300000_13][13)]]}
-†
-†
+
+
 Falco araea
 Seychellen-Turmfalke
 +
 9.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Falco biarmicus
 Lannerfalke
 +
@@ -10498,7 +10498,7 @@ Lannerfalke
 0,1 = 14.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Falco cherrug
 W√ºrgfalke, Sakerfalke
 +
@@ -10506,21 +10506,21 @@ W√ºrgfalke, Sakerfalke
 0,1 = 14.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Falco columbarius
 Merlin
 +
 7.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Falco eleonorae
 Eleonorenfalke
 +
 8.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Falco jugger
 Laggarfalke
 +
@@ -10528,21 +10528,21 @@ Laggarfalke
 0,1 = 14.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Falco naumanni
 R√∂telfalke
 +
 7.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Falco newtoni[[#BJNR025810005BJNE002300000_16][16)]]}
 Madagaskarfalke
 +
 8.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Falco pelegrinoides
 W√ºstenfalke, Berberfalke
 +
@@ -10550,7 +10550,7 @@ W√ºstenfalke, Berberfalke
 0,1 = 14.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Falco peregrinus
 Wanderfalke
 +
@@ -10558,14 +10558,14 @@ Wanderfalke
 0,1 = 13.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Falco punctatus
 Mauritius-Turmfalke
 +
 9.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Falco rusticolus
 Gerfalke
 +
@@ -10573,329 +10573,329 @@ Gerfalke
 0,1 = 15.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Falco sparverius
 Buntfalke
 +
-†
+
 +[[#BJNR025810005BJNE002300000_13][13)]]}
-†
-†
+
+
 Falco subbuteo
 Baumfalke
 +
 9.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Falco tinnunculus
 Turmfalke
 +
 8.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Falco vespertinus
 Rotfu√üfalke
 +
 9.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Ficedula albicollis
 Halsbandschn√§pper
 +
 2.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Ficedula hypoleuca
 Trauerschn√§pper
 +
 2.3
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Ficedula parva
 Zwergschn√§pper
 +
 2.3
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Ficedula semitorquata
 Halbringschn√§pper
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Fratercula arctica
 Papageitaucher
 +
 4.5
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Fregata andrewsi[[#BJNR025810005BJNE002300000_24][24)]]}
 Fregattvogel
-†
-†
-†
-†
-†
+
+
+
+
+
 Fringilla coelebs
 Buchfink
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Fringilla montifringilla
 Bergfink
-†
+
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Fringilla teydea
 Teydefink
 +
 3.2
-†
-†
-†
+
+
+
 Fulica cristata
 Kammbl√§sshuhn
 +
 12.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Fulmarus glacialis
 Eissturmvogel
 +
 10.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Galerida cristata
 Haubenlerche
 +
 3.0 -- 3.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Galerida theklae
 Theklalerche
 +
 3.3
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Gallinago gallinago
 Bekassine
 +
 4.0
-†
-†
-†
+
+
+
 Gallinago media
 Doppelschnepfe
 +
 5.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Gallinula chloropus
 Teichhuhn
 +
 8.0
 +
-†
-†
+
+
 Gallirallus sylvestris[[#BJNR025810005BJNE002300000_24][24)]]}
 Lord-Howe-Waldralle
-†
-†
-†
+
+
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Garrulus glandarius
 Eichelh√§her
 +
 5.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Gavia arctica
 Prachttaucher
 +
 18.0
 +
-†
-†
+
+
 Gavia immer
 Eistaucher
 +
 14.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Gavia stellata
 Sterntaucher
 +
 18.0
 +
-†
-†
+
+
 Geoffroyus geoffroyi
 Rotkopfpapagei
 +
 9.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Geopsittacus occidentalis
 Nachtsittich
 +
 4.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Geronticus calvus
 Glattnackenibis
 +
-†
+
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Geronticus eremita
 Waldrapp
 +
-†
+
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Glareola pratincola
 Brachschwalbe
 +
 5.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Glaucidium passerinum
 Sperlingskauz
 +
 6.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Glaucis dorhnii[[#BJNR025810005BJNE002300000_24][24)]]}
 Hakenschnabel-Kolibri
-†
-†
-†
-†
-†
+
+
+
+
+
 Grus americana
 Schreikranich
-†
-†
+
+
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Grus canadensis[[#BJNR025810005BJNE002300000_24][24)]]}
 Kanadakranich
-†
-†
-†
-†
-†
+
+
+
+
+
 Grus grus
 Kranich
 +
 19.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Grus japonensis
 Mandschurenkranich
-†
-†
+
+
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Grus leucogeranus
 Nonnenkranich
-†
-†
+
+
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Grus monacha
 M√∂nchskranich
-†
-†
+
+
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Grus nigricollis
 Schwarzhalskranich
-†
+
 16.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Grus virgo
 Jungfernkranich
-†
+
 18.0
 +
-†
-†
+
+
 Grus vipio
 Wei√ünackenkranich
-†
-†
+
+
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Guarouba guarouba
 Goldsittich
 +
 9.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Gymnogyps californianus[[#BJNR025810005BJNE002300000_24][24)]]}
 Kalifornischer Kondor
 +
-†
+
 +[[#BJNR025810005BJNE002300000_13][13)]]}
-†
-†
+
+
 Gypaetus barbatus
 Bartgeier
 +
 28.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Gyps fulvus
 G√§nsegeier
 +
 28.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Haematopus ostralegus
 Austernfischer
 +
 8.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Haliaeetus albicilla
 Seeadler
 +
@@ -10903,7 +10903,7 @@ Seeadler
 0,1 = 26.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Haliaeetus leucocephalus
 Wei√ükopfseeadler
 +
@@ -10911,7 +10911,7 @@ Wei√ükopfseeadler
 0,1 = 28.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Haliaeetus leucogaster
 Wei√übauchseeadler
 +
@@ -10919,7 +10919,7 @@ Wei√übauchseeadler
 0,1 = 28.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Haliaeetus leucoryphus
 Bindenseeadler
 +
@@ -10927,7 +10927,7 @@ Bindenseeadler
 0,1 = 28.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Haliaeetus pelagicus
 Riesenseeadler
 +
@@ -10935,7 +10935,7 @@ Riesenseeadler
 0,1 = 28.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Haliaeetus sanfordi
 Salomonenseeadler
 +
@@ -10943,7 +10943,7 @@ Salomonenseeadler
 0,1 = 28.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Haliaeetus vocifer
 Schreiseeadler
 +
@@ -10951,7 +10951,7 @@ Schreiseeadler
 0,1 = 28.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Haliaeetus vociferoides
 Madagaskarseeadler
 +
@@ -10959,2762 +10959,2762 @@ Madagaskarseeadler
 0,1 = 28.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Harpia harpyja
 Harpyie
-†
-†
+
+
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Hieraaetus fasciatus
 Habichtsadler
 +
 20.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Hieraaetus pennatus
 Zwergadler
 +
 22.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Himantopus himantopus
 Stelzenl√§ufer
 +
 5.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Hippolais icterina
 Gelbsp√∂tter
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Hippolais olivetorum
 Olivensp√∂tter
 +
 2.7
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Hippolais pallida
 Blasssp√∂tter
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Hippolais polyglotta
 Orpheussp√∂tter
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Hirundo daurica
 R√∂telschwalbe
 +
 2.3
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Hirundo rupestris
 Felsenschwalbe
 +
 2.8
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Hirundo rustica
 Rauchschwalbe
 +
 2.3
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Histrionicus histrionicus
 Kragenente
-†
-†
-†
-†
-†
+
+
+
+
+
 Hydrobates pelagicus
 Sturmschwalbe
 +
 2.5
-†
-†
-†
+
+
+
 Ixobrychus minutus
 Zwergdommel
 +
 6.5
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Jabiru mycteria
 Jabiru
 +
-†
+
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Jynx torquilla
 Wendehals
 +
 3.3
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Lagopus lagopus
 Moorschneehuhn
 +
 12.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Lanius collurio
 Neunt√∂ter
 +
 3.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Lanius excubitor
 Raubw√ºrger
 +
 4.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Lanius minor
 Schwarzstirnw√ºrger
 +
 3.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Lanius nubicus
 Maskenw√ºrger
 +
 3.2
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Lanius senator
 Rotkopfw√ºrger
 +
 3.3
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Larus audouinii
 Korallenm√∂we
 +
 10.0
-†
-†
-†
+
+
+
 Larus cachinnans
 Wei√ükopfm√∂we
-†
-†
-†
-†
-†
+
+
+
+
+
 Larus genei
 D√ºnnschnabelm√∂we
 +
 10.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Larus glaucoides[[#BJNR025810005BJNE002300000_24][24)]]}
 Polarm√∂we
-†
-†
-†
+
+
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Larus hyperboreus
 Eism√∂we
 +
 12.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Larus melanocephalus
 Schwarzkopfm√∂we
 +
 1,0 = 6.5\\
 0,1 = 7.0
-†
-†
-†
+
+
+
 Larus relictus
 Gobi-Schwarzkopfm√∂we
 +
 7.0
-†
-†
-†
+
+
+
 Leptoptilos dubius
 Argala
 +
-†
-†
+
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Leptotila wellsi
 Wellstaube
 +
 6.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Leucopsar rothschildi
 Balistar, Rotschild-Mynah
 +
 5.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Leucopternis occidentalis
 Graur√ºckenbussard
 +
 14.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Lichenostomus melanops cassidix
 B√ºschelohr-Honigfresser
 +
-†
-†
+
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Limicola falcinellus
 Sumpfl√§ufer
 +
 3.3
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Limosa lapponica
 Pfuhlschnepfe
 +
 5.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Limosa limosa
 Uferschnepfe
 +
 6.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Locustella fluviatilis
 Schlagschwirl
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Locustella luscinioides
 Rohrschwirl
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Locustella naevia
 Feldschwirl
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Lophophorus lhuysii
 Gr√ºnschwanz-Glanzfasan
 +
 16.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Lophophorus sclateri
 Wei√üschwanz-Glanzfasan
 +
 14.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Lophura imperialis
 Kaiserfasan
 +
 12.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Loriculus galgulus
 Blaukr√∂nchen
 +
 4.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Loxia curvirostra
 Fichtenkreuzschnabel
 +
 3.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Loxia leucoptera
 Bindenkreuzschnabel
 +
 3.2
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Loxia pytyopsittacus
 Kiefernkreuzschnabel
 +
 4.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Loxia scotica
 Schottischer Fichtenkreuzschnabel
 +
 3.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Lullula arborea
 Heidelerche
 +
 2.8
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Luscinia luscinia
 Sprosser
 +
 2.8
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Luscinia megarhynchos
 Nachtigall
 +
 2.8
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Luscinia svecica
 Blaukehlchen
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Lymnocryptes minimus
 Zwergschnepfe
 +
 3.3
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Macrocephalon maleo
 Hammerhuhn
 +
 20.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Melanitta perspicillata
 Brillenente
-†
-†
-†
-†
-†
+
+
+
+
+
 Melanocorypha calandra
 Kalanderlerche
 +
 3.3
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Meleagris gallopavo
 Wildtruthuhn
 +
 20.0
-†
-†
-†
+
+
+
 Mergus octosetaceus
 Dunkels√§ger
 +
 1,0 = 10.0\\
 0,1 = 11.0
-†
-†
-†
+
+
+
 Merops apiaster
 Bienenfresser
-†
+
 3.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Miliaria calandra
 Grauammer
 +
 3.3
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Milvus migrans
 Schwarzmilan
 +
 12.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Milvus milvus
 Rotmilan
 +
 12.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Mimizuku gurneyi[[#BJNR025810005BJNE002300000_24][24)]]}
 Riesen-Zwergohreule, Rotohreule
-†
+
 8.0
-†
-†
-†
+
+
+
 Mitu mitu mitu
 Nordwest-Mitu
 +
 20.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Monticola saxatilis
 Steinr√∂tel
 +
 3.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Monticola solitarius
 Blaumerle
 +
 3.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Montifringilla nivalis
 Schneefink
 +
 3.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Morus bassanus
 Basst√∂lpel
 +
 20.0
 +
-†
-†
+
+
 Motacilla alba
 Bachstelze
 +
 2.8
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Motacilla cinerea
 Gebirgsstelze
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Motacilla citreola
 Zitronenstelze
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Motacilla flava
 Schafstelze
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Muscicapa striata
 Grauschn√§pper
 +
 2.3
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Mycteria cinerea
 Malaien-Nimmersatt-Milchstorch
 +
-†
+
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Nandayus nenday
 Nandaysittich
 +
 6.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Neophema chrysogaster
 Gold- oder Orangebauchsittich
 +
 3.8
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Neophron percnopterus
 Schmutzgeier
 +
 20.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Nestor notabilis
 Kea
 +
 12.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Ninox novaeseelandiae undulata[[#BJNR025810005BJNE002300000_24][24)]]}
 Kuckuckskauz, nur ssp. undulata
 +
 9.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Ninox squamipila natalis
 Weihnachtsinselkauz
 +
-†
-†
+
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Nipponia nippon
 Japanischer Ibis
 +
-†
+
 +
-†
-†
+
+
 Nucifraga caryocatactes
 Tannenh√§her
 +
 6.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Numenius arquata
 Gro√üer Brachvogel
 +
 9.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Numenius borealis
 Eskimo-Brachvogel
 +
-†
+
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Numenius phaeopus
 Regenbrachvogel
 +
 7.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Numenius tenuirostris
 D√ºnnschnabel-Brachvogel
 +
 6.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Nyctea scandiaca
 Schnee-Eule
 +
 18.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Nycticorax nycticorax
 Nachtreiher
 +
 9.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Oceanodroma castro
 Madeirawellenl√§ufer
 +
-†
+
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Oceanodroma leucorhoa
 Wellenl√§ufer
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Odontophorus strophium
 Kragenwachtel
 +
 6.5
-†
-†
-†
+
+
+
 Oenanthe hispanica
 Mittelmeer-Steinschm√§tzer
 +
 2.3
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Oenanthe isabellina
 Isabellsteinschm√§tzer
 +
 2.8
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Oenanthe leucura
 Trauersteinschm√§tzer
 +
 3.2
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Oenanthe oenanthe
 Steinschm√§tzer
 +
 2.8
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Oenanthe pleschanka
 Nonnensteinschm√§tzer
 +
 2.2
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Ognorhynchus icterotis
 Gelbohrsittich
 +
 7.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Ophrysia superciliosa
 Hangwachtel
 +
 6.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Oreophasis derbianus
 Bergguan
 +
 18.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Oriolus oriolus
 Pirol
 +
 4.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Orthopsittaca manilata
 Rotbauchara
 +
 8.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Otis tarda
 Gro√ütrappe
-†
+
 26.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Otus ireneae
 Sokoko-Eule
 +
-†
-†
+
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Otus scops
 Zwergohreule
 +
 6.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Oxyura jamaicensis
 Schwarzkopfruderente
-†
-†
-†
-†
-†
+
+
+
+
+
 Oxyura leucocephala
 Wei√ükopfruderente
 +
 9.0
-†
-†
-†
+
+
+
 Pandion haliaetus
 Fischadler
 +
 19.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Panurus biarmicus
 Bartmeise
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Papasula abbotti[[#BJNR025810005BJNE002300000_24][24)]]}
 Graufu√üt√∂lpel
-†
-†
-†
-†
-†
+
+
+
+
+
 Parus ater
 Tannenmeise
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Parus caeruleus
 Blaumeise
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Parus cinctus
 Lapplandmeise
 +
 2.3
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Parus cristatus
 Haubenmeise
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Parus lugubris
 Trauermeise
-†
-†
-†
+
+
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Parus major
 Kohlmeise
 +
 2.8
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Parus montanus
 Weidenmeise
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Parus palustris
 Sumpfmeise
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Passer domesticus
 Haussperling
 +
 3.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Passer hispaniolensis
 Weidensperling
 +
 2.8
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Passer montanus
 Feldsperling
 +
 2.8
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Pelagodroma marina[[#BJNR025810005BJNE002300000_24][24)]]}
 Fregatt-Sturmschwalbe
-†
-†
-†
-†
-†
+
+
+
+
+
 Pelecanus crispus
 Krauskopfpelikan
-†
-†
+
+
 +
-†
-†
+
+
 Pelecanus onocrotalus
 Rosapelikan
-†
-†
+
+
 +
-†
-†
+
+
 Penelope albipennis
 Wei√üschwingenguan
 +
 14.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Perisoreus infaustus
 Ungl√ºcksh√§her
 +
 5.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Pernis apivorus
 Wespenbussard
 +
 12.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Petronia petronia
 Steinsperling
 +
 2.8
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Pezoporus wallicus
 Erdsittich
 +
 4.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Phaethon aethereus[[#BJNR025810005BJNE002300000_24][24)]]}
 Rotschnabel-Tropikvogel
-†
-†
-†
+
+
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Phalacrocorax aristotelis
 Kr√§henscharbe
 +
 16.0
 +
-†
-†
+
+
 Phalacrocorax carbo
 Kormoran
 +
 18.0
 +
-†
-†
+
+
 Phalacrocorax pygmeus[[#BJNR025810005BJNE002300000_24][24)]]}
 Zwergscharbe
-†
-†
-†
+
+
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Phalaropus fulicaria
 Thorsh√ºhnchen
 +
 3.3
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Phalaropus lobatus
 Odinsh√ºhnchen
 +
 2.8
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Pharomachrus mocinno[[#BJNR025810005BJNE002300000_24][24)]]}
 Quetzal
-†
-†
-†
+
+
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Philomachus pugnax
 Kampfl√§ufer
 +
 1,0 = 5.0\\
 0,1 = 4.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Phoenicopterus ruber
 Flamingo
-†
+
 18.0
 +
-†
-†
+
+
 Phoenicurus ochruros
 Hausrotschwanz
 +
 2.5 -- 2.8
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Phoenicurus phoenicurus
 Gartenrotschwanz
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Phylloscopus bonelli
 Berglaubs√§nger
 +
 2.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Phylloscopus borealis
 Wanderlaubs√§nger
 +
-†
-†
+
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Phylloscopus collybita
 Zilpzalp
 +
 2.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Phylloscopus sibilatrix
 Waldlaubs√§nger
 +
 2.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Phylloscopus trochilus
 Fitis
 +
 2.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Phylloscopus trochiloides
 Gr√ºnlaubs√§nger
 +
 2.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Pica pica
 Elster
 +
 6.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Picathartes gymnocephalus
 Gelbkopf-Felsh√ºpfer
 +
-†
-†
+
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Picathartes oreas
 Buntkopf-Felsh√ºpfer
 +
-†
-†
+
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Picoides tridactylus
 Dreizehenspecht
-†
+
 4.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Picus canus
 Grauspecht
-†
+
 5.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Picus viridis
 Gr√ºnspecht
-†
+
 5.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Pinicola enucleator
 Hakengimpel
 +
 3.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Pionites melanocephala
 Gr√ºnz√ºgelpapagei
 +
 7.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Pionopsitta pileata
 Scharlachkopfpapagei
 +
 7.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Pionus fuscus
 Veilchenpapagei
 +
 8.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Pionus maximiliani
 Maximilians Papagei
 +
 7.5
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Pionus menstruus
 Schwarzohrpapagei
 +
 8.5
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Pipile jacutinga
 Schakutinga
 +
 14.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Pipile pipile pipile
 Schakuhuhn
 +
 14.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Pithecophaga jefferyi
 Affenadler
 +
 28.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Pitta gurneyi
 Goldkehlpitta
 +
-†
-†
-†
-†
+
+
+
+
 Pitta kochi
 Kochs Pitta
 +
-†
-†
-†
-†
+
+
+
+
 Platalea leucorodia
 L√∂ffler
 +
 16.0
 +
-†
-†
+
+
 Plectrophenax nivalis
 Schneeammer
 +
 3.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Plegadis falcinellus
 Braunsichler
 +
 12.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Pluvialis apricaria
 Goldregenpfeifer
 +
 5.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Pluvialis squatarola
 Kiebitzregenpfeifer
 +
 5.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Podiceps auritus
 Ohrentaucher
 +
 10.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Podiceps grisegena
 Rothalstaucher
 +
 14.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Podiceps nigricollis
 Schwarzhalstaucher
 +
 10.0
-†
-†
-†
+
+
+
 Podilymbus gigas
 Atitlantaucher
-†
-†
-†
-†
-†
+
+
+
+
+
 Poicephalus cryptoxanthus
 Braunkopfpapagei
 +
 7.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Poicephalus gulielmi
 Gr√ºner Kongopapagei
 +
 9.5
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Poicephalus meyeri
 Goldbugpapagei
 +
 7.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Poicephalus rueppellii
 R√ºppells Papagei
 +
 7.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Poicephalus rufiventris
 Rotbauchpapagei
 +
 7.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Poicephalus senegalus
 Mohrenkopfpapagei
 +
 7.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Polyplectron emphanum
 Palawan-Spiegelpfau, Palawan-Pfaufasan
 +
 10.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Polysticta stelleri
 Scheckente
-†
-†
-†
-†
-†
+
+
+
+
+
 Porphyrio porphyrio
 Purpurhuhn
 +
 12.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Porzana parva
 Kleines Sumpfhuhn, Kleinralle
 +
 4.0
-†
-†
-†
+
+
+
 Porzana porzana
 T√ºpfelsumpfhuhn, T√ºpfelralle
 +
 5.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Porzana pusilla
 Zwergsumpfhuhn, Zwergralle
 +
 5.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Probosciger aterrimus
 Ara-Kakadu, Palmkakadu
 +
 16.0
 +
 +[[#BJNR025810005BJNE002300000_12][12)]]} [[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Propyrrhura auricollis
 Halsbandara
 +
 7.5
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Propyrrhura couloni
 Blaukopfara
 +
 9.5
-†
+
 +[[#BJNR025810005BJNE002300000_12][12)]]} [[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Propyrrhura maracana
 Rotr√ºcken-Ara
 +
 9.5
 +
 +[[#BJNR025810005BJNE002300000_12][12)]]} [[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Prosopeia tabuensis
 Pompadoursittich
 +
 7.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Prunella collaris
 Alpenbraunelle
 +
 3.3
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Prunella modularis
 Heckenbraunelle
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Psephotus chrysopterygius
 Goldschultersittich
 +
 4.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Psephotus pulcherrimus
 Paradiessittich
 +
 4.5
-†
-†
-†
+
+
+
 Pseudibis gigantea[[#BJNR025810005BJNE002300000_24][24)]]}
 Riesenibis
 +
-†
-†
-†
-†
+
+
+
+
 Pseudochelidon sirintarae
 Sirintaraschwalbe
-†
-†
-†
-†
-†
+
+
+
+
+
 Psittacula alexandri
 Rosenbrustbartsittich
 +
 6.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Psittacula columboides
 Taubensittich
 +
 5.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Psittacula cyanocephala
 Pflaumenkopfsittich
 +
 5.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Psittacula echo
 Mauritiussittich
 +
 7.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Psittacula longicauda
 Langschwanzedelsittich
 +
 5.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Psittacus erithacus[[#BJNR025810005BJNE002300000_24][24)]]}
 Graupapagei
 +
 11.5
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Psittacus erithacus timneh
 Timneh Graupapagei
 +
 9.5
 +
-†
-†
+
+
 Psittrichas fulgidus
 Borstenkopf
 +
 14.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Pterocles alchata
 Spie√üflughuhn
 +
 12.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Pterocles orientalis
 Sandflughuhn
 +
 12.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Pterodroma feae[[#BJNR025810005BJNE002300000_24][24)]]}
 Weichfeder-Sturmvogel
-†
-†
-†
-†
-†
+
+
+
+
+
 Pterodroma madeira[[#BJNR025810005BJNE002300000_24][24)]]}
 Madeirasturmvogel
-†
-†
-†
+
+
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Puffinus assimilis[[#BJNR025810005BJNE002300000_24][24)]]}
 Kleiner Sturmtaucher
-†
-†
-†
-†
-†
+
+
+
+
+
 Puffinus gravis[[#BJNR025810005BJNE002300000_24][24)]]}
 Gro√üer Sturmtaucher
-†
-†
-†
-†
-†
+
+
+
+
+
 Puffinus griseus[[#BJNR025810005BJNE002300000_24][24)]]}
 Dunkler Sturmtaucher
-†
-†
-†
-†
-†
+
+
+
+
+
 Puffinus puffinus
 Schwarzschnabel-Sturmtaucher
 +
 10.0
-†
-†
-†
+
+
+
 Puffinus yelkouan
 Yelkouan-Sturmtaucher
 +
 10.0
-†
-†
-†
+
+
+
 Pyrrhocorax graculus
 Alpendohle
 +
 7.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Pyrrhocorax pyrrhocorax
 Alpenkr√§he
 +
 7.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Pyrrhula pyrrhula
 Gimpel
 +
 2.8
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Pyrrhura cruentata
 Blaulatzsittich
 +
 6.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Pyrrhura picta
 Blaustirn-Rotschwanzsittich
 +
 7.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Pyrrhura perlata
 Rotbauchsittich
 +
 5.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Rallus aquaticus
 Wasserralle
 +
 5.0
-†
+
 +
-†
+
 Recurvirostra avosetta
-†
+
 +
 6.5 -- 7.5
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Regulus ignicapillus
 Sommergoldh√§hnchen
-†
-†
-†
+
+
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Regulus regulus
 Wintergoldh√§hnchen
-†
-†
-†
+
+
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Regulus teneriffae
 Teneriffa-Goldh√§hnchen
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Remiz pendulinus
 Beutelmeise
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Rhea pennata
 Darwin-Nandu
-†
-†
+
+
 +
-†
-†
+
+
 Rheinardia ocellata
 Rheinartfasan
 +
 14.0
 +
-†
-†
+
+
 Rhodonessa caryophyllacea
 Rosenkopf- oder Nelkenente
 +
 10.0
-†
-†
-†
+
+
+
 Rhodopechys githaginea
 W√ºstengimpel
 +
 2.3
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Rhynchopsitta spp.
 Arasittiche
 +
 7.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Rhynochetos jubatus
 Kagu
-†
-†
+
+
 +
-†
-†
+
+
 Riparia riparia
 Uferschwalbe
-†
+
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Saxicola dacotiae
 Kanarenschm√§tzer
 +
 3.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Saxicola rubetra
 Braunkehlchen
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Saxicola torquata
 Schwarzkehlchen
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Serinus canaria
 Kanarengirlitz
 +
 2.8
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Serinus citrinella
 Zitronengirlitz
 +
 2.3
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Serinus serinus
 Girlitz
 +
 2.3
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Sitta europaea
 Kleiber
 +
 3.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Sitta neumayer[[#BJNR025810005BJNE002300000_24][24)]]}
 Felsenkleiber
-†
+
 3.2
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Sitta whiteheadi[[#BJNR025810005BJNE002300000_24][24)]]}
 Korsenkleiber
-†
-†
-†
+
+
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Somateria spectabilis
 Prachteiderente
-†
-†
-†
-†
-†
+
+
+
+
+
 Spheniscus humboldti[[#BJNR025810005BJNE002300000_24][24)]]}
 Humboldtpinguin
-†
-†
+
+
 +
 +[[#BJNR025810005BJNE002300000_12][12)]]}
-†
+
 Stercorarius longicaudus
 Falkenraubm√∂we
 +
 6.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Stercorarius parasiticus
 Schmarotzerraubm√∂we
 +
 6.5
-†
-†
-†
+
+
+
 Stercorarius pomarinus
 Spatelraubm√∂we
 +
 8.5
 +
-†
-†
+
+
 Sterna albifrons
 Zwergseeschwalbe
 +
 2.8
-†
-†
-†
+
+
+
 Sterna caspia
 Rauchseeschwalbe
 +
 9.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Sterna dougallii
 Rosenseeschwalbe
 +
 4.0
-†
-†
-†
+
+
+
 Sterna fuscata[[#BJNR025810005BJNE002300000_24][24)]]}
 Ru√üseeschwalbe
-†
-†
-†
-†
-†
+
+
+
+
+
 Sterna hirundo
 Flussseeschwalbe
 +
 4.0
-†
-†
-†
+
+
+
 Sterna nilotica
 Lachseeschwalbe
 +
 5.0
 +
-†
-†
+
+
 Sterna paradisaea
 K√ºstenseeschwalbe
 +
 4.0
-†
-†
-†
+
+
+
 Sterna sandvicensis
 Brandseeschwalbe
 +
 5.0
-†
-†
-†
+
+
+
 Strigops habroptilus[[#BJNR025810005BJNE002300000_24][24)]]}
 Eulenpapagei
-†
-†
-†
+
+
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Strix aluco
 Waldkauz
 +
 12.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Strix nebulosa
 Bartkauz
 +
 16.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Strix uralensis
 Habichtskauz
 +
 14.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Struthio camelus[[#BJNR025810005BJNE002300000_16][16)]]} [[#BJNR025810005BJNE002300000_24][24)]]}
 Strau√ü
-†
-†
+
+
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Sturnus roseus
 Rosenstar
 +
 4.0 -- 4.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Sturnus unicolor
 Einfarbstar
 +
 4.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Sturnus vulgaris
 Star
 +
 4.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Surnia ulula
 Sperbereule
 +
 10.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Sylvia atricapilla
 M√∂nchsgrasm√ºcke
 +
 2.8
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Sylvia borin
 Gartengrasm√ºcke
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Sylvia cantillans
 Wei√übartgrasm√ºcke
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Sylvia communis
 Dorngrasm√ºcke
 +
 2.5 -- 2.8
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Sylvia conspicillata
 Brillengrasm√ºcke
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Sylvia curruca
 Klappergrasm√ºcke
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Sylvia hortensis
 Orpheusgrasm√ºcke
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Sylvia melanocephala
 Samtkopfgrasm√ºcke
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Sylvia nisoria
 Sperbergrasm√ºcke
 +
 3.3
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Sylvia rueppelli
 Maskengrasm√ºcke
 +
 2.7
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Sylvia sarda
 Sardengrasm√ºcke
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Sylvia undata
 Provencegrasm√ºcke
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Tachybaptus ruficollis
 Zwergtaucher
 +
 8.0
-†
-†
-†
+
+
+
 Tachymarptis melba
 Alpensegler
 +
 4.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Tadorna cristata
 Schopfkasarka
 +
 14.0
-†
-†
-†
+
+
+
 Tarsiger cyanurus
 Blauschwanz
 +
 14.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Tauraco bannermani
 Bannermanturako
 +
-†
+
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Tetraogallus caspius
 Kaspisches K√∂nigshuhn
 +
 14.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Tetraogallus tibetanus
 Tibet-K√∂nigshuhn
 +
 14.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Tetrax tetrax
 Zwergtrappe
 +
 16.0
 +
-†
-†
+
+
 Tichodroma muraria
 Mauerl√§ufer
 +
 2.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Tinamus solitarius
 Graustei√ütao
 +
-†
+
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Tragopan blythii
 Blyth-Satyrhuhn
 +
 14.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Tragopan caboti[[#BJNR025810005BJNE002300000_24][24)]]}
 Cabot-Satyrhuhn, Cabot-Tragopan
-†
-†
-†
-†
-†
+
+
+
+
+
 Tragopan melanocephalus
 West-Satyrhuhn
 +
 14.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Trichoglossus haematodus
 Allfarblori
 +
 4.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Tringa cinerea
 Terekwasserl√§ufer
 +
 3.3
-†
-†
-†
+
+
+
 Tringa erythropus
 Dunkelwasserl√§ufer
 +
 5.0
-†
-†
-†
+
+
+
 Tringa glareola
 Bruchwasserl√§ufer
 +
 4.0
-†
-†
-†
+
+
+
 Tringa guttifer[[#BJNR025810005BJNE002300000_24][24)]]}
 Sachalin-Gr√ºnschenkel
-†
-†
-†
-†
-†
+
+
+
+
+
 Tringa hypoleucos
 Flussuferl√§ufer
 +
 3.3
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Tringa nebularia
 Gr√ºnschenkel
 +
 5.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Tringa ochropus
 Waldwasserl√§ufer
 +
 3.3
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Tringa stagnatilis
 Teichwasserl√§ufer
 +
 3.5
-†
-†
-†
+
+
+
 Tringa totanus
 Rotschenkel
 +
 5.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Troglodytes troglodytes
 Zaunk√∂nig
-†
+
 2.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Turdus iliacus
 Rotdrossel
 +
 4.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Turdus merula
 Amsel
 +
 4.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Turdus philomelos
 Singdrossel
 +
 4.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Turdus pilaris
 Wacholderdrossel
 +
 4.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Turdus torquatus
 Ringdrossel
 +
 4.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Turdus viscivorus
 Misteldrossel
 +
 4.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Turnix sylvatica
 Laufh√ºhnchen
 +
-†
-†
+
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Tympanuchus cupido attwateri
 Attwaters-Pr√§riehuhn
 +
 12.0
 +
-†
-†
+
+
 Tyto alba
 Schleiereule
 +
 10.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Tyto soumagnei
 Madagaskar-Schleiereule
 +
-†
+
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Upupa epops
 Wiedehopf
 +
 4.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Uria aalge
 Trottellumme
 +
 12.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Vanellus spinosus
 Spornkiebitz
 +
 5.5
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Vanellus vanellus
 Kiebitz
 +
 5.0 -- 7.0
 +
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Vini spp.,[[#BJNR025810005BJNE002300000_24][24)]]}
 Maidloris\\
 -- soweit nicht im Einzelnen aufgef√ºhrt
-†
-†
-†
+
+
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Vini australis
 Blaukappenlori
 +
 5.0
-†
-†
-†
+
+
+
 Vini peruviana
 Saphir-Lori
 +
 5.0
-†
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Vultur gryphus
 Andenkondor
-†
+
 30.0
 +[[#BJNR025810005BJNE002300000_13][13)]]}
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Xema sabini
 Schwalbenm√∂we
 +
 5.0
-†
-†
-†
+
+
+
 Xipholena atropurpurea
 Wei√üfl√ºgelkotinga
-†
-†
-†
+
+
+
 +[[#BJNR025810005BJNE002300000_14][14)]]}
-†
+
 Zosterops albogularis
 Wei√ükehlbrillenvogel
 +
-†
+
 +
-†
-†
+
+
 Reptilia
 Kriechtiere
-†
-†
-†
-†
-†
+
+
+
+
+
 Acrantophis spp.<<FnR.BJNR025810005BJNE002300000_17>>[[#BJNR025810005BJNE002300000_17][17)]]}
 Madagaskar-Boas
-†
-†
+
+
 +
 +
-†
+
 Acrantophis dumerili
 S√ºdliche Madagaskarboa
-†
-†
+
+
 +
 +<<FnR.BJNR025810005BJNE002300000_18>>[[#BJNR025810005BJNE002300000_18][18)]]}
-†
+
 Acrantophis madagascariensis
 N√∂rdliche Madagaskarboa
-†
-†
+
+
 +
 +<<FnR.BJNR025810005BJNE002300000_19>>[[#BJNR025810005BJNE002300000_19][19)]]}
-†
+
 Alligator sinensis
 China-Alligator
-†
-†
+
+
 +
 +
-†
+
 Apalone ater
 Schwarze Weichschildkr√∂te
-†
-†
+
+
 +
 +
-†
+
 Aspideretes gangeticus
 Ganges-Weichschildkr√∂te
-†
-†
+
+
 +
 +
-†
+
 Aspideretes hurum
 Pfauenaugen-Weichschildtkr√∂te
-†
-†
+
+
 +
 +
-†
+
 Aspideretes nigricans
 Dunkle Weichschildkr√∂te
-†
-†
+
+
 +
 +
-†
+
 Batagur baska
 Batagur Schildkr√∂te
-†
-†
+
+
 +
 +
-†
+
 Boa constrictor occidentalis
 S√ºdboa
-†
-†
+
+
 +
 +
-†
+
 Bolyeria multocarinata
 Mauritius-Boa
-†
-†
-†
+
+
+
 +
-†
+
 Brachylophus spp.
 Fidji-Leguane
-†
-†
+
+
 +
 +
-†
+
 Brookesia perarmata
 Panzercham√§leon
-†
-†
-†
-†
-†
+
+
+
+
+
 Caiman crocodilus apaporiensis
 Rio-Apaporis-Brillenkaiman
-†
-†
+
+
 +
 +
-†
+
 Caiman latirostris
 Breitschnauzenkaiman
-†
-†
+
+
 +
 +
-†
+
 Casarea dussumieri
 Rundinsel-Boa
-†
-†
-†
+
+
+
 +
-†
+
 Chamaeleo chamaeleon
 Europ√§isches Cham√§leon
-†
-†
-†
+
+
+
 +
-†
+
 Cheloniidae spp.
 Meeresschildkr√∂ten
-†
-†
+
+
 +
 +
-†
+
 Chelydra serpentina
 Schnappschildkr√∂te
-†
-†
+
+
 +
 +
-†
+
 Clemmys muhlenbergii
 M√ºhlenberg-Schildkr√∂te
-†
-†
-†
+
+
+
 +
-†
+
 Crocodylus acutus
 Spitzkrokodil
-†
-†
+
+
 +
 +
-†
+
 Crocodylus cataphractus
 Panzerkrokodil
-†
-†
+
+
 +
 +
-†
+
 Crocodylus intermedius
 Orinokokrokodil
-†
-†
+
+
 +
 +
-†
+
 Crocodylus moreletii
 Beulenkrokodil
-†
-†
+
+
 +
 +
-†
+
 Crocodylus niloticus[[#BJNR025810005BJNE002300000_16][16)]]}
 Nilkrokodil
-†
-†
+
+
 +
 +
-†
+
 Crocodylus mindorensis
 Mindorokrokodil
-†
-†
+
+
 +
 +
-†
+
 Crocodylus palustris
 Sumpfkrokodil
-†
-†
+
+
 +
 +
-†
+
 Crocodylus porosus[[#BJNR025810005BJNE002300000_16][16)]]}
 Leistenkrokodil
-†
-†
+
+
 +
 +
-†
+
 Crocodylus rhombifer
 Rautenkrokodil
-†
-†
+
+
 +
 +
-†
+
 Crocodylus siamensis
 Siamkrokodil
-†
-†
+
+
 +
 +
-†
+
 Cyclura spp.
 Wirtelschwanzleguane
-†
-†
+
+
 +
 +
-†
+
 Dermochelys coriacea
 Lederschildkr√∂te
-†
-†
+
+
 +
 +
-†
+
 Epicrates inornatus
 Puerto-Rico-Boa
-†
-†
+
+
 +
 +
-†
+
 Epicrates monensis
 Mona-Schlankboa
-†
-†
-†
+
+
+
 +
-†
+
 Epicrates subflavus
 Jamaika-Boa
-†
-†
+
+
 +
 +
-†
+
 Eryx jaculus
 Sandboa
-†
-†
-†
+
+
+
 +
-†
+
 Gallotia simonyi
 Hierro-Rieseneidechse
-†
-†
+
+
 +
 +
-†
+
 Gavialis gangeticus
 Gangesgavial
-†
-†
+
+
 +
 +
-†
+
 Geochelone nigra
 Elefantenschildkr√∂te, Galapagos-Riesenschildkr√∂te
-†
-†
+
+
 +
 +
-†
+
 Geochelone radiata
 Strahlenschildkr√∂te
-†
-†
+
+
 +
 +<<FnR.BJNR025810005BJNE002300000_21>>[[#BJNR025810005BJNE002300000_21][21)]]}
-†
+
 Geochelone yniphora
 Madagassische Schnabelbrustschildkr√∂te
-†
-†
+
+
 +
 +
-†
+
 Geoclemys hamiltonii
 Strahlen-Dreikielschildkr√∂te
-†
-†
+
+
 +
 +
-†
+
 Gopherus flavomarginatus
 Mexikanische Gopherschildkr√∂te
-†
-†
+
+
 +
 +
-†
+
 Homopus bergeri
 Bergers Flachschildkr√∂te
-†
-†
-†
+
+
+
 +
-†
+
 Kachuga tecta
 Indische Dachschildkr√∂te
-†
-†
-†
+
+
+
 +
-†
+
 Macroclemys temminckii
 Geierschildkr√∂te
-†
-†
+
+
 +
 +
-†
+
 Malacochersus tornieri
 Spaltenschildkr√∂te
-†
-†
-†
+
+
+
 +
-†
+
 Melanochelys tricarinata
 Dreikiel-Erdschildkr√∂te
-†
-†
-†
+
+
+
 +
-†
+
 Melanosuchus niger[[#BJNR025810005BJNE002300000_16][16)]]}
 Mohrenkaiman
-†
-†
+
+
 +
 +
-†
+
 Morenia ocellata
 Hinterindische Pfauenaugen-Sumpfschildkr√∂te
-†
-†
-†
+
+
+
 +
-†
+
 Osteolaemus tetraspis
 Stumpfkrokodil
-†
-†
+
+
 +
 +
-†
+
 Phelsuma guentheri
 G√ºnthers Plattschwanzgecko
-†
-†
-†
+
+
+
 +
-†
+
 Podarcis lilfordi
 Baleareneidechse
-†
-†
-†
+
+
+
 +
-†
+
 Podarcis pityusensis
 Pityuseneidechse
-†
-†
-†
+
+
+
 +
-†
+
 Psammobates geometricus
 Geometrische Landschildkr√∂te
-†
-†
+
+
 +
 +
-†
+
 Pseudemydura umbrina
 Falsche Spitzkopfschildkr√∂te
-†
-†
+
+
 +
 +
-†
+
 Python molurus molurus
 Heller Tigerpython
-†
-†
+
+
 +
 +
-†
+
 Pyxis planicauda
 Madagassische Flachr√ºckenschildkr√∂te
-†
-†
-†
+
+
+
 +
-†
+
 Sanzinia madagascariensis
 Madagaskar-Hundskopfboa
-†
-†
+
+
 +
 +<<FnR.BJNR025810005BJNE002300000_20>>[[#BJNR025810005BJNE002300000_20][20)]]}
-†
+
 Sauromalus varius
 St. Esteban-Chuckwalla
-†
-†
+
+
 +
 +
-†
+
 Sphenodon spp.
 Br√ºckenechsen
-†
-†
-†
+
+
+
 +
-†
+
 Terrapene coahuila
 Wasser-Dosenschildkr√∂te
-†
-†
-†
+
+
+
 +
-†
+
 Testudo graeca
 Maurische Landschildkr√∂te
-†
-†
+
+
 +
 +<<FnR.BJNR025810005BJNE002300000_22>>[[#BJNR025810005BJNE002300000_22][22)]]}
-†
+
 Testudo hermanni
 Griechische Landschildkr√∂te
-†
-†
+
+
 +
 +[[#BJNR025810005BJNE002300000_22][22)]]}
-†
+
 Testudo kleinmanni
 √Ñgyptische Landschildkr√∂te
-†
-†
-†
+
+
+
 +
-†
+
 Testudo marginata
 Breitrand-Schildkr√∂te
-†
-†
+
+
 +
 +[[#BJNR025810005BJNE002300000_22][22)]]}
-†
+
 Tomistoma schlegelii
 Sundagavial
-†
-†
+
+
 +
 +
-†
+
 Varanus bengalensis
 Bengalwaran
-†
-†
+
+
 +
 +
-†
+
 Varanus flavescens
 Gelbwaran
-†
-†
+
+
 +
 +
-†
+
 Varanus griseus
 W√ºstenwaran
-†
-†
+
+
 +
 +
-†
+
 Varanus komodoensis
 Komodowaran
-†
-†
+
+
 +
 +
-†
+
 Varanus olivaceus
 Gray-Waran
-†
-†
+
+
 +
 +
-†
+
 Vipera latifii
 Latifi-Otter
-†
-†
-†
+
+
+
 +
-†
+
 Vipera ursinii[[#BJNR025810005BJNE002300000_16][16)]]}
 Wiesenotter
-†
-†
-†
+
+
+
 +
-†
+
 <<FnR.BJNR025810005BJNE002300000_11>>[[#BJNR025810005BJNE002300000_11][11)]]}\\
 <<FnR.BJNR025810005BJNE002300000_23>>[[#BJNR025810005BJNE002300000_23][23)]]}
 Hinweis zur Ringgr√∂√üe\\
@@ -13729,56 +13729,56 @@ Anlage 7 - (zu ¬ß 15 Abs. 3 Satz 1)  Anforderungen an die Beschriftung von Ringe
 Fundstelle des Originaltextes: BGBl. I 2005, 317
 Die in ¬ß 17 Abs. 3 genannte Beschriftung muss folgende Angaben enthalten: Ausgebender Verein, Angabe zu offenem oder geschlossenem Ring, Jahrgang, Ringgr√∂√üe, laufende Nummer. F√ºr Greifvogelhybriden ist zus√§tzlich das K√ºrzel "HY" in die Beschriftung aufzunehmen.\\
 F√ºr die ausgebenden Vereine sind folgende K√ºrzel zu verwenden:
-†
+
 Ausgebender Verein
 K√ºrzel
-†
+
 BNA
 B
-†
+
 ZZF
 Z
 F√ºr die Angabe zum offenen oder geschlossenen Ring sind folgende Buchstaben zu verwenden:
-†
+
 Ring
 K√ºrzel
-†
+
 Offen
 O
-†
+
 Geschlossen
 G
 F√ºr die nachstehenden Ringgr√∂√üen sind folgende Ordnungszahlen zu verwenden:
-†
+
 Ringgr√∂√üe in mm
 Ordnungszahl
-†
+
 2.0
 0
-†
+
 2.3
 1
-†
+
 2.5
 2
-†
+
 2.7
 3
-†
+
 2.8
 4
-†
+
 3.0
 5
-†
+
 3.2
 6
-†
+
 3.3
 7
-†
+
 3.5
 8
-†
+
 3.8
 9

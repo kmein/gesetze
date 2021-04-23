@@ -194,9 +194,9 @@ Umgang mit G√§sten, Beratung und Verkauf\\
 
 10
 
-†
 
-†
+
+
 
 6
 
@@ -211,9 +211,9 @@ Einsetzen von Ger√§ten, Maschinen und Gebrauchsg√ºtern, Arbeitsplanung\\
 
 2
 
-†
 
-†
+
+
 
 7
 
@@ -225,9 +225,9 @@ Hygiene\\
 
 2
 
-†
 
-†
+
+
 
 8
 
@@ -243,9 +243,9 @@ K√ºchenbereich\\
 
 12
 
-†
 
-†
+
+
 
 9
 
@@ -260,9 +260,9 @@ Servicebereich\\
 
 12
 
-†
 
-†
+
+
 
 10
 
@@ -276,9 +276,9 @@ B√ºroorganisation und -kommunikation\\
 
 10
 
-†
 
-†
+
+
 
 11
 
@@ -291,9 +291,9 @@ Warenwirtschaft\\
 
 4
 
-†
 
-†
+
+
 
 \\
 Teil II: Berufliche Fachbildung
@@ -330,9 +330,9 @@ Umgang mit G√§sten, Beratung und Verkauf\\
 - c) :: Reklamationen entgegennehmen, bearbeiten und L√∂sungen aufzeigen
 - d) :: G√§ste unter Ber√ºcksichtigung ihrer W√ºnsche beraten
 
-†
 
-†
+
+
 
 4
 
@@ -344,11 +344,11 @@ Einsetzen von Ger√§ten, Maschinen und Gebrauchsg√ºtern, Arbeitsplanung\\
 - a) :: Wartung von Ger√§ten und Maschinen sowie Instandsetzung von Gebrauchsg√ºtern veranlassen
 - b) :: Arbeitsergebnisse kontrollieren und bewerten
 
-†
+
 
 4
 
-†
+
 
 3
 
@@ -360,19 +360,19 @@ Warenwirtschaft\\
 - c) :: Bestellungen einleiten
 - d) :: Inventuren durchf√ºhren und Ergebnisse weiterleiten
 
-†
+
 
 3
 
-†
+
 
 - e) :: kostenbewu√ütes Einsetzen von Materialien und Gebrauchsg√ºtern begr√ºnden
 - f) :: Kosten und Ertr√§ge erbrachter Dienstleistungen am Beispiel errechnen
 - g) :: Verkaufspreise nach betrieblichem Kalkulationsschema ermitteln
 
-†
 
-†
+
+
 
 4
 
@@ -385,9 +385,9 @@ Werbung und Verkaufsf√∂rderung\\
 - b) :: anla√übezogene Dekorationen ausf√ºhren
 - c) :: werbewirksame Angebote erstellen
 
-†
 
-†
+
+
 
 4
 
@@ -403,11 +403,11 @@ Anwenden arbeits- und k√ºchentechnischer Verfahren\\
 - e) :: Panierungen herstellen
 - f) :: F√ºllungen herstellen
 
-†
+
 
 8
 
-†
+
 
 6
 
@@ -420,11 +420,11 @@ Zubereiten von pflanzlichen Nahrungsmitteln\\
 - d) :: Getreide und Mahlprodukte zubereiten
 - e) :: Teigwaren und Mehlspeisen zubereiten
 
-†
+
 
 8
 
-†
+
 
 7
 
@@ -436,17 +436,17 @@ Herstellen von Suppen und So√üen\\
 - c) :: gebundene Suppen herstellen
 - d) :: Buttermischungen herstellen
 
-†
+
 
 6
 
-†
+
 
 - e) :: kalte und warme So√üen, Grundso√üen und ihre Ableitungen herstellen
 
-†
 
-†
+
+
 
 4
 
@@ -458,9 +458,9 @@ Zubereiten von Fisch, Schalen- und Krustentieren\\
 - a) :: Meeres- und S√º√üwasserfische zubereiten
 - b) :: Schalen- und Krustentiere verarbeiten
 
-†
 
-†
+
+
 
 10
 
@@ -472,9 +472,9 @@ Verarbeiten von Fleisch und Innereien\\
 - a) :: Fleisch zu Gerichten verarbeiten
 - b) :: Innereien zu Gerichten verarbeiten
 
-†
 
-†
+
+
 
 12
 
@@ -486,9 +486,9 @@ Verarbeiten von Wild und Gefl√ºgel\\
 - a) :: Haus- und Wildgefl√ºgel zu Gerichten verarbeiten
 - b) :: Fleisch von Wild zu Gerichten verarbeiten
 
-†
 
-†
+
+
 
 8
 
@@ -499,17 +499,17 @@ Herstellen von Vorspeisen und Anrichten von kalten Platten\\
 
 - a) :: Vorspeisen herstellen und pr√§sentieren
 
-†
+
 
 3
 
-†
+
 
 - b) :: Platten mit verschiedenen Produkten zusammenstellen, anrichten, garnieren und pr√§sentieren
 
-†
 
-†
+
+
 
 4
 
@@ -522,11 +522,11 @@ Zubereiten von Molkereiprodukten und Eiern\\
 - b) :: Speisen aus Quark und Joghurt zubereiten
 - c) :: Eierspeisen zubereiten
 
-†
+
 
 4
 
-†
+
 
 13
 
@@ -537,11 +537,11 @@ Herstellen und Verarbeiten von Teigen und Massen\\
 - b) :: Massen herstellen und verarbeiten
 - c) :: vorgefertigte Teige verarbeiten
 
-†
+
 
 8
 
-†
+
 
 14
 
@@ -553,16 +553,16 @@ Herstellen von S√º√üspeisen\\
 - c) :: s√º√üe Eierspeisen herstellen
 - d) :: Obstspeisen zubereiten
 
-†
+
 
 8
 
-†
+
 
 - e) :: Halbgefrorenes zubereiten und Eisspeisen anrichten
 
-†
 
-†
+
+
 
 2

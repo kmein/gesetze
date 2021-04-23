@@ -20,19 +20,19 @@ a)
 
 von Entgeltpunkten in Beitr√§ge
 
-†
 
-†
 
-†
+
+
+
 
 10.521,0090,
 
 von Entgeltpunkten (Ost) in Beitr√§ge
 
-†
 
-†
+
+
 
 8.652,1456,
 
@@ -40,19 +40,19 @@ b)
 
 von Beitr√§gen, Barwerten, Deckungskapitalien und vergleichbaren Deckungsr√ºcklagen in Entgeltpunkte
 
-†
 
-†
 
-†
+
+
+
 
 0,0000950479,
 
 von Beitr√§gen in Entgeltpunkte (Ost)
 
-†
 
-†
+
+
 
 0,0001155783,
 
@@ -64,19 +64,19 @@ a)
 
 von Entgeltpunkten in Beitr√§ge
 
-†
 
-†
 
-†
+
+
+
 
 13.955,3280,
 
 von Entgeltpunkten (Ost) in Beitr√§ge
 
-†
 
-†
+
+
 
 11.476,4211,
 
@@ -84,19 +84,19 @@ b)
 
 von Beitr√§gen in Entgeltpunkte
 
-†
 
-†
 
-†
+
+
+
 
 0,0000716572,
 
 von Beitr√§gen in Entgeltpunkte (Ost)
 
-†
 
-†
+
+
 
 0,0000871352.
 

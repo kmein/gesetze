@@ -6,19 +6,19 @@ Ausfertigungsdatum: 17.12.2018
 
 Inhaltsübersicht
 
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 § 1 - Zusätzliche Angaben bei der Antragstellung
 
@@ -93,7 +93,7 @@ Die Prüfung ist auf der Grundlage einer Fallvorgabe durchzuführen, die eine Ku
 
 Diese Personen dürfen nicht in die laufende Prüfung eingreifen oder in die Beratung über das Prüfungsergebnis einbezogen werden.
 
-(7) Die Leistung des Prüflings ist von dem Prüfungsausschuss mit �bestanden“ oder �nicht bestanden“ zu bewerten. Die Prüfung ist bestanden, wenn sowohl der schriftliche als auch der praktische Teil der Prüfung jeweils mit �bestanden“ bewertet worden sind. Der schriftliche Teil der Prüfung ist bestanden, wenn der Prüfling
+(7) Die Leistung des Prüflings ist von dem Prüfungsausschuss mit bestanden“ oder nicht bestanden“ zu bewerten. Die Prüfung ist bestanden, wenn sowohl der schriftliche als auch der praktische Teil der Prüfung jeweils mit bestanden“ bewertet worden sind. Der schriftliche Teil der Prüfung ist bestanden, wenn der Prüfling
 
 - 1. :: in vier der in § 2 Absatz 1 Nummer 1 genannten Bereiche jeweils mindestens 50 Prozent und
 - 2. :: in dem verbliebenen Bereich mindestens 30 Prozent
@@ -500,14 +500,14 @@ Anlage 1 - (zu § 2 Absatz 2 Satz 2)Inhaltliche Anforderungen an die Sachkundepr
 - 4.5.6 :: Besonderheiten
 
 
-Anlage 2 - (zu § 4 Absatz 8)Bescheinigung über die erfolgreiche Ablegung der Sachkundeprüfung �Geprüfter Fachmann für Versicherungsvermittlung IHK“ und �Geprüfte Fachfrau für Versicherungsvermittlung IHK“ nach § 34d Absatz 5 Satz 1 Nummer 4 der Gewerbeordnung
+Anlage 2 - (zu § 4 Absatz 8)Bescheinigung über die erfolgreiche Ablegung der Sachkundeprüfung Geprüfter Fachmann für Versicherungsvermittlung IHK“ und Geprüfte Fachfrau für Versicherungsvermittlung IHK“ nach § 34d Absatz 5 Satz 1 Nummer 4 der Gewerbeordnung
 
 (Fundstelle: BGBl. I 2018, 2496)
-�
-�
-�
-�
-�
+
+
+
+
+
 Die Prüfung erstreckte sich insbesondere auf die fachspezifischen Pflichten und Befugnisse folgender Sachgebiete:
 
 - 1. :: Kundenberatung (Bedarfsermittlung, Lösungsmöglichkeiten, Produktdarstellung und Information),
@@ -515,8 +515,8 @@ Die Prüfung erstreckte sich insbesondere auf die fachspezifischen Pflichten und
 - 3. :: sozialversicherungsrechtliche Rahmenbedingungen sowie Grundzüge der staatlich und betrieblich geförderten Altersversorgung,
 - 4. :: rechtliche Grundlagen für die Versicherungsvermittlung und Versicherungsberatung.
 
-�
-�
+
+
 ............................................................
 .....................................................
 
@@ -541,5 +541,5 @@ Anlage 4 - (zu § 7 Absatz 3)Erklärung über die Erfüllung der Weiterbildungsv
 (Fundstelle: BGBl. I 2018, 2498)
 ___________
 Ich bestätige, dass die nach § 34d Absatz 9 Satz 2 GewO bestehende Verpflichtung zur Weiterbildung eingehalten worden ist.
-�
-�
+
+

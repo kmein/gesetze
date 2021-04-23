@@ -434,21 +434,21 @@ Spalte 5
 
 Gefahrenkategorien
 
-�
 
-�
 
-�
+
+
+
 
 1.1
 
 H Gesundheitsgefahren
 
-�
 
-�
 
-�
+
+
+
 
 1.1.1
 
@@ -456,7 +456,7 @@ H1 Akut toxisch,\\
 Kategorie 1\\
 (alle Expositionswege)
 
-�
+
 
 5 000
 
@@ -470,7 +470,7 @@ H2 Akut toxisch,\\
 -- Kategorie 3\\
 (inhalativer Expositionsweg, oraler Expositionsweg)<<FnR.FnA2-f797774_02>>[[#FnA2-f797774_02][2]]}
 
-�
+
 
 50 000
 
@@ -482,7 +482,7 @@ H3 Spezifische Zielorgan-Toxizität\\
 nach einmaliger Exposition\\
 (STOT SE), Kategorie 1
 
-�
+
 
 50 000
 
@@ -492,21 +492,21 @@ nach einmaliger Exposition\\
 
 P Physikalische Gefahren
 
-�
 
-�
 
-�
+
+
+
 
 1.2.1
 
 P1 Explosive Stoffe/Gemische und Erzeugnisse mit Explosivstoff<<FnR.FnA2-f797774_03>>[[#FnA2-f797774_03][3]]}
 
-�
 
-�
 
-�
+
+
+
 
 1.2.1.1
 
@@ -518,7 +518,7 @@ oder 1.6,\\
 -- Stoffe oder Gemische mit explosiven Eigenschaften nach Methode A.14 der Verordnung (EG)\\
 Nr. 440/2008<<FnR.FnA2-f797774_04>>[[#FnA2-f797774_04][4]]} , die nicht den Gefahrenklassen organische Peroxide oder selbstzersetzliche Stoffe und Gemische zuzuordnen sind
 
-�
+
 
 10 000
 
@@ -529,7 +529,7 @@ Nr. 440/2008<<FnR.FnA2-f797774_04>>[[#FnA2-f797774_04][4]]} , die nicht den Gefa
 P1b Explosive Stoffe/Gemische und Erzeugnisse mit Explosivstoff,\\
 Unterklasse 1.4<<FnR.FnA2-f797774_05>>[[#FnA2-f797774_05][5]]}
 
-�
+
 
 50 000
 
@@ -540,7 +540,7 @@ Unterklasse 1.4<<FnR.FnA2-f797774_05>>[[#FnA2-f797774_05][5]]}
 P2 Entzündbare Gase,\\
 Kategorie 1 oder 2
 
-�
+
 
 10 000
 
@@ -550,18 +550,18 @@ Kategorie 1 oder 2
 
 P3 Aerosole
 
-�
 
-�
 
-�
+
+
+
 
 1.2.3.1
 
 P3a Aerosole<<FnR.FnA2-f797774_06>>[[#FnA2-f797774_06][6]]} der Kategorie 1 oder 2, die entzündbare Gase der Kategorie 1 oder 2 oder entzündbare\\
 Flüssigkeiten der Kategorie 1 enthalten
 
-�
+
 
 150 000\\
 (netto)
@@ -573,7 +573,7 @@ Flüssigkeiten der Kategorie 1 enthalten
 
 P3b Aerosole⁶ der Kategorie 1 oder 2, die weder entzündbare Gase der Kategorie 1 oder 2 noch entzündbare Flüssigkeiten der Kategorie 1 enthalten<<FnR.FnA2-f797774_07>>[[#FnA2-f797774_07][7]]}
 
-�
+
 
 5 000 000\\
 (netto)
@@ -586,7 +586,7 @@ P3b Aerosole⁶ der Kategorie 1 oder 2, die weder entzündbare Gase der Kategori
 P4 Oxidierende Gase,\\
 Kategorie 1
 
-�
+
 
 50 000
 
@@ -596,11 +596,11 @@ Kategorie 1
 
 P5 Entzündbare Flüssigkeiten
 
-�
 
-�
 
-�
+
+
+
 
 1.2.5.1
 
@@ -611,7 +611,7 @@ die auf einer Temperatur oberhalb ihres Siedepunktes gehalten werden,\\
 -- andere Flüssigkeiten mit einem Flammpunkt von\\
 ≤ 60 °C, die auf einer Temperatur oberhalb ihres Siedepunktes gehalten werden<<FnR.FnA2-f797774_08>>[[#FnA2-f797774_08][8]]}
 
-�
+
 
 10 000
 
@@ -626,7 +626,7 @@ gefahren führen können,\\
 -- andere Flüssigkeiten mit einem\\
 Flammpunkt von ≤ 60 °C, bei denen besondere Verarbeitungsbedingungen wie hoher Druck oder hohe Temperatur zu Störfallgefahren führen können⁸
 
-�
+
 
 50 000
 
@@ -637,7 +637,7 @@ Flammpunkt von ≤ 60 °C, bei denen besondere Verarbeitungsbedingungen wie hohe
 P5c Entzündbare Flüssigkeiten der Kategorien 2\\
 oder 3, nicht erfasst unter P5a und P5b
 
-�
+
 
 5 000 000
 
@@ -648,17 +648,17 @@ oder 3, nicht erfasst unter P5a und P5b
 P6 Selbstzersetzliche Stoffe und Gemische oder\\
 organische Peroxide
 
-�
 
-�
 
-�
+
+
+
 
 1.2.6.1
 
 P6a Selbstzersetzliche Stoffe und Gemische, Typ A oder B, oder organische Peroxide, Typ A oder B
 
-�
+
 
 10 000
 
@@ -668,7 +668,7 @@ P6a Selbstzersetzliche Stoffe und Gemische, Typ A oder B, oder organische Peroxi
 
 P6b Selbstzersetzliche Stoffe und Gemische, Typ C, D, E oder F, oder organische Peroxide, Typ C, D, E oder F
 
-�
+
 
 50 000
 
@@ -680,7 +680,7 @@ P7 Pyrophore Flüssigkeiten,\\
 Kategorie 1, oder\\
 pyrophore Feststoffe, Kategorie 1
 
-�
+
 
 50 000
 
@@ -693,7 +693,7 @@ Kategorie 1, 2 oder 3, oder\\
 oxidierende Feststoffe,\\
 Kategorie 1, 2 oder 3
 
-�
+
 
 50 000
 
@@ -703,18 +703,18 @@ Kategorie 1, 2 oder 3
 
 E Umweltgefahren
 
-�
 
-�
 
-�
+
+
+
 
 1.3.1
 
 E1 Gewässergefährdend,\\
 Kategorie Akut 1 oder Chronisch 1
 
-�
+
 
 100 000
 
@@ -725,7 +725,7 @@ Kategorie Akut 1 oder Chronisch 1
 E2 Gewässergefährdend,\\
 Kategorie Chronisch 2
 
-�
+
 
 200 000
 
@@ -735,17 +735,17 @@ Kategorie Chronisch 2
 
 O Andere Gefahren
 
-�
 
-�
 
-�
+
+
+
 
 1.4.1
 
 O1 Stoffe oder Gemische mit dem Gefahrenhinweis EUH014
 
-�
+
 
 100 000
 
@@ -756,7 +756,7 @@ O1 Stoffe oder Gemische mit dem Gefahrenhinweis EUH014
 O2 Stoffe oder Gemische, die in Berührung mit Wasser entzündbare Gase entwickeln,\\
 Kategorie 1
 
-�
+
 
 100 000
 
@@ -766,7 +766,7 @@ Kategorie 1
 
 O3 Stoffe oder Gemische mit dem Gefahrenhinweis EUH029
 
-�
+
 
 50 000
 
@@ -776,17 +776,17 @@ O3 Stoffe oder Gemische mit dem Gefahrenhinweis EUH029
 
 Namentlich genannte gefährliche Stoffe
 
-�
 
-�
 
-�
+
+
+
 
 2.1
 
 Verflüssigte entzündbare Gase, Kategorie 1 oder 2, (einschließlich Flüssiggas) und Erdgas<<FnR.FnA2-f797774_09>>[[#FnA2-f797774_09][9]]}
 
-�
+
 
 50 000
 
@@ -797,7 +797,7 @@ Verflüssigte entzündbare Gase, Kategorie 1 oder 2, (einschließlich Flüssigga
 Folgende krebserzeugende Stoffe oder Gemische, die diese Stoffe in Konzentrationen von über 5 Gewichtsprozent enthalten; die Mengenschwellen in Spalte 4\\
 und 5 gelten für die Summe aller im Betriebsbereich vorhandenen Stoffe und Gemische nach den Nummern 2.2.1 bis 2.2.17:
 
-�
+
 
 500
 
@@ -809,9 +809,9 @@ und 5 gelten für die Summe aller im Betriebsbereich vorhandenen Stoffe und Gemi
 
 92-67-1
 
-�
 
-�
+
+
 
 2.2.2
 
@@ -819,9 +819,9 @@ Benzidin und/oder seine Salze
 
 92-87-5
 
-�
 
-�
+
+
 
 2.2.3
 
@@ -829,9 +829,9 @@ Benzotrichlorid
 
 98-07-7
 
-�
 
-�
+
+
 
 2.2.4
 
@@ -839,9 +839,9 @@ Bis(chlormethyl)ether
 
 542-88-1
 
-�
 
-�
+
+
 
 2.2.5
 
@@ -849,9 +849,9 @@ Chlormethylmethylether
 
 107-30-2
 
-�
 
-�
+
+
 
 2.2.6
 
@@ -859,9 +859,9 @@ Chlormethylmethylether
 
 96-12-8
 
-�
 
-�
+
+
 
 2.2.7
 
@@ -869,9 +869,9 @@ Chlormethylmethylether
 
 106-93-4
 
-�
 
-�
+
+
 
 2.2.8
 
@@ -879,9 +879,9 @@ Diethylsulfat
 
 64-67-5
 
-�
 
-�
+
+
 
 2.2.9
 
@@ -889,9 +889,9 @@ N,N-Dimethylcarbamoylchlorid
 
 79-44-7
 
-�
 
-�
+
+
 
 2.2.10
 
@@ -899,9 +899,9 @@ N,N-Dimethylcarbamoylchlorid
 
 540-73-8
 
-�
 
-�
+
+
 
 2.2.11
 
@@ -909,9 +909,9 @@ N,N-Dimethylnitrosamin
 
 62-75-9
 
-�
 
-�
+
+
 
 2.2.12
 
@@ -919,9 +919,9 @@ Dimethylsulfat
 
 77-78-1
 
-�
 
-�
+
+
 
 2.2.13
 
@@ -929,9 +929,9 @@ Hexamethylphosphorsäuretriamid (HMPT)
 
 680-31-9
 
-�
 
-�
+
+
 
 2.2.14
 
@@ -939,9 +939,9 @@ Hydrazin
 
 302-01-2
 
-�
 
-�
+
+
 
 2.2.15
 
@@ -949,9 +949,9 @@ Hydrazin
 
 91-59-8
 
-�
 
-�
+
+
 
 2.2.16
 
@@ -959,9 +959,9 @@ Hydrazin
 
 92-93-3
 
-�
 
-�
+
+
 
 2.2.17
 
@@ -969,16 +969,16 @@ Hydrazin
 
 1120-71-4
 
-�
 
-�
+
+
 
 2.3
 
 Erdölerzeugnisse und alternative Kraftstoffe; die\\
 Mengenschwellen in Spalte 4 und 5 gelten für die Summe aller im Betriebsbereich vorhandenen Stoffe und Gemische nach den Nummern 2.3.1 bis 2.3.5:
 
-�
+
 
 2 500 000
 
@@ -988,51 +988,51 @@ Mengenschwellen in Spalte 4 und 5 gelten für die Summe aller im Betriebsbereich
 
 Ottokraftstoffe und Naphtha
 
-�
 
-�
 
-�
+
+
+
 
 2.3.2
 
 Kerosine (einschließlich Flugturbinenkraftstoffe)
 
-�
 
-�
 
-�
+
+
+
 
 2.3.3
 
 Gasöle (einschließlich Dieselkraftstoffe, leichtes Heizöl und Gasölmischströme)
 
-�
 
-�
 
-�
+
+
+
 
 2.3.4
 
 Schweröle
 
-�
 
-�
 
-�
+
+
+
 
 2.3.5
 
 Alternative Kraftstoffe, die denselben Zwecken dienen wie die unter den Nummern 2.3.1 bis 2.3.4 genannten Erzeugnisse und ähnliche Eigenschaften in Bezug auf Entzündbarkeit und Umweltgefährdung aufweisen
 
-�
 
-�
 
-�
+
+
+
 
 2.4
 
@@ -1060,15 +1060,15 @@ Ammoniumnitrat
 
 6484-52-2
 
-�
 
-�
+
+
 
 2.6.1
 
 Ammoniumnitrat<<FnR.FnA2-f797774_10>>[[#FnA2-f797774_10][10]]}
 
-�
+
 
 5 000 000
 
@@ -1078,7 +1078,7 @@ Ammoniumnitrat<<FnR.FnA2-f797774_10>>[[#FnA2-f797774_10][10]]}
 
 Ammoniumnitrat<<FnR.FnA2-f797774_11>>[[#FnA2-f797774_11][11]]}
 
-�
+
 
 1 250 000
 
@@ -1088,7 +1088,7 @@ Ammoniumnitrat<<FnR.FnA2-f797774_11>>[[#FnA2-f797774_11][11]]}
 
 Ammoniumnitrat<<FnR.FnA2-f797774_12>>[[#FnA2-f797774_12][12]]}
 
-�
+
 
 350 000
 
@@ -1098,7 +1098,7 @@ Ammoniumnitrat<<FnR.FnA2-f797774_12>>[[#FnA2-f797774_12][12]]}
 
 Ammoniumnitrat<<FnR.FnA2-f797774_13>>[[#FnA2-f797774_13][13]]}
 
-�
+
 
 10 000
 
@@ -1108,7 +1108,7 @@ Ammoniumnitrat<<FnR.FnA2-f797774_13>>[[#FnA2-f797774_13][13]]}
 
 Arsen(V)oxid, Arsen(V)säure und/oder ihre Salze
 
-�
+
 
 1 000
 
@@ -1118,9 +1118,9 @@ Arsen(V)oxid, Arsen(V)säure und/oder ihre Salze
 
 Arsen(III)oxid, Arsen(III)säure und/oder ihre Salze
 
-�
 
-�
+
+
 
 100
 
@@ -1148,7 +1148,7 @@ Bis(2-dimethylaminoethyl)-methylamin
 
 Bleialkylverbindungen
 
-�
+
 
 5 000
 
@@ -1270,15 +1270,15 @@ Kaliumnitrat
 
 7757-79-1
 
-�
 
-�
+
+
 
 2.23.1
 
 Kaliumnitrat<<FnR.FnA2-f797774_15>>[[#FnA2-f797774_15][15]]}
 
-�
+
 
 5 000 000
 
@@ -1288,7 +1288,7 @@ Kaliumnitrat<<FnR.FnA2-f797774_15>>[[#FnA2-f797774_15][15]]}
 
 Kaliumnitrat<<FnR.FnA2-f797774_16>>[[#FnA2-f797774_16][16]]}
 
-�
+
 
 1 250 000
 
@@ -1331,7 +1331,7 @@ seine Salze, pulverförmig
 
 101-14-4
 
-�
+
 
 10
 
@@ -1341,7 +1341,7 @@ Methylisocyanat
 
 624-83-9
 
-�
+
 
 150
 
@@ -1361,7 +1361,7 @@ Natriumhypochlorit-Gemische<<FnR.FnA1-f797774_1a>>[[#FnA1-f797774_1a][*]]} , die
 
 - <<FnA1-f797774_1a>>[[#FnR.FnA1-f797774_1a][*]] :: Vorausgesetzt, das Gemisch wäre ohne Natriumhypochlorit nicht als gewässergefährdend -- akut 1 [H400] eingestuft
 
-�
+
 
 200 000
 
@@ -1372,9 +1372,9 @@ Natriumhypochlorit-Gemische<<FnR.FnA1-f797774_1a>>[[#FnA1-f797774_1a][*]]} , die
 Einatembare pulverförmige Nickelverbindungen\\
 (Nickelmonoxid, Nickeldioxid, Nickelsulfid, Trinickeldisulfid, Dinickeltrioxid)
 
-�
 
-�
+
+
 
 1 000
 
@@ -1414,9 +1414,9 @@ Polychlordibenzofurane und Polychlordibenzodioxine\\
 (einschließlich TCDD),\\
 in TCDD-Äquivalenten berechnet<<FnR.FnA2-f797774_17>>[[#FnA2-f797774_17][17]]}
 
-�
 
-�
+
+
 
 1
 
@@ -1456,7 +1456,7 @@ Schwefeldichlorid
 
 10545-99-0
 
-�
+
 
 1 000
 
@@ -1496,7 +1496,7 @@ Tetrahydro-3,5-dimethyl-1,3,5-thiadiazin-2-thion\\
 Toluylendiisocyanat (TDI); die Mengenschwellen in Spalte 4 und 5 gelten für die Summe aller\\
 im Betriebsbereich vorhandenen Stoffe und Gemische nach den Nummern 2.43.1 bis 2.43.3:
 
-�
+
 
 10 000
 
@@ -1508,9 +1508,9 @@ im Betriebsbereich vorhandenen Stoffe und Gemische nach den Nummern 2.43.1 bis 2
 
 584-84-9
 
-�
 
-�
+
+
 
 2.43.2
 
@@ -1518,19 +1518,19 @@ im Betriebsbereich vorhandenen Stoffe und Gemische nach den Nummern 2.43.1 bis 2
 
 91-08-7
 
-�
 
-�
+
+
 
 2.43.3
 
 TDI-Gemische
 
-�
 
-�
 
-�
+
+
+
 
 2.44
 
@@ -1544,12 +1544,12 @@ Wasserstoff
 
 Fußnoten zur Stoffliste
 - <<FnA2-f797774_01>>[[#FnR.FnA2-f797774_01][1]] :: Registriernummer des Chemical Abstracts Service.
-- <<FnA2-f797774_02>>[[#FnR.FnA2-f797774_02][2]] :: Gefährliche Stoffe, die unter �akut toxisch, Kategorie 3, oral“ (H 301) fallen, fallen unter den Eintrag �H2 Akut Toxisch“, wenn sich weder eine Einstufung in akute Inhalationstoxizität noch eine Einstufung in akute dermale Toxizität ableiten lässt, etwa weil schlüssige Daten zur Inhalations- und zur dermalen Toxizität fehlen.
-- <<FnA2-f797774_03>>[[#FnR.FnA2-f797774_03][3]] :: Die Gefahrenklasse �Explosive Stoffe/Gemische und Erzeugnisse mit Explosivstoff“ umfasst Erzeugnisse mit Explosivstoff (siehe Anhang I Abschnitt 2.1 der Verordnung (EG) Nr. 1272/2008). Ist die Menge des explosiven Stoffs oder explosiven Gemisches in dem Erzeugnis bekannt, ist diese Menge für die Zwecke dieser Verordnung zu beachten. Ist die Menge des explosiven Stoffs oder explosiven Gemisches in dem Erzeugnis unbekannt, ist für die Zwecke dieser Verordnung das gesamte Erzeugnis als explosiv zu betrachten.
-- <<FnA2-f797774_04>>[[#FnR.FnA2-f797774_04][4]] :: Die Prüfung auf explosive Eigenschaften von Stoffen und Gemischen ist nur erforderlich, wenn das Screening-Verfahren nach Anhang 6 Teil 3 der Empfehlungen der Vereinten Nationen für die Beförderung gefährlicher Güter, Handbuch über Prüfungen und Kriterien (im Folgenden �UN-Handbuch über Prüfungen und Kriterien“) bei dem Stoff oder dem Gemisch mögliche explosive Eigenschaften nachweist.\\
+- <<FnA2-f797774_02>>[[#FnR.FnA2-f797774_02][2]] :: Gefährliche Stoffe, die unter akut toxisch, Kategorie 3, oral“ (H 301) fallen, fallen unter den Eintrag H2 Akut Toxisch“, wenn sich weder eine Einstufung in akute Inhalationstoxizität noch eine Einstufung in akute dermale Toxizität ableiten lässt, etwa weil schlüssige Daten zur Inhalations- und zur dermalen Toxizität fehlen.
+- <<FnA2-f797774_03>>[[#FnR.FnA2-f797774_03][3]] :: Die Gefahrenklasse Explosive Stoffe/Gemische und Erzeugnisse mit Explosivstoff“ umfasst Erzeugnisse mit Explosivstoff (siehe Anhang I Abschnitt 2.1 der Verordnung (EG) Nr. 1272/2008). Ist die Menge des explosiven Stoffs oder explosiven Gemisches in dem Erzeugnis bekannt, ist diese Menge für die Zwecke dieser Verordnung zu beachten. Ist die Menge des explosiven Stoffs oder explosiven Gemisches in dem Erzeugnis unbekannt, ist für die Zwecke dieser Verordnung das gesamte Erzeugnis als explosiv zu betrachten.
+- <<FnA2-f797774_04>>[[#FnR.FnA2-f797774_04][4]] :: Die Prüfung auf explosive Eigenschaften von Stoffen und Gemischen ist nur erforderlich, wenn das Screening-Verfahren nach Anhang 6 Teil 3 der Empfehlungen der Vereinten Nationen für die Beförderung gefährlicher Güter, Handbuch über Prüfungen und Kriterien (im Folgenden UN-Handbuch über Prüfungen und Kriterien“) bei dem Stoff oder dem Gemisch mögliche explosive Eigenschaften nachweist.\\
   Weitere Hinweise zur Befreiung von der Prüfung finden sich in der Beschreibung der Methode A.14 in der Verordnung (EG) Nr. 440/2008 der Kommission vom 30. Mai 2008 zur Festlegung von Prüfmethoden gemäß der Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH) (ABl. L 142 vom 31.5.2008, S. 1), die zuletzt durch die Verordnung (EU) Nr. 900/2014 (ABl. L 247 vom 21.8.2014, S. 1) geändert worden ist.
 - <<FnA2-f797774_05>>[[#FnR.FnA2-f797774_05][5]] :: Werden explosive Stoffe/Gemische und Erzeugnisse mit Explosivstoff der Unterklasse 1.4 aus ihrer Verpackung entfernt oder wiederverpackt, werden sie unter Eintrag P1a eingestuft, es sei denn, die Gefahr entspricht nachweislich nach wie vor der Unterklasse 1.4 im Sinne der Verordnung (EG) Nr. 1272/2008.
-- <<FnA2-f797774_06>>[[#FnR.FnA2-f797774_06][6]] :: Entzündbare Aerosole sind im Sinne der Richtlinie 75/324/EWG des Rates vom 20. Mai 1975 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Aerosolpackungen (ABl. L 147 vom 9.6.1975, S. 40), die zuletzt durch die Richtlinie 2013/10/EU (ABl. L 77 vom 20.3.2013, S. 20) geändert worden ist, einzustufen. Die Kategorien �extrem entzündbar“ und �entzündbar“ für Aerosole gemä�Aerosole, Kategorie 1 bzw. 2“ der Verordnung (EG) Nr. 1272/2008.
+- <<FnA2-f797774_06>>[[#FnR.FnA2-f797774_06][6]] :: Entzündbare Aerosole sind im Sinne der Richtlinie 75/324/EWG des Rates vom 20. Mai 1975 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Aerosolpackungen (ABl. L 147 vom 9.6.1975, S. 40), die zuletzt durch die Richtlinie 2013/10/EU (ABl. L 77 vom 20.3.2013, S. 20) geändert worden ist, einzustufen. Die Kategorien extrem entzündbar“ und entzündbar“ für Aerosole gemäAerosole, Kategorie 1 bzw. 2“ der Verordnung (EG) Nr. 1272/2008.
 - <<FnA2-f797774_07>>[[#FnR.FnA2-f797774_07][7]] :: Um diesen Eintrag zu nutzen, darf die Aerosolpackung nachweislich weder ein entzündbares Gas der Kategorie 1 oder 2 noch eine entzündbare Flüssigkeit der Kategorie 1 enthalten.
 - <<FnA2-f797774_08>>[[#FnR.FnA2-f797774_08][8]] :: Gemäß Anhang I Abschnitt 2.6.4.5 der Verordnung (EG) Nr. 1272/2008 müssen Flüssigkeiten mit einem Flammpunkt über 35 °C nicht in die Kategorie 3 eingestuft werden, wenn die Prüfung L.2 zur Bestimmung der selbstunterhaltenden Verbrennung nach dem UN-Handbuch über Prüfungen und Kriterien, Teil III Abschnitt 32, negativ ausgefallen ist. Da dies allerdings nicht bei veränderten Bedingungen wie einer hohen Temperatur oder Hochdruck gilt, sind solche Flüssigkeiten in diesem Eintrag eingeschlossen.
 - <<FnA2-f797774_09>>[[#FnR.FnA2-f797774_09][9]] :: Aufbereitetes Biogas\\
@@ -1559,7 +1559,7 @@ Fußnoten zur Stoffliste
   - -- :: gewichtsmäßig zwischen 15,75 % und 24,5 % beträgt und die entweder insgesamt höchstens 0,4 % brennbaren organischen Materials enthalten oder die Anforderungen des Anhangs III-2 der Verordnung (EG) Nr. 2003/2003 des Europäischen Parlaments und des Rates vom 13. Oktober 2003 über Düngemittel (ABl. L 304 vom 21.11.2003, S. 1), die zuletzt durch die Verordnung (EU) 2016/1618 (ABl. L 242 vom 9.9.2016, S. 24) geändert worden ist, erfüllen,
   - -- :: gewichtsmäßig höchstens 15,75 % beträgt und brennbares Material keiner Begrenzung unterliegt,
 
-  und die nach der Trogprüfung der Vereinten Nationen (siehe �UN-Handbuch über Prüfungen und Kriterien“, Teil III Unterabschnitt 38.2) zu einer selbstunterhaltenden Zersetzung fähig sind.\\
+  und die nach der Trogprüfung der Vereinten Nationen (siehe UN-Handbuch über Prüfungen und Kriterien“, Teil III Unterabschnitt 38.2) zu einer selbstunterhaltenden Zersetzung fähig sind.\\
   Ein von Ammoniumnitrat abgeleiteter Stickstoffgehalt von gewichtsmäßig 15,75 % entspricht 45 % Ammoniumnitrat. Ein von Ammoniumnitrat abgeleiteter Stickstoffgehalt von gewichtsmäßig 24,5 % entspricht 70 % Ammoniumnitrat.\\
   Unter diese Eintragung fallen alle ammoniumnitrathaltigen Zubereitungen, die gemäß Anhang I Nummer 5 der Gefahrstoffverordnung der Gruppe B zugeordnet sind.
 - <<FnA2-f797774_11>>[[#FnR.FnA2-f797774_11][11]] :: Ammoniumnitrat (1 250 000/5 000 000): Düngemittelqualität\\
@@ -1577,7 +1577,7 @@ Fußnoten zur Stoffliste
 
   Dies gilt auch für wässrige Lösungen von Ammoniumnitrat, bei denen die Konzentration von Ammoniumnitrat gewichtsmäßig größer als 80 % ist.\\
   Unter diese Eintragung fallen alle ammoniumnitrathaltigen Gemische, die gemäß Anhang I Nummer 5 der Gefahrstoffverordnung der Gruppe A I, D IV und E zugeordnet sind.
-- <<FnA2-f797774_13>>[[#FnR.FnA2-f797774_13][13]] :: Ammoniumnitrat (10 000/50 000): Nicht spezifikationsgerechtes Material (�Off-Specs“) und Düngemittel, die den Detonationstest nicht bestehen\\
+- <<FnA2-f797774_13>>[[#FnR.FnA2-f797774_13][13]] :: Ammoniumnitrat (10 000/50 000): Nicht spezifikationsgerechtes Material (Off-Specs“) und Düngemittel, die den Detonationstest nicht bestehen\\
   Dies gilt für
   - -- :: zurückgewiesenes Material aus dem Produktionsprozess und für Ammoniumnitrat und Gemische von Ammoniumnitrat, reine Ammoniumnitrat-Düngemittel und Ammoniumnitrat-Mischdünger/Volldünger gemäß den Fußnoten 11 und 12, die vom Endverbraucher an einen Hersteller, eine Anlage zur vorübergehenden Lagerung oder eine Wiederaufarbeitungsanlage zum Zwecke der Aufarbeitung, Wiederverwertung oder Behandlung zur sicheren Verwendung zurückgegeben werden oder wurden, weil sie den Anforderungen der Fußnoten 11 und 12 nicht mehr entsprechen,
   - -- :: Düngemittel gemäß der Fußnote 10 erster Gedankenstrich und der Fußnote 11, die den Anforderungen des Anhangs III-2 der Verordnung (EG) Nr. 2003/2003 nicht entsprechen.
@@ -1702,7 +1702,7 @@ Teil 1: Kriterien
       - -- :: See oder Teich: ab 1 ha,
       - -- :: Delta: ab 2 ha,
       - -- :: Meer oder Küstengebiet: ab 2 ha.
-    - c) :: Erhebliche Schädigung des Grundwassers�
+    - c) :: Erhebliche Schädigung des Grundwassers
       - -- :: ab 1 ha.
   - 4. :: Sachschäden
     - a) :: Sachschäden im Betriebsbereich: ab 2 Millionen Euro,
@@ -1731,7 +1731,7 @@ Mitteilung nach § 19 Abs. 2
   |    |     |       |      |        |    |
 - 1.4 :: Ort des Ereignisses (PLZ, Anschrift, Bundesland):
 - 1.5 :: Betriebsbereich (Art, Branche in Anlehnung an Bezeichnung der 4. BImSchV):
-  ..........�
+  ..........
   - Betriebsbereich unterliegt: :: □  Grundpflichten
     □  Erweiterte Pflichten
 - 1.6 :: Gestörter Teil des Betriebsbereichs:

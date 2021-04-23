@@ -6,17 +6,17 @@ Ausfertigungsdatum: 02.01.2014
 
 InhaltsÃ¼bersicht
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
+
 
 Â§ 1 - Anwendungsbereich
 
@@ -109,7 +109,7 @@ Wenn der Anmelder seinen Wohnsitz oder Sitz im Ausland hat, so ist bei der Angab
 
 (1) Wird zur ErlÃ¤uterung der Wiedergabe eine Beschreibung eingereicht (Â§ 11 Absatz 5 Nummer 1 des Designgesetzes), so darf sie sich nur auf diejenigen Merkmale beziehen, die aus der Wiedergabe des Designs oder dem flÃ¤chenmÃ¤ÃŸigen Designabschnitt ersichtlich sind. Insbesondere darf sie keine Angaben Ã¼ber die Neuheit oder Eigenart des Designs oder seine technische Funktion enthalten.
 (2) Die Beschreibung zur ErlÃ¤uterung der Wiedergabe eines Designs darf bis zu 100 WÃ¶rter enthalten und ist auf einem gesonderten Blatt einzureichen. Die Beschreibung muss aus fortlaufendem Text bestehen und darf keine grafischen oder sonstigen Gestaltungselemente enthalten. Bei Sammelanmeldungen (Â§ 12 des Designgesetzes) kÃ¶nnen die Beschreibungen nach Designnummern geordnet in einem Dokument zusammengefasst werden.
-(3) Bei Verwendung eines digitalen DatentrÃ¤gers zur Einreichung der Wiedergabe (Â§ 7 Absatz 5) kann die Beschreibung im Format â€*.txtâ€œ auf dem DatentrÃ¤ger gespeichert werden. Bei Sammelanmeldungen sind die Beschreibungen nach Designnummern geordnet in einem elektronischen Dokument zusammenzufassen.
+(3) Bei Verwendung eines digitalen DatentrÃ¤gers zur Einreichung der Wiedergabe (Â§ 7 Absatz 5) kann die Beschreibung im Format *.txtâ€œ auf dem DatentrÃ¤ger gespeichert werden. Bei Sammelanmeldungen sind die Beschreibungen nach Designnummern geordnet in einem elektronischen Dokument zusammenzufassen.
 
 Â§ 11 - Angaben bei Inanspruchnahme einer PrioritÃ¤t
 

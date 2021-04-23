@@ -32,8 +32,8 @@ Der Lotsdienst auf dem Seelotsrevier Ems obliegt den in der Lotsenbrüderschaft 
 
 § 4 - Lotsenversetzpositionen
 
-(1) Seelotsen werden im Bereich der Leuchttonne �Westerems“ (53° 39,3' Nord und 006° 16,3' Ost) und im Bereich der Leuchttonne �GW/TG“ versetzt und ausgeholt.
-(2) Ist infolge schlechten Wetters ein Versetzen von Seelotsen im Bereich der Leuchttonne �Westerems“ nicht möglich, erfolgt dies auf der Schlechtwetterposition im Bereich querab von Borkum. Sofern es die Wetterlage zulässt, fährt das Lotsenversetzboot einkommenden Schiffen entgegen und begleitet diese, bis der Seelotse versetzt werden kann. Bei der Begleitung ist für die Führung des Lotsenversetzbootes dessen Schiffsführer und für die Beratung des begleiteten Schiffes der Seelotse verantwortlich.
+(1) Seelotsen werden im Bereich der Leuchttonne Westerems“ (53° 39,3' Nord und 006° 16,3' Ost) und im Bereich der Leuchttonne GW/TG“ versetzt und ausgeholt.
+(2) Ist infolge schlechten Wetters ein Versetzen von Seelotsen im Bereich der Leuchttonne Westerems“ nicht möglich, erfolgt dies auf der Schlechtwetterposition im Bereich querab von Borkum. Sofern es die Wetterlage zulässt, fährt das Lotsenversetzboot einkommenden Schiffen entgegen und begleitet diese, bis der Seelotse versetzt werden kann. Bei der Begleitung ist für die Führung des Lotsenversetzbootes dessen Schiffsführer und für die Beratung des begleiteten Schiffes der Seelotse verantwortlich.
 (3) Seetankschiffe mit einer Länge ab 120 m oder einer Breite ab 19 m können Seelotsen nur auf der Lotsenversetzposition bei der Leuchttonne "Westerems" übernehmen oder abgeben.
 (4) Schiffe, die zur Annahme eines Seelotsen auf den Fahrtstrecken binnenwärts der Lotsenversetzposition bei der Leuchttonne "GW/TG" verpflichtet sind, können Seelotsen nur auf dieser Lotsenversetzposition übernehmen oder abgeben.
 (5) Ist die Übernahme oder die Abgabe nach den Absätzen 3 und 4 im Ausnahmefall nicht möglich, kann der Führer des Schiffes mit der Lotsenstation die Übergabe oder Abgabe auf einer anderen Position vereinbaren.
@@ -60,15 +60,15 @@ Der Lotsdienst auf dem Seelotsrevier Ems obliegt den in der Lotsenbrüderschaft 
 
 (1) Führer von Seeschiffen sind zur Annahme eines Lotsen an Bord verpflichtet,
 
-- 1. :: auf den Fahrtstrecken binnenwärts der Lotsenversetzposition �Westerems“, mit Ausnahme der Emden-Reede, mit Seeschiffen mit einer Länge ab 90 m oder einer Breite ab 13 m oder einem Tiefgang ab 6 m,
-- 2. :: auf den Fahrtstrecken binnenwärts der Lotsenversetzposition �Westerems“ mit Seeschiffen mit einer Länger ab 90 m, einer Breite ab 13 m oder einem Tiefgang ab 6 m, die in die Ems einlaufen, um lediglich auf einer Reede Schutz zu suchen und nicht beabsichtigten, einen Hafen oder eine Umschlagreede oder -stelle in der Emsmündung anzulaufen,
+- 1. :: auf den Fahrtstrecken binnenwärts der Lotsenversetzposition Westerems“, mit Ausnahme der Emden-Reede, mit Seeschiffen mit einer Länge ab 90 m oder einer Breite ab 13 m oder einem Tiefgang ab 6 m,
+- 2. :: auf den Fahrtstrecken binnenwärts der Lotsenversetzposition Westerems“ mit Seeschiffen mit einer Länger ab 90 m, einer Breite ab 13 m oder einem Tiefgang ab 6 m, die in die Ems einlaufen, um lediglich auf einer Reede Schutz zu suchen und nicht beabsichtigten, einen Hafen oder eine Umschlagreede oder -stelle in der Emsmündung anzulaufen,
 - 3. :: wenn das Versetzen der Lotsen auf der Schlechtwetterposition erfolgt, auslaufend mit Seeschiffen mit einer Länge ab 170 m oder einer Breite ab 28 m sowie Autotransporter und Ro-Ro-Schiffe mit einer Länge ab 140 m oder Breite ab 23 m auf den Fahrtstrecken von Schlechtwetterposition bis zur Lotsenversetzposition "Westerems".
 
 (2) Führer von Tankschiffen sind zur Annahme eines Lotsen an Bord verpflichtet,
 
-- 1. :: auf den Fahrstrecken binnenwärts der Lotsenversetzposition �Westerems“ mit Ausnahme der Emden-Reede, mit allen Tankschiffen,
-- 2. :: auf den Fahrtstrecken binnenwärts der Lotsenversetzposition �Westerems“ mit allen Tankschiffen, die in die Ems einlaufen, um auf einer Reede Schutz zu suchen und nicht beabsichtigen, einen Hafen oder eine Umschlagsreede oder -stelle in der Emsmündung anzulaufen,
-- 3. :: auf den Fahrtstrecken zwischen der Lotsenversetzposition bei der Leuchttonne "GW/TG" und der Lotsenversetzposition �Westerems“ mit Tankschiffen mit einer Länge ab 150 m oder einer Breite ab 23 m.
+- 1. :: auf den Fahrstrecken binnenwärts der Lotsenversetzposition Westerems“ mit Ausnahme der Emden-Reede, mit allen Tankschiffen,
+- 2. :: auf den Fahrtstrecken binnenwärts der Lotsenversetzposition Westerems“ mit allen Tankschiffen, die in die Ems einlaufen, um auf einer Reede Schutz zu suchen und nicht beabsichtigen, einen Hafen oder eine Umschlagsreede oder -stelle in der Emsmündung anzulaufen,
+- 3. :: auf den Fahrtstrecken zwischen der Lotsenversetzposition bei der Leuchttonne "GW/TG" und der Lotsenversetzposition Westerems“ mit Tankschiffen mit einer Länge ab 150 m oder einer Breite ab 23 m.
 
 (3) Hinsichtlich der Länge und Breite eines Schiffes kann nach Maßgabe des § 1 Abs. 8 interpoliert werden. Dabei dürfen folgende Obergrenzen nicht überschritten werden:
 
@@ -98,7 +98,7 @@ Von der Lotsenannahmepflicht ausgenommen sind die Führer von Dienstschiffen des
 
 (1) Führer von Seeschiffen können auf Antrag von der Schifffahrtspolizeibehörde von der Lotsenannahmepflicht befreit werden
 
-- 1. :: auf einer Fahrtstrecke zwischen der Lotsenversetzposition �Westerems“ und Emden, wenn sie diese zuvor mit diesem Schiff innerhalb der letzten zwölf Monate mindestens 24 mal unter Lotsenberatung an Bord befahren haben und sie den Nachweis darüber durch eine Bescheinigung nach der Anlage 2 erbringen,
+- 1. :: auf einer Fahrtstrecke zwischen der Lotsenversetzposition Westerems“ und Emden, wenn sie diese zuvor mit diesem Schiff innerhalb der letzten zwölf Monate mindestens 24 mal unter Lotsenberatung an Bord befahren haben und sie den Nachweis darüber durch eine Bescheinigung nach der Anlage 2 erbringen,
 - 2. :: sie in einer Prüfung vor der Schifffahrtspolizeibehörde ausreichende Kenntnisse der Fahrwasserverhältnisse und der Verkehrsvorschriften nachweisen und
 - 3. :: sie über ausreichende deutsche Sprachkenntnisse verfügen und dieses durch eine Bescheinigung nach der Anlage 2 versichern.
 
@@ -166,7 +166,7 @@ Die Schifffahrtspolizeibehörde kann den Führer eines Schiffes in besonderen Ei
 § 13 - Landradarberatung
 
 (1) Führer von Fahrzeugen, die nach den Vorschriften der §§ 8 bis 12 von der Lotsenannahmepflicht befreit sind, haben bei Sichtweiten unter 2.000 m innerhalb der einzelnen Radarbereiche zwischen Emden und der Lotsenversetzposition "Westerems" die durch Lotsen erteilte Landradarberatung in Anspruch zu nehmen.
-(2) Wenn das Versetzen der Lotsen auf der Schlechtwetterposition erfolgt, haben Führer von Fahrzeugen, die auf Grund des § 6 zur Annahme eines Bordlotsen verpflichtet sind, auf den Fahrtstrecken zwischen Emden und der Lotsenversetzposition �Westerems“ die durch Lotsen erteilte Landradarberatung in Anspruch zu nehmen.
+(2) Wenn das Versetzen der Lotsen auf der Schlechtwetterposition erfolgt, haben Führer von Fahrzeugen, die auf Grund des § 6 zur Annahme eines Bordlotsen verpflichtet sind, auf den Fahrtstrecken zwischen Emden und der Lotsenversetzposition Westerems“ die durch Lotsen erteilte Landradarberatung in Anspruch zu nehmen.
 (3) Über die Vorschriften der Absätze 1 und 2 hinaus kann auf den Fahrtstrecken zwischen Emden und der Lotsenversetzposition "Westerems" die durch Lotsen erteilte Landradarberatung in Anspruch genommen werden, wenn die Leuchttonnen wegen Eisgangs eingezogen sind und aus diesem Grund eine Landradarberatung erforderlich ist.
 (4) Unabhängig von den Absätzen 1 bis 3 wird Landradarberatung erteilt, wenn eine Radarberatung von einer Schiffsführung angefordert oder schifffahrtspolizeilich angeordnet wird. Landradarberatung darf nicht angefordert werden, um damit die Annahme eines Lotsen zur Beratung an Bord zu umgehen.
 (5) Die Möglichkeit der Inanspruchnahme der Landradarberatung nach Absatz 3 wird dadurch eingeschränkt, dass eine generelle Verpflichtung zur Vorhaltung der Landradarberatung nicht besteht. Gleiches gilt bei einer Anforderung der Landradarberatung durch eine Schiffsführung nach Absatz 4, wenn keine rechtzeitige Anforderung der Landradarberatung nach § 5 Abs. 1 und 3 erfolgt.
@@ -227,7 +227,7 @@ Anmeldezeit für die Anforderung des Seelotsen
 Empfänger der Lotsenanforderung (Telegrammanschrift)
 1.
 Von See einlaufende Schiffe
-�
+
 1.1
 Lotsenversetzposition bei Leuchttonne "GW/TG"
 Mindestens 24 Stunden vor Erreichen der Lotsenversetzposition. 3 Stunden vor Erreichen der weitere Meldung.
@@ -236,39 +236,39 @@ Telefax: 0 49 21/3 29 19
 Telex: 27 882
 Telefon: 0 49 21/2 40 00
 1.2
-Lotsenversetzposition im Bereich der Leuchttonne �Westerems“
-Mindestens 24 Std. sowie zwölf ­Stunden vor Erreichen der Leuchttonne �Westerems“. Beträgt die ­Reisezeit von nahe gelegenen Häfen oder Liegeplätzen weniger als zwölf Stunden, so muss die Anforderung des Seelotsen unverzüglich nach der letzten Abfahrt erfolgen.
+Lotsenversetzposition im Bereich der Leuchttonne Westerems“
+Mindestens 24 Std. sowie zwölf ­Stunden vor Erreichen der Leuchttonne Westerems“. Beträgt die ­Reisezeit von nahe gelegenen Häfen oder Liegeplätzen weniger als zwölf Stunden, so muss die Anforderung des Seelotsen unverzüglich nach der letzten Abfahrt erfolgen.
 Lotsenstation Emden (Emslotse Emden)
 Telefax: 0 49 21/3 29 19
 Telex: 2 78 82
 Telefon: 0 49 21/2 40 00
-�
-�
-�
+
+
+
 E-Mail: pilotstation@emspilots.de
-�
-�
-�
+
+
+
 Lotsenstation Borkum
-�
-�
-�
+
+
+
 E-Mail: borkumstation@emspilots.de
-�
-�
-�
+
+
+
 Telefax: 0 49 22/92 35 89 37
-�
-�
-�
+
+
+
 Telefon: 0 49 22/92 35 89 36
 2.
 Auslaufende Schiffe und Teilstreckenverkehr
-�
-�
+
+
 Häfen und Liegeplätze im Seelotsrevier Ems
 Mindestens vier Stunden vor Abfahrt des Schiffes. Bei der Anforderung ist die Anfahrtzeit des Seelotsen mit öffentlichen Verkehrsmitteln zu berücksichtigen. Bei allen Abfahrten in der Zeit von 21.00 Uhr bis 07.00 Uhr muss die beabsichtigte Anforderung des Seelotsen bis 18.00 Uhr angezeigt werden.
-�
+
 
 Anlage 2 - (zu § 8 Abs. 1, § 9 Abs. 1 und 2 und § 10 Abs. 3)Bescheinigungzum Nachweis der Befreiung von der Lotsenannahmepflicht *)
 

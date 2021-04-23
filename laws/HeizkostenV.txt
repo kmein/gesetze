@@ -82,7 +82,7 @@ Die Festlegung und die Änderung der Abrechnungsmaßstäbe sind nur mit Wirkung 
 (2) Die auf die zentrale Warmwasserversorgungsanlage entfallende Wärmemenge (Q) ist ab dem 31. Dezember 2013 mit einem Wärmezähler zu messen. Kann die Wärmemenge nur mit einem unzumutbar hohen Aufwand gemessen werden, kann sie nach der Gleichung\\
 \\
 
-Q = 2,5 ·�
+Q = 2,5 ·
 
 kWh
 
@@ -98,7 +98,7 @@ bestimmt werden. Dabei sind zu Grunde zu legen
 Wenn in Ausnahmefällen weder die Wärmemenge noch das Volumen des verbrauchten Warmwassers gemessen werden können, kann die auf die zentrale Warmwasserversorgungsanlage entfallende Wärmemenge nach folgender Gleichung bestimmt werden\\
 \\
 
-Q = 32 ·�
+Q = 32 ·
 
 kWh
 
@@ -118,7 +118,7 @@ B =
 
 Q
 
-�
+
 
 H_{i}
 

@@ -62,7 +62,7 @@ Der Zahlungsdienstleister hat dem Verbraucher rechtzeitig vor dessen Vertragserk
 
 (1) Die Entgeltinformation bedarf der Textform.
 (2) Die Entgeltinformation ist als ein kurz gehaltenes, eigenständiges Dokument abzufassen. Sie muss so gestaltet sein, dass sie klar und leicht verständlich ist. Schriftart und Schriftgröße sowie Farbgestaltung müssen so gewählt werden, dass die Entgeltinformation sowohl im Original als auch ebenso, wenn sie farbig oder schwarz-weiß kopiert oder ausgedruckt wird, gut lesbar ist.
-(3) Die Entgeltinformation muss den Anforderungen des von der Europäischen Kommission gemä�Entgeltinformation“ überschrieben sein. Neben der Überschrift ist das gemeinsame Symbol zur Unterscheidung der Entgeltinformation von anderen Unterlagen anzubringen, das von der Europäischen Kommission gemäß Artikel 4 Absatz 6 der Richtlinie 2014/92/EU festgelegt worden ist.
+(3) Die Entgeltinformation muss den Anforderungen des von der Europäischen Kommission gemäEntgeltinformation“ überschrieben sein. Neben der Überschrift ist das gemeinsame Symbol zur Unterscheidung der Entgeltinformation von anderen Unterlagen anzubringen, das von der Europäischen Kommission gemäß Artikel 4 Absatz 6 der Richtlinie 2014/92/EU festgelegt worden ist.
 (4) Zahlungsdienstleister genügen den Anforderungen an die Gestaltung der Entgeltinformation nach den Absätzen 2 und 3, wenn sie das von der Bundesanstalt für Finanzdienstleistungsaufsicht nach § 47 Absatz 2 für Entgeltinformationen veröffentlichte Muster verwenden.
 
 § 10 - Entgeltaufstellung während und bei Beendigung des Vertragsverhältnisses
@@ -92,7 +92,7 @@ Ein Zahlungsdienstleister hat einem Verbraucher bei einem Zahlungsdiensterahmenv
 
 (1) Die Entgeltaufstellung muss dem Verbraucher in Textform zur Verfügung gestellt werden. Der Verbraucher kann verlangen, dass ihm die Entgeltaufstellung auf Papier zur Verfügung gestellt wird.
 (2) Die Entgeltaufstellung muss so gestaltet sein, dass sie klar und leicht verständlich ist. Schriftart und Schriftgröße müssen so gewählt werden, dass die Entgeltaufstellung gut lesbar ist.
-(3) Die Entgeltaufstellung muss den Anforderungen des von der Europäischen Kommission gemä�Entgeltaufstellung“ überschrieben sein. Neben der Überschrift ist das gemeinsame Symbol zur Unterscheidung der Entgeltaufstellung von anderen Unterlagen anzubringen, das gemäß Artikel 5 Absatz 4 der Richtlinie 2014/92/EU von der Europäischen Kommission festgelegt worden ist.
+(3) Die Entgeltaufstellung muss den Anforderungen des von der Europäischen Kommission gemäEntgeltaufstellung“ überschrieben sein. Neben der Überschrift ist das gemeinsame Symbol zur Unterscheidung der Entgeltaufstellung von anderen Unterlagen anzubringen, das gemäß Artikel 5 Absatz 4 der Richtlinie 2014/92/EU von der Europäischen Kommission festgelegt worden ist.
 (4) Zahlungsdienstleister genügen den Anforderungen an die Gestaltung der Entgeltaufstellung nach den Absätzen 2 und 3, wenn sie das von der Bundesanstalt für Finanzdienstleistungsaufsicht nach § 47 Absatz 2 für Entgeltaufstellungen veröffentlichte Muster verwenden.
 
 § 14 - Allgemeine Informationspflichten der Zahlungsdienstleister
@@ -117,7 +117,7 @@ Ein Zahlungsdienstleister, der sich öffentlich zur Führung von Zahlungskonten 
 § 16 - Zertifizierung als Vergleichswebsite nach dem Zahlungskontengesetz, Berechtigung zur Führung dieser Bezeichnung sowie zur Verwendung des Zertifizierungssymbols
 
 (1) Dem Betreiber einer Website, die die in § 17 genannten Kriterien in der in § 18 vorgeschriebenen Art und Weise für den Verbraucher entgeltfrei vergleicht (Vergleichswebsite), ist auf Antrag ein Zertifikat durch die akkreditierten Konformitätsbewertungsstellen zu erteilen.
-(2) Das Zertifikat nach Absatz 1 berechtigt den Betreiber der Website zur Führung der Bezeichnung �Vergleichswebsite nach dem Zahlungskontengesetz“ sowie zur Verwendung des Zertifizierungssymbols.
+(2) Das Zertifikat nach Absatz 1 berechtigt den Betreiber der Website zur Führung der Bezeichnung Vergleichswebsite nach dem Zahlungskontengesetz“ sowie zur Verwendung des Zertifizierungssymbols.
 
 § 17 - Anforderungen an Vergleichskriterien
 

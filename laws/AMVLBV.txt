@@ -38,7 +38,7 @@ Die in § 58c Absatz 6 Satz 1 des Arzneimittelgesetzes genannten Daten sind nach
 Anlage - (zu § 1)Ermittlung der Kennzahlen
 
 (Fundstelle: BGBl. I 2015, 1381)
-(1) Für die Ermittlung des Medians müssen die Werte aufsteigend sortiert werden, da der Median anhand der Position des Wertes in den sortierten Werten definiert wird (�Datenpunkt“). Der Median der bundesweiten halbjährlichen Therapiehäufigkeit wird wie folgt errechnet:
+(1) Für die Ermittlung des Medians müssen die Werte aufsteigend sortiert werden, da der Median anhand der Position des Wertes in den sortierten Werten definiert wird (Datenpunkt“). Der Median der bundesweiten halbjährlichen Therapiehäufigkeit wird wie folgt errechnet:
 
 - 1. :: Ermittlung der Anzahl der betrieblichen Therapiehäufigkeiten (n),
 - 2. :: Berechnung des Medians der bundesweiten halbjährlichen Therapiehäufigkeit bei gerader Anzahl betrieblicher Therapiehäufigkeiten:

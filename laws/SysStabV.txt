@@ -39,20 +39,20 @@ Satz 1 ist anzuwenden für die Nachrüstung von Anlagen
 
 Im Sinne dieser Verordnung ist
 
-- 1. :: �Anlage“ eine Anlage im Sinne von § 3 Nummer 1 des Erneuerbare-Energien-Gesetzes vom 25. Oktober 2008 (BGBl. I S. 2074) in der am 31. Dezember 2011 geltenden Fassung und eine KWK-Anlage im Sinne von § 3 Absatz 2 des Kraft-Wärme-Kopplungsgesetzes vom 19. März 2002 (BGBl. I S.1092) in der am 31. Dezember 2011 geltenden Fassung; § 6 Absatz 3 des Erneuerbare-Energien-Gesetzes vom 25. Oktober 2008 (BGBl. I S. 2074) in der am 20. Dezember 2012 geltenden Fassung ist auf Anlagen im Sinne von § 2 Absatz 1 entsprechend anzuwenden; mehrere unmittelbar miteinander verbundene KWK-Anlagen an einem Standort gelten in Bezug auf die in § 2 Absatz 2 Satz 1 Nummer 1 genannten Leistungsgrenzen als eine KWK-Anlage, soweit sie innerhalb von zwölf aufeinanderfolgenden Kalendermonaten in Dauerbetrieb genommen worden sind,
-- 2. :: �Betreiber einer Anlage,“ wer unabhängig vom Eigentum eine Anlage nach § 2 nutzt,
-- 3. :: �Entkupplungsschutzeinrichtung“ eine Einrichtung, die die Anlage bei unzulässigen Spannungs- und Frequenzabweichungen vom Netz trennt,
-- 4. :: �Inbetriebnahme“
+- 1. :: Anlage“ eine Anlage im Sinne von § 3 Nummer 1 des Erneuerbare-Energien-Gesetzes vom 25. Oktober 2008 (BGBl. I S. 2074) in der am 31. Dezember 2011 geltenden Fassung und eine KWK-Anlage im Sinne von § 3 Absatz 2 des Kraft-Wärme-Kopplungsgesetzes vom 19. März 2002 (BGBl. I S.1092) in der am 31. Dezember 2011 geltenden Fassung; § 6 Absatz 3 des Erneuerbare-Energien-Gesetzes vom 25. Oktober 2008 (BGBl. I S. 2074) in der am 20. Dezember 2012 geltenden Fassung ist auf Anlagen im Sinne von § 2 Absatz 1 entsprechend anzuwenden; mehrere unmittelbar miteinander verbundene KWK-Anlagen an einem Standort gelten in Bezug auf die in § 2 Absatz 2 Satz 1 Nummer 1 genannten Leistungsgrenzen als eine KWK-Anlage, soweit sie innerhalb von zwölf aufeinanderfolgenden Kalendermonaten in Dauerbetrieb genommen worden sind,
+- 2. :: Betreiber einer Anlage,“ wer unabhängig vom Eigentum eine Anlage nach § 2 nutzt,
+- 3. :: Entkupplungsschutzeinrichtung“ eine Einrichtung, die die Anlage bei unzulässigen Spannungs- und Frequenzabweichungen vom Netz trennt,
+- 4. :: Inbetriebnahme“
   - a) :: bei KWK-Anlagen: der Zeitpunkt der Zulassung im Sinne des § 6 Absatz 2 Satz 1 des Kraft-Wärme-Kopplungsgesetzes vom 19. März 2002 (BGBl. I S. 1092), das zuletzt durch Artikel 13 des Gesetzes vom 21. Juli 2014 (BGBl. I S. 1066) geändert worden ist, und
   - b) :: bei sonstigen Anlagen im Sinne von § 2: die Inbetriebnahme einer Anlage gemäß § 3 Nummer 5 des Erneuerbare-Energien-Gesetzes vom 25. Oktober 2008 (BGBl. I S. 2074) in der am 31. Dezember 2011 geltenden Fassung,
-- 5. :: �Netzbetreiber“ in Abweichung von § 3 Nummer 27 des Energiewirtschaftsgesetzes, wer ein Elektrizitätsverteilernetz oder ein Übertragungsnetz betreibt, an das Anlagen im Sinne von § 2 Absatz 2 unmittelbar angeschlossen sind,
-- 6. :: �Betreiber von Entkupplungsschutzeinrichtungen“, wer unabhängig vom Eigentum eine Entkupplungsschutzeinrichtung betreibt.
+- 5. :: Netzbetreiber“ in Abweichung von § 3 Nummer 27 des Energiewirtschaftsgesetzes, wer ein Elektrizitätsverteilernetz oder ein Übertragungsnetz betreibt, an das Anlagen im Sinne von § 2 Absatz 2 unmittelbar angeschlossen sind,
+- 6. :: Betreiber von Entkupplungsschutzeinrichtungen“, wer unabhängig vom Eigentum eine Entkupplungsschutzeinrichtung betreibt.
 
 
 § 4 - Verpflichtung zur Nachrüstung der Wechselrichter von Anlagen zur Erzeugung von Strom aus solarer Strahlungsenergie im Niederspannungsnetz
 
 (1) Die Betreiber von Elektrizitätsverteilernetzen müssen vorbehaltlich der Absätze 2 bis 5 durch entsprechende Nachrüstung dafür sorgen, dass die an ihr Netz angeschlossenen Wechselrichter von Anlagen zur Erzeugung von Strom aus solarer Strahlungsenergie im Niederspannungsnetz nach § 2 Absatz 1 Nummer 1 die Anforderungen der Anwendungsregel VDE-AR-N 4105:2011-08, Abschnitte 5.7.3.3, 5.7.3.4 und 8.3.1 des Verbands der Elektrotechnik Elektronik Informationstechnik e. V. (VDE)<<FnR.F777569_01>>[[#F777569_01][1)]]} erfüllen.
-(2) Für den Fall, dass eine Nachrüstung nach Absatz 1 den Austausch des Wechselrichters erforderlich machen würde, beschränkt sich die Pflicht zur Nachrüstung darauf, dafür zu sorgen, dass bei dem Wechselrichter die Kennlinie �Frequenzabhängige Wirkleistungsreduktion“ der Wechselrichter entsprechend der Richtlinie des Bundesverbandes der Energie- und Wasserwirtschaft e. V. �Erzeugungsanlagen am Mittelspannungsnetz“, Kapitel 2.5.3 und Bild 2.5.3-1 sowie Kapitel 5.7.1 in der Fassung von Juni 2008<<FnR.F777569_02>>[[#F777569_02][2)]]} eingestellt ist. Für die Unterfrequenzabschaltung ist ein Wert von 47,5 Hertz einzustellen.
+(2) Für den Fall, dass eine Nachrüstung nach Absatz 1 den Austausch des Wechselrichters erforderlich machen würde, beschränkt sich die Pflicht zur Nachrüstung darauf, dafür zu sorgen, dass bei dem Wechselrichter die Kennlinie Frequenzabhängige Wirkleistungsreduktion“ der Wechselrichter entsprechend der Richtlinie des Bundesverbandes der Energie- und Wasserwirtschaft e. V. Erzeugungsanlagen am Mittelspannungsnetz“, Kapitel 2.5.3 und Bild 2.5.3-1 sowie Kapitel 5.7.1 in der Fassung von Juni 2008<<FnR.F777569_02>>[[#F777569_02][2)]]} eingestellt ist. Für die Unterfrequenzabschaltung ist ein Wert von 47,5 Hertz einzustellen.
 (3) Für den Fall, dass auch die Nachrüstung nach Absatz 2 den Austausch des Wechselrichters erforderlich machen würde, beschränkt sich die Pflicht zur Nachrüstung darauf, dafür zu sorgen, dass die Überfrequenzabschaltung des Wechselrichters wie folgt eingestellt wird:
 
 - 1. :: Ist bei dem Wechselrichter eine Frequenzeinstellung mit einer Auflösung von weniger als 0,1 Hertz nicht möglich, muss einer der folgenden Frequenzwerte in Hertz eingestellt werden: 50,30; 50,40; 50,50; 50,60; 50,70; 50,80; 50,90 oder 51,00.
@@ -61,12 +61,12 @@ Im Sinne dieser Verordnung ist
 Der Frequenzwert ist für jeden Wechselrichter so festzulegen, dass sich eine gleichmäßige Verteilung der Abschaltfrequenzen über die gesamte Leistung des betroffenen Anlagenbestandes einer Regelzone ergibt. Für die Unterfrequenzabschaltung ist ein Wert von 47,5 Hertz einzustellen. Die Wiederzuschaltung muss bei Erreichen oder Unterschreiten der jeweiligen Abschaltfrequenz erfolgen, das heißt wenn die Einschaltfrequenz der Ausschaltfrequenz entspricht. Um ein wiederholtes Ein- und Ausschalten zu verhindern, muss die Wiedereinschaltung um mindestens 30 Sekunden verzögert erfolgen.
 
 (4) Für den Fall, dass auch die Nachrüstung nach Absatz 3 den Austausch des Wechselrichters erforderlich machen würde, besteht keine Pflicht zur Nachrüstung.
-(5) Eine Pflicht zur Nachrüstung besteht auch dann nicht, wenn die Wechselrichter nach den Vorschriften des technischen Hinweises �Rahmenbedingungen für eine Übergangsregelung zur frequenzabhängigen Wirkleistungssteuerung von PV-Anlagen am NS-Netz“ in der Fassung von März 2011<<FnR.F777569_03>>[[#F777569_03][3)]]} angeschlossen wurden.
+(5) Eine Pflicht zur Nachrüstung besteht auch dann nicht, wenn die Wechselrichter nach den Vorschriften des technischen Hinweises Rahmenbedingungen für eine Übergangsregelung zur frequenzabhängigen Wirkleistungssteuerung von PV-Anlagen am NS-Netz“ in der Fassung von März 2011<<FnR.F777569_03>>[[#F777569_03][3)]]} angeschlossen wurden.
 § 4 Fußnote 1 Kursivdruck: Das Wort "Nationlbiliothek" wurde zutreffend in "Nationalbibliothek" korrigiert
 
 § 5 - Verpflichtung zur Nachrüstung der Wechselrichter von Anlagen zur Erzeugung von Strom aus solarer Strahlungsenergie im Mittelspannungsnetz
 
-(1) Die Betreiber von Elektrizitätsverteilernetzen müssen vorbehaltlich der Absätze 2 und 3 durch entsprechende Nachrüstung dafür sorgen, dass die an ihr Netz angeschlossenen Wechselrichter von Anlagen zur Erzeugung von Strom aus solarer Strahlungsenergie im Mittelspannungsnetz nach § 2 Absatz 1 Nummer 2 die Anforderungen der technischen Richtlinie des Bundesverbandes der Energie- und Wasserwirtschaft e. V. �Erzeugungsanlagen am Mittelspannungsnetz“, Kapitel 2.5.3 und Bild 2.5.3-1 sowie Kapitel 5.7.1 in der Fassung von Juni 2008<<FnR.F777569_04>>[[#F777569_04][4)]]} erfüllen. Für die Unterfrequenzabschaltung ist ein Wert von 47,5 Hertz einzustellen.
+(1) Die Betreiber von Elektrizitätsverteilernetzen müssen vorbehaltlich der Absätze 2 und 3 durch entsprechende Nachrüstung dafür sorgen, dass die an ihr Netz angeschlossenen Wechselrichter von Anlagen zur Erzeugung von Strom aus solarer Strahlungsenergie im Mittelspannungsnetz nach § 2 Absatz 1 Nummer 2 die Anforderungen der technischen Richtlinie des Bundesverbandes der Energie- und Wasserwirtschaft e. V. Erzeugungsanlagen am Mittelspannungsnetz“, Kapitel 2.5.3 und Bild 2.5.3-1 sowie Kapitel 5.7.1 in der Fassung von Juni 2008<<FnR.F777569_04>>[[#F777569_04][4)]]} erfüllen. Für die Unterfrequenzabschaltung ist ein Wert von 47,5 Hertz einzustellen.
 (2) Für den Fall, dass eine Nachrüstung nach Absatz 1 den Austausch des Wechselrichters erforderlich machen würde, beschränkt sich die Pflicht zur Nachrüstung darauf, dafür zu sorgen, dass die Überfrequenzabschaltung des Wechselrichters wie folgt eingestellt wird:
 
 - 1. :: Ist bei dem Wechselrichter eine Frequenzeinstellung mit einer Auflösung von weniger als 0,1 Hertz nicht möglich, muss einer der folgenden Frequenzwerte in Hertz eingestellt werden: 51,10; 51,20; 51,30; 51,40 oder 51,50.
@@ -148,7 +148,7 @@ Die Formularvordrucke sind von den Netzbetreibern zur Verfügung zu stellen.
 
 (1) Eine eingeschränkte Nachrüstungspflicht besteht für den Fall, dass der Betreiber einer Anlage gemäß § 2 Absatz 2 nachweist, dass eine Nachrüstung gemäß § 13 Absatz 2
 
-- 1. :: den Austausch des Antriebsstrangs, des Generators oder der Leistungselektronik gemä�Internationales Elektrotechnisches Wörterbuch -- Teil 551: Leistungselektronik (IEC 60050-551:1998)“<<FnR.F788644_02>>[[#F788644_02][2]]} erforderlich machen würde,
+- 1. :: den Austausch des Antriebsstrangs, des Generators oder der Leistungselektronik gemäInternationales Elektrotechnisches Wörterbuch -- Teil 551: Leistungselektronik (IEC 60050-551:1998)“<<FnR.F788644_02>>[[#F788644_02][2]]} erforderlich machen würde,
 - 2. :: eine mit den in Nummer 1 aufgeführten Fällen vergleichbare finanzielle Belastung ergeben würde oder
 - 3. :: nicht zu geringeren Kosten führt, als die Nachrüstung der Frequenzschutzeinstellungen nach den allgemeinen anerkannten Regeln der Technik im Sinne des § 49 des Energiewirtschaftsgesetzes.
 
@@ -161,7 +161,7 @@ In den Fällen nach Satz 1 Nummer 1 und 2 sind nicht die gemäß § 12 Satz 2 Nu
 (2) Keine Nachrüstungspflicht besteht, wenn der Betreiber der Anlage nachweist, dass
 
 - 1. :: auch die Einstellung anderer als der in § 12 Satz 2 Nummer 1 vorgegebenen Werte die in Absatz 1 Nummer 1 oder Nummer 2 genannten Folgen hätte oder
-- 2. :: die betreffende Anlage als Notstromaggregat gemä�Notstromaggregate -- Richtlinie für Planung, Errichtung und Betrieb von Anlagen mit Notstromaggregaten“, 5. Auflage 2004<<FnR.F788644_06>>[[#F788644_06][6]]} , genutzt wird.
+- 2. :: die betreffende Anlage als Notstromaggregat gemäNotstromaggregate -- Richtlinie für Planung, Errichtung und Betrieb von Anlagen mit Notstromaggregaten“, 5. Auflage 2004<<FnR.F788644_06>>[[#F788644_06][6]]} , genutzt wird.
 
 § 13 Abs. 1 Satz 1 Nr. 3 Kursivdruck: Das Wort "annerkannten" wurde korrekt in "anerkannten" berichtigt
 
@@ -193,7 +193,7 @@ In den Fällen nach Satz 1 Nummer 1 und 2 sind nicht die gemäß § 12 Satz 2 Nu
 § 19 - Qualitätskontrolle
 
 (1) Die Betreiber von Übertragungsnetzen sind verpflichtet, eine stichprobenweise Kontrolle der Nachrüstung durchzuführen oder durchführen zu lassen. Die Betreiber von Elektrizitätsverteilernetzen sind verpflichtet, den Betreiber des Übertragungsnetzes, an dessen Netz sie angeschlossen sind, bei der Durchführung der Kontrolle zu unterstützen, insbesondere die Stichproben vorzunehmen.
-(2) Betreiber von Anlagen gemä�Zertifizierung der Elektrischen Eigenschaften von Erzeugungseinheiten und -anlagen am Mittel-, Hoch- und Höchstspannungsnetz“, Revision 06, Stand 01.05.2013<<FnR.F788644_07>>[[#F788644_07][7]]} , an den Netzbetreiber, ist er zur Gewährung des Zugangs nach Satz 1 nicht verpflichtet.
+(2) Betreiber von Anlagen gemäZertifizierung der Elektrischen Eigenschaften von Erzeugungseinheiten und -anlagen am Mittel-, Hoch- und Höchstspannungsnetz“, Revision 06, Stand 01.05.2013<<FnR.F788644_07>>[[#F788644_07][7]]} , an den Netzbetreiber, ist er zur Gewährung des Zugangs nach Satz 1 nicht verpflichtet.
 
 § 20 - Information der Bundesnetzagentur
 

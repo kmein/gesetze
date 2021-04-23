@@ -11,7 +11,7 @@ Auf Grund des ¬ß 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsges
 ----
 
 Erster Teil
-†
+
 Gemeinsame Vorschriften
 ¬ß 1
 Staatliche Anerkennung der Ausbildungsberufe
@@ -20,7 +20,7 @@ Ausbildungsdauer
 ¬ß 3
 Struktur und Zielsetzung der Berufsausbildung
 Zweiter Teil
-†
+
 Vorschriften f√ºr den Ausbildungsberuf Fachkraft f√ºr Stra√üen- und Verkehrstechnik
 ¬ß 4
 Ausbildungsberufsbild
@@ -35,7 +35,7 @@ Zwischenpr√ºfung
 ¬ß 9
 Abschlusspr√ºfung
 Dritter Teil
-†
+
 Vorschriften f√ºr den Ausbildungsberuf Fachkraft f√ºr Wasserwirtschaft
 ¬ß 10
 Ausbildungsberufsbild
@@ -50,7 +50,7 @@ Zwischenpr√ºfung
 ¬ß 15
 Abschlusspr√ºfung
 Vierter Teil
-†
+
 √úbergangs- und Schlussvorschriften
 ¬ß 16
 √úbergangsregelung
@@ -368,23 +368,23 @@ Wirtschaftlichkeit\\
 
 2*)
 
-†
 
-†
 
-†
+
+
+
 
 - c) :: Ressourcen effizient einsetzen
 - d) :: Kalkulationsgrundlagen und -verfahren anwenden
 - e) :: betriebswirtschaftliches Rechnungswesen erl√§utern
 
-†
+
 
 2*)
 
-†
 
-†
+
+
 
 6
 
@@ -398,24 +398,24 @@ Arbeitsorganisation, Kommunikation und Mitgestalten von sozialen Beziehungen\\
 
 2*)
 
-†
 
-†
 
-†
+
+
+
 
 - e) :: Pr√§sentationsm√∂glichkeiten von Arbeitsergebnissen und Produkten nutzen
 - f) :: bei der √ºberbetrieblichen Zusammenarbeit mitwirken
 - g) :: betrieblichen Schriftverkehr durchf√ºhren und Ablagesysteme anwenden
 - h) :: soziale Beziehungen im beruflichen Einwirkungsbereich mitgestalten
 
-†
 
-†
+
+
 
 2*)
 
-†
+
 
 7
 
@@ -429,29 +429,29 @@ Informationstechnik und -verarbeitung\\
 
 4*)
 
-†
 
-†
 
-†
+
+
+
 
 - e) :: Arbeitsaufgaben mit Hilfe von Informationssystemen l√∂sen
 
-†
 
-†
+
+
 
 4*)
 
-†
+
 
 - f) :: Datennetze nutzen
 
-†
 
-†
 
-†
+
+
+
 
 4*)
 
@@ -468,30 +468,30 @@ Bautechnisches Zeichnen und Konstruieren\\
 
 8
 
-†
 
-†
 
-†
+
+
+
 
 - f) :: Linien mit Hilfe von Entwurfselementen konstruieren
 - g) :: Planungsunterlagen von Verkehrswegen und Bauwerken zeichnen
 
-†
+
 
 6
 
-†
 
-†
+
+
 
 - h) :: √∂rtliche Aufnahmen skizzieren und zeichnerisch darstellen
 
-†
 
-†
 
-†
+
+
+
 
 2
 
@@ -505,40 +505,40 @@ Bautechnisches Berechnen\\
 
 9
 
-†
 
-†
 
-†
+
+
+
 
 - c) :: Gradientenberechnung f√ºr Haupt- und Kleinpunkte durchf√ºhren
 
-†
+
 
 5
 
-†
 
-†
+
+
 
 - d) :: Mengen f√ºr Bauleistungen berechnen
 
-†
 
-†
+
+
 
 2
 
-†
+
 
 - e) :: hydraulische Berechnungen durchf√ºhren
 - f) :: schalltechnische Berechnungen durchf√ºhren
 
-†
 
-†
 
-†
+
+
+
 
 2
 
@@ -555,31 +555,31 @@ Lage- und H√∂henvermessungen\\
 
 8
 
-†
 
-†
 
-†
+
+
+
 
 - f) :: topographische Aufnahmen durchf√ºhren
 - g) :: Absteckungen von Achspunkten nach verschiedenen Methoden durchf√ºhren
 - h) :: Aufnahmen von L√§ngen- und Querprofilen durchf√ºhren
 
-†
+
 
 6
 
-†
 
-†
+
+
 
 - i) :: Baukontrollmessungen durchf√ºhren und auswerten
 
-†
 
-†
 
-†
+
+
+
 
 2
 
@@ -593,42 +593,42 @@ Baustoffe und B√∂den\\
 
 3
 
-†
 
-†
 
-†
+
+
+
 
 - c) :: Arten und Eigenschaften von Asphalt unterscheiden
 - d) :: Arten und Eigenschaften von Beton und M√∂rtel unterscheiden
 
-†
+
 
 3
 
-†
 
-†
+
+
 
 - e) :: Arten und Eigenschaften des Oberbaus von Verkehrsfl√§chen unterscheiden
 - f) :: im Stra√üenbau verwendete Bau- und Bauhilfsstoffe unterscheiden und im Hinblick auf ihre Verwendung beurteilen
 
-†
 
-†
+
+
 
 2
 
-†
+
 
 - g) :: Verfahren zur Pr√ºfung von Stra√üenbaustoffen und B√∂den unterscheiden
 - h) :: M√∂glichkeiten der Wiederverwertung von Baustoffen unterscheiden
 
-†
 
-†
 
-†
+
+
+
 
 2
 
@@ -642,30 +642,30 @@ Verwaltungsabl√§ufe im Stra√üen- und Verkehrswesen\\
 
 2
 
-†
 
-†
 
-†
+
+
+
 
 - c) :: Gesetze des Stra√üenrechts und des Stra√üenverkehrsrechts anwenden
 
-†
 
-†
+
+
 
 2
 
-†
+
 
 - d) :: Grundlagen zur Finanzierung und F√∂rderung im Stra√üen- und Verkehrswesen darstellen
 - e) :: bei Vereinbarungen und Antr√§gen f√ºr beh√∂rdliche Genehmigungen, Bewilligungen und Erlaubnisse mitwirken
 
-†
 
-†
 
-†
+
+
+
 
 2
 
@@ -681,22 +681,22 @@ Planen, Entwerfen und Konstruieren von Verkehrswegen und Ingenieurbauwerken\\
 
 10
 
-†
 
-†
 
-†
+
+
+
 
 - e) :: Querschnitte von Stra√üen und Radwegen konstruieren
 - f) :: Entwurfselemente bei der Achskonstruktion im Grundriss und Aufriss anwenden
 
-†
+
 
 6
 
-†
 
-†
+
+
 
 - g) :: Entwurfsunterlagen f√ºr Stra√üen und Radwege in Grundriss, Aufriss und Querschnitt ausarbeiten
 - h) :: Knotenpunkte konstruieren
@@ -705,23 +705,23 @@ Planen, Entwerfen und Konstruieren von Verkehrswegen und Ingenieurbauwerken\\
 - l) :: bauliche Verkehrsanlagen f√ºr den √∂ffentlichen Personennahverkehr im Stra√üenraum planen und konstruieren
 - m) :: Stra√üen- und Radwegeentwurfsunterlagen ausarbeiten und zusammenstellen
 
-†
 
-†
+
+
 
 8
 
-†
+
 
 - n) :: Arten und Konstruktionsmerkmale von Ingenieurbauwerken, insbesondere Br√ºcken, unterscheiden
 - o) :: Bauwerkpl√§ne bearbeiten und Bauwerkdetails konstruieren
 - p) :: Kostenberechnungen durchf√ºhren
 
-†
 
-†
 
-†
+
+
+
 
 8
 
@@ -734,21 +734,21 @@ Erstellen von planungsrechtlichen, baurechtlichen und umweltrechtlichen Unterlag
 
 2
 
-†
 
-†
 
-†
+
+
+
 
 - b) :: Unterlagen f√ºr das Linienbestimmungsverfahren und f√ºr die Planfeststellung ausarbeiten
 - c) :: Fachbeitr√§ge, insbesondere der Landespflege, des St√§dtebaues und des Immissionsschutzes, bei der Verkehrsplanung ber√ºcksichtigen
 - d) :: Unterlagen f√ºr den Grunderwerb erstellen
 
-†
 
-†
 
-†
+
+
+
 
 2
 
@@ -765,13 +765,13 @@ Vertragliche und technische Abwicklung von Bauma√ünahmen\\
   - - :: bei der Festlegung von Bauweisen mitwirken sowie
   - - :: Unterlagen zum Bauablauf und zur Verkehrsf√ºhrung bearbeiten
 
-†
 
-†
+
+
 
 6
 
-†
+
 
 - d) :: Einrichtung und Verkehrssicherung von Baustellen vorbereiten und kontrollieren
 - e) :: Unterlagen f√ºr die Ausschreibung ausarbeiten und zusammenstellen sowie bei Vergabeverfahren mitwirken
@@ -782,11 +782,11 @@ Vertragliche und technische Abwicklung von Bauma√ünahmen\\
 - k) :: bei der Abnahme von Bauma√ünahmen mitwirken und Gew√§hrleistungsfristen √ºberwachen
 - l) :: Abrechnung von Bauma√ünahmen durchf√ºhren
 
-†
 
-†
 
-†
+
+
+
 
 12
 
@@ -806,11 +806,11 @@ Betrieb, Erhaltung und Betreuung des Verkehrswegenetzes\\
 - f) :: Aufgaben und Ziele der Erhaltungsplanung f√ºr Verkehrsanlagen und Bauwerke darstellen und bei Aufgaben der Zustandserfassung mitwirken
 - g) :: Verfahren zur Verwaltung des Stra√üennetzes unterscheiden und Vorg√§nge bearbeiten, insbesondere bei Widmung, Umstufung und Einziehung von Stra√üen, bei der Festsetzung von Ortsdurchfahrten und bei Schadensregulierungen mitwirken
 
-†
 
-†
 
-†
+
+
+
 
 12
 
@@ -823,22 +823,22 @@ Qualit√§tssichernde Ma√ünahmen\\
 
 2*)
 
-†
 
-†
 
-†
+
+
+
 
 - b) :: qualit√§tssichernde Ma√ünahmen im eigenen Arbeitsbereich anwenden, insbesondere
   - - :: Arbeitsergebnisse erfassen, beurteilen und anhand von Vorgaben pr√ºfen,
   - - :: Ursachen von Fehlern und Qualit√§tsm√§ngeln erkennen, Ursachen und Fehler beseitigen, Vorg√§nge dokumentieren
   - - :: zur kontinuierlichen Verbesserung von Arbeitsvorg√§ngen im eigenen Arbeitsbereich beitragen
 
-†
 
-†
 
-†
+
+
+
 
 2*)
 
@@ -930,21 +930,21 @@ Wirtschaftlichkeit\\
 
 2*)
 
-†
 
-†
 
-†
+
+
+
 
 - c) :: Ressourcen effizient einsetzen
 - d) :: Kalkulationsgrundlagen und -verfahren anwenden
 - e) :: betriebswirtschaftliches Rechnungswesen erl√§utern
 
-†
 
-†
 
-†
+
+
+
 
 2*)
 
@@ -960,24 +960,24 @@ Arbeitsorganisation, Kommunikation und Mitgestalten von sozialen Beziehungen\\
 
 2*)
 
-†
 
-†
 
-†
+
+
+
 
 - e) :: Pr√§sentationsm√∂glichkeiten von Arbeitsergebnissen und Produkten nutzen
 - f) :: bei der √ºberbetrieblichen Zusammenarbeit mitwirken
 - g) :: betrieblichen Schriftverkehr durchf√ºhren und Ablagesysteme anwenden
 - h) :: soziale Beziehungen im beruflichen Einwirkungsbereich mitgestalten
 
-†
 
-†
+
+
 
 2*)
 
-†
+
 
 7
 
@@ -991,29 +991,29 @@ Informationstechnik und -verarbeitung\\
 
 4*)
 
-†
 
-†
 
-†
+
+
+
 
 - e) :: Arbeitsaufgaben mit Hilfe von Informationssystemen l√∂sen
 
-†
 
-†
+
+
 
 4*)
 
-†
+
 
 - f) :: Datennetze nutzen
 
-†
 
-†
 
-†
+
+
+
 
 4*)
 
@@ -1030,23 +1030,23 @@ Bautechnisches Zeichnen und Konstruieren\\
 
 10
 
-†
 
-†
 
-†
+
+
+
 
 - f) :: Gew√§sser und Leitungen in Lagepl√§nen, L√§ngenschnitten und Querprofilen darstellen
 - g) :: Planungsunterlagen von wasserwirtschaftlichen Anlagen und Bauwerken zeichnen
 - h) :: √∂rtliche Aufnahmen skizzieren und zeichnerisch darstellen
 
-†
+
 
 4
 
-†
 
-†
+
+
 
 9
 
@@ -1059,29 +1059,29 @@ Bautechnisches Berechnen\\
 
 7
 
-†
 
-†
 
-†
+
+
+
 
 - d) :: hydraulische Berechnungen f√ºr Freispiegelleitungen, Druckleitungen sowie f√ºr Abfl√ºsse von Gew√§ssern durchf√ºhren, insbesondere Tabellen anwenden
 
-†
 
-†
+
+
 
 2
 
-†
+
 
 - e) :: Verfahren der bodenmechanischen sowie statischen Berechnungen anwenden
 
-†
 
-†
 
-†
+
+
+
 
 2
 
@@ -1099,29 +1099,29 @@ Lage- und H√∂henvermessungen\\
 
 7
 
-†
 
-†
 
-†
+
+
+
 
 - g) :: Aufnahmen von L√§ngen- und Querprofilen durchf√ºhren
 
-†
+
 
 2
 
-†
 
-†
+
+
 
 - h) :: topographische Aufnahmen durchf√ºhren
 
-†
 
-†
 
-†
+
+
+
 
 2
 
@@ -1135,30 +1135,30 @@ Baustoffe und B√∂den\\
 
 2
 
-†
 
-†
 
-†
+
+
+
 
 - c) :: Rohrmaterialien und Armaturen nach ihren Eigenschaften und nach ihrer Verwendung unterscheiden
 
-†
+
 
 2
 
-†
 
-†
+
+
 
 - d) :: Verfahren zur Pr√ºfung von Baustoffen und B√∂den unterscheiden
 - e) :: M√∂glichkeiten der Wiederverwertung von Baustoffen unterscheiden
 
-†
 
-†
 
-†
+
+
+
 
 2
 
@@ -1172,42 +1172,42 @@ Messen, Erfassen und Auswerten wasserwirtschaftlicher Daten\\
 
 4
 
-†
 
-†
 
-†
+
+
+
 
 - c) :: Vorschriften und Richtlinien der Hydrologie anwenden
 
-†
+
 
 2
 
-†
 
-†
+
+
 
 - d) :: Wasserstands- und Abflussmessungen durchf√ºhren, Messger√§te pflegen
 - e) :: Beobachtungswerte erfassen und Hauptwerte anwenden
 
-†
 
-†
+
+
 
 2
 
-†
+
 
 - f) :: Gew√§sserg√ºte und Gew√§sserstrukturg√ºte unterscheiden
 - g) :: Probenahmen an Gew√§ssern, Abwasser- und Wasserversorgungsanlagen durchf√ºhren und dokumentieren
 - h) :: Boden- und Wasserproben bei Altlasten und Grundwasserverunreinigungen entnehmen und dokumentieren
 
-†
 
-†
 
-†
+
+
+
 
 4
 
@@ -1220,44 +1220,44 @@ Planen, Entwerfen und Konstruieren von wasserwirtschaftlichen Bauwerken und Anla
 
 4
 
-†
 
-†
 
-†
+
+
+
 
 - b) :: Bauwerkspl√§ne von Wasserversorgungsanlagen, insbesondere von Schachtbauwerken, Gewinnungsanlagen, Trinkwasserbeh√§ltern und Aufbereitungsanlagen, bearbeiten sowie Bauwerksdetails konstruieren
 - c) :: Bauwerkspl√§ne von Abwasseranlagen, insbesondere von Schachtbauwerken, Regenentlastungsanlagen, Pumpwerken und Kl√§ranlagen, bearbeiten sowie Bauwerksdetails konstruieren
 - d) :: Bauwerkspl√§ne f√ºr Ma√ünahmen an Oberfl√§chengew√§ssern, insbesondere f√ºr Sohl- und B√∂schungssicherungen, Sohlabst√ºrze, Wehre, R√ºckhalteanlagen, Deiche und D√§mme, bearbeiten
 
-†
+
 
 6
 
-†
 
-†
+
+
 
 - e) :: Gew√§sserrenaturierungs- und Abflussregelungsma√ünahmen planen
 - f) :: Anlagen des Hochwasser- oder K√ºstenschutzes entwerfen und Pl√§ne bearbeiten
 - g) :: Kostenberechnungen durchf√ºhren
 
-†
 
-†
+
+
 
 4
 
-†
+
 
 - h) :: Wasserversorgungsnetze entwerfen, bemessen und konstruieren
 - i) :: Kanalnetze entwerfen, bemessen und konstruieren
 
-†
 
-†
 
-†
+
+
+
 
 7
 
@@ -1270,33 +1270,33 @@ Technische und verwaltungsm√§√üige Bearbeitung wasserrechtlicher Verfahren und A
 
 2
 
-†
 
-†
 
-†
+
+
+
 
 - b) :: Unterlagen f√ºr wasserrechtliche Genehmigungen unter Beachtung der Verfahrensabl√§ufe bearbeiten, zusammenstellen und bei der Pr√ºfung von Antragsunterlagen mitarbeiten
 - c) :: Unterlagen f√ºr wasserrechtliche Erlaubnisse und Bewilligungen unter Beachtung der Verfahrensabl√§ufe bearbeiten, zusammenstellen und bei der Pr√ºfung der Antragsunterlagen mitarbeiten
 
-†
+
 
 6
 
-†
 
-†
+
+
 
 - d) :: Unterlagen f√ºr wasserrechtliche Anzeigen, insbesondere zum Umgang mit wassergef√§hrdenden Stoffen, ausarbeiten und beurteilen
 - e) :: Unterlagen f√ºr Abstimmungsverfahren von wasserwirtschaftlichen Planungen unter Ber√ºcksichtigung der Raum- und Bauleitplanung sowie der Fachplanungen Dritter und Tr√§ger √∂ffentlicher Belange bearbeiten
 
-†
 
-†
+
+
 
 4
 
-†
+
 
 - f) :: bauaufsichtliche Verwendbarkeitsnachweise f√ºr Baustoffe, Bauteile und Anlagen beurteilen
 - g) :: Unterlagen f√ºr Eignungsfeststellungen von Anlagen mit wassergef√§hrdenden Stoffen bearbeiten und beurteilen
@@ -1304,11 +1304,11 @@ Technische und verwaltungsm√§√üige Bearbeitung wasserrechtlicher Verfahren und A
 - i) :: bei Untersuchungs- und Sanierungsverfahren mitwirken
 - k) :: Bewirtschaftungspl√§ne und Ma√ünahmenpl√§ne darstellen und bei der Erstellung der Pl√§ne mitwirken
 
-†
 
-†
 
-†
+
+
+
 
 11
 
@@ -1322,23 +1322,23 @@ Abwicklung wasserwirtschaftlicher Ma√ünahmen\\
 
 2
 
-†
 
-†
 
-†
+
+
+
 
 - c) :: vertragsgestaltende und technische Richtlinien, Vorschriften und Merkbl√§tter anwenden
 - d) :: bei der Vorbereitung von Bauma√ünahmen mitwirken, insbesondere Abstimmungen mit Dritten sowie √∂rtliche Erhebungen durchf√ºhren
 - e) :: bei der Vorbereitung, √úberwachung und Abrechnung von Ma√ünahmen der Gew√§sserrenaturierung, der Gew√§sser-, Deich- und Dammunterhaltung mitwirken
 
-†
 
-†
+
+
 
 5
 
-†
+
 
 - f) :: Unterlagen f√ºr Ausschreibungen bearbeiten und bei Vergabeverfahren mitwirken
 - g) :: bei der Erledigung von Aufgaben der Bauleitung und der Bau√ºberwachung mitwirken und dabei insbesondere
@@ -1347,11 +1347,11 @@ Abwicklung wasserwirtschaftlicher Ma√ünahmen\\
   - - :: bei der Abnahme von Bauma√ünahmen mitwirken sowie
   - - :: Bauma√ünahmen abrechnen
 
-†
 
-†
 
-†
+
+
+
 
 5
 
@@ -1364,31 +1364,31 @@ Wasserschutz- und √úberschwemmungsgebiete\\
 
 2
 
-†
 
-†
 
-†
+
+
+
 
 - b) :: Datenerhebung und √∂rtliche √úberpr√ºfungen f√ºr die Festsetzung von Trinkwasser-, Heilquellenschutz- und von √úberschwemmungsgebieten sowie zur Ermittlung von Retentionsr√§umen an Gew√§ssern durchf√ºhren
 - c) :: Gebietsgrenzen ermitteln und in Karten darstellen
 
-†
+
 
 4
 
-†
 
-†
+
+
 
 - d) :: Unterlagen f√ºr Festsetzungs- und Feststellungsverfahren bearbeiten und bei der Durchf√ºhrung mitwirken
 - e) :: Wasserbuch und Liegenschaftskataster anwenden
 
-†
 
-†
 
-†
+
+
+
 
 6
 
@@ -1401,33 +1401,33 @@ Wasserschutz- und √úberschwemmungsgebiete\\
 
 2
 
-†
 
-†
 
-†
+
+
+
 
 - b) :: Kontrollen bei kommunalen Abw√§sserkan√§len, -anlagen und -einleitungen, insbesondere im Rahmen der Eigenkontrolle und der staatlichen √úberwachung, durchf√ºhren
 - c) :: Wasserversorgungsanlagen kontrollieren
 
-†
 
-†
+
+
 
 3
 
-†
+
 
 - d) :: Hochwasserdienst, insbesondere Hochwasserdienstordnungen und Einsatzpl√§ne, darstellen
 - e) :: Kontrollen bei gewerblichen und industriellen Abwasseranlagen und -einleitungen durchf√ºhren
 - f) :: Anlagen und Betriebe zum Umgang mit wassergef√§hrdenden Stoffen √ºberwachen
 - g) :: bei Aufgaben der Zustandserfassung und Ma√ünahmen zur M√§ngelbeseitigung in Schutz- und √úberschwemmungsgebieten mitwirken
 
-†
 
-†
 
-†
+
+
+
 
 5
 
@@ -1440,22 +1440,22 @@ Qualit√§tssichernde Ma√ünahmen\\
 
 2*)
 
-†
 
-†
 
-†
+
+
+
 
 - b) :: qualit√§tssichernde Ma√ünahmen im eigenen Arbeitsbereich anwenden, insbesondere
   - - :: Arbeitsergebnisse erfassen, beurteilen und anhand von Vorgaben pr√ºfen,
   - - :: Ursachen von Fehlern und Qualit√§tsm√§ngeln erkennen, Ursachen und Fehler beseitigen, Vorg√§nge dokumentieren,
   - - :: zur kontinuierlichen Verbesserung von Arbeitsvorg√§ngen im eigenen Arbeitsbereich beitragen
 
-†
 
-†
 
-†
+
+
+
 
 2*)
 

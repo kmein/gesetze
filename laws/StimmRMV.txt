@@ -21,18 +21,18 @@ Die Mitteilung ist elektronisch zu übermitteln.
 
 § 4 - Elektronische Übermittlung einer Mitteilung an die Bundesanstalt
 
-(1) Eine elektronische Übermittlung der Mitteilung an die Bundesanstalt hat ausschlie�Stimmrechtsmitteilungen (§§ 33 ff. WpHG)“ auf der Melde- und Veröffentlichungsplattform der Bundesanstalt (MVP)<<FnR.F804350_01>>[[#F804350_01][1]]} nach den näheren Bestimmungen gemäß § 5 zu erfolgen.
+(1) Eine elektronische Übermittlung der Mitteilung an die Bundesanstalt hat ausschlieStimmrechtsmitteilungen (§§ 33 ff. WpHG)“ auf der Melde- und Veröffentlichungsplattform der Bundesanstalt (MVP)<<FnR.F804350_01>>[[#F804350_01][1]]} nach den näheren Bestimmungen gemäß § 5 zu erfolgen.
 (2) Im Fall einer technischen Störung der MVP, die eine elektronische Übermittlung der Mitteilung nach Absatz 1 unmöglich macht, hat die Übermittlung der Mitteilung an die Bundesanstalt fristwahrend schriftlich im Original oder per Telefax zu erfolgen.
 
 § 5 - Nutzung der MVP
 
-Die Nutzung des Fachverfahrens �Stimmrechtsmitteilungen (§§ 33 ff. WpHG)“ auf der MVP erfordert eine vorherige Registrierung auf der MVP und eine Zulassung zum Fachverfahren durch die Bundesanstalt. Die Voraussetzungen für die Registrierung nach dem Benutzerhandbuch für die MVP<<FnR.F804350_02>>[[#F804350_02][2]]} sind zu beachten. Die Voraussetzungen für die Zulassung zum Fachverfahren nach dem Informationsblatt zur Nutzung des Fachverfahrens �Stimmrechtsmitteilungen (§§ 33 ff. WpHG)“<<FnR.F804350_03>>[[#F804350_03][3]]} sind zu beachten.
+Die Nutzung des Fachverfahrens Stimmrechtsmitteilungen (§§ 33 ff. WpHG)“ auf der MVP erfordert eine vorherige Registrierung auf der MVP und eine Zulassung zum Fachverfahren durch die Bundesanstalt. Die Voraussetzungen für die Registrierung nach dem Benutzerhandbuch für die MVP<<FnR.F804350_02>>[[#F804350_02][2]]} sind zu beachten. Die Voraussetzungen für die Zulassung zum Fachverfahren nach dem Informationsblatt zur Nutzung des Fachverfahrens Stimmrechtsmitteilungen (§§ 33 ff. WpHG)“<<FnR.F804350_03>>[[#F804350_03][3]]} sind zu beachten.
 
 § 6 - Elektronische Übermittlung einer Mitteilung an den Emittenten
 
 (1) Bei der elektronischen Übermittlung einer Mitteilung an den Emittenten trägt der Meldepflichtige die Verantwortung für die Integrität und Vertraulichkeit der Datenübermittlung.
 (2) Soweit der Meldepflichtige ein durch den Emittenten zur Verfügung gestelltes elektronisches Übermittlungsverfahren nutzt, trägt der Emittent die Verantwortung für die Funktionsfähigkeit des Übermittlungsverfahrens sowie für die Integrität und Vertraulichkeit der Datenübermittlung.
-(3) Die Mitteilung muss die Informationen gemä�Extensible Markup Language“ (XML-Datensatz) enthalten.<<FnR.F804350_04>>[[#F804350_04][4]]} Sie muss als �Stimmrechtsmitteilung“ kenntlich gemacht werden.
+(3) Die Mitteilung muss die Informationen gemäExtensible Markup Language“ (XML-Datensatz) enthalten.<<FnR.F804350_04>>[[#F804350_04][4]]} Sie muss als Stimmrechtsmitteilung“ kenntlich gemacht werden.
 (4) Im Fall einer technischen Störung der für den Empfang von Mitteilungen relevanten elektronischen Systeme des Emittenten, die eine elektronische Übermittlung der Mitteilung unmöglich macht, hat die Übermittlung der Mitteilung an den Emittenten durch den Meldepflichtigen fristwahrend schriftlich im Original oder per Telefax zu erfolgen.
 
 § 7 - Ersatz für die Unterschrift bei der elektronischen Übermittlung einer Mitteilung

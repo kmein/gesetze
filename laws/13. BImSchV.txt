@@ -6,11 +6,11 @@ Ausfertigungsdatum: 02.05.2013
 
 Inhaltsübersicht
 
-�
-�
-�
-�
-�
+
+
+
+
+
 
 § 1 - Anwendungsbereich
 
@@ -36,15 +36,15 @@ Inhaltsübersicht
 
 § 2 - Begriffsbestimmungen
 
-(1) �Abgas“ im Sinne dieser Verordnung ist das Trägergas mit den festen, flüssigen oder gasförmigen Emissionen, angegeben als Volumenstrom in der Einheit Kubikmeter je Stunde (m³/h) und bezogen auf das Abgasvolumen im Normzustand (Temperatur 273,15 Kelvin (K), Druck 101,3 Kilopascal (kPa)) nach Abzug des Feuchtegehalts an Wasserdampf.
-(2) �Abgasreinigungseinrichtung“ im Sinne dieser Verordnung ist eine der Feuerung nachgeschaltete Einrichtung zur Verminderung von Luftverunreinigungen einschließlich Einrichtungen zur selektiven nichtkatalytischen Reduktion.
-(3) �Altanlage“ im Sinne dieser Verordnung ist eine bestehende Anlage,
+(1) Abgas“ im Sinne dieser Verordnung ist das Trägergas mit den festen, flüssigen oder gasförmigen Emissionen, angegeben als Volumenstrom in der Einheit Kubikmeter je Stunde (m³/h) und bezogen auf das Abgasvolumen im Normzustand (Temperatur 273,15 Kelvin (K), Druck 101,3 Kilopascal (kPa)) nach Abzug des Feuchtegehalts an Wasserdampf.
+(2) Abgasreinigungseinrichtung“ im Sinne dieser Verordnung ist eine der Feuerung nachgeschaltete Einrichtung zur Verminderung von Luftverunreinigungen einschließlich Einrichtungen zur selektiven nichtkatalytischen Reduktion.
+(3) Altanlage“ im Sinne dieser Verordnung ist eine bestehende Anlage,
 
 - 1. :: die nach § 67 Absatz 2 oder § 67a Absatz 1 des Bundes-Immissionsschutzgesetzes oder vor Inkrafttreten des Bundes-Immissionsschutzgesetzes nach § 16 Absatz 4 der Gewerbeordnung anzuzeigen war,
 - 2. :: für die die erste Genehmigung zur Errichtung und zum Betrieb nach § 4 oder § 16 des Bundes-Immissionsschutzgesetzes vor dem 27. November 2002 erteilt worden ist und die vor dem 27. November 2003 in Betrieb gegangen ist oder
 - 3. :: für die der Betreiber vor dem 27. November 2002 einen vollständigen Genehmigungsantrag zur Errichtung und zum Betrieb nach § 4 oder § 16 des Bundes-Immissionsschutzgesetzes gestellt hat und die vor dem 27. November 2003 in Betrieb gegangen ist.
 
-(4) �Bestehende Anlage“ im Sinne dieser Verordnung ist eine Anlage,
+(4) Bestehende Anlage“ im Sinne dieser Verordnung ist eine Anlage,
 
 - 1. :: die nach § 67 Absatz 2 oder § 67a Absatz 1 des Bundes-Immissionsschutzgesetzes oder vor Inkrafttreten des Bundes-Immissionsschutzgesetzes nach § 16 Absatz 4 der Gewerbeordnung anzuzeigen war,
 - 2. :: für die die erste Genehmigung zur Errichtung und zum Betrieb nach § 4 oder § 16 des Bundes-Immissionsschutzgesetzes
@@ -56,7 +56,7 @@ Inhaltsübersicht
   - b) :: im Fall von bestehenden Ablaugekesseln bei der Herstellung von Zellstoff vor dem 1. Oktober 2014 gestellt hat und die vor dem 1. Oktober 2015 in Betrieb gegangen ist, oder
   - c) :: im Fall von bestehenden Feuerungsanlagen in Raffinerien, die Raffinerieheizgase oder Destillations- oder Konversionsrückstände einsetzen, vor dem 29. Oktober 2014 gestellt hat und die vor dem 29. Oktober 2015 in Betrieb gegangen ist.
 
-(4a) �Im Jahr 2014 bestehende Anlage“ im Sinne dieser Verordnung ist eine Anlage
+(4a) Im Jahr 2014 bestehende Anlage“ im Sinne dieser Verordnung ist eine Anlage
 
 - 1. :: die nach § 67 Absatz 2 oder § 67a Absatz 1 des Bundes-Immissionsschutzgesetzes oder vor Inkrafttreten des Bundes-Immissionsschutzgesetzes nach § 16 Absatz 4 der Gewerbeordnung anzuzeigen war,
 - 2. :: für die die erste Genehmigung zur Errichtung und zum Betrieb nach § 4 oder § 16 des Bundes-Immissionsschutzgesetzes vor dem 7. Januar 2013 erteilt worden ist und die vor dem 7. Januar 2014 in Betrieb gegangen ist, oder
@@ -64,14 +64,14 @@ Inhaltsübersicht
 
 Satz 1 gilt auch für Ablaugekesseln bei der Herstellung von Zellstoff sowie für Feuerungsanlagen in Raffinerien, die Raffinerieheizgase oder Destillations- oder Konversionsrückstände einsetzen.
 
-(5) �Bezugssauerstoffgehalt“ im Sinne dieser Verordnung ist der jeweils vorgegebene oder zu berechnende Volumengehalt an Sauerstoff im Abgas, auf den der jeweilige Emissionsgrenzwert unter Berücksichtigung von Anlage 4 zu beziehen ist; er beträgt
+(5) Bezugssauerstoffgehalt“ im Sinne dieser Verordnung ist der jeweils vorgegebene oder zu berechnende Volumengehalt an Sauerstoff im Abgas, auf den der jeweilige Emissionsgrenzwert unter Berücksichtigung von Anlage 4 zu beziehen ist; er beträgt
 
 - 1. :: 3 Prozent bei Feuerungsanlagen für flüssige und gasförmige Brennstoffe,
 - 2. :: 6 Prozent bei Feuerungsanlagen für feste Brennstoffe und Biobrennstoffe,
 - 3. :: 15 Prozent bei Gasturbinenanlagen sowie
 - 4. :: 5 Prozent bei Gasmotoranlagen.
 
-(6) �Biobrennstoffe“ im Sinne dieser Verordnung sind
+(6) Biobrennstoffe“ im Sinne dieser Verordnung sind
 
 - 1. :: die Produkte land- oder forstwirtschaftlichen Ursprungs aus pflanzlichem Material oder Teilen davon, soweit sie zur Nutzung ihres Energieinhalts verwendet werden, und
 - 2. :: nachstehende Abfälle, falls die erzeugte Wärme genutzt wird,
@@ -82,31 +82,31 @@ Satz 1 gilt auch für Ablaugekesseln bei der Herstellung von Zellstoff sowie fü
   - e) :: Korkabfälle,
   - f) :: Holzabfälle mit Ausnahme von Holzabfällen, die infolge einer Behandlung mit Holzschutzmitteln oder infolge einer Beschichtung halogenorganische Verbindungen oder Schwermetalle enthalten können und zu denen insbesondere Holzabfälle aus Bau- und Abbruchabfällen gehören.
 
-(7) �Brennstoffe“ im Sinne dieser Verordnung sind alle festen, flüssigen oder gasförmigen brennbaren Stoffe einschließlich ihrer nicht brennbaren Bestandteile; hiervon ausgenommen sind brennbare Stoffe, soweit sie dem Anwendungsbereich der Verordnung über die Verbrennung und die Mitverbrennung von Abfällen unterliegen.
-(8) �Dieselkraftstoff“ im Sinne dieser Verordnung ist Dieselkraftstoff nach DIN EN 590, Ausgabe Mai 2010.
-(9) �Dieselmotoranlage“ im Sinne dieser Verordnung ist eine nach dem Dieselprinzip arbeitende Verbrennungsmotoranlage mit Selbstzündung des Kraftstoffs.
-(10) �Emissionen“ im Sinne dieser Verordnung sind die von einer Anlage ausgehenden Luftverunreinigungen, angegeben als Massenkonzentrationen in der Einheit Milligramm je Kubikmeter Abgas (mg/m³) oder Nanogramm je Kubikmeter Abgas (ng/m³) oder als Massenstrom in der Einheit Megagramm pro Jahr (Mg/a); Staubemissionen können auch als Rußzahl angegeben werden.
-(11) �Emissionsgrenzwert“ im Sinne dieser Verordnung ist die Emission einer Anlage, die zulässigerweise in die Luft abgeleitet werden darf, angegeben als Massenkonzentration und bezogen auf den jeweiligen Bezugssauerstoffgehalt, im Fall von Staubemission auch angegeben als zulässige Rußzahl.
-(12) �Erdgas“ im Sinne dieser Verordnung ist
+(7) Brennstoffe“ im Sinne dieser Verordnung sind alle festen, flüssigen oder gasförmigen brennbaren Stoffe einschließlich ihrer nicht brennbaren Bestandteile; hiervon ausgenommen sind brennbare Stoffe, soweit sie dem Anwendungsbereich der Verordnung über die Verbrennung und die Mitverbrennung von Abfällen unterliegen.
+(8) Dieselkraftstoff“ im Sinne dieser Verordnung ist Dieselkraftstoff nach DIN EN 590, Ausgabe Mai 2010.
+(9) Dieselmotoranlage“ im Sinne dieser Verordnung ist eine nach dem Dieselprinzip arbeitende Verbrennungsmotoranlage mit Selbstzündung des Kraftstoffs.
+(10) Emissionen“ im Sinne dieser Verordnung sind die von einer Anlage ausgehenden Luftverunreinigungen, angegeben als Massenkonzentrationen in der Einheit Milligramm je Kubikmeter Abgas (mg/m³) oder Nanogramm je Kubikmeter Abgas (ng/m³) oder als Massenstrom in der Einheit Megagramm pro Jahr (Mg/a); Staubemissionen können auch als Rußzahl angegeben werden.
+(11) Emissionsgrenzwert“ im Sinne dieser Verordnung ist die Emission einer Anlage, die zulässigerweise in die Luft abgeleitet werden darf, angegeben als Massenkonzentration und bezogen auf den jeweiligen Bezugssauerstoffgehalt, im Fall von Staubemission auch angegeben als zulässige Rußzahl.
+(12) Erdgas“ im Sinne dieser Verordnung ist
 
 - 1. :: natürlich vorkommendes Methangas mit nicht mehr als 20 Volumenprozent an Inertgasen und sonstigen Bestandteilen, das den Anforderungen des DVGW-Arbeitsblattes G 260 vom Mai 2008 für Gase der 2. Gasfamilie entspricht, sowie
 - 2. :: Klär-, Bio- und Grubengase nach DVGW-Arbeitsblatt G 262 vom September 2011, die die Bedingungen des DVGW-Arbeitsblatts G 260 als Austauschgas oder als Zusatzgas zur Konditionierung erfüllen und insoweit die Grundgase der 2. Gasfamilie in der öffentlichen Gasversorgung ersetzen oder ergänzen.
 
-(13) �Feuerungsanlage“ im Sinne dieser Verordnung ist jede Anlage, in der Brennstoff zur Nutzung der erzeugten Wärme oxidiert wird.
-(14) �Feuerungswärmeleistung“ im Sinne dieser Verordnung ist der auf den unteren Heizwert bezogene Wärmeinhalt der Brennstoffe, der einer Anlage im Dauerbetrieb je Zeiteinheit zugeführt wird, angegeben in Megawatt (MW).
-(15) �Gasturbinenanlage“ im Sinne dieser Verordnung ist eine Feuerungsanlage mit einer rotierenden Maschine, die thermische Energie in mechanische Arbeit umwandelt und im Wesentlichen aus einem Verdichter, aus einer Brennkammer in der Brennstoff zur Erhitzung des Arbeitsmediums oxidiert wird, und aus einer Turbine besteht.
-(16) �Gasturbine mit Zusatzfeuerung“ im Sinne dieser Verordnung ist eine Gasturbine, deren Abgase einer nachgeschalteten Feuerung mit eigener Brennstoffzufuhr als Verbrennungsluft zugeführt werden.
-(17) �Gasmotoranlage“ im Sinne dieser Verordnung ist eine nach dem Ottoprinzip arbeitende Verbrennungsmotoranlage
+(13) Feuerungsanlage“ im Sinne dieser Verordnung ist jede Anlage, in der Brennstoff zur Nutzung der erzeugten Wärme oxidiert wird.
+(14) Feuerungswärmeleistung“ im Sinne dieser Verordnung ist der auf den unteren Heizwert bezogene Wärmeinhalt der Brennstoffe, der einer Anlage im Dauerbetrieb je Zeiteinheit zugeführt wird, angegeben in Megawatt (MW).
+(15) Gasturbinenanlage“ im Sinne dieser Verordnung ist eine Feuerungsanlage mit einer rotierenden Maschine, die thermische Energie in mechanische Arbeit umwandelt und im Wesentlichen aus einem Verdichter, aus einer Brennkammer in der Brennstoff zur Erhitzung des Arbeitsmediums oxidiert wird, und aus einer Turbine besteht.
+(16) Gasturbine mit Zusatzfeuerung“ im Sinne dieser Verordnung ist eine Gasturbine, deren Abgase einer nachgeschalteten Feuerung mit eigener Brennstoffzufuhr als Verbrennungsluft zugeführt werden.
+(17) Gasmotoranlage“ im Sinne dieser Verordnung ist eine nach dem Ottoprinzip arbeitende Verbrennungsmotoranlage
 
 - 1. :: mit Fremdzündung des Kraftstoffs oder
 - 2. :: im Fall von Zweistoffmotoren mit Selbstzündung des Kraftstoffs.
 
-(18) �Großfeuerungsanlage“ im Sinne dieser Verordnung ist eine Feuerungsanlage, die keine Gasturbinenanlage oder Verbrennungsmotoranlage ist.
-(19) �Leichtes Heizöl“ im Sinne dieser Verordnung ist Heizöl EL nach DIN 51603-1, Ausgabe August 2008.
-(20) �Mehrstofffeuerung“ im Sinne dieser Verordnung ist eine Einzelfeuerung, die mit zwei oder mehr Brennstoffen wechselweise betrieben werden kann.
-(21) �Mischfeuerung“ im Sinne dieser Verordnung ist eine Einzelfeuerung, die mit zwei oder mehr Brennstoffen gleichzeitig betrieben werden kann.
-(22) �Schwefelabscheidegrad“ im Sinne dieser Verordnung ist das Verhältnis der Schwefelmenge, die von einer Feuerungsanlage in einem bestimmten Zeitraum nicht in die Luft abgeleitet wird, zu der Schwefelmenge des Brennstoffs, der im gleichen Zeitraum in die Feuerungsanlage eingebracht und verbraucht wird, angegeben als Prozentsatz.
-(23) �Verbrennungsmotoranlage“ im Sinne dieser Verordnung ist eine Feuerungsanlage in Form einer Dieselmotoranlage oder einer Gasmotoranlage.
+(18) Großfeuerungsanlage“ im Sinne dieser Verordnung ist eine Feuerungsanlage, die keine Gasturbinenanlage oder Verbrennungsmotoranlage ist.
+(19) Leichtes Heizöl“ im Sinne dieser Verordnung ist Heizöl EL nach DIN 51603-1, Ausgabe August 2008.
+(20) Mehrstofffeuerung“ im Sinne dieser Verordnung ist eine Einzelfeuerung, die mit zwei oder mehr Brennstoffen wechselweise betrieben werden kann.
+(21) Mischfeuerung“ im Sinne dieser Verordnung ist eine Einzelfeuerung, die mit zwei oder mehr Brennstoffen gleichzeitig betrieben werden kann.
+(22) Schwefelabscheidegrad“ im Sinne dieser Verordnung ist das Verhältnis der Schwefelmenge, die von einer Feuerungsanlage in einem bestimmten Zeitraum nicht in die Luft abgeleitet wird, zu der Schwefelmenge des Brennstoffs, der im gleichen Zeitraum in die Feuerungsanlage eingebracht und verbraucht wird, angegeben als Prozentsatz.
+(23) Verbrennungsmotoranlage“ im Sinne dieser Verordnung ist eine Feuerungsanlage in Form einer Dieselmotoranlage oder einer Gasmotoranlage.
 
 § 3 - Aggregationsregeln
 
@@ -830,7 +830,7 @@ Polychlorierte Biphenyle\\
 \\
 WHO-TEF 2005
 Non ortho PCB
-�
+
 PCB 77
 0,0001
 PCB 81
@@ -840,7 +840,7 @@ PCB 126
 PCB 169
 0,03
 Mono ortho PCB
-�
+
 PCB 105
 0,00003
 PCB 114

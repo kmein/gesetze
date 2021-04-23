@@ -22,13 +22,13 @@ VerhÃ¤ltnis zur freien Wohlfahrtspflege
 FachkrÃ¤fte
 Â§ 7
 Aufgabe der LÃ¤nder
- 
+
 Zweites Kapitel
 Leistungen der Sozialhilfe
- 
- 
+
+
 Erster Abschnitt
- 
+
 GrundsÃ¤tze der Leistungen
 Â§ 8
 Leistungen
@@ -48,10 +48,10 @@ Leistungen fÃ¼r Einrichtungen, Vorrang anderer Leistungen
 Vorbeugende und nachgehende Leistungen
 Â§ 16
 Familiengerechte Leistungen
- 
- 
+
+
 Zweiter Abschnitt
- 
+
 Anspruch auf Leistungen
 Â§ 17
 Anspruch
@@ -73,14 +73,14 @@ Sozialhilfe fÃ¼r Deutsche im Ausland
 Erstattung von Aufwendungen Anderer
 Â§ 26
 EinschrÃ¤nkung, Aufrechnung
- 
+
 Drittes Kapitel
 Hilfe zum Lebensunterhalt
- 
- 
- 
+
+
+
 Erster Abschnitt
- 
+
 Leistungsberechtigte, notwendiger Lebensunterhalt, Regelbedarfe und RegelsÃ¤tze
 Â§ 27
 Leistungsberechtigte
@@ -96,10 +96,10 @@ Ermittlung der Regelbedarfe
 Fortschreibung der Regelbedarfsstufen
 Â§ 29
 Festsetzung und Fortschreibung der RegelsÃ¤tze
- 
- 
+
+
 Zweiter Abschnitt
- 
+
 ZusÃ¤tzliche Bedarfe
 Â§ 30
 Mehrbedarf
@@ -111,10 +111,10 @@ BeitrÃ¤ge fÃ¼r die Kranken- und Pflegeversicherung
 Zeitliche Zuordnung von BeitrÃ¤gen
 Â§ 33
 Bedarfe fÃ¼r die Vorsorge
- 
- 
+
+
 Dritter Abschnitt
- 
+
 Bildung und Teilhabe
 Â§ 34
 Bedarfe fÃ¼r Bildung und Teilhabe
@@ -122,10 +122,10 @@ Bedarfe fÃ¼r Bildung und Teilhabe
 Erbringung der Leistungen fÃ¼r Bildung und Teilhabe
 Â§ 34b
 Berechtigte Selbsthilfe
- 
- 
+
+
 Vierter Abschnitt
- 
+
 Bedarfe fÃ¼r Unterkunft und Heizung
 Â§ 35
 Bedarfe fÃ¼r Unterkunft und Heizung
@@ -133,10 +133,10 @@ Bedarfe fÃ¼r Unterkunft und Heizung
 Satzung
 Â§ 36
 Sonstige Hilfen zur Sicherung der Unterkunft
- 
- 
+
+
 FÃ¼nfter Abschnitt
- 
+
 GewÃ¤hrung von Darlehen
 Â§ 37
 ErgÃ¤nzende Darlehen
@@ -144,29 +144,29 @@ ErgÃ¤nzende Darlehen
 Darlehen bei am Monatsende fÃ¤lligen EinkÃ¼nften
 Â§ 38
 Darlehen bei vorÃ¼bergehender Notlage
- 
- 
+
+
 Sechster Abschnitt
- 
+
 EinschrÃ¤nkung von Leistungsberechtigung und -umfang
 Â§ 39
 Vermutung der Bedarfsdeckung
 Â§ 39a
 EinschrÃ¤nkung der Leistung
- 
- 
+
+
 Siebter Abschnitt
- 
+
 VerordnungsermÃ¤chtigung
 Â§ 40
 VerordnungsermÃ¤chtigung
- 
+
 Viertes Kapitel
 Grundsicherung im Alter und bei Erwerbsminderung
- 
- 
+
+
 Erster Abschnitt
- 
+
 GrundsÃ¤tze
 Â§ 41
 Leistungsberechtigte
@@ -180,10 +180,10 @@ Bedarfe fÃ¼r Unterkunft und Heizung
 Mehrbedarfe
 Â§ 43
 Einsatz von Einkommen und VermÃ¶gen
- 
- 
+
+
 Zweiter Abschnitt
- 
+
 Verfahrensbestimmungen
 Â§ 43a
 Gesamtbedarf, Zahlungsanspruch und Direktzahlung
@@ -199,16 +199,16 @@ ErstattungsansprÃ¼che zwischen TrÃ¤gern
 Feststellung der dauerhaften vollen Erwerbsminderung
 Â§ 46
 Zusammenarbeit mit den TrÃ¤gern der Rentenversicherung
- 
- 
+
+
 Dritter Abschnitt
- 
+
 Erstattung und ZustÃ¤ndigkeit
 Â§ 46a
 Erstattung durch den Bund
 Â§ 46b
 ZustÃ¤ndigkeit
- 
+
 FÃ¼nftes Kapitel
 Hilfen zur Gesundheit
 Â§ 47
@@ -223,9 +223,9 @@ Hilfe bei Schwangerschaft und Mutterschaft
 Hilfe bei Sterilisation
 Â§ 52
 Leistungserbringung, VergÃ¼tung
- 
+
 Sechstes Kapitel (weggefallen)
- 
+
 Â§ 53
 (weggefallen)
 Â§ 54
@@ -242,7 +242,7 @@ Sechstes Kapitel (weggefallen)
 (weggefallen)
 Â§ 60
 (weggefallen)
- 
+
 Siebtes Kapitel
 Hilfe zur Pflege
 Â§ 61
@@ -289,7 +289,7 @@ StationÃ¤re Pflege
 Entlastungsbetrag bei Pflegegrad 1
 Â§ 66a
 Sonderregelungen zum Einsatz von VermÃ¶gen
- 
+
 Achtes Kapitel
 Hilfe zur Ãœberwindung besonderer sozialer Schwierigkeiten
 Â§ 67
@@ -298,7 +298,7 @@ Leistungsberechtigte
 Umfang der Leistungen
 Â§ 69
 VerordnungsermÃ¤chtigung
- 
+
 Neuntes Kapitel
 Hilfe in anderen Lebenslagen
 Â§ 70
@@ -311,7 +311,7 @@ Blindenhilfe
 Hilfe in sonstigen Lebenslagen
 Â§ 74
 Bestattungskosten
- 
+
 Zehntes Kapitel
 Vertragsrecht
 Â§ 75
@@ -334,13 +334,13 @@ AuÃŸerordentliche KÃ¼ndigung der Vereinbarungen
 RahmenvertrÃ¤ge
 Â§ 81
 Schiedsstelle
- 
+
 Elftes Kapitel
 Einsatz des Einkommens und des VermÃ¶gens
- 
- 
+
+
 Erster Abschnitt
- 
+
 Einkommen
 Â§ 82
 Begriff des Einkommens
@@ -350,10 +350,10 @@ Freibetrag fÃ¼r Personen mit Grundrentenzeiten oder entsprechenden Zeiten aus an
 Nach Zweck und Inhalt bestimmte Leistungen
 Â§ 84
 Zuwendungen
- 
- 
+
+
 Zweiter Abschnitt
- 
+
 Einkommensgrenzen fÃ¼r die Leistungen nach dem FÃ¼nften bis Neunten Kapitel
 Â§ 85
 Einkommensgrenze
@@ -365,26 +365,26 @@ Einsatz des Einkommens Ã¼ber der Einkommensgrenze
 Einsatz des Einkommens unter der Einkommensgrenze
 Â§ 89
 Einsatz des Einkommens bei mehrfachem Bedarf
- 
- 
+
+
 Dritter Abschnitt
- 
+
 VermÃ¶gen
 Â§ 90
 Einzusetzendes VermÃ¶gen
 Â§ 91
 Darlehen
- 
- 
+
+
 Vierter Abschnitt
- 
+
 EinschrÃ¤nkung der Anrechnung
 Â§ 92
 Anrechnung bei behinderten Menschen
- 
- 
+
+
 FÃ¼nfter Abschnitt
- 
+
 Verpflichtungen anderer
 Â§ 93
 Ãœbergang von AnsprÃ¼chen
@@ -392,20 +392,20 @@ Verpflichtungen anderer
 Ãœbergang von AnsprÃ¼chen gegen einen nach bÃ¼rgerlichem Recht Unterhaltspflichtigen
 Â§ 95
 Feststellung der Sozialleistungen
- 
- 
+
+
 Sechster Abschnitt
- 
+
 VerordnungsermÃ¤chtigungen
 Â§ 96
 VerordnungsermÃ¤chtigungen
- 
+
 ZwÃ¶lftes Kapitel
 ZustÃ¤ndigkeit der TrÃ¤ger der Sozialhilfe
- 
- 
+
+
 Erster Abschnitt
- 
+
 Sachliche und Ã¶rtliche ZustÃ¤ndigkeit
 Â§ 97
 Sachliche ZustÃ¤ndigkeit
@@ -413,22 +413,22 @@ Sachliche ZustÃ¤ndigkeit
 Ã–rtliche ZustÃ¤ndigkeit
 Â§ 99
 Vorbehalt abweichender DurchfÃ¼hrung
- 
- 
+
+
 Zweiter Abschnitt
- 
+
 Sonderbestimmungen
 Â§ 100
 ZustÃ¤ndigkeit auf Grund der deutsch-schweizerischen FÃ¼rsorgevereinbarung
 Â§ 101
 BehÃ¶rdenbestimmung und Stadtstaaten-Klausel
- 
+
 Dreizehntes Kapitel
 Kosten
- 
- 
+
+
 Erster Abschnitt
- 
+
 Kostenersatz
 Â§ 102
 Kostenersatz durch Erben
@@ -438,10 +438,10 @@ Kostenersatz bei schuldhaftem Verhalten
 Kostenersatz fÃ¼r zu Unrecht erbrachte Leistungen
 Â§ 105
 Kostenersatz bei Doppelleistungen
- 
- 
+
+
 Zweiter Abschnitt
- 
+
 Kostenerstattung zwischen den TrÃ¤gern der Sozialhilfe
 Â§ 106
 Kostenerstattung bei Aufenthalt in einer Einrichtung
@@ -457,10 +457,10 @@ Umfang der Kostenerstattung
 VerjÃ¤hrung
 Â§ 112
 Kostenerstattung auf Landesebene
- 
- 
+
+
 Dritter Abschnitt
- 
+
 Sonstige Regelungen
 Â§ 113
 Vorrang der ErstattungsansprÃ¼che
@@ -468,7 +468,7 @@ Vorrang der ErstattungsansprÃ¼che
 ErsatzansprÃ¼che der TrÃ¤ger der Sozialhilfe nach sonstigen Vorschriften
 Â§ 115
 Ãœbergangsregelung fÃ¼r die Kostenerstattung bei Einreise aus dem Ausland
- 
+
 Vierzehntes Kapitel
 Verfahrensbestimmungen
 Â§ 116
@@ -483,12 +483,12 @@ Pflicht zur Auskunft
 Wissenschaftliche Forschung im Auftrag des Bundes
 Â§ 120
 VerordnungsermÃ¤chtigung
- 
+
 FÃ¼nfzehntes Kapitel
 Statistik
- 
+
 Erster Abschnitt
- 
+
 Bundesstatistik fÃ¼r das Dritte und FÃ¼nfte bis Neunte Kapitel
 Â§ 121
 Bundesstatistik fÃ¼r das Dritte und FÃ¼nfte bis Neunte Kapitel
@@ -506,11 +506,11 @@ Auskunftspflicht
 Ãœbermittlung an Kommunen
 Â§ 128
 Zusatzerhebungen
- 
- 
- 
+
+
+
 Zweiter Abschnitt
- 
+
 Bundesstatistik fÃ¼r das Vierte Kapitel
 Â§ 128a
 Bundesstatistik fÃ¼r das Vierte Kapitel
@@ -528,15 +528,15 @@ PeriodizitÃ¤t, Berichtszeitraum und Berichtszeitpunkte
 Auskunftspflicht
 Â§ 128h
 DatenÃ¼bermittlung, VerÃ¶ffentlichung
- 
- 
- 
+
+
+
 Dritter Abschnitt
- 
+
 VerordnungsermÃ¤chtigung
 Â§ 129
 VerordnungsermÃ¤chtigung
- 
+
 Sechzehntes Kapitel
 Ãœbergangs- und Schlussbestimmungen
 Â§ 130
@@ -1309,7 +1309,7 @@ der im jeweiligen Kalenderjahr den fÃ¼r die AusfÃ¼hrung des Gesetzes nach diesem
 
 - 1. :: vom 15. MÃ¤rz bis 14. Mai,
 - 2. :: vom 15. Juni bis 14. August,
-- 3. :: vom 15. September bis 14. November und  
+- 3. :: vom 15. September bis 14. November und 
 - 4. :: vom 1. Januar bis 28. Februar des Folgejahres
 
 zulÃ¤ssig (AbrufzeitrÃ¤ume). Werden Leistungen fÃ¼r LeistungszeitrÃ¤ume im folgenden Haushaltsjahr zur fristgerechten Auszahlung an den Leistungsberechtigten bereits im laufenden Haushaltsjahr erbracht, sind die entsprechenden Nettoausgaben im Abrufzeitraum 15. MÃ¤rz bis 14. Mai des Folgejahres abzurufen. Der Abruf fÃ¼r Nettoausgaben aus Vorjahren, fÃ¼r die bereits ein Jahresnachweis vorliegt, ist in den darauf folgenden Jahren nach MaÃŸgabe des Absatzes 1 jeweils nur vom 15. Juni bis 14. August zulÃ¤ssig.

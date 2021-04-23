@@ -78,7 +78,7 @@ Ausfertigungsdatum: 29.06.1998
 
 (1) Die Aufbereitung von bestimmungsgemäß keimarm oder steril zur Anwendung kommenden Medizinprodukten ist unter Berücksichtigung der Angaben des Herstellers mit geeigneten validierten Verfahren so durchzuführen, dass der Erfolg dieser Verfahren nachvollziehbar gewährleistet ist und die Sicherheit und Gesundheit von Patienten, Anwendern oder Dritten nicht gefährdet wird. Dies gilt auch für Medizinprodukte, die vor der erstmaligen Anwendung desinfiziert oder sterilisiert werden.
 (2) Eine ordnungsgemäße Aufbereitung nach Absatz 1 Satz 1 wird vermutet, wenn die gemeinsame Empfehlung der Kommission für Krankenhaushygiene und Infektionsprävention am Robert Koch-Institut und des Bundesinstitutes für Arzneimittel und Medizinprodukte zu den Anforderungen an die Hygiene bei der Aufbereitung von Medizinprodukten beachtet wird. Die Fundstelle wird vom Bundesministerium für Gesundheit im Bundesanzeiger bekannt gemacht.
-(3) Für die Aufbereitung von Medizinprodukten mit besonders hohen Anforderungen an die Aufbereitung (�Kritisch C“) gemäß der Empfehlung nach Absatz 2 ist die entsprechend dieser Empfehlung vorzunehmende Zertifizierung des Qualitätsmanagementsystems durch eine von der nach dem Dritten Abschnitt des Gesetzes über Medizinprodukte zuständigen Behörde anerkannten Stelle Voraussetzung.
+(3) Für die Aufbereitung von Medizinprodukten mit besonders hohen Anforderungen an die Aufbereitung (Kritisch C“) gemäß der Empfehlung nach Absatz 2 ist die entsprechend dieser Empfehlung vorzunehmende Zertifizierung des Qualitätsmanagementsystems durch eine von der nach dem Dritten Abschnitt des Gesetzes über Medizinprodukte zuständigen Behörde anerkannten Stelle Voraussetzung.
 (4) Der Betreiber darf mit der Aufbereitung nur Personen, Betriebe oder Einrichtungen beauftragen, die selbst oder deren Beschäftigte, die die Aufbereitung durchführen, die Voraussetzungen nach § 5 hinsichtlich der Aufbereitung des jeweiligen Medizinproduktes erfüllen. Sofern die beauftragte Person oder die Beschäftigten des beauftragten Betriebs oder der beauftragten Einrichtung nicht über eine nach § 5 erforderliche Ausbildung verfügen, kann für den Nachweis der aktuellen Kenntnis die Teilnahme an fachspezifischen Fortbildungsmaßnahmen berücksichtigt werden. Die Validierung und Leistungsbeurteilung des Aufbereitungsprozesses muss im Auftrag des Betreibers durch qualifizierte Fachkräfte, die die Voraussetzungen nach § 5 hinsichtlich der Validierung und Leistungsbeurteilung derartiger Prozesse erfüllen, erfolgen.
 
 § 9 - Qualitätssicherungssystem für medizinische Laboratorien
@@ -258,17 +258,17 @@ bzgl. einzelner Änderungen vgl. Fußnote)
 \\
 1
 Medizinprodukte, die messtechnischen Kontrollen nach § 14 Absatz 1 Satz 1 unterliegen
-�
-�
-�
-�
+
+
+
+
 Nachprüffristen in Jahren
 1.1
 Medizinprodukte zur Bestimmung der Hörfähigkeit (Ton- und Sprachaudiometer)
 1
 1.2
 Medizinprodukte zur Bestimmung von Körpertemperaturen (mit Ausnahme von Quecksilberglasthermometern mit Maximumvorrichtung)
-�
+
 1.2.1
 -
 medizinische Elektrothermometer
@@ -290,18 +290,18 @@ Medizinprodukte zur Bestimmung des Augeninnendrucks (Augentonometer)
 1.4.1
 -
 (weggefallen)
-�
+
 1.4.2
 -
 (weggefallen)
-�
+
 1.5
 Therapiedosimeter bei der Behandlung von Patienten von außen
-�
+
 1.5.1
 mit Photonenstrahlung im Energiebereich bis 1,33 MeV
-�
-�
+
+
 -
 allgemein
 2
@@ -313,7 +313,7 @@ mit Photonenstrahlung im Energiebereich ab 1,33 MeV und mit Elektronenstrahlung 
 2
 1.5.3
 mit Photonenstrahlung aus Co-60-Bestrahlungsanlagen wahlweise nach 1.5.1 oder 1.5.2
-�
+
 1.6
 Diagnostikdosimeter zur Durchführung von Mess- und Prüfaufgaben, sofern sie nicht nach § 90 der Strahlenschutzverordnung dem Mess- und Eichgesetz unterliegen
 5
@@ -322,19 +322,19 @@ Tretkurbelergometer zur definierten physikalischen und reproduzierbaren Belastun
 2
 2
 Ausnahmen von messtechnischen Kontrollen
-�
-�
+
+
 Abweichend von der Nummer 1.5.1 unterliegen keiner messtechnischen Kontrolle Therapiedosimeter, die nach jeder Einwirkung, die die Richtigkeit der Messung beeinflussen kann, sowie mindestens alle zwei Jahre in den verwendeten Messbereichen kalibriert und die Ergebnisse aufgezeichnet werden. Die Kalibrierung muss von fachkundigen Personen, die vom Betreiber bestimmt sind, mit einem Therapiedosimeter durchgeführt werden, dessen Richtigkeit entsprechend § 14 Absatz 2 sichergestellt worden ist und das bei der die Therapie durchführenden Stelle ständig verfügbar ist.
-�
+
 3
 Messtechnische Kontrollen in Form von Vergleichsmessungen
-�
+
 3.1
 Luftimpuls-Tonometer (1.4) werden nicht auf ein nationales Normal, sondern auf ein klinisch geprüftes Referenzgerät gleicher Bauart zurückgeführt. Für diesen Vergleich dürfen nur von einem nationalen Metrologieinstitut geprüfte Verfahren und Transfernormale verwendet werden.
-�
+
 3.2
 Vergleichsmessungen nach 1.5.2 werden von einer durch die zuständige Behörde beauftragten Messstelle durchgeführt.
-�
+
 
 Anlage 3 - (zu § 15 Absatz 1 und 2)
 

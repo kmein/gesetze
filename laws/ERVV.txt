@@ -110,7 +110,7 @@ Die Kapitel 2 und 3 gelten im Bereich des elektronischen Rechtsverkehrs mit Stra
 
 - 1. :: die Bezeichnung der Strafverfolgungsbehörde oder des Gerichts;
 - 2. :: sofern bekannt, das Aktenzeichen des Verfahrens oder die Vorgangsnummer;
-- 3. :: die Bezeichnung der beschuldigten Personen oder der Verfahrensbeteiligten; bei Verfahren gegen Unbekannt enthält der Datensatz anstelle der Bezeichnung der beschuldigten Personen die Bezeichnung �Unbekannt“ sowie, sofern bekannt, die Bezeichnung der geschädigten Personen;
+- 3. :: die Bezeichnung der beschuldigten Personen oder der Verfahrensbeteiligten; bei Verfahren gegen Unbekannt enthält der Datensatz anstelle der Bezeichnung der beschuldigten Personen die Bezeichnung Unbekannt“ sowie, sofern bekannt, die Bezeichnung der geschädigten Personen;
 - 4. :: die Angabe der den beschuldigten Personen zur Last gelegten Straftat oder des Verfahrensgegenstandes;
 - 5. :: sofern bekannt, das Aktenzeichen eines denselben Verfahrensgegenstand betreffenden Verfahrens und die Bezeichnung der die Akten führenden Stelle.
 

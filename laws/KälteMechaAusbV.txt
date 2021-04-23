@@ -184,7 +184,7 @@ Fügeflächen prüfen, lösbare und unlösbare Fügeverfahren für drucklose, dr
 
 14
 
-�
+
 
 2
 
@@ -198,14 +198,14 @@ Installieren von elektrotechnischen und elektronischen Anlagenteilen, Mess-, Ste
 
 10
 
-�
+
 
 - e) :: Leitungen auswählen
 - f) :: Steuerungs-, Regelungs- und Überwachungsprogramme nach betreiberspezifischer Anforderung und Herstellerangaben einstellen
 - g) :: Fehler und Störungen erkennen und beseitigen, Änderungen dokumentieren
 - h) :: Funktions- und Sicherheitsprüfungen durchführen, insbesondere Messen der elektrischen Spannungen und Ströme, Messen der Isolationswiderstände und der Schleifenimpedanz, sowie Prüfen des Drehfeldes und der Fehlerstrom-Schutzeinrichtungen, Ergebnisse dokumentieren
 
-�
+
 
 20
 
@@ -221,14 +221,14 @@ Montieren, Inbetriebnehmen und Demontieren von Anlagen, Systemen und Komponenten
 
 12
 
-�
+
 
 - e) :: Rohrleitungswege festlegen, Rohrleitungen auswählen
 - f) :: Geräte und Anlagen auf Dichtheit und Funktion prüfen, in Betrieb nehmen und Ergebnisse dokumentieren
 - g) :: Bauteile auf Wiederverwendung prüfen, verwendbare Bauteile kennzeichnen
 - h) :: nicht verwendbare Bauteile einer umweltgerechten Entsorgung zuführen
 
-�
+
 
 21
 
@@ -244,12 +244,12 @@ Durchführen von Dämm-, Korrosionsschutz- und Brandschutzmaßnahmen\\
 
 4
 
-�
+
 
 - e) :: Dämmstoffe unter Beachtung von Energieverbrauch und Anlagenleistung auswählen
 - f) :: Brandschutz ausführen, insbesondere bei Durchführungen durch Gebäudeteile
 
-�
+
 
 4
 
@@ -266,13 +266,13 @@ Instandhalten von Betriebsmitteln; Transportieren von Bauteilen, Baugruppen und 
 
 4
 
-�
+
 
 - f) :: Gefahrgut unter Beachtung geltender Vorschriften laden, sichern, transportieren und entladen
 - g) :: Anschlagmittel und Hebezeuge auf Sicht prüfen
 - h) :: Bauteile, Baugruppen und Anlagen zum Transport vorbereiten, anschlagen, sichern und transportieren
 
-�
+
 
 3
 
@@ -289,7 +289,7 @@ Anlagen und Systeme warten, insbesondere
 
 6
 
-�
+
 
 - d) :: Bauteile im Hinblick auf Einzel- und Gesamtfunktion prüfen und einstellen
 - e) :: Dichtheitsprüfung durchführen
@@ -299,7 +299,7 @@ Anlagen und Systeme warten, insbesondere
 - i) :: Schäden, Fehler und Störungen feststellen und eingrenzen, Möglichkeiten ihrer Beseitigung beurteilen, Maßnahmen zu ihrer Beseitigung vorschlagen
 - j) :: Sicherheits- und Funktionsprüfung durchführen, in Betrieb nehmen, Ergebnisse dokumentieren
 
-�
+
 
 20
 
@@ -313,7 +313,7 @@ Wiederverwenden und Entsorgen von Kältemitteln, Kühlmitteln und Kältemaschine
 - c) :: Kältemittel trocknen, filtern und wiederverwenden
 - d) :: Kältemittel, Betriebsstoffe und Kältemaschinenöle einer umweltgerechten Entsorgung oder Wiederaufbereitung zuführen
 
-�
+
 
 11
 
@@ -327,11 +327,11 @@ Optimieren von Kälte- und Klimaanlagen aus ökonomischen und ökologischen Gesi
 - c) :: Möglichkeiten zur Energieeinsparung prüfen und bewerten
 - d) :: steuerungs- und regelungstechnische Maßnahmen sowie Umrüstungen zur Energieeinsparung durchführen
 
-�
+
 
 10
 
-�
+
 
 Abschnitt B: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
 
@@ -348,7 +348,7 @@ Betriebliche, technische und kundenorientierte Kommunikation\\
 
 8
 
-�
+
 
 - f) :: Gesamt- und Explosionszeichnungen lesen und anwenden
 - g) :: Normen, Bestimmungen und Toleranzen anwenden
@@ -362,7 +362,7 @@ Betriebliche, technische und kundenorientierte Kommunikation\\
 - o) :: Kunden über technische Sachverhalte, insbesondere Betriebssicherheit und Energieeinsparung, informieren
 - p) :: Reklamationen entgegennehmen und Maßnahmen einleiten
 
-�
+
 
 6
 
@@ -376,13 +376,13 @@ Planen und Steuern von Arbeitsabläufen\\
 
 4
 
-�
+
 
 - c) :: Arbeitsabläufe nach Arbeitsauftrag und Instandhaltungsvorgaben planen und festlegen, insbesondere nach technologischen, wirtschaftlichen und ökologischen Kriterien
 - d) :: Aufgaben im Team planen und bearbeiten
 - e) :: Auftrags- und Planungsdaten mit beteiligten Gewerken abstimmen
 
-�
+
 
 2
 
@@ -397,13 +397,13 @@ Prüfen und Messen\\
 
 8
 
-�
+
 
 - d) :: Messgeräte unter Berücksichtigung ihrer Genauigkeitsklasse anwenden
 - e) :: Kennlinien aus Messdaten und Messreihen ermitteln, dokumentieren und beurteilen
 - f) :: Messeinrichtungen aufbauen, Messwerte ermitteln, Messfehler und deren Ursachen feststellen und korrigieren
 
-�
+
 
 3
 
@@ -421,14 +421,14 @@ Qualitätsmanagementsystem des Betriebes anwenden, insbesondere
 
 8
 
-�
+
 
 - e) :: Ablauf der Kundenaufträge sowie durchgeführte Qualitätskontrollen und Prüfungen dokumentieren
 - f) :: Verfahren zur kontinuierlichen Verbesserung von Arbeitsvorgängen anwenden
 - g) :: auftretende Störungen dokumentieren und Lösungen vorschlagen
 - h) :: Arbeitsergebnisse bewerten
 
-�
+
 
 4
 

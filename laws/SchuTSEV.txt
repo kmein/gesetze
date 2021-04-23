@@ -25,9 +25,9 @@ vor elektromagnetischen Störungen.
 
 Im Sinne dieser Verordnung
 
-- 1. :: ist �Betreiber“ diejenige natürliche oder juristische Person, die die rechtliche und tatsächliche Kontrolle über eine Telekommunikationsanlage oder ein Telekommunikationsnetz hat;
-- 2. :: ist �öffentliches Telekommunikationsnetz“ ein Telekommunikationsnetz im Sinne von § 3 Nr. 27 des Telekommunikationsgesetzes, das zur Bereitstellung von öffentlich zugänglichen Telekommunikationsdiensten im Sinne von § 3 Nr. 24 des Telekommunikationsgesetzes genutzt wird;
-- 3. :: sind �Störaussendungen“ von einem leitungsgeführten elektrischen Nutzsignal verursachte elektromagnetische Energieanteile, die den Leiter durch Induktion, Influenz oder Strahlungskopplung unerwünscht verlassen und den Funkverkehr störend beeinträchtigen können.
+- 1. :: ist Betreiber“ diejenige natürliche oder juristische Person, die die rechtliche und tatsächliche Kontrolle über eine Telekommunikationsanlage oder ein Telekommunikationsnetz hat;
+- 2. :: ist öffentliches Telekommunikationsnetz“ ein Telekommunikationsnetz im Sinne von § 3 Nr. 27 des Telekommunikationsgesetzes, das zur Bereitstellung von öffentlich zugänglichen Telekommunikationsdiensten im Sinne von § 3 Nr. 24 des Telekommunikationsgesetzes genutzt wird;
+- 3. :: sind Störaussendungen“ von einem leitungsgeführten elektrischen Nutzsignal verursachte elektromagnetische Energieanteile, die den Leiter durch Induktion, Influenz oder Strahlungskopplung unerwünscht verlassen und den Funkverkehr störend beeinträchtigen können.
 
 
 § 3 - Schutz von zu Sicherheitszwecken betriebenen Sende- und Empfangsfunkanlagen
@@ -129,7 +129,7 @@ Anlage 3 - (zu § 3 Abs. 1)Messvorschrift für Störaussendungen aus leitungsgeb
   Bei der Bearbeitung von Störungen sollte der erste Messort an dem Teil der Übertragungsleitung (im Innen- oder Außenbereich) liegen, der der gestörten Funkempfangseinrichtung und/oder Antenne der Störsenke am nächsten liegt.
 - 4.3.2 :: Überprüfung von TK-Anlagen und -Netzen
   Bei der Überprüfung von TK-Anlagen oder -Netzen hängt es von deren Topologie ab, wo die ersten Messungen vorzunehmen sind. Der (Die) Messort(e) sollte(n) da liegen, wo erfahrungsgemäß mit den höchsten Störaussendungen zu rechnen ist. Bei den meisten interaktiven Systemen wird dies z. B. an den Enden der Übertragungsleitung, am Ort ggf. eingesetzter Zwischenverstärker oder an Stoß- oder Leckstellen im Übertragungsweg sein.
-  Zur Bestimmung der charakteristischen Signalform ist die Messung des Nutzsignals bei geeignetem Störabstand notwendig. Um einen solchen �Fingerabdruck“ des Signals zu erhalten, eignet sich die Messung des leitungsgeführten Stroms an einer zugänglichen Stelle (vgl. Abschnitt 4.2).
+  Zur Bestimmung der charakteristischen Signalform ist die Messung des Nutzsignals bei geeignetem Störabstand notwendig. Um einen solchen Fingerabdruck“ des Signals zu erhalten, eignet sich die Messung des leitungsgeführten Stroms an einer zugänglichen Stelle (vgl. Abschnitt 4.2).
 - 4.4 :: Messentfernung
 - 4.4.1 :: Überprüfung von TK-Anlagen und -Netzen
   Für Messungen im Innen- und Außenbereich beträgt die Messentfernung d = 3 m (Normentfernung). Diese Entfernung ist der Abstand zwischen dem Bezugspunkt der Messantenne und dem nächstgelegenen Teil des TK-Netzes. Überprüfungen von TK-Anlagen und -Netzen werden in der Regel vor dem Gebäude im Außenbereich durchgeführt. In speziellen Fällen (z. B. Hochhäuser) kann aber davon abgewichen werden.
@@ -184,7 +184,7 @@ Anlage 3 - (zu § 3 Abs. 1)Messvorschrift für Störaussendungen aus leitungsgeb
 - 5.2.1.1 :: Messung in 3 m Messentfernung (Normentfernung)
   Die Rahmenantenne ist auf einem Stativ in 1 m Höhe zur Rahmenunterkante an dem Ort aufzustellen, an dem zuvor die höchste Störfeldstärke gemessen wurde. Hierbei ist der vorgeschriebene Messabstand zum TK-Netz einzuhalten.
   Nach Einstellung des Messempfängers auf die jeweilige Frequenz und die erforderliche Detektorart ist die Rahmenantenne entweder so auszurichten, dass der höchste Anzeigewert für das Signal des TK-Netzes erreicht wird, oder es ist in den orthogonalen Richtungen X,Y und Z zu messen und effektive Feldstärke nachträglich zu berechnen.
-  Das Messen magnetischer Felder, die von TK-Netzen im Frequenzbereich bis 30 MHz erzeugt werden, kann durch das Vorhandensein zahlreicher Nutzaussendungen von Funkdiensten mit hohen Pegeln erschwert werden. Damit das Hintergrundrauschen und eventuelle Fremdsignale den in Anhang 1 genannten Grenzwert nicht überschreiten, müssen in den Lücken zwischen den Funkaussendungen Frequenzbereiche mit geringen Feldstärken gefunden werden. Bei der Suche dieser �ruhigen“ Frequenzbereiche sollte die Position der Antenne nicht verändert und das TK-Netz am besten abgeschaltet werden.
+  Das Messen magnetischer Felder, die von TK-Netzen im Frequenzbereich bis 30 MHz erzeugt werden, kann durch das Vorhandensein zahlreicher Nutzaussendungen von Funkdiensten mit hohen Pegeln erschwert werden. Damit das Hintergrundrauschen und eventuelle Fremdsignale den in Anhang 1 genannten Grenzwert nicht überschreiten, müssen in den Lücken zwischen den Funkaussendungen Frequenzbereiche mit geringen Feldstärken gefunden werden. Bei der Suche dieser ruhigen“ Frequenzbereiche sollte die Position der Antenne nicht verändert und das TK-Netz am besten abgeschaltet werden.
   Ist die Abschaltung des Netzes nicht möglich, stehen folgende Möglichkeiten zur Verfügung:
   - -- :: Ausrichtung der Rahmenantenne so, dass eine minimale Kopplung zur Aussendung des Netzes besteht, und Überprüfung, ob das Hintergrundrauschen sowie eventuelle Fremdsignale unter dem in Anlage 2 genannten Grenzwert liegen.
   - -- :: Ausrichtung der Rahmenantenne so, dass maximale Kopplung besteht; anschließend Erhöhung der Messentfernung und Überprüfung, ob sich die gemessene Feldstärke entsprechend verringert.
@@ -256,7 +256,7 @@ Anlage 3 - (zu § 3 Abs. 1)Messvorschrift für Störaussendungen aus leitungsgeb
   | E_{Stör} = u_{E} + a_{K} + K | (6.2)   |
   |                              |         |
 
-   �
+   
   Hierbei sind:
   - -- E_{Stör}: :: der errechnete Störfeldstärkepegel in dB(µV/m)
   - -- u_{E}: :: der gemessene Spannungspegel in dB(µV) am Antenneneingang des Messempfängers (an 50 Ohm)
@@ -275,7 +275,7 @@ Anlage 3 - (zu § 3 Abs. 1)Messvorschrift für Störaussendungen aus leitungsgeb
   | d ≥ 4· λ | (7.1)   |
   |          |         |
 
-   �
+   
   oder wenn die Messentfernung d≥ 30 m ist. (Für einen großen Teil praktisch auftretender Fälle ist bereits die Erfüllung der Bedingung d ≥ λ ausreichend.)
 - 7.3 :: Standort der Messantenne
   Die Messung der Störstrahlungsleistung muss nach Abschnitt 7.2 im Fernfeld erfolgen. Unter Beachtung dieser Bedingung wird zur Messung der Störaussendungen eines TK-Netzes (und der dann von der Substitutionsantenne nachzubildenden äquivalenten Aussendung) der Ort gewählt, an dem zuvor nach Abschnitt 4.3 die höchste Störfeldstärke festgestellt wurde.
@@ -301,7 +301,7 @@ Anlage 3 - (zu § 3 Abs. 1)Messvorschrift für Störaussendungen aus leitungsgeb
   Der effektive Störstrahlungsleistungspegel wird nach Gleichung (7.2) errechnet:
   | p_{U} = u_{S} -- a_{S} -- a_{c} -- c_{r} + G_{D} + 4 dB | (7.2) |
 
-     �
+     
   Hierbei sind:
   - -- p_{U}: :: der errechnete Störstrahlungsleistungspegel in dB(pW)
   - --u_{S}: :: der Spannungspegel am Messsenderausgang in dB(µV) an 50 Ohm
@@ -359,7 +359,7 @@ Hierbei sind:
 - -- E_{Stör}: :: der gemessene Störfeldstärkepegel in dB(µV/m)
 - -- E_{korr}: :: der korrigierte Störfeldstärkepegel in dB(µV/m), der mit dem zutreffenden Grenzwert verglichen wird
 
-Für den Fall, dass aufgrund von hohen Umgebungsfeldstärken der Nachweis der Einhaltung der in Anlage 2 genannten Grenzwerte dieser Verordnung praktisch nicht möglich ist, kann der Grenzwert für den zulässigen asymmetrischen Störstrom als �sekundärer“ Grenzwert herangezogen werden.
+Für den Fall, dass aufgrund von hohen Umgebungsfeldstärken der Nachweis der Einhaltung der in Anlage 2 genannten Grenzwerte dieser Verordnung praktisch nicht möglich ist, kann der Grenzwert für den zulässigen asymmetrischen Störstrom als sekundärer“ Grenzwert herangezogen werden.
 [[../normengrafiken/bgbl1_2009/j1060-1_0080.jpg]]
 [[../normengrafiken/bgbl1_2009/j1060-1_0090.pdf][PDF-Dokument wird in eigenem Fenster angezeigt]]
 [[../normengrafiken/bgbl1_2009/j1060-1_0100.pdf][PDF-Dokument wird in eigenem Fenster angezeigt]]
@@ -443,7 +443,7 @@ Bei einer Überlagerung von Störaussendungen mit Signalen aus der Umgebung komm
 - 3. :: Das Amplitudenverhältnis d zwischen den ermittelten Pegeln ist zu berechnen:
   | d = E_{r} -- E_{a} | (A.4.1)   |
 
-   �
+   
 
 Das Amplitudenverhältnis d repräsentiert die durch die Überlagerung der Signale resultierende Überhöhung der Messwertanzeige.
 
@@ -451,7 +451,7 @@ Die überhöhte Messwertanzeige wird korrigiert, indem der mit Hilfe des im Bild
 
 | E_{i} = E_{r} -- i |  (A.4.2)   |
 
-�
+
 
 Der so korrigierte Pegelwert der Messwertanzeige ist als Messergebnis im Messprotokoll festzuhalten.\\
 \\

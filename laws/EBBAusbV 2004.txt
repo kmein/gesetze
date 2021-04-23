@@ -276,17 +276,17 @@ Betriebliche und technische Kommunikation, Kundenkommunikation\\
 
 4*)
 
-†
 
-†
+
+
 
 - g) :: Informationsbed√ºrfnisse von Kunden erkennen, Kunden im Regelbetrieb und bei Leistungsst√∂rungen zielgruppengerecht informieren und L√∂sungen anbieten
 - h) :: Reklamationen und Beschwerden entgegennehmen und weiterleiten, Beteiligte informieren
 - i) :: fremdsprachige Standardtexte anwenden
 
-†
 
-†
+
+
 
 6*)
 
@@ -301,20 +301,20 @@ Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse\\
 
 4*)
 
-†
 
-†
+
+
 
 - d) :: Arbeitsabl√§ufe und Teilaufgaben unter Beachtung rechtlicher, wirtschaftlicher und terminlicher Vorgaben planen, bei Abweichungen von der Planung Priorit√§ten setzen
 - e) :: Kosten vergleichen, Probleml√∂sungstechniken anwenden
 - f) :: Einfl√ºsse von Arbeitssituationen, Arbeitsumgebung und Arbeitsverhalten der Beteiligten auf Arbeitsergebnisse ber√ºcksichtigen
 - g) :: Qualifikationsdefizite feststellen, Qualifizierungsm√∂glichkeiten nutzen sowie unterschiedliche Lerntechniken anwenden
 
-†
+
 
 4*)
 
-†
+
 
 7
 
@@ -332,20 +332,20 @@ Eisenbahnbetrieb\\
 
 4
 
-†
 
-†
+
+
 
 - i) :: Ma√ünahmen bei betriebsgef√§hrdenden Situationen, insbesondere Einschr√§nkungen des Lichtraumprofils, Unbefahrbarkeit von Gleisen und Weichen sowie Personen im Gleis, ergreifen
 - k) :: Ma√ünahmen bei Unf√§llen ergreifen, insbesondere Rettungskonzepte umsetzen, Hilfsma√ünahmen einleiten, Zug- und Rangierfahrten anhalten, Unfallstellen sichern, Unf√§lle melden, Beweise sichern, Reisende beim Aussteigen auf freier Strecke und bei Unf√§llen betreuen
 - l) :: Ma√ünahmen beim Freiwerden gef√§hrlicher Stoffe ergreifen
 - m) :: Zugfahrten beobachten, Ma√ünahmen bei Unregelm√§√üigkeiten ergreifen
 
-†
+
 
 6
 
-†
+
 
 8
 
@@ -359,9 +359,9 @@ Begleiten von Triebfahrzeugen\\
 
 8
 
-†
 
-†
+
+
 
 9
 
@@ -383,9 +383,9 @@ Rangieren\\
 
 12
 
-†
 
-†
+
+
 
 10
 
@@ -400,9 +400,9 @@ Bilden von Z√ºgen\\
 
 8
 
-†
 
-†
+
+
 
 11
 
@@ -417,9 +417,9 @@ Pr√ºfen von Wagen\\
 
 12
 
-†
 
-†
+
+
 
 12
 
@@ -430,11 +430,11 @@ Pr√ºfen von Bremsen\\
 - b) :: Ma√ünahmen bei Nichterreichen der vorgegebenen Bremsverh√§ltnisse ergreifen
 - c) :: Bremsproben durchf√ºhren, Ma√ünahmen bei Unregelm√§√üigkeiten einleiten
 
-†
+
 
 10
 
-†
+
 
 13
 
@@ -446,11 +446,11 @@ Aufsicht am Zug\\
 - c) :: Ma√ünahmen bei Unregelm√§√üigkeiten, insbesondere bei Halt aus unvorhergesehenem Anlass, ergreifen
 - d) :: Abschlussarbeiten nach Beendigung der Fahrt durchf√ºhren
 
-†
+
 
 6
 
-†
+
 
 14
 
@@ -461,9 +461,9 @@ Leiten des Fahrdienstes\\
 - b) :: fahrdienstliche Bedingungen f√ºr Zugfahrten pr√ºfen, Zustimmung erteilen
 - c) :: Zugfahrten auf ordnungsgem√§√üen Verlauf pr√ºfen
 
-†
 
-†
+
+
 
 8
 
@@ -482,9 +482,9 @@ Logistische Prozesse und Qualit√§tsmanagement\\
 - h) :: Soll-Ist-Vergleiche mit Planungsdaten durchf√ºhren, Arbeitsergebnisse und -durchf√ºhrungen hinsichtlich Wirtschaftlichkeit und Qualit√§t bewerten
 - i) :: zur kontinuierlichen Verbesserung von Arbeitsvorg√§ngen im eigenen Arbeitsbereich beitragen
 
-†
 
-†
+
+
 
 12*)
 
@@ -522,11 +522,11 @@ a)
 
 Verst√§ndigungen durchf√ºhren
 
-†
 
-†
 
-†
+
+
+
 
 4
 
@@ -546,11 +546,11 @@ a)
 
 Verst√§ndigung √ºber Zug- und Kleinwagenfahrten, insbesondere Zugmeldeverfahren, durchf√ºhren
 
-†
 
-†
 
-†
+
+
+
 
 16
 
@@ -574,11 +574,11 @@ a)
 
 Fahrten entgegen der gew√∂hnlichen Fahrtrichtung durchf√ºhren
 
-†
 
-†
 
-†
+
+
+
 
 12
 
@@ -602,7 +602,7 @@ f)
 
 Ma√ünahmen bei gefahrdrohenden Umst√§nden und Unregelm√§√üigkeiten im Bahnbetrieb ergreifen, insbesondere
 
-†
+
 
 aa)
 
@@ -632,11 +632,11 @@ a)
 
 technische Unregelm√§√üigkeiten erkennen und Ma√ünahmen zur Beseitigung einleiten
 
-†
 
-†
 
-†
+
+
+
 
 12
 
@@ -644,7 +644,7 @@ b)
 
 Zugfahrten bei technischen Unregelm√§√üigkeiten durchf√ºhren, insbesondere
 
-†
+
 
 aa)
 
@@ -682,15 +682,15 @@ a)
 
 Ma√ünahmen zur Gefahrenabwehr f√ºr den Zugbetrieb treffen, insbesondere
 
-†
 
-†
 
-†
+
+
+
 
 8
 
-†
+
 
 aa)
 
@@ -752,11 +752,11 @@ a)
 
 Vorbereitungs- und Abschlussarbeiten durchf√ºhren
 
-†
 
-†
 
-†
+
+
+
 
 12
 
@@ -764,7 +764,7 @@ b)
 
 Triebfahrzeuge und deren Teilsysteme, insbesondere
 
-†
+
 
 aa)
 
@@ -790,7 +790,7 @@ ff)
 
 Kommunikations- und Sicherheitseinrichtungen
 
-†
+
 
 auf Funktion, Sch√§den und M√§ngel pr√ºfen
 
@@ -814,11 +814,11 @@ a)
 
 Z√ºge und Rangiereinheiten in Abh√§ngigkeit von der Bauart mit unterschiedlichen Anh√§ngelasten und Reibwerten unter Beachtung des Materialverschlei√ües, des Energieverbrauchs und der Kundenakzeptanz anfahren, beschleunigen, bremsen und anhalten
 
-†
 
-†
 
-†
+
+
+
 
 16
 
@@ -850,11 +850,11 @@ a)
 
 Zug- und Rangierfahrten durchf√ºhren
 
-†
 
-†
 
-†
+
+
+
 
 12
 
@@ -882,11 +882,11 @@ a)
 
 Zugfahrten bei Abweichungen vom Regelbetrieb und bei St√∂rungen durchf√ºhren, insbesondere Fahrten ohne Hauptsignal, ohne Signalbedienung und gegen die gew√∂hnliche Fahrtrichtung sowie Sperrfahrten
 
-†
 
-†
 
-†
+
+
+
 
 12
 

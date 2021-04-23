@@ -34,7 +34,7 @@ in Deutschland, soweit nachfolgend nichts Abweichendes bestimmt ist. Sie regelt 
   - a) :: Beförderungen auf allen schiffbaren Binnengewässern die Vorschriften der Teile 1 bis 9 der Anlage zu dem Europäischen Übereinkommen über die internationale Beförderung von gefährlichen Gütern auf Binnenwasserstraßen (ADN) vom 26. Mai 2000 (BGBl. 2007 II S. 1906, 1908), die zuletzt nach Maßgabe der 8. ADN-Änderungsverordnung vom 23. November 2020 (BGBl. 2020 II S. 1035) geändert worden ist, sowie die Vorschriften der Anlage 2 Nummer 5,
   - b) :: Beförderungen auf dem Rhein zusätzlich die von der Zentralkommission für die Rheinschifffahrt am 3. Dezember 2009 beschlossenen Bestimmungen in Anlage 2 Nummer 6.
 
-(4) Für die Anwendung der Teile 1 bis 9 ADR/ADN und der Teile 1 bis 7 RID gilt für innerstaatliche und innergemeinschaftliche Beförderungen anstelle des Begriffes �Vertragspartei“ jeweils der Begriff �Mitgliedstaat“.
+(4) Für die Anwendung der Teile 1 bis 9 ADR/ADN und der Teile 1 bis 7 RID gilt für innerstaatliche und innergemeinschaftliche Beförderungen anstelle des Begriffes Vertragspartei“ jeweils der Begriff Mitgliedstaat“.
 (5) Die in dieser Verordnung für die Teile 4 und 6 ADR/RID getroffenen Regelungen sind nach Maßgabe der Abschnitte 4.1.1 bis 4.1.4 und 6.1.1 bis 6.1.6 ADN auch für die Binnenschifffahrt anzuwenden.
 
 § 2 - Begriffsbestimmungen
@@ -247,7 +247,7 @@ Das Bundesamt für die Sicherheit der nuklearen Entsorgung ist zuständige Behö
   - c) :: faserverstärkten Kunststofftanks (FVK-Tanks) nach Kapitel 6.9 ADR/RID;
 - 3. :: Aufgaben nach den Absätzen 4.3.3.2.5, 6.7.2.6.3, 6.7.2.10.1, 6.7.2.19.10, 6.7.3.15.10, 6.8.2.2.10, 6.8.3.4.4, 6.8.3.4.7 und 6.8.3.4.8, Abschnitt 6.8.4 Buchstabe b und d Sondervorschrift TT 2 und TT 7 -- jeweils im Einvernehmen mit der Bundesanstalt für Materialforschung und -prüfung -- sowie nach Absatz 6.8.5.2.2 und die Überprüfung und Bestätigung der Befähigung des Herstellers oder der Wartungs- oder Reparaturwerkstatt für die Ausführung von Schweißarbeiten und den Betrieb eines Qualitätssicherungssystems für Schweißarbeiten sowie die Anordnung zusätzlicher Prüfungen nach Absatz 6.8.2.1.23 ADR/RID;
 - 4. :: die Prüfung der elektrischen Ausrüstung für die Bedienungsausrüstung der Tanks nach den Abschnitten 9.2.2 und 9.7.8 ADR vor Inbetriebnahme der Tanks nach Absatz 6.8.2.4.1 ADR und bei der Prüfung der Tanks nach den Absätzen 6.8.2.4.2 und 6.8.2.4.4 ADR sowie für nicht vorgeschriebene informelle Änderungen oder Ergänzungen in Nummer 11 von ADR-Zulassungsbescheinigungen nach Unterabschnitt 9.1.3.1 ADR;
-- 5. :: die Baumusterprüfung und die getrennte Baumusterzulassung von Bedienungsausrüstungen für Tanks nach Absatz 6.8.2.3.1 Satz 9, für die in der Tabelle in Absatz 6.8.2.6.1 eine Norm aufgeführt ist; für die getrennte Baumusterzulassung sind die Verfahren anzuwenden, die in Abschnitt 1.8.7 vorgeschrieben sind; dabei darf ein betriebseigener Prüfdienst nach Unterabschnitt 1.8.7.6 in Verbindung mit Absatz 1.8.7.7.5 nur für die Überwachung der Herstellung der Bedienungsausrüstungen nach Unterabschnitt 1.8.7.3 und deren erstmalige Prüfung nach Unterabschnitt 1.8.7.4 genehmigt werden, nicht jedoch für die Baumusterzulassung nach Unterabschnitt 1.8.7.2 und die wiederkehrende Prüfung nach Unterabschnitt 1.8.7.5; die Bemerkung zur Begriffsbestimmung �Antragsteller“ nach Abschnitt 1.2.1 ADR/RID ist für diese Vorschrift nicht anwendbar und
+- 5. :: die Baumusterprüfung und die getrennte Baumusterzulassung von Bedienungsausrüstungen für Tanks nach Absatz 6.8.2.3.1 Satz 9, für die in der Tabelle in Absatz 6.8.2.6.1 eine Norm aufgeführt ist; für die getrennte Baumusterzulassung sind die Verfahren anzuwenden, die in Abschnitt 1.8.7 vorgeschrieben sind; dabei darf ein betriebseigener Prüfdienst nach Unterabschnitt 1.8.7.6 in Verbindung mit Absatz 1.8.7.7.5 nur für die Überwachung der Herstellung der Bedienungsausrüstungen nach Unterabschnitt 1.8.7.3 und deren erstmalige Prüfung nach Unterabschnitt 1.8.7.4 genehmigt werden, nicht jedoch für die Baumusterzulassung nach Unterabschnitt 1.8.7.2 und die wiederkehrende Prüfung nach Unterabschnitt 1.8.7.5; die Bemerkung zur Begriffsbestimmung Antragsteller“ nach Abschnitt 1.2.1 ADR/RID ist für diese Vorschrift nicht anwendbar und
 - 6. :: - a) :: die Prüfung zur Zulassung einer Änderung nach den Absätzen 1.8.7.2.5 und 6.8.2.3.4 ADR/RID und
   - b) :: die Bescheinigung über die Zulassung einer Änderung nach Absatz 1.8.7.2.5 ADR/RID.
 
@@ -317,8 +317,8 @@ Einzelheiten zu Satz 1 Nummer 1 bis 3 können die Industrie- und Handelskammern 
 
 (1) Die Physikalisch-Technische Bundesanstalt ist zuständige Behörde für
 
-- 1. :: die Typzulassung von Flammendurchschlagsicherungen nach Absatz 1.6.7.2.2.2 ADN (Übergangsvorschrift zur Begriffsbestimmung �Flammendurchschlagsicherung“), von Hochgeschwindigkeitsventilen nach Absatz 1.6.7.2.2.2 ADN (Übergangsvorschrift zur Begriffsbestimmung �Hochgeschwindigkeitsventil“), von Deflagrationssicherheit der Probeentnahmeöffnung nach Absatz 1.6.7.2.2.2 ADN (Übergangsvorschrift zur Begriffsbestimmung �Probeentnahmeöffnung“), von Deflagrationssicherheit der Vorrichtung zum gefahrlosen Entspannen von Ladetanks nach Absatz 1.6.7.2.2.2 ADN (Übergangsvorschrift zur Begriffsbestimmung �Vorrichtung zum gefahrlosen Entspannen von Ladetanks“) und von Unterdruckventilen nach Absatz 1.6.7.2.2.2 ADN (Übergangsvorschrift zur Begriffsbestimmung �Unterdruckventil-Deflagrationssicherheit“) sowie
-- 2. :: den Erlass von Vorschriften für den Öffnungsdruck von Sicherheitsventilen von Drucktanks nach Abschnitt 1.2.1 ADN Begriffsbestimmung �Öffnungsdruck“.
+- 1. :: die Typzulassung von Flammendurchschlagsicherungen nach Absatz 1.6.7.2.2.2 ADN (Übergangsvorschrift zur Begriffsbestimmung Flammendurchschlagsicherung“), von Hochgeschwindigkeitsventilen nach Absatz 1.6.7.2.2.2 ADN (Übergangsvorschrift zur Begriffsbestimmung Hochgeschwindigkeitsventil“), von Deflagrationssicherheit der Probeentnahmeöffnung nach Absatz 1.6.7.2.2.2 ADN (Übergangsvorschrift zur Begriffsbestimmung Probeentnahmeöffnung“), von Deflagrationssicherheit der Vorrichtung zum gefahrlosen Entspannen von Ladetanks nach Absatz 1.6.7.2.2.2 ADN (Übergangsvorschrift zur Begriffsbestimmung Vorrichtung zum gefahrlosen Entspannen von Ladetanks“) und von Unterdruckventilen nach Absatz 1.6.7.2.2.2 ADN (Übergangsvorschrift zur Begriffsbestimmung Unterdruckventil-Deflagrationssicherheit“) sowie
+- 2. :: den Erlass von Vorschriften für den Öffnungsdruck von Sicherheitsventilen von Drucktanks nach Abschnitt 1.2.1 ADN Begriffsbestimmung Öffnungsdruck“.
 
 (2) Die Generaldirektion Wasserstraßen und Schifffahrt ist zuständige Behörde für
 
@@ -326,7 +326,7 @@ Einzelheiten zu Satz 1 Nummer 1 bis 3 können die Industrie- und Handelskammern 
 - 2. :: die Anerkennung und Überwachung der Schulungen und Prüfungen nach Unterabschnitt 8.2.2.6 sowie die Anerkennung von Dokumenten nach den Unterabschnitten 8.2.1.9 und 8.2.1.10 ADN;
 - 3. :: die Zulassung von Personen zur Prüfung
   - a) :: der Isolationswiderstände und der Erdung der festinstallierten elektrischen Anlagen und Geräte nach Unterabschnitt 8.1.7.1 ADN und
-  - b) :: der Anlagen und Geräte zum Einsatz in explosionsgefährdeten Bereichen, der Geräte vom Typ �begrenzte Explosionsgefahr“, der Anlagen und Geräte, die den Unterabschnitten 9.3.1.51, 9.3.2.51 und 9.3.3.51 entsprechen, sowie der autonomen Schutzsysteme oder der Übereinstimmung von Unterlagen mit den Gegebenheiten an Bord nach Unterabschnitt 8.1.7.2 ADN;
+  - b) :: der Anlagen und Geräte zum Einsatz in explosionsgefährdeten Bereichen, der Geräte vom Typ begrenzte Explosionsgefahr“, der Anlagen und Geräte, die den Unterabschnitten 9.3.1.51, 9.3.2.51 und 9.3.3.51 entsprechen, sowie der autonomen Schutzsysteme oder der Übereinstimmung von Unterlagen mit den Gegebenheiten an Bord nach Unterabschnitt 8.1.7.2 ADN;
 - 4. :: die Zulassung von Personen für die Nachprüfung und Untersuchung der Feuerlöschgeräte, der Feuerlöschschläuche und der Lade- und Löschschläuche nach den Unterabschnitten 8.1.6.1 und 8.1.6.2 ADN;
 - 5. :: die Feststellung, ob elektrische Geräte, Mess-, Regel- und Alarmeinrichtungen und Motoren gemäß Absatz 1.6.7.2.2.2 (Übergangsvorschrift zu den Absätzen 9.3.1.53.1, 9.3.2.53.1 und 9.3.3.53.1 ADN) hinsichtlich ihrer Betriebssicherheit in explosionsfähiger Atmosphäre geprüft und zugelassen sind;
 - 6. :: das Eintragen eines Sichtvermerkes in die Unterlagen zu den elektrischen Betriebsmitteln nach Absatz 1.6.7.2.2.2 (Übergangsvorschrift zu Unterabschnitt 8.1.2.3 Buchstabe r, s, t und v ADN) und das Eintragen eines Sichtvermerkes in die an Bord mitzuführenden Dokumente nach den Unterabschnitten 8.1.2.2 und 8.1.2.3 ADN;
@@ -942,7 +942,7 @@ Die Besatzung sowie alle sonstigen an Bord befindlichen Personen haben den Anwei
 - 1. :: die gesamte Beförderungsstrecke im Geltungsbereich dieser Verordnung mehr als 400 Kilometer beträgt und
 - 2. :: die Beförderung auf dem größeren Teil der Strecke mit der Eisenbahn oder dem Schiff durchgeführt werden kann.
 
-In diesem Fall hat der Beförderer vor Beginn der Beförderung im Beförderungspapier die Bezeichnung der Bahnhöfe oder Hafenanlagen anzugeben, die er für die Beförderung in Anspruch nimmt, und zusätzlich zu vermerken �Beförderung nach § 35 Absatz 2 GGVSEB“.
+In diesem Fall hat der Beförderer vor Beginn der Beförderung im Beförderungspapier die Bezeichnung der Bahnhöfe oder Hafenanlagen anzugeben, die er für die Beförderung in Anspruch nimmt, und zusätzlich zu vermerken Beförderung nach § 35 Absatz 2 GGVSEB“.
 
 (3) Eine Pflicht zur Verlagerung nach den Absätzen 1 und 2 besteht nicht, wenn die Entfernung auf dem Eisenbahn- oder Wasserweg mindestens doppelt so groß ist wie die tatsächliche Entfernung auf der Straße. Im multimodalen Verkehr ist die Entfernung im Vor- und Nachlauf auf der Straße mit einzubeziehen.
 (4) Sofern die Bedingungen für eine Verlagerung nach Absatz 1 Nummer 1 und 2 und Absatz 2 Satz 1 Nummer 2 nicht vorliegen und deshalb eine Beförderung auf der Straße durchgeführt werden soll, ist hierfür eine schriftliche oder elektronische Bescheinigung erforderlich. Die Bescheinigung wird für den jeweiligen Verkehrsträger auf Antrag durch das Eisenbahn-Bundesamt oder die Generaldirektion Wasserstraßen und Schifffahrt ausgestellt. Diese Bescheinigung kann widerruflich erteilt, befristet und mit Auflagen versehen werden, soweit dies erforderlich ist, um die Einhaltung der gefahrgutbeförderungsrechtlichen Vorschriften sicherzustellen. Der Beförderer hat dafür zu sorgen, dass die Bescheinigung nach Satz 1 dem Fahrzeugführer vor Beförderungsbeginn übergeben wird. Der Fahrzeugführer muss die Bescheinigung während der Beförderung mitführen und zuständigen Personen auf Verlangen zur Prüfung aushändigen.
@@ -989,7 +989,7 @@ explosive Stoffe und Gegenstände mit Explosivstoff
 § 35 und § 35a
 nicht zulässig
 1 000 kg Nettoexplosivstoffmasse
-�
+
 1.5
 explosive Stoffe und Gegenstände mit Explosivstoff
 § 35 und § 35a
@@ -1033,7 +1033,7 @@ desensibilisierte explosive Stoffe der UN-Nummern 3364, 3365, 3367 und 3368
 § 35 und § 35a
 nicht zulässig
 1 000 kg Nettomasse
-�
+
 7
 4.2
 UN-Nummer 3394
@@ -1085,7 +1085,7 @@ Die angegebenen Mengen beziehen sich auf die Beförderungseinheit. Werden versch
 (3) § 35a gilt nicht für Beförderungen von entzündbaren flüssigen Stoffen nach § 35b Tabelle laufende Nummer 4, sofern die Beförderungen in
 
 - 1. :: nicht wanddickenreduzierten zylindrischen Tanks nach Kapitel 6.7 oder 6.8 ADR, die nach einem Berechnungsdruck von mindestens 0,4 Mega-Pascal (4 Bar) bemessen sind oder mit einem Prüfdruck von mindestens 0,4 Mega-Pascal (4 Bar) geprüft sind,
-- 2. :: Tanks, deren Sicherheitsniveau um 50 Prozent höher ist, als das eines Tanks aus Baustahl nach Absatz 6.8.2.1.18 ADR (Nummer 12 in Bild 21 des Forschungsberichts 203 �Sicherheitsniveaus von Transporttanks für Gefahrgut“<<FnR.f805931_02>>[[#f805931_02][1]]} und Bekanntmachung zur Anwendung des Forschungsberichts 203<<FnR.f805931_03>>[[#f805931_03][2]]} ), wenn die Kenngröße f_{3} zur Ermittlung der Risikozahl mindestens 0,5 beträgt und das Sicherheitsniveau von der nach § 12 für die Baumusterprüfung zuständigen Stelle bescheinigt wurde,
+- 2. :: Tanks, deren Sicherheitsniveau um 50 Prozent höher ist, als das eines Tanks aus Baustahl nach Absatz 6.8.2.1.18 ADR (Nummer 12 in Bild 21 des Forschungsberichts 203 Sicherheitsniveaus von Transporttanks für Gefahrgut“<<FnR.f805931_02>>[[#f805931_02][1]]} und Bekanntmachung zur Anwendung des Forschungsberichts 203<<FnR.f805931_03>>[[#f805931_03][2]]} ), wenn die Kenngröße f_{3} zur Ermittlung der Risikozahl mindestens 0,5 beträgt und das Sicherheitsniveau von der nach § 12 für die Baumusterprüfung zuständigen Stelle bescheinigt wurde,
 - 3. :: Doppelwandtanks nach Absatz 6.8.2.1.20 Buchstabe b Nummer 2 und 3 linke Spalte oder
 - 4. :: Doppelwandtanks nach Absatz 6.8.2.1.20 rechte Spalte, in Aufsetztanks nach Absatz 6.8.2.1.20 Buchstabe b letzter Satz linke Spalte oder in Saug-Druck-Tanks für Abfälle nach Kapitel 6.10 ADR
 
@@ -1432,7 +1432,7 @@ Anlage 2 - Einschränkungen aus Gründen der Sicherheit der Beförderung gefähr
   - c) :: Für die Anwendung des Buchstaben c gilt folgende Regelung:
     - aa) :: Bei explosiven Stoffen der Klasse 1 Unterklasse 1.1 bis 1.4 darf die Gesamtnettoexplosivstoffmasse je Beförderungseinheit/Wagen 3 kg nicht überschreiten. Bei Gegenständen mit Explosivstoff der Klasse 1 Unterklasse 1.1 bis 1.3 darf die Bruttomasse je Beförderungseinheit/Wagen 5 kg und bei Unterklasse 1.4 50 kg nicht überschreiten. Selbstzersetzliche feste und flüssige Stoffe, desensibilisierte explosive feste Stoffe und mit selbstzersetzlichen Stoffen verwandte Stoffe der Klasse 4.1, Stoffe der Klasse 4.2 und Stoffe der Klasse 4.3, jeweils Verpackungsgruppe I und II, Stoffe der Klasse 5.1 Verpackungsgruppe I und Stoffe der Klasse 5.2 dürfen je Stoff 1 kg Nettomasse nicht überschreiten.
     - bb) :: Für die Beförderung nach Unterabschnitt 1.1.3.1 Buchstabe c ADR/RID müssen zusätzlich folgende Vorschriften eingehalten werden:
-      - -- :: Die �Allgemeinen Verpackungsvorschriften“ nach den Unterabschnitten 4.1.1.1, 4.1.1.2, 4.1.1.6 und 4.1.1.7 ADR/RID sind zu beachten.
+      - -- :: Die Allgemeinen Verpackungsvorschriften“ nach den Unterabschnitten 4.1.1.1, 4.1.1.2, 4.1.1.6 und 4.1.1.7 ADR/RID sind zu beachten.
       - -- :: Für Stoffe und Gegenstände der Klasse 2 gelten die allgemeinen Verpackungsvorschriften nach Unterabschnitt 4.1.6.8 ADR/RID.
 - 2.2 :: Regelung zu den Übergangsvorschriften nach den Unterabschnitten 1.6.3.4 und 1.6.3.5 ADR/RID:
   - a) :: Die Randnummern 211 184, 211 185 Satz 1 und die Randnummer 211 186 in der für innerstaatliche Beförderungen geltenden Fassung der Gefahrgutverordnung Straße in der Fassung der Bekanntmachung vom 18. Juli 1995 (BGBl. I S. 1025) und
@@ -1648,7 +1648,7 @@ Anlage 3 - (zu § 36b)Festlegung der Anforderungen für besonders ausgerüstete 
 - 4.5 :: Außerordentliche Prüfung der Tiegel
   Wenn die Sicherheit der Tiegel durch Ausbesserung, Umbau oder Unfall beeinträchtigt sein kann, ist eine außerordentliche Prüfung durch eine Stelle nach § 12 der GGVSEB in entsprechender Anwendung des Absatzes 6.8.2.4.4 ADR/RID durchzuführen.
 - 4.6 :: Kennzeichnung der Tiegel
-  Die Tiegel sind in entsprechender Anwendung des Absatzes 6.8.2.5.1 ADR/RID auf einem Tiegelschild zu kennzeichnen (Kennzeichnung für die Prüfung nach Absatz 6.8.2.4.1 und 6.8.2.4.2 ADR/RID mit �P“, für die Prüfung nach Absatz 6.8.2.4.3 ADR/RID mit �L“).
+  Die Tiegel sind in entsprechender Anwendung des Absatzes 6.8.2.5.1 ADR/RID auf einem Tiegelschild zu kennzeichnen (Kennzeichnung für die Prüfung nach Absatz 6.8.2.4.1 und 6.8.2.4.2 ADR/RID mit P“, für die Prüfung nach Absatz 6.8.2.4.3 ADR/RID mit L“).
 - 4.7 :: Führen einer Tiegelakte (Wartungs- und Prüfbuch)
   Die Ergebnisse aller Prüfungen und die der erstmaligen Prüfung zugrundeliegenden Unterlagen sind vom Betreiber des Tiegels in der Tiegelakte aufzubewahren.
 - 4.8 :: Beförderung der Tiegel
@@ -1692,9 +1692,9 @@ Bild 1
 Bild 2
 [[../normengrafiken/bgbl1_2019/j0258-1_0020.jpg]]
 Anhang 2
-Schutzeinrichtung �Kragen“
+Schutzeinrichtung Kragen“
 [[../normengrafiken/bgbl1_2019/j0258-1_0030.jpg]]
-Schutzeinrichtung �Abweiser“
+Schutzeinrichtung Abweiser“
 [[../normengrafiken/bgbl1_2019/j0258-1_0040.jpg]]
-Schutzeinrichtung �Käfig“
+Schutzeinrichtung Käfig“
  [[../normengrafiken/bgbl1_2019/j0258-1_0050.jpg]]

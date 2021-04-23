@@ -53,7 +53,7 @@ III.
 
 Nachstehend wird eine Liste der zu Seemanns√§mtern bestimmten Auslandsvertretungen und der mit der Wahrnehmung seemannsamtlicher Aufgaben beauftragten Honorarkonsularbeamten der Bundesrepublik Deutschland nach dem neuesten Stand ver√∂ffentlicht.\\
 
-†
+
 
 Vertretung
 
@@ -61,7 +61,7 @@ Land
 
 - a) :: Diplomatische und berufskonsularische Vertretungen:
 
-†
+
 
 Abidjan, Botschaft
 
@@ -595,11 +595,11 @@ Wellington, Botschaft
 
 Neuseeland
 
-†
+
 
 - b) :: Honorargeneral- und Honorarkonsuln
 
-†
+
 
 Alborg, Honorarkonsul
 

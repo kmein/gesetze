@@ -22,33 +22,33 @@ Eine Änderung ist auch wesentlich, wenn der Beurteilungspegel des von dem zu ä
 § 2 - Immissionsgrenzwerte
 
 (1) Zum Schutz der Nachbarschaft vor schädlichen Umwelteinwirkungen durch Verkehrsgeräusche ist bei dem Bau oder der wesentlichen Änderung sicherzustellen, daß der Beurteilungspegel einen der folgenden Immissionsgrenzwerte nicht überschreitet:\\
-�
-�
+
+
 Tag
 Nacht
 1.
 an Krankenhäusern, Schulen, Kurheimen und Altenheimen
-�
-�
+
+
 57 Dezibel (A)
 47 Dezibel (A)
 2.
 in reinen und allgemeinen Wohngebieten und Kleinsiedlungsgebieten
-�
-�
+
+
 59 Dezibel (A)
 49 Dezibel (A)
 3.
 in Kerngebieten, Dorfgebieten, Mischgebieten und Urbanen Gebieten
-�
-�
+
+
 64 Dezibel (A)
 54 Dezibel (A)
 4.
-in Gewerbegebieten �
-�
-�
-�
+in Gewerbegebieten 
+
+
+
 69 Dezibel (A)
 59 Dezibel (A)
 (2) Die Art der in Absatz 1 bezeichneten Anlagen und Gebiete ergibt sich aus den Festsetzungen in den Bebauungsplänen. Sonstige in Bebauungsplänen festgesetzte Flächen für Anlagen und Gebiete sowie Anlagen und Gebiete, für die keine Festsetzungen bestehen, sind nach Absatz 1, bauliche Anlagen im Außenbereich nach Absatz 1 Nr. 1, 3 und 4 entsprechend der Schutzbedürftigkeit zu beurteilen.
@@ -432,13 +432,13 @@ Anlage 2 - (zu § 4)  Berechnung des Beurteilungspegels für Schienenwege (Schal
     \\
     Spalte
   - 4.5 :: Schallminderungstechniken am Gleis
-    Die in Beiblatt 1 aufgeführten akustischen Kenndaten gelten für einen durchschnittlichen Fahrflächenzustand und ohne besondere akustische Ma�besonders überwachtes Gleis (büG)“ und für Maßnahmen an den Schienenstegen sind nach der Gleichung (Gl. 1) Pegelkorrekturen nach Tabelle 8 vorzunehmen.
-    Tabelle 8: Pegelkorrekturen c2 für Fahrflächenzustand �besonders überwachtes Gleis (büG)“ sowie für Schienenstegdämpfer und -abschirmung\\
+    Die in Beiblatt 1 aufgeführten akustischen Kenndaten gelten für einen durchschnittlichen Fahrflächenzustand und ohne besondere akustische Mabesonders überwachtes Gleis (büG)“ und für Maßnahmen an den Schienenstegen sind nach der Gleichung (Gl. 1) Pegelkorrekturen nach Tabelle 8 vorzunehmen.
+    Tabelle 8: Pegelkorrekturen c2 für Fahrflächenzustand besonders überwachtes Gleis (büG)“ sowie für Schienenstegdämpfer und -abschirmung\\
     \\
     Spalte
-  - -- :: Vor der Inbetriebnahme von Streckenabschnitten mit der Ma�büG“ und nach jedem akustischen Schleifen gilt das Gleis als abgenommen, wenn es mit den für das büG-Schleifen anerkannten Verfahren Verfügung Pr.1110 Rap/Rau 98 vom 16.3.1998 (VkBl. 1998, Heft 7, S. 262, lfd. Nr. 74) bearbeitet wurde.
-  - -- :: Die schalltechnische Überwachung des �büG“ erfolgt durch eine Befahrung mit dem Schallmesswagen (SMW). Die erste Befahrung ist spätestens zwölf Monate nach der Inbetriebnahme des Streckenabschnittes mit der Ma�büG“ durchzuführen. Jede weitere Befahrung mit dem SMW findet spätestens zwölf Monate nach der vorigen Befahrung statt.
-  - -- :: Zeigt der SMW für einen Gleisabschnitt einen Messwert von +2 dB (Auslöseschwelle) oder mehr an, so wird dieser Gleisabschnitt innerhalb der nächsten zwölf Monate nach der Befahrung akustisch geschliffen. Ein akustisches Schleifen ist nicht erforderlich, wenn der Gleisabschnitt nicht länger als 50 m ist und auf den an einer Seite oder an beiden Seiten anschlie�büG“ nicht durchgeführt wird.
+  - -- :: Vor der Inbetriebnahme von Streckenabschnitten mit der MabüG“ und nach jedem akustischen Schleifen gilt das Gleis als abgenommen, wenn es mit den für das büG-Schleifen anerkannten Verfahren Verfügung Pr.1110 Rap/Rau 98 vom 16.3.1998 (VkBl. 1998, Heft 7, S. 262, lfd. Nr. 74) bearbeitet wurde.
+  - -- :: Die schalltechnische Überwachung des büG“ erfolgt durch eine Befahrung mit dem Schallmesswagen (SMW). Die erste Befahrung ist spätestens zwölf Monate nach der Inbetriebnahme des Streckenabschnittes mit der MabüG“ durchzuführen. Jede weitere Befahrung mit dem SMW findet spätestens zwölf Monate nach der vorigen Befahrung statt.
+  - -- :: Zeigt der SMW für einen Gleisabschnitt einen Messwert von +2 dB (Auslöseschwelle) oder mehr an, so wird dieser Gleisabschnitt innerhalb der nächsten zwölf Monate nach der Befahrung akustisch geschliffen. Ein akustisches Schleifen ist nicht erforderlich, wenn der Gleisabschnitt nicht länger als 50 m ist und auf den an einer Seite oder an beiden Seiten anschliebüG“ nicht durchgeführt wird.
   - -- :: Das akustische Schleifen kann entfallen, wenn durch geeignete Schleifverfahren wie z. B. das Hochgeschwindigkeitsschleifen nachgewiesen wird, dass der durch den SMW angezeigte Messwert kleiner als +1 dB ist.
 
   Gemäß § 5 Absatz 3 Satz 2 sind weitergehende Festlegungen der zuständigen Behörde zu beachten.
@@ -450,7 +450,7 @@ Anlage 2 - (zu § 4)  Berechnung des Beurteilungspegels für Schienenwege (Schal
 - 4.7 :: Schallemission von Bauwerken
   Im Bereich von Tunnelöffnungen und Bahnhofshallen sind die dort austretenden Schallemissionen zu berücksichtigen. Dabei ist von den in den Nummern 4.1 bis 4.6 festgelegten Schallleistungen auszugehen. Die Absorptions- und Transmissionseigenschaften der Bauwerke sind nach den anerkannten Regeln der Technik anzusetzen.
   Anmerkung 1: Anerkannte Regel der Technik ist die DIN EN 12354-4 Bauakustik -- Berechnung der akustischen Eigenschaften von Gebäuden aus den Bauteileigenschaften, Teil 4: Schallübertragung von Räumen ins Freie, Ausgabe April 2001.
-  Anmerkung 2: Die beim Hochgeschwindigkeitsverkehr ggf. an Tunnelportalen auftretenden Mikrodruckwellen (�Tunnelknall“) werden von dieser Richtlinie nicht erfasst und sind außerhalb dieser Verordnung gesondert zu betrachten.
+  Anmerkung 2: Die beim Hochgeschwindigkeitsverkehr ggf. an Tunnelportalen auftretenden Mikrodruckwellen (Tunnelknall“) werden von dieser Richtlinie nicht erfasst und sind außerhalb dieser Verordnung gesondert zu betrachten.
 - 4.8 :: Rangier- und Umschlagbahnhöfe
   Zur Berechnung der Schallemissionen von Rangier- und Umschlagbahnhöfen werden die in Tabelle 10 aufgeführten Schallquellen berücksichtigt.
   Tabelle 10: Schallquellen in Rangier- und Umschlagbahnhöfen\\
@@ -501,7 +501,7 @@ Schallemissionen von Straßenbahnen
   \\
   Spalte
 - 5.5 :: Brücken und Viadukte
-  Bei der Überfahrt eines Zuges über eine Brücke ist die Schallemission des Brückenüberbaus durch eine Korrektur, die auch die Belästigung aufgrund tieffrequenter Geräuschanteile enthält, zu berücksichtigen. Die Korrektur wird als �kombinierte Brücken- und Fahrbahn-Korrektur“ K_{Br} angegeben, da sie neben der Schallabstrahlung der Brücke auch den Einfluss der Fahrbahn auf der Brücke enthält. Eine Korrektur für die Fahrbahnart nach Tabelle 15 ist daher nicht zusätzlich anzusetzen.
+  Bei der Überfahrt eines Zuges über eine Brücke ist die Schallemission des Brückenüberbaus durch eine Korrektur, die auch die Belästigung aufgrund tieffrequenter Geräuschanteile enthält, zu berücksichtigen. Die Korrektur wird als kombinierte Brücken- und Fahrbahn-Korrektur“ K_{Br} angegeben, da sie neben der Schallabstrahlung der Brücke auch den Einfluss der Fahrbahn auf der Brücke enthält. Eine Korrektur für die Fahrbahnart nach Tabelle 15 ist daher nicht zusätzlich anzusetzen.
   Maßnahmen, die zu einer Minderung der Schallabstrahlung einer Brücke führen, werden durch einen Abschlag -- die Korrektur K_{LM} -- berücksichtigt und sind als Schallminderungsmaßnahme, nicht als Änderung der Brücken- oder Fahrbahnart anzusetzen. Für die gebräuchlichsten Brücken- und Oberbau-Typen sind die Pegelkorrekturen K in Tabelle 16 angegeben. Abweichungen von Tabelle 16 sind nur nach Festlegung durch die zuständige Behörde nach § 5 Absatz 2 zu berücksichtigen. Die Korrektur erfolgt für die lichte Weite der Brücke zwischen den Widerlagern zuzüglich auf jeder Seite 2 m. Die Pegelkorrekturen gelten für die Teilquellen 1 und 2 der Tabelle 13. Für die anderen Teilquellen m ist K = 0 anzusetzen. Korrekturen für Fahrbahnarten nach Tabelle 15 Zeile 1 bis 3 sind nicht anzusetzen.
   Tabelle 16: Korrekturen K_{Br} und K_{LM} für Brücken und Viadukte\\
   \\
@@ -723,7 +723,7 @@ Berücksichtigung von abweichender Bahntechnik und von schalltechnischen Innovat
 
 - 9.1 :: Messtechnische Ermittlung der Emissionsdaten von abweichender Bahntechnik und von schalltechnischen Innovationen
   - 9.1.1 :: Fahrzeuge
-    Der Nachweis von schalltechnischen Innovationen an Fahrzeugeinheiten hat nach folgenden Ma�Fahrzeuge“ des transeuropäischen Hochgeschwindigkeitsbahnsystems (bekannt gemacht unter Aktenzeichen K(2008) 648) (ABl. L 84 vom 26. März 2008, S. 132) (TSI) für Eisenbahnen und VDV-Schrift 154 Geräusche von Schienenfahrzeugen des Öffentlichen Personen-Nahverkehrs (ÖPNV), November 2011 für Straßenbahnen. Die Vorbeifahrtmessungen sollen nach mindestens drei Betriebsbremsungen durchgeführt worden sein.
+    Der Nachweis von schalltechnischen Innovationen an Fahrzeugeinheiten hat nach folgenden MaFahrzeuge“ des transeuropäischen Hochgeschwindigkeitsbahnsystems (bekannt gemacht unter Aktenzeichen K(2008) 648) (ABl. L 84 vom 26. März 2008, S. 132) (TSI) für Eisenbahnen und VDV-Schrift 154 Geräusche von Schienenfahrzeugen des Öffentlichen Personen-Nahverkehrs (ÖPNV), November 2011 für Straßenbahnen. Die Vorbeifahrtmessungen sollen nach mindestens drei Betriebsbremsungen durchgeführt worden sein.
     Anmerkung 1: Es können Ergebnisse von Messungen genutzt werden, die aus anderen Gründen ohnehin durchgeführt worden sind, wie z. B. im Rahmen der Zulassung neuer interoperabler Fahrzeuge von Eisenbahnen nach Entscheidung 2008/232/EG der Kommission oder von Straßenbahnen nach VDV-Schrift 154 bzw. im Ausland ermittelte Emissionsdaten.
     Anmerkung 2: In Sonderfällen kann die Anwendung von Richtmikrofonen oder einer Array-Messtechnik zur Erfassung von einzelnen Schallquellen zweckmäßig sein.
     Anmerkung 3: Schalltechnische Innovationen können geringere oder höhere Schallemissionen als die in dieser Anlage geregelte Technik hervorrufen. Höhere Schallemissionen können z. B. durch schnellere Hochgeschwindigkeitszüge, zugkräftigere Lokomotiven oder auch ältere, importierte Eisenbahntechnik oder Straßenbahntechnik auftreten.

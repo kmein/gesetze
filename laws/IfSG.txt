@@ -7,7 +7,7 @@ Ausfertigungsdatum: 20.07.2000
 Inhaltsübersicht
 
 1. Abschnitt - Allgemeine Vorschriften
-�
+
 § 1
 Zweck des Gesetzes
 § 1a
@@ -16,18 +16,18 @@ Zweck des Gesetzes
 Begriffsbestimmungen
 § 3
 Prävention durch Aufklärung
-�
+
 2. Abschnitt - Koordinierung und epidemische Lage von nationaler Tragweite
-�
+
 § 4
 Aufgaben des Robert Koch-Instituts
 § 5
 Epidemische Lage von nationaler Tragweite
 § 5a
 Ausübung heilkundlicher Tätigkeiten bei Vorliegen einer epidemischen Lage von nationaler Tragweite, Verordnungsermächtigung
-�
+
 3. Abschnitt - Überwachung
-�
+
 § 6
 Meldepflichtige Krankheiten
 § 7
@@ -52,11 +52,11 @@ Elektronisches Melde- und Informationssystem; Verordnungsermächtigung
 Anpassung der Meldepflicht an die epidemische Lage
 § 15a
 Durchführung der infektionshygienischen und hygienischen Überwachung
-�
-�
-�
+
+
+
 4. Abschnitt - Verhütung übertragbarer Krankheiten
-�
+
 § 16
 Allgemeine Maßnahmen zur Verhütung übertragbarer Krankheiten
 § 17
@@ -75,9 +75,9 @@ Impfdokumentation
 Nosokomiale Infektionen; Resistenzen; Rechtsverordnungen durch die Länder
 § 23a
 Personenbezogene Daten über den Impf- und Serostatus von Beschäftigten
-�
+
 5. Abschnitt - Bekämpfung übertragbarer Krankheiten
-�
+
 § 24
 Feststellung und Heilbehandlung übertragbarer Krankheiten, Verordnungsermächtigung
 § 25
@@ -98,9 +98,9 @@ Absonderung
 Berufliches Tätigkeitsverbot
 § 32
 Erlass von Rechtsverordnungen
-�
+
 6. Abschnitt - Infektionsschutz bei bestimmten Einrichtungen, Unternehmen und Personen
-�
+
 § 33
 Gemeinschaftseinrichtungen
 § 34
@@ -109,9 +109,9 @@ Gesundheitliche Anforderungen, Mitwirkungspflichten, Aufgaben des Gesundheitsamt
 Belehrung für Personen in der Betreuung von Kindern und Jugendlichen
 § 36
 Infektionsschutz bei bestimmten Einrichtungen, Unternehmen und Personen; Verordnungsermächtigung
-�
+
 7. Abschnitt - Wasser
-�
+
 § 37
 Beschaffenheit von Wasser für den menschlichen Gebrauch sowie von Wasser zum Schwimmen oder Baden in Becken oder Teichen, Überwachung
 § 38
@@ -122,16 +122,16 @@ Untersuchungen, Maßnahmen der zuständigen Behörde
 Aufgaben des Umweltbundesamtes
 § 41
 Abwasser
-�
+
 8. Abschnitt - Gesundheitliche Anforderungen an das Personal beim Umgang mit Lebensmitteln
-�
+
 § 42
 Tätigkeits- und Beschäftigungsverbote
 § 43
 Belehrung, Bescheinigung des Gesundheitsamtes
-�
+
 9. Abschnitt - Tätigkeiten mit Krankheitserregern
-�
+
 § 44
 Erlaubnispflicht für Tätigkeiten mit Krankheitserregern
 § 45
@@ -156,23 +156,23 @@ Abgabe
 Anforderungen an Räume und Einrichtungen, Gefahrenvorsorge
 § 53a
 Verfahren über eine einheitliche Stelle, Entscheidungsfrist
-�
+
 10. Abschnitt - Vollzug des Gesetzes und zuständige Behörden
-�
+
 § 54
 Vollzug durch die Länder
 § 54a
 Vollzug durch die Bundeswehr
 § 54b
 Vollzug durch das Eisenbahn-Bundesamt
-�
+
 11. Abschnitt - Angleichung an Gemeinschaftsrecht
-�
+
 § 55
 Angleichung an Gemeinschaftsrecht
-�
+
 12. Abschnitt - Entschädigung in besonderen Fällen
-�
+
 § 56
 Entschädigung
 § 57
@@ -197,18 +197,18 @@ Entschädigung bei behördlichen Maßnahmen
 Zahlungsverpflichteter
 § 67
 Pfändung
-�
+
 13. Abschnitt - Rechtsweg und Kosten
-�
+
 § 68
 Rechtsweg
 § 69
 Kosten
 §§ 70 -- 72
 (weggefallen)
-�
+
 14. Abschnitt - Straf- und Bußgeldvorschriften
-�
+
 § 73
 Bußgeldvorschriften
 § 74
@@ -217,9 +217,9 @@ Strafvorschriften
 Weitere Strafvorschriften
 § 76
 Einziehung
-�
+
 15. Abschnitt - Übergangsvorschriften
-�
+
 § 77
 Übergangsvorschriften
 

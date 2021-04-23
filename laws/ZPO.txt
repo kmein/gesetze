@@ -8,13 +8,13 @@ InhaltsÃ¼bersicht
 
 Buch 1
 Allgemeine Vorschriften
- 
+
 Abschnitt 1
 Gerichte
- 
- 
+
+
 Titel 1
- 
+
 Sachliche ZustÃ¤ndigkeit der Gerichte und Wertvorschriften
 Â§ 1
 Sachliche ZustÃ¤ndigkeit
@@ -38,10 +38,10 @@ Wiederkehrende Nutzungen oder Leistungen
 (weggefallen)
 Â§ 11
 Bindende Entscheidung Ã¼ber UnzustÃ¤ndigkeit
- 
- 
+
+
 Titel 2
- 
+
 Gerichtsstand
 Â§ 12
 Allgemeiner Gerichtsstand; Begriff
@@ -113,10 +113,10 @@ Wahl unter mehreren GerichtsstÃ¤nden
 Gerichtliche Bestimmung der ZustÃ¤ndigkeit
 Â§ 37
 Verfahren bei gerichtlicher Bestimmung
- 
- 
+
+
 Titel 3
- 
+
 Vereinbarung Ã¼ber die ZustÃ¤ndigkeit der Gerichte
 Â§ 38
 Zugelassene Gerichtsstandsvereinbarung
@@ -124,10 +124,10 @@ Zugelassene Gerichtsstandsvereinbarung
 ZustÃ¤ndigkeit infolge rÃ¼geloser Verhandlung
 Â§ 40
 Unwirksame und unzulÃ¤ssige Gerichtsstandsvereinbarung
- 
- 
+
+
 Titel 4
- 
+
 AusschlieÃŸung und Ablehnung der Gerichtspersonen
 Â§ 41
 Ausschluss von der AusÃ¼bung des Richteramtes
@@ -147,13 +147,13 @@ Unaufschiebbare Amtshandlungen
 Selbstablehnung; Ablehnung von Amts wegen
 Â§ 49
 Urkundsbeamte
- 
+
 Abschnitt 2
 Parteien
- 
- 
+
+
 Titel 1
- 
+
 ParteifÃ¤higkeit; ProzessfÃ¤higkeit
 Â§ 50
 ParteifÃ¤higkeit
@@ -173,10 +173,10 @@ PrÃ¼fung von Amts wegen
 Prozesspfleger
 Â§ 58
 Prozesspfleger bei herrenlosem GrundstÃ¼ck oder Schiff
- 
- 
+
+
 Titel 2
- 
+
 Streitgenossenschaft
 Â§ 59
 Streitgenossenschaft bei Rechtsgemeinschaft oder IdentitÃ¤t des Grundes
@@ -188,10 +188,10 @@ Wirkung der Streitgenossenschaft
 Notwendige Streitgenossenschaft
 Â§ 63
 Prozessbetrieb; Ladungen
- 
- 
+
+
 Titel 3
- 
+
 Beteiligung Dritter am Rechtsstreit
 Â§ 64
 Hauptintervention
@@ -221,10 +221,10 @@ GlÃ¤ubigerstreit
 Urheberbenennung bei Besitz
 Â§ 77
 Urheberbenennung bei EigentumsbeeintrÃ¤chtigung
- 
- 
+
+
 Titel 4
- 
+
 ProzessbevollmÃ¤chtigte und BeistÃ¤nde
 Â§ 78
 Anwaltsprozess
@@ -258,10 +258,10 @@ Mangel der Vollmacht
 Vollmachtloser Vertreter
 Â§ 90
 Beistand
- 
- 
+
+
 Titel 5
- 
+
 Prozesskosten
 Â§ 91
 Grundsatz und Umfang der Kostenpflicht
@@ -303,10 +303,10 @@ Vereinfachter Kostenfestsetzungsbeschluss
 Verteilung nach Quoten
 Â§ 107
 Ã„nderung nach Streitwertfestsetzung
- 
- 
+
+
 Titel 6
- 
+
 Sicherheitsleistung
 Â§ 108
 Art und HÃ¶he der Sicherheit
@@ -320,10 +320,10 @@ NachtrÃ¤gliche Prozesskostensicherheit
 HÃ¶he der Prozesskostensicherheit
 Â§ 113
 Fristbestimmung fÃ¼r Prozesskostensicherheit
- 
- 
+
+
 Titel 7
- 
+
 Prozesskostenhilfe und Prozesskostenvorschuss
 Â§ 114
 Voraussetzungen
@@ -355,13 +355,13 @@ Einziehung der Kosten
 Beitreibung der Rechtsanwaltskosten
 Â§ 127
 Entscheidungen
- 
+
 Abschnitt 3
 Verfahren
- 
- 
+
+
 Titel 1
- 
+
 MÃ¼ndliche Verhandlung
 Â§ 128
 Grundsatz der MÃ¼ndlichkeit; schriftliches Verfahren
@@ -451,15 +451,15 @@ Unterschreiben des Protokolls
 Protokollberichtigung
 Â§ 165
 Beweiskraft des Protokolls
- 
- 
+
+
 Titel 2
- 
+
 Verfahren bei Zustellungen
- 
- 
+
+
 Untertitel 1
- 
+
 Zustellungen von Amts wegen
 Â§ 166
 Zustellung
@@ -511,10 +511,10 @@ Zeitpunkt der Ã¶ffentlichen Zustellung
 Heilung von ZustellungsmÃ¤ngeln
 Â§ 190
 Einheitliche Zustellungsformulare
- 
- 
+
+
 Untertitel 2
- 
+
 Zustellungen auf Betreiben der Parteien
 Â§ 191
 Zustellung
@@ -528,10 +528,10 @@ Zustellungsauftrag
 Zustellung von Anwalt zu Anwalt
 Â§Â§ 195a bis 213a
 (weggefallen)
- 
- 
+
+
 Titel 3
- 
+
 Ladungen, Termine und Fristen
 Â§ 214
 Ladung zum Termin
@@ -565,10 +565,10 @@ TerminsÃ¤nderung
 (weggefallen)
 Â§ 229
 Beauftragter oder ersuchter Richter
- 
- 
+
+
 Titel 4
- 
+
 Folgen der VersÃ¤umung; Rechtsbehelfsbelehrung; Wiedereinsetzung in den vorigen Stand
 Â§ 230
 Allgemeine VersÃ¤umungsfolge
@@ -588,10 +588,10 @@ Wiedereinsetzungsantrag
 ZustÃ¤ndigkeit fÃ¼r Wiedereinsetzung
 Â§ 238
 Verfahren bei Wiedereinsetzung
- 
- 
+
+
 Titel 5
- 
+
 Unterbrechung und Aussetzung des Verfahrens
 Â§ 239
 Unterbrechung durch Tod der Partei
@@ -623,16 +623,16 @@ Ruhen des Verfahrens
 SÃ¤umnis beider Parteien; Entscheidung nach Lage der Akten
 Â§ 252
 Rechtsmittel bei Aussetzung
- 
+
 Buch 2
 Verfahren im ersten Rechtszug
- 
+
 Abschnitt 1
 Verfahren vor den Landgerichten
- 
- 
+
+
 Titel 1
- 
+
 Verfahren bis zum Urteil
 Â§ 253
 Klageschrift
@@ -740,10 +740,10 @@ Elektronische Akte; VerordnungsermÃ¤chtigung
 Akteneinsicht; Abschriften
 Â§ 299a
 DatentrÃ¤gerarchiv
- 
- 
+
+
 Titel 2
- 
+
 Urteil
 Â§ 300
 Endurteil
@@ -821,10 +821,10 @@ Rechtskraft bei Testamentsvollstreckung
 Anerkennung auslÃ¤ndischer Urteile
 Â§ 329
 BeschlÃ¼sse und VerfÃ¼gungen
- 
- 
+
+
 Titel 3
- 
+
 VersÃ¤umnisurteil
 Â§ 330
 VersÃ¤umnisurteil gegen den KlÃ¤ger
@@ -868,10 +868,10 @@ Zweites VersÃ¤umnisurteil
 Verzicht und ZurÃ¼cknahme des Einspruchs
 Â§ 347
 Verfahren bei Widerklage und Zwischenstreit
- 
- 
+
+
 Titel 4
- 
+
 Verfahren vor dem Einzelrichter
 Â§ 348
 OriginÃ¤rer Einzelrichter
@@ -883,10 +883,10 @@ Vorsitzender der Kammer fÃ¼r Handelssachen
 Rechtsmittel
 Â§Â§ 351 bis 354
 (weggefallen)
- 
- 
+
+
 Titel 5
- 
+
 Allgemeine Vorschriften Ã¼ber die Beweisaufnahme
 Â§ 355
 Unmittelbarkeit der Beweisaufnahme
@@ -924,10 +924,10 @@ Neuer Beweistermin
 AuslÃ¤ndische Beweisaufnahme
 Â§ 370
 Fortsetzung der mÃ¼ndlichen Verhandlung
- 
- 
+
+
 Titel 6
- 
+
 Beweis durch Augenschein
 Â§ 371
 Beweis durch Augenschein
@@ -939,10 +939,10 @@ Beweiskraft gescannter Ã¶ffentlicher Urkunden
 Beweisaufnahme
 Â§ 372a
 Untersuchungen zur Feststellung der Abstammung
- 
- 
+
+
 Titel 7
- 
+
 Zeugenbeweis
 Â§ 373
 Beweisantritt
@@ -1002,10 +1002,10 @@ Verzicht auf Zeugen
 Befugnisse des mit der Beweisaufnahme betrauten Richters
 Â§ 401
 ZeugenentschÃ¤digung
- 
- 
+
+
 Titel 8
- 
+
 Beweis durch SachverstÃ¤ndige
 Â§ 402
 Anwendbarkeit der Vorschriften fÃ¼r Zeugen
@@ -1039,10 +1039,10 @@ Neues Gutachten
 SachverstÃ¤ndigenvergÃ¼tung
 Â§ 414
 SachverstÃ¤ndige Zeugen
- 
- 
+
+
 Titel 9
- 
+
 Beweis durch Urkunden
 Â§ 415
 Beweiskraft Ã¶ffentlicher Urkunden Ã¼ber ErklÃ¤rungen
@@ -1106,10 +1106,10 @@ WÃ¼rdigung der Schriftvergleichung
 Verwahrung verdÃ¤chtiger Urkunden
 Â§ 444
 Folgen der Beseitigung einer Urkunde
- 
- 
+
+
 Titel 10
- 
+
 Beweis durch Parteivernehmung
 Â§ 445
 Vernehmung des Gegners; Beweisantritt
@@ -1135,10 +1135,10 @@ Ausbleiben der Partei
 ProzessunfÃ¤hige
 Â§Â§ 456 bis 477
 (weggefallen)
- 
- 
+
+
 Titel 11
- 
+
 Abnahme von Eiden und BekrÃ¤ftigungen
 Â§ 478
 Eidesleistung in Person
@@ -1154,10 +1154,10 @@ Eidesleistung; Eidesformel
 Eidesleistung sprach- oder hÃ¶rbehinderter Personen
 Â§ 484
 Eidesgleiche BekrÃ¤ftigung
- 
- 
+
+
 Titel 12
- 
+
 SelbstÃ¤ndiges Beweisverfahren
 Â§ 485
 ZulÃ¤ssigkeit
@@ -1179,7 +1179,7 @@ Benutzung im Prozess
 Unbekannter Gegner
 Â§ 494a
 Frist zur Klageerhebung
- 
+
 Abschnitt 2
 Verfahren vor den Amtsgerichten
 Â§ 495
@@ -1212,10 +1212,10 @@ Inhalt des Protokolls
 Urteil auf Vornahme einer Handlung
 Â§ 510c
 (weggefallen)
- 
+
 Buch 3
 Rechtsmittel
- 
+
 Abschnitt 1
 Berufung
 Â§ 511
@@ -1280,7 +1280,7 @@ VersÃ¤umnisverfahren
 Inhalt des Berufungsurteils
 Â§ 541
 Prozessakten
- 
+
 Abschnitt 2
 Revision
 Â§ 542
@@ -1335,13 +1335,13 @@ Keine BegrÃ¼ndung der Entscheidung bei RÃ¼gen von VerfahrensmÃ¤ngeln
 Anzuwendende Vorschriften des Berufungsverfahrens
 Â§ 566
 Sprungrevision
- 
+
 Abschnitt 3
 Beschwerde
- 
- 
+
+
 Titel 1
- 
+
 Sofortige Beschwerde
 Â§ 567
 Sofortige Beschwerde; Anschlussbeschwerde
@@ -1357,10 +1357,10 @@ BegrÃ¼ndung, PrÃ¤klusion, Ausnahmen vom Anwaltszwang
 Gang des Beschwerdeverfahrens
 Â§ 573
 Erinnerung
- 
- 
+
+
 Titel 2
- 
+
 Rechtsbeschwerde
 Â§ 574
 Rechtsbeschwerde; Anschlussrechtsbeschwerde
@@ -1370,7 +1370,7 @@ Frist, Form und BegrÃ¼ndung der Rechtsbeschwerde
 GrÃ¼nde der Rechtsbeschwerde
 Â§ 577
 PrÃ¼fung und Entscheidung der Rechtsbeschwerde
- 
+
 Buch 4
 Wiederaufnahme des Verfahrens
 Â§ 578
@@ -1401,7 +1401,7 @@ ZulÃ¤ssigkeitsprÃ¼fung
 Neue Verhandlung
 Â§ 591
 Rechtsmittel
- 
+
 Buch 5
 Urkunden- und Wechselprozess
 Â§ 592
@@ -1434,7 +1434,7 @@ Klageinhalt; Ladungsfrist
 Beweisvorschriften
 Â§ 605a
 Scheckprozess
- 
+
 Buch 6
 Musterfeststellungsverfahren
 Â§ 606
@@ -1457,8 +1457,8 @@ Bindungswirkung des Musterfeststellungsurteils; Aussetzung
 Rechtsmittel
 Â§ 615 bis 687
 (weggefallen)
- 
- 
+
+
 Buch 7
 Mahnverfahren
 Â§ 688
@@ -1501,13 +1501,13 @@ Sonderregelungen fÃ¼r maschinelle Bearbeitung
 Formulare; EinfÃ¼hrung der maschinellen Bearbeitung
 Â§ 703d
 Antragsgegner ohne allgemeinen inlÃ¤ndischen Gerichtsstand
- 
+
 Buch 8
 Zwangsvollstreckung
- 
- 
+
+
 Abschnitt 1
- 
+
 Allgemeine Vorschriften
 Â§ 704
 Vollstreckbare Endurteile
@@ -1741,15 +1741,15 @@ Vollstreckbare Urkunde bei Schiffshypothek
 Landesrechtliche Vollstreckungstitel
 Â§ 802
 AusschlieÃŸlichkeit der GerichtsstÃ¤nde
- 
+
 Abschnitt 2
 Zwangsvollstreckung wegen Geldforderungen
- 
- 
+
+
 Titel 1
- 
+
 Allgemeine Vorschriften
- 
+
 Â§ 802a
 GrundsÃ¤tze der Vollstreckung; Regelbefugnisse des Gerichtsvollziehers
 Â§ 802b
@@ -1774,15 +1774,15 @@ Dauer der Haft; erneute Haft
 Zentrale Verwaltung der VermÃ¶gensverzeichnisse
 Â§ 802l
 Auskunftsrechte des Gerichtsvollziehers
- 
- 
+
+
 Titel 2
- 
+
 Zwangsvollstreckung in des bewegliche VermÃ¶gen
- 
- 
+
+
 Untertitel 1
- 
+
 Allgemeine Vorschriften
 Â§ 803
 PfÃ¤ndung
@@ -1798,10 +1798,10 @@ Mitteilungen und Befragung durch den Gerichtsvollzieher
 (weggefallen)
 Â§ 807
 Abnahme der VermÃ¶gensauskunft nach PfÃ¤ndungsversuch
- 
- 
+
+
 Untertitel 2
- 
+
 Zwangsvollstreckung in kÃ¶rperliche Sachen
 Â§ 808
 PfÃ¤ndung beim Schuldner
@@ -1857,10 +1857,10 @@ Andere Verwertungsart
 AnschlusspfÃ¤ndung
 Â§ 827
 Verfahren bei mehrfacher PfÃ¤ndung
- 
- 
+
+
 Untertitel 3
- 
+
 Zwangsvollstreckung in Forderungen und andere VermÃ¶gensrechte
 Â§ 828
 ZustÃ¤ndigkeit des Vollstreckungsgerichts
@@ -1974,10 +1974,10 @@ PfÃ¤ndung von Gesamtgutanteilen
 (weggefallen)
 Â§ 863
 PfÃ¤ndungsbeschrÃ¤nkungen bei Erbschaftsnutzungen
- 
- 
+
+
 Titel 3
- 
+
 Zwangsvollstreckung in das unbewegliche VermÃ¶gen
 Â§ 864
 Gegenstand der Immobiliarvollstreckung
@@ -1997,10 +1997,10 @@ GrundstÃ¼cksgleiche Rechte
 Zwangsvollstreckung in ein Schiff oder Schiffsbauwerk
 Â§ 871
 Landesrechtlicher Vorbehalt bei Eisenbahnen
- 
- 
+
+
 Titel 4
- 
+
 Verteilungsverfahren
 Â§ 872
 Voraussetzungen
@@ -2024,19 +2024,19 @@ Inhalt des Urteils
 VersÃ¤umnisurteil
 Â§ 882
 Verfahren nach dem Urteil
- 
- 
+
+
 Titel 5
- 
+
 Zwangsvollstreckung gegen juristische Personen des Ã¶ffentlichen Rechts
 Â§ 882a
 Zwangsvollstreckung wegen einer Geldforderung
- 
- 
+
+
 Titel 6
- 
+
 Schuldnerverzeichnis
- 
+
 Â§ 882b
 Inhalt des Schuldnerverzeichnisses
 Â§ 882c
@@ -2091,11 +2091,11 @@ Erteilung von Urkunden an GlÃ¤ubiger
 Ãœbereignung; Verschaffung von Grundpfandrechten
 Â§ 898
 GutglÃ¤ubiger Erwerb
- 
+
 Abschnitt 4
 Â§Â§ 899 bis 915h
 (weggefallen)
- 
+
 Abschnitt 5
 Arrest und einstweilige VerfÃ¼gung
 Â§ 916
@@ -2164,17 +2164,17 @@ Schadensersatzpflicht
 Einreichung von Schutzschriften
 Â§ 945b
 VerordnungsermÃ¤chtigung
- 
- 
+
+
 Â Abschnitt 6
 Â GrenzÃ¼berschreitende vorlÃ¤ufige KontenpfÃ¤ndung
- 
- 
- 
+
+
+
 Titel 1
- 
+
 Erlass des Beschlusses zur vorlÃ¤ufigen KontenpfÃ¤ndung
- 
+
 Â§ 946
 ZustÃ¤ndigkeit
 Â§ 947
@@ -2183,28 +2183,28 @@ Verfahren
 Ersuchen um Einholung von Kontoinformationen
 Â§ 949
 Nicht rechtzeitige Einleitung des Hauptsacheverfahrens
- 
- 
- 
+
+
+
 Titel 2
- 
+
 Vollziehung des Beschlusses zur vorlÃ¤ufigen KontenpfÃ¤ndung
- 
- 
+
+
 Â§ 950
 Anwendbare Vorschriften
 Â§ 951
 Vollziehung von im Inland erlassenen BeschlÃ¼ssen
 Â§ 952
 Vollziehung von in einem anderen Mitgliedstaat erlassenen BeschlÃ¼ssen
- 
- 
- 
+
+
+
 Titel 3
- 
+
 Rechtsbehelfe
- 
- 
+
+
 Â§ 953
 Rechtsbehelfe des GlÃ¤ubigers
 Â§ 954
@@ -2215,25 +2215,25 @@ Sicherheitsleistung nach Artikel 38 der Verordnung (EU) Nr. 655/2014
 Rechtsmittel gegen die Entscheidungen nach Â§ 954 Absatz 1 bis 3 und Â§ 955
 Â§ 957
 Ausschluss der Rechtsbeschwerde
- 
- 
- 
+
+
+
 Titel 4
- 
+
 Schadensersatz; VerordnungsermÃ¤chtigung
- 
- 
+
+
 Â§ 958
 Schadensersatz
 Â§ 959
 VerordnungsermÃ¤chtigung
- 
+
 Buch 9
 (weggefallen)
- 
+
 Buch 10
 Schiedsrichterliches Verfahren
- 
+
 Abschnitt 1
 Allgemeine Vorschriften
 Â§ 1025
@@ -2244,7 +2244,7 @@ Umfang gerichtlicher TÃ¤tigkeit
 Verlust des RÃ¼gerechts
 Â§ 1028
 Empfang schriftlicher Mitteilungen bei unbekanntem Aufenthalt
- 
+
 Abschnitt 2
 Schiedsvereinbarung
 Â§ 1029
@@ -2257,7 +2257,7 @@ Form der Schiedsvereinbarung
 Schiedsvereinbarung und Klage vor Gericht
 Â§ 1033
 Schiedsvereinbarung und einstweilige gerichtliche MaÃŸnahmen
- 
+
 Abschnitt 3
 Bildung des Schiedsgerichts
 Â§ 1034
@@ -2272,14 +2272,14 @@ Ablehnungsverfahren
 UntÃ¤tigkeit oder UnmÃ¶glichkeit der AufgabenerfÃ¼llung
 Â§ 1039
 Bestellung eines Ersatzschiedsrichters
- 
+
 Abschnitt 4
 ZustÃ¤ndigkeit des Schiedsgerichts
 Â§ 1040
 Befugnis des Schiedsgerichts zur Entscheidung Ã¼ber die eigene ZustÃ¤ndigkeit
 Â§ 1041
 MaÃŸnahmen des einstweiligen Rechtsschutzes
- 
+
 Abschnitt 5
 DurchfÃ¼hrung des schiedsrichterlichen Verfahrens
 Â§ 1042
@@ -2300,7 +2300,7 @@ SÃ¤umnis einer Partei
 Vom Schiedsgericht bestellter SachverstÃ¤ndiger
 Â§ 1050
 Gerichtliche UnterstÃ¼tzung bei der Beweisaufnahme und sonstige richterliche Handlungen
- 
+
 Abschnitt 6
 Schiedsspruch und Beendigung des Verfahrens
 Â§ 1051
@@ -2319,19 +2319,19 @@ Beendigung des schiedsrichterlichen Verfahrens
 Entscheidung Ã¼ber die Kosten
 Â§ 1058
 Berichtigung, Auslegung und ErgÃ¤nzung des Schiedsspruchs
- 
+
 Abschnitt 7
 Rechtsbehelf gegen den Schiedsspruch
 Â§ 1059
 Aufhebungsantrag
- 
+
 Abschnitt 8
 Voraussetzungen der Anerkennung und Vollstreckung von SchiedssprÃ¼chen
 Â§ 1060
 InlÃ¤ndische SchiedssprÃ¼che
 Â§ 1061
 AuslÃ¤ndische SchiedssprÃ¼che
- 
+
 Abschnitt 9
 Gerichtliches Verfahren
 Â§ 1062
@@ -2342,15 +2342,15 @@ Allgemeine Vorschriften
 Besonderheiten bei der VollstreckbarerklÃ¤rung von SchiedssprÃ¼chen
 Â§ 1065
 Rechtsmittel
- 
+
 Abschnitt 10
 AuÃŸervertragliche Schiedsgerichte
 Â§ 1066
 Entsprechende Anwendung der Vorschriften des Buches 10
- 
+
 Buch 11
 Justizielle Zusammenarbeit in der EuropÃ¤ischen Union
- 
+
 Abschnitt 1
 Zustellung nach der Verordnung (EG) Nr. 1393/2007
 Â§ 1067
@@ -2363,7 +2363,7 @@ ZustÃ¤ndigkeiten; VerordnungsermÃ¤chtigungen
 Zustellung nach dem Abkommen zwischen der EuropÃ¤ischen Gemeinschaft und dem KÃ¶nigreich DÃ¤nemark vom 19. Oktober 2005 Ã¼ber die Zustellung gerichtlicher und auÃŸergerichtlicher SchriftstÃ¼cke in Zivil- oder Handelssachen
 Â§ 1071
 (weggefallen)
- 
+
 Abschnitt 2
 Beweisaufnahme nach der Verordnung (EG) Nr. 1206/2001
 Â§ 1072
@@ -2374,7 +2374,7 @@ Teilnahmerechte
 ZustÃ¤ndigkeiten nach der Verordnung (EG) Nr. 1206/2001
 Â§ 1075
 Sprache eingehender Ersuchen
- 
+
 Abschnitt 3
 Prozesskostenhilfe nach der Richtlinie 2003/8/EG
 Â§ 1076
@@ -2383,13 +2383,13 @@ Anwendbare Vorschriften
 Ausgehende Ersuchen
 Â§ 1078
 Eingehende Ersuchen
- 
+
 Abschnitt 4
 EuropÃ¤ische Vollstreckungstitel nach der Verordnung (EG) Nr. 805/2004
- 
- 
+
+
 Titel 1
- 
+
 BestÃ¤tigung inlÃ¤ndischer Titel als EuropÃ¤ische Vollstreckungstitel
 Â§ 1079
 ZustÃ¤ndigkeit
@@ -2397,10 +2397,10 @@ ZustÃ¤ndigkeit
 Entscheidung
 Â§ 1081
 Berichtigung und Widerruf
- 
- 
+
+
 Titel 2
- 
+
 Zwangsvollstreckung aus EuropÃ¤ischen Vollstreckungstiteln im Inland
 Â§ 1082
 Vollstreckungstitel
@@ -2412,13 +2412,13 @@ AntrÃ¤ge nach den Artikeln 21 und 23 der Verordnung (EG) Nr. 805/2004
 Einstellung der Zwangsvollstreckung
 Â§ 1086
 Vollstreckungsabwehrklage
- 
+
 Abschnitt 5
 EuropÃ¤isches Mahnverfahren nach der Verordnung (EG) Nr. 1896/2006
- 
- 
+
+
 Titel 1
- 
+
 Allgemeine Vorschriften
 Â§ 1087
 ZustÃ¤ndigkeit
@@ -2426,28 +2426,28 @@ ZustÃ¤ndigkeit
 Maschinelle Bearbeitung
 Â§ 1089
 Zustellung
- 
- 
+
+
 Titel 2
- 
+
 Einspruch gegen den EuropÃ¤ischen Zahlungsbefehl
 Â§ 1090
 Verfahren nach Einspruch
 Â§ 1091
 Einleitung des Streitverfahrens
- 
- 
+
+
 Titel 3
- 
+
 ÃœberprÃ¼fung des EuropÃ¤ischen Zahlungsbefehls in AusnahmefÃ¤llen
 Â§ 1092
 Verfahren
 Â§ 1092a
 Rechtsbehelf bei Nichtzustellung oder bei nicht ordnungsgemÃ¤ÃŸer Zustellung des EuropÃ¤ischen Zahlungsbefehls
- 
- 
+
+
 Titel 4
- 
+
 Zwangsvollstreckung aus dem EuropÃ¤ischen Zahlungsbefehl
 Â§ 1093
 Vollstreckungsklausel
@@ -2457,13 +2457,13 @@ Vollstreckungsklausel
 Vollstreckungsschutz und Vollstreckungsabwehrklage gegen den im Inland erlassenen EuropÃ¤ischen Zahlungsbefehl
 Â§ 1096
 AntrÃ¤ge nach den Artikeln 22 und 23 der Verordnung (EG) Nr. 1896/2006; Vollstreckungsabwehrklage
- 
+
 Abschnitt 6
 EuropÃ¤isches Verfahren fÃ¼r geringfÃ¼gige Forderungen nach der Verordnung (EG) Nr. 861/2007
- 
- 
+
+
 Titel 1
- 
+
 Erkenntnisverfahren
 Â§ 1097
 Einleitung und DurchfÃ¼hrung des Verfahrens
@@ -2483,10 +2483,10 @@ SÃ¤umnis
 Abhilfe bei unverschuldeter SÃ¤umnis des Beklagten
 Â§ 1104a
 Gemeinsame Gerichte
- 
- 
+
+
 Titel 2
- 
+
 Zwangsvollstreckung
 Â§ 1105
 Zwangsvollstreckung inlÃ¤ndischer Titel
@@ -2498,22 +2498,22 @@ AuslÃ¤ndische Vollstreckungstitel
 Ãœbersetzung
 Â§ 1109
 AntrÃ¤ge nach den Artikeln 22 und 23 der Verordnung (EG) Nr. 861/2007; Vollstreckungsabwehrklage
- 
+
 Abschnitt 7
 Anerkennung und Vollstreckung nach der Verordnung (EU) Nr. 1215/2012
- 
- 
+
+
 Titel 1
- 
+
 Bescheinigung Ã¼ber inlÃ¤ndische Titel
 Â§ 1110
 ZustÃ¤ndigkeit
 Â§ 1111
 Verfahren
- 
- 
+
+
 Titel 2
- 
+
 Anerkennung und Vollstreckung auslÃ¤ndischer Titel im Inland
 Â§ 1112
 Entbehrlichkeit der Vollstreckungsklausel
@@ -2527,10 +2527,10 @@ Versagung der Anerkennung oder der Vollstreckung
 Wegfall oder BeschrÃ¤nkung der Vollstreckbarkeit im Ursprungsmitgliedstaat
 Â§ 1117
 Vollstreckungsabwehrklage
- 
+
 Abschnitt 8
 Beweis der Echtheit auslÃ¤ndischer Ã¶ffentlicher Urkunden nach der Verordnung (EU) 2016/1191
- 
+
 Â§ 1118
 ZentralbehÃ¶rde
 Â§ 1119
@@ -3749,7 +3749,7 @@ Ist die Zustellung nach Â§ 178 Abs. 1 Nr. 1 oder 2 nicht ausfÃ¼hrbar, kann das S
 
 (1) Soweit nicht unmittelbar anwendbare Regelungen der EuropÃ¤ischen Union in ihrer jeweils geltenden Fassung, insbesondere
 
-- 1. :: die Verordnung (EG) Nr. 1393/2007 des EuropÃ¤ischen Parlaments und des Rates vom 13. November 2007 Ã¼ber die Zustellung gerichtlicher und auÃZustellung von SchriftstÃ¼ckenâ€œ) und zur Aufhebung der Verordnung (EG) Nr. 1348/2000 des Rates (ABl. L 324 vom 10.12.2007, S. 79), die durch die Verordnung (EU) Nr. 517/2013 (ABl. L 158 vom 10.6.2013, S. 1) geÃ¤ndert worden ist, sowie
+- 1. :: die Verordnung (EG) Nr. 1393/2007 des EuropÃ¤ischen Parlaments und des Rates vom 13. November 2007 Ã¼ber die Zustellung gerichtlicher und auZustellung von SchriftstÃ¼ckenâ€œ) und zur Aufhebung der Verordnung (EG) Nr. 1348/2000 des Rates (ABl. L 324 vom 10.12.2007, S. 79), die durch die Verordnung (EU) Nr. 517/2013 (ABl. L 158 vom 10.6.2013, S. 1) geÃ¤ndert worden ist, sowie
 - 2. :: das Abkommen zwischen der EuropÃ¤ischen Gemeinschaft und dem KÃ¶nigreich DÃ¤nemark vom 19. Oktober 2005 Ã¼ber die Zustellung gerichtlicher und auÃŸergerichtlicher SchriftstÃ¼cke in Zivil- oder Handelssachen (ABl. L 300 vom 17.11.2005, S. 55)
 
 maÃŸgeblich sind, gelten fÃ¼r die Zustellung im Ausland die nachfolgenden AbsÃ¤tze 2 bis 5. FÃ¼r die DurchfÃ¼hrung der in Satz 1 genannten Regelungen gelten Â§ 1067 Absatz 1, Â§ 1068 Absatz 1 und Â§ 1069 Absatz 1.
@@ -9116,7 +9116,7 @@ PfÃ¤ndbarer Betrag bei Unterhaltspflicht fÃ¼r ... Personen
 
 in EUR
 
- 
+
 
 bis
 
@@ -12610,7 +12610,7 @@ PfÃ¤ndbarer Betrag bei Unterhaltspflicht fÃ¼r ... Personen
 
 in EUR
 
- 
+
 
 bis
 
@@ -15816,7 +15816,7 @@ PfÃ¤ndbarer Betrag bei Unterhaltspflicht fÃ¼r ... Personen
 
 in EUR
 
- 
+
 
 bis
 
@@ -19002,23 +19002,23 @@ bis
 
 3,50
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
 
 Der Mehrbetrag ab 131,58 EUR ist voll pfÃ¤ndbar.
 

@@ -28,12 +28,12 @@ Kinder- und Jugendhilfe
 Sozialhilfe
 Â§ 10
 Teilhabe behinderter Menschen
- 
+
 Zweiter Abschnitt
 Einweisungsvorschriften
- 
+
 Erster Titel
- 
+
 Allgemeines Ã¼ber Sozialleistungen und LeistungstrÃ¤ger
 Â§ 11
 Leistungsarten
@@ -49,10 +49,10 @@ Auskunft
 Antragstellung
 Â§ 17
 AusfÃ¼hrung der Sozialleistungen
- 
- 
+
+
 Zweiter Titel
- 
+
 Einzelne Sozialleistungen und zustÃ¤ndige LeistungstrÃ¤ger
 Â§ 18
 Leistungen der AusbildungsfÃ¶rderung
@@ -88,12 +88,12 @@ Leistungen der Sozialhilfe
 Leistungen der Eingliederungshilfe
 Â§ 29
 Leistungen zur Rehabilitation und Teilhabe behinderter Menschen
- 
+
 Dritter Abschnitt
 Gemeinsame Vorschriften fÃ¼r alle Sozialleistungsbereiche dieses Gesetzbuches
- 
+
 Erster Titel
- 
+
 Allgemeine GrundsÃ¤tze
 Â§ 30
 Geltungsbereich
@@ -119,10 +119,10 @@ HandlungsfÃ¤higkeit
 Elektronische Kommunikation
 Â§ 37
 Vorbehalt abweichender Regelungen
- 
- 
+
+
 Zweiter Titel
- 
+
 GrundsÃ¤tze des Leistungsrechts
 Â§ 38
 Rechtsanspruch
@@ -168,10 +168,10 @@ Verzicht und Haftung des Sonderrechtsnachfolgers
 Vererbung
 Â§ 59
 Ausschluss der Rechtsnachfolge
- 
- 
+
+
 Dritter Titel
- 
+
 Mitwirkung des Leistungsberechtigten
 Â§ 60
 Angabe von Tatsachen
@@ -191,7 +191,7 @@ Aufwendungsersatz
 Folgen fehlender Mitwirkung
 Â§ 67
 Nachholung der Mitwirkung
- 
+
 Vierter Abschnitt
 Ãœbergangs- und Schlussvorschriften
 Â§ 68

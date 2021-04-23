@@ -924,15 +924,15 @@ und anschlieÃŸend der nach Nummer 1 ermittelte Wert durch den nach Nummer 2 ermi
 
 (4) Der Nachhaltigkeitsfaktor wird ermittelt, indem der um die VerÃ¤nderung des Rentnerquotienten im vergangenen Kalenderjahr gegenÃ¼ber dem vorvergangenen Kalenderjahr verminderte Wert eins mit einem Parameter alpha vervielfÃ¤ltigt und um den Wert eins erhÃ¶ht wird. Der Rentnerquotient wird ermittelt, indem die Anzahl der Ã„quivalenzrentner durch die Anzahl der Ã„quivalenzbeitragszahler dividiert wird. Die Anzahl der Ã„quivalenzrentner wird ermittelt, indem das aus den Rechnungsergebnissen auf 1Â 000 Euro genau bestimmte Gesamtvolumen der Renten abzÃ¼glich erstatteter Aufwendungen fÃ¼r Renten und Rententeile eines Kalenderjahres durch eine Regelaltersrente desselben Kalenderjahres aus der allgemeinen Rentenversicherung mit 45 Entgeltpunkten dividiert wird. Die Anzahl der Ã„quivalenzbeitragszahler wird ermittelt, indem das aus den Rechnungsergebnissen auf 1Â 000 Euro genau bestimmte Gesamtvolumen der BeitrÃ¤ge aller in der allgemeinen Rentenversicherung versicherungspflichtig BeschÃ¤ftigten, der geringfÃ¼gig BeschÃ¤ftigten (Â§ 8 Viertes Buch) und der Bezieher von Arbeitslosengeld eines Kalenderjahres durch den auf das Durchschnittsentgelt nach Anlage 1 entfallenden Beitrag der allgemeinen Rentenversicherung desselben Kalenderjahres dividiert wird. Die jeweilige Anzahl der Ã„quivalenzrentner und der Ã„quivalenzbeitragszahler ist auf 1Â 000 Personen genau zu berechnen. Der Parameter alpha betrÃ¤gt 0,25.
 (5) Der nach den AbsÃ¤tzen 1 bis 4 anstelle des bisherigen aktuellen Rentenwerts zu bestimmende neue aktuelle Rentenwert wird nach folgender Formel ermittelt:\\
- 
+
 BE(tief)t-1
 Â 100 - AVA(tief)2012 - RVB(tief)t-1
- 
+
 ((
- 
+
 (RQ(tief)t-1
 )
- 
+
 )
 ARt=ARt-1 x
 -----------
@@ -944,17 +944,17 @@ x
 )
 x alpha + 1
 )
- 
+
 BE(tief)t-2
 Â 100 - AVA(tief)2012 - RVB(tief)t-2
- 
+
 ((
- 
+
 (RQ(tief)t-2
 )
- 
+
 )
- 
+
 Dabei sind:
 AR(tief)t
 =
@@ -1222,12 +1222,12 @@ Renten wegen Alters
 1,3333
 2.
 Renten wegen teilweiser Erwerbsminderung
- 
- 
+
+
 a)
 solange eine in der knappschaftlichen Rentenversicherung versicherte BeschÃ¤ftigung ausgeÃ¼bt wird
 0,6
- 
+
 b)
 in den Ã¼brigen FÃ¤llen
 0,9
@@ -1243,13 +1243,13 @@ Erziehungsrenten
 6.
 kleinen Witwenrenten und kleinen Witwerrenten bis zum Ablauf des dritten Kalendermonats nach Ablauf des Monats, in dem der Ehegatte verstorben ist,
 1,3333
- 
+
 anschlieÃŸend
 0,3333
 7.
 groÃŸen Witwenrenten und groÃŸen Witwerrenten bis zum Ablauf des dritten Kalendermonats nach Ablauf des Monats, in dem der Ehegatte verstorben ist,
 1,3333
- 
+
 anschlieÃŸend
 0,7333
 8.
@@ -3628,11 +3628,11 @@ Monat
 
 1949
 
- 
 
- 
 
- 
+
+
+
 
 Januar
 
@@ -3803,9 +3803,9 @@ Monat
 
 1948
 
- 
 
- 
+
+
 
 Januar -- Februar
 
@@ -3845,9 +3845,9 @@ November -- Dezember
 
 1949
 
- 
 
- 
+
+
 
 Januar -- Februar
 
@@ -3923,15 +3923,15 @@ Monat
 
 1952
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
 
 Januar
 
@@ -4297,15 +4297,15 @@ vor 1941
 
 1941
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
 
 Januar-April
 
@@ -4345,15 +4345,15 @@ September-Dezember
 
 1942
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
 
 Januar-April
 
@@ -4393,15 +4393,15 @@ September-Dezember
 
 1943
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
 
 Januar-April
 
@@ -4441,15 +4441,15 @@ September-Dezember
 
 1944
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
 
 Januar-Februar
 
@@ -4531,15 +4531,15 @@ vor 1941
 
 1941
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
 
 Januar-April
 
@@ -4579,15 +4579,15 @@ September-Dezember
 
 1942
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
 
 Januar-April
 
@@ -4627,15 +4627,15 @@ September-Dezember
 
 1943
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
 
 Januar-April
 
@@ -4675,15 +4675,15 @@ September-Dezember
 
 1944
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
 
 Januar-April
 
@@ -4733,9 +4733,9 @@ auf Alter
 Jahr
 Monat
 1952
- 
- 
- 
+
+
+
 Januar
 1
 60
@@ -5703,47 +5703,47 @@ die Werte
 Januar
 75,00
 0,0625
- 
+
 Februar
 73,44
 0,0612
- 
+
 MÃ¤rz
 71,88
 0,0599
- 
+
 April
 70,31
 0,0586
- 
+
 Mai
 68,75
 0,0573
- 
+
 Juni
 67,19
 0,0560
- 
+
 Juli
 65,63
 0,0547
- 
+
 August
 64,06
 0,0534
- 
+
 September
 62,50
 0,0521
- 
+
 Oktober
 60,94
 0,0508
- 
+
 November
 59,38
 0,0495
- 
+
 Dezember
 57,81
 0,0482
@@ -5751,47 +5751,47 @@ Dezember
 Januar
 56,25
 0,0469
- 
+
 Februar
 54,69
 0,0456
- 
+
 MÃ¤rz
 53,13
 0,0443
- 
+
 April
 51,56
 0,0430
- 
+
 Mai
 50,00
 0,0417
- 
+
 Juni
 48,44
 0,0404
- 
+
 Juli
 46,88
 0,0391
- 
+
 August
 45,31
 0,0378
- 
+
 September
 43,75
 0,0365
- 
+
 Oktober
 42,19
 0,0352
- 
+
 November
 40,63
 0,0339
- 
+
 Dezember
 39,06
 0,0326
@@ -5799,47 +5799,47 @@ Dezember
 Januar
 37,50
 0,0313
- 
+
 Februar
 35,94
 0,0299
- 
+
 MÃ¤rz
 34,38
 0,0286
- 
+
 April
 32,81
 0,0273
- 
+
 Mai
 31,25
 0,0260
- 
+
 Juni
 29,69
 0,0247
- 
+
 Juli
 28,13
 0,0234
- 
+
 August
 26,56
 0,0221
- 
+
 September
 25,00
 0,0208
- 
+
 Oktober
 23,44
 0,0195
- 
+
 November
 21,88
 0,0182
- 
+
 Dezember
 20,31
 0,0169
@@ -5847,47 +5847,47 @@ Dezember
 Januar
 18,75
 0,0156
- 
+
 Februar
 17,19
 0,0143
- 
+
 MÃ¤rz
 15,63
 0,0130
- 
+
 April
 14,06
 0,0117
- 
+
 Mai
 12,50
 0,0104
- 
+
 Juni
 10,94
 0,0091
- 
+
 Juli
 9,38
 0,0078
- 
+
 August
 7,81
 0,0065
- 
+
 September
 6,25
 0,0052
- 
+
 Oktober
 4,69
 0,0039
- 
+
 November
 3,13
 0,0026
- 
+
 Dezember
 1,56
 0,0013
@@ -5938,7 +5938,7 @@ Monate
 Jahre
 Monate
 vor 2012
- 
+
 63
 0
 60
@@ -5980,67 +5980,67 @@ Juni -- Dezember
 60
 6
 2013
- 
+
 63
 7
 60
 7
 2014
- 
+
 63
 8
 60
 8
 2015
- 
+
 63
 9
 60
 9
 2016
- 
+
 63
 10
 60
 10
 2017
- 
+
 63
 11
 60
 11
 2018
- 
+
 64
 0
 61
 0
 2019
- 
+
 64
 2
 61
 2
 2020
- 
+
 64
 4
 61
 4
 2021
- 
+
 64
 6
 61
 6
 2022
- 
+
 64
 8
 61
 8
 2023
- 
+
 64
 10
 61
@@ -6090,47 +6090,47 @@ Juni -- Dezember
 62
 6
 2013
- 
+
 62
 7
 2014
- 
+
 62
 8
 2015
- 
+
 62
 9
 2016
- 
+
 62
 10
 2017
- 
+
 62
 11
 2018
- 
+
 63
 0
 2019
- 
+
 63
 2
 2020
- 
+
 63
 4
 2021
- 
+
 63
 6
 2022
- 
+
 63
 8
 2023
- 
+
 63
 10.
 \\
@@ -7220,821 +7220,821 @@ Durchschnittsentgelt
 
 700
 
- 
+
 
 92
 
 700
 
- 
+
 
 93
 
 709
 
- 
+
 
 94
 
 714
 
- 
+
 
 95
 
 714
 
- 
+
 
 96
 
 728
 
- 
+
 
 97
 
 741
 
- 
+
 
 98
 
 755
 
- 
+
 
 99
 
 773
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 1900
 
 796
 
- 
+
 
 01
 
 814
 
- 
+
 
 02
 
 841
 
- 
+
 
 03
 
 855
 
- 
+
 
 04
 
 887
 
- 
+
 
 05
 
 910
 
- 
+
 
 06
 
 946
 
- 
+
 
 07
 
 987
 
- 
+
 
 08
 
 1Â 019
 
- 
+
 
 09
 
 1Â 046
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 1910
 
 1Â 078
 
- 
+
 
 11
 
 1Â 119
 
- 
+
 
 12
 
 1Â 164
 
- 
+
 
 13
 
 1Â 182
 
- 
+
 
 14
 
 1Â 219
 
- 
+
 
 15
 
 1Â 178
 
- 
+
 
 16
 
 1Â 233
 
- 
+
 
 17
 
 1Â 446
 
- 
+
 
 18
 
 1Â 706
 
- 
+
 
 19
 
 2Â 010
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 1920
 
 3Â 729
 
- 
+
 
 21
 
 9Â 974
 
- 
+
 
 24
 
 1Â 233
 
- 
+
 
 25
 
 1Â 469
 
- 
+
 
 26
 
 1Â 642
 
- 
+
 
 27
 
 1Â 742
 
- 
+
 
 28
 
 1Â 983
 
- 
+
 
 29
 
 2Â 110
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 1930
 
 2Â 074
 
- 
+
 
 31
 
 1Â 924
 
- 
+
 
 32
 
 1Â 651
 
- 
+
 
 33
 
 1Â 583
 
- 
+
 
 34
 
 1Â 605
 
- 
+
 
 35
 
 1Â 692
 
- 
+
 
 36
 
 1Â 783
 
- 
+
 
 37
 
 1Â 856
 
- 
+
 
 38
 
 1Â 947
 
- 
+
 
 39
 
 2Â 092
 
- 
+
 
 1940
 
 2Â 156
 
- 
+
 
 41
 
 2Â 297
 
- 
+
 
 42
 
 2Â 310
 
- 
+
 
 43
 
 2Â 324
 
- 
+
 
 44
 
 2Â 292
 
- 
+
 
 45
 
 1Â 778
 
- 
+
 
 46
 
 1Â 778
 
- 
+
 
 47
 
 1Â 833
 
- 
+
 
 48
 
 2Â 219
 
- 
+
 
 49
 
 2Â 838
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 1950
 
 3Â 161
 
- 
+
 
 51
 
 3Â 579
 
- 
+
 
 52
 
 3Â 852
 
- 
+
 
 53
 
 4Â 061
 
- 
+
 
 54
 
 4Â 234
 
- 
+
 
 55
 
 4Â 548
 
- 
+
 
 56
 
 4Â 844
 
- 
+
 
 57
 
 5Â 043
 
- 
+
 
 58
 
 5Â 330
 
- 
+
 
 59
 
 5Â 602
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 1960
 
 6Â 101
 
- 
+
 
 61
 
 6Â 723
 
- 
+
 
 62
 
 7Â 328
 
- 
+
 
 63
 
 7Â 775
 
- 
+
 
 64
 
 8Â 467
 
- 
+
 
 65
 
 9Â 229
 
- 
+
 
 66
 
 9Â 893
 
- 
+
 
 67
 
 10Â 219
 
- 
+
 
 68
 
 10Â 842
 
- 
+
 
 69
 
 11Â 839
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 1970
 
 13Â 343
 
- 
+
 
 71
 
 14Â 931
 
- 
+
 
 72
 
 16Â 335
 
- 
+
 
 73
 
 18Â 295
 
- 
+
 
 74
 
 20Â 381
 
- 
+
 
 75
 
 21Â 808
 
- 
+
 
 76
 
 23Â 335
 
- 
+
 
 77
 
 24Â 945
 
- 
+
 
 78
 
 26Â 242
 
- 
+
 
 79
 
 27Â 685
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 1980
 
 29Â 485
 
- 
+
 
 81
 
 30Â 900
 
- 
+
 
 82
 
 32Â 198
 
- 
+
 
 83
 
 33Â 293
 
- 
+
 
 84
 
 34Â 292
 
- 
+
 
 85
 
 35Â 286
 
- 
+
 
 86
 
 36Â 627
 
- 
+
 
 87
 
 37Â 726
 
- 
+
 
 88
 
 38Â 896
 
- 
+
 
 89
 
 40Â 063
 
- 
+
 
 1990
 
 41Â 946
 
- 
+
 
 91
 
 44Â 421
 
- 
+
 
 92
 
 46Â 820
 
- 
+
 
 93
 
 48Â 178
 
- 
+
 
 94
 
 49Â 142
 
- 
+
 
 95
 
 50Â 665
 
- 
+
 
 96
 
 51Â 678
 
- 
+
 
 97
 
 52Â 143
 
- 
+
 
 98
 
 52Â 925
 
- 
+
 
 99
 
 53Â 507
 
- 
+
 
 2000
 
 54Â 256
 
- 
+
 
 01
 
 55Â 216
 
- 
+
 
 02
 
 28Â 626
 
- 
+
 
 03
 
 28Â 938
 
- 
+
 
 04
 
 29Â 060
 
- 
+
 
 05
 
 29Â 202
 
- 
+
 
 06
 
 29Â 494
 
- 
+
 
 07
 
 29Â 951
 
- 
+
 
 08
 
 30Â 625
 
- 
+
 
 09
 
 30 506
 
- 
+
 
 10
 
 31 144
 
- 
+
 
 11
 
 32 100
 
- 
+
 
 12
 
 33 002
 
- 
+
 
 13
 
 33 659
 
- 
+
 
 14
 
 34 514
 
- 
+
 
 15
 
 35 363
 
- 
+
 
 16
 
 36 187
 
- 
+
 
 17
 
 37 077
 
- 
+
 
 18
 
 38 212
 
- 
+
 
 19
 
 39 301
 
- 
+
 
 20
 
- 
+
 
 40 551*)
 
 21
 
- 
+
 
 41 541*)
 
@@ -8054,95 +8054,95 @@ Allgemeine Rentenversicherung
 Knappschaftliche Rentenversicherung
 Arbeiter
 Angestellten
- 
+
 1.1.1924-31.12.1924
 1Â 056
 4Â 080
- 
+
 1.1.1925-30. 4.1925
 1Â 380
 4Â 080
- 
+
 1.5.1925-31.12.1925
 1Â 380
 6Â 000
- 
+
 1.1.1926-31.12.1926
 1Â 908
 6Â 000
- 
+
 1.1.1927-31.12.1927
 2Â 016
 6Â 000
- 
+
 1.1.1928-31. 8.1928
 2Â 748
 6Â 000
- 
+
 1.9.1928-31.12.1928
 2Â 748
 8Â 400
- 
+
 1.1.1929-31.12.1929
 2Â 928
 8Â 400
- 
+
 1.1.1930-31.12.1930
 2Â 880
 8Â 400
- 
+
 1.1.1931-31.12.1931
 2Â 676
 8Â 400
- 
+
 1.1.1932-31.12.1932
 2Â 292
 8Â 400
- 
+
 1.1.1933-31.12.1933
 2Â 196
 8Â 400
- 
+
 1.1.1934-31.12.1934
 2Â 004
 7Â 200
- 
+
 1.1.1935-31.12.1935
 2Â 112
 7Â 200
- 
+
 1.1.1936-31.12.1936
 2Â 220
 7Â 200
- 
+
 1.1.1937-31.12.1937
 2Â 316
 7Â 200
- 
+
 1.1.1938-31.12.1938
 2Â 700
 7Â 200
- 
+
 1.1.1939-31.12.1939
 3Â 000
 7Â 200
- 
+
 1.1.1940-31.12.1940
 3Â 096
 7Â 200
- 
+
 1.1.1941-31.12.1941
 3Â 300
 7Â 200
- 
+
 1.1.1942-30.6.1942
 3Â 312
 7Â 200
- 
+
 1.7.1942-31.12.1942
 3Â 600
 7Â 200
- 
+
 1.1.1943-28.2.1947
 3Â 600
 7Â 200
@@ -8312,51 +8312,51 @@ Angestellten
 79Â 800
 1.1.2010-31.12.2010
 66Â 000
- 
+
 81Â 600
 1.1.2011-31.12.2011
 66 000
- 
+
 81 000
 1.1.2012-31.12.2012
 67 200
- 
+
 82 800
 1.1.2013-31.12.2013
 69 600
- 
+
 85 200
 1.1.2014-31.12.2014
 71 400
- 
+
 87 600
 1.1.2015-31.12.2015
 72 600
- 
+
 89 400
 1.1.2016-31.12.2016
 74 400
- 
+
 91 800
 1.1.2017-31.12.2017
 76 200
- 
+
 94 200
 1.1.2018-31.12.2018
 78 000
- 
+
 96 000
 1.1.2019-31.12.2019
 80 400
- 
+
 98 400
 1.1.2020 - 31.12.2020
 82 800
- 
+
 101 400
 1.1.2021 - 31.12.2021
 85 200
- 
+
 104 400
 
 Anlage 2a - JÃ¤hrliche Beitragsbemessungsgrenzen des Beitrittsgebiets in Euro/DM
@@ -8415,39 +8415,39 @@ Angestellten
 1.1.1935 - 31.12.1935
 1,2482
 4,2553
- 
+
 1.1.1936 - 31.12.1936
 1,2451
 4,0381
- 
+
 1.1.1937 - 31.12.1937
 1,2478
 3,8793
- 
+
 1.1.1938 - 31.12.1938
 1,3867
 3,6980
- 
+
 1.1.1939 - 31.12.1939
 1,4340
 3,4417
- 
+
 1.1.1940 - 31.12.1940
 1,4360
 3,3395
- 
+
 1.1.1941 - 31.12.1941
 1,4367
 3,1345
- 
+
 1.1.1942 - 30.06.1942
 1,4338
 3,1169
- 
+
 1.7.1942 - 31.12.1942
 1,5584
 3,1169
- 
+
 1.1.1943 - 31.12.1943
 1,5491
 3,0981
@@ -8671,14 +8671,14 @@ vorlÃ¤ufige
 2,3444
 2,3334
 1.1.2001 - 31.12.2001
- 
+
 1,9092
- 
+
 2,3480
 1.1.2002 - 31.12.2002
- 
+
 1,8935
- 
+
 2,3354
 
 Anlage 3 - Entgeltpunkte fÃ¼r BeitrÃ¤ge nach Lohn-, Beitrags- oder Gehaltsklassen
@@ -8727,9 +8727,9 @@ VI
 
 0,0305
 
- 
 
- 
+
+
 
 1.1.1900-31.12.1906
 
@@ -8743,7 +8743,7 @@ VI
 
 0,0306
 
- 
+
 
 1.1.1907-30. 9.1921
 
@@ -8757,7 +8757,7 @@ VI
 
 0,0263
 
- 
+
 
 1.1.1924-31.12.1933
 
@@ -8857,9 +8857,9 @@ VI
 
 0,0083
 
- 
 
- 
+
+
 
 1. Rentenversicherung der Arbeiter
 
@@ -8881,59 +8881,59 @@ XII
 
 1.1.1891-31.12.1899
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
 
 1.1.1900-31.12.1906
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
 
 1.1.1907-30. 9.1921
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
 
 1.1.1924-31.12.1933
 
 0,0267
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
 
 1.1.1934-27. 6.1942
 
@@ -8945,9 +8945,9 @@ XII
 
 0,0292
 
- 
 
- 
+
+
 
 28.6.1942-29. 5.1949
 
@@ -8959,9 +8959,9 @@ XII
 
 0,0271
 
- 
 
- 
+
+
 
 30.5.1949-31.12.1954
 
@@ -8989,7 +8989,7 @@ XII
 
 0,0343
 
- 
+
 
 1.1.1956-31.12.1956
 
@@ -9003,7 +9003,7 @@ XII
 
 0,0322
 
- 
+
 
 1.1.1957-28. 2.1957
 
@@ -9017,11 +9017,11 @@ XII
 
 0,0309
 
- 
 
- 
 
- 
+
+
+
 
 2. Rentenversicherung der Angestellten
 
@@ -9165,9 +9165,9 @@ VI
 
 0,0347
 
- 
 
- 
+
+
 
 2. Rentenversicherung der Angestellten
 
@@ -9195,9 +9195,9 @@ XII
 
 (K)
 
- 
 
- 
+
+
 
 1.1.1913-31. 7.1921
 
@@ -9207,11 +9207,11 @@ XII
 
 0,2824
 
- 
 
- 
 
- 
+
+
+
 
 1.1.1924-31.12.1933
 
@@ -9223,9 +9223,9 @@ XII
 
 0,4513
 
- 
 
- 
+
+
 
 1.1.1934-30. 6.1942
 
@@ -9237,9 +9237,9 @@ XII
 
 0,4357
 
- 
 
- 
+
+
 
 1.7.1942-31. 5.1949
 
@@ -9251,9 +9251,9 @@ XII
 
 0,4037
 
- 
 
- 
+
+
 
 1.6.1949-31.12.1954
 
@@ -9281,7 +9281,7 @@ XII
 
 0,1512
 
- 
+
 
 1.1.1956-31.12.1956
 
@@ -9295,7 +9295,7 @@ XII
 
 0,1419
 
- 
+
 
 1.1.1957-28. 2.1957
 
@@ -9309,11 +9309,11 @@ XII
 
 0,1363
 
- 
 
- 
 
- 
+
+
+
 
 3. Knappschaftliche Rentenversicherung Arbeiter
 
@@ -9389,14 +9389,14 @@ bis 31. 9.1921
 
 0,0838
 
- 
 
- 
+
+
 
 3. Knappschaftliche Rentenversicherung\\
 Arbeiter
 
- 
+
 
 Zeitraum
 
@@ -9414,21 +9414,21 @@ bis 30. 9.1921
 
 0,1338
 
- 
 
- 
 
- 
+
+
+
 
 1.1.1924-30. 6.1926
 
 0,1338
 
- 
 
- 
 
- 
+
+
+
 
 1.7.1926-31.12.1938
 
@@ -9448,11 +9448,11 @@ bis 30. 9.1921
 
 0,1173
 
- 
 
- 
 
- 
+
+
+
 
 Angestellte
 
@@ -9528,13 +9528,13 @@ bis 31. 7.1921
 
 0,1788
 
- 
 
- 
+
+
 
 Angestellte
 
- 
+
 
 Zeitraum
 
@@ -9554,9 +9554,9 @@ bis 31. 7.1921
 
 0,2378
 
- 
 
- 
+
+
 
 1.1.1924-30. 6.1926
 
@@ -9564,9 +9564,9 @@ bis 31. 7.1921
 
 0,2378
 
- 
 
- 
+
+
 
 1.7.1926-31.12.1938
 
@@ -9582,29 +9582,29 @@ bis 31. 7.1921
 
 0,1788
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
 
 Doppelversicherung *)
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
 
 1.1.1924-30. 6.1926
 
@@ -9620,19 +9620,19 @@ Doppelversicherung *)
 
 0,3171
 
- 
 
- 
+
+
 
 Doppelversicherung *)
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 1.1.1924-30. 6.1926
 
@@ -9640,11 +9640,11 @@ Doppelversicherung *)
 
 0,3171
 
- 
 
- 
 
- 
+
+
+
 
 -----
 
@@ -9657,60 +9657,60 @@ Anlage 4 - Beitragsbemessungsgrundlage fÃ¼r Beitragsklassen
 Bezeichnung der Beitragsklasse
 Beitragsbemessungsgrundlage DM
 I
- 
- 
+
+
 12,50
 II
- 
- 
+
+
 50
 III
 A
 100
 100
 IV
- 
- 
+
+
 150
 V
 B
 200
 200
 VI
- 
- 
+
+
 250
 VII
 C
 300
 300
 VIII
- 
- 
+
+
 350
 IX
 D
 400
 400
 X
- 
- 
+
+
 450
 XI
 E
 500
 500
 XII
- 
- 
+
+
 550
 XIII
 F
 600
 600
 XIV
- 
- 
+
+
 650
 XV
 G
@@ -9718,7 +9718,7 @@ G
 700
 XVI
 H
- 
+
 750
 XVII
 J
@@ -9726,7 +9726,7 @@ J
 800
 XVIII
 K
- 
+
 850
 XIX
 L
@@ -9734,7 +9734,7 @@ L
 900
 XX
 M
- 
+
 950
 XXI
 N
@@ -9742,7 +9742,7 @@ N
 1.000
 XXII
 O
- 
+
 1.050
 XXIII
 P
@@ -9750,7 +9750,7 @@ P
 1.100
 XXIV
 Q
- 
+
 1.150
 XXV
 R
@@ -9758,7 +9758,7 @@ R
 1.200
 XXVI
 S
- 
+
 1.250
 XXVII
 T
@@ -9766,66 +9766,66 @@ T
 1.300
 XXVIII
 U
- 
+
 1.350
 XXIX
 V
 1.400
 1.400
- 
- 
+
+
 1.500
 1.500
- 
- 
+
+
 1.600
 1.600
- 
- 
+
+
 1.700
 1.700
- 
- 
+
+
 1.800
 1.800
- 
- 
+
+
 1.900
 1.900
- 
- 
+
+
 2.000
 2.000
- 
- 
+
+
 2.100
 2.100
- 
- 
+
+
 2.200
 2.200
- 
- 
+
+
 2.300
 2.300
- 
- 
+
+
 2.400
 2.400
- 
- 
+
+
 2.500
 2.500
- 
- 
+
+
 2.600
 2.600
- 
- 
+
+
 2.800
 2.800
- 
- 
+
+
 3.100
 3.100
 
@@ -9892,7 +9892,7 @@ WochenbeitrÃ¤ge
 Anlage 6 - Werte zur Umrechnung der Beitragsbemessungsgrundlagen von Franken in Deutsche Mark
 
 < Fundstelle des Originaltextes: BGBl. I 2002, 878 >
- 
+
 Jahr
 Umrechnungswert
 1947
@@ -9964,7 +9964,7 @@ VI
 0,0067
 0,0097
 0,0126
- 
+
 Zeitraum
 Lohn- oder Beitragsklassen
 VII
@@ -9978,8 +9978,8 @@ XII
 0,0215
 0,0241
 0,0268
- 
- 
+
+
 1. 5.1948-31.12.1950
 0,0144
 0,0164
@@ -10001,7 +10001,7 @@ XII
 0,0245
 0,0275
 0,0304
- 
+
 Zeitraum
 Lohn- oder Beitragsklassen
 XIII
@@ -10011,19 +10011,19 @@ XVI
 XVII
 XVIII
 20.11.1947-30. 4.1948
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 1. 5.1948-31.12.1950
 0,0267
 0,0288
 0,0308
- 
- 
- 
+
+
+
 1. 1.1951-31. 8.1951
 0,0181
 0,0195
@@ -10035,47 +10035,47 @@ XVIII
 0,0371
 0,0436
 0,0516
- 
- 
- 
- 
+
+
+
+
 Zeitraum
-Lohn- oder Beitragsklassen 
+Lohn- oder Beitragsklassen
 XIX
 XX
- 
- 
- 
- 
+
+
+
+
 20.11.1947-30. 4.1948
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 1. 5.1948-31.12.1950
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 1. 1.1951-31. 8.1951
 0,0355
 0,0436
- 
- 
- 
- 
+
+
+
+
 1. 9.1951-31.12.1951
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
 (MonatsbeitrÃ¤ge)
 Zeitraum
 Lohn- oder Beitragsklassen
@@ -10106,7 +10106,7 @@ Lohn- oder Beitragsklassen
 0,0426
 0,0568
 0,0710
- 
+
 Zeitraum
 Lohn- oder Beitragsklassen
 7
@@ -10120,8 +10120,8 @@ Lohn- oder Beitragsklassen
 0,1575
 0,1969
 0,2363
- 
- 
+
+
 1. 1.1956-31.12.1956
 0,0931
 0,1008
@@ -10136,7 +10136,7 @@ Lohn- oder Beitragsklassen
 0,1421
 0,1705
 0,2273
- 
+
 2. Rentenversicherung der Angestellten Beitragsklassen/Beitragswert in Franken
 (MonatsbeitrÃ¤ge)
 Zeitraum
@@ -10202,7 +10202,7 @@ F
 0,0426
 0,0568
 0,0710
- 
+
 Zeitraum
 Gehalts- oder Beitragsklassen
 G
@@ -10250,8 +10250,8 @@ M
 0,1575
 0,1969
 0,2363
- 
- 
+
+
 1. 1.1956-31.12.1956
 0,0931
 0,1008
@@ -10266,7 +10266,7 @@ M
 0,1421
 0,1705
 0,2273
- 
+
 Zeitraum
 Gehalts- oder Beitragsklassen
 N
@@ -10275,19 +10275,19 @@ P
 Q
 R
 S
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 1.12.1947-30. 4.1948
 0,2003
- 
- 
- 
- 
- 
+
+
+
+
+
 1. 5.1948-31.12.1950
 0,1145
 0,1233
@@ -10306,95 +10306,95 @@ S
 0,1613
 0,1936
 0,2258
- 
- 
- 
+
+
+
 1. 1.1952-31.12.1955
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 1. 1.1956-31.12.1956
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 1. 1.1957-31. 8.1957
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
 Zeitraum
 Gehalts- oder Beitragsklassen
 T
 U
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
 1.12.1947-30. 4.1948
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 1. 5.1948-31.12.1950
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 1. 1.1951-31. 8.1951
 0,1290
 0,1452
- 
- 
- 
- 
+
+
+
+
 1. 9.1951-31.12.1951
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 1. 1.1952-31.12.1955
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 1. 1.1956-31.12.1956
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 1. 1.1957-31. 8.1957
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
 3. Landwirteversorgung
 Zeitraum
 Lohn- oder Beitragsklassen
@@ -10474,10 +10474,10 @@ Lohn- oder Beitragsklassen
 0,0304
 0,0381
 0,0457
- 
+
 Zeitraum
 Lohn- oder Beitragsklassen
- 
+
 8
 9
 10
@@ -10487,8 +10487,8 @@ Lohn- oder Beitragsklassen
 0,1575
 0,1969
 0,2363
- 
- 
+
+
 1.1.1956-31.12.1956
 0,1008
 0,1241
@@ -11052,7 +11052,7 @@ Folgende im Gebiet der Bundesrepublik Deutschland ohne das Beitrittsgebiet ausge
 I. Hauerarbeiten:
 1.
 Bezeichnung des Versicherten und erforderliche BeschÃ¤ftigungsmerkmale
- 
+
 Ãœbliche Bezeichnung:
 Erforderliche Merkmale der BeschÃ¤ftigung
 AbdÃ¤mmer
@@ -11060,7 +11060,7 @@ Bohr- und SchieÃŸarbeiten im Steinkohlenbergbau Saar
 Abteilungssteiger
 Nummer 8
 Anlernhauer
- 
+
 AnschlÃ¤ger unter Tage
 Auffahren beladener FÃ¶rderwagen ohne mechanische Hilfe in knappschaftlichen Betrieben der Industrie der Steine und Erden und Nummer 1
 Aufsichtshauer
@@ -11130,11 +11130,11 @@ Meisterhauer
 Neubergmann
 Nummern 1 und 3
 Oberhauer
- 
+
 Obersteiger unter Tage
 Nummer 8
 Partiemann
- 
+
 PfeilerrÃ¼cker
 Nummern 1 und 3
 Rauber
@@ -11148,13 +11148,13 @@ Nummern 1 und 3
 Rolllochmaurer
 im Erzbergbau oder in knappschaftlichen Betrieben der Industrie der Steine und Erden und Nummer 1
 Rutschenmeister
- 
+
 Schachthauer
 stÃ¤ndige Reparaturarbeiten im Schacht und Nummer 4
 Schachtsteiger
 Nummer 8
 SchieÃŸmeister
- 
+
 SchieÃŸsteiger
 Ã¼berwiegende Beaufsichtigung der durchzufÃ¼hrenden SchieÃŸarbeiten
 Schrapperfahrer
@@ -11162,7 +11162,7 @@ im Kali- oder Steinsalzbergbau und Nummer 1
 Stapelreparaturhauer
 stÃ¤ndige Reparaturarbeiten in Blind- oder SchrÃ¤gschÃ¤chten und Nummern 2 und 4
 Stempelwart
- 
+
 StÃ¼ckenschieÃŸer
 im Kali- oder Steinsalzbergbau und Nummer 4
 Umsetzer
@@ -11177,7 +11177,7 @@ Wettersteiger
 im Pech- oder Steinkohlenbergbau
 ohne Bezeichnung:
 stÃ¤ndige Reparaturarbeiten im Schacht;
- 
+
 stÃ¤ndige Reparaturarbeiten in Blind- oder SchrÃ¤gschÃ¤chten und Nummer 2;
 Zimmer-, Reparatur- oder sonstige Instandsetzungsarbeiten im Abbau, beim Streckenvortrieb oder in der Aus- und Vorrichtung und Nummer 2;
 AufwÃ¤ltigungs- und GewÃ¤ltigungsarbeiten und Nummer 2;
@@ -11366,136 +11366,136 @@ Monat
 2. Halbjahr
 192.565
 1989
- 
+
 189.270
 1988
- 
+
 183.713
 1987
- 
+
 178.310
 1986
- 
+
 173.135
 1985
- 
+
 168.201
 1984
- 
+
 163.519
 1983
- 
+
 158.903
 1982
- 
+
 154.388
 1981
- 
+
 149.942
 1980
- 
+
 145.607
 1979
- 
+
 141.487
 1978
- 
+
 137.345
 1977
- 
+
 133.121
 1976
- 
+
 128.871
 1975
- 
+
 124.729
 1974
- 
+
 120.696
 1973
- 
+
 116.845
 1972
- 
+
 112.988
 1971
- 
+
 109.090
 1970
- 
+
 105.211
 1969
- 
+
 101.325
 1968
- 
+
 97.328
 1967
- 
+
 92.938
 1966
- 
+
 88.355
 1965
- 
+
 83.957
 1964
- 
+
 82.093
 1963
- 
+
 80.195
 1962
- 
+
 78.220
 1961
- 
+
 76.146
 1960
- 
+
 73.979
 1959
- 
+
 71.651
 1958
- 
+
 69.211
 1957
- 
+
 66.897
 1956
- 
+
 64.704
 1955
- 
+
 62.390
 1954
- 
+
 59.838
 1953
- 
+
 56.925
 1952
- 
+
 53.963
 1951
- 
+
 50.863
 1950
- 
+
 47.404
 1949
- 
+
 43.340
 1948
- 
+
 38.867
 1947
- 
+
 36.110
 1946 und frÃ¼her
- 
+
 35.560
 
 Anlage 13 - Definition der Qualifikationsgruppen
@@ -11572,7 +11572,7 @@ bzgl. der einzelnen Ã„nderungen vgl. FuÃŸnote)
 #+CAPTION: Bereich
 
 Tabelle 1
- 
+
 Bereich: Energie- und Brennstoffindustrie
 Qualifikationsgruppe
 Jahr
@@ -11833,7 +11833,7 @@ II/90
 26.949
 21.084
 17.491
- 
+
 Qualifikationsgruppe (endgÃ¼ltige Werte)
 Jahr
 1
@@ -11907,8 +11907,8 @@ Jahr
 70.950
 55.508
 46.049
- 
- 
+
+
 Qualifikationsgruppe (vorlÃ¤ufige Werte)
 Jahr
 1
@@ -11982,9 +11982,9 @@ Jahr
 70.266
 54.973
 45.605
- 
+
 Tabelle 2
- 
+
 Bereich: Chemische Industrie
 Qualifikationsgruppe
 Jahr
@@ -12245,7 +12245,7 @@ II/90
 23.651
 18.504
 15.350
- 
+
 Qualifikationsgruppe (endgÃ¼ltige Werte)
 Jahr
 1
@@ -12319,8 +12319,8 @@ Jahr
 62.268
 48.716
 40.412
- 
- 
+
+
 Qualifikationsgruppe (vorlÃ¤ufige Werte)
 Jahr
 1
@@ -12394,9 +12394,9 @@ Jahr
 61.667
 48.247
 40.023
- 
+
 Tabelle 3
- 
+
 Bereich: Metallurgie
 Qualifikationsgruppe
 Jahr
@@ -12657,7 +12657,7 @@ II/90
 22.144
 17.325
 14.371
- 
+
 Qualifikationsgruppe (endgÃ¼ltige Werte)
 Jahr
 1
@@ -12731,8 +12731,8 @@ Jahr
 58.300
 45.613
 37.835
- 
- 
+
+
 Qualifikationsgruppe (vorlÃ¤ufige Werte)
 Jahr
 1
@@ -12806,9 +12806,9 @@ Jahr
 57.738
 45.173
 37.471
- 
+
 Tabelle 4
- 
+
 Bereich: Baumaterialienindustrie
 Qualifikationsgruppe
 Jahr
@@ -13069,7 +13069,7 @@ II/90
 23.457
 18.352
 15.224
- 
+
 Qualifikationsgruppe (endgÃ¼ltige Werte)
 Jahr
 1
@@ -13143,8 +13143,8 @@ Jahr
 61.757
 48.315
 40.083
- 
- 
+
+
 Qualifikationsgruppe (vorlÃ¤ufige Werte)
 Jahr
 1
@@ -13218,9 +13218,9 @@ Jahr
 61.162
 47.850
 39.697
- 
+
 Tabelle 5
- 
+
 Bereich: Wasserwirtschaft
 Qualifikationsgruppe
 Jahr
@@ -13481,7 +13481,7 @@ II/90
 22.153
 17.331
 14.378
- 
+
 Qualifikationsgruppe (endgÃ¼ltige Werte)
 Jahr
 1
@@ -13555,8 +13555,8 @@ Jahr
 58.322
 45.627
 37.854
- 
- 
+
+
 Qualifikationsgruppe (vorlÃ¤ufige Werte)
 Jahr
 1
@@ -13630,9 +13630,9 @@ Jahr
 57.760
 45.187
 37.489
- 
+
 Tabelle 6
- 
+
 Bereich: Maschinen- und Fahrzeugbau
 Qualifikationsgruppe
 Jahr
@@ -13893,7 +13893,7 @@ II/90
 23.909
 18.705
 15.517
- 
+
 Qualifikationsgruppe (endgÃ¼ltige Werte)
 Jahr
 1
@@ -13967,8 +13967,8 @@ Jahr
 62.947
 49.245
 40.854
- 
- 
+
+
 Qualifikationsgruppe (vorlÃ¤ufige Werte)
 Jahr
 1
@@ -14042,9 +14042,9 @@ Jahr
 62.340
 48.771
 40.460
- 
+
 Tabelle 7
- 
+
 Bereich: Elektrotechnik / Elektronik / GerÃ¤tebau
 Qualifikationsgruppe
 Jahr
@@ -14305,7 +14305,7 @@ II/90
 23.500
 18.385
 15.251
- 
+
 Qualifikationsgruppe (endgÃ¼ltige Werte)
 Jahr
 1
@@ -14379,8 +14379,8 @@ Jahr
 61.868
 48.404
 40.152
- 
- 
+
+
 Qualifikationsgruppe (vorlÃ¤ufige Werte)
 Jahr
 1
@@ -14455,7 +14455,7 @@ Jahr
 47.937
 39.765
 Tabelle 8
- 
+
 Bereich: Leichtindustrie (ohne Textilindustrie)
 Qualifikationsgruppe
 Jahr
@@ -14789,7 +14789,7 @@ Jahr
 51.563
 40.338
 33.465
- 
+
 Qualifikationsgruppe (vorlÃ¤ufige Werte)
 Jahr
 1
@@ -14864,7 +14864,7 @@ Jahr
 39.949
 33.142
 Tabelle 9
- 
+
 Bereich: Textilindustrie
 Qualifikationsgruppe
 Jahr
@@ -15198,7 +15198,7 @@ Jahr
 51.880
 40.589
 33.674
- 
+
 Qualifikationsgruppe (vorlÃ¤ufige Werte)
 Jahr
 1
@@ -15277,7 +15277,7 @@ Jahr
 | Bereich: Lebensmittelindustrie |
 
 Qualifikationsgruppe
- 
+
 Jahr
 1
 2
@@ -15536,7 +15536,7 @@ II/90
 20.880
 16.335
 13.551
- 
+
 Qualifikationsgruppe (endgÃ¼ltige Werte)
 Jahr
 1
@@ -15610,8 +15610,8 @@ Jahr
 54.973
 43.004
 35.676
- 
- 
+
+
 Qualifikationsgruppe (vorlÃ¤ufige Werte)
 Jahr
 1
@@ -15685,9 +15685,9 @@ Jahr
 54.443
 42.590
 35.333
- 
+
 Tabelle 11
- 
+
 Bereich: Bauwirtschaft
 Qualifikationsgruppe
 Jahr
@@ -15948,7 +15948,7 @@ II/90
 24.563
 19.217
 15.941
- 
+
 Qualifikationsgruppe (endgÃ¼ltige Werte)
 Jahr
 1
@@ -16022,8 +16022,8 @@ Jahr
 64.668
 50.593
 41.967
- 
- 
+
+
 Qualifikationsgruppe (vorlÃ¤ufige Werte)
 Jahr
 1
@@ -16097,9 +16097,9 @@ Jahr
 64.045
 50.106
 41.563
- 
+
 Tabelle 12
- 
+
 Bereich: Sonstige produzierende Bereiche
 Qualifikationsgruppe
 Jahr
@@ -16360,7 +16360,7 @@ II/90
 19.470
 14.907
 12.111
- 
+
 Qualifikationsgruppe (endgÃ¼ltige Werte)
 Jahr
 1
@@ -16434,8 +16434,8 @@ Jahr
 51.260
 39.247
 31.886
- 
- 
+
+
 Qualifikationsgruppe (vorlÃ¤ufige Werte)
 Jahr
 1
@@ -16509,9 +16509,9 @@ Jahr
 50.766
 38.869
 31.578
- 
+
 Tabelle 13
- 
+
 Bereich: Produzierendes Handwerk
 Qualifikationsgruppe
 Jahr
@@ -16772,7 +16772,7 @@ II/90
 15.572
 12.183
 10.107
- 
+
 Qualifikationsgruppe (endgÃ¼ltige Werte)
 Jahr
 1
@@ -16846,8 +16846,8 @@ Jahr
 40.996
 32.075
 26.609
- 
- 
+
+
 Qualifikationsgruppe (vorlÃ¤ufige Werte)
 Jahr
 1
@@ -16921,9 +16921,9 @@ Jahr
 40.601
 31.766
 26.352
-Â Â Â Â Â  
+Â Â Â Â Â 
 Tabelle 14
- 
+
 Bereich: Land- und Forstwirtschaft
 Qualifikationsgruppe
 Jahr
@@ -17184,7 +17184,7 @@ II/90
 18.873
 14.793
 12.293
- 
+
 Qualifikationsgruppe (endgÃ¼ltige Werte)
 Jahr
 1
@@ -17258,8 +17258,8 @@ Jahr
 49.689
 38.948
 32.365
- 
- 
+
+
 Qualifikationsgruppe (vorlÃ¤ufige Werte)
 Jahr
 1
@@ -17333,9 +17333,9 @@ Jahr
 49.210
 38.573
 32.053
-Â Â Â Â Â  
+Â Â Â Â Â 
 Tabelle 15
- 
+
 Bereich: Verkehr
 Qualifikationsgruppe
 Jahr
@@ -17596,7 +17596,7 @@ II/90
 24.607
 19.332
 16.100
- 
+
 Qualifikationsgruppe (endgÃ¼ltige Werte)
 Jahr
 1
@@ -17670,8 +17670,8 @@ Jahr
 64.785
 50.896
 42.386
- 
- 
+
+
 Qualifikationsgruppe (vorlÃ¤ufige Werte)
 Jahr
 1
@@ -17746,7 +17746,7 @@ Jahr
 50.406
 41.978
 Tabelle 16
- 
+
 Bereich: Post- und Fernmeldewesen
 Qualifikationsgruppe
 Jahr
@@ -18080,7 +18080,7 @@ Jahr
 56.635
 44.496
 37.054
- 
+
 Qualifikationsgruppe (vorlÃ¤ufige Werte)
 Jahr
 1
@@ -18154,9 +18154,9 @@ Jahr
 56.089
 44.067
 36.697
- 
+
 Tabelle 17
- 
+
 Bereich: Handel
 Qualifikationsgruppe
 Jahr
@@ -18490,7 +18490,7 @@ Jahr
 47.653
 37.507
 31.289
- 
+
 Qualifikationsgruppe (vorlÃ¤ufige Werte)
 Jahr
 1
@@ -18564,9 +18564,9 @@ Jahr
 47.194
 37.146
 30.988
- 
+
 Tabelle 18
- 
+
 Bereich: Bildung, Kultur, Gesundheits- und Sozialwesen
 Qualifikationsgruppe
 Jahr
@@ -18900,7 +18900,7 @@ Jahr
 46.175
 34.635
 27.559
- 
+
 Qualifikationsgruppe (vorlÃ¤ufige Werte)
 Jahr
 1
@@ -18974,9 +18974,9 @@ Jahr
 45.730
 34 301
 27.294
- 
+
 Tabelle 19
- 
+
 Bereich: Wissenschaft, Hoch- und Fachschulwesen
 Qualifikationsgruppe
 Jahr
@@ -19310,7 +19310,7 @@ Jahr
 49.381
 37.041
 29.473
- 
+
 Qualifikationsgruppe (vorlÃ¤ufige Werte)
 Jahr
 1
@@ -19384,9 +19384,9 @@ Jahr
 48.905
 36.684
 29.188
- 
+
 Tabelle 20
- 
+
 Bereich: Staatliche Verwaltung und gesellschaftliche Organisationen
 Qualifikationsgruppe
 Jahr
@@ -19720,7 +19720,7 @@ Jahr
 43.732
 33.024
 26.465
- 
+
 Qualifikationsgruppe (vorlÃ¤ufige Werte)
 Jahr
 1
@@ -19794,9 +19794,9 @@ Jahr
 43.310
 32.706
 26.210
- 
+
 Tabelle 21
- 
+
 Bereich: Sonstige nichtproduzierende Bereiche
 Qualifikationsgruppe
 Jahr
@@ -20130,7 +20130,7 @@ Jahr
 49.173
 38.530
 32.009
- 
+
 Qualifikationsgruppe (vorlÃ¤ufige Werte)
 Jahr
 1
@@ -20204,9 +20204,9 @@ Jahr
 48.699
 38.158
 31.700
- 
+
 Tabelle 22
- 
+
 Bereich: Landwirtschaftliche Produktionsgenossenschaften
 Qualifikationsgruppe
 Jahr
@@ -20528,7 +20528,7 @@ Jahr
 44.332
 34.750
 28.875
- 
+
 Qualifikationsgruppe (vorlÃ¤ufige Werte)
 Jahr
 1
@@ -20602,9 +20602,9 @@ Jahr
 43.905
 34.416
 28.597
- 
+
 Tabelle 23
- 
+
 Produktionsgenossenschaften des Handwerks
 Bereich: Qualifikationsgruppe
 Jahr
@@ -20920,7 +20920,7 @@ Jahr
 51.151
 40.020
 33.197
- 
+
 Qualifikationsgruppe (vorlÃ¤ufige Werte)
 Jahr
 1
@@ -21015,7 +21015,7 @@ Fundstelle des Originaltextes: BGBl. I 2002, 914
 | 1.1.1956 - 31.12.1956  | 0.0064                                             |
 | 1.1.1957 - 28.2.1957   | 0,0062                                             |
 
- 
+
 Knappschaftliche Rentenversicherung MonatsbeitrÃ¤ge
 weiterhin
 nicht mehr
@@ -21154,11 +21154,11 @@ Monat
 Jahr
 Monat
 1937
- 
- 
- 
- 
- 
+
+
+
+
+
 Januar
 1
 60
@@ -21232,11 +21232,11 @@ Dezember
 60
 0
 1938
- 
- 
- 
- 
- 
+
+
+
+
+
 Januar
 13
 61
@@ -21310,11 +21310,11 @@ Dezember
 60
 0
 1939
- 
- 
- 
- 
- 
+
+
+
+
+
 Januar
 25
 62
@@ -21388,11 +21388,11 @@ Dezember
 60
 0
 1940
- 
- 
- 
- 
- 
+
+
+
+
+
 Januar
 37
 63
@@ -21466,11 +21466,11 @@ Dezember
 60
 0
 1941
- 
- 
- 
- 
- 
+
+
+
+
+
 Januar
 49
 64
@@ -21550,241 +21550,241 @@ Dezember
 60
 0
 1946
- 
- 
- 
- 
- 
+
+
+
+
+
 Januar
- 
+
 65
 0
 60
 1
 Februar
- 
+
 65
 0
 60
 2
 MÃ¤rz
- 
+
 65
 0
 60
 3
 April
- 
+
 65
 0
 60
 4
 Mai
- 
+
 65
 0
 60
 5
 Juni
- 
+
 65
 0
 60
 6
 Juli
- 
+
 65
 0
 60
 7
 August
- 
+
 65
 0
 60
 8
 September
- 
+
 65
 0
 60
 9
 Oktober
- 
+
 65
 0
 60
 10
 November
- 
+
 65
 0
 60
 11
 Dezember
- 
+
 65
 0
 61
 0
 1947
- 
- 
- 
- 
- 
+
+
+
+
+
 Januar
- 
+
 65
 0
 61
 1
 Februar
- 
+
 65
 0
 61
 2
 MÃ¤rz
- 
+
 65
 0
 61
 3
 April
- 
+
 65
 0
 61
 4
 Mai
- 
+
 65
 0
 61
 5
 Juni
- 
+
 65
 0
 61
 6
 Juli
- 
+
 65
 0
 61
 7
 August
- 
+
 65
 0
 61
 8
 September
- 
+
 65
 0
 61
 9
 Oktober
- 
+
 65
 0
 61
 10
 November
- 
+
 65
 0
 61
 11
 Dezember
- 
+
 65
 0
 62
 0
 1948
- 
- 
- 
- 
- 
+
+
+
+
+
 Januar
- 
+
 65
 0
 62
 1
 Februar
- 
+
 65
 0
 62
 2
 MÃ¤rz
- 
+
 65
 0
 62
 3
 April
- 
+
 65
 0
 62
 4
 Mai
- 
+
 65
 0
 62
 5
 Juni
- 
+
 65
 0
 62
 6
 Juli
- 
+
 65
 0
 62
 7
 August
- 
+
 65
 0
 62
 8
 September
- 
+
 65
 0
 62
 9
 Oktober
- 
+
 65
 0
 62
 10
 November
- 
+
 65
 0
 62
 11
 Dezember
- 
+
 65
 0
 63
 0
 1949 - 1951
- 
+
 65
 0
 63
@@ -21811,11 +21811,11 @@ Monat
 Jahr
 Monat
 1940
- 
- 
- 
- 
- 
+
+
+
+
+
 Januar
 1
 60
@@ -21889,11 +21889,11 @@ Dezember
 60
 0
 1941
- 
- 
- 
- 
- 
+
+
+
+
+
 Januar
 13
 61
@@ -21967,11 +21967,11 @@ Dezember
 60
 0
 1942
- 
- 
- 
- 
- 
+
+
+
+
+
 Januar
 25
 62
@@ -22045,11 +22045,11 @@ Dezember
 60
 0
 1943
- 
- 
- 
- 
- 
+
+
+
+
+
 Januar
 37
 63
@@ -22123,11 +22123,11 @@ Dezember
 60
 0
 1944
- 
- 
- 
- 
- 
+
+
+
+
+
 Januar
 49
 64

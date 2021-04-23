@@ -95,32 +95,32 @@ Der Beitragssatz für das Jahr 1999 beträgt in der Rentenversicherung der Arbei
 (1) Die auf Grund des vorläufigen Durchschnittsentgelts und des Beitragssatzes für das Jahr 1999 berechneten Faktoren betragen im Jahre 1999\\
 1.
 in der Rentenversicherung der Arbeiter und der Angestellten für die Umrechnung
-�
+
 a)
 von Entgeltpunkten in Beiträge
 10.775,6460,
-�
+
 von Entgeltpunkten (Ost) in Beiträge
 9.088,0037,
 b)
 von Beiträgen, Barwerten, Deckungskapitalien und vergleichbaren Deckungsrücklagen in Entgeltpunkte
 0,0000928019,
-�
+
 von Beiträgen in Entgeltpunkte (Ost)
 0,0001100352,
 2.
 in der knappschaftlichen Rentenversicherung für die Umrechnung
-�
+
 a)
 von Entgeltpunkten in Beiträge
 14.279,0580,
-�
+
 von Entgeltpunkten (Ost) in Beiträge
 12.042,7241,
 b)
 von Beiträgen in Entgeltpunkte
 0,0000700326,
-�
+
 von Beiträgen in Entgeltpunkte (Ost)
 0,0000830377.
 (2) Entgeltpunkte werden in Beiträge umgerechnet, indem sie mit dem im Zeitpunkt der Beitragsentrichtung maßgebenden Umrechnungsfaktor vervielfältigt werden.

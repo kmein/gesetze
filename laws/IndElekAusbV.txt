@@ -164,14 +164,14 @@ kann;
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Leistungen
 
-- 1. :: im Gesamtergebnis mit mindestens �ausreichend“,
-- 2. :: im Prüfungsbereich Elektrische Sicherheit mindestens �ausreichend“,
-- 3. :: im Prüfungsbereich Schaltungs- und Funktionsanalyse mindestens �ausreichend“ und
-- 4. :: in keinem Prüfungsbereich mit �ungenügend“
+- 1. :: im Gesamtergebnis mit mindestens ausreichend“,
+- 2. :: im Prüfungsbereich Elektrische Sicherheit mindestens ausreichend“,
+- 3. :: im Prüfungsbereich Schaltungs- und Funktionsanalyse mindestens ausreichend“ und
+- 4. :: in keinem Prüfungsbereich mit ungenügend“
 
 bewertet worden sind.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der in der Abschlussprüfung mit schlechter als �ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der in der Abschlussprüfung mit schlechter als ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
 § 9 - Fortsetzung der Berufsausbildung
 
@@ -335,9 +335,9 @@ und Systemen\\
 - a) :: Anlagen und Systeme nach Wartungs- und Instandhaltungsplänen warten, Verschleißteile im Rahmen der vorbeugenden Instandhaltung austauschen
 - b) :: Systemparameter mit vorgegebenen Werten vergleichen und einstellen
 
-�
 
-�
+
+
 
 - c) :: Schutzmaßnahmen und Sicherheitseinrichtungen bei der Wiederinbetriebnahme instand gesetzter Geräte oder Anlagenteile einstellen und deren Wirksamkeit prüfen
 - d) :: Instandhaltungsmaßnahmen dokumentieren
@@ -419,9 +419,9 @@ Arbeits- und Tarifrecht\\
 - a) :: Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 - b) :: gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
 
-�
 
-�
+
+
 
 - c) :: Möglichkeiten der beruflichen Fortbildung nennen
 - d) :: wesentliche Teile des Arbeitsvertrages nennen
@@ -602,7 +602,7 @@ Abschnitt D Nummer 5)
 - h) :: Störungen feststellen, bewerten und Störungsmeldungen weiterleiten
 - i) :: Kunden beraten, Leistungen und Produkte erklären und an Kunden übergeben
 
-�
+
 
 6
 
@@ -621,7 +621,7 @@ Abschnitt D Nummer 6)
 - g) :: betriebsübliche Qualitätssicherungssysteme anwenden
 - h) :: eigenen Qualifikationsbedarf feststellen und Qualifizierungsmöglichkeiten nutzen
 
-�
+
 
 Abschnitt 2: Erstes und Zweites Ausbildungsjahr Industrieelektriker/Industrieelektrikerin Fachrichtung Betriebstechnik
 Zeitrahmen 1: Komponenten herstellen, Baugruppen montieren
@@ -662,9 +662,9 @@ Abschnitt A Nummer 1)
 - b) :: Bauteile und Baugruppen montieren und demontieren
 - c) :: Kabel und Leitungen auswählen und zurichten sowie Bauteile, Baugruppen und Geräte mit unterschiedlichen Anschlusstechniken verbinden
 
-�
 
-�
+
+
 
 2
 
@@ -680,7 +680,7 @@ Abschnitt A Nummer 2)
 \\
 1 bis 3
 
-�
+
 
 3
 
@@ -691,9 +691,9 @@ Abschnitt B Nummer 1)
 
 - a) :: Auftragsanforderungen analysieren
 
-�
 
-�
+
+
 
 Zeitrahmen 2: Leitungen und Betriebsmittel montieren und anschließen
 
@@ -735,7 +735,7 @@ Abschnitt A Nummer 1)
 
 3 bis 5
 
-�
+
 
 2
 
@@ -807,7 +807,7 @@ Abschnitt A Nummer 2)
 
 3 bis 5
 
-�
+
 
 2
 
@@ -872,7 +872,7 @@ Abschnitt A Nummer 3)
 
 1 bis 3
 
-�
+
 
 2
 
@@ -941,7 +941,7 @@ Abschnitt A Nummer 3)
 - g) :: Einhaltung der Maßnahmen zur elektromagnetischen Verträglichkeit kontrollieren
 - h) :: Erst- und Wiederholungsprüfung durchführen, dokumentieren und nachweisen
 
-�
+
 
 4 bis 6
 
@@ -1011,7 +1011,7 @@ Abschnitt A Nummer 2)
 - g) :: Sensoren und Aktoren prüfen und einstellen
 - h) :: Steuerungen und Regelungen hinsichtlich ihrer Funktion prüfen und bewerten
 
-�
+
 
 3 bis 5
 
@@ -1091,7 +1091,7 @@ Abschnitt B Nummer 3)
 - c) :: Schutzmaßnahmen und Sicherheitseinrichtungen bei der Wiederinbetriebnahme instand gesetzter Geräte oder Anlagenteile einstellen und deren Wirksamkeit prüfen
 - d) :: Instandhaltungsmaßnahmen dokumentieren
 
-�
+
 
 2 bis 4
 
@@ -1136,7 +1136,7 @@ Abschnitt A Nummer 1)
 
 1 bis 3
 
-�
+
 
 2
 
@@ -1198,7 +1198,7 @@ Abschnitt A Nummer 1)
 
 3 bis 5
 
-�
+
 
 2
 
@@ -1275,7 +1275,7 @@ Abschnitt A Nummer 2)
 
 3 bis 5
 
-�
+
 
 2
 
@@ -1339,7 +1339,7 @@ Abschnitt A Nummer 3)
 
 1 bis 3
 
-�
+
 
 2
 
@@ -1407,7 +1407,7 @@ Abschnitt A Nummer 2)
 - g) :: Sensoren und Aktoren prüfen und einstellen
 - h) :: Steuerungen und Regelungen hinsichtlich ihrer Funktion prüfen und bewerten
 
-�
+
 
 3 bis 5
 
@@ -1477,20 +1477,20 @@ Abschnitt A Nummer 3)
 - d) :: Gefahren, die sich aus dem Betreiben elektrischer Geräte, Betriebsmittel und Anlagen ergeben, beurteilen und durch Schutzmaßnahmen die sichere Nutzung gewährleisten
 - e) :: Wirksamkeit von Schutzmaßnahmen unter Fehlerbedingungen, insbesondere durch Abschaltung mit Überstromschutzorganen und Fehlerstromschutzeinrichtungen, prüfen und bewerten
 
-�
 
-�
 
-�
 
-�
+
+
+
+
 
 - g) :: Einhaltung der Maßnahmen zur elektromagnetischen Verträglichkeit kontrollieren
 - h) :: Erst- und Wiederholungsprüfung durchführen, dokumentieren und nachweisen
 
-�
 
-�
+
+
 
 2
 
@@ -1508,7 +1508,7 @@ Abschnitt C Nummer 2)
 - g) :: Komponenten prüfen und in Betrieb nehmen
 - h) :: Produktdokumentationen erstellen
 
-�
+
 
 4 bis 6
 
@@ -1528,9 +1528,9 @@ Abschnitt C Nummer 3)
 - g) :: Einhaltung der Maßnahmen zur elektromagnetischen Verträglichkeit kontrollieren
 - h) :: Mess- und Prüfprotokolle erstellen, Dokumentationen erstellen und anpassen, Geräte oder Systeme übergeben
 
-�
 
-�
+
+
 
 Zeitrahmen 7: Geräte und Systeme kundenspezifisch anpassen
 
@@ -1572,7 +1572,7 @@ Abschnitt A Nummer 3)
 - g) :: Einhaltung der Maßnahmen zur elektromagnetischen Verträglichkeit kontrollieren
 - h) :: Erst- und Wiederholungsprüfung durchführen, dokumentieren und nachweisen
 
-�
+
 
 2 bis 4
 

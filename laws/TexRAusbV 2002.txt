@@ -193,22 +193,22 @@ Planen und Vorbereiten von Arbeitsabl√§ufen\\
 
 4*)
 
-†
 
-†
 
-†
+
+
+
 
 - f) :: Qualit√§t und Preise von Werk- und Hilfsstoffen vergleichen
 - g) :: Aufgaben im Team planen und bearbeiten, Ergebnisse der Zusammenarbeit auswerten
 
-†
 
-†
+
+
 
 3*)
 
-†
+
 
 6
 
@@ -220,29 +220,29 @@ Erstellen und Anwenden von technischen Unterlagen\\
 
 2*)
 
-†
 
-†
 
-†
+
+
+
 
 - c) :: Zeichnungen und Pl√§ne anwenden, Ablaufpl√§ne erstellen
 
-†
 
-†
+
+
 
 4*)
 
-†
+
 
 - d) :: technische Dokumentationen erstellen, insbesondere Gef√§hrdungsanalysen und Programmabl√§ufe
 
-†
 
-†
 
-†
+
+
+
 
 4*)
 
@@ -256,23 +256,23 @@ Umgehen mit Informations- und Kommunikationstechniken\\
 
 4*)
 
-†
 
-†
 
-†
+
+
+
 
 - c) :: Informationen beschaffen, auswerten und nutzen
 - d) :: Betriebsdaten beschaffen, auswerten, bearbeiten und weiterleiten
 - e) :: Betriebsdaten pflegen und sichern, Datenschutz beachten
 
-†
+
 
 6*)
 
-†
 
-†
+
+
 
 8
 
@@ -281,23 +281,23 @@ Beraten und Betreuen von Kunden\\
 
 - a) :: Kundengespr√§che situationsgerecht f√ºhren
 
-†
 
-†
+
+
 
 3
 
-†
+
 
 - b) :: Kundenw√ºnsche ermitteln, Kunden √ºber Behandlungsm√∂glichkeiten und Dienstleistungsangebote beraten
 - c) :: betriebliche Erfordernisse und Kundenw√ºnsche in Einklang bringen, kostenorientiert handeln
 - d) :: Reklamationen entgegennehmen, pr√ºfen und bearbeiten
 
-†
 
-†
 
-†
+
+
+
 
 6
 
@@ -316,11 +316,11 @@ Vorbereiten und Vorbehandeln des Behandlungsgutes\\
 
 16
 
-†
 
-†
 
-†
+
+
+
 
 10
 
@@ -336,33 +336,33 @@ Einstellen, Bedienen und √úberwachen von Wasch- und Reinigungsmaschinen sowie Wa
 
 18
 
-†
 
-†
 
-†
+
+
+
 
 - g) :: Chemikalien und Hilfsmittel nach Vorgaben zusammenstellen, ansetzen, zugeben, kontrollieren und dokumentieren
 - h) :: vorbeugende Ma√ünahmen zur Vermeidung und Verringerung von Maschinenstillst√§nden und -st√∂rungen ergreifen, St√∂rungsursachen feststellen, St√∂rungsbeseitigung veranlassen
 - i) :: physikalische und chemische Zusammenh√§nge von Wasch- und Reinigungsprozessen analysieren
 - k) :: Dosier- und Zugabefehler feststellen, Fehlerbeseitigung veranlassen
 
-†
 
-†
+
+
 
 16
 
-†
+
 
 - l) :: maschinen- und prozessbezogene Berechnungen durchf√ºhren, insbesondere Belade- und Flottenverh√§ltnis, Rezeptur- und Ansatzberechnungen von Chemikalien und Hilfsmitteln
 - m) :: Wasch- und Reinigungsmaschinen sowie Wasch- und Reinigungsanlagen einstellen und umr√ºsten
 
-†
 
-†
 
-†
+
+
+
 
 8
 
@@ -376,11 +376,11 @@ Prozesstechnik\\
 - c) :: Prozessdaten bearbeiten, bewerten und bei Abweichungen erforderliche Ma√ünahmen einleiten
 - d) :: Mess- und Pr√ºfprotokolle erstellen und dokumentieren
 
-†
 
-†
 
-†
+
+
+
 
 18
 
@@ -396,21 +396,21 @@ Nachbehandeln und Finishen des Behandlungsgutes\\
 - e) :: Finishmaschinen und -anlagen √ºberwachen, insbesondere Temperatur, Behandlungsdauer und Druck, Abweichungen korrigieren
 - f) :: St√∂rungen an Finishmaschinen und -anlagen feststellen sowie St√∂rungsbeseitigung veranlassen
 
-†
+
 
 20
 
-†
 
-†
+
+
 
 - g) :: Behandlungsgut material- und kundenbezogen zusammenstellen und ausliefern
 
-†
 
-†
 
-†
+
+
+
 
 2
 
@@ -425,11 +425,11 @@ Anwenden von Desinfektionsverfahren und Durchf√ºhren von Hygienema√ünahmen\\
 - d) :: Notwendigkeit von Hygienema√ünahmen feststellen, Hygienepl√§ne einhalten, Ma√ünahmen dokumentieren
 - e) :: Hygienema√ünahmen durchf√ºhren, insbesondere H√§nde und Fl√§chen reinigen sowie Schutzkleidung tragen
 
-†
 
-†
 
-†
+
+
+
 
 8
 
@@ -444,22 +444,22 @@ Durchf√ºhren von qualit√§tssichernden Ma√ünahmen\\
 
 8*)
 
-†
 
-†
 
-†
+
+
+
 
 - d) :: Arbeitsabl√§ufe auf Einhaltung der Vorgaben kontrollieren, Qualit√§tsmerkmale feststellen sowie Qualit√§tsausfall pr√ºfen
 - e) :: Ursachen von Qualit√§tsabweichungen feststellen, Korrektur- und Vorbeugungsma√ünahmen durchf√ºhren
 - f) :: Ergebnisse dokumentieren
 - g) :: Methoden und Instrumente des Qualit√§tsmanagements zur kontinuierlichen Verbesserung im eigenen Arbeitsbereich anwenden
 
-†
 
-†
 
-†
+
+
+
 
 6*)
 

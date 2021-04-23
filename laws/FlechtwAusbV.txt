@@ -210,12 +210,12 @@ Anwenden von Informations- und Kommunikationstechniken\\
 
 2
 
-�
+
 
 - d) :: Arbeitsaufgaben mit Hilfe von Informations- und Kommunikationssystemen bearbeiten
 - e) :: Informations- und Kommunikationssysteme, insbesondere Fax und Internet, nutzen
 
-�
+
 
 2
 
@@ -232,7 +232,7 @@ Planen und Vorbereiten von Arbeitsabläufen, Arbeiten im Team\\
 
 3
 
-�
+
 
 - f) :: Störungen im Arbeitsablauf erkennen und Maßnahmen zur Behebung ergreifen
 - g) :: Zeitaufwand und personelle Unterstützung abschätzen
@@ -242,7 +242,7 @@ Planen und Vorbereiten von Arbeitsabläufen, Arbeiten im Team\\
 - k) :: Kosten abschätzen, Materialien disponieren
 - l) :: Gespräche situationsgerecht führen, Sachverhalte darstellen
 
-�
+
 
 4
 
@@ -257,13 +257,13 @@ Entwerfen und Gestalten von Flechtwerken\\
 
 5
 
-�
+
 
 - d) :: Ergänzungsteile nach Funktion und Gestaltungsmerkmalen auswählen
 - e) :: Entwürfe, Muster und Anschauungsmodelle unter Berücksichtigung von Kundenwünschen anfertigen, Gestaltungsmerkmale berücksichtigen
 - f) :: technische Umsetzbarkeit von Entwürfen prüfen
 
-�
+
 
 5
 
@@ -279,14 +279,14 @@ Handhaben und Instandhalten von Werkzeugen, Geräten, Maschinen und Schablonen\\
 
 5
 
-�
+
 
 - e) :: Störungen an Geräten und Maschinen erkennen, Maßnahmen zur Störungsbeseitigung ergreifen
 - f) :: Geräte und Maschinen warten
 - g) :: Ursachen von Maschinenbearbeitungsfehlern feststellen und beheben
 - h) :: Vorrichtungen und Schablonen anfertigen, kennzeichnen, lagern und nutzen
 
-�
+
 
 4
 
@@ -306,12 +306,12 @@ Be- und Verarbeiten von Werk- und Hilfsstoffen\\
 
 14
 
-�
+
 
 - i) :: Ergänzungsteile, insbesondere Halbfabrikate und Zulieferteile, auftragsbezogen zuordnen, auf Mängel und Verwendbarkeit prüfen sowie be- und verarbeiten
 - j) :: Gestellmaterialien manuell und maschinell verarbeiten
 
-�
+
 
 6
 
@@ -327,7 +327,7 @@ Herstellen von Flechtwerken\\
 
 6
 
-�
+
 
 - e) :: gezäunte und gefitzte Bodengeflechte herstellen
 - f) :: gezäunte, geschichtete und gewundene Rumpfgeflechte herstellen
@@ -335,25 +335,25 @@ Herstellen von Flechtwerken\\
 
 18
 
-�
+
 
 - h) :: Fußbildungen herstellen
 - i) :: Henkel und Griffe herstellen
 
 6
 
-�
+
 
 - j) :: Rahmengeflechte herstellen
 
 8
 
-�
+
 
 - k) :: Rohrbiegearbeiten durchführen
 - l) :: Verbände, Verbindungen, Wicklungen und Befestigungen herstellen
 
-�
+
 
 10
 
@@ -368,12 +368,12 @@ Behandeln von Oberflächen\\
 
 4
 
-�
+
 
 - d) :: Oberflächen beschichten, insbesondere lackieren, wachsen und ölen
 - e) :: Maßnahmen zur Vermeidung von Explosionsgefahren und Immissionen ergreifen
 
-�
+
 
 4
 
@@ -387,7 +387,7 @@ Durchführen von Präsentationen\\
 - c) :: Präsentationen planen und kundenorientiert durchführen
 - d) :: Flechtwerke dokumentieren
 
-�
+
 
 6
 
@@ -401,7 +401,7 @@ Lagern und Ausliefern von Produkten\\
 - c) :: Übernahme- und Prüfprotokolle erstellen
 - d) :: Transport- und Hebehilfen nutzen
 
-�
+
 
 3
 
@@ -415,13 +415,13 @@ Durchführen von qualitätssichernden Maßnahmen\\
 
 4
 
-�
+
 
 - c) :: Zeitaufwand und Materialverbrauch kontrollieren und dokumentieren
 - d) :: Ursachen von Fehlern und Qualitätsabweichungen feststellen, dokumentieren und Maßnahmen zur Behebung ergreifen
 - e) :: Einhaltung von Kundenanforderungen prüfen und dokumentieren
 
-�
+
 
 4
 
@@ -437,17 +437,17 @@ Kundenorientierung\\
 
 3
 
-�
+
 
 - e) :: Kundengespräche führen, insbesondere Kundenwünsche ermitteln und mit dem betrieblichen Leistungsangebot vergleichen
 - f) :: Kunden hinsichtlich der Formgebung und Funktion beraten
 - g) :: Produkte unter Beachtung betrieblicher Vorgaben verkaufen
 
-�
+
 
 4
 
-�
+
 
 Schwerpunkt A: Korbwaren
 
@@ -478,7 +478,7 @@ Entwerfen und Gestalten von Flechtwerken\\
 
 Prototypen entwerfen, anfertigen und unter wirtschaftlichen Gesichtspunkten prüfen
 
-�
+
 
 2
 
@@ -492,7 +492,7 @@ Herstellen von Flechtwerken\\
 - c) :: Randabschlüsse, insbesondere Zopfränder, herstellen
 - d) :: Randbügel herstellen und einsetzen
 
-�
+
 
 16
 
@@ -500,11 +500,11 @@ Herstellen von Flechtwerken\\
 - f) :: eckige Korbwaren mit Deckel herstellen
 - g) :: Korbwaren fertig stellen
 
-�
+
 
 8
 
-�
+
 
 Schwerpunkt B: Flechtmöbel
 
@@ -541,7 +541,7 @@ Entwerfen und Gestalten von Flechtwerken\\
 - f) :: Modelle herstellen, Formen übertragen
 - g) :: Entwürfe unter wirtschaftlichen Gesichtspunkten auf Umsetzbarkeit prüfen
 
-�
+
 
 5
 
@@ -558,7 +558,7 @@ Herstellen von Flechtwerken\\
 - f) :: Funktion und Stabilität prüfen
 - g) :: Möbel fertig stellen
 
-�
+
 
 18
 
@@ -571,11 +571,11 @@ Behandeln von Oberflächen\\
 - b) :: Oberflächen beizen und färben
 - c) :: Oberflächenschäden beseitigen
 
-�
+
 
 3
 
-�
+
 
 Schwerpunkt C: Flechtobjekte
 
@@ -610,7 +610,7 @@ Entwerfen und Gestalten von Flechtwerken\\
 - d) :: Variationen mit unterschiedlichen Materialien entwickeln
 - e) :: Entwürfe für freie Objekte anfertigen
 
-�
+
 
 8
 
@@ -625,7 +625,7 @@ Herstellen von Flechtwerken\\
 - d) :: Flechtobjekte und Elemente im Außenbereich unter Berücksichtigung örtlicher Gegebenheiten montieren und aufstellen
 - e) :: Skulpturen nach Vorgaben und gestalterischen Grundsätzen, Zeichnungen und Modellen herstellen
 
-�
+
 
 14
 
@@ -637,6 +637,6 @@ Behandeln von Oberflächen\\
 - a) :: Gestaltungsmerkmale, insbesondere Wirken von Oberflächenbeschaffenheit, Licht, Farbgebung, Form und Proportion berücksichtigen
 - b) :: Oberflächen im Hinblick auf Gestaltung, Beanspruchung und Brandschutz behandeln
 
-�
+
 
 4

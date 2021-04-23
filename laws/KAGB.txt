@@ -224,9 +224,9 @@ Ist eine AIF-Kapitalverwaltungsgesellschaft im Sinne des Satzes 1 eine externe K
 
 § 3 - Bezeichnungsschutz
 
-(1) Die Bezeichnungen �Kapitalverwaltungsgesellschaft“, �Investmentvermögen“, �Investmentfonds“ oder �Investmentgesellschaft“ oder eine Bezeichnung, in der diese Begriffe enthalten sind, darf in der Firma, als Zusatz zur Firma, zur Bezeichnung des Geschäftszwecks oder zu Werbezwecken nur von Verwaltungsgesellschaften im Sinne dieses Gesetzes geführt werden. Die Bezeichnungen �Investmentfonds“ und �Investmentvermögen“ dürfen auch von Vertriebsgesellschaften geführt werden, die Anteile an Investmentvermögen vertreiben, die nach Ma�Investmentfonds“, �Investmentvermögen“ und �Investmentgesellschaft“ dürfen auch von extern verwalteten Investmentgesellschaften geführt werden.
-(2) Die Bezeichnung �Investmentaktiengesellschaft“ darf nur von Investmentaktiengesellschaften im Sinne der §§ 108 bis 123 oder der §§ 140 bis 148 geführt werden.
-(3) Die Bezeichnung �Investmentkommanditgesellschaft“ darf nur von Investmentkommanditgesellschaften im Sinne der §§ 124 bis 138 oder der §§ 149 bis 161 geführt werden.
+(1) Die Bezeichnungen Kapitalverwaltungsgesellschaft“, Investmentvermögen“, Investmentfonds“ oder Investmentgesellschaft“ oder eine Bezeichnung, in der diese Begriffe enthalten sind, darf in der Firma, als Zusatz zur Firma, zur Bezeichnung des Geschäftszwecks oder zu Werbezwecken nur von Verwaltungsgesellschaften im Sinne dieses Gesetzes geführt werden. Die Bezeichnungen Investmentfonds“ und Investmentvermögen“ dürfen auch von Vertriebsgesellschaften geführt werden, die Anteile an Investmentvermögen vertreiben, die nach MaInvestmentfonds“, Investmentvermögen“ und Investmentgesellschaft“ dürfen auch von extern verwalteten Investmentgesellschaften geführt werden.
+(2) Die Bezeichnung Investmentaktiengesellschaft“ darf nur von Investmentaktiengesellschaften im Sinne der §§ 108 bis 123 oder der §§ 140 bis 148 geführt werden.
+(3) Die Bezeichnung Investmentkommanditgesellschaft“ darf nur von Investmentkommanditgesellschaften im Sinne der §§ 124 bis 138 oder der §§ 149 bis 161 geführt werden.
 (4) EU-Verwaltungsgesellschaften dürfen für die Ausübung ihrer Tätigkeit im Geltungsbereich dieses Gesetzes dieselben allgemeinen Bezeichnungen verwenden, die sie in ihrem Herkunftsmitgliedstaat führen. Die Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) kann einen erläuternden Zusatz zu der Bezeichnung vorschreiben, wenn die Gefahr einer Verwechslung besteht.
 (5) Die §§ 42 und 43 des Kreditwesengesetzes sind entsprechend anzuwenden.
 (+++ § 3: Zur Anwendung vgl. § 5 Abs. 5a u. § 353 Abs. 5 +++)\\
@@ -294,7 +294,7 @@ Sofern aus Aufzeichnungen von Telefongesprächen Daten aus dem Kernbereich priva
 
 § 7a - Bekanntmachung von sofort vollziehbaren Maßnahmen
 
-(1) Die Bundesanstalt macht Ma�Diese Maßnahme ist noch nicht bestandskräftig.“ Wurde gegen die Maßnahme ein Rechtsmittel eingelegt, sind der Stand und der Ausgang des Rechtsmittelverfahrens bekannt zu machen.
+(1) Die Bundesanstalt macht MaDiese Maßnahme ist noch nicht bestandskräftig.“ Wurde gegen die Maßnahme ein Rechtsmittel eingelegt, sind der Stand und der Ausgang des Rechtsmittelverfahrens bekannt zu machen.
 (2) Die Bundesanstalt sieht von einer Bekanntmachung ab, wenn die Bekanntmachung die Stabilität der Finanzmärkte oder laufende Ermittlungen gefährden würde.
 (3) Die Bekanntmachung darf personenbezogene Daten nur in dem Umfang enthalten, der für den Zweck der Beseitigung oder Verhinderung von Missständen erforderlich ist. Die Bekanntmachung ist zu löschen, sobald sie nicht mehr erforderlich ist, spätestens aber nach fünf Jahren.
 
@@ -730,7 +730,7 @@ Einer Kapitalverwaltungsgesellschaft ist die Erlaubnis zu versagen, wenn
 
 hat die Bundesanstalt vor Erteilung der Erlaubnis die zuständigen Stellen des Herkunftsstaates anzuhören.
 
-(2) Auf die Beziehungen zwischen OGAW-Kapitalverwaltungsgesellschaften und Drittstaaten sind die Bestimmungen des Artikels 15 der Richtlinie 2004/39/EG entsprechend anzuwenden. Für diesen Zweck sind die in Artikel 15 der Richtlinie 2004/39/EG genannten Ausdrücke �Wertpapierfirma“ und �Wertpapierfirmen“ als �OGAW-Kapitalverwaltungsgesellschaft“ beziehungsweise �OGAW-Kapitalverwaltungsgesellschaften“ zu verstehen; der in Artikel 15 der Richtlinie 2004/39/EG genannte Ausdruck �Erbringung von Wertpapierdienstleistungen“ ist als �Erbringung von Dienstleistungen“ zu verstehen.
+(2) Auf die Beziehungen zwischen OGAW-Kapitalverwaltungsgesellschaften und Drittstaaten sind die Bestimmungen des Artikels 15 der Richtlinie 2004/39/EG entsprechend anzuwenden. Für diesen Zweck sind die in Artikel 15 der Richtlinie 2004/39/EG genannten Ausdrücke Wertpapierfirma“ und Wertpapierfirmen“ als OGAW-Kapitalverwaltungsgesellschaft“ beziehungsweise OGAW-Kapitalverwaltungsgesellschaften“ zu verstehen; der in Artikel 15 der Richtlinie 2004/39/EG genannte Ausdruck Erbringung von Wertpapierdienstleistungen“ ist als Erbringung von Dienstleistungen“ zu verstehen.
 
 § 25 - Kapitalanforderungen
 
@@ -1380,7 +1380,7 @@ Vor einer Untersagung hat die Bundesanstalt die zuständigen Stellen des Herkunf
 - 2. :: die ausländische AIF-Verwaltungsgesellschaft hat einen gesetzlichen Vertreter mit Sitz in der Bundesrepublik Deutschland ernannt;
 - 3. :: der gesetzliche Vertreter ist, zusammen mit der ausländischen AIF-Verwaltungsgesellschaft, die Kontaktperson der ausländischen AIF-Verwaltungsgesellschaft für die Anleger der betreffenden AIF, für die Europäische Wertpapier- und Marktaufsichtsbehörde und für die zuständigen Stellen im Hinblick auf die Tätigkeiten, für die die ausländische AIF-Verwaltungsgesellschaft in den Mitgliedstaaten der Europäischen Union oder Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum eine Erlaubnis hat und er ist zumindest hinreichend ausgestattet, um die Compliance-Funktion gemäß der Richtlinie 2011/61/EU wahrnehmen zu können;
 - 4. :: es bestehen geeignete Vereinbarungen über die Zusammenarbeit zwischen der Bundesanstalt, den zuständigen Stellen des Herkunftsmitgliedstaates der betreffenden EU-AIF und den Aufsichtsbehörden des Drittstaates, in dem die ausländische AIF-Verwaltungsgesellschaft ihren satzungsmäßigen Sitz hat, damit zumindest ein effizienter Informationsaustausch gewährleistet ist, der es den zuständigen Stellen ermöglicht, ihre Aufgaben gemäß der Richtlinie 2011/61/EU wahrzunehmen;
-- 5. :: der Drittstaat, in dem die ausländische AIF-Verwaltungsgesellschaft ihren satzungsmä�Finanzielle Maßnahmen gegen die Geldwäsche und die Terrorismusfinanzierung“ aufgestellt wurde;
+- 5. :: der Drittstaat, in dem die ausländische AIF-Verwaltungsgesellschaft ihren satzungsmäFinanzielle Maßnahmen gegen die Geldwäsche und die Terrorismusfinanzierung“ aufgestellt wurde;
 - 6. :: der Drittstaat, in dem die ausländische AIF-Verwaltungsgesellschaft ihren satzungsmäßigen Sitz hat, hat mit der Bundesrepublik Deutschland eine Vereinbarung unterzeichnet, die den Standards gemäß Artikel 26 des OECD-Musterabkommens zur Vermeidung der Doppelbesteuerung von Einkommen und Vermögen vollständig entspricht und einen wirksamen Informationsaustausch in Steuerangelegenheiten, gegebenenfalls einschließlich multilateraler Abkommen über die Besteuerung, gewährleistet;
 - 7. :: die auf ausländische AIF-Verwaltungsgesellschaften anwendbaren Rechts- und Verwaltungsvorschriften eines Drittstaates oder die Beschränkungen der Aufsichts- und Ermittlungsbefugnisse der Aufsichtsbehörden dieses Drittstaates hindern die zuständigen Stellen nicht an der effektiven Wahrnehmung ihrer Aufsichtsfunktionen gemäß der Richtlinie 2011/61/EU.
 
@@ -1729,7 +1729,7 @@ die ausreichend finanzielle und berufliche Garantien bieten können, um es ihm z
 
 - 1. :: zwischen den zuständigen Behörden des Mitgliedstaates der Europäischen Union oder des anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum, in dem die Anteile des ausländischen AIF gehandelt werden sollen, und, falls es sich um unterschiedliche Behörden handelt, den Behörden des Herkunftsmitgliedstaates der AIF-Kapitalverwaltungsgesellschaft oder der EU-AIF-Verwaltungsgesellschaft bestehen Vereinbarungen über die Zusammenarbeit und den Informationsaustausch mit den zuständigen Behörden der Verwahrstelle,
 - 2. :: die Verwahrstelle unterliegt einer wirksamen Regulierung der Aufsichtsanforderungen, einschließlich Mindesteigenkapitalanforderungen, und einer Aufsicht, die jeweils den Rechtsvorschriften der Europäischen Union entsprechen und die wirksam durchgesetzt werden,
-- 3. :: der Drittstaat, in dem die Verwahrstelle ihren Sitz hat, steht nicht auf der Liste der nicht kooperativen Länder und Gebiete, die von der Arbeitsgruppe �Finanzielle Maßnahmen gegen die Geldwäsche und die Terrorismusfinanzierung“ aufgestellt wurde,
+- 3. :: der Drittstaat, in dem die Verwahrstelle ihren Sitz hat, steht nicht auf der Liste der nicht kooperativen Länder und Gebiete, die von der Arbeitsgruppe Finanzielle Maßnahmen gegen die Geldwäsche und die Terrorismusfinanzierung“ aufgestellt wurde,
 - 4. :: die Mitgliedstaaten der Europäischen Union oder die anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum, in denen die Anteile des ausländischen AIF vertrieben werden sollen, und, soweit verschieden, der Herkunftsmitgliedstaat der AIF-Kapitalverwaltungsgesellschaft oder EU-AIF-Verwaltungsgesellschaft haben mit dem Drittstaat, in dem die Verwahrstelle ihren Sitz hat, eine Vereinbarung abgeschlossen, die den Standards des Artikels 26 des OECD-Musterabkommens zur Vermeidung der Doppelbesteuerung von Einkommen und Vermögen vollständig entspricht und einen wirksamen Informationsaustausch in Steuerangelegenheiten, einschließlich multilateraler Steuerabkommen, gewährleistet,
 - 5. :: die Verwahrstelle haftet vertraglich gegenüber dem ausländischen AIF oder gegenüber den Anlegern des ausländischen AIF entsprechend § 88 Absatz 1 bis 4 und erklärt sich ausdrücklich zur Einhaltung von § 82 bereit.
 
@@ -2225,7 +2225,7 @@ Der Vorstand einer Investmentaktiengesellschaft mit veränderlichem Kapital ist 
 
 § 118 - Firma und zusätzliche Hinweise im Rechtsverkehr
 
-(1) Die Firma einer Investmentaktiengesellschaft mit veränderlichem Kapital muss abweichend von § 4 des Aktiengesetzes die Bezeichnung �Investmentaktiengesellschaft“ oder eine allgemein verständliche Abkürzung dieser Bezeichnung enthalten; auf allen Geschäftsbriefen im Sinne des § 80 des Aktiengesetzes muss zudem ein Hinweis auf die Veränderlichkeit des Gesellschaftskapitals gegeben werden. Die Firma einer Investmentaktiengesellschaft mit Teilgesellschaftsvermögen muss darüber hinaus den Zusatz �mit Teilgesellschaftsvermögen“ oder eine allgemein verständliche Abkürzung dieser Bezeichnungen enthalten.
+(1) Die Firma einer Investmentaktiengesellschaft mit veränderlichem Kapital muss abweichend von § 4 des Aktiengesetzes die Bezeichnung Investmentaktiengesellschaft“ oder eine allgemein verständliche Abkürzung dieser Bezeichnung enthalten; auf allen Geschäftsbriefen im Sinne des § 80 des Aktiengesetzes muss zudem ein Hinweis auf die Veränderlichkeit des Gesellschaftskapitals gegeben werden. Die Firma einer Investmentaktiengesellschaft mit Teilgesellschaftsvermögen muss darüber hinaus den Zusatz mit Teilgesellschaftsvermögen“ oder eine allgemein verständliche Abkürzung dieser Bezeichnungen enthalten.
 (2) Wird die Investmentaktiengesellschaft mit Teilgesellschaftsvermögen im Rechtsverkehr lediglich für ein oder mehrere Teilgesellschaftsvermögen tätig, so ist sie verpflichtet, dies offenzulegen und auf die haftungsrechtliche Trennung der Teilgesellschaftsvermögen hinzuweisen.
 (+++ § 118: Zur Anwendung vgl. § 52 Abs. 5, § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
@@ -2378,8 +2378,8 @@ Eine intern verwaltete offene Investmentkommanditgesellschaft hat der Bundesanst
 
 § 134 - Firma und zusätzliche Hinweise im Rechtsverkehr
 
-(1) Die Firma der offenen Investmentkommanditgesellschaft muss abweichend von § 19 Absatz 1 Nummer 3 des Handelsgesetzbuchs die Bezeichnung �offene Investmentkommanditgesellschaft“ oder eine allgemein verständliche Abkürzung dieser Bezeichnung enthalten.
-(2) Die Firma einer offenen Investmentkommanditgesellschaft mit Teilgesellschaftsvermögen muss darüber hinaus den Zusatz �mit Teilgesellschaftsvermögen“ oder eine allgemein verständliche Abkürzung dieser Bezeichnung enthalten. Wird die Investmentkommanditgesellschaft im Rechtsverkehr lediglich für ein oder mehrere Teilgesellschaftsvermögen tätig, ist sie verpflichtet, dies offenzulegen und auf die haftungsrechtliche Trennung der Teilgesellschaftsvermögen hinzuweisen.
+(1) Die Firma der offenen Investmentkommanditgesellschaft muss abweichend von § 19 Absatz 1 Nummer 3 des Handelsgesetzbuchs die Bezeichnung offene Investmentkommanditgesellschaft“ oder eine allgemein verständliche Abkürzung dieser Bezeichnung enthalten.
+(2) Die Firma einer offenen Investmentkommanditgesellschaft mit Teilgesellschaftsvermögen muss darüber hinaus den Zusatz mit Teilgesellschaftsvermögen“ oder eine allgemein verständliche Abkürzung dieser Bezeichnung enthalten. Wird die Investmentkommanditgesellschaft im Rechtsverkehr lediglich für ein oder mehrere Teilgesellschaftsvermögen tätig, ist sie verpflichtet, dies offenzulegen und auf die haftungsrechtliche Trennung der Teilgesellschaftsvermögen hinzuweisen.
 (+++ § 134: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
 § 135 - Jahresbericht; Verordnungsermächtigung
@@ -2484,7 +2484,7 @@ Die intern verwaltete Investmentaktiengesellschaft mit fixem Kapital hat der Bun
 
 § 146 - Firma
 
-Die Firma einer Investmentaktiengesellschaft mit fixem Kapital muss abweichend von § 4 des Aktiengesetzes die Bezeichnung �Investmentaktiengesellschaft“ oder eine allgemein verständliche Abkürzung dieser Bezeichnung enthalten.
+Die Firma einer Investmentaktiengesellschaft mit fixem Kapital muss abweichend von § 4 des Aktiengesetzes die Bezeichnung Investmentaktiengesellschaft“ oder eine allgemein verständliche Abkürzung dieser Bezeichnung enthalten.
 (+++ § 146: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
 § 147 - Vorstand, Aufsichtsrat
@@ -2610,7 +2610,7 @@ Eine intern verwaltete geschlossene Investmentkommanditgesellschaft hat der Bund
 
 § 157 - Firma
 
-Die Firma der geschlossenen Investmentkommanditgesellschaft muss abweichend von § 19 Absatz 1 Nummer 3 des Handelsgesetzbuchs die Bezeichnung �geschlossene Investmentkommanditgesellschaft“ oder eine allgemein verständliche Abkürzung dieser Bezeichnung enthalten.
+Die Firma der geschlossenen Investmentkommanditgesellschaft muss abweichend von § 19 Absatz 1 Nummer 3 des Handelsgesetzbuchs die Bezeichnung geschlossene Investmentkommanditgesellschaft“ oder eine allgemein verständliche Abkürzung dieser Bezeichnung enthalten.
 (+++ § 157: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
 § 158 - Jahresbericht
@@ -2792,7 +2792,7 @@ Dieses Recht nach Satz 1 Nummer 1 oder 2 besteht spätestens ab dem Zeitpunkt, i
 
 (3) Diese wesentlichen Merkmale muss der Anleger verstehen können, ohne dass hierfür zusätzliche Dokumente herangezogen werden müssen. Die wesentlichen Anlegerinformationen müssen redlich und eindeutig und dürfen nicht irreführend sein. Sie müssen mit den einschlägigen Teilen des Verkaufsprospekts übereinstimmen. Sie sind kurz zu halten und in allgemein verständlicher Sprache abzufassen. Sie sind in einem einheitlichen Format zu erstellen, um Vergleiche zu ermöglichen.
 (4) Für die inländischen OGAW bestimmen sich die näheren Inhalte, Form und Gestaltung der wesentlichen Anlegerinformationen nach der Verordnung (EU) Nr. 583/2010 der Kommission vom 1. Juli 2010 zur Durchführung der Richtlinie 2009/65/EG des Europäischen Parlaments und des Rates im Hinblick auf die wesentlichen Informationen für den Anleger und die Bedingungen, die einzuhalten sind, wenn die wesentlichen Informationen für den Anleger oder der Prospekt auf einem anderen dauerhaften Datenträger als Papier oder auf einer Website zur Verfügung gestellt werden (ABl. L 176 vom 10.7.2010, S. 1). Für offene AIF-Publikumsinvestmentvermögen ist die Verordnung (EU) Nr. 583/2010 hinsichtlich der näheren Inhalte, der Form und Gestaltung der wesentlichen Anlegerinformationen entsprechend anzuwenden, soweit sich aus den nachfolgenden Vorschriften nichts anderes ergibt.
-(5) Die Verwaltungsgesellschaft weist in den wesentlichen Anlegerinformationen eine Gesamtkostenquote aus. Die Gesamtkostenquote stellt eine einzige Zahl dar, die auf den Zahlen des vorangegangenen Geschäftsjahres basiert. Sie umfasst sämtliche vom Investmentvermögen im Jahresverlauf getragenen Kosten und Zahlungen im Verhältnis zum durchschnittlichen Nettoinventarwert des Investmentvermögens und wird in den wesentlichen Anlegerinformationen unter der Bezeichnung �laufende Kosten“ im Sinne von Artikel 10 Absatz 2 Buchstabe b der Verordnung (EU) Nr. 583/2010 zusammengefasst; sie ist als Prozentsatz auszuweisen. Sofern in den Anlagebedingungen eine erfolgsabhängige Verwaltungsvergütung oder eine zusätzliche Verwaltungsvergütung für den Erwerb, die Veräußerung oder die Verwaltung von Vermögensgegenständen nach § 231 Absatz 1 und § 234 vereinbart wurde, ist diese darüber hinaus gesondert als Prozentsatz des durchschnittlichen Nettoinventarwertes des Investmentvermögens anzugeben. Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen zu Methoden und Grundlagen der Berechnung der Gesamtkostenquote zu erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
+(5) Die Verwaltungsgesellschaft weist in den wesentlichen Anlegerinformationen eine Gesamtkostenquote aus. Die Gesamtkostenquote stellt eine einzige Zahl dar, die auf den Zahlen des vorangegangenen Geschäftsjahres basiert. Sie umfasst sämtliche vom Investmentvermögen im Jahresverlauf getragenen Kosten und Zahlungen im Verhältnis zum durchschnittlichen Nettoinventarwert des Investmentvermögens und wird in den wesentlichen Anlegerinformationen unter der Bezeichnung laufende Kosten“ im Sinne von Artikel 10 Absatz 2 Buchstabe b der Verordnung (EU) Nr. 583/2010 zusammengefasst; sie ist als Prozentsatz auszuweisen. Sofern in den Anlagebedingungen eine erfolgsabhängige Verwaltungsvergütung oder eine zusätzliche Verwaltungsvergütung für den Erwerb, die Veräußerung oder die Verwaltung von Vermögensgegenständen nach § 231 Absatz 1 und § 234 vereinbart wurde, ist diese darüber hinaus gesondert als Prozentsatz des durchschnittlichen Nettoinventarwertes des Investmentvermögens anzugeben. Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen zu Methoden und Grundlagen der Berechnung der Gesamtkostenquote zu erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 (6) Für die Immobilien-Sondervermögen nach § 230 sind Artikel 4 Absatz 8 und die Artikel 8 und 9 der Verordnung (EU) Nr. 583/2010 nicht anzuwenden. Die Darstellung des Risiko- und Ertragsprofils nach Absatz 2 Satz 1 Nummer 3 für Immobilien-Sondervermögen hat eine Bezeichnung der wesentlichen Risiken und Chancen zu enthalten, die mit einer Anlage in den Immobilien-Sondervermögen verbunden sind. Dabei ist auf die wesentlichen Risiken, die Einfluss auf das Risikoprofil des Sondervermögens haben, hinzuweisen; insbesondere sind die Risiken der Immobilieninvestitionen und der Beteiligung an den Immobilien-Gesellschaften zu bezeichnen. Daneben ist ein Hinweis auf die Beschreibung der wesentlichen Risiken im Verkaufsprospekt aufzunehmen. Die Darstellung muss den Anleger in die Lage versetzen, die Bedeutung und die Wirkung der verschiedenen Risikofaktoren zu verstehen. Die Beschreibung ist in Textform zu erstellen und darf keine grafischen Elemente aufweisen. Daneben sind folgende Angaben aufzunehmen:
 
 - 1. :: ein genereller Hinweis, dass mit der Investition in das Sondervermögen neben den Chancen auf Wertsteigerungen auch Risiken verbunden sein können und
@@ -2801,7 +2801,7 @@ Dieses Recht nach Satz 1 Nummer 1 oder 2 besteht spätestens ab dem Zeitpunkt, i
 (7) Für Dach-Hedgefonds gemäß den §§ 225 bis 229 sind Artikel 4 Absatz 8 und die Artikel 8 und 9 der Verordnung (EU) Nr. 583/2010 nicht anzuwenden. Die Darstellung des Risiko- und Ertragsprofils nach Absatz 2 Satz 1 Nummer 3 hat für Dach-Hedgefonds eine Bezeichnung der wesentlichen Risiken und Chancen, die mit einer Anlage in diesen Investmentvermögen verbunden sind, zu enthalten. Dabei ist auf die wesentlichen Risiken hinzuweisen, die Einfluss auf das Risikoprofil des Investmentvermögens haben; dabei sind auch die Risiken der Zielinvestmentvermögen einzubeziehen, wenn diese einen wesentlichen Einfluss auf das Risikoprofil des Investmentvermögens haben. Absatz 6 Satz 4 bis 6 gilt entsprechend. Daneben sind folgende Angaben aufzunehmen:
 
 - 1. :: anstelle der Angaben nach Artikel 7 Absatz 1 Buchstabe b der Verordnung (EU) Nr. 583/2010 der Hinweis auf die Möglichkeit zur Einschränkung der Rücknahme nach § 227,
-- 2. :: im Abschnitt �Risiko- und Ertragsprofil“ zusätzlich der Warnhinweis nach § 228 Absatz 2,
+- 2. :: im Abschnitt Risiko- und Ertragsprofil“ zusätzlich der Warnhinweis nach § 228 Absatz 2,
 - 3. :: zusätzlich zu den Angaben nach Artikel 28 der Verordnung (EU) Nr. 583/2010 auch Angaben zum Erwerb ausländischer nicht beaufsichtigter Zielinvestmentvermögen nach § 228 Absatz 1 Nummer 2,
 - 4. :: zusätzlich zu den Angaben nach Artikel 29 der Verordnung (EU) Nr. 583/2010 auch Angaben zu Krediten und Leerverkäufen nach § 228 Absatz 1 Nummer 4.
 
@@ -3601,7 +3601,7 @@ AIF-Kapitalverwaltungsgesellschaften, die Dach-Hedgefonds verwalten, haben der B
 - 5. :: Angaben zur Gebührenstruktur der Zielfonds mit einem Hinweis auf die Besonderheiten bei der Höhe der Gebühren sowie Angaben zu den Methoden, nach denen die Gesamtkosten berechnet werden, die der Anleger zu tragen hat;
 - 6. :: Angaben zu den Einzelheiten und Bedingungen der Rücknahme und der Auszahlung von Anteilen oder Aktien, gegebenenfalls verbunden mit einem ausdrücklichen, drucktechnisch hervorgehobenen Hinweis, dass der Anleger abweichend von § 98 Absatz 1 oder § 116 Absatz 2 Satz 1 nicht mindestens zweimal im Monat von der AIF-Kapitalverwaltungsgesellschaft die Rücknahme von Anteilen oder Aktien und die Auszahlung des auf die Anteile oder Aktien entfallenden Vermögensanteils verlangen kann.
 
-(2) Zusätzlich muss der Verkaufsprospekt eines Dach-Hedgefonds an auffälliger Stelle drucktechnisch hervorgehoben folgenden Warnhinweis enthalten: �Der Bundesminister der Finanzen warnt: Dieser Investmentfonds investiert in Hedgefonds, die keinen gesetzlichen Leverage- oder Risikobeschränkungen unterliegen.“
+(2) Zusätzlich muss der Verkaufsprospekt eines Dach-Hedgefonds an auffälliger Stelle drucktechnisch hervorgehoben folgenden Warnhinweis enthalten: Der Bundesminister der Finanzen warnt: Dieser Investmentfonds investiert in Hedgefonds, die keinen gesetzlichen Leverage- oder Risikobeschränkungen unterliegen.“
 
 § 229 - Anlagebedingungen
 
@@ -4437,7 +4437,7 @@ Ferner ersucht die AIF-Kapitalverwaltungsgesellschaft den Vorstand des nicht bö
 
 (3) Für die Zwecke des Absatzes 2 gilt Folgendes:
 
-- 1. :: der in Absatz 2 Nummer 1 und 2 verwendete Begriff �Ausschüttungen“ bezieht sich insbesondere auf die Zahlung von Dividenden und Zinsen im Zusammenhang mit Anteilen,
+- 1. :: der in Absatz 2 Nummer 1 und 2 verwendete Begriff Ausschüttungen“ bezieht sich insbesondere auf die Zahlung von Dividenden und Zinsen im Zusammenhang mit Anteilen,
 - 2. :: die Bestimmungen für Kapitalherabsetzungen erstrecken sich nicht auf Herabsetzungen des gezeichneten Kapitals, deren Zweck im Ausgleich von erlittenen Verlusten oder in der Aufnahme von Geldern in eine nicht ausschüttbare Rücklage besteht, unter der Voraussetzung, dass die Höhe einer solchen Rücklage nach dieser Maßnahme 10 Prozent des herabgesetzten gezeichneten Kapitals nicht überschreitet, und
 - 3. :: die Einschränkung gemäß Absatz 2 Nummer 3 richtet sich nach Artikel 20 Absatz 1 Buchstabe b bis h der Richtlinie 77/91/EWG.
 
@@ -4531,7 +4531,7 @@ Zudem informiert die AIF-Kapitalverwaltungsgesellschaft die Anleger nach § 308 
 
 - 1. :: die Anforderungen der Richtlinie 2009/65/EG in das Recht des Drittstaates entsprechend umgesetzt sind und öffentlich beaufsichtigt werden,
 - 2. :: die Bundesanstalt und die zuständigen Stellen des Drittstaates eine Vereinbarung im Sinne des Artikels 42 Absatz 1 Buchstabe b in Verbindung mit Absatz 3 der Richtlinie 2011/61/EU abgeschlossen haben oder zeitgleich mit der Vereinbarung nach Absatz 1 abschließen werden,
-- 3. :: der Drittstaat gemä�Finanzielle Maßnahmen gegen die Geldwäsche und die Terrorismusfinanzierung“ aufgestellt wurde, steht,
+- 3. :: der Drittstaat gemäFinanzielle Maßnahmen gegen die Geldwäsche und die Terrorismusfinanzierung“ aufgestellt wurde, steht,
 - 4. :: der gegenseitige Marktzugang unter vergleichbaren Voraussetzungen gewährt wird und
 - 5. :: die Vereinbarung nach Absatz 1 auf solche ausländischen AIF des Drittstaates beschränkt wird, bei denen sowohl der AIF als auch der Verwalter ihren Sitz in diesem Drittstaat haben, und die gemäß der Richtlinie 2011/61/EU verwaltet werden.
 
@@ -4716,7 +4716,7 @@ Wurde die Abnahme von Anteilen oder Aktien für einen mehrjährigen Zeitraum ver
 - 21. :: falls Swing Pricing vorgesehen ist, Angaben zu dessen Art (vollständiges oder teilweises Swing Pricing) und Funktionsweise sowie zur Berechnung des modifizierten Nettoinventarwertes.
 
 (2) Der am Erwerb eines Anteils oder einer Aktie Interessierte ist auf eine bestehende Vereinbarung hinzuweisen, die die Verwahrstelle getroffen hat, um sich vertraglich von der Haftung gemäß § 88 Absatz 4 freizustellen. § 297 Absatz 7 sowie § 305 gelten entsprechend.
-(3) § 306 Absatz 1, 3, 4 und 6 gilt entsprechend mit der Ma�Verkaufsprospekt“ �Informationen nach § 307 Absatz 1 und 2“ heißen muss und dass die Haftungsregelungen in Bezug auf die wesentlichen Anlegerinformationen nicht anzuwenden sind.
+(3) § 306 Absatz 1, 3, 4 und 6 gilt entsprechend mit der MaVerkaufsprospekt“ Informationen nach § 307 Absatz 1 und 2“ heißen muss und dass die Haftungsregelungen in Bezug auf die wesentlichen Anlegerinformationen nicht anzuwenden sind.
 (4) Ist die AIF-Verwaltungsgesellschaft durch die Verordnung (EU) 2017/1129 verpflichtet, einen Wertpapierprospekt zu veröffentlichen, so hat sie die in Absatz 1 genannten Angaben entweder gesondert oder als ergänzende Angaben im Wertpapierprospekt offenzulegen.
 (5) Dem am Erwerb eines Anteils oder einer Aktie interessierten semiprofessionellen Anleger sind rechtzeitig vor Vertragsschluss entweder wesentliche Anlegerinformationen nach § 166 oder § 270 oder ein Basisinformationsblatt gemäß der Verordnung (EU) Nr. 1286/2014 zur Verfügung zu stellen.
 (+++ § 307: Zur Anwendung vgl. § 54 Abs. 4 Satz 1 u. 3 u. § 66 Abs. 4 Satz 1 u. 2 +++)\\
@@ -4898,7 +4898,7 @@ Mit Eingang der Ergänzungsanzeige beginnt die in Satz 2 genannte Frist erneut. 
   - a) :: der Überwachung von Systemrisiken dienen,
   - b) :: im Einklang mit den internationalen Standards und den Artikeln 113 bis 115 der Delegierten Verordnung (EU) Nr. 231/2013 stehen und
   - c) :: einen wirksamen Informationsaustausch gewährleisten, der es der Bundesanstalt ermöglicht, ihre in § 5 festgelegten Aufgaben zu erfüllen.
-- 2. :: Der Herkunftsstaat des angezeigten AIF steht nicht auf der Liste der nicht kooperativen Länder und Gebiete, die von der Arbeitsgruppe �Finanzielle Maßnahmen gegen die Geldwäsche und die Terrorismusfinanzierung“ aufgestellt wurde.
+- 2. :: Der Herkunftsstaat des angezeigten AIF steht nicht auf der Liste der nicht kooperativen Länder und Gebiete, die von der Arbeitsgruppe Finanzielle Maßnahmen gegen die Geldwäsche und die Terrorismusfinanzierung“ aufgestellt wurde.
 - 3. :: Der Herkunftsstaat des angezeigten AIF hat mit der Bundesrepublik Deutschland eine Vereinbarung unterzeichnet, die den Normen gemäß Artikel 26 des OECD-Musterabkommens zur Vermeidung der Doppelbesteuerung von Einkommen und Vermögen vollständig entspricht und einen wirksamen Informationsaustausch in Steuerangelegenheiten, gegebenenfalls einschließlich multilateraler Abkommen über die Besteuerung, gewährleistet.
 
 (3) Ist der angezeigte AIF ein Feeder-AIF, müssen zusätzlich zu den Anforderungen nach Absatz 1 und gegebenenfalls nach Absatz 2 in Bezug auf den Feeder-AIF zumindest folgende Anforderungen erfüllt sein:
@@ -4960,7 +4960,7 @@ Der Verkaufsprospekt muss ferner ausdrückliche Hinweise darauf enthalten, dass 
 
 Fremdsprachige Unterlagen sind mit einer deutschen Übersetzung vorzulegen.
 
-(2) § 316 Absatz 2 und 3 ist mit der Ma�AIF-Kapitalverwaltungsgesellschaft“ �EU-AIF-Verwaltungsgesellschaft oder ausländische AIF-Verwaltungsgesellschaft“ heißen muss und dass die in § 316 Absatz 3 Satz 1 genannte Frist bei der Anzeige
+(2) § 316 Absatz 2 und 3 ist mit der MaAIF-Kapitalverwaltungsgesellschaft“ EU-AIF-Verwaltungsgesellschaft oder ausländische AIF-Verwaltungsgesellschaft“ heißen muss und dass die in § 316 Absatz 3 Satz 1 genannte Frist bei der Anzeige
 
 - 1. :: einer EU-AIF-Verwaltungsgesellschaft oder ab dem Zeitpunkt, auf den in § 295 Absatz 2 Nummer 1 verwiesen wird, einer ausländischen AIF-Verwaltungsgesellschaft drei Monate,
 - 2. :: einer ausländischen AIF-Verwaltungsgesellschaft vor dem Zeitpunkt, auf den in § 295 Absatz 2 Nummer 1 verwiesen wird, sechs Monate
@@ -4968,7 +4968,7 @@ Fremdsprachige Unterlagen sind mit einer deutschen Übersetzung vorzulegen.
 beträgt.
 
 (3) Hat die anzeigende ausländische AIF-Verwaltungsgesellschaft im Sinne von Absatz 1 Buchstabe b bereits einen AIF zum Vertrieb an Privatanleger im Geltungsbereich dieses Gesetzes nach Absatz 1 Satz 1 angezeigt, so prüft die Bundesanstalt bei der Anzeige eines weiteren AIF der gleichen Art nicht erneut das Vorliegen der Voraussetzungen nach § 317 Absatz 1 Satz 1 Nummer 1 und 3, wenn die anzeigende AIF-Verwaltungsgesellschaft im Anzeigeschreiben versichert, dass in Bezug auf die Anforderungen nach § 317 Absatz 1 Satz 1 Nummer 1 und 3 seit der letzten Anzeige keine Änderungen erfolgt sind. In diesem Fall müssen die in § 22 Absatz 1 Nummer 1 bis 9 genannten Angaben nicht eingereicht werden und die in Absatz 2 Nummer 2 genannte Frist beträgt drei Monate.
-(4) § 316 Absatz 4 Satz 1 bis 3 ist mit der Ma�AIF-Kapitalverwaltungsgesellschaft“ �EU-AIF-Verwaltungsgesellschaft oder ausländische AIF-Verwaltungsgesellschaft“ heißen muss. Wird eine geplante Änderung ungeachtet von § 316 Absatz 4 Satz 1 bis 3 durchgeführt oder führt eine durch einen unvorhersehbaren Umstand ausgelöste Änderung dazu, dass die EU-AIF-Verwaltungsgesellschaft, ausländische AIF-Verwaltungsgesellschaft oder die Verwaltung des betreffenden AIF durch die EU-AIF-Verwaltungsgesellschaft oder die ausländische AIF-Verwaltungsgesellschaft gegen dieses Gesetz verstößt, so ergreift die Bundesanstalt alle gebotenen Maßnahmen einschließlich der ausdrücklichen Untersagung des Vertriebs des betreffenden AIF. § 316 Absatz 5 gilt entsprechend.
+(4) § 316 Absatz 4 Satz 1 bis 3 ist mit der MaAIF-Kapitalverwaltungsgesellschaft“ EU-AIF-Verwaltungsgesellschaft oder ausländische AIF-Verwaltungsgesellschaft“ heißen muss. Wird eine geplante Änderung ungeachtet von § 316 Absatz 4 Satz 1 bis 3 durchgeführt oder führt eine durch einen unvorhersehbaren Umstand ausgelöste Änderung dazu, dass die EU-AIF-Verwaltungsgesellschaft, ausländische AIF-Verwaltungsgesellschaft oder die Verwaltung des betreffenden AIF durch die EU-AIF-Verwaltungsgesellschaft oder die ausländische AIF-Verwaltungsgesellschaft gegen dieses Gesetz verstößt, so ergreift die Bundesanstalt alle gebotenen Maßnahmen einschließlich der ausdrücklichen Untersagung des Vertriebs des betreffenden AIF. § 316 Absatz 5 gilt entsprechend.
 (+++ § 320: Zur Anwendung vgl. § 353 Abs. 8 +++)
 
 § 321 - Anzeigepflicht einer AIF-Kapitalverwaltungsgesellschaft beim beabsichtigten Vertrieb von EU-AIF oder von inländischen Spezial-AIF an semiprofessionelle und professionelle Anleger im Inland
@@ -4997,7 +4997,7 @@ Ist der EU-AIF oder der inländische Spezial-AIF, den die AIF-Kapitalverwaltungs
 (1) Der Vertrieb von Anteilen oder Aktien an ausländischen AIF und von Anteilen oder Aktien an EU-Feeder-AIF oder inländischen Spezial-Feeder-AIF, deren jeweiliger Master-AIF kein EU-AIF oder inländischer AIF ist, der von einer EU-AIF-Verwaltungsgesellschaft oder einer AIF-Kapitalverwaltungsgesellschaft verwaltet wird, an semiprofessionelle und professionelle Anleger im Geltungsbereich dieses Gesetzes durch eine AIF-Kapitalverwaltungsgesellschaft ist nur zulässig, wenn
 
 - 1. :: geeignete Vereinbarungen über die Zusammenarbeit zwischen der Bundesanstalt und den Aufsichtsbehörden des Drittstaates bestehen, in dem der ausländische AIF seinen Sitz hat, damit unter Berücksichtigung von § 9 Absatz 8 zumindest ein effizienter Informationsaustausch gewährleistet ist, der es der Bundesanstalt ermöglicht, ihre Aufgaben gemäß der Richtlinie 2011/61/EU wahrzunehmen;
-- 2. :: der Drittstaat, in dem der ausländische AIF seinen Sitz hat, nicht auf der Liste der nicht kooperativen Länder und Gebiete steht, die von der Arbeitsgruppe �Finanzielle Maßnahmen gegen die Geldwäsche und die Terrorismusfinanzierung“ aufgestellt wurde;
+- 2. :: der Drittstaat, in dem der ausländische AIF seinen Sitz hat, nicht auf der Liste der nicht kooperativen Länder und Gebiete steht, die von der Arbeitsgruppe Finanzielle Maßnahmen gegen die Geldwäsche und die Terrorismusfinanzierung“ aufgestellt wurde;
 - 3. :: der Drittstaat, in dem der ausländische AIF seinen Sitz hat, mit der Bundesrepublik Deutschland eine Vereinbarung unterzeichnet hat, die den Normen des Artikels 26 des OECD-Musterabkommens zur Vermeidung der Doppelbesteuerung von Einkommen und Vermögen vollständig entspricht und einen wirksamen Informationsaustausch in Steuerangelegenheiten, gegebenenfalls einschließlich multilateraler Abkommen über die Besteuerung, gewährleistet;
 - 4. :: die AIF-Kapitalverwaltungsgesellschaft bei der Verwaltung eines ausländischen AIF abweichend von § 55 Absatz 1 Nummer 1 alle in der Richtlinie 2011/61/EU für diese AIF festgelegten Anforderungen erfüllt.
 
@@ -5013,7 +5013,7 @@ Ist der EU-AIF oder der inländische Spezial-AIF, den die AIF-Kapitalverwaltungs
 - 1. :: eine von ihr ausgestellte Bescheinigung über die Erlaubnis der betreffenden EU-AIF-Verwaltungsgesellschaft zur Verwaltung von AIF mit einer bestimmten Anlagestrategie sowie
 - 2. :: ein Anzeigeschreiben für jeden angezeigten AIF,
 
-jeweils in einer in der internationalen Finanzwelt gebräuchlichen Sprache. Für den Inhalt des Anzeigeschreibens einschlie�AIF-Kapitalverwaltungsgesellschaft“ �EU-AIF-Verwaltungsgesellschaft“ heißen muss, die Vorkehrungen zum Vertrieb des angezeigten AIF angegeben sein müssen und die Bundesrepublik Deutschland als Staat genannt sein muss, in dem Anteile oder Aktien des angezeigten AIF an professionelle Anleger vertrieben werden sollen.
+jeweils in einer in der internationalen Finanzwelt gebräuchlichen Sprache. Für den Inhalt des Anzeigeschreibens einschlieAIF-Kapitalverwaltungsgesellschaft“ EU-AIF-Verwaltungsgesellschaft“ heißen muss, die Vorkehrungen zum Vertrieb des angezeigten AIF angegeben sein müssen und die Bundesrepublik Deutschland als Staat genannt sein muss, in dem Anteile oder Aktien des angezeigten AIF an professionelle Anleger vertrieben werden sollen.
 
 (2) Der Vertrieb kann aufgenommen werden, wenn die EU-AIF-Verwaltungsgesellschaft von der zuständigen Stelle ihres Herkunftsmitgliedstaates über die Übermittlung nach Absatz 1 unterrichtet wurde. Ist der AIF im Sinne von Absatz 1 Satz 1 ein Feeder-AIF, so besteht ein Recht zum Vertrieb gemäß Satz 1 nur, wenn der Master-AIF ebenfalls ein EU-AIF oder ein inländischer AIF ist, der von einer EU-AIF-Verwaltungsgesellschaft oder einer AIF-Kapitalverwaltungsgesellschaft verwaltet wird. Die Bundesanstalt prüft, ob die Vorkehrungen nach § 321 Absatz 1 Satz 2 Nummer 7 geeignet sind, um einen Vertrieb an Privatanleger wirksam zu verhindern und ob die Vorkehrungen nach § 323 Absatz 1 Satz 2 gegen dieses Gesetz verstoßen.
 (3) Wird die Bundesanstalt von den zuständigen Stellen im Herkunftsmitgliedstaat der EU-AIF-Verwaltungsgesellschaft über eine Änderung der Vorkehrungen nach § 321 Absatz 1 Satz 2 Nummer 7 und § 323 Absatz 1 Satz 2 unterrichtet, prüft die Bundesanstalt, ob die Vorkehrungen nach § 321 Absatz 1 Satz 2 Nummer 7 weiterhin geeignet sind, um einen Vertrieb an Privatanleger wirksam zu verhindern und ob die Vorkehrungen nach § 323 Absatz 1 Satz 2 weiterhin nicht gegen dieses Gesetz verstoßen.
@@ -5030,10 +5030,10 @@ jeweils in einer in der internationalen Finanzwelt gebräuchlichen Sprache. Für
 
 § 325 - Anzeigepflicht einer ausländischen AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat die Bundesrepublik Deutschland ist, beim beabsichtigten Vertrieb von EU-AIF oder von inländischen Spezial-AIF an semiprofessionelle und professionelle Anleger im Inland
 
-(1) Beabsichtigt eine ausländische AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat gemä�AIF-Kapitalverwaltungsgesellschaft“ �ausländische AIF-Verwaltungsgesellschaft“ heißen muss.
+(1) Beabsichtigt eine ausländische AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat gemäAIF-Kapitalverwaltungsgesellschaft“ ausländische AIF-Verwaltungsgesellschaft“ heißen muss.
 (2) § 321 Absatz 2 bis 4 ist mit der Maßgabe entsprechend anzuwenden, dass
 
-- 1. :: es statt �AIF-Kapitalverwaltungsgesellschaft“ �ausländische AIF-Verwaltungsgesellschaft“ heißen muss,
+- 1. :: es statt AIF-Kapitalverwaltungsgesellschaft“ ausländische AIF-Verwaltungsgesellschaft“ heißen muss,
 - 2. :: im Rahmen von § 321 Absatz 3 die Bundesanstalt zusätzlich der Europäischen Wertpapier- und Marktaufsichtsbehörde mitteilt, dass die ausländische AIF-Verwaltungsgesellschaft mit dem Vertrieb von Anteilen oder Aktien des angezeigten AIF an professionelle Anleger im Inland beginnen kann, und
 - 3. :: bei zulässigen Änderungen nach § 321 Absatz 4 die Bundesanstalt unverzüglich die Europäische Wertpapier- und Marktaufsichtsbehörde unterrichtet, soweit die Änderungen die Beendigung des Vertriebs von bestimmten AIF oder zusätzlich vertriebenen AIF betreffen.
 
@@ -5041,8 +5041,8 @@ jeweils in einer in der internationalen Finanzwelt gebräuchlichen Sprache. Für
 § 326 - Anzeigepflicht einer ausländischen AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat die Bundesrepublik Deutschland ist, beim beabsichtigten Vertrieb von ausländischen AIF an semiprofessionelle und professionelle Anleger im Inland
 
 (1) Der Vertrieb von Anteilen oder Aktien an ausländischen AIF an semiprofessionelle oder professionelle Anleger im Geltungsbereich dieses Gesetzes durch eine ausländische AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat gemäß Artikel 37 Absatz 4 der Richtlinie 2011/61/EU die Bundesrepublik Deutschland ist, ist nur zulässig, wenn die in § 322 Absatz 1 genannten Voraussetzungen gegeben sind.
-(2) Beabsichtigt eine ausländische AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat gemä�AIF-Kapitalverwaltungsgesellschaft“ �ausländische AIF-Verwaltungsgesellschaft“ heißen muss.
-(3) § 322 Absatz 3, 4 Satz 1 und 2 und Absatz 5 gilt entsprechend mit der Ma�AIF-Kapitalverwaltungsgesellschaft“ �ausländische AIF-Verwaltungsgesellschaft“ heißen muss.
+(2) Beabsichtigt eine ausländische AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat gemäAIF-Kapitalverwaltungsgesellschaft“ ausländische AIF-Verwaltungsgesellschaft“ heißen muss.
+(3) § 322 Absatz 3, 4 Satz 1 und 2 und Absatz 5 gilt entsprechend mit der MaAIF-Kapitalverwaltungsgesellschaft“ ausländische AIF-Verwaltungsgesellschaft“ heißen muss.
 
 § 327 - Anzeigepflicht einer ausländischen AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat nicht die Bundesrepublik Deutschland ist, beim beabsichtigten Vertrieb von EU-AIF oder von inländischen Spezial-AIF an semiprofessionelle und professionelle Anleger im Inland
 
@@ -5051,7 +5051,7 @@ jeweils in einer in der internationalen Finanzwelt gebräuchlichen Sprache. Für
 - 1. :: eine von ihr ausgestellte Bescheinigung über die Erlaubnis der betreffenden ausländischen AIF-Verwaltungsgesellschaft zur Verwaltung von AIF mit einer bestimmten Anlagestrategie und
 - 2. :: ein Anzeigeschreiben für jeden angezeigten AIF,
 
-jeweils in einer in der internationalen Finanzwelt gebräuchlichen Sprache. Für den Inhalt des Anzeigeschreibens einschlie�AIF-Kapitalverwaltungsgesellschaft“ �ausländische AIF-Verwaltungsgesellschaft“ heißen muss, die Vorkehrungen zum Vertrieb des angezeigten AIF angegeben sein müssen und die Bundesrepublik Deutschland als Staat genannt sein muss, in dem Anteile oder Aktien des angezeigten AIF an professionelle Anleger vertrieben werden sollen.
+jeweils in einer in der internationalen Finanzwelt gebräuchlichen Sprache. Für den Inhalt des Anzeigeschreibens einschlieAIF-Kapitalverwaltungsgesellschaft“ ausländische AIF-Verwaltungsgesellschaft“ heißen muss, die Vorkehrungen zum Vertrieb des angezeigten AIF angegeben sein müssen und die Bundesrepublik Deutschland als Staat genannt sein muss, in dem Anteile oder Aktien des angezeigten AIF an professionelle Anleger vertrieben werden sollen.
 
 (2) Der Vertrieb kann aufgenommen werden, wenn die ausländische AIF-Verwaltungsgesellschaft von der zuständigen Stelle ihres Referenzmitgliedstaates über die Übermittlung nach Absatz 1 unterrichtet wurde. § 323 Absatz 2 Satz 3 und Absatz 3 ist entsprechend anzuwenden.
 (+++ § § 327 Abs. 2: Zur Anwendung vgl. § 328 Abs. 3 +++)
@@ -5078,7 +5078,7 @@ jeweils in einer in der internationalen Finanzwelt gebräuchlichen Sprache. § 3
 - 2. :: bei einem Vertrieb an semiprofessionelle Anleger die AIF-Kapitalverwaltungsgesellschaft oder die EU-AIF-Verwaltungsgesellschaft und die Verwaltung des AIF durch diese den Anforderungen dieses Gesetzes oder den von ihrem Herkunftsmitgliedstaat zur Umsetzung der Richtlinie 2011/61/EU erlassenen Vorschriften entsprechen;
 - 3. :: bei einem Vertrieb an semiprofessionelle Anleger oder professionelle Anleger
   - a) :: bei einem ausländischen AIF geeignete, der Überwachung der Systemrisiken dienende und im Einklang mit den internationalen Standards und den Artikeln 113 bis 115 der Delegierten Verordnung (EU) Nr. 213/2013 stehende Vereinbarungen über die Zusammenarbeit zwischen der Bundesanstalt oder den zuständigen Stellen im Herkunftsmitgliedstaat der EU-AIF-Verwaltungsgesellschaft und den zuständigen Stellen des Drittstaates, in dem der ausländische AIF seinen Sitz hat, bestehen, sodass ein effizienter Informationsaustausch gewährleistet ist, der es der Bundesanstalt oder den zuständigen Stellen im Herkunftsmitgliedstaat der EU-AIF-Verwaltungsgesellschaft ermöglicht, ihre in der Richtlinie 2011/61/EU festgelegten Aufgaben zu erfüllen;
-  - b) :: der Drittstaat, in dem der ausländische AIF seinen Sitz hat, nicht auf der Liste der nicht kooperativen Länder und Gebiete steht, die von der Arbeitsgruppe �Finanzielle Maßnahmen gegen die Geldwäsche und die Terrorismusfinanzierung“ aufgestellt wurde;
+  - b) :: der Drittstaat, in dem der ausländische AIF seinen Sitz hat, nicht auf der Liste der nicht kooperativen Länder und Gebiete steht, die von der Arbeitsgruppe Finanzielle Maßnahmen gegen die Geldwäsche und die Terrorismusfinanzierung“ aufgestellt wurde;
   - c) :: die Vorkehrungen nach § 321 Absatz 1 Satz 2 Nummer 7 geeignet sind, einen Vertrieb an Privatanleger zu verhindern.
 
 Ist der angezeigte AIF ein Feeder-AIF, sind zusätzlich die Anforderungen des Absatzes 1 Satz 1 Nummer 1 oder 2 und 3 von dem Master-AIF und dessen Verwaltungsgesellschaft entsprechend einzuhalten.
@@ -5102,7 +5102,7 @@ Ist der angezeigte AIF ein Feeder-AIF, sind zusätzlich die Anforderungen des Ab
   beizufügen und
 - 2. :: muss sich die Erklärung nach Absatz 2 Satz 3 Nummer 2 oder 3 auch auf den Master-AIF und seine Verwaltungsgesellschaft erstrecken.
 
-(4) Fremdsprachige Unterlagen sind in deutscher Übersetzung oder in englischer Sprache vorzulegen. § 321 Absatz 2 und 3 Satz 1 bis 4 gilt entsprechend mit der Ma�AIF-Kapitalverwaltungsgesellschaft“ �AIF-Kapitalverwaltungsgesellschaft oder EU-AIF-Verwaltungsgesellschaft“ heißen muss und dass die in § 321 Absatz 3 Satz 1 genannte Frist 30 Arbeitstage und für den Fall, dass der angezeigte AIF ein Feeder-AIF ist,
+(4) Fremdsprachige Unterlagen sind in deutscher Übersetzung oder in englischer Sprache vorzulegen. § 321 Absatz 2 und 3 Satz 1 bis 4 gilt entsprechend mit der MaAIF-Kapitalverwaltungsgesellschaft“ AIF-Kapitalverwaltungsgesellschaft oder EU-AIF-Verwaltungsgesellschaft“ heißen muss und dass die in § 321 Absatz 3 Satz 1 genannte Frist 30 Arbeitstage und für den Fall, dass der angezeigte AIF ein Feeder-AIF ist,
 
 - 1. :: dessen Master-AIF nicht von einer ausländischen AIF-Verwaltungsgesellschaft verwaltet wird, zwei Monate,
 - 2. :: dessen Master-AIF von einer ausländischen AIF-Verwaltungsgesellschaft verwaltet wird, fünf Monate
@@ -5125,7 +5125,7 @@ beträgt.
     - aa) :: der Überwachung der Systemrisiken dienen,
     - bb) :: im Einklang mit den internationalen Standards und den Artikeln 113 bis 115 der Delegierten Verordnung (EU) Nr. 231/2013 stehen und
     - cc) :: einen effizienten Informationsaustausch gewährleisten, der es der Bundesanstalt ermöglicht, ihre in der Richtlinie 2011/61/EU festgelegten Aufgaben zu erfüllen;
-  - b) :: weder der Drittstaat, in dem die ausländische AIF-Verwaltungsgesellschaft ihren Sitz hat, noch der Drittstaat, in dem der ausländische AIF seinen Sitz hat, auf der Liste der nicht kooperativen Länder und Gebiete steht, die von der Arbeitsgruppe �Finanzielle Maßnahmen gegen die Geldwäsche und die Terrorismusfinanzierung“ aufgestellt wurde;
+  - b) :: weder der Drittstaat, in dem die ausländische AIF-Verwaltungsgesellschaft ihren Sitz hat, noch der Drittstaat, in dem der ausländische AIF seinen Sitz hat, auf der Liste der nicht kooperativen Länder und Gebiete steht, die von der Arbeitsgruppe Finanzielle Maßnahmen gegen die Geldwäsche und die Terrorismusfinanzierung“ aufgestellt wurde;
   - c) :: die Vorkehrungen nach § 321 Absatz 1 Satz 2 Nummer 7 geeignet sind, einen Vertrieb an Privatanleger zu verhindern.
 
 Ist der angezeigte AIF ein Feeder-AIF, sind zusätzlich die Anforderungen des Absatzes 1 Satz 1 Nummer 1 oder 2 und 3 von dem Master-AIF und dessen Verwaltungsgesellschaft entsprechend einzuhalten.
@@ -5153,7 +5153,7 @@ Ist der angezeigte AIF ein Feeder-AIF, sind zusätzlich die Anforderungen des Ab
   beizufügen und
 - 2. :: muss sich die Erklärung nach Absatz 2 Satz 3 Nummer 2 auch auf den Master-AIF und seine Verwaltungsgesellschaft erstrecken.
 
-(4) Fremdsprachige Unterlagen sind in deutscher Übersetzung oder in englischer Sprache vorzulegen. § 316 Absatz 2 und 3 gilt entsprechend mit der Ma�AIF-Kapitalverwaltungsgesellschaft“ �ausländische AIF-Verwaltungsgesellschaft“ heißen muss und dass die in § 316 Absatz 3 Satz 1 genannte Frist
+(4) Fremdsprachige Unterlagen sind in deutscher Übersetzung oder in englischer Sprache vorzulegen. § 316 Absatz 2 und 3 gilt entsprechend mit der MaAIF-Kapitalverwaltungsgesellschaft“ ausländische AIF-Verwaltungsgesellschaft“ heißen muss und dass die in § 316 Absatz 3 Satz 1 genannte Frist
 
 - 1. :: bei einem Vertrieb an professionelle Anleger
   - a) :: für den Fall, dass der angezeigte AIF kein Feeder-AIF ist, zwei Monate,
@@ -5217,10 +5217,10 @@ Fremdsprachige Unterlagen sind in deutscher Übersetzung oder in englischer Spra
 
 § 333 - Anzeigepflicht einer ausländischen AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat die Bundesrepublik Deutschland ist, beim Vertrieb von EU-AIF oder von inländischen AIF an professionelle Anleger in anderen Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
 
-(1) Beabsichtigt eine ausländische AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat gemä�AIF-Kapitalverwaltungsgesellschaft“ �ausländische AIF-Verwaltungsgesellschaft“ heißen muss.
+(1) Beabsichtigt eine ausländische AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat gemäAIF-Kapitalverwaltungsgesellschaft“ ausländische AIF-Verwaltungsgesellschaft“ heißen muss.
 (2) § 331 Absatz 2 bis 7 ist mit den Maßgaben entsprechend anzuwenden, dass
 
-- 1. :: es statt �AIF-Kapitalverwaltungsgesellschaft“ �ausländische AIF-Verwaltungsgesellschaft“ heißen muss,
+- 1. :: es statt AIF-Kapitalverwaltungsgesellschaft“ ausländische AIF-Verwaltungsgesellschaft“ heißen muss,
 - 2. :: die Bundesanstalt im Rahmen von § 331 Absatz 5 zusätzlich der Europäischen Wertpapier- und Marktaufsichtsbehörde mitteilt, dass die ausländische AIF-Verwaltungsgesellschaft mit dem Vertrieb von Anteilen oder Aktien des angezeigten AIF an professionelle Anleger im Aufnahmemitgliedstaat der ausländischen AIF-Verwaltungsgesellschaft beginnen kann, und
 - 3. :: die Bundesanstalt bei einer zulässigen Änderung nach § 331 Absatz 7 zusätzlich unverzüglich die Europäische Wertpapier- und Marktaufsichtsbehörde zu benachrichtigen hat, soweit die Änderungen die Beendigung des Vertriebs von bestimmten AIF oder zusätzlich vertriebenen AIF betreffen.
 
@@ -5228,10 +5228,10 @@ Fremdsprachige Unterlagen sind in deutscher Übersetzung oder in englischer Spra
 § 334 - Anzeigepflicht einer ausländischen AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat die Bundesrepublik Deutschland ist, beim Vertrieb von ausländischen AIF an professionelle Anleger in anderen Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
 
 (1) Der Vertrieb von Anteilen oder Aktien an ausländischen AIF durch eine ausländische AIF-Verwaltungsgesellschaft an professionelle Anleger in anderen Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum ist nur zulässig, wenn die in § 322 Absatz 1 genannten Anforderungen erfüllt sind. Ist die zuständige Stelle des Aufnahmestaates der ausländischen AIF-Verwaltungsgesellschaft nicht mit der Beurteilung der in § 322 Absatz 1 Nummer 1 und 2 genannten Voraussetzungen durch die Bundesanstalt einverstanden, kann sie die Europäische Wertpapier- und Marktaufsichtsbehörde nach Maßgabe des Artikels 19 der Verordnung (EU) Nr. 1095/2010 um Hilfe ersuchen.
-(2) Beabsichtigt eine ausländische AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat gemä�AIF-Kapitalverwaltungsgesellschaft“ �ausländische AIF-Verwaltungsgesellschaft“ heißen muss.
+(2) Beabsichtigt eine ausländische AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat gemäAIF-Kapitalverwaltungsgesellschaft“ ausländische AIF-Verwaltungsgesellschaft“ heißen muss.
 (3) § 331 Absatz 2 bis 5 Satz 1 und 2, Absatz 6 und 7 ist mit der Maßgabe entsprechend anzuwenden, dass
 
-- 1. :: es statt �AIF-Kapitalverwaltungsgesellschaft“ �ausländische AIF-Verwaltungsgesellschaft“ heißen muss,
+- 1. :: es statt AIF-Kapitalverwaltungsgesellschaft“ ausländische AIF-Verwaltungsgesellschaft“ heißen muss,
 - 2. :: im Rahmen von § 331 Absatz 5 die Bundesanstalt zusätzlich der Europäischen Wertpapier- und Marktaufsichtsbehörde mitteilt, dass die ausländische AIF-Verwaltungsgesellschaft mit dem Vertrieb von Anteilen oder Aktien des angezeigten AIF an professionelle Anleger im Aufnahmemitgliedstaat der ausländischen AIF-Verwaltungsgesellschaft beginnen kann, und
 - 3. :: die Bundesanstalt bei einer zulässigen Änderung nach § 331 Absatz 7 zusätzlich unverzüglich die Europäische Wertpapier- und Marktaufsichtsbehörde zu benachrichtigen hat, soweit die Änderungen die Beendigung des Vertriebs von bestimmten AIF oder zusätzlich vertriebenen AIF betreffen.
 
@@ -5254,7 +5254,7 @@ Fremdsprachige Unterlagen sind in deutscher Übersetzung oder in englischer Spra
 - 1. :: die §§ 1, 2, 5 Absatz 1 und die §§ 6, 7, 13, 14, 44 Absatz 1 Nummer 1, 2, 5 bis 7 und Absatz 4 bis 7 entsprechend sowie
 - 2. :: die Vorschriften der Verordnung (EU) Nr. 345/2013.
 
-(2) AIF-Kapitalverwaltungsgesellschaften, die die Voraussetzungen des Artikels 2 Absatz 2 der Verordnung (EU) Nr. 345/2013 erfüllen und die Bezeichnung �EuVECA“ weiter führen, haben neben den Vorschriften dieses Gesetzes die in Artikel 2 Absatz 2 Buchstabe b der Verordnung (EU) Nr. 345/2013 genannten Artikel der Verordnung (EU) Nr. 345/2013 zu erfüllen.
+(2) AIF-Kapitalverwaltungsgesellschaften, die die Voraussetzungen des Artikels 2 Absatz 2 der Verordnung (EU) Nr. 345/2013 erfüllen und die Bezeichnung EuVECA“ weiter führen, haben neben den Vorschriften dieses Gesetzes die in Artikel 2 Absatz 2 Buchstabe b der Verordnung (EU) Nr. 345/2013 genannten Artikel der Verordnung (EU) Nr. 345/2013 zu erfüllen.
 
 § 338 - Europäische Fonds für soziales Unternehmertum
 
@@ -5263,7 +5263,7 @@ Fremdsprachige Unterlagen sind in deutscher Übersetzung oder in englischer Spra
 - 1. :: die §§ 1, 2, 5 Absatz 1 und die §§ 6, 7, 13, 14, 44 Absatz 1 Nummer 1, 2, 5 bis 7 und Absatz 4 bis 7 entsprechend sowie
 - 2. :: die Vorschriften der Verordnung (EU) Nr. 346/2013.
 
-(2) AIF-Kapitalverwaltungsgesellschaften, die die Voraussetzungen des Artikels 2 Absatz 2 der Verordnung (EU) Nr. 346/2013 erfüllen und die Bezeichnung �EuSEF“ weiter führen, haben neben den Vorschriften dieses Gesetzes die in Artikel 2 Absatz 2 Buchstabe b der Verordnung (EU) Nr. 346/2013 genannten Artikel der Verordnung (EU) Nr. 346/2013 zu erfüllen.
+(2) AIF-Kapitalverwaltungsgesellschaften, die die Voraussetzungen des Artikels 2 Absatz 2 der Verordnung (EU) Nr. 346/2013 erfüllen und die Bezeichnung EuSEF“ weiter führen, haben neben den Vorschriften dieses Gesetzes die in Artikel 2 Absatz 2 Buchstabe b der Verordnung (EU) Nr. 346/2013 genannten Artikel der Verordnung (EU) Nr. 346/2013 zu erfüllen.
 
 § 338a - Europäische langfristige Investmentfonds
 
@@ -5424,7 +5424,7 @@ Für OGAW und AIF, die Geldmarktfonds im Sinne der Verordnung (EU) 2017/1131 des
 - 4. :: entgegen Artikel 6 Absatz 1 einen dort genannten Anteil vertreibt,
 - 5. :: entgegen Artikel 12 Absatz 1 Unterabsatz 1 Satz 1 in Verbindung mit Satz 2, 3 oder Satz 4 oder entgegen Absatz 1 Unterabsatz 2 Satz 2 einen Jahresbericht der Bundesanstalt nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
 - 6. :: entgegen Artikel 13 Absatz 1 eine Unterrichtung der Anleger oder entgegen Artikel 15 eine Unterrichtung der zuständigen Behörde nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vornimmt, oder
-- 7. :: ohne Registrierung nach Artikel 14 Absatz 1 in Verbindung mit Artikel 14 Absatz 2 die Bezeichnung �EuVECA“ verwendet.
+- 7. :: ohne Registrierung nach Artikel 14 Absatz 1 in Verbindung mit Artikel 14 Absatz 2 die Bezeichnung EuVECA“ verwendet.
 
 (5) Ordnungswidrig handelt, wer gegen die Verordnung (EU) Nr. 346/2013 des Europäischen Parlaments und des Rates vom 17. April 2013 über Europäische Fonds für soziales Unternehmertum (ABl. L 115 vom 25.4.2013, S. 18) verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -5434,7 +5434,7 @@ Für OGAW und AIF, die Geldmarktfonds im Sinne der Verordnung (EU) 2017/1131 des
 - 4. :: entgegen Artikel 6 Absatz 1 einen dort genannten Anteil vertreibt,
 - 5. :: entgegen Artikel 13 Absatz 1 Satz 1 in Verbindung mit Satz 2, 3 oder Satz 4 oder in Verbindung mit Absatz 2 oder entgegen Absatz 1 Satz 6 in Verbindung mit Absatz 2 einen Jahresbericht der Bundesanstalt nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vorlegt,
 - 6. :: entgegen Artikel 14 Absatz 1 eine Unterrichtung der Anleger oder entgegen Artikel 16 eine Unterrichtung der zuständigen Behörde nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vornimmt, oder
-- 7. :: ohne Registrierung nach Artikel 15 Absatz 1 in Verbindung mit Artikel 15 Absatz 2 die Bezeichnung �EuSEF“ verwendet.
+- 7. :: ohne Registrierung nach Artikel 15 Absatz 1 in Verbindung mit Artikel 15 Absatz 2 die Bezeichnung EuSEF“ verwendet.
 
 (6) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2015/760 verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -5450,7 +5450,7 @@ Für OGAW und AIF, die Geldmarktfonds im Sinne der Verordnung (EU) 2017/1131 des
 - 10. :: entgegen Artikel 24 Absatz 1 einen Prospekt oder eine Änderung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt,
 - 11. :: entgegen den Artikeln 28 und 30 einen Anteil an einen Kleinanleger vertreibt,
 - 12. :: entgegen Artikel 29 Absatz 5 einen Vermögenswert wiederverwendet,
-- 13. :: ohne Zulassung gemä�ELTIF“ oder �europäischer langfristiger Investmentfonds“ verwendet.
+- 13. :: ohne Zulassung gemäELTIF“ oder europäischer langfristiger Investmentfonds“ verwendet.
 
 (6a) Ordnungswidrig handelt, wer gegen die Verordnung (EU) Nr. 1286/2014 des Europäischen Parlaments und des Rates vom 26. November 2014 über Basisinformationsblätter für verpackte Anlageprodukte für Kleinanleger und Versicherungsanlageprodukte (PRIIP) (ABl. L 352 vom 9.12.2014, S. 1, L 358 vom 13.12.2014, S. 50) verstößt, indem er vorsätzlich oder leichtfertig
 
@@ -5473,7 +5473,7 @@ Für OGAW und AIF, die Geldmarktfonds im Sinne der Verordnung (EU) 2017/1131 des
 
 (6b) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2017/1131 des Europäischen Parlaments und des Rates vom 14. Juni 2017 über Geldmarktfonds (ABl. L 169 vom 30.6.2017, S. 8) verstößt, indem er vorsätzlich oder fahrlässig
 
-- 1. :: ohne Zulassung nach Artikel 6 Absatz 1 die Bezeichnung �Geldmarktfonds“ verwendet,
+- 1. :: ohne Zulassung nach Artikel 6 Absatz 1 die Bezeichnung Geldmarktfonds“ verwendet,
 - 2. :: entgegen Artikel 9 Absatz 1 oder 2 in einen Vermögenswert investiert oder ein dort genanntes Geschäft tätigt,
 - 3. :: einer Vorschrift des Artikels 17 Absatz 1, 3, 4, 5 oder 6 Satz 1, des Artikels 18 Absatz 1, des Artikels 24 Absatz 1 oder des Artikels 25 Absatz 1 Satz 1 oder Absatz 3 über eine dort genannte Anforderung an die Zusammensetzung des Portfolios zuwiderhandelt,
 - 4. :: einer Vorschrift des Artikels 19 Absatz 2 oder 4 über eine dort genannte Sicherstellungspflicht zuwiderhandelt,
@@ -5715,7 +5715,7 @@ unter Einhaltung der Anlagegrenzen, der zusätzlichen Angaben im Verkaufsprospek
 - 1. :: über eine Erlaubnis als Kapitalanlagegesellschaft nach § 7 Absatz 1 des Investmentgesetzes in der bis zum 21. Juli 2013 geltenden Fassung oder über eine Erlaubnis als Investmentaktiengesellschaft nach § 97 Absatz 1 des Investmentgesetzes in der bis zum 21. Juli 2013 geltenden Fassung verfügt und
 - 2. :: Sondervermögen oder Investmentaktiengesellschaften mit zusätzlichen Risiken im Sinne des § 112 des Investmentgesetzes in der bis zum 21. Juli 2013 geltenden Fassung verwaltet, die vor dem 22. Juli 2013 aufgelegt im Sinne des § 343 Absatz 4 wurden, an Privatanleger vertrieben werden durften und deren Anlagebedingungen gemäß den §§ 43, 43a des Investmentgesetzes in der bis zum 21. Juli 2013 geltenden Fassung genehmigt wurden,
 
-gilt § 345 Absatz 1 und 2 entsprechend mit der Ma�Publikums-AIF“ der Begriff �Spezial-AIF“ tritt und ein Vertrieb an Privatanleger oder ein Erwerb der Anteile oder Aktien durch Privatanleger ab dem 22. Juli 2013 nicht mehr zulässig ist, soweit sich aus Satz 2 nichts anderes ergibt. Solange Anteile oder Aktien von Privatanlegern gehalten werden, gelten abweichend von § 345 Absatz 1 Satz 11 ab Inkrafttreten der Änderungen der Anlagebedingungen die §§ 112, 116 und 118 des Investmentgesetzes in der bis zum 21. Juli 2013 geltenden Fassung entsprechend, sofern sie Sondervermögen oder Investmentaktiengesellschaften mit zusätzlichen Risiken im Sinne des § 112 des Investmentgesetzes in der bis zum 21. Juli 2013 geltenden Fassung betreffen; ein Vertrieb an oder ein Erwerb durch Privatanleger ist ausgeschlossen. Solange Anteile oder Aktien von Privatanlegern gehalten werden, gelten ferner die §§ 162, 163 und 297, soweit sich diese Vorschriften auf Anleger beziehen, und die §§ 300, 301, 305 und 306 im Hinblick auf diejenigen Privatanleger, die noch Anteile oder Aktien halten.
+gilt § 345 Absatz 1 und 2 entsprechend mit der MaPublikums-AIF“ der Begriff Spezial-AIF“ tritt und ein Vertrieb an Privatanleger oder ein Erwerb der Anteile oder Aktien durch Privatanleger ab dem 22. Juli 2013 nicht mehr zulässig ist, soweit sich aus Satz 2 nichts anderes ergibt. Solange Anteile oder Aktien von Privatanlegern gehalten werden, gelten abweichend von § 345 Absatz 1 Satz 11 ab Inkrafttreten der Änderungen der Anlagebedingungen die §§ 112, 116 und 118 des Investmentgesetzes in der bis zum 21. Juli 2013 geltenden Fassung entsprechend, sofern sie Sondervermögen oder Investmentaktiengesellschaften mit zusätzlichen Risiken im Sinne des § 112 des Investmentgesetzes in der bis zum 21. Juli 2013 geltenden Fassung betreffen; ein Vertrieb an oder ein Erwerb durch Privatanleger ist ausgeschlossen. Solange Anteile oder Aktien von Privatanlegern gehalten werden, gelten ferner die §§ 162, 163 und 297, soweit sich diese Vorschriften auf Anleger beziehen, und die §§ 300, 301, 305 und 306 im Hinblick auf diejenigen Privatanleger, die noch Anteile oder Aktien halten.
 
 (2) Werden Anteile oder Aktien von inländischen offenen Spezial-AIF im Sinne des § 345 Absatz 3 Satz 1 Nummer 2, die von einer AIF-Kapitalverwaltungsgesellschaft im Sinne von § 345 Absatz 3 Satz 1 Nummer 1 verwaltet werden, von Privatanlegern gehalten, die diese Anteile oder Aktien vor dem 22. Juli 2013 erworben haben, so dürfen diese Privatanleger diese vor dem 22. Juli 2013 erworbenen Anteile oder Aktien auch nach dem 22. Juli 2013 weiter halten, bis sie diese Anteile oder Aktien zurückgeben, ohne dass sich die Qualifikation des Investmentvermögens als inländischer Spezial-AIF nach § 1 Absatz 6 ändert.
 
@@ -5736,7 +5736,7 @@ hat die Anlagebedingungen, Satzungen oder Gesellschaftsverträge dieser inländi
 - 1. :: offene EU-AIF oder offene ausländische AIF verwalten, die keine ausländischen Investmentvermögen im Sinne des Investmentgesetzes in der bis zum 21. Juli 2013 geltenden Fassung sind und im Inland vor dem 22. Juli 2013 vertrieben werden durften, und
 - 2. :: ab dem 22. Juli 2013 Tätigkeiten ausüben oder ausüben lassen, die nach diesem Gesetz als Vertrieb eines Investmentvermögens anzusehen sind,
 
-übermitteln, gegebenenfalls über die zuständigen Stellen des Herkunftsmitgliedstaates, eine Anzeige nach den §§ 320, 323, 329, 330 oder 330a. § 345 Absatz 8 Satz 2, 3 und 5 gilt entsprechend mit der Ma�nach den Vertriebsvorschriften des Investmentgesetzes in der bis zum 21. Juli 2013 geltenden Fassung“ die Wörter �nach den Vertriebsvorschriften, die für diese Investmentvermögen vor dem 22. Juli 2013 anwendbar waren“ treten.
+übermitteln, gegebenenfalls über die zuständigen Stellen des Herkunftsmitgliedstaates, eine Anzeige nach den §§ 320, 323, 329, 330 oder 330a. § 345 Absatz 8 Satz 2, 3 und 5 gilt entsprechend mit der Manach den Vertriebsvorschriften des Investmentgesetzes in der bis zum 21. Juli 2013 geltenden Fassung“ die Wörter nach den Vertriebsvorschriften, die für diese Investmentvermögen vor dem 22. Juli 2013 anwendbar waren“ treten.
 
 
 § 352 - Übergangsvorschrift zu § 127 des Investmentgesetzes

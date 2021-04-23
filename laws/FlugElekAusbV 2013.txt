@@ -157,14 +157,14 @@ Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teile
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Leistungen wie folgt bewertet worden sind:
 
-- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit mindestens �ausreichend“,
-- 2. :: im Prüfungsbereich Arbeitsauftrag mit mindestens �ausreichend“,
-- 3. :: in zwei der Prüfungsbereiche nach Absatz 1 Nummer 3 bis 5 mit mindestens �ausreichend“ und
-- 4. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit �ungenügend“.
+- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit mindestens ausreichend“,
+- 2. :: im Prüfungsbereich Arbeitsauftrag mit mindestens ausreichend“,
+- 3. :: in zwei der Prüfungsbereiche nach Absatz 1 Nummer 3 bis 5 mit mindestens ausreichend“ und
+- 4. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit ungenügend“.
 
 (3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche Systemanalyse, Funktionsanalyse oder Wirtschafts- und Sozialkunde durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-- 1. :: der Prüfungsbereich schlechter als �ausreichend“ bewertet worden ist und
+- 1. :: der Prüfungsbereich schlechter als ausreichend“ bewertet worden ist und
 - 2. :: die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
@@ -346,9 +346,9 @@ und Teilsystemen der Avionik\\
 - f) :: Kabelbäume anfertigen, prüfen und einbauen
 - g) :: Energie-, Signal- und Datenleitungen verlegen, verbinden und anschließen
 
-�
 
-�
+
+
 
 - h) :: Bauelemente bereitstellen, zurichten, in Leiterplatten einsetzen sowie ein- und auslöten
 - i) :: Teilsysteme der Informations-, Daten-, Sende- und Empfangstechnik zusammenbauen, verdrahten und installieren
@@ -448,9 +448,9 @@ Aufbau und Organisation des Ausbildungsbetriebes\\
 - b) :: Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklären
 - c) :: Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
-�
 
-�
+
+
 
 - d) :: Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
@@ -582,7 +582,7 @@ Arbeitsergebnisse\\
 - a) :: Arbeitsplatz einrichten
 - c) :: Werkzeuge, Materialien, Bauteile und Betriebsmittel für den Arbeitsablauf ermitteln und bereitstellen
 
-�
+
 
 2
 
@@ -593,7 +593,7 @@ Betriebliche und technische Kommunikation\\
 - b) :: technische Zeichnungen und Pläne auswerten, anwenden und Skizzen anfertigen
 - d) :: Daten erfassen, bearbeiten und sichern
 
-�
+
 
 3
 
@@ -603,7 +603,7 @@ Montieren und Demontieren von Geräten, Baugruppen und Systemen\\
 - h) :: Funktion von Potenzialausgleichsleitern prüfen und beurteilen
 - i) :: Übergangswiderstände messen und beurteilen; Isolationswiderstände beachten
 
-�
+
 
 4
 
@@ -634,7 +634,7 @@ von elektrischen Anlagen und Betriebsmitteln\\
 - e) :: Schutzarten von elektrischen Geräten oder Anlagen hinsichtlich der Umgebungsbedingungen beurteilen
 - j) :: Brandschutzbestimmungen beim Betrieb elektrischer Geräte und Anlagen beurteilen
 
-�
+
 
 Zeitrahmen 3: Baugruppen und Geräte herstellen und prüfen
 
@@ -665,7 +665,7 @@ Arbeitsergebnisse\\
 - a) :: Arbeitsplatz einrichten
 - c) :: Werkzeuge, Materialien, Bauteile und Betriebsmittel für den Arbeitsablauf ermitteln und bereitstellen
 
-�
+
 
 2
 
@@ -674,7 +674,7 @@ Betriebliche und technische Kommunikation\\
 
 - b) :: technische Zeichnungen und Pläne auswerten, anwenden und Skizzen anfertigen
 
-�
+
 
 3
 
@@ -683,7 +683,7 @@ Montieren und Demontieren von Geräten, Baugruppen und Systemen\\
 
 - j) :: Einbauorte identifizieren, Bauteile und Geräte einmessen und ausrichten
 
-�
+
 
 4
 
@@ -693,7 +693,7 @@ Berücksichtigen von menschlichen Faktoren\\
 - c) :: psychische Einflüsse, insbesondere Gesundheit, Stress, Zeitdruck, Über- und Unterforderung, Routineaufgaben, Schlafmangel und Drogenmissbrauch, bei der Arbeit am Fluggerät auf den Menschen berücksichtigen
 - d) :: physische Einflüsse, insbesondere durch Geräusche, Staub, Temperatur und Beleuchtung, und ihre Auswirkungen auf den Menschen sowie das Arbeitsergebnis berücksichtigen
 
-�
+
 
 5
 
@@ -717,7 +717,7 @@ Messen und Analysieren von elektrischen Funktionen und Systemen\\
 - d) :: Signale verfolgen und an Schnittstellen prüfen
 - e) :: systematische Fehlersuche durchführen
 
-�
+
 
 7
 
@@ -726,7 +726,7 @@ Installieren von Komponenten und Teilsystemen der Avionik\\
 
 - h) :: Bauelemente bereitstellen, zurichten, in Leiterplatten einsetzen sowie ein- und auslöten
 
-�
+
 
 8
 
@@ -739,7 +739,7 @@ Testen von Systemen\\
 - f) :: elektromechanische Baugruppen prüfen und einstellen
 - k) :: Prüf- und Messergebnisse dokumentieren und auswerten
 
-�
+
 
 Zeitrahmen 4: Versorgungs- und Steuerungssysteme in Betrieb nehmen und prüfen
 
@@ -767,7 +767,7 @@ Betriebliche und technische Kommunikation\\
 
 - a) :: Informationen beschaffen und bewerten, Datenbankabfragen durchführen
 
-�
+
 
 2
 
@@ -778,7 +778,7 @@ Montieren und Demontieren von Geräten, Baugruppen und Systemen\\
 - d) :: Aufbau von elektrischen, pneumatischen und hydraulischen Leitungen und deren Verlegungsarten unterscheiden
 - g) :: Bauteile, Geräte, Baugruppen und Systeme zur Lagerung und zum Transport vorbereiten
 
-�
+
 
 3
 
@@ -789,7 +789,7 @@ Durchführen von qualitätssichernden Maßnahmen\\
 - b) :: Qualitätsabweichungen und ihre Ursachen durch Zwischen- und Endkontrollen feststellen sowie Maßnahmen zur Behebung ergreifen und dokumentieren
 - f) :: Fremdkörperkontrollen durchführen
 
-�
+
 
 4
 
@@ -800,7 +800,7 @@ Montieren und Anschließen elektrischer Betriebsmittel\\
 - d) :: elektrische Geräte herstellen oder elektrische Anlagen errichten, Geräte und Anlagen in Betrieb nehmen
 - e) :: beim Errichten, Ändern, Instandhalten und Betreiben elektrischer Anlagen und Betriebsmittel die elektrotechnischen Regeln beachten
 
-�
+
 
 5
 
@@ -829,7 +829,7 @@ von elektrischen Anlagen und Betriebsmitteln\\
 - h) :: elektrische Sicherheit ortsveränderlicher Betriebsmittel beurteilen
 - i) :: gerätetechnische Prüfungen durchführen
 
-�
+
 
 7
 
@@ -841,7 +841,7 @@ Testen von Systemen\\
 - e) :: analoge und digitale Ein- und Ausgangssignale prüfen, messen und einstellen
 - f) :: elektromechanische Baugruppen prüfen und einstellen
 
-�
+
 
 Zeitrahmen 5: Baugruppen und Geräte installieren
 
@@ -1086,7 +1086,7 @@ Arbeitsergebnisse\\
 - b) :: Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags prüfen und mit den betrieblichen Möglichkeiten abstimmen
 - d) :: Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und terminlicher Vorgaben planen, bei Abweichungen von der Planung Prioritäten setzen
 
-�
+
 
 2
 
@@ -1097,16 +1097,16 @@ Betriebliche und technische Kommunikation\\
 - g) :: Dokumentationen auch in englischer Sprache erstellen
 - h) :: Kommunikation auch in englischer Sprache durchführen
 
-�
 
-�
 
-�
+
+
+
 
 - i) :: IT-Systeme zur Auftragsplanung und -abwicklung sowie Terminverfolgung anwenden
 - j) :: Rolle der nationalen und internationalen Luftfahrtbehörden beachten
 
-�
+
 
 3
 
@@ -1116,7 +1116,7 @@ Durchführen von Funktionsprüfungen und Einstellarbeiten\\
 - a) :: Test- und Prüfgeräte anwenden
 - b) :: Funktionsprüfungen an Baugruppen, Systemen und Fluggerät nach Beanstandung, Fertigung und Instandhaltung durchführen
 
-�
+
 
 4
 
@@ -1136,7 +1136,7 @@ von elektrischen Funktionen und Systemen\\
 - g) :: Steuerungen und Regelungen hinsichtlich ihrer Funktion prüfen und bewerten
 - h) :: Funktionsfähigkeit von Systemen und Komponenten prüfen, Datenprotokolle interpretieren
 
-�
+
 
 6
 
@@ -1146,7 +1146,7 @@ Installieren von Komponenten und Teilsystemen der Avionik\\
 - i) :: Teilsysteme der Informations-, Daten-, Sende- und Empfangstechnik zusammenbauen, verdrahten und installieren
 - m) :: Softwarte-Updates durchführen
 
-�
+
 
 7
 
@@ -1156,7 +1156,7 @@ Testen von Systemen\\
 - c) :: Testprogramme einsetzen
 - g) :: elektrische Größen in Antennenanlagen prüfen und messen
 
-�
+
 
 8
 
@@ -1167,7 +1167,7 @@ Systemen der Avionik\\
 - g) :: funktionelle Zusammenhänge und technische Lösungen von Informations- und Kommunikationssystemen am Boden und im Fluggerät, insbesondere für Navigation, Flugführung, Instrumentierung, Datenübertragung sowie Radarsystem, den technischen Unterlagen entnehmen und prüfen
 - h) :: Baugruppen und Geräte der Informations- und Funktechnik, einschließlich Peripheriegeräte, anpassen und in Betrieb nehmen
 
-�
+
 
 Zeitrahmen 9: Flugüberwachungssysteme in Betrieb nehmen
 
@@ -1197,7 +1197,7 @@ Arbeitsergebnisse\\
 
 - b) :: Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags prüfen und mit den betrieblichen Möglichkeiten abstimmen
 
-�
+
 
 2
 
@@ -1209,7 +1209,7 @@ Betriebliche und technische Kommunikation\\
 - i) :: IT-Systeme zur Auftragsplanung und -abwicklung sowie Terminverfolgung anwenden
 - j) :: Rolle der nationalen und internationalen Luftfahrtbehörden beachten
 
-�
+
 
 3
 
@@ -1222,7 +1222,7 @@ von Serviceleistungen\\
 - f) :: technische Unterstützung leisten
 - g) :: Informationsaustausch zu den Kunden organisieren
 
-�
+
 
 4
 
@@ -1248,7 +1248,7 @@ Testen von Systemen\\
 - h) :: Sensoren und Wandler prüfen, messen und einstellen
 - i) :: Funktionseinheiten für Mess-, Steuer- und Regeleinrichtungen prüfen und einstellen
 
-�
+
 
 6
 
@@ -1260,7 +1260,7 @@ In Betrieb nehmen von Systemen der Avionik\\
 - f) :: Warnsysteme, hydraulische und pneumatische Systeme, Kraftstoffsysteme, Atemluftversorgungssysteme und Antriebssysteme prüfen und in Betrieb nehmen
 - g) :: funktionelle Zusammenhänge und technische Lösungen von Informations- und Kommunikationssystemen am Boden und im Fluggerät, insbesondere für Navigation, Flugführung, Instrumentierung, Datenübertragung sowie Radarsystem, den technischen Unterlagen entnehmen und prüfen
 
-�
+
 
 Zeitrahmen 10: Antriebs- und Avioniksysteme instand halten
 
@@ -1290,7 +1290,7 @@ Arbeitsergebnisse\\
 
 - b) :: Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags prüfen und mit den betrieblichen Möglichkeiten abstimmen
 
-�
+
 
 2
 
@@ -1303,7 +1303,7 @@ technische Kommunikation\\
 - g) :: Dokumentationen auch in englischer Sprache erstellen
 - i) :: IT-Systeme zur Auftragsplanung und -abwicklung sowie Terminverfolgung anwenden
 
-�
+
 
 3
 
@@ -1312,16 +1312,16 @@ Instandhaltung\\
 
 - a) :: Inspektions-, Wartungs-, Instandsetzungs- und Modifikationsarbeiten nach Instandhaltungsunterlagen an luftfahrzeug- und typenspezifischen Systemen durchführen
 
-�
 
-�
 
-�
+
+
+
 
 - b) :: Bauteile, Geräte und Baugruppen mit begrenzter Lebensdauer kontrollieren
 - c) :: Fehlersuche und Überprüfungen an luftfahrzeug- und typenspezifischen Systemen durchführen sowie Instandhaltungsmaßnahmen veranlassen
 
-�
+
 
 4
 
@@ -1349,7 +1349,7 @@ von Serviceleistungen\\
 - f) :: technische Unterstützung leisten
 - g) :: Informationsaustausch zu den Kunden organisieren
 
-�
+
 
 6
 
@@ -1359,7 +1359,7 @@ Instandhalten von Elektrik- und Avioniksystemen\\
 - a) :: Ursachen für Fehler in Baugruppen, Geräten und Anlagen durch Sichtkontrolle, Prüfen und Messen sowie mit Hilfe von Serviceunterlagen systematisch eingrenzen, erkennen und dokumentieren
 - d) :: Geräte und Anlagen nach Unterlagen und Anweisung ändern
 
-�
+
 
 Zeitrahmen 11: Arbeitsprozess unter Beachtung des Qualitätsmanagements gestalten
 
@@ -1401,14 +1401,14 @@ Qualitätsmanagement im Einsatzgebiet anwenden\\
 \\
 \\
 
-�
 
-�
+
+
 
 - h) :: Abnahmeprotokolle ausfüllen, Fachauskünfte auch in englischer Sprache erteilen, Geräte und Systemdokumentation, auch in Englisch, zusammenstellen
 - i) :: Geräte- und Systemdokumentation, auch in Englisch, zusammenstellen
 
-�
+
 
 
 Anlage 3 - (zu § 3 Absatz 1)Regelung zur Vermittlung der Fertigkeiten, Kenntnisse und Fähigkeiten nach Verordnung (EU) Nr. 1149/2011 Anhang III (Teil 66)

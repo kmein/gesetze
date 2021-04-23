@@ -278,8 +278,8 @@ Lesen und Anfertigen von Skizzen und Zeichnungen (§ 4 Nr. 5)
 a)
 Skizzen, Zeichnungen, isometrische Darstellungen und Stücklisten unter Beachtung der Normen anfertigen
 3
-�
-�
+
+
 b)
 Pläne, Zeichnungen, isometrische Darstellungen und Stücklisten lesen und anwenden
 c)
@@ -289,8 +289,8 @@ Planen und Vorbereiten von Arbeitsabläufen, Einrichten von Baustellen, Kontroll
 a)
 Arbeitsauftrag erfassen
 3
-�
-�
+
+
 b)
 Arbeitsschritte und Arbeitsmittel festlegen
 c)
@@ -308,8 +308,8 @@ Grundfertigkeiten im Trockenbau (§ 4 Nr. 7)
 a)
 Dämmstoffe gegen Wärme, Kälte und Schall unterscheiden und verarbeiten, Baustoffklassen beachten
 5
-�
-�
+
+
 b)
 Befestigungsmittel auswählen
 c)
@@ -319,8 +319,8 @@ Aufstellen und Prüfen von Arbeitsund Schutzgerüsten (§ 4 Nr. 8)
 a)
 Arbeits- und Schutzgerüste aufstellen, unterhalten und abbauen
 4
-�
-�
+
+
 b)
 Betriebssicherheit von Arbeitsund Schutzgerüsten prüfen, Herstellen der Betriebssicherheit veranlassen
 9
@@ -328,8 +328,8 @@ Arbeiten mit Kunststoffen (§ 4 Nr. 9)
 a)
 Kunststoffe klassifizieren, hinsichtlich ihrer Eigenschaften beurteilen und nach Verwendungszweck auswählen
 4
-�
-�
+
+
 b)
 Kunststofformteile und -schläuche zuschneiden und bearbeiten sowie durch Kleben und Schweißen verbinden
 c)
@@ -341,8 +341,8 @@ Bearbeiten von Blechen (§ 4 Nr. 10)
 a)
 Stahl und Nichteisenmetalle hinsichtlich ihrer Werkstoffeigenschaften unterscheiden und ihr Korrosionsverhalten beurteilen
 4
-�
-�
+
+
 b)
 Bleche aus Stahl und Nichteisenmetallen anreißen
 c)
@@ -353,9 +353,9 @@ e)
 Metallteile, insbesondere mit Schrauben, Stiften und Nieten, verbinden
 f)
 Bleche bearbeiten, insbesondere bördeln, falzen, schweifen und durchsetzen
-�
+
 14
-�
+
 g)
 Formteile aus Blech herstellen
 11
@@ -363,8 +363,8 @@ Herstellen von Wärme-, Kälte- und Schalldämmungen (§ 4 Nr. 11)
 a)
 Dämmstoffe nach ihren für den Anwendungszweck wichtigen Eigenschaften auswählen und verarbeiten
 10
-�
-�
+
+
 b)
 Dämmstoffe nach Herstellerangaben lagern
 c)
@@ -379,9 +379,9 @@ g)
 Dämmstoffe an Rohrleitungen, Behältern, Decken und Wänden befestigen
 h)
 Dämmstoffe an Formstücken, insbesondere an Krümmern, Abzweigen und Übergängen, befestigen
-�
+
 10
-�
+
 i)
 Matratzen aus Dämmstoffen mit Gewebeabdeckung herstellen und anbringen
 12
@@ -389,20 +389,20 @@ Anbringen von Unterkonstruktionen (§ 4 Nr. 12)
 a)
 Stütz- und Tragkonstruktionen, insbesondere Stege, Schienen und Ringe, herstellen
 2
-�
-�
+
+
 b)
 Stütz- und Tragkonstruktionen anbringen
-�
+
 2
-�
+
 13
 Ummanteln von Dämmungen (§ 4 Nr. 13)
 a)
 Werkstoffe für Ummantelungen nach ihren Eigenschaften unterscheiden und nach dem Anwendungszweck auswählen und anwenden
 17
-�
-�
+
+
 b)
 Befestigungsmittel passend zur Ummantelung auswählen
 c)
@@ -415,9 +415,9 @@ f)
 Dämmstoffe mit Bandagen umwickeln
 g)
 Montagestelle vorbereiten
-�
+
 24
-�
+
 h)
 Anlagenteile aufmessen, Isometrien lesen
 i)
@@ -436,9 +436,9 @@ ausgeführte Arbeiten kontrollieren
 Instandhalten von Werkzeugen und Geräten (§ 4 Nr. 14)
 a)
 Werkzeuge, Geräte und Maschinen instandhalten, Reparaturen veranlassen
-�
+
 2
-�
+
 b)
 Maschinen nach Betriebsanleitung einrichten und bedienen
 
@@ -510,8 +510,8 @@ die im Ausbildungsbetrieb verwendeten Energiearten nennen und Möglichkeiten rat
 Lesen und Anfertigen von Skizzen und Zeichnungen (§ 5 Nr. 5)
 a)
 Skizzen, Zeichnungen, isometrische Darstellungen und Stücklisten unter Beachtung der Normen anfertigen
-�
-�
+
+
 3
 b)
 Pläne, Zeichnungen, isometrische Darstellungen und Stücklisten lesen und anwenden
@@ -521,8 +521,8 @@ technische Tabellen, Handbücher, Richtlinien und Merkblätter anwenden
 Planen und Vorbereiten von Arbeitsabläufen, Einrichten von Baustellen, Kontrollieren der Arbeitsergebnisse (§ 5 Nr. 6)
 a)
 Arbeitsumfang unter Berücksichtigung des Zeitaufwandes und der Notwendigkeit personeller Unterstützung abschätzen
-�
-�
+
+
 6
 b)
 Arbeitsablauf im Hinblick auf den Arbeitsauftrag sicherstellen
@@ -534,8 +534,8 @@ Maßnahmen der Qualitätssicherung ergreifen
 Herstellen von Wärme-, Kälte- und Schalldämmungen (§ 5 Nr. 7)
 a)
 Ausführung von Dämmsystemen prüfen und Wirkung von Dämmsystemen unter Berücksichtigung des Brandschutzes beurteilen
-�
-�
+
+
 10
 b)
 Dämmstoffe an Formstücken, insbesondere an Krümmern, Abzweigen und Übergängen, befestigen
@@ -551,8 +551,8 @@ Endkontrolle durchführen
 Beurteilen und Herstellen von Dampfbremsen (§ 5 Nr. 8)
 a)
 Dampfbremsen prüfen und Wirkung von Dampfbremsen beurteilen
-�
-�
+
+
 4
 b)
 Dampfbremsen durch Aufbringen von Dichtungsbahnen und Beschichtungen herstellen
@@ -560,8 +560,8 @@ Dampfbremsen durch Aufbringen von Dichtungsbahnen und Beschichtungen herstellen
 Anbringen von Unterkonstruktionen (§ 5 Nr. 9)
 a)
 Aufgaben von Stütz- und Tragkonstruktionen erläutern
-�
-�
+
+
 2
 b)
 Stütz- und Tragkonstruktionen für den Anwendungszweck auswählen, herstellen und anbringen
@@ -569,8 +569,8 @@ Stütz- und Tragkonstruktionen für den Anwendungszweck auswählen, herstellen u
 Aufmessen, Aufreißen, Abwickeln, Zurichten und Montieren von Formstücken (§ 5 Nr. 10)
 a)
 Anlagenteile aufmessen, Isometrien aufnehmen und anfertigen
-�
-�
+
+
 25
 b)
 Maße für Formstücke an betriebstechnischen Anlagen und in der Haustechnik ermitteln
@@ -586,8 +586,8 @@ vorgefertigte Formstücke montieren
 Feststellen von Störungen an Maschinen und Geräten, Veranlassen von Reparaturen (§ 5 Nr. 11)
 a)
 Schutzeinrichtungen an Maschinen prüfen und anwenden
-�
-�
+
+
 2
 b)
 Störungen an Maschinen und Geräten feststellen, Reparaturen veranlassen

@@ -6,17 +6,17 @@ Ausfertigungsdatum: 08.06.2017
 
 Inhaltsübersicht
 
-�
-�
-�
-�
+
+
+
+
 
 § 1 - Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf des Klavier- und Cembalobauers und der Klavier- und Cembalobauerin wird staatlich anerkannt nach
 
 - 1. :: § 4 Absatz 1 des Berufsbildungsgesetzes und
-- 2. :: § 25 der Handwerksordnung zur Ausbildung für das Gewerbe nach Anlage B Abschnitt 1 Nummer 45 �Klavier- und Cembalobauer“ der Handwerksordnung.
+- 2. :: § 25 der Handwerksordnung zur Ausbildung für das Gewerbe nach Anlage B Abschnitt 1 Nummer 45 Klavier- und Cembalobauer“ der Handwerksordnung.
 
 
 § 2 - Dauer der Berufsausbildung
@@ -248,13 +248,13 @@ Die Abschlussprüfung oder Gesellenprüfung findet in den folgenden Prüfungsber
 
 (2) Die Abschlussprüfung oder Gesellenprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
-- 1. :: im Gesamtergebnis mit mindestens �ausreichend“,
-- 2. :: in mindestens vier Prüfungsbereichen mit mindestens �ausreichend“ und
-- 3. :: in keinem Prüfungsbereich mit �ungenügend“.
+- 1. :: im Gesamtergebnis mit mindestens ausreichend“,
+- 2. :: in mindestens vier Prüfungsbereichen mit mindestens ausreichend“ und
+- 3. :: in keinem Prüfungsbereich mit ungenügend“.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche �Planen und Konstruieren“ oder �Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche Planen und Konstruieren“ oder Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-- 1. :: der Prüfungsbereich schlechter als mit �ausreichend“ bewertet worden ist und
+- 1. :: der Prüfungsbereich schlechter als mit ausreichend“ bewertet worden ist und
 - 2. :: die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung oder der Gesellenprüfung den Ausschlag geben kann.
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
@@ -378,13 +378,13 @@ Die Abschlussprüfung oder Gesellenprüfung findet in den folgenden Prüfungsber
 
 (2) Die Abschlussprüfung oder Gesellenprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
-- 1. :: im Gesamtergebnis mit mindestens �ausreichend“,
-- 2. :: in mindestens vier Prüfungsbereichen mit mindestens �ausreichend“ und
-- 3. :: in keinem Prüfungsbereich mit �ungenügend“.
+- 1. :: im Gesamtergebnis mit mindestens ausreichend“,
+- 2. :: in mindestens vier Prüfungsbereichen mit mindestens ausreichend“ und
+- 3. :: in keinem Prüfungsbereich mit ungenügend“.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche �Planen und Konstruieren“ oder �Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche Planen und Konstruieren“ oder Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-- 1. :: der Prüfungsbereich schlechter als mit �ausreichend“ bewertet worden ist und
+- 1. :: der Prüfungsbereich schlechter als mit ausreichend“ bewertet worden ist und
 - 2. :: die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung oder Gesellenprüfung den Ausschlag geben kann.
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.

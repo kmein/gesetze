@@ -16,12 +16,12 @@ Diese Verordnung regelt die Einzelheiten der elektronischen Speicherung und Bere
 
 (1) Die in § 1 genannten Leiter der Beherbergungsstätten oder der Einrichtungen haben zu jeder beherbergten Person nach § 29 Absatz 2 des Bundesmeldegesetzes einen Datensatz vollständig am Tag der Ankunft zu speichern.
 (2) Die Daten sind als strukturierter maschinenlesbarer Datensatz im Dateiformat der Extensible Markup Language (XML) zu speichern. Die Daten sind im UNICODE-Zeichensatz UTF 8 zu codieren. Das Bundesministerium des Innern, für Bau und Heimat gibt die Struktur des XML-Dokumentes als XML-Schema-Definition (XSD) im Bundesanzeiger bekannt.
-(3) Die Datei ist nach dem Muster �JJJJMMTT_BeherbMeldeschein_Zaehler.xml“ zu benennen. Dabei ist einzusetzen:
+(3) Die Datei ist nach dem Muster JJJJMMTT_BeherbMeldeschein_Zaehler.xml“ zu benennen. Dabei ist einzusetzen:
 
-- 1. :: bei �JJJJ“ das Jahr des ersten Beherbergungstags mit vier Ziffern,
-- 2. :: bei �MM“ der Monat des ersten Beherbergungstags mit zwei Ziffern,
-- 3. :: bei �TT“ der Kalendertag des ersten Beherbergungstags mit zwei Ziffern und
-- 4. :: bei �Zaehler“ eine fortlaufende Nummerierung der Datensätze eines Tages beginnend mit der Zahl 1.
+- 1. :: bei JJJJ“ das Jahr des ersten Beherbergungstags mit vier Ziffern,
+- 2. :: bei MM“ der Monat des ersten Beherbergungstags mit zwei Ziffern,
+- 3. :: bei TT“ der Kalendertag des ersten Beherbergungstags mit zwei Ziffern und
+- 4. :: bei Zaehler“ eine fortlaufende Nummerierung der Datensätze eines Tages beginnend mit der Zahl 1.
 
 (4) Die Datensätze sind sortiert in Ordnerstrukturen nach Jahren und Monaten wie in Absatz 3 Nummer 1 und 2 bestimmt zu speichern.
 (5) In jedem Datensatz sind die zu erhebenden Daten nach der Anlage zu dieser Verordnung zu speichern.

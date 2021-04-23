@@ -229,7 +229,7 @@ Bedeutung und Nutzungsm√∂glichkeiten von Informations- und Kommunikationssysteme
 
 2 *)
 
-†
+
 
 b)
 
@@ -253,7 +253,7 @@ Arbeitsauftrag erfassen und Vorgaben auf Umsetzbarkeit pr√ºfen
 
 4 *)
 
-†
+
 
 b)
 
@@ -275,7 +275,7 @@ f)
 
 technische Ver√§nderungen feststellen und umsetzen
 
-†
+
 
 3 *)
 
@@ -305,7 +305,7 @@ Skizzen anfertigen und anwenden
 
 5 *)
 
-†
+
 
 b)
 
@@ -331,7 +331,7 @@ g)
 
 Leistungsverzeichnisse anwenden
 
-†
+
 
 4 *)
 
@@ -357,7 +357,7 @@ Arbeitsplatz einrichten, sichern, unterhalten und aufl√∂sen, ergonomische Gesich
 
 4 *)
 
-†
+
 
 b)
 
@@ -393,7 +393,7 @@ Werkzeuge, Ger√§te, Maschinen und technische Einrichtungen ausw√§hlen
 
 6
 
-†
+
 
 b)
 
@@ -411,7 +411,7 @@ e)
 
 Maschinenwerkzeuge einrichten und instand halten
 
-†
+
 
 2
 
@@ -433,7 +433,7 @@ Werk- und Hilfsstoffe ausw√§hlen, kennzeichnen, transportieren und lagern
 
 7
 
-†
+
 
 b)
 
@@ -465,7 +465,7 @@ Untergr√ºnde auf Belegreife pr√ºfen
 
 15
 
-†
+
 
 b)
 
@@ -499,7 +499,7 @@ i)
 
 Fehlstellen in Estrichen erg√§nzen
 
-†
+
 
 10
 
@@ -531,7 +531,7 @@ a)
 
 Gestaltungsmerkmale unterscheiden sowie Gestaltungstechniken ausw√§hlen und anwenden
 
-†
+
 
 4
 
@@ -557,7 +557,7 @@ Parkettb√∂den und andere Holzfu√üb√∂den nach Anforderungen ausw√§hlen
 
 20
 
-†
+
 
 b)
 
@@ -583,7 +583,7 @@ g)
 
 Sportbodenkonstruktion herstellen, Spielfeldmarkierung aufbringen
 
-†
+
 
 17
 
@@ -613,7 +613,7 @@ Bodenbel√§ge nach Anforderungen ausw√§hlen
 
 7
 
-†
+
 
 b)
 
@@ -631,7 +631,7 @@ e)
 
 Kunstharzbeschichtungen auftragen
 
-†
+
 
 7
 
@@ -665,7 +665,7 @@ Erstpflege bei Parkett und elastischen Bodenbel√§gen durchf√ºhren
 
 3
 
-†
+
 
 b)
 
@@ -675,7 +675,7 @@ c)
 
 Oberfl√§chen hinsichtlich der Bearbeitung und Nutzung beurteilen
 
-†
+
 
 15
 
@@ -709,13 +709,13 @@ Profile nach ihrer Funktion ausw√§hlen, einpassen und anbringen
 
 3
 
-†
+
 
 b)
 
 Sockelleisten und Treppenkantenprofile anfertigen und anbringen
 
-†
+
 
 3
 
@@ -727,7 +727,7 @@ a)
 
 Verschmutzungszustand und Sch√§den hinsichtlich ihrer Ursachen beurteilen und dokumentieren
 
-†
+
 
 6
 
@@ -755,7 +755,7 @@ a)
 
 Zustand von Parkett und anderen Holzfu√üb√∂den feststellen und dokumentieren
 
-†
+
 
 4
 
@@ -781,7 +781,7 @@ Aufgaben und Ziele von qualit√§tssichernden Ma√ünahmen anhand betrieblicher Beis
 
 2 *)
 
-†
+
 
 b)
 
@@ -795,7 +795,7 @@ d)
 
 Endkontrolle anhand des Arbeitsauftrages durchf√ºhren und Arbeitsergebnisse dokumentieren
 
-†
+
 
 3 *)
 

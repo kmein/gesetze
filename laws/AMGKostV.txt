@@ -66,17 +66,17 @@ Gebührenverzeichnis
 Die Gebühren für gebührenpflichtige individuell zurechenbare öffentliche Leistungen werden nach Maßgabe des folgenden Gebührenverzeichnisses festgelegt:
 Gebührennummer
 Gebührenpflichtige individuell zurechenbare öffentliche Leistung
-�
+
 Gebühr in Euro
 1
 Nationale Zulassung eines Arzneimittels
-�
+
 1.1
 Zulassung eines Arzneimittels/neuer Stoff
-�
+
 1.1.1
 Zulassung eines Arzneimittels/neuer Stoff/keine Bezugnahme
-�
+
 1.1.1.1
 mit Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 57 800
@@ -85,7 +85,7 @@ ohne Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 51 100
 1.1.2
 Zulassung eines Arzneimittels/neuer Stoff bei teilweiser Bezugnahme, soweit dadurch eine erhebliche Verringerung des Personal- und Sachaufwandes eintritt
-�
+
 1.1.2.1
 mit Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 40 400
@@ -94,7 +94,7 @@ ohne Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 33 700
 1.1.3
 Zulassung eines Arzneimittels/neuer Stoff/vollständige Bezugnahme
-�
+
 1.1.3.1
 mit Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 30 600
@@ -103,10 +103,10 @@ ohne Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 23 900
 1.2
 Zulassung eines Arzneimittels/bekannter Stoff
-�
+
 1.2.1
 Zulassung eines Arzneimittels/bekannter Stoff/keine Bezugnahme
-�
+
 1.2.1.1
 mit Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 28 200
@@ -115,7 +115,7 @@ ohne Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 21 500
 1.2.2
 Zulassung eines Arzneimittels/bekannter Stoff/bei teilweiser Bezugnahme, soweit dadurch eine erhebliche Verringerung des Personal- und Sachaufwandes eintritt
-�
+
 1.2.2.1
 mit Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 25 800
@@ -124,7 +124,7 @@ ohne Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 19 100
 1.2.3
 Zulassung eines Arzneimittels/bekannter Stoff/vollständige Bezugnahme
-�
+
 1.2.3.1
 mit Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 22 300
@@ -137,7 +137,7 @@ Zulassung einer Dublette sowie Zulassung mit Bezugnahme gemäß § 24a AMG
 2 200
 1.3
 Zulassung einer Serie oder einer gleichartigen Serie, zusätzlich zur Gebühr für die erste Zulassung, je Zulassung
-�
+
 1.3.1
 Zulassung einer Serie
 6 000
@@ -146,7 +146,7 @@ Zulassung einer gleichartigen Serie
 2 800
 1.4
 Zulassung eines parallelimportierten Arzneimittels, das nicht nach § 105 Absatz 1 AMG als zugelassen gilt
-�
+
 1.4.1
 mit einem Importland
 2 200
@@ -163,16 +163,16 @@ Zulassung eines Arzneimittels, auch Dublette, das der Zulassungspflicht nur unte
 4 500
 2
 Zulassung eines Arzneimittels im Verfahren der gegenseitigen Anerkennung (MRP)<<FnR.F788766_01>>[[#F788766_01][1]]}
-�
+
 2.1
 mit Deutschland als Referenzmitgliedstaat (RMS), zusätzlich zu den Gebühren gemäß den Gebührennummern 1.1 bis 1.3
-�
+
 2.1.1
 Zulassung eines Arzneimittels/neuer Stoff
-�
+
 2.1.1.1
 Zulassung eines Arzneimittels/neuer Stoff/keine Bezugnahme
-�
+
 2.1.1.1.1
 mit Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 56 100
@@ -181,7 +181,7 @@ ohne Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 47 400
 2.1.1.2
 Zulassung eines Arzneimittels/neuer Stoff/teilweise Bezugnahme
-�
+
 2.1.1.2.1
 mit Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 46 500
@@ -190,7 +190,7 @@ ohne Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 37 800
 2.1.1.3
 Zulassung eines Arzneimittels/neuer Stoff/vollständige Bezugnahme
-�
+
 2.1.1.3.1
 mit Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 34 200
@@ -199,10 +199,10 @@ ohne Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 25 500
 2.1.2
 Zulassung eines Arzneimittels/bekannter Stoff
-�
+
 2.1.2.1
 Zulassung eines Arzneimittels/bekannter Stoff/keine Bezugnahme
-�
+
 2.1.2.1.1
 mit Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 33 900
@@ -211,7 +211,7 @@ ohne Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 25 200
 2.1.2.2
 Zulassung eines Arzneimittels/bekannter Stoff/teilweise Bezugnahme
-�
+
 2.1.2.2.1
 mit Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 31 200
@@ -220,7 +220,7 @@ ohne Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 22 500
 2.1.2.3
 Zulassung eines Arzneimittels/bekannter Stoff/vollständige Bezugnahme
-�
+
 2.1.2.3.1
 mit Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 28 100
@@ -230,10 +230,10 @@ ohne Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 2.1.3
 Zulassung eines Arzneimittels im Repeat Use Verfahren\\
 (weiteres MRP nach Abschluss eines MRP nach Gebührennummer 2.1 für zusätzliche EU-Mitgliedstaaten)
-�
+
 2.1.3.1
 mit neuem Stoff
-�
+
 2.1.3.1.1
 mit Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 27 600
@@ -242,7 +242,7 @@ ohne Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 18 900
 2.1.3.2
 mit bekanntem Stoff
-�
+
 2.1.3.2.1
 mit Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 23 100
@@ -251,7 +251,7 @@ ohne Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 14 400
 2.1.4
 Zulassung einer Serie oder einer gleichartigen Serie, zusätzlich zur Gebühr für die erste Zulassung, je Zulassung
-�
+
 2.1.4.1
 Zulassung einer Serie
 9 700
@@ -260,13 +260,13 @@ Zulassung einer gleichartigen Serie
 4 800
 2.2
 mit Deutschland als betroffenem Mitgliedstaat (CMS)
-�
+
 2.2.1
 Zulassung eines Arzneimittels/neuer Stoff
-�
+
 2.2.1.1
 Zulassung eines Arzneimittels/neuer Stoff/keine oder teilweise Bezugnahme
-�
+
 2.2.1.1.1
 mit Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 21 400
@@ -275,7 +275,7 @@ ohne Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 17 100
 2.2.1.2
 Zulassung eines Arzneimittels/neuer Stoff/vollständige Bezugnahme
-�
+
 2.2.1.2.1
 mit Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 19 000
@@ -284,10 +284,10 @@ ohne Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 14 700
 2.2.2
 Zulassung eines Arzneimittels/bekannter Stoff
-�
+
 2.2.2.1
 Zulassung eines Arzneimittels/bekannter Stoff/keine oder teilweise Bezugnahme
-�
+
 2.2.2.1.1
 mit Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 18 100
@@ -296,7 +296,7 @@ ohne Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 13 800
 2.2.2.2
 Zulassung eines Arzneimittels/bekannter Stoff/vollständige Bezugnahme
-�
+
 2.2.2.2.1
 mit Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 15 900
@@ -306,7 +306,7 @@ ohne Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 2.2.3
 Zulassung einer Serie oder einer gleichartigen Serie, zusätzlich zur Gebühr\\
 für die erste Zulassung, je Zulassung
-�
+
 2.2.3.1
 Zulassung einer Serie
 5 700
@@ -315,16 +315,16 @@ Zulassung einer gleichartigen Serie
 3 400
 3
 Zulassung eines Arzneimittels im dezentralisierten Verfahren gemäß § 25b Absatz 3 AMG
-�
+
 3.1
 mit Deutschland als Referenzmitgliedstaat (RMS)
-�
+
 3.1.1
 Zulassung eines Arzneimittels/neuer Stoff
-�
+
 3.1.1.1
 Zulassung eines Arzneimittels/neuer Stoff/keine Bezugnahme
-�
+
 3.1.1.1.1
 mit Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 98 000
@@ -333,7 +333,7 @@ ohne Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 89 300
 3.1.1.2
 Zulassung eines Arzneimittels/neuer Stoff/teilweise Bezugnahme
-�
+
 3.1.1.2.1
 mit Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 73 800
@@ -342,7 +342,7 @@ ohne Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 65 100
 3.1.1.3
 Zulassung eines Arzneimittels/neuer Stoff/vollständige Bezugnahme
-�
+
 3.1.1.3.1
 mit Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 53 600
@@ -351,10 +351,10 @@ ohne Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 44 900
 3.1.2
 Zulassung eines Arzneimittels/bekannter Stoff
-�
+
 3.1.2.1
 Zulassung eines Arzneimittels/bekannter Stoff/keine Bezugnahme
-�
+
 3.1.2.1.1
 mit Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 51 200
@@ -363,7 +363,7 @@ ohne Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 42 500
 3.1.2.2
 Zulassung eines Arzneimittels/bekannter Stoff/teilweise Bezugnahme
-�
+
 3.1.2.2.1
 mit Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 46 600
@@ -372,7 +372,7 @@ ohne Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 37 900
 3.1.2.3
 Zulassung eines Arzneimittels/bekannter Stoff/vollständige Bezugnahme
-�
+
 3.1.2.3.1
 mit Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 40 500
@@ -381,7 +381,7 @@ ohne Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 31 800
 3.1.3
 Zulassung einer Serie oder einer gleichartigen Serie, zusätzlich zur Gebühr für die erste Zulassung, je Zulassung
-�
+
 3.1.3.1
 Zulassung einer Serie
 14 400
@@ -390,13 +390,13 @@ Zulassung einer gleichartigen Serie
 7 000
 3.2
 mit Deutschland als betroffenem Mitgliedstaat (CMS)
-�
+
 3.2.1
 Zulassung eines Arzneimittels/neuer Stoff
-�
+
 3.2.1.1
 Zulassung eines Arzneimittels/neuer Stoff/keine oder teilweise Bezugnahme
-�
+
 3.2.1.1.1
 mit Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 24 100
@@ -405,7 +405,7 @@ ohne Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 19 500
 3.2.1.2
 Zulassung eines Arzneimittels/neuer Stoff/vollständige Bezugnahme
-�
+
 3.2.1.2.1
 mit Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 20 700
@@ -414,10 +414,10 @@ ohne Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 16 100
 3.2.2
 Zulassung eines Arzneimittels/bekannter Stoff
-�
+
 3.2.2.1
 Zulassung eines Arzneimittels/bekannter Stoff/keine oder teilweise Bezugnahme
-�
+
 3.2.2.1.1
 mit Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 20 500
@@ -426,7 +426,7 @@ ohne Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 15 900
 3.2.2.2
 Zulassung eines Arzneimittels/bekannter Stoff/vollständige Bezugnahme
-�
+
 3.2.2.2.1
 mit Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 18 500
@@ -435,7 +435,7 @@ ohne Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 13 900
 3.2.3
 Zulassung einer Serie oder einer gleichartigen Serie, zusätzlich zur Gebühr für die erste Zulassung, je Zulassung
-�
+
 3.2.3.1
 Zulassung einer Serie
 5 500
@@ -444,10 +444,10 @@ Zulassung einer gleichartigen Serie
 3 100
 4
 Erstellung oder Aktualisierung eines Beurteilungsberichtes gemäß § 25 Absatz 5a AMG, soweit nicht bereits von den Gebührennummern 2 oder 3 erfasst
-�
+
 4.1
 Erstellung eines Beurteilungsberichtes
-�
+
 4.1.1
 zu einem Arzneimittel mit neuem Stoff
 22 400
@@ -456,7 +456,7 @@ zu einem Arzneimittel mit bekanntem Stoff
 14 000
 4.2
 Aktualisierung eines Beurteilungsberichtes
-�
+
 4.2.1
 zu einem Arzneimittel mit neuem Stoff
 8 700
@@ -470,10 +470,10 @@ Erstellung oder Aktualisierung eines Beurteilungsberichtes zu einer Serie oder e
 4 500
 5
 Verlängerung von Zulassungen nach § 105 Absatz 3 AMG
-�
+
 5.1
 chemisch definiertes Arzneimittel
-�
+
 5.1.1
 Grundgebühr
 12 600
@@ -483,7 +483,7 @@ Serie oder gleichartige Serie, zusätzlich zur Gebühr der ersten Zulassung, je 
 2 700
 5.2
 phytotherapeutisches Arzneimittel
-�
+
 5.2.1
 Grundgebühr
 9 600
@@ -493,7 +493,7 @@ Serie oder gleichartige Serie, zusätzlich zur Gebühr der ersten Zulassung, je 
 2 700
 5.3
 homöopathisches oder anthroposophisches Arzneimittel mit Kommissionsbeteiligung nach § 25 Absatz 7 AMG
-�
+
 5.3.1
 Grundgebühr
 7 700
@@ -503,7 +503,7 @@ Serie oder gleichartige Serie, zusätzlich zur Gebühr der ersten Zulassung, je 
 6 100
 5.4
 homöopathisches oder anthroposophisches Arzneimittel ohne Kommissionsbeteiligung nach § 25 Absatz 7 AMG
-�
+
 5.4.1
 Grundgebühr
 6 900
@@ -513,7 +513,7 @@ Serie oder gleichartige Serie, zusätzlich zur Gebühr der ersten Zulassung, je 
 5 400
 5.5
 Arzneimittel nach § 109a AMG
-�
+
 5.5.1
 Grundgebühr
 5 700
@@ -523,13 +523,13 @@ Serie oder gleichartige Serie, zusätzlich zur Gebühr der ersten Zulassung, je 
 1 600
 6
 Verlängerung einer Zulassung nach § 31 Absatz 3 AMG
-�
+
 6.1
 Arzneimittel mit neuem oder bekanntem Stoff
-�
+
 6.1.1
 Grundgebühr
-�
+
 6.1.1.1
 mit Bewertung möglicher Umweltrisiken durch das Umweltbundesamt\\
 (nur bei Arzneimitteln, die zur Anwendung bei Tieren bestimmt sind)
@@ -544,7 +544,7 @@ Serie oder gleichartige Serie, zusätzlich zur Gebühr für die erste Verlänger
 3 100
 6.2
 Verlängerung vollständig auf der Grundlage eines von der zuständigen Bundesoberbehörde bekannt gemachten Musters
-�
+
 6.2.1
 Grundgebühr
 2 300
@@ -554,7 +554,7 @@ Serie oder gleichartige Serie, zusätzlich zur Gebühr für die erste Verlänger
 1 500
 6.3
 Verlängerung eines parallelimportierten Arzneimittels
-�
+
 6.3.1
 Grundgebühr
 2 100
@@ -563,13 +563,13 @@ mit Wechsel der Bezugszulassung im Rahmen des Verlängerungsverfahrens
 2 600
 7
 Verlängerung einer Zulassung im Verfahren der gegenseitigen Anerkennung (MRP)<<FnR.F788766_02>>[[#F788766_02][2]]} oder im dezentralisierten Verfahren (DCP)
-�
+
 7.1
 mit Deutschland als Referenzmitgliedstaat (RMS)
-�
+
 7.1.1
 Arzneimittel mit neuem oder bekanntem Stoff, Grundgebühr
-�
+
 7.1.1.1
 mit Bewertung möglicher Umweltrisiken durch das Umweltbundesamt\\
 (nur bei Arzneimitteln, die zur Anwendung bei Tieren bestimmt sind)
@@ -584,10 +584,10 @@ Serie oder gleichartige Serie, zusätzlich zur Gebühr für die erste Verlänger
 4 200
 7.2
 mit Deutschland als betroffenem Mitgliedstaat (CMS)
-�
+
 7.2.1
 Arzneimittel mit neuem oder bekanntem Stoff, Grundgebühr
-�
+
 7.2.1.1
 mit Bewertung möglicher Umweltrisiken durch das Umweltbundesamt\\
 (nur bei Arzneimitteln, die zur Anwendung bei Tieren bestimmt sind)
@@ -602,7 +602,7 @@ Serie oder gleichartige Serie, zusätzlich zur Gebühr für die erste Verlänger
 2 000
 8
 Prüfung von Anzeigen nach § 29 AMG und Entscheidung über die Zustimmung zu Anzeigen nach § 29 AMG
-�
+
 8.1
 Änderungen nach § 29 Absatz 2a Nummer 1 bis 4 AMG mit Ausnahme der in Gebührennummer 8.11 genannten Änderungen
 \\
@@ -655,10 +655,10 @@ Anzeigen nach § 29 Absatz 1e AMG
 100
 8.11
 Zustimmungspflichtige Änderungen nach § 29 Absatz 2a Nummer 1 und Nummer 6 AMG
-�
+
 8.11.1
 Änderungen nach § 29 Absatz 2a Nummer 1 AMG, wenn es sich um die Zufügung einer oder Veränderung in eine Indikation in demselben Therapiegebiet handelt sowie Änderungen nach § 29 Absatz 2a Nummer 6 AMG
-�
+
 8.11.1.1
 mit Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 8 500
@@ -675,8 +675,8 @@ ohne Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 \\
 430
 8.13
-Änderungen gemä�P“-Verfahren)
-�
+Änderungen gemäP“-Verfahren)
+
 8.13.1
 mit Deutschland als Referenzmitgliedstaat (RMS)
 560
@@ -691,16 +691,16 @@ Gebühr nach den Gebührennummern 8.1\\
 bis 8.6, 8.11 und 8.12
 8.15
 Erfolgt die Änderung in Anpassung der Packungsbeilage an Ergebnisse der Konsultation mit Patienten-Zielgruppen nach § 22 Absatz 7 Satz 2 AMG, kann die Gebühr um 25 Prozent ermäßigt werden.
-�
+
 9
 Prüfung von Änderungen und Entscheidung über die Zustimmung zu Änderungen gemäß der Verordnung (EG) Nr. 1234/2008 der Kommission vom 24. November 2008 über die Prüfung von Änderungen der Zulassungen von Human- und Tierarzneimitteln (ABl. L 334 vom 12.12.2008, S. 7), die durch die Verordnung (EU) Nr. 712/2012 (ABl. L 209 vom 4.8.2012, S. 4) geändert worden ist
-�
+
 9.1
 mit Deutschland als Referenzmitgliedstaat (RMS) oder Referenzbehörde gemäß Artikel 7 oder Artikel 20 der Verordnung (EG) Nr. 1234/2008
-�
+
 9.1.1
 Typ I A
-�
+
 9.1.1.1
 bei Einzeleinreichung\\
 Änderung je Zulassung pro Mitteilung/Antrag
@@ -708,7 +708,7 @@ bei Einzeleinreichung\\
 370
 9.1.1.2
 bei Zusammenfassung von Änderungen gemäß Artikel 7 Absatz 2 der Verordnung (EG) Nr. 1234/2008
-�
+
 9.1.1.2.1
 für die erste Änderung pro Mitteilung
 370
@@ -729,10 +729,10 @@ Serie, gleichartige Serie oder jede weitere betroffene Zulassung pro Mitteilung,
 140
 9.1.2
 Typ I B
-�
+
 9.1.2.1
 jeweils für die erste Änderung pro Mitteilung
-�
+
 9.1.2.1.1
 mit Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 6 100
@@ -741,7 +741,7 @@ ohne Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 1 800
 9.1.2.2
 für jede weitere Änderung gemäß Artikel 7 Absatz 2 der Verordnung (EG) Nr. 1234/2008
-�
+
 9.1.2.2.1
 mit Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 5 700
@@ -755,7 +755,7 @@ je Änderung
 900
 9.1.3
 Typ II/einfache Änderungen oder Änderungen nach Artikel 20 Absatz 1 der Verordnung (EG) Nr. 1234/2008
-�
+
 9.1.3.1
 jeweils für die erste Änderung pro Antrag
 4 300
@@ -769,10 +769,10 @@ Serie, gleichartige Serie oder jede weitere betroffene Zulassung pro Mitteilung,
 1 900
 9.1.4
 Typ II/komplexe Änderungen oder Änderungen nach Artikel 20 Absatz 1 der Verordnung (EG) Nr. 1234/2008
-�
+
 9.1.4.1
 jeweils für die erste Änderung pro Antrag
-�
+
 9.1.4.1.1
 mit Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 15 600
@@ -781,7 +781,7 @@ ohne Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 7 500
 9.1.4.2
 für jede weitere Änderung gemäß Artikel 7 Absatz 2 der Verordnung (EG) Nr. 1234/2008
-�
+
 9.1.4.2.1
 mit Bewertung möglicher Risiken durch das Umweltbundesamt
 10 300
@@ -794,13 +794,13 @@ Serie, gleichartige Serie oder jede weitere betroffene Zulassung pro Mitteilung,
 2 900
 9.1.5
 Die Gebühr für Änderungen, die nach Artikel 7 Absatz 2 der Verordnung (EG) Nr. 1234/2008 eingereicht werden oder im Verfahren nach Artikel 20 der Verordnung (EG) Nr. 1234/2008 bearbeitet werden, darf je Zusammenfassung von Änderungen bzw. je Verfahren nach Artikel 20 der Verordnung (EG) Nr. 1234/2008 insgesamt die Gebühr nach Gebührennummer 2.1.2.3.2 nicht überschreiten.
-�
+
 9.2
 mit Deutschland als betroffenem Mitgliedstaat (CMS) oder als betroffener Mitgliedstaat nach Artikel 7 oder Artikel 20 der Verordnung (EG) Nr. 1234/2008
-�
+
 9.2.1
 Typ I A
-�
+
 9.2.1.1
 bei Einzeleinreichung\\
 Änderung, je Zulassung pro Mitteilung/Antrag
@@ -808,7 +808,7 @@ bei Einzeleinreichung\\
 190
 9.2.1.2
 bei Zusammenfassung von Änderungen gemäß Artikel 7 Absatz 2 der Verordnung (EG) Nr. 1234/2008
-�
+
 9.2.1.2.1
 für die erste Änderung, pro Mitteilung
 190
@@ -829,10 +829,10 @@ Serie, gleichartige Serie oder jede weitere betroffene Zulassung pro Mitteilung,
 140
 9.2.2
 Typ I B
-�
+
 9.2.2.1
 jeweils für die erste Änderung pro Mitteilung
-�
+
 9.2.2.1.1
 mit Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 4 700
@@ -841,7 +841,7 @@ ohne Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 400
 9.2.2.2
 für jede weitere Änderung gemäß Artikel 7 Absatz 2 der Verordnung (EG) Nr. 1234/2008
-�
+
 9.2.2.2.1
 mit Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 4 620
@@ -854,7 +854,7 @@ Serie, gleichartige Serie oder jede weitere betroffene Zulassung, pro Mitteilung
 220
 9.2.3
 Typ II/einfache Änderungen oder Deutschland als betroffener Mitgliedstaat (CMS) im Verfahren nach Artikel 20 der Verordnung (EG) Nr. 1234/2008
-�
+
 9.2.3.1
 jeweils für die erste Änderung pro Antrag
 1 700
@@ -868,10 +868,10 @@ Serie, gleichartige Serie oder jede weitere betroffene Zulassung, pro Mitteilung
 1 100
 9.2.4
 Typ II/komplexe Änderungen oder Deutschland als betroffener Mitgliedstaat (CMS) im Verfahren nach Artikel 20 der Verordnung (EG) Nr. 1234/2008
-�
+
 9.2.4.1
 jeweils für die erste Änderung pro Antrag
-�
+
 9.2.4.1.1
 mit Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 7 800
@@ -880,7 +880,7 @@ ohne Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 2 800
 9.2.4.2
 für jede weitere Änderung nach Artikel 7 Absatz 2 der Verordnung (EG) Nr. 1234/2008
-�
+
 9.2.4.2.1
 mit Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 6 500
@@ -894,13 +894,13 @@ Serie, gleichartige Serie oder jede weitere betroffene Zulassung im Verfahren na
 1 500
 9.2.5
 Die Gebühr für Änderungen, die nach Artikel 7 Absatz 2 der Verordnung (EG) Nr. 1234/2008 eingereicht werden oder im Verfahren nach Artikel 20 der Verordnung (EG) Nr. 1234/2008 bearbeitet werden, darf je Zusammenfassung von Änderungen bzw. je Verfahren nach Artikel 20 der Verordnung (EG) Nr. 1234/2008 insgesamt die Gebühr nach Gebührennummer 2.2.2.2.2 nicht überschreiten.
-�
+
 9.3
 Änderungen rein nationaler Zulassungen
-�
+
 9.3.1
 Typ IA
-�
+
 9.3.1.1
 bei Einzeleinreichung\\
 Änderung, je Zulassung pro Mitteilung/Antrag
@@ -908,7 +908,7 @@ bei Einzeleinreichung\\
 250
 9.3.1.2
 bei Zusammenfassung von Änderungen gemäß Artikel 13d Absatz 2 der Verordnung (EG) Nr. 1234/2008
-�
+
 9.3.1.2.1
 für die erste Änderung, pro Mitteilung
 250
@@ -929,10 +929,10 @@ Serie, gleichartige Serie oder jede weitere betroffene Zulassung pro Mitteilung,
 140
 9.3.2
 Typ IB
-�
+
 9.3.2.1
 jeweils für die erste Änderung pro Mitteilung
-�
+
 9.3.2.1.1
 mit Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 5 060
@@ -941,7 +941,7 @@ ohne Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 760
 9.3.2.2
 für jede weitere Änderung gemäß Artikel 13d Absatz 2 der Verordnung (EG) Nr. 1234/2008
-�
+
 9.3.2.2.1
 mit Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 4 860
@@ -954,7 +954,7 @@ Serie, gleichartige Serie oder jede weitere betroffene Zulassung, pro Mitteilung
 360
 9.3.3
 Typ II/einfache Änderungen oder Änderungen nach Artikel 20 Absatz 1 der Verordnung (EG) Nr. 1234/2008
-�
+
 9.3.3.1
 jeweils für die erste Änderung pro Antrag
 1 600
@@ -968,10 +968,10 @@ Serie, gleichartige Serie oder jede weitere betroffene Zulassung, pro Mitteilung
 810
 9.3.4
 Typ II/komplexe Änderungen oder Änderungen nach Artikel 20 Absatz 1 der Verordnung (EG) Nr. 1234/2008
-�
+
 9.3.4.1
 jeweils für die erste Änderung pro Antrag
-�
+
 9.3.4.1.1
 mit Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 8 750
@@ -980,7 +980,7 @@ ohne Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 3 750
 9.3.4.2
 für jede weitere Änderung gemäß Artikel 13d Absatz 2 der Verordnung (EG) Nr. 1234/2008
-�
+
 9.3.4.2.1
 mit Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 7 300
@@ -993,13 +993,13 @@ Serie, gleichartige Serie oder jede weitere betroffene Zulassung, pro Mitteilung
 1 900
 9.3.5
 Die Gebühr für Änderungen, die nach Artikel 13d Absatz 2 der Verordnung (EG) Nr. 1234/2008 eingereicht werden oder im Verfahren nach Artikel 20 der Verordnung (EG) Nr. 1234/2008 bearbeitet werden, darf je Zusammenfassung von Änderungen bzw. je Verfahren nach Artikel 20 der Verordnung (EG) Nr. 1234/2008 insgesamt die Gebühr nach Gebührennummer 1.2.3.2 nicht überschreiten.
-�
+
 10
 Registrierung homöopathischer Arzneimittel
-�
+
 10.1
 Nationales Registrierungsverfahren
-�
+
 10.1.1
 Registrierung/Grundgebühr
 6 400
@@ -1016,10 +1016,10 @@ Registrierung eines parallel importierten Arzneimittels
 1 600
 10.2
 Registrierung eines Arzneimittels im Verfahren der gegenseitigen Anerkennung (MRP)
-�
+
 10.2.1
 mit Deutschland als Referenzmitgliedstaat (RMS), zusätzlich zu den Gebühren gemäß Gebührennummern 10.1.1 bis 10.1.4
-�
+
 10.2.1.1
 Registrierung/Grundgebühr
 11 800
@@ -1034,7 +1034,7 @@ Registrierung einer gleichartigen Serie, zusätzlich zur Gebühr für die erste 
 2 900
 10.2.2
 mit Deutschland als betroffenem Mitgliedstaat (CMS)
-�
+
 10.2.2.1
 Registrierung/Grundgebühr
 7 100
@@ -1049,10 +1049,10 @@ Registrierung einer gleichartigen Serie, zusätzlich zur Gebühr für die erste 
 2 100
 10.3
 Registrierung eines Arzneimittels im dezentralisierten Verfahren (DCP)
-�
+
 10.3.1
 mit Deutschland als Referenzmitgliedstaat (RMS)
-�
+
 10.3.1.1
 Registrierung/Grundgebühr
 18 200
@@ -1067,7 +1067,7 @@ Registrierung einer gleichartigen Serie, zusätzlich zur Gebühr für die erste 
 4 500
 10.3.2
 mit Deutschland als betroffenem Mitgliedstaat (CMS)
-�
+
 10.3.2.1
 Registrierung/Grundgebühr
 10 200
@@ -1082,7 +1082,7 @@ Registrierung einer gleichartigen Serie, zusätzlich zur Gebühr für die erste 
 2 200
 10.4
 Verlängerung einer Registrierung nach § 39 Absatz 2c AMG
-�
+
 10.4.1
 Verlängerung einer Registrierung/Grundgebühr
 2 700
@@ -1092,10 +1092,10 @@ Serie oder gleichartige Serie, zusätzlich zur Gebühr für die erste Verlänger
 1 400
 10.5
 Verlängerung einer Registrierung im Verfahren der gegenseitigen Anerkennung (MRP) oder im dezentralisierten Verfahren (DCP)
-�
+
 10.5.1
 mit Deutschland als Referenzmitgliedstaat (RMS)
-�
+
 10.5.1.1
 Verlängerung einer Registrierung/Grundgebühr
 3 300
@@ -1105,7 +1105,7 @@ Serie oder gleichartige Serie, zusätzlich zur Gebühr für die erste Verlänger
 1 700
 10.5.2
 mit Deutschland als betroffenem Mitgliedstaat (CMS)
-�
+
 10.5.2.1
 Verlängerung einer Registrierung/Grundgebühr
 1 500
@@ -1115,7 +1115,7 @@ Serie oder gleichartige Serie, zusätzlich zur Gebühr für die erste Verlänger
 800
 10.6
 Prüfung von Änderungen einer Registrierung nach § 39 Absatz 2b AMG und Entscheidung über die Zustimmung zu Änderungen einer Registrierung nach § 39 Absatz 2b AMG
-�
+
 10.6.1
 Änderungen nach § 39 Absatz 2b AMG in Verbindung mit § 29 Absatz 2a Nummer 1 bis 4 AMG
 \\
@@ -1176,16 +1176,16 @@ Gestattung einer Ausnahme gemäß § 39 Absatz 2c Satz 2 AMG in Verbindung mit �
 200
 10.9
 Die nach den Gebührennummern 10.1.1 bis 10.1.4, 10.2.1 bis 10.3.2.3 sowie 10.4.1 bis 10.5.2.2 des Gebührenverzeichnisses zu erhebenden Grundgebühren erhöhen sich bei homöopathischen Arzneimitteln mit mehr als einem Wirkstoff um 10 Prozent der Grundgebühr für jeden arzneilich wirksamen Bestandteil, höchstens jedoch auf das Doppelte der Grundgebühr.
-�
+
 11
 Registrierung traditioneller pflanzlicher Arzneimittel gemäß §§ 39a ff. AMG
-�
+
 11.1
 nationales Registrierungsverfahren
-�
+
 11.1.1
 Verfahren ohne Listen/Monographien
-�
+
 11.1.1.1
 Registrierung/Grundgebühr
 15 600
@@ -1200,7 +1200,7 @@ Registrierung einer gleichartigen Serie, zusätzlich zur Gebühr für die erste 
 2 800
 11.1.2
 Verfahren mit Listen/Monographien
-�
+
 11.1.2.1
 Registrierung/Grundgebühr
 9 900
@@ -1218,10 +1218,10 @@ Registrierung eines parallel importierten Arzneimittels
 2 200
 11.2
 Registrierung eines Arzneimittels im Verfahren der gegenseitigen Anerkennung
-�
+
 11.2.1
 mit Deutschland als Referenzmitgliedstaat (RMS), zusätzlich zu den Gebühren gemäß Gebührennummer 11.1.2
-�
+
 11.2.1.1
 Registrierung/Grundgebühr
 19 400
@@ -1236,7 +1236,7 @@ Registrierung einer gleichartigen Serie, zusätzlich zur Gebühr für die erste 
 4 800
 11.2.2
 mit Deutschland als betroffenem Mitgliedstaat (CMS)
-�
+
 11.2.2.1
 Registrierung/Grundgebühr
 11 600
@@ -1251,10 +1251,10 @@ Registrierung einer gleichartigen Serie, zusätzlich zur Gebühr für die erste 
 3 400
 11.3
 Registrierung eines Arzneimittels im dezentralisierten Verfahren
-�
+
 11.3.1
 mit Deutschland als Referenzmitgliedstaat (RMS)
-�
+
 11.3.1.1
 Registrierung/Grundgebühr
 31 800
@@ -1269,7 +1269,7 @@ Registrierung einer gleichartigen Serie, zusätzlich zur Gebühr für die erste 
 7 000
 11.3.2
 mit Deutschland als betroffenem Mitgliedstaat (CMS)
-�
+
 11.3.2.1
 Registrierung/Grundgebühr
 13 900
@@ -1294,7 +1294,7 @@ Registrierung im Falle der Durchführung eines Verfahrens nach § 39d Absatz 4 A
 6 000 bis 25 000
 11.6
 Verlängerung einer Registrierung nach § 39c Absatz 3 in Verbindung mit § 31 Absatz 3 AMG
-�
+
 11.6.1
 Verlängerung einer Registrierung/Grundgebühr
 6 200
@@ -1304,10 +1304,10 @@ Serie oder gleichartige Serie, zusätzlich zur Gebühr für die erste Verlänger
 3 100
 11.7
 Verlängerung einer Registrierung im Verfahren der gegenseitigen Anerkennung (MRP) oder im dezentralisierten Verfahren (DCP)
-�
+
 11.7.1
 mit Deutschland als Referenzmitgliedstaat (RMS)
-�
+
 11.7.1.1
 Verlängerung einer Registrierung/Grundgebühr
 7 600
@@ -1317,7 +1317,7 @@ Serie oder gleichartige Serie, zusätzlich zur Gebühr für die erste Verlänger
 3 700
 11.7.2
 mit Deutschland als betroffenem Mitgliedstaat (CMS)
-�
+
 11.7.2.1
 Verlängerung einer Registrierung/Grundgebühr
 3 400
@@ -1327,7 +1327,7 @@ Serie oder gleichartige Serie, zusätzlich zur Gebühr für die erste Verlänger
 1 700
 11.8
 Prüfung von Änderungen einer Registrierung nach § 39d Absatz 7 AMG und Entscheidung über die Zustimmung zu Änderungen einer Registrierung nach § 39d Absatz 7 AMG
-�
+
 11.8.1
 Änderungen nach § 39d Absatz 7 AMG in Verbindung mit § 29 Absatz 2a Nummer 1 bis 4 AMG
 \\
@@ -1370,8 +1370,8 @@ Anzeigen nach § 39d Absatz 7 AMG in Verbindung mit § 29 Absatz 1e AMG
 \\
 2 400
 11.8.10
-Änderungen gemä�P“-Verfahren)
-�
+Änderungen gemäP“-Verfahren)
+
 11.8.10.1
 mit Deutschland als Referenzmitgliedstaat (RMS)
 560
@@ -1390,7 +1390,7 @@ den Gebührennummern 11.8.1\\
 bis 11.8.5 und 11.8.8 bis 11.8.9
 11.8.13
 Erfolgt die Änderung in Anpassung der Packungsbeilage an Ergebnisse der Konsultation mit Patienten-Zielgruppen nach § 22 Absatz 7 Satz 2 AMG, kann die Gebühr um 25 Prozent ermäßigt werden.
-�
+
 11.9
 Anordnung des befristeten Ruhens der Registrierung nach § 39d Absatz 8 AMG in Verbindung mit § 30 Absatz 1 Satz 2 und Absatz 2 Satz 2 AMG, sofern die Anordnung nicht auf einem Antrag des pharmazeutischen Unternehmers beruht, je nach Personal- und Sachaufwand
 \\
@@ -1408,13 +1408,13 @@ je nach Personal- und Sachaufwand
 5 000 bis 25 000
 13
 Individuell zurechenbare öffentliche Leistungen im Rahmen klinischer Prüfungen
-�
+
 13.1
 Genehmigungserteilung nach § 40 Absatz 1 Satz 2 AMG, § 42 Absatz 2 AMG
-�
+
 13.1.1
 erstmalige Vorlage eines Prüfplans zu einem Prüfpräparat in Phase I, II oder III
-�
+
 13.1.1.1
 Grundgebühr
 3 800
@@ -1425,13 +1425,13 @@ bei Einreichung eines integrierten Studienprotokolls mit zusätzlichen Teilstudi
 900
 13.1.2
 Nachfolgestudie eines nach Gebührennummer 13.1.1 bewerteten Prüfpräparats in Phase I, II oder III
-�
+
 13.1.2.1
 Nachfolgestudie ohne Neubewertung von Unterlagen
 1 500
 13.1.2.2
 Nachfolgestudie mit Neubewertung von Unterlagen in Phase I
-�
+
 13.1.2.2.1
 Grundgebühr
 1 900
@@ -1442,7 +1442,7 @@ bei Einreichung eines integrierten Studienprotokolls mit zusätzlichen Teilstudi
 800
 13.1.2.3
 Nachfolgestudie mit Neubewertung von Unterlagen in Phase II oder III
-�
+
 13.1.2.3.1
 Grundgebühr
 2 100
@@ -1453,7 +1453,7 @@ bei Einreichung eines integrierten Studienprotokolls mit zusätzlichen Teilstudi
 900
 13.1.3
 Genehmigung einer klinischen Prüfung mit einem Prüfpräparat, das zum Zeitpunkt der Antragstellung eine Marktzulassung in einem EU-Mitgliedstaat hat; die Anwendung des Prüfpräparates erfolgt innerhalb oder außerhalb der zugelassenen und in der Fachinformation ausgewiesenen Anwendungsbedingungen
-�
+
 13.1.3.1
 Grundgebühr
 1 700
@@ -1477,10 +1477,10 @@ Genehmigung von klinischen Prüfungen mit Arzneimitteln, die aus einem gentechni
 9 500
 13.1.7
 Genehmigung von Änderungen nach Beginn einer klinischen Prüfung nach § 42 Absatz 3 AMG in Verbindung mit § 10 GCP-V
-�
+
 13.1.7.1
 genehmigungspflichtige Änderungen, die eine wissenschaftliche Bearbeitung erfordern
-�
+
 13.1.7.1.1
 Grundgebühr
 1 100
@@ -1494,7 +1494,7 @@ sonstige Änderungen
 730
 13.2
 Bewertung von Jahresberichten zur Sicherheit der Prüfungsteilnehmer nach § 42 Absatz 3 AMG in Verbindung mit § 13 Absatz 6 GCP-V
-�
+
 13.2.1
 Jahresberichte zu monozentrischen klinischen Prüfungen
 500
@@ -1518,10 +1518,10 @@ Prüfung, Abgleich und Übermittlung der für die EudraCT-Datenbank bestimmten A
 250
 14
 Bewertung von Berichten nach § 63d und § 63h Absatz 5 AMG und Überprüfungen nach § 62 Absatz 6, § 63c Absatz 4 AMG in Verbindung mit § 62 Absatz 6 AMG und § 63h Absatz 6 AMG in Verbindung mit § 62 Absatz 6 AMG
-�
+
 14.1
 Berichtsbewertung im nationalen Verfahren
-�
+
 14.1.1
 innerhalb von zehn Jahren nach erstmaliger Zulassung des Arzneistoffes in Deutschland
 \\
@@ -1532,10 +1532,10 @@ später als zehn Jahre nach erstmaliger Zulassung des Arzneistoffes in Deutschla
 700
 14.2
 Berichtsbewertung im Verfahren der gegenseitigen Anerkennung (MRP) oder im dezentralisierten Verfahren gemäß § 25b Absatz 3 AMG
-�
+
 14.2.1
 mit Deutschland als Referenzmitgliedstaat (RMS)
-�
+
 14.2.1.1
 innerhalb von zehn Jahren nach erstmaliger Zulassung des Arzneistoffes in Deutschland
 \\
@@ -1546,7 +1546,7 @@ später als zehn Jahre nach erstmaliger Zulassung des Arzneistoffes in Deutschla
 1 400
 14.2.2
 mit Deutschland als betroffenem Mitgliedstaat (CMS)
-�
+
 14.2.2.1
 innerhalb von zehn Jahren nach erstmaliger Zulassung des Arzneistoffes in Deutschland
 \\
@@ -1568,10 +1568,10 @@ werden gleichzeitig identische periodische Berichte nach den Gebührennummern 14
 1 000 bis 27 500
 15
 Individuell zurechenbare öffentliche Leistungen im Rahmen von nichtinterventionellen Unbedenklichkeitsprüfungen
-�
+
 15.1
 auf eigene Veranlassung durchgeführte nichtinterventionelle Unbedenklichkeitsprüfungen
-�
+
 15.1.1
 Prüfung von Anzeigen nach § 63f Absatz 1 AMG
 260
@@ -1584,7 +1584,7 @@ Prüfung des Abschlussberichtes
 300 bis 4 200
 15.2
 Angeordnete nichtinterventionelle Unbedenklichkeitsprüfungen bei Durchführung der Prüfung nur im Inland
-�
+
 15.2.1
 Genehmigung des Entwurfs des Prüfungsprotokolls nach § 63g Absatz 2 AMG, je nach Personal- und Sachaufwand
 \\
@@ -1615,7 +1615,7 @@ Maßnahmen nach § 25c AMG, je nach Personal- und Sachaufwand
 30 bis 10 000
 20
 Maßnahmen nach § 30 Absatz 1 Satz 4, Absatz 1a Satz 3, Absatz 2 Satz 2, Absatz 2a Satz 1, § 31 Absatz 4 Satz 2, § 42a Absatz 1 Satz 2, Absatz 2 Satz 2, Absatz 3 Satz 3 und Absatz 5 AMG
-�
+
 20.1
 Anordnung des befristeten Ruhens einer Zulassung nach § 30 Absatz 1 Satz 4, Absatz 1a Satz 3, Absatz 2 Satz 2 AMG sowie Maßnahmen nach § 30 Absatz 2a Satz 1 AMG, mit Ausnahme der in Gebührennummer 18 genannten, und Maßnahmen nach § 31 Absatz 4 Satz 2 AMG, je nach Personal- und Sachaufwand
 \\
@@ -1629,7 +1629,7 @@ Maßnahmen nach § 42a Absatz 1 Satz 2, Absatz 2 Satz 2, Absatz 3 Satz 3 und Abs
 30 bis 3 700
 21
 Entscheidungen nach § 21 Absatz 4 AMG
-�
+
 21.1
 Entscheidung über die Zulassungspflicht, je nach Personal- und Sachaufwand
 \\
@@ -1644,7 +1644,7 @@ Gestattung einer Ausnahme gemäß § 31 Absatz 1 Satz 2 AMG, je Zulassung
 200
 23
 Festlegung einer angemessenen Wartezeit nach § 59 Absatz 2 Satz 2 AMG
-�
+
 23.1
 für ein Arzneimittel mit einem Stoff, der nicht der Einstufung nach Artikel 14 Absatz 2 Buchstabe a, b oder c der Verordnung (EG) Nr. 470/2009 entspricht
 \\
@@ -1656,7 +1656,7 @@ für ein Arzneimittel mit einem Stoff, der der Einstufung nach Artikel 14 Absatz
 1 800
 24
 Sonstige individuell zurechenbare öffentliche Leistungen
-�
+
 24.1
 wissenschaftliche Stellungnahmen zur Qualität, therapeutischen Wirksamkeit oder Unbedenklichkeit eines Arzneimittels
 \\
@@ -1689,44 +1689,44 @@ Bescheinigungen, mit Ausnahme der in Gebührennummer 24.7 genannten, und Beglaub
 \\
 10 bis 150
 25
-�
+
 Widerspruchsverfahren
-�
-�
+
+
 25.1
-�
+
 Widersprüche gegen Sachentscheidungen
-�
-�
+
+
 25.1.1
 Zurückweisung als unzulässig
 160; soweit für die nachzuprüfende Sachentscheidung eine geringere Gebühr vorgesehen ist, diese; soweit Rahmengebühren vorgesehen sind und deren Mittelwert geringer ist, dieser
-�
+
 25.1.2
 teilweise oder vollständige Zurückweisung als unbegründet, soweit der Widerspruch nicht nur deshalb keinen Erfolg hat, weil die Verletzung einer Verfahrens- oder Formvorschrift nach § 45 VwVfG unbeachtlich ist
 höchstens die für die im Widerspruchsverfahren nachzuprüfende Sachentscheidung in dieser Verordnung vorgesehene Gebühr; soweit eine Rahmengebühr vorgesehen ist, höchstens deren oberer Wert;\\
 jedoch mindestens 160; soweit für die nachzuprüfende Sachentscheidung eine geringere Gebühr vorgesehen ist, diese
-�
+
 25.1.3
 bei Rücknahme eines Widerspruchs nach Beginn der sachlichen Bearbeitung, jedoch vor deren Beendigung
 höchstens 75 Prozent der für die im Widerspruchsverfahren nachzuprüfende Sachentscheidung in dieser Verordnung vorgesehenen Gebühr; soweit eine Rahmengebühr vorgesehen ist, höchstens 75 Prozent deren oberen Wertes;\\
 jedoch mindestens 160; soweit für die nachzuprüfende Sachentscheidung eine geringere Gebühr als 160 vorgesehen ist, diese
-�
+
 25.2
 Widersprüche gegen Gebühren- und Auslagenfestsetzungen
-�
-�
+
+
 25.2.1
 Zurückweisung als unzulässig
 160; soweit der streitige Betrag geringer ist, dieser
-�
+
 25.2.2
 teilweise oder vollständige Zurückweisung als unbegründet, soweit der Widerspruch nicht nur deshalb keinen Erfolg hat, weil die Verletzung einer Verfahrens- oder Formvorschrift nach § 45 VwVfG unbeachtlich ist
 höchstens 10 Prozent des streitigen Betrages;\\
 jedoch mindestens 160; soweit der streitige Betrag geringer als 160 ist, dieser
-�
+
 25.2.3
 bei Rücknahme eines Widerspruchs nach Beginn der sachlichen Bearbeitung, jedoch vor deren Beendigung
 höchstens 75 Prozent des streitigen Betrages;\\
 jedoch mindestens 160; soweit der streitige Betrag geringer als 160 ist, dieser
-�
+

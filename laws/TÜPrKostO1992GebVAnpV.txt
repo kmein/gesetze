@@ -39,31 +39,31 @@ F√ºr die Pr√ºfung von Dampfkesselanlagen werden folgende Geb√ºhren erhoben:
 
 \\
 
-†
+
 
 bis 100 qm Heizfl√§che
 
 3,04 x H + 110,-,
 
-†
+
 
 √ºber 100 qm bis 500 qm Heizfl√§che
 
 1,24 x H + 283,-,
 
-†
+
 
 √ºber 500 qm bis 3.000 qm Heizfl√§che
 
 1,04 x H + 377,-,
 
-†
+
 
 √ºber 3.000 qm Heizfl√§che
 
 0,94 x H + 629,-,
 
-†
+
 
 - b) :: bei elektrisch beheizten Dampfkesseln nach der elektrischen Leistung N in kW und betr√§gt in DM
 
@@ -85,7 +85,7 @@ Bei Abgaswasservorw√§rmern, die vom Dampfkessel wasserseitig absperrbar sind, be
 
 Bei Dampfkesseln betr√§gt der Zuschlag f√ºr die Pr√ºfung der Einrichtungen f√ºr den Betrieb
 
-†
+
 
 - a) :: mit st√§ndiger Beaufsichtigung von einer Warte aus oder mit eingeschr√§nkter Beaufsichtigung oder ohne st√§ndige Beaufsichtigung √ºber 24 Stunden
 
@@ -101,43 +101,43 @@ Bei Hei√üwassererzeugern, die ein Ausdehnungsgef√§√ü oder einen\\
 Auffangbeh√§lter besitzen, betr√§gt der Zuschlag jeweils bei\\
 einem Rauminhalt
 
-†
+
 
 bis 50 Liter
 
 90,- DM,
 
-†
+
 
 √ºber 50 Liter bis 400 Liter
 
 105,- DM,
 
-†
+
 
 √ºber 400 Liter bis 2.000 Liter
 
 142,- DM,
 
-†
+
 
 √ºber 2.000 Liter bis 5.000 Liter
 
 189,- DM,
 
-†
+
 
 √ºber 5.000 Liter bis 10.000 Liter
 
 225,- DM,
 
-†
+
 
 √ºber 10.000 Liter
 
 225,- DM
 
-†
+
 
 und zus√§tzlich je weitere und angefangene 10.000 Liter
 
@@ -158,21 +158,21 @@ n
 
 Anzahl der Rohre in der Rohrwand, wobei jedoch h√∂chstens folgende Rohrzahl zugrunde gelegt werden darf:
 
-†
 
-†
+
+
 
 b
 
-†
+
 
 n(tief)max =
 
 ------------
 
-†
 
-†
+
+
 
 2 x d(tief)a
 
@@ -401,7 +401,7 @@ Flaschenb√ºndeln (Gestelle und Ausr√ºstung) und Treibgastanks
 
 Fahrzeugbeh√§ltern und Containern (im Werksverkehr)
 
-†
+
 
 -
 
@@ -417,7 +417,7 @@ f√ºr fl√ºssige tiefkalte Druckgase
 
 Bei Beh√§lterbaugruppen mit gleichem Durchmesser wird nur ein Beh√§lter berechnet.
 
-†
+
 
 -  :: - 2.2.2 :: Werkstoffpr√ºfung
   - 2.2.2.1 :: F√ºr die Beurteilung und Auswertung der erforderlichen Pr√ºfungen werden je Probesatz, bestehend aus 1 Zugprobe, 1 Satz Kerbschlagbiegeproben und 1 Faltprobe 40,- DM erhoben.
@@ -516,7 +516,7 @@ F√ºr die Pr√ºfung von Aufzugsanlagen und von Aufzugsw√§rtern werden folgende Geb
 
 Grundgeb√ºhr
 
-†
+
 
 Art der Aufzugsanlagen
 
@@ -530,37 +530,37 @@ a)
 
 Personenaufzug, vereinfachter Personenaufzug, Lastenaufzug, G√ºteraufzug
 
-†
+
 
 b)
 
 Personen-Umlaufaufzug
 
-†
+
 
 c)
 
 M√ºhlenaufzug
 
-†
+
 
 d)
 
 Bauaufzug mit Personenbef√∂rderung
 
-†
+
 
 e)
 
 Bremsaufzug (Bremsfahrstuhl in Getreidem√ºhlen)
 
-†
+
 
 f)
 
 Behindertenaufzug
 
-†
+
 
 Gruppe II:
 
@@ -570,31 +570,31 @@ a)
 
 Vereinfachter G√ºteraufzug mit Fangvorrichtung oder Aufsetzvorrichtung
 
-†
+
 
 b)
 
 Unterfluraufzug mit Fangvorrichtung oder Aufsetzvorrichtung
 
-†
+
 
 c)
 
 Lagerhausaufzug
 
-†
+
 
 d)
 
 Kleing√ºteraufzug mit Fangvorrichtung
 
-†
+
 
 e)
 
 Beh√§lteraufzug mit Fangvorrichtung oder Aufsetzvorrichtung
 
-†
+
 
 Gruppe III:
 
@@ -604,37 +604,37 @@ a)
 
 Vereinfachter G√ºteraufzug ohne Fangvorrichtung oder Aufsetzvorrichtung
 
-†
+
 
 b)
 
 Unterfluraufzug ohne Fangvorrichtung oder Aufsetzvorrichtung
 
-†
+
 
 c)
 
 Kleing√ºteraufzug ohne Fangvorrichtung
 
-†
+
 
 d)
 
 Ablassvorrichtung
 
-†
+
 
 e)
 
 Beh√§lteraufzug ohne Fangvorrichtung oder Aufsetzvorrichtung
 
-†
+
 
 f)
 
 Behindertenaufzug f√ºr ausschlie√ülich private Nutzung
 
-†
+
 
 Gruppe IV:
 
@@ -642,7 +642,7 @@ Gruppe IV:
 
 Fassadenaufzug
 
-†
+
 
 -  :: -  :: Die noch als Lastenaufz√ºge mit Fangvorrichtung oder Aufsetzvorrichtung bezeichneten Aufz√ºge fallen unter die Gruppe I, die noch als Lastenaufz√ºge ohne Fangvorrichtung oder Aufsetzvorrichtung bezeichneten Aufz√ºge fallen unter die Gruppe II, und die noch als Kleinlastenaufz√ºge bezeichneten Aufz√ºge fallen unter die Gruppe III.
 
@@ -652,7 +652,7 @@ Fassadenaufzug
 
 Pr√ºfungsfaktoren
 
-†
+
 
 Art der Pr√ºfung
 
@@ -668,23 +668,23 @@ IV
 
 Abnahmepr√ºfung
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Pr√ºfung der Anzeigeunterlagen
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 1.3.1
 
@@ -710,17 +710,17 @@ f√ºr die gleichzeitig eingereichten Unterlagen jeder weiteren Aufzugsanlage ders
 
 0,60
 
-†
+
 
 Pr√ºfung der Aufzugsanlage
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 1.3.3
 
@@ -752,23 +752,23 @@ Wiedererrichtung eines Bauaufzuges mit Personenbef√∂rderung
 
 1,30
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Wiederkehrende Pr√ºfungen Hauptpr√ºfung
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 1.3.6
 
@@ -810,7 +810,7 @@ Zwischenpr√ºfung
 
 Zuschl√§ge
 
-†
+
 
 1.4.1
 
@@ -824,11 +824,11 @@ Bei mehr als 25m F√∂rderh√∂he betr√§gt der Zuschlag f√ºr jede weiteren und angef
 
 42,- DM.
 
-†
+
 
 Dieser Zuschlag wird bei Zwischenpr√ºfungen nicht erhoben, wenn Zuschl√§ge nach Nummer 1.4.1 berechnet werden.
 
-†
+
 
 1.4.3
 
@@ -836,11 +836,11 @@ Bei Aufz√ºgen - ausgenommen Fassadenaufz√ºge mit mehr als 1.000 kg Tragf√§higkei
 
 21,- DM.
 
-†
+
 
 Dieser Zuschlag wird bei Zwischenpr√ºfungen nicht erhoben.
 
-†
+
 
 1.4.4
 
@@ -854,11 +854,11 @@ Bei Aufz√ºgen, deren Geschwindigkeit nicht √ºber den gesamten Fahrbereich durch 
 
 79,- DM.
 
-†
+
 
 Dieser Zuschlag wird nicht erhoben bei hydraulischen Aufz√ºgen mit von Kolben bewegten Lastaufnahmemitteln, deren Geschwindigkeit durch fest eingestellte Ventilquerschnitte oder festgelegte und elektrisch √ºberwachte Schieberstellungen bestimmt ist.
 
-†
+
 
 1.4.6
 
@@ -870,25 +870,25 @@ Bei maschinellem Antrieb von Fahrschacht- oder Fahrkorbt√ºren oder entsprechende
 
 Bei Aufz√ºgen
 
-†
 
-†
+
+
 
 - mit elektrischer Steuerung f√ºr Einfahren und Nachstellen bei ge√∂ffneter Fahrschacht- oder Fahrkorbt√ºr oder
 
-†
+
 
 - mit Rampenfahrt oder
 
-†
+
 
 - mit Umgehungsschaltung oder
 
-†
+
 
 - mit hydraulischem Antrieb und Absinkverhinderungsschaltung
 
-†
+
 
 betr√§gt der Zuschlag
 
@@ -896,7 +896,7 @@ betr√§gt der Zuschlag
 
 Dieser Zuschlag wird je Anlage nur einmal berechnet.
 
-†
+
 
 1.4.8
 
@@ -978,13 +978,13 @@ Anhang V - Geb√ºhren f√ºr die Pr√ºfung von Anlagen zur Lagerung, Abf√ºllung und 
 
 Grundgeb√ºhr
 
-†
 
-†
+
+
 
 Die Grundgeb√ºhr betr√§gt
 
-†
+
 
 f√ºr L√§ger f√ºr ortsbewegliche Gef√§√üe
 
@@ -1006,13 +1006,13 @@ f√ºr Tankstellen
 
 Zuschl√§ge
 
-†
 
-†
+
+
 
 Die Zuschl√§ge betragen
 
-†
+
 
 f√ºr L√§ger mit mehr als einem ortsfesten Tank je weiteren Tank
 
@@ -1030,13 +1030,13 @@ f√ºr Tankstellen mit mehr als vier Zapfventilen je weiteres Zapfventil
 
 Pr√ºfungsfaktur
 
-†
 
-†
+
+
 
 Der Pr√ºfungsfaktor betr√§gt
 
-†
+
 
 f√ºr die Pr√ºfung vor Inbetriebnahme
 
@@ -1058,13 +1058,13 @@ f√ºr die angeordnete Pr√ºfung oder die Pr√ºfung vor Wiederinbetriebnahme
 
 H√∂chstgeb√ºhr
 
-†
 
-†
+
+
 
 Die H√∂chstgeb√ºhr betr√§gt
 
-†
+
 
 f√ºr die Pr√ºfung von L√§gern mit ortsfesten Tanks
 
@@ -1082,31 +1082,31 @@ f√ºr die Pr√ºfung von Tankstellen
 
 Unterirdische und oberirdische Tanks, ausgenommen Flachbodentanks
 
-†
+
 
 2.1
 
 Bemessungsgrundlage
 
-†
 
-†
+
+
 
 Die je Pr√ºfung zu erhebende Geb√ºhr besteht aus der Grundgeb√ºhr nach Nummer 2.1.1, die mit dem Pr√ºfungsfaktor nach Nummer 2.1.2 vervielfacht wird.
 
-†
+
 
 2.1.1
 
 Grundgeb√ºhr
 
-†
 
-†
+
+
 
 Die Grundgeb√ºhr betr√§gt f√ºr Tanks mit einem Rauminhalt
 
-†
+
 
 bis 10.000 Liter
 
@@ -1124,19 +1124,19 @@ bis 10.000 Liter
 
 Pr√ºfungsfaktur
 
-†
+
 
 2.1.2.1
 
 Bei Pr√ºfungen vor Inbetriebnahme oder nach
 
-†
 
-†
+
+
 
 wesentlichen √Ñnderungen betr√§gt der Pr√ºfungsfaktor
 
-†
+
 
 f√ºr die Vorpr√ºfung ohne Nachberechnung der statischen Berechnung
 
@@ -1182,9 +1182,9 @@ f√ºr die Ordnungspr√ºfung (soweit diese getrennt durchgef√ºhrt wird)
 
 Bei wiederkehrenden oder angeordneten Pr√ºfungen oder Pr√ºfungen vor Wiederinbetriebnahme betr√§gt der Pr√ºfungsfaktor
 
-†
 
-†
+
+
 
 f√ºr die √§u√üere Pr√ºfung
 
@@ -1214,31 +1214,31 @@ f√ºr die Ordnungspr√ºfung (soweit diese getrennt durchgef√ºhrt wird)
 
 Flachbodentanks
 
-†
+
 
 3.1
 
 Bemessungsgrundlage
 
-†
 
-†
+
+
 
 Die je Pr√ºfung zu erhebende Geb√ºhr besteht aus der Grundgeb√ºhr nach Nummer 3.3.1, die mit dem Pr√ºfungsfaktor nach Nummer 3.1.2 vervielfacht wird.
 
-†
+
 
 3.1.1
 
 Grundgeb√ºhr
 
-†
 
-†
+
+
 
 Die Grundgeb√ºhr betr√§gt f√ºr Tanks mit einem Rauminhalt
 
-†
+
 
 bis 5.000 cbm
 
@@ -1264,19 +1264,19 @@ und zus√§tzlich je weiteren und angefangenen 10.000 cbm
 
 Pr√ºfungsfaktur
 
-†
+
 
 3.1.2.1
 
 Bei Pr√ºfungen vor Inbetriebnahme oder nach
 
-†
 
-†
+
+
 
 wesentlichen √Ñnderungen betr√§gt der Pr√ºfungsfaktor
 
-†
+
 
 f√ºr die Vorpr√ºfung ohne Nachrechnung der statischen Berechnungen
 
@@ -1314,9 +1314,9 @@ f√ºr die Ordnungspr√ºfung (soweit diese getrennt durchgef√ºhrt wird)
 
 Bei wiederkehrenden oder angeordneten Pr√ºfungen und Pr√ºfungen vor Wiederinbetriebnahme betr√§gt der Pr√ºfungsfaktor
 
-†
 
-†
+
+
 
 f√ºr die innere Pr√ºfung
 
@@ -1361,21 +1361,21 @@ f√ºr die Ordnungspr√ºfung (soweit diese getrennt durchgef√ºhrt wird)
   - 8.1 :: Elektrische Einrichtungen
   - 8.1.1 :: F√ºr die Pr√ºfung der elektrischen Einrichtungen von L√§gern und F√ºllstellen werden f√ºr jede in sich geschlossene Anlage eine Grundgeb√ºhr von 73,- DM und folgende Zuschl√§ge erhoben:
 
-†
+
 
 explosionsgesch√ºtzte Bauart in DM
 
 normale Bauart in DM
 
-†
+
 
 f√ºr jedes Ger√§t (Motoren, Transformatoren, Umformer, Gleichrichter)
 
-†
 
-†
 
-†
+
+
+
 
 - bis zu einer Leistung von je 15 kW
 
@@ -1383,7 +1383,7 @@ f√ºr jedes Ger√§t (Motoren, Transformatoren, Umformer, Gleichrichter)
 
 14,-,
 
-†
+
 
 - bis zu einer Leistung von je mehr als 15 kW
 
@@ -1391,7 +1391,7 @@ f√ºr jedes Ger√§t (Motoren, Transformatoren, Umformer, Gleichrichter)
 
 24,-,
 
-†
+
 
 f√ºr jede Leuchte
 
@@ -1399,7 +1399,7 @@ f√ºr jede Leuchte
 
 6,-.
 
-†
+
 
 Die Geb√ºhr f√ºr die Pr√ºfung der Schalt- und Verteilungsanlagen ist in vorstehenden S√§tzen enthalten. F√ºr die Pr√ºfung der Mess-, Steuer- und Regelanlagen werden Geb√ºhren nach Nummer 11 erhoben.
 
@@ -1407,13 +1407,13 @@ Die Geb√ºhr f√ºr die Pr√ºfung der Schalt- und Verteilungsanlagen ist in vorstehe
 
 F√ºr die Pr√ºfung der elektrischen Einrichtungen von Tankstellen werden folgende Geb√ºhren erhoben
 
-†
+
 
 8.1.2.1
 
 f√ºr die Pr√ºfung von Abgabeeinrichtungen
 
-†
+
 
 - f√ºr jede F√∂rder- und Abgabeeinheit
 
@@ -1435,19 +1435,19 @@ f√ºr die Pr√ºfung von Gasr√ºckf√ºhrsystemen je Einzelanlage
 
 F√ºr die Pr√ºfung sonstiger elektrischer Einrichtungen werden Geb√ºhren nach Nummer 11 erhoben.
 
-†
+
 
 8.2
 
 Einrichtungen f√ºr den Blitzschutz
 
-†
+
 
 8.2.1
 
 F√ºr die Pr√ºfung der Einrichtung f√ºr den Blitzschutz wird f√ºr jede in sich geschlossene Anlage
 
-†
+
 
 eine Grundgeb√ºhr von
 
@@ -1459,19 +1459,19 @@ und ein Zuschlag f√ºr jede Trennstelle von
 
 erhoben.
 
-†
+
 
 8.3
 
 Einrichtungen f√ºr den kathodischen Korrosionsschutz
 
-†
+
 
 8.3.1
 
 F√ºr die Pr√ºfung des kathodischen Korrosionsschutzes an Tankstellen werden erhoben
 
-†
+
 
 Pr√ºfung nach VDE 0165 je Abgabeeinrichtung
 
@@ -1497,7 +1497,7 @@ f√ºr jede Anode ein Zuschlag von
 
 F√ºr die Pr√ºfung auf Erfordernis eines kathodischen Korrosionsschutzes an Tankstellen werden erhoben
 
-†
+
 
 Messung des spezifischen Bodenwiderstandes
 
@@ -1541,7 +1541,7 @@ Ermittlung des Ausbreitungswiderstandes je Tank
     F√ºr die √ºber 150 km hinausgehende Leitungsl√§nge betr√§gt die entsprechende Minderung 50 v.H., f√ºr die √ºber 225 km hinausgehende Leitungsl√§nge 65 v.H.
   - 9.2 :: Der Zahlenwert f√ºr den Faktor d wird wie folgt bestimmt:
 
-†
+
 
 Au√üendurchmesser der Fernleitung in mm
 
@@ -1553,7 +1553,7 @@ Festigkeits- und Dichtheitspr√ºfung
 
 Abnahmepr√ºfung
 
-†
+
 
 1
 
@@ -1615,19 +1615,19 @@ Abnahmepr√ºfung
 
 1,4
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Au√üendurchmesser der Fernleitung in mm
 
 Wiederkehrende Pr√ºfung (bei Medium)
 
-†
+
 
 Roh√∂l
 
@@ -1669,7 +1669,7 @@ Produkt
 
 1,08
 
-†
+
 
 Ergeben sich hiernach bei den erstmaligen Pr√ºfungen von Leitungen bis zu 273,1 mm Durchmesser unverh√§ltnism√§√üig hohe Geb√ºhren, so ist die Geb√ºhr entsprechend dem tats√§chlichen Aufwand zu mindern.
 
@@ -1677,9 +1677,9 @@ Ergeben sich hiernach bei den erstmaligen Pr√ºfungen von Leitungen bis zu 273,1 
 
 Die Zahlenwerte f√ºr den Faktor A und die Mindestl√§nge l betragen:
 
-†
 
-†
+
+
 
 Vorpr√ºfung
 
@@ -1719,21 +1719,21 @@ Faktor A
 
 1.121
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 Wiederkehrende Pr√ºfungen au√üer Pr√ºfungen des KKS 2) 3)
 
 Wiederkehrende Pr√ºfungen des KKS 3)
 
-†
+
 
 1
 
@@ -1753,7 +1753,7 @@ Faktor A
 
 42
 
-†
+
 
 - 1) :: Bei einer Dichtheitspr√ºfung, die aus einer √§u√üeren Besichtigung besteht, betr√§gt die Mindestl√§nge l = 1 km.
 - 2) :: F√ºr jede zus√§tzliche Dichtheitspr√ºfung betr√§gt der Zahlenwert f√ºr den Faktor A 16.
@@ -1763,7 +1763,7 @@ Faktor A
 
 Der Zahlenwert f√ºr den Faktor B ergibt sich aus den nachstehenden Tabellen. Er errechnet sich aus der Summe der auf jeweils eine Station bezogenen Hilfswerte B 1 bis B 5.
 
-†
+
 
 Station
 
@@ -1849,13 +1849,13 @@ B 5
 
 7.427
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Station
 
@@ -1865,7 +1865,7 @@ Wiederkehrende Pr√ºfung der elektrotechnischen Einrichtungen
 
 Wiederkehrende Pr√ºfung der Dichtheit an Slopsystemen
 
-†
+
 
 1
 
@@ -1915,7 +1915,7 @@ Sicherheits-bzw. Entlastungsstation
 
 314
 
-†
+
 
 Werden bei einer Fernleitung mehrere artgleiche Stationen gleichzeitig zur Vorpr√ºfung gestellt, so werden f√ºr die zweite und alle weiteren Stationen nur 50 v.H. der Tabellenwerte eingesetzt. Dient eine Station mehreren Funktionen, so gilt f√ºr diese Station der Geb√ºhrensatz, der ihrer Hauptfunktion entspricht, die weiteren Funktionen werden mit 50 v.H. des f√ºr sie vorgesehenen Geb√ºhrensatzes berechnet.
 
@@ -1923,11 +1923,11 @@ Werden bei einer Fernleitung mehrere artgleiche Stationen gleichzeitig zur Vorpr
 
 Die Zahlenwerte f√ºr den Faktor C und die Mindestgeb√ºhren betragen:
 
-†
 
-†
 
-†
+
+
+
 
 Durchf√ºhrung von Dehnungsmessungen
 
@@ -1939,13 +1939,13 @@ Ermittlung neuer Nullwerte f√ºr Dehnungsmessungen
 
 Faktor C
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 DMS-Messgitter
 
@@ -1969,13 +1969,13 @@ SDM-Messl√§ngen
 
 Die Geb√ºhren je Pr√ºfung betragen jedoch in DM mindestens
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 DMS-Messgitter
 

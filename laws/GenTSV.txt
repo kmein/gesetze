@@ -6,18 +6,18 @@ Ausfertigungsdatum: 12.08.2019
 
 Inhaltsübersicht
 
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
+
+
+
+
+
+
+
+
+
+
+
+
 
 § 1 - Anwendungsbereich
 
@@ -595,7 +595,7 @@ Anlage 2 - (zu § 14)Sicherheitsmaßnahmen für Labor- und für Produktionsberei
       - 7. :: Ein Autoklav oder ein gleichwertiges Gerät zur Inaktivierung oder Sterilisation mit ausreichender Kapazität muss in der gentechnischen Anlage vorhanden oder innerhalb desselben Gebäudes verfügbar sein.
       - 8. :: Kontaminierte Prozessabluft muss, bevor sie in den Arbeitsbereich gegeben wird, durch geeignete Verfahren wie Filterung oder thermische Nachbehandlung gereinigt werden. Dies gilt zum Beispiel auch für die Abluft von Autoklaven, Pumpen oder Bioreaktoren.
     - b. :: Organisatorische Sicherheitsmaßnahmen
-      - 1. :: Die gentechnische Anlage ist als Gentechnik-Arbeitsbereich der Sicherheitsstufe 2 und zusätzlich mit dem Warnzeichen �Biogefährdung“ zu kennzeichnen.
+      - 1. :: Die gentechnische Anlage ist als Gentechnik-Arbeitsbereich der Sicherheitsstufe 2 und zusätzlich mit dem Warnzeichen Biogefährdung“ zu kennzeichnen.
       - 2. :: Zutritt zum Labor haben außer den an den Arbeiten Beteiligten nur Personen, die vom Projektleiter oder durch von ihm autorisierte Dritte hierzu ermächtigt wurden. Hierauf ist durch geeignete Kennzeichnung an den Zugängen hinzuweisen.
       - 3. :: Fenster und Türen müssen während der Arbeiten geschlossen sein.
       - 4. :: Die Räume sollen aufgeräumt und sauber gehalten werden. Auf den Arbeitstischen sollen sich nur die tatsächlich benötigten Geräte und Materialien befinden. Vorräte an Arbeitsmaterial sollen nur in dafür bereitgestellten Räumen oder Schränken gelagert werden.
@@ -638,7 +638,7 @@ Anlage 2 - (zu § 14)Sicherheitsmaßnahmen für Labor- und für Produktionsberei
       - 13. :: Arbeiten mit Organismen, bei denen Aerosole entstehen können, müssen stets in mikrobiologischen Sicherheitswerkbänken oder in einer hinsichtlich des Personenschutzes vergleichbaren Einrichtung ausgeführt werden. Nicht aerosoldichte Geräte müssen in einer mikrobiologischen Sicherheitswerkbank eingesetzt werden oder aber, bei großen Geräten, in einer gleichwertigen physikalischen Sicherheitseinrichtung. Hierbei muss gewährleistet sein, dass die Schutzeigenschaften der jeweiligen Sicherheitseinrichtung nicht beeinträchtigt werden. Kontaminierte Prozessabluft muss, bevor sie in den Arbeitsbereich gegeben wird, durch geeignete Verfahren wie Filterung oder thermische Nachbehandlung gereinigt werden. Dies gilt zum Beispiel auch für die Abluft von Autoklaven, Pumpen oder Bioreaktoren.
       - 14. :: Im Laborbereich der gentechnischen Anlage muss ein Autoklav oder ein gleichwertiges Gerät zur Sterilisation mit ausreichender Kapazität vorhanden sein.
     - b. :: Organisatorische Sicherheitsmaßnahmen
-      - 1. :: Die gentechnische Anlage ist als Gentechnik-Arbeitsbereich der Sicherheitsstufe 3 und zusätzlich mit dem Warnzeichen �Biogefährdung“ zu kennzeichnen.
+      - 1. :: Die gentechnische Anlage ist als Gentechnik-Arbeitsbereich der Sicherheitsstufe 3 und zusätzlich mit dem Warnzeichen Biogefährdung“ zu kennzeichnen.
       - 2. :: Der Zutritt zur gentechnischen Anlage ist auf die Personen zu beschränken, deren Anwesenheit zur Durchführung der Arbeiten erforderlich ist und die zum Eintritt befugt sind. Hierauf ist durch geeignete Kennzeichnung an den Zugängen hinzuweisen. Der Projektleiter ist verantwortlich für die Bestimmung der zutrittsberechtigten Personen.
       - 3. :: (weggefallen)
       - 4. :: Eine Person darf nur dann allein in der gentechnischen Anlage arbeiten, wenn eine von innen zu betätigende Notrufanlage vorhanden ist. Die Auslösung des Notrufsignals muss willensabhängig sowie automatisch erfolgen können.
@@ -693,7 +693,7 @@ Anlage 2 - (zu § 14)Sicherheitsmaßnahmen für Labor- und für Produktionsberei
       - 13. :: Für sicherheitsrelevante Einrichtungen wie Lüftungsanlagen einschließlich Ventilationssystemen, Notruf- und Überwachungseinrichtungen, mikrobiologische Sicherheitswerkbänke und die Atemluftversorgung der fremdbelüfteten Vollschutzanzüge ist eine Notstromversorgung einzurichten. Es ist eine Sicherheitsbeleuchtung einzurichten, damit bei Stromausfall die Arbeiten sicher beendet werden können und der Arbeitsbereich sicher verlassen werden kann.
       - 14. :: Bei der Planung sicherheitsrelevanter technischer Anlagen, wie zum Beispiel raumlufttechnischer Anlagen, Abwasserbehandlungsanlagen oder Autoklaven, ist prinzipiell auch das Vorgehen bei Störungen und Wartungen zu berücksichtigen. Die raumlufttechnische Anlage ist so auszulegen, dass ein Filterwechsel ohne Verletzung des Sicherheitsstandards möglich ist, da das Labor der Sicherheitsstufe 4 anderenfalls vor dem Filterwechsel stillgelegt und desinfiziert werden müsste. Bei größeren gentechnischen Anlagen ist es zweckmäßig, die raumlufttechnische Anlage so zu unterteilen, dass im Störungsfall bzw. während der Wartungsarbeiten ein Teilbetrieb möglich ist.
     - b. :: Organisatorische Sicherheitsmaßnahmen
-      - 1. :: Die gentechnische Anlage ist als Gentechnik-Arbeitsbereich der Sicherheitsstufe 4 und zusätzlich mit dem Warnzeichen �Biogefährdung“ zu kennzeichnen.
+      - 1. :: Die gentechnische Anlage ist als Gentechnik-Arbeitsbereich der Sicherheitsstufe 4 und zusätzlich mit dem Warnzeichen Biogefährdung“ zu kennzeichnen.
       - 2. :: Der Zutritt zum Labor ist auf die Personen zu beschränken, deren Anwesenheit zur Durchführung der Arbeiten erforderlich ist und die zum Eintritt befugt sind. Hierauf ist durch geeignete Kennzeichnung an den Zugängen hinzuweisen. Der Projektleiter ist verantwortlich für die Bestimmung der zutrittsberechtigten Personen.
       - 3. :: (weggefallen)
       - 4. :: Die Räume sollen aufgeräumt und sauber gehalten werden. Auf den Arbeitstischen sollen sich nur die tatsächlich benötigten Geräte und Materialien befinden. Vorräte an Arbeitsmaterial sollen nur in dafür bereitgestellten Räumen oder Schränken gelagert werden.
@@ -799,7 +799,7 @@ Anlage 2 - (zu § 14)Sicherheitsmaßnahmen für Labor- und für Produktionsberei
       - 13. :: Ausreichende Inaktivierungskapazität muss in der gentechnischen Anlage oder innerhalb desselben Gebäudes vorhanden sein.
       - 14. :: Kontaminierte Prozessabluft muss, bevor sie in den Arbeitsbereich gegeben wird, durch geeignete Verfahren wie Filterung oder thermische Nachbehandlung gereinigt werden. Dies gilt zum Beispiel auch für die Abluft von Autoklaven, Pumpen oder Bioreaktoren.
     - b. :: Organisatorische Sicherheitsmaßnahmen
-      - 1. :: Die gentechnische Anlage ist als Gentechnik-Arbeitsbereich der Sicherheitsstufe 2 und zusätzlich mit dem Warnzeichen �Biogefährdung“ zu kennzeichnen.
+      - 1. :: Die gentechnische Anlage ist als Gentechnik-Arbeitsbereich der Sicherheitsstufe 2 und zusätzlich mit dem Warnzeichen Biogefährdung“ zu kennzeichnen.
       - 2. :: Zutritt zum Produktionsbereich haben außer den an den Arbeiten Beteiligten nur Personen, die vom Projektleiter oder durch von ihm autorisierte Dritte hierzu ermächtigt wurden. Hierauf ist durch geeignete Kennzeichnung an den Zugängen hinzuweisen.
       - 3. :: Fenster und Türen müssen während der Arbeiten geschlossen sein.
       - 4. :: Die Räume sollen aufgeräumt und sauber gehalten werden. Auf den Arbeitstischen sollen sich nur die tatsächlich benötigten Geräte und Materialien befinden.
@@ -852,7 +852,7 @@ Anlage 2 - (zu § 14)Sicherheitsmaßnahmen für Labor- und für Produktionsberei
       - 17. :: Für sicherheitsrelevante Einrichtungen wie Lüftungsanlagen einschließlich Ventilationssystemen, mikrobiologische Sicherheitswerkbänke und Notruf- und Überwachungseinrichtungen ist eine Notstromversorgung einzurichten. Es ist eine Sicherheitsbeleuchtung einzurichten, damit bei Stromausfall die Arbeiten sicher beendet werden können und der Arbeitsbereich sicher verlassen werden kann.
       - 18. :: In der gentechnischen Anlage muss eine ausreichende Sterilisationskapazität vorhanden sein.
     - b. :: Organisatorische Sicherheitsmaßnahmen
-      - 1. :: Die gentechnische Anlage ist als Gentechnik-Arbeitsbereich der Sicherheitsstufe 3 und zusätzlich mit dem Warnzeichen �Biogefährdung“ zu kennzeichnen.
+      - 1. :: Die gentechnische Anlage ist als Gentechnik-Arbeitsbereich der Sicherheitsstufe 3 und zusätzlich mit dem Warnzeichen Biogefährdung“ zu kennzeichnen.
       - 2. :: Der Zutritt zum Arbeitsbereich ist nur autorisierten und über die Sicherheitsanforderungen belehrten Personen gestattet. Hierauf ist durch geeignete Kennzeichnung an den Zugängen hinzuweisen. Der Projektleiter ist verantwortlich für die Bestimmung der zutrittsberechtigten Personen.
       - 3. :: (weggefallen)
       - 4. :: Eine Person darf nur dann allein in der gentechnischen Anlage arbeiten, wenn eine von innen zu betätigende Notrufanlage vorhanden ist. Die Auslösung des Notrufsignals muss willensabhängig sowie automatisch erfolgen können.
@@ -919,7 +919,7 @@ Anlage 2 - (zu § 14)Sicherheitsmaßnahmen für Labor- und für Produktionsberei
       - 20. :: Zur Probenahme sind geschlossene Systeme zu verwenden. Das Probenahmegefäß muss insbesondere vor mechanischer Beschädigung geschützt werden.
       - 21. :: Bei der Planung sicherheitsrelevanter technischer Anlagen wie zum Beispiel raumlufttechnischer Anlagen, Abwasserbehandlungsanlagen oder Autoklaven ist prinzipiell auch das Vorgehen bei Störungen und Wartungen zu berücksichtigen. Die raumlufttechnische Anlage ist so auszulegen, dass ein Filterwechsel ohne Verletzung des Sicherheitsstandards möglich ist, da der Produktionsbereich der Sicherheitsstufe 4 anderenfalls vor dem Filterwechsel stillgelegt und desinfiziert werden müsste. Bei größeren gentechnischen Anlagen ist es zweckmäßig, die raumlufttechnische Anlage so zu unterteilen, dass im Störungsfall bzw. während der Wartungsarbeiten ein Teilbetrieb möglich ist.
     - b. :: Organisatorische Sicherheitsmaßnahmen
-      - 1. :: Die gentechnische Anlage ist als Gentechnik-Arbeitsbereich der Sicherheitsstufe 4 und zusätzlich mit dem Warnzeichen �Biogefährdung" zu kennzeichnen.
+      - 1. :: Die gentechnische Anlage ist als Gentechnik-Arbeitsbereich der Sicherheitsstufe 4 und zusätzlich mit dem Warnzeichen Biogefährdung" zu kennzeichnen.
       - 2. :: Der Zutritt zum Produktionsbereich ist auf die Personen zu beschränken, deren Anwesenheit zur Durchführung der Arbeiten erforderlich ist und die zum Eintritt befugt sind. Hierauf ist durch geeignete Kennzeichnung an den Zugängen hinzuweisen. Der Projektleiter ist verantwortlich für die Bestimmung der zutrittsberechtigten Personen.
       - 3. :: (weggefallen)
       - 4. :: Die Räume sollen aufgeräumt und sauber gehalten werden. Auf den Arbeitstischen sollen sich nur die tatsächlich benötigten Geräte und Materialien befinden.
@@ -986,7 +986,7 @@ Nach § 15 Absatz 1 Satz 2 sind die Sicherheitsmaßnahmen für Gewächshäuser e
     - 5. :: Ein Autoklav oder ein gleichwertiges Gerät zur Inaktivierung oder Sterilisation mit ausreichender Kapazität muss in der gentechnischen Anlage vorhanden oder im Ausnahmefall in dem Gebäude verfügbar sein, in dem sich die gentechnische Anlage befindet.
     - 6. :: Sofern erforderlich, sind Filter in der Abluftanlage der Klimakammern vorzusehen.
   - b. :: Organisatorische Sicherheitsmaßnahmen
-    - 1. :: Die gentechnische Anlage ist als Gentechnik-Arbeitsbereich der Sicherheitsstufe 2 und zusätzlich mit dem Warnzeichen �Biogefährdung“ zu kennzeichnen.
+    - 1. :: Die gentechnische Anlage ist als Gentechnik-Arbeitsbereich der Sicherheitsstufe 2 und zusätzlich mit dem Warnzeichen Biogefährdung“ zu kennzeichnen.
     - 2. :: Sofern erforderlich, soll der Zutritt zum Gewächshaus über einen getrennten Raum mit zwei vorgelagerten verriegelbaren Türen erfolgen. Zutritt zum Gewächshaus haben außer den an den Experimenten Beteiligten nur Personen, die vom Projektleiter oder durch von ihm autorisierte Dritte hierzu ermächtigt wurden. Hierauf ist durch geeignete Kennzeichnung an den Zugängen hinzuweisen.
     - 3. :: Arbeitsgeräte, die in unmittelbarem Kontakt mit gentechnisch veränderten Organismen waren, müssen vor einer Reinigung desinfiziert oder autoklaviert werden, wenn bei diesem Kontakt gentechnisch veränderte Organismen übertragen werden konnten.
     - 4. :: Gentechnisch veränderte Organismen sowie Abfälle, die gentechnisch veränderte Organismen enthalten, dürfen nur in dicht geschlossenen, gegen Bruch geschützten, desinfizierbaren und entsprechend gekennzeichneten Behältern transportiert werden. Die Behälter sind regelmäßig von außen und bei jeder Kontamination zu desinfizieren.
@@ -1020,7 +1020,7 @@ Nach § 15 Absatz 1 Satz 2 sind die Sicherheitsmaßnahmen für Gewächshäuser e
     - 13. :: Bei Verwendung von Klimakammern ist deren Abluft mittels Hochleistungsschwebstofffiltern zu filtern.
     - 14. :: Für die Kommunikation vom Gewächshaus und von der Schleuse muss eine geeignete Einrichtung vorhanden sein.
   - b. :: Organisatorische Sicherheitsmaßnahmen
-    - 1. :: Die gentechnische Anlage ist als Gentechnik-Arbeitsbereich der Sicherheitsstufe 3 und zusätzlich mit dem Warnzeichen �Biogefährdung“ zu kennzeichnen.
+    - 1. :: Die gentechnische Anlage ist als Gentechnik-Arbeitsbereich der Sicherheitsstufe 3 und zusätzlich mit dem Warnzeichen Biogefährdung“ zu kennzeichnen.
     - 2. :: Es ist sicherzustellen, dass nur befugte Personen das Gewächshaus betreten können. Weiterhin ist der Zutritt auf die Personen zu beschränken, deren Anwesenheit zur Durchführung der Arbeiten erforderlich ist. Hierauf ist durch geeignete Kennzeichnung hinzuweisen. Der Projektleiter ist verantwortlich für die Bestimmung der zutrittsberechtigten Personen.
     - 2a. :: Türen müssen während der Arbeiten geschlossen sein.
     - 3. :: Gentechnisch veränderte Organismen sowie Abfälle, die gentechnisch veränderte Organismen enthalten, dürfen nur in dicht geschlossenen, gegen Bruch geschützten, desinfizierbaren und entsprechend gekennzeichneten Behältern transportiert werden. Die Behälter sind regelmäßig von außen zu desinfizieren, zudem sind sie bei jeder Kontamination von außen zu desinfizieren.
@@ -1070,7 +1070,7 @@ Nach § 15 Absatz 1 Satz 2 sind die Sicherheitsmaßnahmen für Gewächshäuser e
     - 15. :: Bei Verwendung von Klimakammern ist deren Abluft mittels Hochleistungsschwebstofffiltern zu filtern.
     - 16. :: Bei der Planung sicherheitsrelevanter technischer Anlagen, wie zum Beispiel raumlufttechnischer Anlagen, Abwasserbehandlungsanlagen und Autoklaven, ist prinzipiell auch das Vorgehen bei Störungen und Wartungen zu berücksichtigen. Die raumlufttechnische Anlage ist so auszulegen, dass ein Filterwechsel ohne Verletzung des Sicherheitsstandards möglich ist, da das Gewächshaus der Sicherheitsstufe 4 anderenfalls vor dem Filterwechsel stillgelegt und desinfiziert werden müsste. Bei größeren Anlagen ist es zweckmäßig, die raumlufttechnische Anlage so zu unterteilen, dass im Störungsfall bzw. während der Wartungsarbeiten ein Teilbetrieb möglich ist.
   - b. :: Organisatorische Sicherheitsmaßnahmen
-    - 1. :: Die gentechnische Anlage ist als Gentechnik-Arbeitsbereich der Sicherheitsstufe 4 und zusätzlich mit dem Warnzeichen �Biogefährdung“ zu kennzeichnen.
+    - 1. :: Die gentechnische Anlage ist als Gentechnik-Arbeitsbereich der Sicherheitsstufe 4 und zusätzlich mit dem Warnzeichen Biogefährdung“ zu kennzeichnen.
     - 2. :: Es ist sicherzustellen, dass nur befugte Personen das Gewächshaus betreten können. Weiterhin ist der Zutritt auf die Personen zu beschränken, deren Anwesenheit zur Durchführung der Arbeiten erforderlich ist. Hierauf ist durch geeignete Kennzeichnung hinzuweisen. Der Projektleiter ist verantwortlich für die Bestimmung der zutrittsberechtigten Personen.
     - 3. :: (weggefallen)
     - 4. :: Gentechnisch veränderte Organismen sowie Abfälle, die gentechnisch veränderte Organismen enthalten, dürfen nur in dicht geschlossenen, gegen Bruch geschützten, desinfizierbaren und entsprechend gekennzeichneten Behältern transportiert werden. Die Behälter sind regelmäßig und bei jeder Kontamination von außen zu desinfizieren.
@@ -1159,7 +1159,7 @@ Nach § 16 Absatz 2 sind, sofern in Tierräumen mit gentechnisch veränderten Mi
     - 11. :: Es sind Einrichtungen bereitzuhalten, mit denen infizierte oder zu infizierende Tiere so immobilisiert werden können, dass sie gefahrlos zu handhaben sind. Eine Sicherheitsbeleuchtung ist für Arbeitsplätze mit besonderer Gefährdung vorzusehen, damit bei Stromausfall die Arbeiten sicher beendet werden können, die Tiere angemessen untergebracht werden können und der Arbeitsbereich sicher verlassen werden kann.
     - 12. :: Es muss ein Autoklav oder ein gleichwertiges Gerät zur Inaktivierung oder Sterilisation mit ausreichender Kapazität in den Tierräumen vorhanden oder innerhalb desselben Gebäudes verfügbar sein.
   - b. :: Organisatorische Sicherheitsmaßnahmen
-    - 1. :: Die Tierräume sind als Gentechnik-Arbeitsbereich der Sicherheitsstufe 2 zu kennzeichnen. Die Räumlichkeiten sind zusätzlich mit dem Warnzeichen �Biogefährdung“ zu kennzeichnen.
+    - 1. :: Die Tierräume sind als Gentechnik-Arbeitsbereich der Sicherheitsstufe 2 zu kennzeichnen. Die Räumlichkeiten sind zusätzlich mit dem Warnzeichen Biogefährdung“ zu kennzeichnen.
     - 2. :: Zutritt zu den Tierräumen haben außer den an den gentechnischen Arbeiten Beteiligten nur Personen, die vom Projektleiter oder durch von ihm autorisierte Dritte hierzu ermächtigt wurden. Hierauf ist durch geeignete Kennzeichnung an den Zugängen hinzuweisen.
     - 3. :: Fenster und Türen müssen während der Arbeiten geschlossen sein.
     - 4. :: In Tierräumen, in denen infizierte Tiere untergebracht sind, sollen keine anderen Tiere gehalten werden, es sei denn, Kreuzkontaminationen sind nicht möglich, wie zum Beispiel bei Nutzung spezieller isolierender Haltungssysteme. Die Türen sind mit einem Hinweis auf die Art der gentechnischen Arbeiten zu versehen.
@@ -1281,7 +1281,7 @@ Nach § 16 Absatz 2 sind, sofern in Tierräumen mit gentechnisch veränderten Mi
     - 17. :: Für sicherheitsrelevante Einrichtungen wie Lüftungsanlagen einschließlich Ventilationssystemen, Notruf- und Überwachungseinrichtungen, mikrobiologische Sicherheitswerkbänke und die Atemluftversorgung der fremdbelüfteten Vollschutzanzüge ist eine Notstromversorgung einzurichten. Es ist eine Sicherheitsbeleuchtung einzurichten, damit bei Stromausfall die Arbeiten sicher beendet werden können, die Tiere angemessen untergebracht werden können und der Arbeitsbereich sicher verlassen werden kann.
     - 18. :: Bei der Planung sicherheitsrelevanter technischer Anlagen wie zum Beispiel raumlufttechnischer Anlagen, Abwasserbehandlungsanlagen und Autoklaven ist prinzipiell auch das Vorgehen bei Störungen und Wartungen zu berücksichtigen. Die raumlufttechnische Anlage ist so auszulegen, dass ein Filterwechsel ohne Verletzung des Sicherheitsstandards möglich ist, da die Tierräume andernfalls vor dem Filterwechsel stillgelegt und desinfiziert werden müssten. Bei größeren Anlagen ist es zweckmäßig, die raumlufttechnische Anlage so zu unterteilen, dass im Störungsfall bzw. während der Wartungsarbeiten ein Teilbetrieb möglich ist.
   - b. :: Organisatorische Sicherheitsmaßnahmen
-    - 1. :: Die Tierräume sind als Gentechnik-Arbeitsbereich der Sicherheitsstufe 4 zu kennzeichnen. Die Räumlichkeiten sind zusätzlich mit dem Warnzeichen �Biogefährdung“ zu kennzeichnen.
+    - 1. :: Die Tierräume sind als Gentechnik-Arbeitsbereich der Sicherheitsstufe 4 zu kennzeichnen. Die Räumlichkeiten sind zusätzlich mit dem Warnzeichen Biogefährdung“ zu kennzeichnen.
     - 2. :: Der Zutritt ist auf die Personen zu beschränken, deren Anwesenheit im Tierraum zur Durchführung der gentechnischen Arbeiten erforderlich ist und die zum Eintritt befugt sind. Hierauf ist durch geeignete Kennzeichnung an den Zugängen hinzuweisen. Der Projektleiter ist verantwortlich für die Bestimmung der zutrittsberechtigten Personen. Die Anwesenheit von Personen ist zu dokumentieren.
     - 3. :: Im Tierraum darf niemals eine Person allein tätig sein, es sei denn, es besteht eine kontinuierliche Sicht- und Sprachverbindung (zum Beispiel Kamera- und Funkverbindung) und es ist für den Fall eines Notfalls ausreichend Personal vor Ort verfügbar.
     - 4. :: In Tierräumen, in denen infizierte Tiere untergebracht sind, sollen keine anderen Tiere gehalten werden, es sei denn, Kreuzkontaminationen sind nicht möglich, wie zum Beispiel bei Nutzung spezieller isolierter Haltungssysteme. Die Türen sind mit einem entsprechenden Hinweis auf die Art der gentechnischen Arbeiten zu versehen.

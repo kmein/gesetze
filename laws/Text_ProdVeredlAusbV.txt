@@ -192,7 +192,7 @@ Zuordnen, Bearbeiten und Handhaben von Werk-, Betriebs- und Hilfsstoffen (§ 4 N
 a)
 Werkstoffe identifizieren, nach Verwendungszweck unterscheiden und bearbeiten, Prüftechniken anwenden
 12
-�
+
 b)
 Betriebs- und Hilfsstoffe unter Beachtung der Sicherheitsvorschriften auswählen
 c)
@@ -207,7 +207,7 @@ g)
 Betriebs- und Hilfsstoffe unter Beachtung der Sicherheitsbestimmungen, des Arbeits- und Umweltschutzes ressourcensparend einsetzen und für die Rückgewinnung, Wiederverwertung und Entsorgung kennzeichnen
 h)
 Einfluss von Werkstoffeigenschaften auf Veredlungsprozesse und auf Fertigprodukte berücksichtigen
-�
+
 10
 i)
 Gebrauchs- und Pflegeanforderungen von Textilien unterscheiden
@@ -218,7 +218,7 @@ Betriebliche und technische Kommunikation (§ 4 Nr. 6)
 a)
 Informationen beschaffen, aufbereiten und bewerten
 8
-�
+
 b)
 betriebliche Vorschriften beachten
 c)
@@ -238,14 +238,14 @@ Planen und Vorbereiten von Arbeitsabläufen (§ 4 Nr. 7)
 a)
 Auftragsunterlagen prüfen, Auftragsziele im eigenen Arbeitsbereich festlegen
 4
-�
+
 b)
 Werk-, Betriebs- und Hilfsstoffe sowie Arbeitsmittel auswählen und bereitstellen
 c)
 Arbeitsplätze nach ergonomischen und sicherheitsrelevanten Gesichtspunkten einrichten
 d)
 Aufgaben im Team planen und durchführen
-�
+
 2
 e)
 Arbeitsabläufe und Arbeitsschritte unter Beachtung wirtschaftlicher und terminlicher Vorgaben planen und mit vor- und nachgelagerten Bereichen abstimmen, festlegen und dokumentieren
@@ -254,14 +254,14 @@ Kontrollieren von textilen Veredlungsprozessen und Prüfen von Kenndaten (§ 4 N
 a)
 Prüfverfahren und -mittel nach Verwendungszweck auswählen
 12
-�
+
 b)
 Prozessabläufe kontrollieren, Prüfungen unter Berücksichtigung von Vorgaben, Toleranzen und Prüfnormen durchführen
 c)
 Prüfergebnisse dokumentieren und bewerten
 d)
 optische Messungen durchführen und deren Ergebnisse bewerten, insbesondere unter Berücksichtigung von unterschiedlichen Lichtarten
-�
+
 14
 e)
 Prüfverfahren für Eingangs-, Prozess- und Endkontrolle anwenden, Ergebnisse auswerten und bei Bedarf Maßnahmen einleiten
@@ -276,12 +276,12 @@ Einsatz von Wasser und Energie (§ 4 Nr. 9)
 a)
 Sekundäranlagen unterscheiden
 4
-�
+
 b)
 Wasserarten unterscheiden und prozessbezogen einsetzen, Wärmeträger und Energiearten anwenden
 c)
 Verfahren zur Wasseraufbereitung und -behandlung unterscheiden
-�
+
 3
 d)
 betriebliche Energiekonzepte anwenden
@@ -290,21 +290,21 @@ Steuerungs- und Regelungstechnik (§ 4 Nr. 10)
 a)
 Steuerungssysteme sowie Methoden des Steuerns und Regelns unterscheiden
 8
-�
+
 b)
 Überwachungseinrichtungen nach Aufbau und Funktion unterscheiden
 c)
 Steuerungs- und Regelungseinrichtungen an Maschinen und Anlagen unter Beachtung der Sicherheitsvorschriften überwachen und bedienen
 d)
 Maschinen und Anlagen zur Änderung von Produkteigenschaften steuern
-�
+
 6
 11
 Einrichten, Bedienen und Überwachen von Maschinen und Anlagen (§ 4 Nr. 11)
 a)
 Maschinen und Anlagen hinsichtlich Funktion und Einsatz unterscheiden
 10
-�
+
 b)
 Kennzeichnung von Rohrleitungssystemen unterscheiden
 c)
@@ -315,7 +315,7 @@ e)
 maschinen- und prozessbezogene Berechnungen durchführen
 f)
 Prozessdaten einstellen, Maschinen und Anlagen unter Berücksichtigung von Sicherheitsbestimmungen in Betrieb nehmen
-�
+
 14
 g)
 Zugabe von Veredlungsmitteln unter Berücksichtigung von Sicherheitsregeln und Umweltschutzauflagen überwachen, Dosier- und Zugabefehler feststellen, Maßnahmen ergreifen und einleiten
@@ -334,7 +334,7 @@ Steuern des Materialflusses (§ 4 Nr. 12)
 a)
 Werk-, Betriebs- und Hilfsstoffe sowie Produkte transportieren und lagern
 4
-�
+
 b)
 Materialfluss im eigenen Arbeitsbereich überwachen und sicherstellen
 c)
@@ -344,10 +344,10 @@ Sicherstellen von Prozessabläufen (§ 4 Nr. 13)
 a)
 Textilveredlungsprozesse und technische Zusammenhänge unterscheiden
 4
-�
+
 b)
 betriebsspezifische Prozesse überwachen, physikalische und chemische Zusammenhänge berücksichtigen
-�
+
 12
 c)
 physikalische Größen feststellen und Kenndaten ermitteln, insbesondere Länge, Breite, Dichte, Temperatur, Zeit, Druck, Konzentration, Farbton und Viskosität
@@ -362,12 +362,12 @@ Produktionsökologie (§ 4 Nr. 14)
 a)
 Vorschriften des betrieblichen Umweltschutzes einhalten
 4
-�
+
 b)
 Abfälle umweltgerecht sortieren, handhaben und lagern
 c)
 Prozesse umweltgerecht durchführen, Ursachen von Werk-, Betriebs- und Hilfsstoffverlusten sowie Energie- und Wasserverlusten feststellen, Maßnahmen zur Verminderung und Beseitigung einleiten
-�
+
 3
 d)
 Ursachen von Lärm-, Luft- und Abwasserbelastungen feststellen und zu ihrer Vermeidung beitragen
@@ -376,14 +376,14 @@ Instandhaltung (§ 4 Nr. 15)
 a)
 Werkzeuge, Maschinen und Anlagen kontrollieren und warten, Reparaturen veranlassen
 5
-�
+
 b)
 Maschinen und Anlagen auf Betriebsbereitschaft prüfen und in Betrieb nehmen
 c)
 Wartungsarbeiten dokumentieren
 d)
 Schäden, insbesondere durch Korrosion und Ablagerungen, feststellen, beheben und Maßnahmen zu ihrer Vermeidung einleiten
-�
+
 8
 e)
 Maschinenstörungen feststellen und Fehlerbeseitigung einleiten, Vorbeugungsmaßnahmen zur Verringerung von Maschinenstillständen ergreifen
@@ -394,14 +394,14 @@ Durchführen von qualitätssichernden Maßnahmen (§ 4 Nr. 16)
 a)
 Aufgaben und Ziele von qualitätssichernden Maßnahmen unterscheiden
 3
-�
+
 b)
 Arbeiten kundenorientiert durchführen, Produkte kundengerecht kennzeichnen und aufmachen
 c)
 produktions- und veredlungstechnische Daten dokumentieren
 d)
 Arbeitsabläufe auf Einhaltung der Qualitätsstandards prüfen
-�
+
 6
 e)
 Ursachen von veredlungsspezifischen Qualitätsabweichungen feststellen

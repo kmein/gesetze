@@ -120,21 +120,21 @@ Nummer der Eintragung
 
 2
 
-†
+
 
 - b) :: Jung, Ute, Rechtsanw√§ltin, Augsburg, geb. 15. Oktober 1965. Ute Jung ist als Partnerin in die Partnerschaft eingetreten. *) Ute Jung ist nur gemeinsam mit Peter M√ºller oder Christian Schmidt vertretungsberechtigt.
 
-†
+
 
 - a) :: 10. Oktober 2001 Schirmer
 
 3
 
-†
+
 
 - b) :: Jung, Ute, ist nun einzelvertretungsberechtigt. *)
 
-†
+
 
 - a) :: 1. Januar 2002 Schirmer
 
@@ -142,9 +142,9 @@ Nummer der Eintragung
 
 - b) :: In Augsburg ist eine Zweigniederlassung (Amtsgericht Augsburg, PR 345) errichtet.
 
-†
 
-†
+
+
 
 - a) :: 5. Februar 2002 Schirmer
 
@@ -152,7 +152,7 @@ Nummer der Eintragung
 
 - a) :: M√ºller, Schmidt und Partner, Rechtsanw√§lte und Steuerberater
 
-†
+
 
 - b) :: der Name der Partnerschaft ist ge√§ndert. *)
 
@@ -160,7 +160,7 @@ Nummer der Eintragung
 
 6
 
-†
+
 
 - a) :: Die Liquidatoren sind nur gemeinsam zur Vertretung der Partnerschaft berechtigt.
 - b) :: Liquidatoren: Schmidt, Christian, Steuerberater, M√ºnchen, geb. 12. Mai 1967; Jung, Ute, Rechtsanw√§ltin, Augsburg, geb. 15. Oktober 1965
@@ -171,15 +171,15 @@ Nummer der Eintragung
 
 7
 
-†
 
-†
+
+
 
 - b) :: Der Name der Partnerschaft ist erloschen. ++)
 
 - a) :: 30. April 2003 Scholz
 
-†
+
 
 Anmerkung: Die Kopfzeile und die Spalten√ºberschriften m√ºssen beim Abruf der Registerdaten auf dem Bildschirm stets sichtbar sein.
 

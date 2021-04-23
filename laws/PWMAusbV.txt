@@ -10,35 +10,35 @@ Auf Grund des § 25 Absatz 1 Satz 1 der Handwerksordnung in der Fassung der Beka
 
 Inhaltsübersicht
 
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 § 1 - Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf des Präzisionswerkzeugmechanikers und der Präzisionswerkzeugmechanikerin wird nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe nach Anlage B Abschnitt 1 Nummer 10 �Schneidwerkzeugmechaniker“ der Handwerksordnung staatlich anerkannt.
+Der Ausbildungsberuf des Präzisionswerkzeugmechanikers und der Präzisionswerkzeugmechanikerin wird nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe nach Anlage B Abschnitt 1 Nummer 10 Schneidwerkzeugmechaniker“ der Handwerksordnung staatlich anerkannt.
 
 § 2 - Dauer der Berufsausbildung
 
@@ -226,15 +226,15 @@ Teil 2 der Gesellenprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (2) Die Gesellenprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
-- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens �ausreichend“,
-- 2. :: im Ergebnis von Teil 2 mit mindestens �ausreichend“,
-- 3. :: im Prüfungsbereich �Arbeitsplanung“ mit mindestens �ausreichend“,
-- 4. :: in mindestens zwei weiteren Prüfungsbereichen von Teil 2 mit mindestens �ausreichend“ und
-- 5. :: in keinem Prüfungsbereich von Teil 2 mit �ungenügend“.
+- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens ausreichend“,
+- 2. :: im Ergebnis von Teil 2 mit mindestens ausreichend“,
+- 3. :: im Prüfungsbereich Arbeitsplanung“ mit mindestens ausreichend“,
+- 4. :: in mindestens zwei weiteren Prüfungsbereichen von Teil 2 mit mindestens ausreichend“ und
+- 5. :: in keinem Prüfungsbereich von Teil 2 mit ungenügend“.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche �Arbeitsplanung“ oder �Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche Arbeitsplanung“ oder Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-- 1. :: der Prüfungsbereich schlechter als mit �ausreichend“ bewertet worden ist und
+- 1. :: der Prüfungsbereich schlechter als mit ausreichend“ bewertet worden ist und
 - 2. :: die mündliche Ergänzungsprüfung für das Bestehen der Gesellenprüfung den Ausschlag geben kann.
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
@@ -330,15 +330,15 @@ Teil 2 der Gesellenprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (2) Die Gesellenprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
-- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens �ausreichend“,
-- 2. :: im Ergebnis von Teil 2 mit mindestens �ausreichend“,
-- 3. :: im Prüfungsbereich �Arbeitsplanung“ mit mindestens �ausreichend“,
-- 4. :: in mindestens zwei weiteren Prüfungsbereichen von Teil 2 mit mindestens �ausreichend“ und
-- 5. :: in keinem Prüfungsbereich von Teil 2 mit �ungenügend“.
+- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens ausreichend“,
+- 2. :: im Ergebnis von Teil 2 mit mindestens ausreichend“,
+- 3. :: im Prüfungsbereich Arbeitsplanung“ mit mindestens ausreichend“,
+- 4. :: in mindestens zwei weiteren Prüfungsbereichen von Teil 2 mit mindestens ausreichend“ und
+- 5. :: in keinem Prüfungsbereich von Teil 2 mit ungenügend“.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche �Arbeitsplanung“ oder �Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche Arbeitsplanung“ oder Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-- 1. :: der Prüfungsbereich schlechter als mit �ausreichend“ bewertet worden ist und
+- 1. :: der Prüfungsbereich schlechter als mit ausreichend“ bewertet worden ist und
 - 2. :: die mündliche Ergänzungsprüfung für das Bestehen der Gesellenprüfung den Ausschlag geben kann.
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
@@ -366,7 +366,7 @@ Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisheri
 (4) Für den Nachweis nach Absatz 3 ist ein Messerrohling herzustellen.
 (5) Der Prüfling soll ein Prüfungsstück herstellen und mit praxisbezogenen Unterlagen dokumentieren. Nach der Herstellung des Prüfungsstücks wird mit dem Prüfling zum Prüfungsstück ein auftragsbezogenes Fachgespräch geführt.
 (6) Die Prüfungszeit beträgt insgesamt drei Stunden. Das auftragsbezogene Fachgespräch dauert höchstens 20 Minuten.
-(7) Die Prüfung der Zusatzqualifikation ist bestanden, wenn die Prüfungsleistung mit mindestens �ausreichend“ bewertet worden ist.
+(7) Die Prüfung der Zusatzqualifikation ist bestanden, wenn die Prüfungsleistung mit mindestens ausreichend“ bewertet worden ist.
 
 § 25 - Anrechnung von Ausbildungszeiten
 

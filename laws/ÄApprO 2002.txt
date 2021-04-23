@@ -777,7 +777,7 @@ hat regelmäßig und ordnungsgemäß an der unter meiner Leitung in der/dem unte
 |                                                                                             |
 
 Die Ausbildung wurde in
-�
+
 
 - □ :: Vollzeit
 - □ :: Teilzeit mit einem Umfang von             % der wöchentlichen Ausbildungszeit
@@ -1030,12 +1030,12 @@ Anlage 11a - (zu § 2 Absatz 8 Satz 4, § 27 Absatz 5 Satz 3 und § 29)
 \\
 \\
 (Vorderseite)
- ........................              �
+ ........................              
 (Ausstellende Stelle)
 Der/Die Studierende der Medizin ..........
 geboren am .......... in ..........
 hat den Zweiten Abschnitt der Ärztlichen Prüfung am ..........\\
-in .......... mit der Note � .......... “ abgelegt.
+in .......... mit der Note  .......... “ abgelegt.
 (Rückseite)
 Er/Sie hat bei der Benotung der Leistungsnachweise für den Zweiten Abschnitt der Ärztlichen Prüfung folgende Noten erreicht:
      Siegel oder Stempel
@@ -1055,8 +1055,8 @@ Anlage 12 - (zu § 13 Absatz 4, §§ 32, 33 Absatz 2, § 41 Absatz 3 und § 43 A
 Der/Die Studierende der Medizin ..........
 geboren am .......... in ..........
 hat den Dritten Abschnitt der Ärztlichen Prüfung am ..........\\
-in .......... mit der Note � .......... “ abgelegt.
-Unter Berücksichtigung der Prüfungsnoten für den Ersten Abschnitt und den Zweiten Abschnitt der Ärztlichen Prüfung<<FnR.F777369_01>>[[#F777369_01][1)]]} hat er/sie die Ärztliche Prüfung mit der Gesamtnote � .......... “ (.......... ) am .......... \\
+in .......... mit der Note  .......... “ abgelegt.
+Unter Berücksichtigung der Prüfungsnoten für den Ersten Abschnitt und den Zweiten Abschnitt der Ärztlichen Prüfung<<FnR.F777369_01>>[[#F777369_01][1)]]} hat er/sie die Ärztliche Prüfung mit der Gesamtnote  .......... “ (.......... ) am .......... \\
 bestanden.<<FnR.F777369_02>>[[#F777369_02][2)]]}
 (Zahlenwert)
 Herr/Frau ..........
@@ -1106,7 +1106,7 @@ Anlage 14 - (zu § 40 Satz 1)Approbationsurkunde
 Anlage 15 - (zu § 28 Absatz 3 Satz 2)Prüfungsstoff für den Zweiten Abschnitt der Ärztlichen Prüfung
 
 (Fundstelle: BGBl. I 2002, 2435; bzgl. der einzelnen Änderungen vgl. Fußnote)
-�
+
 Die Prüfungsaufgaben sollen unter Aspekten der allgemeinen ärztlichen Tätigkeit auf die wichtigsten Krankheitsbilder und Gesundheitsstörungen abgestellt sein. Dies sind insbesondere solche, die sich durch ihre Verbreitung, ihre Folgen für den Einzelnen oder die Gesellschaft auszeichnen.\\
 Hierzu zählen
 

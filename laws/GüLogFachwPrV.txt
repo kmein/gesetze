@@ -25,7 +25,7 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und des § 30 Absatz 5 d
 - 10. :: Gestalten der Kommunikation und Kooperation nach innen und außen,
 - 11. :: Mitgestalten des Qualitäts-, Gesundheits- und Umweltmanagements.
 
-(3) Die bestandene Prüfung führt zum anerkannten Fortbildungsabschluss �Geprüfter Fachwirt für Güterverkehr und Logistik“ oder �Geprüfte Fachwirtin für Güterverkehr und Logistik“.
+(3) Die bestandene Prüfung führt zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt für Güterverkehr und Logistik“ oder Geprüfte Fachwirtin für Güterverkehr und Logistik“.
 
 § 2 - Zulassungsvoraussetzungen
 
@@ -51,14 +51,14 @@ nachweist.
 
 (3) Die schriftliche Prüfung wird auf der Grundlage einer betrieblichen Situationsbeschreibung mit zwei gleichgewichtigen, daraus abgeleiteten aufeinander abgestimmten offenen Aufgabenstellungen, die eigenständige Lösungen ermöglichen, durchgeführt, wobei alle Handlungsbereiche situationsbezogen zu thematisieren sind. Die gesamte Bearbeitungsdauer soll 600 Minuten betragen.
 (4) Nach bestandener schriftlicher Prüfung wird die mündliche Prüfung durchgeführt. Die mündliche Prüfung gliedert sich in eine Präsentation und ein Fachgespräch. In ihr soll auch nachgewiesen werden, dass angemessen und sachgerecht kommuniziert und präsentiert werden kann.
-(5) In der Präsentation nach Absatz 4 soll nachgewiesen werden, dass eine komplexe Aufgabe der betrieblichen Praxis erfasst, dargestellt, beurteilt und gelöst werden kann. Die Themenstellung muss sich auf zwei der Handlungsbereiche nach Absatz 2 beziehen, von denen einer der Handlungsbereich �Kommunikation, Führung und Zusammenarbeit“ ist. Die Präsentationszeit soll zehn Minuten nicht überschreiten.
+(5) In der Präsentation nach Absatz 4 soll nachgewiesen werden, dass eine komplexe Aufgabe der betrieblichen Praxis erfasst, dargestellt, beurteilt und gelöst werden kann. Die Themenstellung muss sich auf zwei der Handlungsbereiche nach Absatz 2 beziehen, von denen einer der Handlungsbereich Kommunikation, Führung und Zusammenarbeit“ ist. Die Präsentationszeit soll zehn Minuten nicht überschreiten.
 (6) Das Thema der Präsentation wird von der zu prüfenden Person gewählt und mit einer Kurzbeschreibung der Aufgabe, des Ziels und einer Gliederung dem Prüfungsausschuss zum Termin der schriftlichen Prüfung eingereicht.
 (7) Im Fachgespräch soll ausgehend von der Präsentation die Fähigkeit nachgewiesen werden, betriebspraktische Probleme zu analysieren und Lösungsmöglichkeiten unter Beachtung der maßgebenden Einflussfaktoren zu bewerten. Das Fachgespräch soll in der Regel 20 Minuten dauern.
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
 § 4 - Inhalte der Prüfung
 
-(1) Im Handlungsbereich �Entwickeln und Vermarkten von Güterverkehrs- und Logistikdienstleistungen“ soll die Fähigkeit nachgewiesen werden, an der Gestaltung des Leistungsangebots und der Marketingstrategie unter Berücksichtigung des Qualitäts- und Umweltmanagements, der wirtschaftlichen, ökologischen, technischen, informationstechnischen und rechtlichen Anforderungen sowie der verkehrspolitischen Rahmenbedingungen mitzuwirken und kundengerechte Leistungen anzubieten. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(1) Im Handlungsbereich Entwickeln und Vermarkten von Güterverkehrs- und Logistikdienstleistungen“ soll die Fähigkeit nachgewiesen werden, an der Gestaltung des Leistungsangebots und der Marketingstrategie unter Berücksichtigung des Qualitäts- und Umweltmanagements, der wirtschaftlichen, ökologischen, technischen, informationstechnischen und rechtlichen Anforderungen sowie der verkehrspolitischen Rahmenbedingungen mitzuwirken und kundengerechte Leistungen anzubieten. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: Mitwirken bei der Gestaltung und Weiterentwicklung des Qualitäts- und Umweltmanagements,
 - 2. :: Bewerten der Entwicklungen auf den nationalen und internationalen Güterverkehrs- und Logistikmärkten und Ableiten von Maßnahmen,
@@ -68,7 +68,7 @@ nachweist.
 - 6. :: Erarbeiten, Präsentieren und Verhandeln von Leistungsangeboten,
 - 7. :: Mitwirken bei der Entwicklung und Umsetzung eines Marketingplans.
 
-(2) Im Handlungsbereich �Erstellen von Güterverkehrs- und Logistikdienstleistungen“ soll die Fähigkeit nachgewiesen werden, die Leistungserstellung unter Berücksichtigung der Wirtschaftlichkeit, der gesetzlichen, vertraglichen, technischen, organisatorischen und betrieblichen Anforderungen sowie der Ordnungsrahmen und der Leistungsmerkmale der Verkehrsträger zu planen, zu koordinieren, zu steuern und zu überwachen. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(2) Im Handlungsbereich Erstellen von Güterverkehrs- und Logistikdienstleistungen“ soll die Fähigkeit nachgewiesen werden, die Leistungserstellung unter Berücksichtigung der Wirtschaftlichkeit, der gesetzlichen, vertraglichen, technischen, organisatorischen und betrieblichen Anforderungen sowie der Ordnungsrahmen und der Leistungsmerkmale der Verkehrsträger zu planen, zu koordinieren, zu steuern und zu überwachen. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: Planen, Steuern und Optimieren von Güterverkehrs- und Logistikdienstleistungen,
 - 2. :: Erstellen von Ausschreibungen für die Vergabe von Güterverkehrs- und Logistikdienstleistungen und Bewerten von Angeboten,
@@ -78,7 +78,7 @@ nachweist.
 - 6. :: Umsetzen von internen und externen Auflagen zur Lieferkettensicherheit,
 - 7. :: Berücksichtigen von außenwirtschaftlichen Vorschriften bei der Planung von Lieferketten.
 
-(3) Im Handlungsbereich �Kommunikation, Führung und Zusammenarbeit“ soll die Fähigkeit nachgewiesen werden, zielorientiert mit Mitarbeitern, Auszubildenden, Geschäftspartnern und Kunden zu kommunizieren und zu kooperieren, Methoden der Kommunikation und des Konfliktmanagements situationsgerecht einzusetzen und ethische Grundsätze zu berücksichtigen. Darüber hinaus soll gezeigt werden, dass Mitarbeiter, Auszubildende und Projektgruppen unter Beachtung der rechtlichen und betrieblichen Rahmenbedingungen sowie der Unternehmensziele geführt und motiviert werden können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(3) Im Handlungsbereich Kommunikation, Führung und Zusammenarbeit“ soll die Fähigkeit nachgewiesen werden, zielorientiert mit Mitarbeitern, Auszubildenden, Geschäftspartnern und Kunden zu kommunizieren und zu kooperieren, Methoden der Kommunikation und des Konfliktmanagements situationsgerecht einzusetzen und ethische Grundsätze zu berücksichtigen. Darüber hinaus soll gezeigt werden, dass Mitarbeiter, Auszubildende und Projektgruppen unter Beachtung der rechtlichen und betrieblichen Rahmenbedingungen sowie der Unternehmensziele geführt und motiviert werden können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: situationsgerechtes Kommunizieren mit internen und externen Partnern sowie zielgerichtetes Einsetzen von Präsentationstechniken,
 - 2. :: Festlegen und Begründen von Kriterien für die Personalauswahl sowie Mitwirken bei der Personalrekrutierung,

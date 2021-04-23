@@ -147,15 +147,15 @@ Anlage - (zu ¬ß 6)Ausbildungsrahmenplan f√ºr die Berufsausbildung zum Bauwerksab
 (Fundstelle: BGBl. I 1997, 949 - 954)
 \\
 I. Berufliche Grundbildung
-†
-†
-†
-†
-†
-†
-†
-†
-†
+
+
+
+
+
+
+
+
+
 Lfd. Nr.
 Teil des Ausbildungsberufsbildes
 Fertigkeiten und Kenntnisse, die unter Einbeziehung selbst√§ndigen Planens, Durchf√ºhrens und Kontrollierens zu vermitteln sind
@@ -215,13 +215,13 @@ i)
 Ma√ünahmen der Ersten Hilfe einleiten
 k)
 zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
-†
+
 aa)
 f√ºr den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes beachten
-†
+
 bb)
 M√∂glichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
-†
+
 cc)
 Reststoffe getrennt der Entsorgung zuf√ºhren
 5
@@ -247,9 +247,9 @@ Aufstellen und Pr√ºfen von Arbeits- und Schutzger√ºsten, Pr√ºfen von Baugruben u
 a)
 Betriebssicherheit von Arbeits- und Schutzger√ºsten pr√ºfen, Herstellen der Betriebssicherheit veranlassen
 4
-†
-†
-†
+
+
+
 b)
 Arbeits- und Schutzger√ºste aufstellen, unterhalten und abbauen
 c)
@@ -263,9 +263,9 @@ Lesen und Anfertigen von Skizzen, Zeichnungen und Verlegepl√§nen, Durchf√ºhren v
 a)
 Pl√§ne, Zeichnungen, Verlegepl√§ne und St√ºcklisten lesen und anwenden
 6
-†
-†
-†
+
+
+
 b)
 technische Tabellen, Handb√ºcher, Normen, Richtlinien und Merkbl√§tter anwenden
 c)
@@ -287,9 +287,9 @@ Pr√ºfen von Bau- und Bauhilfsstoffen nach Art und Menge, Lagern und Transportier
 a)
 Bau- und Bauhilfsstoffe den unterschiedlichen Verwendungszwecken zuordnen
 6
-†
-†
-†
+
+
+
 b)
 Klebemassen und Anstriche, insbesondere Bitumen, Voranstriche, gef√ºllte Massen und Vergu√ümassen, pr√ºfen und lagern
 c)
@@ -309,9 +309,9 @@ Bereitstellen von Bau- und Bauhilfsstoffen, Werkzeugen und Bauger√§ten, Inbetrie
 a)
 Bau- und Bauhilfsstoffe, Werkzeuge und Bauger√§te bereitstellen
 8
-†
-†
-†
+
+
+
 b)
 Kleinger√§te und Werkzeuge instandhalten
 c)
@@ -325,9 +325,9 @@ Ausf√ºhren von Holzarbeiten (¬ß 5 Nr. 10)
 a)
 Schalungen herstellen
 6
-†
-†
-†
+
+
+
 b)
 Holzschutzmittel auftragen
 c)
@@ -339,9 +339,9 @@ Ausf√ºhren von Mauer-, Putz-, Beton- und Stemmarbeiten (¬ß 5 Nr. 11)
 a)
 M√∂rtel- und Betonmischungen herstellen und einbauen
 8
-†
-†
-†
+
+
+
 b)
 Mauerwerk und Putz ausbessern
 c)
@@ -351,9 +351,9 @@ Verarbeiten von Abdichtungs- und D√§mmstoffen (¬ß 5 Nr. 12)
 a)
 Abdichtungs- und D√§mmstoffe messen und zuschneiden
 14
-†
-†
-†
+
+
+
 b)
 Anstrichmittel auftragen
 c)
@@ -379,19 +379,19 @@ Zeitliche Richtwerte in Wochen im Ausbildungsjahr
 Pr√ºfen von Bau- und Bauhilfsstoffen nach Art und Menge, Lagern und Transportieren (¬ß 5 Nr. 8)
 a)
 Befestigungsmittel pr√ºfen und dem Verwendungszweck zuordnen
-†
+
 2
-†
-†
+
+
 b)
 D√§mmstoffe pr√ºfen und lagern
 2
 Ausf√ºhren von Mauer-, Putz-, Beton- und Stemmarbeiten (¬ß 5 Nr. 11)
 a)
 Betonoberfl√§chen im Hinblick auf Abdichtungsarbeiten pr√ºfen
-†
-†
-†
+
+
+
 6
 b)
 Betonoberfl√§chen ausbessern
@@ -399,47 +399,47 @@ Betonoberfl√§chen ausbessern
 Verarbeiten von Abdichtungs- und D√§mmstoffen (¬ß 5 Nr. 12)
 a)
 Bitumen-, Polymerbitumen- und Kunststoffbahnen sowie Metallb√§nder verkleben, insbesondere im
-†
+
 10
-†
-†
-†
+
+
+
 -
 B√ºrstenstreichverfahren,
-†
+
 -
 Gie√üverfahren,
-†
+
 -
 Gie√ü- und Einwalzverfahren,
-†
+
 -
 Schwei√üverfahren sowie durch
-†
+
 -
 Auftragen von Kunststoffklebern
 b)
 Art der Nahtverbindungen entsprechend dem Baustoff festlegen und Nahtverbindungen herstellen, bei Kunststoffbahnen insbesondere durch
-†
+
 -
 Quellschwei√üen,
-†
+
 -
 Warmgasschwei√üen,
-†
+
 -
 Heizkeilschwei√üen und
-†
+
 -
 Kleben mit Kontaktklebern
 c)
 D√§mmstoffe einbauen
 d)
 Bitumen-, Polymerbitumen- und Kunststoffbahnen durch loses Verlegen und mechanisches Befestigen einbauen
-†
-†
+
+
 4
-†
+
 e)
 Dichtungsb√§nder einlegen und Abdeckb√§nder aufsetzen
 f)
@@ -450,10 +450,10 @@ Fl√ºssigkunststoffe auftragen
 Vorbereiten der Abdichtungsarbeiten auf der Baustelle (¬ß 5 Nr. 13)
 a)
 Zweckm√§√üigkeit der Abdichtungsma√ünahme, insbesondere hinsichtlich des W√§rme- und Brandschutzes, vor Ort pr√ºfen
-†
-†
+
+
 6
-†
+
 b)
 Witterungsverh√§ltnisse im Hinblick auf die Art der Abdichtung einsch√§tzen und entsprechende Ma√ünahmen veranlassen
 c)
@@ -464,20 +464,20 @@ Temperatur und Feuchte der Abdichtungsunterlage und der Luft pr√ºfen
 Abdichten gegen Bodenfeuchtigkeit, gegen nichtdr√ºckendes und gegen dr√ºckendes Wasser (¬ß 5 Nr. 14)
 a)
 waagerechte, lotrechte, geneigte und geformte Fl√§chen abdichten
-†
+
 14
-†
-†
+
+
 b)
 Ecken, Kanten, Vor- und R√ºckspr√ºnge abdichten
 c)
 Abdichtungsan- und -abschl√ºsse herstellen
 d)
 Kehranschl√ºsse herstellen
-†
-†
+
+
 10
-†
+
 e)
 r√ºckl√§ufige und umgelegte St√∂√üe herstellen
 f)
@@ -492,9 +492,9 @@ k)
 Schutzma√ünahmen f√ºr die Abdichtung bei Arbeitsunterbrechungen ergreifen
 l)
 Bewegungsfugen unter Beachtung lotrechter, waagerechter und kombinierter Bewegungen durch Verst√§rkungen und Fugenflanschenkonstruktionen herstellen
-†
-†
-†
+
+
+
 8
 m)
 bestehende Abdichtungen pr√ºfen, Verbindungen zwischen bestehenden und neuen Abdichtungen herstellen
@@ -504,19 +504,19 @@ Abdichtungen ausbessern
 Abdichten von D√§chern (¬ß 5 Nr. 15)
 a)
 waagerechte, lotrechte, geneigte und geformte Dachfl√§chen sowie Ecken, Kanten und Rundungen an Dachkonstruktionen abdichten
-†
-†
+
+
 6
-†
+
 b)
 Abdichtungsan- und -abschl√ºsse, insbesondere Wandanschl√ºsse, Attikaanschl√ºsse und Dachrandabschl√ºsse, herstellen
 c)
 Kehlen ausbilden
 d)
 Anschl√ºsse an Lichtkuppeln und Lichtb√§ndern herstellen
-†
-†
-†
+
+
+
 18
 e)
 Dachdurchdringungen und Dachabl√§ufe einbauen und abdichten
@@ -538,9 +538,9 @@ Abdichtungen unter Dachbegr√ºnungen ausf√ºhren
 Abdichten von Verkehrsfl√§chen, insbesondere von Br√ºckentafeln (¬ß 5 Nr. 16)
 a)
 Oberfl√§che des Bauwerkes im Hinblick auf Abdichtungsarbeiten pr√ºfen und Ma√ünahmen veranlassen
-†
-†
-†
+
+
+
 12
 b)
 Abrei√üfestigkeit von Betonoberfl√§chen messen
@@ -558,9 +558,9 @@ Anschl√ºsse an Abschlu√üprofile, Tropft√ºllen und Abl√§ufe herstellen
 Anfertigen von Bauberichten und Aufma√üskizzen, Qualit√§tskontrolle (¬ß 5 Nr. 17)
 a)
 Tages- und Wochenberichte, Stundenlohn- und Baustoffnachweise f√ºhren
-†
-†
-†
+
+
+
 8
 b)
 Bestands- und Aufma√üskizzen von ausgef√ºhrten Abdichtungsarbeiten anfertigen, Baustoffverbrauchsberechnungen durchf√ºhren

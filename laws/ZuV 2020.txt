@@ -38,9 +38,9 @@ Für diese Verordnung gelten neben den Begriffsbestimmungen des § 3 des Treibha
 - 7. :: Monitoring-Leitlinien
   die Entscheidung 2007/589/EG der Kommission vom 18. Juli 2007 zur Festlegung von Leitlinien für die Überwachung und Berichterstattung betreffend Treibhausgasemissionen im Sinne der Richtlinie 2003/87/EG des Europäischen Parlaments und des Rates (Monitoring-Leitlinien) (ABl. L 229 vom 31.8.2007, S. 1), die zuletzt durch den Beschluss 2010/345/EU (ABl. L 155 vom 22.6.2010, S. 34) geändert worden ist;
 - 8. :: NACE-Code Rev 1.1
-  statistische Systematik der Wirtschaftszweige in der Europäischen Gemeinschaft �NACE Rev 1.1“ nach Anhang I der Verordnung (EWG) Nr. 3037/90 des Rates vom 9. Oktober 1990 betreffend die statistische Systematik der Wirtschaftszweige in der Europäischen Gemeinschaft (ABl. L 293 vom 24.10.1990, S. 1), die zuletzt durch die Verordnung (EG) Nr. 1893/2006 (ABl. L 393 vom 30.12.2006, S. 1) geändert worden ist;
+  statistische Systematik der Wirtschaftszweige in der Europäischen Gemeinschaft NACE Rev 1.1“ nach Anhang I der Verordnung (EWG) Nr. 3037/90 des Rates vom 9. Oktober 1990 betreffend die statistische Systematik der Wirtschaftszweige in der Europäischen Gemeinschaft (ABl. L 293 vom 24.10.1990, S. 1), die zuletzt durch die Verordnung (EG) Nr. 1893/2006 (ABl. L 393 vom 30.12.2006, S. 1) geändert worden ist;
 - 9. :: NACE-Code Rev 2
-  statistische Systematik der Wirtschaftszweige in der Europäischen Gemeinschaft �NACE Rev 2“ nach Anhang I der Verordnung (EG) Nr. 1893/2006 des Europäischen Parlaments und des Rates vom 20. Dezember 2006 zur Aufstellung der statistischen Systematik der Wirtschaftszweige NACE Revision 2 und zur Änderung der Verordnung (EWG) Nr. 3037/90 des Rates sowie einiger Verordnungen der EG über bestimmte Bereiche der Statistik (ABl. L 393 vom 30.12.2006, S. 1), die durch die Verordnung (EG) Nr. 295/2008 (ABl. L 97 vom 9.4.2008, S. 13) geändert worden ist;
+  statistische Systematik der Wirtschaftszweige in der Europäischen Gemeinschaft NACE Rev 2“ nach Anhang I der Verordnung (EG) Nr. 1893/2006 des Europäischen Parlaments und des Rates vom 20. Dezember 2006 zur Aufstellung der statistischen Systematik der Wirtschaftszweige NACE Revision 2 und zur Änderung der Verordnung (EWG) Nr. 3037/90 des Rates sowie einiger Verordnungen der EG über bestimmte Bereiche der Statistik (ABl. L 393 vom 30.12.2006, S. 1), die durch die Verordnung (EG) Nr. 295/2008 (ABl. L 97 vom 9.4.2008, S. 13) geändert worden ist;
 - 10. :: Neuanlagen
   alle neuen Marktteilnehmer gemäß Artikel 3 Buchstabe h erster Gedankenstrich der Richtlinie 2003/87/EG;
 - 11. :: nicht messbare Wärme
@@ -48,11 +48,11 @@ Für diese Verordnung gelten neben den Begriffsbestimmungen des § 3 des Treibha
 - 12. :: Privathaushalt
   Gebäude, die überwiegend zu Wohnzwecken genutzt werden, oder anteilig andere Gebäude, soweit sie zu Wohnzwecken genutzt werden;
 - 13. :: Prodcom-Code 2007
-  Code gemä�Prodcom-Liste“ der Industrieprodukte für 2007 gemäß der Verordnung (EWG) Nr. 3924/91 des Rates (ABl. L 268 vom 12.10.2007, S. 1);
+  Code gemäProdcom-Liste“ der Industrieprodukte für 2007 gemäß der Verordnung (EWG) Nr. 3924/91 des Rates (ABl. L 268 vom 12.10.2007, S. 1);
 - 14. :: Prodcom-Code 2010
-  Code gemä�Prodcom-Liste“ der Industrieprodukte für 2010 gemäß der Verordnung (EWG) Nr. 3924/91 des Rates (ABl. L 262 vom 5.10.2010, S. 1);
+  Code gemäProdcom-Liste“ der Industrieprodukte für 2010 gemäß der Verordnung (EWG) Nr. 3924/91 des Rates (ABl. L 262 vom 5.10.2010, S. 1);
 - 15. :: Produkt-Emissionswert
-  in Anhang I Nummer 1 Spalte 5 und Nummer 2 Spalte 5 der einheitlichen EU-Zuteilungsregeln unter der Bezeichnung �Benchmarkwert“ angegebene Anzahl Berechtigungen pro Produkteinheit;
+  in Anhang I Nummer 1 Spalte 5 und Nummer 2 Spalte 5 der einheitlichen EU-Zuteilungsregeln unter der Bezeichnung Benchmarkwert“ angegebene Anzahl Berechtigungen pro Produkteinheit;
 - 16. :: Produktionsmenge
   die Menge erzeugter Produkteinheiten je Jahr, bei den in Anhang I oder Anhang II der einheitlichen EU-Zuteilungsregeln genannten Produkten bezogen auf die dort angegebenen Produktspezifikationen, im Übrigen bezogen auf die jährliche Nettomenge marktfähiger Produkteinheiten;
 - 17. :: Restgas

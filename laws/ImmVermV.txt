@@ -52,7 +52,7 @@ Die Mitglieder des Aufgabenauswahlausschusses sowie ihre Stellvertreter müssen 
 
 Diese Personen dürfen nicht in die laufende Prüfung eingreifen oder in die Beratung über das Prüfungsergebnis einbezogen werden.
 
-(7) Die Leistung des Prüflings ist vom Prüfungsausschuss mit �bestanden“ oder �nicht bestanden“ zu bewerten. Die Prüfung ist bestanden, wenn sowohl der schriftliche als auch der praktische Teil der Prüfung mit �bestanden“ bewertet worden sind. Der schriftliche Teil der Prüfung ist bestanden, wenn der Prüfling in jedem der Sachgebiete nach § 1 Absatz 2 Satz 1 Nummer 2 und 3 mindestens 50 Prozent der erreichbaren Punkte erzielt hat. Der praktische Teil der Prüfung ist bestanden, wenn der Prüfling mindestens 50 Prozent der erreichbaren Punkte erzielt hat.
+(7) Die Leistung des Prüflings ist vom Prüfungsausschuss mit bestanden“ oder nicht bestanden“ zu bewerten. Die Prüfung ist bestanden, wenn sowohl der schriftliche als auch der praktische Teil der Prüfung mit bestanden“ bewertet worden sind. Der schriftliche Teil der Prüfung ist bestanden, wenn der Prüfling in jedem der Sachgebiete nach § 1 Absatz 2 Satz 1 Nummer 2 und 3 mindestens 50 Prozent der erreichbaren Punkte erzielt hat. Der praktische Teil der Prüfung ist bestanden, wenn der Prüfling mindestens 50 Prozent der erreichbaren Punkte erzielt hat.
 (8) Die Industrie- und Handelskammer stellt unverzüglich eine Bescheinigung nach Anlage 2 aus, wenn der Prüfling die Prüfung erfolgreich abgelegt hat. Wurde die Prüfung nicht erfolgreich abgelegt, erhält der Prüfling darüber einen Bescheid, in dem auf die Möglichkeit einer Wiederholungsprüfung hinzuweisen ist.
 (9) Die Einzelheiten des Prüfungsverfahrens regeln die Industrie- und Handelskammern nach Maßgabe des § 32 Absatz 1 Satz 2 der Gewerbeordnung durch Satzung.
 
@@ -64,9 +64,9 @@ Diese Personen dürfen nicht in die laufende Prüfung eingreifen oder in die Ber
   - a) :: als Immobilienkaufmann oder als Immobilienkauffrau,
   - b) :: als Bankkaufmann oder Bankkauffrau,
   - c) :: als Sparkassenkaufmann oder Sparkassenkauffrau,
-  - d) :: als Kaufmann für Versicherungen und Finanzen �Fachrichtung Finanzberatung“ oder als Kauffrau für Versicherungen und Finanzen �Fachrichtung Finanzberatung“, wenn
+  - d) :: als Kaufmann für Versicherungen und Finanzen Fachrichtung Finanzberatung“ oder als Kauffrau für Versicherungen und Finanzen Fachrichtung Finanzberatung“, wenn
     - aa) :: die Abschlussprüfung auf der Grundlage der bis zum 31. Juli 2014 geltenden Fassung der Verordnung über die Berufsausbildung zum Kaufmann für Versicherungen und Finanzen/zur Kauffrau für Versicherungen und Finanzen vom 17. Mai 2006 (BGBl. I S. 1187) abgelegt wurde oder
-    - bb) :: die Abschlussprüfung nach der ab dem 1. August 2014 geltenden Fassung der Verordnung über die Berufsausbildung zum Kaufmann für Versicherungen und Finanzen/zur Kauffrau für Versicherungen und Finanzen abgelegt wurde und der Antragsteller die Wahlqualifikationseinheit �Private Immobilienfinanzierung und Versicherungen“ gewählt hat,
+    - bb) :: die Abschlussprüfung nach der ab dem 1. August 2014 geltenden Fassung der Verordnung über die Berufsausbildung zum Kaufmann für Versicherungen und Finanzen/zur Kauffrau für Versicherungen und Finanzen abgelegt wurde und der Antragsteller die Wahlqualifikationseinheit Private Immobilienfinanzierung und Versicherungen“ gewählt hat,
   - e) :: als Geprüfter Immobilienfachwirt oder als Geprüfte Immobilienfachwirtin,
   - f) :: als Geprüfter Bankfachwirt oder Geprüfte Bankfachwirtin,
   - g) :: als Geprüfter Fachwirt für Finanzberatung oder Geprüfte Fachwirtin für Finanzberatung,
@@ -212,7 +212,7 @@ Anlage 1 - (zu § 1 Absatz 2)Inhaltliche Anforderungen an die Sachkundeprüfung
 
 (Fundstelle: BGBl. I 2016, 1052 - 1054)
 
-Anlage 2 - (zu § 3 Absatz 8)Bescheinigung über die erfolgreiche Ablegung der Sachkundeprüfung �Geprüfter Fachmann für Immobiliardarlehensvermittlung IHK“ und �Geprüfte Fachfrau für Immobiliardarlehensvermittlung IHK“ nach § 34i Absatz 2 Nummer 4 der Gewerbeordnung
+Anlage 2 - (zu § 3 Absatz 8)Bescheinigung über die erfolgreiche Ablegung der Sachkundeprüfung Geprüfter Fachmann für Immobiliardarlehensvermittlung IHK“ und Geprüfte Fachfrau für Immobiliardarlehensvermittlung IHK“ nach § 34i Absatz 2 Nummer 4 der Gewerbeordnung
 
 (Fundstelle: BGBl. I 2016, 1055)
 Herr/Frau . . . . . .

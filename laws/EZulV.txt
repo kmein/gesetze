@@ -181,18 +181,18 @@ Sie erhÃ¶hen sich ferner, wenn die TÃ¤tigkeit in den Monaten November bis MÃ¤rz 
 (2) Die Zulage fÃ¼r TÃ¤tigkeiten nach Â§ 12 Abs. 2 Nr. 2 betrÃ¤gt fÃ¼r jeden Tag bei\\
 1.
 Inaugenscheinnahme aus besonderem AnlaÃŸ, PrÃ¼fgÃ¤ngen, Erkundungen, Einweisungen oder Beaufsichtigungen
- 
- 
+
+
 1,43 Euro,
 2.
 Instandhalten, Instandsetzen oder Abnehmen
- 
- 
+
+
 2,14 Euro,
 3.
 Errichten oder Abbrechen
- 
- 
+
+
 2,87 Euro.
 \\
 Die SÃ¤tze erhÃ¶hen sich, wenn die TÃ¤tigkeiten in den Monaten November bis MÃ¤rz durchgefÃ¼hrt werden, um jeweils 25 Prozent.
@@ -384,7 +384,7 @@ im Zollfahndungsdienst in der Zentralen UnterstÃ¼tzungsgruppe Zoll
 
 im Zollfahndungsdienst in einer Observationseinheit Zoll
 
- 
+
 
 Â 4
 
@@ -406,7 +406,7 @@ in der Bundespolizei als Flugsicherheitsbegleiter an Bord deutscher Luftfahrzeug
 
 in der Bundespolizei in einer Beweissicherungs- und Festnahmeeinheit plus
 
- 
+
 
 Â 8
 
@@ -418,25 +418,25 @@ als PersonenschÃ¼tzer, soweit sie nicht von Nummer 5 erfasst sind
 
 in der Bundespolizei in einer Mobilen Fahndungseinheit
 
- 
+
 
 10
 
 in der Bundespolizei in einer Beweissicherungs- und Festnahmehundertschaft
 
- 
+
 
 11
 
 bei den Nachrichtendiensten des Bundes in einer Observationsgruppe
 
- 
+
 
 12
 
 bei den Nachrichtendiensten des Bundes als zur verdeckten Informationsbeschaffung operativ tÃ¤tiger Beamter im AuÃŸendienst oder mit unmittelbarem Kontakt zu Personen von nachrichtendienstlichem Interesse
 
- 
+
 
 13
 

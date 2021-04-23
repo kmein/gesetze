@@ -171,7 +171,7 @@ Zeitlicher Richtwert in Wochen im
 
 4
 
- 
+
 
 1
 
@@ -223,11 +223,11 @@ Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsber
 Arbeitsorganisation, Informations- und Kommunikationssysteme\\
 (Â§ 3 Nr. 5)
 
- 
 
- 
 
- 
+
+
+
 
 5.1
 
@@ -246,9 +246,9 @@ Arbeitsorganisation\\
 
 3*)
 
- 
 
- 
+
+
 
 5.2
 
@@ -261,7 +261,7 @@ Informations- und Kommunikationssysteme\\
 
 4
 
- 
+
 
 6
 
@@ -272,7 +272,7 @@ QualitÃ¤tsmanagement\\
 - b) :: qualitÃ¤tssichernde MaÃŸnahmen im eigenen Arbeitsbereich ausfÃ¼hren, dabei zur kontinuierlichen Verbesserung von Arbeitsprozessen beitragen
 - c) :: Arbeits- und BetriebsablÃ¤ufe im Hinblick auf Kundenorientierung analysieren und bewerten, MaÃŸnahmen zur Verbesserung der Kundenorientierung ergreifen
 
- 
+
 
 4*)
 
@@ -281,11 +281,11 @@ QualitÃ¤tsmanagement\\
 VerkehrstrÃ¤ger und Verkehrsmittel im Personenverkehr\\
 (Â§ 3 Nr. 7
 
- 
 
- 
 
- 
+
+
+
 
 7.1
 
@@ -298,7 +298,7 @@ Verkehrsmarkt\\
 
 3
 
- 
+
 
 7.2
 
@@ -309,11 +309,11 @@ Einsatzfelder von Verkehrsmitteln nach dem PersonenbefÃ¶rderungsgesetz\\
 
 2
 
- 
+
 
 - b) :: Verkehrswege fÃ¼r Verkehrslinien untersuchen, insbesondere hinsichtlich Bebauung, topografischer und klimatischer Voraussetzungen
 
- 
+
 
 2
 
@@ -322,11 +322,11 @@ Einsatzfelder von Verkehrsmitteln nach dem PersonenbefÃ¶rderungsgesetz\\
 Marketing und Vertrieb\\
 (Â§ 3 Nr. 8)
 
- 
 
- 
 
- 
+
+
+
 
 8.1
 
@@ -338,7 +338,7 @@ Marketing\\
 
 3
 
- 
+
 
 8.2
 
@@ -351,7 +351,7 @@ Marktbeobachtung und Verkehrsanalyse\\
 
 3
 
- 
+
 
 8.3
 
@@ -361,7 +361,7 @@ Produktpolitik\\
 - a) :: KenngrÃ¶ÃŸen zur Wirtschaftlichkeit einzelner Angebote des Ã¶ffentlichen Personennahverkehrs ermitteln
 - b) :: an der Erstellung von AngebotsplÃ¤nen mitwirken
 
- 
+
 
 2
 
@@ -377,7 +377,7 @@ Verkauf, Tarif- und Vertriebssysteme\\
 
 7
 
- 
+
 
 8.5
 
@@ -389,18 +389,18 @@ Verkauf, Tarif- und Vertriebssysteme\\
 
 3
 
- 
+
 
 9
 
 Umgang mit Kunden\\
 (Â§ 3 Nr. 9)
 
- 
 
- 
 
- 
+
+
+
 
 9.1
 
@@ -413,7 +413,7 @@ Kundenorientierte Kommunikation\\
 - d) :: betriebliche MÃ¶glichkeiten zur Umsetzung von KundenwÃ¼nschen prÃ¼fen und Kunden informieren, dabei Belange mobilitÃ¤tseingeschrÃ¤nkter FahrgÃ¤ste, insbesondere von Menschen mit Behinderungen, berÃ¼cksichtigen
 - e) :: Korrespondenz fÃ¼hren
 
- 
+
 
 6
 
@@ -428,7 +428,7 @@ Anwenden einer Fremdsprache bei Fachaufgaben\\
 
 3*)
 
- 
+
 
 9.3
 
@@ -440,7 +440,7 @@ Beschwerdemanagement\\
 
 3
 
- 
+
 
 9.4
 
@@ -451,7 +451,7 @@ Umgang mit konflikttrÃ¤chtigen Situationen\\
 - b) :: bei Gefahr im Verzug notwendige MaÃŸnahmen veranlassen, insbesondere Polizei und Sicherheitsdienste anfordern
 - c) :: hÃ¤ufige Konfliktsituationen analysieren, LÃ¶sungsmÃ¶glichkeiten entwickeln
 
- 
+
 
 4
 
@@ -460,11 +460,11 @@ Umgang mit konflikttrÃ¤chtigen Situationen\\
 KaufmÃ¤nnische BetriebsfÃ¼hrung\\
 (Â§ 3 Nr. 10)
 
- 
 
- 
 
- 
+
+
+
 
 10.1
 
@@ -476,7 +476,7 @@ Wirtschaftlichkeit, Kosten und ErtrÃ¤ge\\
 
 4
 
- 
+
 
 10.2
 
@@ -488,7 +488,7 @@ GeschÃ¤ftsvorgÃ¤nge\\
 
 5
 
- 
+
 
 10.3
 
@@ -501,18 +501,18 @@ Beschaffung\\
 
 4
 
- 
+
 
 11
 
 Planung und Disposition des Fahrbetriebes\\
 (Â§ 3 Nr. 11)
 
- 
 
- 
 
- 
+
+
+
 
 11.1
 
@@ -524,16 +524,16 @@ Fahr- und Betriebsplanung\\
 
 4
 
- 
 
- 
 
- 
+
+
+
 
 - c) :: Einsatz von Fahrzeugen und Fahrpersonal planen
 - d) :: Einsatzplanung optimieren, insbesondere Wirtschaftlichkeit beim Einsatz von Eigen- und Fremdleistungen berÃ¼cksichtigen
 
- 
+
 
 4
 
@@ -546,7 +546,7 @@ Disposition des Fahrbetriebes\\
 - b) :: Fahrpersonal disponieren
 - c) :: Fahrzeuge disponieren
 
- 
+
 
 6
 
@@ -555,11 +555,11 @@ Disposition des Fahrbetriebes\\
 Betriebssicherheit und Einsatzbereitschaft der Fahrzeuge und Anlagen\\
 (Â§ 3 Nr. 12)
 
- 
 
- 
 
- 
+
+
+
 
 12.1
 
@@ -575,13 +575,13 @@ Fahrzeugtechnik\\
 
 7
 
- 
+
 
 - g) :: Ãœbernahme- und Abfahrtkontrolle durchfÃ¼hren
 - h) :: Fahrzeuge fahrfertig machen, Fahrzeuge auf- und abrÃ¼sten
 - i) :: Fehler und MÃ¤ngel an Fahrzeugen feststellen, StÃ¶rungen beheben und weitere MaÃŸnahmen zur Fehlerbeseitigung ergreifen, insbesondere MÃ¤ngelberichte abfassen
 
- 
+
 
 6
 
@@ -595,18 +595,18 @@ Verkehrsanlagen\\
 
 4
 
- 
+
 
 13
 
 Verkehrssicherheit und FÃ¼hren von Fahrzeugen im Ã¶ffentlichen Verkehrsraum\\
 (Â§ 3 Nr. 13)
 
- 
 
- 
 
- 
+
+
+
 
 13.1
 
@@ -621,7 +621,7 @@ Fahrdynamik\\
 - f) :: Betriebskommunikationseinrichtungen bedienen
 - g) :: kritische Situationen auch in Grenzbereichen rechtzeitig erkennen und reagieren
 
- 
+
 
 18
 
@@ -633,7 +633,7 @@ Kundenorientiertes Fahren\\
 - a) :: fahrgastfreundliche Fahrtechniken anwenden
 - b) :: An- und AbfahrtsvorgÃ¤nge an Haltestellen kundenfreundlich gestalten, dabei Belange spezieller Personengruppen, insbesondere von mobilitÃ¤tseingeschrÃ¤nkten Personen, berÃ¼cksichtigen
 
- 
+
 
 7
 
@@ -649,18 +649,18 @@ Rechtsvorschriften im Verkehr\\
 
 7
 
- 
+
 
 15
 
 Einweisung in den Fahrbetrieb\\
 (Â§ 3 Nr. 15)
 
- 
 
- 
 
- 
+
+
+
 
 15.1
 
@@ -671,7 +671,7 @@ Betriebsleitsysteme und Kommunikationseinrichtungen\\
 - b) :: Betriebsleitsysteme und Kommunikationseinrichtungen bedienen
 - c) :: Betriebsleitsysteme in den Betriebsablauf einbeziehen
 
- 
+
 
 5
 
@@ -683,7 +683,7 @@ Rahmen- und Ã¶rtliche Dienstanweisungen\\
 - a) :: Rahmen- und Dienstanweisungen im Fahrdienst beachten
 - b) :: Einzelanweisungen zum sicheren, pÃ¼nktlichen und zuverlÃ¤ssigen FÃ¼hren von Fahrzeugen im Liniendienst umsetzen
 
- 
+
 
 10
 
@@ -692,11 +692,11 @@ Rahmen- und Ã¶rtliche Dienstanweisungen\\
 Umgang mit StÃ¶rungen im Fahrbetrieb\\
 (Â§ 3 Nr. 16)
 
- 
 
- 
 
- 
+
+
+
 
 16.1
 
@@ -707,7 +707,7 @@ UnregelmÃ¤ÃŸigkeiten im Fahrbetrieb durch StÃ¶rungen\\
 - b) :: bei StÃ¶rungen sich situationsgerecht verhalten, MaÃŸnahmen zur StÃ¶rungsbeseitigung unter Beachtung der Vorschriften ergreifen
 - c) :: StÃ¶rungen im Umfeld des Fahrbetriebes, insbesondere in Vertriebs- und Serviceanlagen, erkennen, bewerten und MaÃŸnahmen zur StÃ¶rungsbeseitigung veranlassen
 
- 
+
 
 4
 
@@ -722,14 +722,14 @@ Verhalten bei UnfÃ¤llen und ZwischenfÃ¤llen\\
 
 3
 
- 
+
 
 - d) :: UnfÃ¤lle und ZwischenfÃ¤lle melden, insbesondere Angaben zu Verletzten, SchÃ¤den und Gefahren machen, Folgen fÃ¼r den Betriebsablauf einschÃ¤tzen
 - e) :: auftretende Emissionen hinsichtlich der UmweltgefÃ¤hrdung und Sicherheit beurteilen sowie MaÃŸnahmen ergreifen
 - f) :: Spuren sichern, Unfallskizze und Unfallbericht anfertigen
 - g) :: bei Ã„uÃŸerungen gegenÃ¼ber Dritten gesetzliche Pflichten und eigene Belange sowie Folgen fÃ¼r das Unternehmen und sonstige Beteiligte beachten
 
- 
+
 
 3
 
@@ -744,7 +744,7 @@ Fitness im Fahrdienst, StressbewÃ¤ltigung\\
 - d) :: Methoden zur Stressvorbeugung und -bewÃ¤ltigung anwenden
 - e) :: Auswirkungen von besonderen Ereignissen, insbesondere traumatischen VorfÃ¤llen, berÃ¼cksichtigen, notwendige MaÃŸnahmen ergreifen
 
- 
+
 
 3
 

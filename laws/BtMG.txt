@@ -7,14 +7,14 @@ Ausfertigungsdatum: 28.07.1981
 Inhaltsübersicht
 
 Erster Abschnitt
-�
+
 Begriffsbestimmungen
 § 1
 Betäubungsmittel
 § 2
 Sonstige Begriffe
 Zweiter Abschnitt
-�
+
 Erlaubnis und Erlaubnisverfahren
 § 3
 Erlaubnis zum Verkehr mit Betäubungsmitteln
@@ -35,7 +35,7 @@ Rücknahme und Widerruf
 § 10a
 Erlaubnis für den Betrieb von Drogenkonsumräumen
 Dritter Abschnitt
-�
+
 Pflichten im Betäubungsmittelverkehr
 § 11
 Einfuhr, Ausfuhr und Durchfuhr
@@ -56,7 +56,7 @@ Meldungen
 § 18a
 Verbote
 Vierter Abschnitt
-�
+
 Überwachung
 § 19
 Durchführende Behörde
@@ -75,7 +75,7 @@ Anzeige des Anbaus von Nutzhanf
 § 25
 Gebühren und Auslagen
 Fünfter Abschnitt
-�
+
 Vorschriften für Behörden
 § 26
 Bundeswehr, Bundespolizei, Bereitschaftspolizei und Zivilschutz
@@ -84,7 +84,7 @@ Meldungen und Auskünfte
 § 28
 Jahresbericht an die Vereinten Nationen
 Sechster Abschnitt
-�
+
 Straftaten und Ordnungswidrigkeiten
 § 29
 Straftaten
@@ -107,7 +107,7 @@ Einziehung
 § 34
 Führungsaufsicht
 Siebenter Abschnitt
-�
+
 Betäubungsmittelabhängige Straftäter
 § 35
 Zurückstellung der Strafvollstreckung
@@ -118,7 +118,7 @@ Absehen von der Verfolgung
 § 38
 Jugendliche und Heranwachsende
 Achter Abschnitt
-�
+
 Übergangs- und Schlußvorschriften
 § 39
 Übergangsregelung
@@ -753,15 +753,15 @@ Spalte 3
 
 enthält die chemische Stoffbezeichnung nach der Nomenklatur der International Union of Pure and Applied Chemistry (IUPAC). Wenn in Spalte 1 oder 2 keine Bezeichnung aufgeführt ist, ist die der Spalte 3 zu verwenden.
 
-�
 
-�
 
-�
 
-�
 
-�
+
+
+
+
+
 
 INN
 
@@ -936,9 +936,9 @@ Cannabis\\
 
 - ausgenommen
 
-�
 
-�
+
+
 
 a)
 
@@ -1789,11 +1789,11 @@ TCP
 
 1-[1-(2-Thienyl)cyclohexyl]piperidin
 
-�
+
 
 Tetrahydrocannabinole, folgende Isomeren und ihre stereochemischen Varianten:
 
-�
+
 
 -
 
@@ -1887,7 +1887,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 \\
 \\
 
-�
+
 
 Spalte 1
 
@@ -1901,7 +1901,7 @@ Spalte 3
 
 enthält die chemische Stoffbezeichnung nach der Nomenklatur der International Union of Pure and Applied Chemistry (IUPAC). Wenn in Spalte 1 oder 2 keine Bezeichnung aufgeführt ist, ist die der Spalte 3 zu verwenden.
 
-�
+
 
 INN
 
@@ -2535,7 +2535,7 @@ p-Fluorphenylpiperazin (p-FPP)
 Methyl{2-[1-(4-fluorbutyl)-1H-indazol-3-\\
 carboxamido]-3,3-dimethylbutanoat}
 
-�
+
 
 5F-MDMB-PICA\\
 (5F-MDMB-2201)
@@ -3171,7 +3171,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 \\
 
-�
+
 
 Spalte 1
 
@@ -3185,7 +3185,7 @@ Spalte 3
 
 enthält die chemische Stoffbezeichnung nach der Nomenklatur der International Union of Pure and Applied Chemistry (IUPAC). Wenn in Spalte 1 oder 2 keine Bezeichnung aufgeführt ist, ist die der Spalte 3 zu verwenden.
 
-�
+
 
 INN
 

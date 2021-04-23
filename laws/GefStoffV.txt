@@ -80,132 +80,132 @@ Diese Verordnung gilt ferner nicht für Betriebe, die dem Bundesberggesetz unter
 
 (1) Gefährlich im Sinne dieser Verordnung sind Stoffe, Gemische und bestimmte Erzeugnisse, die den in Anhang I der Verordnung (EG) Nr. 1272/2008 dargelegten Kriterien entsprechen.
 (2) Die folgenden Gefahrenklassen geben die Art der Gefährdung wieder und werden unter Angabe der Nummerierung des Anhangs I der Verordnung (EG) Nr. 1272/2008 aufgelistet:
-�
-�
-�
+
+
+
 Nummerierung nach Anhang I der Verordnung (EG) Nr. 1272/2008
 1.
 Physikalische Gefahren
-2   �
-�
+2   
+
 a)
 Explosive Stoffe/Gemische und Erzeugnisse mit Explosivstoff
-2.1�
-�
+2.1
+
 b)
 Entzündbare Gase
-2.2�
-�
+2.2
+
 c)
 Aerosole
-2.3�
-�
+2.3
+
 d)
 Oxidierende Gase
-2.4�
-�
+2.4
+
 e)
 Gase unter Druck
-2.5�
-�
+2.5
+
 f)
 Entzündbare Flüssigkeiten
-2.6�
-�
+2.6
+
 g)
 Entzündbare Feststoffe
-2.7�
-�
+2.7
+
 h)
 Selbstzersetzliche Stoffe und Gemische
-2.8�
-�
+2.8
+
 i)
 Pyrophore Flüssigkeiten
-2.9�
-�
+2.9
+
 j)
 Pyrophore Feststoffe
 2.10
-�
+
 k)
 Selbsterhitzungsfähige Stoffe und Gemische
 2.11
-�
+
 l)
 Stoffe und Gemische, die in Berührung mit Wasser entzündbare Gase entwickeln
 2.12
-�
+
 m)
 Oxidierende Flüssigkeiten
 2.13
-�
+
 n)
 Oxidierende Feststoffe
 2.14
-�
+
 o)
 Organische Peroxide
 2.15
-�
+
 p)
 Korrosiv gegenüber Metallen
 2.16
 2.
 Gesundheitsgefahren
-3   �
-�
+3   
+
 a)
 Akute Toxizität (oral, dermal und inhalativ)
-3.1�
-�
+3.1
+
 b)
 Ätz-/Reizwirkung auf die Haut
-3.2�
-�
+3.2
+
 c)
 Schwere Augenschädigung/Augenreizung
-3.3�
-�
+3.3
+
 d)
 Sensibilisierung der Atemwege oder der Haut
-3.4�
-�
+3.4
+
 e)
 Keimzellmutagenität
-3.5�
-�
+3.5
+
 f)
 Karzinogenität
-3.6�
-�
+3.6
+
 g)
 Reproduktionstoxizität
-3.7�
-�
+3.7
+
 h)
 Spezifische Zielorgan-Toxizität, einmalige Exposition (STOT SE)
-3.8�
-�
+3.8
+
 i)
 Spezifische Zielorgan-Toxizität, wiederholte Exposition (STOT RE)
-3.9�
-�
+3.9
+
 j)
 Aspirationsgefahr
 3.10
 3.
 Umweltgefahren
-4   �
-�
+4   
+
 Gewässergefährdend (akut und langfristig)
-4.1�
+4.1
 4.
 Weitere Gefahren
-5   �
-�
+5   
+
 Die Ozonschicht schädigend
-5.1�
+5.1
 
 § 4 - Einstufung, Kennzeichnung, Verpackung
 
@@ -394,7 +394,7 @@ Ist die Anwendung eines geschlossenen Systems technisch nicht möglich, so hat d
 (3) Wenn Tätigkeiten mit krebserzeugenden, keimzellmutagenen oder reproduktionstoxischen Gefahrstoffen der Kategorie 1A oder 1B ausgeübt werden, hat der Arbeitgeber
 
 - 1. :: die Exposition der Beschäftigten durch Arbeitsplatzmessungen oder durch andere geeignete Ermittlungsmethoden zu bestimmen, auch um erhöhte Expositionen infolge eines unvorhersehbaren Ereignisses oder eines Unfalls schnell erkennen zu können,
-- 2. :: Gefahrenbereiche abzugrenzen, in denen Beschäftigte diesen Gefahrstoffen ausgesetzt sind oder ausgesetzt sein können, und Warn- und Sicherheitszeichen anzubringen, einschlie�Zutritt für Unbefugte verboten“ und �Rauchen verboten“ nach Anhang II Nummer 3.1 der Richtlinie 92/58/EWG des Rates vom 24. Juni 1992 über Mindestvorschriften für die Sicherheits- und/oder Gesundheitsschutzkennzeichnung am Arbeitsplatz (ABl. L 245 vom 26.8.1992, S. 23), die zuletzt durch die Richtlinie 2014/27/EU (ABl. L 65 vom 5.3.2014, S. 1) geändert worden ist.
+- 2. :: Gefahrenbereiche abzugrenzen, in denen Beschäftigte diesen Gefahrstoffen ausgesetzt sind oder ausgesetzt sein können, und Warn- und Sicherheitszeichen anzubringen, einschlieZutritt für Unbefugte verboten“ und Rauchen verboten“ nach Anhang II Nummer 3.1 der Richtlinie 92/58/EWG des Rates vom 24. Juni 1992 über Mindestvorschriften für die Sicherheits- und/oder Gesundheitsschutzkennzeichnung am Arbeitsplatz (ABl. L 245 vom 26.8.1992, S. 23), die zuletzt durch die Richtlinie 2014/27/EU (ABl. L 65 vom 5.3.2014, S. 1) geändert worden ist.
 
 (4) Bei Tätigkeiten, bei denen eine beträchtliche Erhöhung der Exposition der Beschäftigten durch krebserzeugende, keimzellmutagene oder reproduktionstoxische Gefahrstoffe der Kategorie 1A oder 1B zu erwarten ist und bei denen jede Möglichkeit weiterer technischer Schutzmaßnahmen zur Begrenzung dieser Exposition bereits ausgeschöpft wurde, hat der Arbeitgeber nach Beratung mit den Beschäftigten oder mit ihrer Vertretung Maßnahmen zu ergreifen, um die Dauer der Exposition der Beschäftigten so weit wie möglich zu verkürzen und den Schutz der Beschäftigten während dieser Tätigkeiten zu gewährleisten. Er hat den betreffenden Beschäftigten persönliche Schutzausrüstung zur Verfügung zu stellen, die sie während der gesamten Dauer der erhöhten Exposition tragen müssen.
 (5) Werden in einem Arbeitsbereich Tätigkeiten mit krebserzeugenden, keimzellmutagenen oder reproduktionstoxischen Gefahrstoffen der Kategorie 1A oder 1B ausgeübt, darf die dort abgesaugte Luft nicht in den Arbeitsbereich zurückgeführt werden. Dies gilt nicht, wenn die Luft unter Anwendung von behördlich oder von den Trägern der gesetzlichen Unfallversicherung anerkannten Verfahren oder Geräte ausreichend von solchen Stoffen gereinigt ist. Die Luft muss dann so geführt oder gereinigt werden, dass krebserzeugende, keimzellmutagene oder reproduktionstoxische Stoffe nicht in die Atemluft anderer Beschäftigter gelangen.
@@ -709,7 +709,7 @@ Soweit nach der Gefährdungsbeurteilung erforderlich, müssen Gefahrstoffströme
 (1) Gefahrstoffe dürfen nur an dafür geeigneten Orten und in geeigneten Einrichtungen gelagert werden. Sie dürfen nicht an oder in der Nähe von Orten gelagert werden, an denen dies zu einer Gefährdung der Beschäftigten oder anderer Personen führen kann.
 (2) In Arbeitsräumen dürfen Gefahrstoffe nur gelagert werden, wenn die Lagerung mit dem Schutz der Beschäftigten vereinbar ist und in besonderen Einrichtungen erfolgt, die dem Stand der Technik entsprechen.
 (3) Gefahrstoffe dürfen nicht zusammen gelagert werden, wenn dies zu einer Erhöhung der Brand- oder Explosionsgefährdung führen kann, insbesondere durch gefährliche Vermischungen, oder wenn die gelagerten Gefahrstoffe in gefährlicher Weise miteinander reagieren können. Gefahrstoffe dürfen ferner nicht zusammen gelagert werden, wenn dies bei einem Brand oder einer Explosion zu zusätzlichen Gefährdungen von Beschäftigten oder von anderen Personen führen kann.
-(4) Bereiche, in denen brennbare Gefahrstoffe in solchen Mengen gelagert werden, dass eine erhöhte Brandgefährdung besteht, sind mit dem Warnzeichen �Warnung vor feuergefährlichen Stoffen oder hoher Temperatur“ nach Anhang II Nummer 3.2 der Richtlinie 92/58/EWG des Rates vom 24. Juni 1992 über Mindestvorschriften für die Sicherheits- und/oder Gesundheitsschutzkennzeichnung am Arbeitsplatz (Neunte Einzelrichtlinie im Sinne von Artikel 16 Absatz 1 der Richtlinie 89/391/EWG) (ABl. L 245 vom 26.8.1992, S. 23) zu kennzeichnen.
+(4) Bereiche, in denen brennbare Gefahrstoffe in solchen Mengen gelagert werden, dass eine erhöhte Brandgefährdung besteht, sind mit dem Warnzeichen Warnung vor feuergefährlichen Stoffen oder hoher Temperatur“ nach Anhang II Nummer 3.2 der Richtlinie 92/58/EWG des Rates vom 24. Juni 1992 über Mindestvorschriften für die Sicherheits- und/oder Gesundheitsschutzkennzeichnung am Arbeitsplatz (Neunte Einzelrichtlinie im Sinne von Artikel 16 Absatz 1 der Richtlinie 89/391/EWG) (ABl. L 245 vom 26.8.1992, S. 23) zu kennzeichnen.
 (5) Soweit nach der Gefährdungsbeurteilung erforderlich, sind zu Lagerorten von Gefahrstoffen Schutz- und Sicherheitsabstände einzuhalten. Dabei ist ein Sicherheitsabstand der erforderliche Abstand zwischen Lagerorten und zu schützenden Personen, ein Schutzabstand ist der erforderliche Abstand zum Schutz des Lagers gegen gefährliche Einwirkungen von außen.
 1.6 Mindestvorschriften für den Explosionsschutz bei Tätigkeiten in Bereichen mit gefährlichen explosionsfähigen Gemischen
 (1) Bei der Festlegung von Schutzmaßnahmen nach § 11 Absatz 2 Nummer 1 sind insbesondere Maßnahmen nach folgender Rangfolge zu ergreifen:
@@ -1006,13 +1006,13 @@ Auf Verlangen ist der zuständigen Behörde eine Kopie der Niederschrift vorzule
 (1) Transporteinheiten wie Fahrzeuge, Waggons, Container, Tanks oder andere Transportbehälter dürfen im Freien nur mit einem allseitigen Sicherheitsabstand von mindestens 10 Metern zu Gebäuden begast werden. Sie sind von der verantwortlichen Person auf ihre Gasdichtheit zu prüfen, abzudichten sowie für die Dauer der Begasung abzuschließen, zu verplomben und allseitig sichtbar mit Warnzeichen nach Absatz 2 zu kennzeichnen. Zusätzlich sind sie mit dem Namen, der Anschrift und der Telefonnummer des Begasungsunternehmens zu versehen. Das Warnzeichen muss rechteckig, mindestens 300 Millimeter breit und mindestens 250 Millimeter hoch sein. Die Aufschriften müssen schwarz auf weißem Grund sein.
 (2) Das Warnzeichen muss mindestens folgende Angaben tragen:
 
-- 1. :: das Signalwort �GEFAHR“,
-- 2. :: das Symbol �Totenkopf mit gekreuzten Knochen“ entsprechend akut toxisch Kategorie 1 bis 3,
-- 3. :: die Aufschrift �DIESE EINHEIT IST BEGAST“,
+- 1. :: das Signalwort GEFAHR“,
+- 2. :: das Symbol Totenkopf mit gekreuzten Knochen“ entsprechend akut toxisch Kategorie 1 bis 3,
+- 3. :: die Aufschrift DIESE EINHEIT IST BEGAST“,
 - 4. :: die Bezeichnung des Begasungsmittels,
 - 5. :: das Datum und die Uhrzeit der Begasung,
 - 6. :: das Datum der Belüftung, sofern eine solche erfolgt ist, und
-- 7. :: die Aufschrift �ZUTRITT VERBOTEN“.
+- 7. :: die Aufschrift ZUTRITT VERBOTEN“.
 
 Eine Abbildung des Warnzeichens ist nachstehend dargestellt:
 
@@ -1117,11 +1117,11 @@ Bei der Lagerung von Stoffen und Gemischen der Gruppen A, B, C, D und E sind fol
 (4) Teilmengen bis zu 25 Tonnen von Stoffen und Gemischen der Gruppe A dürfen nur gelagert werden, wenn sie
 
 - 1. :: voneinander durch Wände aus Mauerziegeln oder Wandbausteinen ähnlicher Festigkeit oder aus Beton getrennt werden, deren Zwischenraum mit nicht brennbaren Stoffen voll ausgefüllt ist, und wenn die Wände einschließlich des Zwischenraums eine Mindestdicke d aufweisen, die sich aus der jeweils größten Teilmenge M nach folgender Beziehung errechnet:
-  d = 0,1 M1/3} mit d in �Meter“ und M in �Kilogramm“,
+  d = 0,1 M1/3} mit d in Meter“ und M in Kilogramm“,
 - 2. :: in Fällen, in denen die Trennwände nicht bis zur Decke reichen, nur bis zu einer Höhe von 1 Meter unterhalb der Wandhöhe gelagert werden.
 
 (5) Der Ort der Lagerung muss zu Gebäuden, die dem dauernden Aufenthalt von Menschen dienen, einen Mindestabstand (Schutzabstand) E haben, der sich aus der jeweils größten Teilmenge M nach folgender Beziehung errechnet:
-E = 11 M1/3} mit E in �Meter“ und M in �Kilogramm“.
+E = 11 M1/3} mit E in Meter“ und M in Kilogramm“.
 Für Betriebsgebäude gilt dies nur, wenn sie auch Wohnzwecken dienen.
 (6) Der Schutzabstand zu öffentlichen Verkehrswegen beträgt zwei Drittel des Abstands nach Absatz 5.
 (7) Abweichend von den Absätzen 5 und 6 beträgt für Lagermengen bis zu 3 Tonnen der Schutzabstand zu bewohnten Gebäuden und zu öffentlichen Verkehrswegen mindestens 50 Meter.

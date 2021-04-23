@@ -314,23 +314,23 @@ Für das Ergebnis der Sprachprüfungen zählen der schriftliche und der mündlic
 sehr gut\\
 15 bis 14 Punkte
 eine Leistung, die den Anforderungen in besonderem Maße entspricht,
-�
+
 gut\\
 13 bis 11 Punkte
 eine Leistung, die den Anforderungen voll entspricht,
-�
+
 befriedigend\\
 10 bis 8 Punkte
 eine Leistung, die den Anforderungen im Allgemeinen entspricht,
-�
+
 ausreichend\\
 7 bis 5 Punkte
 eine Leistung, die zwar Mängel aufweist, aber im Ganzen den Anforderungen noch entspricht,
-�
+
 mangelhaft\\
 4 bis 2 Punkte
 eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen lässt, dass die notwendigen Grundkenntnisse vorhanden sind und die Mängel in absehbarer Zeit behoben werden könnten,
-�
+
 ungenügend\\
 1 bis 0 Punkte
 eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Grundkenntnisse so lückenhaft sind, dass die Mängel in absehbarer Zeit nicht behoben werden könnten.

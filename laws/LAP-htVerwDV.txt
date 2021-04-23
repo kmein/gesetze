@@ -11,14 +11,14 @@ Auf Grund des ¬ß 15 Abs. 1 Nr. 2 des Bundesbeamtengesetzes in der Fassung der Be
 Inhalts√ºbersicht
 
 Teil 1
-†
+
 Allgemeiner Teil
-†
-†
+
+
 Kapitel 1
-†
-†
-†
+
+
+
 Anwendungsbereich, Laufbahn, Ausbildung
 ¬ß 1
 Anwendungsbereich
@@ -54,23 +54,23 @@ Grunds√§tze der Ausbildung
 Ausbildungsbeh√∂rde, Ausbildungsleitung, Ausbilderinnen und Ausbilder
 ¬ß 17
 Beurteilungen w√§hrend der Ausbildung
-†
-†
+
+
 Kapitel 2
-†
-†
-†
+
+
+
 Aufstieg
 ¬ß 18
 Ausbildungsaufstieg
 ¬ß 19
 Praxisaufstieg
-†
-†
+
+
 Kapitel 3
-†
-†
-†
+
+
+
 Pr√ºfungen
 ¬ß 20
 Oberpr√ºfungsamt
@@ -105,14 +105,14 @@ Pr√ºfungsakten, Einsichtnahme
 ¬ß 35
 Wiederholung
 Teil 2
-†
+
 Sondervorschriften f√ºr die einzelnen Fachrichtungen
-†
-†
+
+
 Kapitel 1
-†
-†
-†
+
+
+
 Fachrichtung Hochbau
 ¬ß 36
 Einstellungsvoraussetzungen
@@ -122,12 +122,12 @@ Gliederung der Ausbildung
 Pr√ºfungsf√§cher, Pr√ºfungszeiten
 ¬ß 39
 Aufstieg
-†
-†
+
+
 Kapitel 2
-†
-†
-†
+
+
+
 Fachrichtung Bauingenieurwesen
 ¬ß 40
 Einstellungsvoraussetzungen, Fachgebiet
@@ -137,12 +137,12 @@ Gliederung der Ausbildung
 Pr√ºfungsf√§cher, Pr√ºfungszeiten
 ¬ß 43
 Aufstieg
-†
-†
+
+
 Kapitel 3
-†
-†
-†
+
+
+
 Fachrichtung Bahnwesen
 ¬ß 44
 Schwerpunktgebiete, Einstellungsvoraussetzungen
@@ -152,12 +152,12 @@ Gliederung der Ausbildung
 Pr√ºfungsf√§cher, Pr√ºfungszeiten
 ¬ß 47
 Aufstieg
-†
-†
+
+
 Kapitel 4
-†
-†
-†
+
+
+
 Fachrichtung Maschinen- und Elektrotechnik
 ¬ß 48
 Fachgebiete, Einstellungsvoraussetzungen
@@ -167,12 +167,12 @@ Gliederung der Ausbildung
 Pr√ºfungsf√§cher, Pr√ºfungszeiten
 ¬ß 51
 Aufstieg
-†
-†
+
+
 Kapitel 5
-†
-†
-†
+
+
+
 Fachrichtung Luftfahrttechnik
 ¬ß 52
 Einstellungsvoraussetzungen
@@ -183,7 +183,7 @@ Pr√ºfungsf√§cher, Pr√ºfungszeiten
 ¬ß 55
 Aufstieg
 Teil 3
-†
+
 Sonstige Vorschriften
 ¬ß 56
 √úbergangsregelung
@@ -210,8 +210,8 @@ im Eingangsamt (Besoldungsgruppe A 13)
 Baur√§tin/Baurat,
 4.
 in den Bef√∂rderungs√§mtern der
-†
-†
+
+
 a)
 Besoldungsgruppe A 14
 Bauoberr√§tin/Bauoberrat,
@@ -561,7 +561,7 @@ Fachrichtung: Hochbau
 ¬ß 38 - Pr√ºfungsf√§cher, Pr√ºfungszeiten
 
 F√ºr die schriftliche und m√ºndliche Pr√ºfung sind folgende Pr√ºfungsf√§cher vorgesehen; die Pr√ºfungszeiten gelten f√ºr die m√ºndliche Pr√ºfung:\\
-†
+
 Stunden
 1.
 Allgemeine Rechts- und Verwaltungsgrundlagen
@@ -581,10 +581,10 @@ Grundz√ºge des √∂ffentlichen Hochbaues und des St√§dtebaues
 6.
 Bautechnik
 1 1/4
-†
-†
+
+
 -------
-†
+
 zusammen
 6 1/2
 
@@ -720,41 +720,41 @@ Bundesministerium f√ºr Verkehr und digitale Infrastruktur
 - - :: Schifffahrtszeichenwesen
 - - :: Schifffahrtswesen; Bef√§higungswesen und Lotswesen in der Schifffahrt
 
-†
 
-†
 
-†
+
+
+
 
 6
 
-†
+
 
 H√§usliche Pr√ºfungsarbeit
 
-†
+
 
 16
 
-†
+
 
 Lehrg√§nge *)
 
-†
+
 
 ca. 12
 
-†
+
 
 Erholungsurlaub
 
-†
+
 
 104
 
 24 Monate
 
-†
+
 
 In begr√ºndeten F√§llen kann die Reihenfolge der Ausbildungsabschnitt I bis III ge√§ndert werden.\\
 -----
@@ -765,38 +765,38 @@ In begr√ºndeten F√§llen kann die Reihenfolge der Ausbildungsabschnitt I bis III 
 ¬ß 42 - Pr√ºfungsf√§cher, Pr√ºfungszeiten
 
 F√ºr die schriftliche und m√ºndliche Pr√ºfung sind folgende Pr√ºfungsf√§cher vorgesehen; die Pr√ºfungszeiten gelten f√ºr die m√ºndliche Pr√ºfung:\\
-†
+
 Stunden
 1.
 Allgemeine Rechts- und Verwaltungsgrundlagen
-†
+
 1
 2.
 Leitungsaufgaben und Wirtschaftlichkeit
-†
+
 1
 3.
 Wasserstra√üen/Wasserwirtschaft
-†
+
 1 1/4
 4.
 Sondergebiete der Wasserstra√üen
-†
+
 1
 5.
 Vorbereiten und Durchf√ºhren von Bauten
-†
+
 1
 6.
 Fachbezogene Verwaltung und Rechtsvorschriften
-†
+
 1 1/4
-†
-†
-†
+
+
+
 ------
-†
-†
+
+
 zusammen
 6 1/2
 
@@ -830,7 +830,7 @@ Ausbildungsstellen
 
 Ausbildungsinhalte
 
-†
+
 
 B
 
@@ -857,7 +857,7 @@ Personalangelegenheiten, Rechtsaufsicht, Verwaltungsverfahrensrecht, Betriebsgen
 
 8
 
-†
+
 
 Abteilung 2:\\
 Technische Aufsicht und Bauaufsicht sowie Zulassung
@@ -871,7 +871,7 @@ Technische Aufsicht und Bauaufsicht sowie Zulassung
 
 2
 
-†
+
 
 Abteilung 3:\\
 
@@ -885,7 +885,7 @@ Abteilung 3:\\
 
 4
 
-†
+
 
 Abteilung 4:\\
 Finanzierung von Infrastruktur
@@ -896,7 +896,7 @@ Finanzierung von Infrastruktur
 
 3
 
-†
+
 
 Sachbereich 1:\\
 Planfeststellung
@@ -907,7 +907,7 @@ Planfeststellung
 
 2
 
-†
+
 
 Sachbereich 2:\\
 
@@ -920,7 +920,7 @@ Sachbereich 2:\\
 
 8
 
-†
+
 
 Sachbereich 3:\\
 Technische Aufsicht und Bauaufsicht
@@ -931,7 +931,7 @@ Technische Aufsicht und Bauaufsicht
 
 4
 
-†
+
 
 Sachbereich 4:\\
 Aufsicht √ºber den Eisenbahnbetrieb
@@ -942,7 +942,7 @@ Aufsicht √ºber den Eisenbahnbetrieb
 
 2
 
-†
+
 
 Sachbereich 5:\\
 Finanzierung (Verwendungspr√ºfung)
@@ -953,7 +953,7 @@ Finanzierung (Verwendungspr√ºfung)
 
 4
 
-†
+
 
 Sachgebiete 224 und 226:\\
 Zulassung von Sicherungsanlagen
@@ -976,7 +976,7 @@ Fahrdienstleiterausbildung
 
 4
 
-†
+
 
 Triebfahrzeugf√ºhrerausbildung
 
@@ -986,7 +986,7 @@ Triebfahrzeugf√ºhrerausbildung
 
 10 2)}
 
-†
+
 
 Technik, Bau und Instandhaltung von Anlagen
 
@@ -996,7 +996,7 @@ Technik, Bau und Instandhaltung von Anlagen
 
 1
 
-†
+
 
 Technik und Instandhaltung von Fahrzeugen
 
@@ -1006,7 +1006,7 @@ Technik und Instandhaltung von Fahrzeugen
 
 2
 
-†
+
 
 Zusammenwirken der Bereiche: Betrieb, Fahrzeuge, Anlagen und Controlling
 
@@ -1102,7 +1102,7 @@ Luftfahrt-Bundesamt
 
 Aufgaben und Arbeitsweise
 
-†
+
 
 6
 
@@ -1110,11 +1110,11 @@ Aufgaben und Arbeitsweise
 
 6
 
-†
+
 
 H√§usliche Pr√ºfungsarbeit
 
-†
+
 
 17
 
@@ -1122,11 +1122,11 @@ H√§usliche Pr√ºfungsarbeit
 
 17
 
-†
+
 
 Lehrg√§nge
 
-†
+
 
 ca. 12
 
@@ -1134,11 +1134,11 @@ ca. 12
 
 ca.12
 
-†
+
 
 Erholungsurlaub
 
-†
+
 
 104
 
@@ -1148,7 +1148,7 @@ Erholungsurlaub
 
 24 Monate
 
-†
+
 
 - 1) :: Davon 8 Wochen Baustellenbereich.
 - 2) :: Davon 4 Wochen Baustellenbereich.
@@ -1159,87 +1159,87 @@ Erholungsurlaub
 
 F√ºr die schriftliche und m√ºndliche Pr√ºfung sind folgende Pr√ºfungsf√§cher vorgesehen; die Pr√ºfungszeiten gelten f√ºr die m√ºndliche Pr√ºfung:\\
 alle Schwerpunktgebiete:
-†
+
 Stunden
 1.
 Allgemeine Rechts- und Verwaltungsgrundlagen
-†
+
 1
 2.
 Leitungsaufgaben und Wirtschaftlichkeit
-†
+
 1
 3.
 Verkehrswesen und allgemeine Bahnbetriebstechnik
-†
+
 1 1/4
 4.
 Fachbezogene Verwaltung und Rechtsvorschriften
-†
+
 1
-†
-†
-†
+
+
+
 -------
-†
-†
+
+
 zusammen
 4 1/4
 Schwerpunktgebiet Bauingenieurwesen:
-†
+
 Stunden
 5.
 Technik, Planung und Entwicklung von Bahnanlagen
-†
+
 1
 6.
 Bau, Betrieb und Instandhaltung von Bahnanlagen
-†
+
 1 1/4
-†
-†
-†
+
+
+
 ------
-†
-†
+
+
 zusammen
 2 1/4
 Schwerpunktgebiet Maschinen- und Elektrotechnik:
-†
+
 Stunden
 7.
 Technik, Planung und Entwicklung von Fahrzeugen sowie von maschinen- und elektrotechnischen Anlagen
-†
+
 1
 8.
 Bau, Betrieb und Instandhaltung von Fahrzeugen sowie von maschinen- und elektrotechnischen Anlagen
-†
+
 1 1/4
-†
-†
-†
+
+
+
 ------
-†
-†
+
+
 zusammen
 2 1/4
 Schwerpunktgebiet Sicherungs-, Telekommunikations- und Elektrotechnik:
-†
+
 Stunden
 9.
 Technik, Planung und Entwicklung von sicherungs-, telekommunikations- und elektrotechnischen Anlagen
-†
+
 1
 10.
 Bau, Betrieb und Instandhaltung von sicherungs-, telekommunikations- und elektrotechnischen Anlagen
-†
+
 1 1/4
-†
-†
-†
+
+
+
 ------
-†
-†
+
+
 zusammen
 2 1/4
 
@@ -1337,7 +1337,7 @@ Bundesanstalt f√ºr Wasserbau, Abteilung Maschinenwesen (mindestens 8 Wochen), di
 - - :: Planungstechniken, Rationalisierung, Systemtechnik, Informationssysteme, Entwicklung, Konstruktion, technische Gestaltung, Bau√ºberwachung, Aufsichtsbeh√∂rde
 
 \\
-III 1 †
+III 1 
 
 \\
 14\\
@@ -1375,39 +1375,39 @@ Ausl√§ndische fachnahe Verwaltung (Mitgliedstaat der Europ√§ischen Union, Europ√
 - - :: Aufgaben, Status und Organisation der Institution
 - - :: Kompetenzen, Arbeitsweise
 
-†
+
 
 6
 
-†
+
 
 H√§usliche Pr√ºfungsarbeit
 
-†
+
 
 14
 
-†
+
 
 Lehrg√§nge
 
-†
+
 
 ca. 12
 
-†
+
 
 Erholungsurlaub
 
-†
+
 
 104
 
 24 Monate
 
-†
 
-†
+
+
 
 Ausbildungsplan\\
 Fachrichtung: Maschinen- und Elektrotechnik\\
@@ -1484,110 +1484,110 @@ Mittlere oder oberste Landesbeh√∂rde als Genehmigungsbeh√∂rde
 - - :: Gewerbeaufsicht, technischer Arbeitsschutz und Arbeitsrecht
 - - :: Energieaufsicht, Wasserwirtschaft, Finanzplanung
 
-†
+
 
 6
 
-†
+
 
 H√§usliche Pr√ºfungsarbeit
 
-†
+
 
 11
 
-†
+
 
 Lehrg√§nge
 
-†
+
 
 ca. 12
 
-†
+
 
 Erholungsurlaub
 
-†
+
 
 104
 
 24 Monate
 
-†
+
 
 
 ¬ß 50 - Pr√ºfungsf√§cher, Pr√ºfungszeiten
 
 F√ºr die schriftliche und m√ºndliche Pr√ºfung sind folgende Pr√ºfungsf√§cher vorgesehen; die Pr√ºfungszeiten gelten f√ºr die m√ºndliche Pr√ºfung:\\
 Fachgebiet Maschinen- und Elektrotechnik der Wasserstra√üen:
-†
+
 Stunden
 1.
 Allgemeine Rechts- und Verwaltungsgrundlagen
-†
+
 1
 2.
 Leitungsaufgaben und Wirtschaftlichkeit
-†
+
 1
 3.
 Fachbezogene Verwaltung und Rechtsvorschriften
-†
+
 1
 4.
 Maschinenbaueinrichtungen und elektrotechnische Einrichtungen, Landfahrzeuge
-†
+
 1 1/4
 5.
 Wasserfahrzeuge und schwimmende Anlagen
-†
+
 1 1/4
 6.
 Beschaffung, Betrieb und Unterhaltung von Objekten des Maschinenwesens
-†
+
 1
-†
-†
-†
+
+
+
 -----
-†
-†
+
+
 zusammen
 6 1/2
 Fachgebiet Maschinen- und Elektrotechnik in der Verwaltung:
-†
+
 Stunden
 1.
 Allgemeine Rechts- und Verwaltungsgrundlagen
-†
+
 1
 2.
 Leitungsaufgaben und Wirtschaftlichkeit
-†
+
 1
 3.
 Fachbezogene Verwaltung und Rechtsvorschriften
-†
+
 1
 4.
 Elektrotechnische Anlagen
-†
+
 1 1/4
 5.
 Maschinentechnische und verfahrenstechnische Anlagen
-†
+
 1
 6.
 Sondergebiete der Maschinen- und Elektrotechnik
-†
+
 1 1/4
-†
-†
-†
+
+
+
 -----
-†
-†
+
+
 zusammen
 6 1/2
 
@@ -1700,74 +1700,74 @@ Luftfahrt-Bundesamt
 
 Vertiefung der theoretischen Kenntnisse durch projektorientierte Mitarbeit an aktuellen Aufgaben im Luftfahrt-Bundesamt, ggf. unter Ber√ºcksichtigung der sp√§teren Verwendung
 
-†
+
 
 6
 
-†
+
 
 H√§usliche Pr√ºfungsarbeit
 
-†
+
 
 15
 
-†
+
 
 Lehrg√§nge: u. a. Rechts- und Verwaltungsgrundlagen, Projektmanagement, Mitarbeiterf√ºhrung, Planung und Entscheidung, Gespr√§chs- und Verhandlungsf√ºhrung, Qualit√§tsmanagement, Sprachkurs
 
-†
+
 
 ca. 12
 
-†
+
 
 Erholungsurlaub
 
-†
+
 
 104
 
 24 Monate
 
-†
+
 
 
 ¬ß 54 - Pr√ºfungsf√§cher, Pr√ºfungszeiten
 
 F√ºr die schriftliche und m√ºndliche Pr√ºfung sind folgende Pr√ºfungsf√§cher vorgesehen; die Pr√ºfungszeiten gelten f√ºr die m√ºndliche Pr√ºfung:\\
-†
+
 Stunden
 1.
 Allgemeine Rechts- und Verwaltungsgrundlagen
-†
+
 1
 2.
 Leitungsaufgaben und Wirtschaftlichkeit
-†
+
 1
 3.
 Fachbezogene Verwaltung und Rechtsvorschriften
-†
+
 1
 4.
 Flugtechnik
-†
+
 1 1/4
 5.
 Flugbetrieb
-†
+
 1 1/4
 6.
 Flugh√§fen, Flugsicherung, Flugunfallwesen, Such- und Rettungsdienst
-†
+
 1
-†
-†
-†
+
+
+
 -----
-†
-†
+
+
 zusammen
 6 1/2
 

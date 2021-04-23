@@ -254,27 +254,27 @@ Für die Befreiung von einzelnen Prüfungsteilen nach § 3 oder von Prüfungen n
 § 18 - Bewertungen in den Prüfungen
 
 (1) Die drei Prüfungsteile nach § 3 sind gesondert zu bewerten.
-(2) Für die Bewertung des Prüfungsteils �Pflanzenkultur, Verfahrenstechnik, Untersuchungstechnik und Dienstleistung“ ist eine Note aus der Bewertung des Arbeitsprojekts (§ 6) und der Bewertung der schriftlichen Prüfung (§ 7) nach folgender Formel zu bilden:\\
+(2) Für die Bewertung des Prüfungsteils Pflanzenkultur, Verfahrenstechnik, Untersuchungstechnik und Dienstleistung“ ist eine Note aus der Bewertung des Arbeitsprojekts (§ 6) und der Bewertung der schriftlichen Prüfung (§ 7) nach folgender Formel zu bilden:\\
 \\
 [[../normengrafiken/bgbl1_2017/j3815-1_0010.jpg]] .
-(3) Für die Bewertung des Prüfungsteils �Betriebs- und Unternehmensführung“ ist eine Note aus der Bewertung des Arbeitsprojekts (§ 10) und der Bewertung der schriftlichen Prüfung (§ 11) nach folgender Formel zu bilden:\\
+(3) Für die Bewertung des Prüfungsteils Betriebs- und Unternehmensführung“ ist eine Note aus der Bewertung des Arbeitsprojekts (§ 10) und der Bewertung der schriftlichen Prüfung (§ 11) nach folgender Formel zu bilden:\\
 \\
 [[../normengrafiken/bgbl1_2017/j3815-1_0020.jpg]] .
-(4) Im Prüfungsteil �Berufsausbildung und Mitarbeiterführung“ ist zunächst eine Note für die Bewertung des Abschnitts �Berufsausbildung“ aus der Bewertung des praktischen Teils (§ 14) und der Bewertung des schriftlichen Teils (§ 15) nach folgender Formel zu bilden:\\
+(4) Im Prüfungsteil Berufsausbildung und Mitarbeiterführung“ ist zunächst eine Note für die Bewertung des Abschnitts Berufsausbildung“ aus der Bewertung des praktischen Teils (§ 14) und der Bewertung des schriftlichen Teils (§ 15) nach folgender Formel zu bilden:\\
 \\
 [[../normengrafiken/bgbl1_2017/j3815-1_0030.jpg]] .
-Anschlie�Berufsausbildung und Mitarbeiterführung“ eine Note aus der Bewertung der Leistung im Abschnitt �Berufsausbildung“ nach Satz 1 und der Bewertung der Fallstudie (§ 16) nach folgender Formel zu bilden:\\
+AnschlieBerufsausbildung und Mitarbeiterführung“ eine Note aus der Bewertung der Leistung im Abschnitt Berufsausbildung“ nach Satz 1 und der Bewertung der Fallstudie (§ 16) nach folgender Formel zu bilden:\\
 \\
 [[../normengrafiken/bgbl1_2017/j3815-1_0040.jpg]] .
 (5) Über die Gesamtleistung in der Prüfung ist eine Note zu bilden; sie wird als arithmetisches Mittel aus den Noten für die einzelnen Prüfungsteile errechnet. Im Falle der Befreiung von einzelnen Prüfungsbestandteilen nach § 17 entfällt diese Verpflichtung.
 
 § 19 - Bestehen der Meisterprüfung
 
-(1) Die Prüfung ist bestanden, wenn der Prüfling in jedem Prüfungsteil (§ 3) mindestens die Note �ausreichend“ erzielt hat.
+(1) Die Prüfung ist bestanden, wenn der Prüfling in jedem Prüfungsteil (§ 3) mindestens die Note ausreichend“ erzielt hat.
 (2) Die Prüfung ist nicht bestanden, wenn in der gesamten Prüfung mindestens
 
-- 1. :: eine der Leistungen in den Prüfungen nach den §§ 6 und 7, den §§ 10 und 11 sowie den §§ 14 bis 16 mit �ungenügend“ benotet worden ist oder
-- 2. :: mehr als eine dieser Leistungen mit �mangelhaft“ benotet worden ist.
+- 1. :: eine der Leistungen in den Prüfungen nach den §§ 6 und 7, den §§ 10 und 11 sowie den §§ 14 bis 16 mit ungenügend“ benotet worden ist oder
+- 2. :: mehr als eine dieser Leistungen mit mangelhaft“ benotet worden ist.
 
 (3) Ist die Meisterprüfung bestanden, stellt die zuständige Stelle darüber ein Zeugnis aus.
 (4) Im Fall des Bestehens stellt die zuständige Stelle für jeden Prüfling ein weiteres Zeugnis aus, in dem mindestens anzugeben sind:
@@ -294,7 +294,7 @@ Anschlie�Berufsausbildung und Mitarbeiterführung“ eine Note aus der Bewertung
 (1) Eine Meisterprüfung, die nicht bestanden wurde, kann zweimal wiederholt werden.
 (2) In der Wiederholungsprüfung ist der Prüfling auf Antrag von der Prüfung in einzelnen Prüfungsteilen nach § 3 und in einzelnen Prüfungen nach den §§ 6 und 7, den §§ 10 und 11 sowie den §§ 14 bis 16 zu befreien, wenn
 
-- 1. :: die entsprechenden Leistungen in einer vorangegangenen Prüfung mindestens mit �ausreichend“ bewertet worden sind und
+- 1. :: die entsprechenden Leistungen in einer vorangegangenen Prüfung mindestens mit ausreichend“ bewertet worden sind und
 - 2. :: der Prüfling sich innerhalb von zwei Jahren, gerechnet vom Tag der Feststellung des Ergebnisses der nicht bestandenen Prüfung an, zur Wiederholungsprüfung anmeldet.
 
 

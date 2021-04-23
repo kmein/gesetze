@@ -29,7 +29,7 @@ Anlage - Merkmale der Leichtmofas
 (Fundstelle des Originaltextes: BGBl. I 1993, 395)
 1
 Fahrrad-Merkmale
-†
+
 1.1
 Leergewicht:
 nicht mehr als 30 kg
@@ -64,7 +64,7 @@ Abweichungen von den Merkmalen 1.2 bis 1.6:
 andere Werte sind zugelassen, wenn diese die Benutzung des Leichtmofas als Fahrrad (Pedalantrieb) auf ebener Strecke von mindestens 10 km L√§nge in einer Zeit von h√∂chstens 30 Minuten bei einer h√∂chsten Leistungsabgabe zwischen 80 und 100 Watt sicherstellen
 2
 Mofa-Merkmale
-†
+
 2.1
 Hubraum:
 nicht mehr als 30 ccm

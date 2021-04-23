@@ -202,7 +202,7 @@ Produktionsablauf in der Feinkeramik (Â§ 3 Nr. 7)
 bei
 13
 13
- 
+
 a)
 betriebsbedingten Vorstudien
 b)
@@ -225,8 +225,8 @@ Formen von Figurenteilen (Â§ 3 Nr. 8)
 a)
 Formen kontrollieren und Arbeitsmassen bereitstellen
 6
- 
- 
+
+
 b)
 plastische Arbeitsmassen portionieren
 c)
@@ -238,8 +238,8 @@ GieÃŸen von Figurenteilen (Â§ 3 Nr. 9)
 a)
 Formen kontrollieren und Arbeitsmassen bereitstellen
 8
- 
- 
+
+
 b)
 HohlguÃŸverfahren unter Beachtung der Scherbenbildung anwenden
 c)
@@ -250,11 +250,11 @@ a)
 FormennÃ¤hte durch Ãœberarbeiten entfernen
 12
 6
- 
+
 b)
 Figurenteile nachmodellieren
- 
- 
+
+
 10
 11
 Zusammensetzen von Figurenteilen einschlieÃŸlich Retuschieren (Â§ 3 Nr. 11)
@@ -262,7 +262,7 @@ a)
 AnsatzflÃ¤chen auf PaÃŸfÃ¤higkeit prÃ¼fen und gegebenenfalls nacharbeiten
 7
 5
- 
+
 b)
 AnsatzflÃ¤chen aufrauhen und gegebenenfalls ausschneiden
 c)
@@ -273,22 +273,22 @@ e)
 Ansatzstellen verarbeiten
 6
 2
- 
+
 f)
 mehrteilige Figuren zusammensetzen und retuschieren
- 
- 
+
+
 15
 g)
 Modellierungen ergÃ¤nzen
- 
+
 14
 7
 12
 Belegarbeiten (Â§ 3 Nr. 12)
 a)
 Belegteile freihandformen oder einformen
- 
+
 6
 10
 b)
@@ -297,15 +297,15 @@ Belegteile angarnieren
 Vorbereiten der Rohlinge fÃ¼r Trocknung und Brand (Â§ 3 Nr. 13)
 a)
 paÃŸgenaue StÃ¼tzen anfertigen
- 
+
 6
- 
+
 b)
 paÃŸgenaue StÃ¼tzen an der vorgesehenen Position der Figur anbringen
 c)
 Trocknungsfehler feststellen und gegebenenfalls beheben
- 
- 
+
+
 4
 d)
 weitere Brennhilfsmittel auswÃ¤hlen und einsetzen
@@ -313,8 +313,8 @@ weitere Brennhilfsmittel auswÃ¤hlen und einsetzen
 GieÃŸen, Drehen und Fertigmachen von Geschirr (Â§ 3 Nr. 14)
 a)
 Hohlgeschirr eindrehen
- 
- 
+
+
 6
 b)
 Flachgeschirr Ã¼berdrehen

@@ -388,7 +388,7 @@ Anzurechnende Mindestwerte in Prozent der Ausscheidungen an Gesamtstickstoff in 
 
 2.
 
- 
+
 
 Ausbringung nach Abzug der Stall- und Lagerungsverluste
 
@@ -428,7 +428,7 @@ Schweine
 
 GeflÃ¼gel
 
- 
+
 
 60
 
@@ -436,7 +436,7 @@ GeflÃ¼gel
 
 andere Tierarten (z. B. Pferde, Schafe)
 
- 
+
 
 55
 
@@ -446,7 +446,7 @@ Betrieb einer Biogasanlage
 
 95
 
- 
+
 
 - <<FnA1-F811377_02>>[[#FnR.FnA1-F811377_02][1]] :: Basis: Stickstoffausscheidung abzÃ¼glich der Lagerungsverluste bzw. Ermittlung des Stickstoffgehaltes vor der Ausbringung.
 - <<FnA1-F811377_03>>[[#FnR.FnA1-F811377_03][2]] :: Weidetage sind anteilig zu berechnen, Ã¼ber die Weidehaltung sind geeignete Aufzeichnungen zu fÃ¼hren, die der nach Landesrecht zustÃ¤ndigen Stelle auf Verlangen vorzulegen sind.
@@ -475,7 +475,7 @@ Vorbemerkungen und Hinweise:
 - 2. :: Die Stickstoffbedarfswerte in der Tabelle beziehen sich auf das angegebene Ertragsniveau und die zu ermittelnde verfÃ¼gbare Stickstoffmenge (Nmin) in der Probenahmetiefe nach Spalte 4.
 - 3. :: Bei Abfuhr der ganzen Pflanze (zum Beispiel bei maschineller Porreeernte) sind keine AbschlÃ¤ge nach Spalte 5 vorzunehmen.
 - 4. :: Wird die Untersuchung des Stickstoff-Vorrats (Nmin) des Bodens frÃ¼hestens vier Wochen nach der Einarbeitung der Erntereste der Vorkultur durchgefÃ¼hrt, dÃ¼rfen die AbschlÃ¤ge nach Spalte 5 um bis zu zwei Drittel verringert werden.
-- 5. :: Die Ermittlung der verfÃ¼gbaren Stickstoffmenge im Boden ist abweichend von Â§ 4 Absatz 4 bei den in Spalte 3 mit â€*â€œ gekennzeichneten Kulturen in der 4. Kulturwoche und bei den in Spalte 3 mit â€**â€œ gekennzeichneten Kulturen in der 6. Kulturwoche durchzufÃ¼hren.
+- 5. :: Die Ermittlung der verfÃ¼gbaren Stickstoffmenge im Boden ist abweichend von Â§ 4 Absatz 4 bei den in Spalte 3 mit *â€œ gekennzeichneten Kulturen in der 4. Kulturwoche und bei den in Spalte 3 mit **â€œ gekennzeichneten Kulturen in der 6. Kulturwoche durchzufÃ¼hren.
 
 Vorbemerkungen und Hinweise:\\
 Die Ertragsdifferenz ist die Differenz zwischen dem Ertragsniveau nach Tabelle 4 und dem tatsÃ¤chlichen Ertragsniveau im Durchschnitt der letzten fÃ¼nf Jahre, in den nach Â§ 13a Absatz 1 Satz 1 Nummer 1 bis 3 durch Rechtsverordnung ausgewiesenen Gebieten sowie in den nach Â§ 13a Absatz 4 festgelegten Gebieten im Durchschnitt der Jahre 2015 bis einschlieÃŸlich 2019. Weicht das tatsÃ¤chliche Ertragsniveau in einem der letzten fÃ¼nf Jahre, in den nach Â§ 13a Absatz 1 Satz 1 Nummer 1 bis 3 durch Rechtsverordnung ausgewiesenen Gebieten sowie in den nach Â§ 13a Absatz 4 festgelegten Gebieten in einem der Jahre 2015 bis einschlieÃŸlich 2019, um mehr als 20 % vom Ertragsniveau des jeweils vorangegangenen Jahres ab, kann statt des tatsÃ¤chlichen Ertragsniveaus, das im Jahr der Abweichung erreicht wurde, das Ertragsniveau des jeweils vorangegangenen Jahres fÃ¼r die Ermittlung der Ertragsdifferenz herangezogen werden.
@@ -483,16 +483,16 @@ Vorbemerkungen und Hinweise:\\
 Bei stark humosem Boden muss ein Abschlag nach Spalte 2 vorgenommen werden.
 Vorbemerkungen und Hinweise:
 
-- 1. :: Im Falle von â€Weide intensivâ€œ gelten die angegebenen Werte fÃ¼r GrÃ¼nland- oder DauergrÃ¼nlandstandorte mit einer 4- bis 5-fachen Nutzung; die StickstoffrÃ¼ckfÃ¼hrung aus Weideexkrementen ist berÃ¼cksichtigt.
-- 2. :: Im Falle von â€Weide extensivâ€œ gelten die angegebenen Werte fÃ¼r GrÃ¼nland- oder DauergrÃ¼nlandstandorte mit einer 2- bis 3-fachen Nutzung und die StickstoffrÃ¼ckfÃ¼hrung aus Weideexkrementen ist berÃ¼cksichtigt.
-- 3. :: Im Falle von â€Ackergras (3 -- 4 Schnitte/Jahr)â€œ gelten die angegebenen Werte fÃ¼r zeitweise trockene Standorte.
+- 1. :: Im Falle von Weide intensivâ€œ gelten die angegebenen Werte fÃ¼r GrÃ¼nland- oder DauergrÃ¼nlandstandorte mit einer 4- bis 5-fachen Nutzung; die StickstoffrÃ¼ckfÃ¼hrung aus Weideexkrementen ist berÃ¼cksichtigt.
+- 2. :: Im Falle von Weide extensivâ€œ gelten die angegebenen Werte fÃ¼r GrÃ¼nland- oder DauergrÃ¼nlandstandorte mit einer 2- bis 3-fachen Nutzung und die StickstoffrÃ¼ckfÃ¼hrung aus Weideexkrementen ist berÃ¼cksichtigt.
+- 3. :: Im Falle von Ackergras (3 -- 4 Schnitte/Jahr)â€œ gelten die angegebenen Werte fÃ¼r zeitweise trockene Standorte.
 
 Vorbemerkungen und Hinweise:
 
 - 1. :: Die Ertragsdifferenz ist die Differenz zwischen dem Ertragsniveau nach Tabelle 9 und dem tatsÃ¤chlichen Ertragsniveau im Durchschnitt der letzten fÃ¼nf Jahre, in den nach Â§ 13a Absatz 1 Satz 1 Nummer 1 bis 3 durch Rechtsverordnung ausgewiesenen Gebieten sowie in den nach Â§ 13a Absatz 4 festgelegten Gebieten im Durchschnitt der Jahre 2015 bis einschlieÃŸlich 2019. Weicht das tatsÃ¤chliche Ertragsniveau in einem der letzten fÃ¼nf Jahre, in den nach Â§ 13a Absatz 1 Satz 1 Nummer 1 bis 3 durch Rechtsverordnung ausgewiesenen Gebieten sowie in den nach Â§ 13a Absatz 4 festgelegten Gebieten in einem der Jahre 2015 bis einschlieÃŸlich 2019, um mehr als 20 % vom Ertragsniveau des jeweils vorangegangenen Jahres ab, kann statt des tatsÃ¤chlichen Ertragsniveaus, das im Jahr der Abweichung erreicht wurde, das Ertragsniveau des jeweils vorangegangenen Jahres fÃ¼r die Ermittlung der Ertragsdifferenz herangezogen werden.
 - 2. :: Die Rohproteindifferenz ist die Differenz zwischen dem Rohproteingehalt nach Tabelle 9 und dem tatsÃ¤chlichen Rohproteingehalt im Durchschnitt der letzten fÃ¼nf Jahre, in den nach Â§ 13a Absatz 1 Satz 1 Nummer 1 bis 3 durch Rechtsverordnung ausgewiesenen Gebieten sowie in den nach Â§ 13a Absatz 4 festgelegten Gebieten im Durchschnitt der Jahre 2015 bis einschlieÃŸlich 2019. Sie ist nur dann zu ermitteln, wenn im Betrieb Untersuchungsergebnisse vorliegen. Weicht der tatsÃ¤chliche Rohproteingehalt in einem der letzten fÃ¼nf Jahre, in den nach Â§ 13a Absatz 1 Satz 1 Nummer 1 bis 3 durch Rechtsverordnung ausgewiesenen Gebieten sowie in den nach Â§ 13a Absatz 4 festgelegten Gebieten in einem der Jahre 2015 bis einschlieÃŸlich 2019, um mehr als 20 % vom Rohproteingehalt des jeweils vorangegangenen Jahres ab, kann statt des tatsÃ¤chlichen Rohproteingehalts, der im Jahr der Abweichung erreicht wurde, der Rohproteingehalt des jeweils vorangegangenen Jahres fÃ¼r die Ermittlung der Rohproteindifferenz herangezogen werden.
 - 3. :: Zu- und AbschlÃ¤ge richten sich nach der jeweiligen Differenz entsprechend den Vorgaben der Spalten 2 und 3.
-- 4. :: Im Falle von â€Ackergras (3 -- 4 Schnitte/Jahr)â€œ gelten die angegebenen Werte fÃ¼r zeitweise trockene Standorte.
+- 4. :: Im Falle von Ackergras (3 -- 4 Schnitte/Jahr)â€œ gelten die angegebenen Werte fÃ¼r zeitweise trockene Standorte.
 
 
 Anlage 5 - (zu Â§ 10 Absatz 1 Satz 2 und Absatz 2 Satz 2)JÃ¤hrlicher betrieblicher NÃ¤hrstoffeinsatz fÃ¼r Stickstoff (N) und Phosphat (P2O5) fÃ¼r das DÃ¼ngejahr â€¦â€¦â€¦
@@ -507,7 +507,7 @@ Anlage 5 - (zu Â§ 10 Absatz 1 Satz 2 und Absatz 2 Satz 2)JÃ¤hrlicher betrieblich
     - â€¢ :: Stickstoff (in kg N): ..........
     - â€¢ :: Phosphat (in kg P_{2}O_{5}): .........
 - 2. :: Erfassung der im Betrieb aufgebrachten NÃ¤hrstoffe
-   
+  
 
 
 Anlage 6 - (weggefallen)
@@ -560,7 +560,7 @@ Korn (12 % RP<<FnR.FnA1-F811377_05>>[[#FnA1-F811377_05][2]]} )
 
 0,35
 
- 
+
 
 Stroh
 
@@ -574,7 +574,7 @@ Stroh
 
 0,13
 
- 
+
 
 Korn + Stroh<<FnR.FnA1-F811377_06>>[[#FnA1-F811377_06][3]]}
 
@@ -588,7 +588,7 @@ Korn + Stroh<<FnR.FnA1-F811377_06>>[[#FnA1-F811377_06][3]]}
 
 0,45
 
- 
+
 
 Korn (14 % RPÂ²)
 
@@ -602,7 +602,7 @@ Korn (14 % RPÂ²)
 
 0,35
 
- 
+
 
 Stroh
 
@@ -616,9 +616,9 @@ Stroh
 
 0,13
 
- 
 
-Korn + Stroh³
+
+Korn + Stroh
 
 --
 
@@ -630,7 +630,7 @@ Korn + Stroh³
 
 0,45
 
- 
+
 
 Korn (16 % RPÂ²)
 
@@ -644,7 +644,7 @@ Korn (16 % RPÂ²)
 
 0,35
 
- 
+
 
 Stroh
 
@@ -658,9 +658,9 @@ Stroh
 
 0,13
 
- 
 
-Korn + Stroh³
+
+Korn + Stroh
 
 --
 
@@ -686,7 +686,7 @@ Korn (12 % RPÂ²)
 
 0,35
 
- 
+
 
 Stroh
 
@@ -700,9 +700,9 @@ Stroh
 
 0,13
 
- 
 
-Korn + Stroh³
+
+Korn + Stroh
 
 --
 
@@ -714,7 +714,7 @@ Korn + Stroh³
 
 0,44
 
- 
+
 
 Korn (13 % RPÂ²)
 
@@ -728,7 +728,7 @@ Korn (13 % RPÂ²)
 
 0,35
 
- 
+
 
 Stroh
 
@@ -742,9 +742,9 @@ Stroh
 
 0,13
 
- 
 
-Korn + Stroh³
+
+Korn + Stroh
 
 --
 
@@ -770,7 +770,7 @@ Korn (11 % RPÂ²)
 
 0,35
 
- 
+
 
 Stroh
 
@@ -784,9 +784,9 @@ Stroh
 
 0,13
 
- 
 
-Korn + Stroh³
+
+Korn + Stroh
 
 --
 
@@ -798,7 +798,7 @@ Korn + Stroh³
 
 0,47
 
- 
+
 
 Korn (12 % RPÂ²)
 
@@ -812,7 +812,7 @@ Korn (12 % RPÂ²)
 
 0,35
 
- 
+
 
 Stroh
 
@@ -826,9 +826,9 @@ Stroh
 
 0,13
 
- 
 
-Korn + Stroh³
+
+Korn + Stroh
 
 --
 
@@ -854,7 +854,7 @@ Korn (12 % RPÂ²)
 
 0,35
 
- 
+
 
 Stroh
 
@@ -868,9 +868,9 @@ Stroh
 
 0,13
 
- 
 
-Korn + Stroh³
+
+Korn + Stroh
 
 --
 
@@ -882,7 +882,7 @@ Korn + Stroh³
 
 0,47
 
- 
+
 
 Korn (13 % RPÂ²)
 
@@ -896,7 +896,7 @@ Korn (13 % RPÂ²)
 
 0,35
 
- 
+
 
 Stroh
 
@@ -910,9 +910,9 @@ Stroh
 
 0,13
 
- 
 
-Korn + Stroh³
+
+Korn + Stroh
 
 --
 
@@ -938,7 +938,7 @@ Korn (12 % RPÂ²)
 
 0,35
 
- 
+
 
 Stroh
 
@@ -952,9 +952,9 @@ Stroh
 
 0,13
 
- 
 
-Korn + Stroh³
+
+Korn + Stroh
 
 --
 
@@ -966,7 +966,7 @@ Korn + Stroh³
 
 0,46
 
- 
+
 
 Korn (13 % RPÂ²)
 
@@ -980,7 +980,7 @@ Korn (13 % RPÂ²)
 
 0,35
 
- 
+
 
 Stroh
 
@@ -994,9 +994,9 @@ Stroh
 
 0,13
 
- 
 
-Korn + Stroh³
+
+Korn + Stroh
 
 --
 
@@ -1022,7 +1022,7 @@ Korn (10 % RPÂ²)
 
 0,35
 
- 
+
 
 Stroh
 
@@ -1036,9 +1036,9 @@ Stroh
 
 0,13
 
- 
 
-Korn + Stroh³
+
+Korn + Stroh
 
 --
 
@@ -1050,7 +1050,7 @@ Korn + Stroh³
 
 0,44
 
- 
+
 
 Korn (11 % RPÂ²)
 
@@ -1064,7 +1064,7 @@ Korn (11 % RPÂ²)
 
 0,35
 
- 
+
 
 Stroh
 
@@ -1078,9 +1078,9 @@ Stroh
 
 0,13
 
- 
 
-Korn + Stroh³
+
+Korn + Stroh
 
 --
 
@@ -1106,7 +1106,7 @@ Korn (11 % RPÂ²)
 
 0,35
 
- 
+
 
 Stroh
 
@@ -1120,9 +1120,9 @@ Stroh
 
 0,13
 
- 
 
-Korn + Stroh³
+
+Korn + Stroh
 
 --
 
@@ -1134,7 +1134,7 @@ Korn + Stroh³
 
 0,49
 
- 
+
 
 Korn (12 % RPÂ²)
 
@@ -1148,7 +1148,7 @@ Korn (12 % RPÂ²)
 
 0,35
 
- 
+
 
 Stroh
 
@@ -1162,9 +1162,9 @@ Stroh
 
 0,13
 
- 
 
-Korn + Stroh³
+
+Korn + Stroh
 
 --
 
@@ -1204,7 +1204,7 @@ Korn (10 % RPÂ²)
 
 0,35
 
- 
+
 
 Stroh
 
@@ -1218,9 +1218,9 @@ Stroh
 
 0,09
 
- 
 
-Korn + Stroh³
+
+Korn + Stroh
 
 --
 
@@ -1232,7 +1232,7 @@ Korn + Stroh³
 
 0,44
 
- 
+
 
 Korn (11 % RPÂ²)
 
@@ -1246,7 +1246,7 @@ Korn (11 % RPÂ²)
 
 0,35
 
- 
+
 
 Stroh
 
@@ -1260,9 +1260,9 @@ Stroh
 
 0,09
 
- 
 
-Korn + Stroh³
+
+Korn + Stroh
 
 --
 
@@ -1290,7 +1290,7 @@ Korn (30 % RPÂ²)
 
 0,52
 
- 
+
 
 Stroh
 
@@ -1304,9 +1304,9 @@ Stroh
 
 0,13
 
- 
 
-Korn + Stroh³
+
+Korn + Stroh
 
 --
 
@@ -1332,7 +1332,7 @@ Korn (26 % RPÂ²)
 
 0,48
 
- 
+
 
 Stroh
 
@@ -1346,9 +1346,9 @@ Stroh
 
 0,13
 
- 
 
-Korn + Stroh³
+
+Korn + Stroh
 
 --
 
@@ -1366,7 +1366,7 @@ Korn (33 % RPÂ²)
 
 86
 
- 
+
 
 Â 4,48
 
@@ -1374,13 +1374,13 @@ Korn (33 % RPÂ²)
 
 0,45
 
- 
+
 
 Stroh
 
 86
 
- 
+
 
 Â 1,50
 
@@ -1388,9 +1388,9 @@ Stroh
 
 0,13
 
- 
 
-Korn + Stroh³
+
+Korn + Stroh
 
 --
 
@@ -1416,7 +1416,7 @@ Korn (32 % RPÂ²)
 
 0,66
 
- 
+
 
 Stroh
 
@@ -1430,9 +1430,9 @@ Stroh
 
 0,13
 
- 
 
-Korn + Stroh³
+
+Korn + Stroh
 
 --
 
@@ -1460,7 +1460,7 @@ Korn (23 % RPÂ²)
 
 0,78
 
- 
+
 
 Stroh
 
@@ -1474,9 +1474,9 @@ Stroh
 
 0,17
 
- 
 
-Korn + Stroh³
+
+Korn + Stroh
 
 --
 
@@ -1502,7 +1502,7 @@ Korn (20 % RPÂ²)
 
 0,70
 
- 
+
 
 Stroh
 
@@ -1516,9 +1516,9 @@ Stroh
 
 0,40
 
- 
 
-Korn + Stroh³
+
+Korn + Stroh
 
 --
 
@@ -1544,7 +1544,7 @@ Korn
 
 0,77
 
- 
+
 
 Stroh
 
@@ -1558,9 +1558,9 @@ Stroh
 
 0,17
 
- 
 
-Korn + Stroh³
+
+Korn + Stroh
 
 --
 
@@ -1586,7 +1586,7 @@ Korn
 
 0,52
 
- 
+
 
 Stroh
 
@@ -1600,9 +1600,9 @@ Stroh
 
 0,09
 
- 
 
-Korn + Stroh³
+
+Korn + Stroh
 
 --
 
@@ -1676,7 +1676,7 @@ Knolle
 
 0,06
 
- 
+
 
 Kraut
 
@@ -1690,9 +1690,9 @@ Kraut
 
 0,02
 
- 
 
-Knolle + Kraut³
+
+Knolle + Kraut
 
 --
 
@@ -1718,7 +1718,7 @@ RÃ¼be
 
 0,04
 
- 
+
 
 Blatt
 
@@ -1732,9 +1732,9 @@ Blatt
 
 0,05
 
- 
 
-RÃ¼be + Blatt³
+
+RÃ¼be + Blatt
 
 --
 
@@ -1760,7 +1760,7 @@ RÃ¼be
 
 0,04
 
- 
+
 
 Blatt
 
@@ -1774,9 +1774,9 @@ Blatt
 
 0,03
 
- 
 
-RÃ¼be + Blatt³
+
+RÃ¼be + Blatt
 
 --
 
@@ -1802,7 +1802,7 @@ RÃ¼be
 
 0,03
 
- 
+
 
 Blatt
 
@@ -1816,9 +1816,9 @@ Blatt
 
 0,02
 
- 
 
-RÃ¼be + Blatt³
+
+RÃ¼be + Blatt
 
 --
 
@@ -1973,7 +1973,7 @@ Stroh
 
 0,15
 
-Samen + Stroh³
+Samen + Stroh
 
 --
 
@@ -2011,7 +2011,7 @@ Stroh
 
 0,13
 
-Samen + Stroh³
+Samen + Stroh
 
 --
 
@@ -2124,7 +2124,7 @@ Dill, Industrieware
 
 Erdbeeren
 
- 
+
 
 Â 17
 
@@ -2204,7 +2204,7 @@ Kohlrabi
 
 KohlrÃ¼be
 
- 
+
 
 Â 26
 
@@ -2355,7 +2355,7 @@ Rettich, japanisch
 
 Rhabarber ab Ertragsbeginn
 
- 
+
 
 Â 18
 
@@ -2610,7 +2610,7 @@ Sellerie, Stangen-
 
 Spargel ab Ertragsbeginn
 
- 
+
 
 Â 26
 
@@ -2747,9 +2747,9 @@ Ernteprodukt
 
 NÃ¤hrstoffgehalt in kg NÃ¤hrstoff/dt TM<<FnR.FnA3-F811377_08>>[[#FnA3-F811377_08][1]]}
 
- 
 
- 
+
+
 
 N
 

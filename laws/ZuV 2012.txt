@@ -16,9 +16,9 @@ verordnet die Bundesregierung:
 
 InhaltsÃ¼bersicht
 
- 
+
 Abschnitt 1
- 
+
 Allgemeine Vorschriften
 Â§ 1
 Anwendungsbereich und Zweck
@@ -26,10 +26,10 @@ Anwendungsbereich und Zweck
 Begriffsbestimmungen
 Â§ 3
 Allgemeine Anforderungen an die ZuteilungsantrÃ¤ge
- 
- 
+
+
 Abschnitt 2
- 
+
 Allgemeine Regeln zur Bestimmung der Kohlendioxid-Emissionen
 Â§ 4
 Nutzung einheitlicher Stoffwerte
@@ -41,10 +41,10 @@ Bestimmung der Kohlendioxid-Emissionen
 Emissionsberechnung auf der Grundlage einer Bilanzierung des Kohlenstoffgehalts
 Â§ 8
 Messung der Kohlendioxid-Emissionen
- 
- 
+
+
 Abschnitt 3
- 
+
 Besondere Antragserfordernisse und Regeln der Berechnung der Kohlendioxid-Emissionen
 Â§ 9
 Kohlendioxid-Emissionen aus der Regeneration von Katalysatoren und aus der Kalzinierung von Petrolkoks
@@ -68,10 +68,10 @@ Bestimmung des Effizienzstandards
 FrÃ¼hzeitige Emissionsminderungen
 Â§ 19
 Kuppelgas
- 
- 
+
+
 Abschnitt 4
- 
+
 Gemeinsame Vorschriften
 Â§ 20
 Anforderungen an die Verifizierung der ZuteilungsantrÃ¤ge
@@ -79,16 +79,16 @@ Anforderungen an die Verifizierung der ZuteilungsantrÃ¤ge
 Ordnungswidrigkeiten
 Â§ 22
 Inkrafttreten
- 
+
 Anhang 1
 Einheitliche Stoffwerte fÃ¼r Emissionsfaktoren, Heizwerte und Kohlenstoffgehalte fÃ¼r Brennstoffe, Rohstoffe und Produkte
- 
+
 Anhang 2
 Bestimmung des spezifischen Kohlendioxid-Emissionsfaktors fÃ¼r Vollwert-Steinkohle Ã¼ber den unteren Heizwert
- 
+
 Anhang 3
 Ermittlung der Kohlendioxid-Emissionen aus der Regeneration von Katalysatoren und aus der Kalzinierung von Petrolkoks
- 
+
 Anhang 4
 Berechnungsvorschriften fÃ¼r Abzug und Hinzurechnungder Kuppelgasemissionen
 

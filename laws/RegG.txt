@@ -241,18 +241,18 @@ fÃ¼r das Bundesland
 
 Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â im Jahr:
 
- 
+
 
 Ãœbersendung bis 30.09. des Folgejahres an BMVI
 
- 
+
 
 BetrÃ¤ge in Euro\\
 (Zu Ziffern 1 bis 7, 9, 10)
 
- 
 
- 
+
+
 
 Bereich
 
@@ -281,783 +281,783 @@ Kap./Tit.
 
 VerfÃ¼gbare Mittel
 
- 
+
 
 Zuweisung nach Â§ 5 RegG
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Reste Vorjahr
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 verfÃ¼gbare Mittel gesamt
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Â 2
 
 Leistungsbestellungen
 
- 
+
 
 Bestellungen im SPNV/\\
 Bestellerentgelte
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
 
 davon wettbewerblich vergeben<<FnR.FnA1-F1_796380>>[[#FnA1-F1_796380][1]]}
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
 
 davon nicht wettbewerblich vergeben[[#FnA1-F1_796380][1]]}
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
 
 davon Trassenentgelte
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
 
 davon Stationsentgelte
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Bestellungen im Ã–PNV
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
 
 davon wettbewerblich\\
 vergeben
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
 
 davon nicht wettbewerblich vergeben
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Â 3
 
 Managementaufwand
 
- 
+
 
 SPNV
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Ã–PNV
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Â 4
 
 Investitionen in Verkehrsanlagen
 
- 
+
 
 SPNV
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
 
 Bauprojekte\\
 ab 5 Millionen Euro<<FnR.FnA1-F2_796380>>[[#FnA1-F2_796380][2]]}
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
 
 davon DB Netz AG
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
 
 davon DB Station & Service AG
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
 
 davon Sonstige
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Ã–PNV
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Â 5
 
 Investitionen in Fahrzeuge
 
- 
+
 
 SPNV<<FnR.FnA1-F3_796380>>[[#FnA1-F3_796380][3]]}
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
 
 davon DB AG
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
 
 davon NE-Bahnen
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Ã–PNV
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Â 6
 
 Tarifausgleiche
 
- 
+
 
 VerbundfÃ¶rderung
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
 
 Ausgleich Ausbildungsverkehre<<FnR.FnA1-F4_796380>>[[#FnA1-F4_796380][4]]}
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
 
 davon Schiene
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
 
 davon StraÃŸe
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
 
 Erstattung FahrgeldausfÃ¤lle aus BefÃ¶rderung schwerbehinderter Menschen
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Â 7
 
 Sonstige\\
 Ausgaben<<FnR.FnA1-F5_796380>>[[#FnA1-F5_796380][5]]}
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Â 8
 
 Sonstiges
 
- 
+
 
 Bestellte Zugkilometer
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
 
 Erbrachte Zugkilometer
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
 
 Betriebene Streckenkilometer im SPNV
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Ãœbersicht VerkehrsvertrÃ¤ge im SPNV<<FnR.FnA1-F6_796380>>[[#FnA1-F6_796380][6]]}
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Â 9
 
 Summe Ausgaben
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
 
 10
 
 Differenz verfÃ¼gbare Mittel/Ausgaben<<FnR.FnA1-F7_796380>>[[#FnA1-F7_796380][7]]}
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
 
 - <<FnA1-F1_796380>>[[#FnR.FnA1-F1_796380][1]] :: Jeweils unter Angabe der Anteile DB AG-Unternehmen und Wettbewerber.
 - <<FnA1-F2_796380>>[[#FnR.FnA1-F2_796380][2]] :: Investitionen in Verkehrsanlagen mÃ¼ssen ab einem Volumen von 5 Millionen Euro in einer gesonderten Anlage nÃ¤her beschrieben werden: Beschreibung der einzelnen Bauprojekte, Kosten/Zeitraum, erforderliche RÃ¼ckstellungen.
@@ -1074,8 +1074,8 @@ Anlage 5 - (zu Â§ 7 Absatz 6)Nachweis Ã¼ber die Verwendung der zusÃ¤tzlichen Reg
 Nachweis Ã¼ber die Verwendung der zusÃ¤tzlichen Regionalisierungsmittel
 fÃ¼r das Bundesland
 im Jahr:
- 
- 
+
+
 Bereich
 Veranschlagt\\
 im Landes-\\
@@ -1088,44 +1088,44 @@ IST
 Kap./Tit.
 1
 VerfÃ¼gbare Mittel
- 
+
 Zuweisung nach Â§ 7 RegG
- 
- 
- 
+
+
+
 Minderung/Aufstockung aufgrund LÃ¤nderausgleich
- 
- 
- 
+
+
+
 verfÃ¼gbare Mittel gesamt
- 
- 
+
+
 2
 Ausgleich von finanziellen Nachteilen\\
 im Ã¶ffentlichen\\
 Personennahverkehr
- 
+
 aufgrund geringerer Ausgleichsleistungen
- 
- 
- 
+
+
+
 aufgrund des RÃ¼ckgangs von Fahrgeldeinnahmen
- 
- 
- 
+
+
+
 aufgrund des RÃ¼ckgangs von Ausgleichszahlungen aus allgemeinen Vorschriften
- 
- 
- 
+
+
+
 aufgrund erhÃ¶hter Aufwendungen fÃ¼r Infektionsschutz
- 
- 
- 
+
+
+
 Summe
- 
- 
+
+
 3
 Differenz verfÃ¼gbare\\
 Mittel/Ausgaben"<<FnR.F812478_01>>[[#F812478_01][1]]}
- 
- 
+
+

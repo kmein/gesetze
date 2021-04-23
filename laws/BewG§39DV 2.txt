@@ -43,17 +43,17 @@ A. Vorbemerkungen
 
 B. Zusammenstellung der Hauptbewertungsst√ºtzpunkte der weinbaulichen Nutzung
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
 
 Lfd. Nr.
 
@@ -84,7 +84,7 @@ ausbauender Betriebsweise mit Flaschenweinerzeugung
 W 41.01
 
 Graacher M√ºnzley\\
-Das Flurst√ºck 2974/1266 der Katastergewanne ‚ÄM√ºnzley"
+Das Flurst√ºck 2974/1266 der Katastergewanne M√ºnzley"
 
 Bernkastel
 
@@ -97,7 +97,7 @@ Bernkastel
 W 41.02
 
 Piesporter Goldtr√∂pfchen\\
-Die Katastergewanne ‚ÄAuf Dambesmauer"
+Die Katastergewanne Auf Dambesmauer"
 
 Wittlich
 
@@ -110,7 +110,7 @@ Wittlich
 W 41.03
 
 Dhronhofberg\\
-Die Flurst√ºcke Nr. 3408/220 und 3409/220 der Katastergewanne ‚ÄIm Hoiberg" auf Flur 5
+Die Flurst√ºcke Nr. 3408/220 und 3409/220 der Katastergewanne Im Hoiberg" auf Flur 5
 
 Bernkastel
 
@@ -123,7 +123,7 @@ Bernkastel
 W 41.04
 
 Enkircher L√∂wenbaum\\
-Die Katastergewanne ‚ÄIm L√∂wenbaum"
+Die Katastergewanne Im L√∂wenbaum"
 
 Zell {Mosel)
 
@@ -149,7 +149,7 @@ Saarburg {Bez. Trier)
 W 41.06
 
 Longuicher Herrenberg\\
-Die Katastergewanne ‚ÄIm Herrenberg"
+Die Katastergewanne Im Herrenberg"
 
 Trier
 
@@ -162,7 +162,7 @@ Trier
 W 41.07
 
 Kaseler Niesdien\\
-Die Katastergewanne ‚ÄIm Nieschen"
+Die Katastergewanne Im Nieschen"
 
 Trier
 
@@ -175,7 +175,7 @@ Trier
 W 41.08
 
 Trabener W√ºrzgarten\\
-Die Katastergewannen ‚ÄBergp√§chter" und ‚ÄPriwingert"
+Die Katastergewannen Bergp√§chter" und Priwingert"
 
 Zell (Mosel)
 
@@ -188,7 +188,7 @@ Zell (Mosel)
 W 41.09
 
 Senheimer Lay\\
-Die Katastergewanne ‚ÄIn der Lay"
+Die Katastergewanne In der Lay"
 
 Zell (Mosel)
 
@@ -201,7 +201,7 @@ Zell (Mosel)
 W 41.10
 
 Kinheimer Hubertuslay\\
-Die Katastergewannen ‚ÄIm Hamp√§chter" und ‚ÄHamp√§chter"
+Die Katastergewannen Im Hamp√§chter" und Hamp√§chter"
 
 Wittlich
 
@@ -227,7 +227,7 @@ Saarburg (Bez. Trier)
 W 41.12
 
 Ellenzer Goldb√§umchen\\
-Die Katastergewanne ‚ÄIm Hengst"
+Die Katastergewanne Im Hengst"
 
 Cochem (Mosel)
 
@@ -253,7 +253,7 @@ Saarburg (Bez. Trier)
 W 41.14
 
 Pommerner Kreismund\\
-Die n√∂rdlich der Bahnlinie gelegenen Teile der Katastergewanne ‚ÄIm Kreismund"
+Die n√∂rdlich der Bahnlinie gelegenen Teile der Katastergewanne Im Kreismund"
 
 Cochem (Mosel)
 
@@ -266,7 +266,7 @@ Cochem (Mosel)
 W 41.15
 
 Dernauer Hardtberg\\
-Die Katastergewanne ‚ÄIm Hardtberg"
+Die Katastergewanne Im Hardtberg"
 
 Ahrweiler
 
@@ -279,7 +279,7 @@ Ahrweiler
 W 41.16
 
 Bopparder Hamm\\
-Die Katastergewanne ‚ÄAn Hetz"
+Die Katastergewanne An Hetz"
 
 St. Goar
 
@@ -292,7 +292,7 @@ St. Goar
 W 41.17
 
 Oberdiebacher F√ºrstenberg\\
-Die nordwestlich der Stra√Am Schlo√Auf der Deichheck" sowie der Flurst√ºcke Nr. 44---57 der Gewanne ‚ÄAuf dem Moor"
+Die nordwestlich der StraAm SchloAuf der Deichheck" sowie der Flurst√ºcke Nr. 44---57 der Gewanne Auf dem Moor"
 
 St. Goar
 
@@ -305,7 +305,7 @@ St. Goar
 W 41.18
 
 Niederh√§user Hermannsh√∂hle\\
-Die Kataster/gew√§nne ‚ÄIn der Hermannsh√∂hle" ausschlie√ülich der Flurst√ºcke Nr. 175---178
+Die Kataster/gew√§nne In der Hermannsh√∂hle" ausschlie√ülich der Flurst√ºcke Nr. 175---178
 
 Bad Kreuznach
 
@@ -318,7 +318,7 @@ Bad Kreuznach
 W 41.19
 
 Winzenhehner Rosenhecke\\
-Die Katastergewanne ‚ÄRosenhecke"
+Die Katastergewanne Rosenhecke"
 
 Bad Kreuznach
 
@@ -331,7 +331,7 @@ Bad Kreuznach
 W 41.20
 
 Langenlonsheimer Sonnenborn\\
-Die Katastergewannen ‚ÄAm Sonnenborn", ‚ÄIm Sonnenborn", ‚ÄIn der Geldschei√Im Ackerweg", ‚ÄIm B√∂he!" und ‚ÄIm mittelsten B√∂hel" sowie von den Gewannen ‚ÄIm hintersten Sonnenborn" die Flurst√ºcke Nr. 198----209 und ‚ÄIm Gebgern" die Flurst√ºcke Nr. 215---226
+Die Katastergewannen Am Sonnenborn", Im Sonnenborn", In der GeldscheiIm Ackerweg", Im B√∂he!" und Im mittelsten B√∂hel" sowie von den Gewannen Im hintersten Sonnenborn" die Flurst√ºcke Nr. 198----209 und Im Gebgern" die Flurst√ºcke Nr. 215---226
 
 Bad Kreuznach
 
@@ -344,7 +344,7 @@ Bad Kreuznach
 W 41.21
 
 Meddersheim\\
-Die Weinbaufl√§chen der Katastergewannen ‚ÄOben in Wingertschied" und ‚ÄVorn im Wingertschied"
+Die Weinbaufl√§chen der Katastergewannen Oben in Wingertschied" und Vorn im Wingertschied"
 
 Bad Kreuznach
 
@@ -357,7 +357,7 @@ Bad Kreuznach
 W 41.22
 
 Oppenheimer Sacktr√§ger\\
-Die Katastergewanne ‚ÄIm Sacktr√§ger"
+Die Katastergewanne Im Sacktr√§ger"
 
 Oppenheim
 
@@ -409,7 +409,7 @@ Worms
 W 41.26
 
 W√∂llstein\\
-Die Katastergewannen ‚ÄAm Neuweg", ‚ÄAm Kehrweg links" sowie die Flurst√ºcke Nr. 84---111 der Kat.Gew. ‚ÄAuf der unteren Heide" Nr. 30---37 der Kat.Gew. ‚ÄIm Baudenberg" und Nr. 132---144 der Kat.Gew. ‚ÄAm Kehrweg"
+Die Katastergewannen Am Neuweg", Am Kehrweg links" sowie die Flurst√ºcke Nr. 84---111 der Kat.Gew. Auf der unteren Heide" Nr. 30---37 der Kat.Gew. Im Baudenberg" und Nr. 132---144 der Kat.Gew. Am Kehrweg"
 
 Alzey
 
@@ -422,7 +422,7 @@ Alzey
 W 41.27
 
 Ingelheimer Mainzerberg\\
-Die Weinbaulagen der Fluren 9A und 9B ohne die Kat.Gew. ‚ÄHinterhofen", zus√§tzlich der Kat. Gew. ‚ÄAm Behlweg" auf der Flur 9 CD
+Die Weinbaulagen der Fluren 9A und 9B ohne die Kat.Gew. Hinterhofen", zus√§tzlich der Kat. Gew. Am Behlweg" auf der Flur 9 CD
 
 Bingen (Rhein)
 
@@ -436,9 +436,9 @@ W 41.28
 
 Harxheim
 
-| Die Katastergewannen | ‚ÄIm Kronenberg"    |
-| ¬†                    | ‚ÄIm Osterberg" und |
-| ¬†                    | ‚ÄIm Heidenloch"    |
+| Die Katastergewannen | Im Kronenberg"    |
+| ¬†                    | Im Osterberg" und |
+| ¬†                    | Im Heidenloch"    |
 
 Mainz
 
@@ -451,7 +451,7 @@ Mainz
 W 41.29
 
 Forster Kirchenst√ºck\\
-Die Katastergewanne ‚ÄHinter der Kirche"
+Die Katastergewanne Hinter der Kirche"
 
 Bad D√ºrkheim
 
@@ -464,7 +464,7 @@ Bad D√ºrkheim
 W 41.30
 
 Kallstadter Kobnert\\
-Die Katastergewanne ‚ÄAm Kobnert"
+Die Katastergewanne Am Kobnert"
 
 Bad D√ºrkheim
 
@@ -477,7 +477,7 @@ Bad D√ºrkheim
 W 41.31
 
 Haardter Herrenletten\\
-Die Katastergewanne ‚ÄIm Herrenletten"
+Die Katastergewanne Im Herrenletten"
 
 Neustadt (Weinstra√üe)
 
@@ -490,7 +490,7 @@ Neustadt (Weinstra√üe)
 W 41.32
 
 Edenkoben\\
-Die Katastergewannen ‚ÄIm alten Vertrag in der Heckgewann", ‚ÄIn der Sohllappe beim alten Vertrag", ‚ÄHinter der Hecke beim alten Vertrag", ‚ÄAuf der Platte oder in der Sohllappe", ‚ÄIm alten Vertrag", ‚ÄAuf der Platte", ‚ÄAm Landauer Weg", ‚ÄIm Vogler", ‚ÄHinter der Hecke oder am alten Verlrag", ‚ÄAm Flurgraben"
+Die Katastergewannen Im alten Vertrag in der Heckgewann", In der Sohllappe beim alten Vertrag", Hinter der Hecke beim alten Vertrag", Auf der Platte oder in der Sohllappe", Im alten Vertrag", Auf der Platte", Am Landauer Weg", Im Vogler", Hinter der Hecke oder am alten Verlrag", Am Flurgraben"
 
 Landau (Pfalz)
 
@@ -516,7 +516,7 @@ Landau (Pfalz)
 W 41.34
 
 Bockenheimer Vogelgesang\\
-Die Flurst√ºcke Nr. 483---527 und 564---606 der Katastergewanne ‚ÄVogelgesang auf der Gemarkung Kleinbockenheim"
+Die Flurst√ºcke Nr. 483---527 und 564---606 der Katastergewanne Vogelgesang auf der Gemarkung Kleinbockenheim"
 
 Gr√ºnstadt
 
@@ -529,7 +529,7 @@ Gr√ºnstadt
 W 41.35
 
 Dackenheim\\
-Die Katastergewannen ‚ÄAm Herxheimer Weg", ‚ÄIn der oberen Roth", ‚ÄIm Liebesbrunnen", ‚ÄAm Hasenpfad", ‚ÄIn der Halde", ‚ÄIm Pfahl" sowie ‚ÄIn der Roth" mit den Flurst√ºcken 346---358
+Die Katastergewannen Am Herxheimer Weg", In der oberen Roth", Im Liebesbrunnen", Am Hasenpfad", In der Halde", Im Pfahl" sowie In der Roth" mit den Flurst√ºcken 346---358
 
 Bad D√ºrkheim
 
@@ -542,7 +542,7 @@ Bad D√ºrkheim
 W 41.36
 
 Rechtenbach\\
-Die Katastergewannen ‚ÄBergel" und ‚ÄStockwingert"
+Die Katastergewannen Bergel" und Stockwingert"
 
 Bergzabern
 
@@ -566,7 +566,7 @@ Parzellen 15, 16, 17, 18, 19, 20
 
 R√ºdesheim (Rhein)
 
-†
+
 
 338
 
@@ -585,7 +585,7 @@ Flur 24
 
 R√ºdesheim (Rhein)
 
-†
+
 
 204
 
@@ -604,7 +604,7 @@ Flur 30
 
 Frankfurt-H√∂chst
 
-†
+
 
 158
 
@@ -638,7 +638,7 @@ Flur 11
 
 R√ºdesheim (Rhein)
 
-†
+
 
 133
 
@@ -668,7 +668,7 @@ Flur 15
 
 Bensheim
 
-†
+
 
 81
 
@@ -692,9 +692,9 @@ R√ºdesheim (Rhein)
 
 29
 
-†
 
-†
+
+
 
 W 51.09
 
@@ -747,7 +747,7 @@ T 1/6 8324, 8330,T 8332, 8338, T 8348, 8370
 
 Offenburg (Baden)
 
-†
+
 
 135
 
@@ -760,7 +760,7 @@ Flurst√ºcks-Nr. T 228
 
 Uberlingen (Bodensee)
 
-†
+
 
 90
 
@@ -790,9 +790,9 @@ Offenburg (Baden)
 
 50
 
-†
 
-†
+
+
 
 W 72.05
 
@@ -804,9 +804,9 @@ B√ºhl (Baden)
 
 47
 
-†
 
-†
+
+
 
 W 72.06
 
@@ -818,9 +818,9 @@ Flurst√ºcks-Nr.\\
 
 45
 
-†
 
-†
+
+
 
 W 72.07
 
@@ -860,9 +860,9 @@ Freiburg (Breisgau)
 
 36
 
-†
 
-†
+
+
 
 W 72.10
 
@@ -873,9 +873,9 @@ Achern (Baden)
 
 33
 
-†
 
-†
+
+
 
 W 72.11
 
@@ -887,9 +887,9 @@ L√∂rrach
 
 22
 
-†
 
-†
+
+
 
 W 73.01
 
@@ -901,9 +901,9 @@ Heilbronn (Neckar)
 
 42
 
-†
 
-†
+
+
 
 W 73.02
 
@@ -915,9 +915,9 @@ Schorndorf (W√ºrtt.)
 
 36
 
-†
 
-†
+
+
 
 W 73.03
 
@@ -985,9 +985,9 @@ Urach (W√ºrtt.)
 
 23
 
-†
 
-†
+
+
 
 W 81.01
 
@@ -997,7 +997,7 @@ Flurst√ºcks-Nr. 5509, 55091/2, 55091/3, 5524, 5704, 5736, 5737, 5745, 5749, 5756
 
 W√ºrzburg
 
-†
+
 
 81
 
@@ -1013,9 +1013,9 @@ W√ºrzburg
 
 63
 
-†
 
-†
+
+
 
 W 81.03
 
@@ -1053,7 +1053,7 @@ Flurst√ºcks-Nr. 3854, 3855, 3856, 3857, 3858, 3859, 3860, 3861, 3862, 3863,. 386
 
 Marktheidenfeld
 
-†
+
 
 36
 
@@ -1083,6 +1083,6 @@ Aschaffenburg
 
 14,5
 
-†
 
-†
+
+

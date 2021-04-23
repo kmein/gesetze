@@ -7,14 +7,14 @@ Ausfertigungsdatum: 27.05.1993
 Inhaltsverzeichnis *)
 
 Erster Teil
- 
+
 GrundsÃ¤tzliche Bestimmungen fÃ¼r die Schiffahrt auf der Donau
- 
- 
+
+
 Kapitel 1
- 
- 
- 
+
+
+
 Allgemeine Bestimmungen
 Â§ 1.01
 Begriffsbestimmungen
@@ -68,12 +68,12 @@ Vorschriften Ã¼ber die BefÃ¶rderung gefÃ¤hrlicher GÃ¼ter
 Schutz und Winterzeit
 Â§ 1.26
 Anwendungsbereich des Ersten Teiles
- 
- 
+
+
 Kapitel 2
- 
- 
- 
+
+
+
 Kennzeichen und Tiefgangsanzeiger der Fahrzeuge; Schiffseichung
 Â§ 2.01
 Kennzeichen der Fahrzeuge, ausgenommen Kleinfahrzeuge
@@ -85,17 +85,17 @@ Schiffseichung
 Einsenkungsmarken und Tiefgangsanzeiger
 Â§ 2.05
 Kennzeichen der Anker
- 
- 
+
+
 Kapitel 3
- 
- 
- 
+
+
+
 Bezeichnung der Fahrzeuge
- 
- 
- 
- 
+
+
+
+
 Abschnitt I.
 Allgemeines
 Â§ 3.01
@@ -112,17 +112,17 @@ Verbotene Lichter und Zeichen
 Ersatzlichter
 Â§ 3.07
 Verbotener Gebrauch von Signalleuchten, Scheinwerfern, Tafeln, Flaggen und anderen GegenstÃ¤nden
- 
- 
- 
- 
+
+
+
+
 Abschnitt II.
 Nachtbezeichnung
- 
- 
- 
- 
- 
+
+
+
+
+
 Titel A. Nachtbezeichnung wÃ¤hrend der Fahrt
 Â§ 3.08
 Nachtbezeichnung einzeln fahrender Fahrzeuge mit Maschinenantrieb in Fahrt
@@ -148,11 +148,11 @@ entfÃ¤llt
 ZusÃ¤tzliche Nachtbezeichnung manÃ¶vrierunfÃ¤higer Fahrzeuge
 Â§ 3.19
 Nachtbezeichnung der SchwimmkÃ¶rper und schwimmenden Anlagen in Fahrt
- 
- 
- 
- 
- 
+
+
+
+
+
 Titel B. Nachtbezeichnung beim Stilliegen
 Â§ 3.20
 Nachtbezeichnung der Fahrzeuge beim Stilliegen
@@ -172,17 +172,17 @@ Nachtbezeichnung der Netze und anderer FischereigerÃ¤te stilliegender Fahrzeuge
 Nachtbezeichnung schwimmender GerÃ¤te bei der Arbeit sowie festgefahrener oder gesunkener Fahrzeuge
 Â§ 3.28
 Nachtbezeichnung der Anker, die die Schiffahrt gefÃ¤hrden kÃ¶nnen
- 
- 
- 
- 
+
+
+
+
 Abschnitt III.
 Tagbezeichnung
- 
- 
- 
- 
- 
+
+
+
+
+
 Titel A. Tagbezeichnung wÃ¤hrend der Fahrt
 Â§ 3.29
 Tagbezeichnung der SchleppverbÃ¤nde in Fahrt
@@ -200,11 +200,11 @@ Tagbezeichnung der FÃ¤hren in Fahrt
 ZusÃ¤tzliche Tagbezeichnung manÃ¶vrierunfÃ¤higer Fahrzeuge
 Â§ 3.36
 ZusÃ¤tzliche Tagbezeichnung der Fahrzeuge mit Vorrang
- 
- 
- 
- 
- 
+
+
+
+
+
 Titel B. Tagbezeichnung beim Stilliegen
 Â§ 3.36a
 Tagbezeichnung der Fahrzeuge beim Stilliegen
@@ -220,10 +220,10 @@ Tagbezeichnung der Netze oder anderer FischereigerÃ¤te stilliegender Fischereifa
 Tagbezeichnung schwimmender GerÃ¤te bei der Arbeit und festgefahrener oder gesunkener Fahrzeuge
 Â§ 3.42
 Tagbezeichnung der Anker, die die Schiffahrt gefÃ¤hrden kÃ¶nnen
- 
- 
- 
- 
+
+
+
+
 Abschnitt IV.
 Sonstige Zeichen
 Â§ 3.43
@@ -240,12 +240,12 @@ Verbot des Stilliegens nebeneinander
 ZusÃ¤tzliche Bezeichnung zum Schutz gegen Wellenschlag
 Â§ 3.49
 ZusÃ¤tzliche Bezeichnung der Fahrzeuge in Fahrt, die Arbeiten in der WasserstraÃŸe ausfÃ¼hren
- 
- 
+
+
 Kapitel 4
- 
- 
- 
+
+
+
 Schallzeichen der Fahrzeuge; Sprechfunk
 Â§ 4.01
 Allgemeines
@@ -255,28 +255,28 @@ Gebrauch der Schallzeichen
 Verbotene Schallzeichen
 Â§ 4.04
 Sprechfunk
- 
- 
+
+
 Kapitel 5
- 
- 
- 
+
+
+
 Schiffahrtszeichen und Bezeichnung der WasserstraÃŸe
 Â§ 5.01
 Schiffahrtszeichen
 Â§ 5.02
 Bezeichnung der WasserstraÃŸe
- 
- 
+
+
 Kapitel 6
- 
- 
- 
+
+
+
 Fahrregeln
- 
- 
- 
- 
+
+
+
+
 Abschnitt I.
 Allgemeines
 Â§ 6.01
@@ -285,10 +285,10 @@ Begriffsbestimmungen
 Fahrzeuge mit hoher Geschwindigkeit
 Â§ 6.02
 Kleinfahrzeuge
- 
- 
- 
- 
+
+
+
+
 Abschnitt II.
 Begegnen, Kreuzen und Ãœberholen
 Â§ 6.03
@@ -311,10 +311,10 @@ Durch Schiffahrtszeichen verbotenes Begegnen
 Ãœberholen
 Â§ 6.11
 Ãœberholverbot durch Schiffahrtszeichen
- 
- 
- 
- 
+
+
+
+
 Abschnitt III.
 Weitere Regeln fÃ¼r die Fahrt
 Â§ 6.12
@@ -341,18 +341,18 @@ VerbÃ¤nde
 VorÃ¼bergehende Sperrung der Schiffahrt
 Â§ 6.22a
 Vorbeifahrt an schwimmenden GerÃ¤ten bei der Arbeit sowie an festgefahrenen oder gesunkenen Fahrzeugen
- 
- 
- 
- 
+
+
+
+
 Abschnitt IV.
 FÃ¤hren
 Â§ 6.23
 Regeln fÃ¼r FÃ¤hren
- 
- 
- 
- 
+
+
+
+
 Abschnitt V.
 Durchfahren von BrÃ¼cken, Wehren und Schleusen
 Â§ 6.24
@@ -369,10 +369,10 @@ Durchfahren der Schleusen
 Einfahren in und Ausfahren aus Schleusen
 Â§ 6.29
 Vorrang bei der Schleusung
- 
- 
- 
- 
+
+
+
+
 Abschnitt VI.
 BeschrÃ¤nkte SichtverhÃ¤ltnisse; Radarschiffahrt
 Â§ 6.30
@@ -383,10 +383,10 @@ Schallzeichen beim Stilliegen
 Bestimmungen fÃ¼r Radarfahrer
 Â§ 6.33
 Bestimmungen fÃ¼r Fahrzeuge, die nicht Radarfahrer sind
- 
- 
- 
- 
+
+
+
+
 Abschnitt VII.
 Besondere Regeln
 Â§ 6.34
@@ -397,12 +397,12 @@ Wasserskilaufen und Ã¤hnliche AktivitÃ¤ten
 Verhalten der Fahrzeuge beim Fischen
 Â§ 6.37
 Verhalten der Sporttaucher
- 
- 
+
+
 Kapitel 7
- 
- 
- 
+
+
+
 Regeln fÃ¼r das Stilliegen
 Â§ 7.01
 Allgemeine GrundsÃ¤tze fÃ¼r das Stilliegen
@@ -421,14 +421,14 @@ Stilliegen in der NÃ¤he von Fahrzeugen, Schub- und KoppelverbÃ¤nden, die bestimm
 Â§ 7.08
 Wache und Aufsicht
 Zweiter Teil
- 
+
 Sonderbestimmungen fÃ¼r den Deutschen Teil der Donau
- 
- 
+
+
 Kapitel 8
- 
- 
- 
+
+
+
 Sonderregelungen zu einzelnen Bestimmungen des Ersten Teils
 Â§ 8.01
 Begriffsbestimmungen (Â§ 1.01)
@@ -464,12 +464,12 @@ Verbotene Schallzeichen (Â§ 4.03)
 Wache und Aufsicht (Â§ 7.08)
 Â§ 8.15
 Bleib-weg-Signal
- 
- 
+
+
 Kapitel 9
- 
- 
- 
+
+
+
 Zusammenstellung der Fahrzeuge
 Â§ 9.01
 Abmessungen der Fahrzeuge
@@ -481,12 +481,12 @@ Abmessungen der KoppelverbÃ¤nde
 Zusammenstellung der SchleppverbÃ¤nde
 Â§ 9.05
 Ausnahmen
- 
- 
+
+
 Kapitel 10
- 
- 
- 
+
+
+
 Zusatzbestimmungen
 Â§ 10.01
 HÃ¶chste SchiffahrtswasserstÃ¤nde
@@ -506,13 +506,13 @@ OrtsverÃ¤nderungen von Schubleichtern und anderen Fahrzeugen ohne Ruderanlage
 OrtsverÃ¤nderungen von Fahrzeugen mit Ruderanlage
 Â§ 10.09
 Inland AIS und Inland ECDIS
- 
- 
- 
+
+
+
 Kapitel 11
- 
- 
- 
+
+
+
 SchutzhÃ¤fen (Â§ 1.25)
 Â§ 11.01
 Geltungsbereich
@@ -540,48 +540,48 @@ Instandsetzungsarbeiten
 Eis
 Â§ 11.13
 Ausnahmen
- 
- 
+
+
 Kapitel 12
- 
- 
- 
+
+
+
 Kleinfahrzeuge
 Â§ 12.01
 Befahren der AltwÃ¤sser
- 
- 
+
+
 Kapitel 13
- 
- 
- 
+
+
+
 Besondere Fahr- und Liegebestimmungen fÃ¼r einzelne Abschnitte des deutschen Teils der Donau
- 
- 
- 
- 
+
+
+
+
 Abschnitt I.
 Fahrt in den Stauhaltungen Bad Abbach bis Geisling und Kachlet
 Â§ 13.01
 Geregelte Begegnung
- 
- 
- 
- 
+
+
+
+
 Abschnitt II.
 Zusatzbestimmungen fÃ¼r die deutsch-Ã¶sterreichische Grenzstrecke
- 
- 
- 
- 
- 
+
+
+
+
+
 (km 2223,20 bis km 2201,77)
 Â§ 13.02
 Kleinfahrzeuge und bestimmte WassersportgerÃ¤te
- 
- 
- 
- 
+
+
+
+
 Abschnitt III.
 Fahrt durch die Schleusen
 Â§ 13.03
@@ -598,10 +598,10 @@ Schiffahrtszeichen in den Schleusenbereichen Geisling bis Jochenstein
 Reihenfolge der Schleusungen
 Â§ 13.09
 Fahrtunterbrechung zwischen den Staustufen Jochenstein und Aschach
- 
- 
- 
- 
+
+
+
+
 Abschnitt IV.
 Fahrt im Bereich der Stadt Passau
 Â§ 13.10
@@ -612,12 +612,12 @@ Stilliegen zwischen der Staustufe Kachlet und der InnmÃ¼ndung
 Signalanlage Racklauhafen
 Â§ 13.13
 Wenden
- 
- 
+
+
 Kapitel 14
- 
- 
- 
+
+
+
 Fahrgastschiffahrt
 Â§ 14.01
 Anlegestellen
@@ -635,21 +635,21 @@ Schleppverbot
 FahrplÃ¤ne
 Â§ 14.08
 Ausnahmen
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
 Anlagen
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
 Anlage 1
 Unterscheidungsbuchstaben oder -buchstabengruppen des Landes, in welchem der Heimat- oder Registerort der Fahrzeuge liegt
 Anlage 2
@@ -672,7 +672,7 @@ Anlage 10
 ExplosionsgefÃ¤hrliche GÃ¼ter, bei deren BefÃ¶rderung die Fahrzeuge bei Nacht die Bezeichnung nach den Â§Â§ 3.15 und 3.22, bei Tag die Bezeichnung nach den Â§Â§ 3.33 und 3.38 fÃ¼hren mÃ¼ssen
 Anlage 11
 Daten, die in das Inland AIS GerÃ¤t einzugeben sind:\\
-ErlÃ¤uterungen des â€Navigationsstatusâ€œ und des â€Bezugspunktes der Positionsinformation auf dem Fahrzeug"
+ErlÃ¤uterungen des Navigationsstatusâ€œ und des Bezugspunktes der Positionsinformation auf dem Fahrzeug"
 *) An mehreren Stellen findet sich der Vermerk "entfÃ¤llt", da die Numerierung der Paragraphen und Anlagen im Hinblick auf die europÃ¤ische Vereinheitlichung der Schiffahrtspolizeiverordnungen einer EntschlieÃŸung der Wirtschaftskommission der Vereinten Nationen fÃ¼r Europa (UnterausschuÃŸ Binnenschiffahrt, EntschlieÃŸung Nr. 24 vom 15. November 1985) folgt.
 
 Â§ 1.01 - Begriffsbestimmungen
@@ -2194,13 +2194,13 @@ Oberwasser Schleuse Straubing (km 2325,50) -
 
 22,80
 
- 
+
 
 Oberwasser Schleuse Geisling (km 2355,00)
 
- 
 
- 
+
+
 
 4
 
@@ -2210,13 +2210,13 @@ Oberwasser Schleuse Geisling (km 2355,00) -
 
 22,80
 
- 
+
 
 Regensburg EisenbahnbrÃ¼cke Schwabelweis (km 2376,80)
 
- 
 
- 
+
+
 
 5
 
@@ -2226,13 +2226,13 @@ Regensburg EisenbahnbrÃ¼cke Schwabelweis (km 2376,80) -
 
 11,40
 
- 
+
 
 Main-Donau-Kanal (km 2411,60)
 
- 
 
- 
+
+
 
 6
 
@@ -2242,13 +2242,13 @@ Main-Donau-Kanal (km 2411,60) -
 
 11,40
 
- 
+
 
 Kelheim (km 2414,72)
 
- 
 
- 
+
+
 
 - b) :: in der Talfahrt:
 
@@ -2262,9 +2262,9 @@ LÃ¤nge
 
 Breite
 
- 
 
- 
+
+
 
 m
 
@@ -2326,8 +2326,8 @@ Streckennummer
 Streckenabschnitt
 LÃ¤nge
 Breite
- 
- 
+
+
 m
 m
 1
@@ -2435,7 +2435,7 @@ Regensburg EisenbahnbrÃ¼cke Schwabelweis (km 2376,80) - Main-Donau-Kanal (km 241
 
 Main-Donau-Kanal (km 2411,60) - Kelheim (km 2414,72)
 
- 
+
 
 1
 
@@ -2608,7 +2608,7 @@ Fahrzeuge, die nicht mit einem Kopfruder ausgerÃ¼stet sind, dÃ¼rfen in VerbÃ¤nde
   - d) :: schwimmende GerÃ¤te ohne eigenen Antrieb.
 - 2. :: Folgende Anforderungen mÃ¼ssen bei der Nutzung des Inland AIS GerÃ¤tes erfÃ¼llt sein:
   - a) :: das Inland AIS GerÃ¤t muss stÃ¤ndig eingeschaltet sein,
-  - b) :: das Inland AIS GerÃ¤t muss mit maximaler Leistung senden; dies gilt nicht fÃ¼r Tankschiffe mit dem Navigationsstatus â€festgemachtâ€œ,
+  - b) :: das Inland AIS GerÃ¤t muss mit maximaler Leistung senden; dies gilt nicht fÃ¼r Tankschiffe mit dem Navigationsstatus festgemachtâ€œ,
   - c) :: es darf immer nur ein Inland AIS GerÃ¤t an Bord eines Fahrzeugs oder Verbandes im Sendebetrieb sein,
   - d) :: die eingegebenen Daten des im Sendebetrieb befindlichen Inland AIS GerÃ¤tes mÃ¼ssen zu jedem Zeitpunkt den tatsÃ¤chlichen Daten des Fahrzeugs oder Verbandes entsprechen.
 
@@ -2646,7 +2646,7 @@ Fahrzeuge, die nicht mit einem Kopfruder ausgerÃ¼stet sind, dÃ¼rfen in VerbÃ¤nde
 - 8. :: Kleinfahrzeuge, die AIS nutzen, mÃ¼ssen zusÃ¤tzlich mit einer in einem guten Betriebszustand befindlichen und auf Empfang geschalteten Sprechfunkanlage fÃ¼r den Verkehrskreis Schiff-Schiff ausgerÃ¼stet sein.
 - 9. :: Der SchiffsfÃ¼hrer und die nach Â§ 8.02 fÃ¼r Kurs und Geschwindigkeit verantwortliche Person haben jeweils sicherzustellen, dass
   - a) :: das Inland AIS GerÃ¤t stÃ¤ndig eingeschaltet ist,
-  - b) :: das Inland AIS GerÃ¤t auf einem Fahrzeug mit der maximalen Leistung sendet; dies gilt nicht fÃ¼r ein Tankschiff mit dem Navigationsstatus â€festgemachtâ€œ,
+  - b) :: das Inland AIS GerÃ¤t auf einem Fahrzeug mit der maximalen Leistung sendet; dies gilt nicht fÃ¼r ein Tankschiff mit dem Navigationsstatus festgemachtâ€œ,
   - c) :: immer nur ein Inland AIS GerÃ¤t an Bord eines Fahrzeugs oder Verbandes im Sendebetrieb ist,
   - d) :: die in das im Sendebetrieb befindliche Inland AIS GerÃ¤t eingegebenen Daten zu jedem Zeitpunkt den tatsÃ¤chlichen Daten des Fahrzeugs oder Verbandes entsprechen,
   - e) :: in dem in Nummer 3 Satz 1 genannten Fall ein Inland ECDIS GerÃ¤t im Informationsmodus, das mit dem Inland AIS GerÃ¤t verbunden ist, zusammen mit einer elektronischen Binnenschifffahrtskarte genutzt wird.
@@ -3064,11 +3064,11 @@ Fundstelle des Originaltexts: BGBl. I 1993, Anlageband S. 59 - 83
 
 \\
 
- 
+
 
 bei Nacht
 
- 
+
 
 bei Tag
 
@@ -3076,27 +3076,27 @@ bei Tag
 
 einzeln fahrende Fahrzeuge mit Maschinenantrieb
 
- 
 
- 
+
+
 
 2.1.1
 
 (Â§ 3.08 Nr. 1):
 
- 
 
- 
 
- 
+
+
+
 
 2 ... (Abbildung BGBl. I 1993 Anlbd. S. 60)
 
- 
+
 
 ein Topplicht, Seitenlichter, ein Hecklicht
 
- 
+
 
 keine zusÃ¤tzliche Bezeichnung
 
@@ -3104,19 +3104,19 @@ keine zusÃ¤tzliche Bezeichnung
 
 (Â§ 3.08 Nr. 2):
 
- 
 
- 
 
- 
+
+
+
 
 3 ... (Abbildung BGBl. I 1993 Anlbd. S. 61)
 
- 
+
 
 wahlweise ein zweites Topplicht auf dem Hinterschiff
 
- 
+
 
 keine zusÃ¤tzliche Bezeichnung
 
@@ -3124,27 +3124,27 @@ keine zusÃ¤tzliche Bezeichnung
 
 Fahrzeug mit Maschinenantrieb, dem vorÃ¼bergehend ein Vorspann vorausfÃ¤hrt
 
- 
 
- 
 
- 
+
+
+
 
 (Â§ 3.08 Nr. 3):
 
- 
 
- 
 
- 
+
+
+
 
 4 ... (Abbildung BGBl. I 1993 Anlbd. S. 61)
 
- 
+
 
 ein Topplicht, Seitenlichter, ein Hecklicht und erforderlichenfalls ein zweites Topplicht auf dem Hinterschiff
 
- 
+
 
 keine zusÃ¤tzliche Bezeichnung
 
@@ -3152,9 +3152,9 @@ keine zusÃ¤tzliche Bezeichnung
 
 SchleppverbÃ¤nde
 
- 
 
- 
+
+
 
 2.2.1
 
@@ -3164,31 +3164,31 @@ Fahrzeug mit Maschinenantrieb an der Spitze eines Verbandes
 
 Fahrzeug mit Maschinenantrieb an der Spitze eines Verbandes
 
- 
+
 
 (Â§ 3.09 Nr. 1):
 
- 
+
 
 (Â§ 3.29 Nr. 1):
 
- 
+
 
 5 ...
 
- 
+
 
 6 ...
 
- 
+
 
 (Abbildung BGBl. I 1993 Anlbd. S. 61)
 
- 
+
 
 zwei Topplichter Ã¼bereinander, Seitenlichter, ein gelbes statt eines weiÃŸen Hecklichts
 
- 
+
 
 ein gelber Zylinder, der oben und unten mit je einem schwarzen und je einem weiÃŸen Streifen eingefaÃŸt ist; die weiÃŸen Streifen an den Enden des Zylinders
 
@@ -3200,31 +3200,31 @@ jedes von mehreren Fahrzeugen mit Maschinenantrieb an der Spitze eines Verbandes
 
 jedes von mehreren Fahrzeugen mit Maschinenantrieb an der Spitze eines Verbandes
 
- 
+
 
 (Â§ 3.09 Nr. 2):
 
- 
+
 
 (Â§ 3.29 Nr. 2):
 
- 
+
 
 7 ...
 
- 
+
 
 8 ...
 
- 
+
 
 (Abbildung BGBl. I 1993 Anlbd. S. 62)
 
- 
+
 
 drei Topplichter Ã¼bereinander, Seitenlichter, ein gelbes statt eines weiÃŸen Hecklichts
 
- 
+
 
 ein gelber Zylinder, der oben und unten mit je einem schwarzen und je einem weiÃŸen Streifen eingefaÃŸt ist; die weiÃŸen Streifen an den Enden des Zylinders
 
@@ -3232,39 +3232,39 @@ ein gelber Zylinder, der oben und unten mit je einem schwarzen und je einem weiÃ
 
 geschleppte Fahrzeuge, die den letzten Anhang bilden
 
- 
 
- 
 
- 
+
+
+
 
 (Â§ 3.09 Nr. 4):
 
- 
 
- 
 
- 
+
+
+
 
 9 ... (Abbildung BGBl. I 1993 Anlbd. S. 62)
 
- 
+
 
 ein weiÃŸes Hecklicht
 
- 
+
 
 keine zusÃ¤tzliche Bezeichnung
 
- 
+
 
 10 ... (Abbildung BGBl. I 1993 Anlbd. S. 62)
 
- 
+
 
 zwei weiÃŸe Hecklichter, auf den Ã¤uÃŸeren Fahrzeugen des Verbandes
 
- 
+
 
 keine zusÃ¤tzliche Bezeichnung
 
@@ -3272,27 +3272,27 @@ keine zusÃ¤tzliche Bezeichnung
 
 SchubverbÃ¤nde
 
- 
 
- 
+
+
 
 2.3.1
 
 (Â§ 3.10 Nr. 1)
 
- 
 
- 
 
- 
+
+
+
 
 11 ... (Abbildung BGBl. I 1993 Anlbd. S. 63)
 
- 
+
 
 drei Topplichter in Form eines gleichseitigen Dreiecks angeordnet, Seitenlichter und drei Hecklichter auf dem Schubschiff
 
- 
+
 
 keine zusÃ¤tzliche Bezeichnung
 
@@ -3300,27 +3300,27 @@ keine zusÃ¤tzliche Bezeichnung
 
 KoppelverbÃ¤nde
 
- 
 
- 
+
+
 
 2.4.1
 
 (Â§ 3.11 Nr. 1):
 
- 
 
- 
 
- 
+
+
+
 
 12 ... (Abbildung BGBl. I 1993 Anlbd. S. 63)
 
- 
+
 
 auf jedem Fahrzeug ein Topplicht und ein Hecklicht, an den AuÃŸenseiten des Verbandes Seitenlichter
 
- 
+
 
 keine zusÃ¤tzliche Bezeichnung
 
@@ -3328,27 +3328,27 @@ keine zusÃ¤tzliche Bezeichnung
 
 KoppelverbÃ¤nde, denen ein oder mehrere Fahrzeuge mit Maschinenantrieb als Vorspann vorausfahren
 
- 
 
- 
 
- 
+
+
+
 
 (Â§ 3.11 Nr. 2):
 
- 
 
- 
 
- 
+
+
+
 
 13 ... (Abbildung BGBl. I 1993 Anlbd. S. 63)
 
- 
+
 
 auf jedem Fahrzeug ein Topplicht und ein Hecklicht; an den AuÃŸenseiten des Verbandes Seitenlichter
 
- 
+
 
 keine zusÃ¤tzliche Bezeichnung
 
@@ -3356,27 +3356,27 @@ keine zusÃ¤tzliche Bezeichnung
 
 Fahrzeuge unter Segel
 
- 
 
- 
+
+
 
 2.5.1
 
 (Â§ 3.12 Nr. 1 und 2):
 
- 
 
- 
 
- 
+
+
+
 
 14 ... (Abbildung BGBl. I 1993 Anlbd. S. 64)
 
- 
+
 
 Seitenlichter, die gewÃ¶hnlich statt hell sein kÃ¶nnen, ein Hecklicht und wahlweise zwei gewÃ¶hnliche oder helle von allen Seiten sichtbare Lichter Ã¼bereinander, das rote Ã¼ber dem grÃ¼nen
 
- 
+
 
 keine zusÃ¤tzliche Bezeichnung
 
@@ -3384,111 +3384,111 @@ keine zusÃ¤tzliche Bezeichnung
 
 Kleinfahrzeuge
 
- 
 
- 
+
+
 
 2.6.1
 
 mit Maschinenantrieb
 
- 
 
- 
 
- 
+
+
+
 
 (Â§ 3.13 Nr. 1):
 
- 
 
- 
 
- 
+
+
+
 
 15 ... (Abbildung BGBl. I 1993 Anlbd. S. 64)
 
- 
+
 
 ein helles statt eines starken Topplichts, Seitenlichter, die gewÃ¶hnlich statt hell sein kÃ¶nnen, ein Hecklicht
 
- 
+
 
 keine zusÃ¤tzliche Bezeichnung
 
- 
+
 
 oder:
 
- 
 
- 
 
- 
+
+
+
 
 16 ... (Abbildung BGBl. I 1993 Anlbd. S. 64)
 
- 
+
 
 ein helles statt eines starken Topplichts, Seitenlichter, die gewÃ¶hnlich statt hell sein kÃ¶nnen, unmittelbar nebeneinander oder in einer einzigen Leuchte am oder nahe dem Bug, ein Hecklicht
 
- 
+
 
 keine zusÃ¤tzliche Bezeichnung
 
- 
+
 
 oder:
 
- 
 
- 
 
- 
+
+
+
 
 17 ... (Abbildung BGBl. I 1993 Anlbd. S. 65)
 
- 
+
 
 ein weiÃŸes helles, von allen Seiten sichtbares Licht, Seitenlichter, die auf eine der vorgenannten Arten gesetzt werden
 
- 
+
 
 keine zusÃ¤tzliche Bezeichnung
 
- 
+
 
 oder:
 
- 
 
- 
 
- 
+
+
+
 
 nur bei einzeln fahrenden Kleinfahrzeugen mit Maschinenantrieb mit einer LÃ¤nge von weniger als 7 m
 
- 
 
- 
 
- 
+
+
+
 
 (Â§ 3.13 Nr. 2):
 
- 
 
- 
 
- 
+
+
+
 
 18 ... (Abbildung BGBl. I 1993 Anlbd. S. 65)
 
- 
+
 
 ein weiÃŸes gewÃ¶hnliches, von allen Seiten sichtbares Licht
 
- 
+
 
 keine zusÃ¤tzliche Bezeichnung
 
@@ -3496,27 +3496,27 @@ keine zusÃ¤tzliche Bezeichnung
 
 geschleppt oder lÃ¤ngsseits gekuppelt mitgefÃ¼hrt
 
- 
 
- 
 
- 
+
+
+
 
 (Â§ 3.13 Nr. 4):
 
- 
 
- 
 
- 
+
+
+
 
 19 ... (Abbildung BGBl. I 1993 Anlbd. S. 65)
 
- 
+
 
 ein weiÃŸes gewÃ¶hnliches, von allen Seiten sichtbares Licht
 
- 
+
 
 keine zusÃ¤tzliche Bezeichnung
 
@@ -3524,75 +3524,75 @@ keine zusÃ¤tzliche Bezeichnung
 
 Kleinfahrzeuge unter Segel
 
- 
 
- 
 
- 
+
+
+
 
 (Â§ 3.13 Nr. 5):
 
- 
 
- 
 
- 
+
+
+
 
 20 ... (Abbildung BGBl. I 1993 Anlbd. S. 66)
 
- 
+
 
 Seitenlichter, die gewÃ¶hnlich statt hell sein kÃ¶nnen, nebeneinander oder in einer einzigen Leuchte am oder nahe dem Bug, ein Hecklicht
 
- 
+
 
 keine zusÃ¤tzliche Bezeichnung
 
- 
+
 
 oder:
 
- 
 
- 
 
- 
+
+
+
 
 21 ... (Abbildung BGBl. I 1993 Anlbd. S. 66)
 
- 
+
 
 Seitenlichter, die gewÃ¶hnlich statt hell sein kÃ¶nnen, und Hecklicht in einer einzigen Leuchte im Topp oder am oberen Teil des Mastes
 
- 
+
 
 keine zusÃ¤tzliche Bezeichnung
 
- 
+
 
 oder:
 
- 
 
- 
 
- 
+
+
+
 
 nur bei Kleinfahrzeugen mit einer LÃ¤nge von weniger als 7 m
 
- 
 
- 
 
- 
+
+
+
 
 22 ... (Abbildung BGBl. I 1993 Anlbd. S. 66)
 
- 
+
 
 ein weiÃŸes gewÃ¶hnliches, von allen Seiten sichtbares Licht und bei der AnnÃ¤herung anderer Fahrzeuge ein zweites weiÃŸes gewÃ¶hnliches Licht
 
- 
+
 
 keine zusÃ¤tzliche Bezeichnung
 
@@ -3600,27 +3600,27 @@ keine zusÃ¤tzliche Bezeichnung
 
 einzeln, weder mit Maschinenantrieb noch unter Segel fahrende Kleinfahrzeuge
 
- 
 
- 
 
- 
+
+
+
 
 (Â§ 3.13 Nr. 6):
 
- 
 
- 
 
- 
+
+
+
 
 23 ... (Abbildung BGBl. I 1993 Anlbd. S. 67)
 
- 
+
 
 ein weiÃŸes gewÃ¶hnliches, von allen Seiten sichtbares Licht
 
- 
+
 
 keine zusÃ¤tzliche Bezeichnung
 
@@ -3632,39 +3632,39 @@ Kleinfahrzeuge unter Segel, die gleichzeitig ihre Antriebsmaschine benutzen
 
 Kleinfahrzeuge unter Segel, die gleichzeitig ihre Antriebsmaschine benutzen
 
- 
+
 
 (Â§ 3.13 Nr. 1):
 
- 
+
 
 (Â§ 3.30):
 
- 
+
 
 eine der Bezeichnungen nach 2.6.1, zum Beispiel:
 
- 
 
- 
 
- 
+
+
+
 
 24 ...
 
- 
+
 
 25 ...
 
- 
+
 
 (Abbildung BGBl. I 1993 Anlbd. S. 67)
 
- 
+
 
 ein helles statt eines starken Topplichts, Seitenlichter, die gewÃ¶hnlich statt hell sein kÃ¶nnen, nebeneinander oder in einer einzigen Leuchte am oder nahe dem Bug, ein Hecklicht
 
- 
+
 
 ein schwarzer Kegel mit der Spitze unten
 
@@ -3672,27 +3672,27 @@ ein schwarzer Kegel mit der Spitze unten
 
 Fahrzeuge, die zur BefÃ¶rderung von mehr als 12 FahrgÃ¤sten zugelassen sind, mit den Abmessungen von Kleinfahrzeugen
 
- 
 
- 
+
+
 
 2.7.1
 
 (Â§ 3.31):
 
- 
 
- 
 
- 
+
+
+
 
 26 ... (Abbildung
 
- 
+
 
 keine zusÃ¤tzliche Bezeichnung
 
- 
+
 
 ein gelber Doppelkegel
 
@@ -3708,39 +3708,39 @@ einzeln fahrende oder geschleppte Fahrzeuge, die entzÃ¼ndbare GÃ¼ter nach Anlage
 
 einzeln fahrende oder geschleppte Fahrzeuge, die entzÃ¼ndbare GÃ¼ter nach Anlage 9 befÃ¶rdern
 
- 
+
 
 (Â§ 3.14 Nr. 1):
 
- 
+
 
 (Â§ 3.32 Nr. 1):
 
- 
+
 
 zusÃ¤tzliche Bezeichnung:
 
- 
+
 
 zusÃ¤tzliche Bezeichnung:
 
- 
+
 
 27 ...
 
- 
+
 
 28 ...
 
- 
+
 
 (Abbildung BGBl. I 1993 Anlbd. S. 68)
 
- 
+
 
 ein blaues gewÃ¶hnliches Licht
 
- 
+
 
 ein blauer Kegel mit der Spitze unten
 
@@ -3752,59 +3752,59 @@ einzeln fahrende oder geschleppte Fahrzeuge, die explosionsgefÃ¤hrliche GÃ¼ter n
 
 einzeln fahrende oder geschleppte Fahrzeuge, die explosionsgefÃ¤hrliche GÃ¼ter nach Anlage 10 befÃ¶rdern
 
- 
+
 
 (Â§ 3.15 Nr. 1):
 
- 
+
 
 (Â§ 3.32 Nr. 2):
 
- 
+
 
 zusÃ¤tzliche Bezeichnung:
 
- 
+
 
 zusÃ¤tzliche Bezeichnung:
 
- 
+
 
 29 ...
 
- 
+
 
 30 ...
 
- 
+
 
 (Abbildung BGBl. I 1993 Anlbd. S. 68)
 
- 
+
 
 auf den nichtmotorisierten Fahrzeugen ein rotes gewÃ¶hnliches Licht auf dem Vorschiff
 
- 
+
 
 ein roter Kegel mit der Spitze unten
 
- 
+
 
 31 ...
 
- 
+
 
 32 ...
 
- 
+
 
 (Abbildung BGBl. I 1993 Anlbd. S. 68)
 
- 
+
 
 einzeln fahrende Fahrzeuge mit Maschinenantrieb, die die Lichter nach Â§ 3.08 fÃ¼hren, auÃŸerdem ein rotes helles Licht auf dem Hinterschiff
 
- 
+
 
 ein roter Kegel mit der Spitze unten
 
@@ -3816,71 +3816,71 @@ SchleppverbÃ¤nde, die entzÃ¼ndbare GÃ¼ter nach Anlage 9 befÃ¶rdern
 
 SchleppverbÃ¤nde, die entzÃ¼ndbare GÃ¼ter nach Anlage 9 befÃ¶rdern
 
- 
+
 
 (Â§ 3.14 Nr. 2):
 
- 
+
 
 (Â§ 3.32 Nr. 2):
 
- 
+
 
 zusÃ¤tzliche Bezeichnung:
 
- 
+
 
 zusÃ¤tzliche Bezeichnung:
 
- 
+
 
 33 ...
 
- 
+
 
 34 ...
 
- 
+
 
 (Abbildung BGBl. I 1993 Anlbd. S. 69)
 
- 
+
 
 33a ...
 
- 
+
 
 34a ...
 
- 
+
 
 (Abbildung BGBl. I 1993 Anlbd. S. 69)
 
- 
+
 
 ein gewÃ¶hnliches blaues Licht muÃŸ nur auf den Fahrzeugen gefÃ¼hrt werden, die sich am weitesten links oder rechts in der letzten Reihe befinden, die entzÃ¼ndbare GÃ¼ter befÃ¶rdert
 
- 
+
 
 ein blauer Kegel mit der Spitze unten muÃŸ nur auf den Fahrzeugen gefÃ¼hrt werden, die sich am weitesten links oder rechts in der letzten Reihe befinden, die entzÃ¼ndbare GÃ¼ter befÃ¶rdert
 
- 
+
 
 35 ...
 
- 
+
 
 36 ...
 
- 
+
 
 (Abbildung BGBl. I 1993 Anlbd. S. 69)
 
- 
+
 
 ein blaues gewÃ¶hnliches Licht muÃŸ nur auf dem entzÃ¼ndbare GÃ¼ter befÃ¶rdernden Fahrzeug gefÃ¼hrt werden, das den letzten Anhang bildet
 
- 
+
 
 ein blauer Kegel mit der Spitze unten muÃŸ nur auf dem entzÃ¼ndbare GÃ¼ter befÃ¶rdernden Fahrzeug gefÃ¼hrt werden, das den letzten Anhang bildet
 
@@ -3892,71 +3892,71 @@ SchleppverbÃ¤nde, die explosionsgefÃ¤hrliche GÃ¼ter nach Anlage 10 befÃ¶rdern
 
 SchleppverbÃ¤nde, die explosionsgefÃ¤hrliche GÃ¼ter nach Anlage 10 befÃ¶rdern
 
- 
+
 
 (Â§ 3.15 Nr. 2):
 
- 
+
 
 (Â§ 3.33 Nr. 2):
 
- 
+
 
 zusÃ¤tzliche Bezeichnung:
 
- 
+
 
 zusÃ¤tzliche Bezeichnung:
 
- 
+
 
 37 ...
 
- 
+
 
 38 ...
 
- 
+
 
 (Abbildung BGBl. I 1993 Anlbd. S. 70)
 
- 
+
 
 37a ...
 
- 
+
 
 38a ...
 
- 
+
 
 (Abbildung BGBl. I 1993 Anlbd. S. 70)
 
- 
+
 
 ein rotes gewÃ¶hnliches Licht muÃŸ nur auf den explosionsgefÃ¤hrliche GÃ¼ter befÃ¶rdernden Fahrzeugen gefÃ¼hrt werden, die sich am weitesten links oder rechts in der Reihe befinden
 
- 
+
 
 ein roter Kegel mit der Spitze unten muÃŸ nur auf den explosionsgefÃ¤hrliche GÃ¼ter befÃ¶rdernden Fahrzeugen gefÃ¼hrt werden, die sich am weitesten links oder rechts in der Reihe befinden
 
- 
+
 
 39 ...
 
- 
+
 
 40 ...
 
- 
+
 
 (Abbildung BGBl. I 1993 Anlbd. S. 70)
 
- 
+
 
 ein rotes gewÃ¶hnliches Licht muÃŸ nur auf dem explosionsgefÃ¤hrliche GÃ¼ter befÃ¶rdernden Fahrzeug gefÃ¼hrt werden, das den letzten Anhang bildet
 
- 
+
 
 ein roter Kegel mit der Spitze unten muÃŸ nur auf dem explosionsgefÃ¤hrliche GÃ¼ter befÃ¶rdernden Fahrzeug gefÃ¼hrt werden, das den letzten Anhang bildet
 
@@ -3968,31 +3968,31 @@ das allein an der Spitze des Verbandes fahrende Fahrzeug mit Maschinenantrieb, d
 
 das allein an der Spitze des Verbandes fahrende Fahrzeug mit Maschinenantrieb, der entzÃ¼ndbare GÃ¼ter nach Anlage 9 befÃ¶rdert
 
- 
+
 
 (Â§ 3.14 Nr. 2):
 
- 
+
 
 (Â§ 3.32 Nr. 2):
 
- 
+
 
 41 ...
 
- 
+
 
 42 ...
 
- 
+
 
 (Abbildung BGBl. I 1993 Anlbd. S. 71)
 
- 
+
 
 ein blaues gewÃ¶hnliches Licht Ã¼ber den gleichen Horizontbogen sichtbar wie die Mastlichter nach Â§ 3.09 Nr. 1, 1 m unter dem untersten Licht und, soweit mÃ¶glich, 1 m Ã¼ber den Seitenlichtern
 
- 
+
 
 ein blauer Kegel mit der Spitze unten und der Zylinder nach Â§ 3.29 Nr. 1
 
@@ -4004,31 +4004,31 @@ ein Fahrzeug mit Maschinenantrieb als Vorspann bei einem Verband, der entzÃ¼ndba
 
 ein Fahrzeug mit Maschinenantrieb als Vorspann bei einem Verband, der entzÃ¼ndbare GÃ¼ter nach Anlage 9 befÃ¶rdert
 
- 
+
 
 (Â§ 3.14 Nr. 4):
 
- 
+
 
 (Â§ 3.32 Nr. 2):
 
- 
+
 
 43 ...
 
- 
+
 
 44 ...
 
- 
+
 
 (Abbildung BGBl. I 1993 Anlbd. S. 71)
 
- 
+
 
 ein blaues gewÃ¶hnliches Licht Ã¼ber den gleichen Horizontbogen sichtbar wie die Mastlichter nach Â§ 3.09 Nr. 2, 1 m unter dem untersten Licht und, soweit mÃ¶glich, 1 m Ã¼ber den Seitenlichtern
 
- 
+
 
 ein blauer Kegel mit der Spitze unten und der Zylinder nach Â§ 3.29 Nr. 1
 
@@ -4040,31 +4040,31 @@ das allein an der Spitze des Verbandes fahrende Fahrzeug mit Maschinenantrieb, d
 
 das allein an der Spitze des Verbandes fahrende Fahrzeug mit Maschinenantrieb, der explosionsgefÃ¤hrliche GÃ¼ter nach Anlage 10 befÃ¶rdert
 
- 
+
 
 (Â§ 3.15 Nr. 2):
 
- 
+
 
 (Â§ 3.33 Nr. 2):
 
- 
+
 
 45 ...
 
- 
+
 
 46 ...
 
- 
+
 
 (Abbildung BGBl. I 1993 Anlbd. S. 71)
 
- 
+
 
 ein rotes gewÃ¶hnliches Licht Ã¼ber den gleichen Horizontbogen sichtbar wie die Mastlichter nach Â§ 3.09 Nr. 1, 1 m unter dem untersten Licht und, soweit mÃ¶glich, 1 m Ã¼ber den Seitenlichtern
 
- 
+
 
 ein roter Kegel mit der Spitze unten und der Zylinder nach Â§ 3.29 Nr. 1
 
@@ -4076,31 +4076,31 @@ ein Fahrzeug mit Maschinenantrieb als Vorspann bei einem Verband, der explosions
 
 ein Fahrzeug mit Maschinenantrieb als Vorspann bei einem Verband, der explosionsgefÃ¤hrliche GÃ¼ter nach Anlage 10 befÃ¶rdert
 
- 
+
 
 (Â§ 3.15 Nr 4):
 
- 
+
 
 (Â§ 3.33 Nr. 2):
 
- 
+
 
 47 ...
 
- 
+
 
 48 ...
 
- 
+
 
 (Abbildung BGBl. I 1993 Anlbd. S. 72)
 
- 
+
 
 ein rotes gewÃ¶hnliches Licht Ã¼ber den gleichen Horizontbogen sichtbar wie die Mastlichter nach Â§ 3.09 Nr. 1, 1 m unter dem untersten Licht und, soweit mÃ¶glich, 1 m Ã¼ber den Seitenlichtern
 
- 
+
 
 ein roter Kegel mit der Spitze unten und der Zylinder nach Â§ 3.29 Nr. 1
 
@@ -4112,31 +4112,31 @@ SchubverbÃ¤nde, die entzÃ¼ndbare GÃ¼ter nach Anlage 9 befÃ¶rdern
 
 SchubverbÃ¤nde, die entzÃ¼ndbare GÃ¼ter nach Anlage 9 befÃ¶rdern
 
- 
+
 
 (Â§ 3.14 Nr. 3):
 
- 
+
 
 (Â§ 3.32 Nr. 3):
 
- 
+
 
 49 ...
 
- 
+
 
 50 ...
 
- 
+
 
 (Abbildung BGBl. I 1993 Anlbd. S. 72)
 
- 
+
 
 das Schubschiff auÃŸer den Lichtern nach Â§ 3.10 Nr. 1 Buchstabe c, ein blaues gewÃ¶hnliches Licht auf dem Hinterschiff und die Fahrzeuge die Lichter nach Â§ 3.10 Nr. 1 Buchstabe a, ein blaues gewÃ¶hnliches Licht, Ã¼ber denselben Horizontbogen wie die Topplichter
 
- 
+
 
 ein blauer Kegel mit der Spitze unten auf dem Schubschiff und ein weiterer blauer Kegel auf dem Vorderteil des Verbandes
 
@@ -4148,31 +4148,31 @@ SchubverbÃ¤nde, die explosionsgefÃ¤hrliche GÃ¼ter nach Anlage 10 befÃ¶rdern
 
 SchubverbÃ¤nde, die explosionsgefÃ¤hrliche GÃ¼ter nach Anlage 10 befÃ¶rdern
 
- 
+
 
 (Â§ 3.15 Nr. 3):
 
- 
+
 
 (Â§ 3.33 Nr. 3):
 
- 
+
 
 51 ...
 
- 
+
 
 52 ...
 
- 
+
 
 (Abbildung BGBl. I 1993 Anlbd. S. 72)
 
- 
+
 
 das Schubschiff auÃŸer den Lichtern nach Â§ 3.10 Nr. 1 Buchstabe c, ein rotes gewÃ¶hnliches Licht auf dem Hinterschiff und die Fahrzeuge die Lichter nach Â§ 3.10 Nr. 1 Buchstabe a, ein rotes gewÃ¶hnliches Licht, Ã¼ber denselben Horizontbogen wie die Topplichter
 
- 
+
 
 ein roter Kegel mit der Spitze unten auf dem Schubschiff und ein weiterer Kegel auf dem Vorderteil des Verbandes
 
@@ -4180,9 +4180,9 @@ ein roter Kegel mit der Spitze unten auf dem Schubschiff und ein weiterer Kegel 
 
 FÃ¤hren
 
- 
 
- 
+
+
 
 2.9.1
 
@@ -4192,31 +4192,31 @@ nicht frei fahrend
 
 nicht frei fahrend
 
- 
+
 
 (Â§ 3.16 Nr. 1):
 
- 
+
 
 (Â§ 3.34):
 
- 
+
 
 53 ...
 
- 
+
 
 54 ...
 
- 
+
 
 (Abbildung BGBl. I 1993 Anlbd. S. 73)
 
- 
+
 
 ein grÃ¼nes helles Licht Ã¼ber einem weiÃŸen hellen Licht, beide von allen Seiten sichtbar
 
- 
+
 
 ein grÃ¼ner Ball
 
@@ -4228,31 +4228,31 @@ frei fahrend
 
 frei fahrend
 
- 
+
 
 (Â§ 3.16 Nr. 2):
 
- 
+
 
 (Â§ 3.34):
 
- 
+
 
 55 ...
 
- 
+
 
 56 ...
 
- 
+
 
 (Abbildung BGBl. I 1993 Anlbd. S. 73)
 
- 
+
 
 ein grÃ¼nes helles Licht Ã¼ber einem weiÃŸen hellen Licht, beide von allen Seiten sichtbar, Seitenlichter und ein Hecklicht
 
- 
+
 
 ein grÃ¼ner Ball
 
@@ -4260,27 +4260,27 @@ ein grÃ¼ner Ball
 
 frei fahrend mit Vorrang
 
- 
 
- 
 
- 
+
+
+
 
 (Â§ 3.16 Nr. 3):
 
- 
 
- 
 
- 
+
+
+
 
 57 ... (Abbildung BGBl. I 1993 Anlbd. S. 73)
 
- 
+
 
 zwei grÃ¼ne helle Lichter Ã¼bereinander Ã¼ber einem weiÃŸen hellen Licht, alle drei von allen Seiten sichtbar, Seitenlichter und ein Hecklicht
 
- 
+
 
 keine zusÃ¤tzliche Bezeichnung
 
@@ -4288,9 +4288,9 @@ keine zusÃ¤tzliche Bezeichnung
 
 manÃ¶vrierunfÃ¤hige Fahrzeuge
 
- 
 
- 
+
+
 
 2.10.1
 
@@ -4300,31 +4300,31 @@ manÃ¶vrierunfÃ¤hige Fahrzeuge
 
 (Â§ 3.35 Nr. 1):
 
- 
+
 
 zusÃ¤tzliche Bezeichnung:
 
- 
+
 
 zusÃ¤tzliche Bezeichnung:
 
- 
+
 
 58 ...
 
- 
+
 
 59 ...
 
- 
+
 
 (Abbildung BGBl. I 1993 Anlbd. S. 74)
 
- 
+
 
 ein rotes Licht, das geschwenkt wird; bei Kleinfahrzeugen kann das Licht weiÃŸ sein
 
- 
+
 
 eine rote Flagge, die geschwenkt wird
 
@@ -4332,27 +4332,27 @@ eine rote Flagge, die geschwenkt wird
 
 SchwimmkÃ¶rper und schwimmende Anlagen
 
- 
 
- 
+
+
 
 2.11.1
 
 (Â§ 3.19):
 
- 
 
- 
 
- 
+
+
+
 
 60 ... (Abbildung BGBl. I 1993 Anlbd. S. 74)
 
- 
+
 
 eine ausreichende Anzahl weiÃŸer heller, von allen Seiten sichtbarer Lichter
 
- 
+
 
 keine zusÃ¤tzliche Bezeichnung
 
@@ -4364,19 +4364,19 @@ Fahrzeug mit Vorrang
 
 (Â§ 3.36):
 
- 
 
- 
 
- 
+
+
+
 
 zusÃ¤tzliche Bezeichnung:
 
- 
+
 
 keine zusÃ¤tzliche Bezeichnung
 
- 
+
 
 61 ... (Abbildung ein roter Wimpel
 
@@ -4384,17 +4384,17 @@ keine zusÃ¤tzliche Bezeichnung
 
 Bezeichnung beim Stilliegen
 
- 
 
- 
+
+
 
 3.1
 
 allgemeine FÃ¤lle
 
- 
 
- 
+
+
 
 3.1.1
 
@@ -4404,31 +4404,31 @@ einzelne oder an andere Fahrzeuge gekuppelte Fahrzeuge, die vom Ufer entfernt st
 
 Fahrzeuge mit Maschinenantrieb beim Ankern oder als Teil eines Verbandes, der vom Ufer entfernt stilliegt
 
- 
+
 
 (Â§ 3.20 Nr. 1):
 
- 
 
- 
 
- 
+
+
+
 
 62 ...
 
- 
+
 
 63 ...
 
- 
+
 
 (Abbildung BGBl. I 1993 Anlbd. S. 75)
 
- 
+
 
 ein weiÃŸes gewÃ¶hnliches Licht
 
- 
+
 
 ein schwarzer Ball
 
@@ -4440,31 +4440,31 @@ vom Ufer entfernt stilliegende SchubverbÃ¤nde
 
 vom Ufer entfernt stilliegende SchubverbÃ¤nde
 
- 
+
 
 (Â§ 3.20 Nr. 2):
 
- 
+
 
 (Â§ 3.36a Nr. 1):
 
- 
+
 
 64 ...
 
- 
+
 
 65 ...
 
- 
+
 
 (Abbildung BGBl. I 1993 Anlbd. S. 75)
 
- 
+
 
 zwei weiÃŸe gewÃ¶hnliche Lichter auf dem Schubschiff und auf dem Vorderteil des Verbandes
 
- 
+
 
 ein schwarzer Ball auf dem Schubschiff
 
@@ -4476,31 +4476,31 @@ vom Ufer entfernt stilliegende Kleinfahrzeuge
 
 Fahrzeuge ohne Maschinenantrieb, Kleinfahrzeuge
 
- 
+
 
 (Â§ 3.20 Nr. 3):
 
- 
+
 
 (Â§ 3.36a Nr. 1):
 
- 
+
 
 66 ...
 
- 
+
 
 67 ...
 
- 
+
 
 (Abbildung BGBl. I 1993 Anlbd. S. 75)
 
- 
+
 
 ein weiÃŸes gewÃ¶hnliches Licht
 
- 
+
 
 keine zusÃ¤tzliche Bezeichnung
 
@@ -4516,39 +4516,39 @@ einzelne Fahrzeuge, die entzÃ¼ndbare GÃ¼ter nach Anlage 9 befÃ¶rdern
 
 einzelne Fahrzeuge, die entzÃ¼ndbare GÃ¼ter nach Anlage 9 befÃ¶rdern
 
- 
+
 
 (Â§ 3.21):
 
- 
+
 
 (Â§ 3.37 Nr. 1):
 
- 
+
 
 zusÃ¤tzliche Bezeichnung:
 
- 
+
 
 zusÃ¤tzliche Bezeichnung:
 
- 
+
 
 68 ...
 
- 
+
 
 69 ...
 
- 
+
 
 (Abbildung BGBl. I 1993 Anlbd. S. 76)
 
- 
+
 
 ein blaues gewÃ¶hnliches Licht auf dem Hinterschiff und ein blaues gewÃ¶hnliches Licht auf dem Vorschiff
 
- 
+
 
 ein blauer Kegel mit der Spitze unten
 
@@ -4560,51 +4560,51 @@ einzelne Fahrzeuge, die explosionsgefÃ¤hrliche GÃ¼ter nach Anlage 10 befÃ¶rdern
 
 einzelne Fahrzeuge, die explosionsgefÃ¤hrliche GÃ¼ter nach Anlage 10 befÃ¶rdern
 
- 
+
 
 (Â§ 3.22):
 
- 
+
 
 (Â§ 3.38 Nr. 1):
 
- 
+
 
 70 ...
 
- 
+
 
 71 ...
 
- 
+
 
 Abbildung BGBl. I 1993 Anlbd. S. 76)
 
- 
+
 
 ein weiÃŸes gewÃ¶hnliches und ein rotes gewÃ¶hnliches Licht auf dem Vorschiff
 
- 
+
 
 ein roter Kegel mit der Spitze unten
 
- 
+
 
 72 ...
 
- 
+
 
 73 ...
 
- 
+
 
 (Abbildung BGBl. I 1993 Anlbd. S. 76)
 
- 
+
 
 ein weiÃŸes gewÃ¶hnliches und ein rotes gewÃ¶hnliches Licht auf dem Vorschiff
 
- 
+
 
 ein schwarzer Ball und ein roter Kegel mit der Spitze unten
 
@@ -4616,31 +4616,31 @@ VerbÃ¤nde, die entzÃ¼ndbare GÃ¼ter nach Anlage 9 befÃ¶rdern
 
 VerbÃ¤nde, die entzÃ¼ndbare GÃ¼ter nach Anlage 9 befÃ¶rdern
 
- 
+
 
 (Â§ 3.21):
 
- 
+
 
 (Â§ 3.37 Nr. 1):
 
- 
+
 
 74 ...
 
- 
+
 
 75 ...
 
- 
+
 
 (Abbildung BGBl. I 1993 Anlbd. S. 77)
 
- 
+
 
 ein weiÃŸes gewÃ¶hnliches Licht auf dem Vorschiff und ein blaues gewÃ¶hnliches Licht auf dem Hinterschiff des Fahrzeuges auf der Fahrwasserseite
 
- 
+
 
 ein blauer Kegel mit der Spitze unten auf der Fahrwasserseite
 
@@ -4652,31 +4652,31 @@ VerbÃ¤nde, die explosionsgefÃ¤hrliche GÃ¼ter nach Anlage 10 befÃ¶rdern
 
 VerbÃ¤nde, die explosionsgefÃ¤hrliche GÃ¼ter nach Anlage 10 befÃ¶rdern
 
- 
+
 
 (Â§ 3.22):
 
- 
+
 
 (Â§ 3.38 Nr. 2):
 
- 
+
 
 76 ...
 
- 
+
 
 77 ...
 
- 
+
 
 (Abbildung BGBl. I 1993 Anlbd. S. 77)
 
- 
+
 
 ein weiÃŸes gewÃ¶hnliches Licht und darunter ein rotes gewÃ¶hnliches Licht auf dem Vorschiff auf der Fahrwasserseite
 
- 
+
 
 ein roter Kegel mit der Spitze unten auf dem Fahrzeug auf der Fahrwasserseite
 
@@ -4688,31 +4688,31 @@ SchubverbÃ¤nde, die entzÃ¼ndbare GÃ¼ter nach Anlage 9 befÃ¶rdern
 
 SchubverbÃ¤nde, die entzÃ¼ndbare GÃ¼ter nach Anlage 9 befÃ¶rdern
 
- 
+
 
 (Â§ 3.21):
 
- 
+
 
 (Â§ 3.37 Nr. 2):
 
- 
+
 
 78 ...
 
- 
+
 
 79 ...
 
- 
+
 
 (Abbildung BGBl. I 1993 Anlbd. S. 77)
 
- 
+
 
 ein weiÃŸes gewÃ¶hnliches Licht und ein blaues gewÃ¶hnliches Licht auf dem hinteren Teil des Schubschiffes und die gleichen Lichter auf dem Vorderteil des Verbandes
 
- 
+
 
 ein blauer Kegel mit der Spitze unten und ein schwarzer Ball auf dem hinteren Teil des Schubschiffes und ein blauer Kegel mit der Spitze unten auf dem Vorderteil des Verbandes
 
@@ -4724,31 +4724,31 @@ SchubverbÃ¤nde, die explosionsgefÃ¤hrliche GÃ¼ter nach Anlage 10 befÃ¶rdern
 
 SchubverbÃ¤nde, die explosionsgefÃ¤hrliche GÃ¼ter nach Anlage 10 befÃ¶rdern
 
- 
+
 
 (Â§ 3.22):
 
- 
+
 
 (Â§ 3.38 Nr. 2):
 
- 
+
 
 80 ...
 
- 
+
 
 81 ...
 
- 
+
 
 (Abbildung BGBl. I 1993 Anlbd. S. 78)
 
- 
+
 
 ein weiÃŸes gewÃ¶hnliches Licht und darunter ein rotes gewÃ¶hnliches Licht auf dem hinteren Teil des Schubschiffes und die gleichen Lichter auf dem Vorderteil des Verbandes
 
- 
+
 
 ein roter Kegel mit der Spitze unten und ein schwarzer Ball auf dem hinteren Teil des Schubschiffes, und ein roter Kegel mit der Spitze unten auf dem Vorderteil des Verbandes
 
@@ -4756,35 +4756,35 @@ ein roter Kegel mit der Spitze unten und ein schwarzer Ball auf dem hinteren Tei
 
 FÃ¤hren
 
- 
 
- 
+
+
 
 3.3.1
 
 nicht frei fahrend und an ihrer Anlegestelle stilliegend
 
- 
 
- 
 
- 
+
+
+
 
 (Â§ 3.23 Nr. 1):
 
- 
 
- 
 
- 
+
+
+
 
 82 ... (Abbildung BGBl. I 1993 Anlbd. S. 78)
 
- 
+
 
 ein grÃ¼nes helles Licht Ã¼ber einem weiÃŸen hellen Licht, beide von allen Seiten sichtbar
 
- 
+
 
 keine zusÃ¤tzliche Bezeichnung
 
@@ -4792,27 +4792,27 @@ keine zusÃ¤tzliche Bezeichnung
 
 frei fahrend und an ihrer Anlegestelle stilliegend
 
- 
 
- 
 
- 
+
+
+
 
 (Â§ 3.23 Nr. 2):
 
- 
 
- 
 
- 
+
+
+
 
 83 ... (Abbildung BGBl. I 1993 Anlbd. S. 78)
 
- 
+
 
 ein grÃ¼nes helles Licht Ã¼ber einem weiÃŸen hellen Licht, beide von allen Seiten sichtbar. Bei kurzzeitigem Stilliegen ein Hecklicht und zwei Seitenlichter
 
- 
+
 
 keine zusÃ¤tzliche Bezeichnung
 
@@ -4824,19 +4824,19 @@ SchwimmkÃ¶rper und schwimmende Anlagen
 
 (Â§ 3.25):
 
- 
 
- 
 
- 
+
+
+
 
 84 ... (Abbildung BGBl. I 1993 Anlbd. S. 79)
 
- 
+
 
 eine ausreichende Anzahl weiÃŸer gewÃ¶hnlicher, von allen Seiten sichtbarer Lichter
 
- 
+
 
 keine zusÃ¤tzliche Bezeichnung
 
@@ -4852,23 +4852,23 @@ Netze und andere FischereigerÃ¤te von Fahrzeugen, die eine Behinderung der Schif
 
 (Â§ 3.40):
 
- 
+
 
 85 ...
 
- 
+
 
 86 ...
 
- 
+
 
 (Abbildung BGBl. I 1993 Anlbd. S. 79)
 
- 
+
 
 eine ausreichende Anzahl weiÃŸer gewÃ¶hnlicher, von allen Seiten sichtbarer Lichter
 
- 
+
 
 eine ausreichende Anzahl gelber Tonnen oder gelber Flaggen
 
@@ -4884,47 +4884,47 @@ Schwimmende GerÃ¤te bei der Arbeit und Fahrzeuge, die Arbeiten, Peilungen oder M
 
 Schwimmende GerÃ¤te bei der Arbeit und Fahrzeuge, die Arbeiten, Peilungen oder Messungen durchfÃ¼hren, beim Stilliegen
 
- 
+
 
 (Â§ 3.27 Nr. 1):
 
- 
+
 
 (Â§ 3.41 Nr. 1 und 2):
 
- 
+
 
 87 ...
 
- 
+
 
 88 ...
 
- 
+
 
 (Abbildung BGBl. I 1993 Anlbd. S. 79)
 
- 
+
 
 auf der Seite, an der die Vorbeifahrt frei ist, zwei grÃ¼ne gewÃ¶hnliche Lichter oder zwei grÃ¼ne helle Lichter Ã¼bereinander und erforderlichenfalls auf der Seite, an der die Vorbeifahrt nicht frei ist, ein rotes gewÃ¶hnliches oder rotes helles Licht
 
- 
+
 
 auf der Seite, an der die Vorbeifahrt frei ist, zwei grÃ¼ne Doppelkegel Ã¼bereinander und erforderlichenfalls auf der Seite, an der die Vorbeifahrt nicht frei ist, ein roter Ball
 
- 
 
- 
 
- 
+
+
+
 
 oder:
 
- 
 
- 
 
- 
+
+
+
 
 89 ... (Abbildung BGBl. I 1993 Anlbd. S. 80) auf der Seite, an der die Vorbeifahrt frei ist, das Tafelzeichen E.1 "Erlaubnis zur Durchfahrt" (Anlage 7) und erforderlichenfalls auf der Seite, an der die Vorbeifahrt nicht frei ist, das Tafelzeichen A.1 "Verbot der Durchfahrt" (Anlage 7)
 
@@ -4936,47 +4936,47 @@ Fahrzeuge und schwimmende GerÃ¤te bei der Arbeit, die gegen Wellenschlag zu schÃ
 
 Fahrzeuge und schwimmende GerÃ¤te bei der Arbeit, die gegen Wellenschlag zu schÃ¼tzen sind
 
- 
+
 
 (Â§ 3.27 Nr. 1)
 
- 
+
 
 (Â§ 3.41 Nr. 1)
 
- 
+
 
 sowie festgefahrene oder gesunkene Fahrzeuge
 
- 
+
 
 sowie festgefahrene oder gesunkene Fahrzeuge
 
- 
+
 
 (Â§ 3.27 Nr. 2):
 
- 
+
 
 (Â§ 3.41 Nr. 4):
 
- 
+
 
 90 ...
 
- 
+
 
 91 ...
 
- 
+
 
 (Abbildung BGBl. I 1993 Anlbd. S. 80)
 
- 
+
 
 auf der Seite, an der die Vorbeifahrt frei ist, ein rotes gewÃ¶hnliches oder rotes helles Licht Ã¼ber einem weiÃŸen gewÃ¶hnlichen oder weiÃŸen hellen Licht und erforderlichenfalls auf der Seite, an der die Vorbeifahrt nicht frei ist, ein rotes gewÃ¶hnliches oder rotes helles Licht
 
- 
+
 
 auf der Seite, an der die Vorbeifahrt frei ist, eine Flagge oder eine Tafel, obere HÃ¤lfte rot, untere HÃ¤lfte weiÃŸ, und erforderlichenfalls auf der Seite, an der die Vorbeifahrt nicht frei ist, eine rote Flagge oder Tafel
 
@@ -4992,43 +4992,43 @@ Fahrzeuge, SchwimmkÃ¶rper und schwimmende Anlagen
 
 Fahrzeuge, SchwimmkÃ¶rper und schwimmende Anlagen
 
- 
+
 
 (Â§ 3.28 Nr. 1 und 2):
 
- 
+
 
 (Â§ 3.42):
 
- 
+
 
 92a ...
 
- 
+
 
 93a ...
 
- 
+
 
 (Abbildung BGBl. I 1993 Anlbd. S. 80)
 
- 
+
 
 92b ...
 
- 
+
 
 93b ...
 
- 
+
 
 (Abbildung BGBl. I 1993 Anlbd. S. 81)
 
- 
+
 
 zwei weiÃŸe gewÃ¶hnliche, von allen Seiten sichtbare Lichter, eine Tonne mit Radarreflektor und einem weiÃŸen gewÃ¶hnlichen, von allen Seiten sichtbaren Licht
 
- 
+
 
 eine gelbe Tonne mit Radarreflektor
 
@@ -5040,31 +5040,31 @@ Schwimmende GerÃ¤te bei der Arbeit
 
 Schwimmende GerÃ¤te bei der Arbeit
 
- 
+
 
 (Â§ 3.27 Nr. 1, Â§ 3.28 Nr. 2):
 
- 
+
 
 (Â§ 3.41 Nr. 1, Â§ 3.42):
 
- 
+
 
 zum Beispiel:
 
- 
+
 
 zum Beispiel:
 
- 
+
 
 94 ...
 
- 
+
 
 95 ...
 
- 
+
 
 (Abbildung BGBl. I 1993 Anlbd. S. 81)
 
@@ -5072,31 +5072,31 @@ zum Beispiel:
 
 Sonstige Zeichen
 
- 
 
- 
+
+
 
 4.1
 
 Verbot das Fahrzeug zu betreten
 
- 
 
- 
 
- 
+
+
+
 
 (Â§ 3.43):
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
 
 96 ... (Abbildung
 
@@ -5104,23 +5104,23 @@ Verbot das Fahrzeug zu betreten
 
 Rauchverbot
 
- 
 
- 
 
- 
+
+
+
 
 (Â§ 3.44):
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
 
 97 ... (Abbildung
 
@@ -5128,31 +5128,31 @@ Rauchverbot
 
 zusÃ¤tzliche Bezeichnung der Fahrzeuge der ÃœberwachungsbehÃ¶rden
 
- 
 
- 
 
- 
+
+
+
 
 (Â§ 3.45)
 
- 
 
- 
 
- 
+
+
+
 
 bei Nacht
 
- 
+
 
 bei Tag
 
- 
+
 
 98 ... (Abbildung BGBl. I 1993 Anlbd. S. 82)
 
- 
+
 
 ein blaues gewÃ¶hnliches, von allen Seiten sichtbares Funkellicht, und bei Tag zusÃ¤tzlich ein weiÃŸer Wimpel mit dem Zeichen der ÃœberwachungsbehÃ¶rden (ein weiÃŸer Rhombus mit blauem Rand)
 
@@ -5160,87 +5160,87 @@ ein blaues gewÃ¶hnliches, von allen Seiten sichtbares Funkellicht, und bei Tag z
 
 Notzeichen
 
- 
 
- 
 
- 
+
+
+
 
 (Â§ 3.46):
 
- 
 
- 
 
- 
+
+
+
 
 bei Nacht
 
- 
+
 
 bei Tag
 
- 
+
 
 99 ...
 
- 
+
 
 100 ...
 
- 
+
 
 (Abbildung BGBl. I 1993 Anlbd. S. 82)
 
- 
+
 
 ein Licht, eine Flagge oder ein sonstiger geeigneter Gegenstand, die im Kreis geschwenkt werden;
 
- 
+
 
 oder:
 
- 
+
 
 eine Flagge Ã¼ber oder unter einem Ball oder einem ballÃ¤hnlichen Gegenstand;
 
- 
+
 
 oder:
 
- 
+
 
 Raketen oder Leuchtkugeln mit roten Sternen;
 
- 
+
 
 oder:
 
- 
+
 
 ein Lichtzeichen, zusammengesetzt aus den Morsezeichen ... - - - ... (SOS);
 
- 
+
 
 oder:
 
- 
+
 
 ein Flammensignal durch Abbrennen von Teer, Ã–l oder Ã¤hnlichem;
 
- 
+
 
 oder:
 
- 
+
 
 rote Fallschirm-Leuchtraketen oder rote Handfackeln;
 
- 
+
 
 oder:
 
- 
+
 
 langsames und wiederholtes Heben und Senken der seitlich ausgestreckten Arme.
 
@@ -5248,23 +5248,23 @@ langsames und wiederholtes Heben und Senken der seitlich ausgestreckten Arme.
 
 Verbot des Stilliegens nebeneinander
 
- 
 
- 
 
- 
+
+
+
 
 (Â§ 3.47):
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
 
 101 ... (Abbildung
 
@@ -5272,31 +5272,31 @@ Verbot des Stilliegens nebeneinander
 
 zusÃ¤tzliche Bezeichnung zum Schutz gegen Wellenschlag
 
- 
+
 
 (Â§ 3.48 Nr. 1):
 
- 
 
- 
 
- 
+
+
+
 
 bei Nacht
 
- 
+
 
 bei Tag
 
- 
+
 
 102 ... (Abbildung BGBl. I 1993 Anlbd. S. 83)
 
- 
+
 
 ein rotes gewÃ¶hnliches Licht Ã¼ber einem weiÃŸen gewÃ¶hnlichen Licht oder ein rotes helles Licht Ã¼ber einem weiÃŸen hellen Licht, alle Lichter von allen Seiten sichtbar
 
- 
+
 
 eine rot-weiÃŸe Flagge oder Tafel oder zwei Flaggen oder Tafeln Ã¼bereinander, die obere rot, die untere weiÃŸ
 
@@ -5304,27 +5304,27 @@ eine rot-weiÃŸe Flagge oder Tafel oder zwei Flaggen oder Tafeln Ã¼bereinander, d
 
 zusÃ¤tzliche Bezeichnung der Fahrzeuge in Fahrt, die Arbeiten in der WasserstraÃŸe ausfÃ¼hren
 
- 
+
 
 (Â§ 3.49):
 
- 
 
- 
 
- 
+
+
+
 
 bei Nacht
 
- 
+
 
 bei Tag
 
- 
+
 
 103 ... (Abbildung BGBl. I 1993 Anlbd. S. 83)
 
- 
+
 
 ein gelbes gewÃ¶hnliches oder gelbes helles, von allen Seiten sichtbares Funkellicht
 
@@ -5538,63 +5538,63 @@ A.
 
 Allgemeine Zeichen
 
- 
 
- 
+
+
 
 ... (Abbildungen BGBl. I 1993 Anlbd. S. 89)
 
- 
 
- 
+
+
 
 1 langer Ton
 
 "Achtung"
 
- 
 
- 
+
+
 
 1 kurzer Ton
 
 "Ich richte meinen Kurs nach Steuerbord."
 
- 
 
- 
+
+
 
 2 kurze TÃ¶ne
 
 "Ich richte meinen Kurs nach Backbord."
 
- 
 
- 
+
+
 
 3 kurze TÃ¶ne
 
 "Meine Maschine geht rÃ¼ckwÃ¤rts."
 
- 
 
- 
+
+
 
 4 kurze TÃ¶ne
 
 "Ich bin manÃ¶vrierunfÃ¤hig."
 
- 
 
- 
+
+
 
 Folge sehr kurzer TÃ¶ne
 
 "Akute Gefahr eines ZusammenstoÃŸes"
 
- 
 
- 
+
+
 
 Wiederholte lange TÃ¶ne
 
@@ -5602,7 +5602,7 @@ Wiederholte lange TÃ¶ne
 
 Â§ 4.01 Nr. 4
 
- 
+
 
 Gruppen von GlockenschlÃ¤gen
 
@@ -5614,23 +5614,23 @@ B.
 
 Begegnungszeichen
 
- 
 
- 
+
+
 
 1.
 
 Fall
 
- 
 
- 
+
+
 
 ... (Abbildungen BGBl. I 1993 Anlbd. S. 90)
 
- 
 
- 
+
+
 
 1 kurzer Ton des Bergfahrers
 
@@ -5638,7 +5638,7 @@ Fall
 
 Â§ 6.04 Nr. 4
 
- 
+
 
 1 kurzer Ton des Talfahrers
 
@@ -5646,7 +5646,7 @@ Fall
 
 Â§ 6.04 Nr. 5
 
- 
+
 
 2 kurze TÃ¶ne des Talfahrers
 
@@ -5654,7 +5654,7 @@ Fall
 
 Â§ 6.05 Nr. 2
 
- 
+
 
 2 kurze TÃ¶ne des Bergfahrers
 
@@ -5662,21 +5662,21 @@ Fall
 
 Â§ 6.05 Nr. 3
 
- 
+
 
 2.
 
 Fall
 
- 
 
- 
+
+
 
 ... (Abbildungen BGBl. I 1993 Anlbd. S. 90)
 
- 
 
- 
+
+
 
 2 kurze TÃ¶ne des Bergfahrers
 
@@ -5684,7 +5684,7 @@ Fall
 
 Â§ 6.04 Nr. 4
 
- 
+
 
 2 kurze TÃ¶ne des Talfahrers
 
@@ -5692,7 +5692,7 @@ Fall
 
 Â§ 6.04 Nr. 5
 
- 
+
 
 1 kurzer Ton des Talfahrers
 
@@ -5700,7 +5700,7 @@ Fall
 
 Â§ 6.05 Nr. 2
 
- 
+
 
 1 kurzer Ton des Bergfahrers
 
@@ -5712,23 +5712,23 @@ C.
 
 Ãœberholzeichen
 
- 
 
- 
+
+
 
 1.
 
 Fall
 
- 
 
- 
+
+
 
 ... (Abbildungen BGBl. I 1993 Anlbd. S. 90)
 
- 
 
- 
+
+
 
 2 lange TÃ¶ne, 2 kurze TÃ¶ne des Ãœberholenden
 
@@ -5736,7 +5736,7 @@ Fall
 
 Â§ 6.10 Nr. 4
 
- 
+
 
 1 kurzer Ton des Vorausfahrenden
 
@@ -5744,7 +5744,7 @@ Fall
 
 Â§ 6.10 Nr. 5
 
- 
+
 
 2 kurze TÃ¶ne des Vorausfahrenden
 
@@ -5752,7 +5752,7 @@ Fall
 
 Â§ 6.10 Nr. 6
 
- 
+
 
 1 kurzer Ton des Ãœberholenden
 
@@ -5760,21 +5760,21 @@ Fall
 
 Â§ 6.10 Nr. 6
 
- 
+
 
 2.
 
 Fall
 
- 
 
- 
+
+
 
 ... (Abbildungen BGBl. I 1993 Anlbd. S. 90)
 
- 
 
- 
+
+
 
 2 lange TÃ¶ne, 1 kurzer Ton des Ãœberholenden
 
@@ -5782,7 +5782,7 @@ Fall
 
 Â§ 6.10 Nr. 4
 
- 
+
 
 2 kurze TÃ¶ne des Vorausfahrenden
 
@@ -5790,7 +5790,7 @@ Fall
 
 Â§ 6.10 Nr. 5
 
- 
+
 
 1 kurzer Ton des Vorausfahrenden
 
@@ -5798,7 +5798,7 @@ Fall
 
 Â§ 6.10 Nr. 6
 
- 
+
 
 2 kurze TÃ¶ne des Ãœberholenden
 
@@ -5806,13 +5806,13 @@ Fall
 
 Â§ 6.10 Nr. 6
 
- 
+
 
 UnmÃ¶glichkeit des Ãœberholens
 
- 
 
- 
+
+
 
 5 kurze TÃ¶ne des Vorausfahrenden
 
@@ -5824,15 +5824,15 @@ D.
 
 Wendezeichen
 
- 
 
- 
+
+
 
 ... (Abbildungen BGBl. I 1993 Anlbd. S. 90)
 
- 
 
- 
+
+
 
 1 langer Ton, 1 kurzer Ton
 
@@ -5840,7 +5840,7 @@ Wendezeichen
 
 Â§ 6.13 Nr. 2
 
- 
+
 
 1 langer Ton, 2 kurze TÃ¶ne
 
@@ -5852,21 +5852,21 @@ E.
 
 Einfahrt in und Ausfahrt aus HÃ¤fen und NebenwasserstraÃŸen, Ãœberqueren der WasserstraÃŸen
 
- 
+
 
 E.1
 
 Zeichen, die bei der Ausfahrt aus HÃ¤fen und NebenwasserstraÃŸen abzugeben sind
 
- 
 
- 
+
+
 
 ... (Abbildungen BGBl. I 1993 Anlbd. S. 91)
 
- 
 
- 
+
+
 
 3 lange TÃ¶ne, 1 kurzer Ton
 
@@ -5874,7 +5874,7 @@ Zeichen, die bei der Ausfahrt aus HÃ¤fen und NebenwasserstraÃŸen abzugeben sind
 
 Â§ 6.16 Nr. 2
 
- 
+
 
 3 lange TÃ¶ne, 2 kurze TÃ¶ne
 
@@ -5886,15 +5886,15 @@ E.2
 
 Zeichen, die bei Ãœberqueren der HauptwasserstraÃŸe abzugeben sind
 
- 
 
- 
+
+
 
 ... (Abbildungen BGBl. I 1993 Anlbd. S. 91)
 
- 
 
- 
+
+
 
 3 lange TÃ¶ne
 
@@ -5906,27 +5906,27 @@ F.
 
 Nebelzeichen
 
- 
 
- 
 
- 
+
+
+
 
 a)
 
 Radarfahrzeuge
 
- 
 
- 
 
- 
+
+
+
 
 ... (Abbildungen BGBl. I 1993 Anlbd. S. 91)
 
- 
 
- 
+
+
 
 1)
 
@@ -5936,7 +5936,7 @@ Dreitonzeichen, so oft wie notwendig wiederholt
 
 Â§ 6.32 Nr. 4 Buchstabe a
 
- 
+
 
 2)
 
@@ -5946,7 +5946,7 @@ einzeln fahrende Fahrzeuge
 
 Â§ 6.32 Nr. 5 Buchstabe a
 
- 
+
 
 3)
 
@@ -5956,21 +5956,21 @@ Bergfahrende VerbÃ¤nde
 
 Â§ 6.32 Nr. 5 Buchstabe a
 
- 
+
 
 b)
 
 Fahrzeuge, die nicht mit Radar fahren
 
- 
 
- 
+
+
 
 ... (Abbildungen BGBl. I 1993 Anlbd. S. 91)
 
- 
 
- 
+
+
 
 1)
 
@@ -5980,17 +5980,17 @@ einzeln fahrende Fahrzeuge
 
 Â§ 6.33 Nr. 2
 
- 
 
- 
 
- 
+
+
+
 
 lÃ¤ngstens jede Minute wiederholt
 
- 
 
- 
+
+
 
 2)
 
@@ -6000,31 +6000,31 @@ VerbÃ¤nde
 
 Â§ 6.33 Nr. 2
 
- 
 
- 
 
- 
+
+
+
 
 lÃ¤ngstens jede Minute wiederholt
 
- 
 
- 
+
+
 
 c)
 
 Stilliegende Fahrzeuge
 
- 
 
- 
+
+
 
 ... (Abbildungen BGBl. I 1993 Anlbd. S. 91)
 
- 
 
- 
+
+
 
 1 Gruppe von GlockenschlÃ¤gen, mindestens einmal in der Minute
 
@@ -6032,7 +6032,7 @@ Stilliegende Fahrzeuge
 
 Â§ 6.31 Nr. 1 Buchstabe a
 
- 
+
 
 2 Gruppen von GlockenschlÃ¤gen, mindestens einmal in der Minute wiederholt
 
@@ -6040,7 +6040,7 @@ Stilliegende Fahrzeuge
 
 Â§ 6.31 Nr. 1 Buchstabe a
 
- 
+
 
 3 Gruppen von GlockenschlÃ¤gen, mindestens einmal in der Minute wiederholt
 
@@ -6052,15 +6052,15 @@ G.
 
 Signale bei der Abfahrt vom Liegeplatz
 
- 
 
- 
+
+
 
 ... (Abbildungen BGBl. I 1993 Anlbd. S. 91)
 
- 
 
- 
+
+
 
 1 kurzer Ton
 
@@ -6068,7 +6068,7 @@ Signale bei der Abfahrt vom Liegeplatz
 
 Â§ 6.14
 
- 
+
 
 2 kurze TÃ¶ne
 
@@ -6096,35 +6096,35 @@ A.1
 
 Verbot der Durchfahrt (allgemeines Zeichen)
 
- 
+
 
 (Â§Â§ 6.08, 6.16, 6.22, 6.22a, 6.25, 6.26, 6.27 und 6.28a)
 
- 
+
 
 Tafelzeichen oder
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 92)
 
- 
+
 
 rote Lichter oder
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 92)
 
- 
+
 
 rote Flaggen
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 92)
 
- 
+
 
 Werden zwei Tafelzeichen, zwei Lichter oder zwei Flaggen Ã¼bereinander gezeigt, bedeutet dies ein lÃ¤ngerdauerndes Verbot.
 
@@ -6132,11 +6132,11 @@ A.2
 
 Ãœberholverbot
 
- 
+
 
 (Â§ 6.11)
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 92)
 
@@ -6144,11 +6144,11 @@ A.3
 
 Ãœberholverbot fÃ¼r VerbÃ¤nde untereinander
 
- 
+
 
 (Â§ 6.11)
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 92)
 
@@ -6156,11 +6156,11 @@ A.4
 
 Begegnungs- und Ãœberholverbot
 
- 
+
 
 (Â§ 6.08)
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 93)
 
@@ -6168,11 +6168,11 @@ A.5
 
 Stilliegeverbot (Ankerverbot und Verbot des Festmachens am Ufer)
 
- 
+
 
 (Â§ 7.02)
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 93)
 
@@ -6180,11 +6180,11 @@ A.5.1
 
 Stilliegeverbot innerhalb der in Metern angegebenen Breite (gemessen vom Zeichen)
 
- 
+
 
 (Â§ 7.02)
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 93)
 
@@ -6192,11 +6192,11 @@ A.6
 
 Ankerverbot und Verbot des Schleifenlassens von Ankern, Trossen und Ketten
 
- 
+
 
 (Â§Â§ 6.18 und 7.03)
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 93)
 
@@ -6204,11 +6204,11 @@ A.7
 
 Verbot, am Ufer festzumachen
 
- 
+
 
 (Â§ 7.04)
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 93)
 
@@ -6216,11 +6216,11 @@ A.8
 
 Wendeverbot
 
- 
+
 
 (Â§ 6.13)
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 94)
 
@@ -6228,11 +6228,11 @@ A.9
 
 Verbot, Wellenschlag zu verursachen
 
- 
+
 
 (Â§ 6.20)
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 94)
 
@@ -6240,11 +6240,11 @@ A.10
 
 Verbot, auÃŸerhalb der angezeigten Begrenzung durchzufahren (in BrÃ¼cken- oder WehrÃ¶ffnungen)
 
- 
+
 
 (Â§ 6.24)
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 94)
 
@@ -6252,11 +6252,11 @@ A.11
 
 Verbot, einzufahren, die Vorbereitungen zur Weiterfahrt sind jedoch zu treffen
 
- 
+
 
 (Â§Â§ 6.26, 6.28a)
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 94)
 
@@ -6264,7 +6264,7 @@ A.12
 
 Verbot fÃ¼r Fahrzeuge mit Maschinenantrieb
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 94)
 
@@ -6272,7 +6272,7 @@ A.13
 
 Verbot fÃ¼r Sport- und VergnÃ¼gungsfahrzeuge<<FnR.FnA1-BJNR074110993BJNE024200307_001>>[[#FnA1-BJNR074110993BJNE024200307_001][1*)]]}
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 94)
 
@@ -6280,7 +6280,7 @@ A.14
 
 Verbot, Wasserski zu laufen
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 95)
 
@@ -6288,7 +6288,7 @@ A.15
 
 Verbot fÃ¼r Fahrzeuge unter Segel
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 95)
 
@@ -6296,7 +6296,7 @@ A.16
 
 Verbot fÃ¼r Fahrzeuge, die weder mit Maschinenantrieb noch unter Segel fahren
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 95)
 
@@ -6304,7 +6304,7 @@ A.17
 
 Verbot fÃ¼r Segelsurfbretter
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 95)
 
@@ -6312,7 +6312,7 @@ A.18
 
 Ende der genehmigten Zone fÃ¼r die Schiffahrt mit Sportfahrzeugen hoher Geschwindigkeit
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 95)
 
@@ -6320,7 +6320,7 @@ A.19
 
 Verbot, Kleinfahrzeuge ins Wasser zu lassen oder herauszuheben
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 95)
 
@@ -6332,11 +6332,11 @@ B.1
 
 Gebot, in die durch den Pfeil angezeigte Richtung zu fahren
 
- 
+
 
 (Â§ 6.12)
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 96)
 
@@ -6344,35 +6344,35 @@ B.2
 
 Gebot, auf die Fahrwasserseite hinÃ¼berzufahren, die
 
- 
+
 
 a)
 
 an der Backbordseite des Fahrzeuges liegt
 
- 
 
- 
+
+
 
 (Â§ 6.12)
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 96)
 
- 
+
 
 b)
 
 an der Steuerbordseite des Fahrzeuges liegt
 
- 
 
- 
+
+
 
 (Â§ 6.12)
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 96)
 
@@ -6380,35 +6380,35 @@ B.3
 
 Gebot, die Fahrwasserseite zu halten, die
 
- 
+
 
 a)
 
 an der Backbordseite des Fahrzeuges liegt
 
- 
 
- 
+
+
 
 (Â§ 6.12)
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 96)
 
- 
+
 
 b)
 
 an der Steuerbordseite des Fahrzeuges liegt
 
- 
 
- 
+
+
 
 (Â§ 6.12)
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 96)
 
@@ -6416,35 +6416,35 @@ B.4
 
 Gebot, das Fahrwasser zu kreuzen
 
- 
+
 
 a)
 
 nach Backbord
 
- 
 
- 
+
+
 
 (Â§ 6.12)
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 97)
 
- 
+
 
 b)
 
 nach Steuerbord
 
- 
 
- 
+
+
 
 (Â§ 6.12)
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 97)
 
@@ -6452,11 +6452,11 @@ B.5
 
 Gebot, entsprechend den Bestimmungen dieser Verordnung anzuhalten
 
- 
+
 
 (Â§Â§ 6.26, 6.28)
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 97)
 
@@ -6464,7 +6464,7 @@ B.6
 
 Gebot, die angegebene Geschwindigkeit (in km/h) nicht zu Ã¼berschreiten
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 97)
 
@@ -6472,7 +6472,7 @@ B.7
 
 Gebot, Schallzeichen zu geben
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 97)
 
@@ -6480,11 +6480,11 @@ B.8
 
 Gebot zu besonderer Vorsicht
 
- 
+
 
 (Â§ 6.08)
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 98)
 
@@ -6492,11 +6492,11 @@ B.9
 
 Gebot, nur dann in die HauptwasserstraÃŸe einzufahren oder sie zu Ã¼berqueren, wenn dadurch die Fahrzeuge auf der HauptwasserstraÃŸe nicht gezwungen werden, ihren Kurs oder ihre Geschwindigkeit zu Ã¤ndern
 
- 
+
 
 (Â§ 6.16)
 
- 
+
 
 ... (Abbildungen a) und b) BGBl. I 1993 Anlbd. S. 98)
 
@@ -6504,11 +6504,11 @@ B.10
 
 Gebot, erforderlichenfalls Kurs und Geschwindigkeit zu Ã¤ndern, um Fahrzeugen die Ausfahrt aus dem Hafen oder der NebenwasserstraÃŸe zu ermÃ¶glichen
 
- 
+
 
 (Â§ 6.16)
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 98)
 
@@ -6518,29 +6518,29 @@ a)
 
 Verpflichtung, das FunkgerÃ¤t in Betrieb zu nehmen
 
- 
 
- 
+
+
 
 (Â§ 4.04 Nr. 4)
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 98)
 
- 
+
 
 b)
 
 Verpflichtung, das FunkgerÃ¤t auf dem auf dem Zeichen angegebenen Kanal in Betrieb zu nehmen
 
- 
 
- 
+
+
 
 (Â§ 4.04 Nr. 4)
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 98)
 
@@ -6552,7 +6552,7 @@ C.1
 
 Begrenzte Fahrwassertiefe
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 99)
 
@@ -6560,7 +6560,7 @@ C.2
 
 Begrenzte lichte HÃ¶he Ã¼ber dem Wasserspiegel
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 99)
 
@@ -6568,7 +6568,7 @@ C.3
 
 Begrenzte Breite der Durchfahrt oder des Fahrwassers
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 99)
 
@@ -6576,7 +6576,7 @@ C.4
 
 SchiffahrtsbeschrÃ¤nkungen: Erkundigung einholen
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 99)
 
@@ -6596,35 +6596,35 @@ D.1
 
 Empfohlene Durchfahrt
 
- 
+
 
 a)
 
 fÃ¼r Verkehr in beiden Richtungen
 
- 
 
- 
+
+
 
 (Â§Â§ 6.25, 6.26, 6.27)
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 100)
 
- 
+
 
 b)
 
 fÃ¼r Verkehr nur in der angezeigten Richtung (Verkehr in der Gegenrichtung verboten)
 
- 
 
- 
+
+
 
 (Â§Â§ 6.25, 6.26, 6.27)
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 100)
 
@@ -6632,11 +6632,11 @@ D.2
 
 Empfehlung, sich in dem durch die Tafeln begrenzten Raum zu halten (in einer BrÃ¼cken- oder WehrÃ¶ffnung)
 
- 
+
 
 (Â§ 6.24)
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 100)
 
@@ -6644,23 +6644,23 @@ D.3
 
 Empfehlung,
 
- 
+
 
 a)
 
 in die durch den Pfeil angezeigte Richtung zu fahren
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 100)
 
- 
+
 
 b)
 
 in Richtung vom festen Licht zum Gleichtaktlicht zu fahren
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 100)
 
@@ -6672,11 +6672,11 @@ E.1
 
 Erlaubnis zur Durchfahrt (allgemeines Zeichen)
 
- 
+
 
 (Â§Â§ 6.08, 6.16, 6.26, 6.27, 6.28a)
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 101)
 
@@ -6684,7 +6684,7 @@ E.2
 
 Kreuzende Hochspannungsleitung
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 101)
 
@@ -6692,7 +6692,7 @@ E.3
 
 Wehr
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 101)
 
@@ -6702,17 +6702,17 @@ a)
 
 Nicht frei fahrende FÃ¤hre
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 101)
 
- 
+
 
 b)
 
 Frei fahrende FÃ¤hre
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 101)
 
@@ -6720,11 +6720,11 @@ E. 5
 
 Erlaubnis zum Stilliegen (Ankern oder Festmachen am Ufer)
 
- 
+
 
 (Â§Â§ 7.02, 7.05)
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 102)
 
@@ -6732,11 +6732,11 @@ E.5.1
 
 Erlaubnis zum Stilliegen auf der WasserflÃ¤che, deren Breite, gemessen vom Zeichen, auf diesem in Metern angegeben ist
 
- 
+
 
 (Â§ 7.05)
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 102)
 
@@ -6744,11 +6744,11 @@ E.5.2
 
 Erlaubnis zum Stilliegen auf der WasserflÃ¤che, die durch die zwei in Metern angegebenen Entfernungen, gemessen vom Zeichen, begrenzt wird
 
- 
+
 
 (Â§ 7.05)
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 102)
 
@@ -6756,11 +6756,11 @@ E.5.3
 
 HÃ¶chstzahl der Fahrzeuge, die nebeneinander stilliegen dÃ¼rfen
 
- 
+
 
 (Â§ 7.05)
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 102)
 
@@ -6768,7 +6768,7 @@ E.5.4
 
 Liegeplatz fÃ¼r Fahrzeuge ohne Besatzung, ausgenommen Fahrzeuge, die bei Tag den blauen oder roten Kegel nach Â§ 3.37 oder Â§ 3.38 fÃ¼hren mÃ¼ssen
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 102)
 
@@ -6776,7 +6776,7 @@ E.5.5
 
 Liegeplatz fÃ¼r Fahrzeuge ohne Besatzung, die bei Tag den blauen Kegel nach Â§ 3.37 fÃ¼hren mÃ¼ssen
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 103)
 
@@ -6784,7 +6784,7 @@ E.5.6
 
 Liegeplatz fÃ¼r Fahrzeuge ohne Besatzung, die bei Tag den roten Kegel nach Â§ 3.38 fÃ¼hren mÃ¼ssen
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 103)
 
@@ -6792,7 +6792,7 @@ E.5.7
 
 Liegeplatz fÃ¼r Fahrzeuge mit Besatzung, ausgenommen Fahrzeuge, die bei Tag den blauen oder roten Kegel nach Â§ 3.37 oder Â§ 3.38 fÃ¼hren mÃ¼ssen
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 103)
 
@@ -6800,7 +6800,7 @@ E.5.8
 
 Liegeplatz fÃ¼r Fahrzeuge mit Besatzung, die bei Tag den blauen Kegel nach Â§ 3.37 fÃ¼hren mÃ¼ssen
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 103)
 
@@ -6808,7 +6808,7 @@ E.5.9
 
 Liegeplatz fÃ¼r Fahrzeuge mit Besatzung, die bei Tag den roten Kegel nach Â§ 3.38 fÃ¼hren mÃ¼ssen
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 103)
 
@@ -6816,7 +6816,7 @@ E.5.10
 
 Liegeplatz fÃ¼r Fahrzeuge mit und ohne Besatzung, ausgenommen Fahrzeuge, die bei Tag den blauen oder roten Kegel nach Â§ 3.37 oder Â§ 3.38 fÃ¼hren mÃ¼ssen
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 104)
 
@@ -6824,7 +6824,7 @@ E.5.11
 
 Liegeplatz fÃ¼r Fahrzeuge mit und ohne Besatzung, die bei Tag den blauen Kegel nach Â§ 3.37 fÃ¼hren mÃ¼ssen
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 104)
 
@@ -6832,7 +6832,7 @@ E.5.12
 
 Liegeplatz fÃ¼r Fahrzeuge mit und ohne Besatzung, die bei Tag den roten Kegel nach Â§ 3.38 fÃ¼hren mÃ¼ssen
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 104)
 
@@ -6840,19 +6840,19 @@ E.6
 
 Erlaubnis, zu ankern
 
- 
+
 
 (Â§ 7.03)
 
- 
+
 
 und Anker, Trossen und Ketten schleifen zu lassen
 
- 
+
 
 (Â§ 6.18)
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 104)
 
@@ -6860,11 +6860,11 @@ E.7
 
 Erlaubnis, am Ufer festzumachen
 
- 
+
 
 (Â§ 7.04)
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 104)
 
@@ -6872,7 +6872,7 @@ E.7.1
 
 Liegeplatz, der fÃ¼r das Laden und Entladen von Landfahrzeugen vorgesehen ist (die maximale Dauer des Liegens ist auf einer Tafel unter dem Schild angegeben)
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 105)
 
@@ -6880,11 +6880,11 @@ E.8
 
 Wendeplatz
 
- 
+
 
 (Â§Â§ 6.13, 7.02)
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 105)
 
@@ -6892,11 +6892,11 @@ E.9
 
 Die benutzte WasserstraÃŸe trifft auf eine NebenwasserstraÃŸe
 
- 
+
 
 (Â§ 6.15)
 
- 
+
 
 ... (Abbildungen a) und b) BGBl. I 1993 Anlbd. S. 105)
 
@@ -6904,11 +6904,11 @@ E.10
 
 Die benutzte WasserstraÃŸe trifft auf eine HauptwasserstraÃŸe
 
- 
+
 
 (Â§ 6.16)
 
- 
+
 
 ... (Abbildungen a) und b) BGBl. I 1993 Anlbd. S. 105)
 
@@ -6916,7 +6916,7 @@ E.11
 
 Ende eines Verbots oder Gebots, das nur in einer Fahrtrichtung gilt, oder Ende einer EinschrÃ¤nkung
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 106)
 
@@ -6924,45 +6924,45 @@ E.12
 
 AnkÃ¼ndigungszeichen:
 
- 
+
 
 ein oder zwei weiÃŸe Lichter:
 
- 
+
 
 a)
 
 Feste(s) Licht(er):
 
- 
 
- 
+
+
 
 Schwierigkeit voraus:
 
- 
 
- 
+
+
 
 Anhalten, wenn vorgeschrieben
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 106)
 
- 
+
 
 b)
 
 Gleichtaktlicht(er):
 
- 
 
- 
+
+
 
 Weiterfahren mÃ¶glich
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 106)
 
@@ -6970,7 +6970,7 @@ E.13
 
 Trinkwasserzapfstelle
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 106)
 
@@ -6978,7 +6978,7 @@ E.14
 
 Fernsprechstelle
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 106)
 
@@ -6986,7 +6986,7 @@ E.15
 
 Erlaubnis fÃ¼r Fahrzeuge mit Maschinenantrieb
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 107)
 
@@ -6994,7 +6994,7 @@ E.16
 
 Erlaubnis fÃ¼r Sport- und VergnÃ¼gungsfahrzeuge <<FnR.FnA1-BJNR074110993BJNE024200307_002>>[[#FnA1-BJNR074110993BJNE024200307_002][2**)]]}
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 107)
 
@@ -7002,7 +7002,7 @@ E.17
 
 Erlaubnis, Wasserski zu laufen
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 107)
 
@@ -7010,7 +7010,7 @@ E.18
 
 Erlaubnis fÃ¼r Fahrzeuge unter Segel
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 107
 
@@ -7018,7 +7018,7 @@ E.19
 
 Erlaubnis fÃ¼r Fahrzeuge, die weder mit Maschinenantrieb noch unter Segel fahren
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 107)
 
@@ -7026,7 +7026,7 @@ E.20
 
 Erlaubnis fÃ¼r Segelsurfbretter
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 108)
 
@@ -7034,7 +7034,7 @@ E.21
 
 Genehmigte Zone fÃ¼r die Schiffahrt mit Sportfahrzeugen hoher Geschwindigkeit
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 108)
 
@@ -7042,7 +7042,7 @@ E.22
 
 Genehmigung, Kleinfahrzeuge ins Wasser zu lassen oder herauszuheben
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 108)
 
@@ -7050,7 +7050,7 @@ E.23
 
 MÃ¶glichkeit, Ã¼ber Funk nautische Informationen auf dem auf dem Zeichen angegebenen Kanal zu erhalten
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 108)
 
@@ -7068,29 +7068,29 @@ Die Hauptzeichen (Abschnitt I.) kÃ¶nnen durch folgende Zusatzzeichen ergÃ¤nzt we
 
 \\
 
- 
+
 
 Hinweis:
 
- 
+
 
 Die Schilder sind Ã¼ber dem Hauptzeichen angebracht:
 
- 
+
 
 Beispiele:
 
- 
+
 
 ... (Abbildungen BGBl. I 1993 Anlbd. S. 109)
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 Nach 1.000 m anhalten
 
@@ -7100,137 +7100,137 @@ In 1.500 m nicht freifahrende FÃ¤hre
 
 ZusÃ¤tzliche Lichtzeichen
 
- 
+
 
 WeiÃŸe Leuchtpfeile mit bestimmten Lichtern kombiniert:
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 109)
 
- 
 
- 
+
+
 
 a)
 
 mit grÃ¼nem Licht
 
- 
 
- 
+
+
 
 Beispiel:
 
- 
 
- 
+
+
 
 Erlaubnis, in das in Pfeilrichtung gelegene Becken einzufahren
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 109)
 
- 
 
- 
+
+
 
 b)
 
 mit rotem Licht
 
- 
 
- 
+
+
 
 Beispiel:
 
- 
 
- 
+
+
 
 Verbot, in das in Pfeilrichtung gelegene Becken einzufahren
 
- 
+
 
 ... (Abbildung BGBl. I 1993 Anlbd. S. 109)
 
- 
+
 
 3.
 
 Dreieckige Tafeln, die angeben, in welcher Richtung und auf welcher Strecke das Hauptzeichen gilt
 
- 
+
 
 Hinweis:
 
- 
+
 
 Die dreieckigen Tafeln mÃ¼ssen nicht unbedingt weiÃŸ sein und kÃ¶nnen neben oder unter dem Hauptzeichen angebracht sein.
 
- 
+
 
 Beispiele:
 
- 
+
 
 ... (Abbildungen BGBl. I 1993 Anlbd. S. 110)
 
- 
 
- 
+
+
 
 Stilliegen erlaubt
 
- 
 
- 
+
+
 
 ... (Abbildungen BGBl. I 1993 Anlbd. S. 110)
 
- 
 
- 
+
+
 
 Stilliegen verboten
 
- 
 
- 
+
+
 
 (auf 1.000 m)
 
- 
+
 
 4.
 
 Tafeln, die ErklÃ¤rungen oder Hinweise geben
 
- 
+
 
 Hinweis:
 
- 
+
 
 Die Tafeln sind unter dem Hauptzeichen angebracht
 
- 
+
 
 Beispiele:
 
- 
+
 
 ... (Abbildungen BGBl. I 1993 Anlbd. S. 110)
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 Anhalten zur Zollabfertigung Einen langen Ton geben
 
@@ -7243,320 +7243,320 @@ A.
 Bezeichnung in der WasserstraÃŸe zur Begrenzung der Fahrrinne
 A.1
 Rechte Seite der Fahrrinne
- 
+
 Bei Tag:
 rote Tonnen, vorzugsweise zylinderfÃ¶rmig, rote Schwimmer oder Spieren
- 
- 
- 
+
+
+
 Nicht zylinderfÃ¶rmige Tonnen und Schwimmer sind mit einem roten zylinderfÃ¶rmigen Toppzeichen versehen.
- 
- 
- 
+
+
+
 Tonne
- 
+
 ... (Abbildung BGBl. I 1993 Anlbd. S. 111)
- 
- 
- 
+
+
+
 Schwimmer
- 
+
 ... (Abbildung BGBl. I 1993 Anlbd. S. 111)
- 
- 
- 
+
+
+
 Spiere
- 
+
 ... (Abbildung BGBl. I 1993 Anlbd. S. 111)
- 
+
 Bei Nacht:
 rote Taktfeuer
- 
+
 ... (Abbildung BGBl. I 1993 Anlbd. S. 111)
- 
+
 Die Zeichen A.1 bezeichnen die Begrenzung und Lage der Fahrrinne; sie bezeichnen die rechte Seite der Fahrrinne und Gefahren am rechten Ufer.
 A.2
 Linke Seite der Fahrrinne
- 
+
 Bei Tag:
 grÃ¼ne Tonnen, vorzugsweise kegelfÃ¶rmig, grÃ¼ne Schwimmer oder Spieren
- 
- 
- 
+
+
+
 Nicht kegelfÃ¶rmige Tonnen und Schwimmer sind mit einem grÃ¼nen kegelfÃ¶rmigen Toppzeichen versehen.
- 
- 
- 
+
+
+
 Tonne
- 
+
 ... (Abbildung BGBl. I 1993 Anlbd. S. 112)
- 
- 
- 
+
+
+
 Schwimmer
- 
+
 ... (Abbildung BGBl. I 1993 Anlbd. S. 112)
- 
- 
- 
+
+
+
 Spiere
- 
+
 ... (Abbildung BGBl. I 1993 Anlbd. S. 112)
- 
+
 Bei Nacht:
 grÃ¼ne Taktfeuer
- 
+
 ... (Abbildung BGBl. I 1993 Anlbd. S. 112)
- 
+
 Die Zeichen A.2 bezeichnen die Begrenzung und Lage der Fahrrinne; sie bezeichnen die linke Seite der Fahrrinne und Gefahren am linken Ufer.
 A.3
 Fahrrinnenspaltung
- 
+
 Bei Tag:
 Tonnen, vorzugsweise kugelfÃ¶rmig, Schwimmer oder Spieren jeweils mit waagerechten roten und grÃ¼nen Streifen
- 
- 
- 
+
+
+
 Nicht kugelfÃ¶rmige Tonnen und Schwimmer sind mit einem kugelfÃ¶rmigen Toppzeichen mit waagerechten roten und grÃ¼nen Streifen versehen.
- 
- 
- 
+
+
+
 Leuchttonne
- 
+
 ... (Abbildung BGBl. I 1993 Anlbd. S. 112)
- 
- 
- 
+
+
+
 Schwimmer
- 
+
 ... (Abbildung BGBl. I 1993 Anlbd. S. 112)
- 
- 
- 
+
+
+
 Spiere
- 
+
 ... (Abbildung BGBl. I 1993 Anlbd. S. 112)
- 
+
 Bei Nacht:
 weiÃŸes Gleichtaktfeuer
- 
+
 ... (Abbildung BGBl. I 1993 Anlbd. S. 113)
- 
+
 Die Zeichen A.3 bezeichnen die Spaltung oder die Vereinigung der Fahrrinne und Gefahrenstellen in der Fahrrinne. Talfahrer wie Bergfahrer kÃ¶nnen diese Zeichen bei der Vorbeifahrt entweder an Backbord oder an Steuerbord lassen.
 A.4
 (entfÃ¤llt)
 A.5
 Leuchttonnen zur Kennzeichnung von LiegeplÃ¤tzen auf der rechten Seite der Fahrrinne
- 
+
 (Â§ 7.05)
- 
+
 ... (Abbildung BGBl. I 1993 Anlbd. S. 113)
 A.6
 Leuchttonnen zur Kennzeichnung von LiegeplÃ¤tzen auf der linken Seite der Fahrrinne
- 
+
 (Â§ 7.05)
- 
+
 ... (Abbildung BGBl. I 1993 Anlbd. S. 113)
 B.
 Kennzeichnung der Lage der Fahrrinne durch feste Schiffahrtszeichen - Kennzeichnung der Lage der Fahrrinne in bezug auf die Ufer
 B.1
 Rechtes Ufer
- 
+
 Bei Tag:
 rote quadratische Tafeln mit weiÃŸen waagerechten Streifen am oberen und unteren Rand
- 
+
 ... (Abbildung BGBl. I 1993 Anlbd. S. 114)
- 
+
 Bei Nacht:
 rote Taktfeuer
- 
+
 ... (Abbildung BGBl. I 1993 Anlbd. S. 114)
- 
+
 Die Zeichen B.1 zeigen die ungefÃ¤hre Lage der Fahrrinne in bezug auf das Ufer an und kennzeichnen mit den schwimmenden Schiffahrtszeichen die Stellen, an denen sich die Fahrrinne dem rechten Ufer nÃ¤hert; sie dienen auch als Orientierungspunkte.
 B.2
 Linkes Ufer
- 
+
 Bei Tag:
 auf der Spitze stehende quadratische Tafeln, deren obere HÃ¤lfte grÃ¼n und deren untere HÃ¤lfte weiÃŸ ist
- 
+
 ... (Abbildung BGBl. I 1993 Anlbd. S. 114)
- 
+
 Bei Nacht:
 grÃ¼ne Taktfeuer
- 
+
 ... (Abbildung BGBl. I 1993 Anlbd. S. 115)
- 
+
 Die Zeichen B.2 zeigen die ungefÃ¤hre Lage der Fahrrinne in Bezug auf das Ufer an und kennzeichnen mit den schwimmenden Schiffahrtszeichen die Stellen, an denen sich die Fahrrinne dem linken Ufer nÃ¤hert; sie dienen auch als Orientierungspunkte.
- 
- 
- 
+
+
+
 Beispiel
- 
+
 ... (Abbildung BGBl. I 1993 Anlbd. S. 115)
- 
- 
- 
+
+
+
 Kennzeichnung von ÃœbergÃ¤ngen
- 
+
 ZusÃ¤tzlich zu den Zeichen B.1 und B.2 kann der Ãœbergang der Fahrrinne von einem Ufer zum anderen durch eine besondere Bezeichnung angezeigt sein.
 B.3
 Rechtes Ufer
- 
+
 Bei Tag:
 gelbe quadratische Tafeln mit einem schwarzen senkrechten Mittelstreifen
- 
+
 ... (Abbildung BGBl. I 1993 Anlbd. S. 115)
- 
+
 Bei Nacht:
 gelbe Blitzfeuer mit Gruppen von zwei Blitzen, gegebenenfalls mit begrenztem Ã–ffnungswinkel
- 
+
 ... (Abbildung BGBl. I 1993 Anlbd. S. 116)
- 
+
 Die Zeichen B.3 zeigen den Beginn und das Ende des Ãœberganges der Fahrrinne vom rechten Ufer zum linken an.
 B.4
 Rechtes Ufer
- 
+
 Bei Tag:
 gelbe, auf der Spitze stehende quadratische Tafeln mit einem schwarzen senkrechten Mittelstreifen
- 
+
 ... (Abbildung BGBl. I 1993 Anlbd. S. 116)
- 
+
 Bei Nacht:
 Gelbe Blitzfeuer, gegebenenfalls mit begrenztem Ã–ffnungswinkel
- 
+
 ... (Abbildung BGBl. I 1993 Anlbd. S. 116)
- 
+
 Die Zeichen B.4 zeigen den Beginn und das Ende des Ãœberganges der Fahrrinne vom linken Ufer zum rechten an.
- 
- 
- 
+
+
+
 Beispiel
- 
+
 ... (Abbildung BGBl. I 1993 Anlbd. S. 117)
- 
- 
- 
+
+
+
 Einfache Angabe eines Ãœberganges
- 
+
 Kennzeichnung von ÃœbergÃ¤ngen mit Richtzeichen Bei einem langen Ãœbergang kann die Mitte der Fahrrinne durch Richtzeichen angezeigt sein. Ein solches Richtzeichen besteht aus zwei gleichen, hintereinander aufgestellten Zeichen (B.3 oder B.4), wobei das vordere Zeichen niedriger ist als das hintere; die Verbindungslinie zeigt die Mittellinie der Fahrrinne an.
 B.5
 Rechtes Ufer
- 
+
 Bei Tag:
 zwei gelbe Tafeln B.3 (vordere und hintere Tafel)
- 
- 
- 
+
+
+
 vordere Tafel
- 
+
 ... (Abbildung BGBl. I 1993 Anlbd. S. 117)
- 
- 
- 
+
+
+
 hintere Tafel
- 
+
 ... (Abbildung BGBl. I 1993 Anlbd. S. 117)
- 
+
 Bei Nacht:
 vorne gelbes Gleichtaktfeuer, dahinter gelbes Festfeuer
- 
- 
- 
+
+
+
 vorderes Feuer
- 
+
 ... (Abbildung BGBl. I 1993 Anlbd. S. 118)
- 
- 
- 
+
+
+
 hinteres Feuer
- 
+
 ... (Abbildung BGBl. I 1993 Anlbd. S. 118)
 B.6
 Linkes Ufer
- 
+
 Bei Tag:
 zwei gelbe Tafeln B.4 (vordere und hintere Tafel)
- 
- 
- 
+
+
+
 vordere Tafel
- 
+
 ... (Abbildung BGBl. I 1993 Anlbd. S. 118)
- 
- 
- 
+
+
+
 hintere Tafel
- 
+
 ... (Abbildung BGBl. I 1993 Anlbd. S. 119)
- 
+
 Bei Nacht:
 vorne gelbes Gleichtaktfeuer, dahinter gelbes Festfeuer
- 
- 
- 
+
+
+
 vorderes Feuer
- 
+
 ... (Abbildung BGBl. I 1993 Anlbd. S. 119)
- 
- 
- 
+
+
+
 hinteres Feuer
- 
+
 ... (Abbildung BGBl. I 1993 Anlbd. S. 119)
 C.
 Bezeichnung von Gefahrenstellen und Schiffahrtshindernissen durch feste Schiffahrtszeichen
 C.1
 Gefahrenzeichen, rechtes Ufer
- 
+
 Bei Tag:
 weiÃŸes Dreieck mit rotem Rand, Spitze unten
- 
+
 ... (Abbildung BGBl. I 1993 Anlbd. S. 120)
- 
+
 Die Zeichen C.1 zeigen Gefahrenstellen am rechten Ufer oder in dessen NÃ¤he an (Buhnen, Leitwerke); sie kÃ¶nnen auch bei Hochwasser Ã¼berstrÃ¶mte, vorspringende Punkte bezeichnen.
 C.2
 Gefahrenzeichen, linkes Ufer
- 
+
 Bei Tag:
 weiÃŸes Dreieck mit grÃ¼nem Rand, Spitze oben
- 
+
 ... (Abbildung BGBl. I 1993 Anlbd. S. 120)
- 
+
 Die Zeichen C.2 zeigen Gefahrenstellen am linken Ufer oder in dessen NÃ¤he an (Buhnen, Leitwerke); sie kÃ¶nnen auch bei Hochwasser Ã¼berstrÃ¶mte, vorspringende Punkte bezeichnen.
 C.3
 Gefahrenzeichen, bei denen die Vorbeifahrt an beiden Seiten mÃ¶glich ist
- 
+
 Bei Tag:
 zwei weiÃŸe, dreieckige Tafeln, Spitzen zueinander, die obere mit rotem Rand, die die untere mit grÃ¼nem Rand
- 
+
 ... (Abbildung BGBl. I 1993 Anlbd. S. 120)
- 
+
 Bei Nacht:
 weiÃŸes Gleichtaktfeuer
- 
+
 ... (Abbildung BGBl. I 1993 Anlbd. S. 120)
- 
+
 Die Zeichen C.3 kÃ¶nnen an Inselenden angebracht sein, an denen sich die Fahrrinne teilt sowie an EinmÃ¼ndungen von schiffbaren KanÃ¤len und NebenflÃ¼ssen.
 D.
 ZusÃ¤tzliche Bezeichnung fÃ¼r die Radarschiffahrt
 D.1
 Bezeichnung der BrÃ¼ckenpfeiler
- 
+
 1.
 Die Tonnen A.1 und A.2 kÃ¶nnen mit Radarreflektoren verwendet werden (ober- und unterhalb der Pfeiler angeordnet).
- 
+
 2.
 Die Ausleger mit Radarreflektoren werden auf den BrÃ¼ckenpfeilern angebracht.
- 
+
 ... (Abbildung BGBl. I 1993 Anlbd. S. 121)
 D.2
 Bezeichnung der Freileitungen
- 
+
 1.
 Feste Radarreflektoren, gegebenenfalls auf der Freileitung (auf dem Radarbild ergibt sich eine Punktreihe)
- 
+
 ... (Abbildung BGBl. I 1993 Anlbd. S. 121)
- 
+
 2.
 Auf gelben Tonnen montierte Radarreflektoren, gegebenenfalls je zwei neben dem Ufer (auf dem Radarschirm zeigen die jeweils zwei Echos die Linie der Freileitung an)
 
@@ -7610,7 +7610,7 @@ Fundstelle des Originaltextes: BGBl. I 1993, Anlageband S. 123
 - 5. :: Ammoniak, verflÃ¼ssigt oder unter Druck gelÃ¶st, wenn es in Tankschiffen befÃ¶rdert wird.
 
 
-Anlage 11 - Daten, die in das Inland AIS GerÃ¤t einzugeben sind: ErlÃ¤uterungen des â€Navigationsstatusâ€œ und des â€Bezugspunktes der Positionsinformation auf dem Fahrzeugâ€œ
+Anlage 11 - Daten, die in das Inland AIS GerÃ¤t einzugeben sind: ErlÃ¤uterungen des Navigationsstatusâ€œ und des Bezugspunktes der Positionsinformation auf dem Fahrzeugâ€œ
 
 (Fundstelle: BGBl. I 2016, 2963)
 - 1. :: Navigationsstatus\\

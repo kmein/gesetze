@@ -31,7 +31,7 @@ Jede Rechtsanwaltskammer führt ein elektronisches Verzeichnis der in ihrem Bezi
 
 § 2 - Inhalt des Verzeichnisses
 
-(1) Als Zusatz zum Familiennamen werden, soweit von der eingetragenen Person geführt und mitgeteilt, akademische Grade und Ehrengrade sowie die Bezeichnung �Professor“ eingetragen. Nicht-juristische Grade und Bezeichnungen müssen als solche erkennbar sein. Die Rechtsanwaltskammer kann die Eintragung davon abhängig machen, dass die Berechtigung zum Führen des akademischen Grades, des Ehrengrades oder der Bezeichnung �Professor“ nachgewiesen wird.
+(1) Als Zusatz zum Familiennamen werden, soweit von der eingetragenen Person geführt und mitgeteilt, akademische Grade und Ehrengrade sowie die Bezeichnung Professor“ eingetragen. Nicht-juristische Grade und Bezeichnungen müssen als solche erkennbar sein. Die Rechtsanwaltskammer kann die Eintragung davon abhängig machen, dass die Berechtigung zum Führen des akademischen Grades, des Ehrengrades oder der Bezeichnung Professor“ nachgewiesen wird.
 (2) Führt die eingetragene Person einen Berufsnamen und teilt sie diesen mit, wird auch dieser eingetragen.
 (3) Verfügt eine eingetragene Person über mehrere Vornamen, so sind diese nur insoweit einzutragen, als sie im Rahmen der Berufsausübung üblicherweise verwendet werden.
 (4) Als Name der Kanzlei oder Zweigstelle ist die Bezeichnung einzutragen, unter der die eingetragene Person am jeweiligen Standort beruflich auftritt. Sofern bei einer gemeinschaftlichen Berufsausübung eine Kurzbezeichnung geführt wird, ist diese als Name einzutragen. Bei Syndikusrechtsanwälten ist als Name der Arbeitgeber einzutragen. Wird eine weitere Kanzlei eingetragen, muss sich deren Name von dem Namen anderer für die Person eingetragener Kanzleien unterscheiden.
@@ -90,7 +90,7 @@ Die Eintragung der nach § 1 in das Verzeichnis einzutragenden Personen erfolgt 
 
 § 9 - Führung des Gesamtverzeichnisses
 
-Die Bundesrechtsanwaltskammer führt ein elektronisches Gesamtverzeichnis aller in den Verzeichnissen der Rechtsanwaltskammern eingetragenen Personen. Es trägt die Bezeichnung �Bundesweites Amtliches Anwaltsverzeichnis“.
+Die Bundesrechtsanwaltskammer führt ein elektronisches Gesamtverzeichnis aller in den Verzeichnissen der Rechtsanwaltskammern eingetragenen Personen. Es trägt die Bezeichnung Bundesweites Amtliches Anwaltsverzeichnis“.
 
 § 10 - Inhalt des Gesamtverzeichnisses
 
@@ -153,7 +153,7 @@ Die Einsichtnahme in das Gesamtverzeichnis erfolgt über eine Suchfunktion. § 7
 
 § 16 - Abruf von Angaben über das Europäische Rechtsanwaltsverzeichnis
 
-Die Bundesrechtsanwaltskammer stellt die in § 17 genannten Angaben des Gesamtverzeichnisses für die Einsichtnahme über das auf den Internetseiten der Europäischen Kommission unter der Bezeichnung �Find a lawyer“ betriebene elektronische Suchsystem, das im Deutschen die Bezeichnung �Europäisches Rechtsanwaltsverzeichnis“ trägt, abrufbereit zur Verfügung. Der Abruf ist bezüglich des in § 1 Satz 1 und 2 Nummer 1 bis 3 genannten Personenkreises mit Ausnahme der Syndikusrechtsanwälte, der niedergelassenen europäischen Syndikusrechtsanwälte und der Syndikusrechtsanwälte aus anderen Staaten zu ermöglichen.
+Die Bundesrechtsanwaltskammer stellt die in § 17 genannten Angaben des Gesamtverzeichnisses für die Einsichtnahme über das auf den Internetseiten der Europäischen Kommission unter der Bezeichnung Find a lawyer“ betriebene elektronische Suchsystem, das im Deutschen die Bezeichnung Europäisches Rechtsanwaltsverzeichnis“ trägt, abrufbereit zur Verfügung. Der Abruf ist bezüglich des in § 1 Satz 1 und 2 Nummer 1 bis 3 genannten Personenkreises mit Ausnahme der Syndikusrechtsanwälte, der niedergelassenen europäischen Syndikusrechtsanwälte und der Syndikusrechtsanwälte aus anderen Staaten zu ermöglichen.
 
 § 17 - Abrufbare Angaben
 
@@ -184,7 +184,7 @@ Die Bundesrechtsanwaltskammer stellt die in § 17 genannten Angaben des Gesamtve
 
 § 20 - Führung der besonderen elektronischen Postfächer
 
-(1) Die Bundesrechtsanwaltskammer hat die besonderen elektronischen Anwaltspostfächer auf der Grundlage des Protokollstandards �Online Services Computer Interface -- OSCI“ oder einem künftig nach dem Stand der Technik an dessen Stelle tretenden Standard zu betreiben. Die Bundesrechtsanwaltskammer hat fortlaufend zu gewährleisten, dass die in § 19 Absatz 1 genannten Personen und Stellen miteinander sicher elektronisch kommunizieren können.
+(1) Die Bundesrechtsanwaltskammer hat die besonderen elektronischen Anwaltspostfächer auf der Grundlage des Protokollstandards Online Services Computer Interface -- OSCI“ oder einem künftig nach dem Stand der Technik an dessen Stelle tretenden Standard zu betreiben. Die Bundesrechtsanwaltskammer hat fortlaufend zu gewährleisten, dass die in § 19 Absatz 1 genannten Personen und Stellen miteinander sicher elektronisch kommunizieren können.
 (2) Der Zugang zum besonderen elektronischen Anwaltspostfach soll barrierefrei im Sinne der Barrierefreie-Informationstechnik-Verordnung sein.
 (3) Die Bundesrechtsanwaltskammer hat zu gewährleisten, dass bei einem Versand nicht-qualifiziert signierter elektronischer Dokumente durch einen Rechtsanwalt auf einem sicheren Übermittlungsweg für den Empfänger feststellbar ist, dass die Nachricht von dem Rechtsanwalt selbst versandt wurde.
 

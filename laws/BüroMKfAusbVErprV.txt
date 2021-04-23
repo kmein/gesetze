@@ -33,8 +33,8 @@ Die Ausbildungsordnung ist zugrunde zu legen.
 - 1. :: auf die in den Anlagen 1 und 2 der Büromanagementkaufleute-Ausbildungsverordnung für die ersten 15 Monate genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 - 2. :: auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Teil 1 der Abschlussprüfung findet im Prüfungsbereich �informationstechnisches Büromanagement“ statt.
-(4) Für den Prüfungsbereich �informationstechnisches Büromanagement“ bestehen folgende Vorgaben:
+(3) Teil 1 der Abschlussprüfung findet im Prüfungsbereich informationstechnisches Büromanagement“ statt.
+(4) Für den Prüfungsbereich informationstechnisches Büromanagement“ bestehen folgende Vorgaben:
 
 - 1. :: der Prüfling soll nachweisen, dass er in der Lage ist, im Rahmen eines ganzheitlichen Arbeitsauftrages Büro- und Beschaffungsprozesse zu organisieren und kundenorientiert zu bearbeiten; dabei soll er nachweisen, dass er unter Anwendung von Textverarbeitungs- und Tabellenkalkulationsprogrammen recherchieren, dokumentieren und kalkulieren kann;
 - 2. :: der Prüfling soll berufstypische Aufgaben schriftlich computergestützt bearbeiten;
@@ -55,13 +55,13 @@ Die Ausbildungsordnung ist zugrunde zu legen.
 - 2. :: Fachaufgabe in der Wahlqualifikation,
 - 3. :: Wirtschafts- und Sozialkunde.
 
-(4) Für den Prüfungsbereich �Kundenbeziehungsprozesse“ bestehen folgende Vorgaben:
+(4) Für den Prüfungsbereich Kundenbeziehungsprozesse“ bestehen folgende Vorgaben:
 
 - 1. :: der Prüfling soll nachweisen, dass er in der Lage ist, komplexe Arbeitsaufträge handlungsorientiert zu bearbeiten; dabei soll er zeigen, dass er Aufträge kundenorientiert abwickeln, personalbezogene Aufgaben wahrnehmen und Instrumente der kaufmännischen Steuerung fallbezogen einsetzen kann;
 - 2. :: der Prüfling soll berufstypische Aufgaben schriftlich bearbeiten;
 - 3. :: die Prüfungszeit beträgt 150 Minuten.
 
-(5) Für den Prüfungsbereich �Fachaufgabe in der Wahlqualifikation“ bestehen folgende Vorgaben:
+(5) Für den Prüfungsbereich Fachaufgabe in der Wahlqualifikation“ bestehen folgende Vorgaben:
 
 - 1. :: der Prüfling soll nachweisen, dass er in der Lage ist,
   - a) :: berufstypische Aufgabenstellungen zu erfassen, Probleme und Vorgehensweisen zu erörtern sowie Lösungswege zu entwickeln, zu begründen und zu reflektieren,
@@ -79,7 +79,7 @@ Die Ausbildungsordnung ist zugrunde zu legen.
 
 Der Ausbildungsbetrieb teilt der zuständigen Stelle mit der Anmeldung zur Prüfung mit, welche Variante nach Satz 1 Nummer 3 gewählt wird. Wird die Variante nach Satz 1 Nummer 3 Buchstabe a gewählt, hat der Ausbildende zu bestätigen, dass die Fachaufgaben vom Prüfling eigenständig im Betrieb durchgeführt worden sind. Die Reporte sind dem Prüfungsausschuss spätestens am ersten Tag von Teil 2 der Abschlussprüfung zuzuleiten. Sie werden nicht bewertet. Aus den beiden betrieblichen Fachaufgaben wählt der Prüfungsausschuss eine aus. Ausgehend von der gewählten Fachaufgabe und dem dazu erstellten Report entwickelt der Prüfungsausschuss für die zugrunde liegende Wahlqualifikation das fallbezogene Fachgespräch so, dass die in Satz 1 Nummer 1 genannten Vorgaben nachgewiesen werden können. Wird die Variante nach Satz 1 Nummer 3 Buchstabe b gewählt, ist dem Prüfling eine Vorbereitungszeit von 20 Minuten einzuräumen. Ausgehend von der Fachaufgabe, die der Prüfling gewählt hat, entwickelt der Prüfungsausschuss für die zugrunde liegende Wahlqualifikation das fallbezogene Fachgespräch so, dass die in Satz 1 Nummer 1 genannten Vorgaben nachgewiesen werden können.
 
-(6) Für den Prüfungsbereich �Wirtschafts- und Sozialkunde“ bestehen folgende Vorgaben:
+(6) Für den Prüfungsbereich Wirtschafts- und Sozialkunde“ bestehen folgende Vorgaben:
 
 - 1. :: der Prüfling soll nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen;
 - 2. :: der Prüfling soll fallbezogene Aufgaben schriftlich bearbeiten;
@@ -104,14 +104,14 @@ Der Ausbildungsbetrieb teilt der zuständigen Stelle mit der Anmeldung zur Prüf
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Leistungen wie folgt bewertet worden sind:
 
-- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit mindestens �ausreichend“,
-- 2. :: im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens �ausreichend“,
-- 3. :: in mindestens zwei Prüfungsbereichen von Teil 2 der Abschlussprüfung mit mindestens �ausreichend“ und
-- 4. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit �ungenügend“.
+- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit mindestens ausreichend“,
+- 2. :: im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens ausreichend“,
+- 3. :: in mindestens zwei Prüfungsbereichen von Teil 2 der Abschlussprüfung mit mindestens ausreichend“ und
+- 4. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit ungenügend“.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche �Kundenbeziehungsprozesse“ oder �Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche Kundenbeziehungsprozesse“ oder Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-- 1. :: der Prüfungsbereich schlechter als �ausreichend“ bewertet worden ist und
+- 1. :: der Prüfungsbereich schlechter als ausreichend“ bewertet worden ist und
 - 2. :: die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
@@ -125,7 +125,7 @@ Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisheri
 
 (1) Die Zusatzqualifikation wird im Rahmen von Teil 2 der Abschlussprüfung gesondert geprüft, wenn bei der Anmeldung zur Abschlussprüfung mitgeteilt wird, dass diese Prüfung durchgeführt werden soll und glaubhaft gemacht wird, dass die erforderlichen Fertigkeiten, Kenntnisse und Fähigkeiten vermittelt worden sind.
 (2) Für die Prüfung der Zusatzqualifikation gilt § 4 Absatz 5 entsprechend.
-(3) Die Prüfung der Zusatzqualifikation ist bestanden, wenn sie mit mindestens �ausreichend“ bewertet worden ist.
+(3) Die Prüfung der Zusatzqualifikation ist bestanden, wenn sie mit mindestens ausreichend“ bewertet worden ist.
 
 § 8 - Bestehende Berufsausbildungsverhältnisse
 

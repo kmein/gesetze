@@ -185,15 +185,15 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 § 7 - Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
-(2) Im fachrichtungsübergreifenden Prüfungsteil sind die Prüfungsleistungen für die Prüfungsfächer �Grundlagen für kostenbewusstes Handeln“ und �Grundlagen für rechtsbewusstes Handeln“ einzeln zu bewerten.
-(3) Im Prüfungsfach �Grundlagen für die Zusammenarbeit im Betrieb“ des fachrichtungsübergreifenden Prüfungsteils sind die schriftliche Prüfung und die mündliche Prüfung einzeln zu bewerten. Aus beiden Bewertungen wird als zusammengefasste Bewertung das gewichtete arithmetische Mittel berechnet. Dabei werden gewichtet:
+(2) Im fachrichtungsübergreifenden Prüfungsteil sind die Prüfungsleistungen für die Prüfungsfächer Grundlagen für kostenbewusstes Handeln“ und Grundlagen für rechtsbewusstes Handeln“ einzeln zu bewerten.
+(3) Im Prüfungsfach Grundlagen für die Zusammenarbeit im Betrieb“ des fachrichtungsübergreifenden Prüfungsteils sind die schriftliche Prüfung und die mündliche Prüfung einzeln zu bewerten. Aus beiden Bewertungen wird als zusammengefasste Bewertung das gewichtete arithmetische Mittel berechnet. Dabei werden gewichtet:
 
 - 1. :: die schriftliche Prüfung mit einem Drittel und
 - 2. :: die mündliche Prüfung mit zwei Dritteln.
 
-Das Ergebnis ist die Bewertung für das Prüfungsfach �Grundlagen für die Zusammenarbeit im Betrieb“.
+Das Ergebnis ist die Bewertung für das Prüfungsfach Grundlagen für die Zusammenarbeit im Betrieb“.
 
-(4) Aus den einzelnen Bewertungen der Prüfungsleistungen im Prüfungsfach �Grundlagen für kostenbewusstes Handeln“ und im Prüfungsfach �Grundlagen für rechtsbewusstes Handeln“ sowie der zusammengefassten Bewertung im Prüfungsfach �Grundlagen für die Zusammenarbeit im Betrieb“ wird als Bewertung für den fachrichtungsübergreifenden Prüfungsteil das arithmetische Mittel berechnet.
+(4) Aus den einzelnen Bewertungen der Prüfungsleistungen im Prüfungsfach Grundlagen für kostenbewusstes Handeln“ und im Prüfungsfach Grundlagen für rechtsbewusstes Handeln“ sowie der zusammengefassten Bewertung im Prüfungsfach Grundlagen für die Zusammenarbeit im Betrieb“ wird als Bewertung für den fachrichtungsübergreifenden Prüfungsteil das arithmetische Mittel berechnet.
 (5) Im fachrichtungsspezifischen Teil sind als Prüfungsleistungen zu bewerten:
 
 - 1. :: die schriftlichen Prüfungen nach § 5 Absatz 2 bis 5 und
@@ -211,14 +211,14 @@ Aus den einzelnen Bewertungen wird als zusammengefasste Bewertung für den fachr
 - 2. :: in der Bewertung des fachrichtungsübergreifenden Teils,
 - 3. :: in vier der fünf Prüfungsfächer des fachrichtungsspezifischen Teils,
 - 4. :: in der zusammengefassten Bewertung des fachrichtungsübergreifenden Teils und
-- 5. :: im Prüfungsfach �Organisation der Baustelle, Arbeitssicherheit und Umweltschutz“.
+- 5. :: im Prüfungsfach Organisation der Baustelle, Arbeitssicherheit und Umweltschutz“.
 
 Die Prüfung ist nur bestanden, wenn in den verbleibenden Prüfungsleistungen nach Satz 1 Nummer 1 und 3 jeweils mindestens 30 Punkte erreicht wurden.
 
 (2) Ist die Prüfung bestanden, werden die folgenden Bewertungen jeweils kaufmännisch auf eine ganze Zahl gerundet:
 
 - 1. :: die Bewertung für den fachrichtungsübergreifenden Prüfungsteil,
-- 2. :: die Bewertung für das Prüfungsfach �Grundlagen für die Zusammenarbeit im Betrieb“ und
+- 2. :: die Bewertung für das Prüfungsfach Grundlagen für die Zusammenarbeit im Betrieb“ und
 - 3. :: die zusammengefasste Bewertung für den fachspezifischen Prüfungsteil.
 
 (3) Der Bewertung für den fachrichtungsübergreifenden Prüfungsteil, den Bewertungen für jedes Prüfungsfach des fachrichtungsübergreifenden Prüfungsteils, der zusammengefassten Bewertung für den fachrichtungsspezifischen Prüfungsteil sowie den Bewertungen für jedes Prüfungsfach des fachrichtungsspezifischen Prüfungsteils ist nach Anlage 1 die jeweilige Note als Dezimalzahl zuzuordnen.

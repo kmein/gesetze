@@ -150,7 +150,7 @@ Anlage 1 - (zu Â§ 5 Absatz 1 Nummer 1, Â§ 9 Absatz 1 Nummer 1 Buchstabe a und Â§
 
 (Fundstelle: BGBl. I 2021, 204 -- 210)
 Kostenblock
- 
+
 Stundensatz\\
 in Euro
 Abschnitt 1\\
@@ -257,7 +257,7 @@ Sacheinzelkosten
 Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,59 Euro gekÃ¼rzt werden.\\
 Wenn SachverstÃ¤ndige als Auslage abzurechnen sind, muss der Stundensatz um 0,09 Euro gekÃ¼rzt werden.
 VerwaltungsbeschÃ¤ftigte
- 
+
 13,33
 Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,57 Euro gekÃ¼rzt werden.\\
 Wenn SachverstÃ¤ndige als Auslage abzurechnen sind, muss der Stundensatz um 0,08 Euro gekÃ¼rzt werden.\\
@@ -265,13 +265,13 @@ Wenn Hubschrauber als Auslage abzurechnen sind, muss der Stundensatz um 0,11 Eur
 Wenn Boote oder Schiffe als Auslage abzurechnen sind, muss der Stundensatz um 0,05 Euro gekÃ¼rzt werden.\\
 Wenn Wasserwerfer als Auslage abzurechnen sind, muss der Stundensatz um 0,02 Euro gekÃ¼rzt werden.
 Polizeivollzugsbeamtinnen und -beamte
- 
+
 13,00
 2. ohne Gemeinkostenzuschlag
 Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,46 Euro gekÃ¼rzt werden.\\
 Wenn SachverstÃ¤ndige als Auslage abzurechnen sind, muss der Stundensatz um 0,07 Euro gekÃ¼rzt werden.
 VerwaltungsbeschÃ¤ftigte
- 
+
 10,41
 Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,45 Euro gekÃ¼rzt werden.\\
 Wenn SachverstÃ¤ndige als Auslage abzurechnen sind, muss der Stundensatz um 0,06 Euro gekÃ¼rzt werden.\\
@@ -279,7 +279,7 @@ Wenn Hubschrauber als Auslage abzurechnen sind, muss der Stundensatz um 0,09 Eur
 Wenn Boote oder Schiffe als Auslage abzurechnen sind, muss der Stundensatz um 0,04 Euro gekÃ¼rzt werden.\\
 Wenn Wasserwerfer als Auslage abzurechnen sind, muss der Stundensatz um 0,01 Euro gekÃ¼rzt werden.
 Polizeivollzugsbeamtinnen und -beamte
- 
+
 10,15
 
 Anlage 2 - (zu Â§ 5 Absatz 1 Nummer 2, Â§ 9 Absatz 1 Nummer 1 Buchstabe b und Â§ 10 Absatz 2 Nummer 2)
@@ -292,81 +292,81 @@ Festtitel gemÃ¤ÃŸ Haushaltssystematik des Bundes
 1.1 Beamtinnen und Beamte
 1.1.1 steuerpflichtes Brutto
 A 3
- 
+
 A 4
- 
+
 A 5
- 
+
 A 6
- 
+
 einfacher Dienst A 2 bis A 6
- 
+
 A 6
- 
+
 A 7
- 
+
 A 8
- 
+
 A 9
- 
+
 A 9 + Zulage
- 
+
 mittlerer Dienst A 6 bis A 9 + Zulage
- 
+
 A 9
- 
+
 A 10
- 
+
 A 11
- 
+
 A 12
- 
+
 A 13
- 
+
 A 13 + Zulage
- 
- 
+
+
 gehobener Dienst A 9 bis A 13 + Zulage
- 
+
 A 13
- 
+
 A 14
- 
+
 A 15
- 
+
 A 16
- 
+
 hÃ¶herer Dienst A 13 bis A 16
- 
+
 1.1.2 Versorgung\\
 % von 1.1.1
 Verwaltungsbeamtinnen und -beamte
- 
+
 | einfacher Dienst | 27,9Â Â  |
 
- 
+
 | mittlerer Dienst | 27,9Â Â  |
 
- 
+
 | gehobener Dienst | 29,3Â Â  |
 
- 
+
 | hÃ¶herer Dienst | 36,9Â Â  |
 
- 
+
 Polizeivollzugsbeamtinnen und -beamte
- 
+
 | mittlerer Dienst | 32,6Â Â  |
 
- 
+
 | gehobener Dienst | 32,6Â Â  |
 
- 
+
 | hÃ¶herer Dienst | 32,6Â Â  |
 
- 
+
 1.1.3 sonstige Personalnebenkosten
- 
+
 Beihilfen aufgrund der Beihilfevorschriften sowie HeilfÃ¼rsorge der Polizeivollzugsbeamtinnen und -beamten
 Z 441 .1 sowie 443 .3
 FÃ¼rsorgeleistungen und UnterstÃ¼tzungen einschlieÃŸlich Inanspruchnahme von besonderen Fachdiensten/â€‘krÃ¤ften
@@ -380,98 +380,98 @@ vermischte Personalausgaben -- soweit die Kosten mit der gebÃ¼hrenfÃ¤higen Leist
 1.2 Arbeitnehmerinnen und Arbeitnehmer
 1.2.1 steuerpflichtiges Brutto
 E 2
- 
+
 E 2 Ãœ
- 
+
 E 3
- 
+
 E 4
- 
+
 Gruppe E 2 bis E 4
- 
+
 E 5
- 
+
 E 6
- 
+
 E 7
- 
+
 E 8
- 
+
 E 9a
- 
+
 Gruppe E 5 bis E 9a
- 
+
 E 9b
- 
+
 E 9c
- 
- 
+
+
 E 10
- 
+
 E 11
- 
+
 E 12
- 
+
 Gruppe E 9b bis E 12
- 
+
 E 13
- 
+
 E 14
- 
+
 E 15
- 
+
 E 15 Ãœ
- 
+
 Gruppe E 13 bis E 15 Ãœ
- 
+
 1.2.2 Personalnebenkosten BezÃ¼ge
 E 2
- 
+
 E 2 Ãœ
- 
+
 E 3
- 
+
 E 4
- 
+
 Gruppe E 2 bis E 4
- 
+
 E 5
- 
+
 E 6
- 
- 
+
+
 E 7
- 
+
 E 8
- 
+
 E 9a
- 
+
 Gruppe E 5 bis E 9a
- 
+
 E 9b
- 
+
 E 9c
- 
+
 E 10
- 
+
 E 11
- 
+
 E 12
- 
+
 Gruppe E 9b bis E 12
- 
+
 E 13
- 
+
 E 14
- 
+
 E 15
- 
+
 E 15 Ãœ
- 
+
 Gruppe E 13 bis E 15 Ãœ
- 
+
 1.2.3 sonstige Personalnebenkosten
- 
+
 FÃ¼rsorgeleistungen und UnterstÃ¼tzungen einschlieÃŸlich Inanspruchnahme von besonderen Fachdiensten/-krÃ¤ften
 Z 443 .1
 Unfallversicherung Bund und Bahn
@@ -484,7 +484,7 @@ vermischte Personalausgaben -- soweit die Kosten mit der gebÃ¼hrenfÃ¤higen Leist
 459 .9
 2. Sacheinzelkosten
 2.1 sÃ¤chliche Verwaltungsausgaben
- 
+
 GeschÃ¤ftsbedarf und Kommunikation sowie GerÃ¤te, Ausstattungs- und AusrÃ¼stungsgegenstÃ¤nde, sonstige GebrauchsgegenstÃ¤nde, Software, Wartung
 511 .1
 Verbrauchsmittel, Haltung von Fahrzeugen und dergleichen
@@ -497,7 +497,7 @@ Mieten und Pachten
 518 .1
 Aus- und Fortbildung
 525 .1
- 
+
 Dienstreisen
 527 .1
 wenn Dienstreisen als Auslage abgerechnet werden:\\
@@ -522,20 +522,20 @@ vermischte Verwaltungsausgaben -- soweit die Kosten mit der gebÃ¼hrenfÃ¤higen Le
 Z 542 .1
 VerÃ¶ffentlichungen und Fachinformationen -- soweit die Kosten mit der gebÃ¼hrenfÃ¤higen Leistung verbunden sind (Â§ 3)
 Z 543 .1
- 
+
 Forschung, Untersuchungen und Ã„hnliches -- soweit die Kosten mit der gebÃ¼hrenfÃ¤higen Leistung verbunden sind (Â§ 3)
 544 .1
- 
+
 Konferenzen, Tagungen, Messen und Ausstellungen -- soweit die Kosten mit der gebÃ¼hrenfÃ¤higen Leistung verbunden sind (Â§ 3)
 Z 545 .1
- 
+
 nicht aufteilbare sÃ¤chliche Verwaltungsausgaben -- soweit die Kosten mit der gebÃ¼hrenfÃ¤higen Leistung verbunden sind (Â§ 3)
 547 .1
 2.2 Investitionen
- 
+
 Kleine Neu-, Um- und Erweiterungsbauten
 711 .1
- 
+
 Erwerb von Fahrzeugen
 811 .1
 wenn Wasserwerfer als Auslage abgerechnet werden:\\
@@ -549,7 +549,7 @@ Erwerb von Anlagen, GerÃ¤ten, Ausstattungs- und AusrÃ¼stungsgegenstÃ¤nden sowie 
 BaumaÃŸnahmen von mehr als 6 Mio. Euro im Einzelfall -- soweit die Kosten mit der gebÃ¼hrenfÃ¤higen Leistung verbunden sind (Â§ 3)
 712 .1
 2.3 BÃ¼rorÃ¤ume
- 
+
 Bewirtschaftung der GrundstÃ¼cke, GebÃ¤ude und RÃ¤ume
 517 .1
 Mieten und Pachten im Zusammenhang mit dem einheitlichen Liegenschaftsmanagement
@@ -560,7 +560,7 @@ Unterhaltung der GrundstÃ¼cke und baulichen Anlagen
 -- 4 %
 3. Gemeinkosten
 Zuschlagssatz auf Personaleinzel- und Sacheinzelkosten in Prozent
- 
+
 3.1 relevante Organisationseinheiten, die interne Leistungen erbringen
 Leitung
 Stabstellen
@@ -583,7 +583,7 @@ Personalvertretung
 3.2 Rechts- und Fachaufsicht
 4. Personalstruktur
 4.1 Anzahl
- 
+
 Beamtinnen und Beamte\\
 (gegebenenfalls Differenzierung in Verwaltungsbeamtinnen und -beamte sowie Polizeivollzugsbeamtinnen und -beamte)
 Gesamtzahl
@@ -599,7 +599,7 @@ Gruppe E 9b bis E 12
 Gruppe E 13\\
 bis E 15 Ãœ
 4.2 VollzeitÃ¤quivalente
- 
+
 Beamtinnen und Beamte\\
 (gegebenenfalls Differenzierung in Verwaltungsbeamtinnen und -beamte sowie Polizeivollzugsbeamtinnen und -beamte)
 Gesamtzahl
@@ -616,10 +616,10 @@ Gruppe E 13\\
 bis E 15 Ãœ
 5. Arbeitsleistung
 Arbeitsstunden
- 
+
 pro Monat
- 
+
 Beamtinnen und Beamte
- 
+
 Arbeitnehmerinnen und Arbeitnehmer
- 
+

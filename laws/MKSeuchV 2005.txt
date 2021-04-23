@@ -98,7 +98,7 @@ Die zuständige Behörde kann von der Tötungsanordnung nach Satz 2 Nummer 2 abs
 
 (2) Bis zur Bekanntgabe der Anordnung nach Absatz 1 Satz 1 hat der Tierhalter des Verdachtsbetriebs im Falle des Verdachts auf Maul- und Klauenseuche
 
-- 1. :: an den Zufahrten und Eingängen des Betriebs Schilder mit der deutlichen und haltbaren Aufschrift �Maul- und Klauenseuche-Verdacht -- Unbefugter Zutritt verboten“ gut sichtbar anzubringen,
+- 1. :: an den Zufahrten und Eingängen des Betriebs Schilder mit der deutlichen und haltbaren Aufschrift Maul- und Klauenseuche-Verdacht -- Unbefugter Zutritt verboten“ gut sichtbar anzubringen,
 - 2. :: sämtliche Tiere empfänglicher Arten des Betriebs abzusondern,
 - 3. :: täglich Aufzeichnungen über
   - a) :: die Besuche betriebsfremder Personen unter Angabe von Namen, Anschrift und Besuchsdatum sowie
@@ -190,7 +190,7 @@ an.
 
 (2) Mit Bekanntgabe der Anordnung nach Absatz 1 hat der Tierhalter des Seuchenbetriebs über die Vorschriften des § 3 Absatz 2 Satz 1 Nummer 2 bis 9 hinaus
 
-- 1. :: an den Zufahrten und Eingängen des Betriebs Schilder mit der deutlichen und haltbaren Aufschrift �Maul- und Klauenseuche -- Unbefugter Zutritt verboten“ gut sichtbar anzubringen,
+- 1. :: an den Zufahrten und Eingängen des Betriebs Schilder mit der deutlichen und haltbaren Aufschrift Maul- und Klauenseuche -- Unbefugter Zutritt verboten“ gut sichtbar anzubringen,
 - 2. :: Geflügel, Hunde und Katzen einzusperren.
 
 § 3 Absatz 2 Satz 2 Nummer 1 gilt entsprechend.
@@ -219,7 +219,7 @@ Die für den Ort des Verbleibs zuständige Behörde ordnet die unschädliche Bes
 (1) Ist die Maul- und Klauenseuche in einem Betrieb amtlich festgestellt, so legt die zuständige Behörde ein Gebiet um den Seuchenbetrieb mit einem Radius von mindestens drei Kilometern als Sperrbezirk fest. Hierbei berücksichtigt sie die Ergebnisse durchgeführter epidemiologischer Untersuchungen, Strukturen des Handels und der örtlichen Haltung von Tieren empfänglicher Arten, das Vorhandensein von Schlachtstätten und Verarbeitungsbetrieben für Material der Kategorie 1 oder 2 nach Artikel 24 Absatz 1 Buchstabe a der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte und zur Aufhebung der Verordnung (EG) Nr. 1774/2002 (ABl. L 300 vom 14.11.2009, S. 1) in der jeweils geltenden Fassung, natürliche Grenzen sowie Überwachungsmöglichkeiten.
 (2) Die zuständige Behörde
 
-- 1. :: bringt an den Hauptzufahrtswegen zu dem Sperrbezirk Schilder mit der deutlichen und haltbaren Aufschrift �Maul- und Klauenseuche -- Sperrbezirk“ gut sichtbar an,
+- 1. :: bringt an den Hauptzufahrtswegen zu dem Sperrbezirk Schilder mit der deutlichen und haltbaren Aufschrift Maul- und Klauenseuche -- Sperrbezirk“ gut sichtbar an,
 - 2. :: führt in den in dem Sperrbezirk gelegenen Betrieben
   - a) :: innerhalb von sieben Tagen nach Festlegung des Sperrbezirks eine klinische Untersuchung nach Anhang III Nummer 1 der Richtlinie 2003/85/EG und eine serologische Untersuchung nach Anhang III Nummer 2.1.1.1 der Richtlinie 2003/85/EG der Tiere empfänglicher Arten durch,
   - b) :: eine virologische Untersuchung der Tiere empfänglicher Arten entsprechend Anhang I Nummer 4 und 5 Buchstabe b der Richtlinie 2003/85/EG durch, sofern es aus Gründen der Seuchenbekämpfung erforderlich ist,
@@ -459,7 +459,7 @@ Die Genehmigung nach Satz 1 Nummer 2 darf nur erteilt werden, wenn die Besamungs
 (1) Ist die Maul- und Klauenseuche in einem Betrieb amtlich festgestellt, so legt die zuständige Behörde um den den Seuchenbetrieb umgebenden Sperrbezirk ein Beobachtungsgebiet fest. Hierbei berücksichtigt sie die mögliche Weiterverbreitung des Virus der Maul- und Klauenseuche, Strukturen des Handels und der örtlichen Haltung von Tieren empfänglicher Arten, das Vorhandensein von Schlachtstätten und Verarbeitungsbetrieben für Material der Kategorie 1 oder 2 nach Artikel 24 Absatz 1 Buchstabe a der Verordnung (EG) Nr. 1069/2009, natürlichen Grenzen, Überwachungsmöglichkeiten sowie die Ergebnisse der durchgeführten epidemiologischen Untersuchungen. Der Radius von Sperrbezirk und Beobachtungsgebiet zusammen beträgt mindestens zehn Kilometer.
 (2) Die zuständige Behörde
 
-- 1. :: bringt an den Hauptzufahrtswegen zu dem Beobachtungsgebiet Schilder mit der deutlichen und haltbaren Aufschrift �Maul- und Klauenseuche -- Beobachtungsgebiet“ gut sichtbar an,
+- 1. :: bringt an den Hauptzufahrtswegen zu dem Beobachtungsgebiet Schilder mit der deutlichen und haltbaren Aufschrift Maul- und Klauenseuche -- Beobachtungsgebiet“ gut sichtbar an,
 - 2. :: führt in den in dem Beobachtungsgebiet gelegenen Betrieben
   - a) :: innerhalb von sieben Tagen nach Festlegung des Beobachtungsgebiets eine klinische Untersuchung der Tiere empfänglicher Arten nach Anhang III Nummer 1 der Richtlinie 2003/85/EG durch,
   - b) :: eine serologische Untersuchung der erkrankten und verendeten Tiere empfänglicher Arten nach Anhang III Nummer 2.1.1.1 der Richtlinie 2003/85/EG und eine virologische Untersuchung der erkrankten und verendeten Tiere empfänglicher Arten entsprechend Anhang I Nummer 4 und 5 Buchstabe b der Richtlinie 2003/85/EG durch, sofern es aus Gründen der Seuchenbekämpfung erforderlich ist,
@@ -598,7 +598,7 @@ Zum Zwecke der Genehmigung durch die Europäische Kommission erstellt die zustä
 - 1. :: die Impfung so durchzuführen ist, dass eine Verbreitung des Virus der Maul- und Klauenseuche möglichst verhindert wird,
 - 2. :: der Tierhalter
   - a) :: für die Dauer der Anordnung bei der Impfung die erforderliche Hilfe zu leisten hat,
-  - b) :: Tiere, die gegen Maul- und Klauenseuche geimpft worden sind, unverzüglich und deutlich sichtbar durch Ohrmarken mit den Buchstaben �I.MKS“ als geimpft zu kennzeichnen hat, ausgenommen Rinder, bei denen auf Grund der Art ihrer Haltung eine Kennzeichnung nicht möglich ist, und
+  - b) :: Tiere, die gegen Maul- und Klauenseuche geimpft worden sind, unverzüglich und deutlich sichtbar durch Ohrmarken mit den Buchstaben I.MKS“ als geimpft zu kennzeichnen hat, ausgenommen Rinder, bei denen auf Grund der Art ihrer Haltung eine Kennzeichnung nicht möglich ist, und
   - c) :: die Impfung unverzüglich nach deren Durchführung der zuständigen Behörde unter Angabe
     - aa) :: der Registriernummer des Betriebes,
     - bb) :: des Datums der Impfung, des verwendeten Impfstoffes sowie der Chargennummer des Impfstoffes und
@@ -775,7 +775,7 @@ Die zuständige Behörde kann die Tötung von Tieren empfänglicher Arten im Spe
 
 (1) Im Falle des Verdachts auf Maul- und Klauenseuche bei Wildtieren empfänglicher Arten ordnet die zuständige Behörde die serologische und virologische Untersuchung der erlegten oder verendeten Wildtiere empfänglicher Arten an und führt epidemiologische Nachforschungen durch.
 (2) Ist der Ausbruch der Maul- und Klauenseuche bei einem Wildtier einer empfänglichen Art amtlich festgestellt, so legt die zuständige Behörde das Gebiet um die Abschuss- oder Fundstelle als gefährdeten Bezirk fest. Hierbei berücksichtigt sie die mögliche Weiterverbreitung des Virus der Maul- und Klauenseuche, die Wildtierpopulation, Tierbewegungen innerhalb der Wildtierpopulation, natürliche Grenzen sowie Überwachungsmöglichkeiten. Die Festlegung eines gefährdeten Bezirks und dessen Änderung oder Aufhebung werden von der zuständigen Behörde öffentlich bekannt gemacht und nachrichtlich im Bundesanzeiger veröffentlicht.
-(3) Die zuständige Behörde bringt an den Hauptzufahrtswegen zu dem gefährdeten Bezirk und an geeigneten Stellen Schilder mit der deutlichen und haltbaren Aufschrift �Maul- und Klauenseuche bei Wildtieren -- Gefährdeter Bezirk“ gut sichtbar an.
+(3) Die zuständige Behörde bringt an den Hauptzufahrtswegen zu dem gefährdeten Bezirk und an geeigneten Stellen Schilder mit der deutlichen und haltbaren Aufschrift Maul- und Klauenseuche bei Wildtieren -- Gefährdeter Bezirk“ gut sichtbar an.
 (4) Mit Bekanntgabe der Festlegung des gefährdeten Bezirks haben Tierhalter im gefährdeten Bezirk
 
 - 1. :: der zuständigen Behörde unverzüglich
@@ -1034,74 +1034,74 @@ Anlage 1 - (zu § 15 Absatz 2 Nummer 1)Bescheinigung für den Versand von Tieren
 \\
 II.
 Versand von Erzeugnissen [[#FnA1-f799374_02][1]]}
-�
-�
-�
-�
+
+
+
+
 1.
 Art und Gewicht des Erzeugnisses:
-�
-�
+
+
 □   Frisches Fleisch; Gewicht (in kg) ...
-�
-�
+
+
 □  Rohmilch; Gewicht (in kg) ...
-�
-�
+
+
 □  Rohmilcherzeugnis; Gewicht (in kg) ...
-�
-�
+
+
 □  sonstiges Erzeugnis; Art ...; Gewicht (in kg) ...
-�
-�
-�
-�
+
+
+
+
 2.
 Herkunft des Erzeugnisses:
-�
-�
+
+
 Name(n) und Anschrift(en) des (der) Herkunftsbetriebs(-e): . . . . . . . . . .
-�
+
 . . . . . . . . . .
-�
+
 Die Erzeugnisse werden versandt von . . . . . . . . . .
-�
-�
+
+
 (vollständige Angabe des Verladeorts)
-�
+
 Name und Anschrift des Versenders: . . . . . . . . . .
-�
-�
-�
+
+
+
 3.
 Bestimmung der Erzeugnisse:
-�
-�
+
+
 Name und Anschrift des Empfängers: . . . . . . . . . .
-�
+
 Die Tiere werden versandt nach . . . . . . . . . .
-�
+
 . . . . . . . . . .
 (Bestimmungsland und -ort)
-�
+
 mit folgendem Transportmittel: . . . . . . . . . .
-�
-�
-�
+
+
+
 4.
 Bescheinigung:
-�
-�
+
+
 Der unterzeichnende beamtete Tierarzt bescheinigt, dass die vorstehend genannten Tiere empfänglicher Arten oder die Erzeugnisse aus dem Sperrgebiet im Sinne des § 15 Absatz 2 Nummer 2 der MKS-Verordnung entsprechen.
-�
-�
-�
-�
-�
-�
-�
-�
-�
+
+
+
+
+
+
+
+
+
 
 Anlage 2 - (zu § 18 Absatz 2 Nummer 3)Bescheinigung für den Versand von Tieren empfänglicher Arten aus einem Impfgebiet im Sinne der MKS-Verordnung
 

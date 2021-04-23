@@ -13,7 +13,7 @@ Auf Grund des ¬ß 22 Abs. 1 Satz 1 des Bundesjagdgesetzes in der Fassung der Beka
 (1) Die Jagd darf ausge√ºbt werden auf\\
 1.
 Rotwild
-†
+
 K√§lber
 vom 1. August bis 28. Februar
 Schmalspie√üer
@@ -24,7 +24,7 @@ Hirsche und Alttiere
 vom 1. August bis 31. Januar
 2.
 Dam- und Sikawild
-†
+
 K√§lber
 vom 1. September bis 28. Februar
 Schmalspie√üer
@@ -35,7 +35,7 @@ Hirsche und Alttiere
 vom 1. September bis 31. Januar
 3.
 Rehwild
-†
+
 Kitze
 vom 1. September bis 28. Februar
 Schmalrehe
@@ -52,7 +52,7 @@ Muffelwild
 vom 1. August bis 31. Januar
 6.
 (weggefallen)
-†
+
 7.
 Feldhasen
 vom 1. Oktober bis 15. Januar

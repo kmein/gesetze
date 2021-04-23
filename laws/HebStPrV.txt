@@ -10,35 +10,35 @@ Auf Grund des § 71 Absatz 1 des Hebammengesetzes vom 22. November 2019 (BGBl. I
 
 Inhaltsübersicht
 
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 § 1 - Inhalt des Studiums
 
@@ -80,8 +80,8 @@ Im berufspraktischen Teil des Studiums wird die studierende Person durch Praxise
 
 (1) Jede studierende Person absolviert Praxiseinsätze in Krankenhäusern nach § 13 Absatz 1 Satz 1 Nummer 1 des Hebammengesetzes. In den Praxiseinsätzen, die in Stationen, Abteilungen oder sonstigen Einrichtungen der Krankenhäuser stattfinden, werden den studierenden Personen Kompetenzen im Kompetenzbereich I der Anlage 1 vermittelt. Es finden folgende Praxiseinsätze statt:
 
-- 1. :: zu den Kompetenzbereichen I.1 �Schwangerschaft“ und I.2 �Geburt“ und
-- 2. :: zum Kompetenzbereich I.3 �Wochenbett und Stillzeit“.
+- 1. :: zu den Kompetenzbereichen I.1 Schwangerschaft“ und I.2 Geburt“ und
+- 2. :: zum Kompetenzbereich I.3 Wochenbett und Stillzeit“.
 
 Die Vermittlung der Kompetenzbereiche II bis VI der Anlage 1 wird soweit möglich in die Praxiseinsätze einbezogen.
 
@@ -93,7 +93,7 @@ Die Vermittlung der Kompetenzbereiche II bis VI der Anlage 1 wird soweit möglic
 
 § 7 - Praxiseinsätze bei freiberuflichen Hebammen oder in ambulanten hebammengeleiteten Einrichtungen
 
-(1) In Praxiseinsätzen bei freiberuflichen Hebammen oder in ambulanten hebammengeleiteten Einrichtungen nach § 13 Absatz 1 Satz 1 Nummer 2 des Hebammengesetzes werden den studierenden Personen Kompetenzen im Kompetenzbereich I.1 �Schwangerschaft“, I.2 �Geburt“ und I.3 �Wochenbett und Stillzeit“ der Anlage 1 vermittelt.
+(1) In Praxiseinsätzen bei freiberuflichen Hebammen oder in ambulanten hebammengeleiteten Einrichtungen nach § 13 Absatz 1 Satz 1 Nummer 2 des Hebammengesetzes werden den studierenden Personen Kompetenzen im Kompetenzbereich I.1 Schwangerschaft“, I.2 Geburt“ und I.3 Wochenbett und Stillzeit“ der Anlage 1 vermittelt.
 (2) Die Vermittlung der Kompetenzbereiche II bis VI der Anlage 1 wird soweit möglich in die Praxiseinsätze bei freiberuflichen Hebammen oder in ambulanten hebammengeleiteten Einrichtungen einbezogen.
 (3) Praxiseinsätze nach Absatz 1 können im Umfang von bis zu 160 Stunden auch in weiteren Einrichtungen, die zur ambulanten berufspraktischen Ausbildung von Hebammen geeignet sind, stattfinden.
 
@@ -111,8 +111,8 @@ Bei der Erstellung des Praxisplans nach § 16 Absatz 1 des Hebammengesetzes beac
 (1) Zur Praxisanleitung befähigt ist eine Person, wenn sie
 
 - 1. :: über eine Erlaubnis zum Führen der Berufsbezeichnung
-  - a) :: �Hebamme“ nach § 5 Absatz 1 des Hebammengesetzes oder
-  - b) :: �Hebamme“ oder �Entbindungspfleger“ nach § 1 Absatz 1 des Hebammengesetzes in der bis zum 31. Dezember 2019 geltenden Fassung verfügt,
+  - a) :: Hebamme“ nach § 5 Absatz 1 des Hebammengesetzes oder
+  - b) :: Hebamme“ oder Entbindungspfleger“ nach § 1 Absatz 1 des Hebammengesetzes in der bis zum 31. Dezember 2019 geltenden Fassung verfügt,
 - 2. :: über Berufserfahrung als Hebamme in dem jeweiligen Einsatzbereich von mindestens zwei Jahren verfügt,
 - 3. :: eine berufspädagogische Zusatzqualifikation im Umfang von mindestens 300 Stunden absolviert hat und
 - 4. :: kontinuierliche berufspädagogische Fortbildungen im Umfang von mindestens 24 Stunden jährlich absolviert.
@@ -133,7 +133,7 @@ In dem Tätigkeitsnachweis nach § 33 Absatz 2 Nummer 3 des Hebammengesetzes dok
 
 § 13 - Gegenstand und Teile der staatlichen Prüfung
 
-(1) Gegenstand der staatlichen Prüfung zur Erlangung der Erlaubnis zum Führen der Berufsbezeichnung �Hebamme“ sind die in Anlage 1 genannten Kompetenzen.
+(1) Gegenstand der staatlichen Prüfung zur Erlangung der Erlaubnis zum Führen der Berufsbezeichnung Hebamme“ sind die in Anlage 1 genannten Kompetenzen.
 (2) Die staatliche Prüfung besteht aus
 
 - 1. :: einem schriftlichen Teil,
@@ -220,7 +220,7 @@ Die in der staatlichen Prüfung erbrachten Leistungen der studierenden Person we
 
 § 23 - Bestehen und Note des schriftlichen Teils der staatlichen Prüfung
 
-(1) Der schriftliche Teil der staatlichen Prüfung ist bestanden, wenn jede Klausur mindestens mit �ausreichend“ benotet worden ist.
+(1) Der schriftliche Teil der staatlichen Prüfung ist bestanden, wenn jede Klausur mindestens mit ausreichend“ benotet worden ist.
 (2) Für jede studierende Person, die den schriftlichen Teil bestanden hat, ermitteln die Vorsitzenden des Prüfungsausschusses die Note des schriftlichen Teils der staatlichen Prüfung.
 (3) In die Note des schriftlichen Teils der staatlichen Prüfung gehen die Noten der Klausuren in gleicher Gewichtung ein. Abweichend von Satz 1 ist eine Gewichtung nach dem Arbeitsaufwand vorzunehmen, wenn
 
@@ -252,16 +252,16 @@ Im mündlichen Teil der staatlichen Prüfung werden Bezüge zum Kompetenzbereich
 
 § 27 - Bestehen des mündlichen Teils der staatlichen Prüfung
 
-Der mündliche Teil der staatlichen Prüfung ist bestanden, wenn die Prüfungsleistung mindestens mit �ausreichend“ benotet worden ist.
+Der mündliche Teil der staatlichen Prüfung ist bestanden, wenn die Prüfungsleistung mindestens mit ausreichend“ benotet worden ist.
 
 § 28 - Gegenstand des praktischen Teils der staatlichen Prüfung
 
 (1) Gegenstand des praktischen Teils der staatlichen Prüfung sind Kompetenzen in allen Kompetenzbereichen der Anlage 1.
 (2) Der praktische Teil der staatlichen Prüfung besteht aus drei Prüfungsteilen. Gegenstand des praktischen Teils der staatlichen Prüfung sind:
 
-- 1. :: im ersten Prüfungsteil Schwerpunkte aus dem Kompetenzbereich I.1 �Schwangerschaft“ der Anlage 1,
-- 2. :: im zweiten Prüfungsteil Schwerpunkte aus dem Kompetenzbereich I.2 �Geburt“ der Anlage 1,
-- 3. :: im dritten Prüfungsteil Schwerpunkte aus dem Kompetenzbereich I.3 �Wochenbett und Stillzeit“ der Anlage 1.
+- 1. :: im ersten Prüfungsteil Schwerpunkte aus dem Kompetenzbereich I.1 Schwangerschaft“ der Anlage 1,
+- 2. :: im zweiten Prüfungsteil Schwerpunkte aus dem Kompetenzbereich I.2 Geburt“ der Anlage 1,
+- 3. :: im dritten Prüfungsteil Schwerpunkte aus dem Kompetenzbereich I.3 Wochenbett und Stillzeit“ der Anlage 1.
 
 (3) Die Prüfungsaufgaben werden auf Vorschlag mindestens einer Prüferin oder eines Prüfers nach § 15 Absatz 1 Nummer 3 und einer Prüferin oder eines Prüfers nach § 15 Absatz 1 Nummer 5 durch die Vorsitzenden des Prüfungsausschusses bestimmt.
 
@@ -308,7 +308,7 @@ Der mündliche Teil der staatlichen Prüfung ist bestanden, wenn die Prüfungsle
 
 § 33 - Bestehen und Note des praktischen Teils der staatlichen Prüfung
 
-(1) Der praktische Teil der staatlichen Prüfung ist bestanden, wenn jeder der drei Prüfungsteile mit mindestens �ausreichend“ benotet worden ist.
+(1) Der praktische Teil der staatlichen Prüfung ist bestanden, wenn jeder der drei Prüfungsteile mit mindestens ausreichend“ benotet worden ist.
 (2) Für jede studierende Person, die den praktischen Teil bestanden hat, ermitteln die Vorsitzenden des Prüfungsausschusses die Note des praktischen Teils der staatlichen Prüfung.
 (3) In die Note des praktischen Teils der staatlichen Prüfung geht ein:
 
@@ -417,9 +417,9 @@ Versäumt eine studierende Person einen Bestandteil der staatlichen Prüfung nac
 (2) Die Eignungsprüfung ist eine praktische Prüfung, die mit einem Prüfungsgespräch verbunden ist. Die zu prüfende Person hat in drei Betreuungssituationen nachzuweisen, dass sie die vorbehaltenen Tätigkeiten wahrnehmen kann und insbesondere über die Kompetenz verfügt, physiologische Prozesse während Schwangerschaft, Geburt, Wochenbett und Stillzeit selbstständig und evidenzbasiert zu fördern und zu leiten. Im Rahmen der Betreuung hat die zu prüfende Person eine situationsangemessene Kommunikation mit den zu betreuenden Frauen, ihren Bezugspersonen und den beruflich in die Betreuung eingebundenen Personen zu zeigen.
 (3) Die Betreuungssituationen sind jeweils einem der folgenden Schwerpunkte aus dem Kompetenzbereich I der Anlage 1 zuzuordnen:
 
-- 1. :: dem Kompetenzbereich I.1 �Schwangerschaft“,
-- 2. :: dem Kompetenzbereich I.2 �Geburt“ und
-- 3. :: dem Kompetenzbereich I.3 �Wochenbett und Stillzeit“.
+- 1. :: dem Kompetenzbereich I.1 Schwangerschaft“,
+- 2. :: dem Kompetenzbereich I.2 Geburt“ und
+- 3. :: dem Kompetenzbereich I.3 Wochenbett und Stillzeit“.
 
 (4) Die Prüfungsteile zu den Betreuungssituationen nach Absatz 3 Nummer 1 und 3 werden grundsätzlich im Krankenhaus oder an der Hochschule durchgeführt; sofern hebammengeleitete Einrichtungen oder ambulante Hebammenpraxen gemäß § 16 Absatz 2 des Hebammengesetzes eine Vereinbarung mit einer verantwortlichen Praxiseinrichtung geschlossen haben, können diese Prüfungen auch dort durchgeführt werden. Sie sollen mit geeigneten Schwangeren, Wöchnerinnen und Neugeborenen erfolgen. Abweichend von Satz 2 kann der erste oder der dritte Prüfungsteil des praktischen Teils der Eignungsprüfung mit Modellen und Simulationspersonen durchgeführt werden.
 (5) Der Prüfungsteil zur Betreuungssituation nach Absatz 3 Nummer 2 wird mit Modellen und Simulationspersonen an der Hochschule durchgeführt.
@@ -429,7 +429,7 @@ Versäumt eine studierende Person einen Bestandteil der staatlichen Prüfung nac
 
 (1) Die Eignungsprüfung wird als staatliche Prüfung durchgeführt. Die Länder können zur Durchführung der Eignungsprüfung die Prüfungsausschüsse und die Prüfungstermine der staatlichen Prüfung nach Teil 2 nutzen. Sie haben sicherzustellen, dass antragstellende Personen die Eignungsprüfung innerhalb von sechs Monaten nach der Entscheidung nach § 44 ablegen können.
 (2) Die Eignungsprüfung soll für jede Betreuungssituation nicht länger als 120 Minuten dauern. Sie wird von einer Prüferin oder einem Prüfer nach § 15 Absatz 1 Nummer 3 oder nach § 15 Absatz 1 Nummer 4 und einer Prüferin oder einem Prüfer nach § 15 Absatz 1 Nummer 5 abgenommen und bewertet. Während der Prüfung sind den Prüferinnen und Prüfern Nachfragen gestattet, die sich auf das praktische Vorgehen beziehen.
-(3) Die Eignungsprüfung ist erfolgreich abgeschlossen, wenn die Prüferinnen und Prüfer jede Betreuungssituation übereinstimmend mit �bestanden“ bewerten. Das Bestehen setzt mindestens voraus, dass die Leistung der zu prüfenden Person trotz ihrer Mängel noch den Anforderungen genügt. Kommen die Prüferinnen und Prüfer zu einer unterschiedlichen Bewertung, entscheiden die Vorsitzenden des Prüfungsausschusses im Benehmen mit den Prüferinnen und Prüfern über das Bestehen. Ist eine Betreuungssituation nicht bestanden worden, so darf sie einmal wiederholt werden.
+(3) Die Eignungsprüfung ist erfolgreich abgeschlossen, wenn die Prüferinnen und Prüfer jede Betreuungssituation übereinstimmend mit bestanden“ bewerten. Das Bestehen setzt mindestens voraus, dass die Leistung der zu prüfenden Person trotz ihrer Mängel noch den Anforderungen genügt. Kommen die Prüferinnen und Prüfer zu einer unterschiedlichen Bewertung, entscheiden die Vorsitzenden des Prüfungsausschusses im Benehmen mit den Prüferinnen und Prüfern über das Bestehen. Ist eine Betreuungssituation nicht bestanden worden, so darf sie einmal wiederholt werden.
 (4) Über die bestandene Eignungsprüfung wird eine Bescheinigung nach dem Muster der Anlage 7 erteilt.
 (5) Soweit in diesem Abschnitt nichts anderes bestimmt ist, gelten die §§ 37 bis 41 für die Durchführung der Eignungsprüfung entsprechend.
 
@@ -455,22 +455,22 @@ durchgeführt.
 
 (1) Im mündlichen Teil der Kenntnisprüfung ist eine Aufgabenstellung zu bearbeiten, die Anforderungen aus dem Kompetenzbereich I der Anlage 1 und mindestens zwei weiteren Kompetenzbereichen enthält. Die Prüfungsaufgabe besteht in der Bearbeitung einer Fallsituation aus einem anderen Betreuungskontext als dem des praktischen Teils der Prüfung.
 (2) Der mündliche Teil der Prüfung soll mindestens 45 Minuten und nicht länger als 60 Minuten dauern. Er wird von einer Prüferin oder einem Prüfer nach § 15 Absatz 1 Nummer 3 oder nach § 15 Absatz 1 Nummer 4 und einer Prüferin oder einem Prüfer nach § 15 Absatz 1 Nummer 5 abgenommen und bewertet.
-(3) Der mündliche Teil der Kenntnisprüfung ist erfolgreich abgeschlossen, wenn die Prüferinnen und Prüfer in einer Gesamtbetrachtung die erbrachte Leistung übereinstimmend mit �bestanden“ bewerten. Das Bestehen setzt mindestens voraus, dass die Leistung der zu prüfenden Person trotz ihrer Mängel noch den Anforderungen genügt. Kommen die Prüferinnen oder Prüfer zu einer unterschiedlichen Bewertung, entscheiden die Vorsitzenden des Prüfungsausschusses im Benehmen mit den Prüferinnen oder Prüfern über das Bestehen.
+(3) Der mündliche Teil der Kenntnisprüfung ist erfolgreich abgeschlossen, wenn die Prüferinnen und Prüfer in einer Gesamtbetrachtung die erbrachte Leistung übereinstimmend mit bestanden“ bewerten. Das Bestehen setzt mindestens voraus, dass die Leistung der zu prüfenden Person trotz ihrer Mängel noch den Anforderungen genügt. Kommen die Prüferinnen oder Prüfer zu einer unterschiedlichen Bewertung, entscheiden die Vorsitzenden des Prüfungsausschusses im Benehmen mit den Prüferinnen oder Prüfern über das Bestehen.
 
 § 50 - Praktischer Teil der Kenntnisprüfung
 
 (1) Im praktischen Teil der Kenntnisprüfung hat die zu prüfende Person in drei Betreuungssituationen nachzuweisen, dass sie die vorbehaltenen Tätigkeiten wahrnehmen kann und insbesondere über die Kompetenz verfügt, physiologische Prozesse während Schwangerschaft, Geburt, Wochenbett und Stillzeit selbstständig und evidenzbasiert zu fördern und zu leiten. Im Rahmen der Betreuung hat die zu prüfende Person eine situationsangemessene Kommunikation mit den zu betreuenden Frauen, ihren Bezugspersonen und den beruflich in die Betreuung eingebundenen Personen zu zeigen.
 (2) Die Betreuungssituationen sind jeweils einem der folgenden Schwerpunkte aus dem Kompetenzbereich I der Anlage 1 zuzuordnen:
 
-- 1. :: dem Kompetenzbereich I.1 �Schwangerschaft“,
-- 2. :: dem Kompetenzbereich I.2 �Geburt“ und
-- 3. :: dem Kompetenzbereich I.3 �Wochenbett und Stillzeit“.
+- 1. :: dem Kompetenzbereich I.1 Schwangerschaft“,
+- 2. :: dem Kompetenzbereich I.2 Geburt“ und
+- 3. :: dem Kompetenzbereich I.3 Wochenbett und Stillzeit“.
 
 (3) Die Prüfungsteile zu den Betreuungssituationen nach Absatz 2 Nummer 1 und 3 werden grundsätzlich im Krankenhaus oder an der Hochschule durchgeführt; sofern hebammengeleitete Einrichtungen oder ambulante Hebammenpraxen gemäß § 16 Absatz 2 des Hebammengesetzes eine Vereinbarung mit einer verantwortlichen Praxiseinrichtung geschlossen haben, können diese Prüfungen auch dort durchgeführt werden. Sie sollen mit geeigneten Schwangeren, Wöchnerinnen und Neugeborenen erfolgen. Abweichend von Satz 2 kann der erste oder der dritte Prüfungsteil des praktischen Teils der Kenntnisprüfung mit Modellen und Simulationspersonen durchgeführt werden.
 (4) Der Prüfungsteil zur Betreuungssituation nach Absatz 2 Nummer 2 wird mit Modellen und Simulationspersonen an der Hochschule durchgeführt.
 (5) Die Hochschulen legen im Benehmen mit den zuständigen Behörden die Prüfungsorte für die einzelnen Prüfungsteile fest.
 (6) Der praktische Teil der Prüfung soll für jede Betreuungssituation nicht länger als 120 Minuten dauern. Die Prüfung wird von einer Prüferin oder einem Prüfer nach § 15 Absatz 1 Nummer 3 oder nach § 15 Absatz 1 Nummer 4 und einer Prüferin oder einem Prüfer nach § 15 Absatz 1 Nummer 5 abgenommen und bewertet. Während der Prüfung sind den Prüferinnen und Prüfern Nachfragen gestattet, die sich auf das praktische Vorgehen beziehen.
-(7) Der praktische Teil der Prüfung ist erfolgreich abgeschlossen, wenn die Prüferinnen und Prüfer jede Betreuungssituation übereinstimmend mit �bestanden“ bewerten. Das Bestehen setzt mindestens voraus, dass die Leistung der zu prüfenden Person trotz ihrer Mängel noch den Anforderungen genügt. Kommen die Prüferinnen und Prüfer zu einer unterschiedlichen Bewertung, entscheiden die Vorsitzenden des Prüfungsausschusses im Benehmen mit den Prüferinnen und Prüfern über das Bestehen.
+(7) Der praktische Teil der Prüfung ist erfolgreich abgeschlossen, wenn die Prüferinnen und Prüfer jede Betreuungssituation übereinstimmend mit bestanden“ bewerten. Das Bestehen setzt mindestens voraus, dass die Leistung der zu prüfenden Person trotz ihrer Mängel noch den Anforderungen genügt. Kommen die Prüferinnen und Prüfer zu einer unterschiedlichen Bewertung, entscheiden die Vorsitzenden des Prüfungsausschusses im Benehmen mit den Prüferinnen und Prüfern über das Bestehen.
 
 § 51 - Durchführung und Abschluss der Kenntnisprüfung
 
@@ -612,7 +612,7 @@ Anlage 1 - (zu § 1, § 3 Absatz 1, § 6 Absatz 1, § 7 Absatz 1 und 2,§ 13 Abs
 Anlage 2 - (zu § 8 Absatz 1)Stundenverteilung der Praxiseinsätze des Hebammenstudiums
 
 (Fundstelle: BGBl. I 2020, 54)
-�
+
 _________
 
 Anlage 3 - (zu § 8 Absatz 2, den §§ 12 und 18 Absatz 2)Inhalt der Praxiseinsätze
@@ -632,74 +632,74 @@ Während der Praxiseinsätze sind insbesondere folgende Tätigkeiten auszuüben:
 - 10. :: Einführung in die Pflege pathologischer Fälle in der Medizin und Chirurgie.
 
 
-Anlage 4 - (zu § 42 Absatz 1)Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung �Hebamme“
+Anlage 4 - (zu § 42 Absatz 1)Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung Hebamme“
 
 (Fundstelle: BGBl. I 2020, 56)
-�
-�
-�
-�
 
-Anlage 5 - (zu § 42 Absatz 2)Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung �Hebamme“
+
+
+
+
+Anlage 5 - (zu § 42 Absatz 2)Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung Hebamme“
 
 (Fundstelle: BGBl. I 2020, 57)
-�
-�
-�
-�
-�
-�
 
-Anlage 6 - (zu § 42 Absatz 3)Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung �Hebamme“
+
+
+
+
+
+
+Anlage 6 - (zu § 42 Absatz 3)Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung Hebamme“
 
 (Fundstelle: BGBl. I 2020, 58)
-�
-�
-�
-�
-�
-�
+
+
+
+
+
+
 Satz 2 Kursivdruck: Wegen offensichtlicher Unrichtigkeit wurde der doppelt verwendete Artikel "der" gestrichen.
 
-Anlage 7 - (zu § 46 Absatz 4)Bescheinigung über die staatliche Eignungsprüfung zur �Hebamme“
+Anlage 7 - (zu § 46 Absatz 4)Bescheinigung über die staatliche Eignungsprüfung zur Hebamme“
 
 (Fundstelle: BGBl. I 2020, 59)
-�
-�
-�
-�
-�
-�
+
+
+
+
+
+
 ________
 
 Anlage 8 - (zu § 47 Absatz 3)Bescheinigung über die Teilnahme am Anpassungslehrgang
 
 (Fundstelle: BGBl. I 2020, 60)
-�
-�
-�
-�
-�
-�
 
-Anlage 9 - (zu § 51 Absatz 4)Bescheinigung über die staatliche Kenntnisprüfung zur �Hebamme“
+
+
+
+
+
+
+Anlage 9 - (zu § 51 Absatz 4)Bescheinigung über die staatliche Kenntnisprüfung zur Hebamme“
 
 (Fundstelle: BGBl. I 2020, 61)
-�
-�
-�
-�
-�
-�
+
+
+
+
+
+
 ________
 
 Anlage 10 - (zu § 53 Absatz 4)Bescheinigung über die Teilnahme am Anpassungslehrgang
 
 (Fundstelle: BGBl. I 2020, 62)
-�
-�
-�
-�
-�
-�
+
+
+
+
+
+
 ________

@@ -168,13 +168,13 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 (2) Die Gesellenprüfung ist bestanden, wenn die Leistungen wie folgt bewertet worden sind:
 
-- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens �ausreichend“,
-- 2. :: im Prüfungsbereich Planung und Fertigung mit mindestens �ausreichend“,
-- 3. :: im Ergebnis von Teil 2 der Gesellenprüfung mit mindestens �ausreichend“,
-- 4. :: in mindestens zwei der übrigen Prüfungsbereiche von Teil 2 mit mindestens �ausreichend“ und
-- 5. :: in keinem Prüfungsbereich von Teil 2 mit �ungenügend“.
+- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens ausreichend“,
+- 2. :: im Prüfungsbereich Planung und Fertigung mit mindestens ausreichend“,
+- 3. :: im Ergebnis von Teil 2 der Gesellenprüfung mit mindestens ausreichend“,
+- 4. :: in mindestens zwei der übrigen Prüfungsbereiche von Teil 2 mit mindestens ausreichend“ und
+- 5. :: in keinem Prüfungsbereich von Teil 2 mit ungenügend“.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Gesellenprüfung mit schlechter als �ausreichend“ bewerteten Prüfungsbereiche, Planung und Fertigung, Konzeption und Gestaltung oder Wirtschafts- und Sozialkunde durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Gesellenprüfung mit schlechter als ausreichend“ bewerteten Prüfungsbereiche, Planung und Fertigung, Konzeption und Gestaltung oder Wirtschafts- und Sozialkunde durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 § 10 - Inkrafttreten, Außerkrafttreten
 
@@ -224,7 +224,7 @@ Applizieren mit und auf unterschiedlichen Werkstoffen\\
 
 9
 
-�
+
 
 2
 
@@ -236,7 +236,7 @@ Herstellen von Beschriftungen und bildlichen Darstellungen\\
 
 8
 
-�
+
 
 3
 
@@ -253,7 +253,7 @@ Be- und Verarbeiten von Werk- und Hilfsstoffen\\
 
 11
 
-�
+
 
 4
 
@@ -267,7 +267,7 @@ Bedienen von Arbeitsmitteln und -geräten\\
 
 3
 
-�
+
 
 5
 
@@ -279,7 +279,7 @@ Anwenden von Drucktechniken\\
 - c) :: Software der Druckvorstufe anwenden
 - d) :: Farben andrucken und Farbwerte prüfen
 
-�
+
 
 5
 
@@ -297,7 +297,7 @@ Installieren von Werbeelektrik und Werbeelektronik\\
 
 9
 
-�
+
 
 7
 
@@ -308,7 +308,7 @@ Herstellen von Kommunikations- und Werbeanlagen, Leitsystemen, Messe- und Ausste
 
 6
 
-�
+
 
 - b) :: Bauteile und Baugruppen zu dreidimensionalen be- und unbeleuchteten Anlagen unter Berücksichtigung von Profilkennzahlen und Bauformen zusammenbauen
 - c) :: Trag- und Rahmenkonstruktionen unter Umsetzung von statischen Berechnungen und Plänen erstellen
@@ -316,7 +316,7 @@ Herstellen von Kommunikations- und Werbeanlagen, Leitsystemen, Messe- und Ausste
 - e) :: Messe- und Ausstellungsstände herstellen
 - f) :: mobile Werbeträger herstellen
 
-�
+
 
 19
 
@@ -330,13 +330,13 @@ Befestigen und Verbinden von Kommunikations- und Werbeanlagen\\
 
 4
 
-�
+
 
 - c) :: Befestigungspunkte festlegen, Befestigungs- und Verbindungsmittel auswählen
 - d) :: mobile Anlagen unter Berücksichtigung örtlicher Gegebenheiten und rechtlicher Vorgaben positionieren und sichern
 - e) :: dreidimensionale Anlagen, insbesondere durch Kleben, Schrauben, Nieten sowie Dübeln, befestigen und verbinden
 
-�
+
 
 7
 
@@ -351,7 +351,7 @@ Warten, Demontieren und Reparieren von Kommunikations- und Werbeanlagen\\
 
 9
 
-�
+
 
 10
 
@@ -361,13 +361,13 @@ Entwerfen, Gestalten und Präsentieren von Kommunikations- und Werbekonzepten\\
 - a) :: Schriften, Zeichen und bildliche Darstellungen, insbesondere durch Scribbles, Skizzen und Zeichnungen, manuell und rechnergestützt darstellen
 - b) :: Vektorisierungen durchführen
 
-�
 
-�
 
-�
 
-�
+
+
+
+
 
 - c) :: Bildbearbeitungs-, Mal- und Vektorgrafikprogramme anwenden
 - d) :: Kreativtechniken einsetzen
@@ -375,11 +375,11 @@ Entwerfen, Gestalten und Präsentieren von Kommunikations- und Werbekonzepten\\
 
 7
 
-�
+
 
 - f) :: Urheber-, Nutzungs- und Persönlichkeitsrechte sowie Regelungen zum Datenschutz sowie Medien- und Lizenzrecht beachten
 
-�
+
 
 2
 
@@ -392,7 +392,7 @@ Beraten von Kunden\\
 - b) :: Kunden gestalterisch und technisch beraten, Gestaltungskonzepte präsentieren und mit Kunden abstimmen
 - c) :: Genehmigungs- und Prüfverfahren mit Kunden abstimmen und mit zuständigen Stellen abwickeln
 
-�
+
 
 5
 
@@ -406,7 +406,7 @@ Einrichten und Räumen von Arbeitsstätten\\
 
 2
 
-�
+
 
 Abschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in den Schwerpunkten
 1. Schwerpunkt Technik, Montage, Werbeelektrik/-elektronik
@@ -449,7 +449,7 @@ Installieren von Werbeelektrik und Werbeelektronik\\
 - f) :: leitende Verbindungen in Kommunikations- und Werbeanlagen im Hoch- und Niederspannungsbereich herstellen, Normen und Vorschriften beachten
 - g) :: Kommunikations- und Werbeanlagen an einen vorgegebenen elektrischen Einspeisepunkt anschließen, Normen und Vorschriften beachten
 
-�
+
 
 14
 
@@ -462,20 +462,20 @@ Befestigen und Verbinden von Kommunikations- und Werbeanlagen\\
 - b) :: Anlagen aufstellen
 - c) :: Anlagen an Tragkonstruktionen befestigen
 
-�
+
 
 8
 
-�
 
-�
+
+
 
 - d) :: Schutzeinrichtungen, Verkleidungen und Isolierungen anbringen
 - e) :: Anlagen in Betrieb nehmen
 
-�
 
-�
+
+
 
 3
 
@@ -488,7 +488,7 @@ Warten, Demontieren und Reparieren von Kommunikations- und Werbeanlagen\\
 - d) :: Anlagenteile zur Aufrechterhaltung der Betriebsfähigkeit nach Serviceunterlagen und Anweisungen warten
 - e) :: Reparaturlisten erstellen
 
-�
+
 
 9
 
@@ -501,7 +501,7 @@ Einrichten und Räumen von Arbeitsstätten\\
 - b) :: Hebezeuge, Anschlag- und Transportmittel auswählen, Transportwege festlegen
 - c) :: Bauteile, Baugruppen und Anlagen zum Transport vorbereiten, sichern und transportieren
 
-�
+
 
 4
 
@@ -543,7 +543,7 @@ Applizieren mit und auf unterschiedlichen Werkstoffen\\
 - d) :: Textilveredlungsverfahren unterscheiden und anwenden
 - e) :: Transfers herstellen und übertragen
 
-�
+
 
 10
 
@@ -555,7 +555,7 @@ Herstellen von Beschriftungen und bildlichen Darstellungen\\
 - a) :: Beschriftungen und bildliche Darstellungen, insbesondere durch Schreiben mit Pinsel und Feder, manuell herstellen
 - b) :: Blattmetallverarbeitungstechniken im Matt- und Glanzverfahren anwenden
 
-�
+
 
 9
 
@@ -567,7 +567,7 @@ Anwenden von Drucktechniken\\
 - a) :: Farbräume bestimmen und Farbmanagementsysteme anwenden
 - b) :: Druckprodukte konfektionieren, schützen und veredeln
 
-�
+
 
 6
 
@@ -582,7 +582,7 @@ Entwerfen, Gestalten und Präsentieren von Kommunikations- und Werbekonzepten\\
 - d) :: Schriften klassifizieren und gestalterisch einsetzen
 - e) :: Stilepochen und -elemente berücksichtigen
 
-�
+
 
 10
 
@@ -675,16 +675,16 @@ Planen und Vorbereiten von Arbeitsabläufen, Arbeiten im Team\\
 
 3
 
-�
 
-�
 
-�
+
+
+
 
 - e) :: Zeitbedarf ermitteln, Kosten abschätzen
 - f) :: Arbeitsschritte selbstständig und im Team nach wirtschaftlichen und terminlichen Vorgaben planen und dokumentieren
 
-�
+
 
 3
 
@@ -700,11 +700,11 @@ Betriebliche und technische Kommunikation\\
 
 3
 
-�
+
 
 - e) :: Kommunikation mit vorausgehenden und nachfolgenden Funktionsbereichen sicherstellen
 
-�
+
 
 2
 
@@ -719,7 +719,7 @@ Manuelles und rechnergestütztes Erstellen technischer Unterlagen\\
 
 2
 
-�
+
 
 8
 
@@ -732,4 +732,4 @@ Durchführen von qualitätssichernden Maßnahmen\\
 
 2
 
-�
+

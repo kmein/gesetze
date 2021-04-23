@@ -443,13 +443,13 @@ Obere Auslöseschwelle
 
 7,07 · 10⁵ / f
 
-8,62 · 10�
+8,62 · 10
 
 3 kHz ≤f≤ 10 MHz
 
-2,36 · 10�
+2,36 · 10
 
-8,62 · 10�
+8,62 · 10
 
 - Anmerkung 1: :: f ist die Frequenz in Hertz (Hz).
 - Anmerkung 2: :: Die Auslöseschwellen für die Exposition gegenüber elektrischen Feldern stellen die gemessenen oder berechneten räumlichen Maximalwerte am Arbeitsplatz von Beschäftigten dar.

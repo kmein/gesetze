@@ -103,183 +103,183 @@ Bilanz
 Aktivseite
 A.
 Anlageverm√∂gen
-†
+
 I.
 Immaterielle Verm√∂gensgegenst√§nde
-†
-†
+
+
 1.
 Selbst geschaffene gewerbliche Schutzrechte und √§hnliche Rechte und Werte
-†
-†
+
+
 2.
 entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und √§hnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten
-†
-†
+
+
 3.
 Gesch√§fts- oder Firmenwert
-†
-†
+
+
 4.
 geleistete Anzahlungen
-†
+
 II.
 Sachanlagen
-†
-†
+
+
 1.
 Grundst√ºcke und grundst√ºcksgleiche Rechte mit Wohnbauten
-†
-†
+
+
 2.
 Grundst√ºcke und grundst√ºcksgleiche Rechte mit Gesch√§fts- und anderen Bauten
-†
-†
+
+
 3.
 Grundst√ºcke und grundst√ºcksgleiche Rechte ohne Bauten
-†
-†
+
+
 4.
 Grundst√ºcke mit Erbbaurechten Dritter
-†
-†
+
+
 5.
 Bauten auf fremden Grundst√ºcken
-†
-†
+
+
 6.
 technische Anlagen und Maschinen
-†
-†
+
+
 7.
 andere Anlagen Betriebs- und Gesch√§ftsausstattung
-†
-†
+
+
 8.
 Anlagen im Bau
-†
-†
+
+
 9.
 Bauvorbereitungskosten
-†
-†
+
+
 10.
 geleistete Anzahlungen
-†
+
 III.
 Finanzanlagen
-†
-†
+
+
 1.
 Anteile an verbundenen Unternehmen
-†
-†
+
+
 2.
 Ausleihungen an verbundene Unternehmen
-†
-†
+
+
 3.
 Beteiligungen
-†
-†
+
+
 4.
 Ausleihungen an Unternehmen, mit denen ein Beteiligungsverh√§ltnis besteht
-†
-†
+
+
 5.
 Wertpapiere des Anlageverm√∂gens
-†
-†
+
+
 6.
 sonstige Ausleihungen
 B.
 Umlaufverm√∂gen
-†
+
 I.
 Zum Verkauf bestimmte Grundst√ºcke und andere Vorr√§te
-†
-†
+
+
 1.
 Grundst√ºcke und grundst√ºcksgleiche Rechte ohne Bauten
-†
-†
+
+
 2.
 Bauvorbereitungskosten
-†
-†
+
+
 3.
 Grundst√ºcke und grundst√ºcksgleiche Rechte mit unfertigen Bauten
-†
-†
+
+
 4.
 Grundst√ºcke und grundst√ºcksgleiche Rechte mit fertigen Bauten
-†
-†
+
+
 5.
 unfertige Leistungen
-†
-†
+
+
 6.
 andere Vorr√§te
-†
-†
+
+
 7.
 geleistete Anzahlungen
-†
+
 II.
 Forderungen und sonstige Verm√∂gensgegenst√§nde
-†
-†
+
+
 1.
 Forderungen aus Vermietung
-†
-†
+
+
 2.
 Forderungen aus Grundst√ºcksverk√§ufen
-†
-†
+
+
 3.
 Forderungen aus Betreuungst√§tigkeit
-†
-†
+
+
 4.
 Forderungen aus anderen Lieferungen und Leistungen
-†
-†
+
+
 5.
 Forderungen gegen verbundene Unternehmen
-†
-†
+
+
 6.
 Forderungen gegen Unternehmen, mit denen ein Beteiligungsverh√§ltnis besteht
-†
-†
+
+
 7.
 sonstige Verm√∂gensgegenst√§nde
-†
+
 III.
 Wertpapiere
-†
-†
+
+
 1.
 Anteile an verbundenen Unternehmen
-†
-†
+
+
 2.
 eigene Anteile
-†
-†
+
+
 3.
 sonstige Wertpapiere
-†
+
 IV.
 Fl√ºssige Mittel und Bausparguthaben
-†
-†
+
+
 1.
 Schecks, Kassenbestand, Bundesbank- und Postgiroguthaben, Guthaben bei Kreditinstituten
-†
-†
+
+
 2.
 Bausparguthaben
 C.
@@ -291,95 +291,95 @@ Aktiver Unterschiedsbetrag aus der Verm√∂gensverrechnung
 Passivseite
 A.
 Eigenkapital
-†
+
 I.
 Gezeichnetes Kapital
-†
+
 II.
 Kapitalr√ºcklage
-†
+
 III.
 Gewinnr√ºcklagen
-†
-†
+
+
 1.
 gesetzliche R√ºcklage
-†
-†
+
+
 2.
 R√ºcklage f√ºr Anteile an einem herrschenden oder mehrheitlich beteiligten Unternehmen
-†
-†
+
+
 3.
 satzungsm√§√üige R√ºcklage
-†
-†
+
+
 4.
 Bauerneuerungsr√ºcklage
-†
-†
+
+
 5.
 andere Gewinnr√ºcklagen
-†
+
 IV.
 Gewinnvortrag/Verlustvortrag
-†
+
 V.
 Jahres√ºberschu√ü/Jahresfehlbetrag
 B.
 R√ºckstellungen
-†
-†
+
+
 1.
 R√ºckstellungen f√ºr Pensionen und √§hnliche Verpflichtungen
-†
-†
+
+
 2.
 Steuerr√ºckstellungen
-†
-†
+
+
 3.
 R√ºckstellung f√ºr Bauinstandhaltung
-†
-†
+
+
 4.
 sonstige R√ºckstellungen
 C.
 Verbindlichkeiten
-†
-†
+
+
 1.
 Anleihen davon konvertibel
-†
-†
+
+
 2.
 Verbindlichkeiten gegen√ºber Kreditinstituten
-†
-†
+
+
 3.
 Verbindlichkeiten gegen√ºber anderen Kreditgebern
-†
-†
+
+
 4.
 erhaltene Anzahlungen
-†
-†
+
+
 5.
 Verbindlichkeiten aus Lieferungen und Leistungen
-†
-†
+
+
 6.
 Verbindlichkeiten aus der Annahme gezogener Wechsel und der Ausstellung eigener Wechsel
-†
-†
+
+
 7.
 Verbindlichkeiten gegen√ºber verbundenen Unternehmen
-†
-†
+
+
 8.
 Verbindlichkeiten gegen√ºber Unternehmen, mit denen ein Beteiligungsverh√§ltnis besteht
-†
-†
+
+
 9.
 sonstige Verbindlichkeiten davon aus Steuern davon im Rahmen der sozialen Sicherheit
 D.

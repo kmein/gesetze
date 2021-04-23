@@ -71,38 +71,38 @@ Der Beitragssatz f√ºr das Jahr 2001 betr√§gt in der Rentenversicherung der Arbei
 (1) Die auf Grund des vorl√§ufigen Durchschnittsentgelts und der Beitragss√§tze f√ºr das Jahr 2001 berechneten Faktoren betragen im Jahre 2001\\
 1.
 in der Rentenversicherung der Arbeiter und der Angestellten f√ºr die Umrechnung
-†
+
 a)
 von Entgeltpunkten in Beitr√§ge
 10444,6440,
-†
-†
+
+
 von Entgeltpunkten (Ost) in Beitr√§ge
 8749,8065,
-†
+
 b)
 von Beitr√§gen, Barwerten, Deckungskapitalien und vergleichbaren Deckungsr√ºcklagen in Entgeltpunkte
 0,0000957429,
-†
-†
+
+
 von Beitr√§gen in Entgeltpunkte (Ost)
 0,0001142882,
 2.
 in der knappschaftlichen Rentenversicherung f√ºr die Umrechnung
-†
+
 a)
 von Entgeltpunkten in Beitr√§ge
 13889,7360,
-†
-†
+
+
 von Entgeltpunkten (Ost) in Beitr√§ge
 11635,8683,
-†
+
 b)
 von Beitr√§gen in Entgeltpunkte
 0,0000719956,
-†
-†
+
+
 von Beitr√§gen in Entgeltpunkte (Ost)
 0,0000859412.
 (2) Entgeltpunkte werden in Beitr√§ge umgerechnet, indem sie mit dem im Zeitpunkt der Beitragsentrichtung ma√ügebenden Umrechnungsfaktor vervielf√§ltigt werden.

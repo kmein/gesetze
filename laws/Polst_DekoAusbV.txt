@@ -167,12 +167,12 @@ Anwenden von Informations- und Kommunikationstechniken (§ 4 Nr. 5)
 a)
 Bedeutung und Nutzungsmöglichkeiten von Informations- und Kommunikationssystemen unterscheiden
 2
-�
+
 b)
 Informationen beschaffen und nutzen, insbesondere Fachzeitschriften, Fachbücher und Kataloge
 c)
 Arbeitsaufgaben mit Hilfe von Informations- und Kommunikationssystemen bearbeiten
-�
+
 2
 d)
 Daten pflegen und sichern, Regeln zum Datenschutz beachten
@@ -181,14 +181,14 @@ Vorbereiten von Arbeitsabläufen, Kontrollieren und Beurteilen von Arbeitsergebn
 a)
 Arbeitsplatz einrichten, sichern, unterhalten und räumen, ergonomische Gesichtspunkte berücksichtigen
 2
-�
+
 b)
 Arbeitsaufträge erfassen und Vorgaben auf Umsetzbarkeit prüfen
 c)
 Arbeitsschritte unter Berücksichtigung ergonomischer, fertigungstechnischer und wirtschaftlicher Gesichtspunkte durchführen
 d)
 Bedarf an Werk- und Hilfsstoffen ermitteln, Werk- und Hilfsstoffe zusammenstellen
-�
+
 3
 e)
 Einsatz von Arbeitsmitteln unter Beachtung von Vorschriften planen; Sicherungsmaßnahmen anwenden
@@ -203,10 +203,10 @@ Anfertigen und Anwenden von Arbeitsunterlagen (§ 4 Nr. 7)
 a)
 technische Unterlagen, insbesondere Merkblätter, Zulassungsbescheide und Verarbeitungsrichtlinien beachten und anwenden
 2
-�
+
 b)
 Skizzen und Zuschnittschablonen, insbesondere unter Berücksichtigung der Zugaben, anfertigen und anwenden
-�
+
 3
 c)
 Zeichnungen anwenden
@@ -217,14 +217,14 @@ Handhaben und Warten von Werkzeugen, Geräten, Maschinen und technischen Einrich
 a)
 Werkzeuge, Hebe- und Transportgeräte, Maschinen und technische Einrichtungen auswählen
 2
-�
+
 b)
 Werkzeuge handhaben und instand halten
 c)
 Geräte und Maschinen einrichten und unter Verwendung von Schutzeinrichtungen bedienen, technische Einrichtungen nutzen
 d)
 Geräte, Maschinen und technische Einrichtungen warten
-�
+
 3
 e)
 Störungen an Geräten, Maschinen und technischen Einrichtungen feststellen, Störungsbeseitigung vornehmen und veranlassen
@@ -233,19 +233,19 @@ Bearbeiten und Einsetzen von Werk- und Hilfsstoffen (§ 4 Nr. 9)
 a)
 Werk- und Hilfsstoffe, insbesondere unter Berücksichtigung wartentypischer Eigenschaften, auswählen, kennzeichnen, auf Fehler und Einsetzbarkeit prüfen, transportieren und lagern
 3
-�
+
 b)
 Materialverbindungen herstellen
 c)
 Materialien, insbesondere unter Berücksichtigung von Gebrauchsund Nutzungsanforderungen sowie von Oberflächenstrukturen, von Hand und mit Maschinen be- und verarbeiten
-�
+
 2
 10
 Anwenden von Bügeltechniken (§ 4 Nr. 10)
 a)
 Temperatur, Dampf, Zeit und Druck auf Werk- und Hilfsstoffe überwachen, prüfen und regulieren
 4
-�
+
 b)
 Gardinen, Dekostoffe, Polster- und Futterstoffe ausbügeln
 c)
@@ -257,7 +257,7 @@ Ausführen von Näharbeiten (§ 4 Nr. 11)
 a)
 Näharbeiten an Maschinen, insbesondere Kettelnähte, ausführen
 7
-�
+
 b)
 Näharbeiten von Hand, insbesondere überwendlich und verzogen, ausführen
 12
@@ -265,7 +265,7 @@ Fertigen von Raumdekorationen (§ 4 Nr. 12)
 a)
 Messverfahren auswählen und anwenden, Messgeräte auf Funktion prüfen
 8
-�
+
 b)
 Werk- und Hilfsstoffe hinsichtlich der Weiterverarbeitung prüfen
 c)
@@ -276,14 +276,14 @@ e)
 Dekorationen nach Zuschnittplänen herstellen, insbesondere Seitenschals, Querbehänge, Raffhalter und Bögen
 f)
 Gardinen nach Zuschnitt herstellen, insbesondere Blumenfenstergardinen, Raffrollos, Wolkenstores und Raffgardinen
-�
+
 11
 13
 Fertigen von Polsterbezugsteilen (§ 4 Nr. 13)
 a)
 Arten und Aufbau von Polstermöbeln unterscheiden
 7
-�
+
 b)
 zugeschnittene Stoffe versäubern, insbesondere umketteln
 c)
@@ -292,7 +292,7 @@ d)
 Reißverschlüsse einsetzen, Kanten versäubern
 e)
 Watten und Nessel unterspannen und aufsteppen
-�
+
 7
 f)
 Futterstoffe und Nesselarten angleichen und untersteppen
@@ -301,12 +301,12 @@ Ausführen von Verzierungs- und Abschlussarbeiten (§ 4 Nr. 14)
 a)
 Posamenten zur Verzierung und zur Nahtabdeckung auswählen
 3
-�
+
 b)
 Keder- und Paspelstreifen schneiden, Keder und Paspeln herstellen und einnähen
 c)
 Volants und Kantenabsetzungen nähen und anbringen
-�
+
 7
 d)
 Knöpfe und Applikationen herstellen
@@ -315,7 +315,7 @@ Herstellen von Bezügen und Überwürfen (§ 4 Nr. 15)
 a)
 Kissenhüllen herstellen und füllen
 9
-�
+
 b)
 Kissenbezüge herstellen
 c)
@@ -324,7 +324,7 @@ d)
 Befestigungsschlaufen und Stäbchen zuschneiden und annähen
 e)
 Houssenteile und Futterstoffe zu Houssen zusammennähen
-�
+
 11
 f)
 Tischdecken und Bettüberwürfe nach Vorgaben fertigen
@@ -333,14 +333,14 @@ Durchführen von qualitätssichernden Maßnahmen (§ 4 Nr. 16)
 a)
 Aufgaben und Ziele von qualitätssichernden Maßnahmen unterscheiden
 3
-�
+
 b)
 Gebrauchs- und Pflegeanleitungen zuordnen und befestigen
 c)
 Arbeiten kundenorientiert durchführen
 d)
 qualitätssichernde Maßnahmen anwenden, dabei zur kontinuierlichen Verbesserung von Arbeitsvorgängen beitragen
-�
+
 3
 e)
 Endkontrolle anhand des Arbeitsauftrages durchführen, Arbeitsergebnisse dokumentieren

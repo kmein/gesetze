@@ -239,11 +239,11 @@ Planen und Vorbereiten des Arbeitsablaufs sowie Kontrollieren und Bewerten des A
 
 4
 
-†
 
-†
 
-†
+
+
+
 
 6
 
@@ -255,30 +255,30 @@ Lesen, Anwenden und Erstellen von technischen Unterlagen\\
 
 4
 
-†
 
-†
 
-†
+
+
+
 
 - c) :: Tabellen, Diagramme, Handb√ºcher und Bedienungshinweise lesen und anwenden
 - d) :: Zeichnungen lesen und anwenden
 
-†
+
 
 4
 
-†
 
-†
+
+
 
 - e) :: spezielle Merkmale von Instrumenten zeichnerisch darstellen
 
-†
 
-†
 
-†
+
+
+
 
 2
 
@@ -291,21 +291,21 @@ Bestimmen und Zuordnen von Instrumenten\\
 
 2
 
-†
 
-†
 
-†
+
+
+
 
 - b) :: Instrumente mit durchschlagenden Zungen im Hinblick auf Konstruktionsmerkmale der Mechanik und Klangerzeugung bestimmen
 
-†
+
 
 2
 
-†
 
-†
+
+
 
 8
 
@@ -317,21 +317,21 @@ Anwenden von Leimen und Klebern\\
 
 3
 
-†
 
-†
 
-†
+
+
+
 
 - c) :: Kanten und Korpusse durch Leimen oder Kleben verbinden
 
-†
+
 
 4
 
-†
 
-†
+
+
 
 9
 
@@ -345,21 +345,21 @@ Unterscheiden, Zuordnen und Handhaben von Werk- und Hilfsstoffen\\
 
 4
 
-†
 
-†
 
-†
+
+
+
 
 - e) :: Kunststoffe im Handzuginstrumentenbau nach den Eigenschaften und dem Verwendungszweck ausw√§hlen und produktbezogen verarbeiten
 
-†
 
-†
+
+
 
 2
 
-†
+
 
 10
 
@@ -375,11 +375,11 @@ Pr√ºfen, Messen und Kennzeichnen\\
 
 4
 
-†
 
-†
 
-†
+
+
+
 
 11
 
@@ -392,11 +392,11 @@ Anfertigen und Instandhalten von Werkzeugen\\
 
 3
 
-†
 
-†
 
-†
+
+
+
 
 12
 
@@ -408,21 +408,21 @@ Trennen\\
 
 3
 
-†
 
-†
 
-†
+
+
+
 
 - c) :: Feinbleche mit Hand- und Handhebelscheren nach Anri√ü scheren
 
-†
+
 
 2
 
-†
 
-†
+
+
 
 13
 
@@ -434,21 +434,21 @@ Ausrichten und Spannen von Werkzeugen und Werkst√ºcken\\
 
 3
 
-†
 
-†
 
-†
+
+
+
 
 - c) :: Werkzeuge mittels Spannfutter oder Spannzange spannen und Mei√üelhalter ausrichten
 
-†
+
 
 2
 
-†
 
-†
+
+
 
 14
 
@@ -464,11 +464,11 @@ manuelles und maschinelles Bearbeiten von Metallen\\
 
 7
 
-†
 
-†
 
-†
+
+
+
 
 - g) :: Bohrungen in Werkst√ºcken aus Nichteisen- und Eisenmetallen auf Ma√ügenauigkeit reiben
 - h) :: Werkzeuge unter Ber√ºcksichtigung der Verfahren, der Werkstoffe und der Schneidengeometrie ausw√§hlen
@@ -478,21 +478,21 @@ manuelles und maschinelles Bearbeiten von Metallen\\
 - m) :: Eisen- und Nichteisenmetalle maschinell nach Zeichnung und Biegeformen biegen
 - n) :: Federn wickeln
 
-†
+
 
 5
 
-†
 
-†
+
+
 
 - o) :: Fl√§chen an Werkst√ºcken aus Nichteisen- und Eisenmetallen schaben
 
-†
 
-†
 
-†
+
+
+
 
 2
 
@@ -505,32 +505,32 @@ F√ºgen\\
 
 3
 
-†
 
-†
 
-†
+
+
+
 
 - b) :: Funktion, Ma√ü- und Lagetoleranzen gef√ºgter Bauteile pr√ºfen
 - c) :: Bauteile auf Oberfl√§chenbeschaffenheit der F√ºgefl√§chen und Formtoleranz pr√ºfen, sowie in l√∂tgerechter Lage fixieren
 - d) :: L√∂twerkzeuge, Lote und Flu√ümittel nach Eigenschaften und Verwendungszweck ausw√§hlen
 - e) :: Bauteile aus Eisen- und Nichteisenmetallen weichl√∂ten
 
-†
+
 
 2
 
-†
 
-†
+
+
 
 - f) :: Bauteile aus Eisen- und Nichteisenmetallen hartl√∂ten
 
-†
 
-†
 
-†
+
+
+
 
 2
 
@@ -544,11 +544,11 @@ Ausw√§hlen, Bestimmen und Lagern von H√∂lzern und Holzwerkstoffen\\
 
 2
 
-†
 
-†
 
-†
+
+
+
 
 17
 
@@ -563,22 +563,22 @@ Be- und Verarbeiten von Holz und Holzwerkstoffen\\
 
 8
 
-†
 
-†
 
-†
+
+
+
 
 - f) :: elektrisch getriebene Maschinen, insbesondere Kreiss√§ge, Bohrmaschine, Schleifmaschine und Hobelmaschine, einrichten und unter Beachtung der Arbeitsschutzvorschriften anwenden
 - g) :: vorgefertigte Bauteile verleimen, verkitten und formen
 
 4
 
-†
 
-†
 
-†
+
+
+
 
 18
 
@@ -589,21 +589,21 @@ Warten und Pflegen von Betriebsmitteln\\
 
 2
 
-†
 
-†
 
-†
+
+
+
 
 - b) :: Betriebsstoffe, insbesondere √ñle, K√ºhl- und Schmierstoffe, nach Betriebsvorschriften wechseln oder auff√ºllen
 
-†
+
 
 2
 
-†
 
-†
+
+
 
 19
 
@@ -615,13 +615,13 @@ Verarbeiten von Zelluloid\\
 - c) :: Geh√§use von Handzuginstrumenten mit Zelluloid √ºberziehen
 - d) :: Geh√§use ebenschneiden, verputzen, schleifen und schwabbeln
 
-†
 
-†
+
+
 
 4
 
-†
+
 
 20
 
@@ -633,13 +633,13 @@ Behandeln von Oberfl√§chen\\
 - c) :: Eigenschaften und Reaktionen von L√∂sungsmitteln, Harzen und Farbstoffen beachten
 - d) :: Oberfl√§chen behandeln, insbesondere durch Schleifen, Beizen, Mattieren, Lackieren und Polieren
 
-†
 
-†
+
+
 
 4
 
-†
+
 
 21
 
@@ -653,13 +653,13 @@ Be- und Verarbeiten von Leder, Pappe, Stoff und Kunstleder zu B√§lgen\\
 - e) :: Balgrahmen aufkleben
 - f) :: Balg auf Luftdichtheit pr√ºfen
 
-†
+
 
 3
 
-†
 
-†
+
+
 
 22
 
@@ -669,22 +669,22 @@ Montieren von Ba√ümechanik und Schaltgruppen\\
 - a) :: Bauteile der Ba√ümechanik aufnieten, Sattel einf√§deln sowie Walzen und Akkordschieber einlegen
 - b) :: Ba√ümechanik einbauen und justieren
 
-†
 
-†
+
+
 
 4
 
-†
+
 
 - c) :: Bauteile aufnieten, Schieber montieren sowie Schaltgruppe auf Dichtheit pr√ºfen
 - d) :: Schaltgruppe einbauen und abdichten
 
-†
 
-†
 
-†
+
+
+
 
 3
 
@@ -696,13 +696,13 @@ Montieren und Einbauen der Klaviatur\\
 - a) :: Klaviatur montieren und einbauen
 - b) :: Ventilklappen untersetzen und justieren
 
-†
 
-†
+
+
 
 4
 
-†
+
 
 24
 
@@ -714,21 +714,21 @@ Einbauen der Stimmplatten\\
 - c) :: Stimmplatten vorstimmen
 - d) :: Stimmplatten ventilieren und auf dem Stimmstock einwachsen
 
-†
 
-†
+
+
 
 4
 
-†
+
 
 - e) :: Stimmstock in Diskant und Ba√üteil einbauen
 
-†
 
-†
 
-†
+
+
+
 
 3
 
@@ -739,21 +739,21 @@ Stimmen von Instrumenten\\
 
 - a) :: Grundt√∂ne durch Feilen und Schaben nach Geh√∂r und mit Hilfsmitteln stimmen
 
-†
 
-†
 
-†
+
+
+
 
 8
 
 - b) :: Tremolo durch Feilen und Schaben stimmen
 
-†
 
-†
 
-†
+
+
+
 
 12
 
@@ -765,11 +765,11 @@ Endmontage\\
 - a) :: Diskant, Balg und Ba√üteil bereitstellen und montieren
 - b) :: Verdeck anpassen und montieren
 
-†
 
-†
 
-†
+
+
+
 
 6
 
@@ -781,11 +781,11 @@ Endkontrolle\\
 - a) :: Instrument auf Funktion kontrollieren
 - b) :: musikalische und optische Kontrolle durchf√ºhren
 
-†
 
-†
 
-†
+
+
+
 
 6
 
@@ -802,10 +802,10 @@ Reparieren von Handzuginstrumenten\\
 - f) :: Defekte beseitigen
 - g) :: Instrument zusammenbauen und pr√ºfen
 
-†
 
-†
 
-†
+
+
+
 
 8

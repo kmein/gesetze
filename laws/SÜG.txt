@@ -7,7 +7,7 @@ Ausfertigungsdatum: 20.04.1994
 Inhaltsübersicht
 
 Erster Abschnitt
-�
+
 Allgemeine Vorschriften
 § 1
 Zweck und Anwendungsbereich des Gesetzes
@@ -24,7 +24,7 @@ Sicherheitsrisiken, sicherheitserhebliche Erkenntnisse
 § 6
 Rechte der betroffenen Person und der mitbetroffenen Person
 Zweiter Abschnitt
-�
+
 Überprüfungsarten und Durchführungsmaßnahmen
 § 7
 Arten der Sicherheitsüberprüfung
@@ -39,7 +39,7 @@ Datenerhebung
 § 12
 Maßnahmen bei den einzelnen Überprüfungsarten, Überprüfungszeitraum
 Dritter Abschnitt
-�
+
 Verfahren
 § 13
 Sicherheitserklärung
@@ -54,7 +54,7 @@ Sicherheitserhebliche Erkenntnisse nach Abschluß der Sicherheitsüberprüfung
 § 17
 Aktualisierung und Wiederholungsüberprüfung
 Vierter Abschnitt
-�
+
 Akten über die Sicherheitsüberprüfung; Datenverarbeitung
 § 18
 Sicherheitsakte und Sicherheitsüberprüfungsakte
@@ -69,7 +69,7 @@ Berichtigen, Löschen und Einschränken der Verarbeitung personenbezogener Daten
 § 23
 Auskunft über gespeicherte personenbezogene Daten
 Fünfter Abschnitt
-�
+
 Sonderregelungen für den nichtöffentlichen Bereich
 § 24
 Anwendungsbereich
@@ -88,7 +88,7 @@ Sicherheitsakte der nicht-öffentlichen Stelle
 § 31
 Datenverarbeitung in automatisierten Dateien
 Sechster Abschnitt
-�
+
 Reisebeschränkungen, Sicherheitsüberprüfungen auf Antrag ausländischer Dienststellen und Schlußvorschriften
 § 32
 Reisebeschränkungen

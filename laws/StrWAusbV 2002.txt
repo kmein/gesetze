@@ -215,11 +215,11 @@ Auftrags√ºbernahme, Arbeitsplan und Ablaufplanung\\
 
 3
 
-†
 
-†
 
-†
+
+
+
 
 - e) :: Zeitaufwand und personelle Unterst√ºtzung absch√§tzen
 - f) :: Arbeitsabl√§ufe im Team planen und umsetzen, Ergebnisse auswerten
@@ -227,11 +227,11 @@ Auftrags√ºbernahme, Arbeitsplan und Ablaufplanung\\
 - h) :: Abstimmungen mit den am Arbeitsvorgang betrieblichen und au√üerbetrieblichen Beteiligten treffen
 - i) :: Berichte erstellen
 
-†
 
-†
 
-†
+
+
+
 
 3
 
@@ -245,13 +245,13 @@ Betriebswirtschaftliches Handeln\\
 - c) :: Kosten ermitteln
 - d) :: Arbeiten kostenorientiert durchf√ºhren
 
-†
 
-†
+
+
 
 4
 
-†
+
 
 7
 
@@ -265,11 +265,11 @@ Umgang mit Informations- und Kommunikationstechniken\\
 
 4
 
-†
 
-†
 
-†
+
+
+
 
 8
 
@@ -284,11 +284,11 @@ Einrichten, Sichern und R√§umen von Arbeitsstellen, Sichern und R√§umen von Unfa
 
 5
 
-†
 
-†
 
-†
+
+
+
 
 - f) :: Verkehrswege auf ihre Eignung beurteilen, Ma√ünahmen zur Nutzung und zur Sicherung veranlassen, insbesondere verkehrssichernde Reinigungsarbeiten durchf√ºhren
 - g) :: Arbeits- und Schutzger√ºste auf-, um- und abbauen, Leitern und Ger√ºste auf Verwendbarkeit pr√ºfen, Betriebssicherheit beurteilen
@@ -297,13 +297,13 @@ Einrichten, Sichern und R√§umen von Arbeitsstellen, Sichern und R√§umen von Unfa
 - k) :: Arbeitsstellen einrichten, insbesondere Verkehrszeichen aufstellen und Absperrmaterial aufbauen, Arbeitsstellen betreiben und abbauen
 - l) :: Absperrungen und Verkehrseinrichtungen zur Sicherung von Unfallstellen aufbauen, instand halten und abbauen
 
-†
+
 
 11
 
-†
 
-†
+
+
 
 9
 
@@ -315,21 +315,21 @@ Ausw√§hlen, Pr√ºfen und Lagern von Baumaterialien\\
 
 6
 
-†
 
-†
 
-†
+
+
+
 
 - c) :: Bau- und Bauhilfsstoffe sowie Fertigteile auf Vollst√§ndigkeit, Verwendbarkeit, Besch√§digungen und Ma√ühaltigkeit pr√ºfen, Reklamationen veranlassen
 
-†
+
 
 2
 
-†
 
-†
+
+
 
 10
 
@@ -343,22 +343,22 @@ Anfertigen und Anwenden von technischen Unterlagen, Durchf√ºhren von Messungen\\
 
 8
 
-†
 
-†
 
-†
+
+
+
 
 - e) :: Bauteile, Geraden und B√∂gen abstecken, L√§ngen-, Richtungs- und Winkelmessungen durchf√ºhren
 - f) :: L√§ngs- und Querprofile abstecken
 
-†
+
 
 7
 
-†
 
-†
+
+
 
 11
 
@@ -370,19 +370,19 @@ Aufgaben der Stra√üenbaulasttr√§ger, Anwenden der rechtlichen Bestimmungen\\
 
 2
 
-†
 
-†
 
-†
+
+
+
 
 - c) :: Aufgaben der Streckenwartung durchf√ºhren, insbesondere Stra√üenk√∂rper auf Verkehrssicherheit pr√ºfen, Bauwerksbeobachtung durchf√ºhren, Verkehrssicherungsma√ünahmen ergreifen
 
-†
 
-†
 
-†
+
+
+
 
 3
 
@@ -396,11 +396,11 @@ Durchf√ºhren von Bau- und Instandhaltungsarbeiten an Bauwerken\\
 
 5
 
-†
 
-†
 
-†
+
+
+
 
 13
 
@@ -412,32 +412,32 @@ Durchf√ºhren von Bau- und Instandhaltungsarbeiten an Stra√üen\\
 
 7
 
-†
 
-†
 
-†
+
+
+
 
 - c) :: B√∂den l√∂sen, transportieren, lagern, einbauen und verdichten, Planum herstellen
 - d) :: Baugruben und Gr√§ben ausheben, sichern und schlie√üen, offene Wasserhaltung durchf√ºhren
 - e) :: Rohre, Formst√ºcke und Profile verlegen und verbinden
 - f) :: Bankette und Entw√§sserungseinrichtungen, insbesondere Stra√üengr√§ben, Entw√§sserungsmulden, Stra√üenabl√§ufe, Regenwasserleitungen und Regenr√ºckhaltebecken instand halten
 
-†
 
-†
+
+
 
 9
 
-†
+
 
 - g) :: Fahrbahnen instand halten, insbesondere Setzungen, Verdr√ºckungen, Abplatzungen und Ausbr√ºche bei bitumin√∂sen Fahrbahnen und Betonfahrbahnen beseitigen, Oberfl√§chenbehandlung durchf√ºhren sowie Fugen schneiden, reinigen und vergie√üen
 
-†
 
-†
 
-†
+
+
+
 
 12
 
@@ -454,11 +454,11 @@ Be- und Verarbeiten von Werk- und Hilfsstoffen\\
 
 8
 
-†
 
-†
 
-†
+
+
+
 
 15
 
@@ -469,22 +469,22 @@ Anlagen und Pflegen von Gr√ºnfl√§chen\\
 - b) :: Geh√∂lze pflanzen und pflegen
 - c) :: Lichtraumprofile und Sichtfl√§chen freihalten
 
-†
 
-†
+
+
 
 6
 
-†
+
 
 - d) :: Baumkontrolle durchf√ºhren
 - e) :: B√§ume f√§llen und aufarbeiten
 
-†
 
-†
 
-†
+
+
+
 
 7
 
@@ -498,32 +498,32 @@ Anbringen und Instandhalten von Verkehrszeichen und -einrichtungen, Verkehrssich
 - c) :: Verkehrszeichen aufstellen, instand halten und abbauen
 - d) :: Fahrbahnmarkierungen aufbringen und ausbessern
 
-†
+
 
 6
 
-†
 
-†
+
+
 
 - e) :: Leit- und Schutzeinrichtungen anbringen, instand halten und entfernen
 
-†
 
-†
+
+
 
 2
 
-†
+
 
 - f) :: Verkehrssicherungs- und Telematiksysteme hinsichtlich ihrer Anwendung unterscheiden, Funktionsf√§higkeit √ºberwachen, St√∂rungsbeseitigung veranlassen
 - g) :: Schaltungen an Verkehrsbeeinflussungsanlagen veranlassen, insbesondere bei der Durchf√ºhrung eigener Ma√ünahmen
 
-†
 
-†
 
-†
+
+
+
 
 2
 
@@ -536,22 +536,22 @@ Durchf√ºhren des Winterdienstes\\
 - b) :: Ger√§te, Maschinen und Fahrzeuge f√ºr den Winterdienst zusammenstellen und vorbereiten
 - c) :: vorbeugende Ma√ünahmen des Schneeschutzes ausf√ºhren, insbesondere Schneeschutzz√§une aufstellen, unterhalten und abbauen
 
-†
 
-†
+
+
 
 5
 
-†
+
 
 - d) :: Zusammensetzung des Streugutes und der Menge des Streustoffes unter Beachtung √∂kologischer und √∂konomischer Gesichtspunkte festlegen, Fahrzeuge mit Streugut beladen
 - e) :: Ma√ünahmen des Winterdienstes durchf√ºhren, insbesondere R√§umen von Schnee sowie Aufbringen von Streugut mit Fahrzeugen der Klasse CE
 
-†
 
-†
 
-†
+
+
+
 
 7
 
@@ -566,22 +566,22 @@ Handhaben und Warten von Werkzeugen, Ger√§ten, Maschinen und technischen Einrich
 
 4
 
-†
 
-†
 
-†
+
+
+
 
 - d) :: Ger√§te, Maschinen, technische Einrichtungen und Fahrzeuge warten und instand halten
 - e) :: St√∂rungen an Ger√§ten, Maschinen, technischen Einrichtungen und Fahrzeugen erkennen, St√∂rungsbeseitigung veranlassen
 - f) :: An- und Aufbauger√§te anbringen und abnehmen
 - g) :: Fahrzeugkombinationen der Klasse CE unter Beachtung der Schutzbestimmungen auf √∂ffentlichen Stra√üen sicher und wirtschaftlich f√ºhren
 
-†
 
-†
 
-†
+
+
+
 
 10
 
@@ -597,10 +597,10 @@ Qualit√§tssichernde Ma√ünahmen und Kundenorientierung\\
 - e) :: Arbeiten von Dritten, insbesondere von beauftragten Firmen, anhand von Vorgaben √ºberwachen und dokumentieren
 - f) :: M√§ngel feststellen und Ma√ünahmen zur M√§ngelbeseitigung veranlassen
 
-†
 
-†
 
-†
+
+
+
 
 8

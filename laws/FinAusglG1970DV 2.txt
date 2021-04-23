@@ -57,7 +57,7 @@ an Schleswig-Holstein
 Zum Ausgleich der Unterschiede zwischen den vorläufig gezahlten und den endgültig festgestellten Länderanteilen an der Umsatzsteuer nach § 1 und den vorläufig gezahlten und den endgültig festgestellten Ausgleichsbeiträgen und Ausgleichszuweisungen nach § 2 werden nach § 15 des Gesetzes über den Finanzausgleich zwischen Bund und Ländern mit dem Inkrafttreten dieser Verordnung fällig:\\
 1.
 Überweisungen von zahlungspflichtigen Ländern:
-�
+
 Bayern
 5.578.000 DM,
 Bremen
@@ -70,7 +70,7 @@ Schleswig-Holstein
 32.994.000 DM;
 2.
 Überweisungen an empfangsberechtigte Länder:
-�
+
 Baden-Württemberg
 22.679.000 DM,
 Berlin

@@ -306,59 +306,59 @@ mehr als
 5 Jahre
 Berufserfahrung bei der Anfertigung von Standsicherheitsnachweisen von statisch und konstruktiv schwierigen Bauvorhaben
 N, E
-†
+
 N, E
 N, E
-†
-†
+
+
 Berufserfahrung bei der bautechnischen Pr√ºfung als Mitarbeiter einer Bauaufsichtsbeh√∂rde, eines Pr√ºfamtes oder eines anerkannten Pr√ºfers f√ºr bautechnische Nachweise im Eisenbahnbau
 N, E
 N, E
 N, E
 N, E
-†
-†
+
+
 Berufserfahrung bei der Bauleitung oder der √úberwachung statisch und konstruktiv schwieriger Bauvorhaben
 N, E
 N, E
 N, E
 N, E
-†
-†
+
+
 Anerkennung als Pr√ºfingenieur eines Bundeslandes f√ºr das Teilgebiet, f√ºr das die Anerkennung als Pr√ºfsachverst√§ndiger beantragt wird (fakultativ)
 N, E
-†
-†
-†
-†
-†
+
+
+
+
+
 Anerkennung als Schwei√üfachingenieur
-†
+
 N, E
-†
-†
-†
-†
+
+
+
+
 Anerkennung als Pr√ºfsachverst√§ndiger f√ºr das Teilgebiet Felsbau oder Nachweis √ºber eine Qualifikation als Geologe
-†
-†
-†
+
+
+
 N, E
-†
-†
+
+
 Berufserfahrung in der Planung, Pr√ºfung und Ausf√ºhrung von Oberbauanlagen
-†
-†
-†
-†
+
+
+
+
 N
-†
+
 Berufserfahrung in der brandschutztechnischen Planung, Pr√ºfung und Ausf√ºhrung von Geb√§uden im Bereich:
-†
-†
-†
-†
-†
+
+
+
+
+
 N
 --
 des abwehrenden Brandschutzes,
@@ -382,7 +382,7 @@ sowie Kenntnis des einschl√§gigen Regelwerks und der Nachweisverfahren in diesen
 | 2.3.3 | erfolgreiche Planpr√ºfung einer geeigneten Bauma√ünahme im neuen Teilgebiet unter Aufsicht eines anerkannten Pr√ºfsachverst√§ndigen f√ºr die Planpr√ºfung.                                                                  |
 | 3.    | F√ºr die Abnahmepr√ºfung von Signal-, Telekommunikations- oder elektrotechnischen Anlagen                                                                                                                               |
 | 3.1   | Bei erstmaliger Anerkennung oder bei Erweiterung der Anerkennung auf ein weiteres Fachgebiet:                                                                                                                         |
-| 3.1.1 | zweij√§hrige T√§tigkeit als Planer oder Anerkennung als Pr√ºfsachverst√§ndiger f√ºr die Planpr√ºfung f√ºr das Fachgebiet oder Mitarbeit als ‚ÄHelfer bei der Abnahme der Anlagen‚Äú an zehn geeigneten Projekten und            |
+| 3.1.1 | zweij√§hrige T√§tigkeit als Planer oder Anerkennung als Pr√ºfsachverst√§ndiger f√ºr die Planpr√ºfung f√ºr das Fachgebiet oder Mitarbeit als Helfer bei der Abnahme der Anlagen‚Äú an zehn geeigneten Projekten und            |
 | 3.1.2 | erfolgreiche Abnahmepr√ºfung im Fachgebiet unter Aufsicht eines anerkannten Pr√ºfsachverst√§ndigen f√ºr die Abnahmepr√ºfung einer gro√üen und einer kleinen Bauma√ünahme.                                                    |
 | ¬†     | In Abstimmung mit der zust√§ndigen Beh√∂rde kann in besonderen F√§llen eine abweichende Anzahl von Projekten nach Nummer 3.1.1 festgelegt werden.                                                                        |
 | 3.2   | Bei Erweiterung der Anerkennung im selben Teilgebiet:                                                                                                                                                                 |

@@ -7,28 +7,28 @@ Ausfertigungsdatum: 21.08.2001
 Inhalts√ºbersicht
 
 Erster Teil
-†
+
 Anwendungsbereich, Begriffsbestimmungen
 ¬ß 1
 Anwendungsbereich
 ¬ß 2
 Begriffsbestimmungen
 Zweiter Teil
-†
+
 Begrenzung der Emissionen
 ¬ß 3
 Allgemeine Anforderungen
 ¬ß 4
 Spezielle Anforderungen
 Dritter Teil
-†
+
 Messungen und √úberwachung
 ¬ß 5
 Nicht genehmigungsbed√ºrftige Anlagen
 ¬ß 6
 Genehmigungsbed√ºrftige Anlagen
 Vierter Teil
-†
+
 Gemeinsame Vorschriften
 ¬ß 7
 Ableitbedingungen f√ºr Abgase
@@ -43,7 +43,7 @@ Zulassung von Ausnahmen
 ¬ß 12
 Ordnungswidrigkeiten
 F√ºnfter Teil
-†
+
 Schlussvorschriften
 ¬ß 13
 √úbergangsregelung
@@ -290,8 +290,8 @@ Schwellenwert f√ºr den L√∂semittelverbrauch (t/a)
 Nummer der zugeordneten T√§tigkeit im Anhang II
 1.
 Reproduktion von Text oder von Bildern
-†
-†
+
+
 1.1
 Anlagen mit dem Heatset-Rollenoffset-Druckverfahren
 15
@@ -306,24 +306,24 @@ Anlagen f√ºr sonstige Druckt√§tigkeiten
 1.3
 2.
 Reinigung der Oberfl√§chen von Materialien oder Produkten
-†
-†
+
+
 2.1
 Anlagen zur Oberfl√§chenreinigung
 1
 2
 3.
 Textilreinigung
-†
-†
+
+
 3.1
 Anlagen zur Textilreinigung (Chemischreinigungsanlagen)
 0
 3
 4.
 Serienbeschichtung von Kraftfahrzeugen, Fahrerh√§usern, Nutzfahrzeugen, Bussen oder Schienenfahrzeugen
-†
-†
+
+
 4.1
 Anlagen zur Serienbeschichtung von Kraftfahrzeugen
 0
@@ -346,24 +346,24 @@ Anlagen zum Beschichten von Schienenfahrzeugen
 4.5
 5.
 Fahrzeugreparaturlackierung
-†
-†
+
+
 5.1
 Anlagen zur Reparaturlackierung von Fahrzeugen
 0
 5
 6.
 Beschichten von Bandblech
-†
-†
+
+
 6.1
 Anlagen zum Beschichten von Bandblech
 10
 6
 7.
 Beschichten von Wickeldraht
-†
-†
+
+
 7.1
 Anlagen zum Beschichten von Wickeldraht mit phenol-, kresol- oder xylenolhaltigen Beschichtungsstoffen
 0
@@ -374,16 +374,16 @@ Anlagen zum Beschichten von Wickeldraht mit sonstigen Beschichtungsstoffen
 7
 8.
 Beschichten von sonstigen Metalloder Kunststoffoberfl√§chen
-†
-†
+
+
 8.1
 Anlagen zum Beschichten von sonstigen Metall- oder Kunststoffoberfl√§chen
 5
 8
 9.
 Beschichten von Holz oder Holzwerkstoffen
-†
-†
+
+
 9.1
 Anlagen zum Beschichten von Holz oder Holzwerkstoffen mit einem j√§hrlichen L√∂semittelverbrauch bis zu 15 Tonnen
 5
@@ -394,8 +394,8 @@ Anlagen zum Beschichten von Holz oder Holzwerkstoffen mit einem j√§hrlichen L√∂s
 9
 10.
 Beschichten von Textil-, Gewebe-, Folien- oder Papieroberfl√§chen
-†
-†
+
+
 10.1
 Anlagen zum Beschichten oder Bedrucken von Textilien und Geweben
 5
@@ -406,16 +406,16 @@ Anlagen zum Beschichten von Folienoder Papieroberfl√§chen
 10.2
 11.
 Beschichten von Leder
-†
-†
+
+
 11.1
 Anlagen zum Beschichten von Leder
 10
 11
 12.
 HolzImpr√§gnierung
-†
-†
+
+
 12.1
 Anlagen zum Impr√§gnieren von Holz unter Verwendung von l√∂semittelhaltigen Holzschutzmitteln
 10
@@ -426,32 +426,32 @@ Anlagen zum Impr√§gnieren von Holz unter Verwendung von Teer√∂len (Kreosote)
 12
 13.
 Laminierung von Holz oder Kunststoffen
-†
-†
+
+
 13.1
 Anlagen zur Laminierung von Holz oder Kunststoffen
 5
 13
 14.
 Klebebeschichtung
-†
-†
+
+
 14.1
 Anlagen zur Klebebeschichtung
 5
 14
 15.
 Herstellung von Schuhen
-†
-†
+
+
 15.1
 Anlagen zur Herstellung von Schuhen
 5
 15
 16.
 Herstellung von Anstrich- oder Beschichtungsstoffen sowie Herstellung von Bautenschutz- oder Holzschutzmitteln, Klebstoffen oder Druckfarben
-†
-†
+
+
 16.1
 Anlagen zur Herstellung von Anstrichoder Beschichtungsstoffen
 100
@@ -470,24 +470,24 @@ Anlagen zur Herstellung von Druckfarben
 16
 17.
 Umwandlung von Kautschuk
-†
-†
+
+
 17.1
 Anlagen zur Umwandlung von Kautschuk
 10
 17
 18.
 Extraktion von Pflanzen√∂l oder tierischem Fett sowie Raffination von Pflanzen√∂l
-†
-†
+
+
 18.1
 Anlagen zur Extraktion von Pflanzen√∂l oder tierischem Fett sowie Raffination von Pflanzen√∂l
 10
 18
 19.
 Herstellung von Arzneimitteln
-†
-†
+
+
 19.1
 Anlagen zur Herstellung von Arzneimitteln
 50
@@ -575,7 +575,7 @@ bzgl. der einzelnen √Ñnderungen vgl. Fu√ünote)
   - 1.1 :: Anlagen mit dem Heatset-Rollenoffset-Druckverfahren
   - 1.1.1 :: Emissionsgrenzwerte f√ºr gefasste behandelte Abgase
 
-†
+
 
 Emissionsgrenzwert (mg C/cbm)\\
 L√∂semittelverbrauch (t/a)
@@ -586,7 +586,7 @@ Bemerkungen
 
 > 25
 
-†
+
 
 50\\
 20 1)
@@ -635,7 +635,7 @@ Bemerkungen
 
 \\
 
-†
+
 
 Grenzwert 1)\\
 (% der eingesetzten L√∂semittel)\\
@@ -647,7 +647,7 @@ Bemerkungen
 
 > 25
 
-†
+
 
 25
 
@@ -669,7 +669,7 @@ Bemerkungen
 
 \\
 
-†
+
 
 Grenzwert\\
 (% der eingesetzten L√∂semittel)\\
@@ -681,7 +681,7 @@ Bemerkungen
 
 > 10
 
-†
+
 
 20 1), 2)
 
@@ -867,7 +867,7 @@ Bemerkungen
 
 \\
 
-†
+
 
 Emissionsgrenzwert (mg C/cbm)\\
 L√∂semittelverbrauch (t/a)
@@ -878,7 +878,7 @@ Bemerkungen
 
 > 15
 
-†
+
 
 100 1)
 
@@ -892,7 +892,7 @@ Bemerkungen
 
 \\
 
-†
+
 
 Grenzwert 1)\\
 (% der eingesetzten L√∂semittel)\\
@@ -904,7 +904,7 @@ Bemerkungen
 
 > 15
 
-†
+
 
 15 2)\\
 25
@@ -928,7 +928,7 @@ Bemerkungen
 
 \\
 
-†
+
 
 Emissionsgrenzwerte (mg C/cbm)\\
 L√∂semittelverbrauch (t/a)
@@ -939,7 +939,7 @@ Bemerkungen
 
 > 25
 
-†
+
 
 100 1)
 
@@ -977,7 +977,7 @@ L√∂semittelverbrauch (t/a)
 
 \\
 
-†
+
 
 Emissionsgrenzwert (mg C/cbm)\\
 L√∂semittelverbrauch (t/a)
@@ -988,7 +988,7 @@ Bemerkungen
 
 > 15
 
-†
+
 
 100 1)
 
@@ -1018,14 +1018,14 @@ Bemerkungen
 
 10
 
-†
+
 
 -  :: - 10.2 :: Anlagen zum Beschichten von Folien- oder Papieroberfl√§chen
   - 10.2.1 :: Emissionsgrenzwerte f√ºr gefasste behandelte Abgase
 
 \\
 
-†
+
 
 Emissionsgrenzwert (mg C/cbm)\\
 L√∂semittelverbrauch (t/a)
@@ -1036,7 +1036,7 @@ Bemerkungen
 
 > 15
 
-†
+
 
 100 1)
 
@@ -1241,7 +1241,7 @@ L√∂semittelverbrauch (t/a)
 
 \\
 
-†
+
 
 Gesamtemissionsgrenzwert 1)\\
 L√∂semittelverbrauch (t/a)
@@ -1252,7 +1252,7 @@ Bemerkungen
 
 > 1 000
 
-†
+
 
 2,5
 
@@ -1264,19 +1264,19 @@ Bemerkungen
 
 1
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 -  :: - 16.1.2 :: Emissionsgrenzwerte f√ºr gefasste Abgase
 
 \\
 
-†
+
 
 Emissionsgrenzwert (mg C/cbm)\\
 L√∂semittelverbrauch (t/a)
@@ -1287,7 +1287,7 @@ Bemerkungen
 
 > 1 000
 
-†
+
 
 20 1)\\
 100
@@ -1303,7 +1303,7 @@ Bemerkungen
 
 \\
 
-†
+
 
 Grenzwert 1)\\
 (% der eingesetzten L√∂semittel) L√∂semittelverbrauch (t/a)
@@ -1314,7 +1314,7 @@ Bemerkungen
 
 > 1 000
 
-†
+
 
 3
 
@@ -1329,7 +1329,7 @@ Bemerkungen
 
 \\
 
-†
+
 
 Gesamtemissionsgrenzwert 1)\\
 L√∂semittelverbrauch (t/a)
@@ -1340,7 +1340,7 @@ Bemerkungen
 
 > 1 000
 
-†
+
 
 3
 
@@ -1470,7 +1470,7 @@ L√∂semittelverbrauch (t/d)
 
 \\
 
-†
+
 
 Gesamtemissionsgrenzwert 1)\\
 L√∂semittelverbrauch (t/a)
@@ -1481,7 +1481,7 @@ Bemerkungen
 
 > 1 000
 
-†
+
 
 3
 
@@ -1493,7 +1493,7 @@ Bemerkungen
 
 \\
 
-†
+
 
 Emissionsgrenzwert (mg C/cbm)\\
 L√∂semittelverbrauch (t/a)
@@ -1504,7 +1504,7 @@ Bemerkungen
 
 > 1 000
 
-†
+
 
 20 1)\\
 100
@@ -1526,7 +1526,7 @@ Bemerkungen
 
 Grenzwert 1)
 
-†
+
 
 Bemerkungen
 
@@ -1576,7 +1576,7 @@ Fl√ºchtige organische Verbindungen, die als Teil der Druckfarben in einem geschl
 
 \\
 
-†
+
 
 Gesamtemissionsgrenzwert 1)
 
@@ -1612,7 +1612,7 @@ Sojabohnen (wei√üe Flocken):
 
 Sonstige Samen und sonstiges pflanzliches Material:
 
-†
+
 
 3 2)
 

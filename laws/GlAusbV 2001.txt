@@ -248,7 +248,7 @@ Umgang mit Informations- und Kommunikationstechniken\\
 
 3*)
 
-†
+
 
 6
 
@@ -263,14 +263,14 @@ Vorbereiten von Arbeitsabl√§ufen, Auswerten von Informationen, Arbeiten im Team\
 
 2)*
 
-†
+
 
 - f) :: Zeitaufwand und personelle Unterst√ºtzung absch√§tzen und dokumentieren
 - g) :: Aufgaben im Team planen und umsetzen, Ergebnisse gemeinsam abstimmen und auswerten
 - h) :: Gespr√§che situationsgerecht f√ºhren, Sachverhalte darstellen
 - i) :: mit den am Bau Beteiligten Abstimmungen treffen
 
-†
+
 
 2)*
 
@@ -286,13 +286,13 @@ Anfertigen und Anwenden von technischen Unterlagen, Durchf√ºhren von Messungen\\
 
 2)*
 
-†
+
 
 - e) :: Bauzeichnungen anwenden und Leistungsbeschreibungen beachten
 - f) :: technische Unterlagen anwenden, insbesondere Tabellen, Diagramme, Betriebsanleitungen, Handb√ºcher sowie Montage- und Verwendungsanleitungen
 - g) :: technische Vorgaben unter Ber√ºcksichtigung der Bausituation umsetzen
 
-†
+
 
 2)*
 
@@ -314,7 +314,7 @@ Einrichten und Sichern von Arbeitspl√§tzen, Vorbereiten und Aufl√∂sen von Montag
 
 5)*
 
-†
+
 
 9
 
@@ -328,13 +328,13 @@ Handhaben und Warten von Werkzeugen, Ger√§ten, Maschinen und technischen Einrich
 
 6
 
-†
+
 
 - e) :: Maschinensteuerungen und Regelungsanlagen einstellen und bedienen
 - f) :: Ger√§te, Maschinen und technische Einrichtungen warten, Entsorgung von Betriebsstoffen veranlassen
 - g) :: St√∂rungen an Ger√§ten, Maschinen und technischen Einrichtungen erkennen, St√∂rungsbeseitigung veranlassen
 
-†
+
 
 2
 
@@ -355,14 +355,14 @@ Be- und Verarbeiten von Glas und Glaserzeugnissen und von lichtdurchl√§ssigen We
 
 26
 
-†
+
 
 - k) :: Glas und Glaserzeugnisse mit besonderen Eigenschaften einbauen, insbesondere W√§rmeschutz-, Feuchteschutz-, Schallschutz- und Sicherheitsgl√§ser
 - l) :: Spiegel und Spiegelw√§nde ein- und ausbauen
 - m) :: lichtdurchl√§ssige Werkstoffe ausw√§hlen, bearbeiten, ein- und ausbauen
 - n) :: Glassysteme zur Energiegewinnung einbauen und instand halten
 
-†
+
 
 7
 
@@ -380,7 +380,7 @@ Be- und Verarbeiten von Holz, Kunststoffen, Metallen und sonstigen Werkstoffen\\
 
 10
 
-†
+
 
 12
 
@@ -395,7 +395,7 @@ Verarbeiten von Dicht-, Kleb- und D√§mmstoffen\\
 
 8
 
-†
+
 
 13
 
@@ -406,12 +406,12 @@ Gestalten von Glas und Glaserzeugnissen\\
 
 2
 
-†
+
 
 - b) :: Schablonen und Modelle herstellen, Formen √ºbertragen
 - c) :: Oberfl√§chen gestalten
 
-†
+
 
 3
 
@@ -427,11 +427,11 @@ Einbauen von Bauelementen und Zubeh√∂rteilen\\
 
 11
 
-†
+
 
 - e) :: Zubeh√∂rteile, insbesondere sicherheitstechnische Komponenten einbauen, Funktion pr√ºfen sowie Zubeh√∂rteile warten
 
-†
+
 
 2
 
@@ -445,7 +445,7 @@ Instandsetzen von Bauelementen, Zubeh√∂rteilen und Glaskonstruktionen\\
 - c) :: Fehler und Sch√§den an Glaskonstruktionen hinsichtlich ihrer Ursachen und Auswirkungen beurteilen und dokumentieren
 - d) :: Instandsetzungs- und Erhaltungsarbeiten an Glaskonstruktionen vorbereiten, ausf√ºhren und dokumentieren
 
-†
+
 
 4
 
@@ -458,7 +458,7 @@ Restaurieren von Glaskonstruktionen und Bauelementen\\
 - b) :: Glaskonstruktionen und Bauelemente unter Beachtung der Bauart, des Baustils und des Designs sichern, ausbauen und kennzeichnen
 - c) :: Erg√§nzungen anfertigen und einf√ºgen, Arbeitsschritte dokumentieren
 
-†
+
 
 4
 
@@ -474,9 +474,9 @@ Qualit√§tssichernde Ma√ünahmen, Kundenorientierung\\
 
 3)*
 
-†
 
-†
+
+
 
 II. Fertigkeiten und Kenntnisse in den Fachrichtungen
 
@@ -493,7 +493,7 @@ Konstruktiver Glasbau, Spezialverglasungssysteme\\
 - d) :: Glaskonstruktionen f√ºr den Einbau ausrichten und unter Verwendung von Halteprofilen und Beschl√§gen einbauen
 - e) :: Glaskonstruktionen f√ºr Verklebungen ausrichten, fixieren, kleben, reinigen und Verklebungen pr√ºfen
 
-†
+
 
 14
 
@@ -502,7 +502,7 @@ Konstruktiver Glasbau, Spezialverglasungssysteme\\
 - h) :: Glaskonstruktionen und Glaskonstruktionsteile demontieren, Entsorgung veranlassen
 - i) :: Fahrzeuge und Ger√§te verglasen
 
-†
+
 
 8
 
@@ -518,7 +518,7 @@ Herstellen und Instandsetzen von Kunstverglasungen\\
 - e) :: Verglasungen unter Verwendung von Dekorfolien und Metallklebeb√§ndern herstellen
 - f) :: Glasobjekte im Fusingverfahren herstellen
 
-†
+
 
 8
 
@@ -532,7 +532,7 @@ Einrahmen von Bildern und veredelten Gl√§sern\\
 - c) :: Bilder aufziehen, spannen und einrahmen
 - d) :: veredeltes Glas einrahmen
 
-†
+
 
 8
 
@@ -546,11 +546,11 @@ Vorbereiten und Einbauen von Glasfassadenelementen\\
 - c) :: Unterkonstruktionen ausrichten und einbauen
 - d) :: Glasfassadenelemente einbauen und instand halten
 
-†
+
 
 14
 
-†
+
 
 B. Fachrichtung Fenster- und Glasfassadenbau
 
@@ -563,7 +563,7 @@ Herstellen von Fenster-, T√ºren- und Fassadenkonstruktionen\\
 - b) :: Aufrisse erstellen
 - c) :: Vorrichtungen und Lehren anfertigen und instand halten
 
-†
+
 
 10
 
@@ -571,7 +571,7 @@ Herstellen von Fenster-, T√ºren- und Fassadenkonstruktionen\\
 - e) :: Teile f√ºr Fenster-, T√ºren- und Fassadenkonstruktionen zusammenbauen
 - f) :: Beschl√§ge ausw√§hlen, einbauen und Funktion pr√ºfen
 
-†
+
 
 18
 
@@ -585,7 +585,7 @@ Behandeln von Oberfl√§chen\\
 - c) :: Oberfl√§chenbeschichtungsmittel und Hilfsstoffe lagern, ausw√§hlen und mischen, Reststoffe nach Betriebsanweisung entsorgen
 - d) :: Oberfl√§chen beschichten
 
-†
+
 
 10
 
@@ -599,10 +599,10 @@ Einbauen von Fenster-, T√ºren- und Fassadenkonstruktionen\\
 - c) :: Fenster-, T√ºren- und Fassadenkonstruktionen ausbauen, Entsorgung veranlassen
 - d) :: Instandhaltungs- und Instandsetzungsarbeiten durchf√ºhren
 
-†
+
 
 14
 
-†
+
 
 - *) :: Im Zusammenhang mit anderen im Ausbildungsrahmenplan aufgef√ºhrten Ausbildungsinhalten zu vermitteln.

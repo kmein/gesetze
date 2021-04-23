@@ -327,18 +327,18 @@ Anlage 2 - Regeldeckungssummen bei sonstigen radioaktiven Stoffen in Millionen E
 Fundstelle des Originaltextes: BGBl. I 2005, 2405
 \\
 \\
- 
+
 AktivitÃ¤ten, angegeben in Vielfachen der Freigrenzen nach Anlage 4 Tabelle 1 Spalte 2 der Strahlenschutzverordnung
 umschlossene radioaktive Stoffe
 offene radioaktive Stoffe
- 
+
 1
 2
 3
 1.
 hochradioaktive Strahlenquellen nach Â§ 4 Absatz 36 des Strahlenschutzgesetzes, soweit nicht unter Nummer 2 bis 12 in der Spalte 3 hÃ¶here Summen genannt sind
 0,05
- 
+
 2.
 vom 10 (hoch) 5fachen bis zum 10 (hoch) 6fachen
 0,05

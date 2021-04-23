@@ -18,9 +18,9 @@ Auf Grund des ¬ß 55 Abs. 3 und 4 und des ¬ß 123 Abs. 1 des Bewertungsgesetzes in
 
 (1) Die in der Anlage 1 festgesetzten Normalwerte gelten bei der Bewertung forstwirtschaftlicher Nutzungen, deren Gesamtfl√§che 30 ha √ºbersteigt.
 (2) F√ºr die Bewertung forstwirtschaftlicher Nutzungen, deren Gesamtfl√§che gr√∂√üer ist als 2 ha, jedoch 30 ha nicht √ºbersteigt, werden Normalwerte festgesetzt, die aus den in der Anlage 1 festgesetzten Normalwerten durch Abzug der folgenden Betr√§ge zu berechnen sind:\\
-†
+
 Holzart
-†
+
 Fichte
 Kiefer
 Pappel
@@ -42,10 +42,10 @@ IA 75
 115
 -
 -
-†
-†
-†
-†
+
+
+
+
 I
 110
 70
@@ -62,10 +62,10 @@ I 75
 95
 58
 111
-†
-†
-†
-†
+
+
+
+
 II
 90
 55
@@ -82,10 +82,10 @@ II 75
 75
 43
 86
-†
-†
-†
-†
+
+
+
+
 III
 70
 40
@@ -102,10 +102,10 @@ III 75
 55
 -
 -
-†
-†
-†
-†
+
+
+
+
 IV
 50
 -
@@ -171,25 +171,25 @@ Bewertungsgebiet
 
 2105
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
 
 Fichte
 
@@ -211,7 +211,7 @@ I,00
 
 1699
 
-†
+
 
 ¬†¬†25
 
@@ -231,7 +231,7 @@ I,00
 
 1538
 
-†
+
 
 ¬†¬†50
 
@@ -251,7 +251,7 @@ I,00
 
 1377
 
-†
+
 
 ¬†¬†75
 
@@ -271,27 +271,27 @@ I,00
 
 1216
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
 
 II,00
 
@@ -311,7 +311,7 @@ II,00
 
 1055
 
-†
+
 
 ¬†¬†25
 
@@ -331,7 +331,7 @@ II,00
 
 905
 
-†
+
 
 ¬†¬†50
 
@@ -351,7 +351,7 @@ II,00
 
 755
 
-†
+
 
 ¬†¬†75
 
@@ -371,27 +371,27 @@ II,00
 
 605
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
 
 III,00
 
@@ -411,7 +411,7 @@ III,00
 
 455
 
-†
+
 
 25
 
@@ -431,7 +431,7 @@ III,00
 
 329
 
-†
+
 
 50
 
@@ -451,7 +451,7 @@ III,00
 
 202
 
-†
+
 
 75
 
@@ -471,25 +471,25 @@ III,00
 
 76
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
 
 Kiefer
 
@@ -511,7 +511,7 @@ I,00
 
 450
 
-†
+
 
 25
 
@@ -531,7 +531,7 @@ I,00
 
 368
 
-†
+
 
 50
 
@@ -551,7 +551,7 @@ I,00
 
 285
 
-†
+
 
 75
 
@@ -571,27 +571,27 @@ I,00
 
 203
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
 
 II,00
 
@@ -611,7 +611,7 @@ II,00
 
 120
 
-†
+
 
 25
 
@@ -631,7 +631,7 @@ II,00
 
 65
 
-†
+
 
 50
 
@@ -651,7 +651,7 @@ II,00
 
 -
 
-†
+
 
 75
 
@@ -671,25 +671,25 @@ II,00
 
 -
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
 
 Pappel
 
@@ -711,7 +711,7 @@ I,00
 
 1442
 
-†
+
 
 25
 
@@ -731,7 +731,7 @@ I,00
 
 1326
 
-†
+
 
 50
 
@@ -751,7 +751,7 @@ I,00
 
 1211
 
-†
+
 
 75
 
@@ -771,27 +771,27 @@ I,00
 
 1095
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
 
 II,00
 
@@ -811,7 +811,7 @@ II,00
 
 979
 
-†
+
 
 25
 
@@ -831,7 +831,7 @@ II,00
 
 803
 
-†
+
 
 50
 
@@ -851,7 +851,7 @@ II,00
 
 626
 
-†
+
 
 75
 
@@ -871,27 +871,27 @@ II,00
 
 450
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
 
 III,00
 
@@ -942,33 +942,33 @@ Bewertungsgebiet
 
 3303
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Fichte
 
@@ -998,7 +998,7 @@ I,00
 
 1624
 
-†
+
 
 ¬†¬†25
 
@@ -1026,7 +1026,7 @@ I,00
 
 1453
 
-†
+
 
 ¬†¬†50
 
@@ -1054,7 +1054,7 @@ I,00
 
 1283
 
-†
+
 
 ¬†¬†75
 
@@ -1082,35 +1082,35 @@ I,00
 
 1113
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 II,00
 
@@ -1138,7 +1138,7 @@ II,00
 
 943
 
-†
+
 
 ¬†¬†25
 
@@ -1166,7 +1166,7 @@ II,00
 
 788
 
-†
+
 
 ¬†¬†50
 
@@ -1194,7 +1194,7 @@ II,00
 
 633
 
-†
+
 
 ¬†¬†75
 
@@ -1222,35 +1222,35 @@ II,00
 
 478
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 III,00
 
@@ -1278,7 +1278,7 @@ III,00
 
 323
 
-†
+
 
 25
 
@@ -1306,7 +1306,7 @@ III,00
 
 203
 
-†
+
 
 50
 
@@ -1334,7 +1334,7 @@ III,00
 
 84
 
-†
+
 
 75
 
@@ -1362,33 +1362,33 @@ III,00
 
 -
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Kiefer
 
@@ -1418,7 +1418,7 @@ I,00
 
 -
 
-†
+
 
 25
 
@@ -1446,7 +1446,7 @@ I,00
 
 -
 
-†
+
 
 50
 
@@ -1474,7 +1474,7 @@ I,00
 
 -
 
-†
+
 
 75
 
@@ -1502,35 +1502,35 @@ I,00
 
 -
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 II,00
 
@@ -1558,7 +1558,7 @@ II,00
 
 -
 
-†
+
 
 25
 
@@ -1586,7 +1586,7 @@ II,00
 
 -
 
-†
+
 
 50
 
@@ -1614,7 +1614,7 @@ II,00
 
 -
 
-†
+
 
 75
 
@@ -1642,33 +1642,33 @@ II,00
 
 -
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Pappel
 
@@ -1698,7 +1698,7 @@ I,00
 
 1409
 
-†
+
 
 25
 
@@ -1726,7 +1726,7 @@ I,00
 
 1303
 
-†
+
 
 50
 
@@ -1754,7 +1754,7 @@ I,00
 
 1197
 
-†
+
 
 75
 
@@ -1782,35 +1782,35 @@ I,00
 
 1052
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 II,00
 
@@ -1838,7 +1838,7 @@ II,00
 
 307
 
-†
+
 
 25
 
@@ -1866,7 +1866,7 @@ II,00
 
 728
 
-†
+
 
 50
 
@@ -1894,7 +1894,7 @@ II,00
 
 550
 
-†
+
 
 75
 
@@ -1922,35 +1922,35 @@ II,00
 
 373
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 III,00
 
@@ -2001,25 +2001,25 @@ Bewertungsgebiet
 
 4108
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
 
 Fichte
 
@@ -2041,7 +2041,7 @@ IA,00
 
 -
 
-†
+
 
 ¬†¬†25
 
@@ -2061,7 +2061,7 @@ IA,00
 
 -
 
-†
+
 
 ¬†¬†50
 
@@ -2081,7 +2081,7 @@ IA,00
 
 -
 
-†
+
 
 ¬†¬†75
 
@@ -2101,27 +2101,27 @@ IA,00
 
 -
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
 
 I,00
 
@@ -2141,7 +2141,7 @@ I,00
 
 1937
 
-†
+
 
 ¬†¬†25
 
@@ -2161,7 +2161,7 @@ I,00
 
 1751
 
-†
+
 
 ¬†¬†50
 
@@ -2181,7 +2181,7 @@ I,00
 
 1565
 
-†
+
 
 ¬†¬†75
 
@@ -2201,27 +2201,27 @@ I,00
 
 1379
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
 
 II,00
 
@@ -2241,7 +2241,7 @@ II,00
 
 1193
 
-†
+
 
 25
 
@@ -2261,7 +2261,7 @@ II,00
 
 1023
 
-†
+
 
 50
 
@@ -2281,7 +2281,7 @@ II,00
 
 858
 
-†
+
 
 75
 
@@ -2301,27 +2301,27 @@ II,00
 
 631
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
 
 III,00
 
@@ -2341,7 +2341,7 @@ III,00
 
 524
 
-†
+
 
 25
 
@@ -2361,7 +2361,7 @@ III,00
 
 384
 
-†
+
 
 50
 
@@ -2381,7 +2381,7 @@ III,00
 
 244
 
-†
+
 
 75
 
@@ -2401,25 +2401,25 @@ III,00
 
 104
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
 
 Kiefer
 
@@ -2441,7 +2441,7 @@ I,00
 
 331
 
-†
+
 
 25
 
@@ -2461,7 +2461,7 @@ I,00
 
 242
 
-†
+
 
 50
 
@@ -2481,7 +2481,7 @@ I,00
 
 152
 
-†
+
 
 75
 
@@ -2501,25 +2501,25 @@ I,00
 
 62
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
 
 Pappel
 
@@ -2541,7 +2541,7 @@ I,00
 
 429
 
-†
+
 
 25
 
@@ -2561,7 +2561,7 @@ I,00
 
 350
 
-†
+
 
 50
 
@@ -2581,7 +2581,7 @@ I,00
 
 272
 
-†
+
 
 75
 
@@ -2601,27 +2601,27 @@ I,00
 
 193
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
 
 II,00
 
@@ -2648,9 +2648,9 @@ Holzart und Ertragsklasse
 
 Bewertungsgebiet
 
-†
 
-†
+
+
 
 5101
 
@@ -2664,33 +2664,33 @@ Bewertungsgebiet
 
 6101
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
 
 Fichte
 
 IA,00
 
-†
 
-†
+
+
 
 2521
 
@@ -2704,13 +2704,13 @@ IA,00
 
 -
 
-†
+
 
 ¬†¬†25
 
-†
 
-†
+
+
 
 2336
 
@@ -2724,13 +2724,13 @@ IA,00
 
 -
 
-†
+
 
 ¬†¬†50
 
-†
 
-†
+
+
 
 2152
 
@@ -2744,13 +2744,13 @@ IA,00
 
 -
 
-†
+
 
 ¬†¬†75
 
-†
 
-†
+
+
 
 1968
 
@@ -2764,33 +2764,33 @@ IA,00
 
 -
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
 
 I,00
 
-†
 
-†
+
+
 
 1784
 
@@ -2804,13 +2804,13 @@ I,00
 
 1582
 
-†
+
 
 ¬†¬†25
 
-†
 
-†
+
+
 
 1614
 
@@ -2824,13 +2824,13 @@ I,00
 
 1409
 
-†
+
 
 ¬†¬†50
 
-†
 
-†
+
+
 
 1445
 
@@ -2844,13 +2844,13 @@ I,00
 
 1237
 
-†
+
 
 ¬†¬†75
 
-†
 
-†
+
+
 
 1276
 
@@ -2864,33 +2864,33 @@ I,00
 
 1064
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
 
 II,00
 
-†
 
-†
+
+
 
 1106
 
@@ -2904,13 +2904,13 @@ II,00
 
 892
 
-†
+
 
 25
 
-†
 
-†
+
+
 
 948
 
@@ -2924,13 +2924,13 @@ II,00
 
 729
 
-†
+
 
 50
 
-†
 
-†
+
+
 
 790
 
@@ -2944,13 +2944,13 @@ II,00
 
 567
 
-†
+
 
 75
 
-†
 
-†
+
+
 
 632
 
@@ -2964,33 +2964,33 @@ II,00
 
 404
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
 
 III,00
 
-†
 
-†
+
+
 
 473
 
@@ -3004,13 +3004,13 @@ III,00
 
 242
 
-†
+
 
 25
 
-†
 
-†
+
+
 
 342
 
@@ -3024,13 +3024,13 @@ III,00
 
 113
 
-†
+
 
 50
 
-†
 
-†
+
+
 
 211
 
@@ -3044,13 +3044,13 @@ III,00
 
 -
 
-†
+
 
 75
 
-†
 
-†
+
+
 
 69
 
@@ -3064,33 +3064,33 @@ III,00
 
 -
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
 
 Kiefer
 
 I,00
 
-†
 
-†
+
+
 
 344
 
@@ -3104,13 +3104,13 @@ I,00
 
 269
 
-†
+
 
 25
 
-†
 
-†
+
+
 
 260
 
@@ -3124,13 +3124,13 @@ I,00
 
 191
 
-†
+
 
 50
 
-†
 
-†
+
+
 
 176
 
@@ -3144,13 +3144,13 @@ I,00
 
 114
 
-†
+
 
 75
 
-†
 
-†
+
+
 
 92
 
@@ -3164,33 +3164,33 @@ I,00
 
 -
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
 
 II,00
 
-†
 
-†
+
+
 
 -
 
@@ -3204,13 +3204,13 @@ II,00
 
 -
 
-†
+
 
 25
 
-†
 
-†
+
+
 
 -
 
@@ -3224,13 +3224,13 @@ II,00
 
 -
 
-†
+
 
 50
 
-†
 
-†
+
+
 
 -
 
@@ -3244,13 +3244,13 @@ II,00
 
 -
 
-†
+
 
 75
 
-†
 
-†
+
+
 
 -
 
@@ -3264,33 +3264,33 @@ II,00
 
 -
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
 
 Pappel
 
 I,00
 
-†
 
-†
+
+
 
 973
 
@@ -3304,13 +3304,13 @@ I,00
 
 -
 
-†
+
 
 25
 
-†
 
-†
+
+
 
 862
 
@@ -3324,13 +3324,13 @@ I,00
 
 -
 
-†
+
 
 50
 
-†
 
-†
+
+
 
 752
 
@@ -3344,13 +3344,13 @@ I,00
 
 -
 
-†
+
 
 75
 
-†
 
-†
+
+
 
 642
 
@@ -3364,33 +3364,33 @@ I,00
 
 -
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
 
 II,00
 
-†
 
-†
+
+
 
 532
 
@@ -3404,13 +3404,13 @@ II,00
 
 -
 
-†
+
 
 25
 
-†
 
-†
+
+
 
 378
 
@@ -3424,13 +3424,13 @@ II,00
 
 -
 
-†
+
 
 50
 
-†
 
-†
+
+
 
 224
 
@@ -3444,13 +3444,13 @@ II,00
 
 -
 
-†
+
 
 75
 
-†
 
-†
+
+
 
 70
 
@@ -3471,7 +3471,7 @@ Holzart und Ertragsklasse
 
 Bewertungsgebiet
 
-†
+
 
 7101
 
@@ -3487,31 +3487,31 @@ Bewertungsgebiet
 
 7107
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
 
 Fichte
 
 IA,00
 
-†
+
 
 3910
 
@@ -3527,11 +3527,11 @@ IA,00
 
 2508
 
-†
+
 
 ¬†¬†25
 
-†
+
 
 2701
 
@@ -3547,11 +3547,11 @@ IA,00
 
 2319
 
-†
+
 
 ¬†¬†50
 
-†
+
 
 2491
 
@@ -3567,11 +3567,11 @@ IA,00
 
 2131
 
-†
+
 
 ¬†¬†75
 
-†
+
 
 2282
 
@@ -3587,31 +3587,31 @@ IA,00
 
 1942
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
 
 I,00
 
-†
+
 
 2073
 
@@ -3627,11 +3627,11 @@ I,00
 
 1754
 
-†
+
 
 ¬†¬†25
 
-†
+
 
 1870
 
@@ -3647,11 +3647,11 @@ I,00
 
 1571
 
-†
+
 
 ¬†¬†50
 
-†
+
 
 1666
 
@@ -3667,11 +3667,11 @@ I,00
 
 1388
 
-†
+
 
 ¬†¬†75
 
-†
+
 
 1463
 
@@ -3687,31 +3687,31 @@ I,00
 
 1205
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
 
 II,00
 
-†
+
 
 1260
 
@@ -3727,11 +3727,11 @@ II,00
 
 1022
 
-†
+
 
 25
 
-†
+
 
 1083
 
@@ -3747,11 +3747,11 @@ II,00
 
 862
 
-†
+
 
 50
 
-†
+
 
 906
 
@@ -3767,11 +3767,11 @@ II,00
 
 701
 
-†
+
 
 75
 
-†
+
 
 730
 
@@ -3787,31 +3787,31 @@ II,00
 
 541
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
 
 III,00
 
-†
+
 
 553
 
@@ -3827,11 +3827,11 @@ III,00
 
 381
 
-†
+
 
 25
 
-†
+
 
 399
 
@@ -3847,11 +3847,11 @@ III,00
 
 239
 
-†
+
 
 50
 
-†
+
 
 244
 
@@ -3867,11 +3867,11 @@ III,00
 
 97
 
-†
+
 
 75
 
-†
+
 
 90
 
@@ -3887,31 +3887,31 @@ III,00
 
 -
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
 
 Kiefer
 
 I,00
 
-†
+
 
 642
 
@@ -3927,11 +3927,11 @@ I,00
 
 335
 
-†
+
 
 25
 
-†
+
 
 515
 
@@ -3947,11 +3947,11 @@ I,00
 
 238
 
-†
+
 
 50
 
-†
+
 
 387
 
@@ -3967,11 +3967,11 @@ I,00
 
 140
 
-†
+
 
 75
 
-†
+
 
 260
 
@@ -3987,31 +3987,31 @@ I,00
 
 -
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
 
 II,00
 
-†
+
 
 133
 
@@ -4027,11 +4027,11 @@ II,00
 
 -
 
-†
+
 
 25
 
-†
+
 
 -
 
@@ -4047,11 +4047,11 @@ II,00
 
 -
 
-†
+
 
 50
 
-†
+
 
 -
 
@@ -4067,11 +4067,11 @@ II,00
 
 -
 
-†
+
 
 75
 
-†
+
 
 -
 
@@ -4087,31 +4087,31 @@ II,00
 
 -
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
 
 Pappel
 
 I,00
 
-†
+
 
 -
 
@@ -4127,11 +4127,11 @@ I,00
 
 1486
 
-†
+
 
 25
 
-†
+
 
 -
 
@@ -4147,11 +4147,11 @@ I,00
 
 1346
 
-†
+
 
 50
 
-†
+
 
 -
 
@@ -4167,11 +4167,11 @@ I,00
 
 1206
 
-†
+
 
 75
 
-†
+
 
 -
 
@@ -4187,31 +4187,31 @@ I,00
 
 1066
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
 
 II,00
 
-†
+
 
 -
 
@@ -4227,11 +4227,11 @@ II,00
 
 926
 
-†
+
 
 25
 
-†
+
 
 -
 
@@ -4247,11 +4247,11 @@ II,00
 
 725
 
-†
+
 
 50
 
-†
+
 
 -
 
@@ -4267,11 +4267,11 @@ II,00
 
 524
 
-†
+
 
 75
 
-†
+
 
 -
 
@@ -4287,31 +4287,31 @@ II,00
 
 324
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
 
 III,00
 
-†
+
 
 -
 
@@ -4356,31 +4356,31 @@ Bewertungsgebiet
 
 7306
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Fichte
 
@@ -4408,7 +4408,7 @@ IA,00
 
 2953
 
-†
+
 
 ¬†¬†25
 
@@ -4434,7 +4434,7 @@ IA,00
 
 2744
 
-†
+
 
 ¬†¬†50
 
@@ -4460,7 +4460,7 @@ IA,00
 
 2536
 
-†
+
 
 ¬†¬†75
 
@@ -4486,33 +4486,33 @@ IA,00
 
 2328
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 I,00
 
@@ -4538,7 +4538,7 @@ I,00
 
 2120
 
-†
+
 
 ¬†¬†25
 
@@ -4564,7 +4564,7 @@ I,00
 
 1924
 
-†
+
 
 ¬†¬†50
 
@@ -4590,7 +4590,7 @@ I,00
 
 1729
 
-†
+
 
 ¬†¬†75
 
@@ -4616,33 +4616,33 @@ I,00
 
 1534
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 II,00
 
@@ -4668,7 +4668,7 @@ II,00
 
 1339
 
-†
+
 
 25
 
@@ -4694,7 +4694,7 @@ II,00
 
 1169
 
-†
+
 
 50
 
@@ -4720,7 +4720,7 @@ II,00
 
 999
 
-†
+
 
 75
 
@@ -4746,33 +4746,33 @@ II,00
 
 829
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 III,00
 
@@ -4798,7 +4798,7 @@ III,00
 
 659
 
-†
+
 
 25
 
@@ -4824,7 +4824,7 @@ III,00
 
 516
 
-†
+
 
 50
 
@@ -4850,7 +4850,7 @@ III,00
 
 374
 
-†
+
 
 75
 
@@ -4876,33 +4876,33 @@ III,00
 
 231
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 IV,00
 
@@ -4928,31 +4928,31 @@ IV,00
 
 89
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Kiefer
 
@@ -4980,7 +4980,7 @@ I,00
 
 639
 
-†
+
 
 25
 
@@ -5006,7 +5006,7 @@ I,00
 
 526
 
-†
+
 
 50
 
@@ -5032,7 +5032,7 @@ I,00
 
 413
 
-†
+
 
 75
 
@@ -5058,33 +5058,33 @@ I,00
 
 300
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 II,00
 
@@ -5110,7 +5110,7 @@ II,00
 
 187
 
-†
+
 
 25
 
@@ -5136,7 +5136,7 @@ II,00
 
 140
 
-†
+
 
 50
 
@@ -5162,31 +5162,31 @@ II,00
 
 94
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Pappel
 
@@ -5214,7 +5214,7 @@ I,00
 
 -
 
-†
+
 
 25
 
@@ -5240,7 +5240,7 @@ I,00
 
 -
 
-†
+
 
 50
 
@@ -5266,7 +5266,7 @@ I,00
 
 -
 
-†
+
 
 75
 
@@ -5292,33 +5292,33 @@ I,00
 
 -
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 II,00
 
@@ -5344,7 +5344,7 @@ II,00
 
 -
 
-†
+
 
 25
 
@@ -5370,7 +5370,7 @@ II,00
 
 -
 
-†
+
 
 50
 
@@ -5423,29 +5423,29 @@ Bewertungsgebiet
 
 8110
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
+
 
 Fichte
 
@@ -5471,7 +5471,7 @@ IA,00
 
 3064
 
-†
+
 
 ¬†¬†25
 
@@ -5495,7 +5495,7 @@ IA,00
 
 2844
 
-†
+
 
 ¬†¬†50
 
@@ -5519,7 +5519,7 @@ IA,00
 
 2624
 
-†
+
 
 ¬†¬†75
 
@@ -5543,31 +5543,31 @@ IA,00
 
 2404
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 I,00
 
@@ -5591,7 +5591,7 @@ I,00
 
 2184
 
-†
+
 
 ¬†¬†25
 
@@ -5615,7 +5615,7 @@ I,00
 
 1966
 
-†
+
 
 ¬†¬†50
 
@@ -5639,7 +5639,7 @@ I,00
 
 1747
 
-†
+
 
 ¬†¬†75
 
@@ -5663,31 +5663,31 @@ I,00
 
 1528
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 II,00
 
@@ -5711,7 +5711,7 @@ II,00
 
 1309
 
-†
+
 
 25
 
@@ -5735,7 +5735,7 @@ II,00
 
 1124
 
-†
+
 
 50
 
@@ -5759,7 +5759,7 @@ II,00
 
 938
 
-†
+
 
 75
 
@@ -5783,31 +5783,31 @@ II,00
 
 752
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 III,00
 
@@ -5831,7 +5831,7 @@ III,00
 
 566
 
-†
+
 
 25
 
@@ -5855,7 +5855,7 @@ III,00
 
 417
 
-†
+
 
 50
 
@@ -5879,7 +5879,7 @@ III,00
 
 268
 
-†
+
 
 75
 
@@ -5903,31 +5903,31 @@ III,00
 
 119
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 IV,00
 
@@ -5951,29 +5951,29 @@ IV,00
 
 -
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
+
 
 Kiefer
 
@@ -5999,7 +5999,7 @@ I,00
 
 845
 
-†
+
 
 25
 
@@ -6023,7 +6023,7 @@ I,00
 
 710
 
-†
+
 
 50
 
@@ -6047,7 +6047,7 @@ I,00
 
 575
 
-†
+
 
 75
 
@@ -6071,31 +6071,31 @@ I,00
 
 440
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 II,00
 
@@ -6119,7 +6119,7 @@ II,00
 
 304
 
-†
+
 
 25
 
@@ -6143,7 +6143,7 @@ II,00
 
 209
 
-†
+
 
 50
 
@@ -6167,7 +6167,7 @@ II,00
 
 114
 
-†
+
 
 75
 
@@ -6191,29 +6191,29 @@ II,00
 
 -
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
+
 
 \\
 \\
@@ -6240,27 +6240,27 @@ Bewertungsgebiet
 
 8209
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
 
 Fichte
 
@@ -6284,7 +6284,7 @@ IA,00
 
 -
 
-†
+
 
 ¬†¬†25
 
@@ -6306,7 +6306,7 @@ IA,00
 
 -
 
-†
+
 
 ¬†¬†50
 
@@ -6328,7 +6328,7 @@ IA,00
 
 -
 
-†
+
 
 ¬†¬†75
 
@@ -6350,29 +6350,29 @@ IA,00
 
 -
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
+
 
 I,00
 
@@ -6394,7 +6394,7 @@ I,00
 
 1167
 
-†
+
 
 ¬†¬†25
 
@@ -6416,7 +6416,7 @@ I,00
 
 1007
 
-†
+
 
 ¬†¬†50
 
@@ -6438,7 +6438,7 @@ I,00
 
 846
 
-†
+
 
 ¬†¬†75
 
@@ -6460,29 +6460,29 @@ I,00
 
 686
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
+
 
 II,00
 
@@ -6504,7 +6504,7 @@ II,00
 
 526
 
-†
+
 
 25
 
@@ -6526,7 +6526,7 @@ II,00
 
 392
 
-†
+
 
 50
 
@@ -6548,7 +6548,7 @@ II,00
 
 257
 
-†
+
 
 75
 
@@ -6570,29 +6570,29 @@ II,00
 
 123
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
+
 
 III,00
 
@@ -6614,7 +6614,7 @@ III,00
 
 -
 
-†
+
 
 25
 
@@ -6636,7 +6636,7 @@ III,00
 
 -
 
-†
+
 
 50
 
@@ -6658,7 +6658,7 @@ III,00
 
 -
 
-†
+
 
 75
 
@@ -6680,29 +6680,29 @@ III,00
 
 -
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
+
 
 IV,00
 
@@ -6724,27 +6724,27 @@ IV,00
 
 -
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
 
 Kiefer
 
@@ -6768,7 +6768,7 @@ I,00
 
 -
 
-†
+
 
 25
 
@@ -6790,7 +6790,7 @@ I,00
 
 -
 
-†
+
 
 50
 
@@ -6812,7 +6812,7 @@ I,00
 
 -
 
-†
+
 
 75
 
@@ -6834,29 +6834,29 @@ I,00
 
 -
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
+
 
 II,00
 
@@ -6878,7 +6878,7 @@ II,00
 
 -
 
-†
+
 
 25
 
@@ -6900,7 +6900,7 @@ II,00
 
 -
 
-†
+
 
 50
 
@@ -6922,7 +6922,7 @@ II,00
 
 -
 
-†
+
 
 75
 
@@ -6944,29 +6944,29 @@ II,00
 
 -
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
+
 
 III,00
 
@@ -6988,27 +6988,27 @@ III,00
 
 -
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
 
 Pappel
 
@@ -7032,7 +7032,7 @@ I,00
 
 -
 
-†
+
 
 25
 
@@ -7054,7 +7054,7 @@ I,00
 
 -
 
-†
+
 
 50
 
@@ -7076,7 +7076,7 @@ I,00
 
 -
 
-†
+
 
 75
 
@@ -7098,29 +7098,29 @@ I,00
 
 -
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
+
 
 II,00
 
@@ -7142,7 +7142,7 @@ II,00
 
 -
 
-†
+
 
 25
 
@@ -7164,7 +7164,7 @@ II,00
 
 -
 
-†
+
 
 50
 
@@ -7186,7 +7186,7 @@ II,00
 
 -
 
-†
+
 
 75
 
@@ -7208,29 +7208,29 @@ II,00
 
 -
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
+
 
 III,00
 
@@ -7261,35 +7261,35 @@ Bewertungsgebiet
 
 9101
 
-†
 
-†
+
+
 
 10101
 
-†
 
-†
+
+
 
 11101
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
 
 Fichte
 
@@ -7297,269 +7297,269 @@ I,00
 
 1700
 
-†
 
-†
+
+
 
 1699
 
-†
 
-†
+
+
 
 1445
 
-†
+
 
 ¬†¬†25
 
 1538
 
-†
 
-†
+
+
 
 1538
 
-†
 
-†
+
+
 
 1299
 
-†
+
 
 ¬†¬†50
 
 1377
 
-†
 
-†
+
+
 
 1377
 
-†
 
-†
+
+
 
 1153
 
-†
+
 
 ¬†¬†75
 
 1216
 
-†
 
-†
+
+
 
 1216
 
-†
 
-†
+
+
 
 1006
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
 
 II,00
 
 1055
 
-†
 
-†
+
+
 
 1055
 
-†
 
-†
+
+
 
 860
 
-†
+
 
 25
 
 906
 
-†
 
-†
+
+
 
 905
 
-†
 
-†
+
+
 
 723
 
-†
+
 
 50
 
 758
 
-†
 
-†
+
+
 
 755
 
-†
 
-†
+
+
 
 586
 
-†
+
 
 75
 
 610
 
-†
 
-†
+
+
 
 605
 
-†
 
-†
+
+
 
 449
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
 
 III,00
 
 462
 
-†
 
-†
+
+
 
 455
 
-†
 
-†
+
+
 
 312
 
-†
+
 
 25
 
 339
 
-†
 
-†
+
+
 
 329
 
-†
 
-†
+
+
 
 193
 
-†
+
 
 50
 
 217
 
-†
 
-†
+
+
 
 202
 
-†
 
-†
+
+
 
 73
 
-†
+
 
 75
 
 95
 
-†
 
-†
+
+
 
 76
 
-†
 
-†
+
+
 
 -
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
 
 Kiefer
 
@@ -7567,179 +7567,179 @@ I,00
 
 569
 
-†
 
-†
+
+
 
 647
 
-†
 
-†
+
+
 
 477
 
-†
+
 
 25
 
 473
 
-†
 
-†
+
+
 
 552
 
-†
 
-†
+
+
 
 386
 
-†
+
 
 50
 
 377
 
-†
 
-†
+
+
 
 457
 
-†
 
-†
+
+
 
 294
 
-†
+
 
 75
 
 281
 
-†
 
-†
+
+
 
 362
 
-†
 
-†
+
+
 
 202
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
 
 II,00
 
 185
 
-†
 
-†
+
+
 
 266
 
-†
 
-†
+
+
 
 110
 
-†
+
 
 25
 
 123
 
-†
 
-†
+
+
 
 199
 
-†
 
-†
+
+
 
 -
 
-†
+
 
 50
 
 61
 
-†
 
-†
+
+
 
 132
 
-†
 
-†
+
+
 
 -
 
-†
+
 
 75
 
 -
 
-†
 
-†
+
+
 
 65
 
-†
 
-†
+
+
 
 -
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
 
 Pappel
 
@@ -7747,195 +7747,195 @@ I,00
 
 -
 
-†
 
-†
 
-1442
 
-†
-
-†
 
 1442
 
-†
+
+
+
+
+1442
+
+
 
 25
 
 -
 
-†
 
-†
 
-1326
 
-†
-
-†
 
 1326
 
-†
+
+
+
+
+1326
+
+
 
 50
 
 -
 
-†
 
-†
 
-1211
 
-†
-
-†
 
 1211
 
-†
+
+
+
+
+1211
+
+
 
 75
 
 -
 
-†
 
-†
 
-1095
 
-†
-
-†
 
 1095
 
-†
 
-†
 
-†
 
-†
 
-†
+1095
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 II,00
 
 -
 
-†
 
-†
 
-979
 
-†
-
-†
 
 979
 
-†
+
+
+
+
+979
+
+
 
 25
 
 -
 
-†
 
-†
 
-803
 
-†
-
-†
 
 803
 
-†
+
+
+
+
+803
+
+
 
 50
 
 -
 
-†
 
-†
 
-626
 
-†
-
-†
 
 626
 
-†
+
+
+
+
+626
+
+
 
 75
 
 -
 
-†
 
-†
 
-450
 
-†
-
-†
 
 450
 
-†
 
-†
 
-†
 
-†
 
-†
+450
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 III,00
 
 -
 
-†
 
-†
+
+
 
 274
 
-†
 
-†
+
+
 
 274
 
@@ -7950,225 +7950,225 @@ Oberfinanzdirektion: Kiel
 Bewertungsgebiet 1101 besteht aus den Finanzamtsbezirken
 Leck
 mit allen Gemeinden
-†
+
 Flensburg
 mit allen Gemeinden
-†
+
 Husum
 mit allen Gemeinden
-†
+
 Schleswig
 mit allen Gemeinden
-†
+
 Eckernf√∂rde
 mit allen Gemeinden
-†
+
 Heide
 mit allen Gemeinden
-†
+
 Meldorf
 mit allen Gemeinden
-†
+
 Bewertungsgebiet 1102 besteht aus den Finanzamtsbezirken
 Kiel
 mit allen Gemeinden
-†
+
 Rendsburg
 mit allen Gemeinden
-†
+
 Neum√ºnster
 mit allen Gemeinden
-†
+
 Pl√∂n
 mit allen Gemeinden
-†
+
 Eutin
 mit allen Gemeinden
-†
+
 Oldenburg/Holst.
 mit allen Gemeinden
-†
+
 Itzehoe
 mit allen Gemeinden
-†
+
 Bad Segeberg
 mit allen Gemeinden
-†
+
 Bewertungsgebiet 1103 besteht aus den Finanzamtsbezirken
 Elmshorn
 mit allen Gemeinden
-†
+
 Stormarn
 mit allen Gemeinden
-†
+
 L√ºbeck
 mit allen Gemeinden
-†
+
 Ratzeburg
 mit allen Gemeinden
-†
+
 2.
 Land Niedersachsen
 Oberfinanzdirektion: Hannover
 Bewertungsgebiet 2101 besteht aus den Finanzamtsbezirken
 Cuxhaven
 mit allen Gemeinden
-†
+
 Otterndorf
 mit allen Gemeinden
-†
+
 Stade
 mit allen Gemeinden:
 Assel, Balje, Breitenwisch, B√ºtzfleth, Drochtersen, Engelschoff, Freiburg (Elbe), Gro√üenw√∂rden, Gro√ü Sterneberg, H√ºll, Krummendeich, Neuland, Oederquart, Sch√∂lisch und Wischhafen
 Weserm√ºnde-Land
 mit allen Gemeinden
-†
+
 Aurich
 mit allen Gemeinden
-†
+
 Emden
 mit allen Gemeinden
-†
+
 Jever
 mit allen Gemeinden
-†
+
 Leer
 mit allen Gemeinden
-†
+
 Norden
 mit allen Gemeinden
-†
+
 Nordenham
 mit allen Gemeinden
-†
+
 Wilhelmshaven
 mit allen Gemeinden
-†
+
 Wittmund
 mit allen Gemeinden
-†
+
 Bewertungsgebiet 2102 besteht aus den Finanzamtsbezirken Buchholz
 i. d. Nordheide
 mit allen Gemeinden
-†
+
 Burgdorf (Han)
 mit allen Gemeinden
-†
+
 Celle
 mit allen Gemeinden
-†
+
 Gifhorn
 ohne die bei 2104 aufgef√ºhrten Gemeinden
 L√ºneburg
 ohne die bei 2104 aufgef√ºhrten Gemeinden
 Nienburg (Weser)
 mit allen Gemeinden
-†
+
 Osterholz-Scharmbeck
 mit allen Gemeinden
-†
+
 Rotenburg (Han)
 mit allen Gemeinden
-†
+
 Soltau (Han)
 mit allen Gemeinden
-†
+
 Stade
 ohne die bei 2101 aufgef√ºhrten Gemeinden
 Sulingen
 mit allen Gemeinden
-†
+
 Syke
 mit allen Gemeinden
-†
+
 Uelzen (Han)
 ohne die bei 2104 aufgef√ºhrten Gemeinden
 Verden (Aller)
 mit allen Gemeinden
-†
+
 Winsen (Luhe)
 mit allen Gemeinden
-†
+
 Zeven (Bez. Bremen)
 mit allen Gemeinden
-†
+
 Cloppenburg
 mit allen Gemeinden
-†
+
 Delmenhorst
 mit allen Gemeinden
-†
+
 Oldenburg (Oldbg)
 mit allen Gemeinden
-†
+
 Osnabr√ºck-Land
 mit allen Gemeinden
-†
+
 Osnabr√ºck-Stadt
 mit allen Gemeinden
-†
+
 Quakenbr√ºck
 mit allen Gemeinden
-†
+
 Vechta
 mit allen Gemeinden
-†
+
 Westerstede
 mit allen Gemeinden
-†
+
 Bewertungsgebiet 2103 besteht aus den Finanzamtsbezirken
 Alfeld (Leine)
 mit allen Gemeinden
-†
+
 Bad Gandersheim
 ohne die bei 2104 aufgef√ºhrten Gemeinden
 Braunschweig-Land
 ohne die bei 2104 aufgef√ºhrten Gemeinden
 Braunschweig-Stadt
 mit allen Gemeinden
-†
+
 G√∂ttingen
 ohne die bei 2104 aufgef√ºhrten Gemeinden
 Hameln
 mit allen Gemeinden
-†
+
 Hannover-Land
 mit allen Gemeinden
-†
+
 Hannover-Mitte
 mit allen Gemeinden
-†
+
 Hannover-Nord
 mit allen Gemeinden
-†
+
 Hannover-S√ºd
 mit allen Gemeinden
-†
+
 Hann. M√ºnden
 mit allen Gemeinden
-†
+
 Herzberg am Harz
 ohne die bei 2104 aufgef√ºhrten Gemeinden
 Hildesheim
 mit allen Gemeinden
-†
+
 Holzminden
 mit allen Gemeinden
-†
+
 Northeim
 ohne die bei 2104 aufgef√ºhrten Gemeinden
 Peine
 mit allen Gemeinden
-†
+
 Rinteln
 mit allen Gemeinden
-†
+
 Springe (Deister)
 mit allen Gemeinden
-†
+
 Stadthagen
 mit allen Gemeinden
-†
+
 Bewertungsgebiet 2104 besteht aus den Finanzamtsbezirken
 Bad Gandersheim
 mit den Gemeinden:
@@ -8184,16 +8184,16 @@ mit den Gemeinden:
 Ballenhausen, Beienrode, Benniehausen, Bischhausen, B√∂singhausen, Bremke, Diemarden, Eberg√∂tzen, Etzenborn, Falkenhagen, Friedland, Gelliehausen, Gro√ü Lengden, Gro√ü Schneen, Holzerode, Ischenrode, Kerstlingerode, Klein Lengden, Landolfshausen, Lichtenhagen, Ludolfshausen, Mackenrode, Niedergandern, Potzwenden, Reckershausen, Reiffenhausen, Reinhausen, Rittmarshausen, Sattenhausen, Waake, Wei√üenborn, W√∂llmershausen
 Goslar
 mit allen Gemeinden
-†
+
 Helmstedt
 mit allen Gemeinden
-†
+
 Herzberg am Harz
 mit den Gemeinden:
 Barbis, Bartolfelde, Elbingerode, Hattorf am Harz, Herzberg am Harz-Stadt, H√∂rden, Lasfelde, Lauterberg am Harz-Stadt, L√ºtgenhausen, Osterhagen, Petersh√ºtte, P√∂hlde, Sachsa Bad-Stadt, Scharzfeld, Schwiegershausen, Steina, Tettenborn, Wollershausen, Wulften, Bad Grund, Lerbach, Lonau, Sieber, St. Andreasberg
 L√ºchow
 mit allen Gemeinden
-†
+
 L√ºneburg
 mit den Gemeinden:
 Ahndorf, Alt Garge, Barf√∂rde, Barskamp, Bavendorf, Bleckede-Stadt, Boitze, Boltersen, Brackede, Breetze, Buendorf, Dahlem, Dahlenburg, D√ºbbekold, Eimstorf, Ellringen, Garlstorf, Garze, Gienau, G√∂ddingen, Harmstorf, Hittbergen, Holzen, J√ºrgenstorf, Karze, Katemin, K√∂storf, Kovahl, Lemgrabe, L√ºdersburg, M√ºcklingen, Nahrendorf, Neetze, Neetzendorf, Oldendorf an der G√∂hrde, Pommoissel, Radegast, Radenbeck, Rosenthal, Seedorf, S√ºttorf, Thomasburg, Tosterglope, Ventschau, Walmsburg, Wendewisch
@@ -8204,17 +8204,17 @@ mit den Gemeinden:
 Almstorf, Bankewitz, Batensen, Bockholt, Bodenteich, Boecke, Bollensen, Bomke, Borg, Brockhimbergen, Bruchwedel, Dallahn, Dalldorf, D√∂rmte, Drohe, Ellenberg, Emern, Flinten, G√∂denstedt, Grabau, Gro√ü Malchau, Gro√ü Thondorf, G√ºstau, H√§cklingen, Hagen, Heuerstorf, Himbergen, Hohenweddrien, Hohenzethen, Jarlitz, Kahlstorf, Kattien, Katzien, Kettelstorf, Klein Thondorf, K√∂lau, K√∂nau, Kroetze, Langenbr√ºgge, L√ºder, Meu√ülie√üen, Molbath, M√ºssingen, Nateln, Nestau, Nettelkamp, N√∂venthien, Ostedt, Polau, Reddien, Reinstorf, R√∂hrsen, Rohrstorf, Rosche, Schafwedel, Schlieckau, Schm√∂lau, Schostorf, Schwemlitz, Soltendieck, Stoetze, Strohte, St√ºtensen, S√ºttorf, Suhlendorf, Testorf, Teyendorf, Thielitz, Wellendorf, Weste, Wieren, Zarenthien
 Wolfenb√ºttel
 mit allen Gemeinden
-†
+
 Bewertungsgebiet 2105 besteht aus den Finanzamtsbezirken
 Aschendorf (H√ºmmling)
 mit allen Gemeinden
-†
+
 Bentheim
 mit allen Gemeinden
-†
+
 Lingen
 mit allen Gemeinden
-†
+
 3.
 Land: Nordrhein-Westfalen
 Oberfinanzdirektion: M√ºnster
@@ -8228,20 +8228,20 @@ mit den Gemeinden:
 Kallenhardt, Suttrop
 Meschede
 mit allen Gemeinden
-†
+
 Olpe
 mit allen Gemeinden
-†
+
 Siegen
 mit allen Gemeinden
-†
+
 Soest
 mit den Gemeinden:
 Delecke, G√ºnne (M√∂hnesee), H√∂ingen, H√ºnningen, K√∂rbecke, L√ºttringen, Niederense, Parsit, Stockum, V√∂llinghausen (M√∂hnesee), Wamel (M√∂hnesee), Westrich
 Bewertungsgebiet 3102 besteht aus den Finanzamtsbezirken
 Altena
 mit allen Gemeinden
-†
+
 Arnsberg
 mit den Gemeinden:
 Affeln, Allendorf, Altenaffeln, Amecke (Sorpesee), Balve, Beckum, Blintrop, Garbeck, K√ºntrop, Langenholthausen, Mellen, Volkringhausen
@@ -8250,64 +8250,64 @@ mit der Gemeinde:
 Heessen
 Bochum
 mit allen Gemeinden
-†
+
 Bottrop
 mit allen Gemeinden
-†
+
 Dortmund-Au√üenstadt
 mit allen Gemeinden
-†
+
 Dortmund-H√∂rde
 mit allen Gemeinden
-†
+
 Dortmund-Nord
 mit allen Gemeinden
-†
+
 Dortmund-S√ºd
 mit allen Gemeinden
-†
+
 Gelsenkirchen-Nord
 mit allen Gemeinden
-†
+
 Gelsenkirchen-S√ºd
 mit allen Gemeinden
-†
+
 Gladbeck
 mit allen Gemeinden
-†
+
 Hagen
 mit allen Gemeinden
-†
+
 Hamm
 mit allen Gemeinden
-†
+
 Hattingen
 mit allen Gemeinden
-†
+
 Herne
 mit allen Gemeinden
-†
+
 Iserlohn
 mit allen Gemeinden
-†
+
 L√ºdenscheid
 mit allen Gemeinden
-†
+
 L√ºdinghausen
 mit den Gemeinden:
 Altl√ºnen, Bockum-H√∂vel, Bork, Olfen-Stadt und -Kspl. Selm, Stockum, Werne a. d. Lippe
 Recklinghausen
 mit allen Gemeinden
-†
+
 Schwelm
 mit allen Gemeinden
-†
+
 Wanne-Eickel
 mit allen Gemeinden
-†
+
 Witten
 mit allen Gemeinden
-†
+
 Bewertungsgebiet 3103 besteht aus den Finanzamtsbezirken
 Beckum
 ohne die Gemeinde:
@@ -8322,7 +8322,7 @@ H√∂xter
 ohne die bei 3106 aufgef√ºhrten Gemeinden
 Ibbenb√ºren
 mit allen Gemeinden
-†
+
 Lippstadt
 ohne die Gemeinden:
 Kallenhardt, Suttrop
@@ -8332,36 +8332,36 @@ Soest
 ohne die bei 3101 aufgef√ºhrten Gemeinden
 Warburg
 mit allen Gemeinden
-†
+
 Warendorf
 ohne die bei 3105 aufgef√ºhrten Gemeinden
 Bewertungsgebiet 3104 besteht aus den Finanzamtsbezirken
 Ahaus
 mit allen Gemeinden
-†
+
 Borken
 mit allen Gemeinden
-†
+
 Burgsteinfurt
 mit allen Gemeinden
-†
+
 Coesfeld
 mit allen Gemeinden
-†
+
 L√ºdinghausen
 ohne die bei 3102 aufgef√ºhrten Gemeinden
 M√ºnster-Land
 mit allen Gemeinden
-†
+
 M√ºnster-Stadt
 mit allen Gemeinden
-†
+
 Bewertungsgebiet 3105 besteht aus den Finanzamtsbezirken
 Bielefeld-Land
 ohne die bei 3106 aufgef√ºhrten Gemeinden
 Bielefeld-Stadt
 mit allen Gemeinden
-†
+
 Detmold
 mit den Gemeinden:
 Augustdorf, Helpup, H√∂rste, Lipperreihe, Oerlinghausen, Oesterholz-Haustenbeck, Schlangen
@@ -8373,7 +8373,7 @@ mit den Gemeinden:
 F√ºchtorf, Greffen, Harsewinkel, Marienfeld
 Wiedenbr√ºck
 mit allen Gemeinden
-†
+
 L√ºbbecke
 ohne die bei 3106 aufgef√ºhrten Gemeinden
 Minden
@@ -8384,18 +8384,18 @@ mit den Gemeinden:
 Altenhagen, Babenhausen, Barnhausen, Brake, Br√∂nninghausen, H√§ger, Heepen, Hillegossen, J√∂llenbeck, Milse, Niederdornberg-Deppendorf, Oldentrup, Rotenhagen, Rotingdorf, Schr√∂ttinghausen, Theenhausen, Theesen, Ubbedissen/Lippe, Vilsendorf
 B√ºnde
 mit allen Gemeinden
-†
+
 Detmold
 ohne die bei 3103 und 3105 aufgef√ºhrten Gemeinden
 Herford
 mit allen Gemeinden
-†
+
 H√∂xter
 mit den Gemeinden:
 Harzberg, L√ºdge
 Lemgo
 mit allen Gemeinden
-†
+
 L√ºbbecke
 mit den Gemeinden:
 Ahlsen-Reineberg, B√∂rninghausen, Br√∂derhausen, B√ºttendorf, Holsen, Huchzen, H√ºllhorst, Oberbauerschaft, Schnathorst, Tengern
@@ -8406,147 +8406,147 @@ Oberfinanzdirektion: D√ºsseldorf
 Bewertungsgebiet 3201 besteht aus den Finanzamtsbezirken
 Lennep
 mit allen Gemeinden
-†
+
 Remscheid
 mit allen Gemeinden
-†
+
 Bewertungsgebiet 3202 besteht aus den Finanzamtsbezirken
 Dinslaken
 mit allen Gemeinden
-†
+
 D√ºlken
 mit allen Gemeinden
-†
+
 Geldern
 mit allen Gemeinden
-†
+
 Grevenbroich
 mit allen Gemeinden
-†
+
 Kempen
 mit allen Gemeinden
-†
+
 Kleve
 mit allen Gemeinden
-†
+
 Krefeld
 mit allen Gemeinden
-†
+
 M√∂nchengladbach
 mit allen Gemeinden
-†
+
 Moers
 mit allen Gemeinden
-†
+
 Neu√ü
 mit allen Gemeinden
-†
+
 Rheydt
 mit allen Gemeinden
-†
+
 Wesel
 mit allen Gemeinden
-†
+
 Bewertungsgebiet 3203 besteht aus den Finanzamtsbezirken
 D√ºsseldorf-Altstadt
 mit allen Gemeinden
-†
+
 D√ºsseldorf-Mettmann
 mit allen Gemeinden
-†
+
 D√ºsseldorf-Nord
 mit allen Gemeinden
-†
+
 D√ºsseldorf-S√ºd
 mit allen Gemeinden
-†
+
 Duisburg-Hamborn
 mit allen Gemeinden
-†
+
 Duisburg-Nord
 mit allen Gemeinden
-†
+
 Duisburg-S√ºd
 mit allen Gemeinden
-†
+
 Essen-Nord
 mit allen Gemeinden
-†
+
 Essen-Ost
 mit allen Gemeinden
-†
+
 Essen-S√ºd
 mit allen Gemeinden
-†
+
 M√ºlheim (Ruhr)
 mit allen Gemeinden
-†
+
 Oberhausen-Nord
 mit allen Gemeinden
-†
+
 Oberhausen-S√ºd
 mit allen Gemeinden
-†
+
 Opladen
 mit allen Gemeinden
-†
+
 Solingen-Ost
 mit allen Gemeinden
-†
+
 Solingen-West
 mit allen Gemeinden
-†
+
 Wuppertal-Barmen
 mit allen Gemeinden
-†
+
 Wuppertal-Elberfeld
 mit allen Gemeinden
-†
+
 Oberfinanzdirektion: K√∂ln
 Bewertungsgebiet 3301 besteht aus den Finanzamtsbezirken
 Gummersbach
 mit allen Gemeinden
-†
+
 Wipperf√ºrth
 mit allen Gemeinden
-†
+
 Bergisch Gladbach
 ohne die bei 3302 aufgef√ºhrten Gemeinden
 Bewertungsgebiet 3302 besteht aus den Finanzamtsbezirken
 Erkelenz
 mit allen Gemeinden
-†
+
 Geilenkirchen
 mit allen Gemeinden
-†
+
 J√ºlich
 mit allen Gemeinden
-†
+
 Bergheim
 mit allen Gemeinden
-†
+
 D√ºren
 ohne die bei 3303 aufgef√ºhrten Gemeinden
 Euskirchen
 ohne die bei 3303 aufgef√ºhrten Gemeinden
 Bonn-Stadt
 mit allen Gemeinden
-†
+
 Bonn-Land
 mit allen Gemeinden
-†
+
 K√∂ln-Land
 mit allen Gemeinden
-†
+
 K√∂ln-Nord
 mit allen Gemeinden
-†
+
 K√∂ln-Ost
 mit allen Gemeinden
-†
+
 Siegburg
 mit allen Gemeinden
-†
+
 Bergisch Gladbach
 mit den Gemeinden:
 Bergisch Gladbach, Bensberg, R√∂srath, Porz
@@ -8556,10 +8556,10 @@ Merkstein, Alsdorf, H√∂ngen, Kinzweiler, Eschweiler, Herzogenrath, Bardenberg, W
 Bewertungsgebiet 3303 besteht aus den Finanzamtsbezirken
 Gem√ºnd
 mit allen Gemeinden
-†
+
 Aachen-Stadt
 mit allen Gemeinden
-†
+
 Aachen-Land und Monschau
 ohne die bei 3302 aufgef√ºhrten Gemeinden
 D√ºren
@@ -8580,7 +8580,7 @@ mit den Gemeinden:
 Alflen, Auderath, Eppenberg, Filz, Gillenbeuren, Hauroth, Kalenborn, Laubach, Masburg, M√ºllenbach, Schmitt, Ulmen-Meiserich, Wagenhausen, Wollmerath
 Daun
 mit allen Gemeinden
-†
+
 Mayen
 mit den Gemeinden:
 Acht, Anschau, Arbach, Arft, Baar, Bereborn, Berenbach, Bermel, Bodenbach, Bongard, Boos, Borler, Br√ºck, Ditscheid, Drees, Engeln, Gelenberg, Gunderath, Hausten, Herresbach, Hirten, H√∂chstberg, Hohenleimbach, Horperath, H√ºnerbach, Kaperich, Kelberg, Kempenich, Kirchesch, Kirsbach, Kolverath, K√∂ttelbach, K√∂tterichen, K√ºrrenberg, Langenfeld, Langscheid, Lind, Lierstall, Luxem, Mannebach, Mayen (Stadt) Teil 1, Mosbruch, M√ºnk, Nachtsheim, Nitz, Oberelz, Reimerath, Retterath, Reudelsterz, Rothenbach, Sassen, Siebenbach, Spessart, Uersfeld, Ue√ü, Virneburg, Volkesfeld, Waldesch, Weibern, Weiler, Welcherath, Welschenbach, Zerm√ºllen
@@ -8590,86 +8590,86 @@ Auw, Birresborn, Bleialf, Brandscheid, Buchet, B√ºdesheim, Dausfeld, Densborn, D
 Bewertungsgebiet 4102 besteht aus den Finanzamtsbezirken
 Ahrweiler
 ohne die bei 4101 aufgef√ºhrten Gemeinden
-†
+
 Cochem
 ohne die bei 4101 aufgef√ºhrten Gemeinden
-†
+
 Koblenz
 mit allen Gemeinden
-†
+
 Mayen
 ohne die bei 4101 aufgef√ºhrten Gemeinden
-†
+
 Neuwied
 ohne die bei 4103 aufgef√ºhrten Gemeinden
-†
+
 Zell
 mit den Gemeinden:
 Alf, Altstrimmig, Beilstein, Briedel, Briedern, Bullay, Forst, Grenderich, Liesenich, Merl, Mesenich, Mittelstrimmig, Moritzheim, Neef, P√ºnderich, Sankt Aldegund, Senheim, Tellig, Zell
 Bewertungsgebiet 4103 besteht aus den Finanzamtsbezirken
 Altenkirchen
 mit allen Gemeinden
-†
+
 Diez
 mit allen Gemeinden
-†
+
 Hachenburg
 mit allen Gemeinden
-†
+
 Montabaur
 mit allen Gemeinden
-†
+
 Neuwied
 mit den Gemeinden:
 Alberthofen, Ascheid, Bauscheid, Br√ºckrachdorf, Dernbach, Dierdorf, D√∂ttesfeld, D√ºrrholz, Elgert, Giershofen, Gro√ümaischeid, Haberscheid, Hanroth, Harschbach, Hilgert, Isenburg, Kausen, Kleinmaischeid, Lahrbach, Linkenbach, Niederdreis, Niederhofen, Niederwambach, Ober√§hren, Oberdreis, Puderbach, Ratzert, Raubach, Reichenstein, Richert, Rodenbach b. Puderbach, Stebach, Urbach-Kirchdorf, Urbach-√úberdorf, Weroth, Wienau, Woldert
 St. Goarshausen
 mit allen Gemeinden
-†
+
 Bewertungsgebiet 4104 besteht aus den Finanzamtsbezirken
 Bernkastel
 mit den Gemeinden:
 Dhron, Erden, Kesten, Lieser, L√∂snich, Maring-Noviand, Neumagen, Niederemmel, Wehlen, Wolf, Zeltingen-Rachtig
 Bitburg
 mit allen Gemeinden
-†
+
 Pr√ºm
 ohne die bei 4101 aufgef√ºhrten Gemeinden
-†
+
 Saarburg
 mit allen Gemeinden
-†
+
 Trier
 ohne die bei 4105 aufgef√ºhrten Gemeinden
-†
+
 Wittlich
 mit allen Gemeinden
-†
+
 Bewertungsgebiet 4105 besteht aus den Finanzamtsbezirken
 Bad Kreuznach
 mit den Gemeinden:
 Allenfeld, Argenschwang, Auen, Brauweiler, Dalberg, Daubach, Dhaun, D√∂rrebach, Eckweiler, Gebroth, Hahnenbach, Heinzenberg, Hennweiler, Hergenfeld, Horbach, Ippenscheid, Kallenfels, Langenthal, Martinstein, Monzingen, M√ºnchwald, Nu√übaum, Oberhausen, Pferdsfeld, Rehbach, Sch√∂neberg, Seesbach, Seibersbach, Simmern unter Dhaun, Sommerloch, Spabr√ºcken, Spall, Stromberg, Wallhausen, Weiler bei Monzingen, Weitersborn, Winterbach, Winterburg
 Bernkastel
 ohne die bei 4104 aufgef√ºhrten Gemeinden
-†
+
 Birkenfeld
 ohne die bei 4106 aufgef√ºhrten Gemeinden
-†
+
 Simmern
 mit allen Gemeinden
-†
+
 St. Goar
 mit allen Gemeinden
-†
+
 Trier
 mit den Gemeinden:
 Bescheid, Beuren, B√∂rfink-Muhl, Bonerath, Damflos, Farschweiler, Geisfeld, Grimburg, Gusenburg, Heddert, Herl, Hermeskeil, Hinzenburg, Hinzert, Holzerath, Kell, Lampaden, Lorscheid, Mandern, Neuh√ºtten, Osburg, P√∂lert, Prosterath, Rascheid, Reinsfeld, Schillingen, Sch√∂ndorf, Waldweiler, Z√ºsch
 Zell
 ohne die bei 4102 aufgef√ºhrten Gemeinden
-†
-Bewertungsgebiet 4106 besteht aus den Finanzamtsbezirken¬††
+
+Bewertungsgebiet 4106 besteht aus den Finanzamtsbezirken¬†
 Bad Kreuznach
 ohne die bei 4105 aufgef√ºhrten Gemeinden
-†
+
 Birkenfeld
 mit den Gemeinden:
 Baumholder, Berglangenbach, Berschweiler bei Baumholder, Buborn, Dambach, Deimberg, Dickesbach, Eckersweiler, Ellweiler, Fohren-Linden, Gimbweiler, Grumbach, Hahnweiler, Hausweiler, Heimbach, Herren-Sulzbach, Homberg, Hoppst√§dten, Idar-Oberstein (Oberstein), Kappeln, Kirchenbollenbach, Kirrweiler, Langweiler, Leitzweiler, Meckenbach, Merzweiler, Mettweiler, Mittelbollenbach, Mittelreidenbach, Nahbollenbach, Niederalben, Niedereisenbach, Oberreidenbach, Offenbach a. d. Glan, Pfeffelbach, Reichenbach, Reichweiler, Rohrbach, R√ºckweiler, Ruschberg, Ruthweiler, Schmidthachenbach, Sien, Sienhachenbach, Thallichtenberg, Unterjeckenbach, Weierbach, Weiersbach, Wiesweiler, Zaubach
@@ -8681,22 +8681,22 @@ mit den Gemeinden:
 Albisheim (Pfrimm), Bennhausen, Bischheim, Bolanden, Dannenfels, Eiselthum, Gauersheim, Harxheim, Ilbesheim, Jakobsweiler, Kirchheimbolanden, Kriegsfeld, Marnheim, Mauchenheim, M√∂rsfeld, Morschheim, Niefernheim, Orbis, Rittersheim, Stetten, Weitersweiler, Zell
 Kusel
 mit allen Gemeinden
-†
+
 Landstuhl
 mit allen Gemeinden
-†
+
 Lauterecken
 mit allen Gemeinden
-†
+
 Obermoschel
 ohne die bei 4107 aufgef√ºhrte Gemeinde
-†
+
 Pirmasens
 mit den Gemeinden:
 Fehrbach, Gersbach, Hengsberg, Herschberg, H√∂heichweiler, H√∂hm√ºhlbach, N√ºnschweiler, Wallhalben, Windsberg
 Zweibr√ºcken
 mit allen Gemeinden
-†
+
 Bewertungsgebiet 4107 besteht aus den Finanzamtsbezirken
 Bad Bergzabern
 mit den Gemeinden:
@@ -8706,53 +8706,53 @@ mit den Gemeinden:
 Teil v. Bad D√ºrkheim, T. v. Bobenheim, T. v. Dackenheim, T. v. Deidesheim, T. v. Forst a. d. W., T. v. Freinsheim, Hardenburg, T. v. Herxheim, T. v. Kallstadt, T. v. Leistadt, T. v. Wachenheim a. d. W., T. v. Weisenheim a. Berg, T. v. Weisenheim a. Sand
 Dahn
 mit allen Gemeinden
-†
+
 Gr√ºnstadt
 mit den Gemeinden:
 Altleinigen, Battenberg, Carlsberg, Hertlinghausen, Hettenleidelheim, T. v. Kirchheim a. d. W., T. v. Kleinkarlbach, T. v. Neuleinigen, T. v. Sausenheim, Tiefenthal, Wattenheim
 Kaiserslautern
 ohne die bei 4106 aufgef√ºhrten Gemeinden
-†
+
 Kirchheimbolanden
 ohne die bei 4106 und 4108 aufgef√ºhrten Gemeinden
-†
+
 Landau
 ohne die bei 4108 aufgef√ºhrten Gemeinden
-†
+
 Neustadt
 ohne die bei 4108 aufgef√ºhrten Gemeinden
-†
+
 Obermoschel
 mit der Gemeinde:
 Winterborn
 Pirmasens
 ohne die bei 4106 aufgef√ºhrten Gemeinden
-†
+
 Bewertungsgebiet 4108 besteht aus den Finanzamtsbezirken
 Alzey
 mit allen Gemeinden
-†
+
 Bad Bergzabern
 ohne die bei 4107 aufgef√ºhrten Gemeinden
-†
+
 Bad D√ºrkheim
 ohne die bei 4107 aufgef√ºhrten Gemeinden
-†
+
 Bingen
 mit allen Gemeinden
-†
+
 Frankenthal
 mit allen Gemeinden
-†
+
 Germersheim
 mit allen Gemeinden
-†
+
 Gr√ºnstadt
 ohne die bei 4107 aufgef√ºhrten Gemeinden
-†
+
 Kandel
 mit allen Gemeinden
-†
+
 Kirchheimbolanden
 mit der Gemeinde:
 Oberwiesen
@@ -8761,22 +8761,22 @@ mit den Gemeinden:
 T. v. Altdorf, Arzheim, T. v. B√∂bingen, T. v. B√∂chingen, Bornheim, Dammheim, T. v. Diedesfeld, T. v. Edenkoben, T. v. Edesheim, Essingen, T. v. Flemlingen, Freimersheim, T. v. Godramstein, T. v. G√∂cklingen, T. v. Gommersheim, Gro√üfischlingen, T. v. Hainfeld, Herxheim, Herxheimweyher, T. v. Ilbesheim b. Landau, Impflingen, Insheim, T. v. Kirrweiler, Kleinfischlingen, Kn√∂ringen, T. v. Landau (Stadt), T. v. Maikammer, Niederhochstadt, T. v. Nu√üdorf, Oberhochstadt, Offenbach a. d. Queich, T. v. Rhodt unter Rietburg, T. v. Roschbach, T. v. Venningen, T. v. Walsheim, Wollmesheim
 Ludwigshafen
 mit allen Gemeinden
-†
+
 Mainz
 mit allen Gemeinden
-†
+
 Neustadt
 mit den Gemeinden:
 Duttweiler, Geinsheim, T. v. Gimmeldingen, T. v. Hambach a. d. W., Ha√üloch, T. v. K√∂nigsbach a. d. W., T. v. Lachen-Speyerdorf, Meckenheim, T. v. Mu√übach a. d. W., T. v. Neustadt a. d. W., T. v. Ruppertsberg
 Oppenheim
 mit allen Gemeinden
-†
+
 Speyer
 mit allen Gemeinden
-†
+
 Worms
 mit allen Gemeinden
-†
+
 5.
 Land: Hessen
 Oberfinanzdirektion: Frankfurt/Main
@@ -8786,17 +8786,17 @@ mit den Gemeinden:
 Dorndiel, Mosbach, Ober-Nauses (S-Teil), Radheim
 F√ºrth
 ohne die bei 5103 aufgef√ºhrten Gemeinden
-†
+
 Michelstadt
 ohne die bei 5103 aufgef√ºhrten Gemeinden
-†
+
 Bewertungsgebiet 5102 besteht aus den Finanzamtsbezirken
 Biedenkopf
 mit allen Gemeinden
-†
+
 Dillenburg
 ohne die bei 5103 aufgef√ºhrten Gemeinden
-†
+
 Frankenberg
 mit den Gemeinden:
 Biebighausen, Bromskirchen (westl. d. B 236), Dodenau, Eifa, Frohnhausen, Hatzfeld, Holzhausen, Ober-Asphe, Reddighausen
@@ -8806,37 +8806,37 @@ mit der Gemeinde:
 Bobenhausen
 Bad Hersfeld
 ohne die bei 5105 aufgef√ºhrten Gemeinden
-†
+
 Bad Homburg
 mit allen Gemeinden
-†
+
 Bad Schwalbach
 mit allen Gemeinden
-†
+
 Bensheim
 mit allen Gemeinden
-†
+
 Darmstadt
 ohne die Gemeinden:
 Arheilgen, Messel
 Dieburg
 ohne die bei 5101 und 5104 aufgef√ºhrten Gemeinden
-†
+
 Dillenburg
 mit den Gemeinden:
 Amdorf, Arborn, Ballersbach, Beilstein, Bicken, Breitscheid, Burg, Driedorf, Eisemroth, Erdbach, Fleisbach, Guntersdorf, Gusternhain, Heiligenborn, Heisterberg, Herborn, Herbornseelbach, Hirschberg, H√∂rbach, Hohenroth, Madem√ºhlen, Merkenbach, M√ºnchhausen, Nenderoth, Odersberg, Offenbach, Rabenscheid, Rodenberg, Rodenroth, Roth, Sch√∂nbach, Seilhofen, Sinn, Uckersdorf, Uebernthal, Waldaubach
 Eschwege
 mit allen Gemeinden
-†
+
 Frankenberg
 ohne die bei 5102 aufgef√ºhrten Gemeinden
-†
+
 Frankfurt/Main-H√∂chst
 mit allen Gemeinden
-†
+
 Frankfurt/MainStiftstra√üe
 mit allen Gemeinden
-†
+
 Friedberg
 ohne die bei 5105 aufgef√ºhrten Gemeinden
 F√ºrth
@@ -8847,28 +8847,28 @@ mit der Gemeinde:
 Mengers
 Gelnhausen
 mit allen Gemeinden
-†
+
 Gie√üen
 mit den Gemeinden:
 Eberstadt, Holzheim, Ober-H√∂rgern
 Gro√ü-Gerau
 mit allen Gemeinden
-†
+
 Hanau
 mit allen Gemeinden
-†
+
 Hofgeismar
 mit allen Gemeinden
-†
+
 Homberg
 mit allen Gemeinden
-†
+
 Kassel-Spohrstra√üe
 mit allen Gemeinden
-†
+
 Korbach
 mit allen Gemeinden
-†
+
 Langen
 mit den Gemeinden:
 Erzhausen (W-Teil), Gr√§fenhausen, Kelsterbach, Langen (Teilfl.), Schneppenhausen, Zeppelinheim
@@ -8877,40 +8877,40 @@ mit den Gemeinden:
 Altenschlirf, Bannerod, Bermutshain, Crainfeld, Feldkr√ºcken, Fleschenbach, Freiensteinau, Grebenhain, Gunzenau, Hartmannshain, Heisters, Herbstein, Herchenhain, Holzm√ºhl, Hopfmannsfeld, Ilbeshausen, K√∂lzenhain, Lanzenhain, Metzlos, Metzlos-Gehaag, Nieder-Moos, N√∂sberts-Weidmoos, Ober-Moos, Radm√ºhl, Reichlos, Salz, Schadges, Schlechtenwegen, Steinfurt, Stockhausen, Vaitshain, Volkartshain, W√ºnschen-Moos, Zahmen
 Limburg
 mit allen Gemeinden
-†
+
 Marburg
 ohne die bei 5105 aufgef√ºhrten Gemeinden
-†
+
 Melsungen
 mit allen Gemeinden
-†
+
 Michelstadt
 mit den Gemeinden:
 Affh√∂llerbach, Bockenrod, B√∂llstein, Eberbach, Erzbach, Frohnhofen, Gersprenz, Gro√ü-Gumpen, Hassenroth, H√∂llerbach, Kirch-Beerfurth, Klein-Gumpen, Nieder-Kainsbach, Ober-Klein-Gumpen, Ober-Ostern, Pfaffen-Beerfurth, Reichelsheim i. O., Rohrbach, Unter-Ostern, Wallbach
 Nidda
 ohne die bei 5105 aufgef√ºhrten Gemeinden
-†
+
 Offenbach-Land
 mit der Gemeinde:
 Neu-Isenburg (W-Rand, Teilfl.)
 Rotenburg
 mit allen Gemeinden
-†
+
 R√ºdesheim
 mit allen Gemeinden
-†
+
 Weilburg
 mit allen Gemeinden
-†
+
 Wetzlar
 mit allen Gemeinden
-†
+
 Wiesbaden-Herrngartenstra√üe
 mit allen Gemeinden
-†
+
 Witzenhausen
 mit allen Gemeinden
-†
+
 Ziegenhain
 mit den Gemeinden:
 Allendorf a. d. Landsburg, Appenhain, Ascherode, Dittershausen, Florshain, Frankenhain, Frielendorf, Gebersdorf, Gilserberg, Gro√üropperhausen, Heimbach, Itzenhain, Lanertshausen, Leimsfeld, Lenderscheid, Linsingen, Lischeid, Mengsberg, Michelsberg, Moischeid, Niedergrenzebach, Obergrenzebach, R√∂hrshain, Rommershausen, Sachsenhausen, Sch√∂nau, Sch√∂nborn, Sch√∂nstein, Sebbeterode, Siebertshausen, Spieskappel, Todenhausen, Treysa, Trutzhain, Wasenberg, Wiera, Winterscheid, Ziegenhain
@@ -8923,7 +8923,7 @@ mit den Gemeinden:
 Babenhausen, Eppertshausen, Harreshausen, Hergershausen, Kleestadt, Langstadt, M√ºnster, Nieder-Roden, Ober-Roden, Schaafheim, Schlierbach, Sickenhofen, Urberach, Exklaven: Altheim, Georgenhausen, Klein-Zimmern, Spachbr√ºcken, Zeilhard
 Langen
 ohne die bei 5103 aufgef√ºhrten Gemeinden
-†
+
 Offenbach-Land
 ohne die Gemeinde:
 Neu-Isenburg (W-Rand, Teilfl.)
@@ -8942,10 +8942,10 @@ ohne die Gemeinde:
 Mengers
 Gie√üen
 ohne die bei 5103 aufgef√ºhrten Gemeinden
-†
+
 Lauterbach
 ohne die bei 5103 aufgef√ºhrten Gemeinden
-†
+
 Marburg
 mit den Gemeinden:
 Albshausen, Allendorf, Am√∂neburg, Anzefahr, Bauerbach, Beltershausen, Betziesdorf, Bracht, B√ºrgeln, Burgholz, Cappel, C√∂lbe, Emsdorf, Ernsthausen, Ginseldorf, G√∂ttingen, Go√üfelden, Gro√üseelheim, Halsdorf, Himmelsberg, Kirchhain, Kleinseelheim, Langendorf, Langenstein, Marbach, Marburg (ostw. d. Lahn), Michelbach, Moischt, Neustadt, Niederklein, Niederwald, Rauschenberg, Ronhausen, R√ºdigheim, Sarnau, Sch√∂nbach, Sch√∂nstadt, Schr√∂ck, Schwabendorf, Schwarzenborn, Schweinsberg, Sindersfeld, Stausebach, Wehrda, Wohra, Wolfskaute
@@ -8954,1425 +8954,1425 @@ mit den Gemeinden:
 Bad Salzhausen, Berstadt, Bingenheim, Bisses, Blofeld, Borsdorf, Dauernheim, Eichelsdorf, Gei√ü-Nidda, Grund-Schwalheim, Harb, Kohden, Leidhecken, Michelnau, Nidda, Ober-Schmitten, Ober-Widdersheim, Rainrod (W-Teil), Stornfels, Ulfa, Unter-Schmitten, Unter-Widdersheim, Wallernhausen (nordwestl. der Verbindungsstra√üe von der B 457 nach Fauerbach)
 Ziegenhain
 ohne die bei 5103 aufgef√ºhrten Gemeinden
-†
+
 6.
 Land: Saarland
 Oberfinanzdirektion: Saarbr√ºcken
 Bewertungsgebiet 6101 besteht aus den Finanzamtsbezirken
 Blieskastel
 mit allen Gemeinden
-†
+
 Dillingen
 mit allen Gemeinden
-†
+
 Homburg
 mit allen Gemeinden
-†
+
 Merzig
 mit allen Gemeinden
-†
+
 Neunkirchen
 mit allen Gemeinden
-†
+
 Saarbr√ºcken
 mit allen Gemeinden
-†
+
 Saarlouis
 mit allen Gemeinden
-†
+
 St. Ingbert
 mit allen Gemeinden
-†
+
 St. Wendel
 mit allen Gemeinden
-†
+
 Sulzbach
 mit allen Gemeinden
-†
+
 V√∂lklingen
 mit allen Gemeinden
-†
+
 7.
 Land: Baden-W√ºrttemberg
-†
+
 Oberfinanzdirektion: Karlsruhe
-†
+
 Bewertungsgebiet 7101 besteht aus dem Finanzamtsbezirk
-†
+
 Pforzheim
 ohne die bei 7103 aufgef√ºhrten Gemeinden
-†
+
 Bewertungsgebiet 7102 besteht aus den Finanzamtsbezirken
-†
+
 Bruchsal
 ohne die bei 7103, 7106 und 7107 aufgef√ºhrten Gemeinden
-†
+
 Mosbach
 ohne die bei 7104 und 7105 aufgef√ºhrten Gemeinden
-†
+
 Sinsheim
 ohne die bei 7104 aufgef√ºhrten Gemeinden
-†
+
 Tauberbischofsheim
 mit den Gemeinden:
 , Brehmen, Heckfeld
-†
+
 Walld√ºrn
 ohne die bei 7104 und 7105 aufgef√ºhrten Gemeinden
-†
+
 Bewertungsgebiet 7103 besteht aus den Finanzamtsbezirken
-†
+
 Bruchsal
 mit den Gemeinden:
 Gondelsheim, Helmsheim, Neibsheim, Obergrombach, Untergrombach
-†
+
 Ettlingen
 ohne die bei 7106 und 7107 aufgef√ºhrten Gemeinden
-†
+
 Karlsruhe-Durlach
 ohne die bei 7106 und 7107 aufgef√ºhrten Gemeinden
-†
+
 Pforzheim
 mit den Gemeinden:
 Bauschlott, Bilfingen, Dietenhausen, Dietlingen, D√ºrrn, Eisingen, Ellmendingen, Ersingen, G√∂brichen, Ispringen, Ittersbach, Kieselbronn, K√∂nigsbach, Langenalb, N√∂ttingen, Nu√übaum, Singen, Stein, Weiler, Wilferdingen
-†
+
 Bewertungsgebiet 7104 besteht aus den Finanzamtsbezirken
-†
+
 Heidelberg
 ohne die bei 7106 und 7107 aufgef√ºhrten Gemeinden
-†
+
 Mosbach
 mit den Gemeinden:
 Eberbach, Friedrichsdorf, Pleutersbach, Rockenau, Allfeld, Auerbach, Billigheim, Binau, Dallau, Diedesheim, Heinsheim, Herbolzheim, Katzental, Lindach, Lohrbach, Mosbach, M√ºlben, Neckarburken, Neckarelz, Neckargerach, Neckarm√ºhlbach, Neckarzimmern, Neudenau, Oberdielbach, Reichenbuch, Schollbrunn, Stein am Kocher, Str√ºmpfelbrunn, Sulzbach, Unterschefflenz, Waldkatzenbach, Waldm√ºhlbach, Weisbach, Zwingenberg
-†
+
 Sinsheim
 mit den Gemeinden:
 Adelshofen, Babstadt, Bad Rappenau, Berwangen, Bockschaft, Eppingen, Gemmingen, Grombach, Ittlingen, Kirchhardt, K√ºrnbach, M√ºhlbach, Obergimpern, Richen, Rohrbach a. G., Siegelsbach, Stebbach, Sulzfeld, Treschklingen, Zaisenhausen
-†
+
 Walld√ºrn
 mit den Gemeinden:
 Donebach, Hettigenbeuern, Hornbach, M√∂rschenhardt, Reisenbach, Rippberg, Scheidental, Schlo√üau, Steinbach
-†
+
 Weinheim
 mit der Gemeinde:
 Schriesheim
-†
+
 Bewertungsgebiet 7105 besteht aus den Finanzamtsbezirken
-†
+
 Mosbach
 mit den Gemeinden:
 Adelsheim, H√ºngheim, Korb, Leibenstadt, Merchingen, Ruchsen, Sennfeld, Unterkessach
-†
+
 Tauberbischofsheim
 ohne die bei 7102 aufgef√ºhrten Gemeinden
-†
+
 Walld√ºrn
 mit den Gemeinden:
 Bretzingen, Schweinberg
-†
+
 Bewertungsgebiet 7106 besteht aus den Finanzamtsbezirken
-†
+
 Bruchsal
 mit den Gemeinden:
 Bruchsal (Rheinebene), B√ºchenau, Forst, Hambr√ºcken, Huttenheim (Hochw.), Karlsdorf, Kirrlach, Kronau, Langenbr√ºcken (Rheinebene), Neudorf, Neuthard, Oberhausen (Hochw.), Philippsburg (Hochw.), Rheinhausen (Hochw.), Wagh√§usel, Weiher, Wiesenthal
-†
+
 Ettlingen
 mit den Gemeinden:
 Ettlingen (Rheinebene), Forchheim (Hochw.), Malsch (Rheinebene), M√∂rsch
-†
+
 Heidelberg
 mit den Gemeinden:
 Rot, Sandhausen, St. Ilgen, St. Leon, Walldorf
-†
+
 Karlsruhe-Durlach
 mit den Gemeinden:
 Blankenloch, Eggenstein (Hochw.), Friedrichstal, Graben (Hochw.), Hochstetten (Hochw.), Leopoldshafen (Hochw.), Liedolsheim (Hochw.), Linkenheim (Hochw.), Neureut (Hochw.), Sp√∂ck, Staffort
-†
+
 Karlsruhe-Stadt
 mit der Gemeinde:
 Karlsruhe (Hochw.)
-†
+
 Schwetzingen
 ohne die bei 7107 aufgef√ºhrten Gemeinden
-†
+
 Bewertungsgebiet 7107 besteht aus den Finanzamtsbezirken
-†
+
 Bruchsal
 mit den Gemeinden:
 Huttenheim (Auew.), Oberhausen (Auew.), Philippsburg (Auew.), Rheinhausen (Auew.), Rheinsheim
-†
+
 Ettlingen
 mit den Gemeinden:
 Forchheim (Auew.), Neuburgweier
-†
+
 Heidelberg
 mit den Gemeinden:
 Altenbach, Altneudorf (Forstamt Sch√∂nau), Brombach, Eppelheim, Heddesbach, Heidelberg (Rheinebene), Heiligkreuzsteinach, Lampenhain, Sch√∂nau (Forstamt Sch√∂nau), Wilhelmsfeld (Forstamt Sch√∂nau)
-†
+
 Karlsruhe-Durlach
 mit den Gemeinden:
 Eggenstein (Auew.), Graben (Auew.), Hochstetten (Auew.), Leopoldshafen (Auew.), Liedolsheim (Auew.), Linkenheim (Auew.), Neureut (Auew.), Ru√üheim
-†
+
 Karlsruhe-Stadt
 mit der Gemeinde:
 Karlsruhe (Auew.),
-†
+
 Mannheim-Neckarstadt
 mit allen Gemeinden
-†
-†
+
+
 Mannheim-Stadt
 mit der Gemeinde:
 Mannheim
-†
+
 Schwetzingen
 mit den Gemeinden:
 Altlu√üheim (Auew.), Br√ºhl, Ketsch (Auew.), Plankstadt
-†
+
 Weinheim
 ohne die bei 7104 aufgef√ºhrte Gemeinde
-†
+
 Oberfinanzdirektion: Freiburg
-†
+
 Bewertungsgebiet 7201 besteht aus den Finanzamtsbezirken
-†
+
 Donaueschingen
 ohne die bei 7202, 7203 und 7204 aufgef√ºhrten Gemeinden
-†
+
 Konstanz
 mit allen Gemeinden
-†
-†
+
+
 Sigmaringen
 mit den Gemeinden:
 Deufwang, Dietershofen, Gaisweiler, Glash√ºtte, Hippetsweiler, Kalkofen, Kappel, Liggersdorf, Mindersdorf, Oberndorf, Otterswang, Reischach, Rengetsweiler, Riedetsweiler, Ringgenbach, Rothenlachen, Ruhestetten, Selgetsweiler, Walbertsweiler, Wald
-†
+
 Singen
 ohne die bei 7202 aufgef√ºhrten Gemeinden
-†
+
 Stockach
 mit allen Gemeinden
-†
-†
+
+
 √úberlingen
 mit allen Gemeinden
-†
-†
+
+
 Villingen
 ohne die bei 7204 aufgef√ºhrten Gemeinden
-†
+
 Bewertungsgebiet 7202 besteht aus den Finanzamtsbezirken
-†
+
 Achern
 ohne die bei 7203 aufgef√ºhrten Gemeinden
-†
+
 B√ºhl
 ohne die bei 7203 aufgef√ºhrten Gemeinden
-†
+
 Donaueschingen
 mit den Gemeinden:
 Achdorf, Behla, Blumberg, Br√§unlingen, D√∂ggingen, Donaueschingen, F√ºrstenberg, Hammereisenbach-Bregenbach, Hausen vor Wald, Hondingen, Hubertshofen, H√ºfingen, Mistelbrunn, Mundelfingen, Neudingen, Riedb√∂hringen, Ried√∂schingen, Sumpfohren, Unadingen, Unterbr√§nd, Waldhausen, Wolterdingen, Bachheim, Ewattingen, M√ºnchingen, Reiselfingen
-†
+
 L√∂rrach
 mit den Gemeinden:
 Holzen, Mappach, Welmlingen, Hertingen, Kandern, Riedlingen, Tannenkirch
-†
+
 M√ºllheim
 ohne die bei 7204 aufgef√ºhrten Gemeinden
-†
+
 Neustadt
 ohne die bei 7204 aufgef√ºhrten Gemeinden
-†
+
 Offenburg
 ohne die bei 7203 aufgef√ºhrten Gemeinden
-†
+
 S√§ckingen
 mit allen Gemeinden
-†
-†
+
+
 Schopfheim
 ohne die bei 7203 und 7204 aufgef√ºhrten Gemeinden
-†
+
 Singen
 mit den Gemeinden:
 Nordhalden, Talheim, Uttenhofen, Kommingen
-†
+
 Tiengen
 ohne die bei 7203 aufgef√ºhrten Gemeinden
-†
+
 Wolfach
 mit den Gemeinden:
 Bad Rippoldsau, Schapbach
-†
+
 Bewertungsgebiet 7203 besteht aus den Finanzamtsbezirken
-†
+
 Achern
 mit den Gemeinden:
 Achern, Fautenbach, Gamshurst, Gro√üweier, M√∂sbach, √ñnsbach
-†
+
 B√ºhl
 mit den Gemeinden:
 Eisental, Greffern, Leiberstung, Neuweier, Oberbruch, Sinzheim, Steinbach, Stollhofen, Ulm, Varnhalt, Weitenung
-†
+
 Donaueschingen
 mit den Gemeinden:
 Epfenhofen, F√ºtzen
-†
+
 Emmendingen
 ohne die bei 7205 aufgef√ºhrten Gemeinden
-†
+
 Kehl
 mit allen Gemeinden
-†
-†
+
+
 Lahr
 mit allen Gemeinden
-†
-†
+
+
 L√∂rrach
 ohne die bei 7202 aufgef√ºhrten Gemeinden
-†
+
 Offenburg
 mit den Gemeinden:
 Bohlsbach, Bottenau, B√ºhl, Butschbach, Diersburg, Durbach, Ebersweier, Elgersweier, Erlach, Fessenbach, Griesheim, Haslach, Hofweier, Lautenbach, Nesselried, Niederschopfheim, Nu√übach, Oberkirch, Oedsbach, Offenburg, Ortenberg, Rammersweier, Ringelbach, Schutterwald, Stadelhofen, Tiergarten, Ulm, Waltersweier, Weier, Windschl√§g, Zell-Weierbach, Zunsweier, Zusenhofen
-†
+
 Rastatt
 ohne die bei 7204 und 7205 aufgef√ºhrten Gemeinden
-†
+
 Schopfheim
 mit den Gemeinden:
 Adelhausen, B√ºrchau, Eichen, Eichsel, Elbenschwand, Endenburg, Enkenstein, Fahrnau, Gresgen, Hasel, Hausen, Langenau, Maulburg, Neuenweg, Raich, Raitbach, Sallneck, Schl√§chtenhaus, Schopfheim, Tegernau, Weitenau, Wiechs, Wieslet
-†
+
 Tiengen
 mit den Gemeinden:
 Aichen, Altenburg, Baltersweil, Bechtersbohl, Berau, Berg√∂schingen, Berwangen, Blumegg, Breitenfeld, B√ºhl, Dangstetten, Degernau, Dettighofen, Detzeln, Eberfingen, Erzingen, Gei√ülingen, Grie√üen, Grimmelshofen, Gurtweil, Hohentengen, Horheim, Jestetten, Kadelburg, Krenkingen, K√º√ünach, Lausheim, Lembach, Lienheim, Lottstetten, Mauchen, Obereggingen, Oberlauchringen, Oberwangen, Oefteringen, Rechberg, Reckingen, Rheinheim, Riedern a. Sand, Schwaningen, Schwerzen, Stetten, St√ºhlingen, Tiengen, Untereggingen, Unterlauchringen, Unterwangen, Weisweil, Wut√∂schingen, Weizen
-†
+
 Bewertungsgebiet 7204 besteht aus den Finanzamtsbezirken
-†
+
 Baden-Baden
 mit allen Gemeinden
-†
-†
+
+
 Donaueschingen
 mit den Gemeinden
 Furtwangen, G√ºtenbach, Langenbach, Linach, Neukirch, Rohrbach, Sch√∂nenbach, V√∂hrenbach
-†
+
 Freiburg
 ohne die bei 7205 aufgef√ºhrten Gemeinden
-†
+
 M√ºllheim
 mit den Gemeinden:
 Britzingen, Buggingen, Dattingen, Laufen, Seefelden
-†
+
 Neustadt
 mit den Gemeinden:
 Schollach, Urach, Waldau
-†
+
 Rastatt
 mit den Gemeinden:
 Au im Murgtal, Bermersbach, Forbach, Gaggenau, Gausbach, Gernsbach, Hilpertsau, H√∂rden, Iffezheim, Kuppenheim, Langenbrand, Lautenbach, Oberndorf, Obertsrot, Reichental, Selbach, Staufenberg, Sulzbach, Wei√üenbach
-†
+
 Schopfheim
 mit den Gemeinden:
 Adelsberg, Aftersteg, Aitern, Atzenbach, B√∂llen, Ehrsberg, Fr√∂hnd, Geschwend, H√§g, Mambach, Muggenbrunn, Pfaffenberg, Pr√§g, Riedichen, Schlechtenau, Sch√∂nau, Sch√∂nenberg, Todtnau, Todtnauberg, Tunau, Utzenfeld, Wembach, Wieden, Zell i. W.
-†
+
 Villingen
 mit den Gemeinden:
 Brigach, Gremmelsbach, Langenschiltach, Nu√übach, Oberkirnach, Rohrhardsberg, St. Georgen, Sch√∂nwald, Schonach, Tennenbronn, Triberg
-†
+
 Wolfach
 ohne die bei 7202 aufgef√ºhrten Gemeinden
-†
+
 Bewertungsgebiet 7205 besteht aus den Finanzamtsbezirken
-†
+
 Emmendingen
 Mit den Gemeinden:
 Bahlingen, Denzlingen, Emmendingen, Freiamt, Heimbach, K√∂ndringen, K√∂nigschaffhausen, Kollmarsreute, Maleck, Malterdingen, Mundingen, Nimburg, Ottoschwanden, Reute, Sasbach, Sexau, Teningen, V√∂rstetten, Wasser, Windenreute
-†
+
 Freiburg
 mit den Gemeinden:
 Achkarren, Au, Bickensohl, Biengen, Bischoffingen, B√∂tzingen, Bollschweil, Breisach, Burkheim, Ebringen, Eichstetten, Feldkirch, Gottenheim, G√ºndlingen, Hartheim, Hausen an der M√∂hlin, Holzhausen, Horben, Ihringen, Jechtingen, Kiechlinsbergen, Lehen, Leiselheim, Mengen, Merdingen, Merzhausen, Munzingen, Neuershausen, Niederrimsingen, Norsingen, Oberbergen, Oberrimsingen, Oberrotweil, Offnadingen, Opfingen, Pfaffenweiler, St. Ulrich, Schallstadt, Schelingen, Scherzingen, S√∂lden, Tiengen, Umkirch, Waltershofen, Wasenweiler, Wittnau, Wolfenweiler, Suggental, Bremgarten
-†
+
 Rastatt
 mit den Gemeinden:
 Au am Rhein, Bietigheim, Bischweier, Durmersheim, Elchesheim, Freiolsheim, Illingen, Michelbach, Muggensturm, Niederb√ºhl, Oberweier, Oetigheim, Ottersdorf, Plittersdorf, Rastatt, Rauental, Rotenfels, Steinmauern, Waldprechtsweier, Wintersdorf, W√ºrmersheim
-†
+
 Oberfinanzdirektion: Stuttgart
-†
+
 Bewertungsgebiet 7301 besteht aus den Finanzamtsbezirken
-†
+
 Backnang
 ohne die bei 7302 aufgef√ºhrten Gemeinden
-†
+
 Bietigheim
 ohne die bei 7302 aufgef√ºhrten Gemeinden
-†
+
 B√∂blingen
 ohne die bei 7302 aufgef√ºhrten Gemeinden
-†
+
 Esslingen
 ohne die bei 7302 aufgef√ºhrten Gemeinden
-†
+
 Freudenstadt
 mit den Gemeinden:
 B√∂ffingen, B√∂singen, Cresbach, Dornstetten, Durrweiler, Edelweiler, Erzgrube, Garrweiler, Glatten, Gr√∂mbach, Hallwangen, Herzogsweiler, H√∂rschweiler, K√§lbersbronn, L√ºtzenhardt, Oberiflingen, Pfalzgrafenweiler, Schopfloch, Tumlingen, W√∂rnersberg, Unteriflingen, Untermusbach
-†
+
 Heilbronn
 mit den Gemeinden:
 Auenstein, Beilstein, Gronau, L√∂wenstein, Neckarwestheim, Neulautern, Schmidhausen, Schozach, Weiler √º. H., W√ºstenrot
-†
+
 Hirsau
 ohne die bei 7305 aufgef√ºhrten Gemeinden
-†
+
 Horb
 mit den Gemeinden:
 Baisingen, Dettlingen, Diessen, Eckenweiler, Ergenzingen, G√∂ttelfingen, G√ºndringen, Hochdorf, Salzstetten, Schietingen, Vollmaringen
-†
+
 Ludwigsburg
 ohne die bei 7302 aufgef√ºhrten Gemeinden
-†
+
 M√ºhlacker
 mit den Gemeinden:
 Ensingen, Kleinglattbach, Oberriexingen, Sersheim, Vaihingen/Enz
-†
+
 Reutlingen
 mit den Gemeinden:
 Altenburg, Bronnweiler, Degerschlacht, G√∂nningen, Gombringen, Oferdingen, Rommelsbach, Sickenhausen, Wannweil
-†
+
 Schorndorf
 ohne die bei 7302 aufgef√ºhrten Gemeinden
-†
+
 Schw√§bisch Hall
 mit der Gemeinde:
 Finsterrot
-†
+
 T√ºbingen
 ohne die bei 7303 aufgef√ºhrte Gemeinde
-†
+
 Waiblingen
 ohne die bei 7302 aufgef√ºhrten Gemeinden
-†
+
 Bewertungsgebiet 7302 besteht aus den Finanzamtsbezirken
-†
+
 Aalen
 mit den Gemeinden:
 Abtsgm√ºnd, Adelmannsfelden, Dalkingen, Dewangen, Ellenberg, Ellwangen, Fachsenfeld, Hofen, Hohenstadt, H√ºlen, H√ºttlingen, Jagstzell, Laubach, Lauchheim, Lippach, Neubronn, Neuler, Pfahlheim, Pommertsweiler, Rindelbach, R√∂hlingen, Rosenberg, Schrezheim, Schwabsberg, St√∂dtlen, Waldhausen, Westhausen, W√∂rt
-†
+
 Backnang
 mit den Gemeinden:
 Fornsbach, Grab, Gro√üerlach, Kirchenkringberg, Murrhardt, Sulzbach/Murr
-†
+
 Bad Mergentheim
 mit den Gemeinden:
 Archshofen, Blumweiler, Craintal, Creglingen, Finsterlohr, Frauental, Freudenbach, Haagen, Laudenbach, M√ºnster, Neubronn, Niederrimbach, Niederstetten, Oberrimbach, Oberstetten, Queckbronn, Reinsbronn, Rinderfeld, Schmerbach, Vorbachzimmern, Waldmannshofen, Wertmutshausen, Wildentierbach
-†
+
 Bietigheim
 mit den Gemeinden:
 B√∂nnigheim, Erligheim, Freudental, Hohenstein, Kirchheim a. N.
-†
+
 B√∂blingen
 mit den Gemeinden:
 B√∂blingen, Affst√§dt, Aidlingen, Altdorf, Breitenstein, Dagersheim, Darmsheim, D√§tzingen, Deufringen, D√∂ffingen, Ehningen, G√§rtringen, G√ºlstein, Haslach, Herrenberg, Hildrizhausen, Holzgerlingen, Kayh, Kuppingen, Magstadt, Maichingen, M√∂nchberg, Nebringen, Neuweiler, Nufringen, Oberjesingen, Rohrau, Sch√∂naich, Sindelfingen, Tailfingen, Weil i. Sch.
-†
+
 Crailsheim
 ohne die bei 7304 aufgef√ºhrten Gemeinden
-†
+
 Esslingen
 mit den Gemeinden:
 Baltmannsweiler, Berkheim, Deizisau, Denkendorf, Esslingen, Hegenlohe, Hochdorf, K√∂ngen, Nellingen a. d. F., Neuhausen a. d. F., Plochingen, Reichenbach F., Scharnhausen, Wernau, Zell a. N.
-†
+
 Geislingen
 mit allen Gemeinden
-†
-†
+
+
 G√∂ppingen
 mit allen Gemeinden
-†
-†
+
+
 Heidenheim
 mit den Gemeinden:
 Bissingen o. L., Bolheim, Dettingen a. A., Gerstetten, Gussenstadt, Hausen o. L., Heldenfingen, Herbrechtingen, Heuchlingen, S√∂hnstetten, Steinheim a. A.
-†
+
 Heilbronn
 mit den Gemeinden:
 Botenheim, Cleebronn, Eibensbach, G√ºglingen, Haberschlacht, Leonbronn, Meimsheim, Michelbach a. H., Ochsenburg, Weiler a. d. Z., Zaberfeld
-†
+
 Kirchheim/Teck
 mit allen Gemeinden
-†
-†
+
+
 Leonberg
 ohne die bei 7305 aufgef√ºhrten Gemeinden
-†
+
 Ludwigsburg
 mit den Gemeinden:
 Aldingen, Asperg, Kornwestheim, Ludwigsburg, Markgr√∂ningen, M√∂glingen, Neckarweihingen, Schwieberdingen
-†
+
 M√ºhlacker
 ohne die bei 7301 aufgef√ºhrten Gemeinden
-†
+
 N√ºrtingen
 ohne die bei 7303 aufgef√ºhrten Gemeinden
-†
+
 √ñhringen
 mit den Gemeinden:
 Geddelsbach, Maienfels, Neuh√ºtten, Unterheimbach
-†
+
 Schorndorf
 mit den Gemeinden:
 Kaisersbach, Steinenberg, Welzheim
-†
+
 Schw√§bisch Gm√ºnd
 mit allen Gemeinden
-†
-†
+
+
 Schw√§bisch Hall
 ohne die bei 7301 und 7304 aufgef√ºhrten Gemeinden
-†
+
 Stuttgart
 mit allen Gemeinden
-†
-†
+
+
 Ulm
 mit allen Gemeinden
-†
-†
+
+
 Urach
 mit der Gemeinde:
 Laichingen
-†
+
 Waiblingen
 mit den Gemeinden:
 Fellbach, √ñffingen, Rommelshausen, Schmiden, Stetten i. R.
-†
+
 Bewertungsgebiet 7303 besteht aus den Finanzamtsbezirken
-†
+
 Balingen
 mit den Gemeinden:
 Bitz, Burgfelden, Ebingen, Hossingen, Leutlingen, Margrethausen, Me√üstetten, Onstmettingen, Pfeffingen, Streichen, Thailfingen, Tieringen, Winterlingen, Zillhausen, Zimmern u. d. Burg
-†
+
 Bieberach
 ohne die bei 7306 aufgef√ºhrten Gemeinden
-†
+
 Ehingen
 mit allen Gemeinden
-†
-†
+
+
 Freudenstadt
 mit den Gemeinden:
 Alpirsbach, Betzweiler, Busenweiler, Ehlenbogen, Neuneck, Reinerzau, Sterneck, Vierundzwanzig-H√∂fe, W√§lde
-†
+
 Horb
 ohne die bei 7301 und 7306 aufgef√ºhrten Gemeinden
-†
+
 N√ºrtingen
 mit den Gemeinden:
 Altdorf, Bempflingen, Grafenberg, Gro√übettlingen, Kappish√§usern, Kleinbettlingen, Kohlberg, Neckartailfingen, Neckartenzlingen, Raidwangen, Tischardt
-†
+
 Oberndorf
 mit allen Gemeinden
-†
-†
+
+
 Reutlingen
 ohne die bei 7301 aufgef√ºhrten Gemeinden
-†
+
 Riedlingen
 ohne die bei 7306 aufgef√ºhrte Gemeinde
-†
+
 Rottweil
 ohne die bei 7306 aufgef√ºhrten Gemeinden
-†
+
 Saulgau
 ohne die bei 7306 aufgef√ºhrten Gemeinden
-†
+
 Sigmaringen
 ohne die bei 7201 aufgef√ºhrten Gemeinden
-†
+
 T√ºbingen
 mit der Gemeinde:
 D√∂rnach
-†
+
 Tuttlingen
 mit den Gemeinden:
 Aixheim, Durchhausen, Frittlingen, Schura, Talheim, Trossingen, Tuningen
-†
+
 Urach
 ohne die bei 7302 aufgef√ºhrte Gemeinde
-†
+
 Bewertungsgebiet 7304 besteht aus den Finanzamtsbezirken
-†
+
 Aalen
 ohne die bei 7302 aufgef√ºhrten Gemeinden
-†
+
 Bad Mergentheim
 ohne die bei 7302 aufgef√ºhrten Gemeinden
-†
+
 Crailsheim
 mit den Gemeinden:
 Amlishagen, B√§chlingen, Billingsbach, Ettenhausen, Herrentierbach, Langenburg, Simprechtshausen, Wittenweiler
-†
+
 Heidenheim
 ohne die bei 7302 aufgef√ºhrten Gemeinden
-†
+
 Heilbronn
 ohne die bei 7301 und 7302 aufgef√ºhrten Gemeinden
-†
+
 √ñhringen
 ohne die bei 7302 aufgef√ºhrten Gemeinden
-†
+
 Schw√§bisch Hall
 mit den Gemeinden:
 Arnsdorf, Braunsbach, Eschental, Gnadental, Goggenbach, Jungholzhausen, Orlach, Steinkirchen
-†
+
 Bewertungsgebiet 7305 besteht aus den Finanzamtsbezirken
-†
+
 Freudenstadt
 ohne die bei 7301 und 7303 aufgef√ºhrten Gemeinden
-†
+
 Hirsau
 mit den Gemeinden:
 Altburg, Althengstett, Altbulach, Agenbach, Aichelberg, Aichhalden, Beuren, Breitenberg, Calw, Emberg, Ettmannsweiler, Gaugenwald, Hirsau, Hornberg, Liebelsberg, Bad Liebenzell, Monakam, M√∂ttlingen, Neubulach, Neuhengstett, Neuweiler, Oberkolbach, Oberkolwangen, Oberreichenbach, Oberhaugstett, Ostelsheim, Ottenbronn, R√∂denbach, Simmersfeld, Simmozheim, Sommenhardt, Schmieh, Bad Teinach, Unterhaustett, √úberberg, W√ºrzbach, Zavelstein, Zwerenberg
-†
+
 Leonberg
 mit den Gemeinden:
 Weil der Stadt, Schafhausen
-†
+
 Neuenb√ºrg
 mit allen Gemeinden
-†
-†
+
+
 Bewertungsgebiet 7306 besteht aus den Finanzamtsbezirken
-†
+
 Balingen
 ohne die bei 7303 aufgef√ºhrten Gemeinden
-†
+
 Bieberach
 mit den Gemeinden:
 Dietmanns, Eberhardzell, Haslach, Hochdorf, M√ºhlhausen, Oberessendorf, Otterswang, Schussenried, Steinhausen b. Schussenried, Tannheim, Unteressendorf, Winterstettendorf, Winterstettenstadt
-†
+
 Friedrichshafen
 mit allen Gemeinden
-†
-†
+
+
 Horb
 mit den Gemeinden:
 Heiligenzimmern, V√∂hringen
-†
+
 Ravensburg
 mit allen Gemeinden
-†
-†
+
+
 Riedlingen
 mit der Gemeinde:
 Oggelshausen
-†
+
 Rottweil
 mit den Gemeinden:
 B√∂hringen, Rotenzimmern, Sch√∂rzingen, Wilflingen
-†
+
 Saulgau
 mit den Gemeinden:
 Allmannsweiler, Altshausen, Bierstetten, Boms, Braunenweiler, Ebenweiler, Ebersbach, Eichstegen, Fleischwagen, Geigelbach, Guggenhausen, Hochberg, Ho√ükirch, H√ºttenreute, K√∂nigseggwald, Laubach, Musbach, Reichenbach, Renhardsweiler, Riedhausen, Unterwaldhausen
-†
+
 Tuttlingen
 ohne die bei 7303 aufgef√ºhrten Gemeinden
-†
+
 Wangen
 mit allen Gemeinden
-†
+
 8.
 Land: Bayern
-†
+
 Oberfinanzdirektion: N√ºrnberg
-†
+
 Bewertungsgebiet 8101 besteht aus den Finanzamtsbezirken
-†
+
 Cham
 ohne die bei 8102 aufgef√ºhrten Gemeinden
-†
+
 Waldm√ºnchen
 mit allen Gemeinden
-†
+
 Neunburg v. W.
 ohne die bei 8102 aufgef√ºhrten Gemeinden
-†
+
 Tirschenreuth
 mit den Gemeinden:
 B√§rnau, Beidl, Dippersreuth, Ellenfeld, Griesbach, Gro√ükonreuth, Hohenthann, Liebenstein, M√§hring, Pilmersreuth a. W., Pl√∂√überg, Sch√∂nkirch, Schwarzenbach, Thanhausen, Wildenau
-†
-†
+
+
 gemeindefrei:
 Altherrgott, Griesbacher Wald und Brentlohe, Hinterwald, Hochberg, Pl√∂√überger Wald, Wildenauer Wald
-†
+
 Weiden
 mit den Gemeinden:
 Altenstadt, Bergnetsreuth, Bernrieth, B√∂hmischbruck, Br√ºnst, Burgtreswitz, Burkhardsrieht, Dimpfl, D√∂llnitz, Eslarn, Etzgersrieth, Flo√ü, Flossenb√ºrg, Gailertsreuth, Georgenberg, G√∂sen, Grafenreuth, Gr√∂benst√§dt, Gro√üenschwand, Heumaden, Kaimling, Kleinschwand, Lennesrieth, Lerau, Leuchtenberg, Lohma, Michldorf, Miesbrunn, Moosbach, Neudorf, Oberlind, Pfrentsch, Pleystein, P√ºchersreuth, Reinhardsrieth, Roggenstein, Schlattein, Sch√∂nbrunn, Spielberg, T√§nnesberg, Tr√∂bes, Vohenstrau√ü, Waidhaus, Waldau, Waldkirch, Waldthurn
-†
-†
+
+
 gemeindefrei:
 Br√ºnst, Eslarn-Mitte, Fahrenberg, Fuchsenberg-Krenn, Fuchssteinach-Fritzenholz, Haselstein, Hengstleite, Kaar, Kressau, K√ºhlau, Michlbach, Mitterberg, Neuenhammer, Oberer u. unterer Flossenb√ºrger Wald, Pfaffenried, Pflugb√ºhl und Ro√ütr√§nkholz, Pfrentschweiherwiesen und Pfrentschweiherlohe, Steinbruck, Sulzberg, T√§nnesberger Wald
-†
+
 Bewertungsgebiet 8102 besteht aus den Finanzamtsbezirken
-†
+
 Regensburg
 mit allen Gemeinden
-†
-†
+
+
 Riedenburg
 mit allen Gemeinden
-†
-†
+
+
 Beilngries
 mit den Gemeinden des Landkreises Beilngries
-†
+
 Cham
 mit den Gemeinden:
 Abtsried, Fronau, Haus, Kirchenrohrbach, Walderbach
-†
-†
+
+
 gemeindefrei:
 Neub√§uer Forst
-†
+
 Neumarkt
 mit den Gemeinden:
 Batzhausen, Darshofen, Da√üwang, Degerndorf, Deusmauer, Eichenhofen, Gro√übissendorf, Gro√üalfalterbach, G√ºnching, Hamberg, H√∂rmannsdorf, Hohenfels, Kleinalfalterbach, Lengenfeld, Lupburg, Mantlach b. Velburg, Markstetten, Nainhof-Hohenfels, Oberweiling, Oberwiesenacker, Parsberg, Pr√∂nsdorf, Raitenbuch, Reichertswinn, Ronsolden, Rudenshofen, Schnufenhofen, See, Seubersdorf, Velburg, Willenhofen, Wissing
-†
-†
+
+
 gemeindefrei:
 Laubholz, Sch√∂nlohe, Zieger
-†
+
 Neunburg v. W.
 mit den Gemeinden:
 Altenschwand, Bleich, Bodenstein, Bodenw√∂hr, Bruck, Dieberg, Erzh√§user, Fischbach, Kaspeltshub, Nittenau, Reichenbach, Sch√∂ngras, Sollbach, Stefling, Tax√∂ldern, Untermainsbach
-†
-†
+
+
 gemeindefrei:
 Blechhammer, Bodenw√∂hrer Forst, Falz, Jugendberg, Kaspeltshuber Forst, Neub√§uer Forst (n√∂rdl. u. √∂stl. Teil), Postloher Forst, Solbacher Forst, Tax√∂lderner Forst
-†
+
 Schwandorf
 mit der kreisfreien Stadt Schwandorf und mit den Gemeinden des Kreises Burglengenfeld
-†
+
 Bewertungsgebiet 8103 besteht aus den Finanzamtsbezirken
-†
+
 Kemnath
 mit allen Gemeinden
-†
-†
+
+
 Selb
 mit allen Gemeinden
-†
-†
+
+
 Waldsassen
 mit allen Gemeinden
-†
-†
+
+
 Amberg
 ohne die bei 8107 aufgef√ºhrten Gemeinden
-†
+
 Hof
 mit den Gemeinden:
 Draisendorf, Fa√ümannsreuth, Fohrenreuth, Kautendorf, Nentschau, Prex, Regnitzlosau, Rehau, Schwesendorf
-†
-†
+
+
 gemeindefrei:
 Rehauer Forst
-†
+
 Pegnitz
 mit dem gemeindefreien Gebiet:
-†
-†
-†
+
+
+
 Truppen√ºbungsplatz
-†
-†
-†
+
+
+
 Grafenw√∂hr
-†
+
 Schwandorf
 mit den Gemeinden des Landkreises Nabburg
-†
+
 Tirschenreuth
 mit den Gemeinden:
 Falkenberg, Gro√üklenau, Gumpen, Hohenwald, Lengenfeld bei Tirschenreuth, Matzersreuth, Rosall, Sch√∂nficht, Tirschenreuth, Wondreb
-†
-†
+
+
 gemeindefrei:
 Falkenberger Wald, Fichter und Heid, Gumpener Wald, Hohenwalder Wald, Rosaller Wald, Schmidheid, Sch√∂nfichter Wald
-†
+
 Weiden
 ohne die bei 8101 aufgef√ºhrten Gemeinden
-†
+
 Wunsiedel
 ohne die bei 8107 aufgef√ºhrten Gemeinden
-†
+
 Bewertungsgebiet 8104 besteht aus den Finanzamtsbezirken
-†
+
 Aschaffenburg
 mit allen Gemeinden
-†
-†
+
+
 Amorbach
 mit allen Gemeinden
-†
-†
+
+
 Br√ºckenau
 mit allen Gemeinden
-†
-†
+
+
 Lohr a. M.
 mit allen Gemeinden
-†
-†
+
+
 Bad Kissingen
 mit den Gemeinden:
 Dittlofsroda, Frankenbrunn, Hetzlos, Reith, Schw√§rzelbach, Thulba, V√∂lkersleier, Weizenbach i. Ufr., Wartmannsroth, Windheim
-†
+
 gemeindefrei:
 Omerz, Neuwirtshaus, Rotheberg
-†
+
 Marktheidenfeld
 ohne die bei 8105 aufgef√ºhrten Gemeinden
-†
+
 Bewertungsgebiet 8105 besteht aus den Finanzamtsbezirken
-†
+
 Karlstadt
 mit allen Gemeinden
-†
-†
+
+
 Ochsenfurth
 mit allen Gemeinden
-†
-†
+
+
 Schweinfurt
 mit allen Gemeinden
-†
-†
+
+
 W√ºrzburg
 mit allen Gemeinden
-†
-†
+
+
 Bad Kissingen
 ohne die bei 8104 aufgef√ºhrten Gemeinden
-†
+
 Bad Neustadt/S.
 ohne die bei 8107 aufgef√ºhrten Gemeinden
-†
+
 Gerolzhofen
 mit den Gemeinden:
 Alitzheim, Br√ºnnstadt, Gaibach, Gernach, Herlheim, Kleinrheinfeld, Kolitzheim, Lindach, M√∂nchstockheim, Oberspiesheim, Pusselsheim, Stammheim, Sulzheim, Unterspiesheim, V√∂gnitz, Zeilitzheim
-†
+
 Marktheidenfeld
 mit den Gemeinden:
 Billingshausen, Birkenfeld, B√∂ttigheim, Erlenbach b. M., Helmstadt, Holzkirchen, Holzkirchhausen, Homburg a. M., Karbach, Lengfurt, Marktheidenfeld, Neubrunn, Remlingen, Roden, Tiefenthal, Uettingen, Urspringen, W√ºstenzell, Zimmern
-†
+
 Zeil
 mit den Gemeinden:
 Buch, G√§dheim, Gre√ühausen, Holzhausen, Humprechtshausen, Kleinm√ºnster, Kleinsteinach, Mechenried, Ottendorf, Sailershausen, Uchenhofen
-†
+
 Bewertungsgebiet 8106 besteht aus den Finanzamtsbezirken
-†
+
 Eichst√§tt
 mit allen Gemeinden
-†
+
 Beilngries
 ohne die Gemeinden des Landkreises Beilngries
-†
+
 Gunzenhausen
 mit den Gemeinden:
 Auernheim, Degersheim, Dittenheim, D√∂ckingen, Gnotzheim, Hechlingen, Heidenheim, Hohentr√ºdingen, H√ºssingen, Kurzenaltheim, Markt Berolzheim, Meinheim, Ostheim, Polsingen, Sammenheim, Spielberg, Steinhart, Trendel, Ursheim, Westheim, Wettelsheim, Windischhausen, Windsfeld, Wolfsbronn
-†
+
 gemeindefrei:
 Brand, Grottenhof
-†
+
 Hilpoltstein
 mit den Gemeinden:
 Euerwang, Greding, Hausen, Herrnsberg, Kaising, Kraftsbuch, Landerzhofen, Mettendorf, R√∂ckenhofen
-†
+
 Wei√üenburg
 ohne die bei 8108 aufgef√ºhrten Gemeinden
-†
+
 Bewertungsgebiet 8107 besteht aus den Finanzamtsbezirken
-†
+
 Bamberg
 mit allen Gemeinden
-†
-†
+
+
 Bayreuth
 mit allen Gemeinden
-†
-†
+
+
 Coburg
 mit allen Gemeinden
-†
-†
+
+
 Ebern
 mit allen Gemeinden
-†
-†
+
+
 Forchheim
 mit allen Gemeinden
-†
-†
+
+
 Hofheim
 mit allen Gemeinden
-†
-†
+
+
 Kitzingen
 mit allen Gemeinden
-†
-†
+
+
 Kronach
 mit allen Gemeinden
-†
-†
+
+
 Kulmbach
 mit allen Gemeinden
-†
-†
+
+
 Lichtenfels
 mit allen Gemeinden
-†
-†
+
+
 M√ºnchberg
 mit allen Gemeinden
-†
-†
+
+
 Naila
 mit allen Gemeinden
-†
-†
+
+
 Amberg
 mit den Gemeinden:
 Achtel, Angfeld, Augsberg, Bachetsfeld, Dietersberg, Eckeltshof, Edelsfeld, Engelsberg, Eschenfelden, Frechetsfeld, F√ºrnried, Gaisach, Gebertshofen, G√∂tzendorf, Hirschbach, Holnstein, Iber, Illschwang, Kirchenreinbach, K√∂nigstein, Lauterhofen, Mittelrheinbach, Namsreuth, Neidstein, Neukirchen b. SR., Poppberg, Poppenricht, R√∂ckenricht, Schmidtstadt, Schwend, Steinling, Sulzbach-Rosenberg, Sunzendorf, Trondorf, Weigendorf, Wei√üenberg
-†
-†
+
+
 gemeindefrei:
 Eichen, Oberwald, Obere Wagensa√ü, Unterwald, Untere Wagensa√ü, Vorderes Grafenbuch
-†
+
 Bad Neustadt/S.
 mit den Gemeinden:
 Althausen, Aub, Kleinbardorf, Leinach, Merkershausen, Schwanhausen, Serrfeld, Sulzdorf a. d. L., Sulzfeld
-†
-†
+
+
 gemeindefrei:
 Bundorf, Sulzfeld
-†
+
 Erlangen
 mit den Gemeinden:
 Biengarten, Boxbrunn, Burgstall, Dachstadt, Dormitz, Ermreuth, Falkendorf, Gr√§fenberg, Gro√üenbuch, Gro√üdechsendorf, Gro√üenseebach, Hammerbach, Hannberg, Haundorf, Hemhofen, Herzogenaurach, He√üdorf, Hesselberg, Hetzles, Hiltpoltstein, Igensdorf, Kairlindach, Kappel, Kleinsendelbach, Kosbach, Lilling, M√ºnchaurach, Neundorf, Neunkirchen a. Br., Niederndorf, Oberlindach, Oberreichenbach, Pettensiedel, Pommer, Reinersdorf, Rezelsdorf, R√∂dlas, R√∂ttenbach, R√ºsselbach, St√∂ckach, Thuisbrunn, Unterreichenbach, Walkersbrunn, Weisendorf, Wei√üenohe, Zeckern, Zweifelsheim
-†
-†
+
+
 gemeindefrei:
 Eichelberg, K√§ferh√∂lzlein, Mark, M√∂nau
-†
+
 Gerolzhofen
 ohne die bei 8105 aufgef√ºhrten Gemeinden
-†
+
 Hersbruck
 ohne die Gemeinden des Landkreises Lauf/Pegnitz
-†
+
 Hof
 ohne die bei 8103 aufgef√ºhrten Gemeinden
-†
+
 Neumarkt
 ohne die bei 8102 aufgef√ºhrten Gemeinden
-†
+
 Pegnitz
 ohne das bei 8103 aufgef√ºhrte gemeindefreie Gebiet
-†
+
 Wunsiedel
 mit den Gemeinden:
 D√∂rflas b. Kirchenlamitz, Kirchenlamitz, Niederlamitz, Voitsumra, Vordorf, Wei√üenstadt
-†
-†
+
+
 gemeindefrei:
 Hallersteiner ForstNordost, Hallersteiner Forst-S√ºd, Martinlamitzer Forst-S√ºd, Meierh√∂fer Seite, Neubauer Forst-S√ºd +), Tr√∂stauer Forst-West +), Vordorfer Forst +), Wei√üenstadter Forst-Nord, Wei√üenstadter Forst-S√ºd
-†
-†
-†
+
+
+
 +) Nur soweit zum Forstamt Fichtelberg geh√∂rend.
-†
+
 Zeil
 ohne die bei 8105 aufgef√ºhrten Gemeinden
-†
+
 Bewertungsgebiet 8108 besteht aus den Finanzamtsbezirken
-†
+
 N√ºrnberg
 mit allen Gemeinden
-†
-†
+
+
 Schwabach
 mit allen Gemeinden
-†
-†
+
+
 Erlangen
 mit der kreisfreien Stadt Erlangen und mit den Gemeinden des Landkreises Erlangen
-†
+
 F√ºrth/Bay.
 ohne die bei 8109 aufgef√ºhrten Gemeinden
-†
+
 Hersbruck
 mit den Gemeinden des Landkreises Lauf/Pegnitz
-†
+
 Hilpoltstein
 ohne die bei 8106 aufgef√ºhrten Gemeinden
-†
+
 Wei√üenburg
 mit den Gemeinden:
 Allmannsdorf, Fiegenstall, Mannholz, Mischelbach, M√ºhlstetten, Pleinfeld, Ramsberg, Reuth unter Neuhaus, Sankt Veit, Stirn, Walting
-†
-†
+
+
 gemeindefrei:
 Schwarzleite
-†
+
 Bewertungsgebiet 8109 besteht aus den Finanzamtsbezirken
-†
+
 Neustadt/Aisch
 mit allen Gemeinden
-†
-†
+
+
 Uffenheim
 mit allen Gemeinden
-†
-†
+
+
 F√ºrth/Bay.
 mit den Gemeinden:
 Dietenhofen, Dippoldsberg, Ebersdorf, Eschenbach, Herpersdorf, Hirschneuses, Katterbach, Leonrod, Markt Erlbach, Neudorf, Neuhof a. d. Zenn, Neuziegenr√ºck, Oberfeldbrecht, Pirkach, Seubersdorf, Trautskirchen, Wilhermsdorf, Altselingsbach
-†
-†
+
+
 gemeindefrei:
 Hirschberg
-†
+
 Rothenburg o. d. T.
 ohne die bei 8110 aufgef√ºhrten Gemeinden
-†
+
 Bewertungsgebiet 8110 besteht aus den Finanzamtsbezirken
-†
+
 Dinkelsb√ºhl
 mit allen Gemeinden
-†
-†
+
+
 Ansbach
 mit allen Gemeinden
-†
-†
+
+
 Gunzenhausen
 ohne die bei 8106 aufgef√ºhrten Gemeinden
-†
-†
+
+
 Rothenburg o. d. T.
 mit den Gemeinden:
 Bellershausen, Bieg, Bockenfeld, Bottenweiler, Brunst, Buch a. W., Diebach, Domb√ºhl, Eckartsweiler, Erlach, Erzberg, Faulenberg, Frommetsfelden, Gailnau, Gailroth, Gastenfelden, Hagenau, Insingen, Kloster Sulz, Oestheim, Schillingsf√ºrst, Stilzendorf, Wettringen, Wildenholz, W√∂rnitz
-†
-†
+
+
 gemeindefrei:
 Klosterberg und Ro√ükopf, Obergailnauer Forst, Oestheimerberg
-†
+
 Oberfinanzdirektion: M√ºnchen
-†
+
 Bewertungsgebiet 8201 besteht aus den Finanzamtsbezirken
-†
+
 Burghausen
 mit allen Gemeinden
-†
+
 M√ºhldorf
 ohne die bei 8203 aufgef√ºhrten Gemeinden
-†
+
 Wasserburg
 ohne die bei 8203 aufgef√ºhrten Gemeinden
-†
+
 Berchtesgaden
 mit den Gemeinden: Marzoll, H√∂gl
-†
+
 Traunstein
 ohne die bei 8208 aufgef√ºhrten Gemeinden
-†
+
 Rosenheim
 ohne die bei 8208 und 8209 aufgef√ºhrten Gemeinden
-†
+
 Laufen
 ohne die bei 8208 aufgef√ºhrten gemeindefreien Gebiete
-†
+
 Bewertungsgebiet 8202 besteht aus den Finanzamtsbezirken
-†
+
 N√∂rdlingen
 mit allen Gemeinden
-†
-†
+
+
 Dillingen
 mit allen Gemeinden
-†
-†
+
+
 Donauw√∂rth
 mit allen Gemeinden
-†
-†
+
+
 Neuburg
 mit allen Gemeinden
-†
-†
+
+
 Bewertungsgebiet 8203 besteht aus den Finanzamtsbezirken
-†
+
 Aichach
 mit allen Gemeinden
-†
-†
+
+
 Freising
 mit allen Gemeinden
-†
-†
+
+
 Ingolstadt
 mit allen Gemeinden
-†
-†
+
+
 Kelheim
 mit allen Gemeinden
-†
-†
+
+
 Landshut
 mit allen Gemeinden
-†
-†
+
+
 Mainburg
 mit allen Gemeinden
-†
-†
+
+
 Mallersdorf
 mit allen Gemeinden
-†
-†
+
+
 Pfaffenhofen
 mit allen Gemeinden
-†
-†
+
+
 Schrobenhausen
 mit allen Gemeinden
-†
-†
+
+
 Erding
 ohne die bei 8204 aufgef√ºhrten Gemeinden
-†
+
 Wasserburg
 mit den Gemeinden:
 Albaching, Allmannsau, Au a. Inn, Berg, Dachberg, F√ºrholzen, Gars, Gatterberg, Haag, Isen, Je√üling, Kirchdorf, Kronberg, Lappach, Lengmoos, Maitenbeth, Mittbach, Oberornau, Pyramoos, Rechtmehring, Reichertsheim, Rosenberg, Sankt Christoph, Sankt Wolfgang, Schiltern, Schleefeld, Schnaupping, Sch√∂nbrunn, Stadel-Klostergars, Utzenbichl, Westach, Winden
-†
-†
+
+
 gemeindefrei:
 Gro√ühaager Forst, Sollach, Thann
-†
+
 M√ºhldorf
 mit den Gemeinden:
 Buchbach, Obertaufkirchen, Schwindegg, Schwindkirchen, Walkersaich
-†
+
 Dingolfing
 mit den Gemeinden:
 Oberviehbach, Niederviebach
-†
+
 Vilsbiburg
 mit den Gemeinden:
 Altfraunhofen, Babing, Baierbach, Bergham, Bodenkirchen, Bonbruck, Eberspoint, Felizenzell, Gaindorf, Geisenhausen, Haarbach, Holzhausen, Kr√∂ning, Neufraunhofen, Pauluszell, Ruprechtsberg, Salksdorf, Velden, Vilslern, Wolferding, Wurmsham
-†
+
 Bewertungsgebiet 8204 besteht aus den Finanzamtsbezirken
-†
+
 Augsburg-Land
 mit allen Gemeinden
-†
-†
+
+
 Augsburg-Stadt
 mit allen Gemeinden
-†
-†
+
+
 Dachau
 mit allen Gemeinden
-†
-†
+
+
 Ebersberg
 mit allen Gemeinden
-†
-†
+
+
 F√ºrstenfeldbruck
 mit allen Gemeinden
-†
-†
+
+
 G√ºnzburg
 mit allen Gemeinden
-†
-†
+
+
 Illertissen
 mit allen Gemeinden
-†
-†
+
+
 Kaufbeuren
 mit allen Gemeinden
-†
-†
+
+
 Kempten
 mit allen Gemeinden
-†
-†
+
+
 Krumbach
 mit allen Gemeinden
-†
-†
+
+
 Landsberg
 mit allen Gemeinden
-†
-†
+
+
 Lindau
 mit allen Gemeinden
-†
-†
+
+
 Neu-Ulm
 mit allen Gemeinden
-†
-†
+
+
 Marktoberdorf
 mit allen Gemeinden
-†
-†
+
+
 Memmingen
 mit allen Gemeinden
-†
-†
+
+
 Mindelheim
 mit allen Gemeinden
-†
-†
+
+
 M√ºnchen-Land
 mit allen Gemeinden
-†
-†
+
+
 M√ºnchen-Nord
 mit allen Gemeinden
-†
-†
+
+
 M√ºnchen-Ost
 mit allen Gemeinden
-†
-†
+
+
 M√ºnchen-S√ºd
 mit allen Gemeinden
-†
-†
+
+
 M√ºnchen-West
 mit allen Gemeinden
-†
-†
+
+
 M√ºnchen-Zentral
 mit allen Gemeinden
-†
-†
+
+
 Starnberg
 mit allen Gemeinden
-†
-†
+
+
 Wolfratshausen
 mit allen Gemeinden
-†
-†
+
+
 Weilheim
 ohne die Gemeinde:
 Schledorf
-†
+
 Schongau
 ohne das gemeindefreie Gebiet Fronreiten
-†
+
 Erding
 mit den Gemeinden:
 Finsing, Forstern, Moosinning, Niederneuching, Oberneuching, Ottenhofen, Pastetten, W√∂rth
-†
+
 F√ºssen
 ohne die bei 8209 aufgef√ºhrten Gemeinden
-†
+
 Immenstadt
 mit den Gemeinden:
 Akams, Diepolz, Eckarts, Missen-Wilhams, Niedersonthofen, Ottacker, Rauhenzell, Stein, Stiefenhofen, Untermaiselstein, Vorderburg
-†
+
 Miesbach
 ohne die bei 8209 aufgef√ºhrten Gemeinden
-†
+
 Bad T√∂lz
 ohne die bei 8209 aufgef√ºhrten Gemeinden
-†
+
 Bewertungsgebiet 8205 besteht aus den Finanzamtsbezirken
-†
+
 Eggenfelden
 mit allen Gemeinden
-†
-†
+
+
 Griesbach
 mit allen Gemeinden
-†
-†
+
+
 Landau
 mit allen Gemeinden
-†
-†
+
+
 Pfarrkirchen
 mit allen Gemeinden
-†
-†
+
+
 Simbach
 mit allen Gemeinden
-†
-†
+
+
 Vilshofen
 mit allen Gemeinden
-†
-†
+
+
 Dingolfing
 ohne die Gemeinden:
 Niederviehbach, Oberviehbach
-†
+
 Straubing
 ohne die bei 8206 aufgef√ºhrten Gemeinden
-†
+
 Deggendorf
 ohne die bei 8206 aufgef√ºhrten Gemeinden
-†
+
 Passau
 ohne die bei 8206 aufgef√ºhrten Gemeinden
-†
+
 Vilsbiburg
 ohne die bei 8203 aufgef√ºhrten Gemeinden
-†
+
 Bewertungsgebiet 8206 besteht aus den Finanzamtsbezirken
-†
+
 K√∂tzting
 mit allen Gemeinden
-†
-†
+
+
 Viechtach
 ohne die bei 8207 aufgef√ºhrten Gemeinden
-†
+
 Straubing
 mit den Gemeinden:
 Albertsried, Bernried, Dachsberg, Elisabethszell, Englmar, Falkenfels, Gittensdorf, Gossersdorf, Haibach, Haselbach, Haunkenzell, Heilbrunn, Irschenbach, Konzell, Landasberg, Landorf, Loitzendorf, Neukirchen, Oberm√ºhlbach, Perasdorf, Pr√ºnstfelburg, Rattenberg, Saulburg, Sch√∂nstein, Schwarzach, Siegersdorf, Stallwang, Wiesenfelden, Windberg, Zinsenzell
-†
-†
+
+
 gemeindefrei:
 B√∂bracher Staatswald, Schwarzacher Hochwald (Teilfl√§che)
-†
+
 Deggendorf
 mit den Gemeinden:
 Alberting, Auerbach, Bergern, Edenstetten, Egg, Grafling, Grattersdorf, Greising, Hirschberg, Hunding, Lalling, Mietraching, Nabin, Oberaign, Riggerding, Schaufling, Schwarzach, Taiding, Urlading, Winsing, Seebach
-†
-†
+
+
 gemeindefrei:
 B√∂bracher Staatswald (Teilfl√§che), Krakel, Vogelsang, Leopoldshochwald
-†
+
 Zwiesel
 ohne die bei 8207 aufgef√ºhrten Gemeinden
-†
+
 Sch√∂nberg
 ohne die bei 8207 aufgef√ºhrten Gemeinden
-†
+
 Freyung
 mit den Gemeinden:
 Au√üenbr√ºnst, B√∂hmzwiesel, Freyung, F√ºrsteneck, Harsdorf, Haindlschlag, Hintereben, Hinterschmiding, Hohenau, Jandelsbrunn, Karlsbach, Kumreut, Niederperlesreut, Oberfrauenwald, Oberndorf, Perlesreut, Pa√üreut, Ratzing, Rehberg, R√∂hrnbach, Ringelai, Schiefweg, Unterh√∂henstetten, Waldenreut, Waldkirchen, Wasching, Wilhelmsreut
-†
+
 Passau
 mit den Gemeinden:
 F√ºrstenstein, M√ºnchen, Nirsching, Prag, Breitenberg, Eidenberg, Gegenbach, Germannsdorf, Gollnerberg, Gottsdorf, Hauzenberg, Jahrdorf, Kasberg, L√§mmersdorf, Me√ünerschlag, Ra√überg, Tittling, Witzmannsberg, Wotzdorf, M√∂slberg, Oberneureuth, Ober√∂tzdorf, Ra√üreuth, Sch√∂nberg, Sonnen, Thalberg, Thurnreuth, Untergriesbach, Wegscheid, Wildenranna
-†
+
 Bewertungsgebiet 8207besteht aus den Finanzamtsbezirken
-†
+
 Viechtach
 mit den Gemeinden:
 B√∂brach, Drachselsried
-†
-†
+
+
 gemeindefrei:
 Auerkieler Wald, Drachselsrieder-Forst
-†
+
 Zwiesel
 mit den Gemeinden:
 Bodenmais, Eisenstein, B√§rnzell, Brandten, Frauenau, Klautzenbach, Langdorf, Lindberg, Rabenstein, Zwiesel
-†
-†
+
+
 gemeindefrei:
 Bodenmaiser-Wald, Brandtner-Grenzwald, Langdorfer-Wald, Klautzenbacher-Wald, Hennenkobel, Zwiesler Waldhaus, Frauenauer-Wald
-†
+
 Sch√∂nberg
 mit den Gemeinden:
 Rosenau, Spiegelau, St. Oswald, Sch√∂nanger
-†
-†
+
+
 gemeindefrei:
 Klingenbrunner-Wald, Forstbezirk St. Oswald, Forstbezirk Waldh√§user-Wald
-†
+
 Freyung
 ohne die bei 8206 aufgef√ºhrten Gemeinden
-†
+
 Bewertungsgebiet 8208 besteht aus den Finanzamtsbezirken
-†
+
 Berchtesgaden
 ohne die Gemeinden:
 Marzoll, H√∂gl
-†
+
 Traunstein
 mit den Gemeinden:
 Eisen√§rzt, Hammer, Inzell, Marquartstein, Oberw√∂ssen, Reit i. Winkl, Ruhpolding, Schleching, Unterw√∂ssen
-†
-†
+
+
 gemeindefrei:
 Reit im Winkl, Seehaus, Vachenau, Zell, Urschlau, Bergen, Marquartstein, Oberw√∂ssen, Schleching, Piesenhausen, Winklmoos, Inzell, Kachelstein mit Baumburgerwald, Sulzberg
-†
+
 Rosenheim
 mit den Gemeinden:
 Hohenaschau, Sachrang
-†
+
 Laufen
 mit den gemeindefreien Gebieten: Schwarzenberg, Teisenberg
-†
+
 Bewertungsgebiet 8209 besteht aus den Finanzamtsbezirken
-†
+
 Garmisch-
-†
-†
-†
+
+
+
 Partenkirchen
 mit allen Gemeinden
-†
-†
+
+
 Weilheim
 mit der Gemeinde:
 Schlehdorf
-†
+
 Schongau
 mit dem gemeindefreien Gebiet: Fronreiten
-†
+
 F√ºssen
 mit den Gemeinden:
 Buching, F√ºssen, Nesselwang, Pfronten, Schwangau, Trauchgau, Wei√üensee
-†
-†
+
+
 gemeindefrei:
 Hohenschwangau
-†
+
 Immenstadt
 ohne die bei 8204 aufgef√ºhrten Gemeinden
-†
+
 Rosenheim
 mit den Gemeinden:
 Brannenburg, Degerndorf, Flintsbach, Grainbach, Gro√übrannenberg, Kiefersfelden, Niederaudorf, Nu√üdorf, Oberaudorf, Ro√üholzen, Steinkirchen, T√∂rwang
-†
+
 Miesbach
 mit den Gemeinden:
 Bad Wiessee, Bayrischzell, Fischbachau, Kreuth, Rottach, Schliersee, Tegernsee
-†
+
 Bad T√∂lz
 mit den Gemeinden:
 Benediktbeuren, Gai√üach, Jachenau, Kochel, Lenggries, Wackersberg
-†
-†
+
+
 gemeindefrei:
 Benediktbeuren, Bichl, Jachenau, Kochel, Heilbrunn
-†
+
 Bewertungsgebiet 9101 besteht aus allen Finanzamtsbezirken des Landes Hamburg
-†
+
 Bewertungsgebiet 10101 besteht aus allen Finanzamtsbezirken des Landes Bremen
-†
+
 Bewertungsgebiet 11101 besteht aus allen Finanzamtsbezirken des Landes Berlin
 
 Anlage 3 - (zu ¬ß 3)
@@ -10677,35 +10677,35 @@ bis 200
 199
 226
 248
-†
-†
+
+
 601 - 650
 161
 176
 192
 208
 224
-†
-†
-†
-†
+
+
+
+
 651 - 700
 180
 198
 216
-†
-†
-†
-†
-†
-†
+
+
+
+
+
+
 √ºber 700
 200
-†
-†
-†
-†
-†
-†
-†
-†
+
+
+
+
+
+
+
+

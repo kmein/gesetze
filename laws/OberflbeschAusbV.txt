@@ -204,9 +204,9 @@ Betriebliche und technische Kommunikation\\
 
 4*)
 
-†
 
-†
+
+
 
 6
 
@@ -221,9 +221,9 @@ Planen und Steuern von Arbeitsabl√§ufen; Kontrollieren und Beurteilen der Ergebn
 
 4*)
 
-†
 
-†
+
+
 
 7
 
@@ -239,9 +239,9 @@ Pr√ºfen, Anrei√üen und Kennzeichnen\\
 
 3*)
 
-†
 
-†
+
+
 
 8
 
@@ -258,9 +258,9 @@ Grundlagen der mechanischen Fertigungs- und F√ºgeverfahren, Herstellen von Betri
 
 4
 
-†
 
-†
+
+
 
 - h) :: Werkst√ºcke in Bezug auf die Beschichtbarkeit pr√ºfen
 - i) :: Vorrichtungen und Gestelle nach Vorgaben entwerfen und anfertigen
@@ -268,9 +268,9 @@ Grundlagen der mechanischen Fertigungs- und F√ºgeverfahren, Herstellen von Betri
 
 4
 
-†
 
-†
+
+
 
 9
 
@@ -283,9 +283,9 @@ Erfassen von Messwerten\\
 
 4
 
-†
 
-†
+
+
 
 10
 
@@ -298,9 +298,9 @@ Warten von Betriebsmitteln\\
 
 3*)
 
-†
 
-†
+
+
 
 11
 
@@ -322,38 +322,38 @@ Vor- und Nachbehandeln von unbeschichteten und beschichteten Oberfl√§chen\\
 
 9
 
-†
 
-†
+
+
 
 - d) :: metallische Werkstoffe durch Entfetten und Beizen vorbehandeln
 - e) :: Oberfl√§chen chemisch oder elektrolytisch mit √Ñtz-, Gl√§nz-, Polier-, Entgratungs- und Beizverfahren bearbeiten
 
-†
+
 
 4
 
-†
 
-†
+
+
 
 - f) :: Metalle mittels chemischer oder elektrochemischer Verfahren, insbesondere durch Einf√§rben, behandeln
 
-†
 
-†
+
+
 
 2
 
-†
+
 
 - g) :: beschichtete Werkst√ºcke durch Auftragen von organischen und anorganischen Schutzschichten nachbehandeln
 
-†
 
-†
 
-†
+
+
+
 
 4
 
@@ -369,11 +369,11 @@ Regeln von Produktionsprozessen\\
 
 4
 
-†
 
-†
 
-†
+
+
+
 
 13
 
@@ -388,11 +388,11 @@ Umgang mit Betriebs- und Gefahrstoffen, verfahrenstechnische Grundoperationen\\
 
 6
 
-†
 
-†
 
-†
+
+
+
 
 14
 
@@ -404,33 +404,33 @@ Qualit√§tsmanagement\\
 
 7*)
 
-†
 
-†
 
-†
+
+
+
 
 - c) :: Normen und Systeme des Qualit√§tsmanagements anwenden und beurteilen
 - d) :: Pr√ºfarten und Pr√ºfmittel nach Normen ausw√§hlen
 
-†
+
 
 4
 
-†
 
-†
+
+
 
 - e) :: Einsatzf√§higkeit der Pr√ºfmittel feststellen und dokumentieren
 - f) :: Informationen √ºber Werk- und Hilfsstoffe, Produktion und Produkte ber√ºcksichtigen
 
-†
 
-†
+
+
 
 2
 
-†
+
 
 - g) :: Pr√ºfpl√§ne und betriebliche Pr√ºfvorschriften anwenden
 - h) :: Ursachen von Fehlern und Qualit√§tsm√§ngeln systematisch suchen, beseitigen und dokumentieren
@@ -438,11 +438,11 @@ Qualit√§tsmanagement\\
 - j) :: zur kontinuierlichen Verbesserung von Arbeitsvorg√§ngen im eigenen Arbeitsbereich beitragen
 - k) :: bei Ma√ünahmen zur Optimierung von Verfahren und Prozessen mitwirken
 
-†
 
-†
 
-†
+
+
+
 
 7
 
@@ -454,23 +454,23 @@ W√§rmebehandlung\\
 - a) :: W√§rmebehandlungsverfahren und ihre Auswirkungen auf den Werkstoff und eine nachfolgende Oberfl√§chenbehandlung beurteilen
 - b) :: Werkst√ºcke thermisch behandeln
 
-†
+
 
 2
 
-†
 
-†
+
+
 
 - c) :: Auswirkungen der W√§rmebehandlung auf den Werkstoff und die Oberfl√§che beurteilen
 
-†
 
-†
+
+
 
 2
 
-†
+
 
 16
 
@@ -479,21 +479,21 @@ Einsetzen von Vorrichtungen und Gestellen\\
 
 - a) :: Vorrichtungen und Gestelle an die Werkst√ºcke und Verfahren anpassen
 
-†
+
 
 5
 
-†
 
-†
+
+
 
 - b) :: Hilfselektroden, Blenden und Abdeckungen unter Ber√ºcksichtigung der angewendeten Werkstoffe und Verfahren entwerfen und anfertigen
 
-†
 
-†
 
-†
+
+
+
 
 5
 
@@ -502,15 +502,15 @@ Einsetzen von Vorrichtungen und Gestellen\\
 Oberfl√§chentechnologie\\
 (¬ß 3 Nr. 17)
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 Alternative A: Chemische und elektrochemische Abscheidung von Metallen und Legierungen
 
@@ -519,22 +519,22 @@ Alternative A:
 - a) :: Stoffmengen zum Ansetzen und Korrigieren von Elektrolyten nach Vorgabe festlegen und unter Ber√ºcksichtigung sicherheitstechnischer und arbeitshygienischer Vorschriften bereitstellen und zugeben
 - b) :: Wirkungsweise der galvanischen Abscheidung von Metallen und Metalllegierungen kontrollieren
 
-†
 
-†
+
+
 
 10
 
-†
+
 
 - c) :: Parameter f√ºr die Abscheidung von Metallen und Metallegierungen auf metallischen und nichtmetallischen Werkstoffen sowie auf Leiterplatten chemisch und elektrochemisch einstellen und √ºberwachen
 - d) :: Elektrolyte quantitativ und qualitativ mittels chemischer und physikalischer Methoden auf ihre Funktionsf√§higkeit √ºberpr√ºfen und korrigieren
 
-†
 
-†
 
-†
+
+
+
 
 12
 
@@ -546,22 +546,22 @@ Alternative B:
 - a) :: Stoffmengen zum Ansetzen und Korrigieren von Elektrolyten nach Vorgabe berechnen und unter Ber√ºcksichtigung sicherheitstechnischer und arbeitshygienischer Vorschriften bereitstellen und zugeben
 - b) :: Elektrolyte quantitativ und qualitativ mittels chemischer und physikalischer Methoden auf ihre Funktionsf√§higkeit √ºberpr√ºfen und korrigieren
 
-†
 
-†
+
+
 
 10
 
-†
+
 
 - c) :: anodische Oxidation von metallischen Werkstoffen durchf√ºhren und unterschiedliche Einf√§rbetechnologien anwenden
 - d) :: metallische Werkstoffe und anodische Schichten nachbehandeln
 
-†
 
-†
 
-†
+
+
+
 
 12
 
@@ -573,22 +573,22 @@ Alternative C:
 - a) :: Werkst√ºcke mit physikalischen und chemischen Verfahren vorbehandeln
 - b) :: Unterdruck und Vakuum unter Ber√ºcksichtigung des Verfahrens erzeugen
 
-†
 
-†
+
+
 
 10
 
-†
+
 
 - c) :: elektrische und chemische Parameter zur Erzeugung von Plasmen einstellen
 - d) :: Verfahren der Vakuumbeschichtung anwenden
 
-†
 
-†
 
-†
+
+
+
 
 12
 
@@ -600,22 +600,22 @@ Alternative D:
 - a) :: Stoffmengen zum Ansetzen und Korrigieren von Zinkschmelzen nach Vorgabe festlegen und unter Ber√ºcksichtigung sicherheitstechnischer Vorschriften bereitstellen und zugeben
 - b) :: Wirkungsweise der Feuerverzinkung kontrollieren und Prozessparameter korrigieren
 
-†
 
-†
+
+
 
 10
 
-†
+
 
 - c) :: Verfahren der Feuerverzinkung anwenden
 - d) :: Zinkschichten nachbehandeln
 
-†
 
-†
 
-†
+
+
+
 
 12
 
@@ -629,13 +629,13 @@ Bedienen, √úberwachen und Warten von Einrichtungen und Anlagen\\
 - c) :: Meldeger√§te, insbesondere Warn- und Diagnoseeinrichtungen, beachten
 - d) :: Funktions- und Prozessablauf √ºberwachen und dokumentieren
 
-†
 
-†
+
+
 
 8
 
-†
+
 
 - e) :: oberfl√§chentechnische Anlagen sowie vor- und nachgelagerte Einrichtungen bedienen
 - f) :: periphere Einrichtungen bedienen und √ºberwachen, insbesondere - Filteranlagen - Ansetzstationen - Anodenwartungsstationen - Gleichrichter - Dosierstationen oder - Gasversorgung - Chemikaliendosierung - Vakuumpumpen - K√ºhlaggregate oder - Krananlagen - Zinkbadeinhausungen - Filteranlagen
@@ -643,11 +643,11 @@ Bedienen, √úberwachen und Warten von Einrichtungen und Anlagen\\
 - h) :: System Warentr√§ger, Gestelle und Vorrichtungen in Bezug auf die angewendeten Verfahren bedienen und warten
 - i) :: Elektroden reinigen und einrichten oder Elektroden und Targets reinigen, justieren sowie ein- und ausbauen oder Hartzink ziehen
 
-†
 
-†
 
-†
+
+
+
 
 13
 
@@ -659,21 +659,21 @@ Entfernen von Beschichtungen\\
 - a) :: Beschichtungen in Bezug auf ihre Entfernungsm√∂glichkeiten beurteilen
 - b) :: Verfahren f√ºr die Entfernung von Beschichtungen ausw√§hlen
 
-†
+
 
 3
 
-†
 
-†
+
+
 
 - c) :: metallische und nichtmetallische Schichten auf unterschiedlichen Grundwerkstoffen mittels mechanischer, chemischer, elektrochemischer oder physikalischer Verfahren entfernen
 
-†
 
-†
 
-†
+
+
+
 
 2
 
@@ -686,23 +686,23 @@ Beurteilen von Oberfl√§chen\\
 - b) :: Oberfl√§chen, insbesondere Schichtdicke, H√§rte und Abrieb, messen
 - c) :: Korrosionspr√ºfung durchf√ºhren
 
-†
+
 
 4
 
-†
 
-†
+
+
 
 - d) :: Messergebnisse auswerten und dokumentieren
 
-†
+
 
 2
 
-†
 
-†
+
+
 
 21
 
@@ -713,22 +713,22 @@ Verfahren der Umwelttechnik\\
 - b) :: Verfahren zur Stoffr√ºckf√ºhrung und -r√ºckgewinnung anwenden
 - c) :: Ausschleppung von Prozessl√∂sungen vermindern
 
-†
+
 
 4
 
-†
 
-†
+
+
 
 - d) :: physikalische und chemische Verfahren zur Behandlung von Abw√§ssern unter Ber√ºcksichtigung der gesetzlichen Vorschriften anwenden
 - e) :: Abf√§lle und Reststoffe erfassen und zur weiteren Verwertung oder Entsorgung bereitstellen
 
-†
 
-†
 
-†
+
+
+
 
 9
 

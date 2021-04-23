@@ -10,9 +10,9 @@ Dieses Gesetz findet Anwendung auf laute Güterwagen, die auf der regelspurigen 
 
 § 2 - Begriffsbestimmungen
 
-(1) �Lauter Güterwagen“ im Sinne dieses Gesetzes ist ein Güterwagen, der bei der Inbetriebnahme nicht den Anforderungen der Verordnung (EU) Nr. 1304/2014 der Kommission vom 26. November 2014 über die technische Spezifikation für die Interoperabilität des Teilsystems �Fahrzeuge -- Lärm“ sowie zur Änderung der Entscheidung 2008/232/EG und Aufhebung des Beschlusses 2011/229/EU (ABl. L 356 vom 12.12.2014, S. 421) oder des Beschlusses 2011/229/EU der Kommission vom 4. April 2011 über die Technische Spezifikation für die Interoperabilität (TSI) zum Teilsystem �Fahrzeuge -- Lärm“ des konventionellen transeuropäischen Bahnsystems (ABl. L 99 vom 13.4.2011, S. 1) entsprochen hat.
-(2) �Maximal zulässige Schallemission“ im Sinne dieses Gesetzes ist eine Schallemission, die den fiktiven Schallleistungspegel nicht überschreitet.
-(3) �Fiktiver Schallleistungspegel“ im Sinne dieses Gesetzes ist der Wert, der sich ergibt, wenn der Pegel der längenbezogenen Schallleistung für einen Zug berechnet wird, der
+(1) Lauter Güterwagen“ im Sinne dieses Gesetzes ist ein Güterwagen, der bei der Inbetriebnahme nicht den Anforderungen der Verordnung (EU) Nr. 1304/2014 der Kommission vom 26. November 2014 über die technische Spezifikation für die Interoperabilität des Teilsystems Fahrzeuge -- Lärm“ sowie zur Änderung der Entscheidung 2008/232/EG und Aufhebung des Beschlusses 2011/229/EU (ABl. L 356 vom 12.12.2014, S. 421) oder des Beschlusses 2011/229/EU der Kommission vom 4. April 2011 über die Technische Spezifikation für die Interoperabilität (TSI) zum Teilsystem Fahrzeuge -- Lärm“ des konventionellen transeuropäischen Bahnsystems (ABl. L 99 vom 13.4.2011, S. 1) entsprochen hat.
+(2) Maximal zulässige Schallemission“ im Sinne dieses Gesetzes ist eine Schallemission, die den fiktiven Schallleistungspegel nicht überschreitet.
+(3) Fiktiver Schallleistungspegel“ im Sinne dieses Gesetzes ist der Wert, der sich ergibt, wenn der Pegel der längenbezogenen Schallleistung für einen Zug berechnet wird, der
 
 - 1. :: hinsichtlich Fahrzeuganzahl und Fahrzeugbauarten mit Ausnahme der Bremsausrüstung mit dem Güterzug identisch ist, für den eine Trasse beantragt und zugewiesen wird, und
 - 2. :: ausschließlich aus Güterwagen besteht, die keine lauten Güterwagen sind.

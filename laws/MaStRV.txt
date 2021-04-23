@@ -6,17 +6,17 @@ Ausfertigungsdatum: 10.04.2017
 
 Inhaltsübersicht
 
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
+
+
+
+
+
+
+
+
+
+
+
 
 § 1 - Anwendungsbereich
 
@@ -27,27 +27,27 @@ Diese Verordnung dient der Ausgestaltung des Marktstammdatenregisters nach § 11
 Im Sinn dieser Verordnung ist
 
 - 1. :: (weggefallen)
-- 2. :: �Betreiber“, wer unabhängig vom Eigentum eine Einheit oder eine EEG- oder KWK-Anlage nutzt,
-- 3. :: �EEG-Anlage“ jede Anlage zur Erzeugung von Strom, die nach der für sie maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes eine Anlage ist,
-- 4. :: �Einheit“ jede und jeder ortsfeste
+- 2. :: Betreiber“, wer unabhängig vom Eigentum eine Einheit oder eine EEG- oder KWK-Anlage nutzt,
+- 3. :: EEG-Anlage“ jede Anlage zur Erzeugung von Strom, die nach der für sie maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes eine Anlage ist,
+- 4. :: Einheit“ jede und jeder ortsfeste
   - a) :: Gaserzeugungseinheit,
   - b) :: Gasspeicher,
   - c) :: Gasverbrauchseinheit,
   - d) :: Stromerzeugungseinheit,
   - e) :: Stromspeicher,
   - f) :: Stromverbrauchseinheit,
-- 5. :: �Gaserzeugungseinheit“ jede technische Einrichtung zur Erzeugung von Gas,
-- 6. :: �Gasspeicher“ jede technische Einrichtung zur Zwischenspeicherung von Gas,
-- 7. :: �Gasverbrauchseinheit“ jede technische Einrichtung zum Verbrauch von Gas,
-- 8. :: �KWK-Anlage“ jede ortsfeste technische Anlage, in der gleichzeitig Strom und Nutzwärme erzeugt werden,
-- 9. :: �Marktakteur“ jede natürliche oder juristische Person, die am Energiemarkt teilnimmt,
-- 10. :: �Projekt“ jede Einheit in der Entwurfs- oder Errichtungsphase, deren Inbetriebnahme geplant ist,
-- 11. :: �Stromerzeugungseinheit“ jede technische Einrichtung, die unabhängig vom eingesetzten Energieträger direkt Strom erzeugt; bei einer Solaranlage ist jedes Modul eine eigenständige Stromerzeugungseinheit,
-- 12. :: �Stromlieferant“ jede natürliche oder juristische Person, die Strom an andere liefert,
-- 13. :: �Stromspeicher“ jede technische Einrichtung zur Zwischenspeicherung von elektrischer Energie,
-- 14. :: �Stromverbrauchseinheit“ jede technische Einrichtung, die Strom verbraucht,
-- 15. :: �Transportkunde“ jeder Gasgroßhändler und Gaslieferant einschließlich der Handelsabteilung eines vertikal integrierten Unternehmens,
-- 16. :: �Webportal“ die elektronische Plattform des Marktstammdatenregisters im Internet.
+- 5. :: Gaserzeugungseinheit“ jede technische Einrichtung zur Erzeugung von Gas,
+- 6. :: Gasspeicher“ jede technische Einrichtung zur Zwischenspeicherung von Gas,
+- 7. :: Gasverbrauchseinheit“ jede technische Einrichtung zum Verbrauch von Gas,
+- 8. :: KWK-Anlage“ jede ortsfeste technische Anlage, in der gleichzeitig Strom und Nutzwärme erzeugt werden,
+- 9. :: Marktakteur“ jede natürliche oder juristische Person, die am Energiemarkt teilnimmt,
+- 10. :: Projekt“ jede Einheit in der Entwurfs- oder Errichtungsphase, deren Inbetriebnahme geplant ist,
+- 11. :: Stromerzeugungseinheit“ jede technische Einrichtung, die unabhängig vom eingesetzten Energieträger direkt Strom erzeugt; bei einer Solaranlage ist jedes Modul eine eigenständige Stromerzeugungseinheit,
+- 12. :: Stromlieferant“ jede natürliche oder juristische Person, die Strom an andere liefert,
+- 13. :: Stromspeicher“ jede technische Einrichtung zur Zwischenspeicherung von elektrischer Energie,
+- 14. :: Stromverbrauchseinheit“ jede technische Einrichtung, die Strom verbraucht,
+- 15. :: Transportkunde“ jeder Gasgroßhändler und Gaslieferant einschließlich der Handelsabteilung eines vertikal integrierten Unternehmens,
+- 16. :: Webportal“ die elektronische Plattform des Marktstammdatenregisters im Internet.
 
 
 § 3 - Registrierung von Marktakteuren
@@ -295,7 +295,7 @@ Die Bundesnetzagentur kann Festlegungen nach § 29 Absatz 1 des Energiewirtschaf
 
 § 24 - Berichterstattung
 
-Die Bundesregierung berichtet dem Bundestag im Monitoring-Prozess �Energie der Zukunft“ jährlich über Erfahrungen mit dem Marktstammdatenregister und seiner Entwicklung.
+Die Bundesregierung berichtet dem Bundestag im Monitoring-Prozess Energie der Zukunft“ jährlich über Erfahrungen mit dem Marktstammdatenregister und seiner Entwicklung.
 
 § 25 - Übergangsbestimmungen
 

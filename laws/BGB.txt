@@ -1891,7 +1891,7 @@ Bestellung und Empfangsbestätigung im Sinne von Satz 1 Nummer 3 gelten als zuge
 
 (1) Auf Webseiten für den elektronischen Geschäftsverkehr mit Verbrauchern hat der Unternehmer zusätzlich zu den Angaben nach § 312i Absatz 1 spätestens bei Beginn des Bestellvorgangs klar und deutlich anzugeben, ob Lieferbeschränkungen bestehen und welche Zahlungsmittel akzeptiert werden.
 (2) Bei einem Verbrauchervertrag im elektronischen Geschäftsverkehr, der eine entgeltliche Leistung des Unternehmers zum Gegenstand hat, muss der Unternehmer dem Verbraucher die Informationen gemäß Artikel 246a § 1 Absatz 1 Satz 1 Nummer 1, 4, 5, 11 und 12 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche, unmittelbar bevor der Verbraucher seine Bestellung abgibt, klar und verständlich in hervorgehobener Weise zur Verfügung stellen.
-(3) Der Unternehmer hat die Bestellsituation bei einem Vertrag nach Absatz 2 so zu gestalten, dass der Verbraucher mit seiner Bestellung ausdrücklich bestätigt, dass er sich zu einer Zahlung verpflichtet. Erfolgt die Bestellung über eine Schaltfläche, ist die Pflicht des Unternehmers aus Satz 1 nur erfüllt, wenn diese Schaltfläche gut lesbar mit nichts anderem als den Wörtern �zahlungspflichtig bestellen“ oder mit einer entsprechenden eindeutigen Formulierung beschriftet ist.
+(3) Der Unternehmer hat die Bestellsituation bei einem Vertrag nach Absatz 2 so zu gestalten, dass der Verbraucher mit seiner Bestellung ausdrücklich bestätigt, dass er sich zu einer Zahlung verpflichtet. Erfolgt die Bestellung über eine Schaltfläche, ist die Pflicht des Unternehmers aus Satz 1 nur erfüllt, wenn diese Schaltfläche gut lesbar mit nichts anderem als den Wörtern zahlungspflichtig bestellen“ oder mit einer entsprechenden eindeutigen Formulierung beschriftet ist.
 (4) Ein Vertrag nach Absatz 2 kommt nur zustande, wenn der Unternehmer seine Pflicht aus Absatz 3 erfüllt.
 (5) Die Absätze 2 bis 4 sind nicht anzuwenden, wenn der Vertrag ausschließlich durch individuelle Kommunikation geschlossen wird. Die Pflichten aus den Absätzen 1 und 2 gelten weder für Webseiten, die Finanzdienstleistungen betreffen, noch für Verträge über Finanzdienstleistungen.
 
@@ -4916,7 +4916,7 @@ Touristische Leistungen machen im Sinne des Satzes 1 Nummer 1 keinen erheblichen
 
 - 1. :: der Reisende die Reiseleistungen in einer einzigen Vertriebsstelle des Unternehmers im Rahmen desselben Buchungsvorgangs auswählt, bevor er sich zur Zahlung verpflichtet,
 - 2. :: der Unternehmer die Reiseleistungen zu einem Gesamtpreis anbietet oder zu verschaffen verspricht oder in Rechnung stellt oder
-- 3. :: der Unternehmer die Reiseleistungen unter der Bezeichnung �Pauschalreise“ oder unter einer ähnlichen Bezeichnung bewirbt oder auf diese Weise zu verschaffen verspricht.
+- 3. :: der Unternehmer die Reiseleistungen unter der Bezeichnung Pauschalreise“ oder unter einer ähnlichen Bezeichnung bewirbt oder auf diese Weise zu verschaffen verspricht.
 
 In diesen Fällen ist der Unternehmer Reiseveranstalter. Der Buchungsvorgang im Sinne des Satzes 2 Nummer 1 beginnt noch nicht, wenn der Reisende hinsichtlich seines Reisewunsches befragt wird und zu Reiseangeboten lediglich beraten wird.
 

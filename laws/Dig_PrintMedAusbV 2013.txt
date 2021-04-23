@@ -13,8 +13,8 @@ Auf Grund des § 4 Absatz 1 in Verbindung mit Absatz 4 und mit § 5 des Berufsbi
 Der Ausbildungsberuf des Mediengestalters Digital und Print und der Mediengestalterin Digital und Print wird staatlich anerkannt
 
 - 1. :: nach § 4 Absatz 1 des Berufsbildungsgesetzes,
-- 2. :: nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe Nummer 40 �Drucker“ der Anlage B Abschnitt 1 der Handwerksordnung und
-- 3. :: nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe Nummer 42 �Flexograf“ der Anlage B Abschnitt 1 der Handwerksordnung.
+- 2. :: nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe Nummer 40 Drucker“ der Anlage B Abschnitt 1 der Handwerksordnung und
+- 3. :: nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe Nummer 42 Flexograf“ der Anlage B Abschnitt 1 der Handwerksordnung.
 
 
 § 2 - Dauer der Berufsausbildung
@@ -272,12 +272,12 @@ Der Prüfling soll schriftlich praxisbezogene Aufgaben bearbeiten. Die Prüfungs
 
 (9) Die Abschluss- oder Gesellenprüfung ist bestanden, wenn die Leistungen wie folgt bewertet worden sind:
 
-- 1. :: im Gesamtergebnis mit mindestens �ausreichend“,
-- 2. :: im Prüfungsbereich Projektplanung und -konzeption mit mindestens �ausreichend“,
-- 3. :: in mindestens drei weiteren Prüfungsbereichen mit mindestens �ausreichend“ und
-- 4. :: in keinem Prüfungsbereich mit �ungenügend“.
+- 1. :: im Gesamtergebnis mit mindestens ausreichend“,
+- 2. :: im Prüfungsbereich Projektplanung und -konzeption mit mindestens ausreichend“,
+- 3. :: in mindestens drei weiteren Prüfungsbereichen mit mindestens ausreichend“ und
+- 4. :: in keinem Prüfungsbereich mit ungenügend“.
 
-(10) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als �ausreichend“ bewerteten Prüfungsbereiche nach Absatz 2 Nummer 2 bis 5 durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Abschluss- oder Gesellenprüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
+(10) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als ausreichend“ bewerteten Prüfungsbereiche nach Absatz 2 Nummer 2 bis 5 durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Abschluss- oder Gesellenprüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 § 8 - Abschluss- oder Gesellenprüfung in der Fachrichtung Konzeption und Visualisierung
 
@@ -365,12 +365,12 @@ Der Prüfling soll schriftlich praxisbezogene Aufgaben bearbeiten. Die Prüfungs
 
 (9) Die Abschluss- oder Gesellenprüfung ist bestanden, wenn die Leistungen wie folgt bewertet worden sind:
 
-- 1. :: im Gesamtergebnis mit mindestens �ausreichend“,
-- 2. :: im Prüfungsbereich Designkonzeption und Visualisierung mit mindestens �ausreichend“,
-- 3. :: in mindestens drei weiteren Prüfungsbereichen mit mindestens �ausreichend“ und
-- 4. :: in keinem Prüfungsbereich mit �ungenügend“.
+- 1. :: im Gesamtergebnis mit mindestens ausreichend“,
+- 2. :: im Prüfungsbereich Designkonzeption und Visualisierung mit mindestens ausreichend“,
+- 3. :: in mindestens drei weiteren Prüfungsbereichen mit mindestens ausreichend“ und
+- 4. :: in keinem Prüfungsbereich mit ungenügend“.
 
-(10) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als �ausreichend“ bewerteten Prüfungsbereiche nach Absatz 2 Nummer 2 bis 5 durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Abschluss- oder Gesellenprüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
+(10) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als ausreichend“ bewerteten Prüfungsbereiche nach Absatz 2 Nummer 2 bis 5 durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Abschluss- oder Gesellenprüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 § 9 - Abschluss- oder Gesellenprüfung in der Fachrichtung Gestaltung und Technik
 
@@ -454,12 +454,12 @@ Der Prüfling soll schriftlich praxisbezogene Aufgaben bearbeiten. Die Prüfungs
 
 (9) Die Abschluss- oder Gesellenprüfung ist bestanden, wenn die Leistungen wie folgt bewertet worden sind:
 
-- 1. :: im Gesamtergebnis mit mindestens �ausreichend“,
-- 2. :: im Prüfungsbereich Gestaltungsumsetzung und technische Realisation mit mindestens �ausreichend“,
-- 3. :: in mindestens drei weiteren Prüfungsbereichen mit mindestens �ausreichend“ und
-- 4. :: in keinem Prüfungsbereich mit �ungenügend“.
+- 1. :: im Gesamtergebnis mit mindestens ausreichend“,
+- 2. :: im Prüfungsbereich Gestaltungsumsetzung und technische Realisation mit mindestens ausreichend“,
+- 3. :: in mindestens drei weiteren Prüfungsbereichen mit mindestens ausreichend“ und
+- 4. :: in keinem Prüfungsbereich mit ungenügend“.
 
-(10) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als �ausreichend“ bewerteten Prüfungsbereiche nach Absatz 2 Nummer 2 bis 5 durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Abschluss- oder Gesellenprüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
+(10) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als ausreichend“ bewerteten Prüfungsbereiche nach Absatz 2 Nummer 2 bis 5 durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Abschluss- oder Gesellenprüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 § 10 - Inkrafttreten, Außerkrafttreten
 

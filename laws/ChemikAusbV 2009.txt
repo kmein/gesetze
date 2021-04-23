@@ -233,18 +233,18 @@ Abschnitt II: Wahlqualifikationen nach ¬ß 3 Nummer 2\\
 
 (2) Die Abschlusspr√ºfung ist bestanden, wenn die Leistungen
 
-- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 der Abschlusspr√ºfung mit mindestens ‚Äausreichend‚Äú,
-- 2. :: im Ergebnis von Teil 2 der Abschlusspr√ºfung mit mindestens ‚Äausreichend‚Äú,
-- 3. :: im Pr√ºfungsbereich Produktions- oder Verarbeitungsprozess und im Pr√ºfungsbereich Produktionstechnik jeweils mit mindestens ‚Äausreichend‚Äú,
-- 4. :: in mindestens einem der √ºbrigen Pr√ºfungsbereiche von Teil 2 der Abschlusspr√ºfung mit mindestens ‚Äausreichend‚Äú und
-- 5. :: in keinem Pr√ºfungsbereich von Teil 2 der Abschlusspr√ºfung mit ‚Äungen√ºgend‚Äú
+- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 der Abschlusspr√ºfung mit mindestens ausreichend‚Äú,
+- 2. :: im Ergebnis von Teil 2 der Abschlusspr√ºfung mit mindestens ausreichend‚Äú,
+- 3. :: im Pr√ºfungsbereich Produktions- oder Verarbeitungsprozess und im Pr√ºfungsbereich Produktionstechnik jeweils mit mindestens ausreichend‚Äú,
+- 4. :: in mindestens einem der √ºbrigen Pr√ºfungsbereiche von Teil 2 der Abschlusspr√ºfung mit mindestens ausreichend‚Äú und
+- 5. :: in keinem Pr√ºfungsbereich von Teil 2 der Abschlusspr√ºfung mit ungen√ºgend‚Äú
 
 bewertet worden sind.
 
 
 ¬ß 10 - M√ºndliche Erg√§nzungspr√ºfung
 
-Auf Antrag des Pr√ºflings ist die Pr√ºfung in einem der in Teil 2 der Abschlusspr√ºfung mit schlechter als ‚Äausreichend‚Äú bewerteten Pr√ºfungsbereiche, in denen Pr√ºfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine m√ºndliche Pr√ºfung von etwa 15 Minuten zu erg√§nzen, wenn dies f√ºr das Bestehen der Pr√ºfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses f√ºr diesen Pr√ºfungsbereich sind das bisherige Ergebnis und das Ergebnis der m√ºndlichen Erg√§nzungspr√ºfung im Verh√§ltnis von 2¬†:¬†1 zu gewichten.
+Auf Antrag des Pr√ºflings ist die Pr√ºfung in einem der in Teil 2 der Abschlusspr√ºfung mit schlechter als ausreichend‚Äú bewerteten Pr√ºfungsbereiche, in denen Pr√ºfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine m√ºndliche Pr√ºfung von etwa 15 Minuten zu erg√§nzen, wenn dies f√ºr das Bestehen der Pr√ºfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses f√ºr diesen Pr√ºfungsbereich sind das bisherige Ergebnis und das Ergebnis der m√ºndlichen Erg√§nzungspr√ºfung im Verh√§ltnis von 2¬†:¬†1 zu gewichten.
 
 ¬ß 11 - Inkrafttreten, Au√üerkrafttreten
 
@@ -324,7 +324,7 @@ Handeln\\
 (¬ß 4 Absatz 2\\
 Abschnitt I Nummer 3)
 
-†
+
 
 I.3.1
 
@@ -339,11 +339,11 @@ Abschnitt I Nummer 3.1)
 - c) :: Verhaltensweisen bei Unf√§llen beschreiben sowie erste Ma√ünahmen einleiten
 - d) :: Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Br√§nden beschreiben und Ma√ünahmen zur Brandbek√§mpfung ergreifen
 
-†
 
-†
 
-†
+
+
+
 
 - e) :: Aufgaben der zust√§ndigen Berufsgenossenschaft und der f√ºr den Arbeitsschutz zust√§ndigen Beh√∂rden erl√§utern
 - f) :: pers√∂nliche Schutzausr√ºstungen unterscheiden und handhaben
@@ -372,7 +372,7 @@ Abschnitt I Nummer 3.2)
 - b) :: Einrichtungen zur Anlagensicherheit unterscheiden und beachten
 - c) :: bei St√∂rungen betriebsspezifische Ma√ünahmen einleiten
 
-†
+
 
 I.3.3
 
@@ -400,9 +400,9 @@ Abschnitt I Nummer 3.4)
 
 6<<FnR.f772200_02>>[[#f772200_02][*)]]}
 
-†
 
-†
+
+
 
 I.3.5
 
@@ -420,9 +420,9 @@ Abschnitt I Nummer 3.5)
 
 3*)
 
-†
 
-†
+
+
 
 I.3.6
 
@@ -456,7 +456,7 @@ und Kommunikation\\
 (¬ß 4 Absatz 2\\
 Abschnitt I Nummer 4)
 
-†
+
 
 I.4.1
 
@@ -482,7 +482,7 @@ Abschnitt I Nummer 4.2)
 
 2*)
 
-†
+
 
 - c) :: Aufgaben im Team bearbeiten und abstimmen; Ergebnisse auswerten, kontrollieren und darstellen
 
@@ -521,7 +521,7 @@ Abschnitt I Nummer 4.4)
 - b) :: mit Standardsoftware und arbeitsplatzspezifischer Software arbeiten
 - c) :: Regeln zum Datenschutz und zur Datensicherheit anwenden
 
-†
+
 
 I.5
 
@@ -549,30 +549,30 @@ Abschnitt I Nummer 5)
 
 4
 
-†
 
-†
 
-†
+
+
+
 
 - m) :: betriebs√ºbliche Analysenverfahren, insbesondere fotometrische oder chromatografische, anwenden und auswerten
 - n) :: physikalisch-chemische Gesetzm√§√üigkeiten beachten, insbesondere √ºber Energieinhalte bei exo- und endothermen Reaktionen sowie den Einfluss von Druck und Temperatur auf chemische Reaktionen Auskunft geben
 
-†
+
 
 4
 
-†
 
-†
 
-†
+
+
+
 
 - o) :: √ºber den Einfluss chemischer und physikalischer Eigenschaften von Stoffen auf den Reaktionsprozess Auskunft geben und bei dessen Durchf√ºhrung beachten
 
-†
 
-†
+
+
 
 4
 
@@ -586,11 +586,11 @@ Abschnitt I Nummer 6)
 - a) :: Grundoperationen unterscheiden, Ger√§te ihren Einsatzgebieten zuordnen
 - b) :: Stoffportionen definieren und die Zusammensetzung von Mischphasen berechnen, definierte L√∂sungen herstellen
 
-†
 
-†
 
-†
+
+
+
 
 - c) :: Feststoff nach einem Verfahren zerkleinern und klassieren
 - d) :: Feststoff-Fl√ºssigkeits-Gemische insbesondere durch Sedimentieren und Filtrieren trennen
@@ -604,7 +604,7 @@ Abschnitt I Nummer 6)
 \\
 6
 
-†
+
 
 I.7
 
@@ -619,9 +619,9 @@ Abschnitt I Nummer 7)
 
 10
 
-†
 
-†
+
+
 
 I.8
 
@@ -639,7 +639,7 @@ Abschnitt I Nummer 8)
 
 4
 
-†
+
 
 I.9
 
@@ -653,23 +653,23 @@ Abschnitt I Nummer 9)
 
 4
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 - d) :: Einrichtungen zur Erfassung und √úbertragung von Signalen unterscheiden
 - e) :: Funktionsweise von Aktoren unterscheiden
 - f) :: Elementen eines Regelkreises Funktionen zuordnen
 
-†
+
 
 10
 
-†
+
 
 I.10
 
@@ -684,15 +684,15 @@ Abschnitt I Nummer 10)
 
 2
 
-†
+
 
 - b) :: Anlagen oder Teilanlagen anfahren und abfahren und im Rahmen der Betriebsanweisung fahren
 
-†
+
 
 6
 
-†
+
 
 I.11
 
@@ -708,24 +708,24 @@ Destillieren und Rektifizieren
 - b) :: Fl√ºssigkeitsgemische unter Beachtung der physikalischen Vorg√§nge und betriebstechnischen Vorraussetzungen sowie unter Ber√ºcksichtigung der Energieeffizienz durch Destillieren und Rektifizieren trennen
 - c) :: Qualit√§t der Produkte pr√ºfen, Abweichungen im Prozess feststellen und Ma√ünahmen ergreifen
 
-†
 
-†
+
+
 
 10
 
-†
 
-†
+
+
 
 Filtrieren, Zentrifugieren, Sedimentieren
 
 - d) :: Ger√§te und Anlagen zum Sedimentieren, Zentrifugieren und Filtrieren insbesondere unter Beachtung von Aufbau, Funktions- und Wirkungsweise unterscheiden und einsetzen
 - e) :: Abweichungen im Prozess feststellen; bei St√∂rungen Ma√ünahmen einleiten
 
-†
 
-†
+
+
 
 10
 
@@ -742,9 +742,9 @@ Abschnitt I Nummer 12)
 - c) :: Baugruppen und Bauteile sichern und transportieren
 - d) :: vorbeugende Instandhaltung von Produktionseinrichtungen durchf√ºhren und dokumentieren
 
-†
 
-†
+
+
 
 8
 
@@ -761,9 +761,9 @@ Abschnitt I Nummer 13)
 - d) :: Mess- und Regeleinrichtungen nach Vorgaben und unter Nutzung von betriebsspezifischen Pl√§nen √ºberpr√ºfen und einstellen
 - e) :: Aufbau und Wirkungsweise von Automatisierungssystemen einschlie√ülich speicherprogrammierbarer Steuerungen unterscheiden und ein System bedienen
 
-†
 
-†
+
+
 
 12
 
@@ -778,9 +778,9 @@ Abschnitt I Nummer 14)
 - b) :: St√∂rungen im Produktionsablauf feststellen, Ma√ünahmen zu ihrer Beseitigung ergreifen und bei der Beseitigung durch Fachpersonal mitwirken
 - c) :: Prozessabl√§ufe dokumentieren
 
-†
 
-†
+
+
 
 8
 
@@ -826,9 +826,9 @@ Abschnitt II Nummer 1)
 - c) :: Inprozesskontrolle durchf√ºhren
 - d) :: Produkte pr√ºfen
 
-†
 
-†
+
+
 
 10
 
@@ -843,9 +843,9 @@ Abschnitt II Nummer 2)
 - c) :: vorbeugende Wartung durchf√ºhren; bei St√∂rungen Ma√ünahmen ergreifen
 - d) :: Verarbeitungsprozesse dokumentieren und Qualit√§tskontrollen durchf√ºhren
 
-†
 
-†
+
+
 
 10
 
@@ -860,9 +860,9 @@ Abschnitt II Nummer 3)
 - c) :: Ergebnisse pr√ºfen
 - d) :: Abweichungen im Prozess feststellen und Ma√ünahmen einleiten
 
-†
 
-†
+
+
 
 10
 
@@ -877,9 +877,9 @@ Abschnitt II Nummer 4)
 - c) :: den Trockengrad bestimmen
 - d) :: Abweichungen im Prozess feststellen und Ma√ünahmen einleiten
 
-†
 
-†
+
+
 
 10
 
@@ -894,9 +894,9 @@ Abschnitt II Nummer 5)
 - c) :: Ergebnisse pr√ºfen
 - d) :: Abweichungen im Prozess feststellen und Ma√ünahmen einleiten
 
-†
 
-†
+
+
 
 10
 
@@ -911,9 +911,9 @@ Abschnitt II Nummer 6)
 - c) :: Reinheit der Fraktionen pr√ºfen
 - d) :: Gefahrenpotenziale bei Abweichungen im Prozess feststellen und Ma√ünahmen ergreifen
 
-†
 
-†
+
+
 
 10
 
@@ -928,9 +928,9 @@ Abschnitt II Nummer 7)
 - c) :: Ergebnisse pr√ºfen
 - d) :: Abweichungen im Prozess feststellen und Ma√ünahmen einleiten
 
-†
 
-†
+
+
 
 10
 
@@ -944,9 +944,9 @@ Abschnitt II Nummer 8)
 - b) :: Gase durch Entstauben reinigen
 - c) :: Funktionsf√§higkeit der Anlagen und Ger√§te sicherstellen
 
-†
 
-†
+
+
 
 10
 
@@ -962,9 +962,9 @@ Abschnitt II Nummer 9)
 - c) :: funktionsgerechten Ablauf von Steuerungen √ºberpr√ºfen; bei St√∂rungen Ma√ünahmen einleiten
 - d) :: im Rahmen von Inspektionen Bauteile austauschen
 
-†
 
-†
+
+
 
 10
 
@@ -977,9 +977,9 @@ Abschnitt II Nummer 10)
 - a) :: Funktionsf√§higkeit von Rohrleitungssystemen √ºberpr√ºfen, bei St√∂rungen Ma√ünahmen einleiten
 - b) :: Rohrleitungsteile und Armaturen unter Ber√ºcksichtigung verfahrenstechnischer Bedingungen und sicherheitstechnischer Vorschriften austauschen
 
-†
 
-†
+
+
 
 10
 
@@ -992,16 +992,16 @@ Abschnitt II Nummer 11)
 - a) :: ein- und mehradrige, geschirmte und ungeschirmte Leitungen zurichten
 - b) :: Installationsschaltungen unter Ber√ºcksichtigung verschiedener Leitungsarten herstellen
 - c) :: Zusammenh√§nge im Dreiphasenwechselstromkreis beschreiben; Messungen durchf√ºhren
-- d) :: ‚Ädie f√ºnf Sicherheitsregeln‚Äú anwenden
+- d) :: die f√ºnf Sicherheitsregeln‚Äú anwenden
 - e) :: Schutzeinrichtungen √ºberpr√ºfen, St√∂rungen feststellen und Ma√ünahmen einleiten
 - f) :: Komponenten f√ºr Haupt- und Steuerstromkreise ausw√§hlen, einbauen, kennzeichnen und dokumentieren
 - g) :: elektrische Motoren unterscheiden, Motorschaltungen aufbauen und Motoren in Betrieb nehmen
 - h) :: Bauelementen der Elektronik Funktionen zuordnen und kontaktbehaftete Steuerungen aufbauen
 - i) :: Vorschriften des elektrischen Explosionsschutzes anwenden
 
-†
 
-†
+
+
 
 10
 
@@ -1017,9 +1017,9 @@ Abschnitt II Nummer 12)
 - d) :: Programmabl√§ufe anhand von Funktionspl√§nen interpretieren
 - e) :: nach betrieblicher Vorgabe Parameter einstellen und Regelkreise optimieren
 
-†
 
-†
+
+
 
 10
 
@@ -1034,9 +1034,9 @@ Abschnitt II Nummer 13)
 - c) :: Prozess kontrollieren, bei Abweichungen Ma√ünahmen einleiten
 - d) :: Abf√§lle verwerten und beseitigen
 
-†
 
-†
+
+
 
 10
 
@@ -1050,9 +1050,9 @@ Abschnitt II Nummer 14)
 - b) :: Analyseverfahren zur Eingangs-, Prozess- und Endkontrolle anwenden, Ergebnisse auswerten und Ma√ünahmen einleiten
 - c) :: anwendungstechnische Pr√ºfungen durchf√ºhren
 
-†
 
-†
+
+
 
 10
 
@@ -1068,9 +1068,9 @@ Abschnitt II Nummer 15)
 - d) :: bei der internen √úberpr√ºfung des Qualit√§tsmanagements mitwirken
 - e) :: bei der Validierung eines Verfahrens mitwirken
 
-†
 
-†
+
+
 
 10
 
@@ -1088,9 +1088,9 @@ Abschnitt II Nummer 16)
 - e) :: Hebezeuge, Anschlag- und Transportmittel ausw√§hlen, Transporte sichern und durchf√ºhren
 - f) :: Lager betreiben
 
-†
 
-†
+
+
 
 10
 
@@ -1105,9 +1105,9 @@ Abschnitt II Nummer 17)
 - b) :: Produkte unter Tieftemperaturbedingungen herstellen
 - c) :: Messmethoden der Tieftemperaturtechnik anwenden, bei St√∂rungen Ma√ünahmen einleiten
 
-†
 
-†
+
+
 
 10
 
@@ -1128,9 +1128,9 @@ Abschnitt II Nummer 18)
 - g) :: Anlagen, insbesondere mit CIP- und SIP-Technik, reinigen und sterilisieren
 - h) :: biologisches Material entsorgen
 
-†
 
-†
+
+
 
 10
 
@@ -1145,9 +1145,9 @@ Abschnitt II Nummer 19)
 - b) :: Ausk√ºnfte in einer Fremdsprache geben
 - c) :: im Rahmen der Kundenorientierung kulturelle Besonderheiten ber√ºcksichtigen
 
-†
 
-†
+
+
 
 10
 
@@ -1166,8 +1166,8 @@ Abschnitt II Nummer 20)
 - f) :: digitale Medien f√ºr das Lernen im betrieblichen Alltag selbstt√§tig nutzen
 - g) :: rechtliche und betriebliche Vorgaben zum Schutz und zur Sicherheit digitaler Daten im Produktionsprozess einhalten
 
-†
 
-†
+
+
 
 10

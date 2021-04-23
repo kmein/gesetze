@@ -7,150 +7,150 @@ Ausfertigungsdatum: 21.06.2002
 InhaltsÃ¼bersicht
 
 Erstes Kapitel
- 
+
 Allgemeine Vorschriften
- 
- 
+
+
 Â§ 1
 Grundsatz
- 
- 
+
+
 Â§ 2
 TrÃ¤ger der HÃ¼ttenknappschaftlichen Zusatzversicherung
- 
- 
+
+
 Â§ 3
 Versicherte Arbeitnehmer
- 
- 
+
+
 Â§ 4
 Freiwillige Weiterversicherung
- 
- 
+
+
 Â§ 5
 BeitrÃ¤ge
- 
- 
+
+
 Â§ 6
 Beitragszahlung, Meldepflicht und Beitragsmitteilung
- 
- 
+
+
 Â§ 7
 PrÃ¼fung bei den Arbeitgebern
- 
- 
+
+
 Â§ 8
 Anwendung anderer Vorschriften
- 
- 
+
+
 Â§ 9
 Rechtsweg
 Zweites Kapitel
- 
+
 Kapitaldeckungsverfahren
- 
- 
+
+
 Â§ 10
 DurchfÃ¼hrung Ã¼ber eine Pensionskasse
- 
- 
+
+
 Â§ 11
 Freiwillige Weiterversicherung
- 
- 
+
+
 Â§ 12
 Leistungen
- 
- 
+
+
 Â§ 13
 Verfahren
- 
- 
+
+
 Â§ 14
 Anspruch auf betriebliche Altersversorgung durch Entgeltumwandlung
- 
- 
+
+
 Â§ 15
 Anwendung anderer Vorschriften
 Drittes Kapitel
- 
+
 Sonderregelungen
- 
- 
+
+
 Â§ 16
 Personenkreis
- 
- 
+
+
 Â§ 17
 Weitere Personenkreise
- 
- 
+
+
 Â§ 18
 Freiwillige Weiterversicherung
- 
- 
+
+
 Â§ 19
 Leistungen
- 
- 
+
+
 Â§ 20
 Zusatzrentenberechnung
- 
- 
+
+
 Â§ 21
 Ermittlung des Rentenartfaktors in SonderfÃ¤llen
- 
- 
+
+
 Â§ 22
 Bewertung von Zeiten
- 
- 
+
+
 Â§ 23
 Zusammentreffen von Zusatzrenten und von Einkommen
- 
- 
+
+
 Â§ 24
 Anpassung der Zusatzrenten
- 
- 
+
+
 Â§ 25
 Abfindung
- 
- 
+
+
 Â§ 26
 Beginn und Erstattung
- 
- 
+
+
 Â§ 27
 Wahlrecht auf Ãœbertragung von Anwartschaften
- 
- 
+
+
 Â§ 28
 Ãœbertragung von Anwartschaften
- 
- 
+
+
 Â§ 29
 DurchfÃ¼hrung der Ãœbertragung von Anwartschaften
- 
- 
+
+
 Â§ 30
 Beteiligung des Bundes im Umlageverfahren
- 
- 
+
+
 Â§ 31
 VermÃ¶gensÃ¼bertragung
- 
- 
+
+
 Â§ 32
 Steuer- und beitragsrechtliche Behandlung der BeitrÃ¤ge
- 
- 
+
+
 Â§ 33
 Ãœbergangsregelung
 Anlage 1
- 
+
 Anlage 2
- 
+
 
 Â§ 1 - Grundsatz
 
@@ -354,7 +354,7 @@ mit ihrem Wert bei Rentenbeginn miteinander vervielfÃ¤ltigt werden.
 Bei Witwen- und Witwerzusatzrenten an vor dem 1. Juli 1977 geschiedene Ehegatten betrÃ¤gt der Rentenartfaktor immer 0,135.
 (4) Bei Ermittlung des Rentenartfaktors fÃ¼r persÃ¶nliche Entgeltpunkte treten an die Stelle\\
 der Werte
- 
+
 0,225
 0,135
 0,0225
@@ -497,7 +497,7 @@ Die HÃ¼ttenknappschaftliche Zusatzversicherung wird bis zum 31. Dezember 2002 fÃ
 Anlage 1 - (zu Â§ 25 Abs. 1)
 
 <Fundstelle des Originaltextes: BGBl. I 2002, 2775 - 2276>
- 
+
 Tabelle 1
 Kapitalisierungsfaktoren fÃ¼r Leistungen an Versicherte
 Alter des Berechtigten zur Zeit der Abfindung

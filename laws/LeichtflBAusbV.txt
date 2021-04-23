@@ -214,8 +214,8 @@ Be- und Verarbeiten von Holz und Holzwerkstoffen(Â§ 4 Nr. 6)
 a)
 Eigenschaften, Erkennungsmerkmale und Verwendung von berufsÃ¼blichen Holzarten und Holzwerkstoffen nennen
 16
- 
- 
+
+
 b)
 Holz und Holzwerkstoffe lagern
 c)
@@ -237,8 +237,8 @@ Arbeiten mit Metallen(Â§ 4 Nr. 7)
 a)
 Arten und Eigenschaften der berufsÃ¼blichen Metalle beschreiben
 10
- 
- 
+
+
 b)
 einschlÃ¤gige Handwerkzeuge fÃ¼r die Metallbearbeitung nennen, handhaben und instand halten
 c)
@@ -254,8 +254,8 @@ Bearbeiten von Kunststoffen(Â§ 4 Nr. 8)
 a)
 Arten und Eigenschaften von einschlÃ¤gigen Kunststoffen nennen
 10
- 
- 
+
+
 b)
 Kunststoffteile lagern
 c)
@@ -265,8 +265,8 @@ Verarbeiten von faserverstÃ¤rkten Kunststoffmaterialien(Â§ 4 Nr. 9)
 a)
 Eigenschaften und VerwendungsmÃ¶glichkeiten von Kunstharzen und FaserverstÃ¤rkungsmaterialien beschreiben
 16
- 
- 
+
+
 b)
 Kunstharze und FaserverstÃ¤rkungsmaterialien lagern, auswÃ¤hlen und aufbereiten
 c)
@@ -278,9 +278,9 @@ II. Berufliche Fachbildung
 Verarbeiten von faserverstÃ¤rkten Kunststoffmaterialien (Â§ 4 Nr. 9)
 a)
 Strangziehverfahren bei der Herstellung von Bauteilen anwenden
- 
+
 14
- 
+
 b)
 faserverstÃ¤rkte Kunststoffteile im Handlaminierverfahren herstellen
 c)
@@ -291,17 +291,17 @@ Verfahren zur WÃ¤rmebehandlung von faserverstÃ¤rkten Kunststoffen beschreiben un
 Einrichten, Bedienen und Warten von Maschinen und GerÃ¤ten(Â§ 4 Nr. 10)
 a)
 Aufbau und Funktion von Handmaschinen und stationÃ¤re Maschinen beschreiben
- 
+
 6
- 
+
 b)
 Aufgaben von elektrischen Schutzeinrichtungen beschreiben
 c)
 Handmaschinen einsetzen
 d)
 Holz-, Metall- und Kunststoffbearbeitungsmaschinen einrichten und bedienen
- 
- 
+
+
 8
 e)
 Maschinenwerkzeuge instandhalten
@@ -315,13 +315,13 @@ StÃ¶rungen an Maschinen und GerÃ¤ten erkennen und geeignete MaÃŸnahmen zu ihrer 
 Herstellen und Anwenden von Vorrichtungen und Formen (Â§ 4 Nr. 11)
 a)
 Vorrichtungen und Formen nach dem Verwendungszweck unterscheiden
- 
+
 2
- 
+
 b)
 Werkstoffe fÃ¼r den Formen- und Vorrichtungsbau auswÃ¤hlen
- 
- 
+
+
 10
 c)
 Schablonen und Vorrichtungen anfertigen
@@ -335,14 +335,14 @@ Vorrichtungen und Formen instandhalten
 Herstellen von Teilen und Hauptbaugruppen fÃ¼r Leichtflugzeuge (Â§ 4 Nr. 12)
 a)
 Einbauteile herstellen, insbesondere Rippen, Spanten, Stege, Ruder, Klappen und Verkleidungen
- 
+
 10
- 
+
 b)
 Schalen laminieren
- 
+
 8
- 
+
 c)
 Einbauteile einkleben
 d)
@@ -353,9 +353,9 @@ Schalen verkleben
 Behandeln von OberflÃ¤chen (Â§ 4 Nr. 13)
 a)
 Materialien und Verfahrenstechniken zur OberflÃ¤chenbehandlung nennen
- 
+
 12
- 
+
 b)
 unterschiedliche Verfahrenstechniken zur OberflÃ¤chenbehandlung anwenden, insbesondere Schleifen, Spachteln, Lackieren und Polieren
 c)
@@ -366,8 +366,8 @@ KorrosionsschutzmaÃŸnahmen beschreiben und durchfÃ¼hren
 Endmontage von Leichtflugzeugen(Â§ 4 Nr. 14)
 a)
 Teile zu Hauptbaugruppen zusammenbauen
- 
- 
+
+
 22
 b)
 Hauptbaugruppen zusammenfÃ¼gen
@@ -383,8 +383,8 @@ WÃ¤gung und Endkontrolle durchfÃ¼hren
 Warten und Instandsetzen von Leichtflugzeugen (Â§ 4 Nr. 15)
 a)
 Wartungen und Reparaturen nach schriftlichen Anweisungen durchfÃ¼hren
- 
- 
+
+
 12
 b)
 SchÃ¤den an Zelle, BeschlÃ¤gen und BordgerÃ¤ten feststellen

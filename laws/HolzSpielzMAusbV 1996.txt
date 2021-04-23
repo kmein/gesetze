@@ -213,79 +213,79 @@ Lesen und Erstellen von Skizzen und Zeichnungen, Anwenden von Gestaltungsprinzip
 a)
 Skizzen und Zeichnungen lesen
 2
-†
-†
-†
+
+
+
 b)
 Arbeitsskizzen anfertigen
 c)
 Freihandzeichnungen und technische Zeichnungen anfertigen
-†
+
 6
-†
-†
+
+
 d)
 St√ºcklisten erstellen
 e)
 Gestaltungselemente bei Entwurf und Herstellung von Erzeugnissen anwenden
-†
-†
-†
+
+
+
 6
 7
 Beschaffenheit und Eigenschaften von Holz und Holzwerkstoffen (¬ß 4 Nr. 7)
 a)
 Holz und Holzwerkstoffe nach Eigenschaften, Erkennungsmerkmalen und Verwendungszweck ausw√§hlen
 2
-†
-†
-†
+
+
+
 b)
 Holzfehler erkennen und bei der Bearbeitung ber√ºcksichtigen
 c)
 Holz und Holzwerkstoffe unter Beachtung des Verwendungszwecks und der Qualit√§t werkstoffgerecht lagern, Holzfeuchte messen
-†
-†
+
+
 2
-†
+
 8
 Herstellen und Anwenden von Vorrichtungen und Schablonen (¬ß 4 Nr. 8)
 a)
 Vorrichtungen und Schablonen im Hinblick auf Arbeitssicherheit, Wirtschaftlichkeit und Qualit√§tssicherung pr√ºfen, ausw√§hlen und anwenden
-†
-†
+
+
 2
-†
+
 b)
 Vorrichtungen und Schablonen, insbesondere aus Metall, Kunststoff und Holz, unter Ber√ºcksichtigung werkstoffbedingter Arbeitstechniken herstellen und instand halten
-†
-†
-†
+
+
+
 4
 9
 Be- und Verarbeiten von Holz und Holzwerkstoffen (¬ß 4 Nr. 9)
 a)
 Me√üzeuge und Anrei√üwerkzeuge ausw√§hlen und handhaben
 6
-†
-†
-†
+
+
+
 b)
 Handwerkzeuge nach Verwendungszweck ausw√§hlen und handhaben, insbesondere durch S√§gen, Hobeln, Stemmen, Feilen, Schleifen und Bohren
 c)
 Holzverbindungen herstellen, insbesondere √úberblattungen und D√ºbelverbindungen sowie Schlitz- und Zapfenverbindungen
 10
-†
-†
-†
+
+
+
 d)
 Klebstoffe unterscheiden und nach Verwendungszweck einsetzen
 e)
 Holzbearbeitungsmaschinen einrichten und bedienen, insbesondere S√§ge-, Hobel-, Fr√§s-, Bohr- und Schleifmaschinen
-†
-†
+
+
 12
-†
+
 f)
 Arbeits- und Gesundheitsschutzvorschriften f√ºr Maschinen und Schutzvorrichtungen anwenden
 10
@@ -293,20 +293,20 @@ Instandhalten von Werkzeugen und Maschinen (¬ß 4 Nr. 10)
 a)
 Handwerkzeuge sch√§rfen und pflegen
 2
-†
-†
-†
+
+
+
 b)
 Maschinenwerkzeuge r√ºsten und instand halten, insbesondere sch√§rfen
-†
-†
+
+
 4
-†
+
 c)
 Maschinen nach Vorgaben warten
-†
-†
-†
+
+
+
 2
 d)
 Maschinenst√∂rungen feststellen und Ma√ünahmen zur Behebung einleiten
@@ -314,85 +314,85 @@ Maschinenst√∂rungen feststellen und Ma√ünahmen zur Behebung einleiten
 Pr√ºfen und Behandeln von Oberfl√§chen (¬ß 4 Nr. 11)
 a)
 Oberfl√§chen auf Fehler pr√ºfen, insbesondere auf Rauheiten, Einschl√ºsse, Bruchstellen und Risse
-†
+
 6
-†
-†
+
+
 b)
 Vorbehandlungs- und Beschichtungsmittel nach Verwendungszweck ausw√§hlen und unter Ber√ºcksichtigung des Gesundheits-, Arbeits-, Brand- und Umweltschutzes auftragen
 c)
 Vorbehandlungs- und Beschichtungsmittel lagern und entsorgen
-†
-†
+
+
 2
-†
+
 d)
 Oberfl√§chen mittels Drucktechniken und Spritztechniken veredeln
-†
-†
-†
+
+
+
 4
 12
 Drechseln und Drehen (¬ß 4 Nr. 12)
 a)
 Drehbank einrichten, Drehteile durch Langholzdrehen herstellen
 10
-†
-†
-†
+
+
+
 b)
 Kleinteile durch Hohldrehen herstellen
-†
+
 4
-†
-†
+
+
 c)
 Kleinteile durch Querholzdrehen herstellen
-†
-†
+
+
 4
-†
+
 d)
 Drehteile auf Halbautomaten herstellen
-†
-†
-†
+
+
+
 4
 13
 dekoratives Spanen und Schnitzen (¬ß 4 Nr. 13)
 a)
 Schnitzarbeiten ausf√ºhren, insbesondere Kerbschnitte und halbplastische Schnitzarbeiten
 8
-†
-†
-†
+
+
+
 b)
 dekorative Sp√§ne und Spanlocken durch Stechen, Drehen und Hobeln herstellen
-†
-†
-†
+
+
+
 8
 14
 dekoratives Malen und Schm√ºcken (¬ß 4 Nr. 14)
 a)
 Farben, Erg√§nzungsmaterialien und Malwerkzeug nach Verwendungszweck ausw√§hlen und handhaben
 12
-†
-†
-†
+
+
+
 b)
 Linien-, R√§nder- und B√§nderdekore nach Vorlagen vorzeichnen und malen
 c)
 Dekore entwerfen, √ºbertragen und malen
-†
+
 6
-†
-†
+
+
 d)
 Figuren bemalen
-†
-†
-†
+
+
+
 12
 e)
 Schriften und Monogramme zeichnen und malen
@@ -400,25 +400,25 @@ Schriften und Monogramme zeichnen und malen
 Montieren von Teilen (¬ß 4 Nr. 15)
 a)
 Teile f√ºr die Montage vorbereiten
-†
+
 4
-†
-†
+
+
 b)
 Teile zu Baugruppen montieren, insbesondere kleben
 c)
 Teile und Baugruppen zu Erzeugnissen montieren und komplettieren
-†
-†
-†
+
+
+
 8
 16
 Pr√ºfen und Verpacken von Erzeugnissen (¬ß 4 Nr. 16)
 a)
 Qualit√§t der Erzeugnisse pr√ºfen, Endkontrolle durchf√ºhren
-†
-†
-†
+
+
+
 4
 b)
 Erzeugnisse kennzeichnen und verpacken

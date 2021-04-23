@@ -117,13 +117,13 @@ Bei der Durchführung der Aufgaben soll der Prüfling zeigen, dass er Arbeitsabl
 - 2. :: Betriebswirtschaftliches Handeln,
 - 3. :: Wirtschafts- und Sozialkunde.
 
-In den Prüfungsbereichen �Warenwirtschaft und Produktion von Fleisch- und Wurstwaren sowie küchenfertigen Erzeugnissen“ und �Betriebswirtschaftliches Handeln“ sind insbesondere produktbezogene Problemstellungen mit verknüpften
+In den Prüfungsbereichen Warenwirtschaft und Produktion von Fleisch- und Wurstwaren sowie küchenfertigen Erzeugnissen“ und Betriebswirtschaftliches Handeln“ sind insbesondere produktbezogene Problemstellungen mit verknüpften
 
 - 1. :: hygienebezogenen sowie
 - 2. :: planerischen, technologischen und mathematischen und
 - 3. :: tierschutzrechtlichen
 
-Sachverhalten zu analysieren, zu bewerten und Lösungswege darzustellen. Bei der Aufgabenstellung sind die nach § 4 Absatz 1 Nummer 18 gewählten Wahlqualifikationseinheiten zu berücksichtigen. Für den Prüfungsbereich Wirtschafts- und Sozialkunde kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgendem Gebiet �Allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge aus der Berufs- und Arbeitswelt“ in Betracht.
+Sachverhalten zu analysieren, zu bewerten und Lösungswege darzustellen. Bei der Aufgabenstellung sind die nach § 4 Absatz 1 Nummer 18 gewählten Wahlqualifikationseinheiten zu berücksichtigen. Für den Prüfungsbereich Wirtschafts- und Sozialkunde kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgendem Gebiet Allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge aus der Berufs- und Arbeitswelt“ in Betracht.
 
 (4) Für den schriftlichen Teil der Prüfung ist von folgenden zeitlichen Höchstwerten auszugehen:\\
 | 1. | im Prüfungsbereich Warenwirtschaft und Produktion von Fleisch- und Wurstwaren sowie küchenfertigen Erzeugnissen | 150 Minuten, |
@@ -549,12 +549,12 @@ Kenntnis der Gebrauchsanweisungen der Hersteller für den Typ der Geräte, die i
 Betäubung von Tieren
 a)
 praktische Aspekte von Betäubungsverfahren und Kenntnis der Gebrauchsanweisungen der Hersteller für den Typ der verwendeten Betäubungsgeräte
-�
-�
+
+
 b)
 Ersatzverfahren zur Betäubung und Tötung
-�
-�
+
+
 c)
 grundlegende Instandhaltung und Reinigung von Gerät zur Betäubung und Tötung
 4.
@@ -564,23 +564,23 @@ Wirksamkeit der Betäubung und von Ersatzverfahren zur Betäubung und Tötung ü
 Einhängen und Hochziehen lebender Tiere
 a)
 praktische Aspekte der Handhabung und Ruhigstellung von Tieren
-�
-�
+
+
 b)
 Überwachung der Wirksamkeit der Betäubung
 6.
 Entbluten lebender Tiere
 a)
 Wirksamkeit der Betäubung und des Fehlens von Lebenszeichen überwachen
-�
-�
+
+
 b)
 angemessene Verwendung und Instandhaltung von Entblutungsmessern
 7.
 Schlachtung
 a)
 angemessene Verwendung und Instandhaltung von Entblutungsmessern
-�
-�
+
+
 b)
 Überwachung des Fehlens von Lebenszeichen

@@ -161,8 +161,8 @@ Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durc
 3
 1.
 der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen
-�
-�
+
+
 1.1
 Aufbau und Organisation des Ausbildungsbetriebes (§ 4 Nr. 1.1)
 a)
@@ -235,8 +235,8 @@ e)
 wirtschaftlichen und umweltschonenden Umgang mit Energieträgern beschreiben
 2.
 Organisation und Abläufe betrieblicher Arbeit; wirtschaftliche Zusammenhänge (§ 4 Nr. 2)
-�
-�
+
+
 2.1
 Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen (§ 4 Nr. 2.1)
 a)
@@ -265,8 +265,8 @@ c)
 Marktberichte lesen und Entwicklungen am Markt beobachten
 3.
 Waldbewirtschaftung, Forstproduktion (§ 4 Nr. 3)
-�
-�
+
+
 3.1
 Begründen und Verjüngen von Waldbeständen (§ 4 Nr. 3.1)
 a)
@@ -314,8 +314,8 @@ Jagdbetrieb (§ 4 Nr. 3.4)
 heimische Wildarten, ihr Verhalten und ihre Lebensräume nennen
 4.
 Naturschutz und Landschaftspflege (§ 4 Nr. 4)
-�
-�
+
+
 4.1
 Erhalten, Schützen und Entwickeln besonderer Lebensräume (§ 4 Nr. 4.1)
 a)
@@ -338,8 +338,8 @@ c)
 Einsatzbereiche und -grenzen natürlicher Baustoffe nennen und bei ihrer Verwendung mitwirken
 5.
 Ernte und Aufbereitung von Forsterzeugnissen (§ 4 Nr. 5)
-�
-�
+
+
 5.1
 Ernten von Holz und anderen Forsterzeugnissen (§ 4 Nr. 5.1)
 a)
@@ -364,8 +364,8 @@ d)
 beim Schützen und Konservieren von Rohholz mitwirken
 6.
 Forsttechnik (§ 4 Nr. 6)
-�
-�
+
+
 6.1
 Handhaben, Warten und Instandsetzen von Maschinen und Geräten (§ 4 Nr. 6.1)
 a)
@@ -397,8 +397,8 @@ Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durc
 3
 1.
 der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen (§ 4 Nr. 1)
-�
-�
+
+
 1.1
 die in § 4 Nr. 1.1 bis 1.5 aufgeführten Teile des Ausbildungsberufsbildes
 die in Abschnitt I lfd. Nr. 1.1 bis 1.5 aufgeführten Fertigkeiten und Kenntnisse
@@ -414,8 +414,8 @@ d)
 mit Energieträgern umweltschonend und kostensparend umgehen
 2.
 Organisation und Abläufe betrieblicher Arbeit; wirtschaftliche Zusammenhänge (§ 4 Nr. 2)
-�
-�
+
+
 2.1
 Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen (§ 4 Nr. 2.1)
 a)
@@ -458,8 +458,8 @@ f)
 bei der Bestellung und Abnahme von Betriebsmitteln sowie bei der Abrechnung gelieferter Waren mitwirken
 3.
 Waldbewirtschaftung, Forstproduktion (§ 4 Nr. 3)
-�
-�
+
+
 3.1
 Begründen und Verjüngen von Waldbeständen (§ 4 Nr. 3.1)
 a)
@@ -508,8 +508,8 @@ b)
 bei Arbeiten im Jagdbetrieb mitwirken
 4.
 Naturschutz und Landschaftspflege (§ 4 Nr. 4)
-�
-�
+
+
 4.1
 Erhalten, Schützen und Entwickeln besonderer Lebensräume (§ 4 Nr. 4.1)
 a)
@@ -534,8 +534,8 @@ d)
 natürliche Baustoffe verwenden
 5.
 Ernte und Aufbereitung von Forsterzeugnissen (§ 4 Nr. 5)
-�
-�
+
+
 5.1
 Ernten von Holz und anderen Forsterzeugnissen (§ 4 Nr. 5.1)
 a)
@@ -566,8 +566,8 @@ d)
 Rohholz schützen und konservieren
 6.
 Forsttechnik (§ 4 Nr. 6)
-�
-�
+
+
 6.1
 Handhaben, Warten und Instandsetzen von Maschinen und Geräten (§ 4 Nr. 6.1)
 a)

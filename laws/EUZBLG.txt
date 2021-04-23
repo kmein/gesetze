@@ -93,7 +93,7 @@ Anlage - (zu § 9)
 - II) :: Unterrichtung des Bundesrates
   - 1. :: Die Bundesregierung unterrichtet den Bundesrat nach Maßgabe dieses Gesetzes umfassend, zum frühestmöglichen Zeitpunkt, fortlaufend und in der Regel schriftlich über alle Vorhaben, die für die Länder von Interesse sein könnten. Dies geschieht insbesondere durch Übersendung von der Bundesregierung vorliegenden
     - a) :: Dokumenten
-      - aa) :: der Europäischen Kommission, soweit sie an den Rat gerichtet oder der Bundesregierung auf sonstige Weise offiziell zugänglich gemacht worden sind. Die Bundesregierung trägt dafür Sorge, dass bei Vorhaben, die ausschlie�non papers“);
+      - aa) :: der Europäischen Kommission, soweit sie an den Rat gerichtet oder der Bundesregierung auf sonstige Weise offiziell zugänglich gemacht worden sind. Die Bundesregierung trägt dafür Sorge, dass bei Vorhaben, die ausschlienon papers“);
       - bb) :: des Europäischen Rates, des Rates, der informellen Ministertreffen und der Ratsgremien.
     - b) :: Berichten und Mitteilungen von Organen der Europäischen Union über Sitzungen
       - aa) :: des Europäischen Rates, des Rates und der informellen Ministertreffen;
@@ -148,5 +148,5 @@ Anlage - (zu § 9)
     Beabsichtigt der Rat, einen Beschluss zur Aufnahme von Verhandlungen zur Vorbereitung von Beitritten zur Europäischen Union zu fassen, informiert die Bundesregierung den Bundesrat und unterrichtet über ihre Willensbildung.
     Der Bundesrat wird über die Verhandlungen unterrichtet, soweit Länderinteressen betroffen sein könnten. Die Bundesregierung informiert auf Wunsch den Ausschuss für Fragen der Europäischen Union des Bundesrates über die Entwicklung von Beitrittsverhandlungen.
     Die Bundesregierung berücksichtigt die Stellungnahme des Bundesrates bei den Verhandlungen in entsprechender Anwendung von § 5.
-    Die Länder können mit einem Ländervertreter an Ressortabstimmungen der Verhandlungsposition sowie -- soweit möglich -- an der Ratsarbeitsgruppe �Erweiterung“ teilnehmen, wenn der konkret zu behandelnde Fragenbereich die ausschließliche Gesetzgebungskompetenz der Länder oder deren wesentliche Interessen berührt.
+    Die Länder können mit einem Ländervertreter an Ressortabstimmungen der Verhandlungsposition sowie -- soweit möglich -- an der Ratsarbeitsgruppe Erweiterung“ teilnehmen, wenn der konkret zu behandelnde Fragenbereich die ausschließliche Gesetzgebungskompetenz der Länder oder deren wesentliche Interessen berührt.
   - 3. :: Hinsichtlich des Artikels 217 des Vertrags über die Arbeitsweise der Europäischen Union sowie für die Abkommen nach Artikel 207 Absatz 3 des Vertrags über die Arbeitsweise der Europäischen Union gelten die Regelungen dieses Gesetzes mit der Ausnahme, dass sich die Teilnahme des Ländervertreters auf die Verhandlungen in der Ratsgruppe zur Aushandlung des Mandats für die Kommission beschränkt.

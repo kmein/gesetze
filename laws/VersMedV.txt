@@ -12,13 +12,13 @@ Auf Grund des ¬ß 30 Abs. 17 des Bundesversorgungsgesetzes, der durch Artikel 1 N
 
 Diese Verordnung regelt die Grunds√§tze f√ºr die medizinische Bewertung von Sch√§digungsfolgen und die Feststellung des Grades der Sch√§digungsfolgen im Sinne des ¬ß 30 Abs. 1 des Bundesversorgungsgesetzes, f√ºr die Anerkennung einer Gesundheitsst√∂rung nach ¬ß 1 Abs. 3 des Bundesversorgungsgesetzes, die Kriterien f√ºr die Bewertung der Hilflosigkeit und der Stufen der Pflegezulage nach ¬ß 35 Abs. 1 des Bundesversorgungsgesetzes und das Verfahren f√ºr deren Ermittlung und Fortentwicklung.
 
-¬ß 2 - Anlage ‚ÄVersorgungsmedizinische Grunds√§tze‚Äú
+¬ß 2 - Anlage Versorgungsmedizinische Grunds√§tze‚Äú
 
 Die in ¬ß 1 genannten Grunds√§tze und Kriterien sind in der Anlage zu dieser Verordnung<<FnR.F1_771649>>[[#F1_771649][*)]]} als deren Bestandteil festgelegt. Die Anlage wird auf der Grundlage des aktuellen Stands der medizinischen Wissenschaft unter Anwendung der Grunds√§tze der evidenzbasierten Medizin erstellt und fortentwickelt.
 
 ¬ß 3 - Beirat
 
-(1) Beim Bundesministerium f√ºr Arbeit und Soziales wird ein unabh√§ngiger ‚Ä√Ñrztlicher Sachverst√§ndigenbeirat Versorgungsmedizin‚Äú (Beirat) gebildet, der das Bundesministerium f√ºr Arbeit und Soziales zu allen versorgungs√§rztlichen Angelegenheiten ber√§t und die Fortentwicklung der Anlage entsprechend dem aktuellen Stand der medizinischen Wissenschaft und versorgungsmedizinischer Erfordernisse vorbereitet.
+(1) Beim Bundesministerium f√ºr Arbeit und Soziales wird ein unabh√§ngiger √Ñrztlicher Sachverst√§ndigenbeirat Versorgungsmedizin‚Äú (Beirat) gebildet, der das Bundesministerium f√ºr Arbeit und Soziales zu allen versorgungs√§rztlichen Angelegenheiten ber√§t und die Fortentwicklung der Anlage entsprechend dem aktuellen Stand der medizinischen Wissenschaft und versorgungsmedizinischer Erfordernisse vorbereitet.
 (2) Der Beirat hat 17 Mitglieder, und zwar
 
 - 1. :: acht versorgungsmedizinisch besonders qualifizierte √Ñrztinnen oder √Ñrzte,
@@ -60,10 +60,10 @@ Wenn mit dem Grad der Behinderung und dem Grad der Sch√§digungsfolgen das Ma√ü f
 - 2. :: Grad der Sch√§digungsfolgen (GdS), Grad der Behinderung (GdB)
   - a) :: GdS und GdB werden nach gleichen Grunds√§tzen bemessen. Beide Begriffe unterscheiden sich lediglich dadurch, dass der GdS nur auf die Sch√§digungsfolgen (also kausal) und der GdB auf alle Gesundheitsst√∂rungen unabh√§ngig von ihrer Ursache (also final) bezogen ist. Beide Begriffe haben die Auswirkungen von Funktionsbeeintr√§chtigungen in allen Lebensbereichen und nicht nur die Einschr√§nkungen im allgemeinen Erwerbsleben zum Inhalt. GdS und GdB sind ein Ma√ü f√ºr die k√∂rperlichen, geistigen, seelischen und sozialen Auswirkungen einer Funktionsbeeintr√§chtigung aufgrund eines Gesundheitsschadens.
   - b) :: Aus dem GdB und aus dem GdS ist nicht auf das Ausma√ü der Leistungsf√§higkeit zu schlie√üen. GdB und GdS sind grunds√§tzlich unabh√§ngig vom ausge√ºbten oder angestrebten Beruf zu beurteilen, es sei denn, dass bei Begutachtungen im sozialen Entsch√§digungsrecht ein besonderes berufliches Betroffensein ber√ºcksichtigt werden muss.
-  - c) :: GdB und GdS setzen stets eine Regelwidrigkeit gegen√ºber dem f√ºr das Lebensalter typischen Zustand voraus. Dies ist insbesondere bei Kindern und alten Menschen zu beachten. Physiologische Ver√§nderungen im Alter sind bei der Beurteilung des GdB und GdS nicht zu ber√ºcksichtigen. Als solche Ver√§nderungen sind die k√∂rperlichen und psychischen Leistungseinschr√§nkungen anzusehen, die sich im Alter regelhaft entwickeln, d. h. f√ºr das Alter nach ihrer Art und ihrem Umfang typisch sind. Demgegen√ºber sind pathologische Ver√§nderungen, d. h. Gesundheitsst√∂rungen, die nicht regelm√§√Alterskrankheiten" (z. B. ‚ÄAltersdiabetes", ‚ÄAltersstar") bezeichnet werden.
+  - c) :: GdB und GdS setzen stets eine Regelwidrigkeit gegen√ºber dem f√ºr das Lebensalter typischen Zustand voraus. Dies ist insbesondere bei Kindern und alten Menschen zu beachten. Physiologische Ver√§nderungen im Alter sind bei der Beurteilung des GdB und GdS nicht zu ber√ºcksichtigen. Als solche Ver√§nderungen sind die k√∂rperlichen und psychischen Leistungseinschr√§nkungen anzusehen, die sich im Alter regelhaft entwickeln, d. h. f√ºr das Alter nach ihrer Art und ihrem Umfang typisch sind. Demgegen√ºber sind pathologische Ver√§nderungen, d. h. Gesundheitsst√∂rungen, die nicht regelm√§Alterskrankheiten" (z. B. Altersdiabetes", Altersstar") bezeichnet werden.
   - d) :: Die in der GdS-Tabelle aufgef√ºhrten Werte sind aus langer Erfahrung gewonnen und stellen altersunabh√§ngige (auch trainingsunabh√§ngige) Mittelwerte dar. Je nach Einzelfall kann von den Tabellenwerten mit einer die besonderen Gegebenheiten darstellenden Begr√ºndung abgewichen werden.
   - e) :: Da der GdS seiner Natur nach nur ann√§hernd bestimmt werden kann, sind beim GdS nur Zehnerwerte anzugeben. Dabei sollen im Allgemeinen die folgenden Funktionssysteme zusammenfassend beurteilt werden: Gehirn einschlie√ülich Psyche; Augen; Ohren; Atmung; Herz- Kreislauf; Verdauung; Harnorgane; Geschlechtsapparat; Haut; Blut einschlie√ülich blutbildendes Gewebe und Immunsystem; innere Sekretion und Stoffwechsel; Arme; Beine; Rumpf. Die sehr wenigen in der GdS-Tabelle noch enthaltenen F√ºnfergrade sind alle auf ganz eng umschriebene Gesundheitsst√∂rungen bezogen, die selten allein und sehr selten genau in dieser Form und Auspr√§gung vorliegen.
-  - f) :: Der GdS setzt eine nicht nur vor√ºbergehende und damit eine √ºber einen Zeitraum von mehr als sechs Monaten sich erstreckende Gesundheitsst√∂rung voraus. Dementsprechend ist bei abklingenden Gesundheitsst√∂rungen der Wert festzusetzen, der dem √ºber sechs Monate hinaus verbliebenen - oder voraussichtlich verbleibenden - Schaden entspricht. Schwankungen im Gesundheitszustand bei l√§ngerem Leidensverlauf ist mit einem Durchschnittswert Rechnung zu tragen. Dies bedeutet: Wenn bei einem Leiden der Verlauf durch sich wiederholende Besserungen und Verschlechterungen des Gesundheitszustandes gepr√§gt ist (Beispiele: chronische Bronchitis, Hautkrankheiten, Anfallsleiden), k√∂nnen die zeitweiligen Verschlechterungen - aufgrund der anhaltenden Auswirkungen auf die gesamte Lebensf√ºhrung - nicht als vor√ºbergehende Gesundheitsst√∂rungen betrachtet werden. Dementsprechend muss in solchen F√§llen bei der GdB- und GdS-Beurteilung von dem ‚Ädurchschnittlichen" Ausma√ü der Beeintr√§chtigung ausgegangen werden.
+  - f) :: Der GdS setzt eine nicht nur vor√ºbergehende und damit eine √ºber einen Zeitraum von mehr als sechs Monaten sich erstreckende Gesundheitsst√∂rung voraus. Dementsprechend ist bei abklingenden Gesundheitsst√∂rungen der Wert festzusetzen, der dem √ºber sechs Monate hinaus verbliebenen - oder voraussichtlich verbleibenden - Schaden entspricht. Schwankungen im Gesundheitszustand bei l√§ngerem Leidensverlauf ist mit einem Durchschnittswert Rechnung zu tragen. Dies bedeutet: Wenn bei einem Leiden der Verlauf durch sich wiederholende Besserungen und Verschlechterungen des Gesundheitszustandes gepr√§gt ist (Beispiele: chronische Bronchitis, Hautkrankheiten, Anfallsleiden), k√∂nnen die zeitweiligen Verschlechterungen - aufgrund der anhaltenden Auswirkungen auf die gesamte Lebensf√ºhrung - nicht als vor√ºbergehende Gesundheitsst√∂rungen betrachtet werden. Dementsprechend muss in solchen F√§llen bei der GdB- und GdS-Beurteilung von dem durchschnittlichen" Ausma√ü der Beeintr√§chtigung ausgegangen werden.
   - g) :: Stirbt ein Antragsteller oder eine Antragstellerin innerhalb von sechs Monaten nach Eintritt einer Gesundheitsst√∂rung, so ist f√ºr diese Gesundheitsst√∂rung der GdS anzusetzen, der nach √§rztlicher Erfahrung nach Ablauf von sechs Monaten nach Eintritt der Gesundheitsst√∂rung zu erwarten gewesen w√§re. Fallen Eintritt der Gesundheitsst√∂rung und Tod jedoch zusammen, kann ein GdS nicht angenommen werden. Eintritt der Gesundheitsst√∂rung und Tod fallen nicht nur zusammen, wenn beide Ereignisse im selben Augenblick eintreten. Dies ist vielmehr auch dann der Fall, wenn die Gesundheitsst√∂rung in so rascher Entwicklung zum Tode f√ºhrt, dass der Eintritt der Gesundheitsst√∂rung und des Todes einen untrennbaren Vorgang darstellen.
   - h) :: Gesundheitsst√∂rungen, die erst in der Zukunft zu erwarten sind, sind beim GdS nicht zu ber√ºcksichtigen. Die Notwendigkeit des Abwartens einer Heilungsbew√§hrung stellt eine andere Situation dar; w√§hrend der Zeit dieser Heilungsbew√§hrung ist ein h√∂herer GdS gerechtfertigt, als er sich aus dem festgestellten Schaden ergibt.
   - i) :: Bei der Beurteilung des GdS sind auch seelische Begleiterscheinungen und Schmerzen zu beachten. Die in der GdS-Tabelle niedergelegten S√§tze ber√ºcksichtigen bereits die √ºblichen seelischen Begleiterscheinungen (z. B. bei Entstellung des Gesichts, Verlust der weiblichen Brust). Sind die seelischen Begleiterscheinungen erheblich h√∂her als aufgrund der organischen Ver√§nderungen zu erwarten w√§re, so ist ein h√∂herer GdS gerechtfertigt. Vergleichsma√üstab ist nicht der behinderte Mensch, der √ºberhaupt nicht oder kaum unter seinem K√∂rperschaden leidet, sondern die allgemeine √§rztliche Erfahrung hinsichtlich der regelhaften Auswirkungen. Au√üergew√∂hnliche seelische Begleiterscheinungen sind anzunehmen, wenn anhaltende psychoreaktive St√∂rungen in einer solchen Auspr√§gung vorliegen, dass eine spezielle √§rztliche Behandlung dieser St√∂rungen - z. B. eine Psychotherapie - erforderlich ist.
@@ -79,8 +79,8 @@ Wenn mit dem Grad der Behinderung und dem Grad der Sch√§digungsfolgen das Ma√ü f
     - dd) :: Die Auswirkungen einer Funktionsbeeintr√§chtigung werden durch eine hinzutretende Gesundheitsst√∂rung nicht verst√§rkt.
     - ee) :: Von Ausnahmef√§llen (z. B. hochgradige Schwerh√∂rigkeit eines Ohres bei schwerer beidseitiger Einschr√§nkung der Sehf√§higkeit) abgesehen, f√ºhren zus√§tzliche leichte Gesundheitsst√∂rungen, die nur einen GdS von 10 bedingen, nicht zu einer Zunahme des Ausma√ües der Gesamtbeeintr√§chtigung, auch nicht, wenn mehrere derartige leichte Gesundheitsst√∂rungen nebeneinander bestehen. Auch bei leichten Funktionsbeeintr√§chtigungen mit einem GdS von 20 ist es vielfach nicht gerechtfertigt, auf eine wesentliche Zunahme des Ausma√ües der Behinderung zu schlie√üen.
 - 4. :: Hilflosigkeit
-  - a) :: F√ºr die Gew√§hrung einer Pflegezulage im sozialen Entsch√§digungsrecht ist Grundvoraussetzung, dass Besch√§digte (infolge der Sch√§digung) ‚Ähilflos" sind.
-  - b) :: Hilflos sind diejenigen, die infolge von Gesundheitsst√∂rungen - nach dem Neunten Buch Sozialgesetzbuch (SGB I X) und dem Einkommensteuergesetz ‚Änicht nur vor√ºbergehend" - f√ºr eine Reihe von h√§ufig und regelm√§√üig wiederkehrenden Verrichtungen zur Sicherung ihrer pers√∂nlichen Existenz im Ablauf eines jeden Tages fremder Hilfe dauernd bed√ºrfen. Diese Voraussetzungen sind auch erf√ºllt, wenn die Hilfe in Form einer √úberwachung oder einer Anleitung zu den genannten Verrichtungen erforderlich ist oder wenn die Hilfe zwar nicht dauernd geleistet werden muss, jedoch eine st√§ndige Bereitschaft zur Hilfeleistung erforderlich ist.
+  - a) :: F√ºr die Gew√§hrung einer Pflegezulage im sozialen Entsch√§digungsrecht ist Grundvoraussetzung, dass Besch√§digte (infolge der Sch√§digung) hilflos" sind.
+  - b) :: Hilflos sind diejenigen, die infolge von Gesundheitsst√∂rungen - nach dem Neunten Buch Sozialgesetzbuch (SGB I X) und dem Einkommensteuergesetz nicht nur vor√ºbergehend" - f√ºr eine Reihe von h√§ufig und regelm√§√üig wiederkehrenden Verrichtungen zur Sicherung ihrer pers√∂nlichen Existenz im Ablauf eines jeden Tages fremder Hilfe dauernd bed√ºrfen. Diese Voraussetzungen sind auch erf√ºllt, wenn die Hilfe in Form einer √úberwachung oder einer Anleitung zu den genannten Verrichtungen erforderlich ist oder wenn die Hilfe zwar nicht dauernd geleistet werden muss, jedoch eine st√§ndige Bereitschaft zur Hilfeleistung erforderlich ist.
   - c) :: H√§ufig und regelm√§√üig wiederkehrende Verrichtungen zur Sicherung der pers√∂nlichen Existenz im Ablauf eines jeden Tages sind insbesondere An- und Auskleiden, Nahrungsaufnahme, K√∂rperpflege, Verrichten der Notdurft. Au√üerdem sind notwendige k√∂rperliche Bewegung, geistige Anregung und M√∂glichkeiten zur Kommunikation zu ber√ºcksichtigen. Hilflosigkeit liegt im oben genannten Sinne auch dann vor, wenn ein psychisch oder geistig behinderter Mensch zwar bei zahlreichen Verrichtungen des t√§glichen Lebens der Hilfe nicht unmittelbar bedarf, er diese Verrichtungen aber infolge einer Antriebsschw√§che ohne st√§ndige √úberwachung nicht vorn√§hme. Die st√§ndige Bereitschaft ist z. B. anzunehmen, wenn Hilfe h√§ufig und pl√∂tzlich wegen akuter Lebensgefahr notwendig ist.
   - d) :: Der Umfang der notwendigen Hilfe bei den h√§ufig und regelm√§√üig wiederkehrenden Verrichtungen muss erheblich sein. Dies ist der Fall, wenn die Hilfe dauernd f√ºr zahlreiche Verrichtungen, die h√§ufig und regelm√§√üig wiederkehren, ben√∂tigt wird. Einzelne Verrichtungen, selbst wenn sie lebensnotwendig sind und im t√§glichen Lebensablauf wiederholt vorgenommen werden, gen√ºgen nicht (z. B. Hilfe beim Anziehen einzelner Bekleidungsst√ºcke, notwendige Begleitung bei Reisen und Spazierg√§ngen, Hilfe im Stra√üenverkehr, einfache Wund- oder Heilbehandlung, Hilfe bei Heimdialyse ohne Notwendigkeit weiterer Hilfeleistung). Verrichtungen, die mit der Pflege der Person nicht unmittelbar zusammenh√§ngen (z. B. im Bereich der hauswirtschaftlichen Versorgung) m√ºssen au√üer Betracht bleiben.
   - e) :: Bei einer Reihe schwerer Behinderungen, die aufgrund ihrer Art und besonderen Auswirkungen regelhaft Hilfeleistungen in erheblichem Umfang erfordern, kann im Allgemeinen ohne n√§here Pr√ºfung angenommen werden, dass die Voraussetzungen f√ºr das Vorliegen von Hilflosigkeit erf√ºllt sind. Dies gilt stets
@@ -92,7 +92,7 @@ Wenn mit dem Grad der Behinderung und dem Grad der Sch√§digungsfolgen das Ma√ü f
   - g) :: F√ºhrt eine Behinderung zu dauerndem Krankenlager, so sind stets auch die Voraussetzungen f√ºr die Annahme von Hilflosigkeit erf√ºllt. Dauerndes Krankenlager setzt nicht voraus, dass der behinderte Mensch das Bett √ºberhaupt nicht verlassen kann.
   - h) :: Stirbt ein behinderter Mensch innerhalb von sechs Monaten nach Eintritt einer Gesundheitsst√∂rung, so ist die Frage der Hilflosigkeit analog Nummer 2 Buchstabe g zu beurteilen.
 - 5. :: Besonderheiten der Beurteilung der Hilflosigkeit bei Kindern und Jugendlichen
-  - a) :: Bei der Beurteilung der Hilflosigkeit bei Kindern und Jugendlichen sind nicht nur die bei der Hilflosigkeit genannten ‚ÄVerrichtungen" zu beachten. Auch die Anleitung zu diesen ‚ÄVerrichtungen", die F√∂rderung der k√∂rperlichen und geistigen Entwicklung (z. B. durch Anleitung im Gebrauch der Gliedma√üen oder durch Hilfen zum Erfassen der Umwelt und zum Erlernen der Sprache) sowie die notwendige √úberwachung geh√∂ren zu den Hilfeleistungen, die f√ºr die Frage der Hilflosigkeit von Bedeutung sind.
+  - a) :: Bei der Beurteilung der Hilflosigkeit bei Kindern und Jugendlichen sind nicht nur die bei der Hilflosigkeit genannten Verrichtungen" zu beachten. Auch die Anleitung zu diesen Verrichtungen", die F√∂rderung der k√∂rperlichen und geistigen Entwicklung (z. B. durch Anleitung im Gebrauch der Gliedma√üen oder durch Hilfen zum Erfassen der Umwelt und zum Erlernen der Sprache) sowie die notwendige √úberwachung geh√∂ren zu den Hilfeleistungen, die f√ºr die Frage der Hilflosigkeit von Bedeutung sind.
   - b) :: Stets ist nur der Teil der Hilfsbed√ºrftigkeit zu ber√ºcksichtigen, der wegen der Behinderung den Umfang der Hilfsbed√ºrftigkeit eines gesunden gleichaltrigen Kindes √ºberschreitet. Der Umfang der wegen der Behinderungen notwendigen zus√§tzlichen Hilfeleistungen muss erheblich sein. Bereits im ersten Lebensjahr k√∂nnen infolge der Behinderung Hilfeleistungen in solchem Umfang erforderlich sein, dass dadurch die Voraussetzungen f√ºr die Annahme von Hilflosigkeit erf√ºllt sind.
   - c) :: Die Besonderheiten des Kindesalters f√ºhren dazu, dass zwischen dem Ausma√ü der Behinderung und dem Umfang der wegen der Behinderung erforderlichen Hilfeleistungen nicht immer eine Korrelation besteht, so dass - anders als bei Erwachsenen - auch schon bei niedrigerem GdS Hilflosigkeit vorliegen kann.
   - d) :: Bei angeborenen oder im Kindesalter aufgetretenen Behinderungen ist im Einzelnen folgendes zu beachten:
@@ -131,7 +131,7 @@ Wenn mit dem Grad der Behinderung und dem Grad der Sch√§digungsfolgen das Ma√ü f
 - 7. :: Wesentliche √Ñnderung der Verh√§ltnisse
   - a) :: Eine wesentliche √Ñnderung im Ausma√ü der Sch√§digungsfolgen oder der Behinderung liegt nur vor, wenn der ver√§nderte Gesundheitszustand mehr als sechs Monate angehalten hat oder voraussichtlich anhalten wird und die √Ñnderung des GdS wenigstens 10 betr√§gt. Eine wesentliche √Ñnderung ist auch gegeben, wenn die entscheidenden Voraussetzungen f√ºr weitere Leistungen im sozialen Entsch√§digungsrecht (z.B. Pflegezulage) oder f√ºr Nachteilsausgleiche f√ºr behinderte Menschen erf√ºllt werden oder entfallen sind.
   - b) :: Nach Ablauf der Heilungsbew√§hrung ist auch bei gleichbleibenden Symptomen eine Neubewertung des GdS zul√§ssig, weil der Ablauf der Heilungsbew√§hrung eine wesentliche √Ñnderung der Verh√§ltnisse darstellt.
-  - c) :: Bei Beurteilungen im sozialen Entsch√§digungsrecht ist bei einer Zunahme des Leidensumfangs zus√§tzlich zu pr√ºfen, ob die Weiterentwicklung noch Folge einer Sch√§digung ist. Auch bei gleichbleibendem Erscheinungsbild kann eine wesentliche √Ñnderung der gesundheitlichen Verh√§ltnisse vorliegen, wenn sich die sch√§digungsbedingte St√∂rung, die dem Erscheinungsbild zun√§chst zugrunde lag, gebessert oder ganz zur√ºckgebildet hat, das Leidensbild jedoch aufgrund neuer Ursachen bestehen geblieben ist (‚ÄVerschiebung der Wesensgrundlage").
+  - c) :: Bei Beurteilungen im sozialen Entsch√§digungsrecht ist bei einer Zunahme des Leidensumfangs zus√§tzlich zu pr√ºfen, ob die Weiterentwicklung noch Folge einer Sch√§digung ist. Auch bei gleichbleibendem Erscheinungsbild kann eine wesentliche √Ñnderung der gesundheitlichen Verh√§ltnisse vorliegen, wenn sich die sch√§digungsbedingte St√∂rung, die dem Erscheinungsbild zun√§chst zugrunde lag, gebessert oder ganz zur√ºckgebildet hat, das Leidensbild jedoch aufgrund neuer Ursachen bestehen geblieben ist (Verschiebung der Wesensgrundlage").
 
 - 1. :: Allgemeine Hinweise zur GdS-Tabelle
   - a) :: Die nachstehend genannten GdS sind Anhaltswerte. Es ist unerl√§sslich, alle die Teilhabe beeintr√§chtigenden k√∂rperlichen, geistigen und seelischen St√∂rungen im Einzelfall zu ber√ºcksichtigen. Die Beurteilungsspannen tragen den Besonderheiten des Einzelfalles Rechnung.
@@ -160,13 +160,13 @@ Bei der folgenden GdS-Tabelle der Hirnsch√§den soll die unter Nummer 3.1.1 genan
 \\
 Soziale Anpassungsschwierigkeiten liegen insbesondere vor, wenn die Integrationsf√§higkeit in Lebensbereiche (wie zum Beispiel Regel-Kindergarten, Regel-Schule, allgemeiner Arbeitsmarkt, √∂ffentliches Leben, h√§usliches Leben) nicht ohne besondere F√∂rderung oder Unterst√ºtzung (zum Beispiel durch Eingliederungshilfe) gegeben ist oder wenn die Betroffenen einer √ºber das dem jeweiligen Alter entsprechende Ma√ü hinausgehenden Beaufsichtigung bed√ºrfen. Mittlere soziale Anpassungsschwierigkeiten liegen insbesondere vor, wenn die Integration in Lebensbereiche nicht ohne umfassende Unterst√ºtzung (zum Beispiel einen Integrationshelfer als Eingliederungshilfe) m√∂glich ist. Schwere soziale Anpassungsschwierigkeiten liegen insbesondere vor, wenn die Integration in Lebensbereiche auch mit umfassender Unterst√ºtzung nicht m√∂glich ist.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 3.5.2¬†Hyperkinetische St√∂rungen und Aufmerksamkeitsst√∂rungen ohne Hyperaktivit√§t\\
 Ohne soziale Anpassungsschwierigkeiten liegt keine Teilhabebeeintr√§chtigung vor.\\
@@ -180,101 +180,101 @@ Bei sozialen Anpassungsschwierigkeiten
 \\
 Ab dem Alter von 25 Jahren betr√§gt der GdS regelhaft nicht mehr als 50.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 3.5.3¬† St√∂rungen des Sozialverhaltens und St√∂rungen sozialer Funktionen mit Beginn in der Kindheit und Jugend sind je nach Ausma√ü der Teilhabebeeintr√§chtigung, insbesondere der Einschr√§nkung der sozialen Integrationsf√§higkeit und dem Betreuungsaufwand, individuell zu bewerten.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 3.6 Schizophrene und affektive Psychosen
 
-†
+
 
 Langdauernde (√ºber ein halbes Jahr anhaltende) Psychose im floriden Stadium je nach Einbu√üe beruflicher und sozialer Anpassungsm√∂glichkeiten
 
 50-100
 
-†
 
-†
 
-†
+
+
+
 
 Schizophrener Residualzustand (z. B. Konzentrationsst√∂rung, Kontaktschw√§che, Vitalit√§tseinbu√üe, affektive Nivellierung) mit geringen und einzelnen Restsymptomen
 
-†
 
-†
+
+
 
 ohne soziale Anpassungsschwierigkeiten
 
 10-20
 
-†
+
 
 mit leichten sozialen Anpassungsschwierigkeiten
 
 30-40
 
-†
+
 
 mit mittelgradigen sozialen Anpassungsschwierigkeiten
 
 50-70
 
-†
+
 
 mit schweren sozialen Anpassungsschwierigkeiten
 
 80-100
 
-†
 
-†
 
-†
+
+
+
 
 Affektive Psychose mit relativ kurz andauernden, aber h√§ufig wiederkehrenden Phasen
 
-†
 
-†
+
+
 
 bei 1 bis 2 Phasen im Jahr von mehrw√∂chiger Dauer je nach Art und Auspr√§gung
 
 30-50
 
-†
+
 
 bei h√§ufigeren Phasen von mehrw√∂chiger Dauer
 
 60-100
 
-†
 
-†
 
-†
+
+
+
 
 Nach dem Abklingen lang dauernder psychotischer Episoden ist eine Heilungsbew√§hrung von zwei Jahren abzuwarten.
 
-†
 
-†
 
-†
+
+
+
 
 GdS w√§hrend dieser Zeit, wenn bereits mehrere manische oder manische und depressive Phasen vorangegangen sind
 
@@ -282,97 +282,97 @@ GdS w√§hrend dieser Zeit, wenn bereits mehrere manische oder manische und depres
 
 sonst
 
-†
+
 
 30
 
-†
 
-†
 
-†
+
+
+
 
 Eine Heilungsbew√§hrung braucht nicht abgewartet zu werden, wenn eine monopolar verlaufene depressive Phase vorgelegen hat, die als erste Krankheitsphase oder erst mehr als zehn Jahre nach einer fr√ºheren Krankheitsphase aufgetreten ist.
 
-†
 
-†
 
-†
+
+
+
 
 3.7 Neurosen, Pers√∂nlichkeitsst√∂rungen, Folgen psychischer Traumen
 
-†
+
 
 Leichtere psychovegetative oder psychische St√∂rungen
 
 0-20
 
-†
 
-†
 
-†
+
+
+
 
 St√§rker behindernde St√∂rungen
 
-†
 
-†
+
+
 
 mit wesentlicher Einschr√§nkung der Erlebnis- und Gestaltungsf√§higkeit
 
-†
 
-†
+
+
 
 (z. B. ausgepr√§gtere depressive, hypochondrische, asthenische oder phobische St√∂rungen, Entwicklungen mit Krankheitswert, somatoforme St√∂rungen)
 
 30-40
 
-†
 
-†
 
-†
+
+
+
 
 Schwere St√∂rungen (z. B. schwere Zwangskrankheit)
 
-†
 
-†
+
+
 
 mit mittelgradigen sozialen Anpassungsschwierigkeiten
 
 50-70
 
-†
+
 
 mit schweren sozialen Anpassungsschwierigkeiten
 
 80-100
 
-†
 
-†
 
-†
+
+
+
 
 3.8 Psychische St√∂rungen und Verhaltensst√∂rungen durch psychotrope Substanzen
 
-†
 
-†
 
-†
+
+
+
 
 Der sch√§dliche Gebrauch psychotroper Substanzen ohne k√∂rperliche oder psychische Sch√§digung bedingt keinen Grad der Sch√§digungsfolgen. Die Abh√§ngigkeit von Koffein oder Tabak sowie von Koffein und Tabak bedingt f√ºr sich allein in der Regel keine Teilhabebeeintr√§chtigung.
 
-†
 
-†
 
-†
+
+
+
 
 Abh√§ngigkeit von psychotropen Substanzen liegt vor, wenn als Folge des chronischen Substanzkonsums mindestens drei der folgenden Kriterien erf√ºllt sind:
 
@@ -385,19 +385,19 @@ Abh√§ngigkeit von psychotropen Substanzen liegt vor, wenn als Folge des chronisc
 
 Es gelten folgende GdS-Werte:
 
-†
 
-†
 
-†
+
+
+
 
 Bei sch√§dlichem Gebrauch von psychotropen Substanzen mit leichteren psychischen St√∂rungen betr√§gt der GdS 0--20.
 
-†
 
-†
 
-†
+
+
+
 
 Bei Abh√§ngigkeit:
 
@@ -405,127 +405,127 @@ Bei Abh√§ngigkeit:
 - -- :: mit mittleren sozialen Anpassungsschwierigkeiten betr√§gt der GdS 50--70,
 - -- :: mit schweren sozialen Anpassungsschwierigkeiten betr√§gt der GdS 80--100.
 
-†
 
-†
 
-†
+
+
+
 
 Ist im Fall einer Abh√§ngigkeit, die zuvor mit einem GdS von mindestens 50 zu bewerten war, Abstinenz erreicht, muss eine Heilungsbew√§hrung von zwei Jahren ab dem Zeitpunkt des Beginns der Abstinenz abgewartet werden. W√§hrend dieser Zeit ist ein GdS von 30 anzunehmen, es sei denn, die bleibenden psychischen oder hirnorganischen St√∂rungen rechtfertigen einen h√∂heren GdS. Weitere Organsch√§den sind unter Beachtung von Teil A Nummer 2 Buchstabe e der Versorgungsmedizinischen Grunds√§tze zu bewerten.
 
-†
 
-†
 
-†
+
+
+
 
 Abnorme Gewohnheiten und St√∂rungen der Impulskontrolle sind nach Teil B Nummer 3.7 zu bewerten.
 
-†
+
 
 3.9 R√ºckenmarksch√§den
 
-†
 
-†
+
+
 
 Unvollst√§ndige, leichte Halsmarksch√§digung mit beidseits geringen motorischen und sensiblen Ausf√§llen, ohne St√∂rungen der Blasen- und Mastdarmfunktion
 
 30-60
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Unvollst√§ndige Brustmark-, Lendenmark- oder Kaudasch√§digung mit Teill√§hmung beider Beine, ohne St√∂rungen der Blasen- und Mastdarmfunktion
 
 30-60
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Unvollst√§ndige Brustmark-, Lendenmark- oder Kaudasch√§digung mit Teill√§hmung beider Beine und St√∂rungen der Blasen- und/oder Mastdarmfunktion
 
 60-80
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Unvollst√§ndige Halsmarksch√§digung mit gewichtigen Teill√§hmungen beider Arme und Beine und St√∂rungen der Blasen- und/oder Mastdarmfunktion
 
 100
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Vollst√§ndige Halsmarksch√§digung mit vollst√§ndiger L√§hmung beider Arme und Beine und St√∂rungen der Blasen- und/ oder Mastdarmfunktion
 
 100
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Vollst√§ndige Brustmark-, Lendenmark-, oder Kaudasch√§digung mit vollst√§ndiger L√§hmung der Beine und St√∂rungen der Blasen und/oder Mastdarmfunktion
 
 100
 
-†
 
-†
 
-†
+
+
+
 
 3.10 Multiple Sklerose
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Der GdS richtet sich vor allem nach den zerebralen und spinalen Ausfallserscheinungen. Zus√§tzlich ist die aus dem klinischen Verlauf sich ergebende Krankheitsaktivit√§t zu ber√ºcksichtigen.
 
-†
 
-†
 
-†
+
+
+
 
 3.11 Polyneuropathien
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Bei den Polyneuropathien ergeben sich die Funktionsbeeintr√§chtigungen aufgrund motorischer Ausf√§lle (mit Muskelatrophien), sensibler St√∂rungen oder Kombinationen von beiden. Der GdS motorischer Ausf√§lle ist in Analogie zu den peripheren Nervensch√§den einzusch√§tzen. Bei den sensiblen St√∂rungen und Schmerzen ist zu ber√ºcksichtigen, dass schon leichte St√∂rungen zu Beeintr√§chtigungen - z. B. bei Feinbewegungen - f√ºhren k√∂nnen.
 
@@ -536,43 +536,43 @@ Sehorgan\\
 
 Die Sehbehinderung umfasst alle St√∂rungen des Sehverm√∂gens. F√ºr die Beurteilung ist in erster Linie die korrigierte Sehsch√§rfe ma√ügebend; daneben sind u. a. Ausf√§lle des Gesichtsfeldes und des Blickfeldes zu ber√ºcksichtigen.
 
-†
 
-†
 
-†
+
+
+
 
 Die Sehsch√§rfe ist grunds√§tzlich entsprechend den Empfehlungen der Deutschen Ophthalmologischen Gesellschaft (DOG) nach DIN 58220 zu bestimmen; Abweichungen hiervon sind nur in Ausnahmef√§llen zul√§ssig (zum Beispiel bei Bettl√§gerigkeit oder Kleinkindern). Die √ºbrigen Partialfunktionen des Sehverm√∂gens sind nur mit Ger√§ten oder Methoden zu pr√ºfen, die den Empfehlungen der DOG entsprechend eine gutachtenrelevante einwandfreie Beurteilung erlauben.
 
-†
 
-†
 
-†
+
+
+
 
 Hinsichtlich der Gesichtsfeldbestimmung bedeutet dies, dass zur Feststellung von Gesichtsfeldausf√§llen nur Ergebnisse der manuellkinetischen Perimetrie entsprechend der Marke Goldmann III/4e verwertet werden d√ºrfen.
 
-†
 
-†
 
-†
+
+
+
 
 Bei der Beurteilung von St√∂rungen des Sehverm√∂gens ist darauf zu achten, dass der morphologische Befund die Sehst√∂rungen erkl√§rt.
 
-†
 
-†
 
-†
 
-Die Grundlage f√ºr die GdS-Beurteilung bei Herabsetzung der Sehsch√§rfe bildet die ‚ÄMdE-Tabelle der DOG".
 
-†
 
-†
 
-†
+Die Grundlage f√ºr die GdS-Beurteilung bei Herabsetzung der Sehsch√§rfe bildet die MdE-Tabelle der DOG".
+
+
+
+
+
+
 
 4.1 Verlust eines Auges mit dauernder, einer Behandlung nicht
 
@@ -580,83 +580,83 @@ zug√§nglichen Eiterung der Augenh√∂hle
 
 40
 
-†
+
 
 4.2 Linsenverlust
 
-†
+
 
 Linsenverlust korrigiert durch intraokulare Kunstlinse oder Kontaktlinse
 
-†
 
-†
+
+
 
 Linsenverlust eines Auges
 
-†
 
-†
 
-†
+
+
+
 
 Sehsch√§rfe 0,4 und mehr
 
 10
 
-†
 
-†
+
+
 
 Sehsch√§rfe 0,1 bis weniger als 0,4
 
 20
 
-†
 
-†
+
+
 
 Sehsch√§rfe weniger als 0,1
 
 25-30
 
-†
+
 
 Linsenverlust beider Augen
 
-†
 
-†
 
-†
+
+
+
 
 Betr√§gt der sich aus der Sehsch√§rfe f√ºr beide Augen ergebende GdS nicht mehr als 60, ist dieser um 10 zu erh√∂hen.\\
 
-†
 
-†
+
+
 
 Die GdS-Werte setzen die Vertr√§glichkeit der Linsen voraus. Ma√ügebend ist der objektive Befund.\\
 
-†
 
-†
+
+
 
 Bei Versorgung mit Starbrille ist der aus der Sehsch√§rfe f√ºr beide Augen sich ergebende GdS um 10 zu erh√∂hen, bei Blindheit oder Verlust des anderen Auges um 20.\\
 
-†
 
-†
+
+
 
 Bei Unkorrigierbarkeit richtet sich der GdS nach der Restsehsch√§rfe.
 
-†
 
-†
+
+
 
 4.3 Die augen√§rztliche Untersuchung umfasst die Pr√ºfung der ein√§ugigen und beid√§ugigen Sehsch√§rfe. Sind die Ergebnisse beider Pr√ºfungsarten unterschiedlich, so ist bei der Bewertung die beid√§ugige Sehsch√§rfe als Sehsch√§rfewert des besseren Auges anzusetzen.
 
-†
+
 
 \\
 \\
@@ -666,445 +666,445 @@ Bei Unkorrigierbarkeit richtet sich der GdS nach der Restsehsch√§rfe.
 
 4.4 Augenmuskell√§hmungen, Strabismus
 
-†
 
-†
+
+
 
 wenn ein Auge wegen der Doppelbilder vom Sehen ausgeschlossen werden muss
 
 30
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 bei Doppelbildern nur in einigen Blickfeldbereichen bei sonst normalem Binokularsehen ergibt sich der GdS aus dem nachstehenden Schema von Haase und Steinhorst:
 
-†
 
-†
+
+
 
 [[../normengrafiken/bgbl1_2008/j0031_0010.jpg]]
 
-†
 
-†
+
+
 
 bei einseitiger Bildunterdr√ºckung durch Gew√∂hnung (Exklusion) und entsprechendem Verschwinden der Doppelbilder
 
 10
 
-†
 
-†
 
-†
+
+
+
 
 Einschr√§nkungen der Sehsch√§rfe (z. B. Amblyopie) oder eine erheblich entstellende Wirkung sind ggf. zus√§tzlich zu ber√ºcksichtigen.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 L√§hmung des Oberlides mit nicht korrigierbarem, vollst√§ndigem
 
-†
 
-†
+
+
 
 Verschluss des Auges
 
 30
 
-†
+
 
 sonst
 
 10-20
 
-†
 
-†
 
-†
+
+
+
 
 Fehlstellungen der Lider, Verlegung der Tr√§nenwege mit Tr√§nentr√§ufeln
 
-†
 
-†
+
+
 
 einseitig
 
 0-10
 
-†
+
 
 beidseitig
 
 10-20
 
-†
 
-†
 
-†
+
+
+
 
 4.5 Gesichtsfeldausf√§lle
 
-†
 
-†
+
+
 
 Vollst√§ndige Halbseiten- und Quadrantenausf√§lle
 
-†
 
-†
 
-†
+
+
+
 
 Homonyme Hemianopsie
 
 40
 
-†
 
-†
+
+
 
 Bitemporale Hemianopsie
 
 30
 
-†
 
-†
 
-†
+
+
+
 
 Binasale Hemianopsie
 
-†
 
-†
 
-†
+
+
+
 
 bei beid√§ugigem Sehen
 
 10
 
-†
 
-†
+
+
 
 bei Verlust des beid√§ugigen Sehens
 
 30
 
-†
 
-†
+
+
 
 Homonymer Quadrant oben
 
 20
 
-†
 
-†
+
+
 
 Homonymer Quadrant unten
 
 30
 
-†
 
-†
+
+
 
 Vollst√§ndiger Ausfall beider unterer Gesichtsfeldh√§lften
 
 60
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 Ausfall einer Gesichtsfeldh√§lfte bei Verlust oder Blindheit des anderen Auges
 
-†
 
-†
 
-†
+
+
+
 
 nasal
 
 60
 
-†
 
-†
+
+
 
 temporal
 
 70
 
-†
+
 
 Bei unvollst√§ndigen Halbseiten- und Quadrantenausf√§llen ist der GdS entsprechend niedriger anzusetzen.
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 Gesichtsfeldeinengungen
 
-†
 
-†
+
+
 
 Allseitige Einengung bei normalem Gesichtsfeld des anderen Auges
 
-†
 
-†
 
-†
+
+
+
 
 auf 10¬∞ Abstand vom Zentrum
 
 10
 
-†
 
-†
+
+
 
 auf 5¬∞ Abstand vom Zentrum
 
 25
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
 
 Allseitige Einengung binokular
 
-†
 
-†
 
-†
+
+
+
 
 auf 50¬∞ Abstand vom Zentrum
 
 10
 
-†
 
-†
+
+
 
 auf 30¬∞ Abstand vom Zentrum
 
 30
 
-†
 
-†
+
+
 
 auf 10¬∞ Abstand vom Zentrum
 
 70
 
-†
 
-†
+
+
 
 auf 5¬∞ Abstand vom Zentrum
 
 100
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 Allseitige Einengung bei Fehlen des anderen Auges
 
-†
 
-†
 
-†
+
+
+
 
 auf 50¬∞ Abstand vom Zentrum
 
 40
 
-†
 
-†
+
+
 
 auf 30¬∞ Abstand vom Zentrum
 
 60
 
-†
 
-†
+
+
 
 auf 10¬∞ Abstand vom Zentrum
 
 90
 
-†
 
-†
+
+
 
 auf 5¬∞ Abstand vom Zentrum
 
 100
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 Unregelm√§√üige Gesichtsfeldausf√§lle, Skotome im 50¬∞-Gesichtsfeld unterhalb des horizontalen Meridians, binokular
 
-†
 
-†
 
-†
+
+
+
 
 mindestens 1/3 ausgefallene Fl√§che
 
 20
 
-†
 
-†
+
+
 
 mindestens 2/3 ausgefallene Fl√§che
 
 50
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 Bei Fehlen eines Auges sind die Skotome entsprechend h√∂her zu bewerten.
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 4.6 Ausfall des Farbensinns
 
 0
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Einschr√§nkung der Dunkeladaptation (Nachtblindheit) oder des D√§mmerungssehens
 
 0-10
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 4.7 Nach Hornhauttransplantationen richtet sich der GdS allein nach dem Sehverm√∂gen.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 4.8 Nach Entfernung eines malignen Augentumors ist in den ersten f√ºnf Jahren eine Heilungsbew√§hrung abzuwarten; GdS w√§hrend dieser Zeit
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
 
 bei Tumorbegrenzung auf den Augapfel (auch bei Augapfelentfernung)
 
 50
 
-†
 
-†
+
+
 
 sonst
 
@@ -1117,89 +1117,89 @@ H√∂r- und Gleichgewichtsorgan\\
 
 Ma√ügebend f√ºr die Bewertung des GdS bei H√∂rst√∂rungen ist die Herabsetzung des Sprachgeh√∂rs, deren Umfang durch Pr√ºfung ohne H√∂rhilfen zu bestimmen ist. Der Beurteilung ist die von der Deutschen Gesellschaft f√ºr Hals-Nasen-Ohrenheilkunde, Kopf- und Hals-Chirurgie empfohlene Tabelle (siehe Nummer 5.2.4, Tabelle D) zugrunde zu legen. Nach Durchf√ºhrung eines Ton- und Sprachaudiogramms ist der Prozentsatz des H√∂rverlustes aus entsprechenden Tabellen abzuleiten.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Die in der GdS-Tabelle enthaltenen Werte zur Schwerh√∂rigkeit ber√ºcksichtigen die M√∂glichkeit eines Teilausgleichs durch H√∂rhilfen mit.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Sind mit der H√∂rst√∂rung andere Erscheinungen verbunden, z. B. Ohrger√§usche, Gleichgewichtsst√∂rungen, Artikulationsst√∂rungen oder au√üergew√∂hnliche psychoreaktive St√∂rungen, so kann der GdS entsprechend h√∂her bewertet werden.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 5.1 Angeborene oder in der Kindheit erworbene Taubheit oder an Taubheit grenzende Schwerh√∂rigkeit mit Sprachst√∂rungen
 
-†
 
-†
+
+
 
 angeboren oder bis zum 7. Lebensjahr erworben (schwere St√∂rung des Spracherwerbs, in der Regel lebenslang)
 
 100
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 sp√§ter erworben (im 8. bis 18. Lebensjahr) mit schweren Sprachst√∂rungen (schwer verst√§ndliche Lautsprache, geringer Sprachschatz)
 
 100
 
-†
+
 
 sonst je nach Sprachst√∂rung
 
 80-90
 
-†
+
 
 5.2 H√∂rverlust
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 5.2.1 Zur Ermittlung des prozentualen H√∂rverlustes aus den Werten der sprachaudiometrischen Untersuchung (nach Boenninghaus u. R√∂ser 1973):
 
-†
+
 
 \\
 \\
 
 -  :: Tabelle A
-  †
+  
 
-†
+
 
 5.2.2 Zur Ermittlung des prozentualen H√∂rverlustes aus dem Tonaudiogramm bei unregelm√§√üigem Verlauf der Tongeh√∂rskurve. Der prozentuale H√∂rverlust ergibt sich durch Addition der vier Teilkomponenten (4-Frequenztabelle nach R√∂ser 1973):
 
@@ -1209,7 +1209,7 @@ sonst je nach Sprachst√∂rung
 -  :: Tabelle B
   Tonh√∂rverlust
 
-†
+
 
 5.2.3.3 Frequenztabelle nach R√∂ser 1980 f√ºr die Beurteilung bei Hochtonverlusten vom Typ L√§rmschwerh√∂rigkeit:
 
@@ -1217,9 +1217,9 @@ sonst je nach Sprachst√∂rung
 \\
 
 -  :: Tabelle C
-  †
+  
 
-†
+
 
 5.2.4 Zur Ermittlung des GdS aus den Schwerh√∂rigkeitsgraden f√ºr beide Ohren:
 
@@ -1231,249 +1231,249 @@ sonst je nach Sprachst√∂rung
 
 5.3 Gleichgewichtsst√∂rungen
 
-†
 
-†
+
+
 
 (Normabweichungen in den apparativ erhobenen neurootologischen Untersuchungsbefunden bedingen f√ºr sich allein noch keinen GdS)
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
 
 ohne wesentliche Folgen
 
-†
 
-†
 
-†
+
+
+
 
 beschwerdefrei, allenfalls Gef√ºhl der Unsicherheit bei allt√§glichen Belastungen (z. B. Gehen, B√ºcken, Aufrichten, Kopfdrehungen, leichte Arbeiten in wechselnder K√∂rperhaltung) leichte Unsicherheit, geringe Schwindelerscheinungen (Schwanken) bei h√∂heren Belastungen (z. B. Heben von Lasten, Gehen im Dunkeln, abrupte K√∂rperbewegungen) st√§rkere Unsicherheit mit Schwindelerscheinungen (Fallneigung, Ziehen nach einer Seite) erst bei au√üergew√∂hnlichen Belastungen (z. B. Stehen und Gehen auf Ger√ºsten, sportliche √úbungen mit raschen K√∂rperbewegungen) keine nennenswerten Abweichungen bei den Geh- und Stehversuchen
 
 0-10
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 mit leichten Folgen
 
-†
 
-†
 
-†
+
+
+
 
 leichte Unsicherheit, geringe Schwindelerscheinungen wie Schwanken, Stolpern, Ausfallsschritte bei allt√§glichen Belastungen, st√§rkere Unsicherheit und Schwindelerscheinungen bei h√∂heren Belastungen leichte Abweichungen bei den Geh- und Stehversuchen erst auf h√∂herer Belastungsstufe
 
 20
 
-†
 
-†
 
-†
+
+
+
 
 mit mittelgradigen Folgen
 
-†
 
-†
 
-†
+
+
+
 
 st√§rkere Unsicherheit, Schwindelerscheinungen mit Fallneigung bereits bei allt√§glichen Belastungen, heftiger Schwindel (mit vegetativen Erscheinungen, gelegentlich √úbelkeit, Erbrechen) bei h√∂heren und au√üergew√∂hnlichen Belastungen deutliche Abweichungen bei den Geh- und Stehversuchen bereits auf niedriger Belastungsstufe
 
 30-40
 
-†
 
-†
 
-†
+
+
+
 
 mit schweren Folgen
 
-†
 
-†
 
-†
+
+
+
 
 heftiger Schwindel, erhebliche Unsicherheit und Schwierigkeiten bereits beim Gehen und Stehen im Hellen und bei anderen allt√§glichen Belastungen, teilweise Gehhilfe erforderlich
 
 50-70
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 bei Unf√§higkeit, ohne Unterst√ºtzung zu gehen oder zu stehen
 
 80
 
-†
 
-†
 
-†
+
+
+
 
 Ohrger√§usche (Tinnitus)
 
-†
 
-†
+
+
 
 ohne nennenswerte psychische Begleiterscheinungen
 
 0-10
 
-†
+
 
 mit erheblichen psychovegetativen Begleiterscheinungen
 
 20
 
-†
+
 
 mit wesentlicher Einschr√§nkung der Erlebnis- und Gestaltungsf√§higkeit (z. B. ausgepr√§gte depressive St√∂rungen)
 
 30-40
 
-†
+
 
 mit schweren psychischen St√∂rungen und sozialen Anpassungsschwierigkeiten
 
 mindestens 50
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Meni√®re-Krankheit
 
-†
 
-†
+
+
 
 ein bis zwei Anf√§lle im Jahr
 
 0-10
 
-†
+
 
 h√§ufigere Anf√§lle, je nach Schweregrad
 
 20-40
 
-†
+
 
 mehrmals monatlich schwere Anf√§lle
 
 50
 
-†
+
 
 Bleibende H√∂rst√∂rungen und Ohrger√§usche (Tinnitus) sind zus√§tzlich zu bewerten.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 5.4 Chronische Mittelohrentz√ºndung
 
-†
 
-†
+
+
 
 ohne Sekretion oder einseitige zeitweise Sekretion
 
 0
 
-†
+
 
 einseitige andauernde Sekretion oder zeitweise beidseitige Sekretion
 
 10
 
-†
+
 
 andauernd beidseitige Sekretion
 
 20
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Radikaloperationsh√∂hle
 
-†
 
-†
+
+
 
 reizlos
 
 0
 
-†
+
 
 bei unvollst√§ndiger √úberh√§utung und st√§ndiger Sekretion
 
-†
 
-†
 
-†
+
+
+
 
 einseitig
 
 10
 
-†
 
-†
+
+
 
 beidseitig
 
 20
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 5.5 Verlust einer Ohrmuschel
 
@@ -1488,127 +1488,127 @@ Nase\\
 
 50
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Teilverlust der Nase, Sattelnase
 
-†
 
-†
+
+
 
 wenig st√∂rend
 
 10
 
-†
+
 
 sonst
 
 20-30
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 6.2 Stinknase (Ozaena), je nach Ausma√ü der Borkenbildung und
 
-†
+
 
 des Foetors
 
 20-40
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Verengung der Naseng√§nge
 
-†
 
-†
+
+
 
 einseitig je nach Atembehinderung
 
 0-10
 
-†
+
 
 doppelseitig mit leichter bis mittelgradiger Atembehinderung
 
 10
 
-†
+
 
 doppelseitig mit starker Atembehinderung
 
 20
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Chronische Nebenh√∂hlenentz√ºndung
 
-†
 
-†
+
+
 
 leichteren Grades
 
-†
 
-†
+
+
 
 (ohne wesentliche Neben- und Folgeerscheinungen)
 
 0-10
 
-†
+
 
 schweren Grades
 
-†
 
-†
+
+
 
 (st√§ndige erhebliche Eiterabsonderung, Trigeminusreizerscheinungen, Polypenbildung)
 
 20-40
 
-†
 
-†
+
+
 
 6.3 V√∂lliger Verlust des Riechverm√∂gens mit der damit verbundenen
 
-†
 
-†
+
+
 
 Beeintr√§chtigung der Geschmackswahrnehmung
 
 15
 
-†
+
 
 V√∂lliger Verlust des Geschmackssinns
 
@@ -1621,628 +1621,628 @@ Mundh√∂hle, Rachenraum und obere Luftwege\\
 
 Verletzungs- und Erkrankungsfolgen an den Kiefern, Kiefergelenken und Weichteilen der Mundh√∂hle, einschlie√ülich der Zunge und der Speicheldr√ºsen, sind nach dem Grad ihrer Auswirkung auf Sprech-, Kau- und Schluckverm√∂gen zu beurteilen. Eine Gesichtsentstellung ist gesondert zu ber√ºcksichtigen.
 
-†
 
-†
 
-†
+
+
+
 
 7.1 Lippendefekt mit st√§ndigem Speichelfluss
 
 20-30
 
-†
 
-†
 
-†
+
+
+
 
 √Ñu√üere Speichelfistel, Frey-Syndrom
 
-†
 
-†
+
+
 
 geringe Sekretion
 
 10
 
-†
+
 
 sonst
 
 20
 
-†
 
-†
+
+
 
 St√∂rung der Speichelsekretion
 
-†
+
 
 (vermehrter Speichelfluss, Mundtrockenheit)
 
 0-20
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 7.2 Schwere Funktionsst√∂rung der Zunge durch Gewebsverlust, narbige Fixierung oder L√§hmung je nach Umfang und Artikulationsst√∂rung
 
 30-50
 
-†
 
-†
+
+
 
 Behinderung der Mund√∂ffnung\\
 (Schneidekantendistanz zwischen 5 und 25 mm) mit deutlicher Auswirkung auf die Nahrungsaufnahme
 
 20-40
 
-†
 
-†
 
-†
+
+
+
 
 Kieferklemme mit Notwendigkeit der Aufnahme fl√ºssiger oder passierter Nahrung und entsprechenden Sprechst√∂rungen
 
 50
 
-†
 
-†
+
+
 
 7.3 Verlust eines Teiles des Unterkiefers mit schlaffer Pseudarthrose
 
-†
 
-†
+
+
 
 ohne wesentliche Beeintr√§chtigung der Kaufunktion und Artikulation
 
 0-10
 
-†
+
 
 mit erheblicher Beeintr√§chtigung der Kaufunktion und Artikulation
 
 20-50
 
-†
 
-†
+
+
 
 Verlust eines Teiles des Oberkiefers
 
-†
 
-†
+
+
 
 ohne wesentliche kosmetische und funktionelle Beeintr√§chtigung
 
 0-10
 
-†
+
 
 mit entstellender Wirkung, wesentlicher Beeintr√§chtigung der Nasen- und Nebenh√∂hlen (Borkenbildung, st√§ndige Sekretion)
 
 20-40
 
-†
+
 
 7.4 Umfassender Zahnverlust
 
-†
+
 
 √ºber 1/2 Jahr hinaus prothetisch nur unzureichend zu versorgen
 
 10-20
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Verlust erheblicher Teile des Alveolarfortsatzes mit wesentlicher, prothetisch nicht voll ausgleichbarer Funktionsbehinderung
 
 20
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 7.5 Ausgedehnter Defekt des Gaumens mit gut sitzender
 
-†
+
 
 Defektprothese
 
 30
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Verlust des Gaumens ohne Korrekturm√∂glichkeit durch geeignete Prothese (St√∂rung der Nahrungsaufnahme)
 
 50
 
-†
 
-†
 
-†
+
+
+
 
 7.6 Lippen-, Kiefer-, Gaumen- und Segelspalten bei Kindern, bis zum Abschluss der Behandlung
 
-†
 
-†
+
+
 
 Isolierte voll ausgebildete Lippenspalte (ein- oder beidseitig)
 
-†
 
-†
 
-†
+
+
+
 
 bis zum Abschluss der Behandlung (in der Regel ein Jahr nach der Operation) je nach Trinkst√∂rung, Beeintr√§chtigung der mimischen Muskulatur und St√∂rung der Lautbildung
 
 30-50
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 Lippen-Kieferspalte
 
-†
 
-†
 
-†
+
+
+
 
 bis zum Abschluss der Erstbehandlung (in der Regel ein Jahr nach der Operation)
 
 60-70
 
-†
 
-†
+
+
 
 bis zum Verschluss der Kieferspalte
 
 50
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 Lippen-Kiefer-Gaumenspalte
 
-†
 
-†
 
-†
+
+
+
 
 bis zum Abschluss der Erstbehandlung (in der Regel ein Jahr nach der Operation) unter Mitber√ºcksichtigung der regelhaft damit verbundenen H√∂rst√∂rung (Tubenfehlbel√ºftung) und der St√∂rung der Nasenatmung
 
 100
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 bis zum Verschluss der Kieferspalte
 
 50
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 Komplette Gaumen- und Segelspalte ohne Kieferspalte
 
-†
 
-†
 
-†
+
+
+
 
 wegen der bis zum Abschluss der Erstbehandlung (in der Regel ein Jahr nach der Operation) bestehenden mit der Lippen-Kiefer-Gaumenspalte vergleichbaren Auswirkungen
 
 100
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
 
 Isolierte Segelspalte, submuk√∂se Gaumenspalte bis zum Abschluss der Behandlung je nach Ausma√ü der Artikulationsst√∂rung
 
 0-30
 
-†
+
 
 Ausgepr√§gte H√∂rst√∂rungen sind ggf. zus√§tzlich zu ber√ºcksichtigen.\\
 \\
 Nach Abschluss der Behandlung richtet sich der GdS immer nach der verbliebenen Gesundheitsst√∂rung.
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 7.7 Schluckst√∂rungen
 
-†
 
-†
+
+
 
 ohne wesentliche Behinderung der Nahrungsaufnahme je nach Beschwerden
 
 0-10
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 mit erheblicher Behinderung der Nahrungsaufnahme je nach Auswirkung (Einschr√§nkung der Kostform, verl√§ngerte Essdauer)
 
 20-40
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 mit h√§ufiger Aspiration und erheblicher Beeintr√§chtigung des Kr√§fte- und Ern√§hrungszustandes
 
 50-70
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 7.8 Verlust des Kehlkopfes
 
-†
 
-†
+
+
 
 bei guter Ersatzstimme und ohne Begleiterscheinungen, unter Mitber√ºcksichtigung der Beeintr√§chtigung der k√∂rperlichen Leistungsf√§higkeit (fehlende Bauchpresse)
 
 70
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 in allen anderen F√§llen
 
 80
 
-†
 
-†
 
-†
+
+
+
 
 Anhaltende schwere Bronchitiden und Beeintr√§chtigungen durch Nervenl√§hmungen im Hals- und Schulterbereich sind zus√§tzlich zu ber√ºcksichtigen.
 
-†
 
-†
+
+
 
 Bei Verlust des Kehlkopfes wegen eines malignen Tumors ist in den ersten f√ºnf Jahren eine Heilungsbew√§hrung abzuwarten;\\
 GdB bzw. GdS w√§hrend dieser Zeit
 
 100
 
-†
 
-†
+
+
 
 Teilverlust des Kehlkopfes
 
-†
 
-†
+
+
 
 je nach Sprechf√§higkeit und Beeintr√§chtigung der k√∂rperlichen Leistungsf√§higkeit
 
 20-50
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Bei Teilverlust des Kehlkopfes wegen eines malignen Tumors ist in den ersten f√ºnf Jahren eine Heilungsbew√§hrung abzuwarten;\\
 GdS w√§hrend dieser Zeit
 
-†
 
-†
+
+
 
 bei Geschwulstentfernung im Fr√ºhstadium (T1 N0 M0)
 
 50-60
 
-†
+
 
 sonst
 
 80
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 7.9 Tracheostoma
 
-†
 
-†
+
+
 
 reizlos oder mit geringen Reizerscheinungen (Tracheitis, Bronchitis), gute Sprechstimme
 
 40
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 mit erheblichen Reizerscheinungen und/oder erheblicher Beeintr√§chtigung der Sprechstimme bis zum Verlust der Sprechf√§higkeit (z. B. bei schweren Kehlkopfver√§nderungen)
 
 50-80
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Einschr√§nkungen der Atemfunktion sind ggf. zus√§tzlich zu ber√ºcksichtigen.
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 Trachealstenose ohne Tracheostoma
 
-†
 
-†
+
+
 
 Der GdS ist je nach Atembehinderung analog der dauernden Einschr√§nkung der Lungenfunktion zu beurteilen.
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 7.10 Funktionelle und organische Stimmst√∂rungen (z. B. Stimmbandl√§hmung)
 
-†
 
-†
+
+
 
 mit geringer belastungsabh√§ngiger Heiserkeit
 
 0-10
 
-†
+
 
 mit dauernder Heiserkeit
 
 20-30
 
-†
+
 
 nur Fl√ºsterstimme
 
 40
 
-†
+
 
 mit v√∂lliger Stimmlosigkeit
 
 50
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Atembehinderungen sind ggf. zus√§tzlich zu bewerten analog der dauernden Einschr√§nkung der Lungenfunktion.
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 7.11 Artikulationsst√∂rungen
 
-†
+
 
 durch L√§hmungen oder Ver√§nderungen in Mundh√∂hle oder Rachen
 
-†
 
-†
+
+
 
 mit verst√§ndlicher Sprache
 
 10
 
-†
+
 
 mit schwer verst√§ndlicher Sprache
 
 20-40
 
-†
+
 
 mit unverst√§ndlicher Sprache
 
 50
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Stottern
 
-†
 
-†
+
+
 
 leicht
 
 0-10
 
-†
+
 
 mittelgradig, situationsunabh√§ngig
 
 20
 
-†
+
 
 schwer, auff√§llige Mitbewegungen
 
 30-40
 
-†
+
 
 mit unverst√§ndlicher Sprache
 
 50
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Au√üergew√∂hnliche psychoreaktive St√∂rungen einschlie√ülich somatoformer St√∂rungen sind ggf. zus√§tzlich zu ber√ºcksichtigen
 
@@ -2253,465 +2253,465 @@ Brustkorb, tiefere Atemwege und Lungen\\
 
 Bei chronischen Krankheiten der Bronchien und des Lungenparenchyms sowie bei Brustfellschwarten richtet sich der GdS vor allem nach der klinischen Symptomatik mit ihren Auswirkungen auf den Allgemeinzustand. Au√üerdem sind die Einschr√§nkung der Lungenfunktion, die Folgeerscheinungen an anderen Organsystemen (z. B. Cor pulmonale) und bei allergisch bedingten Krankheiten auch die Vermeidbarkeit der Allergene zu ber√ºcksichtigen.
 
-†
 
-†
 
-†
+
+
+
 
 8.1 Br√ºche und Defekte der Knochen des Brustkorbs (Rippen, Brustbein, Schl√ºsselbein)
 
-†
+
 
 ohne Funktionsst√∂rungen verheilt, je nach Ausdehnung des Defektes
 
 0-10
 
-†
 
-†
+
+
 
 Rippendefekte mit Brustfellschwarten
 
-†
 
-†
+
+
 
 ohne wesentliche Funktionsst√∂rung
 
 0-10
 
-†
+
 
 bei sehr ausgedehnten Defekten einschlie√ülich entstellender Wirkung
 
 20
 
-†
 
-†
+
+
 
 Brustfellverwachsungen und -schwarten
 
-†
 
-†
+
+
 
 ohne wesentliche Funktionsst√∂rung
 
 0-10
 
-†
 
-†
+
+
 
 Fremdk√∂rper im Lungengewebe oder in der Brustkorbwand
 
-†
 
-†
+
+
 
 reaktionslos eingeheilt
 
 0
 
-†
 
-†
 
-†
+
+
+
 
 8.2 Chronische Bronchitis, Bronchiektasen
 
-†
 
-†
+
+
 
 als eigenst√§ndige Krankheiten - ohne dauernde Einschr√§nkung der Lungenfunktion, leichte Form
 
-†
 
-†
+
+
 
 (symptomfreie Intervalle √ºber mehrere Monate, wenig Husten, geringer Auswurf)
 
 0-10
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 schwere Form
 
-†
 
-†
+
+
 
 (fast kontinuierlich ausgiebiger Husten und Auswurf, h√§ufige akute Sch√ºbe)
 
 20-30
 
-†
 
-†
+
+
 
 Pneumokoniosen (z. B. Silikose, Asbestose)
 
-†
 
-†
+
+
 
 ohne wesentliche Einschr√§nkung der Lungenfunktion
 
 0-10
 
-†
+
 
 8.3 Krankheiten der Atmungsorgane mit dauernder Einschr√§nkung der Lungenfunktion
 
-†
 
-†
 
-†
+
+
+
 
 geringen Grades
 
-†
 
-†
+
+
 
 das gew√∂hnliche Ma√ü √ºbersteigende Atemnot bei mittelschwerer Belastung (z. B. forsches Gehen [5-6 km/h], mittelschwere k√∂rperliche Arbeit); statische und dynamische Messwerte der Lungenfunktionspr√ºfung bis zu 1/3 niedriger als die Sollwerte,\\
 Blutgaswerte im Normbereich
 
 20-40
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 mittleren Grades
 
-†
 
-†
+
+
 
 das gew√∂hnliche Ma√ü √ºbersteigende Atemnot bereits bei allt√§glicher leichter Belastung (z. B. Spazierengehen [3-4 km/h], Treppensteigen bis zu einem Stockwerk, leichte k√∂rperliche Arbeit); statische und dynamische Messwerte der Lungenfunktionspr√ºfung bis zu 2/3 niedriger als die Sollwerte,\\
 respiratorische Partialinsuffizienz
 
 50-70
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 schweren Grades
 
-†
 
-†
+
+
 
 Atemnot bereits bei leichtester Belastung oder in Ruhe; statische und dynamische Messwerte der Lungenfunktionspr√ºfung um mehr als 2/3 niedriger als die Sollwerte,
 
-†
 
-†
+
+
 
 respiratorische Globalinsuffizienz
 
 80-100
 
-†
 
-†
 
-†
+
+
+
 
 8.4 Nach einer Lungentransplantation ist eine Heilungsbew√§hrung abzuwarten (im Allgemeinen zwei Jahre); w√§hrend dieser Zeit ist ein GdS von 100 anzusetzen. Danach ist der GdS selbst bei g√ºnstigem Heilungsverlauf unter Mitber√ºcksichtigung der erforderlichen Immunsuppression nicht niedriger als 70 zu bewerten.
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 Nach Entfernung eines malignen Lungentumors oder eines Bronchialtumors ist in den ersten f√ºnf Jahren eine Heilungsbew√§hrung abzuwarten.
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
 
 GdS w√§hrend dieser Zeit
 
 wenigstens 80
 
-†
+
 
 bei Einschr√§nkung der Lungenfunktion
 
-†
 
-†
+
+
 
 mittleren bis schweren Grades
 
 90-100
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 8.5 Bronchialasthma ohne dauernde Einschr√§nkung der Lungenfunktion,
 
-†
 
-†
+
+
 
 Hyperreagibilit√§t mit seltenen (saisonalen) und/oder
 
-†
 
-†
+
+
 
 leichten Anf√§llen
 
 0-20
 
-†
+
 
 Hyperreagibilit√§t mit h√§ufigen (mehrmals pro Monat)
 
-†
 
-†
+
+
 
 und/oder schweren Anf√§llen
 
 30-40
 
-†
+
 
 Hyperreagibilit√§t mit Serien schwerer Anf√§lle
 
 50
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Eine dauernde Einschr√§nkung der Lungenfunktion ist zus√§tzlich zu ber√ºcksichtigen.
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 8.6 Bronchialasthma bei Kindern
 
-†
 
-†
+
+
 
 geringen Grades
 
-†
 
-†
+
+
 
 (Hyperreagibilit√§t mit seltenen (saisonalen) und/oder leichten Anf√§llen, keine dauernde Einschr√§nkung der Atemfunktion, nicht mehr als sechs Wochen Bronchitis im Jahr)
 
 20-40
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 mittleren Grades
 
-†
 
-†
+
+
 
 (Hyperreagibilit√§t mit h√§ufigeren und/oder schweren Anf√§llen, leichte bis mittelgradige st√§ndige Einschr√§nkung der Atemfunktion, etwa 2 bis 3 Monate kontinuierliche Bronchitis im Jahr)
 
 50-70
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 schweren Grades
 
-†
 
-†
+
+
 
 (Hyperreagibilit√§t mit Serien schwerer Anf√§lle, schwere Beeintr√§chtigung der Atemfunktion, mehr als 3 Monate kontinuierliche Bronchitis im Jahr)
 
 80-100
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 8.7 Schlaf-Apnoe-Syndrom (Nachweis durch Untersuchung im Schlaflabor)
 
-†
 
-†
+
+
 
 ohne Notwendigkeit einer kontinuierlichen nasalen √úberdruckbeatmung
 
 0-10
 
-†
+
 
 mit Notwendigkeit einer kontinuierlichen nasalen √úberdruckbeatmung
 
 20
 
-†
+
 
 bei nicht durchf√ºhrbarer nasaler √úberdruckbeatmung
 
 50
 
-†
 
-†
+
+
 
 Folgeerscheinungen oder Komplikationen (z. B. Herzrhythmusst√∂rungen, Hypertonie, Cor pulmonale) sind zus√§tzlich zu ber√ºcksichtigen.
 
-†
 
-†
+
+
 
 8.8 Tuberkulose
 
-†
+
 
 Tuberkul√∂se Pleuritis
 
-†
 
-†
+
+
 
 Der GdS richtet sich nach den Folgeerscheinungen.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Lungentuberkulose
 
-†
 
-†
+
+
 
 ansteckungsf√§hig (mehr als 6 Monate andauernd)
 
 100
 
-†
+
 
 nicht ansteckungsf√§hig
 
-†
 
-†
 
-†
+
+
+
 
 ohne Einschr√§nkung der Lungenfunktion
 
 0
 
-†
 
-†
+
+
 
 sonst je nach Einschr√§nkung der Lungenfunktion.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 8.9 Sarkoidose
 
-†
 
-†
 
-†
+
+
+
 
 Der GdS richtet sich nach der Aktivit√§t mit ihren Auswirkungen auf den Allgemeinzustand und nach den Auswirkungen an den verschiedenen Organen.
 
-†
 
-†
+
+
 
 Bei chronischem Verlauf mit klinischen Aktivit√§tszeichen und Auswirkungen auf den Allgemeinzustand ist ohne Funktionseinschr√§nkung von betroffenen Organen ein GdS von 30 anzunehmen.
 
@@ -2722,199 +2722,199 @@ Herz und Kreislauf\\
 
 F√ºr die Bemessung des GdS ist weniger die Art einer Herz- oder Kreislaufkrankheit ma√ügeblich als die Leistungseinbu√üe. Bei der Beurteilung des GdS ist zun√§chst von dem klinischen Bild und von den Funktionseinschr√§nkungen im Alltag auszugehen. Ergometerdaten und andere Parameter stellen Richtwerte dar, die das klinische Bild erg√§nzen. Elektrokardiographische Abweichungen allein gestatten keinen R√ºckschluss auf die Leistungseinbu√üe.
 
-†
 
-†
 
-†
+
+
+
 
 9.1 Krankheiten des Herzens
 
-†
 
-†
 
-†
+
+
+
 
 9.1.1 Einschr√§nkung der Herzleistung:
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 1. keine wesentliche Leistungsbeeintr√§chtigung (keine Insuffizienzerscheinungen wie Atemnot, angin√∂se Schmerzen) selbst bei gewohnter st√§rkerer Belastung (z. B. sehr schnelles Gehen [7-8 km/h], schwere k√∂rperliche Arbeit), keine Einschr√§nkung der Solleistung bei Ergometerbelastung; bei Kindern und S√§uglingen (je nach Alter) beim Strampeln, Krabbeln, Laufen, Treppensteigen keine wesentliche Leistungsbeeintr√§chtigung, keine Tachypnoe, kein Schwitzen
 
 0-10
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 2. Leistungsbeeintr√§chtigung bei mittelschwerer Belastung (z. B. forsches Gehen [5-6 km/h], mittelschwere k√∂rperliche Arbeit), Beschwerden und Auftreten pathologischer Messdaten bei Ergometerbelastung mit 75 Watt (wenigstens 2 Minuten); bei Kindern und S√§uglingen Trinkschwierigkeiten, leichtes Schwitzen, leichte Tachy- und Dyspnoe, leichte Zyanose, keine Stauungsorgane, Beschwerden und Auftreten pathologischer Messdaten bei Ergometerbelastung mit 1 Watt/kg K√∂rpergewicht
 
 20-40
 
-†
 
-†
 
-†
+
+
+
 
 3. Leistungsbeeintr√§chtigung bereits bei allt√§glicher leichter Belastung (z. B. Spazierengehen [3-4 km/h], Treppensteigen bis zu einem Stockwerk, leichte k√∂rperliche Arbeit), Beschwerden und Auftreten pathologischer Messdaten bei Ergometerbelastung mit 50 Watt (wenigstens 2 Minuten); bei Kindern und S√§uglingen deutliche Trinkschwierigkeiten, deutliches Schwitzen, deutliche Tachy- und Dyspnoe, deutliche Zyanose, rezidivierende pulmonale Infekte, kardial bedingte Gedeihst√∂rungen, Beschwerden und Auftreten pathologischer Messdaten bei Ergometerbelastung mit 0,75 Watt/kg K√∂rpergewicht
 
 50-70
 
-†
 
-†
 
-†
+
+
+
 
 mit gelegentlich auftretenden, vor√ºbergehend schweren Dekompensationserscheinungen
 
 80
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 4. Leistungsbeeintr√§chtigung bereits in Ruhe (Ruheinsuffizienz, z. B. auch bei fixierter pulmonaler Hypertonie); bei Kindern und S√§uglingen auch hypox√§mische Anf√§lle, deutliche Stauungsorgane, kardiale Dystrophie
 
 90-100
 
-†
 
-†
+
+
 
 (Die f√ºr Erwachsene angegebenen Wattzahlen sind auf mittleres Lebensalter und Belastung im Sitzen bezogen.)
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Liegen weitere objektive Parameter zur Leistungsbeurteilung vor, sind diese entsprechend zu ber√ºcksichtigen. Notwendige k√∂rperliche Leistungsbeschr√§nkungen (z. B. bei h√∂hergradiger Aortenklappenstenose, hypertrophischer obstruktiver Kardiomyopathie) sind wie Leistungsbeeintr√§chtigungen zu bewerten.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 9.1.2 Nach operativen und anderen therapeutischen Eingriffen am Herzen ist der GdS von der bleibenden Leistungsbeeintr√§chtigung abh√§ngig. Bei Herzklappenprothesen ist der GdS nicht niedriger als 30 zu bewerten; dieser Wert schlie√üt eine Dauerbehandlung mit Antikoagulantien ein.
 
-†
 
-†
+
+
 
 9.1.3 Nach einem Herzinfarkt ist der GdS von der bleibenden Leistungsbeeintr√§chtigung abh√§ngig.
 
-†
 
-†
 
-†
+
+
+
 
 9.1.4 Nach Herztransplantation ist eine Heilungsbew√§hrung abzuwarten (im Allgemeinen zwei Jahre); w√§hrend dieser Zeit ist ein GdS von 100 anzusetzen. Danach ist der GdS selbst bei g√ºnstigem Heilungsverlauf unter Ber√ºcksichtigung der erforderlichen Immunsuppression nicht niedriger als 70 zu bewerten.
 
-†
+
 
 9.1.5 Fremdk√∂rper im Herzmuskel oder Herzbeutel
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 reaktionslos eingeheilt
 
 0
 
-†
+
 
 mit Beeintr√§chtigung der Herzleistung
 
 siehe oben
 
-†
 
-†
 
-†
+
+
+
 
 9.1.6 Rhythmusst√∂rungen
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 Die Beurteilung des GdS richtet sich vor allem nach der Leistungsbeeintr√§chtigung des Herzens.
 
-†
 
-†
 
-†
+
+
+
 
 Anfallsweise auftretende h√§modynamisch relevante Rhythmusst√∂rungen (z. B. paroxysmale Tachykardien) je nach H√§ufigkeit, Dauer und subjektiver Beeintr√§chtigung
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 bei fehlender andauernder Leistungsbeeintr√§chtigung des Herzens
 
 10-30
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 bei bestehender andauernder Leistungsbeeintr√§chtigung des Herzens sind sie entsprechend zus√§tzlich zu bewerten.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 nach Implantation eines Herzschrittmachers
 
@@ -2924,473 +2924,473 @@ nach Implantation eines Kardioverter-Defibrillators
 
 wenigstens 50
 
-†
 
-†
 
-†
+
+
+
 
 bei ventrikul√§ren tachykarden Rhythmusst√∂rungen im Kindesalter ohne Implantation eines Kardioverter-Defibrillators
 
 wenigstens 60
 
-†
 
-†
 
-†
+
+
+
 
 9.2 Gef√§√ükrankheiten
 
-†
 
-†
 
-†
+
+
+
 
 9.2.1 Arterielle Verschlusskrankheiten, Arterienverschl√ºsse an den Beinen (auch nach rekanalisierenden Ma√ünahmen)
 
-†
 
-†
+
+
 
 mit ausreichender Restdurchblutung, Pulsausfall ohne Beschwerden oder mit geringen Beschwerden (Missempfindungen in Wade und Fu√ü bei raschem Gehen) ein- oder beidseitig
 
 0-10
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 mit eingeschr√§nkter Restdurchblutung (Claudicatio intermittens) Stadium II
 
-†
 
-†
 
-†
+
+
+
 
 Schmerzen ein- oder beidseitig nach Gehen einer Wegstrecke in der Ebene von mehr als 500 m
 
 20
 
-†
 
-†
+
+
 
 Schmerzen ein- oder beidseitig nach Gehen einer Wegstrecke in der Ebene von 100 bis 500 m
 
 30-40
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Schmerzen ein- oder beidseitig nach Gehen einer Wegstrecke in der Ebene von 50 bis 100 m
 
 50-60
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Schmerzen ein- oder beidseitig nach Gehen einer Wegstrecke in der Ebene von weniger als 50 m ohne Ruheschmerz
 
 70-80
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Schmerzen nach Gehen einer Wegstrecke unter 50 m mit Ruheschmerz (Stadium III) einschlie√ülich trophischer St√∂rungen (Stadium IV )
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
 
 einseitig
 
 80
 
-†
 
-†
+
+
 
 beidseitig
 
 90-100
 
-†
 
-†
 
-†
+
+
+
 
 Apparative Messmethoden (z. B. Dopplerdruck) k√∂nnen nur eine allgemeine Orientierung √ºber den Schweregrad abgeben.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Bei Arterienverschl√ºssen an den Armen wird der GdS ebenfalls durch das Ausma√ü der Beschwerden und Funktionseinschr√§nkungen - im Vergleich mit anderen Sch√§den an den Armen - bestimmt.
 
-†
 
-†
 
-†
+
+
+
 
 9.2.2 Nach gr√∂√üeren gef√§√üchirurgischen Eingriffen (z. B. Prothesenimplantation) mit vollst√§ndiger Kompensation einschlie√ülich
 
-†
+
 
 Dauerbehandlung mit Antikoagulantien
 
 20
 
-†
 
-†
 
-†
+
+
+
 
 Arterioven√∂se Fisteln
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
 
 Der GdS richtet sich nach den h√§modynamischen Auswirkungen am Herzen und/oder in der Peripherie.
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 Aneurysmen (je nach Sitz und Gr√∂√üe)
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 ohne lokale Funktionsst√∂rung und ohne Einschr√§nkung der Belastbarkeit
 
 0-10
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 ohne oder mit nur geringer lokaler Funktionsst√∂rung mit Einschr√§nkung der Belastbarkeit
 
 20-40
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 gro√üe Aneurysmen
 
 wenigstens 50
 
-†
 
-†
+
+
 
 Hierzu geh√∂ren immer die dissezierenden Aneurysmen der Aorta und die gro√üen Aneurysmen der Aorta abdominalis und der gro√üen Beckenarterien.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 9.2.3 Unkomplizierte Krampfadern
 
 0
 
-†
 
-†
 
-†
+
+
+
 
 Chronisch-ven√∂se Insuffizienz (z. B. bei Krampfadern), postthrombotisches Syndrom ein- oder beidseitig
 
-†
 
-†
+
+
 
 mit geringem belastungsabh√§ngigem √ñdem, nicht ulzer√∂sen Hautver√§nderungen, ohne wesentliche Stauungsbeschwerden
 
 0-10
 
-†
 
-†
+
+
 
 mit erheblicher √ñdembildung, h√§ufig (mehrmals im Jahr) rezidivierenden Entz√ºndungen
 
 20-30
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 mit chronischen rezidivierenden Geschw√ºren, je nach Ausdehnung und H√§ufigkeit (einschlie√ülich arthrogenes Stauungssyndrom)
 
 30-50
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Lymph√∂dem
 
-†
 
-†
+
+
 
 an einer Gliedma√üe
 
-†
 
-†
+
+
 
 ohne wesentliche Funktionsbehinderung, Erfordernis einer Kompressionsbandage
 
 0-10
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 mit st√§rkerer Umfangsvermehrung (mehr als 3 cm) je nach Funktionseinschr√§nkung
 
 20-40
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 mit erheblicher Beeintr√§chtigung der Gebrauchsf√§higkeit der betroffenen Gliedma√üe, je nach Ausma√ü
 
 50-70
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 bei Gebrauchsunf√§higkeit der ganzen Gliedma√üe
 
 80
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Entstellungen bei sehr ausgepr√§gten Formen sind ggf. zus√§tzlich zu ber√ºcksichtigen.
 
-†
 
-†
+
+
 
 9.3 Hypertonie (Bluthochdruck)
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
 
 leichte Form
 
-†
 
-†
+
+
 
 keine oder geringe Leistungsbeeintr√§chtigung (h√∂chstens leichte Augenhintergrundver√§nderungen)
 
 0-10
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 mittelschwere Form
 
-†
 
-†
+
+
 
 mit Organbeteiligung leichten bis mittleren Grades (Augenhintergrundver√§nderungen - Fundus hypertonicus I-II - und/oder Linkshypertrophie des Herzens und/oder Proteinurie), diastolischer Blutdruck mehrfach √ºber 100 mm Hg trotz Behandlung, je nach Leistungsbeeintr√§chtigung
 
 20-40
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 schwere Form
 
-†
 
-†
+
+
 
 mit Beteiligung mehrerer Organe (schwere Augenhintergrundver√§nderungen und Beeintr√§chtigung der Herzfunktion, der Nierenfunktion und/oder der Hirndurchblutung) je nach Art und Ausma√ü der Leistungsbeeintr√§chtigung
 
 50-100
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 maligne Form
 
-†
 
-†
+
+
 
 diastolischer Blutdruck konstant √ºber 130 mm Hg; Fundus hypertonicus III-IV (Papillen√∂dem, Venenstauung, Exsudate, Blutungen, schwerste arterielle Gef√§√üver√§nderungen); unter Einschluss der Organbeteiligung (Herz, Nieren, Gehirn)
 
 100
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Funktionelle kardiovaskul√§re Syndrome, (z. B. orthostatische Fehlregulation)
 
-†
 
-†
+
+
 
 mit leichten Beschwerden
 
 0
 
-†
+
 
 mit st√§rkeren Beschwerden und Kollapsneigung
 
@@ -3403,221 +3403,221 @@ Verdauungsorgane\\
 
 10.1 Speiser√∂hrenkrankheiten
 
-†
 
-†
 
-†
+
+
+
 
 Traktionsdivertikel je nach Gr√∂√üe und Beschwerden
 
 0-10
 
-†
 
-†
 
-†
+
+
+
 
 Pulsionsdivertikel
 
-†
 
-†
+
+
 
 ohne wesentliche Behinderung der Nahrungsaufnahme je nach Gr√∂√üe und Beschwerden
 
 0-10
 
-†
+
 
 mit erheblicher Behinderung der Nahrungsaufnahme je nach Auswirkung auf den Allgemeinzustand
 
 20-40
 
-†
 
-†
 
-†
+
+
+
 
 Funktionelle Stenosen der Speiser√∂hre (√ñsophagospasmus, Achalasie)
 
-†
 
-†
+
+
 
 ohne wesentliche Behinderung der Nahrungsaufnahme
 
 0-10
 
-†
+
 
 mit deutlicher Behinderung der Nahrungsaufnahme
 
 20-40
 
-†
 
-†
 
-†
+
+
+
 
 mit erheblicher Beeintr√§chtigung des Kr√§fte- und Ern√§hrungszustandes, h√§ufige Aspiration
 
 50-70
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Auswirkungen auf Nachbarorgane (z. B. durch Aspiration) sind zus√§tzlich zu bewerten.
 
-†
 
-†
 
-†
+
+
+
 
 Organische Stenose der Speiser√∂hre (z. B. angeboren, nach Laugenver√§tzung, Narbenstenose, peptische Striktur)
 
-†
 
-†
+
+
 
 ohne wesentliche Behinderung der Nahrungsaufnahme je nach Gr√∂√üe und Beschwerden
 
 0-10
 
-†
 
-†
 
-†
+
+
+
 
 mit deutlicher Behinderung der Nahrungsaufnahme je nach Auswirkung (Einschr√§nkung der Kostform, verl√§ngerte Essdauer)
 
 20-40
 
-†
 
-†
+
+
 
 mit erheblicher Beeintr√§chtigung des Kr√§fte- und Ern√§hrungszustandes
 
 50-70
 
-†
+
 
 Refluxkrankheit der Speiser√∂hre
 
-†
 
-†
+
+
 
 mit anhaltenden Refluxbeschwerden je nach Ausma√ü
 
 10-30
 
-†
+
 
 Auswirkungen auf Nachbarorgane sind zus√§tzlich zu bewerten.
 
-†
 
-†
 
-†
+
+
+
 
 Nach Entfernung eines malignen Speiser√∂hrentumors ist in den ersten f√ºnf Jahren eine Heilungsbew√§hrung abzuwarten. GdS w√§hrend dieser Zeit
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 je nach Beeintr√§chtigung des Kr√§fte- und Ern√§hrungszustandes
 
 80-100
 
-†
 
-†
 
-†
+
+
+
 
 Speiser√∂hrenersatz
 
-†
 
-†
+
+
 
 Der GdS ist nach den Auswirkungen (z. B. Schluckst√∂rungen, Reflux, Narben) jedoch nicht unter 20 zu bewerten.
 
-†
+
 
 10.2 Magen- und Darmkrankheiten
 
-†
+
 
 Bei organischen und funktionellen Krankheiten des Magen-Darmkanals ist der GdS nach dem Grad der Beeintr√§chtigung des Allgemeinzustandes, der Schwere der Organst√∂rung und nach der Notwendigkeit besonderer Di√§tkost zu beurteilen. Bei allergisch bedingten Krankheiten ist auch die Vermeidbarkeit der Allergene von Bedeutung.
 
-†
 
-†
 
-†
+
+
+
 
 10.2.1 Magen- oder Zw√∂lffingerdarmgeschw√ºrsleiden (chronisch rezidivierende Geschw√ºre, Intervallbeschwerden)
 
-†
 
-†
+
+
 
 mit Rezidiven in Abst√§nden von zwei bis drei Jahren
 
 0-10
 
-†
 
-†
 
-†
+
+
+
 
 mit h√§ufigeren Rezidiven und Beeintr√§chtigung des Ern√§hrungs- und Kr√§ftezustandes
 
 20-30
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 mit erheblichen Komplikationen (z. B. Magenausgangsstenose) und andauernder erheblicher Minderung des Ern√§hrungs- und Kr√§ftezustandes
 
 40-50
 
-†
 
-†
 
-†
+
+
+
 
 Nach einer selektiven proximalen Vagotomie kommt ein GdS nur in Betracht, wenn postoperative Darmst√∂rungen oder noch Auswirkungen des Grundleidens vorliegen.
 
-†
 
-†
+
+
 
 Chronische Gastritis (histologisch gesicherte Ver√§nderung der Magenschleimhaut)
 
@@ -3627,451 +3627,451 @@ Reizmagen (funktionelle Dyspepsie)
 
 0-10
 
-†
 
-†
 
-†
+
+
+
 
 Teilentfernung des Magens, Gastroenterostomie
 
-†
 
-†
+
+
 
 mit guter Funktion, je nach Beschwerden
 
 0-10
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 mit anhaltenden Beschwerden (z. B. Dumping-Syndrom, rezidivierendes Ulcus jejuni pepticum)
 
 20-40
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
 
 Totalentfernung des Magens
 
-†
 
-†
+
+
 
 ohne Beeintr√§chtigung des Kr√§fte- und Ern√§hrungszustandes je nach Beschwerden
 
 20-30
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 bei Beeintr√§chtigung des Kr√§fte- und Ern√§hrungszustandes und/oder Komplikationen (z. B. Dumping-Syndrom)
 
 40-50
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Nach Entfernung eines malignen Magentumors ist eine Heilungsbew√§hrung abzuwarten.
 
-†
 
-†
 
-†
+
+
+
 
 GdS w√§hrend einer Heilungsbew√§hrung von zwei Jahren nach Entfernung eines Magenfr√ºhkarzinoms
 
 50
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 GdS w√§hrend einer Heilungsbew√§hrung von f√ºnf Jahren nach Entfernung aller anderen malignen Magentumoren je
 
-†
+
 
 nach Stadium und Auswirkung auf den Allgemeinzustand
 
 80-100
 
-†
+
 
 10.2.2 Chronische Darmst√∂rungen (irritabler Darm, Divertikulose, Divertikulitis, Darmteilresektion)
 
-†
 
-†
 
-†
+
+
+
 
 ohne wesentliche Beschwerden und Auswirkungen
 
 0-10
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 mit st√§rkeren und h√§ufig rezidivierenden oder anhaltenden Symptomen (z. B. Durchf√§lle, Spasmen)
 
 20-30
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 mit erheblicher Minderung des Kr√§fte- und Ern√§hrungszustandes
 
 40-50
 
-†
 
-†
+
+
 
 Angeborene Motilit√§tsst√∂rungen des Darmes (z. B. Hirschsprung-Krankheit, neuronale Dysplasie)
 
-†
 
-†
+
+
 
 ohne wesentliche Gedeih- und Entwicklungsst√∂rung
 
 10-20
 
-†
+
 
 mit geringer Gedeih- und Entwicklungsst√∂rung
 
 30-40
 
-†
+
 
 mit mittelgradiger Gedeih- und Entwicklungsst√∂rung
 
 50
 
-†
+
 
 mit schwerer Gedeih- und Entwicklungsst√∂rung
 
 60-70
 
-†
 
-†
+
+
 
 Kurzdarmsyndrom im Kindesalter
 
-†
 
-†
+
+
 
 mit mittelschwerer Gedeih- und Entwicklungsst√∂rung
 
 50-60
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 mit schwerer Gedeih- und Entwicklungsst√∂rung (z. B. Notwendigkeit k√ºnstlicher Ern√§hrung)
 
 70-100
 
-†
 
-†
 
-†
+
+
+
 
 Colitis ulcerosa, Crohn-Krankheit (Enteritis regionalis)
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 mit geringer Auswirkung (geringe Beschwerden, keine oder geringe Beeintr√§chtigung des Kr√§fte- und Ern√§hrungszustandes, selten Durchf√§lle)
 
 10-20
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 mit mittelschwerer Auswirkung (h√§ufig rezidivierende oder l√§nger anhaltende Beschwerden, geringe bis mittelschwere Beeintr√§chtigung des Kr√§fte- und Ern√§hrungszustandes, h√§ufiger Durchf√§lle)
 
 30-40
 
-†
 
-†
 
-†
+
+
+
 
 mit schwerer Auswirkung (anhaltende oder h√§ufig rezidivierende erhebliche Beschwerden, erhebliche Beeintr√§chtigung des Kr√§fte- und Ern√§hrungszustandes, h√§ufige, t√§gliche, auch n√§chtliche Durchf√§lle)
 
 50-60
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 mit schwerster Auswirkung (h√§ufig rezidivierende oder anhaltende schwere Beschwerden, schwere Beeintr√§chtigung des Kr√§fte- und Ern√§hrungszustandes, ausgepr√§gte An√§mie)
 
 70-80
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Fisteln, Stenosen, postoperative Folgezust√§nde (z. B. Kurzdarmsyndrom, Stoma-komplikationen), extraintestinale Manifestationen (z. B. Arthritiden), bei Kindern auch Wachstums- und Entwicklungsst√∂rungen, sind zus√§tzlich zu bewerten.
 
-†
 
-†
 
-†
+
+
+
 
 Z√∂liakie, Sprue
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 ohne wesentliche Folgeerscheinungen unter di√§tetischer Therapie
 
 20
 
-†
+
 
 bei andauerndem, ungen√ºgendem Ansprechen auf glutenfreie Kost (selten) sind - je nach Beeintr√§chtigung des Kr√§fte- und Ern√§hrungszustands - h√∂here Werte angemessen.
 
-†
 
-†
+
+
 
 Nach Entfernung maligner Darmtumoren ist eine Heilungsbew√§hrung abzuwarten.
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 GdS w√§hrend einer Heilungsbew√§hrung von zwei Jahren
 
-†
 
-†
+
+
 
 nach Entfernung eines malignen Darmtumors im Stadium (T1 bis T2) N0 M0 oder von lokalisierten Darmkarzinoiden
 
 50
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 mit k√ºnstlichem After (nicht nur vor√ºbergehend angelegt)
 
 70-80
 
-†
 
-†
 
-†
+
+
+
 
 GdS w√§hrend einer Heilungsbew√§hrung von f√ºnf Jahren
 
-†
 
-†
+
+
 
 nach Entfernung anderer maligner Darmtumoren
 
 wenigstens 80
 
-†
+
 
 mit k√ºnstlichem After (nicht nur vor√ºbergehend angelegt)
 
 100
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 10.2.3 Bauchfellverwachsungen
 
-†
 
-†
+
+
 
 ohne wesentliche Auswirkung
 
 0-10
 
-†
+
 
 mit erheblichen Passagest√∂rungen
 
 20-30
 
-†
+
 
 mit h√§ufiger rezidivierenden Ileuserscheinungen
 
 40-50
 
-†
 
-†
+
+
 
 10.2.4 H√§morrhoiden
 
-†
 
-†
+
+
 
 ohne erhebliche Beschwerden, geringe Blutungsneigung
 
 0-10
 
-†
+
 
 mit h√§ufigen rezidivierenden Entz√ºndungen, Thrombosierungen oder st√§rkeren Blutungen
 
 20
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Mastdarmvorfall
 
-†
 
-†
+
+
 
 klein, reponierbar
 
 0-10
 
-†
+
 
 sonst
 
 20-40
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Afterschlie√ümuskelschw√§che
 
-†
 
-†
+
+
 
 mit seltenem, nur unter besonderen Belastungen auftretendem, unwillk√ºrlichem Stuhlabgang
 
 10
 
-†
+
 
 sonst
 
@@ -4081,249 +4081,249 @@ Funktionsverlust des Afterschlie√ümuskels
 
 wenigstens 50
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Fistel in der Umgebung des Afters
 
-†
 
-†
+
+
 
 geringe, nicht st√§ndige Sekretion
 
 10
 
-†
+
 
 sonst
 
 20-30
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 K√ºnstlicher After
 
-†
 
-†
+
+
 
 mit guter Versorgungsm√∂glichkeit
 
 50
 
-†
+
 
 sonst (z. B. bei Bauchwandhernie, Stenose, Retraktion, Prolaps, Narben, ung√ºnstige Position)
 
 60-80
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Bei ausgedehntem Mastdarmvorfall, k√ºnstlichem After oder stark sezernierenden Kotfisteln, die zu starker Verschmutzung f√ºhren, sind ggf. au√üergew√∂hnliche seelische Begleiterscheinungen zus√§tzlich zu ber√ºcksichtigen.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 10.3 Krankheiten der Leber, Gallenwege und Bauchspeicheldr√ºse
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Der GdS f√ºr Krankheiten der Leber, der Gallenwege und der Bauchspeicheldr√ºse wird bestimmt durch die Art und Schwere der Organver√§nderungen sowie der Funktionseinbu√üen, durch das Ausma√ü der Beschwerden, die Beeintr√§chtigung des Allgemeinzustandes und die Notwendigkeit einer besonderen Kostform. Der serologische Nachweis von Antik√∂rpern als Nachweis einer durchgemachten Infektion (Seronarbe) rechtfertigt allein noch keinen GdS.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 10.3.1 Chronische Hepatitis
 
-†
 
-†
 
-†
 
-†
 
-Unter dem Begriff ‚Ächronische Hepatitis" werden alle chronischen Verlaufsformen von Hepatitiden zusammengefasst (fr√ºher: ‚Ächronische Hepatitis ohne Progression" <chronisch-persistierende Hepatitis> und ‚Ächronische Hepatitis mit Progression" <chronisch aktive Hepatitis> Dazu geh√∂ren insbesondere die Virus-, die Autoimmun-, die Arzneimittel- und die kryptogene Hepatitis.
 
-†
 
-†
 
-†
 
-†
+Unter dem Begriff chronische Hepatitis" werden alle chronischen Verlaufsformen von Hepatitiden zusammengefasst (fr√ºher: chronische Hepatitis ohne Progression" <chronisch-persistierende Hepatitis> und chronische Hepatitis mit Progression" <chronisch aktive Hepatitis> Dazu geh√∂ren insbesondere die Virus-, die Autoimmun-, die Arzneimittel- und die kryptogene Hepatitis.
+
+
+
+
+
+
+
+
 
 Die gutachtliche Beurteilung einer chronischen Hepatitis beruht auf dem klinischen Befund einschlie√ülich funktionsrelevanter Laborparameter, auf der √Ñtiologie sowie auf dem histopathologischen Nachweis des Grades der nekroinflammatorischen Aktivit√§t (Grading) und des Stadiums der Fibrose (Staging). Zus√§tzlich sind engmaschige Verlaufskontrollen und die Beachtung der Differentialdiagnose erforderlich. Dies gilt auch f√ºr geltend gemachte Verschlimmerungen im Leidensverlauf. Der GdS und die Leidensbezeichnung ergeben sich aus der nachfolgenden Tabelle, wobei bereits √ºbliche Befindlichkeitsst√∂rungen - nicht aber extrahepatische Manifestationen - ber√ºcksichtigt sind.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Chronische Hepatitis
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
 
 ohne (klinisch-) entz√ºndliche Aktivit√§t
 
 20
 
-†
+
 
 ehemals: chronische Hepatitis ohne Progression
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
 
 mit geringer (klinisch-) entz√ºndlicher Aktivit√§t
 
 30
 
-†
+
 
 ehemals: chronische Hepatitis mit Progression, gering entz√ºndliche Aktivit√§t
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
 
 mit m√§√üiger (klinisch-) entz√ºndlicher Aktivit√§t
 
 40
 
-†
+
 
 ehemals: chronische Hepatitis mit Progression, m√§√üig entz√ºndliche Aktivit√§t
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
 
 mit starker (klinisch-) entz√ºndlicher Aktivit√§t
 
-†
 
-†
+
+
 
 ehemals: chronische Hepatitis mit Progression, stark entz√ºndliche Aktivit√§t
 
-†
 
-†
+
+
 
 je nach Funktionsst√∂rung
 
 50-70
 
-†
 
-†
 
-†
 
-†
 
-†
 
-Alleinige Virus-Replikation (‚Ägesunder Virustr√§ger")
+
+
+
+
+
+Alleinige Virus-Replikation (gesunder Virustr√§ger")
 
 10
 
-†
+
 
 bei Hepatitis-C-Virus nur nach histologischem Ausschluss einer Hepatitis.
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 Bei Vorliegen eines histologischen Befundes gelten f√ºr die Virus-Hepatitiden folgende Besonderheiten:
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Die histopathologische Bewertung der chronischen Virushepatitis umfasst die nekroinflammatorische Aktivit√§t (Grading) und den Grad der Fibrose (Staging). Der GdS ergibt sich aus folgender Tabelle, wobei die genannten GdS-Werte die √ºblichen klinischen Auswirkungen mit umfassen.
 
@@ -4334,281 +4334,281 @@ Die histopathologische Bewertung der chronischen Virushepatitis umfasst die nekr
 
 Anmerkung:
 
-†
 
-†
 
-†
+
+
+
 
 Die Auswertung des histologischen Befundes soll sich an dem modifizierten histologischen Aktivit√§tsindex (HAI) ausrichten. Eine geringe nekro-inflammatorische Aktivit√§t entspricht einer Punktzahl von 1 bis 5, eine m√§√üige nekro-inflammatorische Aktivit√§t einer Punktzahl von 6 bis 10 und eine starke nekro-inflammatorische Aktivit√§t einer Punktzahl von 11 bis 18. Eine fehlende bzw. geringe Fibrose entspricht einer Punktzahl 0 bis 2, eine m√§√üige Fibrose der Punktzahl 3 und eine starke Fibrose einer Punktzahl von 4 bis 5.
 
-†
 
-†
 
-†
+
+
+
 
 F√ºr die Virushepatitis C gelten bei fehlender Histologie im Hinblick auf die chemischen Laborparameter folgende Besonderheiten:
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 ALAT-/GPT-Werte im Referenzbereich entsprechen bei nachgewiesener Hepatitis-C-Virus-Replikation einer chronischen Hepatitis ohne (klinisch-) entz√ºndliche Aktivit√§t.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 ALAT-/GPT-Werte bis zum 3-fachen der oberen Grenze des Referenzbereichs entsprechen einer geringen (klinisch-) entz√ºndlichen Aktivit√§t
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 ALAT-/GPT-Werte vom 3-fachen bis zum 6-fachen der oberen Grenze des Referenzbereichs entsprechen einer m√§√üigen (klinisch-) entz√ºndlichen Aktivit√§t
 
-†
 
-†
 
-†
+
+
+
 
 ALAT-/GPT-Werte von mehr als dem 6-fachen der oberen Grenze des Referenzbereichs entsprechen einer starken (klinisch-) entz√ºndlichen Aktivit√§t
 
 Diese Bewertungen sind nur zul√§ssig, wenn sie sich in das klinische Gesamtbild des bisherigen Verlaufs einf√ºgen.
 
-†
 
-†
 
-†
+
+
+
 
 10.3.2 Fibrose der Leber ohne Komplikationen
 
 0-10
 
-†
 
-†
+
+
 
 Leberzirrhose
 
-†
 
-†
+
+
 
 kompensiert
 
-†
 
-†
 
-†
+
+
+
 
 inaktiv
 
 30
 
-†
 
-†
+
+
 
 gering aktiv
 
 40
 
-†
 
-†
+
+
 
 st√§rker aktiv
 
 50
 
-†
+
 
 dekompensiert (Aszites, portale Stauung, hepatische Enzephalopathie)
 
 60-100
 
-†
+
 
 10.3.3 Fettleber (auch nutritiv-toxisch) ohne Mesenchymreaktion
 
 0-10
 
-†
 
-†
 
-†
+
+
+
 
 Toxischer Leberschaden
 
-†
 
-†
+
+
 
 Der GdS ist je nach Aktivit√§t und Verlauf analog zur chronischen Hepatitis oder Leberzirrhose zu beurteilen.
 
-†
+
 
 Zirkulatorische St√∂rungen der Leber (z. B. Pfortaderthrombose)
 
-†
 
-†
+
+
 
 Der GdS ist analog zur dekompensierten Leberzirrhose zu beurteilen.
 
-†
 
-†
 
-†
+
+
+
 
 Nach Leberteilresektion ist der GdS allein davon abh√§ngig, ob und wieweit Funktionsbeeintr√§chtigungen verblieben sind.
 
-†
 
-†
+
+
 
 10.3.4 Nach Entfernung eines malignen prim√§ren Lebertumors ist in den ersten f√ºnf Jahren eine Heilungsbew√§hrung abzuwarten; GdS w√§hrend dieser Zeit 100
 
-†
+
 
 Nach Lebertransplantation ist eine Heilungsbew√§hrung abzuwarten (im Allgemeinen zwei Jahre); GdS w√§hrend dieser Zeit 100. Danach selbst bei g√ºnstigem Heilungsverlauf unter Ber√ºcksichtigung der erforderlichen Immunsuppression wenigstens 60
 
-†
+
 
 10.3.5 Prim√§re bili√§re Zirrhose, prim√§re sklerosierende Cholangitis
 
-†
+
 
 GdS ist je nach Aktivit√§t und Verlauf analog zur chronischen
 
-†
 
-†
+
+
 
 Hepatitis oder Leberzirrhose zu beurteilen.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Gallenblasen- und Gallenwegskrankheiten (Steinleiden, chronisch rezidivierende Entz√ºndungen)
 
-†
 
-†
+
+
 
 mit Koliken in Abst√§nden von mehreren Monaten, Entz√ºndungen in Abst√§nden von Jahren
 
 0-10
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 mit h√§ufigeren Koliken und Entz√ºndungen sowie mit Intervallbeschwerden
 
 20-30
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 mit langanhaltenden Entz√ºndungen oder mit Komplikationen
 
 40-50
 
-†
 
-†
+
+
 
 Angeborene intra- und extrahepatische Transportst√∂rungen der Galle (z. B. intra-, extrahepatische Gallengangsatresie), metabolische Defekte (z. B. Meulengracht-Krankheit)
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 ohne Funktionsst√∂rungen, ohne Beschwerden
 
 0-10
 
-†
 
-†
 
-†
+
+
+
 
 mit Beschwerden (Koliken, Fettunvertr√§glichkeit, Juckreiz),
 
-†
 
-†
 
-†
+
+
+
 
 ohne Leberzirrhose
 
 20-40
 
-†
 
-†
+
+
 
 mit Leberzirrhose
 
 50
 
-†
 
-†
+
+
 
 mit dekompensierter Leberzirrhose
 
 60-100
 
-†
+
 
 Folgezust√§nde sind zus√§tzlich zu bewerten.
 
-†
 
-†
 
-†
+
+
+
 
 Verlust der Gallenblase ohne wesentliche St√∂rungen
 
@@ -4616,83 +4616,83 @@ Verlust der Gallenblase ohne wesentliche St√∂rungen
 
 bei fortbestehenden Beschwerden wie bei Gallenwegskrankheiten
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Nach Entfernung eines malignen Gallenblasen-, Gallenwegs- oder Papillentumors ist in den ersten f√ºnf Jahren eine Heilungsbew√§hrung abzuwarten; GdS w√§hrend dieser Zeit
 
-†
 
-†
+
+
 
 bei Gallenblasen- und Gallenwegstumor
 
 100
 
-†
+
 
 bei Papillentumor
 
 80
 
-†
 
-†
+
+
 
 10.3.6 Chronische Krankheit der Bauchspeicheldr√ºse (exkretorische Funktion) je nach Auswirkung auf den Allgemeinzustand, H√§ufigkeit und Ausma√ü der Schmerzen
 
-†
 
-†
+
+
 
 ohne wesentlichen Beschwerden, keine Beeintr√§chtigung des Kr√§fte- und Ern√§hrungszustandes
 
 0-10
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 geringe bis erhebliche Beschwerden, geringe bis m√§√üige Beeintr√§chtigung des Kr√§fte- und Ern√§hrungszustandes
 
 20-40
 
-†
 
-†
+
+
 
 starke Beschwerden, Fettst√ºhle, deutliche bis ausgepr√§gte Herabsetzung des Kr√§fte- und Ern√§hrungszustandes
 
 50-80
 
-†
 
-†
 
-†
+
+
+
 
 Nach teilweiser oder vollst√§ndiger Entfernung der Bauchspeicheldr√ºse sind ggf. weitere Funktionsbeeintr√§chtigungen (z. B. bei Diabetes mellitus, Osteopathie, oder infolge chronischer Entz√ºndungen der Gallenwege, Magenteilentfernung und Milzverlust) zus√§tzlich zu ber√ºcksichtigen.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Nach Entfernung eines malignen Bauchspeicheldr√ºsentumors ist in den ersten f√ºnf Jahren eine Heilungsbew√§hrung abzuwarten; GdS w√§hrend dieser Zeit 100.
 
-†
+
 
 11.
 
@@ -4703,25 +4703,25 @@ Br√ºche (Hernien)\\
 
 Leisten- oder Schenkelbruch je nach Gr√∂√üe und Reponierbarkeit
 
-†
 
-†
+
+
 
 ein- oder beidseitig
 
 0-10
 
-†
+
 
 bei erheblicher Einschr√§nkung der Belastungsf√§higkeit
 
 20
 
-†
 
-†
 
-†
+
+
+
 
 11.2
 
@@ -4729,131 +4729,131 @@ Nabelbruch oder Bruch in der wei√üen Linie
 
 0-10
 
-†
 
-†
 
-†
+
+
+
 
 Bauchnarbenbruch, angeborene Bauchwandbr√ºche und -defekte
 
-†
 
-†
+
+
 
 ohne wesentliche Beeintr√§chtigung, je nach Gr√∂√üe
 
 0-10
 
-†
 
-†
 
-†
+
+
+
 
 mit ausgedehnter Bauchwandschw√§che und fehlender oder stark eingeschr√§nkter Bauchpresse
 
 20
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 mit Beeintr√§chtigung der Bauchorgane bei Passagest√∂rungen ohne erhebliche Komplikationen
 
 20-30
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 bei h√§ufigen rezidivierenden Ileuserscheinungen
 
 40-50
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Bei schweren angeborenen Bauchwanddefekten mit entspechender Beeintr√§chtigung der Bauch- und Brustorgane kommt auch ein h√∂herer GdS in Betracht.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 11.3
 
 Zwerchfellbr√ºche (einschl. Zwerchfellrelaxation)
 
-†
 
-†
+
+
 
 Speiser√∂hrengleithernie
 
 0-10
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 andere kleine Zwerchfellbr√ºche ohne wesentliche Funktionsst√∂rung
 
 0-10
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 gr√∂√üere Zwerchfellbr√ºche je nach Funktionsst√∂rung
 
 20-30
 
-†
+
 
 Komplikationen sind zus√§tzlich zu bewerten.
 
-†
 
-†
 
-†
+
+
+
 
 Angeborene Zwerchfelldefekte mit Verlagerung von inneren Organen in den Brustkorb und Minderentwicklung von Lungengewebe
 
-†
 
-†
+
+
 
 mit geringer Einschr√§nkung der Lungenfunktion
 
 40
 
-†
+
 
 sonst je nach Funktionsbeeintr√§chtigung der betroffenen Organe
 
@@ -4866,33 +4866,33 @@ Harnorgane\\
 
 Die Beurteilung des GdS bei Sch√§den der Harnorgane richtet sich nach dem Ausma√ü der St√∂rungen der inkretorischen und exkretorischen Nierenfunktion und/oder des Harntransportes, das durch spezielle Untersuchungen zu erfassen ist.
 
-†
+
 
 Daneben sind die Beteiligung anderer Organe (z. B. Herz/Kreislauf, Zentralnervensystem, Skelettsystem), die Aktivit√§t eines Entz√ºndungsprozesses, die Auswirkungen auf den Allgemeinzustand und die notwendige Beschr√§nkung in der Lebensf√ºhrung zu ber√ºcksichtigen.
 
-†
 
-†
 
-†
 
-†
 
-Unter dem im Folgenden verwendeten Begriff ‚ÄFunktionseinschr√§nkung der Nieren" ist die Retention harnpflichtiger Substanzen zu verstehen.
 
-†
 
-†
 
-†
+
+Unter dem im Folgenden verwendeten Begriff Funktionseinschr√§nkung der Nieren" ist die Retention harnpflichtiger Substanzen zu verstehen.
+
+
+
+
+
+
 
 12.1 Nierensch√§den
 
-†
+
 
 12.1.1 Verlust, Ausfall oder Fehlen einer Niere bei Gesundheit der
 
-†
+
 
 anderen Niere
 
@@ -4902,669 +4902,669 @@ Verlust, Ausfall oder Fehlen einer Niere bei Schaden der anderen Niere, ohne Ein
 
 30
 
-†
 
-†
 
-†
+
+
+
 
 Nierenfehlbildung (z. B. Erweiterung des Nierenhohlsystems bei Ureterabgangsstenose, Nierenhypoplasie, Zystennieren, Nierenzysten, Beckenniere), Nephroptose
 
-†
 
-†
+
+
 
 ohne wesentliche Beschwerden und ohne Funktionseinschr√§nkung
 
 0-10
 
-†
 
-†
 
-†
+
+
+
 
 mit wesentlichen Beschwerden und ohne Funktionseinschr√§nkung
 
 20-30
 
-†
 
-†
 
-†
+
+
+
 
 Nierensteinleiden ohne Funktionseinschr√§nkung der Niere
 
-†
 
-†
+
+
 
 mit Koliken in Abst√§nden von mehreren Monaten
 
 0-10
 
-†
 
-†
 
-†
+
+
+
 
 mit h√§ufigeren Koliken, Intervallbeschwerden und wiederholten Harnwegsinfekten
 
 20-30
 
-†
 
-†
 
-†
+
+
+
 
 Nierensch√§den ohne Einschr√§nkung der Nierenfunktion (z. B. Glomerulopathien, tubulointerstitielle Nephropathien, vaskul√§re Nephropathien), ohne Beschwerden, mit krankhaftem Harnbefund (Eiwei√ü und/oder Erythrozyten- bzw. Leukozytenausscheidung)
 
 0-10
 
-†
 
-†
+
+
 
 12.1.2 Nierensch√§den ohne Einschr√§nkung der Nierenfunktion, mit Beschwerden rezidivierende Makroh√§maturie, je nach H√§ufigkeit
 
 10-30
 
-†
 
-†
 
-†
+
+
+
 
 Nephrotisches Syndrom
 
-†
 
-†
+
+
 
 kompensiert (keine √ñdeme)
 
 20-30
 
-†
+
 
 dekompensiert (mit √ñdemen)
 
 40-50
 
-†
+
 
 bei Systemerkrankungen mit Notwendigkeit einer immunsuppressiven Behandlung
 
 50
 
-†
 
-†
+
+
 
 12.1.3 Nierensch√§den mit Einschr√§nkung der Nierenfunktion
 
-†
+
 
 Eine geringf√ºgige Einschr√§nkung der Kreatininclearance auf 50-80 ml/min bei im Normbereich liegenden Serumkreatininwerten bedingt keinen messbaren GdS.
 
-†
 
-†
 
-†
+
+
+
 
 Nierenfunktionseinschr√§nkung
 
-†
 
-†
+
+
 
 leichten Grades
 
-†
 
-†
+
+
 
 (Serumkreatininwerte unter 2 mg/dl [Kreatininclearance ca. 35-50 ml/min], Allgemeinbefinden nicht oder nicht wesentlich reduziert, keine Einschr√§nkung der Leistungsf√§higkeit)
 
 20-30
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 (Serumkreatininwerte andauernd zwischen 2 und 4 mg/dl erh√∂ht, Allgemeinbefinden wenig reduziert, leichte Einschr√§nkung der Leistungsf√§higkeit)
 
 40
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 mittleren Grades
 
-†
 
-†
+
+
 
 (Serumkreatininwerte andauernd zwischen 4 und 8 mg/dl erh√∂ht, Allgemeinbefinden st√§rker beeintr√§chtigt, m√§√üige Einschr√§nkung der Leistungsf√§higkeit)
 
 50-70
 
-†
 
-†
+
+
 
 schweren Grades
 
-†
 
-†
+
+
 
 (Serumkreatininwerte dauernd √ºber 8 mg/dl, Allgemeinbefinden stark gest√∂rt, starke Einschr√§nkung der Leistungsf√§higkeit, bei Kindern keine normalen Schulleistungen mehr)
 
 80-100
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Verlust, Ausfall oder Fehlen einer Niere mit Funktionseinschr√§nkung der anderen Niere
 
-†
+
 
 leichten Grades
 
 40-50
 
-†
+
 
 mittleren Grades
 
 60-80
 
-†
+
 
 schweren Grades
 
 90-100
 
-†
+
 
 Notwendigkeit der Dauerbehandlung mit Blutreinigungsverfahren (z. B. H√§modialyse, Peritonealdialyse)
 
 100
 
-†
+
 
 Bei allen Nierensch√§den mit Funktionseinschr√§nkungen sind Sekund√§rleiden (z. B. Hypertonie, ausgepr√§gte An√§mie [Hb-Wert unter 8 g/dl], Polyneuropathie, Osteopathie) zus√§tzlich zu bewerten.
 
-†
 
-†
 
-†
+
+
+
 
 12.1.4 Nach Nierentransplantation ist eine Heilungsbew√§hrung abzuwarten (im Allgemeinen zwei Jahre); w√§hrend dieser Zeit ist ein GdS von 100 anzusetzen. Danach ist der GdS entscheidend abh√§ngig von der verbliebenen Funktionsst√∂rung; unter Mitber√ºcksichtigung der erforderlichen Immunsuppression ist jedoch der GdS nicht niedriger als 50 zu bewerten.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Nach Entfernung eines malignen Nierentumors oder Nierenbeckentumors ist eine Heilungsbew√§hrung abzuwarten.
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 GdS w√§hrend einer Heilungsbew√§hrung von zwei Jahren
 
-†
 
-†
+
+
 
 nach Entfernung eines Nierenzellkarzinoms (Hypernephrom) im Stadium T1 N0 M0 (Grading G1)
 
 50
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 nach Entfernung eines Nierenbeckentumors im Stadium Ta N0 M0 (Grading G1)
 
 50
 
-†
 
-†
 
-†
+
+
+
 
 GdS w√§hrend einer Heilungsbew√§hrung von f√ºnf Jahren nach Entfernung eines Nierenzellkarzinoms (Hypernephrom)
 
-†
 
-†
 
-†
+
+
+
 
 im Stadium (T1 [Grading ab G2], T2) N0 M0
 
 60
 
-†
 
-†
+
+
 
 in h√∂heren Stadien
 
 wenigstens 80
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 nach Entfernung eines Nierenbeckentumors
 
-†
 
-†
 
-†
+
+
+
 
 im Stadium (T1 bis T2) N0 M0
 
 60
 
-†
 
-†
+
+
 
 in h√∂heren Stadien
 
 wenigstens 80
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 nach Entfernung eines Nephroblastoms
 
-†
 
-†
 
-†
+
+
+
 
 im Stadium I und II
 
 60
 
-†
 
-†
+
+
 
 in h√∂heren Stadien
 
 wenigstens 80
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 12.2 Sch√§den der Harnwege
 
-†
+
 
 12.2.1 Chronische Harnwegsentz√ºndungen (insbesondere chronische Harnblasenentz√ºndung)
 
-†
 
-†
+
+
 
 leichten Grades (ohne wesentliche Miktionsst√∂rungen)
 
 0-10
 
-†
+
 
 st√§rkeren Grades
 
-†
 
-†
+
+
 
 (mit erheblichen und h√§ufigen Miktionsst√∂rungen)
 
 20-40
 
-†
+
 
 chronische Harnblasenentz√ºndung mit Schrumpfblase
 
-†
 
-†
+
+
 
 (Fassungsverm√∂gen unter 100 ml, Blasentenesmen)
 
 50-70
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 12.2.2 Bei Entleerungsst√∂rungen der Blase (auch durch Harnr√∂hrenverengung) sind Begleiterscheinungen (z. B. Hautsch√§den, Harnwegsentz√ºndungen) ggf. zus√§tzlich zu bewerten.
 
-†
+
 
 Entleerungsst√∂rungen der Blase
 
-†
 
-†
+
+
 
 leichten Grades
 
-†
 
-†
+
+
 
 (z. B. geringe Restharnbildung, l√§ngeres Nachtr√§ufeln)
 
 10
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 st√§rkeren Grades
 
-†
 
-†
+
+
 
 (z. B. Notwendigkeit manueller Entleerung, Anwendung eines Blasenschrittmachers, erhebliche Restharnbildung, schmerzhaftes Harnlassen)
 
 20-40
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 mit Notwendigkeit regelm√§√üigen Katheterisierens, eines Dauerkatheters, eines suprapubischen Blasenfistelkatheters oder Notwendigkeit eines Urinals, ohne wesentliche Begleiterscheinungen
 
 50
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 12.2.3 Nach Entfernung eines malignen Blasentumors ist eine Heilungsbew√§hrung abzuwarten.
 
-†
+
 
 GdS w√§hrend einer Heilungsbew√§hrung von zwei Jahren nach
 
-†
 
-†
+
+
 
 Entfernung des Tumors im Fr√ºhstadium unter Belassung der Harnblase (Ta bis T1) N0 M0, Grading G1
 
 50
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 GdS w√§hrend einer Heilungsbew√§hrung von f√ºnf Jahren
 
-†
+
 
 nach Entfernung im Stadium Tis oder T1 (Grading ab G2)
 
 50
 
-†
+
 
 nach Entfernung in den Stadien (T2 bis T3a) N0 M0
 
 60
 
-†
+
 
 mit Blasenentfernung einschlie√ülich k√ºnstlicher Harnableitung
 
 80
 
-†
+
 
 nach Entfernung in h√∂heren Stadien
 
 100
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 12.2.4 Harninkontinenz
 
-†
 
-†
+
+
 
 relative
 
-†
 
-†
 
-†
+
+
+
 
 leichter Harnabgang bei Belastung (z. B. Stressinkontinenz Grad I)
 
 0-10
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
 
 Harnabgang tags und nachts (z. B. Stressinkontinenz Grad II-III)
 
 20-40
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 v√∂llige Harninkontinenz
 
 50
 
-†
 
-†
+
+
 
 bei ung√ºnstiger Versorgungsm√∂glichkeit
 
 60-70
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 nach Implantation einer Sphinkterprothese mit guter Funktion
 
 20
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Harnr√∂hren-Hautfistel der vorderen Harnr√∂hre bei Harnkontinenz
 
 10
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Harnweg-Darmfistel bei Analkontinenz, je nach Luft- und Stuhlentleerung √ºber die Harnr√∂hre
 
 30-50
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 K√ºnstliche Harnableitung (ohne Nierenfunktionsst√∂rung)
 
-†
 
-†
+
+
 
 in den Darm
 
 30
 
-†
+
 
 nach au√üen
 
-†
 
-†
 
-†
+
+
+
 
 mit guter Versorgungsm√∂glichkeit
 
 50
 
-†
 
-†
+
+
 
 sonst (z. B. bei Stenose, Retraktion, Abdichtungsproblemen)
 
 60-80
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Darmneoblase mit ausreichendem Fassungsverm√∂gen, ohne Harnstau, ohne wesentliche Entleerungsst√∂rungen
 
@@ -5581,99 +5581,99 @@ Teilverlust des Penis
 
 50
 
-†
+
 
 Teilverlust der Eichel
 
 10
 
-†
+
 
 Verlust der Eichel
 
 20
 
-†
+
 
 Sonst
 
 30-40
 
-†
 
-†
 
-†
+
+
+
 
 Nach Entfernung eines malignen Penistumors ist in den ersten f√ºnf Jahren eine Heilungsbew√§hrung abzuwarten; GdS w√§hrend dieser Zeit nach Entfernung im Fr√ºhstadium (T1 bis T2) N0 M0
 
-†
 
-†
+
+
 
 bei Teilverlust des Penis
 
 50
 
-†
+
 
 bei Verlust des Penis
 
 60
 
-†
 
-†
+
+
 
 mit vollst√§ndiger Entfernung der Corpora cavernosa
 
 80
 
-†
+
 
 nach Entfernung in h√∂heren Stadien
 
 90-100
 
-†
 
-†
+
+
 
 13.2 Unterentwicklung, Verlust oder Schwund eines Hodens bei intaktem anderen Hoden
 
 0
 
-†
 
-†
+
+
 
 Unterentwicklung, Verlust oder vollst√§ndiger Schwund beider Hoden
 
-†
 
-†
+
+
 
 in h√∂herem Lebensalter (etwa ab 8. Lebensjahrzehnt)
 
 10
 
-†
+
 
 sonst je nach Ausgleichbarkeit des Hormonhaushalts durch Substitution
 
 20-30
 
-†
 
-†
+
+
 
 vor Abschluss der k√∂rperlichen Entwicklung
 
 20-40
 
-†
 
-†
+
+
 
 Verlust oder Schwund eines Nebenhodens
 
@@ -5683,21 +5683,21 @@ Verlust oder vollst√§ndiger Schwund beider Nebenhoden und/oder Zeugungsunf√§higk
 
 0
 
-†
+
 
 in j√ºngerem Lebensalter bei noch bestehendem Kinderwunsch
 
 20
 
-†
+
 
 Impotentia coeundi bei nachgewiesener erfolgloser Behandlung
 
 20
 
-†
 
-†
+
+
 
 13.3 Hydrozele (sog. Wasserbruch)
 
@@ -5707,163 +5707,163 @@ Varikozele (sog. Krampfaderbruch)
 
 0-10
 
-†
 
-†
 
-†
+
+
+
 
 13.4 Nach Entfernung eines malignen Hodentumors ist eine Heilungsbew√§hrung abzuwarten.
 
-†
+
 
 GdS w√§hrend einer Heilungsbew√§hrung von zwei Jahren
 
-†
 
-†
+
+
 
 nach Entfernung eines Seminoms oder nichtseminomat√∂sen
 
-†
 
-†
+
+
 
 Tumors im Stadium (T1 bis T2) N0 M0
 
 50
 
-†
 
-†
+
+
 
 GdS w√§hrend einer Heilungsbew√§hrung von f√ºnf Jahren nach Entfernung
 
-†
 
-†
+
+
 
 eines Seminoms im Stadium (T1 bis T2) N1 M0 bzw. T3 N0 M0
 
 50
 
-†
 
-†
 
-†
+
+
+
 
 nach Entfernung eines nichtseminomat√∂sen Tumors im Stadium (T1 bis T2) N1 M0 bzw. T3 N0 M0
 
 60
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 in h√∂heren Stadien
 
 80
 
-†
 
-†
+
+
 
 13.5 Chronische bakterielle Entz√ºndung der Vorsteherdr√ºse oder abakterielle Prostatopathie
 
-†
 
-†
+
+
 
 ohne wesentliche Miktionsst√∂rung
 
 0-10
 
-†
+
 
 mit andauernden Miktionsst√∂rungen und Schmerzen
 
 20
 
-†
+
 
 Prostataadenom
 
-†
 
-†
+
+
 
 Der GdS richtet sich nach den Harnentleerungsst√∂rungen und der R√ºckwirkung auf die Nierenfunktion.
 
-†
 
-†
 
-†
+
+
+
 
 13.6 Nach Entfernung eines malignen Prostatatumors ist eine Heilungsbew√§hrung abzuwarten.
 
-†
 
-†
 
-†
+
+
+
 
 GdS w√§hrend einer Heilungsbew√§hrung von zwei Jahren
 
-†
 
-†
+
+
 
 nach Entfernung im Stadium T1a N0 M0 (Grading G1)
 
 50
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 GdS w√§hrend einer Heilungsbew√§hrung von f√ºnf Jahren
 
-†
 
-†
+
+
 
 nach Entfernung in den Stadien T1a N0 M0 (Grading ab G2) und (T1b bis T2) N0 M0
 
 50
 
-†
+
 
 nach Entfernung in h√∂heren Stadien
 
 wenigstens 80
 
-†
 
-†
 
-†
+
+
+
 
 Maligner Prostatatumor
 
-†
 
-†
+
+
 
 ohne Notwendigkeit einer Behandlung
 
 50
 
-†
+
 
 auf Dauer hormonbehandelt
 
@@ -5876,13 +5876,13 @@ Weibliche Geschlechtsorgane\\
 
 14.1 Verlust der Brust (Mastektomie)
 
-†
+
 
 einseitig
 
 30
 
-†
+
 
 beidseitig
 
@@ -5892,129 +5892,129 @@ Segment- oder Quadrantenresektion der Brust
 
 0-20
 
-†
 
-†
 
-†
+
+
+
 
 Funktionseinschr√§nkungen im Schulterg√ºrtel, des Armes oder der Wirbels√§ule als Operations- oder Bestrahlungsfolgen (z. B. Lymph√∂dem, Muskeldefekte, Nerven-l√§sionen, Fehlhaltung) sind ggf. zus√§tzlich zu ber√ºcksichtigen.
 
-†
 
-†
 
-†
+
+
+
 
 Aufbauplastik zur Wiederherstellung der Brust mit Prothese je nach Ergebnis (z. B. Kapselfibrose, Dislokation der Prothese, Symmetrie)
 
-†
 
-†
+
+
 
 nach Mastektomie
 
-†
 
-†
 
-†
+
+
+
 
 einseitig
 
 10-30
 
-†
 
-†
+
+
 
 beidseitig
 
 20-40
 
-†
+
 
 nach subkutaner Mastektomie
 
-†
 
-†
 
-†
+
+
+
 
 einseitig
 
 10-20
 
-†
 
-†
+
+
 
 beidseitig
 
 20-30
 
-†
 
-†
+
+
 
 Nach Aufbauplastik zur Wiederherstellung der Brust mit Eigengewebe kommt ein geringerer GdS in Betracht.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Nach Entfernung eines malignen Brustdr√ºsentumors ist in den ersten f√ºnf Jahren eine Heilungsbew√§hrung abzuwarten.
 
-†
+
 
 GdS w√§hrend dieser Zeit
 
-†
 
-†
+
+
 
 bei Entfernung im Stadium (T1 bis T2) pN0 M0
 
 50
 
-†
+
 
 bei Entfernung im Stadium (T1 bis T2) pN1 M0
 
 60
 
-†
+
 
 in h√∂heren Stadien
 
 wenigstens 80
 
-†
 
-†
 
-†
+
+
+
 
 Bedingen die Folgen der Operation und gegebenenfalls anderer Behandlungsma√ünahmen einen GdS von 50 oder mehr, ist der w√§hrend der Heilungsbew√§hrung anzusetzende GdS entsprechend h√∂her zu bewerten.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Nach Entfernung eines Carcinoma in situ der Brustdr√ºse ist in den ersten zwei Jahren eine Heilungsbew√§hrung abzuwarten. Der GdS betr√§gt w√§hrend dieser Zeit 50.
 
-†
 
-†
+
+
 
 14.2 Verlust der Geb√§rmutter und/oder Sterilit√§t
 
@@ -6024,413 +6024,413 @@ in j√ºngerem Lebensalter bei noch bestehendem Kinderwunsch
 
 20
 
-†
 
-†
 
-†
+
+
+
 
 Nach Entfernung eines malignen Geb√§rmuttertumors ist eine Heilungsbew√§hrung abzuwarten.
 
-†
 
-†
+
+
 
 GdS w√§hrend einer Heilungsbew√§hrung von zwei Jahren nach Entfernung eines Zervixtumors (Mikrokarzinom) im Stadium T1a N0 M0
 
 50
 
-†
 
-†
 
-†
+
+
+
 
 nach Entfernung eines Korpustumors im Fr√ºhstadium (Grading G1, Infiltration h√∂chstens des inneren Drittels des Myometrium)
 
 50
 
-†
 
-†
+
+
 
 GdS w√§hrend einer Heilungsbew√§hrung von f√ºnf Jahren
 
-†
+
 
 nach Entfernung eines Zervixtumors
 
-†
 
-†
+
+
 
 im Stadium (T1b bis T2a) N0 M0
 
 50
 
-†
+
 
 im Stadium T2b N0 M0
 
 60
 
-†
+
 
 in h√∂heren Stadien
 
 80
 
-†
 
-†
+
+
 
 nach Entfernung eines Korpustumors
 
-†
 
-†
+
+
 
 im Stadium T1 N0 M0 (Grading ab G2, Infiltration √ºber das innere Drittel des Myometrium hinaus)
 
 50
 
-†
+
 
 im Stadium T2 N0 M0
 
 60
 
-†
+
 
 in h√∂heren Stadien
 
 80
 
-†
+
 
 14.3 Verlust eines Eierstockes
 
 0
 
-†
 
-†
 
-†
+
+
+
 
 Unterentwicklung, Verlust oder Ausfall beider Eierst√∂cke, ohne Kinderwunsch und ohne wesentliche Auswirkung auf
 
-†
 
-†
+
+
 
 den Hormonhaushalt - immer in der Postmenopause
 
 10
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 im j√ºngeren Lebensalter bei noch bestehendem Kinderwunsch oder bei unzureichender Ausgleichbarkeit des Hormonausfalls durch Substitution
 
 20-30
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 vor Abschluss der k√∂rperlichen Entwicklung je nach Ausgleichbarkeit des Hormonausfalls
 
 20-40
 
-†
 
-†
+
+
 
 Endokrin bedingte Funktionsst√∂rungen der Eierst√∂cke sind gut behandelbar, so dass im Allgemeinen anhaltende Beeintr√§chtigungen nicht zu erwarten sind. Selten auftretende Komplikationen (z. B. Sterilit√§t, abnormer Haarwuchs) sind gesondert zu beurteilen.
 
-†
 
-†
 
-†
+
+
+
 
 Nach Entfernung eines malignen Eierstocktumors ist in den ersten f√ºnf Jahren eine Heilungsbew√§hrung abzuwarten; GdS w√§hrend dieser Zeit
 
-†
 
-†
+
+
 
 nach Entfernung im Stadium T1 N0 M0
 
 50
 
-†
+
 
 in anderen Stadien
 
 80
 
-†
 
-†
+
+
 
 14.4 Chronischer oder chronisch-rezidivierender entz√ºndlicher Prozess der Adnexe und/oder der Parametrien je nach Art, Umfang und Kombination der Auswirkungen (z. B. Adh√§sionsbeschwerden, chronische Schmerzen, Kohabitationsbeschwerden)
 
 10-40
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 14.5 Endometriose
 
-†
 
-†
+
+
 
 leichten Grades
 
-†
 
-†
+
+
 
 (geringe Ausdehnung, keine oder nur geringe Beschwerden)
 
 0-10
 
-†
+
 
 mittleren Grades
 
 20-40
 
-†
+
 
 schweren Grades
 
-†
 
-†
+
+
 
 (z. B. √úbergreifen auf die Nachbarorgane, starke Beschwerden, erhebliche Beeintr√§chtigung des Allgemeinzustandes, Sterilit√§t)
 
 50-60
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 14.6 Scheidenfisteln
 
-†
 
-†
+
+
 
 Harnweg-Scheidenfistel
 
 50-60
 
-†
+
 
 Mastdarm-Scheidenfistel
 
 60-70
 
-†
+
 
 Harnweg-Mastdarm-Scheidenfistel (Kloakenbildung)
 
 100
 
-†
+
 
 Fisteln mit geringer funktioneller Beeintr√§chtigung sind entsprechend niedriger zu bewerten.
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 Senkung der Scheidenwand, Vorfall der Scheide und/oder der Geb√§rmutter
 
-†
 
-†
+
+
 
 ohne Harninkontinenz oder mit geringer Stressinkontinenz (Grad I)
 
 0-10
 
-†
+
 
 mit st√§rkerer Harninkontinenz und/oder st√§rkeren Senkungsbeschwerden
 
 20-40
 
-†
+
 
 mit v√∂lliger Harninkontinenz
 
 50-60
 
-†
+
 
 bei ung√ºnstiger Versorgungsm√∂glichkeit
 
 70
 
-†
+
 
 Ulzerationen sind ggf. zus√§tzlich zu bewerten.
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 Isolierte Senkung der Scheidenhinterwand mit leichten Def√§kationsst√∂rungen
 
 0-10
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Scheiden-Geb√§rmutteraplasie, ohne Plastik, nach Vollendung des 14. Lebensjahres (einschlie√ülich Sterilit√§t)
 
 40
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Kraurosis vulvae
 
-†
 
-†
+
+
 
 geringen Grades (keine oder nur geringe Beschwerden)
 
 0-10
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 m√§√üigen Grades (erhebliche Beschwerden, keine Sekund√§rver√§nderungen)
 
 20-30
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 st√§rkeren Grades (starke Beschwerden, therapeutisch schwer beeinflussbare Sekund√§rver√§nderungen)
 
 40
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Vollst√§ndige Entfernung der Vulva
 
 40
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Nach Beseitigung eines malignen Scheidentumors ist in den ersten f√ºnf Jahren eine Heilungsbew√§hrung abzuwarten; GdS w√§hrend dieser Zeit
 
-†
 
-†
+
+
 
 nach Beseitigung im Stadium T1 N0 M0
 
 60
 
-†
+
 
 in h√∂heren Stadien
 
 80
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Nach Entfernung eines malignen Tumors der √§u√üeren Geschlechtsteile ist in den ersten f√ºnf Jahren eine Heilungsbew√§hrung abzuwarten; GdS w√§hrend dieser Zeit
 
-†
+
 
 nach Entfernung im Stadium (T1 bis T2) N0 M0
 
 50
 
-†
+
 
 sonst
 
@@ -6443,342 +6443,342 @@ Stoffwechsel, innere Sekretion\\
 
 In diesem Abschnitt nicht erw√§hnte angeborene Stoffwechselst√∂rungen sind analog und unter Ber√ºcksichtigung ihrer vielf√§ltigen Auswirkungen zu beurteilen. Normabweichungen der Laborwerte bedingen f√ºr sich allein noch keinen GdS.
 
-†
 
-†
 
-†
+
+
+
 
 15.1 Zuckerkrankheit (Diabetes mellitus)
 
-†
 
-†
 
-†
+
+
+
 
 Die an Diabetes erkrankten Menschen, deren Therapie regelhaft keine Hypoglyk√§mie ausl√∂sen kann und die somit in der Lebensf√ºhrung kaum beeintr√§chtigt sind, erleiden auch durch den Therapieaufwand keine Teilhabebeeintr√§chtigung, die die Feststellung eines GdS rechtfertigt. Der GdS betr√§gt 0.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Die an Diabetes erkrankten Menschen, deren Therapie eine Hypoglyk√§mie ausl√∂sen kann und die durch Einschnitte in der Lebensf√ºhrung beeintr√§chtigt sind, erleiden durch den Therapieaufwand eine signifikante Teilhabebeeintr√§chtigung. Der GdS betr√§gt 20.
 
-†
 
-†
 
-†
+
+
+
 
 Die an Diabetes erkrankten Menschen, deren Therapie eine Hypoglyk√§mie ausl√∂sen kann, die mindestens einmal t√§glich eine dokumentierte √úberpr√ºfung des Blutzuckers selbst durchf√ºhren m√ºssen und durch weitere Einschnitte in der Lebensf√ºhrung beeintr√§chtigt sind, erleiden je nach Ausma√ü des Therapieaufwands und der G√ºte der Stoffwechseleinstellung eine st√§rkere Teilhabebeeintr√§chtigung. Der GdS betr√§gt 30 bis 40.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Die an Diabetes erkrankten Menschen, die eine Insulintherapie mit t√§glich mindestens vier Insulininjektionen durchf√ºhren, wobei die Insulindosis in Abh√§ngigkeit vom aktuellen Blutzucker, der folgenden Mahlzeit und der k√∂rperlichen Belastung selbst√§ndig variiert werden muss, und durch erhebliche Einschnitte gravierend in der Lebensf√ºhrung beeintr√§chtigt sind, erleiden auf Grund dieses Therapieaufwands eine ausgepr√§gte Teilhabebeeintr√§chtigung. Die Blutzuckerselbstmessungen und Insulindosen (beziehungsweise Insulingaben √ºber die Insulinpumpe) m√ºssen dokumentiert sein. Der GdS betr√§gt 50.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Au√üergew√∂hnlich schwer regulierbare Stoffwechsellagen k√∂nnen jeweils h√∂here GdS-Werte bedingen.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 15.2 Gicht
 
-†
 
-†
 
-†
+
+
+
 
 Bei der Beurteilung des GdS sind die Funktionseinschr√§nkungen der betroffenen Gelenke, Schmerzen, H√§ufigkeit und Schwere der entz√ºndlichen Sch√ºbe und eine Beteiligung der inneren Organe zu ber√ºcksichtigen.
 
-†
 
-†
+
+
 
 15.3 Fettstoffwechselkrankheit
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Der GdS ist grunds√§tzlich abh√§ngig von dem Ausma√ü der Folgekrankheiten.\\
 Bei Notwendigkeit einer LDL-Apherese
 
 30
 
-†
 
-†
 
-†
+
+
+
 
 Aliment√§re Fettsucht, Adipositas
 
-†
 
-†
 
-†
+
+
+
 
 Die Adipositas allein bedingt keinen GdS. Nur Folge- und Begleitsch√§den (insbesondere am kardiopulmonalen System oder am St√ºtz- und Bewegungsapparat) k√∂nnen die Annahme eines GdS begr√ºnden. Gleiches gilt f√ºr die besonderen funktionellen Auswirkungen einer Adipositas permagna.
 
-†
 
-†
+
+
 
 15.4 Phenylketonurie
 
-†
 
-†
 
-†
+
+
+
 
 ohne fassbare Folgeerscheinungen
 
-†
 
-†
+
+
 
 im Kindesalter bis zur Vollendung des 16. Lebensjahres
 
 30
 
-†
+
 
 danach bei Notwendigkeit weiterer Di√§teinnahme
 
 10
 
-†
 
-†
+
+
 
 Beim Vorliegen eines Hirnschadens ist der GdS vor allem vom Ausma√ü der geistigen Behinderung und weiterer Folgen (z. B. hirnorganische Anf√§lle) abh√§ngig.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 15.5 Mukoviszidose (zystische Fibrose)
 
-†
 
-†
+
+
 
 unter Therapie Aktivit√§ten, Gedeihen und Ern√§hrung altersgem√§√ü
 
 20
 
-†
 
-†
 
-†
+
+
+
 
 unter Therapie Aktivit√§ten und Lungenfunktion leicht eingeschr√§nkt, Gedeihen und Ern√§hrung noch altersgem√§√ü
 
 30-40
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Aktivit√§ten und Lungenfunktion deutlich eingeschr√§nkt, h√§ufig Gedeih- und Entwicklungsst√∂rungen, Schulbesuch und Erwerbst√§tigkeit in der Regel noch m√∂glich
 
 50-70
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 schwere bis schwerste Einschr√§nkung der Aktivit√§ten, der Lungenfunktion und des Ern√§hrungszustandes
 
 80-100
 
-†
 
-†
 
-†
+
+
+
 
 Folgekrankheiten (z. B. Diabetes mellitus, Impotenz, Leberzirrhose) sind ggf. zus√§tzlich zu ber√ºcksichtigen.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 15.6 Schilddr√ºsenkrankheiten
 
-†
 
-†
+
+
 
 Schilddr√ºsenfunktionsst√∂rungen sind gut behandelbar, so dass in der Regel anhaltende Beeintr√§chtigungen nicht zu erwarten sind. Selten auftretende Organkomplikationen (z. B. Exophthalmus, Trachealstenose) sind gesondert zu beurteilen. Bei der nicht operativ behandelten Struma richtet sich der GdS nach den funktionellen Auswirkungen.
 
-†
 
-†
 
-†
+
+
+
 
 Nach Entfernung eines malignen Schilddr√ºsentumors ist in den ersten f√ºnf Jahren eine Heilungsbew√§hrung abzuwarten; GdS w√§hrend dieser Zeit
 
-†
 
-†
+
+
 
 nach Entfernung eines papill√§ren oder follikul√§ren Tumors, ohne Lymphknotenbefall
 
 50
 
-†
+
 
 sonst
 
 80
 
-†
 
-†
 
-†
+
+
+
 
 Bedingt der nach der Entfernung verbliebene Organschaden einen GdS von 50 oder mehr, ist der w√§hrend der Heilungsbew√§hrung anzusetzende GdS entsprechend h√∂her zu bewerten.
 
-†
 
-†
 
-†
+
+
+
 
 Tetanie
 
-†
 
-†
+
+
 
 Sie ist gut behandelbar, so dass in der Regel dauernde Beeintr√§chtigungen nicht zu erwarten sind.
 
-†
 
-†
+
+
 
 15.7 Chronische Nebennierenrindeninsuffizienz (Addison-Syndrom)
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Sie ist gut behandelbar, so dass in der Regel dauernde Beeintr√§chtigungen nicht zu erwarten sind. Selten auftretende Funktionsst√∂rungen sind analogen funktionellen Beeintr√§chtigungen (z. B. orthostatische Fehlregulation) entsprechend zu beurteilen.
 
-†
 
-†
+
+
 
 Cushing-Syndrom
 
-†
 
-†
 
-†
+
+
+
 
 Der GdS wird bestimmt von der Muskelschw√§che und den Auswirkungen an den verschiedenen Organsystemen (Hypertonie, Herzinsuffizienz, Diabetes mellitus, Osteoporose, psychische Ver√§nderungen).
 
-†
 
-†
 
-†
+
+
+
 
 15.8 Porphyrien
 
-†
+
 
 Erythropoetische Porphyrie (G√ºnther-Krankheit)
 
 100
 
-†
 
-†
 
-†
+
+
+
 
 Hepatische Porphyrien
 
-†
 
-†
+
+
 
 akut-intermittierende Porphyrie
 
 30
 
-†
+
 
 Porphyria cutanea tarda ohne wesentliche Beschwerden
 
 10
 
-†
 
-†
 
-†
+
+
+
 
 Organkomplikationen sind jeweils zus√§tzlich zu ber√ºcksichtigen.
 
-†
+
 
 16.
 
@@ -6787,427 +6787,427 @@ Blut, blutbildende Organe, Immunsystem\\
 
 Die H√∂he des GdS bei Krankheiten des Blutes, der blutbildenden Organe und des Immunsystems richtet sich nach der Schwere der h√§matologischen Ver√§nderungen, nach den Organfunktionsst√∂rungen, nach den R√ºckwirkungen auf andere Organe, nach der Auswirkung auf den Allgemeinzustand und der H√§ufigkeit von Infektionen.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 16.1 Verlust der Milz
 
-†
 
-†
+
+
 
 bei Verlust im fr√ºhen Kindesalter, dann bis zur Vollendung des 8. Lebensjahres
 
 20
 
-†
+
 
 danach oder bei sp√§terem Verlust
 
 10
 
-†
 
-†
 
-†
+
+
+
 
 16.2 Hodgkin-Krankheit
 
-†
 
-†
+
+
 
 im Stadium I bis IIIA
 
-†
 
-†
 
-†
+
+
+
 
 bei mehr als sechs Monate andauernder Therapie, bis zum Ende der Intensiv-Therapie je nach Auswirkung auf den Allgemeinzustand
 
 60-100
 
-†
 
-†
+
+
 
 nach Vollremission GdS f√ºr die Dauer von drei Jahren (Heilungsbew√§hrung)
 
 50
 
-†
 
-†
 
-†
+
+
+
 
 im Stadium IIIB und IV
 
-†
 
-†
 
-†
+
+
+
 
 bis zum Ende der Intensiv-Therapie
 
 100
 
-†
 
-†
+
+
 
 nach Vollremission GdS f√ºr die Dauer von drei Jahren (Heilungsbew√§hrung)
 
 60
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 16.3 Non-Hodgkin-Lymphome
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 16.3.1 Chronische lymphatische Leuk√§mie und andere generalisierte niedrigmaligne Non-Hodgkin-Lymphome
 
-†
 
-†
+
+
 
 mit geringen Auswirkungen (keine wesentlichen Beschwerden, keine Allgemeinsymptome, keine Behandlungsbed√ºrftigkeit, keine wesentliche Progredienz)
 
 30-40
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 mit m√§√üigen Auswirkungen (Behandlungsbed√ºrftigkeit)
 
 50-70
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 mit starken Auswirkungen, starke Progredienz (z. B. schwere An√§mie, ausgepr√§gte Thrombozytopenie, rezidivierende Infektionen, starke Milzvergr√∂√üerung)
 
 80-100
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Lokalisierte niedrigmaligne Non-Hodgkin-Lymphome
 
-†
 
-†
+
+
 
 nach Vollremission (Beseitigung des Tumors) f√ºr die Dauer von drei Jahren (Heilungsbew√§hrung)
 
 50
 
-†
 
-†
+
+
 
 16.3.2 Hochmaligne Non-Hodgkin-Lymphome
 
-†
 
-†
+
+
 
 bis zum Ende der Intensiv-Therapie
 
 100
 
-†
+
 
 nach Vollremission GdS f√ºr die Dauer von drei Jahren (Heilungsbew√§hrung)
 
 80
 
-†
+
 
 16.4 Plasmozytom (Myelom)
 
-†
 
-†
+
+
 
 mit geringen Auswirkungen (keine wesentliche Auswirkung auf den Allgemeinzustand, keine Behandlungsbed√ºrftigkeit, ohne Beschwerden, keine wesentliche Progredienz)
 
 30-40
 
-†
+
 
 mit m√§√üigen Auswirkungen (Behandlungsbed√ºrftigkeit)
 
 50-70
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 mit starken Auswirkungen (z. B. schwere An√§mie, starke Schmerzen, Nierenfunktionseinschr√§nkung)
 
 80-100
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 16.5 Myeloproliferative und myelodysplastische/myeloproliferative Neoplasien
 
-†
 
-†
+
+
 
 Auswirkungen auf andere Organsysteme sind zus√§tzlich zu bewerten.
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 16.5.1¬† Chronische myeloische Leuk√§mie, BCR/ABL-positiv
 
-†
 
-†
+
+
 
 Im Stadium der kompletten h√§matologischen, kompletten zytogenetischen und molekularen Remission betr√§gt der GdS 10 -- 20.
 
-†
 
-†
+
+
 
 Im Stadium der kompletten h√§matologischen Remission je nach Ausma√ü der zytogenetischen Remission betr√§gt der GdS 30 -- 40.
 
-†
 
-†
+
+
 
 Im chronischen Stadium, auch bei Krankheitsbeginn (im ersten Jahr der Therapie), bei fehlender Remission oder bei Rezidiv je nach Organvergr√∂√üerung, An√§mie, Thrombozytenzahl und in Abh√§ngigkeit von der Intensit√§t der Therapie betr√§gt der GdS 50 -- 80.
 
-†
 
-†
+
+
 
 In der akzelerierten Phase oder in der Blastenkrise betr√§gt der GdS 100.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 16.5.2 ¬†Atypische chronische myeloische Leuk√§mie, BCR/ABL-negativ; chronische Neutrophilen-Leuk√§mie; chronische myelomonozyt√§re Leuk√§mie
 
-†
 
-†
+
+
 
 Im Stadium der kompletten h√§matologischen Remission betr√§gt der GdS 40.
 
-†
 
-†
+
+
 
 Im chronischen Stadium, auch bei Krankheitsbeginn (im ersten Jahr der Therapie), ist die Teilhabebeeintr√§chtigung insbesondere abh√§ngig vom Ausma√ü der Organvergr√∂√üerung und An√§mie, der Thrombozytenzahl und der Intensit√§t der Therapie. Der GdS betr√§gt 50 -- 80.
 
-†
 
-†
+
+
 
 In der akzelerierten Phase oder in der Blastenkrise betr√§gt der GdS 100.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 16.5.3 ¬†Prim√§re Myelofibrose (Chronische idiopathische Myelofibrose)
 
-†
 
-†
+
+
 
 Bei geringen Auswirkungen (keine Behandlungsbed√ºrftigkeit) betr√§gt der GdS 10 -- 20.
 
-†
 
-†
+
+
 
 Bei m√§√üigen Auswirkungen (Behandlungsbed√ºrftigkeit) betr√§gt der GdS 30 -- 40.
 
-†
 
-†
+
+
 
 Bei st√§rkeren Auswirkungen (insbesondere m√§√üige An√§mie, geringe Thrombozytopenie, ausgepr√§gte Organomegalie) betr√§gt der GdS 50 -- 70.
 
-†
 
-†
+
+
 
 Bei starken Auswirkungen (insbesondere schwere An√§mie, ausgepr√§gte Thrombozytopenie, exzessive Organomegalie) betr√§gt der GdS 80 -- 100.
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 16.5.4 ¬†Chronische Eosinophilen-Leuk√§mie/Hypereosinophilie-Syndrom
 
-†
 
-†
+
+
 
 Die Teilhabebeeintr√§chtigung ist insbesondere abh√§ngig vom Ausma√ü der Organomegalie, Hautbeteiligung, Blutbildver√§nderungen und Nebenwirkungen der Therapie. Der GdS betr√§gt mindestens 50.
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 16.5.5 ¬†Polycythaemia vera
 
-†
 
-†
+
+
 
 Bei Behandlungsbed√ºrftigkeit
 
 - -- :: mit regelm√§√üigen Aderl√§ssen. Der GdS betr√§gt 10.
 - -- :: mit zytoreduktiver Therapie ist die Teilhabebeeintr√§chtigung insbesondere abh√§ngig vom Ausma√ü der Nebenwirkungen der Therapie. Der GdS betr√§gt 30 -- 40.
 
-†
 
-†
+
+
 
 √úberg√§nge zu anderen myeloproliferativen Erkrankungen sind analog zu diesen zu bewerten.
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 16.5.6 ¬†Essentielle Thrombozyth√§mie
 
-†
 
-†
+
+
 
 Bei Behandlungsbed√ºrftigkeit
 
 - -- :: mit Thrombozytenaggregationshemmern. Der GdS betr√§gt 10.
 - -- :: mit zytoreduktiver Therapie ist die Teilhabebeeintr√§chtigung insbesondere abh√§ngig vom Ausma√ü der Nebenwirkungen der Therapie. Der GdS betr√§gt 30 -- 40.
 
-†
 
-†
+
+
 
 √úberg√§nge zu anderen myeloproliferativen Erkrankungen sind analog zu diesen zu bewerten.
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 16.5.7 ¬†Die juvenile myelomonozyt√§re Leuk√§mie ist analog zur akuten myeloischen Leuk√§mie zu bewerten.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 16.6 Akute Leuk√§mien
 
-†
 
-†
+
+
 
 Im ersten Jahr nach Diagnosestellung (Erstdiagnose oder Rezidiv; insbesondere w√§hrend der Induktionstherapie, Konsolidierungstherapie, Erhaltungstherapie) betr√§gt der GdS 100.\\
 Nach dem ersten Jahr\\
@@ -7215,429 +7215,429 @@ Nach dem ersten Jahr\\
 - -- :: bei unvollst√§ndiger klinischer Remission: Der GdS betr√§gt weiterhin 100,
 - -- :: bei kompletter klinischer Remission unabh√§ngig von der durchgef√ºhrten Therapie: Der GdS betr√§gt 80 f√ºr die Dauer von drei Jahren (Heilungsbew√§hrung).
 
-†
 
-†
+
+
 
 Danach ist der GdS nach den verbliebenen Auswirkungen (insbesondere chronische M√ºdigkeit, Sterilit√§t, Neuropathien, Beeintr√§chtigung der Entwicklung und kognitiver Funktionen) zu bewerten.
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 16.7 Myelodysplastische Syndrome
 
-†
 
-†
+
+
 
 mit geringen Auswirkungen (ausgeglichen und ohne wesentliche Allgemeinst√∂rungen)
 
 10-20
 
-†
+
 
 mit m√§√üigen Auswirkungen (z. B. gelegentliche Transfusionen)
 
 30-40
 
-†
+
 
 mit st√§rkeren Auswirkungen (z. B. andauernde Transfusionsbed√ºrftigkeit, rezidivierende Infektionen)
 
 50-80
 
-†
+
 
 mit starken Auswirkungen (z. B. andauernde Transfusionsbed√ºrftigkeit, h√§ufige Infektionen, Blutungsneigung, leuk√§mische Transformation)
 
 100
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Aplastische An√§mie (auch Panmyelopathie), Agranulozytose
 
-†
 
-†
+
+
 
 Der GdS bei aplastischer An√§mie oder Agranulozytose ist auch nach Therapie analog zu den myelodysplastischen Syndromen zu bewerten.
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 16.8 Knochenmark- und Stammzelltransplantation
 
-†
 
-†
+
+
 
 Nach autologer Knochenmark- oder Blutstammzelltransplantation ist der GdS entsprechend der Grundkrankheit zu beurteilen.
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
 
 Nach allogener Knochenmarktransplantation f√ºr die Dauer von drei Jahren (Heilungsbew√§hrung)
 
 100
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Danach ist der GdS nach den verbliebenen Auswirkungen und dem eventuellen Organschaden, jedoch nicht niedriger als 30, zu bewerten.
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 16.9 An√§mien
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 Symptomatische An√§mien (z. B. Eisenmangelan√§mie, vitaminabh√§ngige An√§mien) sind in der Regel gut behandelbar und nur vor√ºbergehender Natur.
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 Therapierefrakt√§re An√§mien (z. B. bestimmte h√§molytische An√§mien, Thalass√§mie, Erythrozytenenzymdefekte)
 
-†
 
-†
+
+
 
 mit geringen Auswirkungen (ausgeglichen und ohne wesentliche Allgemeinst√∂rungen)
 
 0-10
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 mit m√§√üigen Auswirkungen (z. B. gelegentliche Transfusionen)
 
 20-40
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 mit starken Auswirkungen (z. B. andauernde Transfusionsbed√ºrftigkeit)
 
 50-70
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 16.10 H√§mophilie und entsprechende plasmatische Blutungskrankheiten (je nach Blutungsneigung)
 
-†
 
-†
+
+
 
 leichte Form
 
-†
 
-†
+
+
 
 mit Restaktivit√§t von antih√§mophilem Globulin (AHG) √ºber 5 %
 
 20
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 mittelschwere Form - mit 1-5 % AHG
 
-†
 
-†
+
+
 
 mit seltenen Blutungen
 
 30-40
 
-†
+
 
 mit h√§ufigen (mehrfach j√§hrlich) ausgepr√§gten Blutungen
 
 50-80
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 schwere Form - mit weniger als 1 % AHG
 
 80-100
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Sonstige Blutungsleiden
 
-†
 
-†
+
+
 
 ohne wesentliche Auswirkungen
 
 10
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 mit m√§√üigen Auswirkungen
 
 20-40
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 mit starken Auswirkungen (starke Blutungen bereits bei leichten Traumen)
 
 50-70
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 mit st√§ndiger klinisch manifester Blutungsneigung (Spontanblutungen, Gefahr lebensbedrohlicher Blutungen)
 
 80-100
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Eine Behandlung mit Antikoagulantien ist bei der Grundkrankheit (z. B. bei Herzklappen- und Gef√§√üprothesen, Thrombophilie) ber√ºcksichtigt. Wenn die Grundkrankheit nicht mehr besteht bzw. keinen GdS mehr bedingt, aber eine Weiterbehandlung mit Antikoagulantien erforderlich ist, kann - analog den sonstigen Blutungsleiden - in der Regel ein GdS von 10 angenommen werden.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 16.11 Immundefekte
 
-†
+
 
 Angeborene Defekte der humoralen und zellul√§ren Abwehr (z. B. Adenosindesaminase-Defekt, DiGeorge-Syndrom, permanente B-Zell-Defekte, septische Granulomatose)
 
-†
 
-†
+
+
 
 ohne klinische Symptomatik
 
 0
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 trotz Therapie erh√∂hte Infektanf√§lligkeit, aber keine au√üergew√∂hnlichen Infektionen
 
 20-40
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 trotz Therapie neben erh√∂hter Infektanf√§lligkeit auch au√üergew√∂hnliche Infektionen (ein bis zwei pro Jahr)
 
 50
 
-†
+
 
 Bei schwereren Verlaufsformen kommt ein h√∂herer GdS in Betracht.
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 Erworbenes Immunmangelsyndrom (HIV-Infektion)
 
-†
 
-†
+
+
 
 HIV-Infektion ohne klinische Symptomatik
 
 10
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 HIV-Infektion mit klinischer Symptomatik
 
-†
 
-†
+
+
 
 geringe Leistungsbeeintr√§chtigung (z. B. bei Lymphadenopathie syndrom [LAS])
 
 30-40
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 st√§rkere Leistungsbeeintr√§chtigung (z. B. bei AIDS-related complex [ARC])
 
 50-80
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 schwere Leistungsbeeintr√§chtigung (AIDS-Vollbild)
 
@@ -7650,627 +7650,627 @@ Haut\\
 
 Bei der Beurteilung des GdS von Hautkrankheiten sind Art, Ausdehnung, Sitz, Auswirkungen auf den Allgemeinzustand, Begleiterscheinungen (wie Jucken, N√§ssen, Brennen, unangenehme und absto√üende Ger√ºche) und die Rezidivbereitschaft bzw. die Chronizit√§t sowie die Notwendigkeit wiederholter station√§rer Behandlung zu ber√ºcksichtigen. Bei Hautkrankheiten mit stark schwankendem Leidensverlauf kommt ein Durchschnitts-GdS in Betracht. Bei Kindern k√∂nnen sich Hautkrankheiten schwerer auswirken als bei Erwachsenen.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Narben k√∂nnen durch Ausdehnung, Beschaffenheit (z. B. Verh√§rtung, Verd√ºnnung, Narbenz√ºge), Sitz oder Einwirkung auf ihre Umgebung zu St√∂rungen f√ºhren. Bei fl√§chenhaften Narben nach Verbrennungen, Ver√§tzungen und √§hnlichem muss au√üerdem die Beeintr√§chtigung der Haut als Schutz-, Ausscheidungs- und Sinnesorgan ber√ºcksichtigt werden. Diese St√∂rungen bestimmen die H√∂he des GdS.
 
-†
 
-†
 
-†
+
+
+
 
 Bei Entstellungen ist zu ber√ºcksichtigen, dass sich Schwierigkeiten im Erwerbsleben, Unannehmlichkeiten im Verkehr mit fremden Menschen sowie seelische Konflikte ergeben k√∂nnen.
 
-†
 
-†
 
-†
+
+
+
 
 17.1 Ekzeme
 
-†
+
 
 Kontaktekzeme (z. B. irritatives und allergisches Kontaktekzem)
 
-†
 
-†
+
+
 
 geringe Ausdehnung und bis zu zweimal im Jahr f√ºr wenige
 
-†
 
-†
+
+
 
 Wochen auftretend
 
 0-10
 
-†
+
 
 Sonst
 
 20-30
 
-†
 
-†
 
-†
 
-Atopisches Ekzem (‚ÄNeurodermitis constitutionalis", ‚Äendogenes Ekzem")
 
-†
 
-†
+
+Atopisches Ekzem (Neurodermitis constitutionalis", endogenes Ekzem")
+
+
+
+
 
 geringe, auf die Pr√§dilektionsstellen begrenzte Ausdehnung bis zu zweimal im Jahr f√ºr wenige Wochen auftretend
 
 0-10
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 bei l√§nger dauerndem Bestehen
 
 20-30
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 mit generalisierten Hauterscheinungen, insbesondere Gesichtsbefall
 
 40
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 mit klinischer oder vergleichbar intensiver ambulanter Behandlungsnotwendigkeit mehrmals im Jahr
 
 50
 
-†
 
-†
 
-†
+
+
+
 
 Seborrhoisches Ekzem
 
-†
 
-†
+
+
 
 geringe Ausdehnung und Beschr√§nkung auf die Pr√§dilektionsstellen
 
 0-10
 
-†
+
 
 sonst, je nach Ausdehnung
 
 20-30
 
-†
 
-†
+
+
 
 17.2 Chronisch rezidivierende Urtikaria/Quincke-√ñdem
 
-†
 
-†
+
+
 
 selten, bis zu zweimal im Jahr auftretend, leicht vermeidbare Noxen oder Allergene
 
 0-10
 
-†
 
-†
 
-†
+
+
+
 
 h√§ufiger auftretende Sch√ºbe, schwer vermeidbare Noxen oder Allergene
 
 20-30
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 schwerer chronischer, √ºber Jahre sich hinziehender Verlauf
 
 40-50
 
-†
 
-†
 
-†
+
+
+
 
 Eine systemische Beteiligung z. B. des Gastrointestinaltraktes oder des Kreislaufs ist ggf. zus√§tzlich zu ber√ºcksichtigen.
 
-†
 
-†
 
-†
+
+
+
 
 17.3 Akne
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Acne vulgaris
 
-†
 
-†
+
+
 
 leichteren bis mittleren Grades
 
 0-10
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 schweren Grades mit vereinzelter Abszess- und Knotenbildung und entsprechender erheblicher kosmetischer Beeintr√§chtigung
 
 20-30
 
-†
 
-†
 
-†
+
+
+
 
 Acne conglobata
 
-†
 
-†
+
+
 
 auf die Pr√§dilektionsstellen begrenzte h√§ufige Abszess- und Fistelbildungen und lokalisationsbedingte Beeintr√§chtigungen
 
 30-40
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 schwerste Formen mit rezidivierenden eitrigen, vernarbenden axill√§ringuinalen und nuchalen Abszessen (Acne triade) und ggf. zus√§tzlicher Beteiligung des Pilonidalsinus (Acne tetrade)
 
 wenigstens 50
 
-†
 
-†
 
-†
+
+
+
 
 17.4 Rosazea, Rhinophym
 
-†
 
-†
+
+
 
 geringe Ausdehnung, kosmetisch nur wenig st√∂rend
 
 0-10
 
-†
+
 
 st√§rkere Ausdehnung, entstellende Wirkung
 
 20-30
 
-†
 
-†
 
-†
+
+
+
 
 17.5 Hautver√§nderungen bei Autoimmunkrankheiten des Bindegewebes
 
-†
+
 
 (z. B. Lupus erythematodes, Dermatomyositis, progressive systemische Sklerodermie)
 
-†
 
-†
+
+
 
 auf die Pr√§dilektionsstellen begrenzt bei geringer Ausdehnung
 
 0-10
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 auf die Pr√§dilektionsstellen begrenzt bei st√§rkerer Ausdehnung, je nach kosmetischer und funktioneller Auswirkung
 
 20-40
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 √ºber die Pr√§dilektionsstellen hinausgehend, ggf. Ulzerationen
 
 50-70
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 17.6 Blasenbildende Hautkrankheiten (z. B. Pemphigus, Pemphigoide)
 
-†
 
-†
+
+
 
 bei begrenztem Haut- und Schleimhautbefall mit geringer Ausdehnung
 
 10
 
-†
+
 
 sonst
 
 20-40
 
-†
+
 
 bei generalisiertem Haut- und Schleimhautbefall
 
 50-80
 
-†
+
 
 in fortgeschrittenen Stadien bei schwerer Beeintr√§chtigung des Allgemeinzustandes auch h√∂her.
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 17.7 Psoriasis vulgaris
 
-†
 
-†
+
+
 
 auf die Pr√§dilektionsstellen beschr√§nkt
 
 0-10
 
-†
+
 
 ausgedehnter, aber erscheinungsfreie Intervalle von Monaten
 
 20
 
-†
+
 
 bei andauerndem ausgedehnten Befall oder stark beeintr√§chtigendem lokalen Befall (z. B. an den H√§nden)
 
 30-50
 
-†
+
 
 Eine au√üergew√∂hnliche Nagelbeteiligung (mit Zerst√∂rung der Nagelplatten) sowie eine Gelenk- und Wirbels√§ulenbeteiligung sind zus√§tzlich zu bewerten.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 17.8 Erythrodermien
 
-†
 
-†
+
+
 
 bei leichter Intensit√§t des Krankheitsprozesses
 
 40
 
-†
+
 
 bei mittlerer Intensit√§t des Krankheitsprozesses ohne wesentliche Auswirkung auf den Allgemeinzustand
 
 50-60
 
-†
+
 
 mit st√§rkerer Auswirkung auf den Allgemeinzustand
 
 70-80
 
-†
 
-†
 
-†
+
+
+
 
 17.9 Ichthyosis
 
-†
 
-†
+
+
 
 leichte Form,
 
-†
 
-†
+
+
 
 auf Stamm und Extremit√§ten weitgehend begrenzt, mit trockener Haut, m√§√üiger Schuppung, ohne wesentliche Verf√§rbung
 
 0-10
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 mittlere Form
 
-†
 
-†
+
+
 
 auf Stamm und Extremit√§ten weitgehend begrenzt, mit st√§rkerer Schuppung und Verf√§rbung
 
 20-40
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 schwere Form
 
-†
 
-†
+
+
 
 mit ausgepr√§gter Schuppung und Verf√§rbung der gesamten Haut, insbesondere der Gelenkbeugen und des Gesichts
 
 50-80
 
-†
 
-†
 
-†
+
+
+
 
 17.10 Mykosen
 
-†
 
-†
+
+
 
 bei begrenztem Hautbefall
 
 0-10
 
-†
+
 
 bei Befall aller Finger- und Fu√ün√§gel, ggf. mit Zerst√∂rung von Nagelplatten
 
 20
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Chronisch rezidivierendes Erysipel
 
-†
 
-†
+
+
 
 ohne bleibendes Lymph√∂dem
 
 10
 
-†
+
 
 sonst, je nach Auspr√§gung des Lymph√∂dems
 
 20-40
 
-†
 
-†
 
-†
+
+
+
 
 Chronisch rezidivierender Herpes simplex
 
-†
 
-†
+
+
 
 geringe Ausdehnung, bis zu dreimal im Jahr rezidivierend
 
 0-10
 
-†
+
 
 gr√∂√üere Ausdehnung, h√§ufiger rezidivierend
 
 20
 
-†
 
-†
 
-†
+
+
+
 
 17.11 Totaler Haarausfall
 
-†
 
-†
+
+
 
 (mit Fehlen von Augenbrauen und Wimpern)
 
 30
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 17.12 Naevus
 
-†
+
 
 Der GdS richtet sich allein nach dem Ausma√ü einer eventuellen Entstellung.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Pigmentst√∂rungen (z. B. Vitiligo)
 
-†
 
-†
+
+
 
 an H√§nden und/oder Gesicht
 
-†
 
-†
+
+
 
 gering
 
 10
 
-†
+
 
 ausgedehnter
 
 20
 
-†
+
 
 sonst
 
 0
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 17.13 Nach Entfernung eines malignen Tumors der Haut ist in den ersten f√ºnf Jahren eine Heilungsbew√§hrung abzuwarten (Ausnahmen: z. B. Basalzellkarzinome, Bowen-Krankheit, Melanoma in situ); GdS w√§hrend dieser Zeit
 
-†
 
-†
 
-†
+
+
+
 
 nach Entfernung eines Melanoms im Stadium I ([pT1 bis T2] pN0 M0) oder eines anderen Hauttumors in den Stadien (pT1 bis T2) pN0 bis N2 M0
 
 50
 
-†
 
-†
+
+
 
 in anderen Stadien
 
@@ -8283,131 +8283,131 @@ Haltungs- und Bewegungsorgane, rheumatische Krankheiten\\
 
 18.1 Allgemeines
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Dieser Abschnitt umfasst Haltungssch√§den, degenerative Ver√§nderungen, osteopenische Krankheiten, posttraumatische Zust√§nde, chronische Osteomyelitis, entz√ºndlich-rheumatische Krankheiten, Kollagenosen und Vaskulitiden sowie nichtentz√ºndliche Krankheiten der Weichteile.
 
-†
 
-†
 
-†
+
+
+
 
 Der GdS f√ºr angeborene und erworbene Sch√§den an den Haltungs- und Bewegungsorganen wird entscheidend bestimmt durch die Auswirkungen der Funktionsbeeintr√§chtigungen (Bewegungsbehinderung, Minderbelastbarkeit) und die Mitbeteiligung anderer Organsysteme. Die √ºblicher Weise auftretenden Beschwerden sind dabei mitber√ºcksichtigt.
 
-†
 
-†
 
-†
+
+
+
 
 Au√üergew√∂hnliche Schmerzen sind ggf. zus√§tzlich zu ber√ºcksichtigen. Schmerzhafte Bewegungseinschr√§nkungen der Gelenke k√∂nnen schwerwiegender als eine Versteifung sein.
 
-†
 
-†
+
+
 
 Bei Haltungssch√§den und/oder degenerativen Ver√§nderungen an Gliedma√üengelenken und an der Wirbels√§ule (z. B. Arthrose, Osteochondrose) sind auch Gelenkschwellungen, muskul√§re Verspannungen, Kontrakturen oder Atrophien zu ber√ºcksichtigen.
 
-†
 
-†
 
-†
+
+
+
 
 Mit Bild gebenden Verfahren festgestellte Ver√§nderungen (z. B. degenerativer Art) allein rechtfertigen noch nicht die Annahme eines GdS. Ebenso kann die Tatsache, dass eine Operation an einer Gliedma√üe oder an der Wirbels√§ule (z. B. Meniskusoperation, Bandscheibenoperation, Synovialektomie) durchgef√ºhrt wurde, f√ºr sich allein nicht die Annahme eines GdS begr√ºnden.
 
-†
 
-†
 
-†
+
+
+
 
 Das Funktionsausma√ü der Gelenke wird im Folgenden nach der Neutral-Null-Methode angegeben.
 
-†
 
-†
 
-†
+
+
+
 
 Fremdk√∂rper beeintr√§chtigen die Funktion nicht, wenn sie in Muskel oder Knochen reaktionslos eingeheilt sind und durch ihre Lage keinen ung√ºnstigen Einfluss auf Gelenke, Nerven oder Gef√§√üe aus√ºben.
 
-†
 
-†
 
-†
+
+
+
 
 Der GdS bei Weichteilverletzungen richtet sich nach der Funktionseinbu√üe und der Beeintr√§chtigung des Blut- und Lymphgef√§√üsystems. Bei Faszienverletzungen k√∂nnen Muskelbr√ºche auftreten, die nur in seltenen F√§llen einen GdS bedingen.
 
-†
 
-†
 
-†
+
+
+
 
 Bei den entz√ºndlich-rheumatischen Krankheiten sind unter Beachtung der Krankheitsentwicklung neben der strukturellen und funktionellen Einbu√üe die Aktivit√§t mit ihren Auswirkungen auf den Allgemeinzustand und die Beteiligung weiterer Organe zu ber√ºcksichtigen. Entsprechendes gilt f√ºr Kollagenosen und Vaskulitiden.
 
-†
 
-†
 
-†
+
+
+
 
 Bei ausgepr√§gten osteopenischen Krankheiten (z. B. Osteoporose, Osteopenie bei hormonellen St√∂rungen, gastrointestinalen Resorptionsst√∂rungen, Nierensch√§den) ist der GdS vor allem von der Funktionsbeeintr√§chtigung und den Schmerzen abh√§ngig. Eine ausschlie√ülich messtechnisch nachgewiesene Minderung des Knochenmineralgehalts rechtfertigt noch nicht die Annahme eines GdS.
 
-†
 
-†
+
+
 
 18.2.1 Entz√ºndlich-rheumatische Krankheiten (z. B. Bechterew-Krankheit)
 
-†
 
-†
+
+
 
 ohne wesentliche Funktionseinschr√§nkung mit leichten Beschwerden
 
 10
 
-†
+
 
 mit geringen Auswirkungen
 
-†
 
-†
+
+
 
 (leichtgradige Funktionseinbu√üen und Beschwerden, je nach Art und Umfang des Gelenkbefalls, geringe Krankheitsaktivit√§t)
 
 20-40
 
-†
+
 
 mit mittelgradigen Auswirkungen
 
-†
 
-†
+
+
 
 (dauernde erhebliche Funktionseinbu√üen und Beschwerden, therapeutisch schwer beeinflussbare Krankheitsaktivit√§t)
 
 50-70
 
-†
+
 
 mit schweren Auswirkungen
 
-†
 
-†
+
+
 
 (irreversible Funktionseinbu√üen, hochgradige Progredienz)
 
@@ -8415,73 +8415,73 @@ mit schweren Auswirkungen
 
 Auswirkungen √ºber sechs Monate anhaltender aggressiver Therapien sind gegebenenfalls zus√§tzlich zu ber√ºcksichtigen.
 
-†
 
-†
+
+
 
 18.2.2 Kollagenosen (z. B. systemischer Lupus erythematodes, progressiv-systemische Sklerose, Polymyositis/Dermatomyositis),
 
-†
 
-†
 
-†
+
+
+
 
 18.2.3 Vaskulitiden (z. B. Panarteriitis nodosa, Polymyalgia rheumatica)
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 Die Beurteilung des GdS bei Kollagenosen und Vaskulitiden richtet sich nach Art und Ausma√ü der jeweiligen Organbeteiligung sowie den Auswirkungen auf den Allgemeinzustand, wobei auch eine Analogie zu den Muskelkrankheiten in Betracht kommen kann. F√ºr die Dauer einer √ºber sechs Monate anhaltenden aggressiven Therapie soll ein GdS von 50 nicht unterschritten werden.
 
-†
 
-†
 
-†
+
+
+
 
 18.3 Bei der Beurteilung nicht-entz√ºndlicher Krankheiten der Weichteile kommt es auf Art und Ausma√ü der jeweiligen Organbeteiligung sowie auf die Auswirkungen auf den Allgemeinzustand an.
 
-†
 
-†
 
-†
+
+
+
 
 18.4 Fibromyalgie
 
-†
 
-†
+
+
 
 Die Fibromyalgie, das Chronische Fatigue Syndrom (CFS), die Multiple Chemical Sensitivity (MCS) und √§hnliche Syndrome sind jeweils im Einzelfall entsprechend der funktionellen Auswirkungen analog zu beurteilen.
 
-†
 
-†
 
-†
+
+
+
 
 18.5 Chronische Osteomyelitis
 
-†
 
-†
+
+
 
 Bei der Beurteilung des GdS sind die aus der Lokalisation und Ausdehnung des Prozesses sich ergebende Funktionsst√∂rung, die dem Prozess innewohnende Aktivit√§t und ihre Auswirkungen auf den Allgemeinzustand und au√üerdem etwaige Folgekrankheiten (z. B. An√§mie, Amyloidose) zu ber√ºcksichtigen. Bei ausgepr√§gt schubf√∂rmigem Verlauf ist ein Durchschnitts-GdS zu bilden.
 
-†
 
-†
 
-†
+
+
+
 
 Ruhende Osteomyelitis (Inaktivit√§t wenigstens 5 Jahre)
 
@@ -8489,567 +8489,567 @@ Ruhende Osteomyelitis (Inaktivit√§t wenigstens 5 Jahre)
 
 Chronische Osteomyelitis
 
-†
 
-†
+
+
 
 geringen Grades
 
-†
 
-†
+
+
 
 (eng begrenzt, mit geringer Aktivit√§t, geringe Fisteleiterung)
 
 mindestens 20
 
-†
 
-†
 
-†
+
+
+
 
 mittleren Grades
 
-†
 
-†
+
+
 
 (ausgedehnterer Prozess, h√§ufige oder st√§ndige Fisteleiterung, Aktivit√§tszeichen auch in Laborbefunden)
 
 mindestens 50
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 schweren Grades
 
-†
 
-†
+
+
 
 (h√§ufige schwere Sch√ºbe mit Fieber, ausgepr√§gter Infiltration der Weichteile, Eiterung und Sequesterabsto√üung, erhebliche Aktivit√§tszeichen in den Laborbefunden)
 
 mindestens 70
 
-†
 
-†
 
-†
+
+
+
 
 Eine wesentliche Besserung wegen Beruhigung des Prozesses kann erst angenommen werden, wenn nach einem Leidensverlauf von mehreren Jahren seit wenigstens zwei Jahren - nach jahrzehntelangem Verlauf seit f√ºnf Jahren - keine Fistel mehr bestanden hat und auch aus den weiteren Befunden (einschlie√ülich R√∂ntgenbildern und Laborbefunden) keine Aktivit√§tszeichen mehr erkennbar gewesen sind. Dabei ist in der Regel der GdS nur um 20 bis 30 Punkte niedriger einzusch√§tzen und zwei bis vier Jahre lang noch eine weitere Heilungsbew√§hrung abzuwarten, bis der GdS nur noch von dem verbliebenen Schaden bestimmt wird.
 
-†
 
-†
+
+
 
 18.6 Muskelkrankheiten
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Bei der Beurteilung des GdS ist von folgenden Funktionsbeeintr√§chtigungen auszugehen:
 
-†
+
 
 Muskelschw√§che
 
-†
 
-†
+
+
 
 mit geringen Auswirkungen (vorzeitige Erm√ºdung, gebrauchsabh√§ngige Unsicherheiten)
 
 20-40
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 mit mittelgradigen Auswirkungen (zunehmende Gelenkkontrakturen und Deformit√§ten, Aufrichten aus dem Liegen nicht mehr m√∂glich, Unm√∂glichkeit des Treppensteigens)
 
 50-80
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 mit schweren Auswirkungen (bis zur Geh- und Stehunf√§higkeit und Gebrauchsunf√§higkeit der Arme)
 
 90-100
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 Zus√§tzlich sind bei einzelnen Muskelkrankheiten Auswirkungen auf innere Organe (z. B. Einschr√§nkung der Lungenfunktion und/oder der Herzleistung durch Brustkorbdeformierung) oder Augenmuskel-, Schluck- oder Sprechst√∂rungen (z. B. bei der Myasthenie) zu ber√ºcksichtigen.
 
-†
 
-†
 
-†
+
+
+
 
 18.7 Kleinwuchs
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 K√∂rpergr√∂√üe nach Abschluss des Wachstums
 
-†
 
-†
+
+
 
 √ºber 130 bis 140 cm
 
 30-40
 
-†
+
 
 √ºber 120 bis 130 cm
 
 50
 
-†
+
 
 Bei 120 cm und darunter kommen entsprechend h√∂here Werte in Betracht.\\
 Dieser GdS ist auf harmonischen K√∂rperbau bezogen.
 
-†
 
-†
 
-†
+
+
+
 
 Zus√§tzlich zu ber√ºcksichtigen sind (z. B. bei Achondroplasie, bei Osteogenesis imperfecta) mit dem Kleinwuchs verbundene St√∂rungen wie
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 mangelhafte K√∂rperproportionen,
 
-†
 
-†
+
+
 
 Verbildungen der Gliedma√üen,
 
-†
 
-†
+
+
 
 St√∂rungen der Gelenkfunktion, Muskelfunktion und Statik,
 
-†
 
-†
+
+
 
 neurologische St√∂rungen,
 
-†
 
-†
+
+
 
 Einschr√§nkungen der Sinnesorgane,
 
-†
 
-†
+
+
 
 endokrine Ausf√§lle und
 
-†
 
-†
+
+
 
 au√üergew√∂hnliche psychoreaktive St√∂rungen.
 
-†
 
-†
 
-†
+
+
+
 
 18.8 Gro√üwuchs
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Gro√üwuchs allein rechtfertigt noch nicht die Annahme eines GdS. Auf psychoreaktive St√∂rungen ist besonders zu achten.
 
-†
 
-†
+
+
 
 18.9 Wirbels√§ulensch√§den
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Der GdS bei angeborenen und erworbenen Wirbels√§ulensch√§den (einschlie√ülich Bandscheibensch√§den, Scheuermann-Krankheit, Spondylolisthesis, Spinalkanalstenose und dem sogenannten Postdiskotomiesyndrom) ergibt sich prim√§r aus dem Ausma√ü der Bewegungseinschr√§nkung, der Wirbels√§ulenverformung und -instabilit√§t sowie aus der Anzahl der betroffenen Wirbels√§ulenabschnitte.
 
-†
 
-†
+
+
 
 Der Begriff Instabilit√§t beinhaltet die abnorme Beweglichkeit zweier Wirbel gegeneinander unter physiologischer Belastung und die daraus resultierenden Weichteilver√§nderungen und Schmerzen. Sogenannte Wirbels√§ulensyndrome (wie Schulter-Arm-Syndrom, Lumbalsyndrom, Ischialgie, sowie andere Nerven- und Muskelreizerscheinungen) k√∂nnen bei Instabilit√§t und bei Einengungen des Spinalkanals oder der Zwischenwirbell√∂cher auftreten.
 
-†
 
-†
 
-†
+
+
+
 
 F√ºr die Bewertung von chronisch-rezidivierenden Bandscheibensyndromen sind aussagekr√§ftige anamnestische Daten und klinische Untersuchungsbefunde √ºber einen ausreichend langen Zeitraum von besonderer Bedeutung. Im beschwerdefreien Intervall k√∂nnen die objektiven Untersuchungsbefunde nur gering ausgepr√§gt sein.
 
-†
 
-†
+
+
 
 Wirbels√§ulensch√§den
 
-†
 
-†
+
+
 
 ohne Bewegungseinschr√§nkung oder Instabilit√§t
 
 0
 
-†
 
-†
 
-†
+
+
+
 
 mit geringen funktionellen Auswirkungen (Verformung, rezidivierende oder anhaltende Bewegungseinschr√§nkung oder Instabilit√§t geringen Grades, seltene und kurz dauernd auftretende leichte Wirbels√§ulensyndrome)
 
 10
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 mit mittelgradigen funktionellen Auswirkungen in einem Wirbels√§ulenabschnitt (Verformung, h√§ufig rezidivierende oder anhaltende Bewegungseinschr√§nkung oder Instabilit√§t mittleren Grades, h√§ufig rezidivierende und √ºber Tage andauernde Wirbels√§ulensyndrome)
 
 20
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 mit schweren funktionellen Auswirkungen in einem Wirbels√§ulenabschnitt (Verformung, h√§ufig rezidivierende oder anhaltende Bewegungseinschr√§nkung oder Instabilit√§t schweren Grades, h√§ufig rezidivierende und Wochen andauernde ausgepr√§gte Wirbels√§ulensyndrome)
 
 30
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 mit mittelgradigen bis schweren funktionellen Auswirkungen in zwei Wirbels√§ulenabschnitten
 
 30-40
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 mit besonders schweren Auswirkungen (z. B. Versteifung gro√üer Teile der Wirbels√§ule; anhaltende Ruhigstellung durch Rumpforthese, die drei Wirbels√§ulenabschnitte umfasst [z. B. Milwaukee-Korsett]; schwere Skoliose [ab ca. 70¬∞ nach Cobb])
 
 50-70
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 bei schwerster Belastungsinsuffizienz bis zur Geh- und Stehunf√§higkeit
 
 80-100
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Anhaltende Funktionsst√∂rungen infolge Wurzelkompression mit motorischen Ausfallerscheinungen - oder auch die intermittierenden St√∂rungen bei der Spinalkanalstenose - sowie Auswirkungen auf die inneren Organe (z. B. Atemfunktionsst√∂rungen) sind zus√§tzlich zu ber√ºcksichtigen.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Bei au√üergew√∂hnlichen Schmerzsyndromen kann auch ohne nachweisbare neurologische Ausfallerscheinungen (z. B. Postdiskotomiesyndrom) ein GdS √ºber 30 in Betracht kommen.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Das neurogene Hinken ist etwas g√ºnstiger als vergleichbare Einschr√§nkungen des Gehverm√∂gens bei arteriellen Verschlusskrankheiten zu bewerten.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 18.10 Beckensch√§den
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
 
 ohne funktionelle Auswirkungen
 
 0
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 mit geringen funktionellen Auswirkungen (z. B. stabiler Beckenring, degenerative Ver√§nderungen der Kreuz-Darmbeingelenke)
 
 10
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 mit mittelgradigen funktionellen Auswirkungen (z. B. instabiler Beckenring einschlie√ülich Sekund√§rarthrose)
 
 20
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 mit schweren funktionellen Auswirkungen und Deformierung
 
 30-40
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 18.11 Gliedma√üensch√§den, Allgemeines
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 Der GdS bei Gliedma√üensch√§den ergibt sich aus dem Vergleich mit dem GdS f√ºr entsprechende Gliedverluste. Trotz erhaltener Extremit√§t kann der Zustand gelegentlich ung√ºnstiger sein als der Verlust.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Die aufgef√ºhrten GdS f√ºr Gliedma√üenverluste gehen - soweit nichts anderes erw√§hnt ist - von g√ºnstigen Verh√§ltnissen des Stumpfes und der benachbarten Gelenke aus. Bei ausgesprochen ung√ºnstigen Stumpfverh√§ltnissen, bei nicht nur vor√ºbergehenden Stumpfkrankheiten sowie bei nicht unwesentlicher Funktionsbeeintr√§chtigung des benachbarten Gelenkes sind diese S√§tze im allgemeinen um 10 zu erh√∂hen, unabh√§ngig davon, ob K√∂rperersatzst√ºcke getragen werden oder nicht.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 K√∂rperersatzst√ºcke, orthop√§dische und andere Hilfsmittel mindern bei Verlust und Funktionsst√∂rungen der Gliedma√üen sowie bei Funktionseinschr√§nkungen des Rumpfes die Auswirkungen der Behinderung, ohne dass dadurch der durch den Schaden allein bedingte GdS eine √Ñnderung erf√§hrt.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Bei der Bewertung des GdS von Pseudarthrosen ist zu ber√ºcksichtigen, dass straffe Pseudarthrosen g√ºnstiger sind als schlaffe.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Bei habituellen Luxationen richtet sich die H√∂he des GdS au√üer nach der Funktionsbeeintr√§chtigung der Gliedma√üe auch nach der H√§ufigkeit der Ausrenkungen.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 18.12 Endoprothesen
 
 Es werden Mindest-GdS angegeben, die f√ºr Endoprothesen bei bestm√∂glichem Behandlungsergebnis gelten. Bei eingeschr√§nkter Versorgungsqualit√§t sind h√∂here Werte angemessen.\\
 Die Versorgungsqualit√§t kann insbesondere beeintr√§chtigt sein durch
 
-†
+
 
 - Beweglichkeits- und Belastungseinschr√§nkung,
 
-†
+
 
 - Nervensch√§digung,
 
-†
+
 
 - deutliche Muskelminderung,
 
-†
+
 
 - ausgepr√§gte Narbenbildung,
 
-†
+
 
 Die in der GdS-Tabelle angegebenen Werte schlie√üen die bei der jeweiligen Versorgungsart √ºblicherweise gebotenen Beschr√§nkungen ein.
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 H√ºftgelenk
 
-†
 
-†
+
+
 
 bei einseitiger Endoprothese betr√§gt der GdS mindestens
 
 10
 
-†
+
 
 bei beidseitiger Endoprothese betr√§gt der GdS mindestens
 
@@ -9057,27 +9057,27 @@ bei beidseitiger Endoprothese betr√§gt der GdS mindestens
 
 Kniegelenk
 
-†
 
-†
+
+
 
 bei einseitiger Totalendoprothese betr√§gt der GdS mindestens
 
 20
 
-†
+
 
 bei beidseitiger Totalendoprothese betr√§gt der GdS mindestens
 
 30
 
-†
+
 
 bei einseitiger Teilendoprothese betr√§gt der GdS mindestens
 
 10
 
-†
+
 
 bei beidseitiger Teilendoprothese betr√§gt der GdS mindestens
 
@@ -9085,15 +9085,15 @@ bei beidseitiger Teilendoprothese betr√§gt der GdS mindestens
 
 Oberes Sprunggelenk
 
-†
 
-†
+
+
 
 bei einseitiger Endoprothese betr√§gt der GdS mindestens
 
 10
 
-†
+
 
 bei beidseitiger Endoprothese betr√§gt der GdS mindestens
 
@@ -9101,15 +9101,15 @@ bei beidseitiger Endoprothese betr√§gt der GdS mindestens
 
 Schultergelenk
 
-†
 
-†
+
+
 
 bei einseitiger Endoprothese betr√§gt der GdS mindestens
 
 20
 
-†
+
 
 bei beidseitiger Endoprothese betr√§gt der GdS mindestens
 
@@ -9117,15 +9117,15 @@ bei beidseitiger Endoprothese betr√§gt der GdS mindestens
 
 Ellenbogengelenk
 
-†
 
-†
+
+
 
 bei einseitiger Totalendoprothese betr√§gt der GdS mindestens
 
 30
 
-†
+
 
 bei beidseitiger Totalendoprothese betr√§gt der GdS mindestens
 
@@ -9133,57 +9133,57 @@ bei beidseitiger Totalendoprothese betr√§gt der GdS mindestens
 
 Kleine Gelenke
 
-†
 
-†
+
+
 
 Endoprothesen bedingen keine wesentliche Teilhabebeeintr√§chtigung
 
-†
 
-†
 
-†
+
+
+
 
 Aseptische Nekrosen
 
-†
 
-†
+
+
 
 H√ºftkopfnekrosen (z. B. Perthes-Krankheit) w√§hrend der notwendigen Entlastung
 
 70
 
-†
+
 
 Lunatum-Malazie w√§hrend der notwendigen Immobilisierung
 
 30
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 18.13 Sch√§den der oberen Gliedma√üen
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 Extremit√§tenverlust
 
-†
+
 
 Verlust eines Armes und Beines
 
@@ -9193,23 +9193,23 @@ Verlust eines Armes im Schultergelenk oder mit sehr kurzem Oberarmstumpf
 
 80
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Unter einem sehr kurzen Oberarmstumpf ist ein Stumpf zu verstehen, der eine gleiche Funktionseinbu√üe wie der Verlust des Armes im Schultergelenk zur Folge hat. Das ist immer dann der Fall, wenn die Absetzungsebene in H√∂he des Collum chirurgicum liegt.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Verlust eines Armes im Oberarm oder im Ellenbogengelenk
 
@@ -9231,183 +9231,183 @@ Versteifung des Schultergelenks in g√ºnstiger Stellung bei gut beweglichem Schul
 
 30
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 Eine Versteifung im Schultergelenk in einem Abspreizwinkel um ca. 45¬∞ und leichter Vorhalte gilt als funktionell g√ºnstig.
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
 
 Versteifung des Schultergelenks in ung√ºnstiger Stellung oder bei gest√∂rter Beweglichkeit des Schulterg√ºrtels
 
 40-50
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Bewegungseinschr√§nkung des Schultergelenks (einschlie√ülich Schulterg√ºrtel)
 
-†
 
-†
+
+
 
 Armhebung nur bis zu 120¬∞ mit entsprechender Einschr√§nkung der Dreh- und Spreizf√§higkeit
 
 10
 
-†
+
 
 Armhebung nur bis zu 90¬∞ mit entsprechender Einschr√§nkung der Dreh- und Spreizf√§higkeit
 
 20
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Instabilit√§t des Schultergelenks
 
-†
 
-†
+
+
 
 geringen Grades, auch seltene Ausrenkung (in Abst√§nden von 1 Jahr und mehr)
 
 10
 
-†
+
 
 mittleren Grades, auch h√§ufigere Ausrenkung
 
 20-30
 
-†
+
 
 schweren Grades (auch Schlottergelenk), auch st√§ndige Ausrenkung
 
 40
 
-†
 
-†
 
-†
+
+
+
 
 Schl√ºsselbeinpseudarthrose
 
-†
 
-†
+
+
 
 straff
 
 0-10
 
-†
+
 
 schlaff
 
 20
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Verk√ºrzung des Armes bis zu 4 cm bei freier Beweglichkeit der
 
-†
 
-†
+
+
 
 gro√üen Armgelenke
 
 0
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Oberarmpseudarthrose
 
-†
 
-†
+
+
 
 straff
 
 20
 
-†
+
 
 schlaff
 
 40
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Riss der langen Bizepssehne
 
 0-10
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Versteifung des Ellenbogengelenks einschlie√ülich Aufhebung der Unterarmdrehbewegung
 
-†
 
-†
+
+
 
 in g√ºnstiger Stellung
 
 30
 
-†
+
 
 in ung√ºnstiger Stellung
 
@@ -9415,175 +9415,175 @@ in ung√ºnstiger Stellung
 
 Die Versteifung in einem Winkel zwischen 80¬∞ und 100¬∞ bei mittlerer Pronationsstellung des Unterarms ist als g√ºnstige Gebrauchsstellung aufzufassen.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Bewegungseinschr√§nkung im Ellenbogengelenk
 
-†
 
-†
+
+
 
 geringen Grades (Streckung/Beugung bis 0-30-120 bei freier Unterarmdrehbeweglichkeit)
 
 0-10
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 st√§rkeren Grades (insbesondere der Beugung einschlie√ülich Einschr√§nkung der Unterarmdrehbeweglichkeit)
 
 20-30
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Isolierte Aufhebung der Unterarmdrehbeweglichkeit
 
-†
 
-†
+
+
 
 in g√ºnstiger Stellung (mittlere Pronationsstellung)
 
 10
 
-†
+
 
 in ung√ºnstiger Stellung
 
 20
 
-†
+
 
 in extremer Supinationsstellung
 
 30
 
-†
+
 
 Ellenbogen-Schlottergelenk
 
 40
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Unterarmpseudarthrose
 
-†
 
-†
+
+
 
 straff
 
 20
 
-†
+
 
 schlaff
 
 40
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Pseudarthrose der Elle oder Speiche
 
 10-20
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Versteifung des Handgelenks
 
-†
 
-†
+
+
 
 in g√ºnstiger Stellung (leichte Dorsalextension)
 
 20
 
-†
+
 
 in ung√ºnstiger Stellung
 
 30
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Bewegungseinschr√§nkung des Handgelenks
 
-†
 
-†
+
+
 
 geringen Grades (z. B. Streckung/Beugung bis 30-0-40)
 
 0-10
 
-†
+
 
 st√§rkeren Grades
 
 20-30
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Nicht oder mit Deformierung verheilte Br√ºche oder Luxationen der Handwurzelknochen oder eines oder mehrerer Mittelhandknochen mit sekund√§rer Funktionsbeeintr√§chtigung
 
 10-30
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Versteifung eines Daumengelenks in g√ºnstiger Stellung
 
@@ -9593,13 +9593,13 @@ Versteifung beider Daumengelenke und des Mittelhand- Handwurzelgelenks in g√ºnst
 
 20
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Versteifung eines Fingers in g√ºnstiger Stellung (mittlere Gebrauchsstellung)
 
@@ -9607,183 +9607,183 @@ Versteifung eines Fingers in g√ºnstiger Stellung (mittlere Gebrauchsstellung)
 
 Versteifungen der Finger in Streck- oder starker Beugestellung sind oft st√∂render als ein glatter Verlust.
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 Verlust des Daumenendgliedes
 
 0
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Verlust des Daumenendgliedes und des halben Grundgliedes
 
 10
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Verlust eines Daumens
 
 25
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Verlust beider Daumen
 
 40
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Verlust eines Daumens mit Mittelhandknochen
 
 30
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Verlust des Zeigefingers, Mittelfingers, Ringfingers oder Kleinfingers, auch mit Teilen des dazugeh√∂rigen Mittelhandknochens
 
 10
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Verlust von zwei Fingern
 
-†
 
-†
+
+
 
 mit Einschluss des Daumens
 
 30
 
-†
+
 
 II+III, II+IV
 
 30
 
-†
+
 
 sonst
 
 25
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Verlust von drei Fingern
 
-†
 
-†
+
+
 
 mit Einschluss des Daumens
 
 40
 
-†
+
 
 II+III+IV
 
 40
 
-†
+
 
 sonst
 
 30
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Verlust von vier Fingern
 
-†
 
-†
+
+
 
 mit Einschluss des Daumens
 
 50
 
-†
+
 
 sonst
 
 40
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Verlust der Finger II bis V an beiden H√§nden
 
 80
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Verlust aller f√ºnf Finger einer Hand
 
@@ -9793,37 +9793,37 @@ Verlust aller zehn Finger
 
 100
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Obige S√§tze gelten f√ºr den Gesamtverlust der Finger bei reizlosen Stumpfverh√§ltnissen. Bei Verlust einzelner Fingerglieder sind sie herabzusetzen, bei schlechten Stumpfverh√§ltnissen zu erh√∂hen.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Fingerst√ºmpfe im Mittel- und Endgelenk k√∂nnen schmerzhafte Narbenbildung und ung√ºnstige Weichteildeckung zeigen. Empfindungsst√∂rungen an den Fingern, besonders an Daumen und Zeigefinger, k√∂nnen die Gebrauchsf√§higkeit der Hand wesentlich beeintr√§chtigen.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Nervenausf√§lle (vollst√§ndig)
 
-†
+
 
 Armplexus
 
@@ -9851,15 +9851,15 @@ N. musculocutaneus
 
 N. radialis
 
-†
 
-†
+
+
 
 ganzer Nerv
 
 30
 
-†
+
 
 mittlerer Bereich oder distal
 
@@ -9867,9 +9867,9 @@ mittlerer Bereich oder distal
 
 N. ulnaris
 
-†
 
-†
+
+
 
 proximal oder distal
 
@@ -9877,15 +9877,15 @@ proximal oder distal
 
 N. medianus
 
-†
 
-†
+
+
 
 proximal
 
 40
 
-†
+
 
 distal
 
@@ -9911,35 +9911,35 @@ Nn. radialis, ulnaris und medianus im Vorderarmbereich
 
 60
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Trophische St√∂rungen sind zus√§tzlich zu ber√ºcksichtigen; Teilausf√§lle der genannten Nerven sind entsprechend geringer zu bewerten.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 18.14 Sch√§den der unteren Gliedma√üen
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 Verlust beider Beine im Oberschenkel
 
@@ -9959,199 +9959,199 @@ Verlust eines Beines im H√ºftgelenk oder mit sehr kurzem Oberschenkelstumpf
 
 Unter einem sehr kurzen Oberschenkelstumpf ist ein Stumpf zu verstehen, der eine gleiche Funktionseinbu√üe wie der Verlust des Beines im H√ºftgelenk bedingt. Das ist immer dann der Fall, wenn die Absetzungsebene in H√∂he des Trochanter minor liegt.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Verlust eines Beines im Oberschenkel (einschlie√ülich Absetzung nach Gritti)
 
 70
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Notwendigkeit der Entlastung des ganzen Beines (z. B. Sitzbeinabst√ºtzung)
 
 70
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Verlust eines Beines im Unterschenkel bei gen√ºgender Funktionst√ºchtigkeit des Stumpfes und der Gelenke
 
 50
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Notwendigkeit der Entlastung eines Unterschenkels (z. B. Schienbeinkopfabst√ºtzung)
 
 50
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Verlust eines Beines im Unterschenkel bei ungen√ºgender Funktionst√ºchtigkeit des Stumpfes und der Gelenke
 
 60
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Verlust beider Beine im Unterschenkel
 
 80
 
-†
+
 
 bei einseitig ung√ºnstigen Stumpfverh√§ltnissen
 
 90
 
-†
+
 
 bei beidseitig ung√ºnstigen Stumpfverh√§ltnissen
 
 100
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Teilverlust eines Fu√ües, Absetzung
 
-†
 
-†
+
+
 
 nach Pirogow
 
-†
 
-†
 
-†
+
+
+
 
 einseitig, guter Stumpf
 
 40
 
-†
 
-†
+
+
 
 beidseitig
 
 70
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 nach Chopart
 
-†
 
-†
 
-†
+
+
+
 
 einseitig, guter Stumpf
 
 30
 
-†
 
-†
+
+
 
 einseitig, mit Fu√üfehlstellung
 
 30-50
 
-†
 
-†
+
+
 
 beidseitig
 
 60
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 nach Lisfranc oder im Bereich der Mittelfu√üknochen nach Sharp
 
-†
 
-†
+
+
 
 einseitig, guter Stumpf
 
 30
 
-†
+
 
 einseitig, mit Fu√üfehlstellung
 
 30-40
 
-†
+
 
 beidseitig
 
 50
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Verlust einer Zehe
 
@@ -10183,167 +10183,167 @@ Versteifung beider H√ºftgelenke je nach Stellung
 
 Versteifung eines H√ºftgelenks
 
-†
 
-†
+
+
 
 in g√ºnstiger Stellung
 
 40
 
-†
+
 
 Die Versteifung eines H√ºftgelenks in leichter Abspreizstellung von ca. 10¬∞, mittlerer Drehstellung und leichter Beugestellung gilt als g√ºnstig.
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
 
 in ung√ºnstiger Stellung
 
 50-60
 
-†
+
 
 Ung√ºnstig sind H√ºftgelenkversteifungen in st√§rkerer Adduktions-, Abduktions- oder Beugestellung.
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 Bewegungseinschr√§nkung der H√ºftgelenke
 
-†
 
-†
+
+
 
 geringen Grades
 
-†
 
-†
+
+
 
 (z. B. Streckung/Beugung bis zu 0-10-90 mit entsprechender Einschr√§nkung der Dreh- und Spreizf√§higkeit)
 
-†
 
-†
 
-†
+
+
+
 
 einseitig
 
 10-20
 
-†
 
-†
+
+
 
 beidseitig
 
 20-30
 
-†
+
 
 mittleren Grades
 
-†
 
-†
+
+
 
 (z. B. Streckung/Beugung bis zu 0-30-90 mit entsprechender Einschr√§nkung der Dreh- und Spreizf√§higkeit)
 
-†
 
-†
 
-†
+
+
+
 
 einseitig
 
 30
 
-†
 
-†
+
+
 
 beidseitig
 
 50
 
-†
+
 
 st√§rkeren Grades
 
-†
 
-†
 
-†
+
+
+
 
 einseitig
 
 40
 
-†
 
-†
+
+
 
 beidseitig
 
 60-100
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 H√ºftdysplasie (einschlie√ülich sogenannte angeborene H√ºftluxation)
 
-†
 
-†
+
+
 
 f√ºr die Dauer der vollst√§ndigen Immobilisierung
 
 100
 
-†
+
 
 danach bis zum Abschluss der Spreizbehandlung
 
 50
 
-†
+
 
 Anschlie√üend und bei unbehandelten F√§llen richtet sich der GdS nach der Instabilit√§t und der Funktionsbeeintr√§chtigung.
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 H√ºftgelenksresektion je nach Funktionsst√∂rung
 
@@ -10353,85 +10353,85 @@ Schnappende H√ºfte
 
 0-10
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Beinverk√ºrzung
 
-†
 
-†
+
+
 
 bis 2,5 cm
 
 0
 
-†
+
 
 √ºber 2,5 cm bis 4 cm
 
 10
 
-†
+
 
 √ºber 4 cm bis 6 cm
 
 20
 
-†
+
 
 √ºber 6 cm
 
 wenigstens 30
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Oberschenkelpseudarthrose
 
-†
 
-†
+
+
 
 straff
 
 50
 
-†
+
 
 schlaff
 
 70
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Faszienl√ºcke (Muskelhernie) am Oberschenkel
 
 0-10
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Versteifung beider Kniegelenke
 
@@ -10439,595 +10439,595 @@ Versteifung beider Kniegelenke
 
 Versteifung eines Kniegelenks
 
-†
 
-†
+
+
 
 in g√ºnstiger Stellung (Beugestellung von 10-15¬∞)
 
 30
 
-†
+
 
 in ung√ºnstiger Stellung
 
 40-60
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Lockerung des Kniebandapparates
 
-†
 
-†
+
+
 
 muskul√§r kompensierbar
 
 10
 
-†
+
 
 unvollst√§ndig kompensierbar, Gangunsicherheit
 
 20
 
-†
+
 
 Versorgung mit einem St√ºtzapparat, je nach Achsenfehlstellung
 
 30-50
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Kniescheibenbruch
 
-†
 
-†
+
+
 
 nicht kn√∂chern verheilt ohne Funktionseinschr√§nkung des Streckapparates
 
 10
 
-†
+
 
 nicht kn√∂chern verheilt mit Funktionseinschr√§nkung des Streckapparates
 
 20-40
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Habituelle Kniescheibenverrenkung
 
-†
 
-†
+
+
 
 seltene Ausrenkung (in Abst√§nden von 1 Jahr und mehr)
 
 0-10
 
-†
+
 
 h√§ufiger
 
 20
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Bewegungseinschr√§nkung im Kniegelenk
 
-†
 
-†
+
+
 
 geringen Grades (z. B. Streckung/Beugung bis 0-0-90)
 
-†
 
-†
 
-†
+
+
+
 
 einseitig
 
 0-10
 
-†
 
-†
+
+
 
 beidseitig
 
 10-20
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 mittleren Grades (z. B. Streckung/Beugung 0-10-90)
 
-†
 
-†
 
-†
+
+
+
 
 einseitig
 
 20
 
-†
 
-†
+
+
 
 beidseitig
 
 40
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 st√§rkeren Grades (z. B. Streckung/Beugung 0-30-90)
 
-†
 
-†
 
-†
+
+
+
 
 einseitig
 
 30
 
-†
 
-†
+
+
 
 beidseitig
 
 50
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 Ausgepr√§gte Knorpelsch√§den der Kniegelenke (z. B. Chondromalacia patellae Stadium II - IV) mit anhaltenden Reizerscheinungen, einseitig
 
-†
 
-†
 
-†
+
+
+
 
 ohne Bewegungseinschr√§nkung
 
 10-30
 
-†
 
-†
+
+
 
 mit Bewegungseinschr√§nkung
 
 20-40
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Schienbeinpseudarthrose
 
-†
 
-†
+
+
 
 straff
 
 20-30
 
-†
+
 
 schlaff
 
 40-50
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Teilverlust oder Pseudarthrose des Wadenbeins
 
 0-10
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Versteifung des oberen Sprunggelenks in g√ºnstiger Stellung (Plantarflexion um 5¬∞ bis 15¬∞)
 
 20
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Versteifung des unteren Sprunggelenks in g√ºnstiger Stellung (Mittelstellung)
 
 10
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Versteifung des oberen und unteren Sprunggelenks
 
-†
 
-†
+
+
 
 in g√ºnstiger Stellung
 
 30
 
-†
+
 
 in ung√ºnstiger Stellung
 
 40
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Bewegungseinschr√§nkung im oberen Sprunggelenk
 
-†
 
-†
+
+
 
 geringen Grades
 
 0
 
-†
+
 
 mittleren Grades (Heben/Senken 0-0-30)
 
 10
 
-†
+
 
 st√§rkeren Grades
 
 20
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Bewegungseinschr√§nkung im unteren Sprunggelenk
 
 0-10
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Klumpfu√ü je nach Funktionsst√∂rung
 
-†
 
-†
+
+
 
 einseitig
 
 20-40
 
-†
+
 
 beidseitig
 
 30-60
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Andere Fu√üdeformit√§ten
 
-†
 
-†
+
+
 
 ohne wesentliche statische Auswirkungen (z. B. Senk-Spreizfu√ü, Hohlfu√ü, Knickfu√ü, auch posttraumatisch)
 
 0
 
-†
+
 
 mit statischer Auswirkung je nach Funktionsst√∂rung
 
-†
 
-†
 
-†
+
+
+
 
 geringen Grades
 
 10
 
-†
 
-†
+
+
 
 st√§rkeren Grades
 
 20
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Versteifung aller Zehen eines Fu√ües
 
-†
 
-†
+
+
 
 in g√ºnstiger Stellung
 
 10
 
-†
+
 
 in ung√ºnstiger Stellung
 
 20
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Versteifungen oder Verkr√ºmmungen von Zehen au√üer der Gro√üzehe
 
 0
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Versteifung der Gro√üzehengelenke
 
-†
 
-†
+
+
 
 in g√ºnstiger Stellung
 
 0-10
 
-†
+
 
 in ung√ºnstiger Stellung (z. B. Plantarflexion im Grundgelenk √ºber 10¬∞)
 
 20
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Narben nach gr√∂√üeren Substanzverlusten an Ferse und Fu√üsohle
 
-†
 
-†
+
+
 
 mit geringer Funktionsbehinderung
 
 10
 
-†
+
 
 mit starker Funktionsbehinderung
 
 20-30
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Nervenausf√§lle (vollst√§ndig)
 
-†
 
-†
+
+
 
 Plexus lumbosacralis
 
 80
 
-†
+
 
 N. glutaeus superior
 
 20
 
-†
+
 
 N. glutaeus inferior
 
 20
 
-†
+
 
 N. cutaneus femoralis lat
 
 10
 
-†
+
 
 N. femoralis
 
 40
 
-†
+
 
 N. ischiadicus
 
-†
 
-†
 
-†
+
+
+
 
 proximal
 
 60
 
-†
 
-†
+
+
 
 distal (Ausfall der Nn. peronaeus communis und tibialis)
 
 50
 
-†
+
 
 N. peronaeus communis oder profundus
 
 30
 
-†
+
 
 N. peronaeus superficialis
 
 20
 
-†
+
 
 N. tibialis
 
 30
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Trophische St√∂rungen sind zus√§tzlich zu ber√ºcksichtigen. Teilausf√§lle der genannten Nerven sind entsprechend geringer zu bewerten.
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 V√∂llige Gebrauchsunf√§higkeit eines Beines
 
@@ -11149,7 +11149,7 @@ V√∂llige Gebrauchsunf√§higkeit eines Beines
   - f) :: St√∂rungen der Orientierungsf√§higkeit, die zu einer erheblichen Beeintr√§chtigung der Bewegungsf√§higkeit f√ºhren, sind bei allen Sehbehinderungen mit einem GdB von wenigstens 70 und bei Sehbehinderungen, die einen GdB von 50 oder 60 bedingen, nur in Kombination mit erheblichen St√∂rungen der Ausgleichsfunktion (z. B. hochgradige Schwerh√∂rigkeit beiderseits, geistige Behinderung) anzunehmen. Bei H√∂rbehinderungen ist die Annahme solcher St√∂rungen nur bei Taubheit oder an Taubheit grenzender Schwerh√∂rigkeit im Kindesalter (in der Regel bis zum 16. Lebensjahr) oder im Erwachsenenalter bei diesen H√∂rst√∂rungen in Kombination mit erheblichen St√∂rungen der Ausgleichsfunktion (z. B. Sehbehinderung, geistige Behinderung) gerechtfertigt. Bei geistig behinderten Menschen sind entsprechende St√∂rungen der Orientierungsf√§higkeit vorauszusetzen, wenn die behinderten Menschen sich im Stra√üenverkehr auf Wegen, die sie nicht t√§glich benutzen, nur schwer zurechtfinden k√∂nnen. Unter diesen Umst√§nden ist eine erhebliche Beeintr√§chtigung der Bewegungsf√§higkeit bei geistigen Behinderungen mit einem GdB von 100 immer und mit einem GdB von 80 oder 90 in den meisten F√§llen zu bejahen. Bei einem GdB unter 80 kommt eine solche Beeintr√§chtigung der Bewegungsf√§higkeit nur in besonders gelagerten Einzelf√§llen in Betracht.
 - 2. :: Berechtigung f√ºr eine st√§ndige Begleitung (Merkzeichen B)
   - a) :: F√ºr die unentgeltliche Bef√∂rderung einer Begleitperson ist nach dem SGB IX die Berechtigung f√ºr eine st√§ndige Begleitung zu beurteilen. Auch bei S√§uglingen und Kleinkindern ist die gutachtliche Beurteilung der Berechtigung f√ºr eine st√§ndige Begleitung erforderlich. F√ºr die Beurteilung sind dieselben Kriterien wie bei Erwachsenen mit gleichen Gesundheitsst√∂rungen ma√ügebend. Es ist nicht zu pr√ºfen, ob tats√§chlich diesbez√ºgliche behinderungsbedingte Nachteile vorliegen oder behinderungsbedingte Mehraufwendungen entstehen.
-  - b) :: Eine Berechtigung f√ºr eine st√§ndige Begleitung ist bei schwerbehinderten Menschen (bei denen die Voraussetzungen f√ºr die Merkzeichen ‚ÄG", ‚ÄGl" oder ‚ÄH" vorliegen) gegeben, die bei der Benutzung von √∂ffentlichen Verkehrsmitteln infolge ihrer Behinderung regelm√§√üig auf fremde Hilfe angewiesen sind. Dementsprechend ist zu beachten, ob sie bei der Benutzung √∂ffentlicher Verkehrsmittel regelm√§√üig auf fremde Hilfe beim Ein- und Aussteigen oder w√§hrend der Fahrt des Verkehrsmittels angewiesen sind oder ob Hilfen zum Ausgleich von Orientierungsst√∂rungen (z. B. bei Sehbehinderung, geistiger Behinderung) erforderlich sind.
+  - b) :: Eine Berechtigung f√ºr eine st√§ndige Begleitung ist bei schwerbehinderten Menschen (bei denen die Voraussetzungen f√ºr die Merkzeichen G", Gl" oder H" vorliegen) gegeben, die bei der Benutzung von √∂ffentlichen Verkehrsmitteln infolge ihrer Behinderung regelm√§√üig auf fremde Hilfe angewiesen sind. Dementsprechend ist zu beachten, ob sie bei der Benutzung √∂ffentlicher Verkehrsmittel regelm√§√üig auf fremde Hilfe beim Ein- und Aussteigen oder w√§hrend der Fahrt des Verkehrsmittels angewiesen sind oder ob Hilfen zum Ausgleich von Orientierungsst√∂rungen (z. B. bei Sehbehinderung, geistiger Behinderung) erforderlich sind.
   - c) :: Die Berechtigung f√ºr eine st√§ndige Begleitung ist anzunehmen bei
     -  :: Querschnittgel√§hmten,
     -  :: Ohnh√§ndern,

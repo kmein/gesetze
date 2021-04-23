@@ -13,11 +13,11 @@ Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des Berufsbildungsgesetzes, v
 Der Ausbildungsberuf Medientechnologe Druck und Medientechnologin Druck wird
 
 - 1. :: nach § 4 Absatz 1 des Berufsbildungsgesetzes und
-- 2. :: nach § 25 der Handwerksordnung für die Ausbildung für das Gewerbe Nummer 40 �Buchdrucker: Schriftsetzer; Drucker“ der Anlage B 1 der Handwerksordnung
+- 2. :: nach § 25 der Handwerksordnung für die Ausbildung für das Gewerbe Nummer 40 Buchdrucker: Schriftsetzer; Drucker“ der Anlage B 1 der Handwerksordnung
 
 staatlich anerkannt.
 
-§ 1 Nr. 2 Kursivdruck: Müsste richtig �Anlage B Abschnitt 1“ lauten
+§ 1 Nr. 2 Kursivdruck: Müsste richtig Anlage B Abschnitt 1“ lauten
 
 § 2 - Dauer der Berufsausbildung
 
@@ -198,14 +198,14 @@ statt.
 
 (2) Die Abschluss- oder Gesellenprüfung ist bestanden, wenn die Leistungen
 
-- 1. :: im Gesamtergebnis mit mindestens �ausreichend“,
-- 2. :: im Prüfungsbereich Druckproduktion mit mindestens �ausreichend“,
-- 3. :: in mindestens zwei weiteren Prüfungsbereichen mit mindestens �ausreichend“ und
-- 4. :: in keinem Prüfungsbereich mit �ungenügend“
+- 1. :: im Gesamtergebnis mit mindestens ausreichend“,
+- 2. :: im Prüfungsbereich Druckproduktion mit mindestens ausreichend“,
+- 3. :: in mindestens zwei weiteren Prüfungsbereichen mit mindestens ausreichend“ und
+- 4. :: in keinem Prüfungsbereich mit ungenügend“
 
 bewertet worden sind.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der schlechter als �ausreichend“ bewerteten Prüfungsbereiche �Auftragsplanung und Kommunikation“ oder �Prozesstechnologie“ oder �Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der schlechter als ausreichend“ bewerteten Prüfungsbereiche Auftragsplanung und Kommunikation“ oder Prozesstechnologie“ oder Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 § 9 - Zusatzqualifikation
 
@@ -284,7 +284,7 @@ Abschnitt A Nummer 1)
 
 22
 
-�
+
 
 2
 
@@ -302,7 +302,7 @@ Abschnitt A Nummer 2)
 
 28
 
-�
+
 
 3
 
@@ -319,7 +319,7 @@ Abschnitt A Nummer 3)
 
 28
 
-�
+
 
 4
 
@@ -336,7 +336,7 @@ Abschnitt A Nummer 4)
 - f) :: Farbwirkung im Zusammenspiel mit Bedruckstoff und Beleuchtung beurteilen
 - g) :: Farbräume und Farbsysteme anwenden, Standards und Normen beachten
 
-�
+
 
 10
 
@@ -352,7 +352,7 @@ Abschnitt A Nummer 5)
 - d) :: Grundeinstellungen der Druckmaschine überprüfen, Maschine nach Vorgaben justieren
 - e) :: Wartung durchführen, Verschleißteile austauschen
 
-�
+
 
 10\\
 \\
@@ -360,16 +360,16 @@ Abschnitt A Nummer 5)
 \\
 \\
 
-�
 
-�
+
+
 
 - f) :: Sicherheitseinrichtungen auf ihre Wirksamkeit überprüfen
 - g) :: Änderungen an Maschineneinstellungen und Austausch von Maschinenteilen sowie Prüfergebnisse dokumentieren
 
-�
 
-�
+
+
 
 Abschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten aus den Wahlqualifikationen
 1. Auswahlliste I (Wahlqualifikationen nach § 3 Nummer 2)
@@ -414,7 +414,7 @@ Nummer I.1)
 - d) :: Revisionsmuster erstellen und prüfen
 - e) :: Produktionsdaten sichern und archivieren
 
-�
+
 
 13
 
@@ -430,7 +430,7 @@ Nummer I.2)
 - c) :: Druckformen manuell und maschinell für die Aufnahme des Druckbildes vorbereiten
 - d) :: Druckformen für den Einsatz im speziellen traditionellen Druckverfahren prüfen
 
-�
+
 
 13
 
@@ -449,7 +449,7 @@ Nummer I.3)
 - f) :: Formproof erstellen und prüfen
 - g) :: Druckformen herstellen, visuell und messtechnisch prüfen
 
-�
+
 
 13
 
@@ -469,7 +469,7 @@ Nummer I.4)
 - f) :: Belichtungskurven einsetzen und Druckkennlinien berücksichtigen
 - g) :: Druckformen herstellen, visuell und messtechnisch prüfen
 
-�
+
 
 13
 
@@ -485,7 +485,7 @@ Nummer I.5)
 - c) :: Plus- und Minuskorrekturen ausführen, Druckergebnis nach Korrektur beurteilen
 - d) :: Zylinderpolituren ausführen
 
-�
+
 
 13
 
@@ -504,7 +504,7 @@ Nummer I.6)
 - f) :: Druckzylinder einheben und Graviersysteme vorbereiten
 - g) :: gravierten Zylinder kontrollieren und für den Druck vorbereiten
 
-�
+
 
 13
 
@@ -522,7 +522,7 @@ Nummer I.7)
 - e) :: Druckformen für mehrfarbige Drucke, insbesondere unter Beachtung von Passer und originalgetreuer Farbtonwiedergabe, herstellen
 - f) :: Andruck erstellen und bei Bedarf Druckbild nachbearbeiten
 
-�
+
 
 13
 
@@ -539,20 +539,20 @@ Nummer I.8)
 - b) :: steuerungs- und regelungstechnische Einrichtungen pflegen und justieren
 - c) :: Steuerungskennlinien auswählen und an veränderte Produktionsbedingungen anpassen
 
-�
+
 
 13
 
-�
 
-�
+
+
 
 - d) :: Regelungsprozesse kontrollieren, gegebenenfalls produktspezifisch manuell korrigieren
 - e) :: Peripheriegeräte, insbesondere Luftversorgung und Feuchtmittelaufbereitung, kontrollieren, einstellen und warten
 
-�
 
-�
+
+
 
 I.9
 
@@ -571,7 +571,7 @@ Nummer I.9)
 - f) :: Längs-, Seiten-, Haupt- und Nebenregister einstellen
 - g) :: Wendesysteme einstellen
 
-�
+
 
 13
 
@@ -589,7 +589,7 @@ Nummer I.10)
 - c) :: Produktionsüberwachungssysteme nutzen, bei Bedarf Maßnahmen zur Korrektur durchführen
 - d) :: Daten der Produktion ermitteln und protokollieren
 
-�
+
 
 13
 
@@ -606,7 +606,7 @@ Nummer I.11)
 - d) :: Probedruck visuell und messtechnisch auf Übereinstimmung mit den Vorgaben überprüfen
 - e) :: systemspezifische Wartungs- und Reinigungsarbeiten ausführen
 
-�
+
 
 13
 
@@ -625,7 +625,7 @@ Nummer I.12)
 - f) :: Mailings entsprechend den Vorgaben verarbeiten und verpacken
 - g) :: Produktionsabläufe und Produktionsdaten unter Beachtung datenschutzrechtlicher Vorgaben dokumentieren und Daten archivieren
 
-�
+
 
 13
 
@@ -644,7 +644,7 @@ Nummer I.13)
 - f) :: veredeltes Druckprodukt, insbesondere auf Trocknung, Glanz, Block- und Scheuerfestigkeit, prüfen
 - g) :: Veredelungsprozess dokumentieren
 
-�
+
 
 13
 
@@ -662,7 +662,7 @@ Nummer I.14)
 - e) :: Qualitätsprüfungen im Prozess durchführen und das Zusammenwirken von Druck, Veredelung sowie der Verarbeitung optimieren
 - f) :: Verwendbarkeit und Qualität des veredelten Endproduktes beurteilen
 
-�
+
 
 13
 
@@ -678,7 +678,7 @@ Nummer I.15)
 - c) :: Störungen an Aggregaten beseitigen und Beseitigung veranlassen
 - d) :: Aggregate warten und pflegen
 
-�
+
 
 13
 
@@ -697,7 +697,7 @@ Nummer I.16)
 - f) :: Arbeitsergebnisse prüfen und beurteilen, Qualitätskontrolle nach Kundenvorgaben und Qualitätsstandards durchführen
 - g) :: Produkte material- und transportgerecht lagern
 
-�
+
 
 13
 
@@ -715,7 +715,7 @@ Nummer I.17)
 - e) :: Produkte material- und transportgerecht lagern
 - f) :: Maschinen, Geräte und Werkzeuge der Verarbeitung pflegen und warten
 
-�
+
 
 13
 
@@ -738,7 +738,7 @@ Nummer I.18)
 - g) :: Farb- und Feuchtwalzen wechseln und justieren
 - h) :: Instandhaltungsarbeiten an Zusatzaggregaten oder Trocknersystemen durchführen
 
-�
+
 
 13
 
@@ -761,7 +761,7 @@ Nummer I.19)
 - g) :: Greifer, Schneidmesser und Falzmesser austauschen
 - h) :: Transport- und Verzögerungsbänder einziehen und einstellen, Zug- und Reibräder austauschen
 
-�
+
 
 13
 
@@ -783,7 +783,7 @@ Nummer I.20)
 - f) :: Instandhaltungsarbeiten an Zusatzaggregaten und Trocknersystemen durchführen
 - g) :: Bahnführungs- und Bahnspannungseinrichtungen kontrollieren, warten und einstellen
 
-�
+
 
 13
 
@@ -804,7 +804,7 @@ Anwenden einer weiteren Druckverfahrenstechnik aus den Bereichen Offsetdruck, Ho
 - f) :: mehrfarbige Drucksache einrichten, andrucken und mit der Vorlage abstimmen, laufende Produktion steuern und überwachen
 - g) :: Druckergebnis, insbesondere auf Ton- und Farbwertrichtigkeit sowie Passer, prüfen
 
-�
+
 
 13
 
@@ -846,13 +846,13 @@ Nummer II.1)
 - a) :: Bogenoffsetmaschinen auf unterschiedliche Bedruckstoffarten einstellen
 - b) :: Drucktücher auswählen, Druckabwicklung prüfen und einstellen
 
-�
 
-�
 
-�
 
-�
+
+
+
+
 
 - c) :: Farbreihenfolge bei Mehrfarbdrucken nach drucktechnischen Erfordernissen und Standardisierungsvorgaben bestimmen
 - d) :: Grundeinstellung von Farb- und Feuchtwerk durchführen, Einstellungen für den Druckauftrag optimieren
@@ -863,7 +863,7 @@ Nummer II.1)
 - i) :: Fehler im Druckergebnis und Störungen im Maschinenablauf sowie in der Bogenführung erkennen und Ursachen beseitigen
 - j) :: Maschinenlauf überwachen und optimieren, störungsfreien Lauf der Druckmaschine sicherstellen
 
-�
+
 
 26\\
 \\
@@ -887,7 +887,7 @@ Nummer II.2)
 - j) :: Farborte und Tonwerte des Druckergebnisses prüfen, Druckkennlinie der Druckmaschine ermitteln, Prozessnormen und Standardisierungsvorgaben für den Rollenoffsetdruck berücksichtigen
 - k) :: Maschinenlauf überwachen und optimieren, störungsfreien Lauf der Druckmaschine sicherstellen
 
-�
+
 
 26
 
@@ -909,7 +909,7 @@ Nummer II.3)
 - i) :: farbige Mehrbuchproduktion durchführen
 - j) :: Maschinenlauf überwachen und optimieren, störungsfreien Lauf der Druckmaschine sicherstellen
 
-�
+
 
 26
 
@@ -930,7 +930,7 @@ Nummer II.4)
 - h) :: Farborte und Tonwerte des Druckergebnisses prüfen, Druckkennlinie der Druckmaschine ermitteln, Prozessnormen und Standardisierungsvorgaben für den Formulardruck berücksichtigen
 - i) :: Maschinenlauf überwachen und optimieren, störungsfreien Lauf der Druckmaschine sicherstellen
 
-�
+
 
 26
 
@@ -954,7 +954,7 @@ Nummer II.5)
 - k) :: elektrostatische Aufladung der Papierbahn im Druckwerk regulieren, Papierstranghaftung und Silikonauftragswerk einsetzen
 - l) :: Maschinenlauf überwachen und optimieren, störungsfreien Lauf der Druckmaschine sicherstellen
 
-�
+
 
 26
 
@@ -977,7 +977,7 @@ Nummer II.6)
 - j) :: Maschinenlauf überwachen und optimieren, störungsfreien Lauf der Druckmaschine sicherstellen
 - k) :: Maschinenparameter und Auftragsdaten für Wiederholungsdrucke archivieren
 
-�
+
 
 26
 
@@ -1000,7 +1000,7 @@ Nummer II.7)
 - j) :: Maschinenlauf überwachen und optimieren, störungsfreien Lauf der Druckmaschine sicherstellen
 - k) :: Maschinenparameter und Auftragsdaten für Wiederholungsdrucke archivieren
 
-�
+
 
 26
 
@@ -1022,7 +1022,7 @@ Nummer II.8)
 - i) :: Qualitätskontrollen nach Normen und Spezifikationen durchführen und bewerten, verpackungsspezifische Prüfmethoden anwenden
 - j) :: Maschinenlauf überwachen und optimieren, störungsfreien Lauf der Verpackungsdruckmaschine sicherstellen
 
-�
+
 
 26
 
@@ -1051,7 +1051,7 @@ Nummer II.9)
 - p) :: Etiketten auf Verarbeitungsfähigkeit prüfen
 - q) :: bedruckte Etikettenrollen material- und transportgerecht lagern
 
-�
+
 
 26
 
@@ -1070,13 +1070,13 @@ Nummer II.10)
 - f) :: mechanische Antriebseinrichtungen an Formatzylindern und Rasterwalzen montieren
 - g) :: Flexodruckmaschine einschließlich Zusatzaggregaten einrichten, dabei verfahrens- und produktspezifische Besonderheiten berücksichtigen
 
-�
 
-�
 
-�
 
-�
+
+
+
+
 
 - h) :: Druckmaschinenparameter prozessorientiert einstellen
 - i) :: Flexodruckmaschine anfahren, insbesondere Materiallauf, Druckbeistellung, Register, Passer und Druckfarben, aufeinander abstimmen und optimieren
@@ -1087,7 +1087,7 @@ Nummer II.10)
 - n) :: Maschinenparameter, Auftragsdaten und Druckformen für Wiederholungsaufträge archivieren
 - o) :: Druckprodukte material- und transportgerecht lagern
 
-�
+
 
 \\
 26
@@ -1109,7 +1109,7 @@ Nummer II.11)
 - h) :: Drucke anfertigen, Druckprozess visuell und messtechnisch auf Übereinstimmung mit den Vorgaben überprüfen
 - i) :: systemspezifische Wartungs- und Reinigungsarbeiten ausführen
 
-�
+
 
 26
 
@@ -1130,7 +1130,7 @@ Nummer II.12)
 - g) :: Produktionsdaten sichern und archivieren
 - h) :: Druckprodukte material- und transportgerecht lagern
 
-�
+
 
 26
 
@@ -1154,7 +1154,7 @@ Nummer II.13)
 - j) :: Druckformen nachbearbeiten und archivieren
 - k) :: Druckergebnisse dokumentieren
 
-�
+
 
 26
 
@@ -1200,7 +1200,7 @@ Nummer 1)
 - d) :: wesentliche Teile des Arbeitsvertrages nennen
 - e) :: wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
-�
+
 
 2
 
@@ -1216,7 +1216,7 @@ Nummer 2)
 - c) :: Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 - d) :: Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
-�
+
 
 3
 
@@ -1235,14 +1235,14 @@ der gesamten\\
 Ausbildungszeit\\
 zu vermitteln
 
-�
 
-�
+
+
 
 - c) :: Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 - d) :: Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen der Brandbekämpfung ergreifen
 
-�
+
 
 4
 
@@ -1258,7 +1258,7 @@ Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsber
 - c) :: Möglichkeiten der wirtschaftlichen und umweltschonende Energie- und Materialverwendung nutzen
 - d) :: Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
-�
+
 
 5
 
@@ -1279,8 +1279,8 @@ Nummer 5)
 - i) :: Teambesprechungen durchführen, Sachverhalte und Lösungen visualisieren und präsentieren, Gesprächsergebnisse dokumentieren, deutsche und englische Fachbegriffe anwenden
 - j) :: mit vor- und nachgelagerten Bereichen und externen Partnern kommunizieren, Übergabeprozesse abstimmen, Reklamationen beurteilen
 
-�
+
 
 6
 
-Anlage Abschn. B Nr. I.6 Sp. 3 Buchst. c Kursivdruck: Müsste richtig �Zuordnungsschema“ lauten
+Anlage Abschn. B Nr. I.6 Sp. 3 Buchst. c Kursivdruck: Müsste richtig Zuordnungsschema“ lauten

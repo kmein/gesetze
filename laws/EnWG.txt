@@ -34,11 +34,11 @@ Anzeige der Energiebelieferung
 Speicherungspflichten, Veröffentlichung von Daten
 § 5b
 Anzeige von Verdachtsfällen, Verschwiegenheitspflichten
-�
+
 Teil 2
 Entflechtung
-�
-�
+
+
 Abschnitt 1
 Gemeinsame Vorschriften für Verteilernetzbetreiber und Transportnetzbetreiber
 § 6
@@ -51,7 +51,7 @@ Rechnungslegung und Buchführung
 Ordnungsgeldvorschriften
 § 6d
 Betrieb eines Kombinationsnetzbetreibers
-�
+
 Abschnitt 2
 Entflechtung von Verteilernetzbetreibern und Betreibern von Speicheranlagen
 § 7
@@ -60,7 +60,7 @@ Rechtliche Entflechtung von Verteilernetzbetreibern
 Operationelle Entflechtung von Verteilernetzbetreibern
 § 7b
 Entflechtung von Speicheranlagenbetreibern und Transportnetzeigentümern
-�
+
 Abschnitt 3
 Besondere Entflechtungsvorgaben für Transportnetzbetreiber
 § 8
@@ -79,10 +79,10 @@ Unabhängigkeit des Personals und der Unternehmensleitung des Unabhängigen Tran
 Aufsichtsrat des Unabhängigen Transportnetzbetreibers
 § 10e
 Gleichbehandlungsprogramm und Gleichbehandlungsbeauftragter des Unabhängigen Transportnetzbetreibers
-�
+
 Teil 3
 Regulierung des Netzbetriebs
-�
+
  Abschnitt 1
  Aufgaben der Netzbetreiber
 § 11
@@ -145,7 +145,7 @@ Umsetzungsbericht der Fernleitungsnetzbetreiber
 Systemverantwortung der Betreiber von Fernleitungsnetzen
 § 16a
 Aufgaben der Betreiber von Gasverteilernetzen
-�
+
  Abschnitt 2
  Netzanschluss
 § 17
@@ -176,7 +176,7 @@ Allgemeine Anschlusspflicht
 Technische Vorschriften
 § 19a
 Umstellung der Gasqualität; Verordnungsermächtigung
-�
+
  Abschnitt 3
  Netzzugang, Messstellenbetrieb
 § 20
@@ -227,7 +227,7 @@ Neue Infrastrukturen
 Bestandsleitungen zwischen Deutschland und einem Drittstaat
 § 28c
 Technische Vereinbarungen über den Betrieb von Gasverbindungsleitungen mit Drittstaaten
-�
+
 Abschnitt 4
 Befugnisse der Regulierungsbehörde, Sanktionen
 § 29
@@ -244,7 +244,7 @@ Vorteilsabschöpfung durch die Regulierungsbehörde
 (aufgehoben)
 § 35
 Monitoring und ergänzende Informationen
-�
+
 Teil 4
 Energielieferung an Letztverbraucher
 § 36
@@ -263,7 +263,7 @@ Energielieferverträge mit Haushaltskunden, Verordnungsermächtigung
 Stromkennzeichnung, Transparenz der Stromrechnungen, Verordnungsermächtigung
 § 42a
 Mieterstromverträge
-�
+
 Teil 5
 Planfeststellung, Wegenutzung
 § 43
@@ -312,7 +312,7 @@ Auskunftsanspruch der Gemeinde
 Rügeobliegenheit, Präklusion
 § 48
 Konzessionsabgaben
-�
+
 Teil 6
 Sicherheit und Zuverlässigkeit der Energieversorgung
 § 49
@@ -331,10 +331,10 @@ Ausschreibung neuer Erzeugungskapazitäten im Elektrizitätsbereich
 Sicherstellung der Versorgung von Haushaltskunden mit Erdgas
 § 53b
 (weggefallen)
-�
+
 Teil 7
 Behörden
-�
+
 Abschnitt 1
  Allgemeine Vorschriften
 § 54
@@ -357,7 +357,7 @@ Zusammenarbeit mit den Kartellbehörden
 Zusammenarbeit zur Durchführung der Verordnung (EU) Nr. 1227/2011
 § 58b
 Beteiligung der Bundesnetzagentur und Mitteilungen in Strafsachen
-�
+
 Abschnitt 2
 Bundesbehörden
 § 59
@@ -376,10 +376,10 @@ Berichterstattung
 Wissenschaftliche Beratung
 § 64a
 Zusammenarbeit zwischen den Regulierungsbehörden
-�
+
 Teil 8
 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren
-�
+
 Abschnitt 1
 Behördliches Verfahren
 § 65
@@ -408,7 +408,7 @@ Vorläufige Anordnungen
 Verfahrensabschluss, Begründung der Entscheidung, Zustellung
 § 74
 Veröffentlichung von Verfahrenseinleitungen und Entscheidungen
-�
+
 Abschnitt 2
 Beschwerde
 § 75
@@ -435,7 +435,7 @@ Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
 Akteneinsicht
 § 85
 Geltung von Vorschriften des Gerichtsverfassungsgesetzes und der Zivilprozessordnung
-�
+
 Abschnitt 3
 Rechtsbeschwerde
 § 86
@@ -444,7 +444,7 @@ Rechtsbeschwerdegründe
 Nichtzulassungsbeschwerde
 § 88
 Beschwerdeberechtigte, Form und Frist
-�
+
 Abschnitt 4
 Gemeinsame Bestimmungen
 § 89
@@ -459,7 +459,7 @@ Gebührenpflichtige Handlungen
 Beitrag
 § 93
 Mitteilung der Bundesnetzagentur
-�
+
 Abschnitt 5
 Sanktionen, Bußgeldverfahren
 § 94
@@ -482,7 +482,7 @@ Rechtsbeschwerde zum Bundesgerichtshof
 Wiederaufnahmeverfahren gegen Bußgeldbescheid
 § 101
 Gerichtliche Entscheidungen bei der Vollstreckung
-�
+
 Abschnitt 6
 Bürgerliche Rechtsstreitigkeiten
 § 102
@@ -493,7 +493,7 @@ Zuständigkeit eines Landgerichts für mehrere Gerichtsbezirke
 Benachrichtigung und Beteiligung der Regulierungsbehörde
 § 105
 Streitwertanpassung
-�
+
  Abschnitt 7
  Gemeinsame Bestimmungen für das gerichtliche Verfahren
 § 106
@@ -502,7 +502,7 @@ Zuständiger Senat beim Oberlandesgericht
 Zuständiger Senat beim Bundesgerichtshof
 § 108
 Ausschließliche Zuständigkeit
-�
+
 Teil 9
 Sonstige Vorschriften
 § 109
@@ -517,7 +517,7 @@ Verbraucherbeschwerden
 Schlichtungsstelle, Verordnungsermächtigung
 § 111c
 Zusammentreffen von Schlichtungsverfahren und Missbrauchs- oder Aufsichtsverfahren
-�
+
 Teil 9a
 Transparenz
 § 111d
@@ -526,7 +526,7 @@ Einrichtung einer nationalen Informationsplattform
 Marktstammdatenregister
 § 111f
 Verordnungsermächtigung zum Marktstammdatenregister
-�
+
 Teil 10
 Evaluierung, Schlussvorschriften
 § 112
@@ -554,7 +554,7 @@ Verwaltungsvorschriften
 § 118b
 Übergangsregelung zur Genehmigung von Batteriespeicheranlagen im Eigentum eines Betreibers von Übertragungsnetzen, Festlegungskompetenz
 § 119
-Verordnungsermächtigung für das Forschungs- und Entwicklungsprogramm �Schaufenster intelligente Energie -- Digitale Agenda für die Energiewende“
+Verordnungsermächtigung für das Forschungs- und Entwicklungsprogramm Schaufenster intelligente Energie -- Digitale Agenda für die Energiewende“
 § 120
 Schrittweiser Abbau der Entgelte für dezentrale Einspeisung; Übergangsregelung
 Anlage (zu § 13g)
@@ -2153,7 +2153,7 @@ Leitungen nach § 2 Absatz 1 des Netzausbaubeschleunigungsgesetzes Übertragungs
 (2) Auf Antrag des Trägers des Vorhabens können durch Planfeststellung durch die nach Landesrecht zuständige Behörde zugelassen werden:
 
 - 1. :: die für den Betrieb von Energieleitungen notwendigen Anlagen, insbesondere Konverterstationen, Phasenschieber, Verdichterstationen, Umspannanlagen und Netzverknüpfungspunkte, soweit sie in das Planfeststellungsverfahren für die Energieleitung integriert werden; dabei ist eine nachträgliche Integration in die Entscheidung zur Planfeststellung durch Planergänzungsverfahren möglich, solange die Entscheidung zur Planfeststellung gilt,
-- 2. :: die Errichtung und der Betrieb sowie die Änderung eines Erdkabels für Hochspannungsleitungen mit einer Nennspannung von 110 Kilovolt im Küstenbereich von Nord- und Ostsee, die in einem 20 Kilometer breiten Korridor, der längs der Küstenlinie landeinwärts verläuft, verlegt werden sollen; Küstenlinie ist die in der Seegrenzkarte Nummer 2920 �Deutsche Nordseeküste und angrenzende Gewässer“, Ausgabe 1994, XII, und in der Seegrenzkarte Nummer 2921 �Deutsche Ostseeküste und angrenzende Gewässer“, Ausgabe 1994, XII, des Bundesamtes für Seeschifffahrt und Hydrographie jeweils im Maßstab 1 : 375 000 dargestellte Küstenlinie,<<FnR.F807051_1>>[[#F807051_1][*]]}
+- 2. :: die Errichtung und der Betrieb sowie die Änderung eines Erdkabels für Hochspannungsleitungen mit einer Nennspannung von 110 Kilovolt im Küstenbereich von Nord- und Ostsee, die in einem 20 Kilometer breiten Korridor, der längs der Küstenlinie landeinwärts verläuft, verlegt werden sollen; Küstenlinie ist die in der Seegrenzkarte Nummer 2920 Deutsche Nordseeküste und angrenzende Gewässer“, Ausgabe 1994, XII, und in der Seegrenzkarte Nummer 2921 Deutsche Ostseeküste und angrenzende Gewässer“, Ausgabe 1994, XII, des Bundesamtes für Seeschifffahrt und Hydrographie jeweils im Maßstab 1 : 375 000 dargestellte Küstenlinie,<<FnR.F807051_1>>[[#F807051_1][*]]}
 - 3. :: die Errichtung und der Betrieb sowie die Änderung eines Erdkabels mit einer Nennspannung von 110 Kilovolt oder mehr zur Anbindung von Kraftwerken oder Pumpspeicherkraftwerken an das Elektrizitätsversorgungsnetz,
 - 4. :: die Errichtung und der Betrieb sowie die Änderung eines sonstigen Erdkabels für Hochspannungsleitungen mit einer Nennspannung von 110 Kilovolt oder weniger, ausgenommen Bahnstromfernleitungen,
 - 5. :: die Errichtung und der Betrieb sowie die Änderung einer Freileitung mit einer Nennspannung von unter 110 Kilovolt oder einer Bahnstromfernleitung, sofern diese Leitungen mit einer Leitung nach Absatz 1 Satz 1 Nummer 1, 2 oder 3 auf einem Mehrfachgestänge geführt werden und in das Planfeststellungsverfahren für diese Leitung integriert werden; Gleiches gilt für Erdkabel mit einer Nennspannung von unter 110 Kilovolt, sofern diese im räumlichen und zeitlichen Zusammenhang mit der Baumaßnahme eines Erdkabels nach Absatz 1 Satz 1 Nummer 2 bis 4 oder nach den Nummern 2 bis 4 mit verlegt werden,
@@ -3541,9 +3541,9 @@ Die Genehmigung ist auf den üblichen kalkulatorischen Abschreibungszeitraum der
 
 (3) Die Regulierungsbehörde wird ermächtigt, im Wege einer Festlegung nach § 29 Absatz 1 Vorgaben in Bezug auf die nähere Ausgestaltung des Genehmigungsverfahrens nach Absatz 2 zu machen.
 
-§ 119 - Verordnungsermächtigung für das Forschungs- und Entwicklungsprogramm �Schaufenster intelligente Energie – Digitale Agenda für die Energiewende“
+§ 119 - Verordnungsermächtigung für das Forschungs- und Entwicklungsprogramm Schaufenster intelligente Energie – Digitale Agenda für die Energiewende“
 
-(1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates für Teilnehmer an dem von der Bundesregierung geförderten Forschungs- und Entwicklungsprogramm �Schaufenster intelligente Energie -- Digitale Agenda für die Energiewende“ Regelungen zu treffen, die von den in Absatz 2 Nummer 1 bis 3 genannten Vorschriften abweichen oder Zahlungen im Rahmen dieser Vorschriften erstatten. Die Regelungen dürfen in folgenden Fällen getroffen werden:
+(1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates für Teilnehmer an dem von der Bundesregierung geförderten Forschungs- und Entwicklungsprogramm Schaufenster intelligente Energie -- Digitale Agenda für die Energiewende“ Regelungen zu treffen, die von den in Absatz 2 Nummer 1 bis 3 genannten Vorschriften abweichen oder Zahlungen im Rahmen dieser Vorschriften erstatten. Die Regelungen dürfen in folgenden Fällen getroffen werden:
 
 - 1. :: im Fall von Maßnahmen zur Gewährleistung der Sicherheit oder Zuverlässigkeit des Elektrizitätsversorgungssystems nach § 13 Absatz 1 und 2, § 14 Absatz 1 Satz 1 dieses Gesetzes und § 14 des Erneuerbare-Energien-Gesetzes,
 - 2. :: im Fall von Maßnahmen, die netzbezogene oder marktbezogene Maßnahmen des Netzbetreibers nach § 13 Absatz 1 und 2 und § 14 Absatz 1 Satz 1 dieses Gesetzes und § 14 des Erneuerbare-Energien-Gesetzes vermeiden, oder
@@ -3576,7 +3576,7 @@ Die Genehmigung ist auf den üblichen kalkulatorischen Abschreibungszeitraum der
 - 4. :: die effizientere Nutzung der vorhandenen Netzstruktur sowie
 - 5. :: die Verringerung von Netzausbaubedarf auf der Verteilnetzebene.
 
-(5) In der Rechtsverordnung darf die Bundesregierung die Anzeige, Überwachung und Kontrolle der Befreiungen oder Erstattungen aufgrund von abweichenden Regelungen im Rahmen des Forschungs- und Entwicklungsprogramms �Schaufenster intelligente Energie -- Digitale Agenda für die Energiewende“ sowie die mit Absatz 3 Nummer 2 verbundenen Aufgaben der Bundesnetzagentur oder Netzbetreibern übertragen.
+(5) In der Rechtsverordnung darf die Bundesregierung die Anzeige, Überwachung und Kontrolle der Befreiungen oder Erstattungen aufgrund von abweichenden Regelungen im Rahmen des Forschungs- und Entwicklungsprogramms Schaufenster intelligente Energie -- Digitale Agenda für die Energiewende“ sowie die mit Absatz 3 Nummer 2 verbundenen Aufgaben der Bundesnetzagentur oder Netzbetreibern übertragen.
 
 § 120 - Schrittweiser Abbau der Entgelte für dezentrale Einspeisung; Übergangsregelung
 

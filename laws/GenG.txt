@@ -52,7 +52,7 @@ Inhalt der Beitrittserklärung
 Beteiligung mit weiteren Geschäftsanteilen
 § 16
 Änderung der Satzung
-�
+
 Abschnitt 2
 Rechtsverhältnisse der Genossenschaft und ihrer Mitglieder
 § 17
@@ -69,7 +69,7 @@ Verbot der Verzinsung der Geschäftsguthaben
 Ausnahmen vom Verbot der Verzinsung
 § 21b
 Mitgliederdarlehen
-§ 22 �
+§ 22 
 Herabsetzung des Geschäftsanteils; Verbot der Auszahlung des Geschäftsguthabens
 § 22a
 Nachschusspflicht
@@ -77,7 +77,7 @@ Nachschusspflicht
 Zerlegung des Geschäftsanteils
 § 23
 Haftung der Mitglieder
-�
+
 Abschnitt 3
 Verfassung der Genossenschaft
 § 24
@@ -144,7 +144,7 @@ Bestimmung der Einzahlungen auf den Geschäftsanteil
 Anfechtung von Beschlüssen der Generalversammlung
 § 52
 (weggefallen)
-�
+
 Abschnitt 4
 Prüfung und Prüfungsverbände
 § 53
@@ -199,7 +199,7 @@ Entziehung des Prüfungsrechts
 Bestellung eines Prüfungsverbandes
 § 64c
 Prüfung aufgelöster Genossenschaften
-�
+
 Abschnitt 5
 Beendigung der Mitgliedschaft
 § 65
@@ -234,7 +234,7 @@ Fortdauer der Mitgliedschaft bei Auflösung der Genossenschaft
 Tod des Mitglieds
 § 77a
 Auflösung oder Erlöschen einer juristischen Person oder Personengesellschaft
-�
+
 Abschnitt 6
 Auflösung und Nichtigkeit der Genossenschaft
 § 78
@@ -291,7 +291,7 @@ Nichtigkeitsgründe; Heilung von Mängeln
 Verfahren bei Nichtigkeitsklage
 § 97
 Wirkung der Eintragung der Nichtigkeit
-�
+
 Abschnitt 7
 Insolvenzverfahren; Nachschusspflicht der Mitglieder
 § 98
@@ -348,7 +348,7 @@ Insolvenzplan
 Fortsetzung der Genossenschaft
 § 118
 Kündigung bei Fortsetzung der Genossenschaft
-�
+
 Abschnitt 8
 Haftsumme
 § 119
@@ -359,7 +359,7 @@ Herabsetzung der Haftsumme
 Haftsumme bei mehreren Geschäftsanteilen
 §§ 122 bis 145
 (weggefallen)
-�
+
 Abschnitt 9
 Straf- und Bußgeldvorschriften
 § 146
@@ -382,7 +382,7 @@ Bußgeldvorschriften
 Mitteilungen an die Abschlussprüferaufsichtsstelle
 § 154
 (weggefallen)
-�
+
 Abschnitt 10
 Schlussvorschriften
 § 155

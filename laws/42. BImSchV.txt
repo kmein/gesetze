@@ -38,45 +38,45 @@ Inhaltsübersicht
 
 Im Sinne dieser Verordnung ist
 
-- 1. :: �Änderung einer Anlage“:
+- 1. :: Änderung einer Anlage“:
   die Änderung der Lage, der Beschaffenheit oder des Betriebs einer Anlage, die sich auf die Vermehrung oder die Ausbreitung von Legionellen auswirken kann;
-- 2. :: �Bestandsanlage“:
+- 2. :: Bestandsanlage“:
   eine Anlage, die vor dem 19. August 2017 errichtet und vor dem 19. Februar 2018 in Betrieb genommen worden ist;
-- 3. :: �Inbetriebnahme“:
+- 3. :: Inbetriebnahme“:
   die erstmalige Aufnahme des Betriebs einer neu errichteten Anlage;
-- 4. :: �Koloniebildende Einheit“ (KBE):
+- 4. :: Koloniebildende Einheit“ (KBE):
   die Einheit, in der die Anzahl anzüchtbarer und auszählbarer Mikroorganismen ausgedrückt wird;
-- 5. :: �Kühlturm“:
+- 5. :: Kühlturm“:
   eine Anlage, bei der durch Verdunstung von Wasser Wärme an die Umgebungsluft abgeführt wird, insbesondere bestehend aus einer Verrieselungs- oder Verregnungseinrichtung für Kühlwasser und einem Wärmeübertrager, in der die Luft im Wesentlichen durch den natürlichen Zug, der im Kaminbauwerk des Kühlturms erzeugt wird, durch den Kühlturm gefördert wird und einer Kühlleistung von mehr als 200 Megawatt je Luftaustritt einschließlich der Nassabscheider, deren gereinigte Rauchgase über den Kühlturm abgeleitet werden; der Einsatz drückend angeordneter Ventilatoren zur Unterstützung der Luftzufuhr ist unschädlich, soweit diese das Charakteristikum des Kühlturms nur unwesentlich beeinflussen;
-- 6. :: �Legionellen“:
+- 6. :: Legionellen“:
   ein Parameter zur Beurteilung der hygienischen Qualität des Nutzwassers; er umfasst alle Legionellenarten (Legionella spp.), die nach genormten Verfahren auf einem definierten Nährmedium anzüchtbar sind und Kolonien bilden;
-- 7. :: �Nassabscheider“:
+- 7. :: Nassabscheider“:
   ein Abscheider, der dem Entfernen fester, flüssiger und gasförmiger Verunreinigungen aus einem Abgas mit Hilfe einer Waschflüssigkeit dient, wobei die Verunreinigungen an die in die Abgasströmung eingebrachte Waschflüssigkeit gebunden und mit dieser zusammen abgeschieden werden; nicht erfasst sind insbesondere Abscheider, bei denen die Reinigungsleistung durch Mikroorganismen bewirkt wird, wie Biofilter oder Rieselbettfilter, unbeschadet einer gegebenenfalls vorhandenen Berieselung des Filters zur Lebenserhaltung der die Abscheideleistung erbringenden Mikroorganismen;
-- 8. :: �Neuanlage“:
+- 8. :: Neuanlage“:
   eine Anlage, die keine Bestandsanlage ist;
-- 9. :: �Nutzwasser“:
+- 9. :: Nutzwasser“:
   - a) :: das Wasser, das in einer Verdunstungskühlanlage oder einem Kühlturm zum Zweck der Wärmeabfuhr eingesetzt wird und dabei im Kontakt mit der Atmosphäre steht (Kühlwasser) und
   - b) :: das Wasser, das in einem Nassabscheider zum Zwecke der Reinigung eingesetzt wird und dabei im Kontakt mit der Atmosphäre steht (Waschflüssigkeit);
-- 10. :: �Referenzwert“:
+- 10. :: Referenzwert“:
   die sich bei ordnungsgemäßem Betrieb einstellende anlagentypische allgemeine Koloniezahl im Nutzwasser;
-- 11. :: �Verdunstungskühlanlage“:
+- 11. :: Verdunstungskühlanlage“:
   eine Anlage, bei der durch Verdunstung von Wasser Wärme an die Umgebungsluft abgeführt wird, insbesondere bestehend aus einer Verrieselungs- oder Verregnungseinrichtung für Kühlwasser und einem Wärmeübertrager, ausgenommen Kühltürme;
-- 12. :: �Wiederinbetriebnahme“:
+- 12. :: Wiederinbetriebnahme“:
   die erneute Aufnahme des Betriebs einer Anlage nach einer Änderung gemäß Nummer 1;
-- 13. :: �Zusatzwasser“:
+- 13. :: Zusatzwasser“:
   das Wasser, das dem Nutzwasser zugesetzt wird, insbesondere zum Ausgleich von Verdunstungsverlusten oder zur Begrenzung der Eindickung;
-- 14. :: �akkreditierte Inspektionsstelle Typ A“:
+- 14. :: akkreditierte Inspektionsstelle Typ A“:
   von einer nationalen Akkreditierungsstelle im Sinne der Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über die Vorschriften für die Akkreditierung und Marktüberwachung im Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates (ABl. L 218 vom 13.8.2008, S. 30) in der jeweils geltenden Fassung für die Durchführung der erforderlichen Inspektionen akkreditierte Inspektionsstelle die Inspektionen gemäß DIN EN ISO/IEC 17020, Ausgabe Juli 2012, Absatz 4.1.6 Buchstabe a in Verbindung mit Abschnitt A.1 des Anhangs A als unabhängige Dritte anbietet;
-- 15. :: �akkreditiertes Prüflaboratorium“:
+- 15. :: akkreditiertes Prüflaboratorium“:
   von einer nationalen Akkreditierungsstelle im Sinne der Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über die Vorschriften für die Akkreditierung und Marktüberwachung im Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates (ABl. L 218 vom 13.8.2008, S. 30) in der jeweils geltenden Fassung für die Durchführung der erforderlichen Prüfverfahren in der Matrix Kühl- und Waschwasser akkreditiertes Labor;
-- 16. :: �allgemeine Koloniezahl“:
+- 16. :: allgemeine Koloniezahl“:
   ein Parameter zur Beurteilung der hygienischen Qualität des Nutzwassers; er umfasst alle Mikroorganismen, die nach genormten Verfahren auf oder in einem definierten Nähragarmedium anzüchtbar sind und Kolonien bilden;
-- 17. :: �mikrobiologische Untersuchung“:
+- 17. :: mikrobiologische Untersuchung“:
   - a) :: die Untersuchung des Nutzwassers nach genormten Prüfverfahren durch ein dafür akkreditiertes Prüflaboratorium (Laboruntersuchung) und
   - b) :: die Untersuchung zur Differenzierung der Legionellen durch ein dafür akkreditiertes Prüflaboratorium;
-- 18. :: �öffentlich bestellter und vereidigter Sachverständiger“:
+- 18. :: öffentlich bestellter und vereidigter Sachverständiger“:
   ein nach § 36, gegebenenfalls in Verbindung mit § 36a, der Gewerbeordnung vom 22. Februar 1999 (BGBl. I S. 202), die zuletzt durch Artikel 626 Absatz 3 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, öffentlich bestellter und vereidigter Sachverständiger;
-- 19. :: �hygienisch fachkundige Person“:
+- 19. :: hygienisch fachkundige Person“:
   Person, die an einer Schulung entsprechend der Richtlinie VDI 2047 Blatt 2, Ausgabe Januar 2015, oder der Richtlinie VDI 6022 Blatt 4, Ausgabe August 2012, oder vergleichbarer Art und vergleichbaren Umfangs teilgenommen hat.
 
 
@@ -299,67 +299,67 @@ Anlage 1 - (zu den §§ 3, 4, 6, 8 bis 10, zu Anlage 3 und Anlage 4)Prüfwerte u
 Anlage 2 - (zu § 3 Absatz 6)Maßnahmen vor Inbetriebnahme/Wiederinbetriebnahme
 
 (Fundstelle: BGBl. I 2017, 2388)
-�
-�
-�
-�
-�
-�
-�
+
+
+
+
+
+
+
 Die vorstehenden Maßnahmen wurden durchgeführt am
-�
-�
-�
+
+
+
 vom Betreiber
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
+
+
+
+
+
+
+
+
+
+
 von einem Beauftragten
-�
-�
-�
-�
-�
+
+
+
+
+
 Name
-�
-�
-�
+
+
+
 Straße, Hausnummer
-�
-�
-�
-�
-�
+
+
+
+
+
 PLZ, Ort
-�
-�
-�
-�
-�
+
+
+
+
+
 Ansprechpartner (Name)
-�
-�
+
+
 Die Anlage wurde in Betrieb genommen/wieder in Betrieb genommen am
-�
-�
+
+
 Die vollständig ausgefüllte Checkliste ist vom Betreiber -- und soweit zutreffend vom Beauftragten -- zu unterschreiben.
-�
+
 \\
-�
-�
-�
-�
+
+
+
+
 Ort, Datum, Unterschrift Beauftragter
-�
+
 Ort, Datum, Unterschrift Betreiber
-�
+
 Die unterschriebene Checkliste ist in das Betriebstagebuch einzustellen.\\
 
 
@@ -412,22 +412,22 @@ Anlage 4 - (zu § 12 und § 13)
 - 8. :: Angaben zum Betriebszustand der Anlage mit Datum der Zustandsänderungen,\\
   insbesondere Betrieb unter Last, Betrieb ohne Last mit aktiviertem Nutzwasserkreislauf, Betriebsunterbrechung mit gefülltem Nutzwasserkreislauf, Entleerung und Wiederbefüllung des Nutzwasserkreislaufs
 - 9. :: Überschreitungen der in Anlage 1 genannten Prüfwerte
-  - a) :: | wurden Überschreitungen im Berichtszeitraum festgestellt? | �Ja/Nein“ |
+  - a) :: | wurden Überschreitungen im Berichtszeitraum festgestellt? | Ja/Nein“ |
 
-  - b) :: | welcher Prüfwert (PW) wurde überschritten? | �PW1/PW2“ |
+  - b) :: | welcher Prüfwert (PW) wurde überschritten? | PW1/PW2“ |
 
-  - c) :: | wurden Ma�Ja/Nein“\\ |
+  - c) :: | wurden MaJa/Nein“\\ |
 
     falls ja, Angaben zu den ergriffenen Maßnahmen
 
-  - d) :: | welche Legionellenkonzentration wurde nach Abschluss\\ | �< PW1/< PW2“ |
+  - d) :: | welche Legionellenkonzentration wurde nach Abschluss\\ | < PW1/< PW2“ |
           | der Maßnahmen nach § 6 Absatz 3 Nummer 2\\             |               |
           | oder § 8 Absatz 2 Nummer 3 erreicht?                   |               |
 - 10. :: Überschreitungen der in Anlage 1 genannten Maßnahmenwerte
-  - a) :: | wurden Überschreitungen im Berichtszeitraum festgestellt? | �Ja/Nein“ |
+  - a) :: | wurden Überschreitungen im Berichtszeitraum festgestellt? | Ja/Nein“ |
 
   - b) :: Angaben zu den ergriffenen Maßnahmen
-  - c) :: | welche Legionellenkonzentration wurde nach Abschluss\\ | �< PW1/< PW2“ |
+  - c) :: | welche Legionellenkonzentration wurde nach Abschluss\\ | < PW1/< PW2“ |
           | der Maßnahmen nach § 9 Absatz 1 und 2 erreicht?        |               |
 - 11. :: Angaben zur Biozidzugabe (Zeitpunkt, Menge und Art des Biozids)
 - 12. :: sonstige Nachweise gemäß dieser Verordnung

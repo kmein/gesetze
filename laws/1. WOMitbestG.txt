@@ -13,25 +13,25 @@ InhaltsÃ¼bersicht
 Â§ 1
 Geltungsbereich
 Teil 1
- 
+
 Wahl der Aufsichtsratsmitglieder der Arbeitnehmer
- 
- 
+
+
 Kapitel 1
- 
- 
- 
+
+
+
 Einleitung der Wahl, Abstimmung Ã¼ber die Art der Wahl, WahlvorschlÃ¤ge
- 
- 
- 
- 
+
+
+
+
 Abschnitt 1
- 
- 
- 
- 
- 
+
+
+
+
+
 Einleitung der Wahl
 Â§ 2
 Bekanntmachung des Unternehmens
@@ -53,16 +53,16 @@ Bekanntmachung Ã¼ber die Bildung des Betriebswahlvorstands und die WÃ¤hlerliste
 Ã„nderungsverlangen
 Â§ 11
 EinsprÃ¼che gegen die Richtigkeit der WÃ¤hlerliste
- 
- 
- 
- 
+
+
+
+
 Abschnitt 2
- 
- 
- 
- 
- 
+
+
+
+
+
 Abstimmung Ã¼ber die Art der Wahl
 Â§ 12
 Bekanntmachung
@@ -86,48 +86,48 @@ Verfahren bei der schriftlichen Stimmabgabe
 Abstimmungsniederschrift
 Â§ 22
 Bekanntmachung des Abstimmungsergebnisses
- 
- 
- 
- 
+
+
+
+
 Abschnitt 3
- 
- 
- 
- 
- 
+
+
+
+
+
 Verteilung der Sitze, WahlvorschlÃ¤ge
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Unterabschnitt 1
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
 Verteilung der Sitze der unternehmensangehÃ¶rigen Aufsichtsratsmitglieder der Arbeitnehmer
 Â§ 23
 Verteilung der Sitze der unternehmensangehÃ¶rigen Aufsichtsratsmitglieder der Arbeitnehmer
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Unterabschnitt 2
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
 WahlvorschlÃ¤ge
 Â§ 24
 Bekanntmachung Ã¼ber die Einreichung von WahlvorschlÃ¤gen
@@ -137,20 +137,20 @@ WahlvorschlÃ¤ge der in Â§ 3 Abs. 1 Nr. 1 des Gesetzes bezeichneten Arbeitnehmer
 WahlvorschlÃ¤ge der Gewerkschaften
 Â§ 27
 WahlvorschlÃ¤ge fÃ¼r Ersatzmitglieder
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Unterabschnitt 3
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
 ZusÃ¤tzliche Vorschriften fÃ¼r den Wahlvorschlag der leitenden Angestellten
 Â§ 28
 Bekanntmachung Ã¼ber die Abstimmung fÃ¼r den Wahlvorschlag der leitenden Angestellten
@@ -160,20 +160,20 @@ AbstimmungsvorschlÃ¤ge der leitenden Angestellten
 Abstimmung der leitenden Angestellten
 Â§ 31
 Abstimmungsniederschrift
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Unterabschnitt 4
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
 PrÃ¼fung und Bekanntmachung der WahlvorschlÃ¤ge
 Â§ 32
 PrÃ¼fung der WahlvorschlÃ¤ge
@@ -183,64 +183,64 @@ UngÃ¼ltige WahlvorschlÃ¤ge
 Nachfrist fÃ¼r WahlvorschlÃ¤ge
 Â§ 35
 Bekanntmachung der WahlvorschlÃ¤ge
- 
- 
- 
- 
+
+
+
+
 Abschnitt 4
- 
- 
- 
- 
- 
+
+
+
+
+
 Anzuwendende Vorschriften
 Â§ 36
 Anzuwendende Vorschriften
- 
- 
+
+
 Kapitel 2
- 
- 
- 
+
+
+
 Unmittelbare Wahl der Aufsichtsratsmitglieder der Arbeitnehmer
- 
- 
- 
- 
+
+
+
+
 Abschnitt 1
- 
- 
- 
- 
- 
+
+
+
+
+
 Wahlausschreiben
 Â§ 37
 Wahlausschreiben
- 
- 
- 
- 
+
+
+
+
 Abschnitt 2
- 
- 
- 
- 
- 
+
+
+
+
+
 DurchfÃ¼hrung der Wahl
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Unterabschnitt 1
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
 Wahl mehrerer Aufsichtsratsmitglieder der Arbeitnehmer in einem Wahlgang auf Grund mehrerer WahlvorschlÃ¤ge
 Â§ 38
 Stimmabgabe, Wahlvorgang
@@ -248,20 +248,20 @@ Stimmabgabe, Wahlvorgang
 Ã–ffentliche StimmauszÃ¤hlung
 Â§ 40
 Verteilung der Stimmenzahlen
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Unterabschnitt 2
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
 Wahl mehrerer Aufsichtsratsmitglieder der Arbeitnehmer in einem Wahlgang auf Grund nur eines Wahlvorschlags
 Â§ 41
 Stimmabgabe, Wahlvorgang
@@ -269,56 +269,56 @@ Stimmabgabe, Wahlvorgang
 Ã–ffentliche StimmauszÃ¤hlung
 Â§ 43
 Verteilung der Stimmen auf die Bewerberinnen und Bewerber
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Unterabschnitt 3
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
 Wahl nur eines Aufsichtsratsmitglieds der Arbeitnehmer in einem Wahlgang
 Â§ 44
 Wahl nur eines Aufsichtsratsmitglieds der Arbeitnehmer in einem Wahlgang
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Unterabschnitt 4
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
 Schriftliche Stimmabgabe
 Â§ 45
 Voraussetzungen
 Â§ 46
 Verfahren bei der Stimmabgabe
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Unterabschnitt 5
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
 Ermittlung der GewÃ¤hlten, Wahlniederschrift, Benachrichtigungen
 Â§ 46a
 Ermittlung der GewÃ¤hlten bei nicht bÃ¶rsennotierten Unternehmen
@@ -332,76 +332,76 @@ Wahlniederschrift
 Bekanntmachung des Wahlergebnisses, Benachrichtigung der GewÃ¤hlten
 Â§ 49
 Aufbewahrung der Wahlakten
- 
- 
+
+
 Kapitel 3
- 
- 
- 
+
+
+
 Wahl der Aufsichtsratsmitglieder der Arbeitnehmer durch Delegierte
- 
- 
- 
- 
+
+
+
+
 Abschnitt 1
- 
- 
- 
- 
- 
+
+
+
+
+
 Wahl der Delegierten
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Unterabschnitt 1
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
 Delegierte mit Mehrfachmandat
 Â§ 50
 Keine Wahl von Delegierten nach diesem Unterabschnitt, wenn in dem Unternehmen fÃ¼r die Wahl von Aufsichtsratsmitgliedern anderer Unternehmen Delegierte mit Mehrfachmandat gewÃ¤hlt werden
 Â§ 51
 Delegierte, die zugleich fÃ¼r die Wahl von Aufsichtsratsmitgliedern anderer Unternehmen gewÃ¤hlt werden
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Unterabschnitt 2
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
 Einleitung der Wahl
 Â§ 52
 Errechnung der Zahl der Delegierten
 Â§ 53
 Wahlausschreiben fÃ¼r die Wahl der Delegierten
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Unterabschnitt 3
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
 WahlvorschlÃ¤ge fÃ¼r Delegierte
 Â§ 54
 Einreichung von WahlvorschlÃ¤gen
@@ -413,20 +413,20 @@ UngÃ¼ltige WahlvorschlÃ¤ge
 Nachfrist fÃ¼r WahlvorschlÃ¤ge
 Â§ 58
 Bekanntmachung der WahlvorschlÃ¤ge
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Unterabschnitt 4
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
 Wahl von Delegierten in einem Wahlgang auf Grund mehrerer WahlvorschlÃ¤ge
 Â§ 59
 Stimmabgabe, Wahlvorgang
@@ -434,103 +434,103 @@ Stimmabgabe, Wahlvorgang
 Ã–ffentliche StimmauszÃ¤hlung
 Â§ 61
 Ermittlung der GewÃ¤hlten
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Unterabschnitt 5
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
 Ermittlung von Delegierten bei Vorliegen nur eines Wahlvorschlags fÃ¼r einen Wahlgang
 Â§ 62
 Ermittlung von Delegierten bei Vorliegen nur eines Wahlvorschlags fÃ¼r einen Wahlgang
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Unterabschnitt 6
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
 Schriftliche Stimmabgabe
 Â§ 63
 Voraussetzungen
 Â§ 64
 Verfahren bei der Stimmabgabe
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Unterabschnitt 7
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
 Wahlniederschrift, Benachrichtigungen
 Â§ 65
 Wahlniederschrift
 Â§ 66
 Bekanntmachung des Wahlergebnisses, Benachrichtigung der GewÃ¤hlten
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Unterabschnitt 8
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
 Ausnahme
 Â§ 67
 Ausnahme
- 
- 
- 
- 
+
+
+
+
 Abschnitt 2
- 
- 
- 
- 
- 
+
+
+
+
+
 Wahl der Aufsichtsratsmitglieder der Arbeitnehmer durch die Delegierten
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Unterabschnitt 1
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
 Delegiertenversammlung, Delegiertenliste
 Â§ 68
 Delegiertenversammlung
@@ -538,37 +538,37 @@ Delegiertenversammlung
 Delegiertenliste
 Â§ 70
 EinsprÃ¼che gegen die Richtigkeit der Delegiertenliste
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Unterabschnitt 2
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
 Mitteilung an die Delegierten
 Â§ 71
 Mitteilung an die Delegierten
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Unterabschnitt 3
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
 Wahl mehrerer Aufsichtsratsmitglieder der Arbeitnehmer in einem Wahlgang auf Grund mehrerer WahlvorschlÃ¤ge
 Â§ 72
 Stimmabgabe, Wahlvorgang
@@ -576,20 +576,20 @@ Stimmabgabe, Wahlvorgang
 Ã–ffentliche StimmauszÃ¤hlung
 Â§ 74
 Verteilung der Stimmenzahlen
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Unterabschnitt 4
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
 Wahl mehrerer Aufsichtsratsmitglieder der Arbeitnehmer in einem Wahlgang auf Grund nur eines Wahlvorschlags
 Â§ 75
 Stimmabgabe, Wahlvorgang
@@ -597,37 +597,37 @@ Stimmabgabe, Wahlvorgang
 Ã–ffentliche StimmauszÃ¤hlung
 Â§ 77
 Verteilung der Stimmen auf die Bewerberinnen und Bewerber
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Unterabschnitt 5
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
 Wahl nur eines Aufsichtsratsmitglieds der Arbeitnehmer in einem Wahlgang
 Â§ 78
 Wahl nur eines Aufsichtsratsmitglieds der Arbeitnehmer in einem Wahlgang
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Unterabschnitt 6
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
 Ermittlung der GewÃ¤hlten, Wahlniederschrift, Benachrichtigungen
 Â§ 78a
 Ermittlung der GewÃ¤hlten bei nicht bÃ¶rsennotierten Unternehmen
@@ -642,14 +642,14 @@ Bekanntmachung des Wahlergebnisses, Benachrichtigung der GewÃ¤hlten
 Â§ 81
 Aufbewahrung der Wahlakten
 Teil 2
- 
+
 Abberufung von Aufsichtsratsmitgliedern der Arbeitnehmer
- 
- 
+
+
 Kapitel 1
- 
- 
- 
+
+
+
 Gemeinsame Vorschriften
 Â§ 82
 Einleitung des Abberufungsverfahrens
@@ -659,24 +659,24 @@ Liste der antragsberechtigten Arbeitnehmerinnen und Arbeitnehmer
 PrÃ¼fung des Antrags auf Abberufung
 Â§ 85
 Anzuwendende Vorschriften
- 
- 
+
+
 Kapitel 2
- 
- 
- 
- 
+
+
+
+
 Abstimmung Ã¼ber die Abberufung eines in unmittelbarer Wahl gewÃ¤hlten Aufsichtsratsmitglieds der Arbeitnehmer
 Â§ 86
 Abberufungsausschreiben, WÃ¤hlerliste
 Â§ 87
 Abstimmung, Abstimmungsergebnis, Akten
- 
- 
+
+
 Kapitel 3
- 
- 
- 
+
+
+
 Abstimmung Ã¼ber die Abberufung eines durch Delegierte gewÃ¤hlten Aufsichtsratsmitglieds der Arbeitnehmer
 Â§ 88
 Delegiertenliste
@@ -684,17 +684,17 @@ Delegiertenliste
 Delegiertenversammlung, Mitteilung des Betriebswahlvorstands an die Delegierten
 Â§ 90
 Abstimmung, Abstimmungsergebnis, Akten
- 
- 
+
+
 Kapitel 4
- 
- 
- 
+
+
+
 Ersatzmitglieder
 Â§ 91
 Ersatzmitglieder
 Teil 3
- 
+
 Ãœbergangs- und Schlussvorschriften
 Â§ 92
 Erstmalige Anwendung des Gesetzes auf ein Unternehmen

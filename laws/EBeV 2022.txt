@@ -10,19 +10,19 @@ Auf Grund des Â§Â 6 Absatz 5 und des Â§Â 7 Absatz 4 und Absatz 5 Satz 2 des Bren
 
 InhaltsÃ¼bersicht
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Â§ 1 - Anwendungsbereich und Zweck
 
@@ -147,7 +147,7 @@ ErlÃ¤uterung der AbkÃ¼rzungen:
 
 \\
 Das Ergebnis der Berechnung wird auf ganze Tonnen Kohlendioxid abgerundet.
- 
+
 Die Menge der auf einen in Verkehr gebrachten Brennstoff entfallenden Brennstoffemissionen berechnet sich nach folgender Formel:
 | [[../normengrafiken/bgbl1_2020/j3016-1_0020.jpg]] |
 
@@ -155,7 +155,7 @@ Die Menge der auf einen in Verkehr gebrachten Brennstoff entfallenden Brennstoff
 ErlÃ¤uterung der AbkÃ¼rzungen:
 | Menge | die nach Â§ 5 Absatz 2 ermittelte Brennstoffmenge. |
 
- 
+
 - 1. :: Die nach Â§Â 10 abzugsfÃ¤hige Menge an Brennstoffemissionen eines in Verkehr gebrachten Brennstoffs berechnet sich nach folgender Formel:
   | [[../normengrafiken/bgbl1_2020/j3016-1_0030.jpg]] |
 
@@ -168,7 +168,7 @@ ErlÃ¤uterung der AbkÃ¼rzungen:
   | Menge_{Brennstoff_EU-ETSi} | die im Kalenderjahr zum Einsatz in einer dem EU-Emissionshandel unterliegenden Anlage (i) gelieferte Brennstoffmenge; |
   | Biomasseanteil_{EU-ETSi}   | der in der dem EU-Emissionshandel unterliegenden Anlage (i) anerkannte Biomasseanteil.                                |
 
- 
+
 Der Umrechnungsfaktor fÃ¼r Erdgas in Nummer 6 Spalte 4 beruht auf der Formel 3,6 GJ/MWh * 0,903 GJ/GJ.
 
 Anlage 2 - (zu den Â§Â§ 6, 7, 10 und 11)Mindestinhalt eines jÃ¤hrlichen Emissionsberichts

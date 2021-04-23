@@ -6,78 +6,78 @@ Ausfertigungsdatum: 08.08.2020
 
 Inhaltsübersicht
 
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 § 1 - Zweck und Ziel
 
@@ -115,46 +115,46 @@ Der Energieeinsatz für Produktionsprozesse in Gebäuden ist nicht Gegenstand di
 
 (1) Im Sinne dieses Gesetzes ist
 
-- 1. :: �Abwärme“ die Wärme oder Kälte, die aus technischen Prozessen und aus baulichen Anlagen stammenden Abluft- und Abwasserströmen entnommen wird,
-- 2. :: �Aperturfläche“ die Lichteintrittsfläche einer solarthermischen Anlage,
-- 3. :: �Baudenkmal“ ein nach Landesrecht geschütztes Gebäude oder eine nach Landesrecht geschützte Gebäudemehrheit,
-- 4. :: �beheizter Raum“ ein Raum, der nach seiner Zweckbestimmung direkt oder durch Raumverbund beheizt wird,
-- 5. :: �Brennwertkessel“ ein Heizkessel, der die energetische Nutzung des in den Abgasen enthaltenen Wasserdampfes durch Kondensation des Wasserdampfes im Betrieb vorsieht,
-- 6. :: �einseitig angebautes Wohngebäude“ ein Wohngebäude, von dessen nach einer Himmelsrichtung weisenden vertikalen Flächen ein Anteil von 80 Prozent oder mehr an ein anderes Wohngebäude oder ein Nichtwohngebäude mit einer Raum-Solltemperatur von mindestens 19 Grad Celsius angrenzt,
-- 7. :: �Elektroenergiebedarf für Nutzeranwendungen“ die weiteren Elektroenergieverbräuche nach DIN V 18599-9: 2018-09<<FnR.F812398_02>>[[#F812398_02][*]]} ,
-- 8. :: �Energiebedarfsausweis“ ein Energieausweis, der auf der Grundlage des berechneten Energiebedarfs ausgestellt wird,
-- 9. :: �Energieverbrauchsausweis“ ein Energieausweis, der auf der Grundlage des erfassten Energieverbrauchs ausgestellt wird,
-- 10. :: �Gebäudenutzfläche“ die Nutzfläche eines Wohngebäudes nach DIN V 18599: 2018-09, die beheizt oder gekühlt wird,
-- 11. :: �gekühlter Raum“ ein Raum, der nach seiner Zweckbestimmung direkt oder durch Raumverbund gekühlt wird,
-- 12. :: �Gesamtenergiebedarf“ der nach Maßgabe dieses Gesetzes bestimmte Jahres-Primärenergiebedarf
+- 1. :: Abwärme“ die Wärme oder Kälte, die aus technischen Prozessen und aus baulichen Anlagen stammenden Abluft- und Abwasserströmen entnommen wird,
+- 2. :: Aperturfläche“ die Lichteintrittsfläche einer solarthermischen Anlage,
+- 3. :: Baudenkmal“ ein nach Landesrecht geschütztes Gebäude oder eine nach Landesrecht geschützte Gebäudemehrheit,
+- 4. :: beheizter Raum“ ein Raum, der nach seiner Zweckbestimmung direkt oder durch Raumverbund beheizt wird,
+- 5. :: Brennwertkessel“ ein Heizkessel, der die energetische Nutzung des in den Abgasen enthaltenen Wasserdampfes durch Kondensation des Wasserdampfes im Betrieb vorsieht,
+- 6. :: einseitig angebautes Wohngebäude“ ein Wohngebäude, von dessen nach einer Himmelsrichtung weisenden vertikalen Flächen ein Anteil von 80 Prozent oder mehr an ein anderes Wohngebäude oder ein Nichtwohngebäude mit einer Raum-Solltemperatur von mindestens 19 Grad Celsius angrenzt,
+- 7. :: Elektroenergiebedarf für Nutzeranwendungen“ die weiteren Elektroenergieverbräuche nach DIN V 18599-9: 2018-09<<FnR.F812398_02>>[[#F812398_02][*]]} ,
+- 8. :: Energiebedarfsausweis“ ein Energieausweis, der auf der Grundlage des berechneten Energiebedarfs ausgestellt wird,
+- 9. :: Energieverbrauchsausweis“ ein Energieausweis, der auf der Grundlage des erfassten Energieverbrauchs ausgestellt wird,
+- 10. :: Gebäudenutzfläche“ die Nutzfläche eines Wohngebäudes nach DIN V 18599: 2018-09, die beheizt oder gekühlt wird,
+- 11. :: gekühlter Raum“ ein Raum, der nach seiner Zweckbestimmung direkt oder durch Raumverbund gekühlt wird,
+- 12. :: Gesamtenergiebedarf“ der nach Maßgabe dieses Gesetzes bestimmte Jahres-Primärenergiebedarf
   - a) :: eines Wohngebäudes für Heizung, Warmwasserbereitung, Lüftung sowie Kühlung oder
   - b) :: eines Nichtwohngebäudes für Heizung, Warmwasserbereitung, Lüftung, Kühlung sowie eingebaute Beleuchtung,
-- 13. :: �Geothermie“ die dem Erdboden entnommene Wärme,
-- 14. :: �Heizkessel“ ein aus Kessel und Brenner bestehender Wärmeerzeuger, der dazu dient, die durch die Verbrennung freigesetzte Wärme an einen Wärmeträger zu übertragen,
-- 15. :: �Jahres-Primärenergiebedarf“ der jährliche Gesamtenergiebedarf eines Gebäudes, der zusätzlich zum Energiegehalt der eingesetzten Energieträger und von elektrischem Strom auch die vorgelagerten Prozessketten bei der Gewinnung, Umwandlung, Speicherung und Verteilung mittels Primärenergiefaktoren einbezieht,
-- 16. :: �Kälte aus erneuerbaren Energien“ die dem Erdboden oder dem Wasser entnommene und technisch nutzbar gemachte oder aus Wärme nach Absatz 2 Nummer 1 bis 5 technisch nutzbar gemachte Kälte,
-- 17. :: �kleines Gebäude“ ein Gebäude mit nicht mehr als 50 Quadratmetern Nutzfläche,
-- 18. :: �Klimaanlage“ die Gesamtheit aller zu einer gebäudetechnischen Anlage gehörenden Anlagenbestandteile, die für eine Raumluftbehandlung erforderlich sind, durch die die Temperatur geregelt wird,
-- 19. :: �Nah-/Fernwärme“ die Wärme, die mittels eines Wärmeträgers durch ein Wärmenetz verteilt wird,
-- 20. :: �Nah-/Fernkälte“ die Kälte, die mittels eines Kälteträgers durch ein Kältenetz verteilt wird,
-- 21. :: �Nennleistung“ die vom Hersteller festgelegte und im Dauerbetrieb unter Beachtung des vom Hersteller angegebenen Wirkungsgrades als einhaltbar garantierte größte Wärme- oder Kälteleistung in Kilowatt,
-- 22. :: �Nettogrundfläche“ die Nutzfläche eines Nichtwohngebäudes nach DIN V 18599: 2018-09, die beheizt oder gekühlt wird,
-- 23. :: �Nichtwohngebäude“ ein Gebäude, das nicht unter Nummer 33 fällt,
-- 24. :: �Niedertemperatur-Heizkessel“ ein Heizkessel, der kontinuierlich mit einer Eintrittstemperatur von 35 Grad Celsius bis 40 Grad Celsius betrieben werden kann und in dem es unter bestimmten Umständen zur Kondensation des in den Abgasen enthaltenen Wasserdampfes kommen kann,
-- 25. :: �Niedrigstenergiegebäude“ ein Gebäude, das eine sehr gute Gesamtenergieeffizienz aufweist und dessen Energiebedarf sehr gering ist und, soweit möglich, zu einem ganz wesentlichen Teil durch Energie aus erneuerbaren Quellen gedeckt werden soll,
-- 26. :: �Nutzfläche“
+- 13. :: Geothermie“ die dem Erdboden entnommene Wärme,
+- 14. :: Heizkessel“ ein aus Kessel und Brenner bestehender Wärmeerzeuger, der dazu dient, die durch die Verbrennung freigesetzte Wärme an einen Wärmeträger zu übertragen,
+- 15. :: Jahres-Primärenergiebedarf“ der jährliche Gesamtenergiebedarf eines Gebäudes, der zusätzlich zum Energiegehalt der eingesetzten Energieträger und von elektrischem Strom auch die vorgelagerten Prozessketten bei der Gewinnung, Umwandlung, Speicherung und Verteilung mittels Primärenergiefaktoren einbezieht,
+- 16. :: Kälte aus erneuerbaren Energien“ die dem Erdboden oder dem Wasser entnommene und technisch nutzbar gemachte oder aus Wärme nach Absatz 2 Nummer 1 bis 5 technisch nutzbar gemachte Kälte,
+- 17. :: kleines Gebäude“ ein Gebäude mit nicht mehr als 50 Quadratmetern Nutzfläche,
+- 18. :: Klimaanlage“ die Gesamtheit aller zu einer gebäudetechnischen Anlage gehörenden Anlagenbestandteile, die für eine Raumluftbehandlung erforderlich sind, durch die die Temperatur geregelt wird,
+- 19. :: Nah-/Fernwärme“ die Wärme, die mittels eines Wärmeträgers durch ein Wärmenetz verteilt wird,
+- 20. :: Nah-/Fernkälte“ die Kälte, die mittels eines Kälteträgers durch ein Kältenetz verteilt wird,
+- 21. :: Nennleistung“ die vom Hersteller festgelegte und im Dauerbetrieb unter Beachtung des vom Hersteller angegebenen Wirkungsgrades als einhaltbar garantierte größte Wärme- oder Kälteleistung in Kilowatt,
+- 22. :: Nettogrundfläche“ die Nutzfläche eines Nichtwohngebäudes nach DIN V 18599: 2018-09, die beheizt oder gekühlt wird,
+- 23. :: Nichtwohngebäude“ ein Gebäude, das nicht unter Nummer 33 fällt,
+- 24. :: Niedertemperatur-Heizkessel“ ein Heizkessel, der kontinuierlich mit einer Eintrittstemperatur von 35 Grad Celsius bis 40 Grad Celsius betrieben werden kann und in dem es unter bestimmten Umständen zur Kondensation des in den Abgasen enthaltenen Wasserdampfes kommen kann,
+- 25. :: Niedrigstenergiegebäude“ ein Gebäude, das eine sehr gute Gesamtenergieeffizienz aufweist und dessen Energiebedarf sehr gering ist und, soweit möglich, zu einem ganz wesentlichen Teil durch Energie aus erneuerbaren Quellen gedeckt werden soll,
+- 26. :: Nutzfläche“
   - a) :: bei einem Wohngebäude die Gebäudenutzfläche oder
   - b) :: bei einem Nichtwohngebäude die Nettogrundfläche,
-- 27. :: �Nutzfläche mit starkem Publikumsverkehr“ die öffentlich zugängliche Nutzfläche, die während ihrer Öffnungszeiten von einer großen Zahl von Menschen aufgesucht wird; eine solche Fläche kann sich insbesondere in einer öffentlichen oder einer privaten Einrichtung befinden, die für gewerbliche, freiberufliche, kulturelle, soziale oder behördliche Zwecke genutzt wird,
-- 28. :: �oberste Geschossdecke“ die zugängliche Decke beheizter Räume zum unbeheizten Dachraum,
-- 29. :: �Stromdirektheizung“ ein Gerät zur direkten Erzeugung von Raumwärme durch Ausnutzung des elektrischen Widerstands auch in Verbindung mit Festkörper-Wärmespeichern,
-- 30. :: �Umweltwärme“ die der Luft, dem Wasser oder der aus technischen Prozessen und baulichen Anlagen stammenden Abwasserströmen entnommene und technisch nutzbar gemachte Wärme oder Kälte mit Ausnahme der aus technischen Prozessen und baulichen Anlagen stammenden Abluftströmen entnommenen Wärme,
-- 31. :: �Wärme- und Kälteenergiebedarf“ die Summe aus
+- 27. :: Nutzfläche mit starkem Publikumsverkehr“ die öffentlich zugängliche Nutzfläche, die während ihrer Öffnungszeiten von einer großen Zahl von Menschen aufgesucht wird; eine solche Fläche kann sich insbesondere in einer öffentlichen oder einer privaten Einrichtung befinden, die für gewerbliche, freiberufliche, kulturelle, soziale oder behördliche Zwecke genutzt wird,
+- 28. :: oberste Geschossdecke“ die zugängliche Decke beheizter Räume zum unbeheizten Dachraum,
+- 29. :: Stromdirektheizung“ ein Gerät zur direkten Erzeugung von Raumwärme durch Ausnutzung des elektrischen Widerstands auch in Verbindung mit Festkörper-Wärmespeichern,
+- 30. :: Umweltwärme“ die der Luft, dem Wasser oder der aus technischen Prozessen und baulichen Anlagen stammenden Abwasserströmen entnommene und technisch nutzbar gemachte Wärme oder Kälte mit Ausnahme der aus technischen Prozessen und baulichen Anlagen stammenden Abluftströmen entnommenen Wärme,
+- 31. :: Wärme- und Kälteenergiebedarf“ die Summe aus
   - a) :: der zur Deckung des Wärmebedarfs für Heizung und Warmwasserbereitung jährlich benötigten Wärmemenge, einschließlich des thermischen Aufwands für Übergabe, Verteilung und Speicherung der Energiemenge und
   - b) :: der zur Deckung des Kältebedarfs für Raumkühlung jährlich benötigten Kältemenge, einschließlich des thermischen Aufwands für Übergabe, Verteilung und Speicherung der Energiemenge,
-- 32. :: �Wohnfläche“ die Fläche, die nach der Wohnflächenverordnung vom 25. November 2003 (BGBl. I S. 2346) oder auf der Grundlage anderer Rechtsvorschriften oder anerkannter Regeln der Technik zur Berechnung von Wohnflächen ermittelt worden ist,
-- 33. :: �Wohngebäude“ ein Gebäude, das nach seiner Zweckbestimmung überwiegend dem Wohnen dient, einschließlich von Wohn-, Alten- oder Pflegeheimen sowie ähnlicher Einrichtungen,
-- 34. :: �zweiseitig angebautes Wohngebäude“ ein Wohngebäude, von dessen nach zwei unterschiedlichen Himmelsrichtungen weisenden vertikalen Flächen im Mittel ein Anteil von 80 Prozent oder mehr an ein anderes Wohngebäude oder ein Nichtwohngebäude mit einer Raum-Solltemperatur von mindestens 19 Grad Celsius angrenzt.
+- 32. :: Wohnfläche“ die Fläche, die nach der Wohnflächenverordnung vom 25. November 2003 (BGBl. I S. 2346) oder auf der Grundlage anderer Rechtsvorschriften oder anerkannter Regeln der Technik zur Berechnung von Wohnflächen ermittelt worden ist,
+- 33. :: Wohngebäude“ ein Gebäude, das nach seiner Zweckbestimmung überwiegend dem Wohnen dient, einschließlich von Wohn-, Alten- oder Pflegeheimen sowie ähnlicher Einrichtungen,
+- 34. :: zweiseitig angebautes Wohngebäude“ ein Wohngebäude, von dessen nach zwei unterschiedlichen Himmelsrichtungen weisenden vertikalen Flächen im Mittel ein Anteil von 80 Prozent oder mehr an ein anderes Wohngebäude oder ein Nichtwohngebäude mit einer Raum-Solltemperatur von mindestens 19 Grad Celsius angrenzt.
 
 (2) Erneuerbare Energien im Sinne dieses Gesetzes ist oder sind
 
@@ -457,7 +457,7 @@ Wird ein zu errichtendes Gebäude mit Wärme aus einer Heizungsanlage versorgt, 
 - 1. :: die Summe der Nettogrundflächen aus der typischen Hauptnutzung und den Verkehrsflächen des Gebäudes mehr als zwei Drittel der gesamten Nettogrundfläche des Gebäudes beträgt,
 - 2. :: in dem Gebäude die Beheizung und die Warmwasserbereitung für alle Räume auf dieselbe Art erfolgen,
 - 3. :: das Gebäude nicht gekühlt wird,
-- 4. :: höchstens 10 Prozent der Nettogrundfläche des Gebäudes durch Glühlampen, Halogenlampen oder durch die Beleuchtungsart �indirekt“ nach DIN V 18599: 2018-09 beleuchtet werden und
+- 4. :: höchstens 10 Prozent der Nettogrundfläche des Gebäudes durch Glühlampen, Halogenlampen oder durch die Beleuchtungsart indirekt“ nach DIN V 18599: 2018-09 beleuchtet werden und
 - 5. :: außerhalb der Hauptnutzung keine raumlufttechnische Anlage eingesetzt wird, deren Werte für die spezifische Leistungsaufnahme der Ventilatoren die entsprechenden Werte der Anlage 2 Nummer 6.1 und 6.2 überschreiten.
 
 (2) Das vereinfachte Berechnungsverfahren kann angewandt werden für
@@ -496,7 +496,7 @@ Werden in einem Gebäude bauliche oder anlagentechnische Komponenten eingesetzt,
 - 1. :: bei Wohngebäuden mit höchstens zwei Wohnungen solarthermische Anlagen mit einer Fläche von mindestens 0,04 Quadratmetern Aperturfläche je Quadratmeter Nutzfläche installiert und betrieben werden und
 - 2. :: bei Wohngebäuden mit mehr als zwei Wohnungen solarthermische Anlagen mit einer Fläche von mindestens 0,03 Quadratmetern Aperturfläche je Quadratmeter Nutzfläche installiert und betrieben werden.
 
-(3) Wird eine solarthermische Anlage mit Flüssigkeiten als Wärmeträger genutzt, müssen die darin enthaltenen Kollektoren oder das System mit dem europäischen Prüfzeichen �Solar Keymark“ zertifiziert sein, solange und soweit die Verwendung einer CE-Kennzeichnung nach Maßgabe eines Durchführungsrechtsaktes auf der Grundlage der Richtlinie 2009/125/EG des Europäischen Parlaments und des Rates vom 21. Oktober 2009 zur Schaffung eines Rahmens für die Festlegung von Anforderungen an die umweltgerechte Gestaltung energieverbrauchsrelevanter Produkte (ABl. L 285 vom 31.10.2009, S. 10), die zuletzt durch die Richtlinie 2012/27/EU (ABl. L 315 vom 14.11.2012, S. 1) geändert worden ist, nicht zwingend vorgeschrieben ist. Die Zertifizierung muss nach den anerkannten Regeln der Technik erfolgen.
+(3) Wird eine solarthermische Anlage mit Flüssigkeiten als Wärmeträger genutzt, müssen die darin enthaltenen Kollektoren oder das System mit dem europäischen Prüfzeichen Solar Keymark“ zertifiziert sein, solange und soweit die Verwendung einer CE-Kennzeichnung nach Maßgabe eines Durchführungsrechtsaktes auf der Grundlage der Richtlinie 2009/125/EG des Europäischen Parlaments und des Rates vom 21. Oktober 2009 zur Schaffung eines Rahmens für die Festlegung von Anforderungen an die umweltgerechte Gestaltung energieverbrauchsrelevanter Produkte (ABl. L 285 vom 31.10.2009, S. 10), die zuletzt durch die Richtlinie 2012/27/EU (ABl. L 315 vom 14.11.2012, S. 1) geändert worden ist, nicht zwingend vorgeschrieben ist. Die Zertifizierung muss nach den anerkannten Regeln der Technik erfolgen.
 (+++ § 35: Zur Anwendung vgl. § 44 Abs. 2 Satz 2 +++)\\
 (+++ § 35 Abs. 2: Zur Anwendung vgl. § 52 Abs. 4 Nummer 1 +++)\\
 (+++ § 35 Abs. 3: Zur Anwendung vgl. § 53 Abs. 3 Satz 2 +++)
@@ -1070,13 +1070,13 @@ Einzelheiten werden insbesondere durch Verwaltungsvorschriften des Bundesministe
 
 (2) Vorbehaltlich weitergehender Anforderungen an die Förderung in den Regelungen nach § 89 Satz 3 ist
 
-- 1. :: eine solarthermische Anlage mit Flüssigkeiten als Wärmeträger nur förderfähig, wenn die darin enthaltenen Kollektoren oder das System mit dem europäischen Prüfzeichen �Solar Keymark“ zertifiziert sind oder ist,
+- 1. :: eine solarthermische Anlage mit Flüssigkeiten als Wärmeträger nur förderfähig, wenn die darin enthaltenen Kollektoren oder das System mit dem europäischen Prüfzeichen Solar Keymark“ zertifiziert sind oder ist,
 - 2. :: eine Anlage zur Nutzung von fester Biomasse nur förderfähig, wenn der Umwandlungswirkungsgrad mindestens folgende Werte erreicht:
   - a) :: 89 Prozent bei einer Anlage zur Heizung oder Warmwasserbereitung, die der Erfüllung der Anforderung nach § 10 Absatz 2 Nummer 3 oder der Pflicht nach § 52 Absatz 1 dient,
   - b) :: 70 Prozent bei einer Anlage, die nicht der Heizung oder Warmwasserbereitung dient,
 - 3. :: eine Wärmepumpe zur Nutzung von Geothermie, Umweltwärme oder Abwärme nur förderfähig, wenn sie die Anforderungen der Richtlinie 2009/28/EG erfüllt.
 
-Die Zertifizierung von einer solarthermischen Anlage mit dem europäischen Prüfzeichen �Solar Keymark“ muss nach den anerkannten Regeln der Technik erfolgen. Der Umwandlungswirkungsgrad eines Biomassekessels ist der nach DIN EN 303-5: 2012-10 ermittelte Kesselwirkungsgrad, der Umwandlungswirkungsgrad eines Biomasseofens der nach DIN EN 14785: 2006-09 ermittelte feuerungstechnische Wirkungsgrad und in den übrigen Fällen des Satzes 1 Nummer 2 der nach den anerkannten Regeln der Technik berechnete Wirkungsgrad.
+Die Zertifizierung von einer solarthermischen Anlage mit dem europäischen Prüfzeichen Solar Keymark“ muss nach den anerkannten Regeln der Technik erfolgen. Der Umwandlungswirkungsgrad eines Biomassekessels ist der nach DIN EN 303-5: 2012-10 ermittelte Kesselwirkungsgrad, der Umwandlungswirkungsgrad eines Biomasseofens der nach DIN EN 14785: 2006-09 ermittelte feuerungstechnische Wirkungsgrad und in den übrigen Fällen des Satzes 1 Nummer 2 der nach den anerkannten Regeln der Technik berechnete Wirkungsgrad.
 
 
 § 91 - Verhältnis zu den Anforderungen an ein Gebäude
@@ -1503,7 +1503,7 @@ Anlage 9 - (zu § 85 Absatz 6)Umrechnung in Treibhausgasemissionen
 - 1. :: Angabe in Energiebedarfsausweisen\\
   \\
   Die mit dem Gebäudebetrieb verbundene emittierte Menge von Treibhausgasen berechnet sich für die Angabe in Energiebedarfsausweisen wie folgt:
-  - a) :: Die Treibhausgasemissionen berechnen sich bei fossilen Brennstoffen, bei Biomasse, bei Strom und bei Abwärme aus dem Produkt des nach § 20 oder nach § 21 ermittelten endenergetischen Bedarfswerts des Gebäudes bezüglich des betreffenden Energieträgers und dem auf die eingesetzte Energiemenge bezogenen Emissionsfaktor nach Nummer 3. Der Emissionsfaktor für �gebäudenahe Erzeugung“ bei gasförmiger und flüssiger Biomasse darf dabei nur verwendet werden, wenn die Voraussetzungen des § 22 Absatz 1 Nummer 1 oder Nummer 2 erfüllt sind.
+  - a) :: Die Treibhausgasemissionen berechnen sich bei fossilen Brennstoffen, bei Biomasse, bei Strom und bei Abwärme aus dem Produkt des nach § 20 oder nach § 21 ermittelten endenergetischen Bedarfswerts des Gebäudes bezüglich des betreffenden Energieträgers und dem auf die eingesetzte Energiemenge bezogenen Emissionsfaktor nach Nummer 3. Der Emissionsfaktor für gebäudenahe Erzeugung“ bei gasförmiger und flüssiger Biomasse darf dabei nur verwendet werden, wenn die Voraussetzungen des § 22 Absatz 1 Nummer 1 oder Nummer 2 erfüllt sind.
   - b) :: Wird Wärme aus einer gebäudeintegrierten oder gebäudenahen Kraft-Wärme-Kopplungsanlage bezogen, ist der Emissionsfaktor nach DIN V 18599-9: 2018-09 unter sinngemäßer Anwendung der einschlägigen Regelungen in DIN V 18599-1: 2018-09 Anhang A Abschnitt A.4 zu bestimmen und jeweils mit dem nach § 20 oder nach § 21 ermittelten, durch die Kraft-Wärme-Kopplungsanlage gedeckten endenergetischen Bedarfswert des Gebäudes zu multiplizieren.
   - c) :: Wird Fernwärme oder -kälte zur Deckung des Endenergiebedarfs (Wärme, Kälte) eingesetzt, die ganz oder teilweise aus Kraft-Wärme-Kopplungsanlagen stammt, und hat der Betreiber des Wärmenetzes einen Emissionsfaktor auf der Grundlage der DIN V 18599-1: 2018-09 Anhang A Abschnitt A.4 und unter Verwendung der Emissionsfaktoren nach Nummer 3 ermittelt und veröffentlicht, ist dieser Emissionsfaktor zu verwenden und mit dem nach § 20 oder nach § 21 ermittelten endenergetischen Bedarfswert des Gebäudes zu multiplizieren.
   - d) :: Wird Fernwärme oder -kälte zur Deckung des Endenergiebedarfs (Wärme, Kälte) eingesetzt, die ganz oder teilweise aus Kraft-Wärme-Kopplungsanlagen stammt, und hat der Betreiber des Versorgungsnetzes keinen Emissionsfaktor ermittelt und veröffentlicht, ist der auf die für die Fernwärme oder -kälte eingesetzten Brennstoffe bezogene Emissionsfaktor nach Nummer 3 zu verwenden und mit dem nach § 20 oder nach § 21 ermittelten endenergetischen Bedarfswert des Gebäudes zu multiplizieren.

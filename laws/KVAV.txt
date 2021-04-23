@@ -312,7 +312,7 @@ Jährliche Nettoprämie:
 Jährliche gezillmerte Bruttoprämie:
 [[../normengrafiken/bgbl1_2016/j0780-1_0050_thumb.gif]]
 B. Prämienberechnung bei Prämienanpassungen und Umstufungen
-Die Rechnungsgrundlagen, die vor dem Zeitpunkt der Prämienanpassung gegolten haben, werden mit einem hochgestellten �a“ gekennzeichnet.
+Die Rechnungsgrundlagen, die vor dem Zeitpunkt der Prämienanpassung gegolten haben, werden mit einem hochgestellten a“ gekennzeichnet.
 | [[../normengrafiken/bgbl1_2016/j0780-1_0060_thumb.gif]] | = einmalige Sanierungs- oder unmittelbare Abschlusskosten, gemessen im Mehrfachen der Differenz zwischen neuer und alter Jahresprämie des bereits Versicherten |
 | u                                                       | = erreichtes Alter zum Zeitpunkt der Prämienanpassung                                                                                                          |
 | [[../normengrafiken/bgbl1_2016/j0780-1_0070_thumb.gif]] | = bisher gezahlte Prämie                                                                                                                                       |

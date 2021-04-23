@@ -26,7 +26,7 @@ Diese Verordnung ist anzuwenden auf die Übermittlung elektronisch geführter St
 - 2. :: sofern bekannt, das staatsanwaltschaftliche, finanzbehördliche oder gerichtliche Aktenzeichen des Verfahrens;
 - 3. :: sofern bekannt, Vorgangsnummern zugrunde liegender polizeilicher Ermittlungsvorgänge;
 - 4. :: Tatzeit, Tatort und Tatvorwurf;
-- 5. :: die Bezeichnung der beschuldigten Personen; bei Verfahren gegen Unbekannt anstelle der Bezeichnung der beschuldigten Personen die Angabe �Unbekannt“ sowie, sofern bekannt, die Bezeichnung der geschädigten Personen;
+- 5. :: die Bezeichnung der beschuldigten Personen; bei Verfahren gegen Unbekannt anstelle der Bezeichnung der beschuldigten Personen die Angabe Unbekannt“ sowie, sofern bekannt, die Bezeichnung der geschädigten Personen;
 - 6. :: sofern bekannt, das Aktenzeichen eines denselben Verfahrensgegenstand betreffenden Verfahrens und die Bezeichnung der diese Akten führenden Stelle;
 - 7. :: die Information darüber, ob und in welchem Umfang die Aktenführung oder die Bearbeitungsbefugnis an die empfangende Stelle abgegeben werden sollen oder ob nur ein Repräsentat der elektronischen Akte übersandt wird.
 

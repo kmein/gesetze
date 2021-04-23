@@ -157,7 +157,7 @@ Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
 Der Ausbildungsbetrieb\\
 (§ 4 Abs. 1 Nr. 1)
 
-�
+
 
 1.1
 
@@ -217,7 +217,7 @@ Personalwirtschaft\\
 Organisation, Information und Kommunikation\\
 (§ 4 Abs. 1 Nr. 2)
 
-�
+
 
 2.1
 
@@ -263,7 +263,7 @@ Anwenden einer Fremdsprache bei Fachaufgaben\\
 Kaufmännische Steuerung und Kontrolle\\
 (§ 4 Abs. 1 Nr. 3)
 
-�
+
 
 3.1
 
@@ -300,7 +300,7 @@ Steuern und Versicherungen\\
 Marktorientierung\\
 (§ 4 Abs. 1 Nr. 4)
 
-�
+
 
 4.1
 
@@ -328,7 +328,7 @@ Entwicklungsstrategien, Marketing\\
 Immobilienbewirtschaftung\\
 (§ 4 Abs. 1 Nr. 5)
 
-�
+
 
 5.1
 
@@ -399,7 +399,7 @@ Erwerb, Veräußerung und Vermittlung von Immobilien\\
 Begleitung von Bauvorhaben\\
 (§ 4 Abs. 1 Nr. 7)
 
-�
+
 
 7.1
 
@@ -424,11 +424,11 @@ Finanzierung\\
 - f) :: Rentabilität beim Erwerb und bei der Erstellung von Mietwohnungs- und Gewerbeobjekten ermitteln
 - g) :: Finanzierungsinstrumente und Sicherungsmöglichkeiten hinsichtlich ihrer Bedeutung einschätzen
 
-�
+
 
 Abschnitt II: Fertigkeiten, Kenntnisse und Fähigkeiten in den Wahlqualifikationseinheiten gemäß § 3 Abs. 2 Nr. 2
 
-�
+
 
 1
 

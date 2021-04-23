@@ -126,58 +126,58 @@ Durch die Ausf√ºhrung von Teil B der Pr√ºfung soll der Pr√ºfling zeigen, dass er
 (4) F√ºr den Pr√ºfungsteil B ist von folgenden zeitlichen H√∂chstwerten auszugehen:\\
 1.
 im Schwerpunkt Architektur:
-†
-†
+
+
 a)
 Pr√ºfungsbereich Baueingabe
 90 Minuten,
-†
+
 b)
 Pr√ºfungsbereich Rohbau
 90 Minuten,
-†
+
 c)
 Pr√ºfungsbereich Ausbau
 90 Minuten,
-†
+
 d)
 Pr√ºfungsbereich Wirtschafts- und Sozialkunde
 60 Minuten;
 2.
 im Schwerpunkt Ingenieurbau:
-†
-†
+
+
 a)
 Pr√ºfungsbereich Tragwerke
 90 Minuten,
-†
+
 b)
 Pr√ºfungsbereich Massivbau
 90 Minuten,
-†
+
 c)
 Pr√ºfungsbereich Stahl- und Holzbau
 90 Minuten,
-†
+
 d)
 Pr√ºfungsbereich Wirtschafts- und Sozialkunde
 60 Minuten;
 3.
 im Schwerpunkt Tief-, Stra√üen- und Landschaftsbau:
-†
-†
+
+
 a)
 Pr√ºfungsbereich Stra√üenbau
 90 Minuten,
-†
+
 b)
 Pr√ºfungsbereich Ver- und Entsorgung
 90 Minuten,
-†
+
 c)
 Pr√ºfungsbereich Landschaftsbau
 90 Minuten,
-†
+
 d)
 Pr√ºfungsbereich Wirtschafts- und Sozialkunde
 60 Minuten.
@@ -185,58 +185,58 @@ Pr√ºfungsbereich Wirtschafts- und Sozialkunde
 (6) Innerhalb des Pr√ºfungsteils B sind die Pr√ºfungsbereiche wie folgt zu gewichten:\\
 1.
 im Schwerpunkt Architektur:
-†
-†
+
+
 a)
 Pr√ºfungsbereich Baueingabe
 30 Prozent,
-†
+
 b)
 Pr√ºfungsbereich Rohbau
 25 Prozent,
-†
+
 c)
 Pr√ºfungsbereich Ausbau
 25 Prozent,
-†
+
 d)
 Pr√ºfungsbereich Wirtschafts- und Sozialkunde
 20 Prozent;
 2.
 im Schwerpunkt Ingenieurbau:
-†
-†
+
+
 a)
 Pr√ºfungsbereich Tragwerke
 25 Prozent,
-†
+
 b)
 Pr√ºfungsbereich Massivbau
 30 Prozent,
-†
+
 c)
 Pr√ºfungsbereich Stahl- und Holzbau
 25 Prozent,
-†
+
 d)
 Pr√ºfungsbereich Wirtschafts- und Sozialkunde
 20 Prozent;
 3.
 im Schwerpunkt Tief-, Stra√üen- und Landschaftsbau:
-†
-†
+
+
 a)
 Pr√ºfungsbereich Stra√üenbau
 30 Prozent,
-†
+
 b)
 Pr√ºfungsbereich Ver- und Entsorgung
 25 Prozent,
-†
+
 c)
 Pr√ºfungsbereich Landschaftsbau
 25 Prozent,
-†
+
 d)
 Pr√ºfungsbereich Wirtschafts- und Sozialkunde
 20 Prozent.
@@ -336,40 +336,40 @@ Organisation und Kommunikation, Arbeitsabl√§ufe\\
 
 4
 
-†
 
-†
 
-†
+
+
+
 
 - c) :: Informationen beschaffen, nutzen und weiterleiten
 
-†
+
 
 2
 
-†
 
-†
+
+
 
 - d) :: fremdsprachliche Begriffe und Fachausdr√ºcke anwenden
 
-†
 
-†
+
+
 
 2
 
-†
+
 
 - e) :: im Team arbeiten, Arbeitsaufgaben inhaltlich und zeitlich strukturieren und abstimmen, Ergebnisse darstellen
 - f) :: Termine planen, koordinieren und √ºberwachen
 
-†
 
-†
 
-†
+
+
+
 
 4
 
@@ -384,35 +384,35 @@ Zusammenarbeit mit Beh√∂rden und anderen am Bau Beteiligten\\
 
 5
 
-†
 
-†
 
-†
+
+
+
 
 - d) :: bei der Erstellung baurechtlicher Unterlagen mitwirken
 - e) :: Berechnungen nach baurechtlichen Vorgaben erstellen
 - f) :: Auflagen, Eintr√§ge und Pr√ºfvermerke umsetzen
 - g) :: Arbeits- und Projektabl√§ufe abstimmen
 
-†
 
-†
+
+
 
 5
 
-†
+
 
 - h) :: Projektpr√§sentationen erstellen
 - i) :: Unterlagen f√ºr Ausschreibungen und Abrechnungen ausarbeiten, zusammenstellen sowie bei Vergabeverfahren mitwirken
 
-†
 
-†
+
+
 
 4
 
-†
+
 
 7
 
@@ -429,11 +429,11 @@ Umgang mit Informations- und Kommunikationstechniken\\
 
 6
 
-†
 
-†
 
-†
+
+
+
 
 8
 
@@ -451,32 +451,32 @@ Techniken des Zeichnens\\
 
 8
 
-†
 
-†
 
-†
+
+
+
 
 - i) :: Parallelperspektiven anfertigen
 - k) :: Graphiken, Diagramme und Schaubilder erstellen
 
-†
+
 
 5
 
-†
 
-†
+
+
 
 - l) :: Fluchtpunktperspektiven erstellen
 
-†
 
-†
+
+
 
 3
 
-†
+
 
 9
 
@@ -487,22 +487,22 @@ Auswahl und Verwendung von Baustoffen und Bauelementen\\
 
 6
 
-†
 
-†
 
-†
+
+
+
 
 - b) :: M√∂glichkeiten der Wiederverwertung von B√∂den und Baustoffen unterscheiden
 - c) :: Zulassung und Zertifizierung von Baustoffen unterscheiden
 
-†
+
 
 3
 
-†
 
-†
+
+
 
 10
 
@@ -518,21 +518,21 @@ Die nachfolgenden Fertigkeiten und Kenntnisse sind im Rahmen von prozesshaften A
 
 6
 
-†
 
-†
 
-†
+
+
+
 
 - e) :: Bauteile im Ausbau herstellen, Gr√§ben und Baugruben sichern, Rohrleitungen einbauen, Decken und Bel√§ge herstellen oder Pflanzungen anlegen
 
-†
+
 
 6
 
-†
 
-†
+
+
 
 11
 
@@ -547,22 +547,22 @@ Bestandsaufnahme und Vermessung\\
 
 3
 
-†
 
-†
 
-†
+
+
+
 
 - f) :: Messdaten, insbesondere in rechnergest√ºtzte Systeme, √ºbernehmen
 - g) :: Fotodokumentationen erstellen
 
-†
 
-†
+
+
 
 3
 
-†
+
 
 12
 
@@ -576,30 +576,30 @@ Rechnergest√ºtztes Zeichnen\\
 
 12
 
-†
 
-†
 
-†
+
+
+
 
 - e) :: Grundrisse, Schnitte und Ansichten konstruieren
 - f) :: Bibliotheken erstellen und nutzen
 
-†
 
-†
+
+
 
 6
 
-†
+
 
 - g) :: Zeichnungen f√ºr Pr√§sentationen erstellen
 
-†
 
-†
 
-†
+
+
+
 
 2
 
@@ -612,32 +612,32 @@ Konstruieren von Bauteilen\\
 
 2
 
-†
 
-†
 
-†
+
+
+
 
 - b) :: Grundrisse, Schnitte, Ansichten und Details von W√§nden, St√ºtzen und Decken zeichnen
 
-†
+
 
 6
 
-†
 
-†
+
+
 
 - c) :: Treppen und D√§cher konstruieren
 - d) :: Mengen- und Massenermittlungen von Bauteilen durchf√ºhren
 
-†
 
-†
+
+
 
 7
 
-†
+
 
 14
 
@@ -652,13 +652,13 @@ Qualit√§tssichernde Ma√ünahmen, Kundenorientierung\\
 - c) :: Auswirkungen der Kundenzufriedenheit auf das Betriebsergebnis darstellen
 - d) :: Aufgaben ziel- und kundenorientiert bearbeiten
 
-†
+
 
 4*)
 
-†
 
-†
+
+
 
 \\
 Abschnitt II: Fertigkeiten und Kenntnisse in den Schwerpunkten
@@ -695,11 +695,11 @@ Auswahl und Verwendung von Baustoffen und Bauelementen\\
 - a) :: Bauweisen, insbesondere Massivbauweise, Skelettbauweise und Fachwerke, nach den Eigenschaften der Baustoffe beurteilen und in Bauunterlagen √ºbernehmen
 - b) :: Bauelemente nach ihren Eigenschaften beurteilen und in Bauunterlagen √ºbernehmen, insbesondere Mauerwerk, D√§mmsysteme, Fenster und T√ºren, Dacheindeckungen, Fu√üb√∂den, Decken- und Wandbekleidungen, Trockenbausysteme, Fassadensysteme sowie Be- und Entw√§sserungssysteme
 
-†
 
-†
 
-†
+
+
+
 
 16
 
@@ -717,11 +717,11 @@ Erstellen von Pl√§nen und Zeichnungen, fachspezifische Berechnungen\\
 - g) :: Gel√§ndeverlauf darstellen
 - h) :: Zeichnungen des raumbildenden Ausbaus erstellen
 
-†
 
-†
 
-†
+
+
+
 
 26
 
@@ -758,11 +758,11 @@ Auswahl und Verwendung von Baustoffen und Bauelementen\\
 - a) :: Bauweisen, insbesondere Massiv-, Stahlbeton-, Stahl- und Holzbauweisen, nach den Eigenschaften der Baustoffe beurteilen und in Bauunterlagen √ºbernehmen
 - b) :: Bauarten nach ihren Eigenschaften beurteilen und in Bauunterlagen √ºbernehmen, insbesondere Unterfangungen, Verbauarten, Verbundsysteme, Spannbeton und D√§mmsysteme
 
-†
 
-†
 
-†
+
+
+
 
 16
 
@@ -779,11 +779,11 @@ Erstellen von Pl√§nen und Zeichnungen, fachspezifische Berechnungen\\
 - f) :: technische Vorgaben √ºbernehmen, insbesondere aus der Geb√§udeausr√ºstung und aus den Boden- und Grundst√ºcksgutachten
 - g) :: Mengen- und Massenermittlungen f√ºr Ausf√ºhrung und Abrechnung durchf√ºhren, Materiallisten erstellen
 
-†
 
-†
 
-†
+
+
+
 
 26
 
@@ -820,11 +820,11 @@ Auswahl und Verwendung von Baustoffen und Bauelementen\\
 - a) :: Bauweisen, insbesondere Erdbauwerke, Verkehrswege, Ver- und Entsorgungssysteme, Beton- und Stahlbetonbauwerke sowie B√∂schungsbefestigungen, nach den Eigenschaften der Baustoffe beurteilen und in Bauunterlagen √ºbernehmen
 - b) :: Bauelemente nach ihren Eigenschaften beurteilen und in Bauunterlagen √ºbernehmen, insbesondere Unterbau, Trag- und Deckenschichten, Sch√§chte, Rohre, Formst√ºcke und Armaturen, Gestaltungselemente, Beschilderungen sowie Einfriedungen
 
-†
 
-†
 
-†
+
+
+
 
 16
 
@@ -845,11 +845,11 @@ Erstellen von Pl√§nen und Zeichnungen, fachspezifische Berechnungen\\
 - k) :: Vorgaben zur Umweltvertr√§glichkeit sowie zum L√§rm- und Schallschutz √ºbernehmen
 - l) :: Kr√ºmmungs- und Querneigungsb√§nder zeichnen sowie Belagsh√∂henpl√§ne oder Deckenh√∂henpl√§ne erstellen
 
-†
 
-†
 
-†
+
+
+
 
 26
 

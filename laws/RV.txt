@@ -214,9 +214,9 @@ Fundstelle des Originaltextes: BGBl. III 7601-6-8, S. 91
 (Auf 1 Mitglied kommen Arbeitsunf√§higkeitstage)\\
 M√§nner
 Alter
-†
+
 Alter
-†
+
 20
 8,4
 42
@@ -305,7 +305,7 @@ Alter
 11,3
 63
 20,7
-†
-†
+
+
 64
 20,7

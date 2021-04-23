@@ -413,11 +413,11 @@ Anlage - (zu § 4)Ausbildungsrahmenplan für die Berufsausbildung im Holz- und B
 Teil I: Berufsausbildung zur Fachkraft für\\
 Holz- und Bautenschutzarbeiten
 
-�
+
 
 Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
 
-�
+
 
 Lfd. Nr.
 
@@ -459,7 +459,7 @@ Unterscheiden von Schäden an Holz, Holzbauteilen und Einbindungsbereichen sowie
 
 10
 
-�
+
 
 - d) :: Lebensweisen und Eigenschaften von:
 - - :: Gewöhnlichem Nagekäfer
@@ -477,7 +477,7 @@ Unterscheiden von Schäden an Holz, Holzbauteilen und Einbindungsbereichen sowie
   unterscheiden und diese Schadorganismen an geschädigtem Holz identifizieren, insbesondere anhand von Nagsel, Fraßgang, Schlupfloch und Holzart
 - e) :: Art und Umfang des Schädlingsbefalls mit Hilfe von Werkzeugen und Feuchtemessgeräten feststellen und dokumentieren
 
-�
+
 
 6
 
@@ -495,7 +495,7 @@ Durchführen von vorbeugenden Maßnahmen gegen holzzerstörende Pilze und Insekt
 
 8
 
-�
+
 
 3
 
@@ -510,7 +510,7 @@ Bekämpfen holzzerstörender Insekten (§ 4 Abs. 2 Abschnitt A Nr. 3)
   - - :: bei Splintholzkäferbefall an Einbauteilen
 - c) :: Holzschutzmittel entsprechend Prüfprädikat und Gefährdungsklasse einsetzen und verarbeiten
 
-�
+
 
 8
 
@@ -522,11 +522,11 @@ Behandeln und Beseitigen von Pilzbefall (§ 4 Abs. 2 Abschnitt A Nr. 4)
 
 6
 
-�
+
 
 - b) :: nicht befallene Bauteile sichern und geschädigte Bauteile unter Einbeziehung beteiligter Gewerke ausbauen
 
-�
+
 
 3
 
@@ -540,12 +540,12 @@ Vorbereiten und Durchführen nachträglicher Außen- und Innenabdichtungen an er
 
 9
 
-�
+
 
 - d) :: Gräben an erdberührten Bauteilen hinsichtlich der Sicherheitsbestimmungen unterscheiden
 - e) :: mineralische Innenabdichtungen durchführen
 
-�
+
 
 9
 
@@ -557,7 +557,7 @@ Vorbereiten und Durchführen nachträglicher chemischer Horizontalabdichtungen (
 - b) :: Injektionstechniken unterscheiden
 - c) :: Injektionen von Mauerwerken gegen kapillare Feuchtigkeit durchführen
 
-�
+
 
 10
 
@@ -572,7 +572,7 @@ Vorbereiten von Flächen und Aufbringen von Sanierputzen (§ 4 Abs. 2 Abschnitt 
 - e) :: Risse und Fehlstellen verschließen
 - f) :: Sanierung mittels Spritzbewurf, Porengrundputz und Sanierputz durchführen
 
-�
+
 
 10
 
@@ -587,9 +587,9 @@ Austrocknen durchfeuchteter Bauwerke (§ 4 Abs. 2 Abschnitt A Nr. 8)
 
 2
 
-�
 
-�
+
+
 
 Abschnitt B: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
 
@@ -646,12 +646,12 @@ Information und Kommunikation, kundenorientiertes Verhalten (§ 4 Abs. 2 Abschni
 
 2
 
-�
+
 
 - f) :: Wünsche und Einwände von Kunden entgegennehmen und weiterleiten
 - g) :: Gespräche kundenorientiert führen
 
-�
+
 
 2
 
@@ -669,7 +669,7 @@ Planen und Vorbereiten von Arbeitsschritten (§ 4 Abs. 2 Abschnitt B Nr. 6)
 
 5
 
-�
+
 
 7
 
@@ -681,11 +681,11 @@ Handhaben und Warten von Werkzeugen, Geräten und Maschinen (§ 4 Abs. 2 Abschni
 
 3
 
-�
+
 
 - d) :: Leitern und Arbeitsgerüste nach Vorgabe auf- und abbauen
 
-�
+
 
 2
 
@@ -699,7 +699,7 @@ Umgehen mit Gefahrstoffen und sonstigen Werkstoffen (§ 4 Abs. 2 Abschnitt B Nr.
 
 3
 
-�
+
 
 9
 
@@ -711,16 +711,16 @@ Durchführen von qualitätssichernden Maßnahmen (§ 4 Abs. 2 Abschnitt B Nr. 9)
 
 4
 
-�
+
 
 - d) :: zur Verbesserung der Arbeitsqualität im eigenen Bereich beitragen
 - e) :: Ergebnisse dokumentieren und bewerten
 
-�
+
 
 2
 
-�
+
 
 Teil II: Berufsausbildung zum\\
 Holz- und Bautenschützer/zur Holz- und Bautenschützerin
@@ -747,7 +747,7 @@ Unterscheiden von Schäden an Holz, Holzbauteilen und Einbindungsbereichen sowie
 
 10
 
-�
+
 
 - d) :: Lebensweisen und Eigenschaften von:
   - - :: Gewöhnlichem Nagekäfer
@@ -761,7 +761,7 @@ Unterscheiden von Schäden an Holz, Holzbauteilen und Einbindungsbereichen sowie
   unterscheiden und diese Schadorganismen an geschädigtem Holz identifizieren, insbesondere anhand von Nagsel, Fraßgang, Schlupfloch und Holzart
 - e) :: Art und Umfang des Schädlingsbefalls mit Hilfe von Werkzeugen und Feuchtemessgeräten feststellen und dokumentieren
 
-�
+
 
 6
 
@@ -779,7 +779,7 @@ Durchführen von vorbeugenden Maßnahmen gegen holzzerstörende Pilze und Insekt
 
 8
 
-�
+
 
 3
 
@@ -794,7 +794,7 @@ Bekämpfen holzzerstörender Insekten (§ 4 Abs. 3 Abschnitt A Nr. 3)
   - - :: bei Splintholzkäferbefall an Einbauteilen
 - c) :: Holzschutzmittel entsprechend Prüfprädikat und Gefährdungsklasse einsetzen und verarbeiten
 
-�
+
 
 8
 
@@ -806,11 +806,11 @@ Behandeln und Beseitigen von Pilzbefall (§ 4 Abs. 3 Abschnitt A Nr. 4)
 
 6
 
-�
+
 
 - b) :: nicht befallene Bauteile sichern und geschädigte Bauteile unter Einbeziehung beteiligter Gewerke ausbauen
 
-�
+
 
 3
 
@@ -824,12 +824,12 @@ Vorbereiten und Durchführen nachträglicher Außen- und Innenabdichtungen an er
 
 9
 
-�
+
 
 - d) :: Gräben an erdberührten Bauteilen hinsichtlich der Sicherheitsbestimmungen unterscheiden
 - e) :: mineralische Innenabdichtungen durchführen
 
-�
+
 
 9
 
@@ -841,7 +841,7 @@ Vorbereiten und Durchführen nachträglicher chemischer Horizontalabdichtungen (
 - b) :: Injektionstechniken unterscheiden
 - c) :: Injektionen von Mauerwerken gegen kapillare Feuchtigkeit durchführen
 
-�
+
 
 10
 
@@ -856,7 +856,7 @@ Vorbereiten von Flächen und Aufbringen von Sanierputzen (§ 4 Abs. 3 Abschnitt 
 - e) :: Risse und Fehlstellen verschließen
 - f) :: Sanierung mittels Spritzbewurf, Porengrundputz und Sanierputz durchführen
 
-�
+
 
 10
 
@@ -871,9 +871,9 @@ Austrocknen durchfeuchteter Bauwerke (§ 4 Abs. 3 Abschnitt A Nr. 8)
 
 2
 
-�
 
-�
+
+
 
 Abschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Holzschutz
 
@@ -975,7 +975,7 @@ Qualitätsmanagement (§ 4 Abs. 3 Abschnitt B Nr. 8)
 
 4
 
-�
+
 
 Abschnitt C: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Bautenschutz
 
@@ -1083,7 +1083,7 @@ Qualitätsmanagement (§ 4 Abs. 3 Abschnitt C Nr. 10)
 
 4
 
-�
+
 
 Abschnitt D: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
 
@@ -1128,7 +1128,7 @@ Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsber
 - c) :: Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 - d) :: Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
-�
+
 
 5
 
@@ -1142,12 +1142,12 @@ Information und Kommunikation, kundenorientiertes Verhalten (§ 4 Abs. 3 Abschni
 
 2
 
-�
+
 
 - f) :: Wünsche und Einwände von Kunden entgegennehmen und weiterleiten
 - g) :: Gespräche kundenorientiert führen
 
-�
+
 
 2
 
@@ -1165,7 +1165,7 @@ Planen und Vorbereiten von Arbeitsschritten (§ 4 Abs. 3 Abschnitt D Nr. 6)
 
 5
 
-�
+
 
 7
 
@@ -1177,11 +1177,11 @@ Handhaben und Warten von Werkzeugen, Geräten und Maschinen (§ 4 Abs. 3 Abschni
 
 3
 
-�
+
 
 - d) :: Leitern und Arbeitsgerüste nach Vorgabe auf- und abbauen
 
-�
+
 
 2
 
@@ -1195,7 +1195,7 @@ Umgehen mit Gefahrstoffen und sonstigen Werkstoffen (§ 4 Abs. 3 Abschnitt D Nr.
 
 3
 
-�
+
 
 9
 
@@ -1207,11 +1207,11 @@ Durchführen von qualitätssichernden Maßnahmen (§ 4 Abs. 3 Abschnitt D Nr. 9)
 
 4
 
-�
+
 
 - d) :: zur Verbesserung der Arbeitsqualität im eigenen Bereich beitragen
 - e) :: Ergebnisse dokumentieren und bewerten
 
-�
+
 
 2

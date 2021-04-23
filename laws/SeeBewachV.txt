@@ -159,7 +159,7 @@ Das Bewachungsunternehmen darf für Bewachungsaufgaben nur Personen einsetzen, d
 - 8. :: Kenntnisse in Erster Hilfe und Lebensrettung auf See,
 - 9. :: über die Bedrohungslage in gefährdeten Seegebieten, insbesondere Vorgehensweisen und Bewaffnung bestimmter Tätergruppierungen und Ziele von Überfällen,
 - 10. :: über die Militäroperationen in gefährdeten Seegebieten, insbesondere Meldeverfahren und mögliche Interventionsmaßnahmen eingesetzter Streitkräfte,
-- 11. :: Leitlinien der Internationalen Seeschifffahrts-Organisation (IMO) �Überarbeitete vorläufige Leitlinien für Reeder, Schiffsbetreiber und Schiffsführer über den Einsatz von bewaffnetem privaten Wachpersonal an Bord von Schiffen im Hochrisikogebiet“ in der Fassung der Bekanntmachung des Bundesministeriums für Verkehr, Bau und Stadtentwicklung vom 15. Mai 2013 (IMO-Seeschiffbewachungsleitlinien; VkBl. 2013 S. 640, VkBl. 2013 S. 651) einschlie�Besten Strategien und Verhaltensweisen zum Schutz gegen somalische Piraten“ (Best Management Practices for Protection against Somalia Based Piracy) in der Fassung der Bekanntmachung des Bundesministeriums für Verkehr, Bau und Stadtentwicklung vom 22. Mai 2013 (BMP; VkBl. 2013 S. 655),
+- 11. :: Leitlinien der Internationalen Seeschifffahrts-Organisation (IMO) Überarbeitete vorläufige Leitlinien für Reeder, Schiffsbetreiber und Schiffsführer über den Einsatz von bewaffnetem privaten Wachpersonal an Bord von Schiffen im Hochrisikogebiet“ in der Fassung der Bekanntmachung des Bundesministeriums für Verkehr, Bau und Stadtentwicklung vom 15. Mai 2013 (IMO-Seeschiffbewachungsleitlinien; VkBl. 2013 S. 640, VkBl. 2013 S. 651) einschlieBesten Strategien und Verhaltensweisen zum Schutz gegen somalische Piraten“ (Best Management Practices for Protection against Somalia Based Piracy) in der Fassung der Bekanntmachung des Bundesministeriums für Verkehr, Bau und Stadtentwicklung vom 22. Mai 2013 (BMP; VkBl. 2013 S. 655),
 - 12. :: die Dienstanweisungen nach § 5 Absatz 2,
 - 13. :: die spezifische Taktik für das Einsatzverfahren auf See sowie
 - 14. :: Kenntnisse der englischen Sprache.
@@ -362,14 +362,14 @@ Anlage - (zu § 10 Absatz 1)Sachkunde
   Das Bewachungsunternehmen hat die Wachpersonen über den ISPS-Code und den ISM-Code zu unterrichten. In einer Grundschulung sollen den Wachpersonen die Grundzüge der Vorschriften, deren Entstehung sowie Zielsetzung vermittelt werden. Die Unterrichtung soll auf die für den möglichen Einsatz relevanten Themengebiete beschränkt werden. Für den Umgang mit Gefahrguttransporten ist eine Grundeinweisung vorzunehmen.
 - 4. :: Verhalten an Bord und seemännische Grundkenntnisse
   Die Unterrichtung soll zwölf Zeitstunden nicht unterschreiten.
-  Der Qualifikationsteil �Verhalten an Bord und seemännische Grundkenntnisse“ umfasst folgende Schwerpunkte:
+  Der Qualifikationsteil Verhalten an Bord und seemännische Grundkenntnisse“ umfasst folgende Schwerpunkte:
 - 4.1 :: Verhalten an Bord
   Grundkenntnisse zum Verhalten an Bord müssen in einem Umfang vorhanden sein, der es den Wachpersonen ermöglicht, sich sicher und ohne Eigengefährdung an Bord eines Seeschiffes zu bewegen und den Seeschiffsverkehr im Umfeld des Seeschiffes ihres Einsatzes einschätzen und bewerten zu können;
 - 4.2 :: Seemännische Grundkenntnisse
   Die seemännischen Grundkenntnisse umfassen die unterschiedlichen Schiffstypen und Aufbauten, die Funktionen der Besatzungsmitglieder und deren Arbeitsumgebung, das Leben an Bord, das Verhalten bei Seenotfällen, Havarien und Unwetter, wie sie zum Beispiel in den Tabellen A-VI/1-1, A-VI/1-2 und A-VI/1-4 der Anlage zum STCW-Übereinkommen beschrieben werden. Zu den seemännischen Grundkenntnissen zählen weiterhin die Bestimmungen des Umweltschutzes auf See.
 - 5. :: Technische Kenntnisse in Bezug auf Seeschiff und Ausrüstung
   Die Unterrichtung soll sechs Zeitstunden nicht unterschreiten.
-  Der Qualifikationsteil �Technische Kenntnisse“ umfasst folgende Schwerpunkte:
+  Der Qualifikationsteil Technische Kenntnisse“ umfasst folgende Schwerpunkte:
 - 5.1 :: Grundzüge der Sicherheitstechnik
   Die Grundzüge der Sicherheitstechnik umfassen die mechanischen Sicherungseinrichtungen an Bord, Gefahrenmeldeanlagen, Kommunikationsmittel, Alarmverfolgung, Brandschutz und Brandbekämpfung;
 - 5.2 :: Die Handhabung von Rettungseinrichtungen
@@ -420,7 +420,7 @@ Anlage - (zu § 10 Absatz 1)Sachkunde
   Die vom Bewachungsunternehmen eingesetzten Wachpersonen erfüllen diese Anforderung, wenn sie einen Nachweis besitzen über eine Einführungs- und Sicherheitsgrundausbildung nach Maßgabe von Abschnitt A-VI/1, Tabelle A-VI/1-3 der Anlage zum STCW-Übereinkommen. Der Nachweis darf nicht älter als ein Jahr sein;
 - 8.2 :: Sanitätshelfer
   Die Unterrichtung soll 32 Zeitstunden nicht unterschreiten.
-  Die als Sanitätshelfer eingesetzte Wachperson erfüllt die Anforderungen, wenn sie am Lehrgang �Sanitätshelfer“ einer anerkannten Hilfsorganisation teilgenommen hat. Es können auch andere vergleichbare bzw. höherwertigere medizinische Qualifikationen anerkannt werden. Das Bewachungsunternehmen hat in diesem Fall nachzuweisen, dass die Inhalte des Lehrgangs �Sanitätshelfer“ vermittelt wurden. Die besonderen Erfordernisse der Seefahrt werden durch die in den Nummern 4 und 5 dieser Anlage bezeichneten Kenntnisse erfüllt. Weiterhin ist eine Fortbildung bei der ärztlichen Versorgung von Schusswunden, Brandwunden und Verletzungen durch Explosionen erforderlich, sofern sie nicht durch den oben genannten Lehrgang bereits abgedeckt wird.
+  Die als Sanitätshelfer eingesetzte Wachperson erfüllt die Anforderungen, wenn sie am Lehrgang Sanitätshelfer“ einer anerkannten Hilfsorganisation teilgenommen hat. Es können auch andere vergleichbare bzw. höherwertigere medizinische Qualifikationen anerkannt werden. Das Bewachungsunternehmen hat in diesem Fall nachzuweisen, dass die Inhalte des Lehrgangs Sanitätshelfer“ vermittelt wurden. Die besonderen Erfordernisse der Seefahrt werden durch die in den Nummern 4 und 5 dieser Anlage bezeichneten Kenntnisse erfüllt. Weiterhin ist eine Fortbildung bei der ärztlichen Versorgung von Schusswunden, Brandwunden und Verletzungen durch Explosionen erforderlich, sofern sie nicht durch den oben genannten Lehrgang bereits abgedeckt wird.
 - 9. :: Kenntnisse über die Bedrohungslage in gefährdeten Seegebieten, insbesondere Vorgehensweisen und Bewaffnung bestimmter Tätergruppierungen, Zielrichtungen von Überfällen
   Die Unterrichtung soll acht Zeitstunden nicht unterschreiten.
   Das Bewachungsunternehmen hat alle seine Wachpersonen in der Grundschulung über die allgemeine und besondere Bedrohungslage in den möglichen Einsatzgebieten zu unterrichten. Es sollen Kenntnisse über die Tätergruppierungen, deren Vorgehensweisen und Bewaffnung vermittelt werden.
@@ -430,7 +430,7 @@ Anlage - (zu § 10 Absatz 1)Sachkunde
   Weiterhin hat das Bewachungsunternehmen sicherzustellen, dass die Wachpersonen mit den verschiedenen Meldeverfahren in gefährdeten Seegebieten vertraut sind und der Einsatzleiter in der Lage ist, den Kapitän bei seinen Meldungen zu unterstützen.
 - 11. :: Kenntnis der relevanten Leitlinien der Internationalen Seeschifffahrts-Organisation
   Die Unterrichtung soll acht Zeitstunden nicht unterschreiten.
-  Das Bewachungsunternehmen hat die Wachpersonen in einer Grundschulung über die IMO-Seeschiffbewachungsleitlinien und die �Empfohlenen Handlungspraktiken zum Schutz gegen somalische Piraten“ (Best Management Practices for Protection against Somalia Based Piracy, BMP) zu unterrichten. Die Wachpersonen sollen die entsprechenden Vorschriften kennen und anwenden können. Die Wachpersonen sollen in der Lage sein, die Schiffsbesatzung bei der Umsetzung der jeweils aktuellen BMP zu unterstützen.
+  Das Bewachungsunternehmen hat die Wachpersonen in einer Grundschulung über die IMO-Seeschiffbewachungsleitlinien und die Empfohlenen Handlungspraktiken zum Schutz gegen somalische Piraten“ (Best Management Practices for Protection against Somalia Based Piracy, BMP) zu unterrichten. Die Wachpersonen sollen die entsprechenden Vorschriften kennen und anwenden können. Die Wachpersonen sollen in der Lage sein, die Schiffsbesatzung bei der Umsetzung der jeweils aktuellen BMP zu unterstützen.
 - 12. :: Kenntnis der Dienstanweisungen nach § 5 Absatz 2 der Verordnung
 - 13. :: Kenntnisse der spezifischen Taktik für das Einsatzverfahren auf See
   Erforderlich ist die Kenntnis der neuesten, an Bord von Seeschiffen verwendbaren Sicherheitsvorkehrungen und deren Wirksamkeit.

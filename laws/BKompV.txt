@@ -95,15 +95,15 @@ Die nach den S√§tzen 1 bis 3 ermittelte Summe ergibt den Biotopwert. Bei einem E
 - 5. :: Biotopwerte 19 bis 21: sehr hoch,
 - 6. :: Biotopwerte 22 bis 24: hervorragend.
 
-(3) Zur Bewertung der zu erwartenden unvermeidbaren Beeintr√§chtigungen sind die Wirkungen des Vorhabens auf die erfassten und bewerteten Biotope zu ermitteln und im Hinblick auf ihre St√§rke, Dauer und Reichweite den Stufen ‚Ägering‚Äú, ‚Ämittel‚Äú und ‚Ähoch‚Äú zuzuordnen. Anschlie√üend ist anhand der Anlage 3 festzustellen, ob die einzelnen zu erwartenden Beeintr√§chtigungen f√ºr das jeweilige Biotop als nicht erheblich, erheblich oder erheblich mit besonderer Schwere einzustufen sind.
-(4) Den mittelbaren Wirkungen des Vorhabens auf Biotope ist bei der Bestimmung ihrer St√§rke, Dauer und Reichweite nach Absatz 3 Satz 1 entsprechend jeweils ein Faktor zwischen 0,1 und 1 zuzuordnen. Dabei entsprechen die Faktoren 0,1 bis 0,3 der Stufe ‚Ägering‚Äú, die Faktoren 0,4 bis 0,6 der Stufe ‚Ämittel‚Äú und die Faktoren 0,7 bis 1 der Stufe ‚Ähoch‚Äú. Der Zuordnung k√∂nnen unterschiedliche Wirkzonen zugrunde gelegt werden.
+(3) Zur Bewertung der zu erwartenden unvermeidbaren Beeintr√§chtigungen sind die Wirkungen des Vorhabens auf die erfassten und bewerteten Biotope zu ermitteln und im Hinblick auf ihre St√§rke, Dauer und Reichweite den Stufen gering‚Äú, mittel‚Äú und hoch‚Äú zuzuordnen. Anschlie√üend ist anhand der Anlage 3 festzustellen, ob die einzelnen zu erwartenden Beeintr√§chtigungen f√ºr das jeweilige Biotop als nicht erheblich, erheblich oder erheblich mit besonderer Schwere einzustufen sind.
+(4) Den mittelbaren Wirkungen des Vorhabens auf Biotope ist bei der Bestimmung ihrer St√§rke, Dauer und Reichweite nach Absatz 3 Satz 1 entsprechend jeweils ein Faktor zwischen 0,1 und 1 zuzuordnen. Dabei entsprechen die Faktoren 0,1 bis 0,3 der Stufe gering‚Äú, die Faktoren 0,4 bis 0,6 der Stufe mittel‚Äú und die Faktoren 0,7 bis 1 der Stufe hoch‚Äú. Der Zuordnung k√∂nnen unterschiedliche Wirkzonen zugrunde gelegt werden.
 (+++ ¬ß 5 Abs. 1 Satz 1 und 2: Zur Geltung vgl. ¬ß 7 Abs. 1 Satz 4\\
 ¬ß 5 Abs. 1 Satz 1 und 2: Zur Geltung vgl. ¬ß 8 Abs. 2 S 2 +++)
 
 ¬ß 6 - Bewertung weiterer Schutzg√ºter
 
-(1) Die Erfassung und Bewertung der in der Anlage 1 Spalte 1 und 2 genannten weiteren Schutzg√ºter und Funktionen erfolgt anhand der Anlage 1 Spalte 3. Die Bedeutung der erfassten Funktionen ist anschlie√sehr gering‚Äú, ‚Ägering‚Äú, ‚Ämittel‚Äú, ‚Ähoch‚Äú, ‚Äsehr hoch‚Äú und ‚Ähervorragend‚Äú zu bewerten.
-(2) Zur Bewertung der zu erwartenden unvermeidbaren Beeintr√§chtigungen der Schutzg√ºter und Funktionen nach Anlage 1 Spalte 1 und 2 sind die ausgehenden Wirkungen des Vorhabens auf die erfassten und bewerteten Funktionen zu ermitteln und im Hinblick auf ihre St√§rke, Dauer und Reichweite den Stufen ‚Ägering‚Äú, ‚Ämittel‚Äú und ‚Ähoch‚Äú zuzuordnen. Anschlie√üend ist anhand der Anlage 3 festzustellen, ob die einzelnen zu erwartenden Beeintr√§chtigungen f√ºr die jeweils betroffene Funktion als nicht erheblich, erheblich oder erheblich mit besonderer Schwere einzustufen sind.
+(1) Die Erfassung und Bewertung der in der Anlage 1 Spalte 1 und 2 genannten weiteren Schutzg√ºter und Funktionen erfolgt anhand der Anlage 1 Spalte 3. Die Bedeutung der erfassten Funktionen ist anschliesehr gering‚Äú, gering‚Äú, mittel‚Äú, hoch‚Äú, sehr hoch‚Äú und hervorragend‚Äú zu bewerten.
+(2) Zur Bewertung der zu erwartenden unvermeidbaren Beeintr√§chtigungen der Schutzg√ºter und Funktionen nach Anlage 1 Spalte 1 und 2 sind die ausgehenden Wirkungen des Vorhabens auf die erfassten und bewerteten Funktionen zu ermitteln und im Hinblick auf ihre St√§rke, Dauer und Reichweite den Stufen gering‚Äú, mittel‚Äú und hoch‚Äú zuzuordnen. Anschlie√üend ist anhand der Anlage 3 festzustellen, ob die einzelnen zu erwartenden Beeintr√§chtigungen f√ºr die jeweils betroffene Funktion als nicht erheblich, erheblich oder erheblich mit besonderer Schwere einzustufen sind.
 
 ¬ß 7 - Biotopwertbezogener und funktionsspezifischer Kompensationsbedarf
 
@@ -285,14 +285,14 @@ hoch (4):\\
 Standorte von Pflanzenarten, die f√ºr die Sicherung der biologischen Vielfalt eine hohe Bedeutung insbesondere aufgrund ihrer Gef√§hrdung haben
 mittel (3):\\
 Standorte von Pflanzenarten, die f√ºr die Sicherung der biologischen Vielfalt eine mittlere Bedeutung haben, z. B. im Falle von aktuell noch ungef√§hrdeten Pflanzenarten mit spezifischen Standortanspr√ºchen
-†
-†
-†
+
+
+
 gering (2):\\
 Standorte von Pflanzenarten, die f√ºr die Sicherung der biologischen Vielfalt eine geringe Bedeutung haben
-†
-†
-†
+
+
+
 sehr gering (1):\\
 Standorte von Pflanzenarten, die f√ºr die Sicherung der biologischen Vielfalt eine sehr geringe oder keine Bedeutung haben
 Boden
@@ -326,7 +326,7 @@ gering (2):\\
 B√∂den mit geringer Auspr√§gung der in Spalte 2 genannten Bodenfunktionen
 sehr gering (1):\\
 Fl√§che versiegelt oder befestigt
-†
+
 Vielfalt von Bodentypen und Bodenformen als Ausdruck des nat√ºrlichen und kulturellen Erbes
 Auswertung vorhandener Bodeninformationen/-daten im Hinblick auf:\\
 \\
@@ -384,12 +384,12 @@ mittel (3):\\
 leistungsf√§hige Kalt- oder Frischluftentstehungsgebiete in Verbindung mit Kaltluftabfluss- oder Luftleitbahnen oder leistungsf√§hige Freir√§ume und Freifl√§chen jeweils im unbelasteten/gering belasteten Siedlungsraum
 gering (2):\\
 weniger leistungsf√§hige Kalt- oder Frischluftentstehungsgebiete in Verbindung mit Kaltluftabfluss- oder Luftleitbahnen oder weniger leistungsf√§hige Freir√§ume und Freifl√§chen oder kein Bezug zu einem Siedlungsraum
-†
-†
-†
+
+
+
 sehr gering (1):\\
 fehlende Kalt- oder Frischluftentstehungsgebiete oder fehlende Freir√§ume und Freifl√§chen
-†
+
 Klimaschutzfunktionen durch Treibhausgasspeicher oder -senken
 √ñkosysteme, die als Treibhausgasspeicher oder -senken fungieren:\\
 \\
@@ -440,7 +440,7 @@ gering (2):\\
 eine Landschaft mit wenigen wertbestimmenden Merkmalen der in Spalte 3 genannten Landschaftskategorien
 sehr gering (1):\\
 eine Landschaft mit sehr wenigen oder keinen wertbestimmenden Merkmalen der in Spalte 3 genannten Landschaftskategorien
-†
+
 Funktionen im Bereich des Erlebens und Wahrnehmens von Landschaft einschlie√ülich der Eignung der Landschaft f√ºr die landschaftsgebundene Erholung
 Gesamthafte Erfassung der Erlebnis- und Wahrnehmungsqualit√§t der Landschaft in konkreten Landschaftsbildeinheiten im Hinblick auf die landschaftliche Alltagserfahrung der Bev√∂lkerung sowie die landschaftsgebundene Erholung; dabei besondere Ber√ºcksichtigung der Eigenart des jeweiligen Landschaftstyps\\
 \\
@@ -914,7 +914,7 @@ Anlage 2 - (zu ¬ß 5 Absatz 1)Liste der Biotoptypen und -werte
 | 40.03.01           | --¬†Weitgehend intakt                                                                                                                                                                   | 19        |
 | 40.03.02a          | --¬†Degeneriert                                                                                                                                                                         | 13        |
 | 40.04              | Lehmheide                                                                                                                                                                              | 20        |
-| 40.05              | Bergheiden (‚ÄHochheiden‚Äú)                                                                                                                                                              | 18        |
+| 40.05              | Bergheiden (Hochheiden‚Äú)                                                                                                                                                              | 18        |
 | 41.                | FELDGEH√ñLZE, GEB√úSCHE, HECKEN UND GEH√ñLZKULTUREN                                                                                                                                       | ¬†         |
 | 41.01              | Geb√ºsche mit √ºberwiegend autochthonen Arten                                                                                                                                            | ¬†         |
 | 41.01.01           | Geb√ºsch nasser bis feuchter mineralischer Standorte au√üerhalb von Auen                                                                                                                 | 16        |
@@ -1353,7 +1353,7 @@ Anlage 2 - (zu ¬ß 5 Absatz 1)Liste der Biotoptypen und -werte
 | 67.01              | Hochstauden- und Hochgrasflur der hochmontanen bis alpinen Stufe                                                                                                                       | 16        |
 | 67.02              | L√§gerfluren der subalpinen bis alpinen Stufe                                                                                                                                           | 9         |
 | 68.                | ZWERGSTRAUCHHEIDEN DER SUBALPINEN BIS ALPINEN STUFE                                                                                                                                    | ¬†         |
-| 68.01              | Alpine ‚ÄWindheide‚Äú (z. B. mit Gamsheide)                                                                                                                                               | 19        |
+| 68.01              | Alpine Windheide‚Äú (z. B. mit Gamsheide)                                                                                                                                               | 19        |
 | 68.02              | Kr√§henbeer-Rauschbeerheide und Zwergwacholdergeb√ºsche                                                                                                                                  | 21        |
 | 69.                | GEB√úSCHE DER HOCHMONTANEN BIS SUBALPINEN STUFE                                                                                                                                         | ¬†         |
 | 69.01              | Auenweidengeb√ºsche der hochmontanen bis subalpinen Stufe                                                                                                                               | 20        |
@@ -1799,11 +1799,11 @@ X
 
 (X)
 
-†
+
 
 (X)
 
-†
+
 
 X
 
@@ -1851,11 +1851,11 @@ X
 
 (X)
 
-†
 
-†
 
-†
+
+
+
 
 X
 
@@ -1905,7 +1905,7 @@ X
 
 X
 
-†
+
 
 (X)
 
@@ -1913,7 +1913,7 @@ X
 
 X
 
-†
+
 
 -  :: Beschr√§nkung der Weidepflege\\
   (Walzen, Schleppen max. 1-mal im Jahr vor M√§rz, keine Nachsaat)
@@ -1922,29 +1922,29 @@ X
 - ‚Ä¢ :: Eine an das jeweiligen Zielbiotop angepasste D√ºngung ist zul√§ssig
 - ‚Ä¢ :: Festlegung von Zeitr√§umen f√ºr die Mahd/Beweidung in Abh√§ngigkeit von Zielarten
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
+
 
 √Ñcker mit schlaginterner Segregation\\
 z. B. von feuchten Senken, trockenen Kuppen innerhalb des Ackerschlags;\\
@@ -1968,13 +1968,13 @@ X
 
 X
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 (X)
 
@@ -1988,29 +1988,29 @@ standortspezifische Auspr√§gungen von Zielbiotopen
   Strukturen herstellen (z. B. als Trittstein)
 - ‚Ä¢ :: Mindestdauer 10 Jahre
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
+
 
 (rotierende) Ma√ünahmen zur Schaffung artspezifischer\\
 Habitate\\
@@ -2028,23 +2028,23 @@ X
 
 X
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
 
 Bl√ºhstreifen\\
 Bewertung f√ºr\\
@@ -2067,54 +2067,54 @@ X
 
 X
 
-†
+
 
 (X)
 
 X
 
-†
+
 
 (X)
 
-†
 
-†
+
+
 
 (X)
 
 X
 
-†
+
 
 - ‚Ä¢ :: Zun√§chst keine Bodenbearbeitung;\\
   nach 2 bis 3 Jahren Bodenbearbeitung und Neuansaat, i. d. R. im Fr√ºhjahr bis Mitte April; bei Rotation in der Fruchtfolge Belassen bis Fr√ºhjahrsbestellung
 - ‚Ä¢ :: Keine Mahd
 - ‚Ä¢ :: Rotation in der Fruchtfolge m√∂glich
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
+
 
 Ma√ünahmen auf Gr√ºnland
 
@@ -2154,9 +2154,9 @@ X
 
 X
 
-†
 
-†
+
+
 
 (X)
 
@@ -2164,34 +2164,34 @@ X
 
 X
 
-†
+
 
 -  :: Weidepflege (Walzen, Schleppen\\
   max. 1-mal im Jahr i. d. R. bis Mitte M√§rz), keine Nachsaat
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
+
 
 Ma√ünahmen zur Schaffung artspezifischer\\
 Habitate\\
@@ -2211,23 +2211,23 @@ X
 
 X
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
 
 Extensiv\\
 genutzte\\
@@ -2256,21 +2256,21 @@ X
 
 X
 
-†
+
 
 (X)
 
-†
 
-†
 
-†
 
-X
+
+
 
 X
 
-†
+X
+
+
 
 -  :: schnitt ohne Abfuhr erfolgen);\\
   ggf. auch Beweidung mit max.\\
@@ -2289,27 +2289,27 @@ X
   Monitoring (in Abh√§ngigkeit von\\
   jeweiligen Zielarten)
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
 
 Ma√ünahmen auf Sonderstandorten des Offenlandes
 
@@ -2341,7 +2341,7 @@ X
 
 X
 
-†
+
 
 (X)
 
@@ -2349,7 +2349,7 @@ X
 
 X
 
-†
+
 
 -  :: (z. B. Beweidung oder Mahd von\\
   S√ºmpfen, Seggenrieden, R√∂hrich-\\
@@ -2357,29 +2357,29 @@ X
 
 - ‚Ä¢ :: Keine D√ºngung, keine PSM
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
+
 
 Binnend√ºnen und Magerrasen\\
 z. B. 34.01,\\
@@ -2392,7 +2392,7 @@ z. B. 34.01,\\
 - ‚Ä¢ :: Reduzierte (1-2sch√ºrige) Mahd\\
   i. d. R. nach der Brutzeit mit Abfuhr des Mahdgutes oder extensive Beweidung mit max. 1,5 GVE/ha; bei Beweidung: Nachmahd erforderlich
 
-†
+
 
 X
 
@@ -2402,15 +2402,15 @@ X
 
 (X)
 
-†
+
 
 (X)
 
-†
 
-†
 
-†
+
+
+
 
 X
 
@@ -2428,7 +2428,7 @@ z. B. 34.02,\\
   i. d. R. nach der Brutzeit mit Abfuhr des Mahdgutes oder extensive Beweidung mit max. 1,5 GVE/ha; bei Beweidung: Nachmahd erforderlich
 - ‚Ä¢ :: Entkusseln/Entbuschen
 
-†
+
 
 X
 
@@ -2438,15 +2438,15 @@ X
 
 (X)
 
-†
+
 
 (X)
 
-†
 
-†
 
-†
+
+
+
 
 X
 
@@ -2462,7 +2462,7 @@ Heiden\\
 - ‚Ä¢ :: Abplaggen/Abschieben
 - ‚Ä¢ :: Entkusseln/Entbuschen
 
-†
+
 
 X
 
@@ -2472,15 +2472,15 @@ X
 
 (X)
 
-†
+
 
 (X)
 
-†
 
-†
 
-†
+
+
+
 
 X
 
@@ -2496,7 +2496,7 @@ Niedermoore\\
 - ‚Ä¢ :: Keine D√ºngung
 - ‚Ä¢ :: Vegetations-(narben-) und bodenschonende Erntetechnik
 
-†
+
 
 X
 
@@ -2512,7 +2512,7 @@ X
 
 X
 
-†
+
 
 X
 
@@ -2534,7 +2534,7 @@ z. B. 35.02\\
   i. d. R. nach der Brutzeit mit Abfuhr des Mahdgutes (mind. bis zum\\
   Erreichen des Zielzustandes) oder
 
-†
+
 
 X
 
@@ -2550,7 +2550,7 @@ X
 
 X
 
-†
+
 
 X
 
@@ -2558,7 +2558,7 @@ X
 
 X
 
-†
+
 
 -  :: extensive Beweidung mit\\
   max. 1,5 GVE/ha; bei Beweidung:\\
@@ -2568,29 +2568,29 @@ X
 - ‚Ä¢ :: Vegetations-(narben-) und boden-\\
   schonende Erntetechnik
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
+
 
 Ma√ünahmen zur Schaffung artspezifischer\\
 Habitate\\
@@ -2609,23 +2609,23 @@ X
 
 X
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
 
 Ma√ünahmen zur Anlage und Pflege von Landschaftselementen/Landschaftsstrukturen
 
@@ -2649,11 +2649,11 @@ X
 
 X
 
-†
+
 
 X
 
-†
+
 
 (X)
 
@@ -2679,29 +2679,29 @@ z. B. 41.01,\\
 - ‚Ä¢ :: Regelm√§√üige Pflege oder Nutzung in Abh√§ngigkeit von der Bestandsentwicklung
 - ‚Ä¢ :: Keine D√ºngung, keine PSM
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
+
 
 S√§ume\\
 Krautige S√§ume und Geh√∂lzs√§ume, inkl. Ufers√§ume\\
@@ -2727,7 +2727,7 @@ X
 
 X
 
-†
+
 
 X
 
@@ -2737,7 +2737,7 @@ X
 
 (X)
 
-†
+
 
 (X)
 
@@ -2755,15 +2755,15 @@ bis 22.04,\\
 - ‚Ä¢ :: Erhalt bzw. Anlage und dauer-\\
   hafte Pflege, sofern erforderlich
 
-†
+
 
 X
 
 X
 
-†
 
-†
+
+
 
 (X)
 
@@ -2771,42 +2771,42 @@ X
 
 (X)
 
-†
 
-†
 
-X
+
 
 X
 
-†
+X
+
+
 
 - ‚Ä¢ :: Kein Eintrag von D√ºngemitteln\\
   oder PSM/Abstandsauflagen zur Ma√ünahmenfl√§che f√ºr D√ºngung und PSM
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
+
 
 Trocken-/\\
 Natursteinmauern\\
@@ -2815,25 +2815,25 @@ z. B. 53.02.03a
 - ‚Ä¢ :: Regionstypisches Material verwenden
 - ‚Ä¢ :: Keine Verfugung
 
-†
+
 
 X
 
 X
 
-†
+
 
 (X)
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 X
 
@@ -2868,9 +2868,9 @@ X
 
 X
 
-†
 
-†
+
+
 
 X
 
@@ -2930,27 +2930,27 @@ subalpine W√§lder:\\
   80 Jahren einzelbaumweise und\\
   mit einer Absenkung des Bestockungsgrades erfolgen
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
 
 Naturschutz-konform\\
 bewirtschaftete/gepflegte Auenw√§lder\\
@@ -2992,7 +2992,7 @@ X
 
 X
 
-†
+
 
 - ‚Ä¢ :: Aufforstung mit Baumarten der\\
   nat√ºrlichen Waldgesellschaft oder nat√ºrliche Sukzession
@@ -3007,27 +3007,27 @@ X
   von alten Waldbest√§nden √ºber\\
   80 Jahren einzelbaumweise und mit einer Absenkung des Bestockungsgrades erfolgen.
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
 
 Entwicklung von Waldr√§ndern\\
 Waldm√§ntel:\\
@@ -3041,7 +3041,7 @@ Waldm√§ntel:\\
 - ‚Ä¢ :: Mehrstufiger Aufbau (Kraut-,\\
   Stauden- und Geb√ºschsaum)
 
-†
+
 
 X
 
@@ -3051,13 +3051,13 @@ X
 
 (X)
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 (X)
 
@@ -3065,35 +3065,35 @@ X
 
 X
 
-†
+
 
 - ‚Ä¢ :: Punktuelle Freistellung und/oder\\
   Unterpflanzung des Bestandes mit Strauch- und Baumarten
 - ‚Ä¢ :: Bewirtschaftung/Pflege zum Erhalt der Mehrstufigkeit
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
+
+
+
 
 Kleinfl√§chige, punktuelle oder rotierende Ma√ünahmen im Wald\\
 Bewertung f√ºr Zielarten
@@ -3122,7 +3122,7 @@ X
 
 (X)
 
-†
+
 
 (X)
 
@@ -3130,7 +3130,7 @@ X
 
 (X)
 
-†
+
 
 (X)
 
@@ -3191,23 +3191,23 @@ X
 
 X
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
 
 \\
 \\
@@ -3228,7 +3228,7 @@ X
   (keine\\
   abschlie√üende\\
   Aufz√§hlung)
-- ‚Ä¢ :: Mindestgr√∂√üe 100 m≤
+- ‚Ä¢ :: Mindestgr√∂√üe 100 m
 - ‚Ä¢ :: Versiegelungsbelag entfernen
 - ‚Ä¢ :: Bitumin√∂ses Material ist abzufahren und zu entsorgen, sonstiges Material kann -- sofern Schadstoffgehalte unterhalb der Vorsorgewerte der BBodSchV liegen -- auf der Fl√§che zur Diversifizierung der Standortverh√§ltnisse bzw. zur Modulierung des Gel√§ndes genutzt werden.
 - ‚Ä¢ :: Nutzung der Fl√§che im Sinne der Ziele von Naturschutz und Landschaftspflege
@@ -3237,11 +3237,11 @@ X
 
 (X)
 
-†
+
 
 X
 
-†
+
 
 X
 
@@ -3249,15 +3249,15 @@ X
 
 (X)
 
-†
 
-†
+
+
 
 (X)
 
 Entsiegelung, vollst√§ndiges Abtragen und Entsorgung des Materials einschlie√ülich Unterbau und Entfernung der Schadverdichtung des Unterbodens
 
-- ‚Ä¢ :: Mindestgr√∂√üe 100 m≤
+- ‚Ä¢ :: Mindestgr√∂√üe 100 m
 - ‚Ä¢ :: Versiegelungsbelag und Unterbau sind zu entfernen
 - ‚Ä¢ :: Schadverdichtungen im Unterbau sind zu entfernen
 - ‚Ä¢ :: Die entsiegelte oberste Bodenschicht muss vegetationstauglich sein, ggf. Aufbringen einer vegetationstauglichen Bodenschicht.
@@ -3269,11 +3269,11 @@ Entsiegelung, vollst√§ndiges Abtragen und Entsorgung des Materials einschlie√üli
 
 (X)
 
-†
+
 
 X
 
-†
+
 
 X
 
@@ -3281,9 +3281,9 @@ X
 
 (X)
 
-†
 
-†
+
+
 
 (X)
 
@@ -3307,7 +3307,7 @@ X
 
 X
 
-†
+
 
 (X)
 
@@ -3317,9 +3317,9 @@ X
 
 X
 
-†
 
-†
+
+
 
 (X)
 
@@ -3350,23 +3350,23 @@ X
 
 X
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
+
 
 Gew√§sserrenaturierungen und Ma√ünahmen zur Erzielung der Durchg√§ngigkeit von Flie√ügew√§ssern einschlie√ülich ihrer Uferbereiche
 
@@ -3381,19 +3381,19 @@ X
 
 X
 
-†
 
-†
+
+
 
 X
 
-†
+
 
 X
 
 (X)
 
-†
+
 
 (X)
 
@@ -3413,17 +3413,17 @@ X
 
 X
 
-†
+
 
 (X)
 
-†
+
 
 (X)
 
 (X)
 
-†
+
 
 (X)
 
@@ -3437,6 +3437,6 @@ X
 | X:   | Ma√ünahme ist in der Regel geeignet zum Ausgleich oder Ersatz von Beeintr√§chtigungen der Funktion.         |
 | (X): | Ma√ünahme ist in bestimmten F√§llen geeignet zum Ausgleich oder Ersatz von Beeintr√§chtigungen der Funktion. |
 
-†
 
-†
+
+

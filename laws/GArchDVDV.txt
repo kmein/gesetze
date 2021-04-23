@@ -6,22 +6,22 @@ Ausfertigungsdatum: 23.04.2019
 
 Inhalts√ºbersicht
 
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ¬ß 1 - Ziele des Vorbereitungsdienstes
 
@@ -79,11 +79,11 @@ Sie sind insbesondere f√ºr die Organisation und Durchf√ºhrung der Praktika und d
 
 (1) Leistungen werden wie folgt bewertet:\\
 \\
-†
+
 Rangpunkte/Rangpunktzahl
 Note
 Notendefinition
-†
+
 1
 2
 3
@@ -204,11 +204,11 @@ Das Gesamtergebnis wird auf zwei Nachkommastellen ohne Rundung berechnet.
 
 (1) Der Vorbereitungsdienst dauert drei Jahre. Er besteht aus folgenden Ausbildungsphasen:\\
 \\
-†
+
 Ausbildungsphase
 Durchf√ºhrende Stelle
 Dauer
-†
+
 1
 2
 3

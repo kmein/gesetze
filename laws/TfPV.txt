@@ -82,7 +82,7 @@ Die Prüfungsorganisation
 (3) Die Aufsichtsperson fertigt eine Niederschrift über den Verlauf und etwaige Unregelmäßigkeiten bei der Prüfung nach Anlage 1 an. Nach der Bewertung der Aufgaben durch die Prüfer wird die Niederschrift an die zuständige Behörde übermittelt.
 (4) Die Prüfungsorganisation bestimmt zwei Prüfer, die den schriftlichen Teil der Prüfung nach § 15 bewerten. Die Bewertung soll nicht länger als vier Wochen dauern.
 (5) Die Zuordnung der Kennziffern nach § 6 Nummer 2 Buchstabe d zu den einzelnen Prüflingen darf den Prüfern erst nach der endgültigen Bewertung des schriftlichen Teils der Prüfung mitgeteilt werden.
-(6) Der Prüfling ist über das Ergebnis des schriftlichen Teils der Prüfung unverzüglich zu unterrichten. Gleichzeitig ist der Prüfling zur mündlichen Prüfung zu laden, wenn der schriftliche Teil der Prüfung mindestens mit �ausreichend“ bewertet worden ist. Ist der schriftliche Teil der Prüfung mit �mangelhaft“ oder schlechter bewertet worden, so ist die Prüfung insgesamt durch die Prüfungsorganisation für nicht bestanden zu erklären. Der Prüfling ist damit für den mündlichen Teil der Prüfung nicht zugelassen.
+(6) Der Prüfling ist über das Ergebnis des schriftlichen Teils der Prüfung unverzüglich zu unterrichten. Gleichzeitig ist der Prüfling zur mündlichen Prüfung zu laden, wenn der schriftliche Teil der Prüfung mindestens mit ausreichend“ bewertet worden ist. Ist der schriftliche Teil der Prüfung mit mangelhaft“ oder schlechter bewertet worden, so ist die Prüfung insgesamt durch die Prüfungsorganisation für nicht bestanden zu erklären. Der Prüfling ist damit für den mündlichen Teil der Prüfung nicht zugelassen.
 
 § 10 - Mündlicher Teil der Prüfung
 
@@ -90,7 +90,7 @@ Die Prüfungsorganisation
 (2) Im mündlichen Teil der Prüfung können gleichzeitig sechs Prüflinge geprüft werden.
 (3) Der mündliche Teil der Prüfung soll für jeden Prüfling etwa 15 Minuten dauern und darf jeweils 30 Minuten nicht überschreiten.
 (4) Der mündliche Teil der Prüfung ist nicht öffentlich. Vertreter der zuständigen Behörde sowie weitere Mitglieder der Prüfungsorganisation können anwesend sein. Bei der Beratung über das Prüfungsergebnis dürfen nur die Prüfer anwesend sein.
-(5) Die Prüfer bewerten die Leistungen der Prüflinge nach Ma�mangelhaft“ oder schlechter bewertet worden, so ist die Prüfung insgesamt durch die Prüfungsorganisation für nicht bestanden zu erklären.
+(5) Die Prüfer bewerten die Leistungen der Prüflinge nach Mamangelhaft“ oder schlechter bewertet worden, so ist die Prüfung insgesamt durch die Prüfungsorganisation für nicht bestanden zu erklären.
 (6) Der Vorsitzende fertigt eine Niederschrift über den Verlauf und etwaige Unregelmäßigkeiten bei dem mündlichen Teil der Prüfung nach Anlage 1 an. Er übermittelt die Niederschrift an die zuständige Behörde.
 
 § 11 - Ausweispflicht und Belehrung
@@ -137,18 +137,18 @@ Der schriftliche und der mündliche Teil der Prüfung sind von den Prüfern mit 
 
 (1) Die theoretische Prüfung ist bestanden, wenn nach § 7 Absatz 4 Satz 1 und 2 der Triebfahrzeugführerscheinverordnung in Verbindung mit Anlage 2 dieser Verordnung
 
-- 1. :: sowohl der schriftliche als auch der mündliche Teil der Prüfung mit mindestens �ausreichend“ bewertet wurde und
+- 1. :: sowohl der schriftliche als auch der mündliche Teil der Prüfung mit mindestens ausreichend“ bewertet wurde und
 - 2. :: Fragen, bei denen mangelndes Wissen in der Wirklichkeit eine Gefährdung des Bahnbetriebes zur Folge haben kann, richtig beantwortet wurden.
 
 (2) Für das Gesamtprüfungsergebnis der theoretischen Prüfung ist der Mittelwert aus den Dezimalnoten des schriftlichen und des mündlichen Teils zu bilden. Das Gesamtergebnis lautet bei einem Notenmittelwert
 
-- 1. :: | von 1,00 bis 1,49 | �sehr gut“, |
+- 1. :: | von 1,00 bis 1,49 | sehr gut“, |
 
-- 2. :: | von 1,50 bis 2,44 | �gut“, |
+- 2. :: | von 1,50 bis 2,44 | gut“, |
 
-- 3. :: | von 2,45 bis 3,34 | �befriedigend“, |
+- 3. :: | von 2,45 bis 3,34 | befriedigend“, |
 
-- 4. :: | von 3,35 bis 4,00 | �ausreichend“. |
+- 4. :: | von 3,35 bis 4,00 | ausreichend“. |
 
 Der Notenmittelwert wird auf zwei Dezimalstellen hinter dem Komma ohne Auf- und Abrundung berechnet.
 
@@ -161,7 +161,7 @@ Wer die theoretische Prüfung bestanden hat, erhält von der Prüfungsorganisati
 
 § 18 - Nicht bestandene Prüfung
 
-Die Prüfungsorganisation stellt dem Prüfling über das Nichtbestehen der theoretischen Prüfung eine schriftliche Bescheinigung aus. Darin sind die Teile der Prüfung anzugeben, die nicht mit mindestens �ausreichend“ bewertet wurden. Auf die besonderen Bedingungen der Wiederholungsprüfung nach § 20 ist hinzuweisen.
+Die Prüfungsorganisation stellt dem Prüfling über das Nichtbestehen der theoretischen Prüfung eine schriftliche Bescheinigung aus. Darin sind die Teile der Prüfung anzugeben, die nicht mit mindestens ausreichend“ bewertet wurden. Auf die besonderen Bedingungen der Wiederholungsprüfung nach § 20 ist hinzuweisen.
 
 § 19 - Anerkennung von Prüfungsleistungen
 
@@ -200,30 +200,30 @@ Die zuständige Behörde kann die Prüfungsorganisation auffordern,
 Anlage 1 - (zu § 9 Absatz 3 und § 10 Absatz 6)Prüfungsniederschrift
 
 (Fundstelle: BGBl. I 2013, 4013)
-�
-�
-�
-�
-�
+
+
+
+
+
 _____________
-�
+
 
 Anlage 2 - (zu den §§ 15, 16 Absatz 1)
 
 (Fundstelle: BGBl. I 2013, 4014)
-�
+
 Andere als die in Spalte 2 aufgeführten Zwischennoten dürfen nicht verwendet werden.
-�
+
 
 Anlage 3 - (zu § 17)Muster
 
 (Fundstelle: BGBl. I 2013, 4015)
-�
-�
-�
+
+
+
 mit der Note . . . . . . (Dezimalnote) bestanden.
-�
+
 Die Prüfung ist nach der Triebfahrzeugführerschein-Prüfungsverordnung vom 22. November 2013 (BGBl. I S. 4008) durchgeführt worden.
-�
-�
-�
+
+
+

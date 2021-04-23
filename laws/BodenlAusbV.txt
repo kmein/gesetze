@@ -223,7 +223,7 @@ Bedeutung und Nutzungsm√∂glichkeiten von Informations- und Kommunikationssysteme
 
 2*)
 
-†
+
 
 b)
 
@@ -247,7 +247,7 @@ Arbeitsauftrag erfassen und Vorgaben auf Umsetzbarkeit pr√ºfen
 
 4*)
 
-†
+
 
 b)
 
@@ -269,7 +269,7 @@ f)
 
 technische Ver√§nderungen feststellen und umsetzen
 
-†
+
 
 3*)
 
@@ -299,7 +299,7 @@ Skizzen anfertigen und anwenden
 
 5*)
 
-†
+
 
 b)
 
@@ -325,7 +325,7 @@ g)
 
 Leistungsverzeichnisse anwenden
 
-†
+
 
 4*)
 
@@ -351,7 +351,7 @@ Arbeitsplatz einrichten, sichern, unterhalten und aufl√∂sen, ergonomische Gesich
 
 4*)
 
-†
+
 
 b)
 
@@ -387,7 +387,7 @@ Werkzeuge, Ger√§te, Maschinen und technische Einrichtungen ausw√§hlen
 
 6
 
-†
+
 
 b)
 
@@ -405,7 +405,7 @@ e)
 
 Ger√§te, Maschinen und technische Einrichtungen warten
 
-†
+
 
 2
 
@@ -423,7 +423,7 @@ Werk- und Hilfsstoffe ausw√§hlen, kennzeichnen, transportieren und lagern
 
 7
 
-†
+
 
 b)
 
@@ -455,7 +455,7 @@ Untergr√ºnde auf Belegreife pr√ºfen
 
 21
 
-†
+
 
 b)
 
@@ -489,7 +489,7 @@ i)
 
 H√∂henausgleich zu angrenzenden Bauteilen herstellen
 
-†
+
 
 12
 
@@ -511,7 +511,7 @@ textile und elastische Bodenbel√§ge nach Anforderungen ausw√§hlen
 
 19
 
-†
+
 
 b)
 
@@ -533,7 +533,7 @@ f)
 
 textile Bodenbel√§ge verspannen und verkletten
 
-†
+
 
 22
 
@@ -585,7 +585,7 @@ a)
 
 Fertigparkett und Schichtwerkstoffe nach Anforderungen und Gestaltungsmerkmalen ausw√§hlen
 
-†
+
 
 18
 
@@ -627,7 +627,7 @@ Erstpflege bei elastischen Bodenbel√§gen durchf√ºhren
 
 4
 
-†
+
 
 b)
 
@@ -637,7 +637,7 @@ c)
 
 Oberfl√§chenbehandlungsarten festlegen und Oberfl√§chenbehandlungsmittel ausw√§hlen
 
-†
+
 
 5
 
@@ -663,7 +663,7 @@ Profile nach ihrer Funktion ausw√§hlen
 
 4
 
-†
+
 
 b)
 
@@ -673,7 +673,7 @@ c)
 
 System-Sockelleisten anfertigen und anbringen
 
-†
+
 
 5
 
@@ -689,7 +689,7 @@ a)
 
 Verschmutzungszustand und Sch√§den hinsichtlich ihrer Ursachen beurteilen und dokumentieren
 
-†
+
 
 4
 
@@ -715,7 +715,7 @@ Aufgaben und Ziele von qualit√§tssichernden Ma√ünahmen anhand betrieblicher Beis
 
 2*)
 
-†
+
 
 b)
 
@@ -729,7 +729,7 @@ d)
 
 Endkontrolle anhand des Arbeitsauftrages durchf√ºhren und Arbeitsergebnisse dokumentieren
 
-†
+
 
 3*)
 

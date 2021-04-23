@@ -13,7 +13,7 @@ Inhaltsübersicht
 
 § 1 - Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf Steinmetz und Steinbildhauer und Steinmetzin und Steinbildhauerin wird nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe nach Anlage A Nummer 8 �Steinmetzen und Steinbildhauer“ der Handwerksordnung staatlich anerkannt.
+Der Ausbildungsberuf Steinmetz und Steinbildhauer und Steinmetzin und Steinbildhauerin wird nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe nach Anlage A Nummer 8 Steinmetzen und Steinbildhauer“ der Handwerksordnung staatlich anerkannt.
 
 § 2 - Dauer der Berufsausbildung
 
@@ -277,14 +277,14 @@ Der Prüfungsausschuss legt fest, welche Tätigkeit zugrunde gelegt wird.
 
 (2) Die Gesellenprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
-- 1. :: im Gesamtergebnis mit mindestens �ausreichend“,
-- 2. :: im Prüfungsbereich Ausführen eines Auftrages mit mindestens �ausreichend“,
-- 3. :: in mindestens drei weiteren Prüfungsbereichen mit mindestens �ausreichend“ und
-- 4. :: in keinem Prüfungsbereich mit �ungenügend“.
+- 1. :: im Gesamtergebnis mit mindestens ausreichend“,
+- 2. :: im Prüfungsbereich Ausführen eines Auftrages mit mindestens ausreichend“,
+- 3. :: in mindestens drei weiteren Prüfungsbereichen mit mindestens ausreichend“ und
+- 4. :: in keinem Prüfungsbereich mit ungenügend“.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche �Gestalten und Planen von Steinmetzarbeiten“, �Anwenden von Fertigungstechniken und Durchführen von Versetzarbeiten“ oder �Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche Gestalten und Planen von Steinmetzarbeiten“, Anwenden von Fertigungstechniken und Durchführen von Versetzarbeiten“ oder Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-- 1. :: der Prüfungsbereich schlechter als mit �ausreichend“ bewertet worden ist und
+- 1. :: der Prüfungsbereich schlechter als mit ausreichend“ bewertet worden ist und
 - 2. :: die mündliche Ergänzungsprüfung für das Bestehen der Gesellenprüfung den Ausschlag geben kann.
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
@@ -395,14 +395,14 @@ Die Gesellenprüfung findet in der Fachrichtung Steinbildhauerarbeiten in den fo
 
 (2) Die Gesellenprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
-- 1. :: im Gesamtergebnis mit mindestens �ausreichend“,
-- 2. :: im Prüfungsbereich Ausführen eines Auftrages mit mindestens �ausreichend“,
-- 3. :: in mindestens drei weiteren Prüfungsbereichen mit mindestens �ausreichend“ und
-- 4. :: in keinem Prüfungsbereich mit �ungenügend“.
+- 1. :: im Gesamtergebnis mit mindestens ausreichend“,
+- 2. :: im Prüfungsbereich Ausführen eines Auftrages mit mindestens ausreichend“,
+- 3. :: in mindestens drei weiteren Prüfungsbereichen mit mindestens ausreichend“ und
+- 4. :: in keinem Prüfungsbereich mit ungenügend“.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche �Gestalten und Planen von Steinbildhauerarbeiten“, �Anwenden von Fertigungstechniken und Durchführen von Versetzarbeiten“ oder �Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche Gestalten und Planen von Steinbildhauerarbeiten“, Anwenden von Fertigungstechniken und Durchführen von Versetzarbeiten“ oder Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-- 1. :: der Prüfungsbereich schlechter als mit �ausreichend“ bewertet worden ist und
+- 1. :: der Prüfungsbereich schlechter als mit ausreichend“ bewertet worden ist und
 - 2. :: die mündliche Ergänzungsprüfung für das Bestehen der Gesellenprüfung den Ausschlag geben kann.
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.

@@ -6,30 +6,30 @@ Ausfertigungsdatum: 08.11.2018
 
 InhaltsÃ¼bersicht
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Â§ 1 - RegisterfÃ¼hrung
 
@@ -492,9 +492,9 @@ Der Verfall von Ã¼bertragenen Regionalnachweisen auf dem Konto des empfangenden 
   - a) :: das Verwendungsgebiet, in dem die Regionalnachweise verwendet werden sollen,
   - b) :: die in dieses Verwendungsgebiet gelieferten Stromprodukte, fÃ¼r die die Regionalnachweise verwendet werden sollen,
   - c) :: die Menge des Stroms, die je Stromprodukt nach Buchstabe b in das jeweilige Verwendungsgebiet geliefert und von den Stromkunden verbraucht wurde, und
-  - d) :: die Angabe, ob fÃ¼r den das Stromprodukt nach Buchstabe b verbrauchenden Stromkunden an der Abnahmestelle in dem Verwendungsgebiet die Pflicht zur Zahlung der EEG-Umlage nach den Â§Â§ 63 bis 68 des Erneuerbare-Energien-Gesetzes begrenzt ist, und, sollte dies der Fall sein, die HÃ¶he des Anteils â€Erneuerbare Energien, finanziert aus der EEG-Umlageâ€œ in Prozent.
+  - d) :: die Angabe, ob fÃ¼r den das Stromprodukt nach Buchstabe b verbrauchenden Stromkunden an der Abnahmestelle in dem Verwendungsgebiet die Pflicht zur Zahlung der EEG-Umlage nach den Â§Â§ 63 bis 68 des Erneuerbare-Energien-Gesetzes begrenzt ist, und, sollte dies der Fall sein, die HÃ¶he des Anteils Erneuerbare Energien, finanziert aus der EEG-Umlageâ€œ in Prozent.
 
-(2) Weist ein ElektrizitÃ¤tsversorgungsunternehmen gegenÃ¼ber Letztverbrauchern in der Stromkennzeichnung aus, zu welchen Anteilen der Strom, den das Unternehmen nach Â§ 78 Absatz 1 des Erneuerbare-Energien-Gesetzes als â€erneuerbare Energien, finanziert aus der EEG-Umlageâ€œ kennzeichnen muss, in regionalem Zusammenhang zum Stromverbrauch erzeugt worden ist, so muss diese Ausweisung einfach, allgemein verstÃ¤ndlich und deutlich erkennbar abgesetzt von dem Stromkennzeichen nach Â§ 42 Absatz 1 des Energiewirtschaftsgesetzes in grafischer Form dargestellt sein. Die Registerverwaltung ist berechtigt, die konkrete Gestaltung, insbesondere die textliche und grafische Darstellung, durch AllgemeinverfÃ¼gung zu regeln. Die AllgemeinverfÃ¼gung wird im Bundesanzeiger bekannt gemacht. Die Bekanntmachung wird zusÃ¤tzlich auf der Internetseite der Registerverwaltung verÃ¶ffentlicht.
+(2) Weist ein ElektrizitÃ¤tsversorgungsunternehmen gegenÃ¼ber Letztverbrauchern in der Stromkennzeichnung aus, zu welchen Anteilen der Strom, den das Unternehmen nach Â§ 78 Absatz 1 des Erneuerbare-Energien-Gesetzes als erneuerbare Energien, finanziert aus der EEG-Umlageâ€œ kennzeichnen muss, in regionalem Zusammenhang zum Stromverbrauch erzeugt worden ist, so muss diese Ausweisung einfach, allgemein verstÃ¤ndlich und deutlich erkennbar abgesetzt von dem Stromkennzeichen nach Â§ 42 Absatz 1 des Energiewirtschaftsgesetzes in grafischer Form dargestellt sein. Die Registerverwaltung ist berechtigt, die konkrete Gestaltung, insbesondere die textliche und grafische Darstellung, durch AllgemeinverfÃ¼gung zu regeln. Die AllgemeinverfÃ¼gung wird im Bundesanzeiger bekannt gemacht. Die Bekanntmachung wird zusÃ¤tzlich auf der Internetseite der Registerverwaltung verÃ¶ffentlicht.
 
 Â§ 32 - LÃ¶schung von Herkunftsnachweisen
 

@@ -22,7 +22,7 @@ Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 des Berufsbildungsgesetzes v
 - 7. :: Maßnahmen zur Personalentwicklung zu fördern sowie die Mitarbeiter zu führen,
 - 8. :: berufs- und arbeitspädagogische Qualifikationen im Rahmen der Berufsausbildung anzuwenden.
 
-(3) Durch die Prüfung sind die Qualifikationen in den Handlungsbereichen �Planung und Bau“, �Betrieb und Unterhaltung“ sowie �Führung und Organisation“ festzustellen. Dabei soll unter Berücksichtigung der ökonomischen, ökologischen und sozialen Aspekte eines nachhaltigen Handelns nachgewiesen werden, die folgenden Aufgaben eines Wasserbaumeisters/einer Wasserbaumeisterin eigenständig und verantwortlich wahrnehmen zu können:
+(3) Durch die Prüfung sind die Qualifikationen in den Handlungsbereichen Planung und Bau“, Betrieb und Unterhaltung“ sowie Führung und Organisation“ festzustellen. Dabei soll unter Berücksichtigung der ökonomischen, ökologischen und sozialen Aspekte eines nachhaltigen Handelns nachgewiesen werden, die folgenden Aufgaben eines Wasserbaumeisters/einer Wasserbaumeisterin eigenständig und verantwortlich wahrnehmen zu können:
 
 - 1. :: Überwachen, Prüfen und Dokumentieren des Zustandes der Gewässer und wasserbaulichen Anlagen sowie Erkennen von Störungen und Schäden an diesen und Einleiten von Maßnahmen zu deren Beseitigung,
 - 2. :: Durchführen und Überwachen von Verkehrssicherungsmaßnahmen,
@@ -35,7 +35,7 @@ Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 des Berufsbildungsgesetzes v
 - 9. :: Anwenden von Arbeits-, Umwelt-, Gesundheitsschutz- und Ergonomievorschriften,
 - 10. :: Führen von Mitarbeitern und Mitarbeiterinnen.
 
-(4) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluss �Geprüfter Wasserbaumeister/Geprüfte Wasserbaumeisterin“.
+(4) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluss Geprüfter Wasserbaumeister/Geprüfte Wasserbaumeisterin“.
 
 § 2 - Umfang der Meisterqualifikation und Gliederung der Prüfung
 
@@ -56,15 +56,15 @@ Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 des Berufsbildungsgesetzes v
 
 § 3 - Zulassungsvoraussetzungen
 
-(1) Zur Prüfung im Prüfungsteil �Grundlegende Qualifikationen“ ist zuzulassen, wer folgendes nachweist:
+(1) Zur Prüfung im Prüfungsteil Grundlegende Qualifikationen“ ist zuzulassen, wer folgendes nachweist:
 
 - 1. :: eine mit Erfolg abgelegte Abschlussprüfung im staatlich anerkannten Ausbildungsberuf Wasserbauer/Wasserbauerin und danach eine mindestens einjährige Berufspraxis oder
 - 2. :: eine mit Erfolg abgelegte Abschlussprüfung in einem sonstigen anerkannten Ausbildungsberuf und danach eine mindestens zweijährige Berufspraxis oder
 - 3. :: eine mindestens fünfjährige Berufspraxis.
 
-(2) Zur Prüfung im Prüfungsteil �Handlungsspezifische Qualifikationen“ ist zuzulassen, wer folgendes nachweist:
+(2) Zur Prüfung im Prüfungsteil Handlungsspezifische Qualifikationen“ ist zuzulassen, wer folgendes nachweist:
 
-- 1. :: das Ablegen des Prüfungsteils �Grundlegende Qualifikationen“, das nicht länger als fünf Jahre zurückliegt, und
+- 1. :: das Ablegen des Prüfungsteils Grundlegende Qualifikationen“, das nicht länger als fünf Jahre zurückliegt, und
 - 2. :: zu den in Absatz 1 Nr. 1 und 2 genannten Praxiszeiten mindestens ein weiteres Jahr Berufspraxis.
 
 (3) Die Berufspraxis nach den Absätzen 1 und 2 soll wesentliche Bezüge zu den Aufgaben eines Geprüften Wasserbaumeisters/einer Geprüften Wasserbaumeisterin nach § 1 Abs. 3 haben.
@@ -72,14 +72,14 @@ Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 des Berufsbildungsgesetzes v
 
 § 4 - Grundlegende Qualifikationen
 
-(1) Im Prüfungsteil �Grundlegende Qualifikationen“ ist in folgenden Prüfungsbereichen zu prüfen:
+(1) Im Prüfungsteil Grundlegende Qualifikationen“ ist in folgenden Prüfungsbereichen zu prüfen:
 
 - 1. :: Berücksichtigen der naturwissenschaftlichen und technischen Grundlagen des Wasserbaus,
 - 2. :: Rechtsbewusstes Handeln,
 - 3. :: Betriebswirtschaftliches Handeln,
 - 4. :: Anwenden von Methoden der Information, Kommunikation und Planung.
 
-(2) Im Prüfungsbereich �Berücksichtigung der naturwissenschaftlichen und technischen Grundlagen des Wasserbaus“ soll die Fähigkeit nachgewiesen werden, naturwissenschaftliche und technische Gesetzmäßigkeiten sowie die anerkannten Regeln der Technik bei der Lösung wasserbaulicher Aufgaben in der betrieblichen Praxis anwenden und berücksichtigen zu können.\\
+(2) Im Prüfungsbereich Berücksichtigung der naturwissenschaftlichen und technischen Grundlagen des Wasserbaus“ soll die Fähigkeit nachgewiesen werden, naturwissenschaftliche und technische Gesetzmäßigkeiten sowie die anerkannten Regeln der Technik bei der Lösung wasserbaulicher Aufgaben in der betrieblichen Praxis anwenden und berücksichtigen zu können.\\
 In diesem Rahmen können in den Bereichen Schifffahrt und Wasserstraße, Gewässerausbau, Gewässerpflege und -entwicklung sowie der Gewässerbewirtschaftung folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: Berücksichtigen der naturwissenschaftlichen Gesetzmäßigkeiten und materialspezifischen Eigenschaften bei der Auswahl, Lagerung, Verarbeitung und Entsorgung von Bau- und Bauhilfsstoffen,
@@ -92,7 +92,7 @@ In diesem Rahmen können in den Bereichen Schifffahrt und Wasserstraße, Gewäss
 - 8. :: Unterscheiden, Beurteilen und Berücksichtigen der Wirkungs- und Funktionsweisen von Maschinen und Geräten für wasserbauliche Aufgaben,
 - 9. :: Erkennen, Beurteilen und Durchführen von Maßnahmen zur Gewässerunterhaltung, Gewässerpflege und -entwicklung sowie zur Gewässerbewirtschaftung einschließlich Hochwasserschutz und Eisabwehr.
 
-(3) Im Prüfungsbereich �Rechtsbewusstes Handeln“ soll die Fähigkeit nachgewiesen werden, im Rahmen anwendungsbezogener Handlungen einschlägige Rechtsvorschriften berücksichtigen zu können. Dazu gehört, die Arbeitsbedingungen der Mitarbeiter und Mitarbeiterinnen unter arbeitsrechtlichen Aspekten zu gestalten sowie nach rechtlichen Grundlagen die Arbeitssicherheit, den Gesundheitsschutz und den Umweltschutz zu gewährleisten und die Zusammenarbeit mit den entsprechenden Institutionen sicherzustellen. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(3) Im Prüfungsbereich Rechtsbewusstes Handeln“ soll die Fähigkeit nachgewiesen werden, im Rahmen anwendungsbezogener Handlungen einschlägige Rechtsvorschriften berücksichtigen zu können. Dazu gehört, die Arbeitsbedingungen der Mitarbeiter und Mitarbeiterinnen unter arbeitsrechtlichen Aspekten zu gestalten sowie nach rechtlichen Grundlagen die Arbeitssicherheit, den Gesundheitsschutz und den Umweltschutz zu gewährleisten und die Zusammenarbeit mit den entsprechenden Institutionen sicherzustellen. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: Berücksichtigen arbeitsrechtlicher Vorschriften und Bestimmungen bei der Gestaltung individueller Arbeitsverhältnisse und bei Fehlverhalten von Mitarbeitern und Mitarbeiterinnen, insbesondere unter Berücksichtigung des Arbeitsvertragsrechts, des Tarifvertragsrechts und betrieblicher Vereinbarungen,
 - 2. :: Berücksichtigen der Vorschriften des Personalvertretungsrechts und des Betriebsverfassungsgesetzes,
@@ -102,7 +102,7 @@ In diesem Rahmen können in den Bereichen Schifffahrt und Wasserstraße, Gewäss
 - 6. :: Berücksichtigen der Vorschriften des Umweltrechts, insbesondere hinsichtlich des Naturschutz- und Wasserrechts, des Wasserverbandsrechts, des Bodenschutzes, der Kreislauf- und Abfallwirtschaft, der Luftreinhaltung und Lärmbekämpfung, des Strahlenschutzes und des Schutzes vor gefährlichen Stoffen,
 - 7. :: Berücksichtigen wirtschaftsrechtlicher Vorschriften und Bestimmungen sowie des Datenschutzes.
 
-(4) Im Prüfungsbereich �Betriebswirtschaftliches Handeln“ soll die Fähigkeit nachgewiesen werden, im Rahmen anwendungsbezogener Handlungen betriebswirtschaftliche Gesichtspunkte berücksichtigen und volkswirtschaftliche Zusammenhänge herstellen zu können. Es sollen Unternehmensformen dargestellt und beurteilt werden können. Weiterhin soll die Fähigkeit nachgewiesen werden, Arbeitsabläufe und betriebliche Abläufe nach wirtschaftlichen Gesichtspunkten planen, beurteilen und beeinflussen zu können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(4) Im Prüfungsbereich Betriebswirtschaftliches Handeln“ soll die Fähigkeit nachgewiesen werden, im Rahmen anwendungsbezogener Handlungen betriebswirtschaftliche Gesichtspunkte berücksichtigen und volkswirtschaftliche Zusammenhänge herstellen zu können. Es sollen Unternehmensformen dargestellt und beurteilt werden können. Weiterhin soll die Fähigkeit nachgewiesen werden, Arbeitsabläufe und betriebliche Abläufe nach wirtschaftlichen Gesichtspunkten planen, beurteilen und beeinflussen zu können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: Berücksichtigen von ökonomischen Handlungsprinzipien von Unternehmen und Verwaltungen unter Einbeziehung volkswirtschaftlicher Zusammenhänge und sozialer Wirkungen,
 - 2. :: Berücksichtigen der Grundsätze betrieblicher Aufbau- und Ablauforganisation,
@@ -110,7 +110,7 @@ In diesem Rahmen können in den Bereichen Schifffahrt und Wasserstraße, Gewäss
 - 4. :: Beachten von Methoden der Entgeltfindung und der kontinuierlichen betrieblichen Verbesserung,
 - 5. :: Durchführen von Kostenarten-, Kostenstellen- und Kostenträgerrechnungen sowie von Kalkulationsverfahren.
 
-(5) Im Prüfungsbereich �Anwenden von Methoden der Information, Kommunikation und Planung“ soll die Fähigkeit nachgewiesen werden, Projekte und Arbeitsabläufe analysieren, planen und transparent machen zu können. Dazu gehört, Daten aufbereiten, technische Unterlagen erstellen, entsprechende Planungstechniken einsetzen sowie angemessene Präsentationstechniken anwenden zu können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(5) Im Prüfungsbereich Anwenden von Methoden der Information, Kommunikation und Planung“ soll die Fähigkeit nachgewiesen werden, Projekte und Arbeitsabläufe analysieren, planen und transparent machen zu können. Dazu gehört, Daten aufbereiten, technische Unterlagen erstellen, entsprechende Planungstechniken einsetzen sowie angemessene Präsentationstechniken anwenden zu können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: Erfassen, Analysieren und Aufbereiten von Betriebs-, Produkt- und Prozessdaten mittels EDV-Systemen und Bewerten visualisierter Daten,
 - 2. :: Bewerten von Planungstechniken und Analysemethoden sowie deren Anwendungsmöglichkeiten,
@@ -124,8 +124,8 @@ In diesem Rahmen können in den Bereichen Schifffahrt und Wasserstraße, Gewäss
 
 § 5 - Handlungsspezifische Qualifikationen
 
-(1) Der Prüfungsteil �Handlungsspezifische Qualifikationen“ umfasst die Handlungsbereiche �Planung und Bau“, �Betrieb und Unterhaltung“ sowie �Führung und Organisation“.
-(2) Im Handlungsbereich �Planung und Bau“ soll die Fähigkeit nachgewiesen werden, unter Beachtung der rechtlichen Rahmenbedingungen und geltenden Regeln der Technik an der Planung von wasserbaulichen Anlagen, Ausbaumaßnahmen an Gewässern und Anlagen zur Gewässerbewirtschaftung sowie bei der Aufstellung von Gewässerentwicklungskonzepten und Rahmenplänen für den Hochwasserschutz mitwirken zu können. Dazu gehört auch, die Baumaßnahmen vorbereiten, durchführen, überwachen und abnehmen zu können. Es soll ferner die Fähigkeit nachgewiesen werden, Kalkulationen durchzuführen und organisatorische Maßnahmen auch in ihrer Bedeutung als Kostenfaktoren zu beurteilen und zu berücksichtigen. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(1) Der Prüfungsteil Handlungsspezifische Qualifikationen“ umfasst die Handlungsbereiche Planung und Bau“, Betrieb und Unterhaltung“ sowie Führung und Organisation“.
+(2) Im Handlungsbereich Planung und Bau“ soll die Fähigkeit nachgewiesen werden, unter Beachtung der rechtlichen Rahmenbedingungen und geltenden Regeln der Technik an der Planung von wasserbaulichen Anlagen, Ausbaumaßnahmen an Gewässern und Anlagen zur Gewässerbewirtschaftung sowie bei der Aufstellung von Gewässerentwicklungskonzepten und Rahmenplänen für den Hochwasserschutz mitwirken zu können. Dazu gehört auch, die Baumaßnahmen vorbereiten, durchführen, überwachen und abnehmen zu können. Es soll ferner die Fähigkeit nachgewiesen werden, Kalkulationen durchzuführen und organisatorische Maßnahmen auch in ihrer Bedeutung als Kostenfaktoren zu beurteilen und zu berücksichtigen. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: Durchführen der Bestandsaufnahme und Ermitteln der Planungsvoraussetzungen,
 - 2. :: Zusammenstellen der für die Planung notwendigen Unterlagen und Daten,
@@ -140,7 +140,7 @@ In diesem Rahmen können in den Bereichen Schifffahrt und Wasserstraße, Gewäss
 - 11. :: Prüfen des Aufmaßes und Abnehmen von Lieferungen und Leistungen Dritter einschließlich Durchführen der Funktionsprüfungen,
 - 12. :: Erstellen der Baudokumentation, Einmessen und Aktualisieren der Bestandspläne und Kartenwerke.
 
-(3) Im Handlungsbereich �Betrieb und Unterhaltung“ soll die Fähigkeit nachgewiesen werden, zusammen mit den Mitarbeitern und Mitarbeiterinnen wasserbauliche Anlagen betreiben, überwachen und unterhalten zu können, um dauerhafte Betriebs-, Funktions- und Standsicherheit sowie die Sicherheit und Leichtigkeit des Schiffsverkehrs zu gewährleisten. Darüber hinaus soll die Fähigkeit nachgewiesen werden, auf der Grundlage von Gewässerentwicklungskonzepten und Rahmenplänen die Pflege und Entwicklung von Gewässern durchführen und für die Erhaltung eines ordnungsgemäßen Abflusses sorgen zu können. Weiterhin soll die Fähigkeit nachgewiesen werden, betriebswirtschaftliche Zusammenhänge zu erfassen sowie personelle Maßnahmen auch in ihrer Bedeutung als Kostenfaktoren zu beurteilen und zu berücksichtigen. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(3) Im Handlungsbereich Betrieb und Unterhaltung“ soll die Fähigkeit nachgewiesen werden, zusammen mit den Mitarbeitern und Mitarbeiterinnen wasserbauliche Anlagen betreiben, überwachen und unterhalten zu können, um dauerhafte Betriebs-, Funktions- und Standsicherheit sowie die Sicherheit und Leichtigkeit des Schiffsverkehrs zu gewährleisten. Darüber hinaus soll die Fähigkeit nachgewiesen werden, auf der Grundlage von Gewässerentwicklungskonzepten und Rahmenplänen die Pflege und Entwicklung von Gewässern durchführen und für die Erhaltung eines ordnungsgemäßen Abflusses sorgen zu können. Weiterhin soll die Fähigkeit nachgewiesen werden, betriebswirtschaftliche Zusammenhänge zu erfassen sowie personelle Maßnahmen auch in ihrer Bedeutung als Kostenfaktoren zu beurteilen und zu berücksichtigen. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: Überwachen und Dokumentieren des Zustandes von Gewässern und Wasserstraßen,
 - 2. :: Planen, Durchführen und Dokumentieren der Bauwerksüberwachung,
@@ -156,7 +156,7 @@ In diesem Rahmen können in den Bereichen Schifffahrt und Wasserstraße, Gewäss
 - 12. :: Vergeben und Abrechnen von Aufträgen über Lieferungen und Leistungen unter Beachtung der vertragsrechtlichen und der haushaltsrechtlichen Vorschriften sowie des betrieblichen Rechnungswesens,
 - 13. :: Berücksichtigen der einschlägigen Arbeitssicherheits-, Gesundheits- und Umweltschutzbestimmungen.
 
-(4) Im Handlungsbereich �Führung und Organisation“ soll die Fähigkeit nachgewiesen werden, organisieren und führen zu können. Dies beinhaltet die Fähigkeit, die Mitarbeiter und Mitarbeiterinnen nach zielgerichteten Erfordernissen durch die Anwendung geeigneter Methoden zu verantwortlichem Handeln hinzuführen und auf der Grundlage einer qualitativen und quantitativen Personalplanung zu einer systematischen Personalentwicklung beizutragen. Dazu gehört die Leistungsbereitschaft der Mitarbeiter und Mitarbeiterinnen zu fördern sowie betriebliche und soziale Konflikte zu lösen. Darüber hinaus soll die Fähigkeit nachgewiesen werden, betriebswirtschaftliche Zusammenhänge und kostenrelevante Einflussfaktoren erfassen und beurteilen zu können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(4) Im Handlungsbereich Führung und Organisation“ soll die Fähigkeit nachgewiesen werden, organisieren und führen zu können. Dies beinhaltet die Fähigkeit, die Mitarbeiter und Mitarbeiterinnen nach zielgerichteten Erfordernissen durch die Anwendung geeigneter Methoden zu verantwortlichem Handeln hinzuführen und auf der Grundlage einer qualitativen und quantitativen Personalplanung zu einer systematischen Personalentwicklung beizutragen. Dazu gehört die Leistungsbereitschaft der Mitarbeiter und Mitarbeiterinnen zu fördern sowie betriebliche und soziale Konflikte zu lösen. Darüber hinaus soll die Fähigkeit nachgewiesen werden, betriebswirtschaftliche Zusammenhänge und kostenrelevante Einflussfaktoren erfassen und beurteilen zu können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: Ermitteln und Bestimmen des qualitativen und quantitativen Personalbedarfs,
 - 2. :: Einsetzen von Fremdpersonal,
@@ -173,9 +173,9 @@ In diesem Rahmen können in den Bereichen Schifffahrt und Wasserstraße, Gewäss
 - 13. :: Beurteilen, Überprüfen und Gewährleisten der Arbeitssicherheit, des Arbeits-, Gesundheits- und Umweltschutzes.
 
 (5) Der handlungsspezifische Prüfungsteil wird in zwei schriftlichen, integrierenden Situationsaufgaben und in einem situationsbezogenen Fachgespräch geprüft. Insgesamt sollen darin alle Qualifikationsinhalte dieses Prüfungsteils integrativ berücksichtigt werden.
-(6) In der Situationsaufgabe aus dem Handlungsbereich �Planung und Bau“ bilden dessen Qualifikationsinhalte den Kern, es werden darin Qualifikationsinhalte aus dem Handlungsbereich �Führung und Organisation“ einbezogen sowie Inhalte der �Grundlegenden Qualifikationen“ mitberücksichtigt. Die Prüfungsdauer beträgt acht Stunden.
-(7) In der Situationsaufgabe aus dem Handlungsbereich �Betrieb und Unterhaltung“ bilden dessen Qualifikationsinhalte den Kern, es werden darin Qualifikationsinhalte aus dem Handlungsbereich �Führung und Organisation“ einbezogen sowie Inhalte der �Grundlegenden Qualifikationen“ mitberücksichtigt. Die Prüfungsdauer beträgt acht Stunden.
-(8) In einem situationsbezogenen Fachgespräch soll die Fähigkeit nachgewiesen werden, betriebliche Aufgabenstellungen analysieren, strukturieren und einer begründeten Lösung zuführen zu können. Dazu gehört, Lösungsvorschläge unter Einbeziehung von Präsentationstechniken erläutern und erörtern zu können. Gegenstand des integrativ durchzuführenden Fachgesprächs sind die Inhalte des Handlungsbereichs �Führung und Organisation“ unter Einbeziehung der Handlungsbereiche �Planung und Bau“ sowie �Betrieb und Unterhaltung“. Dabei sollen insbesondere die Qualifikationsinhalte, die nicht Gegenstand der schriftlichen Situationsaufgaben waren, berücksichtigt werden. Das Fachgespräch soll für die zu prüfende Person mindestens 45 Minuten und höchstens 60 Minuten dauern; zusätzlich ist eine Vorbereitungszeit von 15 Minuten zu gewähren.
+(6) In der Situationsaufgabe aus dem Handlungsbereich Planung und Bau“ bilden dessen Qualifikationsinhalte den Kern, es werden darin Qualifikationsinhalte aus dem Handlungsbereich Führung und Organisation“ einbezogen sowie Inhalte der Grundlegenden Qualifikationen“ mitberücksichtigt. Die Prüfungsdauer beträgt acht Stunden.
+(7) In der Situationsaufgabe aus dem Handlungsbereich Betrieb und Unterhaltung“ bilden dessen Qualifikationsinhalte den Kern, es werden darin Qualifikationsinhalte aus dem Handlungsbereich Führung und Organisation“ einbezogen sowie Inhalte der Grundlegenden Qualifikationen“ mitberücksichtigt. Die Prüfungsdauer beträgt acht Stunden.
+(8) In einem situationsbezogenen Fachgespräch soll die Fähigkeit nachgewiesen werden, betriebliche Aufgabenstellungen analysieren, strukturieren und einer begründeten Lösung zuführen zu können. Dazu gehört, Lösungsvorschläge unter Einbeziehung von Präsentationstechniken erläutern und erörtern zu können. Gegenstand des integrativ durchzuführenden Fachgesprächs sind die Inhalte des Handlungsbereichs Führung und Organisation“ unter Einbeziehung der Handlungsbereiche Planung und Bau“ sowie Betrieb und Unterhaltung“. Dabei sollen insbesondere die Qualifikationsinhalte, die nicht Gegenstand der schriftlichen Situationsaufgaben waren, berücksichtigt werden. Das Fachgespräch soll für die zu prüfende Person mindestens 45 Minuten und höchstens 60 Minuten dauern; zusätzlich ist eine Vorbereitungszeit von 15 Minuten zu gewähren.
 (9) Wurde in nicht mehr als einer schriftlichen Situationsaufgabe eine mangelhafte Prüfungsleistung erbracht, ist in dieser Situationsaufgabe eine mündliche Ergänzungsprüfung anzubieten. Bei einer oder mehreren ungenügenden schriftlichen Prüfungsleistungen besteht diese Möglichkeit nicht. Die Ergänzungsprüfung soll in der Regel nicht länger als 20 Minuten dauern. Die Bewertung der schriftlichen Prüfungsleistung und die der mündlichen Ergänzungsprüfung werden zu einer Note zusammengefasst. Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
@@ -187,13 +187,13 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 § 7 - Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
-(2) Im Prüfungsteil �Grundlegende Qualifikationen“ sind die Prüfungsleistungen für jeden Prüfungsbereich einzeln zu bewerten. Aus den einzelnen Bewertungen ist als Bewertung für den Prüfungsteil das arithmetische Mittel zu berechnen.
-(3) Im Prüfungsteil �Handlungsspezifische Qualifikationen“ sind als Prüfungsleistungen zu bewerten:
+(2) Im Prüfungsteil Grundlegende Qualifikationen“ sind die Prüfungsleistungen für jeden Prüfungsbereich einzeln zu bewerten. Aus den einzelnen Bewertungen ist als Bewertung für den Prüfungsteil das arithmetische Mittel zu berechnen.
+(3) Im Prüfungsteil Handlungsspezifische Qualifikationen“ sind als Prüfungsleistungen zu bewerten:
 
 - 1. :: die beiden schriftlichen Situationsaufgaben nach § 5 Absatz 5 und
 - 2. :: das Fachgespräch nach § 5 Absatz 8.
 
-Aus den Bewertungen für die beiden schriftlichen Situationsaufgaben und der Bewertung für das Fachgespräch ist als Bewertung des Prüfungsteils �Handlungsspezifische Qualifikationen“ das arithmetische Mittel zu berechnen.
+Aus den Bewertungen für die beiden schriftlichen Situationsaufgaben und der Bewertung für das Fachgespräch ist als Bewertung des Prüfungsteils Handlungsspezifische Qualifikationen“ das arithmetische Mittel zu berechnen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
@@ -201,22 +201,22 @@ Aus den Bewertungen für die beiden schriftlichen Situationsaufgaben und der Bew
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
-- 1. :: in jedem Prüfungsbereich des Prüfungsteils �Grundlegende Qualifikationen“,
-- 2. :: im Prüfungsteil �Handlungsspezifische Qualifikationen“
+- 1. :: in jedem Prüfungsbereich des Prüfungsteils Grundlegende Qualifikationen“,
+- 2. :: im Prüfungsteil Handlungsspezifische Qualifikationen“
   - a) :: in jeder der beiden schriftlichen Situationsaufgaben und
   - b) :: im Fachgespräch.
 
 (2) Ist die Prüfung bestanden, so werden die folgenden Bewertungen jeweils kaufmännisch auf eine ganze Zahl gerundet:
 
-- 1. :: die Bewertung für den Prüfungsteil �Grundlegende Qualifikationen“,
-- 2. :: die Bewertung für den Prüfungsteil �Handlungsspezifische Qualifikationen“,
+- 1. :: die Bewertung für den Prüfungsteil Grundlegende Qualifikationen“,
+- 2. :: die Bewertung für den Prüfungsteil Handlungsspezifische Qualifikationen“,
 - 3. :: die Bewertung der Situationsaufgabe, in der eine mündliche Ergänzungsprüfung durchgeführt wurde.
 
-(3) Den einzelnen Bewertungen für den Prüfungsteil �Grundlegende Qualifikationen“, für die beiden Situationsaufgaben und für das Fachgespräch ist nach Anlage 1 die jeweilige Note als Dezimalzahl zuzuordnen.
+(3) Den einzelnen Bewertungen für den Prüfungsteil Grundlegende Qualifikationen“, für die beiden Situationsaufgaben und für das Fachgespräch ist nach Anlage 1 die jeweilige Note als Dezimalzahl zuzuordnen.
 (4) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das gewichtete arithmetische Mittel zu berechnen. Dabei werden die Bewertungen wie folgt gewichtet:
 
-- 1. :: die Bewertung für den Prüfungsteil �Grundlegende Qualifikationen“ mit 25 Prozent,
-- 2. :: die Bewertung für den Prüfungsteil �Handlungsspezifische Qualifikationen“ mit 75 Prozent.
+- 1. :: die Bewertung für den Prüfungsteil Grundlegende Qualifikationen“ mit 25 Prozent,
+- 2. :: die Bewertung für den Prüfungsteil Handlungsspezifische Qualifikationen“ mit 75 Prozent.
 
 Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerundeten Gesamtpunktzahl ist nach Anlage 1 eine Note als Dezimalzahl und die Note in Worten zuzuordnen. Die zugeordnete Note ist die Gesamtnote.
 
@@ -275,13 +275,13 @@ Teil A -- Zeugnis ohne Prüfungsergebnisse:
 Teil B -- Zeugnis mit Prüfungsergebnissen:
 Alle Angaben des Teils A sowie zusätzlich:
 
-- 1. :: zum Prüfungsteil �Grundlegende Qualifikationen“
+- 1. :: zum Prüfungsteil Grundlegende Qualifikationen“
   - a) :: Benennung dieses Prüfungsteils und Bewertung mit Note sowie
   - b) :: Benennung der Prüfungsbereiche und Bewertung mit Punkten,
-- 2. :: zum Prüfungsteil �Handlungsspezifische Qualifikationen“
+- 2. :: zum Prüfungsteil Handlungsspezifische Qualifikationen“
   - a) :: Benennung dieses Prüfungsteils,
-  - b) :: Benennung der Situationsaufgabe im Handlungsbereich �Planung und Bau“ und Bewertung mit Punkten und Note,
-  - c) :: Benennung der Situationsaufgabe im Handlungsbereich �Betrieb und Unterhaltung“ und Bewertung mit Punkten und Note sowie
+  - b) :: Benennung der Situationsaufgabe im Handlungsbereich Planung und Bau“ und Bewertung mit Punkten und Note,
+  - c) :: Benennung der Situationsaufgabe im Handlungsbereich Betrieb und Unterhaltung“ und Bewertung mit Punkten und Note sowie
   - d) :: Benennung des situationsbezogenen Fachgesprächs und Bewertung mit Punkten und Note,
 - 3. :: die errechnete Gesamtpunktzahl für die gesamte Prüfung,
 - 4. :: die Gesamtnote als Dezimalzahl,

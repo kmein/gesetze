@@ -10,18 +10,18 @@ Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt durch Artike
 
 Inhaltsübersicht
 
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
+
+
+
+
+
+
+
+
+
+
+
+
 
 § 1 - Staatliche Anerkennung des Ausbildungsberufes, Anerkennungsbereich des Ausbildungsberufes
 
@@ -240,9 +240,9 @@ Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen -- auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach § 18 -- wie folgt bewertet worden sind:
 
-- 1. :: im Gesamtergebnis mit mindestens �ausreichend“,
-- 2. :: in mindestens vier Prüfungsbereichen mit mindestens �ausreichend“ und
-- 3. :: in keinem Prüfungsbereich mit �ungenügend“.
+- 1. :: im Gesamtergebnis mit mindestens ausreichend“,
+- 2. :: in mindestens vier Prüfungsbereichen mit mindestens ausreichend“ und
+- 3. :: in keinem Prüfungsbereich mit ungenügend“.
 
 
 § 18 - Mündliche Ergänzungsprüfung
@@ -254,7 +254,7 @@ Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
   - a) :: Verpflegung personenorientiert und zielgruppenorientiert planen,
   - b) :: Textilien, Räume und Wohnumfeld beurteilen, reinigen und pflegen oder
   - c) :: Wirtschafts- und Sozialkunde,
-- 2. :: wenn der benannte Prüfungsbereich schlechter als mit �ausreichend“ bewertet worden ist und
+- 2. :: wenn der benannte Prüfungsbereich schlechter als mit ausreichend“ bewertet worden ist und
 - 3. :: wenn die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 Die mündliche Ergänzungsprüfung darf nur in einem einzigen Prüfungsbereich durchgeführt werden.
@@ -273,8 +273,8 @@ Diese Verordnung tritt am 1. August 2020 in Kraft. Gleichzeitig tritt die Ausbil
 Anlage - (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Hauswirtschafter und zur Hauswirtschafterin
 
 (Fundstelle: BGBl. I 2020, 735 - 742)
-�
-�
+
+
 1. Personenbetreuende Dienstleistungen
 
 Lfd.\\
@@ -318,7 +318,7 @@ vermarkten\\
 - f) :: Produkte und Dienstleistungen präsentieren und vermarkten
 - g) :: Kommunikationsprozesse personen-, zielgruppen- sowie situations- und lösungsorientiert gestalten
 
-�
+
 
 16
 
@@ -367,7 +367,7 @@ vermarkten\\
 - h) :: Marktfähigkeit von Produkten und Dienstleistungen erfassen und bewerten
 - i) :: Kommunikationsprozesse personen-, zielgruppen- sowie situations- und lösungsorientiert gestalten
 
-�
+
 
 16
 
@@ -415,8 +415,8 @@ vermarkten\\
 - g) :: Marktfähigkeit von ländlich-agrarischen Produkten und Dienstleistungen erfassen und bewerten
 - h) :: Kommunikationsprozesse personen-, zielgruppen- und situationsorientiert gestalten
 
-�
+
 
 16
 
-�
+

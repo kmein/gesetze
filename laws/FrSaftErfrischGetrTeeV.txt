@@ -65,7 +65,7 @@ Die Angabe nach Satz 1 Nummer 5 hat auf der Verpackung, auf einem an der Verpack
 - 2. :: Disaccharide oder
 - 3. :: anderen Lebensmittel, die wegen ihrer süßenden Eigenschaften verwendet werden, einschließlich Süßungsmittel im Sinne der Verordnung (EG) Nr. 1333/2008,
 
-enthält. Ist Zucker von Natur aus in Fruchtnektar enthalten, sollte dieser mit dem zusätzlichen Hinweis auf dem Etikett �Enthält von Natur aus Zucker“ in den Verkehr gebracht werden.
+enthält. Ist Zucker von Natur aus in Fruchtnektar enthalten, sollte dieser mit dem zusätzlichen Hinweis auf dem Etikett Enthält von Natur aus Zucker“ in den Verkehr gebracht werden.
 
 
 § 4 - Begriffsbestimmungen
@@ -110,8 +110,8 @@ die nach ihrer Bezeichnung, nach ihren sonstigen Angaben oder Bildzeichen auf de
 
 (2) Für die Zwecke dieser Verordnung gilt
 
-- 1. :: für den Begriff �Säugling“ die Begriffsbestimmung gemäß Artikel 2 Absatz 2 Buchstabe a der Verordnung (EU) Nr. 609/2013 des Europäischen Parlaments und des Rates vom 12. Juni 2013 über Lebensmittel für Säuglinge und Kleinkinder, Lebensmittel für besondere medizinische Zwecke und Tagesrationen für gewichtskontrollierende Ernährung und zur Aufhebung der Richtlinie 92/52/EWG des Rates, der Richtlinien 96/8/EG, 1999/21/EG, 2006/125/EG und 2006/141/EG der Kommission, der Richtlinie 2009/39/EG des Europäischen Parlaments und des Rates sowie der Verordnungen (EG) Nr. 41/2009 und (EG) Nr. 953/2009 des Rates und der Kommission (ABl. L 181 vom 29.6.2013, S. 35) und
-- 2. :: für den Begriff �Kleinkind“ die Begriffsbestimmung gemäß Artikel 2 Absatz 2 Buchstabe b der Verordnung (EU) Nr. 609/2013.
+- 1. :: für den Begriff Säugling“ die Begriffsbestimmung gemäß Artikel 2 Absatz 2 Buchstabe a der Verordnung (EU) Nr. 609/2013 des Europäischen Parlaments und des Rates vom 12. Juni 2013 über Lebensmittel für Säuglinge und Kleinkinder, Lebensmittel für besondere medizinische Zwecke und Tagesrationen für gewichtskontrollierende Ernährung und zur Aufhebung der Richtlinie 92/52/EWG des Rates, der Richtlinien 96/8/EG, 1999/21/EG, 2006/125/EG und 2006/141/EG der Kommission, der Richtlinie 2009/39/EG des Europäischen Parlaments und des Rates sowie der Verordnungen (EG) Nr. 41/2009 und (EG) Nr. 953/2009 des Rates und der Kommission (ABl. L 181 vom 29.6.2013, S. 35) und
+- 2. :: für den Begriff Kleinkind“ die Begriffsbestimmung gemäß Artikel 2 Absatz 2 Buchstabe b der Verordnung (EU) Nr. 609/2013.
 
 
 § 8 - Besondere Anforderungen an Herstellung und Inverkehrbringen
@@ -238,7 +238,7 @@ Bei der Herstellung der in Anlage 1 genannten Erzeugnisse dürfen folgende Verfa
 
 - 1. :: die physikalischen Verfahren:
   - a) :: mechanische Extraktionsverfahren;
-  - b) :: die üblichen physikalischen Verfahren, einschlie�in-line“-Verfahren) des essbaren Teils der Früchte, ausgenommen Weintrauben, zur Herstellung der Fruchtsaftkonzentrate, sofern die so gewonnenen Fruchtsäfte den Anforderungen von Anlage 1 Nr. 1 entsprechen;
+  - b) :: die üblichen physikalischen Verfahren, einschliein-line“-Verfahren) des essbaren Teils der Früchte, ausgenommen Weintrauben, zur Herstellung der Fruchtsaftkonzentrate, sofern die so gewonnenen Fruchtsäfte den Anforderungen von Anlage 1 Nr. 1 entsprechen;
   - c) :: bei Traubensäften ist für den Fall, dass die Trauben mit Schwefeldioxid behandelt wurden, eine Entschwefelung durch physikalische Verfahren zulässig, sofern die Gesamtmenge an Schwefeldioxid im Enderzeugnis 10 mg/l nicht überschreitet;
 - 2. :: das Bearbeiten mit Speisegelatine.
 
@@ -263,8 +263,8 @@ Mindestgehalt an Fruchtsaft oder Fruchtmark (in Vol.-% des fertigen Erzeugnisses
 I.
 Früchten mit saurem, zum unmittelbaren Genuss nicht geeignetem Saft:\\
 \\
-�
-�
+
+
 Passionsfrucht
 25
 Quito-Orangen
@@ -316,8 +316,8 @@ andere Früchte dieser Kategorie
 II.
 säurearmen oder sehr aromatischen Früchten oder Früchten, die viel Fruchtfleisch enthalten, mit zum unmittelbaren Genuss nicht geeignetem Saft:\\
 \\
-�
-�
+
+
 Mangos
 25
 Bananen
@@ -349,8 +349,8 @@ andere Früchte dieser Kategorie
 III.
 Früchten mit zum unmittelbaren Genuss geeignetem Saft:\\
 \\
-�
-�
+
+
 Äpfel
 50
 Birnen
@@ -378,7 +378,7 @@ Anlage 7 - (zu § 3 Abs. 2 Satz 4)
 
 (Fundstelle: BGBl. I 2004, 1026;\\
 bzgl. der einzelnen Änderungen vgl. Fußnote)
-�
+
 
 Ergänzende Bezeichnungen
 

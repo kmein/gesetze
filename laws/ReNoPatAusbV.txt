@@ -264,14 +264,14 @@ Die Berufsausbildungen dauern jeweils drei Jahre.
 
 (9) Die Abschlussprüfung ist bestanden, wenn die Leistungen wie folgt bewertet worden sind:
 
-- 1. :: im Gesamtergebnis mit mindestens �ausreichend“,
-- 2. :: im Prüfungsbereich Rechtsanwendung im Rechtsanwaltsbereich mit mindestens �ausreichend“,
-- 3. :: in mindestens drei weiteren Prüfungsbereichen mit mindestens �ausreichend“,
-- 4. :: in keinem Prüfungsbereich mit �ungenügend“.
+- 1. :: im Gesamtergebnis mit mindestens ausreichend“,
+- 2. :: im Prüfungsbereich Rechtsanwendung im Rechtsanwaltsbereich mit mindestens ausreichend“,
+- 3. :: in mindestens drei weiteren Prüfungsbereichen mit mindestens ausreichend“,
+- 4. :: in keinem Prüfungsbereich mit ungenügend“.
 
-(10) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche �Geschäfts- und Leistungsprozesse“, �Rechtsanwendung im Rechtsanwaltsbereich“, �Vergütung und Kosten“ oder �Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
+(10) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche Geschäfts- und Leistungsprozesse“, Rechtsanwendung im Rechtsanwaltsbereich“, Vergütung und Kosten“ oder Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-- 1. :: der Prüfungsbereich schlechter als mit �ausreichend“ bewertet worden ist und
+- 1. :: der Prüfungsbereich schlechter als mit ausreichend“ bewertet worden ist und
 - 2. :: die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
@@ -362,14 +362,14 @@ Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisheri
 
 (9) Die Abschlussprüfung ist bestanden, wenn die Leistungen wie folgt bewertet worden sind:
 
-- 1. :: im Gesamtergebnis mit mindestens �ausreichend“,
-- 2. :: im Prüfungsbereich Rechtsanwendung im Notarbereich mit mindestens �ausreichend“,
-- 3. :: in mindestens drei weiteren Prüfungsbereichen mit mindestens �ausreichend“,
-- 4. :: in keinem Prüfungsbereich mit �ungenügend“.
+- 1. :: im Gesamtergebnis mit mindestens ausreichend“,
+- 2. :: im Prüfungsbereich Rechtsanwendung im Notarbereich mit mindestens ausreichend“,
+- 3. :: in mindestens drei weiteren Prüfungsbereichen mit mindestens ausreichend“,
+- 4. :: in keinem Prüfungsbereich mit ungenügend“.
 
-(10) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche �Geschäfts- und Leistungsprozesse“, �Rechtsanwendung im Notarbereich“, �Kosten“ oder �Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
+(10) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche Geschäfts- und Leistungsprozesse“, Rechtsanwendung im Notarbereich“, Kosten“ oder Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-- 1. :: der Prüfungsbereich schlechter als mit �ausreichend“ bewertet worden ist und
+- 1. :: der Prüfungsbereich schlechter als mit ausreichend“ bewertet worden ist und
 - 2. :: die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
@@ -468,14 +468,14 @@ Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisheri
 
 (9) Die Abschlussprüfung ist bestanden, wenn die Leistungen wie folgt bewertet worden sind:
 
-- 1. :: im Gesamtergebnis mit mindestens �ausreichend“,
-- 2. :: im Prüfungsbereich Rechtsanwendung im Rechtsanwalts- und Notarbereich mit mindestens �ausreichend“,
-- 3. :: in mindestens drei weiteren Prüfungsbereichen mit mindestens �ausreichend“,
-- 4. :: in keinem Prüfungsbereich mit �ungenügend“.
+- 1. :: im Gesamtergebnis mit mindestens ausreichend“,
+- 2. :: im Prüfungsbereich Rechtsanwendung im Rechtsanwalts- und Notarbereich mit mindestens ausreichend“,
+- 3. :: in mindestens drei weiteren Prüfungsbereichen mit mindestens ausreichend“,
+- 4. :: in keinem Prüfungsbereich mit ungenügend“.
 
-(10) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche �Geschäfts- und Leistungsprozesse“, �Rechtsanwendung im Rechtsanwalts- und Notarbereich“, �Vergütung und Kosten“ oder �Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
+(10) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche Geschäfts- und Leistungsprozesse“, Rechtsanwendung im Rechtsanwalts- und Notarbereich“, Vergütung und Kosten“ oder Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-- 1. :: der Prüfungsbereich schlechter als mit �ausreichend“ bewertet worden ist und
+- 1. :: der Prüfungsbereich schlechter als mit ausreichend“ bewertet worden ist und
 - 2. :: die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
@@ -576,13 +576,13 @@ Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisheri
 
 (9) Die Abschlussprüfung ist bestanden, wenn die Leistungen wie folgt bewertet worden sind:
 
-- 1. :: im Gesamtergebnis mit mindestens �ausreichend“,
-- 2. :: in mindestens vier Prüfungsbereichen mit mindestens �ausreichend“,
-- 3. :: in keinem Prüfungsbereich mit �ungenügend“.
+- 1. :: im Gesamtergebnis mit mindestens ausreichend“,
+- 2. :: in mindestens vier Prüfungsbereichen mit mindestens ausreichend“,
+- 3. :: in keinem Prüfungsbereich mit ungenügend“.
 
-(10) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche �Geschäfts- und Leistungsprozesse“, �Rechtsanwendung im Bereich des internationalen, regionalen und europäischen gewerblichen Rechtsschutzes“, �Rechtsanwendung im Bereich des nationalen gewerblichen Rechtsschutzes“ oder �Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
+(10) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche Geschäfts- und Leistungsprozesse“, Rechtsanwendung im Bereich des internationalen, regionalen und europäischen gewerblichen Rechtsschutzes“, Rechtsanwendung im Bereich des nationalen gewerblichen Rechtsschutzes“ oder Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-- 1. :: der Prüfungsbereich schlechter als mit �ausreichend“ bewertet worden ist und
+- 1. :: der Prüfungsbereich schlechter als mit ausreichend“ bewertet worden ist und
 - 2. :: die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.

@@ -6,10 +6,10 @@ Ausfertigungsdatum: 03.08.1988
 
 Inhaltsübersicht
 
-�
-�
-�
-�
+
+
+
+
 
 § 1
 
@@ -206,8 +206,8 @@ an. Im Falle des Satzes 1 Nummer 4 unterrichtet die zuständige Behörde das Bun
 (2) Mit Bekanntgabe der Anordnung nach Absatz 1 hat der Tierhalter über die Vorschriften des § 4 Absatz 2 Satz 1 hinaus
 
 - 1. :: an den Zufahrten und Eingängen des Betriebs Schilder mit der deutlichen und haltbaren Aufschrift
-  - a) :: im Falle der Schweinepest �Schweinepest -- Unbefugter Zutritt verboten“,
-  - b) :: im Falle der Afrikanischen Schweinepest �Afrikanische Schweinepest -- Unbefugter Zutritt verboten“
+  - a) :: im Falle der Schweinepest Schweinepest -- Unbefugter Zutritt verboten“,
+  - b) :: im Falle der Afrikanischen Schweinepest Afrikanische Schweinepest -- Unbefugter Zutritt verboten“
 
   gut sichtbar anzubringen,
 - 2. :: Hunde und Katzen einzusperren.
@@ -234,8 +234,8 @@ Für den Seuchenbetrieb gilt § 4 Absatz 3 Nummer 1, 2 und 3 Satz 1 Buchstabe c,
 (2) Die zuständige Behörde
 
 - 1. :: bringt an den Hauptzufahrtswegen zu dem Sperrbezirk Schilder mit der deutlichen und haltbaren Aufschrift
-  - a) :: im Falle der Schweinepest �Schweinepest -- Sperrbezirk“,
-  - b) :: im Falle der Afrikanischen Schweinepest �Afrikanische Schweinepest -- Sperrbezirk“
+  - a) :: im Falle der Schweinepest Schweinepest -- Sperrbezirk“,
+  - b) :: im Falle der Afrikanischen Schweinepest Afrikanische Schweinepest -- Sperrbezirk“
 
   gut sichtbar an,
 - 2. :: führt in den im Sperrbezirk gelegenen Betrieben innerhalb von sieben Tagen eine klinische Untersuchung der Schweine durch,
@@ -275,8 +275,8 @@ Für den Seuchenbetrieb gilt § 4 Absatz 3 Nummer 1, 2 und 3 Satz 1 Buchstabe c,
 (2) Die zuständige Behörde
 
 - 1. :: bringt an den Hauptzufahrtswegen zu dem Beobachtungsgebiet Schilder mit der deutlichen und haltbaren Aufschrift
-  - a) :: im Falle der Schweinepest �Schweinepest -- Beobachtungsgebiet“,
-  - b) :: im Falle der Afrikanischen Schweinepest �Afrikanische Schweinepest -- Beobachtungsgebiet“
+  - a) :: im Falle der Schweinepest Schweinepest -- Beobachtungsgebiet“,
+  - b) :: im Falle der Afrikanischen Schweinepest Afrikanische Schweinepest -- Beobachtungsgebiet“
 
   gut sichtbar an,
 - 2. :: führt in den im Beobachtungsgebiet gelegenen Betrieben, in denen Schweine verendet oder erkrankt sind, eine serologische und virologische Untersuchung der Schweine durch.
@@ -375,7 +375,7 @@ an.
 (1) Die zuständige oberste Landesbehörde kann, vorbehaltlich der Zustimmung durch die Europäische Kommission, für ein bestimmtes Gebiet die Notimpfung gegen Schweinepest anordnen, wenn die Schweinepest amtlich festgestellt worden ist und auf Grund des Ergebnisses der epidemiologischen Untersuchung und unter Berücksichtigung der Kriterien des Anhangs VI der Richtlinie 2001/89/EG eine Ausbreitung der Schweinepest zu befürchten ist. Zu diesem Zweck erstellt die zuständige oberste Landesbehörde einen Impfplan, der insbesondere Angaben über die Seuchensituation, über das Impfgebiet, die Zahl der Schweine haltenden Betriebe im Impfgebiet, die voraussichtliche Zahl, die Nutzungsart und die Kennzeichnung der zu impfenden Schweine, die Dauer der Impfmaßnahmen, den zu verwendenden Impfstoff und die nach der Impfung vorgesehenen Untersuchungen und sonstigen Überwachungsmaßnahmen enthält.
 (2) Im Falle einer Anordnung nach Absatz 1 Satz 1 gilt für das Impfgebiet Folgendes:
 
-- 1. :: Für die Dauer der Anordnung muss der Tierhalter bei der Impfung die erforderliche Hilfe leisten und Schweine, die gegen die Schweinepest geimpft worden sind, unverzüglich und deutlich sichtbar durch Ohrmarken mit den Buchstaben �I.SP“ als geimpft kennzeichnen. Die zuständige Behörde kann anstelle der Kennzeichnung durch Ohrmarken bei Mastschweinen, die aus dem Betrieb nur zur Schlachtung abgegeben werden, eine Körpertätowierung in der Schulterblattregion oder Ohrtätowierung genehmigen oder anordnen.
+- 1. :: Für die Dauer der Anordnung muss der Tierhalter bei der Impfung die erforderliche Hilfe leisten und Schweine, die gegen die Schweinepest geimpft worden sind, unverzüglich und deutlich sichtbar durch Ohrmarken mit den Buchstaben I.SP“ als geimpft kennzeichnen. Die zuständige Behörde kann anstelle der Kennzeichnung durch Ohrmarken bei Mastschweinen, die aus dem Betrieb nur zur Schlachtung abgegeben werden, eine Körpertätowierung in der Schulterblattregion oder Ohrtätowierung genehmigen oder anordnen.
 - 2. :: Während des Impfzeitraums und für die Dauer von mindestens sechs Monaten, gerechnet von dem von der zuständigen Behörde bekannt gegebenen Tag der Beendigung der Impfung an,
   - a) :: dürfen geimpfte Schweine außer zur sofortigen Schlachtung in einer von der zuständigen Behörde bezeichneten, innerhalb oder in der Nähe des Impfgebiets gelegenen Schlachtstätte oder zur sofortigen Tötung und unter amtlicher Aufsicht erfolgenden unschädlichen Beseitigung nicht aus dem Impfgebiet verbracht werden,
   - b) :: ist frisches Fleisch, das von geimpften Schweinen erschlachtet worden ist, unschädlich zu beseitigen oder, sofern es für den menschlichen Genuss bestimmt ist,
@@ -398,7 +398,7 @@ Die zuständige Behörde kann über § 4 Absatz 1 Satz 2 Nummer 2 und § 6 Absat
 
 (1) Im Falle des Verdachts auf Schweinepest bei einem Wildschwein ordnet die zuständige Behörde die serologische und virologische Untersuchung der erlegten oder verendeten Wildschweine an und führt epidemiologische Nachforschungen durch.
 (2) Ist der Ausbruch der Schweinepest bei einem Wildschwein amtlich festgestellt, so legt die zuständige Behörde das Gebiet um die Abschuss- oder Fundstelle als gefährdeten Bezirk fest. Hierbei berücksichtigt sie die mögliche Weiterverbreitung des Erregers, die Wildschweinepopulation, Tierbewegungen innerhalb der Wildschweinepopulation, natürliche Grenzen sowie Überwachungsmöglichkeiten. Die Festlegung eines gefährdeten Bezirks und dessen Änderung oder Aufhebung werden von der zuständigen Behörde öffentlich bekannt gemacht und nachrichtlich im Bundesanzeiger veröffentlicht.
-(3) Die zuständige Behörde bringt an den Hauptzufahrtswegen zu dem gefährdeten Bezirk und an geeigneten Stellen Schilder mit der deutlichen und haltbaren Aufschrift �Schweinepest bei Wildschweinen -- Gefährdeter Bezirk“ gut sichtbar an.
+(3) Die zuständige Behörde bringt an den Hauptzufahrtswegen zu dem gefährdeten Bezirk und an geeigneten Stellen Schilder mit der deutlichen und haltbaren Aufschrift Schweinepest bei Wildschweinen -- Gefährdeter Bezirk“ gut sichtbar an.
 (4) Mit Bekanntgabe der Festlegung des gefährdeten Bezirks haben Tierhalter im gefährdeten Bezirk
 
 - 1. :: der zuständigen Behörde unverzüglich
@@ -514,9 +514,9 @@ eine abweichende Gebietsfestlegung getroffen worden ist. Die Festlegung des gef�
 
 (3) Die zuständige Behörde bringt an den Hauptzufahrtswegen
 
-- 1. :: zu dem gefährdeten Gebiet und an geeigneten Stellen Schilder mit der deutlichen und haltbaren Aufschrift �Afrikanische Schweinepest bei Wildschweinen -- Gefährdetes Gebiet“,
-- 2. :: zu der Pufferzone und an geeigneten Stellen Schilder mit der deutlichen und haltbaren Aufschrift �Afrikanische Schweinepest bei Wildschweinen -- Pufferzone“ und
-- 3. :: zu dem Kerngebiet und an geeigneten Stellen Schilder mit der deutlichen und haltbaren Aufschrift �Afrikanische Schweinepest bei Wildschweinen -- Kerngebiet“, soweit ein Kerngebiet nach Absatz 2a festgelegt worden ist,
+- 1. :: zu dem gefährdeten Gebiet und an geeigneten Stellen Schilder mit der deutlichen und haltbaren Aufschrift Afrikanische Schweinepest bei Wildschweinen -- Gefährdetes Gebiet“,
+- 2. :: zu der Pufferzone und an geeigneten Stellen Schilder mit der deutlichen und haltbaren Aufschrift Afrikanische Schweinepest bei Wildschweinen -- Pufferzone“ und
+- 3. :: zu dem Kerngebiet und an geeigneten Stellen Schilder mit der deutlichen und haltbaren Aufschrift Afrikanische Schweinepest bei Wildschweinen -- Kerngebiet“, soweit ein Kerngebiet nach Absatz 2a festgelegt worden ist,
 
 gut sichtbar an.
 
@@ -658,9 +658,9 @@ Die zuständige Behörde kann ferner Ausnahmen von Absatz 1 Nummer 5 genehmigen,
 (6) Falls Schweine nach
 
 - 1. :: Absatz 4 Nummer 1 innergemeinschaftlich verbracht werden sollen, ist die Gesundheitsbescheinigung nach § 8 Absatz 1 Satz 1, auch in Verbindung mit Absatz 4, jeweils in Verbindung mit Anlage 3 Abschnitt I Nummer 2 der Binnenmarkt-Tierseuchenschutzverordnung jeweils um folgenden Satz zu ergänzen:
-  �Schweine entsprechend Artikel 3 des Durchführungsbeschlusses 2014/709/EU der Kommission.“,
+  Schweine entsprechend Artikel 3 des Durchführungsbeschlusses 2014/709/EU der Kommission.“,
 - 2. :: Absatz 4 Nummer 2 innergemeinschaftlich verbracht oder ausgeführt werden sollen, ist die Gesundheitsbescheinigung nach § 8 Absatz 1 Satz 1, auch in Verbindung mit Absatz 4, jeweils in Verbindung mit Anlage 3 Abschnitt I Nummer 2 der Binnenmarkt-Tierseuchenschutzverordnung jeweils um folgenden Satz zu ergänzen:
-  �Schweine entsprechend Artikel 8 Absatz 2 des Durchführungsbeschlusses 2014/709/EU der Kommission.“
+  Schweine entsprechend Artikel 8 Absatz 2 des Durchführungsbeschlusses 2014/709/EU der Kommission.“
 
 (7) Die zuständige Behörde unterrichtet das Bundesministerium zum Zwecke der Mitteilung an die Europäische Kommission und die anderen Mitgliedstaaten über
 
@@ -690,7 +690,7 @@ die von Schweinen gewonnen worden sind, die in einem Betrieb gehalten worden sin
 
 - 1. :: von einer Gesundheitsbescheinigung nach § 8 Absatz 1 Satz 1, auch in Verbindung mit Absatz 4 Satz 1, jeweils in Verbindung mit Anlage 3 Abschnitt II Nummer 1 der Binnenmarkt-Tierseuchenschutzverordnung zu begleiten und
 - 2. :: von einer Genusstauglichkeitsbescheinigung nach dem Anhang der Verordnung (EG) Nr. 599/2004 der Kommission vom 30. März 2004 zur Festlegung einheitlicher Musterbescheinigungen und Kontrollberichte für den innergemeinschaftlichen Handel mit Tieren und Erzeugnissen tierischen Ursprungs (ABl. L 94 vom 31.3.2004, S. 44) in der jeweils geltenden Fassung zu begleiten, deren Nummer II jeweils um folgenden Satz ergänzt wird:
-  �Erzeugnisse entsprechen dem Durchführungsbeschluss 2014/709/EU der Kommission vom 9. Oktober 2014 mit tierseuchenrechtlichen Maßnahmen zur Bekämpfung der Afrikanischen Schweinepest in bestimmten Mitgliedstaaten.“
+  Erzeugnisse entsprechen dem Durchführungsbeschluss 2014/709/EU der Kommission vom 9. Oktober 2014 mit tierseuchenrechtlichen Maßnahmen zur Bekämpfung der Afrikanischen Schweinepest in bestimmten Mitgliedstaaten.“
 
 (4) Frisches Schweinefleisch und Schweinefleischerzeugnisse, das oder die von Schweinen gewonnen worden ist oder sind, die aus einem Betrieb stammen, der in einem gefährdeten Gebiet gelegen ist, und das oder die innergemeinschaftlich verbracht oder ausgeführt werden soll oder sollen, ist oder sind, wenn die Anforderungen des Absatzes 2 nicht erfüllt worden sind, mit einem Kennzeichen zu versehen, das eindeutig auf die Herkunft des Schweinefleisches oder der Schweinefleischerzeugnisse hinweist. Das Kennzeichen darf nicht oval und mit
 
@@ -728,7 +728,7 @@ die von Schweinen gewonnen worden sind, die in einem Betrieb gehalten werden, de
 - 2. :: die für den Bestimmungsort zuständige Behörde dem Verbringen zugestimmt hat.
 
 (4) Falls Sperma nach Absatz 3 innergemeinschaftlich verbracht werden soll, ist die Gesundheitsbescheinigung nach § 8 Absatz 1 Satz 1, auch in Verbindung mit Absatz 4, jeweils in Verbindung mit Anlage 3 Abschnitt II Nummer 4 der Binnenmarkt-Tierseuchenschutzverordnung jeweils um folgenden Satz zu ergänzen:\\
-�Schweinesamen entspricht Artikel 9 des Durchführungsbeschlusses 2014/709/EU der Kommission vom 9. Oktober 2014 mit tierseuchenrechtlichen Maßnahmen zur Bekämpfung der Afrikanischen Schweinepest in bestimmten Mitgliedstaaten und zur Aufhebung des Durchführungsbeschlusses 2014/178/EU.“
+Schweinesamen entspricht Artikel 9 des Durchführungsbeschlusses 2014/709/EU der Kommission vom 9. Oktober 2014 mit tierseuchenrechtlichen Maßnahmen zur Bekämpfung der Afrikanischen Schweinepest in bestimmten Mitgliedstaaten und zur Aufhebung des Durchführungsbeschlusses 2014/178/EU.“
 (5) Die zuständige Behörde unterrichtet das Bundesministerium zum Zwecke der Mitteilung an die Europäische Kommission und die anderen Mitgliedstaaten über die nach Absatz 3 erteilten Genehmigungen.
 
 § 14i - Maßregeln bei Afrikanischer Schweinepest für Wildschweine, Wildschweinefleisch und Wildschweinefleischerzeugnisse
@@ -746,7 +746,7 @@ in andere Gebiete des Inlands oder innergemeinschaftlich nicht verbracht oder au
   - a) :: nach Artikel 4 Absatz 1 in Verbindung mit Anhang III Buchstabe a oder d der Richtlinie 2002/99/EG gewonnen, befördert, gelagert, gekennzeichnet und behandelt worden ist oder sind,
   - b) :: von einer Gesundheitsbescheinigung nach § 8 Absatz 1 Satz 1, auch in Verbindung mit Absatz 4 Satz 1, jeweils in Verbindung mit Anlage 3 Abschnitt II Nummer 1 der Binnenmarkt-Tierseuchenschutzverordnung begleitet wird oder werden und
   - c) :: von einer Genusstauglichkeitsbescheinigung nach dem Anhang der Verordnung (EG) Nr. 599/2004 begleitet wird oder werden, deren Nummer II jeweils um folgenden Satz ergänzt wird:
-    �Erzeugnisse entsprechen dem Durchführungsbeschluss 2014/709/EU der Kommission.“
+    Erzeugnisse entsprechen dem Durchführungsbeschluss 2014/709/EU der Kommission.“
 
   oder
 - 2. :: aus der Pufferzone in das sonstige Inland genehmigen, wenn das frische Wildschweinefleisch und die Wildschweinefleischerzeugnisse von Wildschweinen gewonnen worden ist oder sind, die unmittelbar nach dem Erlegen jeweils virologisch mit negativem Ergebnis auf das Virus der Afrikanischen Schweinepest untersucht worden sind.
@@ -1015,8 +1015,8 @@ Anlage - (zu § 14a Absatz 6 Satz 1 Nummer 1 Buchstabe b Doppelbuchstabe cc Drei
 
 V.
 Bescheinigung:
-�
-�
+
+
 Die zuständige Behörde bescheinigt, dass die vorstehend genannten Tiere den Bestimmungen des § 14a Absatz 6 Nummer 1 der Schweinepest-Verordnung entsprechen.
 | Ausgefertigt in                     \\ | am                     \\ |
 | (Ort)                                  | (Datum)                   |
@@ -1024,10 +1024,10 @@ Die zuständige Behörde bescheinigt, dass die vorstehend genannten Tiere den Be
 (Dienstsiegel)<<FnR.F811034_02>>[[#F811034_02][1]]}\\
 \\
 \\
-�
+
                                         \\
 (Unterschrift des Vertreters der zuständigen Behörde)
-�
+
                                         \\
 (Name in Großbuchstaben,\\
 Amtsbezeichnung des Unterzeichners)

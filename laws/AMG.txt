@@ -20,7 +20,7 @@ Sonstige Begriffsbestimmungen
 Ausnahmen vom Anwendungsbereich
 § 4b
 Sondervorschriften für Arzneimittel für neuartige Therapien
-�
+
 Zweiter Abschnitt
 Anforderungen an die Arzneimittel
 § 5
@@ -43,7 +43,7 @@ Packungsbeilage
 Fachinformation
 § 12
 Ermächtigung für die Kennzeichnung, die Packungsbeilage und die Packungsgrößen
-�
+
 Dritter Abschnitt
 Herstellung von Arzneimitteln
 § 13
@@ -70,7 +70,7 @@ Erlaubnis für die Gewinnung von Gewebe und die Laboruntersuchungen
 Erlaubnis für die Be- oder Verarbeitung, Konservierung, Prüfung, Lagerung oder das Inverkehrbringen von Gewebe oder Gewebezubereitungen
 § 20d
 Ausnahme von der Erlaubnispflicht für Gewebe und Gewebezubereitungen
-�
+
 Vierter Abschnitt
 Zulassung der Arzneimittel
 § 21
@@ -123,7 +123,7 @@ Ermächtigungen zur Zulassung und Freistellung
 Ermächtigung für Standardzulassungen
 § 37
 Genehmigung der Europäischen Gemeinschaft oder der Europäischen Union für das Inverkehrbringen, Zulassungen von Arzneimitteln aus anderen Staaten
-�
+
 Fünfter Abschnitt
 Registrierung von Arzneimitteln
 § 38
@@ -138,7 +138,7 @@ Registrierungsunterlagen für traditionelle pflanzliche Arzneimittel
 Entscheidung über die Registrierung traditioneller pflanzlicher Arzneimittel
 § 39d
 Sonstige Verfahrensvorschriften für traditionelle pflanzliche Arzneimittel
-�
+
 Sechster Abschnitt
 Schutz des Menschen bei der klinischen Prüfung
 § 40
@@ -157,7 +157,7 @@ Verfahren bei der Ethik-Kommission, Genehmigungsverfahren bei der Bundesoberbeh�
 Rücknahme, Widerruf und Ruhen der Genehmigung oder der zustimmenden Bewertung
 § 42b
 Veröffentlichung der Ergebnisse klinischer Prüfungen
-�
+
 Siebter Abschnitt
 Abgabe von Arzneimitteln
 § 43
@@ -192,7 +192,7 @@ Bereitstellung von Arzneimitteln
 Arzneimittelvermittlung
 § 53
 Anhörung von Sachverständigen
-�
+
 Achter Abschnitt
 Sicherung und Kontrolle der Qualität
 § 54
@@ -201,7 +201,7 @@ Betriebsverordnungen
 Arzneibuch
 § 55a
 Amtliche Sammlung von Untersuchungsverfahren
-�
+
 Neunter Abschnitt
 Sondervorschriften für Arzneimittel, die bei Tieren angewendet werden
 § 56
@@ -244,7 +244,7 @@ Verabreichung pharmakologisch wirksamer Stoffe an Tiere, die der Lebensmittelgew
 Heimtiere
 § 61
 Befugnisse tierärztlicher Bildungsstätten
-�
+
 Zehnter Abschnitt
 Beobachtung, Sammlung und Auswertung von Arzneimittelrisiken
 § 62
@@ -273,7 +273,7 @@ Dokumentations- und Meldepflichten bei Blut- und Gewebezubereitungen und Gewebe
 Dokumentations- und Meldepflichten der behandelnden Person für nicht zulassungs- oder genehmigungspflichtige Arzneimittel für neuartige Therapien
 § 63k
 Ausnahmen
-�
+
 Elfter Abschnitt
 Überwachung
 § 64
@@ -296,14 +296,14 @@ Maßnahmen der zuständigen Behörden
 Überwachung von Stoffen, die als Tierarzneimittel verwendet werden können
 § 69b
 Verwendung bestimmter Daten
-�
+
 Zwölfter Abschnitt
 Sondervorschriften für Bundeswehr, Bundespolizei, Bereitschaftspolizei, Zivilschutz
 § 70
 Anwendung und Vollzug des Gesetzes
 § 71
 Ausnahmen
-�
+
 Dreizehnter Abschnitt
 Einfuhr und Ausfuhr
 § 72
@@ -320,7 +320,7 @@ Verbringungsverbot
 Ausfuhr
 § 74
 Mitwirkung von Zolldienststellen
-�
+
 Vierzehnter Abschnitt
 Informationsbeauftragter, Pharmaberater
 § 74a
@@ -329,7 +329,7 @@ Informationsbeauftragter
 Sachkenntnis
 § 76
 Pflichten
-�
+
 Fünfzehnter Abschnitt
 Bestimmung der zuständigen Bundesoberbehörden und sonstige Bestimmungen
 § 77
@@ -352,7 +352,7 @@ Angleichung an das Recht der Europäischen Union
 Rechtsverordnungen in bestimmten Fällen
 § 83b
 Verkündung von Rechtsverordnungen
-�
+
 Sechzehnter Abschnitt
 Haftung für Arzneimittelschäden
 § 84
@@ -381,7 +381,7 @@ Mehrere Ersatzpflichtige
 Deckungsvorsorge
 § 94a
 Örtliche Zuständigkeit
-�
+
 Siebzehnter Abschnitt
 Straf- und Bußgeldvorschriften
 § 95
@@ -392,76 +392,76 @@ Strafvorschriften
 Bußgeldvorschriften
 § 98
 Einziehung
-�
+
 Achtzehnter Abschnitt
 Überleitungs- und Übergangsvorschriften
-�
-�
+
+
 Erster Unterabschnitt
 §§ 99 bis 124
 Überleitungsvorschriften aus Anlass des Gesetzes zur Neuordnung des Arzneimittelrechts
-�
-�
+
+
 Zweiter Unterabschnitt
 §§ 125 und 126
 Übergangsvorschriften aus Anlass des Ersten Gesetzes zur Änderung des Arzneimittelgesetzes
-�
-�
+
+
 Dritter Unterabschnitt
 §§ 127 bis 131
 Übergangsvorschriften aus Anlass des Zweiten Gesetzes zur Änderung des Arzneimittelgesetzes
-�
-�
+
+
 Vierter Unterabschnitt
 § 132
 Übergangsvorschriften aus Anlass des Fünften Gesetzes zur Änderung des Arzneimittelgesetzes
-�
-�
+
+
 Fünfter Unterabschnitt
 § 133
 Übergangsvorschrift aus Anlass des Siebten Gesetzes zur Änderung des Arzneimittelgesetzes
-�
-�
+
+
 Sechster Unterabschnitt
 § 134
 Übergangsvorschriften aus Anlass des Transfusionsgesetzes
-�
-�
+
+
 Siebter Unterabschnitt
 § 135
 Übergangsvorschriften aus Anlass des Achten Gesetzes zur Änderung des Arzneimittelgesetzes
-�
-�
+
+
 Achter Unterabschnitt
 § 136
 Übergangsvorschriften aus Anlass des Zehnten Gesetzes zur Änderung des Arzneimittelgesetzes
-�
-�
+
+
 Neunter Unterabschnitt
 § 137
 Übergangsvorschriften aus Anlass des Elften Gesetzes zur Änderung des Arzneimittelgesetzes
-�
-�
+
+
 Zehnter Unterabschnitt
 § 138
 Übergangsvorschriften aus Anlass des Zwölften Gesetzes zur Änderung des Arzneimittelgesetzes
-�
-�
+
+
 Elfter Unterabschnitt
 § 139
 Übergangsvorschriften aus Anlass des Ersten Gesetzes zur Änderung des Transfusionsgesetzes und arzneimittelrechtlicher Vorschriften
-�
-�
+
+
 Zwölfter Unterabschnitt
 § 140
 Übergangsvorschriften aus Anlass des Dreizehnten Gesetzes zur Änderung des Arzneimittelgesetzes
-�
-�
+
+
 Dreizehnter Unterabschnitt
 § 141
 Übergangsvorschriften aus Anlass des Vierzehnten Gesetzes zur Änderung des Arzneimittelgesetzes
-�
-�
+
+
 Vierzehnter Unterabschnitt
 § 142
 Übergangsvorschriften aus Anlass des Gewebegesetzes
@@ -469,43 +469,43 @@ Vierzehnter Unterabschnitt
 Übergangs- und Bestandsschutzvorschrift aus Anlass des Gesetzes zur Umsetzung der Richtlinien (EU) 2015/566 und (EU) 2015/565 zur Einfuhr und zur Kodierung menschlicher Gewebe und Gewebezubereitungen
 § 142b
 Übergangsvorschrift aus Anlass des Gesetzes zur Fortschreibung der Vorschriften für Blut- und Gewebezubereitungen und zur Änderung anderer Vorschriften
-�
-�
+
+
 Fünfzehnter Unterabschnitt
 § 143
 (weggefallen)
-�
-�
+
+
 Sechzehnter Unterabschnitt
 § 144
 Übergangsvorschriften aus Anlass des Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften
-�
-�
+
+
 Siebzehnter Unterabschnitt
 § 145
 Übergangsvorschriften aus Anlass des Gesetzes zur Neuordnung des Arzneimittelmarktes
-�
-�
-�
+
+
+
 Achtzehnter Unterabschnitt
-�
+
 Übergangsvorschrift
 § 146
 Übergangsvorschriften aus Anlass des Zweiten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften
-�
-�
+
+
 Neunzehnter Unterabschnitt
-�
+
 Übergangsvorschrift
 § 147
 Übergangsvorschrift aus Anlass des Dritten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften
-�
-�
-�
+
+
+
 Anlage (zu § 6)
-�
-�
-�
+
+
+
 Anhang (weggefallen)
 
 § 1 - Zweck des Gesetzes
@@ -590,7 +590,7 @@ Stoffe im Sinne dieses Gesetzes sind
 (28) Das Nutzen-Risiko-Verhältnis umfasst eine Bewertung der positiven therapeutischen Wirkungen des Arzneimittels im Verhältnis zu dem Risiko nach Absatz 27 Buchstabe a, bei zur Anwendung bei Tieren bestimmten Arzneimitteln auch nach Absatz 27 Buchstabe b.
 (29) Pflanzliche Arzneimittel sind Arzneimittel, die als Wirkstoff ausschließlich einen oder mehrere pflanzliche Stoffe oder eine oder mehrere pflanzliche Zubereitungen oder eine oder mehrere solcher pflanzlichen Stoffe in Kombination mit einer oder mehreren solcher pflanzlichen Zubereitungen enthalten.
 (30) Gewebezubereitungen sind Arzneimittel, die Gewebe im Sinne von § 1a Nr. 4 des Transplantationsgesetzes sind oder aus solchen Geweben hergestellt worden sind. Menschliche Samen- und Eizellen (Keimzellen) sowie imprägnierte Eizellen und Embryonen sind weder Arzneimittel noch Gewebezubereitungen.
-(30a) Einheitlicher Europäischer Code oder �SEC“ ist die eindeutige Kennnummer für in der Europäischen Union verteilte Gewebe oder Gewebezubereitungen gemäß Anhang VII der Richtlinie 2006/86/EG der Kommission vom 24. Oktober 2006 zur Umsetzung der Richtlinie 2004/23/EG des Europäischen Parlaments und des Rates hinsichtlich der Anforderungen an die Rückverfolgbarkeit, der Meldung schwerwiegender Zwischenfälle und unerwünschter Reaktionen sowie bestimmter technischer Anforderungen an die Kodierung, Verarbeitung, Konservierung, Lagerung und Verteilung von menschlichen Geweben und Zellen (ABl. L 294 vom 25.10.2006, S. 32), die zuletzt durch die Richtlinie (EU) 2015/565 (ABl. L 93 vom 9.4.2015, S. 43) geändert worden ist.
+(30a) Einheitlicher Europäischer Code oder SEC“ ist die eindeutige Kennnummer für in der Europäischen Union verteilte Gewebe oder Gewebezubereitungen gemäß Anhang VII der Richtlinie 2006/86/EG der Kommission vom 24. Oktober 2006 zur Umsetzung der Richtlinie 2004/23/EG des Europäischen Parlaments und des Rates hinsichtlich der Anforderungen an die Rückverfolgbarkeit, der Meldung schwerwiegender Zwischenfälle und unerwünschter Reaktionen sowie bestimmter technischer Anforderungen an die Kodierung, Verarbeitung, Konservierung, Lagerung und Verteilung von menschlichen Geweben und Zellen (ABl. L 294 vom 25.10.2006, S. 32), die zuletzt durch die Richtlinie (EU) 2015/565 (ABl. L 93 vom 9.4.2015, S. 43) geändert worden ist.
 (30b) EU-Gewebeeinrichtungs-Code ist die eindeutige Kennnummer für Gewebeeinrichtungen in der Europäischen Union. Für den Geltungsbereich dieses Gesetzes gilt er für alle Einrichtungen, die erlaubnispflichtige Tätigkeiten mit Geweben, Gewebezubereitungen oder mit hämatopoetischen Stammzellen oder Stammzellzubereitungen aus dem peripheren Blut oder aus dem Nabelschnurblut durchführen. Der EU-Gewebeeinrichtungs-Code besteht gemäß Anhang VII der Richtlinie 2006/86/EG aus einem ISO-Ländercode und der Gewebeeinrichtungsnummer des EU-Kompendiums der Gewebeeinrichtungen.
 (30c) EU-Kompendium der Gewebeeinrichtungen ist das Register, in dem alle von den zuständigen Behörden der Mitgliedstaaten der Europäischen Union genehmigten, lizenzierten, benannten oder zugelassenen Gewebeeinrichtungen enthalten sind und das die Informationen über diese Einrichtungen gemäß Anhang VIII der Richtlinie 2006/86/EG in der jeweils geltenden Fassung enthält. Für den Geltungsbereich dieses Gesetzes enthält das Register alle Einrichtungen, die erlaubnispflichtige Tätigkeiten mit Geweben, Gewebezubereitungen oder mit hämatopoetischen Stammzellen oder Stammzellzubereitungen aus dem peripheren Blut oder aus dem Nabelschnurblut durchführen.
 (30d) EU-Kompendium der Gewebe- und Zellprodukte ist das Register aller in der Europäischen Union in Verkehr befindlichen Arten von Geweben, Gewebezubereitungen oder von hämatopoetischen Stammzellen oder Stammzellzubereitungen aus dem peripheren Blut oder aus dem Nabelschnurblut mit den jeweiligen Produktcodes.
@@ -731,7 +731,7 @@ Die Entscheidung über den Antrag auf Zustimmung muss innerhalb von drei Monaten
 - 7. :: die Art der Anwendung,
 - 8. :: die Wirkstoffe nach Art und Menge und sonstige Bestandteile nach der Art, soweit dies durch Auflage der zuständigen Bundesoberbehörde nach § 28 Abs. 2 Nr. 1 angeordnet oder durch Rechtsverordnung nach § 12 Abs. 1 Nr. 4, auch in Verbindung mit Abs. 2, oder nach § 36 Abs. 1 vorgeschrieben ist; bei Arzneimitteln zur parenteralen oder zur topischen Anwendung, einschließlich der Anwendung am Auge, alle Bestandteile nach der Art,
 - 8a. :: bei gentechnologisch gewonnenen Arzneimitteln der Wirkstoff und die Bezeichnung des bei der Herstellung verwendeten gentechnisch veränderten Organismus oder die Zellinie,
-- 9. :: das Verfalldatum mit dem Hinweis "verwendbar bis" oder mit der Abkürzung �verw. bis”,
+- 9. :: das Verfalldatum mit dem Hinweis "verwendbar bis" oder mit der Abkürzung verw. bis”,
 - 10. :: bei Arzneimitteln, die nur auf ärztliche, zahnärztliche oder tierärztliche Verschreibung abgegeben werden dürfen, der Hinweis "Verschreibungspflichtig", bei sonstigen Arzneimitteln, die nur in Apotheken an Verbraucher abgegeben werden dürfen, der Hinweis "Apothekenpflichtig",
 - 11. :: bei Mustern der Hinweis "Unverkäufliches Muster",
 - 12. :: der Hinweis, dass Arzneimittel unzugänglich für Kinder aufbewahrt werden sollen, es sei denn, es handelt sich um Heilwässer,
@@ -778,7 +778,7 @@ An die Stelle der Angabe nach Absatz 1 Satz 1 Nr. 3 tritt die Registrierungsnumm
 - 1. :: Bezeichnung des Arzneimittels, gefolgt von der Angabe der Stärke, der Darreichungsform und der Tierart, es sei denn, dass diese Angaben bereits in der Bezeichnung enthalten sind; enthält das Arzneimittel nur einen Wirkstoff, muss die internationale Kurzbezeichnung der Weltgesundheitsorganisation angegeben werden oder, soweit eine solche nicht vorhanden ist, die gebräuchliche Bezeichnung, es sei denn, dass die Angabe des Wirkstoffs bereits in der Bezeichnung enthalten ist,
 - 2. :: die Wirkstoffe nach Art und Menge und sonstige Bestandteile nach der Art, soweit dies durch Auflage der zuständigen Bundesoberbehörde nach § 28 Absatz 2 Nummer 1 angeordnet oder durch Rechtsverordnung nach § 12 Absatz 1 Nummer 4 auch in Verbindung mit Absatz 2 oder nach § 36 Absatz 1 vorgeschrieben ist,
 - 3. :: die Chargenbezeichnung,
-- 4. :: die Zulassungsnummer mit der Abkürzung �Zul.-Nr.“,
+- 4. :: die Zulassungsnummer mit der Abkürzung Zul.-Nr.“,
 - 5. :: der Name oder die Firma und die Anschrift des pharmazeutischen Unternehmers und, soweit vorhanden, der Name des von ihm benannten örtlichen Vertreters,
 - 6. :: die Tierarten, bei denen das Arzneimittel angewendet werden soll,
 - 7. :: die Art der Anwendung,
@@ -786,13 +786,13 @@ An die Stelle der Angabe nach Absatz 1 Satz 1 Nr. 3 tritt die Registrierungsnumm
 - 9. :: das Verfalldatum entsprechend Absatz 7,
 - 10. :: soweit erforderlich, besondere Vorsichtsmaßnahmen für die Beseitigung von nicht verwendeten Arzneimitteln,
 - 11. :: der Hinweis, dass Arzneimittel unzugänglich für Kinder aufbewahrt werden sollen, weitere besondere Vorsichtsmaßnahmen für die Aufbewahrung und Warnhinweise, einschließlich weiterer Angaben, soweit diese für eine sichere Anwendung erforderlich oder nach Absatz 2 vorgeschrieben sind,
-- 12. :: der Hinweis �Für Tiere“,
+- 12. :: der Hinweis Für Tiere“,
 - 13. :: die Darreichungsform,
 - 14. :: der Inhalt nach Gewicht, Nennvolumen oder Stückzahl,
-- 15. :: bei Arzneimitteln, die nur auf tierärztliche Verschreibung abgegeben werden dürfen, der Hinweis �Verschreibungspflichtig“, bei sonstigen Arzneimitteln, die nur in Apotheken an den Verbraucher abgegeben werden dürfen, der Hinweis �Apothekenpflichtig“,
-- 16. :: bei Mustern der Hinweis �Unverkäufliches Muster“.
+- 15. :: bei Arzneimitteln, die nur auf tierärztliche Verschreibung abgegeben werden dürfen, der Hinweis Verschreibungspflichtig“, bei sonstigen Arzneimitteln, die nur in Apotheken an den Verbraucher abgegeben werden dürfen, der Hinweis Apothekenpflichtig“,
+- 16. :: bei Mustern der Hinweis Unverkäufliches Muster“.
 
-Arzneimittel zur Anwendung bei Tieren, die in das Register für homöopathische Arzneimittel eingetragen sind, sind mit dem deutlich erkennbaren Hinweis �Homöopathisches Arzneimittel“ zu versehen; anstelle der Angaben nach Satz 1 Nummer 2 und 4 sind die Angaben nach Absatz 4 Satz 1 Nummer 1, 9 und 10 zu machen. Die Sätze 1 und 2 gelten entsprechend für Arzneimittel, die nach § 38 Absatz 1 Satz 3 oder nach § 60 Absatz 1 von der Registrierung freigestellt sind. Bei traditionellen pflanzlichen Arzneimitteln zur Anwendung bei Tieren ist anstelle der Angabe nach Satz 1 Nummer 4 die Registrierungsnummer mit der Abkürzung �Reg.-Nr.“ zu machen; ferner sind die Hinweise nach Absatz 4a Satz 1 Nummer 1 und entsprechend der Anwendung bei Tieren nach Nummer 2 anzugeben. Die Angaben nach Satz 1 Nummer 13 und 14 brauchen, sofern eine äußere Umhüllung vorhanden ist, nur auf der äußeren Umhüllung zu stehen.
+Arzneimittel zur Anwendung bei Tieren, die in das Register für homöopathische Arzneimittel eingetragen sind, sind mit dem deutlich erkennbaren Hinweis Homöopathisches Arzneimittel“ zu versehen; anstelle der Angaben nach Satz 1 Nummer 2 und 4 sind die Angaben nach Absatz 4 Satz 1 Nummer 1, 9 und 10 zu machen. Die Sätze 1 und 2 gelten entsprechend für Arzneimittel, die nach § 38 Absatz 1 Satz 3 oder nach § 60 Absatz 1 von der Registrierung freigestellt sind. Bei traditionellen pflanzlichen Arzneimitteln zur Anwendung bei Tieren ist anstelle der Angabe nach Satz 1 Nummer 4 die Registrierungsnummer mit der Abkürzung Reg.-Nr.“ zu machen; ferner sind die Hinweise nach Absatz 4a Satz 1 Nummer 1 und entsprechend der Anwendung bei Tieren nach Nummer 2 anzugeben. Die Angaben nach Satz 1 Nummer 13 und 14 brauchen, sofern eine äußere Umhüllung vorhanden ist, nur auf der äußeren Umhüllung zu stehen.
 
 (6) Für die Bezeichnung der Bestandteile gilt folgendes:
 
@@ -801,8 +801,8 @@ Arzneimittel zur Anwendung bei Tieren, die in das Register für homöopathische 
 
 (7) Das Verfalldatum ist mit Monat und Jahr anzugeben.
 (8) Durchdrückpackungen sind mit dem Namen oder der Firma des pharmazeutischen Unternehmers, der Bezeichnung des Arzneimittels, der Chargenbezeichnung und dem Verfalldatum zu versehen. Auf die Angabe von Namen und Firma eines Parallelimporteurs kann verzichtet werden. Bei Behältnissen von nicht mehr als 10 Milliliter Nennvolumen und bei Ampullen, die nur eine einzige Gebrauchseinheit enthalten, brauchen die Angaben nach den Absätzen 1, 2 bis 5 nur auf den äußeren Umhüllungen gemacht zu werden; jedoch müssen sich auf den Behältnissen und Ampullen mindestens die Angaben nach Absatz 1 Satz 1 Nummer 2 erster Halbsatz, 4, 6, 7, 9 sowie nach den Absätzen 3 und 5 Satz 1 Nummer 1, 3, 7, 9, 12, 14 befinden; es können geeignete Abkürzungen verwendet werden. Satz 3 findet auch auf andere kleine Behältnisse als die dort genannten Anwendung, sofern in Verfahren nach § 25b abweichende Anforderungen an kleine Behältnisse zugrunde gelegt werden.
-(8a) Bei Frischplasmazubereitungen und Zubereitungen aus Blutzellen müssen mindestens die Angaben nach Absatz 1 Satz 1 Nummer 1, 2, ohne die Angabe der Stärke, Darreichungsform und der Personengruppe, Nummer 3 oder die Genehmigungsnummer mit der Abkürzung �Gen.-Nr.“, Nummer 4, 6, 7 und 9 gemacht sowie die Bezeichnung und das Volumen der Antikoagulans- und, soweit vorhanden, der Additivlösung, die Lagertemperatur, die Blutgruppe und bei allogenen Zubereitungen aus roten Blutkörperchen zusätzlich die Rhesusformel, bei Thrombozytenkonzentraten und autologen Zubereitungen aus roten Blutkörperchen zusätzlich der Rhesusfaktor angegeben werden. Bei autologen Blutzubereitungen muss zusätzlich die Angabe �Nur zur Eigenbluttransfusion“ gemacht und bei autologen und gerichteten Blutzubereitungen zusätzlich ein Hinweis auf den Empfänger gegeben werden. Bei hämatopoetischen Stammzellzubereitungen aus dem peripheren Blut oder aus dem Nabelschnurblut muss der Einheitliche Europäische Code mit der Abkürzung �SEC“ angegeben werden sowie im Fall festgestellter Infektiosität die Angabe �Biologische Gefahr“ gemacht werden.
-(8b) Bei Gewebezubereitungen müssen mindestens die Angaben nach Absatz 1 Satz 1 Nummer 1 und 2 ohne die Angabe der Stärke, der Darreichungsform und der Personengruppe, Nummer 3 oder die Genehmigungsnummer mit der Abkürzung �Gen.-Nr.“, Nummer 4, 6 und 9, der Einheitliche Europäische Code mit der Abkürzung �SEC“ sowie die Angabe �Biologische Gefahr“ im Falle festgestellter Infektiosität gemacht werden. Bei autologen Gewebezubereitungen müssen zusätzlich die Angabe �Nur zur autologen Anwendung“ gemacht und bei autologen und gerichteten Gewebezubereitungen zusätzlich ein Hinweis auf den Empfänger gegeben werden.
+(8a) Bei Frischplasmazubereitungen und Zubereitungen aus Blutzellen müssen mindestens die Angaben nach Absatz 1 Satz 1 Nummer 1, 2, ohne die Angabe der Stärke, Darreichungsform und der Personengruppe, Nummer 3 oder die Genehmigungsnummer mit der Abkürzung Gen.-Nr.“, Nummer 4, 6, 7 und 9 gemacht sowie die Bezeichnung und das Volumen der Antikoagulans- und, soweit vorhanden, der Additivlösung, die Lagertemperatur, die Blutgruppe und bei allogenen Zubereitungen aus roten Blutkörperchen zusätzlich die Rhesusformel, bei Thrombozytenkonzentraten und autologen Zubereitungen aus roten Blutkörperchen zusätzlich der Rhesusfaktor angegeben werden. Bei autologen Blutzubereitungen muss zusätzlich die Angabe Nur zur Eigenbluttransfusion“ gemacht und bei autologen und gerichteten Blutzubereitungen zusätzlich ein Hinweis auf den Empfänger gegeben werden. Bei hämatopoetischen Stammzellzubereitungen aus dem peripheren Blut oder aus dem Nabelschnurblut muss der Einheitliche Europäische Code mit der Abkürzung SEC“ angegeben werden sowie im Fall festgestellter Infektiosität die Angabe Biologische Gefahr“ gemacht werden.
+(8b) Bei Gewebezubereitungen müssen mindestens die Angaben nach Absatz 1 Satz 1 Nummer 1 und 2 ohne die Angabe der Stärke, der Darreichungsform und der Personengruppe, Nummer 3 oder die Genehmigungsnummer mit der Abkürzung Gen.-Nr.“, Nummer 4, 6 und 9, der Einheitliche Europäische Code mit der Abkürzung SEC“ sowie die Angabe Biologische Gefahr“ im Falle festgestellter Infektiosität gemacht werden. Bei autologen Gewebezubereitungen müssen zusätzlich die Angabe Nur zur autologen Anwendung“ gemacht und bei autologen und gerichteten Gewebezubereitungen zusätzlich ein Hinweis auf den Empfänger gegeben werden.
 (9) Bei den Angaben nach den Absätzen 1 bis 5 dürfen im Verkehr mit Arzneimitteln übliche Abkürzungen verwendet werden. Die Firma nach Absatz 1 Nr. 1 darf abgekürzt werden, sofern das Unternehmen aus der Abkürzung allgemein erkennbar ist.
 (10) Für Arzneimittel, die zur Anwendung bei Tieren und zur klinischen Prüfung oder zur Rückstandsprüfung bestimmt sind, finden Absatz 5 Satz 1 Nummer 1, 3, 5, 7, 8, 13 und 14 sowie die Absätze 8 und 9, soweit sie sich hierauf beziehen, Anwendung. Diese Arzneimittel sind soweit zutreffend mit dem Hinweis "Zur klinischen Prüfung bestimmt" oder "Zur Rückstandsprüfung bestimmt" zu versehen. Durchdrückpackungen sind mit der Bezeichnung, der Chargenbezeichnung und dem Hinweis nach Satz 2 zu versehen.
 (11) Aus Fertigarzneimitteln entnommene Teilmengen, die zur Anwendung bei Menschen bestimmt sind, dürfen nur mit einer Kennzeichnung abgegeben werden, die mindestens den Anforderungen nach Absatz 8 Satz 1 entspricht. Absatz 1b findet keine Anwendung.
@@ -842,7 +842,7 @@ Arzneimittel zur Anwendung bei Tieren, die in das Register für homöopathische 
 - 7. :: bei einem Arzneimittel, das unter anderen Bezeichnungen in anderen Mitgliedstaaten der Europäischen Union nach den Artikeln 28 bis 39 der Richtlinie 2001/83/EG des Europäischen Parlaments und des Rates vom 6. November 2001 zur Schaffung eines Gemeinschaftskodexes für Humanarzneimittel (ABl. L 311 vom 28.11.2001, S. 67), die zuletzt durch die Richtlinie 2012/26/EU (ABl. L 299 vom 27.10.2012, S. 1) geändert worden ist, für das Inverkehrbringen genehmigt ist, ein Verzeichnis der in den einzelnen Mitgliedstaaten genehmigten Bezeichnungen;
 - 8. :: das Datum der letzten Überarbeitung der Packungsbeilage.
 
-Für Arzneimittel, die zur Anwendung bei Menschen bestimmt sind und sich auf der Liste gemä�Dieses Arzneimittel unterliegt einer zusätzlichen Überwachung.“ Dieser Erklärung muss ein schwarzes Symbol vorangehen und ein geeigneter standardisierter erläuternder Text nach Artikel 23 Absatz 4 der Verordnung (EG) Nr. 726/2004 folgen. Erläuternde Angaben zu den in Satz 1 genannten Begriffen sind zulässig. Sofern die Angaben nach Satz 1 in der Packungsbeilage zusätzlich in einer anderen Sprache wiedergegeben werden, müssen in dieser Sprache die gleichen Angaben gemacht werden. Satz 1 gilt nicht für Arzneimittel, die nach § 21 Abs. 2 Nr. 1 einer Zulassung nicht bedürfen. Weitere Angaben, die nicht durch eine Verordnung der Europäischen Gemeinschaft oder der Europäischen Union vorgeschrieben oder bereits nach einer solchen Verordnung zulässig sind, sind zulässig, soweit sie mit der Anwendung des Arzneimittels im Zusammenhang stehen, für die gesundheitliche Aufklärung der Patienten wichtig sind und den Angaben nach § 11a nicht widersprechen. Bei den Angaben nach Satz 1 Nr. 3 Buchstabe a bis d ist, soweit dies nach dem jeweiligen Stand der wissenschaftlichen Erkenntnisse erforderlich ist, auf die besondere Situation bestimmter Personengruppen, wie Kinder, Schwangere oder stillende Frauen, ältere Menschen oder Personen mit spezifischen Erkrankungen einzugehen; ferner sind, soweit erforderlich, mögliche Auswirkungen der Anwendung auf die Fahrtüchtigkeit oder die Fähigkeit zur Bedienung bestimmter Maschinen anzugeben. Der Inhaber der Zulassung ist verpflichtet, die Packungsbeilage auf aktuellem wissenschaftlichen Kenntnisstand zu halten, zu dem auch die Schlussfolgerungen aus Bewertungen und die Empfehlungen gehören, die auf dem nach Artikel 26 der Verordnung (EG) Nr. 726/2004 eingerichteten europäischen Internetportal für Arzneimittel veröffentlicht werden.
+Für Arzneimittel, die zur Anwendung bei Menschen bestimmt sind und sich auf der Liste gemäDieses Arzneimittel unterliegt einer zusätzlichen Überwachung.“ Dieser Erklärung muss ein schwarzes Symbol vorangehen und ein geeigneter standardisierter erläuternder Text nach Artikel 23 Absatz 4 der Verordnung (EG) Nr. 726/2004 folgen. Erläuternde Angaben zu den in Satz 1 genannten Begriffen sind zulässig. Sofern die Angaben nach Satz 1 in der Packungsbeilage zusätzlich in einer anderen Sprache wiedergegeben werden, müssen in dieser Sprache die gleichen Angaben gemacht werden. Satz 1 gilt nicht für Arzneimittel, die nach § 21 Abs. 2 Nr. 1 einer Zulassung nicht bedürfen. Weitere Angaben, die nicht durch eine Verordnung der Europäischen Gemeinschaft oder der Europäischen Union vorgeschrieben oder bereits nach einer solchen Verordnung zulässig sind, sind zulässig, soweit sie mit der Anwendung des Arzneimittels im Zusammenhang stehen, für die gesundheitliche Aufklärung der Patienten wichtig sind und den Angaben nach § 11a nicht widersprechen. Bei den Angaben nach Satz 1 Nr. 3 Buchstabe a bis d ist, soweit dies nach dem jeweiligen Stand der wissenschaftlichen Erkenntnisse erforderlich ist, auf die besondere Situation bestimmter Personengruppen, wie Kinder, Schwangere oder stillende Frauen, ältere Menschen oder Personen mit spezifischen Erkrankungen einzugehen; ferner sind, soweit erforderlich, mögliche Auswirkungen der Anwendung auf die Fahrtüchtigkeit oder die Fähigkeit zur Bedienung bestimmter Maschinen anzugeben. Der Inhaber der Zulassung ist verpflichtet, die Packungsbeilage auf aktuellem wissenschaftlichen Kenntnisstand zu halten, zu dem auch die Schlussfolgerungen aus Bewertungen und die Empfehlungen gehören, die auf dem nach Artikel 26 der Verordnung (EG) Nr. 726/2004 eingerichteten europäischen Internetportal für Arzneimittel veröffentlicht werden.
 
 (1a) Ein Muster der Packungsbeilage und geänderter Fassungen ist der zuständigen Bundesoberbehörde unverzüglich zu übersenden, soweit nicht das Arzneimittel von der Zulassung oder Registrierung freigestellt ist.
 (1b) Die nach Absatz 1 Satz 1 Nummer 5 und Satz 3 erforderlichen Standardtexte werden von der zuständigen Bundesoberbehörde im Bundesanzeiger bekannt gemacht.
@@ -906,7 +906,7 @@ Das Datum der letzten Überarbeitung der Packungsbeilage ist anzugeben. Bei Arzn
 - 9. :: Datum der Erteilung der Zulassung oder der Verlängerung der Zulassung;
 - 10. :: Datum der Überarbeitung der Fachinformation.
 
-Bei allen Arzneimitteln, die zur Anwendung bei Menschen bestimmt sind, ist ein Standardtext aufzunehmen, durch den die Angehörigen von Gesundheitsberufen ausdrücklich aufgefordert werden, jeden Verdachtsfall einer Nebenwirkung an die zuständige Bundesoberbehörde zu melden, wobei die Meldung in jeder Form, insbesondere auch elektronisch, erfolgen kann. Für Arzneimittel, die zur Anwendung bei Menschen bestimmt sind und sich auf der Liste gemä�Dieses Arzneimittel unterliegt einer zusätzlichen Überwachung.“ Dieser Erklärung muss ein schwarzes Symbol vorangehen und ein geeigneter standardisierter erläuternder Text nach Artikel 23 Absatz 4 der Verordnung (EG) Nr. 726/2004 folgen. Weitere Angaben, die nicht durch eine Verordnung der Europäischen Gemeinschaft oder der Europäischen Union vorgeschrieben oder bereits nach dieser Verordnung zulässig sind, sind zulässig, wenn sie mit der Anwendung des Arzneimittels im Zusammenhang stehen und den Angaben nach Satz 2 nicht widersprechen; sie müssen von den Angaben nach Satz 2 deutlich abgesetzt und abgegrenzt sein. Satz 1 gilt nicht für Arzneimittel, die nach § 21 Abs. 2 einer Zulassung nicht bedürfen oder nach einer homöopathischen Verfahrenstechnik hergestellt sind. Der Inhaber der Zulassung ist verpflichtet, die Fachinformation auf dem aktuellen wissenschaftlichen Kenntnisstand zu halten, zu dem auch die Schlussfolgerungen aus Bewertungen und die Empfehlungen gehören, die auf dem nach Artikel 26 der Verordnung (EG) Nr. 726/2004 eingerichteten europäischen Internetportal für Arzneimittel veröffentlicht werden. Die nach den Sätzen 3 und 5 erforderlichen Standardtexte werden von der zuständigen Bundesoberbehörde im Bundesanzeiger bekannt gemacht.
+Bei allen Arzneimitteln, die zur Anwendung bei Menschen bestimmt sind, ist ein Standardtext aufzunehmen, durch den die Angehörigen von Gesundheitsberufen ausdrücklich aufgefordert werden, jeden Verdachtsfall einer Nebenwirkung an die zuständige Bundesoberbehörde zu melden, wobei die Meldung in jeder Form, insbesondere auch elektronisch, erfolgen kann. Für Arzneimittel, die zur Anwendung bei Menschen bestimmt sind und sich auf der Liste gemäDieses Arzneimittel unterliegt einer zusätzlichen Überwachung.“ Dieser Erklärung muss ein schwarzes Symbol vorangehen und ein geeigneter standardisierter erläuternder Text nach Artikel 23 Absatz 4 der Verordnung (EG) Nr. 726/2004 folgen. Weitere Angaben, die nicht durch eine Verordnung der Europäischen Gemeinschaft oder der Europäischen Union vorgeschrieben oder bereits nach dieser Verordnung zulässig sind, sind zulässig, wenn sie mit der Anwendung des Arzneimittels im Zusammenhang stehen und den Angaben nach Satz 2 nicht widersprechen; sie müssen von den Angaben nach Satz 2 deutlich abgesetzt und abgegrenzt sein. Satz 1 gilt nicht für Arzneimittel, die nach § 21 Abs. 2 einer Zulassung nicht bedürfen oder nach einer homöopathischen Verfahrenstechnik hergestellt sind. Der Inhaber der Zulassung ist verpflichtet, die Fachinformation auf dem aktuellen wissenschaftlichen Kenntnisstand zu halten, zu dem auch die Schlussfolgerungen aus Bewertungen und die Empfehlungen gehören, die auf dem nach Artikel 26 der Verordnung (EG) Nr. 726/2004 eingerichteten europäischen Internetportal für Arzneimittel veröffentlicht werden. Die nach den Sätzen 3 und 5 erforderlichen Standardtexte werden von der zuständigen Bundesoberbehörde im Bundesanzeiger bekannt gemacht.
 
 (1a) Bei Sera ist auch die Art des Lebewesens, aus dem sie gewonnen sind, bei Virusimpfstoffen das Wirtssystem, das zur Virusvermehrung gedient hat, und bei Arzneimitteln aus humanem Blutplasma zur Fraktionierung das Herkunftsland des Blutplasmas anzugeben.
 (1b) Bei radioaktiven Arzneimitteln sind ferner die Einzelheiten der internen Strahlungsdosimetrie, zusätzliche detaillierte Anweisungen für die extemporane Zubereitung und die Qualitätskontrolle für diese Zubereitung sowie, soweit erforderlich, die Höchstlagerzeit anzugeben, während der eine Zwischenzubereitung wie ein Eluat oder das gebrauchsfertige Arzneimittel seinen Spezifikationen entspricht.
@@ -2240,7 +2240,7 @@ Die zuständige Bundesoberbehörde veröffentlicht eine amtliche Sammlung von Ve
 - 3. :: eine homogene und stabile Verteilung der wirksamen Bestandteile in dem Fütterungsarzneimittel gewährleistet ist.
 
 (3) Werden Fütterungsarzneimittel hergestellt, so muss das verwendete Mischfuttermittel vor und nach der Vermischung den futtermittelrechtlichen Vorschriften entsprechen und es darf kein Antibiotikum oder Kokzidiostatikum als Futtermittelzusatzstoff enthalten.
-(4) Der Hersteller des Fütterungsarzneimittels hat sicherzustellen, dass die Arzneimitteltagesdosis in einer Menge in dem Mischfuttermittel enthalten ist, die die tägliche Futterration der behandelten Tiere, bei Wiederkäuern den täglichen Bedarf an Ergänzungsfuttermitteln, ausgenommen Mineralfutter, mindestens zur Hälfte deckt. Der Hersteller des Fütterungsarzneimittels hat die verfütterungsfertige Mischung vor der Abgabe so zu kennzeichnen, dass auf dem Etikett das Wort �Fütterungsarzneimittel“ und die Angabe darüber, zu welchem Prozentsatz sie den Futterbedarf nach Satz 1 zu decken bestimmt ist, deutlich sichtbar sind.
+(4) Der Hersteller des Fütterungsarzneimittels hat sicherzustellen, dass die Arzneimitteltagesdosis in einer Menge in dem Mischfuttermittel enthalten ist, die die tägliche Futterration der behandelten Tiere, bei Wiederkäuern den täglichen Bedarf an Ergänzungsfuttermitteln, ausgenommen Mineralfutter, mindestens zur Hälfte deckt. Der Hersteller des Fütterungsarzneimittels hat die verfütterungsfertige Mischung vor der Abgabe so zu kennzeichnen, dass auf dem Etikett das Wort Fütterungsarzneimittel“ und die Angabe darüber, zu welchem Prozentsatz sie den Futterbedarf nach Satz 1 zu decken bestimmt ist, deutlich sichtbar sind.
 (5) Der Tierarzt darf Fütterungsarzneimittel nur verschreiben,
 
 - 1. :: wenn sie zur Anwendung an den von ihm behandelten Tieren bestimmt sind,
@@ -3638,7 +3638,7 @@ Die Charge eines Serums, eines Impfstoffes, eines Testallergens, eines Testserum
 
 § 109
 
-(1) Auf Fertigarzneimittel, die Arzneimittel im Sinne des § 2 Absatz 1 oder Absatz 2 Nummer 1 sind und sich am 1. Januar 1978 im Verkehr befunden haben, findet § 10 mit der Ma�Reg.-Nr.“ tritt. Satz 1 gilt bis zur Verlängerung der Zulassung oder der Registrierung.
+(1) Auf Fertigarzneimittel, die Arzneimittel im Sinne des § 2 Absatz 1 oder Absatz 2 Nummer 1 sind und sich am 1. Januar 1978 im Verkehr befunden haben, findet § 10 mit der MaReg.-Nr.“ tritt. Satz 1 gilt bis zur Verlängerung der Zulassung oder der Registrierung.
 (2) Die Texte für Kennzeichnung und Packungsbeilage sind spätestens bis zum 31. Juli 2001 vorzulegen. Bis zu diesem Zeitpunkt dürfen Arzneimittel nach Absatz 1 Satz 1 vom pharmazeutischen Unternehmer, nach diesem Zeitpunkt weiterhin von Groß- und Einzelhändlern, mit einer Kennzeichnung und Packungsbeilage in den Verkehr gebracht werden, die den bis zu dem in Satz 1 genannten Zeitpunkt geltenden Vorschriften entspricht.
 (3) Fertigarzneimittel, die Arzneimittel im Sinne des § 105 Abs. 1 und nach § 44 Abs. 1 oder Abs. 2 Nr. 1 bis 3 oder § 45 für den Verkehr außerhalb der Apotheken freigegeben sind und unter die Buchstaben a bis e fallen, dürfen unbeschadet der Regelungen der Absätze 1 und 2 ab 1. Januar 1992 vom pharmazeutischen Unternehmer nur in den Verkehr gebracht werden, wenn sie auf dem Behältnis und, soweit verwendet, der äußeren Umhüllung und einer Packungsbeilage einen oder mehrere der folgenden Hinweise tragen:\\
 "Traditionell angewendet:
@@ -3840,7 +3840,7 @@ Abweichend von § 56a Abs. 2 und § 73 Abs. 3 dürfen Arzneimittel bei Tieren, d
 
 (1) Für autologes Blut für die Herstellung von biotechnologisch bearbeiteten Gewebeprodukten ist § 72b in der bis einschließlich 25. November 2016 geltenden Fassung anzuwenden.
 (2) Wer am 26. November 2016 eine Erlaubnis nach der bis einschließlich 25. November 2016 geltenden Fassung des § 72 Absatz 1 für die Einfuhr von hämatopoetischen Stammzellen und Stammzellzubereitungen aus dem peripheren Blut oder aus dem Nabelschnurblut oder eine Erlaubnis nach der bis einschließlich 25. November 2016 geltenden Fassung des § 72b Absatz 1 besitzt, muss ab dem 29. April 2017 die Anforderungen des § 72 Absatz 4 und 5, § 72a Absatz 1 Satz 2 und Absatz 1e, § 72b Absatz 1, 1a, 2 Satz 2, Absatz 2a, 2c, 2d und des § 72c erfüllen.
-(3) Die Verpflichtung zur Kennzeichnung hämatopoetischer Stammzellzubereitungen aus dem peripheren Blut oder aus dem Nabelschnurblut mit dem Einheitlichen Europäischen Code mit der Abkürzung �SEC“ nach § 10 Absatz 8a Satz 3 und die Verpflichtung zur Kennzeichnung von Gewebezubereitungen mit dem Einheitlichen Europäischen Code mit der Abkürzung �SEC“ nach § 10 Absatz 8b Satz 1 sind ab dem 29. April 2017 zu erfüllen.
+(3) Die Verpflichtung zur Kennzeichnung hämatopoetischer Stammzellzubereitungen aus dem peripheren Blut oder aus dem Nabelschnurblut mit dem Einheitlichen Europäischen Code mit der Abkürzung SEC“ nach § 10 Absatz 8a Satz 3 und die Verpflichtung zur Kennzeichnung von Gewebezubereitungen mit dem Einheitlichen Europäischen Code mit der Abkürzung SEC“ nach § 10 Absatz 8b Satz 1 sind ab dem 29. April 2017 zu erfüllen.
 
 § 142b - Übergangsvorschrift aus Anlass des Gesetzes zur Fortschreibung der Vorschriften für Blut- und Gewebezubereitungen und zur Änderung anderer Vorschriften
 

@@ -249,7 +249,7 @@ Werden Tabakwaren unter Steueraussetzung zu Begünstigten befördert, hat der Be
 - 1. :: dem Steuerlagerinhaber das Verfahren nach Artikel 285a Absatz 1a der Zollkodex-Durchführungsverordnung bewilligt wurde,
 - 2. :: die Beförderung ausschließlich im Steuergebiet erfolgt und
 - 3. :: die einzelnen Beförderungen von einem Lieferschein oder einem entsprechenden Handelsdokument mit der deutlich sichtbaren Aufschrift
-  �unversteuerte Tabakwaren zur Bevorratung\\
+  unversteuerte Tabakwaren zur Bevorratung\\
   von Schiffen und Flugzeugen“
   begleitet werden.
 
@@ -260,7 +260,7 @@ Für das Erstellen des Entwurfs des zusammengefassten elektronischen Verwaltungs
 § 24 - Beförderungen im Steuergebiet in Betriebe von Verwendern
 
 (1) Für Beförderungen von Tabakwaren unter Steueraussetzung in Betriebe von Verwendern (§ 31 Absatz 1 des Gesetzes) hat der Steuerlagerinhaber als Versender aus seinem Steuerlager im Steuergebiet oder der registrierte Versender vom Ort der Einfuhr im Steuergebiet das Begleitdokument zu verwenden. Anstelle des Begleitdokuments kann der Versender ein Handelsdokument verwenden, das alle in dem Begleitdokument enthaltenen Angaben aufweist. Er hat das Handelsdokument mit der Aufschrift
-| �Begleitdokument für\\                    |
+| Begleitdokument für\\                    |
 | die Beförderung verbrauchsteuer-\\        |
 | pflichtiger Waren unter Steueraussetzung“ |
 
@@ -268,11 +268,11 @@ zu kennzeichnen.
 (2) Der Versender hat das Dokument in vier Exemplaren auszufertigen. Er hat die erste Ausfertigung zu seinen Aufzeichnungen zu nehmen. Der Beförderer der Tabakwaren hat während der Beförderung die zweite bis vierte Ausfertigung mitzuführen.
 (3) Der Verwender hat die zweite Ausfertigung als Beleg zu seinen Aufzeichnungen zu nehmen und dem zuständigen Hauptzollamt (§ 5 Absatz 2) unverzüglich die mit seinem Empfangsvermerk versehene dritte und vierte Ausfertigung vorzulegen. Dieses bestätigt die Übereinstimmung der beiden Ausfertigungen und die Empfangsberechtigung auf der dritten Ausfertigung (Rückschein). Der bestätigte Rückschein ist vom Verwender spätestens binnen zwei Wochen nach dem Empfang der Tabakwaren an den Versender zurückzuschicken. Die vierte Ausfertigung verbleibt beim zuständigen Hauptzollamt.
 (4) Zur Vereinfachung des Verfahrens kann das für den Versender zuständige Hauptzollamt (§ 5 Absatz 2) auf Antrag des Versenders zulassen, dass dieser anstelle des Begleitdokuments nach Absatz 1 für die in einem Kalendermonat an denselben Verwender abgegebenen Tabakwaren eine Sammelanmeldung in dreifacher Ausfertigung unter Angabe der Lieferscheinnummern dem Verwender bis zum siebten Arbeitstag des folgenden Monats übersendet, wenn die einzelnen Sendungen von einem Lieferschein mit der deutlich sichtbaren Aufschrift
-| �Unversteuerte Tabakwaren“ |
+| Unversteuerte Tabakwaren“ |
 
 begleitet werden. Der Verwender hat die Erstausfertigung zu seinen Aufzeichnungen zu nehmen und unverzüglich die mit seinem Empfangsvermerk versehene zweite und dritte Ausfertigung dem für ihn zuständigen Hauptzollamt vorzulegen. Das zuständige Hauptzollamt bestätigt die Übereinstimmung der beiden Ausfertigungen und die Empfangsberechtigung durch Stempelabdruck auf der zweiten Ausfertigung. Der Verwender hat als Rückschein die bestätigte Sammelanmeldung spätestens zwei Wochen nach dem Versandmonat an den Versender zurückzuschicken. Die zurückgeschickte Sammelanmeldung hat der Versender zu seinen Aufzeichnungen zu nehmen. Das für den Versender zuständige Hauptzollamt kann weitere Vereinfachungen des Verfahrens zulassen, wenn Steuerbelange dadurch nicht beeinträchtigt werden.
 (5) Das für den Versender zuständige Hauptzollamt kann auf Antrag in geeigneten Fällen, soweit dies der Vereinfachung des Verfahrens dient und Steuerbelange nicht gefährdet erscheinen, insbesondere zulassen, dass anstelle des Dokuments nach Absatz 1 Lieferscheine oder Rechnungen verwendet werden. Der Versender hat diese mit der Aufschrift
-| �Lieferschein/Rechnung für die\\              |
+| Lieferschein/Rechnung für die\\              |
 | Beförderung von verbrauchsteuerpflichtigen\\  |
 | Waren unter Steueraussetzung im Steuergebiet“ |
 
@@ -391,7 +391,7 @@ Werden mehr als 800 Zigaretten, 200 Zigarren, 400 Zigarillos oder ein Kilogramm 
 § 40 - Beförderungen von Tabakwaren des steuerrechtlich freien Verkehrs durch einen anderen Mitgliedstaat oder durch das Steuergebiet
 
 (1) Wer Tabakwaren des steuerrechtlich freien Verkehrs zu gewerblichen Zwecken durch einen anderen Mitgliedstaat an einen Empfänger im Steuergebiet befördern will, hat das vereinfachte Begleitdokument oder ein Dokument, das die gleichen Angaben wie das vereinfachte Begleitdokument enthält, zu verwenden. Er hat in Feld 3 des Dokuments den Hinweis\\
-| �Transit/Tabakwaren des\\        |
+| Transit/Tabakwaren des\\        |
 | steuerrechtlich freien Verkehrs“ |
 
 \\
@@ -438,7 +438,7 @@ Die Steuererklärung nach § 28 Absatz 1 Satz 4 des Gesetzes ist nach amtlich vo
 
 (4) Der Steuerlagerinhaber, der Tabakwaren herstellt, hat Packungen mit Tabakwaren, die als steuerfreies Deputat abgegeben werden, durch die Wörter\\
 \\
-| �Steuerfreies Deputat!\\          |
+| Steuerfreies Deputat!\\          |
 | Abgabe gegen Entgelt unzulässig!“ |
 
 \\
@@ -465,7 +465,7 @@ deutlich zu kennzeichnen. Außerdem müssen Name und Sitz des Herstellers angege
 § 47 - Abgabe von Tabakwaren, zweckwidrige Verwendung
 
 (1) Das zuständige Hauptzollamt kann dem Verwender auf Antrag gestatten, in Ausnahmefällen Tabakwaren im Rahmen der steuerfreien Verwendung an Steuerlagerinhaber oder an andere Verwender abzugeben. Der Verwender hat den Tabakwaren bei der Abgabe Handelspapiere beizufügen, die mit der Aufschrift
-| �Unversteuerte Tabakwaren“ |
+| Unversteuerte Tabakwaren“ |
 
 versehen sind. Für die vollständige Zerstörung und den unwiederbringlichen Verlust gilt § 11, für die Vernichtung gilt § 51 entsprechend.
 (2) Die Steuererklärung nach § 31 Absatz 3 Satz 4 des Gesetzes ist nach amtlich vorgeschriebenem Vordruck abzugeben.

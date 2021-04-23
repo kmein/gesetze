@@ -201,7 +201,7 @@ Hygiene (§ 3 Abs. 2 Abschnitt A Nr. 1)
 
 10
 
-�
+
 
 2
 
@@ -213,12 +213,12 @@ Rohstoffe, Hilfsstoffe und Betriebsmittel (§ 3 Abs. 2 Abschnitt A Nr. 2)
 
 6
 
-�
+
 
 - d) :: Bedarf an Hilfsstoffen und Betriebsmitteln für Produktionsabläufe für den Kaltbereich und und die Abfüllung festlegen
 - e) :: Hilfsstoffe und Betriebsmittel für den Kaltbereich der Brauerei und die Abfüllung annehmen, prüfen, lagern und bereitstellen
 
-�
+
 
 3
 
@@ -233,7 +233,7 @@ Herstellen von Malz (§ 3 Abs. 2 Abschnitt A Nr. 3)
 
 4
 
-�
+
 
 4
 
@@ -246,7 +246,7 @@ Herstellen von Würze (§ 3 Abs. 2 Abschnitt A Nr. 4)
 
 13
 
-�
+
 
 - e) :: Würze kochen und Hopfen geben
 - f) :: Würze klären und kühlen
@@ -254,7 +254,7 @@ Herstellen von Würze (§ 3 Abs. 2 Abschnitt A Nr. 4)
 
 13
 
-�
+
 
 5
 
@@ -264,13 +264,13 @@ Gären, Reifen, Lagern und Filtrieren von Bier (§ 3 Abs. 2 Abschnitt A Nr. 5)
 
 3
 
-�
+
 
 - b) :: Gärung, Reifung und Lagerung steuern, Reifezustand von Bier ermitteln
 - c) :: Bier filtrieren und stabilisieren
 - d) :: Bieranalysen durchführen
 
-�
+
 
 22
 
@@ -284,7 +284,7 @@ Herstellen von alkoholfreien Erfrischungsgetränken und Biermischgetränken (§ 
 - d) :: Limonaden, Fruchtsäfte oder fruchtsafthaltige Getränke herstellen
 - e) :: Biermischgetränke herstellen
 
-�
+
 
 4
 
@@ -296,7 +296,7 @@ Abfüllen und Verpacken (§ 3 Abs. 2 Abschnitt A Nr. 7)
 - b) :: Abfüllanlagen einrichten, umrüsten und bedienen
 - c) :: Proben für die Überwachung der Abfüllung nehmen und auswerten
 
-�
+
 
 15
 
@@ -310,7 +310,7 @@ Getränkeschankanlagen und Produktpflege (§ 3 Abs. 2 Abschnitt A Nr.8)
 - d) :: Produkte lagern und präsentieren, Kunden beraten
 - e) :: Gläser pflegen und Getränke ausschenken
 
-�
+
 
 4
 
@@ -325,7 +325,7 @@ Technische Infrastruktur (§ 3 Abs. 2 Abschnitt A Nr. 9)
 
 16
 
-�
+
 
 10
 
@@ -334,14 +334,14 @@ Warten; Steuern und Regeln (§ 3 Abs. 2 Abschnitt A Nr. 10)
 - a) :: mechanische Wartungsarbeiten an Maschinen und Geräten durchführen
 - b) :: Pumpen und Ventile warten
 
-�
+
 
 11
 
 - c) :: Messeinrichtungen kalibrieren sowie Parameter für Mess-, Steuer- und Regeleinrichtungen festlegen und dokumentieren
 - d) :: speicherprogrammierbare Steuerungssysteme parametrieren und Funktionsabläufe kontrollieren
 
-�
+
 
 11
 
@@ -400,7 +400,7 @@ Planen von Arbeitsabläufen qualitätssichernde Maßnahmen (§ 3 Abs. 2 Abschnit
 
 8
 
-�
+
 
 - e) :: Arbeitsergebnisse kontrollieren, dokumentieren und bewerten
 - f) :: Aufgaben im Team planen und umsetzen, Ergebnisse abstimmen und auswerten
@@ -409,7 +409,7 @@ Planen von Arbeitsabläufen qualitätssichernde Maßnahmen (§ 3 Abs. 2 Abschnit
 - i) :: Maßnahmen zur Verbesserung von Arbeitsprozessen vorschlagen
 - j) :: chemischtechnische Analysen und sensorische Prüfungen im Kaltbereich der Brauerei sowie mikrobiologische Untersuchungen durchführen
 
-�
+
 
 8
 
@@ -424,4 +424,4 @@ Information und Kommunikation (§ 3 Abs. 2 Abschnitt B Nr. 6)
 
 5
 
-�
+

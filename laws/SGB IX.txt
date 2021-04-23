@@ -6,132 +6,132 @@ Ausfertigungsdatum: 23.12.2016
 
 InhaltsÃ¼bersicht
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Â§ 1 - Selbstbestimmung und Teilhabe am Leben in der Gesellschaft
 
@@ -517,7 +517,7 @@ Eltern, VormÃ¼nder, Pfleger und Betreuer, die bei den ihnen anvertrauten Persone
 
 Â§ 39 - Aufgaben
 
-(1) Die RehabilitationstrÃ¤ger nach Â§ 6 Absatz 1 Nummer 1 bis 5 gestalten und organisieren die trÃ¤gerÃ¼bergreifende Zusammenarbeit zur einheitlichen personenzentrierten Gestaltung der Rehabilitation und der Leistungen zur Teilhabe im Rahmen einer Arbeitsgemeinschaft nach Â§ 94 des Zehnten Buches. Sie trÃ¤gt den Namen â€Bundesarbeitsgemeinschaft fÃ¼r Rehabilitationâ€œ.
+(1) Die RehabilitationstrÃ¤ger nach Â§ 6 Absatz 1 Nummer 1 bis 5 gestalten und organisieren die trÃ¤gerÃ¼bergreifende Zusammenarbeit zur einheitlichen personenzentrierten Gestaltung der Rehabilitation und der Leistungen zur Teilhabe im Rahmen einer Arbeitsgemeinschaft nach Â§ 94 des Zehnten Buches. Sie trÃ¤gt den Namen Bundesarbeitsgemeinschaft fÃ¼r Rehabilitationâ€œ.
 (2) Die Aufgaben der Bundesarbeitsgemeinschaft fÃ¼r Rehabilitation sind insbesondere
 
 - 1. :: die Beobachtung der Zusammenarbeit der RehabilitationstrÃ¤ger und die regelmÃ¤ÃŸige Auswertung und Bewertung der Zusammenarbeit; hierzu bedarf es
@@ -553,15 +553,15 @@ Die Bundesarbeitsgemeinschaft fÃ¼r Rehabilitation untersteht der Rechtsaufsicht 
 - 4. :: die durchschnittliche Zeitdauer zwischen Erteilung des Gutachtenauftrages in FÃ¤llen des Â§ 14 Absatz 2 Satz 3 und der Vorlage des Gutachtens,
 - 5. :: die durchschnittliche Zeitdauer zwischen Antragseingang beim leistenden RehabilitationstrÃ¤ger und der Entscheidung nach den Merkmalen der Erledigung und der Bewilligung,
 - 6. :: die Anzahl der Ablehnungen von AntrÃ¤gen sowie der nicht vollstÃ¤ndigen Bewilligung der beantragten Leistungen,
-- 7. :: die durchschnittliche Zeitdauer zwischen dem Datum des Bewilligungsbescheides und dem Beginn der Leistungen mit und ohne Teilhabeplanung nach Â§ 19, wobei in den FÃ¤llen, in denen die Leistung von einem RehabilitationstrÃ¤ger nach Â§ 6 Absatz 1 Nummer 1 erbracht wurde, das Merkmal â€mit und ohne Teilhabeplanung nach Â§ 19â€œ nicht zu erfassen ist,
+- 7. :: die durchschnittliche Zeitdauer zwischen dem Datum des Bewilligungsbescheides und dem Beginn der Leistungen mit und ohne Teilhabeplanung nach Â§ 19, wobei in den FÃ¤llen, in denen die Leistung von einem RehabilitationstrÃ¤ger nach Â§ 6 Absatz 1 Nummer 1 erbracht wurde, das Merkmal mit und ohne Teilhabeplanung nach Â§ 19â€œ nicht zu erfassen ist,
 - 8. :: die Anzahl der trÃ¤gerÃ¼bergreifenden Teilhabeplanungen und Teilhabeplankonferenzen,
 - 9. :: die Anzahl der nachtrÃ¤glichen Ã„nderungen und Fortschreibungen der TeilhabeplÃ¤ne einschlieÃŸlich der durchschnittlichen Geltungsdauer des Teilhabeplanes,
 - 10. :: die Anzahl der Erstattungsverfahren nach Â§ 16 Absatz 2 Satz 2,
 - 11. :: die Anzahl der beantragten und bewilligten Leistungen in Form des PersÃ¶nlichen Budgets,
 - 12. :: die Anzahl der beantragten und bewilligten Leistungen in Form des trÃ¤gerÃ¼bergreifenden PersÃ¶nlichen Budgets,
 - 13. :: die Anzahl der Mitteilungen nach Â§ 18 Absatz 1,
-- 14. :: die Anzahl der AntrÃ¤ge auf Erstattung nach Â§ 18 nach den Merkmalen â€Bewilligungâ€œ oder â€Ablehnungâ€œ,
-- 15. :: die Anzahl der Rechtsbehelfe sowie der erfolgreichen Rechtsbehelfe aus Sicht der Leistungsberechtigten jeweils nach den Merkmalen â€Widerspruchâ€œ und â€Klageâ€œ,
+- 14. :: die Anzahl der AntrÃ¤ge auf Erstattung nach Â§ 18 nach den Merkmalen Bewilligungâ€œ oder Ablehnungâ€œ,
+- 15. :: die Anzahl der Rechtsbehelfe sowie der erfolgreichen Rechtsbehelfe aus Sicht der Leistungsberechtigten jeweils nach den Merkmalen Widerspruchâ€œ und Klageâ€œ,
 - 16. :: die Anzahl der Leistungsberechtigten, die sechs Monate nach dem Ende der MaÃŸnahme zur Teilhabe am Arbeitsleben eine sozialversicherungspflichtige BeschÃ¤ftigung aufgenommen haben, soweit die MaÃŸnahme von einem RehabilitationstrÃ¤ger nach Â§ 6 Absatz 1 Nummer 2 bis 7 erbracht wurde.
 
 (2) Die RehabilitationstrÃ¤ger nach Â§ 6 Absatz 1 Nummer 1 bis 5 melden jÃ¤hrlich die im Berichtsjahr nach Absatz 1 erfassten Angaben an ihre SpitzenverbÃ¤nde, die RehabilitationstrÃ¤ger nach Â§ 6 Absatz 1 Nummer 6 und 7 jeweils Ã¼ber ihre obersten Landesjugend- und SozialbehÃ¶rden, zur Weiterleitung an die Bundesarbeitsgemeinschaft fÃ¼r Rehabilitation in einem mit ihr technisch abgestimmten Datenformat. Die Bundesarbeitsgemeinschaft fÃ¼r Rehabilitation wertet die Angaben unter Beteiligung der RehabilitationstrÃ¤ger aus und erstellt jÃ¤hrlich eine gemeinsame Ãœbersicht. Die Erfassung der Angaben soll mit dem 1. Januar 2018 beginnen und ein Kalenderjahr umfassen. Der erste Bericht ist 2019 zu verÃ¶ffentlichen.
@@ -2654,7 +2654,7 @@ Die Â§Â§ 223 und 224 sind auch zugunsten von auf Grund des Blindenwarenvertriebs
 
 Â§ 229 - PersÃ¶nliche Voraussetzungen
 
-(1) In seiner BewegungsfÃ¤higkeit im StraÃGâ€œ gefÃ¼hrt werden, dessen GÃ¼ltigkeit frÃ¼hestens mit dem 1. April 1984 beginnt, oder auf dem ein entsprechender Ã„nderungsvermerk eingetragen ist.
+(1) In seiner BewegungsfÃ¤higkeit im StraGâ€œ gefÃ¼hrt werden, dessen GÃ¼ltigkeit frÃ¼hestens mit dem 1. April 1984 beginnt, oder auf dem ein entsprechender Ã„nderungsvermerk eingetragen ist.
 (2) Zur Mitnahme einer Begleitperson sind schwerbehinderte Menschen berechtigt, die bei der Benutzung von Ã¶ffentlichen Verkehrsmitteln infolge ihrer Behinderung regelmÃ¤ÃŸig auf Hilfe angewiesen sind. Die Feststellung bedeutet nicht, dass die schwerbehinderte Person, wenn sie nicht in Begleitung ist, eine Gefahr fÃ¼r sich oder fÃ¼r andere darstellt.
 (3) Schwerbehinderte Menschen mit auÃŸergewÃ¶hnlicher Gehbehinderung sind Personen mit einer erheblichen mobilitÃ¤tsbezogenen TeilhabebeeintrÃ¤chtigung, die einem Grad der Behinderung von mindestens 80 entspricht. Eine erhebliche mobilitÃ¤tsbezogene TeilhabebeeintrÃ¤chtigung liegt vor, wenn sich die schwerbehinderten Menschen wegen der Schwere ihrer BeeintrÃ¤chtigung dauernd nur mit fremder Hilfe oder mit groÃŸer Anstrengung auÃŸerhalb ihres Kraftfahrzeuges bewegen kÃ¶nnen. Hierzu zÃ¤hlen insbesondere schwerbehinderte Menschen, die auf Grund der BeeintrÃ¤chtigung der GehfÃ¤higkeit und Fortbewegung -- dauerhaft auch fÃ¼r sehr kurze Entfernungen -- aus medizinischer Notwendigkeit auf die Verwendung eines Rollstuhls angewiesen sind. Verschiedenste GesundheitsstÃ¶rungen (insbesondere StÃ¶rungen bewegungsbezogener, neuromuskulÃ¤rer oder mentaler Funktionen, StÃ¶rungen des kardiovaskulÃ¤ren oder Atmungssystems) kÃ¶nnen die GehfÃ¤higkeit erheblich beeintrÃ¤chtigen. Diese sind als auÃŸergewÃ¶hnliche Gehbehinderung anzusehen, wenn nach versorgungsÃ¤rztlicher Feststellung die Auswirkung der GesundheitsstÃ¶rungen sowie deren Kombination auf die GehfÃ¤higkeit dauerhaft so schwer ist, dass sie der unter Satz 1 genannten BeeintrÃ¤chtigung gleich kommt.
 (+++ Â§ 229: Zur Anwendung vgl. Â§ 211 Abs. 3 +++)

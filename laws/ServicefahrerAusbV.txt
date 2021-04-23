@@ -131,7 +131,7 @@ Zu vermittelnde Fertigkeiten und Kenntnisse
 3
 1
 Der Ausbildungsbetrieb (§ 4 Nr. 1)
-�
+
 1.1
 Berufsbildung, Arbeitsund Tarifrecht (§ 4 Nr. 1.1)
 a)
@@ -177,7 +177,7 @@ d)
 Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 2
 Arbeitsorganisation (§ 4 Nr. 2)
-�
+
 2.1
 Arbeitsplanung (§ 4 Nr. 2.1)
 a)
@@ -196,7 +196,7 @@ c)
 Vorschriften des Datenschutzes und betriebliche Regelungen zur Datensicherheit einhalten
 3
 Serviceleistungen (§ 4 Nr. 3)
-�
+
 3.1
 Leistungsangebot (§ 4 Nr. 3.1)
 a)
@@ -235,7 +235,7 @@ c)
 Möglichkeiten für Qualitätsverbesserungen im eigenen Arbeitsbereich aufzeigen und zur kontinuierlichen Verbesserung von Arbeitsvorgängen beitragen
 4
 Vertrieb von Dienstleistungen (§ 4 Nr. 4)
-�
+
 4.1
 Beratung und Verkauf (§ 4 Nr. 4.1)
 a)
@@ -250,7 +250,7 @@ e)
 Bedarf erkennen und auf Wünsche des Kunden hinsichtlich des Leistungsangebotes eingehen
 4.2
 Kommunikation Kommunikation (§ 4 Nr. 4.2)
-�
+
 nichtsprachliche Kommunikationsformen nichtsprachliche Kommunikationsformen berücksichtigen
 b)
 durch eigenes Verhalten zur Kundenzufriedenheit beitragen
@@ -282,7 +282,7 @@ e)
 bei Beeinträchtigungen der Funktionsfähigkeit von Fahrzeugen, Transporthilfsmitteln, Arbeits- und Fördermitteln Maßnahmen einleiten
 6
 Durchführung der Beförderung (§ 4 Nr. 6)
-�
+
 6.1
 Tourenplanung (§ 4 Nr. 6.1)
 a)
@@ -317,7 +317,7 @@ g)
 die Fahrtüchtigkeit beeinflussende Faktoren beachten
 7
 Tourenabschluss (§ 4 Nr. 7)
-�
+
 7.1
 Nachbereitung (§ 4 Nr. 7.1)
 a)

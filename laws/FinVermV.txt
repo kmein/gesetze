@@ -68,7 +68,7 @@ Die Mitglieder des Ausschusses sowie ihre Stellvertreter müssen in der Lage sei
 
 Diese Personen dürfen nicht in die laufende Prüfung eingreifen oder in die Beratung über das Prüfungsergebnis einbezogen werden.
 
-(7) Die Leistung des Prüflings ist vom Prüfungsausschuss mit �bestanden“ oder �nicht bestanden“ zu bewerten. Die Prüfung ist bestanden, wenn sowohl der schriftliche als auch der praktische Teil der Prüfung mit �bestanden“ bewertet worden ist. Der schriftliche Teil der Prüfung ist bestanden, wenn der Prüfling in den in Absatz 2 Satz 4 Nummer 1 bis 3 genannten und geprüften Bereichen jeweils mindestens 50 Prozent der erreichbaren Punkte erzielt. Der praktische Teil der Prüfung ist bestanden, wenn der Prüfling mindestens 50 Prozent der erreichbaren Punkte erzielt.
+(7) Die Leistung des Prüflings ist vom Prüfungsausschuss mit bestanden“ oder nicht bestanden“ zu bewerten. Die Prüfung ist bestanden, wenn sowohl der schriftliche als auch der praktische Teil der Prüfung mit bestanden“ bewertet worden ist. Der schriftliche Teil der Prüfung ist bestanden, wenn der Prüfling in den in Absatz 2 Satz 4 Nummer 1 bis 3 genannten und geprüften Bereichen jeweils mindestens 50 Prozent der erreichbaren Punkte erzielt. Der praktische Teil der Prüfung ist bestanden, wenn der Prüfling mindestens 50 Prozent der erreichbaren Punkte erzielt.
 (8) Die Industrie- und Handelskammer stellt unverzüglich eine Bescheinigung nach Anlage 2 aus, wenn der Prüfling die Prüfung erfolgreich abgelegt hat. In der Bescheinigung ist anzugeben, welche Bereiche nach Absatz 2 Satz 4 Nummer 1 bis 3 der schriftliche Teil der Prüfung umfasst hat. Wurde die Prüfung nicht erfolgreich abgelegt, erhält der Prüfling darüber einen Bescheid, in dem auf die Möglichkeit der Wiederholungsprüfung hinzuweisen ist.
 (9) Die Einzelheiten des Prüfungsverfahrens regelt die Industrie- und Handelskammer nach Maßgabe des § 32 Absatz 1 Satz 2 der Gewerbeordnung durch Satzung.
 
@@ -82,7 +82,7 @@ Diese Personen dürfen nicht in die laufende Prüfung eingreifen oder in die Ber
   - c) :: als Geprüfter Investment-Fachwirt oder als Geprüfte Investment-Fachwirtin,
   - d) :: als Geprüfter Fachwirt für Finanzberatung oder als Geprüfte Fachwirtin für Finanzberatung,
   - e) :: als Bank- oder Sparkassenkaufmann oder als Bank- oder Sparkassenkauffrau,
-  - f) :: als Kaufmann für Versicherungen und Finanzen �Fachrichtung Finanzberatung“ oder als Kauffrau für Versicherungen und Finanzen �Fachrichtung Finanzberatung“ oder
+  - f) :: als Kaufmann für Versicherungen und Finanzen Fachrichtung Finanzberatung“ oder als Kauffrau für Versicherungen und Finanzen Fachrichtung Finanzberatung“ oder
   - g) :: als Investmentfondskaufmann oder als Investmentfondskauffrau;
 - 2. :: ein Abschlusszeugnis
   - a) :: eines betriebswirtschaftlichen Studiengangs der Fachrichtung Bank, Versicherungen oder Finanzdienstleistung mit einem Hochschulabschluss oder einem gleichwertigen Abschluss,
@@ -402,7 +402,7 @@ Anlage 1 - (zu § 1 Absatz 2)Inhaltliche Anforderungen an die Sachkundeprüfung
 
 (Fundstelle: BGBl. I 2012, 1015 - 1017)
 
-Anlage 2 - (zu § 3 Absatz 8)Bescheinigung über die erfolgreiche Ablegung der Sachkundeprüfung �Geprüfter Finanzanlagenfachmann/Geprüfte Finanzanlagenfachfrau IHK“ nach § 34f Absatz 2 Nummer 4, auch in Verbindung mit § 34h Absatz 1 Satz 4, der Gewerbeordnung in Verbindung mit § 34f Absatz 1 Satz 1 Nummer 1 der Gewerbeordnung (offene Investmentvermögen)/ § 34f Absatz 1 Satz 1 Nummer 2 der Gewerbeordnung (geschlossene Investmentvermögen)/ § 34f Absatz 1 Satz 1 Nummer 3 der Gewerbeordnung (Vermögensanlagen im Sinne des § 1 Absatz 2 des Vermögensanlagengesetzes)
+Anlage 2 - (zu § 3 Absatz 8)Bescheinigung über die erfolgreiche Ablegung der Sachkundeprüfung Geprüfter Finanzanlagenfachmann/Geprüfte Finanzanlagenfachfrau IHK“ nach § 34f Absatz 2 Nummer 4, auch in Verbindung mit § 34h Absatz 1 Satz 4, der Gewerbeordnung in Verbindung mit § 34f Absatz 1 Satz 1 Nummer 1 der Gewerbeordnung (offene Investmentvermögen)/ § 34f Absatz 1 Satz 1 Nummer 2 der Gewerbeordnung (geschlossene Investmentvermögen)/ § 34f Absatz 1 Satz 1 Nummer 3 der Gewerbeordnung (Vermögensanlagen im Sinne des § 1 Absatz 2 des Vermögensanlagengesetzes)
 
 (Fundstelle: BGBl. I 2012, 1018)
 geboren am .............................................................................  in  ..............................................................................................

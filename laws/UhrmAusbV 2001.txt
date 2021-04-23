@@ -190,20 +190,20 @@ Planen, Vorbereiten und Durchf√ºhren von Arbeitsabl√§ufen sowie Kontrollieren un
 
 4*)
 
-†
 
-†
 
-†
+
+
+
 
 - f) :: Arbeitsschritte unter Ber√ºcksichtigung funktionaler, konstruktiver, fertigungstechnischer und wirtschaftlicher Gesichtspunkte festlegen
 - g) :: Arbeitsergebnisse zusammenf√ºhren, erbrachte Leistungen kontrollieren und anhand der Vorgaben bewerten sowie dokumentieren
 
-†
 
-†
 
-†
+
+
+
 
 4 *)
 
@@ -220,32 +220,32 @@ betriebliche und technische Kommunikation\\
 
 5*)
 
-†
 
-†
 
-†
+
+
+
 
 - f) :: Gespr√§che mit Vorgesetzten, Mitarbeitern und im Team situationsgerecht f√ºhren, Sachverhalte darstellen, deutsche und fremdsprachliche Fachausdr√ºcke anwenden
 - g) :: Kommunikation mit vorausgehenden und nachfolgenden Arbeitsbereichen sicherstellen
 
-†
+
 
 2 *)
 
-†
 
-†
+
+
 
 - h) :: technische Unterlagen, insbesondere Kataloge, Service- und Betriebsanleitungen, Tabellen, Schaltpl√§ne, Diagramme, Handb√ºcher, Bedienungshinweise und einschl√§gige Normen, auswerten und anwenden
 - i) :: Entw√ºrfe nach Gestaltungsprinzipien anfertigen
 - k) :: branchen√ºbliche Standardsoftware anwenden
 
-†
 
-†
 
-†
+
+
+
 
 4 *)
 
@@ -262,40 +262,40 @@ Normen und Spezifikationen zur Qualit√§tssicherung der Produkte beachten sowie Q
 
 3*)
 
-†
 
-†
 
-†
+
+
+
 
 - d) :: Pr√ºfarten und Pr√ºfmittel ausw√§hlen, Einsatzf√§higkeit der Pr√ºfmittel feststellen und dokumentieren, Pr√ºfpl√§ne und betriebliche Pr√ºfvorschriften anwenden
 
-†
+
 
 2 *)
 
-†
 
-†
+
+
 
 - e) :: Qualit√§t in Verbindung mit technischen Unterlagen, insbesondere Normen und Spezifikationen, beurteilen
 
-†
 
-†
+
+
 
 2 *)
 
-†
+
 
 - f) :: Ursachen von Fehlern, Problemen und Qualit√§tsm√§ngeln systematisch suchen, beseitigen und dokumentieren
 - g) :: qualit√§tsbewusst im Ausbildungsbetrieb handeln und zur Qualit√§tssicherung beitragen
 
-†
 
-†
 
-†
+
+
+
 
 3 *)
 
@@ -311,21 +311,21 @@ Pr√ºfen, Anrei√üen und Messen\\
 
 5*)
 
-†
 
-†
 
-†
+
+
+
 
 - e) :: Teile auf Rundlauf und Seitenschlag pr√ºfen, Unwuchten feststellen
 
-†
 
-†
+
+
 
 2
 
-†
+
 
 9
 
@@ -339,11 +339,11 @@ Warten von Betriebsmitteln\\
 
 3*)
 
-†
 
-†
 
-†
+
+
+
 
 10
 
@@ -357,21 +357,21 @@ Unterscheiden, Zuordnen und Handhaben von Werk- und Hilfsstoffen\\
 
 4
 
-†
 
-†
 
-†
+
+
+
 
 - e) :: metallische Werkst√ºcke und Halbzeuge nach Form, Zusammensetzung und Bearbeitbarkeit unterscheiden, ausw√§hlen und ihrem Verwendungszweck zuordnen
 
-†
+
 
 2
 
-†
 
-†
+
+
 
 11
 
@@ -382,28 +382,28 @@ W√§rmebehandlung und Werkstoffpr√ºfung\\
 - b) :: Eigenschaften von Werkst√ºcken und Halbzeugen pr√ºfen
 - c) :: Edelmetalle und Edelmetall-Legierungen pr√ºfen und bestimmen
 
-†
+
 
 3
 
-†
 
-†
+
+
 
 12
 
 manuelles und maschinelles Spanen\\
 (¬ß 3 Nr. 12)
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 12.1
 
@@ -417,11 +417,11 @@ manuelles Spanen\\
 
 7
 
-†
 
-†
 
-†
+
+
+
 
 12.2
 
@@ -440,23 +440,23 @@ Programmieren und Handhaben von numerisch gesteuerten Werkzeugmaschinen oder Spa
 - i) :: Werkst√ºcke mit einer Oberfl√§chenbeschaffenheit Rz zwischen 6,3 und 40 mym durch Fr√§sen herstellen
 - k) :: Teilungen an Werkst√ºcken herstellen, Uhrenzahnr√§der durch Fr√§sen nach dem Teilverfahren herstellen
 
-†
+
 
 5
 
-†
 
-†
+
+
 
 - l) :: Programme an numerisch gesteuerten Werkzeugmaschinen erstellen, eingeben, testen, √§ndern, optimieren und anwenden oder Werkzeugmaschinen einrichten
 - m) :: Werkzeugkorrekturwerte bestimmen und einstellen
 - n) :: Werkst√ºcke auf numerisch gesteuerten oder konventionellen Maschinen bearbeiten, Passungen herstellen
 
-†
 
-†
 
-†
+
+
+
 
 5
 
@@ -472,22 +472,22 @@ F√ºgen\\
 
 3
 
-†
 
-†
 
-†
+
+
+
 
 - e) :: Kaltnietverbindungen, insbesondere R√§der mit Trieben und Unruhen mit Unruhwellen, herstellen
 - f) :: Werkst√ºcke und Bauteile aus Metall durch Schwei√üen verbinden
 
-†
 
-†
+
+
 
 2
 
-†
+
 
 14
 
@@ -500,23 +500,23 @@ Behandeln und Sch√ºtzen von Oberfl√§chen\\
 
 3
 
-†
 
-†
 
-†
+
+
+
 
 - d) :: Druckpolituren an Werkst√ºcken und Bauteilen anbringen
 - e) :: Werkst√ºcke, Bauteile und Geh√§use zur Oberfl√§chenbehandlung, insbesondere durch Reinigen, vorbereiten
 - f) :: Oberfl√§chen nach Anforderungen sch√ºtzen, insbesondere galvanisch und chemisch
 
-†
+
 
 3
 
-†
 
-†
+
+
 
 15
 
@@ -528,21 +528,21 @@ Messen und Pr√ºfen elektrischer Gr√∂√üen\\
 - c) :: Amplitude und Periodendauer der Schwingungen mit Oszilloskopen messen
 - d) :: Pr√ºf- und Messergebnisse dokumentieren und auswerten
 
-†
+
 
 4
 
-†
 
-†
+
+
 
 - e) :: Funktionsf√§higkeit von Baugruppen durch Einstellen mechanischer und elektrischer Werte nach Vorgaben herstellen
 
-†
 
-†
 
-†
+
+
+
 
 3
 
@@ -558,23 +558,23 @@ Wartung und Inspektion
 - c) :: mechanische Beanspruchungen und Funktionsfehler feststellen, Instandsetzungsma√ünahmen festlegen und dokumentieren
 - d) :: Ganggenauigkeit √ºberpr√ºfen
 
-†
 
-†
+
+
 
 5
 
-†
+
 
 - e) :: St√∂rungen durch systematische Messkontrollen feststellen, eingrenzen und dokumentieren
 - f) :: Wasserdichtheit nach Norm √ºberpr√ºfen
 - g) :: Gangreserve bei Kleinuhren √ºberpr√ºfen
 
-†
 
-†
 
-†
+
+
+
 
 4
 
@@ -586,33 +586,33 @@ Instandsetzung
 
 8
 
-†
 
-†
 
-†
+
+
+
 
 - l) :: Abnahme durchf√ºhren sowie Instandsetzungsma√ünahmen dokumentieren
 - m) :: Geh√§useteile an Kleinuhren instand setzen und ersetzen
 
-†
 
-†
+
+
 
 4
 
-†
+
 
 - n) :: Schwingsysteme dynamisch und statisch auswuchten
 - o) :: elektrische und elektronische Baugruppen und Bauelemente justieren, instand setzen und ersetzen sowie Funktionspr√ºfung durchf√ºhren
 - p) :: Batterien unter Ber√ºcksichtigung der Stromaufnahme von Antriebssystemen ersetzen
 - q) :: Gangkorrekturen nach Vorgabe durchf√ºhren
 
-†
 
-†
 
-†
+
+
+
 
 8
 
@@ -626,41 +626,41 @@ Montieren und Demontieren\\
 
 2
 
-†
 
-†
 
-†
+
+
+
 
 - c) :: Bauteile und Baugruppen unter Beachtung teilespezifischer Montagebedingungen funktionsgerecht montieren und sichern
 - d) :: Bauteile und Baugruppen, insbesondere nach technischen Unterlagen, demontieren
 
-†
+
 
 3
 
-†
 
-†
+
+
 
 - e) :: Uhren und Uhrenanlagen in Betrieb nehmen, Endkontrolle durchf√ºhren
 - f) :: Kleinuhren, insbesondere nach Vorgaben, aus- und einschalen
 
-†
 
-†
+
+
 
 4
 
-†
+
 
 - g) :: Sto√üsicherungen und automatische Aufzugsmechanismen nach Vorgaben montieren und demontieren
 
-†
 
-†
 
-†
+
+
+
 
 5
 
@@ -669,31 +669,31 @@ Montieren und Demontieren\\
 
 3
 
-†
 
-†
 
-†
+
+
+
 
 - k) :: Uhrwerke mit Reinigungsmaschinen reinigen
 - l) :: Baugruppen und Bauteile epilamisieren
 
-†
+
 
 2
 
-†
 
-†
+
+
 
 - m) :: Kleinuhrwerke, insbesondere Sto√üsicherungen, Automatikfederh√§user und Aufzugsmechanismen, nach Vorgaben schmieren
 - n) :: Geh√§use abdichten
 
-†
 
-†
 
-†
+
+
+
 
 3
 
@@ -704,24 +704,24 @@ Kundenservice und -beratung\\
 
 - a) :: Service zum Kundennutzen und zum wirtschaftlichen Betriebserfolg umsetzen, kostenbewusst handeln
 
-†
 
-†
+
+
 
 2
 
-†
+
 
 - b) :: Vorstellungen und W√ºnsche des Kunden ermitteln, Kunden √ºber Produkte und Dienstleistungen beraten
 - c) :: Auftr√§ge im Zusammenwirken mit Kunden festlegen und dokumentieren
 - d) :: Kundengespr√§che situationsgerecht f√ºhren
 - e) :: Werkstattauftr√§ge einplanen und √ºberwachen, Reklamationen entgegennehmen, M√§ngel erfassen, dokumentieren und Durchf√ºhrung veranlassen
 
-†
 
-†
 
-†
+
+
+
 
 3
 
@@ -735,32 +735,32 @@ Beschaffung, Lagerung und Verkauf\\
 
 2
 
-†
 
-†
 
-†
+
+
+
 
 - c) :: Waren nach Beschaffenheit, Art, Menge und Preis √ºberpr√ºfen, Lieferscheine und Rechnungen vergleichen, M√§ngel beurteilen und dokumentieren; Reklamationen durchf√ºhren
 - d) :: Sortiment und Verkaufsangebot mitgestalten, Waren auszeichnen und pr√§sentieren
 - e) :: Bestand und Bedarf an Waren, Ersatzteilen und Betriebsmitteln feststellen und dokumentieren, Dispositionen f√ºr Wareneinkauf durchf√ºhren
 
-†
 
-†
+
+
 
 3
 
-†
+
 
 - f) :: Waren, Produkte und Dienstleistungen verkaufen, Vertragsrecht anwenden
 - g) :: Regeln und Modalit√§ten des Zahlungsverkehrs, insbesondere Kredit, Skonto, Eigentumsvorbehalt, Gerichtsstand, Liefertermin, Versand-, Verpackungs- und Transportkosten beachten und anwenden
 
-†
 
-†
 
-†
+
+
+
 
 4
 
@@ -772,22 +772,22 @@ Kostenrechnung und Kalkulation\\
 - a) :: Kosten und Ertragsrechnung unterscheiden
 - b) :: Verkaufspreis ermitteln
 
-†
 
-†
+
+
 
 2
 
-†
+
 
 - c) :: Angebote und Kostenvoranschl√§ge nach Vorgaben erstellen
 - d) :: Instandsetzungs- und Verkaufabrechnungen nach Vorgaben erstellen und dem Kunden erl√§utern
 
-†
 
-†
 
-†
+
+
+
 
 2
 
@@ -798,11 +798,11 @@ Instandhalten von industriell gefertigtem Schmuck\\
 
 Schmuck aufarbeiten, instand setzen und umarbeiten, insbesondere Ringweiten √§ndern und Schmuckteile l√∂ten
 
-†
 
-†
 
-†
+
+
+
 
 4
 

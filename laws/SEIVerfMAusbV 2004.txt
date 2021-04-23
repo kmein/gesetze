@@ -297,117 +297,117 @@ Grundfertigkeiten der Werkstoffbearbeitung (¬ß 3 Abs. 1 Nr. 6)
 a)
 manuelle Werkstoffbearbeitung
 12
-†
-†
-†
+
+
+
 aa)
 Einzelteilzeichnungen in Ansichten und Schnitten unter Beachtung der Linienarten, Ma√üst√§be, Ma√üeintragungen mit Toleranzangaben und der Symbole f√ºr Oberfl√§chenbeschaffenheit lesen sowie Skizzen anfertigen
-†
+
 bb)
 Zusammenstellungszeichnungen, Explosionszeichnungen und St√ºcklisten lesen
-†
+
 cc)
 Werkzeuge, Ger√§te, Maschinen und Hilfsmittel bereitstellen und pflegen
-†
+
 dd)
 Arbeitsschritte zur Aufgabenerledigung festlegen und erforderliche Abwicklungszeiten einsch√§tzen
-†
+
 ee)
 Messzeuge zum Messen und Pr√ºfen von L√§ngen, Winkeln und Fl√§chen nach geforderter Messgenauigkeit ausw√§hlen und handhaben
-†
+
 ff)
 L√§ngen mit Ma√üstab und Messschieber messen
-†
+
 gg)
 Winkel mit Winkelmesser messen und mit Winkellehren pr√ºfen
-†
+
 hh)
 Fl√§chen nach dem Lichtspaltverfahren auf Ebenheit und Formgenauigkeit pr√ºfen
-†
+
 ii)
 Werkst√ºcke unter Ber√ºcksichtigung der Werkstoffeigenschaften anrei√üen, k√∂rnen und kennzeichnen
-†
+
 kk)
 Werkst√ºcke und Halbzeuge unter Ber√ºcksichtigung des Oberfl√§chenschutzes zur Bearbeitung ein- und aufspannen
-†
+
 ll)
 Bleche, Platten und Profile aus Metall und Kunststoff s√§gen
-†
+
 mm)
 Werkst√ºcke aus Metall und Kunststoff bis zur Ma√ügenauigkeit von +--- 0,5 mm und bis zur Oberfl√§chenbeschaffenheit R(tief)z25 eben und winklig feilen sowie entgraten
-†
+
 nn)
 Rundungen und Durchbr√ºche an Werkst√ºcken aus Metall und Kunststoff formgerecht feilen sowie entgraten
-†
+
 oo)
 Innengewinde in Werkst√ºcke aus Metall und Kunststoff mit Gewindebohrer schneiden
-†
+
 pp)
 Au√üengewinde auf Rohre und Stangen aus Metall mit Schneideisen schneiden
-†
+
 qq)
 Bleche und Kunststoffplatten mit Hand- und Handhebelschere scherschneiden sowie mit Lochwerkzeugen lochen
-†
+
 rr)
 Bleche und Profilteile aus Metall kaltbiegen
-†
+
 ss)
 Werkst√ºcke, die durch den Schneid- oder Biegevorgang verformt sind, richten
 b)
 maschinelle Werkstoffbearbeitung
 4
-†
-†
-†
+
+
+
 aa)
 Werkzeuge und K√ºhlschmiermittel unter Ber√ºcksichtigung des zu bearbeitenden Werkstoffes sowie Maschinen und Hilfsmittel ausw√§hlen
-†
+
 bb)
 Drehzahl, Vorschub und Schnitttiefe an Bohrmaschinen unter Ber√ºcksichtigung des Werkstoffes mit Hilfe von Tabellen ermitteln und einstellen
-†
+
 cc)
 Bohrer und Senker mit Bohrfutter und Spannkegel spannen
-†
+
 dd)
 Bohrungen und Kegelsenkungen in Blechen, Platten und Profilteilen mit handgef√ºhrten und ortsfesten Bohrmaschinen herstellen
-†
+
 ee)
 Flachsenkungen mit ortsfesten Bohrmaschinen herstellen
-†
+
 ff)
 Werkzeuge an Schleifb√∂cken scharfschleifen
 c)
 Trennen von Werkstoffen
-†
+
 aa)
 Profile aus Metall und Kunststoff unter Ber√ºcksichtigung des Werkstoffes mit Maschinens√§gen trennen
-†
+
 bb)
 Profile aus Metall mit Winkelschleifer trennen
-†
+
 cc)
 Profile und Platten aus Stahl durch Brennschneiden trennen
 d)
 Herstellen von mechanischen Verbindungen
 10
-†
-†
-†
+
+
+
 aa)
 Verbindungen mittels Schrauben, Muttern und Scheiben herstellen sowie mittels Sicherungselementen, insbesondere mit Federringen und Zahnscheiben, sichern
-†
+
 bb)
 Kleber nach Eigenschaften und Verwendungszweck ausw√§hlen sowie Klebeverbindungen zwischen gleichen und verschiedenen Werkstoffen nach Anweisungen und Unterlagen herstellen
-†
+
 cc)
 Schwei√üeinrichtungen, insbesondere Handschwei√ütransformatoren und Schwei√ühilfsmaterialien, f√ºr das Schmelzschwei√üen ausw√§hlen sowie Einstellwerte festlegen
-†
+
 dd)
 Bleche, Profile und Rohre aus Stahl im Rahmen von Instandsetzungsarbeiten durch Schmelzschwei√üen verbinden
-†
+
 ee)
 l√∂sbare Rohr- und Schlauchverbindungen unter Ber√ºcksichtigung der zu f√∂rdernden Medien, des Druckes und der Temperatur herstellen
-†
+
 ff)
 Transportb√§nder im Rahmen von Reparaturarbeiten durch Kaltvulkanisieren oder Klammern instand setzen
 7
@@ -415,8 +415,8 @@ Instandhalten von Werkzeugen (¬ß 3 Abs. 1 Nr. 7)
 a)
 Werkzeuge f√ºr die Gewinnung, Aufbereitung und Weiterverarbeitung zu Endprodukten nennen
 4
-†
-†
+
+
 b)
 Werkzeuge, Maschinen und Einrichtungen reinigen und pflegen
 c)
@@ -428,8 +428,8 @@ Erschlie√üungs-, Gewinnungs- und F√∂rdertechniken von Rohstoffen (¬ß 3 Abs. 1 Nr
 a)
 betriebliche Rohstoffvorkommen erl√§utern
 8
-†
-†
+
+
 b)
 Gewinnungstechniken von Rohstoffen anhand von Beispielen erl√§utern
 c)
@@ -443,8 +443,8 @@ Verarbeiten von Rohstoffen zu Endprodukten (¬ß 3 Abs. 1 Nr. 9
 a)
 Verfahrenstechniken der Trocken- und Nassaufbereitung gegen√ºberstellen
 14
-†
-†
+
+
 b)
 in Aufbereitungs- oder Produktionsanlagen beim Zerkleinern, Waschen, Klassieren, Trennen sowie bei thermischen Bearbeitungsverfahren mitarbeiten
 c)
@@ -455,164 +455,164 @@ Verwendung der Endprodukte erl√§utern
 Grundlagen der Hydraulik und Pneumatik (¬ß 3 Abs. 1 Nr. 10)
 a)
 Pneumatik und Hydraulik
-†
+
 8
-†
-†
+
+
 aa)
 Schalt- und Funktionspl√§ne pneumatischer und hydraulischer Systeme lesen und skizzieren
-†
+
 bb)
 Sicherheitsregeln zur Vermeidung von Gefahren in hydraulischen und pneumatischen Anlagen beachten und anwenden
-†
+
 cc)
 Druck in pneumatischen und hydraulischen Systemen messen und einstellen
-†
+
 dd)
 Pneumatik- und Hydraulikschaltungen nach Angaben, Zeichnungsvorlagen, Schaltpl√§nen und Vorschriften aufbauen, anschlie√üen und pr√ºfen
 b)
 Elektropneumatik und Elektrohydraulik
-†
+
 aa)
 Schalt- und Funktionspl√§ne von elektropneumatischen und elektrohydraulischen Systemen lesen und skizzieren
-†
+
 bb)
 Sicherheitsregeln zur Vermeidung von Gefahren durch elektrischen Strom anwenden
-†
+
 cc)
 elektrische Bauteile und Baugruppen anhand von Typen- und Leistungsschildern identifizieren, Bauteile und Baugruppen mechanisch montieren und demontieren
-†
+
 dd)
 Funktionsf√§higkeit von elektropneumatischen und elektrohydraulischen Systemen pr√ºfen
 11
 Grundlagen der Elektro-, Mess-, Steuerungs- und Regelungstechnik (¬ß 3 Abs. 1 Nr. 11)
 a)
 Elektrotechnik
-†
+
 10
-†
-†
+
+
 aa)
 einfache elektrische Schaltungsunterlagen lesen und skizzieren
-†
+
 bb)
 elektrische Gr√∂√üen, insbesondere Strom und Spannung mit einfachen Messger√§ten messen; Messergebnisse bewerten
-†
+
 cc)
 Vorschriften √ºber das Arbeiten und Bedienen elektrischer Anlagen beachten
-†
+
 dd)
 Funktionsf√§higkeit elektrischer Baugruppen und elektrischer Sicherheitseinrichtungen feststellen
 b)
 Steuerungstechnik
-†
+
 aa)
 Symbole zur Beschreibung von Steuerungs- und Verfahrensabl√§ufen erkl√§ren und einfache Steuerungsaufgaben mit Funktionspl√§nen darstellen
-†
+
 bb)
 Steuerungen auf Funktionsf√§higkeit pr√ºfen und nach Anweisung in Betrieb nehmen
 c)
 Mess- und Regelungstechnik
-†
+
 aa)
 Unterscheidungsmerkmale einer Steuerung und einer Regelung erl√§utern sowie wesentliche Baugruppen einer Steuerung und einer Regelung zuordnen
-†
+
 bb)
 Reglerarten unterscheiden
-†
+
 cc)
 prinzipielle Arbeitsweise von Messwertaufnehmern erl√§utern
-†
+
 dd)
 Messwertaufnehmer den Hauptanwendungsgebieten zuordnen
-†
+
 ee)
 Sicherheitsregeln zur Vermeidung von Gefahren bei radiometrischen Messeinrichtungen anwenden
-†
+
 ff)
 Einrichtungen zur Regelung von Prozessabl√§ufen unter Anleitung bedienen
 12
 Gewinnen, F√∂rdern und Transportieren von Rohstoffen (¬ß 3 Abs. 1 Nr. 12)
 a)
 Gewinnung Gewinnungsmaschinen und -einrichtungen nach Anweisung bedienen
-†
+
 4
-†
+
 b)
 F√∂rderung und Transport
-†
+
 aa)
 Transportsysteme innerhalb der Rohstofff√∂rderung unterscheiden
-†
+
 bb)
 F√∂rderanlagen und Transportsysteme nach Anweisung bedienen
-†
+
 cc)
 Zusammenwirken von Gewinnung und F√∂rderung innerhalb eines Produktionsablaufes erl√§utern
 13
 Verfahrensabl√§ufe (¬ß 3 Abs. 1 Nr. 13)
 a)
 bei mechanischen Verfahrensabl√§ufen, insbesondere Zerkleinern und Klassieren, mitarbeiten
-†
+
 8
-†
+
 b)
 bei den thermischen Verfahrensabl√§ufen, insbesondere Trocknen und W√§rmebehandlung, mitarbeiten
 14
 Produktions- und Prozesssteuerung (¬ß 3 Abs. 1 Nr. 14)
 a)
 Produktionssteuerung
-†
+
 7
-†
-†
+
+
 aa)
 Materialfluss bei der Erzeugung von Steine- und Erdenprodukten erl√§utern
-†
+
 bb)
 Zusammenh√§nge im Produktionsablauf darstellen
-†
+
 cc)
 Methoden der Datenerfassung und -Verarbeitung f√ºr die Produktionssteuerung erl√§utern
-†
+
 dd)
 Mess-, √úberwachungs- und Kommunikationseinrichtungen bedienen
-†
+
 ee)
 St√∂rungen im Materialfluss erkennen und Ma√ünahmen zu deren Beseitigung veranlassen
-†
+
 ff)
 Produktionsdaten erfassen, abrufen und zur Verarbeitung weiterleiten
-†
+
 gg)
 Produktionsprotokolle handhaben
 b)
 Prozesssteuerung
-†
+
 7
-†
-†
+
+
 aa)
 Aufgaben und Verfahren der Steuerung von Aufbereitungs- und Produktionsprozessen von Steinen und Erden erl√§utern
-†
+
 bb)
 Darstellungen zur Prozesssteuerung lesen
-†
+
 cc)
 Prozessabl√§ufe √ºberwachen und steuern
-†
+
 dd)
 Prozessdaten zur Kontrolle und Steuerung von Prozessabl√§ufen beurteilen und bei Abweichungen von den Sollwerten korrigierende Ma√ünahmen ergreifen
-†
+
 ee)
 Betriebsdaten verarbeiten
 15
 Instandhalten von Maschinen und Anlagen (¬ß 3 Abs. 1 Nr. 15)
 a)
 Produktionseinrichtungen nach Inspektions-, Wartungs- und Betriebsanleitung unter Ber√ºcksichtigung der Sicherheitsvorschriften inspizieren und warten
-†
+
 4
-†
+
 b)
 Funktionsf√§higkeit von Maschinenelementen beurteilen und schadhafte Teile auswechseln
 c)
@@ -623,15 +623,15 @@ Instandsetzungsma√ünahmen durchf√ºhren
 Lagern und Entsorgen (¬ß 3 Abs. 1 Nr. 16)
 a)
 Lagerung Einrichtungen zur Lagerung von Rohstoffen, Teil- und Fertigprodukten bedienen und √ºberwachen
-†
+
 4
-†
+
 b)
 Entsorgung
-†
+
 aa)
 Betriebsstoffe, Hilfsstoffe und Chemikalien unterscheiden und der Entsorgung zuf√ºhren
-†
+
 bb)
 betriebs√ºbliche Gefahrstoffe unter Beachtung der Sicherheitsbestimmungen Zwischenlagern und deren Entsorgung veranlassen
 II. Fertigkeiten und Kenntnisse in den Fachrichtungen gem√§√ü ¬ß 3 Abs. 2
@@ -640,8 +640,8 @@ A. Fachrichtung Baustoffe
 Arbeitsplanung und systematische St√∂rungsbeseitigung (¬ß 3 Abs. 2 Nr. 1 Buchstabe a)
 a)
 Arbeitsabl√§ufe in Produktionsanlagen nach sicherheitstechnischen, organisatorischen und wirtschaftlichen Gesichtspunkten planen, abstimmen und festlegen sowie Arbeitsschritte absichern, m√∂gliche Probleme erfassen und vorbeugende Ma√ünahmen treffen
-†
-†
+
+
 2
 b)
 Arbeitsergebnisse kontrollieren und bewerten
@@ -653,8 +653,8 @@ Ursachen von technischen St√∂rungen in Produktionsanlagen systematisch ermitteln
 Instandsetzen von Maschinen und Anlagen (¬ß 3 Abs. 2 Nr. 1 Buchstabe b)
 a)
 Maschinen- und Anlagenteile nach Vorgabe demontieren, instand setzen und betriebsfertig montieren
-†
-†
+
+
 8
 b)
 instand gesetzte Maschinen und Anlagenteile auf Funktion pr√ºfen
@@ -664,82 +664,82 @@ Sicherheitseinrichtungen beurteilen, festgestellte M√§ngel durch Instandsetzen b
 Probenehmen und Durchf√ºhren von Ma√ünahmen zur Qualit√§tssicherung (¬ß 3 Abs. 2 Nr. 1 Buchstabe c)
 a)
 Probenahme
-†
-†
+
+
 4
-†
+
 aa)
 geeignete Probenahmeverfahren unter Ber√ºcksichtigung des zu beprobenden Gutes hinsichtlich Konsistenz und K√∂rnung sowie √∂rtlicher Gegebenheiten ausw√§hlen
-†
+
 bb)
 Proben unter Beachtung von Sicherheitsvorschriften nehmen
-†
+
 cc)
 Funktion von automatischer Probenahmeeinrichtung √ºberwachen
-†
+
 dd)
 automatische Probenahmeeinrichtungen warten und instand halten
 b)
 Aufbereitungsanalytik
-†
-†
+
+
 12
-†
+
 aa)
 Proben unter Ber√ºcksichtigung des jeweiligen Analyseverfahrens vorbereiten
-†
+
 bb)
 physikalische Analysen durchf√ºhren, insbesondere zur Bestimmung von:
-†
-†
+
+
 - Feuchte
-†
-†
+
+
 -Kornverteilung
-†
-†
+
+
 - spezifischer Oberfl√§che
-†
-†
+
+
 - Dichte
-†
-†
+
+
 - Sch√ºttgewicht
-†
+
 cc)
 chemisch-mineralogische Analysen zur Bestimmung der Elementzusammensetzung durchf√ºhren
-†
+
 dd)
 anwendungstechnische Untersuchungen der Baustoffe hinsichtlich
-†
-†
+
+
 - Verarbeitbarkeit
-†
-†
+
+
 - Festigkeit
-†
-†
+
+
 - Dauerhaftigkeit
-†
-†
+
+
 - Ma√ütoleranzen durchf√ºhren
-†
+
 ee)
 Hilfsstoffe, insbesondere Gefahrstoffe bei der Durchf√ºhrung von Analysen unter Ber√ºcksichtigung der arbeitsrechtlichen Vorschriften handhaben
 c)
 Prozesssteuerung
-†
+
 aa)
 Analyseergebnisse protokollieren, vergleichen und bewerten
-†
+
 bb)
 Steuerungseingriffe aufgrund der Analyseergebnisse veranlassen
 4
 √úberwachen verfahrens- und fertigungstechnischer Abl√§ufe von Brenn- und Veredelungsprozessen (¬ß 3 Abs. 2 Nr. 1 Buchstabe d)
 a)
 verfahrenstechnische Teilschritte und die zugeh√∂rigen Anlagen nennen und ihr Zusammenwirken sowie ihre Auswirkungen anhand von betrieblichen Beispielen erl√§utern
-†
-†
+
+
 8
 b)
 chemische, physikalische und mineralogische Vorg√§nge in den einzelnen Teilschritten erl√§utern
@@ -749,8 +749,8 @@ d)
 Anlagen aus dem Normalbetrieb unter Einhaltung der Sicherheitsvorschriften an- und abfahren
 e)
 Betriebsst√∂rungen in Anlagen erkennen und geeignete Ma√ünahmen zur √úberpr√ºfung in ungest√∂rten Betriebszustand einleiten
-†
-†
+
+
 10
 f)
 M√∂glichkeiten des Abschaltens von Anlagen zum Anlagenschutz nennen
@@ -758,8 +758,8 @@ M√∂glichkeiten des Abschaltens von Anlagen zum Anlagenschutz nennen
 Abf√ºllen, Verladen, Wiegen und Versandvorbereiten von Baustoffen (¬ß 3 Abs. 2 Nr. 1 Buchstabe e)
 a)
 Mischeinrichtungen f√ºr auftragsbezogene Mischprodukte bedienen
-†
-†
+
+
 8
 b)
 Lagerarten der Fertigprodukte nennen
@@ -776,8 +776,8 @@ B. Fachrichtung Transportbeton
 Disponieren von Mischungen, Materialfluss und Materialtransporten (¬ß 3 Abs. 2 Nr. 2 Buchstabe a)
 a)
 Bindemittel, Zuschlagstoffe, Zusatzstoffe, Zusatzmittel und Wasser mengen- und zeitabh√§ngig abrufen
-†
-†
+
+
 12
 b)
 Auftr√§ge nach Liefertermin, Liefermenge, Lieferfolge, Transportmittel, Fahrwege und Witterung sowie unter Ber√ºcksichtigung der Stra√üenverkehrsordnung disponieren
@@ -793,8 +793,8 @@ Versandpapiere und Lieferscheine erstellen
 Herstellen von Transportbeton (¬ß 3 Abs. 2 Nr. 2 Buchstabe b)
 a)
 Maschinen und Anlagen auf Funktionsf√§higkeit √ºberpr√ºfen
-†
-†
+
+
 12
 b)
 Transportbeton nach vorgegebenen Rezepturen EDV-unterst√ºtzt herstellen
@@ -808,8 +808,8 @@ Sicherheitseinrichtungen beurteilen, festgestellte M√§ngel melden und durch Inst
 Herstellen von Werkfrischm√∂rtel (¬ß 3 Abs. 2 Nr. 2 Buchstabe c)
 a)
 Maschinen und Anlagen auf Funktionsf√§higkeit √ºberpr√ºfen
-†
-†
+
+
 10
 b)
 Werkfrischm√∂rtel nach vorgegebenen Rezepturen EDV-unterst√ºtzt herstellen
@@ -823,8 +823,8 @@ Sicherheitseinrichtungen beurteilen, festgestellte M√§ngel melden und durch Inst
 Probenehmen und Durchf√ºhren von Ma√ünahmen zur Qualit√§tssicherung (¬ß 3 Abs. 2 Nr. 2 Buchstabe d)
 a)
 Grundlage der Betontechnologie unter Ber√ºcksichtigung der DIN-Normen "Beton und Stahlbeton", "Pr√ºfverfahren f√ºr Beton" und "G√ºte√ºberwachung" erl√§utern
-†
-†
+
+
 12
 b)
 Sieblinien unter Ber√ºcksichtigung der Ausgangsstoffe zur Herstellung des Endproduktes erstellen
@@ -840,8 +840,8 @@ Ursachen von technischen St√∂rungen in Mischanlagen und F√∂rderger√§ten systemat
 Wiederaufbereiten von Restbeton und Restm√∂rtel (¬ß 3 Abs. 2 Nr. 2 Buchstabe e)
 a)
 Wiederaufbereitungsanlage auf Funktionsf√§higkeit pr√ºfen und in Betrieb nehmen
-†
-†
+
+
 6
 b)
 Wiederaufbereitungsanlage nach Inspektions-, Wartungs- und Betriebsanleitungen inspizieren und warten
@@ -854,8 +854,8 @@ C. Fachrichtung Gipsplatten oder Faserzement
 Arbeitsplanung und systematische St√∂rungsbeseitigung (¬ß 3 Abs. 2 Nr. 3 Buchstabe a)
 a)
 Arbeitsabl√§ufe in Produktionsanlagen nach sicherheitstechnischen, organisatorischen und wirtschaftlichen Gesichtspunkten planen, abstimmen und festlegen sowie Arbeitsschritte absichern, m√∂gliche Probleme erfassen und vorbeugende Ma√ünahmen treffen
-†
-†
+
+
 2
 b)
 Arbeitsergebnisse kontrollieren und bewerten
@@ -867,8 +867,8 @@ Ursachen von technischen St√∂rungen in Produktionsanlagen systematisch ermitteln
 Instandsetzen von Maschinen und Anlagen (¬ß 3 Abs. 2 Nr. 3 Buchstabe b)
 a)
 Maschinen- und Anlagenteile nach Vorgabe demontieren, instand setzen und betriebsfertig montieren
-†
-†
+
+
 8
 b)
 instand gesetzte Maschinen und Anlagenteile auf Funktion pr√ºfen
@@ -878,59 +878,59 @@ Sicherheitseinrichtungen beurteilen, festgestellte M√§ngel melden und durch Inst
 Probenehmen und Durchf√ºhren von Ma√ünahmen zur Qualit√§tssicherung (¬ß 3 Abs. 2 Nr. 3 Buchstabe c)
 a)
 Probenahme
-†
-†
+
+
 4
-†
+
 aa)
 Probenahmeverfahren unter Ber√ºcksichtigung des zu beprobenden Gutes hinsichtlich Konsistenz und K√∂rnung sowie √∂rtlicher Gegebenheiten ausw√§hlen
-†
+
 bb)
 Proben unter Beachtung von Sicherheitsvorschriften nehmen
-†
+
 cc)
 Funktion automatischer Probenahmeeinrichtung √ºberwachen
 b)
 Aufbereitungsanalytik
-†
-†
+
+
 12
-†
+
 aa)
 Proben unter Ber√ºcksichtigung des Analyseverfahrens vorbereiten
-†
+
 bb)
 Analysen durchf√ºhren, insbesondere zur Bestimmung von:
-†
-†
+
+
 - Feuchte
-†
-†
+
+
 - Reinheitsgrad
-†
-†
+
+
 - Wei√ügehalt
-†
-†
+
+
 - Abbindezeit
-†
-†
+
+
 - Festigkeit
-†
-†
+
+
 - Ma√ütoleranz
-†
-†
+
+
 - Dichte
-†
-†
+
+
 - Kornverteilung (Siebanalyse)
 4
 √úberwachen verfahrens- und fertigungstechnischer Abl√§ufe von Produktionsprozessen (¬ß 3 Abs. 2 Nr. 3 Buchstabe d)
 a)
 verfahrenstechnische Teilschritte und die zugeh√∂rigen Anlagen nennen, ihr Zusammenwirken sowie ihre Auswirkungen anhand von betrieblichen Beispielen erl√§utern
-†
-†
+
+
 8
 b)
 chemische, physikalische und mineralogische Vorg√§nge in den einzelnen Teilschritten erl√§utern
@@ -946,8 +946,8 @@ g)
 Anlage aus dem Normalbetrieb unter Einhaltung der Sicherheitsvorschriften an- und abfahren
 h)
 Betriebsst√∂rungen in den Anlagen erkennen und Ma√ünahmen zur √úberf√ºhrung in einen ungest√∂rten Betriebszustand einleiten
-†
-†
+
+
 10
 i)
 M√∂glichkeiten des Abschaltens der Anlagen zum Anlagenschutz nennen
@@ -955,8 +955,8 @@ M√∂glichkeiten des Abschaltens der Anlagen zum Anlagenschutz nennen
 Verladen, Wiegen und Versandvorbereiten von Gipsplatten oder Faserzement (¬ß 3 Abs. 2 Nr. 3 Buchstabe e)
 a)
 Lagerarten der Fertigprodukte nennen
-†
-†
+
+
 8
 b)
 Versandarten f√ºr Fertigprodukte nennen
@@ -971,13 +971,13 @@ Logistik des Versandes erkl√§ren
 g)
 Bestand von Roh-, Hilfs- und Betriebsstoffen sowie Fertigprodukten f√ºhren
 D. Fachrichtung Kalksandsteine oder Porenbeton
-†
+
 1
 Arbeitsplanung und systematische St√∂rungsbeseitigung (¬ß 3 Abs. 2 Nr. 4 Buchstabe a)
 a)
 Arbeitsabl√§ufe in Produktionsanlagen nach sicherheitstechnischen, organisatorischen und wirtschaftlichen Gesichtspunkten planen, abstimmen und festlegen sowie Arbeitsschritte absichern, m√∂gliche Probleme erfassen und vorbeugende Ma√ünahmen treffen
-†
-†
+
+
 5
 b)
 Arbeitsergebnisse kontrollieren und bewerten
@@ -989,8 +989,8 @@ Ursachen von technischen St√∂rungen in Produktionsanlagen systematisch ermitteln
 Instandsetzen von Maschinen und Anlagen (¬ß 3 Abs. 2 Nr. 4 Buchstabe b)
 a)
 Maschinen- und Anlagenteile nach Vorgabe demontieren, instand setzen und betriebsfertig montieren
-†
-†
+
+
 8
 b)
 instand gesetzte Maschinen und Anlagenteile auf Funktion pr√ºfen
@@ -1000,104 +1000,104 @@ Sicherheitseinrichtungen beurteilen, festgestellte M√§ngel melden und durch Inst
 Probenehmen und Durchf√ºhren von Ma√ünahmen zur Qualit√§tssicherung (¬ß 3 Abs. 2 Nr. 4 Buchstabe c)
 a)
 Probenahme
-†
-†
+
+
 4
-†
+
 aa)
 Probenahmeverfahren unter Ber√ºcksichtigung des zu beprobenden Gutes hinsichtlich Konsistenz und K√∂rnung sowie √∂rtlicher Gegebenheiten ausw√§hlen
-†
+
 bb)
 Proben unter Beachtung von Sicherheitsvorschriften nehmen
-†
+
 cc)
 Funktion automatischer Probenahmeeinrichtungen √ºberwachen
 b)
 Aufbereitungsanalytik
-†
-†
+
+
 12
-†
+
 aa)
 Proben unter Ber√ºcksichtigung des Analyseverfahrens vorbereiten
-†
+
 bb)
 Analysen durchf√ºhren, insbesondere zur Bestimmung von:
-†
-†
+
+
 - Feuchte
-†
-†
+
+
 - Sandreinheit
-†
-†
+
+
 - Abbindezeit
-†
-†
+
+
 - Festigkeit
-†
-†
+
+
 - Ma√ütoleranz
-†
-†
+
+
 - Dichte
-†
-†
+
+
 - Litergewicht
-†
-†
+
+
 - Kornverteilung (Siebanalyse)
 4
 √úberwachen verfahrens- und fertigungstechnischer Abl√§ufe von Produktionsprozessen (¬ß 3 Abs. 2 Nr. 4 Buchstabe d)
 a)
 verfahrenstechnische Teilschritte nennen und ihre Auswirkungen erl√§utern
-†
-†
+
+
 10
 b)
 chemische, physikalische und mineralogische Vorg√§nge in den einzelnen Teilschritten erl√§utern
 c)
 Aufbereitung und Formgebung
-†
+
 aa)
 Rohstoffe kontrollieren
-†
+
 bb)
 Anlagen zur Aufbereitung bedienen und warten
-†
+
 cc)
 Mischvorg√§nge √ºberwachen und steuern
-†
+
 dd)
 Schneidemaschinen f√ºr Porenbeton oder Pressen f√ºr Kalksandsteine einrichten, bedienen und warten
 d)
 Autoklavieren
-†
+
 aa)
 Reaktionsvorg√§nge in Autoklaven erl√§utern
-†
+
 bb)
 Dampfh√§rteanlage bedienen, steuern und warten
 e)
 Bewehrungsfertigung
-†
-†
+
+
 5
-†
+
 aa)
 Bewehrungsk√∂rbe auftragsgem√§√ü herstellen
-†
+
 bb)
 Korrosionsschutz aufbringen
 f)
 Nachbehandlung
-†
+
 aa)
 Bauelemente durch S√§gen, Bohren und Fr√§sen nachbearbeiten
-†
+
 bb)
 Bauelemente beschriften und impr√§gnieren
-†
+
 cc)
 Bauelemente zu komplexen Bauteilen verbinden
 g)
@@ -1110,8 +1110,8 @@ M√∂glichkeiten des Abschaltens der Anlagen zum Anlagenschutz nennen
 Versandvorbereiten und Verladen von Kalksandsteinen oder Porenbeton (¬ß 3 Abs. 2 Nr. 4 Buchstabe e)
 a)
 Endprodukte zulassungsgerecht kennzeichnen
-†
-†
+
+
 8
 b)
 Lagerarten der Fertigprodukte nennen
@@ -1128,8 +1128,8 @@ E. Fachrichtung vorgefertigte Betonerzeugnisse
 Arbeitsplanung und systematische St√∂rungsbeseitigung (¬ß 3 Abs. 2 Nr. 5 Buchstabe a)
 a)
 Arbeitsabl√§ufe in Produktionsanlagen nach sicherheitstechnischen, organisatorischen und wirtschaftlichen Gesichtspunkten planen, abstimmen und festlegen sowie Arbeitsschritte absichern, Probleme erfassen und vorbeugende Ma√ünahmen treffen
-†
-†
+
+
 2
 b)
 Arbeitsergebnisse kontrollieren und bewerten
@@ -1141,8 +1141,8 @@ Ursachen von technischen St√∂rungen in Produktionsanlagen systematisch ermitteln
 Qualit√§tssicherung (¬ß 3 Abs. 2 Nr. 5 Buchstabe b)
 a)
 Ziele, Aufgaben, Bedeutung und betrieblichen Aufbau der Qualit√§tssicherung beschreiben
-†
-†
+
+
 6
 b)
 Steuereinrichtungen einstellen und bedienen, Betriebsdaten erfassen
@@ -1154,8 +1154,8 @@ Pr√ºfvorschriften und Dokumentationen anwenden, Anweisungen der Qualit√§tssicher
 Probenahme und Probeanalyse (¬ß 3 Abs. 2 Nr. 5 Buchstabe c)
 a)
 Probenahmeverfahren unter Ber√ºcksichtigung des zu beprobenden Gutes bestimmen
-†
-†
+
+
 10
 b)
 Proben unter Beachtung der Sicherheitsbestimmungen nehmen
@@ -1165,19 +1165,19 @@ d)
 Proben unter Ber√ºcksichtigung des jeweiligen Analyseverfahrens vorbereiten
 e)
 Analysen durchf√ºhren, insbesondere zur Bestimmung von:
-†
+
 - Feuchte
-†
+
 - Kornverteilung
-†
+
 - spezifischer Oberfl√§che
-†
+
 - Dichte
-†
+
 - Sch√ºttgewicht
-†
+
 - Festigkeit
-†
+
 - Abbindezeit
 f)
 automatische Analyseger√§te √ºberwachen und instand halten
@@ -1185,8 +1185,8 @@ automatische Analyseger√§te √ºberwachen und instand halten
 Instandsetzen von Maschinen und Anlagen (¬ß 3 Abs. 2 Nr. 5 Buchstabe d)
 a)
 Maschinen und Anlagenteile nach Vorgabe demontieren, instand setzen und betriebsfertig montieren
-†
-†
+
+
 8
 b)
 instand gesetzte Maschinen und Anlagenteile auf Funktion pr√ºfen
@@ -1196,8 +1196,8 @@ Sicherheitseinrichtungen beurteilen, festgestellte M√§ngel melden und durch Inst
 Herstellen unterschiedlicher Betonsorten (¬ß 3 Abs. 2 Nr. 5 Buchstabe e)
 a)
 Mischanlage auf Funktionsf√§higkeit √ºberpr√ºfen
-†
-†
+
+
 6
 b)
 Mischanlage mit Bindemittel, Zugschlagstoffen, Zusatzmittel und Wasser beschicken
@@ -1209,8 +1209,8 @@ Mischanlage reinigen und instand halten
 Herstellen und Pr√ºfen von vorgefertigten Betonerzeugnissen (¬ß 3 Abs. 2 Nr. 5 Buchstabe f)
 a)
 Betonstahl f√ºr die produktspezifischen Bewehrungen be- und verarbeiten
-†
-†
+
+
 16
 b)
 Maschinen und Anlagen auf Funktionst√ºchtigkeit √ºberpr√ºfen
@@ -1226,8 +1226,8 @@ Maschinen und Anlagen reinigen und instand halten
 Vorbereiten des Versandes und Verladen vorgefertigter Betonerzeugnisse (¬ß 3 Abs. 2 Nr. 5 Buchstabe g)
 a)
 Best√§nde, insbesondere von Rohstoffen, f√ºhren
-†
-†
+
+
 4
 b)
 vorgefertigte Betonerzeugnisse ihren Verwendungsbereichen zuordnen
@@ -1240,8 +1240,8 @@ F. Fachrichtung Asphalttechnik
 Disponieren von Mischungen, Materialfluss und Materialtransporten (¬ß 3 Abs. 2 Nr. 6 Buchstabe a)
 a)
 Verwendungsbereiche von Asphalt im Stra√üen- und Hochbau unterscheiden
-†
-†
+
+
 10
 b)
 Bindemittel, Additive und Mineralstoffe mengen- und zeitabh√§ngig abrufen
@@ -1255,8 +1255,8 @@ Versandpapiere und Lieferscheine erstellen
 Herstellen von Walzasphalt und von Gussasphalt (¬ß 3 Abs. 2 Nr. 6 Buchstabe b)
 a)
 Maschinen und Anlagen auf Vollst√§ndigkeit und Funktionsf√§higkeit √ºberpr√ºfen
-†
-†
+
+
 21
 b)
 Ursachen von technischen St√∂rungen systematisch ermitteln, beheben und beheben lassen
@@ -1274,8 +1274,8 @@ Sicherheitseinrichtungen beurteilen, festgestellte M√§ngel melden und durch Inst
 Einbauen von Walzasphalt und von Gussasphalt (¬ß 3 Abs. 2 Nr. 6 Buchstabe c)
 a)
 Verfahren zum Einbau von Walzasphalt und von Gussasphalt unterscheiden
-†
-†
+
+
 6
 b)
 Walz- und Gussasphalt einbauen
@@ -1285,8 +1285,8 @@ eingebauten Walz- und Gussasphalt beurteilen
 Probenehmen und Durchf√ºhren von Ma√ünahmen zur Qualit√§tssicherung (¬ß 3 Abs. 2 Nr. 6 Buchstabe d)
 a)
 Anforderungen an zu verwendende Stoffe und Produkte unterscheiden
-†
-†
+
+
 15
 b)
 Eigenschaften von Mineralstoffen, Bitumen, Zusatzstoffen, Stra√üenausbaustoffen und Asphalt, insbesondere nach Vorschriften, bewerten

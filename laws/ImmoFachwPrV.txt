@@ -46,7 +46,7 @@ nachweist.
 
 (2) Die Prüfung wird schriftlich und mündlich durchgeführt.
 (3) In den Handlungsbereichen nach Absatz 1 ist schriftlich in Form von anwendungsbezogenen Aufgaben zu prüfen.
-(4) Die Bearbeitungsdauer beträgt im Handlungsbereich �Rahmenbedingungen der Immobilienwirtschaft“ in der Regel 60 Minuten, im Handlungsbereich �Unternehmenssteuerung und Kontrolle“ in der Regel 90 Minuten und in den Handlungsbereichen nach Absatz 1 Nr. 3 bis 6 in der Regel jeweils 120 Minuten. Die Gesamtprüfungszeit soll 600 Minuten nicht unterschreiten und 660 Minuten nicht überschreiten.
+(4) Die Bearbeitungsdauer beträgt im Handlungsbereich Rahmenbedingungen der Immobilienwirtschaft“ in der Regel 60 Minuten, im Handlungsbereich Unternehmenssteuerung und Kontrolle“ in der Regel 90 Minuten und in den Handlungsbereichen nach Absatz 1 Nr. 3 bis 6 in der Regel jeweils 120 Minuten. Die Gesamtprüfungszeit soll 600 Minuten nicht unterschreiten und 660 Minuten nicht überschreiten.
 (5) Wurden in nicht mehr als zwei schriftlichen Prüfungsleistungen mangelhafte Prüfungsleistungen erbracht, ist in diesen Handlungsbereichen jeweils eine mündliche Ergänzungsprüfung anzubieten. Bei einer oder mehreren ungenügenden Leistungen besteht diese Möglichkeit nicht. Die Ergänzungsprüfung soll anwendungsbezogen durchgeführt werden und je Ergänzungsprüfung in der Regel nicht länger als 15 Minuten dauern. Die Bewertungen der schriftlichen Prüfungsleistung und der mündlichen Ergänzungsprüfung werden zu einer Note zusammengefasst. Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
 (6) Die mündliche Prüfung gliedert sich in eine Präsentation und ein Fachgespräch.
 (7) In der Präsentation soll nachgewiesen werden, dass eine komplexe Problemstellung der betrieblichen Praxis dargestellt, beurteilt und gelöst werden kann. Die Themenstellung kann sich auf alle Handlungsbereiche nach Absatz 1 beziehen. Die Dauer der Präsentation soll dabei zehn Minuten nicht überschreiten.
@@ -58,14 +58,14 @@ nachweist.
 
 § 4 - Handlungsbereiche
 
-(1) Im Handlungsbereich �Rahmenbedingungen der Immobilienwirtschaft“ soll die Fähigkeit nachgewiesen werden, für die Immobilienwirtschaft und ihre Unternehmen relevante Informationen auf der Basis von wirtschaftlichen, rechtlichen, gesellschaftlichen und kulturellen Rahmenbedingungen zu erkennen, diese zu beurteilen und Handlungsmöglichkeiten aufzuzeigen. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(1) Im Handlungsbereich Rahmenbedingungen der Immobilienwirtschaft“ soll die Fähigkeit nachgewiesen werden, für die Immobilienwirtschaft und ihre Unternehmen relevante Informationen auf der Basis von wirtschaftlichen, rechtlichen, gesellschaftlichen und kulturellen Rahmenbedingungen zu erkennen, diese zu beurteilen und Handlungsmöglichkeiten aufzuzeigen. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: Die Immobilienbranche im nationalen und europäischen Wirtschafts- und Gesellschaftssystem,
 - 2. :: spezielle Politikfelder, insbesondere Infrastrukturpolitik, Energie- und Umweltpolitik, Wettbewerbs- und Verbraucherschutzpolitik, auch im europäischen Zusammenhang,
 - 3. :: Rahmenbedingungen der Kapitalmärkte,
 - 4. :: Steuern und Abgaben in der Immobilienwirtschaft.
 
-(2) Im Handlungsbereich �Unternehmenssteuerung und Kontrolle“ soll die Fähigkeit nachgewiesen werden, das Zusammenwirken der betrieblichen Aufgabenbereiche bei der Erbringung immobilienwirtschaftlicher Leistungen im Hinblick auf unternehmerische Ziele und Entscheidungen zu beurteilen und einzelne Maßnahmen zu planen, umzusetzen, zu kontrollieren und zu dokumentieren. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(2) Im Handlungsbereich Unternehmenssteuerung und Kontrolle“ soll die Fähigkeit nachgewiesen werden, das Zusammenwirken der betrieblichen Aufgabenbereiche bei der Erbringung immobilienwirtschaftlicher Leistungen im Hinblick auf unternehmerische Ziele und Entscheidungen zu beurteilen und einzelne Maßnahmen zu planen, umzusetzen, zu kontrollieren und zu dokumentieren. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: Organisation, Rechtsformen und betriebswirtschaftliche Funktionen, auch unter Berücksichtigung regionaler Bedingungen,
 - 2. :: Unternehmensfinanzierung, Investitions-, Liquiditäts- und Rentabilitätsplanung und -rechnung,
@@ -76,7 +76,7 @@ nachweist.
 - 7. :: interne Unternehmensrechnung sowie Grundlagen der Jahresabschlussanalyse,
 - 8. :: Planungs- und Kontrollinstrumente.
 
-(3) Im Handlungsbereich �Personal, Arbeitsorganisation und Qualifizierung“ soll die Fähigkeit nachgewiesen werden, betriebliche Leistungsprozesse mit Mitteln der Mitarbeiterführung und arbeitsorganisatorischen Instrumenten zu gestalten sowie Aus- und Weiterbildung zu planen, durchzuführen und zu kontrollieren unter Beachtung des Arbeits- und Tarifrechts sowie der betrieblichen Mitbestimmung. Dabei soll nachgewiesen werden, dass zielorientiert mit Mitarbeitern, Geschäftspartnern und Kunden kommuniziert sowie bei Verhandlungen und in Konfliktfällen lösungsorientiert gehandelt werden kann. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(3) Im Handlungsbereich Personal, Arbeitsorganisation und Qualifizierung“ soll die Fähigkeit nachgewiesen werden, betriebliche Leistungsprozesse mit Mitteln der Mitarbeiterführung und arbeitsorganisatorischen Instrumenten zu gestalten sowie Aus- und Weiterbildung zu planen, durchzuführen und zu kontrollieren unter Beachtung des Arbeits- und Tarifrechts sowie der betrieblichen Mitbestimmung. Dabei soll nachgewiesen werden, dass zielorientiert mit Mitarbeitern, Geschäftspartnern und Kunden kommuniziert sowie bei Verhandlungen und in Konfliktfällen lösungsorientiert gehandelt werden kann. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: Unternehmensleitbilder, Personalstrukturen, Kompetenzprofile,
 - 2. :: Personalbedarfs-, Personaleinsatz- und Personalkostenplanung,
@@ -87,7 +87,7 @@ nachweist.
 - 7. :: Förderung von Lernprozessen, methodische und didaktische Aspekte,
 - 8. :: Moderations-, Präsentations- und Gesprächstechniken.
 
-(4) Im Handlungsbereich �Immobilienbewirtschaftung“ soll die Fähigkeit nachgewiesen werden, Miet- und Eigentumsobjekte mit Wohn- und Gewerbenutzung eigenverantwortlich und kundenorientiert zu bewirtschaften. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(4) Im Handlungsbereich Immobilienbewirtschaftung“ soll die Fähigkeit nachgewiesen werden, Miet- und Eigentumsobjekte mit Wohn- und Gewerbenutzung eigenverantwortlich und kundenorientiert zu bewirtschaften. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: Rechtliche Besonderheiten bei Gestaltung, Auslegung und Beendigung von Mietverträgen mit privaten und gewerblichen Kunden,
 - 2. :: rechtliche Besonderheiten der Wohnungseigentumsverwaltung,
@@ -98,7 +98,7 @@ nachweist.
 - 7. :: Optimierung von Bewirtschaftungskosten,
 - 8. :: Entwicklung und Optimierung von Bestandsimmobilien unter Berücksichtigung des Produktlebenszyklus.
 
-(5) Im Handlungsbereich �Bauprojektmanagement“ soll die Fähigkeit nachgewiesen werden, Neubau, Modernisierung, Abriss und Umnutzung unter Beachtung öffentlich-rechtlicher und zivilrechtlicher Voraussetzungen sowie ökologischer Aspekte planen, koordinieren und kontrollieren zu können. Darüber hinaus soll nachgewiesen werden, Ausschreibungen und Submissionen unter rechtlichen und wirtschaftlichen Gesichtspunkten nach technischen Vorgaben durchzuführen, Bauverträge zu gestalten und zu verhandeln sowie Bautätigkeiten zu überwachen. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(5) Im Handlungsbereich Bauprojektmanagement“ soll die Fähigkeit nachgewiesen werden, Neubau, Modernisierung, Abriss und Umnutzung unter Beachtung öffentlich-rechtlicher und zivilrechtlicher Voraussetzungen sowie ökologischer Aspekte planen, koordinieren und kontrollieren zu können. Darüber hinaus soll nachgewiesen werden, Ausschreibungen und Submissionen unter rechtlichen und wirtschaftlichen Gesichtspunkten nach technischen Vorgaben durchzuführen, Bauverträge zu gestalten und zu verhandeln sowie Bautätigkeiten zu überwachen. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: Projektmanagementmethoden,
 - 2. :: regionale Projektbedingungen,
@@ -109,7 +109,7 @@ nachweist.
 - 7. :: Abnahme und Abrechnung von Bauleistungen,
 - 8. :: Überführung von Bauprojekten in die Immobilienbewirtschaftung.
 
-(6) Im Handlungsbereich �Marktorientierung und Vertrieb, Maklertätigkeit“ soll die Fähigkeit nachgewiesen werden, Teilmärkte in der Immobilienwirtschaft zu unterscheiden und Markterfahrung im Bereich der Akquisition und des Vertriebs unter Berücksichtigung der rechtlichen Rahmenbedingungen und unter Anwendung von Marketinginstrumenten kundenorientiert umzusetzen. Ferner soll nachgewiesen werden, wirtschaftliche Risiken bei der Vermarktung zu berücksichtigen und absatzbezogene Fachaufgaben aus Kundensicht strategisch zu planen, zu analysieren und zu steuern. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(6) Im Handlungsbereich Marktorientierung und Vertrieb, Maklertätigkeit“ soll die Fähigkeit nachgewiesen werden, Teilmärkte in der Immobilienwirtschaft zu unterscheiden und Markterfahrung im Bereich der Akquisition und des Vertriebs unter Berücksichtigung der rechtlichen Rahmenbedingungen und unter Anwendung von Marketinginstrumenten kundenorientiert umzusetzen. Ferner soll nachgewiesen werden, wirtschaftliche Risiken bei der Vermarktung zu berücksichtigen und absatzbezogene Fachaufgaben aus Kundensicht strategisch zu planen, zu analysieren und zu steuern. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: An- und Verkauf von Immobilien,
 - 2. :: Immobilienbewertung und Marktpreisbildung,

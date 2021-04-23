@@ -232,17 +232,17 @@ Abschnitt¬†B:¬†Wahlqualifikationen nach ¬ß 3 Nummer 2 Buchstabe a
 
 (2) Die Abschlusspr√ºfung ist bestanden, wenn die Leistungen
 
-- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 der Abschlusspr√ºfung mit mindestens ‚Äausreichend‚Äú,
-- 2. :: im Ergebnis von Teil 2 der Abschlusspr√ºfung mit mindestens ‚Äausreichend‚Äú,
-- 3. :: im Pr√ºfungsbereich Prozessorientiertes Arbeiten sowie im Pr√ºfungsbereich Analytische Chemie und Wahlqualifikationen jeweils mit mindestens ‚Äausreichend‚Äú und
-- 4. :: in keinem Pr√ºfungsbereich von Teil 2 der Abschlusspr√ºfung mit ‚Äungen√ºgend‚Äú
+- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 der Abschlusspr√ºfung mit mindestens ausreichend‚Äú,
+- 2. :: im Ergebnis von Teil 2 der Abschlusspr√ºfung mit mindestens ausreichend‚Äú,
+- 3. :: im Pr√ºfungsbereich Prozessorientiertes Arbeiten sowie im Pr√ºfungsbereich Analytische Chemie und Wahlqualifikationen jeweils mit mindestens ausreichend‚Äú und
+- 4. :: in keinem Pr√ºfungsbereich von Teil 2 der Abschlusspr√ºfung mit ungen√ºgend‚Äú
 
 bewertet worden sind.
 
 
 ¬ß 10 - M√ºndliche Erg√§nzungspr√ºfung
 
-Auf Antrag des Pr√ºflings ist die Pr√ºfung in einem der in Teil 2 der Abschlusspr√ºfung mit schlechter als ‚Äausreichend‚Äú bewerteten Pr√ºfungsbereiche, in denen Pr√ºfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine m√ºndliche Pr√ºfung von etwa 15 Minuten zu erg√§nzen, wenn dies f√ºr das Bestehen der Pr√ºfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses f√ºr diesen Pr√ºfungsbereich sind das bisherige Ergebnis und das Ergebnis der m√ºndlichen Erg√§nzungspr√ºfung im Verh√§ltnis von 2 : 1 zu gewichten.
+Auf Antrag des Pr√ºflings ist die Pr√ºfung in einem der in Teil 2 der Abschlusspr√ºfung mit schlechter als ausreichend‚Äú bewerteten Pr√ºfungsbereiche, in denen Pr√ºfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine m√ºndliche Pr√ºfung von etwa 15 Minuten zu erg√§nzen, wenn dies f√ºr das Bestehen der Pr√ºfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses f√ºr diesen Pr√ºfungsbereich sind das bisherige Ergebnis und das Ergebnis der m√ºndlichen Erg√§nzungspr√ºfung im Verh√§ltnis von 2 : 1 zu gewichten.
 
 ¬ß 11 - Gegenstand der Berufsausbildung, Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -429,17 +429,17 @@ Abschnitt¬†B:¬†Wahlqualifikationen nach ¬ß 3 Nummer 2 Buchstabe b
 
 (2) Die Abschlusspr√ºfung ist bestanden, wenn die Leistungen
 
-- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 der Abschlusspr√ºfung mit mindestens ‚Äausreichend‚Äú,
-- 2. :: im Ergebnis von Teil 2 der Abschlusspr√ºfung mit mindestens ‚Äausreichend‚Äú,
-- 3. :: im Pr√ºfungsbereich Prozessorientiertes Arbeiten sowie im Pr√ºfungsbereich Biologische Technologien jeweils mit mindestens ‚Äausreichend‚Äú und
-- 4. :: in keinem Pr√ºfungsbereich von Teil 2 der Abschlusspr√ºfung mit ‚Äungen√ºgend‚Äú
+- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 der Abschlusspr√ºfung mit mindestens ausreichend‚Äú,
+- 2. :: im Ergebnis von Teil 2 der Abschlusspr√ºfung mit mindestens ausreichend‚Äú,
+- 3. :: im Pr√ºfungsbereich Prozessorientiertes Arbeiten sowie im Pr√ºfungsbereich Biologische Technologien jeweils mit mindestens ausreichend‚Äú und
+- 4. :: in keinem Pr√ºfungsbereich von Teil 2 der Abschlusspr√ºfung mit ungen√ºgend‚Äú
 
 bewertet worden sind.
 
 
 ¬ß 17 - M√ºndliche Erg√§nzungspr√ºfung
 
-Auf Antrag des Pr√ºflings ist die Pr√ºfung in einem der in Teil 2 der Abschlusspr√ºfung mit schlechter als ‚Äausreichend‚Äú bewerteten Pr√ºfungsbereiche, in denen Pr√ºfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine m√ºndliche Pr√ºfung von etwa 15 Minuten zu erg√§nzen, wenn dies f√ºr das Bestehen der Pr√ºfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses f√ºr diesen Pr√ºfungsbereich sind das bisherige Ergebnis und das Ergebnis der m√ºndlichen Erg√§nzungspr√ºfung im Verh√§ltnis von 2 : 1 zu gewichten.
+Auf Antrag des Pr√ºflings ist die Pr√ºfung in einem der in Teil 2 der Abschlusspr√ºfung mit schlechter als ausreichend‚Äú bewerteten Pr√ºfungsbereiche, in denen Pr√ºfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine m√ºndliche Pr√ºfung von etwa 15 Minuten zu erg√§nzen, wenn dies f√ºr das Bestehen der Pr√ºfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses f√ºr diesen Pr√ºfungsbereich sind das bisherige Ergebnis und das Ergebnis der m√ºndlichen Erg√§nzungspr√ºfung im Verh√§ltnis von 2 : 1 zu gewichten.
 
 ¬ß 18 - Gegenstand der Berufsausbildung, Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -631,17 +631,17 @@ Abschnitt¬†B:¬†Wahlqualifikationen nach ¬ß 3 Nummer 2 Buchstabe c
 
 (2) Die Abschlusspr√ºfung ist bestanden, wenn die Leistungen
 
-- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 der Abschlusspr√ºfung mit mindestens ‚Äausreichend‚Äú,
-- 2. :: im Ergebnis von Teil 2 der Abschlusspr√ºfung mit mindestens ‚Äausreichend‚Äú,
-- 3. :: im Pr√ºfungsbereich Herstellung und Qualit√§tskontrolle sowie im Pr√ºfungsbereich Lack- und Beschichtungstechnologie jeweils mit mindestens ‚Äausreichend‚Äú und
-- 4. :: in keinem Pr√ºfungsbereich von Teil 2 der Abschlusspr√ºfung mit ‚Äungen√ºgend‚Äú
+- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 der Abschlusspr√ºfung mit mindestens ausreichend‚Äú,
+- 2. :: im Ergebnis von Teil 2 der Abschlusspr√ºfung mit mindestens ausreichend‚Äú,
+- 3. :: im Pr√ºfungsbereich Herstellung und Qualit√§tskontrolle sowie im Pr√ºfungsbereich Lack- und Beschichtungstechnologie jeweils mit mindestens ausreichend‚Äú und
+- 4. :: in keinem Pr√ºfungsbereich von Teil 2 der Abschlusspr√ºfung mit ungen√ºgend‚Äú
 
 bewertet worden sind.
 
 
 ¬ß 24 - M√ºndliche Erg√§nzungspr√ºfung
 
-Auf Antrag des Pr√ºflings ist die Pr√ºfung in einem der in Teil 2 der Abschlusspr√ºfung mit schlechter als ‚Äausreichend‚Äú bewerteten Pr√ºfungsbereiche, in denen Pr√ºfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine m√ºndliche Pr√ºfung von etwa 15 Minuten zu erg√§nzen, wenn dies f√ºr das Bestehen der Pr√ºfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses f√ºr diesen Pr√ºfungsbereich sind das bisherige Ergebnis und das Ergebnis der m√ºndlichen Erg√§nzungspr√ºfung im Verh√§ltnis von 2 : 1 zu gewichten.
+Auf Antrag des Pr√ºflings ist die Pr√ºfung in einem der in Teil 2 der Abschlusspr√ºfung mit schlechter als ausreichend‚Äú bewerteten Pr√ºfungsbereiche, in denen Pr√ºfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine m√ºndliche Pr√ºfung von etwa 15 Minuten zu erg√§nzen, wenn dies f√ºr das Bestehen der Pr√ºfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses f√ºr diesen Pr√ºfungsbereich sind das bisherige Ergebnis und das Ergebnis der m√ºndlichen Erg√§nzungspr√ºfung im Verh√§ltnis von 2 : 1 zu gewichten.
 
 ¬ß 25 - (Inkrafttreten, Au√üerkrafttreten)
 
@@ -727,7 +727,7 @@ Aufbau und Organisation des Ausbildungsbetriebes\\
 
 Betriebliche Ma√ünahmen zum verantwortlichen Handeln
 
-†
+
 
 3.1
 
@@ -742,15 +742,15 @@ Sicherheit und Gesundheitsschutz bei der Arbeit\\
 - f) :: pers√∂nliche Schutzausr√ºstungen ausw√§hlen und handhaben
 - g) :: Sicherheitseinrichtungen am Arbeitsplatz bedienen und ihre Funktionsf√§higkeit erhalten
 
-†
 
-†
+
+
 
 - h) :: Explosionsgefahren beschreiben und Ma√ünahmen zum Explosionsschutz ergreifen
 - i) :: Kennzeichnungen und Kennzeichnungsfarben Beh√§ltern und F√∂rdersystemen zuordnen
 - j) :: Regeln der Arbeitshygiene anwenden
 
-†
+
 
 3.2
 
@@ -775,9 +775,9 @@ Einsetzen von Energietr√§gern\\
 
 2
 
-†
 
-†
+
+
 
 3.4
 
@@ -790,9 +790,9 @@ Umgehen mit Arbeitsger√§ten und -mitteln einschlie√ülich Pflege und Wartung\\
 
 3
 
-†
 
-†
+
+
 
 3.5
 
@@ -805,7 +805,7 @@ Qualit√§tssichernde Ma√ünahmen, Kundenorientierung\\
 - d) :: statistische Methoden aufgabenbezogen anwenden
 - e) :: Kundenorientierung bei der Aufgabenerledigung ber√ºcksichtigen
 
-†
+
 
 3.6
 
@@ -820,7 +820,7 @@ Wirtschaftlichkeit im Labor\\
 
 Arbeitsorganisation und Kommunikation
 
-†
+
 
 \\
 \\
@@ -863,9 +863,9 @@ Kommunikations- und Informationssysteme\\
 
 3
 
-†
 
-†
+
+
 
 4.4
 
@@ -878,9 +878,9 @@ Messdatenerfassung und -verarbeitung\\
 
 3
 
-†
 
-†
+
+
 
 4.5
 
@@ -904,15 +904,15 @@ Umgehen mit Arbeitsstoffen\\
 - b) :: Vorschriften zum Umgang mit Gefahrstoffen anwenden, insbesondere Gefahrensymbole und -bezeichnungen von Arbeitsstoffen erkl√§ren und beachten
 - c) :: Arbeitsstoffe kennzeichnen
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 - d) :: Reaktionsgleichungen von chemischen Umsetzungen aufstellen
 - e) :: Konzentrationen berechnen und st√∂chiometrische Aufgaben l√∂sen
@@ -922,17 +922,17 @@ Umgehen mit Arbeitsstoffen\\
 
 4
 
-†
 
-†
+
+
 
 6
 
 Chemische und physikalische Methoden
 
-†
 
-†
+
+
 
 6.1
 
@@ -944,9 +944,9 @@ Probenahme und Probenvorbereitung\\
 
 2
 
-†
 
-†
+
+
 
 6.2
 
@@ -959,9 +959,9 @@ Bestimmung physikalischer Gr√∂√üen und Stoffkonstanten\\
 
 3
 
-†
 
-†
+
+
 
 6.3
 
@@ -974,9 +974,9 @@ Analyseverfahren\\
 
 4
 
-†
 
-†
+
+
 
 6.4
 
@@ -988,9 +988,9 @@ Trennen und Vereinigen von Arbeitsstoffen\\
 
 2
 
-†
 
-†
+
+
 
 Pflichtqualifikationen nach ¬ß 3 Nummer 1.2 Buchstabe a
 
@@ -1027,9 +1027,9 @@ Woche
 
 Durchf√ºhren analytischer Arbeiten
 
-†
 
-†
+
+
 
 7.1
 
@@ -1040,9 +1040,9 @@ Vorbereiten von Proben\\
 - b) :: Proben zur Messung vorbereiten
 - c) :: Referenzmaterialien ausw√§hlen und zur Messung vorbereiten
 
-†
 
-†
+
+
 
 3
 
@@ -1056,9 +1056,9 @@ Qualitative Analyse\\
 
 4
 
-†
 
-†
+
+
 
 7.3
 
@@ -1069,15 +1069,15 @@ Spektroskopie\\
 
 4
 
-†
 
-†
+
+
 
 - b) :: Stoffe mit UV/VIS- und IR-Spektrometern qualitativ und quantitativ analysieren
 
-†
 
-†
+
+
 
 5
 
@@ -1093,7 +1093,7 @@ Gravimetrie\\
 
 5
 
-†
+
 
 7.5
 
@@ -1107,9 +1107,9 @@ Ma√üanalyse\\
 - d) :: direkte und indirekte volumetrische Bestimmungen oxidimetrisch-reduktometrisch durchf√ºhren
 - e) :: Bestimmungen nach mindestens zwei unterschiedlichen Methoden, insbesondere potenziometrisch, konduktometrisch oder polarografisch, durchf√ºhren
 
-†
 
-†
+
+
 
 6
 
@@ -1120,17 +1120,17 @@ Chromatografie\\
 
 - a) :: Identit√§tspr√ºfungen durchf√ºhren
 
-†
+
 
 5
 
-†
+
 
 - b) :: Stoffgemische chromatografisch trennen und die Analyten quantitativ bestimmen
 
-†
 
-†
+
+
 
 6
 
@@ -1143,17 +1143,17 @@ Messergebnisse analytischer Arbeiten auswerten, dokumentieren und auf Plausibili
 
 3
 
-†
 
-†
+
+
 
 8
 
 Durchf√ºhren pr√§parativer Arbeiten
 
-†
 
-†
+
+
 
 8.1
 
@@ -1168,17 +1168,17 @@ Herstellen von Pr√§paraten\\
 
 6
 
-†
+
 
 - d) :: organische oder anorganische Verbindung √ºber mehrere Stufen nach Vorschrift herstellen
 - e) :: Ma√ünahmen zur Verschiebung des Reaktionsgleichgewichtes ergreifen
 - f) :: Katalysatoren zur Reaktionsbeschleunigung einsetzen
 
-†
+
 
 6
 
-†
+
 
 8.2
 
@@ -1196,7 +1196,7 @@ Trennen und Reinigen von Stoffen\\
 
 4
 
-†
+
 
 8.3
 
@@ -1209,7 +1209,7 @@ Edukte, Zwischen- und Endprodukte durch mindestens vier Methoden charakterisiere
 
 6
 
-†
+
 
 Abschnitt B: Wahlqualifikationen nach ¬ß 3 Nummer 2 Buchstabe a
 
@@ -1261,9 +1261,9 @@ Pr√§parative Chemie: Reaktionstypen und -f√ºhrung\\
 - d) :: Verbindungen √ºber mehrere Stufen unter Anwenden unterschiedlicher Reaktionstypen herstellen
 - e) :: Ausgangsstoffe, Zwischen- und Endprodukte auf Einhaltung der Spezifikation pr√ºfen und das Ergebnis dokumentieren
 
-†
 
-†
+
+
 
 13
 
@@ -1286,9 +1286,9 @@ Pr√§parative Chemie: Synthesetechnik\\
 - b) :: Verfahrensbedingungen durch unterschiedliche Reaktionsf√ºhrungen optimieren
 - c) :: Ausgangsstoffe, Zwischen- und Endprodukte auf Einhaltung der Spezifikation pr√ºfen und das Ergebnis dokumentieren
 
-†
 
-†
+
+
 
 13
 
@@ -1303,9 +1303,9 @@ Durchf√ºhren verfahrenstechnischer Arbeiten\\
 - d) :: Verfahren auf ver√§nderte Ma√üst√§be √ºbertragen und optimieren
 - e) :: verfahrenstechnische Prozesse steuern und regeln
 
-†
 
-†
+
+
 
 13
 
@@ -1321,9 +1321,9 @@ Anwenden probenahmetechnischer und analytischer Verfahren\\
 - e) :: Verfahrensschritte optimieren
 - f) :: Analyseverfahren validieren
 
-†
 
-†
+
+
 
 13
 
@@ -1339,9 +1339,9 @@ Anwenden chromatografischer Verfahren\\
 - e) :: Mehrstoffgemische unter Anwenden von mindestens drei unterschiedlichen Verfahren analysieren
 - f) :: Chromatogramme interpretieren
 
-†
 
-†
+
+
 
 13
 
@@ -1357,9 +1357,9 @@ Anwenden spektroskopischer Verfahren\\
 - e) :: Stoffe mit unterschiedlichen spektroskopischen Methoden analysieren
 - f) :: Spektren interpretieren
 
-†
 
-†
+
+
 
 13
 
@@ -1380,9 +1380,9 @@ Durchf√ºhren mikrobiologischer Arbeiten\\
 - j) :: betriebliche Einsatzm√∂glichkeiten biotechnologischer Verfahren erl√§utern
 - k) :: biotechnologische Verfahren durchf√ºhren
 
-†
 
-†
+
+
 
 13
 
@@ -1396,9 +1396,9 @@ Pr√ºfen von Werkstoffen\\
 - c) :: Werkstoffe nach zerst√∂rungsfreier und zerst√∂render Methode pr√ºfen
 - d) :: Pr√ºfergebnis auf Plausibilit√§t beurteilen und dokumentieren
 
-†
 
-†
+
+
 
 13
 
@@ -1414,9 +1414,9 @@ Herstellen, Applizieren und Pr√ºfen von Beschichtungsstoffen und -systemen\\
 - e) :: Beschichtungsstoff unter Ber√ºcksichtigung des Filmbildungsmechanismus h√§rten
 - f) :: Beschichtung nach Anforderungsprofil pr√ºfen, bewerten und optimieren
 
-†
 
-†
+
+
 
 13
 
@@ -1431,9 +1431,9 @@ Prozessbezogene Arbeitstechniken\\
 - d) :: Prozessablauf kontrollieren und dokumentieren
 - e) :: Ergebnisse pr√ºfen, bewerten und dokumentieren
 
-†
 
-†
+
+
 
 13
 
@@ -1447,9 +1447,9 @@ Umweltbezogene Arbeitstechniken\\
 - c) :: Emissionen und Immissionen messen
 - d) :: Untersuchungsergebnisse mit Bestimmungen von Regelwerken vergleichen, dokumentieren und beurteilen sowie Ma√ünahmen veranlassen
 
-†
 
-†
+
+
 
 13
 
@@ -1466,9 +1466,9 @@ Digitalisierung in Forschung, Entwicklung, Analytik und Produktion\\
 - f) :: digitale Medien f√ºr das Lernen im betrieblichen Alltag selbstt√§tig nutzen
 - g) :: rechtliche und betriebliche Vorgaben zum Schutz und zur Sicherheit digitaler Daten einhalten
 
-†
 
-†
+
+
 
 13
 
@@ -1482,9 +1482,9 @@ Arbeiten mit vernetzten und automatisierten Systemen\\
 - c) :: Daten √ºber digitale Netze austauschen
 - d) :: Soft- und Hardwarest√∂rungen an Systemen erkennen und Ma√ünahmen zur Beseitigung der St√∂rung einleiten
 
-†
 
-†
+
+
 
 13
 
@@ -1497,9 +1497,9 @@ Anwendungstechnische Arbeiten, Kundenbetreuung\\
 - b) :: Stoffe hinsichtlich des geplanten Einsatzes chemisch und technisch optimieren
 - c) :: Kunden beraten und Probleml√∂sungen erarbeiten
 
-†
 
-†
+
+
 
 13
 
@@ -1514,9 +1514,9 @@ Qualit√§tsmanagement\\
 - d) :: Regeln Guter Laborpraxis (GLP), Guter Herstellungspraxis (GMP) oder vergleichbare Regelungen anwenden
 - e) :: bei der internen √úberpr√ºfung des Qualit√§tsmanagements mitwirken
 
-†
 
-†
+
+
 
 13
 
@@ -1532,9 +1532,9 @@ Durchf√ºhren immunologischer und biochemischer Arbeiten\\
 - e) :: Proteine durch Blotting-Verfahren identifizieren
 - f) :: Antigen- und Antik√∂rpernachweise durchf√ºhren
 
-†
 
-†
+
+
 
 13
 
@@ -1550,9 +1550,9 @@ Durchf√ºhren gentechnischer und molekularbiologischer Arbeiten\\
 - e) :: Nucleins√§uren, insbesondere durch Polymerase-Kettenreaktion (PCR), vervielf√§ltigen
 - f) :: Plasmide isolieren
 
-†
 
-†
+
+
 
 13
 
@@ -1566,9 +1566,9 @@ Durchf√ºhren zellkulturtechnischer Arbeiten\\
 - c) :: Stammhaltung von Zellen durchf√ºhren
 - d) :: Untersuchungen an Zellkulturen durchf√ºhren
 
-†
 
-†
+
+
 
 13
 
@@ -1582,9 +1582,9 @@ Formulieren, Herstellen und Pr√ºfen von Bindemitteln\\
 - c) :: Syntheseapparatur ausw√§hlen und einsetzen
 - d) :: Bindemittel herstellen und Reaktionsverlauf anhand ermittelter Kenndaten steuern
 
-†
 
-†
+
+
 
 13
 
@@ -1599,9 +1599,9 @@ Durchf√ºhren farbmetrischer Arbeiten\\
 - d) :: Farbmittel nach optischen, chemischen und thermischen Eigenschaften ausw√§hlen
 - e) :: Farbt√∂ne nach farbmetrischen Daten ausarbeiten
 
-†
 
-†
+
+
 
 13
 
@@ -1690,7 +1690,7 @@ Aufbau und Organisation des Ausbildungsbetriebes\\
 
 Betriebliche Ma√ünahmen zum verantwortlichen Handeln
 
-†
+
 
 3.1
 
@@ -1705,15 +1705,15 @@ Sicherheit und Gesundheitsschutz bei der Arbeit\\
 - f) :: pers√∂nliche Schutzausr√ºstungen ausw√§hlen und handhaben
 - g) :: Sicherheitseinrichtungen am Arbeitsplatz bedienen und ihre Funktionsf√§higkeit erhalten
 
-†
 
-†
+
+
 
 - h) :: Explosionsgefahren beschreiben und Ma√ünahmen zum Explosionsschutz ergreifen
 - i) :: Kennzeichnungen und Kennzeichnungsfarben Beh√§ltern und F√∂rdersystemen zuordnen
 - j) :: Regeln der Arbeitshygiene anwenden
 
-†
+
 
 3.2
 
@@ -1738,9 +1738,9 @@ Einsetzen von Energietr√§gern\\
 
 2
 
-†
 
-†
+
+
 
 3.4
 
@@ -1753,9 +1753,9 @@ Umgehen mit Arbeitsger√§ten und -mitteln einschlie√ülich Pflege und Wartung\\
 
 3
 
-†
 
-†
+
+
 
 3.5
 
@@ -1768,7 +1768,7 @@ Qualit√§tssichernde Ma√ünahmen, Kundenorientierung\\
 - d) :: statistische Methoden aufgabenbezogen anwenden
 - e) :: Kundenorientierung bei der Aufgabenerledigung ber√ºcksichtigen
 
-†
+
 
 3.6
 
@@ -1782,7 +1782,7 @@ Wirtschaftlichkeit im Labor (¬ß 11 Absatz 2 Abschnitt A Nummer 3.6)
 
 Arbeitsorganisation und Kommunikation
 
-†
+
 
 \\
 \\
@@ -1826,9 +1826,9 @@ Kommunikations- und Informationssysteme\\
 
 3
 
-†
 
-†
+
+
 
 4.4
 
@@ -1841,9 +1841,9 @@ Messdatenerfassung und -verarbeitung\\
 
 3
 
-†
 
-†
+
+
 
 4.5
 
@@ -1866,15 +1866,15 @@ Umgehen mit Arbeitsstoffen\\
 - a) :: laborspezifische Werkstoffe Einsatzgebieten zuordnen und mit diesen Werkstoffen umgehen
 - b) :: Vorschriften zum Umgang mit Gefahrstoffen anwenden, insbesondere Gefahrensymbole und -bezeichnungen von Arbeitsstoffen erkl√§ren und beachten
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 - c) :: Arbeitsstoffe kennzeichnen
 - d) :: Reaktionsgleichungen von chemischen Umsetzungen aufstellen
@@ -1886,17 +1886,17 @@ Umgehen mit Arbeitsstoffen\\
 \\
 4
 
-†
 
-†
+
+
 
 6
 
 Chemische und physikalische Methoden
 
-†
 
-†
+
+
 
 6.1
 
@@ -1908,9 +1908,9 @@ Probenahme und Probenvorbereitung\\
 
 2
 
-†
 
-†
+
+
 
 6.2
 
@@ -1923,9 +1923,9 @@ Bestimmung physikalischer Gr√∂√üen und Stoffkonstanten\\
 
 3
 
-†
 
-†
+
+
 
 6.3
 
@@ -1938,9 +1938,9 @@ Analyseverfahren\\
 
 4
 
-†
 
-†
+
+
 
 6.4
 
@@ -1952,9 +1952,9 @@ Trennen und Vereinigen von Arbeitsstoffen\\
 
 2
 
-†
 
-†
+
+
 
 Pflichtqualifikationen nach ¬ß 3 Nummer 1.2 Buchstabe b
 
@@ -1997,15 +1997,15 @@ Durchf√ºhren mikrobiologischer Arbeiten I\\
 - c) :: kontaminiertes Material entsorgen
 - d) :: N√§hrmedien herstellen
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 - e) :: Mikroorganismen in der Umwelt nachweisen
 - f) :: Impf- und Kulturtechniken f√ºr Aerobier anwenden
@@ -2018,9 +2018,9 @@ Durchf√ºhren mikrobiologischer Arbeiten I\\
 \\
 12
 
-†
 
-†
+
+
 
 8
 
@@ -2033,9 +2033,9 @@ Durchf√ºhren zellkulturtechnischer Arbeiten I\\
 
 7
 
-†
 
-†
+
+
 
 9
 
@@ -2046,9 +2046,9 @@ Durchf√ºhren molekularbiologischer Arbeiten\\
 - b) :: Nucleins√§uren schneiden und ligieren
 - c) :: Nucleins√§uren elektroforetisch trennen und nachweisen
 
-†
 
-†
+
+
 
 10
 
@@ -2061,18 +2061,18 @@ Durchf√ºhren biochemischer Arbeiten\\
 
 4
 
-†
 
-†
+
+
 
 - b) :: enzymatische Analysen durchf√ºhren
 - c) :: biologisches Material aufarbeiten
 - d) :: Proteingemische elektroforetisch trennen
 - e) :: Proteine reinigen
 
-†
 
-†
+
+
 
 9
 
@@ -2080,9 +2080,9 @@ Durchf√ºhren biochemischer Arbeiten\\
 
 Durchf√ºhren diagnostischer Arbeiten I
 
-†
 
-†
+
+
 
 11.1
 
@@ -2093,20 +2093,20 @@ Durchf√ºhren h√§matologischer Arbeiten\\
 - b) :: Blutausstriche f√§rben
 - c) :: Blutbestandteile identifizieren und bestimmen
 
-†
+
 
 4
 
-†
+
 
 - d) :: Gerinnungstests durchf√ºhren und Gerinnungszeiten ermitteln
 - e) :: Antigen-Antik√∂rper-Reaktion durchf√ºhren
 
-†
+
 
 2
 
-†
+
 
 11.2
 
@@ -2116,24 +2116,24 @@ Durchf√ºhren histologischer Arbeiten\\
 - a) :: Gewebe und Gewebeproben von Organismen entnehmen, fixieren und einbetten
 - b) :: Gewebeschnitte herstellen, f√§rben und eindecken
 
-†
+
 
 5
 
-†
 
-†
 
-†
+
+
+
 
 - c) :: histologische Pr√§parate mikroskopieren und identifizieren
 - d) :: Objekte in histologischen Pr√§paraten mikroskopisch vermessen
 
-†
 
-†
 
-†
+
+
+
 
 12
 
@@ -2155,11 +2155,11 @@ Durchf√ºhren zoologisch-pharmakologischer Arbeiten\\
 - m) :: Versuchstiere, insbesondere Nagetiere, nach den Bestimmungen des Tierschutzrechts t√∂ten
 - n) :: Sektionen an Versuchstieren, insbesondere an Nagetieren, durchf√ºhren
 
-†
+
 
 22
 
-†
+
 
 13
 
@@ -2171,9 +2171,9 @@ Bereichsspezifische qualit√§tssichernde Ma√ünahmen\\
 
 3
 
-†
 
-†
+
+
 
 Abschnitt B: Wahlqualifikationen nach ¬ß 3 Nummer 2 Buchstabe b
 
@@ -2216,9 +2216,9 @@ Durchf√ºhren immunologischer und biochemischer Arbeiten\\
 - c) :: Antigen- und Antik√∂rpernachweis durchf√ºhren
 - d) :: Proteine durch Blotting-Verfahren identifizieren
 
-†
 
-†
+
+
 
 13
 
@@ -2232,9 +2232,9 @@ Durchf√ºhren biotechnologischer Arbeiten\\
 - c) :: Zellen im Fermenter kultivieren und Proben entnehmen
 - d) :: Fermentationsprodukte aufarbeiten
 
-†
 
-†
+
+
 
 13
 
@@ -2250,9 +2250,9 @@ Arbeiten\\
 - d) :: morphologische und physiologische Untersuchungen an Pflanzen durchf√ºhren, Pflanzensch√§den feststellen
 - e) :: Wirkstoffe in vitro und in vivo testen
 
-†
 
-†
+
+
 
 13
 
@@ -2267,9 +2267,9 @@ Durchf√ºhren mikrobiologischer Arbeiten II\\
 - d) :: Anaerobier kultivieren
 - e) :: Pilze kultivieren
 
-†
 
-†
+
+
 
 13
 
@@ -2286,9 +2286,9 @@ Durchf√ºhren gentechnischer und molekularbiologischer Arbeiten\\
 - f) :: Plasmide isolieren
 - g) :: Transformationen durchf√ºhren und Transformationsrate bestimmen
 
-†
 
-†
+
+
 
 13
 
@@ -2300,9 +2300,9 @@ Durchf√ºhren pharmakologischer Arbeiten\\
 - a) :: Wirbeltiere narkotisieren und f√ºr die Versuchsdurchf√ºhrung pr√§parieren
 - b) :: Wirkstoffe in vitro und in vivo testen sowie Messwerte erfassen, auswerten und dokumentieren
 
-†
 
-†
+
+
 
 13
 
@@ -2315,9 +2315,9 @@ Durchf√ºhren toxikologischer Arbeiten\\
 - b) :: bei der Planung toxikologischer Studien mitwirken
 - c) :: toxikologische Untersuchungen durchf√ºhren
 
-†
 
-†
+
+
 
 13
 
@@ -2330,9 +2330,9 @@ Durchf√ºhren zellkulturtechnischer Arbeiten II\\
 - b) :: Prim√§rkulturen anlegen
 - c) :: Untersuchungen an Zellkulturen durchf√ºhren
 
-†
 
-†
+
+
 
 13
 
@@ -2346,9 +2346,9 @@ Durchf√ºhren pharmakokinetischer Arbeiten\\
 - c) :: Metaboliten von Wirkstoffen bestimmen
 - d) :: Kinetiken durchf√ºhren
 
-†
 
-†
+
+
 
 13
 
@@ -2365,9 +2365,9 @@ Digitalisierung in Forschung, Entwicklung, Analytik und Produktion\\
 - f) :: digitale Medien f√ºr das Lernen im betrieblichen Alltag selbstt√§tig nutzen
 - g) :: rechtliche und betriebliche Vorgaben zum Schutz und zur Sicherheit digitaler Daten einhalten
 
-†
 
-†
+
+
 
 13
 
@@ -2381,9 +2381,9 @@ Arbeiten mit vernetzten und automatisierten Systemen\\
 - c) :: Daten √ºber digitale Netze austauschen
 - d) :: Soft- und Hardwarest√∂rungen an Systemen erkennen und Ma√ünahmen zur Beseitigung der St√∂rung einleiten
 
-†
 
-†
+
+
 
 13
 
@@ -2398,9 +2398,9 @@ Prozessbezogene Arbeitstechniken\\
 - d) :: Prozessablauf kontrollieren und dokumentieren
 - e) :: Ergebnisse pr√ºfen, bewerten und dokumentieren
 
-†
 
-†
+
+
 
 13
 
@@ -2414,9 +2414,9 @@ Umweltbezogene Arbeitstechniken\\
 - c) :: Emissionen und Immissionen messen
 - d) :: Untersuchungsergebnisse mit Bestimmungen von Regelwerken vergleichen, dokumentieren und beurteilen sowie Ma√ünahmen veranlassen
 
-†
 
-†
+
+
 
 13
 
@@ -2431,9 +2431,9 @@ Qualit√§tsmanagement\\
 - d) :: Regeln Guter Laborpraxis (GLP), Guter Herstellungspraxis (GMP) oder vergleichbare Regelungen anwenden
 - e) :: bei der internen √úberpr√ºfung des Qualit√§tsmanagements mitwirken
 
-†
 
-†
+
+
 
 13
 
@@ -2449,9 +2449,9 @@ Anwenden chromatografischer Verfahren\\
 - e) :: Mehrstoffgemische unter Anwenden von mindestens drei unterschiedlichen Verfahren analysieren
 - f) :: Chromatogramme interpretieren
 
-†
 
-†
+
+
 
 13
 
@@ -2467,9 +2467,9 @@ Anwenden spektroskopischer Verfahren\\
 - e) :: Stoffe mit unterschiedlichen spektroskopischen Methoden analysieren
 - f) :: Spektren interpretieren
 
-†
 
-†
+
+
 
 13
 
@@ -2541,9 +2541,9 @@ w√§hrend\\
 der gesamten\\
 Ausbildung
 
-†
 
-†
+
+
 
 - c) :: M√∂glichkeiten der beruflichen Fortbildung nennen
 - d) :: wesentliche Teile des Arbeitsvertrages nennen
@@ -2563,7 +2563,7 @@ Aufbau und Organisation des Ausbildungsbetriebes\\
 
 Betriebliche Ma√ünahmen zum verantwortlichen Handeln
 
-†
+
 
 3.1
 
@@ -2579,14 +2579,14 @@ Sicherheit und Gesundheitsschutz bei der Arbeit\\
 - g) :: Sicherheitseinrichtungen am Arbeitsplatz bedienen und ihre Funktionsf√§higkeit erhalten
 - h) :: Explosionsgefahren beschreiben und Ma√ünahmen zum Explosionsschutz ergreifen
 
-†
 
-†
+
+
 
 - i) :: Kennzeichnungen und Kennzeichnungsfarben Beh√§ltern und F√∂rdersystemen zuordnen
 - j) :: Regeln der Arbeitshygiene anwenden
 
-†
+
 
 3.2
 
@@ -2611,9 +2611,9 @@ Einsetzen von Energietr√§gern\\
 
 2
 
-†
 
-†
+
+
 
 3.4
 
@@ -2626,9 +2626,9 @@ Umgehen mit Arbeitsger√§ten und -mitteln einschlie√ülich Pflege und Wartung\\
 
 3
 
-†
 
-†
+
+
 
 3.5
 
@@ -2658,9 +2658,9 @@ Wirtschaftlichkeit im Labor\\
 
 Arbeitsorganisation und Kommunikation
 
-†
 
-†
+
+
 
 4.1
 
@@ -2700,9 +2700,9 @@ Kommunikations- und Informationssysteme\\
 
 3
 
-†
 
-†
+
+
 
 4.4
 
@@ -2715,9 +2715,9 @@ Messdatenerfassung und -verarbeitung\\
 
 3
 
-†
 
-†
+
+
 
 4.5
 
@@ -2740,15 +2740,15 @@ Umgehen mit Arbeitsstoffen\\
 - a) :: laborspezifische Werkstoffe Einsatzgebieten zuordnen und mit diesen Werkstoffen umgehen
 - b) :: Vorschriften zum Umgang mit Gefahrstoffen anwenden, insbesondere Gefahrensymbole und -bezeichnungen von Arbeitsstoffen erkl√§ren und beachten
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 - c) :: Arbeitsstoffe kennzeichnen
 - d) :: Reaktionsgleichungen von chemischen Umsetzungen aufstellen
@@ -2761,17 +2761,17 @@ Umgehen mit Arbeitsstoffen\\
 \\
 4
 
-†
 
-†
+
+
 
 6
 
 Chemische und physikalische Methoden
 
-†
 
-†
+
+
 
 6.1
 
@@ -2783,9 +2783,9 @@ Probenahme und Probenvorbereitung\\
 
 2
 
-†
 
-†
+
+
 
 6.2
 
@@ -2798,9 +2798,9 @@ Bestimmung physikalischer Gr√∂√üen und Stoffkonstanten\\
 
 3
 
-†
 
-†
+
+
 
 6.3
 
@@ -2813,9 +2813,9 @@ Analyseverfahren\\
 
 4
 
-†
 
-†
+
+
 
 6.4
 
@@ -2827,9 +2827,9 @@ Trennen und Vereinigen von Arbeitsstoffen\\
 
 2
 
-†
 
-†
+
+
 
 Pflichtqualifikationen nach ¬ß 3 Nummer 1.2 Buchstabe c
 
@@ -2866,9 +2866,9 @@ Woche
 
 Durchf√ºhren analytischer Arbeiten an Lackrohstoffen, Halbfabrikaten und Beschichtungsstoffen
 
-†
 
-†
+
+
 
 7.1
 
@@ -2879,17 +2879,17 @@ Physikalische Verfahren zur Bestimmung von Stoffkonstanten und Kennzahlen\\
 
 4
 
-†
 
-†
+
+
 
 - b) :: Flie√ükurven erstellen und auswerten
 
-†
+
 
 2
 
-†
+
 
 7.2
 
@@ -2898,39 +2898,39 @@ Chemische Verfahren zur Bestimmung von Kennzahlen\\
 
 - a) :: Massen- und Stoffmengenkonzentration sowie Reaktionsverh√§ltnisse von Rohstoffen berechnen
 
-†
+
 
 2
 
-†
+
 
 - b) :: Kennzahlen, insbesondere S√§urezahl, Verseifungszahl, Isocyanatzahl, Iodzahl und Epoxidwert, in Rohstoffen, Halbfabrikaten und Beschichtungsstoffen bestimmen
 
-†
+
 
 3
 
-†
 
-†
 
-†
+
+
+
 
 - c) :: Verhalten von Rohstoffen und Beschichtungsstoffen anhand ihrer Kennzahlen beurteilen und Einsatzgebieten zuordnen
 
-†
+
 
 2
 
-†
+
 
 8
 
 Vorbehandeln und Beschichten von Untergr√ºnden sowie Pr√ºfen von Beschichtungen
 
-†
 
-†
+
+
 
 8.1
 
@@ -2943,9 +2943,9 @@ Vorbehandeln zu pr√ºfender Untergr√ºnde\\
 
 2
 
-†
 
-†
+
+
 
 8.2
 
@@ -2961,15 +2961,15 @@ Applizieren von Beschichtungsstoffen\\
 
 3
 
-†
+
 
 - e) :: Beschichtungsqualit√§t in Abh√§ngigkeit von der Oberfl√§chenbeschaffenheit und der Applikationsmethode beurteilen und dokumentieren
 
-†
+
 
 2
 
-†
+
 
 8.3
 
@@ -2983,7 +2983,7 @@ Trocknen und H√§rten von Beschichtungsstoffen\\
 
 6
 
-†
+
 
 8.4
 
@@ -2995,30 +2995,30 @@ Pr√ºfen von Beschichtungen und Beschichtungsstoffen\\
 
 3
 
-†
 
-†
+
+
 
 - c) :: beschichtungstechnologische Kennzahlen bestimmen und dokumentieren, insbesondere H√§rte, Haftfestigkeit, Dehnbarkeit, Schichtdicke, Deckverm√∂gen, K√∂rnigkeit, Porigkeit, Trocken- und Glanzgrad
 
 7
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 - d) :: Farbton messen und Standardvergleiche durchf√ºhren
 - e) :: Oberfl√§chenst√∂rungen beschreiben
 - f) :: Beschichtungen auf Best√§ndigkeit, insbesondere gegen Schwitzwasser, Bewitterung und Chemikalien, pr√ºfen sowie Ergebnisse beurteilen und dokumentieren
 - g) :: Lagerstabilit√§t von Beschichtungsstoffen beurteilen
 
-†
 
-†
+
+
 
 4
 
@@ -3031,25 +3031,25 @@ Grundlagen der Herstellung von Beschichtungsstoffen\\
 
 3
 
-†
 
-†
+
+
 
 - b) :: Fertigungsrezepturen unter Ber√ºcksichtigung verfahrenstechnischer Parameter erstellen
 
-†
 
-†
+
+
 
 7
 
 - c) :: Halbfabrikate und Beschichtungsstoffe nach vorgegebenen Rezepturen herstellen sowie Fertigungsablauf dokumentieren
 
-†
+
 
 8
 
-†
+
 
 10
 
@@ -3061,9 +3061,9 @@ Grundlagen zur Formulierung von Beschichtungsstoffen\\
 - c) :: Bindemittel, L√∂semittel, Farbmittel und Additive nach den Applikationsarten Streichen, Rollen, Druckluftspritzen und Tauchen ausw√§hlen und einsetzen
 - d) :: Rezepturen f√ºr Beschichtungsstoffe nach den Applikationsarten Streichen, Rollen, Druckluftspritzen und Tauchen formulieren
 
-†
 
-†
+
+
 
 13
 
@@ -3110,15 +3110,15 @@ Applizieren und Pr√ºfen von wasserverd√ºnnbaren Beschichtungsstoffen und -system
 - d) :: Maschinen und Ger√§te systemspezifisch ausw√§hlen und einsetzen
 - e) :: verfahrenstechnische Parameter, insbesondere pH-Wert und Temperatur, festlegen
 
-†
 
-†
+
+
 
 13
 
-†
 
-†
+
+
 
 - f) :: Eigenschaften, Lager- und Transportbedingungen der Beschichtungsstoffe pr√ºfen sowie Korrekturma√ünahmen einleiten und durchf√ºhren
 - g) :: Untergrund w√§ssern, schleifen und bleichen
@@ -3127,11 +3127,11 @@ Applizieren und Pr√ºfen von wasserverd√ºnnbaren Beschichtungsstoffen und -system
 - j) :: Beschichtungsstoffe unter Ber√ºcksichtigung der Filmbildungsmechanismen h√§rten
 - k) :: Beschichtung nach Anforderungsprofil pr√ºfen, bewerten und optimieren
 
-†
 
-†
 
-†
+
+
+
 
 12
 
@@ -3151,9 +3151,9 @@ Applizieren und Pr√ºfen von wasserverd√ºnnbaren Beschichtungsstoffen und -system
 - j) :: Beschichtungsstoffe unter Ber√ºcksichtigung der Filmbildungsmechanismen h√§rten
 - k) :: Beschichtung nach Anforderungsprofil pr√ºfen, bewerten und optimieren
 
-†
 
-†
+
+
 
 13
 
@@ -3169,15 +3169,15 @@ Applizieren und Pr√ºfen von wasserverd√ºnnbaren Beschichtungsstoffen und -system
 - d) :: Maschinen und Ger√§te systemspezifisch ausw√§hlen und einsetzen
 - e) :: verfahrenstechnische Parameter, insbesondere pH-Wert und Temperatur, festlegen
 
-†
 
-†
+
+
 
 13
 
-†
 
-†
+
+
 
 - f) :: Eigenschaften, Lager- und Transportbedingungen der Beschichtungsstoffe pr√ºfen sowie Korrekturma√ünahmen einleiten und durchf√ºhren
 - g) :: Untergrund entfetten und mechanisch vorbereiten
@@ -3186,11 +3186,11 @@ Applizieren und Pr√ºfen von wasserverd√ºnnbaren Beschichtungsstoffen und -system
 - j) :: Beschichtungsstoffe unter Ber√ºcksichtigung der Filmbildungsmechanismen h√§rten
 - k) :: Beschichtung nach Anforderungsprofil pr√ºfen, bewerten und optimieren
 
-†
 
-†
 
-†
+
+
+
 
 14
 
@@ -3209,9 +3209,9 @@ Applizieren und Pr√ºfen von Beschichtungsstoffen und -systemen f√ºr mineralische
 - i) :: Beschichtungsstoffe unter Ber√ºcksichtigung der Filmbildungsmechanismen h√§rten
 - j) :: Beschichtung nach Anforderungsprofil pr√ºfen, bewerten und optimieren
 
-†
 
-†
+
+
 
 13
 
@@ -3229,28 +3229,28 @@ Applizieren und Pr√ºfen von l√∂semittelhaltigen Beschichtungsstoffen und -system
 - f) :: Untergrund w√§ssern, schleifen und bleichen
 - g) :: Applikationstechnik produkt- und prozessorientiert ausw√§hlen und einsetzen
 
-†
 
-†
+
+
 
 13\\
 \\
 \\
 \\
 
-†
 
-†
+
+
 
 - h) :: Beschichtungsstoffe applizieren und dabei produktspezifische Verarbeitungsvorschriften beachten
 - i) :: Beschichtungsstoffe unter Ber√ºcksichtigung der Filmbildungsmechanismen h√§rten
 - j) :: Beschichtung nach Anforderungsprofil pr√ºfen, bewerten und optimieren
 
-†
 
-†
 
-†
+
+
+
 
 16
 
@@ -3269,9 +3269,9 @@ Applizieren und Pr√ºfen von l√∂semittelhaltigen Beschichtungsstoffen und -system
 - i) :: Beschichtungsstoffe unter Ber√ºcksichtigung der Filmbildungsmechanismen h√§rten
 - j) :: Beschichtung nach Anforderungsprofil pr√ºfen, bewerten und optimieren
 
-†
 
-†
+
+
 
 13
 
@@ -3291,9 +3291,9 @@ Applizieren und Pr√ºfen von l√∂semittelhaltigen Beschichtungsstoffen und -system
 - h) :: Beschichtungsstoffe unter Ber√ºcksichtigung der Filmbildungsmechanismen h√§rten
 - i) :: Beschichtung nach Anforderungsprofil pr√ºfen, bewerten und optimieren
 
-†
 
-†
+
+
 
 13
 
@@ -3314,9 +3314,9 @@ Applizieren und Pr√ºfen von Korrosionsschutzsystemen\\
 - i) :: Beschichtungsstoffe unter Ber√ºcksichtigung der Filmbildungsmechanismen h√§rten
 - j) :: Korrosionsschutzpr√ºfung durchf√ºhren, Ergebnis bewerten und Korrosionsschutzsystem optimieren
 
-†
 
-†
+
+
 
 13
 
@@ -3338,9 +3338,9 @@ Applizieren und Pr√ºfen von Pulverlacksystemen\\
 - j) :: Beschichtungsstoffe unter Ber√ºcksichtigung der Filmbildungsmechanismen h√§rten
 - k) :: Beschichtung nach Anforderungsprofil pr√ºfen, bewerten und optimieren
 
-†
 
-†
+
+
 
 13
 
@@ -3353,15 +3353,15 @@ Applizieren und Pr√ºfen von Elektrotauchlacken\\
 - a) :: systemspezifische Eigenschaften von Elektrotauchlacken erl√§utern
 - b) :: Anforderungsprofil erstellen und dabei Anwendungszweck, Untergrund, Verarbeitung, √ñkologie, systemspezifische Eigenschaften und Kostenaspekte ber√ºcksichtigen
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 - c) :: Rohstoffe ausw√§hlen
 - d) :: Maschinen und Ger√§te systemspezifisch ausw√§hlen und einsetzen
@@ -3374,9 +3374,9 @@ Applizieren und Pr√ºfen von Elektrotauchlacken\\
 - k) :: Beschichtungsstoffe unter Ber√ºcksichtigung der Filmbildungsmechanismen h√§rten
 - l) :: Beschichtung nach Anforderungsprofil pr√ºfen, bewerten und optimieren
 
-†
 
-†
+
+
 
 13\\
 \\
@@ -3404,9 +3404,9 @@ Applizieren und Pr√ºfen von Druckfarben\\
 - i) :: Druckfarben unter Ber√ºcksichtigung der Filmbildungsmechanismen trocknen und h√§rten
 - j) :: Beschichtung nach Anforderungsprofil pr√ºfen, bewerten, optimieren
 
-†
 
-†
+
+
 
 13
 
@@ -3422,9 +3422,9 @@ und Pr√ºfen von Bindemitteln\\
 - d) :: Bindemittel herstellen und Reaktionsverlauf anhand ermittelter Kenndaten steuern
 - e) :: Einsetzbarkeit des Bindemittels im Beschichtungsstoff pr√ºfen und Bindemittel optimieren
 
-†
 
-†
+
+
 
 13
 
@@ -3439,9 +3439,9 @@ Durchf√ºhren farbmetrischer Arbeiten\\
 - d) :: Farbmittel nach optischen, chemischen und thermischen Eigenschaften ausw√§hlen
 - e) :: Farbt√∂ne nach farbmetrischen Daten ausarbeiten
 
-†
 
-†
+
+
 
 13
 
@@ -3459,9 +3459,9 @@ Untersuchen von Beschichtungen und Beschichtungsstoffen\\
 - g) :: Validierung von Messverfahren durchf√ºhren und dokumentieren, Messwerte auswerten und Ergebnisse interpretieren
 - h) :: Methoden der Fehlerfr√ºherkennung, Fehlerbeseitigung und Fehlervermeidung anwenden
 
-†
 
-†
+
+
 
 13
 
@@ -3476,9 +3476,9 @@ Durchf√ºhren applikationstechnischer Arbeiten unter Prozessbedingungen\\
 - d) :: beschichtete Objekte beurteilen und auf Fehlerfreiheit pr√ºfen
 - e) :: Applikationsprozess optimieren
 
-†
 
-†
+
+
 
 13
 
@@ -3494,9 +3494,9 @@ Durchf√ºhren produktionstechnischer Arbeiten zur Fertigungs√ºbertragung\\
 - e) :: Produktionskosten ermitteln und Produktionsverfahren optimieren
 - f) :: Produktionsablauf und -ergebnis dokumentieren
 
-†
 
-†
+
+
 
 13
 
@@ -3513,9 +3513,9 @@ Digitalisierung in Forschung, Entwicklung, Analytik und Produktion\\
 - f) :: digitale Medien f√ºr das Lernen im betrieblichen Alltag selbstt√§tig nutzen
 - g) :: rechtliche und betriebliche Vorgaben zum Schutz und zur Sicherheit digitaler Daten einhalten
 
-†
 
-†
+
+
 
 13
 
@@ -3529,9 +3529,9 @@ Arbeiten mit vernetzten und automatisierten Systemen\\
 - c) :: Daten √ºber digitale Netze austauschen
 - d) :: Soft- und Hardwarest√∂rungen an Systemen erkennen und Ma√ünahmen zur Beseitigung der St√∂rung einleiten
 
-†
 
-†
+
+
 
 13
 
@@ -3546,9 +3546,9 @@ Prozessbezogene Arbeitstechniken\\
 - d) :: Prozessablauf kontrollieren und dokumentieren
 - e) :: Ergebnisse pr√ºfen, bewerten und dokumentieren
 
-†
 
-†
+
+
 
 13
 
@@ -3562,8 +3562,8 @@ Umweltbezogene Arbeitstechniken\\
 - c) :: Emissionen und Immissionen messen
 - d) :: Untersuchungsergebnisse mit Bestimmungen von Regelwerken vergleichen, dokumentieren und beurteilen sowie Ma√ünahmen veranlassen
 
-†
 
-†
+
+
 
 13

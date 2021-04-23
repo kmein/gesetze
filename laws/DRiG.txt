@@ -7,87 +7,87 @@ Ausfertigungsdatum: 08.09.1961
 InhaltsÃ¼bersicht
 
 Erster Teil:
- 
- 
+
+
 Richteramt in Bund und LÃ¤ndern
- 
- 
- 
+
+
+
 Erster Abschnitt:
 Einleitende Vorschriften
 Â§Â§ 1 bis 4
- 
- 
+
+
 Zweiter Abschnitt:
 BefÃ¤higung zum Richteramt
 Â§Â§ 5 bis 7
- 
- 
+
+
 Dritter Abschnitt:
 RichterverhÃ¤ltnis
 Â§Â§ 8 bis 24
- 
- 
+
+
 Vierter Abschnitt:
 UnabhÃ¤ngigkeit des Richters
 Â§Â§ 25 bis 37
- 
- 
+
+
 FÃ¼nfter Abschnitt:
 Besondere Pflichten des Richters
 Â§Â§ 38 bis 43
- 
- 
+
+
 Sechster Abschnitt:
 Ehrenamtliche Richter
 Â§Â§ 44 und 45a
 Zweiter Teil:
- 
- 
+
+
 Richter im Bundesdienst
- 
- 
- 
+
+
+
 Erster Abschnitt:
 Allgemeine Vorschriften
 Â§Â§ 46 bis 48d
- 
- 
+
+
 Zweiter Abschnitt:
 Richtervertretungen
 Â§Â§ 49 bis 60
- 
- 
+
+
 Dritter Abschnitt:
 Dienstgericht des Bundes
 Â§Â§ 61 bis 68
- 
- 
+
+
 Vierter Abschnitt:
 Richter des Bundesverfassungsgerichts
 Â§Â§ 69 und 70
 Dritter Teil:
- 
- 
+
+
 Richter im Landesdienst
 Â§Â§ 71 bis 84
 Viertel Teil:
- 
- 
+
+
 Ãœbergangs- und SchluÃŸvorschriften
- 
- 
- 
+
+
+
 Erster Abschnitt:
 Ã„nderung von Bundesrecht
 Â§Â§ 85 bis 104
- 
- 
+
+
 Zweiter Abschnitt:
 Ãœberleitung von RechtsverhÃ¤ltnissen
 Â§Â§ 105 bis 118
- 
- 
+
+
 Dritter Abschnitt:
 SchluÃŸvorschriften
 Â§Â§ 119 bis 126
@@ -574,9 +574,9 @@ Altersgrenze
 Jahr
 Monat
 1952
- 
- 
- 
+
+
+
 Januar
 Â 1
 60

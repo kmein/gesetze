@@ -102,7 +102,7 @@ E 10
 
 Erweiterung auf 10 Fahrstreifen
 
-N 2/3¹
+N 2/3
 
 2- bzw. 3-streifiger Neubau
 
@@ -118,7 +118,7 @@ E 6/10
 
 Erweiterung auf 6 bzw. 10 Fahrstreifen
 
-N 3/4¹
+N 3/4
 
 3- bzw. 4-streifiger Neubau
 
@@ -143,49 +143,49 @@ KN
 
 Ausbau eines Knotenpunktes
 
-N 3+E 4¹
+N 3+E 4
 
 3-streifiger Neubau und\\
 Erweiterung auf 4 Fahrstreifen
 
- 
 
- 
+
+
 
 N 4+E 4
 
 4-streifiger Neubau und\\
 Erweiterung auf 4 Fahrstreifen
 
- 
 
- 
+
+
 
 N 4+E 6
 
 4-streifiger Neubau und\\
 Erweiterung auf 6 Fahrstreifen
 
- 
 
- 
+
+
 
 N 6+E 6
 
 6-streifiger Neubau und\\
 Erweiterung auf 6 Fahrstreifen
 
- 
 
- 
+
+
 
 N 4+E 8
 
 4-streifiger Neubau und\\
 Erweiterung auf 8 Fahrstreifen
 
- 
 
- 
+
+
 
 - <<FnA1-F796657_01>>[[#FnR.FnA1-F796657_01][1]] :: Das Bauziel N 3 entspricht dem Bauziel N 2, ergÃ¤nzt durch Streckenbereiche mit wechselseitiger ÃœberholmÃ¶glichkeit.

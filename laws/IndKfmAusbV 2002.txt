@@ -192,7 +192,7 @@ zu vermittelnde Fertigkeiten und Kenntnisse
 3
 1
 Der Ausbildungsbetrieb (§ 4 Abs. 1 Nr.1)
-�
+
 1.1
 Stellung, Rechtsform und Struktur (§ 4 Abs. 1 Nr. 1.1)
 a)
@@ -234,7 +234,7 @@ d)
 Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 2
 Geschäftsprozesse und Märkte (§ 4 Abs. 1 Nr. 2)
-�
+
 2.1
 Märkte, Kunden, Produkte und Dienstleistungen (§ 4 Abs. 1 Nr. 2.1)
 a)
@@ -261,7 +261,7 @@ d)
 Erfordernisse von ganzheitlichen Geschäftsprozessen beachten
 3
 Information, Kommunikation, Arbeitsorganisation (§ 4 Abs. 1 Nr. 3)
-�
+
 3.1
 Informationsbeschaffung und -Verarbeitung (§ 4 Abs. 1 Nr. 3.1)
 a)
@@ -330,7 +330,7 @@ c)
 Auskünfte erteilen und einholen, auch in einer fremden Sprache
 4
 Integrative Unternehmensprozesse (§ 4 Abs. 1 Nr. 4)
-�
+
 4.1
 Logistik (§ 4 Abs. 1 Nr. 4.1)
 a)
@@ -369,7 +369,7 @@ c)
 Statistiken anfertigen, Kennzahlen ableiten und auswerten
 5
 Marketing und Absatz (§ 4 Abs. 1 Nr. 5)
-�
+
 5.1
 Auftragsanbahnung und -Vorbereitung (§ 4 Abs. 1 Nr. 5.1)
 a)
@@ -408,7 +408,7 @@ d)
 Kundenpflege und Maßnahmen der Kundenbindung durchführen
 6
 Beschaffung und Bevorratung (§ 4 Abs. 1 Nr. 6)
-�
+
 6.1
 Bedarfsermittlung und Disposition (§ 4 Abs. 1 Nr. 6.1)
 a)
@@ -435,7 +435,7 @@ b)
 Bestände erfassen, kontrollieren und bewerten
 7
 Personal (§ 4 Abs. 1 Nr. 7)
-�
+
 7.1
 Rahmenbedingungen, Personalplanung (§ 4 Abs. 1 Nr. 7.1)
 a)
@@ -462,7 +462,7 @@ b)
 interne und externe Weiterbildungsmöglichkeiten beschreiben und bei ihrer organisatorischen Umsetzung mitwirken
 8
 Leistungserstellung (§ 4 Abs. 1 Nr. 8)
-�
+
 8.1
 Produkte und Dienstleistungen (§ 4 Abs. 1 Nr. 8.1)
 a)
@@ -485,7 +485,7 @@ c)
 beim Investitionsprozess mitwirken
 9
 Leistungsabrechnung (§ 4 Abs. 1 Nr. 9)
-�
+
 9.1
 Buchhaltungsvorgänge (§ 4 Abs. 1 Nr. 9.1)
 a)
@@ -514,7 +514,7 @@ c)
 Kennzahlen zur Darstellung des betrieblichen Erfolges ermitteln und auswerten
 10
 Fachaufgaben im Einsatzgebiet(§ 4 Abs. 1 Nr. 10)
-�
+
 10.1
 Einsatzgebietsspezifische Lösungen (§ 4 Abs. 1 Nr. 10.1)
 a)

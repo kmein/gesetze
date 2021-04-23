@@ -18,27 +18,27 @@ Eine Änderung ist auch wesentlich, wenn der Beurteilungspegel des von dem zu ä
 § 2 - Immissionsgrenzwerte
 
 (1) Zum Schutz der Nachbarschaft vor schädlichen Umwelteinwirkungen durch Verkehrsgeräusche von Magnetschwebebahnen ist bei dem Bau oder der wesentlichen Änderung von Verkehrswegen der Magnetschwebebahnen sicherzustellen, daß der Beurteilungspegel dieser Verkehrsgeräusche einen der folgenden Immissionsgrenzwerte nicht überschreitet:\\
-�
+
 Tag
 Nacht
 1.
 an Krankenhäusern, Schulen, Kurheimen und Altenheimen
-�
+
 57 Dezibel (A)
 47 Dezibel (A)
 2.
 in reinen und allgemeinen Wohngebieten und Kleinsiedlungsgebieten
-�
+
 59 Dezibel (A)
 49 Dezibel (A)
 3.
 in Kerngebieten, Dorfgebieten und Mischgebieten
-�
+
 64 Dezibel (A)
 54 Dezibel (A)
 4.
 in Gewerbegebieten
-�
+
 69 Dezibel (A)
 59 Dezibel (A)
 (2) Die Art der in Absatz 1 bezeichneten Anlagen und Gebiete ergibt sich aus den Festsetzungen in den Bebauungsplänen. Sonstige in Bebauungsplänen festgesetzte Flächen für Anlagen und Gebiete sowie Anlagen und Gebiete, für die keine Festsetzungen bestehen, sind nach Absatz 1, bauliche Anlagen im Außenbereich nach Absatz 1 Nr. 1, 3 und 4 entsprechend der Schutzbedürftigkeit zu beurteilen.

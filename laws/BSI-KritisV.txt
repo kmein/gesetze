@@ -385,8 +385,8 @@ Bemessungskriterium
 Schwellenwert
 1.
 stationÃ¤re medizinische Versorgung
- 
- 
+
+
 1.1
 Krankenhaus
 vollstationÃ¤re Fallzahl/Jahr
@@ -395,20 +395,20 @@ vollstationÃ¤re Fallzahl/Jahr
 Versorgung mit unmittelbar\\
 lebenserhaltenden Medizinprodukten,\\
 die VerbrauchsgÃ¼ter sind
- 
- 
+
+
 2.1
 Herstellung
- 
- 
+
+
 2.1.1
 ProduktionsstÃ¤tte
 Umsatz in Euro/Jahr
 90Â 680Â 000
 2.2
 Abgabe
- 
- 
+
+
 2.2.1
 Abgabestelle
 Umsatz in Euro/Jahr
@@ -418,12 +418,12 @@ Versorgung mit verschreibungspflichtigen Arzneimitteln und\\
 Blut- und Plasmakonzentraten\\
 zur Anwendung im oder am\\
 menschlichen KÃ¶rper
- 
- 
+
+
 3.1
 Herstellung
- 
- 
+
+
 3.1.1
 ProduktionsstÃ¤tte
 Anzahl in Verkehr gebrachter Packungen/Jahr
@@ -436,8 +436,8 @@ gebrachter Produkte/Jahr
 34Â 000
 3.2
 Vertrieb
- 
- 
+
+
 3.2.1
 Betriebs- und Lagerraum
 Anzahl umgeschlagener Packungen/Jahr
@@ -449,20 +449,20 @@ Anzahl transportierter Packungen/Jahr
 4Â 650Â 000
 3.3
 Abgabe
- 
- 
+
+
 3.3.1
 Apotheke
 abgegebene Packungen/Jahr
 4Â 650Â 000
 4.
 Laboratoriumsdiagnostik
- 
- 
+
+
 4.1
 Transport
- 
- 
+
+
 4.1.1
 Transportsystem
 kumulierte Anzahl der AuftrÃ¤ge\\
@@ -475,8 +475,8 @@ Anzahl AuftrÃ¤ge/Jahr
 1Â 500Â 000
 4.2
 Analytik
- 
- 
+
+
 4.2.1
 Labor
 Anzahl AuftrÃ¤ge/Jahr
@@ -579,12 +579,12 @@ Bemessungskriterium
 Schwellenwert
 1.
 Bargeldversorgung
- 
- 
+
+
 1.1
 Autorisierung einer Abhebung
- 
- 
+
+
 1.1.1
 Autorisierungssystem
 Anzahl Transaktionen/Jahr
@@ -596,8 +596,8 @@ Anzahl Transaktionen/Jahr
 15Â 000Â 000
 1.2
 Einbringen in den Zahlungsverkehr
- 
- 
+
+
 1.2.1
 System zur Aufbereitung durch den\\
 Geldautomatenbetreiber
@@ -620,8 +620,8 @@ kritischen Clearing-Systeme/Jahr
 18Â 000Â 000
 1.3
 Belastung Kundenkonto
- 
- 
+
+
 1.3.1
 KontofÃ¼hrungssystem
 Anzahl dienstleistungsbezogener<<FnR.F798949_01>>[[#F798949_01][1]]}\\
@@ -629,8 +629,8 @@ Transaktionen/Jahr
 15Â 000Â 000
 1.4
 Bargeldlogistik
- 
- 
+
+
 1.4.1
 Cash Center
 Anzahl kumuliert bearbeiteter\\
@@ -643,12 +643,12 @@ Banknoten/Jahr
 93Â 500Â 000
 2.
 KartengestÃ¼tzter Zahlungsverkehr
- 
- 
+
+
 2.1.
 Autorisierung
- 
- 
+
+
 2.1.1
 Autorisierungssystem
 Anzahl dienstleistungsbezogener\\
@@ -662,8 +662,8 @@ Transaktionen/Jahr
 21Â 500Â 000
 2.2
 Einbringen in den Zahlungsverkehr
- 
- 
+
+
 2.2.1
 System zur Aufbereitung durch den\\
 POS-Terminalbetreiber
@@ -693,8 +693,8 @@ kritischen Clearing-Systems/Jahr
 2.3
 Belastung auf dem Konto des Zahlers und Gutschrift auf dem Konto des\\
 ZahlungsempfÃ¤ngers
- 
- 
+
+
 2.3.1
 KontofÃ¼hrungssystem
 Anzahl dienstleistungsbezogener\\
@@ -702,13 +702,13 @@ Transaktionen/Jahr
 21Â 500Â 000
 3.
 Konventioneller Zahlungsverkehr
- 
- 
+
+
 3.1
 Annahme einer Ãœberweisung oder\\
 Lastschrift
- 
- 
+
+
 3.1.1
 System zur Annahme einer\\
 Ãœberweisung oder Lastschrift
@@ -716,8 +716,8 @@ Anzahl Transaktionen/Jahr
 100Â 000Â 000
 3.2
 Einbringen in den Zahlungsverkehr
- 
- 
+
+
 3.2.1
 System zur Anbindung an ein\\
 Interbanken-Zahlungsverkehrssystem (Clearing und Settlement)
@@ -737,8 +737,8 @@ kritischen Clearing-Systems/Jahr
 3.3
 Belastung und Gutschrift auf\\
 Kundenkonten
- 
- 
+
+
 3.3.1
 KontofÃ¼hrungssystem
 Anzahl dienstleistungsbezogener\\
@@ -746,13 +746,13 @@ Transaktionen/Jahr
 100Â 000Â 000
 4.
 Verrechnung und Abwicklung von Wertpapier- und DerivatgeschÃ¤ften
- 
- 
+
+
 4.1
 Verrechnung von\\
 Wertpapier- und DerivatgeschÃ¤ften
- 
- 
+
+
 4.1.1
 System einer Clearingstelle oder\\
 zentralen Gegenpartei zur\\
@@ -767,8 +767,8 @@ Anzahl Transaktionen/Jahr
 850Â 000
 4.2
 Verbuchung Wertpapiere
- 
- 
+
+
 4.2.1
 Wertpapier-Settlement-System
 Anzahl Transaktionen/Jahr
@@ -783,8 +783,8 @@ Anzahl Transaktionen/Jahr
 850Â 000
 4.3
 Verbuchung Geld
- 
- 
+
+
 4.3.1
 System zur Aufbereitung der\\
 Zahlungsanweisung
@@ -792,13 +792,13 @@ Anzahl Transaktionen/Jahr
 850Â 000
 5.
 Versicherungsdienstleistungen
- 
- 
+
+
 5.1
 Inanspruchnahme von\\
 Versicherungsdienstleistungen
- 
- 
+
+
 5.1.1
 Vertragsverwaltungssystem\\
 (Lebensversicherung)
@@ -949,12 +949,12 @@ Bemessungskriterium
 Schwellenwert
 1.
 Personen- und GÃ¼terverkehr
- 
- 
+
+
 1.1
 im Luftverkehr
- 
- 
+
+
 1.1.1
 Anlage oder System zur Passagierabfertigung an FlugplÃ¤tzen
 Anzahl der Passagiere/Jahr
@@ -977,8 +977,8 @@ Anzahl Flugbewegungen/Jahr
 17Â 500
 1.2
 im Schienenverkehr der Eisenbahn
- 
- 
+
+
 1.2.1
 Personenbahnhof der Eisenbahn
 Bahnhofskategorie
@@ -1013,8 +1013,8 @@ disponierte Transportleistung\\
 730Â 000Â 000
 1.3
 in der See- und Binnenschifffahrt
- 
- 
+
+
 1.3.1
 Anlage oder System zum Betrieb von BundeswasserstraÃŸen
 GÃ¼terverkehrsdichte in Tonnen
@@ -1036,8 +1036,8 @@ in Tonnenkilometer/Jahr
 345Â 500Â 000
 1.4
 im StraÃŸenverkehr
- 
- 
+
+
 1.4.1
 Verkehrssteuerungs- und Leitsystem
 Verkehrssteuerungs- und Leitsystem der BundesfernstraÃŸen
@@ -1049,8 +1049,8 @@ Anzahl Einwohner der versorgten Stadt
 500Â 000
 1.5
 im Ã–PNV
- 
- 
+
+
 1.5.1
 Schienennetz und Stellwerke des\\
 Ã¶ffentlichen StraÃŸenpersonenverkehrs (Ã–SPV)
@@ -1067,8 +1067,8 @@ Anzahl FahrgÃ¤ste/Jahr
 125Â 000Â 000
 1.6
 in der Logistik
- 
- 
+
+
 1.6.1
 Anlage oder System zum Betrieb eines Logistikzentrums in den\\
 Segmenten Massengut-, Ladungs-, StÃ¼ckgut-, Kontrakt-, See- oder\\
@@ -1085,8 +1085,8 @@ in Tonnen/Jahr
 17Â 000Â 000
 1.7
 Sonstige
- 
- 
+
+
 1.7.1
 Anlage zur Wettervorhersage,\\
 zur Gezeitenvorhersage oder zur Wasserstandsmeldung

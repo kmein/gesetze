@@ -11,7 +11,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 Inhaltsübersicht
 
 Abschnitt 1
-�
+
 Allgemeine Vorschriften
 § 1
 Zweck des Gesetzes
@@ -22,7 +22,7 @@ Anwendungsbereich
 § 4
 Begriffsbestimmungen
 Abschnitt 2
-�
+
 Lizenzen
 § 5
 Lizenzierter Bereich
@@ -37,7 +37,7 @@ Widerruf der Lizenz
 § 10
 Strukturelle Separierung und getrennte Rechnungsführung
 Abschnitt 3
-�
+
 Universaldienst
 § 11
 Begriff und Umfang des Universaldienstes
@@ -54,15 +54,15 @@ Ausgleichsabgabe
 § 17
 Umsatzmitteilungen
 Abschnitt 4
-�
+
 Rahmenbedingungen für Postdienstleistungen
 § 18
 Postdienstleistungsverordnung
 § 18a
-�
+
 Schlichtung
 Abschnitt 5
-�
+
 Entgeltregulierung
 § 19
 Genehmigungsbedürftige Entgelte
@@ -83,7 +83,7 @@ Anordnungen im Rahmen der Entgeltgenehmigung und Entgeltüberprüfung
 § 27
 Änderung entgeltrelevanter Allgemeiner Geschäftsbedingungen
 Abschnitt 6
-�
+
 Angebot von Teilleistungen, Zugang zu Postfachanlagen und Adreßänderungen
 § 28
 Angebot von Teilleistungen
@@ -96,7 +96,7 @@ Schlichtung und Anordnungen der Regulierungsbehörde
 § 32
 Besondere Mißbrauchsaufsicht
 Abschnitt 7
-�
+
 Förmliche Zustellung nach öffentlich-rechtlichen Vorschriften
 § 33
 Verpflichtung zur förmlichen Zustellung
@@ -105,7 +105,7 @@ Entgelt für die förmliche Zustellung
 § 35
 Haftung bei der Durchführung der förmlichen Zustellung
 Abschnitt 8
-�
+
 Anzeigepflicht, Berichtspflicht, Schadensersatzpflicht
 § 36
 Anzeigepflicht
@@ -114,7 +114,7 @@ Berichtspflicht
 § 38
 Schadensersatzpflicht
 Abschnitt 9
-�
+
 Postgeheimnis, Datenschutz
 § 39
 Postgeheimnis
@@ -131,7 +131,7 @@ Fundbriefe
 § 42
 Kontrolle und Durchsetzung von Verpflichtungen
 Abschnitt 10
-�
+
 Postwertzeichen, Regulierungsbehörde
 § 43
 Postwertzeichen
@@ -146,15 +146,15 @@ Tätigkeitsbericht
 § 48
 Zusammenarbeit mit dem Bundeskartellamt
 Abschnitt 11
-�
+
 Bußgeldvorschriften
 § 49
 Bußgeldvorschriften
 § 50
-�
+
 (weggefallen)
 Abschnitt 12
-�
+
 Übergangsvorschriften
 § 51
 Befristete gesetzliche Exklusivlizenz
@@ -167,7 +167,7 @@ Verwendung von Postwertzeichen im Zeitraum der gesetzlichen Exklusivlizenz
 § 55
 Rechtsverordnung zur Einschränkung des Beförderungsverbots
 Abschnitt 13
-�
+
 Schlußvorschriften
 § 56
 Mitteilungspflicht bei Dienstleistungseinschränkung im Bereich des Universaldienstes

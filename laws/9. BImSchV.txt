@@ -7,10 +7,10 @@ Ausfertigungsdatum: 18.02.1977
 Inhaltsübersicht
 
 Erster Teil
-�
+
 Allgemeine Vorschriften
 Erster Abschnitt
-�
+
 Anwendungsbereich, Antrag und Unterlagen
 § 1
 Anwendungsbereich
@@ -41,7 +41,7 @@ Eingangsbestätigung
 § 7
 Prüfung der Vollständigkeit, Verfahrensablauf
 Zweiter Abschnitt
-�
+
 Beteiligung Dritter
 § 8
 Bekanntmachung des Vorhabens
@@ -60,7 +60,7 @@ Einwendungen
 § 13
 Sachverständigengutachten
 Dritter Abschnitt
-�
+
 Erörterungstermin
 § 14
 Zweck
@@ -75,7 +75,7 @@ Verlauf
 § 19
 Niederschrift
 Vierter Abschnitt
-�
+
 Genehmigung
 § 20
 Entscheidung
@@ -84,7 +84,7 @@ Inhalt des Genehmigungsbescheides
 § 21a
 Öffentliche Bekanntmachung und Veröffentlichung des Genehmigungsbescheids
 Zweiter Teil
-�
+
 Besondere Vorschriften
 § 22
 Teilgenehmigung
@@ -99,7 +99,7 @@ Zulassung vorzeitigen Beginns
 § 24b
 Verbundene Prüfverfahren bei UVP-pflichtigen Vorhaben
 Dritter Teil
-�
+
 Schlussvorschriften
 § 24c
 Vermeidung von Interessenkonflikten

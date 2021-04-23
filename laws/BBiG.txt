@@ -551,7 +551,7 @@ Das Bundesministerium für Bildung und Forschung kann durch Rechtsverordnung, di
 Der Lernumfang für den Erwerb dieser Fertigkeiten, Kenntnisse und Fähigkeiten soll mindestens 400 Stunden betragen.
 
 (3) Als Voraussetzung zur Zulassung für eine Prüfung der ersten beruflichen Fortbildungsstufe ist als Regelzugang der Abschluss in einem anerkannten Ausbildungsberuf vorzusehen.
-(4) Die Bezeichnung eines Fortbildungsabschlusses der ersten beruflichen Fortbildungsstufe beginnt mit den Wörtern �Geprüfter Berufsspezialist für“ oder �Geprüfte Berufsspezialistin für“. Die Fortbildungsordnung kann vorsehen, dass dieser Abschlussbezeichnung eine weitere Abschlussbezeichnung vorangestellt wird. Diese Abschlussbezeichnung der ersten beruflichen Fortbildungsstufe darf nur führen, wer
+(4) Die Bezeichnung eines Fortbildungsabschlusses der ersten beruflichen Fortbildungsstufe beginnt mit den Wörtern Geprüfter Berufsspezialist für“ oder Geprüfte Berufsspezialistin für“. Die Fortbildungsordnung kann vorsehen, dass dieser Abschlussbezeichnung eine weitere Abschlussbezeichnung vorangestellt wird. Diese Abschlussbezeichnung der ersten beruflichen Fortbildungsstufe darf nur führen, wer
 
 - 1. :: die Prüfung der ersten beruflichen Fortbildungsstufe bestanden hat oder
 - 2. :: die Prüfung einer gleichwertigen beruflichen Fortbildung auf der Grundlage bundes- oder landesrechtlicher Regelungen, die diese Abschlussbezeichnung vorsehen, bestanden hat.
@@ -566,7 +566,7 @@ Der Lernumfang für den Erwerb dieser Fertigkeiten, Kenntnisse und Fähigkeiten 
 - 1. :: der Abschluss in einem anerkannten Ausbildungsberuf oder
 - 2. :: ein Abschluss der ersten beruflichen Fortbildungsstufe.
 
-(4) Die Bezeichnung eines Fortbildungsabschlusses der zweiten beruflichen Fortbildungsstufe beginnt mit den Wörtern �Bachelor Professional in“. Die Fortbildungsordnung kann vorsehen, dass dieser Abschlussbezeichnung eine weitere Abschlussbezeichnung vorangestellt wird. Die Abschlussbezeichnung der zweiten beruflichen Fortbildungsstufe darf nur führen, wer
+(4) Die Bezeichnung eines Fortbildungsabschlusses der zweiten beruflichen Fortbildungsstufe beginnt mit den Wörtern Bachelor Professional in“. Die Fortbildungsordnung kann vorsehen, dass dieser Abschlussbezeichnung eine weitere Abschlussbezeichnung vorangestellt wird. Die Abschlussbezeichnung der zweiten beruflichen Fortbildungsstufe darf nur führen, wer
 
 - 1. :: die Prüfung der zweiten beruflichen Fortbildungsstufe bestanden hat oder
 - 2. :: die Prüfung einer gleichwertigen beruflichen Fortbildung auf der Grundlage bundes- oder landesrechtlicher Regelungen, die diese Abschlussbezeichnung vorsehen, bestanden hat.
@@ -583,7 +583,7 @@ Der Lernumfang für den Erwerb dieser Fertigkeiten, Kenntnisse und Fähigkeiten 
 Der Lernumfang für den Erwerb dieser Fertigkeiten, Kenntnisse und Fähigkeiten soll mindestens 1 600 Stunden betragen.
 
 (3) Als Voraussetzung zur Zulassung für eine Prüfung der dritten beruflichen Fortbildungsstufe ist als Regelzugang ein Abschluss auf der zweiten beruflichen Fortbildungsstufe vorzusehen.
-(4) Die Bezeichnung eines Fortbildungsabschlusses der dritten beruflichen Fortbildungsstufe beginnt mit den Wörtern �Master Professional in“. Die Fortbildungsordnung kann vorsehen, dass dieser Abschlussbezeichnung eine weitere Abschlussbezeichnung vorangestellt wird. Die Abschlussbezeichnung der dritten beruflichen Fortbildungsstufe darf nur führen, wer
+(4) Die Bezeichnung eines Fortbildungsabschlusses der dritten beruflichen Fortbildungsstufe beginnt mit den Wörtern Master Professional in“. Die Fortbildungsordnung kann vorsehen, dass dieser Abschlussbezeichnung eine weitere Abschlussbezeichnung vorangestellt wird. Die Abschlussbezeichnung der dritten beruflichen Fortbildungsstufe darf nur führen, wer
 
 - 1. :: die Prüfung der dritten beruflichen Fortbildungsstufe bestanden hat oder
 - 2. :: die Prüfung einer gleichwertigen beruflichen Fortbildung auf der Grundlage bundes- oder landesrechtlicher Regelungen, die diese Abschlussbezeichnung vorsehen, bestanden hat.
@@ -617,9 +617,9 @@ Der Lernumfang für den Erwerb dieser Fertigkeiten, Kenntnisse und Fähigkeiten 
 
 (3) Bestätigt die zuständige oberste Landesbehörde,
 
-- 1. :: dass die Fortbildungsprüfungsregelungen die Voraussetzungen des § 53b Absatz 2 und 3 sowie des § 53a Absatz 2 erfüllen, so beginnt die Bezeichnung des Fortbildungsabschlusses mit den Wörtern �Geprüfter Berufsspezialist für“ oder �Geprüfte Berufsspezialistin für“,
-- 2. :: dass die Fortbildungsprüfungsregelungen die Voraussetzungen des § 53c Absatz 2 und 3 erfüllen, so beginnt die Bezeichnung des Fortbildungsabschlusses mit den Wörtern �Bachelor Professional in“,
-- 3. :: dass die Fortbildungsprüfungsregelungen die Voraussetzungen des § 53d Absatz 2 und 3 erfüllen, so beginnt die Bezeichnung des Fortbildungsabschlusses mit den Wörtern �Master Professional in“.
+- 1. :: dass die Fortbildungsprüfungsregelungen die Voraussetzungen des § 53b Absatz 2 und 3 sowie des § 53a Absatz 2 erfüllen, so beginnt die Bezeichnung des Fortbildungsabschlusses mit den Wörtern Geprüfter Berufsspezialist für“ oder Geprüfte Berufsspezialistin für“,
+- 2. :: dass die Fortbildungsprüfungsregelungen die Voraussetzungen des § 53c Absatz 2 und 3 erfüllen, so beginnt die Bezeichnung des Fortbildungsabschlusses mit den Wörtern Bachelor Professional in“,
+- 3. :: dass die Fortbildungsprüfungsregelungen die Voraussetzungen des § 53d Absatz 2 und 3 erfüllen, so beginnt die Bezeichnung des Fortbildungsabschlusses mit den Wörtern Master Professional in“.
 
 Der Abschlussbezeichnung nach Satz 1 ist in Klammern ein Zusatz beizufügen, aus dem sich zweifelsfrei die zuständige Stelle ergibt, die die Fortbildungsprüfungsregelungen erlassen hat. Die Fortbildungsprüfungsregelungen können vorsehen, dass dieser Abschlussbezeichnung eine weitere Abschlussbezeichnung vorangestellt wird.
 

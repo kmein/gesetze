@@ -50,7 +50,7 @@ nachweist.
 - 4. :: Risikomanagement,
 - 5. :: Schaden- und Leistungsmanagement.
 
-(4) Im Handlungsbereich �Produktmanagement für Versicherungs- und Finanzprodukte“ wählt die zu prüfende Person einen der folgenden produktbezogenen Qualifikationsschwerpunkte mit den sich aus der Anlage 1 ergebenden Produktbereichen aus:
+(4) Im Handlungsbereich Produktmanagement für Versicherungs- und Finanzprodukte“ wählt die zu prüfende Person einen der folgenden produktbezogenen Qualifikationsschwerpunkte mit den sich aus der Anlage 1 ergebenden Produktbereichen aus:
 
 - 1. :: Sachversicherungen für private und gewerbliche Kunden,
 - 2. :: Vermögensversicherungen für private und gewerbliche Kunden,
@@ -61,13 +61,13 @@ nachweist.
 
 Bei der Anmeldung zur Prüfung ist der gewählte Qualifikationsschwerpunkt der zuständigen Stelle mitzuteilen. Bei Wiederholungsprüfungen können auch andere Qualifikationsschwerpunkte gewählt werden.
 
-(5) Aus den in Absatz 3 Nr. 3 bis 5 genannten Handlungsbereichen wählt die zu prüfende Person einen Handlungsbereich aus. Bei der Anmeldung zur Prüfung ist der gewählte Handlungsbereich der zuständigen Stelle mitzuteilen. Bei Wiederholungsprüfungen können auch andere Handlungsbereiche gewählt werden. Sofern im Handlungsbereich �Produktmanagement für Versicherungs- und Finanzprodukte“ nach Absatz 4 der Qualifikationsschwerpunkt �Finanzdienstleistungen für Privat- und Gewerbekunden“ gewählt wurde, besteht diese Wahlmöglichkeit nicht. In diesem Fall wird der Handlungsbereich �Vertriebsmanagement“ geprüft.
+(5) Aus den in Absatz 3 Nr. 3 bis 5 genannten Handlungsbereichen wählt die zu prüfende Person einen Handlungsbereich aus. Bei der Anmeldung zur Prüfung ist der gewählte Handlungsbereich der zuständigen Stelle mitzuteilen. Bei Wiederholungsprüfungen können auch andere Handlungsbereiche gewählt werden. Sofern im Handlungsbereich Produktmanagement für Versicherungs- und Finanzprodukte“ nach Absatz 4 der Qualifikationsschwerpunkt Finanzdienstleistungen für Privat- und Gewerbekunden“ gewählt wurde, besteht diese Wahlmöglichkeit nicht. In diesem Fall wird der Handlungsbereich Vertriebsmanagement“ geprüft.
 (6) In den Handlungsbereichen nach den Absätzen 2 und 3 ist schriftlich in Form von anwendungsbezogenen Aufgaben nach den §§ 4 und 5 zu prüfen.
 (7) Die Mindestbearbeitungsdauer der schriftlichen Prüfungsleistungen beträgt für:
 
-- 1. :: den Handlungsbereich �Steuerung und Führung im Unternehmen“ 150 Minuten,
-- 2. :: den Handlungsbereich �Marketing und Vertrieb von Versicherungs- und Finanzprodukten für Privatkunden“ 120 Minuten,
-- 3. :: den Handlungsbereich �Personalführung, Qualifizierung und Kommunikation“ 60 Minuten,
+- 1. :: den Handlungsbereich Steuerung und Führung im Unternehmen“ 150 Minuten,
+- 2. :: den Handlungsbereich Marketing und Vertrieb von Versicherungs- und Finanzprodukten für Privatkunden“ 120 Minuten,
+- 3. :: den Handlungsbereich Personalführung, Qualifizierung und Kommunikation“ 60 Minuten,
 - 4. :: einen nach Absatz 4 zu wählenden Qualifikationsschwerpunkt 90 Minuten,
 - 5. :: einen nach Absatz 5 zu wählenden Handlungsbereich 60 Minuten.
 
@@ -85,13 +85,13 @@ Zweiter Teil\\
 \\
 Fachgespräch.
 
-(10) Im ersten Teil der mündlichen Prüfung soll in einer Gesprächssimulation (Rollenspiel) mit anschlie�Personalführung, Qualifizierung und Kommunikation nach § 5 Abs. 1 zugrunde zu legen. Die Gesprächssimulation soll in der Regel 15 Minuten dauern. Gesprächssimulation und anschließendes Fachgespräch sollen zusammen nicht länger als 25 Minuten dauern. Der zu prüfenden Person ist eine Vorbereitungszeit von höchstens 30 Minuten einzuräumen. Das Thema der Präsentation ist von der zu prüfenden Person selbst zu wählen und der zuständigen Stelle zu einem von ihr festgesetzten Termin mitzuteilen. Das Thema bezieht sich auf die Inhalte des nach Absatz 5 gewählten Handlungsbereiches. Die Präsentation soll zehn Minuten dauern.
+(10) Im ersten Teil der mündlichen Prüfung soll in einer Gesprächssimulation (Rollenspiel) mit anschliePersonalführung, Qualifizierung und Kommunikation nach § 5 Abs. 1 zugrunde zu legen. Die Gesprächssimulation soll in der Regel 15 Minuten dauern. Gesprächssimulation und anschließendes Fachgespräch sollen zusammen nicht länger als 25 Minuten dauern. Der zu prüfenden Person ist eine Vorbereitungszeit von höchstens 30 Minuten einzuräumen. Das Thema der Präsentation ist von der zu prüfenden Person selbst zu wählen und der zuständigen Stelle zu einem von ihr festgesetzten Termin mitzuteilen. Das Thema bezieht sich auf die Inhalte des nach Absatz 5 gewählten Handlungsbereiches. Die Präsentation soll zehn Minuten dauern.
 (11) Der zweite Teil der mündlichen Prüfung besteht aus einem Fachgespräch, in dem nachgewiesen werden soll, dass im Rahmen des nach Absatz 5 gewählten Handlungsbereiches eine komplexe Problemstellung aus einem betrieblichen Kernprozess dargestellt, beurteilt und gelöst werden kann. Ausgangspunkt für das Fachgespräch ist das Thema der Präsentation nach Absatz 10. Das Fachgespräch soll nicht länger als zehn Minuten dauern.
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
 § 4 - Prüfungsteil A nach § 3 Abs. 2
 
-(1) Im Handlungsbereich �Steuerung und Führung im Unternehmen“ soll die Fähigkeit nachgewiesen werden, ertrags- und prozessorientiert handeln und entscheiden zu können. Dabei sollen die auf die Finanzdienstleistungsbranche und ihre Unternehmen einwirkenden wirtschaftlichen, rechtlichen und gesellschaftlichen Rahmenbedingungen sowie das Zusammenwirken der betrieblichen Funktionen berücksichtigt werden. Des Weiteren soll nachgewiesen werden, dass Projekte systematisch und ergebnisorientiert durchgeführt werden können. In diesem Rahmen können folgende Befähigungen geprüft werden:
+(1) Im Handlungsbereich Steuerung und Führung im Unternehmen“ soll die Fähigkeit nachgewiesen werden, ertrags- und prozessorientiert handeln und entscheiden zu können. Dabei sollen die auf die Finanzdienstleistungsbranche und ihre Unternehmen einwirkenden wirtschaftlichen, rechtlichen und gesellschaftlichen Rahmenbedingungen sowie das Zusammenwirken der betrieblichen Funktionen berücksichtigt werden. Des Weiteren soll nachgewiesen werden, dass Projekte systematisch und ergebnisorientiert durchgeführt werden können. In diesem Rahmen können folgende Befähigungen geprüft werden:
 
 - 1. :: Grundzüge der Unternehmenssteuerung erläutern und Auswirkungen strategischer Entscheidungen reflektieren,
 - 2. :: Auswirkungen rechtlicher Vorschriften auf Finanzdienstleistungsunternehmen erläutern,
@@ -101,7 +101,7 @@ Fachgespräch.
 - 6. :: Funktionsbereiche der Personalwirtschaft erläutern und Instrumente der Personalwirtschaft anwenden,
 - 7. :: Projekte organisieren, planen, steuern und kontrollieren.
 
-(2) Im Handlungsbereich �Marketing und Vertrieb von Versicherungs- und Finanzprodukten für Privatkunden“ soll die Fähigkeit nachgewiesen werden, Instrumente des Marketings systematisch und entscheidungsorientiert unter Beachtung der rechtlichen Rahmenbedingungen anwenden zu können. In diesem Rahmen können folgende Befähigungen geprüft werden:
+(2) Im Handlungsbereich Marketing und Vertrieb von Versicherungs- und Finanzprodukten für Privatkunden“ soll die Fähigkeit nachgewiesen werden, Instrumente des Marketings systematisch und entscheidungsorientiert unter Beachtung der rechtlichen Rahmenbedingungen anwenden zu können. In diesem Rahmen können folgende Befähigungen geprüft werden:
 
 - 1. :: Marketingkonzepte aus den Unternehmenszielen und den Marketingstrategien ableiten,
 - 2. :: Bedeutung des Marketings für die Unternehmensprozesse und den Unternehmenserfolg herausstellen,
@@ -111,7 +111,7 @@ Fachgespräch.
 
 § 5 - Prüfungsteil B nach § 3 Abs. 3
 
-(1) Im Handlungsbereich �Personalführung, Qualifizierung und Kommunikation“ soll die Fähigkeit nachgewiesen werden, zielgerichtet Mitarbeiterinnen und Mitarbeiter aus- und weiterzubilden und Instrumente der Personalentwicklung anzuwenden sowie Mitarbeiterinnen und Mitarbeiter zu führen. In diesem Rahmen können folgende Befähigungen geprüft werden:
+(1) Im Handlungsbereich Personalführung, Qualifizierung und Kommunikation“ soll die Fähigkeit nachgewiesen werden, zielgerichtet Mitarbeiterinnen und Mitarbeiter aus- und weiterzubilden und Instrumente der Personalentwicklung anzuwenden sowie Mitarbeiterinnen und Mitarbeiter zu führen. In diesem Rahmen können folgende Befähigungen geprüft werden:
 
 - 1. :: Mitarbeiterbesprechungen, Personalauswahl-, Beurteilungs-, Förder-, Zielvereinbarungs- und Kritikgespräche planen, durchführen und nachbereiten,
 - 2. :: Mitarbeiterinnen und Mitarbeiter individuell fördern und entwickeln,
@@ -121,7 +121,7 @@ Fachgespräch.
 - 6. :: Gruppen anleiten, Moderationstechniken anwenden,
 - 7. :: Sachverhalte adressatenorientiert kommunizieren und präsentieren.
 
-(2) Im Handlungsbereich �Produktmanagement für Versicherungs- und Finanzprodukte“ soll die Fähigkeit nachgewiesen werden, den Prozess der Produktentwicklung im Gesamtzusammenhang darlegen, Anstöße für die Produktentwicklung geben, Auswirkungen von Produktentwicklungen für den Unternehmenserfolg aufzeigen und in Produktentwicklungsprojekten mitwirken zu können. Dabei sind die rechtlichen Rahmenbedingungen zu berücksichtigen und die vertraglichen Bestimmungen zu beurteilen. Unter Bezugnahme auf einen in der Anlage 1 Nr. 1 bis 6 zu wählenden produktbezogenen Qualifikationsschwerpunkt können folgende Befähigungen geprüft werden:
+(2) Im Handlungsbereich Produktmanagement für Versicherungs- und Finanzprodukte“ soll die Fähigkeit nachgewiesen werden, den Prozess der Produktentwicklung im Gesamtzusammenhang darlegen, Anstöße für die Produktentwicklung geben, Auswirkungen von Produktentwicklungen für den Unternehmenserfolg aufzeigen und in Produktentwicklungsprojekten mitwirken zu können. Dabei sind die rechtlichen Rahmenbedingungen zu berücksichtigen und die vertraglichen Bestimmungen zu beurteilen. Unter Bezugnahme auf einen in der Anlage 1 Nr. 1 bis 6 zu wählenden produktbezogenen Qualifikationsschwerpunkt können folgende Befähigungen geprüft werden:
 
 - 1. :: die Ergebnisse von Marketingmaßnahmen im Prozess der Produktentwicklung berücksichtigen,
 - 2. :: Kriterien der Produktgestaltung unter Berücksichtigung von rechtlichen und kalkulatorischen Rahmenbedingungen darstellen und beispielhaft anwenden,
@@ -129,21 +129,21 @@ Fachgespräch.
 - 4. :: die Auswirkungen der Entwicklung neuer Produkte auf die betrieblichen Kernprozesse beschreiben,
 - 5. :: beim Prozess der Markteinführung von neuen Produkten mitwirken, die Mechanismen der Steuerung und des Controllings bei der Einführung neuer Produkte darstellen.
 
-(3) Im Handlungsbereich �Vertriebsmanagement“ soll die Fähigkeit nachgewiesen werden, unter Anwendung betriebswirtschaftlicher Steuerungsinstrumente und der Berücksichtigung der rechtlichen Rahmenbedingungen, insbesondere der arbeits- und vermittlerrechtlichen Vorschriften, Geschäftsprozesse im Vertrieb organisieren und optimieren zu können. In diesem Rahmen können folgende Befähigungen geprüft werden:
+(3) Im Handlungsbereich Vertriebsmanagement“ soll die Fähigkeit nachgewiesen werden, unter Anwendung betriebswirtschaftlicher Steuerungsinstrumente und der Berücksichtigung der rechtlichen Rahmenbedingungen, insbesondere der arbeits- und vermittlerrechtlichen Vorschriften, Geschäftsprozesse im Vertrieb organisieren und optimieren zu können. In diesem Rahmen können folgende Befähigungen geprüft werden:
 
 - 1. :: Vertriebsplanung, -steuerung und -controlling durchführen,
 - 2. :: Ziele vereinbaren und Anreizsysteme einsetzen,
 - 3. :: eine Vertriebseinheit kaufmännisch steuern,
 - 4. :: Marketingmaßnahmen in der Vertriebseinheit planen, durchführen und auswerten.
 
-(4) Im Handlungsbereich �Risikomanagement“ soll die Fähigkeit nachgewiesen werden, über die Versicherbarkeit von komplexen Risiken entscheiden und die Entscheidung begründen zu können. Dabei sollen rechtliche Vorschriften angewendet und betriebliche Abläufe berücksichtigt werden. Unter Bezugnahme auf einen in der Anlage 1 Nr. 1 bis 5 zu wählenden produktbezogenen Qualifikationsschwerpunkt können folgende Befähigungen geprüft werden:
+(4) Im Handlungsbereich Risikomanagement“ soll die Fähigkeit nachgewiesen werden, über die Versicherbarkeit von komplexen Risiken entscheiden und die Entscheidung begründen zu können. Dabei sollen rechtliche Vorschriften angewendet und betriebliche Abläufe berücksichtigt werden. Unter Bezugnahme auf einen in der Anlage 1 Nr. 1 bis 5 zu wählenden produktbezogenen Qualifikationsschwerpunkt können folgende Befähigungen geprüft werden:
 
 - 1. :: Risiken analysieren und das Ergebnis begründen,
 - 2. :: Maßnahmen zum Risikomanagement und zur Schadenverhütung entwickeln und darstellen,
 - 3. :: für ausgewählte Risiken die gewünschte Versicherungslösung vertraglich gestalten, wobei die Mit- und Rückversicherung berücksichtigt wird,
 - 4. :: Vorschläge zur Optimierung von Geschäftsprozessen entwickeln.
 
-(5) Im Handlungsbereich �Schaden- und Leistungsmanagement“ soll die Fähigkeit nachgewiesen werden, komplexe Schaden- und Leistungsfälle dem Grunde und dem Umfang nach prüfen und die Regulierung oder die Ablehnung vornehmen zu können. Dabei sollen rechtliche Vorschriften angewendet, betriebliche Abläufe berücksichtigt und die Interessen von Kunden und Versicherern abgewogen werden. Unter Bezugnahme auf einen in der Anlage 1 Nr. 1 bis 5 zu wählenden produktbezogenen Qualifikationsschwerpunkt können folgende Befähigungen geprüft werden:
+(5) Im Handlungsbereich Schaden- und Leistungsmanagement“ soll die Fähigkeit nachgewiesen werden, komplexe Schaden- und Leistungsfälle dem Grunde und dem Umfang nach prüfen und die Regulierung oder die Ablehnung vornehmen zu können. Dabei sollen rechtliche Vorschriften angewendet, betriebliche Abläufe berücksichtigt und die Interessen von Kunden und Versicherern abgewogen werden. Unter Bezugnahme auf einen in der Anlage 1 Nr. 1 bis 5 zu wählenden produktbezogenen Qualifikationsschwerpunkt können folgende Befähigungen geprüft werden:
 
 - 1. :: komplexe Schaden- und Leistungsfälle unter Berücksichtigung von Regressmöglichkeiten sowie Mit- und Rückversicherung bearbeiten,
 - 2. :: Geschäftsprozesse im Schaden- und Leistungsmanagement auch unter Berücksichtigung von Assistance-Leistungen gestalten,

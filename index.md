@@ -299,8 +299,8 @@
 - [AÜGMeldstellV](laws/AÜGMeldstellV.txt) Verordnung zur Bestimmung der zuständigen Behörde nach § 17b Absatz 4 des Arbeitnehmerüberlassungsgesetzes
 - [AÜKostV](laws/AÜKostV.txt) Verordnung über die Kosten der Erlaubnis zur Arbeitnehmerüberlassung
 - [AufbauhfV](laws/AufbauhfV.txt) Verordnung nach § 2 Abs. 6 des Aufbauhilfefondsgesetzes
-- [AufbhG](laws/AufbhG.txt) Gesetz zur Errichtung eines Sondervermögens �Aufbauhilfe“
-- [AufbhV](laws/AufbhV.txt) Verordnung über die Verteilung und Verwendung der Mittel des Fonds �Aufbauhilfe“
+- [AufbhG](laws/AufbhG.txt) Gesetz zur Errichtung eines Sondervermögens Aufbauhilfe“
+- [AufbhV](laws/AufbhV.txt) Verordnung über die Verteilung und Verwendung der Mittel des Fonds Aufbauhilfe“
 - [AufenthG](laws/AufenthG.txt) Gesetz über den Aufenthalt, die Erwerbstätigkeit und die Integration von Ausländern im Bundesgebiet
 - [AufenthV](laws/AufenthV.txt) Aufenthaltsverordnung
 - [AufgÜbertrV OFD Düsseld](laws/AufgÜbertrV%20OFD%20Düsseld.txt) Verordnung zur Übertragung von Aufgaben der Oberfinanzdirektion Düsseldorf
@@ -1477,7 +1477,7 @@
 - [DGBankSa](laws/DGBankSa.txt) Satzung DG BANK AG
 - [DGBankUmwG](laws/DGBankUmwG.txt) Gesetz zur Umwandlung der Deutschen Genossenschaftsbank
 - [DGIAG](laws/DGIAG.txt) Gesetz zur Errichtung einer Stiftung Deutsche Geisteswissenschaftliche Institute im Ausland, Bonn
-- [DHMG](laws/DHMG.txt) Gesetz zur Errichtung einer Stiftung �Deutsches Historisches Museum“
+- [DHMG](laws/DHMG.txt) Gesetz zur Errichtung einer Stiftung Deutsches Historisches Museum“
 - [DHRV](laws/DHRV.txt) Verordnung über das Deutsche Hämophilieregister
 - [DiätAss-APrV](laws/DiätAss-APrV.txt) Ausbildungs- und Prüfungsverordnung für Diätassistentinnen und Diätassistenten
 - [DiätAssG](laws/DiätAssG.txt) Gesetz über den Beruf der Diätassistentin und des Diätassistenten (Artikel 1 des Gesetzes über den Beruf der Diätassistentin und des Diätassistenten und zur Änderung verschiedener Gesetze über den Zugang zu anderen Heilberufen)
@@ -1489,7 +1489,7 @@
 - [DialogmServAusbV](laws/DialogmServAusbV.txt) Verordnung über die Berufsausbildung zur Servicefachkraft für Dialogmarketing
 - [DienstRÄndG 2](laws/DienstRÄndG%202.txt) Zweites Gesetz zur Änderung dienstrechtlicher Vorschriften (Angehörige des öffentlichen Dienstes in Landesparlamenten)
 - [DienstRÄndG 5](laws/DienstRÄndG%205.txt) Fünftes Gesetz zur Änderung dienstrechtlicher Vorschriften
-- [DIFG](laws/DIFG.txt) Gesetz zur Errichtung des Sondervermögens �Digitale Infrastruktur“
+- [DIFG](laws/DIFG.txt) Gesetz zur Errichtung des Sondervermögens Digitale Infrastruktur“
 - [Dig/PrintMedAusbV 2013](laws/Dig_PrintMedAusbV%202013.txt) Verordnung über die Berufsausbildung zum Mediengestalter Digital und Print und zur Mediengestalterin Digital und Print
 - [DiGAV](laws/DiGAV.txt) Verordnung über das Verfahren und die Anforderungen zur Prüfung der Erstattungsfähigkeit digitaler Gesundheitsanwendungen in der gesetzlichen Krankenversicherung
 - [DigiManKflAusbV](laws/DigiManKflAusbV.txt) Verordnung über die Berufsausbildung zum Kaufmann für Digitalisierungsmanagement und zur Kauffrau für Digitalisierungsmanagement
@@ -1705,7 +1705,7 @@
 - [EJG](laws/EJG.txt) Gesetz über Eurojust und das Europäische Justizielle Netz in Strafsachen
 - [EJKoV](laws/EJKoV.txt) Verordnung über die Koordinierung der Zusammenarbeit mit Eurojust
 - [EJTAnV](laws/EJTAnV.txt) Verordnung über die Benennung und Einrichtung der nationalen Eurojust-Anlaufstelle für Terrorismusfragen
-- [EKFG](laws/EKFG.txt) Gesetz zur Errichtung eines Sondervermögens �Energie- und Klimafonds“
+- [EKFG](laws/EKFG.txt) Gesetz zur Errichtung eines Sondervermögens Energie- und Klimafonds“
 - [eKFV](laws/eKFV.txt) Verordnung über die Teilnahme von Elektrokleinstfahrzeugen am Straßenverkehr
 - [Elbe-LV](laws/Elbe-LV.txt) Verordnung über die Verwaltung und Ordnung des Seelotsreviers Elbe
 - [ElbVwGrHmbV](laws/ElbVwGrHmbV.txt) Verordnung über die Verwaltung der Elbe im Gebiet Groß-Hamburg
@@ -1934,7 +1934,7 @@
 - [EUROCONTROLÜbkÄndProt](laws/EUROCONTROLÜbkÄndProt.txt) Protokoll zur Änderung des Internationalen Übereinkommens über Zusammenarbeit zur Sicherung der Luftfahrt "EUROCONTROL" vom 13. Dezember 1960
 - [EUROCONTROLÜbkÄndProtG](laws/EUROCONTROLÜbkÄndProtG.txt) Gesetz zu dem Protokoll vom 12. Februar 1981 zur Änderung des Internationalen Übereinkommens über Zusammenarbeit zur Sicherung der Luftfahrt "EUROCONTROL" vom 13. Dezember 1960 und zu der Mehrseitigen Vereinbarung vom 12. Februar 1981 über Flugsicherungs-Streckengebühren
 - [EUROCONTROLÜbkG](laws/EUROCONTROLÜbkG.txt) Gesetz zu dem Internationalen Übereinkommen vom 13. Dezember 1960 über Zusammenarbeit zur Sicherung der Luftfahrt "EUROCONTROL"
-- [EUROCONTROLÜbkNFProtG](laws/EUROCONTROLÜbkNFProtG.txt) Gesetz zu dem Protokoll vom 27. Juni 1997 zur Neufassung des Internationalen Übereinkommens vom 13. Dezember 1960 über Zusammenarbeit zur Sicherung der Luftfahrt �EUROCONTROL“
+- [EUROCONTROLÜbkNFProtG](laws/EUROCONTROLÜbkNFProtG.txt) Gesetz zu dem Protokoll vom 27. Juni 1997 zur Neufassung des Internationalen Übereinkommens vom 13. Dezember 1960 über Zusammenarbeit zur Sicherung der Luftfahrt EUROCONTROL“
 - [EUROCONTROLÜbkZProt](laws/EUROCONTROLÜbkZProt.txt) Zusatzprotokoll zum Internationalen Übereinkommen über Zusammenarbeit zur Sicherung der Luftfahrt "EUROCONTROL"
 - [EUROCONTROLVorRV](laws/EUROCONTROLVorRV.txt) Verordnung über die Gewährung von Vorrechten und Befreiungen an die Europäische Organisation zur Sicherung der Luftfahrt "EUROCONTROL" in Brüssel
 - [EUROCONTROLVorRV 2](laws/EUROCONTROLVorRV%202.txt) Zweite Verordnung über die Gewährung von Vorrechten und Befreiungen an die Europäische Organisation zur Sicherung der Luftfahrt "EUROCONTROL"
@@ -2172,7 +2172,7 @@
 - [FluSiGebVbg](laws/FluSiGebVbg.txt) Mehrseitige Vereinbarung über Flugsicherungs-Streckengebühren
 - [FlUStatV](laws/FlUStatV.txt) Verordnung über die Durchführung einer Statistik über die Schlachttier- und Fleischuntersuchung
 - [FluthilfeMedErl](laws/FluthilfeMedErl.txt) Gemeinsamer Erlass des Bundesministers des Innern und des Bundesministers der Verteidigung über die Stiftung der Einsatzmedaille "Fluthilfe 2002"
-- [FluthilfeMedErl 2013](laws/FluthilfeMedErl%202013.txt) Gemeinsamer Erlass des Bundesministers des Innern und des Bundesministers der Verteidigung über die Stiftung der Einsatzmedaille �Fluthilfe 2013“
+- [FluthilfeMedErl 2013](laws/FluthilfeMedErl%202013.txt) Gemeinsamer Erlass des Bundesministers des Innern und des Bundesministers der Verteidigung über die Stiftung der Einsatzmedaille Fluthilfe 2013“
 - [FlUUG](laws/FlUUG.txt) Gesetz über die Untersuchung von Unfällen und Störungen bei dem Betrieb ziviler Luftfahrzeuge
 - [FMontAusbV](laws/FMontAusbV.txt) Verordnung über die Berufsausbildung zum Fassadenmonteur/zur Fassadenmonteurin
 - [FMSAKostV](laws/FMSAKostV.txt) Verordnung über die Erstattung und Umlage von Kosten der Bundesanstalt für Finanzmarktstabilisierung
@@ -2194,7 +2194,7 @@
 - [ForstWiAusbV 1998](laws/ForstWiAusbV%201998.txt) Verordnung über die Berufsausbildung zum Forstwirt/zur Forstwirtin
 - [ForstWiMeistPrV](laws/ForstWiMeistPrV.txt) Verordnung über die Anforderungen in der Meisterprüfung für den Beruf Forstwirt/Forstwirtin
 - [FortbVenÄndV6AnwV](laws/FortbVenÄndV6AnwV.txt) Verordnung zur Anwendung der Sechsten Verordnung zur Änderung von Fortbildungsordnungen
-- [ForumRG](laws/ForumRG.txt) Gesetz zur Errichtung der �Stiftung Forum Recht“
+- [ForumRG](laws/ForumRG.txt) Gesetz zur Errichtung der Stiftung Forum Recht“
 - [ForUmV](laws/ForUmV.txt) Verordnung über Erhebungen zum forstlichen Umweltmonitoring
 - [FotoAusbV](laws/FotoAusbV.txt) Verordnung über die Berufsausbildung zum Fotografen und zur Fotografin
 - [FotografMstrV](laws/FotografMstrV.txt) Verordnung über die Meisterprüfung in den Teilen I und II im Fotografen-Handwerk
@@ -2283,7 +2283,7 @@
 - [G21 BY](laws/G21%20BY.txt) Gesetz Nr. 21 zur Wiedergutmachung nationalsozialistischen Unrechts in der Strafrechtspflege
 - [GAD](laws/GAD.txt) Gesetz über den Auswärtigen Dienst
 - [GärtnAusbV](laws/GärtnAusbV.txt) Verordnung über die Berufsausbildung zum Gärtner/zur Gärtnerin
-- [GaFG](laws/GaFG.txt) Gesetz zur Errichtung des Sondervermögens �Ausbau ganztägiger Bildungs- und Betreuungsangebote für Kinder im Grundschulalter“
+- [GaFG](laws/GaFG.txt) Gesetz zur Errichtung des Sondervermögens Ausbau ganztägiger Bildungs- und Betreuungsangebote für Kinder im Grundschulalter“
 - [GAKG](laws/GAKG.txt) Gesetz über die Gemeinschaftsaufgabe "Verbesserung der Agrarstruktur und des Küstenschutzes"
 - [GalvMstrV](laws/GalvMstrV.txt) Verordnung über die Meisterprüfung in den Teilen I und II im Galvaniseur-Handwerk
 - [GarBBAnO](laws/GarBBAnO.txt) Anordnung über den Bau und Betrieb von Garagen
@@ -2675,7 +2675,7 @@
 - [HHG](laws/HHG.txt) Gesetz über Hilfsmaßnahmen für Personen, die aus politischen Gründen außerhalb der Bundesrepublik Deutschland in Gewahrsam genommen wurden
 - [HHG§3V](laws/HHG§3V.txt) Verordnung über die Gleichstellung von Personen nach § 3 des Häftlingshilfegesetzes
 - [HiKassGAufhG](laws/HiKassGAufhG.txt) Gesetz betreffend die Aufhebung des Hilfskassengesetzes
-- [HilfetelefonG](laws/HilfetelefonG.txt) Gesetz zur Einrichtung und zum Betrieb eines bundesweiten Hilfetelefons �Gewalt gegen Frauen“
+- [HilfetelefonG](laws/HilfetelefonG.txt) Gesetz zur Einrichtung und zum Betrieb eines bundesweiten Hilfetelefons Gewalt gegen Frauen“
 - [HIVHG](laws/HIVHG.txt) Gesetz über die humanitäre Hilfe für durch Blutprodukte HIV-infizierte Personen
 - [HiWerkBehKGÄndG](laws/HiWerkBehKGÄndG.txt) Gesetz zur Änderung des Gesetzes über die Errichtung einer Stiftung "Hilfswerk für behinderte Kinder"
 - [HKEntschG](laws/HKEntschG.txt) Gesetz über eine einmalige Entschädigung an die Heimkehrer aus dem Beitrittsgebiet
@@ -2932,7 +2932,7 @@
 - [IT-NetzG](laws/IT-NetzG.txt) Gesetz über die Verbindung der informationstechnischen Netze des Bundes und der Länder – Gesetz zur Ausführung von Artikel 91c Absatz 4 des Grundgesetzes –
 - [ItalKultInstVorRNotW](laws/ItalKultInstVorRNotW.txt) Notenwechsel über die Gewährung von Vorrechten und Befreiungen an die italienischen Kulturinstitute
 - [ItalKultInstVorRV](laws/ItalKultInstVorRV.txt) Verordnung über die Gewährung von Vorrechten und Befreiungen an die italienischen Kulturinstitute
-- [ITFG](laws/ITFG.txt) Gesetz zur Errichtung eines Sondervermögens �Investitions- und Tilgungsfonds“
+- [ITFG](laws/ITFG.txt) Gesetz zur Errichtung eines Sondervermögens Investitions- und Tilgungsfonds“
 - [ITSABV](laws/ITSABV.txt) Verordnung zur Erhöhung der Bevorratung mit Arzneimitteln zur intensivmedizinischen Versorgung
 - [ITSEAusbV](laws/ITSEAusbV.txt) Verordnung über die Berufsausbildung zum IT-System-Elektroniker und zur IT-System-Elektronikerin
 - [ITSManKflAusbV](laws/ITSManKflAusbV.txt) Verordnung über die Berufsausbildung zum Kaufmann für IT-System-Management und zur Kauffrau für IT-System-Management
@@ -3027,7 +3027,7 @@
 - [KAV](laws/KAV.txt) Verordnung über Konzessionsabgaben für Strom und Gas
 - [KAVerOV](laws/KAVerOV.txt) Verordnung zur Konkretisierung der Verhaltensregeln und Organisationsregeln nach dem Kapitalanlagegesetzbuch
 - [KBAG](laws/KBAG.txt) Gesetz über die Errichtung eines Kraftfahrt-Bundesamtes
-- [KBFG](laws/KBFG.txt) Gesetz zur Errichtung eines Sondervermögens �Kinderbetreuungsausbau“
+- [KBFG](laws/KBFG.txt) Gesetz zur Errichtung eines Sondervermögens Kinderbetreuungsausbau“
 - [KBNAnrG](laws/KBNAnrG.txt) Gesetz zur Nichtanrechnung und Nichtberücksichtigung des Kinderbonus
 - [KBV](laws/KBV.txt) Kleinbetragsverordnung
 - [KDAV](laws/KDAV.txt) Verordnung über das automatisierte Verfahren zur Auskunft über Kundendaten nach § 112 des Telekommunikationsgesetzes
@@ -3079,7 +3079,7 @@
 - [KiGAbV](laws/KiGAbV.txt) Verordnung über den automatisierten Abruf von Kindergelddaten durch die Bezügestellen des öffentlichen Dienstes
 - [KindArbSchV](laws/KindArbSchV.txt) Verordnung über den Kinderarbeitsschutz
 - [KindUFV](laws/KindUFV.txt) Verordnung zur Einführung von Vordrucken für das vereinfachte Verfahren über den Unterhalt minderjähriger Kinder
-- [KInvFErrG](laws/KInvFErrG.txt) Gesetz zur Errichtung eines Sondervermögens �Kommunalinvestitionsförderungsfonds“
+- [KInvFErrG](laws/KInvFErrG.txt) Gesetz zur Errichtung eines Sondervermögens Kommunalinvestitionsförderungsfonds“
 - [KInvFG](laws/KInvFG.txt) Gesetz zur Förderung von Investitionen finanzschwacher Kommunen
 - [KiQuTG](laws/KiQuTG.txt) Gesetz zur Weiterentwicklung der Qualität und zur Verbesserung der Teilhabe in Tageseinrichtungen und in der Kindertagespflege
 - [KirchenberufeV](laws/KirchenberufeV.txt) Verordnung über die Ausbildungsförderung für den Besuch von Ausbildungsstätten für kirchliche Berufe
@@ -3657,7 +3657,7 @@
 - [MinRohSorgG](laws/MinRohSorgG.txt) Gesetz zur Durchführung der Verordnung (EU) 2017/821 des Europäischen Parlaments und des Rates vom 17. Mai 2017 zur Festlegung von Pflichten zur Erfüllung der Sorgfaltspflichten in der Lieferkette für Unionseinführer von Zinn, Tantal, Wolfram, deren Erzen und Gold aus Konflikt- und Hochrisikogebieten
 - [MinRSozSBes](laws/MinRSozSBes.txt) Beschluß des Ministerrates der Deutschen Demokratischen Republik über Regelungen zur sozialen Sicherstellung für ausscheidende Mitglieder des Ministerrates vom 8. Februar 1990 in der Fassung des Beschlusses vom 8. August 1990
 - [MinUhV](laws/MinUhV.txt) Verordnung zur Festlegung des Mindestunterhalts minderjähriger Kinder nach § 1612a Absatz 1 des Bürgerlichen Gesetzbuchs
-- [MISSAufstV](laws/MISSAufstV.txt) Verordnung über den Aufstieg in den höheren nichttechnischen Verwaltungsdienst über den Masterstudiengang �Intelligence and Security Studies“
+- [MISSAufstV](laws/MISSAufstV.txt) Verordnung über den Aufstieg in den höheren nichttechnischen Verwaltungsdienst über den Masterstudiengang Intelligence and Security Studies“
 - [MitbestBeiG](laws/MitbestBeiG.txt) Gesetz zur Beibehaltung der Mitbestimmung beim Austausch von Anteilen und der Einbringung von Unternehmensteilen, die Gesellschaften verschiedener Mitgliedstaaten der Europäischen Union betreffen
 - [MitbestG](laws/MitbestG.txt) Gesetz über die Mitbestimmung der Arbeitnehmer
 - [MittelweserG](laws/MittelweserG.txt) Gesetz über den Grunderwerb für die Kanalisierung der Mittelweser
@@ -3689,7 +3689,7 @@
 - [MoselSchPV](laws/MoselSchPV.txt) Moselschiffahrtspolizeiverordnung
 - [MoselVtr FRA/LUX](laws/MoselVtr%20FRA_LUX.txt) Vertrag zwischen der Bundesrepublik Deutschland, der Französischen Republik und dem Großherzogtum Luxemburg über die Schiffbarmachung der Mosel
 - [MoselVtrFRA/LUXG](laws/MoselVtrFRA_LUXG.txt) Gesetz zu dem Vertrag vom 27. Oktober 1956 zwischen der Bundesrepublik Deutschland, der Französischen Republik und dem Großherzogtum Luxemburg über die Schiffbarmachung der Mosel
-- [MPAHSBundV](laws/MPAHSBundV.txt) Verordnung über den Aufstieg in den höheren nichttechnischen Verwaltungsdienst des Bundes über das Studium �Master of Public Administration“ an der Hochschule des Bundes für öffentliche Verwaltung
+- [MPAHSBundV](laws/MPAHSBundV.txt) Verordnung über den Aufstieg in den höheren nichttechnischen Verwaltungsdienst des Bundes über das Studium Master of Public Administration“ an der Hochschule des Bundes für öffentliche Verwaltung
 - [MPAV](laws/MPAV.txt) Verordnung zur Regelung der Abgabe von Medizinprodukten
 - [MPBetreibV](laws/MPBetreibV.txt) Verordnung über das Errichten, Betreiben und Anwenden von Medizinprodukten
 - [MPDG](laws/MPDG.txt) Gesetz zur Durchführung unionsrechtlicher Vorschriften betreffend Medizinprodukte
@@ -3723,19 +3723,19 @@
 - [Münz100EuroBek 2005](laws/Münz100EuroBek%202005.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze "FIFA Fußball-Weltmeisterschaft in Deutschland 2006")
 - [Münz100EuroBek 2006](laws/Münz100EuroBek%202006.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze "UNESCO Welterbe – Klassisches Weimar")
 - [Münz100EuroBek 2007](laws/Münz100EuroBek%202007.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze "UNESCO Welterbe — Hansestadt Lübeck")
-- [Münz100EuroBek 2008](laws/Münz100EuroBek%202008.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze �UNESCO Welterbe Altstadt Goslar – Bergwerk Rammelsberg“)
-- [Münz100EuroBek 2009-07-31](laws/Münz100EuroBek%202009-07-31.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze �UNESCO Welterbe Römische Baudenkmäler - Dom und Liebfrauenkirche in Trier“)
-- [Münz100EuroBek 2010](laws/Münz100EuroBek%202010.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze �UNESCO Welterbe Würzburger Residenz und Hofgarten“)
-- [Münz100EuroBek 2011](laws/Münz100EuroBek%202011.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze �UNESCO Welterbe Wartburg“)
-- [Münz100EuroBek 2012](laws/Münz100EuroBek%202012.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze �UNESCO Welterbe - Dom zu Aachen“)
-- [Münz100EuroBek 2014-02-28](laws/Münz100EuroBek%202014-02-28.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze �UNESCO Welterbe Gartenreich Dessau-Wörlitz“)
-- [Münz100EuroBek 2015-06-23](laws/Münz100EuroBek%202015-06-23.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze �UNESCO Welterbe Kloster Lorsch“)
-- [Münz100EuroBek 2016-04-04](laws/Münz100EuroBek%202016-04-04.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze �UNESCO Welterbe - Oberes Mittelrheintal“)
-- [Münz100EuroBek 2016-12-01](laws/Münz100EuroBek%202016-12-01.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze �UNESCO Welterbe - Altstadt Regensburg mit Stadtamhof“)
-- [Münz100EuroBek 2017-10-23](laws/Münz100EuroBek%202017-10-23.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze �UNESCO Welterbe - Luthergedenkstätten Eisleben und Wittenberg“)
-- [Münz100EuroBek 2019-08-07](laws/Münz100EuroBek%202019-08-07.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze �UNESCO Welterbe – Schlösser Augustusburg und Falkenlust in Brühl“)
-- [Münz100EuroBek 2019-10-08](laws/Münz100EuroBek%202019-10-08.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze �UNESCO Welterbe Dom zu Speyer“)
-- [Münz100EuroBek 2021-02-08](laws/Münz100EuroBek%202021-02-08.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze �Einigkeit“)
+- [Münz100EuroBek 2008](laws/Münz100EuroBek%202008.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze UNESCO Welterbe Altstadt Goslar – Bergwerk Rammelsberg“)
+- [Münz100EuroBek 2009-07-31](laws/Münz100EuroBek%202009-07-31.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze UNESCO Welterbe Römische Baudenkmäler - Dom und Liebfrauenkirche in Trier“)
+- [Münz100EuroBek 2010](laws/Münz100EuroBek%202010.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze UNESCO Welterbe Würzburger Residenz und Hofgarten“)
+- [Münz100EuroBek 2011](laws/Münz100EuroBek%202011.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze UNESCO Welterbe Wartburg“)
+- [Münz100EuroBek 2012](laws/Münz100EuroBek%202012.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze UNESCO Welterbe - Dom zu Aachen“)
+- [Münz100EuroBek 2014-02-28](laws/Münz100EuroBek%202014-02-28.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze UNESCO Welterbe Gartenreich Dessau-Wörlitz“)
+- [Münz100EuroBek 2015-06-23](laws/Münz100EuroBek%202015-06-23.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze UNESCO Welterbe Kloster Lorsch“)
+- [Münz100EuroBek 2016-04-04](laws/Münz100EuroBek%202016-04-04.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze UNESCO Welterbe - Oberes Mittelrheintal“)
+- [Münz100EuroBek 2016-12-01](laws/Münz100EuroBek%202016-12-01.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze UNESCO Welterbe - Altstadt Regensburg mit Stadtamhof“)
+- [Münz100EuroBek 2017-10-23](laws/Münz100EuroBek%202017-10-23.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze UNESCO Welterbe - Luthergedenkstätten Eisleben und Wittenberg“)
+- [Münz100EuroBek 2019-08-07](laws/Münz100EuroBek%202019-08-07.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze UNESCO Welterbe – Schlösser Augustusburg und Falkenlust in Brühl“)
+- [Münz100EuroBek 2019-10-08](laws/Münz100EuroBek%202019-10-08.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze UNESCO Welterbe Dom zu Speyer“)
+- [Münz100EuroBek 2021-02-08](laws/Münz100EuroBek%202021-02-08.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze Einigkeit“)
 - [Münz10DMBek](laws/Münz10DMBek.txt) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze 750-Jahr-Feier Berlins)
 - [Münz10DMBek 1987-10](laws/Münz10DMBek%201987-10.txt) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze 30 Jahre Römische Verträge)
 - [Münz10DMBek 1988-08](laws/Münz10DMBek%201988-08.txt) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze Arthur Schopenhauer)
@@ -3805,93 +3805,93 @@
 - [Münz10EuroBek 2007-01-24](laws/Münz10EuroBek%202007-01-24.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze "50 Jahre Römische Verträge")
 - [Münz10EuroBek 2007-05-05](laws/Münz10EuroBek%202007-05-05.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze "175. Geburtstag von Wilhelm Busch")
 - [Münz10EuroBek 2007-05-15](laws/Münz10EuroBek%202007-05-15.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze "50 Jahre Deutsche Bundesbank")
-- [Münz10EuroBek 2007-10-11](laws/Münz10EuroBek%202007-10-11.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze �800. Geburtstag Elisabeth von Thüringen“)
-- [Münz10EuroBek 2008-01-19](laws/Münz10EuroBek%202008-01-19.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze �200. Geburtstag Carl Spitzweg“)
-- [Münz10EuroBek 2008-03-17](laws/Münz10EuroBek%202008-03-17.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze �150. Geburtstag Max Planck“)
-- [Münz10EuroBek 2008-04-24](laws/Münz10EuroBek%202008-04-24.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze �125. Geburtstag Franz Kafka“)
-- [Münz10EuroBek 2008-05-28](laws/Münz10EuroBek%202008-05-28.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze �50 Jahre Gorch Fock“)
-- [Münz10EuroBek 2008-08-25](laws/Münz10EuroBek%202008-08-25.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze �Himmelsscheibe von Nebra“)
-- [Münz10EuroBek 2009-03-04](laws/Münz10EuroBek%202009-03-04.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze �IAAF Leichtathletik WM Berlin 2009“)
-- [Münz10EuroBek 2009-03-24](laws/Münz10EuroBek%202009-03-24.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro Gedenkmünze �400 Jahre Keplersche Gesetze“
-- [Münz10EuroBek 2009-05-07](laws/Münz10EuroBek%202009-05-07.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze �100 Jahre Internationale Luftfahrtausstellung“)
-- [Münz10EuroBek 2009-05-29](laws/Münz10EuroBek%202009-05-29.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze �600 Jahre Universität Leipzig“)
-- [Münz10EuroBek 2009-07-27](laws/Münz10EuroBek%202009-07-27.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze �100 Jahre Jugendherbergen")
-- [Münz10EuroBek 2009-09-04](laws/Münz10EuroBek%202009-09-04.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze �100. Geburtstag Marion Gräfin Dönhoff“)
-- [Münz10EuroBek 2010-04](laws/Münz10EuroBek%202010-04.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze �200. Geburtstag des Komponisten Robert Schumann“)
-- [Münz10EuroBek 2010-05-10](laws/Münz10EuroBek%202010-05-10.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze �300 Jahre Porzellanherstellung in Deutschland“)
-- [Münz10EuroBek 2010-05-20](laws/Münz10EuroBek%202010-05-20.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze �100. Geburtstag von Konrad Zuse“)
-- [Münz10EuroBek 2010-08](laws/Münz10EuroBek%202010-08.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze �20 Jahre Deutsche Einheit“)
-- [Münz10EuroBek 2010-09-24](laws/Münz10EuroBek%202010-09-24.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze �175 Jahre Eisenbahn in Deutschland“)
-- [Münz10EuroBek 2010-12-17](laws/Münz10EuroBek%202010-12-17.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro Gedenkmünze �FIS-ALPINE SKI WM 2011 Garmisch-Partenkirchen“
-- [Münz10EuroBek 2011-01-20](laws/Münz10EuroBek%202011-01-20.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze �200. Geburtstag Franz Liszt“)
-- [Münz10EuroBek 2011-05-23](laws/Münz10EuroBek%202011-05-23.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze �125 Jahre Automobil“)
-- [Münz10EuroBek 2011-05-23/2](laws/Münz10EuroBek%202011-05-23_2.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze �FRAUENFUSSBALL-WM in DEUTSCHLAND“)
-- [Münz10EuroBek 2011-05-25](laws/Münz10EuroBek%202011-05-25.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze �150 Jahre Entdeckung des Urvogels Archaeopteryx“)
-- [Münz10EuroBek 2011-06-23](laws/Münz10EuroBek%202011-06-23.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze �500 Jahre Till Eulenspiegel“)
-- [Münz10EuroBek 2011-09-20](laws/Münz10EuroBek%202011-09-20.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze �100 Jahre Hamburger Elbtunnel“)
-- [Münz10EuroBek 2011-12-13](laws/Münz10EuroBek%202011-12-13.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze �300. Geburtstag Friedrich II.“)
-- [Münz10EuroBek 2012-02-13](laws/Münz10EuroBek%202012-02-13.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze �50 Jahre Deutsche Welthungerhilfe“)
-- [Münz10EuroBek 2012-03-08](laws/Münz10EuroBek%202012-03-08.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze �200 Jahre Grimms Märchen“)
-- [Münz10EuroBek 2012-09-10](laws/Münz10EuroBek%202012-09-10.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze �100 Jahre Deutsche Nationalbibliothek“)
-- [Münz10EuroBek 2012-11-19](laws/Münz10EuroBek%202012-11-19.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze �150. Geburtstag Gerhart Hauptmann“)
-- [Münz10EuroBek 2013-03-21](laws/Münz10EuroBek%202013-03-21.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze �Schneewittchen“)
-- [Münz10EuroBek 2013-04-25](laws/Münz10EuroBek%202013-04-25.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze �150 Jahre Rotes Kreuz“)
-- [Münz10EuroBek 2013-07-09](laws/Münz10EuroBek%202013-07-09.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze �200. Geburtstag Richard Wagner“)
-- [Münz10EuroBek 2014-02-28](laws/Münz10EuroBek%202014-02-28.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze �200. Geburtstag Georg Büchner“)
-- [Münz10EuroBek 2014-02-28/2](laws/Münz10EuroBek%202014-02-28_2.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze �Hänsel und Gretel“)
-- [Münz10EuroBek 2014-02-28/3](laws/Münz10EuroBek%202014-02-28_3.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze �125 Jahre Strahlen elektrischer Kraft Heinrich Hertz“)
-- [Münz10EuroBek 2014-05-06](laws/Münz10EuroBek%202014-05-06.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze �250. Geburtstag Johann Gottfried Schadow“)
-- [Münz10EuroBek 2014-07-08](laws/Münz10EuroBek%202014-07-08.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze �150. Geburtstag Richard Strauss“)
-- [Münz10EuroBek 2014-07-08/2](laws/Münz10EuroBek%202014-07-08_2.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze �600 Jahre Konstanzer Konzil“)
-- [Münz10EuroBek 2015-06-23](laws/Münz10EuroBek%202015-06-23.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze �300 Jahre Fahrenheit-Skala“)
-- [Münz10EuroBek 2015-06-23/2](laws/Münz10EuroBek%202015-06-23_2.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze �Dornröschen“)
-- [Münz10EuroBek 2015-06-23/3](laws/Münz10EuroBek%202015-06-23_3.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze �200. Geburtstag Otto von Bismarck“)
-- [Münz10EuroBek 2015-06-23/4](laws/Münz10EuroBek%202015-06-23_4.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze �150 Jahre Gesellschaft zur Rettung Schiffbrüchiger“)
-- [Münz10EuroBek 2015-06-23/5](laws/Münz10EuroBek%202015-06-23_5.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze �1 000 Jahre Leipzig“)
-- [Münz10EuroBek 2016-04-04](laws/Münz10EuroBek%202016-04-04.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze �500. Geburtstag Lucas Cranach der Jüngere“)
-- [Münz10EuroBek 2019-08-07](laws/Münz10EuroBek%202019-08-07.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze �In der Luft“)
-- [Münz10EuroBek 2020-03-20](laws/Münz10EuroBek%202020-03-20.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze �An Land“)
+- [Münz10EuroBek 2007-10-11](laws/Münz10EuroBek%202007-10-11.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze 800. Geburtstag Elisabeth von Thüringen“)
+- [Münz10EuroBek 2008-01-19](laws/Münz10EuroBek%202008-01-19.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze 200. Geburtstag Carl Spitzweg“)
+- [Münz10EuroBek 2008-03-17](laws/Münz10EuroBek%202008-03-17.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze 150. Geburtstag Max Planck“)
+- [Münz10EuroBek 2008-04-24](laws/Münz10EuroBek%202008-04-24.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze 125. Geburtstag Franz Kafka“)
+- [Münz10EuroBek 2008-05-28](laws/Münz10EuroBek%202008-05-28.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze 50 Jahre Gorch Fock“)
+- [Münz10EuroBek 2008-08-25](laws/Münz10EuroBek%202008-08-25.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze Himmelsscheibe von Nebra“)
+- [Münz10EuroBek 2009-03-04](laws/Münz10EuroBek%202009-03-04.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze IAAF Leichtathletik WM Berlin 2009“)
+- [Münz10EuroBek 2009-03-24](laws/Münz10EuroBek%202009-03-24.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro Gedenkmünze 400 Jahre Keplersche Gesetze“
+- [Münz10EuroBek 2009-05-07](laws/Münz10EuroBek%202009-05-07.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze 100 Jahre Internationale Luftfahrtausstellung“)
+- [Münz10EuroBek 2009-05-29](laws/Münz10EuroBek%202009-05-29.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze 600 Jahre Universität Leipzig“)
+- [Münz10EuroBek 2009-07-27](laws/Münz10EuroBek%202009-07-27.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze 100 Jahre Jugendherbergen")
+- [Münz10EuroBek 2009-09-04](laws/Münz10EuroBek%202009-09-04.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze 100. Geburtstag Marion Gräfin Dönhoff“)
+- [Münz10EuroBek 2010-04](laws/Münz10EuroBek%202010-04.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze 200. Geburtstag des Komponisten Robert Schumann“)
+- [Münz10EuroBek 2010-05-10](laws/Münz10EuroBek%202010-05-10.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze 300 Jahre Porzellanherstellung in Deutschland“)
+- [Münz10EuroBek 2010-05-20](laws/Münz10EuroBek%202010-05-20.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze 100. Geburtstag von Konrad Zuse“)
+- [Münz10EuroBek 2010-08](laws/Münz10EuroBek%202010-08.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze 20 Jahre Deutsche Einheit“)
+- [Münz10EuroBek 2010-09-24](laws/Münz10EuroBek%202010-09-24.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze 175 Jahre Eisenbahn in Deutschland“)
+- [Münz10EuroBek 2010-12-17](laws/Münz10EuroBek%202010-12-17.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro Gedenkmünze FIS-ALPINE SKI WM 2011 Garmisch-Partenkirchen“
+- [Münz10EuroBek 2011-01-20](laws/Münz10EuroBek%202011-01-20.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze 200. Geburtstag Franz Liszt“)
+- [Münz10EuroBek 2011-05-23](laws/Münz10EuroBek%202011-05-23.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze 125 Jahre Automobil“)
+- [Münz10EuroBek 2011-05-23/2](laws/Münz10EuroBek%202011-05-23_2.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze FRAUENFUSSBALL-WM in DEUTSCHLAND“)
+- [Münz10EuroBek 2011-05-25](laws/Münz10EuroBek%202011-05-25.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze 150 Jahre Entdeckung des Urvogels Archaeopteryx“)
+- [Münz10EuroBek 2011-06-23](laws/Münz10EuroBek%202011-06-23.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze 500 Jahre Till Eulenspiegel“)
+- [Münz10EuroBek 2011-09-20](laws/Münz10EuroBek%202011-09-20.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze 100 Jahre Hamburger Elbtunnel“)
+- [Münz10EuroBek 2011-12-13](laws/Münz10EuroBek%202011-12-13.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze 300. Geburtstag Friedrich II.“)
+- [Münz10EuroBek 2012-02-13](laws/Münz10EuroBek%202012-02-13.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze 50 Jahre Deutsche Welthungerhilfe“)
+- [Münz10EuroBek 2012-03-08](laws/Münz10EuroBek%202012-03-08.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze 200 Jahre Grimms Märchen“)
+- [Münz10EuroBek 2012-09-10](laws/Münz10EuroBek%202012-09-10.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze 100 Jahre Deutsche Nationalbibliothek“)
+- [Münz10EuroBek 2012-11-19](laws/Münz10EuroBek%202012-11-19.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze 150. Geburtstag Gerhart Hauptmann“)
+- [Münz10EuroBek 2013-03-21](laws/Münz10EuroBek%202013-03-21.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze Schneewittchen“)
+- [Münz10EuroBek 2013-04-25](laws/Münz10EuroBek%202013-04-25.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze 150 Jahre Rotes Kreuz“)
+- [Münz10EuroBek 2013-07-09](laws/Münz10EuroBek%202013-07-09.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze 200. Geburtstag Richard Wagner“)
+- [Münz10EuroBek 2014-02-28](laws/Münz10EuroBek%202014-02-28.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze 200. Geburtstag Georg Büchner“)
+- [Münz10EuroBek 2014-02-28/2](laws/Münz10EuroBek%202014-02-28_2.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze Hänsel und Gretel“)
+- [Münz10EuroBek 2014-02-28/3](laws/Münz10EuroBek%202014-02-28_3.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze 125 Jahre Strahlen elektrischer Kraft Heinrich Hertz“)
+- [Münz10EuroBek 2014-05-06](laws/Münz10EuroBek%202014-05-06.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze 250. Geburtstag Johann Gottfried Schadow“)
+- [Münz10EuroBek 2014-07-08](laws/Münz10EuroBek%202014-07-08.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze 150. Geburtstag Richard Strauss“)
+- [Münz10EuroBek 2014-07-08/2](laws/Münz10EuroBek%202014-07-08_2.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze 600 Jahre Konstanzer Konzil“)
+- [Münz10EuroBek 2015-06-23](laws/Münz10EuroBek%202015-06-23.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze 300 Jahre Fahrenheit-Skala“)
+- [Münz10EuroBek 2015-06-23/2](laws/Münz10EuroBek%202015-06-23_2.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze Dornröschen“)
+- [Münz10EuroBek 2015-06-23/3](laws/Münz10EuroBek%202015-06-23_3.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze 200. Geburtstag Otto von Bismarck“)
+- [Münz10EuroBek 2015-06-23/4](laws/Münz10EuroBek%202015-06-23_4.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze 150 Jahre Gesellschaft zur Rettung Schiffbrüchiger“)
+- [Münz10EuroBek 2015-06-23/5](laws/Münz10EuroBek%202015-06-23_5.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze 1 000 Jahre Leipzig“)
+- [Münz10EuroBek 2016-04-04](laws/Münz10EuroBek%202016-04-04.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze 500. Geburtstag Lucas Cranach der Jüngere“)
+- [Münz10EuroBek 2019-08-07](laws/Münz10EuroBek%202019-08-07.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze In der Luft“)
+- [Münz10EuroBek 2020-03-20](laws/Münz10EuroBek%202020-03-20.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze An Land“)
 - [Münz1DMBek](laws/Münz1DMBek.txt) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 1 Deutschen Mark
 - [Münz1PfBek 1948](laws/Münz1PfBek%201948.txt) Bekanntmachung über die Ausprägung von Münzen im Nennwert von 1 Pfennig
 - [Münz1PfBek BW](laws/Münz1PfBek%20BW.txt) Bekanntmachung über die Ausprägung von Münzen im Nennwert von 1 Pfennig
-- [Münz20EuroBek 2010](laws/Münz20EuroBek%202010.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Goldmünze �Eiche“ der Serie �Deutscher Wald“)
-- [Münz20EuroBek 2011](laws/Münz20EuroBek%202011.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Goldmünze �Buche“ der Serie �Deutscher Wald“)
-- [Münz20EuroBek 2012](laws/Münz20EuroBek%202012.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Goldmünze �Fichte“ der Serie �Deutscher Wald“)
-- [Münz20EuroBek 2013](laws/Münz20EuroBek%202013.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Goldmünze �Kiefer“ der Serie �Deutscher Wald“)
-- [Münz20EuroBek 2015-06-23](laws/Münz20EuroBek%202015-06-23.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Goldmünze �Kastanie“ der Serie �Deutscher Wald“)
-- [Münz20EuroBek 2015-06-23/2](laws/Münz20EuroBek%202015-06-23_2.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Goldmünze �Linde“ der Serie �Deutscher Wald“)
-- [Münz20EuroBek 2016-04-04/1](laws/Münz20EuroBek%202016-04-04_1.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze �Rotkäppchen“)
-- [Münz20EuroBek 2016-04-04/2](laws/Münz20EuroBek%202016-04-04_2.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze �125. Geburtstag Nelly Sachs“)
-- [Münz20EuroBek 2016-07-11](laws/Münz20EuroBek%202016-07-11.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Goldmünze �Nachtigall“ der Serie �Heimische Vögel“)
-- [Münz20EuroBek 2016-12-01](laws/Münz20EuroBek%202016-12-01.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze �200. Geburtstag Ernst Litfaß“)
-- [Münz20EuroBek 2016-12-01/2](laws/Münz20EuroBek%202016-12-01_2.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze �175 Jahre Deutschlandlied“)
-- [Münz20EuroBek 2016-12-01/3](laws/Münz20EuroBek%202016-12-01_3.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze �125. Geburtstag Otto Dix“)
-- [Münz20EuroBek 2017-01-13](laws/Münz20EuroBek%202017-01-13.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze �Bremer Stadtmusikanten“ Stadtmusikanten)
-- [Münz20EuroBek 2017-03-23](laws/Münz20EuroBek%202017-03-23.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze �500 Jahre Reformation“)
-- [Münz20EuroBek 2017-04-19](laws/Münz20EuroBek%202017-04-19.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze �50 Jahre Deutsche Sporthilfe“)
-- [Münz20EuroBek 2017-06-15](laws/Münz20EuroBek%202017-06-15.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze �Laufmaschine von Karl Drais 1817“)
-- [Münz20EuroBek 2017-10-23/1](laws/Münz20EuroBek%202017-10-23_1.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Goldmünze �Pirol“ der Serie �Heimische Vögel“)
-- [Münz20EuroBek 2017-10-23/2](laws/Münz20EuroBek%202017-10-23_2.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze �300. Geburtstag Johann Joachim Winckelmann“)
-- [Münz20EuroBek 2018-07-23/1](laws/Münz20EuroBek%202018-07-23_1.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze �Froschkönig“)
-- [Münz20EuroBek 2018-07-23/2](laws/Münz20EuroBek%202018-07-23_2.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze �275 Jahre Gewandhausorchester“)
-- [Münz20EuroBek 2018-07-23/3](laws/Münz20EuroBek%202018-07-23_3.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze �800 Jahre Hansestadt Rostock“)
-- [Münz20EuroBek 2018-07-23/4](laws/Münz20EuroBek%202018-07-23_4.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Goldmünze �Uhu“ der Serie �Heimische Vögel“)
-- [Münz20EuroBek 2018-10-02](laws/Münz20EuroBek%202018-10-02.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze �150. Geburtstag Peter Behrens“)
-- [Münz20EuroBek 2019-08-07](laws/Münz20EuroBek%202019-08-07.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze �Tapferes Schneiderlein“)
-- [Münz20EuroBek 2019-08-07/1](laws/Münz20EuroBek%202019-08-07_1.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze �100. Geburtstag Ernst Otto Fischer“)
-- [Münz20EuroBek 2019-08-07/2](laws/Münz20EuroBek%202019-08-07_2.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze �100 Jahre Frauenwahlrecht“)
-- [Münz20EuroBek 2019-08-07/3](laws/Münz20EuroBek%202019-08-07_3.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze �100 Jahre Bauhaus“)
-- [Münz20EuroBek 2019-08-07/4](laws/Münz20EuroBek%202019-08-07_4.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Goldmünze �Wanderfalke“ der Serie �Heimische Vögel“)
-- [Münz20EuroBek 2019-08-07/5](laws/Münz20EuroBek%202019-08-07_5.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze �100 Jahre Weimarer Reichsverfassung“)
-- [Münz20EuroBek 2019-08-28](laws/Münz20EuroBek%202019-08-28.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze �250. Geburtstag Alexander von Humboldt“)
-- [Münz20EuroBek 2020-01-22/1](laws/Münz20EuroBek%202020-01-22_1.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze �250. Geburtstag Ludwig van Beethoven“)
-- [Münz20EuroBek 2020-01-22/2](laws/Münz20EuroBek%202020-01-22_2.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze �Der Wolf und die sieben Geißlein“)
-- [Münz20EuroBek 2020-08-20](laws/Münz20EuroBek%202020-08-20.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze �300. Geburtstag Freiherr von Münchhausen“)
-- [Münz20EuroBek 2020-08-20/1](laws/Münz20EuroBek%202020-08-20_1.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Goldmünze �Wei�Heimische Vögel“)
-- [Münz20EuroBek 2020-08-20/2](laws/Münz20EuroBek%202020-08-20_2.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze �900 Jahre Freiburg“)
-- [Münz20EuroBek 2021-02-08/1](laws/Münz20EuroBek%202021-02-08_1.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze �Frau Holle“)
-- [Münz20EuroBek 2021-02-08/2](laws/Münz20EuroBek%202021-02-08_2.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze �50 Jahre Sendung mit der Maus“)
-- [Münz25EuroBek 2016-04-04](laws/Münz25EuroBek%202016-04-04.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 25 Euro (Gedenkmünze �25 Jahre Deutsche Einheit“)
+- [Münz20EuroBek 2010](laws/Münz20EuroBek%202010.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Goldmünze Eiche“ der Serie Deutscher Wald“)
+- [Münz20EuroBek 2011](laws/Münz20EuroBek%202011.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Goldmünze Buche“ der Serie Deutscher Wald“)
+- [Münz20EuroBek 2012](laws/Münz20EuroBek%202012.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Goldmünze Fichte“ der Serie Deutscher Wald“)
+- [Münz20EuroBek 2013](laws/Münz20EuroBek%202013.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Goldmünze Kiefer“ der Serie Deutscher Wald“)
+- [Münz20EuroBek 2015-06-23](laws/Münz20EuroBek%202015-06-23.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Goldmünze Kastanie“ der Serie Deutscher Wald“)
+- [Münz20EuroBek 2015-06-23/2](laws/Münz20EuroBek%202015-06-23_2.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Goldmünze Linde“ der Serie Deutscher Wald“)
+- [Münz20EuroBek 2016-04-04/1](laws/Münz20EuroBek%202016-04-04_1.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze Rotkäppchen“)
+- [Münz20EuroBek 2016-04-04/2](laws/Münz20EuroBek%202016-04-04_2.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze 125. Geburtstag Nelly Sachs“)
+- [Münz20EuroBek 2016-07-11](laws/Münz20EuroBek%202016-07-11.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Goldmünze Nachtigall“ der Serie Heimische Vögel“)
+- [Münz20EuroBek 2016-12-01](laws/Münz20EuroBek%202016-12-01.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze 200. Geburtstag Ernst Litfaß“)
+- [Münz20EuroBek 2016-12-01/2](laws/Münz20EuroBek%202016-12-01_2.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze 175 Jahre Deutschlandlied“)
+- [Münz20EuroBek 2016-12-01/3](laws/Münz20EuroBek%202016-12-01_3.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze 125. Geburtstag Otto Dix“)
+- [Münz20EuroBek 2017-01-13](laws/Münz20EuroBek%202017-01-13.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze Bremer Stadtmusikanten“ Stadtmusikanten)
+- [Münz20EuroBek 2017-03-23](laws/Münz20EuroBek%202017-03-23.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze 500 Jahre Reformation“)
+- [Münz20EuroBek 2017-04-19](laws/Münz20EuroBek%202017-04-19.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze 50 Jahre Deutsche Sporthilfe“)
+- [Münz20EuroBek 2017-06-15](laws/Münz20EuroBek%202017-06-15.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze Laufmaschine von Karl Drais 1817“)
+- [Münz20EuroBek 2017-10-23/1](laws/Münz20EuroBek%202017-10-23_1.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Goldmünze Pirol“ der Serie Heimische Vögel“)
+- [Münz20EuroBek 2017-10-23/2](laws/Münz20EuroBek%202017-10-23_2.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze 300. Geburtstag Johann Joachim Winckelmann“)
+- [Münz20EuroBek 2018-07-23/1](laws/Münz20EuroBek%202018-07-23_1.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze Froschkönig“)
+- [Münz20EuroBek 2018-07-23/2](laws/Münz20EuroBek%202018-07-23_2.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze 275 Jahre Gewandhausorchester“)
+- [Münz20EuroBek 2018-07-23/3](laws/Münz20EuroBek%202018-07-23_3.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze 800 Jahre Hansestadt Rostock“)
+- [Münz20EuroBek 2018-07-23/4](laws/Münz20EuroBek%202018-07-23_4.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Goldmünze Uhu“ der Serie Heimische Vögel“)
+- [Münz20EuroBek 2018-10-02](laws/Münz20EuroBek%202018-10-02.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze 150. Geburtstag Peter Behrens“)
+- [Münz20EuroBek 2019-08-07](laws/Münz20EuroBek%202019-08-07.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze Tapferes Schneiderlein“)
+- [Münz20EuroBek 2019-08-07/1](laws/Münz20EuroBek%202019-08-07_1.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze 100. Geburtstag Ernst Otto Fischer“)
+- [Münz20EuroBek 2019-08-07/2](laws/Münz20EuroBek%202019-08-07_2.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze 100 Jahre Frauenwahlrecht“)
+- [Münz20EuroBek 2019-08-07/3](laws/Münz20EuroBek%202019-08-07_3.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze 100 Jahre Bauhaus“)
+- [Münz20EuroBek 2019-08-07/4](laws/Münz20EuroBek%202019-08-07_4.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Goldmünze Wanderfalke“ der Serie Heimische Vögel“)
+- [Münz20EuroBek 2019-08-07/5](laws/Münz20EuroBek%202019-08-07_5.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze 100 Jahre Weimarer Reichsverfassung“)
+- [Münz20EuroBek 2019-08-28](laws/Münz20EuroBek%202019-08-28.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze 250. Geburtstag Alexander von Humboldt“)
+- [Münz20EuroBek 2020-01-22/1](laws/Münz20EuroBek%202020-01-22_1.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze 250. Geburtstag Ludwig van Beethoven“)
+- [Münz20EuroBek 2020-01-22/2](laws/Münz20EuroBek%202020-01-22_2.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze Der Wolf und die sieben Geißlein“)
+- [Münz20EuroBek 2020-08-20](laws/Münz20EuroBek%202020-08-20.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze 300. Geburtstag Freiherr von Münchhausen“)
+- [Münz20EuroBek 2020-08-20/1](laws/Münz20EuroBek%202020-08-20_1.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Goldmünze WeiHeimische Vögel“)
+- [Münz20EuroBek 2020-08-20/2](laws/Münz20EuroBek%202020-08-20_2.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze 900 Jahre Freiburg“)
+- [Münz20EuroBek 2021-02-08/1](laws/Münz20EuroBek%202021-02-08_1.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze Frau Holle“)
+- [Münz20EuroBek 2021-02-08/2](laws/Münz20EuroBek%202021-02-08_2.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze 50 Jahre Sendung mit der Maus“)
+- [Münz25EuroBek 2016-04-04](laws/Münz25EuroBek%202016-04-04.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 25 Euro (Gedenkmünze 25 Jahre Deutsche Einheit“)
 - [Münz2DMBek 1970](laws/Münz2DMBek%201970.txt) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Mark
 - [Münz2DMBek 1973](laws/Münz2DMBek%201973.txt) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Mark
 - [Münz2DMBek 1979](laws/Münz2DMBek%201979.txt) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Mark
@@ -3901,35 +3901,35 @@
 - [Münz2EuroBek 2006](laws/Münz2EuroBek%202006.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze "Schleswig-Holstein")
 - [Münz2EuroBek 2006-11](laws/Münz2EuroBek%202006-11.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze "Mecklenburg-Vorpommern")
 - [Münz2EuroBek 2006-12](laws/Münz2EuroBek%202006-12.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze "50 Jahre Römische Verträge")
-- [Münz2EuroBek 2007-12](laws/Münz2EuroBek%202007-12.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze �Hamburg“)
-- [Münz2EuroBek 2008-10](laws/Münz2EuroBek%202008-10.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze �10 Jahre Wirtschafts- und Währungsunion“)
-- [Münz2EuroBek 2008-11](laws/Münz2EuroBek%202008-11.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze �Saarland“)
+- [Münz2EuroBek 2007-12](laws/Münz2EuroBek%202007-12.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze Hamburg“)
+- [Münz2EuroBek 2008-10](laws/Münz2EuroBek%202008-10.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze 10 Jahre Wirtschafts- und Währungsunion“)
+- [Münz2EuroBek 2008-11](laws/Münz2EuroBek%202008-11.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze Saarland“)
 - [Münz2EuroBek 2009-11](laws/Münz2EuroBek%202009-11.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze "Bremen")
-- [Münz2EuroBek 2010](laws/Münz2EuroBek%202010.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze �Nordrhein-Westfalen“)
-- [Münz2EuroBek 2011](laws/Münz2EuroBek%202011.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze �Bayern“)
-- [Münz2EuroBek 2012](laws/Münz2EuroBek%202012.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze �10 Jahre Euro-Bargeld“)
-- [Münz2EuroBek 2013](laws/Münz2EuroBek%202013.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze �50 Jahre Élysée-Vertrag“)
-- [Münz2EuroBek 2013-01](laws/Münz2EuroBek%202013-01.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze �Baden-Württemberg“)
-- [Münz2EuroBek 2014-02-28](laws/Münz2EuroBek%202014-02-28.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze �Niedersachsen“)
-- [Münz2EuroBek 2015-06-23](laws/Münz2EuroBek%202015-06-23.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze �Hessen“)
-- [Münz2EuroBek 2015-06-23/2](laws/Münz2EuroBek%202015-06-23_2.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze �25 Jahre Deutsche Einheit“)
-- [Münz2EuroBek 2016-04-04/1](laws/Münz2EuroBek%202016-04-04_1.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze �30 Jahre Europaflagge“)
-- [Münz2EuroBek 2016-04-04/2](laws/Münz2EuroBek%202016-04-04_2.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze �Sachsen“)
-- [Münz2EuroBek 2017-01-13](laws/Münz2EuroBek%202017-01-13.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze �Rheinland-Pfalz“)
-- [Münz2EuroBek 2018-07-23/1](laws/Münz2EuroBek%202018-07-23_1.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze �Berlin“)
-- [Münz2EuroBek 2018-07-23/2](laws/Münz2EuroBek%202018-07-23_2.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze �100. Geburtstag Helmut Schmidt“)
-- [Münz2EuroBek 2019-08-07](laws/Münz2EuroBek%202019-08-07.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze �Bundesrat“)
-- [Münz2EuroBek 2019-10-08](laws/Münz2EuroBek%202019-10-08.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze �30 Jahre Mauerfall“)
-- [Münz2EuroBek 2020-01-22](laws/Münz2EuroBek%202020-01-22.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze �Brandenburg“)
-- [Münz2EuroBek 2021-02-08/1](laws/Münz2EuroBek%202021-02-08_1.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze �50 Jahre Kniefall von Warschau“)
-- [Münz2EuroBek 2021-02-08/2](laws/Münz2EuroBek%202021-02-08_2.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze �Sachsen-Anhalt“)
+- [Münz2EuroBek 2010](laws/Münz2EuroBek%202010.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze Nordrhein-Westfalen“)
+- [Münz2EuroBek 2011](laws/Münz2EuroBek%202011.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze Bayern“)
+- [Münz2EuroBek 2012](laws/Münz2EuroBek%202012.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze 10 Jahre Euro-Bargeld“)
+- [Münz2EuroBek 2013](laws/Münz2EuroBek%202013.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze 50 Jahre Élysée-Vertrag“)
+- [Münz2EuroBek 2013-01](laws/Münz2EuroBek%202013-01.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze Baden-Württemberg“)
+- [Münz2EuroBek 2014-02-28](laws/Münz2EuroBek%202014-02-28.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze Niedersachsen“)
+- [Münz2EuroBek 2015-06-23](laws/Münz2EuroBek%202015-06-23.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze Hessen“)
+- [Münz2EuroBek 2015-06-23/2](laws/Münz2EuroBek%202015-06-23_2.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze 25 Jahre Deutsche Einheit“)
+- [Münz2EuroBek 2016-04-04/1](laws/Münz2EuroBek%202016-04-04_1.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze 30 Jahre Europaflagge“)
+- [Münz2EuroBek 2016-04-04/2](laws/Münz2EuroBek%202016-04-04_2.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze Sachsen“)
+- [Münz2EuroBek 2017-01-13](laws/Münz2EuroBek%202017-01-13.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze Rheinland-Pfalz“)
+- [Münz2EuroBek 2018-07-23/1](laws/Münz2EuroBek%202018-07-23_1.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze Berlin“)
+- [Münz2EuroBek 2018-07-23/2](laws/Münz2EuroBek%202018-07-23_2.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze 100. Geburtstag Helmut Schmidt“)
+- [Münz2EuroBek 2019-08-07](laws/Münz2EuroBek%202019-08-07.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze Bundesrat“)
+- [Münz2EuroBek 2019-10-08](laws/Münz2EuroBek%202019-10-08.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze 30 Jahre Mauerfall“)
+- [Münz2EuroBek 2020-01-22](laws/Münz2EuroBek%202020-01-22.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze Brandenburg“)
+- [Münz2EuroBek 2021-02-08/1](laws/Münz2EuroBek%202021-02-08_1.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze 50 Jahre Kniefall von Warschau“)
+- [Münz2EuroBek 2021-02-08/2](laws/Münz2EuroBek%202021-02-08_2.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze Sachsen-Anhalt“)
 - [Münz2PfBek 1950](laws/Münz2PfBek%201950.txt) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Pfennig
 - [Münz2PfBek 1968](laws/Münz2PfBek%201968.txt) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Pfennig
 - [Münz5/10PfBek](laws/Münz5_10PfBek.txt) Bekanntmachung über die Ausgabe von Münzen im Nennwert von 5 und 10 Pfennig
-- [Münz50EuroBek 2017-05-15](laws/Münz50EuroBek%202017-05-15.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 50 Euro (Goldmünze �Lutherrose“)
-- [Münz50EuroBek 2018-08-02](laws/Münz50EuroBek%202018-08-02.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 50 Euro (Goldmünze �Kontrabass“)
-- [Münz50EuroBek 2019-08-28](laws/Münz50EuroBek%202019-08-28.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 50 Euro (Goldmünze �Hammerflügel“)
-- [Münz50EuroBek 2020-08-20](laws/Münz50EuroBek%202020-08-20.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 50 Euro (Goldmünze �Orchesterhorn“)
+- [Münz50EuroBek 2017-05-15](laws/Münz50EuroBek%202017-05-15.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 50 Euro (Goldmünze Lutherrose“)
+- [Münz50EuroBek 2018-08-02](laws/Münz50EuroBek%202018-08-02.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 50 Euro (Goldmünze Kontrabass“)
+- [Münz50EuroBek 2019-08-28](laws/Münz50EuroBek%202019-08-28.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 50 Euro (Goldmünze Hammerflügel“)
+- [Münz50EuroBek 2020-08-20](laws/Münz50EuroBek%202020-08-20.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 50 Euro (Goldmünze Orchesterhorn“)
 - [Münz50PfBek 1949](laws/Münz50PfBek%201949.txt) Bekanntmachung über die Ausgabe von Münzen im Nennwert von 50 Pfennig
 - [Münz50PfBek 1950](laws/Münz50PfBek%201950.txt) Bekanntmachung über die Ausgabe von Bundesmünzen im Nennwert von 50 Deutschen Pfennig
 - [Münz50PfBek 1972](laws/Münz50PfBek%201972.txt) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 50 Deutschen Pfennig
@@ -3977,11 +3977,11 @@
 - [Münz5DMBek 1985-10](laws/Münz5DMBek%201985-10.txt) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze 150 Jahre Eisenbahn in Deutschland)
 - [Münz5DMBek 1986](laws/Münz5DMBek%201986.txt) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze 600jähriges Bestehen der Ruprecht-Karls-Universität Heidelberg)
 - [Münz5DMBek 1986-09](laws/Münz5DMBek%201986-09.txt) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze Friedrich der Große)
-- [Münz5EuroBek 2016-04-04](laws/Münz5EuroBek%202016-04-04.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro (Gedenkmünze �Planet Erde“)
-- [Münz5EuroBek 2017-04-04](laws/Münz5EuroBek%202017-04-04.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro (Gedenkmünze �Tropische Zone“)
-- [Münz5EuroBek 2018-07-23](laws/Münz5EuroBek%202018-07-23.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro (Gedenkmünze �Subtropische Zone“)
-- [Münz5EuroBek 2019-10-08](laws/Münz5EuroBek%202019-10-08.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro (Gedenkmünze �Gemäßigte Zone“)
-- [Münz5EuroBek 2020-08-20](laws/Münz5EuroBek%202020-08-20.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro (Gedenkmünze �Subpolare Zone“)
+- [Münz5EuroBek 2016-04-04](laws/Münz5EuroBek%202016-04-04.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro (Gedenkmünze Planet Erde“)
+- [Münz5EuroBek 2017-04-04](laws/Münz5EuroBek%202017-04-04.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro (Gedenkmünze Tropische Zone“)
+- [Münz5EuroBek 2018-07-23](laws/Münz5EuroBek%202018-07-23.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro (Gedenkmünze Subtropische Zone“)
+- [Münz5EuroBek 2019-10-08](laws/Münz5EuroBek%202019-10-08.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro (Gedenkmünze Gemäßigte Zone“)
+- [Münz5EuroBek 2020-08-20](laws/Münz5EuroBek%202020-08-20.txt) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro (Gedenkmünze Subpolare Zone“)
 - [MünzG](laws/MünzG.txt) Münzgesetz
 - [MünzUmschriftBek](laws/MünzUmschriftBek.txt) Bekanntmachung über die Ausgabe von Münzen im Nennwert von 1, 5, 10 und 50 Pfennig, die an Stelle der Schrift "Bank deutscher Länder" die Umschrift "Bundesrepublik Deutschland" tragen
 - [MuKFrRGDBest 1](laws/MuKFrRGDBest%201.txt) Erste Durchführungsbestimmung zum Gesetz über den Mutter- und Kinderschutz und die Rechte der Frau - Ausstellung von Ausweisen für Schwangere und Wöchnerinnen
@@ -4093,12 +4093,12 @@
 - [NSAhndgG BR](laws/NSAhndgG%20BR.txt) Gesetz zur Ahndung nationalsozialistischer Straftaten
 - [NSAhndgG HE](laws/NSAhndgG%20HE.txt) Gesetz zur Ahndung nationalsozialistischer Straftaten
 - [NSGBefV](laws/NSGBefV.txt) Verordnung über das Befahren der Bundeswasserstraßen in bestimmten Naturschutzgebieten
-- [NSGBRgV](laws/NSGBRgV.txt) Verordnung über die Festsetzung des Naturschutzgebietes �Borkum Riffgrund“
-- [NSGDgbV](laws/NSGDgbV.txt) Verordnung über die Festsetzung des Naturschutzgebietes �Doggerbank“
-- [NSGFmbV](laws/NSGFmbV.txt) Verordnung über die Festsetzung des Naturschutzgebietes �Fehmarnbelt“
-- [NSGKdrV](laws/NSGKdrV.txt) Verordnung über die Festsetzung des Naturschutzgebietes �Kadetrinne“
-- [NSGPBRV](laws/NSGPBRV.txt) Verordnung über die Festsetzung des Naturschutzgebietes �Pommersche Bucht – Rönnebank“
-- [NSGSylV](laws/NSGSylV.txt) Verordnung über die Festsetzung des Naturschutzgebietes �Sylter Außenriff – Östliche Deutsche Bucht“
+- [NSGBRgV](laws/NSGBRgV.txt) Verordnung über die Festsetzung des Naturschutzgebietes Borkum Riffgrund“
+- [NSGDgbV](laws/NSGDgbV.txt) Verordnung über die Festsetzung des Naturschutzgebietes Doggerbank“
+- [NSGFmbV](laws/NSGFmbV.txt) Verordnung über die Festsetzung des Naturschutzgebietes Fehmarnbelt“
+- [NSGKdrV](laws/NSGKdrV.txt) Verordnung über die Festsetzung des Naturschutzgebietes Kadetrinne“
+- [NSGPBRV](laws/NSGPBRV.txt) Verordnung über die Festsetzung des Naturschutzgebietes Pommersche Bucht – Rönnebank“
+- [NSGSylV](laws/NSGSylV.txt) Verordnung über die Festsetzung des Naturschutzgebietes Sylter Außenriff – Östliche Deutsche Bucht“
 - [NSOEBGG](laws/NSOEBGG.txt) Gesetz über Entschädigungen für Opfer des Nationalsozialismus im Beitrittsgebiet
 - [NSOpferBPräsProk](laws/NSOpferBPräsProk.txt) Proklamation des Bundespräsidenten
 - [NSStRpflV BrZ](laws/NSStRpflV%20BrZ.txt) Verordnung zur Beseitigung nationalsozialistischer Eingriffe in die Strafrechtspflege
@@ -4796,7 +4796,7 @@
 - [SchlMonAufhG](laws/SchlMonAufhG.txt) Gesetz über die Aufhebung des staatlichen Schleppmonopols auf den westdeutschen Kanälen
 - [SchlTSchÜbk](laws/SchlTSchÜbk.txt) Europäisches Übereinkommen über den Schutz von Schlachttieren
 - [SchlTSchÜbkG](laws/SchlTSchÜbkG.txt) Gesetz zu dem Europäischen Übereinkommen vom 10. Mai 1979 über den Schutz von Schlachttieren
-- [SchlussFinG](laws/SchlussFinG.txt) Gesetz zur Errichtung eines Sondervermögens �Vorsorge für Schlusszahlungen für inflationsindexierte Bundeswertpapiere“
+- [SchlussFinG](laws/SchlussFinG.txt) Gesetz zur Errichtung eines Sondervermögens Vorsorge für Schlusszahlungen für inflationsindexierte Bundeswertpapiere“
 - [SchneidwMechMstrV](laws/SchneidwMechMstrV.txt) Verordnung über die Meisterprüfung in den Teilen I und II im Schneidwerkzeugmechaniker-Handwerk
 - [SchoMstrV](laws/SchoMstrV.txt) Verordnung über die Meisterprüfung in den Teilen I und II im Schornsteinfeger-Handwerk
 - [SchRegDV](laws/SchRegDV.txt) Verordnung zur Durchführung der Schiffsregisterordnung
@@ -4989,7 +4989,7 @@
 - [SiebdrMstrV](laws/SiebdrMstrV.txt) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Siebdrucker-Handwerk
 - [SignBenennV](laws/SignBenennV.txt) Verordnung über die Benennung von Signataren des Betriebsabkommens der Internationalen Organisation für kosmische Fernmeldeverbindungen INTERSPUTNIK für die Bundesrepublik Deutschland
 - [SiMedErl](laws/SiMedErl.txt) Erlaß über die Stiftung der Silbermedaille für den Behindertensport
-- [SINTEG-V](laws/SINTEG-V.txt) Verordnung zur Schaffung eines rechtlichen Rahmens zur Sammlung von Erfahrungen im Förderprogramm �Schaufenster intelligente Energie – Digitale Agenda für die Energiewende“
+- [SINTEG-V](laws/SINTEG-V.txt) Verordnung zur Schaffung eines rechtlichen Rahmens zur Sammlung von Erfahrungen im Förderprogramm Schaufenster intelligente Energie – Digitale Agenda für die Energiewende“
 - [SiSchmAusbV](laws/SiSchmAusbV.txt) Verordnung über die Berufsausbildung zum Silberschmied/zur Silberschmiedin
 - [SISIIG](laws/SISIIG.txt) Gesetz zum Schengener Informationssystem der zweiten Generation
 - [SKAG Berlin](laws/SKAG%20Berlin.txt) Gesetz zur Einführung der Selbstverwaltung auf dem Gebiet der Sozialversicherung und Angleichung des Rechts der Krankenversicherung im Land Berlin
@@ -5822,7 +5822,7 @@
 - [VerwAnO](laws/VerwAnO.txt) Anordnung über die Verwahrung unterirdischer bergbaulicher Anlagen
 - [VerwFöG](laws/VerwFöG.txt) Gesetz zur Förderung der anderweitigen Verwendung von Berufssoldaten und Beamten
 - [VfAusbV](laws/VfAusbV.txt) Verordnung über die Berufsausbildung zur Fachkraft für Veranstaltungstechnik
-- [VFBAZV](laws/VFBAZV.txt) Verordnung über die Zuweisungen an das Sondervermögen �Versorgungsfonds der Bundesagentur für Arbeit“
+- [VFBAZV](laws/VFBAZV.txt) Verordnung über die Zuweisungen an das Sondervermögen Versorgungsfonds der Bundesagentur für Arbeit“
 - [VFZV](laws/VFZV.txt) Verordnung über die Zuweisungen an das Sondervermögen "Versorgungsfonds des Bundes"
 - [VGG](laws/VGG.txt) Gesetz über die Wahrnehmung von Urheberrechten und verwandten Schutzrechten durch Verwertungsgesellschaften
 - [VgHilAbk USA](laws/VgHilAbk%20USA.txt) Abkommen zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika über gegenseitige Verteidigungshilfe
@@ -6124,7 +6124,7 @@
 - [WSF-ÜV](laws/WSF-ÜV.txt) Verordnung zur Verwaltung des Wirtschaftsstabilisierungsfonds und zur Übertragung von Aufgaben auf die Kreditanstalt für Wiederaufbau nach § 20 des Stabilisierungsfondsgesetzes
 - [WSG](laws/WSG.txt) Wehrsoldgesetz
 - [WStatG](laws/WStatG.txt) Gesetz über die allgemeine und die repräsentative Wahlstatistik bei der Wahl zum Deutschen Bundestag und bei der Wahl der Abgeordneten des Europäischen Parlaments aus der Bundesrepublik Deutschland
-- [WStBG](laws/WStBG.txt) Gesetz zur Beschleunigung und Vereinfachung des Erwerbs von Anteilen an sowie Risikopositionen von Unternehmen des Finanzsektors durch den Fonds �Finanzmarktstabilisierungsfonds – FMS“ und der Realwirtschaft durch den Fonds �Wirtschaftsstabilisierungsfonds – WSF“
+- [WStBG](laws/WStBG.txt) Gesetz zur Beschleunigung und Vereinfachung des Erwerbs von Anteilen an sowie Risikopositionen von Unternehmen des Finanzsektors durch den Fonds Finanzmarktstabilisierungsfonds – FMS“ und der Realwirtschaft durch den Fonds Wirtschaftsstabilisierungsfonds – WSF“
 - [WStG](laws/WStG.txt) Wehrstrafgesetz
 - [WStHAusbV](laws/WStHAusbV.txt) Verordnung über die Berufsausbildung zum Werksteinhersteller und zur Werksteinherstellerin
 - [WStrGEG](laws/WStrGEG.txt) Einführungsgesetz zum Wehrstrafgesetz

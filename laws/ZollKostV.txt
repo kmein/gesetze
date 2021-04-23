@@ -183,7 +183,7 @@ A.¬†Physikalische und physikochemische Messungen und Untersuchungen
 
 A.1
 
-†
+
 
 L√§ngen- und Dickenmessung
 
@@ -201,7 +201,7 @@ A.1.2
 
 A.2
 
-†
+
 
 Siebanalyse (nach DIN 1171 und 4188)
 
@@ -219,7 +219,7 @@ A.2.2
 
 A.3
 
-†
+
 
 Bestimmung der Dichte fl√ºssiger und fester K√∂rper
 
@@ -261,7 +261,7 @@ L√∂slichkeitsverhalten in Wasser, S√§uren, Laugen oder in organischen L√∂semitte
 
 A.5
 
-†
+
 
 Bestimmung des pH-Werts
 
@@ -291,7 +291,7 @@ Bestimmung des Siedepunkts
 
 A.8
 
-†
+
 
 Destillation
 
@@ -331,7 +331,7 @@ Art der Untersuchung
 
 A.11
 
-†
+
 
 Bestimmung der Viskosit√§t
 
@@ -351,7 +351,7 @@ Grundgeb√ºhr\\
 
 A.12
 
-†
+
 
 Messung
 
@@ -387,7 +387,7 @@ A.12.5
 
 A.12.6
 
-†
+
 
 --¬†mit dem Spektrographen oder Spektralphotometer
 
@@ -417,7 +417,7 @@ Grundgeb√ºhr\\
 
 A.12.6.4
 
-†
+
 
 -- --¬†Atomspektralphotometer
 
@@ -471,7 +471,7 @@ Grundgeb√ºhr\\
 
 A.12.6.8
 
-†
+
 
 --¬†Kernresonanzspektroskopie (NMR)
 
@@ -517,7 +517,7 @@ Grundgeb√ºhr\\
 
 A.13
 
-†
+
 
 Messung der Radioaktivit√§t
 
@@ -545,13 +545,13 @@ Grundgeb√ºhr\\
 
 A.14
 
-†
+
 
 Chromatographische Bestimmung
 
 A.14.1
 
-†
+
 
 --¬†mit dem Gaschromatographen
 
@@ -573,7 +573,7 @@ Grundgeb√ºhr\\
 
 A.14.2
 
-†
+
 
 --¬†mit dem Hochdruckfl√ºssigkeitschromatographen
 
@@ -601,7 +601,7 @@ nZ
 
 A.15
 
-†
+
 
 Elektrophoretische Bestimmung
 
@@ -623,7 +623,7 @@ Grundgeb√ºhr\\
 
 A.16
 
-†
+
 
 Mikroskopische Untersuchung
 
@@ -659,7 +659,7 @@ B.¬†Chemische Untersuchungen
 
 B.1
 
-†
+
 
 Bestimmung des Abdampfr√ºckstands
 
@@ -677,7 +677,7 @@ B.1.2
 
 B.2
 
-†
+
 
 Bestimmung des Wassers bzw. des wasserfreien Stoffs in anderer Weise als nach Nr. B.1
 
@@ -707,7 +707,7 @@ B.2.4
 
 B.3
 
-†
+
 
 Bestimmung der Asche
 
@@ -731,7 +731,7 @@ nZ
 
 B.4
 
-†
+
 
 Nachweis von Anionen und Kationen, soweit nicht an anderer Stelle erfasst, je Einzelnachweis
 
@@ -749,7 +749,7 @@ nZ
 
 B.5
 
-†
+
 
 Elementaranalyse einschlie√ülich quantitativer Bestimmung von Ionen und funktionellen Gruppen
 
@@ -761,7 +761,7 @@ B.5.1
 
 B.5.2
 
-†
+
 
 --¬†quantitative Analysen
 
@@ -797,13 +797,13 @@ nZ
 
 B.6
 
-†
+
 
 Bestimmung von Stickstoffverbindungen
 
 B.6.1
 
-†
+
 
 --¬†Gesamtstickstoff nach Kjeldahl
 
@@ -835,7 +835,7 @@ B.6.3
 
 B.7
 
-†
+
 
 Bestimmung der Kohlenhydrate
 
@@ -871,7 +871,7 @@ B.7.5
 
 B.7.6
 
-†
+
 
 --¬†mit dem Polarimeter
 
@@ -901,7 +901,7 @@ B.7.6.4
 
 B.7.6.5
 
-†
+
 
 -- --¬†Bestimmung von R√ºbenzucker und St√§rkesirup
 
@@ -931,7 +931,7 @@ B.7.7
 
 B.7.8
 
-†
+
 
 --¬†St√§rke
 
@@ -955,7 +955,7 @@ B.7.9
 
 B.7.10
 
-†
+
 
 --¬†andere Monosaccharide und zucker√§hnliche Polysaccharide
 
@@ -979,13 +979,13 @@ nZ
 
 B.8
 
-†
+
 
 √ñle, Fette, Wachse, Lebensmittel und dergleichen
 
 B.8.1
 
-†
+
 
 --¬†Gesamtfett
 
@@ -1039,7 +1039,7 @@ B.8.7
 
 B.9
 
-†
+
 
 Kaffee, Tee und daraus hergestellte Zubereitungen
 
@@ -1063,7 +1063,7 @@ Bestimmung von Provitaminen und Vitaminen
 
 B.11
 
-†
+
 
 Kunststoffe
 
@@ -1075,7 +1075,7 @@ nZ
 
 B.12
 
-†
+
 
 Kautschuk und Kautschukwaren
 
@@ -1139,7 +1139,7 @@ Immunologische Bestimmung
 
 B.15
 
-†
+
 
 Molekularbiologische Bestimmung
 
@@ -1161,7 +1161,7 @@ Grundgeb√ºhr\\
 
 B.16
 
-†
+
 
 Titrationen
 
@@ -1217,7 +1217,7 @@ Untersuchung von Verg√§llungsmitteln auf Eignung zum Ungenie√übarmachen von Case
 
 C.6
 
-†
+
 
 Bestimmung des Sch√§lgrads
 
@@ -1273,7 +1273,7 @@ D.¬†Untersuchungen von Spinnstoffen und daraus hergestellten Waren
 
 D.1
 
-†
+
 
 Ermittlung der L√§nge und Breite von Geweben, Gewirken, Gestricken und anderen textilen Fl√§chengebilden
 
@@ -1315,7 +1315,7 @@ Bestimmung der Kapillarzahl von Chemiespinnf√§den
 
 D.6
 
-†
+
 
 Bestimmung der Feinheit und H√∂chstzugkraft von Garnen, Zwirnen und verwandten Erzeugnissen
 
@@ -1369,7 +1369,7 @@ Ermittlung der Florh√∂he
 
 D.13
 
-†
+
 
 Quantitative Bestimmung der Anteile von Fasermischungen
 
@@ -1381,7 +1381,7 @@ nZ
 
 D.13.2
 
-†
+
 
 --¬†chemisch
 
@@ -1405,7 +1405,7 @@ nZ
 
 D.14
 
-†
+
 
 Ermittlung der Begleitstoffe
 
@@ -1429,7 +1429,7 @@ Fluoreszenz-Untersuchung im UV
 
 D.16
 
-†
+
 
 Qualitativer mikrochemischer Nachweis von Spinnstoffen, je Garn
 
@@ -1461,13 +1461,13 @@ E.¬†Alkohole (gem√§√ü den Chemisch-Technischen Bestimmungen der Zollverwaltung (
 
 E.1
 
-†
+
 
 Ermittlung des Alkoholgehalts
 
 E.1.1
 
-†
+
 
 --¬†wenn die Probe au√üer Ethanol und Wasser weder Extraktstoffe noch fl√ºchtige Stoffe enth√§lt
 
@@ -1485,7 +1485,7 @@ E.1.1.2
 
 E.1.2
 
-†
+
 
 --¬†wenn die Probe au√üer Ethanol und Wasser nur nicht fl√ºchtige Extraktstoffe enth√§lt
 
@@ -1503,7 +1503,7 @@ E.1.2.2
 
 E.1.3
 
-†
+
 
 --¬†wenn die Probe au√üer Ethanol und Wasser andere fl√ºchtige Stoffe enth√§lt
 
@@ -1527,7 +1527,7 @@ E.1.3.3
 
 E.2
 
-†
+
 
 Ermittlung des Extraktgehalts in Alkohol und alkoholhaltigen Erzeugnissen
 
@@ -1545,7 +1545,7 @@ E.2.2
 
 E.3
 
-†
+
 
 Sensorische Pr√ºfung auf Aussehen, Geruch und Geschmack
 
@@ -1569,7 +1569,7 @@ Bestimmung der Permanganat-Entf√§rbungszeit in Neutralalkohol nach Abschnitt 6 C
 
 E.5
 
-†
+
 
 Bestimmung der Aldehyde in Neutral- und Rohalkohol
 
@@ -1587,7 +1587,7 @@ E.5.2
 
 E.6
 
-†
+
 
 Bestimmung der h√∂heren Alkohole (Fusel√∂l) in Neutral- und Rohalkohol
 
@@ -1623,7 +1623,7 @@ Bestimmung der Ester in Neutralalkohol nach Abschnitt 6 CTB
 
 E.9
 
-†
+
 
 Bestimmung der fl√ºchtigen Basen in Neutral- und Rohalkohol
 
@@ -1647,7 +1647,7 @@ Bestimmung des Methanols in Neutral- und Rohalkohol nach Abschnitt 6 CTB
 
 E.11
 
-†
+
 
 Ermittlung des ¬π‚Å¥C-Gehalts in Ethanol und alkoholhaltigen Erzeugnissen
 
@@ -1665,7 +1665,7 @@ E.11.2
 
 E.12
 
-†
+
 
 Untersuchung von Verg√§llungsmitteln nach Abschnitt 9.5 CTB
 
@@ -1695,7 +1695,7 @@ nZ
 
 E.13
 
-†
+
 
 Stammw√ºrzegehalt in Bier
 
@@ -1739,7 +1739,7 @@ Flammpunkt nach ISO 13736, DIN 51755*
 
 F.3
 
-†
+
 
 Farbzahl
 
@@ -1811,7 +1811,7 @@ Konuspenetration nach ISO 2137*
 
 F.13
 
-†
+
 
 Bestimmung des Farb- und Markierstoffs im Zusammenhang mit der Heiz√∂lkennzeichnung
 

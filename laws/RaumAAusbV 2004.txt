@@ -111,7 +111,7 @@ Anlage - (zu ¬ß 5)  Ausbildungsrahmenplan f√ºr die Berufsausbildung zum Raumauss
 
 \\
 
-†
+
 
 I. Gemeinsame Fertigkeiten und Kenntnisse
 
@@ -194,11 +194,11 @@ Anwenden von Informations- und Kommunikationstechniken\\
 
 3 *)
 
-†
 
-†
 
-†
+
+
+
 
 6
 
@@ -213,11 +213,11 @@ Vorbereiten von Arbeitsabl√§ufen, Kontrollieren und Beurteilen der Arbeitsergebn
 
 2 *)
 
-†
 
-†
 
-†
+
+
+
 
 - f) :: technische Ver√§nderungen ber√ºcksichtigen
 - g) :: Zeitaufwand und personelle Unterst√ºtzung einsch√§tzen, Zeitaufwand dokumentieren
@@ -225,13 +225,13 @@ Vorbereiten von Arbeitsabl√§ufen, Kontrollieren und Beurteilen der Arbeitsergebn
 - i) :: Gespr√§che situationsgerecht f√ºhren, Sachverhalte darstellen
 - k) :: Abstimmungen mit den am Bau Beteiligten treffen
 
-†
 
-†
+
+
 
 3 *)
 
-†
+
 
 7
 
@@ -246,22 +246,22 @@ Anfertigen und Anwenden von Arbeitsunterlagen, Durchf√ºhren von Messungen\\
 
 3 *)
 
-†
 
-†
 
-†
+
+
+
 
 - f) :: Zeichnungen lesen und anwenden
 - g) :: Materialvorschl√§ge unter Ber√ºcksichtigung der Nutzungsanforderungen und der Oberfl√§chenstrukturen erarbeiten
 
-†
+
 
 2 *)
 
-†
 
-†
+
+
 
 - h) :: Farb- und Materialpl√§ne sowie Materiallisten erstellen
 - i) :: Leistungsverzeichnisse anwenden
@@ -269,13 +269,13 @@ Anfertigen und Anwenden von Arbeitsunterlagen, Durchf√ºhren von Messungen\\
 - l) :: Aufma√üe anfertigen
 - m) :: Leistungs- und Abrechnungsunterlagen erstellen
 
-†
 
-†
+
+
 
 3 *)
 
-†
+
 
 8
 
@@ -291,11 +291,11 @@ Vorbereiten, Einrichten, Sichern und R√§umen von Arbeitspl√§tzen\\
 
 3 *)
 
-†
 
-†
 
-†
+
+
+
 
 9
 
@@ -308,20 +308,20 @@ Einsetzen und Warten von Werkzeugen, Ger√§ten, Maschinen und technischen Einrich
 
 4
 
-†
 
-†
 
-†
+
+
+
 
 - d) :: Ger√§te, Maschinen und technische Einrichtungen warten
 - e) :: St√∂rungen an Ger√§ten, Maschinen und technischen Einrichtungen erkennen, St√∂rungsbeseitigung vornehmen und veranlassen
 
-†
 
-†
 
-†
+
+
+
 
 2
 
@@ -336,11 +336,11 @@ Be- und Verarbeiten von Werk- und Hilfsstoffen\\
 
 5
 
-†
 
-†
 
-†
+
+
+
 
 11
 
@@ -352,28 +352,28 @@ Entwickeln und Gestalten von Raumsituationen\\
 
 2
 
-†
 
-†
 
-†
+
+
+
 
 - c) :: Entw√ºrfe nach funktionalen, technologischen und gestalterischen Gesichtspunkten unter Ber√ºcksichtigung der Kundenw√ºnsche und des Verwendungszwecks ausarbeiten
 - d) :: technische Umsetzbarkeit der Entw√ºrfe pr√ºfen
 - e) :: Zusammenwirken von Materialauswahl, Farb- und Formgebung ber√ºcksichtigen
 - f) :: Entw√ºrfe pr√§sentieren
 
-†
 
-†
 
-†
+
+
+
 
 4
 
 - *) :: Im Zusammenhang mit anderen im Ausbildungsrahmenplan aufgef√ºhrten Ausbildungsinhalten zu vermitteln.
 
-†
+
 
 Abschnitt II: Berufliche Fachbildung
 
@@ -391,34 +391,34 @@ Pr√ºfen, Vorbereiten und Bearbeiten von Untergr√ºnden\\
 
 5
 
-†
 
-†
 
-†
+
+
+
 
 - g) :: Spachtel- und Ausgleichsschichten herstellen
 - h) :: Schablonen anfertigen und Formen √ºbertragen
 
-†
+
 
 3
 
-†
 
-†
+
+
 
 - i) :: Fugen und Risse bearbeiten
 - k) :: Niveauausgleich zu angrenzenden Bauteilen herstellen
 - l) :: Unterlagen zuschneiden und einbauen
 
-†
 
-†
+
+
 
 6
 
-†
+
 
 13
 
@@ -428,13 +428,13 @@ Be- und Verarbeiten von Profilen\\
 - a) :: Profile nach ihrer Funktion ausw√§hlen
 - b) :: √úbergangsprofile und Wandanschlussleisten einpassen und befestigen
 
-†
+
 
 2
 
-†
 
-†
+
+
 
 14
 
@@ -445,13 +445,13 @@ Behandeln von Oberfl√§chen\\
 - b) :: Oberfl√§chen vor Besch√§digungen sch√ºtzen
 - c) :: Qualit√§t von behandelten Oberfl√§chen beurteilen
 
-†
 
-†
+
+
 
 4
 
-†
+
 
 15
 
@@ -465,22 +465,22 @@ Gestalten und Verlegen von Bodenbel√§gen\\
 
 7
 
-†
 
-†
 
-†
+
+
+
 
 - e) :: textile Bodenbel√§ge und PVC-Bel√§ge zuschneiden, einpassen und verkleben
 - f) :: Anschlussfugen herstellen
 
 5
 
-†
 
-†
 
-†
+
+
+
 
 16
 
@@ -496,31 +496,31 @@ Instandsetzen von Polsterm√∂beln und Herstellen von Polstern\\
 
 6
 
-†
 
-†
 
-†
+
+
+
 
 - g) :: Funktionalit√§t und Sch√§den beurteilen und dokumentieren
 - h) :: Polsterm√∂bel f√ºr die Instandsetzung vorbereiten
 - i) :: Federung ausw√§hlen und aufbauen
 
-†
 
-†
+
+
 
 6
 
-†
+
 
 - k) :: Formteile herstellen, Polster aufbauen und beziehen
 
-†
 
-†
 
-†
+
+
+
 
 3
 
@@ -535,22 +535,22 @@ Gestalten, Anfertigen und Montieren von Raumdekorationen\\
 
 6
 
-†
 
-†
 
-†
+
+
+
 
 - d) :: Vorhangschienen, Stangen- und Seilsysteme montieren
 - e) :: Gardinen und Vorh√§nge montieren und dekorieren
 
-†
+
 
 6
 
-†
 
-†
+
+
 
 18
 
@@ -561,11 +561,11 @@ Anfertigen und Montieren von Licht-, Sicht- und Sonnenschutz\\
 - b) :: funktionelle Voraussetzungen pr√ºfen, Art der Licht-, Sicht- und Sonnenschutzanlagen festlegen
 - c) :: Standardausf√ºhrungen von Licht-, Sicht- und Sonnenschutzanlagen, insbesondere unter Ber√ºcksichtigung der Herstellerangaben, ausw√§hlen und anbringen
 
-†
 
-†
 
-†
+
+
+
 
 4
 
@@ -580,23 +580,23 @@ Gestalten, Bekleiden und Beschichten von Wand- und Deckenfl√§chen\\
 
 4
 
-†
 
-†
 
-†
+
+
+
 
 - d) :: Klebe- und Beschichtungstechniken ausw√§hlen
 - e) :: Tapeten, Wand- und Deckenbel√§ge anbringen
 - f) :: Tapeten, Wand- und Deckenbel√§ge nachbehandeln
 
-†
 
-†
+
+
 
 8
 
-†
+
 
 20
 
@@ -608,34 +608,34 @@ Durchf√ºhren qualit√§tssichernder Ma√ünahmen, Kundenservice\\
 
 2 *)
 
-†
 
-†
 
-†
+
+
+
 
 - c) :: qualit√§tssichernde Ma√ünahmen anwenden, dabei zur kontinuierlichen Verbesserung von Arbeitsvorg√§ngen beitragen
 - d) :: Endkontrolle anhand des Arbeitsauftrages durchf√ºhren, Arbeitsergebnisse dokumentieren und Kunden erl√§utern
 - e) :: Wartungs-, Pflege- und Instandhaltungsarbeiten an Produkten durchf√ºhren
 - f) :: Gebrauchs- und Pflegeanleitungen den Kunden erl√§utern, √úbergabe dokumentieren
 
-†
 
-†
+
+
 
 4 *)
 
-†
+
 
 - g) :: Kundenw√ºnsche ermitteln, mit dem betrieblichen Leistungsangebot vergleichen und daraus Vorgehensweisen f√ºr die Kundenberatung ableiten
 - h) :: Kunden hinsichtlich der Gestaltung beraten
 - i) :: Realisierbarkeit von Kundenanforderungen pr√ºfen, Kosten absch√§tzen und Liefertermine mit Kunden abstimmen
 
-†
 
-†
 
-†
+
+
+
 
 3 *)
 

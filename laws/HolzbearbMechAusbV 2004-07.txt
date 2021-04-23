@@ -193,14 +193,14 @@ Umgang mit Informations- und Kommunikationstechniken\\
 
 2*)
 
-†
+
 
 - c) :: Arbeitsaufgaben mit Hilfe von Informations- und Kommunikationssystemen bearbeiten
 - d) :: Branchen-Software nutzen, Daten sichern und Datenschutzvorschriften anwenden
 - e) :: Daten aktualisieren und archivieren
 - f) :: fremdsprachliche Fachbegriffe anwenden
 
-†
+
 
 3*)
 
@@ -216,7 +216,7 @@ Vorbereiten von Arbeitsabl√§ufen, Auswerten von Informationen, Arbeiten im Team\
 
 2*)
 
-†
+
 
 - e) :: Zeitaufwand und personelle Unterst√ºtzung absch√§tzen, Zeitaufwand dokumentieren
 - f) :: Gespr√§che mit Vorgesetzten und Mitarbeitern situationsgerecht f√ºhren, Sachverhalte darstellen
@@ -224,7 +224,7 @@ Vorbereiten von Arbeitsabl√§ufen, Auswerten von Informationen, Arbeiten im Team\
 - h) :: Aufgaben im Team planen und umsetzen, Ergebnisse der Zusammenarbeit auswerten
 - i) :: technische Ver√§nderungen feststellen und auf Umsetzbarkeit pr√ºfen
 
-†
+
 
 3*)
 
@@ -241,11 +241,11 @@ Anfertigen und Anwenden von technischen Unterlagen, Durchf√ºhren von Messungen\\
 
 5*)
 
-†
+
 
 - f) :: Ausbeuteberechnungen durchf√ºhren
 
-†
+
 
 2*)
 
@@ -261,7 +261,7 @@ Vorbereiten, Einrichten und Sichern von Arbeitspl√§tzen\\
 
 4*)
 
-†
+
 
 9
 
@@ -273,12 +273,12 @@ Sortieren, Vermessen, Kontrollieren und Einteilen von Holz und Rohmaterialien\\
 
 6
 
-†
+
 
 - c) :: Werkseingangskontrollen durchf√ºhren und Ergebnisse dokumentieren
 - d) :: Rohmaterialien f√ºr den Arbeitsauftrag ausw√§hlen und unter Ber√ºcksichtigung der Mengenausnutzung einteilen
 
-†
+
 
 4
 
@@ -292,20 +292,20 @@ Einrichten, Bedienen und Instandhalten von Ger√§ten, Maschinen und Anlagen\\
 
 8
 
-†
 
-†
+
+
 
 - c) :: Ger√§te, Maschinen und Anlagen einrichten und unter Verwendung von Schutzeinrichtungen bedienen
 
-†
+
 
 - d) :: St√∂rungen an Ger√§ten, Maschinen und Anlagen erkennen, St√∂rungsbeseitigung veranlassen
 
 - e) :: pneumatische, hydraulische, elektrische und elektronischer Steuer- und Regeleinrichtungen einstellen
 - f) :: Handwerkzeuge, Ger√§te, Maschinen und Anlagen instand halten, Systemkomponenten austauschen, Reparaturarbeiten durchf√ºhren
 
-†
+
 
 5
 
@@ -321,7 +321,7 @@ Einrichten und Instandhalten von Maschinenwerkzeugen\\
 
 8
 
-†
+
 
 12
 
@@ -335,7 +335,7 @@ Einrichten und Instandhalten von Maschinenwerkzeugen\\
 - e) :: pneumatische, hydraulische, elektrische und elektronische Steuer- und Regeleinrichtungen justieren und Einstellungsparameter √ºberwachen
 - f) :: F√∂rdervorg√§nge √ºberwachen
 
-†
+
 
 18
 
@@ -349,18 +349,18 @@ Vorbereitende und nachbearbeitende Arbeiten zur Herstellung von Erzeugnissen\\
 
 14
 
-†
+
 
 - c) :: Schnittholz nach Arbeitsauftrag trennen, kappen, bes√§umen und sortieren
 - d) :: Nebenprodukte und Reststoffe f√ºr die Weiterverwertung vorbereiten
 
 14
 
-†
+
 
 - e) :: Erzeugnisse normengerecht und auftragsbezogen sortieren und vermessen
 
-†
+
 
 4
 
@@ -373,7 +373,7 @@ Durchf√ºhren von Holzschutzma√ünahmen\\
 - b) :: Holzschutzma√ünahmen unter Ber√ºcksichtigung des Gesundheits- und Umweltschutzes durchf√ºhren
 - c) :: Holzschutzmittel lagern und Entsorgung veranlassen
 
-†
+
 
 6
 
@@ -387,11 +387,11 @@ Trocknen von Holz\\
 
 4
 
-†
+
 
 - c) :: technische Holztrocknung unter Ber√ºcksichtigung der Ausgangsbedingungen, geforderter Trocknungsqualit√§t sowie unter wirtschaftlicher Energieverwendung und Vermeidung von Trocknungsfehlern vorbereiten, durchf√ºhren und dokumentieren
 
-†
+
 
 4
 
@@ -406,12 +406,12 @@ Transportieren, Lagern und Pflegen von Holz, Rohmaterialien und Erzeugnissen\\
 
 6
 
-†
+
 
 - d) :: Hebe- und Transportger√§te, insbesondere Gabelstapler, bedienen
 - e) :: Schutzma√ünahmen zur schadensfreien Lagerung von Erzeugnissen durchf√ºhren
 
-†
+
 
 6
 
@@ -424,13 +424,13 @@ Versenden von Erzeugnissen\\
 
 2
 
-†
+
 
 - b) :: Erzeugnisse kommissionieren und verpacken
 - c) :: Fahrzeuge nach Anweisung be- und entladen
 - d) :: Ladungen anhand der Versandunterlagen auf Vollst√§ndigkeit pr√ºfen
 
-†
+
 
 4
 
@@ -444,19 +444,19 @@ Durchf√ºhren von qualit√§tssichernden Ma√ünahmen, Kundenorientierung\\
 
 3*)
 
-†
+
 
 - c) :: qualit√§tssichernde Ma√ünahmen im eigenen Arbeitsbereich anwenden, dabei zur kontinuierlichen Verbesserung von Arbeitsvorg√§ngen beitragen
 - d) :: Zwischen- und Arbeitsergebnisse sowie Zeitaufwand und Materialverbrauch kontrollieren und dokumentieren
 - e) :: Einhaltung von Kundenanforderungen kontrollieren Fertigkeiten und Kenntnisse, die unter Einbeziehung selbst√§ndigen Planens, Durchf√ºhrens und Kontrollierens zu vermitteln sind
 
-†
+
 
 3*)
 
 - *) :: Im Zusammenhang mit anderen im Ausbildungsrahmenplan aufgef√ºhrten Ausbildungsinhalten zu vermitteln.
 
-†
+
 
 Abschnitt II: Wahlqualifikationseinheiten gem√§√ü ¬ß 4 Abs. 2
 
@@ -468,7 +468,7 @@ Herstellen von S√§gewerkserzeugnissen\\
 - a) :: Schnittfiguren zur Erzeugung unterschiedlicher Schnittprodukte erstellen und auswerten
 - b) :: Rundholz unter Ber√ºcksichtigung optimaler Mengen- und G√ºteausnutzung einschneiden
 
-†
+
 
 16
 
@@ -482,7 +482,7 @@ Herstellen von Hobelwerkserzeugnissen\\
 - c) :: Profile f√ºr Kehl- und Fr√§smesser aus- und √ºbertragen
 - d) :: Oberfl√§chen von Hobelwerkserzeugnissen vorbereiten und beschichten
 
-†
+
 
 16
 
@@ -495,7 +495,7 @@ Herstellen von Leimholzerzeugnissen\\
 - b) :: Lamellen herstellen und unter Beachtung von Pressdruck, Temperatur, Luftfeuchtigkeit und Aush√§rtedauer nach Vorschriften zu Leimholzerzeugnissen verleimen
 - c) :: Leimholzerzeugnisse endbearbeiten
 
-†
+
 
 16
 
@@ -509,6 +509,6 @@ Herstellen von Holzwerkstofferzeugnissen\\
 - c) :: Holzwerkstoffe, insbesondere durch Pressen, Schleifen und Formatieren, herstellen
 - d) :: Oberfl√§chen von Holzwerkstoffen beschichten
 
-†
+
 
 16

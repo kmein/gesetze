@@ -588,7 +588,7 @@ Als Beschäftigungsmaterial im Sinne von Satz 1 Nummer 1 kann insbesondere Stroh
 
 (1) Saugferkel dürfen erst im Alter von über vier Wochen abgesetzt werden. Abweichend von Satz 1 darf ein Saugferkel früher abgesetzt werden, wenn dies zum Schutz des Muttertieres oder des Saugferkels vor Schmerzen, Leiden oder Schäden erforderlich ist. Abweichend von Satz 1 darf ferner ein Saugferkel im Alter von über drei Wochen abgesetzt werden, wenn sichergestellt ist, dass es unverzüglich in gereinigte und desinfizierte Ställe oder vollständig abgetrennte Stallabteile verbracht wird, in denen keine Sauen gehalten werden.
 (2) Wer Saugferkel hält, muss sicherstellen, dass im Liegebereich der Saugferkel während der ersten zehn Tage nach der Geburt eine Temperatur von 30 Grad Celsius und im Liegebereich von über zehn Tage alten Saugferkeln abhängig von der Verwendung von Einstreu die Temperatur nach folgender Tabelle nicht unterschritten wird:\\
-�
+
 Temperatur in Grad Celsius
 Durchschnittsgewicht in Kilogramm
 mit Einstreu
@@ -646,11 +646,11 @@ Mindestens die Hälfte der Mindestfläche nach Satz 1 muss als Liegebereich nach
 (1) Jungsauen und Sauen dürfen nur nach Maßgabe der Absätze 2 bis 8 gehalten werden.
 (2) Jungsauen und Sauen sind in der Gruppe zu halten. Dabei muss, vorbehaltlich des Absatzes 2a, abhängig von der Gruppengröße mindestens eine uneingeschränkt nutzbare Bodenfläche nach folgender Tabelle zur Verfügung stehen:\\
 
-�
+
 
 Fläche in Quadratmetern
 
-�
+
 
 bei einer Gruppengröße bis 5 Tiere
 

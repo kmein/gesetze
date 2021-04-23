@@ -227,11 +227,11 @@ Planen und Vorbereiten von Arbeitsabl√§ufen, Kontrollieren der Arbeitsergebnisse
 
 6*)
 
-†
 
-†
 
-†
+
+
+
 
 6
 
@@ -292,11 +292,11 @@ Aufstellen und Pr√ºfen von Ger√ºsten sowie von F√∂rder- und Transporteinrichtung
 
 4
 
-†
 
-†
 
-†
+
+
+
 
 11
 
@@ -312,11 +312,11 @@ Verarbeiten von Holz, Herstellen von Holzverbindungen\\
 
 20
 
-†
 
-†
 
-†
+
+
+
 
 12
 
@@ -357,11 +357,11 @@ Bauteile nach funktionalen, statischen und gestalterischen Gesichtspunkten mit h
 
 22
 
-†
 
-†
 
-†
+
+
+
 
 15
 
@@ -384,7 +384,7 @@ Herstellen von D√§mmungen sowie von Schutz- und Trennschichten im Fassadenbau\\
 
 - *) :: Die Ausbildungsinhalte der laufenden Nummern 5 bis 9 sind im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
 
-†
+
 
 II. Berufliche Fachbildung
 
@@ -399,22 +399,22 @@ Planen und Vorbereiten von Arbeitsabl√§ufen, Kontrollieren der Arbeitsergebnisse
 - d) :: Technische Regelwerke, Herstellervorgaben und Bedienungsanweisungen anwenden
 - e) :: Witterungsbedingungen bei der Durchf√ºhrung von Arbeiten ber√ºcksichtigen
 
-†
+
 
 2*)
 
-†
 
-†
+
+
 
 - f) :: Ma√ünahmen zur Sicherstellung des Arbeitsablaufes ergreifen
 - g) :: Arbeitsabl√§ufe und Arbeitszusammenh√§nge erkennen, Verbesserungen vorschlagen
 
-†
 
-†
 
-†
+
+
+
 
 2*)
 
@@ -435,24 +435,24 @@ Einrichten, Sichern und R√§umen von Baustellen\\
 - k) :: Baustellenabf√§lle getrennt sammeln, Ma√ünahmen f√ºr den Abtransport ergreifen
 - l) :: Baustoffe, Ger√§te und Maschinen f√ºr den Abtransport vorbereiten
 
-†
+
 
 2*)
 
-†
 
-†
+
+
 
 - m) :: Verkehrs- und Transportwege auf ihre Eignung beurteilen, Ma√ünahmen zur Nutzung veranlassen
 - n) :: Verkehrsleiteinrichtungen nach vorgegebenem Verkehrszeichenplan aufstellen und unterhalten
 - o) :: Lagerung von Gefahrstoffen sicherstellen
 - p) :: Baustelle f√ºr die √úbergabe r√§umen
 
-†
 
-†
 
-†
+
+
+
 
 2*)
 
@@ -465,13 +465,13 @@ Durchf√ºhren von Messungen\\
 - b) :: Schnur- und Visierger√ºste anbringen und einmessen
 - c) :: Me√üger√§te auf Funktion pr√ºfen und warten
 
-†
+
 
 3*)
 
-†
 
-†
+
+
 
 4
 
@@ -484,13 +484,13 @@ Pr√ºfen, Transportieren und Lagern von Baustoffen und Bauteilen\\
 - d) :: Kunststoffe und Verbundbaustoffe hinsichtlich ihrer Eigenschaften dem Verwendungszweck zuordnen
 - e) :: Klebe-, Anstrich- und Dichtungsmittel dem Verwendungszweck zuordnen
 
-†
 
-†
+
+
 
 3*)
 
-†
+
 
 - f) :: Sonderelemente, insbesondere Photovoltaikelemente und transparente W√§rmed√§mmungen, auf Unversehrtheit pr√ºfen
 - g) :: Bauteile auf farbliche √úbereinstimmung und Gleichm√§√üigkeit der Oberfl√§chen beurteilen
@@ -499,11 +499,11 @@ Pr√ºfen, Transportieren und Lagern von Baustoffen und Bauteilen\\
 - k) :: Bedarf an Bau- und Bauhilfsstoffen sowie an Bauteilen ermitteln, diese anfordern und bereitstellen
 - l) :: Lagerlisten f√ºhren
 
-†
 
-†
 
-†
+
+
+
 
 2*)
 
@@ -516,13 +516,13 @@ Bearbeiten von Baustoffen und Bauteilen f√ºr den Fassadenbau, Behandeln von Ober
 - b) :: Korrosionsschutz sicherstellen
 - c) :: Oberfl√§chen behandeln, Sch√§den ausbessern
 
-†
 
-†
+
+
 
 4
 
-†
+
 
 6
 
@@ -537,11 +537,11 @@ Einbauen von Verankerungs-, Verbindungs- und Befestigungselementen, Herstellen v
 - f) :: Klebeverbindungen herstellen
 - g) :: Ma√ünahmen zum Korrosionsschutz ergreifen
 
-†
 
-†
 
-†
+
+
+
 
 4
 
@@ -556,11 +556,11 @@ Herstellen von D√§mmungen sowie von Schutz- und Trennschichten im Fassadenbau\\
 - d) :: Entdr√∂hnungsstoffe aufbringen
 - e) :: Dichtungsb√§nder einlegen sowie Abdeckb√§nder und Profile aufsetzen, Dichtungsmassen verarbeiten
 
-†
 
-†
 
-†
+
+
+
 
 3
 
@@ -575,13 +575,13 @@ Kontrollieren der Einbaubedingungen zur Vorbereitung der Montage\\
 - d) :: Untergr√ºnde unter Ber√ºcksichtigung der Fassadenstatik auf Verankerungsm√∂glichkeiten pr√ºfen
 - e) :: Abwicklungen aufrei√üen, Schablonen herstellen
 
-†
+
 
 4
 
-†
 
-†
+
+
 
 9
 
@@ -595,23 +595,23 @@ Herstellen und Montieren von Unterkonstruktionen\\
 - e) :: Einzelteile der Unterkonstruktion miteinander verbinden
 - f) :: Unterkonstruktionen thermisch vom Untergrund entkoppeln, ausrichten und verankern
 
-†
+
 
 10
 
-†
 
-†
+
+
 
 - g) :: Ma√ünahmen gegen Kontaktkorrosion ergreifen
 - h) :: Sonderbauteile montieren
 - i) :: Bewegungsfugen ausbilden
 
-†
 
-†
 
-†
+
+
+
 
 8
 
@@ -625,25 +625,25 @@ Befestigen von Fassadenelementen und Einbauteilen\\
 - c) :: Beschichtungen und Konservierungsmittel aufbringen
 - d) :: Fassadenelemente aus mineralischen Baustoffen, insbesondere Keramik und Faserzement, an Unterkonstruktionen befestigen
 
-†
+
 
 5
 
-†
 
-†
+
+
 
 - e) :: Fassadenelemente aus Metall, insbesondere Tafeln, Kassetten, Paneele und Profile, an Unterkonstruktionen befestigen
 - f) :: Fassadenelemente an vorhandene Bauteile anpassen und Anschl√ºsse herstellen
 - g) :: Fugen ausbilden, schlie√üen, abdichten, hinterlegen und abdecken
 
-†
 
-†
+
+
 
 17
 
-†
+
 
 - h) :: gestalterische Gesichtspunkte, Verlegearten und Fugenausbildung bei der Montage beachten
 - i) :: Fassadenelemente aus Glas befestigen, insbesondere mit Schrauben, Bolzen und Schienen sowie durch Kleben
@@ -654,11 +654,11 @@ Befestigen von Fassadenelementen und Einbauteilen\\
 - o) :: Formteile, Sonderbauteile und Einbauteile ausrichten, einsetzen und befestigen
 - p) :: Rinnen und Fallrohre abbauen und anbringen, Entw√§sserungsanschl√ºsse herstellen
 
-†
 
-†
 
-†
+
+
+
 
 17
 
@@ -673,11 +673,11 @@ Herstellen und Schlie√üen von Aussparungen, Herstellen von An- und Abschl√ºssen\
 - d) :: L√ºftungsgitter sowie Be- und Entl√ºftungsprofile ausrichten und einbauen
 - e) :: Belange des Naturschutzes ber√ºcksichtigen
 
-†
 
-†
 
-†
+
+
+
 
 4
 
@@ -693,11 +693,11 @@ Errichten von Blitzschutzanlagen f√ºr den √§u√üeren Blitzschutz\\
 - e) :: blitzstromtragf√§hige Verbindungselemente an die Fassadenkonstruktion anschlie√üen und Fassadenunterkonstruktion elektrisch leitend verbinden
 - f) :: Trennstelle einbauen und Widerst√§nde von Erdungs- und Blitzschutzanlagen messen und dokumentieren
 
-†
 
-†
 
-†
+
+
+
 
 4
 
@@ -718,11 +718,11 @@ Instandhalten und Sanieren von Fassaden\\
 - k) :: nachtr√§gliche und zus√§tzliche D√§mmungen einbauen
 - l) :: Wartungsarbeiten durchf√ºhren und dokumentieren
 
-†
 
-†
 
-†
+
+
+
 
 4
 
@@ -735,23 +735,23 @@ Qualit√§tssichernde Ma√ünahmen, Anfertigen von Baudokumenten\\
 - b) :: Tagesbericht erstellen
 - c) :: ausgef√ºhrte Arbeiten bis zur Abnahme vor Besch√§digungen sch√ºtzen
 
-†
 
-†
+
+
 
 2*)
 
-†
+
 
 - d) :: qualit√§tssichernde Ma√ünahmen im Rahmen des Arbeitsauftrages durchf√ºhren, Arbeitsergebnisse feststellen und dokumentieren
 - e) :: Aufma√ü anfertigen
 - f) :: Leistung berechnen
 
-†
 
-†
 
-†
+
+
+
 
 2*)
 

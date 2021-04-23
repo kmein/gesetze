@@ -854,7 +854,7 @@ Im Übrigen gilt § 78a Absatz 5 des Aufenthaltsgesetzes entsprechend.
 - 20. :: maschinenlesbare Zone und
 - 21. :: Barcode.
 
-Die Zone für das automatische Lesen enthält die in Satz 2 Nummer 1, 4, 6, 7, 10 und 14 genannten Angaben, die Abkürzung �MED“, Prüfziffern und Leerstellen. Der automatisch erzeugte Barcode enthält die in Satz 3 genannten Angaben, eine digitale Signatur und die AZR-Nummer. Die Unterschrift durch ein Kind ist zu leisten, wenn es zum Zeitpunkt der Ausstellung des Ankunftsnachweises das zehnte Lebensjahr vollendet hat.
+Die Zone für das automatische Lesen enthält die in Satz 2 Nummer 1, 4, 6, 7, 10 und 14 genannten Angaben, die Abkürzung MED“, Prüfziffern und Leerstellen. Der automatisch erzeugte Barcode enthält die in Satz 3 genannten Angaben, eine digitale Signatur und die AZR-Nummer. Die Unterschrift durch ein Kind ist zu leisten, wenn es zum Zeitpunkt der Ausstellung des Ankunftsnachweises das zehnte Lebensjahr vollendet hat.
 
 (2) Die Bescheinigung nach Absatz 1 ist auf längstens sechs Monate zu befristen. Sie soll ausnahmsweise um jeweils längstens drei Monate verlängert werden, wenn
 

@@ -168,11 +168,11 @@ d)
 wesentliche Teile des Arbeitsvertrages nennen
 e)
 wesentliche Bestimmungen der fÃ¼r den ausbildenden Betrieb geltenden TarifvertrÃ¤ge nennen
- 
+
 (Â§ 4 Nr. 1.2)
- 
+
 System beschreiben
- 
+
 Ausbildungsbetriebes (Â§ 5 Nr. 2)
 b)
 den betrieblichen Ausbildungsplan mit erlÃ¤utern
@@ -208,9 +208,9 @@ Umsetzen von Hygienevorschriften (Â§ 5 Nr. 5)
 a)
 GrundsÃ¤tze der Personalhygiene und der Arbeitshygiene anwenden
 4
- 
- 
- 
+
+
+
 b)
 Lebensmittelhygiene in den betrieblichen AblÃ¤ufen anwenden
 c)
@@ -220,9 +220,9 @@ Umgehen mit Informations- und Kommunikationstechniken (Â§ 5 Nr. 6)
 a)
 Bedeutung und NutzungsmÃ¶glichkeiten von Informations- und Kommunikationssystemen fÃ¼r den Ausbildungsbetrieb erlÃ¤utern
 3
- 
- 
- 
+
+
+
 b)
 Arbeitsaufgaben mit Hilfe von Informations- und Kommunikationssystemen bearbeiten
 c)
@@ -234,9 +234,9 @@ Vorbereiten von ArbeitsablÃ¤ufen; Arbeiten im Team (Â§ 5 Nr. 7)
 a)
 ArbeitsauftrÃ¤ge erfassen
 3
- 
- 
- 
+
+
+
 b)
 Informationen beschaffen und nutzen, insbesondere Rezepte, Produktbeschreibungen, Fachliteratur, Kataloge sowie Herstellungsanleitungen und Gebrauchsanweisungen
 c)
@@ -250,9 +250,9 @@ DurchfÃ¼hren von qualitÃ¤tssichernden MaÃŸnahmen (Â§ 5 Nr. 8)
 a)
 Ursachen von Fehlern und QualitÃ¤tsmÃ¤ngeln ermitteln
 2
- 
- 
- 
+
+
+
 b)
 zur Verbesserung von ArbeitsvorgÃ¤ngen im eigenen Betrieb beitragen
 c)
@@ -266,9 +266,9 @@ Kundenberatung und Verkauf (Â§ 5 Nr. 9)
 a)
 Kundenerwartungen im Hinblick auf Sprache, KÃ¶rperhaltung, Gestik, Mimik und Kleidung beachten
 2
- 
- 
- 
+
+
+
 b)
 Verkaufshandlungen durchfÃ¼hren
 10
@@ -276,9 +276,9 @@ Handhaben von Anlagen, Maschinen und GerÃ¤ten (Â§ 5 Nr. 10)
 a)
 Anlagen, Maschinen und GerÃ¤te pflegen und reinigen
 4
- 
- 
- 
+
+
+
 b)
 Anlagen, Maschinen und GerÃ¤te vorbereiten
 c)
@@ -290,9 +290,9 @@ Lagern und Kontrollieren von Lebensmitteln, Verpackungsmaterialien und Betriebsm
 a)
 Lagerverfahren fÃ¼r Rohstoffe, vorgefertigte und fertige Erzeugnisse unter BerÃ¼cksichtigung von Temperatur, Licht und Feuchtigkeit festlegen und anwenden
 3
- 
- 
- 
+
+
+
 b)
 Arten und Eigenschaften von Lebensmitteln, insbesondere ihre wechselseitige BeeintrÃ¤chtigung bei der Lagerung, berÃ¼cksichtigen
 c)
@@ -306,9 +306,9 @@ Herstellen von Weizenbrot und WeizenkleingebÃ¤ck (Â§ 5 Nr. 12)
 a)
 Zutaten auswÃ¤hlen und nach Rezeptur einsetzen
 12
- 
- 
- 
+
+
+
 b)
 Teige herstellen
 c)
@@ -322,9 +322,9 @@ Herstellen von Feinen Backwaren aus Teigen (Â§ 5 Nr. 14)
 a)
 BlÃ¤tterteig herstellen
 12
- 
- 
- 
+
+
+
 b)
 gefÃ¼llte und ungefÃ¼llte Teile aus BlÃ¤tterteig aufmachen
 c)
@@ -340,9 +340,9 @@ Herstellen und Weiterverarbeiten von Massen (Â§ 5 Nr. 15)
 a)
 Zutaten auswÃ¤hlen und nach Rezeptur einsetzen
 3
- 
- 
- 
+
+
+
 b)
 Biskuitmassen, insbesondere Wiener Masse, anschlagen
 c)
@@ -352,9 +352,9 @@ Herstellen und Verarbeiten von ÃœberzÃ¼gen, FÃ¼llungen und Cremes (Â§ 5 Nr. 16)
 a)
 Aprikotur herstellen und verarbeiten
 4
- 
- 
- 
+
+
+
 b)
 Glasuren herstellen und verarbeiten
 c)
@@ -368,18 +368,18 @@ Abschnitt II: Berufliche Fachbildung
 Vorbereiten von ArbeitsablÃ¤ufen; Arbeiten im Team (Â§ 5 Nr. 7)
 a)
 Bedarf an Arbeitsmaterial ermitteln
- 
+
 2
- 
- 
+
+
 b)
 ArbeitsablÃ¤ufe unter BerÃ¼cksichtigung insbesondere fertigungstechnischer, wirtschaftlicher und ergonomischer Gesichtspunkte planen, festlegen und vorbereiten
 c)
 AuftrÃ¤ge und Vorgaben auf Umsetzbarkeit prÃ¼fen, LÃ¶sungen teamorientiert
- 
- 
+
+
 2
- 
+
 f)
 Ergebnisse der ProjektdurchfÃ¼hrung
 d)
@@ -392,10 +392,10 @@ Listen zur Warenbeschaffung fÃ¼hren, auch unter Verwendung von Informations- und
 DurchfÃ¼hren von qualitÃ¤tssichernden MaÃŸnahmen(Â§ 5 Nr. 8)
 a)
 Bedeutung und Wirksamkeit qualitÃ¤tssichernder MaÃŸnahmen fÃ¼r den betrieblichen Ablauf beurteilen
- 
+
 2
- 
- 
+
+
 b)
 PrÃ¼farten und PrÃ¼fmittel anwenden, Wareneingangskontrolle durchfÃ¼hren
 c)
@@ -404,9 +404,9 @@ d)
 Betriebsmittel unter BerÃ¼cksichtigung ihrer Wirkung auf Lebensmittel lagern
 e)
 qualitÃ¤tssichernde Verfahren anwenden, insbesondere KÃ¤ltetechnik und Frischhalteverpackungstechnik
- 
- 
- 
+
+
+
 4
 f)
 Ursachen von Fehlern und QualitÃ¤tsmÃ¤ngeln beseitigen
@@ -416,20 +416,20 @@ Rezepturen und ArbeitsgÃ¤nge unter dem Gesichtspunkt der QualitÃ¤tssicherung prÃ
 Herstellen von Brot und KleingebÃ¤ck (Â§ 5 Nr. 13)
 a)
 Rohstoffe und Halbfabrikate fÃ¼r Weizen-, Weizenmisch-, Roggen-, Roggenmisch- und Spezialbrot sowie KleingebÃ¤ck auswÃ¤hlen, dosieren und nach vorgegebenen Rezepturen einsetzen
- 
+
 5
- 
- 
+
+
 b)
 Vorteige herstellen und einsetzen
 c)
 Lockerungsmittel, insbesondere Sauerteig und Hefe, einsetzen
 d)
 Sauerteig nach vorgegebenen Rezepturen und FÃ¼hrungsarten herstellen
- 
- 
+
+
 12
- 
+
 e)
 Teige herstellen
 f)
@@ -438,9 +438,9 @@ g)
 GÃ¤rprozesse steuern, insbesondere unter BerÃ¼cksichtigung der KÃ¤ltekonservierung
 h)
 Backprozesse fÃ¼r Weizen-, Weizenmisch-, Roggen-, Roggenmischbrot und KleingebÃ¤ck durchfÃ¼hren
- 
- 
- 
+
+
+
 10
 i)
 Vollkorn-, und Schrotbrote herstellen
@@ -450,10 +450,10 @@ Spezialbrote herstellen, insbesondere unter Verwendung anderer Getreidearten und
 Herstellen von Feinen Backwaren aus Teigen (Â§ 5 Nr. 14)
 a)
 FlechtgebÃ¤cke herstellen
- 
+
 10
- 
- 
+
+
 b)
 MÃ¼rbeteige nach unterschiedlichen Verfahren herstellen und verarbeiten
 c)
@@ -466,9 +466,9 @@ f)
 Backprozesse durchfÃ¼hren
 g)
 Lebkuchenteig herstellen und aufarbeiten
- 
- 
- 
+
+
+
 4
 h)
 schweren Hefeteig, insbesondere fÃ¼r Stollen, herstellen und aufarbeiten
@@ -478,9 +478,9 @@ nÃ¤hrstoff-, vitamin- und mineralstoffverÃ¤nderte Backwaren herstellen
 Herstellen und Weiterverarbeiten von Massen (Â§ 5 Nr. 15)
 a)
 schwere Massen rÃ¼hren, insbesondere fÃ¼r Sandkuchen und Kuchen mit FrÃ¼chten
- 
- 
- 
+
+
+
 12
 b)
 Makronenmasse herstellen
@@ -500,19 +500,19 @@ Backprozesse durchfÃ¼hren
 Herstellen und Verarbeiten von ÃœberzÃ¼gen, FÃ¼llungen und Cremes (Â§ 5 Nr. 16)
 a)
 EiweiÃŸspritzglasur herstellen und verarbeiten
- 
- 
+
+
 3
- 
+
 b)
 frische und getrocknete FrÃ¼chte sowie GemÃ¼se zu FÃ¼llungen verarbeiten
 c)
 Sahnecreme herstellen
 d)
 pikante FÃ¼llungen herstellen
- 
- 
- 
+
+
+
 4
 e)
 KuvertÃ¼re auswÃ¤hlen, temperieren und verarbeiten
@@ -522,15 +522,15 @@ deutsche, franzÃ¶sische und italienische Butter- und Fettcreme herstellen
 Herstellen von PartykleingebÃ¤ck (Â§ 5 Nr. 17)
 a)
 PartykleingebÃ¤ck, insbesondere Salz- und KÃ¤segebÃ¤ck, aus Teigen und deren Verbindungen mit tierischen und pflanzlichen Zutaten herstellen
- 
+
 3
- 
- 
+
+
 b)
 Pasteten mit unterschiedlichen FÃ¼llungen herstellen
- 
- 
- 
+
+
+
 3
 c)
 PartykleingebÃ¤ck aus Brandmasse herstellen
@@ -538,19 +538,19 @@ PartykleingebÃ¤ck aus Brandmasse herstellen
 Herstellen von SÃ¼ÃŸspeisen (Â§ 5 Nr. 18)
 a)
 kalte, halbgefrorene oder gefrorene SÃ¼ÃŸspeisen herstellen
- 
- 
+
+
 3
- 
+
 b)
 sÃ¼ÃŸe Eierspeisen herstellen
 9
 Entwerfen und Herstellen von Torten und Desserts (Â§ 5 Nr. 19)
 a)
 Torten und Desserts unter BerÃ¼cksichtigung von Farbe, Form, Geschmack und deren Wechselwirkung entwerfen
- 
- 
- 
+
+
+
 6
 b)
 BÃ¶den und Kapseln mit FÃ¼llungen zusammensetzen
@@ -564,17 +564,17 @@ Torten und Desserts ausgarnieren
 Herstellen von Backwarensnacks (Â§ 5 Nr. 20)
 a)
 Backwarensnacks aus Teigen mit tierischen und pflanzlichen Zutaten herstellen
- 
+
 4
- 
- 
+
+
 b)
 Brot und KleingebÃ¤ck belegen und garnieren
 c)
 gebackene Snacks mit Auflagen und FÃ¼llungen herstellen
- 
- 
- 
+
+
+
 3
 d)
 Backwarensnacks entwickeln
@@ -582,19 +582,19 @@ Backwarensnacks entwickeln
 Herstellen von kleinen Gerichten unter Verwendung frischer Rohstoffe (Â§ 5 Nr. 21)
 a)
 sÃ¼ÃŸe Teigspeisen herstellen, insbesondere Strudel
- 
- 
+
+
 3
- 
+
 b)
 Eierspeisen herstellen
 c)
 Toastvariationen zubereiten
 d)
 herzhafte Teigspeisen, insbesondere GemÃ¼sekuchen, Zwiebelkuchen und Quiche, zubereiten
- 
- 
- 
+
+
+
 3
 e)
 Salatvariationen zubereiten
@@ -602,19 +602,19 @@ Salatvariationen zubereiten
 Kundenberatung und Verkauf (Â§ 5 Nr. 9)
 a)
 Waren prÃ¤sentieren
- 
- 
+
+
 3
- 
+
 b)
 KundengesprÃ¤che situationsgerecht fÃ¼hren
 c)
 Kunden beraten
 d)
 BÃ¤ckereierzeugnisse kundengerecht und transportsicher verpacken
- 
- 
- 
+
+
+
 3
 e)
 bei verkaufsfÃ¶rdernden MaÃŸnahmen mitwirken

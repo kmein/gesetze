@@ -11,19 +11,19 @@ Auf Grund des § 46 Abs. 2 und des § 21 Abs. 1 des Berufsbildungsgesetzes vom 1
 Inhaltsverzeichnis
 
 Teil 1
-�
+
 Struktur der IT-Fortbildung
 § 1
 Struktur der IT-Fortbildung
 Teil 2
-�
+
 Vorschriften für die Prüfung der operativen Professionals
-�
-�
+
+
 Abschnitt 1
-�
-�
-�
+
+
+
 Gemeinsame Vorschriften für die Prüfung der operativen Professionals
 § 2
 Zulassungsvoraussetzungen (Operative Professionals)
@@ -37,12 +37,12 @@ Durchführung der Prüfung im Prüfungsteil "Profilspezifische IT-Fachaufgaben"
 Durchführung der Prüfung im Prüfungsteil "Mitarbeiterführung und Personalmanagement"
 § 7
 Prüfungsinhalte im Prüfungsteil "Mitarbeiterführung und Personalmanagement"
-�
-�
+
+
 Abschnitt 2
-�
-�
-�
+
+
+
 Geprüfter IT-Entwickler/Geprüfte IT-Entwicklerin (Certified IT Systems Manager)
 § 8
 Ziel der Prüfung und Bezeichnung des Abschlusses
@@ -50,12 +50,12 @@ Ziel der Prüfung und Bezeichnung des Abschlusses
 Prüfungsinhalte im Prüfungsteil "Betriebliche IT-Prozesse" (IT-Entwickler)
 § 10
 Prüfungsinhalte im Prüfungsteil "Profilspezifische IT-Fachaufgaben" (IT-Entwickler)
-�
-�
+
+
 Abschnitt 3
-�
-�
-�
+
+
+
 Geprüfter IT-Projektleiter/Geprüfte IT-Projektleiterin (Certified IT Business Manager)
 § 11
 Ziel der Prüfung und Bezeichnung des Abschlusses
@@ -63,12 +63,12 @@ Ziel der Prüfung und Bezeichnung des Abschlusses
 Prüfungsinhalte im Prüfungsteil "Betriebliche IT-Prozesse" (IT-Projektleiter)
 § 13
 Prüfungsinhalte im Prüfungsteil "Profilspezifische IT-Fachaufgaben" (IT-Projektleiter)
-�
-�
+
+
 Abschnitt 4
-�
-�
-�
+
+
+
 Geprüfter IT-Berater/Geprüfte IT-Beraterin (Certified IT Business Consultant)
 § 14
 Ziel der Prüfung und Bezeichnung des Abschlusses
@@ -76,12 +76,12 @@ Ziel der Prüfung und Bezeichnung des Abschlusses
 Prüfungsinhalte im Prüfungsteil "Betriebliche IT-Prozesse" (IT-Berater)
 § 16
 Prüfungsinhalte im Prüfungsteil "Profilspezifische IT-Fachaufgaben" (IT-Berater)
-�
-�
+
+
 Abschnitt 5
-�
-�
-�
+
+
+
 Geprüfter IT-Ökonom/Geprüfte IT-Ökonomin (Certified IT Marketing Manager)
 § 17
 Ziel der Prüfung und Bezeichnung des Abschlusses
@@ -89,12 +89,12 @@ Ziel der Prüfung und Bezeichnung des Abschlusses
 Prüfungsinhalte im Prüfungsteil "Betriebliche IT-Prozesse" (IT-Ökonom)
 § 19
 Prüfungsinhalte im Prüfungsteil "Profilspezifische IT-Fachaufgaben" (IT-Ökonom)
-�
-�
+
+
 Abschnitt 6
-�
-�
-�
+
+
+
 Bewertung der Prüfungsteile und Bestehen der Prüfung
 § 20
 Bewerten der Prüfungsleistungen
@@ -105,53 +105,53 @@ Zeugnisse
 § 23
 Ausbildereignung
 Teil 3
-�
+
 Vorschriften für die Prüfung der Strategischen Professionals
-�
-�
+
+
 Abschnitt 1
-�
-�
-�
+
+
+
 Gemeinsame Vorschriften für die Prüfung der Strategischen Professionals
 § 24
 Zulassungsvoraussetzungen (Strategische Professionals)
 § 25
 Gliederung der Prüfung (Strategische Professionals)
 § 26
-Durchführung der Prüfung im Prüfungsteil �Strategische Prozesse“
+Durchführung der Prüfung im Prüfungsteil Strategische Prozesse“
 § 27
-Durchführung der Prüfung im Prüfungsteil �Projekt- und Geschäftsbeziehungen“
+Durchführung der Prüfung im Prüfungsteil Projekt- und Geschäftsbeziehungen“
 § 28
-Durchführung der Prüfung im Prüfungsteil �Strategisches Personalmanagement“
-�
-�
+Durchführung der Prüfung im Prüfungsteil Strategisches Personalmanagement“
+
+
 Abschnitt 2
-�
-�
-�
+
+
+
 Geprüfter Informatiker/Geprüfte Informatikerin (Certified IT Technical Engineer)
 § 29
 Ziel der Prüfung und Bezeichnung des Abschlusses
 § 30
-Prüfungsinhalte im Prüfungsteil �Strategische Prozesse“ (Informatiker)
-�
-�
+Prüfungsinhalte im Prüfungsteil Strategische Prozesse“ (Informatiker)
+
+
 Abschnitt 3
-�
-�
-�
+
+
+
 Geprüfter Wirtschaftsinformatiker/Geprüfte Wirtschaftsinformatikerin (Certified IT Business Engineer)
 § 31
 Ziel der Prüfung und Bezeichnung des Abschlusses
 § 32
-Prüfungsinhalte im Prüfungsteil �Strategische Prozesse“ (Wirtschaftsinformatiker)
-�
-�
+Prüfungsinhalte im Prüfungsteil Strategische Prozesse“ (Wirtschaftsinformatiker)
+
+
 Abschnitt 4
-�
-�
-�
+
+
+
 Bewertung der Prüfungsteile und Bestehen der Prüfung
 § 33
 Bewerten der Prüfungsleistungen
@@ -160,7 +160,7 @@ Bestehen der Prüfung, Gesamtnote
 § 35
 Zeugnisse
 Teil 4
-�
+
 Gemeinsame Vorschriften, Übergangs- und Schlussvorschriften
 § 36
 Befreiung von einzelnen Prüfungsbestandteilen
@@ -626,18 +626,18 @@ Die einzelnen Prüfungsteile können in beliebiger Reihenfolge an verschiedenen 
 § 20 - Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
-(2) Der Prüfungsteil �Betriebliche IT-Prozesse“, die drei Situationsaufgaben im Prüfungsteil �Profilspezifische IT-Fachaufgaben“ sowie die zwei Situationsaufgaben und die praktische Demonstration im Prüfungsteil �Mitarbeiterführung und Personalmanagement“ sind einzeln zu bewerten.
-(3) In den Prüfungsteilen �Profilspezifische IT-Fachaufgaben“ sowie �Mitarbeiterführung und Personalmanagement“ ist eine Note aus dem arithmetischen Mittel der Punktebewertungen der jeweiligen einzelnen Prüfungsleistungen zu bilden.
+(2) Der Prüfungsteil Betriebliche IT-Prozesse“, die drei Situationsaufgaben im Prüfungsteil Profilspezifische IT-Fachaufgaben“ sowie die zwei Situationsaufgaben und die praktische Demonstration im Prüfungsteil Mitarbeiterführung und Personalmanagement“ sind einzeln zu bewerten.
+(3) In den Prüfungsteilen Profilspezifische IT-Fachaufgaben“ sowie Mitarbeiterführung und Personalmanagement“ ist eine Note aus dem arithmetischen Mittel der Punktebewertungen der jeweiligen einzelnen Prüfungsleistungen zu bilden.
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
 § 21 - Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in allen Prüfungsleistungen nach § 20 Absatz 2 jeweils mindestens 50 Punkte erreicht worden sind.
-(2) Ist die Prüfung bestanden, sind die Bewertungen für die Prüfungsteile �Profilspezifische IT-Fachaufgaben“ und �Mitarbeiterführung und Personalmanagement“ jeweils kaufmännisch auf eine ganze Zahl zu runden.
+(2) Ist die Prüfung bestanden, sind die Bewertungen für die Prüfungsteile Profilspezifische IT-Fachaufgaben“ und Mitarbeiterführung und Personalmanagement“ jeweils kaufmännisch auf eine ganze Zahl zu runden.
 (3) Den Bewertungen für die Prüfungsteile ist nach Anlage 1 die jeweilige Note als Dezimalzahl zuzuordnen. Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das gewichtete arithmetische Mittel der Bewertungen der drei Prüfungsteile zu berechnen. Dabei sind die Prüfungsteile wie folgt zu gewichten:
 
-- 1. :: der Prüfungsteil �Betriebliche IT-Prozesse“ mit 50 Prozent,
-- 2. :: die Prüfungsteile �Profilspezifische IT-Fachaufgaben“ und �Mitarbeiterführung und Personalmanagement“ mit jeweils 25 Prozent.
+- 1. :: der Prüfungsteil Betriebliche IT-Prozesse“ mit 50 Prozent,
+- 2. :: die Prüfungsteile Profilspezifische IT-Fachaufgaben“ und Mitarbeiterführung und Personalmanagement“ mit jeweils 25 Prozent.
 
 (4) Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerundeten Gesamtpunktzahl wird nach Anlage 1 die Note als Dezimalzahl und die Note in Worten zugeordnet. Die zugeordnete Note ist die Gesamtnote.
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
@@ -825,7 +825,7 @@ Durch die Ausarbeitung und das Fachgespräch gemäß § 24 soll die zu prüfende
 § 33 - Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
-(2) Die Prüfungsteile �Strategische Prozesse“, �Projekt- und Geschäftsbeziehungen“ und �Strategisches Personalmanagement“ sind einzeln zu bewerten.
+(2) Die Prüfungsteile Strategische Prozesse“, Projekt- und Geschäftsbeziehungen“ und Strategisches Personalmanagement“ sind einzeln zu bewerten.
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
 § 34 - Bestehen der Prüfung, Gesamtnote
@@ -834,8 +834,8 @@ Durch die Ausarbeitung und das Fachgespräch gemäß § 24 soll die zu prüfende
 (2) Den Bewertungen für die Prüfungsteile ist nach Anlage 1 die jeweilige Note als Dezimalzahl zuzuordnen.\\
 Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das gewichtete arithmetische Mittel der Bewertungen der drei Prüfungsteile zu berechnen. Dabei sind die Prüfungsteile wie folgt zu gewichten:
 
-- 1. :: der Prüfungsteil �Strategische Prozesse“ mit 50 Prozent,
-- 2. :: die Prüfungsteile �Projekt- und Geschäftsbeziehungen“ und �Strategisches Personalmanagement“ mit jeweils 25 Prozent.
+- 1. :: der Prüfungsteil Strategische Prozesse“ mit 50 Prozent,
+- 2. :: die Prüfungsteile Projekt- und Geschäftsbeziehungen“ und Strategisches Personalmanagement“ mit jeweils 25 Prozent.
 
 (3) Die Gesamtpunktzahl ist kaufmännisch zu runden. Der gerundeten Gesamtpunktzahl wird nach Anlage 1 die Note als Dezimalzahl und die Note in Worten zugeordnet. Die zugeordnete Note ist die Gesamtnote.
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
@@ -892,11 +892,11 @@ Teil A -- Zeugnis ohne Prüfungsergebnisse:
 Teil B -- Zeugnis mit Prüfungsergebnissen:
 Alle Angaben des Teils A sowie zusätzlich:
 
-- 1. :: zum Prüfungsteil �Betriebliche IT-Prozesse“ die Benennung, die Themenstellung, die Bewertung und die Note,
-- 2. :: zum Prüfungsteil �Profilspezifische IT-Fachaufgaben“
+- 1. :: zum Prüfungsteil Betriebliche IT-Prozesse“ die Benennung, die Themenstellung, die Bewertung und die Note,
+- 2. :: zum Prüfungsteil Profilspezifische IT-Fachaufgaben“
   - a) :: Benennung, Themenstellungen und Bewertungen für die drei Situationsaufgaben dieses Prüfungsteils sowie
   - b) :: das nach § 20 Absatz 3 errechnete arithmetische Mittel und die Note dieses Prüfungsteils,
-- 3. :: zum Prüfungsteil �Mitarbeiterführung und Personalmanagement“
+- 3. :: zum Prüfungsteil Mitarbeiterführung und Personalmanagement“
   - a) :: Benennung, Themenstellungen und Bewertungen für die zwei Situationsaufgaben,
   - b) :: Benennung, den für die praktische Demonstration gewählten Anwendungsfall und dessen Bewertung sowie
   - c) :: das nach § 20 Absatz 3 errechnete arithmetische Mittel und die Note dieses Prüfungsteils,
@@ -1221,7 +1221,7 @@ Profilgruppe Technician
 - 4.4 :: Nachweis der Qualifikationen:
   Die Qualifikation ist durch ein Zeugnis einer zuständigen Stelle, durch ein Personalzertifikat, durch ein Lehrgangszertifikat oder durch eine Bescheinigung insbesondere von Arbeitgebern, die die Breite, die Tiefe und das Verfahren der Spezialistenqualifizierung abbildet, nachzuweisen.
 
-�
+
 - 5. :: IT Sales Advisor (IT-Vertriebsbeauftragter und IT-Vertriebsbeauftragte)
 - 5.1 :: Arbeitsgebiet:
   IT Sales Advisor stehen den Kunden als kontinuierlicher Ansprechpartner zur Verfügung. Neben dem Vertrieb von Standardprodukten gehört die Erstellung komplexer Dienstleistungsangebote zu den Aufgaben der IT Sales Advisor. Insbesondere versuchen sie, Kunden für die Produkte und Dienstleistungen des Unternehmens zu gewinnen. Sie pflegen und betreuen den Kundenstamm des Unternehmens und halten die entsprechenden Daten auf dem aktuellen Stand. Sämtliche Aktivitäten der IT Sales Advisor sind auf das Erreichen der Absatz- und Umsatzziele ausgerichtet. Dazu streben sie eine hohe Kundenzufriedenheit und nachhaltige Kundenbindung an. Sie sind damit für die Sicherstellung eines individuellen Beziehungsmanagements verantwortlich.
@@ -1404,7 +1404,7 @@ Profilgruppe Technician
 - 7.4 :: Nachweis der Qualifikationen:
   Die Qualifikation ist durch ein Zeugnis einer zuständigen Stelle, durch ein Personalzertifikat, durch ein Lehrgangszertifikat oder durch eine Bescheinigung insbesondere von Arbeitgebern, die die Breite, die Tiefe und das Verfahren der Spezialistenqualifizierung abbildet, nachzuweisen.
 
-�
+
 - 8. :: IT Administrator (IT-Administrator und IT-Administratorin)
 - 8.1 :: Arbeitsgebiet:
   IT Administratoren analysieren und bewerten den internen und externen Datenverkehr, kontrollieren und analysieren Datendurchsatz und Fehlerrate. Ebenso analysieren und bewerten sie den Bedarf an Soft- und Hardware, Systemen und IT-Infrastruktur (zum Beispiel Netzwerke), planen entsprechende Beschaffungen, installieren und konfigurieren IT-Systeme und ihre Komponenten. Sie organisieren den Betrieb von IT-Systemen, einschließlich automatischer Updates und Backups sowie den Benutzersupport. Sie analysieren Probleme, isolieren und beheben fehlerhafte Zustände und erarbeiten proaktiv Richtlinien und Verfahren für den störungsfreien Betrieb. Sie erarbeiten neue technische Konzepte für den Systembetrieb und entwickeln die Systeme unter Beachtung der Auswirkungen der Veränderungen bedarfsgerecht und wirtschaftlich weiter. IT Administratoren setzen auch Sicherheitsmaßnahmen um und sichern den Systembetrieb gegen Angriffe von außen und von innen.
@@ -1482,7 +1482,7 @@ Profilgruppe Technician
 - 8.4 :: Nachweis der Qualifikationen:
   Die Qualifikation ist durch ein Zeugnis einer zuständigen Stelle, durch ein Personalzertifikat, durch ein Lehrgangszertifikat oder durch eine Bescheinigung insbesondere von Arbeitgebern, die die Breite, die Tiefe und das Verfahren der Spezialistenqualifizierung abbildet, nachzuweisen.
 
-�
+
 - 9. :: IT Project Coordinator (IT-Projektkoordinator und IT-Projektkoordinatorin)
 - 9.1 :: Arbeitsgebiet:
   IT Project Coordinator steuern und überwachen die Anforderungen, Rahmenbedingungen und Verläufe von IT-Projekten. IT Project Coordinator arbeiten mit Spezialisten aus den beteiligten Bereichen, Nutzern und Auftraggebern zusammen, entwickeln Ziel- und Sollvorgaben und steuern deren Erreichung, lösen auftretende Konflikte, analysieren und behandeln potenzielle Risiken mit angemessenen Maßnahmen. Sie steuern technologische und personelle Ressourcen so, dass die Projektergebnisse anforderungsgerecht, das heißt qualitätsgerecht, zeitgerecht und im geplanten Budgetrahmen erreicht werden. Sie sorgen für leistungsfördernde Arbeitsbedingungen für die Projektmitarbeiter. IT Project Coordinator pflegen eine angemessene Beziehung zum Auftraggeber und halten gegenüber der Geschäftsführung oder einem Lenkungsausschuss die Projektergebnisse transparent. IT Project Coordinator haben im Projektteam eine Vorbild- und Steuerungsfunktion.
@@ -1664,7 +1664,7 @@ Profilgruppe Technician
 - 11.4 :: Nachweis der Qualifikationen:
   Die Qualifikation ist durch ein Zeugnis einer zuständigen Stelle, durch ein Personalzertifikat, durch ein Lehrgangszertifikat oder durch eine Bescheinigung insbesondere von Arbeitgebern, die die Breite, die Tiefe und das Verfahren der Spezialistenqualifizierung abbildet, nachzuweisen.
 
-�
+
 - 12. :: Component Developer (Komponentenentwickler und Komponentenentwicklerin)
 - 12.1 :: Arbeitsgebiet:
   Component Developer analysieren geforderte Funktionalitäten für Hardwarekomponenten und Geräte, erfassen und bewerten technische Bedingungen und Standards sowie technische Umgebungen. Sie überprüfen technische Voraussetzungen für Systeme, beraten betriebsinterne und externe Kunden hinsichtlich der technischen Realisierbarkeit der Konzepte und verständigen sich über technische Lösungen. Zu ihren Aufgaben gehört die Projektplanung der einzelnen Projektschritte des Entwicklungsprojekts. Sie arbeiten kooperativ in heterogenen Teams. Component Developer konzipieren und realisieren Hardwarelösungen sowohl für diskrete als auch für eingebettete Systeme und erstellen hardwarenahe Software. Sie lösen Schnittstellenprobleme, programmieren Schnittstellen und binden diese in Systeme ein. Sie testen Hard- und integrierte Softwarekomponenten im Labor und unterstützen bei Integration und Test im jeweiligen Zielsystem, analysieren und strukturieren dabei auftretende technische Probleme. Component Developer erstellen technische Dokumentationen und Betriebsanleitungen. Sie wirken bei der Erstellung von Produktionsunterlagen für die Serienproduktion der entwickelten Hardwarekomponenten mit. Sie analysieren und strukturieren technische Probleme und leisten Support.
