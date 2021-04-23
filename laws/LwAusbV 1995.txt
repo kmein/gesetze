@@ -160,7 +160,7 @@ Teil des Ausbildungsberufsbildes
 Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 1.
 der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen (§ 4 Nr. 1)
-�
+
 1.1
 Aufbau und Organisation des Ausbildungsbetriebes (§ 4 Nr. 1.1)
 a)
@@ -229,7 +229,7 @@ f)
 rationellen und umweltschonenden Umgang mit Energieträgern beschreiben
 2.
 Techniken und Organisation der betrieblichen Arbeit, Produktion und Vermarktung (§ 4 Nr. 2)
-�
+
 2.1
 Handhaben und Instandhalten von Maschinen, Geräten und Betriebseinrichtungen (§ 4 Nr. 2.1)
 a)
@@ -282,7 +282,7 @@ e)
 Marktberichte lesen und Entwicklungen am Markt verfolgen
 3.
 Pflanzenproduktion (§ 4 Nr. 3)
-�
+
 3.1
 Bearbeiten und Pflegen des Bodens; Erhalten einer nachhaltigen Bodenfruchtbarkeit (§ 4 Nr. 3.1)
 a)
@@ -329,7 +329,7 @@ d)
 beim Transport und Einlagern von Erntegut mitwirken
 4.
 Tierproduktion (§ 4 Nr. 4)
-�
+
 4.1
 Versorgen von Tieren; rationelles, tiergerechtes und umweltverträgliches Halten (§ 4 Nr. 4.1)
 a)
@@ -372,7 +372,7 @@ Teil des Ausbildungsberufsbildes
 Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 1.
 der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen (§ 4 Nr. 1)
-�
+
 1.1
 die in § 4 Nr. 1.1 bis 1.4 aufgeführten Teile des Ausbildungsberufsbildes
 die in Abschnitt I lfd. Nr. 1.1 bis 1.4 aufgeführten Fertigkeiten und Kenntnisse
@@ -386,7 +386,7 @@ c)
 mit Energiearten und Materialien umweltschonend und kostensparend umgehen
 2.
 Techniken und Organisation der betrieblichen Arbeit, Produktion und Vermarktung (§ 4 Nr. 2)
-�
+
 2.1
 Handhaben und Instandhalten von Maschinen, Geräten und Betriebseinrichtungen (§ 4 Nr. 2.1)
 a)
@@ -457,7 +457,7 @@ l)
 Marktpreisentwicklung beobachten und bewerten
 3.
 Pflanzenproduktion (§ 4 Nr. 3)
-�
+
 3.1
 Bearbeiten und Pflegen des Bodens; Erhalten einer nachhaltigen Bodenfruchtbarkeit (§ 4 Nr. 3.1)
 a)
@@ -496,7 +496,7 @@ f)
 bei der Vermarktung des Erntegutes mitwirken
 4.
 Tierproduktion (§ 4 Nr. 4)
-�
+
 4.1
 Versorgen von Tieren; rationelles, tiergerechtes und umweltverträgliches Halten (§ 4 Nr. 4.1)
 a)

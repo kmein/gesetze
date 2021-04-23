@@ -6,13 +6,13 @@ Ausfertigungsdatum: 17.12.2015
 
 Inhaltsübersicht
 
-�
-�
-�
-�
-�
-�
-�
+
+
+
+
+
+
+
 
 § 1 - Wahlrechtsgrundsätze
 
@@ -176,7 +176,7 @@ Sie dürfen erst bei der Wiedereröffnung oder für die Stimmauszählung entsieg
 - 1. :: das Wahlausschreiben,
 - 2. :: die Wahlumschläge, für die § 14 Absatz 1 entsprechend gilt, und die Stimmzettel,
 - 3. :: eine vorgedruckte, von der Wählerin gegenüber dem Wahlvorstand abzugebende Erklärung, dass sie die Stimmzettel persönlich gekennzeichnet hat oder im Fall des § 16 Absatz 4 durch eine Vertrauensperson hat kennzeichnen lassen,
-- 4. :: einen grö�Briefwahl“ und
+- 4. :: einen gröBriefwahl“ und
 - 5. :: ein Merkblatt mit Hinweisen zur Stimmabgabe bei einer Briefwahl.
 
 Der Wahlvorstand vermerkt die Aushändigung oder Übersendung der Unterlagen in der Wählerinnenliste.

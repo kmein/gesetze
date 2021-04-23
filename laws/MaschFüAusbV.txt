@@ -214,11 +214,11 @@ Anlage - (zu Â§ 5)Ausbildungsrahmenplan fÃ¼r die Berufsausbildung zum Maschinen-
 (Fundstelle: BGBl. I 2004, 651 - 660)
 \\
 I. Berufliche Grundbildung - 1. Ausbildungsjahr -
- 
- 
- 
- 
- 
+
+
+
+
+
 Lfd. Nr.
 Teil des Ausbildungsberufsbildes
 Zu vermittelnde Fertigkeiten und Kenntnisse
@@ -352,10 +352,10 @@ Aufgaben und Ziele von qualitÃ¤tssichernden MaÃŸnahmen unterscheiden
 2
 \\
 \\
- 
- 
- 
- 
+
+
+
+
 II. Berufliche Fachbildung - 2. Ausbildungsjahr -
 A. Schwerpunkt: Metall- und Kunststofftechnik
 Lfd. Nr.
@@ -397,7 +397,7 @@ Werkzeuge unter BerÃ¼cksichtigung der Verfahren, der Werkstoffe und der Schneide
 4
 Steuerungs- und Regelungstechnik (Â§ 4 Nr. 10)
 Steuerungs- und Regelungseinrichtungen an Maschinen und Anlagen unter Beachtung der Sicherheitsvorschriften bedienen
- 
+
 5
 Einrichten und Bedienen von Produktionsanlagen (Â§ 4 Nr. 11)
 a)

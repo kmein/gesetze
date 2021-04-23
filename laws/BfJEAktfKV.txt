@@ -21,7 +21,7 @@ Elektronische Dokumente sind dem Bundesamt in druckbarer, kopierbarer und, sowei
 
 (1) Ergänzend zu den in § 6 Absatz 3 des Gesetzes über die Errichtung des Bundesamts für Justiz aufgeführten sicheren Übermittlungswegen liegt ein sicherer Übermittlungsweg auch dann vor, wenn
 
-- 1. :: ein verschlüsselter Übermittlungsweg auf der Grundlage des Protokollstandards �OSCI“ oder eines nach dem Stand der Technik vergleichbaren Standards genutzt wird und
+- 1. :: ein verschlüsselter Übermittlungsweg auf der Grundlage des Protokollstandards OSCI“ oder eines nach dem Stand der Technik vergleichbaren Standards genutzt wird und
 - 2. :: das Bundesamt für diesen Übermittlungsweg festgestellt hat, dass die Integrität und Authentizität der Daten gewährleistet ist.
 
 (2) Das Bundesamt gibt weitere sichere Übermittlungswege auf seiner Internetseite www.bundesjustizamt.de bekannt.

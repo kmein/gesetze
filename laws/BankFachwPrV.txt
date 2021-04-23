@@ -120,14 +120,14 @@ Die zu prüfende Person hat Anspruch auf 20 Minuten Vorbereitungszeit.
 
 § 6 - Befreiung von einzelnen Prüfungsbestandteilen
 
-Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 7 und 8 au�Praxisorientierten Situationsgespräch“ nach § 2 Absatz 6 ist nicht möglich.
+Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 7 und 8 auPraxisorientierten Situationsgespräch“ nach § 2 Absatz 6 ist nicht möglich.
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
 § 7 - Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
-(2) Im Prüfungsteil �Grundlegende Qualifikationen“ nach § 2 Absatz 2 sind die schriftlichen Prüfungsleistungen für jeden Prüfungsbereich einzeln zu bewerten.
-(3) Im Prüfungsteil �Spezielle Qualifikationen“ nach § 2 Absatz 3 ist die schriftliche Prüfungsleistung im gewählten Prüfungsbereich zu bewerten.
+(2) Im Prüfungsteil Grundlegende Qualifikationen“ nach § 2 Absatz 2 sind die schriftlichen Prüfungsleistungen für jeden Prüfungsbereich einzeln zu bewerten.
+(3) Im Prüfungsteil Spezielle Qualifikationen“ nach § 2 Absatz 3 ist die schriftliche Prüfungsleistung im gewählten Prüfungsbereich zu bewerten.
 (4) Die mündliche Prüfung in Form eines praxisorientierten Situationsgesprächs nach § 2 Absatz 6 Satz 1 ist als Prüfungsleistung zu bewerten.
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
@@ -135,11 +135,11 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (1) Die Prüfung ist bestanden, wenn in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
-- 1. :: in jeder Prüfungsleistung im Prüfungsteil �Grundlegende Qualifikationen“,
-- 2. :: in der Prüfungsleistung im Prüfungsteil �Spezielle Qualifikationen“ und
+- 1. :: in jeder Prüfungsleistung im Prüfungsteil Grundlegende Qualifikationen“,
+- 2. :: in der Prüfungsleistung im Prüfungsteil Spezielle Qualifikationen“ und
 - 3. :: in der mündlichen Prüfung.
 
-(2) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das arithmetische Mittel aus den einzelnen Bewertungen der Prüfungsleistungen im Prüfungsteil �Grundlegende Qualifikationen“, der Bewertung im Prüfungsteil �Spezielle Qualifikationen“ und der Bewertung der mündlichen Prüfung zu berechnen. Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerundeten Gesamtpunktzahl ist nach Anlage 1 die Note als Dezimalzahl und die Note in Worten zuzuordnen. Die zugeordnete Note ist die Gesamtnote.
+(2) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das arithmetische Mittel aus den einzelnen Bewertungen der Prüfungsleistungen im Prüfungsteil Grundlegende Qualifikationen“, der Bewertung im Prüfungsteil Spezielle Qualifikationen“ und der Bewertung der mündlichen Prüfung zu berechnen. Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerundeten Gesamtpunktzahl ist nach Anlage 1 die Note als Dezimalzahl und die Note in Worten zuzuordnen. Die zugeordnete Note ist die Gesamtnote.
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
 § 9 - Zeugnisse
@@ -195,8 +195,8 @@ Teil A -- Zeugnis ohne Prüfungsergebnisse:
 Teil B -- Zeugnis mit Prüfungsergebnissen:
 Alle Angaben des Teils A sowie zusätzlich:
 
-- 1. :: Benennung der Prüfungsbereiche im Prüfungsteil �Grundlegende Qualifikationen“ und Bewertung jedes Prüfungsbereichs mit Punkten,
-- 2. :: Benennung des gewählten Prüfungsbereichs im Prüfungsteil �Spezielle Qualifikationen“ und Bewertung mit Punkten,
+- 1. :: Benennung der Prüfungsbereiche im Prüfungsteil Grundlegende Qualifikationen“ und Bewertung jedes Prüfungsbereichs mit Punkten,
+- 2. :: Benennung des gewählten Prüfungsbereichs im Prüfungsteil Spezielle Qualifikationen“ und Bewertung mit Punkten,
 - 3. :: Benennung des praxisorientierten Situationsgesprächs und Bewertung mit Punkten,
 - 4. :: die errechnete Gesamtpunktzahl für die gesamte Prüfung,
 - 5. :: die Gesamtnote als Dezimalzahl,

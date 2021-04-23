@@ -92,9 +92,9 @@ Teil 1 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 - 2. :: Lagerstätte.
 
 
-§ 8 - Prüfungsbereich �Montagetechnik“
+§ 8 - Prüfungsbereich Montagetechnik“
 
-(1) Im Prüfungsbereich �Montagetechnik“ soll der Prüfling nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Montagetechnik“ soll der Prüfling nachweisen, dass er in der Lage ist,
 
 - 1. :: technische Unterlagen anzuwenden,
 - 2. :: montagetechnische Arbeitsabläufe zu planen und abzustimmen,
@@ -108,9 +108,9 @@ Teil 1 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 (2) Der Prüfling soll eine Arbeitsprobe durchführen, hierüber ein situatives Fachgespräch führen und Aufgaben schriftlich bearbeiten.
 (3) Die Prüfungszeit beträgt insgesamt 225 Minuten. Davon entfallen auf die Arbeitsprobe einschließlich dem situativem Fachgespräch von höchstens 10 Minuten 180 Minuten und auf die schriftlichen Aufgaben 45 Minuten.
 
-§ 9 - Prüfungsbereich �Lagerstätte“
+§ 9 - Prüfungsbereich Lagerstätte“
 
-(1) Im Prüfungsbereich �Lagerstätte“ soll der Prüfling nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Lagerstätte“ soll der Prüfling nachweisen, dass er in der Lage ist,
 
 - 1. :: geologische und gebirgsmechanische Gegebenheiten zu beschreiben,
 - 2. :: Verfahren zur Lagerstättenerschließung zu unterscheiden,
@@ -130,18 +130,18 @@ Teil 1 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (2) In Teil 2 der Abschlussprüfung sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, nur insoweit einbezogen werden, als es für die Feststellung der beruflichen Handlungsfähigkeit erforderlich ist.
 
-§ 11 - Prüfungsbereiche von Teil 2 in der Fachrichtung �Tiefbautechnik“
+§ 11 - Prüfungsbereiche von Teil 2 in der Fachrichtung Tiefbautechnik“
 
-Teil 2 der Abschlussprüfung in der Fachrichtung �Tiefbautechnik“ findet in folgenden Prüfungsbereichen statt:
+Teil 2 der Abschlussprüfung in der Fachrichtung Tiefbautechnik“ findet in folgenden Prüfungsbereichen statt:
 
 - 1. :: Bergbautechnische Prozesse,
 - 2. :: Bergbautechnik und Bergrecht,
 - 3. :: Wirtschafts- und Sozialkunde.
 
 
-§ 12 - Prüfungsbereich �Bergbautechnische Prozesse“
+§ 12 - Prüfungsbereich Bergbautechnische Prozesse“
 
-(1) Im Prüfungsbereich �Bergbautechnische Prozesse“ soll der Prüfling nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Bergbautechnische Prozesse“ soll der Prüfling nachweisen, dass er in der Lage ist,
 
 - 1. :: bergbautechnische Prozesse zu analysieren, zu bewerten und unter Berücksichtigung geologischer, technischer, wirtschaftlicher, rechtlicher und ökologischer Bedingungen durchzuführen,
 - 2. :: bergbautechnische Prozesse zu dokumentieren,
@@ -158,9 +158,9 @@ oder
 (3) Die Prüfungszeit für die Durchführung des betrieblichen Auftrags einschließlich Dokumentation beträgt 18 bis 24 Stunden; für das auftragsbezogene Fachgespräch höchstens 30 Minuten.
 (4) Die Prüfungszeit für die Durchführung der Arbeitsprobe beträgt insgesamt vier Stunden, einschließlich eines situativen Fachgesprächs von höchstens zehn Minuten.
 
-§ 13 - Prüfungsbereich �Bergbautechnik und Bergrecht“
+§ 13 - Prüfungsbereich Bergbautechnik und Bergrecht“
 
-(1) Im Prüfungsbereich �Bergbautechnik und Bergrecht“ soll der Prüfling darstellen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Bergbautechnik und Bergrecht“ soll der Prüfling darstellen, dass er in der Lage ist,
 
 - 1. :: bergbautechnische und bergbaulogistische Arbeitsabläufe zu planen und abzustimmen,
 - 2. :: technische und organisatorische Schnittstellen festzulegen,
@@ -178,9 +178,9 @@ oder
 (2) Der Prüfling soll Aufgaben schriftlich bearbeiten.
 (3) Die Prüfungszeit beträgt 120 Minuten.
 
-§ 14 - Prüfungsbereich �Wirtschafts- und Sozialkunde“
+§ 14 - Prüfungsbereich Wirtschafts- und Sozialkunde“
 
-(1) Im Prüfungsbereich �Wirtschafts- und Sozialkunde“ soll der Prüfling nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
+(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde“ soll der Prüfling nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 (2) Die Aufgaben müssen praxisbezogen sein. Der Prüfling soll die Aufgaben schriftlich bearbeiten.
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
@@ -195,31 +195,31 @@ oder
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
-- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens �ausreichend“,
-- 2. :: im Ergebnis von Teil 2 mit mindestens �ausreichend“,
-- 3. :: in mindestens zwei Prüfungsbereichen von Teil 2 der Abschlussprüfung mit mindestens �ausreichend“ und
-- 4. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit �ungenügend“.
+- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens ausreichend“,
+- 2. :: im Ergebnis von Teil 2 mit mindestens ausreichend“,
+- 3. :: in mindestens zwei Prüfungsbereichen von Teil 2 der Abschlussprüfung mit mindestens ausreichend“ und
+- 4. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit ungenügend“.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche �Bergbautechnik und Bergrecht“ oder �Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche Bergbautechnik und Bergrecht“ oder Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-- 1. :: der Prüfungsbereich schlechter als mit �ausreichend“ bewertet worden ist und
+- 1. :: der Prüfungsbereich schlechter als mit ausreichend“ bewertet worden ist und
 - 2. :: die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
-§ 16 - Prüfungsbereiche von Teil 2 in der Fachrichtung �Tiefbohrtechnik“
+§ 16 - Prüfungsbereiche von Teil 2 in der Fachrichtung Tiefbohrtechnik“
 
-Teil 2 der Abschlussprüfung in der Fachrichtung �Tiefbohrtechnik“ findet in folgenden Prüfungsbereichen statt:
+Teil 2 der Abschlussprüfung in der Fachrichtung Tiefbohrtechnik“ findet in folgenden Prüfungsbereichen statt:
 
 - 1. :: Bohrtechnische Prozesse,
 - 2. :: Bohrtechnik und Bergrecht,
 - 3. :: Wirtschafts- und Sozialkunde.
 
 
-§ 17 - Prüfungsbereich �Bohrtechnische Prozesse“
+§ 17 - Prüfungsbereich Bohrtechnische Prozesse“
 
-(1) Im Prüfungsbereich �Bohrtechnische Prozesse“ soll der Prüfling nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Bohrtechnische Prozesse“ soll der Prüfling nachweisen, dass er in der Lage ist,
 
 - 1. :: bohrtechnische Prozesse zu analysieren, zu bewerten und unter Berücksichtigung geologischer, technischer, wirtschaftlicher, rechtlicher und ökologischer Bedingungen durchzuführen,
 - 2. :: bohrtechnische Prozesse zu dokumentieren,
@@ -228,9 +228,9 @@ Teil 2 der Abschlussprüfung in der Fachrichtung �Tiefbohrtechnik“ findet in 
 (2) Der Prüfling soll einen betrieblichen Auftrag durchführen und mit praxisbezogenen Unterlagen dokumentieren sowie darüber ein auftragsbezogenes Fachgespräch führen. Das Fachgespräch wird auf der Grundlage der praxisbezogenen Unterlagen des bearbeiteten betrieblichen Auftrags geführt. Unter Berücksichtigung der praxisbezogenen Unterlagen sollen durch das Fachgespräch die Anforderungen nach Absatz 1 Nummer 1 im Bezug zur Auftragsdurchführung bewertet werden. Dem Prüfungsausschuss ist vor der Durchführung des Auftrags die Aufgabenstellung einschließlich des geplanten Bearbeitungszeitraums zur Genehmigung vorzulegen.
 (3) Die Prüfungszeit für die Durchführung des betrieblichen Auftrags einschließlich Dokumentation beträgt 18 bis 24 Stunden; für das auftragsbezogene Fachgespräch höchstens 30 Minuten.
 
-§ 18 - Prüfungsbereich �Bohrtechnik und Bergrecht“
+§ 18 - Prüfungsbereich Bohrtechnik und Bergrecht“
 
-(1) Im Prüfungsbereich �Bohrtechnik und Bergrecht“ soll der Prüfling darstellen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Bohrtechnik und Bergrecht“ soll der Prüfling darstellen, dass er in der Lage ist,
 
 - 1. :: bohrtechnische und bergbaulogistische Prozesse unter Berücksichtigung geologischer, technischer, wirtschaftlicher, rechtlicher und ökologischer Bedingungen zu analysieren und zu bewerten,
 - 2. :: Prozesse zu dokumentieren,
@@ -247,9 +247,9 @@ Teil 2 der Abschlussprüfung in der Fachrichtung �Tiefbohrtechnik“ findet in 
 (2) Der Prüfling soll Aufgaben schriftlich bearbeiten.
 (3) Die Prüfungszeit beträgt 120 Minuten.
 
-§ 19 - Prüfungsbereich �Wirtschafts- und Sozialkunde“
+§ 19 - Prüfungsbereich Wirtschafts- und Sozialkunde“
 
-(1) Im Prüfungsbereich �Wirtschafts- und Sozialkunde“ soll der Prüfling nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
+(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde“ soll der Prüfling nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 (2) Die Aufgaben müssen praxisbezogen sein. Der Prüfling soll die Aufgaben schriftlich bearbeiten.
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
@@ -269,14 +269,14 @@ Teil 2 der Abschlussprüfung in der Fachrichtung �Tiefbohrtechnik“ findet in 
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
-- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens �ausreichend“,
-- 2. :: im Ergebnis von Teil 2 mit mindestens �ausreichend“,
-- 3. :: in mindestens zwei Prüfungsbereichen von Teil 2 der Abschlussprüfung mit mindestens �ausreichend“ und
-- 4. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit �ungenügend“.
+- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens ausreichend“,
+- 2. :: im Ergebnis von Teil 2 mit mindestens ausreichend“,
+- 3. :: in mindestens zwei Prüfungsbereichen von Teil 2 der Abschlussprüfung mit mindestens ausreichend“ und
+- 4. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit ungenügend“.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche �Bohrtechnik und Bergrecht“ oder �Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche Bohrtechnik und Bergrecht“ oder Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-- 1. :: der Prüfungsbereich schlechter als mit �ausreichend“ bewertet worden ist und
+- 1. :: der Prüfungsbereich schlechter als mit ausreichend“ bewertet worden ist und
 - 2. :: die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
@@ -747,16 +747,16 @@ Abschnitt D Nummer 6)
 - b) :: Werkzeuge und Materialien auswählen, termingerecht anfordern, überprüfen, transportieren und bereitstellen
 - c) :: Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher und terminlicher Vorgaben planen und durchführen
 
-�
 
-�
+
+
 
 - d) :: Aufgaben im Team planen und durchführen, Gespräche situationsgerecht und zielorientiert führen, kulturelle Identitäten berücksichtigen
 
 - i) :: unterschiedliche Lerntechniken anwenden
 - j) :: Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren
 
-�
+
 
 8
 
@@ -767,7 +767,7 @@ Abschnitt D Nummer 7)
 - a) :: betriebliches Qualitätsmanagementsystem anwenden
 - c) :: qualitätssichernde Maßnahmen im eigenen Arbeitsbereich anwenden, insbesondere Zwischen- und Endergebnisse prüfen und beurteilen
 
-�
+
 
 Zeitrahmen 3  Hohlräume erstellen und erschließen
 
@@ -837,7 +837,7 @@ Abschnitt A Nummer 8)
 - b) :: Transportmittel unterscheiden
 - f) :: Transport ausführen, Material unter Beachtung der Sicherheitsvorschriften lagern
 
-�
+
 
 5
 
@@ -850,7 +850,7 @@ Abschnitt D Nummer 5)
 - d) :: Betriebs- und Gebrauchsanleitungen, Montage- und Wartungspläne, Zeichnungen, Fließbilder und Schaltpläne anwenden
 - e) :: fremdsprachliche Fachbegriffe anwenden
 
-�
+
 
 6
 
@@ -867,7 +867,7 @@ Abschnitt D Nummer 6)
 - g) :: im Arbeitsbereich zur kontinuierlichen Verbesserung von Arbeitsvorgängen beitragen
 - j) :: Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren
 
-�
+
 
 7
 
@@ -877,7 +877,7 @@ Abschnitt D Nummer 7)
 
 - c) :: qualitätssichernde Maßnahmen im eigenen Arbeitsbereich anwenden, insbesondere Zwischen- und Endergebnisse prüfen und beurteilen
 
-�
+
 
 Zeitrahmen 4  Montieren, Demontieren und Transportieren
 
@@ -910,7 +910,7 @@ Abschnitt A Nummer 2)
 
 - b) :: Steuerungstechnik der Pneumatik und Hydraulik anwenden
 
-�
+
 
 2
 
@@ -983,7 +983,7 @@ Abschnitt D Nummer 6)
 - i) :: unterschiedliche Lerntechniken anwenden
 - j) :: Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren
 
-�
+
 
 7
 
@@ -995,7 +995,7 @@ Abschnitt D Nummer 7)
 - b) :: Ziele, Aufgaben und Bedeutung qualitätssichernder Maßnahmen beachten
 - c) :: qualitätssichernde Maßnahmen im eigenen Arbeitsbereich anwenden, insbesondere Zwischen- und Endergebnisse prüfen und beurteilen
 
-�
+
 
 Zeitrahmen 5  Anlagen, Maschinen und Systeme bedienen und warten
 
@@ -1029,7 +1029,7 @@ Abschnitt A Nummer 2)
 - b) :: Steuerungstechnik der Pneumatik und Hydraulik anwenden
 - c) :: programmierbare Automatisierungssysteme auf Funktionsfähigkeit überprüfen
 
-�
+
 
 2
 
@@ -1039,7 +1039,7 @@ Abschnitt A Nummer 3)
 
 - c) :: Unregelmäßigkeiten am dynamischen Fahrverhalten erkennen und geeignete Maßnahmen einleiten
 
-�
+
 
 3
 
@@ -1213,7 +1213,7 @@ Abschnitt D Nummer 7)
 
 - c) :: qualitätssichernde Maßnahmen im eigenen Arbeitsbereich anwenden, insbesondere Zwischen- und Endergebnisse prüfen und beurteilen
 
-�
+
 
 Abschnitt 3
 Fachrichtung Tiefbautechnik
@@ -1249,7 +1249,7 @@ Abschnitt A Nummer 2)
 - b) :: Steuerungstechnik der Pneumatik und Hydraulik anwenden
 - c) :: programmierbare Automatisierungssysteme auf Funktionsfähigkeit überprüfen
 
-�
+
 
 2
 
@@ -1289,7 +1289,7 @@ Abschnitt A Nummer 7)
 - c) :: Fördersysteme unter Beachtung der betrieblichen Vorschriften in und außer Betrieb nehmen
 - d) :: Fördersysteme im Einsatz überprüfen und bei Unregelmäßigkeiten geeignete Maßnahmen einleiten
 
-�
+
 
 6
 
@@ -1304,7 +1304,7 @@ Abschnitt A Nummer 8)
 - g) :: Betriebsmittel für Sondertransporte unterscheiden und auswählen
 - h) :: Betriebsmittel für Sondertransporte be- und entladen, Sondertransport durchführen, Transportgut sichern
 
-�
+
 
 7
 
@@ -1334,7 +1334,7 @@ Abschnitt B Nummer 3)
 - c) :: Grubenbaue funktional unterhalten
 - d) :: Grubenbaue verwahren
 
-�
+
 
 9
 
@@ -1347,7 +1347,7 @@ Abschnitt B Nummer 4)
 - c) :: Fahrungssysteme unter Beachtung der betrieblichen Vorschriften in Betrieb nehmen, benutzen und außer Betrieb nehmen
 - d) :: Fahrungssysteme im Einsatz überprüfen und bei Unregelmäßigkeiten geeignete Maßnahmen einleiten
 
-�
+
 
 10
 
@@ -1360,7 +1360,7 @@ Abschnitt D Nummer 5)
 - b) :: betriebliche Kommunikationsmittel nutzen
 - c) :: IT-gestützte Kommunikationssysteme nutzen
 
-�
+
 
 11
 
@@ -1376,7 +1376,7 @@ Abschnitt D Nummer 6)
 - g) :: im Arbeitsbereich zur kontinuierlichen Verbesserung von Arbeitsvorgängen beitragen
 - j) :: Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren
 
-�
+
 
 12
 
@@ -1387,7 +1387,7 @@ Abschnitt D Nummer 7)
 - c) :: qualitätssichernde Maßnahmen im eigenen Arbeitsbereich anwenden, insbesondere Zwischen- und Endergebnisse prüfen und beurteilen
 - d) :: Betriebsstörungen systematisch bearbeiten
 
-�
+
 
 Zeitrahmen 8  Rohstoffe gewinnen und fördern
 
@@ -1424,7 +1424,7 @@ Abschnitt A Nummer 4)
 - e) :: Maschinen, Systeme und Anlagen unter Beachtung der betrieblichen Vorschriften in Betrieb nehmen und bedienen
 - f) :: Wartung zur Sicherung des Betriebsablaufes durchführen
 
-�
+
 
 2
 
@@ -1466,7 +1466,7 @@ Abschnitt B Nummer 1)
 - e) :: Aufbau und Wirkungsweise von Klimaanlagen beschreiben, Betriebswerte bewerten
 - f) :: Klimaanlagen einbauen und warten
 
-�
+
 
 6
 
@@ -1490,7 +1490,7 @@ Abschnitt B Nummer 3)
 - b) :: Grubenbaue durch Ausbau sichern
 - e) :: betriebliche Abbau- und Gewinnungsverfahren anwenden
 
-�
+
 
 8
 
@@ -1504,7 +1504,7 @@ Abschnitt D Nummer 5)
 - c) :: IT-gestützte Kommunikationssysteme nutzen
 - e) :: fremdsprachliche Fachbegriffe anwenden
 
-�
+
 
 9
 
@@ -1521,7 +1521,7 @@ Abschnitt D Nummer 6)
 - g) :: im Arbeitsbereich zur kontinuierlichen Verbesserung von Arbeitsvorgängen beitragen
 - j) :: Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren
 
-�
+
 
 10
 
@@ -1532,7 +1532,7 @@ Abschnitt D Nummer 7)
 - c) :: qualitätssichernde Maßnahmen im eigenen Arbeitsbereich anwenden, insbesondere Zwischen- und Endergebnisse prüfen und beurteilen
 - d) :: Betriebsstörungen systematisch bearbeiten
 
-�
+
 
 Fachrichtung Tiefbohrtechnik
 Zeitrahmen 9  Bohrlöcher herstellen, unterhalten und verwahren
@@ -1567,7 +1567,7 @@ Abschnitt A Nummer 2)
 - b) :: Steuerungstechnik der Pneumatik und Hydraulik anwenden
 - c) :: programmierbare Automatisierungssysteme auf Funktionsfähigkeit überprüfen
 
-�
+
 
 2
 
@@ -1579,7 +1579,7 @@ Abschnitt A Nummer 3)
 - b) :: Hub- und Transporteinrichtungen auf Funktionsfähigkeit kontrollieren und einsetzen
 - c) :: Unregelmäßigkeiten am dynamischen Fahrverhalten erkennen und geeignete Maßnahmen einleiten
 
-�
+
 
 3
 
@@ -1591,7 +1591,7 @@ Abschnitt A Nummer 4)
 - e) :: Maschinen, Systeme und Anlagen unter Beachtung der betrieblichen Vorschriften in Betrieb nehmen und bedienen
 - f) :: Wartung zur Sicherung des Betriebsablaufes durchführen
 
-�
+
 
 4
 
@@ -1602,7 +1602,7 @@ Abschnitt A Nummer 5)
 - e) :: bei der Erstellung, Sicherung und Unterhaltung von Hohlräumen unter Berücksichtigung der geologischen Gegebenheiten mitwirken
 - f) :: die Vorschriften des vorbeugenden Explosionsschutzes anwenden
 
-�
+
 
 5
 
@@ -1615,7 +1615,7 @@ Abschnitt A Nummer 6)
 - b) :: Maßnahmen zur Sicherung des Arbeitsplatzes im Gewinnungsbereich durchführen
 - c) :: im Abbau eingesetzte Fördereinrichtungen und Gewinnungsmaschinen anwenden und veränderten Betriebssituationen anpassen
 
-�
+
 
 6
 
@@ -1627,7 +1627,7 @@ Abschnitt A Nummer 7)
 - c) :: Fördersysteme unter Beachtung der betrieblichen Vorschriften in und außer Betrieb nehmen
 - d) :: Fördersysteme im Einsatz überprüfen und bei Unregelmäßigkeiten geeignete Maßnahmen einleiten
 
-�
+
 
 7
 
@@ -1642,7 +1642,7 @@ Abschnitt C Nummer 1)
 - d) :: Behältersysteme und Tankanlagen bedienen und warten
 - e) :: Anlagen der Mess-, Regel- und Sicherheitstechnik bedienen
 
-�
+
 
 8
 
@@ -1672,7 +1672,7 @@ Abschnitt C Nummer 3)
 - a) :: Messverfahren nach Anwendungsarten unterscheiden
 - b) :: Durchführung der Messung unterstützen
 
-�
+
 
 10
 
@@ -1684,7 +1684,7 @@ Abschnitt C Nummer 4)
 - b) :: Zementationsverfahren beschreiben
 - c) :: Durchführung der Zementation unterstützen
 
-�
+
 
 11
 
@@ -1698,7 +1698,7 @@ Abschnitt C Nummer 5)
 - d) :: Spülung entsorgen
 - e) :: Spülungsparameter messen und dokumentieren
 
-�
+
 
 12
 
@@ -1712,7 +1712,7 @@ Abschnitt C Nummer 6)
 - d) :: Bohrgarnituren und Bohrstrangelemente nach Vorgaben zusammenstellen und ein- und ausbauen
 - e) :: Durchführung bohrtechnischer Sonderaufgaben unterstützen
 
-�
+
 
 13
 
@@ -1723,7 +1723,7 @@ Abschnitt C Nummer 7)
 - a) :: Ausrüstungen zur Kontrolle von Bohrlöchern unterscheiden und bedienen
 - b) :: Anomalien im Bohrprozess, insbesondere Zuflüsse und Verluste, erkennen und beherrschen
 
-�
+
 
 14
 
@@ -1736,7 +1736,7 @@ Abschnitt D Nummer 5)
 - d) :: Betriebs- und Gebrauchsanleitungen, Montage- und Wartungspläne, Zeichnungen, Fließbilder und Schaltpläne anwenden
 - e) :: fremdsprachliche Fachbegriffe anwenden
 
-�
+
 
 15
 
@@ -1756,7 +1756,7 @@ Abschnitt D Nummer 6)
 - i) :: unterschiedliche Lerntechniken anwenden
 - j) :: Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren
 
-�
+
 
 16
 
@@ -1769,4 +1769,4 @@ Abschnitt D Nummer 7)
 - c) :: qualitätssichernde Maßnahmen im eigenen Arbeitsbereich anwenden, insbesondere Zwischen- und Endergebnisse prüfen und beurteilen
 - d) :: Betriebsstörungen systematisch bearbeiten
 
-�
+

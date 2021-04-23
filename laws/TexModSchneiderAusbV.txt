@@ -10,14 +10,14 @@ Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der durch Artikel 232 Nu
 
 Inhaltsübersicht
 
-�
-�
-�
-�
-�
-�
-�
-�
+
+
+
+
+
+
+
+
 
 § 1 - Staatliche Anerkennung des Ausbildungsberufes
 
@@ -229,14 +229,14 @@ Teil 2 der Abschlussprüfung findet in folgenden Prüfungsbereichen statt:
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
-- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens �ausreichend“,
-- 2. :: im Ergebnis von Teil 2 mit mindestens �ausreichend“,
-- 3. :: in mindestens zwei Prüfungsbereichen von Teil 2 mit mindestens �ausreichend“ und
-- 4. :: in keinem Prüfungsbereich von Teil 2 mit �ungenügend“.
+- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens ausreichend“,
+- 2. :: im Ergebnis von Teil 2 mit mindestens ausreichend“,
+- 3. :: in mindestens zwei Prüfungsbereichen von Teil 2 mit mindestens ausreichend“ und
+- 4. :: in keinem Prüfungsbereich von Teil 2 mit ungenügend“.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche �Planung, Fertigung und Konstruktion“ oder �Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche Planung, Fertigung und Konstruktion“ oder Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-- 1. :: der Prüfungsbereich schlechter als mit �ausreichend“ bewertet worden ist und
+- 1. :: der Prüfungsbereich schlechter als mit ausreichend“ bewertet worden ist und
 - 2. :: die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
@@ -244,7 +244,7 @@ Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisheri
 
 § 18 - Abschluss als Textil- und Modenäher oder Textil- und Modenäherin
 
-Hat der Prüfling die Abschlussprüfung nicht bestanden, erfüllen jedoch die Ergebnisse der Prüfungsbereiche �Fertigungstechniken“, �Planung und Fertigung“ von Teil 1 sowie �Wirtschafts- und Sozialkunde“ von Teil 2 der Abschlussprüfung die Anforderungen nach § 16 der Textil- und Modenäherausbildungsverordnung vom 25. Juni 2015 (BGBl. I S. 1012), so hat er den Abschluss des Ausbildungsberufs Textil- und Modenäher und Textil- und Modenäherin erreicht.
+Hat der Prüfling die Abschlussprüfung nicht bestanden, erfüllen jedoch die Ergebnisse der Prüfungsbereiche Fertigungstechniken“, Planung und Fertigung“ von Teil 1 sowie Wirtschafts- und Sozialkunde“ von Teil 2 der Abschlussprüfung die Anforderungen nach § 16 der Textil- und Modenäherausbildungsverordnung vom 25. Juni 2015 (BGBl. I S. 1012), so hat er den Abschluss des Ausbildungsberufs Textil- und Modenäher und Textil- und Modenäherin erreicht.
 
 § 19 - Anrechnung von Ausbildungszeiten
 
@@ -264,7 +264,7 @@ Diese Verordnung tritt am 1. August 2015 in Kraft. Gleichzeitig tritt die Verord
 Anlage - (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Textil- und Modeschneider und zur Textil- und Modeschneiderin
 
 (Fundstelle: BGBl. I 2015, 1026 - 1033)
-�
-�
-�
-�
+
+
+
+

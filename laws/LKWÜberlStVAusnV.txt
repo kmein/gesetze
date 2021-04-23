@@ -56,7 +56,7 @@ Im Fall des Satzes 1 Nummer 2 bis 5 gilt dies jedoch nur zum überwiegenden Tran
 - 10. :: Einrichtungen für indirekte Sicht nach der Richtlinie 2003/97/EG des Europäischen Parlaments und des Rates vom 10. November 2003 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten für die Typgenehmigung von Einrichtungen für indirekte Sicht und von mit solchen Einrichtungen ausgestatteten Fahrzeugen sowie zur Änderung der Richtlinie 70/156/ EWG und zur Aufhebung der Richtlinie 71/127/EWG (ABl. L 25 vom 29.1.2004, S. 1), die zuletzt durch die Richtlinie 2006/96/EG vom 20. November 2006 (ABl. L 363 vom 20.11.2006, S. 81) geändert worden ist,
 - 11. :: Fahrzeuge und Fahrzeugkombinationen nach § 3 Satz 1 Nummer 2 bis 5: Kamera-System am Heck des Fahrzeugs oder der Fahrzeugkombination sowie ein zugehöriger Monitor im Blickfeld des Fahrers für die Sicht nach hinten,
 - 12. :: Konturmarkierungen aus retroreflektierendem Material nach UN/ECE Regelung Nr. 48 (ABl. L 137 vom 30.5.2007, S. 1),
-- 13. :: rückwärtige Kenntlichmachung durch ein Schild aus retroreflektierendem Material in Anlehnung an die UN/ECE Regelung Nr. 70 (BGBl. 1994 II S. 970) mit der Aufschrift �Lang-Lkw“ (Schrifthöhe 130 mm),
+- 13. :: rückwärtige Kenntlichmachung durch ein Schild aus retroreflektierendem Material in Anlehnung an die UN/ECE Regelung Nr. 70 (BGBl. 1994 II S. 970) mit der Aufschrift Lang-Lkw“ (Schrifthöhe 130 mm),
 - 14. :: Fahrtenschreiber
   - a) :: nach Artikel 1 Absatz 3 der Durchführungsverordnung (EU) Nr. 2016/799 der Kommission vom 18. März 2016 zur Durchführung der Verordnung (EU) Nr. 165/2014 des Europäischen Parlaments und des Rates zur Festlegung der Vorschriften über Bauart, Prüfung, Einbau, Betrieb und Reparatur von Fahrtenschreibern und ihren Komponenten (ABl. L 139 vom 26.5.2016, S. 1; L 146, S. 31; L 27 vom 1.2.2017, S. 169) in Verbindung mit dem Anhang IB der Verordnung (EWG) Nr. 3821/85 des Rates vom 20. Dezember 1985 über das Kontrollgerät im Straßenverkehr (ABl. L 370 vom 31.12.1985, S. 8), die zuletzt durch die Verordnung (EU) 2016/130 (ABl. L 25 vom 2.2.2016, S. 46) geändert worden ist, oder
   - b) :: nach Artikel 1 Absatz 2 in Verbindung mit dem Anhang I C der Durchführungsverordnung (EU) Nr. 2016/799,
@@ -2327,7 +2327,7 @@ S 9
 von Kossaer Straße, Leipzig über B 2 und S 9 bis BMW-Allee, Leipzig
 B 2
 von Kossaer Straße, Leipzig über B 2, A 14 (AS Leipzig-Mitte), A 14 (AS Leipzig-Messegelände) bis BMW-Allee, Leipzig
-�
+
 von A 4 (AS Dresden-Flughafen) über Hermann-Reichelt-Straße bis Grenzstraße, Dresden
 S 1
 von A 14 (AS Leipzig-Nord) über S 1 bis Zufahrt Kölner Straße 9, Radefeld/Schkeuditz

@@ -23,28 +23,28 @@ Das Gesetz regelt
 
 (1) Im Sinne dieses Gesetzes ist oder sind
 
-- 1. :: �archäologisches Kulturgut“ bewegliche Sachen oder Sachgesamtheiten, die von Menschen geschaffen oder bearbeitet wurden oder Aufschluss über menschliches Leben in vergangener Zeit geben, sich im Boden oder in einem Gewässer befinden oder befunden haben oder bei denen aufgrund der Gesamtumstände dies zu vermuten ist,
-- 2. :: �Ausfuhr“ die Verbringung von Kulturgut aus dem Bundesgebiet,
-- 3. :: �Drittstaat“ jeder Staat, der kein Mitgliedstaat der Europäischen Union ist,
-- 4. :: �Eigenbesitzer“ die Person, die die tatsächliche Sachherrschaft über das Kulturgut für sich selbst ausübt,
-- 5. :: �Einfuhr“ die Verbringung von Kulturgut in das Bundesgebiet,
-- 6. :: �Fremdbesitzer“ die Person, die die tatsächliche Sachherrschaft über das Kulturgut für andere ausübt,
-- 7. :: �Haager Konvention“ die Haager Konvention vom 14. Mai 1954 zum Schutz von Kulturgut bei bewaffneten Konflikten (BGBl. 1967 II S. 1233, 1235),
-- 8. :: �Herkunftsstaat“ ein Mitgliedstaat oder Vertragsstaat, in dem das Kulturgut entstanden ist oder der eine so enge Beziehung zu dem Kulturgut hat, dass er es zum Zeitpunkt der Verbringung aus seinem Hoheitsgebiet als nationales Kulturgut unter Schutz gestellt hat,
-- 9. :: �Inverkehrbringen“ von Kulturgut das Anbieten, das Verkaufen, die Vermittlung, der Vertrieb, das Absetzen, die unentgeltliche Weiter- oder Abgabe zum Zweck der wirtschaftlichen Verwertung oder die wirtschaftliche Verwertung in sonstiger Weise im eigenen oder fremden Namen,
-- 10. :: �Kulturgut“ jede bewegliche Sache oder Sachgesamtheit von künstlerischem, geschichtlichem oder archäologischem Wert oder aus anderen Bereichen des kulturellen Erbes, insbesondere von paläontologischem, ethnographischem, numismatischem oder wissenschaftlichem Wert,
-- 11. :: �Kulturgut bewahrende Einrichtung“ jede Einrichtung im Bundesgebiet, deren Hauptzweck die Bewahrung und Erhaltung von Kulturgut und die Sicherung des Zugangs der Öffentlichkeit zu diesem Kulturgut ist, insbesondere Museen, Bibliotheken und Archive,
-- 12. :: �Mitgliedstaat“ jeder Mitgliedstaat der Europäischen Union außer der Bundesrepublik Deutschland,
-- 13. :: �Protokoll zur Haager Konvention“ das Protokoll zur Konvention vom 14. Mai 1954 zum Schutz von Kulturgut bei bewaffneten Konflikten (BGBl. 1967 II S. 1233, 1300),
-- 14. :: �rechtswidrig ausgegraben“ ein Kulturgut, wenn es unter Verstoß gegen eine inländische oder ausländische Rechtsvorschrift zum Schutz von archäologischem oder paläontologischem Kulturgut, insbesondere ohne eine nach einer solchen Rechtsvorschrift erforderliche Genehmigung, ausgegraben worden ist,
-- 15. :: �Rückgabe“ die Verbringung des Kulturgutes in das Hoheitsgebiet des ersuchenden Staates zur Erfüllung eines Rückgabeanspruchs,
-- 16. :: �Sachgesamtheit“ mehrere zusammengehörige Kulturgüter, insbesondere Archivbestände, Bibliotheksbestände, Nachlässe, Sammlungen oder Teile davon,
-- 17. :: �UNESCO-Übereinkommen“ das Übereinkommen über Maßnahmen zum Verbot und zur Verhütung der rechtswidrigen Einfuhr, Ausfuhr und Übereignung von Kulturgut (BGBl. 2007 II S. 626, 627),
+- 1. :: archäologisches Kulturgut“ bewegliche Sachen oder Sachgesamtheiten, die von Menschen geschaffen oder bearbeitet wurden oder Aufschluss über menschliches Leben in vergangener Zeit geben, sich im Boden oder in einem Gewässer befinden oder befunden haben oder bei denen aufgrund der Gesamtumstände dies zu vermuten ist,
+- 2. :: Ausfuhr“ die Verbringung von Kulturgut aus dem Bundesgebiet,
+- 3. :: Drittstaat“ jeder Staat, der kein Mitgliedstaat der Europäischen Union ist,
+- 4. :: Eigenbesitzer“ die Person, die die tatsächliche Sachherrschaft über das Kulturgut für sich selbst ausübt,
+- 5. :: Einfuhr“ die Verbringung von Kulturgut in das Bundesgebiet,
+- 6. :: Fremdbesitzer“ die Person, die die tatsächliche Sachherrschaft über das Kulturgut für andere ausübt,
+- 7. :: Haager Konvention“ die Haager Konvention vom 14. Mai 1954 zum Schutz von Kulturgut bei bewaffneten Konflikten (BGBl. 1967 II S. 1233, 1235),
+- 8. :: Herkunftsstaat“ ein Mitgliedstaat oder Vertragsstaat, in dem das Kulturgut entstanden ist oder der eine so enge Beziehung zu dem Kulturgut hat, dass er es zum Zeitpunkt der Verbringung aus seinem Hoheitsgebiet als nationales Kulturgut unter Schutz gestellt hat,
+- 9. :: Inverkehrbringen“ von Kulturgut das Anbieten, das Verkaufen, die Vermittlung, der Vertrieb, das Absetzen, die unentgeltliche Weiter- oder Abgabe zum Zweck der wirtschaftlichen Verwertung oder die wirtschaftliche Verwertung in sonstiger Weise im eigenen oder fremden Namen,
+- 10. :: Kulturgut“ jede bewegliche Sache oder Sachgesamtheit von künstlerischem, geschichtlichem oder archäologischem Wert oder aus anderen Bereichen des kulturellen Erbes, insbesondere von paläontologischem, ethnographischem, numismatischem oder wissenschaftlichem Wert,
+- 11. :: Kulturgut bewahrende Einrichtung“ jede Einrichtung im Bundesgebiet, deren Hauptzweck die Bewahrung und Erhaltung von Kulturgut und die Sicherung des Zugangs der Öffentlichkeit zu diesem Kulturgut ist, insbesondere Museen, Bibliotheken und Archive,
+- 12. :: Mitgliedstaat“ jeder Mitgliedstaat der Europäischen Union außer der Bundesrepublik Deutschland,
+- 13. :: Protokoll zur Haager Konvention“ das Protokoll zur Konvention vom 14. Mai 1954 zum Schutz von Kulturgut bei bewaffneten Konflikten (BGBl. 1967 II S. 1233, 1300),
+- 14. :: rechtswidrig ausgegraben“ ein Kulturgut, wenn es unter Verstoß gegen eine inländische oder ausländische Rechtsvorschrift zum Schutz von archäologischem oder paläontologischem Kulturgut, insbesondere ohne eine nach einer solchen Rechtsvorschrift erforderliche Genehmigung, ausgegraben worden ist,
+- 15. :: Rückgabe“ die Verbringung des Kulturgutes in das Hoheitsgebiet des ersuchenden Staates zur Erfüllung eines Rückgabeanspruchs,
+- 16. :: Sachgesamtheit“ mehrere zusammengehörige Kulturgüter, insbesondere Archivbestände, Bibliotheksbestände, Nachlässe, Sammlungen oder Teile davon,
+- 17. :: UNESCO-Übereinkommen“ das Übereinkommen über Maßnahmen zum Verbot und zur Verhütung der rechtswidrigen Einfuhr, Ausfuhr und Übereignung von Kulturgut (BGBl. 2007 II S. 626, 627),
 - 18. :: die Verbringung von Kulturgut
-  - a) :: �vorübergehend“, wenn sie für einen von Anfang an befristeten Zeitraum von höchstens fünf Jahren erfolgt,
-  - b) :: �dauerhaft“, wenn sie für einen Zeitraum von mehr als fünf Jahren erfolgt,
-- 19. :: �Vertragsstaat“ jeder andere Staat außer der Bundesrepublik Deutschland, für den das UNESCO-Übereinkommen bindend ist,
-- 20. :: �Verzeichnis national wertvollen Kulturgutes“ ein Verzeichnis eines Landes, in das es Kulturgut als national wertvoll einträgt.
+  - a) :: vorübergehend“, wenn sie für einen von Anfang an befristeten Zeitraum von höchstens fünf Jahren erfolgt,
+  - b) :: dauerhaft“, wenn sie für einen Zeitraum von mehr als fünf Jahren erfolgt,
+- 19. :: Vertragsstaat“ jeder andere Staat außer der Bundesrepublik Deutschland, für den das UNESCO-Übereinkommen bindend ist,
+- 20. :: Verzeichnis national wertvollen Kulturgutes“ ein Verzeichnis eines Landes, in das es Kulturgut als national wertvoll einträgt.
 
 (2) Keine Ein- und Ausfuhr im Sinne dieses Gesetzes ist
 
@@ -741,7 +741,7 @@ Wer Eigentümer des Kulturgutes ist, das unrechtmäßig ausgeführt worden ist u
 § 74 - Erteilung der rechtsverbindlichen Rückgabezusage
 
 (1) Auf Antrag des Entleihers kann die oberste Landesbehörde im Benehmen mit der für Kultur und Medien zuständigen obersten Bundesbehörde dem Verleiher vor der Einfuhr des Kulturgutes die Rückgabezusage erteilen. Der Antrag kann schriftlich oder elektronisch übermittelt werden.
-(2) Die Rückgabezusage erfolgt schriftlich und unter Gebrauch der Worte �rechtsverbindliche Rückgabezusage“.
+(2) Die Rückgabezusage erfolgt schriftlich und unter Gebrauch der Worte rechtsverbindliche Rückgabezusage“.
 
 § 75 - Verlängerung
 

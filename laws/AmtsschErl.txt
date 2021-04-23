@@ -30,30 +30,30 @@ a) Breite
 29,7
 21
 b) H√∂he
-†
-†
-†
-†
+
+
+
+
 1. des allgemeinen Amtsschildes (Ziffer 1)
 59,4
 42
 29,7
-†
+
 2. des gemeinsamen Amtsschildes mehrerer Dienststellen (Ziffer 2)
 42,4
 30
 21,2
-†
+
 3. der Anh√§ngeschilder zu Ziffer 2
-†
-†
-†
-†
+
+
+
+
 bei einzeiliger Beschriftung
 17
 12
 8,5
-†
+
 bei zweizeiliger Beschriftung
 24
 17

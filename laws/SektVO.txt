@@ -326,12 +326,12 @@ Die Phasen sind durch die Festlegung von Zwischenzielen zu untergliedern, bei de
   - a) :: in Form von Leistungs- oder Funktionsanforderungen unter Bezugnahme auf die technischen Anforderungen gemäß Nummer 2 als Mittel zur Vermutung der Konformität mit diesen Leistungs- und Funktionsanforderungen oder
   - b) :: mit Bezugnahme auf die technischen Anforderungen gemäß Nummer 2 hinsichtlich bestimmter Merkmale und mit Bezugnahme auf die Leistungs- und Funktionsanforderungen gemäß Nummer 1 hinsichtlich anderer Merkmale.
 
-Jede Bezugnahme auf eine Anforderung nach Satz 1 Nummer 2 Buchstabe a bis e ist mit dem Zusatz �oder gleichwertig“ zu versehen.
+Jede Bezugnahme auf eine Anforderung nach Satz 1 Nummer 2 Buchstabe a bis e ist mit dem Zusatz oder gleichwertig“ zu versehen.
 
 (3) Die Merkmale können auch Aspekte der Qualität und der Innovation sowie soziale und umweltbezogene Aspekte betreffen. Sie können sich auch auf den Prozess oder die Methode zur Herstellung oder Erbringung der Leistung oder auf ein anderes Stadium im Lebenszyklus des Auftragsgegenstandes einschließlich der Produktions- und Lieferkette beziehen, auch wenn derartige Faktoren keine materiellen Bestandteile der Leistung sind, sofern diese Merkmale in Verbindung mit dem Auftragsgegenstand stehen und zu dessen Wert und Beschaffungszielen verhältnismäßig sind.
 (4) In der Leistungsbeschreibung kann ferner festgelegt werden, ob Rechte des geistigen Eigentums übertragen oder dem Auftraggeber daran Nutzungsrechte eingeräumt werden müssen.
 (5) Werden verpflichtende Zugänglichkeitserfordernisse im Sinne des § 121 Absatz 2 des Gesetzes gegen Wettbewerbsbeschränkungen mit einem Rechtsakt der Europäischen Union erlassen, so muss die Leistungsbeschreibung, soweit die Kriterien der Zugänglichkeit für Menschen mit Behinderungen oder der Konzeption für alle Nutzer betroffen sind, darauf Bezug nehmen.
-(6) In der Leistungsbeschreibung darf nicht auf eine bestimmte Produktion oder Herkunft oder ein besonderes Verfahren oder auf gewerbliche Schutzrechte, Typen oder einen bestimmten Ursprung verwiesen werden, wenn dadurch bestimmte Unternehmen oder bestimmte Produkte begünstigt oder ausgeschlossen werden, es sei denn, dieser Verweis ist durch den Auftragsgegenstand gerechtfertigt. Solche Verweise sind ausnahmsweise zulässig, wenn der Auftragsgegenstand anderenfalls nicht hinreichend genau und allgemein verständlich beschrieben werden kann; die Verweise sind mit dem Zusatz �oder gleichwertig“ zu versehen.
+(6) In der Leistungsbeschreibung darf nicht auf eine bestimmte Produktion oder Herkunft oder ein besonderes Verfahren oder auf gewerbliche Schutzrechte, Typen oder einen bestimmten Ursprung verwiesen werden, wenn dadurch bestimmte Unternehmen oder bestimmte Produkte begünstigt oder ausgeschlossen werden, es sei denn, dieser Verweis ist durch den Auftragsgegenstand gerechtfertigt. Solche Verweise sind ausnahmsweise zulässig, wenn der Auftragsgegenstand anderenfalls nicht hinreichend genau und allgemein verständlich beschrieben werden kann; die Verweise sind mit dem Zusatz oder gleichwertig“ zu versehen.
 
 § 29 - Technische Anforderungen
 
@@ -442,7 +442,7 @@ würde.
 
 (7) Bei vergebenen Dienstleistungsaufträgen auf dem Gebiet der Forschung und Entwicklung (F&E-Dienstleistungen) können die Angaben zur Art und Menge der Dienstleistung auf Folgendes beschränkt werden:
 
-- 1. :: auf die Angabe �F&E-Dienstleistungen“, sofern der Auftrag im Zuge eines Verhandlungsverfahrens ohne vorherigen Teilnahmewettbewerb vergeben wurde,
+- 1. :: auf die Angabe F&E-Dienstleistungen“, sofern der Auftrag im Zuge eines Verhandlungsverfahrens ohne vorherigen Teilnahmewettbewerb vergeben wurde,
 - 2. :: auf Angaben in der Auftragsbekanntmachung, die mindestens ebenso detailliert sind wie in der Auftragsbekanntmachung.
 
 
@@ -596,7 +596,7 @@ Der Auftraggeber erkennt auch gleichwertige Bescheinigungen von Stellen in ander
 (1) Der Zuschlag wird nach Maßgabe des § 127 des Gesetzes gegen Wettbewerbsbeschränkungen auf das wirtschaftlichste Angebot erteilt.
 (2) Die Ermittlung des wirtschaftlichsten Angebots erfolgt auf der Grundlage des besten Preis-Leistungs-Verhältnisses. Neben dem Preis oder den Kosten können auch qualitative, umweltbezogene oder soziale Zuschlagskriterien berücksichtigt werden, insbesondere:
 
-- 1. :: die Qualität, einschlie�Designs für Alle“, soziale, umweltbezogene und innovative Eigenschaften sowie Vertriebs- und Handelsbedingungen,
+- 1. :: die Qualität, einschlieDesigns für Alle“, soziale, umweltbezogene und innovative Eigenschaften sowie Vertriebs- und Handelsbedingungen,
 - 2. :: die Organisation, Qualifikation und Erfahrung des mit der Ausführung des Auftrags betrauten Personals, wenn die Qualität des eingesetzten Personals erheblichen Einfluss auf das Niveau der Auftragsausführung haben kann, oder
 - 3. :: die Verfügbarkeit von Kundendienst und technischer Hilfe sowie Lieferbedingungen wie Liefertermin, Lieferverfahren sowie Liefer- oder Ausführungsfristen.
 
@@ -608,7 +608,7 @@ Der Auftraggeber kann auch Festpreise oder Festkosten vorgeben, sodass das wirts
 
 § 53 - Berechnung von Lebenszykluskosten
 
-(1) Der Auftraggeber kann vorgeben, dass das Zuschlagskriterium �Kosten“ auf der Grundlage der Lebenszykluskosten der Leistung berechnet wird.
+(1) Der Auftraggeber kann vorgeben, dass das Zuschlagskriterium Kosten“ auf der Grundlage der Lebenszykluskosten der Leistung berechnet wird.
 (2) Der Auftraggeber gibt die Methode zur Berechnung der Lebenszykluskosten und die zur Berechnung vom Unternehmen zu übermittelnden Informationen in der Auftragsbekanntmachung oder den Vergabeunterlagen an. Die Berechnungsmethode kann umfassen
 
 - 1. :: die Anschaffungskosten,
@@ -724,15 +724,15 @@ Die Berechnung der in dieser Verordnung geregelten Fristen bestimmt sich nach de
 Anlage 1 - (zu § 28 Absatz 2)Technische Anforderungen, Begriffsbestimmungen
 
 (Fundstelle: BGBl. I 2016, 680)
-- 1. :: �Technische Spezifikation“ bei Liefer- oder Dienstleistungen hat eine der folgenden Bedeutungen:
-  eine Spezifikation, die in einem Schriftstück enthalten ist, das Merkmale für ein Produkt oder eine Dienstleistung vorschreibt, wie Qualitätsstufen, Umwelt- und Klimaleistungsstufen, �Design für Alle“ (einschließlich des Zugangs von Menschen mit Behinderungen) und Konformitätsbewertung, Leistung, Vorgaben für Gebrauchstauglichkeit, Sicherheit oder Abmessungen des Produkts, einschließlich der Vorschriften über Verkaufsbezeichnung, Terminologie, Symbole, Prüfungen und Prüfverfahren, Verpackung, Kennzeichnung und Beschriftung, Gebrauchsanleitungen, Produktionsprozesse und -methoden in jeder Phase des Lebenszyklus der Liefer- oder Dienstleistung sowie über Konformitätsbewertungsverfahren;
-- 2. :: �Norm“ bezeichnet eine technische Spezifikation, die von einer anerkannten Normungsorganisation zur wiederholten oder ständigen Anwendung angenommen wurde, deren Einhaltung nicht zwingend ist und die unter eine der nachstehenden Kategorien fällt:
+- 1. :: Technische Spezifikation“ bei Liefer- oder Dienstleistungen hat eine der folgenden Bedeutungen:
+  eine Spezifikation, die in einem Schriftstück enthalten ist, das Merkmale für ein Produkt oder eine Dienstleistung vorschreibt, wie Qualitätsstufen, Umwelt- und Klimaleistungsstufen, Design für Alle“ (einschließlich des Zugangs von Menschen mit Behinderungen) und Konformitätsbewertung, Leistung, Vorgaben für Gebrauchstauglichkeit, Sicherheit oder Abmessungen des Produkts, einschließlich der Vorschriften über Verkaufsbezeichnung, Terminologie, Symbole, Prüfungen und Prüfverfahren, Verpackung, Kennzeichnung und Beschriftung, Gebrauchsanleitungen, Produktionsprozesse und -methoden in jeder Phase des Lebenszyklus der Liefer- oder Dienstleistung sowie über Konformitätsbewertungsverfahren;
+- 2. :: Norm“ bezeichnet eine technische Spezifikation, die von einer anerkannten Normungsorganisation zur wiederholten oder ständigen Anwendung angenommen wurde, deren Einhaltung nicht zwingend ist und die unter eine der nachstehenden Kategorien fällt:
   - a) :: internationale Norm: Norm, die von einer internationalen Normungsorganisation angenommen wurde und der Öffentlichkeit zugänglich ist;
   - b) :: europäische Norm: Norm, die von einer europäischen Normungsorganisation angenommen wurde und der Öffentlichkeit zugänglich ist;
   - c) :: nationale Norm: Norm, die von einer nationalen Normungsorganisation angenommen wurde und der Öffentlichkeit zugänglich ist;
-- 3. :: �Europäische Technische Bewertung“ bezeichnet eine dokumentierte Bewertung der Leistung eines Bauprodukts in Bezug auf seine wesentlichen Merkmale im Einklang mit dem betreffenden Europäischen Bewertungsdokument gemäß der Begriffsbestimmung in Artikel 2 Nummer 12 der Verordnung (EU) Nr. 305/2011 des Europäischen Parlaments und des Rates vom 9. März 2011 zur Festlegung harmonisierter Bedingungen für die Vermarktung von Bauprodukten und zur Aufhebung der Richtlinie 89/106/EWG des Rates (ABl. L 88 vom 4.4.2011, S. 5);
-- 4. :: �gemeinsame technische Spezifikationen“ sind technische Spezifikationen im Bereich der Informations- und Kommunikationstechnologie, die gemäß den Artikeln 13 und 14 der Verordnung (EU) Nr. 1025/2012 des Europäischen Parlaments und des Rates vom 25. Oktober 2012 zur europäischen Normung, zur Änderung der Richtlinien 89/686/EWG und 93/15/EWG des Rates sowie der Richtlinien 94/9/EG, 94/25/EG, 95/16/EG, 97/23/EG, 98/34/EG, 2004/22/EG, 2007/23/EG, 2009/23/EG und 2009/105/EG des Europäischen Parlaments und des Rates und zur Aufhebung des Beschlusses 87/95/EWG des Rates und des Beschlusses Nr. 1673/2006/EG des Europäischen Parlaments und des Rates (ABl. L 316 vom 14.11.2012, S. 12) festgelegt wurden;
-- 5. :: �technische Bezugsgröße“ bezeichnet jeden Bezugsrahmen, der keine europäische Norm ist und von den europäischen Normungsorganisationen nach den an die Bedürfnisse des Markts angepassten Verfahren erarbeitet wurde.
+- 3. :: Europäische Technische Bewertung“ bezeichnet eine dokumentierte Bewertung der Leistung eines Bauprodukts in Bezug auf seine wesentlichen Merkmale im Einklang mit dem betreffenden Europäischen Bewertungsdokument gemäß der Begriffsbestimmung in Artikel 2 Nummer 12 der Verordnung (EU) Nr. 305/2011 des Europäischen Parlaments und des Rates vom 9. März 2011 zur Festlegung harmonisierter Bedingungen für die Vermarktung von Bauprodukten und zur Aufhebung der Richtlinie 89/106/EWG des Rates (ABl. L 88 vom 4.4.2011, S. 5);
+- 4. :: gemeinsame technische Spezifikationen“ sind technische Spezifikationen im Bereich der Informations- und Kommunikationstechnologie, die gemäß den Artikeln 13 und 14 der Verordnung (EU) Nr. 1025/2012 des Europäischen Parlaments und des Rates vom 25. Oktober 2012 zur europäischen Normung, zur Änderung der Richtlinien 89/686/EWG und 93/15/EWG des Rates sowie der Richtlinien 94/9/EG, 94/25/EG, 95/16/EG, 97/23/EG, 98/34/EG, 2004/22/EG, 2007/23/EG, 2009/23/EG und 2009/105/EG des Europäischen Parlaments und des Rates und zur Aufhebung des Beschlusses 87/95/EWG des Rates und des Beschlusses Nr. 1673/2006/EG des Europäischen Parlaments und des Rates (ABl. L 316 vom 14.11.2012, S. 12) festgelegt wurden;
+- 5. :: technische Bezugsgröße“ bezeichnet jeden Bezugsrahmen, der keine europäische Norm ist und von den europäischen Normungsorganisationen nach den an die Bedürfnisse des Markts angepassten Verfahren erarbeitet wurde.
 
 
 Anlage 2 - (zu § 59)Daten zur Berechnung der über die Lebensdauer von Straßenfahrzeugen anfallenden externen Kosten

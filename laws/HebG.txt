@@ -6,43 +6,43 @@ Ausfertigungsdatum: 22.11.2019
 
 Inhaltsübersicht
 
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 § 1 - Hebammenberuf
 
@@ -60,8 +60,8 @@ Der Hebammenberuf umfasst insbesondere die selbständige und umfassende Beratung
 
 § 3 - Berufsbezeichnung
 
-(1) Den Hebammenberuf darf nur ausüben, wer die Berufsbezeichnung �Hebamme“ führen darf.
-(2) Die Berufsbezeichnung �Hebamme“ gilt für alle Berufsangehörigen.
+(1) Den Hebammenberuf darf nur ausüben, wer die Berufsbezeichnung Hebamme“ führen darf.
+(2) Die Berufsbezeichnung Hebamme“ gilt für alle Berufsangehörigen.
 
 § 4 - Geburtshilfe als vorbehaltene Tätigkeiten
 
@@ -76,7 +76,7 @@ Der Hebammenberuf umfasst insbesondere die selbständige und umfassende Beratung
 
 § 5 - Erlaubnis zum Führen der Berufsbezeichnung
 
-(1) Wer die Berufsbezeichnung �Hebamme“ führen will, bedarf der Erlaubnis.
+(1) Wer die Berufsbezeichnung Hebamme“ führen will, bedarf der Erlaubnis.
 (2) Die Erlaubnis wird auf Antrag erteilt, wenn die antragstellende Person
 
 - 1. :: das nach Teil 3 Abschnitt 1 dieses Gesetzes vorgeschriebene Studium erfolgreich absolviert und die staatliche Prüfung nach § 24 bestanden hat,
@@ -577,7 +577,7 @@ Die nach Satz 1 Nummer 2 erworbenen Kenntnisse, Fähigkeiten und Kompetenzen wer
 - 1. :: sich eines Verhaltens schuldig gemacht hat, aus dem sich die Unwürdigkeit oder Unzuverlässigkeit zur Ausübung dieses Berufs ergibt, oder
 - 2. :: in gesundheitlicher Hinsicht zur Ausübung dieses Berufs ungeeignet ist.
 
-(3) Eine dienstleistungserbringende Person führt im Rahmen der vorübergehenden und gelegentlichen Dienstleistungserbringung im Geltungsbereich dieses Gesetzes die Berufsbezeichnung �Hebamme“ und darf die vorbehaltene Tätigkeit der Geburtshilfe ausüben. Sie hat bei Dienstleistungserbringung im Geltungsbereich dieses Gesetzes die gleichen Rechte und Pflichten wie eine Person mit einer Erlaubnis nach § 5.
+(3) Eine dienstleistungserbringende Person führt im Rahmen der vorübergehenden und gelegentlichen Dienstleistungserbringung im Geltungsbereich dieses Gesetzes die Berufsbezeichnung Hebamme“ und darf die vorbehaltene Tätigkeit der Geburtshilfe ausüben. Sie hat bei Dienstleistungserbringung im Geltungsbereich dieses Gesetzes die gleichen Rechte und Pflichten wie eine Person mit einer Erlaubnis nach § 5.
 (4) Der vorübergehende und gelegentliche Charakter der Dienstleistungserbringung wird im Einzelfall beurteilt. In die Beurteilung sind Dauer, Häufigkeit, regelmäßige Wiederkehr und Kontinuität der Dienstleistung einzubeziehen.
 
 § 61 - Meldung der Dienstleistungserbringung
@@ -672,7 +672,7 @@ Das Bundesministerium für Gesundheit unterrichtet die anderen Mitgliedstaaten, 
 - 1. :: nach Eintritt der Unanfechtbarkeit einer Entscheidung nach Absatz 1 Nummer 1 oder 2 oder
 - 2. :: nach Bekanntgabe einer Entscheidung nach Absatz 1 Nummer 3.
 
-(4) Für die Warnmitteilung ist das Binnenmarkt-Informationssystem zu verwenden, das eingerichtet worden ist durch die Verordnung (EU) Nr. 1024/2012 des Europäischen Parlaments und des Rates vom 25. Oktober 2012 über die Verwaltungszusammenarbeit mit Hilfe des Binnenmarkt-Informationssystems und zur Aufhebung der Entscheidung 2008/49/EG der Kommission (�IMI-Verordnung“) (ABl. L 316 vom 14.11.2012, S. 1).
+(4) Für die Warnmitteilung ist das Binnenmarkt-Informationssystem zu verwenden, das eingerichtet worden ist durch die Verordnung (EU) Nr. 1024/2012 des Europäischen Parlaments und des Rates vom 25. Oktober 2012 über die Verwaltungszusammenarbeit mit Hilfe des Binnenmarkt-Informationssystems und zur Aufhebung der Entscheidung 2008/49/EG der Kommission (IMI-Verordnung“) (ABl. L 316 vom 14.11.2012, S. 1).
 (5) Gleichzeitig mit der Warnmitteilung unterrichtet die Behörde, die die Warnmitteilung getätigt hat, die betroffene Person schriftlich über die Warnmitteilung und deren Inhalt. Der Unterrichtung hat sie eine Rechtsbehelfsbelehrung beizufügen. Wird ein Rechtsbehelf gegen die Warnmitteilung eingelegt, ergänzt die Behörde, die die Warnmitteilung getätigt hat, die Warnmitteilung um einen entsprechenden Hinweis.
 
 § 67 - Unterrichtung über Änderungen
@@ -703,7 +703,7 @@ Die zuständige Behörde, die die Warnmitteilung getätigt hat, löscht die Warn
 
 § 70 - Verwaltungszusammenarbeit bei Dienstleistungserbringung
 
-(1) Übt eine dienstleistungserbringende Person im Geltungsbereich dieses Gesetzes den Hebammenberuf aus oder führt die Berufsbezeichnung �Hebamme“, ohne dass die Voraussetzungen nach Teil 5 vorliegen, unterrichtet die zuständige Behörde unverzüglich die zuständige Behörde des Staates, in dem die dienstleistungserbringende Person niedergelassen ist, über den Verstoß.
+(1) Übt eine dienstleistungserbringende Person im Geltungsbereich dieses Gesetzes den Hebammenberuf aus oder führt die Berufsbezeichnung Hebamme“, ohne dass die Voraussetzungen nach Teil 5 vorliegen, unterrichtet die zuständige Behörde unverzüglich die zuständige Behörde des Staates, in dem die dienstleistungserbringende Person niedergelassen ist, über den Verstoß.
 (2) Hat die zuständige Behörde berechtigte Zweifel an den von der dienstleistungsberechtigten Person vorgelegten Dokumenten, so ist sie berechtigt von der zuständigen Behörde des Staates, in dem die dienstleistungserbringende Person niedergelassen ist, folgende Informationen anzufordern:
 
 - 1. :: Informationen darüber, ob die Niederlassung der dienstleistungserbringenden Person in diesem Staat rechtmäßig ist, und
@@ -738,7 +738,7 @@ Die zuständige Behörde, die die Warnmitteilung getätigt hat, löscht die Warn
 (1) Ordnungswidrig handelt, wer
 
 - 1. :: entgegen § 4 Absatz 1 Geburtshilfe leistet oder
-- 2. :: ohne Erlaubnis nach § 5 die Berufsbezeichnung �Hebamme“ führt.
+- 2. :: ohne Erlaubnis nach § 5 die Berufsbezeichnung Hebamme“ führt.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu dreitausend Euro geahndet werden.
 
@@ -748,8 +748,8 @@ Eine Erlaubnis zum Führen der Berufsbezeichnung nach dem Hebammengesetz in der 
 
 § 74 - Übergangsvorschriften für Entbindungspfleger
 
-(1) Die au�Hebammen“ bestehenden Rechtsvorschriften sind auch auf �Entbindungspfleger“ anzuwenden.
-(2) Entbindungspfleger haben auf Antrag Anspruch auf Erteilung einer Erlaubnis nach § 5 mit der Berufsbezeichnung �Hebamme“. In der Erlaubnis ist auf die ihr zugrunde liegende Berufsqualifikation sowie das Datum der ursprünglichen Erteilung der Erlaubnis zum Führen der Berufsbezeichnung hinzuweisen.
+(1) Die auHebammen“ bestehenden Rechtsvorschriften sind auch auf Entbindungspfleger“ anzuwenden.
+(2) Entbindungspfleger haben auf Antrag Anspruch auf Erteilung einer Erlaubnis nach § 5 mit der Berufsbezeichnung Hebamme“. In der Erlaubnis ist auf die ihr zugrunde liegende Berufsqualifikation sowie das Datum der ursprünglichen Erteilung der Erlaubnis zum Führen der Berufsbezeichnung hinzuweisen.
 
 § 75 - Kooperation von Hochschulen mit Hebammenschulen
 

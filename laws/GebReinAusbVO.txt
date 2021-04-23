@@ -10,16 +10,16 @@ Auf Grund des § 25 Absatz 1 Satz 1 der Handwerksordnung in der Fassung der Beka
 
 Inhaltsübersicht
 
-�
-�
-�
-�
-�
-�
+
+
+
+
+
+
 
 § 1 - Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf des Gebäudereinigers und der Gebäudereinigerin wird nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe nach Anlage B Abschnitt 1 Nummer 33 �Gebäudereiniger“ der Handwerksordnung staatlich anerkannt.
+Der Ausbildungsberuf des Gebäudereinigers und der Gebäudereinigerin wird nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe nach Anlage B Abschnitt 1 Nummer 33 Gebäudereiniger“ der Handwerksordnung staatlich anerkannt.
 
 § 2 - Dauer der Berufsausbildung
 
@@ -102,8 +102,8 @@ Teil 1 der Gesellenprüfung erstreckt sich auf
 
 § 10 - Prüfungsbereich von Teil 1
 
-(1) Teil 1 der Gesellenprüfung findet im Prüfungsbereich �Durchführen von Gebäudereinigungsarbeiten“ statt.
-(2) Im Prüfungsbereich �Durchführen von Gebäudereinigungsarbeiten“ soll der Prüfling nachweisen, dass er in der Lage ist,
+(1) Teil 1 der Gesellenprüfung findet im Prüfungsbereich Durchführen von Gebäudereinigungsarbeiten“ statt.
+(2) Im Prüfungsbereich Durchführen von Gebäudereinigungsarbeiten“ soll der Prüfling nachweisen, dass er in der Lage ist,
 
 - 1. :: Arbeitsschritte zu planen und Vorgaben auf Umsetzbarkeit zu prüfen,
 - 2. :: Skizzen von Objekten für die Durchführung von Gebäudereinigungsarbeiten zu erstellen und Zeichnungen anzuwenden,
@@ -144,9 +144,9 @@ Teil 2 der Gesellenprüfung findet in den folgenden Prüfungsbereichen statt:
 - 4. :: Wirtschafts- und Sozialkunde.
 
 
-§ 13 - Prüfungsbereich �Anwenden von Grund- und Außenreinigungsverfahren“
+§ 13 - Prüfungsbereich Anwenden von Grund- und Außenreinigungsverfahren“
 
-(1) Im Prüfungsbereich �Anwenden von Grund- und Außenreinigungsverfahren“ soll der Prüfling nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Anwenden von Grund- und Außenreinigungsverfahren“ soll der Prüfling nachweisen, dass er in der Lage ist,
 
 - 1. :: Arbeitsabläufe kundenorientiert unter Beachtung wirtschaftlicher, technischer und organisatorischer Vorgaben zu planen und zu dokumentieren,
 - 2. :: technische Unterlagen anzuwenden,
@@ -167,9 +167,9 @@ Teil 2 der Gesellenprüfung findet in den folgenden Prüfungsbereichen statt:
 (3) Der Prüfling hat zu jeder der zwei zugrunde gelegten Tätigkeiten eine Arbeitsaufgabe durchzuführen und die Durchführung jeweils mit praxisüblichen Unterlagen zu dokumentieren. Während der Durchführung wird mit ihm zu jeder der Arbeitsaufgaben ein situatives Fachgespräch geführt.
 (4) Die Prüfungszeit für die Durchführung der Arbeitsaufgaben, für die Dokumentationen und die situativen Fachgespräche beträgt insgesamt fünf Stunden und 30 Minuten. Innerhalb dieser Zeit dauern die zwei situativen Fachgespräche insgesamt höchstens 10 Minuten.
 
-§ 14 - Prüfungsbereich �Durchführen von Hygienemaßnahmen“
+§ 14 - Prüfungsbereich Durchführen von Hygienemaßnahmen“
 
-(1) Im Prüfungsbereich �Durchführen von Hygienemaßnahmen“ soll der Prüfling nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Durchführen von Hygienemaßnahmen“ soll der Prüfling nachweisen, dass er in der Lage ist,
 
 - 1. :: Arbeitsabläufe kundenorientiert unter Beachtung wirtschaftlicher, technischer und organisatorischer Vorgaben zu planen und zu dokumentieren,
 - 2. :: Regelungen für die Bereiche Hygiene und Dekontamination einzuhalten,
@@ -191,9 +191,9 @@ Der Prüfungsausschuss legt fest, welches Gebiet zugrunde gelegt wird.
 (3) Der Prüfling hat eine Arbeitsaufgabe durchzuführen und die Durchführung mit praxisüblichen Unterlagen zu dokumentieren.
 (4) Die Prüfungszeit für die Durchführung der Arbeitsaufgabe und für die Dokumentation beträgt insgesamt 150 Minuten.
 
-§ 15 - Prüfungsbereich �Reinigen, Pflegen und Konservieren von Oberflächen“
+§ 15 - Prüfungsbereich Reinigen, Pflegen und Konservieren von Oberflächen“
 
-(1) Im Prüfungsbereich �Reinigen, Pflegen und Konservieren von Oberflächen“ soll der Prüfling nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Reinigen, Pflegen und Konservieren von Oberflächen“ soll der Prüfling nachweisen, dass er in der Lage ist,
 
 - 1. :: Arbeitsabläufe unter Berücksichtigung verfahrensbedingter Abläufe kundenorientiert zu planen und zu dokumentieren,
 - 2. :: Vorgehensweisen bei der Vorbereitung von Arbeitsabläufen zu unterscheiden,
@@ -212,9 +212,9 @@ Der Prüfungsausschuss legt fest, welches Gebiet zugrunde gelegt wird.
 (2) Der Prüfling hat Aufgaben schriftlich zu bearbeiten.
 (3) Die Prüfungszeit beträgt 180 Minuten.
 
-§ 16 - Prüfungsbereich �Wirtschafts- und Sozialkunde“
+§ 16 - Prüfungsbereich Wirtschafts- und Sozialkunde“
 
-(1) Im Prüfungsbereich �Wirtschafts- und Sozialkunde“ soll der Prüfling nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
+(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde“ soll der Prüfling nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 (2) Die Aufgaben, die dem Prüfling gestellt werden, müssen praxisbezogen sein. Der Prüfling soll die Aufgaben schriftlich bearbeiten.
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
@@ -234,14 +234,14 @@ Der Prüfungsausschuss legt fest, welches Gebiet zugrunde gelegt wird.
 
 (2) Die Gesellenprüfung ist bestanden, wenn die Prüfungsleistungen -- auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach Absatz 3 -- wie folgt bewertet worden sind:
 
-- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens �ausreichend“,
-- 2. :: im Ergebnis von Teil 2 mit mindestens �ausreichend“,
-- 3. :: in mindestens drei Prüfungsbereichen von Teil 2 mit mindestens �ausreichend“ und
-- 4. :: in keinem Prüfungsbereich von Teil 2 mit �ungenügend“.
+- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens ausreichend“,
+- 2. :: im Ergebnis von Teil 2 mit mindestens ausreichend“,
+- 3. :: in mindestens drei Prüfungsbereichen von Teil 2 mit mindestens ausreichend“ und
+- 4. :: in keinem Prüfungsbereich von Teil 2 mit ungenügend“.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche �Reinigen, Pflegen und Konservieren von Oberflächen“ oder �Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche Reinigen, Pflegen und Konservieren von Oberflächen“ oder Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-- 1. :: der Prüfungsbereich schlechter als mit �ausreichend“ bewertet worden ist und
+- 1. :: der Prüfungsbereich schlechter als mit ausreichend“ bewertet worden ist und
 - 2. :: die mündliche Ergänzungsprüfung für das Bestehen der Gesellenprüfung den Ausschlag geben kann.
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.

@@ -198,13 +198,13 @@ Umgang mit Informations- und Kommunikationssystemen\\
 
 3
 
-�
+
 
 - d) :: Arbeitsaufgaben mit Hilfe von Informations- und Kommunikationssystemen bearbeiten
 - e) :: branchenspezifische Software anwenden
 - f) :: Informations- und Kommunikationssysteme unter Einschluss vernetzter Systeme nutzen
 
-�
+
 
 3
 
@@ -221,14 +221,14 @@ Gestalten und Konstruieren von Erzeugnissen\\
 
 5
 
-�
+
 
 - f) :: Entwürfe und Muster unter Berücksichtigung von Kundenwünschen anfertigen und präsentieren
 - g) :: Modelle herstellen, Formen übertragen
 - h) :: Bauweisen für Erzeugnisse bestimmen, insbesondere für Möbel, Innenausbauten, Fenster, Türen, Treppen, Trennwände oder Böden
 - i) :: technischen Umsetzbarkeit prüfen
 
-�
+
 
 4
 
@@ -245,7 +245,7 @@ Planen und Vorbereiten von Arbeitsabläufen, Arbeiten im Team\\
 
 4
 
-�
+
 
 - f) :: Zeitaufwand und personelle Unterstützung abschätzen
 - g) :: Störungen im Arbeitsablauf feststellen und Maßnahmen zur ihrer Behebung ergreifen
@@ -253,7 +253,7 @@ Planen und Vorbereiten von Arbeitsabläufen, Arbeiten im Team\\
 - i) :: technische Veränderungen und Entwicklungen feststellen; Umsetzbarkeit prüfen
 - j) :: Abstimmungen mit anderen Gewerken und weiteren Beteiligten treffen
 
-�
+
 
 3
 
@@ -271,12 +271,12 @@ Einrichten, Sichern und Räumen von Arbeitsplätzen\\
 
 4
 
-�
+
 
 - g) :: Leitern und Gerüste auswählen, auf Verwendbarkeit und Betriebssicherheit prüfen, Arbeitsgerüste auf- und abbauen
 - h) :: Abfallstoffe trennen und lagern, Entsorgung veranlassen
 
-�
+
 
 2
 
@@ -297,7 +297,7 @@ Be- und Verarbeiten von Holz, Holzwerk- und sonstigen Werkstoffen sowie von Halb
 
 13
 
-�
+
 
 - j) :: Furniere auf Mängel und Verwendbarkeit prüfen, Furnierarbeiten durchführen
 - k) :: Hilfsstoffe auswählen und verwenden
@@ -305,7 +305,7 @@ Be- und Verarbeiten von Holz, Holzwerk- und sonstigen Werkstoffen sowie von Halb
 - m) :: Halbzeuge auftragsbezogen zuordnen, auf Mängel und Verwendbarkeit prüfen sowie be- und verarbeiten
 - n) :: Werkstoffe anhand von Sicherheitsdatenblättern prüfen
 
-�
+
 
 5
 
@@ -323,7 +323,7 @@ Einrichten, Bedienen und Instandhalten von Werkzeugen, Geräten, Maschinen, Anla
 
 7
 
-�
+
 
 - g) :: pneumatische, hydraulische, elektrische und elektronische Steuer- und Regeleinrichtungen einstellen und bedienen
 - h) :: Anwendungsprogramme nutzen, Daten eingeben und programmierbare Maschinen bedienen
@@ -331,7 +331,7 @@ Einrichten, Bedienen und Instandhalten von Werkzeugen, Geräten, Maschinen, Anla
 - j) :: Ursachen von Bearbeitungsfehlern feststellen und beheben
 - k) :: Geräte, Maschinen und Anlagen warten
 
-�
+
 
 8
 
@@ -351,7 +351,7 @@ Herstellen von Teilen und Zusammenbauen zu Erzeugnissen\\
 
 16
 
-�
+
 
 - i) :: Teile zusammenbauen
 - j) :: Rahmen, Korpusse oder Gestelle herstellen
@@ -359,7 +359,7 @@ Herstellen von Teilen und Zusammenbauen zu Erzeugnissen\\
 
 12
 
-�
+
 
 - l) :: Sicherheits- und Schutzbeschläge montieren und auf Funktion prüfen
 - m) :: Maßnahmen zum Feuer-, Schall-, Klima- und Einbruchschutz beurteilen und durchführen
@@ -367,7 +367,7 @@ Herstellen von Teilen und Zusammenbauen zu Erzeugnissen\\
 - o) :: Einpass- und Endarbeiten durchführen
 - p) :: Erzeugnisse zur Auslieferung vorbereiten und verladen
 
-�
+
 
 16
 
@@ -383,13 +383,13 @@ Behandeln und Veredeln von Oberflächen\\
 
 4
 
-�
+
 
 - e) :: Oberflächenbeschichtungsverfahren und -mittel unterscheiden und anwenden
 - f) :: Oberflächen behandeln, insbesondere beizen und färben
 - g) :: Maßnahmen zur Vermeidung von Explosionsgefahren und Immissionen nach Betriebsanweisungen ergreifen
 
-�
+
 
 6
 
@@ -403,7 +403,7 @@ Durchführen von Holzschutzmaßnahmen\\
 - c) :: chemische Holzschutzmaßnahmen durchführen
 - d) :: Holzschutzmittel umweltgerecht lagern, Entsorgung von Abfällen veranlassen
 
-�
+
 
 3
 
@@ -428,7 +428,7 @@ Durchführen von Montage- und Demontagearbeiten\\
 - n) :: Einbauten und Systeme demontieren und für den Transport vorbereiten, insbesondere kennzeichnen, verpacken und zwischenlagern
 - o) :: Aufmaß- und Abnahmeprotokolle erstellen
 
-�
+
 
 14
 
@@ -441,14 +441,14 @@ Instandhalten von Erzeugnissen\\
 
 2
 
-�
+
 
 - b) :: Wartungsarbeiten vorbereiten, durchführen und dokumentieren
 - c) :: Fehlfunktionen und Schäden feststellen, bewerten und dokumentieren, Instandhaltungs- und Reparaturarbeiten durchführen
 - d) :: erhaltenswerte Einbauten und Einrichtungen bewerten, dokumentieren und sichern
 - e) :: Restaurierungsarbeiten unter Beachtung der Bauart, des Baustils sowie des Kundenauftrags vorbereiten und ausführen
 
-�
+
 
 4
 
@@ -462,7 +462,7 @@ Kundenorientierung und Serviceleistungen\\
 
 3
 
-�
+
 
 - c) :: Kunden über betriebliches Leistungsspektrum und Serviceleistungen informieren
 - d) :: Kunden hinsichtlich Gestaltung beraten
@@ -471,7 +471,7 @@ Kundenorientierung und Serviceleistungen\\
 - g) :: fertiggestellte Arbeiten übergeben, Kunden Wartungs-, Pflege- und Bedienungsanleitungen erläutern
 - h) :: Reklamationen entgegennehmen und bearbeiten, insbesondere Maßnahmen zur Behebung ergreifen
 
-�
+
 
 5
 
@@ -488,11 +488,11 @@ Durchführung von qualitätssichernden Maßnahmen\\
 
 5
 
-�
+
 
 - f) :: Prüfverfahren im Arbeitsablaufprozesses anwenden und Ergebnisse dokumentieren
 - g) :: Ursachen von Fehlern und Qualitätsabweichungen feststellen und dokumentieren sowie Maßnahmen zur Behebung ergreifen
 
-�
+
 
 5

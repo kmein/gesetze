@@ -332,27 +332,27 @@ F√ºr die Bewertung des inl√§ndischen land- und forstwirtschaftlichen Verm√∂gens,
 (2) F√ºr die Hauptfeststellung auf den Beginn des Kalenderjahres 1964 betragen die 100 Vergleichszahlen entsprechenden Ertragswerte bei\\
 \\
 der landwirtschaftlichen Nutzung
-†
-†
+
+
 ohne Hopfen und Spargel
 37,26 DM
-†
+
 Hopfen
 254,00 DM
-†
+
 Spargel
 76,50 DM
 der weinbaulichen Nutzung
 200,00 DM
 den g√§rtnerischen Nutzungsteilen
-†
-†
+
+
 Gem√ºse-, Blumen- und Zierpflanzenbau
 ¬†108,00 DM
-†
+
 Obstbau
 72,00 DM
-†
+
 Baumschulen
 221,40 DM.
 (3) Die Hoffl√§che und die Geb√§udefl√§che des Betriebs sind in die einzelne Nutzung einzubeziehen, soweit sie ihr dienen. Hausg√§rten bis zur Gr√∂√üe von 10 Ar sind zur Hof- und Geb√§udefl√§che zu rechnen. Wirtschaftswege, Hecken, Gr√§ben, Grenzraine und dergleichen sind in die Nutzung einzubeziehen, zu der sie geh√∂ren; dies gilt auch f√ºr Wasserfl√§chen, soweit sie nicht Unland sind oder zur sonstigen land- und forstwirtschaftlichen Nutzung (¬ß 62) geh√∂ren.
@@ -1087,14 +1087,14 @@ Die Grundbesitzwerte werden auf volle f√ºnfhundert Euro nach unten abgerundet.
 
 - 1. :: landwirtschaftliche Nutzung:
 
-†
+
 
 a)
 
 landwirtschaftliche Nutzung ohne Hopfen und Spargel:\\
 Der Ertragswert ist auf der Grundlage der Ergebnisse der Bodensch√§tzung nach dem Bodensch√§tzungsgesetz zu ermitteln. Er betr√§gt 0,35 Euro je Ertragsmesszahl;
 
-†
+
 
 b)
 
@@ -1112,7 +1112,7 @@ Nutzungsteil Spargel
 
 forstwirtschaftliche Nutzung:
 
-†
+
 
 a)
 
@@ -1154,13 +1154,13 @@ Eiche √ºber 140 Jahre
 
 weinbauliche Nutzung:
 
-†
+
 
 a)
 
 Traubenerzeugung und Fassweinausbau:
 
-†
+
 
 aa)
 
@@ -1178,7 +1178,7 @@ b)
 
 Flaschenweinausbau:
 
-†
+
 
 aa)
 
@@ -1196,19 +1196,19 @@ in den √ºbrigen Weinbaugebieten
 
 g√§rtnerische Nutzung:
 
-†
+
 
 a)
 
 Nutzungsteil Gem√ºse-, Blumen- und Zierpflanzenbau:
 
-†
+
 
 aa)
 
 Gem√ºsebau:
 
-†
+
 
 - Freilandfl√§chen
 
@@ -1222,7 +1222,7 @@ bb)
 
 Blumen- und Zierpflanzenbau:
 
-†
+
 
 - Freilandfl√§chen
 
@@ -1246,7 +1246,7 @@ c)
 
 Nutzungsteil Baumschulen:
 
-†
+
 
 - Freilandfl√§chen
 
@@ -1260,7 +1260,7 @@ Nutzungsteil Baumschulen:
 
 sonstige land- und forstwirtschaftliche Nutzung:
 
-†
+
 
 a)
 
@@ -1278,7 +1278,7 @@ Nutzungsteil Weihnachtsbaumkultur
 
 Geringstland:
 
-†
+
 
 Der Ertragswert f√ºr Geringstland betr√§gt
 
@@ -2450,9 +2450,9 @@ Anlage 3 - Mietwohngrundst√ºcke  Vervielf√§ltiger
 
 - A. :: bei Massivbauten mit Mauerwerk aus Ziegelsteinen, Natursteinen, Kalksandsteinen, Schwemmsteinen oder √§hnlichen Steinen sowie bei Stahl- und Stahlbetonskelettbauten au√üer bei solchen Bauten, die unter B fallen
 
-†
 
-†
+
+
 
 Gemeindegr√∂√üenklassen
 
@@ -2493,21 +2493,21 @@ bis\\
 
 Altbauten
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
 
 vor 1895
 
@@ -2601,21 +2601,21 @@ vor 1895
 
 Neubauten
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
 
 1. 4.1924 bis 31.12.1934
 
@@ -2656,21 +2656,21 @@ Neubauten
 Nachkriegsbauten\\
 nach dem
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
 
 20. 6.1948
 
@@ -2690,29 +2690,29 @@ nach dem
 
 9,1
 
-†
+
 
 - B. :: bei Holzfachwerkbauten mit Ziegelsteinausmauerung, Geb√§uden aus gro√üformatigen Bimsbetonplatten oder √§hnlichen Platten sowie bei anderen eingeschossigen massiven Geb√§uden in leichter Bauausf√ºhrung
 
-†
+
 
 Altbauten
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
 
 vor 1908
 
@@ -2770,21 +2770,21 @@ vor 1908
 
 Neubauten
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
 
 1. 4.1924 bis 31.12.1934
 
@@ -2825,21 +2825,21 @@ Neubauten
 Nachkriegsbauten\\
 nach dem
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
 
 20. 6.1948
 
@@ -2859,30 +2859,30 @@ nach dem
 
 8,8
 
-†
+
 
 - C. :: bei Holzfachwerkbauten mit Lehmausfachung und besonders haltbaren Holzbauten mit massiven Fundamenten
 
-†
+
 
 Altbauten\\
 vor dem
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
 
 1. 4.1924
 
@@ -2904,21 +2904,21 @@ vor dem
 
 Neubauten
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
 
 1. 4.1924 bis 31.12.1934
 
@@ -2959,21 +2959,21 @@ Neubauten
 Nachkriegsbauten\\
 nach dem
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
 
 20. 6.1948
 
@@ -3002,9 +3002,9 @@ Anlage 4 - Gemischtgenutzte Grundst√ºcke mit einem gewerblichen Anteil an der Ja
 
 - A. :: bei Massivbauten mit Mauerwerk aus Ziegelsteinen, Natursteinen, Kalksandsteinen, Schwemmsteinen oder √§hnlichen Steinen sowie bei Stahl- und Stahlbetonskelettbauten au√üer bei solchen Bauten, die unter B fallen
 
-†
 
-†
+
+
 
 Gemeindegr√∂√üenklassen
 
@@ -3045,21 +3045,21 @@ bis\\
 
 Altbauten
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
 
 vor 1895
 
@@ -3153,21 +3153,21 @@ vor 1895
 
 Neubauten
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
 
 1. 4.1924 bis 31.12.1934
 
@@ -3208,21 +3208,21 @@ Neubauten
 Nachkriegsbauten\\
 nach dem
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
 
 20. 6.1948
 
@@ -3242,29 +3242,29 @@ nach dem
 
 9,0
 
-†
+
 
 - B. :: bei Holzfachwerkbauten mit Ziegelsteinausmauerung, Geb√§uden aus gro√üformatigen Bimsbetonplatten oder √§hnlichen Platten sowie bei anderen eingeschossigen massiven Geb√§uden in leichter Bauausf√ºhrung
 
-†
+
 
 Altbauten
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
 
 vor 1908
 
@@ -3322,21 +3322,21 @@ vor 1908
 
 Neubauten
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
 
 1. 4.1924 bis 31.12.1934
 
@@ -3377,21 +3377,21 @@ Neubauten
 Nachkriegsbauten\\
 nach dem
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
 
 20. 6.1948
 
@@ -3411,30 +3411,30 @@ nach dem
 
 8,8
 
-†
+
 
 - C. :: bei Holzfachwerkbauten mit Lehmausfachung und besonders haltbaren Holzbauten mit massiven Fundamenten
 
-†
+
 
 Altbauten\\
 vor dem
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
 
 1. 4.1924
 
@@ -3456,21 +3456,21 @@ vor dem
 
 Neubauten
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
 
 1. 4.1924 bis 31.12.1934
 
@@ -3511,21 +3511,21 @@ Neubauten
 Nachkriegsbauten\\
 nach dem
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
 
 20. 6.1948
 
@@ -3552,7 +3552,7 @@ Anlage 5 - Gemischtgenutzte Grundst√ºcke mit einem gewerblichen Anteil an der Ja
 \\
 A.
 bei Massivbauten mit Mauerwerk aus Ziegelsteinen, Natursteinen, Kalksandsteinen, Schwemmsteinen oder √§hnlichen Steinen sowie bei Stahl- und Stahlbetonskelettbauten au√üer bei solchen Bauten, die unter B fallen
-†
+
 Gemeindegr√∂√üenklassen
 bis 2.000
 √ºber 2.000 bis 5.000
@@ -3746,9 +3746,9 @@ Anlage 6 - Gesch√§ftsgrundst√ºcke  Vervielf√§ltiger
 
 - A. :: bei Massivbauten mit Mauerwerk aus Ziegelsteinen, Natursteinen, Kalksandsteinen, Schwemmsteinen oder √§hnlichen Steinen sowie bei Stahl- und Stahlbetonskelettbauten au√üer bei solchen Bauten, die unter B fallen
 
-†
 
-†
+
+
 
 Gemeindegr√∂√üenklassen
 
@@ -3791,21 +3791,21 @@ Einwohner
 
 Altbauten
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
 
 vor 1895
 
@@ -3899,21 +3899,21 @@ vor 1895
 
 Neubauten
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
 
 1. 4.1924 bis 31.12.1934
 
@@ -3954,21 +3954,21 @@ Neubauten
 Nachkriegsbauten\\
 nach dem
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
 
 20. 6.1948
 
@@ -3988,29 +3988,29 @@ nach dem
 
 8,9
 
-†
+
 
 - B. :: bei Holzfachwerkbauten mit Ziegelsteinausmauerung, Geb√§uden aus gro√üformatigen Bimsbetonplatten oder √§hnlichen Platten sowie bei anderen eingeschossigen massiven Geb√§uden in leichter Bauausf√ºhrung
 
-†
+
 
 Altbauten
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
 
 vor 1908
 
@@ -4068,21 +4068,21 @@ vor 1908
 
 Neubauten
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
 
 1. 4.1924 bis 31.12.1934
 
@@ -4123,21 +4123,21 @@ Neubauten
 Nachkriegsbauten\\
 nach dem
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
 
 20. 6.1948
 
@@ -4157,30 +4157,30 @@ nach dem
 
 8,7
 
-†
+
 
 - C. :: bei Holzfachwerkbauten mit Lehmausfachung und besonders haltbaren Holzbauten mit massiven Fundamenten
 
-†
+
 
 Altbauten\\
 vor dem
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
 
 1. 4.1924
 
@@ -4202,21 +4202,21 @@ vor dem
 
 Neubauten
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
 
 1. 4.1924 bis 31.12.1934
 
@@ -4257,21 +4257,21 @@ Neubauten
 Nachkriegsbauten\\
 nach dem
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
 
 20. 6.1948
 
@@ -4298,7 +4298,7 @@ Anlage 7 - Einfamilienh√§user  Vervielf√§ltiger
 \\
 A.
 bei Massivbauten mit Mauerwerk aus Ziegelsteinen, Natursteinen, Kalksandsteinen, Schwemmsteinen oder √§hnlichen Steinen sowie bei Stahl- und Stahlbetonskelettbauten au√üer bei solchen Bauten, die unter B fallen
-†
+
 Gemeindegr√∂√üenklassen
 bis 2.000
 √ºber 2.000 bis 5.000
@@ -4490,7 +4490,7 @@ Anlage 8 - Zweifamilienh√§user  Vervielf√§ltiger
 \\
 A.
 bei Massivbauten mit Mauerwerk aus Ziegelsteinen, Natursteinen, Kalksandsteinen, Schwemmsteinen oder √§hnlichen Steinen sowie bei Stahl- und Stahlbetonskelettbauten au√üer bei solchen Bauten, die unter B fallen
-†
+
 Gemeindegr√∂√üenklassen
 bis 2.000
 √ºber 2.000 bis 5.000
@@ -4905,7 +4905,7 @@ Regelherstellungskosten
 auf Grundlage der Normalherstellungskosten 2010 (NHK 2010) in Euro/m¬≤ BGF einschlie√ülich Baunebenkosten und Umsatzsteuer f√ºr die jeweilige Geb√§udeart (Kostenstand 2010)
 | 1-3 | Ein- und Zweifamilienh√§user |
 
-†
+
 
 Standardstufe
 
@@ -4925,15 +4925,15 @@ Keller- und Erdgeschoss
 
 Dachgeschoss ausgebaut
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 1.01
 
@@ -4995,15 +4995,15 @@ Reihenmittelh√§user
 
 Dachgeschoss nicht ausgebaut
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 1.02
 
@@ -5021,7 +5021,7 @@ freistehende Einfamilienh√§user
 
 1.021
 
-freistehende Zweifamilienh√§userπ
+freistehende Zweifamilienh√§user
 
 572
 
@@ -5065,15 +5065,15 @@ Reihenmittelh√§user
 
 Flachdach oder flach geneigtes Dach
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 1.03
 
@@ -5091,7 +5091,7 @@ freistehende Einfamilienh√§user
 
 1.031
 
-freistehende Zweifamilienh√§userπ
+freistehende Zweifamilienh√§user
 
 740
 
@@ -5131,7 +5131,7 @@ Reihenmittelh√§user
 
 1195
 
-†
+
 
 Standardstufe
 
@@ -5151,15 +5151,15 @@ Keller-, Erd- und Obergeschoss
 
 Dachgeschoss ausgebaut
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 1.11
 
@@ -5177,7 +5177,7 @@ freistehende Einfamilienh√§user
 
 1.111
 
-freistehende Zweifamilienh√§userπ
+freistehende Zweifamilienh√§user
 
 688
 
@@ -5221,15 +5221,15 @@ Reihenmittelh√§user
 
 Dachgeschoss nicht ausgebaut
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 1.12
 
@@ -5247,7 +5247,7 @@ freistehende Einfamilienh√§user
 
 1.121
 
-freistehende Zweifamilienh√§userπ
+freistehende Zweifamilienh√§user
 
 599
 
@@ -5291,15 +5291,15 @@ Reihenmittelh√§user
 
 Flachdach oder flach geneigtes Dach
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 1.13
 
@@ -5317,7 +5317,7 @@ freistehende Einfamilienh√§user
 
 1.131
 
-freistehende Zweifamilienh√§userπ
+freistehende Zweifamilienh√§user
 
 698
 
@@ -5357,7 +5357,7 @@ Reihenmittelh√§user
 
 1130
 
-†
+
 
 Standardstufe
 
@@ -5377,15 +5377,15 @@ Erdgeschoss, nicht unterkellert
 
 Dachgeschoss ausgebaut
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 1.21
 
@@ -5403,7 +5403,7 @@ freistehende Einfamilienh√§user
 
 1.211
 
-freistehende Zweifamilienh√§userπ
+freistehende Zweifamilienh√§user
 
 830
 
@@ -5447,15 +5447,15 @@ Reihenmittelh√§user
 
 Dachgeschoss nicht ausgebaut
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 1.22
 
@@ -5473,7 +5473,7 @@ freistehende Einfamilienh√§user
 
 1.221
 
-freistehende Zweifamilienh√§userπ
+freistehende Zweifamilienh√§user
 
 614
 
@@ -5517,15 +5517,15 @@ Reihenmittelh√§user
 
 Flachdach oder flach geneigtes Dach
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 1.23
 
@@ -5543,7 +5543,7 @@ freistehende Einfamilienh√§user
 
 1.231
 
-freistehende Zweifamilienh√§userπ
+freistehende Zweifamilienh√§user
 
 966
 
@@ -5583,7 +5583,7 @@ Reihenmittelh√§user
 
 1560
 
-†
+
 
 Standardstufe
 
@@ -5603,15 +5603,15 @@ Erd- und Obergeschoss, nicht unterkellert
 
 Dachgeschoss ausgebaut
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 1.31
 
@@ -5629,7 +5629,7 @@ freistehende Einfamilienh√§user
 
 1.311
 
-freistehende Zweifamilienh√§userπ
+freistehende Zweifamilienh√§user
 
 756
 
@@ -5673,15 +5673,15 @@ Reihenmittelh√§user
 
 Dachgeschoss nicht ausgebaut
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 1.32
 
@@ -5699,7 +5699,7 @@ freistehende Einfamilienh√§user
 
 1.321
 
-freistehende Zweifamilienh√§userπ
+freistehende Zweifamilienh√§user
 
 651
 
@@ -5743,15 +5743,15 @@ Reihenmittelh√§user
 
 Flachdach oder flach geneigtes Dach
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 1.33
 
@@ -5769,7 +5769,7 @@ freistehende Einfamilienh√§user
 
 1.331
 
-freistehende Zweifamilienh√§userπ
+freistehende Zweifamilienh√§user
 
 824
 
@@ -5816,7 +5816,7 @@ Reihenmittelh√§user
 |   | F√ºr Wohnungseigentum in Geb√§uden, die wie Ein- und Zweifamilienh√§user im Sinne des ¬ß 181 Absatz 2 des Bewertungsgesetzes gestaltet sind, werden die Regelherstellungskosten der Ein- und Zweifamilienh√§user zugrunde gelegt.\\ |
 |   | Umrechnungsfaktor hinsichtlich der Brutto-Grundfl√§che (BGF) f√ºr Wohnungseigentum in Mehrfamilienh√§usern: BGF = 1,55 x Wohnfl√§che                                                                                               |
 
-†
+
 
 Standardstufe
 
@@ -5874,7 +5874,7 @@ Banken und √§hnliche Gesch√§ftsh√§user ohne Wohnanteil
 
 - <<FnA2-f791494_03>>[[#FnR.FnA2-f791494_03][2]] :: Anteil der Wohnfl√§che bis 20 Prozent
 
-†
+
 
 Standardstufe
 
@@ -5902,7 +5902,7 @@ B√ºrogeb√§ude/Verwaltungsgeb√§ude
 
 1900
 
-†
+
 
 Standardstufe
 
@@ -5944,7 +5944,7 @@ Saalbauten/Veranstaltungsgeb√§ude
 
 2085
 
-†
+
 
 Standardstufe
 
@@ -6000,7 +6000,7 @@ Sonderschulen
 
 2315
 
-†
+
 
 Standardstufe
 
@@ -6042,7 +6042,7 @@ Alten-/Pflegeheime
 
 1665
 
-†
+
 
 Standardstufe
 
@@ -6084,7 +6084,7 @@ Tageskliniken/√Ñrzteh√§user
 
 2255
 
-†
+
 
 Standardstufe
 
@@ -6112,7 +6112,7 @@ Beherbergungsst√§tten/Hotels/Verpflegungseinrichtungen
 
 2595
 
-†
+
 
 Standardstufe
 
@@ -6182,7 +6182,7 @@ Freizeitb√§der/Kur- und Heilb√§der
 
 3840
 
-†
+
 
 Standardstufe
 
@@ -6238,7 +6238,7 @@ Autoh√§user ohne Werkstatt
 
 1480
 
-†
+
 
 Standardstufe
 
@@ -6301,7 +6301,7 @@ Carports
 - <<FnA3-f791494_04>>[[#FnR.FnA3-f791494_04][3]] :: Standardstufe 1--3: Fertiggaragen; Standardstufe 4: Garagen in Massivbauweise; Standardstufe 5: individuelle Garagen in Massivbauweise mit besonderen Ausf√ºhrungen wie Ziegeldach, Gr√ºndach, Bodenbel√§ge, Fliesen o. √§., Wasser, Abwasser und Heizung
 - <<FnA3-f791494_05>>[[#FnR.FnA3-f791494_05][4]] :: Umrechnungsfaktor hinsichtlich der Brutto-Grundfl√§che (BGF) f√ºr Tief- und Hochgaragen: BGF = tats√§chliche Stellplatzfl√§che (L√§nge x Breite) x 1,55
 
-†
+
 
 Standardstufe
 
@@ -6385,7 +6385,7 @@ Industrielle Produktionsgeb√§ude, √ºberwiegend Skelettbauweise
 
 1260
 
-†
+
 
 Standardstufe
 
@@ -6443,7 +6443,7 @@ Lagergeb√§ude mit mehr als 25 % Mischnutzung‚Åµ
 
 - <<FnA4-f791494_06>>[[#FnR.FnA4-f791494_06][5]] :: Lagergeb√§ude mit Mischnutzung sind Geb√§ude mit einem √ºberwiegenden Anteil an Lagernutzung und einem geringeren Anteil an anderen Nutzungen wie B√ºro, Sozialr√§ume, Ausstellungs- oder Verkaufsfl√§chen etc.
 
-†
+
 
 Standardstufe
 
@@ -6513,7 +6513,7 @@ Friedhofsgeb√§ude
 
 1720
 
-†
+
 
 Standardstufe
 
@@ -6555,11 +6555,11 @@ ehemalige landwirtschaftliche Mehrzweckhallen, Scheunen, u. √Ñ.
 
 III. Beschreibung der Geb√§udestandards
 Die Beschreibung der Geb√§udestandards ist beispielhaft und dient der Orientierung. Sie kann nicht alle in der Praxis auftretenden Standardmerkmale auff√ºhren. Es m√ºssen nicht alle aufgef√ºhrten Merkmale zutreffen. Die in der Tabelle angegebenen Jahreszahlen beziehen sich auf die im jeweiligen Zeitraum g√ºltigen W√§rmeschutzanforderungen; in Bezug auf das konkrete Bewertungsobjekt ist zu pr√ºfen, ob von diesen W√§rmeschutzanforderungen abgewichen wird. Die Beschreibung der Geb√§udestandards basiert auf dem Bezugsjahr der Normalherstellungskosten (2010).
-| 1-5.1 | ‚Ä1.01-3.33 | Ein- und Zweifamilienh√§user                                                                                                                              |
-| ¬†     | ‚Å4.1-5.1   | Wohnungseigentum und vergleichbares Teileigentum in Mehrfamilienh√§usern (ohne Tiefgaragenplatz)/Mehrfamilienh√§user sowie gemischt genutzte Grundst√ºcke\\ |
+| 1-5.1 | 1.01-3.33 | Ein- und Zweifamilienh√§user                                                                                                                              |
+| ¬†     | 4.1-5.1   | Wohnungseigentum und vergleichbares Teileigentum in Mehrfamilienh√§usern (ohne Tiefgaragenplatz)/Mehrfamilienh√§user sowie gemischt genutzte Grundst√ºcke\\ |
 |       |            | (Wohnh√§user mit Mischnutzung)                                                                                                                            |
 
-†
+
 Standardstufe
 W√§gungsanteil
 1
@@ -6597,7 +6597,7 @@ Dachd√§mmung (nach ca. 1995);\\
 Rinnen und Fallrohre aus Zinkblech;
 glasierte Tondachziegel, Flachdachausbildung tlw. als Dachterrassen; Konstruktion in Brettschichtholz, schweres Massivflachdach; besondere Dachformen, z. B. Mansarden-, Walmdach; Aufsparrend√§mmung, √ºberdurchschnittliche D√§mmung (nach ca. 2005)
 hochwertige Eindeckung, z. B. aus Schiefer oder Kupfer, Dachbegr√ºnung, befahrbares Flachdach; hochwertigste D√§mmung (z. B. Passivhausstandard); Rinnen und Fallrohre aus Kupfer\\
-‚Äaufwendig gegliederte Dachlandschaft, sichtbare Bogendach-konstruktionen
+aufwendig gegliederte Dachlandschaft, sichtbare Bogendach-konstruktionen
 15
 Fenster und Au√üent√ºren
 Einfachverglasung;\\
@@ -6617,28 +6617,28 @@ massive tragende Innenw√§nde, nicht tragende W√§nde in Leichtbauweise (z. B. Hol
 leichte T√ºren, Stahlzargen
 nicht tragende Innenw√§nde in massiver Ausf√ºhrung bzw. mit D√§mmmaterial gef√ºllte St√§nderkonstruktionen;\\
 schwere T√ºren\\
-‚ÄHolzzargen
+Holzzargen
 Sichtmauerwerk; Massivholzt√ºren, Schiebet√ºrelemente, Glast√ºren, strukturierte T√ºrbl√§tter\\
-‚ÄWandvert√§felungen (Holzpaneele)
+Wandvert√§felungen (Holzpaneele)
 gestaltete Wandabl√§ufe (z. B. Pfeilervorlagen, abgesetzte oder geschwungene Wandpartien); Brandschutzverkleidung; raumhohe aufwendige T√ºrelemente\\
-‚ÄVert√§felungen (Edelholz, Metall), Akustikputz
+Vert√§felungen (Edelholz, Metall), Akustikputz
 11
 Deckenkonstruktion und Treppen
 Holzbalkendecken ohne F√ºllung, Spalierputz;\\
 Weichholztreppen in einfacher Art und Ausf√ºhrung;\\
 kein Trittschallschutz\\
-‚ÄWeichholztreppen in einfacher Art und Ausf√ºhrung;\\
+Weichholztreppen in einfacher Art und Ausf√ºhrung;\\
 kein Trittschallschutz
 Holzbalkendecken mit F√ºllung, Kappendecken;\\
 Stahl- oder Hartholztreppen in einfacher Art und Ausf√ºhrung\\
-‚ÄStahl- oder Hartholztreppen in einfacher Art und Ausf√ºhrung
-‚ÄBeton- und Holzbalkendecken mit Tritt- und Luftschallschutz (z. B. schwimmender Estrich); geradl√§ufige Treppen aus Stahlbeton oder Stahl, Harfentreppe, Trittschallschutz\\
-‚ÅBetondecken mit Tritt- und Luftschallschutz (z. B. schwimmender Estrich); einfacher Putz
-‚ÄDecken mit gr√∂√üerer Spannweite, Deckenverkleidung (Holzpaneele/Kassetten);\\
+Stahl- oder Hartholztreppen in einfacher Art und Ausf√ºhrung
+Beton- und Holzbalkendecken mit Tritt- und Luftschallschutz (z. B. schwimmender Estrich); geradl√§ufige Treppen aus Stahlbeton oder Stahl, Harfentreppe, Trittschallschutz\\
+Betondecken mit Tritt- und Luftschallschutz (z. B. schwimmender Estrich); einfacher Putz
+Decken mit gr√∂√üerer Spannweite, Deckenverkleidung (Holzpaneele/Kassetten);\\
 gewendelte Treppen aus Stahlbeton oder Stahl, Hartholztreppenanlage in besserer Art und Ausf√ºhrung\\
-‚Åzus√§tzlich Deckenverkleidung
+zus√§tzlich Deckenverkleidung
 Deckenvert√§felungen (Edelholz, Metall)\\
-‚ÄDecken mit gro√üen Spannweiten, gegliedert;\\
+Decken mit gro√üen Spannweiten, gegliedert;\\
 breite Stahlbeton-, Metall- oder Hartholztreppenanlage mit hochwertigem Gel√§nder
 11
 Fu√üb√∂den
@@ -6654,51 +6654,51 @@ Installation auf Putz; √ñlfarbenanstrich, einfache PVC-Bodenbel√§ge
 1 Bad mit WC, Dusche oder Badewanne;\\
 einfache Wand- und Bodenfliesen, teilweise gefliest
 Wand- und Bodenfliesen, raumhoch gefliest; Dusche und Badewanne\\
-‚Ä1 Bad mit WC, G√§ste-WC\\
-‚Å1 Bad mit WC je Wohneinheit
-1--2 B√§der (‚Åje Wohneinheit) mit tlw. zwei Waschbecken, tlw. Bidet/Urinal, G√§ste-WC, bodengleiche Dusche; Wand- und Bodenfliesen;\\
+1 Bad mit WC, G√§ste-WC\\
+1 Bad mit WC je Wohneinheit
+1--2 B√§der (je Wohneinheit) mit tlw. zwei Waschbecken, tlw. Bidet/Urinal, G√§ste-WC, bodengleiche Dusche; Wand- und Bodenfliesen;\\
 jeweils in gehobener Qualit√§t
 hochwertige Wand- und Bodenplatten (oberfl√§chenstrukturiert, Einzel- und Fl√§chendekors)\\
-‚Ämehrere gro√Å2 und mehr B√§der je Wohneinheit
+mehrere gro√Å2 und mehr B√§der je Wohneinheit
 9
 Heizung
 Einzel√∂fen, Schwerkraftheizung
 Fern- oder Zentralheizung, einfache Warmluftheizung, einzelne Gasau√üenwandthermen, Nachtstromspeicher-, Fu√übodenheizung (vor ca. 1995)
 elektronisch gesteuerte Fern- oder Zentralheizung, Niedertemperatur- oder Brennwertkessel
 Fu√übodenheizung, Solarkollektoren f√ºr Warmwassererzeugung\\
-‚Äzus√§tzlicher Kaminanschluss
+zus√§tzlicher Kaminanschluss
 Solarkollektoren f√ºr Warmwassererzeugung und Heizung, Blockheizkraftwerk, W√§rmepumpe, Hybrid-Systeme\\
-‚Äaufwendige zus√§tzliche Kaminanlage
+aufwendige zus√§tzliche Kaminanlage
 9
 Sonstige technische Ausstattung
 sehr wenige Steckdosen, Schalter und Sicherungen, kein Fehlerstromschutzschalter (FI-Schalter), Leitungen teilweise auf Putz
 wenige Steckdosen, Schalter und Sicherungen
 zeitgem√§√üe Anzahl an Steckdosen und Lichtausl√§ssen, Z√§hlerschrank (ab ca. 1985) mit Unterverteilung und Kippsicherungen
 zahlreiche Steckdosen und Lichtausl√§sse, hochwertige Abdeckungen, dezentrale L√ºftung mit W√§rmetauscher, mehrere LAN- und Fernsehanschl√ºsse\\
-‚ÅPersonenaufzugsanlagen
+Personenaufzugsanlagen
 Video- und zentrale Alarmanlage, zentrale L√ºftung mit W√§rmetauscher, Klimaanlage, Bussystem\\
-‚Åaufwendige Personenaufzugsanlagen
+aufwendige Personenaufzugsanlagen
 6
-| 5.2-17.4 | ‚Ç5.2-6.1   | Banken und √§hnliche Gesch√§ftsh√§user, B√ºrogeb√§ude/Verwaltungsgeb√§ude                                                  |
-| ¬†        | ‚É7.1-8.3   | Gemeindezentren/Vereinsheime, Saalbauten/Veranstaltungsgeb√§ude, Kinderg√§rten, Schulen                                |
-| ¬†        | ‚Ñ9.1-11.1  | Wohnheime, Alten-/Pflegeheime, Krankenh√§user, Tageskliniken, Beherbergungsst√§tten, Hotels, Verpflegungseinrichtungen |
-| ¬†        | ‚Ö12.1-12.4 | Sporthallen, Tennishallen, Freizeitb√§der/Kur- und Heilb√§der                                                          |
-| ¬†        | ‚Ü13.1-13.3 | Verbraucherm√§rkte, Kauf-/Warenh√§user, Autoh√§user                                                                     |
-| ¬†        | ‚á15.1-16.3 | Betriebs-/Werkst√§tten, Produktionsgeb√§ude, Lagergeb√§ude                                                              |
-| ¬†        | ‚à17.1-17.4 | Museen, Theater, Sakralbauten, Friedhofsgeb√§ude                                                                      |
+| 5.2-17.4 | 5.2-6.1   | Banken und √§hnliche Gesch√§ftsh√§user, B√ºrogeb√§ude/Verwaltungsgeb√§ude                                                  |
+| ¬†        | 7.1-8.3   | Gemeindezentren/Vereinsheime, Saalbauten/Veranstaltungsgeb√§ude, Kinderg√§rten, Schulen                                |
+| ¬†        | 9.1-11.1  | Wohnheime, Alten-/Pflegeheime, Krankenh√§user, Tageskliniken, Beherbergungsst√§tten, Hotels, Verpflegungseinrichtungen |
+| ¬†        | 12.1-12.4 | Sporthallen, Tennishallen, Freizeitb√§der/Kur- und Heilb√§der                                                          |
+| ¬†        | 13.1-13.3 | Verbraucherm√§rkte, Kauf-/Warenh√§user, Autoh√§user                                                                     |
+| ¬†        | 15.1-16.3 | Betriebs-/Werkst√§tten, Produktionsgeb√§ude, Lagergeb√§ude                                                              |
+| ¬†        | 17.1-17.4 | Museen, Theater, Sakralbauten, Friedhofsgeb√§ude                                                                      |
 
-†
+
 Standardstufe
-†
+
 1
 2
 3
 4
 5
-†
+
 nicht zeitgem√§√ü
 zeitgem√§√ü
-†
+
 einfachst
 einfach
 Basis
@@ -6714,9 +6714,9 @@ Edelputz; ged√§mmte Metall-Sandwichelemente
 Verblendmauerwerk, zweischalig, hinterl√ºftet, Vorhangfassade (z. B. Naturschiefer);\\
 W√§rmed√§mmung (nach ca. 2005)
 Sichtbeton-Fertigteile, Natursteinfassade, Elemente aus Kupfer-/Eloxalblech, mehrgeschossige Glasfassaden; stark √ºberdurchschnittliche D√§mmung\\
-‚Ç‚É‚Ñ‚Ö‚Üaufwendig gestaltete Fassaden mit konstruktiver Gliederung (S√§ulenstellungen, Erker etc.)\\
-‚ÇVorhangfassade aus Glas
-Konstruktion‚á
+aufwendig gestaltete Fassaden mit konstruktiver Gliederung (S√§ulenstellungen, Erker etc.)\\
+Vorhangfassade aus Glas
+Konstruktion
 Holzkonstruktion in nicht zeitgem√§√üer statischer Ausf√ºhrung
 Mauerwerk, Stahl- oder Stahlbetonkonstruktion in nicht zeitgem√§√üer statischer Ausf√ºhrung
 Stahl- und Betonfertigteile
@@ -6729,167 +6729,167 @@ einfache Betondachsteine oder Tondachziegel, Bitumenschindeln;\\
 nicht zeitgem√§√üe Dachd√§mmung (vor ca. 1995)
 Faserzement-Schindeln, beschichtete Betondachsteine und Tondachziegel, Folienabdichtung; Dachd√§mmung (nach ca. 1995); Rinnen und Fallrohre aus Zinkblech
 besondere Dachformen; √ºberdurchschnittliche D√§mmung (nach ca. 2005)\\
-‚Ç‚É‚Ñ‚Ö‚Üglasierte Tondachziegel\\
-‚Ç‚áschweres Massivflachdach\\
-‚àBiberschw√§nze
+glasierte Tondachziegel\\
+schweres Massivflachdach\\
+Biberschw√§nze
 hochwertige Eindeckung z. B. aus Schiefer oder Kupfer; Dachbegr√ºnung; aufwendig gegliederte Dachlandschaft\\
-‚Ç‚É‚Ñbefahrbares Flachdach\\
-‚Ç‚Éstark √ºberdurchschnittliche D√§mmung\\
-‚Ñ‚Ö‚Ü‚áhochwertigste D√§mmung
+befahrbares Flachdach\\
+stark √ºberdurchschnittliche D√§mmung\\
+hochwertigste D√§mmung
 Fenster- und Au√üent√ºren
 Einfachverglasung;\\
 einfache Holzt√ºren
 Isolierverglasung, Zweifachverglasung (vor ca. 1995);\\
 Eingangst√ºren mit nicht zeitgem√§√üem W√§rmeschutz (vor ca. 1995)
 Zweifachverglasung (nach ca. 1995)\\
-‚Ñnur Wohnheime, Altenheime, Pflegeheime, Krankenh√§user und Tageskliniken: Automatik-\\
+nur Wohnheime, Altenheime, Pflegeheime, Krankenh√§user und Tageskliniken: Automatik-\\
 Eingangst√ºren\\
-‚àkunstvoll gestaltetes farbiges Fensterglas, Ornamentglas
+kunstvoll gestaltetes farbiges Fensterglas, Ornamentglas
 Dreifachverglasung, Sonnenschutzglas, aufwendigere Rahmen\\
-‚Ç‚É‚Ö‚Ü‚áh√∂herwertige T√ºranlagen\\
-‚Ñnur Beherbergungsst√§tten und Verpflegungseinrichtungen: Automatik-Eingangst√ºren\\
-‚àbesonders gro√üe kunstvoll gestaltete farbige Fensterfl√§chen
+h√∂herwertige T√ºranlagen\\
+nur Beherbergungsst√§tten und Verpflegungseinrichtungen: Automatik-Eingangst√ºren\\
+besonders gro√üe kunstvoll gestaltete farbige Fensterfl√§chen
 gro√üe, feststehende Fensterfl√§chen, Spezialverglasung (Schall- und Sonnenschutz)\\
-‚Ç‚É‚Ü‚áAu√üent√ºren in hochwertigen Materialien\\
-‚ÇAutomatikt√ºren\\
-‚ÖAutomatik-Eingangst√ºren\\
-‚àBleiverglasung mit Schutzglas, farbige Ma√üfenster
+Au√üent√ºren in hochwertigen Materialien\\
+Automatikt√ºren\\
+Automatik-Eingangst√ºren\\
+Bleiverglasung mit Schutzglas, farbige Ma√üfenster
 Innenw√§nde und -t√ºren
 Fachwerkw√§nde, einfache Putze/Lehmputze, einfache Kalkanstriche;\\
 F√ºllungst√ºren, gestrichen, mit einfachen Beschl√§gen ohne Dichtungen
 massive tragende Innenw√§nde, nicht tragende W√§nde in Leichtbauweise (z. B. Holzst√§nderw√§nde mit Gipskarton), Gipsdielen;\\
 leichte T√ºren, Kunststoff-/ Holzt√ºrbl√§tter, Stahlzargen
-‚É‚Ñ‚Ö‚Ünicht tragende Innenw√§nde in massiver Ausf√ºhrung bzw. mit D√§mmmaterial gef√ºllte St√§nderkonstruktionen\\
-‚Ñ‚Ö‚Üschwere T√ºren\\
-‚Çnicht tragende Innenw√§nde in massiver Ausf√ºhrung; schwere T√ºren\\
-‚Éschwere und gro√üe T√ºren\\
-‚Ñnur Wohnheime, Altenheime, Pflegeheime, Krankenh√§user und Tageskliniken: Automatik-Flurzwischent√ºren; rollstuhlgerechte Bedienung\\
-‚áAnstrich
-‚Ç‚É‚Ñ‚Ö‚ÜSichtmauerwerk\\
-‚Ç‚ÉMassivholzt√ºren, Schiebet√ºrelemente, Glast√ºren\\
-‚ÇInnenw√§nde f√ºr flexible Raumkonzepte (gr√∂√üere statische Spannweiten der Decken)\\
-‚Ñnur Beherbergungsst√§tten und Verpflegungseinrichtungen: Automatik-Flurzwischent√ºren; rollstuhlgerechte Bedienung\\
-‚Örollstuhlgerechte Bedienung\\
-‚átlw. gefliest, Sichtmauerwerk; Schiebet√ºrelemente, Glast√ºren\\
-‚àschmiedeeiserne T√ºren
-‚Ç‚É‚Ñ‚Ö‚Ügestaltete Wandabl√§ufe (z. B. Pfeilervorlagen, abgesetzte oder geschwungene Wandpartien)\\
-‚ÉVert√§felungen (Edelholz, Metall), Akustikputz\\
-‚ÇW√§nde aus gro√üformatigen Glaselementen, Akustikputz, tlw. Automatikt√ºren, rollstuhlgerechte Bedienung\\
-‚Éraumhohe aufwendige T√ºrelemente; tlw. Automatikt√ºren, rollstuhlgerechte Bedienung\\
-‚Ñ‚Ö‚ÜAkustikputz, raumhohe aufwendige T√ºrelemente\\
-‚Ürollstuhlgerechte Bedienung, Automatikt√ºren\\
-‚á√ºberwiegend gefliest; Sichtmauerwerk; gestaltete Wandabl√§ufe
+nicht tragende Innenw√§nde in massiver Ausf√ºhrung bzw. mit D√§mmmaterial gef√ºllte St√§nderkonstruktionen\\
+schwere T√ºren\\
+nicht tragende Innenw√§nde in massiver Ausf√ºhrung; schwere T√ºren\\
+schwere und gro√üe T√ºren\\
+nur Wohnheime, Altenheime, Pflegeheime, Krankenh√§user und Tageskliniken: Automatik-Flurzwischent√ºren; rollstuhlgerechte Bedienung\\
+Anstrich
+Sichtmauerwerk\\
+Massivholzt√ºren, Schiebet√ºrelemente, Glast√ºren\\
+Innenw√§nde f√ºr flexible Raumkonzepte (gr√∂√üere statische Spannweiten der Decken)\\
+nur Beherbergungsst√§tten und Verpflegungseinrichtungen: Automatik-Flurzwischent√ºren; rollstuhlgerechte Bedienung\\
+rollstuhlgerechte Bedienung\\
+tlw. gefliest, Sichtmauerwerk; Schiebet√ºrelemente, Glast√ºren\\
+schmiedeeiserne T√ºren
+gestaltete Wandabl√§ufe (z. B. Pfeilervorlagen, abgesetzte oder geschwungene Wandpartien)\\
+Vert√§felungen (Edelholz, Metall), Akustikputz\\
+W√§nde aus gro√üformatigen Glaselementen, Akustikputz, tlw. Automatikt√ºren, rollstuhlgerechte Bedienung\\
+raumhohe aufwendige T√ºrelemente; tlw. Automatikt√ºren, rollstuhlgerechte Bedienung\\
+Akustikputz, raumhohe aufwendige T√ºrelemente\\
+rollstuhlgerechte Bedienung, Automatikt√ºren\\
+√ºberwiegend gefliest; Sichtmauerwerk; gestaltete Wandabl√§ufe
 Deckenkonstruktion und Treppen (nicht bei ‚ëß)
 Weichholztreppen in einfacher Art und Ausf√ºhrung; kein Trittschallschutz\\
-‚Ç‚É‚ÑHolzbalkendecken ohne F√ºllung, Spalierputz
+Holzbalkendecken ohne F√ºllung, Spalierputz
 Stahl- oder Hartholztreppen in einfacher Art und Ausf√ºhrung\\
-‚Ç‚É‚Ñ‚Ü‚àHolzbalkendecken mit F√ºllung, Kappendecken
-‚Ç‚É‚Ñ‚ÜBetondecken mit Tritt- und Luftschallschutz; einfacher Putz\\
-‚Ç‚Éabgeh√§ngte Decken\\
-‚Ñ‚ÜDeckenverkleidung\\
-‚ÖBetondecke
-‚Çh√∂herwertige abgeh√§ngte Decken\\
-‚É‚Ñ‚Ö‚ÜDecken mit gro√üen Spannweiten\\
-‚ÉDeckenverkleidung
+Holzbalkendecken mit F√ºllung, Kappendecken
+Betondecken mit Tritt- und Luftschallschutz; einfacher Putz\\
+abgeh√§ngte Decken\\
+Deckenverkleidung\\
+Betondecke
+h√∂herwertige abgeh√§ngte Decken\\
+Decken mit gro√üen Spannweiten\\
+Deckenverkleidung
 hochwertige breite Stahlbeton-/Metalltreppenanlage mit hochwertigem Gel√§nder\\
-‚Ç‚ÜDeckenvert√§felungen (Edelholz, Metall)\\
-‚É‚Ñ‚Ö‚ÜDecken mit gr√∂√üeren Spannweiten
+Deckenvert√§felungen (Edelholz, Metall)\\
+Decken mit gr√∂√üeren Spannweiten
 Fu√üb√∂den
 ohne Belag
 Linoleum-, Teppich-, Laminat- und PVC-B√∂den einfacher Art und Ausf√ºhrung\\
-‚àHolzdielen
-‚Ç‚É‚Ñ‚ÜFliesen, Kunststeinplatten\\
-‚Ç‚ÉLinoleum- oder Teppich-B√∂den besserer Art und Ausf√ºhrung\\
-‚Ñ‚ÜLinoleum- oder PVC-\\
+Holzdielen
+Fliesen, Kunststeinplatten\\
+Linoleum- oder Teppich-B√∂den besserer Art und Ausf√ºhrung\\
+Linoleum- oder PVC-\\
 B√∂den besserer Art und Ausf√ºhrung\\
-‚Önur Sporthallen: Beton, Asphaltbeton, Estrich oder Gussasphalt auf Beton; Teppichbelag, PVC;\\
+nur Sporthallen: Beton, Asphaltbeton, Estrich oder Gussasphalt auf Beton; Teppichbelag, PVC;\\
 nur Freizeitb√§der/Heilb√§der: Fliesenbelag\\
-‚áBeton\\
-‚àBetonwerkstein, Sandstein
-‚Ç‚Ñ‚ÜNatursteinplatten, hochwertige Fliesen, Terrazzobelag, hochwertige Massivholzb√∂den auf ged√§mmter Unterkonstruktion\\
-‚Ç‚ÜFertigparkett\\
-‚Önur Sporthallen: hochwertigere fl√§chenstatische Fu√übodenkonstruktion, Spezialteppich mit Gummigranulatauflage; hochwertigerer Schwingboden\\
-‚áEstrich, Gussasphalt
-‚Ç‚É‚Ñ‚Ühochwertiges Parkett, hochwertige Natursteinplatten, hochwertige Edelholzb√∂den auf ged√§mmter Unterkonstruktion\\
-‚Önur Sporthallen: hochwertigste fl√§chenstatische Fu√übodenkonstruktion, Spezialteppich mit Gummigranulatauflage; hochwertigster Schwingboden;\\
+Beton\\
+Betonwerkstein, Sandstein
+Natursteinplatten, hochwertige Fliesen, Terrazzobelag, hochwertige Massivholzb√∂den auf ged√§mmter Unterkonstruktion\\
+Fertigparkett\\
+nur Sporthallen: hochwertigere fl√§chenstatische Fu√übodenkonstruktion, Spezialteppich mit Gummigranulatauflage; hochwertigerer Schwingboden\\
+Estrich, Gussasphalt
+hochwertiges Parkett, hochwertige Natursteinplatten, hochwertige Edelholzb√∂den auf ged√§mmter Unterkonstruktion\\
+nur Sporthallen: hochwertigste fl√§chenstatische Fu√übodenkonstruktion, Spezialteppich mit Gummigranulatauflage; hochwertigster Schwingboden;\\
 nur Freizeitb√§der/Heilb√§der: hochwertiger Fliesenbelag und Natursteinboden\\
-‚ábeschichteter Beton oder Estrichboden; Betonwerkstein, Verbundpflaster\\
-‚àMarmor, Granit
+beschichteter Beton oder Estrichboden; Betonwerkstein, Verbundpflaster\\
+Marmor, Granit
 Sanit√§reinrichtungen
 einfache Toilettenanlagen (Stand-WC); Installation auf Putz; √ñlfarbenanstrich, einfache PVC-Bodenbel√§ge, WC und B√§deranlage geschossweise
 Toilettenanlagen in einfacher Qualit√§t; Installation unter Putz; WCs und Duschr√§ume je Geschoss; einfache Wand- und Bodenfliesen, tlw. gefliest
 Sanit√§reinrichtung in Standard-Ausf√ºhrung\\
-‚Ç‚Éausreichende Anzahl von Toilettenr√§umen\\
-‚Ñmehrere WCs und Duschb√§der je Geschoss; Waschbecken im Raum\\
-‚Öwenige Toilettenr√§ume und Duschr√§ume bzw. Waschr√§ume
+ausreichende Anzahl von Toilettenr√§umen\\
+mehrere WCs und Duschb√§der je Geschoss; Waschbecken im Raum\\
+wenige Toilettenr√§ume und Duschr√§ume bzw. Waschr√§ume
 Sanit√§reinrichtung in besserer Qualit√§t\\
-‚Ç‚Éh√∂here Anzahl Toilettenr√§ume\\
-‚Ñje Raum ein Duschbad mit WC\\
+h√∂here Anzahl Toilettenr√§ume\\
+je Raum ein Duschbad mit WC\\
 nur Wohnheime, Altenheime, Pflegeheime, Krankenh√§user und Tageskliniken: behindertengerecht
 Sanit√§reinrichtung in gehobener Qualit√§t\\
-‚Ç‚Égro√üz√ºgige Toilettenanlagen jeweils mit Sanit√§reinrichtung in gehobener Qualit√§t\\
-‚Ñje Raum ein Duschbad mit WC in guter Ausstattung;\\
+gro√üz√ºgige Toilettenanlagen jeweils mit Sanit√§reinrichtung in gehobener Qualit√§t\\
+je Raum ein Duschbad mit WC in guter Ausstattung;\\
 nur Wohnheime, Altenheime, Pflegeheime, Krankenh√§user
-†
-†
-†
-‚Ü‚áwenige Toilettenr√§ume
-‚Öausreichende Anzahl von Toilettenr√§umen und Duschr√§umen\\
-‚Ü‚áausreichende Anzahl von Toilettenr√§umen
+
+
+
+wenige Toilettenr√§ume
+ausreichende Anzahl von Toilettenr√§umen und Duschr√§umen\\
+ausreichende Anzahl von Toilettenr√§umen
 und Tageskliniken: behindertengerecht\\
-‚Ögro√üz√ºgige Toilettenanlagen und Duschr√§ume mit Sanit√§reinrichtung in gehobener Qualit√§t\\
-‚Ügro√üz√ºgige Toilettenanlagen mit Sanit√§reinrichtung in gehobener Qualit√§t\\
-‚ágro√üz√ºgige Toilettenanlagen
+gro√üz√ºgige Toilettenanlagen und Duschr√§ume mit Sanit√§reinrichtung in gehobener Qualit√§t\\
+gro√üz√ºgige Toilettenanlagen mit Sanit√§reinrichtung in gehobener Qualit√§t\\
+gro√üz√ºgige Toilettenanlagen
 Heizung
 Einzel√∂fen, Schwerkraftheizung, dezentrale Warmwasserversorgung\\
-‚àElektroheizung im Gest√ºhl
+Elektroheizung im Gest√ºhl
 Zentralheizung mit Radiatoren (Schwerkraftheizung); einfache Warmluftheizung, mehrere Ausblas√∂ffnungen; Lufterhitzer mit W√§rmetauscher mit zentraler Kesselanlage, Fu√übodenheizung (vor ca. 1995)\\
-‚àeinfache Warmluftheizung, eine Ausblas√∂ffnung
+einfache Warmluftheizung, eine Ausblas√∂ffnung
 elektronisch gesteuerte Fern- oder Zentralheizung, Niedertemperatur- oder Brennwertkessel
 Solarkollektoren f√ºr Warmwassererzeugung\\
-‚Ç‚É‚Ö‚Ü‚áFu√übodenheizung\\
-‚ázus√§tzlicher Kaminanschluss
+Fu√übodenheizung\\
+zus√§tzlicher Kaminanschluss
 Solarkollektoren f√ºr Warmwassererzeugung und Heizung, Blockheizkraftwerk, W√§rmepumpe, Hybrid-\\
 Systeme\\
-‚Ç‚É‚Ñ‚ÜKlimaanlage\\
-‚áKaminanlage
+Klimaanlage\\
+Kaminanlage
 Sonstige technische Ausstattung
 sehr wenige Steckdosen, Schalter und Sicherungen, kein Fehlerstromschutzschalter (FI-Schalter), Leitungen auf Putz, einfache Leuchten
 wenige Steckdosen, Schalter und Sicherungen, Installation unter Putz
-‚Ç‚É‚Üzeitgem√§√üe Anzahl an Steckdosen und Lichtausl√§ssen, Z√§hlerschrank (ab ca. 1985) mit Unterverteilung und Kippsicherungen; Kabelkan√§le; Blitzschutz\\
-‚Ñ‚Ö‚ázeitgem√§√üe Anzahl an Steckdosen und Lichtausl√§ssen; Blitzschutz\\
-‚Ñ‚ÜPersonenaufzugsanlagen\\
-‚áTeek√ºchen
+zeitgem√§√üe Anzahl an Steckdosen und Lichtausl√§ssen, Z√§hlerschrank (ab ca. 1985) mit Unterverteilung und Kippsicherungen; Kabelkan√§le; Blitzschutz\\
+zeitgem√§√üe Anzahl an Steckdosen und Lichtausl√§ssen; Blitzschutz\\
+Personenaufzugsanlagen\\
+Teek√ºchen
 zahlreiche Steckdosen und Lichtausl√§sse, hochwertige Abdeckungen\\
-‚Ç‚É‚Ñ‚Ü‚ádezentrale L√ºftung mit W√§rmetauscher\\
-‚ÖL√ºftung mit W√§rmetauscher\\
-‚Ç‚Ñmehrere LAN- und Fernsehanschl√ºsse\\
-‚Ç‚É‚Ühochwertige Beleuchtung; Doppelboden mit Bodentanks zur Verkabelung; ausreichende Anzahl von LAN-Anschl√ºssen
+dezentrale L√ºftung mit W√§rmetauscher\\
+L√ºftung mit W√§rmetauscher\\
+mehrere LAN- und Fernsehanschl√ºsse\\
+hochwertige Beleuchtung; Doppelboden mit Bodentanks zur Verkabelung; ausreichende Anzahl von LAN-Anschl√ºssen
 Video- und zentrale Alarmanlage, Klimaanlage, Bussystem\\
-‚Ç‚É‚Ñ‚Ü‚ázentrale L√ºftung mit W√§rmetauscher\\
-‚ÜDoppelboden mit Bodentanks zur Verkabelung\\
-‚Çaufwendige Personenaufzugsanlagen\\
-‚Ñ‚Ü‚áaufwendige Aufzugsanlagen\\
-‚áK√ºchen, Kantinen
-†
-†
-†
-†
-‚ÇMessverfahren von Verbrauch, Regelung von Raumtemperatur und Raumfeuchte\\
-‚Ç‚É‚ÜSonnenschutzsteuerung\\
-‚Ç‚Éelektronische Zugangskontrolle; Personenaufzugsanlagen\\
-‚É‚ÜMessverfahren von Raumtemperatur, Raumfeuchte, Verbrauch, Einzelraumregelung\\
-‚áKabelkan√§le; kleinere Einbauk√ºchen mit Kochgelegenheit, Aufenthaltsr√§ume; Aufzugsanlagen
-†
+zentrale L√ºftung mit W√§rmetauscher\\
+Doppelboden mit Bodentanks zur Verkabelung\\
+aufwendige Personenaufzugsanlagen\\
+aufwendige Aufzugsanlagen\\
+K√ºchen, Kantinen
+
+
+
+
+Messverfahren von Verbrauch, Regelung von Raumtemperatur und Raumfeuchte\\
+Sonnenschutzsteuerung\\
+elektronische Zugangskontrolle; Personenaufzugsanlagen\\
+Messverfahren von Raumtemperatur, Raumfeuchte, Verbrauch, Einzelraumregelung\\
+Kabelkan√§le; kleinere Einbauk√ºchen mit Kochgelegenheit, Aufenthaltsr√§ume; Aufzugsanlagen
+
 | 14.2-14.4 | 14.2-14.4 | Hoch-,Tief- und Nutzfahrzeuggaragen |
 
-†
+
 Standardstufe
-†
+
 1-3
 4
 5
-†
+
 Basis
 gehoben
 aufwendig
@@ -6918,16 +6918,16 @@ Strom- und Wasseranschluss; L√∂schwasseranlage;\\
 Treppenhaus; Brandmelder
 Sprinkleranlage; Rufanlagen; Rauch- und W√§rmeabzugsanlagen; mechanische Be- und Entl√ºftungsanlagen; Parksysteme f√ºr zwei PKWs √ºbereinander; Personenaufzugsanlagen
 Video- und zentrale Alarmanlage; Beschallung; Parksysteme f√ºr drei oder mehr PKWs √ºbereinander; aufwendigere Aufzugsanlagen
-| 18.1-18.2 | ‚â18.1  | Reithallen                                                    |
-| ¬†         | ‚Ä‚Ä18.2 | Ehemalige landwirtschaftliche Mehrzweckhallen, Scheunen u. √Ñ. |
+| 18.1-18.2 | 18.1  | Reithallen                                                    |
+| ¬†         | 18.2 | Ehemalige landwirtschaftliche Mehrzweckhallen, Scheunen u. √Ñ. |
 
-†
+
 Standardstufe
-†
+
 1-3
 4
 5
-†
+
 Basis
 gehoben
 aufwendig
@@ -6944,11 +6944,11 @@ Paneelen
 ¬†Au√üent√ºren bzw.\\
 ¬†-tore
 Lichtplatten aus Kunststoff\\
-‚âHolz-Brettert√ºren\\
-‚Ä‚ÄHolztore
+Holz-Brettert√ºren\\
+Holztore
 Kunststofffenster\\
-‚âWindnetze aus Kunststoff, Jalousien mit Motorantrieb\\
-‚Ä‚ÄMetall-Sektionaltore
+Windnetze aus Kunststoff, Jalousien mit Motorantrieb\\
+Metall-Sektionaltore
 T√ºren und Tore mehrschichtig mit W√§rmed√§mmung, Holzfenster, hoher Fensteranteil
 ¬†Innenw√§nde
 keine
@@ -6960,24 +6960,24 @@ keine
 Holzkonstruktionen √ºber Nebenr√§umen; Hartschaumplatten
 Stahlbetonplatte √ºber Nebenr√§umen; D√§mmung mit Profilholz oder Paneelen
 ¬†Fu√üb√∂den
-‚âTragschicht: Schotter,\\
+Tragschicht: Schotter,\\
 Trennschicht: Vlies,\\
 Tretschicht: Sand\\
-‚Ä‚ÄBeton-Verbundsteinpflaster
-‚âzus√§tzlich/alternativ:\\
+Beton-Verbundsteinpflaster
+zus√§tzlich/alternativ:\\
 Tragschicht: Schotter,\\
 Trennschicht: Kunststoffgewebe,\\
 Tretschicht: Sand und Holzsp√§ne\\
-‚Ä‚Äzus√§tzlich/alternativ: Stahlbetonplatte
-‚âEstrich auf D√§mmung, Fliesen oder Linoleum in Nebenr√§umen;\\
+zus√§tzlich/alternativ: Stahlbetonplatte
+Estrich auf D√§mmung, Fliesen oder Linoleum in Nebenr√§umen;\\
 zus√§tzlich/alternativ:\\
 Tragschicht: Schotter, Trennschicht: Kunststoffplatten, Tretschicht: Sand und Textilflocken, Betonplatte im Bereich der Nebenr√§ume\\
-‚Ä‚Äzus√§tzlich/alternativ: Oberfl√§che maschinell gegl√§ttet, Anstrich
+zus√§tzlich/alternativ: Oberfl√§che maschinell gegl√§ttet, Anstrich
 ¬†baukonstruktive\\
-¬†Einbauten‚â
-‚âReithallenbande aus Nadelholz zur Abgrenzung der Reitfl√§che
-‚âzus√§tzlich/alternativ: Vollholztafeln fest eingebaut
-‚âzus√§tzlich/alternativ: Vollholztafeln, Fertigteile zum Versetzen
+¬†Einbauten
+Reithallenbande aus Nadelholz zur Abgrenzung der Reitfl√§che
+zus√§tzlich/alternativ: Vollholztafeln fest eingebaut
+zus√§tzlich/alternativ: Vollholztafeln, Fertigteile zum Versetzen
 ¬†Abwasser-,\\
 ¬†Wasser-,\\
 ¬†Gasanlagen
@@ -7005,25 +7005,25 @@ zus√§tzlich/alternativ: Metall-Dampfleuchten
 ¬†spezifische\\
 ¬†Anlagen
 keine
-‚âReitbodenbew√§sserung (einfache Ausf√ºhrung)\\
-‚Ä‚ÄSch√ºttw√§nde aus Holz zwischen Stahlst√ºtzen, Trocknungsanlage f√ºr Getreide
-‚âReitbodenbew√§sserung (komfortable Ausf√ºhrung)\\
-‚Ä‚ÄSch√ºttw√§nde aus Beton-Fertigteilen
+Reitbodenbew√§sserung (einfache Ausf√ºhrung)\\
+Sch√ºttw√§nde aus Holz zwischen Stahlst√ºtzen, Trocknungsanlage f√ºr Getreide
+Reitbodenbew√§sserung (komfortable Ausf√ºhrung)\\
+Sch√ºttw√§nde aus Beton-Fertigteilen
 (+++ Anlage 24: Zur Anwendung vgl. ¬ß 205 Abs. 10 +++)
 
 Anlage 25 - (zu ¬ß 191 Absatz 2)Wertzahlen f√ºr Ein- und Zweifamilienh√§user nach ¬ß 181 Absatz 1 Nummer 1 BewG und Wohnungseigentum nach ¬ß 181 Absatz 1 Nummer 3 BewG
 
 (Fundstelle: BGBl. I 2015, 1863)
-†
+
 Bodenrichtwert
 Vorl√§ufiger Sachwert ¬ß 189 Absatz 3
 bis
-†
-15 EUR/m≤
-30 EUR/m≤
-50 EUR/m≤
-100 EUR/m≤
-150 EUR/m≤
+
+15 EUR/m
+30 EUR/m
+50 EUR/m
+100 EUR/m
+150 EUR/m
 bis
 ¬†50¬†000 EUR
 1,0
@@ -7031,42 +7031,42 @@ bis
 1,2
 1,2
 1,2
-†
+
 100¬†000 EUR
 0,8
 0,9
 1,0
 1,1
 1,1
-†
+
 150¬†000 EUR
 0,8
 0,9
 0,9
 1,0
 1,0
-†
+
 200¬†000 EUR
 0,7
 0,8
 0,8
 0,9
 0,9
-†
+
 300¬†000 EUR
 0,6
 0,7
 0,7
 0,8
 0,8
-†
+
 400¬†000 EUR
 0,5
 0,6
 0,7
 0,7
 0,8
-†
+
 500¬†000 EUR
 0,5
 0,6
@@ -7080,17 +7080,17 @@ bis
 0,5
 0,6
 0,7
-†
+
 Bodenrichtwert
 Vorl√§ufiger Sachwert ¬ß 189 Absatz 3
 bis
 √ºber
-†
-200 EUR/m≤
-300 EUR/m≤
-400 EUR/m≤
-500 EUR/m≤
-500 EUR/m≤
+
+200 EUR/m
+300 EUR/m
+400 EUR/m
+500 EUR/m
+500 EUR/m
 bis
 ¬†50¬†000 EUR
 1,3
@@ -7098,42 +7098,42 @@ bis
 1,4
 1,4
 1,5
-†
+
 100¬†000 EUR
 1,1
 1,2
 1,2
 1,3
 1,3
-†
+
 150¬†000 EUR
 1,0
 1,1
 1,1
 1,2
 1,2
-†
+
 200¬†000 EUR
 1,0
 1,1
 1,1
 1,2
 1,2
-†
+
 300¬†000 EUR
 0,9
 1,0
 1,0
 1,1
 1,2
-†
+
 400¬†000 EUR
 0,8
 0,9
 1,0
 1,0
 1,1
-†
+
 500¬†000 EUR
 0,8
 0,9
@@ -7148,23 +7148,23 @@ bis
 0,9
 1,0
 Vorl√§ufiger Sachwert ¬ß 189 Absatz 3
-†
+
 bis
 ¬†¬†500¬†000 EUR
 0,90
-†
+
 ¬†¬†750¬†000 EUR
 0,85
-†
+
 1¬†000¬†000 EUR
 0,80
-†
+
 1¬†500¬†000 EUR
 0,75
-†
+
 2¬†000¬†000 EUR
 0,70
-†
+
 3¬†000¬†000 EUR
 0,65
 √ºber

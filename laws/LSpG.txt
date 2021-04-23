@@ -39,7 +39,7 @@ Es ist verboten, ein Lebensmittel oder Agrarerzeugnis unter
 
 - 1. :: dem Namen einer garantiert traditionellen Spezialität,
 - 2. :: dem Unionszeichen nach Artikel 23 Absatz 2 der Verordnung (EU) Nr. 1151/2012 in Verbindung mit Artikel 2 der Delegierten Verordnung (EU) Nr. 664/2014 der Kommission vom 18. Dezember 2013 zur Ergänzung der Verordnung (EU) Nr. 1151/2012 des Europäischen Parlaments und des Rates im Hinblick auf die Festlegung der EU-Zeichen für geschützte Ursprungsbezeichnungen, geschützte geografische Angaben und garantiert traditionelle Spezialitäten sowie im Hinblick auf bestimmte herkunftsbezogene Vorschriften, Verfahrensvorschriften und zusätzliche Übergangsvorschriften (ABl. L 179 vom 19.6.2014, S. 17) oder
-- 3. :: der Verwendung des Begriffs �garantiert traditionelle Spezialität“
+- 3. :: der Verwendung des Begriffs garantiert traditionelle Spezialität“
 
 in den Verkehr zu bringen, wenn das Erzeugnis nicht der betreffenden Produktspezifikation entspricht.
 
@@ -88,7 +88,7 @@ Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die Durchführu
   - f) :: eine Auskunft nicht, nicht richtig oder nicht vollständig erteilt,
 - 2. :: einer nach § 2 Abs. 2 oder § 4 Abs. 6 erlassenen Rechtsverordnung zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 
-(2a) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig ein Erzeugnis als �garantiert traditionelle Spezialität“ in Verkehr bringt, ohne dass vor der erstmaligen Vermarktung eine Kontrolle nach Artikel 37 Absatz 1 Satz 1 der Verordnung (EU) Nr. 1151/2012 des Europäischen Parlaments und des Rates vom 21. November 2012 über Qualitätsregelungen für Agrarerzeugnisse und Lebensmittel (ABl. L 343 vom 14.12.2012, S. 1) durchgeführt wurde.
+(2a) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig ein Erzeugnis als garantiert traditionelle Spezialität“ in Verkehr bringt, ohne dass vor der erstmaligen Vermarktung eine Kontrolle nach Artikel 37 Absatz 1 Satz 1 der Verordnung (EU) Nr. 1151/2012 des Europäischen Parlaments und des Rates vom 21. November 2012 über Qualitätsregelungen für Agrarerzeugnisse und Lebensmittel (ABl. L 343 vom 14.12.2012, S. 1) durchgeführt wurde.
 (3) Die Ordnungswidrigkeit kann in Fällen des Absatzes 1 mit einer Geldbuße bis zu fünfundzwanzigtausend Euro und in den Fällen der Absätze 2 und 2a mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
 § 9 - Einziehung

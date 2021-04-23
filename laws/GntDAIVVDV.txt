@@ -13,7 +13,7 @@ Inhaltsübersicht
 
 § 1 - Diplomstudium
 
-(1) Der Diplom-Studiengang �Verwaltungsmanagement“ an der Fachhochschule des Bundes für öffentliche Verwaltung (Fachhochschule) ist der Vorbereitungsdienst für die Laufbahn des gehobenen nichttechnischen Dienstes in der allgemeinen und inneren Verwaltung des Bundes.
+(1) Der Diplom-Studiengang Verwaltungsmanagement“ an der Fachhochschule des Bundes für öffentliche Verwaltung (Fachhochschule) ist der Vorbereitungsdienst für die Laufbahn des gehobenen nichttechnischen Dienstes in der allgemeinen und inneren Verwaltung des Bundes.
 (2) Der Diplom-Studiengang wird als Präsenzstudiengang und als Fernstudiengang angeboten.
 
 § 2 - Ziele des Studiums
@@ -99,7 +99,7 @@ Für den Präsenzstudiengang bestimmt die Fachhochschule die Zeiten des Erholung
 Die Diplomprüfung ist die Laufbahnprüfung. Sie besteht aus
 
 - 1. :: der Zwischenprüfung,
-- 2. :: der Prüfung in dem Modul �Sozialwissenschaftliche Grundlagen des Verwaltungshandelns“,
+- 2. :: der Prüfung in dem Modul Sozialwissenschaftliche Grundlagen des Verwaltungshandelns“,
 - 3. :: den Modulprüfungen des Hauptstudiums,
 - 4. :: der Diplomarbeit und
 - 5. :: der mündlichen Abschlussprüfung.
@@ -152,16 +152,16 @@ Prüfende können auch Tarifbeschäftigte sein, sofern sie über eine entspreche
 - 7. :: ein Kurzvortrag.
 
 (5) Die Klausuren sind anstelle des Namens mit einer Kennziffer zu versehen.
-(6) Im Modul �Diplomarbeit“ stellt die Anfertigung der Diplomarbeit die Prüfung dar.
+(6) Im Modul Diplomarbeit“ stellt die Anfertigung der Diplomarbeit die Prüfung dar.
 (7) Modulprüfungen in den Praktika bestehen aus einem Praktikumsbericht und einem Rundgespräch. Daneben fließt in die Bewertung des Moduls auch die Praktikumsbeurteilung nach § 8 Absatz 4 ein. Einzelheiten regelt die Praktikumsordnung des Fachbereichs Allgemeine Innere Verwaltung.
 
 § 13 - Prüfungen im Grundstudium
 
-(1) Das Grundstudium wird mit der Zwischenprüfung und der Prüfung im Modul �Sozialwissenschaftliche Grundlagen des Verwaltungshandelns“ abgeschlossen.
+(1) Das Grundstudium wird mit der Zwischenprüfung und der Prüfung im Modul Sozialwissenschaftliche Grundlagen des Verwaltungshandelns“ abgeschlossen.
 (2) Die Zwischenprüfung besteht aus den Modulprüfungen zu den übrigen Modulen des Grundstudiums. Die Modulprüfungen werden als Klausuren mit einer Bearbeitungszeit von jeweils 180 Minuten durchgeführt. Die Dekanin oder der Dekan des Zentralbereichs wählt aus den Vorschlägen der Lehrkräfte die Klausuraufgaben aus. Die Klausuren sind anstelle des Namens mit einer Kennziffer zu versehen.
-(3) Die Zwischenprüfung ist bestanden, wenn drei Klausuren mindestens mit der Note �ausreichend“ bewertet worden sind und wenn insgesamt in den vier Klausuren mindestens die Durchschnittsrangpunktzahl 5 erreicht worden ist.
+(3) Die Zwischenprüfung ist bestanden, wenn drei Klausuren mindestens mit der Note ausreichend“ bewertet worden sind und wenn insgesamt in den vier Klausuren mindestens die Durchschnittsrangpunktzahl 5 erreicht worden ist.
 (4) Die Fachhochschule stellt den Studierenden über das Ergebnis der bestandenen Zwischenprüfung ein Zeugnis aus, das die erreichten Rangpunkte, die Noten und die Durchschnittsrangpunktzahl enthält. Wer die Zwischenprüfung endgültig nicht bestanden hat, erhält vom Prüfungsamt einen Bescheid mit dem Vermerk über die nicht bestandene Zwischenprüfung sowie eine Bescheinigung über die erbrachten Studienleistungen, aus der hervorgeht, welche Module absolviert wurden, wie sie bewertet wurden und wie viele Leistungspunkte erworben wurden.
-(5) Für die Prüfung im Modul �Sozialwissenschaftliche Grundlagen des Verwaltungshandelns“ gilt § 12 Absatz 4 entsprechend.
+(5) Für die Prüfung im Modul Sozialwissenschaftliche Grundlagen des Verwaltungshandelns“ gilt § 12 Absatz 4 entsprechend.
 
 § 14 - Diplomarbeit
 
@@ -303,7 +303,7 @@ Ist die abschließende Rangpunktzahl höher als 5, wird sie kaufmännisch auf ei
 (1) Wer die Laufbahnprüfung bestanden hat, erhält
 
 - 1. :: ein Abschlusszeugnis,
-- 2. :: eine Urkunde über die Verleihung des Diplomgrades �Diplom-Verwaltungswirtin (FH)“ oder �Diplom-Verwaltungswirt (FH)“ sowie
+- 2. :: eine Urkunde über die Verleihung des Diplomgrades Diplom-Verwaltungswirtin (FH)“ oder Diplom-Verwaltungswirt (FH)“ sowie
 - 3. :: ein Transcript of Records und ein Diploma Supplement.
 
 (2) Das Abschlusszeugnis enthält:

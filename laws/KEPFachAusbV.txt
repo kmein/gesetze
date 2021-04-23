@@ -135,7 +135,7 @@ Zu vermittelnde Fertigkeiten und Kenntnisse
 3
 1
 Der Ausbildungsbetrieb (§ 4 Nr. 1)
-�
+
 1.1
 Stellung, Rechtsform und Struktur des Ausbildungsbetriebes (§ 4 Nr. 1.1)
 a)
@@ -183,7 +183,7 @@ d)
 Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 2
 Arbeitsorganisation (§ 4 Nr. 2)
-�
+
 2.1
 Arbeitsplanung (§ 4 Nr. 2.1)
 a)
@@ -210,7 +210,7 @@ e)
 Sendungsverfolgungs- und Nachweissysteme anwenden
 3
 Kommunikation und Kooperation (§ 4 Nr. 3)
-�
+
 3.1
 Kundenorientierte Kommunikation (§ 4 Nr. 3.1)
 a)
@@ -233,7 +233,7 @@ c)
 zur Vermeidung von Kommunikationsstörungen beitragen und Möglichkeiten der Konfliktlösung anwenden
 4
 Leistungserstellung (§ 4 Nr. 4)
-�
+
 4.1
 Dienstleistungsangebot (§ 4 Nr. 4.1)
 a)
@@ -286,7 +286,7 @@ c)
 Sendungen nachbearbeiten, Maße und Gewichte prüfen, Nachentgelte berechnen
 7
 Auslieferung (§ 4 Nr. 7)
-�
+
 7.1
 Zustellungsvorbereitung (§ 4 Nr. 7.1)
 a)

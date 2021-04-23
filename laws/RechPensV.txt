@@ -11,12 +11,12 @@ Auf Grund des Â§ 330 Abs. 1 in Verbindung mit Abs. 3 und 5 des Handelsgesetzbuch
 InhaltsÃ¼bersicht
 
 Abschnitt 1
- 
+
 Anwendungsbereich
 Â§ 1
 Anwendungsbereich
 Abschnitt 2
- 
+
 Bilanz und Gewinn- und Verlustrechnung
 Â§ 2
 FormblÃ¤tter
@@ -27,14 +27,14 @@ ZusÃ¤tze
 Â§ 5
 Anwendung von Bestimmungen der Verordnung Ã¼ber die Rechnungslegung von Versicherungsunternehmen zur Bilanz und Gewinn- und Verlustrechnung
 Abschnitt 3
- 
+
 Vorschriften zu einzelnen Posten der Bilanz
- 
- 
+
+
 Unterabschnitt 1
- 
- 
- 
+
+
+
 Posten der Aktivseite
 Â§ 6
 VertrÃ¤ge bei Lebensversicherungsunternehmen
@@ -48,12 +48,12 @@ Abrechnungsforderungen aus dem RÃ¼ckversicherungsgeschÃ¤ft
 Forderungen an Lebensversicherungsunternehmen
 Â§ 11
 Sonstige Forderungen
- 
- 
+
+
 Unterabschnitt 2
- 
- 
- 
+
+
+
 Posten der Passivseite
 Â§ 12
 Pensionsfondstechnische RÃ¼ckstellungen
@@ -74,7 +74,7 @@ Abrechnungsverbindlichkeiten aus dem RÃ¼ckversicherungsgeschÃ¤ft
 Â§ 20
 Verbindlichkeiten gegenÃ¼ber Lebensversicherungsunternehmen
 Abschnitt 4
- 
+
 Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung
 Â§ 21
 Gebuchte BruttobeitrÃ¤ge
@@ -103,7 +103,7 @@ Sonstige Aufwendungen
 Â§ 33
 Sonstige Steuern
 Abschnitt 5
- 
+
 Anhang
 Â§ 34
 ZusÃ¤tzliche ErlÃ¤uterungen
@@ -112,24 +112,24 @@ ZusÃ¤tzliche Pflichtangaben
 Â§ 36
 Anwendung von Bestimmungen der Verordnung Ã¼ber die Rechnungslegung von Versicherungsunternehmen zum Zeitwert
 Abschnitt 6
- 
+
 Lagebericht
 Â§ 37
 Lagebericht
 Abschnitt 7
- 
+
 Konzernrechnungslegung
 Â§ 38
 Konzernbilanz und Konzern-Gewinn- und Verlustrechnung
 Â§ 39
 Konzernanhang
 Abschnitt 8
- 
+
 Ordnungswidrigkeiten
 Â§ 40
 Ordnungswidrigkeiten
 Abschnitt 9
- 
+
 Schlussvorschriften
 Â§ 41
 Ãœbergangsvorschriften
@@ -694,33 +694,33 @@ Muster 3
 Provisionen und sonstige BezÃ¼ge der Vertreter, Personal-Aufwendungen
 Vorjahr
 GeschÃ¤ftsjahr
- 
+
 Tsd. Euro
 Tsd. Euro
 1.
 Provisionen jeglicher Art der Vertreter
- 
- 
+
+
 2.
 Sonstige BezÃ¼ge der Vertreter
- 
- 
+
+
 3.
 LÃ¶hne und GehÃ¤lter
- 
- 
+
+
 4.
 Soziale Abgaben und Aufwendungen fÃ¼r UnterstÃ¼tzung
- 
- 
+
+
 5.
 Aufwendungen fÃ¼r Altersversorgung
- 
- 
+
+
 6.
 Aufwendungen insgesamt
- 
- 
+
+
 
 Muster 4
 

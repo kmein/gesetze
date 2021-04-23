@@ -7,14 +7,14 @@ Ausfertigungsdatum: 11.01.2005
 Inhaltsübersicht
 
 Abschnitt 1
-�
+
 Allgemeines
 § 1
 Zweck
 § 2
 Aufgaben
 Abschnitt 2
-�
+
 Sicherheitsmaßnahmen
 § 3
 Allgemeine Befugnisse der Luftsicherheitsbehörde
@@ -45,7 +45,7 @@ Verbotene Gegenstände
 § 12
 Aufgaben und Befugnisse des verantwortlichen Luftfahrzeugführers
 Abschnitt 3
-�
+
 Unterstützung und Amtshilfe durch die Streitkräfte
 § 13
 Entscheidung der Bundesregierung
@@ -54,7 +54,7 @@ Einsatzmaßnahmen, Anordnungsbefugnis
 § 15
 Sonstige Maßnahmen
 Abschnitt 4
-�
+
 Zuständigkeit und Verfahren
 § 16
 Zuständigkeiten
@@ -65,7 +65,7 @@ Ermächtigung zum Erlass von Rechtsverordnungen
 § 17a
 Gebühren und Auslagen; Verordnungsermächtigung
 Abschnitt 5
-�
+
 Bußgeld- und Strafvorschriften
 § 18
 Bußgeldvorschriften
@@ -74,7 +74,7 @@ Strafvorschriften
 § 20
 Bußgeld- und Strafvorschriften zu § 12
 Abschnitt 6
-�
+
 Schlussbestimmung
 § 21
 Grundrechtseinschränkungen
@@ -341,7 +341,7 @@ entspricht. Die Standards nach Satz 2 Nummer 1 gelten als erfüllt, wenn die Sic
 - 3. :: Gegenständen, die ihrer äußeren Form oder ihrer Kennzeichnung nach den Anschein von Waffen, Munition oder explosionsgefährlichen Stoffen erwecken,
 - 4. :: sonstigen in der Anlage 4-C zu Kapitel 4 des Anhangs der Durchführungsverordnung (EU) 2015/1998 genannten Gegenständen
 
-(�verbotene Gegenstände“) in Luftfahrzeugen und in den Bereichen der Luftseite auf Flugplätzen ist verboten. Abweichend von Satz 1 gelten als verbotene Gegenstände
+(verbotene Gegenstände“) in Luftfahrzeugen und in den Bereichen der Luftseite auf Flugplätzen ist verboten. Abweichend von Satz 1 gelten als verbotene Gegenstände
 
 - 1. :: in aufgegebenem Gepäck die in Anlage 5-B zu Kapitel 5 des Anhangs der Durchführungsverordnung (EU) 2015/1998 genannten Gegenstände;
 - 2. :: in Fracht und Post die in Ziffer 6.0.2. des Anhangs der Durchführungsverordnung (EU) 2015/1998 genannten Gegenstände;

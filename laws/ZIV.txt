@@ -11,7 +11,7 @@ Auf Grund des § 45e des Einkommensteuergesetzes in der Fassung der Bekanntmachu
 Inhaltsübersicht
 
 Abschnitt 1
-�
+
 Allgemeine Bestimmungen
 § 1
 Zielsetzung
@@ -28,14 +28,14 @@ Definition der Zinszahlung
 § 7
 Räumlicher Geltungsbereich
 Abschnitt 2
-�
+
 Datenübermittlung
 § 8
 Datenübermittlung durch die Zahlstelle
 § 9
 Datenerhebung und Datenübermittlung durch das Bundeszentralamt für Steuern
 Abschnitt 3
-�
+
 Übergangsbestimmungen
 § 10
 Übergangszeitraum
@@ -50,7 +50,7 @@ Vermeidung der Doppelbesteuerung
 § 15
 Umlauffähige Schuldtitel
 Abschnitt 4
-�
+
 Anwendungs- und Schlussbestimmungen
 § 16
 Andere Quellensteuern
@@ -274,7 +274,7 @@ Folgende Einrichtungen sind als "mit der Regierung verbundene Einrichtungen, die
           Communaute francaise (Französische Gemeinschaft)
           Communaute flamande (Vlaamse Gemeenschap) (Flämische Gemeinschaft)
           Communaute germanophone (Deutschsprachige Gemeinschaft)
-        - Bulgarien :: �бщините (Städte und Gemeinden)\\
+        - Bulgarien :: бщините (Städte und Gemeinden)\\
           Социалноосигурителни фондове (Sozialversicherungsfonds)
         - Spanien :: Xunta de Calicia (Regierung der autonomen Gemeinschaft Galicien)
           Junta de Andalucia (Regierung der autonomen Gemeinschaft Andalusien)

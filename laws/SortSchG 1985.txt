@@ -559,7 +559,7 @@ Fundstelle des Originaltextes: BGBl. I 1997, 3176
 Arten, von denen Vermehrungsmaterial nachgebaut werden kann:
 1.
 Getreide
-†
+
 1.1
 Avena sativa L.
 Hafer
@@ -583,7 +583,7 @@ Triticum spelta L.
 Spelz
 2.
 Futterpflanzen
-†
+
 2.1
 Lupinus luteus L.
 Gelbe Lupine
@@ -607,7 +607,7 @@ Vicia sativa L.
 Saatwicke
 3.
 √ñl- und Faserpflanzen
-†
+
 3.1
 Brassica napus L (partim)
 Raps
@@ -619,7 +619,7 @@ Linum usitatissimum L.
 Lein, au√üer Faserlein
 4.
 Kartoffel
-†
+
 4.1
 Solanum tuberosum L.
 Kartoffel

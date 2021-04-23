@@ -15,23 +15,23 @@ Auf Grund des § 108 Abs. 2 des Telekommunikationsgesetzes vom 22. Juni 2004 (BG
 
 Im Sinne dieser Verordnung ist
 
-- 1. :: �E-Call” die Notrufverbindung mit Ursprung in Mobilfunknetzen,
+- 1. :: E-Call” die Notrufverbindung mit Ursprung in Mobilfunknetzen,
   - a) :: die mittels in Kraftfahrzeugen eingebauter Einrichtungen unter Aussendung der der Notrufnummer 112 entsprechenden Signalisierungsinformation entweder manuell oder im Falle eines erheblichen Unfalls automatisch durch die Fahrzeugelektronik eingeleitet wird,
   - b) :: die durch die Notdienstkategoriewerte 6 oder 7 gekennzeichnet ist und
   - c) :: zu deren Beginn ein europaeinheitlich standardisierter Datensatz an die Notrufabfragestelle übermittelt wird;
-- 1a. :: �Einzugsgebiet“ der aus einem oder mehreren Notrufursprungsbereichen bestehende örtliche Zuständigkeitsbereich einer Notrufabfragestelle;
-- 1b. :: �Notdienstkategoriewert” ein durch die Zahlen 1 bis 8 angegebener Wert, den mobile Endgeräte im Rahmen des Verbindungsaufbaus zusätzlich an ein Mobilfunknetz übermitteln können, um dadurch dem Netz besondere Arten des Notrufs anzuzeigen;
-- 2. :: �Notrufabfragestelle“ die nach Landesrecht zuständige Stelle zur Entgegennahme von Notrufen;
-- 3. :: �Notrufanschluss“ der Anschluss einer Notrufabfragestelle an ein Telekommunikationsnetz, der je nach technischer Ausgestaltung ausschließlich genutzt wird für die Entgegennahme
+- 1a. :: Einzugsgebiet“ der aus einem oder mehreren Notrufursprungsbereichen bestehende örtliche Zuständigkeitsbereich einer Notrufabfragestelle;
+- 1b. :: Notdienstkategoriewert” ein durch die Zahlen 1 bis 8 angegebener Wert, den mobile Endgeräte im Rahmen des Verbindungsaufbaus zusätzlich an ein Mobilfunknetz übermitteln können, um dadurch dem Netz besondere Arten des Notrufs anzuzeigen;
+- 2. :: Notrufabfragestelle“ die nach Landesrecht zuständige Stelle zur Entgegennahme von Notrufen;
+- 3. :: Notrufanschluss“ der Anschluss einer Notrufabfragestelle an ein Telekommunikationsnetz, der je nach technischer Ausgestaltung ausschließlich genutzt wird für die Entgegennahme
   - a) :: von Notrufverbindungen einschließlich der zugehörigen Daten oder
   - b) :: der den Notruf begleitenden Daten;
-- 4. :: �Notrufcodierung“ die Nummer mit mindestens einer von den Ziffern 0 bis 9 verschiedenen hexadezimalen Ziffer, mit der in öffentlichen Telefonnetzen ein Notrufanschluss adressiert wird;
-- 5. :: �Notrufursprungsbereich“ das geografisch zusammenhängende Gebiet, aus dem alle unter der Notrufnummer 110 oder 112 eingeleiteten Notrufverbindungen aus einem Telekommunikationsnetz zum selben der jeweiligen Notrufnummer zugeordneten Notrufanschluss gelenkt werden;
-- 6. :: �Notrufverbindung“ die Telefon- oder Telefaxverbindung, die zu einem Notrufanschluss über einen öffentlich zugänglichen Telekommunikationsdienst für das Führen von ausgehenden Inlandsgesprächen zu einer oder mehreren Nummern des nationalen Telefonnummernplans aufgebaut wird; die Telefon- oder Telefaxverbindung wird eingeleitet durch Wahl einer Notrufnummer oder durch Aussenden einer in den technischen Standards für die Gestaltung von Telekommunikationsnetzen ausschließlich für Notruf vorgesehenen Signalisierungsinformation, wobei das Endgerät zum Aussenden der Notrufnummer oder der entsprechenden Signalisierungsinformation veranlasst wird durch
+- 4. :: Notrufcodierung“ die Nummer mit mindestens einer von den Ziffern 0 bis 9 verschiedenen hexadezimalen Ziffer, mit der in öffentlichen Telefonnetzen ein Notrufanschluss adressiert wird;
+- 5. :: Notrufursprungsbereich“ das geografisch zusammenhängende Gebiet, aus dem alle unter der Notrufnummer 110 oder 112 eingeleiteten Notrufverbindungen aus einem Telekommunikationsnetz zum selben der jeweiligen Notrufnummer zugeordneten Notrufanschluss gelenkt werden;
+- 6. :: Notrufverbindung“ die Telefon- oder Telefaxverbindung, die zu einem Notrufanschluss über einen öffentlich zugänglichen Telekommunikationsdienst für das Führen von ausgehenden Inlandsgesprächen zu einer oder mehreren Nummern des nationalen Telefonnummernplans aufgebaut wird; die Telefon- oder Telefaxverbindung wird eingeleitet durch Wahl einer Notrufnummer oder durch Aussenden einer in den technischen Standards für die Gestaltung von Telekommunikationsnetzen ausschließlich für Notruf vorgesehenen Signalisierungsinformation, wobei das Endgerät zum Aussenden der Notrufnummer oder der entsprechenden Signalisierungsinformation veranlasst wird durch
   - a) :: Eingabe einer Notrufnummer über die Zifferntasten,
   - b) :: Betätigen einer ausschließlich für Notruf vorgesehenen Taste oder Tastenkombination oder
   - c) :: einen entsprechenden Auslösemechanismus;
-- 7. :: �Telefondiensteanbieter“ wer öffentlich zugängliche Telekommunikationsdienste für das Führen von ausgehenden Inlandsgesprächen zu einer oder mehreren Nummern des nationalen Telefonrufnummernplans erbringt.
+- 7. :: Telefondiensteanbieter“ wer öffentlich zugängliche Telekommunikationsdienste für das Führen von ausgehenden Inlandsgesprächen zu einer oder mehreren Nummern des nationalen Telefonrufnummernplans erbringt.
 
 
 § 3 - Einzugsgebiete
@@ -60,7 +60,7 @@ Vorgaben zur Genauigkeit und Zuverlässigkeit der Standortfeststellung werden in
 
 Die übrigen an der Notrufverbindung beteiligten Diensteanbieter haben dafür zu sorgen, dass diese Daten an die Notrufabfragestelle übermittelt werden. Die technischen Verfahren für die Übermittlung dieser Daten werden in der Technischen Richtlinie nach § 6 festgelegt.
 
-(5) Der Telefondiensteanbieter, in dessen Bereich die Notrufverbindung ihren Ursprung hat, hat sicherzustellen, dass die Wahl der Ziffernfolge �110“ oder �112“, der andere Ziffern vorangehen, nicht zu einer Verbindung zu einer Notrufabfragestelle führt. Dies gilt nicht für das Voranstellen von Kennzahlen zur Betreiberauswahl. Eine Notrufverbindung ist ungeachtet der Notrufnummer folgender Ziffern unverzüglich zu der zuständigen Notrufabfragestelle herzustellen. Die an der Herstellung einer Notrufverbindung beteiligten Telefondiensteanbieter und Netzbetreiber haben sicherzustellen, dass Notrufverbindungen mit einem vom Netz festgestellten Ursprung im Ausland nicht zu Notrufanschlüssen im Inland hergestellt oder weitergeleitet werden.
+(5) Der Telefondiensteanbieter, in dessen Bereich die Notrufverbindung ihren Ursprung hat, hat sicherzustellen, dass die Wahl der Ziffernfolge 110“ oder 112“, der andere Ziffern vorangehen, nicht zu einer Verbindung zu einer Notrufabfragestelle führt. Dies gilt nicht für das Voranstellen von Kennzahlen zur Betreiberauswahl. Eine Notrufverbindung ist ungeachtet der Notrufnummer folgender Ziffern unverzüglich zu der zuständigen Notrufabfragestelle herzustellen. Die an der Herstellung einer Notrufverbindung beteiligten Telefondiensteanbieter und Netzbetreiber haben sicherzustellen, dass Notrufverbindungen mit einem vom Netz festgestellten Ursprung im Ausland nicht zu Notrufanschlüssen im Inland hergestellt oder weitergeleitet werden.
 (6) Das automatische Herstellen einer Notrufverbindung ohne unmittelbares Tätigwerden eines Menschen ist nicht zulässig.
 (7) In Fällen, in denen das für die Notrufverbindung genutzte Endgerät über Informationen über seinen Standort verfügt, dürfen diese Informationen nach festgelegten Verfahren automatisch an die Notrufabfragestelle gesendet werden.
 (8) Für Notrufverbindungen aus Mobilfunknetzen gilt ergänzend:
@@ -74,7 +74,7 @@ Die übrigen an der Notrufverbindung beteiligten Diensteanbieter haben dafür zu
   - a) :: bei Angabe des Notdienstkategoriewertes 1: Herstellen einer Notrufverbindung zu den für die Notrufnummer 110 festgelegten Zielen;
   - b) :: bei Angabe der Notdienstkategoriewerte 2 bis 7: Herstellen einer Notrufverbindung zu den für die Notrufnummer 112 festgelegten Zielen.
 
-  Zusätzlich ist im Falle der Angabe des Notdienstkategoriewertes 6 die Information �manuell ausgelöster E-Call“, im Falle der Angabe des Notdienstkategoriewertes 7 die Information �automatisch ausgelöster E-Call“ zeitgleich mit der Herstellung der Notrufverbindung an die jeweilige Notrufabfragestelle zu übermitteln.
+  Zusätzlich ist im Falle der Angabe des Notdienstkategoriewertes 6 die Information manuell ausgelöster E-Call“, im Falle der Angabe des Notdienstkategoriewertes 7 die Information automatisch ausgelöster E-Call“ zeitgleich mit der Herstellung der Notrufverbindung an die jeweilige Notrufabfragestelle zu übermitteln.
 
 
 § 5 - Anforderungen an Notrufanschlüsse
@@ -100,7 +100,7 @@ Die technischen Einzelheiten zu § 3 Absatz 1 Satz 2 Halbsatz 1 und Absatz 2, zu
 
 (1) Bis zum 30. April 2009 in Betrieb genommene öffentliche Münz- oder Kartentelefone nach § 78 Absatz 2 Nummer 5 des Telekommunikationsgesetzes, die Notrufverbindungen mit nur einer der Notrufnummern 112 oder 110 aufbauen können, dürfen bis zum 31. Dezember 2013 betrieben werden.
 (2) Notrufanschlüsse auf Basis der zum Zeitpunkt des Inkrafttretens dieser Verordnung bestehenden Technik für Notrufanschlüsse können bis zum 31. Dezember des dritten Jahres, das auf das Inkrafttreten der Technischen Richtlinie nach § 6 folgt, neu eingerichtet werden. Zu diesem Zeitpunkt bestehende Notrufanschlüsse können im Rahmen der technischen Möglichkeiten der verfügbaren Telekommunikationsnetze weiter betrieben werden.
-(3) Für Notrufverbindungen aus Mobilfunknetzen ist es zulässig, dass eine Übermittlung von als Telefaxverbindung ausgestalteten Notrufen unter der Notrufnummer �112“ nicht sichergestellt ist, solange zum Zeitpunkt des Inkrafttretens dieser Verordnung geltende internationale Standards dies vorsehen.
+(3) Für Notrufverbindungen aus Mobilfunknetzen ist es zulässig, dass eine Übermittlung von als Telefaxverbindung ausgestalteten Notrufen unter der Notrufnummer 112“ nicht sichergestellt ist, solange zum Zeitpunkt des Inkrafttretens dieser Verordnung geltende internationale Standards dies vorsehen.
 (4) Für die Beschreibung der Einzugsgebiete und Notrufursprungsbereiche nach § 3 Absatz 1 Satz 2 erster Halbsatz kann die Bundesnetzagentur im Vorgriff auf die Technische Richtlinie nach § 6 ein vorläufiges Verfahren bereitstellen.
 (5) (weggefallen)
 (6) Abweichend von § 4 Absatz 4 Satz 1 Nummer 2 ist es bis zum Ablauf des in der Technischen Richtlinie nach § 6 festzulegenden Übergangszeitraums für die Umsetzung von auf internationalen Standards beruhenden Festlegungen zur Übermittlung der Angaben zum Standort des für die Notrufverbindung genutzten Endgerätes ausreichend, dass die Telefondiensteanbieter in Fällen von Notrufen von Anschlüssen, deren Nutzung nur ortsgebunden möglich ist, Standortangaben zum Abruf in dem automatisierten Auskunftsverfahren nach § 112 des Telekommunikationsgesetzes auf der Grundlage der an die Notrufabfragestelle übermittelten Rufnummern bereithalten.

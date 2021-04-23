@@ -215,12 +215,12 @@ Anwenden von Informationssystemen und Kommunikationstechniken\\
 
 3*)
 
-�
+
 
 - e) :: Gesprächsprotokolle erstellen
 - f) :: Präsentation vorbereiten und durchführen
 
-�
+
 
 3*)
 
@@ -240,14 +240,14 @@ Planen, Vorbereiten und Steuern von Arbeitsabläufen, Arbeiten im Team\\
 
 5*)
 
-�
+
 
 - i) :: Arbeitsabläufe und Arbeitszusammenhänge erkennen, Möglichkeiten zur Verbesserung vorschlagen und nutzen
 - j) :: Abstimmungen mit den am Bau Beteiligten treffen; Störungen im Arbeitsablauf erkennen und Maßnahmen ergreifen
 - k) :: Sachverhalte darstellen
 - l) :: Zeitaufwand und personelle Unterstützung abschätzen, Zeitaufwand dokumentieren
 
-�
+
 
 4*)
 
@@ -264,7 +264,7 @@ Lesen und Anwenden von technischen Unterlagen\\
 
 6
 
-�
+
 
 8
 
@@ -295,7 +295,7 @@ Mischungen
 
 22
 
-�
+
 
 Baurohstoffe
 
@@ -308,7 +308,7 @@ Bindemittel
 
 - o) :: Einfluss der Bindemitteleigenschaften auf die Produktqualität beachten
 
-�
+
 
 10
 
@@ -326,11 +326,11 @@ Durchführen von Probenahmen und Herstellen von Proben\\
 
 7
 
-�
+
 
 - g) :: Probekörper, insbesondere durch Sägen, Schleifen und Abgleichen, vorbereiten
 
-�
+
 
 2
 
@@ -348,11 +348,11 @@ Anwenden von Regelwerken\\
 
 6
 
-�
+
 
 - g) :: Normkonformität prüfen und bestimmen
 
-�
+
 
 3
 
@@ -367,12 +367,12 @@ Anwenden von Labortechnik\\
 
 6
 
-�
+
 
 - d) :: Störungen an Geräten und Einrichtungen erkennen und Maßnahmen zur Behebung ergreifen
 - e) :: Laborgeräte kalibrieren und justieren
 
-�
+
 
 3
 
@@ -399,7 +399,7 @@ Chemische Methoden
 
 12
 
-�
+
 
 Physikalische Methoden
 
@@ -419,7 +419,7 @@ Chemische Methoden
 - u) :: Kationen und Anionen nachweisen
 - v) :: gravimetrische und volumetrische Bestimmungen durchführen; Reaktionen darstellen
 
-�
+
 
 12
 
@@ -434,7 +434,7 @@ Kontrollieren und Bewerten von Arbeitsergebnissen\\
 - d) :: Prüfergebnisse nach Vorgaben aus Regelwerken bewerten, bei Abweichungen Maßnahmen ergreifen und einleiten
 - e) :: Sicherheitskonzepte unterscheiden
 
-�
+
 
 5
 
@@ -448,7 +448,7 @@ Verarbeiten, Auswerten, Aufbereiten und Dokumentieren von Daten\\
 
 3
 
-�
+
 
 - c) :: rechnergestützte Verfahren zum Erstellen von Untersuchungsergebnissen, Tabellen, Datenbanken und Grafiken anwenden
 - d) :: Aufbewahrungsfristen für Daten aus Laboruntersuchungen und Produktionskontrollen beachten
@@ -456,7 +456,7 @@ Verarbeiten, Auswerten, Aufbereiten und Dokumentieren von Daten\\
 - f) :: fachspezifische Software anwenden
 - g) :: fotografische Abbildungen zur Dokumentation herstellen und bearbeiten
 
-�
+
 
 5
 
@@ -469,7 +469,7 @@ Betriebswirtschaft, Kundenorientierung\\
 
 2
 
-�
+
 
 - b) :: Leistungsverzeichnisse unter Berücksichtigung von betriebswirtschaftlichen Abläufen und der Kostenplanung umsetzen
 - c) :: Gespräche situationsgerecht führen
@@ -477,7 +477,7 @@ Betriebswirtschaft, Kundenorientierung\\
 - e) :: Reklamationen entgegennehmen und weiterleiten
 - f) :: Leistungen erfassen und berechnen
 
-�
+
 
 3
 
@@ -493,18 +493,18 @@ Durchführen von qualitätssichernden Maßnahmen\\
 
 6*)
 
-�
+
 
 - e) :: Aufgaben und Ziele von qualitätssichernden Maßnahmen anhand betrieblicher Beispiele erläutern und zur Verbesserung der Arbeit im eigenen Arbeitsbereich beitragen
 - f) :: Wartungsintervalle an Geräten einhalten und Kontrollmessungen durchführen
 
-�
+
 
 2*)
 
 - *) :: Sind im Zusammenhang mit anderen im Ausbildungsrahmenplan aufgeführten Ausbildungsinhalten zu vermitteln.
 
-�
+
 
 II. Fertigkeiten und Kenntnisse in den Schwerpunkten
 
@@ -521,7 +521,7 @@ Anwenden von Arbeitsstoffen, Baurohstoffen, Bindemitteln, Mischungen und Recycli
 - d) :: Methoden und Wirkungsweisen von Bodenverbesserungen und -verfestigung unterscheiden
 - e) :: Einbau- und Verdichtungsmethoden von Böden auswählen
 
-�
+
 
 8
 
@@ -534,7 +534,7 @@ Anwenden von Regelwerken\\
 - b) :: Bodengruppen und -klassen nach Normen bestimmen
 - c) :: Fels nach Regelwerken bestimmen
 
-�
+
 
 2
 
@@ -573,11 +573,11 @@ Vermessungen
 - t) :: Längen- und Höhenmessungen, insbesondere Einfluchten einer Geraden, Staffel- und Winkelmessung, durchführen
 - u) :: Vermessungsgeräte, insbesondere zur Lage- und Höhenmessung, kalibrieren, einrichten, bedienen und in Stand halten
 
-�
+
 
 16
 
-�
+
 
 B. Mörtel- und Betontechnik
 
@@ -589,7 +589,7 @@ Anwenden von Arbeitsstoffen, Baurohstoffen, Bindemitteln, Mischungen und Recycli
 - a) :: Estriche, Putze, Mörtel und Betone nach Arten und Verwendungszweck unterscheiden
 - b) :: Rezepturen nach Regelwerken erstellen und auf Normkonformität prüfen
 
-�
+
 
 4
 
@@ -605,7 +605,7 @@ Durchführen von Probenahmen und Herstellen von Proben\\
 - e) :: Wasser- und Restwasser entnehmen und veränderliche Parameter prüfen
 - f) :: Probekörper aus Frischmörtel und -betonen herstellen
 
-�
+
 
 4
 
@@ -620,7 +620,7 @@ Anwenden von Regelwerken\\
 - d) :: Betonsorten zu einer Betonfamilie zusammenstellen und deren Normkonformität ermitteln
 - e) :: Betone in Abhängigkeit von den Umweltbedingungen den Expositionsklassen zuordnen
 
-�
+
 
 5
 
@@ -645,11 +645,11 @@ Durchführen von Messungen und Prüfungen\\
 - n) :: Betondeckung und Bewehrungsabstände prüfen
 - o) :: Wasserrückhaltevermögen von Betonen und Mörtel prüfen
 
-�
+
 
 13
 
-�
+
 
 C. Asphalttechnik
 
@@ -663,7 +663,7 @@ Anwenden von Arbeitsstoffen, Baurohstoffen, Bindemitteln, Mischungen und Recycli
 - c) :: bitumenhaltige Bindemittel nach Sorten und Verarbeitbarkeit unterscheiden und dem Verwendungszweck zuordnen
 - d) :: Zusammensetzung von Probemischungen für Prüfungszwecke berechnen
 
-�
+
 
 4
 
@@ -679,7 +679,7 @@ Durchführen von Probenahmen und Herstellen von Proben\\
 - e) :: Messproben für Prüfungen an Asphalt herstellen
 - f) :: Asphaltschichten, insbesondere durch Sägen, trennen
 
-�
+
 
 6
 
@@ -692,7 +692,7 @@ Anwenden von Regelwerken\\
 - b) :: Aufbau des Asphaltoberbaus unterscheiden, Vorschriften anwenden
 - c) :: Asphaltarten und -sorten unterscheiden, Vorschriften anwenden
 
-�
+
 
 2
 
@@ -716,6 +716,6 @@ Durchführen von Messungen und Prüfungen\\
 - m) :: Verwitterungsbeständigkeit von Gesteinskörnungen, insbesondere Wasseraufnahme, Frost- und Frost-Tausalz-Widerstand, prüfen
 - n) :: Prüfverfahren für Zertrümmerungs- und Polierwiderstand von Gesteinskörnungen anwenden
 
-�
+
 
 14

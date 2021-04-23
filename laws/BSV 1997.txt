@@ -94,32 +94,32 @@ Der Beitragssatz für das Jahr 1997 beträgt in der Rentenversicherung der Arbei
 (1) Die auf Grund des vorläufigen Durchschnittsentgelts und des Beitragssatzes für das Jahr 1997 berechneten Faktoren betragen im Jahre 1997\\
 1.
 in der Rentenversicherung der Arbeiter und der Angestellten für die Umrechnung
-�
+
 a)
 von Entgeltpunkten in Beiträge
 10.922,6180,
-�
+
 von Entgeltpunkten (Ost) in Beiträge
 9.385,3050,
 b)
 von Beiträgen, Barwerten, Deckungskapitalien und vergleichbaren Deckungsrücklagen in Entgeltpunkte
 0,0000915531,
-�
+
 von Beiträgen in Entgeltpunkte (Ost)
 0,0001065495,
 2.
 in der knappschaftlichen Rentenversicherung für die Umrechnung
-�
+
 a)
 von Entgeltpunkten in Beiträge
 14.473,8140,
-�
+
 von Entgeltpunkten (Ost) in Beiträge
 12.436,6850,
 b)
 von Beiträgen in Entgeltpunkte
 0,0000690903,
-�
+
 von Beiträgen in Entgeltpunkte (Ost)
 0,0000804073.
 (2) Entgeltpunkte werden in Beiträge umgerechnet, indem sie mit dem im Zeitpunkt der Beitragsentrichtung maßgebenden Umrechnungsfaktor vervielfältigt werden.

@@ -87,7 +87,7 @@ Satz 4 Nummer 2 gilt nicht, soweit eine Rechtsverordnung nach § 5 Absatz 1 etwa
 - 1. :: wegen Nichtvorliegens der für die Ausübung der Berufstätigkeit erforderlichen Kenntnisse der deutschen Sprache oder
 - 2. :: aus sonstigen Gründen nicht erteilt werden kann oder widerrufen, zurückgenommen oder das Ruhen der Approbation angeordnet worden ist.
 
-In dem Bescheid ist ausdrücklich darauf hinzuweisen, dass die Feststellung der Gleichwertigkeit des Ausbildungsnachweises nicht zur Ausübung des tierärztlichen Berufs oder zur Führung des Titels �Tierarzt“ oder �Tierärztin“ berechtigt.
+In dem Bescheid ist ausdrücklich darauf hinzuweisen, dass die Feststellung der Gleichwertigkeit des Ausbildungsnachweises nicht zur Ausübung des tierärztlichen Berufs oder zur Führung des Titels Tierarzt“ oder Tierärztin“ berechtigt.
 
 (3c) Im Fall des § 81a des Aufenthaltsgesetzes soll der Bescheid nach § 4 Absatz 1a Satz 8, auch in Verbindung mit Absatz 3 Satz 2, sowie nach § 4 Absatz 2 Satz 7 innerhalb von zwei Monaten erteilt werden.
 (4) Soll die Erteilung der Approbation wegen Fehlens einer der in Absatz 1 Nr. 2 und 3 genannten Voraussetzungen abgelehnt werden, so ist der Antragsteller oder sein gesetzlicher Vertreter vorher zu hören.
@@ -233,10 +233,10 @@ Eine Untersagung nach Nummer 4 erlischt mit Zugang der Meldung nach Absatz 2 Sat
 § 13a
 
 (1) Die zuständige Behörde unterrichtet die zuständigen Behörden der anderen Mitgliedstaaten der Europäischen Union oder der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum oder der Vertragsstaaten, denen Deutschland und die Europäische Gemeinschaft oder Deutschland und die Europäische Union vertraglich einen entsprechenden Rechtsanspruch eingeräumt haben, über den Widerruf, die Rücknahme und das Ruhen einer Approbation oder einer Erlaubnis nach § 11 Absatz 1a sowie über sonstige Verbote oder Beschränkungen der tierärztlichen Berufstätigkeit, sofern die jeweilige behördliche Maßnahme oder gerichtliche Entscheidung vollziehbar oder unanfechtbar ist.
-(2) Zur Erfüllung der in Absatz 1 genannten Aufgaben übermittelt die zuständige Behörde an das Binnenmarkt-Informationssystem nach der Verordnung (EU) Nr. 1024/2012 des Europäischen Parlaments und des Rates vom 25. Oktober 2012 über die Verwaltungszusammenarbeit mit Hilfe des Binnenmarkt-Informationssystems und zur Aufhebung der Entscheidung 2008/49/EG der Kommission (�IMI-Verordnung“) (ABl. L 316 vom 14.11.2012, S. 1) in der jeweils geltenden Fassung spätestens drei Tage nach Eintritt der Vollziehbarkeit oder Unanfechtbarkeit der jeweiligen Maßnahme oder Entscheidung die folgenden Angaben:
+(2) Zur Erfüllung der in Absatz 1 genannten Aufgaben übermittelt die zuständige Behörde an das Binnenmarkt-Informationssystem nach der Verordnung (EU) Nr. 1024/2012 des Europäischen Parlaments und des Rates vom 25. Oktober 2012 über die Verwaltungszusammenarbeit mit Hilfe des Binnenmarkt-Informationssystems und zur Aufhebung der Entscheidung 2008/49/EG der Kommission (IMI-Verordnung“) (ABl. L 316 vom 14.11.2012, S. 1) in der jeweils geltenden Fassung spätestens drei Tage nach Eintritt der Vollziehbarkeit oder Unanfechtbarkeit der jeweiligen Maßnahme oder Entscheidung die folgenden Angaben:
 
 - 1. :: den vollständigen Namen der betroffenen Person einschließlich akademischer Titel, Geburtsdatum und den Namen und den Ort der Niederlassung der tierärztlichen Praxis oder der tierärztlichen Klinik, die die betroffene Person betreibt oder in der sie tätig ist,
-- 2. :: neben dem Beruf �Tierärztin“ oder �Tierarzt“ gegebenenfalls Zusatzbezeichnungen und Fachtierarzttitel,
+- 2. :: neben dem Beruf Tierärztin“ oder Tierarzt“ gegebenenfalls Zusatzbezeichnungen und Fachtierarzttitel,
 - 3. :: die Bezeichnung der Behörde oder des Gerichts, die oder das die jeweilige Verfügung oder Entscheidung erlassen hat, sowie die Adresse der Behörde, die die Angaben übermittelt,
 - 4. :: den Inhalt und Umfang sowie den Zeitraum der Wirksamkeit der jeweiligen Maßnahme oder Entscheidung nach Satz 1 und
 - 5. :: die Rechtsbehelfe, die gegen anfechtbare Maßnahmen oder Entscheidungen nach Satz 1 eingelegt worden sind.
@@ -299,7 +299,7 @@ Eine Genehmigung nach Satz 1 darf nicht erteilt werden, wenn dem Antragsteller e
 
 (2) In der Genehmigung sind der Inhalt und Umfang der genehmigten tierärztlichen Tätigkeiten abschließend zu beschreiben. In der Genehmigung ist ferner auf die Verpflichtung des Genehmigungsinhabers nach Artikel 4f Absatz 5 Satz 3 der Richtlinie 2005/36/EG hinzuweisen.
 (3) Für das Verfahren auf Erteilung der Genehmigung nach Absatz 1 Satz 1 gilt § 4 Absatz 4, 5 und 6 Satz 1 Nummer 1 bis 4 und 7 sowie die Sätze 2 und 3, letzterer mit der Maßgabe, dass eine Bestätigung darüber, dass der Antragsteller die Mindestanforderungen der Ausbildung erfüllt, die in Artikel 38 der Richtlinie 2005/36/EG verlangt werden, nicht erforderlich ist, entsprechend. Ferner sind Nachweise vorzulegen, um das Vorliegen der Voraussetzungen nach Absatz 1 Satz 2 Nummer 2 und 3 feststellen zu können.
-(4) Der Inhaber der Genehmigung nach Absatz 1 Satz 1 führt, auch abweichend von § 3, die in dem Herkunftsmitgliedstaat verwendete Berufsbezeichnung in deutscher Übersetzung. Besteht die Gefahr einer Verwechslung mit der im Inland verwendeten Berufsbezeichnung oder sonstigen im Inland verwendeten tierärztlichen Titeln, wird die Berufsbezeichnung zur Klarstellung, dass der Genehmigungsinhaber keine inländische Approbation besitzt, durch einen Klammerzusatz mit der Bezeichnung des Herkunftsmitgliedstaates oder durch die Worte �ohne Approbation“ ergänzt. Der Genehmigungsinhaber steht hinsichtlich der genehmigten tierärztlichen Tätigkeiten approbierten Tierärzten gleich. Er kann den berufsständischen, gesetzlichen oder verwaltungsrechtlichen Berufsregeln und den geltenden Disziplinarbestimmungen unterworfen werden.
+(4) Der Inhaber der Genehmigung nach Absatz 1 Satz 1 führt, auch abweichend von § 3, die in dem Herkunftsmitgliedstaat verwendete Berufsbezeichnung in deutscher Übersetzung. Besteht die Gefahr einer Verwechslung mit der im Inland verwendeten Berufsbezeichnung oder sonstigen im Inland verwendeten tierärztlichen Titeln, wird die Berufsbezeichnung zur Klarstellung, dass der Genehmigungsinhaber keine inländische Approbation besitzt, durch einen Klammerzusatz mit der Bezeichnung des Herkunftsmitgliedstaates oder durch die Worte ohne Approbation“ ergänzt. Der Genehmigungsinhaber steht hinsichtlich der genehmigten tierärztlichen Tätigkeiten approbierten Tierärzten gleich. Er kann den berufsständischen, gesetzlichen oder verwaltungsrechtlichen Berufsregeln und den geltenden Disziplinarbestimmungen unterworfen werden.
 (5) Die Genehmigung nach Absatz 1 Satz 1 ist zu widerrufen, wenn nachträglich eine der Voraussetzungen nach § 4 Absatz 1 Nummer 2 weggefallen ist. Sie kann widerrufen werden, wenn nachträglich eine der Voraussetzungen nach § 4 Absatz 1 Nummer 3 weggefallen ist. Die Genehmigung nach Absatz 1 Satz 1 kann zurückgenommen werden, wenn bei ihrer Erteilung eine der Voraussetzungen nach § 4 Absatz 1 Nummer 2 oder 3 nicht gegeben war.
 (6) Für die Anordnung des Ruhens der Genehmigung nach Absatz 1 Satz 1 gilt § 8 entsprechend.
 (7) Die Entscheidungen nach Absatz 1 trifft die zuständige Behörde des Landes, in dem die genehmigte Tätigkeit ausgeübt werden soll. Die Entscheidungen nach den Absätzen 5 und 8 in Verbindung mit § 4 Absatz 1c Satz 2 trifft die zuständige Behörde des Landes, in dem die genehmigte Tätigkeit ausgeübt wird oder zuletzt ausgeübt worden ist. Für die Entgegennahme der Verzichtserklärung nach § 10 gilt Satz 2 entsprechend. Die Entscheidungen über die Erteilung oder Versagung einer Genehmigung nach Absatz 1 sollen im Benehmen mit dem Bundesministerium für Ernährung und Landwirtschaft getroffen werden.
@@ -355,7 +355,7 @@ en médecine vétérinaire
 --
 De universiteiten/\\
 Les universités
-�
+
 21.12.1980
 --
 De bevoegde Examencommissie\\
@@ -368,12 +368,12 @@ d´enseignement de la Communauté française
 образователно-\\
 квалификационна
 --
-�\
+\
 университет\\
 София\\
 Факултет Ветеринарна\\
 медицина
-�
+
 1.1.2007
 степен магистър по\\
 специалност Ветеринарна\\
@@ -392,7 +392,7 @@ Diplom o ukončení studia ve studijním programu veterinární lékařství\\
 (doktor veterinární\\
 medicíny, MVDr.)
 Veterinární fakulta univerzity v České republice
-�
+
 1.5.2004
 --
 Diplom o ukončení studia ve studijním programu veterinární hygiena a ekologie (doktor veterinární medicíny, MVDr.)
@@ -400,13 +400,13 @@ Danmark
 Bevis for kandidatuddannelsen i veterinærmedicin\\
 (cand.med.vet.)
 Københavns Universitet
-�
+
 21.12.1980
 Eesti
 Diplom:\\
 täitnud veterinaarmeditsiini õppekava
 Eesti Põllumajandusülikool
-�
+
 1.5.2004
 Loomaarstikraad\\
 Degree in Veterinary Medicine (DVM)
@@ -417,7 +417,7 @@ Eesti Maaülikool
 Αριστοτέλειο\\
 Πανεπιστήμιο\\
 Θεσσαλονίκης
-�
+
 1.1.1981
 2.
 Πανεπιστήμιο Θεσσαλίας
@@ -427,14 +427,14 @@ en Veterinaria
 --
 Ministerio de Educación\\
 y Cultura
-�
+
 1.1.1986
-�
+
 --
 El rector\\
 de una Universidad
-�
-�
+
+
 Título de Graduado/\\
 a en Veterinaria
 --
@@ -446,7 +446,7 @@ Diplôme d´Etat de docteur vétérinaire
 --
 L´Institut d´enseignement supérieur et de recherche en alimentation, santé animale, sciences agronomiques et de l´environnement\\
 (Vet Agro Sup)
-�
+
 21.12.1980
 --
 L´Ecole nationale\\
@@ -463,23 +463,23 @@ Hrvatska
 Diploma “doktor veterinarske medicine/doktorica veterinarske medicine”
 Veterinarski fakultet\\
 Sveučilišta u Zagrebu
-�
+
 1.7.2013
 Ireland
 --
 Diploma of Bachelor in/of Veterinary Medicine (MVB)
-�
-�
-�
+
+
+
 21.12.1980
 --
 Diploma of Membership of the Royal College of Veterinary Surgeons (MRCVS)
-�
-�
+
+
 Island
 Die in einem anderen Staat, für den die Richtlinie 2005/36/EG gilt, ausgestellten und in\\
 dieser Anlage aufgeführten Diplome, Prüfungszeugnisse und sonstigen Befähigungsnachweise
-�
+
 Bescheinigung über den Abschluss einer praktischen Ausbildung, ausgestellt von den zuständigen Behörden
 1.1.1994
 Italia
@@ -491,18 +491,18 @@ Diploma di abilitazione all´esercizio della medicina veterinaria
 Πιστοποιητικό Εγγραφής\\
 Kτηνιάτρου
 Κτηνιατρικό Συμβούλιο
-�
+
 1.5.2004
 Latvija
 Veterinārārsta diploms
 Latvijas Lauksaimniecības Universitāte
-�
+
 1.5.2004
 Liechtenstein
 Die in einem anderen Staat, für den die Richtlinie 2005/36/EG gilt, ausgestellten und in\\
 dieser Anlage aufgeführten Diplome, Prüfungszeugnisse und sonstigen\\
 Befähigungsnachweise
-�
+
 Bescheinigung über den Abschluss einer praktischen Ausbildung, ausgestellt von den zuständigen Behörden
 1.5.1995
 Lietuva
@@ -510,7 +510,7 @@ Lietuva
 Aukštojo mokslo diplomas (veterinarijos gydytojo (DVM))
 1.
 Lietuvos Veterinarijos Akademija
-�
+
 1.5.2004
 2.
 Magistro diplomas (veterinarinės medicinos magistro kvalifikacinis laipsnis ir veterinarijos gydytojo profesinė kvalifikacija)
@@ -520,25 +520,25 @@ Luxembourg
 Diplôme d´Etat de docteur\\
 en médecine vétérinaire
 Jury d´examen d´Etat
-�
+
 21.12.1980
 Magyarország
 Okleveles állatorvos doktor oklevél (dr. vet)
 Felsőoktatási intézmény
-�
+
 1.5.2004
 Malta
 Liċenzja ta' Kirurgu Veterinarju
 Kunsill tal-Kirurġi Veterinarji
-�
+
 1.5.2004
 Nederland
 Getuigschrift van\\
 met goed gevolg afgelegd\\
 diergeneeskundig/\\
 veeartsenijkundig examen
-�
-�
+
+
 21.12.1980
 Norwegen
 Vitnemål for fullført grad\\
@@ -547,13 +547,13 @@ medicinae veterinariae,\\
 short form:\\
 cand.med.vet.
 Norges veterinær-høgskole
-�
+
 1.1.1994
 Österreich
 --
 Diplom-Tierarzt
 Universität
-�
+
 1.1.1994
 --
 Magister\\
@@ -563,7 +563,7 @@ Dyplom lekarza weterynarii
 1.
 Szkoła Główna Gospodarstwa Wiejskiego\\
 w Warszawie
-�
+
 1.5.2004
 2.
 Akademia Rolnicza\\
@@ -584,21 +584,21 @@ Carta de curso\\
 de licenciatura em\\
 medicina veterinária
 Universidade
-�
+
 1.1.1986
 --
 Carta de mestrado integrado em medicina veterinária
 România
 Diplomă de licenţă de doctor medic veterinary
 Universităţi
-�
+
 1.1.2007
 Schweiz
 Eidgenössisches\\
 Tierarztdiplom
 Eidgenössisches\\
 Departement des Innern
-�
+
 1.6.2002
 Diplôme fédéral de vétérinaire
 Département fédéral\\
@@ -617,19 +617,19 @@ Vysokoškolský diplom\\
 o udelení akademického titulu "doktor veterinárskeho\\
 lekárstva" ("MVDr.")
 Univerzita
-�
+
 1.5.2004
 Suomi/\\
 Finland
 Eläinlääketieteen lisensiaatin tutkinto/Veterinärmedicine\\
 licentiatexamen
 Yliopisto
-�
+
 1.1.1994
 Sverige
 Veterinärexamen
 Sveriges Lantbruksuniversitet
-�
+
 1.1.1994
 United\\
 Kingdom
@@ -638,38 +638,38 @@ Bachelor of Veterinary\\
 Science (BVSc)
 1.
 University of Bristol
-�
+
 21.12.1980
 2.
 Bachelor of Veterinary\\
 Science (BVSc)
 2.
 University of Liverpool
-�
+
 3.
 Bachelor of Veterinary\\
 Medicine (Vet MB)
 3.
 University of Cambridge
-�
+
 4.
 Bachelor of Veterinary\\
 Medicine and Surgery (BVM&S)
 4.
 University of Edinburgh
-�
+
 5.
 Bachelor of Veterinary\\
 Medicine and Surgery (BVMS)
 5.
 University of Glasgow
-�
+
 6.
 Bachelor of Veterinary\\
 Medicine (BvetMed)
 6.
 University of London
-�
+
 7.
 Bachelor of Veterinary\\
 Medicine and Bachelor\\
@@ -677,4 +677,4 @@ of Veterinary Surgery\\
 (B.V.M., B.V.S.)
 7.
 University of Nottingham
-�
+

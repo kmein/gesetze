@@ -510,7 +510,7 @@ Bei Stimmengleichheit entscheidet das Los.
 
 § 51 - Beteiligung bei Verschlusssachen
 
-Sofern eine Angelegenheit, an der der Gesamtvertrauenspersonenausschuss zu beteiligen ist, als Verschlusssache mindestens des Geheimhaltungsgrades �VS-Vertraulich“ eingestuft ist, tritt an dessen Stelle ein Verschlusssachenausschuss mit fünf Mitgliedern. In den Vertrauenspersonenausschüssen der militärischen Organisationsbereiche hat der Verschlusssachenausschuss mindestens drei Mitglieder. Die Mitglieder des Verschlusssachenausschusses werden aus der Mitte des jeweiligen Vertrauenspersonenausschusses gewählt und müssen ermächtigt sein, Kenntnis von Verschlusssachen des in Betracht kommenden Geheimhaltungsgrades zu erhalten.
+Sofern eine Angelegenheit, an der der Gesamtvertrauenspersonenausschuss zu beteiligen ist, als Verschlusssache mindestens des Geheimhaltungsgrades VS-Vertraulich“ eingestuft ist, tritt an dessen Stelle ein Verschlusssachenausschuss mit fünf Mitgliedern. In den Vertrauenspersonenausschüssen der militärischen Organisationsbereiche hat der Verschlusssachenausschuss mindestens drei Mitglieder. Die Mitglieder des Verschlusssachenausschusses werden aus der Mitte des jeweiligen Vertrauenspersonenausschusses gewählt und müssen ermächtigt sein, Kenntnis von Verschlusssachen des in Betracht kommenden Geheimhaltungsgrades zu erhalten.
 
 § 52 - Anfechtung der Wahl
 

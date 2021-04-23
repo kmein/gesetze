@@ -11,7 +11,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 InhaltsÃ¼bersicht
 
 Erster Teil
- 
+
 Allgemeine Vorschriften fÃ¼r den Verband
 Â§ 1
 Zweck und Rechtsform
@@ -26,14 +26,14 @@ Unternehmen, Plan, Lagerbuch
 Â§ 6
 Satzung
 Zweiter Teil
- 
+
 Errichtung des Verbands
- 
- 
+
+
 Erster Abschnitt
- 
- 
- 
+
+
+
 Errichtungsarten
 Â§ 7
 Arten der Errichtung, Entstehung des Verbands
@@ -43,12 +43,12 @@ Beteiligte
 Heranziehung zur Mitgliedschaft
 Â§ 10
 ZulÃ¤ssigkeit der Errichtung von Amts wegen
- 
- 
+
+
 Zweiter Abschnitt
- 
- 
- 
+
+
+
 Errichtungsverfahren
 Â§ 11
 Einleitung des Errichtungsverfahrens
@@ -73,14 +73,14 @@ Erste Berufung der Organe
 Â§ 21
 Verfahrenskosten
 Dritter Teil
- 
+
 RechtsverhÃ¤ltnisse des Verbands zu seinen Mitgliedern und Dritten
- 
- 
+
+
 Erster Abschnitt
- 
- 
- 
+
+
+
 Mitgliedschaft
 Â§ 22
 Mitgliedschaft
@@ -94,12 +94,12 @@ Verfahren
 Auskunftspflicht
 Â§ 27
 Verschwiegenheitspflicht
- 
- 
+
+
 Zweiter Abschnitt
- 
- 
- 
+
+
+
 VerbandsbeitrÃ¤ge
 Â§ 28
 VerbandsbeitrÃ¤ge
@@ -111,10 +111,10 @@ MaÃŸstab fÃ¼r VerbandsbeitrÃ¤ge
 Erhebung der VerbandsbeitrÃ¤ge
 Â§ 32
 Vorausleistungen auf VerbandsbeitrÃ¤ge
- 
- 
+
+
 Dritter Abschnitt
- 
+
 Benutzung von GrundstÃ¼cken
 Â§ 33
 Benutzung der GrundstÃ¼cke dinglicher Verbandsmitglieder
@@ -130,10 +130,10 @@ Ausgleichsverfahren
 Anspruch auf GrundstÃ¼ckserwerb
 Â§ 39
 RechtsverhÃ¤ltnisse bei abgeleiteten GrundstÃ¼cksnutzungen
- 
- 
+
+
 Vierter Abschnitt
- 
+
 Enteignung fÃ¼r das Unternehmen
 Â§ 40
 Zweck und Gegenstand der Enteignung
@@ -143,19 +143,19 @@ ZulÃ¤ssigkeit und Umfang der Enteignung
 EntschÃ¤digung
 Â§ 43
 Anwendung von Landesrecht
- 
- 
+
+
 FÃ¼nfter Abschnitt
- 
- 
- 
+
+
+
 Verbandsschau
 Â§ 44
 Verbandsschau, Schaubeauftragte
 Â§ 45
 DurchfÃ¼hrung der Verbandsschau
 Vierter Teil
- 
+
 Verbandsverfassung
 Â§ 46
 Organe
@@ -182,34 +182,34 @@ Sitzungen des Vorstands
 Â§ 57
 GeschÃ¤ftsfÃ¼hrer
 FÃ¼nfter Teil
- 
+
 SatzungsÃ¤nderung sowie Umgestaltung und AuflÃ¶sung des Verbands
- 
- 
+
+
 Erster Abschnitt
- 
- 
- 
+
+
+
 SatzungsÃ¤nderung
 Â§ 58
 Ã„nderung der Satzung
 Â§ 59
 SatzungsÃ¤nderung durch die AufsichtsbehÃ¶rde
- 
- 
+
+
 Zweiter Abschnitt
- 
+
 Umgestaltung
 Â§ 60
 ZusammenschluÃŸ
 Â§ 61
 Ãœbertragung von Aufgaben
- 
- 
+
+
 Dritter Abschnitt
- 
- 
- 
+
+
+
 AuflÃ¶sung
 Â§ 62
 AuflÃ¶sung des Verbands
@@ -218,14 +218,14 @@ Abwicklung
 Â§ 64
 Aufbewahrung der BÃ¼cher, Einsicht
 Sechster Teil
- 
+
 Rechnungswesen
 Â§ 65
 Haushalt, Rechnungslegung, PrÃ¼fung
 Â§ 66
 SchuldÃ¼bernahme
 Siebter Teil
- 
+
 Verfahrensvorschriften
 Â§ 67
 Ã–ffentliche Bekanntmachungen
@@ -238,7 +238,7 @@ Geltung von Landesrecht
 Â§ 71
 Schiedsgericht
 Achter Teil
- 
+
 Aufsicht, Oberverband, Unterverband
 Â§ 72
 Aufsicht, Oberverband, Unterverband
@@ -253,7 +253,7 @@ Ersatzvornahme
 Â§ 77
 Bestellung eines Beauftragten
 Neunter Teil
- 
+
 Ãœbergangs- und SchluÃŸbestimmungen
 Â§ 78
 AuÃŸerkrafttreten

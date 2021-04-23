@@ -156,7 +156,7 @@ zeitliche Richtwerte in Wochen im Ausbildungsjahr
 Die ausbildende Beh√∂rde\\
 (¬ß 3 Nr. 1)
 
-†
+
 
 w√§hrend der gesamten Ausbildung zu vermitteln
 
@@ -219,18 +219,18 @@ Kommunikation und Kooperation in berufstypischen Situationen\\
 
 2*)
 
-†
 
-†
+
+
 
 - f) :: Notwendigkeit gegenseitiger Information und Vorz√ºge von Zusammenarbeit aufzeigen; Aufgaben kooperativ l√∂sen
 - g) :: √ºber zus√§tzliche b√ºrgerorientierte Dienstleistungen der ausbildenden Beh√∂rde informieren
 
-†
+
 
 2*)
 
-†
+
 
 3
 
@@ -252,9 +252,9 @@ B√ºroorganisatorische Abl√§ufe\\
 
 8*)
 
-†
 
-†
+
+
 
 4
 
@@ -269,32 +269,32 @@ Arbeitsorganisation\\
 
 3
 
-†
 
-†
+
+
 
 - f) :: M√∂glichkeiten der Arbeitsplatz- und Arbeitsraumgestaltung unter Ber√ºcksichtigung ergonomischer Grunds√§tze an Beispielen der ausbildenden Beh√∂rde aufzeigen
 - g) :: eigene Arbeitsorganisation rationell und funktionsgerecht gestalten
 - h) :: aus betriebswirtschaftlichen Vorgaben Folgerungen f√ºr die Arbeitsorganisation ableiten
 
-†
+
 
 3
 
-†
+
 
 5
 
 Informationsverarbeitung\\
 (¬ß 3 Nr. 5)
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 5.1
 
@@ -307,11 +307,11 @@ Informations- und Kommunikationstechniken, Datenschutz\\
 - d) :: die Vorschriften des Datenschutzrechts √ºber die Erhebung, Verarbeitung und Nutzung von personenbezogenen Daten einhalten
 - e) :: Vorschriften zur Datensicherheit anwenden, Daten sichern
 
-†
+
 
 6
 
-†
+
 
 5.2
 
@@ -325,9 +325,9 @@ Textverarbeitung\\
 
 8
 
-†
 
-†
+
+
 
 6
 
@@ -339,9 +339,9 @@ Kosten- und Entsch√§digungsrecht\\
 - c) :: Kosten einziehen, Vorsch√ºsse r√ºckerstatten
 - d) :: Vorschriften √ºber Zeugen- und Sachverst√§ndigenentsch√§digung anwenden
 
-†
 
-†
+
+
 
 7
 
@@ -350,13 +350,13 @@ Kosten- und Entsch√§digungsrecht\\
 Fallbezogene Rechtsanwendung in Zivilverfahren\\
 (¬ß 3 Nr. 7)
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 7.1
 
@@ -372,9 +372,9 @@ in Zivilprozessverfahren mitwirken, insbesondere
 
 15
 
-†
 
-†
+
+
 
 7.2
 
@@ -384,11 +384,11 @@ Zwangsvollstreckung\\
 - a) :: in Zwangsvollstreckungsverfahren in das bewegliche Verm√∂gen mitwirken, insbesondere Schuldnerverzeichnis f√ºhren, Ausk√ºnfte erteilen
 - b) :: in Zwangsvollstreckungsverfahren in das unbewegliche Verm√∂gen mitwirken, insbesondere Ver√∂ffentlichungen veranlassen
 
-†
+
 
 14
 
-†
+
 
 7.3
 
@@ -398,9 +398,9 @@ Insolvenzen\\
 - a) :: Ver√∂ffentlichungen veranlassen
 - b) :: in Insolvenzverfahren mitwirken, insbesondere bei Eintragungen in die Insolvenztabelle
 
-†
 
-†
+
+
 
 10
 
@@ -414,11 +414,11 @@ in Ehe- und Familiensachen mitwirken, insbesondere
 - a) :: Rechtskraft bescheinigen; Rechtskraftbescheinigungen erteilen
 - b) :: Kosten berechnen
 
-†
+
 
 12
 
-†
+
 
 8
 
@@ -434,22 +434,22 @@ in Straf- und Ordnungswidrigkeitenverfahren mitwirken, insbesondere
 
 16
 
-†
 
-†
+
+
 
 9
 
 Fallbezogene Rechtsanwendung in Verfahren der freiwilligen Gerichtsbarkeit\\
 (¬ß 3 Nr. 9)
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 9.1
 
@@ -462,11 +462,11 @@ in Verfahren des Grundbuchamtes mitwirken, insbesondere
 - b) :: Einsicht in Grundbuch und Eigent√ºmerkartei gew√§hren
 - c) :: Antr√§ge pr√§sentieren
 
-†
+
 
 15
 
-†
+
 
 9.2
 
@@ -478,9 +478,9 @@ in Verfahren vor dem Nachla√ügericht mitwirken, insbesondere
 - a) :: letztwillige Verf√ºgungen verwahren
 - b) :: letztwillige Verf√ºgungen zur Er√∂ffnung entgegennehmen
 
-†
 
-†
+
+
 
 10
 
@@ -491,9 +491,9 @@ Vormundschaftsgerichtliche Angelegenheiten, Betreuung\\
 
 in Verfahren vor dem Vormundschaftsgericht und in Betreuungsverfahren, insbesondere bei Antr√§gen auf Bestellung eines Betreuers, mitwirken
 
-†
 
-†
+
+
 
 12
 
@@ -507,9 +507,9 @@ in Registerverfahren mitwirken, insbesondere
 - a) :: Eintragungen in die Register vornehmen
 - b) :: Ver√∂ffentlichungen veranlassen
 
-†
 
-†
+
+
 
 13
 

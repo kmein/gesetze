@@ -112,19 +112,19 @@ Die Kosten des Gesundheitszeugnisses trägt die Einstellungsbehörde. Statt die 
 
 (1) Der Vorbereitungsdienst nach § 2 Nummer 1 gliedert sich in Praktika und Lehrveranstaltungen. Im Einzelnen sind folgende Ausbildungsabschnitte vorzusehen:
 
-- 1. :: Lehrgang �Aufgaben und Organisation der Bundeswehr und Statusfragen“,
+- 1. :: Lehrgang Aufgaben und Organisation der Bundeswehr und Statusfragen“,
 - 2. :: Vorstellung der Verwendungsmöglichkeiten in der Fachrichtung Wehrtechnik des gehobenen technischen Verwaltungsdienstes,
-- 3. :: Lehrgang �Allgemeine Wehrtechnik“,
-- 4. :: Lehrgang �Technisches Projektmanagement“,
-- 5. :: Lehrgang �Wirtschaftlichkeit im Projektmanagement“,
-- 6. :: Lehrgang �Fachtechnische Grundlagen einzelner wehrtechnischer Fachgebiete“,
-- 7. :: Lehrgang �Rechtsgrundlagen in der Praxis“ und
+- 3. :: Lehrgang Allgemeine Wehrtechnik“,
+- 4. :: Lehrgang Technisches Projektmanagement“,
+- 5. :: Lehrgang Wirtschaftlichkeit im Projektmanagement“,
+- 6. :: Lehrgang Fachtechnische Grundlagen einzelner wehrtechnischer Fachgebiete“,
+- 7. :: Lehrgang Rechtsgrundlagen in der Praxis“ und
 - 8. :: praktische Ausbildung.
 
 (2) Die Lehrgänge nach Absatz 1 werden an der Bundesakademie für Wehrverwaltung und Wehrtechnik und an einer Bundeswehrverwaltungsschule durchgeführt. Sie vermitteln Spezialkenntnisse, die für die Laufbahn des gehobenen technischen Verwaltungsdienstes erforderlich sind und über die im Studium vermittelten Kenntnisse hinausgehen. Die Lehrgänge können auch an einer mit der Einstellungsbehörde kooperierenden Hochschuleinrichtung durchgeführt werden.
 (3) Die Reihenfolge und die Dauer der einzelnen Ausbildungsabschnitte ergeben sich aus dem Ausbildungsplan nach § 17 Absatz 2 Satz 3. Die Ausbildungsabschnitte können durch Exkursionen ergänzt werden.
 
-§ 11 - Lehrgang �Aufgaben und Organisation der Bundeswehr und Statusfragen“
+§ 11 - Lehrgang Aufgaben und Organisation der Bundeswehr und Statusfragen“
 
 Die Anwärterinnen und Anwärter werden mit den Rechten und Pflichten der Beamtinnen und Beamten vertraut gemacht. Sie erhalten einen Überblick über das Beamten-, Besoldungs-, Reisekosten-, Umzugs- und Beihilferecht sowie über die Aufgaben und die Organisation der Bundeswehr, insbesondere des Rüstungsbereichs, über deren rechtliche Grundlagen sowie über Arbeitsabläufe. Die Anwärterinnen und Anwärter sollen am Ende des Lehrgangs über ein Grundwissen verfügen, auf dem die weitere Ausbildung aufbaut. Einzelheiten regelt der Lehrplan.
 
@@ -132,14 +132,14 @@ Die Anwärterinnen und Anwärter werden mit den Rechten und Pflichten der Beamti
 
 Die Anwärterinnen und Anwärter werden bei Dienststellen des Rüstungsbereichs in deren Organisation, Aufgaben und Ausstattung eingeführt. Der Ausbildungsabschnitt zeigt die zukünftigen Einsatzmöglichkeiten im Rüstungsbereich auf. Einzelheiten regelt der Ausbildungsplan.
 
-§ 13 - Lehrgänge �Allgemeine Wehrtechnik“, �Technisches Projektmanagement“ und �Wirtschaftlichkeit im Projektmanagement“
+§ 13 - Lehrgänge Allgemeine Wehrtechnik“, Technisches Projektmanagement“ und Wirtschaftlichkeit im Projektmanagement“
 
-(1) Im Lehrgang �Allgemeine Wehrtechnik“ werden den Anwärterinnen und Anwärtern fachgebietsübergreifende wehrtechnische Inhalte, sicherheitspolitische Aspekte und allgemeine bundeswehrspezifische Themen vermittelt.
-(2) Im Lehrgang �Technisches Projektmanagement“ werden die Anwärterinnen und Anwärter mit den allgemeinen Grundlagen des technischen Projektmanagements im Rüstungsbereich sowie den bundeswehrspezifischen Verfahren und Methoden des Projektmanagements vertraut gemacht.
-(3) Im Lehrgang �Wirtschaftlichkeit im Projektmanagement“ werden den Anwärterinnen und Anwärtern aufgabenspezifisch Grundkenntnisse der Betriebs- und Volkswirtschaftslehre, Kenntnisse der verschiedenen Methoden und Verfahren der Wirtschaftlichkeitsbetrachtungen und Grundkenntnisse im Haushaltsrecht vermittelt.
+(1) Im Lehrgang Allgemeine Wehrtechnik“ werden den Anwärterinnen und Anwärtern fachgebietsübergreifende wehrtechnische Inhalte, sicherheitspolitische Aspekte und allgemeine bundeswehrspezifische Themen vermittelt.
+(2) Im Lehrgang Technisches Projektmanagement“ werden die Anwärterinnen und Anwärter mit den allgemeinen Grundlagen des technischen Projektmanagements im Rüstungsbereich sowie den bundeswehrspezifischen Verfahren und Methoden des Projektmanagements vertraut gemacht.
+(3) Im Lehrgang Wirtschaftlichkeit im Projektmanagement“ werden den Anwärterinnen und Anwärtern aufgabenspezifisch Grundkenntnisse der Betriebs- und Volkswirtschaftslehre, Kenntnisse der verschiedenen Methoden und Verfahren der Wirtschaftlichkeitsbetrachtungen und Grundkenntnisse im Haushaltsrecht vermittelt.
 (4) Die Anwärterinnen und Anwärter werden befähigt, die allgemeinen fachgebietsübergreifenden Aufgaben im Bereich der Wehrtechnik sowie Funktionen im technischen Projektmanagement wahrzunehmen. Einzelheiten regelt der jeweilige Lehrplan.
 
-§ 14 - Lehrgang �Fachtechnische Grundlagen einzelner wehrtechnischer Fachgebiete“
+§ 14 - Lehrgang Fachtechnische Grundlagen einzelner wehrtechnischer Fachgebiete“
 
 Behandelt werden im Wesentlichen:
 
@@ -165,7 +165,7 @@ Behandelt werden im Wesentlichen:
 Die Anwärterinnen und Anwärter werden befähigt, die im Ingenieurstudium erworbenen Kenntnisse, ergänzt um die Besonderheiten der Wehrtechnik, in ihrem wehrtechnischen Fachgebiet anzuwenden. Einzelheiten regelt der Lehrplan.
 
 
-§ 15 - Lehrgang �Rechtsgrundlagen in der Praxis“
+§ 15 - Lehrgang Rechtsgrundlagen in der Praxis“
 
 Den Anwärterinnen und Anwärtern werden die für die spätere Aufgabenwahrnehmung notwendigen Rechts- und Verwaltungskenntnisse vermittelt. Einzelheiten regelt der Lehrplan.
 
@@ -253,8 +253,8 @@ Das Prüfungsamt setzt Ort und Zeit der schriftlichen Aufsichtsarbeiten, der Pra
 (1) Die schriftlichen Aufsichtsarbeiten sind während der berufspraktischen Studienzeit anzufertigen. Die Aufgaben der Aufsichtsarbeiten bestimmt das Prüfungsamt auf Vorschlag der Einstellungsbehörde; die Lehrabteilungen der Bundesakademie für Wehrverwaltung und Wehrtechnik unterstützen die Erarbeitung.
 (2) Jeweils eine Aufgabe der Aufsichtsarbeiten ist aus
 
-- 1. :: dem Prüfungsgebiet �Allgemeine Wehrtechnik, technisches Projektmanagement und Wirtschaftlichkeit im Projektmanagement“ (§ 13 Absatz 1 bis 3) und
-- 2. :: dem Prüfungsgebiet �Fachtechnische Grundlagen einzelner wehrtechnischer Fachgebiete“ (§ 14)
+- 1. :: dem Prüfungsgebiet Allgemeine Wehrtechnik, technisches Projektmanagement und Wirtschaftlichkeit im Projektmanagement“ (§ 13 Absatz 1 bis 3) und
+- 2. :: dem Prüfungsgebiet Fachtechnische Grundlagen einzelner wehrtechnischer Fachgebiete“ (§ 14)
 
 zu entnehmen.
 
@@ -265,7 +265,7 @@ zu entnehmen.
 (7) Die Prüfungskommission bewertet die Aufsichtsarbeiten. Die Einteilung der Erstprüferin oder des Erstprüfers nimmt die Bundesakademie für Wehrverwaltung und Wehrtechnik vor. Die Einteilung der Zweitprüferin oder des Zweitprüfers nimmt die Einstellungsbehörde vor.
 (8) Jede Aufsichtsarbeit wird von zwei Prüfenden unabhängig voneinander nach einem vorab von ihnen gemeinsam festgelegten Bewertungsmaßstab nach § 32 bewertet. Die Zweitprüferin oder der Zweitprüfer kann Kenntnis von der Bewertung der Erstprüferin oder des Erstprüfers haben. § 23 Absatz 6 Satz 3 und 4 ist entsprechend anzuwenden.
 (9) Erscheinen Anwärterinnen oder Anwärter verspätet zu einer Aufsichtsarbeit und wird nicht nach § 30 verfahren, gilt die versäumte Zeit als Bearbeitungszeit.
-(10) Haben Anwärterinnen oder Anwärter die geforderte Aufsichtsarbeit nicht oder nicht rechtzeitig abgegeben, gilt sie als mit �ungenügend (0 Rangpunkte)“ bewertet. Dieser Teil der Prüfung ist bestanden, wenn die Aufsichtsarbeiten jeweils mindestens mit �ausreichend“ bewertet worden sind. Das Ergebnis der Aufsichtsarbeiten ist den Anwärterinnen und Anwärtern spätestens einen Monat nach dem Prüfungstag durch die Erstprüferin oder den Erstprüfer im Auftrag des Prüfungsamtes schriftlich oder elektronisch bekannt zu geben.
+(10) Haben Anwärterinnen oder Anwärter die geforderte Aufsichtsarbeit nicht oder nicht rechtzeitig abgegeben, gilt sie als mit ungenügend (0 Rangpunkte)“ bewertet. Dieser Teil der Prüfung ist bestanden, wenn die Aufsichtsarbeiten jeweils mindestens mit ausreichend“ bewertet worden sind. Das Ergebnis der Aufsichtsarbeiten ist den Anwärterinnen und Anwärtern spätestens einen Monat nach dem Prüfungstag durch die Erstprüferin oder den Erstprüfer im Auftrag des Prüfungsamtes schriftlich oder elektronisch bekannt zu geben.
 
 § 27 - Praxisarbeit
 
@@ -274,11 +274,11 @@ zu entnehmen.
 (3) Die Praxisarbeit ist innerhalb von vier Wochen nach Aushändigung des Themas anzufertigen und der oder dem Ausbildungsbeauftragten vorzulegen. Liegen triftige Gründe vor, kann die Ausbildungsleitung die Frist auf schriftlichen oder elektronischen Antrag um höchstens zwei Wochen verlängern. Der Antrag ist unverzüglich zu stellen. Bei längerer Verhinderung ist ersatzweise eine neue Aufgabe zu stellen.
 (4) Die Praxisarbeit ist ohne fremde Hilfe anzufertigen; alle benutzten Quellen und Hilfsmittel sind anzugeben. In einer Erklärung, die vor dem Textteil der Arbeit einzuheften ist, haben die Anwärterin und der Anwärter zu versichern, dass keine anderen als die angegebenen Hilfsmittel verwendet worden sind. Die Arbeit ist eigenhändig zu unterschreiben.
 (5) Die Praxisarbeit wird von zwei Prüfenden unabhängig voneinander nach einem vorab von ihnen gemeinsam festgelegten Bewertungsmaßstab nach § 32 bewertet. Die Zweitprüferin oder der Zweitprüfer kann Kenntnis von der Bewertung der Erstprüferin oder des Erstprüfers haben. Weichen die Bewertungen voneinander ab, entscheidet die Ausbildungsleitung im Rahmen der abgegebenen Punktzahlen; die Entscheidung ist schriftlich zu begründen.
-(6) Haben Anwärterinnen oder Anwärter die geforderte Praxisarbeit nicht oder nicht fristgerecht abgegeben, gilt sie als mit �ungenügend (0 Rangpunkte)“ bewertet. Dieser Teil der Prüfung ist bestanden, wenn die Praxisarbeit mindestens mit �ausreichend“ bewertet worden ist. Das Ergebnis der Praxisarbeit ist den Anwärterinnen und Anwärtern spätestens einen Monat nach Abgabetermin durch die Erstprüferin oder den Erstprüfer im Auftrag des Prüfungsamtes schriftlich bekannt zu geben.
+(6) Haben Anwärterinnen oder Anwärter die geforderte Praxisarbeit nicht oder nicht fristgerecht abgegeben, gilt sie als mit ungenügend (0 Rangpunkte)“ bewertet. Dieser Teil der Prüfung ist bestanden, wenn die Praxisarbeit mindestens mit ausreichend“ bewertet worden ist. Das Ergebnis der Praxisarbeit ist den Anwärterinnen und Anwärtern spätestens einen Monat nach Abgabetermin durch die Erstprüferin oder den Erstprüfer im Auftrag des Prüfungsamtes schriftlich bekannt zu geben.
 
 § 28 - Zulassung zur mündlichen Prüfung
 
-(1) Das Prüfungsamt lässt Anwärterinnen und Anwärter zur mündlichen Prüfung zu, wenn beide Aufsichtsarbeiten und die Praxisarbeit jeweils mindestens mit �ausreichend“ bewertet worden sind. Beim Vorbereitungsdienst nach § 2 Nummer 2 müssen darüber hinaus die Gesamtzahl an Credit Points erreicht und die Prüfungen, die die Studien- und Prüfungsordnung der kooperierenden Hochschuleinrichtung vorschreibt, bestanden worden sein.
+(1) Das Prüfungsamt lässt Anwärterinnen und Anwärter zur mündlichen Prüfung zu, wenn beide Aufsichtsarbeiten und die Praxisarbeit jeweils mindestens mit ausreichend“ bewertet worden sind. Beim Vorbereitungsdienst nach § 2 Nummer 2 müssen darüber hinaus die Gesamtzahl an Credit Points erreicht und die Prüfungen, die die Studien- und Prüfungsordnung der kooperierenden Hochschuleinrichtung vorschreibt, bestanden worden sein.
 (2) Die Ausbildungsleitung teilt den Anwärterinnen und Anwärtern im Auftrag des Prüfungsamtes die Zulassung oder Nichtzulassung rechtzeitig vor der mündlichen Prüfung mit.
 
 § 29 - Mündliche Prüfung
@@ -294,13 +294,13 @@ zu entnehmen.
 (1) Wer durch eine Erkrankung oder sonstige nicht zu vertretende Umstände an der Prüfung oder an Teilen der Prüfung nicht teilnehmen kann, hat dies unverzüglich in geeigneter Form nachzuweisen. Eine Erkrankung ist durch Vorlage eines amts-, vertrauens- oder personalärztlichen Zeugnisses oder eines Zeugnisses einer beamteten Ärztin oder eines beamteten Arztes nachzuweisen; ein privatärztliches Zeugnis kann anerkannt werden.
 (2) Anwärterinnen oder Anwärter können aus wichtigem Grund mit Genehmigung des Prüfungsamtes von der Prüfung zurücktreten.
 (3) Bei Verhinderung oder Rücktritt nach den Absätzen 1 und 2 gilt die Prüfung oder der betreffende Teil der Prüfung als nicht begonnen. Das Prüfungsamt bestimmt, wann die betreffenden Prüfungsteile nachgeholt werden; es entscheidet, ob und inwieweit die bereits abgegebenen Arbeiten gewertet werden.
-(4) Versäumen Anwärterinnen oder Anwärter ohne ausreichende Entschuldigung einen Prüfungsteil nach § 24 Absatz 2 ganz oder teilweise, entscheidet das Prüfungsamt, ob die nicht erbrachte Prüfungsleistung nachgeholt werden kann oder mit �ungenügend (0 Rangpunkte)“ bewertet wird oder ob die gesamte Prüfung für nicht bestanden erklärt wird.
+(4) Versäumen Anwärterinnen oder Anwärter ohne ausreichende Entschuldigung einen Prüfungsteil nach § 24 Absatz 2 ganz oder teilweise, entscheidet das Prüfungsamt, ob die nicht erbrachte Prüfungsleistung nachgeholt werden kann oder mit ungenügend (0 Rangpunkte)“ bewertet wird oder ob die gesamte Prüfung für nicht bestanden erklärt wird.
 
 § 31 - Täuschung, Ordnungsverstoß
 
 (1) Anwärterinnen oder Anwärtern, die bei den Aufsichtsarbeiten, der Praxisarbeit oder in der mündlichen Prüfung täuschen, eine Täuschung versuchen oder dazu beitragen oder sonst gegen die Ordnung verstoßen, soll die Fortsetzung der Prüfung unter dem Vorbehalt einer abweichenden Entscheidung des Prüfungsamtes oder der Prüfungskommission nach Absatz 2 gestattet werden; bei einer erheblichen Störung können sie von der weiteren Teilnahme an dem betreffenden Teil der Prüfung ausgeschlossen werden.
 (2) Über das Vorliegen und die Folgen einer Täuschung, eines Täuschungsversuchs, eines Beitrags zu einem solchen oder eines sonstigen Ordnungsverstoßes während der mündlichen Prüfung entscheidet die Prüfungskommission. § 23 Absatz 6 ist entsprechend anzuwenden.
-(3) Über das Vorliegen und die Folgen einer Täuschung, eines Täuschungsversuchs, eines Beitrags zu einem solchen oder eines sonstigen Ordnungsversto�ungenügend (0 Rangpunkte)“ bewerten oder die gesamte Prüfung für nicht bestanden erklären.
+(3) Über das Vorliegen und die Folgen einer Täuschung, eines Täuschungsversuchs, eines Beitrags zu einem solchen oder eines sonstigen Ordnungsverstoungenügend (0 Rangpunkte)“ bewerten oder die gesamte Prüfung für nicht bestanden erklären.
 (4) Wird eine Täuschung erst nach Abschluss der mündlichen Prüfung bekannt oder kann sie erst nach Abschluss der Prüfung nachgewiesen werden, kann das Prüfungsamt nach Anhörung der Einstellungsbehörde die Prüfung innerhalb von fünf Jahren nach dem Tag der mündlichen Prüfung für nicht bestanden erklären. Der Bescheid ist mit einer Rechtsbehelfsbelehrung zu versehen.
 (5) Betroffene sind vor der Entscheidung nach den Absätzen 2 bis 4 zu hören
 

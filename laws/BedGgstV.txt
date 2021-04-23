@@ -313,7 +313,7 @@ Fl√ºssige Stoffe und Zubereitungen, die nach der Gefahrstoffverordnung als gef√§
 
 (weggefallen)
 
-†
+
 
 7.
 
@@ -359,7 +359,7 @@ Benzidin
 
 95-69-2
 
-†
+
 
 202-441-6
 
@@ -386,7 +386,7 @@ o-Aminoazotoluol\\
 
 99-55-8
 
-†
+
 
 202-765-8
 
@@ -403,7 +403,7 @@ o-Aminoazotoluol\\
 
 615-05-4
 
-†
+
 
 210-406-1
 
@@ -458,7 +458,7 @@ p-Cresidin
 
 120-71-8
 
-†
+
 
 204-419-1
 
@@ -475,7 +475,7 @@ p-Cresidin
 
 101-80-4
 
-†
+
 
 202-977-0
 
@@ -483,7 +483,7 @@ p-Cresidin
 
 139-65-1
 
-†
+
 
 205-370-9
 
@@ -509,7 +509,7 @@ o-Toluidin 2-Aminotoluol\\
 
 137-17-7
 
-†
+
 
 205-282-0
 
@@ -572,7 +572,7 @@ PEM/REF-Nr. 93930
 
 (weggefallen)
 
-†
+
 
 
 Anlage 2 - zu ¬ß 4 Abs. 1 und 1a und ¬ß 6 Satz 1 Nr. 1  Stoffe, die f√ºr die Herstellung von Zellglasfolien zugelassen sind
@@ -605,37 +605,37 @@ Regenerierte Cellulose
 
 Der Anteil in der Folie mu√ü mindestens 72% 2) betragen.
 
-†
 
-†
+
+
 
 2.
 
 Zusatzstoffe
 
-†
 
-†
 
-†
+
+
+
 
 2.1
 
 Feuchthaltemittel
 
-†
+
 
 Nicht mehr als insgesamt 27% 2)
 
-†
+
 
 -
 
 Bis(2-hydroxyethyl) ether (Diethylenglykol)
 
-†
 
-†
+
+
 
 ) Nur f√ºr zu\\
 ) beschichtendes\\
@@ -652,9 +652,9 @@ Bis(2-hydroxyethyl) ether (Diethylenglykol)
 
 Ethandiol (Monoethylenglykol)
 
-†
 
-†
+
+
 
 ) Auf das\\
 ) Lebensmittel, das\\
@@ -671,39 +671,39 @@ Ethandiol (Monoethylenglykol)
 
 1,3-Butandiol
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 Glycerin
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 1,2-Propandiol (1,2-Propylenglykol)
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 Polyethylenoxid (Polyethylenglykol)
 
-†
 
-†
+
+
 
 Mittleres Molekulargewicht zwischen 250 und 1.200
 
@@ -713,9 +713,9 @@ Mittleres Molekulargewicht zwischen 250 und 1.200
 \\
 (1,2-Polypropylenglykol)
 
-†
 
-†
+
+
 
 Mittleres Molekulargewicht nicht gr√∂√üer als 400 mit einem Gehalt an freiem 1,3-Propandiol von nicht mehr als 1 Gewichts-%
 
@@ -723,239 +723,239 @@ Mittleres Molekulargewicht nicht gr√∂√üer als 400 mit einem Gehalt an freiem 1,3
 
 Sorbit
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 Tetraethylenglykol
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 Triethylenglykol
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 Harnstoff
 
-†
 
-†
 
-†
+
+
+
 
 2.2
 
 Andere Stoffe
 
-†
+
 
 Nicht mehr als insgesamt1% 2)
 
-†
 
-†
+
+
 
 Erste Gruppe
 
-†
+
 
 Der Gehalt der Folie an jedem Stoff oder jeder Stoffgruppe darf 2 mg/qdm nicht √ºberschreiten.
 
-†
+
 
 -
 
 Essigs√§ure und ihre Ammonium-, Calcium-, Magnesium-, Kalium- und Natriumsalze
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 Ascorbins√§ure und ihre Ammonium-, Calcium-, Magnesium-, Kalium- und Natriumsalze
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 Benzoes√§ure und ihr Natriumsalz
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 Ameisens√§ure und ihre Ammonium-, Calcium-, Magnesium-, Kalium- und Natriumsalze
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 geradkettige, ges√§ttigte oder unges√§ttigte Fetts√§uren mit gerader Kohlenstoffzahl C(tief)8 - C(tief)20, Behens√§ure, Rizinols√§ure und deren Ammonium-, Calcium-, Magnesium-, Kalium-, Natrium-, Aluminium- und Zinksalze
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 Citronens√§ure, d,l-Milchs√§ure, Maleins√§ure, Weins√§ure und ihre Natrium- und Kaliumsalze
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 Sorbins√§ure und ihre Ammonium-, Calcium-, Magnesium-, Kalium- und Natriumsalze
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 Amide geradkettiger, ges√§ttigter oder unges√§ttigter Fetts√§uren mit gerader Kohlenstoffzahl C(tief)8 - C(tief)20, Behens√§ureamid und Rizinols√§ureamid
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 Nat√ºrliche St√§rke (Lebensmittelqualit√§t) und St√§rkemehl
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 St√§rke (Lebensmittelqualit√§t) und St√§rkemehl, chemisch modifiziert
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 Amylose
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 Calciumcarbonat, Magnesiumcarbonat, Magnesiumchlorid, Calciumchlorid
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 Glycerinester mit geradkettigen, ges√§ttigten oder unges√§ttigten Fetts√§uren mit gerader Kohlenstoffzahl C(tief)8 - C(tief)20 und/oder Adipins√§ure, Citronens√§ure, 12-Hydroxystearins√§ure (Oxystearin), Rizinols√§ure
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 Ester des Polyoxyethylens (Anzahl der Oxyethylengruppen zwischen 8 und 14) mit geradkettigen, ges√§ttigten oder unges√§ttigten Fetts√§uren mit geradzahliger Kohlenstoffkette C(tief)8 - C(tief)20
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 Sorbitester mit geradkettigen, ges√§ttigten oder unges√§ttigten Fetts√§uren mit geradzahliger Kohlenstoffkette C(tief)8 - C(tief)20
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 Mono- und/oder Diester der Stearins√§ure mit Ethandiol und/oder Bis(2-hydroxyethyl) ether und/oder Triethylenglykol
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 Oxide und Hydroxide des Aluminiums, Calciums, Magnesiums und Siliciums, Silicate und Silicathydrate des Aluminiums, Calciums, Magnesiums und Kaliums
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 Polyethylenoxid (Polyethylenglykol)
 
-†
 
-†
+
+
 
 Mittleres Molekulargewicht zwischen 1.200 und 4.000
 
@@ -963,131 +963,131 @@ Mittleres Molekulargewicht zwischen 1.200 und 4.000
 
 Natriumpropionat
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Zweite Gruppe
 
-†
+
 
 Die Folienseite, die mit den Lebensmitteln in Ber√ºhrung kommt, darf insgesamt h√∂chstens 1 mg/qdm und von jedem Stoff oder jeder Stoffgruppe h√∂chstens 0,2 mg/qdm enthalten, sofern nicht geringere Mengen angegeben sind.
 
-†
+
 
 -
 
 Alkyl-(C(tief)8 - C(tief)18)benzolsulfonat, Natriumsalz
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 Isopropylnaphthalinsulfonat, Natriumsalz
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 Alkyl-(C(tief)8 - C(tief)18)sulfat, Natriumsalz
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 Alkyl-(C(tief)8 - C(tief)18)sulfonat, Natriumsalz
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 Dioctylsulfosuccinat, Natriumsalz
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 Distearat des Dihydroxydiethylentriaminmonoacetat
 
-†
+
 
 Die Folienseite, die mit den Lebensmitteln in Ber√ºhrung kommt, darf h√∂chstens 0,05 mg/qdm enthalten.
 
-†
+
 
 -
 
 Ammonium-, Magnesium-, Kaliumsalze des Laurylsulfats
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 N,N'-Distearoyldiaminoethan (N,N'-Distearoylethylendiamin) und N,N'-Dipalmitoyldiaminoethan (N,N'-Dipalmitoylethylendiamin) und N,N'-Dioleyldiaminoethan (N,N'-Dioleylethylendiamin)
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 2-Heptadecyl-4,4-bis-(Methylenstearat)-oxazolin
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 Polyethylenaminostearamidethylsulfat
 
-†
+
 
 Die Folienseite, die mit den Lebensmitteln in Ber√ºhrung kommt, darf h√∂chstens 0,1 mg/qdm enthalten.
 
-†
 
-†
+
+
 
 Dritte Gruppe - Verankerungsmittel
 
-†
+
 
 Die Folienseite, die mit den Lebensmitteln in Ber√ºhrung kommt, darf insgesamt h√∂chstens 1 mg/qdm enthalten.
 
-†
+
 
 -
 
@@ -1096,37 +1096,37 @@ Kondensationsprodukt aus Melamin-Formaldehyd, modifiziert mit einem oder mehrere
 \\
 Butanol, Diethylentriamin, Ethanol, Triethylentetramin, Tetraethylenpentamin, Tris-(2-hydroxyethyl)-amin, 3,3'-Diaminodipropylamin, 4,4'-Diaminodibutylamin
 
-†
+
 
 Freier Formaldehyd:\\
 Die Folienseite, die mit den Lebensmitteln in Ber√ºhrung kommt, darf h√∂chstens 0,5 mg/qdm enthalten. Freies Melamin:\\
 Die Folienseite, die mit den Lebensmitteln in Ber√ºhrung kommt, darf h√∂chstens 0,3 mg/qdm enthalten.
 
-†
+
 
 -
 
 Kondensationsprodukte aus Melamin-Harnstoff-Formaldehyd, modifiziert mit Tris-(2-hydroxyethyl)-amin
 
-†
+
 
 Freier Formaldehyd: Die Folienseite, die mit den Lebensmitteln in Ber√ºhrung kommt, darf h√∂chstens 0,5 mg/qdm enthalten. Freies Melamin: Die Folienseite, die mit den Lebensmitteln in Ber√ºhrung kommt, darf h√∂chstens 0,3 mg/dm(hoch)2 enthalten.
 
-†
+
 
 -
 
 Kationische vernetzte Polyalkylenamine
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 - a) :: Polyamid-Epichlorhydrinharze auf Basis Diaminopropylmethylamin und Epichlorhydrin
 - b) :: Polyamid-Epichlorhydrinharze auf Basis Epichlorhydrin, Adipins√§ure, Caprolactam, Diethylentriamin und/oder Ethylendiamin
@@ -1134,63 +1134,63 @@ Kationische vernetzte Polyalkylenamine
 - d) :: Polyamid-Polyamin-Epichlorhydrinharze auf Basis von Epichlorhydrin, Dimethyladipat und Diethylentriamin
 - e) :: Polyamid-Polyamin-Epichlorhydrazinharze auf Basis von Epichlorhydrin, Adipins√§ureamid und Diaminopropylmethylamin
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 Polyethylenamine und Polyethylenimine
 
-†
+
 
 Die Folienseite, die mit den Lebensmitteln in Ber√ºhrung kommt, darf h√∂chstens 0,75 mg/qdm enthalten.
 
-†
+
 
 -
 
 Kondensationsprodukte aus Harnstoff-Formaldehyd, nicht modifiziert oder modifiziert mit einem oder mehreren der nachfolgenden Produkte: Methanol, Ethanol, Butanol, Diethylentriamin, Triethylentetramin, Tetraethylenpentamin, Guanidin, Natriumsulfit, Sulfanils√§ure, Diaminodiethylamin, 3,3'-Diaminodipropylamin, Diaminopropan, Diaminobutan, Aminomethylsulfons√§ure
 
-†
+
 
 Freier Formaldehyd: Die Folienseite, die mit den Lebensmitteln in Ber√ºhrung kommt, darf h√∂chstens 0,5 mg/qdm enthalten.
 
-†
 
-†
+
+
 
 Vierte Gruppe
 
-†
+
 
 Die Folienseite, die mit den Lebensmitteln in Ber√ºhrung kommt, darf von diesen Stoffen und Stoffgruppen insgesamt h√∂chstens 0,01 mg/qdm enthalten.
 
-†
+
 
 -
 
 Reaktionsprodukte von aminierten Speise√∂len und Polyethylenoxid
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 Laurylsulfat des Monoethanolamins
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Teil B\\
 Beschichtete Zellglasfolie
@@ -1225,49 +1225,49 @@ B.
 
 Lacke
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 1.
 
 Polymere
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 -
 
 Ethyl-, Hydroxyethyl-, Hydroxypropyl- und Methylether der Cellulose
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 -
 
 Cellulosenitrat
 
-†
+
 
 Die Folienseite, die mit den Lebensmitteln in Ber√ºhrung kommt, darf h√∂chstens 20 mg/qdm enthalten.
 
 Der Stickstoffgehalt liegt zwischen 10,8% und 12,2%.
 
-†
+
 
 2.
 
@@ -1277,183 +1277,183 @@ Nur zur Herstellung von Zellglasfolien, die mit einem Lack aus Cellulosenitrat b
 
 Die Folienseite, die mit den Lebensmitteln in Ber√ºhrung kommt, darf insgesamt h√∂chstens 12,5 mg/qdm enthalten.
 
-†
 
-†
+
+
 
 -
 
 Kasein
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 -
 
 Kolophonium und/oder seine Polymerisations-, Hydrierungs- oder Disproportionierungsprodukte und deren Ester mit Methyl-, Ethyl- und mehrwertigen C(tief)2 - C(tief)6- Alkoholen oder Mischungen dieser Alkohole
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 -
 
 Kolophonium und/oder seine Polymerisations-, Hydrierungs- oder Disproportionierungsprodukte kondensiert mit Acryls√§ure und/oder Maleins√§ure und/oder Citronens√§ure und/oder Fumars√§ure und/oder Phthals√§ure und/oder Bisphenolformaldehyd verestert mit Methyl-, Ethyl- und mehrwertigen C(tief)2 - C(tief)6- Alkoholen oder deren Mischungen
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 -
 
 Ester des Bis-(2-hydroxyethyl)-ethers mit Additionsprodukten des √ü-Pinen und/oder Dipenten und/oder Diterpen und Maleins√§ureanhydrid
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 -
 
 Gelatine (Lebensmittelqualit√§t)
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 -
 
 Rizinus√∂l und seine Dehydrations- oder Hydrierungsprodukte und die Kondensationsprodukte mit Polyglycerin, Adipins√§ure, Maleins√§ure, Citronens√§ure, Phthals√§ure und Sebacins√§ure
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 -
 
 Poly-√ü-pinen (Terpenharze)
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 -
 
 Harnstoff-Formaldehydharze (siehe Verankerungsmittel)
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 3.
 
 Weichmacher
 
-†
+
 
 Die Folienseite, die mit den Lebensmitteln in Ber√ºhrung kommt, darf h√∂chstens 6 mg/qdm enthalten.
 
-†
 
-†
+
+
 
 -
 
 Acetyltributylcitrat
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 -
 
 Acetyl-tri-(2-ethylhexyl)citrat
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 -
 
 Di-iso-butyl- und Di-n-butyladipat
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 -
 
 Di-n-hexylazelat
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 -
 
 Dicyclohexylphthalat
 
-†
+
 
 Die Folienseite, die mit den Lebensmitteln in Ber√ºhrung kommt, darf h√∂chstens 4 mg/dm2 enthalten.
 
-†
 
-†
+
+
 
 -
 
 Diphenyl-(2-ethylhexyl)-phosphat
 
-†
+
 
 Die Menge an Diphenyl-(2-ethylhexyl)-phosphat darf nicht √ºberschreiten:
 
@@ -1461,81 +1461,81 @@ Die Menge an Diphenyl-(2-ethylhexyl)-phosphat darf nicht √ºberschreiten:
 
 - b) :: 0,4 mg/dm2 in der Beschichtung auf der mit dem Lebensmittel in Ber√ºhrung kommenden Folienseite.
 
-†
 
-†
+
+
 
 -
 
 Glycerinmonoacetat (Monoacetin)
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 -
 
 Glycerindiacetat (Diacetin)
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 -
 
 Glycerintriacetat (Triacetin)
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 -
 
 Dibutylsebacat
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 -
 
 Di-n-butyl- und Di-iso-butyltartrat
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 4.
 
 Andere Zusatzstoffe
 
-†
+
 
 In der unbeschichteten Zellglasfolie und der Beschichtung zusammen insgesamt nicht mehr als 6 mg/dm2 Ber√ºhrungsfl√§che mit den Lebensmitteln
 
-†
 
-†
+
+
 
 4.1
 
@@ -1547,401 +1547,401 @@ Die gleichen H√∂chstmengen wie in Teil A (die Mengen beziehen sich jedoch auf di
 
 Siehe Teil A
 
-†
+
 
 4.2
 
 Spezielle Stoffe f√ºr Lacke
 
-†
+
 
 Die Folienseite, die mit den Lebensmitteln in Ber√ºhrung kommt, darf von jedem Stoff oder jeder Stoffgruppe h√∂chstens 2 mg/qdm des Lackes enthalten, sofern nicht geringere Mengen angegeben sind.
 
-†
 
-†
+
+
 
 -
 
 1-Hexadecanol und 1-Octadecanol
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 -
 
 Ester der geradkettigen, ges√§ttigten oder unges√§ttigten Fetts√§uren mit geradzahliger Kohlenstoffkette von C(tief)8 - C(tief)20 und Rizinols√§ure mit geradkettigen Ethyl-, Butyl-, Amyl- und Oleylalkoholen
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 -
 
 Montanwachs, Montans√§uren C(tief)26 - C(tief)32) gereinigt und/oder deren Ester mit Ethandiol und/oder 1,3-Butandiol und/oder deren Calcium- und Kaliumsalze enthaltend
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 -
 
 Carnaubawachs
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 -
 
 Bienenwachs
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 -
 
 Espartowachs
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 -
 
 Candelillawachs
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 -
 
 Dimethylpolysiloxan
 
-†
+
 
 Die Folienseite, die mit den Lebensmitteln in Ber√ºhrung kommt, darf h√∂chstens 1 mg/qdm des Lackes enthalten.
 
-†
 
-†
+
+
 
 -
 
 Epoxydiertes Soja√∂l (mit einem Oxirangehalt zwischen 6 und 8%)
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 -
 
 Gereinigtes Paraffin und gereinigte mikrokristalline Wachse
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 -
 
 Pentaerythrittetrastearat
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 -
 
 Mono- und bis-(octadecyldiethylenoxid)-phosphat
 
-†
+
 
 Die Folienseite, die mit den Lebensmitteln in Ber√ºhrung kommt, darf h√∂chstens 0,2 mg/qdm des Lackes enthalten.
 
-†
 
-†
+
+
 
 -
 
 Aliphatische S√§uren (C(tief)8 - C(tief)20) verestert mit Mono- und/oder bis(2-hydroxyethyl)-amin
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 -
 
 2- und 3-tertbutyl-4-hydroxyanisol (Buthylhydroxyanisol, BHA)
 
-†
+
 
 Die Folienseite, die mit den Lebensmitteln in Ber√ºhrung kommt, darf h√∂chstens 0,06 mg/qdm des Lackes enthalten.
 
-†
 
-†
+
+
 
 -
 
 2,6-Di-tertbutyl-4-methylphenol (Butylhydroxytoluol, BHT)
 
-†
+
 
 Die Folienseite, die mit den Lebensmitteln in Ber√ºhrung kommt, darf h√∂chstens 0,06 mg/qdm des Lackes enthalten.
 
-†
 
-†
+
+
 
 -
 
 Di-n-octylzinn-bis-(2-ethylhexyl)-maleat
 
-†
+
 
 Die Folienseite, die mit den Lebensmitteln in Ber√ºhrung kommt, darf h√∂chstens 0,06 mg/qdm des Lackes enthalten.
 
-†
 
-†
+
+
 
 5.
 
 L√∂semittel
 
-†
+
 
 Die Folienseite, die mit den Lebensmitteln in Ber√ºhrung kommt, darf insgesamt h√∂chstens 0,6 mg/qdm des Lackes enthalten.
 
-†
+
 
 -
 
 Butylacetat
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 Ethylacetat
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 Isobutylacetat
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 Isopropylacetat
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 Propylacetat
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 Aceton
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 Butylalkohol
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 Ethylalkohol
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 Isobutylalkohol
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 Isopropylalkohol
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 Propylalkohol
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 Cyclohexan
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 Ethylenglykolmonobutylether
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 Ethylenglykolmonobutylether-acetat
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 Methylethylketon
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 Methylisobutylketon
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 Tetrahydrofuran
 
-†
 
-†
 
-†
+
+
+
 
 -
 
 Toluol
 
-†
+
 
 Die Folienseite, die mit den Lebensmitteln in Ber√ºhrung kommt, darf insgesamt h√∂chstens 0,06 mg/dm2 des Lackes enthalten.
 
-†
+
 
 - 1) :: Die √ºblichen technischen Bezeichnungen sind in eckigen Klammern angegeben.
 
@@ -2018,7 +2018,7 @@ Luftballons aus Natur- oder Synthesekautschuk
 - a) :: 0,05 Milligramm je Kilogramm Luftballon
 - b) :: 1,0 Milligramm je Kilogramm Luftballon
 
-†
+
 
 
 Anlage 5a - (zu ¬ß 6 Nr. 4)  Bedarfsgegenst√§nde, die bestimmte Stoffe nur bis zu einer festgelegten H√∂chstmenge freisetzen d√ºrfen
@@ -2043,7 +2043,7 @@ H√∂chstmenge
 3
 1.
 (weggefallen)
-†
+
 2.
 Lebensmittelbedarfs-gegenst√§nde aus Keramik:
 Blei *1)
@@ -2083,12 +2083,12 @@ Impr√§gnierungsmittel in Aerosolpackungen f√ºr Leder- und Textilerzeugnisse, die
 Aerosolpackung und Verpackung der einzelnen Aerosolpackung(en)
 2.
 Luftballons
-‚ÄZum Aufblasen eine Pumpe verwenden!‚Äú
+Zum Aufblasen eine Pumpe verwenden!‚Äú
 Verpackung und Verpackung einzelner Verpackungen.
 3.
 (weggefallen)
-†
-†
+
+
 
 Anlage 8 - (weggefallen)
 
@@ -2111,7 +2111,7 @@ Anlage 10 - (zu ¬ß 11)Verfahren zur Untersuchung bestimmter Bedarfsgegenst√§nde
 (Fundstelle: BGBl. I 1998, 34 - 35;\\
 bzgl. der einzelnen √Ñnderungen vgl. Fu√ünote)
 \\
-†
+
 Lfd. Nr.
 Untersuchung
 Verfahren
@@ -2120,7 +2120,7 @@ Verfahren
 3
 1.
 (weggefallen)
-†
+
 2.
 Bestimmung der H√∂chstmengen von Blei und Cadmium, die von Lebensmittelbedarfsgegenst√§nden aus Keramik auf Lebensmittel √ºbergehen d√ºrfen
 Grundregeln und Analysenmethode, die in den Anh√§ngen I und II der Richtlinie 84/500/EWG des Rates vom 15. Oktober 1984 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten √ºber Keramikgegenst√§nde, die dazu bestimmt sind, mit Lebensmitteln in Ber√ºhrung zu kommen (ABl. EG Nr. L 277 S. 12), ge√§ndert durch die Richtlinie 2005/31/EG der Kommission vom 29. April 2005 (ABl. EU Nr. L 110 S. 36), genannt sind.
@@ -2129,7 +2129,7 @@ Bestimmung des Vinylchloridgehaltes bei Bedarfsgegenst√§nden aus Vinylchloridpol
 Analysenmethode, die in der Amtlichen Sammlung von Untersuchungsverfahren nach ¬ß 64 Abs. 1 des Lebensmittel- und Futtermittelgesetzbuches 1) unter der Gliederungsnummer B 80.32-1 (EG), Stand November 1981, ver√∂ffentlicht ist
 4.
 (weggefallen)
-†
+
 5a.
 Referenzpr√ºfverfahren zur Bestimmung der Nickell√§ssigkeit bei Bedarfsgegenst√§nden im Sinne der Anlage 5a Nr. 1 bis 3 dieser Verordnung
 Analysenmethode, die in der Amtlichen Sammlung von Untersuchungsverfahren nach ¬ß 64 Abs. 1 des Lebensmittel- und Futtermittelgesetzbuches unter der Gliederungsnummer B 82.02 - 6 (DIN EN 1811), Stand Oktober 1999, ver√∂ffentlicht ist
@@ -2145,7 +2145,7 @@ Analysenmethode, die im Anhang I Nr. 43 der Richtlinie 76/769/EWG des Rates vom 
 8.
 Bestimmung des Gehaltes von Chrom(VI)
 Analysenmethode, die in der Amtlichen Sammlung von Untersuchungsverfahren nach ¬ß 64 Absatz 1 des Lebensmittel- und Futtermittelgesetzes unter der Gliederungsnummer B 82.02-11, Stand 2008-10, ver√∂ffentlicht ist.
-†
+
 \\
 1)
 Zu beziehen durch Beuth-Verlag GmbH, Berlin und K√∂ln.
@@ -2163,9 +2163,9 @@ bzgl. der einzelnen √Ñnderungen vgl. Fu√ünote)
   Schuherzeugnisse sind Erzeugnisse mit Sohle, die den Fu√ü sch√ºtzen oder bedecken, sowie die in Nummer 2 aufgef√ºhrten Bestandteile, sofern sie getrennt werden, und die jeweils dazu bestimmt sind, an die Verbraucherin oder den Verbraucher im Sinne des ¬ß 3 Nr. 4 des Lebensmittel- und Futtermittelgesetzbuches, wobei Gewerbetreibende, soweit sie einen Bedarfsgegenstand zum Verbrauch innerhalb ihrer Betriebsst√§tte beziehen, der Verbraucherin oder dem Verbraucher nicht gleichstehen, abgegeben zu werden.
 - 2. :: Begriffsbestimmung der einzelnen Schuhbestandteile mit den entsprechenden Piktogrammen beziehungsweise schriftlichen Angaben:
 
-†
 
-†
+
+
 
 Piktogramm
 
@@ -2207,9 +2207,9 @@ Laufsohle
 
 \\
 
-†
 
-†
+
+
 
 Piktogramm
 

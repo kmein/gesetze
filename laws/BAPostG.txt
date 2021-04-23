@@ -7,19 +7,19 @@ Ausfertigungsdatum: 14.09.1994
 Inhaltsübersicht
 
 Abschnitt 1
-�
+
 Errichtung
 § 1
 Errichtung, Rechtsform, Sitz
 § 2
 Aufsicht
 Abschnitt 2
-�
+
 Aufgaben
 § 3
 Aufgaben
 Abschnitt 3
-�
+
 Organisation
 § 4
 Leitung
@@ -32,7 +32,7 @@ Genehmigungen
 § 8
 (weggefallen)
 Abschnitt 4
-�
+
 Postbeamtenversorgungskasse
 § 9
 Grundsätze
@@ -45,7 +45,7 @@ Rechtsnachfolge des Bundes-Pensions-Service für Post und Telekommunikation e. 
 § 13
 Überleitung der Beamtinnen und Beamten
 Abschnitt 5
-�
+
 Dienstrechtliche Aufgaben
 § 14
 Prüfungen bei Disziplinarverfahren, Entlassungen und Zurruhesetzungen
@@ -58,7 +58,7 @@ Ausübung der dienstrechtlichen Befugnisse bei der Auflösung von Postnachfolgeu
 § 18
 (weggefallen)
 Abschnitt 6
-�
+
 Wirtschaftsführung
 § 19
 Finanzierung
@@ -69,7 +69,7 @@ Rechnungslegung
 § 22
 Prüfung und Entlastung der Präsidentin oder des Präsidenten
 Abschnitt 7
-�
+
 Personal
 § 23
 Beamtinnen und Beamte, Arbeitnehmerinnen und Arbeitnehmer
@@ -78,14 +78,14 @@ Beamtinnen und Beamte, Arbeitnehmerinnen und Arbeitnehmer
 § 25
 Vorübergehende geringerwertige Verwendung
 Abschnitt 8
-�
+
 Soziale Aufgaben
 § 26
 Betriebliche Sozialeinrichtungen
-�
+
 Unterabschnitt 1
-�
-�
+
+
 Verwaltung der Postbeamtenkrankenkasse
 § 26a
 Organe
@@ -95,10 +95,10 @@ Vorstand, Verwaltungsrat
 Satzung
 § 26d
 Aufgaben
-�
+
 Unterabschnitt 2
-�
-�
+
+
 Wirtschaftsführung der Postbeamtenkrankenkasse
 § 26e
 Wirtschaftsplan
@@ -116,21 +116,21 @@ Freistellung der Bundesrepublik Deutschland
 Verteilung des Verwaltungsaufwands, Verordnungsermächtigung
 § 26l
 Beihilfebearbeitung für andere Stellen
-�
+
 Unterabschnitt 3
-�
-�
+
+
 Wohnungsfürsorge
 § 27
 Wohnungsfürsorge
 Abschnitt 9
-�
+
 Übergangsregelungen
 § 28
 Übergangsregelung im Sozialwesen
 § 29
 Vermögensübergang
-�
+
 
 § 1 - Errichtung, Rechtsform, Sitz
 
@@ -196,7 +196,7 @@ Die Entlastung gemäß Satz 1 Nr. 3 befreit nicht von der dienstvertraglichen Ha
 
 § 9 - Grundsätze
 
-Die Bundesanstalt nimmt die der Postbeamtenversorgungskasse in den §§ 14 bis 16 des Postpersonalrechtsgesetzes übertragenen Aufgaben wahr. Die Bundesanstalt kann mit Zustimmung des Bundesministeriums der Finanzen unter der Bezeichnung �Postbeamtenversorgungskasse“ weitere Aufgaben wahrnehmen, deren Erfüllung im Interesse der Leistungsempfängerinnen und Leistungsempfänger liegt.
+Die Bundesanstalt nimmt die der Postbeamtenversorgungskasse in den §§ 14 bis 16 des Postpersonalrechtsgesetzes übertragenen Aufgaben wahr. Die Bundesanstalt kann mit Zustimmung des Bundesministeriums der Finanzen unter der Bezeichnung Postbeamtenversorgungskasse“ weitere Aufgaben wahrnehmen, deren Erfüllung im Interesse der Leistungsempfängerinnen und Leistungsempfänger liegt.
 
 § 10 - Wirtschaftsführung, Rechnungslegung
 

@@ -7,7 +7,7 @@ Ausfertigungsdatum: 31.08.2004
 Inhaltsverzeichnis
 
 Abschnitt 1
- 
+
 Allgemeine Vorschriften
 Â§ 1
 Anwendungsbereich und Zweck
@@ -16,7 +16,7 @@ Begriffsbestimmungen
 Â§ 3
 Allgemeine Anforderungen an die ZuteilungsantrÃ¤ge
 Abschnitt 2
- 
+
 Allgemeine Regeln zur Bestimmung der Kohlendioxid-Emissionen
 Â§ 4
 Bestimmung der Emissionsfaktoren
@@ -31,7 +31,7 @@ Ermittlung der Emissionen auf Grundlage des Eigenverbrauchs
 Â§ 9
 Messung der Kohlendioxid-Emissionen
 Abschnitt 3
- 
+
 Besondere Regeln der Berechnung der Kohlendioxid-Emissionen
 Â§ 10
 Zuteilung fÃ¼r bestehende Anlagen auf Basis historischer Emissionen
@@ -42,7 +42,7 @@ Zuteilung fÃ¼r zusÃ¤tzliche Neuanlagen
 Â§ 13
 FrÃ¼hzeitige Emissionsminderungen
 Abschnitt 4
- 
+
 Gemeinsame Vorschriften
 Â§ 14
 Anforderungen an die Verifizierung der ZuteilungsantrÃ¤ge
@@ -469,9 +469,9 @@ Anhang 6 - (zu Â§ 6 Abs. 7)Ermittlung der prozessbedingten Kohlendioxid-Emission
 Formel
 E(tief)ges;proz =
 (
- 
+
 )
- 
+
 44
 (
 C(tief)in;ges - C(tief)out;Koks
@@ -479,11 +479,11 @@ C(tief)in;ges - C(tief)out;Koks
 x
 --
 (
- 
+
 )
- 
+
 12
- 
+
 E(tief)ges;proz
 gesamte prozessbedingte CO(tief)2-Emissionen in t CO(tief)2
 C(tief)in;ges
@@ -541,8 +541,8 @@ In diesem Fall werden die Emissionen der Anlage im Jahr der Inbetriebnahme unter
 Formel 2
 E(tief)H =
 E(tief)Bz x G(tief)15: GTZ
- 
- 
+
+
 GTZ
 kumulierte Gradtagszahl fÃ¼r die Betriebsdauer der Anlage im ersten Betriebsjahr
 G15
@@ -551,13 +551,13 @@ EH
 Emissionshochrechnung fÃ¼r volles Betriebsjahr
 EBz
 Emissionen der Anlage im Betriebszeitraum im Kalenderjahr der Inbetriebnahme
- 
+
 Emissionshochrechnung bei saisonalen Produktionsschwankungen (Kampagnenbetrieb)
 In diesem Fall werden die Emissionen der Anlage im Jahr der Inbetriebnahme unter BerÃ¼cksichtigung saisonaler Produktionsschwankungen auf das volle Jahr hochgerechnet.
- 
+
 Formel 3
 FÃ¼r die FÃ¤lle des Â§ 7 Abs. 4 Zuteilungsgesetz 2007
- 
+
 (
 )
 (
@@ -567,27 +567,27 @@ E(tief)H =
 ) x
 ((PM2 + PM3
 ) : 2)
- 
+
 (
 )
 (
 )
- 
+
 Formel 4
 FÃ¼r die FÃ¤lle des Â§ 7 Abs. 5 Zuteilungsgesetz 2007
- 
+
 (
 )
 E(tief)H =
 (E(tief)Bz: PM1
 ) x
 PM2
- 
- 
+
+
 (
 )
- 
- 
+
+
 PM1
 Produktionsmenge innerhalb des ersten Betriebsjahres
 PM2

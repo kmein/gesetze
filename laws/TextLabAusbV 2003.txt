@@ -222,7 +222,7 @@ Textile Rohstoffe und Produkte (§ 6 Nr. 5)
 a)
 textile Faserstoffe nach Aufbau und Eigenschaften unterscheiden
 12*)
-�
+
 b)
 Faserstoffarten bestimmen
 c)
@@ -237,7 +237,7 @@ g)
 Feinheitsbe- und -umrechnungen sowie textile Flächenberechnungen durchführen
 h)
 Einfluss der Fasereigenschaften und -mischungen auf den Herstellungsprozess und das Fertigprodukt berücksichtigen
-�
+
 10*)
 i)
 Veredlungsprozesse hinsichtlich iher Art und Auswirkung unterscheiden
@@ -248,14 +248,14 @@ Planen und Vorbereiten von Arbeitsabläufen (§ 6 Nr. 6)
 a)
 Auftragsunterlagen prüfen, Auftragsziele und Arbeitsschritte festlegen
 4*)
-�
+
 b)
 Werk- und Hilfsstoffe, Arbeitsmittel und -geräte auswählen und bereitstellen
 c)
 Arbeitsplatz nach ergonomischen Gesichtspunkten einrichten
 d)
 Prüfmethoden abstimmen, Terminvorgaben beachten
-�
+
 4*)
 e)
 Aufgaben im Team planen und bearbeiten, Ergebnisse abstimmen und auswerten
@@ -268,21 +268,21 @@ Anwenden von Informations- und Kommunikationssystemen (§ 6 Nr. 7)
 a)
 Informationsstrukturen nutzen, insbesondere Datenorganisation und -verwaltung sowie externe Datenbanken
 4
-�
+
 b)
 Informationen auswählen, bewerten und einordnen
 c)
 Daten sichern und Vorschriften des Datenschutzes anwenden
 d)
 Anwendungsprogramme unterscheiden und einsetzen
-�
+
 2
 8
 Durchführen von qualitätssichernden Maßnahmen (§ 6 Nr. 8)
 a)
 Ziele, Aufgaben, Bedeutung und Aufbau des betrieblichen Qualitätsmanagementsystems beschreiben
 4*)
-�
+
 b)
 Funktionstüchtigkeit der Prüfgeräte sicherstellen
 c)
@@ -291,7 +291,7 @@ d)
 Prüfverfahren und Prozessabläufe, fortwährend auf Einhaltung der Vorgaben kontrollieren, bei Abweichungen Systemeinstellungen korrigieren
 e)
 Ursachen von Fehlern systematisch ermitteln, Korrektur- und Vorbeugungsmaßnahmen umsetzen
-�
+
 4*)
 f)
 Qualitätsmanagement-Dokumentationen erstellen und anwenden
@@ -304,12 +304,12 @@ Anwenden und Anfertigen von technischen Dokumentationen (§ 6 Nr. 9)
 a)
 technische Unterlagen handhaben, insbesondere Bedienungsanleitungen, Prüfnormen, Prüfvorschriften, Merkblätter, Richtlinien und Arbeitsanweisungen
 4
-�
+
 b)
 Skizzen und Zeichnungen anfertigen, insbesondere Bindungen und Legungen zeichnen
 c)
 technische Dokumentationen erstellen, insbesondere Prüfprotokolle und Zertifikate
-�
+
 10
 d)
 fremdsprachige Dokumentationen handhaben, insbesondere Bedienungsanleitungen und Arbeitsanweisungen
@@ -320,7 +320,7 @@ Identifizieren von Faserstoffen (§ 6 Nr. 10)
 a)
 Faserstoffe nach Anfärbemethoden unterscheiden
 8
-�
+
 b)
 Faserstoffe mikroskopisch erkennen und bildlich darstellen, insbesondere Faserstrukturen
 c)
@@ -336,7 +336,7 @@ Vorbereiten von Proben (§ 6 Nr. 11)
 a)
 Verfahren zur Probeentnahme und Probenvorbereitung unterscheiden
 7
-�
+
 b)
 Proben entnehmen, insbesondere nach genormten Stichprobenplänen
 c)
@@ -348,7 +348,7 @@ Anwenden von Prüfverfahren (§ 6 Nr. 12)
 a)
 Prüfverfahren festlegen
 12
-�
+
 b)
 Einrichtungen und Arbeitsgeräte zum Einsatz vorbereiten und auf Funktionstüchtigkeit prüfen
 c)
@@ -359,19 +359,19 @@ e)
 bei Störungen Maßnahmen zur Fehlerbeseitigung einleiten
 f)
 Prüfungen unter Einhaltung der Prüfnormen durchführen, Kenndaten ermitteln
-�
+
 14
 13
 Auswerten von Messergebnissen (§ 6 Nr. 13)
 a)
 arithmetisches Mittel von Mess- und Prüfreihen berechnen und auswerten
 7
-�
+
 b)
 Prüfberichte erstellen
 c)
 Mess- und Prüfreihen berechnen, statistische Verfahren anwenden
-�
+
 12
 d)
 bei Abweichungen Maßnahmen einleiten
@@ -382,7 +382,7 @@ Bestimmen der Merkmale von Faserstoffen, textilen Längen- und Flächengebilden 
 a)
 histologische Eigenschaften an Faserstoffen feststellen, insbesondere Länge und Feinheit
 8
-�
+
 b)
 mechanisch-technologische Eigenschaften an Faserstoffen und textilen Längengebilden ermitteln, insbesondere Gleichmäßigkeit, Festigkeit und Dehnung
 c)
@@ -393,7 +393,7 @@ e)
 Konstruktionsmerkmale an textilen Längengebilden bestimmen, insbesondere längenbezogene Masse und Drehung
 f)
 mechanisch-technologische Eigenschaften an textilen Flächengebilden und Verbundstoffen ermitteln, insbesondere Festigkeit, Dehnung und Verschleiß
-�
+
 8
 g)
 Ungleichmäßigkeit von textilen Längengebilden bestimmen, Fehlarten analysieren und klassifizieren
@@ -402,7 +402,7 @@ Umgehen mit Arbeitsstoffen (§ 6 Nr. 15)
 a)
 Lösemittel einsetzen, Lösungen herstellen, aufbewahren und entsorgen
 8
-�
+
 b)
 Arbeitsstoffe nachweisen
 c)
@@ -428,7 +428,7 @@ Zeitliche Richtwerte in Wochen im
 Bestimmen der Merkmale von Werk- und Arbeitsstoffen (§ 6 Nr. 16)
 a)
 Verarbeitungskriterien und anwendungstechnisches Verhalten ermitteln
-�
+
 14
 b)
 Funktionalität prüfen
@@ -436,7 +436,7 @@ c)
 ökologische Anforderungen prüfen, insbesondere Humanverträglichkeit und Wiederverwertung
 d)
 Widerstandsfähigkeit gegenüber mechanischen Einflüssen prüfen, insbesondere Formveränderung, Durchlässigkeit gegenüber verschiedener Medien, Reibung sowie Knitter- oder Biegefestigkeit
-�
+
 26
 e)
 Widerstandsfähigkeit gegenüber thermischen Einflüssen prüfen, insbesondere Brennverhalten
@@ -461,7 +461,7 @@ Zeitliche Richtwerte in Wochen im
 Bestimmen der Merkmale von Werk- und Arbeitsstoffen (§ 6 Nr. 16)
 a)
 Wasseruntersuchungen durchführen, insbesondere bei Abwasser
-�
+
 4
 b)
 Behandlungsflotten oder -pasten sowie Prozesswasser quantitativ bestimmen, insbesondere durch Gravimetrie und Volumetrie
@@ -469,7 +469,7 @@ c)
 Humanverträglichkeit und Wiederverwertung prüfen
 d)
 produktspezifische Eigenschaften bestimmen, Textilhilfsmittel auswählen, Rezepturen erstellen und prüfen
-�
+
 20
 e)
 Wirkungsweise von Textilhilfsmitteln prüfen, insbesondere Applikationseffekte
@@ -481,7 +481,7 @@ h)
 optische Messungen durchführen
 i)
 produktspezifische Eigenschaften bestimmen, Farbmittel substratbezogen auswählen und ansetzen, Eichfärbungen erstellen und prüfen
-�
+
 16
 k)
 Wirksamkeit von Farbmitteln prüfen, insbesondere Echtheiten und Aufziehverhalten
@@ -506,7 +506,7 @@ Zeitliche Richtwerte in Wochen im
 Bestimmen der Merkmale von Werk- und Arbeitsstoffen (§ 6 Nr. 16)
 a)
 Wasseruntersuchung durchführen, insbesondere bei Abwasser
-�
+
 6
 b)
 Behandlungsflotten oder -pasten sowie Prozesswasser quantitativ bestimmen, insbesondere durch Gravimetrie und Volumetrie
@@ -514,11 +514,11 @@ c)
 physikalische Größen messen und Stoffkonstanten bestimmen
 d)
 Analyseverfahren anwenden, insbesondere Chromatografie, Spektroskopie, Rheologie, thermische und elektrochemische Analysen
-�
+
 12
 e)
 produktspezifische Eigenschaften ermitteln, Konzentrationen bestimmen
-�
+
 22
 f)
 anwendungsrelevante Eigenschaften feststellen, insbesondere Dosierfähigkeit, Verdünnungs- und Mischungsverhalten

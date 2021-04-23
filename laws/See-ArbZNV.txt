@@ -65,12 +65,12 @@ Die Höchstarbeitszeit und die Mindestruhezeit unterliegen nachstehender Regelun
 Höchstarbeitszeit und Mindestruhezeit:
 Sonstige Bestimmungen:
 Unterschrift des Kapitäns: _______________________
-�
+
 _______________
 - <<FnA1-f782027_02>>[[#FnR.FnA1-f782027_02][1]] :: Die in diesem Muster verwendeten Begriffe sind in den Arbeitssprachen des Schiffes sowie in Englisch anzugeben.
 - <<FnA1-f782027_03>>[[#FnR.FnA1-f782027_03][2]] :: Hier sind die gleichen wie die im Schiffsbesatzungszeugnis für diese dienstliche Stellung/Ränge enthaltenen Begriffe zu verwenden.
 - <<FnA1-f782027_04>>[[#FnR.FnA1-f782027_04][3]] :: Nichtzutreffendes streichen.
-- <<FnA1-f782027_05>>[[#FnR.FnA1-f782027_05][4]] :: Für das Wachpersonal können unter der Rubrik �Bemerkungen“ Angaben zu der voraussichtlich für außerplanmäßige Dienste abzuleistenden Stundenzahl eingetragen werden; diese Stunden sind in die Rubrik zur Angabe der täglichen Gesamtarbeitszeit aufzunehmen.
+- <<FnA1-f782027_05>>[[#FnR.FnA1-f782027_05][4]] :: Für das Wachpersonal können unter der Rubrik Bemerkungen“ Angaben zu der voraussichtlich für außerplanmäßige Dienste abzuleistenden Stundenzahl eingetragen werden; diese Stunden sind in die Rubrik zur Angabe der täglichen Gesamtarbeitszeit aufzunehmen.
 
 
 Anlage 2 - (zu § 3 Absatz 1)Standardmuster für die Übersicht über die Arbeitszeiten und Ruhezeiten von Besatzungsmitgliedern
@@ -82,18 +82,18 @@ Flagge des Schiffes: _____________________
 Besatzungsmitglied (vollständiger Name): __________________________________________
 Dienstliche Stellung/Rang: _________________
 Monat und Jahr: ________________________
-�
+
 Wachdienst<<FnR.FnA1-f782027_07>>[[#FnA1-f782027_07][2]]} ja □ nein □
 Übersicht über die Arbeits-/Ruhezeiten<<FnR.FnA1-f782027_08>>[[#FnA1-f782027_08][3]]}
-Bitte kennzeichnen Sie die Arbeits- oder Ruhezeiten ggf. mit einem �X“ oder verwenden Sie eine durchgehende Pfeillinie.\\
+Bitte kennzeichnen Sie die Arbeits- oder Ruhezeiten ggf. mit einem X“ oder verwenden Sie eine durchgehende Pfeillinie.\\
 \\
 
 Für dieses Schiff gelten die nachstehenden Rechts- und Verwaltungsvorschriften\\
 über die Begrenzung der Arbeitszeiten oder Mindestruhezeiten:   §§ 42 bis 55 Seearbeitsgesetz___________________________________
-Für dieses Schiff gelten die nachstehenden Tarifverträge über die Begrenzung der Arbeitszeiten oder Mindestruhezeiten: ___________________�
+Für dieses Schiff gelten die nachstehenden Tarifverträge über die Begrenzung der Arbeitszeiten oder Mindestruhezeiten: ___________________
 Ich bestätige, dass die Übersicht die Arbeits- bzw. Ruhezeiten des betroffenen Besatzungsmitglieds korrekt wiedergibt.
-Name des Kapitäns oder der vom Kapitän zur Unterzeichnung dieser Übersicht beauftragten Person: _________________________________�
-Unterschrift des Kapitäns oder der hierzu beauftragten Person: _________________ Unterschrift des Besatzungsmitglieds: ________________�
+Name des Kapitäns oder der vom Kapitän zur Unterzeichnung dieser Übersicht beauftragten Person: _________________________________
+Unterschrift des Kapitäns oder der hierzu beauftragten Person: _________________ Unterschrift des Besatzungsmitglieds: ________________
 Dem Besatzungsmitglied ist eine Kopie dieses Nachweises auszuhändigen.
 |   | Dieses Formular ist gemäß den von der\\                      |
 |   | Berufsgenossenschaft für Transport- und Verkehrswirtschaft\\ |
@@ -105,6 +105,6 @@ _______________
 - <<FnA1-f782027_07>>[[#FnR.FnA1-f782027_07][2]] :: Mit √ bestätigen.
 - <<FnA1-f782027_08>>[[#FnR.FnA1-f782027_08][3]] :: Nichtzutreffendes streichen.
 
-�
+
 [[../normengrafiken/bgbl1_2013/j2795_0010.pdf][PDF-Dokument wird in eigenem Fenster angezeigt]]
 \\

@@ -49,7 +49,7 @@ Anlage - (zu § 1 Absatz 2) Meldung von in Tierversuchen verwendeten Wirbeltiere
   - -- :: Sentineltiere.
 
   Tiere, die, auch mit Kaiserschnitt, geboren wurden und leben, sowie Tiere im Larvenstadium, die selbständig Nahrung aufnehmen können, sind zu zählen. Jede Verwendung eines Tieres ist zum Ende des Versuchsvorhabens zu melden. Für Versuchsvorhaben mit einer Laufzeit von über zwei Kalenderjahren sind die Daten über die Tiere für das Jahr zu melden, in dem diese getötet werden oder sterben oder nicht mehr in dem Versuchsvorhaben verwendet werden.
-  Die Meldung erfolgt elektronisch anhand eines elektronischen Erfassungsbogens. Au�Andere ...“ in den Spalten E, N und P angegeben wird, sind jeweils in den folgenden Spalten F, O und Q und ggf. in Spalte U Erläuterungen zu machen.
+  Die Meldung erfolgt elektronisch anhand eines elektronischen Erfassungsbogens. AuAndere ...“ in den Spalten E, N und P angegeben wird, sind jeweils in den folgenden Spalten F, O und Q und ggf. in Spalte U Erläuterungen zu machen.
   Angaben zu Tieren einer Tierart sind grundsätzlich in einer Zeile einzutragen, sofern sie in einem Vorhaben eingesetzt wurden, das bezüglich der erfassten Aspekte gleichartig war. Innerhalb einer Zeile kann pro Spalte nur eine Option angegeben werden. Daher sind bei komplexen Vorhaben, in denen mehrere Optionen in einer Spalte erfüllt sind, die Angaben in mehreren Zeilen aufzuschlüsseln. Gleichbleibende Optionen, wie z. B. der Verwendungszweck, sind in jeder Zeile einzutragen.
 - 2. :: E r l ä u t e r u n g e n  z u  d e n  S p a l t e n
   \\
@@ -108,7 +108,7 @@ Anlage - (zu § 1 Absatz 2) Meldung von in Tierversuchen verwendeten Wirbeltiere
   \\
   \\
   Spalte F:
-  Falls die Option �Andere ...“ in Spalte E angegeben wird (A7, A12, A25, A27, A29, A33, A35), ist hier die verwendete Tierart in derselben Zeile einzutragen.
+  Falls die Option Andere ...“ in Spalte E angegeben wird (A7, A12, A25, A27, A29, A33, A35), ist hier die verwendete Tierart in derselben Zeile einzutragen.
   \\
   \\
   Spalte G:
@@ -161,7 +161,7 @@ Anlage - (zu § 1 Absatz 2) Meldung von in Tierversuchen verwendeten Wirbeltiere
   \\
   \\
   Spalte M:
-  Es ist anzugeben, ob die Verwendung der Schaffung neuer genetisch veränderter Linien/Stämme diente (Ja/Nein). Zur Schaffung neuer genetisch veränderter Linien/Stämme verwendete Tiere sind solche, die zur Schaffung einer neuen genetisch veränderten Linie beziehungsweise eines Stamms verwendet und von anderen Tieren, die der �Grundlagenforschung“ oder sonstiger Forschung vorbehalten sind, zu unterscheiden sind.\\
+  Es ist anzugeben, ob die Verwendung der Schaffung neuer genetisch veränderter Linien/Stämme diente (Ja/Nein). Zur Schaffung neuer genetisch veränderter Linien/Stämme verwendete Tiere sind solche, die zur Schaffung einer neuen genetisch veränderten Linie beziehungsweise eines Stamms verwendet und von anderen Tieren, die der Grundlagenforschung“ oder sonstiger Forschung vorbehalten sind, zu unterscheiden sind.\\
   \\
   Spalte N:\\
   \\
@@ -240,10 +240,10 @@ Anlage - (zu § 1 Absatz 2) Meldung von in Tierversuchen verwendeten Wirbeltiere
   \\
   \\
   Spalte O:
-  Falls die Option �Andere ...“ angegeben wurde (PB13, PT32, PR53, PR64, PR82, PR103, PR106), ist der spezifische Verwendungszweck zu benennen.\\
+  Falls die Option Andere ...“ angegeben wurde (PB13, PT32, PR53, PR64, PR82, PR103, PR106), ist der spezifische Verwendungszweck zu benennen.\\
   \\
   Spalte P:
-  Diese Spalte ist nur auszufüllen, wenn in Spalte N bei �Verwendungszweck“ eine der Optionen PR51 bis PR106 (Regulatorischer Zweck, ...) angegeben wurde. Die Rechtsvorschrift muss entsprechend dem vorgesehenen Hauptverwendungszweck angegeben werden.\\
+  Diese Spalte ist nur auszufüllen, wenn in Spalte N bei Verwendungszweck“ eine der Optionen PR51 bis PR106 (Regulatorischer Zweck, ...) angegeben wurde. Die Rechtsvorschrift muss entsprechend dem vorgesehenen Hauptverwendungszweck angegeben werden.\\
   \\
   | (LT1) Vorschriften für Humanarzneimittel                                                                                     |
   | (LT2) Vorschriften für Tierarzneimittel und ihre Rückstände                                                                  |
@@ -259,10 +259,10 @@ Anlage - (zu § 1 Absatz 2) Meldung von in Tierversuchen verwendeten Wirbeltiere
   \\
   \\
   Spalte Q:
-  Falls unter Spalte P �Andere“ angegeben wurde, ist die spezifische Rechtsvorschrift, die der Verwendung zugrunde liegt, zu benennen.\\
+  Falls unter Spalte P Andere“ angegeben wurde, ist die spezifische Rechtsvorschrift, die der Verwendung zugrunde liegt, zu benennen.\\
   \\
   Spalte R:
-  Diese Spalte ist nur auszufüllen, wenn eine Vorschrift nach Spalte P angegeben wurde oder eine andere in der Spalte Q. Ausschlaggebend ist dabei nicht, wer die Prüfung in Auftrag gibt, sondern welchen Vorschriften nachgekommen wird, wobei der weitreichenderen Vorschrift Vorrang eingeräumt wird. Dienen die nationalen Vorschriften der Umsetzung von EU-Recht (z. B. Umsetzung von Richtlinien der EU, Durchführung von Verordnungen der EU u. Ä.), muss �Vorschriften, die EU-Anforderungen erfüllen“ gewählt werden.\\
+  Diese Spalte ist nur auszufüllen, wenn eine Vorschrift nach Spalte P angegeben wurde oder eine andere in der Spalte Q. Ausschlaggebend ist dabei nicht, wer die Prüfung in Auftrag gibt, sondern welchen Vorschriften nachgekommen wird, wobei der weitreichenderen Vorschrift Vorrang eingeräumt wird. Dienen die nationalen Vorschriften der Umsetzung von EU-Recht (z. B. Umsetzung von Richtlinien der EU, Durchführung von Verordnungen der EU u. Ä.), muss Vorschriften, die EU-Anforderungen erfüllen“ gewählt werden.\\
   \\
   | (LO1) Vorschriften, die EU-Anforderungen erfüllen            |
   | (LO2) Vorschriften, die nur nationale Anforderungen erfüllen |

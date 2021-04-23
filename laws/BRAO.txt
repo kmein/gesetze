@@ -389,7 +389,7 @@ Die Zulassung nach Satz 1 kann für mehrere Arbeitsverhältnisse erteilt werden.
 
 - 1. :: abweichend von § 12 Absatz 2 der Nachweis des Abschlusses einer Berufshaftpflichtversicherung oder die Vorlage einer vorläufigen Deckungszusage nicht erforderlich ist;
 - 2. :: abweichend von § 12 Absatz 3 die Bewerberin oder der Bewerber unbeschadet des § 12 Absatz 1, 2 Nummer 1 und Absatz 4 mit der Zulassung rückwirkend zu dem Zeitpunkt Mitglied der Rechtsanwaltskammer wird, zu dem der Antrag auf Zulassung dort eingegangen ist, sofern nicht die Tätigkeit, für die die Zulassung erfolgt, erst nach der Antragstellung begonnen hat; in diesem Fall wird die Mitgliedschaft erst mit dem Zeitpunkt des Beginns der Tätigkeit begründet;
-- 3. :: abweichend von § 12 Absatz 4 die Tätigkeit unter der Berufsbezeichnung �Rechtsanwältin (Syndikusrechtsanwältin)“ oder �Rechtsanwalt (Syndikusrechtsanwalt)“ auszuüben ist.
+- 3. :: abweichend von § 12 Absatz 4 die Tätigkeit unter der Berufsbezeichnung Rechtsanwältin (Syndikusrechtsanwältin)“ oder Rechtsanwalt (Syndikusrechtsanwalt)“ auszuüben ist.
 
 
 § 46b - Erlöschen und Änderung der Zulassung als Syndikusrechtsanwalt
@@ -664,7 +664,7 @@ Die Rechtsanwaltsgesellschaft muß an ihrem Sitz eine Kanzlei unterhalten, in de
 
 § 59k - Firma
 
-(1) Die Firma der Gesellschaft muss die Bezeichnung �Rechtsanwaltsgesellschaft“ enthalten.
+(1) Die Firma der Gesellschaft muss die Bezeichnung Rechtsanwaltsgesellschaft“ enthalten.
 (2) Andere als zugelassene Rechtsanwaltsgesellschaften dürfen die Bezeichnung "Rechtsanwaltsgesellschaft" nicht führen. Berufliche Zusammenschlüsse, die die Bezeichnung "Rechtsanwaltsgesellschaft" bereits am 1. März 1999 in ihrem Namen geführt und einen Hinweis auf die Rechtsform hinzugefügt haben, dürfen eine solche Bezeichnung weiterführen.
 
 § 59l - Vertretung vor Gerichten und Behörden
@@ -1677,7 +1677,7 @@ Die Bundesrechtsanwaltskammer faßt ihre Beschlüsse regelmäßig auf Versammlun
 
 § 191f - Schlichtungsstelle der Rechtsanwaltschaft
 
-(1) Bei der Bundesrechtsanwaltskammer wird eine unabhängige Stelle zur Schlichtung von Streitigkeiten zwischen Mitgliedern von Rechtsanwaltskammern und deren Auftraggebern eingerichtet. Die Stelle führt den Namen �Schlichtungsstelle der Rechtsanwaltschaft“.
+(1) Bei der Bundesrechtsanwaltskammer wird eine unabhängige Stelle zur Schlichtung von Streitigkeiten zwischen Mitgliedern von Rechtsanwaltskammern und deren Auftraggebern eingerichtet. Die Stelle führt den Namen Schlichtungsstelle der Rechtsanwaltschaft“.
 (2) Der Präsident der Bundesrechtsanwaltskammer bestellt einen oder mehrere Schlichter, die allein oder als Kollegialorgan tätig werden. Zum Schlichter, der allein tätig wird, darf nur bestellt werden, wer die Befähigung zum Richteramt besitzt, weder Rechtsanwalt ist noch in den letzten drei Jahren vor Amtsantritt war und weder im Haupt- noch im Nebenberuf bei der Bundesrechtsanwaltskammer, einer Rechtsanwaltskammer oder einem Verband der Rechtsanwaltschaft tätig ist oder in den letzten drei Jahren vor Amtsantritt tätig war. Erfolgt die Schlichtung durch ein Kollegialorgan, muss mindestens einer der Schlichter die Befähigung zum Richteramt besitzen; höchstens die Hälfte seiner Mitglieder dürfen Rechtsanwälte sein. Nichtanwaltliches Mitglied des Kollegialorgans darf nur sein, wer in den letzten drei Jahren vor Amtsantritt nicht Rechtsanwalt war und weder im Haupt- noch im Nebenberuf bei der Bundesrechtsanwaltskammer, einer Rechtsanwaltskammer oder einem Verband der Rechtsanwaltschaft tätig ist oder in den letzten drei Jahren vor Amtsantritt tätig war. Anwaltliche Mitglieder des Kollegialorgans dürfen nicht dem Vorstand einer Rechtsanwaltskammer oder eines Verbandes der Rechtsanwaltschaft angehören oder im Haupt- oder Nebenberuf bei der Bundesrechtsanwaltskammer, einer Rechtsanwaltskammer oder einem Verband der Rechtsanwaltschaft tätig sein.
 (3) Es wird ein Beirat errichtet, dem Vertreter der Bundesrechtsanwaltskammer, von Rechtsanwaltskammern, Verbänden der Rechtsanwaltschaft und Verbänden der Verbraucher angehören müssen. Andere Personen können in den Beirat berufen werden. Höchstens die Hälfte der Mitglieder des Beirats dürfen Rechtsanwälte sein. Dem Beirat ist vor der Bestellung von Schlichtern und vor Erlass und Änderung der Satzung Gelegenheit zur Stellungnahme zu geben. Er kann eigene Vorschläge für die Bestellung von Schlichtern und die Ausgestaltung der Satzung unterbreiten.
 (4) Die Schlichtungsstelle ist Verbraucherschlichtungsstelle nach dem Verbraucherstreitbeilegungsgesetz vom 19. Februar 2016 (BGBl. I S. 254), das durch Artikel 1 des Gesetzes vom 30. November 2019 (BGBl. I S. 1942) geändert worden ist. Das Verbraucherstreitbeilegungsgesetz ist anzuwenden, soweit dieses Gesetz keine Regelungen zur Schlichtung von Streitigkeiten nach Absatz 1 Satz 1 enthält. Das Bundesministerium der Justiz und für Verbraucherschutz übermittelt der Zentralen Anlaufstelle für Verbraucherschlichtung die Angaben nach § 32 Absatz 3 und 4 des Verbraucherstreitbeilegungsgesetzes. Das Bundesministerium der Justiz und für Verbraucherschutz übermittelt die Evaluationsberichte der Schlichtungsstelle an die Zentrale Anlaufstelle für Verbraucherschlichtung; § 35 Absatz 2 des Verbraucherstreitbeilegungsgesetzes ist nicht anzuwenden.
@@ -1777,7 +1777,7 @@ Im anwaltsgerichtlichen Verfahren, im Verfahren über den Antrag auf Entscheidun
 
 (1) Dem Antrag auf Aufnahme ist eine Bescheinigung der im Herkunftsstaat zuständigen Behörde über die Zugehörigkeit zu dem Beruf beizufügen. Diese Bescheinigung ist der Rechtsanwaltskammer jährlich neu vorzulegen. Kommt der niedergelassene ausländische Rechtsanwalt dieser Pflicht nicht nach oder fallen die Voraussetzungen des § 206 weg, ist die Aufnahme in die Rechtsanwaltskammer zu widerrufen.
 (2) Für die Entscheidung über den Antrag, die Rechtsstellung nach Aufnahme in die Rechtsanwaltskammer sowie die Rücknahme und den Widerruf der Aufnahme in die Rechtsanwaltskammer gelten der Zweite Teil mit Ausnahme der §§ 4, 12 Absatz 2 Nummer 1 und Absatz 4 sowie der §§ 12a und 17, der Dritte und Vierte Teil, der Vierte Abschnitt des Fünften Teils, der Sechste, Siebente, Zehnte, Elfte und Dreizehnte Teil dieses Gesetzes sinngemäß sowie die auf Grund von § 31c erlassene Rechtsverordnung. Für die Berufshaftpflichtversicherung gilt § 7 Absatz 1 und 2 des Gesetzes über die Tätigkeit europäischer Rechtsanwälte in Deutschland entsprechend. Vertretungsverbote nach § 114 Abs. 1 Nr. 4 sowie den §§ 150 und 161a sind für den Geltungsbereich dieses Gesetzes auszusprechen. An die Stelle der Ausschließung aus der Rechtsanwaltschaft (§ 114 Abs. 1 Nr. 5) tritt das Verbot, im Geltungsbereich dieses Gesetzes fremde Rechtsangelegenheiten zu besorgen; mit der Rechtskraft dieser Entscheidung verliert der Verurteilte die Mitgliedschaft in der Rechtsanwaltskammer.
-(3) Der niedergelassene ausländische Rechtsanwalt hat bei der Führung seiner Berufsbezeichnung den Herkunftsstaat in deutscher Sprache anzugeben. Wurde er als Syndikusrechtsanwalt in die Rechtsanwaltskammer aufgenommen, hat er seiner Berufsbezeichnung zudem die Bezeichnung �Syndikus“ in Klammern nachzustellen. Der niedergelassene ausländische Rechtsanwalt ist berechtigt, im beruflichen Verkehr zugleich die Bezeichnung �Mitglied der Rechtsanwaltskammer“ zu verwenden.
+(3) Der niedergelassene ausländische Rechtsanwalt hat bei der Führung seiner Berufsbezeichnung den Herkunftsstaat in deutscher Sprache anzugeben. Wurde er als Syndikusrechtsanwalt in die Rechtsanwaltskammer aufgenommen, hat er seiner Berufsbezeichnung zudem die Bezeichnung Syndikus“ in Klammern nachzustellen. Der niedergelassene ausländische Rechtsanwalt ist berechtigt, im beruflichen Verkehr zugleich die Bezeichnung Mitglied der Rechtsanwaltskammer“ zu verwenden.
 (4) Für die Anwendung der Vorschriften des Strafgesetzbuches über die Straflosigkeit der Nichtanzeige geplanter Straftaten (§ 139 Absatz 3 Satz 2), über die Gebührenüberhebung (§ 352) und über den Parteiverrat (§ 356) stehen niedergelassene ausländische Rechtsanwälte den Rechtsanwälten und Anwälten gleich.
 
 § 208 - Landesrechtliche Beschränkungen der Parteivertretung und Beistandschaft
@@ -1916,11 +1916,11 @@ Erledigung des Berufungsverfahrens ohne Urteil
 
 0,5
 
-�
+
 
  Die Gebühr entfällt bei Zurücknahme der Berufung vor Ablauf der Begründungsfrist.
 
-�
+
 
 \\
 Unterabschnitt 2\\
@@ -1930,19 +1930,19 @@ Beschwerde
 
 Verfahren über Beschwerden im anwaltsgerichtlichen Verfahren, die nicht nach anderen Vorschriften gebührenfrei sind:\\
 
-�
 
-�
+
+
 
 Die Beschwerde wird verworfen oder zurückgewiesen.....
 
 50,00 EUR
 
-�
+
 
  Von dem Rechtsanwalt wird eine Gebühr nur erhoben, wenn gegen ihn rechtskräftig eine anwaltsgerichtliche Maßnahme verhängt worden ist.
 
-�
+
 
 \\
 Unterabschnitt 3\\
@@ -1956,11 +1956,11 @@ Der Antrag wird verworfen oder zurückgewiesen.....
 
 200,00 EUR
 
-�
 
-�
 
-�
+
+
+
 
 \\
 \\
@@ -1983,11 +1983,11 @@ Erledigung des Revisionsverfahrens ohne Urteil und ohne Beschluss nach § 146 Ab
 
 1,0
 
-�
+
 
  Die Gebühr entfällt bei Zurücknahme der Revision vor Ablauf der Begründungsfrist.
 
-�
+
 
 \\
 Unterabschnitt 2\\
@@ -2007,11 +2007,11 @@ Die Beschwerde wird verworfen oder zurückgewiesen.....
 
  50,00 EUR
 
-�
+
 
  Von dem Rechtsanwalt wird eine Gebühr nur erhoben, wenn gegen ihn rechtskräftig eine anwaltsgerichtliche Maßnahme verhängt worden ist.
 
-�
+
 
 \\
 Unterabschnitt 3\\

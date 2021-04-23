@@ -14,20 +14,20 @@ Das Bundesministerium f√ºr Verkehr, Bau und Stadtentwicklung verordnet auf Grund
 
 Inhalts√ºbersicht
 
-†
-†
-†
-†
+
+
+
+
 
 ¬ß 1 - Begriffsbestimmungen
 
-(1) ‚ÄSTCW-√úbereinkommen‚Äú bedeutet das Internationale √úbereinkommen von 1978 √ºber Normen f√ºr die Ausbildung, die Erteilung von Bef√§higungszeugnissen und den Wachdienst von Seeleuten (BGBl. 1982 II S. 297, 298) in der jeweils geltenden Fassung.
-(2) ‚ÄSTCW-Code‚Äú bedeutet die mit Entschlie√üung 2 zur Schlussakte der Konferenz der Mitgliedstaaten der Internationalen Seeschifffahrts-Organisation am 7. Juli 1995 angenommenen √Ñnderungen der Anlage zum √úbereinkommen (BGBl. 1997 II S. 1118, Anlageband) in der jeweils geltenden Fassung.
-(3) ‚ÄUnterst√ºtzungsebene‚Äú bezeichnet die Verantwortungsebene, zu der typischerweise geh√∂rt, dass ein Besatzungsmitglied nach Weisung des Kapit√§ns oder eines Schiffsoffiziers zugewiesene Aufgaben, Pflichten und Verantwortung wahrnimmt.
+(1) STCW-√úbereinkommen‚Äú bedeutet das Internationale √úbereinkommen von 1978 √ºber Normen f√ºr die Ausbildung, die Erteilung von Bef√§higungszeugnissen und den Wachdienst von Seeleuten (BGBl. 1982 II S. 297, 298) in der jeweils geltenden Fassung.
+(2) STCW-Code‚Äú bedeutet die mit Entschlie√üung 2 zur Schlussakte der Konferenz der Mitgliedstaaten der Internationalen Seeschifffahrts-Organisation am 7. Juli 1995 angenommenen √Ñnderungen der Anlage zum √úbereinkommen (BGBl. 1997 II S. 1118, Anlageband) in der jeweils geltenden Fassung.
+(3) Unterst√ºtzungsebene‚Äú bezeichnet die Verantwortungsebene, zu der typischerweise geh√∂rt, dass ein Besatzungsmitglied nach Weisung des Kapit√§ns oder eines Schiffsoffiziers zugewiesene Aufgaben, Pflichten und Verantwortung wahrnimmt.
 
 ¬ß 2 - Berufsbezeichnung, staatliche Anerkennung
 
-Der Ausbildungsberuf in der Seeschifffahrt ‚ÄSchiffsmechaniker‚Äú oder ‚ÄSchiffsmechanikerin‚Äú ist staatlich anerkannt.
+Der Ausbildungsberuf in der Seeschifffahrt Schiffsmechaniker‚Äú oder Schiffsmechanikerin‚Äú ist staatlich anerkannt.
 
 ¬ß 3 - Aufgaben der zust√§ndigen Stelle
 
@@ -298,12 +298,12 @@ Die Abschlusspr√ºfungen sind nicht √∂ffentlich. Vertreter des Bundesministeriums
 
 (1) Die Leistungen in den praktischen und schriftlichen Teilen der Abschlusspr√ºfung werden wie folgt bewertet:
 
-- 1. :: ‚Äsehr gut‚Äú (1) = 100 bis 92 Punkte, wenn die Leistung den Anforderungen in besonderem Ma√üe entspricht,
-- 2. :: ‚Ägut" (2) = unter 92 bis 81 Punkte, wenn die Leistung den Anforderungen voll entspricht,
-- 3. :: ‚Äbefriedigend‚Äú (3) = unter 81 bis 67 Punkte, wenn die Leistung im Allgemeinen den Anforderungen entspricht,
-- 4. :: ‚Äausreichend‚Äú (4) = unter 67 bis 50 Punkte, wenn die Leistung zwar M√§ngel aufweist, aber im Ganzen den Anforderungen noch entspricht,
-- 5. :: ‚Ämangelhaft‚Äú (5) = unter 50 bis 30 Punkte, wenn die Leistung den Anforderungen nicht entspricht, jedoch erkennen l√§sst, dass die notwendigen Grundlagen vorhanden sind und die M√§ngel in absehbarer Zeit behoben werden k√∂nnen,
-- 6. :: ‚Äungen√ºgend‚Äú (6) = unter 30 bis 0 Punkte, wenn die Leistung den Anforderungen nicht entspricht und selbst die Grundlagen so l√ºckenhaft sind, dass die M√§ngel in absehbarer Zeit nicht behoben werden k√∂nnen.
+- 1. :: sehr gut‚Äú (1) = 100 bis 92 Punkte, wenn die Leistung den Anforderungen in besonderem Ma√üe entspricht,
+- 2. :: gut" (2) = unter 92 bis 81 Punkte, wenn die Leistung den Anforderungen voll entspricht,
+- 3. :: befriedigend‚Äú (3) = unter 81 bis 67 Punkte, wenn die Leistung im Allgemeinen den Anforderungen entspricht,
+- 4. :: ausreichend‚Äú (4) = unter 67 bis 50 Punkte, wenn die Leistung zwar M√§ngel aufweist, aber im Ganzen den Anforderungen noch entspricht,
+- 5. :: mangelhaft‚Äú (5) = unter 50 bis 30 Punkte, wenn die Leistung den Anforderungen nicht entspricht, jedoch erkennen l√§sst, dass die notwendigen Grundlagen vorhanden sind und die M√§ngel in absehbarer Zeit behoben werden k√∂nnen,
+- 6. :: ungen√ºgend‚Äú (6) = unter 30 bis 0 Punkte, wenn die Leistung den Anforderungen nicht entspricht und selbst die Grundlagen so l√ºckenhaft sind, dass die M√§ngel in absehbarer Zeit nicht behoben werden k√∂nnen.
 
 (2) Jede Pr√ºfungsleistung ist vom Pr√ºfungsausschuss einzeln zu beurteilen und zu bewerten. Bei den Arbeitsproben erfolgt die Bewertung auf Grund der Berichte nach ¬ß 23 Absatz 3 Satz 2.
 
@@ -347,7 +347,7 @@ Vor dem 15. September 2013 begonnene Ausbildungsverh√§ltnisse k√∂nnen nach bishe
 Anlage 1 - (zu ¬ß 6)Ausbildungsrahmenplan f√ºr die Berufsausbildung zum Schiffsmechaniker und zur Schiffsmechanikerin
 
 (Fundstelle: BGBl. I 2013, 3574 -- 3585)
-†
+
 Integrative Fertigkeiten, Kenntnisse und F√§higkeiten
 
 Lfd.\\
@@ -378,9 +378,9 @@ im Ausbildungsjahr
 
 4
 
-†
 
-†
+
+
 
 Schiffsbetriebsf√ºhrung Deck und Maschine, Grundkenntnisse im Wachdienst
 
@@ -526,9 +526,9 @@ der gesamten\\
 Ausbildung\\
 zu vermitteln
 
-†
 
-†
+
+
 
 - b) :: Signale und Alarme
   - aa) :: relevante Alarme erkennen
@@ -559,7 +559,7 @@ zu vermitteln\\
 Schwerpunkt\\
 im 1. Jahr
 
-†
+
 Berufsprofilgebende Fertigkeiten, Kenntnisse und F√§higkeiten
 
 Lfd.\\
@@ -590,14 +590,14 @@ im Ausbildungsjahr
 
 4
 
-†
 
-†
+
+
 
 Schiffsbetriebsf√ºhrung Deck und Maschine,\\
 Wachdienst
 
-†
+
 
 1
 
@@ -617,15 +617,15 @@ Schiffsbetriebsf√ºhrung Deck, Wachdienst\\
     - -- :: bei der Vorbereitung f√ºr die Seereise
     - -- :: √ºber die Erfassung und Berechnung der Zeit in Bezug auf die an Bord g√ºltigen Zeiteinheiten
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 - b) :: Steuern des Schiffes und Ausf√ºhren von deutsch- und englischsprachigen Ruderkommandos
   - aa) :: Schiff nach Kompass, Landmarken und Seezeichen auf See und auf Revierfahrt unter Beachtung der Steuereigenschaften des Schiffes steuern
@@ -645,9 +645,9 @@ Schiffsbetriebsf√ºhrung Deck, Wachdienst\\
 
 11
 
-†
 
-†
+
+
 
 - e) :: Los- und Festmachen sowie Ankern des Schiffes
   - aa) :: Schiff los- und festmachen, verholen sowie Schleppverbindungen herstellen
@@ -692,9 +692,9 @@ Schiffsbetriebsf√ºhrung Maschine, Wachdienst\\
 \\
 \\
 
-†
 
-†
+
+
 
 - b) :: Eingrenzen und Bestimmen von Fehlern, St√∂rungen und deren Ursachen
   - aa) :: Fehler und St√∂rungen durch Sinneswahrnehmung und Inspektion erkennen und eingrenzen
@@ -702,15 +702,15 @@ Schiffsbetriebsf√ºhrung Maschine, Wachdienst\\
   - cc) :: Fehler und St√∂rungen bestimmen, auf m√∂gliche Ursachen untersuchen und protokollieren
   - dd) :: Ma√ünahmen zur Behebung von Fehlern und St√∂rungen nach Anweisung festlegen und einleiten
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 - c) :: Bunker, Ver- und Entsorgung
   - aa) :: Bunker-, √ñlwechsel- und andere Abgabevorg√§nge vorbereiten
@@ -725,13 +725,13 @@ Schiffsbetriebsf√ºhrung Maschine, Wachdienst\\
 
 1
 
-†
 
-†
+
+
 
 Ladungs- und Umschlagstechnik
 
-†
+
 
 3
 
@@ -748,35 +748,35 @@ Ladungs- und Umschlagstechnik\\
 
 1
 
-†
+
 
 - b) :: Handhaben von Ladungsg√ºtern und Stores
   - aa) :: die Besonderheiten der unterschiedlichen Ladungen und Stores beachten und diese entsprechend handhaben
   - bb) :: feste, fl√ºssige und gasf√∂rmige Ladungsg√ºter sowie Stores nach ihren typischen Eigenschaften, Verpackungen und Kennzeichnungen (zum Beispiel nach IMDG-Code) erkennen und ihre Behandlungshinweise beachten
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 - c) :: Vorbereiten von Lader√§umen, Ladetanks und Decks
   - aa) :: Lader√§ume, Ladetanks und Decks zum Laden und L√∂schen von √ºblichen Ladungsg√ºtern vorbereiten, zum Beispiel durch Aufklaren und Bereitlegen von Laschmaterialien
   - bb) :: Reinigen von Lader√§umen und Tanks
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 - d) :: Ausf√ºhren von Arbeiten zur Sicherung von Ladung und Stores
   - aa) :: Techniken der Ladungs- und Storesicherung sowie geeignete Hilfsmittel ausw√§hlen
@@ -790,9 +790,9 @@ Ladungs- und Umschlagstechnik\\
 
 4\\
 
-†
 
-†
+
+
 
 - e) :: Ausf√ºhren von Arbeiten zur Ladungsf√ºrsorge
   - aa) :: bei der √úberwachung von Umschlag und Stauung mitwirken
@@ -800,15 +800,15 @@ Ladungs- und Umschlagstechnik\\
   - cc) :: Ladung hinsichtlich ihrer Sicherheit und Beschaffenheit sowie Lader√§ume, Ladetanks und Decks w√§hrend der Reise kontrollieren
   - dd) :: Kontrolle der Lader√§ume und Dokumentation der Ergebnisse
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 - f) :: Handhaben von Ladungs- und Umschlagseinrichtungen
   - aa) :: Anschlaggeschirre nach Einsatz und Belastbarkeit ausw√§hlen und handhaben
@@ -816,20 +816,20 @@ Ladungs- und Umschlagstechnik\\
   - cc) :: Ladeluken- und Ladetankverschl√ºsse handhaben
   - dd) :: Ladek√ºhlanlagen unter Anleitung bedienen
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 Schiffssicherheit\\
 hinsichtlich Brandabwehr und Rettung
 
-†
+
 
 4
 
@@ -847,9 +847,9 @@ zu vermitteln\\
 Schwerpunkt\\
 im 1. Jahr
 
-†
 
-†
+
+
 
 - b) :: Durchf√ºhren von Brandverh√ºtungs- und Brandbek√§mpfungsma√ünahmen sowie Warten und Handhaben von Brandschutzausr√ºstungen, Brandabwehrger√§ten und -anlagen
   - aa) :: M√∂glichkeiten einer Brandgef√§hrdung auf Schiffen hinsichtlich der Voraussetzungen f√ºr eine Verbrennung und der Feuergef√§hrlichkeit verschiedener Stoffe erkennen
@@ -870,9 +870,9 @@ im 1. Jahr
 
 1\\
 
-†
 
-†
+
+
 
 - c) :: Durchf√ºhren von Ma√ünahmen vor und nach dem Aussetzen von Rettungsmitteln sowie Handhaben und Pr√ºfen von Rettungsmitteln und sonstiger Ausr√ºstung zum Rettungsdienst
   - aa) :: Rettungsboote, Rettungsfl√∂√üe und sonstige Rettungsmittel dem Seenotfall zuordnen
@@ -890,9 +890,9 @@ im 1. Jahr
 
 1
 
-†
 
-†
+
+
 
 - d) :: Verhalten und Durchf√ºhren von Ma√ünahmen in Notf√§llen sowie Versorgen von Verletzten
   - aa) :: Verhaltensma√üregeln im Notfall anwenden
@@ -903,18 +903,18 @@ im 1. Jahr
 
 0,5
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 Schiffsbetriebstechnik\\
 Elektrotechnik, Leittechnik und Elektronik
 
-†
+
 
 5
 
@@ -927,11 +927,11 @@ Schiffsbetriebstechnik, Elektrotechnik, Leittechnik und Elektronik\\
 
 1
 
-†
 
-†
 
-†
+
+
+
 
 - b) :: Bedienen von Arbeits- und Kraftmaschinen, Apparaten und Rohrleitungsanlagen sowie von elektrischen Maschinen und Anlagen
   - aa) :: Funktion von Arbeits- und Kraftmaschinen, Apparaten und Rohrleitungsanlagen im Gesamtsystem erfassen
@@ -939,7 +939,7 @@ Schiffsbetriebstechnik, Elektrotechnik, Leittechnik und Elektronik\\
   - cc) :: Elektromotoren und Generatoren in Betrieb nehmen, w√§hrend des Betriebes √ºberwachen und au√üer Betrieb nehmen
   - dd) :: Rohrleitungssysteme f√ºr den Schiffsbetrieb erfassen und bedienen
 
-†
+
 
 \\
 \\
@@ -961,27 +961,27 @@ Schiffsbetriebstechnik, Elektrotechnik, Leittechnik und Elektronik\\
 \\
 6
 
-†
 
-†
+
+
 
 - c) :: Grundkenntnisse der pneumatischen und hydraulischen Steuer- und Regeleinrichtungen und deren Bedienung
   - aa) :: Bauteile und ihre Systeme in ihrer Funktion und Wirkungsweise kennen
   - bb) :: pneumatische und hydraulische Bauelemente einschlie√ülich Rohrleitungen austauschen
 
-†
+
 
 2
 
 2
 
-†
 
-†
+
+
 
 Wartung und Instandsetzung
 
-†
+
 
 6
 
@@ -998,15 +998,15 @@ Wartung und Instandsetzung\\
   - gg) :: elektrische Bauteile sowie Leitungen und deren Anschl√ºsse kontrollieren
   - hh) :: Baugruppen und Systeme auf Dichtheit und Ger√§uschentwicklung kontrollieren
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 - b) :: Demontieren und Montieren von Bauteilen, Baugruppen und Systemen
   - aa) :: Hilfsmittel, wie Hebezeuge und Anschlagmittel ausw√§hlen und bereitstellen
@@ -1020,9 +1020,9 @@ Wartung und Instandsetzung\\
 
 10
 
-†
 
-†
+
+
 
 - c) :: Montage vorbereiten
   - aa) :: Bauteile und Baugruppen nach Montageangaben und Kennzeichnungen den Montagevorg√§ngen zuordnen und auf Vollst√§ndigkeit pr√ºfen
@@ -1036,15 +1036,15 @@ Wartung und Instandsetzung\\
   - aa) :: handbediente Hebezeuge handhaben
   - bb) :: Bauteile und Baugruppen zum Transport sichern und transportieren
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 - f) :: Instandsetzen von Bauteilen und Baugruppen
   - aa) :: Bauteile auf Verschlei√ü, Besch√§digung und Wiederverwendbarkeit pr√ºfen
@@ -1053,15 +1053,15 @@ Wartung und Instandsetzung\\
   - dd) :: Ersatzteile aus Metallen herstellen
   - ee) :: Rohrleitungen verlegen, auswechseln und instand setzen
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 - g) :: Ausf√ºhren von Konservierungs- und Anstricharbeiten
   - aa) :: Oberfl√§chenbearbeitungsmethoden kennen und anwenden
@@ -1075,15 +1075,15 @@ Wartung und Instandsetzung\\
 
 1
 
-†
 
-†
 
-†
+
+
+
 
 Bearbeiten von Metallen
 
-†
+
 
 7
 
@@ -1098,15 +1098,15 @@ Bearbeiten von Metallen\\
   - ee) :: mit festen und verstellbaren Lehren pr√ºfen
   - ff) :: Oberfl√§chen auf Verschlei√ü und Besch√§digung pr√ºfen
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 - b) :: Anrei√üen, K√∂rnen, Kennzeichnen
   - aa) :: Werkst√ºcke unter Beachtung der Werkstoffeigenschaften und -oberfl√§chen anrei√üen
@@ -1119,26 +1119,26 @@ Bearbeiten von Metallen\\
 \\
 1
 
-†
 
-†
 
-†
+
+
+
 
 - c) :: Ausrichten und Spannen von Werkzeugen und Werkst√ºcken
   - aa) :: Spannzeuge nach Gr√∂√üe, Form, Werkstoff und der Bearbeitung von Werkst√ºcken oder Bauteilen ausw√§hlen und befestigen
   - bb) :: Werkst√ºcke oder Bauteile unter Beachtung der Stabilit√§t und des Oberfl√§chenschutzes ausrichten und spannen
   - cc) :: Werkzeuge ausrichten und spannen
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 - d) :: manuelles Spanen
   - aa) :: Werkzeuge nach Werkstoff, Form und Oberfl√§cheng√ºte des Werkst√ºckes ausw√§hlen
@@ -1151,26 +1151,26 @@ Bearbeiten von Metallen\\
 
 1
 
-†
 
-†
 
-†
+
+
+
 
 - e) :: maschinelles Spanen vorbereiten
   - aa) :: Werkzeuge unter Ber√ºcksichtigung der Verfahren, der Werkstoffe und der Schneidengeometrie ausw√§hlen
   - bb) :: Umdrehungsfrequenz, Vorschub und Schnitttiefe an Werkzeugmaschinen f√ºr Bohr-, Drehoperationen mit Hilfe von Tabellen und Diagrammen bestimmen und einstellen
   - cc) :: Betriebsbereitschaft der Werkzeugmaschinen herstellen
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 - f) :: Bohren, Senken, Reiben
   - aa) :: Bohrungen in Werkst√ºcken aus Eisen- und Nichteisenmetallen an Bohr- und Drehmaschinen mit unterschiedlichen Werkstoffen durch Bohren ins Volle, Aufbohren, Zentrieren und durch Profilsenken herstellen
@@ -1206,9 +1206,9 @@ Bearbeiten von Metallen\\
 \\
 1
 
-†
 
-†
+
+
 
 - g) :: Drehen
   - aa) :: Werkst√ºcke aus Eisen- und Nichteisenmetallen mit unterschiedlichen Drehmei√üeln durch Quer-, Plan- und L√§ngs-Runddrehen herstellen
@@ -1217,15 +1217,15 @@ Bearbeiten von Metallen\\
 - i) :: Anschleifen
   - aa) :: Werkzeuge, insbesondere Rei√ünadel, K√∂rner, Bohrer und Mei√üel, am Schleifbock anschleifen
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
 
 - j) :: Trennen
   - aa) :: Feinbleche mit Hand- und Handhebelscheren nach Anriss scheren
@@ -1238,9 +1238,9 @@ Bearbeiten von Metallen\\
 
 1
 
-†
 
-†
+
+
 
 - k) :: Umformen
   - aa) :: Bleche aus Stahl und Nichteisenmetallen mit und ohne Vorrichtungen im Schraubstock durch freies Runden und Schwenkbiegen kalt umformen
@@ -1248,9 +1248,9 @@ Bearbeiten von Metallen\\
   - cc) :: Bleche, Rohre und Profile warm umformen
   - dd) :: Bleche, Rohre und Profile biegerichten
 
-†
 
-†
+
+
 
 - l) :: F√ºgen (Schraub-, Bolzen-, Stift- und Pressverbindungen)
   - aa) :: Bauteile auf Oberfl√§chenbeschaffenheit der F√ºgefl√§chen und Formtoleranz pr√ºfen sowie in montagegerechter Lage fixieren
@@ -1260,9 +1260,9 @@ Bearbeiten von Metallen\\
   - ee) :: Rohrschraubverbindungen herstellen
   - ff) :: Funktion, Ma√ü- und Lagetoleranzen gef√ºgter Bauteile pr√ºfen
 
-†
 
-†
+
+
 
 - m) :: Grundkenntnisse und Fertigkeiten (ohne Zertifizierung) des Lichtbogenschwei√üens, Gasschmelzschwei√üens und L√∂tens
   - aa) :: Betriebsbereitschaft der Schwei√ü- und L√∂teinrichtung herstellen
@@ -1271,17 +1271,17 @@ Bearbeiten von Metallen\\
   - dd) :: Feinbleche aus Stahl auf Sto√ü schwei√üen
   - ee) :: Kehln√§hte an Blechen und Rohren aus Stahl schwei√üen
 
-†
 
-†
 
-†
+
+
+
 
 
 Anlage 2 - (zu ¬ß 10 Absatz 2)Berufsausbildung au√üerhalb der Ausbildungsst√§tte
 
 (Fundstelle: BGBl. I 2013, 3586 -- 3590)
-†
+
 Lfd. Nr.
 
 Bearbeiten von Metallen\\
@@ -1365,7 +1365,7 @@ F√ºgen
 
 195*
 
-†
+
 
 Summe
 
@@ -1377,8 +1377,8 @@ _______________
 
 - <<FnA1-Fn782450_01>>[[#FnR.FnA1-Fn782450_01][*]] :: Zeitliche Richtwerte f√ºr den Fall, dass die Fertigkeiten und Kenntnisse in der Metallbearbeitung in vollem Umfang in einer √ºberbetrieblichen Ausbildungsst√§tte vermittelt werden sollen oder m√ºssen.
 
-†
-†
+
+
 Lfd. Nr.
 
 Teil des\\
@@ -1450,9 +1450,9 @@ Pr√ºfen, Messen, Lehren
 - e) :: mit festen und verstellbaren Lehren pr√ºfen
 - f) :: Oberfl√§chen auf Verschlei√ü und Besch√§digung pr√ºfen
 
-†
 
-†
+
+
 
 4
 
@@ -1476,9 +1476,9 @@ Ausrichten und Spannen von Werkzeugen und Werkst√ºcken
 - b) :: Werkst√ºcke oder Bauteile unter Beachtung der Stabilit√§t und des Oberfl√§chenschutzes ausrichten und spannen
 - c) :: Werkzeuge ausrichten und spannen
 
-†
 
-†
+
+
 
 6
 
@@ -1533,9 +1533,9 @@ Trennen
 - b) :: Rohre mit Rohrabschneidern trennen
 - c) :: Bleche, Rohre und Profile von Hand thermisch trennen
 
-†
 
-†
+
+
 
 9
 
@@ -1580,37 +1580,37 @@ _______________
 - <<FnA2-Fn782450_02>>[[#FnR.FnA2-Fn782450_02][*]] :: Zeitliche Richtwerte f√ºr den Fall, dass die Fertigkeiten und Kenntnisse in der Metallbearbeitung in vollem Umfang in der √ºberbetrieblichen Ausbildungsst√§tte vermittelt werden sollen oder m√ºssen.
 - <<FnA2-Fn782450_03>>[[#FnR.FnA2-Fn782450_03][**]] :: Ausbildung im Lichtbogenschwei√üen, Gasschmelzschwei√üen und L√∂ten ohne Zertifizierung.
 
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
+
+
+
+
+
+
+
+
+
+
 ........................................\\
 Name des Auszubildenden
 
-†
 
-†
+
+
 
 ........................................\\
 ¬†Vorname
 
-†
+
 
 ............................................................\\
 Ausbildende Reederei
 
-†
+
 
 ............................................................\\
 Berufsausbildungsvertrag-Nummer beziehungsweise Bezeichnung der Ausbildung
 
-†
+
 
 hat vom ....................
 
@@ -1618,22 +1618,22 @@ bis ¬†....................
 
 an der √ºberbetrieblichen Ausbildungsst√§tte in:
 
-†
+
 
 ............................................................\\
 an einer 7-w√∂chigen/11-w√∂chigen<<FnR.FnA3-Fn782450_04>>[[#FnA3-Fn782450_04][*]]} Ausbildung in der Metallbearbeitung teilgenommen.
 
-†
+
 
 Bemerkungen: ............................................................\\
 ..................................................................................
 
-†
+
 
 ........................................\\
 Ort und Datum
 
-†
+
 
 ............................................................\\
 Unterschrift und Stempel der √ºberbetrieblichen Ausbildungsst√§tte
@@ -1644,17 +1644,17 @@ _______________
 
 - <<FnA3-Fn782450_04>>[[#FnR.FnA3-Fn782450_04][*]] :: Nicht Zutreffendes streichen.
 
-†
-†
-†
-†
-†
-†
-†
+
+
+
+
+
+
+
 
 Anlage 3 - (zu ¬ß 10 Absatz 3)Berufsausbildung au√üerhalb der Ausbildungsst√§tte
 
 (Fundstelle: BGBl. I 2013, 3591 -- 3593)
-†
-†
-†
+
+
+

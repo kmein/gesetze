@@ -6,67 +6,67 @@ Ausfertigungsdatum: 21.09.2018
 
 Inhaltsverzeichnis
 
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 § 1.01 - Begriffsbestimmungen
 
 In diesem Anhang gelten als:
 
-- 1. :: �Personenfähre“ eine nur zur Beförderung von Personen gebaute Fähre;
-- 2. :: �Wagenfähre“ eine zur Beförderung von Landfahrzeugen, Personen und sonstigen Lasten gebaute und eingerichtete Fähre;
-- 3. :: �Frei fahrende Fähren“ Kahnfähren, Personenmotorfähren, Wagenmotorfähren;
-- 4. :: �Kahnfähre“ eine zur Beförderung von Personen gebaute, offene Fähre, die durch Muskelkraft fortbewegt wird; zusätzlich kann -- zur Beherrschung besonderer Betriebslagen -- ein Hilfsantrieb installiert sein;
-- 5. :: �Personenmotorfähre“ eine Personenfähre mit maschinellem Antrieb;
-- 6. :: �Wagenmotorfähre“ eine Wagenfähre mit maschinellem Antrieb;
-- 7. :: �Seil- oder kettengebundene Fähren“ Querseilfähren, Kahnseilfähren, Seilfähren, Kettenfähren, Gierseilfähren;
-- 8. :: �Querseilfähre“ eine Personen- oder Wagenfähre, die an einem an beiden Ufern befestigten Seil geführt wird und entweder an diesem Führungsseil oder an einem zweiten Seil (Zugseil) mit der Hand oder durch eine Winde von einem Ufer zum anderen bewegt wird (Personenquerseilfähre, Wagenquerseilfähre);
-- 9. :: �Kahnseilfähre“ eine Kahnfähre, die an einem Seil per Hand, hilfsweise durch einen Hilfsmotor, fortbewegt wird, einschließlich der Seilanlage und der Verankerungen;
-- 10. :: �Seilfähre“ eine Personen- oder Wagenfähre, die an einem Seil durch eine Seilwinde fortbewegt wird, einschließlich der Seilanlage sowie der Abspannmasten und der Verankerung (Personenseilfähre, Wagenseilfähre);
-- 11. :: �Kettenfähre“ eine Seilfähre, die anstelle der Seile mit Ketten ausgerüstet ist (Personenkettenfähre, Wagenkettenfähre);
-- 12. :: �Gierseilfähre“ eine Personen- oder Wagenfähre, die ausschließlich durch Einnehmen einer Gierstellung, an einem festen Seil geführt, quer zur Fließrichtung eines Flusses fortbewegt wird, einschließlich der Seilanlage sowie der Abspannmasten und/oder der Verankerung (Personengierseilfähre, Wagengierseilfähre);
-- 13. :: �Gierseilfähre mit Hilfsantrieb“ eine Gierseilfähre, die zusätzlich mit eigenem Antrieb versehen ist;
-- 14. :: �Landfahrzeug“ ein Kraftfahrzeug, ein Pferdefuhrwerk, ein fahrbares Gerät oder Zugfahrzeuge; Zugfahrzeuge gelten hierbei zusammen mit ihren Anhängern als ein Landfahrzeug;
-- 15. :: �Das zulässige Gesamtgewicht eines Landfahrzeugs“ das Gewicht eines Landfahrzeugs einschließlich seiner Ladung in Tonnen, das in beliebiger Anzahl bis zum Erreichen der Tragfähigkeit auf der verfügbaren Ladefläche des Fährdecks in beliebiger Anordnung aufgestellt werden kann;
-- 16. :: �Tragfähigkeit“ die Gesamtzuladefähigkeit einer Wagenfähre in Tonnen mit homogener oder gemischter Last;
-- 17. :: �Zulässige Gesamtmasse des schwersten Landfahrzeugs“ die Masse eines Landfahrzeugs einschließlich seiner Ladung in Tonnen, das allein und ohne gleichzeitige Beförderung weiterer Nutzlasten bei ausschließlich mittiger Aufstellung auf dem Fährdeck einer Wagenfähre befördert werden kann;
+- 1. :: Personenfähre“ eine nur zur Beförderung von Personen gebaute Fähre;
+- 2. :: Wagenfähre“ eine zur Beförderung von Landfahrzeugen, Personen und sonstigen Lasten gebaute und eingerichtete Fähre;
+- 3. :: Frei fahrende Fähren“ Kahnfähren, Personenmotorfähren, Wagenmotorfähren;
+- 4. :: Kahnfähre“ eine zur Beförderung von Personen gebaute, offene Fähre, die durch Muskelkraft fortbewegt wird; zusätzlich kann -- zur Beherrschung besonderer Betriebslagen -- ein Hilfsantrieb installiert sein;
+- 5. :: Personenmotorfähre“ eine Personenfähre mit maschinellem Antrieb;
+- 6. :: Wagenmotorfähre“ eine Wagenfähre mit maschinellem Antrieb;
+- 7. :: Seil- oder kettengebundene Fähren“ Querseilfähren, Kahnseilfähren, Seilfähren, Kettenfähren, Gierseilfähren;
+- 8. :: Querseilfähre“ eine Personen- oder Wagenfähre, die an einem an beiden Ufern befestigten Seil geführt wird und entweder an diesem Führungsseil oder an einem zweiten Seil (Zugseil) mit der Hand oder durch eine Winde von einem Ufer zum anderen bewegt wird (Personenquerseilfähre, Wagenquerseilfähre);
+- 9. :: Kahnseilfähre“ eine Kahnfähre, die an einem Seil per Hand, hilfsweise durch einen Hilfsmotor, fortbewegt wird, einschließlich der Seilanlage und der Verankerungen;
+- 10. :: Seilfähre“ eine Personen- oder Wagenfähre, die an einem Seil durch eine Seilwinde fortbewegt wird, einschließlich der Seilanlage sowie der Abspannmasten und der Verankerung (Personenseilfähre, Wagenseilfähre);
+- 11. :: Kettenfähre“ eine Seilfähre, die anstelle der Seile mit Ketten ausgerüstet ist (Personenkettenfähre, Wagenkettenfähre);
+- 12. :: Gierseilfähre“ eine Personen- oder Wagenfähre, die ausschließlich durch Einnehmen einer Gierstellung, an einem festen Seil geführt, quer zur Fließrichtung eines Flusses fortbewegt wird, einschließlich der Seilanlage sowie der Abspannmasten und/oder der Verankerung (Personengierseilfähre, Wagengierseilfähre);
+- 13. :: Gierseilfähre mit Hilfsantrieb“ eine Gierseilfähre, die zusätzlich mit eigenem Antrieb versehen ist;
+- 14. :: Landfahrzeug“ ein Kraftfahrzeug, ein Pferdefuhrwerk, ein fahrbares Gerät oder Zugfahrzeuge; Zugfahrzeuge gelten hierbei zusammen mit ihren Anhängern als ein Landfahrzeug;
+- 15. :: Das zulässige Gesamtgewicht eines Landfahrzeugs“ das Gewicht eines Landfahrzeugs einschließlich seiner Ladung in Tonnen, das in beliebiger Anzahl bis zum Erreichen der Tragfähigkeit auf der verfügbaren Ladefläche des Fährdecks in beliebiger Anordnung aufgestellt werden kann;
+- 16. :: Tragfähigkeit“ die Gesamtzuladefähigkeit einer Wagenfähre in Tonnen mit homogener oder gemischter Last;
+- 17. :: Zulässige Gesamtmasse des schwersten Landfahrzeugs“ die Masse eines Landfahrzeugs einschließlich seiner Ladung in Tonnen, das allein und ohne gleichzeitige Beförderung weiterer Nutzlasten bei ausschließlich mittiger Aufstellung auf dem Fährdeck einer Wagenfähre befördert werden kann;
 - 18. :: Abweichend von ES-TRIN sowie Anhang VIII gelten folgende Begriffsbestimmungen:
-  - a) :: Statt �Schiffsattest“, �Unionszeugnis“ und �Binnenschiffszeugnis“ gilt �Fährzeugnis“.
-  - b) :: Statt ��Länge in der Wasserlinie“ oder �L_{WL}“ die in der Ebene der grö��Länge (L_{WL})“ die in der Ebene der größten Einsenkung gemessene Länge des Fährkörpers ohne Berücksichtigung der Landeklappen“.
+  - a) :: Statt Schiffsattest“, Unionszeugnis“ und Binnenschiffszeugnis“ gilt Fährzeugnis“.
+  - b) :: Statt Länge in der Wasserlinie“ oder L_{WL}“ die in der Ebene der gröLänge (L_{WL})“ die in der Ebene der größten Einsenkung gemessene Länge des Fährkörpers ohne Berücksichtigung der Landeklappen“.
 
 
 § 1.02 - Allgemeines
@@ -136,7 +136,7 @@ In diesem Anhang gelten als:
 
 § 1.04 - Kennzeichnung der Fähren
 
-An allen Fähren muss als Kennzeichen auf beiden Längsseiten ein mindestens 30 cm hohes �F“ mit heller Farbe auf dunklem Grund oder mit dunkler Farbe auf hellem Grund deutlich sichtbar angebracht sein.
+An allen Fähren muss als Kennzeichen auf beiden Längsseiten ein mindestens 30 cm hohes F“ mit heller Farbe auf dunklem Grund oder mit dunkler Farbe auf hellem Grund deutlich sichtbar angebracht sein.
 
 § 2.01 - Fährkörper
 
@@ -254,12 +254,12 @@ Bei Wagenfähren muss ein Festigkeitsnachweis für die Belastung des Wagendecks 
 
 Abweichend von § 1.01 gelten für dieses Kapitel folgende Begriffsbestimmungen:
 
-- 1. :: �Tragfähigkeit“ die Gesamtzuladefähigkeit mit homogener oder gemischter Last in Tonnen einschließlich höchstens 45 Personen in Abhängigkeit von bestimmten Wasserständen;
-- 2. :: �Das zulässige Gesamtgewicht des schwersten Landfahrzeugs“ das Gewicht eines Landfahrzeugs einschließlich seiner Ladung in Tonnen, das in Abhängigkeit von bestimmten Wasserständen allein und ohne gleichzeitige Beförderung weiterer Nutzlasten bei ausschließlich mittiger Aufstellung auf dem Fährdeck befördert werden kann;
-- 3. :: �Aufstau“ der Verlauf der Wasseroberfläche an der oberstromseitigen Bordwand;
-- 4. :: �Restfreibord“ der senkrechte Abstand zwischen dem tiefsten Punkt des wasserdichten Decks oder des wasserdichten Deckaufsatzes, und der gedachten Wasserlinie, die bei Neigungen nach Oberstrom durch den höchsten Punkt des Aufstaus verläuft;
-- 5. :: �Deckaufsatz“ ein nur bei Gierseilfähren üblicher nicht von Bord zu Bord gehender Aufbau von geringer Höhe, der die Fahrbahnbreite des Fährdecks einseitig einschränkt, die Seitenhöhe auf einer Seite vergrößert und sich über die Länge des ganzen Fährdecks erstreckt;
-- 6. :: �Ablegereife“ der Zustand, bei dessen Erreichen das Seil oder die Kette außer Betrieb genommen werden muss, insbesondere wegen Verschleiß, Längung, Risse, Korrosion oder Brüchen.
+- 1. :: Tragfähigkeit“ die Gesamtzuladefähigkeit mit homogener oder gemischter Last in Tonnen einschließlich höchstens 45 Personen in Abhängigkeit von bestimmten Wasserständen;
+- 2. :: Das zulässige Gesamtgewicht des schwersten Landfahrzeugs“ das Gewicht eines Landfahrzeugs einschließlich seiner Ladung in Tonnen, das in Abhängigkeit von bestimmten Wasserständen allein und ohne gleichzeitige Beförderung weiterer Nutzlasten bei ausschließlich mittiger Aufstellung auf dem Fährdeck befördert werden kann;
+- 3. :: Aufstau“ der Verlauf der Wasseroberfläche an der oberstromseitigen Bordwand;
+- 4. :: Restfreibord“ der senkrechte Abstand zwischen dem tiefsten Punkt des wasserdichten Decks oder des wasserdichten Deckaufsatzes, und der gedachten Wasserlinie, die bei Neigungen nach Oberstrom durch den höchsten Punkt des Aufstaus verläuft;
+- 5. :: Deckaufsatz“ ein nur bei Gierseilfähren üblicher nicht von Bord zu Bord gehender Aufbau von geringer Höhe, der die Fahrbahnbreite des Fährdecks einseitig einschränkt, die Seitenhöhe auf einer Seite vergrößert und sich über die Länge des ganzen Fährdecks erstreckt;
+- 6. :: Ablegereife“ der Zustand, bei dessen Erreichen das Seil oder die Kette außer Betrieb genommen werden muss, insbesondere wegen Verschleiß, Längung, Risse, Korrosion oder Brüchen.
 
 
 § 3.02 - Nachweis der Intaktstabilität für Gierseilfähren
@@ -410,9 +410,9 @@ Die Seil- und Kettenanlagen sind wie folgt zu prüfen:
 
 Fähren, die den Vorschriften der Kapitel 1 bis 3 nicht entsprechen, müssen den in nachstehender Tabelle aufgeführten Übergangsbestimmungen angepasst werden. In der Tabelle bedeuten
 
-- -- :: �N.E.U.“:
-  Die Vorschrift gilt nicht für Fähren, die schon in Betrieb sind, es sei denn, die betroffenen Teile werden ersetzt oder umgebaut, d. h. die Vorschrift gilt nur für Neubauten sowie bei Ersatz oder bei Umbau der betroffenen Teile oder Bereiche. Werden bestehende Teile durch Austauschteile in gleicher Technik und Machart ersetzt, bedeutet dies keinen Ersatz �E“ im Sinne dieser Übergangsbestimmungen.
-- -- :: �Erteilung oder Erneuerung des Fährzeugnisses“:
+- -- :: N.E.U.“:
+  Die Vorschrift gilt nicht für Fähren, die schon in Betrieb sind, es sei denn, die betroffenen Teile werden ersetzt oder umgebaut, d. h. die Vorschrift gilt nur für Neubauten sowie bei Ersatz oder bei Umbau der betroffenen Teile oder Bereiche. Werden bestehende Teile durch Austauschteile in gleicher Technik und Machart ersetzt, bedeutet dies keinen Ersatz E“ im Sinne dieser Übergangsbestimmungen.
+- -- :: Erteilung oder Erneuerung des Fährzeugnisses“:
   Die Vorschrift muss bei der Erteilung oder der nächsten Erneuerung der Gültigkeitsdauer des Fährzeugnisses erfüllt sein.
   | §§ und\\   | Inhalt                                                 | Frist oder Bemerkungen                                                          |
   | Nummer     |                                                        |                                                                                 |
@@ -495,8 +495,8 @@ Bei einer Personenbarkasse ist für die Berechnung des Freibordes, für die Übe
 
 Barkassen, die den Vorschriften des Kapitels 5 nicht entsprechen, müssen den in nachstehender Tabelle aufgeführten Übergangsbestimmungen angepasst werden. In der Tabelle bedeuten
 
-- -- :: �E.U.“:
-  Die Vorschrift gilt nicht für Barkassen, die schon in Betrieb sind, es sei denn, die betroffenen Teile werden ersetzt oder umgebaut, d. h. die Vorschrift gilt nur bei Ersatz oder bei Umbau der betroffenen Teile oder Bereiche. Werden bestehende Teile durch Austauschteile in gleicher Technik und Machart ersetzt, bedeutet dies keinen Ersatz �E“ im Sinne dieser Übergangsbestimmungen.
+- -- :: E.U.“:
+  Die Vorschrift gilt nicht für Barkassen, die schon in Betrieb sind, es sei denn, die betroffenen Teile werden ersetzt oder umgebaut, d. h. die Vorschrift gilt nur bei Ersatz oder bei Umbau der betroffenen Teile oder Bereiche. Werden bestehende Teile durch Austauschteile in gleicher Technik und Machart ersetzt, bedeutet dies keinen Ersatz E“ im Sinne dieser Übergangsbestimmungen.
   | §§ und\\   | Inhalt      | Frist oder Bemerkungen |
   | Nummer     |             |                        |
   |------------+-------------+------------------------|

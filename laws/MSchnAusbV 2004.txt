@@ -124,11 +124,11 @@ Anlage - (zu ¬ß 6)  Ausbildungsrahmenplan f√ºr die Berufsausbildung zum Ma√üschn
 
 \\
 
-†
+
 
 I. Berufliche Grundbildung
 
-†
+
 
 Lfd. Nr.
 
@@ -209,11 +209,11 @@ Planen und Vorbereiten von Arbeitsabl√§ufen, Kundenorientierung\\
 
 4
 
-†
 
-†
 
-†
+
+
+
 
 6
 
@@ -226,11 +226,11 @@ Anwenden von Informations- und Kommunikationstechniken\\
 
 2
 
-†
 
-†
 
-†
+
+
+
 
 7
 
@@ -245,11 +245,11 @@ Ausw√§hlen und Vorbereiten von Werk- und Hilfsstoffen\\
 
 6
 
-†
 
-†
 
-†
+
+
+
 
 8
 
@@ -263,11 +263,11 @@ Nutzen und Warten von Werkzeugen, Arbeitsger√§ten, Maschinen und Zusatzeinrichtu
 
 6
 
-†
 
-†
 
-†
+
+
+
 
 9
 
@@ -280,11 +280,11 @@ Ausf√ºhren von gestalterischen Arbeiten\\
 
 2
 
-†
 
-†
 
-†
+
+
+
 
 10
 
@@ -298,11 +298,11 @@ Zuschneiden von Werk- und Hilfsstoffen sowie Grundkonstruktion von Schnitten\\
 
 6
 
-†
 
-†
 
-†
+
+
+
 
 11
 
@@ -317,11 +317,11 @@ B√ºgeln und Fixieren von Werk- und Hilfsstoffen\\
 
 10
 
-†
 
-†
 
-†
+
+
+
 
 12
 
@@ -334,11 +334,11 @@ Ausf√ºhren von N√§h- und Teilarbeiten\\
 
 14
 
-†
 
-†
 
-†
+
+
+
 
 13
 
@@ -351,13 +351,13 @@ Durchf√ºhren von qualit√§tssichernden Ma√ünahmen\\
 
 2
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 II. Berufliche Fachbildung
 
@@ -368,25 +368,25 @@ Planen und Vorbereiten von Arbeitsabl√§ufen, Kundenorientierung (¬ß 5 Nr. 5)
 - a) :: Produktinformationen beurteilen, Produkteigenschaften von Werk- und Hilfsstoffen vergleichen
 - b) :: Verarbeitungstechniken festlegen, insbesondere Stich- und Nahtarten
 
-†
+
 
 2
 
-†
 
-†
+
+
 
 - c) :: Aufgaben im Team planen und bearbeiten, Ergebnisse der Zusammenarbeit auswerten
 - d) :: Kundenw√ºnsche ermitteln, mit dem betrieblichen Leistungsangebot vergleichen und daraus Vorgehensweisen f√ºr die Kundenberatung ableiten
 - e) :: Kosten absch√§tzen, Material disponieren
 
-†
 
-†
+
+
 
 3
 
-†
+
 
 2
 
@@ -395,13 +395,13 @@ Anwenden von Informations- und Kommunikationstechniken\\
 
 Arbeitsaufgaben mit Hilfe von Informations- und Kommunikationssystemen bearbeiten, Anwenderprogramme nutzen
 
-†
+
 
 2
 
-†
 
-†
+
+
 
 3
 
@@ -410,23 +410,23 @@ Ausw√§hlen und Vorbereiten von Werk- und Hilfsstoffen\\
 
 - a) :: Auswirkungen von M√§ngeln in Werkstoffen, Hilfsstoffen und Zubeh√∂r auf Verarbeitung und Erzeugnisqualit√§t beurteilen
 
-†
+
 
 2
 
-†
 
-†
+
+
 
 - b) :: Auswirkungen von Veredlungsma√ünahmen unterscheiden
 
-†
 
-†
+
+
 
 2
 
-†
+
 
 4
 
@@ -435,22 +435,22 @@ Ausf√ºhren von gestalterischen Arbeiten\\
 
 - a) :: Gestaltungstechniken anwenden, insbesondere Zierarbeiten, traditionelle N√§htechniken, Drapieren, Plissieren, F√§rben und St√§bchenverarbeitung
 
-†
 
-†
+
+
 
 5
 
-†
+
 
 - b) :: Entw√ºrfe nach modischen, historischen, funktionalen und technologischen Gesichtspunkten gestalten und ausarbeiten, Entw√ºrfe pr√§sentieren
 - c) :: technische Umsetzbarkeit von Entw√ºrfen pr√ºfen
 
-†
 
-†
 
-†
+
+
+
 
 4
 
@@ -462,13 +462,13 @@ Zuschneiden von Werk- und Hilfsstoffen sowie Grundkonstruktion von Schnitten\\
 - a) :: K√∂rperma√üe und individuelle Besonderheiten feststellen und ihre Bedeutung f√ºr Grundschnitt, Passform und Verarbeitung beachten
 - b) :: Zusammenhang zwischen Grund- und Modellschnitten herstellen
 
-†
 
-†
+
+
 
 4
 
-†
+
 
 6
 
@@ -477,13 +477,13 @@ B√ºgeln und Fixieren von Werk- und Hilfsstoffen\\
 
 schnitterg√§nzende Dressurarbeiten festlegen, zugeschnittene Teile dressieren
 
-†
+
 
 3
 
-†
 
-†
+
+
 
 7
 
@@ -494,13 +494,13 @@ Ausf√ºhren von N√§h- und Teilarbeiten\\
 - b) :: Bekleidungsst√ºcke zur Anprobe richten, √Ñnderungen markieren und vornehmen
 - c) :: Teilarbeiten ausf√ºhren, insbesondere Kragen und √Ñrmel fertigen
 
-†
+
 
 9
 
-†
 
-†
+
+
 
 8
 
@@ -513,24 +513,24 @@ Kleinteile in verschiedenen Ausf√ºhrungen unter Anwendung unterschiedlicher Vera
 - b) :: R√∂cke mit Schlitz-, Bund-, Saum-, Taschen-, Futter- und Faltenverarbeitung sowie Blusen mit Kragenverarbeitung, Ausschnitt- und √Ñrmelformen sowie Verschlusstechniken oder Hemden mit Kragen- und Manschettenverarbeitung sowie Verschlusstechniken
 - c) :: modellbezogene Besonderheiten und Ausschm√ºckungen ausarbeiten
 
-†
+
 
 10
 
-†
 
-†
+
+
 
 - d) :: Westen mit Taschen-, Futter- und Kantenverarbeitung sowie Verschlusstechniken
 - e) :: N√§hergebnisse, insbesondere anhand des Kundenauftrags, pr√ºfen
 
-†
 
-†
+
+
 
 8
 
-†
+
 
 9
 
@@ -544,11 +544,11 @@ Ver√§ndern und Aufarbeiten von Bekleidung\\
 - e) :: √Ñnderungen hinsichtlich Kosten und Umsetzbarkeit pr√ºfen
 - f) :: Reklamationen entgegennehmen und bearbeiten
 
-†
 
-†
 
-†
+
+
+
 
 4
 
@@ -561,28 +561,28 @@ Durchf√ºhren von qualit√§tssichernden Ma√ünahmen\\
 - b) :: L√∂sungen zur Fehlerbeseitigung erarbeiten, Fehler beheben
 - c) :: Ursachen von Qualit√§tsabweichungen feststellen und auswerten, Korrektur- und Vorbeugungsma√ünahmen durchf√ºhren
 
-†
 
-†
+
+
 
 2
 
-†
+
 
 - d) :: Endkontrollen anhand von Arbeitsauftr√§gen durchf√ºhren, Qualit√§tsvorgaben einhalten, insbesondere Toleranzbereiche, Fertigma√üe und Verarbeitung, Ergebnisse dokumentieren
 - e) :: Bekleidungsst√ºcke pr√§sentieren
 - f) :: Bekleidungsst√ºcke f√ºr die Auslieferung vorbereiten
 - g) :: zur kontinuierlichen Verbesserung von Arbeitsvorg√§ngen beitragen
 
-†
 
-†
 
-†
+
+
+
 
 4
 
-†
+
 
 A: Schwerpunkt Damen
 
@@ -596,26 +596,26 @@ Gro√üst√ºcke in verschiedenen Ausf√ºhrungen unter Anwendung unterschiedlicher Ve
 - a) :: Kleider, insbesondere mit unterschiedlichen Ausschnitt-, √Ñrmel- und Rockformen, Taillenverarbeitung sowie Ausschm√ºckungen
 - b) :: Gesellschaftskleidung, insbesondere Cocktail-, Abend- oder Brautkleider sowie Corsagen
 
-†
 
-†
 
-†
+
+
+
 
 20
 
 - c) :: Kost√ºme, insbesondere mit Kragen-, Revers-, Futter- und Einlagenverarbeitung sowie Verschlusstechniken
 - d) :: Jacken und M√§ntel, insbesondere mit unterschiedlichen √Ñrmelanlagen, Kragen- und Reversverarbeitung sowie Verschlusstechniken
 
-†
 
-†
 
-†
+
+
+
 
 20
 
-†
+
 
 B: Schwerpunkt Herren
 
@@ -630,20 +630,20 @@ Gro√üst√ºcke in verschiedenen Ausf√ºhrungen unter Anwendung unterschiedlicher Ve
 - b) :: Anz√ºge in stilistischer und verarbeitungstechnischer Abstimmung
 - c) :: Gesellschaftskleidung, insbesondere Smoking, Cut oder Frack
 
-†
 
-†
 
-†
+
+
+
 
 26
 
 - d) :: Jacken und M√§ntel, insbesondere mit unterschiedlichen √Ñrmelanlagen, Kragen- und Reversverarbeitung sowie Verschlusstechniken
 
-†
 
-†
 
-†
+
+
+
 
 14

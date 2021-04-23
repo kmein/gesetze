@@ -597,7 +597,7 @@ für eine bestimmte Menge und für einen bestimmten Zeitraum, der im Falle der N
 
 entsprechend anzuwenden.
 
-(2) Pflanzenschutzmittel dürfen nur in den Verkehr gebracht oder innergemeinschaftlich verbracht werden, wenn zusätzlich zu der Kennzeichnung nach den §§ 13 und 14 des Chemikaliengesetzes auf den Behältnissen und abgabefertigen Packungen in deutscher Sprache und in deutlich sichtbarer, leicht lesbarer Schrift unverwischbar die nach Anhang I der Verordnung (EU) Nr. 547/2011 der Kommission vom 8. Juni 2011 zur Durchführung der Verordnung (EG) Nr. 1107/2009 des Europäischen Parlaments und des Rates hinsichtlich der Kennzeichnungsanforderungen für Pflanzenschutzmittel (ABl. L 155 vom 11.6.2011, S. 176) geforderten Angaben angebracht sind. Dabei sind die in Anhang I Nummer 1 Buchstabe h, i, l, m und u der Verordnung (EU) Nr. 547/2011 vorgeschriebenen Angaben unter der Überschrift �Von der Zulassungsbehörde festgesetzte Anwendungsgebiete und -bestimmungen“ deutlich getrennt von den übrigen Angaben und Aufschriften aufzunehmen.
+(2) Pflanzenschutzmittel dürfen nur in den Verkehr gebracht oder innergemeinschaftlich verbracht werden, wenn zusätzlich zu der Kennzeichnung nach den §§ 13 und 14 des Chemikaliengesetzes auf den Behältnissen und abgabefertigen Packungen in deutscher Sprache und in deutlich sichtbarer, leicht lesbarer Schrift unverwischbar die nach Anhang I der Verordnung (EU) Nr. 547/2011 der Kommission vom 8. Juni 2011 zur Durchführung der Verordnung (EG) Nr. 1107/2009 des Europäischen Parlaments und des Rates hinsichtlich der Kennzeichnungsanforderungen für Pflanzenschutzmittel (ABl. L 155 vom 11.6.2011, S. 176) geforderten Angaben angebracht sind. Dabei sind die in Anhang I Nummer 1 Buchstabe h, i, l, m und u der Verordnung (EU) Nr. 547/2011 vorgeschriebenen Angaben unter der Überschrift Von der Zulassungsbehörde festgesetzte Anwendungsgebiete und -bestimmungen“ deutlich getrennt von den übrigen Angaben und Aufschriften aufzunehmen.
 (3) Die Absätze 1 und 2 gelten nicht hinsichtlich der Einfuhr oder des innergemeinschaftlichen Verbringens eines Pflanzenschutzmittels durch den Hersteller oder Vertriebsunternehmer.
 (4) Absatz 2 gilt nicht für Pflanzenschutzmittel, die für die Ausfuhr bestimmt sind oder sich im Falle der Einfuhr in einem Freihafen oder als Nichtgemeinschaftsware unter zollamtlicher Überwachung befinden.
 (5) Es ist verboten, Pflanzenschutzmittel herzustellen, innergemeinschaftlich zu verbringen oder in Verkehr zu bringen, die
@@ -817,7 +817,7 @@ Die in Satz 1 Nummer 1 bis 3 genannten Behörden verbinden ihre Entscheidung mit
 
 § 43 - Kennzeichnung von Zusatzstoffen
 
-Ein Zusatzstoff darf nur in Verkehr gebracht werden, wenn er auf den Behältnissen oder abgabefertigen Packungen oder Packungsbeilagen in deutscher Sprache mit der Angabe �Zusatzstoff nach § 42 des Pflanzenschutzgesetzes“ gekennzeichnet und in der Gebrauchsanleitung folgende Angaben gemacht werden:
+Ein Zusatzstoff darf nur in Verkehr gebracht werden, wenn er auf den Behältnissen oder abgabefertigen Packungen oder Packungsbeilagen in deutscher Sprache mit der Angabe Zusatzstoff nach § 42 des Pflanzenschutzgesetzes“ gekennzeichnet und in der Gebrauchsanleitung folgende Angaben gemacht werden:
 
 - 1. :: die Bezeichnung des Zusatzstoffes,
 - 2. :: Name und Anschrift desjenigen, der den Zusatzstoff zur Abgabe an den Anwender verpackt und kennzeichnet,
@@ -833,7 +833,7 @@ Ein Zusatzstoff darf nur in Verkehr gebracht werden, wenn er auf den Behältniss
 § 45 - Pflanzenstärkungsmittel
 
 (1) Ein Pflanzenstärkungsmittel darf nur in Verkehr gebracht werden, wenn es bei bestimmungsgemäßer und sachgerechter Anwendung oder als Folge einer solchen Anwendung keine schädlichen Auswirkungen auf die Gesundheit von Mensch und Tier und auf das Grundwasser sowie keine sonstigen nicht vertretbaren Auswirkungen, insbesondere auf den Naturhaushalt hat.
-(2) Ein Pflanzenstärkungsmittel darf nur in Verkehr gebracht werden, wenn auf den Behältnissen und abgabefertigen Packungen oder Verpackungsbeilagen in deutscher Sprache neben der Angabe �Pflanzenstärkungsmittel“ angegeben sind:
+(2) Ein Pflanzenstärkungsmittel darf nur in Verkehr gebracht werden, wenn auf den Behältnissen und abgabefertigen Packungen oder Verpackungsbeilagen in deutscher Sprache neben der Angabe Pflanzenstärkungsmittel“ angegeben sind:
 
 - 1. :: die Bezeichnung des Pflanzenstärkungsmittels,
 - 2. :: Name und Anschrift desjenigen, der das Pflanzenstärkungsmittel erstmalig in Verkehr bringt, und
@@ -904,7 +904,7 @@ Im Übrigen bleibt § 49 des Verwaltungsverfahrensgesetzes unberührt.
 § 51 - Innergemeinschaftliches Verbringen von Pflanzenschutzmitteln für den Eigenbedarf
 
 (1) Soll das innergemeinschaftliche Verbringen eines Pflanzenschutzmittels nach § 46 nur zur Anwendung im eigenen Betrieb der Land- oder Forstwirtschaft oder des Gartenbaus erfolgen, gelten die §§ 46 bis 48 und 50 nach Maßgabe des Absatzes 2 entsprechend.
-(2) Soll das innergemeinschaftliche Verbringen nur zur Anwendung im eigenen Betrieb der Land- oder Forstwirtschaft oder des Gartenbaus erfolgen, ist dies bei dem Antrag auf Genehmigung mitzuteilen. Stellt das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit bei einem Antrag nach Satz 1 die Identität mit dem Referenzmittel fest, stellt es die Genehmigung mit dem Zusatz �nur zur Anwendung im Betrieb des Antragstellers“ aus. Bei der Lagerung und Anwendung des Pflanzenschutzmittels muss der Inhaber der Genehmigung über die Gebrauchsanleitung des Referenzmittels verfügen. Eine Kennzeichnung des Eigenimportes nach § 47 Absatz 1 ist nicht erforderlich. § 49 Absatz 2 bis 4 ist nicht anzuwenden. Das Pflanzenschutzmittel darf nur in dem Betrieb angewendet werden, für den die Genehmigung nach Absatz 1 erteilt wurde.
+(2) Soll das innergemeinschaftliche Verbringen nur zur Anwendung im eigenen Betrieb der Land- oder Forstwirtschaft oder des Gartenbaus erfolgen, ist dies bei dem Antrag auf Genehmigung mitzuteilen. Stellt das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit bei einem Antrag nach Satz 1 die Identität mit dem Referenzmittel fest, stellt es die Genehmigung mit dem Zusatz nur zur Anwendung im Betrieb des Antragstellers“ aus. Bei der Lagerung und Anwendung des Pflanzenschutzmittels muss der Inhaber der Genehmigung über die Gebrauchsanleitung des Referenzmittels verfügen. Eine Kennzeichnung des Eigenimportes nach § 47 Absatz 1 ist nicht erforderlich. § 49 Absatz 2 bis 4 ist nicht anzuwenden. Das Pflanzenschutzmittel darf nur in dem Betrieb angewendet werden, für den die Genehmigung nach Absatz 1 erteilt wurde.
 
 § 52 - Prüfung
 
@@ -1210,4 +1210,4 @@ Ist keiner der in dem Pflanzenschutzmittel enthaltenen Wirkstoffe in Anhang I de
 (12) Pflanzenschutzmittel, die vor dem 14. Februar 2012 für die Anwendung im Haus- und Kleingartenbereich gekennzeichnet worden sind, gelten als zugelassen für nichtberufliche Anwender. Sie dürfen mit dieser Kennzeichnung noch bis zum 14. Juni 2015 in Verkehr gebracht werden.
 (13) Pflanzenschutzmittel, die nach den am 13. Februar 2012 geltenden Bestimmungen gekennzeichnet sind, dürfen noch bis zum 14. Juni 2015 in Verkehr gebracht werden.
 (14) Bis zum Ablauf des 31. März 2012 ist § 73 mit der Maßgabe anzuwenden, dass die Verkündung abweichend von § 1 des Gesetzes über die Verkündung von Rechtsverordnungen im elektronischen Bundesanzeiger erfolgt und auf eine so verkündete Verordnung unter Angabe der Stelle ihrer Veröffentlichung und des Tages ihres Inkrafttretens nachrichtlich im Bundesgesetzblatt hinzuweisen ist.
-§ 74 Abs. 6 Nr. 1 Satz 1 Kursivdruck: Müsste richtig �worden ist,“ lauten
+§ 74 Abs. 6 Nr. 1 Satz 1 Kursivdruck: Müsste richtig worden ist,“ lauten

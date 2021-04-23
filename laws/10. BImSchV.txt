@@ -71,8 +71,8 @@ Inhaltsübersicht
 § 3 - Anforderungen an Ottokraftstoffe; Bestandsschutzsortenregelung
 
 (1) Ottokraftstoff darf nur dann gewerbsmäßig oder im Rahmen wirtschaftlicher Unternehmungen gegenüber dem Letztverbraucher in den Verkehr gebracht werden, wenn er den Anforderungen der DIN EN 228, Ausgabe August 2017, genügt.
-(2) Wer Ottokraftstoffe nach Absatz 1 der Qualität �Super“ mit mehr als 5 Volumenprozent Ethanol anbietet, ist verpflichtet, an derselben Abgabestelle auch Ottokraftstoffe nach Absatz 1 der Qualität �Super“ mit einem maximalen Sauerstoffgehalt von 2,7 Massenprozent und einem maximalen Ethanolgehalt von 5 Volumenprozent anzubieten.
-(3) Wer Ottokraftstoffe nach Absatz 1 der Qualität �Super Plus“ mit mehr als 5 Volumenprozent Ethanol anbietet, ist verpflichtet, an derselben Abgabestelle auch Ottokraftstoffe nach Absatz 1 der Qualität �Super Plus“ mit einem maximalen Sauerstoffgehalt von 2,7 Massenprozent und einem maximalen Ethanolgehalt von 5 Volumenprozent anzubieten.
+(2) Wer Ottokraftstoffe nach Absatz 1 der Qualität Super“ mit mehr als 5 Volumenprozent Ethanol anbietet, ist verpflichtet, an derselben Abgabestelle auch Ottokraftstoffe nach Absatz 1 der Qualität Super“ mit einem maximalen Sauerstoffgehalt von 2,7 Massenprozent und einem maximalen Ethanolgehalt von 5 Volumenprozent anzubieten.
+(3) Wer Ottokraftstoffe nach Absatz 1 der Qualität Super Plus“ mit mehr als 5 Volumenprozent Ethanol anbietet, ist verpflichtet, an derselben Abgabestelle auch Ottokraftstoffe nach Absatz 1 der Qualität Super Plus“ mit einem maximalen Sauerstoffgehalt von 2,7 Massenprozent und einem maximalen Ethanolgehalt von 5 Volumenprozent anzubieten.
 (4) An Abgabestellen, an denen im Durchschnitt der zwei jeweils vorangegangenen Kalenderjahre weniger als 500 Kubikmeter Ottokraftstoffe nach Absatz 1 in den Verkehr gebracht wurden, gelten die Verpflichtungen nach Absatz 2 und Absatz 3 nicht. Die Voraussetzungen des Satzes 1 sind durch geeignete Belege gegenüber der zuständigen Behörde auf Verlangen nachzuweisen.
 (5) Zweitaktmischungen zur Verwendung in Zweitakt-Ottomotoren dürfen nur dann gewerbsmäßig oder im Rahmen wirtschaftlicher Unternehmungen gegenüber dem Letztverbraucher in den Verkehr gebracht werden, wenn der dafür verwendete Ottokraftstoff vor der Herstellung der Mischung den Anforderungen der DIN EN 228, Ausgabe August 2017, genügt hat.
 
@@ -99,7 +99,7 @@ Autogas darf nur dann gewerbsmäßig oder im Rahmen wirtschaftlicher Unternehmun
 § 8 - Anforderungen an Erdgas und Biogas als Kraftstoffe
 
 (1) Erdgas und Biogas dürfen nur dann als Kraftstoff gewerbsmäßig oder im Rahmen wirtschaftlicher Unternehmungen gegenüber dem Letztverbraucher in den Verkehr gebracht werden, wenn sie den Anforderungen der DIN EN 16723-2, Ausgabe Oktober 2017, genügen. Für Mischungen von Erdgas und Biogas in jedem Verhältnis gilt Satz 1 entsprechend mit der Maßgabe, dass das fertige Produkt den Anforderungen der DIN EN 16723-2, Ausgabe Oktober 2017, genügt. Für Anforderungen, Grenzwerte und zugehörige Prüfverfahren für Erdgas und Biogas als Kraftstoffe für Kraftfahrzeuge ist in den Fällen der Sätze 1 und 2 Tabelle D.1 der DIN EN 16723-2, Ausgabe Oktober 2017, anzuwenden. Für Anforderungen an zugesetzte Additive gilt Abschnitt 5.2 der DIN 51624, Ausgabe Februar 2008.
-(2) Erdgas und Biogas der Qualität �L“ müssen in den Fällen von Absatz 1 Satz 1 und 2 abweichend von Absatz 1 Satz 3 einen unteren Wobbe-Index von mindestens 36,3 Megajoule pro Kubikmeter und einen Heizwert von mindestens 39 Megajoule pro Kilogramm aufweisen. Im Übrigen gelten die Anforderungen der Tabelle D.1 der DIN EN 16723-2, Ausgabe Oktober 2017, und die Anforderungen nach Absatz 1 Satz 4 entsprechend.
+(2) Erdgas und Biogas der Qualität L“ müssen in den Fällen von Absatz 1 Satz 1 und 2 abweichend von Absatz 1 Satz 3 einen unteren Wobbe-Index von mindestens 36,3 Megajoule pro Kubikmeter und einen Heizwert von mindestens 39 Megajoule pro Kilogramm aufweisen. Im Übrigen gelten die Anforderungen der Tabelle D.1 der DIN EN 16723-2, Ausgabe Oktober 2017, und die Anforderungen nach Absatz 1 Satz 4 entsprechend.
 (3) Die Absätze 1 und 2 gelten entsprechend für verflüssigtes Erdgas und Biogas sowie Mischungen hieraus.
 
 § 9 - Anforderung an Pflanzenölkraftstoffe
@@ -147,30 +147,30 @@ Den Kraftstoffen nach § 3 und § 4 Absatz 1 sowie den §§ 5 bis 9a sind solche
 
 (1) Wer gewerbsmäßig oder im Rahmen wirtschaftlicher Unternehmungen gegenüber dem Letztverbraucher Kraftstoffe in den Verkehr bringt, hat die Qualität an den entsprechenden Zapfsäulen der Tankstelle oder LNG-Tankstelle und ihren Zapfventilen gemäß Satz 2 und 3 sowie Absatz 3 Satz 1 in folgender Weise deutlich sichtbar zu machen:
 
-- 1. :: Schwefelfreier Ottokraftstoff mit einem maximalen Sauerstoffgehalt von 2,7 Massenprozent und einem maximalen Ethanolgehalt von 5 Volumenprozent, der den Anforderungen der DIN EN 228, Ausgabe August 2017, genügt oder gleichwertig nach § 11 ist, wird mit der Bezeichnung �Super“ oder �Super Plus“ und dem jeweils zutreffenden Zeichen nach Anlage 1 oder 2 gekennzeichnet; der Hinweis �Enthält bis zu 5 % Bioethanol“ muss im Zeichen Teil a enthalten sein;
-- 2. :: Schwefelfreier Ottokraftstoff, der den Anforderungen der DIN EN 228, Ausgabe August 2017, genügt oder gleichwertig nach § 11 ist und dessen Sauerstoffgehalt 2,7 Massenprozent oder dessen Ethanolgehalt 5 Volumenprozent überschreiten kann, wird mit der Bezeichnung �Super E10“ oder �Super Plus E10“ und dem jeweils zutreffenden Zeichen nach Anlage 3 oder 4 gekennzeichnet; die Hinweise �Enthält bis zu 10 % Bioethanol“ und �Verträgt Ihr Fahrzeug E10? Herstellerinformation einholen! Im Zweifel Super oder Super Plus tanken!“ müssen im Zeichen Teil a enthalten sein;
-- 3. :: Dieselkraftstoff, der den Anforderungen der DIN EN 590, Ausgabe Oktober 2017, genügt oder gleichwertig nach § 11 ist, wird mit der Bezeichnung �Diesel“ und dem Zeichen nach Anlage 5 gekennzeichnet; der Hinweis �Enthält bis zu 7 % Biodiesel“ muss im Zeichen Teil a enthalten sein;
-- 4. :: Fettsäure-Methylester für Dieselmotoren, die den Anforderungen der DIN EN 14214, Ausgabe Mai 2019, genügen oder gleichwertig nach § 11 sind, werden mit der Bezeichnung �Biodiesel“ und dem Zeichen nach Anlage 6 gekennzeichnet;
-- 5. :: Ethanol für Kraftfahrzeuge, das den Anforderungen der DIN EN 15293, Ausgabe Oktober 2018, genügt oder gleichwertig nach § 11 ist, wird mit der Bezeichnung �Ethanolkraftstoff (E85)“ und dem Zeichen nach Anlage 7 gekennzeichnet;
-- 6. :: Autogas, das den Anforderungen der DIN EN 589, Ausgabe März 2019, genügt oder gleichwertig nach § 11 ist, wird mit der Bezeichnung �Autogas“ und dem Zeichen nach Anlage 8 gekennzeichnet;
+- 1. :: Schwefelfreier Ottokraftstoff mit einem maximalen Sauerstoffgehalt von 2,7 Massenprozent und einem maximalen Ethanolgehalt von 5 Volumenprozent, der den Anforderungen der DIN EN 228, Ausgabe August 2017, genügt oder gleichwertig nach § 11 ist, wird mit der Bezeichnung Super“ oder Super Plus“ und dem jeweils zutreffenden Zeichen nach Anlage 1 oder 2 gekennzeichnet; der Hinweis Enthält bis zu 5 % Bioethanol“ muss im Zeichen Teil a enthalten sein;
+- 2. :: Schwefelfreier Ottokraftstoff, der den Anforderungen der DIN EN 228, Ausgabe August 2017, genügt oder gleichwertig nach § 11 ist und dessen Sauerstoffgehalt 2,7 Massenprozent oder dessen Ethanolgehalt 5 Volumenprozent überschreiten kann, wird mit der Bezeichnung Super E10“ oder Super Plus E10“ und dem jeweils zutreffenden Zeichen nach Anlage 3 oder 4 gekennzeichnet; die Hinweise Enthält bis zu 10 % Bioethanol“ und Verträgt Ihr Fahrzeug E10? Herstellerinformation einholen! Im Zweifel Super oder Super Plus tanken!“ müssen im Zeichen Teil a enthalten sein;
+- 3. :: Dieselkraftstoff, der den Anforderungen der DIN EN 590, Ausgabe Oktober 2017, genügt oder gleichwertig nach § 11 ist, wird mit der Bezeichnung Diesel“ und dem Zeichen nach Anlage 5 gekennzeichnet; der Hinweis Enthält bis zu 7 % Biodiesel“ muss im Zeichen Teil a enthalten sein;
+- 4. :: Fettsäure-Methylester für Dieselmotoren, die den Anforderungen der DIN EN 14214, Ausgabe Mai 2019, genügen oder gleichwertig nach § 11 sind, werden mit der Bezeichnung Biodiesel“ und dem Zeichen nach Anlage 6 gekennzeichnet;
+- 5. :: Ethanol für Kraftfahrzeuge, das den Anforderungen der DIN EN 15293, Ausgabe Oktober 2018, genügt oder gleichwertig nach § 11 ist, wird mit der Bezeichnung Ethanolkraftstoff (E85)“ und dem Zeichen nach Anlage 7 gekennzeichnet;
+- 6. :: Autogas, das den Anforderungen der DIN EN 589, Ausgabe März 2019, genügt oder gleichwertig nach § 11 ist, wird mit der Bezeichnung Autogas“ und dem Zeichen nach Anlage 8 gekennzeichnet;
 - 7. :: Erdgas- und Biogaskraftstoffe, die den Anforderungen der DIN EN 16723-2, Ausgabe Oktober 2017, genügen, wobei für die Anforderungen, Grenzwerte und zugehörigen Prüfverfahren für Erdgas und Biogas als Kraftstoffe für Kraftfahrzeuge Tabelle D.1 der DIN EN 16723-2, Ausgabe Oktober 2017 anzuwenden ist, oder gleichwertige Kraftstoffe nach § 11, werden gekennzeichnet
   - a) :: sofern sie als komprimiertes Erdgas (CNG) in den Verkehr gebracht werden
-    - aa) :: mit der Bezeichnung �Erdgas H“ und dem Zeichen nach Anlage 9 oder
-    - bb) :: mit der Bezeichnung �Erdgas L“ und dem Zeichen nach Anlage 10, sofern abweichend von Tabelle D.1 der DIN EN 16723-2, Ausgabe Oktober 2017, die Qualität nur den Anforderungen eines unteren Wobbe-Index von mindestens 36,3 Megajoule pro Kubikmeter genügt und einen Heizwert von mindestens 39 Megajoule pro Kilogramm aufweist, oder
+    - aa) :: mit der Bezeichnung Erdgas H“ und dem Zeichen nach Anlage 9 oder
+    - bb) :: mit der Bezeichnung Erdgas L“ und dem Zeichen nach Anlage 10, sofern abweichend von Tabelle D.1 der DIN EN 16723-2, Ausgabe Oktober 2017, die Qualität nur den Anforderungen eines unteren Wobbe-Index von mindestens 36,3 Megajoule pro Kubikmeter genügt und einen Heizwert von mindestens 39 Megajoule pro Kilogramm aufweist, oder
   - b) :: sofern sie als verflüssigtes Erdgas (LNG) in Verkehr gebracht werden
-    - aa) :: mit der Bezeichnung �Erdgas H“ und dem Zeichen nach Anlage 11 oder
-    - bb) :: mit der Bezeichnung �Erdgas L“ und dem Zeichen nach Anlage 12, sofern abweichend von Tabelle D.1 der DIN EN 16723-2, Ausgabe Oktober 2017, die Qualität nur den Anforderungen eines unteren Wobbe-Index von mindestens 36,3 Megajoule pro Kubikmeter genügt und einen Heizwert von mindestens 39 Megajoule pro Kilogramm aufweist;
-- 8. :: Pflanzenölkraftstoff, der den Anforderungen der DIN 51605, Ausgabe Januar 2016, genügt oder gleichwertig nach § 11 ist, wird mit der Bezeichnung �Pflanzenölkraftstoff -- Rapsöl --“ und dem Zeichen nach Anlage 13 gekennzeichnet;
-- 9. :: Pflanzenölkraftstoff, der den Anforderungen der DIN 51623, Ausgabe Dezember 2015, genügt oder gleichwertig nach § 11 ist, wird mit der Bezeichnung �Pflanzenölkraftstoff -- alle Saaten --“ und dem Zeichen nach Anlage 14 gekennzeichnet;
-- 10. :: Wasserstoff als Kraftstoff, der den Anforderungen der DIN EN 17124, Ausgabe Juli 2019, genügt oder gleichwertig nach § 11 ist, wird mit der Bezeichnung �Wasserstoff“ und dem Zeichen nach Anlage 15 gekennzeichnet.
+    - aa) :: mit der Bezeichnung Erdgas H“ und dem Zeichen nach Anlage 11 oder
+    - bb) :: mit der Bezeichnung Erdgas L“ und dem Zeichen nach Anlage 12, sofern abweichend von Tabelle D.1 der DIN EN 16723-2, Ausgabe Oktober 2017, die Qualität nur den Anforderungen eines unteren Wobbe-Index von mindestens 36,3 Megajoule pro Kubikmeter genügt und einen Heizwert von mindestens 39 Megajoule pro Kilogramm aufweist;
+- 8. :: Pflanzenölkraftstoff, der den Anforderungen der DIN 51605, Ausgabe Januar 2016, genügt oder gleichwertig nach § 11 ist, wird mit der Bezeichnung Pflanzenölkraftstoff -- Rapsöl --“ und dem Zeichen nach Anlage 13 gekennzeichnet;
+- 9. :: Pflanzenölkraftstoff, der den Anforderungen der DIN 51623, Ausgabe Dezember 2015, genügt oder gleichwertig nach § 11 ist, wird mit der Bezeichnung Pflanzenölkraftstoff -- alle Saaten --“ und dem Zeichen nach Anlage 14 gekennzeichnet;
+- 10. :: Wasserstoff als Kraftstoff, der den Anforderungen der DIN EN 17124, Ausgabe Juli 2019, genügt oder gleichwertig nach § 11 ist, wird mit der Bezeichnung Wasserstoff“ und dem Zeichen nach Anlage 15 gekennzeichnet.
 
 Für die Auszeichnung der Zapfsäulen ist das Zeichen nach Teil a der jeweils zutreffenden Anlage zu verwenden. Für die Auszeichnung des Zapfventils ist das Zeichen nach Teil b der jeweils zutreffenden Anlage zu verwenden.
-(2) Wer gewerbsmä�Enthält metallhaltige Zusätze. Fragen Sie Ihren Fahrzeughersteller, ob diese Zusätze für Ihr Fahrzeug geeignet sind. Verwenden Sie im Zweifelsfall Kraftstoff ohne metallhaltige Zusätze.“
+(2) Wer gewerbsmäEnthält metallhaltige Zusätze. Fragen Sie Ihren Fahrzeughersteller, ob diese Zusätze für Ihr Fahrzeug geeignet sind. Verwenden Sie im Zweifelsfall Kraftstoff ohne metallhaltige Zusätze.“
 (3) Für die Auszeichnung nach den Absätzen 1 und 2 gilt die DIN EN 16942, Ausgabe Dezember 2016. Für das Zeichen nach Teil a der jeweils zutreffenden Anlage wird eine Mindestbreite von 40 Millimetern empfohlen.
 (4) Leichtes Heizöl, das nach § 11 Absatz 1 in den Verkehr gebracht wird, kann
 
-- 1. :: als �schwefelarm“ bezeichnet werden, wenn sein Schwefelgehalt 50 Milligramm pro Kilogramm leichtes Heizöl nicht überschreitet,
-- 2. :: als �stickstoffarm“ bezeichnet werden, wenn sein Schwefelgehalt 50 Milligramm und sein Stickstoffgehalt 140 Milligramm pro Kilogramm leichtes Heizöl nicht überschreitet.
+- 1. :: als schwefelarm“ bezeichnet werden, wenn sein Schwefelgehalt 50 Milligramm pro Kilogramm leichtes Heizöl nicht überschreitet,
+- 2. :: als stickstoffarm“ bezeichnet werden, wenn sein Schwefelgehalt 50 Milligramm und sein Stickstoffgehalt 140 Milligramm pro Kilogramm leichtes Heizöl nicht überschreitet.
 
 (5) Die Absätze 1 bis 3 finden keine Anwendung im Bereich der Kraft- und Brennstoffe nach § 1 Absatz 4 bis 10.
 (6) Wer gewerbsmäßig oder im Rahmen wirtschaftlicher Unternehmungen einen Ladepunkt betreibt im Sinne des § 2 Nummer 12 der Ladesäulenverordnung vom 9. März 2016 (BGBl. I S. 457), die durch Artikel 1 der Verordnung vom 1. Juni 2017 (BGBl. I S. 1520) geändert worden ist, hat deutlich sichtbar
@@ -178,7 +178,7 @@ Für die Auszeichnung der Zapfsäulen ist das Zeichen nach Teil a der jeweils zu
 - 1. :: einen Hinweis auf die Verträglichkeit der am Ladepunkt bereitgestellten elektrischen Verbindung nach den Anforderungen der DIN EN 17186, Ausgabe Oktober 2019, anzubringen und
 - 2. :: die Verbraucherinformation nach Abschnitt 6.3 der DIN EN 17186, Ausgabe Oktober 2019, gemäß Satz 2 und 4 anzubringen.
 
-In der Verbraucherinformation ist in Abschnitt A des Zeichens nach Abschnitt 6.3.1 der DIN EN 17186, Ausgabe Oktober 2019, die Bezeichnung �Laden von E-Fahrzeugen“ einzutragen. Für das Zeichen in Abschnitt B wird eine Mindestbreite von 40 Millimetern empfohlen. In Abschnitt C ist gemäß der Empfehlung der DIN EN 17186, Ausgabe Oktober 2019, die berechnete Leistung anzugeben.
+In der Verbraucherinformation ist in Abschnitt A des Zeichens nach Abschnitt 6.3.1 der DIN EN 17186, Ausgabe Oktober 2019, die Bezeichnung Laden von E-Fahrzeugen“ einzutragen. Für das Zeichen in Abschnitt B wird eine Mindestbreite von 40 Millimetern empfohlen. In Abschnitt C ist gemäß der Empfehlung der DIN EN 17186, Ausgabe Oktober 2019, die berechnete Leistung anzugeben.
 
 § 14 - Nachweisführung
 
@@ -239,12 +239,12 @@ Als Referenzverfahren dient das Prüfverfahren nach DIN EN ISO 20846, Ausgabe Ja
 - 2. :: nach DIN EN ISO 14596, Ausgabe Dezember 2007.
 
 Als Referenzverfahren dient das Prüfverfahren nach ISO 8754, Ausgabe Dezember 2003.\\
-Bei leichtem Heizöl, das zusätzlich nach § 14 Absatz 4 Nummer 1 mit dem Begriff �schwefelarm“ ausgezeichnet ist, ist eines der folgenden Prüfverfahren zu verwenden:
+Bei leichtem Heizöl, das zusätzlich nach § 14 Absatz 4 Nummer 1 mit dem Begriff schwefelarm“ ausgezeichnet ist, ist eines der folgenden Prüfverfahren zu verwenden:
 
 - 1. :: nach DIN EN ISO 20846, Ausgabe Januar 2012, oder
 - 2. :: nach DIN EN ISO 20884, Ausgabe Juli 2011.
 
-Bei leichtem Heizöl, das zusätzlich nach § 14 Absatz 4 Nummer 2 mit dem Begriff �stickstoffarm“ ausgezeichnet ist, ist das Prüfverfahren nach DIN 51444, Ausgabe November 2003, zu verwenden.
+Bei leichtem Heizöl, das zusätzlich nach § 14 Absatz 4 Nummer 2 mit dem Begriff stickstoffarm“ ausgezeichnet ist, ist das Prüfverfahren nach DIN 51444, Ausgabe November 2003, zu verwenden.
 
 (6) Für die Bestimmung des Schwefelgehalts in schwerem Heizöl ist im Rahmen der Überwachung nach Absatz 3 eines der folgenden Prüfverfahren zu verwenden:
 
@@ -346,7 +346,7 @@ Anlage 9 - (zu § 13 Absatz 1 Satz 1 Nummer 7 Buchstabe a Doppelbuchstabe aa)Zei
 Anlage 10 - (zu § 13 Absatz 1 Satz 1 Nummer 7 Buchstabe a Doppelbuchstabe bb)Zeichen Erdgas und Biogas als Kraftstoff – CNG Gruppe L
 
 (Fundstelle: BGBl. I 2019, 2750)
-�
+
 
 Anlage 11 - (zu § 13 Absatz 1 Satz 1 Nummer 7 Buchstabe b Doppelbuchstabe aa)Zeichen Erdgas und Biogas als Kraftstoff – LNG Gruppe H
 
@@ -376,7 +376,7 @@ Anlage 16 - (zu § 18 Absatz 2 Satz 4)Erklärung des Herstellers, Vermischers od
 (Fundstelle: BGBl. I 2019, 2753)
 - 1. :: Erklärung des Herstellers oder Vermischers über die Beschaffenheit flüssiger Kraft- und Brennstoffe
   Nummer der Ausfertigung:
-  �
+  
 - <<FnA1-F809877_03>>[[#FnR.FnA1-F809877_03][*]] :: Referenzverfahren im Streitfall.
 
 Ort, Datum und Nummer der Prüfung:

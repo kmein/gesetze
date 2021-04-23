@@ -474,8 +474,8 @@ Das Kuratorium trifft Entscheidungen mit der Mehrheit der abgegebenen Stimmen. �
 
 § 32 - Hinweispflichten
 
-(1) Letztvertreiber von mit Getränken befüllten Einweggetränkeverpackungen, die gemä�EINWEG“ darauf hinzuweisen, dass diese Verpackungen nach der Rückgabe nicht wiederverwendet werden.
-(2) Letztvertreiber von mit Getränken befüllten Mehrweggetränkeverpackungen sind verpflichtet, die Endverbraucher in der Verkaufsstelle durch deutlich sicht- und lesbare, in unmittelbarer Nähe zu den Mehrweggetränkeverpackungen befindliche Informationstafeln oder -schilder mit dem Schriftzeichen �MEHRWEG“ auf die Wiederverwendbarkeit dieser Verpackungen hinzuweisen. Satz 1 gilt nicht für Mehrweggetränkeverpackungen, deren Füllvolumen mehr als 3,0 Liter beträgt oder die eines der in § 31 Absatz 4 Nummer 7 aufgeführten Getränke enthalten.
+(1) Letztvertreiber von mit Getränken befüllten Einweggetränkeverpackungen, die gemäEINWEG“ darauf hinzuweisen, dass diese Verpackungen nach der Rückgabe nicht wiederverwendet werden.
+(2) Letztvertreiber von mit Getränken befüllten Mehrweggetränkeverpackungen sind verpflichtet, die Endverbraucher in der Verkaufsstelle durch deutlich sicht- und lesbare, in unmittelbarer Nähe zu den Mehrweggetränkeverpackungen befindliche Informationstafeln oder -schilder mit dem Schriftzeichen MEHRWEG“ auf die Wiederverwendbarkeit dieser Verpackungen hinzuweisen. Satz 1 gilt nicht für Mehrweggetränkeverpackungen, deren Füllvolumen mehr als 3,0 Liter beträgt oder die eines der in § 31 Absatz 4 Nummer 7 aufgeführten Getränke enthalten.
 (3) Im Versandhandel sind die Hinweise nach den Absätzen 1 und 2 in den jeweils verwendeten Darstellungsmedien entsprechend zu geben.
 (4) Die nach den Absätzen 1 bis 3 vorgeschriebenen Hinweise müssen in Gestalt und Schriftgröße mindestens der Preisauszeichnung für das jeweilige Produkt entsprechen.
 (5) Die Absätze 1 bis 3 gelten nicht für Letztvertreiber, die gemäß § 9 Absatz 4 Nummer 3 bis 5 der Preisangabenverordnung in der Fassung der Bekanntmachung vom 18. Oktober 2002 (BGBl. I S. 4197), die zuletzt durch Artikel 11 des Gesetzes vom 11. März 2016 (BGBl. I S. 396) geändert worden ist, bezüglich der von ihnen in Verkehr gebrachten Getränkeverpackungen von der Pflicht zur Angabe des Grundpreises befreit sind.
@@ -530,9 +530,9 @@ Die nach diesem Gesetz Verpflichteten können Dritte mit der Erfüllung ihrer Pf
 Anlage 1 - (zu § 3 Absatz 1)Verpackungskriterien und -beispiele
 
 (Fundstelle: BGBl. I 2017, 2252 - 2253)
-- 1. :: Kriterien für die Begriffsbestimmung �Verpackungen“ nach § 3 Absatz 1
+- 1. :: Kriterien für die Begriffsbestimmung Verpackungen“ nach § 3 Absatz 1
   - a) :: Gegenstände gelten als Verpackungen, wenn sie der in § 3 Absatz 1 genannten Begriffsbestimmung entsprechen, unbeschadet anderer Funktionen, die die Verpackung möglicherweise ebenfalls erfüllt, es sei denn, der Gegenstand ist integraler Teil eines Produkts, der zur Umschließung, Unterstützung oder Konservierung dieses Produkts während seiner gesamten Lebensdauer benötigt wird, und alle Komponenten sind für die gemeinsame Verwendung, den gemeinsamen Verbrauch oder die gemeinsame Entsorgung bestimmt.
-  - b) :: Gegenstände, die dafür konzipiert und bestimmt sind, in der Verkaufsstelle gefüllt zu werden, und �Einwegartikel“, die in gefülltem Zustand verkauft oder dafür konzipiert und bestimmt sind, in der Verkaufsstelle gefüllt zu werden, gelten als Verpackungen, sofern sie eine Verpackungsfunktion erfüllen.
+  - b) :: Gegenstände, die dafür konzipiert und bestimmt sind, in der Verkaufsstelle gefüllt zu werden, und Einwegartikel“, die in gefülltem Zustand verkauft oder dafür konzipiert und bestimmt sind, in der Verkaufsstelle gefüllt zu werden, gelten als Verpackungen, sofern sie eine Verpackungsfunktion erfüllen.
   - c) :: Verpackungskomponenten und Zusatzelemente, die in eine Verpackung integriert sind, gelten als Teil der Verpackung, in die sie integriert sind. Zusatzelemente, die unmittelbar an einem Produkt hängen oder befestigt sind und eine Verpackungsfunktion erfüllen, gelten als Verpackungen, es sei denn, sie sind integraler Teil des Produkts und alle Komponenten sind für den gemeinsamen Verbrauch oder die gemeinsame Entsorgung bestimmt.
 - 2. :: Beispiele für die genannten Kriterien\\
   \\
@@ -621,11 +621,11 @@ Anlage 3 - (zu § 5 Absatz 1 Satz 2 Nummer 2)Anforderungen, unter denen der in �
 - 2. :: Begriffsbestimmungen\\
   \\
   Für die Zwecke dieser Festlegung sind
-  - -- :: �bewusste Zugabe“:
-    der beabsichtigte Einsatz eines Stoffes in der Formel einer Verpackung oder Verpackungskomponente mit dem Ziel, durch sein Vorhandensein in der Verpackung oder Verpackungskomponente ein bestimmtes Merkmal, Aussehen oder eine bestimmte Qualität zu erzielen. Nicht als �bewusste Zugabe“ anzusehen ist, wenn bei der Herstellung neuer Verpackungsmaterialien Sekundärrohstoffe verwendet werden, die zum Teil Metalle enthalten können, die Konzentrationsgrenzwerten unterliegen,
-  - -- :: �zufällige Präsenz“:
+  - -- :: bewusste Zugabe“:
+    der beabsichtigte Einsatz eines Stoffes in der Formel einer Verpackung oder Verpackungskomponente mit dem Ziel, durch sein Vorhandensein in der Verpackung oder Verpackungskomponente ein bestimmtes Merkmal, Aussehen oder eine bestimmte Qualität zu erzielen. Nicht als bewusste Zugabe“ anzusehen ist, wenn bei der Herstellung neuer Verpackungsmaterialien Sekundärrohstoffe verwendet werden, die zum Teil Metalle enthalten können, die Konzentrationsgrenzwerten unterliegen,
+  - -- :: zufällige Präsenz“:
     das unbeabsichtigte Vorhandensein eines Stoffes in einer Verpackung oder Verpackungskomponente,
-  - -- :: �geschlossene und kontrollierte Produktkreisläufe“:
+  - -- :: geschlossene und kontrollierte Produktkreisläufe“:
     Kreisläufe, in denen Produkte auf Grund eines kontrollierten Vertriebs- und Mehrwegsystems zirkulieren und in denen die Sekundärrohstoffe nur aus im Kreislauf befindlichen Einheiten stammen, die Zugabe von Stoffen, die nicht aus dem Kreislauf stammen, auf das technisch mögliche Mindestmaß beschränkt ist, und aus denen die Einheiten nur durch ein zu diesem Zweck zugelassenes Verfahren entnommen werden dürfen, um eine möglichst hohe Rückgabequote zu erzielen.
 - 3. :: Herstellung und Kennzeichnung\\
   \\
@@ -648,7 +648,7 @@ Anlage 4 - (zu § 5 Absatz 1 Satz 2 Nummer 4)Anforderungen, unter denen der in �
 (Fundstelle: BGBl. I 2017, 2256)
 - 1. :: Begriffsbestimmungen\\
   \\
-  Für die Zwecke dieser Festlegung gelten für die Begriffe �bewusste Zugabe“ und �zufällige Präsenz“ die Begriffsbestimmungen in Nummer 2 der Anlage 3 zu § 5 Absatz 1 Satz 2 Nummer 2.
+  Für die Zwecke dieser Festlegung gelten für die Begriffe bewusste Zugabe“ und zufällige Präsenz“ die Begriffsbestimmungen in Nummer 2 der Anlage 3 zu § 5 Absatz 1 Satz 2 Nummer 2.
 - 2. :: Herstellung\\
   \\
   (1) Blei, Cadmium, Quecksilber und Chrom VI dürfen bei der Fertigung nicht bewusst als Bestandteil zugegeben werden.

@@ -80,41 +80,41 @@ Als Erkl√§rungszeitraum ist das Kalenderjahr anzugeben.
 
 - Ansprechpartner/-in der Emissionserkl√§rung
 
-†
+
 
 - Name
 
-†
+
 
 - Telefon/Fax/Email-Adresse
 
-†
+
 
 - Ort, Datum
 
 Betreiber 1)
 
-†
+
 
 - Name
 
 - Anschrift
 
-†
+
 
 - Postleitzahl
 
-†
+
 
 - Ort, Ortsteil
 
-†
+
 
 - Stra√üe/Nummer
 
 Werk/Betrieb 1)
 
-†
+
 
 - Identifikationsnummer des Werks/Betriebs
 
@@ -122,15 +122,15 @@ Werk/Betrieb 1)
 
 - Standort
 
-†
+
 
 - Postleitzahl
 
-†
+
 
 - Ort, Ortsteil
 
-†
+
 
 - Stra√üe/Nummer
 
@@ -144,21 +144,21 @@ Die √úbertrittstellen der von Anlagen beziehungsweise den Anlagen ausgehenden Em
 
 - Beschreibung
 
-†
+
 
 - Nummer
 
-†
+
 
 - Bezeichnung
 
 - Lage
 
-†
+
 
 - Rechtswert der Quelle (m)
 
-†
+
 
 - Hochwert der Quelle (m)
 
@@ -166,11 +166,11 @@ Die √úbertrittstellen der von Anlagen beziehungsweise den Anlagen ausgehenden Em
 
 Die Lage der Quellen ist durch den Rechts- und Hochwert des Mittelpunktes nach den in den L√§ndern verwendeten amtlichen Koordinaten anzugeben.
 
-†
+
 
 - Fl√§che (qm)
 
-†
+
 
 - Geometrische H√∂he (m)
 
@@ -188,15 +188,15 @@ Unter Auslastung ist der prozentuale Anteil der tats√§chlichen Leistung an der i
 
 - Installierte Leistung/Kapazit√§t
 
-†
+
 
 - Ma√üzahl
 
-†
+
 
 - Einheit
 
-†
+
 
 - Bezug
 
@@ -215,7 +215,7 @@ Steinkohle, Erdgas), aus denen unmittelbar auf die von den Anlagen ausgehenden E
 
 - Massenstrom (t/a)
 
-†
+
 
 Der Heizwert ist f√ºr solche Stoffe anzugeben, die verbrannt werden.
 
@@ -238,25 +238,25 @@ setzt Emissionen im Erkl√§rungszeitraum √ºber eine der unter Position Quellen ge
 
 - Abgas
 
-†
+
 
 - Reinigungsart
 
-†
+
 
 - Volumenstrom (cbm/h)
 
-†
+
 
 - Feuchte (Vol-%)
 
 Innerhalb einer Anlage sind die emissionsverursachenden Vorg√§nge fortlaufend zu nummerieren und zu benennen (z. B. Verfeuern von Heiz√∂l EL, Schmelzen von Stahl).
 
-†
+
 
 - Temperatur (Grad C)
 
-†
+
 
 Die Angabe des Volumenstroms ist auf den trockenen Normalzustand (273,15 K; 1013 hPa) zu beziehen.
 
@@ -272,17 +272,17 @@ Emissionen in die Luft sind von jeder erkl√§rungspflichtigen Anlage gem√§√ü ¬ß 3
 
 - Emittierter Stoff
 
-†
+
 
 - Bezeichnung
 
-†
+
 
 - Aggregatzustand
 
 Die zust√§ndige Beh√∂rde kann auf die Angabe der Emissionen verzichten, wenn die Emissionen mittels Emissionsfaktoren -- z. B. durch softwaregest√ºtzte Rechenprogramme - berechnet werden.
 
-†
+
 
 - Emissionsmassenstrom (kg/h)
 
@@ -290,7 +290,7 @@ Die zust√§ndige Beh√∂rde kann auf die Angabe der Emissionen verzichten, wenn die
 
 - Ermittlungsart der Jahresfracht
 
-†
+
 
 - M: gemessen, C: berechnet, E: gesch√§tzt
 

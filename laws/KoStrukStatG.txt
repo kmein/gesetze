@@ -6,7 +6,7 @@ Ausfertigungsdatum: 12.05.1959
 
 § 1
 
-(1) In den Wirtschaftsbereichen �Arzt- und Zahnarztpraxen“ sowie �Praxen von psychologischen Psychotherapeutinnen und -therapeuten“ werden jährlich Kostenstrukturerhebungen als Bundesstatistik durchgeführt. Die jährliche Durchführung der Erhebungen erfolgt erstmals für das Jahr 2021. Die Erhebungen erstrecken sich auf die folgenden Wirtschaftszweige nach Anhang I zur Verordnung (EG) Nr. 1893/2006 des Europäischen Parlaments und des Rates vom 20. Dezember 2006 zur Aufstellung der statistischen Systematik der Wirtschaftszweige NACE Revision 2 und zur Änderung der Verordnung (EWG) Nr. 3037/90 des Rates sowie einiger Verordnungen der EG über bestimmte Bereiche der Statistik (ABl. L 393 vom 30.12.2006, S. 1), die zuletzt durch die Verordnung (EU) 2019/1243 (ABl. L 198 vom 25.7.2019, S. 241) geändert worden ist, in der jeweils geltenden Fassung sowie in Verbindung mit der vom Statistischen Bundesamt daraus erstellten Klassifikation der Wirtschaftszweige in der jeweils geltenden Fassung:
+(1) In den Wirtschaftsbereichen Arzt- und Zahnarztpraxen“ sowie Praxen von psychologischen Psychotherapeutinnen und -therapeuten“ werden jährlich Kostenstrukturerhebungen als Bundesstatistik durchgeführt. Die jährliche Durchführung der Erhebungen erfolgt erstmals für das Jahr 2021. Die Erhebungen erstrecken sich auf die folgenden Wirtschaftszweige nach Anhang I zur Verordnung (EG) Nr. 1893/2006 des Europäischen Parlaments und des Rates vom 20. Dezember 2006 zur Aufstellung der statistischen Systematik der Wirtschaftszweige NACE Revision 2 und zur Änderung der Verordnung (EWG) Nr. 3037/90 des Rates sowie einiger Verordnungen der EG über bestimmte Bereiche der Statistik (ABl. L 393 vom 30.12.2006, S. 1), die zuletzt durch die Verordnung (EU) 2019/1243 (ABl. L 198 vom 25.7.2019, S. 241) geändert worden ist, in der jeweils geltenden Fassung sowie in Verbindung mit der vom Statistischen Bundesamt daraus erstellten Klassifikation der Wirtschaftszweige in der jeweils geltenden Fassung:
 
 - 1. :: 86.21.0 Arztpraxen für Allgemeinmedizin,
 - 2. :: 86.22.0 Facharztpraxen,
@@ -30,7 +30,7 @@ Ausfertigungsdatum: 12.05.1959
 - 2. :: die Kosten, untergliedert nach Kostenarten;
 - 3. :: die beschäftigten Personen.
 
-(2) Au�Arztpraxen für Allgemeinmedizin“ und �Facharztpraxen“ wird zusätzlich die Durchführung von Operationen erfasst. Im Wirtschaftszweig �Zahnarztpraxen“ wird zusätzlich der Betrieb eines eigenen Praxislabors erfasst.
+(2) AuArztpraxen für Allgemeinmedizin“ und Facharztpraxen“ wird zusätzlich die Durchführung von Operationen erfasst. Im Wirtschaftszweig Zahnarztpraxen“ wird zusätzlich der Betrieb eines eigenen Praxislabors erfasst.
 (3) (weggefallen)
 
 § 4

@@ -10,25 +10,25 @@ Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt durch Artike
 
 Inhaltsübersicht
 
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
+
+
+
+
+
+
+
+
+
+
+
+
 
 § 1 - Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf des Orgelbauers und der Orgelbauerin wird staatlich anerkannt nach
 
 - 1. :: § 4 Absatz 1 des Berufsbildungsgesetzes und
-- 2. :: § 25 der Handwerksordnung zur Ausbildung für das Gewerbe �Orgel- und Harmoniumbauer“ nach Anlage B Abschnitt 1 Nummer 44 der Handwerksordnung.
+- 2. :: § 25 der Handwerksordnung zur Ausbildung für das Gewerbe Orgel- und Harmoniumbauer“ nach Anlage B Abschnitt 1 Nummer 44 der Handwerksordnung.
 
 
 § 2 - Dauer der Berufsausbildung
@@ -247,9 +247,9 @@ Der Prüfungsausschuss legt fest, welche beiden Tätigkeiten zugrunde gelegt wer
 
 (2) Die Abschluss- oder Gesellenprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
-- 1. :: im Gesamtergebnis mit mindestens �ausreichend“,
-- 2. :: in mindestens drei Prüfungsbereichen mit mindestens �ausreichend“ und
-- 3. :: in keinem Prüfungsbereich mit �ungenügend“.
+- 1. :: im Gesamtergebnis mit mindestens ausreichend“,
+- 2. :: in mindestens drei Prüfungsbereichen mit mindestens ausreichend“ und
+- 3. :: in keinem Prüfungsbereich mit ungenügend“.
 
 
 § 17 - Mündliche Ergänzungsprüfung
@@ -258,9 +258,9 @@ Der Prüfungsausschuss legt fest, welche beiden Tätigkeiten zugrunde gelegt wer
 (2) Dem Antrag ist stattzugeben, wenn
 
 - 1. :: er für einen der folgenden Prüfungsbereiche gestellt worden ist:
-  - a) :: �Planen und Konstruieren“ oder
-  - b) :: �Wirtschafts- und Sozialkunde“,
-- 2. :: der genannte Prüfungsbereich schlechter als mit �ausreichend“ bewertet worden ist und
+  - a) :: Planen und Konstruieren“ oder
+  - b) :: Wirtschafts- und Sozialkunde“,
+- 2. :: der genannte Prüfungsbereich schlechter als mit ausreichend“ bewertet worden ist und
 - 3. :: die mündliche Ergänzungsprüfung für das Bestehen der Abschluss- oder Gesellenprüfung den Ausschlag geben kann.
 
 Die mündliche Ergänzungsprüfung darf nur in einem Prüfungsbereich durchgeführt werden.
@@ -373,9 +373,9 @@ Der Prüfungsausschuss legt fest, welche Tätigkeit zugrunde gelegt wird.
 
 (2) Die Abschluss- oder Gesellenprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
-- 1. :: im Gesamtergebnis mit mindestens �ausreichend“,
-- 2. :: in mindestens drei Prüfungsbereichen mit mindestens �ausreichend“ und
-- 3. :: in keinem Prüfungsbereich mit �ungenügend“.
+- 1. :: im Gesamtergebnis mit mindestens ausreichend“,
+- 2. :: in mindestens drei Prüfungsbereichen mit mindestens ausreichend“ und
+- 3. :: in keinem Prüfungsbereich mit ungenügend“.
 
 
 § 24 - Mündliche Ergänzungsprüfung
@@ -384,9 +384,9 @@ Der Prüfungsausschuss legt fest, welche Tätigkeit zugrunde gelegt wird.
 (2) Dem Antrag ist stattzugeben, wenn
 
 - 1. :: er für einen der folgenden Prüfungsbereiche gestellt worden ist:
-  - a) :: �Planen und Konstruieren“ oder
-  - b) :: �Wirtschafts- und Sozialkunde“,
-- 2. :: der genannte Prüfungsbereich schlechter als mit �ausreichend“ bewertet worden ist und
+  - a) :: Planen und Konstruieren“ oder
+  - b) :: Wirtschafts- und Sozialkunde“,
+- 2. :: der genannte Prüfungsbereich schlechter als mit ausreichend“ bewertet worden ist und
 - 3. :: die mündliche Ergänzungsprüfung für das Bestehen der Abschluss- oder Gesellenprüfung den Ausschlag geben kann.
 
 Die mündliche Ergänzungsprüfung darf nur in einem Prüfungsbereich durchgeführt werden.

@@ -24,7 +24,7 @@ Ausfertigungsdatum: 06.06.2019
 - 1. :: es einem Typ entspricht, für den eine Allgemeine Betriebserlaubnis erteilt worden ist, oder für das Fahrzeug eine Einzelbetriebserlaubnis erteilt worden ist,
 - 2. :: es eine gültige Versicherungsplakette für Elektrokleinstfahrzeuge nach § 29a der Fahrzeug-Zulassungsverordnung führt,
 - 3. :: es entsprechend § 59 Absatz 1 Satz 1, Absatz 1a erster Halbsatz, Absatz 1b oder 2 der Straßenverkehrs-Zulassungs-Ordnung mit einer Fahrzeug-Identifizierungsnummer sowie einem Fabrikschild mit folgenden Maßgaben gekennzeichnet ist:
-  - a) :: als Fahrzeugtyp muss auf dem Fabrikschild �Elektrokleinstfahrzeug“ angegeben sein,
+  - a) :: als Fahrzeugtyp muss auf dem Fabrikschild Elektrokleinstfahrzeug“ angegeben sein,
   - b) :: anstelle der in § 59 Absatz 1 Satz 1 Nummer 5 und 6 der Straßenverkehrs-Zulassungs-Ordnung genannten Angaben muss auf dem Fabrikschild die bauartbedingte Höchstgeschwindigkeit und die Genehmigungsnummer der Allgemeinen Betriebserlaubnis oder der Einzelbetriebserlaubnis für das Fahrzeug angegeben sein, und
 - 4. :: es
   - a) :: den Anforderungen an die Verzögerungseinrichtung nach § 4,
@@ -108,7 +108,7 @@ Wer ein Elektrokleinstfahrzeug im Straßenverkehr führt, unterliegt den Vorschr
 (3) Für das Befahren von anderen Verkehrsflächen können die Straßenverkehrsbehörden abweichend von Absatz 1 und 2 Ausnahmen für bestimmte Einzelfälle oder allgemein für bestimmte Antragsteller zulassen. Eine allgemeine Zulassung von Elektrokleinstfahrzeugen auf solchen Verkehrsflächen kann durch Anordnung des Zusatzzeichens\\
 \\
 | [[../normengrafiken/bgbl1_2019/j0756-1_0010.jpg]] |
-| �Elektrokleinstfahrzeuge frei“                    |
+| Elektrokleinstfahrzeuge frei“                    |
 
 \\
 \\
@@ -125,12 +125,12 @@ bekannt gegeben werden.
 § 12 - Besonderheiten bei angeordneten Verkehrsverboten nach der Straßenverkehrs-Ordnung
 
 (1) Ist ein Verbot für Fahrzeuge aller Art (Zeichen 250 der Anlage 2 zur Straßenverkehrs-Ordnung) angeordnet, so dürfen Elektrokleinstfahrzeuge dort geschoben werden.
-(2) Ist ein Verbot für Kraftwagen (Zeichen 251 der Anlage 2 zur Stra�Elektrokleinstfahrzeuge frei“ erlaubt ist.
+(2) Ist ein Verbot für Kraftwagen (Zeichen 251 der Anlage 2 zur StraElektrokleinstfahrzeuge frei“ erlaubt ist.
 (3) Ist ein Verbot für den Radverkehr (Zeichen 254 der Anlage 2 zur Straßenverkehrs-Ordnung) angeordnet, so gilt dies auch für Elektrokleinstfahrzeuge.
 
 § 13 - Lichtzeichen
 
-Elektrokleinstfahrzeuge unterfallen der Lichtzeichenregelung des § 37 Absatz 2 Nummer 5 und 6 der Stra�Radverkehr“ zur Anwendung.
+Elektrokleinstfahrzeuge unterfallen der Lichtzeichenregelung des § 37 Absatz 2 Nummer 5 und 6 der StraRadverkehr“ zur Anwendung.
 
 § 14 - Ordnungswidrigkeiten
 

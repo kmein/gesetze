@@ -204,105 +204,105 @@ Lesen und Anfertigen von Skizzen, Zeichnungen und technischen Unterlagen (Â§ 4 N
 a)
 Skizzen anfertigen
 8
- 
- 
- 
+
+
+
 b)
 PlÃ¤ne, Zeichnungen und Normen lesen und anwenden
 c)
 Freihandzeichnungen und Werkzeichnungen anfertigen
- 
- 
+
+
 4
- 
+
 6
 Gestalten und Vorbereiten von Bildhauerarbeiten und Schnitzarbeiten (Â§ 4 Nr. 6)
 a)
 HÃ¶lzer fÃ¼r die Verarbeitung vorbereiten, Holzfeuchte prÃ¼fen
- 
- 
+
+
 2
- 
+
 b)
 Schriften, Ornamente, Zeichen, Reliefs und Vollplastiken nach Vorgaben und gestalterischen GrundsÃ¤tzen entwerfen
- 
- 
+
+
 4
- 
+
 c)
 HÃ¶lzer nach Verwendungszweck sowie gestalterischen, wirtschaftlichen und Ã¶kologischen Gesichtspunkten auswÃ¤hlen
- 
- 
+
+
 3
- 
+
 d)
 Kunststoffe, Steine und Metalle nach Verwendungszweck sowie gestalterischen, wirtschaftlichen und Ã¶kologischen Gesichtspunkten auswÃ¤hlen
 e)
 Schablonen und Lehren herstellen
- 
- 
+
+
 2
- 
+
 f)
 MaÃŸnahmen fÃ¼r den konstruktiven Holzschutz auswÃ¤hlen und durchfÃ¼hren
- 
- 
- 
+
+
+
 2
 7
 Erstellen von Modellen, Anwenden von Abformverfahren (Â§ 4 Nr. 7)
 a)
 Modellier- und Gipswerkzeuge handhaben und pflegen
 9
- 
- 
- 
+
+
+
 b)
 Modelliermassen nach Verwendungszweck unterscheiden und anwenden
 c)
 Abformmaterialien sowie Abformverfahren unterscheiden und anwenden
 8
- 
- 
- 
+
+
+
 d)
 Reliefs, Ornamente und Plastiken anlegen und ausmodellieren
- 
- 
+
+
 5
- 
+
 8
 Be- und Verarbeiten von HÃ¶lzern (Â§ 4 Nr. 8)
 a)
 Eigenschaften und Fehler von HÃ¶lzern bei der Be- und Verarbeitung berÃ¼cksichtigen
 5
- 
- 
- 
+
+
+
 b)
 SÃ¤ge-, Hobel- und Bohrarbeiten ausfÃ¼hren
 c)
 Klebstoffe auswÃ¤hlen und vorbereiten
- 
+
 3
- 
- 
+
+
 d)
 Breiten- und Blockverleimungen ausfÃ¼hren, Spann- und PreÃŸ-einrichtungen anwenden
 e)
 Holzverbindungen auswÃ¤hlen und herstellen, insbesondere Nut und Feder sowie DÃ¼bel und Ãœberblattung
- 
- 
- 
+
+
+
 2
 9
 Handhaben und Instandhalten von MeÃŸ-zeugen, Handwerkzeugen und Hilfsmitteln (Â§ 4 Nr. 9)
 a)
 Handwerkzeuge, insbesondere fÃ¼r die Bearbeitung von Holz, Kunststoff, Stein und Metall, nach ihrem Verwendungszweck auswÃ¤hlen
 8
- 
- 
- 
+
+
+
 b)
 Handwerkzeuge fÃ¼r die Holzbearbeitung handhaben, insbesondere KlÃ¼pfel, Schnitzeisen, Raspeln und Feilen
 c)
@@ -311,129 +311,129 @@ d)
 Handwerkzeuge fÃ¼r die Holzbearbeitung instandhalten
 e)
 MeÃŸzeuge und Hilfsmittel auswÃ¤hlen und anwenden, insbesondere Taster, PunktiergerÃ¤te und Figurenschraube
- 
+
 2
- 
- 
+
+
 f)
 MeÃŸzeuge und Hilfsmittel instandhalten
 g)
 Handwerkzeuge fÃ¼r die Kunststoff-, Stein- und Metallbearbeitung handhaben und instandhalten
- 
- 
+
+
 2
- 
+
 10
 Bedienen und Warten von Maschinen (Â§ 4 Nr. 10)
 a)
 Maschinen und Vorrichtungen nach dem Verwendungszweck unterscheiden, einrichten und bedienen
- 
+
 5
- 
- 
+
+
 b)
 Sicherheitsvorschriften einhalten und Schutzeinrichtungen einsetzen
 c)
 MaschinenstÃ¶rungen erkennen und Fehlerbeseitigung einleiten
 d)
 Maschinenwerkzeuge auswechseln und instandhalten
- 
- 
+
+
 2
- 
+
 e)
 Maschinen und Vorrichtungen warten
 f)
 HandoberfrÃ¤se einsetzen
- 
- 
- 
+
+
+
 2
 11
 AusfÃ¼hren von Bildhauerarbeiten und Schnitzarbeiten in verschiedenen Materialien (Â§ 4 Nr. 11)
 a)
 Arbeitsplatz einrichten
 14
- 
- 
- 
+
+
+
 b)
 HÃ¶lzer in unterschiedlichen Techniken formgebend bearbeiten
 c)
 Schriften und Zeichen ausfÃ¼hren
- 
+
 5
- 
- 
+
+
 d)
 plastische Arbeiten durch Kopieren von Modellen herstellen, insbesondere durch Punktieren
- 
+
 9
- 
- 
+
+
 e)
 Plastische Arbeiten nach Modellen und nach Zeichnungen herstellen, insbesondere vergrÃ¶ÃŸern und verkleinern
- 
- 
- 
+
+
+
 7
 f)
 Kunststoffe und Steine in unterschiedlichen materialbedingten Techniken formgebend bearbeiten
- 
- 
- 
+
+
+
 4
 g)
 WerkstÃ¼cke unter BerÃ¼cksichtigung material- und formbedingter Besonderheiten zusammenbauen
- 
- 
- 
+
+
+
 4
 h)
 OberflÃ¤chenstrukturen herstellen
- 
- 
- 
+
+
+
 4
 i)
 Arbeitsergebnisse bewerten
- 
- 
- 
+
+
+
 2
 12
 Behandeln von OberflÃ¤chen (Â§ 4 Nr. 12)
 a)
 HolzoberflÃ¤chen fÃ¼r die weitere Behandlung vorbereiten, insbesondere schleifen, wÃ¤ssern und ausbessern
- 
+
 2
- 
- 
+
+
 b)
 Hilfs-, FÃ¤rbe- und Ãœberzugsmittel dem Verwendungszweck zuordnen sowie den Vorschriften entsprechend lagern und entsorgen
- 
- 
+
+
 2
- 
+
 c)
 Kunststoff- und andere OberflÃ¤chen fÃ¼r die weitere Behandlung vorbereiten, insbesondere spachteln, schleifen und ausbessern
- 
- 
- 
+
+
+
 2
 d)
 OberflÃ¤chen im Hinblick auf Gestaltung und Beanspruchung unter BerÃ¼cksichtigung des Gesundheitsschutzes behandeln, insbesondere durch Beizen, Ã–len, Wachsen, Lasieren, Lackieren und Auftragen von Holzschutz- und Korrosionsschutzmitteln
- 
- 
- 
+
+
+
 5
 13
 Fundamentieren, Versetzen und Verankern von WerkstÃ¼cken (Â§ 4 Nr. 13)
 a)
 Vermessungsarbeiten ausfÃ¼hren
- 
- 
- 
+
+
+
 5
 b)
 Fundamente herstellen
@@ -447,9 +447,9 @@ ArbeitsgerÃ¼ste unter Beachtung der Sicherheitsvorschriften auf- und abbauen
 Restaurieren von Bildhauerarbeiten und Schnitzarbeiten (Â§ 4 Nr. 14)
 a)
 Stilarten unterscheiden und bei Restaurierungsarbeiten berÃ¼cksichtigen
- 
- 
- 
+
+
+
 13
 b)
 Objekte ausbessern

@@ -20,23 +20,23 @@ Inhaltsübersicht
 
 Im Sinne dieser Verordnung ist
 
-- 1. :: �Abrechnungszeitraum“ bei gleitender Arbeitszeit der Zeitraum, in dem ein Über- oder Unterschreiten der regelmäßigen wöchentlichen Arbeitszeit auszugleichen ist,
-- 2. :: �Arbeitsplatz“ die Dienststelle oder ein anderer von der oder dem Vorgesetzten bestimmter Ort, an dem die Soldatin oder der Soldat Dienst zu leisten hat,
-- 3. :: �Arbeitszeit“ bei seegehenden Einheiten der Marine während ein- oder mehrtägiger Seefahrten die Zeit zwischen dem Ablegen und dem Anlegen der seegehenden Einheiten in Häfen und die Zeiten für die Vor- und Nachbereitung der Seefahrt,
-- 4. :: �Bereitschaftsdienst“ die Zeit, in der die Soldatin oder der Soldat verpflichtet ist, sich an einem von der oder dem Vorgesetzten bestimmten Ort außerhalb ihres oder seines häuslichen Bereichs aufzuhalten, um bei Bedarf den Dienst aufzunehmen, wenn dabei Zeiten ohne Arbeitsleistung überwiegen,
-- 5. :: �Dienst zu wechselnden Zeiten“ ein Dienst, bei dem mindestens viermal im Kalendermonat die Differenz zwischen den Anfangsuhrzeiten zweier Dienste mindestens 7 und höchstens 17 Stunden beträgt und bei dem im Kalendermonat mindestens 5 Stunden Nachtdienst tatsächlich geleistet werden; Rufbereitschaft und Bereitschaftsdienst gelten nicht als Dienst zu wechselnden Zeiten,
-- 6. :: �gleitende Arbeitszeit“ ein Arbeitszeitmodell, bei dem die Soldatinnen und Soldaten Beginn und Ende der täglichen Tätigkeit in gewissen Grenzen selbst bestimmen können,
-- 7. :: �Gleittag“ ein ganztägiger Zeitausgleich bei gleitender Arbeitszeit; dabei gilt ein Tag mit einer Arbeitszeit von weniger als 2 Stunden als Gleittag,
-- 8. :: �Nachtdienst“ ein Dienst, der zwischen 20 und 6 Uhr zu leisten ist,
-- 9. :: �Reisezeit“ die Zeit, die die Soldatin oder der Soldat benötigt für den Weg zwischen
+- 1. :: Abrechnungszeitraum“ bei gleitender Arbeitszeit der Zeitraum, in dem ein Über- oder Unterschreiten der regelmäßigen wöchentlichen Arbeitszeit auszugleichen ist,
+- 2. :: Arbeitsplatz“ die Dienststelle oder ein anderer von der oder dem Vorgesetzten bestimmter Ort, an dem die Soldatin oder der Soldat Dienst zu leisten hat,
+- 3. :: Arbeitszeit“ bei seegehenden Einheiten der Marine während ein- oder mehrtägiger Seefahrten die Zeit zwischen dem Ablegen und dem Anlegen der seegehenden Einheiten in Häfen und die Zeiten für die Vor- und Nachbereitung der Seefahrt,
+- 4. :: Bereitschaftsdienst“ die Zeit, in der die Soldatin oder der Soldat verpflichtet ist, sich an einem von der oder dem Vorgesetzten bestimmten Ort außerhalb ihres oder seines häuslichen Bereichs aufzuhalten, um bei Bedarf den Dienst aufzunehmen, wenn dabei Zeiten ohne Arbeitsleistung überwiegen,
+- 5. :: Dienst zu wechselnden Zeiten“ ein Dienst, bei dem mindestens viermal im Kalendermonat die Differenz zwischen den Anfangsuhrzeiten zweier Dienste mindestens 7 und höchstens 17 Stunden beträgt und bei dem im Kalendermonat mindestens 5 Stunden Nachtdienst tatsächlich geleistet werden; Rufbereitschaft und Bereitschaftsdienst gelten nicht als Dienst zu wechselnden Zeiten,
+- 6. :: gleitende Arbeitszeit“ ein Arbeitszeitmodell, bei dem die Soldatinnen und Soldaten Beginn und Ende der täglichen Tätigkeit in gewissen Grenzen selbst bestimmen können,
+- 7. :: Gleittag“ ein ganztägiger Zeitausgleich bei gleitender Arbeitszeit; dabei gilt ein Tag mit einer Arbeitszeit von weniger als 2 Stunden als Gleittag,
+- 8. :: Nachtdienst“ ein Dienst, der zwischen 20 und 6 Uhr zu leisten ist,
+- 9. :: Reisezeit“ die Zeit, die die Soldatin oder der Soldat benötigt für den Weg zwischen
   - a) :: der Wohnung oder der Dienststelle und der Stelle des auswärtigen Dienstgeschäftes oder der auswärtigen Unterkunft,
   - b) :: der Stelle des auswärtigen Dienstgeschäftes oder der auswärtigen Unterkunft und der Stelle eines weiteren auswärtigen Dienstgeschäftes oder einer weiteren auswärtigen Unterkunft,
   - c) :: der Stelle des auswärtigen Dienstgeschäftes oder der auswärtigen Unterkunft und der Wohnung oder der Dienststelle,
-- 10. :: �Rufbereitschaft“ die Zeit, in der die Soldatin oder der Soldat verpflichtet ist, sich außerhalb des Arbeitsplatzes bereitzuhalten, um bei Bedarf sofort zur Dienstleistung abgerufen werden zu können,
-- 11. :: �Ruhepause“ die Unterbrechung der vorgegebenen täglichen Arbeitszeit, in der die Soldatin oder der Soldat keinen Dienst leistet,
-- 12. :: �Ruhezeit“ jeder Zeitraum außerhalb der vorgegebenen täglichen Arbeitszeit,
-- 13. :: �Schichtdienst“ der Dienst nach einem Schichtplan, der den regelmäßigen Wechsel der täglichen Arbeitszeit der Soldatin oder des Soldaten in Zeitabschnitten von längstens drei Monaten festlegt,
-- 14. :: �Wartezeit“ bei Dienstreisen die Zeit ohne Dienstleistung
+- 10. :: Rufbereitschaft“ die Zeit, in der die Soldatin oder der Soldat verpflichtet ist, sich außerhalb des Arbeitsplatzes bereitzuhalten, um bei Bedarf sofort zur Dienstleistung abgerufen werden zu können,
+- 11. :: Ruhepause“ die Unterbrechung der vorgegebenen täglichen Arbeitszeit, in der die Soldatin oder der Soldat keinen Dienst leistet,
+- 12. :: Ruhezeit“ jeder Zeitraum außerhalb der vorgegebenen täglichen Arbeitszeit,
+- 13. :: Schichtdienst“ der Dienst nach einem Schichtplan, der den regelmäßigen Wechsel der täglichen Arbeitszeit der Soldatin oder des Soldaten in Zeitabschnitten von längstens drei Monaten festlegt,
+- 14. :: Wartezeit“ bei Dienstreisen die Zeit ohne Dienstleistung
   - a) :: vom Ende der Anreise bis zum Beginn der dienstlichen Tätigkeit,
   - b) :: vom Ende der dienstlichen Tätigkeit an einem Tag bis zum Beginn der dienstlichen Tätigkeit an einem anderen Tag,
   - c) :: vom Ende der dienstlichen Tätigkeit bis zur Abreise.

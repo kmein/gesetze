@@ -202,7 +202,7 @@ zu melden. Die Meldungen haben nach Abschluss des Kalenderjahres, spätestens zu
 
 § 21a - Deutsches Hämophilieregister, Verordnungsermächtigung
 
-(1) Das Paul-Ehrlich-Institut führt in Zusammenarbeit mit der Gesellschaft für Thrombose- und Hämostaseforschung e. V., der Deutschen Hämophiliegesellschaft zur Bekämpfung von Blutungskrankheiten e. V. und der Interessengemeinschaft Hämophiler e. V. ein klinisches Register unter der Bezeichnung �Deutsches Hämophilieregister“. Das Deutsche Hämophilieregister hat insbesondere folgende Aufgaben:
+(1) Das Paul-Ehrlich-Institut führt in Zusammenarbeit mit der Gesellschaft für Thrombose- und Hämostaseforschung e. V., der Deutschen Hämophiliegesellschaft zur Bekämpfung von Blutungskrankheiten e. V. und der Interessengemeinschaft Hämophiler e. V. ein klinisches Register unter der Bezeichnung Deutsches Hämophilieregister“. Das Deutsche Hämophilieregister hat insbesondere folgende Aufgaben:
 
 - 1. :: die Erhebung, Zusammenführung, Prüfung und Auswertung der Meldungen nach § 21 Absatz 1a,
 - 2. :: die Festlegung der Einzelheiten zum Datensatz nach Absatz 3 Satz 3 und § 2 Absatz 4 Satz 2 Nummer 3 der Transfusionsgesetz-Meldeverordnung entsprechend dem Stand der medizinischen Wissenschaft und Technik einschließlich der Fortschreibung des Datensatzes,

@@ -576,7 +576,7 @@ mindestens ausreichende Leistungen erbracht wurden. In zwei der Prüfungsbereich
 (5) Das fallbezogene Fachgespräch wird mit einer Darstellung der praxisbezogenen Aufgabe und des Lösungswegs durch den Prüfling eingeleitet. Ausgehend von der praxisbezogenen Aufgabe und dem dazu erstellten Report entwickelt der Prüfungsausschuss das fallbezogene Fachgespräch so, dass die jeweiligen Anforderungen der Zusatzqualifikation nachgewiesen werden können.
 (6) Das fallbezogene Fachgespräch dauert höchstens 20 Minuten.
 (7) Bewertet wird nur die Leistung, die der Prüfling im fallbezogenen Fachgespräch erbringt.
-(8) Die Prüfung der jeweiligen Zusatzqualifikation ist bestanden, wenn die Prüfungsleistung mit mindestens �ausreichend“ bewertet worden ist.
+(8) Die Prüfung der jeweiligen Zusatzqualifikation ist bestanden, wenn die Prüfungsleistung mit mindestens ausreichend“ bewertet worden ist.
 
 § 36 - Bestandsschutz
 
@@ -692,9 +692,9 @@ Informationssicherheit\\
 - c) :: Daten eingeben, verarbeiten, übermitteln, empfangen und analysieren
 - d) :: Vorschriften zum Datenschutz anwenden
 
-�
 
-�
+
+
 
 - e) :: informationstechnische Systeme (IT-Systeme) zur Auftragsplanung, Auftragsabwicklung und Terminverfolgung anwenden
 - f) :: Informationsquellen und Informationen in digitalen Netzen recherchieren und aus digitalen Netzen beschaffen sowie Informationen bewerten

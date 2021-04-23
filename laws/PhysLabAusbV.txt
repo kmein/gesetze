@@ -255,16 +255,16 @@ f)
 Gefahren im Umgang mit EnergietrÃ¤gern beschreiben
 7
 Einsetzen, Pflegen und Instandhalten von ArbeitsgerÃ¤ten (Â§ 4 Nr. 7)
- 
- 
+
+
 7.1
 stationÃ¤re Einrichtungen (Â§ 4 Nr. 7 Buchstabe a)
 a)
 die Notwendigkeit von Be- und EntlÃ¼ftungseinrichtungen beschreiben
 2
- 
- 
- 
+
+
+
 b)
 BelÃ¼ftungs-, EntlÃ¼ftungs- und Absperreinrichtungen bedienen und pflegen
 c)
@@ -274,9 +274,9 @@ LaborgerÃ¤te (Â§ 4 Nr. 7 Buchstabe b)
 a)
 Ã¼ber mechanische und thermische Eigenschaften von LaborgerÃ¤te-Werkstoffen sowie Ã¼ber ihr Verhalten gegenÃ¼ber Chemikalien Auskunft geben
 4
- 
- 
- 
+
+
+
 b)
 LaborgerÃ¤te aus Glas, Porzellan, Metall, Holz, Gummi und Kunststoff zum Aufbewahren, Lagern, Trennen, Vereinigen und Reinigen von Arbeitsstoffen einsetzen
 c)
@@ -290,9 +290,9 @@ Bearbeiten von Werkstoffen und Herstellen von Schlauch- und Rohrverbindungen (Â§
 a)
 Ã¼ber Bearbeitungsverfahren von Werkstoffen Auskunft geben
 8
- 
- 
- 
+
+
+
 b)
 die Werkstoffe Glas, Gummi und Kunststoff bearbeiten
 c)
@@ -308,9 +308,9 @@ Umgehen mit Arbeitsstoffen (Â§ 4 Nr. 9)
 a)
 den Aufbau der Stoffe aus Atomen und MolekÃ¼len beschreiben
 8
- 
- 
- 
+
+
+
 b)
 den Aufbau des Periodensystems aus Haupt- und Nebengruppen beschreiben
 c)
@@ -343,16 +343,16 @@ q)
 Gase nachweisen und bestimmen
 10
 Vereinigen, Trennen und Reinigen von Arbeitsstoffen (Â§ 4 Nr. 10)
- 
- 
+
+
 10.1
 physikalische Methoden (Â§ 4 Nr. 10 Buchstabe a)
 a)
 physikalische Methoden der Stofftrennung, -Vereinigung und -reinigung nennen
 7
- 
- 
- 
+
+
+
 b)
 FlÃ¼ssigkeiten und Feststoffe vereinigen
 c)
@@ -368,9 +368,9 @@ chemische Methoden (Â§ 4 Nr. 10 Buchstabe b)
 a)
 chemische Methoden der Stofftrennung, -Vereinigung und -reinigung nennen
 5
- 
- 
- 
+
+
+
 b)
 qualitative Einzelnachweise von Kationen und Anionen durchfÃ¼hren sowie Reaktionen durch Gleichungen darstellen
 c)
@@ -379,16 +379,16 @@ d)
 Massenanteil, Massenkonzentration und Stoffmengenkonzentration berechnen
 11
 Messen physikalischer GrÃ¶ÃŸen, Bestimmen von Stoffkonstanten und elektrotechnische Arbeiten (Â§ 4 Nr. 11)
- 
- 
+
+
 11.1
 physikalische GrÃ¶ÃŸen (Â§ 4 Nr. 11 Buchstabe a)
 a)
 MeÃŸgerÃ¤te und -einrichtungen beschreiben und Einsatzbereichen zuordnen
 3
- 
- 
- 
+
+
+
 b)
 LÃ¤nge, Volumen und Masse bestimmen
 c)
@@ -406,9 +406,9 @@ Stoff-Konstanten (Â§ 4 Nr. 11 Buchstabe b)
 a)
 die Bestimmung der Dichte von Feststoffen und FlÃ¼ssigkeiten beschreiben
 4
- 
- 
- 
+
+
+
 b)
 die Dichte von Feststoffen und FlÃ¼ssigkeiten bestimmen
 c)
@@ -422,9 +422,9 @@ elektrotechnische Arbeiten (Â§ 4 Nr. 11 Buchstabe c)
 a)
 elektrische Einheiten nennen und den Zusammenhang zwischen elektrischen GrÃ¶ÃŸen beschreiben
 5
- 
- 
- 
+
+
+
 b)
 Spannung, Widerstand und StromstÃ¤rke messen
 c)
@@ -438,9 +438,9 @@ Anwenden mikrobiologischer Arbeitstechniken (Â§ 4 Nr. 12)
 a)
 Ã¼ber Stoffwechsel, Reizbarkeit, Fortpflanzung, Wachstum und Bewegung als Kennzeichen des Lebens Auskunft geben
 3
- 
- 
- 
+
+
+
 b)
 den grundlegenden Zellaufbau beschreiben
 c)
@@ -464,9 +464,9 @@ Dokumentieren von ArbeitsablÃ¤ufen und -ergebnissen (Â§ 4 Nr. 13)
 a)
 Dokumentationsarten unterscheiden und den Dokumentationswert beschreiben
 3
- 
- 
- 
+
+
+
 b)
 ArbeitsablÃ¤ufe und --ergebnisse protokollieren
 c)
@@ -474,26 +474,26 @@ Hilfsmittel zur Dokumentation einsetzen
 II. Berufliche Fachbildung
 1
 mechanische Arbeiten (Â§ 4 Nr. 14)
- 
- 
+
+
 1.1
 Mechanik von FestkÃ¶rpern, FlÃ¼ssigkeiten und Gasen (Â§ 4 Nr. 14 Buchstabe a)
 a)
 die Mechanik von FestkÃ¶rpern, FlÃ¼ssigkeiten und Gasen charakterisieren
- 
+
 3
- 
- 
+
+
 b)
 KrÃ¤fte bestimmen und berechnen
 c)
 elastische GrÃ¶ÃŸen bestimmen
 d)
 die OberflÃ¤chenspannung messen und Berechnungen durchfÃ¼hren
- 
+
 4
 2
- 
+
 e)
 die ViskositÃ¤t nach verschiedenen Methoden bestimmen und berechnen
 f)
@@ -504,28 +504,28 @@ Vakuumapparaturen beschreiben und handhaben
 schwingende Systeme einschlieÃŸlich Akustik (Â§ 4 Nr. 14 Buchstabe b)
 a)
 Messungen an schwingenden Systemen durchfÃ¼hren
- 
+
 2
 2
- 
+
 b)
 MeÃŸgrÃ¶ÃŸen und -methoden unterscheiden und einfache akustische Messungen durchfÃ¼hren
 2
 wÃ¤rmetechnische Arbeiten (Â§ 4 Nr. 15)
 a)
 Messungen und Berechnungen zur WÃ¤rmeausdehnung durchfÃ¼hren
- 
+
 7
- 
- 
+
+
 b)
 WÃ¤rmekapazitÃ¤t, spezifische WÃ¤rmekapazitÃ¤t, UmwandlungswÃ¤rmen bei Phasenumwandlungen kalorimetrisch bestimmen und Berechnungen durchfÃ¼hren
 c)
 Wirkungsgrade bei Energieumwandlungen bestimmen
- 
+
 2
 4
- 
+
 d)
 Luftfeuchte messen und berechnen
 e)
@@ -536,7 +536,7 @@ die relative molare Masse bestimmen und Berechnungen durchfÃ¼hren
 optische Arbeiten (Â§ 4 Nr. 16)
 a)
 fotometrische GrÃ¶ÃŸen und ihre Einheiten zuordnen sowie BeleuchtungsstÃ¤rke messen und berechnen
- 
+
 5
 4
 3
@@ -556,16 +556,16 @@ fotografische und elektronische Abbildungen herstellen und bearbeiten
 elektrotechnische und elektronische Arbeiten (Â§ 4 Nr. 17)
 a)
 elektrische und elektronische SchaltplÃ¤ne und die dazu notwendigen Schaltzeichen lesen
- 
+
 7
- 
- 
+
+
 b)
 elektrotechnische und elektronische Bauteile und Grundschaltungen anwenden und Berechnungen durchfÃ¼hren
 c)
 elektrotechnische Grundlagen von MeÃŸ- und Untersuchungsverfahren beschreiben sowie elektrotechnische GrÃ¶ÃŸen bestimmen und berechnen
- 
- 
+
+
 9
 5
 d)
@@ -576,8 +576,8 @@ Frequenzverhalten von RC-Gliedern bestimmen und Berechnungen durchfÃ¼hren
 RÃ¶ntgen- und KernstrahlungsmeÃŸtechnik (Â§ 4 Nr. 18)
 a)
 Entstehung, Eigenschaften und Nachweis von RÃ¶ntgen- und Kernstrahlung sowie Methoden der Messung beschreiben
- 
- 
+
+
 1
 2
 b)
@@ -588,17 +588,17 @@ Kernstrahlungsmessungen und -berechnungen durchfÃ¼hren
 Werkstoffe und WerkstoffprÃ¼fung (Â§ 4 Nr. 19)
 a)
 Metalle, Kunststoffe, Keramik und Glas hinsichtlich ihres atomaren und molekularen Aufbaues sowie in ihren physikalischen Eigenschaften unterscheiden
- 
+
 2
 2
- 
+
 b)
 Methoden und physikalische Grundlagen der zerstÃ¶renden und zerstÃ¶rungsfreien WerkstoffprÃ¼fung beschreiben und verschiedene Werkstoffe nach einer zerstÃ¶renden Methode prÃ¼fen
 7
 instrumentelle Analytik (Â§ 4 Nr. 20)
 a)
 Aufbau, Funktionsweise und EinsatzmÃ¶glichkeiten von AnalysengerÃ¤ten beschreiben
- 
+
 3
 7
 4
@@ -612,26 +612,26 @@ einfache Messungen zur StrukturaufklÃ¤rung durchfÃ¼hren und auswerten
 verfahrenstechnische Arbeiten (Â§ 4 Nr. 21)
 a)
 thermische und mechanische Verfahren beschreiben und Einsatzgebieten zuordnen
- 
+
 2
 2
- 
+
 b)
 eine homogene FlÃ¼ssigkeitsmischung rektifizieren
 c)
 ein heterogenes Gemisch zentrifugieren
 9
 Leittechnik (Â§ 4 Nr. 22)
- 
- 
+
+
 9.1
 Sensortechnik (Â§ 4 Nr. 22 Buchstabe a)
 a)
 Funktionsweise von Sensoren erklÃ¤ren und die Umwandlung von MeÃŸsignalen beschreiben
- 
+
 4
 2
- 
+
 b)
 Sensoren Aufgabengebieten zuordnen und anwenden
 c)
@@ -640,8 +640,8 @@ MeÃŸgerÃ¤te auf Funktion prÃ¼fen, kalibrieren und anwenden
 Steuerungstechnik (Â§ 4 Nr. 22 Buchstabe b)
 a)
 Ã¼ber Elemente der Steuerungstechnik Auskunft geben
- 
- 
+
+
 3
 2
 b)
@@ -654,8 +654,8 @@ Anwendungen der Steuerungstechnik unterschiedlichen Einsatzgebieten zuordnen
 Regelungstechnik (Â§ 4 Nr. 22 Buchstabe c)
 a)
 Prinzip und Ziel des Regelns beschreiben
- 
- 
+
+
 3
 3
 b)
@@ -668,16 +668,16 @@ Regelkreis mit Proportional-Regler aufbauen, in Betrieb nehmen und optimieren
 informationstechnische Arbeiten (Â§ 4 Nr. 23)
 a)
 Ã¼ber Prinzipien und AnwendungsmÃ¶glichkeiten der Informatik und Digitaltechnik im Laborbereich Auskunft geben
- 
+
 5
- 
- 
+
+
 b)
 Ã¼ber praktische MÃ¶glichkeiten der Datenerfassung, -Verarbeitung und -ausgabe im Labor Auskunft geben
 c)
 FunktionsplÃ¤ne entwickeln
- 
- 
+
+
 6
 4
 d)
@@ -688,7 +688,7 @@ Rechner zur LÃ¶sung labortechnischer Aufgaben, insbesondere zur Steuerung, MeÃŸd
 Dokumentieren von ArbeitsablÃ¤ufen und -ergebnissen (Â§ 4 Nr. 13)
 a)
 Versuchs- und Untersuchungsergebnisse sowie MeÃŸwerte dokumentieren
- 
+
 4
 3
 2
@@ -700,7 +700,7 @@ Tabellenwerke und Fachliteratur nutzen
 MaÃŸnahmen zur QualitÃ¤tssicherung (Â§ 4 Nr. 24)
 a)
 Aufgaben der QualitÃ¤tssicherung fÃ¼r Produkte und Dienstleistungen beschreiben und Ã¼ber das QualitÃ¤tssicherungssystem Auskunft geben
- 
+
 2
 2
 1

@@ -14,7 +14,7 @@ Der Ausbildungsberuf des Bootsbauers und der Bootsbauerin wird
 
 - 1. :: nach § 4 Absatz 1 des Berufsbildungsgesetzes\\
   und
-- 2. :: nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe Nummer 28 �Boots- und Schiffbauer“ der Anlage A der Handwerksordnung
+- 2. :: nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe Nummer 28 Boots- und Schiffbauer“ der Anlage A der Handwerksordnung
 
 staatlich anerkannt.
 
@@ -213,15 +213,15 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 (2) Die Gesellen- oder Abschlussprüfung ist bestanden, wenn die Leistungen
 
-- 1. :: im Gesamtergebnis von Teil 1 und 2 mit mindestens �ausreichend“,
-- 2. :: im Prüfungsbereich Arbeitsauftrag II mit mindestens �ausreichend“,
-- 3. :: im Ergebnis von Teil 2 mit mindestens �ausreichend“,
-- 4. :: in mindestens zwei der übrigen Prüfungsbereiche von Teil 2 mit mindestens �ausreichend“ und
-- 5. :: in keinem Prüfungsbereich von Teil 2 mit �ungenügend“
+- 1. :: im Gesamtergebnis von Teil 1 und 2 mit mindestens ausreichend“,
+- 2. :: im Prüfungsbereich Arbeitsauftrag II mit mindestens ausreichend“,
+- 3. :: im Ergebnis von Teil 2 mit mindestens ausreichend“,
+- 4. :: in mindestens zwei der übrigen Prüfungsbereiche von Teil 2 mit mindestens ausreichend“ und
+- 5. :: in keinem Prüfungsbereich von Teil 2 mit ungenügend“
 
 bewertet worden sind.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Gesellen- oder Abschlussprüfung mit schlechter als �ausreichend“ bewerteten Prüfungsbereiche �Planung und Fertigung“, �Montage und Instandhaltung“ und �Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Gesellen- oder Abschlussprüfung mit schlechter als ausreichend“ bewerteten Prüfungsbereiche Planung und Fertigung“, Montage und Instandhaltung“ und Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 § 10 - Teil 2 der Gesellen- oder Abschlussprüfung in der Fachrichtung Technik
 
@@ -304,15 +304,15 @@ bewertet worden sind.
 
 (2) Die Gesellen- oder Abschlussprüfung ist bestanden, wenn die Leistungen
 
-- 1. :: im Gesamtergebnis von Teil 1 und 2 mit mindestens �ausreichend“,
-- 2. :: im Prüfungsbereich Arbeitsauftrag II mit mindestens �ausreichend“,
-- 3. :: im Ergebnis von Teil 2 mit mindestens �ausreichend“,
-- 4. :: in mindestens zwei der übrigen Prüfungsbereiche von Teil 2 mit mindestens �ausreichend“ und
-- 5. :: in keinem Prüfungsbereich von Teil 2 mit �ungenügend“
+- 1. :: im Gesamtergebnis von Teil 1 und 2 mit mindestens ausreichend“,
+- 2. :: im Prüfungsbereich Arbeitsauftrag II mit mindestens ausreichend“,
+- 3. :: im Ergebnis von Teil 2 mit mindestens ausreichend“,
+- 4. :: in mindestens zwei der übrigen Prüfungsbereiche von Teil 2 mit mindestens ausreichend“ und
+- 5. :: in keinem Prüfungsbereich von Teil 2 mit ungenügend“
 
 bewertet worden sind.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Gesellen- oder Abschlussprüfung mit schlechter als �ausreichend“ bewerteten Prüfungsbereiche �Planung, Montage und Installation“, �Störungssuche und Instandsetzung“ und �Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Gesellen- oder Abschlussprüfung mit schlechter als ausreichend“ bewerteten Prüfungsbereiche Planung, Montage und Installation“, Störungssuche und Instandsetzung“ und Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 § 12 - Bestehende Berufsausbildungsverhältnisse
 

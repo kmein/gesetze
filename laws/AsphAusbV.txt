@@ -235,7 +235,7 @@ Lesen und Anfertigen von Skizzen und Zeichnungen\\
 - d) :: Normen anwenden sowie Tabellen, Handb√ºcher und Merkbl√§tter verwenden
 - e) :: Aufma√ü erstellen
 
-†
+
 
 4
 
@@ -332,7 +332,7 @@ Arbeiten mit Kunststoffen\\
 
 4
 
-†
+
 
 10
 
@@ -347,7 +347,7 @@ Bearbeiten von Metallen\\
 
 4
 
-†
+
 
 Abschnitt II: Berufliche Fachbildung
 
@@ -388,11 +388,11 @@ Instandhalten von Werkzeugen, Einrichten und Warten von Ger√§ten und Maschinen\\
 
 2
 
-†
+
 
 - b) :: Maschinen zum Aufbereiten, Transportieren, Verlegen und Behandeln von Asphalt warten, einrichten und bedienen
 
-†
+
 
 4
 
@@ -400,11 +400,11 @@ Instandhalten von Werkzeugen, Einrichten und Warten von Ger√§ten und Maschinen\\
 
 1
 
-†
+
 
 - d) :: St√∂rungen an Maschinen und Ger√§ten feststellen und geeignete Ma√ünahmen zu ihrer Behebung veranlassen
 
-†
+
 
 2
 
@@ -418,12 +418,12 @@ Abdichten gegen Bodenfeuchtigkeit\\
 
 5
 
-†
+
 
 - c) :: Dichtungsaufstriche und Spachtelungen aufbringen
 - d) :: Anschl√ºsse f√ºr Abdichtungen bei Durchdringungen von Bauteilen herstellen
 
-†
+
 
 8
 
@@ -437,14 +437,14 @@ Abdichten gegen Sicker- und Oberfl√§chenwasser\\
 
 6
 
-†
+
 
 - c) :: Abdichtungen an aufgehende oder abgehende W√§nde anschlie√üen
 - d) :: √úbergangskonstruktionen bei unterschiedlichen Abdichtungssystemen herstellen
 
 8
 
-†
+
 
 5
 
@@ -456,16 +456,16 @@ Abdichten von Br√ºckenbauwerken\\
 
 5
 
-†
+
 
 - c) :: Dichtungsschichten im Bereich von Fahrbahnen und Gehwegkappen verlegen
 - d) :: Schutzschichten f√ºr Abdichtungen einbauen
 
-†
+
 
 8
 
-†
+
 
 6
 
@@ -478,11 +478,11 @@ Aufbereiten von Gu√üasphalt und Asphaltmastix\\
 
 4
 
-†
+
 
 - d) :: Gu√üasphalt und Asphaltmastix in verschiedenen Mischgutarten aufbereiten
 
-†
+
 
 4
 
@@ -491,7 +491,7 @@ Aufbereiten von Gu√üasphalt und Asphaltmastix\\
 
 3
 
-†
+
 
 7
 
@@ -503,14 +503,14 @@ Einbauen von Gu√üasphalt und Asphaltmastix\\
 
 6
 
-†
+
 
 - c) :: schwimmende Estriche auf Trennschicht und Verbundestriche aus Gu√üasphalt verlegen
 - d) :: wasserdichte Asphaltbel√§ge aus Asphaltmastix und Gu√üasphalt einbauen
 
 10
 
-†
+
 
 - e) :: Gu√üasphaltoberfl√§chen mit Sand abreiben
 - f) :: Gu√üasphaltoberfl√§chen mit Splitt abstreuen und durch Walzen andr√ºcken
@@ -519,13 +519,13 @@ Einbauen von Gu√üasphalt und Asphaltmastix\\
 
 6
 
-†
+
 
 - i) :: Hohlkehlen und Dreikantleisten als Abschlu√ü herstellen
 - k) :: gebr√§uchliche Bodenbel√§ge auf Gu√üasphaltestrich nennen
 - l) :: Eigenschaften der Bodenbel√§ge, die bereits beim Verlegen des Gu√üasphaltestrichs zu ber√ºcksichtigen sind, beschreiben
 
-†
+
 
 4
 
@@ -538,11 +538,11 @@ Entnehmen von Materialproben\\
 - b) :: Materialproben entnehmen und zum Versand vorbereiten
 - c) :: Entnahmeprotokolle anfertigen
 
-†
+
 
 4
 
-†
+
 
 9
 
@@ -555,7 +555,7 @@ Durchf√ºhren von W√§rme- und Schalld√§mma√ünahmen in Verbindung mit Gu√üasphalt\
 
 4
 
-†
+
 
 10
 
@@ -567,7 +567,7 @@ Herstellen und Schlie√üen von Fugen\\
 - c) :: Fugen mit dauerplastischen und dauerelastischen Massen schlie√üen
 - d) :: Fugenb√§nder und Fugenprofile verlegen
 
-†
+
 
 8
 
@@ -579,7 +579,7 @@ Auftragen von Kunststoffbeschichtungen auf Gu√üasphalt\\
 - a) :: Arten und Zweck von Kunststoffbeschichtungen beschreiben
 - b) :: Kunststoffe f√ºr Beschichtungen vorbereiten und verarbeiten
 
-†
+
 
 2
 

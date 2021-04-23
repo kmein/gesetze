@@ -39,7 +39,7 @@ Ausfertigungsdatum: 02.05.2013
 Soweit die Zuordnung zu den Genehmigungsverfahren von der Leistungsgrenze oder Anlagengröße abhängt, gilt § 1 Absatz 1 Satz 4 entsprechend.
 
 (2) Kann eine Anlage vollständig verschiedenen Anlagenbezeichnungen im Anhang 1 zugeordnet werden, so ist die speziellere Anlagenbezeichnung maßgebend.
-(3) Für in Spalte c des Anhangs 1 mit dem Buchstaben G gekennzeichnete Anlagen, die ausschlie�UVP-pflichtige Vorhaben“) zum Gesetz über die Umweltverträglichkeitsprüfung nur anzuwenden, soweit nach den Vorschriften dieses Gesetzes keine Umweltverträglichkeitsprüfung durchzuführen ist. Soll die Lage, die Beschaffenheit oder der Betrieb einer nach Satz 1 genehmigten Anlage für einen anderen Entwicklungs- oder Erprobungszweck geändert werden, ist ein Verfahren nach Satz 1 durchzuführen.
+(3) Für in Spalte c des Anhangs 1 mit dem Buchstaben G gekennzeichnete Anlagen, die ausschlieUVP-pflichtige Vorhaben“) zum Gesetz über die Umweltverträglichkeitsprüfung nur anzuwenden, soweit nach den Vorschriften dieses Gesetzes keine Umweltverträglichkeitsprüfung durchzuführen ist. Soll die Lage, die Beschaffenheit oder der Betrieb einer nach Satz 1 genehmigten Anlage für einen anderen Entwicklungs- oder Erprobungszweck geändert werden, ist ein Verfahren nach Satz 1 durchzuführen.
 (4) Wird die für die Zuordnung zu einer Verfahrensart maßgebende Leistungsgrenze oder Anlagengröße durch die Errichtung und den Betrieb einer weiteren Teilanlage oder durch eine sonstige Erweiterung der Anlage erreicht oder überschritten, so wird die Genehmigung für die Änderung in dem Verfahren erteilt, dem die Anlage nach der Summe ihrer Leistung oder Größe entspricht.
 
 § 3 - Anlagen nach der Industrieemissions-Richtlinie
@@ -53,9 +53,9 @@ Anhang 1
 \\
 
 Rohstoffbegriff in Nummer 7
-Der in Anlagenbeschreibungen unter Nummer 7 verwendete Begriff �Rohstoff“ gilt unabhängig davon, ob dieser zuvor verarbeitet wurde oder nicht.
+Der in Anlagenbeschreibungen unter Nummer 7 verwendete Begriff Rohstoff“ gilt unabhängig davon, ob dieser zuvor verarbeitet wurde oder nicht.
 Abfallbegriff in Nummer 8
-Der in den Anlagenbeschreibungen unter den Nummern 8.2 bis 8.15 verwendete Begriff �Abfall“ betrifft jeweils ausschließlich Abfälle, auf die die Vorschriften des Kreislaufwirtschaftsgesetzes Anwendung finden.
+Der in den Anlagenbeschreibungen unter den Nummern 8.2 bis 8.15 verwendete Begriff Abfall“ betrifft jeweils ausschließlich Abfälle, auf die die Vorschriften des Kreislaufwirtschaftsgesetzes Anwendung finden.
 Mischungsregel
 Wird in Anlagenbeschreibungen unter Nummer 7 auf diese Mischungsregel Bezug genommen, errechnet sich die Produktionskapazität P beim Einsatz tierischer und pflanzlicher Rohstoffe wie folgt:
 [[../normengrafiken/bgbl1_2017/j1440-1_0010.jpg]]

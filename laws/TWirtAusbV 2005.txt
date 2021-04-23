@@ -511,7 +511,7 @@ AbfÃ¤lle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuf
 Ã–kologische ZusammenhÃ¤nge; Nachhaltigkeit und Verbraucherschutz (Â§ 5 Abs. 1 Nr. 5)
 a)
 Ã¶kologische ZusammenhÃ¤nge bei der Tierproduktion erlÃ¤utern und beachten
- 
+
 b)
 Kreislaufwirtschaft erlÃ¤utern
 c)
@@ -520,19 +520,19 @@ d)
 MaÃŸnahmen zum Verbraucherschutz bei Produktion und Vermarktung tierischer Produkte umsetzen
 6
 Betriebliche AblÃ¤ufe und Organisation; wirtschaftliche ZusammenhÃ¤nge (Â§ 5 Abs. 1 Nr. 6)
- 
- 
- 
- 
- 
+
+
+
+
+
 6.1
 Planen, Kontrollieren und Beurteilen von ArbeitsablÃ¤ufen und Produktion (Â§ 5 Abs. 1 Nr. 6.1)
 a)
 Arbeits- und Betriebsanweisungen anwenden
 4
- 
- 
- 
+
+
+
 b)
 Arbeits- und ProduktionsablÃ¤ufe unter BerÃ¼cksichtigung betrieblicher Gegebenheiten sowie nach wirtschaftlichen Gesichtspunkten planen und durchfÃ¼hren
 c)
@@ -546,9 +546,9 @@ Erstellen von Kalkulationen und Abwickeln von GeschÃ¤ftsvorgÃ¤ngen (Â§ 5 Abs. 1 
 a)
 bei GeschÃ¤ftsvorgÃ¤ngen mitwirken
 2
- 
- 
- 
+
+
+
 b)
 Markt- und Preisinformationen einholen, vergleichen und bewerten
 6.3
@@ -556,9 +556,9 @@ Kommunikation und Information (Â§ 5 Abs. 1 Nr. 6.3)
 a)
 betriebliche Kommunikations- und Informationssysteme nutzen
 8
- 
- 
- 
+
+
+
 b)
 Informationen beschaffen, auswerten und einordnen
 c)
@@ -576,9 +576,9 @@ QualitÃ¤tssichernde MaÃŸnahmen (Â§ 5 Abs. 1 Nr. 7)
 a)
 produktspezifische QualitÃ¤tsstandards umsetzen und ProduktionsablÃ¤ufe dokumentieren
 3
- 
- 
- 
+
+
+
 b)
 Ziele, Aufgaben und Aufbau der betrieblichen QualitÃ¤tssicherung erlÃ¤utern
 8
@@ -586,9 +586,9 @@ Maschinen, GerÃ¤te, und Betriebseinrichtungen (Â§ 5 Abs. 1 Nr. 8)
 a)
 Maschinen und GerÃ¤te bedienen, Werterhaltung beachten
 8
- 
- 
- 
+
+
+
 b)
 Maschinen, GerÃ¤te und Betriebseinrichtungen reinigen, pflegen, prÃ¼fen und warten
 c)
@@ -601,41 +601,41 @@ SchutzmaÃŸnahmen und Sicherungen an Maschinen und elektrischen Anlagen beachten
 Tierschutz (Â§ 5 Abs. 1 Nr. 9)
 Bestimmungen des Tierschutzgesetzes beachten
 2
- 
- 
- 
+
+
+
 10
 Tierproduktion (Â§ 5 Abs. 1 Nr. 10)
- 
- 
- 
- 
- 
+
+
+
+
+
 10.1
 Tierzucht (Â§ 5 Abs. 1 Nr. 10.1)
 a)
 Anatomie, Physiologie und Verhalten von Nutztieren erlÃ¤utern
 4
- 
- 
- 
+
+
+
 b)
 Grundlagen der Vererbung erlÃ¤utern und in der ZÃ¼chtung anwenden
 10.2
 Tierhaltung (Â§ 5 Abs. 1 Nr. 10.2)
 Tiere beobachten, VerhaltensÃ¤nderungen feststellen und erforderliche MaÃŸnahmen ergreifen
 4
- 
- 
- 
+
+
+
 10.3
 FÃ¼tterung (Â§ 5 Abs. 1 Nr. 10.3)
 a)
 Tiere bedarfsgerecht fÃ¼ttern und trÃ¤nken
 7
- 
- 
- 
+
+
+
 b)
 Futtermittel bestimmen, beurteilen und qualitÃ¤tserhaltend lagern
 10.4
@@ -643,9 +643,9 @@ Tiergesundheit und Tierhygiene (Â§ 5 Abs. 1 Nr. 10.4)
 a)
 TierunterkÃ¼nfte reinigen und desinfizieren
 6
- 
- 
- 
+
+
+
 b)
 Krankheitsanzeichen feststellen und MaÃŸnahmen ergreifen
 c)
@@ -654,9 +654,9 @@ SchÃ¤dlings- und Parasitenbefall feststellen und BekÃ¤mpfungsmaÃŸnahmen einleite
 Nutzung von Tieren und Gewinnung spezifischer Produkte (Â§ 5 Abs. 1 Nr. 10.5)
 Leistungen von Tieren ermitteln
 4
- 
- 
- 
+
+
+
 Abschnitt II: Berufliche Fachbildung
 Lfd. Nr.
 Teil des Ausbildungsberufsbildes
@@ -673,47 +673,47 @@ Zeitliche Richtwerte in Wochen im Ausbildungsjahr
 Erstellen von Kalkulationen und Abwickeln von GeschÃ¤ftsvorgÃ¤ngen (Â§ 5 Abs. 1 Nr. 6.2)
 a)
 Kalkulationen erstellen
- 
- 
+
+
 6
- 
+
 b)
 an der Planung und Konzeption von VermarktungsmaÃŸnahmen mitwirken
 2
 QualitÃ¤tssichernde MaÃŸnahmen (Â§ 5 Abs. 1 Nr. 7)
 a)
 QualitÃ¤tsmerkmale prÃ¼fen und feststellen sowie QualitÃ¤tsdaten dokumentieren
- 
- 
+
+
 4
- 
+
 b)
 verbraucherspezifische Anforderungen und Informationen bei der Produktion berÃ¼cksichtigen
 3
 Tierschutz (Â§ 5 Abs. 1 Nr. 9)
 a)
 berufsspezifische Regelungen, insbesondere Regelungen zur Tierhaltung und -gesundheit sowie zum Transport anwenden
- 
- 
+
+
 3
- 
+
 b)
 NottÃ¶tung durchfÃ¼hren
 4
 Tierproduktion (Â§ 5 Abs. 1 Nr. 10)
- 
- 
- 
- 
- 
+
+
+
+
+
 4.1
 Tierzucht (Â§ 5 Abs. 1 Nr. 10.1)
 a)
 Zuchtprogramme erlÃ¤utern und bei ihrer Umsetzung mitwirken
- 
+
 6
- 
- 
+
+
 b)
 Tiere, insbesondere unter Beachtung von Rassen- und Zuchtstandards, beurteilen
 c)
@@ -722,42 +722,42 @@ Zuchtdaten erfassen und dokumentieren
 Tierhaltung (Â§ 5 Abs. 1 Nr. 10.2)
 a)
 Haltungsverfahren erlÃ¤utern sowie betriebsspezifische Haltungssysteme und -techniken anwenden
- 
+
 9
- 
- 
+
+
 b)
 Tiere halten und versorgen
 c)
 Tiere kennzeichnen
 d)
 Tiere, insbesondere unter BerÃ¼cksichtigung der Tiergesundheit, transportieren
- 
- 
+
+
 2
- 
+
 4.3
 FÃ¼tterung (Â§ 5 Abs. 1 Nr. 10.3)
 a)
 Futterrationen berechnen und zusammenstellen
- 
+
 4
- 
- 
+
+
 b)
 FÃ¼tterungs- und TrÃ¤nkeeinrichtungen kontrollieren und FunktionsfÃ¤higkeit erhalten
- 
- 
+
+
 4
- 
+
 4.4
 Tiergesundheit und Tierhygiene (Â§ 5 Abs. 1 Nr. 10.4)
 a)
 DesinfektionslÃ¶sungen berechnen, herstellen und anwenden
- 
- 
+
+
 4
- 
+
 b)
 VorsorgemaÃŸnahmen, insbesondere zur Gesunderhaltung und Seuchenprophylaxe, treffen
 c)
@@ -768,16 +768,16 @@ bei tierÃ¤rztlichen BehandlungsmaÃŸnahmen mitwirken
 Nutzung von Tieren und Gewinnung spezifischer Produkte (Â§ 5 Abs. 1 Nr. 10.5)
 a)
 Tiere erzeugen oder tierische Produkte gewinnen
- 
+
 7
- 
- 
+
+
 b)
 Tiere oder tierische Produkte vermarkten
- 
- 
+
+
 3
- 
+
 Abschnitt III: Berufliche Fachbildung in den Fachrichtungen
 A: Fachrichtung Rinderhaltung
 Lfd. Nr.
@@ -795,9 +795,9 @@ Zeitliche Richtwerte in Wochen im Ausbildungsjahr
 KÃ¤lber- und Jungrinderaufzucht (Â§ 5 Abs. 2 Nr. 1)
 a)
 KÃ¤lber bis zum Ende der TrÃ¤nkephase und Jungrinder fÃ¼ttern
- 
- 
- 
+
+
+
 8
 b)
 Futtermittel auswÃ¤hlen und Futterrationen altersgerecht zusammenstellen und berechnen
@@ -815,9 +815,9 @@ KÃ¤lber enthornen
 Rinderhaltung (Â§ 5 Abs. 2 Nr. 2)
 a)
 Rinder nach Altersgruppen und Nutzungsart sowie Laktationsstatus einteilen und versorgen
- 
- 
- 
+
+
+
 12
 b)
 Rinder bedarfs- und leistungsgerecht fÃ¼ttern
@@ -835,9 +835,9 @@ Rinder umstallen
 Reproduktion (Â§ 5 Abs. 2 Nr. 3)
 a)
 Fruchtbarkeitsstatus der Herden beurteilen und Anpaarungspartner auswÃ¤hlen
- 
- 
- 
+
+
+
 10
 b)
 Brunstkontrolle durchfÃ¼hren und bei der Besamung mitwirken
@@ -849,9 +849,9 @@ MaÃŸnahmen zur Versorgung von Muttertieren und KÃ¤lbern nach der Geburt durchfÃ¼
 Produktion von Milch, Zucht- und Schlachttieren (Â§ 5 Abs. 2 Nr. 4)
 a)
 Verfahren zur Gewinnung von Milch unterscheiden und KÃ¼he melken
- 
- 
- 
+
+
+
 18
 b)
 Melk- und KÃ¼hlanlagen kontrollieren, warten und bedienen
@@ -865,9 +865,9 @@ Rinder nach QualitÃ¤tsstandards vermarkten
 Weidewirtschaft Futtergewinnung (Â§ 5 Abs. 2 Nr. 5)
 a)
 BesatzstÃ¤rke und -dichte fÃ¼r die Weidewirtschaft definieren
- 
- 
- 
+
+
+
 4
 b)
 Futter, insbesondere Silage, entnehmen
@@ -891,9 +891,9 @@ Zeitliche Richtwerte in Wochen im Ausbildungsjahr
 Reproduktion (Â§ 5 Abs. 3 Nr. 1)
 a)
 Reproduktionsverfahren in der Schweinehaltung unterscheiden und bei der Vermehrung mitwirken
- 
- 
- 
+
+
+
 9
 b)
 Jungsauen fÃ¼r die Zucht selektieren
@@ -909,9 +909,9 @@ Besamungskataloge lesen und Auswahl treffen
 Sauenhaltung (Â§ 5 Abs. 3 Nr. 2)
 a)
 Geburt von Ferkeln vorbereiten und Ã¼berwachen, MaÃŸnahmen zur Versorgung von Muttertieren und Ferkeln durchfÃ¼hren
- 
- 
- 
+
+
+
 10
 b)
 Ferkel kastrieren und SchwÃ¤nze kupieren
@@ -927,9 +927,9 @@ Klauengesundheit beurteilen und Klauenpflege durchfÃ¼hren
 Ferkelaufzucht und Schweinemast (Â§ 5 Abs. 3 Nr. 3)
 a)
 Ferkel und Mastschweine nach Anzahl, Gewicht, Geschlecht und Gesundheitsstatus sortieren sowie in Gruppen zusammenstellen
- 
- 
- 
+
+
+
 20
 b)
 Ferkel und Mastschweine alters- und bedarfsgerecht fÃ¼ttern
@@ -941,9 +941,9 @@ Bestandsentwicklung bei Ferkeln und Mastschweinen beobachten, kontrollieren und 
 Vermarktung (Â§ 5 Abs. 3 Nr. 4)
 a)
 Ausstalltermine fÃ¼r Ferkel und Mastschweine koordinieren und Transport vorbereiten
- 
- 
- 
+
+
+
 5
 b)
 Ferkel und Mastschweine nach QualitÃ¤tsstandards vermarkten
@@ -951,9 +951,9 @@ Ferkel und Mastschweine nach QualitÃ¤tsstandards vermarkten
 Technische Systeme der Schweinehaltung (Â§ 5 Abs. 3 Nr. 5)
 a)
 FÃ¼tterungs- und LÃ¼ftungssysteme beurteilen und betriebsspezifisch anwenden
- 
- 
- 
+
+
+
 4
 b)
 Produktions- und Haltungsverfahren erlÃ¤utern und anwenden
@@ -961,9 +961,9 @@ Produktions- und Haltungsverfahren erlÃ¤utern und anwenden
 Verwertung und Entsorgung von RÃ¼ckstÃ¤nden (Â§ 5 Abs. 3 Nr. 6)
 a)
 Mengen von tierischen Ausscheidungen, insbesondere GÃ¼lleanfall, qualitativ und quantitativ ermitteln
- 
- 
- 
+
+
+
 4
 b)
 WirtschaftsdÃ¼nger umweltschonend lagern und den Nutzen und die Kosten fÃ¼r die Entsorgung, insbesondere von GÃ¼lle, kalkulieren
@@ -987,9 +987,9 @@ Zeitliche Richtwerte in Wochen im Ausbildungsjahr
 Haltung und Herdenmanagement (Â§ 5 Abs. 4 Nr. 1)
 a)
 Haltungsverfahren, -Systeme und Einrichtungselemente beurteilen und betriebsspezifisch anwenden
- 
- 
- 
+
+
+
 17
 b)
 Verfahren der GeflÃ¼gelproduktion erlÃ¤utern und betriebsspezifisch anwenden
@@ -1011,9 +1011,9 @@ GeflÃ¼gel um- und ausstallen sowie transportieren
 FÃ¼tterung (Â§ 5 Abs. 4 Nr. 2)
 a)
 GeflÃ¼gel bedarfsgerecht nach Produktionszweig und Entwicklungsstadien fÃ¼ttern
- 
- 
- 
+
+
+
 15
 b)
 FÃ¼tterungstechniken beurteilen und anwenden
@@ -1027,9 +1027,9 @@ Zusatzstoffe in der GeflÃ¼gelfÃ¼tterung einsetzen und den Einsatz dokumentieren
 Produktgewinnung und Vermarktung (Â§ 5 Abs. 4 Nr. 3)
 a)
 Eier erzeugen, abnehmen, sortieren, kennzeichnen, verpacken und vermarkten
- 
- 
- 
+
+
+
 10
 b)
 GeflÃ¼gel schlachten, SchlachtkÃ¶rper aufbereiten
@@ -1041,9 +1041,9 @@ GeflÃ¼gel nach QualitÃ¤tsstandards vermarkten
 Reproduktion, Vermehrung, Brut (Â§ 5 Abs. 4 Nr. 4)
 a)
 Reproduktionsverfahren in der GeflÃ¼gelwirtschaft unterscheiden und bei der Vermehrung mitwirken
- 
- 
- 
+
+
+
 6
 b)
 Bruteier gewinnen und lagern
@@ -1053,9 +1053,9 @@ Bruttechnik anwenden
 Verwertung und Entsorgung von RÃ¼ckstÃ¤nden (Â§ 5 Abs. 4 Nr. 5)
 a)
 WirtschaftsdÃ¼ngeranfall unter BerÃ¼cksichtigung der NÃ¤hrstoffgehalte ermitteln
- 
- 
- 
+
+
+
 4
 b)
 WirtschaftsdÃ¼nger umweltschonend lagern und nutzen
@@ -1079,9 +1079,9 @@ Zeitliche Richtwerte in Wochen im Ausbildungsjahr
 Schafhaltung (Â§ 5 Abs. 5 Nr. 1)
 a)
 Schafhaltungsformen, insbesondere stationÃ¤re HÃ¼tehaltung, WanderschÃ¤ferei, Koppelhaltung und Stallhaltung, unterscheiden und beurteilen
- 
- 
- 
+
+
+
 10
 b)
 Schafe nach betrieblichen Haltungsformen versorgen und pflegen
@@ -1095,9 +1095,9 @@ Informationen aus Auktions- und Tierschaukatalogen beurteilen sowie Zuchttiere v
 Ablammung und Aufzucht (Â§ 5 Abs. 5 Nr. 2)
 a)
 BÃ¶cke auswÃ¤hlen und zuteilen
- 
- 
- 
+
+
+
 10
 b)
 Mutterschafe belegen, TrÃ¤chtigkeit feststellen
@@ -1117,9 +1117,9 @@ Eutergesundheit kontrollieren und beurteilen sowie MaÃŸnahmen einleiten
 Produktion von Wolle, Milch und Fleisch (Â§ 5 Abs. 5 Nr. 3)
 a)
 Schurmethoden unterscheiden und Voll- und Schwanzschur durchfÃ¼hren
- 
- 
- 
+
+
+
 12
 b)
 QualitÃ¤t von Wolle und Vlies beurteilen
@@ -1137,9 +1137,9 @@ SchlachtkÃ¶rper beurteilen und in TeilstÃ¼cke zerlegen
 HÃ¼tetechnik (Â§ 5 Abs. 5 Nr. 4)
 a)
 Schafe hÃ¼ten
- 
- 
- 
+
+
+
 6
 b)
 Hunderassen und -schlÃ¤ge fÃ¼r die SchÃ¤ferei beurteilen und Herdengebrauchshunde einsetzen
@@ -1149,9 +1149,9 @@ Herdengebrauchshunde pflegen, halten, versorgen und fÃ¼hren
 Weidewirtschaft, Futtergewinnung (Â§ 5 Abs. 5 Nr. 5)
 a)
 BesatzstÃ¤rke und -dichte fÃ¼r die Weidewirtschaft definieren und Weideplan erstellen
- 
- 
- 
+
+
+
 10
 b)
 Futterwerbung erlÃ¤utern sowie Heuwerbung planen und durchfÃ¼hren
@@ -1164,9 +1164,9 @@ Weidestandorte beurteilen
 6
 Naturschutz und Landschaftspflege (Â§ 5 Abs. 5 Nr. 6)
 LandschaftspflegemaÃŸnahmen mit Schafen durchfÃ¼hren
- 
- 
- 
+
+
+
 4
 E: Fachrichtung Imkerei
 Lfd. Nr.
@@ -1184,9 +1184,9 @@ Zeitliche Richtwerte in Wochen im Ausbildungsjahr
 VÃ¶lkerfÃ¼hrung und Bienengesundheit (Â§ 5 Abs. 6 Nr. 1)
 a)
 Trachtnutzung erkennen und beurteilen sowie MaÃŸnahmen ergreifen
- 
- 
- 
+
+
+
 21
 b)
 ErnÃ¤hrungsstadien erkennen und entsprechende FÃ¼tterungen durchfÃ¼hren
@@ -1204,9 +1204,9 @@ Bienengesundheit prÃ¼fen und sicherstellen
 Bienenwanderung (Â§ 5 Abs. 6 Nr. 2)
 a)
 Standorte unter BerÃ¼cksichtigung von TrachtmÃ¶glichkeiten und Trachtangeboten sowie mikroklimatischen Bedingungen auswÃ¤hlen
- 
- 
- 
+
+
+
 5
 b)
 Voraussetzungen fÃ¼r Bienenwanderung unter Beachtung rechtlicher Vorschriften abklÃ¤ren
@@ -1216,9 +1216,9 @@ BienenvÃ¶lker fÃ¼r Wanderung auswÃ¤hlen und zum Transport vorbereiten
 Bienenweide, BestÃ¤ubung und Naturschutz (Â§ 5 Abs. 6 Nr. 3)
 a)
 Trachtpflanzen bestimmen und deren Wert erlÃ¤utern
- 
- 
- 
+
+
+
 3
 b)
 Bienenschutzverordnung erlÃ¤utern sowie SchÃ¤den durch Pflanzenschutzmittel feststellen und MaÃŸnahmen einleiten
@@ -1232,9 +1232,9 @@ Bedeutung der Bienenhaltung fÃ¼r den Naturschutz erlÃ¤utern
 Bienenprodukte gewinnen und vermarkten (Â§ 5 Abs. 6 Nr. 4)
 a)
 Reifegrad des Honigs feststellen und Honig ernten
- 
- 
- 
+
+
+
 12
 b)
 verschiedene Gewinnungsarten von Honig darstellen und Honig, insbesondere durch Schleudern, gewinnen
@@ -1248,9 +1248,9 @@ Produkte prÃ¤sentieren und Kunden informieren
 KÃ¶niginnenzucht (Â§ 5 Abs. 6 Nr. 5)
 a)
 KÃ¶niginnen in weisellosen und weiselrichtigen VÃ¶lkern unter BerÃ¼cksichtigung von AufzuchtplÃ¤nen aufziehen und Ergebnisse beurteilen
- 
- 
- 
+
+
+
 7
 b)
 Pflege- und DrohnenvÃ¶lker vorbereiten und betreuen
@@ -1262,9 +1262,9 @@ instrumentelle Besamung erlÃ¤utern
 Betriebsmittel zur Bienenhaltung (Â§ 5 Abs. 6 Nr. 6)
 a)
 Betriebsmittel zur Bienenhaltung, insbesondere aus Holz, anfertigen sowie Eigenschaften von Holzarten erlÃ¤utern
- 
- 
- 
+
+
+
 4
 b)
 Betriebsmittel reinigen, pflegen und instand halten

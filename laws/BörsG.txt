@@ -8,7 +8,7 @@ Inhaltsübersicht
 
 Abschnitt 1
 Allgemeine Bestimmungen über die Börsen und ihre Organe
-�
+
 § 1
 Anwendungsbereich
 § 2
@@ -67,10 +67,10 @@ Sanktionsausschuss
 Synchronisierung von im Geschäftsverkehr verwendeten Uhren
 § 22b
 Verarbeitung personenbezogener Daten
-�
+
 Abschnitt 2
 Börsenhandel und Börsenpreisfeststellung
-�
+
 § 23
 Zulassung von Wirtschaftsgütern und Rechten
 § 24
@@ -93,10 +93,10 @@ Informationen über die Ausführungsqualität
 Positionsmanagementkontrollen
 § 26g
 Übermittlung von Daten
-�
+
 Abschnitt 3
 Skontroführung und Transparenzanforderungen an Wertpapierbörsen
-�
+
 § 27
 Zulassung zum Skontroführer
 § 28
@@ -107,10 +107,10 @@ Verteilung der Skontren
 Vorhandelstransparenz bei Aktien und Aktien vertretenden Zertifikaten
 § 31
 Nachhandelstransparenz bei Aktien und Aktien vertretenden Zertifikaten
-�
+
 Abschnitt 4
 Zulassung von Wertpapieren zum Börsenhandel
-�
+
 § 32
 Zulassungspflicht
 § 33
@@ -137,20 +137,20 @@ Teilbereiche des regulierten Marktes mit besonderen Pflichten für Emittenten
 Verpflichtung des Insolvenzverwalters
 §§ 44 bis 47
 (weggefallen)
-�
+
 Abschnitt 5
 Freiverkehr, KMU-Wachstumsmarkt und organisiertes Handelssystem
-�
+
 § 48
 Freiverkehr
 § 48a
 KMU-Wachstumsmarkt
 § 48b
 Organisiertes Handelssystem an einer Börse
-�
+
 Abschnitt 6
 Straf- und Bußgeldvorschriften; Schlussvorschriften
-�
+
 § 49
 Strafvorschriften
 § 50

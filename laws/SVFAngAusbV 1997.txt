@@ -309,7 +309,7 @@ Zu vermittelnde Fertigkeiten und Kenntnisse
 
 Der Ausbildungsbetrieb (Â§ 3 Abs. 1 Nr. 1)
 
- 
+
 
 1.1
 
@@ -423,7 +423,7 @@ zur rationellen Ressourcenverwendung im beruflichen Einwirkungsbereich beitragen
 
 Aufgaben der Sozialversicherung (Â§ 3 Abs. 1 Nr. 2)
 
- 
+
 
 2.1
 
@@ -529,7 +529,7 @@ MaÃŸnahmen zur Sicherung von SchadensersatzansprÃ¼chen einleiten
 
 Informationsverarbeitung und Datenschutz (Â§ 3 Abs. 1 Nr. 3)
 
- 
+
 
 3.1
 
@@ -575,7 +575,7 @@ betriebliche Regelungen zur Datensicherheit bei der Erhebung, Verarbeitung und N
 
 Kommunikation und Kooperation (Â§ 3 Abs. 1 Nr. 4)
 
- 
+
 
 4.1
 
@@ -727,7 +727,7 @@ Mittel und Verfahren der Erfolgskontrolle an Beispielen des Ausbildungsbetriebes
 
 VersicherungsverhÃ¤ltnisse und BeitrÃ¤ge (Â§ 3 Abs. 2 Buchstabe A Nr. 2)
 
- 
+
 
 2.1
 
@@ -817,7 +817,7 @@ den Arbeitgebern die fortgezahlten Aufwendungen bei Krankheit und Mutterschaft e
 
 Leistungen und VertrÃ¤ge (Â§ 3 Abs. 2 Buchstabe A Nr. 3)
 
- 
+
 
 3.1
 
@@ -1048,10 +1048,10 @@ Anlage 2 - (zu Â§ 4)Ausbildungsrahmenplan fÃ¼r die Berufsausbildung zum Sozialve
 A. Sachliche Gliederung\\
 \\
 Abschnitt I: Gemeinsame Fertigkeiten und Kenntnisse
- 
- 
- 
- 
+
+
+
+
 Lfd. Nr.
 Teil des Ausbildungsberufsbildes
 Zu vermittelnde Fertigkeiten und Kenntnisse
@@ -1061,7 +1061,7 @@ Zu vermittelnde Fertigkeiten und Kenntnisse
 1
 Der Ausbildungsbetrieb\\
 (Â§ 3 Abs. 1 Nr. 1)
- 
+
 1.1
 Stellung des Ausbildungsbetriebes im System der sozialen Sicherung\\
 (Â§ 3 Abs. 1 Nr. 1.1)
@@ -1125,7 +1125,7 @@ zur rationellen Ressourcenverwendung im beruflichen Einwirkungsbereich beitragen
 2
 Aufgaben der Sozialversicherung\\
 (Â§ 3 Abs. 1 Nr. 2)
- 
+
 2.1
 Sozialversicherung im System der sozialen Sicherung\\
 (Â§ 3 Abs. 1 Nr. 2.1)
@@ -1183,7 +1183,7 @@ MaÃŸnahmen zur Sicherung von SchadensersatzansprÃ¼chen einleiten
 3
 Informationsverarbeitung und Datenschutz\\
 (Â§ 3 Abs. 1 Nr. 3)
- 
+
 3.1
 Informationsbeschaffung, -Verarbeitung und -aufbereitung\\
 (Â§ 3 Abs. 1 Nr. 3.1)
@@ -1210,7 +1210,7 @@ betriebliche Regelungen zur Datensicherheit bei der Erhebung, Verarbeitung und N
 4
 Kommunikation und Kooperation\\
 (Â§ 3 Abs. 1 Nr. 4)
- 
+
 4.1
 Kommunikation und Kooperation in berufstypischen Situationen\\
 (Â§ 3 Abs. 1 Nr. 4.1)
@@ -1251,8 +1251,8 @@ Anwenden von Lern- und Arbeitstechniken\\
 (Â§ 3 Abs. 1 Nr. 6)
 a)
 Methoden fÃ¼r systematisches und kontinuierliches Lernen berÃ¼cksichtigen
- 
- 
+
+
 b)
 eigene Arbeitsorganisation rationell und funktionsgerecht gestalten
 c)
@@ -1507,7 +1507,7 @@ Zu vermittelnde Fertigkeiten und Kenntnisse
 3
 1
 Der Ausbildungsbetrieb (Â§ 3 Abs. 1 Nr. 1)
- 
+
 1.1
 Stellung des Ausbildungsbetriebes im System der sozialen Sicherung (Â§ 3 Abs. 1 Nr. 1.1)
 a)
@@ -1564,7 +1564,7 @@ c)
 zur rationellen Ressourcenverwendung im beruflichen Einwirkungsbereich beitragen
 2
 Aufgaben der Sozialversicherung (Â§ 3 Abs. 1 Nr. 2)
- 
+
 2.1
 Sozialversicherung im System der sozialen Sicherung (Â§ 3 Abs. 1 Nr. 2.1)
 a)
@@ -1617,7 +1617,7 @@ g)
 MaÃŸnahmen zur Sicherung von SchadensersatzansprÃ¼chen einleiten
 3
 Informationsverarbeitung und Datenschutz (Â§ 3 Abs. 1 Nr. 3)
- 
+
 3.1
 Informationsbeschaffung, -Verarbeitung und -aufbereitung (Â§ 3 Abs. 1 Nr. 3.1)
 a)
@@ -1640,7 +1640,7 @@ b)
 betriebliche Regelungen zur Datensicherheit bei der Erhebung, Verarbeitung und Nutzung von Daten anwenden
 4
 Kommunikation und Kooperation (Â§ 3 Abs. 1 Nr. 4)
- 
+
 4.1
 Kommunikation und Kooperation in berufstypischen Situationen (Â§ 3 Abs. 1 Nr. 4.1)
 a)
@@ -1696,7 +1696,7 @@ Zu vermittelnde Fertigkeiten und Kenntnisse
 3
 1
 VersicherungsverhÃ¤ltnisse (Â§ 3 Abs. 2 Buchstabe C Nr. 1)
- 
+
 1.1
 Versicherungspflicht und Versicherungsfreiheit (Â§ 3 Abs. 2 Buchstabe C Nr. 1.1)
 a)
@@ -1721,7 +1721,7 @@ d)
 Wirksamkeit der Beitragszahlung feststellen und Beitragserstattungen durchfÃ¼hren
 3
 Leistungen (Â§ 3 Abs. 2 Buchstabe C Nr. 3)
- 
+
 3.1
 Rehabilitation(Â§ 3 Abs. 2 Buchstabe C Nr. 3.1)
 a)
@@ -2037,7 +2037,7 @@ Zu vermittelnde Fertigkeiten und Kenntnisse
 3
 1
 Der Ausbildungsbetrieb (Â§ 3 Abs. 1 Nr. 1)
- 
+
 1.1
 Stellung des Ausbildungsbetriebes im System der sozialen Sicherung (Â§ 3 Abs. 1 Nr. 1.1)
 a)
@@ -2094,7 +2094,7 @@ c)
 zur rationellen Ressourcenverwendung im beruflichen Einwirkungsbereich beitragen
 2
 Aufgaben der Sozialversicherung (Â§ 3 Abs. 1 Nr. 2)
- 
+
 2.1
 Sozialversicherung im System der sozialen Sicherung (Â§ 3 Abs. 1 Nr. 2.1)
 a)
@@ -2147,7 +2147,7 @@ g)
 MaÃŸnahmen zur Sicherung von SchadensersatzansprÃ¼chen einleiten
 3
 Informationsverarbeitung und Datenschutz (Â§ 3 Abs. 1 Nr. 3)
- 
+
 3.1
 Informationsbeschaffung, -verarbeitung und -aufbereitung (Â§ 3 Abs. 1 Nr. 3.1)
 a)
@@ -2170,7 +2170,7 @@ b)
 betriebliche Regelungen zur Datensicherheit bei der Erhebung, Verarbeitung und Nutzung von Daten anwenden
 4
 Kommunikation und Kooperation (Â§ 3 Abs. 1 Nr. 4)
- 
+
 4.1
 Kommunikation und Kooperation in berufstypischen Situationen (Â§ 3 Abs. 1 Nr. 4.1)
 a)
@@ -2234,7 +2234,7 @@ c)
 bei MarketingmaÃŸnahmen des Ausbildungsbetriebes mitwirken
 2
 VersicherungsverhÃ¤ltnisse (Â§ 3 Abs. 2 Buchstabe D Nr. 2)
- 
+
 2.1
 Versicherungspflicht und Versicherungsfreiheit (Â§ 3 Abs. 2 Buchstabe D Nr. 2.1)
 a)
@@ -2265,7 +2265,7 @@ d)
 Wirksamkeit der Beitragszahlung feststellen und Beitragserstattungen durchfÃ¼hren
 4
 Leistungen (Â§ 3 Abs. 2 Buchstabe D Nr. 4)
- 
+
 4.1
 Leistungen in der Kranken- und Pflegeversicherung (Â§ 3 Abs. 2 Buchstabe D Nr. 4.1)
 a)
@@ -2568,7 +2568,7 @@ A. Sachliche Gliederung\\
 
 Abschnitt I: Gemeinsame Fertigkeiten und Kenntnisse
 
- 
+
 
 Lfd. Nr.
 
@@ -2587,7 +2587,7 @@ Zu vermittelnde Fertigkeiten und Kenntnisse
 Der Ausbildungsbetrieb\\
 (Â§ 3 Abs. 1 Nr. 1)
 
- 
+
 
 1.1
 
@@ -2708,7 +2708,7 @@ zur rationellen Ressourcenverwendung im beruflichen Einwirkungsbereich beitragen
 Aufgaben der Sozialversicherung\\
 (Â§ 3 Abs. 1 Nr. 2)
 
- 
+
 
 2.1
 
@@ -2819,7 +2819,7 @@ MaÃŸnahmen zur Sicherung von SchadensersatzansprÃ¼chen einleiten
 Informationsverarbeitung und Datenschutz\\
 (Â§ 3 Abs. 1 Nr. 3)
 
- 
+
 
 3.1
 
@@ -2869,7 +2869,7 @@ betriebliche Regelungen zur Datensicherheit bei der Erhebung, Verarbeitung und N
 Kommunikation und Kooperation\\
 (Â§ 3 Abs. 1 Nr. 4)
 
- 
+
 
 4.1
 
@@ -3065,7 +3065,7 @@ Beitragsentrichtung veranlassen und Ã¼berwachen sowie Beitreibung von BeitragsrÃ
 Leistungen\\
 (Â§ 3 Abs. 2 Buchstabe E Nr. 4)
 
- 
+
 
 4.1
 

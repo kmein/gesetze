@@ -291,14 +291,14 @@ Planen und Vorbereiten von ArbeitsablÃ¤ufen (Â§ 5 Nr. 5)
 a)
 Arbeitsschritte unter BerÃ¼cksichtigung betrieblicher AblÃ¤ufe und Auftragsunterlagen festlegen, Liefertermine beachten
 3
- 
- 
+
+
 b)
 Werk- und Hilfsstoffe nach EinsatzmÃ¶glichkeiten unterscheiden, Arbeitstechnik und -material festlegen
 c)
 QualitÃ¤t und Preise von Werk- und Hilfsstoffen vergleichen; Produktinformationen beurteilen
- 
- 
+
+
 5
 d)
 Aufgaben zeit- und kostenorientiert durchfÃ¼hren
@@ -307,8 +307,8 @@ Umgang mit Informations- und Kommunikationstechniken (Â§ 5 Nr. 6)
 a)
 Daten beschaffen, auswerten, bearbeiten und weiterleiten
 2
- 
- 
+
+
 b)
 Daten pflegen und sichern, Vorschriften des Datenschutzes anwenden
 3
@@ -316,16 +316,16 @@ Umgang mit Kunden (Â§ 5 Nr. 7)
 a)
 Termine mit Kunden abstimmen
 3
- 
- 
+
+
 b)
 EntwÃ¼rfe und Modelle prÃ¤sentieren
 c)
 VerkaufsflÃ¤chen dekorieren und gestalten
 d)
 KundengesprÃ¤che fÃ¼hren, insbesondere KundenwÃ¼nsche ermitteln, mit dem betrieblichen Leistungsangebot vergleichen und daraus Vorgehensweisen fÃ¼r die Kundenberatung ableiten
- 
- 
+
+
 5
 e)
 Reklamationen aufnehmen und bearbeiten
@@ -334,14 +334,14 @@ Entwickeln und Gestalten von ModellentwÃ¼rfen (Â§ 5 Nr. 9)
 a)
 Umsetzbarkeit von EntwÃ¼rfen prÃ¼fen, Mustervorlagen erstellen
 4
- 
- 
+
+
 b)
 EntwÃ¼rfe unter BerÃ¼cksichtigung der Farben- und Formenlehre sowie der Materialien erarbeiten
 c)
 EntwÃ¼rfe nach modischen, historischen, funktionalen und technologischen Gesichtspunkten gestalten und ausarbeiten
- 
- 
+
+
 12
 d)
 EntwÃ¼rfe kundenbezogen ausarbeiten
@@ -349,9 +349,9 @@ EntwÃ¼rfe kundenbezogen ausarbeiten
 Herstellen von Filz- und StrohhÃ¼ten (Â§ 5 Nr. 10)
 a)
 OberflÃ¤chen veredeln
- 
+
 7
- 
+
 b)
 RÃ¤nder von Hand ziehen
 6
@@ -359,14 +359,14 @@ Herstellen von Kopfbedeckungen aus anderen Materialien (Â§ 5 Nr. 11)
 a)
 Materialbeschaffenheit beim Legen und Schneiden, insbesondere Muster, Fadenlauf und Strichrichtung, berÃ¼cksichtigen
 3
- 
- 
+
+
 b)
 Materialien miteinander kombinieren
 c)
 Schnitte abnehmen, Grundschnitte herstellen
- 
- 
+
+
 10
 d)
 Schnittmuster abÃ¤ndern
@@ -377,13 +377,13 @@ Ausgestalten von Kopfbedeckungen (Â§ 5 Nr. 12)
 a)
 Garnituren fertigen und befestigen
 6
- 
- 
+
+
 b)
 HÃ¼te in Form bÃ¼geln, insbesondere FassonbÃ¼geln sowie mit Knicken und Vertiefungen
- 
+
 10
- 
+
 c)
 Gestaltungstechniken, insbesondere NÃ¤hen, Kleben, Schneiden und Drapieren, anwenden
 8
@@ -391,21 +391,21 @@ Herstellen von Unterformen (Â§ 5 Nr. 13)
 a)
 Unterformen, insbesondere aus Vliesstoffen, Mull, Etamin sowie SteiftÃ¼ll und Draht, herstellen und beziehen
 3
- 
- 
+
+
 b)
 Unterformen nach Verwendungszweck appretieren
 9
 Kopieren von Kopfbedeckungen (Â§ 5 Nr. 14)
 a)
 MaÃŸe anhand von Bild- und Modellvorlagen
- 
+
 4
- 
+
 b)
 Kopfbedeckungen nach Bildvorlagen, insbesondere nach gestalterischen und technischen Gesichtspunkten, anfertigen
- 
- 
+
+
 14
 c)
 Kopfbedeckungen nach Modellvorlagen anfertigen
@@ -414,22 +414,22 @@ Aufarbeiten und Ã„ndern von Kopfbedeckungen (Â§ 5 Nr. 15)
 a)
 Kopfbedeckungen reinigen, auffrischen und fÃ¤rben
 2
- 
- 
+
+
 b)
 schadhafte Stellen ausbessern
 c)
 Kopfbedeckungen, insbesondere nach modischen Gesichtspunkten, Ã¤ndern und umarbeiten
- 
- 
+
+
 6
 11
 DurchfÃ¼hren von qualitÃ¤tssichernden MaÃŸnahmen (Â§ 5 Nr. 16)
 a)
 ArbeitsablÃ¤ufe auf Einhaltung der Vorgaben kontrollieren, QualitÃ¤tsmerkmale feststellen sowie QualitÃ¤tsausfall prÃ¼fen
- 
+
 5
- 
+
 b)
 Ursachen von QualitÃ¤tsabweichungen feststellen, Korrekturen und VorbeugungsmaÃŸnahmen durchfÃ¼hren
 c)

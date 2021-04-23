@@ -6,25 +6,25 @@ Ausfertigungsdatum: 10.12.2019
 
 Inhaltsübersicht
 
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 § 1 - Anwendungsbereich und anwendbare Vorschriften
 
-(1) In diesem Gesetz wird ein Verfahren zur Beilegung von Streitigkeiten zwischen der Bundesrepublik Deutschland und einem oder mehreren anderen Mitgliedstaaten der Europäischen Union (�Mitgliedstaat“) festgelegt. Streitigkeiten nach Satz 1 sind solche, die durch die Auslegung und Anwendung von Abkommen und Übereinkommen entstehen, welche die Beseitigung der Doppelbesteuerung von Einkommen und gegebenenfalls Vermögen vorsehen.
+(1) In diesem Gesetz wird ein Verfahren zur Beilegung von Streitigkeiten zwischen der Bundesrepublik Deutschland und einem oder mehreren anderen Mitgliedstaaten der Europäischen Union (Mitgliedstaat“) festgelegt. Streitigkeiten nach Satz 1 sind solche, die durch die Auslegung und Anwendung von Abkommen und Übereinkommen entstehen, welche die Beseitigung der Doppelbesteuerung von Einkommen und gegebenenfalls Vermögen vorsehen.
 (2) Bei diesem Verfahren handelt es sich um ein Verwaltungsverfahren in Steuersachen. Die Vorlage einer Streitfrage im Rahmen eines Streitbeilegungsverfahrens nach diesem Gesetz hindert die Behörden der Bundesrepublik Deutschland nicht daran, Gerichtsverfahren oder Verwaltungs- und Strafverfahren in derselben Angelegenheit einzuleiten oder fortzusetzen.
 (3) Sind Mitteilungen aus dem Ausland für die Berechnung von inländischen Fristen maßgeblich, so gilt § 122 Absatz 2 und 2a der Abgabenordnung entsprechend mit der Maßgabe, dass als Datum der Aufgabe zur Post das Datum der Mitteilung gilt.
 
@@ -32,16 +32,16 @@ Inhaltsübersicht
 
 (1) Im Sinne dieses Gesetzes ist oder sind
 
-- 1. :: �Abkommen“: die Abkommen der Bundesrepublik Deutschland mit einem anderen Mitgliedstaat auf dem Gebiet der Steuern vom Einkommen und vom Vermögen, welche die Beseitigung von Doppelbesteuerung vorsehen;
-- 2. :: �Übereinkommen“: das Übereinkommen über die Beseitigung der Doppelbesteuerung im Falle von Gewinnberichtigungen zwischen verbundenen Unternehmen (90/436/EWG, ABl. L 225 vom 20.8.1990, S. 10) in der jeweils geltenden Fassung und andere zukünftige Übereinkommen, die als solche gesetzlich benannt werden;
-- 3. :: �Streitigkeiten“: rechtliche Meinungsunterschiede, die durch die Auslegung und Anwendung von Abkommen und Übereinkommen entstehen; ein Gegenstand dieser Streitigkeiten ist eine Streitfrage;
-- 4. :: �Doppelbesteuerung“: die Erhebung von Steuern, die unter ein Abkommen oder Übereinkommen fallen, durch die Bundesrepublik Deutschland und einen oder mehrere andere Mitgliedstaaten in Bezug auf dasselbe steuerpflichtige Einkommen oder Vermögen, wenn die Erhebung
+- 1. :: Abkommen“: die Abkommen der Bundesrepublik Deutschland mit einem anderen Mitgliedstaat auf dem Gebiet der Steuern vom Einkommen und vom Vermögen, welche die Beseitigung von Doppelbesteuerung vorsehen;
+- 2. :: Übereinkommen“: das Übereinkommen über die Beseitigung der Doppelbesteuerung im Falle von Gewinnberichtigungen zwischen verbundenen Unternehmen (90/436/EWG, ABl. L 225 vom 20.8.1990, S. 10) in der jeweils geltenden Fassung und andere zukünftige Übereinkommen, die als solche gesetzlich benannt werden;
+- 3. :: Streitigkeiten“: rechtliche Meinungsunterschiede, die durch die Auslegung und Anwendung von Abkommen und Übereinkommen entstehen; ein Gegenstand dieser Streitigkeiten ist eine Streitfrage;
+- 4. :: Doppelbesteuerung“: die Erhebung von Steuern, die unter ein Abkommen oder Übereinkommen fallen, durch die Bundesrepublik Deutschland und einen oder mehrere andere Mitgliedstaaten in Bezug auf dasselbe steuerpflichtige Einkommen oder Vermögen, wenn die Erhebung
   - a) :: zu einer zusätzlichen Steuerbelastung führt,
   - b) :: zu einer Erhöhung der Steuerverbindlichkeiten führt oder
   - c) :: zu der Streichung oder Verringerung von Verlusten führt, die zur Verrechnung mit steuerpflichtigen Gewinnen hätten genutzt werden können;
-- 5. :: �zuständige Behörde der Bundesrepublik Deutschland“: das Bundesministerium der Finanzen oder die Behörde, an die das Bundesministerium der Finanzen seine Befugnisse delegiert hat; für die Zwecke dieses Gesetzes wird das Bundeszentralamt für Steuern mit der Wahrnehmung der Aufgaben des Bundesministeriums der Finanzen beauftragt; �zuständige Behörde eines anderen Mitgliedstaats“ ist die Behörde, die als solche von dem betreffenden Mitgliedstaat benannt worden ist;
-- 6. :: �zuständiges Gericht der Bundesrepublik Deutschland“: das Finanzgericht, das nach der Finanzgerichtsordnung für Klagen gegen das Bundeszentralamt für Steuern örtlich oder aufgrund einer Bestimmung des Bundesfinanzhofs zuständig ist; �zuständiges Gericht eines anderen Mitgliedstaats“ ist das Gericht oder eine andere Stelle, die als solche von dem betreffenden Mitgliedstaat benannt wurde;
-- 7. :: �betroffene Person“: eine Person, die
+- 5. :: zuständige Behörde der Bundesrepublik Deutschland“: das Bundesministerium der Finanzen oder die Behörde, an die das Bundesministerium der Finanzen seine Befugnisse delegiert hat; für die Zwecke dieses Gesetzes wird das Bundeszentralamt für Steuern mit der Wahrnehmung der Aufgaben des Bundesministeriums der Finanzen beauftragt; zuständige Behörde eines anderen Mitgliedstaats“ ist die Behörde, die als solche von dem betreffenden Mitgliedstaat benannt worden ist;
+- 6. :: zuständiges Gericht der Bundesrepublik Deutschland“: das Finanzgericht, das nach der Finanzgerichtsordnung für Klagen gegen das Bundeszentralamt für Steuern örtlich oder aufgrund einer Bestimmung des Bundesfinanzhofs zuständig ist; zuständiges Gericht eines anderen Mitgliedstaats“ ist das Gericht oder eine andere Stelle, die als solche von dem betreffenden Mitgliedstaat benannt wurde;
+- 7. :: betroffene Person“: eine Person, die
   - a) :: nach einem Abkommen zwischen der Bundesrepublik Deutschland mit einem anderen betroffenen Mitgliedstaat ansässig ist oder für Zwecke eines Übereinkommens ein Unternehmen eines Vertragsstaats ist und
   - b) :: deren Besteuerung von der Streitfrage nach demselben Abkommen oder Übereinkommen unmittelbar betroffen ist.
 
@@ -53,7 +53,7 @@ Jegliche Kommunikation zwischen der betroffenen Person und der zuständigen Beh�
 
 § 4 - Einreichung
 
-(1) Jede betroffene Person ist berechtigt, eine Beschwerde über eine Streitfrage (�Streitbeilegungsbeschwerde“) bei jeder der zuständigen Behörden der jeweils betroffenen Mitgliedstaaten einzureichen und damit die Lösung der Streitfrage zu beantragen.
+(1) Jede betroffene Person ist berechtigt, eine Beschwerde über eine Streitfrage (Streitbeilegungsbeschwerde“) bei jeder der zuständigen Behörden der jeweils betroffenen Mitgliedstaaten einzureichen und damit die Lösung der Streitfrage zu beantragen.
 (2) Die Streitbeilegungsbeschwerde ist bei allen zuständigen Behörden der betroffenen Mitgliedstaaten gleichzeitig und mit den gleichen Angaben einzureichen.
 (3) Die Streitbeilegungsbeschwerde ist schriftlich innerhalb von drei Jahren nachdem der betroffenen Person die erste Mitteilung der Maßnahme, die im Ergebnis zu einer Streitfrage geführt hat oder führen wird, bekannt gegeben worden ist, einzureichen. Die Einreichung ist unabhängig davon, ob die betroffene Person auf die im nationalen Recht eines der betroffenen Mitgliedstaaten zur Verfügung stehenden Rechtsbehelfe zurückgreifen kann. Die Rechtskraft der Maßnahme, insbesondere eines Steuerbescheids, welche die Streitfrage ausgelöst hat, ist für den Fristlauf nach Satz 1 unerheblich.
 (4) Durch das Einreichen der Streitbeilegungsbeschwerde wird jedes andere laufende Verfahren nach den Regelungen über Verständigungsverfahren oder Streitbeilegungsverfahren gemäß einem Abkommen oder Übereinkommen der Bundesrepublik Deutschland mit einem oder mehreren Mitgliedstaaten, das im Zusammenhang mit der Streitfrage steht, von Amts wegen beendet. Dieses andere laufende Verfahren im Zusammenhang mit der Streitfrage endet mit dem Ablauf des Tages, an dem die Streitbeilegungsbeschwerde bei einer zuständigen Behörde der betroffenen Mitgliedstaaten zuerst eingegangen ist. Nach Eingang der Streitbeilegungsbeschwerde ist ein Antrag auf ein Verständigungsverfahren oder Streitbeilegungsverfahren, das im Zusammenhang mit der Streitfrage steht, unzulässig.
@@ -326,7 +326,7 @@ kann die Streitbeilegungsbeschwerde, die Antwort auf ein Ersuchen um zusätzlich
 (1) Die zuständige Behörde der Bundesrepublik Deutschland und die zuständigen Behörden der anderen betroffenen Mitgliedstaaten können die Zusammensetzung und das Verfahren des Ausschusses für Alternative Streitbeilegung bestimmen, soweit hierzu nachfolgend keine Regelung getroffen ist.
 (2) Die Mitglieder des Ausschusses müssen den Anforderungen nach § 25 Absatz 1 und 2 genügen. Im Übrigen kann sich der Ausschuss für Alternative Streitbeilegung hinsichtlich seiner Zusammensetzung und Form von dem Beratenden Ausschuss unterscheiden.
 (3) Die Regelungen in den §§ 17, 19, 23 und 27 gelten auch für den Ausschuss für Alternative Streitbeilegung.
-(4) Der Ausschuss für Alternative Streitbeilegung entscheidet auf der Grundlage der Regelungen, welche die zuständigen Behörden nach Absatz 1 vereinbart haben. Er kann für seine Stellungnahme Methoden der au�endgültigen Angebots“ oder des �letzten besten Angebots“ bedienen.
+(4) Der Ausschuss für Alternative Streitbeilegung entscheidet auf der Grundlage der Regelungen, welche die zuständigen Behörden nach Absatz 1 vereinbart haben. Er kann für seine Stellungnahme Methoden der auendgültigen Angebots“ oder des letzten besten Angebots“ bedienen.
 (5) Der Ausschuss für Alternative Streitbeilegung gibt nach Durchführung eines Verfahrens eine Stellungnahme ab. Für die abschließende Entscheidung der Behörden über die Streitfrage aufgrund dieser verbindlichen Stellungnahme gilt § 18.
 
 § 31 - Kosten

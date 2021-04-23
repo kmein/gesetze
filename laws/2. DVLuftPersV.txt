@@ -12,8 +12,8 @@ Inhaltsverzeichnis
 
 Erster Abschnitt
 Allgemeine Vorschriften
-�
-§�
+
+§
 Anwendungsbereich
 1
 Zweiter Abschnitt
@@ -41,7 +41,7 @@ Freiballonführer
 Luftschiffführer
 11
 Flugtechniker auf Hubschraubern bei den Polizeien des Bundes und der Länder12
-�
+
 Kunstflugberechtigung
 13
 Schleppberechtigung
@@ -5804,7 +5804,7 @@ Grundlagen zu Beladungs- und Schwerpunktsrechnung
   - -- :: statische Schwere (static heaviness)
   - -- :: zulässige Massen
 - - :: Schwerpunkt und Schwerpunktsgrenzen
-  - -- :: Definition �Schwerpunkt“
+  - -- :: Definition Schwerpunkt“
   - -- :: Moment/ Momentengleichung /statisches Gleichgewicht
   - -- :: Bezugslinien/-ebenen
   - - :: Stationen, Hebelarme
@@ -6108,7 +6108,7 @@ Steigflug
 
 - - :: Einhaltung der sicheren Steigflugbahn und Flugparameter
 - - :: Übergang zum Horizontalflug
-- - :: Steigflug bis auf �Prallhöhe“ und Flug in �Prallhöhe“
+- - :: Steigflug bis auf Prallhöhe“ und Flug in Prallhöhe“
 
 Flugübungen
 
@@ -6125,10 +6125,10 @@ Flugübungen
 
 Bestimmung der statischen Schwere im Flug und Trimmung
 
-- - :: Bestimmung der Überhitzung (�Superheat“)
+- - :: Bestimmung der Überhitzung (Superheat“)
 - - :: Beurteilung der Massen von Ballast, Kraftstoff, Feuchtigkeit auf der Hülle
 - - :: Rechnerische Ermittlung der statischen Schwere (Faustformeln)
-- - :: �Erfliegen“ der statischen Schwere
+- - :: Erfliegen“ der statischen Schwere
 
 Sinkflug
 
@@ -6154,7 +6154,7 @@ Notverfahren
 - - :: Triebwerksbrand/-ausfall
 - - :: Rauch/Feuer im Führerraum/Passagierkabine/Frachtraum
 - - :: Systemausfälle (Hüllendrucksystem, Hydrauliksystem, Elektrik, Instrumente, etc)
-- - :: �Free ballooning“ (Ausfall der gesamten Antriebsanlage)
+- - :: Free ballooning“ (Ausfall der gesamten Antriebsanlage)
 - - :: Notablassen des Traggases nach Notlandung und Evakuierung der Passagiere/Besatzung (Bergerolle)
 
 Anmerkung: Alle Elemente der Flugausbildung sind auch Bestandteil der Nachtflugausbildung.\\
@@ -6182,7 +6182,7 @@ Luftrecht, Luftverkehrs- und Flugsicherungsvorschriften
 
 Navigation
 
-�
+
 
 2.1
 
@@ -6218,7 +6218,7 @@ Aerodynamik (Gaslehre, Aerostatik und Aerodynamik)
 
 allgemeine Luftfahrzeugkenntnisse, Technik
 
-�
+
 
 5.1
 
@@ -7446,79 +7446,79 @@ I.
 
 Prüfungsflug
 
-�
 
-�
+
+
 
 Segelflugzeugmuster: ........................
 
-�
 
-�
+
+
 
 Kennzeichen: ......................................
 
-�
 
-�
+
+
 
 Flugplatz: ...........................................
 
-�
 
-�
+
+
 
 Bewertung
 
 Übungen
 
-�
 
-�
+
+
 
 B/NB
 
 Einhalten eines bestimmten Kurses im Geradeausflug bei gleich bleibender Geschwindigkeit
 
-�
+
 
 Richtungsänderungen auf vorbestimmte Kurse
 
-�
+
 
 Vollkreise links
 
-�
+
 
 Vollkreise rechts
 
-�
+
 
 Rückführen des Segelflugzeugs aus ungewöhnlichen Flugzuständen in die normale Lage
 
-�
+
 
 II.
 
 Ergebnis der Prüfung
 
-�
 
-�
 
-�
 
-�
 
-�
 
-�
 
-�
+
+
+
+
+
+
+
 
 Bestanden/Nicht bestanden<<FnR.FnA1-BJNR506000006BJNE005800000_001>>[[#FnA1-BJNR506000006BJNE005800000_001][1*]]}
 
-�
+
 
 III.
 
@@ -8339,9 +8339,9 @@ a)
 
 Steuerkurs:
 
-�
 
-�
+
+
 
 - normaler Flug
 
@@ -8349,15 +8349,15 @@ Steuerkurs:
 
 bei Geradeausflug im Horizontal-, Sink- und Steigflug und bei Beendigung von Kurven mit normaler Triebwerkleistung
 
-�
+
 
 b)
 
 Flughöhe
 
-�
 
-�
+
+
 
 - normaler Flug mit normaler Triebwerkleistung
 
@@ -8367,9 +8367,9 @@ c)
 
 Geschwindigkeiten:
 
-�
 
-�
+
+
 
 - Start und Anflug
 
@@ -8381,13 +8381,13 @@ Geschwindigkeiten:
 
 mit normaler Triebwerksleistung der jeweils empfohlenen Geschwindigkeit.
 
-�
+
 
 - 12. :: Das Bestehen der praktischen Prüfung berechtigt den Bewerber zu einer Tätigkeit als Fluglehrer unter der Aufsicht eines von der zuständigen Stelle hierfür anerkannten erfahrenen Fluglehrers mit Ausnahme von
   - -- :: der Zustimmung als zweiter Fluglehrer zum ersten Alleinflug
   - -- :: der Durchführung von Übungsflügen mit Fluglehrer zur Verlängerung einer Berechtigung
 - 13. :: Die Einschränkung der Aufsichtspflicht kann auf Antrag des anerkannten Fluglehrers aufgehoben werden, wenn der Bewerber mindestens einen Flugschüler vollständig bis zur Prüfungsreife ausgebildet hat oder 50 Ausbildungsflugstunden in allen Ausbildungsabschnitten durchgeführt hat.
-- 14. :: Die Berechtigung wird von der zuständigen Stelle in Feld XIII der Lizenz mit den Worten �Lehrberechtigung gemäß § 88a LuftPersV“ beschränkt.
+- 14. :: Die Berechtigung wird von der zuständigen Stelle in Feld XIII der Lizenz mit den Worten Lehrberechtigung gemäß § 88a LuftPersV“ beschränkt.
 
 \\
 
@@ -9616,7 +9616,7 @@ Die Methodische Flugausbildung soll den Bewerber
 
 befähigen.\\
 Die Flugausbildung muss mindestens 15 Stunden mit einem dafür von der zuständigen Luftfahrtbehörde anerkanntem Lehrberechtigtem umfassen.\\
-Inhaltlich müssen alle Flugübungen gemä�Lehrplan für die praktische Ausbildung zum Erwerb einer Lizenz für Luftschiffführer“ (siehe Anlage 8B (zu §11)) abgedeckt werden, wobei hier das Erlernen der Lehrmethodik den Schwerpunkt der praktischen Ausbildung darstellt.
+Inhaltlich müssen alle Flugübungen gemäLehrplan für die praktische Ausbildung zum Erwerb einer Lizenz für Luftschiffführer“ (siehe Anlage 8B (zu §11)) abgedeckt werden, wobei hier das Erlernen der Lehrmethodik den Schwerpunkt der praktischen Ausbildung darstellt.
 
 
 Anlage 17E - Theoretische Prüfung zum Erwerb der Berechtigung zur praktischen Ausbildung von Luftschiffführern  (zu § 20)
@@ -9631,7 +9631,7 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 240
 | gesamt                          | 3:00                            |
 
 - 2. :: Ein Prüfungsfach gilt als bestanden, wenn der Bewerber in diesem Fach mindestens 75% der möglichen Punktzahl erreicht hat. Punkte dürfen auch für richtige Teilantworten vergeben werden.
-- 3. :: Der Nachweis der Lehrbefähigung ist durch die Ausarbeitung und Durchführung einer Lehrprobe von mindestens einer Unterrichteinheit zu erbringen. Die Lehrprobe ist vor einer von der zuständigen Stelle bestimmten Prüfungskommission abzulegen. Die Kommission besteht aus einem Vorsitzenden und mindestens einem Beisitzer. Das Thema des Fluglehrerunterrichts wird von der zuständigen Stelle festgelegt. Die Lehrprobe wird mit �bestanden“ oder �nicht bestanden“ bewertet.
+- 3. :: Der Nachweis der Lehrbefähigung ist durch die Ausarbeitung und Durchführung einer Lehrprobe von mindestens einer Unterrichteinheit zu erbringen. Die Lehrprobe ist vor einer von der zuständigen Stelle bestimmten Prüfungskommission abzulegen. Die Kommission besteht aus einem Vorsitzenden und mindestens einem Beisitzer. Das Thema des Fluglehrerunterrichts wird von der zuständigen Stelle festgelegt. Die Lehrprobe wird mit bestanden“ oder nicht bestanden“ bewertet.
 
 
 Anlage 17F - Praktische Prüfung zum Erwerb der Berechtigung zur praktischen Ausbildung von Luftschiffführern  (zu § 20)
@@ -9709,8 +9709,8 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 241 - 243
 #+END_EXAMPLE
 
 Anmerkung:\\
-Die Rolle des �Flugschüler“ übernimmt der Prüfer oder ein Fluglehrer, der nicht an der Ausbildung beteiligt war.\\
-Die ausgewählten Übungen sind zunächst in einer Flugvorbesprechung mit dem �Flugschüler“ zu besprechen.\\
+Die Rolle des Flugschüler“ übernimmt der Prüfer oder ein Fluglehrer, der nicht an der Ausbildung beteiligt war.\\
+Die ausgewählten Übungen sind zunächst in einer Flugvorbesprechung mit dem Flugschüler“ zu besprechen.\\
 Der Bewerber hat während des Fluges die durchzuführende Übung anzukündigen und sie dann unter erklärenden Worten vorzuführen.\\
-Danach ist die Übung vom �Flugschüler“ unter Simulation von typischem Schülerfehlverhalten nachzuvollziehen. Der Bewerber hat die Fehler in geeigneter Weise (verbal oder ggf. durch Eingreifen) zu korrigieren.\\
-In einer Besprechung sind nach dem Flug durch den Bewerber die einzelnen Übungen mit dem �Flugschüler“ auszuwerten.
+Danach ist die Übung vom Flugschüler“ unter Simulation von typischem Schülerfehlverhalten nachzuvollziehen. Der Bewerber hat die Fehler in geeigneter Weise (verbal oder ggf. durch Eingreifen) zu korrigieren.\\
+In einer Besprechung sind nach dem Flug durch den Bewerber die einzelnen Übungen mit dem Flugschüler“ auszuwerten.

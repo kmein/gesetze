@@ -33,7 +33,7 @@ Elektronische Kommunikation
 
 Stützungsprogramm
 
-�
+
 
 - 2. :: Abschnitt\\
   Genehmigungssystem für Rebpflanzungen, Anbauregelungen
@@ -118,7 +118,7 @@ Destillation
 
 Ermächtigungen
 
-�
+
 
 - 3. :: Abschnitt\\
   Verarbeitung
@@ -139,7 +139,7 @@ Erhöhung des Alkoholgehaltes, Süßung
 
 Inverkehrbringen und Verarbeiten
 
-�
+
 
 - 4. :: Abschnitt\\
   Qualitätswein, Prädikatswein, Qualitätslikörwein b.A., Qualitätsperlwein b.A., Sekt b.A. und Landwein
@@ -176,7 +176,7 @@ Landwein
 
 Jährliche Kontrollen der Produktspezifikationen
 
-�
+
 
 - 5. :: Abschnitt\\
   Geografische Bezeichnungen und Kennzeichnung
@@ -233,7 +233,7 @@ Bezeichnungsschutz, Schutz vor Verwechslung
 
 Regelungen zum Schutz vor ionisierender Strahlung
 
-�
+
 
 - 6. :: Abschnitt\\
   Überwachung
@@ -270,7 +270,7 @@ Meldungen, Übermittlung von Informationen
 
 Verarbeitung von Einzelangaben; Übermittlung von Daten aus der Weinbaukartei
 
-�
+
 
 - 7. :: Abschnitt\\
   Einfuhr
@@ -283,7 +283,7 @@ Einfuhr
 
 Überwachung bei der Einfuhr
 
-�
+
 
 - 8. :: Abschnitt\\
   Absatzförderung
@@ -332,7 +332,7 @@ Abgabe für die gebietliche Absatzförderung
 
 Unterrichtung und Abstimmung
 
-�
+
 
 - 9. :: Abschnitt\\
   Straf- und Bußgeldvorschriften
@@ -357,7 +357,7 @@ Ermächtigungen
 
 Einziehung
 
-�
+
 
 - 10. :: Abschnitt\\
   Verbraucherinformation und Destillation in Krisenfällen
@@ -370,7 +370,7 @@ Verbraucherinformation
 
 Destillation in Krisenfällen
 
-�
+
 
 - 11. :: Abschnitt\\
   Schlussbestimmungen
@@ -417,8 +417,8 @@ Ermächtigung zur Aufhebung von Rechtsvorschriften
 
 § 1a - Geltungsbestimmung
 
-(1) Vorschriften dieses Gesetzes oder auf Grund von Ermächtigungen dieses Gesetzes erlassener Rechtsverordnungen für Weine, die mit der Angabe �Qualitätswein“ bezeichnet werden, gelten vorbehaltlich abweichender Vorschriften auch für Weine mit geschützter Ursprungsbezeichnung ohne diese Bezeichnung.
-(2) Vorschriften dieses Gesetzes oder auf Grund von Ermächtigungen dieses Gesetzes erlassener Rechtsverordnungen für Weine, die mit der Angabe �Landwein“ bezeichnet werden, gelten vorbehaltlich abweichender Vorschriften auch für Weine mit geschützter geografischer Angabe ohne diese Bezeichnung.
+(1) Vorschriften dieses Gesetzes oder auf Grund von Ermächtigungen dieses Gesetzes erlassener Rechtsverordnungen für Weine, die mit der Angabe Qualitätswein“ bezeichnet werden, gelten vorbehaltlich abweichender Vorschriften auch für Weine mit geschützter Ursprungsbezeichnung ohne diese Bezeichnung.
+(2) Vorschriften dieses Gesetzes oder auf Grund von Ermächtigungen dieses Gesetzes erlassener Rechtsverordnungen für Weine, die mit der Angabe Landwein“ bezeichnet werden, gelten vorbehaltlich abweichender Vorschriften auch für Weine mit geschützter geografischer Angabe ohne diese Bezeichnung.
 
 § 2 - Begriffsbestimmungen
 
@@ -451,7 +451,7 @@ Ermächtigung zur Aufhebung von Rechtsvorschriften
 - 24. :: Qualitätswein: Wein mit geschützter Ursprungsbezeichnung, der einer analytischen und organoleptischen Qualitätsprüfung (amtliche Qualitätsprüfung) unterzogen worden ist und durch Rechtsvorschrift festgelegte Mindestanforderungen hinsichtlich der Erzeugungsmethode und des Reifegrades der Trauben erfüllt,
 - 25. :: Landwein: Wein mit geschützter geografischer Angabe, der durch Rechtsvorschrift festgelegte Mindestanforderungen hinsichtlich der Erzeugungsmethode und des Reifegrades der Trauben erfüllt,
 - 26. :: Grundwein
-  - a) :: Wein, der zur Herstellung von Wein mit der Angabe der Herkunft �Europäischer Gemeinschaftswein“ oder �Verschnitt von Weinen aus mehreren Ländern der Europäischen Gemeinschaft“ bestimmt ist;
+  - a) :: Wein, der zur Herstellung von Wein mit der Angabe der Herkunft Europäischer Gemeinschaftswein“ oder Verschnitt von Weinen aus mehreren Ländern der Europäischen Gemeinschaft“ bestimmt ist;
   - b) :: Wein, der zur Herstellung von Schaumwein oder Qualitätsschaumwein ohne Rebsortenangabe bestimmt ist;
   - c) :: Wein, der zur Herstellung von aromatisiertem Wein, aromatisierten weinhaltigen Getränken, aromatisierten weinhaltigen Cocktails, weinhaltigen Getränken, alkoholfreiem oder alkoholreduziertem Wein oder daraus hergestellten schäumenden Getränken, Weinessig oder anderen Lebensmitteln, die keine Erzeugnisse sind, bestimmt ist,
 - 27. :: Prädikatswein: Wein mit geschützter Ursprungsbezeichnung, der einer amtlichen Qualitätsprüfung unterzogen worden ist und der durch Rechtsvorschrift festgelegte, die Anforderungen für Qualitätswein übersteigende Mindestanforderungen hinsichtlich der Erzeugungsmethode und des Reifegrades der Trauben erfüllt,
@@ -1035,7 +1035,7 @@ festzulegen.
 
 In der Rechtsverordnung nach Satz 1 können die Landesregierungen darüber hinaus strengere Regelungen hinsichtlich der in der amtlichen Qualitätsprüfung erreichten Qualitätszahl, besondere Voraussetzungen für die sensorische Prüfung oder besondere Aufzeichnungs- oder Nachweispflichten festlegen. Die Regelungen nach Satz 1, auch in Verbindung mit Satz 2, können für einzelne in § 3 Absatz 1 genannte Anbaugebiete oder Teile davon unter Berücksichtigung der für das jeweilige kleinere geografische Gebiet typischen (regionaltypischen) Besonderheiten unterschiedlich festgelegt werden.
 
-(7) Soweit durch Rechtsverordnung des Bundes zugelassen ist, dass die Angaben �Steillage“, �Steillagenwein“, �Terrassenlage“ oder �Terrassenlagenwein“ verwendet werden dürfen, können die Landesregierungen, soweit ein wirtschaftliches Bedürfnis besteht, Interessen des Verbrauchers nicht entgegenstehen und regionaltypische Besonderheiten dies rechtfertigen, durch Rechtsverordnung strengere Regelungen treffen, als sie für das in § 3 Absatz 1 genannte Anbaugebiet, innerhalb dessen sich die betroffene geografische Einheit befindet, allgemein festgelegt sind, insbesondere hinsichtlich
+(7) Soweit durch Rechtsverordnung des Bundes zugelassen ist, dass die Angaben Steillage“, Steillagenwein“, Terrassenlage“ oder Terrassenlagenwein“ verwendet werden dürfen, können die Landesregierungen, soweit ein wirtschaftliches Bedürfnis besteht, Interessen des Verbrauchers nicht entgegenstehen und regionaltypische Besonderheiten dies rechtfertigen, durch Rechtsverordnung strengere Regelungen treffen, als sie für das in § 3 Absatz 1 genannte Anbaugebiet, innerhalb dessen sich die betroffene geografische Einheit befindet, allgemein festgelegt sind, insbesondere hinsichtlich
 
 - 1. :: einer Beschränkung der zugelassenen Rebsorten,
 - 2. :: des zulässigen Hektarertrages,

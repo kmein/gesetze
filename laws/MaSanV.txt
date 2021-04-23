@@ -10,21 +10,21 @@ Auf Grund des Â§ 21a Absatz 1 Satz 1 und 3 des Sanierungs- und Abwicklungsgesetz
 
 InhaltsÃ¼bersicht
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Â§ 1 - Anwendungsbereich
 
@@ -293,7 +293,7 @@ Anlage 1 - Liste der Indikatoren des Sanierungsplans
   - a) :: VerÃ¤nderungen des Bruttoinlandprodukts
   - b) :: Credit Default Swaps auf Ã¶ffentliche Schuldtitel
 
- 
+
 
 Anlage 2 - Liste zusÃ¤tzlicher Indikatoren des Sanierungsplans
 

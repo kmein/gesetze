@@ -11,7 +11,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 Inhaltsübersicht
 
 Abschnitt 1
-�
+
 Allgemeine Vorschriften
 § 1
 Zweck und Anwendungsbereich des Gesetzes
@@ -20,7 +20,7 @@ Begriffsbestimmungen
 § 3
 Ermächtigung zur Änderung der Baumartenliste
 Abschnitt 2
-�
+
 Zulassung
 § 4
 Zulassung von Ausgangsmaterial
@@ -29,7 +29,7 @@ Herkunftsgebiete
 § 6
 Register und Liste über zugelassenes Ausgangsmaterial
 Abschnitt 3
-�
+
 Erzeugung
 § 7
 Erzeugung von forstlichem Vermehrungsgut
@@ -40,7 +40,7 @@ Trennung, Mischung und Kennzeichnung von forstlichem Vermehrungsgut
 § 10
 Trennung und Kennzeichnung von sonstigem Material
 Abschnitt 4
-�
+
 Inverkehrbringen
 § 11
 Inverkehrbringen von forstlichem Vermehrungsgut
@@ -51,14 +51,14 @@ Verkehrsbeschränkungen
 § 14
 Lieferpapiere
 Abschnitt 5
-�
+
 Ein- und Ausfuhr
 § 15
 Einfuhr von forstlichem Vermehrungsgut
 § 16
 Ausfuhr von forstlichem Vermehrungsgut
 Abschnitt 6
-�
+
 Herkunfts- und Identitätssicherung
 § 17
 Anforderungen an Forstsamen- oder Forstpflanzenbetriebe
@@ -71,7 +71,7 @@ Zusammenarbeit zwischen den Mitgliedstaaten der Europäischen Union
 § 21
 Ausnahmetatbestände
 Abschnitt 7
-�
+
 Übergangs- und Schlussvorschriften
 § 22
 Strafvorschriften

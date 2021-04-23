@@ -178,14 +178,14 @@ Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teile
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Leistungen wie folgt bewertet worden sind:
 
-- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit mindestens �ausreichend“,
-- 2. :: im Prüfungsbereich nach Absatz 1 Nummer 2 mit mindestens �ausreichend“,
-- 3. :: in zwei der Prüfungsbereiche nach Absatz 1 Nummer 3 bis 5 mit mindestens �ausreichend“ und
-- 4. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit �ungenügend“.
+- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit mindestens ausreichend“,
+- 2. :: im Prüfungsbereich nach Absatz 1 Nummer 2 mit mindestens ausreichend“,
+- 3. :: in zwei der Prüfungsbereiche nach Absatz 1 Nummer 3 bis 5 mit mindestens ausreichend“ und
+- 4. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit ungenügend“.
 
 (3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche Instandhaltungstechnik, Fluggerättechnik oder Wirtschafts- und Sozialkunde durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-- 1. :: der Prüfungsbereich schlechter als �ausreichend“ bewertet worden ist und
+- 1. :: der Prüfungsbereich schlechter als ausreichend“ bewertet worden ist und
 - 2. :: die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
@@ -260,14 +260,14 @@ Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisheri
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Leistungen wie folgt bewertet worden sind:
 
-- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit mindestens �ausreichend“,
-- 2. :: im Prüfungsbereich nach Absatz 1 Nummer 2 mit mindestens �ausreichend“,
-- 3. :: in zwei der Prüfungsbereiche nach Absatz 1 Nummer 3 bis 5 mit mindestens �ausreichend“ und
-- 4. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit �ungenügend“.
+- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit mindestens ausreichend“,
+- 2. :: im Prüfungsbereich nach Absatz 1 Nummer 2 mit mindestens ausreichend“,
+- 3. :: in zwei der Prüfungsbereiche nach Absatz 1 Nummer 3 bis 5 mit mindestens ausreichend“ und
+- 4. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit ungenügend“.
 
 (3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche Fertigungs- und Instandhaltungstechnik, Fluggerättechnik oder Wirtschafts- und Sozialkunde durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-- 1. :: der Prüfungsbereich schlechter als �ausreichend“ bewertet worden ist und
+- 1. :: der Prüfungsbereich schlechter als ausreichend“ bewertet worden ist und
 - 2. :: die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
@@ -344,14 +344,14 @@ Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisheri
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Leistungen wie folgt bewertet worden sind:
 
-- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit mindestens �ausreichend“,
-- 2. :: im Prüfungsbereich nach Absatz 1 Nummer 2 mit mindestens �ausreichend“,
-- 3. :: in zwei der Prüfungsbereiche nach Absatz 1 Nummer 3 bis 5 mit mindestens �ausreichend“ und
-- 4. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit �ungenügend“.
+- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit mindestens ausreichend“,
+- 2. :: im Prüfungsbereich nach Absatz 1 Nummer 2 mit mindestens ausreichend“,
+- 3. :: in zwei der Prüfungsbereiche nach Absatz 1 Nummer 3 bis 5 mit mindestens ausreichend“ und
+- 4. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit ungenügend“.
 
 (3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche Triebwerks- und Instandhaltungstechnik, Fluggerättechnik oder Wirtschafts- und Sozialkunde durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-- 1. :: der Prüfungsbereich schlechter als �ausreichend“ bewertet worden ist und
+- 1. :: der Prüfungsbereich schlechter als ausreichend“ bewertet worden ist und
 - 2. :: die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.

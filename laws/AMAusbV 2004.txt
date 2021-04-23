@@ -285,8 +285,8 @@ Grundfertigkeiten der Werkstoffbearbeitung (§ 3 Abs. 1 Nr. 6)
 a)
 manuelle Werkstoffbearbeitung
 12
-�
-�
+
+
 aa)
 Einzelteilzeichnungen in Ansichten und Schnitten unter Beachtung der Linienarten, Maßstäbe, Maßeintragungen mit Toleranzangaben und der Symbole für Oberflächenbeschaffenheit lesen sowie Skizzen anfertigen
 bb)
@@ -326,8 +326,8 @@ Werkstücke, die durch den Schneid- oder Biegevorgang verformt sind, richten
 b)
 maschinelle Werkstoffbearbeitung
 4
-�
-�
+
+
 aa)
 Werkzeuge und Kühlschmiermittel unter Berücksichtigung des zu bearbeitenden Werkstoffes sowie Maschinen und Hilfsmittel auswählen
 bb)
@@ -351,8 +351,8 @@ Profile und Platten aus Stahl durch Brennschneiden trennen
 d)
 Herstellen von mechanischen Verbindungen
 10
-�
-�
+
+
 aa)
 Verbindungen mittels Schrauben, Muttern und Scheiben herstellen sowie mittels Sicherungselementen, insbesondere mit Federringen und Zahnscheiben, sichern
 bb)
@@ -370,8 +370,8 @@ Instandhalten von Werkzeugen (§ 3 Abs. 1 Nr. 7)
 a)
 Werkzeuge für die Gewinnung, Aufbereitung und Weiterverarbeitung zu Endprodukten nennen
 4
-�
-�
+
+
 b)
 Werkzeuge, Maschinen und Einrichtungen reinigen und pflegen
 c)
@@ -383,8 +383,8 @@ Erschließungs-, Gewinnungs- und Fördertechniken von Rohstoffen (§ 3 Abs. 1 Nr
 a)
 betriebliche Rohstoffvorkommen erläutern
 8
-�
-�
+
+
 b)
 Gewinnungstechniken von Rohstoffen anhand von Beispielen erläutern
 c)
@@ -398,8 +398,8 @@ Verarbeiten von Rohstoffen zu Endprodukten (§ 3 Abs. 1 Nr. 9)
 a)
 Verfahrenstechniken der Trocken- und Nassaufbereitung gegenüberstellen
 14
-�
-�
+
+
 b)
 in Aufbereitungs- oder Produktionsanlagen beim Zerkleinern, Waschen, Klassieren, Trennen sowie bei thermischen Bearbeitungsverfahren mitarbeiten
 c)
@@ -410,9 +410,9 @@ Verwendung der Endprodukte erläutern
 Grundlagen der Hydraulik und Pneumatik (§ 3 Abs. 1 Nr. 10)
 a)
 Pneumatik und Hydraulik
-�
+
 8
-�
+
 aa)
 Schalt- und Funktionspläne pneumatischer und hydraulischer Systeme lesen und skizzieren
 bb)
@@ -435,9 +435,9 @@ Funktionsfähigkeit von elektropneumatischen und elektrohydraulischen Systemen p
 Grundlagen der Elektrotechnik, Mess-, Steuerungs- und Regelungstechnik (§ 3 Abs. 1 Nr. 11)
 a)
 Elektrotechnik
-�
+
 10
-�
+
 aa)
 einfache elektrische Schaltungsunterlagen lesen und skizzieren
 bb)
@@ -470,9 +470,9 @@ Einrichtungen zur Regelung von Prozessabläufen unter Anleitung bedienen
 Gewinnen, Fördern und Transportieren von Rohstoffen (§ 3 Abs. 1 Nr. 12)
 a)
 Gewinnung Gewinnungsmaschinen und -einrichtungen nach Anweisung bedienen
-�
+
 4
-�
+
 b)
 Förderung und Transport
 aa)
@@ -485,9 +485,9 @@ Zusammenwirken von Gewinnung und Förderung innerhalb eines Produktionsablaufes 
 Zerkleinern und Klassieren von Rohstoffen (§ 3 Abs. 1 Nr. 13)
 a)
 Betriebsbereitschaft von Zerkleinerungs- und Klassiereinrichtungen überprüfen
-�
+
 10
-�
+
 b)
 Sicherheitseinrichtungen kontrollieren und deren Funktion sicherstellen
 c)
@@ -498,9 +498,9 @@ Zerkleinerungs- und Klassiervorgänge erläutern, überwachen und bewerten
 Sortieren, Mischen und Dosieren von Rohstoffen und Teilprodukten (§ 3 Abs. 1 Nr. 14)
 a)
 Betriebsbereitschaft von Sortier-, Entwässerungs-, Misch- und Dosiereinrichtungen überprüfen
-�
+
 12
-�
+
 b)
 Maschinen und Anlagen unter Beachtung der Vorschriften in und außer Betrieb nehmen
 c)
@@ -513,9 +513,9 @@ Sortier-, Entwässerungs-, Misch- und Dosiervorgänge bewerten
 Instandhalten von Maschinen und Anlagen (§ 3 Abs. 1 Nr. 15)
 a)
 Produktionseinrichtungen nach Inspektions-, Wartungs- und Betriebsanleitung unter Berücksichtigung der Sicherheitsvorschriften inspizieren und warten
-�
+
 4
-�
+
 b)
 Funktionsfähigkeit von Maschinenelementen beurteilen und schadhafte Teile auswechseln
 c)
@@ -526,9 +526,9 @@ Instandsetzungsmaßnahmen durchführen
 Lagern und Entsorgen (§ 3 Abs. 1 Nr. 16)
 a)
 Lagerung Einrichtungen zur Lagerung von Rohstoffen, Teil- und Fertigprodukten bedienen und überwachen
-�
+
 4
-�
+
 b)
 Entsorgung
 aa)
@@ -541,8 +541,8 @@ A. Fachrichtung Naturstein
 Arbeitsplanung und systematische Störungsbeseitigung (§ 3 Abs. 2 Nr. 1 Buchstabe a)
 a)
 Arbeitsabläufe in Gewinnungs- und Aufbereitungsanlagen nach Sicherheitstechnischen, organisatorischen, wirtschaftlichen und Umweltgesichtspunkten planen, abstimmen und festlegen sowie Arbeitsschritte absichern, Probleme erfassen und vorbeugende Maßnahmen treffen
-�
-�
+
+
 2
 b)
 Arbeitsergebnisse kontrollieren und bewerten
@@ -554,8 +554,8 @@ Ursachen von technischen Störungen in Gewinnungs- und Aufbereitungsanlagen syst
 Instandsetzen von Maschinen und Anlagen (§ 3 Abs. 2 Nr. 1 Buchstabe b)
 a)
 Maschinen- und Anlagenteile nach Vorgabe demontieren, instand setzen und betriebsfertig montieren
-�
-�
+
+
 8
 b)
 instand gesetzte Maschinen und Anlagenteile auf Funktion prüfen
@@ -565,8 +565,8 @@ Sicherheitseinrichtungen beurteilen, festgestellte Mängel melden und durch Inst
 Probenehmen und Durchführen von Maßnahmen zur Qualitätssicherung (§ 3 Abs. 2 Nr. 1 Buchstabe c)
 a)
 Probenahme
-�
-�
+
+
 4
 aa)
 Probenahmeverfahren unter Berücksichtigung des zu beprobenden Gutes hinsichtlich Konsistenz und Körnung sowie örtlicher Gegebenheiten auswählen
@@ -578,8 +578,8 @@ dd)
 automatische Probenahmeeinrichtungen warten und instand halten
 b)
 Aufbereitungsanalytik
-�
-�
+
+
 12
 aa)
 Proben unter Berücksichtigung des Analyseverfahrens vorbereiten
@@ -602,8 +602,8 @@ Dokumentieren Prüfergebnisse dokumentieren, mit Vorgabewerten vergleichen und w
 Überwachen, Steuern und Regeln von automatisierten und teilautomatisierten Aufbereitungsabläufen (§ 3 Abs. 2 Nr. 1 Buchstabe d)
 a)
 Steuerungs- und Regelungseinrichtungen an Trocken- und Nassaufbereitungsanlagen und Zusammenwirken der einzelnen Teilanlagen für den Gesamtprozess erläutern
-�
-�
+
+
 9
 b)
 Sollwerte anhand von Vorgaben einstellen, Fehlfunktionen erkennen, beurteilen und melden
@@ -611,8 +611,8 @@ c)
 Anlage unter Einhaltung der Sicherheitsvorschriften an- und abfahren
 d)
 Maßnahmen zur Aufrechterhaltung des kontinuierlichen Aufbereitungsablaufs durchführen und veranlassen
-�
-�
+
+
 9
 e)
 Messdaten und Störungen protokollieren
@@ -622,8 +622,8 @@ Prozessablauf der gesamten Anlage überwachen
 Verladen, Wiegen und Versandvorbereiten von Natursteinen (§ 3 Abs. 2 Nr. 1 Buchstabe e)
 a)
 Natursteine unter Berücksichtigung der Wägeeinrichtungen nach Verladeprogramm verladen
-�
-�
+
+
 8
 b)
 Maßnahmen zur Verminderung von Staubabwehungen durchführen oder veranlassen
@@ -654,8 +654,8 @@ zeitliche Richtwerte in Wochen im Ausbildungsjahr
 Arbeitsplanung und systematische Störungsbeseitigung (§ 3 Abs. 2 Nr. 2 Buchstabe a)
 a)
 Arbeitsabläufe in Aufbereitungsanlagen nach sicherheitstechnischen, organisatorischen, wirtschaftlichen und Umweltgesichtspunkten planen, abstimmen und festlegen sowie Arbeitsschritte absichern, Probleme erfassen und vorbeugende Maßnahmen treffen
-�
-�
+
+
 2
 b)
 Arbeitsergebnisse kontrollieren und bewerten
@@ -667,8 +667,8 @@ Ursachen von technischen Störungen in Aufbereitungsanlagen systematisch ermitte
 Instandsetzen von Maschinen und Anlagen (§ 3 Abs. 2 Nr. 2 Buchstabe b)
 a)
 Maschinen- und Anlagenteile nach Vorgabe demontieren, instand setzen und betriebsfertig montieren
-�
-�
+
+
 8
 b)
 instand gesetzte Maschinen und Anlagenteile auf Funktion prüfen
@@ -678,8 +678,8 @@ Sicherheitseinrichtungen beurteilen, festgestellte Mängel melden und durch Inst
 Probenehmen und Durchführen von Maßnahmen zur Qualitätssicherung (§ 3 Abs. 2 Nr. 2 Buchstabe c)
 a)
 Probenahme
-�
-�
+
+
 4
 aa)
 geeignete Probenahmeverfahren unter Berücksichtigung des zu beprobenden Gutes hinsichtlich Konsistenz und Körnung sowie örtlicher Gegebenheiten auswählen
@@ -691,8 +691,8 @@ dd)
 automatische Probenahmeeinrichtungen warten und instand halten
 b)
 Aufbereitungsanalytik
-�
-�
+
+
 12
 aa)
 Proben unter Berücksichtigung des Analyseverfahrens vorbereiten
@@ -710,8 +710,8 @@ Dokumentieren Analyseergebnisse dokumentieren, auf Anomalien prüfen und weiterl
 Überwachen, Steuern und Regeln verfahrens- und fertigungstechnischer Abläufe der Nass- oder Trockenaufbereitung keramischer Rohstoffe (§ 3 Abs. 2 Nr. 2 Buchstabe d)
 a)
 Steuerungs- und Regelungseinrichtungen an unterschiedlichen Sortieranlagen erklären
-�
-�
+
+
 12
 b)
 Sollwerte anhand von Vorgaben einstellen
@@ -727,8 +727,8 @@ bb)
 Mischungen nach vorgegebener mineralogischer und chemischer Zusammensetzung unter Berücksichtigung von Korngröße und Wassergehalten zur Erreichung der für die Formgebung notwendigen Plastizitäten zusammenstellen
 f)
 Trocknen und Brennen
-�
-�
+
+
 12
 aa)
 Trocknungs- und Brennvorgänge unter Erhaltung der vorgegebenen Wasserabgabe sowie Schwindungstoleranzen durchführen
@@ -742,8 +742,8 @@ mit Brennstoffen unter Beachtung der einschlägigen Unfallverhütungsvorschrifte
 Füllen, Wiegen und Versandvorbereiten keramischer Rohstoffe (§ 3 Abs. 2 Nr. 2 Buchstabe e)
 a)
 Eignung des Leergutes feststellen
-�
-�
+
+
 2
 b)
 Verladung nach Verladeprogramm durchführen
@@ -773,8 +773,8 @@ zeitliche Richtwerte in Wochen im Ausbildungsjahr
 Arbeitsplanung und systematische Störungsbeseitigung (§ 3 Abs. 2 Nr. 3 Buchstabe a)
 a)
 Arbeitsabläufe in Aufbereitungsanlagen nach sicherheitstechnischen, organisatorischen, wirtschaftlichen und Umweltgesichtspunkten planen, abstimmen und festlegen
-�
-�
+
+
 2
 b)
 Arbeitsschritte absichern, Probleme erfassen und vorbeugende Maßnahmen treffen
@@ -788,8 +788,8 @@ Ursachen von technischen Störungen in Aufbereitungsanlagen systematisch ermitte
 Instandsetzen von Maschinen und Anlagen (§ 3 Abs. 2 Nr. 3 Buchstabe b)
 a)
 Maschinen- und Anlagenteile nach Vorgabe demontieren, instand setzen und betriebsfertig montieren
-�
-�
+
+
 8
 b)
 instand gesetzte Maschinen und Anlagenteile auf Funktion prüfen
@@ -799,8 +799,8 @@ Sicherheitseinrichtungen beurteilen, festgestellte Mängel melden und durch Inst
 Probenehmen und Durchführen von Maßnahmen zur Qualitätssicherung (§ 3 Abs. 2 Nr. 3 Buchstabe c)
 a)
 Probenahme
-�
-�
+
+
 4
 aa)
 geeignete Probenahmeverfahren unter Berücksichtigung des zu beprobenden Gutes hinsichtlich Konsistenz und Körnung sowie örtlicher Gegebenheiten auswählen
@@ -812,8 +812,8 @@ dd)
 automatische Probenahmeeinrichtungen warten und instand halten
 b)
 Aufbereitungsanalytik
-�
-�
+
+
 12
 aa)
 Proben unter Berücksichtigung des Analyseverfahrens vorbereiten
@@ -844,8 +844,8 @@ Dokumentieren Prüfergebnisse dokumentieren, mit Vorgabewerten vergleichen und w
 Überwachen, Steuern und Regeln von automatisierten und teilautomatisierten Aufbereitungsabläufen (§ 3 Abs. 2 Nr. 3 Buchstabe d)
 a)
 Steuerungs- und Regelungseinrichtungen an Nass- und Trockenaufbereitungsanlagen und Zusammenwirken der einzelnen Teilanlagen für den Gesamtprozess erläutern
-�
-�
+
+
 9
 b)
 Sollwerte anhand von Vorgaben einstellen
@@ -855,8 +855,8 @@ d)
 Anlage unter Einhaltung der Sicherheitsvorschriften an- und abfahren
 e)
 Maßnahmen zur Aufrechterhaltung des kontinuierlichen Aufbereitungsablaufs durchführen und veranlassen
-�
-�
+
+
 9
 f)
 Messdaten und Störungen protokollieren
@@ -866,8 +866,8 @@ Prozessablauf der gesamten Anlage überwachen
 Verladen, Wiegen und Versandvorbereiten von Sand und Kies (§ 3 Abs. 2 Nr. 3 Buchstabe e)
 a)
 Verladeeinrichtungen bedienen
-�
-�
+
+
 8
 b)
 Gewichtsermittlung über Wägeeinrichtungen durchführen
@@ -893,8 +893,8 @@ zeitliche Richtwerte in Wochen im Ausbildungsjahr
 Arbeitsplanung und systematische Störungsbeseitigung (§ 3 Abs. 2 Nr. 4 Buchstabe a)
 a)
 Arbeitsabläufe in Aufbereitungsanlagen nach sicherheitstechnischen, organisatorischen, wirtschaftlichen und Umweltgesichtspunkten planen, abstimmen und festlegen sowie Arbeitsschritte absichern, Probleme erfassen und vorbeugende Maßnahmen treffen
-�
-�
+
+
 2
 b)
 Arbeitsergebnisse kontrollieren und bewerten
@@ -906,8 +906,8 @@ Ursachen von technischen Störungen systematisch ermitteln und Störungen behebe
 Instandsetzen von Maschinen und Anlagen (§ 3 Abs. 2 Nr. 4 Buchstabe b)
 a)
 Maschinen- und Anlagenteile nach Vorgabe demontieren, instand setzen und betriebsfertig montieren
-�
-�
+
+
 8
 b)
 instand gesetzte Maschinen und Anlagenteile auf Funktion prüfen
@@ -917,8 +917,8 @@ Sicherheitseinrichtungen beurteilen, festgestellte Mängel melden und durch Inst
 Probenehmen und Durchführen von Maßnahmen zur Qualitätssicherung (§ 3 Abs. 2 Nr. 4 Buchstabe c)
 a)
 Probenahme
-�
-�
+
+
 4
 aa)
 geeignete Probenahmeverfahren unter Berücksichtigung des zu beprobenden Gutes hinsichtlich Konsistenz und Körnung sowie örtlicher Gegebenheiten auswählen
@@ -930,8 +930,8 @@ dd)
 automatische Probenahmeeinrichtungen warten und instand halten
 b)
 Aufbereitungsanalytik
-�
-�
+
+
 12
 aa)
 Proben unter Berücksichtigung des Analyseverfahrens vorbereiten
@@ -960,8 +960,8 @@ Dokumentieren Analyseergebnisse dokumentieren, auf Anomalien prüfen und weiterl
 Überwachen, Steuern und Regeln von automatisierten und teilautomatisierten Aufbereitungsabläufen (§ 3 Abs. 2 Nr. 4 Buchstabe d)
 a)
 Steuerungs- und Regelungseinrichtungen an unterschiedlichen Sortieranlagen erklären
-�
-�
+
+
 12
 b)
 Sollwerte anhand von Vorgaben einstellen bzw. ändern
@@ -981,8 +981,8 @@ i)
 Wirkungsweise von Entwässerungseinrichtungen mit Hilfe vorgegebener Analyseverfahren überwachen
 k)
 Prozessablauf der gesamten Anlage überwachen
-�
-�
+
+
 6
 l)
 Maßnahmen zur Aufrechterhaltung des kontinuierlichen Aufbereitungsablaufs durchführen oder veranlassen
@@ -992,8 +992,8 @@ Messdaten und Störungen protokollieren
 Verladen, Wiegen und Versandvorbereiten von Steinkohle (§ 3 Abs. 2 Nr. 4 Buchstabe e)
 a)
 Leergut mit automatisierten und teilautomatisierten Anlagen vorschriftsmäßig positionieren
-�
-�
+
+
 8
 b)
 Eignung des Leergutes feststellen
@@ -1021,8 +1021,8 @@ zeitliche Richtwerte in Wochen im Ausbildungsjahr
 Arbeitsplanung und systematische Störungsbeseitigung (§ 3 Abs. 2 Nr. 5 Buchstabe a)
 a)
 Arbeitsabläufe in Gewinnungs- und Aufbereitungsanlagen nach sicherheitstechnischen, organisatorischen, wirtschaftlichen und Umweltgesichtspunkten planen, abstimmen und festlegen
-�
-�
+
+
 2
 b)
 Arbeitsschritte absichern, Probleme erfassen und vorbeugende Maßnahmen treffen
@@ -1036,8 +1036,8 @@ Ursachen von technischen Störungen in Gewinnungs- und Aufbereitungsanlagen syst
 Instandsetzen von Maschinen und Anlagen (§ 3 Abs. 2 Nr. 5 Buchstabe b)
 a)
 Maschinen- und Anlagenteile nach Vorgabe demontieren, instand setzen und betriebsfertig montieren
-�
-�
+
+
 8
 b)
 instand gesetzte Maschinen und Anlagenteile auf Funktion prüfen
@@ -1047,8 +1047,8 @@ Sicherheitseinrichtungen beurteilen, festgestellte Mängel melden und durch Inst
 Probenehmen und Durchführen von Maßnahmen zur Qualitätssicherung (§ 3 Abs. 2 Nr. 5 Buchstabe c)
 a)
 Probenahme
-�
-�
+
+
 2
 aa)
 Probenahmeverfahren unter Berücksichtigung des zu beprobenden Gutes und örtlicher Gegebenheiten auswählen
@@ -1060,8 +1060,8 @@ dd)
 automatische Probeentnahmeeinrichtungen warten und instand halten
 b)
 Aufbereitungsanalytik und Dokumentation
-�
-�
+
+
 4
 aa)
 Proben unter Berücksichtigung des Analyseverfahrens aufbereiten
@@ -1080,8 +1080,8 @@ Prüfergebnisse dokumentieren, mit Vorgabewerten vergleichen und weiterleiten
 Überwachen, Steuern und Regeln von automatisierten und teilautomatisierten Gewinnungs- und Aufbereitungsabläufen (§ 3 Abs. 2 Nr. 5 Buchstabe d)
 a)
 Steuerungs- und Regelungseinrichtungen an Gewinnungsund Aufbereitungsanlagen überprüfen
-�
-�
+
+
 22
 b)
 Zusammenwirken einzelner Teilanlagen für den Gesamtprozess beachten
@@ -1093,8 +1093,8 @@ e)
 Anlagen unter Einhaltung von Sicherheitsvorschriften an- und abfahren
 f)
 Maßnahmen zur Aufrechterhaltung des kontinuierlichen Ablaufes durchführen und veranlassen
-�
-�
+
+
 8
 g)
 Messdaten und Störungen protokollieren
@@ -1104,8 +1104,8 @@ Prozessablauf von Anlagen überwachen
 Verladen, Wiegen und Versandvorbereiten von Braunkohle (§ 3 Abs. 2 Nr. 5 Buchstabe e)
 a)
 Verladeeinrichtungen bedienen
-�
-�
+
+
 6
 b)
 Gewichtsermittlung durch Wägeeinrichtungen durchführen

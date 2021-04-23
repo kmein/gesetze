@@ -6,14 +6,14 @@ Ausfertigungsdatum: 18.07.2018
 
 § 1 - Begriffsbestimmungen
 
-(1) �Emission“ im Sinne dieser Verordnung ist die Freisetzung von Stoffen aus einer Punktquelle oder einer diffusen Quelle in die Atmosphäre.
-(2) �Feinstaub PM_{2,5}“ im Sinne dieser Verordnung ist Feinstaub mit einem aerodynamischen Durchmesser von höchstens 2,5 Mikrometern.
-(3) �Internationaler Seeverkehr“ im Sinne dieser Verordnung sind Fahrten auf See und in Küstengewässern von Wasserfahrzeugen unter beliebiger Flagge, ausgenommen Fischereifahrzeuge, die im Hoheitsgebiet eines Landes beginnen und im Hoheitsgebiet eines anderen Landes enden.
-(4) �NMVOC“ im Sinne dieser Verordnung sind alle flüchtigen organischen Verbindungen außer Methan, die durch Reaktion mit Stickstoffoxiden bei Sonnenlicht photochemische Oxidantien erzeugen können.
-(5) �NO_{x}“ im Sinne dieser Verordnung sind Stickstoffmonoxid und Stickstoffdioxid, ausgedrückt als Stickstoffdioxid.
-(6) �Ruß“ (black carbon) im Sinne dieser Verordnung sind kohlenstoffhaltige lichtabsorbierende Partikel.
-(7) �SO_{2}“ im Sinne dieser Verordnung umfasst neben Schwefeldioxid alle Schwefelverbindungen, einschließlich Schwefeltrioxid (SO_{3}), Schwefelsäure (H_{2}SO_{4}) und reduzierter Schwefelverbindungen wie Schwefelwasserstoff (H_{2}S), Merkaptane und Dimethylsulfide, ausgedrückt als Schwefeldioxid.
-(8) �Start- und Landezyklus“ im Sinne dieser Verordnung ist der Zyklus, der sich aus Rollen, Starten, Steigflug, Anflug und Landung sowie allen anderen Manövern von Luftfahrzeugen ergibt, die unterhalb einer Höhe von 914,4 Metern stattfinden.
+(1) Emission“ im Sinne dieser Verordnung ist die Freisetzung von Stoffen aus einer Punktquelle oder einer diffusen Quelle in die Atmosphäre.
+(2) Feinstaub PM_{2,5}“ im Sinne dieser Verordnung ist Feinstaub mit einem aerodynamischen Durchmesser von höchstens 2,5 Mikrometern.
+(3) Internationaler Seeverkehr“ im Sinne dieser Verordnung sind Fahrten auf See und in Küstengewässern von Wasserfahrzeugen unter beliebiger Flagge, ausgenommen Fischereifahrzeuge, die im Hoheitsgebiet eines Landes beginnen und im Hoheitsgebiet eines anderen Landes enden.
+(4) NMVOC“ im Sinne dieser Verordnung sind alle flüchtigen organischen Verbindungen außer Methan, die durch Reaktion mit Stickstoffoxiden bei Sonnenlicht photochemische Oxidantien erzeugen können.
+(5) NO_{x}“ im Sinne dieser Verordnung sind Stickstoffmonoxid und Stickstoffdioxid, ausgedrückt als Stickstoffdioxid.
+(6) Ruß“ (black carbon) im Sinne dieser Verordnung sind kohlenstoffhaltige lichtabsorbierende Partikel.
+(7) SO_{2}“ im Sinne dieser Verordnung umfasst neben Schwefeldioxid alle Schwefelverbindungen, einschließlich Schwefeltrioxid (SO_{3}), Schwefelsäure (H_{2}SO_{4}) und reduzierter Schwefelverbindungen wie Schwefelwasserstoff (H_{2}S), Merkaptane und Dimethylsulfide, ausgedrückt als Schwefeldioxid.
+(8) Start- und Landezyklus“ im Sinne dieser Verordnung ist der Zyklus, der sich aus Rollen, Starten, Steigflug, Anflug und Landung sowie allen anderen Manövern von Luftfahrzeugen ergibt, die unterhalb einer Höhe von 914,4 Metern stattfinden.
 
 § 2 - Verpflichtungen zur Emissionsreduktion
 
@@ -260,13 +260,13 @@ Das Umweltbundesamt veröffentlicht auf seiner Internetseite Folgendes:
 Anlage 1 - (zu § 7 Absatz 1 und 2, § 8 Absatz 1, § 9 Absatz 1 und § 17)Überwachung von und Berichterstattung über Emissionen
 
 (Fundstelle: BGBl. I 2018, 1228 - 1229)
-      �
-      �
+      
+      
 
 Anlage 2 - (zu § 7 Absatz 3 und § 8 Absatz 1)Methoden für die Erstellung und Aktualisierung des nationalen Emissionsinventars und der nationalen Emissionsprognose
 
 (Fundstelle: BGBl. I 2018, 1230)
-�
+
 
 - I. :: Nationales Emissionsinventar
   - 1. :: Die Emissionen aus ermittelten Schlüsselkategorien sind nach dem Stand von Wissenschaft und Technik zu berechnen.

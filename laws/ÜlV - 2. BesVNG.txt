@@ -125,7 +125,7 @@ C 2
 
 Universit√§tsprofessor - soweit √ºberwiegend in Studieng√§ngen t√§tig, in denen Aufgaben der wissenschaftlichen Hochschulen und der Fachhochschulen miteinander verbunden werden -
 
-†
+
 
 Besoldungsgruppe
 
@@ -145,19 +145,19 @@ A 7
 
 Photograph
 
-†
+
 
 A 12
 
 Verwaltungsdirektor
 
-†
+
 
 A 13
 
 Rechnungsrat Verwaltungsdirektor
 
-†
+
 
 A 14
 
@@ -171,13 +171,13 @@ A 15
 
 Verwaltungsdirektor
 
-†
+
 
 C 2
 
 Professor an einer wissenschaftlichen Hochschule - an einer P√§dagogischen Hochschule -
 
-†
+
 
 R 1
 
@@ -207,27 +207,27 @@ A 10
 
 Ministerialkanzleivorstand Ministerialregistraturvorstand
 
-†
+
 
 A 11
 
 Amtsanwalt
 
-†
+
 
 A 12
 
 Bankrat\\
 Oberamtsanwalt
 
-†
+
 
 A 13
 
 Bankrat\\
 Oberamtsanwalt Wissenschaftlicher Assistent an einer wissenschaftlichen Anstalt
 
-†
+
 
 A 14
 
@@ -242,13 +242,13 @@ A 15
 
 Bankdirektor
 
-†
+
 
 A 16
 
 Oberbankdirektor
 
-†
+
 
 R 1
 
@@ -279,7 +279,7 @@ Oberstaatsanwalt\\
 Richter am Amtsgericht\\
 - bei einem Gericht mit bis zu 20 Richterplanstellen -
 
-†
+
 
 Berlin
 
@@ -288,19 +288,19 @@ A 8
 Erste Oberschwester\\
 Erster Oberpfleger
 
-†
+
 
 A 9
 
 Erste Oberschwester Erster Oberpfleger Leitende Lehrschwester Stellvertretende Oberin Stellvertretender Pflegevorsteher
 
-†
+
 
 A 13
 
 Wissenschaftlicher Assistent an einem wissenschaftlichen Institut (au√üerhalb einer Hochschule)
 
-†
+
 
 R 1
 
@@ -318,13 +318,13 @@ A 14
 
 Verwaltungsdirektor einer Krankenanstalt
 
-†
+
 
 A 15
 
 Verwaltungsdirektor einer Krankenanstalt
 
-†
+
 
 Hamburg
 
@@ -332,19 +332,19 @@ A 13
 
 Verwaltungsdirektor
 
-†
+
 
 A 14
 
 Direktor der Rathausverwaltung Oberverwaltungsdirektor
 
-†
+
 
 A 15
 
 Oberverwaltungsdirektor
 
-†
+
 
 R 1
 
@@ -366,7 +366,7 @@ A 13
 
 Oberschullehrer Wissenschaftlicher Assistent (au√üerhalb einer (Hochschule)
 
-†
+
 
 R 1
 
@@ -388,13 +388,13 @@ Landtagsbibliothekar Wissenschaftlicher Assistent\\
 - bei einem sonstigen wissenschaftlichen Institut -\\
 (au√üerhalb einer Hochschule)
 
-†
+
 
 A 14
 
 Direktor der Landeshauptkasse Kassenoberrat Ministerialb√ºrodirektor
 
-†
+
 
 Nordrhein-Westfalen
 
@@ -454,25 +454,25 @@ A 10
 
 Erziehungsvorsteher bei einem Landesjugendheim (als Beamter des mittleren Dienstes)
 
-†
+
 
 A 13
 
 Landesverwaltungsrat (als Direktor der Verwaltung eines Landeskrankenhauses) Regierungskassenrat Studienrat an einer Fachschule
 
-†
+
 
 A 14
 
 Oberlandesverwaltungsrat (als Beamter des gehobenen Dienstes) Oberregierungskassenrat Oberstudienrat an einer Fachschule Oberverwaltungsrat bei der Universit√§t Kiel (als Beamter des gehobenen Dienstes)
 
-†
+
 
 A 15
 
 Landesverwaltungsdirektor (als Beamter des gehobenen Dienstes) Regierungskassendirektor
 
-†
+
 
 R 1
 

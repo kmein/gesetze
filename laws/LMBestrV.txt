@@ -42,7 +42,7 @@ Die Strahlendosis im Sinne der Nummer 1 darf in mehreren Teildosen verabreicht w
 
 § 3 - Kenntlichmachung
 
-(1) Bestrahlte getrocknete aromatische Kräuter und Gewürze -- auch aus einem Drittland -- müssen von dem, der diese in den Verkehr bringt, spätestens bei der Abgabe an den Verbraucher, wobei dem Verbraucher Anbieter von Gemeinschaftsverpflegung sowie Gewerbetreibende, soweit sie Lebensmittel zum Verbrauch innerhalb ihrer Betriebsstätte beziehen, gleichstehen, durch die Angabe �bestrahlt“ oder die Angabe �mit ionisierenden Strahlen behandelt“ gemäß Absatz 2 und 3 Satz 1 sowie Absatz 4, 5 Satz 1 und Absatz 6 kenntlich gemacht werden. Dies gilt auch, wenn die Lebensmittel nach Satz 1 als Zutaten in einem anderen Lebensmittel enthalten sind.
+(1) Bestrahlte getrocknete aromatische Kräuter und Gewürze -- auch aus einem Drittland -- müssen von dem, der diese in den Verkehr bringt, spätestens bei der Abgabe an den Verbraucher, wobei dem Verbraucher Anbieter von Gemeinschaftsverpflegung sowie Gewerbetreibende, soweit sie Lebensmittel zum Verbrauch innerhalb ihrer Betriebsstätte beziehen, gleichstehen, durch die Angabe bestrahlt“ oder die Angabe mit ionisierenden Strahlen behandelt“ gemäß Absatz 2 und 3 Satz 1 sowie Absatz 4, 5 Satz 1 und Absatz 6 kenntlich gemacht werden. Dies gilt auch, wenn die Lebensmittel nach Satz 1 als Zutaten in einem anderen Lebensmittel enthalten sind.
 (2) Die Angaben nach Absatz 1 sind gut sichtbar, in leicht lesbarer Schrift und unverwischbar anzugeben.
 (3) Die Angaben nach Absatz 1 sind wie folgt anzubringen:
 
@@ -134,7 +134,7 @@ Anlage - (zu § 1)
   Durchschnittlich absorbierte Gesamtdosis
   Bei der Bestimmung der Bekömmlichkeit von Lebensmitteln, die mit einer durchschnittlichen Gesamtdosis von 10 Kilogray oder weniger behandelt worden sind, kann davon ausgegangen werden, dass alle chemischen Bestrahlungseffekte in diesem spezifischen Dosisbereich proportional zur Dosis sind.
   Die durchschnittliche Gesamtdosis D wird durch die nachstehende Integralgleichung für das behandelte Lebensmittel festgelegt:\\
-  �
+  
 - 3. :: Verfahren
   Vor der routinemäßigen Bestrahlung einer gegebenen Gruppe von Lebensmitteln in einer Bestrahlungsanlage wird mit Dosismessungen im gesamten Produktvolumen ermittelt, an welcher Stelle die Höchst- und die Mindestdosis auftritt. Eine ausreichende Zahl dieser Validierungsmessungen muss vorgenommen werden (z. B. 3 bis 5), um den Schwankungen der Dichte oder Geometrie der Erzeugnisse Rechnung zu tragen.
   Die Messungen müssen wiederholt werden, wenn das Erzeugnis, seine Geometrie oder die Bestrahlungsbedingungen geändert werden.

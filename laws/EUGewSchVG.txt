@@ -186,156 +186,156 @@ Die in diesem Formblatt enthaltenen Daten sind vertraulich zu behandeln.\\
 N√§here Angaben zu der gef√§hrdenden Person
 1.1
 Familienname:
-†
-†
+
+
 1.2
 Vorname(n):
-†
-†
+
+
 1.3
 Ggf. Geburtsname oder fr√ºherer Name:
-†
-†
+
+
 1.4
 Ggf. Aliasname(n):
-†
-†
+
+
 1.5
 Geschlecht:
-†
-†
+
+
 1.6
 Staatsangeh√∂rigkeit:
-†
-†
+
+
 1.7
 Kennnummer oder Sozialversicherungsnummer (sofern vorhanden):
-†
-†
+
+
 1.8
 Geburtsdatum:
-†
-†
+
+
 1.9
 Geburtsort:
-†
-†
+
+
 1.10
 Anschrift:
-†
-†
+
+
 1.11
 Sprache oder Sprachen, die die gef√§hrdende Person versteht (sofern bekannt):
-†
-†
+
+
 2
 N√§here Angaben zu der gesch√ºtzten Person
 2.1
 Familienname:
-†
-†
+
+
 2.2
 Vorname(n):
-†
-†
+
+
 2.3
 Ggf. Geburtsname oder fr√ºherer Name:
-†
-†
+
+
 2.4
 Geschlecht:
-†
-†
+
+
 2.5
 Staatsangeh√∂rigkeit:
-†
-†
+
+
 2.6
 Geburtsdatum:
-†
-†
+
+
 2.7
 Geburtsort:
-†
-†
+
+
 2.8
 Anschrift:
-†
-†
+
+
 2.9
 Sprache oder Sprachen, die die gesch√ºtzte Person versteht (sofern bekannt):
-†
-†
+
+
 3
 N√§here Angaben zu der Europ√§ischen Schutzanordnung
 3.1
 Die Anordnung wurde erlassen am:
-†
-†
+
+
 3.2
 Aktenzeichen (sofern vorhanden):
-†
-†
+
+
 3.3
 Beh√∂rde, die die Anordnung erlassen hat
 3.3.1
 Offizielle Bezeichnung:
-†
-†
+
+
 3.3.2
 Anschrift:
-†
-†
+
+
 4
 Beh√∂rde, die f√ºr die Vollstreckung einer Schutzma√ünahme zust√§ndig ist, die eventuell im ausf√ºhrenden Staat erlassen worden ist
 4.1
 Offizielle Bezeichnung:
-†
-†
+
+
 4.2
 Zu kontaktierende Person
 4.2.1
 Name:
-†
-†
+
+
 4.2.2
 Funktion (Verwendungsbezeichnung/Dienstrang):
-†
-†
+
+
 4.2.3
 Vollst√§ndige Anschrift:
-†
-†
+
+
 4.2.4
 Telefonnummer (L√§ndervorwahl) (Regional-/Ortsnetzkennzahl) (Nummer):
-†
-†
+
+
 4.2.5
 Faxnummer (L√§ndervorwahl) (Regional-/Ortsnetzkennzahl) (Nummer):
-†
-†
+
+
 4.2.6
 E-Mail:
-†
-†
+
+
 4.2.7
 Sprachen, die f√ºr die Verst√§ndigung genutzt werden k√∂nnen:
-†
-†
+
+
 5
 Versto√ü gegen das/die von den zust√§ndigen Beh√∂rden des vollstreckenden Staates nach Anerkennung der Europ√§ischen Schutzanordnung auferlegte(n) Verbot(e) oder Beschr√§nkung(en) und/oder sonstige Erkenntnisse, die eine weitere Entscheidung nach sich ziehen k√∂nnten
 5.1
 Der Versto√ü betrifft das/die folgende(n) Verbot(e) oder Beschr√§nkung(en) (Mehrfachwahl m√∂glich):
-†
+
 --
 ein Verbot des Betretens bestimmter R√§umlichkeiten, Orte oder festgelegter Gebiete, in beziehungsweise an denen sich die gesch√ºtzte Person aufh√§lt oder die sie aufsucht;
-†
+
 --
 ein Verbot oder eine Regelung jeglicher Form der Kontaktaufnahme -- auch telefonisch, auf elektronischem Weg oder per Post oder Fax oder mit anderen Mitteln -- mit der gesch√ºtzten Person;
-†
+
 --
 ein Verbot, sich der gesch√ºtzten Person auf eine geringere als die festgelegte Entfernung zu n√§hern, oder eine entsprechende Regelung;
-†
+
 --
 andere von den zust√§ndigen Beh√∂rden des vollstreckenden Staates nach Anerkennung der Europ√§ischen Schutzanordnung getroffene Ma√ünahmen, die sich auf die Schutzma√ünahme beziehen, die der Europ√§ischen Schutzanordnung zugrunde liegt.
 5.2
@@ -350,50 +350,50 @@ Sonstige Erkenntnisse, die eine weitere Entscheidung nach sich ziehen k√∂nnten, 
 N√§here Angaben zu der im vollstreckenden Staat zu kontaktierenden Person, falls zus√§tzliche Informationen zu dem Versto√ü eingeholt werden sollen
 6.1
 Familienname:
-†
-†
+
+
 6.2
 Vorname(n):
-†
-†
+
+
 6.3
 Anschrift:
-†
-†
+
+
 6.4
 Telefonnummer (L√§ndervorwahl) (Regional-/Ortsnetzkennzahl) (Nummer):
-†
-†
+
+
 6.5
 Faxnummer (L√§ndervorwahl) (Regional-/Ortsnetzkennzahl) (Nummer):
-†
-†
+
+
 6.6
 E-Mail:
-†
-†
+
+
 6.7
 Sprachen, die f√ºr die Verst√§ndigung genutzt werden k√∂nnen:
-†
-†
+
+
 7
 Unterzeichnender
 7.1
 Name:
-†
-†
+
+
 7.2
 Funktion (Verwendungsbezeichnung/Dienstrang):
-†
-†
+
+
 \\
 \\
 Datum:
-†
-†
-†
+
+
+
 Unterschrift des Vertreters der das Formblatt ausstellenden Beh√∂rde zur Best√§tigung der Richtigkeit des Inhalts des Formblatts:
-†
-†
+
+
 (Gegebenenfalls) Dienststempel:
-†
+

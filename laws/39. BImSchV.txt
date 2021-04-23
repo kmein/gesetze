@@ -11,45 +11,45 @@ Inhaltsübersicht
 
 In dieser Verordnung gelten folgende Begriffsbestimmungen:
 
-- 1. :: �Alarmschwelle“ ist ein Wert, bei dessen Überschreitung bei kurzfristiger Exposition ein Risiko für die Gesundheit der Gesamtbevölkerung besteht und unverzüglich Maßnahmen ergriffen werden müssen;
-- 2. :: �AOT40“, ausgedrückt in\\
+- 1. :: Alarmschwelle“ ist ein Wert, bei dessen Überschreitung bei kurzfristiger Exposition ein Risiko für die Gesundheit der Gesamtbevölkerung besteht und unverzüglich Maßnahmen ergriffen werden müssen;
+- 2. :: AOT40“, ausgedrückt in\\
   \\
   Mikrogramm
-- 3. :: �Arsen“, �Kadmium“, �Nickel“ und �Benzo[a]pyren“ bezeichnen den Gesamtgehalt des jeweiligen Elements oder der Verbindung in der PM_{10}-Fraktion;
-- 4. :: �Ballungsraum“ ist ein städtisches Gebiet mit mindestens 250 000 Einwohnern und Einwohnerinnen, das aus einer oder mehreren Gemeinden besteht, oder ein Gebiet, das aus einer oder mehreren Gemeinden besteht, welche jeweils eine Einwohnerdichte von 1 000 Einwohnern und Einwohnerinnen oder mehr je Quadratkilometer bezogen auf die Gemarkungsfläche haben und die zusammen mindestens eine Fläche von 100 Quadratkilometern darstellen;
-- 5. :: �Beurteilung“ ist die Ermittlung und Bewertung der Luftqualität durch Messung, Berechnung, Vorhersage oder Schätzung anhand der Methoden und Kriterien, die in dieser Verordnung genannt sind;
-- 6. :: �Emissionen“ sind Schadstoffe, die durch menschliche Tätigkeit aus Quellen auf dem Gebiet der Bundesrepublik Deutschland und ihrer ausschließlichen Wirtschaftszone freigesetzt werden, ausgenommen Schadstoffe des internationalen Seeverkehrs und von Flugzeugen außerhalb des Lande- und Startzyklus;
-- 7. :: �Emissionsbeiträge aus natürlichen Quellen“ sind Schadstoffemissionen, die nicht unmittelbar oder mittelbar durch menschliche Tätigkeit verursacht werden, einschließlich Naturereignissen wie Vulkanausbrüchen, Erdbeben, geothermischen Aktivitäten, Freilandbränden, Stürmen, Meeresgischt oder der atmosphärischen Aufwirbelung oder des atmosphärischen Transports natürlicher Partikel aus Trockengebieten;
-- 8. :: �flüchtige organische Verbindungen“ (NMVOC = non methane volatile organic compounds) sind alle organischen Verbindungen mit Ausnahme von Methan, die natürlichen Ursprungs sind oder durch menschliche Tätigkeit verursacht werden und durch Reaktion mit Stickstoffoxiden bei Sonnenlicht photochemische Oxidantien erzeugen können; die §§ 33 und 34 umfassen, soweit sie sich auf die Einhaltung der nationalen Emissionshöchstmengen von NMVOC beziehen, nur NMVOC, die durch menschliche Tätigkeit verursacht werden;
-- 9. :: �Gebiet“ ist ein von den zuständigen Behörden für die Beurteilung und Kontrolle der Luftqualität abgegrenzter Teil der Fläche eines Landes;
-- 10. :: �geplante Maßnahmen“ des Programms nach § 34 sind eine Zusammenstellung der von der Bundesregierung beabsichtigten Rechts- oder Verwaltungsvorschriften des Bundes sowie anderer in der Zuständigkeit der Bundesregierung liegender Maßnahmen, mit deren Hilfe die Werte für Ozon und Emissionshöchstmengen eingehalten werden sollen;
-- 11. :: �Gesamtablagerung“ ist die Gesamtmenge der Schadstoffe, die auf einer bestimmten Fläche innerhalb eines bestimmten Zeitraums aus der Luft auf Oberflächen (zum Beispiel Boden, Vegetation, Gewässer, Gebäude und so weiter) gelangt;
-- 12. :: �gesamtes gasförmiges Quecksilber“ ist elementarer Quecksilberdampf (Hg⁰) und reaktives gasförmiges Quecksilber; reaktives gasförmiges Quecksilber besteht aus wasserlöslichen Quecksilberverbindungen mit ausreichend hohem Dampfdruck, um in der Gasphase zu existieren;
-- 13. :: �höchster Achtstundenmittelwert eines Tages“ ist ein Wert, der ermittelt wird, indem die gleitenden Achtstundenmittelwerte aus Einstundenmittelwerten gebildet und stündlich aktualisiert werden; jeder auf diese Weise errechnete Achtstundenmittelwert gilt für den Tag, an dem dieser Zeitraum endet; das heißt, dass der erste Berechnungszeitraum für jeden einzelnen Tag die Zeitspanne von 17.00 Uhr des vorangegangenen Tages bis 1.00 Uhr des betreffenden Tages umfasst, während für den letzten Berechnungszeitraum jeweils die Stunden von 16.00 Uhr bis 24.00 Uhr des betreffenden Tages zu Grunde gelegt werden;
-- 14. :: �Indikator für die durchschnittliche Exposition“ ist ein Wert, der anhand von Messungen an Messstationen für den städtischen Hintergrund die durchschnittliche Exposition der Bevölkerung mit PM_{2,5} angibt. Dieser Wert dient der Berechnung des nationalen Ziels der Reduzierung der Exposition und der Berechnung der Verpflichtung in Bezug auf die Expositionskonzentration;
-- 15. :: �Immissionsgrenzwert“ ist ein Wert, der auf Grund wissenschaftlicher Erkenntnisse mit dem Ziel festgelegt wird, schädliche Auswirkungen auf die menschliche Gesundheit oder die Umwelt insgesamt zu vermeiden, zu verhüten oder zu verringern, und der innerhalb eines bestimmten Zeitraums eingehalten werden muss und danach nicht überschritten werden darf;
-- 16. :: �Informationsschwelle“ ist ein Ozonwert in der Luft, bei dessen Überschreitung schon bei kurzfristiger Exposition ein Risiko für die Gesundheit besonders empfindlicher Bevölkerungsgruppen besteht und bei dem unverzüglich geeignete Informationen erforderlich sind;
-- 17. :: �kritischer Wert“ ist ein auf Grund wissenschaftlicher Erkenntnisse festgelegter Wert, dessen Überschreitung unmittelbare schädliche Auswirkungen für manche Rezeptoren wie Bäume, sonstige Pflanzen oder natürliche Ökosysteme, aber nicht für den Menschen haben kann;
-- 18. :: �Pläne für kurzfristige Maßnahmen“ sind Pläne mit den Maßnahmen, die kurzfristig zu ergreifen sind, um die Gefahr der Überschreitung von Alarmschwellen für Schwefeldioxid und Stickstoffdioxid zu verringern oder deren Dauer zu beschränken;
-- 19. :: �langfristiges Ziel“ ist ein Wert zum Schutz der menschlichen Gesundheit und der Umwelt, der unter Berücksichtigung von § 23 langfristig einzuhalten ist;
-- 20. :: �Luft“ ist die Außenluft in der Troposphäre mit Ausnahme von Arbeitsstätten im Sinne der Richtlinie 89/654/EWG des Rates vom 30. November 1989 über Mindestvorschriften für Sicherheit und Gesundheitsschutz in Arbeitsstätten (ABl. L 393 vom 30.12.1989, S. 1), die durch die Richtlinie 2007/30/EG (ABl. L 165 vom 27.6.2007, S. 21) geändert worden ist; an diesen Arbeitsstätten, zu denen die Öffentlichkeit normalerweise keinen Zugang hat, gelten die Bestimmungen für Gesundheitsschutz und Sicherheit am Arbeitsplatz;
-- 21. :: �Luftreinhaltepläne“ sind Pläne, in denen Maßnahmen zur Erreichung der Immissionsgrenzwerte oder des PM_{2,5}-Zielwerts festgelegt sind;
-- 22. :: �Messstationen für den städtischen Hintergrund“ sind Messstationen an Standorten in städtischen Gebieten, an denen die Werte repräsentativ für die Exposition der städtischen Bevölkerung sind;
-- 23. :: �nationales Ziel für die Reduzierung der Exposition“ ist eine prozentuale Reduzierung der durchschnittlichen Exposition der Bevölkerung der Bundesrepublik Deutschland, die für das Bezugsjahr mit dem Ziel festgesetzt wird, schädliche Auswirkungen auf die menschliche Gesundheit zu verringern;
-- 24. :: �obere Beurteilungsschwelle“ ist ein Wert, unterhalb dessen eine Kombination von ortsfesten Messungen und Modellrechnungen oder orientierenden Messungen angewandt werden kann, um die Luftqualität zu beurteilen;
-- 25. :: �orientierende Messungen“ sind Messungen, die weniger strenge Datenqualitätsziele erfüllen als ortsfeste Messungen;
-- 26. :: �ortsfeste Messungen“ sind kontinuierlich oder stichprobenartig an festen Orten durchgeführte Messungen, um Werte entsprechend den jeweiligen Datenqualitätszielen zu ermitteln;
-- 27. :: �Ozonvorläuferstoffe“ sind Stoffe, die zur Bildung von bodennahem Ozon beitragen;
-- 28. :: �PM_{10}“ sind Partikel, die einen größenselektierenden Lufteinlass passieren, der für einen aerodynamischen Durchmesser von 10 Mikrometern einen Abscheidegrad von 50 Prozent aufweist;
-- 29. :: �PM_{2,5}“ sind Partikel, die einen größenselektierenden Lufteinlass passieren, der für einen aerodynamischen Durchmesser von 2,5 Mikrometern einen Abscheidegrad von 50 Prozent aufweist;
-- 30. :: �polyzyklische aromatische Kohlenwasserstoffe“ sind organische Verbindungen, die sich aus mindestens zwei miteinander verbundenen aromatischen Ringen zusammensetzen, die ausschließlich aus Kohlenstoff und Wasserstoff bestehen;
-- 31. :: �Schadstoff“ ist jeder in der Luft vorhandene Stoff, der schädliche Auswirkungen auf die menschliche Gesundheit oder die Umwelt insgesamt haben kann;
-- 32. :: �Stickstoffoxide“ sind die Summe der Volumenmischungsverhältnisse von Stickstoffmonoxid und Stickstoffdioxid, ausgedrückt in der Einheit der Massenkonzentration von Stickstoffdioxid in Mikrogramm pro Kubikmeter;
-- 33. :: �Toleranzmarge“ bezeichnet den Prozentsatz, um den der in dieser Verordnung festgelegte Immissionsgrenzwert überschritten werden darf, unter der Voraussetzung, dass die in dieser Verordnung festgelegten Bedingungen erfüllt sind; im Fall zukünftiger Grenzwerte bezeichnet �Toleranzmarge“ einen in jährlichen Stufen abnehmenden Wert, um den der Immissionsgrenzwert bis zur jeweils festgesetzten Frist überschritten werden darf, ohne die Erstellung von Plänen zu bedingen;
-- 34. :: �untere Beurteilungsschwelle“ ist ein Wert, unterhalb dessen für die Beurteilung der Luftqualität nur Modellrechnungen oder Schätzverfahren angewandt zu werden brauchen;
-- 35. :: �Verpflichtung in Bezug auf die Expositionskonzentration“ ist ein Niveau, das anhand des Indikators für die durchschnittliche Exposition mit dem Ziel festgesetzt wird, schädliche Auswirkungen auf die menschliche Gesundheit zu verringern, und das in einem bestimmten Zeitraum erreicht werden muss;
-- 36. :: �Wert“ ist die Konzentration eines Schadstoffs in der Luft im Normzustand gemäß Anlage 6 Abschnitt C oder die Ablagerung eines Schadstoffs auf bestimmten Flächen in bestimmten Zeiträumen;
-- 37. :: �Zielwert“ ist ein Wert, der mit dem Ziel festgelegt wird, schädliche Auswirkungen auf die menschliche Gesundheit oder die Umwelt insgesamt zu vermeiden, zu verhindern oder zu verringern, und der nach Möglichkeit innerhalb eines bestimmten Zeitraums eingehalten werden muss.
+- 3. :: Arsen“, Kadmium“, Nickel“ und Benzo[a]pyren“ bezeichnen den Gesamtgehalt des jeweiligen Elements oder der Verbindung in der PM_{10}-Fraktion;
+- 4. :: Ballungsraum“ ist ein städtisches Gebiet mit mindestens 250 000 Einwohnern und Einwohnerinnen, das aus einer oder mehreren Gemeinden besteht, oder ein Gebiet, das aus einer oder mehreren Gemeinden besteht, welche jeweils eine Einwohnerdichte von 1 000 Einwohnern und Einwohnerinnen oder mehr je Quadratkilometer bezogen auf die Gemarkungsfläche haben und die zusammen mindestens eine Fläche von 100 Quadratkilometern darstellen;
+- 5. :: Beurteilung“ ist die Ermittlung und Bewertung der Luftqualität durch Messung, Berechnung, Vorhersage oder Schätzung anhand der Methoden und Kriterien, die in dieser Verordnung genannt sind;
+- 6. :: Emissionen“ sind Schadstoffe, die durch menschliche Tätigkeit aus Quellen auf dem Gebiet der Bundesrepublik Deutschland und ihrer ausschließlichen Wirtschaftszone freigesetzt werden, ausgenommen Schadstoffe des internationalen Seeverkehrs und von Flugzeugen außerhalb des Lande- und Startzyklus;
+- 7. :: Emissionsbeiträge aus natürlichen Quellen“ sind Schadstoffemissionen, die nicht unmittelbar oder mittelbar durch menschliche Tätigkeit verursacht werden, einschließlich Naturereignissen wie Vulkanausbrüchen, Erdbeben, geothermischen Aktivitäten, Freilandbränden, Stürmen, Meeresgischt oder der atmosphärischen Aufwirbelung oder des atmosphärischen Transports natürlicher Partikel aus Trockengebieten;
+- 8. :: flüchtige organische Verbindungen“ (NMVOC = non methane volatile organic compounds) sind alle organischen Verbindungen mit Ausnahme von Methan, die natürlichen Ursprungs sind oder durch menschliche Tätigkeit verursacht werden und durch Reaktion mit Stickstoffoxiden bei Sonnenlicht photochemische Oxidantien erzeugen können; die §§ 33 und 34 umfassen, soweit sie sich auf die Einhaltung der nationalen Emissionshöchstmengen von NMVOC beziehen, nur NMVOC, die durch menschliche Tätigkeit verursacht werden;
+- 9. :: Gebiet“ ist ein von den zuständigen Behörden für die Beurteilung und Kontrolle der Luftqualität abgegrenzter Teil der Fläche eines Landes;
+- 10. :: geplante Maßnahmen“ des Programms nach § 34 sind eine Zusammenstellung der von der Bundesregierung beabsichtigten Rechts- oder Verwaltungsvorschriften des Bundes sowie anderer in der Zuständigkeit der Bundesregierung liegender Maßnahmen, mit deren Hilfe die Werte für Ozon und Emissionshöchstmengen eingehalten werden sollen;
+- 11. :: Gesamtablagerung“ ist die Gesamtmenge der Schadstoffe, die auf einer bestimmten Fläche innerhalb eines bestimmten Zeitraums aus der Luft auf Oberflächen (zum Beispiel Boden, Vegetation, Gewässer, Gebäude und so weiter) gelangt;
+- 12. :: gesamtes gasförmiges Quecksilber“ ist elementarer Quecksilberdampf (Hg⁰) und reaktives gasförmiges Quecksilber; reaktives gasförmiges Quecksilber besteht aus wasserlöslichen Quecksilberverbindungen mit ausreichend hohem Dampfdruck, um in der Gasphase zu existieren;
+- 13. :: höchster Achtstundenmittelwert eines Tages“ ist ein Wert, der ermittelt wird, indem die gleitenden Achtstundenmittelwerte aus Einstundenmittelwerten gebildet und stündlich aktualisiert werden; jeder auf diese Weise errechnete Achtstundenmittelwert gilt für den Tag, an dem dieser Zeitraum endet; das heißt, dass der erste Berechnungszeitraum für jeden einzelnen Tag die Zeitspanne von 17.00 Uhr des vorangegangenen Tages bis 1.00 Uhr des betreffenden Tages umfasst, während für den letzten Berechnungszeitraum jeweils die Stunden von 16.00 Uhr bis 24.00 Uhr des betreffenden Tages zu Grunde gelegt werden;
+- 14. :: Indikator für die durchschnittliche Exposition“ ist ein Wert, der anhand von Messungen an Messstationen für den städtischen Hintergrund die durchschnittliche Exposition der Bevölkerung mit PM_{2,5} angibt. Dieser Wert dient der Berechnung des nationalen Ziels der Reduzierung der Exposition und der Berechnung der Verpflichtung in Bezug auf die Expositionskonzentration;
+- 15. :: Immissionsgrenzwert“ ist ein Wert, der auf Grund wissenschaftlicher Erkenntnisse mit dem Ziel festgelegt wird, schädliche Auswirkungen auf die menschliche Gesundheit oder die Umwelt insgesamt zu vermeiden, zu verhüten oder zu verringern, und der innerhalb eines bestimmten Zeitraums eingehalten werden muss und danach nicht überschritten werden darf;
+- 16. :: Informationsschwelle“ ist ein Ozonwert in der Luft, bei dessen Überschreitung schon bei kurzfristiger Exposition ein Risiko für die Gesundheit besonders empfindlicher Bevölkerungsgruppen besteht und bei dem unverzüglich geeignete Informationen erforderlich sind;
+- 17. :: kritischer Wert“ ist ein auf Grund wissenschaftlicher Erkenntnisse festgelegter Wert, dessen Überschreitung unmittelbare schädliche Auswirkungen für manche Rezeptoren wie Bäume, sonstige Pflanzen oder natürliche Ökosysteme, aber nicht für den Menschen haben kann;
+- 18. :: Pläne für kurzfristige Maßnahmen“ sind Pläne mit den Maßnahmen, die kurzfristig zu ergreifen sind, um die Gefahr der Überschreitung von Alarmschwellen für Schwefeldioxid und Stickstoffdioxid zu verringern oder deren Dauer zu beschränken;
+- 19. :: langfristiges Ziel“ ist ein Wert zum Schutz der menschlichen Gesundheit und der Umwelt, der unter Berücksichtigung von § 23 langfristig einzuhalten ist;
+- 20. :: Luft“ ist die Außenluft in der Troposphäre mit Ausnahme von Arbeitsstätten im Sinne der Richtlinie 89/654/EWG des Rates vom 30. November 1989 über Mindestvorschriften für Sicherheit und Gesundheitsschutz in Arbeitsstätten (ABl. L 393 vom 30.12.1989, S. 1), die durch die Richtlinie 2007/30/EG (ABl. L 165 vom 27.6.2007, S. 21) geändert worden ist; an diesen Arbeitsstätten, zu denen die Öffentlichkeit normalerweise keinen Zugang hat, gelten die Bestimmungen für Gesundheitsschutz und Sicherheit am Arbeitsplatz;
+- 21. :: Luftreinhaltepläne“ sind Pläne, in denen Maßnahmen zur Erreichung der Immissionsgrenzwerte oder des PM_{2,5}-Zielwerts festgelegt sind;
+- 22. :: Messstationen für den städtischen Hintergrund“ sind Messstationen an Standorten in städtischen Gebieten, an denen die Werte repräsentativ für die Exposition der städtischen Bevölkerung sind;
+- 23. :: nationales Ziel für die Reduzierung der Exposition“ ist eine prozentuale Reduzierung der durchschnittlichen Exposition der Bevölkerung der Bundesrepublik Deutschland, die für das Bezugsjahr mit dem Ziel festgesetzt wird, schädliche Auswirkungen auf die menschliche Gesundheit zu verringern;
+- 24. :: obere Beurteilungsschwelle“ ist ein Wert, unterhalb dessen eine Kombination von ortsfesten Messungen und Modellrechnungen oder orientierenden Messungen angewandt werden kann, um die Luftqualität zu beurteilen;
+- 25. :: orientierende Messungen“ sind Messungen, die weniger strenge Datenqualitätsziele erfüllen als ortsfeste Messungen;
+- 26. :: ortsfeste Messungen“ sind kontinuierlich oder stichprobenartig an festen Orten durchgeführte Messungen, um Werte entsprechend den jeweiligen Datenqualitätszielen zu ermitteln;
+- 27. :: Ozonvorläuferstoffe“ sind Stoffe, die zur Bildung von bodennahem Ozon beitragen;
+- 28. :: PM_{10}“ sind Partikel, die einen größenselektierenden Lufteinlass passieren, der für einen aerodynamischen Durchmesser von 10 Mikrometern einen Abscheidegrad von 50 Prozent aufweist;
+- 29. :: PM_{2,5}“ sind Partikel, die einen größenselektierenden Lufteinlass passieren, der für einen aerodynamischen Durchmesser von 2,5 Mikrometern einen Abscheidegrad von 50 Prozent aufweist;
+- 30. :: polyzyklische aromatische Kohlenwasserstoffe“ sind organische Verbindungen, die sich aus mindestens zwei miteinander verbundenen aromatischen Ringen zusammensetzen, die ausschließlich aus Kohlenstoff und Wasserstoff bestehen;
+- 31. :: Schadstoff“ ist jeder in der Luft vorhandene Stoff, der schädliche Auswirkungen auf die menschliche Gesundheit oder die Umwelt insgesamt haben kann;
+- 32. :: Stickstoffoxide“ sind die Summe der Volumenmischungsverhältnisse von Stickstoffmonoxid und Stickstoffdioxid, ausgedrückt in der Einheit der Massenkonzentration von Stickstoffdioxid in Mikrogramm pro Kubikmeter;
+- 33. :: Toleranzmarge“ bezeichnet den Prozentsatz, um den der in dieser Verordnung festgelegte Immissionsgrenzwert überschritten werden darf, unter der Voraussetzung, dass die in dieser Verordnung festgelegten Bedingungen erfüllt sind; im Fall zukünftiger Grenzwerte bezeichnet Toleranzmarge“ einen in jährlichen Stufen abnehmenden Wert, um den der Immissionsgrenzwert bis zur jeweils festgesetzten Frist überschritten werden darf, ohne die Erstellung von Plänen zu bedingen;
+- 34. :: untere Beurteilungsschwelle“ ist ein Wert, unterhalb dessen für die Beurteilung der Luftqualität nur Modellrechnungen oder Schätzverfahren angewandt zu werden brauchen;
+- 35. :: Verpflichtung in Bezug auf die Expositionskonzentration“ ist ein Niveau, das anhand des Indikators für die durchschnittliche Exposition mit dem Ziel festgesetzt wird, schädliche Auswirkungen auf die menschliche Gesundheit zu verringern, und das in einem bestimmten Zeitraum erreicht werden muss;
+- 36. :: Wert“ ist die Konzentration eines Schadstoffs in der Luft im Normzustand gemäß Anlage 6 Abschnitt C oder die Ablagerung eines Schadstoffs auf bestimmten Flächen in bestimmten Zeiträumen;
+- 37. :: Zielwert“ ist ein Wert, der mit dem Ziel festgelegt wird, schädliche Auswirkungen auf die menschliche Gesundheit oder die Umwelt insgesamt zu vermeiden, zu verhindern oder zu verringern, und der nach Möglichkeit innerhalb eines bestimmten Zeitraums eingehalten werden muss.
 
 
 § 2 - Immissionsgrenzwerte, Alarmschwelle und kritischer Wert für Schwefeldioxid
@@ -457,7 +457,7 @@ Anlage 1 - (zu den §§ 13, 14 und 18)Datenqualitätsziele
   | Objektive Schätzung\\                                                 | \\                  | \\                                                     | \\                                                     | \\               |
   | Unsicherheit                                                          | 75 %                | 100 %                                                  | 100 %                                                  | 75 %             |
 
-  - <<FnA1-f774264_02>>[[#FnR.FnA1-f774264_02][1)]] :: Die zuständigen Behörden können bei Benzol, Blei und Partikeln Stichprobenmessungen anstelle von kontinuierlichen Messungen durchführen, wenn sie nachweisen können, dass die Unsicherheit, einschlie�Luftbeschaffenheit -- Ermittlung der Unsicherheit von zeitlichen Mittelwerten von Luftbeschaffenheitsmessungen“ (ISO 11222:2002) niedergelegt ist. Werden Stichprobenmessungen zur Beurteilung der Anforderungen hinsichtlich der Einhaltung des Immissionsgrenzwerts für Partikel PM_{10} verwendet, so sollte der 90,4-Prozent-Wert (der höchstens 50 Mikrogramm pro Kubikmeter betragen darf) anstatt der in hohem Maße durch die Datenerfassung beeinflussten Anzahl der Überschreitungen beurteilt werden.
+  - <<FnA1-f774264_02>>[[#FnR.FnA1-f774264_02][1)]] :: Die zuständigen Behörden können bei Benzol, Blei und Partikeln Stichprobenmessungen anstelle von kontinuierlichen Messungen durchführen, wenn sie nachweisen können, dass die Unsicherheit, einschlieLuftbeschaffenheit -- Ermittlung der Unsicherheit von zeitlichen Mittelwerten von Luftbeschaffenheitsmessungen“ (ISO 11222:2002) niedergelegt ist. Werden Stichprobenmessungen zur Beurteilung der Anforderungen hinsichtlich der Einhaltung des Immissionsgrenzwerts für Partikel PM_{10} verwendet, so sollte der 90,4-Prozent-Wert (der höchstens 50 Mikrogramm pro Kubikmeter betragen darf) anstatt der in hohem Maße durch die Datenerfassung beeinflussten Anzahl der Überschreitungen beurteilt werden.
   - <<FnA1-f774264_03>>[[#FnR.FnA1-f774264_03][2)]] :: Über das Jahr verteilt, damit die unterschiedlichen klimatischen und verkehrsabhängigen Bedingungen berücksichtigt werden.
   - <<FnA1-f774264_04>>[[#FnR.FnA1-f774264_04][3)]] :: Eine Tagesmessung (Stichprobe) pro Woche über das ganze Jahr, gleichmäßig verteilt über die Wochentage, oder acht vollständig beprobte Wochen gleichmäßig verteilt über das Jahr.
   - <<FnA1-f774264_05>>[[#FnR.FnA1-f774264_05][4)]] :: Eine Stichprobe pro Woche, gleichmäßig verteilt über das Jahr, oder acht Wochen gleichmäßig verteilt über das Jahr.
@@ -678,21 +678,21 @@ Anlage 6 - (zu den §§ 1, 16 und 19)Referenzmethoden für die Beurteilung der K
 
 - A. :: Referenzmessmethoden
   - 1. :: Referenzmethode zur Messung der Schwefeldioxidkonzentration
-    Als Referenzmethode zur Messung der Schwefeldioxidkonzentration gilt die Methode, die in DIN EN 14212:2012, Ausgabe November 2012, August 2014, �Außenluft -- Messverfahren zur Bestimmung der Konzentration von Schwefeldioxid mit Ultraviolett-Fluoreszenz“ beschrieben ist.
+    Als Referenzmethode zur Messung der Schwefeldioxidkonzentration gilt die Methode, die in DIN EN 14212:2012, Ausgabe November 2012, August 2014, Außenluft -- Messverfahren zur Bestimmung der Konzentration von Schwefeldioxid mit Ultraviolett-Fluoreszenz“ beschrieben ist.
   - 2. :: Referenzmethode zur Messung der Konzentration von Stickstoffdioxid und Stickstoffoxiden
-    Als Referenzmethode zur Messung von Stickstoffdioxid und Stickstoffoxiden gilt die Methode, die in DIN EN 14211:2012, Ausgabe November 2012, �Außenluft -- Messverfahren zur Bestimmung der Konzentration von Stickstoffdioxid und Stickstoffmonoxid mit Chemilumineszenz“ beschrieben ist.
+    Als Referenzmethode zur Messung von Stickstoffdioxid und Stickstoffoxiden gilt die Methode, die in DIN EN 14211:2012, Ausgabe November 2012, Außenluft -- Messverfahren zur Bestimmung der Konzentration von Stickstoffdioxid und Stickstoffmonoxid mit Chemilumineszenz“ beschrieben ist.
   - 3. :: Referenzmethode für die Probenahme und Messung der Konzentration von Blei
-    Als Referenzmethode zur Probenahme von Blei gilt die in Nummer 4 beschriebene Methode. Als Referenzmethode zur Messung der Bleikonzentration gilt die Methode, die in DIN EN 14902:2005 (Oktober 2005) �Außenluftbeschaffenheit -- Standardisiertes Verfahren zur Bestimmung von Pb/Cd/As/Ni als Bestandteil der PM_{10}-Fraktion des Schwebstaubes“ beschrieben ist.
+    Als Referenzmethode zur Probenahme von Blei gilt die in Nummer 4 beschriebene Methode. Als Referenzmethode zur Messung der Bleikonzentration gilt die Methode, die in DIN EN 14902:2005 (Oktober 2005) Außenluftbeschaffenheit -- Standardisiertes Verfahren zur Bestimmung von Pb/Cd/As/Ni als Bestandteil der PM_{10}-Fraktion des Schwebstaubes“ beschrieben ist.
   - 4. :: Referenzmethode für die Probenahme und Messung der Konzentration von PM_{10}
-    Als Referenzmethode für die Probenahme und Messung der Konzentration von PM_{10} gilt die Methode, die in DIN EN 12341:2014, Ausgabe August 2014, �Außenluft -- Gravimetrisches Standardmessverfahren für die Bestimmung der PM_{10}- oder PM_{2,5}-Massenkonzentration des Schwebstaubes“ beschrieben ist.
+    Als Referenzmethode für die Probenahme und Messung der Konzentration von PM_{10} gilt die Methode, die in DIN EN 12341:2014, Ausgabe August 2014, Außenluft -- Gravimetrisches Standardmessverfahren für die Bestimmung der PM_{10}- oder PM_{2,5}-Massenkonzentration des Schwebstaubes“ beschrieben ist.
   - 5. :: Referenzmethode für die Probenahme und Messung der Konzentration von PM_{2,5}
-    Als Referenzmethode für die Probenahme und Messung der Konzentration von PM_{2,5} gilt die Methode, die in DIN EN 12341:2014, Ausgabe August 2014, �Außenluft -- Gravimetrisches Standardmessverfahren für die Bestimmung der PM_{10}- oder PM_{2,5}-Massenkonzentration des Schwebstaubes“ beschrieben ist.
+    Als Referenzmethode für die Probenahme und Messung der Konzentration von PM_{2,5} gilt die Methode, die in DIN EN 12341:2014, Ausgabe August 2014, Außenluft -- Gravimetrisches Standardmessverfahren für die Bestimmung der PM_{10}- oder PM_{2,5}-Massenkonzentration des Schwebstaubes“ beschrieben ist.
   - 6. :: Referenzmethode für die Probenahme und Messung der Konzentration von Benzol
-    Als Referenzmethode für die Messung der Benzolkonzentration gilt die Methode, die in DIN EN 14662:2005 (August 2005) �Luftbeschaffenheit -- Standardverfahren zur Bestimmung von Benzolkonzentrationen (Teile 1, 2 und 3)“ beschrieben ist.
+    Als Referenzmethode für die Messung der Benzolkonzentration gilt die Methode, die in DIN EN 14662:2005 (August 2005) Luftbeschaffenheit -- Standardverfahren zur Bestimmung von Benzolkonzentrationen (Teile 1, 2 und 3)“ beschrieben ist.
   - 7. :: Referenzmethode für die Messung der Kohlenmonoxidkonzentration
-    Als Referenzmethode für die Messung der Kohlenmonoxidkonzentration gilt die Methode, die in DIN EN 14626:2012, Ausgabe Dezember 2012, �Außenluft -- Messverfahren zur Bestimmung der Konzentration von Kohlenmonoxid mit nicht-dispersiver Infrarot-Photometrie“ beschrieben ist.
+    Als Referenzmethode für die Messung der Kohlenmonoxidkonzentration gilt die Methode, die in DIN EN 14626:2012, Ausgabe Dezember 2012, Außenluft -- Messverfahren zur Bestimmung der Konzentration von Kohlenmonoxid mit nicht-dispersiver Infrarot-Photometrie“ beschrieben ist.
   - 8. :: Referenzmethoden für die Messung der Ozonkonzentration
-    Als Referenzmethode für die Messung der Ozonkonzentration gilt die Methode, die in DIN EN 14625:2012, Ausgabe Dezember 2012, �Außenluft -- Messverfahren zur Bestimmung der Konzentration von Ozon mit Ultraviolett-Photometrie“ beschrieben ist.
+    Als Referenzmethode für die Messung der Ozonkonzentration gilt die Methode, die in DIN EN 14625:2012, Ausgabe Dezember 2012, Außenluft -- Messverfahren zur Bestimmung der Konzentration von Ozon mit Ultraviolett-Photometrie“ beschrieben ist.
 - B. :: Nachweis der Gleichwertigkeit
   Sollen andere Methoden angewendet werden, muss dokumentiert werden, dass damit gleichwertige Ergebnisse wie mit den unter Abschnitt A genannten Methoden erzielt werden. Bei Partikeln kann eine andere Methode angewendet werden, wenn dokumentiert wird, dass diese einen konstanten Bezug zur Referenzmethode aufweist. In diesem Fall müssen die mit dieser Methode erzielten Ergebnisse korrigiert werden, damit diese den Ergebnissen entsprechen, die bei der Anwendung der Referenzmethode erzielt worden wären.
 - C. :: Normzustand
@@ -760,21 +760,21 @@ höchster Acht-\\
 stundenmittelwert pro Tag innerhalb\\
 eines Kalenderjahres
 
-120 µg/m�
+120 µg/m
 
 nicht festgelegt
 
 Schutz der\\
 Vegetation\\
  \\
-�
+
 
 Mai bis Juli
 
 AOT40 (berechnet anhand von Einstunden-\\
 mittelwerten)\\
 
-6 000 �
+6 000 
 
 µg
 
@@ -1064,7 +1064,7 @@ Anlage 17 - (zu § 20)Datenqualitätsziele und Anforderungen an Modelle zur Best
 
 - A. :: Datenqualitätsziele
   Folgende Datenqualitätsziele können als Leitfaden für die Qualitätssicherung dienen:
-  �
+  
 - <<FnA1-F795697_04>>[[#FnR.FnA1-F795697_04][*]] :: Amtliche Anmerkung: Über das Jahr verteilt, um unterschiedlichen klimatischen und durch menschliche Aktivitäten bedingten Verhältnissen Rechnung zu tragen.
 - <<FnA1-F795697_05>>[[#FnR.FnA1-F795697_05][**]] :: Orientierende Messungen sind Messungen, die weniger häufig vorgenommen werden, jedoch die anderen Datenqualitätsziele erfüllen.
 
@@ -1078,9 +1078,9 @@ Die Prozentsätze für die Unsicherheit werden für einzelne Messungen angegeben
 
 Die Anforderungen an Mindestdatenerfassung und Mindestzeiterfassung berücksichtigen nicht den Verlust von Daten auf Grund einer regelmäßigen Kalibrierung oder der normalen Wartung der Instrumente. Eine 24-stündige Probenahme ist bei der Messung von Benzo[a]pyren und anderen polyzyklischen aromatischen Kohlenwasserstoffen erforderlich. Einzelproben, die während eines Zeitraums von bis zu einem Monat genommen werden, können mit der gebotenen Vorsicht als Sammelprobe zusammengefasst und analysiert werden, vorausgesetzt, die angewandte Methode gewährleistet stabile Proben für diesen Zeitraum. Die drei verwandten Stoffe Benzo-[b]fluoranthen, Benzo[j]fluoranthen und Benzo[k]fluoranthen lassen sich nur schwer analytisch trennen. In diesen Fällen können sie als Summe gemeldet werden. Die Probenahmen müssen gleichmäßig über die Wochentage und das Jahr verteilt sein. Für die Messung der Ablagerungsraten werden über das Jahr verteilte monatliche oder wöchentliche Proben empfohlen. Die Vorschriften für Einzelproben gemäß den vorhergehenden sieben Sätzen gelten auch für Arsen, Kadmium, Nickel und das gesamte gasförmige Quecksilber. Die Entnahme von Teilproben aus PM_{10}-Filtern zur anschließenden Untersuchung auf Metalle ist zulässig, sofern erwiesen ist, dass die Teilprobe für die Gesamtprobe repräsentativ ist und die Nachweiseffizienz beim Abgleich mit den relevanten Datenqualitätszielen nicht beeinträchtigt wird. In Abweichung zur 24-stündigen Probenahme zur Untersuchung des Metallgehalts von PM_{10} nach der DIN EN 12341:2014, Ausgabe August 2014, und den Bestimmungen zur Messdauer nach Abschnitt 9.3 der DIN EN 15852:2010, Ausgabe November 2010, ist eine wöchentliche Probenahme zulässig, sofern die Erfassungseigenschaften dadurch nicht beeinträchtigt werden.
 
-Die zuständigen Behörden dürfen anstelle einer �bulk-Probenahme“ nur dann eine �wet-only-Probenahme“ verwenden, wenn sie nachweisen können, dass der Unterschied zwischen diesen nicht mehr als 10 Prozent ausmacht. Die Ablagerungsraten sollten generell in Mikrogramm pro Quadratmeter (µg/m²) pro Tag angegeben werden.
+Die zuständigen Behörden dürfen anstelle einer bulk-Probenahme“ nur dann eine wet-only-Probenahme“ verwenden, wenn sie nachweisen können, dass der Unterschied zwischen diesen nicht mehr als 10 Prozent ausmacht. Die Ablagerungsraten sollten generell in Mikrogramm pro Quadratmeter (µg/m²) pro Tag angegeben werden.
 
-Die zuständigen Behörden können die Mindestzeiterfassung der in der Tabelle angegebenen Werte unterschreiten, jedoch nicht weniger als 14 Prozent bei ortsfesten Messungen und 6 Prozent bei orientierenden Messungen, sofern sie nachweisen können, dass die Unsicherheit bei einem Vertrauensbereich von 95 Prozent für den Jahresdurchschnitt, berechnet auf der Grundlage der Datenqualitätsziele in der Tabelle gemä�Ermittlung der Unsicherheit von zeitlichen Mittelwerten von Luftbeschaffenheitsmessungen“ eingehalten wird.
+Die zuständigen Behörden können die Mindestzeiterfassung der in der Tabelle angegebenen Werte unterschreiten, jedoch nicht weniger als 14 Prozent bei ortsfesten Messungen und 6 Prozent bei orientierenden Messungen, sofern sie nachweisen können, dass die Unsicherheit bei einem Vertrauensbereich von 95 Prozent für den Jahresdurchschnitt, berechnet auf der Grundlage der Datenqualitätsziele in der Tabelle gemäErmittlung der Unsicherheit von zeitlichen Mittelwerten von Luftbeschaffenheitsmessungen“ eingehalten wird.
 
 B.
 
@@ -1107,10 +1107,10 @@ Anlage 18 - (zu § 20)Referenzmethoden für die Beurteilung der Werte und der Ab
 \\
 
 - A. :: Referenzmethode für die Probenahme und Analyse von Arsen, Kadmium und Nickel in der Luft
-  Als Referenzmethode für die Analyse von Arsen, Kadmium und Nickel in der Luft gilt die Methode, die in DIN EN 14902:2005, berichtigt 2007 �Außenluftbeschaffenheit -- Standardisiertes Verfahren zur Bestimmung von Pb/Cd/As/Ni als Bestandteil der PM_{10}-Fraktion des Schwebstaubes“, beschrieben ist.
+  Als Referenzmethode für die Analyse von Arsen, Kadmium und Nickel in der Luft gilt die Methode, die in DIN EN 14902:2005, berichtigt 2007 Außenluftbeschaffenheit -- Standardisiertes Verfahren zur Bestimmung von Pb/Cd/As/Ni als Bestandteil der PM_{10}-Fraktion des Schwebstaubes“, beschrieben ist.
   Die zuständigen Behörden können auch jede andere Methode anwenden, die nachweislich zu Ergebnissen führt, die der vorstehend genannten Methode entsprechen. Als Referenzmethode für die Probenahme von Arsen, Kadmium und Nickel in der Luft gilt die Methode, die in DIN EN 12341:2014, Ausgabe August 2014, beschrieben ist.
 - B. :: Referenzmethode für die Probenahme und Analyse polyzyklischer aromatischer Kohlenwasserstoffe in der Luft
-  Als Referenzmethode für die Analyse von Benzo[a]pyren in der Luft gilt die Methode, die in DIN EN 15549:2008 �Luftbeschaffenheit -- Messverfahren zur Bestimmung der Konzentration von Benzo[a]pyren in Luft“ beschrieben ist.
+  Als Referenzmethode für die Analyse von Benzo[a]pyren in der Luft gilt die Methode, die in DIN EN 15549:2008 Luftbeschaffenheit -- Messverfahren zur Bestimmung der Konzentration von Benzo[a]pyren in Luft“ beschrieben ist.
   Solange keine genormte CEN-Methode für die Messung der anderen in § 20 Absatz 8 genannten polyzyklischen aromatischen Kohlenwasserstoffe vorliegt, können die zuständigen Behörden genormte nationale Methoden oder genormte ISO-Methoden wie die ISO-Norm 12884:2000 anwenden.
   Die zuständigen Behörden können auch jede andere Methode anwenden, die nachweislich zu Ergebnissen führt, die der vorstehend genannten Methode entsprechen. Als Referenzmethode für die Probenahme polyzyklischer aromatischer Kohlenwasserstoffe in der Luft gilt die Methode, die in DIN EN 12341:2014, Ausgabe August 2014, beschrieben ist.
 - C. :: Referenzmethode für die Probenahme und Analyse von Quecksilber in der Luft
@@ -1118,7 +1118,7 @@ Anlage 18 - (zu § 20)Referenzmethoden für die Beurteilung der Werte und der Ab
   Die zuständigen Behörden können auch jede andere Methode anwenden, die nachweislich zu Ergebnissen führt, die der vorstehend genannten Methode entsprechen.
 -  D. :: Referenzmethode für die Probenahme und Analyse der Ablagerung von Arsen, Kadmium, Quecksilber, Nickel und polyzyklischen aromatischen Kohlenwasserstoffen
   Als Referenzmethode für die Bestimmung der Ablagerung von Arsen, Kadmium und Nickel gilt die Methode, die in der DIN EN 15841:2010, Ausgabe April 2010, beschrieben ist.
-  Als Referenzmethode für die Bestimmung der Ablagerung von Quecksilber gilt die Methode, die in der DIN EN 15853:2010, Ausgabe November 2010, �Außenluftbeschaffenheit -- Standardisiertes Verfahren zur Bestimmung der Quecksilberdeposition“ beschrieben ist.
-  Als Referenzmethode für die Bestimmung der Ablagerung von Benzo[a]pyren und den anderen polyzyklischen Kohlenwasserstoffen gemä�Luftqualität -- Bestimmung der Deposition von Benz[a]anthracen, Benzo[b]fluoranthen, Benzo[j]fluoranthen, Benzo[k]fluoranthen, Benzo[a]pyren, Dibenz[a,h]anthracen und Indeno[1,2,3-cd]pyren“ beschrieben ist.
+  Als Referenzmethode für die Bestimmung der Ablagerung von Quecksilber gilt die Methode, die in der DIN EN 15853:2010, Ausgabe November 2010, Außenluftbeschaffenheit -- Standardisiertes Verfahren zur Bestimmung der Quecksilberdeposition“ beschrieben ist.
+  Als Referenzmethode für die Bestimmung der Ablagerung von Benzo[a]pyren und den anderen polyzyklischen Kohlenwasserstoffen gemäLuftqualität -- Bestimmung der Deposition von Benz[a]anthracen, Benzo[b]fluoranthen, Benzo[j]fluoranthen, Benzo[k]fluoranthen, Benzo[a]pyren, Dibenz[a,h]anthracen und Indeno[1,2,3-cd]pyren“ beschrieben ist.
 - E. :: Referenzmethoden zur Erstellung von Luftqualitätsmodellen
   Für die Erstellung von Luftqualitätsmodellen lassen sich zurzeit keine Referenzmethoden festlegen.

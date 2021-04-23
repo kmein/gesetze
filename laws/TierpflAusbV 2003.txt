@@ -369,17 +369,17 @@ Berufsspezifische Regelungen (Â§ 3 Abs. 1 Nr. 6)
 a)
 Bestimmungen des Tierschutzes anwenden
 2
- 
- 
+
+
 b)
 berufsspezifische Regelungen, insbesondere Regelungen zur Tiergesundheit, anwenden
 c)
 Aufgaben der zustÃ¤ndigen Berufsgenossenschaft und der Gewerbeaufsicht erlÃ¤utern
 d)
 Regelungen zum Naturschutz anwenden
- 
+
 2
- 
+
 e)
 Regelungen zum Artenschutz anwenden
 7
@@ -387,8 +387,8 @@ Arbeitsorganisation (Â§ 3 Abs. 1 Nr. 7)
 a)
 persÃ¶nliche SchutzausrÃ¼stung auswÃ¤hlen und handhaben
 6
- 
- 
+
+
 b)
 Sicherheitseinrichtungen am Arbeitsplatz bedienen und ihre FunktionsfÃ¤higkeit erhalten
 c)
@@ -401,9 +401,9 @@ f)
 Aufgaben im Team bearbeiten, Ergebnisse abstimmen, auswerten und kontrollieren
 g)
 ArbeitsablÃ¤ufe nach ergonomischen, funktionalen und rechtlichen Anforderungen gestalten
- 
+
 2
- 
+
 h)
 Arbeitsergebnisse dokumentieren, beurteilen und prÃ¤sentieren
 8
@@ -411,8 +411,8 @@ Kommunikation und Information (Â§ 3 Abs. 1 Nr. 8)
 a)
 Kommunikations- und Informationssysteme nutzen und Informationen aufgabenbezogen auswerten
 5
- 
- 
+
+
 b)
 Regeln zum Datenschutz und zur Datensicherheit anwenden
 c)
@@ -424,8 +424,8 @@ Systematik, Anatomie, Physiologie und Verhalten von Tieren (Â§ 3 Abs. 1 Nr. 9)
 a)
 zoologische Systematik erlÃ¤utern
 6
- 
- 
+
+
 b)
 KÃ¶rperbau am Tier beschreiben
 c)
@@ -434,16 +434,16 @@ d)
 Lage und Funktion der Organe an verschiedenen Tierarten erlÃ¤utern
 e)
 Lebensweise von Tieren verschiedener Wirbeltierordnungen beschreiben
- 
+
 2
- 
+
 10
 Pflegen, Halten und Versorgen von Tieren (Â§ 3 Abs. 1 Nr. 10)
 a)
 Tiere beobachten
 14
- 
- 
+
+
 b)
 VerhaltsÃ¤nderungen feststellen und erforderliche MaÃŸnahmen ergreifen
 c)
@@ -458,9 +458,9 @@ g)
 biologische Daten erfassen
 h)
 Tiere zu Gruppen zusammenstellen
- 
+
 6
- 
+
 i)
 Tiergesundheit begutachten
 k)
@@ -470,8 +470,8 @@ Transportieren von Tieren (Â§ 3 Abs. 1 Nr. 11)
 a)
 Methoden und Hilfsmittel zum Einfangen, Ergreifen und Umsetzen von Tieren beschreiben
 6
- 
- 
+
+
 b)
 Tiermasse und -grÃ¶ÃŸe schÃ¤tzen und messen
 c)
@@ -489,24 +489,24 @@ Einrichten, Reinigen, Desinfizieren und Instandhalten von TierunterkÃ¼nften (Â§ 
 a)
 GrÃ¶ÃŸe von TierunterkÃ¼nften berechnen
 14
- 
- 
+
+
 b)
 TierunterkÃ¼nfte unter Beachtung funktionaler, Verhaltens- und artgerechter Gesichtspunkte einrichten und in Stand halten
 c)
 TierunterkÃ¼nfte reinigen und desinfizieren
 d)
 QuarantÃ¤ne- und Krankenbereiche einrichten
- 
+
 4
- 
+
 13
 Erkennen von Krankheiten, Schutz der Tiergesundheit(Â§ 3 Abs. 1 Nr. 13)
 a)
 Krankheitsanzeichen feststellen und MaÃŸnahmen ergreifen
 7
- 
- 
+
+
 b)
 Proben fÃ¼r Untersuchungen nehmen
 c)
@@ -515,9 +515,9 @@ d)
 Parasitenbefall feststellen, BekÃ¤mpfung nach Anweisung durchfÃ¼hren
 e)
 Zoonosegefahr erkennen, MaÃŸnahmen ergreifen
- 
+
 6
- 
+
 f)
 QuarantÃ¤nemaÃŸnahmen und NotfallquarantÃ¤ne durchfÃ¼hren
 14
@@ -525,15 +525,15 @@ Mitwirken bei Behandlungen und Eingriffen (Â§ 3 Abs. 1 Nr. 14)
 a)
 Tiere zur Behandlung halten, positionieren und fixieren
 6
- 
- 
+
+
 b)
 bei Untersuchungen, Behandlungen und Eingriffen mitwirken
 c)
 Tiere vor und nach Eingriffen betreuen, insbesondere Tiere fÃ¼r die Narkose vorbereiten und Narkose Ã¼berwachen
- 
+
 4
- 
+
 d)
 Tiere nach Anweisung medizinisch versorgen
 15
@@ -541,8 +541,8 @@ Lagern, Zubereiten, Verwenden von Futter und Einstreu (Â§ 3 Abs. 1 Nr. 15)
 a)
 Futter und Einstreu nach Aussehen, Beimischungen sowie Geruch beurteilen und Konsistenz prÃ¼fen
 12
- 
- 
+
+
 b)
 Futtermittel und Einstreu auswÃ¤hlen
 c)
@@ -568,8 +568,8 @@ Zeitliche Richtwerte in Wochen in den Ausbildungsmonaten
 Diagnostik bei Tieren (Â§ 3 Abs. 2 Nr. 1)
 a)
 Parasitenbefall nach Art und StÃ¤rke bestimmen
- 
- 
+
+
 8
 b)
 fÃ¼r die Diagnostik erforderliche Angaben, insbesondere KÃ¶rpermasse und Alter sowie physiologische Daten, ermitteln
@@ -585,8 +585,8 @@ bei Sektionen mitwirken
 Mitwirken bei Behandlungen und Eingriffen (Â§ 3 Abs. 2 Nr. 2)
 a)
 Notwendigkeit von Tierversuchen sowie Ersatz- und ErgÃ¤nzungsmethoden zu Tierversuchen aufzeigen
- 
- 
+
+
 14
 b)
 endogene und exogene StÃ¶rfaktoren erlÃ¤utern
@@ -604,8 +604,8 @@ Regelungen zur DurchfÃ¼hrung von Tierversuchen anwenden
 Haltung, Pflege und Zucht von hygienisch und genetisch definierten Tieren (Â§ 3 Abs. 2 Nr. 3)
 a)
 berufsspezifische Regelungen des Gentechnikgesetzes anwenden
- 
- 
+
+
 12
 b)
 Tiere verschiedener Ordnungen unter versuchstierkundlichen Haltungssystemen, insbesondere Barrieresystemen, halten und zÃ¼chten sowie Dokumentationen anfertigen
@@ -623,8 +623,8 @@ MaÃŸnahmen zur Verhaltensanreicherung unter BerÃ¼cksichtigung der Standardisieru
 QualitÃ¤tsmanagement (Â§ 3 Abs. 2 Nr. 4)
 a)
 QualitÃ¤tskontrollen durchfÃ¼hren
- 
- 
+
+
 6
 b)
 Regeln Guter Laborpraxis (GLP) sowie vergleichbare Regelungen anwenden
@@ -634,8 +634,8 @@ bei der Umsetzung des QualitÃ¤tsmanagements mitwirken
 Hygienemanagement (Â§ 3 Abs. 2 Nr. 5)
 a)
 MaÃŸnahmen zur Aufrechterhaltung des Hygienestatus, insbesondere bei Gnotobioten und spezifiziertpathogenfreien Tieren, erlÃ¤utern
- 
- 
+
+
 6
 b)
 die Bedeutung von Schadorganismen im Arbeitsbereich erlÃ¤utern
@@ -649,8 +649,8 @@ SterilisationsmaÃŸnahmen durchfÃ¼hren, insbesondere Autoklavieren und Trockenste
 Prozessbezogene Arbeitstechniken (Â§ 3 Abs. 2 Nr. 6)
 a)
 bei der Planung von ProzessablÃ¤ufen mitwirken
- 
- 
+
+
 6
 b)
 prozessorientierte Arbeitstechniken auswÃ¤hlen und bewerten
@@ -678,8 +678,8 @@ Zeitliche Richtwerte in Wochen in den Ausbildungsmonaten
 Bestimmen, Pflegen und ZÃ¼chten von Wildtieren und Haustieren gefÃ¤hrdeter Rassen (Â§ 3 Abs. 3 Nr. 1)
 a)
 im Ausbildungsbetrieb gehaltene Tiere bestimmen
- 
- 
+
+
 20
 b)
 in zoologischen GÃ¤rten und Ã¤hnlichen Einrichtungen gehaltene Tierarten, insbesondere SÃ¤ugetiere, VÃ¶gel, Aquarien- und Terrarientiere, systematisch, geografisch und Ã¶kologisch einordnen und pflegen
@@ -691,8 +691,8 @@ TÃ¶tungsmethoden erlÃ¤utern und Futtertiere fachgerecht tÃ¶ten
 Betreuen von Wildtieren und Haustieren gefÃ¤hrdeter Rassen (Â§ 3 Abs. 3 Nr. 2)
 a)
 in zoologischen GÃ¤rten und Ã¤hnlichen Einrichtungen gehaltene Tierarten, insbesondere SÃ¤ugetiere, VÃ¶gel, Aquarien- und Terrarientiere, verhaltensgerecht betreuen
- 
- 
+
+
 12
 b)
 Tiere verhaltensgerecht mit Methoden des Behavioural Enrichment beschÃ¤ftigen
@@ -700,8 +700,8 @@ Tiere verhaltensgerecht mit Methoden des Behavioural Enrichment beschÃ¤ftigen
 Ausgestalten und Instandhalten zoospezifischer Anlagen (Â§ 3 Abs. 3 Nr. 3)
 a)
 Gehege, Volieren, Aquarien und Terrarien artgerecht einrichten, ausgestalten und in Stand halten
- 
- 
+
+
 16
 b)
 Aquarien- und Terrarienpflanzen pflegen
@@ -715,8 +715,8 @@ WasserqualitÃ¤t prÃ¼fen, bei StÃ¶rungen MaÃŸnahmen ergreifen
 Besucherbetreuung (Â§ 3 Abs. 3 Nr. 4)
 a)
 Ã¼ber Aufgaben und Bedeutung des Betriebes und die TÃ¤tigkeit von Tierpflegerinnen und -pflegern informieren
- 
- 
+
+
 4
 b)
 Ã¼ber die im Betrieb lebenden Tiere informieren, insbesondere Ã¼ber Herkunft, Verhalten, Lebensweise und Haltungsbedingungen
@@ -738,8 +738,8 @@ Zeitliche Richtwerte in Wochen in den Ausbildungsmonaten
 Pflegen, Halten und Versorgen von Tieren in Tierheimen und Tierpensionen (Â§ 3 Abs. 4 Nr. 1)
 a)
 Tiere, insbesondere Hunde und Katzen, bestimmen sowie nach Ursprung, Rasse, Charakter und Verhalten einordnen
- 
- 
+
+
 18
 b)
 einheimische und nichteinheimische SÃ¤uger, VÃ¶gel und Reptilien artgerecht unterbringen und pflegen
@@ -753,8 +753,8 @@ Regelungen und Empfehlungen von FachverbÃ¤nden anwenden
 Erziehen von Hunden (Â§ 3 Abs. 4 Nr. 2)
 a)
 Sozialisierung zwischen Mensch und Hund sowie zwischen Hunden fÃ¶rdern
- 
- 
+
+
 10
 b)
 Gruppenhaltung von Hunden durchfÃ¼hren
@@ -766,8 +766,8 @@ tierschutzgerechte Trainings- und Erziehungsmethoden anwenden
 Kunden- und Besucherbetreuung, Ã–ffentlichkeitsarbeit (Â§ 3 Abs. 4 Nr. 3)
 a)
 Ã¼ber Ausstattung, Aufgaben und Bedeutung des Betriebes informieren
- 
- 
+
+
 6
 b)
 Ã¼ber die im Betrieb lebenden Tiere informieren, insbesondere Ã¼ber Herkunft, Verhalten, Lebens weise und Haltungsbedingungen
@@ -781,8 +781,8 @@ an der Planung und Konzeption von MarketingmaÃŸnahmen mitwirken
 Verwaltung und kaufmÃ¤nnische Grundlagen (Â§ 3 Abs. 4 Nr. 4)
 a)
 Kunden Ã¼ber Vertrags- und GeschÃ¤ftsbedingungen informieren
- 
- 
+
+
 18
 b)
 VertrÃ¤ge vorbereiten

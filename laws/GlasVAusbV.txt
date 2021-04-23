@@ -261,8 +261,8 @@ Anwenden von Informations- und Kommunikationstechniken (§ 4 Abs. 1 Nr. 5)
 a)
 Bedeutung und Nutzungsmöglichkeiten von Informations- und Kommunikationssystemen unter Einschluss des Internets für den Ausbildungsbetrieb erläutern
 2
-�
-�
+
+
 b)
 Arbeitsaufgaben mit Hilfe von Informations- und Kommunikationssystemen bearbeiten
 c)
@@ -274,8 +274,8 @@ Vorbereiten von Arbeitsabläufen, Auswerten von Informationen, Arbeiten im Team 
 a)
 Arbeitsauftrag erfassen und Vorgaben auf Umsetzbarkeit prüfen
 2
-�
-�
+
+
 b)
 Informationen, insbesondere Gebrauchsanweisungen, Kataloge, Fachzeitschriften und Fachbücher, beschaffen, auswerten und nutzen
 c)
@@ -286,9 +286,9 @@ e)
 Einsatz von Arbeitsmitteln unter Beachtung der Vorschriften planen und Sicherungsmaßnahmen anwenden
 f)
 Zeitaufwand und personelle Unterstützung abschätzen und
-�
+
 2
-�
+
 g)
 dokumentieren Aufgaben im Team planen und umsetzen, Ergebnisse gemeinsam abstimmen und auswerten
 h)
@@ -298,8 +298,8 @@ Anfertigen und Anwenden von technischen Unterlagen, Durchführen von Messungen (
 a)
 Skizzen anfertigen, Zeichnungen und Pläne umsetzen
 2
-�
-�
+
+
 b)
 Normen, technische Richtlinien, Sicherheitsregeln, Merkblätter, Zulassungsbescheide und Arbeitsanweisungen anwenden
 c)
@@ -308,9 +308,9 @@ d)
 Material- und Stücklisten erstellen und anwenden
 e)
 Bauzeichnungen anwenden und Leistungsbeschreibungen beachten
-�
+
 2
-�
+
 f)
 technische Unterlagen, insbesondere Tabellen, Diagramme, Betriebsanleitungen, Handbücher sowie Montage- und Verwendungsanleitungen anwenden
 g)
@@ -320,8 +320,8 @@ Einrichten und Sichern von Arbeitsplätzen (§ 4 Abs. 1 Nr. 8)
 a)
 Arbeitsplatz einrichten, sichern, unterhalten und räumen, ergonomische Gesichtspunkte berücksichtigen
 3
-�
-�
+
+
 b)
 persönliche Schutzausrüstung verwenden
 c)
@@ -337,8 +337,8 @@ Handhaben und Warten von Werkzeugen, Geräten, Maschinen und technischen Einrich
 a)
 Werkzeuge, Geräte, Maschinen und technische Einrichtungen auswählen
 4
-�
-�
+
+
 b)
 Werkzeuge handhaben und instand halten
 c)
@@ -347,9 +347,9 @@ d)
 Maschinenwerkzeuge auswählen, einrichten und instand halten
 e)
 Geräte, Maschinen und technische Einrichtungen warten, Entsorgung von Betriebsstoffen veranlassen
-�
+
 2
-�
+
 f)
 Störungen an Geräten, Maschinen und technischen Einrichtungen erkennen, Störungsbeseitigung veranlassen
 10
@@ -357,8 +357,8 @@ Bearbeiten von Glas, Glaserzeugnissen und glasähnlichen Stoffen sowie sonstigen
 a)
 Glasarten, Glaserzeugnisse und glasähnliche Stoffe auswählen, transportieren, lagern und kennzeichnen
 18
-�
-�
+
+
 b)
 Glas, Glaserzeugnisse und glasähnliche Stoffe auf Mängel prüfen, Mängelbeseitigung veranlassen
 c)
@@ -373,9 +373,9 @@ g)
 Hilfsstoffe auswählen und einsetzen
 h)
 Abdeckmaterialien auswählen und aufbringen
-�
+
 6
-�
+
 i)
 Ätztechniken unterscheiden
 k)
@@ -385,8 +385,8 @@ Herstellen von Klebeverbindungen (§ 4 Abs. 1 Nr. 11)
 a)
 Klebeflächen zur Verklebung vorbereiten
 4
-�
-�
+
+
 b)
 Glaskleber zuordnen und verarbeiten
 c)
@@ -398,8 +398,8 @@ Anwenden von Grundlagen der gestalterischen Glasbearbeitung (§ 4 Abs. 1 Nr. 12)
 a)
 lineare und plastische Zeichnungen anfertigen und umsetzen
 20
-�
-�
+
+
 b)
 Ornamente und Dekore unter Beachtung der Stilkunde entwerfen und umsetzen
 c)
@@ -408,9 +408,9 @@ d)
 Glasgestaltungen unter Einbeziehung ästhetischer und gestalterischer Grundlagen, insbesondere der Stilkunde und der heraldischen Regeln, entwerfen
 e)
 Entwürfe überarbeiten und maßstabsgerecht übertragen
-�
+
 6
-�
+
 f)
 Werkzeichnungen, Pausen, Modelle, Formen und Hilfskonstruktionen anfertigen
 13
@@ -418,15 +418,15 @@ Herstellen und Instandsetzen von Glasgestaltungen (§ 4 Abs. 1 Nr. 13)
 a)
 Techniken der gestalterischen Glasbearbeitung unter Berücksichtigung der Statik anwenden
 20
-�
-�
+
+
 b)
 Glas, Glaserzeugnisse und sonstige Werkstoffe zu Glasgestaltungen und Glaskörpern zusammenfügen
 c)
 Glasgestaltungen und Glaskörper lagern und transportieren
-�
+
 8
-�
+
 d)
 Glasgestaltungen und Glaskörper instand setzen
 14
@@ -434,8 +434,8 @@ Durchführen qualitätssichernder Maßnahmen, Kundenorientierung (§ 4 Abs. 1 Nr
 a)
 qualitätssichernde Maßnahmen im eigenen Arbeitsbereich durchführen, dabei zur kontinuierlichen Verbesserung von Arbeitsvorgängen und Arbeitsergebnissen beitragen
 3
-�
-�
+
+
 b)
 Endkontrolle anhand des Arbeitsauftrages durchführen und Arbeitsergebnisse dokumentieren
 c)
@@ -459,8 +459,8 @@ Zeitliche Richtwerte in Wochen im Ausbildungsjahr
 Durchführen von Vorreiß-, Feinschliff- und Polierarbeiten (§ 4 Abs. 2 Nr. 1 Buchstabe a)
 a)
 Schleifscheiben bestimmen, ausrichten und profilieren
-�
-�
+
+
 6
 b)
 Glas entsprechend der Schliffart mit Schleifscheiben unterschiedlicher Profile vorreißen, schlichten und feinmachen
@@ -472,8 +472,8 @@ Glaserzeugnisse mattieren, schattieren und gravieren
 Gestalten von Dekoren durch verschiedene Schliffarten (§ 4 Abs. 2 Nr. 1 Buchstabe b)
 a)
 Keil- und Scharfschnitte sowie Kugel- und Olivschliffe ausführen
-�
-�
+
+
 5
 b)
 Ecken-, Flächen-, Kanten- und Facettenschliffe herstellen
@@ -481,8 +481,8 @@ Ecken-, Flächen-, Kanten- und Facettenschliffe herstellen
 Durchführen von Formveränderungs- und Ausbrucharbeiten (§ 4 Abs. 2 Nr. 1 Buchstabe c)
 a)
 Formveränderungen durch unterschiedliche Schliffarten vornehmen
-�
-�
+
+
 5
 b)
 Ausbruchschliffe ausführen sowie Ränder und Kanten bearbeiten
@@ -494,8 +494,8 @@ Werkstücke trennen und fräsen
 Herstellen von Säuremattierungen (§ 4 Abs. 2 Nr. 1 Buchstabe d)
 a)
 Säurebäder und -pasten unter Beachtung der Arbeits- und Umweltschutzvorschriften ansetzen
-�
-�
+
+
 5
 b)
 Werkstücke im Vorbad behandeln
@@ -509,8 +509,8 @@ Säurebäder und -pasten der Entsorgung zuführen
 Herstellen von Strahlmattierungen (§ 4 Abs. 2 Nr. 1 Buchstabe e)
 a)
 Strahlmittel nach Körnung und Wirkungsgrad bestimmten
-�
-�
+
+
 6
 b)
 Abdecktechniken zum Strahlen auswählen, Abdeckmaterialien aufbringen und bearbeiten
@@ -522,8 +522,8 @@ Glasoberflächen eisblumieren
 Herstellen von Beschichtungen (§ 4 Abs. 2 Nr. 1 Buchstabe f)
 a)
 Werkstücke vorreinigen, visitieren und polieren
-�
-�
+
+
 4
 b)
 Werkstücke in unterschiedlichen Techniken beschichten, insbesondere silberbelegen
@@ -533,8 +533,8 @@ Schutzbeläge auftragen
 Verformen und Verschmelzen von Glas, glasähnlichen Stoffen und sonstigen Werkstoffen (§ 4 Abs. 2 Nr. 1 Buchstabe g)
 a)
 Glas, glasähnliche Stoffe und sonstige Werkstoffe für thermische Prozesse auswählen und vorbereiten
-�
-�
+
+
 6
 b)
 Formen herstellen und Trennmittel auswählen
@@ -546,8 +546,8 @@ thermisch bearbeitete Produkte entnehmen und beurteilen
 Herstellen von Glaskonstruktionen (§ 4 Abs. 2 Nr. 1 Buchstabe h)
 a)
 Glas, Glaserzeugnisse und Glasgestaltungen mit chemischen und mechanischen Befestigungsmitteln zu funktionalen Flächen und Körpern zusammenfügen
-�
-�
+
+
 5
 b)
 bewegliche Teile, insbesondere mit Beschlägen, integrieren
@@ -557,8 +557,8 @@ Anschlüsse zu angrenzenden Bauteilen ausführen
 Montieren von Glas, Glaserzeugnissen, Glasgestaltungen, glasähnlichen Stoffen und sonstigen Werkstoffen (§ 4 Abs. 2 Nr. 1 Buchstabe i)
 a)
 Falze vorbereiten
-�
-�
+
+
 7
 b)
 Glas, Glaserzeugnisse, Glasgestaltungen, glasähnliche Stoffe und sonstige Werkstoffe ausbauen, einbauen, abdichten und zur Sicherung kenntlich machen
@@ -578,8 +578,8 @@ Abstimmungen mit den Beteiligten treffen
 Elektrotechnik (§ 4 Abs. 2 Nr. 1 Buchstabe k)
 a)
 Spannung, Strom, Widerstand und Leistung in Stromkreisen zuordnen, messen und ihre Abhängigkeit zueinander berechnen
-�
-�
+
+
 3
 b)
 Gefahren des elektrischen Stroms berücksichtigen, Sicherheitsvorschriften und Schutzmaßnahmen anwenden
@@ -599,8 +599,8 @@ Zeitliche Richtwerte in Wochen im Ausbildungsjahr
 Durchführen von vorbereitenden Arbeiten (§ 4 Abs. 2 Nr. 2 Buchstabe a)
 a)
 Grundschliffarten unterscheiden und bestimmen
-�
-�
+
+
 8
 b)
 Schleifkörper auswählen, einrichten und profilieren
@@ -608,8 +608,8 @@ Schleifkörper auswählen, einrichten und profilieren
 Durchführen von abtragenden Arbeiten und Oberflächenbehandlungen (§ 4 Abs. 2 Nr. 2 Buchstabe b)
 a)
 Glaserzeugnisse mattieren, schattieren und karieren
-�
-�
+
+
 14
 b)
 Glaserzeugnisse mit Schleifkörpern unterschiedlicher Profile bearbeiten, insbesondere Keil- und Scharfschnitte, Kugel- und Olivschliffe ausführen
@@ -621,8 +621,8 @@ Polituren ausführen
 Ausführen von Formveränderungen und Ausbrucharbeiten (§ 4 Abs. 2 Nr. 2 (Buchstabe c)
 a)
 Formveränderungen durch unterschiedliche Abtragstechniken vornehmen
-�
-�
+
+
 10
 b)
 Ausbrucharbeiten ausführen sowie Ränder und Kanten bearbeiten
@@ -632,8 +632,8 @@ Werkstücke trennen
 Gravieren oder Schleifen (§ 4 Abs. 2 Nr. 2 Buchstabe d)
 a)
 Gravuren mit Handgeräten und Gravurmaschine, insbesondere mit Diamantscheiben, ausführen
-�
-�
+
+
 20
 b)
 Rutschtechniken anwenden
@@ -662,8 +662,8 @@ Zeitliche Richtwerte in Wochen im Ausbildungsjahr
 Herstellen von Kunstverglasungen (§ 4 Abs. 2 Nr. 3 Buchstabe a)
 a)
 Glas, Glaserzeugnisse und sonstige Werkstoffe mit Hilfe von Profilen, insbesondere Bleiprofilen, zu Kunstverglasungen mit floraler, figuraler, ornamentaler und heraldischer Gestaltung zusammenfügen
-�
-�
+
+
 10
 b)
 Applikation in Form von Beschichtungen auf Kunstverglasungen ausführen
@@ -673,8 +673,8 @@ Kunstverglasungen abdichten und stabilisieren
 Anfertigen von Glasmalereien (§ 4 Abs. 2 Nr. 3 Buchstabe b)
 a)
 Glasmalfarben, Edelmetallpräparate, Lüster, Mal- und Bindemittel auswählen und aufbereiten
-�
-�
+
+
 20
 b)
 substanzauftragende Maltechniken, insbesondere mit Konturen, Lasuren und Schraffuren, ausführen
@@ -694,8 +694,8 @@ Einbrennen vorbereiten, durchführen und überwachen; Brennergebnisse beurteilen
 Verformen und Verschmelzen von Glas, glasähnlichen Stoffen und sonstigen Werkstoffen (§ 4 Abs. 2 Nr. 3 Buchstabe c)
 a)
 Glas, glasähnliche Stoffe und sonstige Werkstoffe für thermische Prozesse auswählen und vorbereiten
-�
-�
+
+
 6
 b)
 Formen herstellen und Trennmittel auswählen
@@ -707,8 +707,8 @@ thermisch bearbeitete Produkte entnehmen und beurteilen
 Ausführen von Glasätzungen (§ 4 Abs. 2 Nr. 3 Buchstabe d)
 a)
 Ätzpräparate vorbereiten und unter Beachtung des Arbeits-, Gesundheits- und Umweltschutzes einsetzen
-�
-�
+
+
 2
 b)
 Ätztechniken anwenden und Ergebnisse beurteilen
@@ -718,8 +718,8 @@ c)
 Montieren von Glas, Glaserzeugnissen, Glasgestaltungen, glasähnlichen Stoffen und sonstigen Werkstoffen (§ 4 Abs. 2 Nr. 3 (Buchstabe e)
 a)
 Falze vorbereiten
-�
-�
+
+
 6
 b)
 Glas, Glaserzeugnisse, Glasgestaltungen, glasähnliche Stoffe und sonstige Werkstoffe einbauen, abdichten und zur Sicherung kenntlich machen
@@ -739,8 +739,8 @@ Abstimmungen mit den Beteiligten treffen
 Schützen von Glasgestaltungen (§ 4 Abs. 2 Nr. 3 Buchstabe f)
 a)
 Gefährdungen von Glasgestaltungen und Glasmalereien beurteilen
-�
-�
+
+
 4
 b)
 Schutzmaßnahmen festlegen; Schutzvorrichtungen herstellen und einsetzen
@@ -748,8 +748,8 @@ Schutzmaßnahmen festlegen; Schutzvorrichtungen herstellen und einsetzen
 Restaurieren von Glasgestaltungen (§ 4 Abs. 2 Nr. 3 Buchstabe g)
 a)
 Glasgestaltungen unter Beachtung historischer und denkmalpflegerischer Aspekte beurteilen und dokumentieren
-�
-�
+
+
 4
 b)
 Restaurierungskonzeption unter Einbeziehung aller an der Restaurierung Beteiligten veranlassen

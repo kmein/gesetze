@@ -6,52 +6,52 @@ Ausfertigungsdatum: 21.09.2018
 
 Inhaltsverzeichnis
 
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 § 1.01 - Allgemeines
 
-�
+
 
 - 1. :: Auf Wasserstraßen der Zone 2-Binnen ist ES-TRIN mit den sich aus den nachfolgenden Vorschriften ergebenden Maßgaben anzuwenden.
 - 2. :: Hinsichtlich der vorgeschriebenen Ausrüstungsgegenstände sind die §§ 6.02 bis 6.06 zu erfüllen.
@@ -70,7 +70,7 @@ Inhaltsverzeichnis
 
 § 1.02 - Sonderbestimmungen für Fahrgastschiffe
 
-�
+
 
 - 1. :: Für Fahrgastschiffe auf Wasserstraßen der Zone 2-Binnen gelten abweichend von Kapitel 19 ES-TRIN folgende Bestimmungen:
   - a) :: Bei Fahrgastschiffen ohne Schottendeck muss der Sicherheitsabstand mindestens 0,80 m betragen.
@@ -81,7 +81,7 @@ Inhaltsverzeichnis
 
 § 2.01 - Allgemeines
 
-�
+
 
 - 1. :: Auf Wasserstraßen der Zone 2-See ist ES-TRIN mit den sich aus den nachfolgenden Vorschriften ergebenden Maßgaben anzuwenden.
 - 2. :: Die Bestimmungen aus den Kapiteln 3 bis 9 sind zu erfüllen.
@@ -90,7 +90,7 @@ Inhaltsverzeichnis
 
 § 4.01 - Sicherheitsabstand
 
-�
+
 
 - 1. :: Der Sicherheitsabstand muss mindestens 0,45 m betragen.
 - 2. :: Zu Öffnungen, die sprühwasser- und wetterdicht abgeschlossen sind oder mit Verschlusseinrichtungen versehen sind, muss der Sicherheitsabstand mindestens 0,60 m betragen.
@@ -99,7 +99,7 @@ Inhaltsverzeichnis
 
 § 4.02 - Freibord
 
-�
+
 
 - 1. :: Der Freibord für Schiffe mit durchlaufendem Deck, ohne Sprung und ohne Aufbauten beträgt 0,30 m.
 - 2. :: Bei Schiffen mit Sprung und mit Aufbauten kann der Freibord nach Artikel 4.02 Nummer 2 bis 6 ES-TRIN berichtigt werden:
@@ -130,7 +130,7 @@ Inhaltsverzeichnis
 
 § 5.01 - Aufbauten
 
-�
+
 
 - 1. :: Alle Öffnungen in den Aufbauten müssen mit Süllen von mindestens 0,15 m Höhe über dem Schottendeck versehen sein.
 - 2. :: Die Süllhöhe kann geringer sein, wenn die Türen und sonstigen Öffnungen wasserdicht verschließbar sind und wenn die Benutzung während der Fahrt ausgeschlossen ist.
@@ -143,7 +143,7 @@ Alle äußeren Türen, die Zugang zu Räumen unter dem Freiborddeck gewähren, m
 
 § 5.03 - Fenster und Oberlichter
 
-�
+
 
 - 1. :: Fenster unterhalb des Schottendecks müssen wasserdicht und mit einer Seeschlagblende versehen sein.
 - 2. :: Fenster und Oberlichter bis 0,15 m oberhalb des Schottendecks müssen wasserdicht sein.
@@ -156,7 +156,7 @@ Alle äußeren Türen, die Zugang zu Räumen unter dem Freiborddeck gewähren, m
 
 § 5.04 - Abdeckung der Laderäume
 
-�
+
 
 - 1. :: Die wasserdichte Abdeckung der Laderäume muss folgenden Bestimmungen genügen:
   - a) :: Die Festigkeit und Konstruktion der Einzelteile muss
@@ -184,7 +184,7 @@ Abweichend von Artikel 13.01 Nummer 10 ES-TRIN muss jede Bugankerkette mindesten
 
 § 6.02 - Kompass
 
-�
+
 
 - 1. :: Fahrzeuge mit eigener Triebkraft müssen mit einem von der zuständigen Behörde zugelassenen Kompass oder mit einem Steuerkurstransmitter, jeweils mit Analoganzeige oder grafischer Darstellung, ausgerüstet sein.
 - 2. :: Abweichend von Nummer 1 darf für Fahrzeuge ein Kompass mit numerischer Anzeige oder Steuerkurstransmitter mit numerischer Anzeige verwendet werden, wenn die Fahrzeuge mit einem Radargerät nach § 6.03 ausgerüstet sind.
@@ -200,7 +200,7 @@ Abweichend von Artikel 13.01 Nummer 10 ES-TRIN muss jede Bugankerkette mindesten
 
 § 6.03 - Navigationsradaranlage
 
-�
+
 
 - 1. :: Fahrzeuge mit eigener Triebkraft müssen mit einer Navigationsradaranlage nach Artikel 7.06 Nummer 1 ES-TRIN ausgerüstet sein.
 - 2. :: Nummer 1 gilt nicht für Seeschiffe mit Seeradar.
@@ -212,7 +212,7 @@ Fahrzeuge mit eigener Triebkraft müssen mit einer Funkanlage für die Teilnahme
 
 § 6.05 - Rettungsmittel
 
-�
+
 
 - 1. :: Ein Drittel der vorgeschriebenen Rettungsringe muss mit jeweils einer mindestens 30 m langen, schwimmfähigen Leine von 8 bis 11 mm Durchmesser, ein weiteres Drittel muss mit jeweils einem selbstzündenden, batteriebetriebenen, im Wasser nicht verlöschenden Licht versehen sein.
 - 2. :: Zusätzlich zu Artikel 13.08 ES-TRIN muss für jede an Bord befindliche Person ein Platz in einem Sammelrettungsmittel nach Artikel 19.09 Nummer 5 ES-TRIN in Verbindung mit dessen Nummer 7 bis 9 vorhanden sein.
@@ -241,7 +241,7 @@ Abweichend von Artikel 3.02 Nummer 1 Buchstabe a ES-TRIN muss der Schiffskörper
 
 § 7.03 - Stabilität, Sicherheitsabstand und Freibord
 
-�
+
 
 - 1. :: Abweichend von den Bestimmungen nach Artikel 19.04 Nummer 1 ES-TRIN muss
   - a) :: der Restsicherheitsabstand mindestens 0,20 m und
@@ -278,7 +278,7 @@ Einzelrettungsmittel nach Artikel 19.09 Nummer 4 ES-TRIN können durch Sammelret
 
 § 10.01 - Allgemeines
 
-�
+
 
 - 1. :: Auf Wasserstraßen der Zone 1 ist ES-TRIN mit den sich aus den nachfolgenden Vorschriften ergebenden Maßgaben anzuwenden.
 - 2. :: Die Bestimmungen aus den Kapiteln 2 bis 6 und die Bestimmungen der §§ 10.02 bis 10.07 sind zu erfüllen.
@@ -294,7 +294,7 @@ Der Freibord muss mindestens 0,50 m betragen.
 
 § 10.04 - Verschlusszustand
 
-�
+
 
 - 1. :: Abweichend von Artikel 4.05 ES-TRIN ist die Ebene der größten Einsenkung unter der Voraussetzung festzusetzen, dass die Laderäume mindestens sprühwasser- und wetterdicht geschlossen werden können.
 - 2. :: Die Festsetzung der höchstzulässigen Einsenkung für die Fahrt mit ungedeckten Laderäumen ist nicht zulässig.
@@ -311,7 +311,7 @@ Abhängig vom Bau-, Erhaltungs- und Ausrüstungszustand des Fahrzeugs werden des
 
 § 10.07 - Zusätzliche Ausrüstung
 
-�
+
 
 - 1. :: Zusätzlich zu den Bestimmungen nach Kapitel 6 müssen Fahrzeuge mit Besatzung folgende Ausrüstungsgegenstände an Bord mitführen:
   - a) :: einen elektrischen Tagessignalscheinwerfer,
@@ -325,7 +325,7 @@ Abhängig vom Bau-, Erhaltungs- und Ausrüstungszustand des Fahrzeugs werden des
 
 § 10.08 - Sonderbestimmungen für Fahrgastschiffe
 
-�
+
 
 - 1. :: Für Fahrgastschiffe auf Wasserstraßen der Zone 1 gelten die §§ 10.02 bis 10.04 nicht.
 - 2. :: Eine anerkannte Klassifikationsgesellschaft muss bescheinigen, dass das Fahrgastschiff zur Fahrt auf Wasserstraßen der Zone 1 ausreichende Stabilität aufweist. Die vorzulegende Bescheinigung muss die zulässigen Fahrtbedingungen des Fahrgastschiffes gemäß § 10.06 angeben.
@@ -334,7 +334,7 @@ Abhängig vom Bau-, Erhaltungs- und Ausrüstungszustand des Fahrzeugs werden des
 
 § 11.01 - Anwendung der Übergangsbestimmungen für Fahrzeuge, die schon in Betrieb sind
 
-�
+
 
 - 1. :: Die nachstehenden Bestimmungen gelten für Fahrzeuge, für die ein zusätzliches Gemeinschaftszeugnis für Binnenschiffe erstmals vor dem 30. Dezember 2008 erteilt wurde.
 - 2. :: Für die Fahrzeuge muss nachgewiesen werden, dass sie am Tage der Erteilung oder letzten Erneuerung ihres Gemeinschaftszeugnisses oder einer anderen Verkehrszulassung den technischen Vorschriften der Binnenschiffs-Untersuchungsordnung in der Fassung vom 30. Dezember 2008 entsprochen haben.
@@ -342,14 +342,14 @@ Abhängig vom Bau-, Erhaltungs- und Ausrüstungszustand des Fahrzeugs werden des
 
 § 11.02 - Übergangsbestimmungen für Fahrzeuge, die schon in Betrieb sind
 
-�
+
 
 - 1. :: Fahrzeuge, die den Vorschriften dieses Anhangs nicht vollständig entsprechen, müssen den in nachstehender Tabelle aufgeführten Übergangsbestimmungen angepasst werden.
   Im Fall der Erteilung eines neuen zusätzlichen Unionszeugnisses für Binnenschiffe nach § 11.01 Nummer 1 ist das zusätzliche Gemeinschaftszeugnis oder eine Anlage zum Gemeinschaftszeugnis für Binnenschiffe als Nachweis vorzulegen und einzuziehen.
 - 2. :: In der Tabelle bedeuten
-  - -- :: �N.E.U.“:
-    Die Vorschrift gilt nicht für Fahrzeuge, die schon in Betrieb sind, es sei denn, die betroffenen Teile werden ersetzt oder umgebaut, d. h., die Vorschrift gilt nur für Neubauten sowie bei Ersatz oder bei Umbau der betroffenen Teile oder Bereiche. Werden bestehende Teile durch Austauschteile in gleicher Technik und Machart ersetzt, bedeutet dies keinen Ersatz �E“ im Sinne dieser Übergangsbestimmungen.
-  - -- :: �Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe“:
+  - -- :: N.E.U.“:
+    Die Vorschrift gilt nicht für Fahrzeuge, die schon in Betrieb sind, es sei denn, die betroffenen Teile werden ersetzt oder umgebaut, d. h., die Vorschrift gilt nur für Neubauten sowie bei Ersatz oder bei Umbau der betroffenen Teile oder Bereiche. Werden bestehende Teile durch Austauschteile in gleicher Technik und Machart ersetzt, bedeutet dies keinen Ersatz E“ im Sinne dieser Übergangsbestimmungen.
+  - -- :: Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe“:
     Die Vorschrift muss bei der nächsten auf das angegebene Datum folgenden Erteilung oder Erneuerung der Gültigkeitsdauer des zusätzlichen Unionszeugnisses für Binnenschiffe oder der Anlage zum Unionszeugnis für Binnenschiffe erfüllt sein.
     | §            | Inhalt                  | Frist oder Bemerkungen                                                                                                   |
     |--------------+-------------------------+--------------------------------------------------------------------------------------------------------------------------|
@@ -370,11 +370,11 @@ Abhängig vom Bau-, Erhaltungs- und Ausrüstungszustand des Fahrzeugs werden des
 Anlage 1 - Anforderungen an Kompasse und Steuerkurstransmitter
 
 (Fundstelle: BGBl. I 2018, 1468 - 1471)
-�
-�
-�
-�
-�
+
+
+
+
+
 Kompasse und Steuerkurstransmitter für den Einsatz in der Binnenschifffahrt nach Anhang III § 6.02 müssen dem Stand der Technik entsprechen und insbesondere eine der folgenden Spezifikationen erfüllen:
 | Nr. | Gerätebezeichnung                  | Spezifikation                                 |
 |-----+------------------------------------+-----------------------------------------------|
@@ -393,15 +393,15 @@ Kompasse und Steuerkurstransmitter für den Einsatz in der Binnenschifffahrt nac
 |     | GNSS-Basis                         | DIN EN 60945, Ausgabe Juli 2003               |
 
 Alle Anzeigen von Kompassen und Steuerkurstransmittern müssen die Anforderungen der DIN EN 60945, Ausgabe Juli 2003, erfüllen. Steuerkurstransmitter nach den Nummern 4, 5 oder 6 der Tabelle mit analoger oder grafischer Anzeige müssen hinsichtlich Unterteilung und Lesbarkeit zusätzlich dem Stand der Technik entsprechen.
-�
-�
+
+
 
 - 1. :: Der Aufstellungsort des Kompasses auf Magnetbasis (Magnetkompasses) für Binnenschiffe muss im Rahmen der gegebenen Möglichkeiten so gewählt werden, dass eine Beeinträchtigung der Funktion des Magnetkompasses durch die bei normaler Fahrt des Schiffes zu erwartenden Vibrationen weitgehend vermieden wird.
 - 2. :: Befindet sich mehr als ein Magnetkompass für Binnenschiffe an Bord, so dürfen sich diese Magnetkompasse gegenseitig nicht beeinflussen. Kompensiermittel und Rosensystem des einen Kompasses müssen vom Rosensystem des anderen einen Abstand von mindestens 2 m haben.
 - 3. :: Bei Ausfall des Hauptstromnetzes muss die Beleuchtung zur Ablesung des Magnetkompasses durch eine Notstromquelle sichergestellt sein.
 - 4. :: Der Magnetkompass für Binnenschiffe muss in der Mittschiffsebene aufgestellt sein.
 
-�
+
 
 - 1. :: Gleichstromführende Kabel in der Nähe des Magnetkompasses müssen doppelpolig verlegt sein. Dies gilt in Abhängigkeit von der Stromstärke innerhalb der nachstehend angegebenen Bereiche um den Kompassrosenmittelpunkt:
   | Stromstärke        | Bereich um den Kompassrosenmittelpunkt |
@@ -417,7 +417,7 @@ Alle Anzeigen von Kompassen und Steuerkurstransmittern müssen die Anforderungen
 - 4. :: Elektrische Anlagen und Geräte müssen grundsätzlich in einem Abstand zum Magnetkompass angeordnet werden, der nicht kleiner als der angegebene Schutzabstand ist.
   In den von der zuständigen Behörde erteilten Bescheinigungen über Schutzabstandswerte (Mindestabstände) vom Magnet-Regel- und Magnet-Steuerkompass gelten die dort als verminderte Schutzabstände (reduzierte Mindestabstände) angeführten Werte.
 
-�
+
 
 - 1. :: Ein kardanisch aufgehängter Magnetkompass muss in einer zugehörigen Haltevorrichtung mit Kardanlagern fest montiert werden.
 - 2. :: Die Haltevorrichtung des Magnetkompasses einschließlich Schutzhaube, Steuerlinse und Übertragungseinrichtung muss so weitgehend eisenfrei sein, dass die Ablenkung der Kompassrose durch evtl. vorhandenes magnetisierbares Material auf keinem Kurs ± 1° überschreitet.

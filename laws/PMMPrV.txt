@@ -155,20 +155,20 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 § 9 - Bewerten von Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
-(2) Der Prüfungsteil �Betriebliche Mikrotechnologie-Prozesse“, die drei Situationsaufgaben im Prüfungsteil �Mikrotechnologie-Fachaufgaben“ sowie die zwei Situationsaufgaben und die praktische Demonstration im Prüfungsteil �Mitarbeiterführung und Personalmanagement“ sind einzeln zu bewerten.
-(3) Im Prüfungsteil �Mikrotechnologie-Fachaufgaben“ ist das arithmetische Mittel aus den Bewertungen der drei Situationsaufgaben zu bilden. Im Prüfungsteil �Mitarbeiterführung und Personalmanagement“ ist das arithmetische Mittel aus den Bewertungen der beiden Situationsaufgaben zu bilden.
+(2) Der Prüfungsteil Betriebliche Mikrotechnologie-Prozesse“, die drei Situationsaufgaben im Prüfungsteil Mikrotechnologie-Fachaufgaben“ sowie die zwei Situationsaufgaben und die praktische Demonstration im Prüfungsteil Mitarbeiterführung und Personalmanagement“ sind einzeln zu bewerten.
+(3) Im Prüfungsteil Mikrotechnologie-Fachaufgaben“ ist das arithmetische Mittel aus den Bewertungen der drei Situationsaufgaben zu bilden. Im Prüfungsteil Mitarbeiterführung und Personalmanagement“ ist das arithmetische Mittel aus den Bewertungen der beiden Situationsaufgaben zu bilden.
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
 § 10 - Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in allen Prüfungsleistungen nach § 9 Absatz 2 jeweils mindestens 50 Punkte erreicht worden sind.
-(2) Ist die Prüfung bestanden, sind die Bewertungen für die Prüfungsteile �Mikrotechnologie-Fachaufgaben“ und �Mitarbeiterführung und Personalmanagement“ jeweils kaufmännisch auf eine ganze Zahl zu runden.
+(2) Ist die Prüfung bestanden, sind die Bewertungen für die Prüfungsteile Mikrotechnologie-Fachaufgaben“ und Mitarbeiterführung und Personalmanagement“ jeweils kaufmännisch auf eine ganze Zahl zu runden.
 (3) Den Bewertungen für die Prüfungsteile ist nach Anlage 2 die jeweilige Note als Dezimalzahl zuzuordnen. Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das arithmetische Mittel wie folgt zu berechnen:
 
-- 1. :: aus der Bewertung des Prüfungsteils �Betriebliche Mikrotechnologie-Prozesse“,
-- 2. :: dem nach § 9 Absatz 3 Satz 1 errechneten arithmetischen Mittel im Prüfungsteil �Mikrotechnologie-Fachaufgaben“,
-- 3. :: dem nach § 9 Absatz 3 Satz 2 errechneten arithmetischen Mittel im Prüfungsteil �Mitarbeiterführung und Personalmanagement“ und
-- 4. :: der Bewertung der praktischen Demonstration im Prüfungsteil �Mitarbeiterführung und Personalmanagement“.
+- 1. :: aus der Bewertung des Prüfungsteils Betriebliche Mikrotechnologie-Prozesse“,
+- 2. :: dem nach § 9 Absatz 3 Satz 1 errechneten arithmetischen Mittel im Prüfungsteil Mikrotechnologie-Fachaufgaben“,
+- 3. :: dem nach § 9 Absatz 3 Satz 2 errechneten arithmetischen Mittel im Prüfungsteil Mitarbeiterführung und Personalmanagement“ und
+- 4. :: der Bewertung der praktischen Demonstration im Prüfungsteil Mitarbeiterführung und Personalmanagement“.
 
 (4) Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerundeten Gesamtpunktzahl wird nach Anlage 1 die Note als Dezimalzahl und die Note in Worten zugeordnet. Die zugeordnete Note ist die Gesamtnote.
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
@@ -274,14 +274,14 @@ Teil A -- Zeugnis ohne Prüfungsergebnisse:
 Teil B -- Zeugnis mit Prüfungsergebnissen:
 Alle Angaben des Teils A sowie zusätzlich:
 
-- 1. :: zum Prüfungsteil �Betriebliche Mikrotechnologie-Prozesse“
-  - a) :: Benennung, die Bewertung und die Note des Prüfungsteils �Betriebliche Mikrotechnologie-Prozesse“ sowie
+- 1. :: zum Prüfungsteil Betriebliche Mikrotechnologie-Prozesse“
+  - a) :: Benennung, die Bewertung und die Note des Prüfungsteils Betriebliche Mikrotechnologie-Prozesse“ sowie
   - b) :: die Themenstellung nach § 4 Absatz 2,
-- 2. :: zum Prüfungsteil �Mikrotechnologie-Fachaufgaben“
-  - a) :: Benennung, das nach § 9 Absatz 3 Satz 1 errechnete arithmetische Mittel und die Note des Prüfungsteils �Mikrotechnologie-Fachaufgaben“ sowie
+- 2. :: zum Prüfungsteil Mikrotechnologie-Fachaufgaben“
+  - a) :: Benennung, das nach § 9 Absatz 3 Satz 1 errechnete arithmetische Mittel und die Note des Prüfungsteils Mikrotechnologie-Fachaufgaben“ sowie
   - b) :: Benennung und die jeweilige Bewertung für die drei Situationsaufgaben dieses Prüfungsteils,
-- 3. :: zum Prüfungsteil �Mitarbeiterführung und Personalmanagement“
-  - a) :: Benennung des Prüfungsteils �Mitarbeiterführung und Personalmanagement“,
+- 3. :: zum Prüfungsteil Mitarbeiterführung und Personalmanagement“
+  - a) :: Benennung des Prüfungsteils Mitarbeiterführung und Personalmanagement“,
   - b) :: Benennung, das nach § 9 Absatz 3 Satz 2 errechnete arithmetische Mittel und die Note der beiden Situationsaufgaben,
   - c) :: Benennung und die jeweilige Bewertung für die beiden Situationsaufgaben sowie
   - d) :: Benennung, die Bewertung und die Note der praktischen Demonstration dieses Prüfungsteils und der für die praktische Demonstration gewählte Anwendungsfall nach § 6 Absatz 4 Satz 1,

@@ -32,7 +32,7 @@ Abschnitt XII
 -Ordnungswidrigkeiten
 Abschnitt XIII
 -Übergangs- und Schlußvorschriften
-�
+
 Anlage 1
 Anforderungen an die Zusammensetzung und die Beschaffenheit von sonstigen explosionsgefährlichen Stoffen und von Sprengzubehör
 Anlage 2
@@ -112,10 +112,10 @@ Die in Nummer 1 Buchstabe a und b bezeichneten Personen müssen die für die bea
 
 § 6
 
-(1) Sonstige explosionsgefährliche Stoffe nach § 1 Absatz 4 Nummer 1 und 2 des Sprengstoffgesetzes und Sprengzubehör müssen in ihrer Zusammensetzung und Beschaffenheit den in der Anlage 1 bezeichneten Anforderungen entsprechen. Bei Gegenständen und Stoffen, die in anderen Mitgliedstaaten der Europäischen Union hergestellt sind, kann in der Regel angenommen werden, dass die technischen Anforderungen der Anlage 1 erfüllt sind, wenn die Zusammensetzung und Beschaffenheit der Gegenstände und Stoffe den dort geltenden Regelungen entsprechen und nachweislich die gleiche Sicherheit, wie sie die technischen Anforderungen der Anlage 1 festlegen, erreicht wird. Zum Nachweis kann das Gutachten einer Prüfstelle eines anderen Mitgliedstaates anerkannt werden, wenn die dem Gutachten zugrunde liegenden technischen Anforderungen denen der Anlage 1 und denen der �Prüfverfahren und Prüfvorschriften für Sprengstoffe, Zündmittel, Sprengzubehör sowie pyrotechnische Gegenstände und deren Sätze“ vom 12. März 1982 (Beilage 13/82 BAnz. Nr. 59 vom 26. März 1982, BAnz. Nr. 60 vom 27. März 1982) gleichwertig sind.
+(1) Sonstige explosionsgefährliche Stoffe nach § 1 Absatz 4 Nummer 1 und 2 des Sprengstoffgesetzes und Sprengzubehör müssen in ihrer Zusammensetzung und Beschaffenheit den in der Anlage 1 bezeichneten Anforderungen entsprechen. Bei Gegenständen und Stoffen, die in anderen Mitgliedstaaten der Europäischen Union hergestellt sind, kann in der Regel angenommen werden, dass die technischen Anforderungen der Anlage 1 erfüllt sind, wenn die Zusammensetzung und Beschaffenheit der Gegenstände und Stoffe den dort geltenden Regelungen entsprechen und nachweislich die gleiche Sicherheit, wie sie die technischen Anforderungen der Anlage 1 festlegen, erreicht wird. Zum Nachweis kann das Gutachten einer Prüfstelle eines anderen Mitgliedstaates anerkannt werden, wenn die dem Gutachten zugrunde liegenden technischen Anforderungen denen der Anlage 1 und denen der Prüfverfahren und Prüfvorschriften für Sprengstoffe, Zündmittel, Sprengzubehör sowie pyrotechnische Gegenstände und deren Sätze“ vom 12. März 1982 (Beilage 13/82 BAnz. Nr. 59 vom 26. März 1982, BAnz. Nr. 60 vom 27. März 1982) gleichwertig sind.
 (2) Die Bundesanstalt für Materialforschung und -prüfung kann für sonstige explosionsgefährliche Stoffe nach § 1 Absatz 4 Nummer 1 und 2 des Sprengstoffgesetzes und Sprengzubehör im Einzelfall von einzelnen Anforderungen der Anlage 1 Ausnahmen zulassen oder zusätzliche Anforderungen stellen sowie von der Prüfung einzelner Anforderungen absehen, wenn der Schutz von Leben und Gesundheit Beschäftigter oder Dritter oder Sachgütern dies zulässt oder erfordert.
 (3) Die Zusammensetzung und die Beschaffenheit von elektrischen Brückenzündern, pyrotechnischen Sätzen sowie Wettersprengstoffen und Wettersprengschnüren müssen den Anforderungen der Anlage 2 entsprechen.
-(4) Die Bundesanstalt für Materialforschung und -prüfung hat für Sprengzubehör dem Zulassungsinhaber die Verwendung eines Zulassungszeichens vorzuschreiben. Das Zulassungszeichen besteht aus der Kurzbezeichnung der Bundesanstalt für Materialforschung und -prüfung �BAM“, dem in der Anlage 4 für den jeweiligen Stoff oder Gegenstand vorgesehenen Zeichen und einer fortlaufenden Kennnummer.
+(4) Die Bundesanstalt für Materialforschung und -prüfung hat für Sprengzubehör dem Zulassungsinhaber die Verwendung eines Zulassungszeichens vorzuschreiben. Das Zulassungszeichen besteht aus der Kurzbezeichnung der Bundesanstalt für Materialforschung und -prüfung BAM“, dem in der Anlage 4 für den jeweiligen Stoff oder Gegenstand vorgesehenen Zeichen und einer fortlaufenden Kennnummer.
 
 § 6a
 
@@ -275,7 +275,7 @@ Bei sonstigen explosionsgefährlichen Stoffen und Sprengzubehör sollen die List
 - 2. :: einen alphanumerischen Code und
 - 3. :: eine elektronisch lesbare Variante des Codes mit gleichem Inhalt.
 
-(2) Hersteller oder Einführer im Geltungsbereich des Sprengstoffgesetzes haben bei der Kennzeichnung nach Absatz 1 als Landeskennzeichen die Buchstabenfolge �DE“ zu verwenden. Die Kennnummer der Herstellungsstätte oder des Einführers wird ihnen auf schriftlichen oder elektronischen Antrag von der Bundesanstalt für Materialforschung und -prüfung zugeteilt.
+(2) Hersteller oder Einführer im Geltungsbereich des Sprengstoffgesetzes haben bei der Kennzeichnung nach Absatz 1 als Landeskennzeichen die Buchstabenfolge DE“ zu verwenden. Die Kennnummer der Herstellungsstätte oder des Einführers wird ihnen auf schriftlichen oder elektronischen Antrag von der Bundesanstalt für Materialforschung und -prüfung zugeteilt.
 (3) Der Hersteller oder der Einführer darf den Explosivstoffen selbstklebende Kopien der Kennzeichnungsetiketten zur Nutzung durch den Empfänger beifügen. Diese Kopien sind sichtbar als solche zu markieren.
 (4) Falls es aufgrund der Größe, der Form oder des Designs eines Explosivstoffes technisch nicht möglich ist, eine eindeutige Kennzeichnung nach Absatz 1 auf dem Explosivstoff anzubringen, hat der Hersteller oder Einführer den Explosivstoff nach Nummer 3 des Anhangs der Richtlinie 2008/43/EG zu kennzeichnen.
 (5) Explosivstoffe, für die keine Kennzeichnungspflicht nach Absatz 1 besteht, muss der Hersteller oder Einführer mit einer Typen-, Chargen- oder Seriennummer oder einem anderen Kennzeichen zu ihrer Identifizierung kennzeichnen.
@@ -318,20 +318,20 @@ Satz 1 gilt nicht für pyrotechnische Gegenstände für Fahrzeuge.
 
 (3) Der Hersteller hat Feuerwerkskörper zusätzlich mit den folgenden Angaben zu kennzeichnen:
 
-- 1. :: Feuerwerkskörper der Kategorie F1: gegebenenfalls die Angabe �nur zur Verwendung im Freien“ und Schutzabstände,
-- 2. :: Feuerwerkskörper der Kategorie F2: die Angabe �nur zur Verwendung im Freien“ und Schutzabstände,
-- 3. :: Feuerwerkskörper der Kategorie F3: die Angabe �nur zur Verwendung im Freien“ und Schutzabstände,
-- 4. :: Feuerwerkskörper der Kategorie F4: die Angabe �zur Verwendung nur durch Personen mit Fachkenntnissen“ und Schutzabstände.
+- 1. :: Feuerwerkskörper der Kategorie F1: gegebenenfalls die Angabe nur zur Verwendung im Freien“ und Schutzabstände,
+- 2. :: Feuerwerkskörper der Kategorie F2: die Angabe nur zur Verwendung im Freien“ und Schutzabstände,
+- 3. :: Feuerwerkskörper der Kategorie F3: die Angabe nur zur Verwendung im Freien“ und Schutzabstände,
+- 4. :: Feuerwerkskörper der Kategorie F4: die Angabe zur Verwendung nur durch Personen mit Fachkenntnissen“ und Schutzabstände.
 
 (4) Pyrotechnische Gegenstände für Bühne und Theater müssen vom Hersteller zusätzlich mit folgenden Angaben gekennzeichnet werden:
 
-- 1. :: pyrotechnische Gegenstände für Bühne und Theater der Kategorie T1: gegebenenfalls die Angabe �nur zur Verwendung im Freien“ und ein Schutzabstand,
-- 2. :: pyrotechnische Gegenstände für Bühne und Theater der Kategorie T2: die Angabe �zur Verwendung nur durch Personen mit Fachkenntnissen“ und Schutzabstände.
+- 1. :: pyrotechnische Gegenstände für Bühne und Theater der Kategorie T1: gegebenenfalls die Angabe nur zur Verwendung im Freien“ und ein Schutzabstand,
+- 2. :: pyrotechnische Gegenstände für Bühne und Theater der Kategorie T2: die Angabe zur Verwendung nur durch Personen mit Fachkenntnissen“ und Schutzabstände.
 
 (5) Die Kennzeichnung pyrotechnischer Gegenstände für Fahrzeuge darf in englischer Sprache erfolgen.
 (6) Elektrische Anzündmittel oder pyrotechnische Gegenstände, die eine elektrische Anzündung enthalten, sind vom Hersteller zusätzlich mit den folgenden Angaben in der Gebrauchsanleitung oder auf der Verpackung zu kennzeichnen:
 
-- 1. :: elektrische Kenndaten zur Empfindlichkeit oder Typenbezeichnung wie �Brückenanzünder A“, �Brückenanzünder U“ oder �Brückenanzünder HU“,
+- 1. :: elektrische Kenndaten zur Empfindlichkeit oder Typenbezeichnung wie Brückenanzünder A“, Brückenanzünder U“ oder Brückenanzünder HU“,
 - 2. :: gegebenenfalls Länge und Material der Drähte,
 - 3. :: Brücken- und Gesamtwiderstand.
 
@@ -375,7 +375,7 @@ Sprengzubehör darf nur verwendet werden, wenn es mit den folgenden Angaben geke
   - b) :: Seriennummer,
   - c) :: Jahreszahl der Herstellung,
   - d) :: zusätzliche Informationen, die für den bestimmungsgemäßen Gebrauch notwendig sind,
-  - e) :: bei schlagwettergesicherten Geräten: zusätzliche Kennzeichnung mit �(S)“,
+  - e) :: bei schlagwettergesicherten Geräten: zusätzliche Kennzeichnung mit (S)“,
 - 6. :: bei Lade- und Mischladegeräten: Typenbezeichnung und Seriennummer.
 
 Satz 1 gilt nicht für Sprengzubehör, das ausschließlich für die Verwendung mit Explosivstoffen oder pyrotechnischen Gegenständen, die ausschließlich für militärische oder polizeiliche Zwecke hergestellt und an eine militärische oder polizeiliche Dienststelle vertrieben oder ihr überlassen werden, auf dem Markt bereitgestellt wurde.
@@ -400,7 +400,7 @@ Satz 1 gilt nicht für Sprengzubehör, das ausschließlich für die Verwendung m
 | Kategorie T2: | 21 Jahre. |
 
 (2) Abweichend von Absatz 1 dürfen pyrotechnische Gegenstände der Kategorie P1, die Rettungsmittel oder Bestandteil von Schutzausrüstungen oder Rettungsmitteln sind, Personen, die das 14. Lebensjahr vollendet haben, überlassen und von diesen Personen bestimmungsgemäß verwendet werden, sofern die Bundesanstalt für Materialforschung und -prüfung dies auf Antrag des Herstellers oder Einführers für die jeweilige Bauart genehmigt hat und die Personen an einer Einweisung zum sicheren Umgang mit diesen Gegenständen teilnehmen oder teilgenommen haben. Die Genehmigung wird für die Bauart erteilt, wenn der Schutz der öffentlichen Sicherheit dem nicht entgegensteht. Der Überlasser der pyrotechnischen Gegenstände ist verpflichtet, das Vorliegen der Voraussetzungen des Satzes 1 vor dem Überlassen zu überprüfen.
-(3) Ein Erlaubnisinhaber nach § 7 oder § 27 des Sprengstoffgesetzes oder eine verantwortliche Person nach § 20 des Sprengstoffgesetzes mit der Befähigung zum Abbrennen pyrotechnischer Gegenstände für Bühne und Theater der Kategorie T2 darf pyrotechnische Gegenstände, die als pyrotechnischer Gegenstand für Bühne und Theater der Kategorie T1 oder als pyrotechnischer Gegenstand für Bühne und Theater der Kategorie T1 mit der Angabe �nur zur Verwendung im Freien“ gekennzeichnet sind, in einer von der Kennzeichnung oder der Gebrauchsanleitung abweichenden Art und Weise verwenden, wenn er dabei die mit diesem Gebrauch verbundenen Gefahren gebührend berücksichtigt.
+(3) Ein Erlaubnisinhaber nach § 7 oder § 27 des Sprengstoffgesetzes oder eine verantwortliche Person nach § 20 des Sprengstoffgesetzes mit der Befähigung zum Abbrennen pyrotechnischer Gegenstände für Bühne und Theater der Kategorie T2 darf pyrotechnische Gegenstände, die als pyrotechnischer Gegenstand für Bühne und Theater der Kategorie T1 oder als pyrotechnischer Gegenstand für Bühne und Theater der Kategorie T1 mit der Angabe nur zur Verwendung im Freien“ gekennzeichnet sind, in einer von der Kennzeichnung oder der Gebrauchsanleitung abweichenden Art und Weise verwenden, wenn er dabei die mit diesem Gebrauch verbundenen Gefahren gebührend berücksichtigt.
 (4) Folgende pyrotechnische Gegenstände der Kategorie F2 dürfen nur an Erlaubnisinhaber nach § 7 Absatz 1 oder § 27 Absatz 1 oder Befähigungsscheininhaber nach § 20 Absatz 1 Satz 1 des Sprengstoffgesetzes vertrieben und überlassen oder von diesen verwendet werden:
 
 - 1. :: Knallkörper und Knallkörperbatterien mit Blitzknallsatz,
@@ -882,7 +882,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     | 80 Zünder  | 50 Ohm  |
     | 160 Zünder | 100 Ohm |
 - 2.4.4 :: Sonstige Anforderungen an schlagwettersichere Zündmaschinen
-  30 -- Hinsichtlich des Schlagwetterschutzes müssen die Zündmaschinen den anerkannten Regeln der Sicherheitstechnik entsprechen. Hiervon ist die Anbringung der Anschlussklemmen ausgenommen. Ebenso gelten nicht die in diesen Regeln gestellten besonderen Anforderungen an Isolierstoffe sowie an Kriechstrecken, Luftstrecken und Abstände bei der Schutzart �erhöhte Sicherheit“.
+  30 -- Hinsichtlich des Schlagwetterschutzes müssen die Zündmaschinen den anerkannten Regeln der Sicherheitstechnik entsprechen. Hiervon ist die Anbringung der Anschlussklemmen ausgenommen. Ebenso gelten nicht die in diesen Regeln gestellten besonderen Anforderungen an Isolierstoffe sowie an Kriechstrecken, Luftstrecken und Abstände bei der Schutzart erhöhte Sicherheit“.
   31 -- Die Zündstromdauer darf nicht mehr als 4 ms betragen. Nach der Abgabe eines Zündimpulses muss ein unbeabsichtigtes Wiederaufladen des Kondensators und die Abgabe eines zweiten Zündimpulses unmöglich sein. Bei Zündmaschinen für Zünderzahlen bis zu 50 Zündern darf die Spitzenspannung nicht mehr als 1 200 V, bei Zündmaschinen für Zünderzahlen von 80 Zündern und darüber nicht mehr als 1 500 V betragen.
 - 2.5 :: Zündgeräte für elektronische Zünder
 - 2.5.1 :: Mechanische Beschaffenheit
@@ -901,7 +901,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 - 2.5.3.1 :: Allgemeines
   42 -- Zündgeräte für elektronische Zünder müssen für eine Maximalzahl Zünder, maximalen Leitungswiderstand, begrenzte Leitungskapazität und Bandbreite bestimmt sein.
 - 2.5.3.2 :: Sonstige Anforderungen an schlagwettersichere Zündgeräte für elektronische Zünder
-  43 -- Hinsichtlich des Schlagwetterschutzes müssen die Zündgeräte den anerkannten Regeln der Sicherheitstechnik entsprechen. Es gelten nicht die in diesen Regeln gestellten besonderen Anforderungen an Isolierstoffe sowie an Kriechstrecken, Luftstrecken und Abstände bei der Schutzart �erhöhte Sicherheit“.
+  43 -- Hinsichtlich des Schlagwetterschutzes müssen die Zündgeräte den anerkannten Regeln der Sicherheitstechnik entsprechen. Es gelten nicht die in diesen Regeln gestellten besonderen Anforderungen an Isolierstoffe sowie an Kriechstrecken, Luftstrecken und Abstände bei der Schutzart erhöhte Sicherheit“.
   44 -- Zum Zeitpunkt der ersten Zündung darf die Spannung im Zündkreis maximal 5 V betragen.
 - 2.6 :: Zündmaschinenprüfgeräte
   45 -- Zündmaschinenprüfgeräte müssen einen inneren Widerstand haben, der der Leistungsfähigkeit der Zündmaschinentypen, für deren Nachprüfung sie bestimmt sind, angepasst ist.

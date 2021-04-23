@@ -10,32 +10,32 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und Absatz 3 Nummer 1 un
 
 Inhaltsübersicht
 
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 § 1 - Ziel der Prüfung, Fortbildungsstufe und Bezeichnung des Fortbildungsabschlusses
 
 (1) Mit der erfolgreich abgelegten Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachagrarwirt Baumpflege -- Bachelor Professional Baumpflege oder Geprüfte Fachagrarwirtin Baumpflege -- Bachelor Professional Baumpflege wird die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit auf der zweiten Fortbildungsstufe der höherqualifizierenden Berufsbildung nach § 53 in Verbindung mit § 53a Absatz 1 Nummer 2 und § 53c des Berufsbildungsgesetzes nachgewiesen.
-(2) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss Bachelor Professional Baumpflege. Der Abschlussbezeichnung wird die weitere Abschlussbezeichnung �Geprüfter Fachagrarwirt Baumpflege“ oder �Geprüfte Fachagrarwirtin Baumpflege“ vorangestellt.
+(2) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss Bachelor Professional Baumpflege. Der Abschlussbezeichnung wird die weitere Abschlussbezeichnung Geprüfter Fachagrarwirt Baumpflege“ oder Geprüfte Fachagrarwirtin Baumpflege“ vorangestellt.
 
 § 2 - Qualifizierungsbereiche
 
@@ -275,10 +275,10 @@ Die Prüfung besteht aus
 § 19 - Bewertungen in den Prüfungen
 
 (1) Jede Leistung in den sieben Prüfungsbestandteilen nach § 7 Nummer 1 bis 3, § 12 Nummer 1 und 2 sowie § 16 Nummer 1 und 2 ist gesondert mit einer Note als Dezimalzahl nach Anlage 1 zu bewerten.
-(2) Die Bewertung der Leistung des Prüfungsteils �Baumdiagnose und Baumpflegemaßnahmen“ errechnet sich aus den Noten der Prüfungsbestandteile Arbeitsprojekt (§ 8), Arbeitsprobe (§ 9) und schriftliche Prüfung (§ 10) nach folgender Formel: [[../normengrafiken/bgbl1_2020/j2643-1_0010.jpg]]
-(3) Die Bewertung der Leistung des Prüfungsteils �Betriebs- und Unternehmensführung“ errechnet sich aus den Noten der Prüfungsbestandteile Fallstudie (§ 13) und schriftliche Prüfung (§ 14) nach folgender Formel: [[../normengrafiken/bgbl1_2020/j2643-1_0020.jpg]]
-(4) Die Bewertung der Leistung des Prüfungsteils �Mitarbeiterführung und Personalmanagement“ errechnet sich aus den Noten der Prüfungsbestandteile Fallstudie (§ 17) und schriftliche Prüfung (§ 18) nach folgender Formel: [[../normengrafiken/bgbl1_2020/j2643-1_0030.jpg]]
-(5) Die Bewertung der Gesamtleistung in der Prüfung errechnet sich aus den Bewertungen der Prüfungsteile �Baumdiagnose und Baumpflegema�Betriebs- und Unternehmensführung“ (Absatz 3) und �Mitarbeiterführung und Personalmanagement“ (Absatz 4) nach folgender Formel: [[../normengrafiken/bgbl1_2020/j2643-1_0040.jpg]] �
+(2) Die Bewertung der Leistung des Prüfungsteils Baumdiagnose und Baumpflegemaßnahmen“ errechnet sich aus den Noten der Prüfungsbestandteile Arbeitsprojekt (§ 8), Arbeitsprobe (§ 9) und schriftliche Prüfung (§ 10) nach folgender Formel: [[../normengrafiken/bgbl1_2020/j2643-1_0010.jpg]]
+(3) Die Bewertung der Leistung des Prüfungsteils Betriebs- und Unternehmensführung“ errechnet sich aus den Noten der Prüfungsbestandteile Fallstudie (§ 13) und schriftliche Prüfung (§ 14) nach folgender Formel: [[../normengrafiken/bgbl1_2020/j2643-1_0020.jpg]]
+(4) Die Bewertung der Leistung des Prüfungsteils Mitarbeiterführung und Personalmanagement“ errechnet sich aus den Noten der Prüfungsbestandteile Fallstudie (§ 17) und schriftliche Prüfung (§ 18) nach folgender Formel: [[../normengrafiken/bgbl1_2020/j2643-1_0030.jpg]]
+(5) Die Bewertung der Gesamtleistung in der Prüfung errechnet sich aus den Bewertungen der Prüfungsteile Baumdiagnose und BaumpflegemaBetriebs- und Unternehmensführung“ (Absatz 3) und Mitarbeiterführung und Personalmanagement“ (Absatz 4) nach folgender Formel: [[../normengrafiken/bgbl1_2020/j2643-1_0040.jpg]] 
 
 § 20 - Befreiung von Prüfungsbestandteilen
 
@@ -301,11 +301,11 @@ bleiben diese Prüfungsbestandteile für die Anwendung des § 19 außer Betrach
 
 § 21 - Bestehen der Prüfung
 
-(1) Die Prüfung ist bestanden, wenn der Prüfling in jedem Prüfungsteil nach § 4 mindestens die Note �ausreichend“ nach Anlage 1 erzielt hat.
+(1) Die Prüfung ist bestanden, wenn der Prüfling in jedem Prüfungsteil nach § 4 mindestens die Note ausreichend“ nach Anlage 1 erzielt hat.
 (2) Die Prüfung ist nicht bestanden, wenn
 
-- 1. :: eine der Leistungen in den einzelnen Prüfungsbestandteilen nach den §§ 7, 12 und 16 mit �ungenügend“ nach Anlage 1 bewertet worden ist oder
-- 2. :: mehr als eine der in Nummer 1 genannten Leistungen mit �mangelhaft“ nach Anlage 1 bewertet worden ist.
+- 1. :: eine der Leistungen in den einzelnen Prüfungsbestandteilen nach den §§ 7, 12 und 16 mit ungenügend“ nach Anlage 1 bewertet worden ist oder
+- 2. :: mehr als eine der in Nummer 1 genannten Leistungen mit mangelhaft“ nach Anlage 1 bewertet worden ist.
 
 
 § 22 - Zeugnisse
@@ -327,7 +327,7 @@ Jede Befreiung nach § 20 Absatz 1 ist mit Ort, Datum und der Bezeichnung des Pr
 
 § 23 - Mündliche Ergänzungsprüfung
 
-(1) Wurde eine oder wurden zwei der schriftlichen Prüfungen nach den §§ 10, 14 und 18 schlechter als mit �ausreichend“ nach Anlage 1 bewertet, ist auf Antrag des Prüflings eine dieser Prüfungen durch eine mündliche Prüfung zu ergänzen, wenn dies den Ausschlag für das Bestehen der Prüfung insgesamt geben kann.
+(1) Wurde eine oder wurden zwei der schriftlichen Prüfungen nach den §§ 10, 14 und 18 schlechter als mit ausreichend“ nach Anlage 1 bewertet, ist auf Antrag des Prüflings eine dieser Prüfungen durch eine mündliche Prüfung zu ergänzen, wenn dies den Ausschlag für das Bestehen der Prüfung insgesamt geben kann.
 (2) Die mündliche Ergänzungsprüfung soll nicht länger als 30 Minuten dauern.
 (3) Für die Ermittlung des Ergebnisses der ergänzten schriftlichen Prüfung ist die bisherige Note der schriftlichen Prüfung und die Note der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
@@ -336,7 +336,7 @@ Jede Befreiung nach § 20 Absatz 1 ist mit Ort, Datum und der Bezeichnung des Pr
 (1) Eine Prüfung, die nicht bestanden wurde, kann zweimal wiederholt werden.
 (2) In der Wiederholungsprüfung ist der Prüfling auf Antrag von einzelnen Prüfungsteilen nach § 4 und einzelnen Prüfungsbestandteilen nach den §§ 7, 12 und 16 zu befreien, wenn
 
-- 1. :: die entsprechenden Leistungen in einer vorangegangenen Prüfung mindestens mit �ausreichend“ nach Anlage 1 bewertet worden sind und
+- 1. :: die entsprechenden Leistungen in einer vorangegangenen Prüfung mindestens mit ausreichend“ nach Anlage 1 bewertet worden sind und
 - 2. :: der Prüfling sich innerhalb von zwei Jahren, gerechnet vom Tag der Feststellung des Ergebnisses der nicht bestandenen Prüfung an, zur Wiederholungsprüfung anmeldet.
 
 

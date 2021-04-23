@@ -24,8 +24,8 @@ Dienstzeiterfordernisse
 Umwandlung des Dienstverhältnisses und Laufbahnwechsel
 § 7
 (weggefallen)
-�
-�
+
+
 Kapitel 2
 Laufbahngruppe der Mannschaften
 § 8
@@ -34,15 +34,15 @@ Voraussetzungen für die Einstellung in das Dienstverhältnis einer Soldatin auf
 Beförderung der Mannschaften im Dienstverhältnis einer Soldatin auf Zeit oder eines Soldaten auf Zeit
 § 10
 Beförderung der sonstigen Soldatinnen und Soldaten
-�
-�
+
+
 Kapitel 3
 Laufbahngruppe der Unteroffiziere
 Abschnitt 1
 Berufssoldatinnen, Berufssoldaten, Soldatinnen auf Zeit und Soldaten auf Zeit
-�
+
 Unterabschnitt 1
-�
+
 Fachunteroffiziere
 § 11
 Voraussetzungen für die Einstellung als Unteroffizieranwärterin oder Unteroffizieranwärter
@@ -52,11 +52,11 @@ Beförderung der Unteroffizieranwärterinnen und Unteroffizieranwärter
 Einstellung mit einem höheren Dienstgrad, Nachbeförderung
 § 14
 Aufstieg aus der Laufbahngruppe der Mannschaften
-�
-�
-�
+
+
+
 Unterabschnitt 2
-�
+
 Feldwebel
 § 15
 Voraussetzungen für die Einstellung als Feldwebelanwärterin oder Feldwebelanwärter
@@ -72,21 +72,21 @@ Aufstieg aus der Laufbahngruppe der Mannschaften
 Zulassung zu einer Laufbahn der Feldwebel
 § 21
 Umwandlung des Dienstverhältnisses
-�
-�
+
+
 Abschnitt 2
 Sonstige Soldatinnen und Soldaten (§ 1 Satz 1 Nummer 2 bis 7)
 § 22
 Beförderung, Zulassung zu einer Laufbahn der Reserve und Berufung in das Dienstverhältnis einer Berufssoldatin oder eines Berufssoldaten
-�
-�
+
+
 Kapitel 4
 Laufbahngruppe der Offiziere
 Abschnitt 1
 Berufssoldatinnen, Berufssoldaten, Soldatinnen auf Zeit und Soldaten auf Zeit
-�
+
 Unterabschnitt 1
-�
+
 Truppendienst
 § 23
 Voraussetzungen für die Einstellung als Offizieranwärterin oder Offizieranwärter
@@ -102,11 +102,11 @@ Offiziere mit sonstigen zivilen Befähigungen
 Berufung von Offizieren mit Hochschulausbildung oder sonstigen zivilen Befähigungen in das Dienstverhältnis einer Berufssoldatin oder eines Berufssoldaten
 § 29
 Aufstieg in die Laufbahn der Offiziere des Truppendienstes
-�
-�
-�
+
+
+
 Unterabschnitt 2
-�
+
 Sanitätsdienst
 § 30
 Voraussetzungen für die Einstellung als Sanitätsoffizier-Anwärterin oder Sanitätsoffizier-Anwärter und Einstellung mit einem höheren Dienstgrad
@@ -116,11 +116,11 @@ Beförderung der Sanitätsoffizier-Anwärterinnen und Sanitätsoffizier-Anwärte
 Voraussetzungen für die Einstellung als Sanitätsoffizier
 § 33
 Beförderung der Sanitätsoffiziere
-�
-�
-�
+
+
+
 Unterabschnitt 3
-�
+
 Militärmusikdienst
 § 34
 Voraussetzungen für die Einstellung als Militärmusikoffizier-Anwärterin oder Militärmusikoffizier-Anwärter
@@ -130,21 +130,21 @@ Beförderung der Militärmusikoffizier-Anwärterinnen und Militärmusikoffizier-
 Beförderung der Militärmusikoffiziere
 § 37
 Voraussetzungen für die Einstellung als Militärmusikoffizier
-�
-�
-�
+
+
+
 Unterabschnitt 4
-�
+
 Geoinformationsdienst der Bundeswehr
 § 38
 Einstellung und Beförderung der Offiziere
 § 39
 (weggefallen)
-�
-�
-�
+
+
+
 Unterabschnitt 5
-�
+
 Militärfachlicher Dienst
 § 40
 Voraussetzungen für die Zulassung
@@ -152,14 +152,14 @@ Voraussetzungen für die Zulassung
 Beförderung der Offizieranwärterinnen und Offizieranwärter
 § 42
 Beförderung der Offiziere
-�
-�
+
+
 Abschnitt 2
 Sonstige Soldatinnen und Soldaten (§ 1 Satz 1 Nummer 2 bis 7)
 § 43
 Beförderung, Zulassung zu einer Laufbahn der Reserve und Berufung in das Dienstverhältnis einer Berufssoldatin oder eines Berufssoldaten
-�
-�
+
+
 Kapitel 5
 Übergangs- und Schlussvorschriften
 § 44
@@ -327,7 +327,7 @@ Die Beförderung zum Oberstabsgefreiten setzt außerdem eine festgesetzte Dienst
 - 2. :: eine Hauptschule mit Erfolg besucht oder einen als gleichwertig anerkannten Bildungsstand erworben hat.
 
 (2) Als Anwärterin oder Anwärter für die Laufbahn der Fachunteroffiziere des Militärmusikdienstes darf in das Dienstverhältnis einer Soldatin auf Zeit oder eines Soldaten auf Zeit nur eingestellt werden, wer außerdem mindestens ein Orchesterinstrument oder ein Instrument des Spielmannszuges beherrscht.
-(3) Die Anwärterinnen und Anwärter führen im Schriftverkehr bis zu ihrer Beförderung zum Unteroffizier ihre Dienstgradbezeichnung mit dem Zusatz �(Unteroffizieranwärterin)“, �(Unteroffizieranwärter)“ oder �(UA)“.
+(3) Die Anwärterinnen und Anwärter führen im Schriftverkehr bis zu ihrer Beförderung zum Unteroffizier ihre Dienstgradbezeichnung mit dem Zusatz (Unteroffizieranwärterin)“, (Unteroffizieranwärter)“ oder (UA)“.
 
 § 12 - Beförderung der Unteroffizieranwärterinnen und Unteroffizieranwärter
 
@@ -360,7 +360,7 @@ Die Mannschaftsdienstgrade ab dem Dienstgrad Obergefreiter brauchen nicht durchl
 § 14 - Aufstieg aus der Laufbahngruppe der Mannschaften
 
 (1) Mannschaften aller Laufbahnen können zu einer Laufbahn der Fachunteroffiziere zugelassen werden, wenn sie sich in einem Gefreitendienstgrad befinden und eine Hauptschule mit Erfolg besucht oder einen als gleichwertig anerkannten Bildungsstand erworben haben.
-(2) Nach ihrer Zulassung führen sie im Schriftverkehr bis zu ihrer Beförderung zum Unteroffizier ihre Dienstgradbezeichnung mit dem Zusatz �(Unteroffizieranwärterin)“, �(Unteroffizieranwärter)“ oder �(UA)“.
+(2) Nach ihrer Zulassung führen sie im Schriftverkehr bis zu ihrer Beförderung zum Unteroffizier ihre Dienstgradbezeichnung mit dem Zusatz (Unteroffizieranwärterin)“, (Unteroffizieranwärter)“ oder (UA)“.
 
 § 15 - Voraussetzungen für die Einstellung als Feldwebelanwärterin oder Feldwebelanwärter
 
@@ -372,7 +372,7 @@ Die Mannschaftsdienstgrade ab dem Dienstgrad Obergefreiter brauchen nicht durchl
   - b) :: das Zeugnis über den erfolgreichen Besuch einer Realschule oder einen als gleichwertig anerkannten Bildungsstand besitzt.
 
 (2) Als Anwärterin oder Anwärter für die Laufbahn des Militärmusikdienstes darf in das Dienstverhältnis einer Soldatin auf Zeit oder eines Soldaten auf Zeit nur eingestellt werden, wer außerdem mindestens ein Orchesterinstrument beherrscht.
-(3) Die Anwärterinnen und Anwärter führen im Schriftverkehr bis zu ihrer Beförderung zum Feldwebel ihre Dienstgradbezeichnung mit dem Zusatz �(Feldwebelanwärterin)“, �(Feldwebelanwärter)“ oder �(FA)“.
+(3) Die Anwärterinnen und Anwärter führen im Schriftverkehr bis zu ihrer Beförderung zum Feldwebel ihre Dienstgradbezeichnung mit dem Zusatz (Feldwebelanwärterin)“, (Feldwebelanwärter)“ oder (FA)“.
 
 § 16 - Beförderung der Feldwebelanwärterinnen und Feldwebelanwärter
 
@@ -431,11 +431,11 @@ Liegen die Voraussetzungen des Satzes 1 vor, kann für eine militärfachliche Ve
 § 19 - Aufstieg aus der Laufbahngruppe der Mannschaften
 
 (1) Mannschaften aller Laufbahnen können zu einer Laufbahn der Feldwebel zugelassen werden, wenn sie sich in einem Gefreitendienstgrad befinden, eine Hauptschule mit Erfolg besucht oder einen als gleichwertig anerkannten Bildungsstand erworben haben und über einen förderlichen Berufsabschluss verfügen. Zugelassen werden kann auch, wer sich in einem Gefreitendienstgrad befindet und das Zeugnis über den erfolgreichen Besuch einer Realschule oder einen als gleichwertig anerkannten Bildungsstand besitzt.
-(2) Nach ihrer Zulassung führen sie im Schriftverkehr bis zu ihrer Beförderung zum Feldwebel ihre Dienstgradbezeichnung mit dem Zusatz �(Feldwebelanwärterin)“, �(Feldwebelanwärter)“ oder �(FA)“.
+(2) Nach ihrer Zulassung führen sie im Schriftverkehr bis zu ihrer Beförderung zum Feldwebel ihre Dienstgradbezeichnung mit dem Zusatz (Feldwebelanwärterin)“, (Feldwebelanwärter)“ oder (FA)“.
 
 § 20 - Zulassung zu einer Laufbahn der Feldwebel
 
-Fachunteroffiziere aller Laufbahnen können zu einer Laufbahn der Feldwebel zugelassen werden, wenn sie die Voraussetzungen des § 15 Absatz 1 Nummer 2 und im Militärmusikdienst au�(Feldwebelanwärterin)“, �(Feldwebelanwärter)“ oder �(FA)“.
+Fachunteroffiziere aller Laufbahnen können zu einer Laufbahn der Feldwebel zugelassen werden, wenn sie die Voraussetzungen des § 15 Absatz 1 Nummer 2 und im Militärmusikdienst au(Feldwebelanwärterin)“, (Feldwebelanwärter)“ oder (FA)“.
 
 § 21 - Umwandlung des Dienstverhältnisses
 
@@ -449,11 +449,11 @@ Das Dienstverhältnis einer Soldatin auf Zeit oder eines Soldaten auf Zeit kann 
 - 1. :: zu einer Laufbahn der Fachunteroffiziere der Reserve, wenn sie die Voraussetzungen des § 14 Absatz 1 erfüllen,
 - 2. :: zu einer Laufbahn der Feldwebel der Reserve, wenn sie die Voraussetzungen des § 19 Absatz 1 erfüllen.
 
-Nach der Zulassung zu einer Laufbahn der Fachunteroffiziere der Reserve führen sie im Schriftverkehr bis zu ihrer Beförderung zum Unteroffizier ihre Dienstgradbezeichnung mit dem Zusatz �(Reserveunteroffizier-Anwärterin)“, �(Reserveunteroffizier-Anwärter)“ oder �(RUA)“; nach der Zulassung zu einer Laufbahn der Feldwebel der Reserve führen sie im Schriftverkehr bis zu ihrer Beförderung zum Feldwebel ihre Dienstgradbezeichnung mit dem Zusatz �(Reservefeldwebel-Anwärterin)“, �(Reservefeldwebel-Anwärter)“ oder �(RFA)“. In den Laufbahnen der Fachunteroffiziere der Reserve ist vor der Beförderung zum Unteroffizier der Reserve eine Fachunteroffizierprüfung, in den Laufbahnen der Feldwebel der Reserve vor der Beförderung zum Feldwebel der Reserve eine Feldwebelprüfung mit Erfolg abzulegen. Weitere Beförderungen sind erst nach Ablauf einer Zeit zulässig, die für Soldatinnen und Soldaten im Dienstverhältnis einer Berufssoldatin, eines Berufssoldaten, einer Soldatin auf Zeit oder eines Soldaten auf Zeit als Dienstzeit für die Beförderung nach dieser Verordnung mindestens vorausgesetzt wird. Außerdem ist vor jeder Beförderung ein Wehrdienst von mindestens zwölf Tagen abzuleisten. Zeiten einer dienstlichen Veranstaltung nach § 81 des Soldatengesetzes werden auf den Wehrdienst nach Satz 5 nicht angerechnet. § 10 Absatz 2 Satz 4 gilt entsprechend.
+Nach der Zulassung zu einer Laufbahn der Fachunteroffiziere der Reserve führen sie im Schriftverkehr bis zu ihrer Beförderung zum Unteroffizier ihre Dienstgradbezeichnung mit dem Zusatz (Reserveunteroffizier-Anwärterin)“, (Reserveunteroffizier-Anwärter)“ oder (RUA)“; nach der Zulassung zu einer Laufbahn der Feldwebel der Reserve führen sie im Schriftverkehr bis zu ihrer Beförderung zum Feldwebel ihre Dienstgradbezeichnung mit dem Zusatz (Reservefeldwebel-Anwärterin)“, (Reservefeldwebel-Anwärter)“ oder (RFA)“. In den Laufbahnen der Fachunteroffiziere der Reserve ist vor der Beförderung zum Unteroffizier der Reserve eine Fachunteroffizierprüfung, in den Laufbahnen der Feldwebel der Reserve vor der Beförderung zum Feldwebel der Reserve eine Feldwebelprüfung mit Erfolg abzulegen. Weitere Beförderungen sind erst nach Ablauf einer Zeit zulässig, die für Soldatinnen und Soldaten im Dienstverhältnis einer Berufssoldatin, eines Berufssoldaten, einer Soldatin auf Zeit oder eines Soldaten auf Zeit als Dienstzeit für die Beförderung nach dieser Verordnung mindestens vorausgesetzt wird. Außerdem ist vor jeder Beförderung ein Wehrdienst von mindestens zwölf Tagen abzuleisten. Zeiten einer dienstlichen Veranstaltung nach § 81 des Soldatengesetzes werden auf den Wehrdienst nach Satz 5 nicht angerechnet. § 10 Absatz 2 Satz 4 gilt entsprechend.
 
 (3) Reserveunteroffiziere können in das Dienstverhältnis einer Berufssoldatin oder eines Berufssoldaten berufen werden, wenn sie mindestens den Dienstgrad eines Feldwebels erreicht, in ihrem Dienstgrad mindestens vier Monate Wehrdienst geleistet und sich dabei für ihre Berufung in das Dienstverhältnis einer Berufssoldatin oder eines Berufssoldaten als geeignet erwiesen haben. Für die Beförderungen im Dienstverhältnis einer Berufssoldatin oder eines Berufssoldaten ist die in der Bundeswehr tatsächlich geleistete Dienstzeit zugrunde zu legen.
 (4) Für die Berufung von Soldatinnen und Soldaten im Sinne des § 1 Satz 1 Nummer 2 bis 6, denen wegen ihrer besonderen Eignung für eine militärfachliche Verwendung der für ihre Dienststellung erforderliche Dienstgrad verliehen worden ist (§ 5 Absatz 3 Satz 1 Nummer 2), in das Dienstverhältnis einer Berufssoldatin oder eines Berufssoldaten gilt Absatz 3 Satz 1 entsprechend. Die Berufung ist nur mit Zustimmung des Bundespersonalausschusses zulässig.
-(5) § 13 Absatz 1 und § 17 Absatz 2 gelten entsprechend. Für Verwendungen im Truppendienst der Marine gilt dies mit der Ma�Kapitän auf Schiffen mit einem Bruttoraumgehalt von 6 000 Bruttoraumzahlen in der mittleren Fahrt“ treten kann. Der jeweilige Dienstgrad wird für die Dauer der Wehrdienstleistung vorläufig verliehen. Er kann nach einem Wehrdienst von mindestens zwölf Tagen endgültig verliehen werden. Zeiten einer dienstlichen Veranstaltung nach § 81 des Soldatengesetzes werden auf den Wehrdienst nach Satz 4 nicht angerechnet. § 10 Absatz 2 Satz 4 gilt entsprechend.
+(5) § 13 Absatz 1 und § 17 Absatz 2 gelten entsprechend. Für Verwendungen im Truppendienst der Marine gilt dies mit der MaKapitän auf Schiffen mit einem Bruttoraumgehalt von 6 000 Bruttoraumzahlen in der mittleren Fahrt“ treten kann. Der jeweilige Dienstgrad wird für die Dauer der Wehrdienstleistung vorläufig verliehen. Er kann nach einem Wehrdienst von mindestens zwölf Tagen endgültig verliehen werden. Zeiten einer dienstlichen Veranstaltung nach § 81 des Soldatengesetzes werden auf den Wehrdienst nach Satz 4 nicht angerechnet. § 10 Absatz 2 Satz 4 gilt entsprechend.
 
 § 23 - Voraussetzungen für die Einstellung als Offizieranwärterin oder Offizieranwärter
 
@@ -463,7 +463,7 @@ Nach der Zulassung zu einer Laufbahn der Fachunteroffiziere der Reserve führen 
 - 2. :: das Zeugnis der allgemeinen Hochschulreife, der fachgebundenen Hochschulreife, der Fachhochschulreife oder einen als gleichwertig anerkannten Bildungsstand besitzt.
 
 (2) Als Anwärterin oder Anwärter für die Laufbahn der Offiziere des Truppendienstes im Dienstverhältnis einer Soldatin auf Zeit oder eines Soldaten auf Zeit kann abweichend von Absatz 1 Nummer 2 auch eingestellt werden, wer das Zeugnis über den erfolgreichen Besuch einer Realschule oder einen als gleichwertig anerkannten Bildungsstand besitzt.
-(3) Die Anwärterinnen und Anwärter führen im Schriftverkehr bis zu ihrer Beförderung zum Fahnenjunker ihre Dienstgradbezeichnung mit dem Zusatz �(Offizieranwärterin)“, �(Offizieranwärter)“ oder �(OA)“.
+(3) Die Anwärterinnen und Anwärter führen im Schriftverkehr bis zu ihrer Beförderung zum Fahnenjunker ihre Dienstgradbezeichnung mit dem Zusatz (Offizieranwärterin)“, (Offizieranwärter)“ oder (OA)“.
 
 § 24 - Beförderung der Offizieranwärterinnen und Offizieranwärter
 
@@ -569,7 +569,7 @@ Bewerberinnen und Bewerber sind darauf hinzuweisen, dass sich die Frist für die
 § 29 - Aufstieg in die Laufbahn der Offiziere des Truppendienstes
 
 (1) Unteroffiziere aller Laufbahnen können zur Laufbahn der Offiziere des Truppendienstes zugelassen werden, wenn sie sich in einem Feldwebeldienstgrad befinden und an einem Auswahllehrgang erfolgreich teilgenommen haben.
-(2) Nach der Zulassung führen Feldwebel den Dienstgrad Fähnrich und Hauptfeldwebel den Dienstgrad Oberfähnrich. Ihre Dienstgradbezeichnung mit dem Zusatz �(Offizieranwärterin)“, �(Offizieranwärter)“ oder �(OA)“ führen im Schriftverkehr
+(2) Nach der Zulassung führen Feldwebel den Dienstgrad Fähnrich und Hauptfeldwebel den Dienstgrad Oberfähnrich. Ihre Dienstgradbezeichnung mit dem Zusatz (Offizieranwärterin)“, (Offizieranwärter)“ oder (OA)“ führen im Schriftverkehr
 
 - 1. :: Oberfeldwebel bis zu ihrer Beförderung zum Oberfähnrich,
 - 2. :: Stabsfeldwebel und Oberstabsfeldwebel bis zu ihrer Beförderung zum Offizier.
@@ -585,7 +585,7 @@ Bewerberinnen und Bewerber sind darauf hinzuweisen, dass sich die Frist für die
 - 3. :: sich für mindestens 15 Jahre zum Dienst in der Bundeswehr verpflichtet.
 
 (2) Als Anwärterin oder Anwärter für die Laufbahn der Offiziere des Sanitätsdienstes kann mit dem Dienstgrad Oberfähnrich auch eingestellt werden, wer den ersten Abschnitt der ärztlichen, zahnärztlichen, tierärztlichen oder pharmazeutischen Prüfung bestanden und sich für mindestens 13 Jahre zum Dienst in der Bundeswehr verpflichtet hat.
-(3) Die Anwärterinnen und Anwärter führen im Schriftverkehr ihre Dienstgradbezeichnung mit dem Zusatz �(Sanitätsoffizier-Anwärterin)“, �(Sanitätsoffizier-Anwärter)“ oder �(SanOA)“.
+(3) Die Anwärterinnen und Anwärter führen im Schriftverkehr ihre Dienstgradbezeichnung mit dem Zusatz (Sanitätsoffizier-Anwärterin)“, (Sanitätsoffizier-Anwärter)“ oder (SanOA)“.
 
 § 31 - Beförderung der Sanitätsoffizier-Anwärterinnen und Sanitätsoffizier-Anwärter
 
@@ -648,7 +648,7 @@ Beförderungen sind nach folgenden Dienstzeiten seit Ernennung zum Stabsarzt, St
 - 3. :: die Aufnahmeprüfung an einer Hochschule für Musik bestanden hat und
 - 4. :: sich für mindestens 15 Jahre zum Dienst in der Bundeswehr verpflichtet.
 
-(2) Die Anwärterinnen und Anwärter führen im Schriftverkehr ihre Dienstgradbezeichnung mit dem Zusatz �(Militärmusikoffizier-Anwärterin)“ oder �(Militärmusikoffizier-Anwärter)“ oder �(MilMusikOA)“.
+(2) Die Anwärterinnen und Anwärter führen im Schriftverkehr ihre Dienstgradbezeichnung mit dem Zusatz (Militärmusikoffizier-Anwärterin)“ oder (Militärmusikoffizier-Anwärter)“ oder (MilMusikOA)“.
 
 § 35 - Beförderung der Militärmusikoffizier-Anwärterinnen und Militärmusikoffizier-Anwärter
 
@@ -712,7 +712,7 @@ Beförderungen sind nach folgenden Dienstzeiten seit Ernennung zum Hauptmann zul
 - 2. :: mindestens den Dienstgrad eines Unteroffiziers erreicht hat und
 - 3. :: einen verwendungsbezogenen Eignungsnachweis erbracht hat.
 
-(3) Nach der Zulassung führen Unteroffiziere den Dienstgrad Fahnenjunker, Feldwebel den Dienstgrad Fähnrich und Hauptfeldwebel den Dienstgrad Oberfähnrich. Ihre Dienstgradbezeichnung mit dem Zusatz �(Offizieranwärterin)“ oder �(Offizieranwärter)“ oder �(OA)“ führen im Schriftverkehr
+(3) Nach der Zulassung führen Unteroffiziere den Dienstgrad Fahnenjunker, Feldwebel den Dienstgrad Fähnrich und Hauptfeldwebel den Dienstgrad Oberfähnrich. Ihre Dienstgradbezeichnung mit dem Zusatz (Offizieranwärterin)“ oder (Offizieranwärter)“ oder (OA)“ führen im Schriftverkehr
 
 - 1. :: Stabsunteroffiziere bis zu ihrer Beförderung zum Fähnrich,
 - 2. :: Oberfeldwebel bis zu ihrer Beförderung zum Oberfähnrich,
@@ -745,7 +745,7 @@ Voraussetzung für die Beförderung eines Stabsunteroffiziers zum Fähnrich und 
 - 1. :: mindestens einen Realschulabschluss oder einen als gleichwertig anerkannten Abschluss besitzen oder
 - 2. :: die Voraussetzungen des § 29 erfüllen, ohne dass ein Auswahllehrgang erforderlich ist.
 
-Die Anwärterinnen und Anwärter führen im Schriftverkehr ihre Dienstgradbezeichnung mit dem Zusatz �(Reserveoffizier-Anwärterin)“ oder �(Reserveoffizier-Anwärter)“ oder �(ROA)“. § 40 gilt entsprechend.
+Die Anwärterinnen und Anwärter führen im Schriftverkehr ihre Dienstgradbezeichnung mit dem Zusatz (Reserveoffizier-Anwärterin)“ oder (Reserveoffizier-Anwärter)“ oder (ROA)“. § 40 gilt entsprechend.
 
 (3) Die §§ 26, 27, 32, 37 und 38 gelten entsprechend. Der jeweilige Dienstgrad wird für die Dauer der Wehrdienstleistung vorläufig verliehen. Er kann nach einem Wehrdienst von mindestens 24 Tagen endgültig verliehen werden.
 (4) Für die Beförderung der Reserveoffizier-Anwärterinnen und Reserveoffizier-Anwärter, die Wehrdienst nach § 58b des Soldatengesetzes leisten oder in ein Dienstverhältnis als Soldatin auf Zeit oder Soldat auf Zeit berufen worden sind, gilt § 24 Absatz 1 entsprechend. Im Übrigen können sie jeweils nach einem Wehrdienst von mindestens 24 Tagen befördert werden, jedoch erst nach Ablauf einer Zeit, die nach Satz 1 als Dienstzeit vorausgesetzt wird. Vor der Beförderung zum Leutnant haben die Reserveoffizier-Anwärterinnen und Reserveoffizier-Anwärter eine Offizierprüfung mit Erfolg abzulegen. Bei Nichtbestehen können sie einmal zur Wiederholung der Prüfung zugelassen werden. Der Dienstgrad Oberfähnrich braucht nicht durchlaufen zu werden.

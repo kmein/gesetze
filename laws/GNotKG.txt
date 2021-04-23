@@ -6,39 +6,39 @@ Ausfertigungsdatum: 23.07.2013
 
 Inhaltsübersicht
 
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 § 1 - Geltungsbereich
 
@@ -1404,7 +1404,7 @@ Beschwerde gegen die Endentscheidung wegen des Hauptgegenstands
 
 11200
 
-Verfahren im Allgemeinen  ..........�
+Verfahren im Allgemeinen  ..........
 
 1,0
 
@@ -1423,14 +1423,14 @@ Rechtsbeschwerde gegen die Endentscheidung wegen des Hauptgegenstands
 
 11300
 
-Verfahren im Allgemeinen  ..........�
+Verfahren im Allgemeinen  ..........
 
 1,5
 
 11301
 
 Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags, bevor die Schrift zur Begründung der Beschwerde bei Gericht eingegangen ist:\\
-Die Gebühr 11300 ermäßigt sich auf  ..........�
+Die Gebühr 11300 ermäßigt sich auf  ..........
 
 \\
 \\
@@ -1440,7 +1440,7 @@ Die Gebühr 11300 ermäßigt sich auf  ..........�
 11302
 
 Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird, wenn nicht Nummer 11301 erfüllt ist:\\
-Die Gebühr 11300 ermäßigt sich auf  ..........�
+Die Gebühr 11300 ermäßigt sich auf  ..........
 
 \\
 \\
@@ -1454,7 +1454,7 @@ gegen die Endentscheidung wegen des Hauptgegenstands
 11400
 
 Verfahren über die Zulassung der Sprungrechtsbeschwerde:\\
-Soweit der Antrag abgelehnt wird  ..........�
+Soweit der Antrag abgelehnt wird  ..........
 
 \\
 0,5
@@ -1527,7 +1527,7 @@ Verfahren über den Antrag auf Erteilung eines Erbscheins oder eines Zeugnisses 
 Beendigung des gesamten Verfahrens\\
 1.  ohne Endentscheidung oder\\
 2. durch Zurücknahme des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird, wenn die Entscheidung nicht bereits durch Verlesen der Entscheidungsformel bekannt gegeben worden ist:\\
-Die Gebühr 12210 ermäßigt sich auf  ..........�
+Die Gebühr 12210 ermäßigt sich auf  ..........
 
 \\
 \\
@@ -1541,7 +1541,7 @@ Die Gebühr 12210 ermäßigt sich auf  ..........�
 12212
 
 Beendigung des Verfahrens ohne Erteilung des Erbscheins oder des Zeugnisses oder ohne Ausstellung des Europäischen Nachlasszeugnisses, wenn nicht Nummer 12211 erfüllt ist:\\
-Die Gebühr 12210 ermäßigt sich auf  ..........�
+Die Gebühr 12210 ermäßigt sich auf  ..........
 
 \\
 \\
@@ -1550,7 +1550,7 @@ Die Gebühr 12210 ermäßigt sich auf  ..........�
 
 12213
 
-Verfahren über den Antrag auf Erteilung eines weiteren Testamentsvollstreckerzeugnisses bezüglich desselben Nachlasses oder desselben Teils des Nachlasses  ..........�
+Verfahren über den Antrag auf Erteilung eines weiteren Testamentsvollstreckerzeugnisses bezüglich desselben Nachlasses oder desselben Teils des Nachlasses  ..........
 
 \\
 0,3
@@ -1558,7 +1558,7 @@ Verfahren über den Antrag auf Erteilung eines weiteren Testamentsvollstreckerze
 12214
 
 Beendigung des Verfahrens ohne Erteilung des Zeugnisses:\\
-Die Gebühr 12213 beträgt  ..........�
+Die Gebühr 12213 beträgt  ..........
 
 \\
 höchstens 200,00 €
@@ -1569,7 +1569,7 @@ Verfahren über die Einziehung oder Kraftloserklärung\\
 1. eines Erbscheins,\\
 2. eines Zeugnisses über die Fortsetzung der Gütergemeinschaft,\\
 3. eines Testamentsvollstreckerzeugnisses oder\\
-4. eines Zeugnisses nach § 36 oder § 37 der Grundbuchordnung oder nach § 42 auch i. V. m. § 74 der Schiffsregisterordnung  ..........�
+4. eines Zeugnisses nach § 36 oder § 37 der Grundbuchordnung oder nach § 42 auch i. V. m. § 74 der Schiffsregisterordnung  ..........
 
 \\
 \\
@@ -1581,14 +1581,14 @@ Verfahren über die Einziehung oder Kraftloserklärung\\
 
 12216
 
-Verfahren über den Widerruf eines Europäischen Nachlasszeugnisses  ..........�
+Verfahren über den Widerruf eines Europäischen Nachlasszeugnisses  ..........
 
 0,5\\
 -- höchstens 400,00 €
 
 12217
 
-Verfahren über die Änderung eines Europäischen Nachlasszeugnisses  ..........�
+Verfahren über die Änderung eines Europäischen Nachlasszeugnisses  ..........
 
 1,0
 
@@ -1606,7 +1606,7 @@ Beschwerde gegen die Endentscheidung wegen des Hauptgegenstands
 
 12220
 
-Verfahren im Allgemeinen  ..........�
+Verfahren im Allgemeinen  ..........
 
 1,0\\
 -- höchstens 800,00 €
@@ -1614,7 +1614,7 @@ Verfahren im Allgemeinen  ..........�
 12221
 
 Beendigung des gesamten Verfahrens durch Zurücknahme der Beschwerde oder des Antrags, bevor die Schrift zur Begründung der Beschwerde bei Gericht eingegangen ist:\\
-Die Gebühr 12220 ermäßigt sich auf  ..........�
+Die Gebühr 12220 ermäßigt sich auf  ..........
 
 \\
 \\
@@ -1639,7 +1639,7 @@ Rechtsbeschwerde gegen die Endentscheidung wegen des Hauptgegenstands
 
 12230
 
-Verfahren im Allgemeinen  ..........�
+Verfahren im Allgemeinen  ..........
 
 1,5\\
 -- höchstens 1 200,00 €
@@ -1647,7 +1647,7 @@ Verfahren im Allgemeinen  ..........�
 12231
 
 Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags, bevor die Schrift zur Begründung der Beschwerde bei Gericht eingegangen ist:\\
-Die Gebühr 12230 ermäßigt sich auf  ..........�
+Die Gebühr 12230 ermäßigt sich auf  ..........
 
 \\
 \\
@@ -1658,7 +1658,7 @@ Die Gebühr 12230 ermäßigt sich auf  ..........�
 12232
 
 Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird, wenn nicht Nummer 12231 erfüllt ist:\\
-Die Gebühr 12230 ermäßigt sich auf  ..........�
+Die Gebühr 12230 ermäßigt sich auf  ..........
 
 \\
 \\
@@ -1672,7 +1672,7 @@ Zulassung der Sprungrechtsbeschwerde gegen die Endentscheidung wegen des Hauptge
 12240
 
 Verfahren über die Zulassung der Sprungrechtsbeschwerde:\\
-Soweit der Antrag abgelehnt wird:  ..........�
+Soweit der Antrag abgelehnt wird:  ..........
 
 \\
 0,5\\
@@ -1736,7 +1736,7 @@ Beschwerde gegen die Endentscheidung wegen des Hauptgegenstands
 
 12320
 
-Verfahren im Allgemeinen  ..........�
+Verfahren im Allgemeinen  ..........
 
 1,0
 
@@ -1755,14 +1755,14 @@ Rechtsbeschwerde gegen die Endentscheidung wegen des Hauptgegenstands
 
 12330
 
-Verfahren im Allgemeinen  ..........�
+Verfahren im Allgemeinen  ..........
 
 1,5
 
 12331
 
 Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags, bevor die Schrift zur Begründung der Beschwerde bei Gericht eingegangen ist:\\
-Die Gebühr 12330 ermäßigt sich auf  ..........�
+Die Gebühr 12330 ermäßigt sich auf  ..........
 
 \\
 \\
@@ -1772,7 +1772,7 @@ Die Gebühr 12330 ermäßigt sich auf  ..........�
 12332
 
 Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird, wenn nicht Nummer 12331 erfüllt ist:\\
-Die Gebühr 12330 ermäßigt sich auf  ..........�
+Die Gebühr 12330 ermäßigt sich auf  ..........
 
 \\
 \\
@@ -1785,7 +1785,7 @@ Zulassung der Sprungrechtsbeschwerde gegen die Endentscheidung wegen des Hauptge
 12340
 
 Verfahren über die Zulassung der Sprungrechtsbeschwerde:\\
-Soweit der Antrag abgelehnt wird:  ..........�
+Soweit der Antrag abgelehnt wird:  ..........
 
 \\
 0,5
@@ -1822,7 +1822,7 @@ Verfahren über\\
 2. die Bestimmung einer Inventarfrist,\\
 3. die Bestimmung einer neuen Inventarfrist,\\
 4. die Verlängerung der Inventarfrist oder\\
-5. eine Fristbestimmung, die eine Testamentsvollstreckung betrifft  ..........�
+5. eine Fristbestimmung, die eine Testamentsvollstreckung betrifft  ..........
 
 \\
 \\
@@ -1833,7 +1833,7 @@ Verfahren über\\
 
 12412
 
-Verfahren über den Antrag des Erben, einen Notar mit der amtlichen Aufnahme des Nachlassinventars zu beauftragen  ..........�
+Verfahren über den Antrag des Erben, einen Notar mit der amtlichen Aufnahme des Nachlassinventars zu beauftragen  ..........
 
 40,00 €
 
@@ -1851,14 +1851,14 @@ Vorbemerkung 1.2.4.2:\\
 
 12420
 
-Verfahren über die Ernennung oder Entlassung von Testamentsvollstreckern und über sonstige anlässlich einer Testamentsvollstreckung zu treffenden Anordnungen  ..........�
+Verfahren über die Ernennung oder Entlassung von Testamentsvollstreckern und über sonstige anlässlich einer Testamentsvollstreckung zu treffenden Anordnungen  ..........
 
 \\
 0,5
 
 12421
 
-Verfahren über die Beschwerde gegen die Endentscheidung wegen des Hauptgegenstands  ..........�
+Verfahren über die Beschwerde gegen die Endentscheidung wegen des Hauptgegenstands  ..........
 
 \\
 1,0
@@ -1875,7 +1875,7 @@ Die Gebühr 12421 ermäßigt sich auf  .......... \\
 
 12425
 
-Verfahren über die Rechtsbeschwerde gegen die Endentscheidung wegen des Hauptgegenstands  ..........�
+Verfahren über die Rechtsbeschwerde gegen die Endentscheidung wegen des Hauptgegenstands  ..........
 
 \\
 1,5
@@ -1883,7 +1883,7 @@ Verfahren über die Rechtsbeschwerde gegen die Endentscheidung wegen des Hauptge
 12426
 
 Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags, bevor die Schrift zur Begründung der Beschwerde bei Gericht eingegangen ist:\\
-Die Gebühr 12425 ermäßigt sich auf  ..........�
+Die Gebühr 12425 ermäßigt sich auf  ..........
 
 \\
 \\
@@ -1893,7 +1893,7 @@ Die Gebühr 12425 ermäßigt sich auf  ..........�
 12427
 
 Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird, wenn nicht Nummer 12426 erfüllt ist:\\
-Die Gebühr 12425 ermäßigt sich auf  ..........�
+Die Gebühr 12425 ermäßigt sich auf  ..........
 
 \\
 \\
@@ -1903,7 +1903,7 @@ Die Gebühr 12425 ermäßigt sich auf  ..........�
 12428
 
 Verfahren über die Zulassung der Sprungrechtsbeschwerde:\\
-Soweit der Antrag abgelehnt wird:  ..........�
+Soweit der Antrag abgelehnt wird:  ..........
 
 \\
 0,5
@@ -1919,7 +1919,7 @@ Stundung des Pflichtteilsanspruchs
 
 12520
 
-Verfahren im Allgemeinen  ..........�
+Verfahren im Allgemeinen  ..........
 
 2,0
 
@@ -1949,14 +1949,14 @@ Beschwerde gegen die Endentscheidung wegen des Hauptgegenstands
 
 12530
 
-Verfahren im Allgemeinen  ..........�
+Verfahren im Allgemeinen  ..........
 
 3,0
 
 12531
 
 Beendigung des gesamten Verfahrens durch Zurücknahme der Beschwerde oder des Antrags, bevor die Schrift zur Begründung der Beschwerde bei Gericht eingegangen ist:\\
-Die Gebühr 12530 ermäßigt sich auf  ..........�
+Die Gebühr 12530 ermäßigt sich auf  ..........
 
 \\
 \\
@@ -1979,14 +1979,14 @@ Rechtsbeschwerde gegen die Endentscheidung wegen des Hauptgegenstands
 
 12540
 
-Verfahren im Allgemeinen  ..........�
+Verfahren im Allgemeinen  ..........
 
 4,0
 
 12541
 
 Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags, bevor die Schrift zur Begründung der Beschwerde bei Gericht eingegangen ist:\\
-Die Gebühr 12540 ermäßigt sich auf  ..........�
+Die Gebühr 12540 ermäßigt sich auf  ..........
 
 \\
 \\
@@ -1996,7 +1996,7 @@ Die Gebühr 12540 ermäßigt sich auf  ..........�
 12542
 
 Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird, wenn nicht Nummer 12541 erfüllt ist:\\
-Die Gebühr 12540 ermäßigt sich auf  ..........�
+Die Gebühr 12540 ermäßigt sich auf  ..........
 
 \\
 \\
@@ -2009,7 +2009,7 @@ Zulassung der Sprungrechtsbeschwerde gegen die Endentscheidung wegen des Hauptge
 12550
 
 Verfahren über die Zulassung der Sprungrechtsbeschwerde:\\
-Soweit der Antrag abgelehnt wird:  ..........�
+Soweit der Antrag abgelehnt wird:  ..........
 
 \\
 1,0
@@ -2032,7 +2032,7 @@ Vereinsregistersachen
 
 13100
 
-Verfahren über die Ersteintragung in das Vereinsregister  ..........�
+Verfahren über die Ersteintragung in das Vereinsregister  ..........
 
  75,00 €
 
@@ -2062,7 +2062,7 @@ Verfahren über die Eintragung aufgrund eines Ehe- oder Lebenspartnerschaftsvert
 
 13201
 
-Verfahren über sonstige Eintragungen  ..........�
+Verfahren über sonstige Eintragungen  ..........
 
  50,00 €
 
@@ -2075,14 +2075,14 @@ Erster Rechtszug
 13310
 
 Festsetzung von Zwangs- oder Ordnungsgeld:\\
-je Festsetzung  ..........�
+je Festsetzung  ..........
 
 \\
 100,00 €
 
 13311
 
-Verwerfung des Einspruchs  ..........�
+Verwerfung des Einspruchs  ..........
 
 100,00 €
 
@@ -2101,7 +2101,7 @@ Die Beschwerde wird verworfen oder zurückgewiesen  .......... \\
 13321
 
 Verfahren im Allgemeinen:\\
-Beendigung des gesamten Verfahrens durch Zurücknahme der Beschwerde oder des Antrags, bevor die Schrift zur Begründung der Beschwerde bei Gericht eingegangen ist  ..........�
+Beendigung des gesamten Verfahrens durch Zurücknahme der Beschwerde oder des Antrags, bevor die Schrift zur Begründung der Beschwerde bei Gericht eingegangen ist  ..........
 
 \\
 \\
@@ -2111,7 +2111,7 @@ Beendigung des gesamten Verfahrens durch Zurücknahme der Beschwerde oder des An
 13322
 
 Verfahren im Allgemeinen:\\
-Beendigung des gesamten Verfahrens durch Zurücknahme der Beschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird, wenn die Entscheidung nicht bereits durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, oder wenn nicht Nummer 13321 erfüllt ist  ..........�
+Beendigung des gesamten Verfahrens durch Zurücknahme der Beschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird, wenn die Entscheidung nicht bereits durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, oder wenn nicht Nummer 13321 erfüllt ist  ..........
 
 \\
 \\
@@ -2134,7 +2134,7 @@ Die Rechtsbeschwerde wird verworfen oder zurückgewiesen  .......... \\
 13331
 
 Verfahren im Allgemeinen:\\
-Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags, bevor die Schrift zur Begründung der Beschwerde bei Gericht eingegangen ist  ..........�
+Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags, bevor die Schrift zur Begründung der Beschwerde bei Gericht eingegangen ist  ..........
 
 \\
 \\
@@ -2144,7 +2144,7 @@ Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder 
 13332
 
 Verfahren im Allgemeinen:\\
-Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird, wenn nicht Nummer 13331 erfüllt ist  ..........�
+Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird, wenn nicht Nummer 13331 erfüllt ist  ..........
 
 \\
 \\
@@ -2160,7 +2160,7 @@ Löschungs- und Auflösungsverfahren sowie Verfahren\\
 Verfahren über\\
 1. den Widerspruch gegen eine beabsichtigte Löschung (§§ 393 bis 398 FamFG),\\
 2. den Widerspruch gegen die beabsichtigte Feststellung eines Mangels der Satzung oder des Gesellschaftsvertrages (§ 399 FamFG) oder\\
-3. die Entziehung der Rechtsfähigkeit eines Vereins  ..........�
+3. die Entziehung der Rechtsfähigkeit eines Vereins  ..........
 
 \\
 \\
@@ -2202,7 +2202,7 @@ Verfahren im Allgemeinen  .......... \\
 13501
 
 Soweit das Verfahren zum Zweck der Verhandlung über die Dispache ohne deren Bestätigung beendet wird:\\
-Die Gebühr 13500 ermäßigt sich auf  ..........�
+Die Gebühr 13500 ermäßigt sich auf  ..........
 
 \\
 \\
@@ -2211,7 +2211,7 @@ Die Gebühr 13500 ermäßigt sich auf  ..........�
 13502
 
 Soweit das Verfahren zum Zweck der Verhandlung über die Dispache vor Eintritt in die Verhandlung durch Zurücknahme des Antrags oder auf andere Weise erledigt wird:\\
-Die Gebühr 13500 ermäßigt sich auf  ..........�
+Die Gebühr 13500 ermäßigt sich auf  ..........
 
 \\
 \\
@@ -2220,7 +2220,7 @@ Die Gebühr 13500 ermäßigt sich auf  ..........�
 13503
 
 Soweit im Verfahren nach dem SpruchG lediglich ein Beschluss nach § 11 Abs. 4 Satz 2 SpruchG ergeht:\\
-Die Gebühr 13500 ermäßigt sich auf  ..........�
+Die Gebühr 13500 ermäßigt sich auf  ..........
 
 \\
 \\
@@ -2231,7 +2231,7 @@ Die Gebühr 13500 ermäßigt sich auf  ..........�
 Beendigung des gesamten Verfahrens, soweit nicht die Nummer 13501 oder 13502 anzuwenden ist,\\
 1. ohne Endentscheidung,\\
 2. durch Zurücknahme des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt oder ohne Beteiligung der Geschäftsstelle bekannt gegeben wird, wenn sie nicht bereits durch Verlesen der Entscheidungsformel bekannt gegeben worden ist:\\
-Die Gebühr 13500 ermäßigt sich auf  ..........�
+Die Gebühr 13500 ermäßigt sich auf  ..........
 
 \\
 \\
@@ -2251,14 +2251,14 @@ Beschwerde gegen die Endentscheidung wegen des Hauptgegenstands
 
 13610
 
-Verfahren im Allgemeinen  ..........�
+Verfahren im Allgemeinen  ..........
 
 3,0
 
 13611
 
 Beendigung des gesamten Verfahrens durch Zurücknahme der Beschwerde oder des Antrags, bevor die Schrift zur Begründung der Beschwerde bei Gericht eingegangen ist:\\
-Die Gebühr 13610 ermäßigt sich auf  ..........�
+Die Gebühr 13610 ermäßigt sich auf  ..........
 
 \\
 \\
@@ -2281,14 +2281,14 @@ Rechtsbeschwerde gegen die Endentscheidung wegen des Hauptgegenstands
 
 13620
 
-Verfahren im Allgemeinen  ..........�
+Verfahren im Allgemeinen  ..........
 
 4,0
 
 13621
 
 Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags, bevor die Schrift zur Begründung der Beschwerde bei Gericht eingegangen ist:\\
-Die Gebühr 13620 ermäßigt sich auf  ..........�
+Die Gebühr 13620 ermäßigt sich auf  ..........
 
 \\
 \\
@@ -2298,7 +2298,7 @@ Die Gebühr 13620 ermäßigt sich auf  ..........�
 13622
 
 Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird, wenn nicht Nummer 13621 erfüllt ist:\\
-Die Gebühr 13620 ermäßigt sich auf  ..........�
+Die Gebühr 13620 ermäßigt sich auf  ..........
 
 \\
 \\
@@ -2311,7 +2311,7 @@ Zulassung der Sprungrechtsbeschwerde gegen die Endentscheidung wegen des Hauptge
 13630
 
 Verfahren über die Zulassung der Sprungrechtsbeschwerde:\\
-Soweit der Antrag abgelehnt wird:  ..........�
+Soweit der Antrag abgelehnt wird:  ..........
 
 \\
 1,0
@@ -2373,7 +2373,7 @@ Die Gebühr 14110 beträgt  .......... \\
 
 14112
 
-Eintragung der vertraglichen Einräumung von Sondereigentum oder Anlegung der Wohnungs- oder Teileigentumsgrundbücher im Fall des § 8 WEG  ..........�
+Eintragung der vertraglichen Einräumung von Sondereigentum oder Anlegung der Wohnungs- oder Teileigentumsgrundbücher im Fall des § 8 WEG  ..........
 
 \\
 1,0
@@ -2386,13 +2386,13 @@ Vorbemerkung 1.4.1.2:\\
 
 14120
 
-Eintragung einer Briefhypothek, Briefgrundschuld oder Briefrentenschuld  ..........�
+Eintragung einer Briefhypothek, Briefgrundschuld oder Briefrentenschuld  ..........
 
 1,3
 
 14121
 
-Eintragung eines sonstigen Rechts  ..........�
+Eintragung eines sonstigen Rechts  ..........
 
 1,0
 
@@ -2409,7 +2409,7 @@ Die Gebühren 14120 und 14121 erhöhen sich ab dem zweiten für jedes weitere be
 
 14123
 
-Eintragung eines Rechts, das bereits an einem anderen Grundstück besteht, wenn nicht die Nummer 14122 anzuwenden ist  ..........�
+Eintragung eines Rechts, das bereits an einem anderen Grundstück besteht, wenn nicht die Nummer 14122 anzuwenden ist  ..........
 
 \\
 0,5
@@ -2424,7 +2424,7 @@ Nachträgliche Erteilung eines Hypotheken-, Grundschuld- oder Rentenschuldbriefs
 
 14125
 
-Ergänzung des Inhalts eines Hypotheken-, Grundschuld- oder Rentenschuldbriefs, die auf Antrag vorgenommen wird (§ 57 Abs. 2 und § 70 der Grundbuchordnung)  ..........�
+Ergänzung des Inhalts eines Hypotheken-, Grundschuld- oder Rentenschuldbriefs, die auf Antrag vorgenommen wird (§ 57 Abs. 2 und § 70 der Grundbuchordnung)  ..........
 
 \\
 25,00 €
@@ -2456,7 +2456,7 @@ Vorbemerkung 1.4.1.4:\\
 
 14140
 
-Löschung in Abteilung III des Grundbuchs  ..........�
+Löschung in Abteilung III des Grundbuchs  ..........
 
 0,5
 
@@ -2473,13 +2473,13 @@ Die Gebühr 14140 erhöht sich ab dem zweiten für jedes weitere beteiligte Grun
 
 14142
 
-Eintragung der Entlassung aus der Mithaft  ..........�
+Eintragung der Entlassung aus der Mithaft  ..........
 
 0,3
 
 14143
 
-Löschung im Übrigen  ..........�
+Löschung im Übrigen  ..........
 
 25,00 €
 
@@ -2488,19 +2488,19 @@ Vormerkungen und Widersprüche
 
 14150
 
-Eintragung einer Vormerkung  ..........�
+Eintragung einer Vormerkung  ..........
 
 0,5
 
 14151
 
-Eintragung eines Widerspruchs  ..........�
+Eintragung eines Widerspruchs  ..........
 
 50,00 €
 
 14152
 
-Löschung einer Vormerkung  ..........�
+Löschung einer Vormerkung  ..........
 
 25,00 €
 
@@ -2527,20 +2527,20 @@ Registrierung des Schiffs und Eigentum
 
 14210
 
-Eintragung eines Schiffs  ..........�
+Eintragung eines Schiffs  ..........
 
 1,0
 
 14211
 
-Löschung der Eintragung eines Schiffs, dessen Anmeldung dem Eigentümer freisteht, auf Antrag des Eigentümers (§ 20 Abs. 2 Satz 2 der Schiffsregisterordnung)  ..........�
+Löschung der Eintragung eines Schiffs, dessen Anmeldung dem Eigentümer freisteht, auf Antrag des Eigentümers (§ 20 Abs. 2 Satz 2 der Schiffsregisterordnung)  ..........
 
 \\
 50,00 €
 
 14212
 
-Löschung der Eintragung eines Schiffsbauwerks auf Antrag des Eigentümers des Schiffsbauwerks und des Inhabers der Schiffswerft, ohne dass die Löschung ihren Grund in der Ablieferung des Bauwerks ins Ausland oder im Untergang des Bauwerks hat  ..........�
+Löschung der Eintragung eines Schiffsbauwerks auf Antrag des Eigentümers des Schiffsbauwerks und des Inhabers der Schiffswerft, ohne dass die Löschung ihren Grund in der Ablieferung des Bauwerks ins Ausland oder im Untergang des Bauwerks hat  ..........
 
 \\
 \\
@@ -2549,7 +2549,7 @@ Löschung der Eintragung eines Schiffsbauwerks auf Antrag des Eigentümers des S
 
 14213
 
-Eintragung eines neuen Eigentümers  ..........�
+Eintragung eines neuen Eigentümers  ..........
 
 1,0
 
@@ -2561,7 +2561,7 @@ Vorbemerkung 1.4.2.2:\\
 
 14220
 
-Eintragung einer Schiffshypothek, eines Arrestpfandrechts oder eines Nießbrauchs  ..........�
+Eintragung einer Schiffshypothek, eines Arrestpfandrechts oder eines Nießbrauchs  ..........
 
 1,0
 
@@ -2577,7 +2577,7 @@ Die Gebühr 14220 erhöht sich ab dem zweiten Gericht für jedes beteiligte Geri
 
 14222
 
-Eintragung eines Rechts, das bereits an einem anderen Schiff oder Schiffsbauwerk besteht, wenn nicht die Nummer 14221 anzuwenden ist  ..........�
+Eintragung eines Rechts, das bereits an einem anderen Schiff oder Schiffsbauwerk besteht, wenn nicht die Nummer 14221 anzuwenden ist  ..........
 
 \\
 0,5
@@ -2587,7 +2587,7 @@ Veränderungen
 
 14230
 
-Eintragung einer Veränderung, die sich auf eine Schiffshypothek, ein Arrestpfandrecht oder einen Nießbrauch bezieht  ..........�
+Eintragung einer Veränderung, die sich auf eine Schiffshypothek, ein Arrestpfandrecht oder einen Nießbrauch bezieht  ..........
 
 \\
 0,5
@@ -2605,7 +2605,7 @@ Löschung und Entlassung aus der Mithaft
 
 14240
 
-Löschung einer Schiffshypothek, eines Arrestpfandrechts oder eines Nießbrauchs  ..........�
+Löschung einer Schiffshypothek, eines Arrestpfandrechts oder eines Nießbrauchs  ..........
 
 0,5
 
@@ -2621,7 +2621,7 @@ Die Gebühr 14240 erhöht sich ab dem zweiten für jedes weitere beteiligte Geri
 
 14242
 
-Eintragung der Entlassung aus der Mithaft  ..........�
+Eintragung der Entlassung aus der Mithaft  ..........
 
 0,3
 
@@ -2630,19 +2630,19 @@ Vormerkungen und Widersprüche
 
 14250
 
-Eintragung einer Vormerkung  ..........�
+Eintragung einer Vormerkung  ..........
 
 0,5
 
 14251
 
-Eintragung eines Widerspruchs  ..........�
+Eintragung eines Widerspruchs  ..........
 
 50,00 €
 
 14252
 
-Löschung einer Vormerkung  ..........�
+Löschung einer Vormerkung  ..........
 
 25,00 €
 
@@ -2651,13 +2651,13 @@ Schiffsurkunden
 
 14260
 
-Erteilung des Schiffszertifikats oder des Schiffsbriefs  ..........�
+Erteilung des Schiffszertifikats oder des Schiffsbriefs  ..........
 
 25,00 €
 
 14261
 
-Vermerk von Veränderungen auf dem Schiffszertifikat oder dem Schiffsbrief  ..........�
+Vermerk von Veränderungen auf dem Schiffszertifikat oder dem Schiffsbrief  ..........
 
 25,00 €
 
@@ -2669,13 +2669,13 @@ Belastungen
 
 14310
 
-Eintragung eines Registerpfandrechts  ..........�
+Eintragung eines Registerpfandrechts  ..........
 
 1,0
 
 14311
 
-Eintragung eines Registerpfandrechts, das bereits an einem anderen Luftfahrzeug besteht  ..........�
+Eintragung eines Registerpfandrechts, das bereits an einem anderen Luftfahrzeug besteht  ..........
 
 \\
 0,5
@@ -2685,7 +2685,7 @@ Veränderungen
 
 14320
 
-Eintragung der Veränderung eines Registerpfandrechts  ..........�
+Eintragung der Veränderung eines Registerpfandrechts  ..........
 
 0,5
 
@@ -2694,13 +2694,13 @@ Löschung und Entlassung aus der Mithaft
 
 14330
 
-Löschung eines Registerpfandrechts  ..........�
+Löschung eines Registerpfandrechts  ..........
 
 0,5
 
 14331
 
-Eintragung der Entlassung aus der Mithaft  ..........�
+Eintragung der Entlassung aus der Mithaft  ..........
 
 0,3
 
@@ -2709,19 +2709,19 @@ Vormerkungen und Widersprüche
 
 14340
 
-Eintragung einer Vormerkung  ..........�
+Eintragung einer Vormerkung  ..........
 
 0,5
 
 14341
 
-Eintragung eines Widerspruchs  ..........�
+Eintragung eines Widerspruchs  ..........
 
 50,00 €
 
 14342
 
-Löschung einer Vormerkung  ..........�
+Löschung einer Vormerkung  ..........
 
 25,00 €
 
@@ -2771,7 +2771,7 @@ Beschwerde gegen die Endentscheidung wegen des Hauptgegenstands
 14510
 
 Verfahren im Allgemeinen:\\
-Soweit die Beschwerde verworfen oder zurückgewiesen wird  ..........�
+Soweit die Beschwerde verworfen oder zurückgewiesen wird  ..........
 
 \\
 1,0\\
@@ -2793,7 +2793,7 @@ Rechtsbeschwerde gegen die Endentscheidung wegen des Hauptgegenstands
 14520
 
 Verfahren im Allgemeinen:\\
-Soweit die Rechtsbeschwerde verworfen oder zurückgewiesen wird  ..........�
+Soweit die Rechtsbeschwerde verworfen oder zurückgewiesen wird  ..........
 
 \\
 1,5\\
@@ -2802,7 +2802,7 @@ Soweit die Rechtsbeschwerde verworfen oder zurückgewiesen wird  ..........�
 14521
 
 Verfahren im Allgemeinen:\\
-Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags, bevor die Schrift zur Begründung der Beschwerde bei Gericht eingegangen ist  ..........�
+Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags, bevor die Schrift zur Begründung der Beschwerde bei Gericht eingegangen ist  ..........
 
 \\
 \\
@@ -2813,7 +2813,7 @@ Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder 
 14522
 
 Verfahren im Allgemeinen:\\
-Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird, wenn nicht Nummer 14521 erfüllt ist:  ..........�
+Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird, wenn nicht Nummer 14521 erfüllt ist:  ..........
 
 \\
 \\
@@ -2827,7 +2827,7 @@ Zulassung der Sprungrechtsbeschwerde gegen die Endentscheidung wegen des Hauptge
 14530
 
 Verfahren über die Zulassung der Sprungrechtsbeschwerde:\\
-Soweit der Antrag abgelehnt wird:  ..........�
+Soweit der Antrag abgelehnt wird:  ..........
 
 \\
 0,5\\
@@ -2868,7 +2868,7 @@ Verfahren\\
 2. über Feststellungen nach § 11 Abs. 1 Buchstabe g HöfeVfO,\\
 3. zur Regelung und Entscheidung der mit dem Hofübergang zusammenhängenden Fragen im Fall des § 14 Abs. 3 HöfeO,\\
 4. über sonstige Anträge und Streitigkeiten nach § 18 Abs. 1 HöfeO und nach § 25 HöfeVfO und\\
-5. Verfahren nach dem LwAnpG, soweit nach § 65 Abs. 2 LwAnpG die Vorschriften des Zweiten Abschnitts des Gesetzes über das gerichtliche Verfahren in Landwirtschaftssachen entsprechend anzuwenden sind  ..........�
+5. Verfahren nach dem LwAnpG, soweit nach § 65 Abs. 2 LwAnpG die Vorschriften des Zweiten Abschnitts des Gesetzes über das gerichtliche Verfahren in Landwirtschaftssachen entsprechend anzuwenden sind  ..........
 
 \\
 \\
@@ -2887,7 +2887,7 @@ Verfahren\\
 Beendigung des gesamten Verfahrens\\
 1. ohne Endentscheidung,\\
 2. durch Zurücknahme des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird, wenn die Entscheidung nicht bereits durch Verlesen der Entscheidungsformel bekannt gegeben worden ist:\\
-Die Gebühr 15110 ermäßigt sich auf  ..........�
+Die Gebühr 15110 ermäßigt sich auf  ..........
 
 \\
 \\
@@ -2913,14 +2913,14 @@ Beschwerde gegen die Endentscheidung wegen des Hauptgegenstands
 
 15120
 
-Verfahren über die Beschwerde in den in Nummer 15110 genannten Verfahren  ..........�
+Verfahren über die Beschwerde in den in Nummer 15110 genannten Verfahren  ..........
 
 3,0
 
 15121
 
 Beendigung des gesamten Verfahrens durch Zurücknahme der Beschwerde oder des Antrags, bevor die Schrift zur Begründung der Beschwerde bei Gericht eingegangen ist:\\
-Die Gebühr 15120 ermäßigt sich auf  ..........�
+Die Gebühr 15120 ermäßigt sich auf  ..........
 
 \\
 \\
@@ -2940,14 +2940,14 @@ Die Gebühr 15120 ermäßigt sich auf  .......... \\
 
 15123
 
-Verfahren über die Beschwerde in den in Nummer 15112 genannten Verfahren  ..........�
+Verfahren über die Beschwerde in den in Nummer 15112 genannten Verfahren  ..........
 
 1,0
 
 15124
 
 Beendigung des gesamten Verfahrens durch Zurücknahme der Beschwerde oder des Antrags, bevor die Schrift zur Begründung der Beschwerde bei Gericht eingegangen ist:\\
-Die Gebühr 15123 ermäßigt sich auf  ..........�
+Die Gebühr 15123 ermäßigt sich auf  ..........
 
 \\
 \\
@@ -2970,14 +2970,14 @@ Rechtsbeschwerde gegen die Endentscheidung wegen des Hauptgegenstands
 
 15130
 
-Verfahren über die Rechtsbeschwerde in den in Nummer 15110 genannten Verfahren  ..........�
+Verfahren über die Rechtsbeschwerde in den in Nummer 15110 genannten Verfahren  ..........
 
 4,0
 
 15131
 
 Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags, bevor die Schrift zur Begründung der Beschwerde bei Gericht eingegangen ist:\\
-Die Gebühr 15130 ermäßigt sich auf  ..........�
+Die Gebühr 15130 ermäßigt sich auf  ..........
 
 \\
 \\
@@ -2987,7 +2987,7 @@ Die Gebühr 15130 ermäßigt sich auf  ..........�
 15132
 
 Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird, wenn nicht Nummer 15131 erfüllt ist:\\
-Die Gebühr 15130 ermäßigt sich auf  ..........�
+Die Gebühr 15130 ermäßigt sich auf  ..........
 
 \\
 \\
@@ -2997,7 +2997,7 @@ Die Gebühr 15130 ermäßigt sich auf  ..........�
 15133
 
 Verfahren über die Rechtsbeschwerde in den in Nummer 15112 genannten\\
-Verfahren  ..........�
+Verfahren  ..........
 
 \\
 1,5
@@ -3005,7 +3005,7 @@ Verfahren  ..........�
 15134
 
 Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags, bevor die Schrift zur Begründung der Beschwerde bei Gericht eingegangen ist:\\
-Die Gebühr 15133 ermäßigt sich auf  ..........�
+Die Gebühr 15133 ermäßigt sich auf  ..........
 
 \\
 \\
@@ -3015,7 +3015,7 @@ Die Gebühr 15133 ermäßigt sich auf  ..........�
 15135
 
 Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird, wenn nicht Nummer 15134 erfüllt ist:\\
-Die Gebühr 15133 ermäßigt sich auf  ..........�
+Die Gebühr 15133 ermäßigt sich auf  ..........
 
 \\
 \\
@@ -3028,7 +3028,7 @@ Zulassung der Sprungrechtsbeschwerde gegen die Endentscheidung wegen des Hauptge
 15140
 
 Verfahren über die Zulassung der Sprungrechtsbeschwerde in den in Nummer 15110 genannten Verfahren:\\
-Soweit der Antrag abgelehnt wird:  ..........�
+Soweit der Antrag abgelehnt wird:  ..........
 
 \\
 \\
@@ -3037,7 +3037,7 @@ Soweit der Antrag abgelehnt wird:  ..........�
 15141
 
 Verfahren über die Zulassung der Sprungrechtsbeschwerde in den in Nummer 15112 genannten Verfahren:\\
-Soweit der Antrag abgelehnt wird:  ..........�
+Soweit der Antrag abgelehnt wird:  ..........
 
 \\
 \\
@@ -3068,7 +3068,7 @@ Verfahren nach dem\\
 Beendigung des gesamten Verfahrens\\
 1. ohne Endentscheidung oder\\
 2. durch Zurücknahme des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird, wenn die Entscheidung nicht bereits durch Verlesen der Entscheidungsformel bekannt gegeben worden ist:\\
-Die Gebühr 15210 ermäßigt sich auf  ..........�
+Die Gebühr 15210 ermäßigt sich auf  ..........
 
 \\
 \\
@@ -3120,7 +3120,7 @@ Verfahren über den Antrag auf Erlass einer Anordnung über die Zulässigkeit de
 3. § 19 Abs. 9 MarkenG,\\
 4. § 101 Abs. 9 des Urheberrechtsgesetzes,\\
 5. § 46 Abs. 9 DesignG,\\
-6. § 37b Abs. 9 des Sortenschutzgesetzes  ..........�
+6. § 37b Abs. 9 des Sortenschutzgesetzes  ..........
 
 \\
 \\
@@ -3134,7 +3134,7 @@ Verfahren über den Antrag auf Erlass einer Anordnung über die Zulässigkeit de
 15214
 
 Der Antrag wird zurückgenommen:\\
-Die Gebühr 15213 ermäßigt sich auf  ..........�
+Die Gebühr 15213 ermäßigt sich auf  ..........
 
 \\
  50,00 €
@@ -3150,14 +3150,14 @@ Beschwerde gegen die Endentscheidung wegen des Hauptgegenstands
 
 15220
 
-Verfahren über die Beschwerde in den in Nummer 15210 genannten Verfahren  ..........�
+Verfahren über die Beschwerde in den in Nummer 15210 genannten Verfahren  ..........
 
 2,0
 
 15221
 
 Beendigung des gesamten Verfahrens durch Zurücknahme der Beschwerde oder des Antrags, bevor die Schrift zur Begründung der Beschwerde bei Gericht eingegangen ist:\\
-Die Gebühr 15220 ermäßigt sich auf  ..........�
+Die Gebühr 15220 ermäßigt sich auf  ..........
 
 \\
 \\
@@ -3177,7 +3177,7 @@ Die Gebühr 15220 ermäßigt sich auf  .......... \\
 
 15223
 
-Verfahren über die Beschwerde in den in Nummer 15212 genannten Verfahren  ..........�
+Verfahren über die Beschwerde in den in Nummer 15212 genannten Verfahren  ..........
 
 1,0
 
@@ -3203,7 +3203,7 @@ Die Beschwerde wird verworfen oder zurückgewiesen  .......... \\
 15226
 
 Verfahren über die Beschwerde in den in Nummer 15213 genannten Verfahren:\\
-Beendigung des gesamten Verfahrens durch Zurücknahme der Beschwerde oder des Antrags, bevor die Schrift zur Begründung der Beschwerde bei Gericht eingegangen ist  ..........�
+Beendigung des gesamten Verfahrens durch Zurücknahme der Beschwerde oder des Antrags, bevor die Schrift zur Begründung der Beschwerde bei Gericht eingegangen ist  ..........
 
 \\
 \\
@@ -3213,7 +3213,7 @@ Beendigung des gesamten Verfahrens durch Zurücknahme der Beschwerde oder des An
 15227
 
 Verfahren über die Beschwerde in den in Nummer 15213 genannten Verfahren:\\
-Beendigung des gesamten Verfahrens durch Zurücknahme der Beschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird, wenn die Entscheidung nicht bereits durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, oder wenn nicht Nummer 15226 erfüllt ist  ..........�
+Beendigung des gesamten Verfahrens durch Zurücknahme der Beschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird, wenn die Entscheidung nicht bereits durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, oder wenn nicht Nummer 15226 erfüllt ist  ..........
 
 \\
 \\
@@ -3226,14 +3226,14 @@ Rechtsbeschwerde gegen die Endentscheidung wegen des Hauptgegenstands
 
 15230
 
-Verfahren über die Rechtsbeschwerde in den in Nummer 15210 genannten Verfahren  ..........�
+Verfahren über die Rechtsbeschwerde in den in Nummer 15210 genannten Verfahren  ..........
 
 3,0
 
 15231
 
 Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags, bevor die Schrift zur Begründung der Beschwerde bei Gericht eingegangen ist:\\
-Die Gebühr 15230 ermäßigt sich auf  ..........�
+Die Gebühr 15230 ermäßigt sich auf  ..........
 
 \\
 \\
@@ -3243,7 +3243,7 @@ Die Gebühr 15230 ermäßigt sich auf  ..........�
 15232
 
 Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird, wenn nicht Nummer 15231 erfüllt ist:\\
-Die Gebühr 15230 ermäßigt sich auf  ..........�
+Die Gebühr 15230 ermäßigt sich auf  ..........
 
 \\
 \\
@@ -3252,14 +3252,14 @@ Die Gebühr 15230 ermäßigt sich auf  ..........�
 
 15233
 
-Verfahren über die Rechtsbeschwerde in den in Nummer 15212 genannten Verfahren  ..........�
+Verfahren über die Rechtsbeschwerde in den in Nummer 15212 genannten Verfahren  ..........
 
 1,5
 
 15234
 
 Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags, bevor die Schrift zur Begründung der Beschwerde bei Gericht eingegangen ist:\\
-Die Gebühr 15233 ermäßigt sich auf  ..........�
+Die Gebühr 15233 ermäßigt sich auf  ..........
 
 \\
 \\
@@ -3269,7 +3269,7 @@ Die Gebühr 15233 ermäßigt sich auf  ..........�
 15235
 
 Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird, wenn nicht Nummer 15234 erfüllt ist:\\
-Die Gebühr 15233 ermäßigt sich auf  ..........�
+Die Gebühr 15233 ermäßigt sich auf  ..........
 
 \\
 \\
@@ -3282,7 +3282,7 @@ Zulassung der Sprungrechtsbeschwerde gegen die Endentscheidung wegen des Hauptge
 15240
 
 Verfahren über die Zulassung der Sprungrechtsbeschwerde in den in Nummer 15210 genannten Verfahren:\\
-Soweit der Antrag abgelehnt wird:  ..........�
+Soweit der Antrag abgelehnt wird:  ..........
 
 \\
 \\
@@ -3291,7 +3291,7 @@ Soweit der Antrag abgelehnt wird:  ..........�
 15241
 
 Verfahren über die Zulassung der Sprungrechtsbeschwerde in den in Nummer 15212 genannten Verfahren:\\
-Soweit der Antrag abgelehnt wird:  ..........�
+Soweit der Antrag abgelehnt wird:  ..........
 
 \\
 \\
@@ -3303,21 +3303,21 @@ Abschnitt 3\\
 Vorbemerkung 1.5.3:\\
  Dieser Abschnitt gilt für Verfahren über die Anfechtung von Justizverwaltungsakten nach den §§ 23 bis 29 des Einführungsgesetzes zum Gerichtsverfassungsgesetz und Verfahren nach § 138 Abs. 2 des Urheberrechtsgesetzes.
 
-�
+
 
 Verfahrensgebühr:
 
-�
+
 
 15300
 
--- der Antrag wird zurückgenommen  ..........�
+-- der Antrag wird zurückgenommen  ..........
 
 0,5
 
 15301
 
--- der Antrag wird zurückgewiesen  ..........�
+-- der Antrag wird zurückgewiesen  ..........
 
 1,0
 
@@ -3348,7 +3348,7 @@ Verfahren im Allgemeinen, wenn die Verfahrensgebühr für den ersten Rechtszug i
 16111
 
 Die Gebühr für die Hauptsache würde 2,0 betragen:\\
-Die Gebühr 16110 beträgt  ..........�
+Die Gebühr 16110 beträgt  ..........
 
 \\
 1,5
@@ -3369,14 +3369,14 @@ Beschwerde gegen die Endentscheidung wegen des Hauptgegenstands
 
 16120
 
-Verfahren im Allgemeinen, wenn sich die Gebühr für den ersten Rechtszug nach Nummer 16110 bestimmt  ..........�
+Verfahren im Allgemeinen, wenn sich die Gebühr für den ersten Rechtszug nach Nummer 16110 bestimmt  ..........
 
 \\
 0,5
 
 16121
 
-Verfahren im Allgemeinen, wenn sich die Gebühr für den ersten Rechtszug nach Nummer 16111 bestimmt  ..........�
+Verfahren im Allgemeinen, wenn sich die Gebühr für den ersten Rechtszug nach Nummer 16111 bestimmt  ..........
 
 \\
 2,0
@@ -3395,7 +3395,7 @@ Die Gebühr 16120 ermäßigt sich auf  .......... \\
 16123
 
 Beendigung des gesamten Verfahrens im Fall der Nummer 16121 durch Zurücknahme der Beschwerde oder des Antrags, bevor die Schrift zur Begründung der Beschwerde bei Gericht eingegangen ist:\\
-Die Gebühr 16121 ermäßigt sich auf  ..........�
+Die Gebühr 16121 ermäßigt sich auf  ..........
 
 \\
 \\
@@ -3435,7 +3435,7 @@ Erster Rechtszug
 
 16210
 
-Verfahren im Allgemeinen, wenn die Verfahrensgebühr für den ersten Rechtszug in der Hauptsache weniger als 2,0 betragen würde  ..........�
+Verfahren im Allgemeinen, wenn die Verfahrensgebühr für den ersten Rechtszug in der Hauptsache weniger als 2,0 betragen würde  ..........
 
 \\
 0,3
@@ -3443,7 +3443,7 @@ Verfahren im Allgemeinen, wenn die Verfahrensgebühr für den ersten Rechtszug i
 16211
 
 Die Gebühr für die Hauptsache würde 2,0 betragen:\\
-Die Gebühr 16210 beträgt  ..........�
+Die Gebühr 16210 beträgt  ..........
 
 \\
 1,5
@@ -3464,14 +3464,14 @@ Beschwerde gegen die Endentscheidung wegen des Hauptgegenstands
 
 16220
 
-Verfahren im Allgemeinen, wenn sich die Gebühr für den ersten Rechtszug nach Nummer 16210 bestimmt  ..........�
+Verfahren im Allgemeinen, wenn sich die Gebühr für den ersten Rechtszug nach Nummer 16210 bestimmt  ..........
 
 \\
 0,5
 
 16221
 
-Verfahren im Allgemeinen, wenn sich die Gebühr für den ersten Rechtszug nach Nummer 16211 bestimmt  ..........�
+Verfahren im Allgemeinen, wenn sich die Gebühr für den ersten Rechtszug nach Nummer 16211 bestimmt  ..........
 
 \\
 2,0
@@ -3490,7 +3490,7 @@ Die Gebühr 16220 ermäßigt sich auf  .......... \\
 16223
 
 Beendigung des gesamten Verfahrens im Fall der Nummer 16221 durch Zurücknahme der Beschwerde oder des Antrags, bevor die Schrift zur Begründung der Beschwerde bei Gericht eingegangen ist:\\
-Die Gebühr 16221 ermäßigt sich auf  ..........�
+Die Gebühr 16221 ermäßigt sich auf  ..........
 
 \\
 \\
@@ -3500,18 +3500,18 @@ Die Gebühr 16221 ermäßigt sich auf  ..........�
 16224
 
 Beendigung des gesamten Verfahrens im Fall der Nummer 16221 ohne Endentscheidung, wenn nicht Nummer 16223 erfüllt ist:\\
-Die Gebühr 16221 ermäßigt sich auf  ..........�
+Die Gebühr 16221 ermäßigt sich auf  ..........
 
 \\
 \\
 1,0
 
-�
+
 
  (1) Wenn die Entscheidung nicht durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme der Beschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.\\
  (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung über die Kostentragung oder einer Kostenübernahmeerklärung folgt.
 
-�
+
 
 \\
 
@@ -3532,7 +3532,7 @@ Besondere Gebühren
 17000
 
 Erteilung von Ausdrucken oder Fertigung von Kopien aus einem Register oder aus dem Grundbuch auf Antrag oder deren beantragte Ergänzung oder Bestätigung:\\
--- Ausdruck oder unbeglaubigte Kopie  ..........�
+-- Ausdruck oder unbeglaubigte Kopie  ..........
 
 \\
 \\
@@ -3550,7 +3550,7 @@ Erteilung von Ausdrucken oder Fertigung von Kopien aus einem Register oder aus d
 17002
 
 Anstelle eines Ausdrucks wird in den Fällen der Nummern 17000 und 17001 die elektronische Übermittlung einer Datei beantragt:\\
--- unbeglaubigte Datei  ..........�
+-- unbeglaubigte Datei  ..........
 
 \\
 \\
@@ -3558,15 +3558,15 @@ Anstelle eines Ausdrucks wird in den Fällen der Nummern 17000 und 17001 die ele
 
 17003
 
--- beglaubigte Datei  ..........�
+-- beglaubigte Datei  ..........
 
 10,00 €
 
-�
+
 
  Werden zwei elektronische Dateien gleichen Inhalts in unterschiedlichen Dateiformaten gleichzeitig übermittelt, wird die Gebühr 17002 oder 17003 nur einmal erhoben. Sind beide Gebührentatbestände erfüllt, wird die höhere Gebühr erhoben.
 
-�
+
 
 17004
 
@@ -3574,7 +3574,7 @@ Erteilung\\
 1. eines Zeugnisses des Grundbuchamts,\\
 2. einer Bescheinigung aus einem Register,\\
 3. einer beglaubigten Abschrift des Verpfändungsvertrags nach § 16 Abs. 1 Satz 3 des Pachtkreditgesetzes oder\\
-4. einer Bescheinigung nach § 16 Abs. 2 des Pachtkreditgesetzes  ..........�
+4. einer Bescheinigung nach § 16 Abs. 2 des Pachtkreditgesetzes  ..........
 
 \\
 \\
@@ -3595,7 +3595,7 @@ Soweit ein Vergleich über nicht gerichtlich anhängige Gegenstände geschlossen
 17006
 
 Anordnung von Zwangsmaßnahmen durch Beschluss nach § 35 FamFG:\\
-je Anordnung  ..........�
+je Anordnung  ..........
 
 \\
 22,00 €
@@ -3619,7 +3619,7 @@ Vorbemerkung 1.8:\\
 
 18000
 
-Verfahren über die Erteilung einer vollstreckbaren Ausfertigung einer notariellen Urkunde, wenn der Eintritt einer Tatsache oder einer Rechtsnachfolge zu prüfen ist (§§ 726 bis 729 ZPO)  ..........�
+Verfahren über die Erteilung einer vollstreckbaren Ausfertigung einer notariellen Urkunde, wenn der Eintritt einer Tatsache oder einer Rechtsnachfolge zu prüfen ist (§§ 726 bis 729 ZPO)  ..........
 
 \\
 \\
@@ -3635,7 +3635,7 @@ Verfahren über den Antrag auf Erteilung einer weiteren vollstreckbaren Ausferti
 
 18002
 
-Anordnung der Vornahme einer vertretbaren Handlung durch einen Dritten  ..........�
+Anordnung der Vornahme einer vertretbaren Handlung durch einen Dritten  ..........
 
  22,00 €
 
@@ -3667,7 +3667,7 @@ Sonstige Beschwerden
 
 19110
 
-Verfahren über die Beschwerde in den Fällen des § 129 GNotKG und des § 372 Abs. 1 FamFG  ..........�
+Verfahren über die Beschwerde in den Fällen des § 129 GNotKG und des § 372 Abs. 1 FamFG  ..........
 
 \\
  99,00 €
@@ -3697,7 +3697,7 @@ Eintragung nach der HRegGebV
 19113
 
 Verfahren über die in Nummer 19112 genannte Beschwerde:\\
-Beendigung des gesamten Verfahrens durch Zurücknahme der Beschwerde oder des Antrags, bevor die Schrift zur Begründung der Beschwerde bei Gericht eingegangen ist  ..........�
+Beendigung des gesamten Verfahrens durch Zurücknahme der Beschwerde oder des Antrags, bevor die Schrift zur Begründung der Beschwerde bei Gericht eingegangen ist  ..........
 
 \\
 \\
@@ -3742,7 +3742,7 @@ Sonstige Rechtsbeschwerden
 
 19120
 
-Verfahren über die Rechtsbeschwerde in den Fällen des § 129 GNotKG und des § 372 Abs. 1 FamFG  ..........�
+Verfahren über die Rechtsbeschwerde in den Fällen des § 129 GNotKG und des § 372 Abs. 1 FamFG  ..........
 
 \\
 198,00 €
@@ -3750,7 +3750,7 @@ Verfahren über die Rechtsbeschwerde in den Fällen des § 129 GNotKG und des §
 19121
 
 Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags, bevor die Schrift zur Begründung der Rechtsbeschwerde bei Gericht eingegangen ist:\\
-Die Gebühr 19120 ermäßigt sich auf  ..........�
+Die Gebühr 19120 ermäßigt sich auf  ..........
 
 \\
 \\
@@ -3759,7 +3759,7 @@ Die Gebühr 19120 ermäßigt sich auf  ..........�
 19122
 
 Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird, wenn nicht Nummer 19121 erfüllt ist:\\
-Die Gebühr 19120 ermäßigt sich auf  ..........�
+Die Gebühr 19120 ermäßigt sich auf  ..........
 
 \\
 \\
@@ -3782,7 +3782,7 @@ Eintragung nach der HRegGebV
 19124
 
 Verfahren über die in Nummer 19123 genannte Rechtsbeschwerde:\\
-Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags, bevor die Schrift zur Begründung der Beschwerde bei Gericht eingegangen ist  ..........�
+Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags, bevor die Schrift zur Begründung der Beschwerde bei Gericht eingegangen ist  ..........
 
 \\
 \\
@@ -3794,7 +3794,7 @@ Eintragung nach der HRegGebV
 19125
 
 Verfahren über die in Nummer 19123 genannte Rechtsbeschwerde:\\
-Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird, wenn nicht Nummer 19124 erfüllt ist  ..........�
+Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird, wenn nicht Nummer 19124 erfüllt ist  ..........
 
 \\
 \\
@@ -3836,7 +3836,7 @@ Die Rechtsbeschwerde wird verworfen oder zurückgewiesen  .......... \\
 19129
 
 Verfahren über die in Nummer 19128 genannte Rechtsbeschwerde:\\
-Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird  ..........�
+Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird  ..........
 
 \\
 \\
@@ -3849,7 +3849,7 @@ Zulassung der Sprungrechtsbeschwerde in sonstigen Fällen
 19130
 
 Verfahren über die Zulassung der Sprungrechtsbeschwerde in den nicht besonders aufgeführten Fällen:\\
-Der Antrag wird abgelehnt  ..........  ..........�
+Der Antrag wird abgelehnt  ..........  ..........
 
 \\
 \\
@@ -3861,7 +3861,7 @@ Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör
 19200
 
 Verfahren über die Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör:\\
-Die Rüge wird in vollem Umfang verworfen oder zurückgewiesen  ..........�
+Die Rüge wird in vollem Umfang verworfen oder zurückgewiesen  ..........
 
 \\
  66,00 €
@@ -3902,7 +3902,7 @@ Vorbemerkung 2.1.1:\\
 
 21100
 
-Beurkundungsverfahren  ..........�
+Beurkundungsverfahren  ..........
 
 2,0\\
 -- mindestens 120,00 €
@@ -3928,7 +3928,7 @@ Die Gebühr 21100 beträgt  .......... \\
 Gegenstand des Beurkundungsverfahrens ist\\
 1. ein Verfügungsgeschäft und das zugrunde liegende Rechtsgeschäft ist bereits beurkundet und Nummer 21101 nicht anzuwenden oder\\
 2. die Aufhebung eines Vertrags:\\
-Die Gebühr 21100 beträgt  ..........�
+Die Gebühr 21100 beträgt  ..........
 
 \\
 \\
@@ -3996,7 +3996,7 @@ Vorzeitige Beendigung des Beurkundungsverfahrens\\
 1. vor Ablauf des Tages, an dem ein vom Notar gefertigter Entwurf an einen Beteiligten durch Aufgabe zur Post versandt worden ist,\\
 2. vor der Übermittlung eines vom Notar gefertigten Entwurfs per Telefax, vor der elektronischen Übermittlung als Datei oder vor Aushändigung oder\\
 3. bevor der Notar mit allen Beteiligten in einem zum Zweck der Beurkundung vereinbarten Termin auf der Grundlage eines von ihm gefertigten Entwurfs verhandelt hat:\\
-Die jeweilige Gebühr für das Beurkundungsverfahren ermäßigt sich auf  ..........�
+Die jeweilige Gebühr für das Beurkundungsverfahren ermäßigt sich auf  ..........
 
 \\
 \\
@@ -4010,7 +4010,7 @@ Die jeweilige Gebühr für das Beurkundungsverfahren ermäßigt sich auf  .....
 21301
 
 In den Fällen der Nummer 21300 hat der Notar persönlich oder schriftlich beraten:\\
-Die jeweilige Gebühr für das Beurkundungsverfahren ermäßigt sich auf eine Gebühr  ..........�
+Die jeweilige Gebühr für das Beurkundungsverfahren ermäßigt sich auf eine Gebühr  ..........
 
 \\
 in Höhe der\\
@@ -4020,7 +4020,7 @@ Beratungsgebühr
 21302
 
 Vorzeitige Beendigung des Verfahrens nach einem der in Nummer 21300 genannten Zeitpunkte in den Fällen der Nummer 21100:\\
-Die Gebühr 21100 ermäßigt sich auf  ..........�
+Die Gebühr 21100 ermäßigt sich auf  ..........
 
 \\
 \\
@@ -4030,7 +4030,7 @@ Die Gebühr 21100 ermäßigt sich auf  ..........�
 21303
 
 Vorzeitige Beendigung des Verfahrens nach einem der in Nummer 21300 genannten Zeitpunkte in den Fällen der Nummern 21102 und 21200:\\
-Die Gebühren 21102 und 21200 ermäßigen sich auf  ..........�
+Die Gebühren 21102 und 21200 ermäßigen sich auf  ..........
 
 \\
 \\
@@ -4040,7 +4040,7 @@ Die Gebühren 21102 und 21200 ermäßigen sich auf  ..........�
 21304
 
 Vorzeitige Beendigung des Verfahrens nach einem der in Nummer 21300 genannten Zeitpunkte in den Fällen der Nummern 21101 und 21201:\\
-Die Gebühren 21101 und 21201 ermäßigen sich auf  ..........�
+Die Gebühren 21101 und 21201 ermäßigen sich auf  ..........
 
 \\
 \\
@@ -4079,42 +4079,42 @@ Die Vollzugsgebühr entsteht auch, wenn die Tätigkeit vor der Beurkundung vorge
 
 22110
 
-Vollzugsgebühr  ..........�
+Vollzugsgebühr  ..........
 
 0,5
 
 22111
 
 Vollzugsgebühr, wenn die Gebühr für das zugrunde liegende Beurkundungsverfahren weniger als 2,0 beträgt:\\
-Die Gebühr 22110 beträgt  ..........�
+Die Gebühr 22110 beträgt  ..........
 
 \\
 \\
 0,3
 
-�
+
 
 Vollzugsgegenstand sind lediglich die in der Vorbemerkung 2.2.1.1 Abs. 1 Satz 2 Nr. 1 bis 3 genannten Tätigkeiten:\\
 Die Gebühren 22110 und 22111 betragen
 
-�
+
 
 22112
 
--- für jede Tätigkeit nach Vorbemerkung 2.2.1.1 Abs. 1 Satz 2 Nr. 1 und 2  ..........�
+-- für jede Tätigkeit nach Vorbemerkung 2.2.1.1 Abs. 1 Satz 2 Nr. 1 und 2  ..........
 
 höchstens\\
 50,00 €
 
 22113
 
--- für jede Tätigkeit nach Vorbemerkung 2.2.1.1 Abs. 1 Satz 2 Nr. 3  ..........�
+-- für jede Tätigkeit nach Vorbemerkung 2.2.1.1 Abs. 1 Satz 2 Nr. 3  ..........
 
 höchstens 250,00 €
 
 22114
 
-Erzeugung von strukturierten Daten in Form der Extensible Markup Language (XML) oder in einem nach dem Stand der Technik vergleichbaren Format für eine automatisierte Weiterbearbeitung  ..........�
+Erzeugung von strukturierten Daten in Form der Extensible Markup Language (XML) oder in einem nach dem Stand der Technik vergleichbaren Format für eine automatisierte Weiterbearbeitung  ..........
 
 \\
 \\
@@ -4140,7 +4140,7 @@ Vorbemerkung 2.2.1.2:\\
 
 22120
 
-Vollzugsgebühr für die in Vorbemerkung 2.2.1.1 Abs. 1 Satz 2 genannten Tätigkeiten, wenn die Gebühr für ein die Urkunde betreffendes Beurkundungsverfahren 2,0 betragen würde  ..........�
+Vollzugsgebühr für die in Vorbemerkung 2.2.1.1 Abs. 1 Satz 2 genannten Tätigkeiten, wenn die Gebühr für ein die Urkunde betreffendes Beurkundungsverfahren 2,0 betragen würde  ..........
 
 \\
 \\
@@ -4148,7 +4148,7 @@ Vollzugsgebühr für die in Vorbemerkung 2.2.1.1 Abs. 1 Satz 2 genannten Tätigk
 
 22121
 
-Vollzugsgebühr für die in Vorbemerkung 2.2.1.1 Abs. 1 Satz 2 genannten Tätigkeiten, wenn die Gebühr für ein die Urkunde betreffendes Beurkundungsverfahren weniger als 2,0 betragen würde  ..........�
+Vollzugsgebühr für die in Vorbemerkung 2.2.1.1 Abs. 1 Satz 2 genannten Tätigkeiten, wenn die Gebühr für ein die Urkunde betreffendes Beurkundungsverfahren weniger als 2,0 betragen würde  ..........
 
 \\
 \\
@@ -4207,7 +4207,7 @@ Betreuungsgebühr  .......... \\
 
 0,5
 
-�
+
 
 3. Beachtung einer Auflage eines an dem Beurkundungsverfahren Beteiligten im Rahmen eines Treuhandauftrags, eine Urkunde oder Auszüge einer Urkunde nur unter bestimmten Bedingungen herauszugeben, wenn die Herausgabe nicht lediglich davon abhängt, dass ein Beteiligter der Herausgabe zustimmt, oder die Erklärung der Bewilligung nach § 19 der Grundbuchordnung aufgrund einer Vollmacht, wenn diese nur unter bestimmten Bedingungen abgegeben werden soll,\\
 4. Prüfung und Beachtung der Auszahlungsvoraussetzungen von verwahrtem Geld und der Ablieferungsvoraussetzungen von verwahrten Wertpapieren und Kostbarkeiten,\\
@@ -4215,7 +4215,7 @@ Betreuungsgebühr  .......... \\
 6. Erteilung einer Bescheinigung über Veränderungen hinsichtlich der Personen der Gesellschafter oder des Umfangs ihrer Beteiligung (§ 40 Abs. 2 GmbHG), wenn Umstände außerhalb der Urkunde zu prüfen sind, und\\
 7. Entgegennahme der für den Gläubiger bestimmten Ausfertigung einer Grundpfandrechtsbestellungsurkunde zur Herbeiführung der Bindungswirkung gemäß § 873 Abs. 2 BGB.
 
-�
+
 
 22201
 
@@ -4253,7 +4253,7 @@ Verfahrensgebühr  .......... \\
 23201
 
 Vorzeitige Beendigung des Verfahrens:\\
-Die Gebühr 23200 ermäßigt sich auf  ..........�
+Die Gebühr 23200 ermäßigt sich auf  ..........
 
 \\
 0,5
@@ -4268,21 +4268,21 @@ Vorbemerkung 2.3.3:\\
 
 23300
 
-Verfahren zur Abnahme von Eiden und eidesstattlichen Versicherungen  ..........�
+Verfahren zur Abnahme von Eiden und eidesstattlichen Versicherungen  ..........
 
 1,0
 
 23301
 
 Vorzeitige Beendigung des Verfahrens:\\
-Die Gebühr 23300 beträgt  ..........�
+Die Gebühr 23300 beträgt  ..........
 
 \\
 0,3
 
 23302
 
-Vernehmung von Zeugen und Sachverständigen  ..........�
+Vernehmung von Zeugen und Sachverständigen  ..........
 
 1,0
 
@@ -4301,7 +4301,7 @@ Verfahren über die Aufnahme eines Wechsel- und Scheckprotests  .......... \\
 
 23401
 
-Verfahren über die Aufnahme eines jeden Protests wegen Verweigerung der Ehrenannahme oder wegen unterbliebener Ehrenzahlung, wenn der Wechsel Notadressen enthält  ..........�
+Verfahren über die Aufnahme eines jeden Protests wegen Verweigerung der Ehrenannahme oder wegen unterbliebener Ehrenzahlung, wenn der Wechsel Notadressen enthält  ..........
 
 \\
 \\
@@ -4324,21 +4324,21 @@ Verfahren über die Aufnahme eines Vermögensverzeichnisses einschließlich der 
 23501
 
 Vorzeitige Beendigung des Verfahrens:\\
-Die Gebühr 23500 ermäßigt sich auf  ..........�
+Die Gebühr 23500 ermäßigt sich auf  ..........
 
 \\
 0,5
 
 23502
 
-Mitwirkung als Urkundsperson bei der Aufnahme eines Vermögensverzeichnisses einschließlich der Siegelung  ..........�
+Mitwirkung als Urkundsperson bei der Aufnahme eines Vermögensverzeichnisses einschließlich der Siegelung  ..........
 
 \\
 1,0
 
 23503
 
-Siegelung, die nicht mit den Gebühren 23500 oder 23502 abgegolten ist, und Entsiegelung  ..........�
+Siegelung, die nicht mit den Gebühren 23500 oder 23502 abgegolten ist, und Entsiegelung  ..........
 
 \\
 0,5
@@ -4351,13 +4351,13 @@ Vorbemerkung 2.3.6:\\
 
 23600
 
-Verfahrensgebühr  ..........�
+Verfahrensgebühr  ..........
 
 0,5
 
 23601
 
-Aufnahme einer Schätzung  ..........�
+Aufnahme einer Schätzung  ..........
 
 0,5
 
@@ -4395,7 +4395,7 @@ Verfahrensgebühr  .......... \\
 23701
 
 Beendigung des Verfahrens vor Aufforderung zur Abgabe von Geboten:\\
-Die Gebühr 23700 ermäßigt sich auf  ..........�
+Die Gebühr 23700 ermäßigt sich auf  ..........
 
 \\
 0,5
@@ -4405,14 +4405,14 @@ Vorbereitung der Zwangsvollstreckung
 
 23800
 
-Verfahren über die Vollstreckbarerklärung eines Anwaltsvergleichs nach § 796a ZPO  ..........�
+Verfahren über die Vollstreckbarerklärung eines Anwaltsvergleichs nach § 796a ZPO  ..........
 
 \\
  66,00 €
 
 23801
 
-Verfahren über die Vollstreckbarerklärung eines Schiedsspruchs mit vereinbartem Wortlaut (§ 1053 ZPO)  ..........�
+Verfahren über die Vollstreckbarerklärung eines Schiedsspruchs mit vereinbartem Wortlaut (§ 1053 ZPO)  ..........
 
 \\
 2,0
@@ -4420,14 +4420,14 @@ Verfahren über die Vollstreckbarerklärung eines Schiedsspruchs mit vereinbarte
 23802
 
 Beendigung des gesamten Verfahrens durch Zurücknahme des Antrags:\\
-Die Gebühr 23801 ermäßigt sich auf  ..........�
+Die Gebühr 23801 ermäßigt sich auf  ..........
 
 \\
 1,0
 
 23803
 
-Verfahren über die Erteilung einer vollstreckbaren Ausfertigung, wenn der Eintritt einer Tatsache oder einer Rechtsnachfolge zu prüfen ist (§§ 726 bis 729 ZPO)  ..........�
+Verfahren über die Erteilung einer vollstreckbaren Ausfertigung, wenn der Eintritt einer Tatsache oder einer Rechtsnachfolge zu prüfen ist (§§ 726 bis 729 ZPO)  ..........
 
 \\
 0,5
@@ -4442,13 +4442,13 @@ Die Gebühr wird für jede weitere vollstreckbare Ausfertigung gesondert erhoben
 
 23805
 
-Verfahren über die Ausstellung einer Bestätigung nach § 1079 ZPO oder über die Ausstellung einer Bescheinigung nach § 1110 ZPO  ..........�
+Verfahren über die Ausstellung einer Bestätigung nach § 1079 ZPO oder über die Ausstellung einer Bescheinigung nach § 1110 ZPO  ..........
 
  22,00 €
 
 23806
 
-Verfahren über einen Antrag auf Vollstreckbarerklärung einer notariellen Urkunde nach § 55 Abs. 3 AVAG, nach § 35 Abs. 3 AUG, nach § 3 Abs. 4 IntErbRVG oder nach § 4 Abs. 4 IntGüRVG ..........�
+Verfahren über einen Antrag auf Vollstreckbarerklärung einer notariellen Urkunde nach § 55 Abs. 3 AVAG, nach § 35 Abs. 3 AUG, nach § 3 Abs. 4 IntErbRVG oder nach § 4 Abs. 4 IntGüRVG ..........
 
 \\
 264,00 €
@@ -4456,14 +4456,14 @@ Verfahren über einen Antrag auf Vollstreckbarerklärung einer notariellen Urkun
 23807
 
 Beendigung des gesamten Verfahrens durch Zurücknahme des Antrags:\\
-Die Gebühr 23806 ermäßigt sich auf  ..........�
+Die Gebühr 23806 ermäßigt sich auf  ..........
 
 \\
  99,00 €
 
 23808
 
-Verfahren über die Ausstellung einer Bescheinigung nach § 57 AVAG, § 27 IntErbRVG oder § 27 IntGüRVG oder für die Ausstellung des Formblatts oder der Bescheinigung nach § 71 Abs. 1 AUG  ..........�
+Verfahren über die Ausstellung einer Bescheinigung nach § 57 AVAG, § 27 IntErbRVG oder § 27 IntGüRVG oder für die Ausstellung des Formblatts oder der Bescheinigung nach § 71 Abs. 1 AUG  ..........
 
 \\
  17,00 €
@@ -4527,7 +4527,7 @@ Vorbemerkung 2.4.1:\\
 
 24100
 
-Fertigung eines Entwurfs, wenn die Gebühr für das Beurkundungsverfahren 2,0 betragen würde  ..........�
+Fertigung eines Entwurfs, wenn die Gebühr für das Beurkundungsverfahren 2,0 betragen würde  ..........
 
 \\
 0,5 bis 2,0\\
@@ -4535,7 +4535,7 @@ Fertigung eines Entwurfs, wenn die Gebühr für das Beurkundungsverfahren 2,0 be
 
 24101
 
-Fertigung eines Entwurfs, wenn die Gebühr für das Beurkundungsverfahren 1,0 betragen würde  ..........�
+Fertigung eines Entwurfs, wenn die Gebühr für das Beurkundungsverfahren 1,0 betragen würde  ..........
 
 \\
 0,3 bis 1,0\\
@@ -4543,7 +4543,7 @@ Fertigung eines Entwurfs, wenn die Gebühr für das Beurkundungsverfahren 1,0 be
 
 24102
 
-Fertigung eines Entwurfs, wenn die Gebühr für das Beurkundungsverfahren 0,5 betragen würde  ..........�
+Fertigung eines Entwurfs, wenn die Gebühr für das Beurkundungsverfahren 0,5 betragen würde  ..........
 
 \\
 0,3 bis 0,5\\
@@ -4552,7 +4552,7 @@ Fertigung eines Entwurfs, wenn die Gebühr für das Beurkundungsverfahren 0,5 be
 24103
 
 Auf der Grundlage eines von demselben Notar gefertigten Serienentwurfs finden Beurkundungsverfahren statt:\\
-Die Gebühren dieses Abschnitts ermäßigen sich jeweils um  ..........�
+Die Gebühren dieses Abschnitts ermäßigen sich jeweils um  ..........
 
 \\
 \\
@@ -4575,7 +4575,7 @@ Beratungsgebühr  .......... \\
 24201
 
 Der Beratungsgegenstand könnte auch Beurkundungsgegenstand sein und die Beurkundungsgebühr würde 1,0 betragen:\\
-Die Gebühr 24200 beträgt  ..........�
+Die Gebühr 24200 beträgt  ..........
 
 \\
 \\
@@ -4584,7 +4584,7 @@ Die Gebühr 24200 beträgt  ..........�
 24202
 
 Der Beratungsgegenstand könnte auch Beurkundungsgegenstand sein und die Beurkundungsgebühr würde weniger als 1,0 betragen:\\
-Die Gebühr 24200 beträgt  ..........�
+Die Gebühr 24200 beträgt  ..........
 
 \\
 \\
@@ -4621,7 +4621,7 @@ Die Erklärung, unter der die Beglaubigung von Unterschriften oder Handzeichen e
 1. eine Erklärung, für die nach den Staatsschuldbuchgesetzen eine öffentliche Beglaubigung vorgeschrieben ist,\\
 2. eine Zustimmung gemäß § 27 der Grundbuchordnung sowie einen damit verbundenen Löschungsantrag gemäß § 13 der Grundbuchordnung,\\
 3. den Nachweis der Verwaltereigenschaft gemäß § 26 Abs. 4 WEG:\\
-Die Gebühr 25100 beträgt  ..........�
+Die Gebühr 25100 beträgt  ..........
 
 \\
 \\
@@ -4649,7 +4649,7 @@ Seite\\
 
 25103
 
-Sicherstellung der Zeit, zu der eine Privaturkunde ausgestellt ist, einschließlich der über die Vorlegung ausgestellten Bescheinigung  ..........�
+Sicherstellung der Zeit, zu der eine Privaturkunde ausgestellt ist, einschließlich der über die Vorlegung ausgestellten Bescheinigung  ..........
 
 \\
 20,00 €
@@ -4669,7 +4669,7 @@ Andere Bescheinigungen und sonstige Geschäfte
 
 25200
 
-Erteilung einer Bescheinigung nach § 21 Abs. 1 BNotO  ..........�
+Erteilung einer Bescheinigung nach § 21 Abs. 1 BNotO  ..........
 
 15,00 €\\
 für jedes\\
@@ -4679,19 +4679,19 @@ erforderlich ist
 
 25201
 
-Rangbescheinigung (§ 122 GNotKG)  ..........�
+Rangbescheinigung (§ 122 GNotKG)  ..........
 
 0,3
 
 25202
 
-Herstellung eines Teilhypotheken-, -grundschuld- oder -rentenschuldbriefs  ..........�
+Herstellung eines Teilhypotheken-, -grundschuld- oder -rentenschuldbriefs  ..........
 
 0,3
 
 25203
 
-Erteilung einer Bescheinigung über das im Inland oder im Ausland geltende Recht einschließlich von Tatsachen  ..........�
+Erteilung einer Bescheinigung über das im Inland oder im Ausland geltende Recht einschließlich von Tatsachen  ..........
 
 \\
 0,3 bis 1,0
@@ -4723,14 +4723,14 @@ Beurkundungsverfahren
 
 25206
 
-Gründungsprüfung gemäß § 33 Abs. 3 des Aktiengesetzes  ..........�
+Gründungsprüfung gemäß § 33 Abs. 3 des Aktiengesetzes  ..........
 
 1,0\\
 -- mindestens 1 000,00 €
 
 25207
 
-Erwirkung der Apostille oder der Legalisation einschließlich der Beglaubigung durch den Präsidenten des Landgerichts  ..........�
+Erwirkung der Apostille oder der Legalisation einschließlich der Beglaubigung durch den Präsidenten des Landgerichts  ..........
 
 \\
 25,00 €
@@ -4738,7 +4738,7 @@ Erwirkung der Apostille oder der Legalisation einschließlich der Beglaubigung d
 25208
 
 Erwirkung der Legalisation, wenn weitere Beglaubigungen notwendig sind:\\
-Die Gebühr 25207 beträgt  ..........�
+Die Gebühr 25207 beträgt  ..........
 
 \\
 50,00 €
@@ -4751,21 +4751,21 @@ Einsicht in das Grundbuch, in öffentliche Register und Akten einschließlich de
 \\
 15,00 €
 
-�
 
-�
 
-�
 
-�
+
+
+
+
 
 Erteilung von Abdrucken aus einem Register oder aus dem Grundbuch auf Antrag oder deren beantragte Ergänzung oder Bestätigung:
 
-�
+
 
 25210
 
--- Abdruck  ..........�
+-- Abdruck  ..........
 
 10,00 €
 
@@ -4776,39 +4776,39 @@ Erteilung von Abdrucken aus einem Register oder aus dem Grundbuch auf Antrag ode
 
 15,00 €
 
-�
 
-�
 
-�
 
-�
+
+
+
+
 
 Anstelle eines Abdrucks wird in den Fällen der Nummern 25210 und 25211 die elektronische Übermittlung einer Datei beantragt:
 
-�
+
 
 25212
 
--- unbeglaubigte Datei  ..........�
+-- unbeglaubigte Datei  ..........
 
  5,00 €
 
 25213
 
--- beglaubigte Datei  ..........�
+-- beglaubigte Datei  ..........
 
 10,00 €
 
-�
+
 
 Werden zwei elektronische Dateien gleichen Inhalts in unterschiedlichen Dateiformaten gleichzeitig übermittelt, wird die Gebühr 25212 oder 25213 nur einmal erhoben. Sind beide Gebührentatbestände erfüllt, wird die höhere Gebühr erhoben.
 
-�
+
 
 25214
 
-Erteilung einer Bescheinigung nach § 21 Abs. 3 BNotO  ..........�
+Erteilung einer Bescheinigung nach § 21 Abs. 3 BNotO  ..........
 
 15,00 €
 
@@ -4964,7 +4964,7 @@ in voller Höhe\\
 \\
  5,00 €
 31001
-Auslagen für Telegramme  ..........�
+Auslagen für Telegramme  ..........
 in voller Höhe
 31002
 Pauschale für Zustellungen mit Zustellungsurkunde, Einschreiben gegen Rückschein oder durch Justizbedienstete nach § 168 Abs. 1 ZPO je Zustellung  .......... \\
@@ -4988,19 +4988,19 @@ in voller Höhe
 31006
 Bei Geschäften außerhalb der Gerichtsstelle\\
 1. die den Gerichtspersonen aufgrund gesetzlicher Vorschriften gewährte Vergütung (Reisekosten, Auslagenersatz) und die Auslagen für die Bereitstellung von Räumen  .......... \\
-2. für den Einsatz von Dienstkraftfahrzeugen für jeden gefahrenen Kilometer  ..........�
+2. für den Einsatz von Dienstkraftfahrzeugen für jeden gefahrenen Kilometer  ..........
 \\
 \\
 in voller Höhe\\
 0,42 €
 31007
-An Rechtsanwälte zu zahlende Beträge mit Ausnahme der nach § 59 RVG auf die Staatskasse übergegangenen Ansprüche  ..........�
+An Rechtsanwälte zu zahlende Beträge mit Ausnahme der nach § 59 RVG auf die Staatskasse übergegangenen Ansprüche  ..........
 \\
 in voller Höhe
 31008
 Auslagen für\\
 1. die Beförderung von Personen  .......... \\
-2. Zahlungen an mittellose Personen für die Reise zum Ort einer Verhandlung oder Anhörung sowie für die Rückreise  ..........�
+2. Zahlungen an mittellose Personen für die Reise zum Ort einer Verhandlung oder Anhörung sowie für die Rückreise  ..........
 \\
 in voller Höhe\\
 \\
@@ -5008,7 +5008,7 @@ bis zur Höhe der nach dem JVEG an Zeugen zu zahlenden Beträge
 31009
 An Dritte zu zahlende Beträge für\\
 1. die Beförderung von Tieren und Sachen mit Ausnahme der für Postdienstleistungen zu zahlenden Entgelte, die Verwahrung von Tieren und Sachen sowie die Fütterung von Tieren  .......... \\
-2. die Durchsuchung oder Untersuchung von Räumen und Sachen einschließlich der die Durchsuchung oder Untersuchung vorbereitenden Maßnahmen  ..........�
+2. die Durchsuchung oder Untersuchung von Räumen und Sachen einschließlich der die Durchsuchung oder Untersuchung vorbereitenden Maßnahmen  ..........
 \\
 \\
 \\
@@ -5026,7 +5026,7 @@ Kosten einer Ordnungshaft  .......... \\
 in Höhe des\\
 Haftkostenbeitrags
 31012
-Nach dem Auslandskostengesetz zu zahlende Beträge  ..........�
+Nach dem Auslandskostengesetz zu zahlende Beträge  ..........
 in voller Höhe
 31013
 An deutsche Behörden für die Erfüllung von deren eigenen Aufgaben zu zahlende Gebühren sowie diejenigen Beträge, die diesen Behörden, öffentlichen Einrichtungen oder deren Bediensteten als Ersatz für Auslagen der in den Nummern 31000 bis 31012 bezeichneten Art zustehen  .......... \\
@@ -5081,7 +5081,7 @@ Dokumentenpauschale für Ausfertigungen, Kopien und Ausdrucke bis zur Größe vo
 2. in einem Beurkundungsverfahren auf besonderen Antrag angefertigt oder per Telefax übermittelt worden sind; dies gilt nur, wenn der Antrag spätestens bei der Aufnahme der Niederschrift gestellt wird;\\
 3. bei einem Auftrag zur Erstellung eines Entwurfs auf besonderen Antrag angefertigt oder per Telefax übermittelt worden sind; dies gilt nur, wenn der Antrag spätestens am Tag vor der Versendung des Entwurfs gestellt wird:\\
 je Seite  .......... \\
-je Seite in Farbe  ..........�
+je Seite in Farbe  ..........
 \\
 \\
 \\
@@ -5110,7 +5110,7 @@ für die in einem Arbeitsgang überlassenen, bereitgestellten oder in einem Arbe
 32003
 Entgelte für die Herstellung von Kopien oder Ausdrucken der in den Nummern 32000 und 32001 genannten Art in einer Größe von mehr als DIN A3  .......... \\
 oder pauschal je Seite  .......... \\
-oder pauschal je Seite in Farbe  ..........�
+oder pauschal je Seite in Farbe  ..........
 \\
 in voller Höhe\\
 3,00 €\\
@@ -5132,7 +5132,7 @@ Fahrtkosten für eine Geschäftsreise bei Benutzung eines eigenen Kraftfahrzeugs
 \\
 0,42 €
 32007
-Fahrtkosten für eine Geschäftsreise bei Benutzung eines anderen Verkehrsmittels, soweit sie angemessen sind  ..........�
+Fahrtkosten für eine Geschäftsreise bei Benutzung eines anderen Verkehrsmittels, soweit sie angemessen sind  ..........
 \\
 in voller Höhe
 32008
@@ -5146,18 +5146,18 @@ Tage- und Abwesenheitsgeld bei einer Geschäftsreise\\
 50,00 €\\
 80,00 €
 32009
-Sonstige Auslagen anlässlich einer Geschäftsreise, soweit sie angemessen sind  ..........�
+Sonstige Auslagen anlässlich einer Geschäftsreise, soweit sie angemessen sind  ..........
 in voller Höhe
 32010
-An Dolmetscher, Übersetzer und Urkundszeugen zu zahlende Vergütungen sowie Kosten eines zugezogenen zweiten Notars  ..........�
+An Dolmetscher, Übersetzer und Urkundszeugen zu zahlende Vergütungen sowie Kosten eines zugezogenen zweiten Notars  ..........
 \\
 in voller Höhe
 32011
-Nach dem JVKostG für den Abruf von Daten im automatisierten Abrufverfahren zu zahlende Beträge  ..........�
+Nach dem JVKostG für den Abruf von Daten im automatisierten Abrufverfahren zu zahlende Beträge  ..........
 \\
 in voller Höhe
 32012
-Im Einzelfall gezahlte Prämie für eine Haftpflichtversicherung für Vermögensschäden, wenn die Versicherung auf schriftliches Verlangen eines Beteiligten abgeschlossen wird  ..........�
+Im Einzelfall gezahlte Prämie für eine Haftpflichtversicherung für Vermögensschäden, wenn die Versicherung auf schriftliches Verlangen eines Beteiligten abgeschlossen wird  ..........
 \\
 \\
 in voller Höhe
@@ -5179,4 +5179,4 @@ in voller Höhe
 Anlage 2 - (zu § 34 Absatz 3)
 
 (Fundstelle: BGBl. I 2020, 3238)
-�
+

@@ -192,12 +192,12 @@ Anwenden von Informationssystemen und Kommunikationstechniken\\
 
 2*)
 
-�
+
 
 - e) :: Kommunikationstechniken aufgabenorientiert anwenden
 - f) :: Sachverhalte darstellen
 
-�
+
 
 3*)
 
@@ -212,7 +212,7 @@ Planen, Vorbereiten und Steuern von Arbeitsabläufen, Arbeiten im Team\\
 
 4*)
 
-�
+
 
 - d) :: Zeitpläne erstellen, Reihenfolge der Arbeitsschritte unter Berücksichtigung ergonomischer, konstruktiver, herstellungstechnischer und wirtschaftlicher Gesichtspunkte festlegen und vorbereiten
 - e) :: Zeitaufwand und personelle Unterstützung abschätzen, Tagesberichte erstellen
@@ -220,7 +220,7 @@ Planen, Vorbereiten und Steuern von Arbeitsabläufen, Arbeiten im Team\\
 - g) :: Gespräche situationsgerecht führen
 - h) :: Zeitpläne und Arbeitsschritte mit anderen Gewerken und weiteren Beteiligten abstimmen
 
-�
+
 
 5*)
 
@@ -239,13 +239,13 @@ Einrichten, Sichern und Räumen von Baustellen in und an Gewässern\\
 
 6
 
-�
+
 
 - h) :: Baustellenverordnung und Gefährdungsanalyse anwenden
 - i) :: Wasserbaustellen, insbesondere durch Fangedamm, Ölsperre, Wasserhaltung und Baustellenpegel, sichern
 - k) :: Wasserbaustellen räumen und übergeben
 
-�
+
 
 4
 
@@ -265,11 +265,11 @@ Anfertigen und Anwenden von technischen Unterlagen, Durchführen von Vermessunge
 
 6*)
 
-�
+
 
 - i) :: Zeichnungen und Pläne, insbesondere für Baukörper, Stahlwasserbauteile und Gewässerquerschnitte, lesen und anwenden
 
-�
+
 
 2*)
 
@@ -290,7 +290,7 @@ Herstellen von Bauwerksteilen\\
 
 12
 
-�
+
 
 - k) :: Böden prüfen und verwenden
 - l) :: Bitumen und Asphalt prüfen und verwenden
@@ -298,7 +298,7 @@ Herstellen von Bauwerksteilen\\
 - n) :: Beton- und Stahlbetonteile instand halten und sanieren
 - o) :: Anstrich- und Konservierungsstoffe auswählen und anwenden
 
-�
+
 
 4
 
@@ -314,13 +314,13 @@ Handhaben von Werkzeugen, Bedienen von Geräten und Maschinen\\
 
 3
 
-�
+
 
 - e) :: Förder- und Transportgeräte bedienen, Lastenaufnahme- und Anschlagmittel einsetzen
 - f) :: Geräte und Maschinen warten
 - g) :: Fehler und Störungen an Geräten und Maschinen feststellen und melden, Maßnahmen zu deren Beseitigung veranlassen
 
-�
+
 
 2
 
@@ -336,7 +336,7 @@ Herstellen, Kontrollieren und Instandhalten von Bauwerken in und an Gewässern\\
 
 7
 
-�
+
 
 - e) :: Regelungsbauwerke herstellen und unterhalten
 - f) :: Maßnahmen zur Trockenlegung von Bauwerken und Anlagen durchführen, Revisionsverschlüsse ein- und ausbauen, Wasserhaltung betreiben
@@ -346,7 +346,7 @@ Herstellen, Kontrollieren und Instandhalten von Bauwerken in und an Gewässern\\
 - k) :: Brückenbauwerke nach Normen und Richtlinien überwachen
 - l) :: Beobachtungs- und Messdienste an Deichen und Dämmen durchführen, Schäden feststellen und melden
 
-�
+
 
 12
 
@@ -359,13 +359,13 @@ Herstellen, Kontrollieren und Instandhalten von Ufersicherungen und Unterhaltung
 
 6
 
-�
+
 
 - b) :: Ufertreppen herstellen und instand halten
 - c) :: Unterhaltungswege herstellen, kontrollieren und instand halten
 - d) :: Schäden feststellen, Maßnahmen zur Verkehrssicherung durchführen
 
-�
+
 
 3
 
@@ -382,14 +382,14 @@ Durchführen von Maßnahmen zur Pflege und Entwicklung von Gewässern\\
 
 6
 
-�
+
 
 - f) :: Pflege- und Entwicklungspläne umsetzen
 - g) :: Bepflanzung, insbesondere Fertigstellungs-, Entwicklungs- und Unterhaltungspflege, durchführen
 - h) :: durch Tiere und Pflanzen verursachte Schäden feststellen und melden
 - i) :: Baumschäden feststellen und dokumentieren, Sicherungsmaßnahmen ergreifen
 
-�
+
 
 5
 
@@ -402,12 +402,12 @@ Herstellen, Kontrollieren und Instandhalten von Bauwerken für den Insel- und K�
 
 2
 
-�
+
 
 - b) :: Bauwerke des Insel- und Küstenschutzes, insbesondere Buhnen, Deiche und Strandmauern, herstellen und instand halten
 - c) :: Maßnahmen des Insel- und Küstenschutzes, insbesondere unter Berücksichtigung von Strand- und Dünenbildung durch Sandvorspülungen, Anlegen von Dünen und Bepflanzungen, durchführen
 
-�
+
 
 6
 
@@ -423,7 +423,7 @@ Durchführen von Aufgaben der Bauüberwachung\\
 - e) :: Baufortschritt prüfen und dokumentieren
 - f) :: Mengen und Massen ermitteln, Aufmaße erstellen, Baustofflieferungen überprüfen
 
-�
+
 
 10
 
@@ -439,13 +439,13 @@ Inspizieren und Unterhalten von Gewässerbetten:
 
 4
 
-�
+
 
 - c) :: Maßnahmen zur Überwachung von Fahrrinne und Fahrwasser durchführen und rechnergestützt dokumentieren
 - d) :: Abrahmungen ausführen, Positionierung mittels satellitengestützter Verfahren vornehmen
 - e) :: Arbeiten zur Gewässerbettunterhaltung durchführen, insbesondere Baggerpläne erstellen und Baggermassen ermitteln sowie Geschiebezugabe berücksichtigen
 
-�
+
 
 5
 
@@ -456,12 +456,12 @@ Bezeichnen und Sichern von Fahrrinne und Fahrwasser:
 
 6
 
-�
+
 
 - h) :: schwimmende Schifffahrtszeichen einmessen, auslegen, auswechseln und einziehen
 - i) :: feste Schifffahrtszeichen einmessen und aufbauen
 
-�
+
 
 3
 
@@ -475,12 +475,12 @@ Durchführen von gewässerkundlichen Messungen\\
 
 3
 
-�
+
 
 - c) :: Abfluss- und Strömungsmessungen durchführen
 - d) :: hydrologische Hauptwerte ermitteln und Zusammenhänge erläutern
 
-�
+
 
 2
 
@@ -493,7 +493,7 @@ Durchführen von Maßnahmen des Hochwasserschutzes sowie der Hochwasser- und Eis
 
 2
 
-�
+
 
 - b) :: bei Kontrollen von Gewässern, Hochwasserschutzdeichen, wasserbaulicher und wasserwirtschaftlicher Anlagen mitwirken
 - c) :: Hochwasser- und Eismeldedienste durchführen
@@ -501,7 +501,7 @@ Durchführen von Maßnahmen des Hochwasserschutzes sowie der Hochwasser- und Eis
 - e) :: Hilfskräfte einweisen und anleiten, Lageberichte erstellen
 - f) :: Hochwasserschäden feststellen und melden
 
-�
+
 
 4
 
@@ -518,11 +518,11 @@ Führen von schwimmenden Fahrzeugen und Bedienen von schwimmenden Geräten\\
 
 5
 
-�
+
 
 - f) :: Ladungsgewicht von Wasserfahrzeugen ermitteln
 
-�
+
 
 2
 
@@ -535,12 +535,12 @@ Betreiben und Unterhalten von Talsperren, Speichern und Rückhaltebecken\\
 
 2
 
-�
+
 
 - b) :: Regelungs- und Steuerungseinrichtungen bedienen und warten
 - c) :: bei der Vorbereitung und Durchführung von Maßnahmen zur Prüfung der Dichtigkeit und Standsicherheit mitwirken
 
-�
+
 
 3
 
@@ -553,7 +553,7 @@ Durchführen von qualitätssichernden Maßnahmen\\
 
 2*)
 
-�
+
 
 - b) :: Qualitätssicherung im eigenen Arbeitsbereich und bei Ausführung durch Dritte anwenden
 - c) :: Arbeitsergebnisse erfassen, beurteilen und anhand von Vorgaben prüfen
@@ -561,7 +561,7 @@ Durchführen von qualitätssichernden Maßnahmen\\
 - e) :: zur kontinuierliche Verbesserung von Arbeitsvorgängen und Arbeitsergebnissen beitragen
 - f) :: Kosten- und Leistungsrechnung sowie Methoden zum wirtschaftlichen Handeln anwenden
 
-�
+
 
 3*)
 

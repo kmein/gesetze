@@ -41,9 +41,9 @@ Dieses Gesetz tritt am 1. Januar 2021 in Kraft.
 Anlage - (zu § 1)Wirtschaftsplan nach § 8 des ERP-Verwaltungsgesetzes vom 26. Juni 2007
 
 (Fundstelle: BGBl. I 2020, 2621 - 2635)
-�
-�
-�
+
+
+
 Die ERP-Finanzierungshilfen sollen der Unterstützung von Unternehmensgründungen und -übernahmen, der Leistungssteigerung mittelständischer privater Unternehmen sowie der Förderung von Exporten der gewerblichen Wirtschaft dienen. Des Weiteren können Förderbeiträge zur Förderung von Energieeffizienzmaßnahmen geleistet werden.
 Dementsprechend sollen mit den Mitteln folgende Finanzierungszwecke mit einem Volumen von rd. 7 420 Mio. Euro zinsbegünstigt werden:
 | a) | Vorhaben in regionalen Fördergebieten                     | 600 Mio. Euro    |
@@ -66,7 +66,7 @@ Entsprechend der vorstehenden Aufteilung und mit der Zielsetzung, dass dadurch z
 
 Im Rahmen der veranschlagten Mittel können auch bis zu 10 Mio. Euro für neue Förderansätze gewährt werden.
 Aus dem Ansatz können auch Ausgaben für Mandatar-/Projekt-/Verwaltungskosten geleistet werden.
-�
+
 Der Titelansatz enthält die Zahlungsverpflichtungen aus den im Zuge der Neuordnung nicht auf den Bund übertragenen Kreditforderungen (Altgeschäft) und aus sonstigen Verpflichtungen im Zuge der Neuordnung der ERP-Wirtschaftsförderung sowie die Kosten aus Zusagen nach der Neuordnung der ERP-Wirtschaftsförderung bis einschließlich 31. Dezember 2020.
 Die Zahlungsverpflichtungen in künftigen Haushaltsjahren belaufen sich auf 1 297,8 Mio. Euro, davon fällig:\\
 | Jahr 2022 bis                | 146,9 Mio. Euro    |
@@ -74,15 +74,15 @@ Die Zahlungsverpflichtungen in künftigen Haushaltsjahren belaufen sich auf 1 2
 | Jahr 2024 bis zu             |   105,1 Mio. Euro  |
 | in künftigen Haushaltsjahren | 921,0Mio. Euro.    |
 
-�
+
 Der Titelansatz umfasst Mittel für
 
-- -- :: die Verwaltungs- und Refinanzierungskosten der KfW-Beteiligungstochter �KfW Capital“.
-- -- :: Insbesondere für das �ERP-Venture Capital-Fondsinvestments“ der KfW Capital.
+- -- :: die Verwaltungs- und Refinanzierungskosten der KfW-Beteiligungstochter KfW Capital“.
+- -- :: Insbesondere für das ERP-Venture Capital-Fondsinvestments“ der KfW Capital.
 
 Die KfW Capital ist auf Dachfondsbeteiligungen an Venture-Capital und Venture-Debt-Fonds spezialisiert.
-�
-�
+
+
 Der Ansatz umfasst insbesondere:
 
 - -- :: die Dotierung der ERP/EIF-Programme mit dem Ziel, mittelständischen Unternehmen die Beschaffung von haftendem Kapital sowohl in der Früh- und Wachstumsphase (Venture Capital) als auch in der Expansionsphase (Venture Debt, Mezzaninkapital) zu erleichtern;
@@ -95,7 +95,7 @@ Die ausgewiesenen Mittel sind Teil des Sondervermögens (Umschichtung) und gehen
 Aus dem Ansatz können auch Ausgaben für Mandatar-/Projektträger-/Verwaltungskosten geleistet werden.
 Die Verpflichtungsermächtigungen zu Lasten künftiger Haushaltsjahre belaufen sich auf rund 1 826 Mio. Euro.
 Im Rahmen der veranschlagten Mittel können auch bis zu 15 Mio. Euro für neue Förderansätze gewährt werden.
-�
+
 Von dem veranschlagten Baransatz entfallen 2,97 Mio. Euro auf Stipendienprogramme, und zwar
 
 - -- :: 1,040 Mio. Euro auf das MOE/GUS-Stipendienprogramm, mit dem Studenten der Wirtschaftswissenschaften aus mittel-, ost- und südosteuropäischen Ländern ein Studienaufenthalt in Deutschland ermöglicht wird,
@@ -108,7 +108,7 @@ Bis zu 0,620 Mio. Euro des Baransatzes entfallen auf ein deutsch/jüdisch-amerik
 Grundsätzlich sollen Reisen in die USA nicht gefördert werden.
 Aus dem Ansatz können auch Mandatar-/Projektträger-/Verwaltungskosten geleistet werden.
 Außer dem Baransatz ist bei diesem Titel eine Verpflichtungsermächtigung in Höhe von insgesamt 6,81 Mio. Euro veranschlagt, fällig in den Jahren 2022 bis 2024, um die Verlängerung des MOE/GUS-Stipendienprogramms sowie des deutsch/jüdisch-amerikanischen Begegnungsprojekts Germany Close Up bewilligen zu können.
-�
+
 Die Mittel dienen der Durchführung des Deutschen Programms für transatlantische Begegnung (Transatlantik-Programm). Im Rahmen dieses Programms werden völkerverbindende, insbesondere transatlantische Projekte im Sinne von George C. Marshall finanziell gefördert. Über die Förderung entscheidet das Bundesministerium für Wirtschaft und Energie (BMWi) grundsätzlich im Einvernehmen mit dem Interministeriellen Ausschuss (IMA).
 Außer dem Baransatz ist bei diesem Titel eine Verpflichtungsermächtigung in Höhe von insgesamt 6 Mio. Euro veranschlagt, fällig in den Jahren 2022 bis 2025, um auch mehrjährige Projekte fördern zu können.
 Der Ansatz und die Verpflichtungsermächtigungen werden einmalig aufgestockt, da zahlreiche transatlantische Projekte in 2020 aufgrund der Corona Pandemie nicht realisiert werden können und daher in die folgenden Haushaltsjahre verschoben werden.
@@ -116,28 +116,28 @@ Aus dem Ansatz können auch Mandatar-/Projektträger-/Verwaltungskosten geleiste
 Der Betrag ist für Inanspruchnahme aus Gewährleistungen, Bürgschaften, Haftungsfreistellungen und Haftungszusagen vorgesehen.
 Die Ermächtigung zur Übernahme von Gewährleistungen ergibt sich aus § 4 des jeweiligen ERP-Wirtschaftsplangesetzes.
 Die Verpflichtungen aus Gewährleistungen betrugen am 31. Dezember 2019 rund 1 800 Mio. Euro.
-�
-�
-�
+
+
+
 Veranschlagt werden Kosten für die zeitweilige Überlassung von Personal zur Unterstützung des Bundesministeriums für Wirtschaft und Energie bei der Wahrnehmung seiner Aufgaben bei der Verwaltung des ERP-Sondervermögens gemäß § 1 in Verbindung mit § 10 ERP-Verwaltungsgesetz. Hierbei geht es insbesondere um Aufgaben, die sich aus der Beteiligung des ERP-Sondervermögens an der Kreditanstalt für Wiederaufbau ergeben und besondere finanzwirtschaftliche Kenntnisse voraussetzen.
-�
+
 Durch diese Mittel sollen Maßnahmen der Öffentlichkeitsarbeit und der Fortentwicklung der ERP-Programme finanziert werden. Hierzu gehören Publikationen, in denen über Tätigkeit und Programme des ERP-Sondervermögens auch im Internet informiert wird.
 Ferner können aus dem Ansatz sonstige Ausgaben des ERP-Sondervermögens geleistet werden, soweit sie nicht vom Bund übernommen werden.
 Finanziert werden können auch Evaluierungen von ERP-Programmen sowie praxisnahe Untersuchungsformen (z. B. Seminare, Workshops, Tagungen u. Ä.), die zur Fortentwicklung der ERP-Förderung beitragen können.
-�
+
 Der Betrag ist für die Verzinsung der von der Kreditanstalt für Wiederaufbau gemäß ERP-Wirtschaftsplan 2020 aufgenommenen Mittel vorgesehen.
-�
+
 Veranschlagt sind zu erstattende Bearbeitungsgebühren, die nicht aus der Zinsmarge zu decken sind. Dazu gehören insbesondere die Gebühren für die treuhänderische Verwaltung von ERP-Darlehen und sonstigen Forderungen (z. B. wenn das ERP-Sondervermögen aus Bürgschaften in Anspruch genommen wird und den Förderinstituten die Weiterverfolgung der auf das ERP-Sondervermögen übergegangenen Forderungen übertragen worden ist). Aus dem Ansatz können auch Gerichts-, Prüfungs- und ähnliche Kosten gezahlt werden.
-�
+
 Der Titel ist für die Rückzahlung von Mitteln vorgesehen, die bei der Kreditanstalt für Wiederaufbau aufgenommen wurden.
-�
+
 Mit dem Bundesrechnungshof wurde im Zusammenhang mit der Prüfung der Jahresrechnung 2008 vereinbart, dass im Rahmen des ERP-Wirtschaftsplans alle Zahlungsströme erfasst werden, also auch solche, die sich nicht im Wirtschaftsförderungsbereich, sondern im Vermögensbereich des ERP-Sondervermögens abspielen (z. B. Rückzahlungen von ausgereichten Darlehen oder Einnahmen, die dem Erhalt der Vermögenssubstanz dienen). Der Ausgleichstitel gleicht Einnahmen und Ausgaben durch einen Korrekturposten aus und trägt so dem Grundsatz des Haushaltsausgleichs im ERP-Verwaltungsgesetz Rechnung.
 Aus dem Titel können auch Zahlungen im Rahmen der Förderabrechnung der ERP-Wirtschaftsförderung des Vorjahres geleistet werden.
-�
-�
-�
+
+
+
 Der Titel ist für Eingänge aus bereits ausgebuchten Forderungen vorgesehen.
-�
+
 Erwartet werden folgende liquide Erträge des ERP-Vermögens:
 a)
 Vergütung ERP-Förderrücklage
@@ -155,40 +155,40 @@ Summe
 310 390 T€
 Diese Erträge stehen für Fördermaßnahmen im Rahmen des ERP-Wirtschaftsplans zur Verfügung. Die nicht für Förderung in einem Jahr eingesetzten Erträge dienen als Haftkapital für unerwartete Verluste aus der risikotragenden Förderung und zusammen mit dem erwarteten Zuwachs der nicht für die Förderung nutzbaren Vermögensbestandteile des ERP-Sondervermögens in der KfW dem Substanzerhalt.
 Um einen dauerhaften Substanzerhalt des ERP-Sondervermögens zu gewährleisten, haben BMWi und BMF eine Ausgleichsvereinbarung abgeschlossen, nach der Jahresfehlbeträge zum fortgeschriebenen Gegenwertaufkommen des ERP-Sondervermögens jährlich ausgeglichen werden. Die zum Ausgleich erforderlichen Beträge werden jeweils im Zusammenhang mit der Aufstellung der jährlichen Bilanz des ERP-Sondervermögens ermittelt und mit Wirkung für diese Bilanz gebucht.
-�
+
 Veranschlagt sind Tilgungen von ERP-Darlehen:
 | Senator der Finanzen Berlin | 1 053 T€   |
 | Unternehmen                 | 381 800 T€ |
 | Summe                       | 382 853 T€ |
 
-�
+
 Es wird auf die Erläuterungen zu Titel 697 01 verwiesen.
-�
+
 Der Bundeshaushalt beteiligt sich an den aus den Titeln 892 01 (Finanzierungshilfen zur Unterstützung von Unternehmensgründungen und -übernahmen, zur Leistungssteigerung mittelständischer privater Unternehmen sowie für Exporte der gewerblichen Wirtschaft) und 683 01 (Förderkosten aus Zusagen bis zum 31.12.2020 sowie sonstige Verpflichtungen aus der Neuordnung der ERP-Wirtschaftsförderung) des ERP-Wirtschaftsplans im Rahmen der ERP-Innovationsfinanzierung gewährten Zinszuschüssen und den im Rahmen des Energie-Effizienzprogramms sowie des ERP-Startfonds gewährten Zinsverbilligungen. Die vom Bundeshaushalt dem ERP-Sondervermögen zu erstattenden Beträge werden bei diesem Titel vereinnahmt. Neuzusagen ab 2012 werden aus dem Bundeshaushalt nur noch in der ERP-Innovationsfinanzierung bezuschusst; im Übrigen handelt es sich um die Ausfinanzierung von Altzusagen. Darüber hinaus beteiligt sich der Bundeshaushalt an den aus dem Titel 682 02 (Finanzierungen von Projekten mit deutschen und europäischen Partnern zur Bereitstellung von haftendem Kapital für kleine und mittlere Unternehmen) gewährten Anlaufkosten für neue Förderansätze, z. B. den Aufbau einer strategisch orientierten Wagniskapitalfinanzierungsstruktur. Bei dem neuen Förderansatz handelt es sich um Anlaufkosten wie z. B. Studien sowie die Dotierung von Pilotinvestitionsvorhaben.
-�
+
 Aus dem ERP-Sondervermögen können Maßnahmen finanziert werden, bei denen ein Teil nachschüssig über ESF-Mittel finanziert wird. Aufgrund von EU-Vorgaben erfolgt die Weiterleitung der ESF-Mittel an das ERP-Sondervermögen über den Bundeshaushalt.
 2013 wurde vom ERP-Sondervermögen gemeinsam mit dem ESF der Mikromezzaninfonds aufgelegt, der zunächst vollständig aus dem Titel 682 02 (Finanzierungen von Projekten mit deutschen und europäischen Partnern zur Bereitstellung von haftendem Kapital für kleine und mittlere Unternehmen) des ERP-Wirtschaftsplans finanziert wird.
 Die über den Bundeshaushalt dem ERP-Sondervermögen zu erstattenden Beträge des ESF werden bei diesem Titel vereinnahmt.
-�
+
 Nach § 2 ERP-Wirtschaftsplangesetz können Geldmittel durch Kredite beschafft werden.
-�
-�
-�
+
+
+
 Aktivseite
-�
+
 Passivseite
-�
-�
-�
-�
-�
-�
+
+
+
+
+
+
 Im Jahr 2019 wurde in der Mittelstandsfinanzierung aus den ERP-Förderprogrammen ein Finanzierungsvolumen von rd. 4,5 Mrd. EUR gebunden, die Förderlast belief sich im genannten Zeitraum auf 211,0 Mio. EUR.
 Die ERP-Förderrücklagen I, II, III und IV sowie das ERP-Nachrangdarlehen werden im Rahmen dieses Finanzierungsbedarfs eingesetzt, das Eigenkapital dient zudem der risikoseitigen Unterlegung der ERP-Förderkredite.
 Das seit 2007 im Rahmen der Neuordnung der ERP-Wirtschaftsförderung eingebrachte Kapital hat die KfW für den Zeitraum vom 01.01. bis 31.12.2019 vertragsgemäß vergütet. Das eingebrachte Kapital wurde für das Jahr 2019 wie folgt vergütet:
 
-- • :: Vergütung der ERP-Förderrücklage I gemä�Anpassungsvertrags ERP-Förderrücklage“ und der ERP-Förderrücklagen II, III und IV gemäß § 2 der jeweiligen Einbringungsverträge durch Teilnahme der Rücklagen an der jährlichen Verteilung des nach den Vorabdotierungen verbleibenden handelsrechtlichen Jahresergebnisses der KfW.
-- • :: Die in den Vorjahren nicht zur ERP-Förderung eingesetzten anteiligen Jahresergebnisse werden separaten Gewinnrücklagen zugeführt (ERP-Gewinnrücklagen I und II), die für die ERP-Förderung in Folgejahren eingesetzt werden können. Darüber hinaus hat das ERP-Sondervermögen in den Jahren 2015 bis 2018 die ERP-Gewinnrücklage IV in Höhe von insgesamt 400,0 Mio. EUR, davon 200,0 Mio. EUR aus der ERP-Gewinnrücklage I, dotiert. Die ERP-Gewinnrücklage IV dient der Abdeckung von Förderlasten aus dem Programm �ERP-Venture Capital-Fondsinvestments“. Die Rücklage nimmt ebenfalls an der Verteilung des nach den Vorabdotierungen verbleibenden handelsrechtlichen Jahresergebnisses der KfW teil.
+- • :: Vergütung der ERP-Förderrücklage I gemäAnpassungsvertrags ERP-Förderrücklage“ und der ERP-Förderrücklagen II, III und IV gemäß § 2 der jeweiligen Einbringungsverträge durch Teilnahme der Rücklagen an der jährlichen Verteilung des nach den Vorabdotierungen verbleibenden handelsrechtlichen Jahresergebnisses der KfW.
+- • :: Die in den Vorjahren nicht zur ERP-Förderung eingesetzten anteiligen Jahresergebnisse werden separaten Gewinnrücklagen zugeführt (ERP-Gewinnrücklagen I und II), die für die ERP-Förderung in Folgejahren eingesetzt werden können. Darüber hinaus hat das ERP-Sondervermögen in den Jahren 2015 bis 2018 die ERP-Gewinnrücklage IV in Höhe von insgesamt 400,0 Mio. EUR, davon 200,0 Mio. EUR aus der ERP-Gewinnrücklage I, dotiert. Die ERP-Gewinnrücklage IV dient der Abdeckung von Förderlasten aus dem Programm ERP-Venture Capital-Fondsinvestments“. Die Rücklage nimmt ebenfalls an der Verteilung des nach den Vorabdotierungen verbleibenden handelsrechtlichen Jahresergebnisses der KfW teil.
 
 Die entsprechenden Anteile am zu verteilenden Jahresüberschuss der KfW beliefen sich für das Geschäftsjahr 2019 auf 505,1 Mio. EUR und verteilten sich wie folgt auf die ERP-Rücklagen:
 

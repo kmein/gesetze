@@ -84,7 +84,7 @@ hierzu befugten Person bestätigt worden ist.
 
 (1) Auf Grund des Beschlusses nach § 8 Absatz 1 erteilt der Urkundsbeamte der Geschäftsstelle die Vollstreckungsklausel in folgender Form:\\
 \\
-�Vollstreckungsklausel nach § 4 des Anerkennungs- und Vollstreckungsausführungsgesetzes. Gemäß dem Beschluss des .......... (Bezeichnung des Gerichts und des Beschlusses) ist die Zwangsvollstreckung aus .......... (Bezeichnung des Titels) zugunsten .......... (Bezeichnung des Berechtigten) gegen .......... (Bezeichnung des Verpflichteten) zulässig.\\
+Vollstreckungsklausel nach § 4 des Anerkennungs- und Vollstreckungsausführungsgesetzes. Gemäß dem Beschluss des .......... (Bezeichnung des Gerichts und des Beschlusses) ist die Zwangsvollstreckung aus .......... (Bezeichnung des Titels) zugunsten .......... (Bezeichnung des Berechtigten) gegen .......... (Bezeichnung des Verpflichteten) zulässig.\\
 \\
 Die zu vollstreckende Verpflichtung lautet:\\
 \\
@@ -94,8 +94,8 @@ Die Zwangsvollstreckung darf über Maßregeln zur Sicherung nicht hinausgehen, b
 \\
 Lautet der Titel auf Leistung von Geld, so ist der Vollstreckungsklausel folgender Zusatz anzufügen:\\
 \\
-�Solange die Zwangsvollstreckung über Maßregeln zur Sicherung nicht hinausgehen darf, kann der Schuldner die Zwangsvollstreckung durch Leistung einer Sicherheit in Höhe von ......... (Angabe des Betrages, wegen dessen der Berechtigte vollstrecken darf) abwenden.”
-(2) Wird die Zwangsvollstreckung nur für einen oder mehrere der durch die ausländische Entscheidung zuerkannten oder in einem anderen ausländischen Titel niedergelegten Ansprüche oder nur für einen Teil des Gegenstands der Verpflichtung zugelassen, so ist die Vollstreckungsklausel als �Teil-Vollstreckungsklausel nach § 4 des Anerkennungs- und Vollstreckungsausführungsgesetzes“ zu bezeichnen.
+Solange die Zwangsvollstreckung über Maßregeln zur Sicherung nicht hinausgehen darf, kann der Schuldner die Zwangsvollstreckung durch Leistung einer Sicherheit in Höhe von ......... (Angabe des Betrages, wegen dessen der Berechtigte vollstrecken darf) abwenden.”
+(2) Wird die Zwangsvollstreckung nur für einen oder mehrere der durch die ausländische Entscheidung zuerkannten oder in einem anderen ausländischen Titel niedergelegten Ansprüche oder nur für einen Teil des Gegenstands der Verpflichtung zugelassen, so ist die Vollstreckungsklausel als Teil-Vollstreckungsklausel nach § 4 des Anerkennungs- und Vollstreckungsausführungsgesetzes“ zu bezeichnen.
 (3) Die Vollstreckungsklausel ist von dem Urkundsbeamten der Geschäftsstelle zu unterschreiben und mit dem Gerichtssiegel zu versehen. Sie ist entweder auf die Ausfertigung des Titels oder auf ein damit zu verbindendes Blatt zu setzen. Falls eine Übersetzung des Titels vorliegt, ist sie mit der Ausfertigung zu verbinden.
 
 § 10 - Bekanntgabe der Entscheidung

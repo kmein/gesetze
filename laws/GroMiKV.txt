@@ -10,23 +10,23 @@ Auf Grund des § 13 Absatz 1 Satz 1 und 3 sowie des § 22 Satz 1 und 3 des Kredi
 
 Inhaltsübersicht
 
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 § 1 - Ausnahmen von der Anwendung der Obergrenze für Großkredite nach Artikel 395 Absatz 1 der Verordnung (EU) Nr. 575/2013
 
@@ -261,7 +261,7 @@ Anlage 1 - HA
 
 (Fundstelle: BGBl. I 2013, 4192)
 [[../normengrafiken/bgbl1_2013/j4183-1_0010.pdf][PDF-Dokument wird in eigenem Fenster angezeigt]]
-�
+
 
 Anlage 2 - Meldeformular EA
 
@@ -270,13 +270,13 @@ Anlage 2 - Meldeformular EA
 - <<FnA1-F806348_02>>[[#FnR.FnA1-F806348_02][2]] :: Als Sitz ist der juristische Sitz oder der Wohnsitz zu melden.
 - <<FnA1-F806348_03>>[[#FnR.FnA1-F806348_03][3]] :: Der Staat ist ausschließlich für ausländische Kreditnehmer anzuzeigen.
 - <<FnA1-F806348_04>>[[#FnR.FnA1-F806348_04][4]] :: Ein ISO-Code ist nur für ausländische Kreditnehmer anzugeben. Es ist die zweibuchstabige (ALPHA-2) Codierung nach ISO 3166-1, herausgegeben von der International Organization for Standardization (ISO), zu verwenden.
-- <<FnA1-F806348_05>>[[#FnR.FnA1-F806348_05][5]] :: Es ist der Wirtschaftszweig gemä�Bankenstatistik Kundensystematik“ der Deutschen Bundesbank zu verwenden.
+- <<FnA1-F806348_05>>[[#FnR.FnA1-F806348_05][5]] :: Es ist der Wirtschaftszweig gemäBankenstatistik Kundensystematik“ der Deutschen Bundesbank zu verwenden.
 - <<FnA1-F806348_06>>[[#FnR.FnA1-F806348_06][6]] :: Dieses Feld kann bei ausländischen Kreditnehmern ohne Registernummer befüllt werden.
 - <<FnA1-F806348_07>>[[#FnR.FnA1-F806348_07][7]] :: Die Registereintragung ist für eingetragene Kreditnehmer im Inland und in bestimmten anderen Ländern stets anzugeben.
 - <<FnA1-F806348_08>>[[#FnR.FnA1-F806348_08][8]] :: Bei der Anzeige eines Kreditnehmers mit Sitz in den USA (Vereinigte Staaten von Amerika) ist die Angabe des amerikanischen Bundesstaates erforderlich.
 - <<FnA1-F806348_09>>[[#FnR.FnA1-F806348_09][9]] :: Geburtsdatum und Beruf sind ausschließlich für natürliche Personen anzugeben.
 - <<FnA1-F806348_10>>[[#FnR.FnA1-F806348_10][10]] :: Bei der Anzeige eines Investmentfonds ist die Internationale Wertpapierkennnummer (ISIN) zu melden. Dies gilt auch für andere Konstrukte, für die nur eine ISIN existiert.
-- <<FnA1-F806348_11>>[[#FnR.FnA1-F806348_11][11]] :: Sofern eine einheitliche Identifikationsnummer �Legal Entity Identifier“ (LEI) existiert, ist diese anzugeben. Vorläufer der LEI, sog. Pre-LEI´s, sind ebenfalls zu berücksichtigen.
+- <<FnA1-F806348_11>>[[#FnR.FnA1-F806348_11][11]] :: Sofern eine einheitliche Identifikationsnummer Legal Entity Identifier“ (LEI) existiert, ist diese anzugeben. Vorläufer der LEI, sog. Pre-LEI´s, sind ebenfalls zu berücksichtigen.
 - <<FnA1-F806348_12>>[[#FnR.FnA1-F806348_12][12]] :: Bei einer Erstanzeige oder der Veränderung einer Kreditnehmereinheit ist eine Begründung erforderlich (ggf. auf gesondertem Blatt).
 - <<FnA1-F806348_13>>[[#FnR.FnA1-F806348_13][13]] :: Die Begründung der Zuordnung gibt den Zuordnungstatbestand nach § 19 Abs. 2 KWG an. Die entsprechende Code-Tabelle ist in den technischen Durchführungsbestimmungen für Millionenkredite nach § 14 KWG definiert.
 - <<FnA1-F806348_14>>[[#FnR.FnA1-F806348_14][14]] :: Der Referenzschuldner ist der Kreditnehmer, der hierarchisch die nächsthöhere Ebene in dieser Kreditnehmereinheit darstellt.
@@ -292,13 +292,13 @@ Anlage 3 - Meldeformular STA
 - <<FnA1-F806348_02a>>[[#FnR.FnA1-F806348_02a][2]] :: Als Sitz ist der juristische Sitz oder der Wohnsitz zu melden.
 - <<FnA1-F806348_03a>>[[#FnR.FnA1-F806348_03a][3]] :: Der Staat ist ausschließlich für ausländische Kreditnehmer anzuzeigen.
 - <<FnA1-F806348_04a>>[[#FnR.FnA1-F806348_04a][4]] :: Ein ISO-Code ist nur für ausländische Kreditnehmer anzugeben. Es ist die zweibuchstabige (ALPHA-2) Codierung nach ISO 3166-1, herausgegeben von der International Organization for Standardization (ISO), zu verwenden.
-- <<FnA1-F806348_05a>>[[#FnR.FnA1-F806348_05a][5]] :: Es ist der Wirtschaftszweig gemä�Bankenstatistik Kundensystematik“ der Deutschen Bundesbank zu verwenden.
+- <<FnA1-F806348_05a>>[[#FnR.FnA1-F806348_05a][5]] :: Es ist der Wirtschaftszweig gemäBankenstatistik Kundensystematik“ der Deutschen Bundesbank zu verwenden.
 - <<FnA1-F806348_06a>>[[#FnR.FnA1-F806348_06a][6]] :: Dieses Feld kann bei ausländischen Kreditnehmern ohne Registernummer befüllt werden.
 - <<FnA1-F806348_07a>>[[#FnR.FnA1-F806348_07a][7]] :: Die Registereintragung ist für eingetragene Kreditnehmer im Inland und in bestimmten anderen Ländern stets anzugeben.
 - <<FnA1-F806348_08a>>[[#FnR.FnA1-F806348_08a][8]] :: Bei der Anzeige eines Kreditnehmers mit Sitz in den USA (Vereinigte Staaten von Amerika) ist die Angabe des amerikanischen Bundesstaates erforderlich.
 - <<FnA1-F806348_09a>>[[#FnR.FnA1-F806348_09a][9]] :: Geburtsdatum und Beruf sind ausschließlich für natürliche Personen anzugeben.
 - <<FnA1-F806348_10a>>[[#FnR.FnA1-F806348_10a][10]] :: Bei der Anzeige eines Investmentfonds ist die Internationale Wertpapierkennnummer (ISIN) zu melden. Das gilt auch für andere Konstrukte, für die nur eine ISIN existiert.
-- <<FnA1-F806348_11a>>[[#FnR.FnA1-F806348_11a][11]] :: Sofern eine einheitliche Identifikationsnummer �Legal Entity Identifier“ (LEI) existiert, ist diese anzugeben. Vorläufer der LEI, sog. Pre-LEI´s sind ebenfalls zu berücksichtigen.
+- <<FnA1-F806348_11a>>[[#FnR.FnA1-F806348_11a][11]] :: Sofern eine einheitliche Identifikationsnummer Legal Entity Identifier“ (LEI) existiert, ist diese anzugeben. Vorläufer der LEI, sog. Pre-LEI´s sind ebenfalls zu berücksichtigen.
 - <<FnA1-F806348_12a>>[[#FnR.FnA1-F806348_12a][12]] :: Bei Erstanzeige oder Veränderung einer Kreditnehmereinheit ist eine Begründung erforderlich (ggf. auf gesondertem Blatt). Angaben sind nur bei Meldepflicht nach § 14 KWG erforderlich.
 - <<FnA1-F806348_13a>>[[#FnR.FnA1-F806348_13a][13]] :: Die Begründung der Zuordnung gibt den Zuordnungstatbestand nach § 19 Abs. 2 KWG an. Die entsprechende Code-Tabelle ist in den technischen Durchführungsbestimmungen für Millionenkredite nach § 14 KWG definiert. Angaben sind nur bei Meldepflicht nach § 14 KWG erforderlich.
 - <<FnA1-F806348_14a>>[[#FnR.FnA1-F806348_14a][14]] :: Der Referenzschuldner ist der Kreditnehmer, der hierarchisch die nächsthöhere Ebene in dieser Kreditnehmereinheit darstellt. Angaben sind nur bei Meldepflicht nach § 14 KWG erforderlich.

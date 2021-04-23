@@ -213,7 +213,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Gefahrzeichen, Vorschriftzeichen, Richtzeichen
     sonstige Zeichen (Zusatzschilder), Verkehrseinrichtungen
     Wissen um die Systematik und Logik
-    Formen, Farben, Piktogramme, Schrift der Verkehrszeichen, �Lesen“ von Verkehrseinrichtungen und Folgerungen für das eigene angemessene Verhalten
+    Formen, Farben, Piktogramme, Schrift der Verkehrszeichen, Lesen“ von Verkehrseinrichtungen und Folgerungen für das eigene angemessene Verhalten
   - b) :: Bahnübergänge
     Sicherheits- und Umweltbewusstsein -- Verhalten an Bahnübergängen.
 - 7. :: Andere Teilnehmer im Straßenverkehr
@@ -320,7 +320,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Technische Veränderungen am Motorrad
     Folgen/Beladen und Besetzung des Motorrades/Gewichtsverteilung
     Sicherung des Gepäcks/Folgen falscher Gewichtsverteilung, Einstellung von Federung und Dämpfung, Einstellung von Bedienhebeln
-    �Einmotten“ und Wiederinbetriebnahme des Motorrades
+    Einmotten“ und Wiederinbetriebnahme des Motorrades
   - d) :: Umweltschonung
     Bleifreier Kraftstoff, Katalysator
     Schalldämpfung des Auspuffgeräuschs (laut ist out)
@@ -330,7 +330,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Gefahrzeichen, Vorschriftzeichen, Richtzeichen, Fahren in Fahrstreifen, Überholverbote
     besondere Gefahren für Motorradfahrer durch:\\
     Fahrbahn, andere Verkehrsteilnehmer, Witterung, Sicht- und Verkehrsverhältnisse
-  - b) :: Fahrbahn �lesen“
+  - b) :: Fahrbahn lesen“
     Sand / Splitt / Teerverfugungen / Öl / Nässe / Glätte / Laub /\\
     Schmutz / Schienen / Gullys / Markierungen / Schlaglöcher /\\
     Spurrillen / Gegenstände auf der Fahrbahn
@@ -669,7 +669,7 @@ Anlage 2.5 - (zu § 4)Rahmenplan für den klassenspezifischen Zusatzstoff in den
     Räder und Bereifung, elektrische Einrichtungen, Bremsanlage, Ausrüstung
   - b) :: Unterrichtung über Handfertigkeiten, die im Rahmen der praktischen Ausbildung und Prüfung beherrscht werden müssen.
 
-  Die Punkte �Ausrüstung, Einbau und Prüfung von Geschwindigkeitsbegrenzern, Automatisch-lastabhängige Bremse, Dauerbremse, Haltestellenbremse, Kupplung, Wandlerkupplung, Geschwindigkeitsbegrenzer, Besonderheiten bei Gelenkbussen und Kneeling“ entfallen bei Klasse D1.
+  Die Punkte Ausrüstung, Einbau und Prüfung von Geschwindigkeitsbegrenzern, Automatisch-lastabhängige Bremse, Dauerbremse, Haltestellenbremse, Kupplung, Wandlerkupplung, Geschwindigkeitsbegrenzer, Besonderheiten bei Gelenkbussen und Kneeling“ entfallen bei Klasse D1.
 
 
 Anlage 2.6 - (zu § 4)Rahmenplan für den klassenspezifischen Zusatzstoff in der Klasse L (2 Doppelstunden)
@@ -938,7 +938,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 - 19.2.3 :: Rückwärts quer oder schräg einparken
 - 19.2.4 :: Rückwärtsfahren und Versetzen nach rechts an eine Rampe zum Be- oder Entladen
 - 19.3 :: Klassenspezifische Besonderheiten
-- 19.3.1 :: Kennenlernen der Gefahrenbereiche der �Toten Winkel“
+- 19.3.1 :: Kennenlernen der Gefahrenbereiche der Toten Winkel“
 - 19.3.2 :: Nutzung von Fahrstreifen
 - 19.3.3 :: Einschätzen des besonderen Raumbedarfs
 - 19.3.4 :: Beschleunigen, Bremsen und Kurvenverfahren (Berücksichtigung des jeweiligen Beladungszustandes)
@@ -968,7 +968,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 - 20.2.3 :: Rückwärts quer oder schräg einparken
 - 20.2.4 :: Halten zum Ein- oder Aussteigen
 - 20.3 :: Klassenspezifische Besonderheiten
-- 20.3.1 :: Kennenlernen der Gefahrenbereiche der �Toten Winkel“
+- 20.3.1 :: Kennenlernen der Gefahrenbereiche der Toten Winkel“
 - 20.3.2 :: Nutzung von Fahrstreifen
 - 20.3.3 :: Einschätzen des besonderen Raumbedarfs
 - 20.3.4 :: Beschleunigen, Bremsen und Kurvenfahren (Berücksichtigung stehender Fahrgäste)
@@ -997,7 +997,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 - 21.5.1 :: beim Fahren
   - -- :: Verhalten in besonderen Situationen, Fahren in Kurven, Gefällstrecken und Steigungen
   - -- :: Verhalten an Bahnübergängen
-  - -- :: Kennenlernen der Gefahrenbereiche der �Toten Winkel“
+  - -- :: Kennenlernen der Gefahrenbereiche der Toten Winkel“
   - -- :: Nutzung von Fahrstreifen
   - -- :: Einhalten fahrzeug- und straßenbezogener Höchstgeschwindigkeiten
   - -- :: Sicherheitsabstand
@@ -1031,7 +1031,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
   - -- :: Einschätzen des besonderen Raumbedarfs
   - -- :: Verhalten in besonderen Situationen, Fahren in Kurven, Gefällstrecken und Steigungen
   - -- :: Verhalten an Bahnübergängen
-  - -- :: Kennenlernen der Gefahrenbereiche der �Toten Winkel“
+  - -- :: Kennenlernen der Gefahrenbereiche der Toten Winkel“
   - -- :: Nutzung von Fahrstreifen
   - -- :: Einhalten fahrzeug- und straßenbezogener Höchstgeschwindigkeiten
   - -- :: Sicherheitsabstand

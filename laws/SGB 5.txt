@@ -9,13 +9,13 @@ Inhaltsübersicht
 Erstes Kapitel
 Allgemeine Vorschriften ..............
 §§ 1 bis 4b
-�
+
 Zweites Kapitel
 Versicherter Personenkreis
-�
-�
-�
-�
+
+
+
+
 Erster Abschnitt
 Versicherung kraft Gesetzes .........
 §§ 5 bis 8
@@ -25,11 +25,11 @@ Versicherungsberechtigung ...........
 Dritter Abschnitt
 Versicherung der Familienangehörigen .......
 § 10
-�
-�
+
+
 Drittes Kapitel
 Leistungen der Krankenversicherung
-�
+
 Erster Abschnitt
 Übersicht über die Leistungen .......
 § 11
@@ -44,7 +44,7 @@ Leistungen zur Erfassung von gesundheitlichen Risiken und Früherkennung von Kra
 §§ 25 und 26
 Fünfter Abschnitt
 Leistungen bei Krankheit
-�
+
 Erster Titel
 Krankenbehandlung ...................
 §§ 27 bis 43c
@@ -69,17 +69,17 @@ Zuzahlungen, Belastungsgrenze .......
 Zehnter Abschnitt
 Weiterentwicklung der Versorgung .......
 §§ 63 bis 68c
-�
-�
+
+
 Viertes Kapitel
 Beziehungen der Krankenkassen zu den Leistungserbringern
-�
+
 Erster Abschnitt
 Allgemeine Grundsätze .......
 §§ 69 bis 71
 Zweiter Abschnitt
 Beziehungen zu Ärzten, Zahnärzten und Psychotherapeuten
-�
+
 Erster Titel
 Sicherstellung der vertragsärztlichen und vertragszahnärztlichen Versorgung .......
 §§ 72 bis 76
@@ -140,19 +140,19 @@ Beziehungen zu Leistungserbringern in Staaten, in denen die Verordnung (EWG) Nr.
 Dreizehnter Abschnitt
 Beteiligung von Patientinnen und Patienten, Beauftragte oder Beauftragter der Bundesregierung für die Belange der Patientinnen und Patienten ............
 §§ 140f bis 140h
-�
-�
+
+
 Fünftes Kapitel
 Sachverständigenrat zur Begutachtung der Entwicklung im Gesundheitswesen .......
 §§ 141 und 142
-�
-�
+
+
 Sechstes Kapitel
 Organisation der Krankenkassen
-�
+
 Erster Abschnitt
 Arten der Krankenkassen
-�
+
 Erster Titel
 Ortskrankenkassen ...................
 §§ 143 bis 148
@@ -165,10 +165,10 @@ Vereinigung, Schließung und Insolvenz von Krankenkassen
 Vierter Titel
 Folgen der Auflösung, der Schließung und der Insolvenz
 § 165 bis 170
-�
-�
-�
-�
+
+
+
+
 (weggefallen)
 §§ 171 bis 172a
 Zweiter Abschnitt
@@ -176,13 +176,13 @@ Wahlrechte der Mitglieder ...........
 §§ 173 bis 175
 Erster Titel
 (weggefallen)
-�
+
 Zweiter Titel
 (weggefallen) .......
 §§ 176 bis 185
 Dritter Abschnitt
 Mitgliedschaft und Verfassung
-�
+
 Erster Titel
 Mitgliedschaft ......................
 §§ 186 bis 193
@@ -192,19 +192,19 @@ Satzung, Organe .....................
 Vierter Abschnitt
 Meldungen ...........................
 §§ 198 bis 206
-�
-�
+
+
 Siebtes Kapitel
 Verbände der Krankenkassen .......
 §§ 207 bis 219d
-�
-�
+
+
 Achtes Kapitel
 Finanzierung
-�
+
 Erster Abschnitt
 Beiträge
-�
+
 Erster Titel
 Aufbringung der Mittel ..............
 §§ 220 bis 225
@@ -232,25 +232,25 @@ Finanzausgleiche und Zuweisungen aus dem Gesundheitsfonds ................
 Fünfter Abschnitt
 Prüfung der Krankenkassen und ihrer Verbände ............................
 § 274
-�
-�
+
+
 Neuntes Kapitel
 Medizinischer Dienst
-�
+
 Erster Abschnitt
 Aufgaben ............................
 §§ 275 bis 277
 Zweiter Abschnitt
 Organisation ........................
 §§ 278 bis 283a
-�
-�
+
+
 Zehntes Kapitel
 Versicherungs- und Leistungsdaten, Datenschutz, Datentransparenz
-�
+
 Erster Abschnitt
 Informationsgrundlagen
-�
+
 Erster Titel
 Grundsätze der Datenverwendung ......
 §§ 284 bis 287a
@@ -259,7 +259,7 @@ Informationsgrundlagen der Krankenkassen .......................
 §§ 288 bis 293a
 Zweiter Abschnitt
 Übermittlung und Aufbereitung von Leistungsdaten, Datentransparenz
-�
+
 Erster Titel
 Übermittlung von Leistungsdaten .......
 §§ 294 bis 303
@@ -269,8 +269,8 @@ Datentransparenz .......
 Dritter Abschnitt
 Datenlöschung, Auskunftspflicht .......
 §§ 304 und 305b
-�
-�
+
+
 Elftes Kapitel
 Telematikinfrastruktur .......
 §§ 306 bis 383
@@ -1547,7 +1547,7 @@ Als Einnahmen zum Lebensunterhalt der Versicherten gelten auch die Einnahmen and
 
 (1) Die Krankenkasse übernimmt nach den Absätzen 2 und 3 die Kosten für Fahrten einschließlich der Transporte nach § 133 (Fahrkosten), wenn sie im Zusammenhang mit einer Leistung der Krankenkasse aus zwingenden medizinischen Gründen notwendig sind. Welches Fahrzeug benutzt werden kann, richtet sich nach der medizinischen Notwendigkeit im Einzelfall. Die Krankenkasse übernimmt Fahrkosten zu einer ambulanten Behandlung unter Abzug des sich nach § 61 Satz 1 ergebenden Betrages in besonderen Ausnahmefällen, die der Gemeinsame Bundesausschuss in den Richtlinien nach § 92 Abs. 1 Satz 2 Nr. 12 festgelegt hat. Die Übernahme von Fahrkosten nach Satz 3 und nach Absatz 2 Satz 1 Nummer 3 für Fahrten zur ambulanten Behandlung erfolgt nur nach vorheriger Genehmigung durch die Krankenkasse. Für Krankenfahrten zur ambulanten Behandlung gilt die Genehmigung nach Satz 4 als erteilt, wenn eine der folgenden Voraussetzungen vorliegt:
 
-- 1. :: ein Schwerbehindertenausweis mit dem Merkzeichen �aG“, �Bl“ oder �H“,
+- 1. :: ein Schwerbehindertenausweis mit dem Merkzeichen aG“, Bl“ oder H“,
 - 2. :: eine Einstufung gemäß § 15 des Elften Buches in den Pflegegrad 3, 4 oder 5, bei Einstufung in den Pflegegrad 3 zusätzlich eine dauerhafte Beeinträchtigung der Mobilität, oder
 - 3. :: bis zum 31. Dezember 2016 eine Einstufung in die Pflegestufe 2 gemäß § 15 des Elften Buches in der am 31. Dezember 2016 geltenden Fassung und seit dem 1. Januar 2017 mindestens eine Einstufung in den Pflegegrad 3.
 
@@ -3741,10 +3741,10 @@ Um den Besonderheiten der intensivpflegerischen Versorgung im Rahmen der häusli
 (1) Die Krankenkassen oder ihre Verbände schließen mit Kassenärztlichen Vereinigungen, Ärzten, Einrichtungen mit ärztlichem Personal, deren Gemeinschaften, den obersten Landesgesundheitsbehörden oder den von ihnen bestimmten Stellen, Verträge über die Durchführung von Schutzimpfungen nach § 20i. Als Gemeinschaften im Sinne des Satzes 1 gelten auch Vereinigungen zur Unterstützung von Mitgliedern, die Schutzimpfungen nach § 20i durchführen. Es sind insbesondere Verträge abzuschließen mit
 
 - 1. :: den an der vertragsärztlichen Versorgung teilnehmenden Ärzten oder deren Gemeinschaften,
-- 2. :: den Fachärzten für Arbeitsmedizin und Ärzten mit der Zusatzbezeichnung �Betriebsmedizin“, die nicht an der vertragsärztlichen Versorgung teilnehmen, oder deren Gemeinschaften und
+- 2. :: den Fachärzten für Arbeitsmedizin und Ärzten mit der Zusatzbezeichnung Betriebsmedizin“, die nicht an der vertragsärztlichen Versorgung teilnehmen, oder deren Gemeinschaften und
 - 3. :: den obersten Landesgesundheitsbehörden oder den von ihnen bestimmten Stellen.
 
-In Verträgen mit den Fachärzten für Arbeitsmedizin, Ärzten mit der Zusatzbezeichnung �Betriebsmedizin“ und sonstigen Ärzten, die nicht an der vertragsärztlichen Versorgung teilnehmen, oder deren Gemeinschaften sind insbesondere Regelungen zur vereinfachten Umsetzung der Durchführung von Schutzimpfungen, insbesondere durch die pauschale Bereitstellung von Impfstoffen, sowie Regelungen zur vereinfachten Abrechnung, insbesondere durch die Erstattung von Pauschalbeträgen oder anteilig nach den Versichertenzahlen (Umlageverfahren) vorzusehen. In Verträgen mit den obersten Landesgesundheitsbehörden oder den von ihnen bestimmten Stellen sind insbesondere folgende Regelungen vorzusehen:
+In Verträgen mit den Fachärzten für Arbeitsmedizin, Ärzten mit der Zusatzbezeichnung Betriebsmedizin“ und sonstigen Ärzten, die nicht an der vertragsärztlichen Versorgung teilnehmen, oder deren Gemeinschaften sind insbesondere Regelungen zur vereinfachten Umsetzung der Durchführung von Schutzimpfungen, insbesondere durch die pauschale Bereitstellung von Impfstoffen, sowie Regelungen zur vereinfachten Abrechnung, insbesondere durch die Erstattung von Pauschalbeträgen oder anteilig nach den Versichertenzahlen (Umlageverfahren) vorzusehen. In Verträgen mit den obersten Landesgesundheitsbehörden oder den von ihnen bestimmten Stellen sind insbesondere folgende Regelungen vorzusehen:
 
 - 1. :: Regelungen zur Förderung von Schutzimpfungen durch den öffentlichen Gesundheitsdienst,
 - 2. :: Regelungen zur vereinfachten Umsetzung der Durchführung von Schutzimpfungen nach § 20 Absatz 5 Satz 1 und 2 des Infektionsschutzgesetzes, insbesondere durch die pauschale Bereitstellung von Impfstoffen, soweit die Krankenkassen zur Tragung der Kosten nach § 20 Absatz 5 Satz 3 des Infektionsschutzgesetzes verpflichtet sind,
@@ -3758,7 +3758,7 @@ Einigen sich die Vertragsparteien nach Satz 1 nicht innerhalb einer Frist von dr
 
 § 132f - Versorgung durch Betriebsärzte
 
-Die Krankenkassen oder ihre Verbände können in Ergänzung zur vertragsärztlichen Versorgung und unter Berücksichtigung der Richtlinien nach § 25 Absatz 4 Satz 2 mit geeigneten Fachärzten für Arbeitsmedizin oder den über die Zusatzbezeichnung �Betriebsmedizin“ verfügenden Ärzten oder deren Gemeinschaften Verträge über die Durchführung von Gesundheitsuntersuchungen nach § 25 Absatz 1, über Maßnahmen zur betrieblichen Gesundheitsförderung, über Präventionsempfehlungen, Empfehlungen medizinischer Vorsorgeleistungen und über die Heilmittelversorgung schließen, soweit diese in Ergänzung zur arbeitsmedizinischen Vorsorge erbracht werden.
+Die Krankenkassen oder ihre Verbände können in Ergänzung zur vertragsärztlichen Versorgung und unter Berücksichtigung der Richtlinien nach § 25 Absatz 4 Satz 2 mit geeigneten Fachärzten für Arbeitsmedizin oder den über die Zusatzbezeichnung Betriebsmedizin“ verfügenden Ärzten oder deren Gemeinschaften Verträge über die Durchführung von Gesundheitsuntersuchungen nach § 25 Absatz 1, über Maßnahmen zur betrieblichen Gesundheitsförderung, über Präventionsempfehlungen, Empfehlungen medizinischer Vorsorgeleistungen und über die Heilmittelversorgung schließen, soweit diese in Ergänzung zur arbeitsmedizinischen Vorsorge erbracht werden.
 
 § 132g - Gesundheitliche Versorgungsplanung für die letzte Lebensphase
 
@@ -7300,7 +7300,7 @@ Berechtigt im Sinne von Satz 1 Nummer 4 sind Leistungserbringerinstitutionen, mi
 - 15. :: die sichere Nutzung von Komponenten, die den Zugriff der Versicherten auf die elektronische Patientenakte über eine Benutzeroberfläche geeigneter Endgeräte ermöglichen,
 - 16. :: die Möglichkeit und die Voraussetzungen, gemäß § 363 Daten der elektronischen Patientenakte freiwillig für die in § 303e Absatz 2 Nummer 2, 4, 5 und 7 aufgeführten Forschungszwecke freizugeben,
 - 17. :: die Rechte der Versicherten gegenüber der Krankenkasse als dem für die Datenverarbeitung Verantwortlichen nach Artikel 4 Nummer 7 der Verordnung (EU) 2016/679,
-- 18. :: die Möglichkeit, den Zugriff von Leistungserbringern nach Nummer 10 auf Daten in der elektronischen Patientenakte nach § 352 auch Ärzten, die bei einer für den Öffentlichen Gesundheitsdienst zuständigen Behörde tätig sind, und Fachärzten für Arbeitsmedizin sowie Ärzten, die über die Zusatzbezeichnung �Betriebsmedizin“ verfügen, zu erteilen,
+- 18. :: die Möglichkeit, den Zugriff von Leistungserbringern nach Nummer 10 auf Daten in der elektronischen Patientenakte nach § 352 auch Ärzten, die bei einer für den Öffentlichen Gesundheitsdienst zuständigen Behörde tätig sind, und Fachärzten für Arbeitsmedizin sowie Ärzten, die über die Zusatzbezeichnung Betriebsmedizin“ verfügen, zu erteilen,
 - 19. :: die Möglichkeit, ab dem 1. Januar 2022 über die Benutzeroberfläche eines geeigneten Endgeräts einem Vertreter die Befugnis zu erteilen, die Rechte des Versicherten im Rahmen der Führung seiner elektronischen Patientenakte innerhalb der erteilten Vertretungsbefugnis wahrzunehmen, und
 - 20. :: mögliche versorgungsrelevante Folgen, die daraus resultieren können, dass der Versicherte von seinen Rechten Gebrauch macht, sich gegen die Nutzung einer elektronischen Patientenakte zu entscheiden, Zugriffe auf Daten der elektronischen Patientenakte nicht zu erteilen oder Daten der elektronischen Patientenakte zu löschen.
 
@@ -7431,7 +7431,7 @@ Auf die Daten in der elektronischen Patientenakte nach § 341 Absatz 1 Satz 1 d�
   - b) :: deren Zugriff im Rahmen der von ihnen zulässigerweise zu erledigenden Tätigkeiten erforderlich ist und unter Aufsicht eines Zugriffsberechtigten nach Nummer 14 erfolgt;
 - 16. :: Ärzte, die bei einer für den Öffentlichen Gesundheitsdienst zuständigen Behörde tätig sind, mit einem Zugriff, der die Verarbeitung von Daten nach § 341 Absatz 2 ermöglicht, soweit diese Datenverarbeitung erforderlich ist für die Erfüllung von Aufgaben, die der für den Öffentlichen Gesundheitsdienst zuständigen Behörde zugewiesen sind;
 - 17. :: im Rahmen der jeweiligen Zugriffsberechtigung nach Nummer 16 auch Personen, die bei einer für den Öffentlichen Gesundheitsdienst zuständigen Behörde tätig sind, soweit der Zugriff im Rahmen der von ihnen zulässigerweise zu erledigenden Tätigkeiten erforderlich ist und der Zugriff unter Aufsicht eines Arztes erfolgt;
-- 18. :: Fachärzte für Arbeitsmedizin und Ärzte, die über die Zusatzbezeichnung �Betriebsmedizin“ verfügen (Betriebsärzte), außerhalb einer Tätigkeit nach Nummer 1, mit einem Zugriff, der das Auslesen, die Speicherung und die Verwendung von Daten nach § 341 Absatz 2 sowie die Verarbeitung von Daten nach § 341 Absatz 2 Nummer 5 ermöglicht.
+- 18. :: Fachärzte für Arbeitsmedizin und Ärzte, die über die Zusatzbezeichnung Betriebsmedizin“ verfügen (Betriebsärzte), außerhalb einer Tätigkeit nach Nummer 1, mit einem Zugriff, der das Auslesen, die Speicherung und die Verwendung von Daten nach § 341 Absatz 2 sowie die Verarbeitung von Daten nach § 341 Absatz 2 Nummer 5 ermöglicht.
 
 
 § 353 - Erteilung der Einwilligung

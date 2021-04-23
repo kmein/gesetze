@@ -10,7 +10,7 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und des § 30 Absatz 5 d
 
 § 1 - Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
-(1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum �Geprüften Sportfachwirt“ und zur �Geprüften Sportfachwirtin“ nach den §§ 2 bis 10 durchführen, in denen die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit nachzuweisen ist.
+(1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum Geprüften Sportfachwirt“ und zur Geprüften Sportfachwirtin“ nach den §§ 2 bis 10 durchführen, in denen die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit nachzuweisen ist.
 (2) Durch die Prüfung ist festzustellen, ob die notwendigen Qualifikationen und Erfahrungen vorhanden sind, um in den verschiedenen Bereichen der Sportwirtschaft, insbesondere in Sportvereinen, Sportverbänden und Sportunternehmen, eigenständig umfassende und verantwortliche Aufgaben der Planung, Steuerung und Kontrolle unter Nutzung betriebs- und personalwirtschaftlicher Steuerungsinstrumente auszuüben. Des Weiteren ist nachzuweisen, dass die Chancen der branchenübergreifenden Zusammenarbeit, der Kooperation mit Partnern sowie des Sponsorings erkannt und genutzt werden. Regionale, nationale sowie internationale Entwicklungen und Trends sind zu berücksichtigen. Es ist festzustellen, dass folgende Aufgaben eigenständig und verantwortlich unter Beachtung wirtschaftlicher, rechtlicher und sozialer Zusammenhänge wahrgenommen werden können:
 
 - 1. :: Leitung und Geschäftsführung in Sportvereinen und -verbänden sowie in öffentlichen Verwaltungen,
@@ -24,11 +24,11 @@ Hierzu gehören insbesondere:
 - 4. :: Personal- und Organisationsentwicklung,
 - 5. :: Personalführung und Qualifizierung der Mitarbeiter durch Aus- und Weiterbildung.
 
-(3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss �Geprüfter Sportfachwirt“ oder �Geprüfte Sportfachwirtin“.
+(3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss Geprüfter Sportfachwirt“ oder Geprüfte Sportfachwirtin“.
 
 § 2 - Zulassungsvoraussetzungen
 
-(1) Zur Prüfung im Prüfungsteil �Wirtschaftsbezogene Qualifikationen“ ist zuzulassen, wer
+(1) Zur Prüfung im Prüfungsteil Wirtschaftsbezogene Qualifikationen“ ist zuzulassen, wer
 
 - 1. :: eine mit Erfolg abgelegte Abschlussprüfung in einem anerkannten kaufmännischen oder verwaltenden Ausbildungsberuf der Sportwirtschaft oder
 - 2. :: eine mit Erfolg abgelegte Abschlussprüfung in einem anerkannten kaufmännischen oder verwaltenden Ausbildungsberuf und danach eine mindestens einjährige Berufspraxis oder
@@ -37,9 +37,9 @@ Hierzu gehören insbesondere:
 
 nachweist.
 
-(2) Zur Prüfung im Prüfungsteil �Handlungsspezifische Qualifikationen“ ist zuzulassen, wer Folgendes nachweist:
+(2) Zur Prüfung im Prüfungsteil Handlungsspezifische Qualifikationen“ ist zuzulassen, wer Folgendes nachweist:
 
-- 1. :: die Ablegung des Prüfungsteils �Wirtschaftsbezogene Qualifikationen“, die nicht länger als fünf Jahre zurückliegt, und
+- 1. :: die Ablegung des Prüfungsteils Wirtschaftsbezogene Qualifikationen“, die nicht länger als fünf Jahre zurückliegt, und
 - 2. :: mindestens ein Jahr Berufspraxis im Fall des Absatzes 1 Nummer 1 oder ein weiteres Jahr Berufspraxis zu den in Absatz 1 Nummer 2 bis 4 genannten Zulassungsvoraussetzungen.
 
 (3) Die Berufspraxis nach Absatz 1 und 2 muss inhaltlich wesentliche Bezüge zu den in § 1 Absatz 2 genannten Aufgaben haben. Dabei sind auch ehrenamtliche Tätigkeiten zu berücksichtigen.
@@ -52,14 +52,14 @@ nachweist.
 - 1. :: Wirtschaftsbezogene Qualifikationen,
 - 2. :: Handlungsspezifische Qualifikationen.
 
-(2) Der Prüfungsteil �Wirtschaftsbezogene Qualifikationen“ gliedert sich in folgende Qualifikationsbereiche:
+(2) Der Prüfungsteil Wirtschaftsbezogene Qualifikationen“ gliedert sich in folgende Qualifikationsbereiche:
 
 - 1. :: Volks- und Betriebswirtschaft nach § 4 Absatz 1,
 - 2. :: Rechnungswesen nach § 4 Absatz 2,
 - 3. :: Recht und Steuern nach § 4 Absatz 3,
 - 4. :: Unternehmensführung nach § 4 Absatz 4.
 
-(3) Der Prüfungsteil �Handlungsspezifische Qualifikationen“ gliedert sich in folgende Handlungsbereiche:
+(3) Der Prüfungsteil Handlungsspezifische Qualifikationen“ gliedert sich in folgende Handlungsbereiche:
 
 - 1. :: Leitung und Vermarktung von Vereinen und Sportanlagen nach § 5 Absatz 1,
 - 2. :: Entwicklung und Umsetzung von allgemeinen sowie zielgruppenspezifischen Angeboten und Projekten im Sport nach § 5 Absatz 2,
@@ -67,24 +67,24 @@ nachweist.
 - 4. :: Planung, Konzeption und Durchführung von Maßnahmen des Marketings und der Mittelbeschaffung nach § 5 Absatz 4,
 - 5. :: Führung und Zusammenarbeit nach § 5 Absatz 5.
 
-(4) In den Qualifikationsbereichen nach Absatz 2 ist schriftlich in Form von anwendungsbezogenen Aufgaben nach § 4 zu prüfen. In den Handlungsbereichen nach Absatz 3 ist schriftlich in Form von handlungsorientierten Aufgabenstellungen nach § 5 sowie mündlich zu prüfen. Die Teilprüfung �Handlungsspezifische Qualifikationen“ ist erst nach dem Ablegen der Teilprüfung �Wirtschaftsbezogene Qualifikationen“ durchzuführen.
+(4) In den Qualifikationsbereichen nach Absatz 2 ist schriftlich in Form von anwendungsbezogenen Aufgaben nach § 4 zu prüfen. In den Handlungsbereichen nach Absatz 3 ist schriftlich in Form von handlungsorientierten Aufgabenstellungen nach § 5 sowie mündlich zu prüfen. Die Teilprüfung Handlungsspezifische Qualifikationen“ ist erst nach dem Ablegen der Teilprüfung Wirtschaftsbezogene Qualifikationen“ durchzuführen.
 (5) Die mündliche Prüfung gliedert sich in eine Präsentation und ein situationsbezogenes Fachgespräch. Es soll auch nachgewiesen werden, dass angemessen und sachgerecht mit Gesprächspartnern kommuniziert werden kann und dabei argumentations- und präsentationstechnische Instrumente sachgerecht eingesetzt werden können.
 (6) In der Präsentation soll nachgewiesen werden, dass eine komplexe Problemstellung der betrieblichen Praxis dargestellt, beurteilt und gelöst werden kann. Die Themenstellung soll sich auf die Handlungsbereiche nach Absatz 3 beziehen. Die Dauer der Präsentation soll dabei zehn Minuten nicht überschreiten. Die Präsentation geht mit einem Drittel in die Bewertung der mündlichen Prüfung ein.
-(7) Das Thema der Präsentation wird von der zu prüfenden Person selbst formuliert und zusammen mit einer Kurzbeschreibung dem Prüfungsausschuss bei der ersten schriftlichen Prüfungsleistung der �Handlungsspezifischen Qualifikationen“ eingereicht.
+(7) Das Thema der Präsentation wird von der zu prüfenden Person selbst formuliert und zusammen mit einer Kurzbeschreibung dem Prüfungsausschuss bei der ersten schriftlichen Prüfungsleistung der Handlungsspezifischen Qualifikationen“ eingereicht.
 (8) Ausgehend von der Präsentation soll in dem Fachgespräch nachgewiesen werden, in Situationen der verschiedenen Bereiche der Sportwirtschaft, insbesondere in Sportvereinen, Sportverbänden und Sportunternehmen, Wissen anwenden und sachgerechte Lösungen vorschlagen zu können. Das Fachgespräch soll in der Regel 20 Minuten nicht überschreiten.
 (9) Die mündliche Prüfung nach Absatz 5 ist nur durchzuführen, wenn in den schriftlichen Prüfungsleistungen nach Absatz 4 mindestens ausreichende Leistungen erbracht wurden.
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
 § 4 - Wirtschaftsbezogene Qualifikationen
 
-(1) Im Qualifikationsbereich �Volks- und Betriebswirtschaft“ sollen zum einen grundlegende volkswirtschaftliche Zusammenhänge und ihre Bedeutung für die betriebliche Praxis beurteilt werden können. Zum anderen müssen grundlegende betriebliche Funktionen und Funktionsbereiche und deren Zusammenwirken im Betrieb verstanden werden. Weiterhin soll der Vorgang einer Existenzgründung erfasst und in seiner Gesamtheit strukturiert werden können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(1) Im Qualifikationsbereich Volks- und Betriebswirtschaft“ sollen zum einen grundlegende volkswirtschaftliche Zusammenhänge und ihre Bedeutung für die betriebliche Praxis beurteilt werden können. Zum anderen müssen grundlegende betriebliche Funktionen und Funktionsbereiche und deren Zusammenwirken im Betrieb verstanden werden. Weiterhin soll der Vorgang einer Existenzgründung erfasst und in seiner Gesamtheit strukturiert werden können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: volkswirtschaftliche Grundlagen,
 - 2. :: betriebliche Funktionen und deren Zusammenwirken,
 - 3. :: Existenzgründung und Unternehmensrechtsformen,
 - 4. :: Unternehmenszusammenschlüsse.
 
-(2) Im Qualifikationsbereich �Rechnungswesen“ soll die Fähigkeit nachgewiesen werden, die Bedeutung des Rechnungswesens als Dokumentations-, Entscheidungs- und Kontrollinstrument für die Unternehmensführung darstellen und begründen zu können. Dazu gehören insbesondere, die bilanziellen Zusammenhänge sowie die Kostenrechnung in Grundzügen erläutern und anwenden zu können. Außerdem sollen erarbeitete Kennzahlen für eine Aussage über die Unternehmenssituation ausgewertet werden können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(2) Im Qualifikationsbereich Rechnungswesen“ soll die Fähigkeit nachgewiesen werden, die Bedeutung des Rechnungswesens als Dokumentations-, Entscheidungs- und Kontrollinstrument für die Unternehmensführung darstellen und begründen zu können. Dazu gehören insbesondere, die bilanziellen Zusammenhänge sowie die Kostenrechnung in Grundzügen erläutern und anwenden zu können. Außerdem sollen erarbeitete Kennzahlen für eine Aussage über die Unternehmenssituation ausgewertet werden können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: grundlegende Aspekte des Rechnungswesens,
 - 2. :: Finanzbuchhaltung,
@@ -92,12 +92,12 @@ nachweist.
 - 4. :: Auswertung der betriebswirtschaftlichen Kennzahlen,
 - 5. :: Planungsrechnung.
 
-(3) Im Qualifikationsbereich �Recht und Steuern“ sollen allgemeine Kenntnisse des Bürgerlichen Rechts und des Handelsrechts sowie Kenntnisse des Arbeitsrechts nachgewiesen werden. Weiterhin sollen an unternehmenstypischen Beispielen und Situationen mögliche Vertragsgestaltungen vorbereitet und deren Auswirkungen bewertet werden können. Es müssen außerdem die Grundzüge des unternehmensrelevanten Steuerrechts verstanden werden. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(3) Im Qualifikationsbereich Recht und Steuern“ sollen allgemeine Kenntnisse des Bürgerlichen Rechts und des Handelsrechts sowie Kenntnisse des Arbeitsrechts nachgewiesen werden. Weiterhin sollen an unternehmenstypischen Beispielen und Situationen mögliche Vertragsgestaltungen vorbereitet und deren Auswirkungen bewertet werden können. Es müssen außerdem die Grundzüge des unternehmensrelevanten Steuerrechts verstanden werden. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: rechtliche Zusammenhänge,
 - 2. :: steuerrechtliche Bestimmungen.
 
-(4) Im Qualifikationsbereich �Unternehmensführung“ soll die Fähigkeit nachgewiesen werden, die Inhalte der Betriebsorganisation, der Personalführung und -entwicklung sowie der Planungs- und Analysemethoden im betrieblichen Umfeld zu kennen, deren Auswirkungen auf die Unternehmensführung erläutern und in Teilumfängen anwenden zu können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(4) Im Qualifikationsbereich Unternehmensführung“ soll die Fähigkeit nachgewiesen werden, die Inhalte der Betriebsorganisation, der Personalführung und -entwicklung sowie der Planungs- und Analysemethoden im betrieblichen Umfeld zu kennen, deren Auswirkungen auf die Unternehmensführung erläutern und in Teilumfängen anwenden zu können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: Betriebsorganisation,
 - 2. :: Personalführung,
@@ -114,7 +114,7 @@ Die Gesamtdauer soll jedoch 330 Minuten nicht überschreiten.
 
 § 5 - Handlungsspezifische Qualifikationen
 
-(1) Im Handlungsbereich �Leitung und Vermarktung von Vereinen und Sportanlagen“ soll die Fähigkeit nachgewiesen werden, Managementtechniken zur effektiven Prozesssteuerung im Geschäftsbetrieb einzusetzen. Strategien sollen entwickelt und deren Auswirkungen auf die Organisation aufgezeigt werden. Marktchancen sollen erkannt und eingeschätzt werden, um unternehmerische Entscheidungen vorzubereiten und zu treffen. Ziele sollen formuliert, Zielgruppen bestimmt und die jeweiligen Marktgegebenheiten beobachtet und analysiert werden. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(1) Im Handlungsbereich Leitung und Vermarktung von Vereinen und Sportanlagen“ soll die Fähigkeit nachgewiesen werden, Managementtechniken zur effektiven Prozesssteuerung im Geschäftsbetrieb einzusetzen. Strategien sollen entwickelt und deren Auswirkungen auf die Organisation aufgezeigt werden. Marktchancen sollen erkannt und eingeschätzt werden, um unternehmerische Entscheidungen vorzubereiten und zu treffen. Ziele sollen formuliert, Zielgruppen bestimmt und die jeweiligen Marktgegebenheiten beobachtet und analysiert werden. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: Entwickeln und Umsetzen von Strategien,
 - 2. :: Bewerten von Organisationsstrukturen,
@@ -123,7 +123,7 @@ Die Gesamtdauer soll jedoch 330 Minuten nicht überschreiten.
 - 5. :: Ermitteln und Auswerten betriebsrelevanter Kennzahlen,
 - 6. :: Beobachten und Analysieren bestehender und potenzieller Märkte und Zielgruppen.
 
-(2) Im Handlungsbereich �Entwicklung und Umsetzung von allgemeinen sowie zielgruppenspezifischen Angeboten und Projekten im Sport“ soll die Fähigkeit nachgewiesen werden, Konzepte für Angebote zu entwickeln. Angebote sollen geplant, umgesetzt und einem kontinuierlichen Qualitätssicherungsprozess unterzogen werden. Dabei sind die Rahmenbedingungen zu berücksichtigen und die sport- und bewegungsbezogenen Trends zu beachten. Projekte sollen geplant, durchgeführt und kontrolliert werden. Es sollen Förderprogramme genutzt und Kooperationen begründet werden. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(2) Im Handlungsbereich Entwicklung und Umsetzung von allgemeinen sowie zielgruppenspezifischen Angeboten und Projekten im Sport“ soll die Fähigkeit nachgewiesen werden, Konzepte für Angebote zu entwickeln. Angebote sollen geplant, umgesetzt und einem kontinuierlichen Qualitätssicherungsprozess unterzogen werden. Dabei sind die Rahmenbedingungen zu berücksichtigen und die sport- und bewegungsbezogenen Trends zu beachten. Projekte sollen geplant, durchgeführt und kontrolliert werden. Es sollen Förderprogramme genutzt und Kooperationen begründet werden. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: Bestimmen relevanter Zielgruppen,
 - 2. :: Erkennen und Beurteilen von Trends und Innovationen,
@@ -132,21 +132,21 @@ Die Gesamtdauer soll jedoch 330 Minuten nicht überschreiten.
 - 5. :: Festlegen von Qualitätsstandards und Durchführen der Qualitätssicherung,
 - 6. :: Nutzen von Fördermöglichkeiten und Kooperationen.
 
-(3) Im Handlungsbereich �Konzeption und Organisation von regionalen, nationalen und internationalen Veranstaltungen im Sport“ soll die Fähigkeit nachgewiesen werden, Konzepte für Veranstaltungen, unter Berücksichtigung der betrieblichen, rechtlichen und gesellschaftlichen Rahmenbedingungen, zu erstellen. Veranstaltungen sollen geplant, umgesetzt und hinsichtlich der Zielerreichung überprüft werden. Schlussfolgerungen und sich ergebende Maßnahmen sollen aus der Bewertung der Ergebnisse abgeleitet werden. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(3) Im Handlungsbereich Konzeption und Organisation von regionalen, nationalen und internationalen Veranstaltungen im Sport“ soll die Fähigkeit nachgewiesen werden, Konzepte für Veranstaltungen, unter Berücksichtigung der betrieblichen, rechtlichen und gesellschaftlichen Rahmenbedingungen, zu erstellen. Veranstaltungen sollen geplant, umgesetzt und hinsichtlich der Zielerreichung überprüft werden. Schlussfolgerungen und sich ergebende Maßnahmen sollen aus der Bewertung der Ergebnisse abgeleitet werden. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: Beurteilen von Veranstaltungen im Hinblick auf die eigene Unternehmensphilosophie,
 - 2. :: Entwickeln und Umsetzen von Konzepten für unterschiedliche Arten von Veranstaltungen im Sport, unter Einbindung von Verbänden und Organisationen,
 - 3. :: Erarbeiten von Finanzierungs- und Organisationsplänen sowie Konzepten für die Vermarktung,
 - 4. :: Überprüfen der veranstaltungsspezifischen Zielsetzungen, Dokumentieren der Ergebnisse und Ableiten von Schlussfolgerungen.
 
-(4) Im Handlungsbereich �Planung, Konzeption und Durchführung von Maßnahmen des Marketings und der Mittelbeschaffung“ soll die Fähigkeit nachgewiesen werden, unter Berücksichtigung der Unternehmensphilosophie strategische und operative Ziele festzulegen. Aus diesen sollen Marketing-, Sponsoring- und Fundraisingmaßnahmen abgeleitet und umgesetzt werden. Des Weiteren soll der Erfolg der Maßnahmen überprüft und bewertet werden. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(4) Im Handlungsbereich Planung, Konzeption und Durchführung von Maßnahmen des Marketings und der Mittelbeschaffung“ soll die Fähigkeit nachgewiesen werden, unter Berücksichtigung der Unternehmensphilosophie strategische und operative Ziele festzulegen. Aus diesen sollen Marketing-, Sponsoring- und Fundraisingmaßnahmen abgeleitet und umgesetzt werden. Des Weiteren soll der Erfolg der Maßnahmen überprüft und bewertet werden. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: Erarbeiten und Definieren strategischer und operativer Marketing-, Sponsoring- und Fundraisingziele sowie zielführender Maßnahmen,
 - 2. :: Umsetzen von Marketing-, Sponsoring- und Fundraisingmaßnahmen,
 - 3. :: Nachbereiten der Maßnahmen und Bewerten des Erfolgs,
 - 4. :: Nutzen relevanter Instrumente der Marktforschung.
 
-(5) Im Handlungsbereich �Führung und Zusammenarbeit“ soll die Fähigkeit nachgewiesen werden, zielorientiert mit Mitarbeitern, Auszubildenden, Geschäftspartnern und Kunden zu kommunizieren. Dabei soll gezeigt werden, dass Mitarbeiter, Auszubildende und Projektgruppen geführt werden können. Des Weiteren soll bei Verhandlungen und in Konfliktfällen lösungsorientiert gehandelt werden. Methoden der Kommunikation und Motivationsförderung sollen dabei berücksichtigt werden. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(5) Im Handlungsbereich Führung und Zusammenarbeit“ soll die Fähigkeit nachgewiesen werden, zielorientiert mit Mitarbeitern, Auszubildenden, Geschäftspartnern und Kunden zu kommunizieren. Dabei soll gezeigt werden, dass Mitarbeiter, Auszubildende und Projektgruppen geführt werden können. Des Weiteren soll bei Verhandlungen und in Konfliktfällen lösungsorientiert gehandelt werden. Methoden der Kommunikation und Motivationsförderung sollen dabei berücksichtigt werden. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: Erläutern der Zusammenarbeit, Kommunikation und Kooperation,
 - 2. :: Durchführen von Mitarbeitergesprächen,
@@ -166,8 +166,8 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 § 7 - Bewertung der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
-(2) Im Prüfungsteil �Wirtschaftsbezogene Qualifikationen“ ist die Prüfungsleistung für jeden Qualifikationsbereich einzeln zu bewerten. Aus den einzelnen Bewertungen ist als Bewertung für den jeweiligen Prüfungsteil das arithmetische Mittel zu berechnen.
-(3) Im Prüfungsteil �Handlungsspezifische Qualifikationen“ sind als Prüfungsleistungen zu bewerten:
+(2) Im Prüfungsteil Wirtschaftsbezogene Qualifikationen“ ist die Prüfungsleistung für jeden Qualifikationsbereich einzeln zu bewerten. Aus den einzelnen Bewertungen ist als Bewertung für den jeweiligen Prüfungsteil das arithmetische Mittel zu berechnen.
+(3) Im Prüfungsteil Handlungsspezifische Qualifikationen“ sind als Prüfungsleistungen zu bewerten:
 
 - 1. :: die schriftliche Situationsaufgabe nach § 5 Absatz 6 Satz 1,
 - 2. :: nach Maßgabe der Sätze 2 und 3
@@ -185,21 +185,21 @@ Aus den einzelnen Bewertungen des situationsbezogenen Fachgesprächs und der Pr�
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
-- 1. :: in jedem Qualifikationsbereich des Prüfungsteils �Wirtschaftsbezogene Qualifikationen“,
-- 2. :: im Prüfungsteil �Handlungsspezifische Qualifikationen“
+- 1. :: in jedem Qualifikationsbereich des Prüfungsteils Wirtschaftsbezogene Qualifikationen“,
+- 2. :: im Prüfungsteil Handlungsspezifische Qualifikationen“
   - a) :: in der schriftlichen Situationsaufgabe und
   - b) :: in der zusammengefassten Bewertung für das situationsbezogene Fachgespräch und der Präsentation.
 
 (2) Ist die Prüfung bestanden, sind die folgenden Bewertungen jeweils kaufmännisch auf eine ganze Zahl zu runden:
 
-- 1. :: die Bewertungen für den Prüfungsteil �Wirtschaftsbezogene Qualifikationen“ sowie
+- 1. :: die Bewertungen für den Prüfungsteil Wirtschaftsbezogene Qualifikationen“ sowie
 - 2. :: die zusammengefasste Bewertung für das situationsbezogene Fachgespräch und der Präsentation.
 
-(3) Den Bewertungen für den Prüfungsteil �Wirtschaftsbezogene Qualifikationen“, der Bewertung für die schriftliche Situationsaufgabe sowie der zusammengefassten Bewertung für das situationsbezogene Fachgespräch und der Präsentation ist nach Anlage 1 die jeweilige Note als Dezimalzahl zuzuordnen.
+(3) Den Bewertungen für den Prüfungsteil Wirtschaftsbezogene Qualifikationen“, der Bewertung für die schriftliche Situationsaufgabe sowie der zusammengefassten Bewertung für das situationsbezogene Fachgespräch und der Präsentation ist nach Anlage 1 die jeweilige Note als Dezimalzahl zuzuordnen.
 (4) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das gewichtete arithmetische Mittel zu berechnen. Dabei sind die Bewertungen wie folgt zu gewichten:
 
-- 1. :: die Bewertung für den Prüfungsteil �Wirtschaftsbezogene Qualifikationen“ mit 25 Prozent,
-- 2. :: im Prüfungsteil �Handlungsspezifische Qualifikationen“
+- 1. :: die Bewertung für den Prüfungsteil Wirtschaftsbezogene Qualifikationen“ mit 25 Prozent,
+- 2. :: im Prüfungsteil Handlungsspezifische Qualifikationen“
   - a) :: die Bewertung der schriftlichen Situationsaufgabe mit 50 Prozent und
   - b) :: die zusammengefasste Bewertung für das situationsbezogene Fachgespräch und der Präsentation mit 25 Prozent.
 
@@ -226,8 +226,8 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 § 11 - Ausbildereignung
 
-(1) Die zu prüfende Person kann nach erfolgreichem Abschluss des Prüfungsteils �Handlungsspezifische Qualifikationen“ beantragen, eine zusätzliche Prüfung zum Nachweis der berufs- und arbeitspädagogischen Qualifikationen abzulegen. Diese besteht aus der Präsentation einer Ausbildungssituation und einem Fachgespräch mit einer Dauer von höchstens 30 Minuten. Die zu prüfende Person wählt hierfür eine berufstypische Ausbildungssituation aus. Die Präsentation soll 15 Minuten nicht übersteigen. Die Auswahl und Gestaltung der Ausbildungssituation sind in dem Fachgespräch zu erläutern. Anstelle der Präsentation kann eine Ausbildungssituation auch praktisch durchgeführt werden. Die zusätzliche Prüfung ist bestanden, wenn mindestens ausreichende Leistungen erbracht wurden.
-(2) Wer den Prüfungsteil �Handlungsspezifische Qualifikationen“ bestanden hat, ist vom schriftlichen Teil der Prüfung der nach dem Berufsbildungsgesetz erlassenen Ausbilder-Eignungsverordnung befreit. Wer auch die zusätzliche Prüfung nach Absatz 1 bestanden hat, hat die berufs- und arbeitspädagogischen Fertigkeiten, Kenntnisse und Fähigkeiten nach dem Berufsbildungsgesetz nachgewiesen. Im Falle des Satzes 2 ist der zu prüfenden Person das Zeugnis nach § 5 der Ausbilder-Eignungsverordnung auszustellen.
+(1) Die zu prüfende Person kann nach erfolgreichem Abschluss des Prüfungsteils Handlungsspezifische Qualifikationen“ beantragen, eine zusätzliche Prüfung zum Nachweis der berufs- und arbeitspädagogischen Qualifikationen abzulegen. Diese besteht aus der Präsentation einer Ausbildungssituation und einem Fachgespräch mit einer Dauer von höchstens 30 Minuten. Die zu prüfende Person wählt hierfür eine berufstypische Ausbildungssituation aus. Die Präsentation soll 15 Minuten nicht übersteigen. Die Auswahl und Gestaltung der Ausbildungssituation sind in dem Fachgespräch zu erläutern. Anstelle der Präsentation kann eine Ausbildungssituation auch praktisch durchgeführt werden. Die zusätzliche Prüfung ist bestanden, wenn mindestens ausreichende Leistungen erbracht wurden.
+(2) Wer den Prüfungsteil Handlungsspezifische Qualifikationen“ bestanden hat, ist vom schriftlichen Teil der Prüfung der nach dem Berufsbildungsgesetz erlassenen Ausbilder-Eignungsverordnung befreit. Wer auch die zusätzliche Prüfung nach Absatz 1 bestanden hat, hat die berufs- und arbeitspädagogischen Fertigkeiten, Kenntnisse und Fähigkeiten nach dem Berufsbildungsgesetz nachgewiesen. Im Falle des Satzes 2 ist der zu prüfenden Person das Zeugnis nach § 5 der Ausbilder-Eignungsverordnung auszustellen.
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
 § 12 - Übergangsvorschriften
@@ -267,10 +267,10 @@ Teil A -- Zeugnis ohne Prüfungsergebnisse:
 Teil B -- Zeugnis mit Prüfungsergebnissen:
 Alle Angaben des Teils A sowie zusätzlich:
 
-- 1. :: zum Prüfungsteil �Wirtschaftsbezogene Qualifikationen“
+- 1. :: zum Prüfungsteil Wirtschaftsbezogene Qualifikationen“
   - a) :: Benennung und Bewertung dieses Prüfungsteils mit Punkten und Note sowie
   - b) :: Benennung und Bewertung der vier Qualifikationsbereiche mit Punkten,
-- 2. :: zum Prüfungsteil �Handlungsspezifische Qualifikationen“
+- 2. :: zum Prüfungsteil Handlungsspezifische Qualifikationen“
   - a) :: Benennung des Prüfungsteils,
   - b) :: Benennung der schriftlichen Situationsaufgabe mit Punkten und Note sowie
   - c) :: Benennung des situationsbezogenen Fachgesprächs mit Präsentation mit Punkten und Note,

@@ -37,13 +37,13 @@ Anlage - (zu § 1 Abs. 1)
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 \\
 \\
-�
+
 Lfd. Nr.
 Gebührentatbestand
 Gebühr in Euro
 A
 Allgemeine Gebühren
-�
+
 A.1
 Erstellen einer Zweitschrift einer Urkunde
 60
@@ -61,10 +61,10 @@ A.5
 60 bis 100
 B
 Gebühren für Frequenzzuteilungen
-�
+
 B.0
 Versuchs- und Demonstrationsfunkanlagen sowie Kurzzeit-Zuteilungen
-�
+
 B.0.1
 Frequenzzuteilung eine Funkstelle im Versuchsfunk
 130
@@ -79,13 +79,13 @@ Zuschlag zu B.0.3 für den Betrieb jedes weiteren Kanals
 50
 B.1
 Öffentliche Mobilfunknetze
-�
+
 B.1.1
 (weggefallen)
-�
+
 B.1.1.1
 (weggefallen)
-�
+
 B.1.2
 Zuteilung eines Kanals nebst Festlegung der funktechnischen Parameter pro Sektor und Kanal in einem Bündelfunknetz
 190
@@ -97,10 +97,10 @@ Festsetzung der funktechnischen Parameter pro Sektor und Kanal an einem Standort
 14
 B.1.5
 (weggefallen)
-�
+
 B.2
 Feste Funkdienste (außer Satellitenfunk)
-�
+
 B.2.1
 Zuteilung einer Frequenz für den Betrieb einer Sendefunkanlage mit Verträglichkeitsprüfung
 100 bis 1 500
@@ -109,7 +109,7 @@ Gebietsbezogene Frequenzzuteilung für Richtfunknutzungen außer Funkanbindung v
 1 250 bis 12 500 000
 B.3
 Satellitenfunk
-�
+
 B.3.1
 Zuteilung einer Frequenz für eine Erdfunkstelle ohne Verträglichkeitsprüfung
 68
@@ -121,7 +121,7 @@ Frequenzzuteilung für ein lizenzpflichtiges Satellitenfunksystem
 500 bis 3 500
 B.4
 Nichtöffentlicher mobiler Landfunk (nömL),
-�
+
 B.4.1
 Frequenzzuteilung für ein Betriebsfunknetz, Grubenfunknetz, nichtöffentliches Datenfunknetz für Fernwirk- und Alarmierungszwecke (je Zeitschlitz) oder eine Funkanlage für Hilfszwecke
 130
@@ -175,28 +175,28 @@ Frequenzzuteilung für ein Mietsprechfunkgerät
 30
 B.4.15
 (weggefallen)
-�
+
 B.5
 Flug- und Flugnavigationsfunk
-�
+
 B.5.1
 Frequenzzuteilung für eine Funkstelle des Flugfunks (ggf. auch mit integrierter Flugnavigationsfunkstelle) oder des Flugnavigationsfunks
 130
 B.6
 Seefunk/Binnenschifffahrtsfunk
-�
+
 B.6.1
 Frequenzzuteilung für eine Funkstelle
 130
 B.7
 Navigations-, nichtnavigatorischer Ortungs-, Wetterhilfen-, Normalfrequenz- und Zeitzeichenfunkdienst
-�
+
 B.7.1
 Frequenzzuteilung für eine Sendefunkanlage in einem dieser Funkdienste
 130
 B.8
 Funkanbindung von Teilnehmeranschlüssen
-�
+
 B.8.1
 Frequenzzuteilung für die Funkanbindung von Teilnehmeranschlüssen mittels DECT-Technologie
 1 250 bis 1 093 750
@@ -205,7 +205,7 @@ Frequenzzuteilung für die Funkanbindung von Teilnehmeranschlüssen mittels Punk
 1 250 bis 8 750 000
 B.9
 Rundfunkdienst
-�
+
 B.9.1
 Frequenzzuteilung für den Betrieb eines Langwellensenders
 2 500
@@ -265,7 +265,7 @@ B.9.19
 50 bis 150
 B.10
 Drahtloser Netzzugang zum Angebot von Telekommunikationsdiensten
-�
+
 B.10.1
 Frequenzzuteilung zur bundesweiten Nutzung für den drahtlosen Netzzugang in den Frequenzbereichen 880 bis 915 MHz und 925 bis 960 MHz (einschließlich der Festsetzung funktechnischer Parameter)
 B · 500 000 · t<<FnR.BJNR122600997BJNE000511119_2>>[[#BJNR122600997BJNE000511119_2][2]]}
@@ -283,7 +283,7 @@ Frequenzzuteilung zur bundesweiten Nutzung für den drahtlosen Netzzugang in den
 B ∙ 600 000 ∙ t[[#BJNR122600997BJNE000511119_2][2]]}
 C
 Gebühren für Maßnahmen auf Grund von Verstößen gegen die §§ 44 bis 47 des Telekommunikationsgesetzes oder die darauf beruhenden Rechtsverordnungen
-�
+
 C.1
 Bearbeiten eines Verstoßes gegen Frequenzzuteilungsbedingungen, Auflagen oder die Frequenzzuteilungsverordnung einschließlich Festlegen der Maßnahmen
 25 bis 1 500

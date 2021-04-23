@@ -170,11 +170,11 @@ Das Mindestqualifikationsniveau muss mit Niveau 2 des Europäischen Qualifikatio
 
 Verbesserung des rationellen Fahrverhaltens auf der Grundlage der Sicherheitsregeln
 
-�
+
 
 Fahrerlaubnisklassen C1, C1E, C, CE, D1, D1E, D, DE
 
-�
+
 
 1.1<<FnR.FnA1-F814108_02>>[[#FnA1-F814108_02][*]]}
 
@@ -186,7 +186,7 @@ Ziel: Kenntnis der Eigenschaften der kinematischen Kette für eine optimierte Nu
 - -- :: optimaler Nutzungsbereich des Drehzahlmessers und
 - -- :: optimaler Drehzahlbereich beim Schalten.
 
-�
+
 
 1.2
 
@@ -204,7 +204,7 @@ Ziel: Kenntnis der technischen Merkmale und der Funktionsweise der Sicherheitsau
 - -- :: Traktionskontrollsysteme (TCS) und Überwachungssysteme im Fahrzeug (IVMS) und
 - -- :: andere zur Verwendung zugelassene Fahrerassistenz- oder Automatisierungssysteme.
 
-�
+
 
 1.3
 
@@ -217,7 +217,7 @@ Ziel: Fähigkeit zur Optimierung des Kraftstoffverbrauchs, insbesondere:
 - -- :: ausgeglichener Fahrstil und angemessener Reifendruck und
 - -- :: Kenntnis intelligenter Verkehrssysteme, die ein effizienteres Fahren und eine bessere Routenplanung ermöglichen.
 
-�
+
 
 1.3a
 
@@ -231,11 +231,11 @@ Ziel: Fähigkeit, Risiken im Straßenverkehr vorherzusehen, zu bewerten und sich
 - -- :: Gefahrensituationen erkennen, sich daran anpassen und den damit verbundenen Stress bewältigen, vor allem in Bezug auf Größe und Gewicht des Fahrzeugs und auf schwächere Verkehrsteilnehmer, beispielsweise Fußgänger, Radfahrer und motorisierte Zweiräder, und
 - -- :: mögliche Gefahrensituationen erkennen und korrekte Schlüsse ziehen, wie aus dieser potenziell gefährlichen Lage Situationen entstehen können, in denen Unfälle möglicherweise nicht mehr vermieden werden können, sowie Maßnahmen auswählen und durchführen, durch die die Sicherheitsabstände so erhöht werden, dass ein Unfall noch vermieden werden kann, falls die potenziellen Gefahren auftreten sollten.
 
-�
+
 
 Fahrerlaubnisklassen C1, C1E, C, CE
 
-�
+
 
 1.4
 
@@ -257,11 +257,11 @@ Ziel: Fähigkeit zur Sicherung der Ladung unter Anwendung der Sicherheitsvorschr
 - -- :: Einsatz des Umschlaggeräts und
 - -- :: Abdecken mit einer Plane und Entfernen der Plane.
 
-�
+
 
 Fahrerlaubnisklassen D1, D1E, D, DE
 
-�
+
 
 1.5
 
@@ -276,7 +276,7 @@ Ziel: Fähigkeit zur Gewährleistung der Fahrgastsicherheit und des Fahrgastkomf
 - -- :: Umgang mit den Fahrgästen und
 - -- :: besondere Merkmale der Beförderung bestimmter Fahrgastgruppen (Menschen mit Behinderungen, Kinder).
 
-�
+
 
 1.6
 
@@ -294,11 +294,11 @@ Ziel: Fähigkeit zur Sicherung der Ladung unter Anwendung der Sicherheitsvorschr
 
 Anwendung der Vorschriften
 
-�
+
 
 Fahrerlaubnisklassen C1, C1E, C, CE, D1, D1E, D, DE
 
-�
+
 
 2.1
 
@@ -309,11 +309,11 @@ Ziel: Kenntnis der sozialrechtlichen Rahmenbedingungen und Vorschriften für den
 - -- :: Sanktionen für den Fall, dass der Fahrtenschreiber nicht benutzt, falsch benutzt oder verfälscht wird und
 - -- :: Kenntnis der sozialrechtlichen Rahmenbedingungen für den Güter- oder Personenkraftverkehr: Rechte und Pflichten der Kraftfahrer im Bereich der Grundqualifikation und der Weiterbildung.
 
-�
+
 
 Fahrerlaubnisklassen C1, C1E, C, CE
 
-�
+
 
 2.2
 
@@ -332,11 +332,11 @@ Ziel: Kenntnis der Vorschriften für den Güterkraftverkehr, insbesondere:
 - -- :: Verkehrskommissionäre und
 - -- :: besondere Begleitdokumente für die Güter.
 
-�
+
 
 Fahrerlaubnisklassen D1, D1E, D, DE
 
-�
+
 
 2.3
 
@@ -351,11 +351,11 @@ Ziel: Kenntnis der Vorschriften für den Personenkraftverkehr, insbesondere:
 
 Gesundheit, Verkehrs- und Umweltsicherheit, Dienstleistung, Logistik
 
-�
+
 
 Fahrerlaubnisklassen C1, C1E, C, CE, D1, D1E, D, DE
 
-�
+
 
 3.1[[#FnA1-F814108_02][*]]}
 
@@ -366,7 +366,7 @@ Ziel: Sensibilisierung in Bezug auf Risiken des Straßenverkehrs und Arbeitsunf�
 - -- :: Beteiligung von Lastkraftwagen/Bussen und
 - -- :: menschliche, materielle und finanzielle Auswirkungen.
 
-�
+
 
 3.2[[#FnA1-F814108_02][*]]}
 
@@ -378,7 +378,7 @@ Ziel: Fähigkeit, der Kriminalität und der Schleusung illegaler Einwanderer vor
 - -- :: Checkliste für Überprüfungen und
 - -- :: Rechtsvorschriften betreffend die Verantwortung der Kraftverkehrsunternehmer.
 
-�
+
 
 3.3[[#FnA1-F814108_02][*]]}
 
@@ -389,7 +389,7 @@ Ziel: Fähigkeit, Gesundheitsschäden vorzubeugen, insbesondere:
 - -- :: Übungen für den Umgang mit Lasten und
 - -- :: individueller Schutz.
 
-�
+
 
 3.4
 
@@ -400,7 +400,7 @@ Ziel: Sensibilisierung für die Bedeutung einer guten körperlichen und geistige
 - -- :: Symptome, Ursachen, Auswirkungen von Müdigkeit und Stress und
 - -- :: grundlegende Rolle des Zyklus von Aktivität/Ruhezeit.
 
-�
+
 
 3.5
 
@@ -416,7 +416,7 @@ Ziel: Fähigkeit zu richtiger Einschätzung der Lage bei Notfällen, insbesonder
 - -- :: Vorgehen bei Gewalttaten und
 - -- :: Grundprinzipien für die Erstellung der einvernehmlichen Unfallmeldung.
 
-�
+
 
 3.6[[#FnA1-F814108_02][*]]}
 
@@ -429,11 +429,11 @@ Ziel: Fähigkeit zu einem Verhalten, das zu einem positiven Image des Unternehme
 - -- :: Arbeitsorganisation und
 - -- :: kommerzielle und finanzielle Konsequenzen eines Rechtsstreits.
 
-�
+
 
 Fahrerlaubnisklassen C1, C1E, C, CE
 
-�
+
 
 3.7[[#FnA1-F814108_02][*]]}
 
@@ -445,11 +445,11 @@ Ziel: Kenntnis des wirtschaftlichen Umfelds des Güterkraftverkehrs und der Mark
 - -- :: unterschiedliche Spezialisierungen (Tankwagen, temperaturgeführte Transporte, gefährliche Güter, Tiertransporte usw.) und
 - -- :: Weiterentwicklung der Branche (Diversifizierung des Leistungsangebots, Huckepackverkehr, Subunternehmer usw.).
 
-�
+
 
 Fahrerlaubnisklassen D1, D1E, D, DE
 
-�
+
 
 3.8[[#FnA1-F814108_02][*]]}
 
@@ -559,8 +559,8 @@ Anlage 5 - (zu § 8 Absatz 1 Satz 3)Muster des Fahrerqualifizierungsnachweises
   - a) :: Seite 1 (Vorderseite)\\
     \\
     Seite 1 enthält:
-    - aa) :: Die Bezeichnung �FAHRERQUALIFIZIERUNGSNACHWEIS“ sowie deren Wiederholung in den Sprachen der Mitgliedstaaten der Europäischen Union als blaufarbener Unterdruck auf dem Fahrerqualifizierungsnachweis.
-    - bb) :: Die Aufschrift �BUNDESREPUBLIK DEUTSCHLAND“ sowie das Zeichen der Europäischen Union (zwölf goldene Sterne in einem blauen Rechteck), in welches das Nationalitätszeichen D eingefügt ist.
+    - aa) :: Die Bezeichnung FAHRERQUALIFIZIERUNGSNACHWEIS“ sowie deren Wiederholung in den Sprachen der Mitgliedstaaten der Europäischen Union als blaufarbener Unterdruck auf dem Fahrerqualifizierungsnachweis.
+    - bb) :: Die Aufschrift BUNDESREPUBLIK DEUTSCHLAND“ sowie das Zeichen der Europäischen Union (zwölf goldene Sterne in einem blauen Rechteck), in welches das Nationalitätszeichen D eingefügt ist.
     - cc) :: Folgende Daten zum Inhaber des Fahrerqualifizierungsnachweises und zu seiner Fahrerlaubnis entsprechend der auf dem Fahrerqualifizierungsnachweis aufgebrachten Nummerierung. Die Nummern 4d (andere Nummer als die Führerscheinnummer), 8 (Wohnort) und 11 (Angaben zum Verwaltungsverfahren) sind nicht vorhanden, da die Angaben nach Maßgabe der Richtlinie 2003/59/EG in der Fassung der Richtlinie (EU) 2018/645 fakultativ sind und im deutschen Fahrerqualifizierungsnachweis nicht ausgewiesen werden.
       - 1. :: Name des Inhabers
       - 2. :: Vorname des Inhabers
@@ -569,7 +569,7 @@ Anlage 5 - (zu § 8 Absatz 1 Satz 3)Muster des Fahrerqualifizierungsnachweises
       - 4b. :: Ablaufdatum
       - 4c. :: Name der Ausstellungsbehörde
       - 5a. :: Führerscheinnummer
-      - 5b. :: Seriennummer des Fahrerqualifizierungsnachweises, die sich aus �FQN“ als festem Wert, aus dem Behördenschlüssel der nach Landesrecht zuständigen Behörde, aus einer laufenden Nummer, aus einer Prüfziffer und aus einer Ausfertigungskennziffer des Fahrerqualifizierungsnachweises zusammensetzt.
+      - 5b. :: Seriennummer des Fahrerqualifizierungsnachweises, die sich aus FQN“ als festem Wert, aus dem Behördenschlüssel der nach Landesrecht zuständigen Behörde, aus einer laufenden Nummer, aus einer Prüfziffer und aus einer Ausfertigungskennziffer des Fahrerqualifizierungsnachweises zusammensetzt.
       - 6. :: Lichtbild des Inhabers
       - 7. :: Unterschrift des Inhabers
       - 8. :: Fahrerlaubnisklassen, für die der Fahrer die Grundqualifikations- und Weiterbildungsverpflichtung erfüllt.

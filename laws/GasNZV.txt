@@ -15,25 +15,25 @@ Diese Verordnung regelt die Bedingungen, zu denen die Netzbetreiber den Netzzuga
 
 Für diese Verordnung gelten die folgenden Begriffsbestimmungen:
 
-- 1. :: �Allokation“ ist die Zuordnung von Gasmengen zu einem Bilanzkreis;
-- 2. :: �Ausgleichsenergie“ ist die Energiemenge, die zum Ausgleich des Saldos aller Ein- und Ausspeisungen in einem Bilanzkreis am Ende der Bilanzierungsperiode rechnerisch benötigt wird;
-- 3. :: �Ausspeiseleistung“ ist die vom Netzbetreiber an einem Ausspeisepunkt für den Transportkunden vorgehaltene maximale Leistung in Kilowattstunde pro Stunde;
-- 4. :: �Bilanzkreis“ ist die Zusammenfassung von Einspeise- und Ausspeisepunkten, die dem Zweck dient, Einspeisemengen und Ausspeisemengen zu saldieren und die Abwicklung von Handelstransaktionen zu ermöglichen;
-- 5. :: �Bilanzkreisverantwortlicher“ ist eine natürliche oder juristische Person, die gegenüber dem Marktgebietsverantwortlichen für die Abwicklung des Bilanzkreises verantwortlich ist;
-- 6. :: �Buchung“ ist das Erwerben von Kapazitätsrechten;
-- 7. :: �Brennwert �H_{s,n}“ “ ist die nach DIN EN ISO 6976 (Ausgabe: September 2005)<<FnR.F774449_01>>[[#F774449_01][1)]]} bei vollständiger Verbrennung freiwerdende Wärme in Kilowattstunde pro Normkubikmeter oder in Megajoule pro Normkubikmeter;
-- 7a. :: �Datenformat“ ist eine für die elektronische Weiterverarbeitung oder Veröffentlichung geeignete und standardisierte Formatvorgabe für die Datenkommunikation, welche die relevanten Parameter enthält;
-- 8. :: �Einspeiser von Biogas“ ist jede juristische oder natürliche Person, die am Einspeisepunkt im Sinne von § 3 Nummer 13b des Energiewirtschaftsgesetzes Biogas in ein Netz oder Teilnetz eines Netzbetreibers einspeist;
-- 9. :: �Einspeiseleistung“ ist die vom Netzbetreiber an einem Einspeisepunkt für den Transportkunden vorgehaltene maximale Leistung in Kilowattstunde pro Stunde;
-- 10. :: �Marktgebiet“ ist die Zusammenfassung gleichgelagerter und nachgelagerter Netze, in denen Transportkunden gebuchte Kapazitäten frei zuordnen, Gas an Letztverbraucher ausspeisen und in andere Bilanzkreise übertragen können;
-- 11. :: �Marktgebietsverantwortlicher“ ist die von den Fernleitungsnetzbetreibern bestimmte natürliche oder juristische Person, die in einem Marktgebiet Leistungen erbringt, die zur Verwirklichung einer effizienten Abwicklung des Gasnetzzugangs in einem Marktgebiet durch eine Person zu erbringen sind;
-- 11a. :: �Realisierungsfahrplan“ ist ein gemeinsamer Plan von Netzbetreiber und Anschlussnehmer oder Anschlusswilligem über Inhalt, zeitliche Abfolge und Verantwortlichkeit für die einzelnen Schritte zur Herstellung des Netzanschlusses oder zum Kapazitätsausbau, um die einzelnen Schritte der Beteiligten miteinander zu synchronisieren;
-- 12. :: �Regelenergie“ sind die Gasmengen, die vom Netzbetreiber zur Gewährleistung der Netzstabilität eingesetzt werden;
-- 13. :: �Technische Kapazität“ ist das Maximum an fester Kapazität, das der Netzbetreiber unter Berücksichtigung der Systemintegrität und der Erfordernisse des Netzbetriebs Transportkunden anbieten kann;
-- 13a. :: �Untertägige Kapazität“ ist die Kapazität, die nach dem Ende der Auktionen für Kapazitäten auf Tagesbasis für den jeweiligen Tag angeboten und zugewiesen wird;
-- 14. :: �Verfügbare Kapazität“ ist die Differenz zwischen technischer Kapazität und der Summe der gebuchten Kapazitäten für den jeweiligen Ein- oder Ausspeisepunkt;
-- 15. :: �Virtueller Handelspunkt“ ist ein Punkt im Marktgebiet, an dem Gas zwischen Bilanzkreisen übertragen werden kann, der jedoch keinem physischen Ein- oder Ausspeisepunkt im Marktgebiet entspricht;
-- 16. :: �Werktage“ sind die Tage Montag bis Freitag, mit Ausnahme der bundeseinheitlichen gesetzlichen Feiertage sowie des 24. und des 31. Dezembers.
+- 1. :: Allokation“ ist die Zuordnung von Gasmengen zu einem Bilanzkreis;
+- 2. :: Ausgleichsenergie“ ist die Energiemenge, die zum Ausgleich des Saldos aller Ein- und Ausspeisungen in einem Bilanzkreis am Ende der Bilanzierungsperiode rechnerisch benötigt wird;
+- 3. :: Ausspeiseleistung“ ist die vom Netzbetreiber an einem Ausspeisepunkt für den Transportkunden vorgehaltene maximale Leistung in Kilowattstunde pro Stunde;
+- 4. :: Bilanzkreis“ ist die Zusammenfassung von Einspeise- und Ausspeisepunkten, die dem Zweck dient, Einspeisemengen und Ausspeisemengen zu saldieren und die Abwicklung von Handelstransaktionen zu ermöglichen;
+- 5. :: Bilanzkreisverantwortlicher“ ist eine natürliche oder juristische Person, die gegenüber dem Marktgebietsverantwortlichen für die Abwicklung des Bilanzkreises verantwortlich ist;
+- 6. :: Buchung“ ist das Erwerben von Kapazitätsrechten;
+- 7. :: Brennwert H_{s,n}“ “ ist die nach DIN EN ISO 6976 (Ausgabe: September 2005)<<FnR.F774449_01>>[[#F774449_01][1)]]} bei vollständiger Verbrennung freiwerdende Wärme in Kilowattstunde pro Normkubikmeter oder in Megajoule pro Normkubikmeter;
+- 7a. :: Datenformat“ ist eine für die elektronische Weiterverarbeitung oder Veröffentlichung geeignete und standardisierte Formatvorgabe für die Datenkommunikation, welche die relevanten Parameter enthält;
+- 8. :: Einspeiser von Biogas“ ist jede juristische oder natürliche Person, die am Einspeisepunkt im Sinne von § 3 Nummer 13b des Energiewirtschaftsgesetzes Biogas in ein Netz oder Teilnetz eines Netzbetreibers einspeist;
+- 9. :: Einspeiseleistung“ ist die vom Netzbetreiber an einem Einspeisepunkt für den Transportkunden vorgehaltene maximale Leistung in Kilowattstunde pro Stunde;
+- 10. :: Marktgebiet“ ist die Zusammenfassung gleichgelagerter und nachgelagerter Netze, in denen Transportkunden gebuchte Kapazitäten frei zuordnen, Gas an Letztverbraucher ausspeisen und in andere Bilanzkreise übertragen können;
+- 11. :: Marktgebietsverantwortlicher“ ist die von den Fernleitungsnetzbetreibern bestimmte natürliche oder juristische Person, die in einem Marktgebiet Leistungen erbringt, die zur Verwirklichung einer effizienten Abwicklung des Gasnetzzugangs in einem Marktgebiet durch eine Person zu erbringen sind;
+- 11a. :: Realisierungsfahrplan“ ist ein gemeinsamer Plan von Netzbetreiber und Anschlussnehmer oder Anschlusswilligem über Inhalt, zeitliche Abfolge und Verantwortlichkeit für die einzelnen Schritte zur Herstellung des Netzanschlusses oder zum Kapazitätsausbau, um die einzelnen Schritte der Beteiligten miteinander zu synchronisieren;
+- 12. :: Regelenergie“ sind die Gasmengen, die vom Netzbetreiber zur Gewährleistung der Netzstabilität eingesetzt werden;
+- 13. :: Technische Kapazität“ ist das Maximum an fester Kapazität, das der Netzbetreiber unter Berücksichtigung der Systemintegrität und der Erfordernisse des Netzbetriebs Transportkunden anbieten kann;
+- 13a. :: Untertägige Kapazität“ ist die Kapazität, die nach dem Ende der Auktionen für Kapazitäten auf Tagesbasis für den jeweiligen Tag angeboten und zugewiesen wird;
+- 14. :: Verfügbare Kapazität“ ist die Differenz zwischen technischer Kapazität und der Summe der gebuchten Kapazitäten für den jeweiligen Ein- oder Ausspeisepunkt;
+- 15. :: Virtueller Handelspunkt“ ist ein Punkt im Marktgebiet, an dem Gas zwischen Bilanzkreisen übertragen werden kann, der jedoch keinem physischen Ein- oder Ausspeisepunkt im Marktgebiet entspricht;
+- 16. :: Werktage“ sind die Tage Montag bis Freitag, mit Ausnahme der bundeseinheitlichen gesetzlichen Feiertage sowie des 24. und des 31. Dezembers.
 
 
 § 3 - Verträge für den Netzzugang
@@ -290,9 +290,9 @@ Ziel der Regelungen des Teils 6 ist es, die Einspeisung von Biogas in das Erdgas
 
 Für diesen Verordnungsteil gelten die folgenden Begriffsbestimmungen:
 
-- 1. :: �Anschlussnehmer“ ist jede juristische oder natürliche Person, die als Projektentwicklungsträger, Errichter oder Betreiber einer Anlage, mit der Biogas im Sinne von § 3 Nummer 10c des Energiewirtschaftsgesetzes auf Erdgasqualität aufbereitet wird, den Netzanschluss dieser Anlage beansprucht;
-- 2. :: �Netzanschluss“ ist die Herstellung der Verbindungsleitung, die die Biogasaufbereitungsanlage mit dem bestehenden Gasversorgungsnetz verbindet, die Verknüpfung mit dem Anschlusspunkt des bestehenden Gasversorgungsnetzes, die Gasdruck-Regel-Messanlage sowie die Einrichtungen zur Druckerhöhung und die eichfähige Messung des einzuspeisenden Biogases;
-- 3. :: �Anlage“ ist die Anlage zur Aufbereitung von Biogas auf Erdgasqualität.
+- 1. :: Anschlussnehmer“ ist jede juristische oder natürliche Person, die als Projektentwicklungsträger, Errichter oder Betreiber einer Anlage, mit der Biogas im Sinne von § 3 Nummer 10c des Energiewirtschaftsgesetzes auf Erdgasqualität aufbereitet wird, den Netzanschluss dieser Anlage beansprucht;
+- 2. :: Netzanschluss“ ist die Herstellung der Verbindungsleitung, die die Biogasaufbereitungsanlage mit dem bestehenden Gasversorgungsnetz verbindet, die Verknüpfung mit dem Anschlusspunkt des bestehenden Gasversorgungsnetzes, die Gasdruck-Regel-Messanlage sowie die Einrichtungen zur Druckerhöhung und die eichfähige Messung des einzuspeisenden Biogases;
+- 3. :: Anlage“ ist die Anlage zur Aufbereitung von Biogas auf Erdgasqualität.
 
 
 § 33 - Netzanschlusspflicht
@@ -369,9 +369,9 @@ Der Netzbetreiber hat den Realisierungsfahrplan unverzüglich der Regulierungsbe
 
 Für diesen Verordnungsabschnitt sind die folgenden Begriffsbestimmungen anzuwenden:
 
-- 1. :: �Anschlussnehmer“ ist jede juristische oder natürliche Person, die als Projektentwicklungsträger, Errichter oder Betreiber einer LNG-Anlage den Netzanschluss dieser Anlage beansprucht;
-- 2. :: �Netzanschluss“ ist die Herstellung der Anbindungsleitung, die die LNG-Anlage mit dem bestehenden Fernleitungsnetz verbindet, und deren Verknüpfung mit dem Anschlusspunkt des bestehenden Fernleitungsnetzes;
-- 3. :: �für den Netzanschluss erforderliche Infrastruktur“ ist die Anbindungsleitung, die die LNG-Anlage mit dem bestehenden Fernleitungsnetz verbindet, der Anschlusspunkt mit dem bestehenden Fernleitungsnetz, die Gasdruck-Regel-Messanlage und die sonstigen zur Anbindung erforderlichen Betriebsmittel.
+- 1. :: Anschlussnehmer“ ist jede juristische oder natürliche Person, die als Projektentwicklungsträger, Errichter oder Betreiber einer LNG-Anlage den Netzanschluss dieser Anlage beansprucht;
+- 2. :: Netzanschluss“ ist die Herstellung der Anbindungsleitung, die die LNG-Anlage mit dem bestehenden Fernleitungsnetz verbindet, und deren Verknüpfung mit dem Anschlusspunkt des bestehenden Fernleitungsnetzes;
+- 3. :: für den Netzanschluss erforderliche Infrastruktur“ ist die Anbindungsleitung, die die LNG-Anlage mit dem bestehenden Fernleitungsnetz verbindet, der Anschlusspunkt mit dem bestehenden Fernleitungsnetz, die Gasdruck-Regel-Messanlage und die sonstigen zur Anbindung erforderlichen Betriebsmittel.
 
 
 § 39b - Netzanschlusspflicht
@@ -433,11 +433,11 @@ Für diesen Verordnungsabschnitt sind die folgenden Begriffsbestimmungen anzuwen
 - 4. :: im Fernleitungsnetz Angaben über die bei der Lastflusssimulation nach § 9 Absatz 2 verwendete Methode,
 - 5. :: im Fernleitungsnetz mindestens einmal jährlich eine Dokumentation der nach § 9 Absatz 3 durchgeführten kapazitätserhöhenden Maßnahmen und ihrer jeweiligen Kosten,
 - 6. :: im Fernleitungsnetz Angaben zu den Erlösen aus der Kapazitätsvergabe nach § 13 Absatz 1,
-- 7. :: im Verteilnetz die Gasbeschaffenheit bezüglich des Brennwerts �H_{s,n}“ sowie am zehnten Werktag des Monats den Abrechnungsbrennwert des Vormonats an allen Ein- und Ausspeisepunkten,
+- 7. :: im Verteilnetz die Gasbeschaffenheit bezüglich des Brennwerts H_{s,n}“ sowie am zehnten Werktag des Monats den Abrechnungsbrennwert des Vormonats an allen Ein- und Ausspeisepunkten,
 - 8. :: im Verteilnetz Regeln für den Anschluss anderer Anlagen und Netze an das vom Netzbetreiber betriebene Netz sowie den Zugang solcher Anlagen und Netze zu dem vom Netzbetreiber betriebenen Netz,
 - 9. :: im örtlichen Verteilnetz die zur Anwendung kommenden Standardlastprofile,
 - 10. :: die Zuordenbarkeit jeder Entnahmestelle zu einem oder mehreren Marktgebieten,
-- 11. :: die �Mindestanforderungen an die Allgemeinen Geschäftsbedingungen“ nach § 4 sowie die Vereinbarung nach § 8 Absatz 6 sowie
+- 11. :: die Mindestanforderungen an die Allgemeinen Geschäftsbedingungen“ nach § 4 sowie die Vereinbarung nach § 8 Absatz 6 sowie
 - 12. :: Ansprechpartner im Unternehmen für Netzzugangsfragen.
 
 Diese Angaben sind bei Änderungen unverzüglich anzupassen, mindestens monatlich oder, falls es die Verfügbarkeit kurzfristiger Dienstleistungen erfordert, täglich. Die Veröffentlichungspflichten der Fernleitungsnetzbetreiber nach Anhang I zur Verordnung (EG) Nr. 715/2009 bleiben unberührt. Die Veröffentlichung der Angaben nach Satz 1 hat in einem gängigen Format zu erfolgen, das eine automatisierte Auslesung der veröffentlichten Daten von der Internetseite des Fernleitungsnetzbetreibers ermöglicht. Die Angaben werden in deutscher Sprache veröffentlicht. Fernleitungsnetzbetreiber veröffentlichen sie auf ihrer Internetseite zusätzlich in englischer Sprache. Örtliche Verteilnetzbetreiber stellen darüber hinaus auf ihrer Internetseite eine Karte bereit, auf der schematisch erkennbar ist, welche Bereiche in einem Gemeindegebiet an das örtliche Gasverteilernetz angeschlossen sind.

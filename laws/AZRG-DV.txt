@@ -30,7 +30,7 @@ Die Daten, die im Ausländerzentralregister gespeichert werden dürfen, ergeben 
 (4) Die Registerbehörde legt das Verfahren und die zu treffenden Sicherungsmaßnahmen im Benehmen mit den beteiligten Stellen fest. Sie hat durch technische und organisatorische Maßnahmen sicherzustellen, daß nur die Daten gespeichert werden, zu deren Übermittlung die jeweilige Stelle verpflichtet oder berechtigt ist.
 (5) Die Stellen, die zur Datenübermittlung im Wege der Direkteingabe berechtigt sind, haben die zur Datensicherung erforderlichen technischen und organisatorischen Maßnahmen zu treffen, um die unbefugte Eingabe von Daten zu verhindern. Die Registerbehörde führt ein Verzeichnis der berechtigten Stellen und der getroffenen Maßnahmen.
 (6) Erfolgt die Datenübermittlung elektronisch oder schriftlich, hat die Registerbehörde die Unterlagen bis zur Speicherung der Daten im Register durch geeignete Maßnahmen gegen unberechtigten Zugriff zu sichern. Nach der Speicherung der Daten sind die Unterlagen zu vernichten.
-(7) Für die Datenübermittlung durch die Ausländerbehörden an die Registerbehörde wird das Übermittlungsprotokoll OSCI-Transport in der im Bundesanzeiger bekannt gemachten gültigen Fassung verwendet. Für die Datenübermittlung durch Ausländerbehörden und andere öffentliche Stellen an die Registerbehörde wird das Datenaustauschformat �XAusländer“ in der im Bundesanzeiger bekannt gemachten gültigen Fassung verwendet. Die Bekanntmachung erfolgt für das Datenaustauschformat �XAusländer“ durch das Bundesministerium des Innern, für Bau und Heimat und für das Übermittlungsprotokoll OSCI-Transport durch die Koordinierungsstelle für IT-Standards (KoSIT). Ein vom OSCI-Transport abweichendes Übermittlungsprotokoll kann eingesetzt werden, soweit dies hinsichtlich der Datensicherheit und des Datenschutzes ein entsprechendes Niveau aufweist. Die Gleichwertigkeit ist durch die verantwortliche Stelle zu dokumentieren. Die Möglichkeiten zur sicheren Verschlüsselung und Signatur sind bei der Übertragung zu nutzen.
+(7) Für die Datenübermittlung durch die Ausländerbehörden an die Registerbehörde wird das Übermittlungsprotokoll OSCI-Transport in der im Bundesanzeiger bekannt gemachten gültigen Fassung verwendet. Für die Datenübermittlung durch Ausländerbehörden und andere öffentliche Stellen an die Registerbehörde wird das Datenaustauschformat XAusländer“ in der im Bundesanzeiger bekannt gemachten gültigen Fassung verwendet. Die Bekanntmachung erfolgt für das Datenaustauschformat XAusländer“ durch das Bundesministerium des Innern, für Bau und Heimat und für das Übermittlungsprotokoll OSCI-Transport durch die Koordinierungsstelle für IT-Standards (KoSIT). Ein vom OSCI-Transport abweichendes Übermittlungsprotokoll kann eingesetzt werden, soweit dies hinsichtlich der Datensicherheit und des Datenschutzes ein entsprechendes Niveau aufweist. Die Gleichwertigkeit ist durch die verantwortliche Stelle zu dokumentieren. Die Möglichkeiten zur sicheren Verschlüsselung und Signatur sind bei der Übertragung zu nutzen.
 
 § 5 - Verfahren der Datenübermittlung
 
@@ -237,59 +237,59 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)\\
 \\
 
 Hinsichtlich der Datenübermittlung durch die Registerbehörde ist der größtmögliche Umfang der Daten -- ohne Nennung gesetzlicher Zweckbestimmungen -- angegeben, den die jeweilige Stelle nach dem AZR-Gesetz erhalten darf. Beschränkungen ergeben sich aus den einzelnen Vorschriften des AZR-Gesetzes. Insbesondere ist die Übermittlung der Daten von Unionsbürgern, für die eine Feststellung des Nichtbestehens oder des Verlusts des Freizügigkeitsrechts nicht vorliegt, nur an die mit ausländer- oder asylrechtlichen Aufgaben betrauten Behörden und nur zur Durchführung solcher Aufgaben zulässig. Soweit in Spalte C und Spalte D der Tabelle zu Personenkreis (1) eine Unterteilung der die Daten übermittelnden oder empfangenden Stellen nach römischen Ziffern vorgenommen wurde, dient dies dazu, innerhalb der Zeilen für die Personenkreise (2) und (3) einfacher auf die jeweiligen Stellen zu verweisen. Das Statistische Bundesamt erhält alle Daten ohne Namensbezug. In einer Dienstvorschrift wird geregelt, welche Daten die Verfassungsschutzbehörden des Bundes und der Länder, der BND und der MAD nach § 20 des AZR-Gesetzes erhalten.
-�
-�
-�
-�
+
+
+
+
 * Dieses Datum wird nicht erhoben, sondern entsteht im Register, wenn eine Namensänderung gemeldet wird.
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
+
+
+
+
+
+
+
+
+
+
  * In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu melden, wenn die Einreise im Register noch nicht erfasst ist.
-�
-�
-�
+
+
+
  * In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu melden, wenn die Einreise im Register noch nicht erfasst ist.
-�
+
  * In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu melden, wenn die Einreise im Register noch nicht erfasst ist.
-�
+
 * In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu melden, wenn die Einreise im Register noch nicht erfasst ist.
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  * Zum Personenkreis (2) nicht als Erstmeldung.
-�
-�
-�
-�
+
+
+
+
 - *) :: Es bedeuten:
   - (1) = :: Ausländer, die keine Unionsbürger sind,
   - (2) = :: Unionsbürger, bei denen eine Feststellung des Nichtbestehens oder des Verlusts des Freizügigkeitsrechts vorliegt,

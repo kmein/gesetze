@@ -147,9 +147,9 @@ Fundstelle des Originaltextes: BGBl. Teil III 94, S. 40 - 47
 Lfd. Nr.
 Bezeichnung der Wasserstra√üe
 Endpunkte der Wasserstra√üe
-†
+
 I. Preu√üen
-†
+
 a) nat√ºrliche Wasserstra√üen
 1
 Alle
@@ -258,8 +258,8 @@ mit Tegeler See, Glindowsee, Wublitz nebst Schl√§nitzsee
 Abschlu√üdamm bei √útz
 Havel
 Pritzerber See.
-†
-†
+
+
 24
 Hotzenplotz
 M√ºhle bei Krappitz
@@ -549,25 +549,25 @@ Zechliner Gew√§sser
 Schwarzer See
 Rheinsberger Gew√§sser
 (Schwarzer See, Zechliner Kanal, Gro√üer Zechliner See, Repenter Kanal, Zootzensee und -kanal).
-†
+
 b) K√ºnstliche Wasserstra√üen
 89
 Berliner Kan√§le:
-†
-†
-†
+
+
+
 Landwehrkanal
 Spree
 Spree
-†
+
 Luisenst√§dtischer Kanal
 Landwehrkanal
 Spree
-†
+
 Berlin-Spandauer Schiffahrt-kanal
 Spree
 Berlin-Charlottenburger Verbindungskanal
-†
+
 Berlin-Charlottenburger Verbindungskanal
 Spree
 Berlin-Spandauer Schiffahrtkanal
@@ -620,18 +620,18 @@ Oder bei Cosel
 Lippe-Seitenkanal
 Lippstadt
 Rhein bei Wesel
-†
+
 (in Ausf√ºhrung).
-†
-†
+
+
 101
 Masurischer Kanal
 Mauersee
 Alle
-†
+
 (in Ausf√ºhrung).
-†
-†
+
+
 102
 Neuhauser Speisekanal
 Obere Spree
@@ -649,7 +649,7 @@ Emsflu√ü
 Plauer Kanal
 Wendsee
 Elbe
-†
+
 mit Baggerelbe
 Kupierung bei Derben
 Plauer Kanal
@@ -696,12 +696,12 @@ Havel
 Werbellinkanal
 Werbellinsee
 Hohenzollern-kanal
-†
+
 II. Bayern
 116
 Rhein
 Die bayerische Strecke l√§ngs der Pfalz
-†
+
 117
 Main
 Bamberg
@@ -715,19 +715,19 @@ Ludwigs-Donau-Main-Kanal
 Bamberg
 Kelheim
 mit den dazugeh√∂rigen Teilen der Regnitz und der Altm√ºhl.
-†
+
 III. Sachsen
 120
 Elbe
 Reichsgrenze
 Landesgrenze
-†
+
 IV. W√ºrttemberg
 121
 Neckar
 Plochingen
 Landesgrenze
-†
+
 V. Baden
 122
 Rhein
@@ -740,39 +740,39 @@ Rhein
 124
 Main
 Strecke l√§ngs der Landesgrenze
-†
-†
+
+
 VI. Hessen
 125
 Rhein
 Die zum Lande geh√∂rige Strecke
-†
+
 126
 Main
 Desgleichen
-†
+
 127
 Neckar
 Desgleichen
-†
+
 128
 Lahn (siehe Bemerkung am Schlu√ü)
 Gie√üen
 Landesgrenze
-†
+
 VII. Hamburg
 129
 Elbe
 Die zum Lande geh√∂rigen Stromteile von Geesthacht bis zur M√ºndung
-†
+
 (mit der Norderelbe, S√ºderelbe, dem Reiherstieg, dem K√∂hlbrand und der alten S√ºderelbe).
-†
-†
+
+
 VIII. Mecklenburg-Schwerin
 130
 Elbe
 Teilstrecken bei D√∂mitz und Boitzenburg
-†
+
 131
 Warnow
 G√ºstrow
@@ -791,43 +791,43 @@ Malchin
 Landesgrenze
 135
 Mecklenburgische Oberseen einschlie√ülich des Eldearmes Buchholzer M√ºhle
-†
-†
-†
+
+
+
 IX. Braunschweig
 136
 Weser
 Die zum Lande geh√∂rigen Strecken
-†
-†
+
+
 X. Oldenburg
 137
 Weser
 L√§ngs der Landesgrenze
-†
+
 (Au√üenweser und Unterweser mit den Nebenarmen).
-†
+
 138
 Hunte
 Oldenburg
 Weser
-†
+
 (mit Nebenarmen).
 139
 Ems-Hunte-Kanal
 Landesgrenze
 Hunte bei Oldenburg
-†
+
 XI. Anhalt
 140
 Elbe
 Die zum Lande geh√∂rige Strecke
-†
+
 141
 Saale
 Desgleichen
-†
-†
+
+
 XII. Bremen
 142
 Weser, Gro√üe
@@ -837,28 +837,28 @@ Oldenburgische und preu√üische Grenze bei Vegesack
 143
 Lesum
 Die zu Bremen geh√∂rige Flu√üh√§lfte
-†
+
 144
 W√ºmme
 Desgleichen
-†
+
 145
 Ochtum, M√ºndungsstrecke
 km 14,25 der Flu√üstationierung
 Landesgrenze
-†
+
 XIII. Lippe
 146
 Weser
 Die linksseitige Stromh√§lfte l√§ngs der Landesgrenze
-†
-†
+
+
 XIV. L√ºbeck
 147
 Elbe-Trave-Kanal
 Landesgrenze
 Geniner Br√ºcke
-†
+
 XV. Mecklenburg-Strelitz
 148
 Havel
@@ -869,7 +869,7 @@ Kammerkanal
 Neustrelitz
 Havelwasserstra√üe
 (einschlie√ülich Havel von der Woblitz bis zum Labussee).
-†
+
 Bemerkung zu lfd. Nr. 17, 30, 61, 65, 83 und 128.
 Die Fulda oberhalb Cassel, die Lahn, die Ruhr oberhalb M√ºlheim, die Saar und die Werra werden nicht im Verfolg des Artikels 97 der Reichsverfassung, sondern auf Grund besonderer Vereinbarung auf das Reich √ºbernommen.
 
@@ -974,7 +974,7 @@ Warnowregulierung zwischen Rostock und B√ºtzow nebst Vertiefung des B√ºtzow-G√ºs
 2.
 Verbesserungsarbeiten auf Strecken der Eldewasserstra√üe zwischen Parchim und D√∂mitz sowie der St√∂rwasserstra√üe.
 J. Braunschweig
-†
+
 Regulierung der mit Preu√üen gemeinschaftlichen Weserstrecke bei Corvey.
 H. Oldenburg
 1.
@@ -990,5 +990,5 @@ Bei der Au√üenweser die Fortsetzung der Vertiefungsarbeiten von Bremerhaven nach
 N. Lippe
 O. L√ºbeck
 P. Mecklenburg-Strelitz
-†
+
 Ausbau des Kammerkanals von Neustrelitz bis Priepert.

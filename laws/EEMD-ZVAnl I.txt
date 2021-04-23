@@ -12,12 +12,12 @@ der Bundesrepublik Deutschland, vertreten durch das Bundesministerium für Verke
 und
 (Name Anbieter), (Adresse Anbieter), vertreten durch (Vertretung Anbieter), (registriert gemäß Artikel 3 der Entscheidung 2009/750/EG in ...) (Nachweis der Registrierung)
 -- Anbieter --
-�
+
 
 § 1 - Gegenstand der Vereinbarung
 
-(1) Diese Prüfvereinbarung (�Vereinbarung“) regelt auf der Grundlage von § 10 des Mautsystemgesetzes (MautSysG) und § 4d des Bundesfernstraßenmautgesetzes (BFStrMG) sowie der dazu erlassenen Rechtsverordnungen die Rechte und Pflichten des Anbieters und des Mauterhebers im Zusammenhang mit der Durchführung des Prüfverfahrens für das EETS-Gebiet BFStrMG. Soweit nicht ausdrücklich geregelt, sind Rechte und Pflichten des Anbieters gegenüber Nutzern sowie die zwischen Anbieter und Nutzern geltenden vertraglichen und sonstigen Vereinbarungen nicht Gegenstand dieser Vereinbarung.
-(2) Gegenstand dieser Vereinbarung ist insbesondere die Gewährleistung der Sicherheit der Daten und des Datenschutzes. Daten im Sinne dieser Vereinbarung sind alle Informationen jeglicher Art in elektronischer, Papier- oder sonstiger Form (insgesamt: �Daten“).
+(1) Diese Prüfvereinbarung (Vereinbarung“) regelt auf der Grundlage von § 10 des Mautsystemgesetzes (MautSysG) und § 4d des Bundesfernstraßenmautgesetzes (BFStrMG) sowie der dazu erlassenen Rechtsverordnungen die Rechte und Pflichten des Anbieters und des Mauterhebers im Zusammenhang mit der Durchführung des Prüfverfahrens für das EETS-Gebiet BFStrMG. Soweit nicht ausdrücklich geregelt, sind Rechte und Pflichten des Anbieters gegenüber Nutzern sowie die zwischen Anbieter und Nutzern geltenden vertraglichen und sonstigen Vereinbarungen nicht Gegenstand dieser Vereinbarung.
+(2) Gegenstand dieser Vereinbarung ist insbesondere die Gewährleistung der Sicherheit der Daten und des Datenschutzes. Daten im Sinne dieser Vereinbarung sind alle Informationen jeglicher Art in elektronischer, Papier- oder sonstiger Form (insgesamt: Daten“).
 (3) Diese Vereinbarung begründet keinen Anspruch des Anbieters auf Gewährung des Zugangs zum EETS-Gebiet BFStrMG oder auf Abschluss eines Zulassungsvertrags mit dem Mauterheber. Ansprüche des Anbieters gegen den Mauterheber bei Unterbrechung, Verzögerung oder Beendigung des Prüfverfahrens bestehen nicht.
 (4) Vorbehaltlich der in dieser Vereinbarung enthaltenen Definitionen gelten für diese Vereinbarung die im Glossar nach (Anlage 6) enthaltenen Definitionen.
 
@@ -43,7 +43,7 @@ und
 - -- :: der Zeit- und Projektplan (Anlage 4),
 - -- :: das Glossar (Anlage 6).
 
-�
+
 
 § 3 - Ablauf des Prüfverfahrens
 
@@ -87,7 +87,7 @@ Der Ablauf des Prüfverfahrens für das EETS-Gebiet BFStrMG ist im BFStrMG und i
 
 (1) Der Anbieter ist verpflichtet, für die im Rahmen dieser Vereinbarung ausgeführten Tätigkeiten auf eigene Kosten eine Betriebshaftpflichtversicherung mit mindestens den folgenden Inhalten abzuschließen und während der Laufzeit dieser Vereinbarung aufrechtzuerhalten:
 
-- a) :: Betriebsbeschreibung: �Mauterhebung als EETS-Anbieter auf den Straßen des EETS-Mautgebiets BFStrMG inklusive aller betriebs- und branchenüblichen, betriebs- und branchennotwendigen und im Betrieb der Versicherungsnehmerin bestehenden Zusatzrisiken“,
+- a) :: Betriebsbeschreibung: Mauterhebung als EETS-Anbieter auf den Straßen des EETS-Mautgebiets BFStrMG inklusive aller betriebs- und branchenüblichen, betriebs- und branchennotwendigen und im Betrieb der Versicherungsnehmerin bestehenden Zusatzrisiken“,
 - b) :: Deckung für gesetzliche Haftpflichtansprüche wegen Personen-, Sach- und daraus folgenden Vermögensschäden mit einer Deckungssumme von mindestens 15 Mio. Euro (in Worten: fünfzehn Millionen Euro) je Schadensfall.
 
 (2) Errichtet oder betreibt der Anbieter im EETS-Gebiet BFStrMG straßenseitige Einrichtungen, ist er verpflichtet, die geschäftsüblichen Versicherungen abzuschließen und für die Dauer der Errichtung oder des Betriebs aufrechtzuerhalten. Die Versicherungen müssen Personen-, Sach- und daraus folgende Vermögensschäden abdecken. Die Mindestversicherungssumme für Versicherungen nach diesem Absatz beträgt 2,5 Mio. Euro (in Worten: zweieinhalb Millionen Euro) je Schadensfall.
@@ -132,7 +132,7 @@ Der Anbieter ist verpflichtet, auf Verlangen des Mauterhebers ihm diejenigen Unt
 - a) :: personenbezogene und personenbeziehbare Daten und
 - b) :: den Datenaustausch oder Systemberührungen mit dem Mauterheber betreffen,
 
-von dem jeweils höchsten Schutzbedarf auszugehen. Der Anbieter wird insbesondere jederzeit die erforderlichen technischen und organisatorischen Sicherheitsma�Sicherheitsvorfall“) den Mauterheber unverzüglich zu informieren und unverzüglich in der jeweils erforderlichen Art und Weise zu reagieren, sodass insbesondere der Sicherheitsvorfall ausgeräumt oder seine Auswirkungen sowie damit verbundene Schäden und Beeinträchtigungen des Mauterhebers oder Dritter soweit wie möglich begrenzt und reduziert werden. Der Mauterheber kann verlangen, auf Veranlassung des Anbieters das Informationsschutz-Management-System des Anbieters im Rahmen eines Audits von einem externen Sachverständigen prüfen zu lassen.
+von dem jeweils höchsten Schutzbedarf auszugehen. Der Anbieter wird insbesondere jederzeit die erforderlichen technischen und organisatorischen SicherheitsmaSicherheitsvorfall“) den Mauterheber unverzüglich zu informieren und unverzüglich in der jeweils erforderlichen Art und Weise zu reagieren, sodass insbesondere der Sicherheitsvorfall ausgeräumt oder seine Auswirkungen sowie damit verbundene Schäden und Beeinträchtigungen des Mauterhebers oder Dritter soweit wie möglich begrenzt und reduziert werden. Der Mauterheber kann verlangen, auf Veranlassung des Anbieters das Informationsschutz-Management-System des Anbieters im Rahmen eines Audits von einem externen Sachverständigen prüfen zu lassen.
 (4) Der Anbieter haftet dem Mauterheber für jegliche mittelbaren und unmittelbaren Schäden, die dem Mauterheber aufgrund von Sicherheitsvorfällen aus dem Verantwortungsbereich des Anbieters entstehen; dies gilt nicht, soweit er die Pflichtverletzung nicht zu vertreten hat. Die Haftung schließt die dem Mauterheber entgangenen Mauteinnahmen ein. Der Anbieter übernimmt zudem die Kosten einer Wiederinstandsetzung, Reparatur oder sonstigen Überprüfung des Systems des Mauterhebers, die aufgrund von Sicherheitsvorfällen aus dem Verantwortungsbereich des Anbieters entstanden sind. Sollten aufgrund von Sicherheitsvorfällen aus dem Verantwortungsbereich des Anbieters Dritte Ansprüche gegenüber dem Mauterheber geltend machen, stellt der Anbieter den Mauterheber gemäß § 21 im dort geregelten Umfang von diesen Ansprüchen frei.
 (5) Die Regelungen dieses Paragraphen gelten auch im Falle der Beendigung dieser Vereinbarung oder nach Abschluss eines Zulassungsvertrags zwischen Anbieter und Mauterheber fort.
 
@@ -147,7 +147,7 @@ von dem jeweils höchsten Schutzbedarf auszugehen. Der Anbieter wird insbesonder
 
 § 17 - Geheimhaltung und Vertraulichkeit
 
-(1) Die Parteien werden alle Daten, die ihnen vor Beginn oder während der Durchführung des Prüfverfahrens zur Verfügung gestellt werden oder die sie im Zusammenhang mit dieser Vereinbarung oder dem Prüfverfahren in sonstiger Weise erlangt haben (insgesamt: �vertrauliche Daten“), vertraulich behandeln und sie Dritten nicht zugänglich machen. Als vertrauliche Daten gelten auch solche Daten, die die Parteien selbst im Rahmen der Durchführung des Prüfverfahrens erstellt oder erhoben haben und die mit dem Mautdienst, den ihm zugrunde liegenden Parametern, den technischen Spezifikationen, wirtschaftlichen Vorgaben oder den Parteien selbst in Verbindung stehen. Die Verpflichtung zur Vertraulichkeit gilt auch nach Beendigung dieser Vereinbarung oder nach Abschluss eines Zulassungsvertrags zwischen Anbieter und Mauterheber fort.
+(1) Die Parteien werden alle Daten, die ihnen vor Beginn oder während der Durchführung des Prüfverfahrens zur Verfügung gestellt werden oder die sie im Zusammenhang mit dieser Vereinbarung oder dem Prüfverfahren in sonstiger Weise erlangt haben (insgesamt: vertrauliche Daten“), vertraulich behandeln und sie Dritten nicht zugänglich machen. Als vertrauliche Daten gelten auch solche Daten, die die Parteien selbst im Rahmen der Durchführung des Prüfverfahrens erstellt oder erhoben haben und die mit dem Mautdienst, den ihm zugrunde liegenden Parametern, den technischen Spezifikationen, wirtschaftlichen Vorgaben oder den Parteien selbst in Verbindung stehen. Die Verpflichtung zur Vertraulichkeit gilt auch nach Beendigung dieser Vereinbarung oder nach Abschluss eines Zulassungsvertrags zwischen Anbieter und Mauterheber fort.
 (2) Die vertraulichen Daten dürfen von den Parteien ausschließlich für den Zweck der Durchführung des Prüfverfahrens verwendet werden.
 (3) Nicht als Dritte im Sinne dieses Paragraphen gelten auf Seiten des Anbieters solche Personen, die
 
@@ -155,7 +155,7 @@ von dem jeweils höchsten Schutzbedarf auszugehen. Der Anbieter wird insbesonder
 - b) :: gegenüber dem Anbieter zur Vertraulichkeit insbesondere auch bezüglich der vertraulichen Daten verpflichtet sind und
 - c) :: die vertraulichen Daten zur Ausführung der ihnen zugewiesenen Aufgaben benötigen.
 
-Die Weiterreichung an mit dem Anbieter im Konzernverbund stehende Unternehmen (�Konzernunternehmen“) ist gestattet, wenn und soweit dies zur konzerninternen Prüfung erforderlich ist und zuvor den beteiligten Konzernunternehmen vollumfänglich die nach diesem Abschnitt bestehende Vertraulichkeitsverpflichtung auferlegt worden ist.
+Die Weiterreichung an mit dem Anbieter im Konzernverbund stehende Unternehmen (Konzernunternehmen“) ist gestattet, wenn und soweit dies zur konzerninternen Prüfung erforderlich ist und zuvor den beteiligten Konzernunternehmen vollumfänglich die nach diesem Abschnitt bestehende Vertraulichkeitsverpflichtung auferlegt worden ist.
 (4) Der Anbieter führt eine Liste der Personen in Konzernunternehmen, die Zugang zu vertraulichen Daten haben und legt diese dem Mauterheber in regelmäßigen Abständen sowie jederzeit auf Verlangen des Mauterhebers vor.
 (5) Der Anbieter ist verpflichtet, Personen, die Zugang zu vertraulichen Daten haben, in gleichem Umfang und unter Androhung einer spürbaren Vertragsstrafe mit unmittelbarer Wirkung zu Gunsten des Mauterhebers Vertraulichkeitsverpflichtungen aufzuerlegen und dies auf Verlangen des Mauterhebers unverzüglich nachzuweisen.
 (6) Der Anbieter ist verpflichtet dafür Sorge zu tragen, dass die Konzernunternehmen die Verpflichtung nach Absatz 5 ebenfalls erfüllen.
@@ -175,7 +175,7 @@ Die Weiterreichung an mit dem Anbieter im Konzernverbund stehende Unternehmen (�
 
 § 18 - Gewerbliche Schutzrechte
 
-(1) Der Anbieter hat keine Rechte in Bezug auf gewerbliche Schutzrechte und Urheberrechte (gemeinsam: �Schutzrechte“) des Mauterhebers oder der Betreibergesellschaft. Soweit nachfolgend nicht ein anderes geregelt ist, werden an den Anbieter unter dieser Vereinbarung keine Schutzrechte lizenziert.
+(1) Der Anbieter hat keine Rechte in Bezug auf gewerbliche Schutzrechte und Urheberrechte (gemeinsam: Schutzrechte“) des Mauterhebers oder der Betreibergesellschaft. Soweit nachfolgend nicht ein anderes geregelt ist, werden an den Anbieter unter dieser Vereinbarung keine Schutzrechte lizenziert.
 (2) Sollten beim Anbieter im Zusammenhang mit dem Prüfverfahren Schutzrechte bestehen oder entstehen, deren Nutzung für den Mauterheber im Zusammenhang mit der Erbringung mautdienstbezogener Leistungen im EETS-Gebiet BFStrMG von praktischer Bedeutung ist, räumt der Anbieter dem Mauterheber bereits jetzt ab dem Zeitpunkt der Entstehung dieser Schutzrechte ein einfaches Nutzungsrecht einschließlich des Rechts zur Unterlizenzierung für das EETS-Gebiet BFStrMG in dem zeitlichen und inhaltlichen Umfang ein, der für das Verhältnis zwischen Anbieter und Mauterheber erforderlich ist. Soweit es sich um Schutzrechte Dritter handelt, steht der Anbieter dafür ein, dass er zur Unterlizenzierung berechtigt ist.
 (3) Soweit beim Mauterheber im Zusammenhang mit dem Prüfverfahren Schutzrechte entstehen, deren Nutzung für den Anbieter im Zusammenhang mit der Erbringung mautdienstbezogener Leistungen im EETS-Gebiet BFStrMG erforderlich ist, hat der Anbieter einen Anspruch auf Einräumung eines einfachen Nutzungsrechts für das EETS-Gebiet BFStrMG, in dem zeitlichen und inhaltlichen Umfang, der für das Verhältnis zwischen Anbieter und Mauterheber erforderlich ist. Eine Unterlizenzierung bedarf der vorherigen schriftlichen Genehmigung des Mauterhebers. Der Anbieter steht dem Mauterheber für die Erfüllung der Pflicht gemäß Satz 2 ein.
 
@@ -200,7 +200,7 @@ Die Weiterreichung an mit dem Anbieter im Konzernverbund stehende Unternehmen (�
 
 § 21 - Freistellung
 
-(1) Der Anbieter stellt den Mauterheber, die beim Mauterheber beschäftigten oder eingesetzten Personen sowie die vom Mauterheber im Zusammenhang mit dem Prüfverfahren hinzugezogenen oder beschäftigten Personen und Unternehmen (gemeinsam: die �Freistellungsberechtigten“) vollumfänglich von allen Ansprüchen frei, die aufgrund von Verletzungen dieser Vereinbarung durch den Anbieter im Zusammenhang mit der Durchführung des Prüfverfahrens von Dritten einschließlich anderer Anbieter gegen die Freistellungsberechtigten geltend gemacht werden. Der Freistellungsanspruch nach diesem Abschnitt erfasst auch alle Schäden und Kosten, die den Freistellungsberechtigten in Folge der Inanspruchnahme im Sinne dieses Paragraphen entstehen.
+(1) Der Anbieter stellt den Mauterheber, die beim Mauterheber beschäftigten oder eingesetzten Personen sowie die vom Mauterheber im Zusammenhang mit dem Prüfverfahren hinzugezogenen oder beschäftigten Personen und Unternehmen (gemeinsam: die Freistellungsberechtigten“) vollumfänglich von allen Ansprüchen frei, die aufgrund von Verletzungen dieser Vereinbarung durch den Anbieter im Zusammenhang mit der Durchführung des Prüfverfahrens von Dritten einschließlich anderer Anbieter gegen die Freistellungsberechtigten geltend gemacht werden. Der Freistellungsanspruch nach diesem Abschnitt erfasst auch alle Schäden und Kosten, die den Freistellungsberechtigten in Folge der Inanspruchnahme im Sinne dieses Paragraphen entstehen.
 (2) Der Anbieter wird dem Mauterheber im Fall der Inanspruchnahme den zur Befriedigung des geltend gemachten Anspruchs erforderlichen Betrag zur Verfügung stellen. Sollten Anbieter und Mauterheber übereinstimmend davon ausgehen, dass die Ansprüche unberechtigt geltend gemacht wurden, wird der Mauterheber etwaige Regressansprüche gegen den Anspruchsteller an den Anbieter abtreten.
 (3) Die Freistellung des Mauterhebers nach Absatz 1 und die Zurverfügungstellung des Betrags an den Mauterheber nach Absatz 2 erfolgen auf erstes Anfordern.
 
@@ -273,7 +273,7 @@ Anbieter: (Name und Adresse Anbieter), (Empfangsberechtigter)
 § 29 - Salvatorische Klausel
 
 Sollten einzelne Bestimmungen dieser Vereinbarung unwirksam oder undurchführbar sein, so berührt dies nicht die Wirksamkeit der übrigen Bestimmungen. Die unwirksame oder undurchführbare Bestimmung ist durch eine solche zu ersetzen, die dem entspricht, was die Parteien vereinbart hätten, wenn sie die Unwirksamkeit oder Undurchführbarkeit bei Abschluss dieser Vereinbarung erkannt hätten.
-�
+
 Unterschriften
 
 Anlagen:
@@ -319,15 +319,15 @@ Anlage 2 - zur Prüfvereinbarung
 4.3 Bordgeräte des EETS-Anbieters
 4.4 Vorgaben für Teilnahme an Prüfungen
 4.5 Vorgaben für Prüf- und Abschlussberichte
-�
-�
+
+
 Abbildung 1: Einbettung der Gebrauchstauglichkeitsprüfung in den Ablauf des EETS-Zulassungsverfahrens
-�
-�
+
+
 Tabelle 1: Übersicht über das Verfahren zur Feststellung der Gebrauchstauglichkeit
-�
-�
-�
+
+
+
 1.1 Zielsetzung
 Das vorliegende Dokument konkretisiert das Verfahren zur Feststellung der Gebrauchstauglichkeit (Gebrauchstauglichkeitsprüfung). Der Mauterheber legt darin den Ablauf und die technischen und organisatorischen Rahmenbedingungen für diese Prüfung fest, und es bildet die Grundlage für die Abstimmung des Prüfprogramms, sodass alle an dem Verfahren Beteiligten rechtzeitig und im notwendigen Umfang ihre Vorbereitungen zur Durchführung der Prüfung treffen können.
 Darüber hinaus bildet die konkrete Beschreibung des Verfahrens die Grundlage für eine Gleichbehandlung der EETS-Anbieter beziehungsweise Hersteller von Interoperabilitätskomponenten auf der Basis der jeweils gültigen Vorgaben für das EETS-Gebiet BFStrMG.
@@ -357,7 +357,7 @@ Das Zulassungsverfahren gilt als erfolgreich beendet, sobald der EETS-Zulassungs
 In folgendem Schaubild wird der Ablauf des EETS-Vertragsverfahrens grafisch dargestellt:
 [[../normengrafiken/banzat_2019/20190110v2_01.jpg]]
 Abbildung 1: Einbettung der Gebrauchstauglichkeitsprüfung in den Ablauf des EETS-Zulassungsverfahrens
-�
+
 1.5 Übersicht über das Verfahren zur Feststellung der Gebrauchstauglichkeit
 Die Gebrauchstauglichkeitsprüfung ist in zwei Prüfblöcke unterteilt. Der Prüfblock 1 umfasst die Prüfung der Dokumentation des Teilsystems des EETS-Anbieters. Der Abschluss von Prüfblock 1 ist Voraussetzung für den Beginn von Prüfblock 2.
 Prüfblock 2 umfasst drei Prüfphasen. Die Prüfungen finden in bestimmten Systemumgebungen statt, um den laufenden Wirkbetrieb nicht zu gefährden und möglichst realistische Prüfergebnisse zu erhalten.
@@ -415,7 +415,7 @@ In der folgenden Beschreibung des Verfahrens werden Fristen festgelegt, in denen
 Der Mauterheber kann das Verfahren zur Feststellung der Gebrauchstauglichkeit ändern. Das ist z. B. erforderlich, wenn mit dem aktuellen Verfahren die Gebrauchstauglichkeit des Teilsystems des EETS-Anbieters nicht oder nicht vollständig geprüft werden kann. Eine Änderung des Verfahrens kann auch von EETS-Anbietern oder Dritten beim Mauterheber beantragt werden. Der Mauterheber prüft den Änderungsantrag und teilt dem Antragsteller das Ergebnis mit.
 Der Mauterheber dokumentiert die Änderung des Verfahrens in der Verfahrensbeschreibung und stellt die geänderte Version allen Beteiligten zur Verfügung.
 Der Mauterheber behält sich vor, eine Verfahrensänderung auch während einer Gebrauchstauglichkeitsprüfung vorzunehmen. Er kann dazu die laufende Prüfung unterbrechen und vom EETS-Anbieter die Fortsetzung unter den geänderten Bedingungen verlangen. Darüber hinaus kann er vom EETS-Anbieter die Wiederholung von bereits durchgeführten Prüfungen verlangen, wenn Zweifel an der Gebrauchstauglichkeit unter den veränderten Verfahrensbedingungen bestehen.
-�
+
 2.1 Mauterheber
 Der Mauterheber prüft die Dokumentation des Teilsystems des EETS-Anbieters und teilt ihm das Ergebnis der Prüfung mit.
 Der Mauterheber prüft das durch den EETS-Anbieter erstellte Prüfprogramm und berücksichtigt dabei die Ergebnisse der Konformitätsprüfung. Bei der Gebrauchstauglichkeitsprüfung werden daher die Baumusterspezifikationen nicht erneut bewertet, es sei denn es gibt Hinweise darauf, dass eventuelle Interoperabilitätsprobleme mit diesen Spezifikationen zusammenhängen. Nach erfolgreicher Prüfung stimmt der Mauterheber dem Prüfprogramm zu.
@@ -438,7 +438,7 @@ Der EETS-Anbieter führt in allen drei Phasen die Prüfungen durch und überwach
 
 Es ist Aufgabe des EETS-Anbieters, die Inspektionen durch Bereitstellen entsprechender Ressourcen und Informationen zu unterstützen. Falls er Unterauftragnehmer (Dienstleister und Lieferanten) einsetzt, ist er für die Koordinierung und Kooperation seiner Unterauftragnehmer verantwortlich.
 Nach erfolgreicher Gebrauchstauglichkeitsprüfung ist der EETS-Anbieter verpflichtet, dem Mauterheber rechtzeitig Änderungen an seinem Teilsystem, die das EETS-Gebiet BFStrMG betreffen, anzuzeigen.
-�
+
 3.1 Überblick
 Für die erstmalige Feststellung der Gebrauchstauglichkeit muss jeder EETS-Anbieter vor Abschluss des EETS-Zulassungsvertrags das Verfahren gemäß den Nummern 3.2 und 3.3 vollständig durchlaufen.
 Innerhalb der einzelnen Phasen kann der Mauterheber auch Inspektionen beim EETS-Anbieter bzw. in dessen Teilsystem zur Überprüfung der Erfüllung seiner Vorgaben durchführen.
@@ -455,7 +455,7 @@ Falls die Prüfung ergibt, dass die Voraussetzungen zur Aufnahme des Verfahrens 
 Der EETS-Anbieter hat die Möglichkeit, schriftlich Fragen an den Mauterheber zu stellen. Der Mauterheber nimmt innerhalb von vier Wochen nach Eingang der Fragen schriftlich Stellung. Falls er von seinem Recht zur Verlängerung der Frist Gebrauch macht, wird er den EETS-Anbieter innerhalb der 4-Wochen-Frist über den Stand der Bearbeitung und den voraussichtlichen Termin für die Antwort informieren.
 In Einzelfällen bietet der Mauterheber zur Klärung der Fragen Abstimmungstermine an. Der EETS-Anbieter kann auch selbst um einen Abstimmungstermin beim Mauterheber nachsuchen. In so einem Fall entscheidet der Mauterheber über einen Termin zur Abstimmung. Die Einladung zu einem Abstimmungsgespräch erfolgt grundsätzlich durch den Mauterheber.
 3.2.3 Prüfung der Dokumentation
-Der EETS-Anbieter übermittelt die Dokumentation seines Teilsystems an den Mauterheber. Die Dokumentation enthält Darstellungen zu seinen Geschäftsprozessen sowie Grobbeschreibungen der Systembestandteile. Zudem dokumentiert der EETS-Anbieter nachvollziehbar die Einhaltung der Vorgaben des Mauterhebers in tabellarischer Form. Bei der Erstellung der Dokumentation seines Teilsystems soll sich der EETS-Anbieter an den �Empfehlungen zur Dokumentation“ (Dokument 4.4 der Gebietsvorgaben) orientieren.
+Der EETS-Anbieter übermittelt die Dokumentation seines Teilsystems an den Mauterheber. Die Dokumentation enthält Darstellungen zu seinen Geschäftsprozessen sowie Grobbeschreibungen der Systembestandteile. Zudem dokumentiert der EETS-Anbieter nachvollziehbar die Einhaltung der Vorgaben des Mauterhebers in tabellarischer Form. Bei der Erstellung der Dokumentation seines Teilsystems soll sich der EETS-Anbieter an den Empfehlungen zur Dokumentation“ (Dokument 4.4 der Gebietsvorgaben) orientieren.
 Die Dokumentation des Teilsystems wird vom EETS-Anbieter schriftlich und elektronisch an den Mauterheber übergeben. Der Eingang der Dokumentation wird durch den Mauterheber bestätigt.
 Zunächst prüft der Mauterheber die vom EETS-Anbieter übermittelte Dokumentation auf Vollständigkeit, Nachvollziehbarkeit und Plausibilität. Details zu den Schwerpunkten der Prüfungen sind im Dokument B zusammengefasst. Die Ergebnisse der Prüfung der Dokumentation werden dem EETS-Anbieter innerhalb von 12 Wochen nach Eingang schriftlich mitgeteilt.
 Fällt die Prüfung der Dokumentation durch den Mauterheber nicht positiv aus, wird dieser die Gründe dafür schriftlich darlegen. Gegebenenfalls wird er Nachbesserungen der Dokumentation oder weitere Nachweise fordern. Der EETS-Anbieter hat dann die Möglichkeit, Nachbesserungen vorzunehmen und die überarbeitete Dokumentation unter Kennzeichnung der vorgenommenen Änderungen wiederum schriftlich und elektronisch an den Mauterheber zu übergeben.
@@ -524,7 +524,7 @@ Stellt sich während der Prüfung zur Feststellung der Gebrauchstauglichkeit her
 so wird das Verfahren durch den Mauterheber abgebrochen. Der Mauterheber teilt dem EETS-Anbieter die Gründe für den Abbruch des Verfahrens schriftlich innerhalb von drei Werktagen mit.
 
 Eine Wiederaufnahme des Verfahrens kann erst dann erfolgen, wenn alle Voraussetzungen wieder erfüllt sind. Zur Wiederaufnahme des Verfahrens gelten dieselben Regelungen wie für die erstmalige Feststellung der Gebrauchstauglichkeit (vgl. Nummer 3.2).
-�
+
 4.1 Planungsunterlagen für den Prüfblock 2
 Der EETS-Anbieter übernimmt in Abstimmung mit dem Mauterheber die Planung für das Prüfprogramm. Die Planungsunterlagen müssen mindestens die folgenden Informationen enthalten:
 
@@ -583,8 +583,8 @@ Um die Nachvollziehbarkeit der Prüfergebnisse zu gewährleisten, muss der EETS-
 Anlage 3 - zur Prüfvereinbarung
 
 (Fundstelle: BAnz AT 27.03.2018 V 2)
-�
-�
+
+
 Inhaltsverzeichnis
 Abbildungsverzeichnis
 Tabellenverzeichnis
@@ -634,27 +634,27 @@ Dokumentenhistorie
 6.3.4 P3-004 -- Änderung der Maut-Basisdaten
 6.3.5 P3-005 -- korrekte Kontrollprozesse
 6.4 Quality Gate -- QG4
-�
-�
-�
+
+
+
 Abbildung 1: Testumgebung Phase 1
-�
-�
-�
-�
+
+
+
+
 1.1 Zielsetzung des Dokuments
 Das vorliegende Prüfkonzept enthält die inhaltlichen Vorgaben für die Feststellung der Gebrauchstauglichkeit und gibt die Rahmenbedingungen für das vom EETS-Anbieter zu erstellende Prüfprogramm vor.
 1.2 Referenzen/Grundlagen
 Dem Prüfkonzept liegen das in Dokument A -- Verfahrensbeschreibung beschriebene Verfahren der Gebrauchstauglichkeitsprüfung sowie die Vorgaben für das EETS-Gebiet BFStrMG zugrunde. Alle dort vorgenommenen Festlegungen gelten übergreifend für die Inhalte des Prüfkonzepts und für das durch den EETS-Anbieter zu erstellende Prüfprogramm.
 1.3 Überblick/Aufbau des Dokuments
-Das Prüfkonzept ist gemä�Prüfung der Dokumentation“ (Prüfblock 1) und �Durchführung des Prüfprogramms“ (Prüfblock 2) aufgebaut.
+Das Prüfkonzept ist gemäPrüfung der Dokumentation“ (Prüfblock 1) und Durchführung des Prüfprogramms“ (Prüfblock 2) aufgebaut.
 Nummer 2 beschreibt allgemeine, für alle Prüfungen im Rahmen der Gebrauchstauglichkeitsprüfung geltende Vorgaben und Voraussetzungen.
 Nummer 3 beschreibt die Vorgaben für die Prüfung der Dokumentation des Teilsystems des EETS-Anbieters (Prüfblock 1).
 Nummer 4 enthält die Vorgaben für die Schnittstellenprüfung und initiale fachliche Funktionsprüfungen (Prüfblock 2 -- Phase 1).
 Nummer 5 enthält die Vorgaben für den Probebetrieb (Prüfblock 2 -- Phase 2).
 Nummer 6 enthält die Vorgaben für den Pilotbetrieb (Prüfblock 2 -- Phase 3).
 Im Prüfkatalog sind spezifische Vorgaben der für die Schnittstellenprüfung (Prüfblock 2 -- Phase 1) relevanten Prüfszenarien zusammengefasst. Die Vorgaben für die Tests zum Nachweis der Kompatibilität zwischen den Bordgeräten des EETS-Anbieters und den Kontrolleinrichtungen des deutschen Mautsystems werden in einem gesonderten Testkatalog dokumentiert.
-�
+
 2.1 Vorgaben und daraus abgeleitete Prüfverfahren
 Das Prüfkonzept basiert auf den Vorgaben für das EETS-Gebiet BFStrMG und enthält Prüfszenarien und Prüffallvorgaben, die anhand der in Dokument A definierten Stufen des Verfahrens zur Feststellung der Gebrauchstauglichkeit strukturiert sind.
 Der Mauterheber behält sich im Einzelfall vor, dem Prüfkonzept weitere Inhalte hinzuzufügen und/oder bereits festgeschriebene Inhalte abzuändern.
@@ -744,7 +744,7 @@ Dem EETS-Anbieter wird empfohlen, ein Risikomanagement für das gesamte Prüfpro
 - -- :: ISO/IEC 16085:2006 Systems and software engineering -- Life cycle processes -- Risk management
 - -- :: ISO/IEC 15288:2016 Systems and software engineering -- System life cycle processes.
 
-�
+
 3.1 Übersicht Prüfszenario
 Prüfblock 1 umfasst das folgende Prüfszenario:
 | Prüfszenario | Beschreibung                                                 |
@@ -754,7 +754,7 @@ Prüfblock 1 umfasst das folgende Prüfszenario:
 \\
 
 Tabelle 1: Prüfszenario für die Dokumentenprüfung
-�
+
 Mit Hilfe der Dokumentenprüfung des EETS-Anbieters soll die Einhaltung der für das BFStrMG geltenden Gebietsvorgaben bewertet werden. Der Mauterheber prüft dabei, ob und wie der EETS-Anbieter beabsichtigt, die Vorgaben des Mauterhebers zu erfüllen. Je besser die Dokumentation die Erfüllung der Gebietsvorgaben beschreibt, desto zügiger kann die Dokumentenprüfung abgeschlossen werden, da Rückfragen aufgrund von Unklarheiten oder Nachforderung von weiteren Dokumenten vermieden werden können. Grundsätzlich werden alle in der Dokumentation enthaltenen Informationen und Beschreibungen hinsichtlich ihrer Nachvollziehbarkeit und Korrektheit geprüft. Die Prüfungsschwerpunkte für jede einzelne Vorgabe sind in Nummer 3.2 beschrieben.
 Hinsichtlich der beizustellenden Dokumentation muss der EETS-Anbieter Folgendes berücksichtigen:
 
@@ -784,7 +784,7 @@ wirtschaftliche Vorgaben
 1
 Sicherheit -- Bankgarantie oder gleichwertiges Finanzinstrument
 Prüfung der ausreichenden Höhe der initialen Bankgarantie\\
-Prüfung Kreditinstitut: �Europäischer Pass“, Rating-Wert für Langfrist- und Kurzfristverbindlichkeiten mindestens der Kreditqualitätsstufe 2 der harmonisierten Ratingskala des Rahmenwerks für Bonitätsbeurteilungen im Eurosystem\\
+Prüfung Kreditinstitut: Europäischer Pass“, Rating-Wert für Langfrist- und Kurzfristverbindlichkeiten mindestens der Kreditqualitätsstufe 2 der harmonisierten Ratingskala des Rahmenwerks für Bonitätsbeurteilungen im Eurosystem\\
 Prüfung, dass es sich um eine revolvierende Bankgarantie auf erstes Anfordern handelt\\
 Prüfung des Prozesses, der die aktuelle Höhe der Bankgarantie ermittelt und eine Anpassung auslöst
 finanzielle Vorgabe
@@ -806,7 +806,7 @@ Prüfung des Prozesses, der die Umsetzung der Vorgabe betrifft, insbesondere zum
 finanzielle Vorgabe
 6
 Verzug
-Prüfung der Prozesse, die die Zahlungsfristen betreffen, insbesondere das Vorhandensein eines �Prozesszweiges“, der die Verzugszinsen berücksichtigt\\
+Prüfung der Prozesse, die die Zahlungsfristen betreffen, insbesondere das Vorhandensein eines Prozesszweiges“, der die Verzugszinsen berücksichtigt\\
 Berücksichtigung des korrekten Basiszinssatzes der Deutschen Bundesbank
 finanzielle Vorgabe
 7
@@ -1019,7 +1019,7 @@ Prüfung der Systemdokumentation, der Benutzeranleitungen der Bordgeräte und de
 Vorgabe zu Mauterhebung, Kontrolle und Überwachung
 51
 Sicherung von Daten
-Prüfung der Systemdokumentation und Systemspezifikation: Sind angemessene Sicherheitsma�Security Framework“ Standard, vgl. ISO 19299)
+Prüfung der Systemdokumentation und Systemspezifikation: Sind angemessene SicherheitsmaSecurity Framework“ Standard, vgl. ISO 19299)
 Vorgabe zu Mauterhebung, Kontrolle und Überwachung
 52
 Missbrauchsschutz
@@ -1040,8 +1040,8 @@ Vorgabe zu Qualitätsanforderungen
 Tabelle 2: Schwerpunkte bei der Prüfung der Dokumentation
 Der Mauterheber fasst die Ergebnisse der Dokumentenprüfung in einem Prüfbericht zusammen. In dem Prüfbericht ist für jede Vorgabe vermerkt, ob basierend auf der vom EETS-Anbieter vorgelegten Dokumentation von einer Erfüllung der Vorgabe ausgegangen werden kann.
 3.3  Quality Gate -- QG1
-Für das Bestehen des ersten Prüfblocks �Dokumentationsprüfung“ gelten die in Nummer 2.8 genannten Kriterien.
-�
+Für das Bestehen des ersten Prüfblocks Dokumentationsprüfung“ gelten die in Nummer 2.8 genannten Kriterien.
+
 4.1 Prüfgegenstand und Ziel
 Im Rahmen der Schnittstellenprüfung und der initialen fachlichen Funktionsprüfungen (Phase 1) erfolgt die Überprüfung der grundlegenden Funktionalität des Teilsystems des EETS-Anbieters, bestehend aus:
 
@@ -1127,7 +1127,7 @@ Die Prüffallvorgaben des Mauterhebers sind in folgenden Szenarien gruppiert:\\
 | P1-012   | Kontrolle (DSRC SST 301)                                                                                       | Korrektheit der DSRC-Daten                                                          |
 
 Tabelle 4: Liste der Prüfszenarien für Phase 1 -- Schnittstellentest
-�
+
 Im Prüfkatalog finden sich die relevanten Informationen und vollständigen Definitionen zu den in den oben aufgeführten Prüfszenarien gruppierten Prüffallvorgaben:\\
 \\
 | ID:                  | eindeutige Kennzeichnung der Prüffallvorgabe                             |
@@ -1143,7 +1143,7 @@ Im Prüfkatalog finden sich die relevanten Informationen und vollständigen Defi
 Tabelle 5: Struktur der Prüffallvorgaben
 4.5 Quality Gate -- QG 2
 Für das Bestehen der Schnittstellenprüfung und den Übergang in die nächste Prüfphase gelten die in Nummer 2.8 genannten Kriterien.
-�
+
 5.1 Prüfgegenstand und Ziel
 Im Rahmen des Probebetriebs (Phase 2) erfolgt eine Überprüfung des Teilsystems des EETS-Anbieters, für die der Mauterheber ein wirkbetriebsnahes Erprobungssystem und der EETS-Anbieter ein wirkbetriebsnahes Erprobungssystem oder sein Wirkbetriebssystem verwenden.
 Voraussetzung für die Aufnahme der Phase 2 ist der in Nummer 4.5 beschriebene, erfolgreiche Abschluss der Phase 1 und die Verfügbarkeit der für den Probebetrieb benötigten Ressourcen.
@@ -1155,7 +1155,7 @@ Die Probebetriebsumgebung unterstützt alle für diese Prüfphase relevanten Ver
 Der EETS-Anbieter stellt dazu sein wirkbetriebsnahes Erprobungssystem oder alternativ sein Wirkbetriebssystem zur Verfügung, welches über die technischen Schnittstellen an das wirkbetriebsnahe Erprobungssystem des Mauterhebers angebunden wird. Zu diesem Zweck werden zwischen EETS-Anbieter und Mauterheber die notwendigen Systemzugangsschlüssel und weitere notwendige und sicherheitsrelevante Informationen ausgetauscht.
 Nach erfolgter Anbindung der Systeme wird die Funktionsfähigkeit der Probebetriebsumgebung verifiziert, erst dann können die Prüfungen beginnen.
 Die Prüfungen werden durch Fahrten im mautpflichtigen Streckennetz, Teilen des nicht mautpflichtigen Streckennetzes und auf ausgewählten Referenzstrecken durchgeführt. Die genaue Ausprägung der Fahrten wird im vom EETS-Anbieter vorgelegten Prüfprogramm abgestimmt und festgelegt.
-Für die Durchführung der anteiligen Befahrung des mautpflichtigen Streckennetzes kann der EETS-Anbieter PKW mit eingebautem Bordgerät einsetzen. Allerdings ist für das Prüfszenario P2-005 �korrekte Kontrollprozesse“ zwingend der Einsatz von mautpflichtigen LKWs vorzusehen.
+Für die Durchführung der anteiligen Befahrung des mautpflichtigen Streckennetzes kann der EETS-Anbieter PKW mit eingebautem Bordgerät einsetzen. Allerdings ist für das Prüfszenario P2-005 korrekte Kontrollprozesse“ zwingend der Einsatz von mautpflichtigen LKWs vorzusehen.
 5.3 Übersicht Prüfszenarien
 Die in der folgenden Tabelle dargestellten Szenarien bilden die Grundlage für die Prüfungen, die im Rahmen des Programms zur Betriebsbewährung des Teilsystems des EETS-Anbieters abgedeckt und durchgeführt werden müssen.\\
 \\
@@ -1335,7 +1335,7 @@ Für Teil A:
 - -- :: regelmäßige und vollständige Bereitstellung der Überwachungsreports über die SST 013, vollständiges Monitoring des EETS-Anbieters
 - -- :: Monitoring aller Bordgeräte durch den EETS-Anbieter; bei Problemen Darstellung des Fehlers.
 
-�
+
 Für Teil B:
 
 - -- :: Prüfung, dass die Betriebsbereitschaft des Teilsystems des EETS-Anbieters umgehend wiederhergestellt werden kann
@@ -1502,7 +1502,7 @@ Der Mauterheber:
 
 5.4 Quality Gate -- QG3
 Für das Bestehen des Probebetriebs und den Übergang in die nächste Prüfphase gelten die in Nummer 2.8 genannten Kriterien.
-�
+
 6.1 Prüfgegenstand und Ziel
 Im Rahmen der dritten Prüfphase, des Pilotbetriebs, erfolgt eine Überprüfung des Teilsystems des EETS-Anbieters in der Wirkbetriebsumgebung des Mauterhebers und des EETS-Anbieters.
 Der EETS-Anbieter stellt eine Nutzerreferenzgruppe bereit, die im Rahmen des Pilotbetriebs wirkbetriebskonform Maut im EETS-Gebiet BFStrMG erhebt. Die Nutzerreferenzgruppe ist eine ausgewählte Gruppe von Nutzern des EETS-Anbieters, die grundsätzlich aus Transportunternehmen des gewerblichen Güterkraftverkehrs besteht. Diese ausgewählte Gruppe von Nutzern muss beim EETS-Anbieter für den EETS-Dienst registriert und bereit sein, am Pilotbetrieb teilzunehmen. Die Nutzerreferenzgruppe hat zum Ziel, ein realistisches Fahrverhalten im Pilotbetrieb abzubilden. Sie muss so ausgewählt sein, dass sie die Vorgaben abdeckt. Vorgaben sind z. B. eine bestimmte Anzahl von Kilometern, die im EETS-Gebiet BFStrMG während der Dauer des Pilotbetriebs zurückzulegen sind.
@@ -1708,9 +1708,9 @@ Die Prüfergebnisse werden vom Mauterheber hinsichtlich der Erfüllung der Vorga
 6.4 Quality Gate -- QG4
 Das Quality Gate 4 schreibt die Kriterien für die Ausgangsqualität des Teilsystems des EETS-Anbieters nach dem Pilotbetrieb vor.
 Für das Bestehen des Pilotbetriebs gelten die in Nummer 2.8 genannten Kriterien sowie die Erfüllung der durch den Mauterheber festgestellten Quoten bezüglich der Güte der Mauterhebung und der Kontrolle.
-�
+
 Dieser Anhang enthält die detaillierten Anforderungen an die Inhalte aller Protokolle und Berichte, die im Rahmen der Gebrauchstauglichkeitsprüfung zu erstellen sind.
-�
+
 Die Durchführung von durch den EETS-Anbieter erstellten Prüffällen ist in den Phasen 1 und 2 relevant. Für jeden Prüffall ist ein separates Prüfprotokoll zu erstellen, welches das abschließende Prüfergebnis dieses Prüffalls dokumentiert. Alle Detailinformationen zu den Prüfbedingungen und Ereignissen während der Prüfdurchführung müssen in das Prüfprotokoll aufgenommen werden.
 Das Prüfprotokoll muss mindestens die folgenden Inhalte umfassen:
 
@@ -1736,9 +1736,9 @@ Ergebnis für die Prüffallvorgaben mit:
 - -- :: festgestellten Übereinstimmungen mit dem erwarteten Ergebnis je Prüffallvorgabe
 - -- :: festgestellten Abweichungen von den Prüffallvorgaben inklusive Bewertung der festgestellten Abweichungen
 - -- :: Kommunikationsabläufen gemäß Schnittstellen des EETS-Anbieters in maschinenlesbarem Format
-- -- :: Bewertungsvorschlag des EETS-Anbieters (�bestanden“ oder �nicht bestanden“)
+- -- :: Bewertungsvorschlag des EETS-Anbieters (bestanden“ oder nicht bestanden“)
 - -- :: abschließender Zusammenfassung des Prüfergebnisses
-  Falls die Prüffallvorgabe trotz festgestellter Abweichungen als �bestanden“ eingestuft wird, müssen die Abweichungen in Form einer Risikoanalyse bewertet und das Ergebnis begründet werden.
+  Falls die Prüffallvorgabe trotz festgestellter Abweichungen als bestanden“ eingestuft wird, müssen die Abweichungen in Form einer Risikoanalyse bewertet und das Ergebnis begründet werden.
 
 ausschließlich Phase 2 und 3:
 
@@ -1746,7 +1746,7 @@ ausschließlich Phase 2 und 3:
 - -- :: festgestellte Übereinstimmungen mit den Vorgaben beziehungsweise erwarteten Ergebnissen
 - -- :: festgestellte Abweichungen von den Vorgaben beziehungsweise erwarteten Ergebnissen inklusive Bewertung der festgestellten Abweichungen
 - -- :: abschließende Zusammenfassung des Prüfergebnisses
-  Falls der Prüffall trotz festgestellter Abweichungen als �bestanden“ eingestuft wird, müssen die Abweichungen in Form einer Risikoanalyse bewertet und das Ergebnis begründet werden
+  Falls der Prüffall trotz festgestellter Abweichungen als bestanden“ eingestuft wird, müssen die Abweichungen in Form einer Risikoanalyse bewertet und das Ergebnis begründet werden
 - -- :: Unterschrift des Verantwortlichen für die Erstellung des Prüfprotokolls.
 
 Zusätzlich sollte das Prüfprotokoll ausreichend Platz vorsehen für:
@@ -1778,7 +1778,7 @@ Für jedes Prüfszenario ist ein separater Prüfbericht zu erstellen, der das ab
   - -- :: Zeitpunkt der Erfüllung
   - -- :: Beschreibung eventuell festgestellter Abweichungen.
 - -- :: Abschließende Zusammenfassung des Prüfergebnisses für das Prüfszenario:
-  Falls das Prüfszenario trotz festgestellter Abweichungen in einzelnen Prüffällen oder trotz unvollständiger Abdeckung als �Bestanden“ eingestuft wird, müssen die Abweichungen beziehungsweise der Abdeckungsgrad in Form einer Risikoanalyse bewertet und das Ergebnis ausführlich begründet werden.
+  Falls das Prüfszenario trotz festgestellter Abweichungen in einzelnen Prüffällen oder trotz unvollständiger Abdeckung als Bestanden“ eingestuft wird, müssen die Abweichungen beziehungsweise der Abdeckungsgrad in Form einer Risikoanalyse bewertet und das Ergebnis ausführlich begründet werden.
 - -- :: Gegebenenfalls Beschreibungen der Maßnahmen, mit denen die Abweichungen behoben werden sollen.
 - -- :: Unterschrift des Verantwortlichen für die Erstellung des Prüfberichts.
 
@@ -1805,11 +1805,11 @@ Für jede Prüfphase ist ein separater Abschlussbericht zu erstellen, der das ab
   - -- :: erfolgreich abgeschlossen (Ja/Nein)
   - -- :: eindeutige Referenznummer des zugeordneten Inspektionsberichts;
 - -- :: abschließende Zusammenfassung des Prüfergebnisses für die Prüfphase
-  Falls die Prüfphase trotz festgestellter Abweichungen oder trotz unvollständiger Abdeckung in einzelnen Prüfszenarien als �Bestanden“ eingestuft wird, müssen die Abweichungen beziehungsweise der Abdeckungsgrad in Form einer Risikoanalyse bewertet und das Ergebnis ausführlich begründet werden.
+  Falls die Prüfphase trotz festgestellter Abweichungen oder trotz unvollständiger Abdeckung in einzelnen Prüfszenarien als Bestanden“ eingestuft wird, müssen die Abweichungen beziehungsweise der Abdeckungsgrad in Form einer Risikoanalyse bewertet und das Ergebnis ausführlich begründet werden.
 - -- :: Unterschrift des Verantwortlichen für die Erstellung des Abschlussberichts
 
 Nachdem der EETS-Anbieter den Abschlussbericht zur Verfügung gestellt hat, erstellt der Mauterheber einen eigenen Abschlussbericht.
-�
+
 1 Einleitung
 1.1 Zielsetzung des Dokuments
 1.2 Referenzen und Grundlagen
@@ -1835,8 +1835,8 @@ Nachdem der EETS-Anbieter den Abschlussbericht zur Verfügung gestellt hat, erst
 7 Prüffallvorgaben-übergreifend zu verwendende Daten
 7.1 Stammdaten
 7.2 Fahrszenarien
-�
-�
+
+
 1.1 Zielsetzung des Dokuments
 Der vorliegende Prüfkatalog enthält die Prüffallvorgaben, deren Erfüllung im Rahmen der Feststellung der Gebrauchstauglichkeit in Prüfblock 2, Phase 1 nachzuweisen ist. In diesem Katalog finden sich die relevanten Informationen zu den in Dokument B (Prüfkonzept) aufgeführten Prüfszenarien in Form von Prüffallvorgaben.
 Die Prüffallvorgaben müssen im Rahmen der Erstellung der Prüfspezifikation durch den EETS-Anbieter konkretisiert und in seiner Prüfspezifikation dokumentiert werden. Im Rahmen der Erstellung der Prüfspezifikation durch den EETS-Anbieter ist eine Gruppierung mehrerer Prüffallvorgaben des Mauterhebers in einem Prüffall des EETS-Anbieters zulässig.
@@ -1845,7 +1845,7 @@ Dem Prüfkatalog liegen das Dokument B (Prüfkonzept) des Verfahrens der Gebrauc
 1.3 Überblick und Aufbau des Dokuments
 Der Prüfkatalog umfasst die Prüffallvorgaben für die Durchführung des Prüfprogramms (Prüfblock 2), Schnittstellenprüfung (Phase 1).
 Zunächst wird mit Nummer 1 eine Einleitung in das Dokument gegeben. Nummer 2 beschreibt den Aufbau der im Prüfkatalog enthaltenen Prüffallvorgaben, bevor Nummer 3 eine Übersicht über die Prüffallvorgaben gibt, die in den einzelnen Szenarien der Schnittstellenprüfung durchzuführen sind. Im Anschluss daran wird in Nummer 4 die Vorgehensweise bei der Durchführung der Prüffallvorgaben beschrieben. Nummer 5 enthält die Prüffallvorgaben zu technischen Schnittstellentests und Nummer 6 die Prüffallvorgaben zu fachlichen Tests. In Nummer 7 werden die zur Durchführung der Prüffallvorgaben zu verwendenden Daten beschrieben.
-�
+
 2.1 Kategorien von Prüffallvorgaben
 Die Prüffallvorgaben sind in zwei Kategorien strukturiert:
 | Kategorie von Prüffallvorgaben | Beschreibung                                                                                                                                                                                                                      |
@@ -1876,20 +1876,20 @@ KON\\
 TRO\\
 MBD\\
 TZB
-Kategorie �Technische Schnittstellentests“\\
-Fachlicher Bereich �Blacklist“\\
-Fachlicher Bereich �Whitelist“\\
-Fachlicher Bereich �User-Details“-Anfragen\\
-Fachlicher Bereich �Fahrzeugbestand eines Halters“\\
-Fachlicher Bereich �abschnittsbezogene Erhebungsdaten“\\
-Fachlicher Bereich �Mautbuchungsnachweise“\\
-Fachlicher Bereich �Tagesbericht“\\
-Fachlicher Bereich �Kontrolle“\\
-Fachlicher Bereich �Trust Objects“\\
-Fachlicher Bereich �Mautbuchungsdaten“\\
-Fachlicher Bereich �Technischer Zustand eines Bordgeräts (EETS)“
+Kategorie Technische Schnittstellentests“\\
+Fachlicher Bereich Blacklist“\\
+Fachlicher Bereich Whitelist“\\
+Fachlicher Bereich User-Details“-Anfragen\\
+Fachlicher Bereich Fahrzeugbestand eines Halters“\\
+Fachlicher Bereich abschnittsbezogene Erhebungsdaten“\\
+Fachlicher Bereich Mautbuchungsnachweise“\\
+Fachlicher Bereich Tagesbericht“\\
+Fachlicher Bereich Kontrolle“\\
+Fachlicher Bereich Trust Objects“\\
+Fachlicher Bereich Mautbuchungsdaten“\\
+Fachlicher Bereich Technischer Zustand eines Bordgeräts (EETS)“
 YYYY
-Diese Unterkategorie entspricht der Nummer der betroffenen Schnittstelle (3 bis 4 Zeichen). Ausnahme: Die Kennzeichnung �00X“ wird für schnittstellenübergreifende Prüffallvorgaben verwendet.
+Diese Unterkategorie entspricht der Nummer der betroffenen Schnittstelle (3 bis 4 Zeichen). Ausnahme: Die Kennzeichnung 00X“ wird für schnittstellenübergreifende Prüffallvorgaben verwendet.
 ZZZ
 Eindeutige dreistellige Nummer innerhalb der Unterkategorie
 Beschreibung:
@@ -1914,8 +1914,8 @@ Prüffallvorgabe-ID
 P1-001
 Technische Prüfung der Schnittstellen zum EETS-Anbieter\\
 (SST 001, SST 002, SST 006, SST 007, SST 008, SST 099)
-�
-�
+
+
 Übertragung einer leeren EETS-Blacklist
 P1-SST-001-001
 Übertragung einer leeren EETS-Whitelist
@@ -1928,8 +1928,8 @@ Kommunikationsablauf bei Nichtverfügbarkeit
 P1-SST-00X-002
 P1-002
 Verwalten der Blacklist (SST 001)
-�
-�
+
+
 Sperrung eines Bordgeräts
 P1-BL-001-001
 Sperrung mehrerer Bordgeräte
@@ -1940,8 +1940,8 @@ Entsperrung mehrerer Bordgeräte
 P1-BL-001-004
 P1-003
 Verwalten der Whitelist (SST 002a)
-�
-�
+
+
 Neuanlage eines Nutzers mit einem Fahrzeug
 P1-WL-002a-001
 Neuanlage mehrerer Nutzer mit mehreren Fahrzeugen
@@ -1952,8 +1952,8 @@ Neues Bordgerät für ein bestehendes Fahrzeug
 P1-WL-002a-004
 P1-004
 Verwalten der Nutzeradress- und Fahrzeugdaten (SST 002b)
-�
-�
+
+
 Abfrage von Adressdaten zu einer User-ID
 P1-UDA-002b-001
 Abfrage von Fahrzeugdaten zu einer User-ID
@@ -1964,16 +1964,16 @@ Abfrage nach Änderung der Fahrzeugdaten
 P1-UDA-002b-004
 P1-005
 Verwalten der Fahrzeugliste von EETS-Nutzern (SST 002c)
-�
-�
+
+
 Abfrage des mautpflichtigen Fahrzeugbestands zu einer User-ID
 P1-FBH-002c-001
 Abfrage des mautpflichtigen Fahrzeugbestands zu mehreren User-IDs
 P1-FBH-002c-002
 P1-006
 Übertragung und Verwendung der Mautbasisdaten (SST 003)
-�
-�
+
+
 Übertragung von Mautbasisdaten vom Mauterheber zum EETS-Anbieter
 P1-MBD-003-001
 Erhebung mit erhöhten Mautbeträgen nach Update der Mautbasisdaten
@@ -1986,8 +1986,8 @@ Mautbuchungsnachweise für eine Fahrt mit verschiedenen Orts- und Zeitklassen
 P1-MBN-007-008
 P1-007
 Austausch von sicherheitsrelevanten Objekten (SST 004)
-�
-�
+
+
 Übertragung von Transportschlüsseln vom Mauterheber zum EETS-Anbieter
 P1-TRO-004-001
 Übertragung von Transportschlüsseln vom EETS-Anbieter zum Mauterheber
@@ -2000,8 +2000,8 @@ P1-TRO-004-004
 P1-TRO-004-005
 P1-008
 Erzeugung von abschnittsbezogenen Erhebungsdaten (SST 006)
-�
-�
+
+
 Erhebung bei einer Fahrt mit einer Ein- und einer Ausfahrt
 P1-AED-006-001
 Erhebung bei einer Fahrt mit einer Ein-, einer Durch- und einer Ausfahrt
@@ -2022,8 +2022,8 @@ Erhebung mit Änderung der Gewichtsklasse nach Einführung einer neuen Gewichtsk
 P1-AED-006-009
 P1-009
 Erzeugung von Mautbuchungsnachweisen (SST 007)
-�
-�
+
+
 Mautbuchungsnachweis für eine Fahrt mit einer Ein- und einer Ausfahrt
 P1-MBN-007-001
 Mautbuchungsnachweis für eine Fahrt mit einer Ein-, einer Durch- und einer Ausfahrt
@@ -2044,20 +2044,20 @@ Mautbuchungsnachweise für zwei Fahrten mit Änderung der Gewichtsklasse
 P1-MBN-007-009
 P1-010
 Erzeugung von Tagesberichten (SST 008)
-�
-�
+
+
 Tagesberichte für die durchgeführten Fahrten
 P1-TB-008-001
 P1-011
 Abfrage des technischen Zustands eines Bordgeräts (SST 016)
-�
-�
+
+
 Anfrage zum technischen Zustand eines Bordgeräts durch den Mauterheber
 P1-TZB-016-001
 P1-012
 Kontrolle (DSRC SST 301)
-�
-�
+
+
 Portable Kontrolle
 P1-KON-301-001
 Manuelle Kontrolle
@@ -2140,7 +2140,7 @@ Folgende Randbedingungen sind zu berücksichtigen:
 - -- :: In den Prüffallvorgaben zu SST 006 und SST 007 werden identische Fahrszenarien verwendet. Somit muss ein Fahrszenario nur einmal durchgeführt werden und die hierbei erzeugten abschnittsbezogenen Erhebungsdaten und Mautbuchungsnachweise können zum Nachweis der jeweiligen Prüffallvorgabe der Schnittstellen SST 006 und SST 007 verwendet werden.
 - -- :: Die vorgegebenen Stammdaten dürfen nur gemäß der Beschreibung in den Prüffallvorgaben geändert werden. Insbesondere dürfen sie nicht durch Testdaten, die nicht im Rahmen der Durchführung der Prüffallvorgaben erzeugt werden, verändert werden.
 
-�
+
 Prüffallvorgabe: Übertragung einer leeren EETS-Blacklist
 | ID:                  | P1-SST-001-001                                                                                                                                     |
 |----------------------+----------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -2248,7 +2248,7 @@ Prüffallvorgaben: Kommunikationsablauf bei Nichtverfügbarkeit
 | Bemerkungen:         | Die Durchführung der oben genannten Prüffallvorgaben muss zur Herstellung der Vorbedingung in enger Abstimmung mit dem Mauterheber erfolgen.                                                                                                                                                                                        |
 
 Tabelle 8 Prüffallvorgabe: Kommunikationsablauf bei Nichtverfügbarkeit
-�
+
 6.1 Whitelist
 Prüffallvorgabe: Neuanlage eines Nutzers mit einem Fahrzeug
 | ID:                  | P1-WL-002a-001                                                                                                                                                                                                 |
@@ -2851,8 +2851,8 @@ Prüffallvorgabe: Kontrolle vor und nach Änderung der Gewichtsklasse
 |                      | Die Stammdaten zu Nutzer NZ_04, Fahrzeug FZ_05 und Bordgerät BG_05 wurden im Teilsystem des EETS-Anbieters angelegt und die User-ID und die fahrzeugbezogenen Details sind in der Testumgebung bekannt (Übertragung über SST 002a und SST 002b hat stattgefunden).\\                                                     |
 |                      | Ein Kontrollfahrzeug des Mauterhebers ist für den Test ist einsatzbereit.                                                                                                                                                                                                                                                |
 | Erwartetes Ergebnis: | Zu den durchgeführten Kontrollfällen liegen vollständige und korrekte DSRC-Datensätze in der Testumgebung vor.\\                                                                                                                                                                                                         |
-|                      | Bei der Auswertung der DSRC-Datensätze muss für den Fahrtanteil bis zum Rasthof Frechen Nord das Attribut VehicleClass im Bereich LocalVehicleClass den Wert xx0x´B enthalten und das Datenelement statusIndicator im Attribut ExtendedOBEStatusHistory den Wert �go“ (1) enthalten.\\                                   |
-|                      | Bei der Auswertung der DSRC-Datensätze muss für den Fahrtanteil ab dem Rasthof Frechen Nord das Attribut VehicleClass im Bereich LocalVehicleClass den Wert xx1x´B enthalten und das Datenelement statusIndicator im Attribut ExtendedOBEStatusHistory den Wert �go“ (1) enthalten.                                      |
+|                      | Bei der Auswertung der DSRC-Datensätze muss für den Fahrtanteil bis zum Rasthof Frechen Nord das Attribut VehicleClass im Bereich LocalVehicleClass den Wert xx0x´B enthalten und das Datenelement statusIndicator im Attribut ExtendedOBEStatusHistory den Wert go“ (1) enthalten.\\                                   |
+|                      | Bei der Auswertung der DSRC-Datensätze muss für den Fahrtanteil ab dem Rasthof Frechen Nord das Attribut VehicleClass im Bereich LocalVehicleClass den Wert xx1x´B enthalten und das Datenelement statusIndicator im Attribut ExtendedOBEStatusHistory den Wert go“ (1) enthalten.                                      |
 | Eingabedaten:        | Der Nutzer NZ_04 fährt Fahrszenario FS_05 mit dem Fahrzeug FZ_05 (Bordgerät BG_05) ab. Bis zum Rasthof Frechen Nord erfolgt die Fahrt mit einem 2-Achs-Anhänger. Nach Erreichen des Rasthofes Frechen Nord wird das Fahrzeuggewicht auf < 7,5t deklariert (Anhänger wird abgekoppelt).                                   |
 | Akteur:              | Mauterheber (Bereitstellen eines Kontrollfahrzeugs und Festlegen der Kontrollpunkte),\\                                                                                                                                                                                                                                  |
 |                      | EETS-Anbieter (Abfahren der festgelegten Strecke zum festgelegten Termin).                                                                                                                                                                                                                                               |
@@ -3115,8 +3115,8 @@ Prüffallvorgabe: Abfrage zum technischen Zustand eines Bordgeräts
 | Bemerkungen:         | keine                                                                                                                                                                                                                                                                                                            |
 
 Tabelle 55 Prüffallvorgabe: Anfrage zum technischen Zustand eines Bordgeräts
-�
-�
+
+
 7.1 Stammdaten
 Zur Durchführung der Prüffallvorgaben kommen vorgegebene Daten für fiktive EETS-Nutzer zur Verwendung, denen Fahrzeuge und Bordgeräte zugeordnet sind. Die nachfolgende Tabelle zeigt die zu verwendende Konstellation von Nutzer, Fahrzeug und Bordgerät:
 | Lfd. Nr. | Nutzer | Fahrzeug | Bordgerät |
@@ -3139,7 +3139,7 @@ Zur Durchführung der Prüffallvorgaben kommen vorgegebene Daten für fiktive EE
 Tabelle 56: Stammdatenzuordnung
 Jeder Nutzer, jedes Fahrzeug und jedes Bordgerät wird in dieser Tabelle durch einen eindeutigen Bezeichner identifiziert. Details zu jedem Nutzer beziehungsweise jedem Fahrzeug werden nachfolgend beschrieben. Zu den Bordgeräten, die EETS-Anbieter spezifisch sind, werden außer der eindeutigen Zuordnung zum jeweiligen Fahrzeug keine weiteren Vorgaben gemacht.
 7.1.1 Adressdaten der EETS-Nutzer
-Die nachfolgende Übersicht zeigt die fiktiven EETS-Nutzer, die der EETS-Anbieter in seinem Teilsystem zur Durchführung der Prüffälle zu verwenden hat. Die Nutzer werden im Rahmen der Durchführung der Prüffallvorgaben zur Schnittstelle SST 002 angelegt. Zur Referenzierung ist jedem Nutzer eine eindeutige Nutzer-ID zugeordnet. Die Attribute sind durch die Schnittstellspezifikation �SST 002b - User-Details“ definiert.
+Die nachfolgende Übersicht zeigt die fiktiven EETS-Nutzer, die der EETS-Anbieter in seinem Teilsystem zur Durchführung der Prüffälle zu verwenden hat. Die Nutzer werden im Rahmen der Durchführung der Prüffallvorgaben zur Schnittstelle SST 002 angelegt. Zur Referenzierung ist jedem Nutzer eine eindeutige Nutzer-ID zugeordnet. Die Attribute sind durch die Schnittstellspezifikation SST 002b - User-Details“ definiert.
 | Nutzer-ID                       | NZ_01               | NZ_02                         | NZ_03                   | NZ_04                     | NZ_05                          |
 |---------------------------------+---------------------+-------------------------------+-------------------------+---------------------------+--------------------------------|
 | addresseeRoleDescriptor         | --                  | --                            | z.Hd.                   | --                        | z.Hd.                          |
@@ -3168,12 +3168,12 @@ Die nachfolgende Übersicht zeigt die fiktiven EETS-Nutzer, die der EETS-Anbiete
 | Email                           | info@musterfirma.de | max.mustermann@mustermann.com | --                      | j.lindeberg@lindeberg.com | miriam.mueller@mueller-gmbh.de |
 
 Tabelle 57: EETS-Nutzerdaten Teil 1
-�
-�
+
+
 Tabelle 58: EETS-Nutzerdaten Teil 2
-�
+
 7.1.2 Fahrzeugdaten der EETS-Nutzer
-Die nachfolgende Übersicht zeigt die fiktiven Fahrzeuge, die der EETS-Anbieter in seinem Teilsystem zur Durchführung der Prüffälle zu verwenden hat. Die Fahrzeuge werden im Rahmen der Durchführung der Prüffallvorgaben zur Schnittstelle SST 002 angelegt. Zur Referenzierung ist jedem Fahrzeug eine eindeutige Fahrzeug-ID zugeordnet. Die Attribute sind durch die Schnittstellspezifikation �SST 002b - User-Details“ bzw. �SST 006 - Abschnittsbezogene Erhebungsdaten“ definiert. Nicht vorgegebene Attributwerte sind EETS-Anbieter spezifisch zu füllen. Weitere durch die Schnittstellenspezifikation definierte, aber hier nicht aufgeführte Attribute, sind für die Prüfung nicht relevant.
+Die nachfolgende Übersicht zeigt die fiktiven Fahrzeuge, die der EETS-Anbieter in seinem Teilsystem zur Durchführung der Prüffälle zu verwenden hat. Die Fahrzeuge werden im Rahmen der Durchführung der Prüffallvorgaben zur Schnittstelle SST 002 angelegt. Zur Referenzierung ist jedem Fahrzeug eine eindeutige Fahrzeug-ID zugeordnet. Die Attribute sind durch die Schnittstellspezifikation SST 002b - User-Details“ bzw. SST 006 - Abschnittsbezogene Erhebungsdaten“ definiert. Nicht vorgegebene Attributwerte sind EETS-Anbieter spezifisch zu füllen. Weitere durch die Schnittstellenspezifikation definierte, aber hier nicht aufgeführte Attribute, sind für die Prüfung nicht relevant.
 | Fahrzeug-ID                                                | FZ_01             | FZ_02             | FZ_03             | FZ_04             | FZ_05             |
 |------------------------------------------------------------+-------------------+-------------------+-------------------+-------------------+-------------------|
 | Pan                                                        |                   |                   |                   |                   |                   |
@@ -3197,12 +3197,12 @@ Die nachfolgende Übersicht zeigt die fiktiven Fahrzeuge, die der EETS-Anbieter 
 | EuropeanVehicleGroup                                       | Group 5           | Group 5           | Group 5           | Group 5           | Group 4 bzw. 5    |
 
 Tabelle 59: Fahrzeugdaten Teil 1
-�
-�
+
+
 Tabelle 60: Fahrzeugdaten Teil 2
-�
+
 Tabelle 61: Fahrzeugdaten Teil 3
-�
+
 7.1.3 Update Mautbasisdaten
 Für das Betriebsdaten-Update sind gegenüber der aktuellen Version folgende Änderungen in den Mautbasisdaten vorzusehen:
 Änderung der Tarifparameter:
@@ -3214,7 +3214,7 @@ Für das Betriebsdaten-Update sind gegenüber der aktuellen Version folgende Än
 | Zeitklasse 2       | Zuschlag auf den Mautsatz ab 12.00 Uhr:                 | + 50 %    |
 
 Tabelle 62: Update der Tarifparameter
-�
+
 Berücksichtigung der Orts- und Zeitklassen in den Mautbasisdaten:
 | ID   | Von                            | Bis                            | Ortsklasse | Zeitklasse |
 |------+--------------------------------+--------------------------------+------------+------------|
@@ -3230,7 +3230,7 @@ Berücksichtigung der Orts- und Zeitklassen in den Mautbasisdaten:
 | 3660 | Köln-Süd, Kreuz                | Köln-Bayenthal                 | 3          | 1          |
 
 Tabelle 63: Update Orts- und Zeitklassen
-�
+
 Einführung einer neuen Gewichtsklasse (GK3) für Fahrzeuge über 18 t: Tarif + 0,05 €
 7.2 Fahrszenarien
 Die nachfolgenden Fahrszenarien beschreiben die in den Prüffallvorgaben durchzuführenden Fahrten:
@@ -3337,8 +3337,8 @@ Die nachfolgenden Fahrszenarien beschreiben die in den Prüffallvorgaben durchzu
 |       |                                                                                                                                                                       |                                                                                                                         | Ausfahrt → Godorf                                                |
 
 Tabelle 64: Fahrszenarien
-�
-�
+
+
 [[../normengrafiken/banzat_2018/20180327v2_03.jpg]]
 Anlage 3 Anhang B Nr. 2.2 Tabelle 2 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Kennzeichung" durch das Wort "Kennzeichnung" ersetzt
 
@@ -3350,14 +3350,14 @@ Anlage 4 - zur Vereinbarung über die Durchführung des Prüfverfahrenszur Erbri
 Anlage 5 - zur Vereinbarung über die Durchführung des Prüfverfahrenszur Erbringung mautdienstbezogener Leistungen (Prüfvereinbarung)
 
 (Fundstelle: BAnz AT 27.03.2018 V 2)
-�
+
 Im Rahmen der Durchführung des Zulassungsverfahrens zur Erbringung mautdienstbezogener Leistungen auf dem EETS-Gebiet BFStrMG sind vom BAG Gebühren für die Geltendmachung individuell zurechenbarer öffentlicher Leistungen zu erheben.
 Das Zulassungsverfahren gliedert sich in folgende Phasen:
 [[../normengrafiken/banzat_2018/20180327v2_04.jpg]]
-�
+
 Von einem EETS-Anbieter, der das Zulassungsverfahren durchläuft, sind die nachfolgend genannten Pauschalbeträge zu entrichten:\\
 \\
-�
+
 Verfahrensphase
 Pauschalentgelt
 a.
@@ -3385,9 +3385,9 @@ vor Beginn des Pilotbetriebs\\
  50 000 €
 Gesamtbetrag:
 250 000 €
-�
+
 Diese Pauschalbeträge sind jeweils vor Beginn der zugehörigen Verfahrensphase fällig. Das BAG fordert einen EETS-Anbieter vor jeder Verfahrensphase schriftlich zur Zahlung des Betrags auf. Die Verfahrensphase wird vom BAG erst nach Eingang der entsprechenden Zahlung eingeleitet.
-�
+
 Es ist möglich, dass eine erneute Prüfung eines Teils oder des gesamten Teilsystems eines EETS-Anbieters notwendig wird. Dies ist der Fall, wenn
 
 - -- :: der Anbieter Änderungen an seinem EETS-Teilsystem vornimmt, die Auswirkungen auf die Gebrauchstauglichkeit haben können,
@@ -3403,7 +3403,7 @@ Die erneute Durchführung des Verfahrens zur Gebrauchstauglichkeit orientiert si
 Anlage 6 - zur Vereinbarung über die Durchführung des Prüfverfahrenszur Erbringung mautdienstbezogener Leistungen (Prüfvereinbarung)
 
 (Fundstelle: BAnz AT 27.03.2018 V 2)
-�
+
 
 Anlage 7 - zur Vereinbarung über die Durchführung des Prüfverfahrenszur Erbringung mautdienstbezogener Leistungen (Prüfvereinbarung)
 

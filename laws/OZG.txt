@@ -11,19 +11,19 @@ Ausfertigungsdatum: 14.08.2017
 
 § 2 - Begriffsbestimmungen
 
-(1) Der �Portalverbund“ ist eine technische Verknüpfung der Verwaltungsportale von Bund und Ländern, über den der Zugang zu Verwaltungsleistungen auf unterschiedlichen Portalen angeboten wird.
-(2) Ein �Verwaltungsportal“ bezeichnet ein bereits gebündeltes elektronisches Verwaltungsangebot eines Landes oder des Bundes mit entsprechenden Angeboten einzelner Behörden.
-(3) �Verwaltungsleistungen“ im Sinne dieses Gesetzes sind die elektronische Abwicklung von Verwaltungsverfahren und die dazu erforderliche elektronische Information des Nutzers und Kommunikation mit dem Nutzer über allgemein zugängliche Netze.
-(4) �Nutzer“ im Sinne dieses Gesetzes sind
+(1) Der Portalverbund“ ist eine technische Verknüpfung der Verwaltungsportale von Bund und Ländern, über den der Zugang zu Verwaltungsleistungen auf unterschiedlichen Portalen angeboten wird.
+(2) Ein Verwaltungsportal“ bezeichnet ein bereits gebündeltes elektronisches Verwaltungsangebot eines Landes oder des Bundes mit entsprechenden Angeboten einzelner Behörden.
+(3) Verwaltungsleistungen“ im Sinne dieses Gesetzes sind die elektronische Abwicklung von Verwaltungsverfahren und die dazu erforderliche elektronische Information des Nutzers und Kommunikation mit dem Nutzer über allgemein zugängliche Netze.
+(4) Nutzer“ im Sinne dieses Gesetzes sind
 
 - 1. :: natürliche Personen,
 - 2. :: juristische Personen,
 - 3. :: Vereinigungen, soweit ihnen ein Recht zustehen kann, und
 - 4. :: Behörden.
 
-(5) Ein �Nutzerkonto“ ist eine zentrale Identifizierungs- und Authentifizierungskomponente, die eine staatliche Stelle anderen Behörden zur einmaligen oder dauerhaften Identifizierung und Authentifizierung der Nutzer zu Zwecken der Inanspruchnahme von Verwaltungsleistungen der öffentlichen Verwaltung bereitstellt. Ein Nutzerkonto kann als Bürger- oder Organisationskonto angeboten werden. Ein �Bürgerkonto“ ist ein Nutzerkonto, das natürlichen Personen zur Verfügung steht. Ein �Organisationskonto“ ist ein Nutzerkonto, das juristischen Personen, Vereinigungen, denen ein Recht zustehen kann, natürlichen Personen, die gewerblich oder beruflich tätig sind, oder Behörden zur Verfügung steht. Die Verwendung von Nutzerkonten ist für die Nutzer freiwillig.
-(6) �IT-Komponenten“ im Sinne dieses Gesetzes sind IT-Anwendungen, Basisdienste und die elektronische Realisierung von Standards, Schnittstellen und Sicherheitsvorgaben, die für die Anbindung an den Portalverbund, für den Betrieb des Portalverbundes und für die Abwicklung der Verwaltungsleistungen im Portalverbund erforderlich sind.
-(7) Ein �Postfach“ ist eine IT-Komponente, über die eine Behörde Nutzern mit deren Zustimmung elektronische Dokumente und Informationen bereitstellen kann. Das Postfach ist Bestandteil eines Nutzerkontos. Die Nutzung eines Postfachs ist für die Nutzer freiwillig.
+(5) Ein Nutzerkonto“ ist eine zentrale Identifizierungs- und Authentifizierungskomponente, die eine staatliche Stelle anderen Behörden zur einmaligen oder dauerhaften Identifizierung und Authentifizierung der Nutzer zu Zwecken der Inanspruchnahme von Verwaltungsleistungen der öffentlichen Verwaltung bereitstellt. Ein Nutzerkonto kann als Bürger- oder Organisationskonto angeboten werden. Ein Bürgerkonto“ ist ein Nutzerkonto, das natürlichen Personen zur Verfügung steht. Ein Organisationskonto“ ist ein Nutzerkonto, das juristischen Personen, Vereinigungen, denen ein Recht zustehen kann, natürlichen Personen, die gewerblich oder beruflich tätig sind, oder Behörden zur Verfügung steht. Die Verwendung von Nutzerkonten ist für die Nutzer freiwillig.
+(6) IT-Komponenten“ im Sinne dieses Gesetzes sind IT-Anwendungen, Basisdienste und die elektronische Realisierung von Standards, Schnittstellen und Sicherheitsvorgaben, die für die Anbindung an den Portalverbund, für den Betrieb des Portalverbundes und für die Abwicklung der Verwaltungsleistungen im Portalverbund erforderlich sind.
+(7) Ein Postfach“ ist eine IT-Komponente, über die eine Behörde Nutzern mit deren Zustimmung elektronische Dokumente und Informationen bereitstellen kann. Das Postfach ist Bestandteil eines Nutzerkontos. Die Nutzung eines Postfachs ist für die Nutzer freiwillig.
 
 § 3 - Ziel des Portalverbundes; Nutzerkonten
 
@@ -67,7 +67,7 @@ Für die im Portalverbund und für die zur Anbindung an den Portalverbund genutz
   - g) :: Geburtsland,
   - h) :: Anschrift,
   - i) :: Staatsangehörigkeit,
-  - j) :: bei Nutzung der elektronischen Identitätsfunktion im Sinne des § 18 des Personalausweisgesetzes, des § 12 des eID-Karte-Gesetzes oder des § 78 Absatz 5 des Aufenthaltsgesetzes die Abkürzung �D“ für Bundesrepublik Deutschland, die Dokumentenart sowie das dienste- und kartenspezifische Kennzeichen,
+  - j) :: bei Nutzung der elektronischen Identitätsfunktion im Sinne des § 18 des Personalausweisgesetzes, des § 12 des eID-Karte-Gesetzes oder des § 78 Absatz 5 des Aufenthaltsgesetzes die Abkürzung D“ für Bundesrepublik Deutschland, die Dokumentenart sowie das dienste- und kartenspezifische Kennzeichen,
   - k) :: die eindeutige Kennung sowie die spezifischen Daten, die von notifizierten elektronischen Identifizierungsmitteln nach der Verordnung (EU) Nr. 910/2014 vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73) übermittelt werden,
   - l) :: die eindeutige Kennung, die von sonstigen anerkannten elektronischen Identifizierungsmitteln übermittelt wird, und
   - m) :: die Postfachreferenz des Nutzerkontos;
@@ -87,7 +87,7 @@ Für die im Portalverbund und für die zur Anbindung an den Portalverbund genutz
   - k) :: die Postfachreferenz des Nutzerkontos und
   - l) :: Namen der Mitglieder des Vertretungsorgans oder der gesetzlichen Vertreter;
 
-  ist ein Mitglied des Vertretungsorgans oder der gesetzliche Vertreter eine juristische Person, so sind deren Daten nach den Buchstaben a bis f und h bis k zu erheben; soweit eine natürliche Person für eine Organisation handelt, sind die gespeicherten personenbezogenen Daten nach Nummer 1 mit Ausnahme der �Anschrift“ und die Daten nach Absatz 3 zu verwenden.
+  ist ein Mitglied des Vertretungsorgans oder der gesetzliche Vertreter eine juristische Person, so sind deren Daten nach den Buchstaben a bis f und h bis k zu erheben; soweit eine natürliche Person für eine Organisation handelt, sind die gespeicherten personenbezogenen Daten nach Nummer 1 mit Ausnahme der Anschrift“ und die Daten nach Absatz 3 zu verwenden.
 
 Daten im Sinne des Satzes 2 Nummern 1 und 2 dürfen mit Einwilligung des Nutzers auch zwischen den Nutzerkonten von Bund und Ländern ausgetauscht werden.
 
@@ -100,7 +100,7 @@ Daten im Sinne des Satzes 2 Nummern 1 und 2 dürfen mit Einwilligung des Nutzers
 (4) Mit Einwilligung des Nutzers dürfen im Nutzerkonto elektronische Dokumente zu Verwaltungsvorgängen sowie Status- und Verfahrensinformationen innerhalb des Nutzerkontos verarbeitet werden.
 (5) Die elektronische Identifizierung kann jeweils mittels einer einmaligen Abfrage der Identitätsdaten erfolgen. Mit Einwilligung des Nutzers sind eine dauerhafte Speicherung der Identitätsdaten und deren Übermittlung an und Verwendung durch die für die Verwaltungsleistung zuständige Behörde zulässig. Im Falle der dauerhaften Speicherung muss der Nutzer jederzeit die Möglichkeit haben, das Nutzerkonto und alle gespeicherten Daten selbständig zu löschen.
 (6) Die für die Abwicklung einer Verwaltungsleistung zuständige Behörde kann im Einzelfall mit Einwilligung des Nutzers die für die Identifizierung des Nutzers erforderlichen Daten bei der für das Nutzerkonto zuständigen Stelle elektronisch abrufen. Das nach § 87a Absatz 6 Satz 1 der Abgabenordnung eingesetzte sichere Verfahren ersetzt im Falle der Identifizierung und Authentifizierung am Organisationskonto eine durch Rechtsvorschrift angeordnete Schriftform.
-(7) Bis zum Ablauf des 30. Juni 2023 werden die nach § 87a Absatz 6 der Abgabenordnung in der Steuerverwaltung bis einschlie�substantiell“ anerkannt. Satz 1 gilt nicht für Verwaltungsleistungen im Anwendungsbereich der Abgabenordnung.
+(7) Bis zum Ablauf des 30. Juni 2023 werden die nach § 87a Absatz 6 der Abgabenordnung in der Steuerverwaltung bis einschliesubstantiell“ anerkannt. Satz 1 gilt nicht für Verwaltungsleistungen im Anwendungsbereich der Abgabenordnung.
 (8) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates festzulegen, welche elektronischen Identifizierungsmittel im Rahmen der Interoperabilität der Nutzerkonten von Bund und Ländern zum Nachweis der Identität eingesetzt werden können, die Details eines Anerkennungsverfahrens festzulegen und die technischen Rahmenbedingungen zur Sicherstellung der Interoperabilität der Nutzerkonten zu bestimmen.
 
 § 9 - Bekanntgabe des Verwaltungsaktes

@@ -221,9 +221,9 @@ Ausnahmen
 
 Eintrag 1
 
-�
 
-�
+
+
 
 Formaldehyd
 
@@ -239,9 +239,9 @@ Absatz 3 gilt nicht für Reiniger im ausschließlich industriellen Gebrauch.
 
 Eintrag 2
 
-�
 
-�
+
+
 
 Dioxine und Furane\\
 
@@ -337,9 +337,9 @@ Das Verbot nach Spalte 2 gilt nicht für
 
 Eintrag 3
 
-�
 
-�
+
+
 
 Pentachlorphenol:\\
 
@@ -356,9 +356,9 @@ In dem in Artikel 3 des Einigungsvertrages genannten Gebiet tritt an die Stelle 
 
 Eintrag 4
 
-�
 
-�
+
+
 
 Biopersistente Fasern:\\
 Künstliche Mineralfasern, die aus ungerichteten glasigen\\
@@ -408,9 +408,9 @@ Erleichterte Anforderungen bei Abgabe an Wiederverkäufer, berufsmäßige Verwen
 
 Eintrag 1
 
-�
 
-�
+
+
 
 Stoffe und Gemische, die nach der Verordnung (EG) Nr. 1272/2008 zu kennzeichnen sind mit
 
@@ -439,9 +439,9 @@ Stoffe und Gemische, die nach der Verordnung (EG) Nr. 1272/2008 zu kennzeichnen 
 
 Eintrag 2
 
-�
 
-�
+
+
 
 Nicht von Eintrag 1 erfasste Stoffe und Gemische, die
 
@@ -452,11 +452,11 @@ Nicht von Eintrag 1 erfasste Stoffe und Gemische, die
     oder
   - b) :: dem Gefahrenpiktogramm\\
     GHS02 (Flamme) und einem der folgenden Gefahrenhinweise:
-    - i) :: H224 (�Flüssigkeit und\\
+    - i) :: H224 (Flüssigkeit und\\
       Dampf extrem entzündbar“),
-    - ii) :: H241 (�Erwärmung kann\\
+    - ii) :: H241 (Erwärmung kann\\
       Brand oder Explosion verursachen“) oder
-    - iii) :: H242 (�Erwärmung kann\\
+    - iii) :: H242 (Erwärmung kann\\
       Brand verursachen“)
 
 oder
@@ -468,4 +468,4 @@ Grundanforderungen zur Durchführung der Abgabe nach § 8 Absatz 1, 3 und 4
 
 Grundanforderungen zur Durchführung der Abgabe nach § 8 Absatz 2 bis 4
 
-- <<FnA1-F796954_1b>>[[#FnR.FnA1-F796954_1b][1]] :: Text der H-Sätze gemä�Kann genetische Defekte verursachen (Expositionsweg angeben, sofern schlüssig belegt ist, dass diese Gefahr bei keinem anderen Expositionsweg besteht).“, H350 �Kann Krebs erzeugen (Expositionsweg angeben, sofern schlüssig belegt ist, dass diese Gefahr bei keinem anderen Expositionsweg besteht).“, H350i �Kann bei Einatmen Krebs erzeugen.“, H360 �Kann die Fruchtbarkeit beeinträchtigen oder das Kind im Mutterleib schädigen (konkrete Wirkung angeben, sofern bekannt) (Expositionsweg angeben, sofern schlüssig belegt ist, dass diese Gefahr bei keinem anderen Expositionsweg besteht).“, H360F �Kann die Fruchtbarkeit beeinträchtigen.“, H360D �Kann das Kind im Mutterleib schädigen.“, H360FD �Kann die Fruchtbarkeit beeinträchtigen. Kann das Kind im Mutterleib schädigen.“, H360Fd �Kann die Fruchtbarkeit beeinträchtigen. Kann vermutlich das Kind im Mutterleib schädigen.“, H360Df �Kann das Kind im Mutterleib schädigen. Kann vermutlich die Fruchtbarkeit beeinträchtigen.“, H370 �Schädigt die Organe (oder alle betroffenen Organe nennen, sofern bekannt) (Expositionsweg angeben, sofern schlüssig belegt ist, dass diese Gefahr bei keinem anderen Expositionsweg besteht).“, H372 �Schädigt die Organe (oder alle betroffenen Organe nennen, sofern bekannt) bei längerer oder wiederholter Exposition (Expositionsweg angeben, sofern schlüssig belegt ist, dass diese Gefahr bei keinem anderen Expositionsweg besteht).
+- <<FnA1-F796954_1b>>[[#FnR.FnA1-F796954_1b][1]] :: Text der H-Sätze gemäKann genetische Defekte verursachen (Expositionsweg angeben, sofern schlüssig belegt ist, dass diese Gefahr bei keinem anderen Expositionsweg besteht).“, H350 Kann Krebs erzeugen (Expositionsweg angeben, sofern schlüssig belegt ist, dass diese Gefahr bei keinem anderen Expositionsweg besteht).“, H350i Kann bei Einatmen Krebs erzeugen.“, H360 Kann die Fruchtbarkeit beeinträchtigen oder das Kind im Mutterleib schädigen (konkrete Wirkung angeben, sofern bekannt) (Expositionsweg angeben, sofern schlüssig belegt ist, dass diese Gefahr bei keinem anderen Expositionsweg besteht).“, H360F Kann die Fruchtbarkeit beeinträchtigen.“, H360D Kann das Kind im Mutterleib schädigen.“, H360FD Kann die Fruchtbarkeit beeinträchtigen. Kann das Kind im Mutterleib schädigen.“, H360Fd Kann die Fruchtbarkeit beeinträchtigen. Kann vermutlich das Kind im Mutterleib schädigen.“, H360Df Kann das Kind im Mutterleib schädigen. Kann vermutlich die Fruchtbarkeit beeinträchtigen.“, H370 Schädigt die Organe (oder alle betroffenen Organe nennen, sofern bekannt) (Expositionsweg angeben, sofern schlüssig belegt ist, dass diese Gefahr bei keinem anderen Expositionsweg besteht).“, H372 Schädigt die Organe (oder alle betroffenen Organe nennen, sofern bekannt) bei längerer oder wiederholter Exposition (Expositionsweg angeben, sofern schlüssig belegt ist, dass diese Gefahr bei keinem anderen Expositionsweg besteht).

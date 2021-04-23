@@ -14,7 +14,7 @@ Anwendungsbereich, Begriffsbestimmungen
 Vertragsschluss
 § 3
 Ersatzversorgung
-�
+
 Teil 2
 Versorgung
 § 4
@@ -27,7 +27,7 @@ Kalkulatorische Neuermittlung bei Änderungen staatlich gesetzter oder reguliert
 Umfang der Grundversorgung
 § 7
 Erweiterung und Änderung von Anlagen und Verbrauchsgeräten; Mitteilungspflichten
-�
+
 Teil 3
 Aufgaben und Rechte des Grundversorgers
 § 8
@@ -36,7 +36,7 @@ Messeinrichtungen
 Zutrittsrecht
 § 10
 Vertragsstrafe
-�
+
 Teil 4
 Abrechnung der Energielieferung
 § 11
@@ -55,7 +55,7 @@ Rechnungen und Abschläge
 Zahlung, Verzug
 § 18
 Berechnungsfehler
-�
+
 Teil 5
 Beendigung des Grundversorgungsverhältnisses
 § 19
@@ -64,7 +64,7 @@ Unterbrechung der Versorgung
 Kündigung
 § 21
 Fristlose Kündigung
-�
+
 Teil 6
 Schlussbestimmungen
 § 22

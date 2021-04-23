@@ -10,26 +10,26 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 Inhaltsübersicht
 
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 § 1 - Art, Stichtag, Quellen und Zwecke des Zensus
 
@@ -408,7 +408,7 @@ Die Hilfsmerkmale nach den §§ 6, 10 Absatz 2, § 13 Absatz 2 und § 16 dürfen
 § 32 - Übermittlung von Tabellen und Einzelangaben an oberste Bundes- und Landesbehörden sowie an Statistikstellen der Gemeinden und Gemeindeverbände
 
 (1) Für die Verwendung gegenüber den gesetzgebenden Körperschaften und für Zwecke der Planung, jedoch nicht für die Regelung von Einzelfällen, dürfen die statistischen Ämter des Bundes und der Länder den obersten Bundes- oder Landesbehörden Tabellen mit statistischen Ergebnissen übermitteln, auch soweit Tabellenfelder nur einen einzigen Fall ausweisen.
-(2) Für ausschlie�Stra�Hausnummer“ oder nach Blockseiten zusammengefasste Einzelangaben übermitteln. Die Übermittlung ist nur zulässig, wenn das Statistikgeheimnis durch gesetzlich vorgeschriebene Maßnahmen, insbesondere zur räumlichen, organisatorischen und personellen Trennung der Statistikstellen von den für nichtstatistische Aufgaben zuständigen Stellen der Gemeinden und Gemeindeverbände, gewährleistet ist. Die Hilfsmerkmale sind zum frühestmöglichen Zeitpunkt, spätestens jedoch zwei Jahre nach Übermittlung, zu löschen.
+(2) Für ausschlieStraHausnummer“ oder nach Blockseiten zusammengefasste Einzelangaben übermitteln. Die Übermittlung ist nur zulässig, wenn das Statistikgeheimnis durch gesetzlich vorgeschriebene Maßnahmen, insbesondere zur räumlichen, organisatorischen und personellen Trennung der Statistikstellen von den für nichtstatistische Aufgaben zuständigen Stellen der Gemeinden und Gemeindeverbände, gewährleistet ist. Die Hilfsmerkmale sind zum frühestmöglichen Zeitpunkt, spätestens jedoch zwei Jahre nach Übermittlung, zu löschen.
 
 § 33 - Bereitstellung von Auswahlgrundlagen für Gebäude-, Wohnungs- und Bevölkerungsstichproben
 

@@ -9,15 +9,15 @@ InhaltsÃ¼bersicht
 Erstes Buch
 MÃ¶glichkeiten von Umwandlungen
 Â§ 1
- 
+
 Zweites Buch
 Verschmelzung
 Â§Â§ 2 bis 122
- 
- 
- 
- 
- 
+
+
+
+
+
 Erster Teil
 Allgemeine Vorschriften
 Â§Â§ 2 bis 38
@@ -30,11 +30,11 @@ Verschmelzung durch Aufnahme
 Dritter Abschnitt
 Verschmelzung durch NeugrÃ¼ndung
 Â§Â§ 36 bis 38
- 
- 
- 
- 
- 
+
+
+
+
+
 Zweiter Teil
 Besondere Vorschriften
 Â§Â§ 39 bis 122
@@ -47,11 +47,11 @@ Verschmelzung unter Beteiligung von Personenhandelsgesellschaften
 Zweiter Unterabschnitt
 Verschmelzung unter Beteiligung von Partnerschaftsgesellschaften
 Â§Â§ 45a bis 45e
- 
- 
- 
- 
- 
+
+
+
+
+
 Zweiter Abschnitt
 Verschmelzung unter Beteiligung von Gesellschaften mit beschrÃ¤nkter Haftung
 Â§Â§ 46 bis 59
@@ -61,11 +61,11 @@ Verschmelzung durch Aufnahme
 Zweiter Unterabschnitt
 Verschmelzung durch NeugrÃ¼ndung
 Â§Â§ 56 bis 59
- 
- 
- 
- 
- 
+
+
+
+
+
 Dritter Abschnitt
 Verschmelzung unter Beteiligung von Aktiengesellschaften
 Â§Â§ 60 bis 77
@@ -75,19 +75,19 @@ Verschmelzung durch Aufnahme
 Zweiter Unterabschnitt
 Verschmelzung durch NeugrÃ¼ndung
 Â§Â§ 73 bis 77
- 
- 
- 
- 
- 
+
+
+
+
+
 Vierter Abschnitt
 Verschmelzung unter Beteiligung von Kommanditgesellschaften auf Aktien
 Â§ 78
- 
- 
- 
- 
- 
+
+
+
+
+
 FÃ¼nfter Abschnitt
 Verschmelzung unter Beteiligung eingetragener Genossenschaften
 Â§Â§ 79 bis 98
@@ -97,27 +97,27 @@ Verschmelzung durch Aufnahme
 Zweiter Unterabschnitt
 Verschmelzung durch NeugrÃ¼ndung
 Â§Â§ 96 bis 98
- 
- 
- 
- 
- 
+
+
+
+
+
 Sechster Abschnitt
 Verschmelzung unter Beteiligung rechtsfÃ¤higer Vereine
 Â§Â§ 99 bis 104a
- 
- 
- 
- 
- 
+
+
+
+
+
 Siebenter Abschnitt
 Verschmelzung genossenschaftlicher PrÃ¼fungsverbÃ¤nde
 Â§Â§ 105 bis 108
- 
- 
- 
- 
- 
+
+
+
+
+
 Achter Abschnitt
 Verschmelzung von Versicherungsvereinen auf Gegenseitigkeit
 Â§Â§ 109 bis 119
@@ -133,31 +133,31 @@ Verschmelzung durch NeugrÃ¼ndung
 Vierter Unterabschnitt
 Verschmelzung kleinerer Vereine
 Â§Â§ 118 und 119
- 
- 
- 
- 
- 
+
+
+
+
+
 Neunter Abschnitt
 Verschmelzung von Kapitalgesellschaften mit dem VermÃ¶gen eines Alleingesellschafters
 Â§Â§ 120 bis 122
- 
- 
- 
- 
- 
+
+
+
+
+
 Zehnter Abschnitt
 GrenzÃ¼berschreitende Verschmelzung
 Â§Â§ 122a bis 122m
- 
+
 Drittes Buch
 Spaltung
 Â§Â§ 123 bis 173
- 
- 
- 
- 
- 
+
+
+
+
+
 Erster Teil
 Allgemeine Vorschriften
 Â§Â§ 123 bis 137
@@ -170,11 +170,11 @@ Spaltung zur Aufnahme
 Dritter Abschnitt
 Spaltung zur NeugrÃ¼ndung
 Â§Â§ 135 bis 137
- 
- 
- 
- 
- 
+
+
+
+
+
 Zweiter Teil
 Besondere Vorschriften
 Â§Â§ 138 bis 173
@@ -196,11 +196,11 @@ Spaltung unter Beteiligung genossenschaftlicher PrÃ¼fungsverbÃ¤nde
 Sechster Abschnitt
 Spaltung unter Beteiligung von Versicherungsvereinen auf Gegenseitigkeit
 Â§ 151
- 
- 
- 
- 
- 
+
+
+
+
+
 Siebenter Abschnitt
 Ausgliederung aus dem VermÃ¶gen eines Einzelkaufmanns
 Â§Â§ 152 bis 160
@@ -213,39 +213,39 @@ Ausgliederung zur Aufnahme
 Dritter Unterabschnitt
 Ausgliederung zur NeugrÃ¼ndung
 Â§Â§ 158 bis 160
- 
- 
- 
- 
- 
+
+
+
+
+
 Achter Abschnitt
 Ausgliederung aus dem VermÃ¶gen rechtsfÃ¤higer Stiftungen
 Â§Â§ 161 bis 167
- 
- 
- 
- 
- 
+
+
+
+
+
 Neunter Abschnitt
 Ausgliederung aus dem VermÃ¶gen von GebietskÃ¶rperschaften oder ZusammenschlÃ¼ssen von GebietskÃ¶rperschaften
 Â§Â§ 168 bis 173
- 
+
 Viertes Buch
 VermÃ¶gensÃ¼bertragung
 Â§Â§ 174 bis 189
- 
- 
- 
- 
- 
+
+
+
+
+
 Erster Teil
 MÃ¶glichkeit der VermÃ¶gensÃ¼bertragung
 Â§Â§ 174 und 175
- 
- 
- 
- 
- 
+
+
+
+
+
 Zweiter Teil
 Ãœbertragung des VermÃ¶gens oder von VermÃ¶gensteilen einer Kapitalgesellschaft auf die Ã¶ffentliche Hand
 Â§Â§ 176 und 177
@@ -255,11 +255,11 @@ VollÃ¼bertragung
 Zweiter Abschnitt
 TeilÃ¼bertragung
 Â§ 177
- 
- 
- 
- 
- 
+
+
+
+
+
 Dritter Teil
 VermÃ¶gensÃ¼bertragung unter Versicherungsunternehmen
 Â§Â§ 178 bis 189
@@ -272,11 +272,11 @@ VollÃ¼bertragung
 Zweiter Unterabschnitt
 TeilÃ¼bertragung
 Â§ 179
- 
- 
- 
- 
- 
+
+
+
+
+
 Zweiter Abschnitt
 Ãœbertragung des VermÃ¶gens eines Versicherungsvereins auf Gegenseitigkeit auf Aktiengesellschaften oder Ã¶ffentlich-rechtliche Versicherungsunternehmen
 Â§Â§ 180 bis 184
@@ -286,19 +286,19 @@ VollÃ¼bertragung
 Zweiter Unterabschnitt
 TeilÃ¼bertragung
 Â§ 184
- 
- 
- 
- 
- 
+
+
+
+
+
 Dritter Abschnitt
 Ãœbertragung des VermÃ¶gens eines kleineren Versicherungsvereins auf Gegenseitigkeit auf eine Aktiengesellschaft oder auf ein Ã¶ffentlich-rechtliches Versicherungsunternehmen
 Â§Â§ 185 bis 187
- 
- 
- 
- 
- 
+
+
+
+
+
 Vierter Abschnitt
 Ãœbertragung des VermÃ¶gens eines Ã¶ffentlich-rechtlichen Versicherungsunternehmens auf Aktiengesellschaften oder Versicherungsvereine auf Gegenseitigkeit
 Â§Â§ 188 und 189
@@ -308,23 +308,23 @@ VollÃ¼bertragung
 Zweiter Unterabschnitt
 TeilÃ¼bertragung
 Â§ 189
- 
+
 FÃ¼nftes Buch
 Formwechsel
 Â§Â§ 190 bis 304
- 
- 
- 
- 
- 
+
+
+
+
+
 Erster Teil
 Allgemeine Vorschriften
 Â§Â§ 190 bis 213
- 
- 
- 
- 
- 
+
+
+
+
+
 Zweiter Teil
 Besondere Vorschriften
 Â§Â§ 214 bis 304
@@ -337,11 +337,11 @@ Formwechsel von Personenhandelsgesellschaften
 Zweiter Unterabschnitt
 Formwechsel von Partnerschaftsgesellschaften
 Â§Â§ 225a bis 225c
- 
- 
- 
- 
- 
+
+
+
+
+
 Zweiter Abschnitt
 Formwechsel von Kapitalgesellschaften
 Â§Â§ 226 bis 257
@@ -357,19 +357,19 @@ Formwechsel in eine Kapitalgesellschaft anderer Rechtsform
 Vierter Unterabschnitt
 Formwechsel in eine eingetragene Genossenschaft
 Â§Â§ 251 bis 257
- 
- 
- 
- 
- 
+
+
+
+
+
 Dritter Abschnitt
 Formwechsel eingetragener Genossenschaften
 Â§Â§ 258 bis 271
- 
- 
- 
- 
- 
+
+
+
+
+
 Vierter Abschnitt
 Formwechsel rechtsfÃ¤higer Vereine
 Â§Â§ 272 bis 290
@@ -382,30 +382,30 @@ Formwechsel in eine Kapitalgesellschaft
 Dritter Unterabschnitt
 Formwechsel in eine eingetragene Genossenschaft
 Â§Â§ 283 bis 290
- 
- 
- 
- 
- 
+
+
+
+
+
 FÃ¼nfter Abschnitt
 Formwechsel von Versicherungsvereinen auf Gegenseitigkeit
 Â§Â§ 291 bis 300
- 
- 
- 
- 
- 
+
+
+
+
+
 Sechster Abschnitt
 Formwechsel von KÃ¶rperschaften und Anstalten des Ã¶ffentlichen Rechts
 Â§Â§ 301 bis 304
 (weggefallen)
- 
+
 Â§Â§ 305 bis 312
- 
+
 Sechstes Buch
 Strafvorschriften und Zwangsgelder
 Â§Â§ 313 bis 316
- 
+
 Siebentes Buch
 Ãœbergangs- und Schlussvorschriften
 Â§Â§ 317 bis 325

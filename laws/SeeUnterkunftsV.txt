@@ -10,34 +10,34 @@ Das Bundesministerium fÃ¼r Arbeit und Soziales verordnet auf Grund des Â§ 96 des
 
 InhaltsÃ¼bersicht
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Â§ 1 - Geltungsbereich
 
@@ -69,7 +69,7 @@ Diese Verordnung gilt fÃ¼r die UnterkÃ¼nfte, die Freizeiteinrichtungen und die m
 (3) Spezialschiffe sind Schiffe im Sinne des IMO-Codes Ã¼ber die Sicherheit von Spezialschiffen (VkBl. 2009 S. 84), die fÃ¼r die BefÃ¶rderung von mehr als zwÃ¶lf Personen Spezialpersonal vorgesehen sind.
 (4) Fischereifahrzeuge sind Schiffe, die zur gewerblichen Fischerei verwendet werden oder verwendet werden sollen und mit einem durchgehenden wasserdichten Wetterdeck, das bei allen BeladungszustÃ¤nden oberhalb der Wasserlinie liegt, ausgestattet sind.
 (5) Berufsgenossenschaft im Sinne dieser Verordnung ist die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation.
-(6) â€LÃ¤ngeâ€œ eines Schiffs ist der grÃ¶ÃŸere der beiden folgenden Werte:
+(6) LÃ¤ngeâ€œ eines Schiffs ist der grÃ¶ÃŸere der beiden folgenden Werte:
 
 - 1. :: 96 Prozent der GesamtlÃ¤nge, gemessen in einer Wasserlinie in HÃ¶he von 85 Prozent der geringsten SeitenhÃ¶he oberhalb der Oberkante des Kiels, oder
 - 2. :: die LÃ¤nge von der Vorkante des Vorstevens bis zur Drehachse des Ruderschafts in dieser Wasserlinie.
@@ -462,7 +462,7 @@ Anlage 1 - (zu Â§ 22 Absatz 3)Apothekenschrank fÃ¼r die Aufbewahrung der medizin
 
 (Fundstelle: BGBl. I 2019, 1463)
 [[../normengrafiken/bgbl1_2019/j1453-1_0010.jpg]]
- 
+
 ErlÃ¤uterungen:
 Aufbau des Apothekenschrankes
 Der Schrank muss aus einem Oberteil und einem Unterteil von jeweils 1Â 000 mm HÃ¶he bestehen. Differenzen zur jeweils vorhandenen DeckenhÃ¶he sind durch FÃ¼llstÃ¼cke auszugleichen.

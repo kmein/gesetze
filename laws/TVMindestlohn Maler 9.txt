@@ -25,12 +25,12 @@ Ausfertigungsdatum: 25.04.2017
 
 - 1. :: Diese Mindestlöhne sind Löhne im Sinne des § 5 Nummer 1 des Arbeitnehmer-Entsendegesetzes für alle von dem persönlichen Geltungsbereich dieses Tarifvertrags erfassten Arbeitnehmer. Höhere Lohnansprüche aufgrund anderer Tarifverträge, betrieblicher oder einzelvertraglicher Vereinbarungen bleiben unberührt.
 - 2. :: Die Mindestlöhne betragen
-  - a) :: Für �Ungelernte Arbeitnehmer“/Mindestlohn 1
+  - a) :: Für Ungelernte Arbeitnehmer“/Mindestlohn 1
     | mit Wirkung vom 1. Mai 2017 | 10,35 €, |
     | mit Wirkung vom 1. Mai 2018 | 10,60 €, |
     | mit Wirkung vom 1. Mai 2019 | 10,85 €, |
     | mit Wirkung zum 1. Mai 2020 | 11,10 €. |
-  - b) :: Für �Gelernte Arbeitnehmer (Gesellen)“/Mindestlohn 2
+  - b) :: Für Gelernte Arbeitnehmer (Gesellen)“/Mindestlohn 2
     in Baden-Württemberg, Bayern, Berlin, Bremen, Hamburg, Hessen, Nordrhein-Westfalen, Niedersachsen, Rheinland-Pfalz, Saarland, Schleswig-Holstein:
     | mit Wirkung vom 1. Mai 2017 | 13,10 €, |
     | mit Wirkung vom 1. Mai 2018 | 13,30 €, |
@@ -41,8 +41,8 @@ Ausfertigungsdatum: 25.04.2017
     | mit Wirkung vom 1. Mai 2018 | 12,40 €, |
     | mit Wirkung vom 1. Mai 2019 | 12,95 €, |
     | mit Wirkung zum 1. Mai 2020 | 13,50 €. |
-- 3. :: �Gelernte Arbeitnehmer (Gesellen)“ sind Arbeitnehmer, die für das Maler- und Lackiererhandwerk oder ein anderes Handwerk einschlägige handwerkliche Tätigkeiten, insbesondere die im Anhang 2 beschriebenen Tätigkeiten des Maler- und Lackiererhandwerks, ausführen.
-  �Ungelernte Arbeitnehmer“ arbeiten unter Aufsicht und Anleitung (insbesondere von Gesellen bzw. Vorarbeitern) und führen einfache Hilfstätigkeiten aus.
+- 3. :: Gelernte Arbeitnehmer (Gesellen)“ sind Arbeitnehmer, die für das Maler- und Lackiererhandwerk oder ein anderes Handwerk einschlägige handwerkliche Tätigkeiten, insbesondere die im Anhang 2 beschriebenen Tätigkeiten des Maler- und Lackiererhandwerks, ausführen.
+  Ungelernte Arbeitnehmer“ arbeiten unter Aufsicht und Anleitung (insbesondere von Gesellen bzw. Vorarbeitern) und führen einfache Hilfstätigkeiten aus.
   Bei Arbeitnehmern, die über
   - a) :: den Gesellenbrief im Maler- und Lackiererhandwerk oder einen vergleichbaren anderen Ausbildungsabschluss oder
   - b) :: einen staatlich anerkannten Berufsabschluss bzw. einen entsprechenden Nachweis (Zertifikat) aus dem Ausland, der zu Maler- und Lackiererarbeiten qualifiziert,
@@ -94,7 +94,7 @@ Anhang 1 - Auszug aus dem Rahmentarifvertrag (RTV) für die gewerblichen Arbeitn
 - 2. :: Die im Rahmen des Arbeitszeitkontos (Nummer 3) über die regelmäßige wöchentliche Arbeitszeit hinaus gearbeitete Arbeitszeit ist zuschlagsfrei. Für die über die regelmäßigen, werktäglichen Arbeitszeiten hinaus gearbeiteten Stunden sind die Grenzen des Arbeitszeitgesetzes einzuhalten; insbesondere die Einhaltung der täglichen Arbeitszeit von höchstens 10 Stunden (§ 7 Absatz 1 Nummer 1 des Arbeitszeitgesetzes).
 - 3. :: Das Arbeitszeitkonto darf höchstens 170 Gutstunden bzw. 30 Minusstunden aufweisen. Ab der 171. Stunde ist die Vergütung für mehrgearbeitete Stunden mit der nächsten Lohnzahlung und mit Mehrarbeitszuschlag (§ 36) auszuzahlen.
 - 4. :: Der jeweils aktuelle Stand des Arbeitszeitkontos (Gut- bzw. Minusstunden) ist mit der monatlichen Lohnabrechnung (§ 34 Nummer 5) separat nachzuweisen.
-- 5. :: Die Gutstunden des Arbeitzeitkontos sind grundsätzlich zum 31. März eines jeden Kalenderjahres auszugleichen (auf �Null“ zu stellen); für Gutstunden, die bis zum Stichtag nicht durch Freizeit ausgeglichen werden, ist die Vergütung mit Mehrarbeitszuschlag (§ 36) auszuzahlen.
+- 5. :: Die Gutstunden des Arbeitzeitkontos sind grundsätzlich zum 31. März eines jeden Kalenderjahres auszugleichen (auf Null“ zu stellen); für Gutstunden, die bis zum Stichtag nicht durch Freizeit ausgeglichen werden, ist die Vergütung mit Mehrarbeitszuschlag (§ 36) auszuzahlen.
 - 6. :: Scheidet der Arbeitnehmer aus dem Betrieb aus, ist das Arbeitszeitkonto auszugleichen. Für Gutstunden, die bis zum Ausscheiden nicht durch Freizeit ausgeglichen werden, ist die Vergütung mit Mehrarbeitszuschlag (§ 36) mit der abschließenden Lohnzahlung auszuzahlen. Beim Tod des Arbeitnehmers sind Guthaben an die Erben auszuzahlen; bei mehreren Anspruchsberechtigten kann der Arbeitgeber mit befreiender Wirkung an einen Erbberechtigten zahlen.
 - 7. :: Bei Sonn-, Feiertags- und Nachtarbeit sind die Zuschläge für Sonn-, Feiertags- und Nachtarbeit (§ 36) mit der nächsten Lohnzahlung auszuzahlen; alternativ ist möglich, die Zuschläge in Zeit dem Arbeitszeitkonto gutzuschreiben.
 - 8. :: Der Arbeitgeber hat in geeigneter Weise dafür zu sorgen, dass Guthaben jederzeit bestimmungsgemäß ausgezahlt werden können.

@@ -6,35 +6,35 @@ Ausfertigungsdatum: 24.02.2012
 
 Inhaltsübersicht
 
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 § 1 - Zweck des Gesetzes
 
@@ -1007,11 +1007,11 @@ Zuständig ist die Behörde des Landes, in dem der Antragsteller seinen Hauptsit
 - 2. :: in Bezug auf eine oder mehrere der in Nummer 1 genannten Tätigkeiten durch eine technische Überwachungsorganisation oder eine Entsorgergemeinschaft als Entsorgungsfachbetrieb zertifiziert ist.
 
 (3) Das Zertifikat darf nur erteilt werden, wenn der Betrieb die für die ordnungsgemäße Wahrnehmung seiner Aufgaben erforderlichen Anforderungen an seine Organisation, seine personelle, gerätetechnische und sonstige Ausstattung, seine Tätigkeit sowie die Zuverlässigkeit und Fach- und Sachkunde seines Personals erfüllt. In dem Zertifikat sind die zertifizierten Tätigkeiten des Betriebes, insbesondere bezogen auf seine Standorte und Anlagen sowie die Abfallarten, genau zu bezeichnen. Das Zertifikat ist zu befristen. Die Gültigkeitsdauer darf einen Zeitraum von 18 Monaten nicht überschreiten. Das Vorliegen der Voraussetzungen des Satzes 1 wird mindestens jährlich von der technischen Überwachungsorganisation oder der Entsorgergemeinschaft überprüft.
-(4) Mit Erteilung des Zertifikats ist dem Betrieb von der technischen Überwachungsorganisation oder Entsorgergemeinschaft die Berechtigung zum Führen eines Überwachungszeichens zu erteilen, das die Bezeichnung �Entsorgungsfachbetrieb“ in Verbindung mit dem Hinweis auf die zertifizierte Tätigkeit und die das Überwachungszeichen erteilende technische Überwachungsorganisation oder Entsorgergemeinschaft aufweist. Ein Betrieb darf das Überwachungszeichen nur führen, soweit und solange er als Entsorgungsfachbetrieb zertifiziert ist.
+(4) Mit Erteilung des Zertifikats ist dem Betrieb von der technischen Überwachungsorganisation oder Entsorgergemeinschaft die Berechtigung zum Führen eines Überwachungszeichens zu erteilen, das die Bezeichnung Entsorgungsfachbetrieb“ in Verbindung mit dem Hinweis auf die zertifizierte Tätigkeit und die das Überwachungszeichen erteilende technische Überwachungsorganisation oder Entsorgergemeinschaft aufweist. Ein Betrieb darf das Überwachungszeichen nur führen, soweit und solange er als Entsorgungsfachbetrieb zertifiziert ist.
 (5) Eine technische Überwachungsorganisation ist ein rechtsfähiger Zusammenschluss mehrerer Sachverständiger, deren Sachverständigentätigkeit auf dauernde Zusammenarbeit angelegt ist. Die Erteilung des Zertifikats und der Berechtigung zum Führen des Überwachungszeichens durch die technische Überwachungsorganisation erfolgt auf der Grundlage eines Überwachungsvertrages, der insbesondere die Anforderungen an den Betrieb und seine Überwachung sowie an die Erteilung und den Entzug des Zertifikats und der Berechtigung zum Führen des Überwachungszeichens festlegt. Der Überwachungsvertrag bedarf der Zustimmung der zuständigen Behörde.
 (6) Eine Entsorgergemeinschaft ist ein rechtsfähiger Zusammenschluss von Entsorgungsfachbetrieben im Sinne des Absatzes 2. Sie bedarf der Anerkennung der zuständigen Behörde. Die Erteilung des Zertifikats und der Berechtigung zum Führen des Überwachungszeichens durch die Entsorgergemeinschaft erfolgt auf der Grundlage einer Satzung oder sonstigen Regelung, die insbesondere die Anforderungen an die zu zertifizierenden Betriebe und ihre Überwachung sowie an die Erteilung und den Entzug des Zertifikats und der Berechtigung zum Führen des Überwachungszeichens festlegt.
 (7) Technische Überwachungsorganisation und Entsorgergemeinschaft haben sich für die Überprüfung der Betriebe Sachverständiger zu bedienen, die die für die Durchführung der Überwachung erforderliche Zuverlässigkeit, Unabhängigkeit sowie Fach- und Sachkunde besitzen.
-(8) Entfallen die Voraussetzungen für die Erteilung des Zertifikats, hat die technische Überwachungsorganisation oder die Entsorgergemeinschaft dem Betrieb das von ihr erteilte Zertifikat und die Berechtigung zum Führen des Überwachungszeichens zu entziehen sowie den Betrieb aufzufordern, das Zertifikat zurückzugeben und das Überwachungszeichen nicht weiterzuführen. Kommt der Betrieb dieser Aufforderung innerhalb einer von der technischen Überwachungsorganisation oder Entsorgergemeinschaft gesetzten Frist nicht nach, kann die zuständige Behörde dem Betrieb das erteilte Zertifikat und die Berechtigung zum Führen des Überwachungszeichens entziehen sowie die sonstige weitere Verwendung der Bezeichnung �Entsorgungsfachbetrieb“ untersagen.
+(8) Entfallen die Voraussetzungen für die Erteilung des Zertifikats, hat die technische Überwachungsorganisation oder die Entsorgergemeinschaft dem Betrieb das von ihr erteilte Zertifikat und die Berechtigung zum Führen des Überwachungszeichens zu entziehen sowie den Betrieb aufzufordern, das Zertifikat zurückzugeben und das Überwachungszeichen nicht weiterzuführen. Kommt der Betrieb dieser Aufforderung innerhalb einer von der technischen Überwachungsorganisation oder Entsorgergemeinschaft gesetzten Frist nicht nach, kann die zuständige Behörde dem Betrieb das erteilte Zertifikat und die Berechtigung zum Führen des Überwachungszeichens entziehen sowie die sonstige weitere Verwendung der Bezeichnung Entsorgungsfachbetrieb“ untersagen.
 
 § 57 - Anforderungen an Entsorgungsfachbetriebe, technische Überwachungsorganisationen und Entsorgergemeinschaften
 
@@ -1026,7 +1026,7 @@ Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 
 - 7. :: die besonderen Voraussetzungen, das Verfahren, die Erteilung und Aufhebung
   - a) :: der Zustimmung zum Überwachungsvertrag durch die zuständige Behörde geregelt werden sowie
   - b) :: der Anerkennung der Entsorgergemeinschaften durch die zuständige Behörde geregelt werden; dabei kann die Anerkennung der Entsorgergemeinschaften bei drohenden Beschränkungen des Wettbewerbes widerrufen werden,
-- 8. :: die näheren Anforderungen an den Entzug des Zertifikats und der Berechtigung zum Führen des Überwachungszeichens sowie an die Untersagung der sonstigen weiteren Verwendung der Bezeichnung �Entsorgungsfachbetrieb“ durch die zuständige Behörde nach § 56 Absatz 8 Satz 2 bestimmt werden sowie
+- 8. :: die näheren Anforderungen an den Entzug des Zertifikats und der Berechtigung zum Führen des Überwachungszeichens sowie an die Untersagung der sonstigen weiteren Verwendung der Bezeichnung Entsorgungsfachbetrieb“ durch die zuständige Behörde nach § 56 Absatz 8 Satz 2 bestimmt werden sowie
 - 9. :: für die erforderlichen Erklärungen, Nachweise, Benachrichtigungen oder sonstigen Daten die elektronische Führung und die Vorlage von Dokumenten in elektronischer Form gemäß § 3a Absatz 2 Satz 2 und 3 des Verwaltungsverfahrensgesetzes angeordnet werden.
 
 

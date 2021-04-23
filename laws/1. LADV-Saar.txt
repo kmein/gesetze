@@ -76,7 +76,7 @@ Fundstelle des Originaltextes: BGBl. I 1961, 1648 - 1649
 Abschnitt I\\
 Landwirtschaftliche Betriebe\\
 Wertanteil der Betriebsbestandteile am Betriebs-Hektarsatz
-†
+
 Von dem Betriebs-Hektarsatz entfallen auf
 Betriebs-Hektarsatz
 Wohn-
@@ -229,10 +229,10 @@ Wohn-
 Wirtschafts-
 Grund und Boden einschlie√ülich der Geh√∂lzbestandteile
 geb√§ude
-†
-†
-†
-†
+
+
+
+
 Hunderts√§tze des Einheitswerts vor Eintritt des Kriegssachschadens
 1
 2
@@ -243,10 +243,10 @@ Hunderts√§tze des Einheitswerts vor Eintritt des Kriegssachschadens
 Abschnitt III\\
 Weinbaubetriebe\\
 Wertanteil der Betriebsbestandteile am Betriebs-Hektarsatz
-†
-†
+
+
 Von dem Betriebs-Hektarsatz entfallen auf
-†
+
 Bezeichnung der Weinbaufl√§chen
 Betriebs Hektarsatz
 Wohn-
@@ -258,15 +258,15 @@ Kellerei-Betriebsmittel
 Weinvorr√§te
 Rebgew√§chse
 Grund und Boden
-†
+
 geb√§ude
 Betriebsmittel
-†
-†
-†
-†
-†
-†
+
+
+
+
+
+
 RM
 RM
 RM
@@ -366,21 +366,21 @@ I
 15
 90
 (Saarbr√ºcken)
-†
-†
-†
-†
-†
-†
-†
+
+
+
+
+
+
+
 II
-†
-†
-†
-†
-†
-†
-†
+
+
+
+
+
+
+
 sowie Neunkirchen
 -
 35
@@ -406,13 +406,13 @@ III
 10
 90
 IV
-†
-†
-†
-†
-†
-†
-†
+
+
+
+
+
+
+
 und im √ºbrigen
 -
 -
@@ -433,14 +433,14 @@ Ma√ügebende Anzahl der Geb√§udegeschosse (Geschosse)
 1
 2
 3
-†
+
 Abschnitt 1: Hauptgesch√§ftsstra√üen
 I (Saarbr√ºcken)
 Bahnhofstra√üe
 5
 Reichsstra√üe
 5
-†
+
 Abschnitt 2: Gesch√§ftsstra√üen
 I (Saarbr√ºcken)
 Beethovenplatz
@@ -503,4 +503,4 @@ Stummstra√üe, Ostseite
 Wellesweiler Stra√üe Nrn. 2 und 4
 4
 Die Eckgrundst√ºcke sind in die Hauptgesch√§ftsstra√üen oder in die Gesch√§ftsstra√üen auch dann einzubeziehen, wenn sie zu Seitenstra√üen z√§hlen, die nicht aufgef√ºhrt sind.
-†
+

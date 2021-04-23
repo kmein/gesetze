@@ -39,7 +39,7 @@ Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl.
 
 § 3 - Zulassungsvoraussetzungen
 
-(1) Zur Prüfung im Prüfungsteil �Kraftwerkstechnologie“ ist zuzulassen, wer Folgendes nachweist:
+(1) Zur Prüfung im Prüfungsteil Kraftwerkstechnologie“ ist zuzulassen, wer Folgendes nachweist:
 
 - 1. :: eine mit Erfolg abgelegte Abschlussprüfung in einem anerkannten Ausbildungsberuf, der den Metall- oder Elektroberufen oder den Produktionsberufen der Chemie zugeordnet werden kann oder
 - 2. :: eine mindestens vierjährige Berufspraxis im Fahrbetrieb und in der Instandhaltung eines Kraftwerks.
@@ -176,24 +176,24 @@ Die Protokolle nach Nummer 3 können auch beim Arbeiten an einem Kraftwerkssimul
 
 § 6 - Befreiung von einzelnen Prüfungsbestandteilen
 
-Wird die zu prüfende Person im Prüfungsteil �Kraftwerkstechnologie“ nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbereiche befreit, bleiben diese Prüfungsbereiche für die Anwendung der §§ 7 und 8 au�Kraftwerksbetrieb“ ist nicht zulässig.
+Wird die zu prüfende Person im Prüfungsteil Kraftwerkstechnologie“ nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbereiche befreit, bleiben diese Prüfungsbereiche für die Anwendung der §§ 7 und 8 auKraftwerksbetrieb“ ist nicht zulässig.
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
 § 7 - Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
-(2) Die Prüfungsleistungen nach § 4 und dem Prüfungsteil �Kraftwerksbetrieb“ sind einzeln zu bewerten.
-(3) Für den Prüfungsteil �Kraftwerkstechnologie“ ist eine Bewertung aus dem arithmetischen Mittel der Bewertungen der Leistungen in den einzelnen Prüfungsbereichen zu bilden.
+(2) Die Prüfungsleistungen nach § 4 und dem Prüfungsteil Kraftwerksbetrieb“ sind einzeln zu bewerten.
+(3) Für den Prüfungsteil Kraftwerkstechnologie“ ist eine Bewertung aus dem arithmetischen Mittel der Bewertungen der Leistungen in den einzelnen Prüfungsbereichen zu bilden.
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
 § 8 - Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
-- 1. :: in allen Prüfungsbereichen des Prüfungsteils �Kraftwerktechnologie“ und
-- 2. :: im Prüfungsteil �Kraftwerksbetrieb“.
+- 1. :: in allen Prüfungsbereichen des Prüfungsteils Kraftwerktechnologie“ und
+- 2. :: im Prüfungsteil Kraftwerksbetrieb“.
 
-(2) Ist die Prüfung bestanden, ist die Bewertung für den Prüfungsteil �Kraftwerkstechnologie“ kaufmännisch auf eine ganze Zahl zu runden.
+(2) Ist die Prüfung bestanden, ist die Bewertung für den Prüfungsteil Kraftwerkstechnologie“ kaufmännisch auf eine ganze Zahl zu runden.
 (3) Den Bewertungen für die Prüfungsteile ist nach Anlage 1 die jeweilige Note als Dezimalzahl zuzuordnen. Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das arithmetische Mittel aus den Bewertungen der Prüfungsteile zu berechnen.
 (4) Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerundeten Gesamtpunktzahl wird nach Anlage 1 die Note als Dezimalzahl und die Note in Worten zugeordnet. Die zugeordnete Note ist die Gesamtnote.
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
@@ -246,8 +246,8 @@ Teil A -- Zeugnis ohne Prüfungsergebnisse:
 Teil B -- Zeugnis mit Prüfungsergebnissen:
 Alle Angaben des Teils A sowie zusätzlich:
 
-- 1. :: Benennung und die Note des Prüfungsteils �Kraftwerkstechnologie“ sowie die Benennung und die jeweilige Bewertung für die vier Prüfungsbereiche dieses Prüfungsteils,
-- 2. :: Benennung und die Note des Prüfungsteils �Kraftwerksbetrieb“ und die Bewertung für das situationsbezogene Fachgespräch,
+- 1. :: Benennung und die Note des Prüfungsteils Kraftwerkstechnologie“ sowie die Benennung und die jeweilige Bewertung für die vier Prüfungsbereiche dieses Prüfungsteils,
+- 2. :: Benennung und die Note des Prüfungsteils Kraftwerksbetrieb“ und die Bewertung für das situationsbezogene Fachgespräch,
 - 3. :: die errechnete Gesamtpunktzahl für die gesamte Prüfung,
 - 4. :: die Gesamtnote als Dezimalzahl,
 - 5. :: die Gesamtnote in Worten,

@@ -113,7 +113,7 @@ Anhang
 
 Nachstehende Ger√§te und Maschinen fallen nach ¬ß 1 in den Anwendungsbereich der Verordnung.
 
-†
+
 
 Legende:
 
@@ -137,7 +137,7 @@ X in der Spalte 1 bzw. 2
 
 = Ger√§t oder Maschine f√§llt in den Anwendungsbereich der Spalte 1 bzw. der Spalte 2
 
-†
+
 
 Nr.
 
@@ -151,7 +151,7 @@ Sp. 2
 
 Hubarbeitsb√ºhne mit Verbrennungsmotor
 
-†
+
 
 X
 
@@ -159,7 +159,7 @@ X
 
 Freischneider
 
-†
+
 
 X
 
@@ -167,7 +167,7 @@ X
 
 Bauaufzug f√ºr den Materialtransport mit
 
-†
+
 
 03.1
 
@@ -175,13 +175,13 @@ Verbrennungsmotor
 
 X
 
-†
+
 
 03.2
 
 Elektromotor
 
-†
+
 
 X
 
@@ -189,7 +189,7 @@ X
 
 Baustellenbands√§gemaschine
 
-†
+
 
 X
 
@@ -197,7 +197,7 @@ X
 
 Baustellenkreiss√§gemaschine
 
-†
+
 
 X
 
@@ -205,7 +205,7 @@ X
 
 Tragbare Motorkettens√§ge
 
-†
+
 
 X
 
@@ -213,7 +213,7 @@ X
 
 Kombiniertes Hochdrucksp√ºl- und Saugfahrzeug
 
-†
+
 
 X
 
@@ -221,7 +221,7 @@ X
 
 Verdichtungsmaschine in der Bauart von
 
-†
+
 
 08.1
 
@@ -229,13 +229,13 @@ Vibrationswalzen und nichtvibrierende Walzen, R√ºttelplatten und Vibrationsstamp
 
 X
 
-†
+
 
 08.2
 
 Explosionsstampfer
 
-†
+
 
 X
 
@@ -245,7 +245,7 @@ Kompressor (< 350 kW)
 
 X
 
-†
+
 
 10
 
@@ -253,7 +253,7 @@ Handgef√ºhrter Betonbrecher und Abbau-, Aufbruch- und Spatenhammer
 
 X
 
-†
+
 
 X
 
@@ -261,7 +261,7 @@ X
 
 Beton- und M√∂rtelmischer
 
-†
+
 
 X
 
@@ -269,7 +269,7 @@ X
 
 Bauwinde mit
 
-†
+
 
 12.1
 
@@ -277,13 +277,13 @@ Verbrennungsmotor
 
 X
 
-†
+
 
 12.2
 
 Elektromotor
 
-†
+
 
 X
 
@@ -291,7 +291,7 @@ X
 
 F√∂rder- und Spritzmaschine f√ºr Beton und M√∂rtel
 
-†
+
 
 X
 
@@ -299,7 +299,7 @@ X
 
 F√∂rderband
 
-†
+
 
 X
 
@@ -307,7 +307,7 @@ X
 
 Fahrzeugk√ºhlaggregat
 
-†
+
 
 X
 
@@ -317,13 +317,13 @@ Planiermaschine (< 500 kW)
 
 X
 
-†
+
 
 17
 
 Bohrger√§t
 
-†
+
 
 X
 
@@ -333,13 +333,13 @@ Muldenfahrzeug (< 500 kW)
 
 X
 
-†
+
 
 19
 
 Be- und Entladeaggregat von Silo- oder Tankfahrzeugen
 
-†
+
 
 X
 
@@ -349,7 +349,7 @@ Hydraulik- und Seilbagger (< 500 kW)
 
 X
 
-†
+
 
 21
 
@@ -357,13 +357,13 @@ Baggerlader (< 500 kW)
 
 X
 
-†
+
 
 22
 
 Altglassammelbeh√§lter
 
-†
+
 
 X
 
@@ -373,13 +373,13 @@ Grader (< 500 kW)
 
 X
 
-†
+
 
 24
 
 Grastrimmer/Graskantenschneider
 
-†
+
 
 X
 
@@ -387,7 +387,7 @@ X
 
 Heckenschere
 
-†
+
 
 X
 
@@ -395,7 +395,7 @@ X
 
 Hochdrucksp√ºlfahrzeug
 
-†
+
 
 X
 
@@ -403,7 +403,7 @@ X
 
 Hochdruckwasserstrahlmaschine
 
-†
+
 
 X
 
@@ -411,7 +411,7 @@ X
 
 Hydraulikhammer
 
-†
+
 
 X
 
@@ -421,13 +421,13 @@ Hydraulikaggregat
 
 X
 
-†
+
 
 30
 
 Fugenschneider
 
-†
+
 
 X
 
@@ -437,7 +437,7 @@ M√ºllverdichter, der Bauart nach ein Lader mit Schaufel (< 500 kw)
 
 X
 
-†
+
 
 32
 
@@ -448,7 +448,7 @@ Rasenm√§her (mit Ausnahme von
 
 X
 
-†
+
 
 33
 
@@ -456,13 +456,13 @@ Rasentrimmer/Rasenkantenschneider
 
 X
 
-†
+
 
 34
 
 Laubbl√§ser
 
-†
+
 
 X
 
@@ -470,7 +470,7 @@ X
 
 Laubsammler
 
-†
+
 
 X
 
@@ -478,7 +478,7 @@ X
 
 Gegengewichtsstapler mit Verbrennungsmotor
 
-†
+
 
 36.1
 
@@ -486,13 +486,13 @@ gel√§ndeg√§ngiger Gabelstapler (Gegengewichtsstapler auf R√§dern, der in erster 
 
 X
 
-†
+
 
 36.2
 
 sonstiger Gegengewichtsstapler mit einer Tragf√§higkeit von h√∂chstens 10 Tonnen, ausgenommen Gegengewichtsstapler, die speziell f√ºr die Containerbef√∂rderung gebaut sind
 
-†
+
 
 X
 
@@ -502,7 +502,7 @@ Lader (< 500 kW)
 
 X
 
-†
+
 
 38
 
@@ -510,13 +510,13 @@ Mobilkran
 
 X
 
-†
+
 
 39
 
 Rollbarer M√ºllbeh√§lter
 
-†
+
 
 X
 
@@ -526,13 +526,13 @@ Motorhacke (< 3 kW)
 
 X
 
-†
+
 
 41
 
 Stra√üenfertiger
 
-†
+
 
 41.1
 
@@ -540,13 +540,13 @@ ohne Hochverdichtungsbohle
 
 X
 
-†
+
 
 41.2
 
 mit Hochverdichtungsbohle
 
-†
+
 
 X
 
@@ -554,7 +554,7 @@ X
 
 Rammausr√ºstung
 
-†
+
 
 X
 
@@ -562,7 +562,7 @@ X
 
 Rohrleger
 
-†
+
 
 X
 
@@ -570,7 +570,7 @@ X
 
 Pistenraupe
 
-†
+
 
 X
 
@@ -578,9 +578,9 @@ X
 
 Kraftstromerzeuger
 
-†
 
-†
+
+
 
 45.1
 
@@ -588,13 +588,13 @@ Kraftstromerzeuger
 
 X
 
-†
+
 
 45.2
 
 >= 400 kW
 
-†
+
 
 X
 
@@ -602,7 +602,7 @@ X
 
 Kehrmaschine
 
-†
+
 
 X
 
@@ -610,7 +610,7 @@ X
 
 M√ºllsammelfahrzeug
 
-†
+
 
 X
 
@@ -618,7 +618,7 @@ X
 
 Stra√üenfr√§se
 
-†
+
 
 X
 
@@ -626,7 +626,7 @@ X
 
 Vertikutierer
 
-†
+
 
 X
 
@@ -634,7 +634,7 @@ X
 
 Schredder/Zerkleinerer
 
-†
+
 
 X
 
@@ -642,7 +642,7 @@ X
 
 Schneefr√§se (selbstfahrend, ausgenommen Anbauger√§te)
 
-†
+
 
 X
 
@@ -650,7 +650,7 @@ X
 
 Saugfahrzeug
 
-†
+
 
 X
 
@@ -660,13 +660,13 @@ Turmdrehkran
 
 X
 
-†
+
 
 54
 
 Grabenfr√§se
 
-†
+
 
 X
 
@@ -674,7 +674,7 @@ X
 
 Transportbetonmischer
 
-†
+
 
 X
 
@@ -682,7 +682,7 @@ X
 
 Wasserpumpe (nicht f√ºr Unterwasserbetrieb)
 
-†
+
 
 X
 
@@ -692,4 +692,4 @@ Schwei√üstromerzeuger
 
 X
 
-†
+

@@ -232,10 +232,10 @@ Anlage - (zu § 6)
     - bb) :: werden gleich lange Zeitabschnitte und dann Tage bis zur Inanspruchnahme des ersten Verbraucherdarlehensbetrags zurückgezählt;
     - cc) :: wird die Länge des in Tagen bemessenen Zeitabschnitts ohne den ersten und einschließlich des letzten Tages berechnet und in Jahren ausgedrückt, indem dieser Zeitabschnitt durch die Anzahl von Tagen des gesamten Jahres (365 oder 366 Tage), zurückgezählt ab dem letzten Tag bis zum gleichen Tag des Vorjahres, geteilt wird.
   - d) :: Das Rechenergebnis wird auf zwei Dezimalstellen genau angegeben. Ist die Ziffer der dritten Dezimalstelle größer als oder gleich 5, so erhöht sich die Ziffer der zweiten Dezimalstelle um den Wert 1.
-  - e) :: Mathematisch darstellen lässt sich diese Gleichung durch eine einzige Summation unter Verwendung des Faktors �Ströme“ (A_{k}), die entweder positiv oder negativ sind, je nachdem, ob sie für Auszahlungen oder für Rückzahlungen innerhalb der Perioden 1 bis n, ausgedrückt in Jahren, stehen:
+  - e) :: Mathematisch darstellen lässt sich diese Gleichung durch eine einzige Summation unter Verwendung des Faktors Ströme“ (A_{k}), die entweder positiv oder negativ sind, je nachdem, ob sie für Auszahlungen oder für Rückzahlungen innerhalb der Perioden 1 bis n, ausgedrückt in Jahren, stehen:
     | [[../normengrafiken/bgbl1_2016/j0396-1_1350.jpg]] |
 
-    dabei ist S der Saldo der Gegenwartswerte aller �Ströme“, deren Wert gleich null sein muss, damit die Gleichheit zwischen den �Strömen“ gewahrt bleibt.
+    dabei ist S der Saldo der Gegenwartswerte aller Ströme“, deren Wert gleich null sein muss, damit die Gleichheit zwischen den Strömen“ gewahrt bleibt.
 - 2. :: Es gelten die folgenden zusätzlichen Annahmen für die Berechnung des effektiven Jahreszinses:
   - a) :: Ist dem Verbraucher nach dem Verbraucherdarlehensvertrag freigestellt, wann er das Verbraucherdarlehen in Anspruch nehmen will, so gilt das gesamte Verbraucherdarlehen als sofort in voller Höhe in Anspruch genommen.
   - b) :: Ist dem Verbraucher nach dem Verbraucherdarlehensvertrag generell freigestellt, wann er das Verbraucherdarlehen in Anspruch nehmen will, sind jedoch je nach Art der Inanspruchnahme Beschränkungen in Bezug auf Verbraucherdarlehensbetrag und Zeitraum vorgesehen, so gilt das gesamte Verbraucherdarlehen als zu dem im Verbraucherdarlehensvertrag vorgesehenen frühestmöglichen Zeitpunkt mit den entsprechenden Beschränkungen in Anspruch genommen.

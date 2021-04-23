@@ -67,7 +67,7 @@ Beim Zusammentreffen der Voraussetzungen für die Eintragung der Bezeichnung nac
 | 8. |   TBI   | wenn der schwerbehinderte Mensch wegen einer Störung der Hörfunktion mindestens einen Grad der Behinderung von 70 und wegen einer Störung des Sehvermögens einen Grad der Behinderung von 100 hat. |
 |    |         |                                                                                                                                                                                                    |
 
-(2) Ist der schwerbehinderte Mensch zur Mitnahme einer Begleitperson im Sinne des § 229 Absatz 2 des Neunten Buches Sozialgesetzbuch berechtigt, sind auf der Vorderseite des Ausweises das Merkzeichen �B“ und der Satz �Die Berechtigung zur Mitnahme einer Begleitperson ist nachgewiesen“ einzutragen.
+(2) Ist der schwerbehinderte Mensch zur Mitnahme einer Begleitperson im Sinne des § 229 Absatz 2 des Neunten Buches Sozialgesetzbuch berechtigt, sind auf der Vorderseite des Ausweises das Merkzeichen B“ und der Satz Die Berechtigung zur Mitnahme einer Begleitperson ist nachgewiesen“ einzutragen.
 
 § 3a - Beiblatt
 
@@ -166,7 +166,7 @@ Spezifikationen:\\
 | Schrift               | schwarz\\                                                                                                    |
 |                       | Schriftart: arial narrow bold\\                                                                              |
 |                       | Schriftgröße: 21 Punkt/12 Punkt/8 Punkt                                                                      |
-| taktile Erkennbarkeit | Buchstabenfolge sch-b-a entsprechend ISO/IEC 7811-9. Wird auf Ausweise mit dem Merkzeichen �Bl“ aufgebracht. |
+| taktile Erkennbarkeit | Buchstabenfolge sch-b-a entsprechend ISO/IEC 7811-9. Wird auf Ausweise mit dem Merkzeichen Bl“ aufgebracht. |
 
 Die Farbtöne sind dem Farbregister RAL Design System, herausgegeben von RAL Farben gGmbH, Siegburger Str. 39, 53757 St. Augustin, zu entnehmen.
 Die ISO-Normen sind zu beziehen beim Beuth-Verlag, 10772 Berlin.

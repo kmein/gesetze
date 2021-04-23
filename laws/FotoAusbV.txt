@@ -65,7 +65,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 (1) Zur Ermittlung des Ausbildungsstands ist eine Zwischenprüfung durchzuführen. Sie soll zur Mitte des vierten Ausbildungshalbjahres stattfinden.
 (2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für die ersten drei Ausbildungshalbjahre aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
-(3) Die Zwischenprüfung findet im Prüfungsbereich �fotografische Arbeitsprozesse“ statt. Für diesen Prüfungsbereich bestehen folgende Vorgaben:
+(3) Die Zwischenprüfung findet im Prüfungsbereich fotografische Arbeitsprozesse“ statt. Für diesen Prüfungsbereich bestehen folgende Vorgaben:
 
 - 1. :: Der Prüfling soll nachweisen, dass er
   - a) :: Aufnahmeentwürfe erstellen und Arbeitsschritte festlegen,
@@ -92,7 +92,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 - 3. :: Darstellung und Analyse fotografischer Prozesse,
 - 4. :: Wirtschafts- und Sozialkunde.
 
-(3) Für den Prüfungsbereich �Ausführung fotografischer Aufträge“ bestehen folgende Vorgaben:
+(3) Für den Prüfungsbereich Ausführung fotografischer Aufträge“ bestehen folgende Vorgaben:
 
 - 1. :: Der Prüfling soll nachweisen, dass er
   - a) :: Kundenwünsche berücksichtigen,
@@ -113,7 +113,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 - 4. :: die Prüfungsstücke sind in insgesamt 20 Stunden anzufertigen. Die Prüfungsstücke sind spätestens 14 Tage nach Aufgabenstellung nach Nummer 2 Buchstabe a und b und Vorlage der Bildkonzeption nach Nummer 2 Buchstabe c abzugeben. Die Prüfungszeit für die Präsentation beträgt höchstens 15 Minuten;
 - 5. :: die Prüfungsstücke nach Nummer 2 Buchstabe a und b sind mit jeweils 25 Prozent, das Prüfungsstück nach Nummer 2 Buchstabe c einschließlich der Präsentation mit 50 Prozent zu gewichten.
 
-(4) Für den Prüfungsbereich �Anwendung fotografischer Prozesse“ bestehen folgende Vorgaben:
+(4) Für den Prüfungsbereich Anwendung fotografischer Prozesse“ bestehen folgende Vorgaben:
 
 - 1. :: Der Prüfling soll nachweisen, dass er
   - a) :: technische Hilfsmittel und Kamerazubehör handhaben,
@@ -127,7 +127,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 - 3. :: der Prüfling soll eine Arbeitsaufgabe durchführen;
 - 4. :: die Prüfungszeit beträgt 90 Minuten.
 
-(5) Für den Prüfungsbereich �Darstellung und Analyse fotografischer Prozesse“ bestehen folgende Vorgaben:
+(5) Für den Prüfungsbereich Darstellung und Analyse fotografischer Prozesse“ bestehen folgende Vorgaben:
 
 - 1. :: Der Prüfling soll darstellen, dass er
   - a) :: Auftragsziele analysieren und beschreiben, Kunden beraten, Arbeitsschritte festlegen,
@@ -142,7 +142,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 - 2. :: der Prüfling soll schriftlich fallbezogene Aufgaben bearbeiten;
 - 3. :: die Prüfungszeit beträgt vier Stunden.
 
-(6) Für den Prüfungsbereich �Wirtschafts- und Sozialkunde“ bestehen folgende Vorgaben:
+(6) Für den Prüfungsbereich Wirtschafts- und Sozialkunde“ bestehen folgende Vorgaben:
 
 - 1. :: Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann;
 - 2. :: der Prüfling soll schriftlich praxisbezogene Aufgaben bearbeiten;
@@ -150,21 +150,21 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 (7) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:\\
 \\
-| 1. | Prüfungsbereich �Ausführung fotografischer Aufträge“              | 35 Prozent, |
-| 2. | Prüfungsbereich �Anwendung fotografischer Prozesse“               | 25 Prozent, |
-| 3. | Prüfungsbereich �Darstellung und Analyse fotografischer Prozesse“ | 30 Prozent, |
-| 4. | Prüfungsbereich �Wirtschafts- und Sozialkunde“                    | 10 Prozent. |
+| 1. | Prüfungsbereich Ausführung fotografischer Aufträge“              | 35 Prozent, |
+| 2. | Prüfungsbereich Anwendung fotografischer Prozesse“               | 25 Prozent, |
+| 3. | Prüfungsbereich Darstellung und Analyse fotografischer Prozesse“ | 30 Prozent, |
+| 4. | Prüfungsbereich Wirtschafts- und Sozialkunde“                    | 10 Prozent. |
 
 (8) Die Gesellenprüfung ist bestanden, wenn die Leistungen
 
-- 1. :: im Gesamtergebnis mit mindestens �ausreichend“,
-- 2. :: im Prüfungsbereich �Anwendung fotografischer Prozesse“ mit mindestens �ausreichend“,
-- 3. :: in mindestens zwei der übrigen Prüfungsbereiche mit mindestens �ausreichend“,
-- 4. :: in keinem Prüfungsbereich mit �ungenügend“
+- 1. :: im Gesamtergebnis mit mindestens ausreichend“,
+- 2. :: im Prüfungsbereich Anwendung fotografischer Prozesse“ mit mindestens ausreichend“,
+- 3. :: in mindestens zwei der übrigen Prüfungsbereiche mit mindestens ausreichend“,
+- 4. :: in keinem Prüfungsbereich mit ungenügend“
 
 bewertet worden sind.
 
-(9) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als �ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
+(9) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
 § 8 - Bestehende Berufsausbildungsverhältnisse
 

@@ -58,7 +58,7 @@ Das erforderliche bewertete Schalld√§mm-Ma√ü der gesamten Au√üenfl√§che des Raum
 f√ºr R√§ume entsprechend Tabelle 1, Zeile 1:\\
 Gleichung (1):
 
-†
+
 
 R'(tief)w,res = L(tief)r,N + 10 x lg
 
@@ -75,7 +75,7 @@ A
 f√ºr R√§ume entsprechend Tabelle 1, Zeilen 2 bis 5:\\
 Gleichung (2):
 
-†
+
 
 R'(tief)w,res = L(tief)r,T + 10 x lg
 
@@ -120,7 +120,7 @@ Korrektursummand nach Tabelle 2 in dB (der sich aus dem Spektrum des Au√üenger√§
 \\
 Das erforderliche bewertete Schalld√§mm-Ma√ü eines einzelnen zu verbessernden Bauteils wird berechnet nach folgender Gleichung (3):\\
 
-†
+
 
 ¬† 1
 
@@ -128,19 +128,19 @@ R'(tief)w,x = 10 x lg (
 
 --- (S(tief)g x 10(hoch)-0,1 R'(tief)w,res -
 
-†
+
 
 S(tief)x
 
-†
+
 
 - S(tief)1 x 10(hoch)-0,1R(tief)w,1 -...
 
-†
+
 
 - S(tief)n x 10(hoch)-0,1 R(tief)w,n))
 
-†
+
 
 R(tief)w,x
 
@@ -180,13 +180,13 @@ Tabelle 1\\
 Korrektursummand D in dB\\
 zur Ber√ºcksichtigung der Raumnutzung
 
-†
+
 
 Raumnutzung
 
 D in dB
 
-†
+
 
 1
 
@@ -233,13 +233,13 @@ Tabelle 2\\
 Korrektursummand E in dB\\
 f√ºr bestimmte Verkehrswege
 
-†
+
 
 Verkehrswege
 
 E in dB
 
-†
+
 
 1
 

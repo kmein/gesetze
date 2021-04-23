@@ -38,43 +38,43 @@ Für die Prüfung von Dampfkesselanlagen werden folgende Gebühren erhoben:
 
 \\
 
-�
+
 
 - a) :: bei nicht elektrisch beheizten Dampfkesseln nach der Heizfläche
 
-�
 
-�
+
+
 
 H in qm (Nummer 1.1.7) und beträgt in EUR
 
-�
 
-�
+
+
 
 - bis 100 qm Heizfläche
 
 1,64 x H + 59,61,
 
-�
+
 
 - über 100 qm bis 500 qm Heizfläche
 
 0,67 x H + 153,38,
 
-�
+
 
 - über 500 qm bis 3.000 qm Heizfläche
 
 0,56 x H + 204,33,
 
-�
+
 
 - über 3.000 qm Heizfläche
 
 0,51 x H + 340,90,
 
-�
+
 
 - b) :: bei elektrisch beheizten Dampfkesseln nach der elektrischen Leistung N in kW und beträgt in EUR
 
@@ -96,7 +96,7 @@ Bei Abgaswasservorwärmern, die vom Dampfkessel wasserseitig absperrbar sind, be
 
 Bei Dampfkesseln beträgt der Zuschlag für die Prüfung der Einrichtungen für den Betrieb
 
-�
+
 
 - a) :: mit ständiger Beaufsichtigung von einer Warte aus, mit eingeschränkter Beaufsichtigung oder ohne ständige Beaufsichtigung über 24 Stunden oder
 
@@ -110,45 +110,45 @@ Bei Dampfkesseln beträgt der Zuschlag für die Prüfung der Einrichtungen für 
 
 Bei Heißwassererzeugern, die ein Ausdehnungsgefäß oder einen Auffangbehälter besitzen, beträgt der Zuschlag jeweils bei einem Rauminhalt
 
-�
 
-�
+
+
 
 - bis 50 Liter
 
 48,78 EUR,
 
-�
+
 
 - über 50 Liter bis 400 Liter
 
 56,91 EUR,
 
-�
+
 
 - über 400 Liter bis 2.000 Liter
 
 76,96 EUR,
 
-�
+
 
 - über 2.000 Liter bis 5.000 Liter
 
 102,43 EUR,
 
-�
+
 
 - über 5.000 Liter bis 10.000 Liter
 
 121,94 EUR,
 
-�
+
 
 - über 10.000 Liter
 
 121,94 EUR,
 
-�
+
 
 und zusätzlich je weitere und angefangene 10.000 Liter
 
@@ -236,13 +236,13 @@ und zusätzlich je weitere und angefangene 10.000 Liter
 
 \\
 
-�
+
 
 - bis 4,00 t/h
 
 24,28 x D + 43,35,
 
-�
+
 
 - über 4,00 t/h
 
@@ -252,13 +252,13 @@ und zusätzlich je weitere und angefangene 10.000 Liter
 
 Bei Heißwassererzeugern beträgt die Leistungsgebühr je Dampfkessel mit einer Wärmeleistung Q in MW in EUR
 
-�
+
 
 - bis 2,75 MW
 
 34,63 x Q + 43,35,
 
-�
+
 
 - über 2,75 MW
 
@@ -268,7 +268,7 @@ Bei Heißwassererzeugern beträgt die Leistungsgebühr je Dampfkessel mit einer 
 
 Der Zuschlag beträgt je Feuerung (je Brenner, je Einblase- und Rostfeuerung, je Handbeschickung) sowie für jede weitere
 
-�
+
 
 Brennstoffart und -form
 
@@ -313,37 +313,37 @@ Für die Prüfung von Druckbehälteranlagen, Füllanlagen und Rohrleitungen werd
 
 \\
 
-�
+
 
 - bis 400 Liter
 
 56,91 EUR,
 
-�
+
 
 - über 400 Liter bis 2.000 Liter
 
 76,96 EUR,
 
-�
+
 
 - über 2.000 Liter bis 5.000 Liter
 
 102,43 EUR,
 
-�
+
 
 - über 5.000 Liter bis 10.000 Liter
 
 121,94 EUR,
 
-�
+
 
 - über 10.000 Liter
 
 121,94 EUR,
 
-�
+
 
 und zusätzlich je weitere und angefangene 10.000 Liter
 
@@ -353,7 +353,7 @@ und zusätzlich je weitere und angefangene 10.000 Liter
 
 Zuschlag
 
-�
+
 
 Bei Druckbehältern, die mit automatischer, teilautomatischer und kombinierter Öl-, Gas-, Späne- oder Staubfeuerung ausgerüstet sind oder elektrisch beheizt werden, beträgt je Feuerung der Zuschlag bei der Prüfung vor Inbetriebnahme und der äußeren Prüfung
 
@@ -367,21 +367,21 @@ Prüfungsfaktoren
 
 Bei Prüfungen vor Inbetriebnahme nach § 14
 
-�
 
-�
+
+
 
 Abs. 1 und 2 BetrSichV beträgt der Prüfungsfaktor
 
-�
 
-�
+
+
 
 - für die Prüfung vor Inbetriebnahme nach § 14 Abs. 1 BetrSichV
 
 1,45,
 
-�
+
 
 - für die Prüfung vor Inbetriebnahme nach § 14 Abs. 2 BetrSichV
 
@@ -391,21 +391,21 @@ Abs. 1 und 2 BetrSichV beträgt der Prüfungsfaktor
 
 Bei wiederkehrenden Prüfungen nach § 15 BetrSichV beträgt der Prüfungsfaktor
 
-�
 
-�
+
+
 
 - für die innere Prüfung (Innenbesichtigung)
 
 1,50,
 
-�
+
 
 - für die Festigkeitsprüfung (Druckprüfung)
 
 1,15,
 
-�
+
 
 - für die äußere Prüfung
 
@@ -443,7 +443,7 @@ Für wiederkehrende äußere Prüfungen beträgt die Höchstgebühr je Prüfung
 
 bei Prüfungen vor Inbetriebnahme nach § 14 Abs. 1 und 2 BetrSichV
 
-�
+
 
 -
 
@@ -451,7 +451,7 @@ für die 2. Prüfung
 
 85 v. H. der Gebühr nach Nummer 1.1,
 
-�
+
 
 -
 
@@ -459,7 +459,7 @@ für die 3. bis 10. Prüfung
 
 75 v. H. der Gebühr nach Nummer 1.1,
 
-�
+
 
 -
 
@@ -467,7 +467,7 @@ für die 11. bis 20. Prüfung
 
 50 v. H. der Gebühr nach Nummer 1.1,
 
-�
+
 
 -
 
@@ -475,11 +475,11 @@ für die 21. und jede weitere Prüfung
 
 25 v. H. der Gebühr nach Nummer 1.1.
 
-�
+
 
 Die Berechnung der Gebühr beginnt mit
 
-�
+
 
 der Prüfung des größten Umfangs.
 
@@ -487,7 +487,7 @@ der Prüfung des größten Umfangs.
 
 bei wiederkehrenden Prüfungen nach § 15 BetrSichV
 
-�
+
 
 -
 
@@ -495,7 +495,7 @@ für die 2. Prüfung
 
 85 v. H. der Gebühr nach Nummer 1.1,
 
-�
+
 
 -
 
@@ -503,17 +503,17 @@ für die 3. und jede weitere Prüfung
 
 75 v. H. der Gebühr nach Nummer 1.1.
 
-�
+
 
 Die Berechnung der Gebühr beginnt
 
-�
 
-�
+
+
 
 mit der Prüfung des größten Umfangs.
 
-�
+
 
 -  :: - 1.2.2 :: Gebührenberechnung bei Druckbehältern mit mehreren Druckräumen
     Für Prüfungen vor Inbetriebnahme (Nummer 1.1.3.1) sowie für wiederkehrende Prüfungen (Nummer 1.1.3.2) werden die Gebühren nach den Nummern 1.1 und 1.2.1 je Druckraum berechnet, sofern die Prüfungen getrennt erfolgen. Ergeben sich hiernach unverhältnismäßig hohe Gebühren, so ist die Gebühr entsprechend dem tatsächlichen Aufwand zu mindern.
@@ -524,7 +524,7 @@ mit der Prüfung des größten Umfangs.
 
 Gebührenberechnung bei Druckbehältern mit einem Rauminhalt bis 13.000 Liter für verflüssigte Brenngase Abweichend von Nummer 1.1.3.2 beträgt der Prüfungsfaktor
 
-�
+
 
 -
 
@@ -532,7 +532,7 @@ für die Innenbesichtigung als wiederkehrende innere Prüfung
 
 1,00,
 
-�
+
 
 -
 
@@ -556,7 +556,7 @@ Die Anzahlgebühr beträgt je Füllanlage und Gasart
 
 Die Zuschläge für angeschlossene Füllstände betragen
 
-�
+
 
 - für den ersten Füllstand
 
@@ -607,7 +607,7 @@ Für die Prüfung von Aufzugsanlagen werden folgende Gebühren erhoben:
 
 Grundgebühr
 
-�
+
 
 Art der Aufzugsanlage
 
@@ -619,7 +619,7 @@ Gruppe I:
 
 Aufzugsanlagen im Sinne des § 1 Abs. 2 Satz 1 Nr. 2 Buchstabe a BetrSichV
 
-�
+
 
 Gruppe II:
 
@@ -632,7 +632,7 @@ Gruppe II:
 - c) :: Aufzugsanlagen im Sinne des § 1 Abs. 2 Satz 1 Nr. 2 Buchstabe d BetrSichV
 - d) :: Aufzugsanlagen im Sinne des § 1 Abs. 2 Satz 1 Nr. 2 Buchstabe e BetrSichV
 
-�
+
 
 Gruppe III:
 
@@ -640,19 +640,19 @@ Gruppe III:
 
 Aufzugsanlagen im Sinne des § 1 Abs. 2 Satz 1 Nr. 2 Buchstabe b BetrSichV, soweit es sich um Fassadenaufzüge handelt
 
-�
+
 
 1.3
 
 Prüfungsfaktoren
 
-�
+
 
 Art der Prüfung
 
 Prüfungsfaktor für Aufzüge der Gruppe
 
-�
+
 
 I
 
@@ -664,11 +664,11 @@ III
 
 Prüfung vor Inbetriebnahme nach § 14 Abs. 1 BetrSichV
 
-�
 
-�
 
-�
+
+
+
 
 1.3.1.1
 
@@ -694,11 +694,11 @@ Prüfung jeder weiteren an demselben Tag geprüften Aufzugsanlage desselben Betr
 
 Wiederkehrende Prüfungen nach § 15 Abs. 1 BetrSichV
 
-�
 
-�
 
-�
+
+
+
 
 1.3.2.1
 
@@ -734,11 +734,11 @@ Prüfungen nach § 15 Abs. 13 Satz 2 BetrSichV
 
 Zuschläge
 
-�
 
-�
 
-�
+
+
+
 
 1.4.1
 
@@ -754,7 +754,7 @@ Bei mehr als 25 m Förderhöhe beträgt der Zuschlag für jede weiteren und ange
 
 Dieser Zuschlag wird bei Prüfungen nach § 15 Abs. 13 Satz 2 BetrSichV nicht erhoben, wenn Zuschläge nach Nummer 1.4.1 berechnet werden.
 
-�
+
 
 1.4.3
 
@@ -764,7 +764,7 @@ Bei Aufzügen mit mehr als 1.000 kg Tragfähigkeit beträgt der Zuschlag für je
 
 Dieser Zuschlag wird bei Aufzügen der Gruppe III und bei Prüfungen nach § 15 Abs. 13 Satz 2 BetrSichV nicht erhoben.
 
-�
+
 
 1.4.4
 
@@ -780,7 +780,7 @@ Bei Aufzügen, deren Geschwindigkeit nicht über den gesamten Fahrbereich durch 
 
 Dieser Zuschlag wird nicht erhoben bei hydraulischen Aufzügen mit von Kolben bewegten Lastaufnahmemitteln, deren Geschwindigkeit durch fest eingestellte Ventilquerschnitte oder festgelegte und elektrisch überwachte Schieberstellungen bestimmt ist.
 
-�
+
 
 1.4.6
 
@@ -800,7 +800,7 @@ Bei Aufzügen\\
 
 Dieser Zuschlag wird je Anlage nur einmal berechnet.
 
-�
+
 
 1.4.8
 
@@ -825,7 +825,7 @@ Bei Aufzügen mit Anschluss an eine Fernnotrufleitzentrale beträgt der Zuschlag
 Angeordnete außerordentliche Prüfung nach § 16 Abs. 1 BetrSichV\\
 Für eine angeordnete außerordentliche Prüfung wird eine Gebühr nach Nummer 1.3.2 erhoben.
 
-�
+
 
 -  :: - 2 :: Sonstige Prüfungen
     Für Prüfungen, die in den vorstehenden Nummern nicht genannt sind (z. B. Überprüfung der Ermittlung der Prüffristen), werden Gebühren für vergleichbare Prüfungen berechnet. Sind vergleichbare Prüfungen nicht angegeben, werden die Gebühren nach dem Zeitaufwand berechnet. Bei Anwendung besonderer Prüfverfahren oder eines erweiterten Prüfumfangs kann der Mehraufwand ebenfalls nach dem Zeitaufwand berechnet werden. Die Gebühr für den Zeitaufwand beträgt für jeden Sachverständigen für jede begonnene Viertelstunde 20,06 EUR.
@@ -855,15 +855,15 @@ Für die Prüfung von Lageranlagen, Füllstellen, Tankstellen, Flugfeldbetankung
 
 Grundgebühr
 
-�
 
-�
+
+
 
 Die Grundgebühr beträgt für
 
-�
 
-�
+
+
 
 -
 
@@ -871,7 +871,7 @@ Lageranlagen mit ortsfesten Tanks
 
 11,93 EUR,
 
-�
+
 
 -
 
@@ -879,7 +879,7 @@ Füllstellen
 
 71,00 EUR,
 
-�
+
 
 -
 
@@ -891,15 +891,15 @@ Tankstellen
 
 Zuschläge
 
-�
 
-�
+
+
 
 Die Zuschläge betragen für
 
-�
 
-�
+
+
 
 -
 
@@ -907,7 +907,7 @@ Lageranlagen mit mehr als einem Tank je weiterem ortsfesten Tank
 
 5,42 EUR,
 
-�
+
 
 -
 
@@ -915,7 +915,7 @@ Füllstellen mit mehr als zwei Fülleinrichtungen je weiterer Fülleinrichtung
 
 8,67 EUR,
 
-�
+
 
 -
 
@@ -927,15 +927,15 @@ Tankstellen mit mehr als vier Zapfventilen je weiterem Zapfventil
 
 Prüfungsfaktor
 
-�
 
-�
+
+
 
 Der Prüfungsfaktor beträgt für die
 
-�
 
-�
+
+
 
 -
 
@@ -943,7 +943,7 @@ Prüfung vor Inbetriebnahme nach § 14 Abs. 1 BetrSichV
 
 1,10,
 
-�
+
 
 -
 
@@ -951,7 +951,7 @@ Prüfung vor Inbetriebnahme nach § 14 Abs. 2 BetrSichV bis zu
 
 1,00,
 
-�
+
 
 -
 
@@ -959,7 +959,7 @@ wiederkehrende Prüfung nach § 15 BetrSichV
 
 1,00,
 
-�
+
 
 -
 
@@ -971,15 +971,15 @@ angeordnete außerordentliche Prüfung nach § 16 Abs. 1 BetrSichV
 
 Höchstgebühr
 
-�
 
-�
+
+
 
 Die Höchstgebühr beträgt für die Prüfung von
 
-�
 
-�
+
+
 
 -
 
@@ -987,7 +987,7 @@ Lageranlagen mit ortsfesten Tanks
 
 880,16 EUR,
 
-�
+
 
 -
 
@@ -995,7 +995,7 @@ Füllstellen
 
 187,52 EUR,
 
-�
+
 
 -
 
@@ -1054,15 +1054,15 @@ Tankstellen
 
 Grundgebühr
 
-�
 
-�
+
+
 
 Die Grundgebühr beträgt für Tanks mit einem Rauminhalt
 
-�
 
-�
+
+
 
 -
 
@@ -1070,7 +1070,7 @@ bis 5.000 cbm
 
 127,90 EUR,
 
-�
+
 
 -
 
@@ -1078,7 +1078,7 @@ bis 5.000 cbm
 
 218,41 EUR,
 
-�
+
 
 -
 
@@ -1086,7 +1086,7 @@ bis 5.000 cbm
 
 298,08 EUR,
 
-�
+
 
 -
 
@@ -1094,7 +1094,7 @@ bis 5.000 cbm
 
 298,08 EUR,
 
-�
+
 
 und zusätzlich je weiteren und angefangenen 10.000 cbm
 
@@ -1104,15 +1104,15 @@ und zusätzlich je weiteren und angefangenen 10.000 cbm
 
 Prüfungsfaktor
 
-�
+
 
 3.1.2.1
 
 Bei Prüfungen vor Inbetriebnahme nach § 14 Abs. 1 oder 2 BetrSichV beträgt der Prüfungsfaktor für die
 
-�
 
-�
+
+
 
 -
 
@@ -1120,7 +1120,7 @@ Vorprüfung ohne Nachberechnung der statischen Berechnungen
 
 1,30,
 
-�
+
 
 -
 
@@ -1128,7 +1128,7 @@ Bau- und Montageprüfung
 
 2,70,
 
-�
+
 
 -
 
@@ -1136,7 +1136,7 @@ Bau- und Montageprüfung
 
 1,10,
 
-�
+
 
 -
 
@@ -1144,7 +1144,7 @@ Prüfung der Innenbeschichtung des Tankbodens
 
 2,70,
 
-�
+
 
 -
 
@@ -1152,7 +1152,7 @@ Standdruckprobe
 
 1,00,
 
-�
+
 
 -
 
@@ -1160,7 +1160,7 @@ Prüfung der Bodennähte auf Dichtheit (10 v. H.)
 
 1,00,
 
-�
+
 
 -
 
@@ -1168,7 +1168,7 @@ Funktionsprüfung eines Leckanzeigegeräts als Ersatz für die Dichtheitsprüfun
 
 0,80,
 
-�
+
 
 -
 
@@ -1180,9 +1180,9 @@ Ordnungsprüfung, soweit diese getrennt durchgeführt wird
 
 Bei wiederkehrenden Prüfungen nach § 15 BetrSichV und angeordneten außerordentlichen Prüfungen nach § 16 Abs. 1 BetrSichV beträgt der Prüfungsfaktor für die
 
-�
 
-�
+
+
 
 -
 
@@ -1190,7 +1190,7 @@ Bei wiederkehrenden Prüfungen nach § 15 BetrSichV und angeordneten außerorden
 
 0,90,
 
-�
+
 
 -
 
@@ -1198,7 +1198,7 @@ innere Prüfung
 
 1,50,
 
-�
+
 
 -
 
@@ -1206,7 +1206,7 @@ Prüfung der Innenbeschichtung des Tankbodens
 
 1,40,
 
-�
+
 
 -
 
@@ -1214,7 +1214,7 @@ Funktionsprüfung eines Leckanzeigegeräts als Ersatz für die Dichtheitsprüfun
 
 0,80,
 
-�
+
 
 -
 
@@ -1235,9 +1235,9 @@ Ordnungsprüfung, soweit diese getrennt durchgeführt wird
 
 \\
 
-�
 
-�
+
+
 
 explosionsgeschützte Bauart in EUR
 
@@ -1245,9 +1245,9 @@ normale Bauart in EUR
 
 für jedes Gerät (Motoren, Transformatoren, Umformer, Gleichrichter) mit einer Leistung
 
-�
 
-�
+
+
 
 - bis zu 15 kW
 
@@ -1277,7 +1277,7 @@ Für die Prüfung der elektrischen Einrichtungen von Tankstellen werden folgende
 
 für die Prüfung von Abgabeeinrichtungen
 
-�
+
 
 - je Förder- und Abgabeeinheit
 
@@ -1309,7 +1309,7 @@ nach Zeitaufwand.
 
 Einrichtungen für den Blitzschutz für die Prüfung der Einrichtung für den Blitzschutz wird für jede in sich geschlossene Anlage
 
-�
+
 
 - eine Grundgebühr von
 
@@ -1328,7 +1328,7 @@ Einrichtungen für den kathodischen Korrosionsschutz
 
 Für die Prüfung des kathodischen Korrosionsschutzes an Tankstellen werden folgende Gebühren erhoben:
 
-�
+
 
 - Prüfung nach VDE 0165 je Abgabeeinrichtung
 
@@ -1354,7 +1354,7 @@ Für die Prüfung des kathodischen Korrosionsschutzes an Tankstellen werden folg
 
 Für die Prüfung auf Erfordernis eines kathodischen Korrosionsschutzes an Tankstellen werden folgende Gebühren erhoben:
 
-�
+
 
 - Messung des spezifischen Bodenwiderstands
 

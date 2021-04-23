@@ -151,7 +151,7 @@ Zeitliche Richtwerte in Wochen im Ausbildungsjahr
 Berufsbildung, Arbeits- und Tarifrecht (§ 5 Nr. 1)
 a)
 Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
-�
+
 b)
 gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
 c)
@@ -172,7 +172,7 @@ d)
 Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 3
 Betriebliche Maßnahmen zum verantwortlichen Handeln (Responsible Care) (§ 5 Nr. 3)
-�
+
 während der gesamten Ausbildung zu vermitteln
 3.1
 Sicherheit und Gesundheitsschutz bei der Arbeit (§ 5 Nr. 3.1)
@@ -206,7 +206,7 @@ mit Gefahrstoffen umgehen; Gefahren erläutern und vermeiden
 Anlagensicherheit (§ 5 Nr. 3.2)
 a)
 Exzonen, Zündschutzarten und Temperaturklassen beachten
-�
+
 b)
 Einrichtungen zur Anlagensicherheit unterscheiden und beachten
 c)
@@ -229,7 +229,7 @@ Einsetzen von Energieträgern (§ 5 Nr. 3.4)
 a)
 die im Ausbildungsbetrieb verwendeten Energiearten unterscheiden
 4*)
-�
+
 b)
 vorgegebene Energiearten unter Beachtung des Gefährdungspotenzials einsetzen
 3.5
@@ -237,7 +237,7 @@ Umgehen mit Arbeitsgeräten und -mitteln (§ 5 Nr. 3.5)
 a)
 Fördersysteme einschließlich Armaturen bedienen und pflegen
 8*)
-�
+
 b)
 Werkstoffe unter Beachtung ihrer mechanischen, thermischen und chemischen Eigenschaften einsetzen
 c)
@@ -261,7 +261,7 @@ b)
 zur Einhaltung von Kostenvorgaben beitragen
 4
 Arbeitsorganisation und Kommunikation (§ 5 Nr. 4)
-�
+
 4.1
 Prozess-, Betriebs- und Arbeitsabläufe (§ 5 Nr. 4.1)
 a)
@@ -299,7 +299,7 @@ Umgehen mit Arbeitsstoffen und Bestimmen von Stoffkonstanten (§ 5 Nr. 5)
 a)
 chemische Gesetzmäßigkeiten, insbesondere hinsichtlich der Reaktionsfähigkeit, beachten
 12
-�
+
 b)
 Wärmetönung bei chemischen Reaktionen beachten
 c)
@@ -314,7 +314,7 @@ g)
 Proben nehmen und Parameter bestimmen
 h)
 Säure-Base-Titrationen, insbesondere einwertige Säuren mit einwertigen Basen, durchführen und stöchiometrisch auswerten; pH-Wert bestimmen
-�
+
 6
 i)
 Volumen, Masse und Dichte von Feststoffen sowie Konzentration von Lösungen über Dichte, Brechzahl und Trockengehalt bestimmen
@@ -323,7 +323,7 @@ Verfahrenstechnische Grundoperationen (§ 5 Nr. 6)
 a)
 Grundoperationen unterscheiden, Geräte ihren Einsatzgebieten zuordnen
 12
-�
+
 b)
 Mischungen einschließlich Lösungen mit vorgegebenen Massenanteilen herstellen
 c)
@@ -332,7 +332,7 @@ d)
 Feststoff-Flüssigkeits-Gemische insbesondere durch Sedimentieren, Zentrifugieren und Filtrieren trennen
 e)
 Gemische durch Umkristallisieren und Destillieren reinigen
-�
+
 6
 f)
 Feststoffe trocknen
@@ -341,7 +341,7 @@ Installationstechnische Arbeiten (§ 5 Nr. 7)
 a)
 Rohre und Rohrleitungsteile unter Berücksichtigung von Rohrverbindungsarten und -elementen sowie Dichtungsmaterialien verbinden und abdichten
 6
-�
+
 b)
 Absperrorgane bedienen
 8
@@ -349,14 +349,14 @@ Warten und Instandhalten betrieblicher Einrichtungen (§ 5 Nr. 8)
 a)
 Anlagen einrichten, warten und überprüfen
 6
-�
+
 b)
 Wartungsarbeiten dokumentieren
 c)
 bei der In- und Außerbetriebnahme von Produktionseinrichtungen mitwirken
 d)
 Rohrleitungsteile und Armaturen unter Beachtung sicherheitstechnischer Vorschriften aus- und einbauen
-�
+
 8
 e)
 Instandhaltungsmaßnahmen nach Plan durchführen und dokumentieren
@@ -367,20 +367,20 @@ Messtechnik (§ 5 Nr. 9)
 a)
 Geräte zur Bestimmung von Druck, Durchfluss, Füllstand, Menge und Temperatur unterscheiden und ihren Einsatzgebieten zuordnen
 4
-�
+
 b)
 Temperaturen messen
 c)
 Druck, Füllstand, Durchfluss und Menge mit mechanischen Geräten messen
 d)
 den Elementen eines Regelkreises Funktionen zuordnen
-�
+
 4
 10
 Bedienen von Anlagen (§ 5 Nr. 10)
 a)
 Einsatz- und Hilfsstoffe übernehmen und bereitstellen, Wareneingangskontrollen durchführen
-�
+
 12
 b)
 Betriebsbereitschaft von Anlagen sicherstellen
@@ -392,7 +392,7 @@ Anlagen oder Teilanlagen gemäß Betriebsanweisung bedienen und überwachen
 Herstellen und Verarbeiten von Produkten (§ 5 Nr. 11)
 a)
 anorganische, organische, polymere oder bio- und gentechnische Produkte unter Berücksichtigung gesetzlicher und betrieblicher Vorgaben herstellen oder verarbeiten
-�
+
 16
 b)
 Herstellungs- und Verarbeitungsprozesse dokumentieren und Inprozesskontrollen durchführen

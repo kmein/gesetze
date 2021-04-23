@@ -148,7 +148,7 @@ Teil des Ausbildungsberufsbildes
 Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 1.
 der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen (§ 4 Nr. 1)
-�
+
 1.1
 Aufbau und Organisation des Ausbildungsbetriebes (§ 4 Nr. 1.1)
 a)
@@ -217,7 +217,7 @@ f)
 wirtschaftlichen und umweltschonenden Umgang mit Energieträgern beschreiben
 2.
 Techniken und Organisation der betrieblichen Arbeit und Produktion (§ 4 Nr. 2)
-�
+
 2.1
 Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen (§ 4 Nr. 2.1)
 a)
@@ -266,7 +266,7 @@ d)
 Marktberichte lesen und Entwicklungen am Markt verfolgen
 3.
 Traubenerzeugung (§ 4 Nr. 3)
-�
+
 3.1
 Bearbeiten und Pflegen des Bodens; Erhaltung einer nachhaltigen Bodenfruchtbarkeit (§ 4 Nr. 3.1)
 a)
@@ -297,7 +297,7 @@ g)
 Grundlagen einer umweltschonenden Traubenerzeugung nennen
 4.
 Kellerwirtschaft (§ 4 Nr. 4)
-�
+
 4.1
 oenologische Verfahren; qualitätsorientiertes und umweltschonendes Bereiten von Wein (§ 4 Nr. 4.1)
 a)
@@ -308,7 +308,7 @@ c)
 beim Weinausbau mitwirken
 5.
 Vermarkten betrieblicher Erzeugnisse (§ 4 Nr. 5)
-�
+
 5.1
 Ausstatten und Verpacken (§ 4 Nr. 5.1)
 bei der Ausstattung und Verpackung von Wein mitwirken
@@ -316,7 +316,7 @@ Abschnitt II: Berufliche Fachbildung im zweiten und dritten Ausbildungsjahr
 - Fertigkeiten und Kenntnisse
 1.
 der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen (§ 4 Nr. 1)
-�
+
 1.1
 die in § 4 Nr. 1.1 bis 1.4 aufgeführten Teile des Ausbildungsberufsbildes
 die in Abschnitt I lfd. Nr. 1.1 bis 1.4 aufgeführten Fertigkeiten und Kenntnisse
@@ -332,7 +332,7 @@ d)
 mit Energiearten umweltschonend und kostensparend umgehen
 2.
 Techniken und Organisation der betrieblichen Arbeit und Produktion (§ 4 Nr. 2)
-�
+
 2.1
 Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen (§ 4 Nr. 2.1)
 a)
@@ -381,7 +381,7 @@ g)
 bei Einkaufsgesprächen mitwirken
 3.
 Traubenerzeugung (§ 4 Nr. 3)
-�
+
 3.1
 Bearbeiten und Pflegen des Bodens; Erhaltung einer nachhaltigen Bodenfruchtbarkeit (§ 4 Nr. 3.1)
 a)
@@ -416,7 +416,7 @@ l)
 Traubenlese planen sowie sachgerecht und qualitätsorientiert durchführen
 4.
 Kellerwirtschaft (§ 4 Nr. 4)
-�
+
 4.1
 oenologische Verfahren; qualitätsorientiertes und umweltschonendes Bereiten von Wein (§ 4 Nr. 4.1)
 a)
@@ -457,7 +457,7 @@ b)
 Verfahren zur Herstellung eines sonstigen Erzeugnisses und die dazugehörenden Rechtsgrundlagen kennen
 5.
 Vermarkten betrieblicher Erzeugnisse (§ 4 Nr. 5)
-�
+
 5.1
 Ausstatten und Verpacken (§ 4 Nr. 5.1)
 a)

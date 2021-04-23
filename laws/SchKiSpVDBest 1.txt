@@ -165,7 +165,7 @@ Die Einhaltung der nachfolgenden Richtwerte f√ºr die Energie- und N√§hrstoffbere
 II. Lebensmittelnormen\\
 F√ºr die Sch√ºler- und Kinderspeisung sind innerhalb von 20 aufeinanderfolgenden Verpflegungstagen im Durchschnitt je Gericht folgende Lebensmittelmengen einzusetzen:\\
 
-†
+
 
 Sch√ºler der Kl. 1 - 6
 
@@ -300,7 +300,7 @@ Qualit√§tspa√ü
 
 (Sch√ºler- und Kinderspeisung)
 
-†
+
 
 Woche vom ...................... bis ....................
 
@@ -308,17 +308,17 @@ produzierende Einrichtung ...............................
 
 Empf√§nger ...............................................
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
 
 Tag Datum\\
 Name des Kochs
@@ -331,17 +331,17 @@ Bemerkungen
 
 Unterschrift (K√ºchenkommission, Essenteilnehmer
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
 
 A B
 
@@ -405,7 +405,7 @@ r
 
 e
 
-†
+
 
 a
 
@@ -415,7 +415,7 @@ a
 
 n
 
-†
+
 
 c
 
@@ -423,9 +423,9 @@ e
 
 t
 
-†
 
-†
+
+
 
 k
 
@@ -433,204 +433,204 @@ n
 
 u
 
-†
 
-†
 
-†
+
+
+
 
 z
 
 r
 
-†
+
 
 I
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
 
 II
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
 
 I
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
 
 II
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
 
 I
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
 
 II
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
 
 I
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
 
 II
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
 
 I
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
 
 II
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
+
+
 
 Gesamt Bw *1)
 
 - *1) :: - Bewertungseinheiten
 - *2) :: - n√§here Angaben siehe R√ºckseite
 
-†
+
 
 Qualit√§tsmerkmale
 
@@ -699,7 +699,7 @@ max. 5 Bw
 
 - - :: Verzehrtemperatur der Speisenkomponenten (Minimum 60 Grad bei warmen Speisen)
 
-†
+
 
 - ¬† :: Hauptkomponente
 
@@ -839,7 +839,7 @@ Einbezogene Arbeitsprozesse
 Mahlzeiten/ Tag
 Mahlzeiten/ VbE
 %
-†
+
 bis 200
 80
 25

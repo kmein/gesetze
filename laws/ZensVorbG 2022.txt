@@ -93,7 +93,7 @@ Die hierzu nach § 9 Absatz 1 Nummer 4 übermittelten Daten werden zum frühestm
 
 § 8 - Übermittlung von Daten durch die Vermessungsbehörden
 
-(1) Das Bundesamt für Kartographie und Geodäsie übermittelt dem Statistischen Bundesamt für den Aufbau und die Aktualisierung des Steuerungsregisters in den Jahren 2017 bis 2023 jeweils zum 1. November den jeweils aktuellen Datenbestand �Georeferenzierte Adressdaten“.
+(1) Das Bundesamt für Kartographie und Geodäsie übermittelt dem Statistischen Bundesamt für den Aufbau und die Aktualisierung des Steuerungsregisters in den Jahren 2017 bis 2023 jeweils zum 1. November den jeweils aktuellen Datenbestand Georeferenzierte Adressdaten“.
 (2) Die nach Landesrecht für die Geobasisdaten zuständigen Stellen übermitteln den statistischen Ämtern der Länder zur Pflege des Steuerungsregisters in den Jahren 2018 bis 2023 mit Stand 15. Februar des jeweiligen Jahres innerhalb der auf den Stichtag folgenden vier Wochen aus dem Amtlichen Liegenschaftskatasterinformationssystem elektronisch Daten zu:
 
 - 1. :: Lagebezeichnungen,

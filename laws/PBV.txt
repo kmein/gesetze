@@ -468,3002 +468,3002 @@ Text-Erl√§uterung
 
 0
 
-†
 
-†
+
+
 
 Kontenklasse 0 Ausstehende Einlagen, Anlageverm√∂gen
 
-†
 
-†
 
-†
+
+
+
 
 Ausstehende Einlagen auf das gezeichnete oder festgesetzte Kapital
 
-†
+
 
 01
 
-†
+
 
 Grundst√ºcke und grundst√ºcksgleiche Rechte
 
-†
 
-†
+
+
 
 010
 
 Bebaute Grundst√ºcke
 
-†
 
-†
+
+
 
 011
 
 Betriebsbauten
 
-†
 
-†
+
+
 
 012
 
 Au√üenanlagen
 
-†
+
 
 02
 
-†
+
 
 Grundst√ºcke und grundst√ºcksgleiche Rechte mit Wohnbauten
 
-†
 
-†
+
+
 
 020
 
 Bebaute Grundst√ºcke
 
-†
 
-†
+
+
 
 021
 
 Wohnbauten
 
-†
 
-†
+
+
 
 022
 
 Au√üenanlagen
 
-†
+
 
 03
 
-†
+
 
 Grundst√ºcke und grundst√ºcksgleiche Rechte ohne Bauten
 
-†
+
 
 04
 
-†
+
 
 Bauten auf fremden Grundst√ºcken
 
-†
 
-†
+
+
 
 040
 
 Betriebsbauten
 
-†
 
-†
+
+
 
 041
 
 Wohnbauten
 
-†
 
-†
+
+
 
 042
 
 Au√üenanlagen
 
-†
+
 
 05
 
-†
+
 
 Technische Anlagen
 
-†
 
-†
+
+
 
 050
 
 in Betriebsbauten
 
-†
 
-†
+
+
 
 051
 
 in Wohnbauten
 
-†
 
-†
+
+
 
 052
 
 in Au√üenanlagen
 
-†
+
 
 06
 
-†
+
 
 Einrichtung und Ausstattung
 
-†
 
-†
+
+
 
 060
 
 in Betriebsbauten
 
-†
 
-†
+
+
 
 061
 
 in Wohnbauten
 
-†
 
-†
+
+
 
 062
 
 in Au√üenanlagen
 
-†
 
-†
+
+
 
 063
 
 Fahrzeuge
 
-†
 
-†
+
+
 
 064
 
 Geringwertige Wirtschaftsg√ºter (GWG's)
 
-†
 
-†
+
+
 
 065
 
 Festwerte in Betriebsbauten
 
-†
 
-†
+
+
 
 066
 
 Festwerte in Wohnbauten
 
-†
+
 
 07
 
-†
+
 
 Anlagen im Bau, Anzahlungen auf Anlagen
 
-†
 
-†
+
+
 
 070
 
 Betriebsbauten
 
-†
 
-†
+
+
 
 071
 
 Wohnbauten
 
-†
+
 
 08
 
-†
+
 
 Immaterielle Verm√∂gensgegenst√§nde, Beteiligungen und andere Finanzanlagen
 
-†
 
-†
+
+
 
 080
 
 Immaterielle Verm√∂gensgegenst√§nde
 
-†
 
-†
+
+
 
 0800
 
 Selbst geschaffene gewerbliche Schutzrechte und √§hnliche Rechte und Werte
 
-†
 
-†
+
+
 
 0801
 
 entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und √§hnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten
 
-†
 
-†
+
+
 
 0802
 
 Gesch√§fts- und Firmenwert
 
-†
 
-†
+
+
 
 0803
 
 geleistete Anzahlungen
 
-†
 
-†
+
+
 
 081
 
 Anteile an verbundenen Unternehmen*)
 
-†
 
-†
+
+
 
 082
 
 Ausleihungen an verbundene Unternehmern*)
 
-†
 
-†
+
+
 
 083
 
 Beteiligungen
 
-†
 
-†
+
+
 
 084
 
 Ausleihungen an Unternehmen, mit denen ein Beteiligungsverh√§ltnis besteht*)
 
-†
 
-†
+
+
 
 085
 
 Wertpapiere des Anlageverm√∂gens
 
-†
 
-†
+
+
 
 086
 
 sonstige Finanzanlagen
 
-†
+
 
 1
 
-†
 
-†
+
+
 
 Kontenklasse 1 Umlaufverm√∂gen, Rechnungsabgrenzung
 
-†
+
 
 10
 
-†
+
 
 Vorr√§te
 
-†
 
-†
+
+
 
 101
 
 Roh-, Hilfs- und Betriebsstoffe
 
-†
 
-†
+
+
 
 102
 
 Geleistete Anzahlungen
 
-†
+
 
 11
 
-†
+
 
 Forderungen aus, geleistete Anzahlungen auf Lieferungen und Leistungen
 
-†
+
 
 12
 
-†
+
 
 Kassenbestand, Guthaben bei Kreditinstituten und Schecks
 
-†
+
 
 13
 
-†
+
 
 Wertpapiere des Umlaufverm√∂gens
 
-†
+
 
 14
 
-†
+
 
 Forderungen aus √∂ffentlicher F√∂rderung
 
-†
+
 
 15
 
-†
+
 
 Forderungen aus nicht-√∂ffentlicher F√∂rderung
 
-†
+
 
 16
 
-†
+
 
 Sonstige Verm√∂gensgegenst√§nde
 
-†
 
-†
+
+
 
 160
 
 Forderungen an Gesellschafter oder Tr√§ger der Pflegeeinrichtung
 
-†
 
-†
+
+
 
 161
 
 Forderungen gegen verbundene Unternehmen*)
 
-†
 
-†
+
+
 
 162
 
 Forderungen gegen Unternehmen, mit denen ein Beteiligungsverh√§ltnis besteht*)
 
-†
 
-†
+
+
 
 163
 
 Vorsteuer
 
-†
 
-†
+
+
 
 164
 
 Sonstige Verm√∂gensgegenst√§nde
 
-†
 
-†
+
+
 
 165
 
 Eingefordertes, noch nicht eingezahltes Kapital
 
-†
+
 
 17
 
-†
+
 
 Ausgleichsposten
 
-†
 
-†
+
+
 
 171
 
 Ausgleichsposten aus Darlehensf√∂rderung
 
-†
 
-†
+
+
 
 172
 
 Ausgleichsposten f√ºr Eigenmittelf√∂rderung
 
-†
+
 
 18
 
-†
+
 
 Rechnungsabgrenzung
 
-†
+
 
 19
 
-†
+
 
 Aktive latente Steuern, Aktiver Unterschiedsbetrag aus der Verm√∂gensverrechnung, Bilanzverlust
 
-†
 
-†
 
-191†
+
+
+191
 
 Aktive latente Steuern
 
-†
 
-†
 
-192†
+
+
+192
 
 Aktiver Unterschiedsbetrag aus der Verm√∂gensverrechnung
 
-†
 
-†
 
-193†
+
+
+193
 
 Bilanzverlust
 
-†
+
 
 2
 
-†
 
-†
+
+
 
 Kontenklasse 2 Eigenkapital, Sonderposten, R√ºckstellungen
 
-†
+
 
 20
 
-†
+
 
 Eigenkapital
 
-†
 
-†
+
+
 
 200
 
 Gezeichnetes/festgesetztes (gew√§hrtes) Kapital
 
-†
 
-†
+
+
 
 2001
 
 Gezeichnetes Kapital/festgesetztes Kapital
 
-†
 
-†
+
+
 
 2002
 
 Nicht eingeforderte ausstehende Einlagen
 
-†
 
-†
+
+
 
 2003
 
 Eingefordertes Kapital
 
-†
 
-†
+
+
 
 201
 
 Kapitalr√ºcklagen
 
-†
 
-†
+
+
 
 202
 
 Gewinnr√ºcklagen
 
-†
 
-†
+
+
 
 203
 
 Gewinnvortrag/Verlustvortrag
 
-†
 
-†
+
+
 
 204
 
 Jahres√ºberschu√ü/Jahresfehlbetrag
 
-†
+
 
 21
 
-†
+
 
 Sonderposten aus √∂ffentlichen F√∂rdermitteln f√ºr Investitionen
 
-†
+
 
 22
 
-†
+
 
 Sonderposten aus nicht-√∂ffentlicher F√∂rderung f√ºr Investitionen
 
-†
+
 
 23
 
-†
+
 
 Ausgleichsposten aus Darlehensf√∂rderung
 
-†
+
 
 24
 
-†
+
 
 R√ºckstellungen
 
-†
 
-†
+
+
 
 240
 
 Pensionsr√ºckstellungen
 
-†
 
-†
+
+
 
 241
 
 Steuerr√ºckstellungen
 
-†
 
-†
+
+
 
 242
 
 Urlaubsr√ºckstellungen
 
-†
 
-†
+
+
 
 243
 
 Sonstige R√ºckstellungen
 
-†
+
 
 3
 
-†
 
-†
+
+
 
 Kontenklasse 3 Verbindlichkeiten, Rechnungsabgrenzung
 
-†
+
 
 30
 
-†
+
 
 Verbindlichkeiten aus Lieferungen und Leistungen
 
-†
+
 
 31
 
-†
+
 
 Verbindlichkeiten gegen√ºber Kreditinstituten
 
-†
+
 
 32
 
-†
+
 
 Verbindlichkeiten aus √∂ffentlicher F√∂rderung
 
-†
+
 
 33
 
-†
+
 
 Verbindlichkeiten aus nicht-√∂ffentlicher F√∂rderung
 
-†
+
 
 34
 
-†
+
 
 Erhaltene Anzahlungen
 
-†
+
 
 35
 
-†
+
 
 Sonstige Verbindlichkeiten
 
-†
 
-†
+
+
 
 350
 
 gegen√ºber Mitarbeitern
 
-†
 
-†
+
+
 
 351
 
 gegen√ºber Sozialversicherungstr√§gern
 
-†
 
-†
+
+
 
 352
 
 gegen√ºber Finanzbeh√∂rden
 
-†
 
-†
+
+
 
 353
 
 gegen√ºber Bewohnern
 
-†
 
-†
+
+
 
 354
 
 Verbindlichkeiten gegen√ºber Gesellschafter oder dem Tr√§ger der Einrichtung
 
-†
 
-†
+
+
 
 355
 
 Verbindlichkeiten gegen√ºber verbundenen Unternehmen*)
 
-†
 
-†
+
+
 
 356
 
 Verbindlichkeiten gegen√ºber Unternehmen, mit denen ein Beteiligungsverh√§ltnis besteht*)
 
-†
 
-†
+
+
 
 357
 
 Sonstige Verbindlichkeiten
 
-†
+
 
 36
 
-†
+
 
 Umsatzsteuer
 
-†
+
 
 37
 
-†
+
 
 Verwahrgeldkonto
 
-†
+
 
 38
 
-†
+
 
 Rechnungsabgrenzung
 
-†
+
 
 39
 
-†
+
 
 Passive latente Steuern
 
-†
+
 
 4
 
-†
 
-†
+
+
 
 Kontenklasse 4 Betriebliche Ertr√§ge
 
-†
+
 
 40
 
-†
+
 
 Ertr√§ge aus ambulanten Pflegeleistungen
 
-†
 
-†
+
+
 
 400
 
 Ertr√§ge aus Leistungen der h√§uslichen Pflegehilfe bei Pflegegrad 1
 
-†
 
-†
+
+
 
 4000
 
 Pflegekasse
 
-†
 
-†
+
+
 
 4001
 
 Sozialhilfetr√§ger
 
-†
 
-†
+
+
 
 4002
 
 Selbstzahler
 
-†
 
-†
+
+
 
 4003
 
 √úbrige
 
-†
 
-†
+
+
 
 401
 
 Ertr√§ge aus Leistungen der h√§uslichen Pflegehilfe bei Pflegegrad 2
 
-†
 
-†
+
+
 
 4010
 
 Pflegekasse
 
-†
 
-†
+
+
 
 4011
 
 Sozialhilfetr√§ger
 
-†
 
-†
+
+
 
 4012
 
 Selbstzahler
 
-†
 
-†
+
+
 
 4013
 
 √úbrige
 
-†
 
-†
+
+
 
 402
 
 Ertr√§ge aus Leistungen der h√§uslichen Pflegehilfe bei Pflegegrad 3
 
-†
 
-†
+
+
 
 4020
 
 Pflegekasse
 
-†
 
-†
+
+
 
 4021
 
 Sozialhilfetr√§ger
 
-†
 
-†
+
+
 
 4022
 
 Selbstzahler
 
-†
 
-†
+
+
 
 4023
 
 √úbrige
 
-†
 
-†
+
+
 
 403
 
 Ertr√§ge aus Leistungen der h√§uslichen Pflegehilfe bei Pflegegrad 4
 
-†
 
-†
+
+
 
 4030
 
 Pflegekasse
 
-†
 
-†
+
+
 
 4031
 
 Sozialhilfetr√§ger
 
-†
 
-†
+
+
 
 4032
 
 Selbstzahler
 
-†
 
-†
+
+
 
 4033
 
 √úbrige
 
-†
 
-†
+
+
 
 404
 
 Ertr√§ge aus Leistungen der h√§uslichen Pflegehilfe bei Pflegegrad 5
 
-†
 
-†
+
+
 
 4040
 
 Pflegekasse
 
-†
 
-†
+
+
 
 4041
 
 Sozialhilfetr√§ger
 
-†
 
-†
+
+
 
 4042
 
 Selbstzahler
 
-†
 
-†
+
+
 
 4043
 
 √úbrige
 
-†
 
-†
+
+
 
 405
 
 Ertr√§ge aufgrund h√§uslicher Pflege bei Verhinderung der Pflegeperson
 
-†
 
-†
+
+
 
 406
 
 Ertr√§ge aufgrund von Regelungen √ºber Pflegehilfsmittel
 
-†
 
-†
+
+
 
 407
 
 Sonstige Ertr√§ge aus ambulanten Pflegeleistungen
 
-†
 
-†
+
+
 
 4070
 
 Ertr√§ge aus der Erbringung von Leistungen nach ¬ß 45b Absatz 1 Satz 3 SGB XI
 
-†
 
-†
+
+
 
 4071
 
 Weitere sonstige Ertr√§ge aus ambulanten Pflegeleistungen
 
-†
 
-†
+
+
 
 4072
 
 Ertr√§ge aus ambulanten Pflegedienstleistungen in anderen L√§ndern
 
-†
+
 
 41
 
-†
+
 
 Ertr√§ge aus teilstation√§ren Pflegeleistungen
 
-†
 
-†
+
+
 
 410
 
 Ertr√§ge aus Pflegeleistungen bei Pflegegrad 1
 
-†
 
-†
+
+
 
 4100
 
 Pflegekasse
 
-†
 
-†
+
+
 
 4101
 
 Sozialhilfetr√§ger
 
-†
 
-†
+
+
 
 4102
 
 Selbstzahler
 
-†
 
-†
+
+
 
 4103
 
 √úbrige
 
-†
 
-†
+
+
 
 411
 
 Ertr√§ge aus Pflegeleistungen bei Pflegegrad 2
 
-†
 
-†
+
+
 
 4110
 
 Pflegekasse
 
-†
 
-†
+
+
 
 4111
 
 Sozialhilfetr√§ger
 
-†
 
-†
+
+
 
 4112
 
 Selbstzahler
 
-†
 
-†
+
+
 
 4113
 
 √úbrige
 
-†
 
-†
+
+
 
 412
 
 Ertr√§ge aus Pflegeleistungen bei Pflegegrad 3
 
-†
 
-†
+
+
 
 4120
 
 Pflegekasse
 
-†
 
-†
+
+
 
 4121
 
 Sozialhilfetr√§ger
 
-†
 
-†
+
+
 
 4122
 
 Selbstzahler
 
-†
 
-†
+
+
 
 4123
 
 √úbrige
 
-†
 
-†
+
+
 
 413
 
 Ertr√§ge aus Pflegeleistungen bei Pflegegrad 4
 
-†
 
-†
+
+
 
 4130
 
 Pflegekasse
 
-†
 
-†
+
+
 
 4131
 
 Sozialhilfetr√§ger
 
-†
 
-†
+
+
 
 4132
 
 Selbstzahler
 
-†
 
-†
+
+
 
 4133
 
 √úbrige
 
-†
 
-†
+
+
 
 414
 
 Ertr√§ge aus Pflegeleistungen bei Pflegegrad 5
 
-†
 
-†
+
+
 
 4140
 
 Pflegekasse
 
-†
 
-†
+
+
 
 4141
 
 Sozialhilfetr√§ger
 
-†
 
-†
+
+
 
 4142
 
 Selbstzahler
 
-†
 
-†
+
+
 
 4143
 
 √úbrige
 
-†
 
-†
+
+
 
 415
 
 Ertr√§ge aus zus√§tzlicher Betreuung und Aktivierung (¬ß 43b SGB XI)
 
-†
 
-†
+
+
 
 4150
 
 Pflegekasse
 
-†
 
-†
+
+
 
 4151
 
 Sozialhilfetr√§ger
 
-†
 
-†
+
+
 
 416
 
 Ertr√§ge aus Unterkunft und Verpflegung
 
-†
 
-†
+
+
 
 417
 
 Ertr√§ge aus Zusatzleistungen
 
-†
 
-†
+
+
 
 4170
 
 Ertr√§ge aus Zusatzleistungen: Pflege
 
-†
 
-†
+
+
 
 4171
 
 Ertr√§ge aus Zusatzleistungen: Unterkunft und Verpflegung
 
-†
 
-†
+
+
 
 418
 
 Ertr√§ge aufgrund von Regelungen √ºber Pflegehilfsmittel
 
-†
 
-†
+
+
 
 419
 
 Sonstige Ertr√§ge aus teilstation√§ren Pflegeleistungen
 
-†
 
-†
+
+
 
 4190
 
 Ertr√§ge aus der Erbringung von Leistungen nach ¬ß 45b Absatz 1 Satz 3 SGB XI
 
-†
 
-†
+
+
 
 4191
 
 Ertr√§ge aus Transportleistungen
 
-†
 
-†
+
+
 
 4192
 
 Weitere sonstige Ertr√§ge aus teilstation√§ren Pflegeleistungen
 
-†
+
 
 42
 
-†
+
 
 Ertr√§ge aus vollstation√§ren Pflegeleistungen
 
-†
 
-†
+
+
 
 420
 
 Ertr√§ge aus Pflegeleistungen bei Pflegegrad 1
 
-†
 
-†
+
+
 
 4200
 
 Pflegekasse
 
-†
 
-†
+
+
 
 4201
 
 Sozialhilfetr√§ger
 
-†
 
-†
+
+
 
 4202
 
 Selbstzahler
 
-†
 
-†
+
+
 
 4203
 
 √úbrige
 
-†
 
-†
+
+
 
 421
 
 Ertr√§ge aus Pflegeleistungen bei Pflegegrad 2
 
-†
 
-†
+
+
 
 4210
 
 Pflegekasse
 
-†
 
-†
+
+
 
 4211
 
 Sozialhilfetr√§ger
 
-†
 
-†
+
+
 
 4212
 
 Selbstzahler
 
-†
 
-†
+
+
 
 4213
 
 √úbrige
 
-†
 
-†
+
+
 
 422
 
 Ertr√§ge aus Pflegeleistungen bei Pflegegrad 3
 
-†
 
-†
+
+
 
 4220
 
 Pflegekasse
 
-†
 
-†
+
+
 
 4221
 
 Sozialhilfetr√§ger
 
-†
 
-†
+
+
 
 4222
 
 Selbstzahler
 
-†
 
-†
+
+
 
 4223
 
 √úbrige
 
-†
 
-†
+
+
 
 423
 
 Ertr√§ge aus Pflegeleistungen bei Pflegegrad 4
 
-†
 
-†
+
+
 
 4230
 
 Pflegekasse
 
-†
 
-†
+
+
 
 4231
 
 Sozialhilfetr√§ger
 
-†
 
-†
+
+
 
 4232
 
 Selbstzahler
 
-†
 
-†
+
+
 
 4233
 
 √úbrige
 
-†
 
-†
+
+
 
 424
 
 Ertr√§ge aus Pflegeleistungen bei Pflegegrad 5
 
-†
 
-†
+
+
 
 4240
 
 Pflegekasse
 
-†
 
-†
+
+
 
 4241
 
 Sozialhilfetr√§ger
 
-†
 
-†
+
+
 
 4242
 
 Selbstzahler
 
-†
 
-†
+
+
 
 4243
 
 √úbrige
 
-†
 
-†
+
+
 
 425
 
 Ertr√§ge aus zus√§tzlicher Betreuung und Aktivierung (¬ß 43b SGB XI)
 
-†
 
-†
+
+
 
 4250
 
 Pflegekasse
 
-†
 
-†
+
+
 
 4251
 
 Sozialhilfetr√§ger
 
-†
 
-†
+
+
 
 426
 
 Ertr√§ge aus Unterkunft und Verpflegung
 
-†
 
-†
+
+
 
 427
 
 Ertr√§ge aus Zusatzleistungen
 
-†
 
-†
+
+
 
 4270
 
 Ertr√§ge aus Zusatzleistungen: Pflege
 
-†
 
-†
+
+
 
 4271
 
 Ertr√§ge aus Zusatzleistungen: Unterkunft und Verpflegung
 
-†
 
-†
+
+
 
 428
 
 Ertr√§ge aufgrund von Regelungen √ºber Pflegehilfsmittel
 
-†
 
-†
+
+
 
 429
 
 Sonstige Ertr√§ge aus vollstation√§ren Pflegeleistungen
 
-†
+
 
 43
 
-†
+
 
 Ertr√§ge aus Kurzzeitpflegeleistungen
 
-†
 
-†
+
+
 
 430
 
 Ertr√§ge aus Pflegeleistungen bei Pflegegrad 1
 
-†
 
-†
+
+
 
 4300
 
 Pflegekasse
 
-†
 
-†
+
+
 
 4301
 
 Sozialhilfetr√§ger
 
-†
 
-†
+
+
 
 4302
 
 Selbstzahler
 
-†
 
-†
+
+
 
 4303
 
 √úbrige
 
-†
 
-†
+
+
 
 431
 
 Ertr√§ge aus Pflegeleistungen bei Pflegegrad 2
 
-†
 
-†
+
+
 
 4310
 
 Pflegekasse
 
-†
 
-†
+
+
 
 4311
 
 Sozialhilfetr√§ger
 
-†
 
-†
+
+
 
 4312
 
 Selbstzahler
 
-†
 
-†
+
+
 
 4313
 
 √úbrige
 
-†
 
-†
+
+
 
 432
 
 Ertr√§ge aus Pflegeleistungen bei Pflegegrad 3
 
-†
 
-†
+
+
 
 4320
 
 Pflegekasse
 
-†
 
-†
+
+
 
 4321
 
 Sozialhilfetr√§ger
 
-†
 
-†
+
+
 
 4322
 
 Selbstzahler
 
-†
 
-†
+
+
 
 4323
 
 √úbrige
 
-†
 
-†
+
+
 
 433
 
 Ertr√§ge aus Pflegeleistungen bei Pflegegrad 4
 
-†
 
-†
+
+
 
 4330
 
 Pflegekasse
 
-†
 
-†
+
+
 
 4331
 
 Sozialhilfetr√§ger
 
-†
 
-†
+
+
 
 4332
 
 Selbstzahler
 
-†
 
-†
+
+
 
 4333
 
 √úbrige
 
-†
 
-†
+
+
 
 434
 
 Ertr√§ge aus Pflegeleistungen bei Pflegegrad 5
 
-†
 
-†
+
+
 
 4340
 
 Pflegekasse
 
-†
 
-†
+
+
 
 4341
 
 Sozialhilfetr√§ger
 
-†
 
-†
+
+
 
 4342
 
 Selbstzahler
 
-†
 
-†
+
+
 
 4343
 
 √úbrige
 
-†
 
-†
+
+
 
 435
 
 Ertr√§ge aus zus√§tzlicher Betreuung und Aktivierung (¬ß 43b SGB XI)
 
-†
 
-†
+
+
 
 4350
 
 Pflegekasse
 
-†
 
-†
+
+
 
 4351
 
 Sozialhilfetr√§ger
 
-†
 
-†
+
+
 
 436
 
 Ertr√§ge aus Unterkunft und Verpflegung
 
-†
 
-†
+
+
 
 437
 
 Ertr√§ge aus Zusatzleistungen
 
-†
 
-†
+
+
 
 4370
 
 Ertr√§ge aus Zusatzleistungen: Pflege
 
-†
 
-†
+
+
 
 4371
 
 Ertr√§ge aus Zusatzleistungen: Unterkunft und Verpflegung
 
-†
 
-†
+
+
 
 438
 
 Ertr√§ge aufgrund von Regelungen √ºber Pflegehilfsmittel
 
-†
 
-†
+
+
 
 439
 
 Sonstige Ertr√§ge aus Kurzzeitpflegeleistungen
 
-†
 
-†
+
+
 
 4390
 
 Ertr√§ge aus der Erbringung von Leistungen nach ¬ß 45b Absatz 1 Satz 3 SGB XI
 
-†
 
-†
+
+
 
 4391
 
 Weitere sonstige Ertr√§ge aus Kurzzeitpflegeleistungen
 
-†
+
 
 44
 
-†
+
 
 Zuweisungen und Zusch√ºsse zu Betriebskosten
 
-†
 
-†
+
+
 
 440
 
 f√ºr ambulante Pflegeleistungen
 
-†
 
-†
+
+
 
 441
 
 f√ºr teilstation√§re Pflegeleistungen
 
-†
 
-†
+
+
 
 442
 
 f√ºr vollstation√§re Pflegeleistungen
 
-†
 
-†
+
+
 
 443
 
 f√ºr Leistungen der Kurzzeitpflege
 
-†
+
 
 45
 
-†
+
 
 Ertr√§ge aus √∂ffentlicher F√∂rderung f√ºr Investitionen
 
-†
 
-†
+
+
 
 450
 
 in ambulanten Pflegeeinrichtungen
 
-†
 
-†
+
+
 
 451
 
 in teilstation√§ren Pflegeeinrichtungen
 
-†
 
-†
+
+
 
 452
 
 in vollstation√§ren Pflegeeinrichtungen
 
-†
 
-†
+
+
 
 453
 
 in Einrichtungen der Kurzzeitpflege
 
-†
+
 
 46
 
-†
+
 
 Ertr√§ge aus nicht-√∂ffentlicher F√∂rderung f√ºr Investitionen
 
-†
 
-†
+
+
 
 460
 
 in ambulanten Pflegeeinrichtungen
 
-†
 
-†
+
+
 
 461
 
 in teilstation√§ren Pflegeeinrichtungen
 
-†
 
-†
+
+
 
 462
 
 in vollstation√§ren Pflegeeinrichtungen
 
-†
 
-†
+
+
 
 463
 
 in Einrichtungen der Kurzzeitpflege
 
-†
 
-†
+
+
 
 464
 
 Ertr√§ge aus gesonderter Berechnung von Investitionsaufwendungen gegen√ºber Pflegebed√ºrftigen\\
 (¬ß 82 Abs. 3 und 4 SGB XI)
 
-†
+
 
 47
 
-†
+
 
 Ertr√§ge aus der Aufl√∂sung von Sonderposten
 
-†
 
-†
+
+
 
 470
 
 bei ambulanten Pflegeeinrichtungen
 
-†
 
-†
+
+
 
 471
 
 bei teilstation√§ren Pflegeeinrichtungen
 
-†
 
-†
+
+
 
 472
 
 bei vollstation√§ren Pflegeeinrichtungen
 
-†
 
-†
+
+
 
 473
 
 bei Einrichtungen der Kurzzeitpflege
 
-†
+
 
 48
 
-†
+
 
 R√ºckverg√ºtungen, Erstattungen, Sachbez√ºge, Ertr√§ge aus Sonderrechnungen
 
-†
 
-†
+
+
 
 480
 
 Erstattungen des Personals f√ºr freie Station
 
-†
 
-†
+
+
 
 481
 
 Erstattungen des Personals f√ºr Unterkunft
 
-†
 
-†
+
+
 
 482
 
 Erstattungen des Personals f√ºr Verpflegung
 
-†
 
-†
+
+
 
 483
 
 Sonstige Erstattungen
 
-†
 
-†
+
+
 
 484
 
 Ertr√§ge aus Hilfsbetrieben
 
-†
 
-†
+
+
 
 485
 
 Ertr√§ge aus Nebenbetrieben
 
-†
 
-†
+
+
 
 486
 
 Ertr√§ge aus Betriebskostenzusch√ºssen f√ºr sonstige ambulante Leistungen (au√üerhalb des SGB XI)
 
-†
 
-†
+
+
 
 487
 
 Ertr√§ge aus der Erstattung von Ausgleichsposten aus Darlehens- und Eigenmittelf√∂rderung
 
-†
 
-†
+
+
 
 488
 
 Sonstige Ertr√§ge aus Sonderrechnungen
 
-†
+
 
 49
 
-†
+
 
 frei
 
-†
+
 
 5
 
-†
 
-†
+
+
 
 Kontenklasse 5 Andere Ertr√§ge
 
-†
+
 
 50
 
-†
+
 
 Ertr√§ge aus Beteiligungen und Finanzanlagen
 
-†
 
-†
+
+
 
 500
 
 Ertr√§ge aus Beteiligungen an verbundenen Unternehmen*)
 
-†
 
-†
+
+
 
 501
 
 Ertr√§ge aus anderen Beteiligungen
 
-†
 
-†
+
+
 
 502
 
 Ertr√§ge aus Finanzanlagen in verbundenen Unternehmen*)
 
-†
 
-†
+
+
 
 503
 
 Ertr√§ge aus anderen Finanzanlagen
 
-†
+
 
 51
 
-†
+
 
 Zinsen und √§hnliche Ertr√§ge
 
-†
 
-†
+
+
 
 510
 
 Zinsen und √§hnliche Betr√§ge aus verbundenen Unternehmen*)
 
-†
 
-†
+
+
 
 511
 
 Zinsen f√ºr Einlagen bei Kreditinstituten
 
-†
 
-†
+
+
 
 512
 
 Zinsen aus Wertpapieren des Umlaufverm√∂gens
 
-†
 
-†
+
+
 
 513
 
 Zinsen f√ºr Forderungen
 
-†
 
-†
+
+
 
 514
 
 Sonstige Zinsen und √§hnliche Ertr√§ge
 
-†
+
 
 52
 
-†
+
 
 Ertr√§ge aus dem Abgang von Gegenst√§nden des Anlageverm√∂gens und aus Zuschreibungen zu Gegenst√§nden des Anlageverm√∂gens
 
-†
+
 
 53
 
-†
+
 
 Ertr√§ge aus der Aufl√∂sung von R√ºckstellungen
 
-†
+
 
 54
 
-†
+
 
 Bestandsver√§nderungen, aktivierte Eigenleistungen
 
-†
 
-†
+
+
 
 540
 
 Erh√∂hung oder Verminderung des Bestandes an fertigen und unfertigen Erzeugnissen oder Leistungen
 
-†
 
-†
+
+
 
 541
 
 Andere aktivierte Eigenleistungen
 
-†
+
 
 55
 
-†
+
 
 Sonstige Ertr√§ge
 
-†
+
 
 56
 
-†
+
 
 frei
 
-†
 
-†
+
+
 
 560
 
 frei
 
-†
 
-†
+
+
 
 561
 
 frei
 
-†
 
-†
+
+
 
 562
 
 frei
 
-†
+
 
 57
 
-†
+
 
 frei
 
-†
+
 
 58
 
-†
+
 
 frei
 
-†
+
 
 59
 
-†
+
 
 frei
 
-†
+
 
 6
 
-†
 
-†
+
+
 
 Kontenklasse 6 Aufwendungen
 
-†
+
 
 60
 
-†
+
 
 L√∂hne und Geh√§lter
 
-†
 
-†
+
+
 
 600
 
 Leitung der Pflegeeinrichtung
 
-†
 
-†
+
+
 
 601
 
 Pflegedienst
 
-†
 
-†
+
+
 
 602
 
 Betreuungsdienst
 
-†
 
-†
+
+
 
 603
 
 Hauswirtschaftlicher Dienst
 
-†
 
-†
+
+
 
 604
 
 Verwaltungsdienst
 
-†
 
-†
+
+
 
 605
 
 Technischer Dienst
 
-†
 
-†
+
+
 
 606
 
 Sonstige Dienste
 
-†
+
 
 61
 
-†
+
 
 Gesetzliche Sozialabgaben (Aufteilung wie 600 bis 606)
 
-†
+
 
 62
 
-†
+
 
 Altersversorgung (Aufteilung wie 600 bis 606)
 
-†
+
 
 63
 
-†
+
 
 Beihilfen und Unterst√ºtzungen (Aufteilung wie 600 bis 606)
 
-†
+
 
 64
 
-†
+
 
 Sonstige Personalaufwendungen (Aufteilung wie 600 bis 606)
 
-†
+
 
 65
 
-†
+
 
 Lebensmittel
 
-†
+
 
 66
 
-†
+
 
 Aufwendungen f√ºr Zusatzleistungen
 
-†
+
 
 67
 
-†
+
 
 Wasser, Energie, Brennstoffe
 
-†
+
 
 68
 
-†
+
 
 Wirtschaftsbedarf/Verwaltungsbedarf
 
-†
 
-†
+
+
 
 680
 
 Materialaufwendungen
 
-†
 
-†
+
+
 
 6800
 
 Eigenfinanzierung
 
-†
 
-†
+
+
 
 6801
 
 Finanzierung nach Landesrecht
 
-†
 
-†
+
+
 
 681
 
 Bezogene Leistungen
 
-†
 
-†
+
+
 
 682
 
 B√ºromaterial
 
-†
 
-†
+
+
 
 683
 
 Telefon
 
-†
 
-†
+
+
 
 684
 
 Sonstiger Verwaltungsbedarf
 
-†
 
-†
+
+
 
 685
 
 Aufwendungen f√ºr zentrale Dienstleistungen
 
-†
+
 
 69
 
-†
+
 
 frei
 
-†
+
 
 7
 
-†
 
-†
+
+
 
 Kontenklasse 7 weitere Aufwendungen
 
-†
+
 
 70
 
-†
+
 
 Aufwendungen f√ºr Verbrauchsg√ºter gem√§√ü ¬ß 82 Abs. 2 Nr. 1, 2. Halbsatz SGB XI (soweit nicht in anderen Konten verbucht)
 
-†
+
 
 71
 
-†
+
 
 Steuern, Abgaben, Versicherungen
 
-†
 
-†
+
+
 
 710
 
 Steuern
 
-†
 
-†
+
+
 
 711
 
 Abgaben
 
-†
 
-†
+
+
 
 712
 
 Versicherungen
 
-†
+
 
 72
 
-†
+
 
 Zinsen und √§hnliche Aufwendungen
 
-†
 
-†
+
+
 
 720
 
 Zinsen f√ºr Betriebsmittelkredite
 
-†
 
-†
+
+
 
 721
 
 Zinsen f√ºr langfristige Darlehen
 
-†
 
-†
+
+
 
 722
 
 Sonstige Zinsen
 
-†
 
-†
+
+
 
 723
 
 Sonstige Aufwendungen
 
-†
+
 
 73
 
-†
+
 
 Sachaufwendungen f√ºr Hilfs- und Nebenbetriebe
 
-†
+
 
 74
 
-†
+
 
 Zuf√ºhrung von F√∂rdermitteln zu Sonderposten oder Verbindlichkeiten
 
-†
 
-†
+
+
 
 740
 
 Zuf√ºhrung von √∂ffentlichen F√∂rdermitteln zu Sonderposten oder Verbindlichkeiten
 
-†
 
-†
+
+
 
 741
 
 Zuf√ºhrung von nicht-√∂ffentlichen Zuwendungen zu Sonderposten oder Verbindlichkeiten
 
-†
+
 
 75
 
-†
+
 
 Abschreibungen
 
-†
 
-†
+
+
 
 750
 
 Abschreibungen auf immaterielle Verm√∂gensgegenst√§nde
 
-†
 
-†
+
+
 
 751
 
 Abschreibungen auf Sachanlagen
 
-†
 
-†
+
+
 
 752
 
 Abschreibungen auf Finanzanlagen und Wertpapiere des Umlaufverm√∂gens
 
-†
 
-†
+
+
 
 753
 
 Abschreibungen auf Forderungen
 
-†
 
-†
+
+
 
 754
 
 Abschreibungen auf sonstige Verm√∂gensgegenst√§nde
 
-†
+
 
 76
 
-†
+
 
 Mieten, Pacht, Leasing
 
-†
+
 
 77
 
-†
+
 
 Aufwendungen f√ºr Instandhaltung und Instandsetzung, sonstige Aufwendungen
 
-†
 
-†
+
+
 
 771
 
 Aufwendungen f√ºr Instandhaltung und Instandsetzung
 
-†
 
-†
+
+
 
 772
 
 Sonstige Aufwendungen
 
-†
+
 
 78
 
-†
+
 
 frei
 
-†
 
-†
+
+
 
 780
 
 frei
 
-†
 
-†
+
+
 
 781
 
 frei
 
-†
 
-†
+
+
 
 782
 
 frei
 
-†
 
-†
+
+
 
 783
 
 frei
 
-†
 
-†
+
+
 
 784
 
 frei
 
-†
 
-†
+
+
 
 785
 
 frei
 
-†
+
 
 79
 
-†
+
 
 frei
 
-†
+
 
 8
 
-†
 
-†
+
+
 
 Kontenklasse 8 Er√∂ffnungs- und Abschlu√ükonten
 
-†
+
 
 80
 
-†
+
 
 frei
 
-†
+
 
 81
 
-†
+
 
 frei
 
-†
+
 
 82
 
-†
+
 
 frei
 
-†
+
 
 83
 
-†
+
 
 frei
 
-†
+
 
 84
 
-†
+
 
 frei
 
-†
+
 
 85
 
-†
+
 
 Er√∂ffnungs- und Abschlu√ükonten
 
-†
+
 
 86
 
-†
+
 
 Abgrenzung der Ertr√§ge, die nicht in die Kostenrechnung eingehen
 
-†
+
 
 87
 
-†
+
 
 Abgrenzung der Aufwendungen, die nicht in die Kostenrechnung eingehen
 
-†
+
 
 88
 
-†
+
 
 Kalkulatorische Kosten
 
-†
+
 
 89
 
-†
+
 
 frei
 
@@ -3494,7 +3494,7 @@ Ausbildung, Fortbildung
 Personaleinrichtungen (soweit f√ºr Betrieb der Einrichtung notwendig)
 906
 Sonstige
-†
+
 91
 Versorgungseinrichtungen
 910
@@ -3511,7 +3511,7 @@ Zentraler Reinigungsdienst
 Energieversorgung (Wasser, Energie, Brennstoffe)
 916
 Sonstige
-†
+
 92
 H√§usliche Pflegehilfe
 920
@@ -3524,7 +3524,7 @@ Pflegebereich -- Pflegegrad 3
 Pflegebereich -- Pflegegrad 4
 924
 Pflegebereich -- Pflegegrad 5
-†
+
 93
 Teilstation√§re Pflege (Tagespflege)
 930
@@ -3537,7 +3537,7 @@ Pflegebereich -- Pflegegrad 3
 Pflegebereich -- Pflegegrad 4
 934
 Pflegebereich -- Pflegegrad 5
-†
+
 94
 Teilstation√§re Pflege (Nachtpflege)
 940
@@ -3550,7 +3550,7 @@ Pflegebereich -- Pflegegrad 3
 Pflegebereich -- Pflegegrad 4
 944
 Pflegebereich -- Pflegegrad 5
-†
+
 95
 Vollstation√§re Pflege
 950
@@ -3563,7 +3563,7 @@ Pflegebereich -- Pflegegrad 3
 Pflegebereich -- Pflegegrad 4
 954
 Pflegebereich -- Pflegegrad 5
-†
+
 96
 Kurzzeitpflege
 960
@@ -3576,14 +3576,14 @@ Pflegebereich -- Pflegegrad 3
 Pflegebereich -- Pflegegrad 4
 964
 Pflegebereich -- Pflegegrad 5
-†
+
 97
 Weitere Leistungen
 970
 Zus√§tzliche Betreuung und Aktivierung nach ¬ß 43b SGB XI
 971
 Leistungen nach ¬ß 45b Absatz 1 Satz 3 SGB XI
-†
+
 98, 99
 freibleibend
 (+++ Anlage 5: Zur Anwendung vgl. ¬ß 11 Abs. 5 F. 21.12.2016 +++)
@@ -3593,34 +3593,34 @@ Anlage 6 - Muster, Kostentr√§ger√ºbersicht
 (Fundstelle: BGBl. I 1995, 1548;\\
 bzgl. der einzelnen √Ñnderungen vgl. Fu√ünote)
 \\
-†
+
 F√ºr teil- und vollstation√§re Pflegeeinrichtungen
-†
+
 Pflegegrad 1
 - Pflegeleistungen
 - Unterkunft und Verpflegung
-†
+
 Pflegegrad 2
 - Pflegeleistungen
 - Unterkunft und Verpflegung
-†
+
 Pflegegrad 3
 - Pflegeleistungen
 - Unterkunft und Verpflegung
-†
+
 Pflegegrad 4
 - Pflegeleistungen
 - Unterkunft und Verpflegung
-†
+
 Pflegegrad 5
 - Pflegeleistungen
 - Unterkunft und Verpflegung
-†
+
 Zusatzleistungen Pflege
 Zusatzleistungen Unterkunft und Verpflegung
-†
-†
+
+
 F√ºr ambulante Pflegeeinrichtungen
-†
+
 Kostentr√§ger sind die in den Verg√ºtungsempfehlungen der Spitzenverb√§nde der Pflegekassen aufgef√ºhrten Leistungskomplexe.
 (+++ Anlage 6: Zur Anwendung vgl. ¬ß 11 Abs. 5 F. 21.12.2016 +++)

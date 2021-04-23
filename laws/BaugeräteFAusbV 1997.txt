@@ -249,11 +249,11 @@ Einrichten und Sichern von Baustellen, Arbeits- und Schutzger√ºsten\\
 
 7
 
-†
 
-†
 
-†
+
+
+
 
 7
 
@@ -264,33 +264,33 @@ Verarbeiten von Bau- und Bauhilfsstoffen\\
 
 3
 
-†
 
-†
 
-†
+
+
+
 
 - b) :: Bodenarten und Bodenklassen unterscheiden und die Einbauf√§higkeit der B√∂den beurteilen
 
-†
 
-†
+
+
 
 2
 
-†
+
 
 7.1
 
-†
+
 
 Die vorstehenden Ausbildungsinhalte unter laufender Nummer 7 Buchstabe a und b sollen unter Ber√ºcksichtigung betriebsbedingter Schwerpunkte sowie des individuellen Lernfortschritts vertieft vermittelt werden
 
-†
 
-†
 
-†
+
+
+
 
 10
 
@@ -306,11 +306,11 @@ Arbeiten in der Bautechnik\\
 
 9
 
-†
 
-†
 
-†
+
+
+
 
 - e) :: Gr√§ben und Gruben ausheben, verbauen und verf√ºllen
 - f) :: Gr√ºndungen herstellen
@@ -320,23 +320,23 @@ Arbeiten in der Bautechnik\\
 - k) :: B√∂den mit Bindemitteln verbessern und verfestigen
 - l) :: Fertigteile transportieren und einbauen
 
-†
 
-†
+
+
 
 10
 
-†
+
 
 - m) :: Planum herstellen
 - n) :: profilgerechte B√∂schungen und Oberfl√§chenentw√§sserungen herstellen
 - o) :: Frostschutzschichten sowie gebundene und ungebundene Tragschichten herstellen
 
-†
 
-†
 
-†
+
+
+
 
 8
 
@@ -351,22 +351,22 @@ Handhaben von Vermessungsger√§ten\\
 
 5
 
-†
 
-†
 
-†
+
+
+
 
 - d) :: Bauteile nach Richtung, Lage und H√∂he einmessen
 - e) :: L√§ngs- und Querprofile abstecken
 
-†
 
-†
+
+
 
 2
 
-†
+
 
 10
 
@@ -381,22 +381,22 @@ Be- und Verarbeiten von Metallen und Kunststoffen\\
 
 10
 
-†
 
-†
 
-†
+
+
+
 
 - f) :: Metalle, insbesondere durch Brennschneiden und Richten, thermisch behandeln
 - g) :: l√∂sbare und nichtl√∂sbare Verbindungen herstellen, insbesondere Metalle l√∂ten und schwei√üen
 
-†
+
 
 6
 
-†
 
-†
+
+
 
 11
 
@@ -410,30 +410,30 @@ Handhaben von Bauteilen, Baugruppen und Systemen von Bauger√§ten\\
 
 10
 
-†
 
-†
 
-†
+
+
+
 
 - ¬† :: - dd) :: Antriebsarten, insbesondere Elektromotoren und Verbrennungsmotoren
   - ee) :: Kraft√ºbertragungselemente, insbesondere Kupplungen und Getriebe
 
-†
+
 
 7
 
-†
 
-†
+
+
 
 - ¬† :: - ff) :: Bremssysteme, insbesondere selbstt√§tige und nichtselbstt√§tige Bremsen
 
-†
 
-†
 
-†
+
+
+
 
 4
 
@@ -442,11 +442,11 @@ Handhaben von Bauteilen, Baugruppen und Systemen von Bauger√§ten\\
 
 2
 
-†
 
-†
 
-†
+
+
+
 
 12
 
@@ -459,44 +459,44 @@ Inbetriebnehmen, F√ºhren und Au√üerbetriebnehmen von Bauger√§ten\\
   - cc) :: Sicherheitseinrichtungen nach Betriebsanleitung √ºberpr√ºfen
 - b) :: Bauger√§te nach Betriebsanleitung unter Beachtung der Unfallverh√ºtungsvorschriften und des Umweltschutzes au√üer Betrieb nehmen
 
-†
+
 
 5
 
-†
 
-†
+
+
 
 - c) :: Bauger√§te umr√ºsten, insbesondere
   - aa) :: Anbauger√§te und Zusatzausr√ºstungen aufgabengerecht ausw√§hlen und montieren
   - bb) :: Arbeitsausr√ºstungen, insbesondere Tragmittel, Anschlagmittel, Lastaufnahmemittel, F√∂rder-, Verteiler-, Verdichtungs-, Gl√§tt- und Grabeinrichtungen, ausw√§hlen und montieren
 
-†
 
-†
+
+
 
 6
 
-†
+
 
 - d) :: Bauger√§te im √∂ffentlichen Stra√üenverkehr bis zu den Grenzen der F√ºhrerscheinklasse III unter Beachtung der Stra√üenverkehrsordnung und der Stra√üenverkehrszulassungsordnung f√ºhren
 
-†
 
-†
+
+
 
 2
 
-†
+
 
 - e) :: mindestens zwei Bauger√§te, insbesondere Hydraulikbagger, Rad- und Kettenlader, Verdichtungsger√§te, Turmkr√§ne und Spezialtiefbauger√§te, bedienen und f√ºhren
 - f) :: Bauger√§te verladen und umsetzen
 
-†
 
-†
 
-†
+
+
+
 
 16
 
@@ -511,31 +511,31 @@ Warten von Bauger√§ten, Verwenden von Kraft- und Schmierstoffen sowie von Hydrau
 
 8
 
-†
 
-†
 
-†
+
+
+
 
 - d) :: Bauteile, Baugruppen und Bauelemente, insbesondere Sicherheitseinrichtungen, nach Wartungsvorschrift abschmieren, √∂len, reinigen und konservieren sowie auf Dichtheit, Risse und Verschlei√ü pr√ºfen
 - e) :: mechanische Verbindungen, insbesondere deren Sicherungselemente, kontrollieren
 - f) :: Trag-, Anschlag- und Lastaufnahmemittel kontrollieren, reinigen und nach Wartungsvorschrift schmieren und √∂len
 
-†
+
 
 4
 
-†
 
-†
+
+
 
 - g) :: Einstellwerte, insbesondere Winkel, Spiel und Druck, nach Wartungsangaben kontrollieren, ein- und nachstellen
 
-†
 
-†
 
-†
+
+
+
 
 4
 
@@ -548,11 +548,11 @@ Feststellen von St√∂rungen sowie Einleiten von Ma√ünahmen zur Fehlerbeseitigung 
 - b) :: Funktionspl√§ne, insbesondere hydraulische, pneumatische und elektrische Schaltpl√§ne sowie Fehlersuchanleitungen, anwenden
 - c) :: Pr√ºf- und Me√üger√§te nach Betriebsvorschriften anwenden und Ergebnisse bewerten
 
-†
 
-†
 
-†
+
+
+
 
 7
 
@@ -563,13 +563,13 @@ Instandsetzen von Bauteilen und Baugruppen\\
 
 - a) :: Werkzeuge und Montagehilfsmittel bei Montage und Demontage von Bauger√§teteilen einsetzen
 
-†
+
 
 2
 
-†
 
-†
+
+
 
 - b) :: Bauteile und Baugruppen sowie Bauger√§te unter Beachtung von Betriebs- und Wartungsanleitungen sowie der Unfallverh√ºtungsvorschriften instandsetzen, insbesondere
   - aa) :: Bauteile und Baugruppen unter Beachtung ihrer Gesamt- und Einzelfunktion ausbauen, auf Wiederverwendbarkeit pr√ºfen, reinigen, kennzeichnen und lagern
@@ -577,21 +577,21 @@ Instandsetzen von Bauteilen und Baugruppen\\
   - cc) :: Bauelemente austauschen
   - dd) :: Bauteile und Baugruppen funktionsgerecht ausrichten, abdichten und verbinden
 
-†
 
-†
+
+
 
 4
 
-†
+
 
 - c) :: Bauteile und Baugruppen sowie Sicherheitseinrichtungen auf ihre Funktion pr√ºfen und Einstellungen vornehmen
 - d) :: Montagehilfen herstellen und anwenden
 
-†
 
-†
 
-†
+
+
+
 
 3

@@ -239,7 +239,7 @@ Arbeitssicherheit, Umweltschutz und rationelle Energieverwendung\\
 
 - *) :: F√ºr das erste Ausbildungsjahr sind die Ausbildungsinhalte der Berufe Goldschmied/Goldschmiedin, Silberschmied/Silberschmiedin und Edelsteinfasser/Edelsteinfasserin gleich.
 
-†
+
 
 5
 
@@ -253,9 +253,9 @@ Inbetriebnehmen von Maschinen sowie Warten von Betriebsmitteln\\
 
 2
 
-†
 
-†
+
+
 
 6
 
@@ -269,17 +269,17 @@ Ausw√§hlen, Vorbereiten, Handhaben und Lagern von Werk- und Hilfsstoffen I\\
 
 2*)
 
-†
 
-†
+
+
 
 - e) :: Edelmetalle nach werkstatt√ºblichen Verfahren pr√ºfen
 
-†
+
 
 2
 
-†
+
 
 7
 
@@ -293,15 +293,15 @@ Planen von Arbeitsabl√§ufen\\
 
 4*)
 
-†
 
-†
+
+
 
 - e) :: gestalterische Pr√ºfkriterien entwickeln, insbesondere unter Beachtung der Proportionen und der Formqualit√§t des Entwurfes
 - f) :: Umsetzung eigener Entw√ºrfe unter Beachtung technischer M√∂glichkeiten und Grenzen sowie der gestalterischen Absicht planen
 - g) :: Arbeitsablauf selbst√§ndig unter Ber√ºcksichtigung organisatorischer und informatorischer Notwendigkeiten sowie der Dauer der Arbeitsg√§nge planen und die Durchf√ºhrung selbst√§ndig vorbereiten
 
-†
+
 
 2
 
@@ -327,9 +327,9 @@ Messen und Kennzeichnen sowie Kontrollieren von Arbeitsergebnissen\\
 
 4*)
 
-†
 
-†
+
+
 
 9
 
@@ -342,9 +342,9 @@ Gestalten und Darstellen von Schmuck und Ger√§t\\
 
 5
 
-†
 
-†
+
+
 
 - b) :: unter Beachtung von historischer und zeitgen√∂ssischer Formensprache
   - aa) :: Zeichnungen in mehreren Ansichten anfertigen
@@ -352,23 +352,23 @@ Gestalten und Darstellen von Schmuck und Ger√§t\\
   - cc) :: farbige perspektivische Kundenzeichnungen anfertigen
   - dd) :: plastische Entw√ºrfe anfertigen
 
-†
+
 
 10
 
-†
+
 
 - c) :: Entw√ºrfe unter Einbeziehung fl√§chengestaltender Techniken anfertigen, insbesondere f√ºr Ziselier-, √Ñtz- und Emailliertechniken
 
-†
 
-†
+
+
 
 4
 
 - *) :: Im Zusammenhang mit anderen im Ausbildungsrahmenplan aufgef√ºhrten Ausbildungsinhalten zu vermitteln.
 
-†
+
 
 10
 
@@ -386,9 +386,9 @@ unter Beachtung von Metalleigenschaften und gestellten Anforderungen
 
 8
 
-†
 
-†
+
+
 
 - g) :: K√∂rper anfertigen
   - aa) :: runde und ovale K√∂rper nach selbstangefertigten Anlegeschablonen formgenau aufziehen und planieren
@@ -398,19 +398,19 @@ unter Beachtung von Metalleigenschaften und gestellten Anforderungen
 - h) :: Werkst√ºcke schmieden, insbesondere querschnittver√§ndern, sowie strecken und stauchen
 - i) :: Ger√§te und Gef√§√üe abschlagen und absetzen
 
-†
+
 
 16
 
-†
+
 
 - k) :: Flacharbeiten und plangeschlagene Blechteile unter Beachtung der gestalterischen Absicht anfertigen
   - aa) :: Blechteile und Platten planschlagen, insbesondere durch Planieren, durch Verst√§rken, Abkanten und Abschlagen von R√§ndern, durch Anl√∂ten von Zargen sowie durch Richten von Blechen und Platten
   - bb) :: runde und eckige Flacharbeiten unter Verwendung von Absetz- und Spanntechniken anfertigen
 
-†
 
-†
+
+
 
 8
 
@@ -434,9 +434,9 @@ unter Beachtung von Werkstoffeigenschaften und gestellten Anforderungen
 
 6
 
-†
 
-†
+
+
 
 12
 
@@ -456,9 +456,9 @@ unter Beachtung von Werkstoffeigenschaften und gestellten Anforderungen
 
 7
 
-†
 
-†
+
+
 
 13
 
@@ -473,17 +473,17 @@ unter Beachtung der ablaufenden chemischen und physikalischen Vorg√§nge
 
 2
 
-†
 
-†
+
+
 
 - d) :: Metalle tempern
 
-†
+
 
 2
 
-†
+
 
 14
 
@@ -495,17 +495,17 @@ Anfertigen von Kleinwerkzeugen\\
 
 4
 
-†
 
-†
+
+
 
 - c) :: Schmiede- und Treibwerkzeuge anfertigen
 
-†
+
 
 2
 
-†
+
 
 15
 
@@ -514,11 +514,11 @@ Anfertigen von Gu√ümodellen und Bearbeiten von Gu√üteilen\\
 
 Gu√ümodelle anfertigen und bearbeiten, insbesondere unter Beachtung von gestalterischer Absicht sowie von M√∂glichkeiten und Grenzen der Anwendung des Gu√üverfahrens und der Nachbearbeitung
 
-†
+
 
 2
 
-†
+
 
 16
 
@@ -532,11 +532,11 @@ unter Beachtung von gestalterischer Absicht und Funktion
 - c) :: Ger√§te mit pa√ügenauen Deckeln und Dosenverschl√ºsse anfertigen
 - d) :: Gef√§√üe mit Griffen anfertigen
 
-†
+
 
 8
 
-†
+
 
 17
 
@@ -547,17 +547,17 @@ Anfertigen und Montieren von Zargen und Fassungen\\
 
 4
 
-†
 
-†
+
+
 
 - b) :: Fassungen anfertigen und andr√ºcken, insbesondere unter Beachtung der gestalterischen Absicht und Funktion
 
-†
+
 
 2
 
-†
+
 
 18
 
@@ -568,17 +568,17 @@ unter Beachtung der Eigenschaften von Edelsteinen und organischen Stoffen
 
 - a) :: Edelsteine und organische Stoffe erkennen, zuordnen und handhaben
 
-†
+
 
 2
 
-†
+
 
 - b) :: Wertverh√§ltnisse von Edelsteinen und organischen Stoffen sowie Sorgfaltspflichten beim Umgang mit diesen Stoffen beachten
 
-†
 
-†
+
+
 
 2
 
@@ -589,17 +589,17 @@ Planen und Anfertigen von komplettem Schmuck und Ger√§t\\
 
 - a) :: selbst√§ndig nach eigenen Entw√ºrfen Schmuck und Ger√§t planen
 
-†
+
 
 2
 
-†
+
 
 - b) :: unter Beachtung von Gestaltungsprinzipien anfertigen, verg√ºten und finieren
 
-†
 
-†
+
+
 
 10
 
@@ -617,26 +617,26 @@ Behandeln und Gestalten von Oberfl√§chen\\
 
 4
 
-†
 
-†
+
+
 
 - b) :: unter Beachtung von Umwelt- und Gesundheitsschutzvorschriften
   - aa) :: galvanische √úberz√ºge herstellen
 
-†
+
 
 2
 
-†
+
 
 - ¬† :: - bb) :: Metalle mit chemischen Hilfsmitteln f√§rben
 
 - c) :: unter Beachtung von gestalterischer Absicht fl√§chengestaltende Techniken ausf√ºhren, insbesondere Fl√§chen durch spanlose und spanabhebende Bearbeitung gestalten
 
-†
 
-†
+
+
 
 4
 
@@ -647,13 +647,13 @@ Aufarbeiten, Reparieren und Umarbeiten von Schmuck und Ger√§t\\
 
 Schmuck und Ger√§t unter Beachtung von M√∂glichkeiten und Grenzen aufarbeiten, reparieren und umarbeiten
 
-†
 
-†
+
+
 
 8
 
-†
+
 
 A. Schwerpunkt Metall
 
@@ -666,9 +666,9 @@ Gestalten und Darstellen von Schmuck und Ger√§t\\
 - b) :: auf der Basis von Modellen und bema√üten Zeichnungen Volumenberechnungen durchf√ºhren sowie vorgegebene Volumina bei der Gestaltung von Gef√§√üen beachten
 - c) :: Entw√ºrfe unter Einbeziehung fl√§chengestaltender Techniken anfertigen, insbesondere f√ºr Gravier-, Niellier- und Tauschiertechniken
 
-†
 
-†
+
+
 
 6
 
@@ -682,9 +682,9 @@ unter Beachtung von gestalterischer Absicht
 - a) :: einteilige Kerne anfertigen
 - b) :: K√∂rper dr√ºcken und R√§nder umb√∂rdeln
 
-†
 
-†
+
+
 
 2
 
@@ -698,9 +698,9 @@ unter Beachtung von Funktion und gestalterischer Absicht
 - a) :: Ger√§te mit massiven, hohlen und isolierten Griffen anfertigen
 - b) :: Ger√§te mit funktionsf√§higen hohlen und angeschlagenen Schnaupen anfertigen
 
-†
 
-†
+
+
 
 10
 
@@ -711,9 +711,9 @@ Planen und Anfertigen von komplettem Schmuck und Ger√§t\\
 
 unter Beachtung der gestalterischen Absicht selbst√§ndig profanes und sakrales Ger√§t anfertigen, insbesondere Becher, Kannen, Kelche, Schalen und Tischger√§t
 
-†
 
-†
+
+
 
 16
 
@@ -724,13 +724,13 @@ Behandeln und Gestalten von Oberfl√§chen\\
 
 Fl√§chen unter Beachtung von gestalterischer Absicht durch Aufl√∂ten von Metallteilen gestalten
 
-†
 
-†
+
+
 
 6
 
-†
+
 
 B. Schwerpunkt Email
 
@@ -745,9 +745,9 @@ unter Beachtung der gestalterischen Absicht und der Eigenschaften von Email
 - b) :: Email ausw√§hlen und vorbereiten sowie auf metallische Untergr√ºnde aufbringen
 - c) :: Metalluntergr√ºnde mit selbst aufgebrachtem transparenten, opaken und opalen Email nach selbstfestgelegten Temperaturen brennen
 
-†
 
-†
+
+
 
 4
 
@@ -758,9 +758,9 @@ Gestalten und Darstellen von Schmuck und Ger√§t\\
 
 Emailarbeiten unter Beachtung von historischer und zeitgem√§√üer Formensprache gestalten, insbesondere unter Einbeziehung von Motiven f√ºr Zellen- und Grubenschmelz, Fensteremail, Drucktechniken sowie malerischen Betrag- und Maltechniken
 
-†
 
-†
+
+
 
 4
 
@@ -771,9 +771,9 @@ Planen und Anfertigen von komplettem Schmuck und Ger√§t\\
 
 unter Beachtung von gestalterischer Absicht selbst√§ndig Emailgef√§√üe, -schmuck, -wandschmuck und -objekte anfertigen
 
-†
 
-†
+
+
 
 10
 
@@ -791,9 +791,9 @@ unter Beachtung von gestalterischer Absicht
   - dd) :: Metallfolien einbrennen und dar√ºberliegende Emailschichten auftragen und brennen
 - b) :: Grubenschmelz auf ge√§tzten, ziselierten und gemei√üelten Metalluntergr√ºnden anfertigen
 
-†
 
-†
+
+
 
 8
 
@@ -802,9 +802,9 @@ unter Beachtung von gestalterischer Absicht
   - bb) :: selbstgebogene Zellen auf Metalluntergr√ºnde aufschwei√üen und aufl√∂ten
   - cc) :: Zellenschmelz mit muldigen und ebenen Oberfl√§chenanfertigen
 
-†
 
-†
+
+
 
 6
 
@@ -815,8 +815,8 @@ unter Beachtung von gestalterischer Absicht
 - f) :: malerische Betrag- und Maltechniken ausf√ºhren
 - g) :: emaillierte St√ºcke abschlie√üend bearbeiten
 
-†
 
-†
+
+
 
 8

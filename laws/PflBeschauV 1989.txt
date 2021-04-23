@@ -126,7 +126,7 @@ Die in Anhang IV Teil A Kapitel I der Richtlinie 2000/29/EG genannten Pflanzen, 
 - 2. :: in Maschinen- oder Blockschrift ausgefüllt sein und
 - 3. :: die botanischen Bezeichnungen in lateinischer Sprache enthalten.
 
-Ist es Bedingung für die Einfuhr von Pflanzen, Pflanzenerzeugnissen oder sonstigen Gegenständen, die in Anhang IV Teil A Kapitel I oder Teil B der Richtlinie 2000/29/EG aufgeführt sind, dass diese mindestens eine der in Anhang IV Teil A Kapitel I oder Teil B aufgeführten Anforderungen erfüllen, ist im Feld �Zusätzliche Erklärung“ anzugeben, welche der in der jeweiligen Position enthaltenen möglichen Anforderungen erfüllt ist. Mehrfertigungen müssen durch Aufdrucken oder Stempeln des Wortes �Kopie“ oder �Duplikat“ kenntlich gemacht sein. Jede Änderung im Zeugnis muss amtlich beglaubigt sein; unbeglaubigte Änderungen machen das Zeugnis ungültig. Die Zeugnisse dürfen nicht früher als 14 Tage, bevor die Sendung das Versandland verlassen hat, ausgestellt worden sein.
+Ist es Bedingung für die Einfuhr von Pflanzen, Pflanzenerzeugnissen oder sonstigen Gegenständen, die in Anhang IV Teil A Kapitel I oder Teil B der Richtlinie 2000/29/EG aufgeführt sind, dass diese mindestens eine der in Anhang IV Teil A Kapitel I oder Teil B aufgeführten Anforderungen erfüllen, ist im Feld Zusätzliche Erklärung“ anzugeben, welche der in der jeweiligen Position enthaltenen möglichen Anforderungen erfüllt ist. Mehrfertigungen müssen durch Aufdrucken oder Stempeln des Wortes Kopie“ oder Duplikat“ kenntlich gemacht sein. Jede Änderung im Zeugnis muss amtlich beglaubigt sein; unbeglaubigte Änderungen machen das Zeugnis ungültig. Die Zeugnisse dürfen nicht früher als 14 Tage, bevor die Sendung das Versandland verlassen hat, ausgestellt worden sein.
 
 (4) Auf den Zeugnissen vermerkt die zuständige Behörde den Namen des Eingangsorts und den Tag des Eingangs. Der Vermerk bedarf keiner Unterschrift.
 (5) Die zuständige Behörde verzichtet auf die Vorlage der Zeugnisse, soweit besondere zwischenstaatliche Vereinbarungen oder Abkommen der Europäischen Gemeinschaft oder der Europäischen Union dies vorsehen und sichergestellt ist, dass keine Gefahr einer Einschleppung von Schadorganismen, die in Anhang I Teil A der Richtlinie 2000/29/EG oder in Anhang II Teil A der Richtlinie 2000/29/EG aufgeführt sind, besteht. Die in Anhang V Teil A der Richtlinie 2000/29/EG aufgeführten Pflanzen, Pflanzenerzeugnisse und sonstigen Gegenstände können eingeführt werden, wenn sie von einem Pflanzenpass begleitet werden, soweit die Vereinbarungen oder Abkommen dies vorsehen.
@@ -513,7 +513,7 @@ Die fachlichen Kenntnisse und Fertigkeiten sowie die Eignung der messtechnischen
 (1) Die Kennzeichnung nach dem in § 13p Absatz 1 Nummer 1 genannten Standard ist unmittelbar nach der Herstellung der Verpackung aus Holz, das nach dem in § 13p Absatz 1 Nummer 1 genannten Standard behandelt worden ist oder nach der Behandlung der Verpackung, nach Maßgabe der folgenden Vorschriften anzubringen. Eine Kennzeichnung einer aus Holz hergestellten Verpackung, die nicht nach dem in § 13p Absatz 1 Nummer 1 genannten Standard behandelt worden ist, ist vorbehaltlich des Satzes 3 nicht zulässig. Die zuständige Behörde kann auf Antrag vor der Behandlung die Kennzeichnung der Holzverpackung genehmigen, wenn durch den Ablauf des Produktionsprozesses innerhalb eines Betriebsgeländes sichergestellt ist, dass die Behandlung unmittelbar nach der Kennzeichnung erfolgt und durch organisatorische Maßnahmen sichergestellt ist, dass ein Inverkehrbringen der gekennzeichneten, aber noch nicht behandelten Holzverpackung ausgeschlossen ist. Die zuständige Behörde überprüft das Vorliegen der Voraussetzungen nach Satz 3 mindestens alle zwölf Monate ab Erteilung der Genehmigung.
 (2) Die Kennzeichnung muss entsprechend dem Muster in Anlage 5 erfolgen und folgende Angaben enthalten:
 
-- 1. :: die Angabe �DE“,
+- 1. :: die Angabe DE“,
 - 2. :: eine amtlich bekannt gemachte Kennzeichnung der für die Registrierung nach § 13p Absatz 1 Nummer 1 zuständigen Behörde,
 - 3. :: die Registriernummer des Betriebes, der das verwendete Holz nach § 13p Absatz 1 Nummer 1 behandelt oder gekennzeichnet hat,
 - 4. :: die durch den in § 13p Absatz 1 Nummer 1 genannten Standard festgelegte Buchstabenkombination für die verwendete Behandlungsmethode,
@@ -724,4 +724,4 @@ Anlage 5 - (zu § 13q)Kennzeichnung für behandeltes Holz nach § 13q
 
 (Fundstelle: BGBl. I 2011, 2933)
 [[../normengrafiken/bgbl1_2011/j2927-1_0010.pdf][PDF-Dokument wird in eigenem Fenster angezeigt]]
-�
+

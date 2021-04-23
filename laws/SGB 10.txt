@@ -7,14 +7,14 @@ Ausfertigungsdatum: 18.08.1980
 InhaltsÃ¼bersicht
 
 Erstes Kapitel
- 
+
 Verwaltungsverfahren
- 
- 
+
+
 Erster Abschnitt
- 
- 
- 
+
+
+
 Anwendungsbereich, ZustÃ¤ndigkeit, Amtshilfe
 Â§ 1
 Anwendungsbereich
@@ -30,23 +30,23 @@ Auswahl der BehÃ¶rde
 DurchfÃ¼hrung der Amtshilfe
 Â§ 7
 Kosten der Amtshilfe
- 
- 
+
+
 Zweiter Abschnitt
- 
- 
- 
+
+
+
 Allgemeine Vorschriften Ã¼ber das Verwaltungsverfahren
- 
- 
- 
- 
+
+
+
+
 Erster Titel
- 
- 
- 
- 
- 
+
+
+
+
+
 VerfahrensgrundsÃ¤tze
 Â§ 8
 Begriff des Verwaltungsverfahrens
@@ -84,16 +84,16 @@ Glaubhaftmachung, Versicherung an Eides statt
 AnhÃ¶rung Beteiligter
 Â§ 25
 Akteneinsicht durch Beteiligte
- 
- 
- 
- 
+
+
+
+
 Zweiter Titel
- 
- 
- 
- 
- 
+
+
+
+
+
 Fristen, Termine, Wiedereinsetzung
 Â§ 26
 Fristen und Termine
@@ -101,38 +101,38 @@ Fristen und Termine
 Wiedereinsetzung in den vorigen Stand
 Â§ 28
 Wiederholte Antragstellung
- 
- 
- 
- 
+
+
+
+
 Dritter Titel
- 
- 
- 
- 
- 
+
+
+
+
+
 Amtliche Beglaubigung
 Â§ 29
 Beglaubigung von Dokumenten
 Â§ 30
 Beglaubigung von Unterschriften
- 
- 
+
+
 Dritter Abschnitt
- 
- 
- 
+
+
+
 Verwaltungsakt
- 
- 
- 
- 
+
+
+
+
 Erster Titel
- 
- 
- 
- 
- 
+
+
+
+
+
 Zustandekommen des Verwaltungsaktes
 Â§ 31
 Begriff des Verwaltungsaktes
@@ -152,16 +152,16 @@ Rechtsbehelfsbelehrung
 Bekanntgabe des Verwaltungsaktes
 Â§ 38
 Offenbare Unrichtigkeiten im Verwaltungsakt
- 
- 
- 
- 
+
+
+
+
 Zweiter Titel
- 
- 
- 
- 
- 
+
+
+
+
+
 Bestandskraft des Verwaltungsaktes
 Â§ 39
 Wirksamkeit des Verwaltungsaktes
@@ -189,25 +189,25 @@ RÃ¼cknahme und Widerruf im Rechtsbehelfsverfahren
 Erstattung zu Unrecht erbrachter Leistungen
 Â§ 51
 RÃ¼ckgabe von Urkunden und Sachen
- 
- 
- 
- 
+
+
+
+
 Dritter Titel
- 
- 
- 
- 
- 
+
+
+
+
+
 VerjÃ¤hrungsrechtliche Wirkungen des Verwaltungsaktes
 Â§ 52
 Hemmung der VerjÃ¤hrung durch Verwaltungsakt
- 
- 
+
+
 Vierter Abschnitt
- 
- 
- 
+
+
+
 Ã–ffentlich-rechtlicher Vertrag
 Â§ 53
 ZulÃ¤ssigkeit des Ã¶ffentlich-rechtlichen Vertrages
@@ -227,23 +227,23 @@ Anpassung und KÃ¼ndigung in besonderen FÃ¤llen
 Unterwerfung unter die sofortige Vollstreckung
 Â§ 61
 ErgÃ¤nzende Anwendung von Vorschriften
- 
- 
+
+
 FÃ¼nfter Abschnitt
- 
- 
- 
+
+
+
 Rechtsbehelfsverfahren
 Â§ 62
 Rechtsbehelfe gegen Verwaltungsakte
 Â§ 63
 Erstattung von Kosten im Vorverfahren
- 
- 
+
+
 Sechster Abschnitt
- 
- 
- 
+
+
+
 Kosten, Zustellung und Vollstreckung
 Â§ 64
 Kostenfreiheit
@@ -252,23 +252,23 @@ Zustellung
 Â§ 66
 Vollstreckung
 Zweites Kapitel
- 
+
 Schutz der Sozialdaten
- 
- 
+
+
 Erster Abschnitt
- 
- 
- 
+
+
+
 Begriffsbestimmungen
 Â§ 67
 Begriffsbestimmungen
- 
- 
+
+
 Zweiter Abschnitt
- 
- 
- 
+
+
+
 Verarbeitung von Sozialdaten
 Â§ 67a
 Erhebung von Sozialdaten
@@ -304,23 +304,23 @@ EinschrÃ¤nkung der Ãœbermittlungsbefugnis bei besonders schutzwÃ¼rdigen Sozialda
 Ãœbermittlung ins Ausland und an internationale Organisationen
 Â§ 78
 Zweckbindung und Geheimhaltungspflicht eines Dritten, an den Daten Ã¼bermittelt werden
- 
- 
+
+
 Dritter Abschnitt
- 
- 
- 
+
+
+
 Besondere Datenverarbeitungsarten
 Â§ 79
 Einrichtung automatisierter Verfahren auf Abruf
 Â§ 80
 Verarbeitung von Sozialdaten im Auftrag
- 
- 
+
+
 Vierter Abschnitt
- 
- 
- 
+
+
+
 Rechte der betroffenen Person, Beauftragte fÃ¼r den Datenschutz und Schlussvorschriften
 Â§ 81
 Recht auf Anrufung, Beauftragte fÃ¼r den Datenschutz
@@ -345,38 +345,38 @@ Strafvorschriften
 Â§ 85a
 BuÃŸgeldvorschriften
 Drittes Kapitel
- 
+
 Zusammenarbeit der LeistungstrÃ¤ger und ihre Beziehungen zu Dritten
- 
- 
+
+
 Erster Abschnitt
- 
- 
- 
+
+
+
 Zusammenarbeit der LeistungstrÃ¤ger untereinander und mit Dritten
- 
- 
- 
- 
+
+
+
+
 Erster Titel
- 
- 
- 
- 
- 
+
+
+
+
+
 Allgemeine Vorschriften
 Â§ 86
 Zusammenarbeit
- 
- 
- 
- 
+
+
+
+
 Zweiter Titel
- 
- 
- 
- 
- 
+
+
+
+
+
 Zusammenarbeit der LeistungstrÃ¤ger untereinander
 Â§ 87
 Beschleunigung der Zusammenarbeit
@@ -398,16 +398,16 @@ Arbeitsgemeinschaften
 Zusammenarbeit bei Planung und Forschung
 Â§ 96
 Ã„rztliche Untersuchungen, psychologische Eignungsuntersuchungen
- 
- 
- 
- 
+
+
+
+
 Dritter Titel
- 
- 
- 
- 
- 
+
+
+
+
+
 Zusammenarbeit der LeistungstrÃ¤ger mit Dritten
 Â§ 97
 DurchfÃ¼hrung von Aufgaben durch Dritte
@@ -421,12 +421,12 @@ Auskunftspflicht des Arztes oder AngehÃ¶rigen eines anderen Heilberufs
 Auskunftspflicht der LeistungstrÃ¤ger
 Â§ 101a
 Mitteilungen der MeldebehÃ¶rden
- 
- 
+
+
 Zweiter Abschnitt
- 
- 
- 
+
+
+
 ErstattungsansprÃ¼che der LeistungstrÃ¤ger untereinander
 Â§ 102
 Anspruch des vorlÃ¤ufig leistenden LeistungstrÃ¤gers
@@ -454,12 +454,12 @@ RÃ¼ckerstattung
 VerjÃ¤hrung
 Â§ 114
 Rechtsweg
- 
- 
+
+
 Dritter Abschnitt
- 
- 
- 
+
+
+
 Erstattungs- und ErsatzansprÃ¼che der LeistungstrÃ¤ger gegen Dritte
 Â§ 115
 AnsprÃ¼che gegen den Arbeitgeber
@@ -472,7 +472,7 @@ Bindung der Gerichte
 Â§ 119
 Ãœbergang von BeitragsansprÃ¼chen
 Viertes Kapitel
- 
+
 Ãœbergangs- und Schlussvorschriften
 Â§ 120
 Ãœbergangsregelung

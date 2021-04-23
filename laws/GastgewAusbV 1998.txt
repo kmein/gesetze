@@ -376,8 +376,8 @@ Umgang mit Gästen, Beratung und Verkauf (§ 4 Nr. 5)
 a)
 Auswirkungen des persönlichen Erscheinungsbildes und Verhaltens auf Gäste darstellen und begründen
 10
-�
-�
+
+
 b)
 Gastgeberfunktion wahrnehmen
 c)
@@ -399,8 +399,8 @@ Einsetzen von Geräten, Maschinen und Gebrauchsgütern, Arbeitsplanung (§ 4 Nr.
 a)
 Arbeitsschritte planen
 2
-�
-�
+
+
 b)
 Arbeitsplatz unter Berücksichtigung hygienischer und ergonomischer Anforderungen vorbereiten
 c)
@@ -414,8 +414,8 @@ Hygiene (§ 4 Nr. 7)
 a)
 Vorschriften und Grundsätze zur Personal- und Betriebshygiene anwenden
 2
-�
-�
+
+
 b)
 Desinfektions- und Reinigungsmittel ökonomisch einsetzen
 8
@@ -423,8 +423,8 @@ Küchenbereich (§ 4 Nr. 8)
 a)
 Produkte auf Beschaffenheit prüfen und Verwendungsmöglichkeiten zuordnen
 12
-�
-�
+
+
 b)
 Arbeitstechniken und Garverfahren zur Herstellung einfacher Speisen anwenden
 c)
@@ -440,8 +440,8 @@ Servicebereich (§ 4 Nr. 9)
 a)
 Verkaufsfähigkeit von Produkten prüfen
 12
-�
-�
+
+
 b)
 Aufguß- und Heißgetränke zubereiten sowie Getränke ausschenken
 c)
@@ -455,8 +455,8 @@ Büroorganisation und -kommunikation (§ 4 Nr. 10)
 a)
 arbeitsplatzbezogene schriftliche Arbeiten ausführen
 10
-�
-�
+
+
 b)
 Schriftstücke registrieren und ablegen
 c)
@@ -468,8 +468,8 @@ Warenwirtschaft (§ 4 Nr. 11)
 a)
 Waren annehmen, auf Gewicht, Menge und sichtbare Schäden prüfen und betriebsübliche Maßnahmen einleiten
 4
-�
-�
+
+
 b)
 Waren ihren Ansprüchen gemäß einlagern
 c)
@@ -479,9 +479,9 @@ Teil II: Gemeinsame berufliche Fachbildung
 Umgang mit Gästen, Beratung und Verkauf (§ 4 Nr. 5)
 a)
 Gespräche gäste- und unternehmensorientiert führen
-�
+
 12
-�
+
 b)
 sprachliche und nichtsprachliche Ausdrucksmöglichkeiten anwenden
 c)
@@ -494,18 +494,18 @@ Gäste unter Berücksichtigung ihrer Wünsche beraten
 Einsetzen von Geräten, Maschinen und Gebrauchsgütern, Arbeitsplanung (§ 4 Nr. 6)
 a)
 Wartung von Geräten und Maschinen sowie Instandsetzung von Gebrauchsgütern veranlassen
-�
+
 4
-�
+
 b)
 Arbeitsergebnisse kontrollieren und bewerten
 3
 Warenwirtschaft (§ 4 Nr. 11)
 a)
 arbeitsplatzbezogenen Warenbedarf ermitteln
-�
+
 12
-�
+
 b)
 Bestellungen einleiten
 c)
@@ -522,9 +522,9 @@ Verkaufspreise nach betrieblichem Kalkulationsschema ermitteln
 Werbung und Verkaufsförderung (§ 4 Nr. 12)
 a)
 Werbemittel und Werbeträger unterscheiden und für die Werbung des Ausbildungsbetriebes einsetzen
-�
+
 12
-�
+
 b)
 verkaufsfördernde Maßnahmen vorbereiten
 c)
@@ -537,9 +537,9 @@ werbewirksame Angebote erstellen
 Wirtschaftsdienst (§ 4 Nr. 13)
 a)
 Gästeräume angebots- und anlaßbezogen herrichten
-�
+
 12
-�
+
 b)
 Gästeräume reinigen und pflegen
 Teil III: Besondere berufliche Fachbildung: Restaurantfachmann/Restaurantfachfrau
@@ -547,8 +547,8 @@ Teil III: Besondere berufliche Fachbildung: Restaurantfachmann/Restaurantfachfra
 Umgang mit Gästen, Beratung und Verkauf (§ 5 Nr. 1)
 a)
 Speisen und Getränke anbieten
-�
-�
+
+
 14
 b)
 Beratungs- und Verkaufsgespräche planen, führen und nachbereiten
@@ -556,8 +556,8 @@ Beratungs- und Verkaufsgespräche planen, führen und nachbereiten
 Arbeiten am Tisch des Gastes (§ 5 Nr. 2)
 a)
 Getränke zubereiten, präsentieren und servieren
-�
-�
+
+
 12
 b)
 Speisen zubereiten, präsentieren und servieren
@@ -565,8 +565,8 @@ Speisen zubereiten, präsentieren und servieren
 Ausrichten von Festlichkeiten und Veranstaltungen (§ 5 Nr. 3)
 a)
 Ablauf von Festlichkeiten und Veranstaltungen planen
-�
-�
+
+
 12
 b)
 Menü mit korrespondierenden Getränken zusammenstellen
@@ -578,8 +578,8 @@ bei der Ausrichtung mitwirken
 Führen einer Station(§ 5 Nr. 4)
 a)
 Bestellungen entgegennehmen
-�
-�
+
+
 14
 b)
 Serviceablauf organisieren
@@ -598,8 +598,8 @@ Teil IV: Besondere berufliche Fachbildung: Hotelfachmann/Hotelfachfrau
 Umgang mit Gästen, Beratung und Verkauf (§ 6 Nr. 1)
 a)
 Anfragen bearbeiten und Angebote erstellen
-�
-�
+
+
 14
 b)
 Aufträge bestätigen und bearbeiten
@@ -609,8 +609,8 @@ Beratungs- und Verkaufsgespräche führen
 Empfang (§ 6 Nr. 2)
 a)
 Reservierungspläne bearbeiten und Zimmerbelegung festlegen
-�
-�
+
+
 14
 b)
 Informations- und Kommunikationstechniken aufgabenorientiert einsetzen
@@ -634,8 +634,8 @@ Währungen umrechnen
 Marketing (§ 6 Nr. 3)
 a)
 Marketingmaßnahmen entwickeln und durchführen
-�
-�
+
+
 12
 b)
 Ergebnisse von Marketingmaßnahmen kontrollieren
@@ -645,8 +645,8 @@ Maßnahmen zur Öffentlichkeitsarbeit durchführen
 Wirtschaftsdienst (§ 6 Nr. 4)
 a)
 bereichsbezogenen Personaleinsatz planen
-�
-�
+
+
 12
 b)
 Kontrollarbeiten unter Verwendung von Organisationsmitteln ausführen
@@ -655,8 +655,8 @@ Teil V: Besondere berufliche Fachbildung: Hotelkaufmann/Hotelkauffrau
 Personalwirtschaft (§ 7 Nr. 1)
 a)
 arbeits- und sozialrechtliche Bestimmungen sowie tarifliche und betriebliche Regelungen aufgabenorientiert anwenden
-�
-�
+
+
 14
 b)
 bei der Personalplanung mitwirken und Personalbeschaffungsmaßnahmen einleiten
@@ -672,8 +672,8 @@ eine Entgeltabrechnung erstellen
 Büroorganisation und -kommunikation (§ 7 Nr. 2)
 a)
 Besprechungen nach sachlichen und zeitlichen Vorgaben vor- und nachbereiten
-�
-�
+
+
 7
 b)
 Korrespondenz führen
@@ -689,8 +689,8 @@ Termine planen, koordinieren und überwachen
 Kaufmännische Steuerung und Kontrolle (§ 7 Nr. 3)
 a)
 vorbereitende Arbeiten für den Jahresabschluß durchführen
-�
-�
+
+
 16
 b)
 Zahlungsverkehr durchführen, Währungen umrechnen
@@ -714,8 +714,8 @@ Betriebsstatistiken führen
 Warenwirtschaft (§ 7 Nr. 4)
 a)
 Bezugsquellen ermitteln und Angebote einholen
-�
-�
+
+
 9
 b)
 Angebote hinsichtlich Art, Beschaffenheit, Preis, Menge, Qualität, Verpackungskosten, Lieferzeit, Liefer- und Zahlungsbedingungen vergleichen
@@ -725,8 +725,8 @@ Einkauf durchführen; Liefertermine überwachen
 Umgang mit Gästen, Beratung und Verkauf (§ 7 Nr. 5)
 a)
 Beratungsgespräche planen, führen und nachbereiten
-�
-�
+
+
 6
 b)
 einfache Auskünfte in einer Fremdsprache erteilen
@@ -737,8 +737,8 @@ Teil VI: Besondere berufliche Fachbildung: Fachmann für Systemgastronomie/Fachf
 Systemorganisation (§ 8 Nr. 1)
 a)
 Gastronomiekonzept des Ausbildungsbetriebes von anderen gastronomischen Konzepten abgrenzen
-�
-�
+
+
 14
 b)
 Einhaltung der Standards prüfen und bei Abweichungen Maßnahmen ergreifen
@@ -750,8 +750,8 @@ Informations- und Kommunikationswege im Rahmen der Ablauforganisation des Untern
 Marketing (§ 8 Nr. 2)
 a)
 Marketinginstrumente betriebsbezogen anwenden
-�
-�
+
+
 8
 b)
 Produktpräsentation zur Verkaufssteuerung einsetzen
@@ -761,8 +761,8 @@ Ergebnisse von Marketingmaßnahmen bewerten
 Umgang mit Gästen, Beratung und Verkauf (§ 8 Nr. 3)
 a)
 Beratungs- und Verkaufsgespräche unter Berücksichtigung des Marketingkonzeptes planen und führen
-�
-�
+
+
 6
 b)
 Beratungs- und Verkaufsgespräche nachbereiten und bewerten
@@ -772,8 +772,8 @@ einfache Auskünfte in einer Fremdsprache erteilen
 Personalwesen (§ 8 Nr. 4)
 a)
 Personaleinsatz planen
-�
-�
+
+
 12
 b)
 arbeits- und sozialrechtliche Bestimmungen sowie tarifliche und betriebliche Regelungen aufgabenorientiert anwenden
@@ -793,8 +793,8 @@ Ziele und Bedeutung von Mitarbeitergesprächen darstellen
 Steuerung und Kontrolle der betrieblichen Leistungserstellung (§ 8 Nr. 5)
 a)
 Belege bearbeiten und prüfen
-�
-�
+
+
 12
 b)
 Kostenkontrolle durchführen und geeignete Maßnahmen vorschlagen

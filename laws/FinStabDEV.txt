@@ -45,9 +45,9 @@ Diese Verordnung gilt für die Anforderung von Daten von finanziellen Kapitalges
 - 9. :: kumulierte Rückflüsse seit Ausfall: den Gesamtbetrag der Rückflüsse auf ausgefallene Darlehen für Wohnimmobilien ab dem Eintritt des Ausfalls;
 - 10. :: Ausfallquote: das Verhältnis zwischen den ausgefallenen Darlehen für Wohnimmobilien und dem Gesamtvolumen der vom Darlehensgeber vergebenen Darlehen zum Bau oder Erwerb von Wohnimmobilien in Prozent pro Jahr;
 - 11. :: interne Risikokennzahlen: Kennzahlen zur Risikosteuerung eines gewerblichen Darlehensgebers, insbesondere Angaben
-  - a) :: zur Ausfallwahrscheinlichkeit im Sinne von Artikel 4 Nummer 54 der Verordnung (EU) Nr. 575/2013 (�PD“),
-  - b) :: zur Verlustquote bei Ausfall im Sinne von Artikel 4 Nummer 55 der Verordnung (EU) Nr. 575/2013 (�LGD“) oder
-  - c) :: zum erwarteten Verlust im Sinne von Artikel 5 Nummer 3 der Verordnung (EU) Nr. 575/2013 (�EL“);
+  - a) :: zur Ausfallwahrscheinlichkeit im Sinne von Artikel 4 Nummer 54 der Verordnung (EU) Nr. 575/2013 (PD“),
+  - b) :: zur Verlustquote bei Ausfall im Sinne von Artikel 4 Nummer 55 der Verordnung (EU) Nr. 575/2013 (LGD“) oder
+  - c) :: zum erwarteten Verlust im Sinne von Artikel 5 Nummer 3 der Verordnung (EU) Nr. 575/2013 (EL“);
 - 12. :: Darlehensströme: die neu vergebenen Darlehen für Wohnimmobilien seit dem letzten Meldestichtag unterschieden nach originär neuen Darlehen für Wohnimmobilien und Prolongationen bestehender Darlehen für Wohnimmobilien;
 - 13. :: Bestandsgeschäft: die zu einem bestimmten Zeitpunkt in der Vergangenheit gewährten und bislang nicht vollständig zurückgeführten Darlehen für Wohnimmobilien des Meldepflichtigen;
 - 14. :: Darlehensvolumen-Immobilienwert-Relation: das Verhältnis zwischen dem gesamten Fremdkapitalvolumen einer Wohnimmobilienfinanzierung und dem Marktwert der hiermit finanzierten Wohnimmobilien;

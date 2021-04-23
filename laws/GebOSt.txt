@@ -104,12 +104,12 @@ Anhang - (zu Gebühren-Nummer 263.1.1) Entscheidung über eine Erlaubnis oder Au
 - 1. :: Die Grundgebühr für eine Entscheidung beträgt 40,00 Euro.
 - 2. :: Diese Grundgebühr erhöht sich in Abhängigkeit von den nachfolgenden Kriterien. Dabei wird für jedes einzelne Kriterium ein Erhöhungsfaktor ermittelt. Die Höhe des jeweiligen Faktors ergibt sich aus den nachfolgend festgelegten Formeln. Die Faktoren der einzelnen Kriterien können auch den Wert 0 ergeben.
   - a) :: Erlaubnis- oder Genehmigungszeitraum
-    Wird eine Erlaubnis oder eine Genehmigung für einen Zeitraum von mehr als einem Monat erteilt, berechnet sich der Faktor (f_{Z}) für das Kriterium �Erlaubnis- oder Genehmigungszeitraum“ wie folgt (x = die Anzahl der Monate im Einzelfall):
+    Wird eine Erlaubnis oder eine Genehmigung für einen Zeitraum von mehr als einem Monat erteilt, berechnet sich der Faktor (f_{Z}) für das Kriterium Erlaubnis- oder Genehmigungszeitraum“ wie folgt (x = die Anzahl der Monate im Einzelfall):
     | Zeitraum 1 bis 3 Monate            | f_{Z} = 0,5 · x - 0,5   |
     | Zeitraum mehr als 3 bis 12 Monate  | f_{Z} = 1/9 · x + 2/3   |
     | Zeitraum mehr als 12 bis 36 Monate | f_{Z} = 1/24 · x + 1,5. |
   - b) :: Gesamtmasse
-    Die Berechnung des Faktors (f_{M}) für das Kriterium �Gesamtmasse“ erfolgt nach der folgenden Formel (x = die Gesamtmasse des Fahrzeugs im Einzelfall):
+    Die Berechnung des Faktors (f_{M}) für das Kriterium Gesamtmasse“ erfolgt nach der folgenden Formel (x = die Gesamtmasse des Fahrzeugs im Einzelfall):
     | Gesamtmasse 41,8 t bis 200 t: | f_{M} = 0,037926675 · x - 1,58533502 |
     | Gesamtmasse mehr als 200 t:   | f_{M} = 0,01 · x + 4.                |
   - c) :: Anzahl der am Genehmigungsverfahren durch die Genehmigungsbehörde zu beteiligenden Stellen
@@ -117,7 +117,7 @@ Anhang - (zu Gebühren-Nummer 263.1.1) Entscheidung über eine Erlaubnis oder Au
     Die Berechnung des Faktors (f_{B}) erfolgt nach folgender Formel (x = die Summe der jeweils im Einzelfall beteiligten Stellen):
     f_{B} = 4/9 · x - 4/9.
   - d) :: Anzahl der zu genehmigenden Fahrtwege oder Flächen oder Bereiche
-    Als ein Fahrtweg gilt eine zusammenhängende Strecke, die aus Last- beziehungsweise Leerfahrtanteilen (= Fahrtweganteilen) bestehen kann. Bei flächendeckenden Daueranträgen gilt die Anzahl der nach Landesrecht festgelegten Flächen beziehungsweise Bereiche. Die �Anzahl“ gibt an, wie viele Fahrtwege, Flächen oder Bereiche Eingang in die Erlaubnis finden.
+    Als ein Fahrtweg gilt eine zusammenhängende Strecke, die aus Last- beziehungsweise Leerfahrtanteilen (= Fahrtweganteilen) bestehen kann. Bei flächendeckenden Daueranträgen gilt die Anzahl der nach Landesrecht festgelegten Flächen beziehungsweise Bereiche. Die Anzahl“ gibt an, wie viele Fahrtwege, Flächen oder Bereiche Eingang in die Erlaubnis finden.
     Die Berechnung des Faktors (f_{Str}) erfolgt nach folgender Formel (x = die Anzahl der jeweils im Einzelfall zu genehmigenden Fahrtwege/Flächen/Bereiche):
     f_{Str} = (x - 1) / 2.
   - e) :: Anzahl der von der Erlaubnis umfassten Fahrzeuge oder zulässigen Fahrzeugkombinationen
@@ -141,7 +141,7 @@ Anhang - (zu Gebühren-Nummer 263.1.1) Entscheidung über eine Erlaubnis oder Au
     | Aufwand sehr hoch            | f_{A} = 3  |
     | Aufwand außergewöhnlich hoch | f_{A} = 4. |
 
-    Das Kriterium �Zusätzlicher Arbeitsaufwand“ gliedert sich in die nachfolgend aufgeführten Unterkriterien. Der höchste jeweils im Einzelfall ermittelte Aufwand ist für die Bestimmung des Faktors (f_{A}) maßgeblich:
+    Das Kriterium Zusätzlicher Arbeitsaufwand“ gliedert sich in die nachfolgend aufgeführten Unterkriterien. Der höchste jeweils im Einzelfall ermittelte Aufwand ist für die Bestimmung des Faktors (f_{A}) maßgeblich:
     Aufwand
 - 3. :: Die Gesamtgebühr berechnet sich wie folgt:
   - a) :: Berechnung des Gesamtfaktors

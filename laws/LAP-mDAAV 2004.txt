@@ -11,7 +11,7 @@ Auf Grund des § 15 Abs. 1 Nr. 2 des Bundesbeamtengesetzes in der Fassung der Be
 Inhaltsübersicht
 
 Kapitel 1
-�
+
 Laufbahn und Ausbildung
 § 1
 Laufbahnämter
@@ -44,7 +44,7 @@ Ausbildungsleitung, Ausbilderinnen und Ausbilder während der Praktika
 § 15
 Leistungsnachweise während der fachtheoretischen Ausbildung und Bewertungen in den Praktika
 Kapitel 2
-�
+
 Laufbahnprüfung
 § 16
 Allgemeines
@@ -73,7 +73,7 @@ Prüfungsakten, Einsichtnahme
 § 28
 Wiederholung
 Kapitel 3
-�
+
 Aufstieg
 § 29
 Allgemeine Aufstiegsregelungen
@@ -82,7 +82,7 @@ Ausbildungsaufstieg
 § 31
 Praxisaufstieg
 Kapitel 4
-�
+
 Sonstige Vorschriften
 § 32
 Schwerbehinderte Menschen
@@ -334,27 +334,27 @@ Der Vorbereitungsdienst besteht aus einer fachtheoretischen und einer praktische
 (1) Die Leistungen werden mit folgenden Noten und Rangpunkten bewertet:\\
 sehr gut (1)
 eine Leistung, die den Anforderungen in besonderem Maße entspricht,
-�
+
 15 bis 14 Punkte
 gut (2)
 eine Leistung, die den Anforderungen voll entspricht,
-�
+
 13 bis 11 Punkte
 befriedigend (3)
 eine Leistung, die im Allgemeinen den Anforderungen entspricht,
-�
+
 10 bis 8 Punkte
 ausreichend (4)
 eine Leistung, die zwar Mängel aufweist, aber im Ganzen den Anforderungen noch entspricht,
-�
+
 7 bis 5 Punkte
 mangelhaft (5)
 eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen lässt, dass die notwendigen Grundkenntnisse vorhanden sind und die Mängel in absehbarer Zeit behoben werden könnten,
-�
+
 4 bis 2 Punkte
 ungenügend (6)
 eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Grundkenntnisse so lückenhaft sind, dass die Mängel in absehbarer Zeit nicht behoben werden könnten.
-�
+
 1 bis 0 Punkte
 \\
 Durchschnittspunktzahlen werden aus den Rangpunkten errechnet; sie werden auf zwei Dezimalstellen nach dem Komma ohne Auf- oder Abrundung berechnet.

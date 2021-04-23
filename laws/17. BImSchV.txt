@@ -6,11 +6,11 @@ Ausfertigungsdatum: 02.05.2013
 
 Inhaltsübersicht
 
-�
-�
-�
-�
-�
+
+
+
+
+
 
 § 1 - Anwendungsbereich
 
@@ -43,40 +43,40 @@ Inhaltsübersicht
 
 § 2 - Begriffsbestimmungen
 
-(1) �Abfall“ im Sinne dieser Verordnung sind Stoffe oder Gegenstände, die gemäß den Bestimmungen des Kreislaufwirtschaftsgesetzes vom 24. Februar 2012 (BGBl. I S. 212) in der jeweils geltenden Fassung Abfälle sind.
-(2) �Abfallmitverbrennende Großfeuerungsanlage“ im Sinne dieser Verordnung ist eine Abfallmitverbrennungsanlage mit einer Feuerungswärmeleistung von 50 Megawatt oder mehr.
-(3) �Abfallmitverbrennungsanlage“ im Sinne dieser Verordnung ist eine Feuerungsanlage, deren Hauptzweck in der Energiebereitstellung oder der Produktion stofflicher Erzeugnisse besteht und in der Abfälle oder Stoffe nach § 1 Absatz 1, bei gemischten Siedlungsabfällen nur soweit es sich um aufbereitete gemischte Siedlungsabfälle handelt,
+(1) Abfall“ im Sinne dieser Verordnung sind Stoffe oder Gegenstände, die gemäß den Bestimmungen des Kreislaufwirtschaftsgesetzes vom 24. Februar 2012 (BGBl. I S. 212) in der jeweils geltenden Fassung Abfälle sind.
+(2) Abfallmitverbrennende Großfeuerungsanlage“ im Sinne dieser Verordnung ist eine Abfallmitverbrennungsanlage mit einer Feuerungswärmeleistung von 50 Megawatt oder mehr.
+(3) Abfallmitverbrennungsanlage“ im Sinne dieser Verordnung ist eine Feuerungsanlage, deren Hauptzweck in der Energiebereitstellung oder der Produktion stofflicher Erzeugnisse besteht und in der Abfälle oder Stoffe nach § 1 Absatz 1, bei gemischten Siedlungsabfällen nur soweit es sich um aufbereitete gemischte Siedlungsabfälle handelt,
 
 - 1. :: als regelmäßige oder zusätzliche Brennstoffe verwendet werden oder
 - 2. :: mit dem Ziel der Beseitigung thermisch behandelt werden.
 
 Die Anlage in diesem Sinne erstreckt sich auf die gesamte Abfallmitverbrennungsanlage, dazu gehören alle Abfallmitverbrennungslinien, die Annahme und Lagerung der Abfälle und Stoffe nach § 1 Absatz 1, die auf dem Gelände befindlichen Vorbehandlungsanlagen, das Zufuhrsystem für Abfälle und Stoffe nach § 1 Absatz 1, für Brennstoffe und Luft, der Kessel, die Abgasbehandlungsanlagen, die auf dem Gelände befindlichen Anlagen zur Behandlung und Lagerung von Abfällen und Abwässern, die bei der Abfallmitverbrennung entstehen, der Schornstein, die Vorrichtungen und Systeme zur Kontrolle der Verbrennungsvorgänge, zur Aufzeichnung und zur Überwachung der Verbrennungsbedingungen. Falls die Abfallmitverbrennung in solch einer Weise erfolgt, dass der Hauptzweck der Anlage nicht in der Energiebereitstellung oder der Produktion stofflicher Erzeugnisse, sondern in der thermischen Behandlung von Abfällen besteht, gilt die Anlage als Abfallverbrennungsanlage im Sinne des Absatzes 4.
 
-(4) �Abfallverbrennungsanlage“ im Sinne dieser Verordnung ist eine Feuerungsanlage, deren Hauptzweck darin besteht, thermische Verfahren zur Behandlung von Abfällen oder Stoffen nach § 1 Absatz 1 zu verwenden. Diese Verfahren umfassen die Verbrennung durch Oxidation der oben genannten Stoffe und andere vergleichbare thermische Verfahren wie Pyrolyse, Vergasung oder Plasmaverfahren, soweit die bei den vorgenannten thermischen Verfahren aus Abfällen entstehenden festen, flüssigen oder gasförmigen Stoffe verbrannt werden. Die Anlage in diesem Sinne erstreckt sich auf die gesamte Abfallverbrennungsanlage, dazu gehören alle Abfallverbrennungslinien, die Annahme und Lagerung der Abfälle und Stoffe nach § 1 Absatz 1, die auf dem Gelände befindlichen Vorbehandlungsanlagen, das Zufuhrsystem für Abfälle und Stoffe nach § 1 Absatz 1, für Brennstoffe und Luft, der Kessel, die Abgasbehandlungsanlagen, die auf dem Gelände befindlichen Anlagen zur Behandlung und Lagerung von Abfällen und Abwässern, die bei der Abfallverbrennung entstehen, der Schornstein, die Vorrichtungen und Systeme zur Kontrolle der Verbrennungsvorgänge, zur Aufzeichnung und zur Überwachung der Verbrennungsbedingungen.
-(5) �Abfallverbrennungs- oder -mitverbrennungslinie“ im Sinne dieser Verordnung ist die jeweilige technische Einrichtung der Abfallverbrennungs- oder -mitverbrennungsanlage; dazu gehören ein Brennraum, gegebenenfalls ein Brenner, und die dazugehörige Steuerungseinheit, eine Abgasreinigungseinrichtung sowie sonstige Nebeneinrichtungen entsprechend § 1 Absatz 2 Nummer 2 der Verordnung über genehmigungsbedürftige Anlagen.
-(6) �Abgas“ im Sinne dieser Verordnung ist das Trägergas mit den festen, flüssigen oder gasförmigen Emissionen, angegeben als Volumenstrom in der Einheit Kubikmeter je Stunde (m³/h) und bezogen auf das Abgasvolumen im Normzustand (Temperatur 273,15 Kelvin (K), Druck 101,3 Kilopascal (kPa)) nach Abzug des Feuchtegehalts an Wasserdampf.
-(7) �Aufbereitete gemischte Siedlungsabfälle“ im Sinne dieser Verordnung sind gemischte Siedlungsabfälle, für die zum Zwecke der Mitverbrennung Maßnahmen ergriffen wurden, die eine Belastung mit anorganischen Schadstoffen, insbesondere Schwermetallen, deutlich reduzieren; Trocknen, Pressen oder Mischen zählen in der Regel nicht zu diesen Maßnahmen.
-(8) �Bestehende abfallmitverbrennende Großfeuerungsanlage“ im Sinne dieser Verordnung ist eine abfallmitverbrennende Großfeuerungsanlage,
+(4) Abfallverbrennungsanlage“ im Sinne dieser Verordnung ist eine Feuerungsanlage, deren Hauptzweck darin besteht, thermische Verfahren zur Behandlung von Abfällen oder Stoffen nach § 1 Absatz 1 zu verwenden. Diese Verfahren umfassen die Verbrennung durch Oxidation der oben genannten Stoffe und andere vergleichbare thermische Verfahren wie Pyrolyse, Vergasung oder Plasmaverfahren, soweit die bei den vorgenannten thermischen Verfahren aus Abfällen entstehenden festen, flüssigen oder gasförmigen Stoffe verbrannt werden. Die Anlage in diesem Sinne erstreckt sich auf die gesamte Abfallverbrennungsanlage, dazu gehören alle Abfallverbrennungslinien, die Annahme und Lagerung der Abfälle und Stoffe nach § 1 Absatz 1, die auf dem Gelände befindlichen Vorbehandlungsanlagen, das Zufuhrsystem für Abfälle und Stoffe nach § 1 Absatz 1, für Brennstoffe und Luft, der Kessel, die Abgasbehandlungsanlagen, die auf dem Gelände befindlichen Anlagen zur Behandlung und Lagerung von Abfällen und Abwässern, die bei der Abfallverbrennung entstehen, der Schornstein, die Vorrichtungen und Systeme zur Kontrolle der Verbrennungsvorgänge, zur Aufzeichnung und zur Überwachung der Verbrennungsbedingungen.
+(5) Abfallverbrennungs- oder -mitverbrennungslinie“ im Sinne dieser Verordnung ist die jeweilige technische Einrichtung der Abfallverbrennungs- oder -mitverbrennungsanlage; dazu gehören ein Brennraum, gegebenenfalls ein Brenner, und die dazugehörige Steuerungseinheit, eine Abgasreinigungseinrichtung sowie sonstige Nebeneinrichtungen entsprechend § 1 Absatz 2 Nummer 2 der Verordnung über genehmigungsbedürftige Anlagen.
+(6) Abgas“ im Sinne dieser Verordnung ist das Trägergas mit den festen, flüssigen oder gasförmigen Emissionen, angegeben als Volumenstrom in der Einheit Kubikmeter je Stunde (m³/h) und bezogen auf das Abgasvolumen im Normzustand (Temperatur 273,15 Kelvin (K), Druck 101,3 Kilopascal (kPa)) nach Abzug des Feuchtegehalts an Wasserdampf.
+(7) Aufbereitete gemischte Siedlungsabfälle“ im Sinne dieser Verordnung sind gemischte Siedlungsabfälle, für die zum Zwecke der Mitverbrennung Maßnahmen ergriffen wurden, die eine Belastung mit anorganischen Schadstoffen, insbesondere Schwermetallen, deutlich reduzieren; Trocknen, Pressen oder Mischen zählen in der Regel nicht zu diesen Maßnahmen.
+(8) Bestehende abfallmitverbrennende Großfeuerungsanlage“ im Sinne dieser Verordnung ist eine abfallmitverbrennende Großfeuerungsanlage,
 
 - 1. :: die nach § 67 Absatz 2 oder § 67a Absatz 1 des Bundes-Immissionsschutzgesetzes oder vor Inkrafttreten des Bundes-Immissionsschutzgesetzes nach § 16 Absatz 4 der Gewerbeordnung anzuzeigen war,
 - 2. :: für die die erste Genehmigung zur Errichtung und zum Betrieb nach § 4 oder § 16 des Bundes-Immissionsschutzgesetzes vor dem 7. Januar 2013 erteilt worden ist und die vor dem 7. Januar 2014 in Betrieb gegangen ist, oder
 - 3. :: für die der Betreiber vor dem 7. Januar 2013 einen vollständigen Genehmigungsantrag zur Errichtung und zum Betrieb nach § 4 oder § 16 des Bundes-Immissionsschutzgesetzes gestellt hat und die vor dem 7. Januar 2014 in Betrieb gegangen ist.
 
-(9) �Bestehende Abfallverbrennungs- oder -mitverbrennungsanlage“ im Sinne dieser Verordnung ist eine Abfallverbrennungs- oder -mitverbrennungsanlage, ausgenommen abfallmitverbrennende Großfeuerungsanlagen, die vor dem 2. Mai 2013 genehmigt oder errichtet wurde.
-(10) �Bezugssauerstoffgehalt“ im Sinne dieser Verordnung ist der jeweils vorgegebene oder zu berechnende Volumengehalt an Sauerstoff im Abgas, auf den der jeweilige Emissionsgrenzwert unter Berücksichtigung von Anlage 5 zu beziehen ist.
-(11) �Biobrennstoffe“ im Sinne dieser Verordnung sind Biobrennstoffe gemäß § 2 Absatz 6 der Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen.
-(12) �Emissionen“ im Sinne dieser Verordnung sind die von einer Anlage ausgehenden Luftverunreinigungen; angegeben als Massenkonzentration in der Einheit Milligramm je Kubikmeter Abgas (mg/m³) oder Nanogramm je Kubikmeter Abgas (ng/m³) oder als Massenstrom in der Einheit Megagramm pro Jahr (Mg/a).
-(13) �Emissionsgrenzwert“ im Sinne dieser Verordnung ist die Emission einer Anlage, die zulässigerweise in die Luft abgeleitet werden darf, angegeben als Massenkonzentration und bezogen auf den jeweiligen Bezugssauerstoffgehalt.
-(14) �Erdgas“ im Sinne dieser Verordnung sind
+(9) Bestehende Abfallverbrennungs- oder -mitverbrennungsanlage“ im Sinne dieser Verordnung ist eine Abfallverbrennungs- oder -mitverbrennungsanlage, ausgenommen abfallmitverbrennende Großfeuerungsanlagen, die vor dem 2. Mai 2013 genehmigt oder errichtet wurde.
+(10) Bezugssauerstoffgehalt“ im Sinne dieser Verordnung ist der jeweils vorgegebene oder zu berechnende Volumengehalt an Sauerstoff im Abgas, auf den der jeweilige Emissionsgrenzwert unter Berücksichtigung von Anlage 5 zu beziehen ist.
+(11) Biobrennstoffe“ im Sinne dieser Verordnung sind Biobrennstoffe gemäß § 2 Absatz 6 der Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen.
+(12) Emissionen“ im Sinne dieser Verordnung sind die von einer Anlage ausgehenden Luftverunreinigungen; angegeben als Massenkonzentration in der Einheit Milligramm je Kubikmeter Abgas (mg/m³) oder Nanogramm je Kubikmeter Abgas (ng/m³) oder als Massenstrom in der Einheit Megagramm pro Jahr (Mg/a).
+(13) Emissionsgrenzwert“ im Sinne dieser Verordnung ist die Emission einer Anlage, die zulässigerweise in die Luft abgeleitet werden darf, angegeben als Massenkonzentration und bezogen auf den jeweiligen Bezugssauerstoffgehalt.
+(14) Erdgas“ im Sinne dieser Verordnung sind
 
 - 1. :: natürlich vorkommendes Methangas mit nicht mehr als 20 Volumenprozent an Inertgasen und sonstigen Bestandteilen, das den Anforderungen des DVGW-Arbeitsblattes G 260 vom Mai 2008 für Gase der 2. Gasfamilie entspricht, sowie
 - 2. :: Klär-, Bio- und Grubengase nach DVGW-Arbeitsblatt G 262 vom September 2011, die die Bedingungen des DVGW-Arbeitsblattes G 260 als Austauschgas oder als Zusatzgas zur Konditionierung erfüllen und insoweit die Grundgase der 2. Gasfamilie in der öffentlichen Gasversorgung ersetzen oder ergänzen.
 
-(15) �Feuerungsanlage“ im Sinne dieser Verordnung ist jede Anlage, in der Brennstoff zur Nutzung der erzeugten Wärme oxidiert wird.
-(16) �Feuerungswärmeleistung“ im Sinne dieser Verordnung ist der auf den unteren Heizwert bezogene Wärmeinhalt der Brenn- oder Einsatzstoffe, der einer Anlage im Dauerbetrieb je Zeiteinheit zugeführt wird, angegeben in Megawatt (MW).
-(17) �Gemischte Siedlungsabfälle“ im Sinne dieser Verordnung sind Abfälle aus Haushaltungen sowie gewerbliche, industrielle Abfälle und Abfälle aus Einrichtungen, die auf Grund ihrer Beschaffenheit oder Zusammensetzung den Abfällen aus Haushaltungen ähnlich sind. Zu den gemischten Siedlungsabfällen im Sinne dieser Verordnung gehören weder die unter der Abfallgruppe 20 01 der Abfallverzeichnis-Verordnung<<FnR.f779978_04>>[[#f779978_04][*]]} genannten Abfallfraktionen, die am Entstehungsort getrennt eingesammelt werden, noch die unter der Abfallgruppe 20 02 derselben Verordnung genannten Abfälle.
-(18) �Gefährliche Abfälle“ im Sinne dieser Verordnung sind gefährliche Abfälle gemäß der Abfallverzeichnis-Verordnung.
-(19) �Leichtes Heizöl“ im Sinne dieser Verordnung ist Heizöl EL nach DIN 51603-1, Ausgabe August 2008.
+(15) Feuerungsanlage“ im Sinne dieser Verordnung ist jede Anlage, in der Brennstoff zur Nutzung der erzeugten Wärme oxidiert wird.
+(16) Feuerungswärmeleistung“ im Sinne dieser Verordnung ist der auf den unteren Heizwert bezogene Wärmeinhalt der Brenn- oder Einsatzstoffe, der einer Anlage im Dauerbetrieb je Zeiteinheit zugeführt wird, angegeben in Megawatt (MW).
+(17) Gemischte Siedlungsabfälle“ im Sinne dieser Verordnung sind Abfälle aus Haushaltungen sowie gewerbliche, industrielle Abfälle und Abfälle aus Einrichtungen, die auf Grund ihrer Beschaffenheit oder Zusammensetzung den Abfällen aus Haushaltungen ähnlich sind. Zu den gemischten Siedlungsabfällen im Sinne dieser Verordnung gehören weder die unter der Abfallgruppe 20 01 der Abfallverzeichnis-Verordnung<<FnR.f779978_04>>[[#f779978_04][*]]} genannten Abfallfraktionen, die am Entstehungsort getrennt eingesammelt werden, noch die unter der Abfallgruppe 20 02 derselben Verordnung genannten Abfälle.
+(18) Gefährliche Abfälle“ im Sinne dieser Verordnung sind gefährliche Abfälle gemäß der Abfallverzeichnis-Verordnung.
+(19) Leichtes Heizöl“ im Sinne dieser Verordnung ist Heizöl EL nach DIN 51603-1, Ausgabe August 2008.
 
 § 3 - Anforderungen an die Anlieferung, die Annahme und die Zwischenlagerung der Einsatzstoffe
 
@@ -599,7 +599,7 @@ Octachlordibenzofuran (OCDF)\\
 Polychlorierte Biphenyle
 WHO-TEF 2005
 Non ortho PCB
-�
+
 PCB 77
 0,0001
 PCB 81
@@ -609,7 +609,7 @@ PCB 126
 PCB 169
 0,03
 Mono ortho PCB
-�
+
 PCB 105
 0,00003
 PCB 114
@@ -717,7 +717,7 @@ sions-\\
 para-\\
 meter
 
-�
+
 
 < 50 MW
 
@@ -806,7 +806,7 @@ sions-\\
 para-\\
 meter
 
-�
+
 
 < 50 MW
 
@@ -862,7 +862,7 @@ Brennstoff
 
 CO
 
-�
+
 
 80
 
@@ -976,15 +976,15 @@ a)
 
 Stickstoffmonoxid und Stickstoffdioxid, angegeben als Stickstoffdioxid, bei einer Feuerungswärmeleistung von
 
-�
 
-�
+
+
 
 aa) 50 MW bis 100 MW
 
 250
 
-�
+
 
 bb) mehr als 100 MW
 

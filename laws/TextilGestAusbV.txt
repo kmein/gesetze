@@ -11,7 +11,7 @@ Auf Grund des § 25 Absatz 1 Satz 1 der Handwerksordnung, der zuletzt durch Arti
 § 1 - Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf des Textilgestalters und der Textilgestalterin im Handwerk wird nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe Nummer 20, Textilgestalter, der Anlage B 1 der Handwerksordnung staatlich anerkannt.
-§ 1 Kursivdruck: Müsste richtig � Anlage B Abschnitt 1“ lauten
+§ 1 Kursivdruck: Müsste richtig  Anlage B Abschnitt 1“ lauten
 
 § 2 - Dauer der Berufsausbildung
 
@@ -537,17 +537,17 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 (2) Die Gesellenprüfung ist bestanden, wenn die Leistungen
 
-- 1. :: im Gesamtergebnis mit mindestens �ausreichend“,
-- 2. :: in mindestens drei Prüfungsbereichen mit mindestens �ausreichend“ und
-- 3. :: in keinem Prüfungsbereich mit �ungenügend“
+- 1. :: im Gesamtergebnis mit mindestens ausreichend“,
+- 2. :: in mindestens drei Prüfungsbereichen mit mindestens ausreichend“ und
+- 3. :: in keinem Prüfungsbereich mit ungenügend“
 
 bewertet worden sind.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als �ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 § 14 - Zusatzqualifikation
 
-(1) Über das in § 4 Absatz 2 beschriebene Berufsbild hinaus kann die Zusatzqualifikation �Paramentik“ vermittelt werden.
+(1) Über das in § 4 Absatz 2 beschriebene Berufsbild hinaus kann die Zusatzqualifikation Paramentik“ vermittelt werden.
 (2) Gegenstand der Zusatzqualifikation sind die in der Anlage 2 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 § 15 - Prüfung der Zusatzqualifikation

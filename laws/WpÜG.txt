@@ -8,17 +8,17 @@ Inhaltsübersicht
 
 Abschnitt 1
 Allgemeine Vorschriften
-�
+
 § 1
 Anwendungsbereich
 § 2
 Begriffsbestimmungen
 § 3
 Allgemeine Grundsätze
-�
+
 Abschnitt 2
 Zuständigkeit der Bundesanstalt für Finanzdienstleistungsaufsicht
-�
+
 § 4
 Aufgaben und Befugnisse
 § 5
@@ -31,10 +31,10 @@ Zusammenarbeit mit Aufsichtsbehörden im Inland
 Zusammenarbeit mit zuständigen Stellen im Ausland
 § 9
 Verschwiegenheitspflicht
-�
+
 Abschnitt 3
 Angebote zum Erwerb von Wertpapieren
-�
+
 § 10
 Veröffentlichung der Entscheidung zur Abgabe eines Angebots
 § 11
@@ -75,10 +75,10 @@ Sperrfrist
 Stellungnahme des Vorstands und Aufsichtsrats der Zielgesellschaft
 § 28
 Werbung
-�
+
 Abschnitt 4
 Übernahmeangebote
-�
+
 § 29
 Begriffsbestimmungen
 § 30
@@ -99,10 +99,10 @@ Vorbehalt der Gegenseitigkeit
 Verbot der Gewährung ungerechtfertigter Leistungen
 § 34
 Anwendung der Vorschriften des Abschnitts 3
-�
+
 Abschnitt 5
 Pflichtangebote
-�
+
 § 35
 Verpflichtung zur Veröffentlichung und zur Abgabe eines Angebots
 § 36
@@ -113,20 +113,20 @@ Befreiung von der Verpflichtung zur Veröffentlichung und zur Abgabe eines Angeb
 Anspruch auf Zinsen
 § 39
 Anwendung der Vorschriften des Abschnitts 3 und 4
-�
+
 Abschnitt 5a
 Ausschluss, Andienungsrecht
-�
+
 § 39a
 Ausschluss der übrigen Aktionäre
 § 39b
 Ausschlussverfahren
 § 39c
 Andienungsrecht
-�
+
 Abschnitt 6
 Verfahren
-�
+
 § 40
 Ermittlungsbefugnisse der Bundesanstalt
 § 41
@@ -143,10 +143,10 @@ Mitteilungen an die Bundesanstalt
 Zwangsmittel
 § 47
 Gebühren und Auslagen
-�
+
 Abschnitt 7
 Rechtsmittel
-�
+
 § 48
 Statthaftigkeit, Zuständigkeit
 § 49
@@ -169,10 +169,10 @@ Beschwerdeentscheidung; Vorlagepflicht
 Akteneinsicht
 § 58
 Geltung von Vorschriften des Gerichtsverfassungsgesetzes und der Zivilprozessordnung
-�
+
 Abschnitt 8
 Sanktionen
-�
+
 § 59
 Rechtsverlust
 § 60
@@ -187,10 +187,10 @@ Rechtsbeschwerde zum Bundesgerichtshof
 Wiederaufnahme gegen Bußgeldbescheid
 § 65
 Gerichtliche Entscheidung bei der Vollstreckung
-�
+
 Abschnitt 9
 Gerichtliche Zuständigkeit; Übergangsregelungen
-�
+
 § 66
 Gerichte für Wertpapiererwerbs- und Übernahmesachen
 § 67

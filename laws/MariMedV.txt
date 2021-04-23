@@ -208,7 +208,7 @@ erwirkt hat. Die Zulassung ist zu widerrufen, wenn der Anbieter nicht mehr über
 
 - 1. :: die Vorlage der Approbationsurkunde,
 - 2. :: einen Nachweis der Anerkennung als Arzt für Allgemeinmedizin, Anästhesiologie, Chirurgie oder Innere Medizin,
-- 3. :: einen Nachweis der Zusatzbezeichnung �Notfallmedizin“ oder Fachkundenachweis �Rettungsmedizin“,
+- 3. :: einen Nachweis der Zusatzbezeichnung Notfallmedizin“ oder Fachkundenachweis Rettungsmedizin“,
 - 4. :: einen Nachweis über mindestens vierwöchige praktische Erfahrungen auf einem Seeschiff und über umfassende Kenntnisse der gesundheitlichen Anforderungen im Schiffsdienst,
 - 5. :: einen Nachweis, dass er auf einem Kauffahrteischiff unter deutscher Flagge als Schiffsarzt tätig werden wird oder tätig ist, insbesondere einen Heuervertrag nach § 28 des Seearbeitsgesetzes.
 
@@ -257,7 +257,7 @@ Anlage 1 - (zu § 3 und § 13 Absatz 1 Nummer 1 und Absatz 3)Anforderungen an di
 - ³ :: Gemäß Definition der Internationalen Empfehlungen für die Anforderungen an die Farbtüchtigkeit im Verkehr der Internationalen Beleuchtungskommission (CIE 143-2010, einschließlich der ggf. vorliegenden Folgeversionen).
 - ⁴ :: Wenn die ersten Untersuchungsergebnisse Hinweise für Einschränkungen ergeben, ist die zu untersuchende Person zusätzlich augenfachärztlich zu begutachten.
 - ⁵ :: CIE Farbsehvermögen Norm 1.
-- ⁶ :: Angehörige der Dienstzweige �Technischer Dienst“, �Elektrotechnischer Dienst“, �Küche und Bedienung“ sowie �Übriger Schiffsdienst“ müssen ein kombiniertes Sehvermögen von mindestens 0,4 haben.
+- ⁶ :: Angehörige der Dienstzweige Technischer Dienst“, Elektrotechnischer Dienst“, Küche und Bedienung“ sowie Übriger Schiffsdienst“ müssen ein kombiniertes Sehvermögen von mindestens 0,4 haben.
 - ⁷ :: CIE Farbsehvermögen Norm 1, 2 oder 3.
 
 Alle Besatzungsmitglieder müssen auf jedem Auge ohne Sehhilfen ein Mindestsehvermögen von 0,1 erreichen (STCW-Code, Abschnitt B-I/9, Absatz 10).
@@ -470,23 +470,23 @@ Die nachfolgend aufgeführte Tabelle ist wie folgt aufgebaut:
 - -- Spalte 5: :: Voraussetzungen, unter denen die zu untersuchende Person die Anforderungen für eine Tätigkeit an Bord in dem vorgesehenen Bereich aller Voraussicht nach erfüllt.
   Diese Spalte ist bei der Beurteilung der Seediensttauglichkeit heranzuziehen, wenn die zu untersuchende Person die Kriterien aus Spalte 3 oder 4 nicht erfüllt.
 
-Bei einigen Krankheiten sind eine oder mehrere Spalten entweder nicht relevant oder es handelt sich nicht um eine geeignete Beurteilungskategorie. Dieser Sachverhalt wird mit dem Begriff �nicht zutreffend“ gekennzeichnet.\\
+Bei einigen Krankheiten sind eine oder mehrere Spalten entweder nicht relevant oder es handelt sich nicht um eine geeignete Beurteilungskategorie. Dieser Sachverhalt wird mit dem Begriff nicht zutreffend“ gekennzeichnet.\\
 \\
 
 Einschränkungen hinsichtlich der Seediensttauglichkeit:
 
-- T = :: �temporary“: Voraussichtlich vorübergehende Erkrankung (weniger als zwei Jahre)
+- T = :: temporary“: Voraussichtlich vorübergehende Erkrankung (weniger als zwei Jahre)
   Besatzungsmitglied ist in der Regel seedienstuntauglich.
-- P = :: �permanent“: Voraussichtlich dauerhafte Erkrankung (mehr als zwei Jahre)
+- P = :: permanent“: Voraussichtlich dauerhafte Erkrankung (mehr als zwei Jahre)
   Besatzungsmitglied ist in der Regel seedienstuntauglich.
-- R = :: �restricted“: Einschränkungen wie folgt:
+- R = :: restricted“: Einschränkungen wie folgt:
   - 1. :: Tätigkeit: Kann einige, aber nicht alle Routine- und Notfallaufgaben an Bord ausführen, ohne dass dies zu zusätzlichen Aufgaben oder einer vermehrten Verantwortung Dritter führt,
 
   oder
   - 2. :: Fahrtgebiet: Das Besatzungsmitglied ist durch die Arbeit unter bestimmten klimatischen Bedingungen oder in großer Entfernung zu der medizinischen Versorgung an Land einem erhöhten Risiko ausgesetzt, ernsthafte Schädigungen zu erleiden.
 
   Das Besatzungsmitglied ist in Bezug auf die Tätigkeit oder das Fahrtgebiet eingeschränkt seediensttauglich.
-- L = :: �limited“: Besatzungsmitglied muss wegen seines Gesundheitszustandes häufiger als alle zwei Jahre untersucht werden.
+- L = :: limited“: Besatzungsmitglied muss wegen seines Gesundheitszustandes häufiger als alle zwei Jahre untersucht werden.
   Gültigkeitsdauer des Seediensttauglichkeitszeugnisses wird begrenzt.
 
 \\
@@ -512,11 +512,11 @@ A00--B99
 
 Infektionen
 
-�
 
-�
 
-�
+
+
+
 
 A00--09
 
@@ -608,11 +608,11 @@ C00--48
 
 Krebserkrankungen
 
-�
 
-�
 
-�
+
+
+
 
 C00--D48
 
@@ -658,11 +658,11 @@ D50--89
 
 Bluterkrankungen
 
-�
 
-�
 
-�
+
+
+
 
 D50--59
 
@@ -704,11 +704,11 @@ E00--90
 
 Endokrine und Stoffwechselerkrankungen
 
-�
 
-�
 
-�
+
+
+
 
 E10
 
@@ -738,7 +738,7 @@ L -- Zeitliche Befristung, wenn die Therapieadhärenz/Compliance der Person schl
 
 Wenn Zustand stabil ist und keine einschränkenden Komplikationen vorliegen
 
-�
+
 
 Diabetes mellitus -- nicht mit Insulin behandelt, ausschließlich durch Einhaltung einer Diät behandelt\\
 Progression hin zur Insulinbedürftigkeit/-therapie\\
@@ -783,11 +783,11 @@ F00--99
 
 Psychische, kognitive und Verhaltensstörungen
 
-�
 
-�
 
-�
+
+
+
 
 F10
 
@@ -916,7 +916,7 @@ R, L -- Einschränkung auf küstennahe Gewässer und keine Arbeit als Kapitän m
 
 Beurteilung des Einzelfalls. Um das Risiko für ein Rezidiv weitgehend auszuschließen, Beurteilung frühestens zwei Jahre nach der Episode, sofern keine weiteren Episoden aufgetreten sind und keine medikamentöse Behandlung mehr erfolgt oder unter medikamentöser Behandlung keine beeinträchtigenden Nebenwirkungen bestehen
 
-�
+
 
 Affektive Störungen\\
 Leichte oder reaktive Symptome von Angst oder Depression\\
@@ -945,11 +945,11 @@ G00--99
 
 Krankheiten des Nervensystems
 
-�
 
-�
 
-�
+
+
+
 
 G40--41
 
@@ -963,7 +963,7 @@ R -- Frühestens ein Jahr nach dem Anfall und unter stabiler medikamentöser Ein
 
 Frühestens ein Jahr nach dem Anfall und ein Jahr nach dem Ende der Behandlung. Wenn es auslösende Faktoren gab, keine fortgesetzte Exposition zu diesen auslösenden Faktoren
 
-�
+
 
 Epilepsie -- ohne auslösende Faktoren (wiederholte Anfälle)\\
 Gefährdung des Schiffes oder anderer Personen oder Selbstgefährdung durch Anfälle\\
@@ -975,7 +975,7 @@ R -- Sofern ohne Medikation oder unter stabiler medikamentöser Einstellung bei 
 
 Anfallsfrei mindestens in den letzten zehn Jahren, keine Einnahme antikonvulsiver Medikamente in diesem Zehnjahreszeitraum und kein fortbestehendes Risiko für das Auftreten von Krampfanfällen
 
-�
+
 
 Epilepsie -- verursacht durch Alkohol, Medikamente, Kopfverletzungen (wiederholte Anfälle)\\
 Schädigung des Schiffes oder anderer Personen oder Selbstverletzung durch Anfälle
@@ -1010,7 +1010,7 @@ L -- Wenn die Behandlung bereits mindestens drei Monate nachweislich effektiv du
 
 Beurteilung des Einzelfalls auf der Grundlage der Anforderungen der Routine- und Notfallaufgaben, unter Berücksichtigung der Empfehlungen eines Facharztes
 
-�
+
 
 Narkolepsie\\
 Müdigkeit und Einschlafen während der Arbeit
@@ -1044,14 +1044,14 @@ Rezidiv mit Verletzungen oder Kontrollverlust
 T -- Bis zur Klärung der Ursache und bis zum Nachweis, dass die zugrunde liegende Erkrankung kontrolliert ist\\
 Krankheitsbild:
 
-�
 
-�
+
+
 
 - a) :: eine einfache Ohn-\\
   macht,\\
 
-�
+
 
 Einfache Ohnmacht, keine rezidivierenden Schwächezustände
 
@@ -1127,11 +1127,11 @@ H00--99
 
 Erkrankungen der Augen und Ohren
 
-�
 
-�
 
-�
+
+
+
 
 H00--59
 
@@ -1187,11 +1187,11 @@ I00--99
 
 Herz-Kreislaufsystem
 
-�
 
-�
 
-�
+
+
+
 
 I05--08\\
 I34--39
@@ -1355,11 +1355,11 @@ J00--99
 
 Atmungssystem
 
-�
 
-�
 
-�
+
+
+
 
 J02--04\\
 J30--39
@@ -1420,11 +1420,11 @@ K00--99
 
 Verdauungssystem
 
-�
 
-�
 
-�
+
+
+
 
 K01--06
 
@@ -1560,11 +1560,11 @@ N00--99
 
 Krankheiten des Urogenitalsystems
 
-�
 
-�
 
-�
+
+
+
 
 N00, N17
 
@@ -1652,11 +1652,11 @@ O00--99
 
 Schwangerschaft
 
-�
 
-�
 
-�
+
+
+
 
 O00--99<<FnR.F785641_02>>[[#F785641_02][1]]}
 
@@ -1674,11 +1674,11 @@ L00--99
 
 Haut
 
-�
 
-�
 
-�
+
+
+
 
 L00--08
 
@@ -1708,11 +1708,11 @@ M00--99
 
 Muskel-Skelett-System
 
-�
 
-�
 
-�
+
+
+
 
 M10--23
 
@@ -1762,15 +1762,15 @@ R -- Wenn Routine- oder Notfallaufgaben ausgeführt werden können, aber Einschr
 
 Wenn die allgemeinen Anforderungen an die Tauglichkeit in vollem Umfang erfüllt werden. Vorkehrungen für das Anlegen der Prothese im Notfall müssen nachgewiesen werden
 
-�
+
 
 Allgemeine Erkrankungen
 
-�
 
-�
 
-�
+
+
+
 
 R47, F80
 
@@ -1937,7 +1937,7 @@ Anlage 2 - (zu § 4 Absatz 1)Durchführung der Seediensttauglichkeitsuntersuchun
   Der zugelassene Arzt oder der Arzt des seeärztlichen Dienstes prüft das Hörvermögen, in dem sie/er in Richtung der zu untersuchenden Person, die in einer bestimmten Entfernung steht, mehrere Sätze in Flüstersprache spricht und überprüft, ob die zu untersuchende Person den Inhalt dieser Sätze verstanden hat. Je nach Dienstzweig hat die zu untersuchende Person die Sätze mit dem der Ärztin/dem Arzt zugewendeten Ohr oder mit beiden Ohren zugleich zu verstehen. Die Einzelheiten ergeben sich aus der Anlage 1 der Verordnung.
 - 4.2 :: Audiometrie bei Nachuntersuchungen\\
   \\
-  Stellt sich bei einer Nachuntersuchung eine Verschlechterung des Hörvermögens eines Besatzungsmitgliedes der Dienstzweige �Technischer Dienst“ oder �Elektrotechnischer Dienst“ heraus, ist eine ohrenfachärztliche Untersuchung mit Audiometrie durchzuführen.
+  Stellt sich bei einer Nachuntersuchung eine Verschlechterung des Hörvermögens eines Besatzungsmitgliedes der Dienstzweige Technischer Dienst“ oder Elektrotechnischer Dienst“ heraus, ist eine ohrenfachärztliche Untersuchung mit Audiometrie durchzuführen.
 - 5. :: Untersuchung der körperlichen Leistungsfähigkeit\\
   \\
 - 5.1 :: Verfahren zur Beurteilung der körperlichen Fähigkeiten\\
@@ -1961,7 +1961,7 @@ Anlage 2 - (zu § 4 Absatz 1)Durchführung der Seediensttauglichkeitsuntersuchun
         Seediensttauglich: Kann alle Aufgaben innerhalb des bezeichneten Dienstzweiges ausführen.
       - ii) :: Ja -- das Besatzungsmitglied muss wegen seines Gesundheitszustandes häufiger als alle zwei Jahre untersucht werden.
         Ergebnis:
-        Zeitlich eingeschränkt seediensttauglich (L -- �Limited“): Gültigkeitsdauer des Seediensttauglichkeitszeugnisses wird begrenzt. Kann innerhalb dieses Zeitraumes alle Aufgaben innerhalb des bezeichneten Dienstzweiges ausführen.
+        Zeitlich eingeschränkt seediensttauglich (L -- Limited“): Gültigkeitsdauer des Seediensttauglichkeitszeugnisses wird begrenzt. Kann innerhalb dieses Zeitraumes alle Aufgaben innerhalb des bezeichneten Dienstzweiges ausführen.
       - iii) :: Ja -- wegen des Gesundheitszustandes des Besatzungsmitgliedes ergeben sich folgende Einschränkungen:
         - 1. :: Tätigkeit: Kann einige, aber nicht alle Routine- und Notfallaufgaben an Bord ausführen, ohne dass dies zu zusätzlichen Aufgaben oder einer vermehrten Verantwortung Dritter führt,
 
@@ -1969,13 +1969,13 @@ Anlage 2 - (zu § 4 Absatz 1)Durchführung der Seediensttauglichkeitsuntersuchun
         - 2. :: Fahrtgebiet: Das Besatzungsmitglied ist durch die Arbeit unter bestimmten klimatischen Bedingungen oder in großer Entfernung zu der medizinischen Versorgung an Land einem erhöhten Risiko ausgesetzt, ernsthafte Schädigungen zu erleiden.
 
         Ergebnis:
-        Eingeschränkt seediensttauglich (R -- �Restricted“): Im Seediensttauglichkeitszeugnis sind Einschränkungen der Tätigkeit und des Fahrtgebietes einzutragen.
+        Eingeschränkt seediensttauglich (R -- Restricted“): Im Seediensttauglichkeitszeugnis sind Einschränkungen der Tätigkeit und des Fahrtgebietes einzutragen.
       - iv) :: Ja -- aber die Ursache für die Einschränkungen kann behoben werden.
         Ergebnis:
-        Seedienstuntauglich (T -- �Temporary“): Voraussichtlich vorübergehend, das heißt weniger als zwei Jahre.
+        Seedienstuntauglich (T -- Temporary“): Voraussichtlich vorübergehend, das heißt weniger als zwei Jahre.
       - v) :: Ja -- aber die Ursache für die Einschränkungen kann nicht behoben werden.
         Ergebnis:
-        Seedienstuntauglich (P -- �Permanent“): Voraussichtlich dauernd, das heißt mehr als zwei Jahre.
+        Seedienstuntauglich (P -- Permanent“): Voraussichtlich dauernd, das heißt mehr als zwei Jahre.
 
 Anlage 2 Nr. 2 Tabelle Ziff. I Zeile 2 Spalte 1 und Spalte 2 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Anameseerhebung" durch "Anamneseerhebung" ersetzt\\
 Anlage 2 Nr. 3.2 Satz 2 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Trichomasie" durch "Trichromasie" ersetzt

@@ -11,7 +11,7 @@ Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des Berufsbildungsgesetzes vom 
 Inhaltsübersicht
 
 Teil 1
-�
+
 Gemeinsame Vorschriften
 § 1
 Staatliche Anerkennung der Ausbildungsberufe
@@ -20,7 +20,7 @@ Ausbildungsdauer
 § 3
 Struktur und Zielsetzung der Berufsausbildung
 Teil 2
-�
+
 Vorschriften für den Ausbildungsberuf Industriekeramiker Anlagentechnik/Industriekeramikerin Anlagentechnik
 § 4
 Ausbildungsberufsbild
@@ -35,7 +35,7 @@ Zwischenprüfung
 § 9
 Abschlussprüfung
 Teil 3
-�
+
 Vorschriften für den Ausbildungsberuf Industriekeramiker Dekorationstechnik/Industriekeramikerin Dekorationstechnik
 § 10
 Ausbildungsberufsbild
@@ -50,7 +50,7 @@ Zwischenprüfung
 § 15
 Abschlussprüfung
 Teil 4
-�
+
 Vorschriften für den Ausbildungsberuf Industriekeramiker Modelltechnik/Industriekeramikerin Modelltechnik
 § 16
 Ausbildungsberufsbild
@@ -65,7 +65,7 @@ Zwischenprüfung
 § 21
 Abschlussprüfung
 Teil 5
-�
+
 Vorschriften für den Ausbildungsberuf Industriekeramiker Verfahrenstechnik/Industriekeramikerin Verfahrenstechnik
 § 22
 Ausbildungsberufsbild
@@ -80,7 +80,7 @@ Zwischenprüfung
 § 27
 Abschlussprüfung
 Teil 6
-�
+
 Fortsetzungs- und Schlussvorschriften
 § 28
 Fortsetzung der Berufsausbildung
@@ -508,7 +508,7 @@ Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Brän
 4
 Umweltschutz (§ 4 Nr. 4)
 Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
-�
+
 a)
 mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 b)
@@ -522,7 +522,7 @@ Betriebliche und technische Kommunikation (§ 4 Nr. 5)
 a)
 Informationsquellen auswählen, Informationen beschaffen und bewerten
 8
-�
+
 b)
 technische Unterlagen und Fertigungsvorschriften anwenden, Skizzen anfertigen
 c)
@@ -534,7 +534,7 @@ Planen und Organisieren von Arbeitsabläufen, Bewerten von Arbeitsergebnissen, G
 a)
 Arbeitsabläufe und Teilaufgaben unter Beachtung betriebswirtschaftlicher und terminlicher Vorgaben planen
 8
-�
+
 b)
 Maschinen nach Fertigungsverfahren unterscheiden
 c)
@@ -558,7 +558,7 @@ Unterscheiden, Zuordnen und Handhaben von Roh-, Hilfs- und Werkstoffen, Keramisc
 a)
 Roh- und Hilfsstoffe unterscheiden und auf Qualitätsparameter prüfen
 16
-�
+
 b)
 Roh- und Hilfsstoffe ihrer Verwendung nach zuordnen und einsetzen
 c)
@@ -570,7 +570,7 @@ Formgebung und Veredlung (§ 4 Nr. 8)
 a)
 Modelle, Formen oder Werkzeuge unterscheiden und ihrer Verwendung nach zuordnen
 6
-�
+
 b)
 Formgebungsverfahren unterscheiden
 c)
@@ -582,7 +582,7 @@ Warten und Pflegen von Betriebsmitteln (§ 4 Nr. 9)
 a)
 Betriebsmittel inspizieren, pflegen, warten und die Durchführung dokumentieren
 4
-�
+
 b)
 schadhafte Betriebsmittel austauschen oder Instandsetzung veranlassen
 c)
@@ -592,7 +592,7 @@ Trocknen und Brennen (§ 4 Nr. 10)
 a)
 Trocknungs- und Brennverfahren unterscheiden
 4
-�
+
 b)
 Vorgänge während des Trocknens und Brennens überwachen
 c)
@@ -602,7 +602,7 @@ Durchführen qualitätssichernder Maßnahmen (§ 4 Nr. 11)
 a)
 betriebliches Qualitätssicherungssystem im eigenen Arbeitsbereich anwenden
 6
-�
+
 b)
 Ursachen von Qualitätsmängeln systematisch suchen, beseitigen und dokumentieren
 c)
@@ -625,14 +625,14 @@ Messen, Steuern und Regeln (§ 4 Nr. 12)
 a)
 Steuer- und Regelungstechniken unterscheiden
 4
-�
+
 b)
 Prozessdaten einstellen
 c)
 Messverfahren, insbesondere für Litergewichts- und Viskositätsmessungen, anwenden
 d)
 Soll-, Istwertvergleich durchführen und dokumentieren, Prozessdaten optimieren
-�
+
 6
 e)
 Messverfahren, insbesondere für Temperatur-, Druck-, Luftfeuchte- und Volumenmessungen, anwenden
@@ -641,7 +641,7 @@ Elektrotechnik (§ 4 Nr. 13)
 a)
 Gefahren des elektrischen Stroms berücksichtigen, Sicherheitsvorschriften und Schutzmaßnahmen anwenden
 2
-�
+
 b)
 Spannung, Strom, Widerstand und Leistung in Stromkreisen zuordnen
 3
@@ -649,7 +649,7 @@ Metalltechnik (§ 4 Nr. 14)
 a)
 Werkstoffe unter Berücksichtigung der Eigenschaften und Verwendungsarten auswählen
 6
-�
+
 b)
 Werkstücke, insbesondere durch Anreißen und Körnen, vorbereiten
 c)
@@ -665,7 +665,7 @@ Bedienen und Produktionsmaschinen und - anlagen zur Aufbereitung (§ 4 Nr. 15)
 a)
 Unfallverhütungsvorschriften anwenden, Schutzvorrichtungen handhaben
 8
-�
+
 b)
 Fördermittel und -anlagen bedienen
 c)
@@ -676,7 +676,7 @@ e)
 Maschinen zur Aufbereitung einrichten, umrüsten, bedienen und überwachen
 f)
 Störungen erkennen, Maßnahmen zur Störungsbeseitigung ergreifen
-�
+
 12
 g)
 Fertigungsfehler, insbesondere Handhabungsfehler, erkennen, beurteilen und dokumentieren, Maßnahmen zur Fehlerbeseitigung ergreifen
@@ -685,10 +685,10 @@ Bedienen von Produktionsmaschinen und -anlagen zur Formgebung (§ 4 Nr. 16)
 a)
 Pressen umrüsten, einrichten, bedienen und überwachen
 6
-�
+
 b)
 Maschinen zur Formgebung umrüsten, einrichten, bedienen und überwachen
-�
+
 12
 c)
 Fertigungsfehler, insbesondere Risse, Deformationen, Handhabungsfehler und Maßabweichungen, erkennen, beurteilen und dokumentieren, Maßnahmen zur Fehlerbeseitigung ergreifen
@@ -696,7 +696,7 @@ Fertigungsfehler, insbesondere Risse, Deformationen, Handhabungsfehler und Maßa
 Bedienen von Produktionsmaschinen zur Veredlung, Endbearbeitung und Verpackung (§ 4 Nr. 17)
 a)
 Unfallverhütungsvorschriften anwenden, Schutzvorrichtungen handhaben
-�
+
 20
 b)
 Maschinen zur Veredlung, Endbearbeitung und Verpackung umrüsten, einrichten, bedienen und überwachen
@@ -706,7 +706,7 @@ Fertigungsfehler, insbesondere Risse, Deformationen, Veredlungsfehler, Handhabun
 Bedienen von Trocknungs- und Brennanlagen (§ 4 Nr. 18)
 a)
 Trocknungs- oder Entbinderungsanlagen sowie Brennanlagen nach betrieblichen Vorgaben vorbereiten, bedienen und überwachen
-�
+
 16
 b)
 Trocken- und Brennfehler, insbesondere Risse, Deformationen, Maßabweichungen, Oberflächen- und Handhabungsfehler erkennen, beurteilen und dokumentieren
@@ -716,7 +716,7 @@ Störungen und deren Beseitigung in die Produktionsprotokolle eintragen, Maßnah
 Instandhalten von Produktionseinrichtungen (§ 4 Nr. 19)
 a)
 Maschinen und Anlagen nach festgelegtem Plan unter Beachtung sicherheitstechnischer Vorschriften warten
-�
+
 12
 b)
 Baugruppen und Bauteile austauschen, Maßnahmen zur Instandsetzung ergreifen
@@ -778,7 +778,7 @@ Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Brän
 4
 Umweltschutz (§ 10 Nr. 4)
 Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
-�
+
 a)
 mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 b)
@@ -792,7 +792,7 @@ Betriebliche und technische Kommunikation (§ 10 Nr. 5)
 a)
 Informationsquellen auswählen, Informationen beschaffen und bewerten
 8
-�
+
 b)
 technische Unterlagen und Fertigungsvorschriften anwenden, Skizzen anfertigen
 c)
@@ -804,7 +804,7 @@ Planen und Organisieren von Arbeitsabläufen, Bewerten und Arbeitsergebnissen, G
 a)
 Arbeitsabläufe und Teilaufgaben unter Beachtung betriebswirtschaftlicher und terminlicher Vorgaben planen
 8
-�
+
 b)
 Maschinen nach Fertigungsverfahren unterscheiden
 c)
@@ -828,7 +828,7 @@ Unterscheiden, Zuordnen und Handhaben von Roh-, Hilfs- und Werkstoffen, Keramisc
 a)
 Roh- und Hilfsstoffe unterscheiden und auf Qualitätsparameter prüfen
 16
-�
+
 b)
 Roh- und Hilfsstoffe ihrer Verwendung nach zuordnen und einsetzen
 c)
@@ -840,7 +840,7 @@ Formgebung und Veredlung (§ 10 Nr. 8)
 a)
 Modelle, Formen oder Werkzeuge unterscheiden und ihrer Verwendung nach zuordnen
 6
-�
+
 b)
 Formgebungsverfahren unterscheiden
 c)
@@ -852,7 +852,7 @@ Warten und Pflegen von Betriebsmitteln (§ 10 Nr. 9)
 a)
 Betriebsmittel inspizieren, pflegen, warten und die Durchführung dokumentieren
 4
-�
+
 b)
 schadhafte Betriebsmittel austauschen oder Instandsetzung veranlassen
 c)
@@ -862,7 +862,7 @@ Trocknen und Brennen (§ 10 Nr. 10)
 a)
 Trocknungs- und Brennverfahren unterscheiden
 4
-�
+
 b)
 Vorgänge während des Trocknens und Brennens überwachen
 c)
@@ -872,7 +872,7 @@ Durchführen qualitätssichernder Maßnahmen (§ 10 Nr. 11)
 a)
 betriebliches Qualitätssicherungssystem im eigenen Arbeitsbereich anwenden
 6
-�
+
 b)
 Ursachen von Qualitätsmängeln systematisch suchen, beseitigen und dokumentieren
 c)
@@ -895,7 +895,7 @@ Anfertigen von Linien- und Flächendekoren aud Grundformen (§ 10 Nr. 12)
 a)
 Farben und Hilfsstoffe unter Berücksichtigung ihrer Eigenschaften auswählen
 26
-�
+
 b)
 Farben unter Verwendung von Hilfsstoffen aufbereiten
 c)
@@ -906,7 +906,7 @@ Flächendekore auf verschiedenen Grundkörpern ausführen
 Zeichnen und Malen (§ 10 Nr. 13)
 a)
 verschiedene Zeichen- und Maltechniken, insbesondere mit Bleistift, Feder und Wasserfarben, anwenden
-�
+
 4
 b)
 Dekore unter Einbeziehung gestalterischer und ästhetischer Grundlagen entwerfen
@@ -914,7 +914,7 @@ Dekore unter Einbeziehung gestalterischer und ästhetischer Grundlagen entwerfen
 Handmalen von Schriften und Monogrammen (§ 10 Nr. 14)
 a)
 Schriften und Monogramme unter Beachtung typografischer Grundregeln entwerfen
-�
+
 4
 b)
 Schriften und Monogramme ausführen
@@ -922,7 +922,7 @@ Schriften und Monogramme ausführen
 Anfertigen von Dekoren aus kombinierten Formen (§ 10 Nr. 15)
 a)
 Farben, Edelmetallpräparate und Hilfsstoffe für verschiedene Dekorationsarten und -techniken auswählen und aufbereiten
-�
+
 26
 b)
 Staffagen auf Werkstücken und Reliefs ausführen
@@ -932,7 +932,7 @@ d)
 Ätzdekor und Imitation unterscheiden
 e)
 Dekorationsarten in Auf-, In- und Unterglasur unterscheiden
-�
+
 26
 f)
 keramische Produkte durch Kombination verschiedener Dekortechniken veredeln
@@ -946,7 +946,7 @@ Malereien, insbesondere Edelmetalldekorationen, nachbearbeiten
 Ausführen von Spritztechniken (§ 10 Nr. 16)
 a)
 Farben und Spritzmedien unter Berücksichtigung ihrer Eigenschaften auswählen und aufbereiten
-�
+
 8
 b)
 Spritzwerkzeuge auswählen und vorbereiten
@@ -964,7 +964,7 @@ Spritzwerkzeuge reinigen und warten
 Ausführen von Buntdruckdekorationen (§ 10 Nr. 17)
 a)
 Druckverfahren unterscheiden
-�
+
 6
 b)
 Buntdruckdekorationen, insbesondere Schiebebilder aufbringen
@@ -972,7 +972,7 @@ Buntdruckdekorationen, insbesondere Schiebebilder aufbringen
 Durchführen qualitätssichernder Maßnahmen (§ 10 Nr. 11)
 a)
 Prüfverfahren, Prüfmittel, Prüfvorschriften und betriebliche Prüfpläne anwenden
-�
+
 4
 b)
 Produkte sortieren und klassifizieren, Ergebnisse dokumentieren
@@ -1032,7 +1032,7 @@ Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Brän
 4
 Umweltschutz (§ 16 Nr. 4)
 Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
-�
+
 a)
 mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 b)
@@ -1046,7 +1046,7 @@ Betriebliche und technische Kommunikation (§ 16 Nr. 5)
 a)
 Informationsquellen auswählen, Informationen beschaffen und bewerten
 8
-�
+
 b)
 technische Unterlagen und Fertigungsvorschriften anwenden, Skizzen anfertigen
 c)
@@ -1058,7 +1058,7 @@ Planen und Organisieren von Arbeitsabläufen, Bewerten von Arbeitsergebnissen, G
 a)
 Arbeitsabläufe und Teilaufgaben unter Beachtung betriebswirtschaftlicher und terminlicher Vorgaben planen
 8
-�
+
 b)
 Maschinen nach Fertigungsverfahren unterscheiden
 c)
@@ -1082,7 +1082,7 @@ Unterscheiden, Zuordnen und Handhaben von Roh-, Hilfs- und Werkstoffen, Keramisc
 a)
 Roh- und Hilfsstoffe unterscheiden und auf Qualitätsparameter prüfen
 16
-�
+
 b)
 Roh- und Hilfsstoffe ihrer Verwendung nach zuordnen und einsetzen
 c)
@@ -1094,7 +1094,7 @@ Formgebung und Veredlung (§ 16 Nr. 8)
 a)
 Modelle, Formen oder Werkzeuge unterscheiden und ihrer Verwendung nach zuordnen
 6
-�
+
 b)
 Formgebungsverfahren unterscheiden
 c)
@@ -1106,7 +1106,7 @@ Warten und Pflegen von Betriebsmitteln (§ 16 Nr. 9)
 a)
 Betriebsmittel inspizieren, pflegen, warten und die Durchführung dokumentieren
 4
-�
+
 b)
 schadhafte Betriebsmittel austauschen oder Instandsetzung veranlassen
 c)
@@ -1116,7 +1116,7 @@ Trocknen und Brennen (§ 16 Nr. 10)
 a)
 Trocknungs- und Brennverfahren unterscheiden
 4
-�
+
 b)
 Vorgänge während des Trocknens und Brennens überwachen
 c)
@@ -1126,7 +1126,7 @@ Durchführen qualitätssichernder Maßnahmen (§ 16 Nr. 11)
 a)
 betriebliches Qualitätssicherungssystem im eigenen Arbeitsbereich anwenden
 6
-�
+
 b)
 Ursachen von Qualitätsmängeln systematisch suchen, beseitigen und dokumentieren
 c)
@@ -1149,14 +1149,14 @@ Modelle und Formen entwerfen (§ 16 Nr. 12)
 a)
 Produkte unter Einbeziehung gestalterischer und ästhetischer Grundlagen entwerfen
 4
-�
+
 b)
 für den Modell- und Formenbau relevante produktionstechnische Kriterien, insbesondere Schwindung, Formveränderung und Radien, ermitteln
 c)
 Skizzen nach Vorgaben anfertigen
 d)
 Modellzeichnungen, insbesondere unter Berücksichtigung von Schwindungs- und Volumenberechnungen sowie Formveränderungen, anfertigen
-�
+
 8
 e)
 Werkzeuge und Hilfsmittel für die Produktion entwickeln
@@ -1165,10 +1165,10 @@ Einsetzen von Werkstoffen und Hilfsmitteln für den Modell-, Einrichtungs- und F
 a)
 Arten, Eigenschaften, Lagerung und Verarbeitungsmöglichkeiten, insbesondere von Gipsen, Kunststoffen und Trennmitteln, unterscheiden
 2
-�
+
 b)
 Parameter des Gipses und dessen Abbindevorganges bestimmen und einstellen
-�
+
 4
 c)
 Zuschlagstoffe einsetzen
@@ -1177,7 +1177,7 @@ Herstellen von Werkstücken aus Metall (§ 16 Nr. 14)
 a)
 Werkstücke durch Anreißen, Körnen und Kennzeichnen vorbereiten
 3
-�
+
 b)
 Mess- und Prüfwerkzeuge handhaben
 c)
@@ -1189,7 +1189,7 @@ Herstellen von dreidimensionalen Werkstücken aus Gips (§ 16 Nr. 15)
 a)
 Werkzeuge, Hilfs- und Werkstoffe nach Verwendungszweck auswählen und einsetzen
 9
-�
+
 b)
 Bearbeitungsverfahren, insbesondere durch Modellieren, Ziehen und Gravieren, anwenden
 c)
@@ -1198,7 +1198,7 @@ d)
 Schablonen herstellen und einsetzen
 e)
 Modelle oder Einrichtungen nach Zeichnungs-, Modell- oder Modellformvorgabe für zweiteilige Formen herstellen, insbesondere durch Modellieren, Ziehen und Gravieren
-�
+
 25
 f)
 Modelle oder Einrichtungen nach Zeichnungs-, Modell- oder Modellformvorgabe für drei- und mehrteilige Formen, insbesondere unter Beachtung der wirtschaftlichen Arbeitsplanung, herstellen
@@ -1209,10 +1209,10 @@ Herstellen von dreidimensionalen Werkstücken aus Kunststoffen (§ 16 Nr. 16)
 a)
 Werkzeuge, Hilfs- und Werkstoffe nach Verwendungszweck auswählen und einsetzen
 4
-�
+
 b)
 Arbeitsverfahren, insbesondere Gießen, Laminieren und Abtragen, anwenden
-�
+
 8
 c)
 Modelle oder Einrichtungen unter Berücksichtigung der unterschiedlichen Kunststoffeigenschaften und Verarbeitungskriterien herstellen
@@ -1225,10 +1225,10 @@ Herstellen von Formen (§ 16 Nr. 17)
 a)
 Werkzeuge, Hilfs- und Werkstoffe nach Verwendungszweck auswählen und einsetzen
 4
-�
+
 b)
 Formen unter Beachtung unterschiedlicher Formgebungsverfahren herstellen
-�
+
 10
 c)
 Formen unter Berücksichtigung der Anlagentechnik herstellen
@@ -1240,7 +1240,7 @@ Musterprodukte nach vorgegebenen Kriterien prüfen und Formen optimieren
 Trocknen und Lagern (§ 16 Nr. 18)
 a)
 Modelle oder Einrichtungen trocknen und lagern
-�
+
 3
 b)
 Formen trocknen und lagern
@@ -1248,7 +1248,7 @@ Formen trocknen und lagern
 Durchführen qualitätssichernder Maßnahmen (§ 16 Nr. 11)
 a)
 Prüfverfahren, Prüfmittel, Prüfvorschriften und betriebliche Prüfpläne anwenden
-�
+
 20
 b)
 Ergebnisse, insbesondere Maß- und Normabweichungen, dokumentieren
@@ -1328,7 +1328,7 @@ Umweltschutz\\
 - c) :: Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 - d) :: Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
-�
+
 
 5
 
@@ -1342,7 +1342,7 @@ Betriebliche und technische Kommunikation\\
 
 8
 
-�
+
 
 6
 
@@ -1362,7 +1362,7 @@ Planen und Organisieren von aufgaben unter Beachtung Arbeitsabläufen, betriebsw
 
 8
 
-�
+
 
 7
 
@@ -1376,7 +1376,7 @@ Unterscheiden, Zuordnen und Handhaben von Roh-, Hilfs- und Werkstoffen, Verwendu
 
 16
 
-�
+
 
 8
 
@@ -1390,7 +1390,7 @@ Formgebung und Veredlung\\
 
 6
 
-�
+
 
 9
 
@@ -1403,7 +1403,7 @@ Warten und Pflegen von Betriebsmitteln\\
 
 4
 
-�
+
 
 10
 
@@ -1416,7 +1416,7 @@ Trocknen und Brennen\\
 
 4
 
-�
+
 
 11
 
@@ -1430,9 +1430,9 @@ Durchführen qualitätssichernder Maßnahmen\\
 
 6
 
-�
 
-�
+
+
 
 Abschnitt II: Spezifische Fertigkeiten, Kenntnisse und Fähigkeiten gemäß § 3 Abs. 1 Nr. 2
 
@@ -1446,7 +1446,7 @@ Vorbereiten keramischer Massen und Glasuren\\
 
 4
 
-�
+
 
 2
 
@@ -1459,7 +1459,7 @@ Herstellen von Einrichtungen\\
 - d) :: Einrichtungen auf Funktionsfähigkeit, insbesondere auf Passgenauigkeit prüfen, beurteilen, korrigieren und dokumentieren
 - e) :: Einrichtungen pflegen und lagern
 
-�
+
 
 24
 
@@ -1472,7 +1472,7 @@ Herstellen von Arbeitsformen\\
 - b) :: Arbeitsformen herstellen, trocknen und lagern
 - c) :: Funktionsfähigkeit der Arbeitsformen prüfen, beurteilen und optimieren
 
-�
+
 
 8
 
@@ -1487,13 +1487,13 @@ Keramische Massen formen\\
 
 22
 
-�
+
 
 - d) :: Garnierschlicker herstellen, Rohlinge vorbereiten und garnieren
 - e) :: Rohlinge vor und nach dem Trocknen bearbeiten
 - f) :: Rohlinge prüfen, Fehler dokumentieren und Maßnahmen zur Fehlerbeseitigung ergreifen
 
-�
+
 
 20
 
@@ -1506,7 +1506,7 @@ Trocken und Brennen\\
 - b) :: qualitätsrelevante Parameter ermitteln, einstellen und dokumentieren
 - c) :: getrocknete oder gebrannte Erzeugnisse prüfen, Fehler dokumentieren und Maßnahmen zur Fehlerbeseitigung ergreifen
 
-�
+
 
 3
 
@@ -1519,7 +1519,7 @@ Glasieren und Dekorieren\\
 - b) :: qualitätsrelevante Parameter ermitteln, einstellen und dokumentieren
 - c) :: Rohlinge oder Halbzeuge glasieren und dekorieren
 
-�
+
 
 13
 
@@ -1531,7 +1531,7 @@ Sortieren und Nachbearbeiten\\
 - a) :: Produkte sortieren und klassifizieren, Ergebnisse dokumentieren
 - b) :: Nachbearbeitung durchführen oder veranlassen
 
-�
+
 
 7
 
@@ -1543,6 +1543,6 @@ Durchführen qualitätssichernder Maßnahmen\\
 - a) :: Prüfverfahren, Prüfmittel, Prüfvorschriften und betriebliche Prüfpläne anwenden, Ergebnisse dokumentieren
 - b) :: Maß- und Normabweichungen dokumentieren
 
-�
+
 
 3

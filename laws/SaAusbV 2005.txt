@@ -271,14 +271,14 @@ Planen und Vorbereiten von Arbeitsabläufen, Kundenorientierung (§ 4 Abs. 1 Nr.
 a)
 Arbeitsaufträge auf Umsetzbarkeit prüfen, Auftragsunterlagen bearbeiten
 4
-�
+
 b)
 Arbeitsschritte unter Berücksichtigung betrieblicher Abläufe und Auftragsunterlagen festlegen, Liefertermine beachten
 c)
 Arbeitsplatz nach ergonomischen und sicherheitsrelevanten Gesichtspunkten vorbereiten, Werk- und Hilfsstoffe, Arbeitsmittel und -geräte auswählen und auftragsbezogen bereitstellen
 d)
 Aufgaben im Team planen, mit vor- und nachgelagerten Bereichen abstimmen, Ergebnisse der Zusammenarbeit auswerten
-�
+
 3
 e)
 Materialkosten und Zeitaufwand abschätzen
@@ -289,7 +289,7 @@ Anfertigen und Anwenden von technischen Unterlagen (§ 4 Abs. 1 Nr. 6)
 a)
 Skizzen und Zeichnungen prüfen und anfertigen
 7
-�
+
 b)
 Schablonen prüfen und anfertigen
 c)
@@ -299,19 +299,19 @@ Anwenden von Informations- und Kommunikationstechniken (§ 4 Abs. 1 Nr. 7)
 a)
 Informationen beschaffen, auswerten und nutzen
 4
-�
+
 b)
 auftragsbezogene Daten beschaffen, auswerten, pflegen und sichern, Datenschutz beachten
 c)
 Arbeitsaufgaben mit Hilfe von Informations- und Kommunikationssystemen bearbeiten, Anwenderprogramme nutzen
-�
+
 2
 8
 Be- und Verarbeiten von Werk- und Hilfsstoffen (§ 4 Abs. 1 Nr. 8)
 a)
 Leder nach Arten, Herkunft, Gerbarten, Eigenschaften und Merkmalen unterscheiden sowie nach Verwendungszweck und Verarbeitungsmöglichkeiten zuordnen, Artenschutz beachten
 16
-�
+
 b)
 Lederhaut flächenmäßig und histologisch einteilen
 c)
@@ -332,14 +332,14 @@ k)
 Holzteile be- und verarbeiten, insbesondere sägen, bohren und leimen
 l)
 Arten von Veredlungs- und Zurichtungsmaßnahmen unterscheiden und Auswirkungen bei der Weiterverarbeitung berücksichtigen
-�
+
 2
 9
 Handhaben und Warten von Werkzeugen, Geräten, Maschinen und technischen Einrichtungen (§ 4 Abs. 1 Nr. 9)
 a)
 Werkzeuge, Geräte, Maschinen und technische Einrichtungen nach Einsatzmöglichkeit und Materialbeschaffenheit des Werkstücks auswählen und einsetzen
 8
-�
+
 b)
 Werkzeuge und Maschinen pflegen und instand halten
 c)
@@ -351,7 +351,7 @@ Zuschneiden von Werk- und Hilfsstoffen (§ 4 Abs. 1 Nr. 10)
 a)
 Materialbedarf ermitteln
 12
-�
+
 b)
 Schnittschablonen oder Stanzformen unter Beachtung rationeller Einteilung, Qualität und Musterverlauf auflegen, Schnittkonturen markieren
 c)
@@ -363,7 +363,7 @@ Ausführen von Näharbeiten (§ 4 Abs. 1 Nr. 11)
 a)
 Hand- und Maschinennähte unterscheiden und nach Verwendungszweck einsetzen
 15
-�
+
 b)
 Nadelarten und Nähgarne auswählen
 c)
@@ -378,7 +378,7 @@ Einzelteile verbinden, Einfassarbeiten ausführen
 Polstern (§ 4 Abs. 1 Nr. 12)
 a)
 Polstertechniken unterscheiden und anwenden
-�
+
 10
 b)
 Polsterteile, insbesondere aus Schaumstoffen, herstellen oder Polsterungen durch Wattieren herstellen
@@ -387,12 +387,12 @@ Fertigstellen und Montieren von Werkstücken (§ 4 Abs. 1 Nr. 13)
 a)
 Zubehör, insbesondere Beschläge, Ösen und Nieten, auswählen und anbringen
 9
-�
+
 b)
 Befestigungs- und Verschlusselemente, insbesondere Druckknöpfe, Reiß- und Klettverschlüsse, anbringen
 c)
 Abschlussarbeiten durchführen, insbesondere Werkstücke anpassen und formen
-�
+
 5
 d)
 Werkstücke und Zubehörteile einbauen und montieren
@@ -401,14 +401,14 @@ Durchführen von qualitätssichernden Maßnahmen (§ 4 Abs. 1 Nr. 14)
 a)
 Aufgaben und Ziele von qualitätssichernden Maßnahmen unterscheiden und im eigenen Arbeitsbereich anwenden
 3
-�
+
 b)
 Erzeugnisse lager- und verkaufsfertig machen
 c)
 Zwischenkontrollen durchführen
 d)
 Endkontrollen anhand von Arbeitsaufträgen durchführen, insbesondere Fertigmaße, Verarbeitung und Funktionalität prüfen sowie Ergebnisse dokumentieren
-�
+
 4
 e)
 Ursachen von Qualitätsabweichungen feststellen, Korrektur- und Vorbeugungsmaßnahmen durchführen und dokumentieren
@@ -420,7 +420,7 @@ A. Fachrichtung Fahrzeugsattlerei
 Durchführen von Polster- und Bezugsarbeiten (§ 4 Abs. 2 Nr. 1 Buchstabe a)
 a)
 Polsterungen, insbesondere feste und lose Polster, mit Federkern, Schaumstoffen und Füllungen, unterscheiden
-�
+
 18
 b)
 Polsteraufbauten, insbesondere mit Gurten und Schaumstoffen, herstellen
@@ -440,7 +440,7 @@ Bezugsstoff, insbesondere durch Nageln, Spannen, Kleben und Klammern, befestigen
 Herstellen und Montieren von Verdecken oder Planen (§ 4 Abs. 2 Nr. 1 Buchstabe b)
 a)
 Bahnen messen, anpassen und zuschneiden
-�
+
 18
 b)
 Zuschnittteile schweißen, nähen und kleben
@@ -452,7 +452,7 @@ Verdecke oder Planen und deren Zubehör unter Berücksichtigung von technischen 
 Gestalten, Herstellen und Montieren von Innenverkleidungen (§ 4 Abs. 2 Nr. 1 Buchstabe c)
 a)
 Fahrzeugteile und elektrische Bauteile unter Berücksichtigung von Sicherheitsbestimmungen ein- und ausbauen
-�
+
 16
 b)
 Kunden hinsichtlich der Ausgestaltung beraten, Kundenwünsche umsetzen
@@ -479,7 +479,7 @@ Zeitliche Richtwerte in Wochen im
 Herstellen, Anpassen und Reparieren von Reitsportzubehör und Fahrsportartikeln (§ 4 Abs. 2 Nr. 2 Buchstabe a)
 a)
 anatomische Merkmale und Bewegungsabläufe unterscheiden und berücksichtigen
-�
+
 20
 b)
 Reitsportzubehör und Geschirrteile unterscheiden und vermessen, Maße dokumentieren
@@ -497,7 +497,7 @@ Reitsportzubehör und Fahrsportartikel ausbessern
 Herstellen, Anpassen und Reparieren von Sätteln (§ 4 Abs. 2 Nr. 2 Buchstabe b)
 a)
 Sättel nach Form und Funktion unterscheiden
-�
+
 22
 b)
 Sattelteile vermessen und zuschneiden
@@ -513,7 +513,7 @@ Sättel stilgerecht restaurieren
 Herstellen und Reparieren von Sportartikeln mit Leder (§ 4 Abs. 2 Nr. 2 Buchstabe c)
 a)
 Einzelteile vermessen und zuschneiden
-�
+
 10
 b)
 Näharbeiten manuell und mit Maschinen ausführen, Ziernähte anbringen
@@ -526,7 +526,7 @@ C. Fachrichtung Feintäschnerei
 Entwerfen von Lederwaren (§ 4 Abs. 2 Nr. 3 Buchstabe a)
 a)
 Entwurfsskizzen anfertigen und auf Umsetzbarkeit prüfen
-�
+
 15
 b)
 Schnitt- und Arbeitsmuster entwickeln, Schablonen anfertigen
@@ -538,7 +538,7 @@ Verarbeitungstechniken bestimmen
 Vorrichten von Außen- und Innenmaterialien (§ 4 Abs. 2 Nr. 3 Buchstabe b)
 a)
 Leder von Hand schärfen
-�
+
 12
 b)
 Leder spalten
@@ -558,7 +558,7 @@ Keder mit und ohne Einlagen herstellen
 Herstellen und Reparieren von Lederwaren (§ 4 Abs. 2 Nr. 3 Buchstabe c)
 a)
 Lederteile mit zwei Nadeln zusammennähen
-�
+
 25
 b)
 Futterteile zuschneiden und zusammenfügen, Zubehör und Verschlüsse einarbeiten

@@ -7,16 +7,16 @@ Ausfertigungsdatum: 14.12.1970
 Inhaltsübersicht
 
 Teil I
-�
+
 Allgemeine Vorschriften
 § 1
 Anwendungsbereich der Verordnung
 § 2
 Anwendung der Zweiten Berechnungsverordnung
 Teil II
-�
+
 Zulässige Miete für öffentlich geförderte Wohnungen
-�
+
 1.
 Abschnitt: Ermittlung der Kostenmiete
 § 3
@@ -39,7 +39,7 @@ Kostenmiete in Fällen, in denen nur noch ein Teil der Wohnungen als öffentlich
 Zusatzberechnung, Auszug aus der Wirtschaftlichkeitsberechnung
 § 10
 Mieterleistungen
-�
+
 2.
 Abschnitt: Ermittlung der Vergleichsmiete
 § 11
@@ -53,7 +53,7 @@ Vergleichsmiete nach Ausbau von Zubehörräumen und Wohnungsvergrößerung
 § 15
 Übergang von der Vergleichsmiete zur Kostenmiete
 Teil III
-�
+
 Zulässige Miete für preisgebundene steuerbegünstigte und frei finanzierte Wohnungen
 § 16
 Ermittlung der Kostenmiete für Wohnungen, die mit Wohnungsfürsorgemitteln gefördert sind
@@ -64,7 +64,7 @@ Ermittlung der Vergleichsmiete für Wohnungen, die mit Aufwendungszuschüssen od
 § 19
 (weggefallen)
 Teil IV
-�
+
 Umlagen, Zuschläge und Vergütungen
 § 20
 Umlagen neben der Einzelmiete
@@ -97,7 +97,7 @@ Vergütungen neben der Einzelmiete
 § 28
 Umlagen, Zuschläge und Vergütungen neben der Vergleichsmiete
 Teil V
-�
+
 Schlußvorschriften
 § 29
 Auskunftspflicht des Vermieters

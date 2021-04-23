@@ -28,7 +28,7 @@ und hinsichtlich des § 8 auf Grund des § 17 Abs. 1 Nr. 3 des Eichgesetzes vom 
   - -- :: "pasteurisiert" bei einem Verfahren, das dem Verfahren nach Anhang III Abschnitt IX Kapitel II Teil II Nr. 1 Buchstabe a der Verordnung (EG) Nr. 853/2004 entspricht;
   - -- :: "ultrahocherhitzt" bei einem Verfahren, das dem Verfahren nach Anhang III Abschnitt IX Kapitel II Teil II Nr. 1 Buchstabe b der Verordnung (EG) Nr. 853/2004 entspricht;
 
-  bei ultrahocherhitzter Konsummilch zusätzlich der Buchstabe �H“ mindestens in gleicher Schriftgröße wie die Angabe der Milchsorte,
+  bei ultrahocherhitzter Konsummilch zusätzlich der Buchstabe H“ mindestens in gleicher Schriftgröße wie die Angabe der Milchsorte,
 - 5. :: ferner die Angaben nach § 3.
 
 (3) Für die Art und Weise der Kennzeichnung nach Absatz 2 gilt § 3 Abs. 3 und 4 der Lebensmittel-Kennzeichnungsverordnung entsprechend. Die Angabe nach Absatz 2 Nr. 4 ist in engem räumlichen Zusammenhang mit der Angabe nach Absatz 2 Nr. 1 anzubringen. Bei Konsummilch, die in zur Wiederverwendung bestimmten Flaschen abgegeben wird, brauchen abweichend von Satz 1 die Angaben nach Absatz 2 Nr. 1 und 3 nicht in einem Sichtfeld mit der Mengenkennzeichnung nach § 43 Absatz 1 des Mess- und Eichgesetzes angebracht zu werden; bei der Kennzeichnung können die Abkürzungen\\
@@ -48,7 +48,7 @@ verwendet werden.
 Die Kennzeichnung muß ferner enthalten den Fettgehalt der Konsummilch in vom Hundert des Gewichts durch die Angabe
 
 - a) :: "mindestens ...% Fett" bei Vollmilch mit natürlichem Fettgehalt,
-- b) :: �. . . % Fett“ bei im Fettgehalt eingestellter Vollmilch, teilentrahmter (fettarmer) Milch und Trinkmilch,
+- b) :: . . . % Fett“ bei im Fettgehalt eingestellter Vollmilch, teilentrahmter (fettarmer) Milch und Trinkmilch,
 - c) :: "höchstens ...% Fett" bei entrahmter Milch;.
 
 

@@ -282,7 +282,7 @@ Kommt der Hinterbliebene oder sein gesetzlicher Vertreter den nach Â§ 19 bestehe
 bzgl. der einzelnen Ã„nderungen vgl. FuÃŸnote)
 \\
 Der monatliche Mindestbetrag der Rente betrÃ¤gt fÃ¼r
- 
+
 vom 1.1.1966\\
 bis 30.9.1966
 vom 1.10.1966\\
@@ -293,7 +293,7 @@ vom 1.4.1969\\
 bis 31.8.1969
 vom 1.9.1969\\
 bis 31.12.1970
- 
+
 DM
 DM
 DM
@@ -318,11 +318,11 @@ die Vollwaise ......
 173
 187
 die erste und zweite Halbwaise,
- 
- 
- 
- 
- 
+
+
+
+
+
 wenn keine Rente fÃ¼r die Witwe oder den Witwer gezahlt wird, je
 115
 120
@@ -359,8 +359,8 @@ einen Ã¼berlebenden Eltern- oder Adoptivelternteil ...
 165
 173
 187
- 
- 
+
+
 vom 1.1.1971\\
 bis 31.12.1971
 vom 1.1.1972\\
@@ -369,75 +369,75 @@ vom 1.1.1973\\
 bis 31.12.1973
 vom 1.1.1974\\
 bis 31.12.1974
- 
- 
+
+
 DM
 DM
 DM
 DM
- 
+
 die Witwe ..........
 418
 451
 494
 553
- 
+
 den Witwer .........
 418
 451
 494
 553
- 
+
 die Vollwaise ......
 209
 226
 247
 277
- 
+
 die erste und zweite Halbwaise,
- 
- 
- 
- 
- 
+
+
+
+
+
 wenn keine Rente fÃ¼r die Witwe oder den Witwer gezahlt wird, je
 158
 171
 187
 209
- 
+
 wenn eine Rente fÃ¼r die Witwe oder den Witwer gezahlt wird, je
 116
 125
 137
 153
- 
+
 die dritte und jede folgende Halbwaise, je
 104
 112
 123
 138
- 
+
 den elternlosen Enkel ..............
 209
 226
 247
 277
- 
+
 die Eltern oder Adoptiveltern zusammen ...........
 315
 340
 372
 417
- 
+
 einen Ã¼berlebenden Eltern- oder Adoptivelternteil ..
 209
 226
 247
 277
- 
- 
- 
+
+
+
 vom 1.1.1975\\
 bis 31.1.1976
 vom 1.2.1976\\
@@ -446,75 +446,75 @@ vom 1.2.1977\\
 bis 28.2.1978
 vom 1.3.1978\\
 bis 28.2.1979
- 
- 
+
+
 DM
 DM
 DM
 DM
- 
+
 die Witwe ..........
 586
 642
 706
 755
- 
+
 den Witwer .........
 586
 642
 706
 755
- 
+
 die Vollwaise ......
 294
 322
 354
 379
- 
+
 die erste und zweite Halbwaise,
- 
- 
- 
- 
- 
+
+
+
+
+
 wenn keine Rente fÃ¼r die Witwe oder den Witwer gezahlt wird, je
 222
 243
 267
 286
- 
+
 wenn eine Rente fÃ¼r die Witwe oder den Witwer gezahlt wird, je
 162
 177
 195
 209
- 
+
 die dritte und jede folgende Halbwaise, je
 146
 160
 176
 188
- 
+
 den elternlosen Enkel ..............
 294
 322
 354
 379
- 
+
 die Eltern oder Adoptiveltern zusammen ...........
 442
 484
 532
 569
- 
+
 einen Ã¼berlebenden Eltern- oder Adoptivelternteil ..
 294
 322
 354
 479
- 
- 
- 
+
+
+
 vom 1.3.1979\\
 bis 29.2.1980
 vom 1.3.1980\\
@@ -523,75 +523,75 @@ vom 1.3.1981\\
 bis 30.6.1982
 vom 1.7.1982\\
 bis 30.6.1983
- 
- 
+
+
 DM
 DM
 DM
 DM
- 
+
 die Witwe ..........
 800
 860
 903
 939
- 
+
 den Witwer .........
 800
 860
 903
 939
- 
+
 die Vollwaise ......
 402
 432
 454
 472
- 
+
 die erste und zweite Halbwaise,
- 
- 
- 
- 
- 
+
+
+
+
+
 wenn keine Rente fÃ¼r die Witwe oder den Witwer gezahlt wird, je
 303
 326
 342
 356
- 
+
 wenn eine Rente fÃ¼r die Witwe oder den Witwer gezahlt wird, je
 222
 239
 251
 261
- 
+
 die dritte und jede folgende Halbwaise, je
 199
 214
 225
 234
- 
+
 den elternlosen Enkel ..............
 402
 432
 454
 472
- 
+
 die Eltern oder Adoptiveltern zusammen ...........
 603
 648
 680
 707
- 
+
 einen Ã¼berlebenden Eltern- oder Adoptivelternteil ..
 402
 432
 454
 472
- 
- 
- 
+
+
+
 vom 1.7.1983\\
 bis 31.12.1984
 vom 1.1.1985\\
@@ -600,75 +600,75 @@ vom 1.1.1986\\
 bis 31.12.1986
 vom 1.1.1987\\
 bis 29.2.1988
- 
- 
+
+
 DM
 DM
 DM
 DM
- 
+
 die Witwe ..........
 958
 995
 1025
 1061
- 
+
 den Witwer .........
 958
 995
 1025
 1061
- 
+
 die Vollwaise ......
 481
 500
 515
 533
- 
+
 die erste und zweite Halbwaise,
- 
- 
- 
- 
- 
+
+
+
+
+
 wenn keine Rente fÃ¼r die Witwe oder den Witwer gezahlt wird, je
 363
 377
 389
 403
- 
+
 wenn eine Rente fÃ¼r die Witwe oder den Witwer gezahlt wird, je
 266
 276
 285
 295
- 
+
 die dritte und jede folgende Halbwaise, je
 239
 248
 256
 265
- 
+
 den elternlosen Enkel ..............
 481
 500
 515
 533
- 
+
 die Eltern oder Adoptiveltern zusammen ...........
 721
 749
 772
 799
- 
+
 einen Ã¼berlebenden Eltern- oder Adoptivelternteil ..
 481
 500
 515
 533
- 
- 
- 
+
+
+
 vom 1.3.1988\\
 bis 31.12.1988
 vom 1.1.1989\\
@@ -679,7 +679,7 @@ vom 1.3.1991\\
 bis 30.4.1992
 vom 1.5.1992\\
 bis 30.4.1993
- 
+
 DM
 DM
 DM
@@ -704,11 +704,11 @@ die Vollwaise ......
 610
 668
 die erste und zweite Halbwaise,
- 
- 
- 
- 
- 
+
+
+
+
+
 wenn keine Rente fÃ¼r die Witwe oder den Witwer gezahlt wird, je
 413
 419
@@ -745,13 +745,13 @@ einen Ã¼berlebenden Eltern- oder Adoptivelternteil ...
 577
 610
 668
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
 vom 1.5.1993\\
 bis 30.9.1994
 vom 1.10.1994\\
@@ -762,7 +762,7 @@ vom 1.3.1997\\
 bis 31.12.1997
 vom 1.1.1998\\
 bis 28.2.1999
- 
+
 DM
 DM
 DM
@@ -787,11 +787,11 @@ die Vollwaise ......
 728
 735
 die erste und zweite Halbwaise,
- 
- 
- 
- 
- 
+
+
+
+
+
 wenn keine Rente fÃ¼r die Witwe oder den Witwer gezahlt wird, je
 514
 524
@@ -828,13 +828,13 @@ einen Ã¼berlebenden Eltern- oder Adoptivelternteil ...
 714
 728
 735
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
 vom 1.3.1999\\
 bis 31.12.2000
 vom 1.1.2001\\
@@ -845,7 +845,7 @@ vom 1.2.2003\\
 bis 31.3.2004
 vom 1.4.2004\\
 bis 31.7.2004
- 
+
 DM
 DM
 Euro
@@ -870,11 +870,11 @@ die Vollwaise ......
 412
 416
 die erste und zweite Halbwaise,
- 
- 
- 
- 
- 
+
+
+
+
+
 wenn keine Rente fÃ¼r die Witwe oder den Witwer gezahlt wird, je
 572
 582
@@ -911,13 +911,13 @@ einen Ã¼berlebenden Eltern- oder Adoptivelternteil ...
 402
 412
 416
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
 vom 1.8.2004\\
 bis 31.5.2008
 vom 1.6.2008\\
@@ -928,7 +928,7 @@ vom 1.10.2012\\
 bis 31.7.2014
 vom 1.8.2014\\
 bis 31.8.2016
- 
+
 Euro
 â‚¬
 â‚¬
@@ -953,11 +953,11 @@ die Vollwaise ......
 489
 513
 die erste und zweite Halbwaise,
- 
- 
- 
- 
- 
+
+
+
+
+
 wenn keine Rente fÃ¼r die Witwe oder den Witwer gezahlt wird, je
 317
 342
@@ -994,91 +994,91 @@ einen Ã¼berlebenden Eltern- oder Adoptivelternteil ...
 463
 489
 513
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
 vom 1.9.2016\\
 bis 31.12.2018
 ab 1.1.2019
- 
- 
- 
- 
+
+
+
+
 Euro
 Euro
- 
- 
- 
+
+
+
 die Witwe ..........
 1066
 1144
- 
- 
- 
+
+
+
 den Witwer .........
 1066
 1144
- 
- 
- 
+
+
+
 die Vollwaise ......
 537
 576
- 
- 
- 
+
+
+
 die erste und zweite Halbwaise,
- 
- 
- 
- 
- 
+
+
+
+
+
 wenn keine Rente fÃ¼r die Witwe oder den Witwer gezahlt wird, je
 405
 435
- 
- 
- 
+
+
+
 wenn eine Rente fÃ¼r die Witwe oder den Witwer gezahlt wird, je
 298
 320
- 
- 
- 
+
+
+
 die dritte und jede folgende Halbwaise, je
 268
 288
- 
- 
- 
+
+
+
 den elternlosen Enkel ...............
 537
 576
- 
- 
- 
+
+
+
 die Eltern oder Adoptiveltern zusammen ............
 800
 858
- 
- 
- 
+
+
+
 einen Ã¼berlebenden Eltern- oder Adoptivelternteil ...
 537
 576
- 
- 
- 
+
+
+
 
 Â§ 22 - Berechnung der KapitalentschÃ¤digung
 
@@ -1364,7 +1364,7 @@ bis 31.12.2001
 52Â 567
 70Â 274
 91Â 931
- 
+
 Einfacher Dienst Euro
 Mittlerer Dienst Euro
 Gehobener Dienst Euro
@@ -1373,11 +1373,11 @@ bis 31. 1.2003
 22Â 274
 27Â 468
 36Â 721
- 
+
 bis 30. 4.2003
- 
- 
- 
+
+
+
 48Â 038
 bis 31. 3.2004
 22Â 809
@@ -1409,19 +1409,19 @@ bis 31. 7.2014
 33Â 380
 44Â 624
 58Â 378
- 
+
 bis 31.8.2016
 28Â 422
 35Â 049
 46Â 855
 61Â 297
- 
+
 bis 31.12.2018
 29Â 729
 36Â 661
 49Â 010
 64Â 117
- 
+
 ab 1.1.2019
 31Â 899
 39Â 337
@@ -1653,7 +1653,7 @@ bis 31.12.2001
 35Â 045
 46Â 849
 61Â 287
- 
+
 Einfacher Dienst Euro
 Mittlerer Dienst Euro
 Gehobener Dienst Euro
@@ -1662,11 +1662,11 @@ bis 31. 1.2003
 14Â 849
 18Â 312
 24Â 481
- 
+
 bis 30. 4.2003
- 
- 
- 
+
+
+
 32Â 025
 bis 31. 3.2004
 15Â 206
@@ -1698,19 +1698,19 @@ bis 31. 7.2014
 22Â 253
 29Â 749
 38Â 919
- 
+
 bis 31.8.2016
 18Â 948
 23Â 366
 31Â 237
 40Â 865
- 
+
 bis 31.12.2018
 19Â 819
 24Â 441
 32Â 673
 42Â 745
- 
+
 ab 1.1.2019
 21Â 266
 26Â 225
@@ -1942,7 +1942,7 @@ bis 31.12.2001
 21Â 024
 28Â 104
 36Â 768
- 
+
 Einfacher Dienst Euro
 Mittlerer Dienst Euro
 Gehobener Dienst Euro
@@ -1951,11 +1951,11 @@ bis 31. 1.2003
 8Â 904
 10Â 992
 14Â 688
- 
+
 bis 30. 4.2003
- 
- 
- 
+
+
+
 19Â 212
 bis 31. 3.2004
 9Â 120
@@ -1987,19 +1987,19 @@ bis 31. 7.2014
 13Â 356
 17Â 844
 23Â 352
- 
+
 bis 31.8.2016
 11Â 364
 14Â 016
 18Â 744
 24Â 516
- 
+
 bis 31.12.2018
 11Â 892
 14Â 664
 19Â 608
 25Â 644
- 
+
 ab 1.1.2019
 12Â 756
 15Â 732
@@ -2231,7 +2231,7 @@ bis 31.12.2001
 10Â 524
 14Â 064
 18Â 384
- 
+
 Einfacher Dienst Euro
 Mittlerer Dienst Euro
 Gehobener Dienst Euro
@@ -2240,11 +2240,11 @@ bis 31. 1.2003
 4Â 452
 5Â 496
 7Â 344
- 
+
 bis 30. 4.2003
- 
- 
- 
+
+
+
 9Â 612
 bis 31. 3.2004
 4Â 560
@@ -2276,19 +2276,19 @@ bis 31. 7.2014
 6Â 672
 8Â 928
 11Â 676
- 
+
 bis 31.8.2016
 5Â 688
 7Â 008
 9Â 372
 12Â 264
- 
+
 bis 31.12.2018
 5Â 940
 7Â 332
 9Â 804
 12Â 828
- 
+
 ab 1.1.2019
 6Â 384
 7Â 872

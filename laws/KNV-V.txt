@@ -19,21 +19,21 @@ Diese Verordnung gilt für
 
 Im Sinne dieser Verordnung sind:
 
-- 1. :: �Kraft-Wärme-Kopplung“:
+- 1. :: Kraft-Wärme-Kopplung“:
   Kraft-Wärme-Kopplung im Sinne des § 2 Nummer 13 des Kraft-Wärme-Kopplungsgesetzes;
-- 2. :: �wirtschaftlich vertretbarer Bedarf“:
+- 2. :: wirtschaftlich vertretbarer Bedarf“:
   Bedarf, der die benötigte Wärme- oder Kühlungsleistung nicht überschreitet und der sonst durch andere Energieerzeugungsprozesse als Kraft-Wärme-Kopplung zu Marktbedingungen gedeckt würde;
-- 3. :: �hocheffiziente Kraft-Wärme-Kopplung“:
+- 3. :: hocheffiziente Kraft-Wärme-Kopplung“:
   Kraft-Wärme-Kopplung, die den in Anhang II der Richtlinie 2012/27/EU des Europäischen Parlaments und des Rates vom 25. Oktober 2012 zur Energieeffizienz, zur Änderung der Richtlinien 2009/125/EG und 2010/30/EU und zur Aufhebung der Richtlinien 2004/8/EG und 2006/32/EG (ABl. L 315 vom 14.11.2012, S. 1) festgelegten Kriterien entspricht;
-- 4. :: �Fernwärmenetz“:
+- 4. :: Fernwärmenetz“:
   Wärmenetz im Sinne des § 2 Nummer 32 des Kraft-Wärme-Kopplungsgesetzes;
-- 5. :: �Fernkältenetz“:
+- 5. :: Fernkältenetz“:
   Kältenetz im Sinne des § 2 Nummer 10 des Kraft-Wärme-Kopplungsgesetzes;
-- 6. :: �Trasse“:
+- 6. :: Trasse“:
   Trasse im Sinne des § 2 Nummer 29 des Kraft-Wärme-Kopplungsgesetzes;
-- 7. :: �erhebliche Modernisierung“:
+- 7. :: erhebliche Modernisierung“:
   wesentliche Änderung, deren Kosten mehr als 50 Prozent der Investitionskosten für eine neue vergleichbare Anlage betragen; der Einbau von Ausrüstungen für die Abscheidung des von einer Anlage gemäß § 1 Nummer 1 erzeugten Kohlendioxid im Hinblick auf seine geologische Speicherung gemäß des Kohlendioxid-Speicherungsgesetzes gilt nicht als erhebliche Modernisierung;
-- 8. :: �effiziente Fernwärme- oder Fernkälteversorgung“:
+- 8. :: effiziente Fernwärme- oder Fernkälteversorgung“:
   Versorgung über ein Fernwärme- oder Fernkältesystem mit einer Nutzung von mindestens
   - a) :: 50 Prozent erneuerbare Energien,
   - b) :: 50 Prozent Abwärme,

@@ -8,8 +8,8 @@ Inhalts√ºbersicht
 
 I.
 Allgemeines
-†
-†
+
+
 Nr. 1
 Geltungsbereich
 Nr. 2
@@ -18,8 +18,8 @@ Nr. 3
 Erkl√§rung des Auftragnehmers
 II.
 Preisermittlung auf Grund von Selbstkosten
-†
-†
+
+
 Nr. 4
 Kosten und Selbstkostenpreise
 Nr. 5
@@ -36,10 +36,10 @@ Nr. 10
 Gliederung der Preiskalkulationen
 III.
 Bestandteile des Selbstkostenpreises
-†
+
 A.
 Stoffe
-†
+
 Nr. 11
 Fertigungsstoffe
 Nr. 12
@@ -64,7 +64,7 @@ Nr. 21
 Reststoffe
 B.
 L√∂hne, Geh√§lter und andere Personalkosten
-†
+
 Nr. 22
 Verrechnung
 Nr. 23
@@ -75,24 +75,24 @@ Nr. 25
 Sozialkosten
 C.
 Instandhaltung und Instandsetzung
-†
+
 Nr. 26
 Ansatz
 D.
 Entwicklungs- und Entwurfs- und Versuchsauftr√§ge
-†
+
 Nr. 27
 "Freie" und "gebundene" Entwicklung
 Nr. 28
 Nachweis
 E.
 Fertigungsanlauf, Bauart√§nderungen
-†
+
 Nr. 29
 Ansatz
 F.
 Steuern, Geb√ºhren, Beitr√§ge
-†
+
 Nr. 30
 Steuern
 Nr. 31
@@ -101,27 +101,27 @@ Nr. 32
 Geb√ºhren und Beitr√§ge
 G.
 Lizenzen, Patente und gewerblicher Rechtsschutz
-†
+
 Nr. 33
 Ansatz und Verrechnung
 H.
 Mieten, B√ºro-, Werbe- und Transportkosten und dgl.
-†
+
 Nr. 34
 Mengenansatz und Bewertung
 I.
 Vertriebssonderkosten
-†
+
 Nr. 35
 Vertreterprovisionen
 Nr. 36
 Versandbedingungen und Versandkosten
 K
 Kalkulatorische Kosten
-†
+
 a)
 Anlageabschreibungen
-†
+
 Nr. 37
 Begriff
 Nr. 38
@@ -136,7 +136,7 @@ Nr. 42
 Anlagenachweis
 b)
 Zinsen
-†
+
 Nr. 43
 Bemessung
 Nr. 44
@@ -147,7 +147,7 @@ Nr. 46
 Mengenansatz des betriebsnotwendigen Verm√∂gens
 c)
 Einzelwagnisse
-†
+
 Nr. 47
 Abgrenzung
 Nr. 48
@@ -158,7 +158,7 @@ Nr. 50
 Nachweis
 L.
 Kalkulatorischer Gewinn
-†
+
 Nr. 51
 Begriff
 Nr. 52

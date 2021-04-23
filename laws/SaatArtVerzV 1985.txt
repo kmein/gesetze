@@ -36,7 +36,7 @@ Landwirtschaftliche Arten
 
 Getreide
 
-†
+
 
 1.1.1
 
@@ -123,13 +123,13 @@ au√üer Perlmais, Puffmais (Popcorn), Zuckermais und Mais f√ºr Zierzwecke
 
 Futterpflanzen
 
-†
+
 
 1.2.1
 
 Gr√§ser
 
-†
+
 
 1.2.1.1
 
@@ -279,7 +279,7 @@ Goldhafer
 
 Leguminosen
 
-†
+
 
 1.2.2.0
 
@@ -405,7 +405,7 @@ Zottelwicke
 
 Sonstige Futterpflanzen
 
-†
+
 
 1.2.3.1
 
@@ -439,7 +439,7 @@ Raphanus sativus L. var. oleiformis Pers.
 
 √ñl- und Faserpflanzen
 
-†
+
 
 1.3.1
 
@@ -463,7 +463,7 @@ Schwarzer Senf
 
 Brassica rapa L. var.
 
-†
+
 
 silvestris (Lam.) Briggs
 
@@ -513,7 +513,7 @@ Wei√üer Senf
 
 R√ºben
 
-†
+
 
 1.4.1
 
@@ -531,7 +531,7 @@ Zuckerr√ºbe
 
 Kartoffel
 
-†
+
 
 1.5.1
 
@@ -543,7 +543,7 @@ Kartoffel
 
 Rebe
 
-†
+
 
 1.6.1
 
@@ -552,14 +552,14 @@ Vitis L.
 Rebe\\
 au√üer f√ºr Zierzwecke
 
-†
+
 
 2
 
 Gem√ºsearten au√üer f√ºr Zierzwecke\\
 (einschlie√ülich aller Hybriden der nachfolgend aufgef√ºhrten Arten und Gruppen)
 
-†
+
 
 Art\\
 botanische Bezeichnung
@@ -918,17 +918,17 @@ Zea mays L.
 
 - <<FnA1-F814042_02>>[[#FnR.FnA1-F814042_02][*]] :: ICNCP -- Internationaler Code der Nomenklatur der Kulturpflanzen (International Code of Nomenclature for Cultivated Plants).
 
-†
+
 
 3
 
 Zierpflanzenarten
 
-†
+
 
 Zierpflanzen im Sinne des Artikels 1 Abs. 1 der Richtlinie 98/56/EG des Rates vom 20. Juli 1998 √ºber das Inverkehrbringen von Vermehrungsmaterial von Zierpflanzen (ABl. EG Nr. L 226 S. 16)
 
-†
+
 
 4
 

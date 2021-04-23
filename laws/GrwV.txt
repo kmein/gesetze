@@ -315,7 +315,7 @@ Anlage 5 - (zu § 9 Absatz 3, § 10 Absatz 5, § 11 Absatz 2)Anforderungen an An
   Analysemethoden für die chemische Überwachung der in dieser Verordnung genannten Parameter und Schwellenwerte müssen die folgenden Kriterien erfüllen:
   - 1.1 :: Die Analysemethoden, einschließlich der Labor-, Feld- und Onlinemethoden, sind im Einklang mit der Norm DIN EN ISO/IEC 17025<<FnR.F5_774693>>[[#F5_774693][1)]]} zu validieren und zu dokumentieren.
   - 1.2 :: Die erweiterte Messunsicherheit, unter Verwendung des Erweiterungsfaktors k = 2, der Analysemethoden darf höchstens 50 Prozent betragen; sie wird bei einer Konzentration im Bereich des zu kontrollierenden Schwellenwertes ermittelt.
-    Die Messunsicherheit ist ein nicht negativer Parameter, der die Streuung derjenigen Werte beschreibt, die der Messgrö�wahre Wert“ der Analyseprobe mit einer bestimmten, vorgegebenen Wahrscheinlichkeit zu erwarten ist.
+    Die Messunsicherheit ist ein nicht negativer Parameter, der die Streuung derjenigen Werte beschreibt, die der Messgröwahre Wert“ der Analyseprobe mit einer bestimmten, vorgegebenen Wahrscheinlichkeit zu erwarten ist.
   - 1.3 :: Die Bestimmungsgrenzen der angewendeten Analysemethoden dürfen höchstens 30 Prozent des jeweiligen Schwellenwertes betragen.
     Die Bestimmungsgrenze ist ein festgelegtes Vielfaches der Nachweisgrenze. Sie entspricht der Konzentration eines Stoffes, die mit einem akzeptablen Maß an Genauigkeit bestimmt werden kann. Erst oberhalb der Bestimmungsgrenze werden quantitative Analyseergebnisse angegeben. Dabei ist die Nachweisgrenze das Messsignal oder der Konzentrationswert, ab dem man bei einem festgelegten Vertrauensniveau aussagen kann, dass sich eine Probe von einer Leerprobe unterscheidet, die den zu bestimmenden Analyten nicht enthält. Die Bestimmungsgrenze kann nach der Vornorm ISO/TS 13530<<FnR.F6_774693>>[[#F6_774693][2)]]} ermittelt und verifiziert werden.
   - 1.4 :: Gibt es für einen Parameter keine Analysemethode, die den Anforderungen gemäß Nummer 1.2 und 1.3 genügt, dann erfolgt die Überwachung mit Hilfe der besten verfügbaren Technik. Liegt in diesen Fällen die Bestimmungsgrenze über dem Schwellenwert und die Stoffkonzentration unter der Bestimmungsgrenze, gilt der Schwellenwert als eingehalten.
@@ -327,7 +327,7 @@ Anlage 5 - (zu § 9 Absatz 3, § 10 Absatz 5, § 11 Absatz 2)Anforderungen an An
 - 3. :: Anforderungen an die Beurteilung der Überwachungsergebnisse
   - 3.1 :: Berechnung des Jahresdurchschnitts
     - 3.1.1 :: Liegen die Werte physikalisch-chemischer oder chemischer Messgrößen in einer bestimmten Probe unter der Bestimmungsgrenze, so werden die Messergebnisse für die Berechnung des Jahresdurchschnitts durch die Hälfte des Wertes der Bestimmungsgrenze ersetzt. Satz 1 gilt nicht für Parameter, die Summen von Stoffen darstellen. In diesen Fällen werden unter der Bestimmungsgrenze liegende Ergebnisse für einzelne Stoffe vor der Summenbildung gleich null gesetzt.
-    - 3.1.2 :: Liegt ein gemä�kleine Bestimmungsgrenze“ bezeichnet. Die Umweltqualitätsnorm gilt dann als eingehalten.
+    - 3.1.2 :: Liegt ein gemäkleine Bestimmungsgrenze“ bezeichnet. Die Umweltqualitätsnorm gilt dann als eingehalten.
   - 3.2 :: Einhaltung von Schwellenwerten
     Ein Schwellenwert gilt an einer Messstelle als eingehalten, wenn das arithmetische Mittel der im Zeitraum von einem Jahr gemessenen Konzentrationen an dieser Messstelle kleiner oder gleich dem Schwellenwert ist.
 

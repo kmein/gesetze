@@ -46,9 +46,9 @@ F√ºr die Pr√ºfung von Dampfkesselanlagen werden folgende Geb√ºhren erhoben:
 
 \\
 
-†
 
-†
+
+
 
 elektrischen Leistung N in kW und betr√§gt in EUR 0,07 x N + 56,24.
 
@@ -68,9 +68,9 @@ Bei Abgaswasservorw√§rmern, die vom Dampfkessel wasserseitig absperrbar sind, be
 
 Bei Dampfkesseln betr√§gt der Zuschlag f√ºr die Pr√ºfung der Einrichtungen f√ºr den Betrieb
 
-†
 
-†
+
+
 
 a)
 
@@ -78,15 +78,15 @@ mit st√§ndiger Beaufsichtigung von einer Warte aus oder mit eingeschr√§nkter Bea
 
 41,93 EUR
 
-†
 
-†
+
+
 
 oder
 
-†
 
-†
+
+
 
 b)
 
@@ -98,45 +98,45 @@ ohne st√§ndige Beaufsichtigung √ºber 72 Stunden
 
 Bei Hei√üwassererzeugern, die ein Ausdehnungsgef√§√ü oder einen Auffangbeh√§lter besitzen, betr√§gt der Zuschlag jeweils bei einem Rauminhalt
 
-†
 
-†
+
+
 
 bis 50 Liter
 
 46,02 EUR,
 
-†
+
 
 √ºber 50 Liter bis 400 Liter
 
 53,69 EUR,
 
-†
+
 
 √ºber 400 Liter bis 2.000 Liter
 
 72,60 EUR,
 
-†
+
 
 √ºber 2.000 Liter bis 5.000 Liter
 
 96,63 EUR,
 
-†
+
 
 √ºber 5.000 Liter bis 10.000 Liter
 
 115,04 EUR,
 
-†
+
 
 √ºber 10.000 Liter
 
 115,04 EUR
 
-†
+
 
 und zus√§tzlich je weitere und angefangene 10.000 Liter
 
@@ -297,43 +297,43 @@ Fundstelle des Originaltextes: BGBl. I 2001, 3479 - 3482
 
 Grundgeb√ºhr
 
-†
 
-†
+
+
 
 Die Grundgeb√ºhr betr√§gt f√ºr die Beh√§lter mit einem Rauminhalt
 
-†
+
 
 bis 400 Liter
 
 53,69 EUR,
 
-†
+
 
 √ºber 400 Liter bis 2.000 Liter
 
 72,60 EUR,
 
-†
+
 
 √ºber 2.000 Liter bis 5.000 Liter
 
 96,63 EUR,
 
-†
+
 
 √ºber 5.000 Liter bis 10.000 Liter
 
 115,04 EUR,
 
-†
+
 
 √ºber 10.000 Liter
 
 115,04 EUR
 
-†
+
 
 und zus√§tzlich je weitere und angefangene 10.000 Liter
 
@@ -372,27 +372,27 @@ und zus√§tzlich je weitere und angefangene 10.000 Liter
 
 bei Pr√ºfungen vor Inbetriebnahme
 
-†
 
-†
+
+
 
 f√ºr die 2. Pr√ºfung
 
 85 v. H. der Geb√ºhr nach Nummer 1.1,
 
-†
+
 
 f√ºr die 3. bis 10. Pr√ºfung
 
 75 v. H. der Geb√ºhr nach Nummer 1.1,
 
-†
+
 
 f√ºr die 11. bis 20. Pr√ºfung
 
 50 v. H. der Geb√ºhr nach Nummer 1.1,
 
-†
+
 
 f√ºr die 21. und jede weitere Pr√ºfung
 
@@ -402,21 +402,21 @@ f√ºr die 21. und jede weitere Pr√ºfung
 
 bei wiederkehrenden Pr√ºfungen
 
-†
 
-†
+
+
 
 f√ºr die 2. Pr√ºfung
 
 85 v. H. der Geb√ºhr nach Nummer 1.1,
 
-†
+
 
 f√ºr die 3. und jede weitere Pr√ºfung
 
 75 v. H. der Geb√ºhr nach Nummer 1.1.
 
-†
+
 
 Die Berechnung der Geb√ºhr nach den Nummern 1.2.1.1 und 1.2.1.2 beginnt mit der Pr√ºfung des gr√∂√üten Umfanges.
 
@@ -445,33 +445,33 @@ Die Berechnung der Geb√ºhr nach den Nummern 1.2.1.1 und 1.2.1.2 beginnt mit der 
 
 Pr√ºfung der Zeichnungsunterlagen bei Druckgaskartuschen, Einwegbeh√§ltern,
 
-†
 
-†
+
+
 
 Flaschen und Feuerl√∂schern
 
 85,90 EUR,
 
-†
+
 
 F√§ssern
 
 125,78 EUR,
 
-†
+
 
 Flaschenb√ºndeln (Gestelle und Ausr√ºstung) und Treibgastanks
 
 168,73 EUR,
 
-†
+
 
 Fahrzeugbeh√§ltern und Containern (im Werksverkehr)
 
-†
 
-†
+
+
 
 -
 
@@ -479,7 +479,7 @@ f√ºr alle Gase, ausgenommen fl√ºssige tiefkalte Druckgase
 
 289,39 EUR,
 
-†
+
 
 -
 
@@ -487,11 +487,11 @@ f√ºr fl√ºssige tiefkalte Druckgase
 
 374,78 EUR.
 
-†
+
 
 Bei Beh√§lterbaugruppen mit gleichem Durchmesser wird nur ein Beh√§lter berechnet.
 
-†
+
 
 -  :: - 2.2.2 :: Werkstoffpr√ºfung
   - 2.2.2.1 :: F√ºr die Beurteilung und Auswertung der erforderlichen Pr√ºfungen werden je Probesatz, bestehend aus 1 Zugprobe, 1 Satz Kerbschlagbiegeproben und 1 Faltprobe 20,45 EUR erhoben.
@@ -588,14 +588,14 @@ F√ºr die Pr√ºfung von Aufzugsanlagen und von Aufzugsw√§rtern werden folgende Geb
 
 Grundgeb√ºhr
 
-†
+
 
 Art der Aufzugsanlagen
 
 Grundgeb√ºhr G\\
 in EUR
 
-†
+
 
 Gruppe I:
 
@@ -608,7 +608,7 @@ Gruppe I:
 
 107,37
 
-†
+
 
 Gruppe II:
 
@@ -620,7 +620,7 @@ Gruppe II:
 
 82,83
 
-†
+
 
 Gruppe III:
 
@@ -633,26 +633,26 @@ Gruppe III:
 
 53,69
 
-†
+
 
 Gruppe IV:\\
 Fassadenaufzug
 
 117,60
 
-†
+
 
 Die noch als Lastenaufz√ºge mit Fangvorrichtung oder Aufsetzvorrichtung bezeichneten Aufz√ºge fallen unter die Gruppe I, die noch als Lastenaufz√ºge ohne Fangvorrichtung oder Aufsetzvorrichtung bezeichneten Aufz√ºge fallen unter die Gruppe II und die noch als Kleinlastenaufz√ºge bezeichneten Aufz√ºge fallen unter die Gruppe III.
 
-†
+
 
 1.3
 
 Pr√ºfungsfaktoren
 
-†
 
-†
+
+
 
 Art der Pr√ºfung
 
@@ -664,9 +664,9 @@ Aufz√ºge
 
 der Gruppe
 
-†
 
-†
+
+
 
 I
 
@@ -676,11 +676,11 @@ III
 
 IV
 
-†
+
 
 Abnahmepr√ºfung
 
-†
+
 
 Pr√ºfung der Anzeigeunterlagen
 
@@ -1007,9 +1007,9 @@ Fundstelle des Originaltextes: BGBl. I 2001, 3487 - 3492\\
 
 F√ºr die Pr√ºfung der elektrischen Einrichtungen von L√§gern und F√ºllstellen werden f√ºr jede in sich geschlossene Anlage eine Grundgeb√ºhr von 37,32 EUR und folgende Zuschl√§ge erhoben:
 
-†
 
-†
+
+
 
 explosionsgesch√ºtzte Bauart
 
@@ -1019,15 +1019,15 @@ in EUR
 
 in EUR
 
-†
+
 
 f√ºr jedes Ger√§t (Motoren, Transformatoren, Umformer, Gleichrichter)
 
-†
 
-†
 
-†
+
+
+
 
 - bis zu einer Leistung von je 15 kW
 
@@ -1035,7 +1035,7 @@ f√ºr jedes Ger√§t (Motoren, Transformatoren, Umformer, Gleichrichter)
 
 7,16,
 
-†
+
 
 - bis zu einer Leistung von je mehr als 15 kW
 
@@ -1043,7 +1043,7 @@ f√ºr jedes Ger√§t (Motoren, Transformatoren, Umformer, Gleichrichter)
 
 12,27,
 
-†
+
 
 f√ºr jede Leuchte
 
@@ -1051,7 +1051,7 @@ f√ºr jede Leuchte
 
 3,07.
 
-†
+
 
 Die Geb√ºhr f√ºr die Pr√ºfung der Schalt- und Verteilungsanlagen ist in vorstehenden S√§tzen enthalten. F√ºr die Pr√ºfung der Mess-, Steuer- und Regelanlagen werden Geb√ºhren nach Nummer 11 erhoben.
 
@@ -1059,21 +1059,21 @@ Die Geb√ºhr f√ºr die Pr√ºfung der Schalt- und Verteilungsanlagen ist in vorstehe
 
 F√ºr die Pr√ºfung der elektrischen Einrichtungen von Tankstellen werden folgende Geb√ºhren erhoben
 
-†
+
 
 8.1.2.1
 
 f√ºr die Pr√ºfung von Abgabeeinrichtungen
 
-†
 
-†
+
+
 
 - f√ºr jede F√∂rder- und Abgabeeinheit
 
 36,81 EUR,
 
-†
+
 
 - f√ºr jede Zusatzeinrichtung (Belegdrucker/Mess-, Rechen- oder Anzeigeeinheit mit Fern√ºbertragung)
 
@@ -1085,85 +1085,85 @@ f√ºr die Pr√ºfung jeder Einrichtung zur Ableitung statischer Ladung jeder zus√§t
 
 7,16 EUR,
 
-†
+
 
 f√ºr die Pr√ºfung von Gasr√ºckf√ºhrsystemen je Einzelanlage
 
 18,41 EUR.
 
-†
+
 
 F√ºr die Pr√ºfung sonstiger elektrischer Einrichtungen werden Geb√ºhren nach Nummer 11 erhoben.
 
-†
+
 
 8.2
 
 Einrichtungen f√ºr den Blitzschutz
 
-†
+
 
 8.2.1
 
 F√ºr die Pr√ºfung der Einrichtung f√ºr den Blitzschutz wird f√ºr jede in sich geschlossene Anlage
 
-†
 
-†
+
+
 
 eine Grundgeb√ºhr von
 
 34,26 EUR
 
-†
+
 
 und ein Zuschlag f√ºr jede Trennstelle von
 
 7,16 EUR
 
-†
+
 
 erhoben.
 
-†
+
 
 8.3
 
 Einrichtungen f√ºr den kathodischen Korrosionsschutz
 
-†
+
 
 8.3.1
 
 F√ºr die Pr√ºfung des kathodischen Korrosionsschutzes an Tankstellen werden erhoben
 
-†
 
-†
+
+
 
 Pr√ºfung nach VDE 0165 je Abgabeeinrichtung
 
 4,60 EUR,
 
-†
+
 
 Funktionspr√ºfung f√ºr den ersten Tank
 
 65,45 EUR,
 
-†
+
 
 f√ºr jeden weiteren Tank ein Zuschlag von
 
 21,47 EUR,
 
-†
+
 
 f√ºr jede Fremdstromanlage ein Zuschlag von
 
 10,74 EUR,
 
-†
+
 
 f√ºr jede Anode ein Zuschlag von
 
@@ -1173,21 +1173,21 @@ f√ºr jede Anode ein Zuschlag von
 
 F√ºr die Pr√ºfung auf Erfordernis eines kathodischen Korrosionsschutzes an Tankstellen werden erhoben
 
-†
 
-†
+
+
 
 Messung des spezifischen Bodenwiderstandes
 
 65,45 EUR,
 
-†
+
 
 Messung des Tank-/Bodenpotentials je Tank
 
 36,30 EUR,
 
-†
+
 
 Ermittlung des Ausbreitungswiderstandes je Tank
 
@@ -1197,19 +1197,19 @@ Ermittlung des Ausbreitungswiderstandes je Tank
 
 F√ºr die Pr√ºfung auf Erfordernis des kathodischen Korrosionsschutzes von L√§gern und F√ºllstellen werden Geb√ºhren nach Nummer 11 erhoben.
 
-†
+
 
 8.4
 
 Angeordnete Pr√ºfungen
 
-†
 
-†
+
+
 
 F√ºr angeordnete Pr√ºfungen werden Geb√ºhren nach den Nummern 8.1 bis 8.3 erhoben.
 
-†
+
 
 -  :: - 9 :: Fernleitungen
   - 9.1 :: F√ºr jede der nachstehenden Pr√ºfungen von Fernleitungen zum Bef√∂rdern brennbarer Fl√ºssigkeiten

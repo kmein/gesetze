@@ -24,10 +24,10 @@ Institute im Sinn des § 1 Absatz 3 des Zahlungsdiensteaufsichtsgesetzes haben a
 (1) Für Zahlungsdienste nach § 1 Absatz 1 Satz 2 des Zahlungsdiensteaufsichtsgesetzes und für die Ausgabe von E-Geld nach § 1 Absatz 2 Satz 2 des Zahlungsdiensteaufsichtsgesetzes sowie für sonstige Geschäfte sind die Angaben in der Rechnungslegung jeweils getrennt auszuweisen. Die Positionen der Bilanz und der Gewinn- und Verlustrechnung sind nach Maßgabe der Formblätter entsprechend ihrer Herkunft aus Zahlungsdiensten und aus der Ausgabe von E-Geld oder aus sonstigen Tätigkeiten zu unterteilen.
 (2) Als Unterposten sind im Formblatt 1 jeweils gesondert auszuweisen:
 
-- 1. :: die verbrieften und unverbrieften Forderungen an verbundene Unternehmen zu den Posten �Forderungen an Kreditinstitute“ (Aktivposten 2), �Forderungen an Kunden“ (Aktivposten 3), �Forderungen an Institute im Sinne des § 1 Absatz 3 des Zahlungsdiensteaufsichtsgesetzes“ (Aktivposten 4) und �Schuldverschreibungen und andere festverzinsliche Wertpapiere“ (Aktivposten 5);
-- 2. :: die verbrieften und unverbrieften Forderungen an Unternehmen, mit denen ein Beteiligungsverhältnis besteht, zu den Posten �Forderungen an Kreditinstitute“ (Aktivposten 2), �Forderungen an Kunden“ (Aktivposten 3), �Forderungen an Institute im Sinne des § 1 Absatz 3 des Zahlungsdiensteaufsichtsgesetzes“ (Aktivposten 4) und �Schuldverschreibungen und andere festverzinsliche Wertpapiere“ (Aktivposten 5);
-- 3. :: die verbrieften und unverbrieften Verbindlichkeiten gegenüber verbundenen Unternehmen zu den Posten �Verbindlichkeiten gegenüber Kreditinstituten“ (Passivposten 1), �Verbindlichkeiten gegenüber Kunden“ (Passivposten 2), �Verbindlichkeiten gegenüber Instituten im Sinne des § 1 Absatz 3 des Zahlungsdiensteaufsichtsgesetzes“ (Passivposten 3) und �Nachrangige Verbindlichkeiten“ (Passivposten 8);
-- 4. :: die verbrieften und unverbrieften Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht, zu den Posten �Verbindlichkeiten gegenüber Kreditinstituten“ (Passivposten 1), �Verbindlichkeiten gegenüber Kunden“ (Passivposten 2), �Verbindlichkeiten gegenüber Instituten im Sinne des § 1 Absatz 3 des Zahlungsdiensteaufsichtsgesetzes“ (Passivposten 3) und �Nachrangige Verbindlichkeiten“ (Passivposten 8).
+- 1. :: die verbrieften und unverbrieften Forderungen an verbundene Unternehmen zu den Posten Forderungen an Kreditinstitute“ (Aktivposten 2), Forderungen an Kunden“ (Aktivposten 3), Forderungen an Institute im Sinne des § 1 Absatz 3 des Zahlungsdiensteaufsichtsgesetzes“ (Aktivposten 4) und Schuldverschreibungen und andere festverzinsliche Wertpapiere“ (Aktivposten 5);
+- 2. :: die verbrieften und unverbrieften Forderungen an Unternehmen, mit denen ein Beteiligungsverhältnis besteht, zu den Posten Forderungen an Kreditinstitute“ (Aktivposten 2), Forderungen an Kunden“ (Aktivposten 3), Forderungen an Institute im Sinne des § 1 Absatz 3 des Zahlungsdiensteaufsichtsgesetzes“ (Aktivposten 4) und Schuldverschreibungen und andere festverzinsliche Wertpapiere“ (Aktivposten 5);
+- 3. :: die verbrieften und unverbrieften Verbindlichkeiten gegenüber verbundenen Unternehmen zu den Posten Verbindlichkeiten gegenüber Kreditinstituten“ (Passivposten 1), Verbindlichkeiten gegenüber Kunden“ (Passivposten 2), Verbindlichkeiten gegenüber Instituten im Sinne des § 1 Absatz 3 des Zahlungsdiensteaufsichtsgesetzes“ (Passivposten 3) und Nachrangige Verbindlichkeiten“ (Passivposten 8);
+- 4. :: die verbrieften und unverbrieften Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht, zu den Posten Verbindlichkeiten gegenüber Kreditinstituten“ (Passivposten 1), Verbindlichkeiten gegenüber Kunden“ (Passivposten 2), Verbindlichkeiten gegenüber Instituten im Sinne des § 1 Absatz 3 des Zahlungsdiensteaufsichtsgesetzes“ (Passivposten 3) und Nachrangige Verbindlichkeiten“ (Passivposten 8).
 
 Die Angaben nach Satz 1 können statt in der Bilanz im Anhang in der Reihenfolge der betroffenen Posten gemacht werden.
 
@@ -55,7 +55,7 @@ Für die Gliederung nach Restlaufzeiten sind bei ungekündigten Kündigungsgelde
 
 § 7 - Fristengliederung
 
-Im Anhang sind die Beträge der �Forderungen an Kunden“ (Aktivposten 3) und der �Verbindlichkeiten gegenüber Kunden“ (Passivposten 2) gesondert nach folgenden Restlaufzeiten aufzugliedern:
+Im Anhang sind die Beträge der Forderungen an Kunden“ (Aktivposten 3) und der Verbindlichkeiten gegenüber Kunden“ (Passivposten 2) gesondert nach folgenden Restlaufzeiten aufzugliedern:
 
 - 1. :: bis drei Monate,
 - 2. :: mehr als drei Monate bis sechs Monate,
@@ -69,7 +69,7 @@ Anteilige Zinsen und ähnliche das Geschäftsjahr betreffende Beträge, die erst
 
 § 9 - Barreserve – Posten 1
 
-Als Barreserve sind gesetzliche Zahlungsmittel einschlie�Sonstige Vermögensgegenstände“ (Posten 12) zu erfassen. Als Guthaben bei Zentralnotenbanken dürfen nur täglich fällige Guthaben einschließlich der täglich fälligen Fremdwährungsguthaben bei Zentralnotenbanken der Niederlassungsländer des Instituts ausgewiesen werden.
+Als Barreserve sind gesetzliche Zahlungsmittel einschlieSonstige Vermögensgegenstände“ (Posten 12) zu erfassen. Als Guthaben bei Zentralnotenbanken dürfen nur täglich fällige Guthaben einschließlich der täglich fälligen Fremdwährungsguthaben bei Zentralnotenbanken der Niederlassungsländer des Instituts ausgewiesen werden.
 
 § 10 - Forderungen an Kreditinstitute – Posten 2
 
@@ -85,7 +85,7 @@ Als Forderungen an Kreditinstitute sind alle Arten von Forderungen an in- und au
 
 § 11 - Forderungen an Kunden – Posten 3
 
-Als Forderungen an Kunden sind alle Arten von Vermögensgegenständen auszuweisen, die Forderungen an in- und ausländische Nichtbanken darstellen, soweit es sich nicht um börsenfähige Schuldverschreibungen im Sinn des Postens 5 �Schuldverschreibungen und andere festverzinsliche Wertpapiere“ handelt. § 5 bleibt unberührt. Als Forderungen an Kunden aus Zahlungsdiensten und aus der Ausgabe von E-Geld aus Krediten sind die gemäß § 3 Absatz 4 des Zahlungsdiensteaufsichtsgesetzes gewährten Kredite auszuweisen.
+Als Forderungen an Kunden sind alle Arten von Vermögensgegenständen auszuweisen, die Forderungen an in- und ausländische Nichtbanken darstellen, soweit es sich nicht um börsenfähige Schuldverschreibungen im Sinn des Postens 5 Schuldverschreibungen und andere festverzinsliche Wertpapiere“ handelt. § 5 bleibt unberührt. Als Forderungen an Kunden aus Zahlungsdiensten und aus der Ausgabe von E-Geld aus Krediten sind die gemäß § 3 Absatz 4 des Zahlungsdiensteaufsichtsgesetzes gewährten Kredite auszuweisen.
 
 § 12 - Schuldverschreibungen und andere festverzinsliche Wertpapiere – Posten 5
 
@@ -111,14 +111,14 @@ Als Geldmarktpapiere gelten alle Schuldverschreibungen und andere festverzinslic
 
 Als Aktien und andere nicht festverzinsliche Wertpapiere sind auszuweisen:
 
-- 1. :: Aktien, soweit sie nicht im Posten 7 �Beteiligungen“ oder im Posten 8 �Anteile an verbundenen Unternehmen“ auszuweisen sind,
+- 1. :: Aktien, soweit sie nicht im Posten 7 Beteiligungen“ oder im Posten 8 Anteile an verbundenen Unternehmen“ auszuweisen sind,
 - 2. :: Zwischenscheine, Anteile oder Aktien an Investmentvermögen, Optionsscheine, Gewinnanteilscheine, als Inhaber- oder Orderpapiere ausgestaltete börsenfähige Genussscheine sowie andere nicht festverzinsliche Wertpapiere, soweit sie börsennotiert sind, und
 - 3. :: vor Fälligkeit hereingenommene Gewinnanteilscheine.
 
 
 § 14 - Beteiligungen – Posten 7
 
-Institute im Sinn des § 1 Absatz 3 des Zahlungsdiensteaufsichtsgesetzes in der Rechtsform der eingetragenen Genossenschaft haben Geschäftsguthaben bei Genossenschaften unter dem Posten 7 �Beteiligungen“ auszuweisen. In diesem Fall ist die Postenbezeichnung entsprechend anzupassen.
+Institute im Sinn des § 1 Absatz 3 des Zahlungsdiensteaufsichtsgesetzes in der Rechtsform der eingetragenen Genossenschaft haben Geschäftsguthaben bei Genossenschaften unter dem Posten 7 Beteiligungen“ auszuweisen. In diesem Fall ist die Postenbezeichnung entsprechend anzupassen.
 
 § 15 - Sonstige Vermögensgegenstände – Posten 12
 
@@ -134,11 +134,11 @@ Als Verbindlichkeiten gegenüber Kunden sind alle Arten von Verbindlichkeiten ge
 
 § 18 - Rückstellungen – Posten 6
 
-Wird im Posten 6 c �andere Rückstellungen“ eine Rückstellung für einen drohenden Verlust aus einer unter dem Strich vermerkten Eventualverbindlichkeit oder einem Kreditrisiko gebildet, so ist der Posten unter dem Strich um den zurückgestellten Betrag zu kürzen.
+Wird im Posten 6 c andere Rückstellungen“ eine Rückstellung für einen drohenden Verlust aus einer unter dem Strich vermerkten Eventualverbindlichkeit oder einem Kreditrisiko gebildet, so ist der Posten unter dem Strich um den zurückgestellten Betrag zu kürzen.
 
 § 19 - Eigenkapital – Posten 11
 
-Als gezeichnetes Kapital sind, ungeachtet ihrer genauen Bezeichnung im Einzelfall, alle Beträge auszuweisen, die entsprechend der Rechtsform des Instituts im Sinn des § 1 Absatz 3 des Zahlungsdiensteaufsichtsgesetzes als von den Gesellschaftern oder anderen Eigentümern gezeichnete Eigenkapitalbeträge gelten; auch Einlagen stiller Gesellschafter sowie Geschäftsguthaben sind in diesen Posten einzubeziehen. Die genaue Bezeichnung im Einzelfall kann zusätzlich zu der Postenbezeichnung �gezeichnetes Kapital“ in das Bilanzformblatt eingetragen werden.
+Als gezeichnetes Kapital sind, ungeachtet ihrer genauen Bezeichnung im Einzelfall, alle Beträge auszuweisen, die entsprechend der Rechtsform des Instituts im Sinn des § 1 Absatz 3 des Zahlungsdiensteaufsichtsgesetzes als von den Gesellschaftern oder anderen Eigentümern gezeichnete Eigenkapitalbeträge gelten; auch Einlagen stiller Gesellschafter sowie Geschäftsguthaben sind in diesen Posten einzubeziehen. Die genaue Bezeichnung im Einzelfall kann zusätzlich zu der Postenbezeichnung gezeichnetes Kapital“ in das Bilanzformblatt eingetragen werden.
 
 § 20 - Unwiderrufliche Kreditzusagen – Posten 1 unter dem Strich
 
@@ -177,7 +177,7 @@ Als Provisionsaufwendungen sind Provisionen und ähnliche Aufwendungen aus Diens
 
 § 25 - Allgemeine Verwaltungsaufwendungen – Posten 8
 
-(1) In Posten 8 a) aa) bbb) sowie Posten 8 b) aa) bbb), jeweils �Soziale Abgaben und Aufwendungen für Altersversorgung und für Unterstützung“, sind auszuweisen:
+(1) In Posten 8 a) aa) bbb) sowie Posten 8 b) aa) bbb), jeweils Soziale Abgaben und Aufwendungen für Altersversorgung und für Unterstützung“, sind auszuweisen:
 
 - 1. :: gesetzliche Pflichtabgaben,
 - 2. :: Beihilfen und Unterstützungen, die das Institut im Sinn des § 1 Absatz 3 des Zahlungsdiensteaufsichtsgesetzes zu erbringen hat, sowie
@@ -185,7 +185,7 @@ Als Provisionsaufwendungen sind Provisionen und ähnliche Aufwendungen aus Diens
 
 Der sonstige Personalaufwand (zum Beispiel freiwillige soziale Leistungen) ist dem Unterposten des Personalaufwands zuzurechnen, zu dem er seiner Art nach gehört.
 
-(2) In Posten 8 a) bb) sowie Posten 8 b) bb), jeweils �andere Verwaltungsaufwendungen“, sind die gesamten Aufwendungen sachlicher Art auszuweisen, insbesondere:
+(2) In Posten 8 a) bb) sowie Posten 8 b) bb), jeweils andere Verwaltungsaufwendungen“, sind die gesamten Aufwendungen sachlicher Art auszuweisen, insbesondere:
 
 - 1. :: Raumkosten,
 - 2. :: Bürobetriebskosten,
@@ -200,7 +200,7 @@ Der sonstige Personalaufwand (zum Beispiel freiwillige soziale Leistungen) ist d
 - 11. :: Kosten des Geldverkehrs und
 - 12. :: Kosten für Geldtransporte und dergleichen.
 
-(3) Prämien für Kreditversicherungen sind im Posten 11 �Abschreibungen und Wertberichtigungen auf Forderungen und bestimmte Wertpapiere sowie Zuführungen zu Rückstellungen im Kreditgeschäft“ zu erfassen.
+(3) Prämien für Kreditversicherungen sind im Posten 11 Abschreibungen und Wertberichtigungen auf Forderungen und bestimmte Wertpapiere sowie Zuführungen zu Rückstellungen im Kreditgeschäft“ zu erfassen.
 
 § 26 - Abschreibungen und Wertberichtigungen auf Forderungen und bestimmte Wertpapiere sowie Zuführungen zu Rückstellungen im Kreditgeschäft – Posten 11, Erträge aus Zuschreibungen zu Forderungen und bestimmten Wertpapieren sowie aus der Auflösung von Rückstellungen im Kreditgeschäft – Posten 12
 
@@ -233,29 +233,29 @@ Die Aufgliederung nach Satz 1 Nummer 1 kann unterbleiben, soweit sie nach vernü
 (1) Zu den Posten der Bilanz und der Gewinn- und Verlustrechnung sind im Anhang anzugeben:
 
 - 1. :: eine Aufgliederung der börsenfähigen Wertpapiere nach börsennotierten und nicht börsennotierten Wertpapieren, die in den folgenden Posten des Formblattes 1 enthalten sind:
-  - a) :: �Schuldverschreibungen und andere festverzinsliche Wertpapiere“ Aktivposten 5,
-  - b) :: �Aktien und andere nicht festverzinsliche Wertpapiere“ Aktivposten 6,
-  - c) :: �Beteiligungen“ Aktivposten 7,
-  - d) :: �Anteile an verbundenen Unternehmen“ Aktivposten 8;
+  - a) :: Schuldverschreibungen und andere festverzinsliche Wertpapiere“ Aktivposten 5,
+  - b) :: Aktien und andere nicht festverzinsliche Wertpapiere“ Aktivposten 6,
+  - c) :: Beteiligungen“ Aktivposten 7,
+  - d) :: Anteile an verbundenen Unternehmen“ Aktivposten 8;
 - 2. :: der Betrag der nicht mit dem Niederstwert bewerteten börsenfähigen Wertpapiere jeweils zu folgenden Posten der Bilanz, wobei anzugeben ist, in welcher Weise die so bewerteten Wertpapiere von den mit dem Niederstwert bewerteten börsenfähigen Wertpapieren abgegrenzt worden sind:
-  - a) :: �Schuldverschreibungen und andere festverzinsliche Wertpapiere“ Aktivposten 5 sowie
-  - b) :: �Aktien und andere nicht festverzinsliche Wertpapiere“ Aktivposten 6;
+  - a) :: Schuldverschreibungen und andere festverzinsliche Wertpapiere“ Aktivposten 5 sowie
+  - b) :: Aktien und andere nicht festverzinsliche Wertpapiere“ Aktivposten 6;
 - 3. :: die in den folgenden Posten enthaltenen wichtigsten Einzelbeträge, sofern sie für die Beurteilung des Jahresabschlusses nicht unwesentlich sind, wobei die Beträge und ihre Art zu erläutern sind:
-  - a) :: �Sonstige Vermögensgegenstände“ Aktivposten 12,
-  - b) :: �Sonstige Verbindlichkeiten“ Passivposten 4,
-  - c) :: �Sonstige betriebliche Aufwendungen“ Formblatt 2 Posten 10,
-  - d) :: �Sonstige betriebliche Erträge“ Formblatt 2 Posten 7,
-  - e) :: �Außerordentliche Aufwendungen“ Formblatt 2 Posten 18 und
-  - f) :: �Außerordentliche Erträge“ Formblatt 2 Posten 17;
+  - a) :: Sonstige Vermögensgegenstände“ Aktivposten 12,
+  - b) :: Sonstige Verbindlichkeiten“ Passivposten 4,
+  - c) :: Sonstige betriebliche Aufwendungen“ Formblatt 2 Posten 10,
+  - d) :: Sonstige betriebliche Erträge“ Formblatt 2 Posten 7,
+  - e) :: Außerordentliche Aufwendungen“ Formblatt 2 Posten 18 und
+  - f) :: Außerordentliche Erträge“ Formblatt 2 Posten 17;
 - 4. :: die Dritten erbrachten Dienstleistungen für Verwaltung und Vermittlung, sofern ihr Umfang in Bezug auf die Gesamttätigkeit des Instituts im Sinn des § 1 Absatz 3 des Zahlungsdiensteaufsichtsgesetzes von wesentlicher Bedeutung ist;
 - 5. :: der Gesamtbetrag der Vermögensgegenstände und der Gesamtbetrag der Schulden, die auf Fremdwährung lauten, jeweils in Euro.
 
-(2) Zu dem Posten der Bilanz �Sachanlagen“ Aktivposten 10 sind im Anhang mit ihrem Gesamtbetrag anzugeben:
+(2) Zu dem Posten der Bilanz Sachanlagen“ Aktivposten 10 sind im Anhang mit ihrem Gesamtbetrag anzugeben:
 
 - 1. :: die vom Institut im Sinn des § 1 Absatz 3 des Zahlungsdiensteaufsichtsgesetzes im Rahmen seiner eigenen Tätigkeit genutzten Grundstücke und Bauten,
 - 2. :: die Betriebs- und Geschäftsausstattung.
 
-(3) Zu dem Posten der Bilanz �Nachrangige Verbindlichkeiten“ Passivposten 8 sind im Anhang anzugeben:
+(3) Zu dem Posten der Bilanz Nachrangige Verbindlichkeiten“ Passivposten 8 sind im Anhang anzugeben:
 
 - 1. :: der Betrag der für nachrangige Verbindlichkeiten angefallenen Aufwendungen,
 - 2. :: zu jeder 10 Prozent des Gesamtbetrags der nachrangigen Verbindlichkeiten übersteigenden Mittelaufnahme:
@@ -270,7 +270,7 @@ Die Aufgliederung nach Satz 1 Nummer 1 kann unterbleiben, soweit sie nach vernü
 In den Anhang ist eine Aufstellung über die Arten von am Bilanzstichtag noch nicht abgewickelten fremdwährungs-, zinsabhängigen und sonstigen Termingeschäften, die lediglich ein Erfüllungsrisiko sowie Währungs-, Zins- und/oder sonstige Marktpreisänderungsrisiken aus offenen und im Fall eines Adressenausfalls auch aus geschlossenen Positionen enthalten, aufzunehmen. Hierzu gehören:
 
 - 1. :: Termingeschäfte in fremden Währungen, insbesondere Devisentermingeschäfte, Devisenterminkontrakte, Währungsswaps, Zins-/Währungsswaps, Stillhalterverpflichtungen aus Devisenoptionsgeschäften, Devisenoptionsrechte, Termingeschäfte in Gold und anderen Edelmetallen, Edelmetallterminkontrakte, Stillhalterverpflichtungen aus Goldoptionen, Goldoptionsrechte;
-- 2. :: zinsbezogene Termingeschäfte, insbesondere Termingeschäfte mit festverzinslichen Wertpapieren, Zinsterminkontrakte, Forward Rate Agreements, Stillhalterverpflichtungen aus Zinsoptionen, Zinsoptionsrechte, Zinsswaps, Abnahmeverpflichtungen aus Forward Forward Deposits; Lieferverpflichtungen aus solchen Geschäften sind in dem Unterposten der Bilanz �Unwiderrufliche Kreditzusagen“ (Passivposten 1 unter dem Strich) zu vermerken;
+- 2. :: zinsbezogene Termingeschäfte, insbesondere Termingeschäfte mit festverzinslichen Wertpapieren, Zinsterminkontrakte, Forward Rate Agreements, Stillhalterverpflichtungen aus Zinsoptionen, Zinsoptionsrechte, Zinsswaps, Abnahmeverpflichtungen aus Forward Forward Deposits; Lieferverpflichtungen aus solchen Geschäften sind in dem Unterposten der Bilanz Unwiderrufliche Kreditzusagen“ (Passivposten 1 unter dem Strich) zu vermerken;
 - 3. :: Termingeschäfte mit sonstigen Preisrisiken, insbesondere aktienkursbezogene Termingeschäfte, Stillhalterverpflichtungen aus Aktienoptionen, Aktienoptionsrechte, Indexterminkontrakte, Stillhalterverpflichtungen aus Indexoptionen, Indexoptionsrechte.
 
 Für jeden der drei Gliederungsposten der Termingeschäfte ist anzugeben, ob ein wesentlicher Teil davon zur Deckung von Zins-, Wechselkurs- oder Marktpreisschwankungen abgeschlossen wurde und ob ein wesentlicher Teil davon auf Handelsgeschäfte entfällt.
@@ -298,21 +298,21 @@ Auf den Konzernabschluss sind, soweit seine Eigenart keine Abweichung bedingt, d
 (3) Für das Formblatt 1 gelten folgende Veränderungen:
 
 - 1. :: die folgenden Posten entfallen:
-  - a) :: im Aktivposten 9 �Immaterielle Anlagewerte“
+  - a) :: im Aktivposten 9 Immaterielle Anlagewerte“
     - aa) :: der Unterposten a) aa) bis dd),
     - bb) :: der Unterposten b) aa) bis dd),
-  - b) :: Aktivposten 15 �Aktiver Unterschiedsbetrag aus der Vermögensverrechnung“;
-- 1a. :: die Bezeichnung des Passivpostens 11 a) lautet wie folgt: �gezeichnetes Kapital“;
-- 2. :: die Bezeichnung des Passivpostens 11 c) bb) �Rücklage für Anteile an einem herrschenden oder mehrheitlich beteiligten Unternehmen“ wird durch die Bezeichnung �Rücklage für eigene Anteile“ ersetzt;
-- 3. :: nach Passivposten 6 �Rückstellungen“ ist der Passivposten 6a �Sonderposten mit Rücklageanteil“ einzufügen.
+  - b) :: Aktivposten 15 Aktiver Unterschiedsbetrag aus der Vermögensverrechnung“;
+- 1a. :: die Bezeichnung des Passivpostens 11 a) lautet wie folgt: gezeichnetes Kapital“;
+- 2. :: die Bezeichnung des Passivpostens 11 c) bb) Rücklage für Anteile an einem herrschenden oder mehrheitlich beteiligten Unternehmen“ wird durch die Bezeichnung Rücklage für eigene Anteile“ ersetzt;
+- 3. :: nach Passivposten 6 Rückstellungen“ ist der Passivposten 6a Sonderposten mit Rücklageanteil“ einzufügen.
 
 (4) Für das Formblatt 2 gelten folgende Veränderungen:
 
 - 1. :: folgende Posten sind einzufügen:
-  - a) :: nach dem Posten 7 �Sonstige betriebliche Erträge“ der Posten 7a �Erträge aus der Auflösung von Sonderposten mit Rücklageanteil“ und
-  - b) :: nach dem Posten 15 �Aufwendungen aus Verlustübernahme“ der Posten 15a �Einstellungen in Sonderposten mit Rücklageanteil“;
-- 2. :: die Bezeichnung des Postens 27 b �aus der Rücklage für Anteile an einem herrschenden oder mehrheitlich beteiligten Unternehmen“ wird durch die Bezeichnung �aus der Rücklage für eigene Anteile“ ersetzt;
-- 3. :: die Bezeichnung des Postens 29 b �in die Rücklage für Anteile an einem herrschenden oder mehrheitlich beteiligten Unternehmen“ wird durch die Bezeichnung �in die Rücklage für eigene Anteile“ ersetzt.
+  - a) :: nach dem Posten 7 Sonstige betriebliche Erträge“ der Posten 7a Erträge aus der Auflösung von Sonderposten mit Rücklageanteil“ und
+  - b) :: nach dem Posten 15 Aufwendungen aus Verlustübernahme“ der Posten 15a Einstellungen in Sonderposten mit Rücklageanteil“;
+- 2. :: die Bezeichnung des Postens 27 b aus der Rücklage für Anteile an einem herrschenden oder mehrheitlich beteiligten Unternehmen“ wird durch die Bezeichnung aus der Rücklage für eigene Anteile“ ersetzt;
+- 3. :: die Bezeichnung des Postens 29 b in die Rücklage für Anteile an einem herrschenden oder mehrheitlich beteiligten Unternehmen“ wird durch die Bezeichnung in die Rücklage für eigene Anteile“ ersetzt.
 
 (5) Diese Verordnung in der Fassung des Artikels 9 des Gesetzes zur Umsetzung der Zweiten E-Geld-Richtlinie vom 1. März 2011 (BGBl. I S. 288) ist erstmals auf den Jahresabschluss und den Lagebericht sowie den Konzernabschluss und den Konzernlagebericht eines E-Geld-Instituts für das nach dem 30. April 2011 beginnende Geschäftsjahr anzuwenden.
 (6) Das Formblatt 1 in der Fassung des Artikels 2 der Verordnung zur Änderung von Rechnungslegungsverordnungen vom 9. Juni 2011 (BGBl. I S. 1041) ist erstmals auf Jahresabschlüsse für Geschäftsjahre anzuwenden, die nach dem 31. Dezember 2009, im Fall des Artikels 66 Absatz 3 Satz 6 des Einführungsgesetzes zum Handelsgesetzbuch nach dem 31. Dezember 2008 beginnen. Absatz 2 bleibt unberührt.

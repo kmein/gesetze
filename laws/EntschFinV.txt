@@ -391,7 +391,7 @@ Anlage 1 - (zu § 8 Absatz 1 und § 9)Risikoeinschätzung auf der Grundlage von 
   - 2.1 :: LCR gemäß Durchführungsverordnung (EU) Nr. 680/2014, Template C 76.00.
     Bei Anwendung der sogenannten Waiver-Regelung gemäß § 2a des Kreditwesengesetzes in Verbindung mit Artikel 8 der Verordnung (EU) Nr. 575/2013 wird für die Kennzahl die Quote auf Konzernebene berücksichtigt.
   - 2.2 :: Strukturelle Liquiditätsquote
-    Gemä�Net Stable Funding Ratio disclosure standard“ ist für Meldezeiträume nach dem 1. Januar 2018 eine verpflichtende Offenlegung der NSFR (Net Stable Funding Ratio) vorgesehen. Ab 2019 wird die NSFR gemäß Durchführungsverordnung (EU) Nr. 680/2014 mit 9 Prozent gewichtet.
+    GemäNet Stable Funding Ratio disclosure standard“ ist für Meldezeiträume nach dem 1. Januar 2018 eine verpflichtende Offenlegung der NSFR (Net Stable Funding Ratio) vorgesehen. Ab 2019 wird die NSFR gemäß Durchführungsverordnung (EU) Nr. 680/2014 mit 9 Prozent gewichtet.
     Bei Anwendung der sogenannten Waiver-Regelung gemäß § 2a des Kreditwesengesetzes in Verbindung mit Artikel 8 der Verordnung (EU) Nr. 575/2013 wird für die Kennzahl die Quote auf Konzernebene berücksichtigt.
   - 3.1 :: Quote notleidender Kredite gemäß Finanz- und Risikotragfähigkeitsinformationenverordnung, Meldebogen zu den Finanzinformationen gemäß § 25 Absatz 1 Satz 1 des Kreditwesengesetzes
     In Verzug geratene Kredite (ohne Kredite, für die eine Einzelwertberichtigung gebildet wurde) abzüglich hierfür bestehender Sicherheiten plus einzelwertberichtigte Kredite vor Absetzung von Einzelwertberichtigungen abzüglich hierfür bestehender Sicherheiten im Verhältnis zur Höhe des Kreditvolumens.
@@ -415,8 +415,8 @@ Anlage 1 - (zu § 8 Absatz 1 und § 9)Risikoeinschätzung auf der Grundlage von 
 - IV. :: Ermittlung der Bonitätsnote
   Die Bonitätsnote nach § 8 Absatz 2 wird wie folgt ermittelt:
   - 1. :: Die Risikoindikatoren werden gemäß Spalte 3 der Tabelle unter Ziffer I berechnet.
-  - 2. :: Der errechnete Risikoindikatorwert bestimmt die Höhe des individuellen Risikowerts (IRS) eines Risikoindikators. Die IRS bewegen sich zwischen der Risikoausprägung 0 für �sehr geringes Risiko“ und 100 für �sehr hohes Risiko“.
-  - 3. :: Der IRS jedes Risikoindikators wird mit der jeweiligen Indikatorgewichtung gemä�höchste Bonität“ und 9 für �schwächste Bonität“ gemäß § 8 Absatz 2 zugeordnet.
+  - 2. :: Der errechnete Risikoindikatorwert bestimmt die Höhe des individuellen Risikowerts (IRS) eines Risikoindikators. Die IRS bewegen sich zwischen der Risikoausprägung 0 für sehr geringes Risiko“ und 100 für sehr hohes Risiko“.
+  - 3. :: Der IRS jedes Risikoindikators wird mit der jeweiligen Indikatorgewichtung gemähöchste Bonität“ und 9 für schwächste Bonität“ gemäß § 8 Absatz 2 zugeordnet.
 
 
 Anlage 2 - (zu § 11 Absatz 1 und § 12)Risikoeinschätzung auf der Grundlage von Risikokategorien und Risikoindikatoren für CRR-Kreditinstitute, die der Entschädigungseinrichtung des Bundesverbandes Öffentlicher Banken Deutschlands GmbH zugeordnet sind
@@ -433,7 +433,7 @@ Anlage 2 - (zu § 11 Absatz 1 und § 12)Risikoeinschätzung auf der Grundlage vo
   - 2.1 :: LCR gemäß der Durchführungsverordnung (EU) Nr. 680/2014, Template C 76.00 Zeile 030 Spalte 010.
     Bei Anwendung der sogenannten Waiver-Regelung gemäß § 2a des Kreditwesengesetzes in Verbindung mit Artikel 8 der Verordnung (EU) Nr. 575/2013 wird für die Kennzahl die Quote auf Konzernebene berücksichtigt.
   - 2.2 :: Strukturelle Liquiditätsquote
-    Gemä�Net Stable Funding Ratio disclosure standard“ ist für Meldezeiträume nach dem 1. Januar 2018 eine verpflichtende Offenlegung der NSFR (Net Stable Funding Ratio) vorgesehen. Ab 2019 wird die NSFR gemäß Durchführungsverordnung (EU) Nr. 680/2014 mit 9 Prozent gewichtet.
+    GemäNet Stable Funding Ratio disclosure standard“ ist für Meldezeiträume nach dem 1. Januar 2018 eine verpflichtende Offenlegung der NSFR (Net Stable Funding Ratio) vorgesehen. Ab 2019 wird die NSFR gemäß Durchführungsverordnung (EU) Nr. 680/2014 mit 9 Prozent gewichtet.
     Bei Anwendung der sogenannten Waiver-Regelung gemäß § 2a des Kreditwesengesetzes in Verbindung mit Artikel 8 der Verordnung (EU) Nr. 575/2013 wird für die Kennzahl die Relation auf Konzernebene berücksichtigt.
   - 3.1 :: Quote notleidender Kredite gemäß Finanz- und Risikotragfähigkeitsinformationenverordnung, Meldebogen zu den Finanzinformationen gemäß § 25 Absatz 1 Satz 1 des Kreditwesengesetzes
     In Verzug geratene Kredite (ohne Kredite, für die eine Einzelwertberichtigung gebildet wurde) und einzelwertberichtigte Kredite vor Absetzung von Einzelwertberichtigungen, wobei gebildete Einzelwertberichtigungen und bankübliche Sicherheiten unberücksichtigt bleiben.
@@ -453,6 +453,6 @@ Anlage 2 - (zu § 11 Absatz 1 und § 12)Risikoeinschätzung auf der Grundlage vo
   Die Risikoklasse nach § 11 Absatz 2 wird wie folgt ermittelt:
   - 1. :: Die Risikoindikatoren werden gemäß Spalte 3 der Tabelle unter Ziffer I berechnet.
   - 2. :: Anhand des jeweiligen Risikoindikatorwerts wird das CRR-Kreditinstitut mit Ausnahme des Indikators unter Ziffer 4.3 gemäß Ziffer I in eine von drei Risikoausprägungen (gut/normal/schlecht) eingeordnet; für den Risikoindikator unter Ziffer 4.3 gemäß Ziffer I erfolgt die Einordnung in eine von zwei Risikoausprägungen (gut/normal).
-  - 3. :: Die Risikoausprägung bestimmt die Höhe des individuellen Risikowerts (IRS) eines Risikoindikators. Der IRS beträgt für die Risikoausprägung �gut“ 0, für �normal“ 50 und für �schlecht“ 100.
+  - 3. :: Die Risikoausprägung bestimmt die Höhe des individuellen Risikowerts (IRS) eines Risikoindikators. Der IRS beträgt für die Risikoausprägung gut“ 0, für normal“ 50 und für schlecht“ 100.
   - 4. :: Der IRS jedes Risikoindikators wird mit der jeweiligen Indikatorgewichtung gemäß Spalte 2 der Tabelle unter Ziffer I multipliziert und innerhalb der einzelnen Risikokategorien gemäß Spalte 1 der Tabelle unter Ziffer I aufsummiert, um den IRS einer Risikokategorie zu bestimmen.
-  - 5. :: Die gewichteten und aufsummierten IRS werden entsprechend ihrem Summenwert einer Risikoklasse gemä�geringstes Risiko“ und 5 für �höchstes Risiko“ zugeordnet.
+  - 5. :: Die gewichteten und aufsummierten IRS werden entsprechend ihrem Summenwert einer Risikoklasse gemägeringstes Risiko“ und 5 für höchstes Risiko“ zugeordnet.

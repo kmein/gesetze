@@ -228,9 +228,9 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt 
 
 Anlage - (zu § 18 Absatz 1)
 
-�
+
 (Fundstelle: BGBl. I 2018, 148 - 153; bzgl. einzelner Änderungen vgl. Fußnote)
-Im nachfolgend aufgeführten Fragebogen sind folgende Abkürzungen für die Prüfungsfeststellungen in der Spalte �Feststellung“ zu verwenden:
+Im nachfolgend aufgeführten Fragebogen sind folgende Abkürzungen für die Prüfungsfeststellungen in der Spalte Feststellung“ zu verwenden:
 
 - --: :: Die Vorschrift ist nicht einschlägig.
 - 0: :: Die gesetzlichen und unionsrechtlichen Vorgaben wurden im gesamten Berichtszeitraum eingehalten.
@@ -241,7 +241,7 @@ Im nachfolgend aufgeführten Fragebogen sind folgende Abkürzungen für die Prü
 
 Tritt ein Mangel auf, der bereits bei der letzten Prüfung vorgelegen hat, ist dieser mit dem Symbol * zu kennzeichnen.
 
-�
+
 Wertpapierdienstleistungsunternehmen:
 Berichtszeitraum:
 Prüfungszeitraum:

@@ -297,7 +297,7 @@ Die BHV1-Freiheit eines Bestandes wird aufrechterhalten, wenn die nachfolgenden 
   - a) :: Abschnitt I Nummer 1a mit der Maßgabe, dass die blutserologischen Kontrolluntersuchungen² bei allen weiblichen Rindern und den bis zu neun Monate alten männlichen Rindern durchzuführen sind, sofern nicht der Rinderbestand aus Rindern besteht, die ausschließlich in Stallhaltung gemästet und unmittelbar zur Schlachtung abgegeben werden,
   - b) :: Abschnitt I Nummer 1b mit der Maßgabe, dass die blutserologischen Kontrolluntersuchungen so durchzuführen sind, dass mit einer Wahrscheinlichkeit von 95 vom Hundert und einer Prävalenzschwelle von 5 vom Hundert eine BHV1-Infektion festgestellt werden kann.
 
-  Für den Fall, dass der maximale Untersuchungsabstand nach Satz 1 oder 2 um bis zu drei Monate überschritten wird, ruht der Status für die Dauer von höchstens drei Monaten, bis durch eine einmalige blutserologische Untersuchung�
+  Für den Fall, dass der maximale Untersuchungsabstand nach Satz 1 oder 2 um bis zu drei Monate überschritten wird, ruht der Status für die Dauer von höchstens drei Monaten, bis durch eine einmalige blutserologische Untersuchung
   - a) :: im Falle des Satzes 1 aller über 24 Monate alten Rinder,
   - b) :: im Falle des Satzes 2
     - aa) :: Buchstabe a aller weiblichen Rinder und der bis zu neun Monate alten männlichen Rinder,
@@ -306,7 +306,7 @@ Die BHV1-Freiheit eines Bestandes wird aufrechterhalten, wenn die nachfolgenden 
   des Bestandes keine Reagenten festgestellt worden sind.
 - 2a. :: (weggefallen)
 - 3. :: Für den Fall, dass bei einer Untersuchung
-  - a) :: nach Nummer 2 Satz 1 und Satz 2 Buchstabe a Reagenten festgestellt werden, ruht der Status, bis durch eine frühestens 30 Tage nach Entfernen des letzten Reagenten durchgeführte blutserologische Untersuchung�
+  - a) :: nach Nummer 2 Satz 1 und Satz 2 Buchstabe a Reagenten festgestellt werden, ruht der Status, bis durch eine frühestens 30 Tage nach Entfernen des letzten Reagenten durchgeführte blutserologische Untersuchung
     - aa) :: aller weiblichen Rinder und der zur Zucht vorgesehenen männlichen Rinder keine Reagenten festgestellt worden sind oder,
     - bb) :: sofern die zuständige Behörde dies genehmigt, bei den Rindern einer von ihr festzulegenden Kontaktgruppe keine Reagenten festgestellt worden sind und sichergestellt ist, dass alle Rinder, die innerhalb von sechs Monaten nach Entfernen des letzten Reagenten aus dem Bestand, ausgenommen unmittelbar zur Schlachtung, verbracht werden, frühestens 14 Tage vor dem Verbringen blutserologisch² mit negativem Ergebnis auf Antikörper gegen das gE-Glykoprotein des Virus der BHV1-Infektion untersucht worden sind,
   - b) :: nach Nummer 2 Satz 2 Buchstabe b Reagenten festgestellt werden, ruht der Status, bis durch eine frühestens 30 Tage nach Entfernen des letzten Reagenten durchgeführte blutserologische Untersuchung² bei den Rindern einer von der zuständigen Behörde festzulegenden Kontaktgruppe keine Reagenten festgestellt worden sind und sichergestellt ist, dass alle Rinder, die innerhalb von sechs Monaten nach Entfernen des letzten Reagenten aus dem Bestand, ausgenommen unmittelbar zur Schlachtung, verbracht werden, frühestens 14 Tage vor dem Verbringen blutserologisch² mit negativem Ergebnis auf Antikörper gegen das gE-Glykoprotein des Virus der BHV1-Infektion untersucht worden sind.
@@ -341,7 +341,7 @@ Land
   -  :: § 1 Absatz 2 Nummer 2 Buchstabe a²,
   -  :: § 1 Absatz 2 Nummer 2 Buchstabe b²,
   -  :: § 1 Absatz 2 Nummer 2 Buchstabe c² oder
-  -  :: § 1 Absatz 2 Nummer 2 Buchstabe d�
+  -  :: § 1 Absatz 2 Nummer 2 Buchstabe d
 
 der BHV1-Verordnung frei von einer BHV1-Infektion.
 

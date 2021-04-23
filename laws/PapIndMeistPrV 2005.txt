@@ -239,22 +239,22 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 § 7 - Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
-(2) Im Prüfungsteil �Fachrichtungsübergreifende Basisqualifikationen“ sind die Prüfungsleistungen für jeden Prüfungsbereich einzeln zu bewerten. Aus den einzelnen Bewertungen ist als Bewertung für den Prüfungsteil das arithmetische Mittel zu berechnen.
-(3) Im Prüfungsteil �Handlungsspezifische Qualifikationen“ sind als Prüfungsleistungen zu bewerten:
+(2) Im Prüfungsteil Fachrichtungsübergreifende Basisqualifikationen“ sind die Prüfungsleistungen für jeden Prüfungsbereich einzeln zu bewerten. Aus den einzelnen Bewertungen ist als Bewertung für den Prüfungsteil das arithmetische Mittel zu berechnen.
+(3) Im Prüfungsteil Handlungsspezifische Qualifikationen“ sind als Prüfungsleistungen zu bewerten:
 
 - 1. :: die beiden schriftlichen Situationsaufgaben nach § 5 Absatz 13,
-- 2. :: in der Aufgabenstellung im Handlungsbereich �Spezialisierungsgebiete“ nach § 5 Absatz 14
+- 2. :: in der Aufgabenstellung im Handlungsbereich Spezialisierungsgebiete“ nach § 5 Absatz 14
   - a) :: die schriftlichen Präsentationsunterlagen,
   - b) :: die mündliche Präsentation und
   - c) :: das Fachgespräch.
 
-Aus den einzelnen Bewertungen der schriftlichen Präsentationsunterlagen, der mündlichen Präsentation und des Fachgesprächs ist als zusammengefasste Bewertung der Aufgabenstellung im Handlungsbereich �Spezialisierungsgebiete“ das gewichtete arithmetische Mittel zu berechnen. Dabei sind die Bewertungen wie folgt zu gewichten:
+Aus den einzelnen Bewertungen der schriftlichen Präsentationsunterlagen, der mündlichen Präsentation und des Fachgesprächs ist als zusammengefasste Bewertung der Aufgabenstellung im Handlungsbereich Spezialisierungsgebiete“ das gewichtete arithmetische Mittel zu berechnen. Dabei sind die Bewertungen wie folgt zu gewichten:
 
 - 1. :: die schriftlichen Präsentationsunterlagen mit 30 Prozent,
 - 2. :: die mündliche Präsentation mit 20 Prozent und
 - 3. :: das Fachgespräch mit 50 Prozent.
 
-Aus den Bewertungen für die beiden Situationsaufgaben und der zusammengefassten Bewertung der Aufgabenstellung im Handlungsbereich �Spezialisierungsgebiete“ ist als Bewertung des Prüfungsteils �Handlungsspezifische Qualifikationen“ das arithmetische Mittel zu berechnen.
+Aus den Bewertungen für die beiden Situationsaufgaben und der zusammengefassten Bewertung der Aufgabenstellung im Handlungsbereich Spezialisierungsgebiete“ ist als Bewertung des Prüfungsteils Handlungsspezifische Qualifikationen“ das arithmetische Mittel zu berechnen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
@@ -262,22 +262,22 @@ Aus den Bewertungen für die beiden Situationsaufgaben und der zusammengefassten
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
-- 1. :: in jedem Prüfungsbereich des Prüfungsteils �Fachrichtungsübergreifende Basisqualifikationen“,
-- 2. :: im Prüfungsteil �Handlungsspezifische Qualifikationen“
+- 1. :: in jedem Prüfungsbereich des Prüfungsteils Fachrichtungsübergreifende Basisqualifikationen“,
+- 2. :: im Prüfungsteil Handlungsspezifische Qualifikationen“
   - a) :: in jeder der beiden Situationsaufgaben nach § 5 Absatz 13 und
-  - b) :: in der zusammengefassten Bewertung der Aufgabenstellung im Handlungsbereich �Spezialisierungsgebiete“ nach § 5 Absatz 14.
+  - b) :: in der zusammengefassten Bewertung der Aufgabenstellung im Handlungsbereich Spezialisierungsgebiete“ nach § 5 Absatz 14.
 
 (2) Ist die Prüfung bestanden, so werden die folgenden Bewertungen jeweils kaufmännisch auf eine ganze Zahl gerundet:
 
-- 1. :: die Bewertung für den Prüfungsteil �Fachrichtungsübergreifende Basisqualifikationen“,
-- 2. :: die Bewertung für den Prüfungsteil �Handlungsspezifische Qualifikationen“,
+- 1. :: die Bewertung für den Prüfungsteil Fachrichtungsübergreifende Basisqualifikationen“,
+- 2. :: die Bewertung für den Prüfungsteil Handlungsspezifische Qualifikationen“,
 - 3. :: die Bewertung der Situationsaufgabe, in der eine mündliche Ergänzungsprüfung durchgeführt wurde.
 
-(3) Der Bewertung für den Prüfungsteil �Fachrichtungsübergreifende Basisqualifikationen“, den Bewertungen für die beiden Situationsaufgaben und der zusammengefassten Bewertung der Aufgabenstellung im Handlungsbereich �Spezialisierungsgebiete“ ist nach Anlage 1 die jeweilige Note als Dezimalzahl zuzuordnen.
+(3) Der Bewertung für den Prüfungsteil Fachrichtungsübergreifende Basisqualifikationen“, den Bewertungen für die beiden Situationsaufgaben und der zusammengefassten Bewertung der Aufgabenstellung im Handlungsbereich Spezialisierungsgebiete“ ist nach Anlage 1 die jeweilige Note als Dezimalzahl zuzuordnen.
 (4) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das gewichtete arithmetische Mittel zu berechnen. Dabei werden die Bewertungen wie folgt gewichtet:
 
-- 1. :: die Bewertung für den Prüfungsteil �Fachrichtungsübergreifende Basisqualifikationen“ mit 25 Prozent,
-- 2. :: die Bewertung für den Prüfungsteil �Handlungsspezifische Qualifikationen“ mit 75 Prozent.
+- 1. :: die Bewertung für den Prüfungsteil Fachrichtungsübergreifende Basisqualifikationen“ mit 25 Prozent,
+- 2. :: die Bewertung für den Prüfungsteil Handlungsspezifische Qualifikationen“ mit 75 Prozent.
 
 Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerundeten Gesamtpunktzahl ist nach Anlage 1 eine Note als Dezimalzahl und die Note in Worten zuzuordnen. Die zugeordnete Note ist die Gesamtnote.
 
@@ -336,14 +336,14 @@ Teil A -- Zeugnis ohne Prüfungsergebnisse:
 Teil B -- Zeugnis mit Prüfungsergebnissen:
 Alle Angaben des Teils A sowie zusätzlich:
 
-- 1. :: zum Prüfungsteil �Fachrichtungsübergreifende Basisqualifikationen“
+- 1. :: zum Prüfungsteil Fachrichtungsübergreifende Basisqualifikationen“
   - a) :: Benennung dieses Prüfungsteils und Bewertung mit Note sowie
   - b) :: Benennung der fünf Prüfungsbereiche und Bewertung mit Punkten,
-- 2. :: zum Prüfungsteil �Handlungsspezifische Qualifikationen“
+- 2. :: zum Prüfungsteil Handlungsspezifische Qualifikationen“
   - a) :: Benennung dieses Prüfungsteils und Bewertung mit Note,
-  - b) :: Benennung der Situationsaufgabe im Handlungsbereich �Papiertechnologie“ und Bewertung mit Punkten,
-  - c) :: Benennung der Situationsaufgabe im Handlungsbereich �Führung und Organisation“ und Bewertung mit Punkten,
-  - d) :: Benennung der Aufgabenstellung im Handlungsbereich �Spezialisierungsgebiete“ und Bewertung mit Punkten sowie
+  - b) :: Benennung der Situationsaufgabe im Handlungsbereich Papiertechnologie“ und Bewertung mit Punkten,
+  - c) :: Benennung der Situationsaufgabe im Handlungsbereich Führung und Organisation“ und Bewertung mit Punkten,
+  - d) :: Benennung der Aufgabenstellung im Handlungsbereich Spezialisierungsgebiete“ und Bewertung mit Punkten sowie
   - e) :: Benennung des Wahlqualifikationsschwerpunkts,
 - 3. :: die errechnete Gesamtpunktzahl für die gesamte Prüfung,
 - 4. :: die Gesamtnote als Dezimalzahl,

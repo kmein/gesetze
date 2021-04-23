@@ -119,8 +119,8 @@ Wird die zu prüfende Person nach § 42c Absatz 2 der Handwerksordnung von der A
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 (2) Als Prüfungsleistungen sind einzeln zu bewerten:
 
-- 1. :: die schriftliche Situationsaufgabe im Handlungsbereich �Beratung und Gestaltung“ nach § 3 Absatz 2 Nummer 1,
-- 2. :: die schriftliche Situationsaufgabe im Handlungsbereich �Auftragsvorbereitung und Projektplanung“ nach § 3 Absatz 2 Nummer 2 sowie
+- 1. :: die schriftliche Situationsaufgabe im Handlungsbereich Beratung und Gestaltung“ nach § 3 Absatz 2 Nummer 1,
+- 2. :: die schriftliche Situationsaufgabe im Handlungsbereich Auftragsvorbereitung und Projektplanung“ nach § 3 Absatz 2 Nummer 2 sowie
 - 3. :: das situationsbezogene Fachgespräch nach § 3 Absatz 2 Nummer 3.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
@@ -131,8 +131,8 @@ Wird die zu prüfende Person nach § 42c Absatz 2 der Handwerksordnung von der A
 (2) Ist die Prüfung bestanden, sind die Bewertungen für die schriftlichen Situationsaufgaben und das situationsbezogene Fachgespräch jeweils kaufmännisch auf eine ganze Zahl zu runden. Den Bewertungen für die Prüfungsleistungen ist nach Anlage 1 die jeweilige Note als Dezimalzahl zuzuordnen.
 (3) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das gewichtete arithmetische Mittel zu berechnen. Dabei sind die Bewertungen wie folgt zu gewichten:
 
-- 1. :: im Handlungsbereich �Beratung und Gestaltung“ die schriftliche Situationsaufgabe nach § 3 Absatz 2 Nummer 1 mit 40 Prozent,
-- 2. :: im Handlungsbereich �Auftragsvorbereitung und Projektplanung“ die schriftliche Situationsaufgabe nach § 3 Absatz 2 Nummer 2 mit 30 Prozent sowie
+- 1. :: im Handlungsbereich Beratung und Gestaltung“ die schriftliche Situationsaufgabe nach § 3 Absatz 2 Nummer 1 mit 40 Prozent,
+- 2. :: im Handlungsbereich Auftragsvorbereitung und Projektplanung“ die schriftliche Situationsaufgabe nach § 3 Absatz 2 Nummer 2 mit 30 Prozent sowie
 - 3. :: das situationsbezogene Fachgespräch nach § 3 Absatz 2 Nummer 3 mit 30 Prozent.
 
 (4) Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerundeten Gesamtpunktzahl wird nach Anlage 1 die Note als Dezimalzahl und die Note in Worten zugeordnet. Die zugeordnete Note ist die Gesamtnote.

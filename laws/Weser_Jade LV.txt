@@ -20,7 +20,7 @@ Auf Grund des § 5 Abs. 1 Nr. 3, 4 und 5 in Verbindung mit § 12 des Seelotsgese
 (8) Länge eines Schiffes im Sinne dieser Verordnung ist die Länge über alles in Metern, gemessen von der Vorkante Vorsteven bis Achterkante Achtersteven einschließlich fester Anbauten. Breite eines Schiffes ist die Breite über alles in Metern (maximale Rumpfbreite des Schiffes einschließlich fester Anbauten). Tiefgang eines Schiffes ist der größte Tiefgang in Metern auf der zu befahrenden Lotsstrecke. Soweit es in dieser Verordnung zugelassen wird, kann hinsichtlich der Länge und Breite im Verhältnis 1:10 interpoliert werden. Dabei entsprechen 1,00 m mehr Länge 0,10 m weniger Breite und 1,00 m weniger Länge 0,10 m mehr Breite. Die in der jeweiligen Vorschrift genannten maximalen Obergrenzen dürfen nach dem Interpolieren nicht überschritten werden. Längen sind auf ganze Meter und Breiten auf ganze Dezimeter bis ausschließlich 0,5 abzurunden und ab 0,5 aufzurunden. Als Breite gilt die größte Breite einschließlich etwaiger Ladungsüberhänge. Bei Schleppverbänden ist die Summe der Längen von Schlepper und Anhang ohne Berücksichtigung der Länge der Schleppleine maßgeblich.
 (9) Landradarberatung ist die Beratung eines Schiffes durch Lotsen von einer Verkehrszentrale aus.
 (10) Typgleiches Schiff bedeutet ein in den Abmessungen und in den Manövriereigenschaften vergleichbares und im Typ identisches Schiff. Hinsichtlich der Abmessungen ist eine Vergleichbarkeit gegeben, wenn die Abmessungen geringer sind oder die Länge nach oben nicht mehr als 5 m und die Breite nach oben nicht mehr als 0,5 m differieren.
-(11) Lotsenversetzposition in der Weser- und Jademündung ist im Bereich der Position 53° 52,8' Nord und 007° 46,5' Ost. Lotsenversetzpositionen im Verkehrstrennungsgebiet �Jade Approach“ sind einkommend im Bereich der Positionen 54° 07' Nord und 007° 28,5' Ost oder ausgehend nach Kreuzung des Verkehrstrennungsgebietes �Terschelling-German Bight“. Lotsenversetzpositionen im Verkehrstrennungsgebiet �Terschelling-German Bight“ sind einlaufend im Bereich der Position 53° 53' Nord und 007° 25' Ost oder auslaufend im Bereich der Position 53° 59' Nord und 007° 30' Ost.
+(11) Lotsenversetzposition in der Weser- und Jademündung ist im Bereich der Position 53° 52,8' Nord und 007° 46,5' Ost. Lotsenversetzpositionen im Verkehrstrennungsgebiet Jade Approach“ sind einkommend im Bereich der Positionen 54° 07' Nord und 007° 28,5' Ost oder ausgehend nach Kreuzung des Verkehrstrennungsgebietes Terschelling-German Bight“. Lotsenversetzpositionen im Verkehrstrennungsgebiet Terschelling-German Bight“ sind einlaufend im Bereich der Position 53° 53' Nord und 007° 25' Ost oder auslaufend im Bereich der Position 53° 59' Nord und 007° 30' Ost.
 (12) Schifffahrtspolizeibehörde im Sinne dieser Verordnung ist das jeweils zuständige Wasserstraßen- und Schifffahrtsamt.
 
 § 2 - Seelotsreviere, Lotsbezirke, Lotsenbrüderschaften
@@ -47,7 +47,7 @@ Der Lotsdienst in den Lotsbezirken 1 und 2 obliegt den in der Lotsenbrüderschaf
 
 § 4 - Lotsenversetzpositionen
 
-(1) Schiffe, die zur Annahme eines Seelotsen auf den Fahrtstrecken binnenwärts der Lotsenversetzpositionen im Verkehrstrennungsgebiet "Jade Approach" verpflichtet sind, können sowohl einlaufend als auch auslaufend Seelotsen nur auf diesen Lotsenversetzpositionen übernehmen oder abgeben. Ist dieses im Ausnahmefall nicht möglich, kann der Führer des Schiffes mit der Lotsenstation die Übernahme oder Abgabe auf einer anderen Position vereinbaren. Ein Ausnahmefall liegt insbesondere vor, wenn der Führer eines Schiffes nicht durch das Verkehrstrennungsgebiet �Jade Approach“ einläuft oder ausläuft und eine Lotsenversetzung im Bereich der Lotsenversetzpositionen im Verkehrstrennungsgebiet �Terschelling-German Bight“ zweckmäßiger ist.
+(1) Schiffe, die zur Annahme eines Seelotsen auf den Fahrtstrecken binnenwärts der Lotsenversetzpositionen im Verkehrstrennungsgebiet "Jade Approach" verpflichtet sind, können sowohl einlaufend als auch auslaufend Seelotsen nur auf diesen Lotsenversetzpositionen übernehmen oder abgeben. Ist dieses im Ausnahmefall nicht möglich, kann der Führer des Schiffes mit der Lotsenstation die Übernahme oder Abgabe auf einer anderen Position vereinbaren. Ein Ausnahmefall liegt insbesondere vor, wenn der Führer eines Schiffes nicht durch das Verkehrstrennungsgebiet Jade Approach“ einläuft oder ausläuft und eine Lotsenversetzung im Bereich der Lotsenversetzpositionen im Verkehrstrennungsgebiet Terschelling-German Bight“ zweckmäßiger ist.
 (2) Liegt das Lotsenschiff auf der Schlechtwetterposition auf der Weser im Gebiet zwischen den Leuchttonnen 17/H Reede und 19/H Reede, so erfolgt dort das Ausholen und Versetzen der Seelotsen für die Weser. Auf der Jade erfolgt in diesen Fällen das Ausholen und Versetzen mit einem Lotsenversetzschiff von Wilhelmshaven aus im Bereich "Minsener Oog".
 
 § 5 - Lotsenanforderung und Versetzmanöver
@@ -274,7 +274,7 @@ Fundstelle des Originaltextes: BAnz. 2003, Nr. 41, 3705 u. BAnz 2008, Nr. 64, 15
 
 \\
 
-�
+
 
 Ort der Übernahme des Seelotsen
 

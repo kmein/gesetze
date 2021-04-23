@@ -7,25 +7,25 @@ Ausfertigungsdatum: 07.08.1996
 InhaltsÃ¼bersicht
 
 Erstes Kapitel
- 
+
 Aufgaben, versicherter Personenkreis, Versicherungsfall
- 
- 
- 
+
+
+
 Erster Abschnitt
- 
- 
- 
+
+
+
 Aufgaben der Unfallversicherung
 Â§ 1
 PrÃ¤vention, Rehabilitation, EntschÃ¤digung
- 
- 
- 
+
+
+
 Zweiter Abschnitt
- 
- 
- 
+
+
+
 Versicherter Personenkreis
 Â§ 2
 Versicherung kraft Gesetzes
@@ -37,13 +37,13 @@ Versicherungsfreiheit
 Versicherungsbefreiung
 Â§ 6
 Freiwillige Versicherung
- 
- 
- 
+
+
+
 Dritter Abschnitt
- 
- 
- 
+
+
+
 Versicherungsfall
 Â§ 7
 Begriff
@@ -61,9 +61,9 @@ Versicherungsfall einer Leibesfrucht
 Gesundheitsschaden im Zusammenhang mit der Spende von Blut oder kÃ¶rpereigenen Organen, Organteilen oder Gewebe
 Â§ 13
 SachschÃ¤den bei Hilfeleistungen
- 
+
 Zweites Kapitel
- 
+
 PrÃ¤vention
 Â§ 14
 Grundsatz
@@ -89,45 +89,45 @@ Aus- und Fortbildung
 Ãœberbetrieblicher arbeitsmedizinischer und sicherheitstechnischer Dienst
 Â§ 25
 Bericht gegenÃ¼ber dem Bundestag
- 
+
 Drittes Kapitel
- 
+
 Leistungen nach Eintritt eines Versicherungsfalls
- 
- 
- 
+
+
+
 Erster Abschnitt
- 
- 
- 
+
+
+
 Heilbehandlung, Leistungen zur Teilhabe am Arbeitsleben, Leistungen zur Sozialen Teilhabe und ergÃ¤nzende Leistungen, Pflege, Geldleistungen
- 
- 
- 
- 
- 
+
+
+
+
+
 Erster Unterabschnitt
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Anspruch und Leistungsarten
 Â§ 26
 Grundsatz
- 
- 
- 
- 
- 
+
+
+
+
+
 Zweiter Unterabschnitt
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Heilbehandlung
 Â§ 27
 Umfang der Heilbehandlung
@@ -145,35 +145,35 @@ HÃ¤usliche Krankenpflege
 Behandlung in KrankenhÃ¤usern und Rehabilitationseinrichtungen
 Â§ 34
 DurchfÃ¼hrung der Heilbehandlung
- 
- 
- 
- 
- 
+
+
+
+
+
 Dritter Unterabschnitt
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Leistungen zur Teilhabe am Arbeitsleben
 Â§ 35
 Leistungen zur Teilhabe am Arbeitsleben
 Â§Â§ 36 bis 38
 (weggefallen)
- 
- 
- 
- 
- 
+
+
+
+
+
 Vierter Unterabschnitt
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Leistungen zur Sozialen Teilhabe und ergÃ¤nzende Leistungen
 Â§ 39
 Leistungen zur Sozialen Teilhabe und ergÃ¤nzende Leistungen
@@ -185,33 +185,33 @@ Wohnungshilfe
 Haushaltshilfe und Kinderbetreuungskosten
 Â§ 43
 Reisekosten
- 
- 
- 
- 
- 
+
+
+
+
+
 FÃ¼nfter Unterabschnitt
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Leistungen bei PflegebedÃ¼rftigkeit
 Â§ 44
 Pflege
- 
- 
- 
- 
- 
+
+
+
+
+
 Sechster Unterabschnitt
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Geldleistungen wÃ¤hrend der Heilbehandlung und der Leistungen zur Teilhabe am Arbeitsleben
 Â§ 45
 Voraussetzungen fÃ¼r das Verletztengeld
@@ -231,33 +231,33 @@ HÃ¶he und Berechnung des Ãœbergangsgeldes
 (weggefallen)
 Â§ 52
 Anrechnung von Einkommen auf Verletzten- und Ãœbergangsgeld
- 
- 
- 
- 
- 
+
+
+
+
+
 Siebter Unterabschnitt
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Besondere Vorschriften fÃ¼r die Versicherten in der Seefahrt
 Â§ 53
 Vorrang der medizinischen Betreuung durch die Reeder
- 
- 
- 
- 
- 
+
+
+
+
+
 Achter Unterabschnitt
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Besondere Vorschriften fÃ¼r die Versicherten der landwirtschaftlichen Unfallversicherung
 Â§ 54
 Betriebs- und Haushaltshilfe
@@ -265,26 +265,26 @@ Betriebs- und Haushaltshilfe
 Art und Form der Betriebs- und Haushaltshilfe
 Â§ 55a
 Sonstige AnsprÃ¼che, Verletztengeld
- 
- 
- 
+
+
+
 Zweiter Abschnitt
- 
- 
- 
+
+
+
 Renten, Beihilfen, Abfindungen
- 
- 
- 
- 
- 
+
+
+
+
+
 Erster Unterabschnitt
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Renten an Versicherte
 Â§ 56
 Voraussetzungen und HÃ¶he des Rentenanspruchs
@@ -300,18 +300,18 @@ Minderung bei Heimpflege
 Renten fÃ¼r Beamte und Berufssoldaten
 Â§ 62
 Rente als vorlÃ¤ufige EntschÃ¤digung
- 
- 
- 
- 
- 
+
+
+
+
+
 Zweiter Unterabschnitt
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Leistungen an Hinterbliebene
 Â§ 63
 Leistungen bei Tod
@@ -331,18 +331,18 @@ Rente an Verwandte der aufsteigenden Linie
 HÃ¶chstbetrag der Hinterbliebenenrenten
 Â§ 71
 Witwen-, Witwer- und Waisenbeihilfe
- 
- 
- 
- 
- 
+
+
+
+
+
 Dritter Unterabschnitt
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Beginn, Ã„nderung und Ende von Renten
 Â§ 72
 Beginn von Renten
@@ -350,18 +350,18 @@ Beginn von Renten
 Ã„nderungen und Ende von Renten
 Â§ 74
 Ausnahmeregelungen fÃ¼r die Ã„nderung von Renten
- 
- 
- 
- 
- 
+
+
+
+
+
 Vierter Unterabschnitt
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Abfindung
 Â§ 75
 Abfindung mit einer GesamtvergÃ¼tung
@@ -375,56 +375,56 @@ Abfindung bei Minderung der ErwerbsfÃ¤higkeit ab 40 vom Hundert
 Umfang der Abfindung
 Â§ 80
 Abfindung bei Wiederheirat
- 
- 
- 
- 
- 
+
+
+
+
+
 FÃ¼nfter Unterabschnitt
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Besondere Vorschriften fÃ¼r die Versicherten der landwirtschaftlichen Unfallversicherung
 Â§ 80a
 Voraussetzungen fÃ¼r den Rentenanspruch, Wartezeit
- 
- 
- 
+
+
+
 Dritter Abschnitt
- 
- 
- 
+
+
+
 Jahresarbeitsverdienst
- 
- 
- 
- 
- 
+
+
+
+
+
 Erster Unterabschnitt
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Allgemeines
 Â§ 81
 Jahresarbeitsverdienst als Berechnungsgrundlage
- 
- 
- 
- 
- 
+
+
+
+
+
 Zweiter Unterabschnitt
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Erstmalige Festsetzung
 Â§ 82
 Regelberechnung
@@ -442,70 +442,70 @@ Jahresarbeitsverdienst nach billigem Ermessen
 ErhÃ¶hung des Jahresarbeitsverdienstes fÃ¼r Hinterbliebene
 Â§ 89
 BerÃ¼cksichtigung von Anpassungen
- 
- 
- 
- 
- 
+
+
+
+
+
 Dritter Unterabschnitt
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Neufestsetzung
 Â§ 90
 Neufestsetzung nach Altersstufen
 Â§ 91
 Neufestsetzung nach Schul- oder Berufsausbildung
- 
- 
- 
- 
- 
+
+
+
+
+
 Vierter Unterabschnitt
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Besondere Vorschriften fÃ¼r die bei der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation versicherten Seeleute und ihre Hinterbliebenen
 Â§ 92
 Jahresarbeitsverdienst fÃ¼r Seeleute
- 
- 
- 
- 
- 
+
+
+
+
+
 FÃ¼nfter Unterabschnitt
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Besondere Vorschriften fÃ¼r die Versicherten der landwirtschaftlichen Unfallversicherung und ihre Hinterbliebenen
 Â§ 93
 Jahresarbeitsverdienst fÃ¼r landwirtschaftliche Unternehmer, ihre Ehegatten und FamilienangehÃ¶rigen
- 
- 
- 
+
+
+
 Vierter Abschnitt
- 
- 
- 
+
+
+
 Mehrleistungen
 Â§ 94
 Mehrleistungen
- 
- 
- 
+
+
+
 FÃ¼nfter Abschnitt
- 
- 
- 
+
+
+
 Gemeinsame Vorschriften fÃ¼r Leistungen
 Â§ 95
 Anpassung von Geldleistungen
@@ -525,17 +525,17 @@ AusschluÃŸ oder Minderung von Leistungen
 Schriftform
 Â§ 103
 Zwischennachricht, Unfalluntersuchung
- 
+
 Viertes Kapitel
- 
+
 Haftung von Unternehmern, UnternehmensangehÃ¶rigen und anderen Personen
- 
- 
- 
+
+
+
 Erster Abschnitt
- 
- 
- 
+
+
+
 Â BeschrÃ¤nkung der Haftung gegenÃ¼ber Versicherten, ihren AngehÃ¶rigen und Hinterbliebenen
 Â§ 104
 BeschrÃ¤nkung der Haftung der Unternehmer
@@ -549,13 +549,13 @@ Besonderheiten in der Seefahrt
 Bindung der Gerichte
 Â§ 109
 Feststellungsberechtigung von in der Haftung beschrÃ¤nkten Personen
- 
- 
- 
+
+
+
 Zweiter Abschnitt
- 
- 
- 
+
+
+
 Haftung gegenÃ¼ber den SozialversicherungstrÃ¤gern
 Â§ 110
 Haftung gegenÃ¼ber den SozialversicherungstrÃ¤gern
@@ -565,17 +565,17 @@ Haftung des Unternehmens
 Bindung der Gerichte
 Â§ 113
 VerjÃ¤hrung
- 
+
 FÃ¼nftes Kapitel
- 
+
 Organisation
- 
- 
- 
+
+
+
 Erster Abschnitt
- 
- 
- 
+
+
+
 UnfallversicherungstrÃ¤ger
 Â§ 114
 UnfallversicherungstrÃ¤ger
@@ -593,60 +593,60 @@ Vereinigung von Berufsgenossenschaften
 (weggefallen)
 Â§ 120
 Bundes- und Landesgarantie
- 
- 
- 
+
+
+
 Zweiter Abschnitt
- 
- 
- 
+
+
+
 ZustÃ¤ndigkeit
- 
- 
- 
- 
- 
+
+
+
+
+
 Â Erster Unterabschnitt
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 ZustÃ¤ndigkeit der gewerblichen Berufsgenossenschaften
 Â§ 121
 ZustÃ¤ndigkeit der gewerblichen Berufsgenossenschaften
 Â§ 122
 Sachliche und Ã¶rtliche ZustÃ¤ndigkeit
- 
- 
- 
- 
- 
+
+
+
+
+
 Zweiter Unterabschnitt
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 ZustÃ¤ndigkeit der landwirtschaftlichen Berufsgenossenschaft
 Â§ 123
 ZustÃ¤ndigkeit der landwirtschaftlichen Berufsgenossenschaft
 Â§ 124
 Bestandteile des landwirtschaftlichen Unternehmens
- 
- 
- 
- 
- 
+
+
+
+
+
 Dritter Unterabschnitt
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 ZustÃ¤ndigkeit der UnfallversicherungstrÃ¤ger der Ã¶ffentlichen Hand
 Â§ 125
 ZustÃ¤ndigkeit der Unfallversicherung Bund und Bahn
@@ -660,18 +660,18 @@ ZustÃ¤ndigkeit der UnfallversicherungstrÃ¤ger im Landesbereich
 ZustÃ¤ndigkeit der UnfallversicherungstrÃ¤ger im kommunalen Bereich
 Â§ 129a
 ZustÃ¤ndigkeit bei gemeinsamer Beteiligung von Bund, LÃ¤ndern, Gemeinden oder GemeindeverbÃ¤nden an Unternehmen
- 
- 
- 
- 
- 
+
+
+
+
+
 Vierter Unterabschnitt
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Gemeinsame Vorschriften Ã¼ber die ZustÃ¤ndigkeit
 Â§ 130
 Ã–rtliche ZustÃ¤ndigkeit
@@ -695,13 +695,13 @@ Unterrichtung der Versicherten
 VorlÃ¤ufige ZustÃ¤ndigkeit
 Â§ 139a
 Deutsche Verbindungsstelle Unfallversicherung - Ausland
- 
- 
- 
+
+
+
 Dritter Abschnitt
- 
- 
- 
+
+
+
 Weitere Versicherungseinrichtungen
 Â§ 140
 Haftpflicht- und Auslandsversicherung
@@ -711,14 +711,14 @@ TrÃ¤ger der Versicherungseinrichtungen, Aufsicht
 Gemeinsame Einrichtungen
 Â§ 143
 (weggefallen)
- 
- 
- 
- 
+
+
+
+
 Vierter Abschnitt
- 
- 
- 
+
+
+
 Dienstrecht
 Â§ 144
 Dienstordnung
@@ -736,47 +736,47 @@ Dienstrechtliche Vorschriften der Unfallversicherung Bund und Bahn
 (weggefallen)
 Â§ 149a
 (weggefallen)
- 
+
 Sechstes Kapitel
- 
+
 Aufbringung der Mittel
- 
- 
- 
+
+
+
 Erster Abschnitt
- 
- 
- 
+
+
+
 Allgemeine Vorschriften
- 
- 
- 
- 
- 
+
+
+
+
+
 Erster Unterabschnitt
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Beitragspflicht
 Â§ 150
 Beitragspflichtige
 Â§ 151
 Beitragserhebung bei Ã¼berbetrieblichen arbeitsmedizinischen und sicherheitstechnischen Diensten
- 
- 
- 
- 
- 
+
+
+
+
+
 Zweiter Unterabschnitt
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 BeitragshÃ¶he
 Â§ 152
 Umlage
@@ -802,33 +802,33 @@ Mindestbeitrag
 ZuschlÃ¤ge, NachlÃ¤sse, PrÃ¤mien
 Â§ 163
 BeitragszuschÃ¼sse fÃ¼r KÃ¼stenfischer
- 
- 
- 
- 
- 
+
+
+
+
+
 Dritter Unterabschnitt
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 VorschÃ¼sse und Sicherheitsleistungen
 Â§ 164
 BeitragsvorschÃ¼sse und Sicherheitsleistungen
- 
- 
- 
- 
- 
+
+
+
+
+
 Vierter Unterabschnitt
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Umlageverfahren
 Â§ 165
 Nachweise
@@ -842,18 +842,18 @@ Beitragsbescheid
 (weggefallen)
 Â§ 170
 Beitragszahlung an einen anderen UnfallversicherungstrÃ¤ger
- 
- 
- 
- 
- 
+
+
+
+
+
 FÃ¼nfter Unterabschnitt
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Betriebsmittel, RÃ¼cklage und VerwaltungsvermÃ¶gen
 Â§ 171
 Mittel der UnfallversicherungstrÃ¤ger
@@ -865,18 +865,18 @@ RÃ¼cklage
 VerwaltungsvermÃ¶gen
 Â§ 172c
 AltersrÃ¼ckstellungen
- 
- 
- 
- 
- 
+
+
+
+
+
 Sechster Unterabschnitt
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Zusammenlegung und Teilung der Last, Teilung der EntschÃ¤digungslast bei Berufskrankheiten, ErstattungsansprÃ¼che der landwirtschaftlichen Berufsgenossenschaft
 Â§ 173
 Zusammenlegung und Teilung der Last
@@ -884,18 +884,18 @@ Zusammenlegung und Teilung der Last
 Teilung der EntschÃ¤digungslast bei Berufskrankheiten
 Â§ 175
 ErstattungsansprÃ¼che der landwirtschaftlichen Berufsgenossenschaft
- 
- 
- 
- 
- 
+
+
+
+
+
 Siebter Unterabschnitt
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Lastenverteilung zwischen den gewerblichen Berufsgenossenschaften
 Â§ 176
 Grundsatz
@@ -909,13 +909,13 @@ Sonderregelung bei auÃŸergewÃ¶hnlicher Belastung
 FreibetrÃ¤ge, Unternehmen ohne Gewinnerzielungsabsicht
 Â§ 181
 DurchfÃ¼hrung des Ausgleichs
- 
- 
- 
+
+
+
 Zweiter Abschnitt
- 
- 
- 
+
+
+
 Besondere Vorschriften fÃ¼r die landwirtschaftliche Unfallversicherung
 Â§ 182
 Berechnungsgrundlagen
@@ -933,67 +933,67 @@ RÃ¼cklage
 (weggefallen)
 Â§ 184d
 (weggefallen)
- 
- 
- 
+
+
+
 Dritter Abschnitt
- 
- 
- 
+
+
+
 Besondere Vorschriften fÃ¼r die UnfallversicherungstrÃ¤ger der Ã¶ffentlichen Hand
 Â§ 185
 GemeindeunfallversicherungsverbÃ¤nde, Unfallkassen der LÃ¤nder und Gemeinden, gemeinsame Unfallkassen, Feuerwehr-Unfallkassen
 Â§ 186
 Aufwendungen der Unfallversicherung Bund und Bahn
- 
- 
- 
+
+
+
 Vierter Abschnitt
- 
- 
- 
+
+
+
 Gemeinsame Vorschriften
- 
- 
- 
- 
- 
+
+
+
+
+
 Erster Unterabschnitt
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 BerechnungsgrundsÃ¤tze
 Â§ 187
 BerechnungsgrundsÃ¤tze
- 
- 
- 
- 
- 
+
+
+
+
+
 Zweiter Unterabschnitt
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Reduzierung der Kosten fÃ¼r Verwaltung und Verfahren
 Â§ 187a
 Reduzierung der Kosten fÃ¼r Verwaltung und Verfahren in der landwirtschaftlichen Unfallversicherung
- 
+
 Siebtes Kapitel
- 
+
 Zusammenarbeit der UnfallversicherungstrÃ¤ger mit anderen LeistungstrÃ¤gern und ihre Beziehungen zu Dritten
- 
- 
- 
+
+
+
 Erster Abschnitt
- 
- 
- 
+
+
+
 Zusammenarbeit der UnfallversicherungstrÃ¤ger mit anderen LeistungstrÃ¤gern
 Â§ 188
 Auskunftspflicht der Krankenkassen
@@ -1001,13 +1001,13 @@ Auskunftspflicht der Krankenkassen
 Beauftragung einer Krankenkasse
 Â§ 190
 Pflicht der UnfallversicherungstrÃ¤ger zur Benachrichtigung der RentenversicherungstrÃ¤ger beim Zusammentreffen von Renten
- 
- 
+
+
 Zweiter Abschnitt
- 
- 
- 
- 
+
+
+
+
 Beziehungen der UnfallversicherungstrÃ¤ger zu Dritten
 Â§ 191
 UnterstÃ¼tzungspflicht der Unternehmer
@@ -1025,29 +1025,29 @@ Mitteilungspflichten der Schiffsvermessungs- und -registerbehÃ¶rden
 Ãœbermittlungspflicht weiterer BehÃ¶rden
 Â§ 198
 Auskunftspflicht der GrundstÃ¼ckseigentÃ¼mer
- 
+
 Achtes Kapitel
- 
+
 Datenschutz
- 
- 
- 
+
+
+
 Erster Abschnitt
- 
- 
- 
+
+
+
 GrundsÃ¤tze
 Â§ 199
 Verarbeitung von Daten durch die UnfallversicherungstrÃ¤ger
 Â§ 200
 EinschrÃ¤nkung der Ãœbermittlungsbefugnis
- 
- 
- 
+
+
+
 Zweiter Abschnitt
- 
- 
- 
+
+
+
 Datenverarbeitung durch Ã„rzte
 Â§ 201
 Erhebung, Speicherung und Ãœbermittlung von Daten durch Ã„rzte und Psychotherapeuten
@@ -1055,25 +1055,25 @@ Erhebung, Speicherung und Ãœbermittlung von Daten durch Ã„rzte und Psychotherape
 Anzeigepflicht von Ã„rzten bei Berufskrankheiten
 Â§ 203
 Auskunftspflicht von Ã„rzten
- 
- 
- 
+
+
+
 Dritter Abschnitt
- 
- 
- 
+
+
+
 Dateisysteme
 Â§ 204
 Errichtung eines Dateisystems fÃ¼r mehrere UnfallversicherungstrÃ¤ger
 Â§ 205
 (weggefallen)
- 
- 
- 
+
+
+
 Vierter Abschnitt
- 
- 
- 
+
+
+
 Sonstige Vorschriften
 Â§ 206
 Verarbeitung von Daten fÃ¼r die Forschung zur BekÃ¤mpfung von Berufskrankheiten
@@ -1081,9 +1081,9 @@ Verarbeitung von Daten fÃ¼r die Forschung zur BekÃ¤mpfung von Berufskrankheiten
 Verarbeitung von Daten zur VerhÃ¼tung von VersicherungsfÃ¤llen und arbeitsbedingten Gesundheitsgefahren
 Â§ 208
 AuskÃ¼nfte der Deutschen Post AG
- 
+
 Neuntes Kapitel
- 
+
 BuÃŸgeldvorschriften
 Â§ 209
 BuÃŸgeldvorschriften
@@ -1091,9 +1091,9 @@ BuÃŸgeldvorschriften
 ZustÃ¤ndige VerwaltungsbehÃ¶rde
 Â§ 211
 Zusammenarbeit bei der Verfolgung und Ahndung von Ordnungswidrigkeiten
- 
+
 Zehntes Kapitel
- 
+
 Ãœbergangsrecht
 Â§ 212
 Grundsatz
@@ -1135,9 +1135,9 @@ Besondere Vorschriften fÃ¼r die landwirtschaftliche Unfallversicherung
 Ãœbermittlung von Daten durch die landwirtschaftliche Berufsgenossenschaft
 Â§ 221b
 Ãœbergangszeit und Beitragsangleichung in der landwirtschaftlichen Unfallversicherung
- 
+
 Elftes Kapitel
- 
+
 Ãœbergangsvorschriften zur Neuorganisation der gesetzlichen Unfallversicherung
 Â§ 222
 Neuorganisation der gewerblichen Berufsgenossenschaften
@@ -1217,7 +1217,7 @@ Aufgabe der Unfallversicherung ist es, nach MaÃŸgabe der Vorschriften dieses Buc
 - 1. :: Personen, die im Ausland bei einer amtlichen Vertretung des Bundes oder der LÃ¤nder oder bei deren Leitern, Mitgliedern oder Bediensteten beschÃ¤ftigt und in der gesetzlichen Rentenversicherung nach Â§ 4 Absatz 1 Satz 2 des Sechsten Buches pflichtversichert sind,
 - 2. :: Personen, die
   - a) :: im Sinne des Entwicklungshelfer-Gesetzes Entwicklungsdienst oder Vorbereitungsdienst leisten,
-  - b) :: einen entwicklungspolitischen Freiwilligendienst â€weltwÃ¤rtsâ€ im Sinne der Richtlinie des Bundesministeriums fÃ¼r wirtschaftliche Zusammenarbeit und Entwicklung vom 1. August 2007 (BAnz. 2008 S. 1297) leisten,
+  - b) :: einen entwicklungspolitischen Freiwilligendienst weltwÃ¤rtsâ€ im Sinne der Richtlinie des Bundesministeriums fÃ¼r wirtschaftliche Zusammenarbeit und Entwicklung vom 1. August 2007 (BAnz. 2008 S. 1297) leisten,
   - c) :: einen Internationalen Jugendfreiwilligendienst im Sinne der Richtlinie Internationaler Jugendfreiwilligendienst des Bundesministeriums fÃ¼r Familie, Senioren, Frauen und Jugend vom 20. Dezember 2010 (GMBl S. 1778) leisten,
 - 3. :: Personen, die
   - a) :: eine TÃ¤tigkeit bei einer zwischenstaatlichen oder Ã¼berstaatlichen Organisation ausÃ¼ben und deren BeschÃ¤ftigungsverhÃ¤ltnis im Ã¶ffentlichen Dienst wÃ¤hrend dieser Zeit ruht,

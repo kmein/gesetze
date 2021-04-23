@@ -135,7 +135,7 @@ Die Bundesagentur für Arbeit übermittelt für die am 30. September 2007 sozial
 
 § 8 - Ordnungsnummern
 
-(1) Für jede Anschrift, jedes Gebäude und jede Wohnung wird eine Ordnungsnummer vergeben. Die Ordnungsnummern werden mit gemeinde- und gebäudeübergreifender Eindeutigkeit von den statistischen Ämtern des Bundes und der Länder vergeben und geführt. Die Ordnungsnummer kann das Merkmal �Schlüssel der Straße“ nach § 2 Abs. 3 Nr. 11 enthalten.
+(1) Für jede Anschrift, jedes Gebäude und jede Wohnung wird eine Ordnungsnummer vergeben. Die Ordnungsnummern werden mit gemeinde- und gebäudeübergreifender Eindeutigkeit von den statistischen Ämtern des Bundes und der Länder vergeben und geführt. Die Ordnungsnummer kann das Merkmal Schlüssel der Straße“ nach § 2 Abs. 3 Nr. 11 enthalten.
 (2) Die Ordnungsnummern werden bei den Zusammenführungen nach § 7 sowie bei den beim Zensus erforderlichen Zusammenführungen der Daten der Registerauswertungen und der Daten der ergänzenden Befragungen verwendet.
 
 § 9 - Sondergebäude

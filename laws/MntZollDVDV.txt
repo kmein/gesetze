@@ -6,16 +6,16 @@ Ausfertigungsdatum: 15.05.2017
 
 InhaltsÃ¼bersicht
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
 
 Â§ 1 - Vorbereitungsdienst
 
@@ -46,7 +46,7 @@ Der Vorbereitungsdienst dauert in der Regel zwei Jahre. Ãœber eine VerkÃ¼rzung o
 Â§ 6 - Bewertung der Leistungen
 
 (1) Die Leistungen der Auszubildenden werden wie folgt bewertet:
- 
+
 Prozentualer Anteil der\\
 erreichten Punktzahl an der\\
 erreichbaren Punktzahl
@@ -54,7 +54,7 @@ Rangpunkte/\\
 Rangpunktzahl
 Note
 Notendefinition
- 
+
 1
 2
 3
@@ -113,7 +113,7 @@ eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen lÃ¤sst, d
 2
 15
 Â 24,99 bis 12,50\\
- 
+
 1
 ungenÃ¼gend
 eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Grundkenntnisse so lÃ¼ckenhaft sind, dass die MÃ¤ngel in absehbarer Zeit nicht behoben werden kÃ¶nnen

@@ -6,27 +6,27 @@ Ausfertigungsdatum: 21.09.2018
 
 Inhaltsübersicht
 
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 § 1 - Geltungs- und Anwendungsbereich
 
@@ -136,34 +136,34 @@ Inhaltsübersicht
 
 (3) In dieser Verordnung gelten für Fahrzeuge, schwimmende Anlagen und Schwimmkörper folgende Begriffsbestimmungen:
 
-- 1. :: �Fahrzeug“ ein Schiff oder ein schwimmendes Gerät;
-- 2. :: �Schiff“ ein Binnenschiff oder ein Seeschiff;
-- 3. :: �Binnenschiff“ ein Schiff, das ausschließlich oder vorwiegend für die Fahrt auf Binnenwasserstraßen bestimmt ist;
-- 4. :: �Seeschiff“ ein Schiff, das zur See- oder Küstenfahrt zugelassen und vorwiegend dafür bestimmt ist;
-- 5. :: �Schleppboot“ ein eigens zum Schleppen gebautes Schiff;
-- 6. :: �Schubboot“ ein eigens zur Fortbewegung eines Schubverbandes gebautes Schiff;
-- 7. :: �Schubleichter“ ein zur Güterbeförderung bestimmtes und zur Fortbewegung durch Schieben gebautes oder eigens eingerichtetes Schiff ohne eigene Triebkraft oder mit eigener Triebkraft, die nur erlaubt, außerhalb eines Schubverbandes kleine Ortsveränderungen vorzunehmen;
-- 8. :: �Fahrgastschiff“ ein zur Beförderung von mehr als 12 Fahrgästen gebautes und eingerichtetes Tagesausflugs- oder Kabinenschiff;
-- 9. :: �Tagesausflugsschiff“ ein Fahrgastschiff ohne Kabinen für die Übernachtung von Fahrgästen;
-- 10. :: �Kabinenschiff“ ein Fahrgastschiff mit Kabinen für die Übernachtung von Fahrgästen;
-- 11. :: �Fahrgastboot“ ein Fahrzeug, das zur Beförderung von Fahrgästen zugelassen ist;
-- 12. :: �Barkasse“ ein zur Beförderung von Fahrgästen (Personenbarkasse) oder zum Schleppen (Schleppbarkasse) gebautes und eingerichtetes Binnenschiff bis 25 m Länge, mit Plicht mit versenktem Innenboden;
-- 13. :: �schnelles Schiff“ ein Fahrzeug mit Maschinenantrieb, das eine Geschwindigkeit gegen Wasser von mehr als 40 km/h erreichen kann;
-- 14. :: �Fähre“ ein Fahrzeug, das dem Übersetzverkehr von einem Ufer zum anderen auf der Wasserstraße dient und von der zuständigen Behörde als Fähre behandelt wird;
-- 15. :: �schwimmendes Gerät“ eine schwimmende Konstruktion mit auf ihr vorhandenen Arbeitseinrichtungen wie Krane, Bagger, Rammen, Elevatoren;
-- 16. :: �schwimmende Anlage“ eine schwimmende Einrichtung, die in der Regel nicht zur Fortbewegung bestimmt ist, wie eine Badeanstalt, ein Dock, eine Landebrücke oder ein Bootshaus;
-- 17. :: �Schwimmkörper“ ein Floß sowie andere einzeln oder in Verbindungen fahrtauglich gemachte Gegenstände, soweit es sich nicht um ein Schiff, ein schwimmendes Gerät oder eine schwimmende Anlage handelt;
-- 18. :: �Sportfahrzeug“ ein für Sport- oder Erholungszwecke bestimmtes Schiff, das kein Fahrgastschiff oder Fahrgastboot ist;
-- 19. :: �Verband“ ein starrer Verband oder ein Schleppverband;
-- 20. :: �Formation“ die Form der Zusammenstellung eines Verbandes;
-- 21. :: �starrer Verband“ ein Schubverband oder gekuppelte Fahrzeuge;
-- 22. :: �Schubverband“ eine starre Verbindung von Fahrzeugen, von denen sich mindestens eines vor dem oder den beiden Fahrzeugen mit Maschinenantrieb befindet, das oder die den Verband fortbewegt oder fortbewegen und als �schiebendes Fahrzeug“ oder �schiebende Fahrzeuge“ bezeichnet werden; als starr gilt auch ein Verband aus einem schiebenden und einem geschobenen Fahrzeug, deren Kupplungen ein gesteuertes Knicken ermöglichen;
-- 23. :: �gekuppelte Fahrzeuge“ eine Zusammenstellung von längsseits starr gekuppelten Fahrzeugen, von denen sich keines vor dem Fahrzeug mit Maschinenantrieb befindet, das die Zusammenstellung fortbewegt;
-- 24. :: �Schleppverband“ eine Zusammenstellung von einem oder mehreren Fahrzeugen, schwimmenden Anlagen oder Schwimmkörpern, die von einem oder mehreren zum Verband gehörenden Fahrzeugen mit Maschinenantrieb geschleppt wird;
-- 25. :: �Wasserverdrängung“ das eingetauchte Volumen des Schiffes in Kubikmetern;
-- 26. :: �Länge“ (�L“) die größte Länge des Schiffskörpers in Metern, ohne Ruder und Bugspriet;
-- 27. :: �Breite“ (�B“) die größte Breite des Schiffskörpers in Metern, gemessen an der Außenseite der Beplattung, ohne Schaufelräder, Scheuerleisten und Ähnliches;
-- 28. :: �Tiefgang“ (�T“) der senkrechte Abstand vom tiefsten Punkt des Schiffskörpers, ohne Berücksichtigung des Kiels oder anderer fester Anbauten, bis zur Ebene der größten Einsenkung des Schiffskörpers, in Metern.
+- 1. :: Fahrzeug“ ein Schiff oder ein schwimmendes Gerät;
+- 2. :: Schiff“ ein Binnenschiff oder ein Seeschiff;
+- 3. :: Binnenschiff“ ein Schiff, das ausschließlich oder vorwiegend für die Fahrt auf Binnenwasserstraßen bestimmt ist;
+- 4. :: Seeschiff“ ein Schiff, das zur See- oder Küstenfahrt zugelassen und vorwiegend dafür bestimmt ist;
+- 5. :: Schleppboot“ ein eigens zum Schleppen gebautes Schiff;
+- 6. :: Schubboot“ ein eigens zur Fortbewegung eines Schubverbandes gebautes Schiff;
+- 7. :: Schubleichter“ ein zur Güterbeförderung bestimmtes und zur Fortbewegung durch Schieben gebautes oder eigens eingerichtetes Schiff ohne eigene Triebkraft oder mit eigener Triebkraft, die nur erlaubt, außerhalb eines Schubverbandes kleine Ortsveränderungen vorzunehmen;
+- 8. :: Fahrgastschiff“ ein zur Beförderung von mehr als 12 Fahrgästen gebautes und eingerichtetes Tagesausflugs- oder Kabinenschiff;
+- 9. :: Tagesausflugsschiff“ ein Fahrgastschiff ohne Kabinen für die Übernachtung von Fahrgästen;
+- 10. :: Kabinenschiff“ ein Fahrgastschiff mit Kabinen für die Übernachtung von Fahrgästen;
+- 11. :: Fahrgastboot“ ein Fahrzeug, das zur Beförderung von Fahrgästen zugelassen ist;
+- 12. :: Barkasse“ ein zur Beförderung von Fahrgästen (Personenbarkasse) oder zum Schleppen (Schleppbarkasse) gebautes und eingerichtetes Binnenschiff bis 25 m Länge, mit Plicht mit versenktem Innenboden;
+- 13. :: schnelles Schiff“ ein Fahrzeug mit Maschinenantrieb, das eine Geschwindigkeit gegen Wasser von mehr als 40 km/h erreichen kann;
+- 14. :: Fähre“ ein Fahrzeug, das dem Übersetzverkehr von einem Ufer zum anderen auf der Wasserstraße dient und von der zuständigen Behörde als Fähre behandelt wird;
+- 15. :: schwimmendes Gerät“ eine schwimmende Konstruktion mit auf ihr vorhandenen Arbeitseinrichtungen wie Krane, Bagger, Rammen, Elevatoren;
+- 16. :: schwimmende Anlage“ eine schwimmende Einrichtung, die in der Regel nicht zur Fortbewegung bestimmt ist, wie eine Badeanstalt, ein Dock, eine Landebrücke oder ein Bootshaus;
+- 17. :: Schwimmkörper“ ein Floß sowie andere einzeln oder in Verbindungen fahrtauglich gemachte Gegenstände, soweit es sich nicht um ein Schiff, ein schwimmendes Gerät oder eine schwimmende Anlage handelt;
+- 18. :: Sportfahrzeug“ ein für Sport- oder Erholungszwecke bestimmtes Schiff, das kein Fahrgastschiff oder Fahrgastboot ist;
+- 19. :: Verband“ ein starrer Verband oder ein Schleppverband;
+- 20. :: Formation“ die Form der Zusammenstellung eines Verbandes;
+- 21. :: starrer Verband“ ein Schubverband oder gekuppelte Fahrzeuge;
+- 22. :: Schubverband“ eine starre Verbindung von Fahrzeugen, von denen sich mindestens eines vor dem oder den beiden Fahrzeugen mit Maschinenantrieb befindet, das oder die den Verband fortbewegt oder fortbewegen und als schiebendes Fahrzeug“ oder schiebende Fahrzeuge“ bezeichnet werden; als starr gilt auch ein Verband aus einem schiebenden und einem geschobenen Fahrzeug, deren Kupplungen ein gesteuertes Knicken ermöglichen;
+- 23. :: gekuppelte Fahrzeuge“ eine Zusammenstellung von längsseits starr gekuppelten Fahrzeugen, von denen sich keines vor dem Fahrzeug mit Maschinenantrieb befindet, das die Zusammenstellung fortbewegt;
+- 24. :: Schleppverband“ eine Zusammenstellung von einem oder mehreren Fahrzeugen, schwimmenden Anlagen oder Schwimmkörpern, die von einem oder mehreren zum Verband gehörenden Fahrzeugen mit Maschinenantrieb geschleppt wird;
+- 25. :: Wasserverdrängung“ das eingetauchte Volumen des Schiffes in Kubikmetern;
+- 26. :: Länge“ (L“) die größte Länge des Schiffskörpers in Metern, ohne Ruder und Bugspriet;
+- 27. :: Breite“ (B“) die größte Breite des Schiffskörpers in Metern, gemessen an der Außenseite der Beplattung, ohne Schaufelräder, Scheuerleisten und Ähnliches;
+- 28. :: Tiefgang“ (T“) der senkrechte Abstand vom tiefsten Punkt des Schiffskörpers, ohne Berücksichtigung des Kiels oder anderer fester Anbauten, bis zur Ebene der größten Einsenkung des Schiffskörpers, in Metern.
 
 
 § 3 - Zuständige Behörden
@@ -270,7 +270,7 @@ entsprechen.
 - 2. :: ein vorläufiges Unionszeugnis für Binnenschiffe nach dem Muster der Anlage 3 Abschnitt II ES-TRIN,
 - 3. :: ein zusätzliches Unionszeugnis für Binnenschiffe als Anlage zum Unionszeugnis nach dem Muster der Anlage 3 Abschnitt III ES-TRIN,
 - 4. :: ein Attest für Seeschiffe auf dem Rhein oder außerhalb des Rheins nach dem Muster der Anlage 3 Abschnitt IV ES-TRIN,
-- 5. :: die Anlage �Traditionsfahrzeug“ zum Unionszeugnis nach Kapitel 24 nach dem Muster der Anlage 3 Abschnitt V ES-TRIN,
+- 5. :: die Anlage Traditionsfahrzeug“ zum Unionszeugnis nach Kapitel 24 nach dem Muster der Anlage 3 Abschnitt V ES-TRIN,
 - 6. :: ein Schiffsattest nach dem Muster der Anlage 3 Abschnitt I ES-TRIN,
 - 7. :: ein vorläufiges Schiffsattest nach dem Muster der Anlage 3 Abschnitt II ES-TRIN,
 - 8. :: ein zusätzliches Unionszeugnis für Binnenschiffe als Anlage zum Schiffsattest für den Rhein nach dem Muster der Anlage 3 Abschnitt III ES-TRIN,

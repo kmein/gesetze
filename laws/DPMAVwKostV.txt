@@ -126,7 +126,7 @@ Teil A. Geb√ºhren
 
 I. Registerausz√ºge und Eintragungsscheine
 
-†
+
 
 Erteilung von
 
@@ -146,7 +146,7 @@ Die Datentr√§gerpauschale wird gesondert erhoben.
 
 15
 
-†
+
 
 II. Beglaubigungen
 
@@ -160,9 +160,9 @@ Beglaubigung von Ablichtungen und Ausdrucken f√ºr jede angefangene Seite
 
 (2) Auslagen werden zus√§tzlich erhoben.
 
-†
 
-†
+
+
 
 III. Bescheinigungen, schriftliche Ausk√ºnfte
 
@@ -175,11 +175,11 @@ Auslagen werden zus√§tzlich erhoben.
 
 20
 
-†
 
-†
 
-†
+
+
+
 
 301 310
 
@@ -190,11 +190,11 @@ Auslagen werden zus√§tzlich erhoben.
 
 10
 
-†
 
-†
 
-†
+
+
+
 
 301 320
 
@@ -210,11 +210,11 @@ Erteilung einer Schmuckurkunde (¬ß 25 Abs. 2 DPMAV)\\
 
 15
 
-†
 
-†
 
-†
+
+
+
 
 301 330
 
@@ -225,7 +225,7 @@ Auslagen werden zus√§tzlich erhoben.
 
 15
 
-†
+
 
 IV. Akteneinsicht, Erteilung von Ablichtungen und Ausdrucken
 
@@ -238,11 +238,11 @@ Die Akteneinsicht in solche Akten, deren Einsicht jedermann freisteht, in die Ak
 
 90
 
-†
 
-†
 
-†
+
+
+
 
 301 410
 
@@ -257,7 +257,7 @@ Verfahren √ºber Antr√§ge auf Erteilung von Ablichtungen und Ausdrucken aus Akten
 
 90
 
-†
+
 
 V. Erstattung
 
@@ -267,17 +267,17 @@ Erstattung von Betr√§gen, die ohne Rechtsgrund eingezahlt wurden
 
 10
 
-†
 
-†
 
-†
 
-†
 
-†
 
-†
+
+
+
+
+
+
 
 Nr.
 
@@ -295,7 +295,7 @@ Pauschale f√ºr die Herstellung und √úberlassung von Dokumenten:
 
 - 1. :: Ausfertigungen, Ablichtungen und Ausdrucke, die auf Antrag angefertigt, per Telefax √ºbermittelt oder die angefertigt worden sind, weil die Beteiligten es unterlassen haben, die erforderliche Zahl von Mehrfertigungen beizuf√ºgen (Dokumentenpauschale):
 
-†
+
 
 - ¬† :: f√ºr die ersten 50 Seiten je Seite
 
@@ -330,9 +330,9 @@ Pauschale f√ºr die Herstellung und √úberlassung von Dokumenten:
 
 (3) F√ºr die Abgabe von Schutzrechtsdaten √ºber die Dienste DPMAdatenabgabe und DEPATISconnect wird eine Dokumenten- oder Datentr√§gerpauschale nicht erhoben.
 
-†
 
-†
+
+
 
 II. Auslagen f√ºr Fotos, graphische Darstellungen
 
@@ -348,11 +348,11 @@ f√ºr jeden weiteren Abzug oder jede weitere Seite
 
 0,50 EUR
 
-†
 
-†
 
-†
+
+
+
 
 302 210
 
@@ -360,7 +360,7 @@ Anfertigung von Fotos oder graphischen Darstellungen durch Dritte im Auftrag des
 
 in voller H√∂he
 
-†
+
 
 III. √ñffentliche Bekanntmachungen, Kosten eines Neudrucks
 
@@ -368,13 +368,13 @@ III. √ñffentliche Bekanntmachungen, Kosten eines Neudrucks
 
 (weggefallen)
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 302 340
 
@@ -382,11 +382,11 @@ Bekanntmachungskosten in Urheberrechtsverfahren
 
 in voller H√∂he
 
-†
 
-†
 
-†
+
+
+
 
 302 360
 
@@ -394,15 +394,15 @@ Kosten f√ºr den Neudruck oder die √Ñnderung einer Offenlegungsschrift oder Paten
 
 80 EUR
 
-†
+
 
 IV. Sonstige Auslagen
 
-†
+
 
 Als Auslagen werden ferner erhoben:
 
-†
+
 
 302 400
 

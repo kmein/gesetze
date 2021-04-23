@@ -10,28 +10,28 @@ Auf Grund des ¬ß 26 Absatz 1 Nummer 2 und Absatz 2 des Bundesbeamtengesetzes, de
 
 Inhalts√ºbersicht
 
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ¬ß 1 - Studium
 
-Das Studium ‚ÄBachelor of Public Administration‚Äú an der Hochschule des Bundes f√ºr √∂ffentliche Verwaltung (Hochschule) ist der Vorbereitungsdienst f√ºr die Laufbahn des gehobenen nichttechnischen Verwaltungsdienstes in der Bundeswehrverwaltung.
+Das Studium Bachelor of Public Administration‚Äú an der Hochschule des Bundes f√ºr √∂ffentliche Verwaltung (Hochschule) ist der Vorbereitungsdienst f√ºr die Laufbahn des gehobenen nichttechnischen Verwaltungsdienstes in der Bundeswehrverwaltung.
 
 ¬ß 2 - Ziele des Studiums
 
@@ -211,12 +211,12 @@ Das Auswahlverfahren besteht aus einem schriftlichen und einem m√ºndlichen Teil.
 
 (1) Die Module verteilen sich wie folgt auf die Semester:\\
 \\
-†
+
 Semester
 Modulnummer
 Modulart
 Modulname
-†
+
 1
 2
 3
@@ -395,14 +395,14 @@ Die Fachmodule werden an der Hochschule durchgef√ºhrt.
 
 (1) Die Pr√ºfungsleistungen werden wie folgt bewertet:\\
 \\
-†
+
 Prozentualer Anteil\\
 der erreichten Punktzahl an der erreichbaren Punktzahl
 Rangpunkte/\\
 Rangpunktzahl
 Note
 Notendefinition
-†
+
 1
 2
 3
@@ -559,10 +559,10 @@ In den Praxismodulen I bis III wird zudem jeweils eine Praxisbeurteilung erstell
 (3) Bewertet wird die Leistung in jeder Fertigkeit. Die Bewertung erfolgt mit den Leistungsstufen 0 bis 4. Die Definition der Leistungsstufen legt das Bundesministerium der Verteidigung in einer Verwaltungsvorschrift fest.
 (4) Der Leistungsstufe werden wie folgt Rangpunkte zugeordnet:\\
 \\
-†
+
 Leistungsstufe
 Rangpunkte
-†
+
 1
 2
 1
@@ -738,7 +738,7 @@ Die Rangpunktzahl der Abschlussarbeit wird kaufm√§nnisch auf eine ganze Zahl ger
 - 2. :: die Bachelorthesis bestanden hat und
 - 3. :: die Verteidigung der Bachelorthesis bestanden hat.
 
-(2) Ist die Bachelorpr√ºfung bestanden, verleiht die Hochschule den akademischen Grad ‚ÄBachelor of Laws (LL. B.)‚Äú.
+(2) Ist die Bachelorpr√ºfung bestanden, verleiht die Hochschule den akademischen Grad Bachelor of Laws (LL. B.)‚Äú.
 
 ¬ß 54 - Rangpunktzahl der Bachelorpr√ºfung und Abschlussnote
 
@@ -773,13 +773,13 @@ Die berechnete Rangpunktzahl der Bachelorpr√ºfung wird kaufm√§nnisch auf eine ga
 
 (3) Die Bachelorurkunde enth√§lt
 
-- 1. :: die Angabe des Studiengangs ‚ÄBachelor of Public Administration‚Äú und
-- 2. :: den verliehenen akademischen Grad ‚ÄBachelor of Laws (LL. B.)‚Äú.
+- 1. :: die Angabe des Studiengangs Bachelor of Public Administration‚Äú und
+- 2. :: den verliehenen akademischen Grad Bachelor of Laws (LL. B.)‚Äú.
 
 (4) Das Diploma Supplement enth√§lt
 
-- 1. :: die Angabe des Studiengangs ‚ÄBachelor of Public Administration‚Äú,
-- 2. :: den verliehenen akademischen Grad ‚ÄBachelor of Laws (LL. B.)‚Äú,
+- 1. :: die Angabe des Studiengangs Bachelor of Public Administration‚Äú,
+- 2. :: den verliehenen akademischen Grad Bachelor of Laws (LL. B.)‚Äú,
 - 3. :: f√ºr Modul 1 den Modulnamen und die ECTS-Leistungspunkte und f√ºr die weiteren Module den Modulnamen, die Gesamtbewertung in Rangpunkten und die ECTS-Leistungspunkte sowie
 - 4. :: die Notenverteilung des Studienjahrgangs in Form einer Noten√ºbersicht, bezogen auf die absoluten Noten der oder des einzelnen Studierenden im Vergleich zu allen Studierenden des Studienjahrgangs.
 
@@ -843,7 +843,7 @@ Das Diploma Supplement wird in deutscher und in englischer Sprache ausgestellt.
   - a) :: vor einer √∂ffentlichen oder staatlich anerkannten Bildungseinrichtung oder
   - b) :: vor einem staatlichen Pr√ºfungsausschuss.
 
-Voraussetzung f√ºr die Anerkennung ist, dass die Leistungen gleichwertig sind mit den Leistungen, die im Studiengang ‚ÄBachelor of Public Administration‚Äú zu erbringen sind.
+Voraussetzung f√ºr die Anerkennung ist, dass die Leistungen gleichwertig sind mit den Leistungen, die im Studiengang Bachelor of Public Administration‚Äú zu erbringen sind.
 
 (2) √úber die Anerkennung entscheidet das Pr√ºfungsamt der Hochschule.
 (3) Die Studierenden haben die f√ºr die Anerkennung erforderlichen Unterlagen vorzulegen.

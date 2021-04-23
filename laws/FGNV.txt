@@ -34,13 +34,13 @@ Ergebnis der Regressionsgleichung
 w√§f =
 Wirkst√§rken√§quivalenzfaktor des Arzneimittels;
 dieser ergibt sich nach der folgenden Formel:
-†
+
 w√§f = w/w/√Ñf
-†
+
 Dabei bedeuten:
-†
+
 w = Wirkst√§rke in der jeweils f√ºr das Arzneimittel geltenden Einheit
-†
+
 √Ñf = √Ñquivalenzfaktor gem√§√ü Gruppenbeschreibung
 pk =
 Packungsgr√∂√üe in der jeweils f√ºr das Arzneimittel geltenden Einheit
@@ -68,36 +68,36 @@ Festbetrag
 34,60 Euro
 Cilazapril
 0,31
-†
-†
+
+
 Enalapril
 1,0
-†
-†
+
+
 Fosinopril
 1,64
-†
-†
+
+
 Lisinopril
 1,19
-†
-†
+
+
 Moexipril
 1,11
-†
-†
+
+
 Perindopril
 0,28
-†
-†
+
+
 Quinapril
 1,78
-†
-†
+
+
 Ramipril
 0,31
-†
-†
+
+
 Trandolapril
 0,27
 Regressionsgleichung
@@ -111,13 +111,13 @@ P =
 Ergebnis der Regressionsgleichung
 wvf =
 Wirkst√§rkenvergleichsfaktor des jeweiligen Arzneimittels; dieser ergibt sich nach der folgenden Formel:
-†
+
 wvf = swf/Vf
-†
+
 Dabei bedeuten:
-†
+
 sw = Summe der Wirkst√§rken der Einzelwirkstoffe in den jeweils f√ºr das Arzneimittel geltenden Einheiten
-†
+
 Vf = Vergleichsfaktor gem√§√ü Gruppenbeschreibung
 pk =
 Packungsgr√∂√üe in der jeweils f√ºr das Arzneimittel geltenden Einheit
@@ -143,52 +143,52 @@ Festbetrag
 71,42 Euro
 Benazepril 20 mg + Hydrochlorothiazid 25 mg
 10,65
-†
-†
+
+
 Captopril 25 mg + Hydrochlorothiazid 12,5 mg
 41,78
-†
-†
+
+
 Captopril 25 mg + Hydrochlorothiazid 25 mg
 35,78
-†
-†
+
+
 Captopril 50 mg + Hydrochlorothiazid 25 mg
 41,78
-†
-†
+
+
 Cilazapril 5 mg + Hydrochlorothiazid 12,5 mg
 8,28
-†
-†
+
+
 Enalapril 10 mg + Hydrochlorothiazid 25 mg
 17,5
-†
-†
+
+
 Lisinopril 10 mg + Hydrochlorothiazid 12,5 mg
 16,79
-†
-†
+
+
 Lisinopril 20 mg + Hydrochlorothiazid 12,5 mg
 14,9
-†
-†
+
+
 Quinapril 10 mg + Hydrochlorothiazid 12,5 mg
 21,19
-†
-†
+
+
 Quinapril 20 mg + Hydrochlorothiazid 12,5 mg
 20,02
-†
-†
+
+
 Quinapril 20 mg + Hydrochlorothiazid 25 mg
 21,19
-†
-†
+
+
 Ramipril 2,5 mg + Hydrochlorothiazid 12,5 mg
 11,48
-†
-†
+
+
 Ramipril 5 mg + Hydrochlorothiazid 25 mg
 11,48
 Regressionsgleichung

@@ -10,11 +10,11 @@ Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der durch Artikel 232 Nu
 
 Inhaltsübersicht
 
-�
-�
-�
-�
-�
+
+
+
+
+
 
 § 1 - Staatliche Anerkennung des Ausbildungsberufes
 
@@ -195,14 +195,14 @@ Teil 2 der Abschluss- und Gesellenprüfung findet in folgenden Prüfungsbereiche
 
 (2) Die Abschluss- und Gesellenprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
-- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens �ausreichend“,
-- 2. :: im Ergebnis von Teil 2 mit mindestens �ausreichend“,
-- 3. :: in mindestens zwei Prüfungsbereichen von Teil 2 mit mindestens �ausreichend“ und
-- 4. :: in keinem Prüfungsbereich von Teil 2 mit �ungenügend“.
+- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens ausreichend“,
+- 2. :: im Ergebnis von Teil 2 mit mindestens ausreichend“,
+- 3. :: in mindestens zwei Prüfungsbereichen von Teil 2 mit mindestens ausreichend“ und
+- 4. :: in keinem Prüfungsbereich von Teil 2 mit ungenügend“.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche �Technologie der Nasszurichtung und Zurichtung“ oder �Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche Technologie der Nasszurichtung und Zurichtung“ oder Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-- 1. :: der Prüfungsbereich schlechter als mit �ausreichend“ bewertet worden ist und
+- 1. :: der Prüfungsbereich schlechter als mit ausreichend“ bewertet worden ist und
 - 2. :: die mündliche Ergänzungsprüfung für das Bestehen der Abschluss- und Gesellenprüfung den Ausschlag geben kann.
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
@@ -219,4 +219,4 @@ Diese Verordnung tritt am 1. August 2015 in Kraft. Gleichzeitig tritt die Gerber
 Anlage - (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Lederherstellung und Gerbereitechnik
 
 (Fundstelle: BGBl. I 2015, 1152 - 1156)
-�
+

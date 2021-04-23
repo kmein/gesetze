@@ -184,7 +184,7 @@ Trockenmasse
 7, 8, 9, 10
 Nr. 2
 Anlage II der Richtlinie 79/796/EWG
- 
+
 4, 5, 6
 Nr. 3
 Anlage II der Richtlinie 79/796/EWG
@@ -192,11 +192,11 @@ Gehalt an Invertzucker
 1
 Nr. 4
 Anlage II der Richtlinie 79/796/EWG
- 
+
 2, 3
 Nr. 5
 Anlage II der Richtlinie 79/796/EWG
- 
+
 4, 5, 6
 Nr. 6
 Anlage II der Richtlinie 79/796/EWG

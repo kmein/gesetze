@@ -1014,7 +1014,7 @@ Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung
 - 4. :: Zeitpunkt des Geschäfts;
 - 5. :: Zeitpunkt, zu dem das Geschäft gemeldet wurde;
 - 6. :: Kurszusatz des Geschäfts;
-- 7. :: Code für den Handelsplatz, an dem das Geschäft ausgeführt wurde, oder, wenn das Geschäft über einen systematischen Internalisierer ausgeführt wurde, den Code �SI“ oder andernfalls den Code �OTC“;
+- 7. :: Code für den Handelsplatz, an dem das Geschäft ausgeführt wurde, oder, wenn das Geschäft über einen systematischen Internalisierer ausgeführt wurde, den Code SI“ oder andernfalls den Code OTC“;
 - 8. :: sofern anwendbar, einen Hinweis, dass das Geschäft besonderen Bedingungen unterlag.
 
 Die Informationen nach Satz 1 sind spätestens 15 Minuten nach der Veröffentlichung kostenlos zur Verfügung zu stellen.
@@ -1036,7 +1036,7 @@ Die Informationen nach Satz 1 sind spätestens 15 Minuten nach der Veröffentlic
 - 4. :: Zeitpunkt des Geschäfts;
 - 5. :: Zeitpunkt, zu dem das Geschäft gemeldet wurde;
 - 6. :: Kurszusatz des Geschäfts;
-- 7. :: den Code für den Handelsplatz, an dem das Geschäft ausgeführt wurde, oder, wenn das Geschäft über einen systematischen Internalisierer ausgeführt wurde, den Code �SI“ oder andernfalls den Code �OTC“;
+- 7. :: den Code für den Handelsplatz, an dem das Geschäft ausgeführt wurde, oder, wenn das Geschäft über einen systematischen Internalisierer ausgeführt wurde, den Code SI“ oder andernfalls den Code OTC“;
 - 8. :: sofern anwendbar, einen Hinweis, dass die Anlageentscheidung und Ausführung des Geschäfts durch das Wertpapierdienstleistungsunternehmen auf einem Computeralgorithmus beruhte;
 - 9. :: sofern anwendbar, einen Hinweis, dass das Geschäft besonderen Bedingungen unterlag;
 - 10. :: falls für die Pflicht zur Veröffentlichung der Informationen gemäß Artikel 3 Absatz 1 der Verordnung (EU) Nr. 600/2014 eine Ausnahme gemäß Artikel 4 Absatz 1 Buchstabe a oder b der Verordnung (EU) Nr. 600/2014 gewährt wurde, eine Kennzeichnung dieser Ausnahme.
@@ -1770,7 +1770,7 @@ Die Prüfung nach Absatz 2 Nummer 3 wird bei Kreditinstituten, die einem genosse
 
 § 94 - Bezeichnungen zur Unabhängigen Honorar-Anlageberatung
 
-(1) Die Bezeichnungen �Unabhängiger Honorar-Anlageberater“, �Unabhängige Honorar-Anlageberaterin“, �Unabhängige Honorar-Anlageberatung“ oder �Unabhängiger Honoraranlageberater“, �Unabhängige Honoraranlageberaterin“, �Unabhängige Honoraranlageberatung“ auch in abweichender Schreibweise oder eine Bezeichnung, in der diese Wörter enthalten sind, dürfen, soweit durch Gesetz nichts anderes bestimmt ist, in der Firma, als Zusatz zur Firma, zur Bezeichnung des Geschäftszwecks oder zu Werbezwecken nur Wertpapierdienstleistungsunternehmen führen, die im Register Unabhängiger Anlageberater nach § 93 eingetragen sind.
+(1) Die Bezeichnungen Unabhängiger Honorar-Anlageberater“, Unabhängige Honorar-Anlageberaterin“, Unabhängige Honorar-Anlageberatung“ oder Unabhängiger Honoraranlageberater“, Unabhängige Honoraranlageberaterin“, Unabhängige Honoraranlageberatung“ auch in abweichender Schreibweise oder eine Bezeichnung, in der diese Wörter enthalten sind, dürfen, soweit durch Gesetz nichts anderes bestimmt ist, in der Firma, als Zusatz zur Firma, zur Bezeichnung des Geschäftszwecks oder zu Werbezwecken nur Wertpapierdienstleistungsunternehmen führen, die im Register Unabhängiger Anlageberater nach § 93 eingetragen sind.
 (2) Absatz 1 gilt nicht für Unternehmen, die die dort genannten Bezeichnungen in einem Zusammenhang führen, der den Anschein ausschließt, dass sie Wertpapierdienstleistungen erbringen. Wertpapierdienstleistungsunternehmen mit Sitz im Ausland dürfen bei ihrer Tätigkeit im Inland die in Absatz 1 genannten Bezeichnungen in der Firma, als Zusatz zur Firma, zur Bezeichnung des Geschäftszwecks oder zu Werbezwecken führen, wenn sie zur Führung dieser Bezeichnung in ihrem Sitzstaat berechtigt sind und sie die Bezeichnung um einen auf ihren Sitzstaat hinweisenden Zusatz ergänzen.
 (3) Die Bundesanstalt entscheidet in Zweifelsfällen, ob ein Wertpapierdienstleistungsunternehmen zur Führung der in Absatz 1 genannten Bezeichnungen befugt ist. Sie hat ihre Entscheidungen dem Registergericht mitzuteilen.
 (4) Die Vorschrift des § 43 des Kreditwesengesetzes ist entsprechend anzuwenden mit der Maßgabe, dass an die Stelle der Erlaubnis nach § 32 des Kreditwesengesetzes die Eintragung in das Register Unabhängiger Honorar-Anlageberater nach § 93 tritt.

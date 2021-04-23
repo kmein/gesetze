@@ -87,7 +87,7 @@ Die Auswahl der Bewerberinnen und Bewerber richtet sich nach Eignung, Befähigun
 
 (2) Die Ernennung erfolgt durch Aushändigung einer Ernennungsurkunde. In der Urkunde müssen enthalten sein
 
-- 1. :: bei der Begründung des Beamtenverhältnisses die Wörter �unter Berufung in das Beamtenverhältnis“ mit dem die Art des Beamtenverhältnisses bestimmenden Zusatz �auf Lebenszeit“, �auf Probe“, �auf Widerruf“ oder �als Ehrenbeamtin“ oder �als Ehrenbeamter“ oder �auf Zeit“ mit der Angabe der Zeitdauer der Berufung,
+- 1. :: bei der Begründung des Beamtenverhältnisses die Wörter unter Berufung in das Beamtenverhältnis“ mit dem die Art des Beamtenverhältnisses bestimmenden Zusatz auf Lebenszeit“, auf Probe“, auf Widerruf“ oder als Ehrenbeamtin“ oder als Ehrenbeamter“ oder auf Zeit“ mit der Angabe der Zeitdauer der Berufung,
 - 2. :: bei der Umwandlung des Beamtenverhältnisses in ein solches anderer Art die diese Art bestimmenden Wörter nach Nummer 1 und
 - 3. :: bei der Verleihung eines Amtes die Amtsbezeichnung.
 
@@ -407,7 +407,7 @@ Soweit gesetzlich nichts anderes bestimmt ist, wird die Entlassung von der Stell
 
 § 39 - Folgen der Entlassung
 
-Nach der Entlassung besteht kein Anspruch auf Besoldung und Versorgung, soweit gesetzlich nichts anderes bestimmt ist. Die oberste Dienstbehörde kann die Erlaubnis erteilen, die Amtsbezeichnung mit dem Zusatz �au�a. D.“ sowie die im Zusammenhang mit dem Amt verliehenen Titel zu führen. Die Erlaubnis kann zurückgenommen werden, wenn die frühere Beamtin oder der frühere Beamte sich ihrer als nicht würdig erweist. Die oberste Dienstbehörde kann die Befugnis nach den Sätzen 2 und 3 auf nachgeordnete Behörden übertragen.
+Nach der Entlassung besteht kein Anspruch auf Besoldung und Versorgung, soweit gesetzlich nichts anderes bestimmt ist. Die oberste Dienstbehörde kann die Erlaubnis erteilen, die Amtsbezeichnung mit dem Zusatz aua. D.“ sowie die im Zusammenhang mit dem Amt verliehenen Titel zu führen. Die Erlaubnis kann zurückgenommen werden, wenn die frühere Beamtin oder der frühere Beamte sich ihrer als nicht würdig erweist. Die oberste Dienstbehörde kann die Befugnis nach den Sätzen 2 und 3 auf nachgeordnete Behörden übertragen.
 
 § 40 - Ausscheiden bei Wahlen oder Übernahme politischer Ämter
 
@@ -576,9 +576,9 @@ Altersgrenze
 Jahr
 Monat
 1952
-�
-�
-�
+
+
+
 Januar
  1
 60
@@ -666,9 +666,9 @@ Altersgrenze
 Jahr
 Monat
 1952
-�
-�
-�
+
+
+
 Januar
  1
 60
@@ -844,9 +844,9 @@ Die Versetzung in den Ruhestand wird von der für die Ernennung zuständigen Ste
 
 § 64 - Eidespflicht, Eidesformel
 
-(1) Beamtinnen und Beamte haben folgenden Diensteid zu leisten: �Ich schwöre, das Grundgesetz und alle in der Bundesrepublik Deutschland geltenden Gesetze zu wahren und meine Amtspflichten gewissenhaft zu erfüllen, so wahr mir Gott helfe. “
-(2) Der Eid kann auch ohne die Worte �so wahr mir Gott helfe“ geleistet werden.
-(3) Lehnt eine Beamtin oder ein Beamter aus Glaubens- oder Gewissensgründen die Ablegung des vorgeschriebenen Eides ab, können an Stelle der Worte �Ich schwöre“ die Worte �Ich gelobe“ oder eine andere Beteuerungsformel gesprochen werden.
+(1) Beamtinnen und Beamte haben folgenden Diensteid zu leisten: Ich schwöre, das Grundgesetz und alle in der Bundesrepublik Deutschland geltenden Gesetze zu wahren und meine Amtspflichten gewissenhaft zu erfüllen, so wahr mir Gott helfe. “
+(2) Der Eid kann auch ohne die Worte so wahr mir Gott helfe“ geleistet werden.
+(3) Lehnt eine Beamtin oder ein Beamter aus Glaubens- oder Gewissensgründen die Ablegung des vorgeschriebenen Eides ab, können an Stelle der Worte Ich schwöre“ die Worte Ich gelobe“ oder eine andere Beteuerungsformel gesprochen werden.
 (4) In den Fällen, in denen nach § 7 Abs. 3 eine Ausnahme von § 7 Abs. 1 Nr. 1 zugelassen worden ist, kann von einer Eidesleistung abgesehen werden. Sofern gesetzlich nichts anderes bestimmt ist, hat die Beamtin oder der Beamte in diesen Fällen zu geloben, ihre oder seine Amtspflichten gewissenhaft zu erfüllen.
 
 § 65 - Befreiung von Amtshandlungen
@@ -1034,8 +1034,8 @@ Beamtinnen und Beamten wird auf Antrag ein Dienstzeugnis über Art und Dauer der
 § 86 - Amtsbezeichnungen
 
 (1) Die Bundespräsidentin oder der Bundespräsident oder eine von ihr oder ihm bestimmte Stelle setzt die Amtsbezeichnungen fest, soweit gesetzlich nichts anderes bestimmt ist.
-(2) Beamtinnen und Beamte führen im Dienst die Amtsbezeichnung des ihnen übertragenen Amtes. Sie dürfen sie auch au�au�a. D.“ geführt werden.
-(3) Ruhestandsbeamtinnen und Ruhestandsbeamte dürfen die ihnen bei der Versetzung in den Ruhestand zustehende Amtsbezeichnung mit dem Zusatz �au�a. D.“ und die im Zusammenhang mit dem Amt verliehenen Titel weiter führen. Ändert sich die Bezeichnung des früheren Amtes, darf die geänderte Amtsbezeichnung geführt werden.
+(2) Beamtinnen und Beamte führen im Dienst die Amtsbezeichnung des ihnen übertragenen Amtes. Sie dürfen sie auch auaua. D.“ geführt werden.
+(3) Ruhestandsbeamtinnen und Ruhestandsbeamte dürfen die ihnen bei der Versetzung in den Ruhestand zustehende Amtsbezeichnung mit dem Zusatz aua. D.“ und die im Zusammenhang mit dem Amt verliehenen Titel weiter führen. Ändert sich die Bezeichnung des früheren Amtes, darf die geänderte Amtsbezeichnung geführt werden.
 
 § 87 - Arbeitszeit
 
@@ -1364,7 +1364,7 @@ zu übermitteln. Ist gegen die Entscheidung ein Rechtsmittel eingelegt worden, i
 (4) Sonstige Tatsachen, die in einem Strafverfahren bekannt werden, dürfen mitgeteilt werden, wenn ihre Kenntnis aufgrund besonderer Umstände des Einzelfalls für dienstrechtliche Maßnahmen gegen eine Beamtin oder einen Beamten erforderlich ist und soweit nicht für die übermittelnde Stelle erkennbar ist, dass schutzwürdige Interessen der Beamtin oder des Beamten an dem Ausschluss der Übermittlung überwiegen. Erforderlich ist die Kenntnis der Daten auch dann, wenn diese Anlass zur Prüfung bieten, ob dienstrechtliche Maßnahmen zu ergreifen sind. Absatz 3 Satz 2 ist entsprechend anzuwenden.
 (5) Nach den Absätzen 1 bis 4 übermittelte Daten dürfen auch für die Wahrnehmung der Aufgaben nach dem Sicherheitsüberprüfungsgesetz oder einem entsprechenden Gesetz verwendet werden.
 (6) Übermittlungen nach den Absätzen 1 bis 3 sind auch zulässig, soweit sie Daten betreffen, die dem Steuergeheimnis (§ 30 der Abgabenordnung) unterliegen. Übermittlungen nach Absatz 4 sind unter den Voraussetzungen des § 30 Abs. 4 Nr. 5 der Abgabenordnung zulässig.
-(7) Mitteilungen sind an die zuständigen Dienstvorgesetzten oder deren Vertretung im Amt zu richten und als �Vertrauliche Personalsache“ zu kennzeichnen.
+(7) Mitteilungen sind an die zuständigen Dienstvorgesetzten oder deren Vertretung im Amt zu richten und als Vertrauliche Personalsache“ zu kennzeichnen.
 
 § 116 - Mitgliedschaft in Gewerkschaften und Berufsverbänden
 
@@ -1534,7 +1534,7 @@ Handelt es sich in den Fällen des Satzes 3 Nummer 2 um ein Beamtenverhältnis a
 
 § 136 - Rechtsstellung der Beamtinnen und Beamten
 
-(1) Den nach § 134 in den Dienst einer anderen Körperschaft übergetretenen oder von ihr übernommenen Beamtinnen und Beamten soll ein dem bisherigen Amt nach Bedeutung und Inhalt gleich zu bewertendes Amt übertragen werden. Wenn eine dem bisherigen Amt entsprechende Verwendung nicht möglich ist, sind § 28 Abs. 3 und § 34 Abs. 1 Satz 1 Nr. 4 entsprechend anzuwenden. Bei Anwendung des § 28 Abs. 3 darf die Beamtin oder der Beamte neben der neuen Amtsbezeichnung die des früheren Amtes mit dem Zusatz �au�a. D.“ führen.
+(1) Den nach § 134 in den Dienst einer anderen Körperschaft übergetretenen oder von ihr übernommenen Beamtinnen und Beamten soll ein dem bisherigen Amt nach Bedeutung und Inhalt gleich zu bewertendes Amt übertragen werden. Wenn eine dem bisherigen Amt entsprechende Verwendung nicht möglich ist, sind § 28 Abs. 3 und § 34 Abs. 1 Satz 1 Nr. 4 entsprechend anzuwenden. Bei Anwendung des § 28 Abs. 3 darf die Beamtin oder der Beamte neben der neuen Amtsbezeichnung die des früheren Amtes mit dem Zusatz aua. D.“ führen.
 (2) Die aufnehmende oder neue Körperschaft kann, wenn die Zahl der bei ihr nach der Umbildung vorhandenen Beamtinnen und Beamten den tatsächlichen Bedarf übersteigt, innerhalb einer Frist von sechs Monaten die entbehrlichen Beamtinnen auf Lebenszeit oder auf Zeit oder die Beamten auf Lebenszeit oder auf Zeit, deren Aufgabengebiet von der Umbildung berührt wurde, in den einstweiligen Ruhestand versetzen. Die Frist des Satzes 1 beginnt im Fall des § 134 Abs. 1 mit dem Übertritt, in den Fällen des § 134 Abs. 2 und 3 mit der Bestimmung derjenigen Beamtinnen und Beamten, zu deren Übernahme die Körperschaft verpflichtet ist. Entsprechendes gilt in den Fällen des § 134 Abs. 4. § 55 Satz 2 ist anzuwenden. Bei Beamtinnen auf Zeit und Beamten auf Zeit, die nach Satz 1 in den einstweiligen Ruhestand versetzt sind, endet der einstweilige Ruhestand mit Ablauf der Amtszeit. Sie gelten zu diesem Zeitpunkt als dauernd in den Ruhestand versetzt, wenn sie bei Verbleiben im Amt mit Ablauf der Amtszeit in den Ruhestand getreten wären.
 
 § 137 - Rechtsstellung der Versorgungsempfängerinnen und Versorgungsempfänger

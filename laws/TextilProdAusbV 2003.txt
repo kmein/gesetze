@@ -183,7 +183,7 @@ Textile Rohstoffe und Produkte (§ 6 Nr. 5)
 a)
 textile Faserstoffe nach Aufbau und Eigenschaften einteilen
 12*)
-�
+
 b)
 Faserstoffarten bestimmen
 c)
@@ -194,11 +194,11 @@ e)
 Vorgaben und Eigenschaften beim Lagern von Werk- und Hilfsstoffen beachten
 f)
 Feinheitsbe- und -umrechnungen sowie textile Flächenberechnungen durchführen
-�
+
 10*)
 g)
 Einfluss der Fasereigenschaften und -mischungen auf den Herstellungsprozess und das Fertigprodukt berücksichtigen
-�
+
 h)
 Veredlungsprozesse hinsichtlich ihrer Art und Auswirkung unterscheiden
 i)
@@ -208,14 +208,14 @@ Planen und Vorbereiten von Arbeitsabläufen (§ 6 Nr. 6)
 a)
 Auftragsunterlagen prüfen, Auftragsziele und Arbeitsschritte festlegen
 4*)
-�
+
 b)
 Arbeitsplatz nach ergonomischen Gesichtspunkten einrichten
 c)
 Werk- und Hilfsstoffe, Arbeitsmittel und -geräte auswählen und bereitstellen
 d)
 inhaltliche und gestalterische Vorgaben mit den Beteiligten abstimmen, Terminvorgaben beachten
-�
+
 4*)
 e)
 Verfahrenswege abstimmen und festlegen, kostenorientiert handeln
@@ -232,7 +232,7 @@ Anwenden von Informations- und Kommunikationssystemen (§ 6 Nr. 7)
 a)
 Informationsstrukturen nutzen, insbesondere Datenorganisation und -verwaltung sowie externe Datenbanken
 2
-�
+
 b)
 Informationen auswählen, bewerten und einordnen
 c)
@@ -241,7 +241,7 @@ d)
 Daten sichern und Datenschutz beachten
 e)
 technische Daten erstellen, aufbereiten und dokumentieren
-�
+
 2
 f)
 Anwendungsprogramme unterscheiden und einsetzen
@@ -250,7 +250,7 @@ Durchführen von qualitätssichernden Maßnahmen (§ 6 Nr. 8)
 a)
 Ziele, Aufgaben, Bedeutung und Aufbau des betrieblichen Qualitätsmanagementsystems beschreiben
 2*)
-�
+
 b)
 Arbeits- und Betriebsanweisungen anwenden
 c)
@@ -259,7 +259,7 @@ d)
 Arbeitsabläufe fortwährend auf Einhaltung der Vorgaben kontrollieren, Qualitätsmerkmale feststellen sowie Qualitätsausfall prüfen
 e)
 Ursachen von Qualitätsabweichungen feststellen, Korrektur- und Vorbeugungsmaßnahmen umsetzen
-�
+
 4*)
 f)
 Materialfluss und Informationsaustausch sicherstellen
@@ -274,7 +274,7 @@ Anwenden von Zeichentechniken (§ 6 Nr. 9)
 a)
 Zeichengeräte und -material handhaben
 16
-�
+
 b)
 zeichnerische und malerische Grundtechniken anwenden
 c)
@@ -286,7 +286,7 @@ Entwickeln und Entwerfen von Dessins (§ 6 Nr. 10)
 a)
 Ideen sammeln und auswerten
 18
-�
+
 b)
 Skizzen und Reinzeichnungen anfertigen
 c)
@@ -303,7 +303,7 @@ h)
 Konstruktionstechniken gemäß den Herstellungsverfahren berücksichtigen
 i)
 Stil- und Naturmuster nach den Kategorien Typisieren, Stilisieren und Abstrahieren gestalten
-�
+
 10
 k)
 klassische und modische Elemente entwerfen
@@ -318,12 +318,12 @@ Herstellen und Umsetzen von Entwürfen (§ 6 Nr. 11)
 a)
 Rapporte bestimmen und zeichnen, Versatzmöglichkeiten darstellen
 8
-�
+
 b)
 Rapporte und Maßstäbe berechnen, technische Zeichnungen erstellen
 c)
 Daten maschinentechnisch aufbereiten
-�
+
 10
 d)
 Musterdatenträger erstellen und handhaben
@@ -334,7 +334,7 @@ Elektronische Bildbearbeitung (§ 6 Nr. 12)
 a)
 Entwürfe und Bildmaterial auf technische Verwendbarkeit prüfen und einlesen
 14
-�
+
 b)
 analoge Bilddaten erfassen, digitale Bilddaten übernehmen sowie Formatverwandlungen durchführen
 c)
@@ -345,7 +345,7 @@ e)
 rechnergestützte Programme kreativ und technisch zur Entwurfsmodifikation nutzen
 f)
 Bilddaten inhaltlich bearbeiten, produktionstechnische Daten erstellen und für die technische Weiterverarbeitung vorbereiten
-�
+
 6
 g)
 Daten auf Speichermedien ausgeben
@@ -354,12 +354,12 @@ Produkte und Marketing (§ 6 Nr. 13)
 a)
 trend- und produktspezifische Informationen beschaffen und nutzen, für Zielgruppen auswerten
 2
-�
+
 b)
 Produkte unterscheiden und nach Verarbeitungs- und Gebrauchsanforderungen beurteilen
 c)
 Marktinformationen auswerten, Qualität und Preise vergleichen, Kostenkalkulationen erstellen
-�
+
 4
 d)
 Kundenwünsche ermitteln und mit dem betrieblichen Leistungsangebot vergleichen
@@ -371,7 +371,7 @@ Präsentationsformen anwenden, Beratungsgespräche vorbereiten, durchführen und
 Produktentwicklung (§ 6 Nr. 14)
 a)
 Dessins unter Berücksichtigung von Grundmaterial, Herstellungstechnik, Produktionskosten und modischen Ansprüchen entwerfen und aufbereiten
-�
+
 12
 b)
 Musterentwürfe unter Berücksichtigung technischer, wirtschaftlicher und kundenspezifischer Aspekte entwickeln und bearbeiten
@@ -383,7 +383,7 @@ Anforderungsprofil des Produktes unter Berücksichtigung von Sicherheits- und Qu
 Produktionstechnisches Umsetzen (§ 6 Nr. 15)
 a)
 Produzierbarkeit des Entwurfs in technischer Hinsicht prüfen
-�
+
 16
 b)
 technische Zeichnung für die Herstellung der Datenträger vorbereiten

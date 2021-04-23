@@ -211,7 +211,7 @@ Sofern das Unternehmen seinen Sitz in einem Mitgliedstaat der Europäischen Unio
 - 3. :: der Pass, Passersatz oder Ausweisersatz, der Aufenthaltstitel des Fahrpersonals,
 - 4. :: der Nachweis nach § 11 Absatz 4 Nummer 1 der Berufskraftfahrer-Qualifikations-Verordnung.
 
-Wird ein Nachweis nach Satz 1 Nummer 4 nicht vorgelegt, erfolgt kein Eintrag der Schlüsselzahl 95 nach Anlage 9 der Fahrerlaubnis-Verordnung in das Feld �Besondere Bemerkungen“. Die zuständige Behörde kann Nachweise auch für die übrigen nach Absatz 1 zu machenden Angaben verlangen.
+Wird ein Nachweis nach Satz 1 Nummer 4 nicht vorgelegt, erfolgt kein Eintrag der Schlüsselzahl 95 nach Anlage 9 der Fahrerlaubnis-Verordnung in das Feld Besondere Bemerkungen“. Die zuständige Behörde kann Nachweise auch für die übrigen nach Absatz 1 zu machenden Angaben verlangen.
 
 
 § 21 - Geltungsdauer und Unternehmensbindung der Fahrerbescheinigung

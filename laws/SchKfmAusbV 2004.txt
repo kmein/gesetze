@@ -195,7 +195,7 @@ Zu vermittelnde Fertigkeiten und Kenntnisse
 Der Ausbildungsbetrieb\\
 (¬ß 4 Abs. 1 Nr. 1)
 
-†
+
 
 1.1
 
@@ -252,7 +252,7 @@ Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsber
 Arbeitsorganisation, Information und Kommunikation\\
 (¬ß 4 Abs. 1 Nr. 2)
 
-†
+
 
 2.1
 
@@ -298,7 +298,7 @@ Fachbezogenes Englisch\\
 Kaufm√§nnische Steuerung und Kontrolle\\
 (¬ß 4 Abs. 1 Nr. 4)
 
-†
+
 
 4.1
 
@@ -386,7 +386,7 @@ Haftung, Versicherung, Schadensabwicklung\\
 - c) :: Sch√§den an Personen, Schiffen, Ladungen und Umwelt ermitteln
 - d) :: Haftpflicht- und Kaskosch√§den bearbeiten
 
-†
+
 
 Abschnitt II: Fertigkeiten und Kenntnisse in den Fachrichtungen
 
@@ -444,7 +444,7 @@ Ladungsbuchung und Abwicklung der Verladung\\
 - f) :: manifestierte Daten pr√ºfen, Ladungs- und Frachtstatistiken anfertigen
 - g) :: Ladungsdokumente, insbesondere Konnossemente (Bills of Lading), vor der Auslieferung der Ladung pr√ºfen, Ladung zur Auslieferung freistellen
 
-†
+
 
 2. Fachrichtung Trampfahrt
 
@@ -498,11 +498,11 @@ Anlage 2 - (zu ¬ß 5)Ausbildungsrahmenplan f√ºr die Berufsausbildung zum Schifffa
 bzgl. der einzelnen √Ñnderungen vgl. Fu√ünote)
 \\
 - Zeitliche Gliederung -
-†
+
 Fachrichtung Linienfahrt
 A.
 Die Fertigkeiten und Kenntnisse der Berufsbildpositionen 2.1 Arbeitsorganisation und Kooperation, 2.2 Informations- und Kommunikationssysteme sowie 3. Fachbezogenes Englisch sind w√§hrend der gesamten Ausbildungszeit zu vermitteln. W√§hrend des 2. Ausbildungsjahres werden die Grundlagen f√ºr die fachrichtungsbezogenen Qualifikationen gelegt.
-†
+
 B.
 1. Ausbildungsjahr
 (1)
@@ -548,7 +548,7 @@ Klarierung,
 7.
 Einsatz und Disposition von Seeschiffen, Lernziele a bis c und h,
 fortzusetzen.
-†
+
 2. Ausbildungsjahr
 (1)
 In einem Zeitraum von insgesamt drei bis f√ºnf Monaten sind schwerpunktm√§√üig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
@@ -589,7 +589,7 @@ Marketing, Lernziele b und c,
 8.
 Seeverkehrslogistik, Lernziel a,
 fortzusetzen.
-†
+
 3. Ausbildungsjahr
 (1)
 In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktm√§√üig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
@@ -602,68 +602,68 @@ II.
 1.1
 Marktbeobachtung und Marktanalyse,
 II.
-†
+
 1.2
 Intermodale Transporte,
 II.
-†
+
 1.3
 Einsatz und Disposition von Containern oder anderen Ladungstr√§gern,
 II.
-†
+
 1.4
 Ladungsbuchung und Abwicklung der Verladung
 zu vermitteln und im Zusammenhang damit die Vermittlung der Berufsbildpositionen
 I.
-†
+
 1.2
 Berufsbildung, Lernziel b,
 I.
-†
+
 5.
 Marketing, Lernziele d und e,
 I.
-†
+
 8.
 Seeverkehrslogistik, Lernziele b und c,
 fortzusetzen.
 (2)
 In einem Zeitraum von insgesamt sechs bis acht Monaten sind schwerpunktm√§√üig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 I.
-†
+
 1.2
 Berufsbildung, Lernziel c,
 I.
-†
+
 1.3
 Arbeits-, sozial- und tarifrechtliche Bestimmungen, Lernziele a und b,
 I.
-†
+
 4.2
 Kosten- und Leistungsrechnung, Lernziel c,
 I.
-†
+
 9.
 Haftung, Versicherung, Schadensabwicklung
 zu vermitteln und im Zusammenhang damit die Vermittlung der Berufsbildpositionen
 I.
-†
+
 1.2
 Berufsbildung, Lernziele a und c,
 II.
-†
+
 1.1
 Marktbeobachtung und Marktanalyse,
 II.
-†
+
 1.2
 Intermodale Transporte,
 II.
-†
+
 1.3
 Einsatz und Disposition von Containern oder anderen Ladungstr√§gern, Lernziel d,
 II.
-†
+
 1.4
 Ladungsbuchung und Abwicklung der Verladung, Lernziele a, c und g,
 fortzusetzen.\\
@@ -674,12 +674,12 @@ Gemeinsame Fertigkeiten und Kenntnisse
 2)
 Abschnitt II:
 Fachrichtung Linienfahrt
-†
+
 Fachrichtung Trampfahrt
 A.
 Die Fertigkeiten und Kenntnisse der Berufsbildpositionen 2.1 Arbeitsorganisation und Kooperation, 2.2 Informations- und Kommunikationssysteme sowie 3. Fachbezogenes Englisch sind w√§hrend der gesamten Ausbildungszeit zu vermitteln.\\
 W√§hrend des 2. Ausbildungsjahres werden die Grundlagen f√ºr die fachrichtungsbezogenen Qualifikationen gelegt.
-†
+
 B.
 1. Ausbildungsjahr
 (1)
@@ -725,7 +725,7 @@ Klarierung,
 7.
 Einsatz und Disposition von Seeschiffen, Lernziele a bis c und h,
 fortzusetzen.
-†
+
 2. Ausbildungsjahr
 (1)
 In einem Zeitraum von insgesamt drei bis f√ºnf Monaten sind schwerpunktm√§√üig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
@@ -766,7 +766,7 @@ Marketing, Lernziele b und c,
 8.
 Seeverkehrslogistik, Lernziel a,
 fortzusetzen.
-†
+
 3. Ausbildungsjahr
 (1)
 In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktm√§√üig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
@@ -779,52 +779,52 @@ II.
 2.1
 Marktbeobachtung und Marktanalyse,
 II.
-†
+
 2.2
 Befrachtung
 zu vermitteln und im Zusammenhang damit die Vermittlung der Berufsbildpositionen
 I.
-†
+
 1.2
 Berufsbildung, Lernziel b,
 I.
-†
+
 5.
 Marketing, Lernziele d und e,
 I.
-†
+
 8.
 Seeverkehrslogistik, Lernziele b und c,
 fortzusetzen.
 (2)
 In einem Zeitraum von insgesamt sechs bis acht Monaten sind schwerpunktm√§√üig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 I.
-†
+
 1.2
 Berufsbildung, Lernziel c,
 I.
-†
+
 1.3
 Arbeits-, sozial- und tarifrechtliche Bestimmungen, Lernziele a und b,
 I.
-†
+
 4.2
 Kosten- und Leistungsrechnung, Lernziel c,
 I.
-†
+
 9.
 Haftung, Versicherung, Schadensabwicklung,
 II.
-†
+
 2.3
 Projektlogistik
 zu vermitteln und im Zusammenhang damit die Vermittlung der Berufsbildpositionen
 I.
-†
+
 1.2
 Berufsbildung, Lernziele a und c,
 II.
-†
+
 2.2
 Befrachtung
 fortzusetzen.\\

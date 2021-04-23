@@ -8,158 +8,158 @@ Inhaltsübersicht
 
 Erster Abschnitt
 Luftverkehr
-�
+
 1.
 Unterabschnitt
-�
+
 Luftfahrzeuge und Luftfahrtpersonal .........
 §§ 1 - 5
 2.
 Unterabschnitt
-�
+
 Flugplätze .........
 §§ 6 - 19d
 3.
 Unterabschnitt
-�
+
 Luftfahrtunternehmen und -veranstaltungen .........
 §§ 20 - 24
 4.
 Unterabschnitt
-�
+
 Verkehrsvorschriften .........
 §§ 25 - 27
 5.
 Unterabschnitt
-�
+
 Flughafenkoordinierung, Flugsicherung und Flugwetterdienst .........
 §§ 27a - 27f
 6.
 Unterabschnitt
-�
+
 Vorzeitige Besitzeinweisung und Enteignung .........
 §§ 27g - 28
 7.
 Unterabschnitt
-�
+
 Gemeinsame Vorschriften .........
 §§ 29 - 32d
-�
+
 Zweiter Abschnitt
 Zweiter Abschnitt: Haftpflicht und Schlichtung
-�
+
 1.
 Unterabschnitt
-�
+
 Haftung für Personen und Sachen, die nicht im Luftfahrzeug befördert werden .........
 §§ 33 - 43
 2.
 Unterabschnitt
-�
+
 Haftung für Personen und Gepäck, die im Luftfahrzeug befördert werden; Haftung für verspätete Beförderung .........
 §§ 44 - 52
-�
+
 § 44
 Anwendungsbereich
-�
-�
+
+
 § 45
 Haftung für Personenschäden
-�
+
 § 46
 Haftung bei verspäteter Personenbeförderung
-�
+
 § 47
 Haftung für Gepäckschäden
-�
+
 § 48
 Haftung auf Grund sonstigen Rechts
-�
+
 § 48a
 Luftbeförderung durch mehrere Luftfrachtführer
-�
+
 § 48b
 Haftung des vertraglichen und des ausführenden Luftfrachtführers
-�
+
 § 49
 Anzuwendende Vorschriften
-�
+
 § 49a
 Ausschlussfrist
-�
+
 § 49b
 Umrechnung von Rechnungseinheiten
-�
+
 § 49c
 Unabdingbarkeit
-�
+
 § 50
 Obligatorische Haftpflichtversicherung
-�
+
 § 51
 Subsidiarität der Versicherung des vertraglichen Luftfrachtführers
-�
+
 § 52
 (weggefallen)
 3.
 Unterabschnitt
-�
+
 Haftung für militärische Luftfahrzeuge .........
 §§ 53 - 54
-�
+
 § 53
 Haftung für Schäden außerhalb eines militärischen Luftfahrzeugs
-�
-�
+
+
 § 54
 Haftung für Schäden bei Beförderung in einem militärischen Luftfahrzeug
 4.
 Unterabschnitt
-�
+
 Gemeinsame Vorschriften für die Haftpflicht .........
 §§ 55 - 57
-�
+
 § 55
 Verhältnis zu sozial- und versorgungsrechtlichen Vorschriften
-�
-�
+
+
 § 56
 Gerichtsstand
-�
+
 5.
 Unterabschnitt
-�
+
 Schlichtung .........
 §§ 57 -- 57c
-�
+
 § 57
 Privatrechtlich organisierte Schlichtung
-�
-�
+
+
 § 57a
 Behördliche Schlichtung
-�
+
 § 57b
 Gemeinsame Vorschriften
-�
+
 § 57c
 Verordnungsermächtigungen
-�
+
 § 57d
 Verhältnis zum Verbraucherstreitbeilegungsgesetz
-�
-�
+
+
 Dritter Abschnitt
 Straf- und Bußgeldvorschriften .........
 § 58 - 63
-�
+
 Vierter Abschnitt
 Luftfahrtdateien .........
 § 64 - 70
-�
-�
-�
-�
+
+
+
+
 Fünfter Abschnitt
 Übergangsregelungen .........
 § 71 - 73
@@ -598,7 +598,7 @@ In den Fällen des Satzes 1 Nummer 1 und 2 ist die Besatzung des Luftfahrzeugs v
 (1) Bei tatsächlichen Anhaltspunkten für eine erhebliche Gefährdung der Betriebssicherheit von Luftfahrzeugen kann das Bundesministerium für Verkehr und digitale Infrastruktur für in § 1a Absatz 1 genannte Luftfahrzeuge auch außerhalb des Hoheitsgebiets der Bundesrepublik Deutschland für alle oder bestimmte Beförderungsarten ein Überflug-, Start- oder Landeverbot verhängen, soweit keine völkerrechtlichen Verpflichtungen der Bundesrepublik Deutschland entgegenstehen.
 (2) Das Verbot ist auf das erforderliche Maß zu beschränken, zeitlich zu befristen und kann bei Fortbestehen der Gefährdungslage nach Absatz 1 Satz 1 im erforderlichen Umfang, auch mehrfach, verlängert werden. Eine Kombination mehrerer Maßnahmen nach Absatz 1 Satz 1 ist möglich.
 (3) Die Anfechtungsklage gegen die Anordnung nach Absatz 1 hat keine aufschiebende Wirkung.
-(4) Verfügungen nach Absatz 1 werden auf der Internetseite des Bundesministeriums für Verkehr und digitale Infrastruktur veröffentlicht und als �Notice to Airmen (NOTAM)“ bekannt gemacht.
+(4) Verfügungen nach Absatz 1 werden auf der Internetseite des Bundesministeriums für Verkehr und digitale Infrastruktur veröffentlicht und als Notice to Airmen (NOTAM)“ bekannt gemacht.
 
 § 27
 
@@ -632,11 +632,11 @@ Von den Verfahren der Zeitnischenzuweisung kann aus Gründen der öffentlichen I
 - 5. :: die Flugberatungsdienste und
 - 6. :: die Flugwetterdienste
 
-sowie die Verkehrsflussregelung, die Steuerung der Luftraumnutzung und die Flugvermessungsdienste. Flugsicherungsdienste nach den Nummern 2 bis 5 sowie Flugvermessungsdienste stellen Unterstützungsdienste für die Flugsicherung dar. Sie sind keine hoheitliche Aufgabe des Bundes und werden zu Marktbedingungen als privatwirtschaftliche Dienstleistung in Übereinstimmung mit dem Recht der Europäischen Union erbracht. Die Absicht zur Aufnahme von Flugsicherungsdiensten nach den Nummern 2 bis 5 ist dem Bundesaufsichtsamt für Flugsicherung spätestens einen Monat im Voraus anzuzeigen; der Anzeige ist ein von einem Mitgliedstaat der Europäischen Union ausgestellter Befähigungsnachweis nach Ma�Flugsicherungsdienste-Verordnung“) (ABl. L 96 vom 31.3.2004, S. 10) beizufügen. Das Nähere wird durch Rechtsverordnung nach § 32 Absatz 4 Nummer 4b geregelt. Die Voraussetzungen für die Erbringung von Flugvermessungsdiensten werden durch Rechtsverordnung nach § 32 Absatz 4 Nummer 2 und 3 geregelt. Im Bedarfsfall kann die nach § 31b Absatz 1 beauftragte Flugsicherungsorganisation verpflichtet werden, die in Satz 2 genannten Dienste vorzuhalten.
+sowie die Verkehrsflussregelung, die Steuerung der Luftraumnutzung und die Flugvermessungsdienste. Flugsicherungsdienste nach den Nummern 2 bis 5 sowie Flugvermessungsdienste stellen Unterstützungsdienste für die Flugsicherung dar. Sie sind keine hoheitliche Aufgabe des Bundes und werden zu Marktbedingungen als privatwirtschaftliche Dienstleistung in Übereinstimmung mit dem Recht der Europäischen Union erbracht. Die Absicht zur Aufnahme von Flugsicherungsdiensten nach den Nummern 2 bis 5 ist dem Bundesaufsichtsamt für Flugsicherung spätestens einen Monat im Voraus anzuzeigen; der Anzeige ist ein von einem Mitgliedstaat der Europäischen Union ausgestellter Befähigungsnachweis nach MaFlugsicherungsdienste-Verordnung“) (ABl. L 96 vom 31.3.2004, S. 10) beizufügen. Das Nähere wird durch Rechtsverordnung nach § 32 Absatz 4 Nummer 4b geregelt. Die Voraussetzungen für die Erbringung von Flugvermessungsdiensten werden durch Rechtsverordnung nach § 32 Absatz 4 Nummer 2 und 3 geregelt. Im Bedarfsfall kann die nach § 31b Absatz 1 beauftragte Flugsicherungsorganisation verpflichtet werden, die in Satz 2 genannten Dienste vorzuhalten.
 
 (3) Die Verarbeitung personenbezogener Daten ist zulässig, soweit dies zur Erfüllung der in den Absätzen 1 und 2 genannten Aufgaben jeweils erforderlich ist.
 (4) § 15 des Luftsicherheitsgesetzes bleibt unberührt.
-(5) Flugsicherungsorganisationen sowie Unterstützungsdienstleister, die Dienste nach Absatz 2 erbringen, bedürfen eines Befähigungsnachweises nach Ma�Flugsicherungsdienste-Verordnung“) (ABl. L 96 vom 31.3.2004, S. 10).
+(5) Flugsicherungsorganisationen sowie Unterstützungsdienstleister, die Dienste nach Absatz 2 erbringen, bedürfen eines Befähigungsnachweises nach MaFlugsicherungsdienste-Verordnung“) (ABl. L 96 vom 31.3.2004, S. 10).
 
 § 27d
 
@@ -825,7 +825,7 @@ Die Vorschrift des § 8 Abs. 4 des Verwaltungskostengesetzes in der bis zum 14. 
 (6) Zur Wahrnehmung einzelner Aufgaben nach § 27c Absatz 2 Satz 1 Nummer 1 im Bereich der grenzüberschreitenden Flugsicherung kann das Bundesministerium für Verkehr und digitale Infrastruktur der Flugsicherungsorganisation nach Absatz 1 Satz 1 gestatten, eine andere Flugsicherungsorganisation zu Hilfszwecken zu beauftragen, wenn
 
 - 1. :: ein solcher Einsatz im Hinblick auf die ordnungsgemäße und sichere Verkehrsführung unter besonderer Berücksichtigung der technischen und betrieblichen Erfordernisse der Flugsicherung zweckmäßig ist,
-- 2. :: die andere Flugsicherungsorganisation über einen gültigen Befähigungsnachweis nach Ma�Flugsicherungsdienste-Verordnung“) (ABl. L 96 vom 31.3.2004, S. 10) verfügt und
+- 2. :: die andere Flugsicherungsorganisation über einen gültigen Befähigungsnachweis nach MaFlugsicherungsdienste-Verordnung“) (ABl. L 96 vom 31.3.2004, S. 10) verfügt und
 - 3. :: durch vertragliche Regelungen zwischen den Flugsicherungsorganisationen sichergestellt ist, dass Weisungen des Bundesaufsichtsamtes für Flugsicherung zur ordnungsgemäßen Durchführung der Aufgaben und zur Durchsetzung der Aufsicht von der anderen Flugsicherungsorganisation umgesetzt werden.
 
 Hat die andere Flugsicherungsorganisation ihren Sitz oder ihre Niederlassung im Ausland, wird die Gestattung nur erteilt, wenn eine völkerrechtliche Übereinkunft des Bundesministeriums für Verkehr und digitale Infrastruktur oder einer von ihm bestimmten Behörde mit der jeweils zuständigen Behörde des ausländischen Staates besteht, in der die Wahrnehmung von Aufsichtsmaßnahmen, die Durchführung von Kontroll- und Durchsetzungsbefugnissen sowie die Sicherstellung der verfassungsmäßigen Aufgabenerfüllung der Luftstreitkräfte der Bundeswehr gegenüber der anderen Flugsicherungsorganisation geregelt sind.
@@ -862,7 +862,7 @@ Im Falle der Staatshaftung wegen Ansprüchen Dritter können die Beauftragten na
 (1) An Flugplätzen, bei denen nach § 27d Absatz 4 Flugsicherungsdienste und flugsicherungstechnische Einrichtungen im erforderlichen Umfang vorgehalten werden sollen, kann das Bundesministerium für Verkehr und digitale Infrastruktur durch Verwaltungsakt neben einer Flugsicherungsorganisation nach § 31b Absatz 1 auch eine andere Flugsicherungsorganisation mit der Wahrnehmung einzelner Aufgaben nach § 27c Absatz 2 Satz 1 Nummer 1 beauftragen.
 (2) Die Beauftragung nach Absatz 1 ist nur zulässig, wenn die zu beauftragende Flugsicherungsorganisation
 
-- 1. :: im Besitz eines gültigen Befähigungsnachweises nach Ma�Flugsicherungsdienste-Verordnung“) (ABl. L 96 vom 31.3.2004, S. 10) ist,
+- 1. :: im Besitz eines gültigen Befähigungsnachweises nach MaFlugsicherungsdienste-Verordnung“) (ABl. L 96 vom 31.3.2004, S. 10) ist,
 - 2. :: die hinreichende Gewähr für die ordnungsgemäße Erfüllung der Aufgabe bietet und
 - 3. :: in die Beauftragung eingewilligt hat.
 
@@ -871,7 +871,7 @@ Die Beauftragung einer Flugsicherungsorganisation mit Sitz oder Niederlassung im
 (3) Ein Rechtsanspruch auf Übertragung von Aufgaben nach Absatz 1 oder auf Fortsetzung der Tätigkeit nach Absatz 1 besteht nicht. Das Bundesministerium für Verkehr und digitale Infrastruktur macht seine Entscheidung nach Absatz 1 im Bundesanzeiger bekannt.
 (4) Bei der Wahrnehmung von Aufgaben nach Absatz 1 unterliegt die Flugsicherungsorganisation der Rechts- und Fachaufsicht des Bundesaufsichtsamtes für Flugsicherung. Dieses kann sich zur Wahrnehmung seiner Aufsichtstätigkeit insbesondere jederzeit über die Angelegenheiten der Flugsicherungsorganisation, insbesondere durch Einholung von Auskünften, Berichten und der Vorlage von Aufzeichnungen aller Art, unterrichten, rechtswidrige oder zweckwidrige Maßnahmen beanstanden sowie entsprechende Abhilfe verlangen. Kommt die nach Absatz 1 beauftragte Flugsicherungsorganisation den Weisungen des Bundesaufsichtsamtes für Flugsicherung nicht oder nicht fristgerecht nach, kann es die erforderlichen Maßnahmen anstelle und auf Kosten der Flugsicherungsorganisation selbst durchführen oder durch einen anderen durchführen lassen.
 (5) Widerspruch und Anfechtungsklage der Flugsicherungsorganisation gegen aufsichtsrechtliche Maßnahmen haben keine aufschiebende Wirkung.
-(6) Bedienstete des Bundesaufsichtsamtes für Flugsicherung sind zum Zwecke der Aufsicht befugt, die Anlagen und Betriebsräume der Flugsicherungsorganisation nach Absatz 1 während der üblichen Betriebs- oder Geschäftszeit zu betreten. Die Flugsicherungsorganisation nach Absatz 1 oder die sie vertretenden Personen sind verpflichtet, Vertretern des Bundesaufsichtsamtes für Flugsicherung den Zugang zu den Anlagen und Betriebsräumen zu gewähren. Gegenstände oder geschäftliche Unterlagen können im erforderlichen Umfang in Verwahrung genommen werden. Entsprechendes gilt für vom Bundesaufsichtsamt für Flugsicherung auf der Grundlage von Artikel 3 der Verordnung (EG) Nr. 550/2004 des Europäischen Parlaments und des Rates vom 10. März 2004 über die Erbringung von Flugsicherungsdiensten im einheitlichen europäischen Luftraum (�Flugsicherungsdienste-Verordnung“) (ABl. L 96 vom 31.3.2004, S. 10) beauftragte anerkannte Organisationen.
+(6) Bedienstete des Bundesaufsichtsamtes für Flugsicherung sind zum Zwecke der Aufsicht befugt, die Anlagen und Betriebsräume der Flugsicherungsorganisation nach Absatz 1 während der üblichen Betriebs- oder Geschäftszeit zu betreten. Die Flugsicherungsorganisation nach Absatz 1 oder die sie vertretenden Personen sind verpflichtet, Vertretern des Bundesaufsichtsamtes für Flugsicherung den Zugang zu den Anlagen und Betriebsräumen zu gewähren. Gegenstände oder geschäftliche Unterlagen können im erforderlichen Umfang in Verwahrung genommen werden. Entsprechendes gilt für vom Bundesaufsichtsamt für Flugsicherung auf der Grundlage von Artikel 3 der Verordnung (EG) Nr. 550/2004 des Europäischen Parlaments und des Rates vom 10. März 2004 über die Erbringung von Flugsicherungsdiensten im einheitlichen europäischen Luftraum (Flugsicherungsdienste-Verordnung“) (ABl. L 96 vom 31.3.2004, S. 10) beauftragte anerkannte Organisationen.
 (7) Die Beauftragung kann auch auf Antrag der Flugsicherungsorganisation widerrufen werden. § 49 Absatz 6 des Verwaltungsverfahrensgesetzes gilt nicht.
 
 § 32
@@ -912,7 +912,7 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur kann in den Rechts
 - 3. :: Art und Durchführung der Flugsicherung sowie der Flugvermessung;
 - 4. :: die Anforderungen an die Befähigung und Eignung des nach diesem Gesetz erlaubnispflichtigen Personals für die Flugsicherung und seiner Ausbilder;
 - 4a. :: die Art, den Umfang und die fachlichen Voraussetzungen sowie das Verfahren zur Erlangung der Erlaubnisse und Berechtigungen sowie Lizenzen in der Flugsicherung und deren Rücknahme und Widerruf oder Beschränkung;
-- 4b. :: das Verfahren zur Erlangung von Befähigungsnachweisen nach Ma�Flugsicherungsdienste-Verordnung“) (ABl. L 96 vom 31.3.2004, S. 10) für die Durchführung von Unterstützungsdiensten nach § 27c Absatz 2 Satz 2, deren Widerruf oder Beschränkung;
+- 4b. :: das Verfahren zur Erlangung von Befähigungsnachweisen nach MaFlugsicherungsdienste-Verordnung“) (ABl. L 96 vom 31.3.2004, S. 10) für die Durchführung von Unterstützungsdiensten nach § 27c Absatz 2 Satz 2, deren Widerruf oder Beschränkung;
 - 5. :: die Ausbildung von Personal für die Flugsicherung und den Betrieb entsprechender Ausbildungsstätten;
 - 6. :: die Kosten (Gebühren und Auslagen) für Amtshandlungen zur Durchführung der Flughafenkoordinierung; Absatz 1 Satz 1 Nr. 13 Satz 2, 3, 4 zweiter Halbsatz und Satz 5 gilt entsprechend;
 - 7. :: die Kosten (Gebühren und Auslagen) für Amtshandlungen zur Durchführung der Flugsicherung;

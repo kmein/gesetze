@@ -59,7 +59,7 @@ durchführen zu können.
   - k) :: Bewerten und Evaluieren der Prozesse im Hinblick auf Qualität, wirtschaftlichen Erfolg und Kundenzufriedenheit, Organisieren von Verbesserungsprozessen,
   - l) :: Wahrnehmen von operativen Personalmanagementaufgaben.
 
-(5) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss �Geprüfter Prozessmanager Elektrotechnik/Geprüfte Prozessmanagerin Elektrotechnik (Certified Process Manager -- Electric/Electronics)“.
+(5) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss Geprüfter Prozessmanager Elektrotechnik/Geprüfte Prozessmanagerin Elektrotechnik (Certified Process Manager -- Electric/Electronics)“.
 
 § 2 - Zulassungsvoraussetzungen
 
@@ -85,9 +85,9 @@ Die Prüfung gliedert sich in die Prüfungsteile:
 Die einzelnen Prüfungsteile können in beliebiger Reihenfolge geprüft werden; dabei ist mit dem letzten Prüfungsteil spätestens fünf Jahre nach dem ersten Prüfungstag des ersten Prüfungsteils zu beginnen.
 
 
-§ 4 - Prüfungsteil �Prozess- und Projektmanagement“
+§ 4 - Prüfungsteil Prozess- und Projektmanagement“
 
-(1) Im Prüfungsteil �Prozess- und Projektmanagement“ soll die Befähigung nachgewiesen werden, Prozesse in einem der Handlungsfelder
+(1) Im Prüfungsteil Prozess- und Projektmanagement“ soll die Befähigung nachgewiesen werden, Prozesse in einem der Handlungsfelder
 
 - 1. :: Entwicklung (Systems engineering),
 - 2. :: Produktion (Production engineering) oder
@@ -128,9 +128,9 @@ zu analysieren sowie Projekte zur Veränderung von Prozessen durchführen zu kö
 (5) Auf Grund der Dokumentation, der Präsentation und des Fachgesprächs sind die Befähigungen nach Absatz 2 zu bewerten.
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-§ 5 - Prüfungsteil �Handlungsfeldübergreifende Fachaufgaben“
+§ 5 - Prüfungsteil Handlungsfeldübergreifende Fachaufgaben“
 
-(1) Im Prüfungsteil �Handlungsfeldübergreifende Fachaufgaben“ soll die Befähigung nachgewiesen werden, Aufgaben des Engineerings unter technischen, organisatorischen, betriebswirtschaftlichen und personellen Gesichtspunkten, sowie unter Beachtung von Vorschriften, Regelwerken und Vorgaben bearbeiten und dabei Analysen durchführen, Konzepte für Lösungen entwickeln und Planungen durchführen zu können. Insbesondere sollen folgende Befähigungen nachgewiesen werden:
+(1) Im Prüfungsteil Handlungsfeldübergreifende Fachaufgaben“ soll die Befähigung nachgewiesen werden, Aufgaben des Engineerings unter technischen, organisatorischen, betriebswirtschaftlichen und personellen Gesichtspunkten, sowie unter Beachtung von Vorschriften, Regelwerken und Vorgaben bearbeiten und dabei Analysen durchführen, Konzepte für Lösungen entwickeln und Planungen durchführen zu können. Insbesondere sollen folgende Befähigungen nachgewiesen werden:
 
 - 1. :: Erstellen von technischen Spezifikationen, einschließlich
   - a) :: Erfassen, Analysieren und Bewerten von Anforderungen unter Anwendung von technischen Prinzipien, Regeln und Verfahren,
@@ -141,12 +141,12 @@ zu analysieren sowie Projekte zur Veränderung von Prozessen durchführen zu kö
   - b) :: Festlegen und Entwickeln der technischen Ausführung als Produkt-, System- oder Prozessdesign,
   - c) :: Auswählen und Festlegen von Verfahren und Plänen zur Überprüfung funktionaler und leistungsbezogener Spezifikation einschließlich sicherheitstechnischer Anforderungen, nachhaltigen Energie- und Ressourcenmanagements und Qualitätsstandards.
 
-(2) Zum Nachweis der Befähigung sind zwei Situationsaufgaben schriftlich zu bearbeiten. Eine Situationsaufgabe soll schwerpunktmä�Personalmanagement“ sollen jeweils berücksichtigt werden. Die Prüfungsdauer der einzelnen Situationsaufgaben beträgt jeweils mindestens 120 Minuten, insgesamt jedoch nicht mehr als 300 Minuten.
+(2) Zum Nachweis der Befähigung sind zwei Situationsaufgaben schriftlich zu bearbeiten. Eine Situationsaufgabe soll schwerpunktmäPersonalmanagement“ sollen jeweils berücksichtigt werden. Die Prüfungsdauer der einzelnen Situationsaufgaben beträgt jeweils mindestens 120 Minuten, insgesamt jedoch nicht mehr als 300 Minuten.
 (3) Wurde in nicht mehr als einer Situationsaufgabe eine mangelhafte Prüfungsleistung erbracht, ist eine mündliche Ergänzungsprüfung anzubieten. Bei einer ungenügenden schriftlichen Prüfungsleistung besteht diese Möglichkeit nicht. Die Ergänzungsprüfung soll in der Regel nicht länger als 20 Minuten dauern. Die Bewertung der schriftlichen Prüfungsleistung und die der mündlichen Ergänzungsprüfung werden zu einer Prüfungsleistung zusammengefasst. Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
 
-§ 6 - Prüfungsteil �Personalmanagement“
+§ 6 - Prüfungsteil Personalmanagement“
 
-(1) Im Prüfungsteil �Personalmanagement“ soll die Befähigung nachgewiesen werden, Aufgaben und Maßnahmen in den Bereichen Personalbedarf, Personaleinsatz und Personalführung in einem berufstypischen Arbeitsbereich oder Projekt bearbeiten und in diesem Zusammenhang personelle Probleme analysieren und Lösungen entsprechend den betrieblichen Anforderungen sowie arbeitsrechtlicher und tariflicher Bestimmungen erarbeiten zu können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(1) Im Prüfungsteil Personalmanagement“ soll die Befähigung nachgewiesen werden, Aufgaben und Maßnahmen in den Bereichen Personalbedarf, Personaleinsatz und Personalführung in einem berufstypischen Arbeitsbereich oder Projekt bearbeiten und in diesem Zusammenhang personelle Probleme analysieren und Lösungen entsprechend den betrieblichen Anforderungen sowie arbeitsrechtlicher und tariflicher Bestimmungen erarbeiten zu können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: Ermitteln und Bestimmen des qualitativen und quantitativen Personalbedarfs unter Berücksichtigung technischer und organisatorischer Veränderungen,
 - 2. :: Erstellen von Anforderungsprofilen,
@@ -162,7 +162,7 @@ zu analysieren sowie Projekte zur Veränderung von Prozessen durchführen zu kö
 - 12. :: Mitwirken bei der Beendigung von Arbeitsverhältnissen und der Erstellung von Zeugnissen,
 - 13. :: Anwenden des Arbeits- und Tarifrechts.
 
-(2) Zum Nachweis der Befähigung ist eine Situationsaufgabe schriftlich zu bearbeiten. Qualifikationsinhalte aus dem Prüfungsteil �Handlungsübergreifende Fachaufgaben“ sollen berücksichtigt werden. Die Prüfungsdauer der Situationsaufgabe beträgt mindestens 120 Minuten und höchstens 150 Minuten.
+(2) Zum Nachweis der Befähigung ist eine Situationsaufgabe schriftlich zu bearbeiten. Qualifikationsinhalte aus dem Prüfungsteil Handlungsübergreifende Fachaufgaben“ sollen berücksichtigt werden. Die Prüfungsdauer der Situationsaufgabe beträgt mindestens 120 Minuten und höchstens 150 Minuten.
 (3) Wurde in der Situationsaufgabe eine mangelhafte Prüfungsleistung erbracht, ist eine mündliche Ergänzungsprüfung anzubieten. Bei einer ungenügenden schriftlichen Prüfungsleistung besteht diese Möglichkeit nicht. Die einzelne Ergänzungsprüfung soll in der Regel nicht länger als 20 Minuten dauern. Die Bewertung der schriftlichen Prüfungsleistung und die der mündlichen Ergänzungsprüfung werden zu einer Note zusammengefasst. Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
 
 § 7 - Befreiung von einzelnen Prüfungsbestandteilen
@@ -173,20 +173,20 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 § 8 - Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 2 mit Punkten zu bewerten.
-(2) Der Prüfungsteil �Prozess- und Projektmanagement“, die zwei Situationsaufgaben im Prüfungsteil �Handlungsfeldübergreifende Fachaufgaben“ sowie die Situationsaufgaben im Prüfungsteil �Personalmanagement“ sind einzeln zu bewerten.
-(3) Aus den Bewertungen der beiden Situationsaufgaben im Prüfungsteil �Handlungsfeldübergreifende Fachaufgaben“ ist das arithmetische Mittel zu bilden.
+(2) Der Prüfungsteil Prozess- und Projektmanagement“, die zwei Situationsaufgaben im Prüfungsteil Handlungsfeldübergreifende Fachaufgaben“ sowie die Situationsaufgaben im Prüfungsteil Personalmanagement“ sind einzeln zu bewerten.
+(3) Aus den Bewertungen der beiden Situationsaufgaben im Prüfungsteil Handlungsfeldübergreifende Fachaufgaben“ ist das arithmetische Mittel zu bilden.
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
 § 9 - Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in allen Prüfungsleistungen nach § 8 Absatz 2 jeweils mindestens 50 Punkte erreicht worden sind.
-(2) Ist die Prüfung bestanden, ist die Bewertung für den Prüfungsteil �Handlungsfeldübergreifende Fachaufgaben“ kaufmännisch auf eine ganze Zahl zu runden.
+(2) Ist die Prüfung bestanden, ist die Bewertung für den Prüfungsteil Handlungsfeldübergreifende Fachaufgaben“ kaufmännisch auf eine ganze Zahl zu runden.
 (3) Den Bewertungen für die Prüfungsteile ist nach Anlage 2 die jeweilige Note als Dezimalzahl zuzuordnen.\\
 Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das arithmetische Mittel zu berechnen aus:
 
-- 1. :: der Bewertung der Prüfungsleistungen im Prüfungsteil �Prozess- und Projektmanagement“,
-- 2. :: dem nach § 8 Absatz 3 errechneten arithmetischen Mittel im Prüfungsteil �Handlungsfeldübergreifende Fachaufgaben“ und
-- 3. :: der Bewertung der Prüfungsleistungen im Prüfungsteil �Personalmanagement“.
+- 1. :: der Bewertung der Prüfungsleistungen im Prüfungsteil Prozess- und Projektmanagement“,
+- 2. :: dem nach § 8 Absatz 3 errechneten arithmetischen Mittel im Prüfungsteil Handlungsfeldübergreifende Fachaufgaben“ und
+- 3. :: der Bewertung der Prüfungsleistungen im Prüfungsteil Personalmanagement“.
 
 Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerundeten Gesamtpunktzahl wird nach Anlage 2 die Note als Dezimalzahl und die Note in Worten zugeordnet. Die zugeordnete Note ist die Gesamtnote.
 
@@ -378,9 +378,9 @@ Teil A -- Zeugnis ohne Prüfungsergebnisse:
 Teil B -- Zeugnis mit Prüfungsergebnissen:
 Alle Angaben des Teils A sowie zusätzlich:
 
-- 1. :: zum Prüfungsteil �Prozess- und Projektmanagement“ die Benennung, die Bewertung und die Note dieses Prüfungsteils sowie die Angabe, dass dieser Prüfungsteil Dokumentation, Präsentation und Fachgespräch beinhaltet,
-- 2. :: zum Prüfungsteil �Handlungsfeldübergreifende Fachaufgaben“ die Benennung, das nach § 8 Absatz 3 errechnete arithmetische Mittel und die Note dieses Prüfungsteils sowie die Benennung und die jeweilige Bewertung der beiden Situationsaufgaben dieses Prüfungsteils,
-- 3. :: zum Prüfungsteil �Personalmanagement“ die Benennung, die Bewertung und die Note dieses Prüfungsteils sowie die Angabe, dass die Prüfung eine Situationsaufgabe ist,
+- 1. :: zum Prüfungsteil Prozess- und Projektmanagement“ die Benennung, die Bewertung und die Note dieses Prüfungsteils sowie die Angabe, dass dieser Prüfungsteil Dokumentation, Präsentation und Fachgespräch beinhaltet,
+- 2. :: zum Prüfungsteil Handlungsfeldübergreifende Fachaufgaben“ die Benennung, das nach § 8 Absatz 3 errechnete arithmetische Mittel und die Note dieses Prüfungsteils sowie die Benennung und die jeweilige Bewertung der beiden Situationsaufgaben dieses Prüfungsteils,
+- 3. :: zum Prüfungsteil Personalmanagement“ die Benennung, die Bewertung und die Note dieses Prüfungsteils sowie die Angabe, dass die Prüfung eine Situationsaufgabe ist,
 - 4. :: die errechnete Gesamtpunktzahl für die gesamte Prüfung,
 - 5. :: die Gesamtnote als Dezimalzahl,
 - 6. :: die Gesamtnote in Worten,

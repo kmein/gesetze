@@ -341,10 +341,10 @@ Anlagenverzeichnis
     \\
     \\
     Es bedeutet:
-    - 1. :: mit �X“ gekennzeichnete Kombinationen: Eine Zusammenlagerung ist zulässig;
-    - 2. :: mit �a)“ gekennzeichnete Kombinationen: Verschiedene Arten von Gegenständen, die nach gefahrgutrechtlichen Vorschriften der Klassifizierung 1.6N entsprechen, dürfen nur als Gegenstände der Lagergruppen 1.2 zusammen gelagert werden, wenn durch Prüfungen oder Analogieschluss nachgewiesen ist, dass keine zusätzliche Detonationsgefahr durch Übertragung zwischen den Gegenständen besteht; andernfalls sind sie als Gegenstände der Lagergruppe 1.1 zu behandeln;
-    - 3. :: mit �b)“ gekennzeichnete Kombinationen: Wenn Gegenstände der Verträglichkeitsgruppe N mit Stoffen oder Gegenständen der Verträglichkeitsgruppen C, D oder E zusammen gelagert werden, sind die Gegenstände der Verträglichkeitsgruppe N so zu behandeln, als hätten sie die Eigenschaften der Verträglichkeitsgruppe D;
-    - 4. :: mit �c)“ gekennzeichnete Kombinationen: Explosivstoffe der Verträglichkeitsgruppe L dürfen mit Packstücken mit gleichartigen Explosivstoffen dieser Verträglichkeitsgruppe zusammen gelagert werden.
+    - 1. :: mit X“ gekennzeichnete Kombinationen: Eine Zusammenlagerung ist zulässig;
+    - 2. :: mit a)“ gekennzeichnete Kombinationen: Verschiedene Arten von Gegenständen, die nach gefahrgutrechtlichen Vorschriften der Klassifizierung 1.6N entsprechen, dürfen nur als Gegenstände der Lagergruppen 1.2 zusammen gelagert werden, wenn durch Prüfungen oder Analogieschluss nachgewiesen ist, dass keine zusätzliche Detonationsgefahr durch Übertragung zwischen den Gegenständen besteht; andernfalls sind sie als Gegenstände der Lagergruppe 1.1 zu behandeln;
+    - 3. :: mit b)“ gekennzeichnete Kombinationen: Wenn Gegenstände der Verträglichkeitsgruppe N mit Stoffen oder Gegenständen der Verträglichkeitsgruppen C, D oder E zusammen gelagert werden, sind die Gegenstände der Verträglichkeitsgruppe N so zu behandeln, als hätten sie die Eigenschaften der Verträglichkeitsgruppe D;
+    - 4. :: mit c)“ gekennzeichnete Kombinationen: Explosivstoffe der Verträglichkeitsgruppe L dürfen mit Packstücken mit gleichartigen Explosivstoffen dieser Verträglichkeitsgruppe zusammen gelagert werden.
 
     (3) Explosivstoffe dürfen nicht mit anderen Materialien zusammen gelagert werden, die zu einer Gefahrenerhöhung beitragen.
   - 2.8 :: Fundmunition und sprengkräftige Kriegswaffen
@@ -437,7 +437,7 @@ Anlagenverzeichnis
     (11) Explosivstoffe dürfen nur in der Versandverpackung oder in der kleinsten Verpackungseinheit aufbewahrt werden. Bei angebrochenen Packstücken sind Maßnahmen zu treffen, dass der Inhalt nicht beeinträchtigt wird und die Explosivstoffe nicht nach außen gelangen können.
     (12) Explosivstoffe dürfen in einem Behältnis nur getrennt von Gegenständen mit Zündstoff aufbewahrt werden. Die Abtrennung muss so beschaffen sein, dass die Übertragung einer Detonation auf die anderen Explosivstoffe verhindert wird.
     (13) Behältnisse sind vor gefährlichen Einwirkungen von außen zu schützen. Sie müssen so aufbewahrt werden, dass im Explosionsfall die Wirkung gefährlicher Spreng- und Wurfstücke auf die unmittelbare Umgebung beschränkt bleibt.
-    (14) Behältnisse müssen au�GHS01“ nach Artikel 19 i. V. m. Anhang V Nummer 1.1 der Verordnung (EG) Nr. 1272/2008 vom 16. Dezember 2008 jeweils in der aktuellen Fassung gekennzeichnet sein. Bis zum 31. Mai 2015 kann das Behältnis stattdessen mit dem Gefahrensymbol �E“ nach Anhang II der Richtlinie 67/548/EWG vom 27. Juni 1967 jeweils in der aktuellen Fassung gekennzeichnet sein. Das Gefahrenpiktogramm beziehungsweise Gefahrensymbol muss dauerhaft und sichtbar sein.
+    (14) Behältnisse müssen auGHS01“ nach Artikel 19 i. V. m. Anhang V Nummer 1.1 der Verordnung (EG) Nr. 1272/2008 vom 16. Dezember 2008 jeweils in der aktuellen Fassung gekennzeichnet sein. Bis zum 31. Mai 2015 kann das Behältnis stattdessen mit dem Gefahrensymbol E“ nach Anhang II der Richtlinie 67/548/EWG vom 27. Juni 1967 jeweils in der aktuellen Fassung gekennzeichnet sein. Das Gefahrenpiktogramm beziehungsweise Gefahrensymbol muss dauerhaft und sichtbar sein.
   - 4.3 :: Anforderungen an die Aufbewahrung von sonstigen explosionsgefährlichen Stoffen
     (1) Stoffe dürfen nur in geeigneten Räumen aufbewahrt werden.
     (2) Es sind die jeweils erforderlichen Maßnahmen zu treffen, um unbefugte Entnahme von Stoffen zu verhindern.
@@ -1516,7 +1516,7 @@ D 4
 - <<FnA4-F774705_69>>[[#FnR.FnA4-F774705_69][1)]] :: Dieser Abstand gilt bei Gegenständen mit Eigenantrieb, z. B. Raketen.
 
 (Fundstelle: BGBl. I 2010, 1685)
-�
+
 
 Gefährlicher Betriebsteil
 

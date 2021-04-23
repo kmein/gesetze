@@ -22,7 +22,7 @@ Auf Grund des § 77b des Gesetzes über die internationale Rechtshilfe in Strafs
 (1) Elektronische Dokumente gemäß § 1 Absatz 1 sind mit einer qualifizierten elektronischen Signatur zu versehen.
 (2) Die qualifizierte elektronische Signatur kann durch eine einfache elektronische Signatur ersetzt werden, wenn eine Behörde oder ein Gericht ein elektronisches Dokument bei dem Bundesamt für Justiz einreicht und
 
-- 1. :: ein verschlüsselter Übermittlungsweg auf der Grundlage des Protokollstandards �OSCI“ oder eines nach dem Stand der Technik vergleichbaren Standards genutzt wird und
+- 1. :: ein verschlüsselter Übermittlungsweg auf der Grundlage des Protokollstandards OSCI“ oder eines nach dem Stand der Technik vergleichbaren Standards genutzt wird und
 - 2. :: die Integrität und Authentizität der Daten gewährleistet ist.
 
 (3) Die qualifizierte elektronische Signatur kann auch durch eine einfache elektronische Signatur ersetzt werden, wenn das elektronische Dokument auf einem sicheren Übermittlungsweg eingereicht wird. Sichere Übermittlungswege sind:

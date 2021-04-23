@@ -41,7 +41,7 @@ Im Sinne dieses Gesetzes und soweit nicht ausdrücklich etwas anders bestimmt is
 § 3 - Besatzungsmitglieder
 
 (1) Seeleute im Sinne dieses Gesetzes sind alle Personen, die an Bord des Schiffes tätig sind, unabhängig davon, ob sie vom Reeder oder einer anderen Person beschäftigt werden oder als Selbständige tätig sind, einschließlich der zu ihrer Berufsbildung Beschäftigten (Besatzungsmitglieder).
-(2) Für die zu ihrer Berufsausbildung Beschäftigten gelten die Vorschriften des Abschnittes 4 über die Berufsausbildung an Bord. Soweit die Vorschriften des Abschnittes 4 keine besonderen Regelungen treffen, sind im Übrigen die Vorschriften dieses Gesetzes mit der Ma�Heuervertrages“ der �Berufsausbildungsvertrag“, an die Stelle des �Heuerverhältnisses“ das �Berufsausbildungsverhältnis“ und an die Stelle der �Heuer“ die �Vergütung“ tritt. Für Praktikanten und andere Personen, die beschäftigt werden, um berufliche Fertigkeiten, Kenntnisse, Fähigkeiten oder berufliche Erfahrungen zu erwerben, ohne dass es sich um eine Berufsausbildung handelt, gelten die Sätze 1 und 2 entsprechend.
+(2) Für die zu ihrer Berufsausbildung Beschäftigten gelten die Vorschriften des Abschnittes 4 über die Berufsausbildung an Bord. Soweit die Vorschriften des Abschnittes 4 keine besonderen Regelungen treffen, sind im Übrigen die Vorschriften dieses Gesetzes mit der MaHeuervertrages“ der Berufsausbildungsvertrag“, an die Stelle des Heuerverhältnisses“ das Berufsausbildungsverhältnis“ und an die Stelle der Heuer“ die Vergütung“ tritt. Für Praktikanten und andere Personen, die beschäftigt werden, um berufliche Fertigkeiten, Kenntnisse, Fähigkeiten oder berufliche Erfahrungen zu erwerben, ohne dass es sich um eine Berufsausbildung handelt, gelten die Sätze 1 und 2 entsprechend.
 (3) Keine Besatzungsmitglieder im Sinne des Absatzes 1 sind
 
 - 1. :: Lotsinnen oder Lotsen sowie Personen, die im Auftrag des Bundes, eines Landes oder einer anderen öffentlich-rechtlichen Körperschaft Beratungs- oder Kontrolltätigkeit an Bord ausüben,
@@ -1743,7 +1743,7 @@ Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des V
 
 § 152 - Übergangsregelung für Schiffe mit Vermessung in Bruttoregistertonnen
 
-Für Schiffe, die vor dem 18. Juli 1994 nach dem Übereinkommen vom 10. Juni 1947 über ein einheitliches System der Schiffsvermessung (BGBl. 1957 II S. 1469, 1471; 1958 II S. 67) vermessen wurden, gilt der im Internationalen Schiffsmessbrief (1969) in der Spalte �Bemerkungen“ eingetragene Bruttoraumgehalt in Bruttoregistertonnen als Bruttoraumzahl.
+Für Schiffe, die vor dem 18. Juli 1994 nach dem Übereinkommen vom 10. Juni 1947 über ein einheitliches System der Schiffsvermessung (BGBl. 1957 II S. 1469, 1471; 1958 II S. 67) vermessen wurden, gilt der im Internationalen Schiffsmessbrief (1969) in der Spalte Bemerkungen“ eingetragene Bruttoraumgehalt in Bruttoregistertonnen als Bruttoraumzahl.
 
 § 153 - Übergangsregelung für zugelassene Ärzte
 

@@ -120,7 +120,7 @@ In den Fällen des Satzes 3 Nummer 2 muss der Beauftragte des Herstellers in ein
 
 (1) Im Verfahren auf Erteilung der Betriebserlaubnis werden Genehmigungen und Prüfzeichen anerkannt, die ein ausländischer Staat für Ausrüstungsgegenstände oder Fahrzeugteile oder in Bezug auf solche Gegenstände oder Teile für bestimmte Fahrzeugtypen unter Beachtung der mit der Bundesrepublik Deutschland vereinbarten Bedingungen erteilt hat. Dasselbe gilt für Genehmigungen und Prüfzeichen, die das Kraftfahrt-Bundesamt für solche Gegenstände oder Teile oder in Bezug auf diese für bestimmte Fahrzeugtypen erteilt, wenn das Genehmigungsverfahren unter Beachtung der von der Bundesrepublik Deutschland mit ausländischen Staaten vereinbarten Bedingungen durchgeführt worden ist. § 22a bleibt unberührt.
 (1a) Absatz 1 gilt entsprechend für Genehmigungen und Prüfzeichen, die auf Grund von Rechtsakten der Europäischen Gemeinschaften erteilt werden oder anzuerkennen sind.
-(2) Das Prüfzeichen nach Absatz 1 besteht aus einem Kreis, in dessen Innerem sich der Buchstabe �E“ und die Kennzahl des Staates befinden, der die Genehmigung erteilt hat, sowie aus der Genehmigungsnummer in der Nähe dieses Kreises, gegebenenfalls aus der Nummer der internationalen Vereinbarung mit dem Buchstaben �R“ und gegebenenfalls aus zusätzlichen Zeichen. Das Prüfzeichen nach Absatz 1a besteht aus einem Rechteck, in dessen Innerem sich der Buchstabe �e“ und die Kennzahl oder die Kennbuchstaben des Staates befinden, der die Genehmigung erteilt hat, aus der Bauartgenehmigungsnummer in der Nähe dieses Rechtecks sowie gegebenenfalls aus zusätzlichen Zeichen. Die Kennzahl für die Bundesrepublik Deutschland ist in allen Fällen �1“.
+(2) Das Prüfzeichen nach Absatz 1 besteht aus einem Kreis, in dessen Innerem sich der Buchstabe E“ und die Kennzahl des Staates befinden, der die Genehmigung erteilt hat, sowie aus der Genehmigungsnummer in der Nähe dieses Kreises, gegebenenfalls aus der Nummer der internationalen Vereinbarung mit dem Buchstaben R“ und gegebenenfalls aus zusätzlichen Zeichen. Das Prüfzeichen nach Absatz 1a besteht aus einem Rechteck, in dessen Innerem sich der Buchstabe e“ und die Kennzahl oder die Kennbuchstaben des Staates befinden, der die Genehmigung erteilt hat, aus der Bauartgenehmigungsnummer in der Nähe dieses Rechtecks sowie gegebenenfalls aus zusätzlichen Zeichen. Die Kennzahl für die Bundesrepublik Deutschland ist in allen Fällen 1“.
 (3) Mit einem Prüfzeichen der in den Absätzen 1 bis 2 erwähnten Art darf ein Ausrüstungsgegenstand oder ein Fahrzeugteil nur gekennzeichnet sein, wenn er der Genehmigung in jeder Hinsicht entspricht. Zeichen, die zu Verwechslungen mit einem solchen Prüfzeichen Anlass geben können, dürfen an Ausrüstungsgegenständen oder Fahrzeugteilen nicht angebracht sein.
 
 § 21b - Anerkennung von Prüfungen auf Grund von Rechtsakten der Europäischen Gemeinschaften
@@ -134,7 +134,7 @@ Im Verfahren auf Erteilung der Betriebserlaubnis werden Prüfungen anerkannt, di
 
 (1) Die Betriebserlaubnis kann auch gesondert für Teile von Fahrzeugen erteilt werden, wenn der Teil eine technische Einheit bildet, die im Erlaubnisverfahren selbstständig behandelt werden kann. Dürfen die Teile nur an Fahrzeugen bestimmter Art, eines bestimmten Typs oder nur bei einer bestimmten Art des Ein- oder Anbaus verwendet werden, ist die Betriebserlaubnis dahingehend zu beschränken. Die Wirksamkeit der Betriebserlaubnis kann davon abhängig gemacht werden, dass der Ein- oder Anbau abgenommen worden ist. Die Abnahme ist von einem amtlich anerkannten Sachverständigen oder Prüfer für den Kraftfahrzeugverkehr oder von einem Kraftfahrzeugsachverständigen oder Angestellten nach Nummer 4 der Anlage VIIIb durchführen zu lassen. In den Fällen des Satzes 3 ist durch die abnehmende Stelle nach Satz 4 auf dem Nachweis (§ 19 Absatz 4 Satz 1) darüber der ordnungsgemäße Ein- oder Anbau unter Angabe des Fahrzeugherstellers und -typs sowie der Fahrzeug-Identifizierungsnummer zu bestätigen.
 (2) Für das Verfahren gelten die Vorschriften über die Erteilung der Betriebserlaubnis für Fahrzeuge entsprechend. Bei reihenweise zu fertigenden oder gefertigten Teilen ist sinngemäß nach § 20 zu verfahren; der Inhaber einer Allgemeinen Betriebserlaubnis für Fahrzeugteile hat durch Anbringung des ihm vorgeschriebenen Typzeichens auf jedem dem Typ entsprechenden Teil dessen Übereinstimmung mit dem genehmigten Typ zu bestätigen. Außerdem hat er jedem gefertigten Teil einen Abdruck oder eine Ablichtung der Betriebserlaubnis oder den Auszug davon und gegebenenfalls den Nachweis darüber (§ 19 Absatz 4 Satz 1) beizufügen. Bei Fahrzeugteilen, die nicht zu einem genehmigten Typ gehören, ist nach § 21 zu verfahren; das Gutachten des amtlich anerkannten Sachverständigen für den Kraftfahrzeugverkehr ist, falls es sich nicht gegen die Erteilung der Betriebserlaubnis ausspricht, in den Fahrzeugschein einzutragen, wenn der Teil an einem bestimmten zulassungspflichtigen Fahrzeug an- oder eingebaut werden soll. Unter dem Gutachten hat die Zulassungsbehörde gegebenenfalls einzutragen:\\
-| �Betriebserlaubnis erteilt“.\\ |
+| Betriebserlaubnis erteilt“.\\ |
 
 Der gleiche Vermerk ist unter kurzer Bezeichnung des genehmigten Teils in dem nach § 4 Absatz 5 der Fahrzeug-Zulassungsverordnung mitzuführenden oder aufzubewahrenden Nachweis und in dem Anhängerverzeichnis, sofern ein solches ausgestellt worden ist, einzutragen.
 (3) Anstelle einer Betriebserlaubnis nach Absatz 1 können auch Teile zum nachträglichen An- oder Einbau (§ 19 Absatz 3 Nummer 1 Buchstabe b oder Nummer 3) im Rahmen einer Allgemeinen Betriebserlaubnis für ein Fahrzeug oder eines Nachtrags dazu (§ 20) genehmigt werden; die Absätze 1, 2 Satz 2 und 3 gelten entsprechend. Der Nachtrag kann sich insoweit auch auf Fahrzeuge erstrecken, die vor Genehmigung des Nachtrags hergestellt worden sind.
@@ -355,7 +355,7 @@ Kann der Führer eines Fahrzeugs auf Verlangen einer zuständigen Person die Ein
 
 § 31e - Geräuscharme ausländische Kraftfahrzeuge
 
-Ausländische Kraftfahrzeuge, die zur Geräuschklasse G 1 im Sinne der Nummer 3.2.1 der Anlage XIV gehören, gelten als geräuscharm; sie dürfen mit dem Zeichen �Geräuscharmes Kraftfahrzeug“ gemäß Anlage XV gekennzeichnet sein. Für andere ausländische Fahrzeuge gilt § 49 Absatz 3 Satz 2 und 3 entsprechend.
+Ausländische Kraftfahrzeuge, die zur Geräuschklasse G 1 im Sinne der Nummer 3.2.1 der Anlage XIV gehören, gelten als geräuscharm; sie dürfen mit dem Zeichen Geräuscharmes Kraftfahrzeug“ gemäß Anlage XV gekennzeichnet sein. Für andere ausländische Fahrzeuge gilt § 49 Absatz 3 Satz 2 und 3 entsprechend.
 
 § 32 - Abmessungen von Fahrzeugen und Fahrzeugkombinationen
 
@@ -430,27 +430,27 @@ bei Sattelkraftfahrzeugen (Sattelzugmaschine mit Sattelanhänger) und Fahrzeugko
 \\
 2.
 bei Sattelkraftfahrzeugen (Sattelzugmaschine mit Sattelanhänger), wenn die höchstzulässigen Teillängen des Sattelanhängers
-�
-�
+
+
 a)
 Achse Zugsattelzapfen bis zur hinteren Begrenzung 12,00 m und
-�
-�
+
+
 b)
 vorderer Überhangradius 2,04 m
-�
-�
+
+
 nicht überschritten werden,
 16,50 m,\\
 \\
 3.
 bei Zügen, ausgenommen Züge nach Nummer 4:
-�
-�
+
+
 a)
 Kraftfahrzeuge außer Zugmaschinen mit Anhängern
 18,00 m,
-�
+
 b)
 Zugmaschinen mit Anhängern
 18,75 m,\\
@@ -460,9 +460,9 @@ bei Zügen, die aus einem Lastkraftwagen und einem Anhänger zur Güterbeförder
 \\
 18,75 m.\\
 \\
-�
+
 Dabei dürfen die höchstzulässigen Teillängen folgende Maße nicht überschreiten:\\
-�
+
 a)
 größter Abstand zwischen dem vordersten äußeren Punkt der Ladefläche hinter dem Führerhaus des Lastkraftwagens und dem hintersten äußeren Punkt der Ladefläche des Anhängers der Fahrzeugkombination, abzüglich des Abstands zwischen der hinteren Begrenzung des Kraftfahrzeugs und der vorderen Begrenzung des Anhängers
 \\
@@ -470,12 +470,12 @@ größter Abstand zwischen dem vordersten äußeren Punkt der Ladefläche hinter
 \\
 15,65 m\\
 \\
-�
+
 und\\
 \\
-�
-�
-�
+
+
+
 b)
 größter Abstand zwischen dem vordersten äußeren Punkt der Ladefläche hinter dem Führerhaus des Lastkraftwagens und dem hintersten äußeren Punkt der Ladefläche des Anhängers der Fahrzeugkombination
 \\
@@ -483,7 +483,7 @@ größter Abstand zwischen dem vordersten äußeren Punkt der Ladefläche hinter
 \\
 16,40 m.\\
 \\
-�
+
 Bei Fahrzeugen mit Aufbau -- bei Lastkraftwagen jedoch ohne Führerhaus -- gelten die Teillängen einschließlich Aufbau.
 | (4a) Bei Fahrzeugkombinationen, die aus einem Kraftomnibus und einem Anhänger bestehen, beträgt die höchstzulässige Länge, unter Beachtung der Vorschriften in Absatz 3 Nummer 1 bis 3 | \\         |
 |                                                                                                                                                                                        | \\         |
@@ -521,12 +521,12 @@ Dies gilt jedoch nur, wenn durch die genannten Einrichtungen die Ladefläche wed
 1.
 Breite:\\
 \\
-�
+
 a)
 bei Krafträdern sowie dreirädrigen und vierrädrigen Kraftfahrzeugen
 2,00 m,\\
 \\
-�
+
 b)
 bei zweirädrigen Kleinkrafträdern und Fahrrädern mit Hilfsmotor jedoch
 1,00 m,\\
@@ -611,12 +611,12 @@ Das technisch zulässige Gesamtgewicht ist das Gewicht, das unter Berücksichtig
 1.
 Einzelachslast\\
 \\
-�
+
 a)
 Einzelachsen
 10,00 t\\
 \\
-�
+
 b)
 Einzelachsen (angetrieben)
 11,50 t;\\
@@ -624,46 +624,46 @@ Einzelachsen (angetrieben)
 2.
 Doppelachslast von Kraftfahrzeugen unter Beachtung der Vorschriften für die Einzelachslast\\
 \\
-�
-�
+
+
 a)
 Achsabstand weniger als 1,0 m
 11,50 t\\
 \\
-�
+
 b)
 Achsabstand 1,0 m bis weniger als 1,3 m
 16,00 t\\
 \\
-�
+
 c)
 Achsabstand 1,3 m bis weniger als 1,8 m
 18,00 t\\
 \\
-�
+
 d)
 Achsabstand 1,3 m bis weniger als 1,8 m, wenn die Antriebsachse mit Doppelbereifung oder einer als gleichwertig anerkannten Federung nach Anlage XII ausgerüstet ist oder jede Antriebsachse mit Doppelbereifung ausgerüstet ist und dabei die höchstzulässige Achslast von 9,50 t je Achse nicht überschritten wird,
 19,00 t\\
 3.
 Doppelachslast von Anhängern unter Beachtung der Vorschriften für die Einzelachslast\\
 \\
-�
-�
+
+
 a)
 Achsabstand weniger als 1,0 m
 11,00 t\\
 \\
-�
+
 b)
 Achsabstand 1,0 m bis weniger als 1,3 m
 16,00 t\\
 \\
-�
+
 c)
 Achsabstand 1,3 m bis weniger als 1,8 m
 18,00 t\\
 \\
-�
+
 d)
 Achsabstand 1,8 m oder mehr
 20,00 t;\\
@@ -671,13 +671,13 @@ Achsabstand 1,8 m oder mehr
 4.
 Dreifachachslast unter Beachtung der Vorschriften für die Doppelachslast\\
 \\
-�
-�
+
+
 a)
 Achsabstände nicht mehr als 1,3 m
 21,00 t\\
 \\
-�
+
 b)
 Achsabstände mehr als 1,3 m und nicht mehr als 1,4 m
 24,00 t.\\
@@ -688,35 +688,35 @@ Sind Fahrzeuge mit anderen Reifen als den in Satz 1 genannten versehen, so darf 
 1.
 Fahrzeuge mit nicht mehr als zwei Achsen\\
 \\
-�
-�
+
+
 a)
 Kraftfahrzeuge -- ausgenommen Kraftomnibusse -- und Anhänger jeweils
-18,00 t�
-�
+18,00 t
+
 b)
 Kraftomnibusse
 19,50 t;
 2.
 Fahrzeuge mit mehr als zwei Achsen -- ausgenommen Kraftfahrzeuge nach Nummern 3 und 4 --\\
 \\
-�
-�
+
+
 a)
 Kraftfahrzeuge
 25,00 t\\
 \\
-�
+
 b)
 Kraftfahrzeuge mit einer Doppelachslast nach Absatz 4 Nummer 2 Buchstabe d
 26,00 t\\
 \\
-�
+
 c)
 Anhänger
 24,00 t\\
 \\
-�
+
 d)
 Kraftomnibusse, die als Gelenkfahrzeuge gebaut sind
 28,00 t;\\
@@ -724,13 +724,13 @@ Kraftomnibusse, die als Gelenkfahrzeuge gebaut sind
 3.
 Kraftfahrzeuge mit mehr als drei Achsen -- ausgenommen Kraftfahrzeuge nach Nummer 4 --\\
 \\
-�
-�
+
+
 a)
 Kraftfahrzeuge mit zwei Doppelachsen, deren Mitten mindestens 4,0 m voneinander entfernt sind
 32,00 t\\
 \\
-�
+
 b)
 Kraftfahrzeuge mit zwei gelenkten Achsen und mit einer Doppelachslast nach Absatz 4 Nummer 2 Buchstabe d und deren höchstzulässige Belastung, bezogen auf den Abstand zwischen den Mitten der vordersten und der hintersten Achse, 5,00 t je Meter nicht übersteigen darf, nicht mehr als
 32,00 t;\\
@@ -749,34 +749,34 @@ Fahrzeugkombinationen mit weniger als vier Achsen
 2.
 Züge mit vier Achsen\\
 \\
-�
-�
+
+
 zweiachsiges Kraftfahrzeug mit zweiachsigem Anhänger
 36,00 t;\\
 \\
 3.
 zweiachsige Sattelzugmaschine mit zweiachsigem Sattelanhänger\\
 \\
-�
-�
+
+
 a)
 bei einem Achsabstand des Sattelanhängers von 1,3 m und mehr
 36,00 t\\
 \\
-�
+
 b)
 bei einem Achsabstand des Sattelanhängers von mehr als 1,8 m, wenn die Antriebsachse mit Doppelbereifung und Luftfederung oder einer als gleichwertig anerkannten Federung nach Anlage XII ausgerüstet ist,
 38,00 t;
 4.
 andere Fahrzeugkombinationen mit vier Achsen\\
 \\
-�
-�
+
+
 a)
 mit Kraftfahrzeug nach Absatz 5 Nummer 2 Buchstabe a
 35,00 t\\
 \\
-�
+
 b)
 mit Kraftfahrzeug nach Absatz 5 Nummer 2 Buchstabe b
 36,00 t;\\
@@ -938,7 +938,7 @@ Die Innenausstattung von Kraftomnibussen, die weder für Stehplätze ausgelegt n
 
 Im Falle des Satzes 1 Nummer 2 maßgeblich ist das am Reifen angegebene Herstellungsdatum.
 
-(5) Bei Verwendung von Reifen im Sinne des Absatzes 4 oder Geländereifen für den gewerblichen Einsatz mit der Kennzeichnung �POR“, deren zulässige Höchstgeschwindigkeit unter der durch die Bauart bestimmten Höchstgeschwindigkeit des Fahrzeugs liegt, ist die Anforderung des Absatzes 1 Satz 1 hinsichtlich der Höchstgeschwindigkeit erfüllt, wenn
+(5) Bei Verwendung von Reifen im Sinne des Absatzes 4 oder Geländereifen für den gewerblichen Einsatz mit der Kennzeichnung POR“, deren zulässige Höchstgeschwindigkeit unter der durch die Bauart bestimmten Höchstgeschwindigkeit des Fahrzeugs liegt, ist die Anforderung des Absatzes 1 Satz 1 hinsichtlich der Höchstgeschwindigkeit erfüllt, wenn
 
 - 1. :: die für die Reifen zulässige Höchstgeschwindigkeit
   - a) :: für die Dauer der Verwendung der Reifen an dem Fahrzeug durch ein Schild oder einen Aufkleber oder
@@ -949,7 +949,7 @@ Im Falle des Satzes 1 Nummer 2 maßgeblich ist das am Reifen angegebene Herstell
 
 (6) An Kraftfahrzeugen -- ausgenommen Personenkraftwagen -- mit einem zulässigen Gesamtgewicht von mehr als 3,5 t und einer durch die Bauart bestimmten Höchstgeschwindigkeit von mehr als 40 km/h und an ihren Anhängern dürfen die Räder einer Achse entweder nur mit Diagonal- oder nur mit Radialreifen ausgerüstet sein. Personenkraftwagen sowie andere Kraftfahrzeuge mit einem zulässigen Gesamtgewicht von nicht mehr als 3,5 t und einer durch die Bauart bestimmten Höchstgeschwindigkeit von mehr als 40 km/h und ihre Anhänger dürfen entweder nur mit Diagonal- oder nur mit Radialreifen ausgerüstet sein; im Zug gilt dies nur für das jeweilige Einzelfahrzeug. Die Sätze 1 und 2 gelten nicht für die nach § 58 für eine Höchstgeschwindigkeit von nicht mehr als 25 km/h gekennzeichneten Anhänger hinter Kraftfahrzeugen, die mit einer Geschwindigkeit von nicht mehr als 25 km/h gefahren werden (Betriebsvorschrift). Satz 2 gilt nicht für Krafträder -- ausgenommen Leichtkrafträder, Kleinkrafträder und Fahrräder mit Hilfsmotor.
 (7) Reifenhersteller und Reifenerneuerer müssen Luftreifen für Fahrzeuge mit einer durch die Bauart bestimmten Höchstgeschwindigkeit von mehr als 40 km/h mit ihrer Fabrik- oder Handelsmarke sowie mit Angaben kennzeichnen, aus denen Reifengröße, Reifenbauart, Tragfähigkeit, Geschwindigkeitskategorie, Herstellungs- bzw. Reifenerneuerungsdatum hervorgehen. Die Art und Weise der Angaben werden im Verkehrsblatt bekannt gegeben.
-(8) Statt Luftreifen sind für Fahrzeuge mit Geschwindigkeiten von nicht mehr als 25 km/h (für Kraftfahrzeuge ohne gefederte Triebachse jedoch nur bei Höchstgeschwindigkeiten von nicht mehr als 16 km/h) Gummireifen zulässig, die folgenden Anforderungen genügen: Auf beiden Seiten des Reifens muss eine 10 mm breite, hervorstehende und deutlich erkennbare Rippe die Grenze angeben, bis zu welcher der Reifen abgefahren werden darf; die Rippe darf nur durch Angaben über den Hersteller, die Grö�60 J“. Das Arbeitsvermögen von 60 J ist noch vorhanden, wenn die Eindrückung der Gummibereifung eines Rades mit Einzel- oder Doppelreifen beim Aufbringen einer Mehrlast von 1 000 kg auf die bereits mit der höchstzulässigen statischen Belastung beschwerte Bereifung um einen Mindestbetrag zunimmt, der sich nach folgender Formel errechnet:
+(8) Statt Luftreifen sind für Fahrzeuge mit Geschwindigkeiten von nicht mehr als 25 km/h (für Kraftfahrzeuge ohne gefederte Triebachse jedoch nur bei Höchstgeschwindigkeiten von nicht mehr als 16 km/h) Gummireifen zulässig, die folgenden Anforderungen genügen: Auf beiden Seiten des Reifens muss eine 10 mm breite, hervorstehende und deutlich erkennbare Rippe die Grenze angeben, bis zu welcher der Reifen abgefahren werden darf; die Rippe darf nur durch Angaben über den Hersteller, die Grö60 J“. Das Arbeitsvermögen von 60 J ist noch vorhanden, wenn die Eindrückung der Gummibereifung eines Rades mit Einzel- oder Doppelreifen beim Aufbringen einer Mehrlast von 1 000 kg auf die bereits mit der höchstzulässigen statischen Belastung beschwerte Bereifung um einen Mindestbetrag zunimmt, der sich nach folgender Formel errechnet:
 | [[../normengrafiken/bgbl1_2012/j0679-1_0010.jpg]] |
 
 \\
@@ -1232,8 +1232,8 @@ In jedem Fall muss die Herstellung einer betriebssicheren Verbindung leicht und 
 entsprechen, gelten als schadstoffarm.
 
 (3a) Personenkraftwagen und Wohnmobile mit Selbstzündungsmotor gelten als besonders partikelreduziert, wenn sie den Anforderungen einer der in Anlage XXVI Nummer 2 festgelegten Minderungsstufen oder den Anforderungen der Verordnung (EG) Nr. 715/2007 und der Verordnung (EG) Nr. 692/2008 der Kommission vom 18. Juli 2008 entsprechen.
-(3b) Kraftfahrzeuge mit Selbstzündungsmotor mit einer technisch zulässigen Gesamtmasse bis 2 800 Kilogramm der Klasse N1 sowie Kraftfahrzeuge mit Selbstzündungsmotor ohne Begrenzung der zulässigen Gesamtmasse der Klassen M1 und M2 der Emissionsklasse �Euro 4“, die jeweils genehmigt sind entsprechend Zeile B der Grenzwerttabelle in Anhang I Abschnitt 5.3.1.4 der Richtlinie 98/69/EG des Europäischen Parlaments und des Rates vom 13. Oktober 1998 über Maßnahmen gegen die Verunreinigung der Luft durch Emissionen von Kraftfahrzeugen und zur Änderung der Richtlinie 70/220/EWG des Rates (ABl. L 350 vom 28.12.1998, S. 1), die zuletzt durch die Richtlinie 2006/96/EG des Rates vom 20. November 2006 zur Anpassung bestimmter Richtlinien im Bereich freier Warenverkehr anlässlich des Beitritts Bulgariens und Rumäniens (ABl. L 363 vom 20.12.2006, S. 81) geändert worden ist und durch die Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates vom 20. Juni 2007 über die Typgenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6) und über den Zugang zu Reparatur- und Wartungsinformationen für Fahrzeuge (ABl. L 171 vom 29.6.2007, S. 1) aufgehoben worden ist, stoßen im praktischen Fahrbetrieb weniger als 270 Milligramm Stickoxid pro Kilometer aus, wenn sie über ein Stickoxid-Minderungssystem mit hoher Minderungsleistung verfügen, das die in der Anlage XXII festgelegten Anforderungen erfüllt.
-(3c) Kraftfahrzeuge mit Selbstzündungsmotor mit einer technisch zulässigen Gesamtmasse bis 2 800 Kilogramm der Klasse N1 sowie Kraftfahrzeuge mit Selbstzündungsmotor ohne Begrenzung der zulässigen Gesamtmasse der Klassen M1 und M2 der Emissionsklasse �Euro 5“, die genehmigt sind entsprechend
+(3b) Kraftfahrzeuge mit Selbstzündungsmotor mit einer technisch zulässigen Gesamtmasse bis 2 800 Kilogramm der Klasse N1 sowie Kraftfahrzeuge mit Selbstzündungsmotor ohne Begrenzung der zulässigen Gesamtmasse der Klassen M1 und M2 der Emissionsklasse Euro 4“, die jeweils genehmigt sind entsprechend Zeile B der Grenzwerttabelle in Anhang I Abschnitt 5.3.1.4 der Richtlinie 98/69/EG des Europäischen Parlaments und des Rates vom 13. Oktober 1998 über Maßnahmen gegen die Verunreinigung der Luft durch Emissionen von Kraftfahrzeugen und zur Änderung der Richtlinie 70/220/EWG des Rates (ABl. L 350 vom 28.12.1998, S. 1), die zuletzt durch die Richtlinie 2006/96/EG des Rates vom 20. November 2006 zur Anpassung bestimmter Richtlinien im Bereich freier Warenverkehr anlässlich des Beitritts Bulgariens und Rumäniens (ABl. L 363 vom 20.12.2006, S. 81) geändert worden ist und durch die Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates vom 20. Juni 2007 über die Typgenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6) und über den Zugang zu Reparatur- und Wartungsinformationen für Fahrzeuge (ABl. L 171 vom 29.6.2007, S. 1) aufgehoben worden ist, stoßen im praktischen Fahrbetrieb weniger als 270 Milligramm Stickoxid pro Kilometer aus, wenn sie über ein Stickoxid-Minderungssystem mit hoher Minderungsleistung verfügen, das die in der Anlage XXII festgelegten Anforderungen erfüllt.
+(3c) Kraftfahrzeuge mit Selbstzündungsmotor mit einer technisch zulässigen Gesamtmasse bis 2 800 Kilogramm der Klasse N1 sowie Kraftfahrzeuge mit Selbstzündungsmotor ohne Begrenzung der zulässigen Gesamtmasse der Klassen M1 und M2 der Emissionsklasse Euro 5“, die genehmigt sind entsprechend
 
 - 1. :: der Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates vom 20. Juni 2007 über die Typgenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6) und über den Zugang zu Reparatur- und Wartungsinformationen für Fahrzeuge (ABl. L 171 vom 29.6.2007, S. 1), die zuletzt durch die Verordnung (EU) Nr. 459/2012 der Kommission vom 29. Mai 2012 zur Änderung der Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates und der Verordnung (EG) Nr. 692/2008 der Kommission hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 6) (ABl. L 142 vom 1.6.2012, S. 16) geändert worden ist, und
 - 2. :: der Verordnung (EG) Nr. 692/2008 der Kommission vom 18. Juli 2008 zur Durchführung und Änderung der Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates über die Typgenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6) und über den Zugang zu Reparatur- und Wartungsinformationen für Fahrzeuge (ABl. L 199 vom 28.7.2008, S. 1), die zuletzt durch die Verordnung (EU) 2018/1832 der Kommission vom 5. November 2018 zur Änderung der Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates, der Verordnung (EG) Nr. 692/2008 der Kommission und der Verordnung (EU) 2017/1151 der Kommission im Hinblick auf die Verbesserung der emissionsbezogenen Typgenehmigungsprüfungen und -verfahren für leichte Personenkraftwagen und Nutzfahrzeuge, unter anderem in Bezug auf die Übereinstimmung in Betrieb befindlicher Fahrzeuge und auf Emissionen im praktischen Fahrbetrieb und zur Einführung von Einrichtungen zur Überwachung des Kraftstoff- und des Stromverbrauchs (ABl. L 301 vom 27.11.2018, S. 1) geändert worden ist,
@@ -1310,14 +1310,14 @@ Land- oder forstwirtschaftliche Zugmaschinen mit einer durch die Bauart bestimmt
 - 1. :: mit dem EWG-Betriebserlaubniszeichen gemäß Anhang II Nummer 3.1.3 der Richtlinie 78/1015/EWG des Rates vom 23. November 1978 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über den zulässigen Geräuschpegel und die Auspuffanlage von Krafträdern (ABl. L 349 vom 13.12.1978, S. 21), die zuletzt durch die Richtlinie 89/235/EWG (ABl. L 98 vom 11.4.1989, S. 1) geändert worden ist, oder
 - 2. :: mit dem Genehmigungszeichen gemäß Kapitel 9 Anhang VI Nummer 1.3 der Richtlinie 97/24/EG
   oder
-- 3. :: mit dem Markenzeichen �e“ und dem Kennzeichen des Landes, das die Bauartgenehmigung erteilt hat gemäß Kapitel 9 Anhang III Nummer 2.3.2.2 der Richtlinie 97/24/EG
+- 3. :: mit dem Markenzeichen e“ und dem Kennzeichen des Landes, das die Bauartgenehmigung erteilt hat gemäß Kapitel 9 Anhang III Nummer 2.3.2.2 der Richtlinie 97/24/EG
 
 gekennzeichnet sind. Satz 1 gilt nicht für
 
 - 1. :: Auspuffanlagen und Austauschauspuffanlagen, die ausschließlich im Rennsport verwendet werden,
 - 2. :: Auspuffanlagen und Austauschauspuffanlagen für Krafträder mit einer durch die Bauart bestimmten Höchstgeschwindigkeit von nicht mehr als 50 km/h.
 
-(3) Kraftfahrzeuge, die gemä�Geräuscharmes Kraftfahrzeug“ gemäß Anlage XV gekennzeichnet sein. Andere Fahrzeuge dürfen mit diesem Zeichen nicht gekennzeichnet werden. An Fahrzeugen dürfen keine Zeichen angebracht werden, die mit dem Zeichen nach Satz 1 verwechselt werden können.
+(3) Kraftfahrzeuge, die gemäGeräuscharmes Kraftfahrzeug“ gemäß Anlage XV gekennzeichnet sein. Andere Fahrzeuge dürfen mit diesem Zeichen nicht gekennzeichnet werden. An Fahrzeugen dürfen keine Zeichen angebracht werden, die mit dem Zeichen nach Satz 1 verwechselt werden können.
 (4) Besteht Anlass zu der Annahme, dass ein Fahrzeug den Anforderungen der Absätze 1 bis 2 nicht entspricht, so ist der Führer des Fahrzeugs auf Weisung einer zuständigen Person verpflichtet, den Schallpegel im Nahfeld feststellen zu lassen. Liegt die Messstelle nicht in der Fahrtrichtung des Fahrzeugs, so besteht die Verpflichtung nur, wenn der zurückzulegende Umweg nicht mehr als 6 km beträgt. Nach der Messung ist dem Führer eine Bescheinigung über das Ergebnis der Messung zu erteilen. Die Kosten der Messung fallen dem Halter des Fahrzeugs zur Last, wenn eine zu beanstandende Überschreitung des für das Fahrzeug zulässigen Geräuschpegels festgestellt wird.
 (5) Technischer Dienst und Prüfstelle im Sinne der in den Absätzen 2 und 3 genannten Regelwerke ist das Institut für Fahrzeugtechnik beim Technischen Überwachungs-Verein Bayern Sachsen e. V., Westendstr. 199, 80686 München. Es können auch andere Technische Prüfstellen für den Kraftfahrzeugverkehr oder von der obersten Landesbehörde anerkannte Stellen prüfen. Der Technische Dienst ist über alle Prüfungen zu unterrichten. In Zweifelsfällen ist er zu beteiligen; bei allen Fragen der Anwendung ist er federführend.
 
@@ -1360,7 +1360,7 @@ Der Leuchtenträger muss rechtwinklig zur Fahrbahn und zur Längsmittelebene des
 
 (9a) Zusätzliche Rückfahrscheinwerfer (§ 52a Absatz 2), Schlussleuchten (§ 53 Absatz 1), Bremsleuchten (§ 53 Absatz 2), Rückstrahler (§ 53 Absatz 4), Nebelschlussleuchten (§ 53d Absatz 2) und Fahrtrichtungsanzeiger (§ 54 Absatz 1) sind an Fahrzeugen oder Ladungsträgern nach Anzahl und Art wie die entsprechenden vorgeschriebenen lichttechnischen Einrichtungen fest anzubringen, wenn Ladungsträger oder mitgeführte Ladung auch nur teilweise in die in Absatz 1 Satz 4 geforderten Winkel der vorhandenen vorgeschriebenen Leuchten am Kraftfahrzeug oder Anhänger hineinragen. Die elektrische Schaltung der Nebelschlussleuchten ist so auszuführen, dass am Fahrzeug vorhandene Nebelschlussleuchten abgeschaltet werden. Die jeweilige Ab- und Wiedereinschaltung der Nebelschlussleuchten muss selbsttätig durch Aufstecken oder Abziehen des Steckers für die zusätzlichen Nebelschlussleuchten erfolgen.
 (10) Bei den in Absatz 9 Nummer 1 und § 53 Absatz 7 genannten Anhängern sowie den in § 53b Absatz 4 genannten Anbaugeräten darf der Leuchtenträger aus zwei oder -- in den Fällen des § 53 Absatz 5 -- aus drei Einheiten bestehen, wenn diese Einheiten und die Halterungen an den Fahrzeugen so beschaffen sind, dass eine unsachgemäße Anbringung nicht möglich ist. An diesen Einheiten dürfen auch nach vorn wirkende Begrenzungsleuchten angebracht sein.
-(11) Für die Bestimmung der �leuchtenden Fläche“, der �Lichtaustrittsfläche“ und der �Winkel der geometrischen Sichtbarkeit“ gelten die Begriffsbestimmungen in Anhang I der Richtlinie 76/756/EWG.
+(11) Für die Bestimmung der leuchtenden Fläche“, der Lichtaustrittsfläche“ und der Winkel der geometrischen Sichtbarkeit“ gelten die Begriffsbestimmungen in Anhang I der Richtlinie 76/756/EWG.
 
 § 50 - Scheinwerfer für Fern- und Abblendlicht
 
@@ -1474,7 +1474,7 @@ Kraftfahrzeuge des Vollzugsdienstes des Bundesamtes für Güterverkehr dürfen m
 - 4. :: Fahrzeuge, die aufgrund ihrer Ausrüstung als Schwer- oder Großraumtransport-Begleitfahrzeuge ausgerüstet und nach dem Fahrzeugschein anerkannt sind. Andere Begleitfahrzeuge dürfen mit abnehmbaren Kennleuchten ausgerüstet sein, sofern die genehmigende Behörde die Führung der Kennleuchten vorgeschrieben hat.
 
 (5) Krankenkraftwagen (Absatz 3 Nummer 4) dürfen mit einer nur nach vorn wirkenden besonderen Beleuchtungseinrichtung (zum Beispiel Rot-Kreuz-Leuchte) ausgerüstet sein, um den Verwendungszweck des Fahrzeugs kenntlich zu machen. Die Beleuchtungseinrichtung darf keine Scheinwerferwirkung haben.
-(6) An Kraftfahrzeugen, in denen ein Arzt zur Hilfeleistung in Notfällen unterwegs ist, darf während des Einsatzes ein nach vorn und nach hinten wirkendes Schild mit der in schwarzer Farbe auf gelbem Grund versehenen Aufschrift �Arzt Notfalleinsatz“ auf dem Dach angebracht sein, das gelbes Blinklicht ausstrahlt; dies gilt nur, wenn der Arzt zum Führen des Schildes berechtigt ist. Die Berechtigung zum Führen des Schildes erteilt auf Antrag die Zulassungsbehörde; sie entscheidet nach Anhörung der zuständigen Ärztekammer. Der Berechtigte erhält hierüber eine Bescheinigung, die während der Einsatzfahrt mitzuführen und zuständigen Personen auf Verlangen zur Prüfung auszuhändigen ist.
+(6) An Kraftfahrzeugen, in denen ein Arzt zur Hilfeleistung in Notfällen unterwegs ist, darf während des Einsatzes ein nach vorn und nach hinten wirkendes Schild mit der in schwarzer Farbe auf gelbem Grund versehenen Aufschrift Arzt Notfalleinsatz“ auf dem Dach angebracht sein, das gelbes Blinklicht ausstrahlt; dies gilt nur, wenn der Arzt zum Führen des Schildes berechtigt ist. Die Berechtigung zum Führen des Schildes erteilt auf Antrag die Zulassungsbehörde; sie entscheidet nach Anhörung der zuständigen Ärztekammer. Der Berechtigte erhält hierüber eine Bescheinigung, die während der Einsatzfahrt mitzuführen und zuständigen Personen auf Verlangen zur Prüfung auszuhändigen ist.
 (7) Mehrspurige Fahrzeuge dürfen mit einer oder mehreren Leuchten zur Beleuchtung von Arbeitsgeräten und Arbeitsstellen (Arbeitsscheinwerfer) ausgerüstet sein. Arbeitsscheinwerfer dürfen nicht während der Fahrt benutzt werden. An Fahrzeugen, die dem Bau, der Unterhaltung oder der Reinigung von Straßen oder Anlagen im Straßenraum oder der Müllabfuhr dienen, dürfen Arbeitsscheinwerfer abweichend von Satz 2 auch während der Fahrt eingeschaltet sein, wenn die Fahrt zum Arbeitsvorgang gehört. Arbeitsscheinwerfer dürfen nur dann eingeschaltet werden, wenn sie andere Verkehrsteilnehmer nicht blenden.
 (8) Türsicherungsleuchten für rotes Licht, die beim Öffnen der Fahrzeugtüren nach rückwärts leuchten, sind zulässig; für den gleichen Zweck dürfen auch rote rückstrahlende Mittel verwendet werden.
 (9) Vorzeltleuchten an Wohnwagen und Wohnmobilen sind zulässig. Sie dürfen nicht während der Fahrt benutzt und nur dann eingeschaltet werden, wenn nicht zu erwarten ist, dass sie Verkehrsteilnehmer auf öffentlichen Straßen blenden.
@@ -1886,7 +1886,7 @@ führen; an Krankenfahrstühlen müssen diese Leuchten zu jeder Zeit fest angebr
 (4) Fahrräder müssen an der Rückseite mit mindestens
 
 - 1. :: einer Schlussleuchte für rotes Licht,
-- 2. :: einem roten nicht dreieckigen Rückstrahler der Kategorie �Z“ ausgerüstet sein.
+- 2. :: einem roten nicht dreieckigen Rückstrahler der Kategorie Z“ ausgerüstet sein.
 
 Schlussleuchte und Rückstrahler dürfen in einem Gerät verbaut sein. Schlussleuchten dürfen zusätzlich mit einer Bremslichtfunktion für rotes Licht mit einer Lichtstärke und Lichtverteilung der Bremslichtfunktion entsprechend der Regelung Nr. 50 der Wirtschaftskommission der Vereinten Nationen für Europa (UNECE) -- Einheitliche Bedingungen für die Genehmigung von Begrenzungsleuchten, Schlussleuchten, Bremsleuchten, Fahrtrichtungsanzeigern und Beleuchtungseinrichtungen für das hintere Kennzeichenschild für Fahrzeuge der Klasse L (ABl. L 97 vom 29.3.2014, S. 1) ausgerüstet sein. Blinkende Schlussleuchten sind unzulässig.
 
@@ -1926,7 +1926,7 @@ Satz 1 gilt nicht für Fahrräder mit elektrischer Tretunterstützung, die vor d
   - b) :: bei einer Breite des Anhängers von mehr als 1 000 mm zusätzlich mit einer Leuchte für weißes Licht auf der linken Seite,
 - 2. :: nach hinten wirkend:
   - a) :: mit einer Schlussleuchte für rotes Licht auf der linken Seite, falls mehr als 50 Prozent der sichtbaren leuchtenden Fläche der Schlussleuchte des Fahrrads durch den Anhänger verdeckt wird oder falls der Anhänger mehr als 600 mm breit ist und
-  - b) :: mit zwei roten Rückstrahlern der Kategorie �Z“ mit einem maximalen Abstand von 200 mm zur Außenkante,
+  - b) :: mit zwei roten Rückstrahlern der Kategorie Z“ mit einem maximalen Abstand von 200 mm zur Außenkante,
 - 3. :: nach beiden Seiten wirkend:
   - a) :: mit ringförmig zusammenhängenden retroreflektierenden weißen Streifen an Reifen oder Felgen oder Rädern oder
   - b) :: mit weiß retroreflektierenden Speichen (jede Speiche) oder Speichenhülsen (an jeder Speiche) an jedem Rad oder
@@ -2125,12 +2125,12 @@ Die Genehmigung von Ausnahmen von den Vorschriften dieser Verordnung kann mit Au
 - 1e. :: § 45 Absatz 1a (Einbau des Kraftstoffbehälters)
   gilt nicht für den serienmäßigen Einbau in reihenweise gefertigte Fahrzeuge, für die eine Allgemeine Betriebserlaubnis erteilt worden ist und die vor dem 1. Januar 1990 erstmals in den Verkehr gekommen sind.
 - 2. :: § 47 Absatz 1a (Abgasemissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6))
-  ist hinsichtlich der Vorschriften der Verordnungen (EG) Nr. 715/2007 und der Verordnung (EG) Nr. 692/2008 für erstmals in den Verkehr kommende Fahrzeuge mit einer Einzelgenehmigung ab dem 1. Juni 2012 entsprechend der in der Verordnung (EG) Nr. 692/2008 in Anhang I, Anlage 6, Tabelle 1, Spalte 7 (�Einführungszeitpunkt Neufahrzeuge“) genannten Termine anzuwenden.
+  ist hinsichtlich der Vorschriften der Verordnungen (EG) Nr. 715/2007 und der Verordnung (EG) Nr. 692/2008 für erstmals in den Verkehr kommende Fahrzeuge mit einer Einzelgenehmigung ab dem 1. Juni 2012 entsprechend der in der Verordnung (EG) Nr. 692/2008 in Anhang I, Anlage 6, Tabelle 1, Spalte 7 (Einführungszeitpunkt Neufahrzeuge“) genannten Termine anzuwenden.
 - 3. :: § 47 Absatz 6a (Abgasemissionen schwerer Nutzfahrzeuge nach Richtlinie 2005/55/EG)
   ist hinsichtlich der Vorschriften der Richtlinien 2005/55/EG und 2005/78/EG für erstmals in den Verkehr kommende Fahrzeuge mit einer Einzelgenehmigung ab dem 1. Juni 2012 entsprechend den in Artikel 2 Absatz 6 und 8 genannten Terminen anzuwenden. Des Weiteren gelten für diese Fahrzeuge:
   - a) :: Die Anforderungen zur Gewährleistung der vollen Wirkung der Vorkehrungen für die Minderung der NO_{x}-Emissionen, gemäß der Nummern 6.5.3, 6.5.4 und 6.5.5 der Richtlinie 2006/51/EG, sind ab dem 1. Juni 2012 für von diesem Tage an erstmals in den Verkehr kommende Fahrzeuge anzuwenden.
   - b) :: Die Änderungen der Richtlinie 2008/74/EG sind ab dem 1. Juni 2012 für von diesem Tage an erstmals in den Verkehr kommende Fahrzeuge anzuwenden.
-- 3a. :: § 47 Absatz 6b (Abgasemissionen schwerer Nutzfahrzeuge, Euro VI) ist hinsichtlich der Vorschriften der Verordnung (EG) Nr. 595/2009 und der Verordnung (EU) Nr. 582/2011 für erstmals in den Verkehr kommende Fahrzeuge mit einer Einzelgenehmigung ab dem 1. Dezember 2017 anzuwenden. Des Weiteren gelten für diese Fahrzeuge hinsichtlich der Überwachungsanforderungen für Reagensqualität und -verbrauch sowie der OBD-Schwellenwerte für NO_{x} und Partikel die in der Verordnung (EU) Nr. 582/2011, Anhang I, Anlage 9, Tabelle 1, unter �Letztes Zulassungsdatum“ genannten Termine.
+- 3a. :: § 47 Absatz 6b (Abgasemissionen schwerer Nutzfahrzeuge, Euro VI) ist hinsichtlich der Vorschriften der Verordnung (EG) Nr. 595/2009 und der Verordnung (EU) Nr. 582/2011 für erstmals in den Verkehr kommende Fahrzeuge mit einer Einzelgenehmigung ab dem 1. Dezember 2017 anzuwenden. Des Weiteren gelten für diese Fahrzeuge hinsichtlich der Überwachungsanforderungen für Reagensqualität und -verbrauch sowie der OBD-Schwellenwerte für NO_{x} und Partikel die in der Verordnung (EU) Nr. 582/2011, Anhang I, Anlage 9, Tabelle 1, unter Letztes Zulassungsdatum“ genannten Termine.
 - 4. :: § 47 Absatz 8c (Abgasemissionen von land- oder forstwirtschaftlichen Zugmaschinen)
   ist für Fahrzeuge, die mit einer Einzelgenehmigung erstmals in den Verkehr kommen, wie folgt anzuwenden:
   - a) :: Spätestens ab den in Artikel 4 Absatz 3 der Richtlinie 2000/25/EG genannten Terminen. Bei Fahrzeugen, die mit Motoren ausgerüstet sind, deren Herstellungsdatum vor den in Artikel 4 Absatz 3 der Richtlinie 2000/25/EG genannten Terminen liegt, wird für jede Kategorie der Zeitpunkt für erstmals in den Verkehr kommende Fahrzeuge um zwei Jahre verlängert. Diese Verlängerung der Termine gilt für Fahrzeuge mit einer Einzelgenehmigung, Allgemeinen Betriebserlaubnis oder EG-Typgenehmigung.
@@ -2218,7 +2218,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 \\
 \\
 
-�
+
 
 Art des Fahrzeugs
 
@@ -2243,17 +2243,17 @@ Krafträder
 
 Personenkraftwagen sowie Krankenkraftwagen und Behinderten-Transportfahrzeuge mit nicht mehr als acht Fahrgastplätzen
 
-�
 
-�
+
+
 
 2.1.2.1
 
 Personenkraftwagen allgemein
 
-�
 
-�
+
+
 
 2.1.2.1.1
 
@@ -2299,9 +2299,9 @@ Krankenkraftwagen und Behinderten-Transportfahrzeuge mit nicht mehr als acht Fah
 
 Kraftomnibusse und andere Kraftfahrzeuge mit mehr als acht Fahrgastplätzen
 
-�
 
-�
+
+
 
 2.1.3.1
 
@@ -2335,9 +2335,9 @@ für die weiteren Untersuchungen
 
 Kraftfahrzeuge, die zur Güterbeförderung bestimmt sind, selbstfahrende Arbeitsmaschinen, Zugmaschinen sowie Kraftfahrzeuge, die nicht unter 2.1.1 bis 2.1.3 oder 2.1.6 fallen
 
-�
 
-�
+
+
 
 2.1.4.1
 
@@ -2361,9 +2361,9 @@ mit einer zulässigen Gesamtmasse > 3,5 t ≤ 7,5 t
 
 mit einer zulässigen Gesamtmasse > 7,5 t ≤ 12 t
 
-�
 
-�
+
+
 
 2.1.4.3.1
 
@@ -2385,9 +2385,9 @@ für die weiteren Untersuchungen
 
 mit einer zulässigen Gesamtmasse > 12 t
 
-�
 
-�
+
+
 
 2.1.4.4.1
 
@@ -2409,17 +2409,17 @@ für die weiteren Untersuchungen
 
 Anhänger, einschließlich angehängte Arbeitsmaschinen und Wohnanhänger
 
-�
 
-�
+
+
 
 2.1.5.1
 
 mit einer zulässigen Gesamtmasse ≤ 0,75 t oder ohne eigene Bremsanlage
 
-�
 
-�
+
+
 
 2.1.5.1.1
 
@@ -2463,9 +2463,9 @@ mit einer zulässigen Gesamtmasse > 3,5 t ≤ 10 t
 
 mit einer zulässigen Gesamtmasse > 10 t
 
-�
 
-�
+
+
 
 2.1.5.4.1
 
@@ -2487,17 +2487,17 @@ für die weiteren Untersuchungen
 
 Wohnmobile
 
-�
 
-�
+
+
 
 2.1.6.1
 
 mit einer zulässigen Gesamtmasse ≤ 3,5 t
 
-�
 
-�
+
+
 
 2.1.6.1.1
 
@@ -2521,9 +2521,9 @@ für die weiteren Hauptuntersuchungen
 
 mit einer zulässigen Gesamtmasse > 3,5 t ≤ 7,5 t
 
-�
 
-�
+
+
 
 2.1.6.2.1
 
@@ -2572,7 +2572,7 @@ mit einer zulässigen Gesamtmasse > 7,5 t
 - 3.1.5 :: Untersuchungsberichte über Hauptuntersuchungen sind fälschungserschwerend auszuführen oder müssen einen HU-Code aufweisen.
 - 3.1.5.1 :: Die Untersuchungsberichte müssen mindestens folgende Angaben enthalten:
 - 3.1.5.1.1 :: die Untersuchungsart,
-- 3.1.5.1.2 :: das Kennzeichen des untersuchten Fahrzeugs und das Länderkennzeichen �D“,
+- 3.1.5.1.2 :: das Kennzeichen des untersuchten Fahrzeugs und das Länderkennzeichen D“,
 - 3.1.5.1.3 :: den Monat und das Jahr, in dem das Fahrzeug erstmalig in den Verkehr gekommen ist,
 - 3.1.5.1.4 :: den Hersteller des Fahrzeugs einschließlich seines Codes oder seiner Schlüsselnummer,
 - 3.1.5.1.5 :: die Fahrzeugklasse oder die Fahrzeugart sowie den Fahrzeugtyp, die zulässige Gesamtmasse und die Variante und Version oder die Ausführung einschließlich ihrer Codes oder Schlüsselnummern,
@@ -2651,7 +2651,7 @@ Anlage VIIIa - (§ 29 Absatz 1 und 3, Anlage VIII Nummer 1.2)Durchführung der H
   - 3. :: diesbezüglicher Vorgaben nach Nummer 2 der Anlage VIIIe für die Pflicht- und Ergänzungsuntersuchungen
 
   zu überprüfen.
-  Zusätzlich müssen bei der Durchführung der HU Prüfhinweise befolgt werden, die vom �Arbeitskreis Erfahrungsaustausch in der technischen Fahrzeugüberwachung nach § 19 Absatz 3 und § 29 StVZO“ (AKE) erarbeitet, bereitgestellt und den betroffenen Fahrzeugherstellern oder -importeuren mitgeteilt wurden.
+  Zusätzlich müssen bei der Durchführung der HU Prüfhinweise befolgt werden, die vom Arbeitskreis Erfahrungsaustausch in der technischen Fahrzeugüberwachung nach § 19 Absatz 3 und § 29 StVZO“ (AKE) erarbeitet, bereitgestellt und den betroffenen Fahrzeugherstellern oder -importeuren mitgeteilt wurden.
   Die Durchführung der HU erstreckt sich auf das Fahrzeug mit den unter den Nummern 6.1 bis 6.10 aufgeführten Bauteilen und Systemen. Bei Fahrzeugen mit eigener Bremsanlage hat die HU zum Beginn zur Konditionierung und Prüfung der Fahrzeuge eine kurze Fahrt mit einer Geschwindigkeit von mindestens 8 km/h zu beinhalten.
 - 2 :: Umfang der Hauptuntersuchung
   Die Entscheidung, ob zusätzlich zur Pflichtuntersuchung auch eine Ergänzungsuntersuchung durchzuführen ist, liegt im pflichtgemäßen Ermessen des aaSoP oder PI; jedoch muss unter Beachtung von Nummer 1
@@ -2972,7 +2972,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 - 2.1a :: die Prüfingenieure, die in der Überwachungsorganisation tätig werden sollen, von keiner anderen Überwachungsorganisation betraut sind,
 - 2.1b :: sie für die gesamte Überwachungsorganisation ein Qualitätsmanagementsystem unterhält, das mindestens den Anforderungen der DIN EN ISO/IEC 17020:2012 entspricht, deren Erfüllung gegenüber der Deutschen Akkreditierungsstelle nachzuweisen ist; die Anerkennungsbehörde kann bis zum 31. Dezember 2020 von den Nummern 6.2.6 und 6.2.7 DIN EN ISO/IEC 17020:2012 abweichende Anforderungen zulassen, die durch das Bundesministerium für Verkehr und digitale Infrastruktur im Benehmen mit den zuständigen obersten Landesbehörden bestimmt und im Verkehrsblatt öffentlich bekannt gemacht werden; soweit eine Überwachungsorganisation von diesen abweichenden Anforderungen Gebrauch macht, weist sie die Einhaltung dieser abweichenden sowie der sonstigen sich aus DIN EN ISO/IEC 17020:2012 ergebenden Anforderungen gegenüber der Deutschen Akkreditierungsstelle nach; die Deutsche Akkreditierungsstelle bestätigt der Überwachungsorganisation die Erfüllung der Anforderungen durch eine Bescheinigung,
 - 2.2 :: die nach Gesetz, Vertrag oder Satzung zur Vertretung der Überwachungsorganisation berufenen Personen persönlich zuverlässig sind,
-- 2.3 :: auf Grund der personellen und sachlichen Ausstattung zu erwarten ist, dass die Überwachungsorganisation die HU und SP sowie die Abnahmen ordnungsgemä�Arbeitskreis Erfahrungsaustausch in der technischen Fahrzeugüberwachung nach § 19 Absatz 3 und § 29 StVZO (AKE)“ nach der vom Bundesministerium für Verkehr und digitale Infrastruktur im Benehmen mit den zuständigen obersten Landesbehörden bekannt gemachten Richtlinien auszutauschen,
+- 2.3 :: auf Grund der personellen und sachlichen Ausstattung zu erwarten ist, dass die Überwachungsorganisation die HU und SP sowie die Abnahmen ordnungsgemäArbeitskreis Erfahrungsaustausch in der technischen Fahrzeugüberwachung nach § 19 Absatz 3 und § 29 StVZO (AKE)“ nach der vom Bundesministerium für Verkehr und digitale Infrastruktur im Benehmen mit den zuständigen obersten Landesbehörden bekannt gemachten Richtlinien auszutauschen,
 - 2.4 :: die Überwachungsorganisation durch Einrichtung eines innerbetrieblichen Revisionsdienstes sicherstellt, dass die Ergebnisse für die Innenrevision und die Aufsichtsbehörde so gesammelt und ausgewertet werden, dass jederzeit die Untersuchungs- und Prüfqualität für einen beliebigen Zeitraum innerhalb der letzten drei Jahre nachvollzogen werden kann, und dass die Ergebnisse mit denjenigen anderer Überwachungsorganisationen und denen der Technischen Prüfstellen einwandfrei vergleichbar sind,
 - 2.5 :: die Überwachungsorganisation sicherstellt, dass die mit der Durchführung der HU und SP sowie der Abnahmen betrauten Personen an mindestens fünf Tagen pro Jahr an regelmäßigen Fortbildungen teilnehmen, die den Anforderungen des vom Bundesministerium für Verkehr und digitale Infrastruktur mit Zustimmung der obersten Landesbehörden im Verkehrsblatt bekannt gegebenen Aus- und Fortbildungsplans entsprechen,
 - 2.6 :: für die mit der Durchführung der HU und SP sowie der Abnahmen betrauten Personen eine ausreichende Haftpflichtversicherung zur Deckung aller im Zusammenhang mit den HU und SP sowie der Abnahmen entstehenden Ansprüchen besteht und aufrechterhalten wird und die Überwachungsorganisation das Land, in dem sie tätig wird, von allen Ansprüchen Dritter wegen Schäden freistellt, die durch die zur Vertretung der Überwachungsorganisation berufenen Personen, den technischen Leiter, dessen Vertreter oder die mit der Durchführung der HU und SP sowie der Abnahmen betrauten Personen in Ausübung der ihnen übertragenen Aufgaben verursacht werden, und dafür den Abschluss einer entsprechenden Versicherung nachweist und aufrechterhält,
@@ -3196,7 +3196,7 @@ Anlage VIIIe - (zu Anlage VIIIa Nummer 1 und 3 sowie Anlage VIIIb Nummer 2.3) Be
 - 2.1 :: Vorgaben werden von den Herstellern und Importeuren von Fahrzeugen, Fahrzeugsystemen oder -bauteilen speziell für die wiederkehrende Fahrzeugüberwachung angegeben und von der Zentralen Stelle nach Nummer 4 auf der Grundlage der bei der Homologation oder der Vorlage der Genehmigungsunterlagen oder nach deren Genehmigung entsprechend den Vorschriften der Verordnungen (EG) Nr. 715/2007 und (EG) Nr. 692/2008, jeweils geändert durch die Verordnung (EG) Nr. 566/2011 sowie der Verordnung (EG) Nr. 595/2009 mitzuteilenden technischen Informationen erarbeitet.
   Die von den Herstellern und Importeuren angegebenen Vorgaben werden an die Zentrale Stelle übermittelt und von dieser für die Durchführung von HU und SP aufbereitet. Die Angabe der Systeme und die Art der Weitergabe der Vorgaben müssen der dazu im Verkehrsblatt vom Bundesministerium für Verkehr und digitale Infrastruktur im Benehmen mit den zuständigen obersten Landesbehörden bekannt gemachten Richtlinie entsprechen.
 - 2.2 :: Liegen keine oder unzureichende Vorgaben vor, werden diese im Benehmen mit den Herstellern oder Importeuren von der Zentralen Stelle erarbeitet und aufbereitet. Keine ausreichenden Vorgaben liegen immer dann vor, wenn damit auf Grund vorliegender Erkenntnisse oder Prüferfahrungen eine Aussage nach den Nummern 1.2.1 und 1.3.1 der Anlage VIII über die Verkehrssicherheit, Umweltverträglichkeit oder Vorschriftsmäßigkeit des Fahrzeugs nicht möglich ist.
-- 2.3 :: Wird bei der Durchführung der HU oder SP an einem Fahrzeug festgestellt, dass eine Untersuchung nach den Vorgaben (Nummer 2.1 oder 2.2) nicht praktikabel ist, sind diese vom �Arbeitskreis Erfahrungsaustausch in der technischen Fahrzeugüberwachung nach § 19 Absatz 3 und § 29 StVZO“ (AKE) zu prüfen, zu ändern und den Herstellern oder Importeuren im Rahmen des Benehmensprozesses über die Zentrale Stelle mitzuteilen.
+- 2.3 :: Wird bei der Durchführung der HU oder SP an einem Fahrzeug festgestellt, dass eine Untersuchung nach den Vorgaben (Nummer 2.1 oder 2.2) nicht praktikabel ist, sind diese vom Arbeitskreis Erfahrungsaustausch in der technischen Fahrzeugüberwachung nach § 19 Absatz 3 und § 29 StVZO“ (AKE) zu prüfen, zu ändern und den Herstellern oder Importeuren im Rahmen des Benehmensprozesses über die Zentrale Stelle mitzuteilen.
 - 3 :: Weitergabe von Vorgaben
 - 3.1 :: Die von der Zentralen Stelle vorgehaltenen Vorgaben nach Nummer 2 werden auf Anfrage den Technischen Prüfstellen und amtlich anerkannten Überwachungsorganisationen gegen eine in der Gebührenordnung für Maßnahmen im Straßenverkehr geregelte Gebühr oder Entgelt in gleicher Höhe zur Verfügung gestellt.
 - 3.2 :: Die Zentrale Stelle leitet dem Bundesinnungsverband des Kraftfahrzeughandwerks die für die Durchführung von SP notwendigen Vorgaben zu, die dieser den nach Anlage VIIIc zur Durchführung von SP anerkannten Kraftfahrzeugwerkstätten zur Verfügung stellt. Die Weitergabe der Vorgaben an die nach Anlage VIIIc anerkannten Kraftfahrzeugwerkstätten muss entsprechend den Bestimmungen der in Nummer 2.1 genannten Richtlinien erfolgen.
@@ -3255,7 +3255,7 @@ Anlage VIIIe - (zu Anlage VIIIa Nummer 1 und 3 sowie Anlage VIIIb Nummer 2.3) Be
   Das Kraftfahrt-Bundesamt erstellt aus den vorstehenden Angaben eine Statistik mit der Zuordnung zu den in den Nummern 2.1.1 bis 2.1.6 der Anlage VIII genannten Fahrzeugarten und veröffentlicht diese in nicht personenbezogener Form jährlich.
 - 8.4.3 :: Übermittlung an andere Stellen
   Das Kraftfahrt-Bundesamt übermittelt die nach Nummer 8.4.2 zu erstellende Statistik in nicht personenbezogener Form
-  - 8.4.3.1 :: halbjährlich dem �Arbeitskreis Erfahrungsaustausch in der technischen Fahrzeugüberwachung nach § 19 Absatz 3 und § 29 StVZO“ (AKE), der diese auswertet und erforderlichenfalls Vorschläge zur Änderung der maßgeblichen Vorschriften erarbeitet,
+  - 8.4.3.1 :: halbjährlich dem Arbeitskreis Erfahrungsaustausch in der technischen Fahrzeugüberwachung nach § 19 Absatz 3 und § 29 StVZO“ (AKE), der diese auswertet und erforderlichenfalls Vorschläge zur Änderung der maßgeblichen Vorschriften erarbeitet,
   - 8.4.3.2 :: auf Anfrage dem Bundesministerium für Verkehr und digitale Infrastruktur zur Fortschreibung der maßgeblichen Vorschriften und halbjährlich den zuständigen obersten Landesbehörden zur Wahrnehmung ihrer Aufsichtspflichten über Technische Prüfstellen und amtlich anerkannte Überwachungsorganisationen.
 - 8.5 :: Übermittlung von Angaben zur Entwicklung von Fahrzeugen
   Die bei der regelmäßigen technischen Überwachung festgestellten Mängel sowie Hoch- und Rückrüstungen an den Fahrzeugen sind für die Neuentwicklung und für Verbesserungen im Verkehr befindlicher Fahrzeuge zu nutzen. Dazu übermittelt die Zentrale Stelle den Herstellern und Importeuren von Fahrzeugen, Fahrzeugsystemen oder -bauteilen diese Erkenntnisse jeweils für ihre Produkte auf Anfrage. Sofern diese Angaben mit dem Bezug auf die Fahrzeug-Identifizierungsnummer übermittelt werden, muss die Zentrale Stelle durch geeignete Maßnahmen sicherstellen, dass die Fahrzeug-Identifizierungsnummer um mindestens 3 Ziffern am Ende gekürzt ist.
@@ -3317,7 +3317,7 @@ Anlage IXb - (§ 29 Absatz 2 bis 8)Prüfmarke und SP-Schild für die Durchführu
   Es sind unsichtbare Schriftmerkmale und zusätzlich eine Herstellerkennzeichnung, die ohne Hilfsmittel nicht erkennbar sind, einzuarbeiten. Die Erkennbarkeit muss durch die Verwendung von mit Black-light-Röhren (300 -- 400 nm) ausgerüsteten Prüflampen gegeben sein. Die verwendeten Schriften der Kennzeichnung müssen in nicht fälschbarer Microschrift ausgeführt sein. In die Kennzeichnung sind der Hersteller und das Produktjahr in Form einer Zahlenkombination einzubringen. Die Zeichen haben eine maximale Höhe von 2 mm und eine maximale Strichstärke von 0,75 mm. Es sind Flächensymbole einzuarbeiten.
 - 2.1.2 :: Prüfmarken in Festkörperausführung\\
   \\
-  Die Umrandung des Pfeiles, der Text �SP“ und die Jahreszahl müssen mindestens 0,3 mm positiv erhaben sein. Auf der Rückseite der Prüfmarke muss eine zusätzliche Kennzeichnung aufgebracht werden. In die Kennzeichnung sind der Hersteller und das Produktjahr in Form einer Zahlenkombination einzubringen.\\
+  Die Umrandung des Pfeiles, der Text SP“ und die Jahreszahl müssen mindestens 0,3 mm positiv erhaben sein. Auf der Rückseite der Prüfmarke muss eine zusätzliche Kennzeichnung aufgebracht werden. In die Kennzeichnung sind der Hersteller und das Produktjahr in Form einer Zahlenkombination einzubringen.\\
   \\
   Dies gilt nicht, wenn die Prüfmarken die Anforderungen nach Nummer 2.1.1 erfüllen.
 - 2.2 :: Übertragungssicherheit
@@ -3336,7 +3336,7 @@ Anlage IXb - (§ 29 Absatz 2 bis 8)Prüfmarke und SP-Schild für die Durchführu
   Die Prüfmarken sind in übersichtlich zählbaren Behältnissen verpackt.
 - 2.4 :: Anbringung der Prüfmarken und SP-Schilder\\
   \\
-  Die individuelle Beschriftung des SP-Schildes mit der Fahrzeug-Identifizierungsnummer erfolgt mit einem dokumentenechten Permanentschreiber. Diese Beschriftung ist durch eine Schutzfolie zu sichern. Beim Ablösen der Schutzfolie muss sich das Feld �Fzg.-Ident.-Nummer“ so zerstören, dass eine Wiederverwendung auch unter Korrekturen nicht möglich ist. Bei Ausführung des SP-Schildes als Festkörper aus Kunststoff oder Metall können die Zeichen auch positiv oder negativ erhaben aufgebracht werden; eine zusätzliche Schutzfolie ist dann entbehrlich.\\
+  Die individuelle Beschriftung des SP-Schildes mit der Fahrzeug-Identifizierungsnummer erfolgt mit einem dokumentenechten Permanentschreiber. Diese Beschriftung ist durch eine Schutzfolie zu sichern. Beim Ablösen der Schutzfolie muss sich das Feld Fzg.-Ident.-Nummer“ so zerstören, dass eine Wiederverwendung auch unter Korrekturen nicht möglich ist. Bei Ausführung des SP-Schildes als Festkörper aus Kunststoff oder Metall können die Zeichen auch positiv oder negativ erhaben aufgebracht werden; eine zusätzliche Schutzfolie ist dann entbehrlich.\\
   \\
   Das SP-Schild ist gut sichtbar am Fahrzeugheck in Fahrtrichtung hinten links anzubringen. Die Anbringungshöhe ist so zu wählen, dass sich die Oberkante des SP-Schildes mindestens 300 mm und maximal 1 800 mm über der Fahrbahn befindet. Die rechte Kante des SP-Schildes darf nicht mehr als 800 mm vom äußersten Punkt des hinteren Fahrzeugumrisses entfernt sein. Davon kann nur abgewichen werden, wenn die Bauart des Fahrzeugs diese Anbringung nicht zulässt.\\
   \\
@@ -3591,7 +3591,7 @@ Mindestanzahl der Notausstiege
 
 In Kraftomnibussen müssen Notausstiege vorhanden sein, deren Mindestanzahl nachstehender Tabelle zu entnehmen ist:
 
-�
+
 
 Notfenster oder Nottür je Fahrzeuglängsseite
 
@@ -3676,7 +3676,7 @@ Mindestabmessungen der Notausstiege
 
 Die verschiedenen Arten der Notausstiege müssen folgende Mindestabmessungen haben:
 
-�
+
 
 Höhe
 
@@ -3692,7 +3692,7 @@ Notfenster
 
 --
 
-0,4 m�
+0,4 m
 
 In die Öffnungen muss ein\\
 Rechteck von 0,5 m Höhe und\\
@@ -3704,7 +3704,7 @@ Notluke
 
 --
 
-0,4 m�
+0,4 m
 
 Nottür
 
@@ -4027,11 +4027,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Anlage XIV Nr. 1 Satz 2 (bezeichnet als Nr. 1): IdF d. Art. 1 Nr. 15 Buchst. a V v. 10.5.2012 I 1086 mWv 1.6.2012; bzgl. Kursivdruck - Änderungsanweisung enthielt in der einzufügenden Angabe "im Sinne der ... Anlage XXIX," ein überflüssiges Kommazeichen
 
-Anlage XV - (zu § 49 Absatz 3)Zeichen �Geräuscharmes Kraftfahrzeug“
+Anlage XV - (zu § 49 Absatz 3)Zeichen Geräuscharmes Kraftfahrzeug“
 
 (Fundstelle: BGBl. I 2012, 787)
 [[../normengrafiken/bgbl1_2012/j0679-1_0140.jpg]]
-Buchstabe �G“ hinsichtlich Schriftart und -größe gemäß DIN 1451, Teil 2, Ausgabe Februar 1986 (Bezugsquelle siehe § 73). Schriftgröße h = 125 mm. Die Farbtöne sind dem Farbtonregister RAL 840 HR des RAL Deutsches Institut für Gütersicherung und Kennzeichnung e. V., Siegburger Straße 39, 53757 St. Augustin, zu entnehmen, und zwar ist als Farbton zu wählen für weiß: RAL 9001 und für grün: RAL 6001. Die Farben dürfen nicht retroreflektierend sein.
+Buchstabe G“ hinsichtlich Schriftart und -größe gemäß DIN 1451, Teil 2, Ausgabe Februar 1986 (Bezugsquelle siehe § 73). Schriftgröße h = 125 mm. Die Farbtöne sind dem Farbtonregister RAL 840 HR des RAL Deutsches Institut für Gütersicherung und Kennzeichnung e. V., Siegburger Straße 39, 53757 St. Augustin, zu entnehmen, und zwar ist als Farbton zu wählen für weiß: RAL 9001 und für grün: RAL 6001. Die Farben dürfen nicht retroreflektierend sein.
 Ergänzungsbestimmung:
 Das Zeichen ist an der Fahrzeugvorderseite sichtbar und fest anzubringen; es darf zusätzlich auch an der Fahrzeugrückseite angebracht sein.
 
@@ -4048,10 +4048,10 @@ Anlage XVI - (zu § 47 Absatz 2 Satz 2)Maßnahmen gegen die Emission verunreinig
 - 1 :: (weggefallen)
 - 2 :: Begriffsbestimmungen
 - 2.1 :: (weggefallen)
-- 2.2 :: �Zugmaschinentyp hinsichtlich der Begrenzung der Emission verunreinigender Stoffe aus dem Motor“ bezeichnet Zugmaschinen, die untereinander keine wesentlichen Unterschiede aufweisen; solche Unterschiede können insbesondere die Merkmale der Zugmaschine und des Motors nach Anhang II sein.
-- 2.3 :: �Dieselmotor“ bezeichnet einen Motor, der nach dem Prinzip der Kompressionszündung arbeitet.
-- 2.4 :: �Kaltstarteinrichtung“ bezeichnet eine Einrichtung, die nach ihrer Einschaltung die dem Motor zugeführte Kraftstoffmenge vorübergehend vergrößert und die dazu dient, das Anlassen des Motors zu erleichtern.
-- 2.5 :: �Trübungsmessgerät“ bezeichnet ein Gerät, das dazu dient, die Absorptionskoeffizienten der von den Zugmaschinen emittierten Auspuffgase stetig zu messen.
+- 2.2 :: Zugmaschinentyp hinsichtlich der Begrenzung der Emission verunreinigender Stoffe aus dem Motor“ bezeichnet Zugmaschinen, die untereinander keine wesentlichen Unterschiede aufweisen; solche Unterschiede können insbesondere die Merkmale der Zugmaschine und des Motors nach Anhang II sein.
+- 2.3 :: Dieselmotor“ bezeichnet einen Motor, der nach dem Prinzip der Kompressionszündung arbeitet.
+- 2.4 :: Kaltstarteinrichtung“ bezeichnet eine Einrichtung, die nach ihrer Einschaltung die dem Motor zugeführte Kraftstoffmenge vorübergehend vergrößert und die dazu dient, das Anlassen des Motors zu erleichtern.
+- 2.5 :: Trübungsmessgerät“ bezeichnet ein Gerät, das dazu dient, die Absorptionskoeffizienten der von den Zugmaschinen emittierten Auspuffgase stetig zu messen.
 - 3 :: Antrag auf Erteilung der EWG-Betriebserlaubnis
 - 3.1 :: Der Antrag auf Erteilung einer Betriebserlaubnis ist vom Zugmaschinenhersteller oder seinem Beauftragten einzureichen.
 - 3.2 :: Dem Antrag sind folgende Unterlagen in dreifacher Ausfertigung beizufügen.
@@ -4158,7 +4158,7 @@ Anmerkung: Die vorstehenden Werte sind auf 0,01 oder 0,005 gerundet; dies bedeut
 - 2 :: Grundsätzliche Vorschriften für die Trübungsmessgeräte
 - 2.1 :: Das zu messende Gas muss sich in einer Kammer befinden, deren Innenflächen nicht reflektierend sind.
 - 2.2 :: Die effektive Länge der Lichtabsorptionsstrecke ist unter Berücksichtigung des möglichen Einflusses von Schutzeinrichtungen für die Lichtquelle und für die Fotozelle zu bestimmen. Diese effektive Länge ist auf dem Gerät anzugeben.
-- 2.3 :: Die Anzeigeeinrichtung des Trübungsmessgeräts muss zwei Skalen haben. Die eine muss absolute Einheiten der Lichtabsorption von 0 bis � (m--1}) aufweisen, die andere muss linear von 0 bis 100 geteilt sein; beide Skalen müssen sich von dem Wert 0 für den gesamten Lichtstrom bis zu dem Größtwert der Skalen für die vollständige Lichtundurchlässigkeit erstrecken.
+- 2.3 :: Die Anzeigeeinrichtung des Trübungsmessgeräts muss zwei Skalen haben. Die eine muss absolute Einheiten der Lichtabsorption von 0 bis  (m--1}) aufweisen, die andere muss linear von 0 bis 100 geteilt sein; beide Skalen müssen sich von dem Wert 0 für den gesamten Lichtstrom bis zu dem Größtwert der Skalen für die vollständige Lichtundurchlässigkeit erstrecken.
 - 3 :: Bauvorschriften
 - 3.1 :: Allgemeines
   Trübungsmessgeräte müssen so beschaffen sein, dass die Rauchkammer mit Rauch gleichmäßiger Trübung gefüllt ist, wenn sie bei gleichbleibenden Drehzahlen betrieben werden.
@@ -4180,7 +4180,7 @@ Anmerkung: Die vorstehenden Werte sind auf 0,01 oder 0,005 gerundet; dies bedeut
 - 3.5.3 :: Die Anzeigeeinrichtung des Trübungsmessgeräts muss es ermöglichen, einen Absorptionskoeffizienten von 1,7 m--1} mit einer Genauigkeit von 0,025 m--1} abzulesen.
 - 3.6 :: Einstellung und Prüfung des Messgeräts
 - 3.6.1 :: Der elektrische Kreis der Fotozelle und der Anzeigeeinrichtung muss einstellbar sein, um den Zeiger auf 0 bringen zu können, wenn der Lichtstrom durch die mit reiner Luft gefüllte Rauchkammer oder eine Kammer mit gleichen Eigenschaften geht.
-- 3.6.2 :: Bei ausgeschalteter Lampe und offenem oder kurzgeschlossenem elektrischem Kreis muss die Anzeige auf der Skala für den Absorptionskoeffizienten � betragen, und nach Wiedereinschalten des Kreises muss die Anzeige bei � bleiben.
+- 3.6.2 :: Bei ausgeschalteter Lampe und offenem oder kurzgeschlossenem elektrischem Kreis muss die Anzeige auf der Skala für den Absorptionskoeffizienten  betragen, und nach Wiedereinschalten des Kreises muss die Anzeige bei  bleiben.
 - 3.6.3 :: Es ist die folgende Nachprüfung durchzuführen: In die Rauchkammer wird ein Filter eingeführt, der ein Gas mit einem bekannten Absorptionskoeffizienten k darstellt, der, nach Nummer 3.5.1 gemessen, zwischen 1,6 m--1} und 1,8 m--1} beträgt. Der Wert k muss mit einer Genauigkeit von 0,025 m--1} bekannt sein. Die Nachprüfung besteht darin, festzustellen, ob dieser Wert um nicht mehr als 0,05 m--1} von dem vom Anzeigegerät abgelesenen Wert abweicht, wenn der Filter zwischen Lichtquelle und Fotozelle gebracht wird.
 - 3.7 :: Ansprechzeit des Trübungsmessgeräts
 - 3.7.1 :: Die Ansprechzeit des elektrischen Messkreises, angegeben als die Zeit, innerhalb derer der Zeiger 90 Prozent des Skalenendwerts erreicht, wenn ein vollständig lichtundurchlässiger Schirm vor die Fotozelle gebracht wird, muss zwischen 0,9 und 1,1 Sekunden liegen.
@@ -4195,7 +4195,7 @@ Anmerkung: Die vorstehenden Werte sind auf 0,01 oder 0,005 gerundet; dies bedeut
 - 3.9 :: Temperatur des zu messenden Gases
 - 3.9.1 :: Die Temperatur des zu messenden Gases muss an jedem Punkt der Rauchkammer zwischen 70 °C und einer vom Hersteller des Trübungsmessgeräts angegebenen Höchsttemperatur liegen, sodass die Ablesungen in diesem Temperaturbereich um nicht mehr als 0,1 m--1} schwanken, wenn die Kammer mit einem Gas gefüllt ist, das einen Absorptionskoeffizienten von 1,7 m--1} hat.
 - 3.9.2 :: Das Trübungsmessgerät muss mit geeigneten Einrichtungen für die Temperaturmessung in der Rauchkammer versehen sein.
-- 4 :: Effektive Länge �L“ des Trübungsmessgeräts
+- 4 :: Effektive Länge L“ des Trübungsmessgeräts
 - 4.1 :: Allgemeines
 - 4.1.1 :: In einigen Trübungsmessgerätetypen weisen die Gase zwischen der Lichtquelle und der Fotozelle oder zwischen den transparenten Teilen, die die Lichtquelle und die Fotozelle schützen, keine gleichmäßige Trübung auf. In solchen Fällen ist die tatsächliche Länge L jene einer Gassäule mit einheitlicher Trübung, die zu der gleichen Lichtabsorption führt wie jene, die festgestellt wird, wenn das Gas normal durch das Trübungsmessgerät geht.
 - 4.1.2 :: Die effektive Länge der Lichtabsorptionsstrecke erhält man, indem man die Anzeige N des normal arbeitenden Trübungsmessgeräts mit der Anzeige N_{0} des Trübungsmessgeräts vergleicht, das derart geändert ist, dass das Prüfgas eine genau definierte Länge L_{0} füllt.
@@ -4238,14 +4238,14 @@ Anmerkung: Die vorstehenden Werte sind auf 0,01 oder 0,005 gerundet; dies bedeut
 
 [[../normengrafiken/bgbl1_2012/j0679-1_0210.jpg]]
 Das gezeigte Kennzeichen bedeutet, dass der korrigierte Wert des Absorptionskoeffizienten 1,30 m--1} beträgt.
-Nummer der EWG-Betriebserlaubnis für den Zugmaschinentyp<<FnR.FnA3-F776225_T5_01>>[[#FnA3-F776225_T5_01][1)]]} :  .......... �
-Nummer der Genehmigung[[#FnA3-F776225_T5_01][1)]]} :  .......... �
-- 1. :: Fabrikmarke (Firmenbezeichnung):  .......... �
-- 2. :: Typ und Handelsbezeichnung:  .......... �
-   .......... �
-- 3. :: Name und Anschrift des Herstellers:  .......... �
+Nummer der EWG-Betriebserlaubnis für den Zugmaschinentyp<<FnR.FnA3-F776225_T5_01>>[[#FnA3-F776225_T5_01][1)]]} :  .......... 
+Nummer der Genehmigung[[#FnA3-F776225_T5_01][1)]]} :  .......... 
+- 1. :: Fabrikmarke (Firmenbezeichnung):  .......... 
+- 2. :: Typ und Handelsbezeichnung:  .......... 
+   .......... 
+- 3. :: Name und Anschrift des Herstellers:  .......... 
 - 4. :: Gegebenenfalls Name und Anschrift des Beauftragten des Herstellers:\\
-   .......... �
+   .......... 
 - 5. :: Emissionswerte
 - 5.1 :: bei gleichbleibenden Drehzahlen
   \\
@@ -4262,17 +4262,17 @@ Nummer der Genehmigung[[#FnA3-F776225_T5_01][1)]]} :  .......... �
 - 5.2 :: bei freier Beschleunigung
 - 5.2.1 :: gemessener Absorptionswert:  ..........   m--1}
 - 5.2.2 :: korrigierter Absorptionswert:  ..........   m--1}
-- 6. :: Marke und Typ des Trübungsmessgeräts:  .......... �
-- 7. :: Motor zur Erteilung der Betriebserlaubnis vorgeführt am:  .......... �
-- 8. :: Prüfstelle:  .......... �
-- 9. :: Datum des von der Prüfstelle ausgefertigten Prüfprotokolls:  .......... �
-- 10. :: Nummer des von der Prüfstelle ausgefertigten Prüfprotokolls:  .......... �
+- 6. :: Marke und Typ des Trübungsmessgeräts:  .......... 
+- 7. :: Motor zur Erteilung der Betriebserlaubnis vorgeführt am:  .......... 
+- 8. :: Prüfstelle:  .......... 
+- 9. :: Datum des von der Prüfstelle ausgefertigten Prüfprotokolls:  .......... 
+- 10. :: Nummer des von der Prüfstelle ausgefertigten Prüfprotokolls:  .......... 
 - 11. :: Die Betriebserlaubnis hinsichtlich der Emission verunreinigender Stoffe aus dem Motor wird erteilt/ versagt[[#FnA3-F776225_T5_01][1)]]}
-- 12. :: Anbringungsstelle des Kennzeichens für den korrigierten Wert des Absorptionskoeffizienten am Fahrzeug:  .......... �
-   .......... �
-- 13. :: Ort:  .......... �
-- 14. :: Datum:  .......... �
-- 15. :: Unterschrift:  .......... �
+- 12. :: Anbringungsstelle des Kennzeichens für den korrigierten Wert des Absorptionskoeffizienten am Fahrzeug:  .......... 
+   .......... 
+- 13. :: Ort:  .......... 
+- 14. :: Datum:  .......... 
+- 15. :: Unterschrift:  .......... 
 - 16. :: Folgende Unterlagen sind beigefügt, die die vorgenannte Nummer der EWG-Betriebserlaubnis oder der Genehmigung tragen:
   1 Ausfertigung des Anhangs II, vollständig ausgefüllt, mit den angegebenen Zeichnungen und Skizzen.
    ..........  Fotografie(n) des Motors.
@@ -4385,7 +4385,7 @@ Anlage XVIII - (zu § 57b Absatz 1)Prüfung der Fahrtschreiber und Kontrollgerä
 (Fundstelle: BGBl. I 2012, 807 - 809)
 - 1 :: Voraussetzungen für die Prüfung von Fahrtschreibern und Kontrollgeräten
 - 1.1 :: Fahrtschreiber und Kontrollgeräte müssen nach Maßgabe des Herstellers eingebaut sein. Fahrtschreiber und Kontrollgeräte müssen im Kraftfahrzeug so angebracht sein, dass für den Fahrer alle notwendigen Funktionen vom Fahrersitz aus zugänglich sind.
-- 1.2 :: Zum Zwecke des Einbaus müssen Kontrollgeräte nach Anhang I B der Verordnung (EWG) Nr. 3821/85 in nicht aktiviertem Zustand geliefert worden sein, wobei alle in Kapitel III Abschnitt 20 des Anhangs I B der Verordnung (EWG) Nr. 3821/85 aufgeführten Kalibrierungsparameter auf geeignete und gültige Standardwerte eingestellt sein müssen. Liegt kein bestimmter Wert vor, müssen Buchstaben-Parameter auf �?“ und numerische Parameter auf �0“ gesetzt sein. Das Kontrollgerät muss vor der Aktivierung kalibrierfähig sein.
+- 1.2 :: Zum Zwecke des Einbaus müssen Kontrollgeräte nach Anhang I B der Verordnung (EWG) Nr. 3821/85 in nicht aktiviertem Zustand geliefert worden sein, wobei alle in Kapitel III Abschnitt 20 des Anhangs I B der Verordnung (EWG) Nr. 3821/85 aufgeführten Kalibrierungsparameter auf geeignete und gültige Standardwerte eingestellt sein müssen. Liegt kein bestimmter Wert vor, müssen Buchstaben-Parameter auf ?“ und numerische Parameter auf 0“ gesetzt sein. Das Kontrollgerät muss vor der Aktivierung kalibrierfähig sein.
 - 1.3 :: Während des Einbaus müssen alle bekannten Parameter voreingestellt worden sein.
 - 1.4 :: Das eingebaute Kontrollgerät muss spätestens am endgültigen Einbaustandort aktiviert worden sein.
 - 1.5 :: Gegebenenfalls erforderliche Koppelungen zwischen dem Weg- und/oder Geschwindigkeitsgeber und der Fahrzeugeinheit müssen automatisch während der Aktivierung des Kontrollgeräts stattfinden. Die Aktivierung des Kontrollgeräts wird durch das erstmalige Einstecken einer Werkstattkarte in eine der beiden Kartenschnittstellen automatisch ausgelöst.
@@ -4398,10 +4398,10 @@ Anlage XVIII - (zu § 57b Absatz 1)Prüfung der Fahrtschreiber und Kontrollgerä
 - 4.1 :: Prüfungen nach § 57b Absatz 1 sind nach Maßgabe der Anlage XVIIIa durchzuführen.
 - 4.2 :: Das nach Abschluss der Prüfung anzubringende Einbauschild muss folgende Angaben enthalten:
   - a) :: Name, Anschrift oder Firmenzeichen des anerkannten Fahrtschreiber- oder Kontrollgeräteherstellers oder der von diesem beauftragten Kraftfahrzeugwerkstatt oder Name, Anschrift oder Firmenzeichen des anerkannten Fahrzeugherstellers, des anerkannten Fahrzeugimporteurs oder der anerkannten Kraftfahrzeugwerkstatt,
-  - b) :: Wegimpulszahl des Kraftfahrzeugs in der Form �w = ... Imp/km“ bei elektronischem Fahrtschreiber oder Kontrollgerät,
-    Wegdrehzahl des Kraftfahrzeugs in der Form �w = ... U/km“ bei mechanischem Fahrtschreiber oder Kontrollgerät,
-  - c) :: Konstante des Kontrollgeräts in der Form �k = ... Imp/km“,
-  - d) :: tatsächlicher Reifenumfang in der Form �L = ... mm“,
+  - b) :: Wegimpulszahl des Kraftfahrzeugs in der Form w = ... Imp/km“ bei elektronischem Fahrtschreiber oder Kontrollgerät,
+    Wegdrehzahl des Kraftfahrzeugs in der Form w = ... U/km“ bei mechanischem Fahrtschreiber oder Kontrollgerät,
+  - c) :: Konstante des Kontrollgeräts in der Form k = ... Imp/km“,
+  - d) :: tatsächlicher Reifenumfang in der Form L = ... mm“,
   - e) :: Reifengröße,
   - f) :: Datum der Bestimmung der Wegimpulszahl des Kraftfahrzeugs und der Messung des tatsächlichen Reifenumfangs,
   - g) :: Fahrzeug-Identifizierungsnummer 17-stellig (bei Kontrollgeräten nach Anhang I der Verordnung (EWG) Nr. 3821/85 genügen die letzten acht Zeichen), und bei Verwendung eines Adapters zusätzlich folgende Angaben:
@@ -4424,7 +4424,7 @@ Anlage XVIII - (zu § 57b Absatz 1)Prüfung der Fahrtschreiber und Kontrollgerä
   - c) :: zur Prüfung der Funktion des Geschwindigkeitsbegrenzers im Rahmen der Hauptuntersuchung nach § 29 durch den amtlich anerkannten Sachverständigen oder Prüfer oder Prüfingenieur; die Plombierung ist durch den amtlich anerkannten Sachverständigen oder Prüfer oder Prüfingenieur unmittelbar nach Abschluss der Funktionsprüfung des Geschwindigkeitsbegrenzers wieder herzustellen.
 - 5.3 :: Jede Verletzung der Plombierung muss Gegenstand einer schriftlichen Begründung sein. Die Begründung ist für die Dauer von drei Jahren aufzubewahren und den zuständigen Personen auf Verlangen zur Prüfung vorzulegen.
 
-Wird bei einem Kraftfahrzeug das Kontrollgerät ausgetauscht oder besteht die Möglichkeit, dass nach einer Reparatur nicht mehr auf die im Massenspeicher gespeicherten Daten zugegriffen werden kann, ist das betroffene Transportunternehmen davon in Kenntnis zu setzen, dass die im Kontrollgerät gespeicherten Daten entweder heruntergeladen worden sind und diesem Unternehmen auf Verlangen zur Verfügung gestellt werden, oder dass die im Kontrollgerät gespeicherten Daten nicht heruntergeladen werden konnten. Dies hat durch die Ausstellung einer Bescheinigung nach dem beigefügten Muster zu erfolgen. Bescheinigungen können in �Heftform“ und nach Bedarf in zwei- oder dreifacher Ausfertigung erstellt werden. Sie sind in der Überschrift mit der Länderkennzahl 1 für Deutschland und einer fortlaufenden Nummerierung zu versehen, die durch Schrägstrich von der Länderkennzahl abzugrenzen ist. Das Original ist zusammen mit der Rechnung für die ausgeführten Arbeiten dem Fahrer auszuhändigen oder kann dem Transportunternehmen per Post zugeleitet werden. Eine Ausfertigung verbleibt im Heft und wird bei dem Unternehmen, das die Bescheinigung ausgestellt hat, zur Prüfung durch die zuständige Behörde verwahrt.
+Wird bei einem Kraftfahrzeug das Kontrollgerät ausgetauscht oder besteht die Möglichkeit, dass nach einer Reparatur nicht mehr auf die im Massenspeicher gespeicherten Daten zugegriffen werden kann, ist das betroffene Transportunternehmen davon in Kenntnis zu setzen, dass die im Kontrollgerät gespeicherten Daten entweder heruntergeladen worden sind und diesem Unternehmen auf Verlangen zur Verfügung gestellt werden, oder dass die im Kontrollgerät gespeicherten Daten nicht heruntergeladen werden konnten. Dies hat durch die Ausstellung einer Bescheinigung nach dem beigefügten Muster zu erfolgen. Bescheinigungen können in Heftform“ und nach Bedarf in zwei- oder dreifacher Ausfertigung erstellt werden. Sie sind in der Überschrift mit der Länderkennzahl 1 für Deutschland und einer fortlaufenden Nummerierung zu versehen, die durch Schrägstrich von der Länderkennzahl abzugrenzen ist. Das Original ist zusammen mit der Rechnung für die ausgeführten Arbeiten dem Fahrer auszuhändigen oder kann dem Transportunternehmen per Post zugeleitet werden. Eine Ausfertigung verbleibt im Heft und wird bei dem Unternehmen, das die Bescheinigung ausgestellt hat, zur Prüfung durch die zuständige Behörde verwahrt.
 Die Bescheinigung ist zu unterschreiben und mit einem Firmenstempel zu versehen.
 - 1 :: Das Kontrollgerät, das nachfolgend unter Nummer 2 beschrieben ist und im Fahrzeug mit dem amtlichen Kennzeichen:     .......... eingebaut war/ist[[#F776225_T5_02][*)]]} , wurde ausgetauscht/repariert[[#F776225_T5_02][*)]]} am: (Datum)     ..........
   \\
@@ -4718,7 +4718,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 - 1 :: Teilegutachten/Technischer Dienst oder Prüfstelle
 - 1.1 :: Ein Teilegutachten ist das Gutachten eines Technischen Dienstes oder einer Prüfstelle über die Vorschriftsmäßigkeit eines Fahrzeugs bei bestimmungsgemäßem Ein- oder Anbau der begutachteten Teile. Ein Teilegutachten muss den Verwendungsbereich der begutachteten Teile und notwendige Hinweise für die Abnahme des Anbaus durch den amtlich anerkannten Sachverständigen oder Prüfer für den Kraftfahrzeugverkehr oder durch einen Kraftfahrzeugsachverständigen oder Angestellten nach Nummer 4 der Anlage VIIIb sowie Auflagen und Einschränkungen enthalten.
 - 1.2 :: Technischer Dienst oder Prüfstelle ist ein entsprechend der Norm DIN EN 45 001 (Ausgabe Mai 1990) anerkanntes oder nach den Normen DIN EN 45 001 (Ausgabe Mai 1990) und DIN EN 45 002 (Ausgabe Mai 1990) akkreditiertes Prüflaboratorium. Sie können Teilegutachten nach Abschnitt 1.1 auf Grund von Prüfungen und Prüfungsarten erstellen, für die sie akkreditiert oder anerkannt sind.
-- 1.3 :: Die Technischen Dienste und Prüfstellen haben bei der Erstellung von Teilegutachten den im Verkehrsblatt mit Zustimmung der zuständigen obersten Landesbehörden bekannt gemachten �Beispielkatalog über Änderungen an Fahrzeugen und ihre Auswirkungen auf die Betriebserlaubnis von Fahrzeugen“ zugrunde zu legen.
+- 1.3 :: Die Technischen Dienste und Prüfstellen haben bei der Erstellung von Teilegutachten den im Verkehrsblatt mit Zustimmung der zuständigen obersten Landesbehörden bekannt gemachten Beispielkatalog über Änderungen an Fahrzeugen und ihre Auswirkungen auf die Betriebserlaubnis von Fahrzeugen“ zugrunde zu legen.
 - 1.4 :: Die Technischen Dienste und Prüfstellen haben die von ihnen erstellten Teilegutachten dem Kraftfahrt-Bundesamt nach dessen Vorgaben für eine zentrale Erfassung zur Verfügung zu stellen.
 - 2 :: Qualitätssicherungssystem
 - 2.1 :: Die Gültigkeit und die Erstellung eines Teilegutachtens nach Nummer 1.1 setzen den Nachweis des Herstellers dieser Teile darüber voraus, dass er in Bezug auf die Produktion dieser Teile in seiner Fertigung ein Qualitätssicherungssystem unterhält, das der harmonisierten Norm DIN EN ISO 9002 (Ausgabe August 1994) oder einem gleichwertigen Standard entspricht. Das Teilegutachten muss auf das Vorliegen eines entsprechenden Nachweises hinweisen. Als Hersteller im Sinn des Satzes 1 gilt die Person oder Stelle, die gegenüber dem jeweiligen Technischen Dienst für alle Belange des Teilegutachtens gemäß § 19 in Verbindung mit Anlage XIX sowie für die Sicherstellung der Übereinstimmung der Produktion verantwortlich ist.
@@ -4741,7 +4741,7 @@ Anlage XXI - (§ 49 Absatz 3)Kriterien für lärmarme Kraftfahrzeuge
   \\
   Tabelle 1\\
   \\
-  �
+  
 - <<FnA1-F776225_61>>[[#FnR.FnA1-F776225_61][1)]] :: Sofern entsprechende Bremseinrichtungen vorhanden sind.
 - <<FnA1-F776225_62>>[[#FnR.FnA1-F776225_62][2)]] :: Enfällt bei elektrischem Antrieb.
 
@@ -4925,8 +4925,8 @@ Anlage XXII - (zu § 47 Absatz 3b und 3c) Anforderungen an Stickoxid-Minderungss
     - a) :: Klasse N1 mit einer technisch zulässigen Gesamtmasse bis 2 800 Kilogramm oder
     - b) :: Klassen M1 oder M2, jeweils ohne Begrenzung der zulässigen Gesamtmasse und
   - 2. :: folgender Emissionsklasse angehören:
-    - a) :: �Euro 4“, die genehmigt sein muss entsprechend Zeile B der Grenzwerttabelle in Anhang I Abschnitt 5.3.1.4 der Richtlinie 98/69/EG des Europäischen Parlaments und des Rates vom 13. Oktober 1998 über Maßnahmen gegen die Verunreinigung der Luft durch Emissionen von Kraftfahrzeugen und zur Änderung der Richtlinie 70/220/EWG des Rates (ABl. L 350 vom 28.12.1998, S. 1), die zuletzt durch die Richtlinie 2006/96/EG des Rates vom 20. November 2006 zur Anpassung bestimmter Richtlinien im Bereich freier Warenverkehr anlässlich des Beitritts Bulgariens und Rumäniens (ABl. L 363 vom 20.12.2006, S. 81) geändert worden ist und durch die Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates vom 20. Juni 2007 über die Typgenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6) und über den Zugang zu Reparatur- und Wartungsinformationen für Fahrzeuge (ABl. L 171 vom 29.6.2007, S. 1) aufgehoben worden ist, oder
-    - b) :: �Euro 5“, die genehmigt sein muss entsprechend der Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates vom 20. Juni 2007 über die Typgenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6) und über den Zugang zu Reparatur- und Wartungsinformationen für Fahrzeuge (ABl. L 171 vom 29.6.2007, S. 1), die zuletzt durch die Verordnung (EU) Nr. 459/2012 der Kommission vom 29. Mai 2012 zur Änderung der Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates und der Verordnung (EG) Nr. 692/2008 der Kommission hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 6) (ABl. L 142 vom 1.6.2012, S. 16) geändert worden ist, und der Verordnung (EG) Nr. 692/2008 der Kommission vom 18. Juli 2008 zur Durchführung und Änderung der Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates über die Typgenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6) und über den Zugang zu Reparatur- und Wartungsinformationen für Fahrzeuge (ABl. L 199 vom 28.7.2008, S. 1), die zuletzt durch die Verordnung (EU) 2018/1832 der Kommission vom 5. November 2018 zur Änderung der Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates, der Verordnung (EG) Nr. 692/2008 der Kommission und der Verordnung (EU) 2017/1151 der Kommission im Hinblick auf die Verbesserung der emissionsbezogenen Typgenehmigungsprüfungen und -verfahren für leichte Personenkraftwagen und Nutzfahrzeuge, unter anderem in Bezug auf die Übereinstimmung in Betrieb befindlicher Fahrzeuge und auf Emissionen im praktischen Fahrbetrieb und zur Einführung von Einrichtungen zur Überwachung des Kraftstoff- und des Stromverbrauchs (ABl. L 301 vom 27.11.2018, S. 1) geändert worden ist.
+    - a) :: Euro 4“, die genehmigt sein muss entsprechend Zeile B der Grenzwerttabelle in Anhang I Abschnitt 5.3.1.4 der Richtlinie 98/69/EG des Europäischen Parlaments und des Rates vom 13. Oktober 1998 über Maßnahmen gegen die Verunreinigung der Luft durch Emissionen von Kraftfahrzeugen und zur Änderung der Richtlinie 70/220/EWG des Rates (ABl. L 350 vom 28.12.1998, S. 1), die zuletzt durch die Richtlinie 2006/96/EG des Rates vom 20. November 2006 zur Anpassung bestimmter Richtlinien im Bereich freier Warenverkehr anlässlich des Beitritts Bulgariens und Rumäniens (ABl. L 363 vom 20.12.2006, S. 81) geändert worden ist und durch die Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates vom 20. Juni 2007 über die Typgenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6) und über den Zugang zu Reparatur- und Wartungsinformationen für Fahrzeuge (ABl. L 171 vom 29.6.2007, S. 1) aufgehoben worden ist, oder
+    - b) :: Euro 5“, die genehmigt sein muss entsprechend der Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates vom 20. Juni 2007 über die Typgenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6) und über den Zugang zu Reparatur- und Wartungsinformationen für Fahrzeuge (ABl. L 171 vom 29.6.2007, S. 1), die zuletzt durch die Verordnung (EU) Nr. 459/2012 der Kommission vom 29. Mai 2012 zur Änderung der Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates und der Verordnung (EG) Nr. 692/2008 der Kommission hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 6) (ABl. L 142 vom 1.6.2012, S. 16) geändert worden ist, und der Verordnung (EG) Nr. 692/2008 der Kommission vom 18. Juli 2008 zur Durchführung und Änderung der Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates über die Typgenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6) und über den Zugang zu Reparatur- und Wartungsinformationen für Fahrzeuge (ABl. L 199 vom 28.7.2008, S. 1), die zuletzt durch die Verordnung (EU) 2018/1832 der Kommission vom 5. November 2018 zur Änderung der Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates, der Verordnung (EG) Nr. 692/2008 der Kommission und der Verordnung (EU) 2017/1151 der Kommission im Hinblick auf die Verbesserung der emissionsbezogenen Typgenehmigungsprüfungen und -verfahren für leichte Personenkraftwagen und Nutzfahrzeuge, unter anderem in Bezug auf die Übereinstimmung in Betrieb befindlicher Fahrzeuge und auf Emissionen im praktischen Fahrbetrieb und zur Einführung von Einrichtungen zur Überwachung des Kraftstoff- und des Stromverbrauchs (ABl. L 301 vom 27.11.2018, S. 1) geändert worden ist.
 - 1.2 :: Begriffsbestimmungen
   Stickoxid-Minderungssystem (NO_{x}-Minderungssystem):
   Ein System zur Abgasnachbehandlung, das der Verringerung der Stickoxidemissionen dient.
@@ -5005,7 +5005,7 @@ Anlage XXII - (zu § 47 Absatz 3b und 3c) Anforderungen an Stickoxid-Minderungss
 - 2 :: Anforderungen an NO_{x}MS-Pkw
 - 2.1 :: Anforderungen bei Hardware-Nachrüstung
   Der Hersteller eines Hardware-Nachrüstsystems muss als Antragsteller auf Erteilung einer ABE durch die in den Nummern 7 und 8 beschriebenen Prüfungen und Bewertungen nachweisen, dass die Funktionsfähigkeit des NO_{x}MS-Pkw bei bestimmungsgemäßem Betrieb des Kraftfahrzeugs dauerhaft gewährleistet ist. Der Hersteller muss überdies bestätigen, dass das Hardware-Nachrüstsystem so konstruiert, gebaut und verbaubar ist, dass unter normalen Einsatzbedingungen eine angemessene Beständigkeit gegen Korrosion und mechanische Beanspruchung gewährleistet ist.
-  Die technische Änderung durch eine Hardware-Nachrüstung muss gewährleisten, dass das NO_{x}MS-Pkw im betriebswarmen Zustand des Kraftfahrzeugs bei Umgebungs- und Reagenstemperaturen von bis zu 266 K (--7 °C) wirksam funktionsfähig ist. Diese Funktionsfähigkeit ist vom Hersteller zu bestätigen. Ein Fahrzeug gilt als �betriebswarm“, wenn sich nach der Aufwärmphase alle Kühl- und Schmiermitteltemperaturen und der Schmiermitteldruck stabilisiert haben.
+  Die technische Änderung durch eine Hardware-Nachrüstung muss gewährleisten, dass das NO_{x}MS-Pkw im betriebswarmen Zustand des Kraftfahrzeugs bei Umgebungs- und Reagenstemperaturen von bis zu 266 K (--7 °C) wirksam funktionsfähig ist. Diese Funktionsfähigkeit ist vom Hersteller zu bestätigen. Ein Fahrzeug gilt als betriebswarm“, wenn sich nach der Aufwärmphase alle Kühl- und Schmiermitteltemperaturen und der Schmiermitteldruck stabilisiert haben.
   Vorrichtungen und Einrichtungen, die den Wirkungsgrad des Hardware-Nachrüstsystems vermindern oder die in dieser Anlage enthaltenen Anforderungen umgehen, sind nicht zulässig. Die Einhaltung der technischen Anforderungen dieser Anlage ist durch den Hersteller zu bestätigen.
   Der Hersteller muss bestätigen, dass die Funktionsfähigkeit des Hardware-Nachrüstsystems bei bestimmungsgemäßem Betrieb über eine Kilometerleistung von 100 000 km oder über eine Lebensdauer von bis zu fünf Jahren -- je nachdem, welches Kriterium zuerst erreicht wird -- gewährleistet ist. Darüber hinaus hat der Hersteller die Funktionsfähigkeit des Hardware-Nachrüstsystems durch eine Bestätigung darüber, dass die in Nummer 10 festgelegten Überwachungsmaßnahmen durchgeführt worden sind, zu belegen.
   Es gelten für Hardware-Nachrüstsysteme die Anforderungen nach Nummer 13.
@@ -5016,7 +5016,7 @@ Anlage XXII - (zu § 47 Absatz 3b und 3c) Anforderungen an Stickoxid-Minderungss
   Die Beschreibung des Hardware-Nachrüstsystems erfolgt durch den Hersteller in einem Beschreibungsbogen, der den Vorgaben des Anhangs I entspricht.
 - 2.2 :: Anforderungen bei Software-Updates
   Der Hersteller eines Software-Updates muss als Antragsteller auf Erteilung einer ABE durch die in den Nummern 7 und 8 beschriebenen Prüfungen und Bewertungen nachweisen, dass die Funktionsfähigkeit des NO_{x}MS-Pkw bei bestimmungsgemäßem Betrieb des Kraftfahrzeugs dauerhaft gewährleistet ist und dass die Vorschriften für die Eingriffssicherheit des elektronischen Systems gemäß 2.3 aus Anhang I der Verordnung (EG) 692/2008 eingehalten werden.
-  Die technische Änderung durch ein Software-Update muss gewährleisten, dass das NO_{x}MS-Pkw im betriebswarmen Zustand des Kraftfahrzeugs bei Umgebungs- und Reagenstemperaturen von bis zu 266 K (--7 °C) wirksam funktionsfähig ist. Diese Funktionsfähigkeit ist vom Hersteller zu bestätigen. Ein Fahrzeug gilt als �betriebswarm“, wenn sich nach der Aufwärmphase alle Kühl- und Schmiermitteltemperaturen und der Schmiermitteldruck stabilisiert haben.
+  Die technische Änderung durch ein Software-Update muss gewährleisten, dass das NO_{x}MS-Pkw im betriebswarmen Zustand des Kraftfahrzeugs bei Umgebungs- und Reagenstemperaturen von bis zu 266 K (--7 °C) wirksam funktionsfähig ist. Diese Funktionsfähigkeit ist vom Hersteller zu bestätigen. Ein Fahrzeug gilt als betriebswarm“, wenn sich nach der Aufwärmphase alle Kühl- und Schmiermitteltemperaturen und der Schmiermitteldruck stabilisiert haben.
   Es gelten für Software-Updates die Anforderungen nach Nummer 13, mit Ausnahme der Nummern 13.5, 13.6, 13.7.2 und 13.8 bis 13.11.
 - 2.3 :: Anforderungen an NO_{x}MS-Pkw ohne technische Änderungen
   Der Fahrzeughersteller muss als Antragsteller auf Erteilung der Erlaubnis zur Ausstellung von Gleichwertigkeitsbescheinigungen durch die in den Nummern 7 und 8 beschriebenen Prüfungen und Bewertungen bei Fahrzeugen ohne technische Änderungen nachweisen, dass bei Fahrzeugen des Verwendungsbereiches der Gleichwertigkeitsbescheinigung der Emissionswert bereits im Ausgangszustand des Fahrzeugs unterschritten wird.
@@ -5072,7 +5072,7 @@ Anlage XXII - (zu § 47 Absatz 3b und 3c) Anforderungen an Stickoxid-Minderungss
 - 7.2.1 :: Randbedingungen
 - 7.2.1.1 :: Fahrzeugnutzlast und Prüfmasse
   Die Grundnutzlast des Fahrzeugs umfasst den Fahrer sowie die Prüfausrüstung einschließlich der Anbringungsteile und der Energieversorgungseinrichtungen.
-  Zu Prüfungszwecken kann künstliche Nutzlast hinzugefügt werden, solange die Gesamtmasse der Grundnutzlast und der künstlichen Nutzlast 50 % der Summe der �Masse der Fahrgäste“ und der �Nutzlast“ gemäß den Definitionen in Artikel 2 Absatz 19 und 21 der Verordnung (EU) Nr. 1230/2012 nicht überschreitet.
+  Zu Prüfungszwecken kann künstliche Nutzlast hinzugefügt werden, solange die Gesamtmasse der Grundnutzlast und der künstlichen Nutzlast 50 % der Summe der Masse der Fahrgäste“ und der Nutzlast“ gemäß den Definitionen in Artikel 2 Absatz 19 und 21 der Verordnung (EU) Nr. 1230/2012 nicht überschreitet.
 - 7.2.1.2 :: Umgebungsbedingungen
   Die Prüfung ist unter den folgenden Umgebungsbedingungen durchzuführen:
   - -- :: Höhenlage-Bedingung: Höhe höchstens 700 m über dem Meeresspiegel.
@@ -5098,7 +5098,7 @@ Anlage XXII - (zu § 47 Absatz 3b und 3c) Anforderungen an Stickoxid-Minderungss
 - 7.2.4.1 :: Nebenverbraucher
   Der Betrieb der Klimaanlage und der sonstigen Nebenverbraucher muss dem möglichen Betrieb durch den Verbraucher unter normalen Fahrbedingungen auf der Straße entsprechen.
 - 7.2.4.2 :: Fahrzeuge mit einem System mit periodischer Regenerierung
-  �System mit periodischer Regenerierung“ ist gemäß der Definition in der Verordnung (EU) 2017/1151 Anhang IIIA Artikel 2 Absatz 6 zu verstehen.
+  System mit periodischer Regenerierung“ ist gemäß der Definition in der Verordnung (EU) 2017/1151 Anhang IIIA Artikel 2 Absatz 6 zu verstehen.
   Tritt eine periodische Regenerierung während einer Prüfung auf, so wird die Prüfung für ungültig erklärt und wiederholt.
 - 7.2.5 :: Anforderungen an die Messfahrt
 - 7.2.5.1 :: Allgemeine Anforderungen
@@ -5106,7 +5106,7 @@ Anlage XXII - (zu § 47 Absatz 3b und 3c) Anforderungen an Stickoxid-Minderungss
   Ausgangs- und Endpunkt dürfen sich in ihrer Höhe über dem Meeresspiegel um nicht mehr als 100 m unterscheiden.
   Ausgangs- und Endpunkt des kombinierten Stadt- und Landstraßen-Anteils dürfen sich in ihrer Höhe über dem Meeresspiegel um nicht mehr als 150 m unterscheiden.
 - 7.2.5.2 :: Fahrstreckenanteile und Durchführung der Messfahrt
-  Die Anteile der Messfahrt in der Stadt, auf Landstra�Etwa“ bezeichnet dabei einen Bereich von ± 10 Prozentpunkten um die angegebenen Prozentwerte. Die Messfahrt in der Stadt darf jedoch nie weniger als 29 % der Gesamtfahrstrecke ausmachen.
+  Die Anteile der Messfahrt in der Stadt, auf LandstraEtwa“ bezeichnet dabei einen Bereich von ± 10 Prozentpunkten um die angegebenen Prozentwerte. Die Messfahrt in der Stadt darf jedoch nie weniger als 29 % der Gesamtfahrstrecke ausmachen.
   Die Mindeststrecke für den Stadt-, Landstraßen- sowie den Autobahnbetrieb beträgt jeweils 16 km.
   Die Messfahrt muss in der Stadt beginnen und auf Landstraßen und Autobahnen fortgesetzt werden. Der jeweilige Fahranteil in der Stadt, auf Landstraßen und auf Autobahnen muss ohne Unterbrechung durch einen anderen Fahranteil erfolgen. Der Betrieb auf Landstraßen kann durch kurzzeitigen Stadtbetrieb unterbrochen werden, wenn die Messfahrt durch städtische Gebiete hindurchführt. Der Betrieb auf Autobahnen kann, etwa beim Passieren von Mautstellen oder von Abschnitten mit Baustellen, durch kurzzeitigen Stadt- oder Landstraßenbetrieb unterbrochen werden.
   Der Landstraßenanteil endet beim letzten Stopp, bevor durchgehend (> 30 s) Geschwindigkeiten von über 90 km/h auftreten.
@@ -5172,7 +5172,7 @@ Anlage XXII - (zu § 47 Absatz 3b und 3c) Anforderungen an Stickoxid-Minderungss
 - 13.6 :: Anforderungen an das PMS als Bestandteil des NO_{x}MS-Pkw
   Für das im Austausch für ein bereits verbautes PMS eingebaute oder nachgerüstete PMS muss der Hersteller geeignete Nachweise erbringen, dass das verwendete System und dessen Systemeigenschaften einer der folgenden Vorgaben entsprechen:
   - a) :: Regelung Nr. 103 der Wirtschaftskommission der Vereinten Nationen für Europa (UN/ECE) --- Einheitliche Bestimmungen für die Genehmigung von Austauschkatalysatoren für Kraftfahrzeuge (ABl. L 158 vom 19.6.2007, S. 106) für die Genehmigung von emissionsmindernden Einrichtungen für den Austausch für Kraftfahrzeuge;
-  - b) :: für Fahrzeuge der Emissionsklasse �Euro 4“ wahlweise Vorgaben zur Partikelminderungsstufe PM 5 in Anlage XXVI;
+  - b) :: für Fahrzeuge der Emissionsklasse Euro 4“ wahlweise Vorgaben zur Partikelminderungsstufe PM 5 in Anlage XXVI;
   - c) :: UK Clean Vehicle Retrofit Accreditation Scheme.
 
   Sollte ein ausgetauschtes oder nachgerüstetes PMS externe Regenerationen oder Reinigungen benötigen, so ist der Fahrer darüber zu informieren (z. B. über eine Warnlampe oder eine Klartextanzeige).
@@ -5185,16 +5185,16 @@ Anlage XXII - (zu § 47 Absatz 3b und 3c) Anforderungen an Stickoxid-Minderungss
   - b) :: Warnsystem für den Fahrer, wenn bei einer Umgebungstemperatur von ≤ 266 K (--7 °C) keine Reagens-Dosierung auftritt;
   - c) :: Aufforderungssystem, welches ein manipulationssicheres, deutliches, optisches oder akustisches Dauersignal abgibt;
   - d) :: Aufforderungssystem gemäß Anlage 6 der UN-Regelung Nr. 83, welches mindestens eine der folgenden Methoden vorsieht:
-    - -- :: die Methode �kein Neustart des Motors nach Countdown“,
-    - -- :: das System �Anlasssperre nach Kraftstoff-Betankung“,
-    - -- :: die Methode �Kraftstoff-Tanksperre“,
-    - -- :: das Verfahren �Leistungsdrosselung“, welches vorsieht, dass die Motorleistung für den Fahrer spürbar gedrosselt und die Höchstgeschwindigkeit des Fahrzeugs erheblich herabgesetzt wird; für diesen Fall ist eine Verhinderung des Motorneustarts nicht obligatorisch.
+    - -- :: die Methode kein Neustart des Motors nach Countdown“,
+    - -- :: das System Anlasssperre nach Kraftstoff-Betankung“,
+    - -- :: die Methode Kraftstoff-Tanksperre“,
+    - -- :: das Verfahren Leistungsdrosselung“, welches vorsieht, dass die Motorleistung für den Fahrer spürbar gedrosselt und die Höchstgeschwindigkeit des Fahrzeugs erheblich herabgesetzt wird; für diesen Fall ist eine Verhinderung des Motorneustarts nicht obligatorisch.
 
   Die Aufforderungssysteme gemäß den Buchstaben c und d müssen spätestens dann aktiviert werden, wenn
   - 1. :: hinsichtlich des Füllstandes des Reagens-Behälters oder der Qualität des Reagens die Kriterien der Anlage 6 der UN-Regelung Nr. 83 zur Aktivierung erfüllt sind oder
   - 2. :: ein Totalausfall des Stickoxid-Minderungssystems eintritt.
 
-  Für den Fall, dass die Alternativmethode gemä�Euro 6“ gemäß Anhang XI der Verordnung (EG) Nr. 692/2008 in der Fassung der Verordnung (EU) 2017/1151.
+  Für den Fall, dass die Alternativmethode gemäEuro 6“ gemäß Anhang XI der Verordnung (EG) Nr. 692/2008 in der Fassung der Verordnung (EU) 2017/1151.
 - 13.8 :: NH_{3}-Emissionen bei reagensgestützten Hardware-Nachrüstsystemen
   Zur Vermeidung von NH_{3}-Emissionen ist das NO_{x}MS-Pkw mit einem NH_{3}-Sperr-Katalysator auszurüsten. Der Sperrkatalysator muss ein Mindestvolumen von 400 ml pro 100 kW Motorleistung aufweisen. Die Platin (Pt)-Beladung muss 106 g/m³ bis 177 g/m³ (3 g/ft³ bis 5 g/ft³) betragen. Der Hersteller hat zu bestätigen und nachzuweisen, dass diese Anforderungen an den Sperrkatalysator und an die Beladung eingehalten werden. Alternative Beladungen des Sperrkatalysators sind möglich, wenn der Hersteller ihre Wirkungsgleichheit nachweist.
 - 13.9 :: Sekundäremissionen
@@ -5237,8 +5237,8 @@ Anlage XXII - (zu § 47 Absatz 3b und 3c) Anforderungen an Stickoxid-Minderungss
   - 3. :: bestätigt wird, dass die entsprechenden Bestimmungen eingehalten werden.
 
   Die Dokumentation zum Verwendungsbereich muss die in Anhang II Buchstabe a bis h genannten Informationen enthalten.
-  Auf der Grundlage einer auf die Fahrzeug-Identifizierungsnummer bezogenen Gleichwertigkeitsbescheinigung trägt die nach Landesrecht zuständige Verwaltungsbehörde in die Zulassungsbescheinigung Teil I im Feld 22 �Bemerkungen“ auf Antrag des Fahrzeughalters folgenden Text ein:
-  �NO_{x}MS-Pkw mit hoher Minderungsleistung (gem. Gwb Fahrzeughersteller, Datum)“.
+  Auf der Grundlage einer auf die Fahrzeug-Identifizierungsnummer bezogenen Gleichwertigkeitsbescheinigung trägt die nach Landesrecht zuständige Verwaltungsbehörde in die Zulassungsbescheinigung Teil I im Feld 22 Bemerkungen“ auf Antrag des Fahrzeughalters folgenden Text ein:
+  NO_{x}MS-Pkw mit hoher Minderungsleistung (gem. Gwb Fahrzeughersteller, Datum)“.
   Stellt die Genehmigungsbehörde fest, dass die Voraussetzungen für die Erlaubnis zur Ausstellung von Gleichwertigkeitsbescheinigungen nicht mehr gegeben sind oder nicht mehr erfüllt werden, so hat sie die Erlaubnis zur Ausstellung von Gleichwertigkeitsbescheinigungen zu widerrufen oder zurückzunehmen.
 
 Der Beschreibungsbogen (Informations-Dokument) ist entsprechend Anhang 1 (Annex 1) der Regelung Nr. 132 der Wirtschaftskommission der Vereinten Nationen für Europa (UNECE) --- Einheitliche Bedingungen für die Genehmigung emissionsmindernder Einrichtungen zur Nachrüstung (REC) für mit Selbstzündungsmotoren ausgerüstete schwere Nutzfahrzeuge, land- und forstwirtschaftliche Zugmaschinen und nicht für den Straßenverkehr bestimmte mobile Maschinen und Geräte, Änderungsserie 01 (ABl. L 109 vom 27.4.2018, S. 100) auszufüllen.
@@ -5297,8 +5297,8 @@ Die Dokumentation zum Verwendungsbereich muss mindestens folgende Informationen 
 - 3.3 :: Genehmigungsnummer der Allgemeinen Betriebserlaubnis:
 - 3.4 :: Abdruck der Allgemeinen Betriebserlaubnis nach § 22.
 - 4 :: Angaben zu den Fahrzeugpapieren:
-  Mit dem Einbau eines in Nummer 3 beschriebenen NO_{x}MS-Pkw erfüllt das Kraftfahrzeug die Anforderungen zur Einhaltung des Emissionswerts von weniger als 270 mg/km NO_{x} für die Kraftfahrzeuge mit Selbstzündungsmotor der Emissionsklassen �Euro 4“ und �Euro 5“. In der Zulassungsbescheinigung Teil I im Feld 22 �Bemerkungen“ ist das Fahrzeug wie folgt zu kennzeichnen:
-  �NO_{x}MS-Pkw mit hoher Minderungsleistung, Typ, KBA (ABE-Nr. eintragen), ab (Einbaudatum eintragen)“.
+  Mit dem Einbau eines in Nummer 3 beschriebenen NO_{x}MS-Pkw erfüllt das Kraftfahrzeug die Anforderungen zur Einhaltung des Emissionswerts von weniger als 270 mg/km NO_{x} für die Kraftfahrzeuge mit Selbstzündungsmotor der Emissionsklassen Euro 4“ und Euro 5“. In der Zulassungsbescheinigung Teil I im Feld 22 Bemerkungen“ ist das Fahrzeug wie folgt zu kennzeichnen:
+  NO_{x}MS-Pkw mit hoher Minderungsleistung, Typ, KBA (ABE-Nr. eintragen), ab (Einbaudatum eintragen)“.
   Ausführende Stelle: (Name, Anschrift und ggf. Kontrollnummer der nach Anlage VIIIc StVZO anerkannten AU-Kraftfahrzeugwerkstatt).
   Ort, Datum, Unterschrift und ggf. Prüfstempel mit Kennnummer der verantwortlichen Person, die den ordnungsgemäßen Einbau aller Teile und die einwandfreie Funktion des NO_{x}MS-Pkw bestätigt.
 
@@ -5807,9 +5807,9 @@ Anlage XXIII - (zu § 47)Maßnahmen gegen die Verunreinigung der Luft durch Gase
   Das maßgebliche Volumen ist auf die Normalbedingungen 101,33 kPa und 273,2 K zu korrigieren.
 - 3.7.3.2 :: Gesamtmasse der emittierten luftverunreinigenden Gase und Partikel
   Die Masse m der vom Fahrzeug während der Prüfung emittierten gasförmigen Luftverunreinigungen wird für die einzelnen Testphasen durch das Produkt aus Volumenkonzentration und dem entsprechenden Gasvolumen basierend auf den nachstehenden Dichtewerten nach den vorgenannten Bezugsbedingungen berechnet:
-  - a) :: für Kohlenmonoxid (CO): d = 1,25 kg/m�
-  - b) :: für Kohlenwasserstoffe (CH_{1,85}): d = 0,619 kg/m�
-  - c) :: für Stickoxide (NO_{2}): d = 2,05 kg/m�
+  - a) :: für Kohlenmonoxid (CO): d = 1,25 kg/m
+  - b) :: für Kohlenwasserstoffe (CH_{1,85}): d = 0,619 kg/m
+  - c) :: für Stickoxide (NO_{2}): d = 2,05 kg/m
 
   Die Masse m der vom Fahrzeug während der Prüfung emittierten Partikel wird für die einzelnen Testphasen aus der gewogenen Partikelmasse auf den Filterpaaren ermittelt. Mindestens 95 Prozent der Partikel müssen sich auf dem ersten Filter befinden. Unter diesen Bedingungen ist es ausreichend, die Massenbelegung des ersten Filters für die Berechnung der emittierten Partikelmasse heranzuziehen.
   Nummer 3.13 enthält die entsprechenden Berechnungsmethoden für die Bestimmung der Massen der emittierten luftverunreinigenden Gase und Partikel.
@@ -5840,7 +5840,7 @@ Anlage XXIII - (zu § 47)Maßnahmen gegen die Verunreinigung der Luft durch Gase
 
 \\
 
-�
+
 - 3.9 :: Fahrleistungsprüfstand
 - 3.9.1 :: Verfahren zur Kalibrierung des Fahrleistungsprüfstands
 - 3.9.1.1 :: Allgemeines
@@ -5887,7 +5887,7 @@ Anlage XXIII - (zu § 47)Maßnahmen gegen die Verunreinigung der Luft durch Gase
   - d) :: Schmierung der Vorder- und Hinterachse
   - e) :: Einstellung der Radaufhängung und des Fahrzeugniveaus
   - f) :: usw.
-- 3.9.2.4.2 :: Das Fahrzeug ist mindestens bis zu seiner Bezugsmasse zu beladen. Das Fahrzeugniveau muss so eingestellt sein, dass sich der Beladungsschwerpunkt in der Mitte zwischen den �R“-Punkten der äußeren Vordersitze und auf einer durch diese Punkte verlaufenden Geraden befindet.
+- 3.9.2.4.2 :: Das Fahrzeug ist mindestens bis zu seiner Bezugsmasse zu beladen. Das Fahrzeugniveau muss so eingestellt sein, dass sich der Beladungsschwerpunkt in der Mitte zwischen den R“-Punkten der äußeren Vordersitze und auf einer durch diese Punkte verlaufenden Geraden befindet.
 - 3.9.2.4.3 :: Bei Prüfungen auf der Fahrbahn sind die Fenster zu schließen. Eventuelle Abdeckungen für Klimaanlagen, Scheinwerfer usw. müssen sich in den Stellungen befinden, die sich bei ausgeschalteten Einrichtungen ergeben.
 - 3.9.2.4.4 :: Unmittelbar vor der Prüfung muss das Fahrzeug auf geeignete Weise auf normale Betriebstemperatur gebracht werden.
 - 3.9.2.5 :: Messverfahren für die Energieänderung beim Auslaufversuch
@@ -5978,7 +5978,7 @@ Anlage XXIII - (zu § 47)Maßnahmen gegen die Verunreinigung der Luft durch Gase
   - F_{I} :: auf dem Prüfstand gemessen werden,
   - ƴ :: aus der Umfanggeschwindigkeit der Rollen berechnet werden.
 
-  Die Gesamtschwungmasse �I“ wird bei einer Beschleunigungs- oder Verzögerungsprüfung ermittelt, die gleich oder größer ist als die bei einer Fahrkurve gemessenen Werte.
+  Die Gesamtschwungmasse I“ wird bei einer Beschleunigungs- oder Verzögerungsprüfung ermittelt, die gleich oder größer ist als die bei einer Fahrkurve gemessenen Werte.
 - 3.9.3.2.2 :: Zulässiger Fehler bei der Berechnung der Gesamtschwungmasse
   Mit den Prüf- und Berechnungsverfahren muss die Gesamtschwungmasse I mit einem relativen Fehler (Δ I/I) von weniger als 2 Prozent ermittelt werden können.
 - 3.9.3.3 :: Vorschriften
@@ -6020,9 +6020,9 @@ Anlage XXIII - (zu § 47)Maßnahmen gegen die Verunreinigung der Luft durch Gase
   | r_{2}:                                            | Reifenradius der nicht angetriebenen Räder unter Last                                                                                       |
   | Rm:                                               | Rollenradius des Prüfstands mit mechanischen Schwungmassen                                                                                  |
   | Re:                                               | Rollenradius des Prüfstands mit elektrischen Schwungmassen                                                                                  |
-  | k_{1}:                                            | Koeffizient, der von der Getriebeübersetzung und den verschiedenen Schwungmassen der Kraftübertragung sowie vom �Wirkungsgrad“ abhängig ist |
-  | k_{2}:                                            | Übersetzungsverhältnis der Kraftübertragung[[../normengrafiken/bgbl1_2012/j0679-1_0510.jpg]] �Wirkungsgrad“                                 |
-  | k_{3}:                                            | Übersetzungsverhältnis der Kraftübertragung · �Wirkungsgrad“                                                                                |
+  | k_{1}:                                            | Koeffizient, der von der Getriebeübersetzung und den verschiedenen Schwungmassen der Kraftübertragung sowie vom Wirkungsgrad“ abhängig ist |
+  | k_{2}:                                            | Übersetzungsverhältnis der Kraftübertragung[[../normengrafiken/bgbl1_2012/j0679-1_0510.jpg]] Wirkungsgrad“                                 |
+  | k_{3}:                                            | Übersetzungsverhältnis der Kraftübertragung · Wirkungsgrad“                                                                                |
 
   Unter der Annahme, dass die beiden Prüfstandtypen (siehe die Nummern 3.9.3.5.2 und 3.9.3.5.3) die gleichen Merkmale aufweisen, erhält man folgende vereinfachte Formel:
   [[../normengrafiken/bgbl1_2012/j0679-1_0520.jpg]]
@@ -6173,9 +6173,9 @@ Anlage XXIII - (zu § 47)Maßnahmen gegen die Verunreinigung der Luft durch Gase
 - 3.11.1 :: Erstellung der Kalibrierkurve des Analysators
   Jeder normalerweise verwendete Messbereich muss nach Nummer 3.4.4.3 nach dem nachstehend festgelegten Verfahren kalibriert werden.
   Die Kalibrierkurve wird durch mindestens fünf Kalibrierpunkte festgelegt, die in möglichst gleichem Abstand anzuordnen sind. Die Nennkonzentration des Prüfgases der höchsten Konzentration muss mindestens 80 Prozent des Skalenendwerts betragen.
-  Die Kalibrierkurve wird nach der Methode der �kleinsten Quadrate“ berechnet. Ist der resultierende Grad des Polynoms größer als drei, so muss die Zahl der Kalibrierpunkte zumindest so groß wie der Grad dieses Polynoms plus zwei sein.
+  Die Kalibrierkurve wird nach der Methode der kleinsten Quadrate“ berechnet. Ist der resultierende Grad des Polynoms größer als drei, so muss die Zahl der Kalibrierpunkte zumindest so groß wie der Grad dieses Polynoms plus zwei sein.
   Die Kalibrierkurve darf um nicht mehr als 2 Prozent vom Nennwert eines jeden Kalibriergases abweichen.
-  Der Chemilumineszenz-Analysator muss in der Stellung �NO_{x}“ kalibriert werden.
+  Der Chemilumineszenz-Analysator muss in der Stellung NO_{x}“ kalibriert werden.
   Es können auch andere Verfahren (Rechner, elektronische Messbereichsumschaltung usw.) angewendet werden, wenn dem Technischen Dienst zufriedenstellend nachgewiesen wird, dass sie eine gleichwertige Genauigkeit bieten.
 - 3.11.1.1 :: Verlauf der Kalibrierung
   Anhand des Verlaufs der Kalibrierkurve und der Kalibrierpunkte kann die einwandfreie Durchführung der Kalibrierung überprüft werden. Es sind die verschiedenen Kennwerte des Analysators anzugeben, insbesondere:
@@ -6344,7 +6344,7 @@ Anlage XXIII - (zu § 47)Maßnahmen gegen die Verunreinigung der Luft durch Gase
   - f: :: Endwert
   - P: :: Druck in kPa
   - T: :: Temperatur in der Kammer in K
-  - V: :: Kammervolumen in m�
+  - V: :: Kammervolumen in m
 - 3.12.2.2 :: Berechnung der Verdunstungsemissionen nach Nummer 3.6
   Die in den Nummern 3.6.2.2 und 3.6.2.4 beschriebene Prüfung der Tankatmungsverluste und der Verdunstungsemissionen beim Heißabstellen ermittelt die emittierte Kohlenwasserstoffmenge mithilfe folgender Gleichung:
   [[../normengrafiken/bgbl1_2012/j0679-1_0620.jpg]]
@@ -6592,7 +6592,7 @@ Anlage XXIII - (zu § 47)Maßnahmen gegen die Verunreinigung der Luft durch Gase
   - 11. :: Ort und Datum   ..........
   - 12. :: Unterschrift   ..........
 
-�
+
 Anlage XXIII Abschn. 3.4.2.5 Kursivdruck: Müsste richtig "repräsentative" lauten
 
 Anlage XXIV - (zu § 47)Maßnahmen gegen die Verunreinigung der Luft durch Gase von Kraftfahrzeugen mit Fremd- und Selbstzündungsmotoren
@@ -6769,7 +6769,7 @@ Anlage XXV - (zu § 47)Maßnahmen gegen die Verunreinigung der Luft durch Gase v
 
   \\
   Kraftfahrzeuge mit einem Motor mit Kompressionszündung und einem Hubraum ab 1 400 ccm müssen den entsprechenden Grenzwerten der Hubraumklasse zwischen 1 400 ccm und 2 000 ccm genügen.
-- 4.1.3 :: In den Nummern 5.2.1.1.4.1, 5.2.1.1.4.2, 5.2.1.1.5.1 und 5.2.1.1.5.2 ist nach dem Ausdruck �Summe der Massen (Emissionen) der Kohlenwasserstoffe und Stickoxide“ zu ergänzen �sowie die Masse (Emission) der Stickoxide“.
+- 4.1.3 :: In den Nummern 5.2.1.1.4.1, 5.2.1.1.4.2, 5.2.1.1.5.1 und 5.2.1.1.5.2 ist nach dem Ausdruck Summe der Massen (Emissionen) der Kohlenwasserstoffe und Stickoxide“ zu ergänzen sowie die Masse (Emission) der Stickoxide“.
 - 4.1.4 :: In Nummer 7.1.1.1 gelten als zulässige Grenzwerte:\\
   \\
   | \\                | \\                   | Summe der Massen der\\   | \\               |
@@ -6822,7 +6822,7 @@ Anlage XXVI - (zu § 47 Absatz 3a)Maßnahmen gegen die Verunreinigung der Luft d
   Geregeltes Partikelminderungssystem:
   Partikelminderungssystem, das einen nach Nummer 5.3 ermittelten gravimetrischen Partikelrückhaltegrad von mindestens 90 Prozent besitzt.
   K_{i}-Faktor:
-  Verhältnis jedes limitierten Schadstoffs �n“ zwischen der gemittelten Gesamtemission von periodisch regenerierenden Systemen während der Regeneration und der gemittelten Gesamtemission von periodisch regenerierenden Systemen während der gesamten Partikelbeladungsphase ohne Regeneration aus dem NEFZ.
+  Verhältnis jedes limitierten Schadstoffs n“ zwischen der gemittelten Gesamtemission von periodisch regenerierenden Systemen während der Regeneration und der gemittelten Gesamtemission von periodisch regenerierenden Systemen während der gesamten Partikelbeladungsphase ohne Regeneration aus dem NEFZ.
   Kontinuierlich regenerierendes Partikelminderungssystem:
   Partikelminderungssystem, bei dem nicht durch veränderte Motorsteuerungsparameter, Zusatzsysteme oder Motorvolllastbetriebspunkte eine Regeneration eingeleitet wird. Die kontinuierliche Regeneration eines Partikelminderungssystems findet in bestimmten Abgastemperaturbereichen kontinuierlich von selbst statt.
   NEFZ:
@@ -6837,8 +6837,8 @@ Anlage XXVI - (zu § 47 Absatz 3a)Maßnahmen gegen die Verunreinigung der Luft d
   Partikelminderungssystem, bei dem eine periodische Regeneration über Zusatzeinrichtungen (zum Beispiel elektrische Beheizung, Additiv, geänderte Motorparameter) eingeleitet wird. Während der Regeneration können die Emissionsgrenzwerte überschritten werden. Diese sind über den K_{i}-Faktor zu berücksichtigen.
   Rückhaltegrad:
   Verhältnis von zurückgehaltener Partikelmasse durch das Partikelminderungssystem zu der Partikelmasse im Ausgangszustand des Fahrzeugs, gemessen im NEFZ.
-  �Worst-Case-Regeneration“:
-  Regeneration eines ungeregelten Partikelminderungssystems bei maximaler Partikelbeladung nach einem Dauerlauf von 4 000 km unter geringster Abgaskühlung durch den Motor sowie hohem Sauerstoffüberschuss im Abgas. Die �Worst-Case-Regeneration“ dient zum Beweis der thermischen Stabilität des Partikelminderungssystems.
+  Worst-Case-Regeneration“:
+  Regeneration eines ungeregelten Partikelminderungssystems bei maximaler Partikelbeladung nach einem Dauerlauf von 4 000 km unter geringster Abgaskühlung durch den Motor sowie hohem Sauerstoffüberschuss im Abgas. Die Worst-Case-Regeneration“ dient zum Beweis der thermischen Stabilität des Partikelminderungssystems.
   Abkürzungen:
   - η: :: Rückhaltegrad
   - f_{a}: :: Wichtungsfaktor der Partikelemission im Zustand I
@@ -6927,17 +6927,17 @@ Anlage XXVI - (zu § 47 Absatz 3a)Maßnahmen gegen die Verunreinigung der Luft d
   - a) :: vor Dauerlaufstart (Grundvermessung, Zustand I),
   - b) :: nach mindestens 2 000 km (Zustand II) und
   - c) :: nach mindestens 4 000 km (Zustand III) und
-  - d) :: nach der �Worst-Case-Regeneration“ (Zustand IV)
+  - d) :: nach der Worst-Case-Regeneration“ (Zustand IV)
 
   durchgeführt.
   Vor und nach dem Dauerlauf wird das Fahrzeug zur späteren Bestimmung der Partikelminderungseffizienz im Ausgangszustand ohne Partikelminderungssystem vermessen.
   Der Hersteller kann jeweils nach den 2 000 km- und den 4 000 km-Messungen zusätzliche Abgasmessungen im Ausgangszustand beantragen. Nach dem Wiedereinbau des Systems ist in diesem Falle die Abgasmessung zu wiederholen. Der dabei jeweils höchste Abgaswert ist für die Bestimmung des Rückhaltegrads heranzuziehen. Die Abweichung der Abgasmessungen mit Partikelminderungssystem vor/nach Ein-/Ausbau darf 15 Prozent nicht überschreiten.
 - 3.5 :: Abgasuntersuchung
   Sollen ungeregelte Partikelminderungssysteme Verwendung finden, sind zusätzlich Abgasuntersuchungen nach Nummer 3.2 der Anlage XIa mit Ermittlung des Spitzenwertes für die Rauchgastrübung durchzuführen.
-- 3.6 :: �Worst-Case-Regeneration“ nach dem Dauerlauf
-  Zur Absicherung der thermischen Stabilität im späteren Feldeinsatz von nachgerüsteten Fahrzeugen wird nach den 4 000-km-Abgasmessungen und nach der Abgasuntersuchung eine �Worst-Case-Regeneration“ durchgeführt.
-  Die thermische �Worst-Case-Regeneration“ wird mit dem Prüffahrzeug auf dem Rollenprüfstand über die Motorlast eingeleitet (zügiger Lastwechsel von unterer Teillast nach Volllast). Nach Erkennen der Zündung der Partikel im Minderungssystem wird der Leerlaufpunkt über Motorschub angefahren. Das Prüffahrzeug verbleibt so lange im Leerlauf, bis kein Ru�Worst-Case-Test“ zu beenden.
-  Bei Fahrzeugen oberhalb einer Motorleistung von 160 kW kann die Einleitung der �Worst-Case-Regeneration“ auf der Straße erfolgen.
+- 3.6 :: Worst-Case-Regeneration“ nach dem Dauerlauf
+  Zur Absicherung der thermischen Stabilität im späteren Feldeinsatz von nachgerüsteten Fahrzeugen wird nach den 4 000-km-Abgasmessungen und nach der Abgasuntersuchung eine Worst-Case-Regeneration“ durchgeführt.
+  Die thermische Worst-Case-Regeneration“ wird mit dem Prüffahrzeug auf dem Rollenprüfstand über die Motorlast eingeleitet (zügiger Lastwechsel von unterer Teillast nach Volllast). Nach Erkennen der Zündung der Partikel im Minderungssystem wird der Leerlaufpunkt über Motorschub angefahren. Das Prüffahrzeug verbleibt so lange im Leerlauf, bis kein RuWorst-Case-Test“ zu beenden.
+  Bei Fahrzeugen oberhalb einer Motorleistung von 160 kW kann die Einleitung der Worst-Case-Regeneration“ auf der Straße erfolgen.
   Sofern keine thermische Regeneration eingeleitet werden konnte, ist eine Regeneration des Partikelminderungssystems nach Herstellervorgaben im Fahrzeugbetrieb durchzuführen.
   In allen Fällen werden anschließend Abgasmessungen durchgeführt. Die dabei arithmetisch gemittelte Partikelemission darf um nicht mehr als 15 Prozent von der Partikelemission P_{Ng} abweichen.
   Darüber hinaus muss der Hersteller nachweisen und bestätigen, dass die verbrannte Partikelmasse und die dabei aufgetretenen Abgastemperaturen bezüglich der Haltbarkeit des Systems als unkritisch anzusehen sind.
@@ -6946,7 +6946,7 @@ Anlage XXVI - (zu § 47 Absatz 3a)Maßnahmen gegen die Verunreinigung der Luft d
   Die Abgasemissionswerte im Ausgangszustand (P_{S}), Zustand I (Grundvermessung) (P_{I}), Zustand II (P_{II}), Zustand III (P_{III}) und Zustand IV (P_{IV}) ergeben sich jeweils als Mittelwert aus jeweils zwei, sofern die Messungen nicht mehr als 15 Prozent voneinander abweichen, ansonsten drei Messungen im NEFZ.
 - 3.7.2 :: Ermittlung der gasförmigen Emissionen (NO_{x}, CO, HC) und des Kraftstoffverbrauchs in CO_{2}:
   - -- :: Arithmetisches Mittel aus NEFZ im Ausgangszustand ohne Minderungssystem (HC_{S}, CO_{S}, NO_{x S}) und (CO_{2 S});
-  - -- :: Arithmetisches Mittel aus NEFZ im nachgerüsteten Zustand mit Minderungssystem (HC _{(I, II, III)}, CO _{(I, II, III)}, NO_{x (I, II, III)} und CO_{2 (I, II, III)}). Die Emissionen während der �Worst-Case-Regeneration“ werden nicht berücksichtigt.
+  - -- :: Arithmetisches Mittel aus NEFZ im nachgerüsteten Zustand mit Minderungssystem (HC _{(I, II, III)}, CO _{(I, II, III)}, NO_{x (I, II, III)} und CO_{2 (I, II, III)}). Die Emissionen während der Worst-Case-Regeneration“ werden nicht berücksichtigt.
 - 3.8 :: Bewertung des ungeregelten Partikelminderungssystems
   Die Prüfung des Partikelminderungssystems für das System gilt als bestanden, wenn folgende Kriterien erfüllt sind:
 - 3.8.1 :: Die Partikelemission mit P_{Ng} = (f_{a}• P_{I} + f_{b}• P_{II} + f_{c}• P_{III}) / (f_{a} + f_{b} + f_{c}) mit f_{a} = 1; f_{b} = 2 und f_{c} = 4 muss unter dem Grenzwert von 0,025 g/km liegen; bei Kraftfahrzeugen mit einer zulässigen Gesamtmasse von mehr als 2 500 kg unter dem Grenzwert von 0,050 g/km.
@@ -6987,7 +6987,7 @@ Anlage XXVI - (zu § 47 Absatz 3a)Maßnahmen gegen die Verunreinigung der Luft d
 - 4.3 :: Prüfkriterien des Verwendungsbereichs innerhalb einer Familie nach Anhang I Nummer 1.2
   Die Prüffahrzeuge müssen eine Laufleistung von mindestens 15 000 km aufweisen. Die Prüffahrzeuge müssen im Ausgangszustand und im nachgerüsteten Zustand bei allen limitierten Emissionen die Werte ihrer ursprünglich homologierten Grenzwertstufe einhalten. Die Verschlechterungsfaktoren sind nicht anzuwenden.
   Der Umbau am Prüffahrzeug muss dem beantragten späteren Ausgangsstand der Umrüstung entsprechen.
-  Fahrzeuge mit �On-Board-Diagnose“ dürfen durch den Einbau des Nachrüstsystems in ihrer Überwachungsfunktion nicht eingeschränkt werden. Das elektronische Motorsteuergerät (zum Beispiel für Einspritzung, Luftmassenmesser, Abgasminderung) darf durch die Nachrüstung nicht verändert werden.
+  Fahrzeuge mit On-Board-Diagnose“ dürfen durch den Einbau des Nachrüstsystems in ihrer Überwachungsfunktion nicht eingeschränkt werden. Das elektronische Motorsteuergerät (zum Beispiel für Einspritzung, Luftmassenmesser, Abgasminderung) darf durch die Nachrüstung nicht verändert werden.
 - 4.4 :: Prüf- und Messablauf auf dem Rollenprüfstand
 - 4.4.1 :: Die Fahrzeuge werden durch 2 x 10 NEFZ (220 km) konditioniert (siehe Anhang I Nummer 1.2).
 - 4.4.2 :: Ermittlung aller limitierten Schadstoffe im NEFZ für:
@@ -7089,7 +7089,7 @@ Anlage XXVI - (zu § 47 Absatz 3a)Maßnahmen gegen die Verunreinigung der Luft d
   - i) :: Abgasmessung: 2 -- 3 x NEFZ (kalt)
   - k) :: AU Trübungskoeffizient Nachrüstung
 
-  �Worst-Case-Regeneration“
+  Worst-Case-Regeneration“
   Zustand IV (thermisch gealterter Zustand):
   - l) :: Konditionierung: 3 x Teil 2 des NEFZ
   - m) :: Abgasmessung: 2 -- 3 x NEFZ (kalt)
@@ -7168,24 +7168,24 @@ Genehmigung des\\
 Partikelminderungssystems
 Eintragung der\\
 Partikelminderungsstufe
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-Es wird bescheinigt, dass die aufgeführten Fahrzeugtypen und Ausführungen die Anforderungen der in Spalte 5 eingetragenen Partikelminderungsstufe nach Anlage XXVI zu § 47 Absatz 3a einhalten und in den Fahrzeugpapieren im Feld �Bemerkungen“ entsprechend gekennzeichnet werden dürfen. Für die Kennzeichnung gelten die Vorgaben in Anlage III oder V.
+
+
+
+
+
+
+
+
+
+
+Es wird bescheinigt, dass die aufgeführten Fahrzeugtypen und Ausführungen die Anforderungen der in Spalte 5 eingetragenen Partikelminderungsstufe nach Anlage XXVI zu § 47 Absatz 3a einhalten und in den Fahrzeugpapieren im Feld Bemerkungen“ entsprechend gekennzeichnet werden dürfen. Für die Kennzeichnung gelten die Vorgaben in Anlage III oder V.
 Gegenüber der Genehmigungsbehörde ist die nach Anlage XXVI Nummer 6.1.1, 6.2.1 und/oder 6.2.3 Buchstabe b geforderte Erklärung abgegeben worden.
 Fahrzeughersteller:
 Fahrzeug-Identifizierungsnummer:
-Es wird bescheinigt, dass das oben beschriebene Fahrzeug/die oben beschriebenen Fahrzeuge die Anforderungen der in Spalte 4 eingetragenen Partikelminderungsstufe nach Anlage XXVI zu § 47 Absatz 3a einhält/einhalten und in den Fahrzeugpapieren im Feld �Bemerkungen“ bei Einhaltung der
+Es wird bescheinigt, dass das oben beschriebene Fahrzeug/die oben beschriebenen Fahrzeuge die Anforderungen der in Spalte 4 eingetragenen Partikelminderungsstufe nach Anlage XXVI zu § 47 Absatz 3a einhält/einhalten und in den Fahrzeugpapieren im Feld Bemerkungen“ bei Einhaltung der
 
 - -- :: Partikelminderungsstufen PM 01 bis PM 4: entsprechend den Vorgaben in Anhang V
-- -- :: Partikelminderungsstufe PM 5: als �Stufe PM 5 ab Tag Erstzul.“
+- -- :: Partikelminderungsstufe PM 5: als Stufe PM 5 ab Tag Erstzul.“
 
 gekennzeichnet werden darf/dürfen. Verwendete Unterlagen für die jeweilige Bewertung wie Bescheinigungen nach Anhang II, Anhang V oder Allgemeine Betriebserlaubnisse nach § 22 sind zu nennen.
 
@@ -7219,13 +7219,13 @@ Datum, Unterschrift:   ..........
 - 3.3.2 :: Abdruck der ABE nach § 21 StVZO für das Einzelfahrzeug[[#f776225_82][*)]]} oder
 - 3.3.3 :: Herstellerbescheinigung[[#f776225_82][*)]]} ist beigefügt.
 - 4 :: Angaben zu den Fahrzeugpapieren:
-- 4.1 :: Durch die Ausrüstung mit dem unter Nummer 3 beschriebenen Partikelminderungssystem erfüllt das Kraftfahrzeug die Anforderungen der nachfolgend aufgeführten Partikelminderungsstufe und ist in den Fahrzeugpapieren im Feld �Bemerkungen“ wie folgt zu kennzeichnen:
-  - -- :: �Stufe PM 01 nachger. m. Typ: (eintragen); KBA (Nr. eintragen), ab (Datum)“ [[#f776225_82][*)]]}
-  - -- :: �Stufe PM 0 nachger. m. Typ: (eintragen); KBA (Nr. eintragen), ab (Datum)“ [[#f776225_82][*)]]}
-  - -- :: �Stufe PM 1 nachger. m. Typ: (eintragen); KBA (Nr. eintragen), ab (Datum)“ [[#f776225_82][*)]]}
-  - -- :: �Stufe PM 2 nachger. m. Typ: (eintragen); KBA (Nr. eintragen), ab (Datum)“ [[#f776225_82][*)]]}
-  - -- :: �Stufe PM 3 nachger. m. Typ: (eintragen); KBA (Nr. eintragen), ab (Datum)“ [[#f776225_82][*)]]}
-  - -- :: �Stufe PM 4 nachger. m. Typ: (eintragen); KBA (Nr. eintragen), ab (Datum)“ [[#f776225_82][*)]]}
+- 4.1 :: Durch die Ausrüstung mit dem unter Nummer 3 beschriebenen Partikelminderungssystem erfüllt das Kraftfahrzeug die Anforderungen der nachfolgend aufgeführten Partikelminderungsstufe und ist in den Fahrzeugpapieren im Feld Bemerkungen“ wie folgt zu kennzeichnen:
+  - -- :: Stufe PM 01 nachger. m. Typ: (eintragen); KBA (Nr. eintragen), ab (Datum)“ [[#f776225_82][*)]]}
+  - -- :: Stufe PM 0 nachger. m. Typ: (eintragen); KBA (Nr. eintragen), ab (Datum)“ [[#f776225_82][*)]]}
+  - -- :: Stufe PM 1 nachger. m. Typ: (eintragen); KBA (Nr. eintragen), ab (Datum)“ [[#f776225_82][*)]]}
+  - -- :: Stufe PM 2 nachger. m. Typ: (eintragen); KBA (Nr. eintragen), ab (Datum)“ [[#f776225_82][*)]]}
+  - -- :: Stufe PM 3 nachger. m. Typ: (eintragen); KBA (Nr. eintragen), ab (Datum)“ [[#f776225_82][*)]]}
+  - -- :: Stufe PM 4 nachger. m. Typ: (eintragen); KBA (Nr. eintragen), ab (Datum)“ [[#f776225_82][*)]]}
 
   ..........
 Ort, Datum, Unterschrift der verantwortlichen Person nach § 29 Absatz 12 oder § 47a Absatz 3 StVZO
@@ -7416,7 +7416,7 @@ Anlage XXVII - (zu § 48 Absatz 2 und Anlage XIV Nummer 3.4)Maßnahmen gegen die
 - 7.2 :: Anforderungen an den Prüfmotor
   Der Prüfmotor muss im Serienzustand und im nachgerüsteten Zustand bei allen limitierten Emissionen die Werte der ursprünglich homologierten Grenzwertstufe einhalten.
   Der Umbau am Prüfmotor muss dem beantragten späteren Serienstand der Umrüstung entsprechen.
-  Fahrzeuge mit �On-Board-Diagnose“ dürfen durch den Einbau des Nachrüstsystems in ihrer Überwachungsfunktion nicht eingeschränkt werden. Das elektronische Motorsteuergerät (z. B. für Einspritzung, Luftmassenmesser, Abgasminderung) darf durch die Nachrüstung nicht verändert werden.
+  Fahrzeuge mit On-Board-Diagnose“ dürfen durch den Einbau des Nachrüstsystems in ihrer Überwachungsfunktion nicht eingeschränkt werden. Das elektronische Motorsteuergerät (z. B. für Einspritzung, Luftmassenmesser, Abgasminderung) darf durch die Nachrüstung nicht verändert werden.
   Hat der Prüfmotor keine Abgasrückführung (AGR), darf der Verwendungsbereich auf Motoren mit AGR nur dann ausgeweitet werden, wenn der Antragsteller nachweisen kann, dass das Partikelminderungssystem keinen negativen Einfluss auf die limitierten gasförmigen Schadstoffkomponenten nimmt. Liegt eine entsprechende Freigabe des Motorenherstellers vor, ist kein Nachweis erforderlich.
 - 7.3 :: Prüf- und Messablauf auf dem Motorenprüfstand
   Im Anhang I ist der Prüfablauf für ungeregelte und geregelte Partikelminderungssysteme dargestellt.
@@ -7470,7 +7470,7 @@ Anlage XXVII - (zu § 48 Absatz 2 und Anlage XIV Nummer 3.4)Maßnahmen gegen die
 [[../normengrafiken/bgbl1_2012/j0679-1_0790.jpg]]
 Fahrzeughersteller:
 Fahrzeug-Identifizierungsnummer:
-Es wird bescheinigt, dass das oben beschriebene Fahrzeug/die oben beschriebenen Fahrzeuge die Anforderungen der in Spalte 4 eingetragenen Partikelminderungsklasse nach Anlage XIV zu § 48 in Verbindung mit Anlage XXVII einhält/einhalten und in den Fahrzeugpapieren im Feld �Bemerkungen“ entsprechend den Vorgaben in Anhang V gekennzeichnet werden dürfen.
+Es wird bescheinigt, dass das oben beschriebene Fahrzeug/die oben beschriebenen Fahrzeuge die Anforderungen der in Spalte 4 eingetragenen Partikelminderungsklasse nach Anlage XIV zu § 48 in Verbindung mit Anlage XXVII einhält/einhalten und in den Fahrzeugpapieren im Feld Bemerkungen“ entsprechend den Vorgaben in Anhang V gekennzeichnet werden dürfen.
 Verwendete Unterlagen für die jeweilige Bewertung, wie Bescheinigungen nach Anhang IV oder Allgemeine Betriebserlaubnisse nach § 22, sind zu nennen.
 Es ist nicht zu erwarten, dass sich das Abgasverhalten des Fahrzeugs bei bestimmungsgemäßem Betrieb in einem Zeitraum von bis zu fünf Jahren oder bis zu einer Kilometerleistung von 80 000 km bei Motoren mit einem Hubraum unter 0,75 dm³ je Zylinder und einer Nennleistungsdrehzahl von über 3 000 m-1}, ansonsten von 200 000 km, je nachdem, welches Kriterium zuerst erreicht wird, wesentlich verschlechtern wird.
 Technischer Dienst:   ..........
@@ -7501,10 +7501,10 @@ Datum, Unterschrift:   ..........
 - 3.3.1 :: Abdruck der ABE für das PMS nach § 22 StVZO[[#FnA1-F776225_111][*)]]}
 - 3.3.2 :: Abdruck der ABE nach § 21 StVZO für das Einzelfahrzeug[[#FnA1-F776225_111][*)]]}
 - 4 :: Angaben zu den Fahrzeugpapieren:
-- 4.1 :: Durch die Ausrüstung mit dem unter Nummer 3 beschriebenen Partikelminderungssystem erfüllt das Kraftfahrzeug die Anforderungen der nachfolgend aufgeführten Partikelminderungsklasse und ist in den Fahrzeugpapieren im Feld �Bemerkungen“ wie folgt zu kennzeichnen:
-  - -- :: �PMK 0 nachger. m. Typ: (eintragen); KBA (Nr. eintragen), ab (Datum)“[[#FnA1-F776225_111][*)]]}
-  - -- :: �PMK 1 nachger. m. Typ: (eintragen); KBA (Nr. eintragen), ab (Datum)“[[#FnA1-F776225_111][*)]]}
-  - -- :: �PMK 2 nachger. m. Typ: (eintragen); KBA (Nr. eintragen), ab (Datum)“[[#FnA1-F776225_111][*)]]}
+- 4.1 :: Durch die Ausrüstung mit dem unter Nummer 3 beschriebenen Partikelminderungssystem erfüllt das Kraftfahrzeug die Anforderungen der nachfolgend aufgeführten Partikelminderungsklasse und ist in den Fahrzeugpapieren im Feld Bemerkungen“ wie folgt zu kennzeichnen:
+  - -- :: PMK 0 nachger. m. Typ: (eintragen); KBA (Nr. eintragen), ab (Datum)“[[#FnA1-F776225_111][*)]]}
+  - -- :: PMK 1 nachger. m. Typ: (eintragen); KBA (Nr. eintragen), ab (Datum)“[[#FnA1-F776225_111][*)]]}
+  - -- :: PMK 2 nachger. m. Typ: (eintragen); KBA (Nr. eintragen), ab (Datum)“[[#FnA1-F776225_111][*)]]}
 
 Ausführende Stelle:   ..........\\
   ..........
@@ -7543,7 +7543,7 @@ Der Durchmesser des Piktogramms beträgt mindestens 60 mm.
 Anlage XXIX - (zu § 20 Absatz 3a Satz 4)EG-Fahrzeugklassen
 
 (Fundstelle: BGBl. I 2012, 931 - 935)
-In den nachstehenden Begriffsbestimmungen ist unter �zulässiger Gesamtmasse“ die vom Hersteller angegebene �technisch zulässige Gesamtmasse in beladenem Zustand“ zu verstehen.
+In den nachstehenden Begriffsbestimmungen ist unter zulässiger Gesamtmasse“ die vom Hersteller angegebene technisch zulässige Gesamtmasse in beladenem Zustand“ zu verstehen.
 
 - 1 :: - Klasse M: :: Für die Personenbeförderung ausgelegte und gebaute Kraftfahrzeuge mit mindestens vier Rädern.
   - Klasse M_{1}: :: Für die Personenbeförderung ausgelegte und gebaute Kraftfahrzeuge mit höchstens acht Sitzplätzen außer dem Fahrersitz.
@@ -7599,14 +7599,14 @@ In den nachstehenden Begriffsbestimmungen ist unter �zulässiger Gesamtmasse“
 - 4.4.3 :: Die Prüfung der geforderten Steigfähigkeit (25 Prozent und 30 Prozent) erfolgt durch einfache Berechnungen. In Grenzfällen kann der technische Dienst jedoch verlangen, dass ein Fahrzeugtyp einem praktischen Fahrversuch unterzogen wird.
 - 4.4.4 :: Bei der Messung des vorderen und hinteren Überhangwinkels und des Rampenwinkels werden die Unterfahrschutzeinrichtungen nicht berücksichtigt.
 - 4.5 :: Definitionen und Skizzen der Bodenfreiheit. (Definitionen für den vorderen und hinteren Überhangwinkel und den Rampenwinkel gemäß ISO-Norm 612-1978 Nummer 6.10, 6.11 und 6.9.)
-- 4.5.1 :: Die �Bodenfreiheit zwischen den Achsen“ ist der kleinste Abstand zwischen der Standebene und dem niedrigsten festen Punkt des Fahrzeugs. Mehrachsaggregate gelten als eine einzige Achse.
+- 4.5.1 :: Die Bodenfreiheit zwischen den Achsen“ ist der kleinste Abstand zwischen der Standebene und dem niedrigsten festen Punkt des Fahrzeugs. Mehrachsaggregate gelten als eine einzige Achse.
   [[../normengrafiken/bgbl1_2012/j0679-1_0810.jpg]]
-- 4.5.2 :: Die �Bodenfreiheit unter einer Achse“ ist durch die Scheitelhöhe eines Kreisbogens bestimmt, der durch die Mitte der Aufstandsfläche der Reifen einer Achse (der Innenreifen bei Zwillingsreifen) geht und den niedrigsten Festpunkt zwischen den Rädern berührt.
+- 4.5.2 :: Die Bodenfreiheit unter einer Achse“ ist durch die Scheitelhöhe eines Kreisbogens bestimmt, der durch die Mitte der Aufstandsfläche der Reifen einer Achse (der Innenreifen bei Zwillingsreifen) geht und den niedrigsten Festpunkt zwischen den Rädern berührt.
   Kein starres Teil des Fahrzeugs darf in den gestrichelten Kreisabschnitt der Zeichnung hineinragen. Gegebenenfalls ist die Bodenfreiheit mehrerer Achsen in der Reihenfolge ihrer Anordnung anzugeben, beispielsweise 280/250/250.
   [[../normengrafiken/bgbl1_2012/j0679-1_0820.jpg]]
 - 4.6 :: Kombinierte Bezeichnung
   \\
-  Das Symbol �G“ wird mit dem Symbol �M“ oder �N“ kombiniert. So wird beispielsweise ein Fahrzeug der Klasse N_{1}, das als Geländefahrzeug verwendet werden kann, mit N_{1}G bezeichnet.
+  Das Symbol G“ wird mit dem Symbol M“ oder N“ kombiniert. So wird beispielsweise ein Fahrzeug der Klasse N_{1}, das als Geländefahrzeug verwendet werden kann, mit N_{1}G bezeichnet.
 - 5 :: Fahrzeuge mit besonderer Zweckbestimmung: Fahrzeuge der Klasse M, N oder O zur Personen- oder Güterbeförderung mit einer speziellen Funktion, für die der Aufbau oder die Ausrüstung entsprechend angepasst werden muss.
 - 5.1 :: Wohnmobil: Fahrzeug der Klasse M mit besonderer Zweckbestimmung, das so konstruiert ist, dass es die Unterbringung von Personen erlaubt und mindestens die folgende Ausrüstung umfasst:
   - a) :: Tisch und Sitzgelegenheiten,
@@ -7668,20 +7668,20 @@ Diese Einteilung gilt nicht für die nachstehend genannten Fahrzeuge:
   - Klasse R3: :: Anhänger, bei denen die Summe der technisch zulässigen Massen je Achse mehr als 3 500 kg und bis zu 21 000 kg beträgt.
   - Klasse R4: :: Anhänger, bei denen die Summe der technisch zulässigen Massen je Achse mehr als 21 000 kg beträgt.
 
-Ferner wird jede Klasse von Anhängern je nach der Höchstgeschwindigkeit, für die sie ausgelegt ist, mit dem Buchstaben �a“ oder �b“ gekennzeichnet:
+Ferner wird jede Klasse von Anhängern je nach der Höchstgeschwindigkeit, für die sie ausgelegt ist, mit dem Buchstaben a“ oder b“ gekennzeichnet:
 
-- -- :: Buchstabe �a“ für Anhänger mit einer bauartbedingten Höchstgeschwindigkeit kleiner oder gleich 40 km/h;
-- -- :: Buchstabe �b“ für Anhänger mit einer bauartbedingten Höchstgeschwindigkeit über 40 km/h.
+- -- :: Buchstabe a“ für Anhänger mit einer bauartbedingten Höchstgeschwindigkeit kleiner oder gleich 40 km/h;
+- -- :: Buchstabe b“ für Anhänger mit einer bauartbedingten Höchstgeschwindigkeit über 40 km/h.
 
 Beispiel: Bei einem Anhänger der Klasse Rb3 beträgt die Summe der technisch zulässigen Massen je Achse mehr als 3 500 kg und bis zu 21 000 kg, und er ist für die Beförderung durch eine Zugmaschine der Klasse T5 ausgelegt.
 - 4 :: - Klasse S: :: Gezogene auswechselbare Maschinen
   - Klasse S1: :: Gezogene auswechselbare Maschinen für den Einsatz in der Land- oder Forstwirtschaft, bei denen die Summe der technisch zulässigen Massen je Achse bis zu 3 500 kg beträgt.
   - Klasse S2: :: Gezogene auswechselbare Maschinen für den Einsatz in der Land- und Forstwirtschaft, bei denen die Summe der technisch zulässigen Massen je Achse mehr als 3 500 kg beträgt.
 
-Ferner wird jede Klasse von gezogenen auswechselbaren Maschinen je nach der Höchstgeschwindigkeit, für die sie ausgelegt ist, mit dem Buchstaben �a“ oder �b“ gekennzeichnet:
+Ferner wird jede Klasse von gezogenen auswechselbaren Maschinen je nach der Höchstgeschwindigkeit, für die sie ausgelegt ist, mit dem Buchstaben a“ oder b“ gekennzeichnet:
 
-- -- :: Buchstabe �a“ für gezogene auswechselbare Maschinen mit einer bauartbedingten Höchstgeschwindigkeit kleiner oder gleich 40 km/h,
-- -- :: Buchstabe �b“ für gezogene auswechselbare Maschinen mit einer bauartbedingten Höchstgeschwindigkeit über 40 km/h.
+- -- :: Buchstabe a“ für gezogene auswechselbare Maschinen mit einer bauartbedingten Höchstgeschwindigkeit kleiner oder gleich 40 km/h,
+- -- :: Buchstabe b“ für gezogene auswechselbare Maschinen mit einer bauartbedingten Höchstgeschwindigkeit über 40 km/h.
 
 Beispiel: Bei einer gezogenen auswechselbaren Maschine der Klasse Sb2 beträgt die Summe der technisch zulässigen Massen je Achse mehr als 3 500 kg, und sie ist für die Beförderung durch eine Zugmaschine der Klasse T5 ausgelegt.
 Die Einteilung gilt nicht für speziell zum Einsatz in der Forstwirtschaft bestimmte Maschinen wie Seilschlepper (Skidder) und Rückezüge (Forwarder) nach ISO-Norm 6814:2000, für Forstmaschinen auf Fahrgestell für Erdbaumaschinen nach ISO-Norm 6165:2001und für auswechselbare Maschinen, die im öffentlichen Straßenverkehr von einem anderen Fahrzeug in vollständig angehobener Stellung mitgeführt werden.

@@ -86,7 +86,7 @@ Zu den Böden des Landschaftsbaus zählen insbesondere Rekultivierungsflächen, 
 
 (1) Der Klärschlammerzeuger hat vor der erstmaligen Auf- oder Einbringung des Klärschlamms auf der durch den Klärschlammnutzer nach § 16 Absatz 1 Satz 1 mitgeteilten Auf- oder Einbringungsfläche
 
-- 1. :: die Bodenart der Auf- oder Einbringungsfläche nach DIN 19682-2 �Bodenbeschaffenheit -- Felduntersuchungen -- Teil 2: Bestimmung der Bodenart“, Ausgabe Juli 2014, bestimmen zu lassen sowie
+- 1. :: die Bodenart der Auf- oder Einbringungsfläche nach DIN 19682-2 Bodenbeschaffenheit -- Felduntersuchungen -- Teil 2: Bestimmung der Bodenart“, Ausgabe Juli 2014, bestimmen zu lassen sowie
 - 2. :: eine Bodenuntersuchung auf die in Nummer 4.1 des Anhangs 2 der Bundes-Bodenschutz- und Altlastenverordnung genannten Schwermetalle, auf den pH-Wert und auf den Phosphatgehalt nach den Bestimmungen des § 32 Absatz 1 und 2 durchführen zu lassen.
 
 Im Fall der erstmaligen Auf- oder Einbringung eines Klärschlammgemischs oder eines Klärschlammkomposts gelten die Pflichten nach Satz 1 für den Gemischhersteller oder den Komposthersteller. Wurde bereits eine ordnungsgemäße Bodenuntersuchung nach der Bioabfallverordnung durchgeführt, kann der Verpflichtete nach Satz 1 oder 2 die Ergebnisse dieser Untersuchung verwenden, sofern sie nicht älter als zehn Jahre sind.
@@ -561,10 +561,10 @@ Anlage 2 - (zu § 32 Absatz 2 und 3)Probenuntersuchung
 - 1. :: Bodenproben
 - 1.1 :: Probennahme
   Für die Probennahme aus einem Boden ist der Zeitraum nach der Ernte bis zur nächsten Klärschlammaufbringung zu wählen.
-  Von jedem einheitlich bewirtschafteten Boden, z. B. Schlag, ist bei der Grö�Bodenbeschaffenheit -- Probenahme -- Teil 1: Anleitung zur Aufstellung von Probenahmeprogrammen“, Ausgabe August 2003, DIN ISO 10381-4 �Bodenbeschaffenheit -- Probenahme -- Teil 4: Anleitung für das Vorgehen bei der Untersuchung von natürlichen, naturnahen und Kulturstandorten“, Ausgabe April 2004. Für eine Mischprobe sollen 15 bis 25 Einzeleinstiche je Teilfläche jeweils bis zur Bearbeitungstiefe genommen werden. Die Einstiche sind gleichmäßig über die Fläche zu verteilen.
-  Für die Eignung von Geräten zur Probennahme ist DIN ISO 10381-2 �Bodenbeschaffenheit -- Probenahme -- Teil 2: Anleitung für Probenahmeverfahren“, Ausgabe August 2003, ma�Bodenbeschaffenheit -- Probenahme -- Teil 1: Anleitung zur Aufstellung von Probenahmeprogrammen“, Ausgabe August 2003, zu beachten. Der Transport der Bodenproben für die Untersuchung auf die Gehalte an organischen Schadstoffen sowie die Lagerung dieser Proben erfolgt nach DIN 19747 �Untersuchung von Feststoffen -- Probenvorbehandlung, -vorbereitung und -aufarbeitung für chemische, biologische und physikalische Untersuchungen“, Ausgabe Juli 2009.
+  Von jedem einheitlich bewirtschafteten Boden, z. B. Schlag, ist bei der GröBodenbeschaffenheit -- Probenahme -- Teil 1: Anleitung zur Aufstellung von Probenahmeprogrammen“, Ausgabe August 2003, DIN ISO 10381-4 Bodenbeschaffenheit -- Probenahme -- Teil 4: Anleitung für das Vorgehen bei der Untersuchung von natürlichen, naturnahen und Kulturstandorten“, Ausgabe April 2004. Für eine Mischprobe sollen 15 bis 25 Einzeleinstiche je Teilfläche jeweils bis zur Bearbeitungstiefe genommen werden. Die Einstiche sind gleichmäßig über die Fläche zu verteilen.
+  Für die Eignung von Geräten zur Probennahme ist DIN ISO 10381-2 Bodenbeschaffenheit -- Probenahme -- Teil 2: Anleitung für Probenahmeverfahren“, Ausgabe August 2003, maBodenbeschaffenheit -- Probenahme -- Teil 1: Anleitung zur Aufstellung von Probenahmeprogrammen“, Ausgabe August 2003, zu beachten. Der Transport der Bodenproben für die Untersuchung auf die Gehalte an organischen Schadstoffen sowie die Lagerung dieser Proben erfolgt nach DIN 19747 Untersuchung von Feststoffen -- Probenvorbehandlung, -vorbereitung und -aufarbeitung für chemische, biologische und physikalische Untersuchungen“, Ausgabe Juli 2009.
 - 1.2 :: Probenvorbereitung
-  Die Probenvorbereitung einschlie�Untersuchung von Feststoffen -- Probenvorbehandlung, -vorbereitung und -aufarbeitung für chemische, biologische und physikalische Untersuchungen“, Ausgabe Juli 2009, zu erfolgen. Die Mischproben werden durch Siebung über ein Sieb mit einer Maschenweite von 2 Millimetern in einen Grob- und einen Feinanteil aufgeteilt. Der Feinanteil ist zu homogenisieren und für die Untersuchung methodenspezifisch zu zerkleinern und zu untersuchen. Bestehen Anhaltspunkte für einen erhöhten Schadstoffgehalt der Fraktion von mehr als 2 Millimetern, ist diese Fraktion nach Vorzerkleinerung und Homogenisierung ebenfalls zu untersuchen.
+  Die Probenvorbereitung einschlieUntersuchung von Feststoffen -- Probenvorbehandlung, -vorbereitung und -aufarbeitung für chemische, biologische und physikalische Untersuchungen“, Ausgabe Juli 2009, zu erfolgen. Die Mischproben werden durch Siebung über ein Sieb mit einer Maschenweite von 2 Millimetern in einen Grob- und einen Feinanteil aufgeteilt. Der Feinanteil ist zu homogenisieren und für die Untersuchung methodenspezifisch zu zerkleinern und zu untersuchen. Bestehen Anhaltspunkte für einen erhöhten Schadstoffgehalt der Fraktion von mehr als 2 Millimetern, ist diese Fraktion nach Vorzerkleinerung und Homogenisierung ebenfalls zu untersuchen.
 - 1.3 :: Probenanalyse
   Die Bestimmung des pH-Werts und von Phosphat sowie von Cadmium, Chrom, Kupfer, Nickel, Blei, Zink, Quecksilber, polychlorierte Biphenyle und Benzo(a)pyren in Böden und Bodenmaterial ist nach den in der Tabelle 1 aufgeführten Analysemethoden auszuführen.
   Dabei sind hinsichtlich Mittelwertbildung und der Nachweis- und Bestimmungsgrenzen die Regelungen nach Nummer 2.3 zu beachten.
@@ -578,21 +578,21 @@ Anlage 2 - (zu § 32 Absatz 2 und 3)Probenuntersuchung
   Parameter
 - 2. :: Klärschlammproben
 - 2.1 :: Probennahme
-  Die Probennahme aus einem Klärschlamm ist nach DIN EN ISO 5667-13 �Wasserbeschaffenheit -- Probenahme -- Teil 13: Anleitung zur Probenahme von Schlämmen“, Ausgabe August 2011, durchzuführen. Die Probennahme aus einem Klärschlammgemisch und Klärschlammkompost hat nach DIN 19698-1 �Untersuchung von Feststoffen -- Probenahme von festen und stichfesten Materialien -- Teil 1: Anleitung für die segmentorientierte Entnahme von Proben aus Haufwerken“, Ausgabe Mai 2014, zu erfolgen.
+  Die Probennahme aus einem Klärschlamm ist nach DIN EN ISO 5667-13 Wasserbeschaffenheit -- Probenahme -- Teil 13: Anleitung zur Probenahme von Schlämmen“, Ausgabe August 2011, durchzuführen. Die Probennahme aus einem Klärschlammgemisch und Klärschlammkompost hat nach DIN 19698-1 Untersuchung von Feststoffen -- Probenahme von festen und stichfesten Materialien -- Teil 1: Anleitung für die segmentorientierte Entnahme von Proben aus Haufwerken“, Ausgabe Mai 2014, zu erfolgen.
 - 2.2 :: Probenvorbereitung
-  Die Probenvorbereitung ist nach DIN 19747 �Untersuchung von Feststoffen -- Probenvorbehandlung, -vorbereitung und -aufarbeitung für chemische, biologische und physikalische Untersuchungen“, Ausgabe Juli 2009, durchzuführen.
+  Die Probenvorbereitung ist nach DIN 19747 Untersuchung von Feststoffen -- Probenvorbehandlung, -vorbereitung und -aufarbeitung für chemische, biologische und physikalische Untersuchungen“, Ausgabe Juli 2009, durchzuführen.
   Die zu analysierende Probe ist unmittelbar vor der Entnahme einer Teilprobe zu mischen. Wenn die Gefahr einer Entmischung besteht, ist die Teilprobe während des Mischens zu entnehmen.
   Für jeden Analyseparameter, der aus der Trockenmasse zu bestimmen ist, ist eine Teilprobe zu entnehmen, die mindestens ausreicht, um vier parallele Analysen durchführen zu können. Die Gefriertrocknung einer zu analysierenden Probe ist so durchzuführen, dass Verdampfungsverluste bei den zu analysierenden Stoffen vermieden werden. Insbesondere ist darauf zu achten, dass die Probe während der Gefriertrocknung nicht antaut.
 - 2.3 :: Probenanalyse
   Beim Arbeiten mit frischen und gefriergetrockneten Proben sind die üblichen Sicherheitsregeln für das Arbeiten in mikrobiologischen Laboratorien, insbesondere nach der Verordnung über Sicherheit und Gesundheitsschutz bei Tätigkeiten mit biologischen Arbeitsstoffen (Biostoffverordnung -- BioStoffV), einzuhalten. Gegebenenfalls kann eine Teilmenge der frischen oder gefriergetrockneten Probe für die entsprechenden Analysen sterilisiert werden (z. B. durch 20-minütiges Erhitzen der Probe bei 121 Grad Celsius im Autoklaven). Es ist jedoch zu gewährleisten, dass durch die Sterilisation die Analyseergebnisse in keinem Fall beeinflusst werden.
-  Für jeden Untersuchungsparameter sind mindestens zwei parallele Untersuchungen durchzuführen; als Ergebnis ist das arithmetische Mittel der beiden Einzelwerte anzugeben. Die Mittelwertbildung ist jedoch nur zulässig, wenn die Differenz zwischen den beiden Einzelwerten die methodenübliche Wiederholbarkeit nicht überschreitet. Im Falle einer derartigen Überschreitung muss geprüft werden, welche Ursachen der überhöhten Differenz zugrunde liegen können und es muss eine dritte Analyse durchgeführt werden. Sofern die Prüfung keine eindeutigen Ursachen erbracht hat, ist als Endergebnis der mittlere der drei der Grö�Genauigkeit (Richtigkeit und Präzision) von Messverfahren und Messergebnissen“ mit folgenden Teilen zu beachten:
-  - -- :: DIN ISO 5725-1 �Allgemeine Grundlagen und Begriffe“, berichtigte Ausgabe September 1998,
-  - -- :: DIN ISO 5725-2 �Grundlegende Methode für Ermittlung der Wiederhol- und Vergleichpräzision eines vereinheitlichten Messverfahrens“, Ausgabe Dezember 2002,
-  - -- :: DIN ISO 5725-3 �Präzisionsmaße eines vereinheitlichten Messverfahrens unter Zwischenbedingungen“, Ausgabe Februar 2003,
-  - -- :: DIN ISO 5725-4 �Grundlegende Methoden für die Ermittlung der Richtigkeit eines vereinheitlichten Messverfahrens“, Ausgabe Januar 2003,
-  - -- :: DIN ISO 5725-5 �Alternative Methoden für die Ermittlung der Präzision eines vereinheitlichten Messverfahrens“, Ausgabe November 2002.
+  Für jeden Untersuchungsparameter sind mindestens zwei parallele Untersuchungen durchzuführen; als Ergebnis ist das arithmetische Mittel der beiden Einzelwerte anzugeben. Die Mittelwertbildung ist jedoch nur zulässig, wenn die Differenz zwischen den beiden Einzelwerten die methodenübliche Wiederholbarkeit nicht überschreitet. Im Falle einer derartigen Überschreitung muss geprüft werden, welche Ursachen der überhöhten Differenz zugrunde liegen können und es muss eine dritte Analyse durchgeführt werden. Sofern die Prüfung keine eindeutigen Ursachen erbracht hat, ist als Endergebnis der mittlere der drei der GröGenauigkeit (Richtigkeit und Präzision) von Messverfahren und Messergebnissen“ mit folgenden Teilen zu beachten:
+  - -- :: DIN ISO 5725-1 Allgemeine Grundlagen und Begriffe“, berichtigte Ausgabe September 1998,
+  - -- :: DIN ISO 5725-2 Grundlegende Methode für Ermittlung der Wiederhol- und Vergleichpräzision eines vereinheitlichten Messverfahrens“, Ausgabe Dezember 2002,
+  - -- :: DIN ISO 5725-3 Präzisionsmaße eines vereinheitlichten Messverfahrens unter Zwischenbedingungen“, Ausgabe Februar 2003,
+  - -- :: DIN ISO 5725-4 Grundlegende Methoden für die Ermittlung der Richtigkeit eines vereinheitlichten Messverfahrens“, Ausgabe Januar 2003,
+  - -- :: DIN ISO 5725-5 Alternative Methoden für die Ermittlung der Präzision eines vereinheitlichten Messverfahrens“, Ausgabe November 2002.
 
-  Für die Bestimmung des pH-Werts, des Trockenrückstands, des Glühverlusts, der Nährstoffe, der basisch wirksamen Bestandteile, der Schwermetalle und der organischen Schadstoffe ist eine der in Tabelle 2 aufgeführten Untersuchungsmethoden anzuwenden. Dabei muss die Bestimmungsgrenze eines gewählten Analyseverfahrens um mindestens einen Faktor von drei kleiner sein als der Grenzwert des entsprechenden Parameters. Die Ermittlung der Nachweis- und Bestimmungsgrenze erfolgt nach DIN 38402-60 �Deutsche Einheitsverfahren zur Wasser-, Abwasser- und Schlammuntersuchung -- Allgemeine Angaben (Gruppe A) -- Teil 60: Analytische Qualitätssicherung für die chemische und physikalisch-chemische Wasseruntersuchung (A 60)“, Ausgabe Dezember 2013.
+  Für die Bestimmung des pH-Werts, des Trockenrückstands, des Glühverlusts, der Nährstoffe, der basisch wirksamen Bestandteile, der Schwermetalle und der organischen Schadstoffe ist eine der in Tabelle 2 aufgeführten Untersuchungsmethoden anzuwenden. Dabei muss die Bestimmungsgrenze eines gewählten Analyseverfahrens um mindestens einen Faktor von drei kleiner sein als der Grenzwert des entsprechenden Parameters. Die Ermittlung der Nachweis- und Bestimmungsgrenze erfolgt nach DIN 38402-60 Deutsche Einheitsverfahren zur Wasser-, Abwasser- und Schlammuntersuchung -- Allgemeine Angaben (Gruppe A) -- Teil 60: Analytische Qualitätssicherung für die chemische und physikalisch-chemische Wasseruntersuchung (A 60)“, Ausgabe Dezember 2013.
   Gleichwertige Analysemethoden nach dem Stand der Technik sind mit Zustimmung der zuständigen Behörde zulässig. Untersuchungen nach § 32 Absatz 4 werden als gleichwertig anerkannt und sind auch ohne Zustimmung der zuständigen Behörde zulässig. Soweit weitere, in Tabelle 2 nicht genannte Parameter zu analysieren sind, legt die zuständige Behörde die Analysemethode fest.
   Der Nachweis, dass die geforderten Analysen ordnungsgemäß durchgeführt wurden, ist durch die vom Klärschlammerzeuger, Gemischhersteller oder Komposthersteller beauftragte Untersuchungsstelle zu erbringen und vom Klärschlammerzeuger, Gemischhersteller oder Komposthersteller vorzulegen.
   Zur Berechnung der 2,3,7,8-TCDD-Toxizitätsäquivalente (TEQ) werden die jeweiligen Massenkonzentrationen mit den Toxizitätsäquivalentfaktoren aus Tabelle 3 multipliziert und die Produkte addiert. Bei der Addition bleiben Einzelstoffkonzentrationen unterhalb der analytischen Nachweisgrenze unberücksichtigt; Einzelstoffkonzentrationen, die oberhalb der Nachweisgrenze, aber unterhalb der Bestimmungsgrenze liegen, gehen mit der Hälfte des Werts der Bestimmungsgrenze in die Addition ein.\\
@@ -819,7 +819,7 @@ Ich versichere, dass der Klärschlamm gemäß den vorstehenden Angaben nach Maß
   Klärschlammbeförderer\\
   (Name, Anschrift): . . . . .
   Amtliches Kennzeichen des Transportfahrzeugs, sofern der Transport auf der Straße erfolgt: . . . . .\\
-  . . . . . .                           �
+  . . . . . .                           
   |            \\ |   | \\                                      |
   | (Datum)       |   | (Unterschrift des Klärschlammerzeugers) |
 - 2.8 :: Bestätigung der Klärschlammanlieferung und der Klärschlammauf- oder -einbringung\\
@@ -857,7 +857,7 @@ Ich versichere, dass der Klärschlamm gemäß den vorstehenden Angaben nach Maß
   -  :: Klärschlammkompost
 
   mit einem Klärschlammanteil von . . . . . Prozent (das entspricht . . . . . Tonnen Klärschlamm Trockenmasse)\\
-  zur Verwertung             �
+  zur Verwertung             
    abgeben.
 - 1.3 :: Klärschlammnutzer (als Nutzer des Klärschlammgemischs oder Klärschlammkomposts)\\
   (Name, Anschrift): . . . . .
@@ -1090,7 +1090,7 @@ nach den vorstehenden Angaben nach Maßgabe der Klärschlammverordnung in der je
   (Name, Anschrift): . . . . .
   Heute habe ich vom Gemischhersteller oder Komposthersteller\\
   (Name, Anschrift): . . . . .
-  . . . . . . Kubikmeter/ . . . . . Tonnen                    �
+  . . . . . . Kubikmeter/ . . . . . Tonnen                    
   -  :: Klärschlammgemisch
   -  :: Klärschlammkompost
 

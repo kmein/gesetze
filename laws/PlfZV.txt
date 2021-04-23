@@ -12,8 +12,8 @@ Auf Grund des § 2 Absatz 2 des Netzausbaubeschleunigungsgesetzes Übertragungsn
 
 Die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen führt die Planfeststellungsverfahren nach Abschnitt 3 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz durch für
 
-- 1. :: die gemä�A1“ gekennzeichneten länderübergreifenden Höchstspannungsleitungen und
-- 2. :: die gemä�A2“ gekennzeichneten grenzüberschreitenden Höchstspannungsleitungen.
+- 1. :: die gemäA1“ gekennzeichneten länderübergreifenden Höchstspannungsleitungen und
+- 2. :: die gemäA2“ gekennzeichneten grenzüberschreitenden Höchstspannungsleitungen.
 
 
 § 2 - Inkrafttreten

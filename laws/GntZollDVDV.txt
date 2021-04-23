@@ -13,7 +13,7 @@ Inhaltsübersicht
 
 § 1 - Diplomstudium
 
-Das Diplomstudium �Gehobener nichttechnischer Zolldienst des Bundes“ an der Hochschule des Bundes für öffentliche Verwaltung (Hochschule) ist der Vorbereitungsdienst für den gehobenen nichttechnischen Zolldienst des Bundes.
+Das Diplomstudium Gehobener nichttechnischer Zolldienst des Bundes“ an der Hochschule des Bundes für öffentliche Verwaltung (Hochschule) ist der Vorbereitungsdienst für den gehobenen nichttechnischen Zolldienst des Bundes.
 
 § 2 - Ziele des Studiums
 
@@ -22,7 +22,7 @@ Das Studium vermittelt in enger Verbindung von Wissenschaft und Praxis die wisse
 § 3 - Dauer des Studiums, Laufbahnbefähigung, Diplom
 
 (1) Das Studium dauert in der Regel 36 Monate. Über eine Verkürzung oder Verlängerung des Vorbereitungsdienstes entscheiden die Einstellungsbehörden im Benehmen mit den Ausbildungsbehörden und der Hochschule.
-(2) Mit erfolgreichem Abschluss des Studiums wird der akademische Grad �Diplom-Finanzwirtin (FH)“ oder �Diplom-Finanzwirt (FH)“ verliehen.
+(2) Mit erfolgreichem Abschluss des Studiums wird der akademische Grad Diplom-Finanzwirtin (FH)“ oder Diplom-Finanzwirt (FH)“ verliehen.
 
 § 4 - Einstellungsbehörden, Ausbildungsbehörden, Dienstaufsicht
 
@@ -41,13 +41,13 @@ Das Studium vermittelt in enger Verbindung von Wissenschaft und Praxis die wisse
 § 6 - Bewertung der Leistungen
 
 (1) Die Leistungen der Studierenden werden wie folgt bewertet:
-�
+
 Prozentualer Anteil der erreichten Punktzahl an der erreichbaren Punktzahl
 Rangpunkte/\\
 Rangpunktzahl
 Note
 Notendefinition
-�
+
 1
 2
 3
@@ -604,7 +604,7 @@ Die Teilnahmerechte der Gleichstellungsbeauftragten sowie der Personalvertretung
 
 (3) Der Bescheid über die Laufbahnprüfung ist mit einer Rechtsbehelfsbelehrung zu versehen.
 (4) Eine Ausfertigung des Bescheides und des Abschlusszeugnisses ist der Einstellungsbehörde für die Personalakte zu übersenden.
-(5) Ist die Laufbahnprüfung bestanden, erhalten die Absolventinnen und Absolventen eine Diplomurkunde über die Verleihung des Diplomgrades �Diplom-Finanzwirtin (FH)“ oder �Diplom-Finanzwirt (FH)“.
+(5) Ist die Laufbahnprüfung bestanden, erhalten die Absolventinnen und Absolventen eine Diplomurkunde über die Verleihung des Diplomgrades Diplom-Finanzwirtin (FH)“ oder Diplom-Finanzwirt (FH)“.
 (6) Offensichtliche Unrichtigkeiten bei der Ermittlung oder Mitteilung des Prüfungsergebnisses werden durch das Prüfungsamt berichtigt. Offensichtlich unrichtige Abschlusszeugnisse hat die Absolventin oder der Absolvent zurückzugeben.
 
 § 48 - Wiederholung von Prüfungen

@@ -128,7 +128,7 @@ Anlage - (zu ¬ß 6)Ausbildungsrahmenplan f√ºr die Berufsausbildung zum Fahrzeugla
 
 \\
 
-†
+
 
 I.Berufliche Grundbildung
 
@@ -211,9 +211,9 @@ Kundenorientierung\\
 
 3*)
 
-†
 
-†
+
+
 
 6
 
@@ -226,9 +226,9 @@ Umgang mit Informations- und Kommunikationstechniken\\
 
 2*)
 
-†
 
-†
+
+
 
 7
 
@@ -247,9 +247,9 @@ Auftrags√ºbernahme, Planung, Vorbereitung und Organisation von Arbeitsaufgaben, 
 
 6*)
 
-†
 
-†
+
+
 
 8
 
@@ -262,11 +262,11 @@ Einrichten von Arbeitspl√§tzen\\
 - d) :: Leitern und Ger√ºste ausw√§hlen, auf Verwendbarkeit pr√ºfen sowie auf- und abbauen
 - e) :: Wasser- und Energieversorgung veranlassen, Sicherheitsma√ünahmen beim Umgang mit elektrischem Strom ergreifen
 
-†
+
 
 3*)
 
-†
+
 
 9
 
@@ -280,9 +280,9 @@ Bedienen und in Stand halten von Ger√§ten, Werkzeugen, Maschinen und Anlagen\\
 
 4
 
-†
 
-†
+
+
 
 10
 
@@ -297,9 +297,9 @@ Be- und Verarbeiten von Werk-, Hilfs- und Beschichtungsstoffen sowie von Bauteil
 
 8
 
-†
 
-†
+
+
 
 11
 
@@ -315,9 +315,9 @@ Pr√ºfen, Bewerten und Vorbereiten von Untergr√ºnden\\
 
 8
 
-†
 
-†
+
+
 
 12
 
@@ -334,9 +334,9 @@ Herstellen, Bearbeiten, Behandeln und Gestalten von Oberfl√§chen\\
 
 16
 
-†
 
-†
+
+
 
 13
 
@@ -349,11 +349,11 @@ Durchf√ºhren von qualit√§tssichernden Ma√ünahmen\\
 
 2*)
 
-†
 
-†
 
-†
+
+
+
 
 II. Berufliche Fachbildung
 
@@ -388,23 +388,23 @@ Kundenorientierung\\
 - b) :: Kundenw√ºnsche in die Auftragsausf√ºhrung einbeziehen und dokumentieren
 - c) :: fertiggestellte Arbeiten √ºbergeben
 
-†
+
 
 2*)
 
-†
 
-†
+
+
 
 - d) :: Kunden auf Instandsetzungsintervalle hinweisen, Instandhaltungsbedingungen erl√§utern
 - e) :: Kunden hinsichtlich technischer und wirtschaftlicher Durchf√ºhrbarkeit von Instandsetzungen beraten
 - f) :: Auswirkungen der Kundenzufriedenheit auf das Betriebsergebnis ber√ºcksichtigen
 
-†
 
-†
 
-†
+
+
+
 
 2*)
 
@@ -415,73 +415,73 @@ Umgang mit Informations- und Kommunikationstechniken\\
 
 - a) :: Informationen erfassen, aufbereiten, bewerten und anwenden
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 - b) :: Datensysteme nutzen
 
-†
+
 
 2*)
 
-†
 
-†
+
+
 
 - c) :: branchen√ºbliche Software nutzen
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 - d) :: fremdsprachliche Fachbegriffe auftragsbezogen anwenden
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 - e) :: technische und gestalterische Sachverhalte umsetzen
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 - f) :: Daten pflegen und archivieren
 
-†
 
-†
 
-†
+
+
+
 
 3*)
 
 - g) :: Kommunikations- und Informationssysteme nutzen
 
-†
 
-†
 
-†
 
-†
+
+
+
+
 
 3
 
@@ -498,13 +498,13 @@ Auftrags√ºbernahme, Planung, Vorbereitung und Organisation von Arbeitsaufgaben, 
 - h) :: Messungen durchf√ºhren
 - i) :: Materialien bereitstellen
 
-†
+
 
 3*)
 
-†
 
-†
+
+
 
 - k) :: Einsatz von Arbeitsmitteln unter Beachtung der Vorschriften planen und Sicherungsma√ünahmen anwenden
 - l) :: Ma√ünahmen zur Sicherstellung des Arbeitsablaufes ergreifen
@@ -512,11 +512,11 @@ Auftrags√ºbernahme, Planung, Vorbereitung und Organisation von Arbeitsaufgaben, 
 - n) :: Aufgaben im Team planen und umsetzen, Ergebnisse der Zusammenarbeit auswerten
 - o) :: Sachverhalte darstellen, Gespr√§che situationsgerecht f√ºhren
 
-†
 
-†
 
-†
+
+
+
 
 4*)
 
@@ -529,21 +529,21 @@ Einrichten von Arbeitspl√§tzen\\
 - b) :: Gefahrstoffe erkennen, Schutzma√ünahmen ergreifen, umweltgerechte Lagerung und Entsorgung veranlassen
 - c) :: Abfallstoffe lagern und Entsorgung veranlassen
 
-†
+
 
 2*)
 
-†
 
-†
+
+
 
 - d) :: Betriebssicherheit von Arbeitshilfen pr√ºfen und beurteilen, insbesondere von Arbeitsb√ºhnen
 
-†
 
-†
 
-†
+
+
+
 
 2
 
@@ -556,34 +556,34 @@ Bedienen und in Stand halten von Ger√§ten, Werkzeugen, Maschinen und Anlagen\\
 - b) :: Ger√§te, Maschinen und Anlagen warten
 - c) :: Ger√§te, Maschinen und Anlagen zur Untergrunderstellung und -vorbereitung sowie zur Reinigung und Entschichtung ausw√§hlen und handhaben, insbesondere Hochdruckreiniger und Strahlger√§te
 
-†
+
 
 2
 
-†
 
-†
+
+
 
 - d) :: Werkzeuge und Ger√§te f√ºr Unterbodenschutz und Hohlraumversiegelung ausw√§hlen und handhaben
 - e) :: Ger√§te und Anlagen zur Trocknung ausw√§hlen, einstellen und bedienen
 
-†
 
-†
+
+
 
 3
 
-†
+
 
 - f) :: Mess- und Pr√ºfger√§te ausw√§hlen, handhaben und in Stand halten
 - g) :: Ger√§te, Maschinen und Anlagen zur Herstellung und Gestaltung von Oberfl√§chen ausw√§hlen, einrichten und handhaben
 - h) :: Maschinen und Anlagen, insbesondere mit hydraulischer und pneumatischer Steuerung, einrichten und bedienen
 
-†
 
-†
 
-†
+
+
+
 
 8
 
@@ -596,21 +596,21 @@ Be- und Verarbeiten von Werk-, Hilfs- und Beschichtungsstoffen sowie von Bauteil
 - b) :: Metalle, H√∂lzer und Kunststoffe unter Einsatz von Maschinen formgebend be- und verarbeiten, Verbindungen herstellen und zur Beschichtung vorbereiten
 - c) :: Beschichtungsstoffe mischen und verarbeiten
 
-†
+
 
 5
 
-†
 
-†
+
+
 
 - d) :: Werk-, Hilfs- und Beschichtungsstoffe nach Zusammensetzung und Vertr√§glichkeit ausw√§hlen, zubereiten sowie be- und verarbeiten
 
-†
 
-†
 
-†
+
+
+
 
 4
 
@@ -626,35 +626,35 @@ Pr√ºfen, Bewerten und Vorbereiten von Untergr√ºnden\\
 - e) :: Beschriftungen und Folien entfernen
 - f) :: Korrosionsschutz durchf√ºhren, insbesondere f√ºr Schwei√ün√§hte, Hohlr√§ume und Unterb√∂den
 
-†
+
 
 3
 
-†
 
-†
+
+
 
 - g) :: Metallfl√§chen phosphatieren
 - h) :: Untergr√ºnde f√ºr die Befestigung von Bauteilen und Baugruppen pr√ºfen und beurteilen
 - i) :: Fahrzeuge und Fahrzeugteile ausbeulen, r√ºckformen und in Stand setzen
 
-†
 
-†
+
+
 
 3
 
-†
+
 
 - k) :: Karosserie- und Fahrzeugteile laminieren
 - l) :: Untergr√ºnde f√ºr nachfolgende Beschichtungen auf Haftfestigkeit und Tragf√§higkeit pr√ºfen und beurteilen
 - m) :: Untergrundsch√§den bewerten und dokumentieren
 
-†
 
-†
 
-†
+
+
+
 
 4
 
@@ -667,24 +667,24 @@ Herstellen, Bearbeiten, Behandeln und Gestalten von Oberfl√§chen\\
 - b) :: Korrosionsschutz sowie Grund- und F√ºllmaterial aufbringen
 - c) :: Fahrzeuge, Fahrzeugaufbauten und Bauteile in unterschiedlichen Beschichtungstechniken lackieren
 
-†
+
 
 3
 
-†
 
-†
+
+
 
 - d) :: Serienteile und Objekte beschichten
 - e) :: Oberfl√§chen polieren
 
-†
 
-†
+
+
 
 7
 
-†
+
 
 - f) :: Schadensdiagnosen erstellen und dokumentieren
 - g) :: Farbnuancen ermitteln und dokumentieren
@@ -692,11 +692,11 @@ Herstellen, Bearbeiten, Behandeln und Gestalten von Oberfl√§chen\\
 - i) :: Lackierungen aufbereiten, restaurieren, pflegen und konservieren
 - k) :: Spot- und Smart-repair-Systeme ausw√§hlen und anwenden
 
-†
 
-†
 
-†
+
+
+
 
 10
 
@@ -711,21 +711,21 @@ Ausf√ºhren von Demontage- und Montagearbeiten\\
 - d) :: elektrische und elektronische Bauteile, Baugruppen und Systeme aus- und einbauen und Funktionsf√§higkeit √ºberpr√ºfen
 - e) :: mechanische, pneumatische und hydraulische Fahrzeugbauteile aus- und einbauen und auf Funktionsf√§higkeit √ºberpr√ºfen
 
-†
 
-†
+
+
 
 8
 
-†
+
 
 - f) :: Fahrzeugverglasungen aus- und einbauen
 
-†
 
-†
 
-†
+
+
+
 
 2
 
@@ -737,34 +737,34 @@ Herstellen von Beschriftungen, Design- und Effektlackierungen\\
 - a) :: Schriften, Zeichen, Muster und Signets erstellen
 - b) :: √úbertragungshilfen und -medien anfertigen, auf vorbereitete Untergr√ºnde einpassen und √ºbertragen
 
-†
+
 
 2
 
-†
 
-†
+
+
 
 - c) :: Oberfl√§chen durch Muster, Materialien und werkzeugbedingte Strukturen gestalten
 - d) :: kommunikative und dekorative Gestaltung ausf√ºhren
 
-†
 
-†
+
+
 
 5
 
-†
+
 
 - e) :: Oberfl√§cheneffekte mit Beschichtungsstoffen herstellen, insbesondere Metalleffekt- und Speziallackierungen
 - f) :: Designlackierungen herstellen
 - g) :: Gestaltungsentw√ºrfe f√ºr mobile Werbetr√§ger erstellen und umsetzen
 
-†
 
-†
 
-†
+
+
+
 
 10
 
@@ -777,22 +777,22 @@ Durchf√ºhren von qualit√§tssichernden Ma√ünahmen\\
 - b) :: zur Verbesserung der Arbeit im eigenen Arbeitsbereich beitragen
 - c) :: Arbeits- und Zwischenergebnisse kontrollieren, bewerten und dokumentieren
 
-†
+
 
 2*)
 
-†
 
-†
+
+
 
 - d) :: Mess- und Pr√ºfergebnisse dokumentieren, auswerten und zur Qualit√§tsverbesserung in die Arbeitsabl√§ufe einbeziehen
 - e) :: Fahrzeuge zur √úbergabe vorbereiten
 
-†
 
-†
 
-†
+
+
+
 
 3*)
 

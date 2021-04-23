@@ -7,7 +7,7 @@ Ausfertigungsdatum: 28.12.1992
 InhaltsÃ¼bersicht
 
 Abschnitt 1
- 
+
 Allgemeine Vorschriften
 Â§ 1
 Anwendungsbereich
@@ -24,14 +24,14 @@ Anforderungen an Transportmittel und -behÃ¤ltnisse
 Â§ 7
 ZustÃ¤ndigkeit, allgemeiner Genehmigungsgrundsatz
 Abschnitt 2
- 
+
 Innergemeinschaftliches Verbringen
- 
- 
+
+
 Unterabschnitt 1
- 
- 
- 
+
+
+
 Anforderungen an das innergemeinschaftliche Verbringen
 Â§ 8
 Genehmigungsfreies Verbringen
@@ -67,12 +67,12 @@ Bekanntgabe der Zulassungen
 Ruhen der Zulassung
 Â§ 18
 Kennzeichnung
- 
- 
+
+
 Unterabschnitt 2
- 
- 
- 
+
+
+
 Ãœberwachung des innergemeinschaftlichen Verbringens
 Â§ 19
 Anzeige der Ankunft
@@ -81,14 +81,14 @@ MaÃŸnahmen bei Gefahr einer Seuchenverbreitung
 Â§ 21
 Sonstige MaÃŸnahmen
 Abschnitt 3
- 
+
 Einfuhr
- 
- 
+
+
 Unterabschnitt 1
- 
- 
- 
+
+
+
 Anforderungen an die Einfuhr
 Â§ 22
 Genehmigungsfreie Einfuhr
@@ -108,12 +108,12 @@ Einfuhr Ã¼ber bestimmte Ãœberwachungsstellen
 Einfuhruntersuchung
 Â§ 28
 (weggefallen)
- 
- 
+
+
 Unterabschnitt 2
- 
- 
- 
+
+
+
 MaÃŸnahmen bei der Einfuhr
 Â§ 29
 DokumentenprÃ¼fung, NÃ¤mlichkeitskontrolle, physische Untersuchung
@@ -121,12 +121,12 @@ DokumentenprÃ¼fung, NÃ¤mlichkeitskontrolle, physische Untersuchung
 Bescheinigungen
 Â§ 31
 ZurÃ¼ckweisung
- 
- 
+
+
 Unterabschnitt 3
- 
- 
- 
+
+
+
 Vorschriften Ã¼ber eingefÃ¼hrte Tiere und Waren
 Â§ 32
 Allgemeine Bestimmung
@@ -143,19 +143,19 @@ EingefÃ¼hrte VÃ¶gel
 Â§ 36a
 Verbringen eingefÃ¼hrter Waren in Lager in Freizonen, Freilager und Zollager
 Abschnitt 4
- 
+
 Durchfuhr
 Â§ 36b
 Durchfuhrverbot fÃ¼r bestimmte Waren
 Â§ 37
 Anforderungen an die Durchfuhr
 Abschnitt 4a
- 
+
 Ausfuhr
 Â§ 37a
 Verbote und BeschrÃ¤nkungen
 Abschnitt 5
- 
+
 Ausnahmen
 Â§ 38
 Tiere
@@ -164,14 +164,14 @@ Waren
 Â§ 39a
 Anwendung von Unionsrecht
 Abschnitt 6
- 
+
 Befugnisse der BehÃ¶rde, Ordnungswidrigkeiten
 Â§ 40
 Befugnisse der BehÃ¶rde
 Â§ 41
 Ordnungswidrigkeiten
 Abschnitt 7
- 
+
 Schlussvorschriften
 Â§ 42
 Ãœbergangsvorschriften
@@ -918,13 +918,13 @@ Anforderungen
 2
 I.
 Tiere
- 
+
 1.
 Klauentiere, Einhufer, Hasen und Kaninchen
 Transportmittel und -behÃ¤ltnisse mÃ¼ssen so beschaffen sein, dass tierische AbgÃ¤nge, Einstreu oder Futter wÃ¤hrend der BefÃ¶rderung nicht heraussickern oder herausfallen kÃ¶nnen.
 2.
 GeflÃ¼gel
- 
+
 2.1
 GeflÃ¼gel, ausgenommen EintagskÃ¼ken
 Transportmittel und -behÃ¤ltnisse mÃ¼ssen sauber, desinfiziert und so beschaffen sein, dass tierische AbgÃ¤nge und Federn wÃ¤hrend der BefÃ¶rderung nur in unvermeidlichem MaÃŸe herausfallen kÃ¶nnen.
@@ -932,7 +932,7 @@ Transportmittel und -behÃ¤ltnisse mÃ¼ssen sauber, desinfiziert und so beschaffen
 EintagskÃ¼ken
 1.
 TransportbehÃ¤ltnisse mÃ¼ssen
- 
+
 a)
 erstmalig benutzt und sauber sein oder
 b)
@@ -950,7 +950,7 @@ Bienen
 Bienenwohnungen oder andere TransportbehÃ¤ltnisse mÃ¼ssen bienendicht verschlossen sein.
 II.
 Waren
- 
+
 1.
 Samen und Embryonen von Rindern
 TransportbehÃ¤ltnisse mÃ¼ssen sauber, desinfiziert und so beschaffen sein, dass sie verschlieÃŸbar sind.
@@ -961,10 +961,10 @@ TransportbehÃ¤ltnisse mÃ¼ssen sauber, desinfiziert und so beschaffen sein, dass 
 Bruteier
 1.
 TransportbehÃ¤ltnisse mÃ¼ssen
- 
+
 a)
 erstmalig benutzt und sauber sein oder
- 
+
 b)
 aus Plastikmaterial, Metall oder anderem entsprechend desinfizierbarem Material bestehen sowie sauber und desinfiziert sein.
 2.
@@ -994,9 +994,9 @@ I.
 
 Tiere
 
- 
 
- 
+
+
 
 1.
 
@@ -1022,9 +1022,9 @@ Artikel 10 der Richtlinie 90/425/EWG in der jeweils geltenden Fassung
 
 Schafe und Ziegen
 
- 
 
- 
+
+
 
 3.1
 
@@ -1070,9 +1070,9 @@ Artikel 10 der Richtlinie 90/425/EWG in der jeweils geltenden Fassung
 
 Einhufer
 
- 
 
- 
+
+
 
 5.1
 
@@ -1143,9 +1143,9 @@ Artikel 10 der Richtlinie 90/425/EWG in der jeweils geltenden Fassung
 
 VÃ¶gel
 
- 
 
- 
+
+
 
 10.1
 
@@ -1217,9 +1217,9 @@ Artikel 10 der Richtlinie 90/425/EWG in der jeweils geltenden Fassung
 
 Fische
 
- 
 
- 
+
+
 
 11.1
 
@@ -1295,15 +1295,15 @@ II.
 
 Waren
 
- 
 
- 
+
+
 
 1.
 
 Frisches Fleisch von Huftieren, GeflÃ¼gel, Kaninchen, Farmwild oder erlegtem Schalen-, Feder- oder Haarwild sowie daraus hergestellte Fleischerzeugnisse und -zubereitungen
 
- 
+
 
 Artikel 9 der Richtlinie 89/662/EWG in der jeweils geltenden Fassung,
 
@@ -1381,9 +1381,9 @@ Artikel 10 der Richtlinie 90/425/EWG in der jeweils geltenden Fassung
 
 Bruteier
 
- 
 
- 
+
+
 
 10.1
 
@@ -1409,7 +1409,7 @@ Artikel 10 der Richtlinie 90/425/EWG in der jeweils geltenden Fassung
 
 Rohmilch und Milcherzeugnisse
 
- 
+
 
 Artikel 9 der Richtlinie 89/662/EWG in der jeweils geltenden Fassung,
 
@@ -1490,32 +1490,32 @@ Bestimmungen Ã¼ber das Betreiben
 3
 I.
 Tiere
- 
- 
+
+
 1.
 Affen und Halbaffen
 Anforderungen nach Anhang C Nr. 1 der Richtlinie 92/65/EWG in der jeweils geltenden Fassung
 Bestimmungen nach Anhang C Nr. 2 bis 4 und 6 der Richtlinie 92/65/EWG in der jeweils geltenden Fassung
 2.
 GeflÃ¼gel
- 
- 
+
+
 2.1
 Nutz- und ZuchtgeflÃ¼gel, einschlieÃŸlich EintagskÃ¼ken, in Sendungen von mehr als 19 Tieren, ausgenommen GeflÃ¼gel zur Aufstockung von WildbestÃ¤nden
 Anforderungen nach Anhang II Kapitel I der Richtlinie 90/539/EWG in der jeweils geltenden Fassung
 Bestimmungen nach Anhang II Kapitel II Buchstabe A und Anhang III der Richtlinie 90/539/EWG in der jeweils geltenden Fassung
 II.
 Erzeugnisse
- 
- 
+
+
 1.
 Samen aus Besamungsstationen
- 
- 
+
+
 1.1
 Samen von Rindern, der nach dem 31. Dezember 1989 aufbereitet worden ist und
- 
- 
+
+
 1.1.1
 der vor dem 31. Dezember 2004 gewonnen worden ist
 Anforderungen nach Anhang A Kapitel I und II Buchstabe e der Richtlinie 88/407/EWG in der bis zum 1. Juli 2004 geltenden Fassung
@@ -1534,8 +1534,8 @@ Anforderungen nach Anhang D Kapitel I Teil I Nummer 1 der Richtlinie 92/65/EWG i
 Bestimmungen nach Anhang D Kapitel I Teil II Nummer 1, Kapitel II und III Teil I der Richtlinie 92/65/EWG in der jeweils geltenden Fassung
 2.
 Samen aus Samendepots
- 
- 
+
+
 2.1
 Samen von Rindern
 Anforderungen nach Anhang A Kapitel I Nr. 2 der Richtlinie 88/407/EWG in der jeweils geltenden Fassung
@@ -1546,16 +1546,16 @@ Anforderungen nach Anhang D Kapitel I Teil I Nummer 2 der Richtlinie 92/65/EWG i
 Bestimmungen nach Anhang D Kapitel I Teil II Nummer 2 und Kapitel III Teil I der Richtlinie 92/65/EWG in der jeweils geltenden Fassung
 3.
 Embryonen und Eizellen
- 
- 
+
+
 3.1
 Embryonen und Eizellen von Rindern, die nach dem 31. Dezember 1990 aufbereitet worden sind
 Anforderungen nach Anhang A Kapitel I und II Nr. 2 der Richtlinie 98/556/EWG in der jeweils geltenden Fassung
 Bestimmungen nach Anhang A Kapitel II Nr. 1 und 3 sowie des Anhangs B der Richtlinie 89/556/EWG in der jeweils geltenden Fassung
 3.2
 Embryonen und Eizellen von Pferden, Schweinen, Schafen und Ziegen
- 
- 
+
+
 3.2.1
 aus Embryo-Entnahmeeinheiten
 Anforderungen nach Anhang D Kapitel I Teil III Nummer 1 der Richtlinie 92/65/EWG in der jeweils geltenden Fassung
@@ -1577,8 +1577,8 @@ Bestimmungen Ã¼ber das Betreiben
 3
 1.
 Viehhandelsunternehmen, das Tiere gewerbsmÃ¤ÃŸig zum Zwecke des innergemeinschaftlichen Verbringens unmittelbar oder Ã¼ber Dritte kauft und innerhalb von 30 Tagen nach dem Kauf wieder verkauft oder in eine fremde, zugelassene Einrichtung umsetzt
- 
- 
+
+
 1.1
 fÃ¼r Rinder und Schweine
 Anforderungen nach Artikel 13 Abs. 2 Buchstabe a bis c der Richtlinie 64/432/EWG in der jeweils geltenden Fassung
@@ -1589,8 +1589,8 @@ Anforderungen nach Artikel 8b Abs. 2 Buchstabe a bis c der Richtlinie 91/68/EWG 
 Bestimmungen nach Artikel 8b Abs. 1 der Richtlinie 91/68/EWG in der jeweils geltenden Fassung
 2.
 HÃ¤ndlerstall
- 
- 
+
+
 2.1
 fÃ¼r Rinder und Schweine
 Anforderungen nach Artikel 13 Abs. 2 Buchstabe a bis c der Richtlinie 64/432/EWG in der jeweils geltenden Fassung
@@ -1601,8 +1601,8 @@ Anforderungen nach Artikel 8b Abs. 2 Buchstabe a bis c der Richtlinie 91/68/EWG 
 Bestimmungen nach Artikel 8b Abs. 2 Buchstabe d der Richtlinie 91/68/EWG in der jeweils geltenden Fassung
 3.
 Sammelstelle
- 
- 
+
+
 3.1
 fÃ¼r Rinder, Schweine und Einhufer
 Anforderungen nach Artikel 11 Abs. 1 Buchstabe a, b und d der Richtlinie 64/432/EWG in der jeweils geltenden Fassung
@@ -1628,13 +1628,13 @@ Kennzeichnung
 2
 I.
 Tiere
- 
+
 1.
 Wildklauentiere
 Sie mÃ¼ssen so gekennzeichnet sein, dass der Betrieb, aus dem die Tiere stammen oder in dem sie sich aufgehalten haben, festgestellt werden kann.
 2.
 Einhufer
- 
+
 2.1
 eingetragene Einhufer
 Kennzeichnung des einzelnen Tieres und Dokument zu dessen Identifizierung nach dem Anhang der Entscheidung 93/623/EWG der Kommission vom 20. Oktober 1993 Ã¼ber das Dokument zur Identifizierung eingetragener Equiden (Equidenpass) (ABl. EG Nr. L 298 S. 45) in der jeweils geltenden Fassung
@@ -1646,7 +1646,7 @@ Hunde, Katzen und Frettchen
 Dokument zur Identifizierung des einzelnen Tieres und dessen Kennzeichnung nach Artikel 6 der Verordnung (EU) Nr. 576/2013 in der jeweils geltenden Fassung
 4.
 GeflÃ¼gel
- 
+
 4.1
 Nutz- und ZuchtgeflÃ¼gel in Sendungen von mehr als 19 Tieren
 Kennzeichnung der TransportbehÃ¤ltnisse mit der VeterinÃ¤rkontrollnummer des Herkunftsbetriebes
@@ -1669,7 +1669,7 @@ Fische
 Kennzeichnung der TransportbehÃ¤ltnisse mit dem Namen oder der VeterinÃ¤rkontrollnummer des Herkunftsbetriebes
 II.
 Erzeugnisse
- 
+
 1.
 Embryonen von Rindern, die nach dem 31. Dezember 1990 aufbereitet worden sind
 Kennzeichnung des BehÃ¤ltnisses mit den folgenden Angaben und in der nachstehenden Reihenfolge: vom Betrieb vergebene fortlaufende Produktionsnummer, Rasse der Kuh nach dem SchlÃ¼ssel der Anlage 6 der ViehverkehrsVerordnung, Ohrmarkennummer der Kuh nach Â§ 24d Abs. 4 Satz 1 der Viehverkehrsverordnung, Rasse des Bullen nach dem SchlÃ¼ssel der Anlage 6 der Viehverkehrsverordnung, Herdbuchnummer des Bullen, VeterinÃ¤rkontrollnummer des Betriebes, aus dem die Embryonen stammen, nach Â§ 16 Satz 3, Entnahmedatum (Angaben in der Reihenfolge Jahr, Monat, Tag), Anzahl der Embryonen im BehÃ¤ltnis, Art der Gewinnung oder Erzeugung (Angabe, ob in vivo gewonnen (VIV), in vitro erzeugt (IVF) oder mikromanipuliert verbunden mit Penetration der Zona pellucida (MME)) und ggf. zusÃ¤tzliche Angaben in alphanumerischem (A) und numerischem (n) Format (nnnnn nn AA nnnnnnnnnnnn nn nnnnnnnn DE-ETRnnn-EWG nnnnnn n AAA)
@@ -1696,20 +1696,20 @@ Bescheinigung, Rechtsgrundlagen zur Festlegung von Bescheinigungen
 3
 I.
 Tiere
- 
- 
+
+
 1.
 Huftiere
 Artikel 3 der Richtlinie 2004/68/EG des Rates vom 26. April 2004 zur Festlegung der VeterinÃ¤rbedingungen fÃ¼r die Einfuhr und die Durchfuhr bestimmter lebender Huftiere in bzw. durch die Gemeinschaft, zur Ã„nderung der Richtlinien 90/426/EWG und 92/65/EWG und zur Aufhebung der Richtlinie 72/462/EWG (ABl. EU Nr. L 139 S. 320, Nr. L 226 S. 128) in der jeweils geltenden Fassung
 Artikel 6 Abs. 1 und 3, Artikel 8, 9, 10, 13 Abs. 1 und Artikel 17 der Richtlinie 2004/68/EG in der jeweils geltenden Fassung, Artikel 9 Abs. 1 Buchstabe c der Richtlinie 91/496/EWG in der jeweils geltenden Fassung
 2.
 (weggefallen)
- 
- 
+
+
 3.
 Einhufer
- 
- 
+
+
 3.1
 eingetragene Einhufer
 Artikel 12 und 13 der Richtlinie 90/426/EWG in der jeweils geltenden Fassung
@@ -1752,8 +1752,8 @@ Artikel 17 Abs. 2 Buchstabe a und Abs. 3 der Richtlinie 92/65/EWG in der jeweils
 Artikel 17 Abs. 2 Buchstabe b und Abs. 3, Artikel 18 Abs. 1 und Artikel 19 der Richtlinie 92/65/EWG in der jeweils geltenden Fassung, Artikel 9 Abs. 1 Buchstabe c der Richtlinie 91/496/EWG in der jeweils geltenden Fassung
 II.
 Waren
- 
- 
+
+
 1.
 Frisches Fleisch von Huftieren, GeflÃ¼gel, Kaninchen, Farmwild oder erlegtem Schalen-, Feder- oder Haarwild sowie daraus hergestellte Fleischerzeugnisse und -zubereitungen
 Artikel 8 Nr. 1 und 5 der Richtlinie 2002/99/EG in der jeweils geltenden Fassung
@@ -1815,8 +1815,8 @@ Zeitraum
 Huftiere
 Maul- und Klauenseuche, Rinderpest
 12 Monate
- 
- 
+
+
 Stomatitis vesicularis specifica
 6 Monate
 2.
@@ -1831,8 +1831,8 @@ VesikulÃ¤re Schweinekrankheit
 24 Monate
 4.
 Rinder
- 
- 
+
+
 4.1
 sÃ¤mtliche
 Lumpy-skin
@@ -1863,7 +1863,7 @@ Rechtsgrundlagen fÃ¼r Einfuhrverbote und -beschrÃ¤nkungen
 2
 I.
 Tiere
- 
+
 1.
 Huftiere
 Artikel 11 Abs. 4 und Artikel 12 Abs. 4 der Richtlinie 2004/68/EG in der jeweils geltenden Fassung
@@ -1878,7 +1878,7 @@ Tiere nach den Nummern 1 bis 3 sowie sonstige Tiere
 Artikel 18 der Richtlinie 91/496/EWG in der jeweils geltenden Fassung
 II.
 Waren
- 
+
 1.
 Embryonen von Rindern, die nach dem 31. Dezember 1990 aufbereitet worden sind
 Artikel 15 der Richtlinie 89/556/EWG in der jeweils geltenden Fassung
@@ -1927,7 +1927,7 @@ Art und Weise der Kontrolle
 2
 I.
 NÃ¤mlichkeitskontrolle
- 
+
 1.
 Klauentiere und Einhufer in Sendungen von nicht mehr als 10 Tieren
 Vergleich der Kennzeichnung jedes Tieres mit den Angaben der die Tiere begleitenden Bescheinigung
@@ -1953,13 +1953,13 @@ Sonstige Tiere
 Vergleich der Tierart und der Kennzeichnung der Tiere oder der TransportbehÃ¤ltnisse mit den Angaben der die Tiere begleitenden Bescheinigung
 II.
 Physische Untersuchung
- 
+
 1.
 Klauentiere und Einhufer
 Nach Entladen aller Tiere aus dem Transportmittel unter Aufsicht des amtlichen Tierarztes Untersuchung der Tiere und Probenahme nach Anhang II der Entscheidung 97/794/EG der Kommission vom 12. November 1997 mit DurchfÃ¼hrungsbestimmungen zur Richtlinie 91/496/EWG des Rates hinsichtlich der VeterinÃ¤rkontrollen fÃ¼r aus DrittlÃ¤ndern einzufÃ¼hrende lebende Tiere (ABl. EG Nr. L 323 S. 31) in der jeweils geltenden Fassung
 1.1
 Nutz- und Zuchttiere, ausgenommen Zoo- und Zirkustiere
- 
+
 1.1.1
 Sendungen von weniger als 10 Tieren
 Untersuchung jedes Tieres
@@ -1968,7 +1968,7 @@ Sendungen von 10 und mehr Tieren
 Untersuchung von mindestens 10% der Tiere, jedoch von mindestens 10 fÃ¼r die Sendung reprÃ¤sentativen Tieren
 1.2
 Schlachttiere
- 
+
 1.2.1
 Sendungen von weniger als 5 Tieren
 Untersuchung jedes Tieres

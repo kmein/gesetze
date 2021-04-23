@@ -206,22 +206,22 @@ Lesen und Anwenden von technischen Unterlagen sowie Einsetzen und Handhaben von 
 
 3*)
 
-†
 
-†
 
-†
+
+
+
 
 - e) :: Maschinen, Anlagen und Ger√§te f√ºr formgebende und -ver√§ndernde Verfahren, insbesondere rotierende Instrumente, √ñfen, Gu√ümaschinen, galvanotechnische B√§der, L√∂t- und Schwei√üger√§te, einstellen, programmieren und handhaben
 - f) :: St√∂rungen an Me√üger√§ten, Bearbeitungsmaschinen und technischen Einrichtungen feststellen und Ma√ünahmen zur St√∂rungsbeseitigung ergreifen
 
-†
+
 
 3*)
 
-†
 
-†
+
+
 
 6
 
@@ -237,21 +237,21 @@ Beurteilen und Einsetzen von Werk- und Hilfsstoffen\\
 
 3*)
 
-†
 
-†
 
-†
+
+
+
 
 - g) :: Oberfl√§chen durch elektrochemische Verfahren bearbeiten
 - h) :: Oberfl√§chenverbundsysteme, insbesondere durch Silanisieren, herstellen
 - i) :: Gef√ºgeeigenschaften von Werkstoffen, insbesondere durch Rekristallisieren, Homogenisieren, Verg√ºten und Tempern, √§ndern
 
-†
 
-†
 
-†
+
+
+
 
 3*)
 
@@ -264,24 +264,24 @@ Qualit√§tsmanagement\\
 - b) :: Fertigungsschritte, insbesondere Modell, Bi√ü, Zustand und eingestellte Werte des Kaubewegungssimulators, beurteilen und dokumentieren
 - c) :: Produktqualit√§t, insbesondere Zahnform, -farbe und -stellung, Oberfl√§che, Sauberkeit und Hygiene, beurteilen und dokumentieren
 
-†
+
 
 3*)
 
-†
 
-†
+
+
 
 - d) :: funktionelle R√§nder, Materialst√§rken und Pa√ügenauigkeit beurteilen und dokumentieren
 - e) :: Qualit√§tsabweichungen feststellen sowie Fehlerursachen aufzeigen und beseitigen
 
-†
 
-†
+
+
 
 3*)
 
-†
+
 
 8
 
@@ -295,21 +295,21 @@ Erstellen von zahntechnischen Planungen\\
 
 2*)
 
-†
 
-†
 
-†
+
+
+
 
 - e) :: Planungsmodelle und -skizzen anfertigen
 - f) :: Auftraggeber √ºber technische M√∂glichkeiten der Werkst√ºckkonstruktion beraten
 - g) :: Auftraggeber √ºber die Biokompatibilit√§t der Werkstoffe informieren und Alternativen aufzeigen
 
-†
 
-†
 
-†
+
+
+
 
 3*)
 
@@ -325,11 +325,11 @@ Erstellen von Arbeitsunterlagen nach Abformungen\\
 
 9
 
-†
 
-†
 
-†
+
+
+
 
 10
 
@@ -342,22 +342,22 @@ Anfertigen von Bi√üregistrierhilfen und Umsetzen in Kieferbewegungssimulatoren\\
 
 7
 
-†
 
-†
 
-†
+
+
+
 
 - d) :: Modelle nach individuellen Vorgaben lagerichtig in Bewegungssimulationsger√§te √ºbertragen
 - e) :: Bewegungssimulationsger√§te nach Me√üdaten einstellen
 
-†
 
-†
+
+
 
 3
 
-†
+
 
 11
 
@@ -372,42 +372,42 @@ Herstellen von partiellem Zahnersatz\\
 
 12
 
-†
 
-†
 
-†
+
+
+
 
 - f) :: Restgebi√ü in bezug auf Basisgestaltung und Plazierung retentiver und abst√ºtzender Elemente analysieren
 - g) :: vorgesehene Halte- und St√ºtzelemente, insbesondere Klammern, Doppelkronen und Geschiebe, funktionsorientiert beurteilen
 
-†
+
 
 8
 
-†
 
-†
+
+
 
 - h) :: Einst√ºckgu√üprothese unter Ber√ºcksichtigung von Gewebebelastung, Statik, Werkstoff, Phonetik, √Ñsthetik und Parodontalhygiene konstruieren
 - i) :: Ger√ºst f√ºr Einst√ºckgu√üprothese mit integrierten Halte- und St√ºtzelementen herstellen, insbesondere durch Duplizieren des Hauptmodells sowie Modellieren, Einbetten und Gie√üen des Ger√ºstes
 - k) :: Metallbasen f√ºr totale Prothesen konstruieren und herstellen
 
-†
 
-†
+
+
 
 9
 
-†
+
 
 - l) :: Ger√ºst f√ºr Einst√ºckgu√üprothese ausarbeiten und Passungen herstellen
 
-†
 
-†
 
-†
+
+
+
 
 5
 
@@ -424,22 +424,22 @@ Herstellen von totalem Zahnersatz\\
 
 16
 
-†
 
-†
 
-†
+
+
+
 
 - f) :: Z√§hne nach Funktion und √Ñsthetik des Ober- und Unterkiefers systembezogen in Wachs aufstellen
 - g) :: Prothesen reokkludieren und Funktionsst√∂rungen durch selektives Einschleifen korrigieren
 
-†
+
 
 8
 
-†
 
-†
+
+
 
 13
 
@@ -452,11 +452,11 @@ Herstellen von kieferorthop√§dischen Ger√§ten\\
 - d) :: Dehnplatten und Aktivatoren herstellen
 - e) :: kieferorthop√§dische Ger√§te reparieren, nachtr√§glich erweitern und unterf√ºttern
 
-†
 
-†
 
-†
+
+
+
 
 6
 
@@ -467,13 +467,13 @@ Herstellen von festsitzendem Zahnersatz\\
 
 - a) :: Kaufl√§chen und weitere funktionelle Zahnfl√§chen unter Ber√ºcksichtigung von Gegenzahnbeziehungen aufbauen und selektiv einschleifen
 
-†
+
 
 4
 
-†
 
-†
+
+
 
 - b) :: Arbeitsunterlagen beurteilen
 - c) :: Pr√§parationsart erkennen sowie Pr√§parationsgrenze freilegen und kennzeichnen
@@ -487,31 +487,31 @@ Herstellen von festsitzendem Zahnersatz\\
 - l) :: Voll- und Verblendkronen funktionsgerecht herstellen
 - m) :: Wurzelkappen und Stiftaufbauten herstellen
 
-†
 
-†
+
+
 
 11
 
-†
+
 
 - n) :: mehrgliedrige Br√ºcken funktionsgerecht herstellen
 
-†
 
-†
 
-†
+
+
+
 
 10
 
 - o) :: Teilkronen und indirekte F√ºllungen, insbesondere Inlays und Onlays, aus unterschiedlichen Werkstoffen funktionsgerecht herstellen
 
-†
 
-†
 
-†
+
+
+
 
 5
 
@@ -526,11 +526,11 @@ Verarbeiten von zahnfarbenen Werkstoffen\\
 - d) :: Verblendungen zum Erzielen vorgegebener Farbwirkungen und Lichteffekte gestalten
 - e) :: Verblendungen anatomisch anpassen und Funktionsfl√§chen selektiv einschleifen
 
-†
 
-†
 
-†
+
+
+
 
 7
 
@@ -541,11 +541,11 @@ Verarbeiten von zahnfarbenen Werkstoffen\\
 - k) :: Verblendungen durch Bemalen patientengerecht anpassen
 - l) :: Mantelkronen aus Einstoffkomponenten herstellen
 
-†
 
-†
 
-†
+
+
+
 
 15
 
@@ -558,11 +558,11 @@ Einarbeiten von konfektionierten Verbindungselementen; Herstellen von individuel
 - b) :: konfektionierte Geschiebe, Anker und Stege nach Funktion, Material und Abmessung ausw√§hlen
 - c) :: konfektionierte Verbindungselemente nach Einschubrichtung, Bi√üsituation, Statik und harmonischer Beziehung zum Restgebi√ü einmodellieren
 
-†
 
-†
 
-†
+
+
+
 
 5
 
@@ -571,11 +571,11 @@ Einarbeiten von konfektionierten Verbindungselementen; Herstellen von individuel
 - f) :: Verbindungselemente durch L√∂ten, Angie√üen und Kleben einarbeiten
 - g) :: Funktion, Abzugskr√§fte, Handhabung, Stabilit√§t und Gegenzahnbeziehung der Verbindungselemente pr√ºfen und dokumentieren
 
-†
 
-†
 
-†
+
+
+
 
 15
 
@@ -588,11 +588,11 @@ Herstellen von therapeutischen Ger√§ten\\
 - b) :: Wundverschlu√üplatten herstellen
 - c) :: Schienen, Bi√üf√ºhrungsplatten und Aufbi√übehelfe herstellen
 
-†
 
-†
 
-†
+
+
+
 
 4
 

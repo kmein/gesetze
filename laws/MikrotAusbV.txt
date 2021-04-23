@@ -186,10 +186,10 @@ Anwenden technischer Unterlagen (§ 3 Nr. 5)
 a)
 Betriebs- und Gebrauchsanleitungen, Montage- und Wartungspläne, Zeichnungen, Fließbilder und Schaltungsunterlagen in deutscher und englischer Sprache lesen und anwenden
 4
-�
+
 b)
 Informationsquellen, insbesondere Dokumentationen, Handbücher, Fachberichte und Firmenunterlagen, in deutscher und englischer Sprache lesen und auswerten
-�
+
 4
 c)
 berufsbezogene nationale und europäische Vorschriften sowie technische Regelwerke lesen, auswerten und anwenden
@@ -198,7 +198,7 @@ Planen und Organisieren der Arbeit (§ 3 Nr. 6)
 a)
 Arbeitsplatz unter Berücksichtigung betrieblicher Vorgaben und ergonomischer Regeln einrichten
 6
-�
+
 b)
 Materialien, Ersatzteile, Werkzeuge sowie Betriebsmittel auswählen, lagern, disponieren und bereitstellen
 c)
@@ -207,7 +207,7 @@ d)
 Arbeitsschritte festlegen und erforderliche Abwicklungszeiten einschätzen
 e)
 Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher und terminlicher Vorgaben planen, bei Abweichungen von der Planung Prioritäten setzen
-�
+
 6
 f)
 Probleme analysieren und als Aufgabe definieren, Lösungsalternativen entwickeln und beurteilen
@@ -222,10 +222,10 @@ Dokumentieren der Arbeiten, Bedienen von Datenverarbeitungsanlagen, Datenschutz(
 a)
 Standardsoftware, insbesondere Textverarbeitungs-, Tabellenkalkulations-, Grafik- und Planungssoftware, anwenden
 4
-�
+
 b)
 Statistiken führen und interpretieren
-�
+
 4
 c)
 Fertigungsdaten abrufen, eingeben und sichern
@@ -240,10 +240,10 @@ Qualitätsmanagement (§ 3 Nr. 8)
 a)
 Prozesse überwachen und protokollieren, Messungen und Endkontrollen durchführen
 4
-�
+
 b)
 Arbeitsergebnisse zusammenführen, kontrollieren und unter Berücksichtigung betrieblicher Kostenzusammenhänge bewerten
-�
+
 8
 c)
 Zielerreichung kontrollieren, Qualitätsmanagementmaßnahmen durchführen, Qualitätskontrollen und technische Prüfungen dokumentieren
@@ -256,7 +256,7 @@ Bereitstellen und Entsorgen von Arbeitsstoffen (§ 3 Nr. 9)
 a)
 Arbeitsstoffe kennzeichnen, nach logistischen Haltbarkeits-, Sicherheits-, Qualitäts- und Umweltkriterien den Vorschriften entsprechend lagern, bereitstellen und auf Einsatzfähigkeit prüfen
 15
-�
+
 b)
 Laborgeräte zum Handhaben von Arbeitsstoffen auswählen und einsetzen
 c)
@@ -269,19 +269,19 @@ f)
 Arbeitsstoffe, insbesondere Gase und Chemikalien, entsorgen
 g)
 Reinheit der Arbeitsstoffe sicherstellen, Verunreinigungen vermeiden, prüfen und entfernen
-�
+
 3
 10
 Sichern und Prüfen der Reinraumbedingungen (§ 3 Nr. 10)
 a)
 betriebliche Richtlinien bezüglich Reinraumkleidung und Verhalten im Reinraum einhalten
 4
-�
+
 b)
 elektrostatische Gefährdung von Bauelementen (ESD-Sicherheit) prüfen und dokumentieren, bei Abweichungen Maßnahmen zur Beseitigung einleiten
 c)
 Funktion von Filtern prüfen sowie Partikelmessungen der Reinraumluft durchführen
-�
+
 4
 d)
 anhand der Produktqualität auf die Entstehung und Ausbreitung von Verunreinigungen schließen
@@ -292,14 +292,14 @@ Umrüsten, Prüfen und vorbeugendes Instandhalten von Produktionseinrichtungen (
 a)
 mechanische und elektrische Komponenten sowie DV-technische Einrichtungen an geänderte Prozeßabläufe und unterschiedliche Produkte anpassen, insbesondere
 15
-�
-�
+
+
 - mechanische Konstruktionsteile zerlegen und zusammenbauen
-�
+
 - Rohre, Rohrleitungsteile, Schläuche, Ventile und Regler verbinden sowie auf Dichtigkeit und Funktion prüfen
-�
+
 - konfektionierte elektrische Leitungen befestigen und anschließen
-�
+
 - Änderungen der Anlage dokumentieren
 b)
 elektrische Größen messen, Bauteile prüfen sowie Signale an Schnittstellen prüfen
@@ -307,15 +307,15 @@ c)
 vakuumtechnische Einrichtungen prüfen
 d)
 Störungen in Anlagen und Prozeßleiteinrichtungen feststellen, melden sowie dem Instandsetzer beschreiben, insbesondere
-�
+
 13
-�
+
 - Störungen in Meßeinrichtungen auf Grund chemischer und physikalischer Einwirkungen feststellen
-�
+
 - Einrichtungen zum Messen von Temperatur, Druck, Flüssigkeitsstand, Durchfluß, Volumen- und Massenstrom prüfen
-�
+
 - Sensoren prüfen und justieren
-�
+
 - Sicherheits- und Meldesysteme nach Prüfvorschriften kontrollieren, Prüfprotokolle anfertigen
 e)
 vorbeugende Instandhaltung unter Berücksichtigung spezifischer Produktionsbedingungen durchführen, Arbeitsgeräte und Anlagen reinigen
@@ -323,7 +323,7 @@ vorbeugende Instandhaltung unter Berücksichtigung spezifischer Produktionsbedin
 Einstellen von Prozeßparametern (§ 3 Nr. 12)
 a)
 Betriebswerte von Produktionseinrichtungen nach Anweisung, Schaltungs- und Prüfungsunterlagen sowie nach Datenblättern einstellen, abgleichen und prüfen
-�
+
 4
 b)
 Sollwerte von prozeßrelevanten Größen, insbesondere Drehzahl, Temperatur-, Druck- und Durchflußsollwerte, einstellen
@@ -333,7 +333,7 @@ Funktions- und Prozeßablauf anhand technischer Unterlagen kontrollieren, prüfe
 Optimieren des Produktionsprozesses (§ 3 Nr. 13)
 a)
 Verbesserungsmöglichkeiten im Bereich Defektdichte, Durchlaufzeit, Qualität und Ausbeute feststellen
-�
+
 6
 b)
 Meßergebnisse im Team analysieren und Verbesserungspotentiale diskutieren
@@ -346,7 +346,7 @@ Abschnitt II: Ausbildungsinhalte in den Schwerpunkten
 14
 Herstellungs- und Montageprozesse (§ 3 Nr. 14)
 Produktionsanlagen zur Herstellung von Halbleiterkomponenten bedienen und beschicken, Prozesse kontrollieren und überwachen, insbesondere
-�
+
 18
 a)
 Oberflächenbehandlungen durchführen, insbesondere dünnschleifen, chemischmechanisch polieren und tempern
@@ -366,7 +366,7 @@ Chips montieren, kontaktieren und häusen
 Prozeßbegleitende Prüfungen (§ 3 Nr. 15)
 a)
 optische Identifizierung von Einzelkomponenten und Teilkomponenten integrierter Schaltungen auf Wafern durchführen, insbesondere von Widerständen, Dioden, Transistoren, Kondensatoren und Kontaktierungen
-�
+
 10
 b)
 Zusammenhänge zwischen den Eigenschaften mikrotechnischer Produkte sowie Prozeßparametern, Prozeßschritten und Strukturen beachten
@@ -384,7 +384,7 @@ anhand von Prüfungsergebnissen auf Prozeßfehler und auf zu verändernde Proze�
 Durchführen von Endtests(§ 3 Nr. 16)
 a)
 Parametermessungen im Wafer-prüffeld durchführen
-�
+
 6
 b)
 elektrische Funktionsanalyse, insbesondere unter Dauerbelastung, wechselndem Klima sowie wechselnder Betriebsspannung, durchführen
@@ -392,7 +392,7 @@ elektrische Funktionsanalyse, insbesondere unter Dauerbelastung, wechselndem Kli
 Sichern von Prozeßabläufen im Einsatzgebiet (§ 3 Nr. 17)
 a)
 technologische Entwicklungstrends, insbesondere bei Materialien, Strukturgrößen und Einsatzfeldern von Halbleiterprodukten, beachten
-�
+
 18
 b)
 Wettbewerbssituation der Produkte, insbesondere in Bezug auf Preise und Qualität, beachten
@@ -418,7 +418,7 @@ Vor- und Endprodukte lagern und transportieren
 14
 Herstellungs- und Montageprozesse (§ 3 Nr. 14)
 Produktionsanlagen zur Herstellung von Komponenten der Mikrotechnik bedienen und beschicken, Prozesse kontrollieren und überwachen, insbesondere
-�
+
 18
 a)
 Träger für Bauelemente, insbesondere in Dünnschichtoder Dickschichttechnik, herstellen
@@ -434,7 +434,7 @@ Substrate montieren, kontaktieren und häusen
 Prozeßbegleitende Prüfungen (§ 3 Nr. 15)
 a)
 Elemente von Mikrosystemen, insbesondere Sensoren, Aktoren sowie mechanische und optische Funktionselemente, unterscheiden
-�
+
 6
 b)
 Zusammenhänge zwischen den Eigenschaften von Mikrosystemen sowie Prozeßparametern, Prozeßschritten und Strukturen beachten
@@ -450,7 +450,7 @@ anhand von Testergebnissen auf Prozeßfehler und auf zu verändernde Prozeßpara
 Durchführen von Endtests (§ 3 Nr. 16)
 a)
 Parametermessungen durchführen
-�
+
 10
 b)
 Endmessungen und Belastungstests durchführen
@@ -462,7 +462,7 @@ Funktionsanalyse, insbesondere unter Dauerbelastung, wechselndem Klima sowie wec
 Sichern von Prozeßabläufen im Einsatzgebiet (§ 3 Nr. 17)
 a)
 technologische Entwicklungstrends, insbesondere bei Materialien, Funktionen und Einsatzfeldern von Mikrosystemen, beachten
-�
+
 18
 b)
 das Zusammenwirken von Mikrosystemen mit dem Gesamtsystem berücksichtigen

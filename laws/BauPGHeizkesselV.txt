@@ -99,27 +99,27 @@ Wirkungsgrad bei Nennleistung
 
 Wirkungsgrad bei Teillast
 
- 
 
- 
 
-Mittlere Kesseltemperatur (in Grad C)
 
-Formel der Wirkungsgradanforderung
 
 Mittlere Kesseltemperatur (in Grad C)
 
 Formel der Wirkungsgradanforderung
 
- 
+Mittlere Kesseltemperatur (in Grad C)
+
+Formel der Wirkungsgradanforderung
+
+
 
 kW
 
- 
+
 
 (in %)
 
- 
+
 
 (in %)
 

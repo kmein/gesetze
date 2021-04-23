@@ -28,10 +28,10 @@ Präambel
   der Freistaat Thüringen
 
 sowie die\\
- Bundesrepublik Deutschland (im Weiteren �der Bund“ genannt)\\
- (im Folgenden �Vertragspartner“)\\
+ Bundesrepublik Deutschland (im Weiteren der Bund“ genannt)\\
+ (im Folgenden Vertragspartner“)\\
  sehen übereinstimmend die wachsenden Herausforderungen als Folge der Entwicklungen in der Informationstechnik. Der reibungslose und sichere Betrieb informationstechnischer Systeme stellt eine wesentliche Anforderung an die Aufrechterhaltung geordneter Abläufe in den Verwaltungen der Vertragspartner dar.\\
- Der Bund und die Länder haben mit der Erarbeitung des im Anhang zu diesem Vertrag wiedergegebenen �Gemeinsamen Grundverständnis der technischen und organisatorischen Ausgestaltung der Bund-Länder-Zusammenarbeit bei dem Verbindungsnetz und der IT-Steuerung“ die Grundlage für ein neues System der Bund-Länder-IT-Koordinierung erarbeitet und in die Beratungen der Kommission zur Modernisierung der Bund-Länder-Finanzbeziehungen (Föderalismuskommission II) eingebracht (Arbeitsunterlage AG 3 -- 08). Hieraus hat die Föderalismuskommission II mit Artikel 91c des Grundgesetzes eine Grundlage für die IT-Koordinierung von Bund und Ländern entwickelt und beschlossen.\\
+ Der Bund und die Länder haben mit der Erarbeitung des im Anhang zu diesem Vertrag wiedergegebenen Gemeinsamen Grundverständnis der technischen und organisatorischen Ausgestaltung der Bund-Länder-Zusammenarbeit bei dem Verbindungsnetz und der IT-Steuerung“ die Grundlage für ein neues System der Bund-Länder-IT-Koordinierung erarbeitet und in die Beratungen der Kommission zur Modernisierung der Bund-Länder-Finanzbeziehungen (Föderalismuskommission II) eingebracht (Arbeitsunterlage AG 3 -- 08). Hieraus hat die Föderalismuskommission II mit Artikel 91c des Grundgesetzes eine Grundlage für die IT-Koordinierung von Bund und Ländern entwickelt und beschlossen.\\
  Die Vertragspartner treffen daher auf der Grundlage des Artikel 91c des Grundgesetzes
 
 - -- :: zur Einrichtung und Regelung der Arbeitsweise eines IT-Planungsrats als Steuerungsgremium der allgemeinen IT-Kooperation nach Artikel 91c Absatz 1 und 2 des Grundgesetzes,
@@ -83,7 +83,7 @@ Der Bund und die Länder informieren sich möglichst frühzeitig über beabsicht
 
 § 5 - Errichtung und Aufgaben
 
-(1) Die Vertragspartner errichten mit Wirkung zum 1. Januar 2020 eine rechtsfähige Anstalt des öffentlichen Rechts (gemeinsame Anstalt). Sie trägt die Bezeichnung �FITKO“ (Föderale IT-Kooperation) und hat ihren Sitz in Frankfurt am Main. Die gemeinsame Anstalt hat die Aufgabe, den IT-Planungsrat organisatorisch, fachlich und bei der Wahrnehmung der Aufgaben nach § 1 Absatz 1 zu unterstützen. Das Nähere regelt der IT-Planungsrat durch einstimmigen Beschluss und trifft dabei insbesondere Regelungen zu den Aufgaben, Befugnissen, der Wirtschaftsführung und Leitung der gemeinsamen Anstalt und ihrer Organe (Gründungsbeschluss).
+(1) Die Vertragspartner errichten mit Wirkung zum 1. Januar 2020 eine rechtsfähige Anstalt des öffentlichen Rechts (gemeinsame Anstalt). Sie trägt die Bezeichnung FITKO“ (Föderale IT-Kooperation) und hat ihren Sitz in Frankfurt am Main. Die gemeinsame Anstalt hat die Aufgabe, den IT-Planungsrat organisatorisch, fachlich und bei der Wahrnehmung der Aufgaben nach § 1 Absatz 1 zu unterstützen. Das Nähere regelt der IT-Planungsrat durch einstimmigen Beschluss und trifft dabei insbesondere Regelungen zu den Aufgaben, Befugnissen, der Wirtschaftsführung und Leitung der gemeinsamen Anstalt und ihrer Organe (Gründungsbeschluss).
 (2) Der Gründungsbeschluss soll vorsehen, dass die gemeinsame Anstalt die Aufgaben bestehender Strukturen für Projekte und Produkte des IT-Planungsrats übernimmt. Er kann eine Rechtsnachfolge vorsehen und die hierzu bestehenden Verwaltungsabkommen außer Kraft setzen.
 (3) Änderungen des Gründungsbeschlusses bedürfen der Zustimmung aller Mitglieder des IT-Planungsrats.
 (4) Zur Wahrnehmung von Querschnittsaufgaben soll sich die gemeinsame Anstalt Dritter bedienen.
@@ -135,7 +135,7 @@ Ein Insolvenzverfahren über das Vermögen der gemeinsamen Anstalt ist unzuläss
 (4) Bestehende Vereinbarungen der Vertragspartner über die gemeinschaftliche Aufgabenerledigung im Bereich informationstechnischer Systeme werden von den Bestimmungen dieses Vertrages, soweit sie diesen nicht widersprechen, nicht berührt. Mit dem Außerkrafttreten bereits bestehender Vereinbarungen werden die Bestimmungen dieses Vertrages auf sie anwendbar.
 (5) Die nach § 2 des IT-Staatsvertrags in der Fassung vom 1. April 2010 beim Bundesministerium des Innern, für Bau und Heimat eingerichtete Geschäftsstelle wird bis zum 30. Juni 2020 fortgeführt. Danach gehen die Aufgaben der Geschäftsstelle auf die gemeinsame Anstalt über. Die gemeinsame Anstalt tritt insoweit in die Rechtsnachfolge ein.
 
-Anhang - �Gemeinsames Grundverständnis der technischen und organisatorischen Ausgestaltung der Bund/Länder-Zusammenarbeit bei dem Verbindungsnetz und der IT-Steuerung“
+Anhang - Gemeinsames Grundverständnis der technischen und organisatorischen Ausgestaltung der Bund/Länder-Zusammenarbeit bei dem Verbindungsnetz und der IT-Steuerung“
 
 A. Verbindungsnetz
 
@@ -149,17 +149,17 @@ A. Verbindungsnetz
     - -- :: das Verfahren bei Eilentscheidungen.
   - b) :: In diesem Rahmen betreibt der Bund das Verbindungsnetz und setzt dabei die gemeinsamen Festlegungen um.
 - 2. :: Die Länder haben gemeinsam mit dem Bund den DOI-Netz e. V. gegründet. Von diesem wird gegenwärtig ein Verbindungsnetz vergeben. Diese Lösung soll zum nächstmöglichen Zeitpunkt in die neuen Strukturen überführt werden.
-- 3. :: Der Bund betreibt gegenwärtig die Neugestaltung seiner IT-Netze in einer modularen Architektur und auf der Grundlage eines Transportnetzes auf Basis von Dark Fibre. Dies geschieht in ausschlie�Netze des Bundes“.
+- 3. :: Der Bund betreibt gegenwärtig die Neugestaltung seiner IT-Netze in einer modularen Architektur und auf der Grundlage eines Transportnetzes auf Basis von Dark Fibre. Dies geschieht in ausschlieNetze des Bundes“.
 - 4. :: Der Bund ist die Vergabestelle für das Verbindungsnetz. Als Vergabestelle ist der Bund für die rechtlich korrekte Durchführung der Vergabe inklusive der Wahl des Vergabeverfahrens verantwortlich und wird nach dem Zuschlag Vertragspartner des Auftragnehmers.
 - 5. :: Die Vergabeunterlagen werden vom Bund im Benehmen mit einem vom IT-Planungsrat eingesetzten Arbeitsgremium aus 3 Ländervertretern fertig gestellt.
-- 6. :: Zur Beteiligung der Länder werden die Entwürfe der Vergabeunterlagen (inklusive Bewertungsmatrix) rechtzeitig vor der Veröffentlichung (z. B. in sogenannten �Leseräumen“<<FnR.F809077_01>>[[#F809077_01][1)]]} ) zur Einsicht bereit gestellt. Dies dient zum einen der Information der Länder über die Umsetzung der gemeinsam festgelegten Anforderungen, zum anderen kann so der dort vorhandene Sachverstand in die Erstellung der Vergabeunterlagen einfließen.
+- 6. :: Zur Beteiligung der Länder werden die Entwürfe der Vergabeunterlagen (inklusive Bewertungsmatrix) rechtzeitig vor der Veröffentlichung (z. B. in sogenannten Leseräumen“<<FnR.F809077_01>>[[#F809077_01][1)]]} ) zur Einsicht bereit gestellt. Dies dient zum einen der Information der Länder über die Umsetzung der gemeinsam festgelegten Anforderungen, zum anderen kann so der dort vorhandene Sachverstand in die Erstellung der Vergabeunterlagen einfließen.
 - 7. :: Sollten durch Anforderungen des Bundes, die über die gemeinsam festgelegten Anforderungen hinausgehen, zusätzliche Kosten entstehen, so sind diese vom Bund zu tragen. Das Verfahren zur Feststellung der Zusatzkosten regelt der IT-Planungsrat<<FnR.F809077_02>>[[#F809077_02][2)]]} .
 - 8. :: Um auch im laufenden Betrieb eine Beteiligung der Länder sicher zu stellen, beauftragt der IT-Planungsrat das dreiköpfige Arbeitsgremium damit, die Interessen der Länder bei der Steuerung des Betriebs einzubringen. Dies betrifft insbesondere grundsätzlichere Fragen der Steuerung. Operative Fragen (z. B. die Bestellung eines neuen Anschlusses, die Veränderung einer Anschlussklasse, die Zubuchung eines optionalen Dienstes etc.) werden hingegen über dafür geschaffene Prozesse abgewickelt.
 
 B. IT-Steuerung
 
 - 1. :: Ein neues System der IT-Koordinierung von Bund und Ländern soll die bisherigen Gremien “Arbeitskreis der Staatssekretäre für E-Government in Bund und Ländern” (St-Runde Deutschland-Online) sowie “Kooperationsausschuss von Bund und Ländern für automatisierte Datenverarbeitung” (KoopA ADV) sowie alle Untergremien ablösen.
-- 2. :: Die dauerhafte neue Struktur besteht aus einem �IT-Planungsrat“, in dem der Beauftragte der Bundesregierung für Informationstechnik, die für IT zuständigen Vertreter der Länder, Vertreter der drei kommunalen Spitzenverbände (ohne Stimmrecht) und der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (ohne Stimmrecht) vertreten sind. Der IT-Planungsrat berichtet an die Konferenz der Regierungschefs von Bund und Ländern.
+- 2. :: Die dauerhafte neue Struktur besteht aus einem IT-Planungsrat“, in dem der Beauftragte der Bundesregierung für Informationstechnik, die für IT zuständigen Vertreter der Länder, Vertreter der drei kommunalen Spitzenverbände (ohne Stimmrecht) und der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (ohne Stimmrecht) vertreten sind. Der IT-Planungsrat berichtet an die Konferenz der Regierungschefs von Bund und Ländern.
 - 3. :: Den Vorsitz übernehmen im jährlichen Wechsel Bund und Länder. Die Länder regeln die Rotation des Vorsitzes untereinander.
 - 4. :: Die bisherige Geschäftsstelle Deutschland-Online im Bundesministerium des Innern wird Geschäftsstelle des IT-Planungsrates. Die Finanzierung der Geschäftsstelle übernimmt zur Hälfte der Bund, zur Hälfte übernehmen sie die Länder nach dem Königsteiner Schlüssel.
 - 5. :: Der IT-Planungsrat hat folgende Aufgaben:

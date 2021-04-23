@@ -205,9 +205,9 @@ Warten und Pflegen von Betriebsmitteln (Â§ 3 Nr. 5)
 a)
 Betriebsmittel, insbesondere Werkzeuge und Maschinen, durch Reinigen pflegen und vor Korrosion schÃ¼tzen
 2*)
- 
- 
- 
+
+
+
 b)
 Betriebsstoffe, insbesondere Ã–le, KÃ¼hl- und Schmierstoffe, nach Betriebsvorschriften wechseln und auffÃ¼llen
 6
@@ -215,9 +215,9 @@ PrÃ¼fen, Messen und Kennzeichnen (Â§ 3 Nr. 6)
 a)
 LÃ¤ngen mit StrichmaÃŸstÃ¤ben, MeÃŸschiebern und MeÃŸschrauben unter Beachtung von systematischen und zufÃ¤lligen MeÃŸfehlermÃ¶glichkeiten messen
 4*)
- 
- 
- 
+
+
+
 b)
 LÃ¤ngen mit Taster oder Zirkel und MeÃŸschnur indirekt messen
 c)
@@ -239,9 +239,9 @@ Planen und Vorbereiten des Arbeitsablaufes sowie Kontrollieren und Bewerten der 
 a)
 Arbeitsschritte unter Beachtung mÃ¼ndlicher und schriftlicher Vorgaben abstimmen und festlegen sowie Arbeitsablauf sicherstellen
 4*)
- 
- 
- 
+
+
+
 b)
 Teilebedarf abschÃ¤tzen und bereitstellen
 c)
@@ -257,27 +257,27 @@ Lesen, Anwenden und Erstellen von technischen Unterlagen (Â§ 3 Nr. 8)
 a)
 Skizzen und Zeichnungen, insbesondere von Bauteilen sowie StÃ¼cklisten, anfertigen, lesen und anwenden
 3*)
- 
- 
- 
+
+
+
 b)
 Grundbegriffe der Normung anwenden
 c)
 Tabellen, Diagramme, HandbÃ¼cher und Bedienungshinweise lesen und anwenden
 d)
 Gesamtzeichnungen lesen und anwenden
- 
- 
- 
+
+
+
 2*)
 9
 Bestimmen und Zuordnen von Instrumenten (Â§ 3 Nr. 9)
 a)
 Metallblasinstrumente im Hinblick auf Mensur und Konstruktionsmerkmale zuordnen
 2
- 
- 
- 
+
+
+
 b)
 Metallblasinstrumente nach Aufbau und Funktion unterscheiden
 10
@@ -285,9 +285,9 @@ AuswÃ¤hlen und Lagern von Werk- und Hilfsstoffen (Â§ 3 Nr. 10)
 a)
 Werkstoffe nach ihren Eigenschaften und Halbzeuge nach ihrer Form unterscheiden, auswÃ¤hlen und ihrem Verwendungszweck zuordnen
 2
- 
- 
- 
+
+
+
 b)
 Hilfsstoffe unterscheiden, auswÃ¤hlen, ihrem Verwendungszweck zuordnen und nach Anweisung und Unterlagen unter Beachtung des Umgangs mit gefÃ¤hrlichen Arbeitsstoffen anwenden
 c)
@@ -299,9 +299,9 @@ Ausrichten und Spannen von Werkzeugen und WerkstÃ¼cken (Â§ 3 Nr. 11)
 a)
 Spannzeuge unter BerÃ¼cksichtigung der GrÃ¶ÃŸe, der Form, des Werkstoffes und der Bearbeitung von WerkstÃ¼cken auswÃ¤hlen und befestigen
 3
- 
- 
- 
+
+
+
 b)
 Werkzeuge und WerkstÃ¼cke, insbesondere mit Maschinenschraubstock und Dreibackenfutter, unter Beachtung der WerkstÃ¼ckstabilitÃ¤t und des OberflÃ¤chenschutzes ausrichten und spannen
 c)
@@ -311,9 +311,9 @@ manuelles und maschinelles Spanen (Â§ 3 Nr. 12)
 a)
 Werkzeuge unter BerÃ¼cksichtigung der Verfahren und der WerkstÃ¼cke auswÃ¤hlen
 11
- 
- 
- 
+
+
+
 b)
 FlÃ¤chen an WerkstÃ¼cken aus unterschiedlichen Werkstoffen glatt, eben, winklig und parallel auf MaÃŸ feilen
 c)
@@ -328,18 +328,18 @@ g)
 Bohrungen in WerkstÃ¼cken aus unterschiedlichen Werkstoffen auf MaÃŸgenauigkeit manuell reiben
 h)
 Werkzeuge, insbesondere ReiÃŸnadel und KÃ¶rner, am Schleifbock schÃ¤rfen
- 
+
 2
- 
- 
+
+
 i)
 Werkzeuge, insbesondere Bohrer und Schaber, am Schleifbock schÃ¤rfen
 k)
 Werkzeuge unter BerÃ¼cksichtigung der Verfahren, der Werkstoffe und der Schneidengeometrie auswÃ¤hlen
- 
- 
+
+
 5
- 
+
 l)
 Maschinenwerte an Werkzeugmaschinen fÃ¼r Bohr- und Drehoperationen mit Hilfe von Tabellen und Diagrammen bestimmen und einstellen
 m)
@@ -355,9 +355,9 @@ Trennen (Â§ 3 Nr. 13)
 a)
 Handscheren und Handhebelscheren, insbesondere unter BerÃ¼cksichtigung des Werkstoffes, der Blechdicke und des Kraftbedarfes, auswÃ¤hlen
 2
- 
- 
- 
+
+
+
 b)
 Feinbleche mit Handscheren und Handhebelscheren nach AnriÃŸ scheren
 14
@@ -365,19 +365,19 @@ Umformen (Â§ 3 Nr. 14)
 a)
 Durchmesser und WandstÃ¤rken von zylindrischen Rohren aus Nichteisenmetallen mit Ziehmaschinen umformen und auf MaÃŸgenauigkeit prÃ¼fen
 4
- 
- 
- 
+
+
+
 b)
 Gerade zylindrische Rohre aus Nichteisenmetallen zu geraden konischen Rohren von Hand und mit Ziehmaschine umformen, Rohre von Hand richten
 c)
 Eigenschaften von WerkstÃ¼cken unter BerÃ¼cksichtigung der stofflichen Zusammensetzung und des Verwendungszwecks durch Bearbeitung und WÃ¤rmebehandlung, insbesondere durch WeichglÃ¼hen, Ã¤ndern
 d)
 Abwicklungen von Zylindern und Kegeln konstruieren
- 
+
 16
- 
- 
+
+
 e)
 WerkstÃ¼cke aus Feinblechen nach Abwicklungen herstellen
 f)
@@ -389,9 +389,9 @@ FÃ¼gen (Â§ 3 Nr. 15)
 a)
 Bauteile mit Schrauben, Muttern und Sicherungselementen unter Beachtung der Werkstoffpaarung verbinden und sichern
 4
- 
- 
- 
+
+
+
 b)
 Funktion, MaÃŸ- und Lagetoleranzen gefÃ¼gter Bauteile prÃ¼fen
 c)
@@ -402,10 +402,10 @@ e)
 Bleche, Profile und Rohre aus Nichteisenmetallen WeichlÃ¶ten
 f)
 LÃ¶twerkzeuge, Lote und FluÃŸmittel zum HartlÃ¶ten auswÃ¤hlen
- 
+
 2
- 
- 
+
+
 g)
 Bleche, Profile und Rohre aus Nichteisenmetallen hartlÃ¶ten
 16
@@ -413,75 +413,75 @@ Anfertigen von Bauteilen (Â§ 3 Nr. 16)
 a)
 Kleinteile entsprechend Verwendungszweck und Funktion auswÃ¤hlen und zuordnen
 6
- 
- 
- 
+
+
+
 b)
 Kleinteile, insbesondere StÃ¼tzen und Ringe, durch Spanen, Trennen, Umformen und FÃ¼gen herstellen
 17
 ZusammenfÃ¼gen von Instrumententeilen (Â§ 3 Nr. 17)
 a)
 Einzelteile nach Unterlagen und Anweisungen bereitstellen
- 
+
 6
- 
- 
+
+
 b)
 MaÃŸgenauigkeit der Instrumententeile prÃ¼fen und korrigieren
 c)
 BÃ¶gen, ZÃ¼ge und Rohre nach Skizze oder Schablone unter Beachtung von ParallelitÃ¤t und Ganggenauigkeit zusammenfÃ¼gen
- 
- 
+
+
 4
- 
+
 d)
 Ventile nach Skizze oder Schablone unter Beachtung von ParallelitÃ¤t und Ganggenauigkeit zusammenfÃ¼gen
 e)
 Instrumententeile nach Unterlagen fÃ¼r den Zusammenbau vorbereiten
- 
- 
- 
+
+
+
 12
 f)
 Baugruppen des Instrumentes nach Unterlagen zum Rohbau zusammenfÃ¼gen
- 
- 
- 
+
+
+
 12
 18
 Behandeln von OberflÃ¤chen (Â§ 3 Nr. 18)
 a)
 Gesundheits- und Umweltschutz, insbesondere in Bezug auf StÃ¤ube und DÃ¤mpfe, beachten
 5
- 
- 
- 
+
+
+
 b)
 Bauteile und Instrumente zur OberflÃ¤chenbehandlung vorbereiten, insbesondere durch Verputzen der LÃ¶tstellen
 c)
 OberflÃ¤chen manuell schleifen und polieren
 d)
 OberflÃ¤chen maschinell schleifen und polieren
- 
- 
+
+
 5
- 
+
 e)
 OberflÃ¤chen sichtprÃ¼fen sowie fÃ¼r die Weiterbehandlung vorbereiten
 f)
 ganze Instrumente manuell und maschinell schleifen und polieren
- 
- 
- 
+
+
+
 10
 19
 Endmontage und Spielfertigmachen von Metallblasinstrumenten (Â§ 3 Nr. 19)
 a)
 Instrumententeile und Instrument reinigen
- 
- 
+
+
 10
- 
+
 b)
 Ventile, Druckwerke, ZÃ¼ge und Wasserklappen einbauen, regulieren und FunktionsfÃ¤higkeit herstellen
 c)
@@ -490,9 +490,9 @@ d)
 Instrument spielfertig machen und FunktionsprÃ¼fung durchfÃ¼hren
 e)
 TÃ¶ne mit StimmgerÃ¤t prÃ¼fen
- 
- 
- 
+
+
+
 2
 f)
 durch VerÃ¤ndern der LÃ¤ngenmaÃŸe die Stimmung von Instrumenten beeinflussen
@@ -500,10 +500,10 @@ durch VerÃ¤ndern der LÃ¤ngenmaÃŸe die Stimmung von Instrumenten beeinflussen
 Endkontrolle und QualitÃ¤tssicherung (Â§ 3 Nr. 20)
 a)
 optische und funktionelle PrÃ¼fung durchfÃ¼hren
- 
- 
+
+
 2
- 
+
 b)
 Fehler kennzeichnen
 c)
@@ -514,9 +514,9 @@ MÃ¶glichkeiten der wirtschaftlichen Beseitigung von Fehlern beurteilen und Insta
 Instandsetzen von Instrumenten (Â§ 3 Nr. 21)
 a)
 Reparaturumfang festlegen, Ersatzteile bestimmen
- 
- 
- 
+
+
+
 14
 b)
 Instrument, Baugruppen und Teile demontieren; Verbindungen prÃ¼fen und instandsetzen

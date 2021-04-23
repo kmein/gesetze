@@ -740,7 +740,7 @@ bzgl. der einzelnen √Ñnderungen vgl. Fu√ünote
 
 Theoretischer Teil
 
-†
+
 
 1.1
 
@@ -748,7 +748,7 @@ Verantwortlichkeit des Sportbootsf√ºhrers
 
 ()
 
-†
+
 
 1.2
 
@@ -756,17 +756,17 @@ Fahrtgebiet und seine Besonderheiten z. B. gesch√ºtzte Wehre bei hohen Wasserst√
 
 ()
 
-†
+
 
 1.3
 
 Verkehrsregeln
 
-†
 
-†
 
-†
+
+
+
 
 1.3.1
 
@@ -774,9 +774,9 @@ Allgemeine Vorschriften
 
 ()
 
-†
 
-†
+
+
 
 1.3.2
 
@@ -784,17 +784,17 @@ Regeln f√ºr Kleinfahrzeuge untereinander und gegen√ºber anderen Fahrzeugen, insb
 
 ()
 
-†
+
 
 1.4
 
 Bezeichnung
 
-†
 
-†
 
-†
+
+
+
 
 1.4.1
 
@@ -802,9 +802,9 @@ Verkehrszeichen
 
 ()
 
-†
 
-†
+
+
 
 1.4.2
 
@@ -812,9 +812,9 @@ Betonnung (Kardinalzeichen, soweit erforderlich
 
 ()
 
-†
 
-†
+
+
 
 1.4.3
 
@@ -822,9 +822,9 @@ Bezeichnung von Br√ºckendurchfahrten
 
 ()
 
-†
 
-†
+
+
 
 1.4.4
 
@@ -832,9 +832,9 @@ Signallichter zur Schleuseneinfahrt und -ausfahrt (soweit erforderlich)
 
 ()
 
-†
 
-†
+
+
 
 1.4.5
 
@@ -842,7 +842,7 @@ Schallzeichen
 
 ()
 
-†
+
 
 1.5
 
@@ -850,7 +850,7 @@ Verhalten beim Begegnen, insbesondere an Engstellen, Br√ºcken, Einm√ºndungen, Au
 
 ()
 
-†
+
 
 1.6
 
@@ -858,7 +858,7 @@ Verhalten an Liegestellen und Ankerpl√§tzen
 
 ()
 
-†
+
 
 1.7
 
@@ -866,7 +866,7 @@ Vermeidung von Sog und Wellenschlag
 
 ()
 
-†
+
 
 1.8
 
@@ -874,17 +874,17 @@ Verhalten beim Schleusen, Besonderheiten bei Selbstbedienungsschleusen (soweit e
 
 ()
 
-†
+
 
 1.9
 
 Umweltgerechtes Verhalten und insbesondere seine Bedeutung im Fahrtgebiet
 
-†
 
-†
 
-†
+
+
+
 
 1.9.1
 
@@ -892,9 +892,9 @@ Umweltgerechtes Verhalten und insbesondere seine Bedeutung im Fahrtgebiet
 
 ()
 
-†
 
-†
+
+
 
 1.9.2
 
@@ -902,7 +902,7 @@ umweltgerechte Bedienung des Fahrzeugs und seiner Einrichtung
 
 ()
 
-†
+
 
 1.10
 
@@ -914,9 +914,9 @@ Zust√§ndige Beh√∂rden
 
 Praktischer Teil
 
-†
 
-†
+
+
 
 2.1
 
@@ -924,7 +924,7 @@ Motor starten und stoppen
 
 ()
 
-†
+
 
 2.2
 
@@ -932,7 +932,7 @@ An- und Ablegen
 
 ()
 
-†
+
 
 2.3
 
@@ -940,7 +940,7 @@ Vorw√§rtsfahrt, R√ºckw√§rtsfahrt und Aufstoppen
 
 ()
 
-†
+
 
 2.4
 
@@ -948,7 +948,7 @@ Festmachen, Ankern
 
 ()
 
-†
+
 
 2.5
 
@@ -956,7 +956,7 @@ Wenden auf engem Raum
 
 ()
 
-†
+
 
 2.6
 
@@ -964,17 +964,17 @@ Mann-√ºber-Bord-Man√∂ver
 
 ()
 
-†
+
 
 2.7
 
 Verhalten bei
 
-†
 
-†
 
-†
+
+
+
 
 2.7.1
 
@@ -982,9 +982,9 @@ Begegnungen
 
 ()
 
-†
 
-†
+
+
 
 2.7.2
 
@@ -992,9 +992,9 @@ Grundber√ºhrungen
 
 ()
 
-†
 
-†
+
+
 
 2.7.3
 
@@ -1002,9 +1002,9 @@ Ausfall der Maschinenanlage
 
 ()
 
-†
 
-†
+
+
 
 2.7.4
 
@@ -1012,9 +1012,9 @@ Motorbrand
 
 ()
 
-†
 
-†
+
+
 
 2.7.5
 
@@ -1022,9 +1022,9 @@ Man√∂vrierunf√§higkeit
 
 ()
 
-†
 
-†
+
+
 
 2.7.6
 
@@ -1032,7 +1032,7 @@ Schleusungen
 
 ()
 
-†
+
 
 2.8
 
@@ -1048,9 +1048,9 @@ Anlegen von Rettungswesten
 
 Steuerstand
 
-†
 
-†
+
+
 
 1.1
 
@@ -1086,9 +1086,9 @@ Zugang zu Schiffsschraube und Stopfbuchse erl√§utern
 
 Oberdeck
 
-†
 
-†
+
+
 
 2.1
 
@@ -1130,9 +1130,9 @@ Anschluss f√ºr landseitige Stromversorgung
 
 Innenbereich
 
-†
 
-†
+
+
 
 3.1
 

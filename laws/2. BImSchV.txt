@@ -11,14 +11,14 @@ Auf Grund des § 23 Abs. 1 des Bundes-Immissionsschutzgesetzes in der Fassung de
 Inhaltsübersicht
 
 Erster Abschnitt
-�
+
 Allgemeine Vorschriften
 § 1
 Anwendungsbereich
 § 2
 Einsatzstoffe
 Zweiter Abschnitt
-�
+
 Errichtung und Betrieb
 § 3
 Oberflächenbehandlungsanlagen
@@ -27,7 +27,7 @@ Chemischreinigungs- und Textilausrüstungsanlagen
 § 5
 Extraktionsanlagen
 Dritter Abschnitt
-�
+
 Anforderungen an Altanlagen
 § 6
 (weggefallen)
@@ -38,7 +38,7 @@ Anforderungen an Altanlagen
 § 9
 (weggefallen)
 Vierter Abschnitt
-�
+
 Eigenkontrolle und Überwachung
 § 10
 Messöffnungen
@@ -47,7 +47,7 @@ Eigenkontrolle
 § 12
 Überwachung
 Fünfter Abschnitt
-�
+
 Gemeinsame Vorschriften
 § 13
 Umgang mit leichtflüchtigen halogenierten organischen Verbindungen

@@ -216,9 +216,9 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 (9) Die Abschlussprüfung ist bestanden, wenn die Leistungen
 
-- 1. :: im Gesamtergebnis mit mindestens �ausreichend“,
-- 2. :: in mindestens drei der Prüfungsbereiche mit mindestens �ausreichend“ und
-- 3. :: in keinem Prüfungsbereich mit �ungenügend“
+- 1. :: im Gesamtergebnis mit mindestens ausreichend“,
+- 2. :: in mindestens drei der Prüfungsbereiche mit mindestens ausreichend“ und
+- 3. :: in keinem Prüfungsbereich mit ungenügend“
 
 bewertet worden sind.
 
@@ -265,7 +265,7 @@ Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
 Buch und Medienwirtschaft\\
 (§ 4 Absatz 2 Abschnitt A Nummer 1)
 
-�
+
 
 1.1
 
@@ -334,7 +334,7 @@ Abschnitt A Nummer 1.5)
 Bibliografien und Recherche\\
 (§ 4 Absatz 2 Abschnitt A Nummer 2)
 
-�
+
 
 2.1
 
@@ -373,7 +373,7 @@ Abschnitt A Nummer 2.3)
 Warenwirtschaft und Beschaffung\\
 (§ 4 Absatz 2 Abschnitt A Nummer 3)
 
-�
+
 
 3.1
 
@@ -423,7 +423,7 @@ Abschnitt A Nummer 3.4)
 Einkauf\\
 (§ 4 Absatz 2 Abschnitt A Nummer 4)
 
-�
+
 
 4.1
 
@@ -451,7 +451,7 @@ Abschnitt A Nummer 4.2)
 Beratung und Verkauf\\
 (§ 4 Absatz 2 Abschnitt A Nummer 5)
 
-�
+
 
 5.1
 
@@ -479,9 +479,9 @@ Abschnitt A Nummer 5.2)
 - c) :: über Neuerscheinungen informieren, neue Bücher und Bestsellerservice anbieten
 - d) :: über Titel und Produktformen kundenorientiert beraten
 
-�
 
-�
+
+
 
 - e) :: Trends und innovative Ansätze als Verkaufsargument nutzen
 - f) :: Kundenbestellungen aufnehmen und bearbeiten
@@ -543,7 +543,7 @@ Abschnitt A Nummer 5.6)
 Marketing\\
 (§ 4 Absatz 2 Abschnitt A Nummer 6)
 
-�
+
 
 6.1
 
@@ -554,9 +554,9 @@ Abschnitt A Nummer 6.1)
 - a) :: Strukturen der Buchhandelslandschaft bei Marketingentscheidungen berücksichtigen
 - b) :: Marktdaten erfassen, Marktsituation am Standort unter wirtschaftlichen und regionalen Gesichtspunkten beurteilen und Schlussfolgerungen für das Marketing ziehen
 
-�
 
-�
+
+
 
 - c) :: Informationen über Kauf- und Konsumverhalten von bestehenden und potenziellen Zielgruppen ermitteln und für Marketingmaßnahmen aufbereiten
 - d) :: Kundenwünsche und -bedürfnisse ermitteln, mit betrieblichen Leistungsangeboten vergleichen und daraus bedarfsgerechte Vorgehensweisen ableiten
@@ -622,7 +622,7 @@ Abschnitt A Nummer 6.6)
 Kaufmännische Steuerung und Kontrolle\\
 (§ 4 Absatz 2 Abschnitt A Nummer 7)
 
-�
+
 
 7.1
 
@@ -675,7 +675,7 @@ Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
 Sortiment\\
 (§ 4 Absatz 2 Abschnitt B Nummer 1)
 
-�
+
 
 1.1
 
@@ -723,9 +723,9 @@ Abschnitt B Nummer 1.4)
 - a) :: Warenwirtschaftsysteme unterscheiden und im Hinblick auf die Anforderungen des Betriebes bewerten
 - b) :: Warenfluss artikelgenau und zeitnah erfassen
 
-�
 
-�
+
+
 
 - c) :: Statistiken und Kennzahlen aus der Warenwirtschaft erstellen, analysieren sowie betriebswirtschaftlich auswerten
 - d) :: Umsatz- und Umschlagszahlen nach Titeln, Warengruppen und Lieferanten auswerten
@@ -746,7 +746,7 @@ Abschnitt B Nummer 1.5)
 Verlag\\
 (§ 4 Absatz 2 Abschnitt B Nummer 2)
 
-�
+
 
 2.1
 
@@ -788,9 +788,9 @@ Abschnitt B Nummer 2.3)
 - b) :: Werbemaßnahmen für Handels- und Endkunden unterscheiden und koordinieren
 - c) :: an der Entwicklung von Werbemitteln und verkaufsfördernden Maßnahmen unter Berücksichtigung von Werbeetats mitwirken
 
-�
 
-�
+
+
 
 - d) :: Rezensionsexemplare versenden
 - e) :: Strukturen des Rezensionswesens verkaufsfördernd nutzen, Rezensionen auswerten
@@ -831,7 +831,7 @@ Abschnitt B Nummer 2.6)
 Antiquariat\\
 (§ 4 Absatz 2 Abschnitt B Nummer 3)
 
-�
+
 
 3.1
 
@@ -884,9 +884,9 @@ Abschnitt B Nummer 3.4)
 - b) :: Angebote erstellen
 - c) :: Preise gegenüber den Kunden begründen
 
-�
 
-�
+
+
 
 - d) :: Kundenwünsche, insbesondere von Bibliotheken, Bibliophilen und Sammlern, feststellen und bearbeiten
 - e) :: nicht vorrätige Bücher und Zeitschriften auffinden, insbesondere über Handelspartner und Auktionen
@@ -914,7 +914,7 @@ Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
 Gestaltung einer spezifischen Warengruppe\\
 (§ 4 Absatz 2 Abschnitt C Nummer 4)
 
-�
+
 
 1.1
 
@@ -947,7 +947,7 @@ Abschnitt C Nummer 1.2)
 Buchhändlerische Projekte\\
 (§ 4 Absatz 2 Abschnitt C Nummer 2)
 
-�
+
 
 2.1
 
@@ -958,9 +958,9 @@ Abschnitt C Nummer 2.1)
 - a) :: Projekte auswählen, Zielgruppen festlegen und Ziele formulieren
 - b) :: Projekte planen; kundenorientierte, inhaltliche, organisatorische, zeitliche und finanzielle Aspekte bei der Projektarbeit berücksichtigen
 
-�
 
-�
+
+
 
 - c) :: Projektablaufplan erstellen und mit Beteiligten abstimmen
 - d) :: Informations- und Kommunikationsstrukturen einrichten; Verantwortlichkeiten festlegen
@@ -991,7 +991,7 @@ Abschnitt C Nummer 2.3)
 Buchhändlerisches E-Business\\
 (§ 4 Absatz 2 Abschnitt C Nummer 3)
 
-�
+
 
 3.1
 
@@ -1036,7 +1036,7 @@ Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
 Der Ausbildungsbetrieb\\
 (§ 4 Absatz 2 Abschnitt D Nummer 1)
 
-�
+
 
 1.1
 
@@ -1114,7 +1114,7 @@ Arbeitsorganisation,\\
 Information und Kommunikation\\
 (§ 4 Absatz 2 Abschnitt D Nummer 2)
 
-�
+
 
 2.1
 

@@ -133,7 +133,7 @@ Anlage 1 - (zu § 3 Abs. 2)Bei Antrag auf Erteilung der Allgemeinen Bauartgenehm
 \\
 \\
 
-�
+
 
 Teileart
 
@@ -154,9 +154,9 @@ Je vierfach\\
 
 - 2. :: Sicherheitsglas einschließlich Folien zur Aufbringung auf Scheiben von Fahrzeugen (§ 40 Abs. 1 StVZO)
 
-�
 
-�
+
+
 
 - 2.1 :: Einscheiben-Sicherheitsglas (Windschutzscheiben)
 
@@ -252,7 +252,7 @@ Angaben über die Typbezeichnung der zu prüfenden Einrichtung und über die zul
 
 - 5. :: Lichtquellen (§ 49a Abs. 6 § 67 Abs. 10 StVZO und § 22 Abs. 4 und 5 der StVO)
 
-�
+
 
 Zeichnungen in dreifacher Ausfertigung über die Vorder- und Seitenansicht im Maßstab 2 zu 1.
 
@@ -266,7 +266,7 @@ Zeichnungen in dreifacher Ausfertigung über die Vorder- und Seitenansicht im Ma
 
 - 6. :: Scheinwerfer für Fernlicht und für Abblendlicht sowie für Fern- und Abblendlicht (§ 50 StVZO) Fahrradscheinwerfer (§ 67 Abs. 3 und 11 StVZO)
 
-�
+
 
 Zeichnung(en) in dreifacher Ausfertigung einschließlich Schnittdarstellung und Vorderansicht der Abschlußscheibe.
 
@@ -284,51 +284,51 @@ jeweils 2 Muster
 
 Unterlagen jeweils in dreifacher Ausfertigung (Erläuterungen, Zeichnungen, Ein- oder Anbauanweisungen für die Verbraucher), aus denen eindeutig hervorgeht, in welcher Lage die Fahrzeugteile am Fahrzeug angebracht werden sollen (Abstand und Ausrichtung zur Fahrzeuglängsmittelebene und zur Fahrbahnoberfläche).
 
-�
+
 
 -   :: Spurhalteleuchten (§ 51 Abs. 4 StVZO)
 
-�
+
 
 -   :: Seitenmarkierungsleuchten (§ 51a Abs. 6 StVZO)
 
-�
+
 
 -   :: Parkleuchten (§ 51c StVZO Abs. 1 bis 4)
 
-�
+
 
 -   :: Umrißleuchten (§ 51b StVZO)
 
-�
+
 
 -   :: Nebelscheinwerfer (§ 52 Abs. 1 StVZO)
 
-�
+
 
 -   :: Kennleuchten für blaues, rotes und gelbes Blinklicht (§ 52 Abs. 3, 3a und 4 StVZO)
 
-�
+
 
 -   :: Rückfahrscheinwerfer (§ 52a StVZO)
 
-�
+
 
 -   :: Schlußleuchten (§ 53 Abs. 1 und 6, § 53b Abs. 1 und 2, § 67 Abs. 4, 5 und 11 StVZO)
 
-�
+
 
 -   :: Bremsleuchten (§ 53 Abs. 2 StVZO)
 
-�
+
 
 -   :: Nebelschlußleuchten (§ 53d StVZO)
 
-�
+
 
 -   :: Fahrtrichtungsanzeiger und Blinkleuchten (§ 53b Abs. 5 und § 54 StVZO)
 
-�
+
 
 -   :: Leuchten zur Sicherung hinausragender Ladung (§ 22 Abs. 4 und 5 der StVO)
 
@@ -340,7 +340,7 @@ Unterlagen jeweils in dreifacher Ausfertigung (Erläuterungen, Zeichnungen, Ein-
 
 - 9. :: Warndreiecke sowie Blinkleuchten und Warnleuchten zur Sicherung haltender Fahrzeuge (§ 53a Abs. 1 und 3, § 53b Abs. 5 StVZO)
 
-�
+
 
 Zeichnung(en) in dreifacher Ausfertigung.
 
@@ -387,7 +387,7 @@ Zeichnung(en) in dreifacher Ausfertigung.
 
 - 14. :: Park-Warntafeln (§ 51c Abs. 1, 2 und 5 sowie § 53b StVZO) Warnmarkierungen für Hubladebühnen (§ 53b Abs. 5 StVZO)
 
-�
+
 
 Zeichnung(en) in dreifacher Ausfertigung.
 
@@ -407,7 +407,7 @@ Zeichnung(en) und Beschreibung der Wirkungsweise in dreifacher Ausfertigung.
 
 - 16. :: (weggefallen)
 
-�
+
 
 - 17. :: Reifen (§ 36 Abs. 1a StVZO)
 
@@ -424,7 +424,7 @@ Muster, Zeichnungen und Beschreibungen sind nach der von der Prüfstelle angewan
 
 Zeichnung(en) und Beschreibung der Wirkungsweise in zweifacher Ausfertigung.
 
-�
+
 
 
 Anlage 2 Teil 1 - (zu § 5 Abs. 1 Satz 2 Nr. 1 und 2, § 7 Abs. 3)Zuständige Prüfstellen für bestimmte Fahrzeugteile und ihre bisher zugeteilten Kennbuchstaben
@@ -499,16 +499,16 @@ Auflaufbremsen
 01187 Dresden
 -
 Einrichtungen zur Verbindung von Fahrzeugen
-�
+
 -
 Warneinrichtungen mit einer Folge von Klängen verschiedener Grundfrequenzen - Einsatzhorn
-�
+
 -
 Sicherheitsgurte
-�
+
 -
 Rückhalteeinrichtungen für Kinder in Kraftfahrzeugen
-�
+
 -
 Fahrtschreiber und Kontrollgeräte
 S

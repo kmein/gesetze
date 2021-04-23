@@ -7,8 +7,8 @@ Ausfertigungsdatum: 24.03.1997
 Inhaltsübersicht
 
 Erstes Kapitel
-Allgemeine Vorschriften�
-�
+Allgemeine Vorschriften
+
 Erster Abschnitt
 Grundsätze
 § 1
@@ -39,8 +39,8 @@ Zusammenarbeit mit den für die Wahrnehmung der Aufgaben der Grundsicherung für
 (weggefallen)
 § 11
 Eingliederungsbilanz
-�
-�
+
+
 Zweiter Abschnitt
 Berechtigte
 § 12
@@ -63,19 +63,19 @@ Behinderte Menschen
 Berufsrückkehrende
 § 21
 Träger
-�
-�
+
+
 Dritter Abschnitt
 Verhältnis der Leistungen aktiver Arbeitsförderung zu anderen Leistungen
 § 22
 Verhältnis zu anderen Leistungen
 § 23
 Vorleistungspflicht der Arbeitsförderung
-�
+
 Zweites Kapitel
 Versicherungspflicht
-�
-�
+
+
 Erster Abschnitt
 Beschäftigte, Sonstige Versicherungspflichtige
 § 24
@@ -88,22 +88,22 @@ Sonstige Versicherungspflichtige
 Versicherungsfreie Beschäftigte
 § 28
 Sonstige versicherungsfreie Personen
-�
-�
+
+
 Zweiter Abschnitt
 Versicherungspflichtverhältnis auf Antrag
 § 28a
 Versicherungspflichtverhältnis auf Antrag
-�
-�
+
+
 Drittes Kapitel
 Aktive Arbeitsförderung
-�
-�
+
+
 Erster Abschnitt
 Beratung und Vermittlung
-�
-�
+
+
 Erster Unterabschnitt
 Beratung
 § 29
@@ -120,8 +120,8 @@ Eignungsfeststellung
 Berufsorientierung
 § 34
 Arbeitsmarktberatung
-�
-�
+
+
 Zweiter Unterabschnitt
 Vermittlung
 § 35
@@ -136,8 +136,8 @@ Rechte und Pflichten der Ausbildung- und Arbeitsuchenden
 Rechte und Pflichten der Arbeitgeber
 § 39a
 Frühzeitige Förderung von Ausländerinnen und Ausländern mit Aufenthaltsgestattung
-�
-�
+
+
 Dritter Unterabschnitt
 Gemeinsame Vorschriften
 § 40
@@ -148,7 +148,7 @@ Einschränkung des Fragerechts
 Grundsatz der Unentgeltlichkeit
 § 43
 Anordnungsermächtigung
-�
+
 Zweiter Abschnitt
 Aktivierung
 und berufliche Eingliederung
@@ -160,12 +160,12 @@ Maßnahmen zur Aktivierung und beruflichen Eingliederung
 Probebeschäftigung und Arbeitshilfe für behinderte Menschen
 § 47
 Verordnungsermächtigung
-�
-�
+
+
 Dritter Abschnitt
 Berufswahl und Berufsausbildung
-�
-�
+
+
 Erster Unterabschnitt
 Übergang von der
 Schule in die Berufsausbildung
@@ -175,8 +175,8 @@ Berufsorientierungsmaßnahmen
 Berufseinstiegsbegleitung
 § 50
 Anordnungsermächtigung
-�
-�
+
+
 Zweiter Unterabschnitt
 Berufsvorbereitung
 § 51
@@ -191,8 +191,8 @@ Maßnahmekosten
 Einstiegsqualifizierung
 § 55
 Anordnungsermächtigung
-�
-�
+
+
 Dritter Unterabschnitt
 Berufsausbildungsbeihilfe
 § 56
@@ -229,8 +229,8 @@ Berufsausbildungsbeihilfe für Arbeitslose
 Auszahlung
 § 72
 Anordnungsermächtigung
-�
-�
+
+
 Vierter Unterabschnitt
 Berufsausbildung
 § 73
@@ -251,16 +251,16 @@ Außerbetriebliche Berufsausbildung
 (weggefallen)
 § 80
 Anordnungsermächtigung
-�
-�
+
+
 Fünfter Unterabschnitt
 Jugendwohnheime
 § 80a
 Förderung von Jugendwohnheimen
 § 80b
 Anordnungsermächtigung
-�
-�
+
+
 Vierter Abschnitt
 Berufliche Weiterbildung
 § 81
@@ -277,12 +277,12 @@ Fahrkosten
 Kosten für auswärtige Unterbringung und für Verpflegung
 § 87
 Kinderbetreuungskosten
-�
-�
+
+
 Fünfter Abschnitt
 Aufnahme einer Erwerbstätigkeit
-�
-�
+
+
 Erster Unterabschnitt
 Sozialversicherungspflichtige Beschäftigung
 § 88
@@ -295,23 +295,23 @@ Eingliederungszuschuss für behinderte und schwerbehinderte Menschen
 Zu berücksichtigendes Arbeitsentgelt und Auszahlung des Zuschusses
 § 92
 Förderungsausschluss und Rückzahlung
-�
-�
+
+
 Zweiter Unterabschnitt
 Selbständige Tätigkeit
 § 93
 Gründungszuschuss
 § 94
 Dauer und Höhe der Förderung
-�
-�
+
+
 Sechster Abschnitt
    Verbleib in Beschäftigung
-  �
+  
    Erster Unterabschnitt
    Kurzarbeitergeld
-�
-�
+
+
    Erster Titel
    Regelvoraussetzungen
 § 95
@@ -326,8 +326,8 @@ Persönliche Voraussetzungen
 Anzeige des Arbeitsausfalls
 § 100
 Kurzarbeitergeld bei Arbeitskämpfen
-�
-�
+
+
    Zweiter Titel
    Sonderformen
    des Kurzarbeitergeldes
@@ -337,8 +337,8 @@ Saison-Kurzarbeitergeld
 Ergänzende Leistungen
 § 103
 Kurzarbeitergeld für Heimarbeiterinnen und Heimarbeiter
-�
-�
+
+
    Dritter Titel
    Leistungsumfang
 § 104
@@ -349,27 +349,27 @@ Höhe
 Nettoentgeltdifferenz
 § 106a
 Erstattungen bei beruflicher Weiterbildung während Kurzarbeit
-�
-�
+
+
 Vierter Titel
 Anwendung anderer Vorschriften
 § 107
 Anwendung anderer Vorschriften
-�
-�
+
+
    Fünfter Titel
    Verfügung
    über das Kurzarbeitergeld
 § 108
 Verfügung über das Kurzarbeitergeld
-�
-�
+
+
 Sechster Titel
 Verordnungsermächtigung
 § 109
 Verordnungsermächtigung
-�
-�
+
+
 Zweiter Unterabschnitt
 Transferleistungen
 § 110
@@ -378,13 +378,13 @@ Transfermaßnahmen
 Transferkurzarbeitergeld
 § 111a
 Förderung der beruflichen Weiterbildung bei Transferkurzarbeitergeld
-�
-�
+
+
 Siebter Abschnitt
 Teilhabe behinderter\\
 Menschen am Arbeitsleben
-�
-�
+
+
 Erster Unterabschnitt
 Grundsätze
 § 112
@@ -393,28 +393,28 @@ Teilhabe am Arbeitsleben
 Leistungen zur Teilhabe
 § 114
 Leistungsrahmen
-�
-�
+
+
 Zweiter Unterabschnitt
 Allgemeine Leistungen
 § 115
 Leistungen
 § 116
 Besonderheiten
-�
-�
+
+
 Dritter Unterabschnitt
 Besondere Leistungen
-�
-�
+
+
 Erster Titel
 Allgemeines
 § 117
 Grundsatz
 § 118
 Leistungen
-�
-�
+
+
 Zweiter Titel
 Übergangsgeld und Ausbildungsgeld
 § 119
@@ -433,22 +433,22 @@ Ausbildungsgeld bei berufsvorbereitenden Bildungsmaßnahmen und bei Grundausbild
 Ausbildungsgeld bei Maßnahmen in anerkannten Werkstätten für behinderte Menschen und bei Maßnahmen anderer Leistungsanbieter nach § 60 des Neunten Buches
 § 126
 Einkommensanrechnung
-�
-�
+
+
 Dritter Titel
 Teilnahmekosten für Maßnahmen
 § 127
 Teilnahmekosten für Maßnahmen
 § 128
 Kosten für Unterkunft und Verpflegung bei anderweitiger auswärtiger Unterbringung
-�
-�
+
+
 Vierter Titel
 Anordnungsermächtigung
 § 129
 Anordnungsermächtigung
-�
-�
+
+
 Achter Abschnitt
 Befristete Leistungen und innovative Ansätze
 § 130
@@ -467,15 +467,15 @@ Saison-Kurzarbeitergeld und ergänzende Leistungen im Gerüstbauerhandwerk
 (weggefallen)
 § 135
 Erprobung innovativer Ansätze
-�
-�
+
+
 Viertes Kapitel
 Arbeitslosengeld und Insolvenzgeld
-�
+
 Erster Abschnitt
 Arbeitslosengeld
-�
-�
+
+
 Erster Unterabschnitt
 Regelvoraussetzungen
 § 136
@@ -496,23 +496,23 @@ Anwartschaftszeit
 Rahmenfrist
 § 144
 Anspruchsvoraussetzungen bei beruflicher Weiterbildung
-�
+
 Zweiter Unterabschnitt
 Sonderformen des Arbeitslosengeldes
 § 145
 Minderung der Leistungsfähigkeit
 § 146
 Leistungsfortzahlung bei Arbeitsunfähigkeit
-�
-�
+
+
 Dritter Unterabschnitt
 Anspruchsdauer
 § 147
 Grundsatz
 § 148
 Minderung der Anspruchsdauer
-�
-�
+
+
 Vierter Unterabschnitt
 Höhe des Arbeitslosengeldes
 § 149
@@ -527,8 +527,8 @@ Fiktive Bemessung
 Leistungsentgelt
 § 154
 Berechnung und Leistung
-�
-�
+
+
 Fünfter Unterabschnitt
 Minderung des Arbeitslosengeldes,\\
 Zusammentreffen des Anspruchs mit sonstigem Einkommen und Ruhen des Anspruchs
@@ -544,20 +544,20 @@ Ruhen des Anspruchs bei Entlassungsentschädigung
 Ruhen bei Sperrzeit
 § 160
 Ruhen bei Arbeitskämpfen
-�
-�
+
+
 Sechster Unterabschnitt
 Erlöschen des Anspruchs
 § 161
 Erlöschen des Anspruchs
-�
-�
+
+
 Siebter Unterabschnitt
 Teilarbeitslosengeld
 § 162
 Teilarbeitslosengeld
-�
-�
+
+
 Achter Unterabschnitt
 Verordnungsermächtigung\\
 und Anordnungsermächtigung
@@ -565,8 +565,8 @@ und Anordnungsermächtigung
 Verordnungsermächtigung
 § 164
 Anordnungsermächtigung
-�
-�
+
+
 Zweiter Abschnitt
 Insolvenzgeld
 § 165
@@ -585,8 +585,8 @@ Verfügungen über das Arbeitsentgelt
 Verfügungen über das Insolvenzgeld
 § 172
 Datenaustausch und Datenübermittlung
-�
-�
+
+
 Dritter Abschnitt
 Ergänzende\\
 Regelungen zur Sozialversicherung
@@ -596,7 +596,7 @@ Regelungen zur Sozialversicherung
 Übernahme von Beiträgen bei Befreiung von der Versicherungspflicht in der Kranken- und Pflegeversicherung
 § 175
 Zahlung von Pflichtbeiträgen bei Insolvenzereignis
-�
+
 Fünftes Kapitel
 Zulassung von Trägern und Maßnahmen
 § 176
@@ -617,20 +617,20 @@ Beirat
 Qualitätsprüfung
 § 184
 Verordnungsermächtigung
-�
+
 Sechstes Kapitel
 Ergänzende vergabespezifische Regelungen
-�
-�
+
+
 § 185
 Vergabespezifisches Mindestentgelt für Aus- und Weiterbildungsdienstleistungen
 §§ 186 bis 279a
 (weggefallen)
-�
+
 Siebtes Kapitel
 Weitere Aufgaben der Bundesagentur
-�
-�
+
+
 Erster Abschnitt
 Statistiken, Arbeitsmarkt- und Berufsforschung, Berichterstattung
 § 280
@@ -645,12 +645,12 @@ Arbeitsmarkt- und Berufsforschung
 Speicherung, Veränderung, Nutzung, Übermittlung, Einschränkung der Verarbeitung oder Löschung von Daten für die Ausbildungsvermittlung durch die Bundesagentur
 § 283
 Arbeitsmarktberichterstattung, Weisungsrecht
-�
-�
+
+
 Zweiter Abschnitt
 Erteilung von Genehmigungen und Erlaubnissen
-�
-�
+
+
 Erster Unterabschnitt
 Beschäftigung von\\
 Ausländerinnen und Ausländern
@@ -662,12 +662,12 @@ Arbeitsgenehmigung-EU für Staatsangehörige der neuen EU-Mitgliedstaaten
 Gebühren für die Durchführung der Vereinbarungen über Werkvertragsarbeitnehmerinnen und Werkvertragsarbeitnehmer
 § 288
 Verordnungsermächtigung und Weisungsrecht
-�
-�
+
+
 Zweiter Unterabschnitt
 Beratung und Vermittlung durch Dritte
-�
-�
+
+
 Erster Titel
 Berufsberatung
 § 288a
@@ -676,8 +676,8 @@ Untersagung der Berufsberatung
 Offenbarungspflicht
 § 290
 Vergütungen
-�
-�
+
+
 Zweiter Titel
 Ausbildungsvermittlung und Arbeitsvermittlung
 § 291
@@ -696,36 +696,36 @@ Unwirksamkeit von Vereinbarungen
 Behandlung von Daten
 §§ 299 und 300
 (weggefallen)
-�
-�
+
+
 Dritter Titel
 Verordnungsermächtigung
 § 301
 Verordnungsermächtigung
 §§ 302 und 303
 (weggefallen)
-�
-�
+
+
 Dritter Abschnitt
 §§ 304 - 308
 (weggefallen)
-�
+
 Achtes Kapitel
 Pflichten
-�
-�
+
+
 Erster Abschnitt
 Pflichten im Leistungsverfahren
-�
-�
+
+
 Erster Unterabschnitt
 Meldepflichten
 § 309
 Allgemeine Meldepflicht
 § 310
 Meldepflicht bei Wechsel der Zuständigkeit
-�
-�
+
+
 Zweiter Unterabschnitt
 Anzeige- und Bescheinigungspflichten
 § 311
@@ -740,8 +740,8 @@ Nebeneinkommensbescheinigung
 Elektronische Bescheinigung
 § 314
 Insolvenzgeldbescheinigung
-�
-�
+
+
 Dritter Unterabschnitt
 Auskunfts-, Mitwirkungs- und Duldungspflichten
 § 315
@@ -754,31 +754,31 @@ Auskunftspflicht bei Kurzarbeitergeld und Wintergeld
 Auskunftspflicht bei Maßnahmen der beruflichen Aus- oder Weiterbildung, Leistungen zur Teilhabe am Arbeitsleben, zur Aktivierung und beruflichen Eingliederung
 § 319
 Mitwirkungs- und Duldungspflichten
-�
-�
+
+
 Vierter Unterabschnitt
 Sonstige Pflichten
 § 320
 Berechnungs-, Auszahlungs-, Aufzeichnungs- und Anzeigepflichten
-�
-�
+
+
 Zweiter Abschnitt
 Schadensersatz bei Pflichtverletzungen
 § 321
 Schadensersatz
-�
-�
+
+
 Dritter Abschnitt
 Verordnungsermächtigung und Anordnungsermächtigung
 § 321a
 Verordnungsermächtigung
 § 322
 Anordnungsermächtigung
-�
+
 Neuntes Kapitel
 Gemeinsame Vorschriften für Leistungen
-�
-�
+
+
 Erster Abschnitt
 Antrag und Fristen
 § 323
@@ -789,14 +789,14 @@ Antrag vor Leistung
 Wirkung des Antrages
 § 326
 Ausschlußfrist für Gesamtabrechnung
-�
-�
+
+
 Zweiter Abschnitt
 Zuständigkeit
 § 327
 Grundsatz
-�
-�
+
+
 Dritter Abschnitt
 Leistungsverfahren in Sonderfällen
 § 328
@@ -819,35 +819,35 @@ Erstattung von Beiträgen zur Kranken-, Renten- und Pflegeversicherung
 Leistungsrechtliche Bindung
 § 336a
 Wirkung von Widerspruch und Klage
-�
-�
+
+
 Vierter Abschnitt
 Auszahlung von Geldleistungen
 § 337
 Auszahlung im Regelfall
-�
-�
+
+
 Fünfter Abschnitt
 Berechnungsgrundsätze
 § 338
 Allgemeine Berechnungsgrundsätze
 § 339
 Berechnung von Zeiten
-�
+
 Zehntes Kapitel
 Finanzierung
-�
-�
+
+
 Erster Abschnitt
 Finanzierungsgrundsatz
 § 340
 Aufbringung der Mittel
-�
-�
+
+
 Zweiter Abschnitt
 Beiträge und Verfahren
-�
-�
+
+
 Erster Unterabschnitt
 Beiträge
 § 341
@@ -864,8 +864,8 @@ Beitragspflichtige Einnahmen sonstiger Versicherungspflichtiger
 Pauschalierung der Beiträge
 § 345b
 Beitragspflichtige Einnahmen bei einem Versicherungspflichtverhältnis auf Antrag
-�
-�
+
+
 Zweiter Unterabschnitt
 Verfahren
 § 346
@@ -882,8 +882,8 @@ Beitragstragung und Beitragszahlung bei einem Versicherungspflichtverhältnis au
 Meldungen der Sozialversicherungsträger
 § 351
 Beitragserstattung
-�
-�
+
+
 Dritter Unterabschnitt
 Verordnungsermächtigung, Anordnungsermächtigung und Ermächtigung zum Erlass von Verwaltungsvorschriften
 § 352
@@ -892,12 +892,12 @@ Verordnungsermächtigung
 Anordnungsermächtigung
 § 353
 Ermächtigung zum Erlaß von Verwaltungsvorschriften
-�
-�
+
+
 Dritter Abschnitt
 Umlagen
-�
-�
+
+
 Erster Unterabschnitt
 Winterbeschäftigungs-Umlage
 § 354
@@ -908,8 +908,8 @@ Höhe der Umlage
 Umlageabführung
 § 357
 Verordnungsermächtigung
-�
-�
+
+
 Zweiter Unterabschnitt
 Umlage für das Insolvenzgeld
 § 358
@@ -922,8 +922,8 @@ Umlagesatz
 Verordnungsermächtigung
 § 362
 (weggefallen)
-�
-�
+
+
 Vierter Abschnitt
 Beteiligung des Bundes
 § 363
@@ -932,19 +932,19 @@ Finanzierung aus Bundesmitteln
 Liquiditätshilfen
 § 365
 Stundung von Darlehen
-�
-�
+
+
 Fünfter Abschnitt
 Rücklage und Versorgungsfonds
 § 366
 Bildung und Anlage der Rücklage
 § 366a
 Versorgungsfonds
-�
+
 Elftes Kapitel
 Organisation und Datenschutz
-�
-�
+
+
 Erster Abschnitt
 Bundesagentur für Arbeit
 § 367
@@ -957,12 +957,12 @@ Aufgaben der Bundesagentur
 Besonderheiten zum Gerichtsstand
 § 370
 Beteiligung an Gesellschaften
-�
-�
+
+
 Zweiter Abschnitt
 Selbstverwaltung
-�
-�
+
+
 Erster Unterabschnitt
 Verfassung
 § 371
@@ -979,8 +979,8 @@ Verwaltungsausschüsse
 Amtsdauer
 § 376
 Entschädigung der ehrenamtlich Tätigen
-�
-�
+
+
 Zweiter Unterabschnitt
 Berufung und Abberufung
 § 377
@@ -989,14 +989,14 @@ Berufung und Abberufung der Mitglieder
 Berufungsfähigkeit
 § 379
 Vorschlagsberechtigte Stellen
-�
-�
+
+
 Dritter Unterabschnitt
 Neutralitätsausschuss
 § 380
 Neutralitätsausschuss
-�
-�
+
+
 Dritter Abschnitt
 Vorstand und Verwaltung
 § 381
@@ -1023,14 +1023,14 @@ Außertarifliche Arbeitsbedingungen und Vergütungen
 (weggefallen)
 § 392
 Obergrenzen für Beförderungsämter
-�
-�
+
+
 Vierter Abschnitt
 Aufsicht
 § 393
 Aufsicht
-�
-�
+
+
 Fünfter Abschnitt
 Datenschutz
 § 394
@@ -1045,43 +1045,43 @@ Automatisierter Datenabgleich
 Datenübermittlung durch beauftragte Dritte
 §§ 399 bis 403
 (weggefallen)
-�
+
 Zwölftes Kapitel
 Bußgeldvorschriften
-�
-�
+
+
 Erster Abschnitt
 Bußgeldvorschriften
 § 404
 Bußgeldvorschriften
 § 405
 Zuständigkeit, Vollstreckung und Unterrichtung
-�
-�
+
+
 Zweiter Abschnitt
 § 406
 (weggefallen)
 § 407
 (weggefallen)
-�
+
 Dreizehntes Kapitel
 Sonderregelungen
-�
-�
+
+
 Erster Abschnitt
 Sonderregelungen im Zusammenhang mit der Herstellung der Einheit Deutschlands
 § 408
 Besondere Bezugsgröße und Beitragsbemessungsgrenze
 §§ 409 bis 416a
 (weggefallen)
-�
-�
+
+
 Zweiter Abschnitt
 Ergänzungen für\\
 übergangsweise mögliche\\
 Leistungen und zeitweilige Aufgaben
 § 417
-Sonderregelung zum Bundesprogramm �Ausbildungsplätze sichern“
+Sonderregelung zum Bundesprogramm Ausbildungsplätze sichern“
 § 418
 Tragung der Beiträge zur Arbeitsförderung bei Beschäftigung älterer Arbeitnehmerinnen und Arbeitnehmer
 § 419
@@ -1100,16 +1100,16 @@ Vorübergehende Sonderregelungen im Zusammenhang mit Kurzarbeit
 Vorübergehende Sonderregelungen zum Arbeitslosengeld
 § 421e
 Vorübergehende Sonderregelungen im Zusammenhang mit dem Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union
-�
-�
+
+
 Dritter Abschnitt
 Grundsätze bei Rechtsänderungen
 § 422
 Leistungen der aktiven Arbeitsförderung
 §§ 423 und 424
 (weggefallen)
-�
-�
+
+
 Vierter Abschnitt
 Sonderregelungen im Zusammenhang mit der Einordnung des Arbeitsförderungsrechts in das Sozialgesetzbuch
 § 425
@@ -1132,8 +1132,8 @@ Sonstige Entgeltersatzleistungen
 (weggefallen)
 § 433
 (weggefallen)
-�
-�
+
+
 Fünfter Abschnitt
 Übergangsregelungen\\
 auf Grund von Änderungsgesetzen
@@ -3431,9 +3431,9 @@ Satz 1 gilt nicht für Maßnahmen, die
 (5) Die fachkundige Stelle kann die Zulassung maßnahmebezogen und örtlich einschränken, wenn dies unter Berücksichtigung aller Umstände sowie von Lage und voraussichtlicher Entwicklung des Arbeitsmarktes gerechtfertigt ist oder dies beantragt wird. § 177 Absatz 3 Satz 2 und 3 und Absatz 4 gilt entsprechend.
 (6) Mit der Zulassung wird ein Zertifikat vergeben. Die Zertifikate für die Zulassung des Trägers und für die Zulassung von Maßnahmen nach § 45 Absatz 4 Satz 3 Nummer 1 und den §§ 81 und 82 werden wie folgt bezeichnet:
 
-- 1. :: �Zugelassener Träger nach dem Recht der Arbeitsförderung. Zugelassen durch (Name der fachkundigen Stelle) -- von (Name der Akkreditierungsstelle) akkreditierte Zertifizierungsstelle“,
-- 2. :: �Zugelassene Maßnahme zur Aktivierung und beruflichen Eingliederung nach dem Recht der Arbeitsförderung. Zugelassen durch (Name der fachkundigen Stelle) -- von (Name der Akkreditierungsstelle) akkreditierte Zertifizierungsstelle“ oder
-- 3. :: �Zugelassene Weiterbildungsmaßnahme für die Förderung der beruflichen Weiterbildung nach dem Recht der Arbeitsförderung. Zugelassen durch (Name der fachkundigen Stelle) -- von (Name der Akkreditierungsstelle) akkreditierte Zertifizierungsstelle“.
+- 1. :: Zugelassener Träger nach dem Recht der Arbeitsförderung. Zugelassen durch (Name der fachkundigen Stelle) -- von (Name der Akkreditierungsstelle) akkreditierte Zertifizierungsstelle“,
+- 2. :: Zugelassene Maßnahme zur Aktivierung und beruflichen Eingliederung nach dem Recht der Arbeitsförderung. Zugelassen durch (Name der fachkundigen Stelle) -- von (Name der Akkreditierungsstelle) akkreditierte Zertifizierungsstelle“ oder
+- 3. :: Zugelassene Weiterbildungsmaßnahme für die Förderung der beruflichen Weiterbildung nach dem Recht der Arbeitsförderung. Zugelassen durch (Name der fachkundigen Stelle) -- von (Name der Akkreditierungsstelle) akkreditierte Zertifizierungsstelle“.
 
 (7) Die fachkundige Stelle ist verpflichtet, die Zulassung zu entziehen, wenn der Träger die rechtlichen Anforderungen auch nach Ablauf einer von ihr gesetzten, drei Monate nicht überschreitenden Frist nicht erfüllt.
 (8) Die fachkundige Stelle hat die Kostensätze der zugelassenen Maßnahmen zu erfassen und der Bundesagentur vorzulegen.
@@ -4257,9 +4257,9 @@ Kann die Bundesagentur als Liquiditätshilfen geleistete Darlehen des Bundes bis
 - 2. :: Beamtinnen und Beamte und
 - 3. :: Beschäftigte, denen eine Anwartschaft auf Versorgung nach beamtenrechtlichen Vorschriften oder Grundsätzen gewährleistet wird,
 
-wird ein Sondervermögen der Bundesagentur unter dem Namen �Versorgungsfonds der Bundesagentur für Arbeit“ errichtet. Dies gilt nicht für Personen im Beamtenverhältnis auf Widerruf.
+wird ein Sondervermögen der Bundesagentur unter dem Namen Versorgungsfonds der Bundesagentur für Arbeit“ errichtet. Dies gilt nicht für Personen im Beamtenverhältnis auf Widerruf.
 
-(2) Das Sondervermögen �Versorgungsfonds der Bundesagentur für Arbeit“ wird finanziert aus
+(2) Das Sondervermögen Versorgungsfonds der Bundesagentur für Arbeit“ wird finanziert aus
 
 - 1. :: regelmäßigen sowie ergänzenden Zuweisungen der Bundesagentur,
 - 2. :: den sich nach § 14a Absatz 2 bis 3 des Bundesbesoldungsgesetzes ergebenden Beträgen und
@@ -4652,9 +4652,9 @@ maßgebend, wenn der Beschäftigungsort im Beitrittsgebiet liegt.
 § 416a - (weggefallen)
 
 
-§ 417 - Sonderregelung zum Bundesprogramm �Ausbildungsplätze sichern“
+§ 417 - Sonderregelung zum Bundesprogramm Ausbildungsplätze sichern“
 
-Soweit die Bundesregierung die Umsetzung des Bundesprogramms �Ausbildungsplätze sichern“ der Bundesagentur überträgt, erstattet der Bund der Bundesagentur abweichend von § 363 Absatz 1 Satz 2 die durch die Umsetzung entstehenden Verwaltungskosten.
+Soweit die Bundesregierung die Umsetzung des Bundesprogramms Ausbildungsplätze sichern“ der Bundesagentur überträgt, erstattet der Bund der Bundesagentur abweichend von § 363 Absatz 1 Satz 2 die durch die Umsetzung entstehenden Verwaltungskosten.
 
 § 418 - Tragung der Beiträge zur Arbeitsförderung bei Beschäftigung älterer Arbeitnehmerinnen und Arbeitnehmer
 
@@ -4666,7 +4666,7 @@ Soweit die Bundesregierung die Umsetzung des Bundesprogramms �Ausbildungsplätz
 
 § 420 - Versicherungsfreiheit von Teilnehmerinnen und Teilnehmern des Programms Soziale Teilhabe am Arbeitsmarkt
 
-Versicherungsfrei sind Personen in einer Beschäftigung, die im Rahmen des Bundesprogramms �Soziale Teilhabe am Arbeitsmarkt“ durch Zuwendungen des Bundes gefördert wird.
+Versicherungsfrei sind Personen in einer Beschäftigung, die im Rahmen des Bundesprogramms Soziale Teilhabe am Arbeitsmarkt“ durch Zuwendungen des Bundes gefördert wird.
 
 § 421 - Förderung der Teilnahme an Sprachkursen
 

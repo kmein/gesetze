@@ -70,7 +70,7 @@ Bemerkungen
 
 Schleswig-Holstein\\
 \\
-Oberfinanzdirektion Kiel †
+Oberfinanzdirektion Kiel 
 
 11.01
 
@@ -90,7 +90,7 @@ Meldorf
 
 75
 
-†
+
 
 11.03
 
@@ -100,7 +100,7 @@ Husum
 
 47
 
-†
+
 
 11.04
 
@@ -110,7 +110,7 @@ Husum
 
 35
 
-†
+
 
 11.05
 
@@ -120,7 +120,7 @@ Pl√∂n
 
 34
 
-†
+
 
 11.06
 
@@ -150,7 +150,7 @@ Itzehoe
 
 11,0
 
-†
+
 
 11.09
 
@@ -160,7 +160,7 @@ Oldenburg-Holstein
 
 63
 
-†
+
 
 11.10
 
@@ -170,7 +170,7 @@ Bad Segeberg
 
 21
 
-†
+
 
 11.11
 
@@ -190,7 +190,7 @@ Eutin
 
 45
 
-†
+
 
 11.13
 
@@ -200,7 +200,7 @@ Heide
 
 47
 
-†
+
 
 11.14
 
@@ -210,7 +210,7 @@ Husum
 
 71
 
-†
+
 
 11.15
 
@@ -230,7 +230,7 @@ Heide
 
 60
 
-†
+
 
 11.17
 
@@ -252,11 +252,11 @@ Flensburg
 
 H
 
-†
+
 
 Niedersachsen\\
 \\
-Oberfinanzdirektion Hannover - Steuerabteilung Hannover †
+Oberfinanzdirektion Hannover - Steuerabteilung Hannover 
 
 21.01
 
@@ -266,7 +266,7 @@ Hildesheim
 
 108
 
-†
+
 
 21.02
 
@@ -276,7 +276,7 @@ Peine
 
 37
 
-†
+
 
 21.03
 
@@ -286,7 +286,7 @@ Stadthagen
 
 66
 
-†
+
 
 21.04
 
@@ -296,7 +296,7 @@ Northeim
 
 74
 
-†
+
 
 21.05
 
@@ -306,7 +306,7 @@ Northeim
 
 54
 
-†
+
 
 21.06
 
@@ -346,7 +346,7 @@ Osterholz-Scharmbeck
 
 16,5
 
-†
+
 
 21.10
 
@@ -356,7 +356,7 @@ Sulingen
 
 52
 
-†
+
 
 21.11
 
@@ -426,7 +426,7 @@ Otterndorf
 
 19,5
 
-†
+
 
 21.18
 
@@ -436,7 +436,7 @@ Verden
 
 53
 
-†
+
 
 21.19
 
@@ -446,7 +446,7 @@ Rinteln
 
 74
 
-†
+
 
 21.20
 
@@ -456,7 +456,7 @@ Hameln
 
 18,0
 
-†
+
 
 21.21
 
@@ -476,7 +476,7 @@ Weserm√ºnde-Land
 
 50
 
-†
+
 
 21.23
 
@@ -486,7 +486,7 @@ Peine
 
 43
 
-†
+
 
 21.24
 
@@ -496,7 +496,7 @@ Nienburg
 
 43
 
-†
+
 
 21.25
 
@@ -566,7 +566,7 @@ Helmstedt
 
 47
 
-†
+
 
 21.32
 
@@ -616,7 +616,7 @@ Alfeld
 
 70
 
-†
+
 
 21.37
 
@@ -636,7 +636,7 @@ L√ºneburg
 
 26
 
-†
+
 
 21.39
 
@@ -658,9 +658,9 @@ Gifhorn
 
 H, Spa (vgl. Spa 21.01)
 
-†
 
-Oberfinanzdirektion Hannover - Steuerabteilung Oldenburg †
+
+Oberfinanzdirektion Hannover - Steuerabteilung Oldenburg 
 
 22.01
 
@@ -710,7 +710,7 @@ Nordenham
 
 54
 
-†
+
 
 22.06
 
@@ -740,7 +740,7 @@ Aschendorf
 
 15,0
 
-†
+
 
 22.09
 
@@ -760,7 +760,7 @@ Emden
 
 29
 
-†
+
 
 22.11
 
@@ -770,7 +770,7 @@ Wittmund
 
 48
 
-†
+
 
 22.12
 
@@ -780,7 +780,7 @@ Wittmund
 
 61
 
-†
+
 
 22.13
 
@@ -790,7 +790,7 @@ Westerstede
 
 34
 
-†
+
 
 22.14
 
@@ -800,7 +800,7 @@ Nordenham
 
 19,0
 
-†
+
 
 22.15
 
@@ -810,7 +810,7 @@ Emden
 
 45
 
-†
+
 
 22.16
 
@@ -820,7 +820,7 @@ Leer
 
 29
 
-†
+
 
 22.17
 
@@ -840,7 +840,7 @@ Aschendorf
 
 36
 
-†
+
 
 22.19
 
@@ -850,7 +850,7 @@ Aurich
 
 22
 
-†
+
 
 22.20
 
@@ -870,7 +870,7 @@ Westerstede
 
 17,0
 
-†
+
 
 22.22
 
@@ -880,7 +880,7 @@ Oldenburg
 
 17,0
 
-†
+
 
 22.23
 
@@ -890,7 +890,7 @@ Wilhelmshaven
 
 39
 
-†
+
 
 22.24
 
@@ -910,7 +910,7 @@ Cloppenburg
 
 13,0
 
-†
+
 
 22.26
 
@@ -920,13 +920,13 @@ Aschendorf
 
 8,5
 
-†
 
-†
+
+
 
 Nordrhein-Westfalen\\
 \\
-Oberfinanzdirektionen M√ºnster, D√ºsseldorf, K√∂ln †
+Oberfinanzdirektionen M√ºnster, D√ºsseldorf, K√∂ln 
 
 31.01
 
@@ -956,7 +956,7 @@ Soest
 
 87
 
-†
+
 
 31.04
 
@@ -976,7 +976,7 @@ Lippstadt
 
 25
 
-†
+
 
 31.06
 
@@ -1016,7 +1016,7 @@ Siegen
 
 7,5
 
-†
+
 
 31.10
 
@@ -1026,7 +1026,7 @@ Warburg
 
 69
 
-†
+
 
 31.11
 
@@ -1036,7 +1036,7 @@ Borken
 
 33
 
-†
+
 
 31.12
 
@@ -1056,7 +1056,7 @@ L√ºbbecke
 
 36
 
-†
+
 
 31.14
 
@@ -1088,9 +1088,9 @@ Lemgo
 
 H
 
-†
 
-D√ºsseldorf †
+
+D√ºsseldorf 
 
 32.01
 
@@ -1100,7 +1100,7 @@ D√ºlken
 
 71
 
-†
+
 
 32.02
 
@@ -1110,7 +1110,7 @@ Moers
 
 86
 
-†
+
 
 32.03
 
@@ -1120,7 +1120,7 @@ Kleve
 
 75
 
-†
+
 
 32.04
 
@@ -1130,7 +1130,7 @@ Wesel
 
 45
 
-†
+
 
 32.05
 
@@ -1140,7 +1140,7 @@ Wesel
 
 76
 
-†
+
 
 32.06
 
@@ -1150,11 +1150,11 @@ D'dorf-Mettmann
 
 78
 
-†
 
-†
 
-K√∂ln †
+
+
+K√∂ln 
 
 33.01
 
@@ -1164,7 +1164,7 @@ Bergheim
 
 120
 
-†
+
 
 33.02
 
@@ -1204,7 +1204,7 @@ Aachen-Land und Monschau
 
 52
 
-†
+
 
 33.06
 
@@ -1214,7 +1214,7 @@ Euskirchen
 
 75
 
-†
+
 
 33.07
 
@@ -1236,11 +1236,11 @@ Bergheim
 
 Industriesch√§den
 
-†
+
 
 Rheinland-Pfalz\\
 \\
-Oberfinanzdirektion Koblenz †
+Oberfinanzdirektion Koblenz 
 
 41.01
 
@@ -1250,7 +1250,7 @@ Speyer
 
 58
 
-†
+
 
 41.02
 
@@ -1270,7 +1270,7 @@ Kaiserslautern
 
 36
 
-†
+
 
 41.04
 
@@ -1300,7 +1300,7 @@ Simmern
 
 28
 
-†
+
 
 41.07
 
@@ -1320,7 +1320,7 @@ Neuwied
 
 29
 
-†
+
 
 41.09
 
@@ -1370,7 +1370,7 @@ Saarburg
 
 9,0
 
-†
+
 
 41.14
 
@@ -1380,7 +1380,7 @@ Hachenburg
 
 17,5
 
-†
+
 
 41.15
 
@@ -1410,7 +1410,7 @@ Kaiserslautern
 
 43
 
-†
+
 
 41.18
 
@@ -1430,7 +1430,7 @@ St. Goarshausen
 
 39
 
-†
+
 
 41.20
 
@@ -1460,13 +1460,13 @@ Bernkastel
 
 21
 
-†
 
-†
+
+
 
 Hessen\\
 \\
-Oberfinanzdirektion Frankfurt/Main †
+Oberfinanzdirektion Frankfurt/Main 
 
 51.01
 
@@ -1476,7 +1476,7 @@ Frankenberg
 
 57
 
-†
+
 
 51.02
 
@@ -1486,7 +1486,7 @@ Kassel-Spohrstra√üe
 
 57
 
-†
+
 
 51.03
 
@@ -1496,7 +1496,7 @@ Ffm-H√∂chst
 
 53
 
-†
+
 
 51.04
 
@@ -1506,7 +1506,7 @@ Korbach
 
 43
 
-†
+
 
 51.05
 
@@ -1516,7 +1516,7 @@ Ziegenhain
 
 40
 
-†
+
 
 51.06
 
@@ -1526,7 +1526,7 @@ Marburg
 
 56
 
-†
+
 
 51.07
 
@@ -1536,7 +1536,7 @@ Dillenburg
 
 5,0
 
-†
+
 
 51.08
 
@@ -1556,7 +1556,7 @@ Ffm-H√∂chst
 
 24
 
-†
+
 
 51.10
 
@@ -1566,7 +1566,7 @@ Hanau
 
 45
 
-†
+
 
 51.11
 
@@ -1596,7 +1596,7 @@ Hofgeismar
 
 63
 
-†
+
 
 51.14
 
@@ -1606,7 +1606,7 @@ Ffm-H√∂chst
 
 68
 
-†
+
 
 51.15
 
@@ -1616,7 +1616,7 @@ Giessen
 
 35
 
-†
+
 
 51.16
 
@@ -1626,7 +1626,7 @@ Nidda
 
 20
 
-†
+
 
 51.17
 
@@ -1646,7 +1646,7 @@ Dieburg
 
 44
 
-†
+
 
 51.19
 
@@ -1666,7 +1666,7 @@ Gro√ü-Gerau
 
 71
 
-†
+
 
 51.21
 
@@ -1676,13 +1676,13 @@ Korbach
 
 14,0
 
-†
 
-†
+
+
 
 Saarland\\
 \\
-Oberfinanzdirektion Saarbr√ºcken †
+Oberfinanzdirektion Saarbr√ºcken 
 
 61.01
 
@@ -1702,7 +1702,7 @@ Merzig
 
 18,5
 
-†
+
 
 61.03
 
@@ -1722,7 +1722,7 @@ Saarbr√ºcken I
 
 40
 
-†
+
 
 61.05
 
@@ -1732,7 +1732,7 @@ Homburg
 
 37
 
-†
+
 
 61.06
 
@@ -1744,15 +1744,15 @@ Merzig
 
 Aussiedler
 
-†
+
 
 Baden-W√ºrttemberg\\
 \\
-Oberfinanzdirektionen Karlsruhe, Freiburg, Stuttgart †
+Oberfinanzdirektionen Karlsruhe, Freiburg, Stuttgart 
 
-†
 
-Karlsruhe †
+
+Karlsruhe 
 
 71.01
 
@@ -1762,7 +1762,7 @@ Mosbach
 
 48
 
-†
+
 
 71.02
 
@@ -1792,7 +1792,7 @@ Karlsruhe-Durlach
 
 47
 
-†
+
 
 71.05
 
@@ -1812,7 +1812,7 @@ Mannheim-Neckarstadt
 
 74
 
-†
+
 
 71.07
 
@@ -1822,7 +1822,7 @@ Sinsheim
 
 53
 
-†
+
 
 71.08
 
@@ -1844,9 +1844,9 @@ Schwetzingen
 
 Spa
 
-†
 
-Freiburg †
+
+Freiburg 
 
 72.01
 
@@ -1896,7 +1896,7 @@ Schopfheim
 
 3,0
 
-†
+
 
 72.06
 
@@ -1926,7 +1926,7 @@ Lahr
 
 46
 
-†
+
 
 72.09
 
@@ -1936,7 +1936,7 @@ Stockach
 
 27
 
-†
+
 
 72.10
 
@@ -1996,7 +1996,7 @@ Singen
 
 30
 
-†
+
 
 72.16
 
@@ -2028,9 +2028,9 @@ Freiburg
 
 Wg
 
-†
 
-Stuttgart †
+
+Stuttgart 
 
 73.01
 
@@ -2040,7 +2040,7 @@ Urach
 
 17,5
 
-†
+
 
 73.02
 
@@ -2070,7 +2070,7 @@ Aalen
 
 19,5
 
-†
+
 
 73.05
 
@@ -2100,7 +2100,7 @@ Weissbach
 
 16,0
 
-†
+
 
 73.08
 
@@ -2120,7 +2120,7 @@ Saulgau
 
 33
 
-†
+
 
 73.10
 
@@ -2130,7 +2130,7 @@ Sigmaringen
 
 24
 
-†
+
 
 73.11
 
@@ -2170,7 +2170,7 @@ Stuttgart-K√∂
 
 46
 
-†
+
 
 73.15
 
@@ -2180,7 +2180,7 @@ Kirchheim-Teck
 
 12,0
 
-†
+
 
 73.16
 
@@ -2190,7 +2190,7 @@ Balingen
 
 6,5
 
-†
+
 
 73.17
 
@@ -2242,15 +2242,15 @@ Friedrichshafen
 
 Ho, G, H (vgl. Ho 73.01)
 
-†
+
 
 Bayern\\
 \\
-Oberfinanzdirektionen N√ºrnberg, M√ºnchen †
+Oberfinanzdirektionen N√ºrnberg, M√ºnchen 
 
-†
 
-N√ºrnberg †
+
+N√ºrnberg 
 
 81.01
 
@@ -2260,7 +2260,7 @@ Forchheim
 
 26
 
-†
+
 
 81.02
 
@@ -2340,7 +2340,7 @@ Uffenheim
 
 24
 
-†
+
 
 81.10
 
@@ -2350,7 +2350,7 @@ Ochsenfurt
 
 78
 
-†
+
 
 81.11
 
@@ -2360,7 +2360,7 @@ Aschaffenburg
 
 20
 
-†
+
 
 81.12
 
@@ -2390,7 +2390,7 @@ Bamberg
 
 31
 
-†
+
 
 81.15
 
@@ -2400,7 +2400,7 @@ Coburg
 
 35
 
-†
+
 
 81.16
 
@@ -2420,7 +2420,7 @@ Hof
 
 22
 
-†
+
 
 81.18
 
@@ -2440,7 +2440,7 @@ Schweinfurt
 
 63
 
-†
+
 
 81.20
 
@@ -2450,7 +2450,7 @@ Bad Neustadt a. d. S.
 
 20
 
-†
+
 
 81.21
 
@@ -2460,7 +2460,7 @@ Ochsenfurt
 
 85
 
-†
+
 
 81.22
 
@@ -2530,7 +2530,7 @@ Marktheidenfeld
 
 52
 
-†
+
 
 81.29
 
@@ -2562,9 +2562,9 @@ Beilngries
 
 Ho (vgl. Ho 81.05)
 
-†
 
-M√ºnchen †
+
+M√ºnchen 
 
 82.01
 
@@ -2674,7 +2674,7 @@ Augsburg-Land
 
 29
 
-†
+
 
 82.12
 
@@ -2684,7 +2684,7 @@ Dillingen
 
 55
 
-†
+
 
 82.13
 
@@ -2694,7 +2694,7 @@ N√∂rdlingen
 
 54
 
-†
+
 
 82.14
 
@@ -2704,7 +2704,7 @@ Neuburg a. d. D.
 
 31
 
-†
+
 
 82.15
 
@@ -2754,7 +2754,7 @@ Landsberg/Lech
 
 16,0
 
-†
+
 
 82.20
 
@@ -2764,7 +2764,7 @@ Augsburg-Land
 
 33
 
-†
+
 
 82.21
 
@@ -2824,7 +2824,7 @@ Traunstein
 
 5,5
 
-†
+
 
 82.27
 
@@ -2884,7 +2884,7 @@ M√ºnchen-Land
 
 44
 
-†
+
 
 82.33
 
@@ -2906,15 +2906,15 @@ Pfaffenhofen
 
 H, Ho (vgl. Ho 82.01)
 
-†
+
 
 Hamburg, Bremen, Berlin\\
 \\
-Oberfinanzdirektionen Hamburg, Bremen, Berlin †
+Oberfinanzdirektionen Hamburg, Bremen, Berlin 
 
-†
 
-Hamburg †
+
+Hamburg 
 
 91.01
 
@@ -2924,7 +2924,7 @@ Hbg.-Dammtor
 
 41
 
-†
+
 
 91.02
 
@@ -2934,7 +2934,7 @@ Hbg.-Dammtor
 
 24
 
-†
+
 
 91.03
 
@@ -2944,7 +2944,7 @@ Hbg.-Dammtor
 
 38
 
-†
+
 
 91.04
 
@@ -2954,11 +2954,11 @@ Hbg.-Dammtor
 
 31
 
-†
 
-†
 
-Bremen †
+
+
+Bremen 
 
 101.01
 
@@ -2968,7 +2968,7 @@ Bremen-Mitte
 
 41
 
-†
+
 
 101.02
 
@@ -2978,11 +2978,11 @@ Bremen-Mitte
 
 31
 
-†
 
-†
 
-Berlin †
+
+
+Berlin 
 
 111.01
 

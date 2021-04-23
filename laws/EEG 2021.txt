@@ -29,61 +29,61 @@ Inhaltsübersicht
 
 Im Sinn dieses Gesetzes ist oder sind
 
-- 1. :: �Anlage“ jede Einrichtung zur Erzeugung von Strom aus erneuerbaren Energien oder aus Grubengas, wobei im Fall von Solaranlagen jedes Modul eine eigenständige Anlage ist; als Anlage gelten auch Einrichtungen, die zwischengespeicherte Energie, die ausschließlich aus erneuerbaren Energien oder Grubengas stammt, aufnehmen und in elektrische Energie umwandeln,
-- 2. :: �Anlagenbetreiber“, wer unabhängig vom Eigentum die Anlage für die Erzeugung von Strom aus erneuerbaren Energien oder aus Grubengas nutzt,
-- 3. :: �anzulegender Wert“ der Wert, den die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen (Bundesnetzagentur) im Rahmen einer Ausschreibung nach § 22 in Verbindung mit den §§ 28 bis 39n ermittelt oder der durch die §§ 40 bis 49 gesetzlich bestimmt ist und der die Grundlage für die Berechnung der Marktprämie, der Einspeisevergütung oder des Mieterstromzuschlags ist,
-- 3a. :: �ausgeförderte Anlagen“ Anlagen, die vor dem 1. Januar 2021 in Betrieb genommen worden sind und bei denen der ursprüngliche Anspruch auf Zahlung nach der für die Anlage maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes beendet ist; mehrere ausgeförderte Anlagen sind zur Bestimmung der Größe nach den Bestimmungen dieses Gesetzes zu ausgeförderten Anlagen als eine Anlage anzusehen, wenn sie nach der für sie maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes zum Zweck der Ermittlung des Anspruchs auf Zahlung als eine Anlage galten,
-- 4. :: �Ausschreibung“ ein transparentes, diskriminierungsfreies und wettbewerbliches Verfahren zur Bestimmung des Anspruchsberechtigten und des anzulegenden Werts,
-- 4a. :: �Ausschreibungen für Solaranlagen des ersten Segments“ Ausschreibungen, bei denen Gebote für Freiflächenanlagen und für Solaranlagen abgegeben werden können, die auf, an oder in baulichen Anlagen errichtet werden sollen, die weder Gebäude noch Lärmschutzwände sind,
-- 4b. :: �Ausschreibungen für Solaranlagen des zweiten Segments“ Ausschreibungen, bei denen Gebote für Solaranlagen abgegeben werden können, die auf, an oder in einem Gebäude oder einer Lärmschutzwand errichtet werden sollen,
-- 5. :: �Ausschreibungsvolumen“ die Summe der zu installierenden Leistung, für die der Anspruch auf Zahlung einer Marktprämie zu einem Gebotstermin ausgeschrieben wird,
-- 6. :: �Bemessungsleistung“ der Quotient aus der Summe der in dem jeweiligen Kalenderjahr erzeugten Kilowattstunden und der Summe der vollen Zeitstunden des jeweiligen Kalenderjahres abzüglich der vollen Stunden vor der erstmaligen Erzeugung von Strom aus erneuerbaren Energien oder aus Grubengas durch eine Anlage und nach endgültiger Stilllegung dieser Anlage,
-- 7. :: �benachteiligtes Gebiet“ ein Gebiet im Sinn der Richtlinie 86/465/EWG des Rates vom 14. Juli 1986 betreffend das Gemeinschaftsverzeichnis der benachteiligten landwirtschaftlichen Gebiete im Sinne der Richtlinie 75/268/EWG (Deutschland) (ABl. L 273 vom 24.9.1986, S. 1), in der Fassung der Entscheidung 97/172/EG (ABl. L 72 vom 13.3.1997, S. 1),
-- 8. :: �bezuschlagtes Gebot“ ein Gebot, für das ein Zuschlag erteilt und im Fall eines Zuschlags für eine Solaranlage eine Zweitsicherheit geleistet worden ist,
-- 9. :: �Bilanzkreis“ ein Bilanzkreis nach § 3 Nummer 10a des Energiewirtschaftsgesetzes,
-- 10. :: �Bilanzkreisvertrag“ ein Vertrag nach § 26 Absatz 1 der Stromnetzzugangsverordnung,
-- 11. :: �Biogas“ jedes Gas, das durch anaerobe Vergärung von Biomasse gewonnen wird,
-- 12. :: �Biomasseanlage“ jede Anlage zur Erzeugung von Strom aus Biomasse,
-- 13. :: �Biomethan“ jedes Biogas oder sonstige gasförmige Biomasse, das oder die aufbereitet und in das Erdgasnetz eingespeist worden ist,
-- 14. :: �Brutto-Zubau“ die Summe der installierten Leistung aller Anlagen eines Energieträgers, die in einem bestimmten Zeitraum an das Register als in Betrieb genommen gemeldet worden sind,
-- 15. :: �Bürgerenergiegesellschaft“ jede Gesellschaft,
+- 1. :: Anlage“ jede Einrichtung zur Erzeugung von Strom aus erneuerbaren Energien oder aus Grubengas, wobei im Fall von Solaranlagen jedes Modul eine eigenständige Anlage ist; als Anlage gelten auch Einrichtungen, die zwischengespeicherte Energie, die ausschließlich aus erneuerbaren Energien oder Grubengas stammt, aufnehmen und in elektrische Energie umwandeln,
+- 2. :: Anlagenbetreiber“, wer unabhängig vom Eigentum die Anlage für die Erzeugung von Strom aus erneuerbaren Energien oder aus Grubengas nutzt,
+- 3. :: anzulegender Wert“ der Wert, den die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen (Bundesnetzagentur) im Rahmen einer Ausschreibung nach § 22 in Verbindung mit den §§ 28 bis 39n ermittelt oder der durch die §§ 40 bis 49 gesetzlich bestimmt ist und der die Grundlage für die Berechnung der Marktprämie, der Einspeisevergütung oder des Mieterstromzuschlags ist,
+- 3a. :: ausgeförderte Anlagen“ Anlagen, die vor dem 1. Januar 2021 in Betrieb genommen worden sind und bei denen der ursprüngliche Anspruch auf Zahlung nach der für die Anlage maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes beendet ist; mehrere ausgeförderte Anlagen sind zur Bestimmung der Größe nach den Bestimmungen dieses Gesetzes zu ausgeförderten Anlagen als eine Anlage anzusehen, wenn sie nach der für sie maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes zum Zweck der Ermittlung des Anspruchs auf Zahlung als eine Anlage galten,
+- 4. :: Ausschreibung“ ein transparentes, diskriminierungsfreies und wettbewerbliches Verfahren zur Bestimmung des Anspruchsberechtigten und des anzulegenden Werts,
+- 4a. :: Ausschreibungen für Solaranlagen des ersten Segments“ Ausschreibungen, bei denen Gebote für Freiflächenanlagen und für Solaranlagen abgegeben werden können, die auf, an oder in baulichen Anlagen errichtet werden sollen, die weder Gebäude noch Lärmschutzwände sind,
+- 4b. :: Ausschreibungen für Solaranlagen des zweiten Segments“ Ausschreibungen, bei denen Gebote für Solaranlagen abgegeben werden können, die auf, an oder in einem Gebäude oder einer Lärmschutzwand errichtet werden sollen,
+- 5. :: Ausschreibungsvolumen“ die Summe der zu installierenden Leistung, für die der Anspruch auf Zahlung einer Marktprämie zu einem Gebotstermin ausgeschrieben wird,
+- 6. :: Bemessungsleistung“ der Quotient aus der Summe der in dem jeweiligen Kalenderjahr erzeugten Kilowattstunden und der Summe der vollen Zeitstunden des jeweiligen Kalenderjahres abzüglich der vollen Stunden vor der erstmaligen Erzeugung von Strom aus erneuerbaren Energien oder aus Grubengas durch eine Anlage und nach endgültiger Stilllegung dieser Anlage,
+- 7. :: benachteiligtes Gebiet“ ein Gebiet im Sinn der Richtlinie 86/465/EWG des Rates vom 14. Juli 1986 betreffend das Gemeinschaftsverzeichnis der benachteiligten landwirtschaftlichen Gebiete im Sinne der Richtlinie 75/268/EWG (Deutschland) (ABl. L 273 vom 24.9.1986, S. 1), in der Fassung der Entscheidung 97/172/EG (ABl. L 72 vom 13.3.1997, S. 1),
+- 8. :: bezuschlagtes Gebot“ ein Gebot, für das ein Zuschlag erteilt und im Fall eines Zuschlags für eine Solaranlage eine Zweitsicherheit geleistet worden ist,
+- 9. :: Bilanzkreis“ ein Bilanzkreis nach § 3 Nummer 10a des Energiewirtschaftsgesetzes,
+- 10. :: Bilanzkreisvertrag“ ein Vertrag nach § 26 Absatz 1 der Stromnetzzugangsverordnung,
+- 11. :: Biogas“ jedes Gas, das durch anaerobe Vergärung von Biomasse gewonnen wird,
+- 12. :: Biomasseanlage“ jede Anlage zur Erzeugung von Strom aus Biomasse,
+- 13. :: Biomethan“ jedes Biogas oder sonstige gasförmige Biomasse, das oder die aufbereitet und in das Erdgasnetz eingespeist worden ist,
+- 14. :: Brutto-Zubau“ die Summe der installierten Leistung aller Anlagen eines Energieträgers, die in einem bestimmten Zeitraum an das Register als in Betrieb genommen gemeldet worden sind,
+- 15. :: Bürgerenergiegesellschaft“ jede Gesellschaft,
   - a) :: die aus mindestens zehn natürlichen Personen als stimmberechtigten Mitgliedern oder stimmberechtigten Anteilseignern besteht,
   - b) :: bei der mindestens 51 Prozent der Stimmrechte bei natürlichen Personen liegen, die seit mindestens einem Jahr vor der Gebotsabgabe in der kreisfreien Stadt oder dem Landkreis, in der oder dem die geplante Windenergieanlage an Land errichtet werden soll, nach § 21 oder § 22 des Bundesmeldegesetzes mit ihrem Hauptwohnsitz gemeldet sind, und
   - c) :: bei der kein Mitglied oder Anteilseigner der Gesellschaft mehr als 10 Prozent der Stimmrechte an der Gesellschaft hält,
 
   wobei es beim Zusammenschluss von mehreren juristischen Personen oder Personengesellschaften zu einer Gesellschaft ausreicht, wenn jedes der Mitglieder der Gesellschaft die Voraussetzungen nach den Buchstaben a bis c erfüllt,
-- 16. :: �Direktvermarktung“ die Veräußerung von Strom aus erneuerbaren Energien oder aus Grubengas an Dritte, es sei denn, der Strom wird in unmittelbarer räumlicher Nähe zur Anlage verbraucht und nicht durch ein Netz durchgeleitet,
-- 17. :: �Direktvermarktungsunternehmer“, wer von dem Anlagenbetreiber mit der Direktvermarktung von Strom aus erneuerbaren Energien oder aus Grubengas beauftragt ist oder Strom aus erneuerbaren Energien oder aus Grubengas kaufmännisch abnimmt, ohne insoweit Letztverbraucher dieses Stroms oder Netzbetreiber zu sein,
-- 18. :: �Energie- oder Umweltmanagementsystem“ ein System, das den Anforderungen der DIN EN ISO 50 001, Ausgabe November 2018<<FnR.f794982_01>>[[#f794982_01][1]]} entspricht, oder ein System im Sinn der Verordnung (EG) Nr. 1221/2009 des Europäischen Parlaments und des Rates vom 25. November 2009 über die freiwillige Teilnahme von Organisationen an einem Gemeinschaftssystem für Umweltmanagement und Umweltbetriebsprüfung und zur Aufhebung der Verordnung (EG) Nr. 761/2001, sowie der Beschlüsse der Kommission 2001/681/EG und 2006/193/EG (ABl. L 342 vom 22.12.2009, S. 1) in der jeweils geltenden Fassung,
-- 19. :: �Eigenversorgung“ der Verbrauch von Strom, den eine natürliche oder juristische Person im unmittelbaren räumlichen Zusammenhang mit der Stromerzeugungsanlage selbst verbraucht, wenn der Strom nicht durch ein Netz durchgeleitet wird und diese Person die Stromerzeugungsanlage selbst betreibt,
-- 20. :: �Elektrizitätsversorgungsunternehmen“ jede natürliche oder juristische Person, die Elektrizität an Letztverbraucher liefert,
-- 21. :: �erneuerbare Energien“
+- 16. :: Direktvermarktung“ die Veräußerung von Strom aus erneuerbaren Energien oder aus Grubengas an Dritte, es sei denn, der Strom wird in unmittelbarer räumlicher Nähe zur Anlage verbraucht und nicht durch ein Netz durchgeleitet,
+- 17. :: Direktvermarktungsunternehmer“, wer von dem Anlagenbetreiber mit der Direktvermarktung von Strom aus erneuerbaren Energien oder aus Grubengas beauftragt ist oder Strom aus erneuerbaren Energien oder aus Grubengas kaufmännisch abnimmt, ohne insoweit Letztverbraucher dieses Stroms oder Netzbetreiber zu sein,
+- 18. :: Energie- oder Umweltmanagementsystem“ ein System, das den Anforderungen der DIN EN ISO 50 001, Ausgabe November 2018<<FnR.f794982_01>>[[#f794982_01][1]]} entspricht, oder ein System im Sinn der Verordnung (EG) Nr. 1221/2009 des Europäischen Parlaments und des Rates vom 25. November 2009 über die freiwillige Teilnahme von Organisationen an einem Gemeinschaftssystem für Umweltmanagement und Umweltbetriebsprüfung und zur Aufhebung der Verordnung (EG) Nr. 761/2001, sowie der Beschlüsse der Kommission 2001/681/EG und 2006/193/EG (ABl. L 342 vom 22.12.2009, S. 1) in der jeweils geltenden Fassung,
+- 19. :: Eigenversorgung“ der Verbrauch von Strom, den eine natürliche oder juristische Person im unmittelbaren räumlichen Zusammenhang mit der Stromerzeugungsanlage selbst verbraucht, wenn der Strom nicht durch ein Netz durchgeleitet wird und diese Person die Stromerzeugungsanlage selbst betreibt,
+- 20. :: Elektrizitätsversorgungsunternehmen“ jede natürliche oder juristische Person, die Elektrizität an Letztverbraucher liefert,
+- 21. :: erneuerbare Energien“
   - a) :: Wasserkraft einschließlich der Wellen-, Gezeiten-, Salzgradienten- und Strömungsenergie,
   - b) :: Windenergie,
   - c) :: solare Strahlungsenergie,
   - d) :: Geothermie,
   - e) :: Energie aus Biomasse einschließlich Biogas, Biomethan, Deponiegas und Klärgas sowie aus dem biologisch abbaubaren Anteil von Abfällen aus Haushalten und Industrie,
-- 22. :: �Freiflächenanlage“ jede Solaranlage, die nicht auf, an oder in einem Gebäude oder einer sonstigen baulichen Anlage angebracht ist, die vorrangig zu anderen Zwecken als der Erzeugung von Strom aus solarer Strahlungsenergie errichtet worden ist,
-- 23. :: �Gebäude“ jede selbständig benutzbare, überdeckte bauliche Anlage, die von Menschen betreten werden kann und vorrangig dazu bestimmt ist, dem Schutz von Menschen, Tieren oder Sachen zu dienen,
-- 24. :: �Gebotsmenge“ die zu installierende Leistung in Kilowatt, für die der Bieter ein Gebot abgegeben hat,
-- 25. :: �Gebotstermin“ der Kalendertag, an dem die Frist für die Abgabe von Geboten für eine Ausschreibung abläuft,
-- 26. :: �Gebotswert“ der anzulegende Wert, den der Bieter in seinem Gebot angegeben hat,
-- 27. :: �Generator“ jede technische Einrichtung, die mechanische, chemische, thermische oder elektromagnetische Energie direkt in elektrische Energie umwandelt,
-- 28. :: �Gülle“ jeder Stoff, der Gülle ist im Sinn der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte und zur Aufhebung der Verordnung (EG) Nr. 1774/2002 (Verordnung über tierische Nebenprodukte) (ABl. L 300 vom 14.11.2009, S. 1), die durch die Verordnung (EU) Nr. 1385/2013 (ABl. L 354 vom 28.12.2013, S. 86) geändert worden ist,
-- 29. :: �Herkunftsnachweis“ ein elektronisches Dokument, das ausschließlich dazu dient, gegenüber einem Letztverbraucher im Rahmen der Stromkennzeichnung nach § 42 Absatz 1 Nummer 1 des Energiewirtschaftsgesetzes nachzuweisen, dass ein bestimmter Anteil oder eine bestimmte Menge des Stroms aus erneuerbaren Energien erzeugt wurde,
-- 29a. :: �hocheffiziente KWK-Anlage“ eine KWK-Anlage, die den Vorgaben der Richtlinie 2012/27/EU des Europäischen Parlaments und des Rates vom 25. Oktober 2012 zur Energieeffizienz, zur Änderung der Richtlinien 2009/125/EG und 2010/30/EU und zur Aufhebung der Richtlinien 2004/8/EG und 2006/32/EG (ABl. L 315 vom 14.11.2012, S. 1), die zuletzt durch die Richtlinie (EU) 2019/944 (ABl. L 158 vom 14.6.2019, S. 125) geändert worden ist, in der jeweils geltenden Fassung entspricht,
-- 30. :: �Inbetriebnahme“ die erstmalige Inbetriebsetzung der Anlage ausschließlich mit erneuerbaren Energien oder Grubengas nach Herstellung der technischen Betriebsbereitschaft der Anlage; die technische Betriebsbereitschaft setzt voraus, dass die Anlage fest an dem für den dauerhaften Betrieb vorgesehenen Ort und dauerhaft mit dem für die Erzeugung von Wechselstrom erforderlichen Zubehör installiert wurde; der Austausch des Generators oder sonstiger technischer oder baulicher Teile nach der erstmaligen Inbetriebnahme führt nicht zu einer Änderung des Zeitpunkts der Inbetriebnahme,
-- 31. :: �installierte Leistung“ die elektrische Wirkleistung, die eine Anlage bei bestimmungsgemäßem Betrieb ohne zeitliche Einschränkungen unbeschadet kurzfristiger geringfügiger Abweichungen technisch erbringen kann,
-- 32. :: �KWK-Anlage“ jede KWK-Anlage im Sinn von § 2 Nummer 14 des Kraft-Wärme-Kopplungsgesetzes,
-- 33. :: �Letztverbraucher“ jede natürliche oder juristische Person, die Strom verbraucht,
-- 34. :: �Marktwert“ der für die Berechnung der Höhe der Marktprämie für den Strom aus einer Anlage nach Anlage 1 Nummer 2 maßgebliche Wert:
+- 22. :: Freiflächenanlage“ jede Solaranlage, die nicht auf, an oder in einem Gebäude oder einer sonstigen baulichen Anlage angebracht ist, die vorrangig zu anderen Zwecken als der Erzeugung von Strom aus solarer Strahlungsenergie errichtet worden ist,
+- 23. :: Gebäude“ jede selbständig benutzbare, überdeckte bauliche Anlage, die von Menschen betreten werden kann und vorrangig dazu bestimmt ist, dem Schutz von Menschen, Tieren oder Sachen zu dienen,
+- 24. :: Gebotsmenge“ die zu installierende Leistung in Kilowatt, für die der Bieter ein Gebot abgegeben hat,
+- 25. :: Gebotstermin“ der Kalendertag, an dem die Frist für die Abgabe von Geboten für eine Ausschreibung abläuft,
+- 26. :: Gebotswert“ der anzulegende Wert, den der Bieter in seinem Gebot angegeben hat,
+- 27. :: Generator“ jede technische Einrichtung, die mechanische, chemische, thermische oder elektromagnetische Energie direkt in elektrische Energie umwandelt,
+- 28. :: Gülle“ jeder Stoff, der Gülle ist im Sinn der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte und zur Aufhebung der Verordnung (EG) Nr. 1774/2002 (Verordnung über tierische Nebenprodukte) (ABl. L 300 vom 14.11.2009, S. 1), die durch die Verordnung (EU) Nr. 1385/2013 (ABl. L 354 vom 28.12.2013, S. 86) geändert worden ist,
+- 29. :: Herkunftsnachweis“ ein elektronisches Dokument, das ausschließlich dazu dient, gegenüber einem Letztverbraucher im Rahmen der Stromkennzeichnung nach § 42 Absatz 1 Nummer 1 des Energiewirtschaftsgesetzes nachzuweisen, dass ein bestimmter Anteil oder eine bestimmte Menge des Stroms aus erneuerbaren Energien erzeugt wurde,
+- 29a. :: hocheffiziente KWK-Anlage“ eine KWK-Anlage, die den Vorgaben der Richtlinie 2012/27/EU des Europäischen Parlaments und des Rates vom 25. Oktober 2012 zur Energieeffizienz, zur Änderung der Richtlinien 2009/125/EG und 2010/30/EU und zur Aufhebung der Richtlinien 2004/8/EG und 2006/32/EG (ABl. L 315 vom 14.11.2012, S. 1), die zuletzt durch die Richtlinie (EU) 2019/944 (ABl. L 158 vom 14.6.2019, S. 125) geändert worden ist, in der jeweils geltenden Fassung entspricht,
+- 30. :: Inbetriebnahme“ die erstmalige Inbetriebsetzung der Anlage ausschließlich mit erneuerbaren Energien oder Grubengas nach Herstellung der technischen Betriebsbereitschaft der Anlage; die technische Betriebsbereitschaft setzt voraus, dass die Anlage fest an dem für den dauerhaften Betrieb vorgesehenen Ort und dauerhaft mit dem für die Erzeugung von Wechselstrom erforderlichen Zubehör installiert wurde; der Austausch des Generators oder sonstiger technischer oder baulicher Teile nach der erstmaligen Inbetriebnahme führt nicht zu einer Änderung des Zeitpunkts der Inbetriebnahme,
+- 31. :: installierte Leistung“ die elektrische Wirkleistung, die eine Anlage bei bestimmungsgemäßem Betrieb ohne zeitliche Einschränkungen unbeschadet kurzfristiger geringfügiger Abweichungen technisch erbringen kann,
+- 32. :: KWK-Anlage“ jede KWK-Anlage im Sinn von § 2 Nummer 14 des Kraft-Wärme-Kopplungsgesetzes,
+- 33. :: Letztverbraucher“ jede natürliche oder juristische Person, die Strom verbraucht,
+- 34. :: Marktwert“ der für die Berechnung der Höhe der Marktprämie für den Strom aus einer Anlage nach Anlage 1 Nummer 2 maßgebliche Wert:
   - a) :: der energieträgerspezifische Marktwert von Strom aus erneuerbaren Energien oder aus Grubengas, der sich nach Anlage 1 Nummer 3 aus dem tatsächlichen Monatsmittelwert des Spotmarktpreises bezogen auf einen Kalendermonat ergibt (Monatsmarktwert), oder
   - b) :: der energieträgerspezifische Marktwert von Strom aus erneuerbaren Energien oder aus Grubengas, der sich nach Anlage 1 Nummer 4 aus dem tatsächlichen Jahresmittelwert des Spotmarktpreises bezogen auf ein Kalenderjahr ergibt (Jahresmarktwert),
 
-  soweit der Marktwert ma�Marktwert“ der Wert, der maßgeblich wäre, wenn dieser Strom direkt vermarktet würde,
-- 35. :: �Netz“ die Gesamtheit der miteinander verbundenen technischen Einrichtungen zur Abnahme, Übertragung und Verteilung von Elektrizität für die allgemeine Versorgung,
-- 36. :: �Netzbetreiber“ jeder Betreiber eines Netzes für die allgemeine Versorgung mit Elektrizität, unabhängig von der Spannungsebene,
-- 37. :: �Pilotwindenergieanlagen an Land“
+  soweit der Marktwert maMarktwert“ der Wert, der maßgeblich wäre, wenn dieser Strom direkt vermarktet würde,
+- 35. :: Netz“ die Gesamtheit der miteinander verbundenen technischen Einrichtungen zur Abnahme, Übertragung und Verteilung von Elektrizität für die allgemeine Versorgung,
+- 36. :: Netzbetreiber“ jeder Betreiber eines Netzes für die allgemeine Versorgung mit Elektrizität, unabhängig von der Spannungsebene,
+- 37. :: Pilotwindenergieanlagen an Land“
   - a) :: die jeweils ersten zwei als Pilotwindenergieanlagen an Land an das Register gemeldeten Windenergieanlagen eines Typs an Land, die nachweislich
     - aa) :: jeweils eine installierte Leistung von 6 Megawatt nicht überschreiten,
     - bb) :: wesentliche technische Weiterentwicklungen oder Neuerungen insbesondere bei der Generatorleistung, dem Rotordurchmesser, der Nabenhöhe, dem Turmtypen oder der Gründungsstruktur aufweisen und
@@ -91,27 +91,27 @@ Im Sinn dieses Gesetzes ist oder sind
   - b) :: die als Pilotwindenergieanlagen an Land an das Register gemeldeten Windenergieanlagen an Land,
     - aa) :: die vorwiegend zu Zwecken der Forschung und Entwicklung errichtet werden und
     - bb) :: mit denen eine wesentliche, weit über den Stand der Technik hinausgehende Innovation erprobt wird; die Innovation kann insbesondere die Generatorleistung, den Rotordurchmesser, die Nabenhöhe, den Turmtypen, die Gründungsstruktur oder die Betriebsführung der Anlage betreffen,
-- 38. :: �Regionalnachweis“ ein elektronisches Dokument, das ausschließlich dazu dient, im Rahmen der Stromkennzeichnung nach § 42 des Energiewirtschaftsgesetzes gegenüber einem Letztverbraucher die regionale Herkunft eines bestimmten Anteils oder einer bestimmten Menge des verbrauchten Stroms aus erneuerbaren Energien nachzuweisen,
-- 39. :: �Register“ das Marktstammdatenregister nach § 111e des Energiewirtschaftsgesetzes,
-- 40. :: �Schienenbahn“ jedes Unternehmen, das zum Zweck des Personen- oder Güterverkehrs Fahrzeuge wie Eisenbahnen, Magnetschwebebahnen, Straßenbahnen oder nach ihrer Bau- und Betriebsweise ähnliche Bahnen auf Schienen oder die für den Betrieb dieser Fahrzeuge erforderlichen Infrastrukturanlagen betreibt,
-- 41. :: �Solaranlage“ jede Anlage zur Erzeugung von Strom aus solarer Strahlungsenergie,
-- 42. :: �Speichergas“ jedes Gas, das keine erneuerbare Energie ist, aber zum Zweck der Zwischenspeicherung von Strom aus erneuerbaren Energien ausschließlich unter Einsatz von Strom aus erneuerbaren Energien erzeugt wird,
-- 42a. :: �Spotmarktpreis“ der Strompreis in Cent pro Kilowattstunde, der sich in der Preiszone für Deutschland aus der Kopplung der Orderbücher aller Strombörsen in der vortägigen Auktion von Stromstundenkontrakten ergibt; wenn die Kopplung der Orderbücher aller Strombörsen nicht oder nur teilweise erfolgt, ist für die Dauer der unvollständigen Kopplung der Durchschnittspreis aller Strombörsen gewichtet nach dem jeweiligen Handelsvolumen zugrunde zu legen,
-- 43. :: �Strom aus Kraft-Wärme-Kopplung“ KWK-Strom im Sinn von § 2 Nummer 16 des Kraft-Wärme-Kopplungsgesetzes,
-- 43a. :: �Strombörse“ eine Börse, an der für die Preiszone für Deutschland Stromprodukte gehandelt werden können,
-- 43b. :: �Stromerzeugungsanlage“ jede technische Einrichtung, die unabhängig vom eingesetzten Energieträger direkt Strom erzeugt, wobei im Fall von Solaranlagen jedes Modul eine eigenständige Stromerzeugungsanlage ist,
-- 43c. :: �Südregion“ das Gebiet, das die Gebietskörperschaften umfasst, die in Anlage 5 aufgeführt sind,
-- 44. :: �Übertragungsnetzbetreiber“ der regelverantwortliche Netzbetreiber von Hoch- und Höchstspannungsnetzen, die der überregionalen Übertragung von Elektrizität zu anderen Netzen dienen,
-- 44a. :: �umlagepflichtige Strommengen“ Strommengen, für die nach § 60 oder § 61 die volle oder anteilige EEG-Umlage gezahlt werden muss; nicht umlagepflichtig sind Strommengen, wenn und solange die Pflicht zur Zahlung der EEG-Umlage entfällt oder sich auf null Prozent verringert,
-- 45. :: �Umwandlung“ jede Umwandlung von Unternehmen nach dem Umwandlungsgesetz oder jede Anwachsung im Sinn des § 738 des Bürgerlichen Gesetzbuches sowie jede Übertragung von Wirtschaftsgütern eines Unternehmens oder selbständigen Unternehmensteils im Weg der Singularsukzession, bei der jeweils die wirtschaftliche und organisatorische Einheit des Unternehmens oder selbständigen Unternehmensteils nach der Übertragung nahezu vollständig erhalten bleibt,
-- 46. :: �Umweltgutachter“ jede Person oder Organisation, die nach dem Umweltauditgesetz in der jeweils geltenden Fassung als Umweltgutachter oder Umweltgutachterorganisation tätig werden darf,
-- 47. :: �Unternehmen“ jeder Rechtsträger, der einen nach Art und Umfang in kaufmännischer Weise eingerichteten Geschäftsbetrieb unter Beteiligung am allgemeinen wirtschaftlichen Verkehr nachhaltig mit eigener Gewinnerzielungsabsicht betreibt,
-- 47a. :: �Vollbenutzungsstunden zur Eigenversorgung“ der Quotient aus der kalenderjährlichen Stromerzeugung in Kilowattstunden zur Eigenversorgung und der installierten Leistung der KWK-Anlage in Kilowatt in entsprechender Anwendung von Nummer 31,
-- 48. :: �Windenergieanlage an Land“ jede Anlage zur Erzeugung von Strom aus Windenergie, die keine Windenergieanlage auf See ist,
-- 49. :: �Windenergieanlage auf See“ jede Anlage im Sinn von § 3 Nummer 7 des Windenergie-auf-See-Gesetzes,
-- 50. :: �Wohngebäude“ jedes Gebäude, das nach seiner Zweckbestimmung überwiegend dem Wohnen dient, einschließlich Wohn-, Alten- und Pflegeheimen sowie ähnlichen Einrichtungen,
-- 50a. :: �Zuschlag“ der Verwaltungsakt, mit dem die Bundesnetzagentur ein Gebot in einem Ausschreibungsverfahren bezuschlagt,
-- 51. :: �Zuschlagswert“ der anzulegende Wert, zu dem ein Zuschlag in einer Ausschreibung erteilt wird; er entspricht dem Gebotswert, soweit sich aus den nachfolgenden Bestimmungen nichts anderes ergibt.
+- 38. :: Regionalnachweis“ ein elektronisches Dokument, das ausschließlich dazu dient, im Rahmen der Stromkennzeichnung nach § 42 des Energiewirtschaftsgesetzes gegenüber einem Letztverbraucher die regionale Herkunft eines bestimmten Anteils oder einer bestimmten Menge des verbrauchten Stroms aus erneuerbaren Energien nachzuweisen,
+- 39. :: Register“ das Marktstammdatenregister nach § 111e des Energiewirtschaftsgesetzes,
+- 40. :: Schienenbahn“ jedes Unternehmen, das zum Zweck des Personen- oder Güterverkehrs Fahrzeuge wie Eisenbahnen, Magnetschwebebahnen, Straßenbahnen oder nach ihrer Bau- und Betriebsweise ähnliche Bahnen auf Schienen oder die für den Betrieb dieser Fahrzeuge erforderlichen Infrastrukturanlagen betreibt,
+- 41. :: Solaranlage“ jede Anlage zur Erzeugung von Strom aus solarer Strahlungsenergie,
+- 42. :: Speichergas“ jedes Gas, das keine erneuerbare Energie ist, aber zum Zweck der Zwischenspeicherung von Strom aus erneuerbaren Energien ausschließlich unter Einsatz von Strom aus erneuerbaren Energien erzeugt wird,
+- 42a. :: Spotmarktpreis“ der Strompreis in Cent pro Kilowattstunde, der sich in der Preiszone für Deutschland aus der Kopplung der Orderbücher aller Strombörsen in der vortägigen Auktion von Stromstundenkontrakten ergibt; wenn die Kopplung der Orderbücher aller Strombörsen nicht oder nur teilweise erfolgt, ist für die Dauer der unvollständigen Kopplung der Durchschnittspreis aller Strombörsen gewichtet nach dem jeweiligen Handelsvolumen zugrunde zu legen,
+- 43. :: Strom aus Kraft-Wärme-Kopplung“ KWK-Strom im Sinn von § 2 Nummer 16 des Kraft-Wärme-Kopplungsgesetzes,
+- 43a. :: Strombörse“ eine Börse, an der für die Preiszone für Deutschland Stromprodukte gehandelt werden können,
+- 43b. :: Stromerzeugungsanlage“ jede technische Einrichtung, die unabhängig vom eingesetzten Energieträger direkt Strom erzeugt, wobei im Fall von Solaranlagen jedes Modul eine eigenständige Stromerzeugungsanlage ist,
+- 43c. :: Südregion“ das Gebiet, das die Gebietskörperschaften umfasst, die in Anlage 5 aufgeführt sind,
+- 44. :: Übertragungsnetzbetreiber“ der regelverantwortliche Netzbetreiber von Hoch- und Höchstspannungsnetzen, die der überregionalen Übertragung von Elektrizität zu anderen Netzen dienen,
+- 44a. :: umlagepflichtige Strommengen“ Strommengen, für die nach § 60 oder § 61 die volle oder anteilige EEG-Umlage gezahlt werden muss; nicht umlagepflichtig sind Strommengen, wenn und solange die Pflicht zur Zahlung der EEG-Umlage entfällt oder sich auf null Prozent verringert,
+- 45. :: Umwandlung“ jede Umwandlung von Unternehmen nach dem Umwandlungsgesetz oder jede Anwachsung im Sinn des § 738 des Bürgerlichen Gesetzbuches sowie jede Übertragung von Wirtschaftsgütern eines Unternehmens oder selbständigen Unternehmensteils im Weg der Singularsukzession, bei der jeweils die wirtschaftliche und organisatorische Einheit des Unternehmens oder selbständigen Unternehmensteils nach der Übertragung nahezu vollständig erhalten bleibt,
+- 46. :: Umweltgutachter“ jede Person oder Organisation, die nach dem Umweltauditgesetz in der jeweils geltenden Fassung als Umweltgutachter oder Umweltgutachterorganisation tätig werden darf,
+- 47. :: Unternehmen“ jeder Rechtsträger, der einen nach Art und Umfang in kaufmännischer Weise eingerichteten Geschäftsbetrieb unter Beteiligung am allgemeinen wirtschaftlichen Verkehr nachhaltig mit eigener Gewinnerzielungsabsicht betreibt,
+- 47a. :: Vollbenutzungsstunden zur Eigenversorgung“ der Quotient aus der kalenderjährlichen Stromerzeugung in Kilowattstunden zur Eigenversorgung und der installierten Leistung der KWK-Anlage in Kilowatt in entsprechender Anwendung von Nummer 31,
+- 48. :: Windenergieanlage an Land“ jede Anlage zur Erzeugung von Strom aus Windenergie, die keine Windenergieanlage auf See ist,
+- 49. :: Windenergieanlage auf See“ jede Anlage im Sinn von § 3 Nummer 7 des Windenergie-auf-See-Gesetzes,
+- 50. :: Wohngebäude“ jedes Gebäude, das nach seiner Zweckbestimmung überwiegend dem Wohnen dient, einschließlich Wohn-, Alten- und Pflegeheimen sowie ähnlichen Einrichtungen,
+- 50a. :: Zuschlag“ der Verwaltungsakt, mit dem die Bundesnetzagentur ein Gebot in einem Ausschreibungsverfahren bezuschlagt,
+- 51. :: Zuschlagswert“ der anzulegende Wert, zu dem ein Zuschlag in einer Ausschreibung erteilt wird; er entspricht dem Gebotswert, soweit sich aus den nachfolgenden Bestimmungen nichts anderes ergibt.
 
 (+++ § 3: Zur Anwendung vgl. § 38 Abs. 2 GEEV 2017 +++)\\
 (+++ § 3: Zur Anwendung vgl. § 2 Abs. 3 GEEV 2017 +++)\\
@@ -426,7 +426,7 @@ Die Kosten der Optimierung, der Verstärkung und des Ausbaus des Netzes trägt d
 Der Anspruch auf die Zahlung der Marktprämie nach § 19 Absatz 1 Nummer 1 besteht nur für Kalendermonate, in denen
 
 - 1. :: der Strom direkt vermarktet wird,
-- 2. :: der Anlagenbetreiber dem Netzbetreiber das Recht einräumt, diesen Strom als �Strom aus erneuerbaren Energien oder aus Grubengas, finanziert aus der EEG-Umlage“ zu kennzeichnen, und
+- 2. :: der Anlagenbetreiber dem Netzbetreiber das Recht einräumt, diesen Strom als Strom aus erneuerbaren Energien oder aus Grubengas, finanziert aus der EEG-Umlage“ zu kennzeichnen, und
 - 3. :: der Strom in einem Bilanz- oder Unterbilanzkreis bilanziert wird, in dem ausschließlich bilanziert wird:
   - a) :: Strom aus erneuerbaren Energien oder aus Grubengas, der in der Veräußerungsform der Marktprämie direkt vermarktet wird, oder
   - b) :: Strom, der nicht unter Buchstabe a fällt und dessen Einstellung in den Bilanz- oder Unterbilanzkreis nicht von dem Anlagenbetreiber oder dem Direktvermarktungsunternehmer zu vertreten ist.
@@ -1056,7 +1056,7 @@ Für die Ermittlung der Korrekturfaktoren zwischen den jeweils benachbarten Stü
 - 1. :: erst, sobald der Anlagenbetreiber gegenüber dem Netzbetreiber den Gütefaktor nachgewiesen hat und
 - 2. :: ab dem 65., 125. und 185. auf die Inbetriebnahme der Anlagen folgenden Monats erst, sobald der Anlagenbetreiber gegenüber dem Netzbetreiber den nach Absatz 2 angepassten Gütefaktor nachgewiesen hat.
 
-(4) Der Nachweis nach Absatz 3 ist zu führen durch Gutachten, die den allgemein anerkannten Regeln der Technik entsprechen und die die jeweiligen Zeiträume nach Absatz 2 Satz 1 erfassen. Es wird vermutet, dass die allgemeinen Regeln der Technik eingehalten worden sind, wenn die Technischen Richtlinien für Windenergieanlagen der �FGW e. V. -- Fördergesellschaft Windenergie und andere Dezentrale Energien“<<FnR.F811746_01>>[[#F811746_01][*]]} eingehalten und das Gutachten von einer nach DIN EN ISO IEC 17025<<FnR.F811746_02>>[[#F811746_02][**]]} für die Anwendung dieser Richtlinie akkreditierten Institution erstellt worden ist.
+(4) Der Nachweis nach Absatz 3 ist zu führen durch Gutachten, die den allgemein anerkannten Regeln der Technik entsprechen und die die jeweiligen Zeiträume nach Absatz 2 Satz 1 erfassen. Es wird vermutet, dass die allgemeinen Regeln der Technik eingehalten worden sind, wenn die Technischen Richtlinien für Windenergieanlagen der FGW e. V. -- Fördergesellschaft Windenergie und andere Dezentrale Energien“<<FnR.F811746_01>>[[#F811746_01][*]]} eingehalten und das Gutachten von einer nach DIN EN ISO IEC 17025<<FnR.F811746_02>>[[#F811746_02][**]]} für die Anwendung dieser Richtlinie akkreditierten Institution erstellt worden ist.
 (5) Die anzulegenden Werte nach den Absätzen 1 und 2 werden auf zwei Stellen nach dem Komma gerundet.
 (+++ § 36h: Zur Nichtanwendung vgl. § 38 Abs. 2 GEEV 2017 +++)\\
 (+++ § 36h: Zur Anwendung vgl. § 2 Abs. 3 GEEV 2017 +++)\\
@@ -1549,7 +1549,7 @@ Die anzulegenden Werte nach den §§ 42 bis 44 verringern sich erstmals ab dem 1
 (6) Für den Anspruch nach § 19 Absatz 1 für Strom aus Biomasse ist ab dem ersten Kalenderjahr, das auf seine erstmalige Inanspruchnahme folgt, jährlich bis zum 28. Februar eines Jahres jeweils für das vorangegangene Kalenderjahr die Erfüllung der Voraussetzung nach § 44b Absatz 2, § 44c Absatz 4 oder Absatz 5 durch ein nach den allgemein anerkannten Regeln der Technik erstelltes Gutachten eines Umweltgutachters mit einer Zulassung für den Bereich Elektrizitätserzeugung aus erneuerbaren Energien oder für den Bereich Wärmeversorgung nachzuweisen. Bei der erstmaligen Geltendmachung des Anspruchs ist ferner die Eignung der Anlage zur Erfüllung der Voraussetzungen nach Satz 1 durch ein Gutachten eines Umweltgutachters mit einer Zulassung für den Bereich Elektrizitätserzeugung aus erneuerbaren Energien oder für den Bereich Wärmeversorgung nachzuweisen.
 (7) Die Einhaltung der allgemein anerkannten Regeln der Technik nach Absatz 6 Satz 1 wird vermutet, wenn das Sachverständigengutachten
 
-- 1. :: die Anforderungen des Arbeitsblattes FW 308 �Zertifizierung von KWK-Anlagen -- Ermittlung des KWK-Stromes“ des Energieeffizienzverbandes für Wärme, Kälte und KWK e. V. AGFW (Bundesanzeiger vom 19. Oktober 2015, nichtamtlicher Teil, Institutionelle Veröffentlichungen) erfüllt und
+- 1. :: die Anforderungen des Arbeitsblattes FW 308 Zertifizierung von KWK-Anlagen -- Ermittlung des KWK-Stromes“ des Energieeffizienzverbandes für Wärme, Kälte und KWK e. V. AGFW (Bundesanzeiger vom 19. Oktober 2015, nichtamtlicher Teil, Institutionelle Veröffentlichungen) erfüllt und
 - 2. :: die Anhänge I und II der Richtlinie 2012/27/EU sowie die dazu erlassenen Leitlinien in der jeweils geltenden Fassung beachtet.
 
 Anstelle des Gutachtens nach Absatz 6 können für serienmäßig hergestellte KWK-Anlagen mit einer installierten Leistung von bis zu 2 Megawatt geeignete Unterlagen des Herstellers vorgelegt werden, aus denen die thermische und elektrische Leistung sowie die Stromkennzahl hervorgehen.
@@ -1889,7 +1889,7 @@ Sind nicht mehr als 5 Prozent der Gebotsmenge des bezuschlagten Gebots entwertet
 Netzbetreiber müssen unverzüglich an den vorgelagerten Übertragungsnetzbetreiber weitergeben:
 
 - 1. :: den nach § 19 Absatz 1 Nummer 2 vergüteten Strom und
-- 2. :: für den gesamten Strom, für den sie Zahlungen an die Anlagenbetreiber leisten, das Recht, diesen Strom als �Strom aus erneuerbaren Energien, finanziert aus der EEG-Umlage“ zu kennzeichnen.
+- 2. :: für den gesamten Strom, für den sie Zahlungen an die Anlagenbetreiber leisten, das Recht, diesen Strom als Strom aus erneuerbaren Energien, finanziert aus der EEG-Umlage“ zu kennzeichnen.
 
 (+++ § 56: Zur Nichtanwendung vgl. § 38 Abs. 2 GEEV 2017 +++)\\
 (+++ § 56: Zur Anwendung vgl. § 2 Abs. 3 GEEV 2017 +++)\\
@@ -1918,7 +1918,7 @@ Netzbetreiber müssen unverzüglich an den vorgelagerten Übertragungsnetzbetrei
 
 Bei der Speicherung und Abrechnung der Zahlungen nach Satz 1 Nummer 2, 4 und 5 sind die Saldierungen auf Grund des § 57 Absatz 4 zugrunde zu legen.
 
-(2) Die Übertragungsnetzbetreiber ermitteln jährlich bis zum 31. Juli die Strommenge, die sie im vorangegangenen Kalenderjahr nach § 11 oder § 56 abgenommen und für die sie nach § 19 Absatz 1 oder § 57 gezahlt sowie nach Absatz 1 vorläufig ausgeglichen haben, einschlie�Strom aus erneuerbaren Energien oder Grubengas“ zu kennzeichnen, und den Anteil dieser Menge an der gesamten Strommenge, die Elektrizitätsversorgungsunternehmen im Bereich des jeweiligen Übertragungsnetzbetreibers im vorangegangenen Kalenderjahr an Letztverbraucher geliefert haben.
+(2) Die Übertragungsnetzbetreiber ermitteln jährlich bis zum 31. Juli die Strommenge, die sie im vorangegangenen Kalenderjahr nach § 11 oder § 56 abgenommen und für die sie nach § 19 Absatz 1 oder § 57 gezahlt sowie nach Absatz 1 vorläufig ausgeglichen haben, einschlieStrom aus erneuerbaren Energien oder Grubengas“ zu kennzeichnen, und den Anteil dieser Menge an der gesamten Strommenge, die Elektrizitätsversorgungsunternehmen im Bereich des jeweiligen Übertragungsnetzbetreibers im vorangegangenen Kalenderjahr an Letztverbraucher geliefert haben.
 (3) Übertragungsnetzbetreiber, die größere Mengen abzunehmen hatten, als es diesem durchschnittlichen Anteil entspricht, haben gegen die anderen Übertragungsnetzbetreiber einen Anspruch auf Abnahme und Vergütung nach den §§ 19 und 50, bis auch diese Netzbetreiber eine Strommenge abnehmen, die dem Durchschnittswert entspricht. Übertragungsnetzbetreiber, die, bezogen auf die gesamte von Elektrizitätsversorgungsunternehmen im Bereich des jeweiligen Übertragungsnetzbetreibers im vorangegangenen Kalenderjahr gelieferte Strommenge, einen höheren Anteil der Zahlung nach § 57 Absatz 1 zu vergüten haben, als es dem durchschnittlichen Anteil aller Übertragungsnetzbetreiber entspricht, haben gegen die anderen Übertragungsnetzbetreiber einen Anspruch auf Erstattung der Zahlung oder Kosten, bis die Kostenbelastung aller Übertragungsnetzbetreiber dem Durchschnittswert entspricht.
 (+++ § 58: Zur Nichtanwendung vgl. § 38 Abs. 2 GEEV 2017 +++)\\
 (+++ § 58: Zur Anwendung vgl. § 2 Abs. 3 GEEV 2017 +++)
@@ -2304,10 +2304,10 @@ begrenzt das Bundesamt für Wirtschaft und Ausfuhrkontrolle auf Antrag die EEG-U
 
 (6) Im Sinne dieses Paragrafen ist oder sind
 
-- 1. :: �Abnahmestelle“ die Summe aller räumlich und physikalisch zusammenhängenden elektrischen Einrichtungen einschließlich der Eigenversorgungsanlagen eines Unternehmens, die sich auf einem in sich abgeschlossenen Betriebsgelände befinden und über einen oder mehrere Entnahmepunkte mit dem Netz verbunden sind; sie muss über eigene Stromzähler an allen Entnahmepunkten und Eigenversorgungsanlagen verfügen,
-- 2. :: �Bruttowertschöpfung“ die Bruttowertschöpfung des Unternehmens zu Faktorkosten nach der Definition des Statistischen Bundesamtes, Fachserie 4, Reihe 4.3, Wiesbaden 2007<<FnR.f786060_04>>[[#f786060_04][4]]} , ohne Abzug der Personalkosten für Leiharbeitsverhältnisse; die durch vorangegangene Begrenzungsentscheidungen hervorgerufenen Wirkungen bleiben bei der Berechnung der Bruttowertschöpfung außer Betracht,
-- 2a. :: �neu gegründete Unternehmen“ Unternehmen, die mit nahezu vollständig neuen Betriebsmitteln ihre Tätigkeit erstmals aufnehmen; sie dürfen nicht durch Umwandlung entstanden sein; neue Betriebsmittel liegen vor, wenn ein Unternehmen ohne Sachanlagevermögen neues Sachanlagevermögen erwirbt oder schafft; es wird unwiderleglich vermutet, dass der Zeitpunkt der Neugründung der Zeitpunkt ist, an dem erstmals Strom zu Produktionszwecken verbraucht wird, und
-- 3. :: �Stromkostenintensität“ das Verhältnis der maßgeblichen Stromkosten einschließlich der Stromkosten für nach § 61 voll oder anteilig umlagepflichtige selbst verbrauchte Strommengen zum arithmetischen Mittel der Bruttowertschöpfung in den letzten drei abgeschlossenen Geschäftsjahren des Unternehmens; hierbei werden die maßgeblichen Stromkosten berechnet durch die Multiplikation des arithmetischen Mittels des Stromverbrauchs des Unternehmens in den letzten drei abgeschlossenen Geschäftsjahren oder dem standardisierten Stromverbrauch, der nach Maßgabe einer Rechtsverordnung nach § 94 Nummer 1 ermittelt wird, mit dem durchschnittlichen Strompreis für Unternehmen mit ähnlichen Stromverbräuchen, der nach Maßgabe einer Rechtsverordnung nach § 94 Nummer 2 zugrunde zu legen ist; die durch vorangegangene Begrenzungsentscheidungen hervorgerufenen Wirkungen bleiben bei der Berechnung der Stromkostenintensität außer Betracht.
+- 1. :: Abnahmestelle“ die Summe aller räumlich und physikalisch zusammenhängenden elektrischen Einrichtungen einschließlich der Eigenversorgungsanlagen eines Unternehmens, die sich auf einem in sich abgeschlossenen Betriebsgelände befinden und über einen oder mehrere Entnahmepunkte mit dem Netz verbunden sind; sie muss über eigene Stromzähler an allen Entnahmepunkten und Eigenversorgungsanlagen verfügen,
+- 2. :: Bruttowertschöpfung“ die Bruttowertschöpfung des Unternehmens zu Faktorkosten nach der Definition des Statistischen Bundesamtes, Fachserie 4, Reihe 4.3, Wiesbaden 2007<<FnR.f786060_04>>[[#f786060_04][4]]} , ohne Abzug der Personalkosten für Leiharbeitsverhältnisse; die durch vorangegangene Begrenzungsentscheidungen hervorgerufenen Wirkungen bleiben bei der Berechnung der Bruttowertschöpfung außer Betracht,
+- 2a. :: neu gegründete Unternehmen“ Unternehmen, die mit nahezu vollständig neuen Betriebsmitteln ihre Tätigkeit erstmals aufnehmen; sie dürfen nicht durch Umwandlung entstanden sein; neue Betriebsmittel liegen vor, wenn ein Unternehmen ohne Sachanlagevermögen neues Sachanlagevermögen erwirbt oder schafft; es wird unwiderleglich vermutet, dass der Zeitpunkt der Neugründung der Zeitpunkt ist, an dem erstmals Strom zu Produktionszwecken verbraucht wird, und
+- 3. :: Stromkostenintensität“ das Verhältnis der maßgeblichen Stromkosten einschließlich der Stromkosten für nach § 61 voll oder anteilig umlagepflichtige selbst verbrauchte Strommengen zum arithmetischen Mittel der Bruttowertschöpfung in den letzten drei abgeschlossenen Geschäftsjahren des Unternehmens; hierbei werden die maßgeblichen Stromkosten berechnet durch die Multiplikation des arithmetischen Mittels des Stromverbrauchs des Unternehmens in den letzten drei abgeschlossenen Geschäftsjahren oder dem standardisierten Stromverbrauch, der nach Maßgabe einer Rechtsverordnung nach § 94 Nummer 1 ermittelt wird, mit dem durchschnittlichen Strompreis für Unternehmen mit ähnlichen Stromverbräuchen, der nach Maßgabe einer Rechtsverordnung nach § 94 Nummer 2 zugrunde zu legen ist; die durch vorangegangene Begrenzungsentscheidungen hervorgerufenen Wirkungen bleiben bei der Berechnung der Stromkostenintensität außer Betracht.
 
 (7) Für die Zuordnung eines Unternehmens zu den Branchen nach Anlage 4 ist der Zeitpunkt des Endes des letzten abgeschlossenen Geschäftsjahrs maßgeblich.
 (8) Der Stromverbrauch in Einrichtungen, in denen Wasserstoff elektrochemisch hergestellt wird und die nach dem Inkrafttreten der Verordnung nach § 93 in Betrieb genommen worden sind, wird von einer Begrenzung nach Absatz 2 nur erfasst, wenn die Anforderungen dieser Verordnung an die Herstellung von Grünem Wasserstoff im Anwendungsbereich des § 64a erfüllt werden. Wenn die Anforderungen dieser Verordnung nicht erfüllt werden, werden der Stromverbrauch, die Stromkosten und die Bruttowertschöpfung dieser Einrichtungen auch nicht bei der Ermittlung des Stromverbrauchs, der Stromkostenintensität und der Bruttowertschöpfung nach den Absätzen 1, 2 und 5a berücksichtigt.
@@ -2365,8 +2365,8 @@ Die Begrenzungsentscheidung ergeht unter Vorbehalt der Nachprüfung. Sie kann au
 (6) § 64 Absatz 3 Nummer 1 Buchstabe a und c Doppelbuchstabe bb ist entsprechend anzuwenden.
 (7) Im Sinne dieses Paragrafen ist
 
-- 1. :: �Abnahmestelle“ die Summe der Verbrauchsstellen für den Fahrbetrieb im Schienenbahnverkehr des Unternehmens und
-- 2. :: �Aufnahme des Fahrbetriebs“ der erstmalige Verbrauch von Strom zu Fahrbetriebszwecken.
+- 1. :: Abnahmestelle“ die Summe der Verbrauchsstellen für den Fahrbetrieb im Schienenbahnverkehr des Unternehmens und
+- 2. :: Aufnahme des Fahrbetriebs“ der erstmalige Verbrauch von Strom zu Fahrbetriebszwecken.
 
 (+++ § 65: Zur Nichtanwendung vgl. § 38 Abs. 2 GEEV 2017 +++)\\
 (+++ § 65: Zur Anwendung vgl. § 2 Abs. 3 GEEV 2017 +++)\\
@@ -2395,12 +2395,12 @@ Die Begrenzungsentscheidung ergeht unter Vorbehalt der Nachprüfung. Sie kann au
 (6) § 64 Absatz 3 Nummer 1 Buchstabe a und c Doppelbuchstabe bb ist entsprechend anzuwenden.
 (7) Im Sinn dieses Paragrafen ist oder sind
 
-- 1. :: �Abnahmestelle“ die Summe der Verbrauchsstellen für den Fahrbetrieb im Linienverkehr des Unternehmens,
-- 2. :: �Aufnahme des Fahrbetriebs“ der erstmalige Verbrauch von Strom zu Fahrbetriebszwecken,
-- 3. :: �Busse“ Kraftomnibusse nach § 4 Absatz 4 Nummer 2 des Personenbeförderungsgesetzes oder Obusse nach § 4 Absatz 3 des Personenbeförderungsgesetzes,
-- 4. :: �elektrisch betriebene Busse“ Busse mit einem elektrischen Antrieb ohne zusätzlichen Verbrennungsmotor,
-- 5. :: �Linienverkehr“ Linienverkehr nach § 42 des Personenbeförderungsgesetzes,
-- 6. :: �Verkehrsunternehmen mit elektrisch betriebenen Bussen“ juristische Personen, die in einem genehmigten Linienverkehr Busse einsetzen.
+- 1. :: Abnahmestelle“ die Summe der Verbrauchsstellen für den Fahrbetrieb im Linienverkehr des Unternehmens,
+- 2. :: Aufnahme des Fahrbetriebs“ der erstmalige Verbrauch von Strom zu Fahrbetriebszwecken,
+- 3. :: Busse“ Kraftomnibusse nach § 4 Absatz 4 Nummer 2 des Personenbeförderungsgesetzes oder Obusse nach § 4 Absatz 3 des Personenbeförderungsgesetzes,
+- 4. :: elektrisch betriebene Busse“ Busse mit einem elektrischen Antrieb ohne zusätzlichen Verbrennungsmotor,
+- 5. :: Linienverkehr“ Linienverkehr nach § 42 des Personenbeförderungsgesetzes,
+- 6. :: Verkehrsunternehmen mit elektrisch betriebenen Bussen“ juristische Personen, die in einem genehmigten Linienverkehr Busse einsetzen.
 
 (+++ § 65a: Zur Nichtanwendung vgl. § 38 Abs. 2 GEEV 2017 +++)\\
 (+++ § 65a: Zur Anwendung vgl. § 2 Abs. 3 GEEV 2017 +++)
@@ -2418,8 +2418,8 @@ Die Begrenzungsentscheidung ergeht unter Vorbehalt der Nachprüfung. Sie kann au
 (4) Für Landstromanlagen, die erstmals Strom an Seeschiffe liefern, ist § 65 Absatz 4 entsprechend anzuwenden.
 (5) Im Sinn dieses Paragrafen ist oder sind
 
-- 1. :: �Landstromanlage“ jeder Rechtsträger, der die Gesamtheit der technischen Infrastruktur betreibt, die sich in einem räumlich zusammengehörigen Gebiet an demselben Entnahmepunkt in oder an einem Hafen befindet und mit der Seeschiffe den Strom für ihr Bordnetz von Land aus beziehen können; sie muss als Abnahmestelle über eigene Stromzähler am Entnahmepunkt, Eigenversorgungsanlagen und Übergabepunkten verfügen; neben den erforderlichen elektrotechnischen Komponenten gehören auch die Einhausung, die Verteiler- und Übergabeeinrichtungen und der Anschluss an das öffentliche Stromnetz hierzu,
-- 2. :: �Seeschiffe“ von einer Klassifikationsgesellschaft als Seeschiffe zugelassene betriebene Fahrzeuge mit Ausnahme der privaten nichtgewerblichen Schiffe.
+- 1. :: Landstromanlage“ jeder Rechtsträger, der die Gesamtheit der technischen Infrastruktur betreibt, die sich in einem räumlich zusammengehörigen Gebiet an demselben Entnahmepunkt in oder an einem Hafen befindet und mit der Seeschiffe den Strom für ihr Bordnetz von Land aus beziehen können; sie muss als Abnahmestelle über eigene Stromzähler am Entnahmepunkt, Eigenversorgungsanlagen und Übergabepunkten verfügen; neben den erforderlichen elektrotechnischen Komponenten gehören auch die Einhausung, die Verteiler- und Übergabeeinrichtungen und der Anschluss an das öffentliche Stromnetz hierzu,
+- 2. :: Seeschiffe“ von einer Klassifikationsgesellschaft als Seeschiffe zugelassene betriebene Fahrzeuge mit Ausnahme der privaten nichtgewerblichen Schiffe.
 
 (+++ § 65a: Zur Nichtanwendung vgl. § 38 Abs. 2 GEEV 2017 +++)\\
 (+++ § 65a: Zur Anwendung vgl. § 2 Abs. 3 GEEV 2017 +++)
@@ -2643,7 +2643,7 @@ Der Standort von Anlagen mit einer installierten Leistung von höchstens 30 Kilo
 
 § 78 - Stromkennzeichnung entsprechend der EEG-Umlage
 
-(1) Elektrizitätsversorgungsunternehmen erhalten im Gegenzug zur Zahlung der EEG-Umlage nach § 60 Absatz 1 das Recht, Strom als �Erneuerbare Energien, finanziert aus der EEG-Umlage“ zu kennzeichnen. Satz 1 ist im Fall des § 60a entsprechend anzuwenden. Die Eigenschaft des Stroms ist gegenüber Letztverbrauchern im Rahmen der Stromkennzeichnung nach Maßgabe der Absätze 2 bis 4 und des § 42 des Energiewirtschaftsgesetzes auszuweisen.
+(1) Elektrizitätsversorgungsunternehmen erhalten im Gegenzug zur Zahlung der EEG-Umlage nach § 60 Absatz 1 das Recht, Strom als Erneuerbare Energien, finanziert aus der EEG-Umlage“ zu kennzeichnen. Satz 1 ist im Fall des § 60a entsprechend anzuwenden. Die Eigenschaft des Stroms ist gegenüber Letztverbrauchern im Rahmen der Stromkennzeichnung nach Maßgabe der Absätze 2 bis 4 und des § 42 des Energiewirtschaftsgesetzes auszuweisen.
 (2) Der nach Absatz 1 gegenüber ihren Letztverbrauchern ausgewiesene Anteil berechnet sich in Prozent, indem die EEG-Umlage, die das Elektrizitätsversorgungsunternehmen tatsächlich für die an ihre Letztverbraucher gelieferte Strommenge in einem Jahr gezahlt hat,
 
 - 1. :: mit dem EEG-Quotienten nach Absatz 3 multipliziert wird,
@@ -2653,8 +2653,8 @@ Der Standort von Anlagen mit einer installierten Leistung von höchstens 30 Kilo
 Der nach Absatz 1 ausgewiesene Anteil ist unmittelbarer Bestandteil der gelieferten Strommenge und kann nicht getrennt ausgewiesen oder weiter vermarktet werden.
 
 (3) Der EEG-Quotient ist das Verhältnis der Summe der Strommenge, für die in dem vergangenen Kalenderjahr eine Zahlung nach § 19 Absatz 1 Nummer 1 oder Nummer 2 erfolgte, zu den gesamten durch die Übertragungsnetzbetreiber erhaltenen Einnahmen aus der EEG-Umlage für die von den Elektrizitätsversorgungsunternehmen im vergangenen Kalenderjahr gelieferten Strommengen an Letztverbraucher. Die Übertragungsnetzbetreiber veröffentlichen auf einer gemeinsamen Internetplattform in einheitlichem Format jährlich bis zum 31. Juli den EEG-Quotienten in nicht personenbezogener Form für das jeweils vorangegangene Kalenderjahr.
-(4) Die Anteile der nach § 42 Absatz 1 Nummer 1 und Absatz 3 des Energiewirtschaftsgesetzes anzugebenden Energieträger sind mit Ausnahme des Anteils für �Strom aus erneuerbaren Energien, finanziert aus der EEG-Umlage“ entsprechend anteilig für den jeweiligen Letztverbraucher um den nach Absatz 1 auszuweisenden Prozentsatz zu reduzieren.
-(5) Elektrizitätsversorgungsunternehmen weisen gegenüber Letztverbrauchern, deren Pflicht zur Zahlung der EEG-Umlage nach den §§ 63 bis 68 begrenzt ist, zusätzlich zu dem Gesamtenergieträgermix einen gesonderten, nach den Sätzen 3 und 4 zu berechnenden �Energieträgermix für nach dem Erneuerbare-Energien-Gesetz privilegierte Unternehmen“ aus. In diesem Energieträgermix sind die Anteile nach § 42 Absatz 1 Nummer 1 des Energiewirtschaftsgesetzes auszuweisen. Der Anteil in Prozent für �Erneuerbare Energien, finanziert aus der EEG-Umlage“ berechnet sich abweichend von Absatz 2, indem die EEG-Umlage, die der jeweilige Letztverbraucher tatsächlich für die in einem Jahr an ihn gelieferte Strommenge gezahlt hat,
+(4) Die Anteile der nach § 42 Absatz 1 Nummer 1 und Absatz 3 des Energiewirtschaftsgesetzes anzugebenden Energieträger sind mit Ausnahme des Anteils für Strom aus erneuerbaren Energien, finanziert aus der EEG-Umlage“ entsprechend anteilig für den jeweiligen Letztverbraucher um den nach Absatz 1 auszuweisenden Prozentsatz zu reduzieren.
+(5) Elektrizitätsversorgungsunternehmen weisen gegenüber Letztverbrauchern, deren Pflicht zur Zahlung der EEG-Umlage nach den §§ 63 bis 68 begrenzt ist, zusätzlich zu dem Gesamtenergieträgermix einen gesonderten, nach den Sätzen 3 und 4 zu berechnenden Energieträgermix für nach dem Erneuerbare-Energien-Gesetz privilegierte Unternehmen“ aus. In diesem Energieträgermix sind die Anteile nach § 42 Absatz 1 Nummer 1 des Energiewirtschaftsgesetzes auszuweisen. Der Anteil in Prozent für Erneuerbare Energien, finanziert aus der EEG-Umlage“ berechnet sich abweichend von Absatz 2, indem die EEG-Umlage, die der jeweilige Letztverbraucher tatsächlich für die in einem Jahr an ihn gelieferte Strommenge gezahlt hat,
 
 - 1. :: mit dem EEG-Quotienten nach Absatz 3 multipliziert wird,
 - 2. :: danach durch die gesamte an den jeweiligen Letztverbraucher gelieferte Strommenge dividiert wird und
@@ -2662,8 +2662,8 @@ Der nach Absatz 1 ausgewiesene Anteil ist unmittelbarer Bestandteil der geliefer
 
 Die Anteile der anderen nach § 42 Absatz 1 Nummer 1 des Energiewirtschaftsgesetzes anzugebenden Energieträger sind entsprechend anteilig für den jeweiligen Letztverbraucher um den nach Satz 3 berechneten Prozentsatz zu reduzieren.
 
-(6) Für Eigenversorger, die nach § 61 die volle oder anteilige EEG-Umlage zahlen müssen, sind die Absätze 1 bis 5 mit der Ma�Strom aus erneuerbaren Energien, finanziert aus der EEG-Umlage“ anzusehen ist.
-(7) Im Fall der Belieferung von Letztverbrauchern mit Mieterstrom nach § 21 Absatz 3 sind die Absätze 1 bis 5 nur für den Teil des gelieferten Stroms anzuwenden, der nicht Mieterstrom nach § 21 Absatz 3 ist. Der in einem Kalenderjahr verbrauchte Mieterstrom nach § 21 Absatz 3 ist zu Zwecken der Stromkennzeichnung auf die jeweiligen Mieterstromkunden nach dem Verhältnis ihrer Jahresverbräuche zu verteilen und den Mieterstromkunden entsprechend auszuweisen. Mieterstrom nach § 21 Absatz 3 ist als �Mieterstrom, finanziert aus der EEG-Umlage“ zu kennzeichnen.
+(6) Für Eigenversorger, die nach § 61 die volle oder anteilige EEG-Umlage zahlen müssen, sind die Absätze 1 bis 5 mit der MaStrom aus erneuerbaren Energien, finanziert aus der EEG-Umlage“ anzusehen ist.
+(7) Im Fall der Belieferung von Letztverbrauchern mit Mieterstrom nach § 21 Absatz 3 sind die Absätze 1 bis 5 nur für den Teil des gelieferten Stroms anzuwenden, der nicht Mieterstrom nach § 21 Absatz 3 ist. Der in einem Kalenderjahr verbrauchte Mieterstrom nach § 21 Absatz 3 ist zu Zwecken der Stromkennzeichnung auf die jeweiligen Mieterstromkunden nach dem Verhältnis ihrer Jahresverbräuche zu verteilen und den Mieterstromkunden entsprechend auszuweisen. Mieterstrom nach § 21 Absatz 3 ist als Mieterstrom, finanziert aus der EEG-Umlage“ zu kennzeichnen.
 (+++ § 78: Zur Nichtanwendung vgl. § 38 Abs. 2 GEEV 2017 +++)\\
 (+++ § 78: Zur Anwendung vgl. § 2 Abs. 3 GEEV 2017 +++)\\
 § 78 Abs. 3 Satz 1 Kursivdruck: IdF d. Art. 1 Nr. 24 Buchst. b G v. 13.10.2016 I 2258 mWv 1.1.2017 (anstelle "finanzielle Förderung nach § 19 Absatz 1 in Anspruch genommen wurde" wurden die Wörter "finanzielle Förderung nach § 19 in Anspruch genommen wurde" durch die Wörter "Zahlung nach § 19 Absatz 1 erfolgte" ersetzt)
@@ -2713,10 +2713,10 @@ Die Anteile der anderen nach § 42 Absatz 1 Nummer 1 des Energiewirtschaftsgeset
 (6) Das Umweltbundesamt entwertet auf Antrag einen Regionalnachweis, wenn er für Strom aus einer Anlage ausgestellt worden ist, die sich in der Region des belieferten Letztverbrauchers befindet. Die Region des belieferten Letztverbrauchers umfasst alle Postleitzahlengebiete, die sich ganz oder teilweise im Umkreis von 50 Kilometern um das Postleitzahlengebiet befinden, in dem der Letztverbraucher den Strom verbraucht. Das Umweltbundesamt bestimmt und veröffentlicht für jedes Postleitzahlengebiet, in dem Strom verbraucht wird, welche weiteren Postleitzahlengebiete zu der Region gehören. Dabei soll das Umweltbundesamt abweichend von Satz 2 auch auf die gesamte Gemeinde, in der der Letztverbraucher den Strom verbraucht, abstellen, wenn die Gemeinde mehrere Postleitzahlengebiete umfasst.
 (7) Ein Elektrizitätsversorgungsunternehmen meldet für jede Region, für die es Regionalnachweise nutzen will, an das Umweltbundesamt:
 
-- 1. :: die Strommenge, die das Elektrizitätsversorgungsunternehmen an seine Letztverbraucher in dieser Region geliefert hat und nach § 78 in der Stromkennzeichnung als �Erneuerbare Energien, finanziert aus der EEG-Umlage“ ausweisen muss, und
+- 1. :: die Strommenge, die das Elektrizitätsversorgungsunternehmen an seine Letztverbraucher in dieser Region geliefert hat und nach § 78 in der Stromkennzeichnung als Erneuerbare Energien, finanziert aus der EEG-Umlage“ ausweisen muss, und
 - 2. :: die Regionalnachweise, die es für diese Region entwerten lassen will.
 
-(8) In dem Umfang, in dem ein Elektrizitätsversorgungsunternehmen Regionalnachweise nach Absatz 7 Nummer 2 entwerten lässt, darf es in der Stromkennzeichnung nach § 42 des Energiewirtschaftsgesetzes gegenüber Letztverbrauchern ausweisen, zu welchen Anteilen der Strom, den das Unternehmen nach § 78 Absatz 1 als �Erneuerbare Energien, finanziert aus der EEG-Umlage“ kennzeichnen muss, in regionalem Zusammenhang zum Stromverbrauch erzeugt worden ist. Wenn ein Elektrizitätsversorgungsunternehmen mehr Regionalnachweise entwerten lässt, als es der Strommenge aus �Erneuerbaren Energien, finanziert aus der EEG-Umlage“ entspricht, die es an Letztverbraucher in der betreffenden Region geliefert hat, kann es die darüber hinausgehenden Regionalnachweise nicht zur Stromkennzeichnung nutzen.
+(8) In dem Umfang, in dem ein Elektrizitätsversorgungsunternehmen Regionalnachweise nach Absatz 7 Nummer 2 entwerten lässt, darf es in der Stromkennzeichnung nach § 42 des Energiewirtschaftsgesetzes gegenüber Letztverbrauchern ausweisen, zu welchen Anteilen der Strom, den das Unternehmen nach § 78 Absatz 1 als Erneuerbare Energien, finanziert aus der EEG-Umlage“ kennzeichnen muss, in regionalem Zusammenhang zum Stromverbrauch erzeugt worden ist. Wenn ein Elektrizitätsversorgungsunternehmen mehr Regionalnachweise entwerten lässt, als es der Strommenge aus Erneuerbaren Energien, finanziert aus der EEG-Umlage“ entspricht, die es an Letztverbraucher in der betreffenden Region geliefert hat, kann es die darüber hinausgehenden Regionalnachweise nicht zur Stromkennzeichnung nutzen.
 (9) § 79 Absatz 6 ist entsprechend anzuwenden. In Ergänzung zu Satz 1 kann
 
 - 1. :: das Umweltbundesamt von Personen, die das Regionalnachweisregister nutzen, Auskunft verlangen über die vertragliche Lieferkette für Strom, für den Regionalnachweise ausgestellt werden sollen, insbesondere über die an der Lieferkette beteiligten Personen und die betreffende Strommenge,
@@ -3476,24 +3476,24 @@ Anlage 1 - (zu § 23a)Höhe der Marktprämie
 (Fundstelle: BGBl. I 2020, 3178 - 3180)
 1.
 Begriffsbestimmungen
-�
+
 Im Sinn dieser Anlage ist
-�
+
 --
-�MP“ die Höhe der Marktprämie nach § 23a in Cent pro Kilowattstunde,
-�
+MP“ die Höhe der Marktprämie nach § 23a in Cent pro Kilowattstunde,
+
 --
-�AW“ der anzulegende Wert unter Berücksichtigung der §§ 19 bis 54 in Cent pro Kilowattstunde,
-�
+AW“ der anzulegende Wert unter Berücksichtigung der §§ 19 bis 54 in Cent pro Kilowattstunde,
+
 --
-�MW“ der jeweilige Monatsmarktwert in Cent pro Kilowattstunde,
-�
+MW“ der jeweilige Monatsmarktwert in Cent pro Kilowattstunde,
+
 --
-�JW“ der jeweilige Jahresmarktwert in Cent pro Kilowattstunde.
+JW“ der jeweilige Jahresmarktwert in Cent pro Kilowattstunde.
 2.
 Zeitlicher Anwendungsbereich
-�
-Für Strom aus Anlagen, die vor dem 1. Januar 2023 in Betrieb genommen worden sind oder deren Zuschlag vor dem 1. Januar 2023 erteilt worden ist, wird die Höhe der Marktprämie nach § 23a (�MP“) anhand des energieträgerspezifischen Monatsmarktwertes nach Nummer 3 berechnet. Für Strom aus anderen Anlagen wird die Höhe der Marktprämie nach § 23a (�MP“) anhand des energieträgerspezifischen Jahresmarktwertes nach Nummer 4 berechnet.
+
+Für Strom aus Anlagen, die vor dem 1. Januar 2023 in Betrieb genommen worden sind oder deren Zuschlag vor dem 1. Januar 2023 erteilt worden ist, wird die Höhe der Marktprämie nach § 23a (MP“) anhand des energieträgerspezifischen Monatsmarktwertes nach Nummer 3 berechnet. Für Strom aus anderen Anlagen wird die Höhe der Marktprämie nach § 23a (MP“) anhand des energieträgerspezifischen Jahresmarktwertes nach Nummer 4 berechnet.
 3.
 Berechnung der Marktprämie anhand des energieträgerspezifischen Monatsmarktwertes
 3.1
@@ -3502,50 +3502,50 @@ Berechnungsgrundsätze
 Die Höhe der Marktprämie wird kalendermonatlich berechnet. Die Berechnung erfolgt rückwirkend anhand der für den jeweiligen Kalendermonat berechneten Werte.
 3.1.2
 Die Höhe der Marktprämie in Cent pro Kilowattstunde direkt vermarkteten und tatsächlich eingespeisten Stroms wir nach der folgenden Formel berechnet:
-�
+
 MP = AW -- MW
-�
-Ergibt sich bei der Berechnung ein Wert kleiner null, wird abweichend von Satz 1 der Wert �MP“ mit null festgesetzt.
+
+Ergibt sich bei der Berechnung ein Wert kleiner null, wird abweichend von Satz 1 der Wert MP“ mit null festgesetzt.
 3.2
-Berechnung des Monatsmarktwerts �MW“ bei Strom aus Wasserkraft, Deponiegas, Klärgas, Grubengas, Biomasse und Geothermie
-�
-Der Wert �MW“ ist bei direkt vermarktetem Strom aus Wasserkraft, Deponiegas, Klärgas, Grubengas, Biomasse und Geothermie der tatsächliche Monatsmittelwert des Spotmarktpreises.
+Berechnung des Monatsmarktwerts MW“ bei Strom aus Wasserkraft, Deponiegas, Klärgas, Grubengas, Biomasse und Geothermie
+
+Der Wert MW“ ist bei direkt vermarktetem Strom aus Wasserkraft, Deponiegas, Klärgas, Grubengas, Biomasse und Geothermie der tatsächliche Monatsmittelwert des Spotmarktpreises.
 3.3
-Berechnung es Monatsmarktwerts �MW“ bei Strom aus Windenergie und solarer Strahlungsenergie
+Berechnung es Monatsmarktwerts MW“ bei Strom aus Windenergie und solarer Strahlungsenergie
 3.3.1
 Energieträgerspezifischer Monatsmarktwert
-�
-Als Wert �MW“ ist anzulegen bei direkt vermarktetem Strom aus
-�
+
+Als Wert MW“ ist anzulegen bei direkt vermarktetem Strom aus
+
 --
-Windenergieanlagen an Land der Wert �MW_{Wind an Land}“
-�
+Windenergieanlagen an Land der Wert MW_{Wind an Land}“
+
 --
-Windenergieanlagen auf See der Wert �MW_{Wind auf See}“ und
-�
+Windenergieanlagen auf See der Wert MW_{Wind auf See}“ und
+
 --
-Solaranlagen der Wert �MW_{Solar}“
+Solaranlagen der Wert MW_{Solar}“
 3.3.2
 Windenergie an Land
-�
-�MW_{Wind an Land}“ ist der tatsächliche Monatsmittelwert des Marktwerts von Strom aus Windenergieanlagen an Land, der sich aus dem Spotmarktpreis ergibt und wie folgt berechnet wird:
-�
+
+MW_{Wind an Land}“ ist der tatsächliche Monatsmittelwert des Marktwerts von Strom aus Windenergieanlagen an Land, der sich aus dem Spotmarktpreis ergibt und wie folgt berechnet wird:
+
 --
 Für jede Stunde eines Kalendermonats wird der durchschnittliche Spotmarktpreis mit der Menge des in dieser Stunde nach der Online-Hochrechnung nach Nummer 5.1 erzeugten Stroms aus Windenergieanlagen an Land multipliziert.
-�
+
 --
 Die Ergebnisse für alle Stunden des Kalendermonats werden summiert.
-�
+
 --
 Diese Summe wird dividiert durch die Menge des in dem gesamten Kalendermonat nach der Online-Hochrechnung nach Nummer 5.1 erzeugten Stroms aus Windenergieanlagen an Land.
 3.3.3
 Windenergie auf See
-�
-�MW_{Wind auf See}“ ist der tatsächliche Monatsmittelwert des Marktwerts von Strom aus Windenergieanlagen auf See, der sich aus dem Spotmarktpreis ergibt. Für die Berechnung von �MW_{Wind auf See}“ ist die Berechnungsmethode der Nummer 3.3.2 mit der Maßgabe anzuwenden, dass statt des nach der Online-Hochrechnung nach Nummer 5.1 erzeugten Stroms aus Windenergieanlagen an Land der nach der Online-Hochrechnung nach Nummer 5.1 erzeugte Strom aus Windenergieanlagen auf See zugrunde zu legen ist.
+
+MW_{Wind auf See}“ ist der tatsächliche Monatsmittelwert des Marktwerts von Strom aus Windenergieanlagen auf See, der sich aus dem Spotmarktpreis ergibt. Für die Berechnung von MW_{Wind auf See}“ ist die Berechnungsmethode der Nummer 3.3.2 mit der Maßgabe anzuwenden, dass statt des nach der Online-Hochrechnung nach Nummer 5.1 erzeugten Stroms aus Windenergieanlagen an Land der nach der Online-Hochrechnung nach Nummer 5.1 erzeugte Strom aus Windenergieanlagen auf See zugrunde zu legen ist.
 3.3.4
 Solare Strahlungsenergie
-�
-�MW_{Solar}“ ist der tatsächliche Monatsmittelwert des Marktwerts von Strom aus Solaranlagen, der sich aus dem Spotmarktpreis ergibt. Für die Berechnung von �MW_{Solar}“ ist die Berechnungsmethode der Nummer 3.3.2 mit der Maßgabe anzuwenden, dass statt des nach der Online-Hochrechnung nach Nummer 5.1 erzeugten Stroms aus Windenergieanlagen an Land der nach der Online-Hochrechnung nach Nummer 5.1 erzeugte Strom aus Solaranlagen zugrunde zu legen ist.
+
+MW_{Solar}“ ist der tatsächliche Monatsmittelwert des Marktwerts von Strom aus Solaranlagen, der sich aus dem Spotmarktpreis ergibt. Für die Berechnung von MW_{Solar}“ ist die Berechnungsmethode der Nummer 3.3.2 mit der Maßgabe anzuwenden, dass statt des nach der Online-Hochrechnung nach Nummer 5.1 erzeugten Stroms aus Windenergieanlagen an Land der nach der Online-Hochrechnung nach Nummer 5.1 erzeugte Strom aus Solaranlagen zugrunde zu legen ist.
 4.
 Berechnung der Marktprämie anhand des energieträgerspezifischen Jahresmarktwerts
 4.1
@@ -3554,97 +3554,97 @@ Berechnungsgrundsätze
 Die Höhe der Marktprämie wird jährlich berechnet. Die Berechnung erfolgt rückwirkend anhand des für das jeweilige Kalenderjahr tatsächlich berechneten Jahresmarktwerts.
 4.1.2
 Die Höhe der Marktprämie in Cent pro Kilowattstunde direkt vermarkteten und tatsächlich eingespeisten Stroms wird nach der folgenden Formel berechnet:
-�
+
 MP = AW -- JW
-�
+
 Ergibt sich bei der Berechnung ein Wert kleiner null, wird abweichend von Satz 1 der Wert ,MP‘ mit dem Wert null festgesetzt.
 4.2
 Berechnung des Jahresmarktwerts ,JW‘ bei Strom aus Wasserkraft, Deponiegas, Klärgas, Grubengas, Biomasse und Geothermie
-�
-Als Wert �JW“ ist bei direkt vermarktetem Strom aus Wasserkraft, Deponiegas, Klärgas, Grubengas, Biomasse und Geothermie der tatsächliche Jahresmittelwert des Spotmarktpreises anzulegen.
+
+Als Wert JW“ ist bei direkt vermarktetem Strom aus Wasserkraft, Deponiegas, Klärgas, Grubengas, Biomasse und Geothermie der tatsächliche Jahresmittelwert des Spotmarktpreises anzulegen.
 4.3
-Berechnung des Jahresmarktwertes �JW“ bei Strom aus Windenergie und solarer Strahlungsenergie
+Berechnung des Jahresmarktwertes JW“ bei Strom aus Windenergie und solarer Strahlungsenergie
 4.3.1
 Energieträgerspezifischer Jahresmarktwert
-�
-Als Wert �JW“ in Cent pro Kilowattstunde ist anzulegen bei direkt vermarktetem Strom aus
-�
+
+Als Wert JW“ in Cent pro Kilowattstunde ist anzulegen bei direkt vermarktetem Strom aus
+
 --
-Windenergieanlagen an Land der Wert �JW_{Wind an Land}“
-�
+Windenergieanlagen an Land der Wert JW_{Wind an Land}“
+
 --
-Windenergieanlagen auf See der Wert �JW_{Wind auf See}“ und
-�
+Windenergieanlagen auf See der Wert JW_{Wind auf See}“ und
+
 --
-Solaranlagen der Wert �JW_{Solar}“.
+Solaranlagen der Wert JW_{Solar}“.
 4.3.2
 Windenergie an Land
-�
-�JW_{Wind an Land}“ ist der tatsächliche Jahresmittelwert des Marktwerts von Strom aus Windenergieanlagen an Land, der sich aus dem Spotmarktpreis ergibt und wie folgt berechnet wird:
-�
+
+JW_{Wind an Land}“ ist der tatsächliche Jahresmittelwert des Marktwerts von Strom aus Windenergieanlagen an Land, der sich aus dem Spotmarktpreis ergibt und wie folgt berechnet wird:
+
 --
 Für jede Stunde eines Kalenderjahres wird der durchschnittliche Spotmarktpreis mit der Menge des in dieser Stunde nach der Online-Hochrechnung nach Nummer 5.1 erzeugten Stroms aus Windenergieanlagen an Land multipliziert.
-�
+
 --
 Die Ergebnisse für alle Stunden des Kalenderjahres werden summiert.
-�
+
 --
 Diese Summe wird dividiert durch die Menge des in dem gesamten Kalenderjahr nach der Online-Hochrechnung nach Nummer 5.1 erzeugten Stroms aus Windenergieanlagen an Land.
 4.3.3
 Windenergie auf See
-�
-�JW_{Wind auf See}“ ist der tatsächliche Jahresmittelwert des Marktwerts von Strom aus Windenergieanlagen auf See, der sich aus dem Spotmarktpreis ergibt. Für die Berechnung von �JW_{Wind auf See}“ ist die Berechnungsmethode der Nummer 4.3.2 mit der Maßgabe anzuwenden, dass statt des nach der Online-Hochrechnung nach Nummer 5.1 erzeugten Stroms aus Windenergieanlagen an Land der nach der Online-Hochrechnung nach Nummer 5.1 erzeugte Strom aus Windenergieanlagen auf See zugrunde zu legen ist.
+
+JW_{Wind auf See}“ ist der tatsächliche Jahresmittelwert des Marktwerts von Strom aus Windenergieanlagen auf See, der sich aus dem Spotmarktpreis ergibt. Für die Berechnung von JW_{Wind auf See}“ ist die Berechnungsmethode der Nummer 4.3.2 mit der Maßgabe anzuwenden, dass statt des nach der Online-Hochrechnung nach Nummer 5.1 erzeugten Stroms aus Windenergieanlagen an Land der nach der Online-Hochrechnung nach Nummer 5.1 erzeugte Strom aus Windenergieanlagen auf See zugrunde zu legen ist.
 4.3.4
 Solare Strahlungsenergie
-�
-�JW_{Solar}“ ist der tatsächliche Jahresmittelwert des Marktwerts von Strom aus Solaranlagen, der sich aus dem Spotmarktpreis ergibt. Für die Berechnung von �JW_{Solar}“ ist die Berechnungsmethode der Nummer 4.3.2 mit der Maßgabe anzuwenden, dass statt des nach der Online-Hochrechnung nach Nummer 5.1 erzeugten Stroms aus Windenergieanlagen an Land der nach der Online-Hochrechnung nach Nummer 5.1 erzeugte Strom aus Solaranlagen zugrunde zu legen ist.
+
+JW_{Solar}“ ist der tatsächliche Jahresmittelwert des Marktwerts von Strom aus Solaranlagen, der sich aus dem Spotmarktpreis ergibt. Für die Berechnung von JW_{Solar}“ ist die Berechnungsmethode der Nummer 4.3.2 mit der Maßgabe anzuwenden, dass statt des nach der Online-Hochrechnung nach Nummer 5.1 erzeugten Stroms aus Windenergieanlagen an Land der nach der Online-Hochrechnung nach Nummer 5.1 erzeugte Strom aus Solaranlagen zugrunde zu legen ist.
 5.
 Veröffentlichungen
 5.1
 Die Übertragungsnetzbetreiber müssen jederzeit unverzüglich auf einer gemeinsamen Internetseite in einheitlichem Format die auf der Grundlage einer repräsentativen Anzahl von gemessenen Referenzanlagen erstellte Online-Hochrechnung der Menge des tatsächlich erzeugten Stroms aus Windenergieanlagen an Land, Windenergieanlagen auf See und Solaranlagen in ihren Regelzonen in mindestens stündlicher Auflösung veröffentlichen. Für die Erstellung der Online-Hochrechnung sind Reduzierungen der Einspeiseleistung der Anlage durch den Netzbetreiber oder im Rahmen der Direktvermarktung nicht zu berücksichtigen.
 5.2
 Die Übertragungsnetzbetreiber müssen ferner für jeden Kalendermonat bis zum Ablauf des zehnten Werktags des Folgemonats auf einer gemeinsamen Internetseite in einheitlichem Format und auf drei Stellen nach dem Komma gerundet folgende Daten in nicht personenbezogener Form veröffentlichen:
-�
+
 a)
 den Spotmarktpreis für jeden Kalendertag in stündlicher Auflösung,
-�
+
 b)
-den Wert �MW“ nach der Maßgabe der Nummer 3.2,
-�
+den Wert MW“ nach der Maßgabe der Nummer 3.2,
+
 c)
-den Wert �MW_{Wind an Land}“ nach der Maßgabe der Nummer 3.3.2,
-�
+den Wert MW_{Wind an Land}“ nach der Maßgabe der Nummer 3.3.2,
+
 d)
-den Wert �MW_{Wind auf See}“ nach der Maßgabe der Nummer 3.3.3 und
-�
+den Wert MW_{Wind auf See}“ nach der Maßgabe der Nummer 3.3.3 und
+
 e)
-den Wert �MW_{Solar}“ nach der Maßgabe der Nummer 3.3.4.
+den Wert MW_{Solar}“ nach der Maßgabe der Nummer 3.3.4.
 5.3
 Die Übertragungsnetzbetreiber müssen ferner für jedes Kalenderjahr bis zum Ablauf des zehnten Werktages des Folgejahres auf einer gemeinsamen Internetseite in einheitlichem Format und auf drei Stellen nach dem Komma gerundet folgende Daten in nicht personenbezogener Form veröffentlichen:
-�
+
 a)
-den Wert �JW“ nach der Maßgabe der Nummer 4.2,
-�
+den Wert JW“ nach der Maßgabe der Nummer 4.2,
+
 b)
-den Wert �JW_{Wind an Land}“ nach der Maßgabe der Nummer 4.3.2,
-�
+den Wert JW_{Wind an Land}“ nach der Maßgabe der Nummer 4.3.2,
+
 c)
-den Wert �JW_{Wind auf See}“ nach der Maßgabe der Nummer 4.3.3 und
-�
+den Wert JW_{Wind auf See}“ nach der Maßgabe der Nummer 4.3.3 und
+
 d)
-den Wert �JW_{Solar}“ nach der Maßgabe der Nummer 4.3.4.
+den Wert JW_{Solar}“ nach der Maßgabe der Nummer 4.3.4.
 5.4
 Die Übertragungsnetzbetreiber müssen ferner im Fall einer nicht vollständigen oder nur teilweisen Kopplung der Orderbücher aller Strombörsen den von ihnen ermittelten Spotmarktpreis unverzüglich, spätestens zwei Stunden nach der Mitteilung der erforderlichen Informationen durch die Strombörsen nach Nummer 6 Buchstabe b veröffentlichen.
 5.5
 Soweit Daten, die nach Nummer 5.2 oder 5.3 veröffentlicht werden müssen, nicht fristgerecht verfügbar sind, muss die Veröffentlichung unverzüglich nachgeholt werden. “
 6.
 Mitteilungspflichten der Strombörsen
-�
+
 Die Strombörsen müssen den Übertragungsnetzbetreibern folgende Informationen mitteilen:
-�
+
 a)
 bis zum Ablauf des zweiten Werktags des Folgemonats den von ihnen im Rahmen der Kopplung der Orderbücher aller Strombörsen ermittelten Spotmarktpreis für jeden Kalendertag in stündlicher Auflösung und
-�
+
 b)
 im Fall einer nicht vollständigen oder nur teilweisen Kopplung der Orderbücher aller Strombörsen für die jeweils hiervon betroffenen Stunden den an ihrer Strombörse ermittelten Preis für die Stromstundenkontrakte in der vortägigen Auktion und ihr Handelsvolumen für diese Stromstundenkontrakte; diese Mitteilung muss unverzüglich, spätestens zwei Stunden nach Abschluss der vortägigen Auktion erfolgen.
 (+++ Anlage 1: Zur Anwendung vgl. § 38 Abs. 2 GEEV 2017 +++)\\
@@ -3669,7 +3669,7 @@ Anlage 2 - (zu § 36h)Referenzertrag
   - a) :: Strommengen, die auf eine technische Nichtverfügbarkeit von mehr als 2 Prozent des Bruttostromertrags zurückgehen,
   - b) :: Strommengen, die wegen Abregelungen durch den Netzbetreiber nach § 14 nicht erzeugt wurden, und
   - c) :: Strommengen, die wegen sonstigen Abschaltungen oder Drosselungen, zum Beispiel der optimierten Vermarktung des Stroms, der Eigenversorgung oder der Stromlieferungen unmittelbar an Dritte, nicht eingespeist wurden.
-- 7.3. :: Die Berechnung des Standortertrags richtet sich nach dem Stand der Technik. Es wird vermutet, dass die Berechnungen dem Stand der Technik entsprechen, wenn die Technischen Richtlinien der �FGW e. V. -- Fördergesellschaft Windenergie und andere Erneuerbare Energien“, insbesondere die Technischen Richtlinien für Windenergieanlagen, Teil 6 eingehalten worden sind. Die Berechnung der fiktiven Strommengen erfolgt auf der Grundlage der konkreten Anlagendaten für die entsprechenden Betriebsjahre. Zu diesem Zweck ist der Betreiber der Anlage verpflichtet, eine Datenhaltung zu organisieren, aus der die hierfür notwendigen Betriebszustände der Anlage durch berechtigte Dritte ausgelesen werden können und die nicht nachträglich verändert werden können.
+- 7.3. :: Die Berechnung des Standortertrags richtet sich nach dem Stand der Technik. Es wird vermutet, dass die Berechnungen dem Stand der Technik entsprechen, wenn die Technischen Richtlinien der FGW e. V. -- Fördergesellschaft Windenergie und andere Erneuerbare Energien“, insbesondere die Technischen Richtlinien für Windenergieanlagen, Teil 6 eingehalten worden sind. Die Berechnung der fiktiven Strommengen erfolgt auf der Grundlage der konkreten Anlagendaten für die entsprechenden Betriebsjahre. Zu diesem Zweck ist der Betreiber der Anlage verpflichtet, eine Datenhaltung zu organisieren, aus der die hierfür notwendigen Betriebszustände der Anlage durch berechtigte Dritte ausgelesen werden können und die nicht nachträglich verändert werden können.
 
 (+++ Anlage 2: Zur Nichtanwendung vgl. § 38 Abs. 2 GEEV 2017 +++)\\
 (+++ Anlage 2: Zur Anwendung vgl. § 2 Abs. 3 GEEV 2017 +++)
@@ -3694,26 +3694,26 @@ II. Höhe der Flexibilitätsprämie
 
 - 1. :: Begriffsbestimmungen
   Im Sinne dieser Anlage ist
-  - -- :: �P_{Bem}“ die Bemessungsleistung in Kilowatt; im ersten und im zehnten Kalenderjahr der Inanspruchnahme der Flexibilitätsprämie ist die Bemessungsleistung mit der Maßgabe zu berechnen, dass nur die in den Kalendermonaten der Inanspruchnahme der Flexibilitätsprämie erzeugten Kilowattstunden und nur die vollen Zeitstunden dieser Kalendermonate zu berücksichtigen sind; dies gilt nur für die Zwecke der Berechnung der Höhe der Flexibilitätsprämie,
-  - -- :: �P_{inst}“ die installierte Leistung in Kilowatt,
-  - -- :: �P_{Zusatz}“ die zusätzlich bereitgestellte installierte Leistung für die bedarfsorientierte Erzeugung von Strom in Kilowatt und in dem jeweiligen Kalenderjahr,
-  - -- :: �f_{Kor}“ der Korrekturfaktor für die Auslastung der Anlage,
-  - -- :: �KK“ die Kapazitätskomponente für die Bereitstellung der zusätzlich installierten Leistung in Euro und Kilowatt,
-  - -- :: �FP“ die Flexibilitätsprämie nach § 50b in Cent pro Kilowattstunde.
+  - -- :: P_{Bem}“ die Bemessungsleistung in Kilowatt; im ersten und im zehnten Kalenderjahr der Inanspruchnahme der Flexibilitätsprämie ist die Bemessungsleistung mit der Maßgabe zu berechnen, dass nur die in den Kalendermonaten der Inanspruchnahme der Flexibilitätsprämie erzeugten Kilowattstunden und nur die vollen Zeitstunden dieser Kalendermonate zu berücksichtigen sind; dies gilt nur für die Zwecke der Berechnung der Höhe der Flexibilitätsprämie,
+  - -- :: P_{inst}“ die installierte Leistung in Kilowatt,
+  - -- :: P_{Zusatz}“ die zusätzlich bereitgestellte installierte Leistung für die bedarfsorientierte Erzeugung von Strom in Kilowatt und in dem jeweiligen Kalenderjahr,
+  - -- :: f_{Kor}“ der Korrekturfaktor für die Auslastung der Anlage,
+  - -- :: KK“ die Kapazitätskomponente für die Bereitstellung der zusätzlich installierten Leistung in Euro und Kilowatt,
+  - -- :: FP“ die Flexibilitätsprämie nach § 50b in Cent pro Kilowattstunde.
 - 2. :: Berechnung
-- 2.1 :: Die Höhe der Flexibilitätsprämie nach § 50b (�FP“) in Cent pro Kilowattstunde direkt vermarkteten und tatsächlich eingespeisten Stroms wird nach der folgenden Formel berechnet:
+- 2.1 :: Die Höhe der Flexibilitätsprämie nach § 50b (FP“) in Cent pro Kilowattstunde direkt vermarkteten und tatsächlich eingespeisten Stroms wird nach der folgenden Formel berechnet:
   [[../normengrafiken/bgbl1_2014/j1066-1_0010.jpg]]
-- 2.2 :: �P_{Zusatz}“ wird nach der folgenden Formel berechnet:
+- 2.2 :: P_{Zusatz}“ wird nach der folgenden Formel berechnet:
   P_{Zusatz} = P_{inst} -- (f_{Kor} x P_{Bem})
-  Dabei beträgt �f_{Kor}“
+  Dabei beträgt f_{Kor}“
   - -- :: bei Biomethan: 1,6 und
   - -- :: bei Biogas, das kein Biomethan ist: 1,1.
 
-  Abweichend von Satz 1 wird der Wert �P_{Zusatz}“ festgesetzt
+  Abweichend von Satz 1 wird der Wert P_{Zusatz}“ festgesetzt
   - -- :: mit dem Wert null, wenn die Bemessungsleistung die 0,2fache installierte Leistung unterschreitet,
-  - -- :: mit dem 0,5fachen Wert der installierten Leistung �P_{inst}“, wenn die Berechnung ergibt, dass er größer als der 0,5fache Wert der installierten Leistung ist.
-- 2.3 :: �KK“ beträgt 130 Euro pro Kilowatt.
-- 2.4 :: Ergibt sich bei der Berechnung der Flexibilitätsprämie ein Wert kleiner null, wird abweichend von Nummer 2.1 der Wert �FP“ mit dem Wert null festgesetzt.
+  - -- :: mit dem 0,5fachen Wert der installierten Leistung P_{inst}“, wenn die Berechnung ergibt, dass er größer als der 0,5fache Wert der installierten Leistung ist.
+- 2.3 :: KK“ beträgt 130 Euro pro Kilowatt.
+- 2.4 :: Ergibt sich bei der Berechnung der Flexibilitätsprämie ein Wert kleiner null, wird abweichend von Nummer 2.1 der Wert FP“ mit dem Wert null festgesetzt.
 
 (+++ Anlage 3: Zur Anwendung vgl. § 38 Abs. 2 GEEV 2017 +++)\\
 (+++ Anlage 3: Zur Anwendung vgl. § 2 Abs. 3 GEEV 2017 +++)

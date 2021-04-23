@@ -16,7 +16,7 @@ Begriffsbestimmungen
 § 1
 Zuständige Behörden
 § 2
-�
+
 Abschnitt 2
 Herstellung von Mitteln
 Herstellungserlaubnis
@@ -53,7 +53,7 @@ Bescheinigung der Guten Herstellungspraxis
 § 18
 Prüfung des Betriebs
 § 19
-�
+
 Abschnitt 3
 Zulassung von Mitteln
 Zulassungsantrag
@@ -82,7 +82,7 @@ Erfassen und Auswerten von Risiken
 § 30
 Bekanntmachung, Veröffentlichung
 § 31
-�
+
 Abschnitt 4
 Staatliche Chargenprüfung
 Durchführung der staatlichen Chargenprüfung
@@ -91,14 +91,14 @@ Umfang der staatlichen Chargenprüfung
 § 33
 Rücknahme der Freigabe
 § 34
-�
+
 Abschnitt 5
 Kennzeichnung
 Kennzeichnung
 § 35
 Packungsbeilage
 § 36
-�
+
 Abschnitt 6
 Großhandel und Einfuhr
 Pflichten des Großhändlers
@@ -107,7 +107,7 @@ Einfuhrerlaubnis
 § 38
 Bescheinigung
 § 39
-�
+
 Abschnitt 7
 Abgabe und Anwendung von Mitteln
 Vertriebsweg, Nachweispflicht
@@ -124,7 +124,7 @@ Vorrätighalten von Mitteln
 § 45
 Befugnisse tierärztlicher Bildungsstätten
 § 46
-�
+
 Abschnitt 8
 Schlussbestimmungen
 Ordnungswidrigkeiten

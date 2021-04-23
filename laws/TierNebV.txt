@@ -18,183 +18,183 @@ Es verordnen
 
 Inhalts√ºbersicht
 
-†
-†
-¬ßß
+
+
+¬ß
 Teil 1
 Allgemeine Bestimmungen
-†
+
 Geltungsbereich
 1
-†
+
 Begriffsbestimmungen
 2
-†
+
 Teil 2
 Spezifische Anforderungen f√ºr K√ºchen- und Speiseabf√§lle und an Betriebe mit Nutztierhaltung
-†
+
 K√ºchen- und Speiseabf√§lle aus privaten Haushaltungen
 3
-†
+
 Sonstige K√ºchen- und Speiseabf√§lle
 4
-†
+
 Betriebe mit Nutztierhaltung
 5
-†
+
 Teil 3
 Transport- und Nachweisverpflichtungen
-†
+
 Lagerung, Bef√∂rderung und Inverkehrbringen von G√ºlle
 6
-†
+
 Anzeige und Betriebsregistrierung
 7
-†
+
 Reinigung und Desinfektion
 8
-†
+
 Handelspapiere, Aufzeichnungspflichten
 9
-†
+
 Kennzeichnung von Verpackungen, Beh√§ltern oder Fahrzeugen
 9a
-†
+
 Teil 4
 Anforderungen an die Verarbeitung, Behandlung und Entsorgung tierischer Nebenprodukte
-†
+
 Abschnitt 1
-†
+
 Verarbeitungsmethoden
-†
-†
+
+
 Verarbeitungsmethoden
 10
-†
+
 Abschnitt 2
-†
+
 Pasteurisierung von tierischen Nebenprodukten
-†
-†
+
+
 Anlagen zur Pasteurisierung
 11
-†
+
 Abschnitt 3
-†
+
 Verg√§rung und Kompostierung von tierischen Nebenprodukten
-†
-†
-†
+
+
+
 Unterabschnitt 1
-†
-†
+
+
 Anforderungen an Biogasanlagen
-†
-†
+
+
 Verarbeitung von tierischen Nebenprodukten in einer Biogasanlage
 12
-†
+
 Biogasanlagen, in denen ausschlie√ülich K√ºchen- und Speiseabf√§lle eingesetzt werden
 13
-†
+
 Biogasanlagen, in denen ausschlie√ülich K√ºchen- und Speiseabf√§lle zusammen mit G√ºlle, Magen- und Darminhalt, Milch und Kolostrum eingesetzt werden
 14
-†
+
 Biogasanlagen, in denen ausschlie√ülich G√ºlle, Magen- und Darminhalt, Milch und Kolostrum eingesetzt werden
 15
-†
-†
+
+
 Unterabschnitt 2
-†
-†
+
+
 Anforderungen an Kompostierungsanlagen
-†
-†
+
+
 Verarbeitung von tierischen Nebenprodukten in einer Kompostierungsanlage
 16
-†
+
 Kompostierungsanlagen, in denen ausschlie√ülich K√ºchen- und Speiseabf√§lle eingesetzt werden
 17
-†
+
 Kompostierungsanlagen, in denen ausschlie√ülich K√ºchen- und Speiseabf√§lle zusammen mit G√ºlle, Magen- und Darminhalt, Milch und Kolostrum eingesetzt werden
 18
-†
+
 Kompostierungsanlagen, in denen ausschlie√ülich G√ºlle, Magen- und Darminhalt, Milch und Kolostrum eingesetzt werden
 19
-†
-†
+
+
 Unterabschnitt 3
-†
-†
+
+
 Anforderungen an Biogas- und Kompostierungsanlagen, Untersuchungen und Probenahme bei zugelassenen Anlagen
-†
-†
+
+
 Gemeinsame Anforderungen an Biogas- und Kompostierungsanlagen
 20
-†
+
 Untersuchungen und Probenahme in Biogas- und Kompostierungsanlagen
 21
-†
+
 Untersuchungen und Probenahme in Anlagen zur Pasteurisierung
 22
-†
-†
+
+
 Unterabschnitt 4
-†
-†
+
+
 Verwertung von Fermentationsr√ºckst√§nden und Komposten
-†
-†
+
+
 Verwertung von Fermentationsr√ºckst√§nden und Komposten
 23
-†
+
 Abschnitt 4
-†
+
 Anlagen zur Entsorgung tierischer Nebenprodukte als Abfall
-†
-†
+
+
 Verbrennungsanlagen
 24
-†
+
 Ablagerung auf Deponien
 25
-†
+
 Teil 5
 Registrierung und Zulassung
-†
+
 Registrierung und Bekanntmachung der Zulassungen
 26
-†
+
 Teil 6
 Ausnahmen
-†
+
 Ausnahmen
 27
-†
+
 Teil 7
 Schlussvorschriften
-†
+
 Ordnungswidrigkeiten
 28
-†
+
 Inkrafttreten
 29
-†
+
 Anlage 1
 Handelspapiere
-†
+
 Anlage 2
 Muster f√ºr Aufzeichnungen
-†
+
 Anlage 3
 Probenahme
-†
+
 Anlage 4
 Liste der zur Verarbeitung in Biogas- und Kompostierungsanlagen zugelassenen tierischen Nebenprodukte, soweit die Fermentationsr√ºckst√§nde und Komposte aus den Anlagen zur Verwertung auf B√∂den bestimmt sind
-†
+
 Anlage 5
 Nummernschl√ºssel f√ºr die Betriebsart
-†
+
 
 ¬ß 1 - Geltungsbereich
 
@@ -597,31 +597,31 @@ tierischen Nebenprodukte\\
 Menge der\\
 tierischen Nebenprodukte\\
 1), 2), 4), 5)
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 4
 5
 6
@@ -634,30 +634,30 @@ Bef√∂rderungsunternehmens\\
 Name und Anschrift\\
 des Empf√§ngers\\
 1) 6)
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
-†
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 -----
 1)
 F√ºr Versender obligat.

@@ -52,26 +52,26 @@ Einsichtnahme nach § 24 Absatz 2 des Geldwäschegesetzes durch Abruf der Angabe
 1,65 pro\\
 abgerufenem\\
 Dokument
-�
+
 --
 Verweist das Transparenzregister auf andere Register nach § 20 Absatz 2 des Geldwäschegesetzes und vermittelt dahin den Zugang, weil sich der wirtschaftlich Berechtigte gegebenenfalls aus diesen Registern ergibt, so fällt keine Einsichtnahmegebühr zusätzlich zu den Gebühren für die Einsichtnahme in diese anderen Register an.
-�
-�
+
+
 --
 Falls im Register keine aktuelle Eintragung nach § 20 Absatz 1 oder § 21 des Geldwäschegesetzes vorliegt, erlangt der Einsichtnehmende eine elektronische Bestätigung dessen im Sinne von § 18 Absatz 4 Satz 1 des Geldwäschegesetzes im Rahmen der gewährten Einsichtnahme.
-�
+
 3
 Ausdruck von Angaben zu wirtschaftlich Berechtigten einer Vereinigung nach § 20 Absatz 1 des Geldwäschegesetzes oder einer Rechtsgestaltung nach § 21 des Geldwäschegesetzes, die im Transparenzregister gespeichert sind, nach § 18 Absatz 4 Satz 1 des Geldwäschegesetzes
 7,50 pro\\
 Ausdruck
-�
+
 --
 Diese Gebühr fällt zusätzlich zu der Einsichtnahmegebühr (Gebührentatbestand Nummer 2) an: Jeder Einsichtnehmende erhält die über das online-basierte Transparenzregister zugänglichen Daten in ausdruckbarer Form. Der Gebührentatbestand Nummer 3 findet nur Anwendung, wenn ein Einsichtnehmender darauf besteht, dass die registerführende Stelle den physischen Ausdruck erstellt und ihm diesen postalisch zukommen lässt.
-�
-�
+
+
 --
 Wird ein Ausdruck beglaubigt, so fällt zusätzlich zur Einsichtnahmegebühr (Gebührentatbestand Nummer 2) nur die Beglaubigungsgebühr nach § 12 Absatz 1 der Allgemeinen Gebührenverordnung an.
-�
+
 4
 Registrierungen und Identifizierungen wirtschaftlich Berechtigter nach § 24 Absatz 2a des Geldwäschegesetzes für die Erteilung von Auskünften gemäß § 23 Absatz 6 des Geldwäschegesetzes
 50,00 pro Registrierung eines wirtschaftlich Berechtigten für eine Rechtseinheit

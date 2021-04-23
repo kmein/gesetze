@@ -203,7 +203,7 @@ Umgang mit Informations- und Kommunikationstechniken (§ 3 Abs. 1 Nr. 5)
 
 3*)
 
-�
+
 
 6
 
@@ -217,14 +217,14 @@ Vorbereiten von Arbeitsabläufen, Auswerten von Informationen, Arbeiten im Team 
 
 4*)
 
-�
+
 
 - f) :: Zeitaufwand und personelle Unterstützung abschätzen, Zeitaufwand dokumentieren
 - g) :: Aufgaben im Team planen und umsetzen, Ergebnisse der Zusammenarbeit auswerten
 - h) :: Abstimmungen mit anderen Gewerken und weiteren Beteiligten treffen
 - i) :: Gespräche situationsgerecht führen, Sachverhalte darstellen
 
-�
+
 
 3*)
 
@@ -239,12 +239,12 @@ Anfertigen und Anwenden von technischen Unterlagen, Durchführen von Messungen (
 
 3*)
 
-�
+
 
 - e) :: Leistungsverzeichnisse anwenden
 - f) :: Aufmaße anfertigen, Leistungen abrechnen
 
-�
+
 
 2*)
 
@@ -261,7 +261,7 @@ Einrichten, Sichern und Räumen von Arbeitsplätzen (§ 3 Abs. 1 Nr. 8)
 
 6*)
 
-�
+
 
 9
 
@@ -275,7 +275,7 @@ Vorbereiten von Naturwerksteinarbeiten (§ 3 Abs. 1 Nr. 9)
 
 18
 
-�
+
 
 - f) :: Werkzeuge, Mess- und Prüfgeräte auswählen und bereitstellen
 - g) :: Rohblöcke, Tranchen, Rohplatten und Werkstücke für die Bearbeitung am Arbeitsplatz bereitstellen und zwischenlagern
@@ -283,7 +283,7 @@ Vorbereiten von Naturwerksteinarbeiten (§ 3 Abs. 1 Nr. 9)
 
 4
 
-�
+
 
 10
 
@@ -296,13 +296,13 @@ Handhaben und Warten von Werkzeugen, Geräten, Maschinen und technischen Einrich
 
 14
 
-�
+
 
 - e) :: Störungen an Geräten, Maschinen und technischen Einrichtungen erkennen, Störungsbeseitigung veranlassen
 - f) :: Maschinensteuerungen und Regelungsanlagen einstellen und bedienen
 - g) :: Geräte, Maschinen und technische Einrichtungen warten
 
-�
+
 
 17
 
@@ -320,7 +320,7 @@ Bearbeiten von Naturwerksteinen (§ 3 Abs. 1 Nr. 11)
 
 24
 
-�
+
 
 12
 
@@ -332,20 +332,20 @@ Durchführen von qualitätssichernden Maßnahmen, Kundenorientierung (§ 3 Abs. 
 
 2*)
 
-�
+
 
 - d) :: Endkontrolle anhand des Arbeitsauftrages durchführen und Arbeitsergebnisse dokumentieren
 - e) :: Ursachen von Qualitätsabweichungen feststellen und Fehlerbeseitigung veranlassen
 - f) :: Produkte für den Versand vorbereiten, insbesondere kennzeichnen, verpacken und lagern
 - g) :: Kunden beraten, insbesondere Gebrauchs- und Pflegeanleitungen erläutern
 
-�
+
 
 4*)
 
 - *) :: Im Zusammenhang mit anderen im Ausbildungsrahmenplan aufgeführten Ausbildungsinhalten zu vermitteln.
 
-�
+
 
 II. Fertigkeiten und Kenntnisse in den Fachrichtungen
 
@@ -399,7 +399,7 @@ Bearbeitung von Naturwerksteinen mit handgeführten Maschinen (§ 3 Abs. 2 Nr. 1
 
 6
 
-�
+
 
 B. Fachrichtung Schleiftechnik
 
@@ -439,7 +439,7 @@ maschinelle Schleiftechniken (§ 3 Abs. 2 Nr. 2 Buchstabe b)
 
 5
 
-�
+
 
 C. Fachrichtung Steinmetztechnik
 

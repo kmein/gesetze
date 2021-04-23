@@ -240,7 +240,7 @@ Arbeitsauftr√§ge erfassen
 
 4*)
 
-†
+
 
 b)
 
@@ -262,7 +262,7 @@ f)
 
 Gespr√§che situationsgerecht f√ºhren, Probleml√∂sungsm√∂glichkeiten anwenden
 
-†
+
 
 2*)
 
@@ -276,7 +276,7 @@ Bedeutung und Nutzungsm√∂glichkeiten von Informations- und Kommunikationssysteme
 
 4*)
 
-†
+
 
 b)
 
@@ -298,7 +298,7 @@ f)
 
 Sachverhalte darstellen, deutsche und englische Fachbegriffe anwenden
 
-†
+
 
 2*)
 
@@ -310,7 +310,7 @@ Nautische F√ºhrung
 
 16
 
-†
+
 
 a)
 
@@ -328,7 +328,7 @@ d)
 
 beim Steuern von Binnenschiffen mitwirken
 
-†
+
 
 16
 
@@ -342,7 +342,7 @@ Wach- und Sicherheitsma√ünahmen durchf√ºhren
 
 Bedienen und √úberwachen von Anlagen
 
-†
+
 
 4
 
@@ -358,7 +358,7 @@ Europ√§isches Wasserstra√üennetz
 
 8
 
-†
+
 
 i)
 
@@ -372,7 +372,7 @@ l)
 
 Funktionsweise von wasserbaulichen Anlagen unterscheiden, insbesondere Schleusen und Hebewerke
 
-†
+
 
 4
 
@@ -384,7 +384,7 @@ Signale und Lichter
 
 6
 
-†
+
 
 n)
 
@@ -402,7 +402,7 @@ a)
 
 Besatzungsvorschriften unterscheiden
 
-†
+
 
 3
 
@@ -424,13 +424,13 @@ Bauarten von Binnenschiffen und ihr Verhalten im Wasser unterscheiden, insbesond
 
 2
 
-†
+
 
 b)
 
 Ausr√ºstung und Einsatzm√∂glichkeiten unterschiedlicher Schiffstypen beim Transport von G√ºtern und Bef√∂rdern von Personen ber√ºcksichtigen
 
-†
+
 
 2
 
@@ -444,7 +444,7 @@ Ladungsgewicht berechnen
 
 6
 
-†
+
 
 b)
 
@@ -458,7 +458,7 @@ d)
 
 Ladungsarten, insbesondere Trockeng√ºter, fl√ºssige Ladungen und Container, unter Ber√ºcksichtigung ihrer Eigenschaften und ihres Verhaltens unterscheiden
 
-†
+
 
 6
 
@@ -480,13 +480,13 @@ qualit√§tsbewusst handeln und zur Qualit√§tssicherung beitragen
 
 2*)
 
-†
+
 
 b)
 
 Gespr√§che kundenorientiert f√ºhren, Kundenw√ºnsche beachten
 
-†
+
 
 3*)
 
@@ -504,13 +504,13 @@ Verkehrstr√§ger und ihre Einsatzm√∂glichkeiten im kombinierten Verkehr untersche
 
 2
 
-†
+
 
 b)
 
 bei der Planung von Betriebsabl√§ufen und Fahrpl√§nen mitwirken
 
-†
+
 
 2
 
@@ -524,7 +524,7 @@ Anlieferung von Betriebsmitteln, Hilfs- und Betriebsstoffen √ºberwachen
 
 6
 
-†
+
 
 b)
 
@@ -542,7 +542,7 @@ e)
 
 Bedarf an Betriebsmitteln, Hilfs- und Betriebsstoffen unter Ber√ºcksichtigung wirtschaftlicher Gesichtspunkte ermitteln, Bestellungen vorbereiten
 
-†
+
 
 3
 
@@ -560,7 +560,7 @@ Eigenschaften und Einsatzm√∂glichkeiten von Werk- und Hilfsstoffen unterscheiden
 
 16
 
-†
+
 
 b)
 
@@ -574,7 +574,7 @@ d)
 
 Werkstoffe bearbeiten
 
-†
+
 
 16
 
@@ -606,7 +606,7 @@ c)
 
 St√∂rungen im Schiffsbetrieb erkennen, bewerten und Ma√ünahmen zu deren Beseitigung ergreifen
 
-†
+
 
 d)
 

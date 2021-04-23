@@ -6,86 +6,86 @@ Ausfertigungsdatum: 09.12.2020
 
 Inhaltsübersicht
 
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 § 1 - Vorbereitungsdienste
 
 Vorbereitungsdienste für die Laufbahn des gehobenen Kriminaldienstes des Bundes sind
 
-- 1. :: das Bachelorstudium �Kriminalvollzugsdienst im Bundeskriminalamt“,
-- 2. :: die kriminalpolizeifachliche Qualifizierung für eine Verwendung im Bereich �Cyberkriminalität“ für den �Kriminalvollzugsdienst im Bundeskriminalamt“ oder
-- 3. :: die verkürzte Qualifizierung für den �Kriminalvollzugsdienst im Bundeskriminalamt“.
+- 1. :: das Bachelorstudium Kriminalvollzugsdienst im Bundeskriminalamt“,
+- 2. :: die kriminalpolizeifachliche Qualifizierung für eine Verwendung im Bereich Cyberkriminalität“ für den Kriminalvollzugsdienst im Bundeskriminalamt“ oder
+- 3. :: die verkürzte Qualifizierung für den Kriminalvollzugsdienst im Bundeskriminalamt“.
 
 Soweit im Folgenden nichts anderes bestimmt ist, werden die Vorbereitungsdienste an der Hochschule des Bundes für öffentliche Verwaltung (Hochschule) durchgeführt.
 
@@ -93,8 +93,8 @@ Soweit im Folgenden nichts anderes bestimmt ist, werden die Vorbereitungsdienste
 § 2 - Dienstbehörde
 
 (1) Die Studierenden sind Beamtinnen und Beamte des Bundeskriminalamts.
-(2) Die Teilnehmerinnen und Teilnehmer der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich �Cyberkriminalität“ sind während der Dauer der Qualifizierungsma�Cyberkriminalität“ fort.
-(3) Die Teilnehmerinnen und Teilnehmer der Qualifizierungsma�Ausbildungsverkürzung“ sind Beamtinnen und Beamte des Bundeskriminalamts.
+(2) Die Teilnehmerinnen und Teilnehmer der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich Cyberkriminalität“ sind während der Dauer der QualifizierungsmaCyberkriminalität“ fort.
+(3) Die Teilnehmerinnen und Teilnehmer der QualifizierungsmaAusbildungsverkürzung“ sind Beamtinnen und Beamte des Bundeskriminalamts.
 
 § 3 - Dienstaufsicht
 
@@ -105,12 +105,12 @@ Soweit im Folgenden nichts anderes bestimmt ist, werden die Vorbereitungsdienste
 
 Während der praxisintegrierenden Studienzeiten bei einer Kriminalpolizeidienststelle eines Landes unterstehen sie auch der Dienstaufsicht der Leitung dieser Dienststelle.
 
-(2) Die Teilnehmerinnen und Teilnehmer der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich �Cyberkriminalität“ unterstehen der Dienstaufsicht der Präsidentin oder des Präsidenten des Bundeskriminalamts
+(2) Die Teilnehmerinnen und Teilnehmer der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich Cyberkriminalität“ unterstehen der Dienstaufsicht der Präsidentin oder des Präsidenten des Bundeskriminalamts
 
 - 1. :: während der Ausbildung an der Hochschule (§ 64 Absatz 1) und
 - 2. :: während der Ausbildung beim Bundeskriminalamt (§ 64 Absatz 2).
 
-(3) Die Teilnehmerinnen und Teilnehmer der Qualifizierungsma�Ausbildungsverkürzung“ unterstehen der Dienstaufsicht der Präsidentin oder des Präsidenten des Bundeskriminalamts
+(3) Die Teilnehmerinnen und Teilnehmer der QualifizierungsmaAusbildungsverkürzung“ unterstehen der Dienstaufsicht der Präsidentin oder des Präsidenten des Bundeskriminalamts
 
 - 1. :: während der Ausbildung an der Hochschule (§ 99 Absatz 1) und
 - 2. :: während der Ausbildung bei den Kriminalpolizeidienststellen der Länder und beim Bundeskriminalamt (§ 99 Absatz 2).
@@ -125,7 +125,7 @@ Die Zeiten des Erholungsurlaubs werden von der Hochschule bestimmt.
 § 5 - Bewertung von Prüfungsleistungen
 
 (1) Die in den Prüfungen des Vorbereitungsdienstes erbrachten Leistungen werden wie folgt bewertet:
-�
+
 Prozentualer Anteil der\\
 erreichten Punktzahl\\
 an der erreichbaren\\
@@ -134,7 +134,7 @@ Rangpunkte/\\
 Rangpunktzahl
 Note
 Notendefinition
-�
+
 1
 2
 3
@@ -256,7 +256,7 @@ Das Studium hat insbesondere zum Ziel,
 - 1. :: Module und
 - 2. :: polizeispezifische Trainings.
 
-(2) Der Studienverlauf richtet sich nach dem Modulhandbuch �Kriminalvollzugsdienst im Bundeskriminalamt“, welches bei Beginn der kriminalpolizeifachlichen Qualifizierung gilt.
+(2) Der Studienverlauf richtet sich nach dem Modulhandbuch Kriminalvollzugsdienst im Bundeskriminalamt“, welches bei Beginn der kriminalpolizeifachlichen Qualifizierung gilt.
 (3) Die Teilnahme an den Lehrveranstaltungen der Module und an den polizeispezifischen Trainings ist verpflichtend.
 
 § 12 - Verteilung und Inhalt der Module
@@ -312,7 +312,7 @@ Modul 14
 Thesis der Bachelorarbeit
 (2) Die Einzelheiten der Studieninhalte und des Studienverlaufs legt die Hochschule in einem Modulhandbuch fest. Das Modulhandbuch wird auf der Website des Bundeskriminalamts veröffentlicht.
 (3) Die Module 1 bis 14 sind interdisziplinär auszurichten.
-(4) Der Inhalt der Module 1 bis 14 richtet sich nach dem Modulhandbuch �Kriminalvollzugsdienst im Bundeskriminalamt“. Der Inhalt der Module 1 bis 4 entspricht dem Inhalt des gemeinsamen fachbereichsübergreifenden Grundstudiums der Hochschule.
+(4) Der Inhalt der Module 1 bis 14 richtet sich nach dem Modulhandbuch Kriminalvollzugsdienst im Bundeskriminalamt“. Der Inhalt der Module 1 bis 4 entspricht dem Inhalt des gemeinsamen fachbereichsübergreifenden Grundstudiums der Hochschule.
 
 § 13 - Durchführungsort
 
@@ -340,7 +340,7 @@ Für die praxisintegrierenden Studienzeiten erstellt die Hochschule für jede St
 
 (1) Die polizeispezifischen Trainings werden modulbegleitend in den fachtheoretischen Studienzeiten II und III durchgeführt.
 (2) In den polizeispezifischen Trainings werden den Studierenden Fähigkeiten zur polizeispezifischen Sprachausbildung, des polizeilichen Situations- und Einsatztrainings und hinsichtlich der Dienstkunde vermittelt.
-(3) Die Inhalte der polizeispezifischen Trainings richten sich nach dem Modulhandbuch �Kriminalvollzugsdienst im Bundeskriminalamt“.
+(3) Die Inhalte der polizeispezifischen Trainings richten sich nach dem Modulhandbuch Kriminalvollzugsdienst im Bundeskriminalamt“.
 
 § 18 - Praktische Prüfungen in den polizeispezifischen Trainings
 
@@ -350,9 +350,9 @@ Für die praxisintegrierenden Studienzeiten erstellt die Hochschule für jede St
 - 1. :: die Überprüfung der Leistungen des Situations- oder Einsatztrainings und
 - 2. :: die Kontrollübung Schießen.
 
-(3) Die Prüfungen werden jeweils nur mit �bestanden“ oder �nicht bestanden“ bewertet.
+(3) Die Prüfungen werden jeweils nur mit bestanden“ oder nicht bestanden“ bewertet.
 (4) Für die Studierende oder den Studierenden, die oder der die beiden Prüfungen bestanden hat, erstellt das Prüfungsamt im Bundeskriminalamt einen qualifizierten Teilnahmenachweis. Mit ihm wird die regelmäßige Teilnahme an den polizeispezifischen Trainings und das Bestehen der beiden Prüfungen bescheinigt.
-(5) Näheres regelt das Modulhandbuch �Kriminalvollzugsdienst im Bundeskriminalamt“.
+(5) Näheres regelt das Modulhandbuch Kriminalvollzugsdienst im Bundeskriminalamt“.
 (6) Das Bestehen der beiden Prüfungen ist Voraussetzung für die Teilnahme an der praxisintegrierenden Studienzeit I.
 
 § 19 - Zweck der Laufbahnprüfung
@@ -392,7 +392,7 @@ Die Laufbahnprüfung dient dazu, die Eignung und Befähigung der oder des Studie
 - 5. :: eines Kurzvortrags.
 
 (2) Eine Modulprüfung kann aus mehreren Prüfungsteilen bestehen.
-(3) Näheres regelt das Modulhandbuch �Kriminalvollzugsdienst im Bundeskriminalamt“.
+(3) Näheres regelt das Modulhandbuch Kriminalvollzugsdienst im Bundeskriminalamt“.
 
 § 24 - Zwischenprüfung und Bescheinigung über die Zwischenprüfung
 
@@ -408,7 +408,7 @@ Die Laufbahnprüfung dient dazu, die Eignung und Befähigung der oder des Studie
 
 (2) Im Modul 13 ist die Modulprüfung die dienstliche Bewertung.
 (3) Die dienstliche Bewertung wird von der oder dem Ausbildenden erstellt. Dabei sind die Ausbildungsverantwortlichen zu beteiligen. Die dienstliche Bewertung enthält neben den Rangpunkten die wesentlichen Leistungs- und Befähigungsmerkmale der oder des Studierenden. Sie ist mit der oder dem Studierenden zu besprechen.
-(4) Näheres regelt das Modulhandbuch �Kriminalvollzugsdienst im Bundeskriminalamt“.
+(4) Näheres regelt das Modulhandbuch Kriminalvollzugsdienst im Bundeskriminalamt“.
 
 § 26 - Prüfende für die Modulprüfungen
 
@@ -453,7 +453,7 @@ In der Thesis soll die oder der Studierende nachweisen, dass sie oder er fähig 
 (1) Der Termin für die Abgabe der Thesis ist der erste Werktag des vierten auf die Bekanntgabe des Themas folgenden Kalendermonats.
 (2) Die Bearbeitungszeit für die Thesis beträgt fünf Wochen. Sie beginnt erst fünf Wochen vor dem Abgabetermin.
 (3) Den Beginn der Bearbeitungszeit und den Termin für die Abgabe der Thesis legt das Prüfungsamt beim Bundeskriminalamt fest.
-(4) Näheres regelt das Modulhandbuch �Kriminalvollzugsdienst im Bundeskriminalamt“.
+(4) Näheres regelt das Modulhandbuch Kriminalvollzugsdienst im Bundeskriminalamt“.
 
 § 33 - Prüfende für die Thesis
 
@@ -606,7 +606,7 @@ Die Laufbahnprüfung hat bestanden, wer die Modulprüfungen sowie die Thesis und
 
 § 51 - Akademischer Grad
 
-Der Person, die die Laufbahnprüfung bestanden hat, wird zugleich der akademische Grad �Bachelor of Arts“ (B. A.) verliehen.
+Der Person, die die Laufbahnprüfung bestanden hat, wird zugleich der akademische Grad Bachelor of Arts“ (B. A.) verliehen.
 
 § 52 - Rangpunktzahl der Laufbahnprüfung und Gesamtnote
 
@@ -647,13 +647,13 @@ Der berechnete Wert wird kaufmännisch auf eine ganze Zahl gerundet. Die gerunde
 
 (3) Das Diploma Supplement enthält
 
-- 1. :: die Abschlussbezeichnung �Kriminalvollzugsdienst im Bundeskriminalamt (B. A.)“ und
+- 1. :: die Abschlussbezeichnung Kriminalvollzugsdienst im Bundeskriminalamt (B. A.)“ und
 - 2. :: die relative Note nach der Bewertungsskala des Europäischen Systems zur Übertragung und Akkumulierung von Studienleistungen bezogen auf die absoluten Noten der oder des einzelnen Studierenden im Vergleich zu allen Studierenden des Studienjahrgangs:
-  - a) :: die Note �A“ für die besten 10 Prozent,
-  - b) :: die Note �B“ für die nächsten 25 Prozent,
-  - c) :: die Note �C“ für die nächsten 30 Prozent,
-  - d) :: die Note �D“ für die nächsten 25 Prozent und
-  - e) :: die Note �E“ für die nächsten 10 Prozent.
+  - a) :: die Note A“ für die besten 10 Prozent,
+  - b) :: die Note B“ für die nächsten 25 Prozent,
+  - c) :: die Note C“ für die nächsten 30 Prozent,
+  - d) :: die Note D“ für die nächsten 25 Prozent und
+  - e) :: die Note E“ für die nächsten 10 Prozent.
 
 Das Diploma Supplement wird in deutscher und in englischer Sprache ausgestellt.
 
@@ -697,7 +697,7 @@ Jeder Person, die die Laufbahnprüfung nicht bestanden hat, stellt das Prüfungs
 - 2. :: bei Leistungen, die denen in den Modulen 5 bis 13 entsprechen, das Prüfungsamt beim Bundeskriminalamt und
 - 3. :: bei der Thesis das Prüfungsamt beim Bundeskriminalamt.
 
-(4) Anerkannt werden Leistungen, bei denen kein wesentlicher Unterschied besteht zu den Leistungen, die im Bachelorstudium �Kriminalvollzugsdienst im Bundeskriminalamt“ zu erbringen sind. Bei Leistungen, die au�Kriminalvollzugsdienst im Bundeskriminalamt“ zu erbringen sind, anerkannt werden.
+(4) Anerkannt werden Leistungen, bei denen kein wesentlicher Unterschied besteht zu den Leistungen, die im Bachelorstudium Kriminalvollzugsdienst im Bundeskriminalamt“ zu erbringen sind. Bei Leistungen, die auKriminalvollzugsdienst im Bundeskriminalamt“ zu erbringen sind, anerkannt werden.
 (5) Soweit die Bewertungssysteme vergleichbar sind, sind die Bewertungen der anerkannten Leistungen zu übernehmen. Sind die Bewertungssysteme nicht vergleichbar, so wird der anerkannten Leistung eine Bewertung der Notenskala nach § 5 Absatz 1 zugeordnet.
 (6) Die übernommenen und die zugeordneten Bewertungen sind in die Berechnung der entsprechenden Rangpunktzahlen einzubeziehen.
 
@@ -717,7 +717,7 @@ Jeder Person, die die Laufbahnprüfung nicht bestanden hat, stellt das Prüfungs
 
 § 59 - Einstellung
 
-(1) Für die Teilnahme am Vorbereitungsdienst, der als Qualifizierungsma�Cyberkriminalistik“ durchgeführt wird, kann zugelassen werden, wer
+(1) Für die Teilnahme am Vorbereitungsdienst, der als QualifizierungsmaCyberkriminalistik“ durchgeführt wird, kann zugelassen werden, wer
 
 - 1. :: die Einstellungsvoraussetzungen nach dem Bundesbeamtengesetz und der Kriminallaufbahnverordnung erfüllt,
 - 2. :: den besonderen gesundheitlichen Anforderungen gerecht wird, die an Beamtinnen und Beamte im Polizeivollzugsdienst gestellt werden, und
@@ -733,17 +733,17 @@ Jeder Person, die die Laufbahnprüfung nicht bestanden hat, stellt das Prüfungs
 
 § 60 - Ziel der kriminalpolizeifachlichen Qualifizierung und Dauer
 
-(1) Die kriminalpolizeifachliche Qualifizierung für eine Verwendung im Bereich �Cyberkriminalität“ hat das Ziel, dass bei den Personen, die an ihr teilnehmen, die Laufbahnbefähigung für den gehobenen kriminalpolizeilichen Vollzugsdienst des Bundes zu vermitteln und dabei ihre technischen Vorkenntnisse und Studienleistungen zu berücksichtigen.
+(1) Die kriminalpolizeifachliche Qualifizierung für eine Verwendung im Bereich Cyberkriminalität“ hat das Ziel, dass bei den Personen, die an ihr teilnehmen, die Laufbahnbefähigung für den gehobenen kriminalpolizeilichen Vollzugsdienst des Bundes zu vermitteln und dabei ihre technischen Vorkenntnisse und Studienleistungen zu berücksichtigen.
 (2) Die kriminalpolizeiliche Qualifizierung dauert 24 Monate.
 
 § 61 - Präsenzlehrveranstaltungen und Freistellung vom Dienst
 
-(1) Alle Lehrveranstaltungen der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich �Cyberkriminalität“ sind Präsenzlehrveranstaltungen.
+(1) Alle Lehrveranstaltungen der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich Cyberkriminalität“ sind Präsenzlehrveranstaltungen.
 (2) Teilnehmerinnen und Teilnehmer, die Beamtinnen oder Beamte oder Arbeitnehmer beim Bundeskriminalamt sind, sind gegebenenfalls für die Dauer der kriminalpolizeifachlichen Qualifizierung von ihren Dienstpflichten freizustellen.
 
 § 62 - Gliederung der kriminalpolizeifachlichen Qualifizierung
 
-Die kriminalpolizeifachliche Qualifizierung für eine Verwendung im Bereich �Cyberkriminalität“ gliedert sich in
+Die kriminalpolizeifachliche Qualifizierung für eine Verwendung im Bereich Cyberkriminalität“ gliedert sich in
 
 - 1. :: Module und
 - 2. :: polizeispezifische Trainings.
@@ -762,7 +762,7 @@ Die kriminalpolizeifachliche Qualifizierung für eine Verwendung im Bereich �Cy
 | Modul 8 | Politisch motivierte Kriminalität                                                                                          |
 | Modul 9 | Polizeiliche Informationserhebung und Informationsverwendung sowie Phänomen Cybercrime                                     |
 
-(2) In den Modulen 1 bis 4 und 6 bis 9 werden fachtheoretische polizeispezifische Kenntnisse vermittelt. Der Inhalt dieser Module richtet sich nach dem Modulhandbuch �Cyberkriminalität“, welches bei Beginn der kriminalpolizeifachlichen Qualifizierung gilt. Die Einzelheiten der Studieninhalte und des Studienverlaufs legt die Hochschule in einem Modulhandbuch fest, welches bei Beginn der kriminalpolizeifachlichen Qualifizierung gilt. Das Modulhandbuch wird auf der Website des Bundeskriminalamts veröffentlicht.
+(2) In den Modulen 1 bis 4 und 6 bis 9 werden fachtheoretische polizeispezifische Kenntnisse vermittelt. Der Inhalt dieser Module richtet sich nach dem Modulhandbuch Cyberkriminalität“, welches bei Beginn der kriminalpolizeifachlichen Qualifizierung gilt. Die Einzelheiten der Studieninhalte und des Studienverlaufs legt die Hochschule in einem Modulhandbuch fest, welches bei Beginn der kriminalpolizeifachlichen Qualifizierung gilt. Das Modulhandbuch wird auf der Website des Bundeskriminalamts veröffentlicht.
 (3) Das Modul 5 dient der berufspraktischen Tätigkeit.
 
 § 64 - Durchführungsort
@@ -778,13 +778,13 @@ Die kriminalpolizeifachliche Qualifizierung für eine Verwendung im Bereich �Cy
 § 66 - Durchführung und Inhalt der polizeispezifischen Trainings
 
 (1) Die polizeispezifischen Trainings werden modulbegleitend durchgeführt.
-(2) Die Teilnehmerinnen und Teilnehmer müssen in der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich �Cyberkriminalität“ drei polizeispezifische Trainings absolvieren, nämlich
+(2) Die Teilnehmerinnen und Teilnehmer müssen in der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich Cyberkriminalität“ drei polizeispezifische Trainings absolvieren, nämlich
 
-- 1. :: �Polizeiliches Situations- und Einsatztraining“,
+- 1. :: Polizeiliches Situations- und Einsatztraining“,
 - 2. :: Dienstkunde und
-- 3. :: �Polizeirelevantes Englisch“.
+- 3. :: Polizeirelevantes Englisch“.
 
-(3) Die Inhalte der polizeispezifischen Trainings richten sich nach dem Modulhandbuch �Cyberkriminalität“.
+(3) Die Inhalte der polizeispezifischen Trainings richten sich nach dem Modulhandbuch Cyberkriminalität“.
 
 § 67 - Praktische Prüfungen
 
@@ -795,8 +795,8 @@ Die kriminalpolizeifachliche Qualifizierung für eine Verwendung im Bereich �Cy
 - 2. :: die Kontrollübung Schießen.
 
 (3) Die beiden Prüfungen müssen bis zum Abschluss des Moduls 9 durchgeführt sein.
-(4) Die Prüfungen werden jeweils nur mit �bestanden“ oder �nicht bestanden“ bewertet. Das Nähere regelt das Modulhandbuch �Cyberkriminalität“.
-(5) Wer eine Prüfung nicht bestanden hat, kann sie wiederholen. Bei jeder der beiden Prüfungen sind zwei Wiederholungen zulässig. Für die Person, die eine dieser Prüfungen endgültig nicht bestanden hat, ist die kriminalpolizeifachliche Qualifizierung für eine Verwendung im Bereich �Cyberkriminalität“ beendet.
+(4) Die Prüfungen werden jeweils nur mit bestanden“ oder nicht bestanden“ bewertet. Das Nähere regelt das Modulhandbuch Cyberkriminalität“.
+(5) Wer eine Prüfung nicht bestanden hat, kann sie wiederholen. Bei jeder der beiden Prüfungen sind zwei Wiederholungen zulässig. Für die Person, die eine dieser Prüfungen endgültig nicht bestanden hat, ist die kriminalpolizeifachliche Qualifizierung für eine Verwendung im Bereich Cyberkriminalität“ beendet.
 (6) Für die Teilnehmerin oder den Teilnehmer, die oder der die beiden Prüfungen bestanden hat, erstellt das Prüfungsamt beim Bundeskriminalamt einen qualifizierten Teilnahmenachweis. Mit ihm wird die regelmäßige Teilnahme an den polizeispezifischen Trainings und das Bestehen der beiden Prüfungen bescheinigt.
 
 § 68 - Prüfungsamt
@@ -807,7 +807,7 @@ Die kriminalpolizeifachliche Qualifizierung für eine Verwendung im Bereich �Cy
 
 § 69 - Module mit Modulprüfungen
 
-In jedem der Module 1 bis 4 und 6 bis 9 hat die Teilnehmerin oder der Teilnehmer der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich �Cyberkriminalität“ eine Modulprüfung abzulegen.
+In jedem der Module 1 bis 4 und 6 bis 9 hat die Teilnehmerin oder der Teilnehmer der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich Cyberkriminalität“ eine Modulprüfung abzulegen.
 
 § 70 - Zeitpunkt der Modulprüfung
 
@@ -840,7 +840,7 @@ Eine Modulprüfung ist bestanden, wenn sie mit mindestens fünf Rangpunkten bewe
 
 (1) Wer eine Modulprüfung nicht bestanden hat, kann sie einmal wiederholen. Ist auch die Wiederholung nicht bestanden worden, so ist in insgesamt höchstens zwei Modulen jeweils eine weitere Wiederholungsprüfung zulässig.
 (2) Bei der Wiederholung wird jede Klausur von zwei Prüfenden bewertet.
-(3) Für die Person, die eine Modulprüfung endgültig nicht bestanden hat, ist die kriminalpolizeifachliche Qualifizierung für eine Verwendung im Bereich �Cyberkriminalität“ beendet.
+(3) Für die Person, die eine Modulprüfung endgültig nicht bestanden hat, ist die kriminalpolizeifachliche Qualifizierung für eine Verwendung im Bereich Cyberkriminalität“ beendet.
 
 § 76 - Prüfungsamt
 
@@ -895,15 +895,15 @@ Die mündliche Abschlussprüfung ist bestanden, wenn sie mit mindestens fünf Ra
 § 85 - Wiederholung der mündlichen Abschlussprüfung
 
 (1) Wer die mündliche Abschlussprüfung nicht bestanden hat, kann sie einmal wiederholen.
-(2) Für die Person, die die mündliche Abschlussprüfung endgültig nicht bestanden hat, ist die kriminalpolizeifachliche Qualifizierung für eine Verwendung im Bereich �Cyberkriminalität“ beendet.
+(2) Für die Person, die die mündliche Abschlussprüfung endgültig nicht bestanden hat, ist die kriminalpolizeifachliche Qualifizierung für eine Verwendung im Bereich Cyberkriminalität“ beendet.
 
 § 86 - Erfolgreiche Teilnahme an der kriminalpolizeifachlichen Qualifizierung
 
-An der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich �Cyberkriminalität“ hat erfolgreich teilgenommen, wer die mündliche Abschlussprüfung bestanden hat.
+An der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich Cyberkriminalität“ hat erfolgreich teilgenommen, wer die mündliche Abschlussprüfung bestanden hat.
 
 § 87 - Rangpunktzahl der kriminalpolizei- fachlichen Qualifizierung und Gesamtnote
 
-(1) Für jede Person, die erfolgreich an der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich �Cyberkriminalität“ teilgenommen hat, berechnet das Prüfungsamt beim Bundeskriminalamt die Rangpunktzahl der kriminalpolizeifachlichen Qualifizierung und setzt die Gesamtnote fest.
+(1) Für jede Person, die erfolgreich an der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich Cyberkriminalität“ teilgenommen hat, berechnet das Prüfungsamt beim Bundeskriminalamt die Rangpunktzahl der kriminalpolizeifachlichen Qualifizierung und setzt die Gesamtnote fest.
 (2) In die Berechnung gehen ein
 
 - 1. :: die Bewertung von jeder der sieben Modulprüfungen (Module 1 bis 4 und 6 bis 8) mit 11,4 Prozent und
@@ -914,10 +914,10 @@ An der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich 
 
 § 88 - Abschlusszeugnis
 
-(1) Jeder Person, die erfolgreich an der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich �Cyberkriminalität“ teilgenommen hat, stellt das Prüfungsamt ein Abschlusszeugnis aus.
+(1) Jeder Person, die erfolgreich an der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich Cyberkriminalität“ teilgenommen hat, stellt das Prüfungsamt ein Abschlusszeugnis aus.
 (2) Das Abschlusszeugnis enthält
 
-- 1. :: die Feststellung, dass die Person erfolgreich an der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich �Cyberkriminalität“ teilgenommen und die Befähigung für den gehobenen Kriminaldienst des Bundes erlangt hat,
+- 1. :: die Feststellung, dass die Person erfolgreich an der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich Cyberkriminalität“ teilgenommen und die Befähigung für den gehobenen Kriminaldienst des Bundes erlangt hat,
 - 2. :: die Rangpunkte für jede Modulprüfung,
 - 3. :: die Rangpunkte für die mündliche Abschlussprüfung sowie
 - 4. :: die Rangpunktzahl der kriminalpolizeifachlichen Qualifizierung und die Gesamtnote.
@@ -935,7 +935,7 @@ An der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich 
 
 § 90 - Prüfungsakten und Einsichtnahme
 
-(1) Zu jeder Teilnehmerin und jedem Teilnehmer der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich �Cyberkriminalität“ führt das Prüfungsamt beim Bundeskriminalamt eine Prüfungsakte.
+(1) Zu jeder Teilnehmerin und jedem Teilnehmer der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich Cyberkriminalität“ führt das Prüfungsamt beim Bundeskriminalamt eine Prüfungsakte.
 (2) In die Prüfungsakte aufzunehmen sind
 
 - 1. :: die Klausuren der Modulprüfungen,
@@ -943,7 +943,7 @@ An der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich 
 - 3. :: eine Ausfertigung des Abschlusszeugnisses oder des Bescheids bei endgültigem Nichtbestehen.
 
 (3) Die Prüfungsakten sind beim Prüfungsamt beim Bundeskriminalamt mindestens fünf Jahre und höchstens zehn Jahre aufzubewahren.
-(4) Die Betroffenen können nach Beendigung der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich �Cyberkriminalität“ Einsicht in ihre Prüfungsakte nehmen.
+(4) Die Betroffenen können nach Beendigung der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich Cyberkriminalität“ Einsicht in ihre Prüfungsakte nehmen.
 
 § 91 - Auswahlverfahren und Zulassung zum Auswahlverfahren
 
@@ -964,7 +964,7 @@ An der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich 
 
 § 93 - Einstellung
 
-(1) In den Vorbereitungsdienst, der als Qualifizierungsma�Ausbildungsverkürzung“ durchgeführt wird, kann eingestellt werden, wer
+(1) In den Vorbereitungsdienst, der als QualifizierungsmaAusbildungsverkürzung“ durchgeführt wird, kann eingestellt werden, wer
 
 - 1. :: die Einstellungsvoraussetzungen nach dem Bundesbeamtengesetz und der Kriminallaufbahnverordnung erfüllt,
 - 2. :: den besonderen gesundheitlichen Anforderungen gerecht wird, die an Beamtinnen und Beamte im Polizeivollzugsdienst gestellt werden, und
@@ -980,21 +980,21 @@ An der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich 
 
 § 94 - Ziel der Qualifizierungsmaßnahme
 
-Die Qualifizierungsma�Ausbildungsverkürzung“ hat das Ziel, Personen, die bereits einen an einer Hochschule erworbenen Bachelor- oder Masterabschluss oder einen vergleichbaren Studienabschluss erworben haben und daher über Kenntnisse und Fähigkeiten wissenschaftlicher Arbeitstechniken verfügen, die Laufbahnbefähigung für den gehobenen kriminalpolizeilichen Vollzugsdienst des Bundes zu vermitteln. Dabei soll der bereits erbrachte wissenschaftliche Abschluss Berücksichtigung finden.
+Die QualifizierungsmaAusbildungsverkürzung“ hat das Ziel, Personen, die bereits einen an einer Hochschule erworbenen Bachelor- oder Masterabschluss oder einen vergleichbaren Studienabschluss erworben haben und daher über Kenntnisse und Fähigkeiten wissenschaftlicher Arbeitstechniken verfügen, die Laufbahnbefähigung für den gehobenen kriminalpolizeilichen Vollzugsdienst des Bundes zu vermitteln. Dabei soll der bereits erbrachte wissenschaftliche Abschluss Berücksichtigung finden.
 § 94 Satz 1 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "kriminalpolizeiichen" durch das Wort "kriminalpolizeilichen" ersetzt.
 
 § 95 - Dauer der Qualifizierungsmaßnahme
 
-Die Qualifizierungsma�Ausbildungsverkürzung“ dauert 24 Monate.
+Die QualifizierungsmaAusbildungsverkürzung“ dauert 24 Monate.
 
 § 96 - Präsenzlehrveranstaltungen und Freistellung vom Dienst
 
-(1) Alle Lehrveranstaltungen der Qualifizierungsma�Ausbildungsverkürzung“ sind Präsenzlehrveranstaltungen.
+(1) Alle Lehrveranstaltungen der QualifizierungsmaAusbildungsverkürzung“ sind Präsenzlehrveranstaltungen.
 (2) Teilnehmerinnen und Teilnehmer, die Beamtinnen und Beamte oder Arbeitnehmerinnen und Arbeitnehmer des Bundeskriminalamts sind, sind gegebenenfalls für die Dauer der Qualifizierungsmaßnahme von ihren Dienstpflichten freizustellen.
 
 § 97 - Gliederung der Qualifizierungsmaßnahme
 
-Die Qualifizierungsma�Ausbildungsverkürzung“ gliedert sich in
+Die QualifizierungsmaAusbildungsverkürzung“ gliedert sich in
 
 - 1. :: Module und
 - 2. :: polizeispezifische Trainings.
@@ -1002,7 +1002,7 @@ Die Qualifizierungsma�Ausbildungsverkürzung“ gliedert sich in
 
 § 98 - Verteilung und Inhalt der Module
 
-(1) Die Qualifizierungsma�Ausbildungsverkürzung“ wird in folgenden Modulen durchgeführt:
+(1) Die QualifizierungsmaAusbildungsverkürzung“ wird in folgenden Modulen durchgeführt:
 | Modul 1  | Grundlagen des Verwaltungshandelns                                                                                         |
 | Modul 2  | Grundlagen polizeilichen Handelns sowie Aufgabe, Organisation und Handeln der Polizei                                      |
 | Modul 3  | Grundlagen zu Kriminalität und Strafbarkeit                                                                                |
@@ -1014,7 +1014,7 @@ Die Qualifizierungsma�Ausbildungsverkürzung“ gliedert sich in
 | Modul 9  | Polizeiliche Informationserhebung und Informationsverwendung sowie Phänomen Cybercrime                                     |
 | Modul 10 | Fachpraxis Bundeskriminalamt                                                                                               |
 
-(2) In den Modulen 1 bis 4 und 6 bis 9 werden fachtheoretische polizeispezifische Kenntnisse vermittelt. Der Inhalt der Module 1 bis 4 und 6 bis 10 richtet sich nach dem Modulhandbuch für die Qualifizierungsma�Ausbildungsverkürzung“ in der Fassung, die bei Beginn der Qualifizierungsma�Ausbildungsverkürzung“ gilt.
+(2) In den Modulen 1 bis 4 und 6 bis 9 werden fachtheoretische polizeispezifische Kenntnisse vermittelt. Der Inhalt der Module 1 bis 4 und 6 bis 10 richtet sich nach dem Modulhandbuch für die QualifizierungsmaAusbildungsverkürzung“ in der Fassung, die bei Beginn der QualifizierungsmaAusbildungsverkürzung“ gilt.
 (3) In den Modulen 5 und 10 werden berufspraktische polizeispezifische Fähigkeiten und Kenntnisse vermittelt.
 (4) Das Modul 5 wird in mehreren Phasen durchgeführt.
 (5) Für jede dieser Phasen erstellen die Vorgesetzten eine dienstliche Beurteilung der Teilnehmerin oder des Teilnehmers.
@@ -1027,13 +1027,13 @@ Die Qualifizierungsma�Ausbildungsverkürzung“ gliedert sich in
 § 100 - Durchführung und Inhalt der polizeispezifischen Trainings
 
 (1) Die polizeispezifischen Trainings werden modulbegleitend durchgeführt.
-(2) Die Teilnehmerinnen und Teilnehmer müssen in der Qualifizierungsma�Ausbildungsverkürzung“ drei polizeispezifische Trainings absolvieren, nämlich
+(2) Die Teilnehmerinnen und Teilnehmer müssen in der QualifizierungsmaAusbildungsverkürzung“ drei polizeispezifische Trainings absolvieren, nämlich
 
-- 1. :: �Polizeiliches Situations- und Einsatztraining“,
+- 1. :: Polizeiliches Situations- und Einsatztraining“,
 - 2. :: Dienstkunde und
-- 3. :: �Polizeirelevantes Englisch“.
+- 3. :: Polizeirelevantes Englisch“.
 
-(3) Die Inhalte der beiden polizeispezifischen Trainings richten sich nach dem Modulhandbuch �Ausbildungsverkürzung im Bundeskriminalamt“.
+(3) Die Inhalte der beiden polizeispezifischen Trainings richten sich nach dem Modulhandbuch Ausbildungsverkürzung im Bundeskriminalamt“.
 
 § 101 - Praktische Prüfungen
 
@@ -1044,8 +1044,8 @@ Die Qualifizierungsma�Ausbildungsverkürzung“ gliedert sich in
 - 2. :: die Kontrollübung Schießen.
 
 (3) Die beiden Prüfungen müssen bis zum Abschluss des Moduls 9 durchgeführt sein.
-(4) Die Prüfungen werden jeweils nur mit �bestanden“ oder �nicht bestanden“ bewertet. Das Nähere regelt das Modulhandbuch �Ausbildungsverkürzung im Bundeskriminalamt“.
-(5) Wer eine Prüfung nicht bestanden hat, kann sie wiederholen. Bei jeder der beiden Prüfungen sind zwei Wiederholungen zulässig. Für die Person, die eine dieser Prüfungen endgültig nicht bestanden hat, ist die Qualifizierungsma�Ausbildungsverkürzung“ beendet.
+(4) Die Prüfungen werden jeweils nur mit bestanden“ oder nicht bestanden“ bewertet. Das Nähere regelt das Modulhandbuch Ausbildungsverkürzung im Bundeskriminalamt“.
+(5) Wer eine Prüfung nicht bestanden hat, kann sie wiederholen. Bei jeder der beiden Prüfungen sind zwei Wiederholungen zulässig. Für die Person, die eine dieser Prüfungen endgültig nicht bestanden hat, ist die QualifizierungsmaAusbildungsverkürzung“ beendet.
 (6) Für die Teilnehmerin oder den Teilnehmer, die oder der die beiden Prüfungen bestanden hat, erstellt das Prüfungsamt beim Bundeskriminalamt einen qualifizierten Teilnahmenachweis. Mit ihm wird die regelmäßige Teilnahme an den polizeispezifischen Trainings und das Bestehen der beiden Prüfungen bescheinigt.
 
 § 102 - Prüfungsamt
@@ -1056,7 +1056,7 @@ Die Qualifizierungsma�Ausbildungsverkürzung“ gliedert sich in
 
 § 103 - Module mit Modulprüfungen
 
-In jedem der Module 1 bis 4 und 6 bis 9 hat die Teilnehmerin oder der Teilnehmer der Qualifizierungsma�Ausbildungsverkürzung“ eine Modulprüfung abzulegen.
+In jedem der Module 1 bis 4 und 6 bis 9 hat die Teilnehmerin oder der Teilnehmer der QualifizierungsmaAusbildungsverkürzung“ eine Modulprüfung abzulegen.
 
 § 104 - Zeitpunkt der Modulprüfungen
 
@@ -1089,7 +1089,7 @@ Eine Modulprüfung ist bestanden, wenn sie mit mindestens fünf Rangpunkten bewe
 
 (1) Wer eine Modulprüfung nicht bestanden hat, kann sie einmal wiederholen. Ist auch die Wiederholung nicht bestanden worden, so ist in insgesamt höchstens zwei Modulen jeweils eine weitere Wiederholungsprüfung zulässig.
 (2) Bei der Wiederholung wird jede Klausur von zwei Prüfenden bewertet.
-(3) Für die Person, die eine Modulprüfung endgültig nicht bestanden hat, ist die Qualifizierungsma�Ausbildungsverkürzung“ beendet.
+(3) Für die Person, die eine Modulprüfung endgültig nicht bestanden hat, ist die QualifizierungsmaAusbildungsverkürzung“ beendet.
 
 § 110 - Prüfungsamt
 
@@ -1144,15 +1144,15 @@ Die mündliche Abschlussprüfung ist bestanden, wenn sie mit mindestens fünf Ra
 § 119 - Wiederholung der mündlichen Abschlussprüfung
 
 (1) Wer die mündliche Abschlussprüfung nicht bestanden hat, kann sie einmal wiederholen.
-(2) Für die Person, die die mündliche Abschlussprüfung endgültig nicht bestanden hat, ist die Qualifizierungsma�Ausbildungsverkürzung“ beendet.
+(2) Für die Person, die die mündliche Abschlussprüfung endgültig nicht bestanden hat, ist die QualifizierungsmaAusbildungsverkürzung“ beendet.
 
 § 120 - Erfolgreiche Teilnahme an der Qualifizierungsmaßnahme
 
-An der Qualifizierungsma�Ausbildungsverkürzung“ hat erfolgreich teilgenommen, wer die mündliche Abschlussprüfung bestanden hat.
+An der QualifizierungsmaAusbildungsverkürzung“ hat erfolgreich teilgenommen, wer die mündliche Abschlussprüfung bestanden hat.
 
 § 121 - Rangpunktzahl der Qualifizierungsmaßnahme und Gesamtnote
 
-(1) Für jede Person, die erfolgreich an der Qualifizierungsma�Ausbildungsverkürzung“ teilgenommen hat, berechnet das Prüfungsamt beim Bundeskriminalamt die Rangpunktzahl der Qualifizierungsmaßnahme und setzt die Gesamtnote fest.
+(1) Für jede Person, die erfolgreich an der QualifizierungsmaAusbildungsverkürzung“ teilgenommen hat, berechnet das Prüfungsamt beim Bundeskriminalamt die Rangpunktzahl der Qualifizierungsmaßnahme und setzt die Gesamtnote fest.
 (2) In die Berechnung gehen ein
 
 - 1. :: die Bewertung von jeder der acht Modulprüfungen mit 10 Prozent und
@@ -1163,18 +1163,18 @@ An der Qualifizierungsma�Ausbildungsverkürzung“ hat erfolgreich teilgenommen,
 
 § 122 - Abschlusszeugnis
 
-(1) Jeder Person, die erfolgreich an der Qualifizierungsma�Ausbildungsverkürzung“ teilgenommen hat, stellt das Prüfungsamt ein Abschlusszeugnis aus.
+(1) Jeder Person, die erfolgreich an der QualifizierungsmaAusbildungsverkürzung“ teilgenommen hat, stellt das Prüfungsamt ein Abschlusszeugnis aus.
 (2) Das Abschlusszeugnis enthält
 
-- 1. :: die Feststellung, dass die Person erfolgreich an der Qualifizierungsma�Ausbildungsverkürzung“ teilgenommen hat und die Befähigung für den gehobenen Kriminaldienst des Bundes erlangt hat,
+- 1. :: die Feststellung, dass die Person erfolgreich an der QualifizierungsmaAusbildungsverkürzung“ teilgenommen hat und die Befähigung für den gehobenen Kriminaldienst des Bundes erlangt hat,
 - 2. :: die Rangpunkte für jede Modulprüfung,
 - 3. :: die Rangpunkte für die mündliche Abschlussprüfung sowie
-- 4. :: die Rangpunktzahl der Qualifizierungsma�Ausbildungsverkürzung“ und die Gesamtnote.
+- 4. :: die Rangpunktzahl der QualifizierungsmaAusbildungsverkürzung“ und die Gesamtnote.
 
 
 § 123 - Bescheid bei endgültigem Nichtbestehen
 
-(1) Jeder Person, die in der Qualifizierungsma�Ausbildungsverkürzung“ eine Modulprüfung, eine Prüfung im polizeispezifischen Training oder die mündliche Abschlussprüfung endgültig nicht bestanden hat, stellt das Prüfungsamt einen Bescheid über die bis dahin erbrachten Leistungen aus.
+(1) Jeder Person, die in der QualifizierungsmaAusbildungsverkürzung“ eine Modulprüfung, eine Prüfung im polizeispezifischen Training oder die mündliche Abschlussprüfung endgültig nicht bestanden hat, stellt das Prüfungsamt einen Bescheid über die bis dahin erbrachten Leistungen aus.
 (2) In dem Bescheid über die erbrachten Studienleistungen sind anzugeben:
 
 - 1. :: die absolvierten Module mit ihrem Namen,
@@ -1184,7 +1184,7 @@ An der Qualifizierungsma�Ausbildungsverkürzung“ hat erfolgreich teilgenommen,
 
 § 124 - Prüfungsakten und Einsichtnahme
 
-(1) Zu jeder Teilnehmerin und jedem Teilnehmer der kriminalpolizeilichen Qualifizierung �Ausbildungsverkürzung“ führt das Prüfungsamt beim Bundeskriminalamt eine Prüfungsakte.
+(1) Zu jeder Teilnehmerin und jedem Teilnehmer der kriminalpolizeilichen Qualifizierung Ausbildungsverkürzung“ führt das Prüfungsamt beim Bundeskriminalamt eine Prüfungsakte.
 (2) In die Prüfungsakte aufzunehmen sind:
 
 - 1. :: die Klausuren der Modulprüfungen,
@@ -1192,7 +1192,7 @@ An der Qualifizierungsma�Ausbildungsverkürzung“ hat erfolgreich teilgenommen,
 - 3. :: eine Ausfertigung des Abschlusszeugnisses oder des Bescheids bei endgültigem Nichtbestehen.
 
 (3) Die Prüfungsakten sind beim Prüfungsamt beim Bundeskriminalamt mindestens fünf Jahre und höchstens zehn Jahre aufzubewahren.
-(4) Die Betroffenen können nach Beendigung der Qualifizierungsma�Ausbildungsverkürzung“ Einsicht in ihre Prüfungsakte nehmen.
+(4) Die Betroffenen können nach Beendigung der QualifizierungsmaAusbildungsverkürzung“ Einsicht in ihre Prüfungsakte nehmen.
 
 § 125 - Verhinderung bei einer Prüfung oder einem Prüfungsteil
 
@@ -1210,10 +1210,10 @@ An der Qualifizierungsma�Ausbildungsverkürzung“ hat erfolgreich teilgenommen,
 - 1. :: im Studium
   - a) :: bei den Modulprüfungen das Prüfungsamt und
   - b) :: bei der Verteidigung der Bachelorarbeit die Prüfungskommission und
-- 2. :: in der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich �Cyberkriminalität“
+- 2. :: in der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich Cyberkriminalität“
   - a) :: bei den Modulprüfungen das Prüfungsamt und
   - b) :: bei der mündlichen Abschlussprüfung die Prüfungskommission und
-- 3. :: in der Qualifizierungsma�Ausbildungsverkürzung“
+- 3. :: in der QualifizierungsmaAusbildungsverkürzung“
   - a) :: bei den Modulprüfungen das Prüfungsamt und
   - b) :: bei der mündlichen Abschlussprüfung die Prüfungskommission.
 
@@ -1227,7 +1227,7 @@ An der Qualifizierungsma�Ausbildungsverkürzung“ hat erfolgreich teilgenommen,
 (5) Wird eine Täuschung erst nach Abschluss des Vorbereitungsdienstes festgestellt, so kann das zuständige Prüfungsamt
 
 - 1. :: beim Studium die Laufbahnprüfung innerhalb von fünf Jahren nach dem Tag der Verteidigung der Bachelorarbeit für nicht bestanden erklären und
-- 2. :: bei der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich �Cyberkriminalität“ den erfolgreichen Abschluss der kriminalpolizeifachlichen Qualifizierung innerhalb von fünf Jahren nach dem Tag der mündlichen Abschlussprüfung zurücknehmen und
-- 3. :: bei der Qualifizierungsma�Ausbildungsverkürzung“ den erfolgreichen Abschluss der Qualifizierungsmaßnahme innerhalb von fünf Jahren nach dem Tag der mündlichen Abschlussprüfung zurücknehmen.
+- 2. :: bei der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich Cyberkriminalität“ den erfolgreichen Abschluss der kriminalpolizeifachlichen Qualifizierung innerhalb von fünf Jahren nach dem Tag der mündlichen Abschlussprüfung zurücknehmen und
+- 3. :: bei der QualifizierungsmaAusbildungsverkürzung“ den erfolgreichen Abschluss der Qualifizierungsmaßnahme innerhalb von fünf Jahren nach dem Tag der mündlichen Abschlussprüfung zurücknehmen.
 
 (6) Die Betroffenen sind vor einer Entscheidung nach den Absätzen 2 bis 5 anzuhören.

@@ -219,7 +219,7 @@ Grabtechnische Arbeiten
 
 16
 
-�
+
 
 Versorgung von Verstorbenen
 
@@ -229,7 +229,7 @@ Versorgung von Verstorbenen
 - g) :: Verstorbene unter Berücksichtigung rechtlicher und hygienischer Vorgaben aufbewahren
 - h) :: Verstorbene unter Berücksichtigung trauerpsychologischer, religiöser und weltanschaulicher Aspekte aufbahren
 
-�
+
 
 14
 
@@ -239,7 +239,7 @@ Vorbereiten, Organisieren und Durchführen von Bestattungen
 - j) :: bei der Erdbestattung unter Berücksichtigung der Bestattungsart mitwirken
 - k) :: Möglichkeiten der Feuerbestattung beschreiben, Urnenbeisetzungen durchführen
 
-�
+
 
 14
 
@@ -256,7 +256,7 @@ Bearbeiten von Bestattungsaufträgen\\
 - f) :: Finanzierungsmodalitäten des Bestattungsauftrages prüfen
 - g) :: über Möglichkeiten der organisatorischen und psychologischen Betreuung und Hilfeleistung nach der Bestattung informieren
 
-�
+
 
 16
 
@@ -270,11 +270,11 @@ Riten und Gebräuche\\
 
 8
 
-�
+
 
 - c) :: Bestattungskulturen und -formen, insbesondere den Angehörigen, erläutern
 
-�
+
 
 4
 
@@ -288,7 +288,7 @@ Berufsbezogene Rechtsvorschriften, Normen und technische Unterlagen\\
 
 12
 
-�
+
 
 5
 
@@ -303,7 +303,7 @@ Be- und Verarbeiten von Werk- und Hilfsstoffen, Durchführen warenkundlicher Arb
 
 8
 
-�
+
 
 6
 
@@ -314,7 +314,7 @@ Psychologische Maßnahmen\\
 - b) :: trauerpsychologische Maßnahmen anwenden und solche Leistungen Dritter vermitteln
 - c) :: Maßnahmen zur psychologischen Verarbeitung beruflicher Eindrücke und Erlebnisse anwenden
 
-�
+
 
 10
 
@@ -327,11 +327,11 @@ Bestattungsvorsorge\\
 - b) :: Angebote über die Bestattungsvorsorge unterbreiten
 - c) :: Finanzierungsmöglichkeiten der Bestattungsvorsorge erläutern
 
-�
+
 
 6
 
-�
+
 
 Abschnitt B: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
 
@@ -392,7 +392,7 @@ Umgang mit Informations- und Kommunikationstechniken\\
 
 8
 
-�
+
 
 6
 
@@ -429,7 +429,7 @@ Handhaben und Warten von Werkzeugen, Geräten, Maschinen und technischen Einrich
 
 10
 
-�
+
 
 8
 
@@ -444,11 +444,11 @@ Qualitätssichernde Maßnahmen und Kundenorientierung\\
 
 8
 
-�
+
 
 - f) :: Arbeiten von Dritten, insbesondere von beauftragten Firmen, anhand von Vorgaben überwachen und dokumentieren
 - g) :: Mängel feststellen und Maßnahmen zur Mängelbeseitigung veranlassen
 
-�
+
 
 6

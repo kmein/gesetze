@@ -158,11 +158,11 @@ die Wohnbezirke: 1, 11, 12, 26-73,\\
 Berlin - Hellersdorf - Mahrzahn
 Stadtbezirk Hellersdorf\\
 Stadtbezirk Mahrzahn
-†
-†
-†
+
+
+
 Mecklenburg-Vorpommern
-†
+
 262
 Wismar - Gadebusch - Grevesm√ºhlen - Doberan - B√ºtzow
 Stadtkreis Wismar\\
@@ -218,11 +218,11 @@ Landkreis Ueckerm√ºnde\\
 Landkreis Pasewalk\\
 Landkreis Anklam\\
 Landkreis Strasburg
-†
-†
-†
+
+
+
 Brandenburg
-†
+
 271
 Neuruppin - Kyritz - Wittstock - Pritzwalk - Perleberg
 Landkreis Neuruppin\\
@@ -291,11 +291,11 @@ Landkreis Finsterwalde\\
 Landkreis Herzberg\\
 Landkreis L√ºbben\\
 Landkreis Luckau
-†
-†
-†
+
+
+
 Sachsen-Anhalt
-†
+
 283
 Altmark
 Landkreis Stendal\\
@@ -394,11 +394,11 @@ Sangerhausen - Hettstedt - Quedlinburg
 Landkreis Sangerhausen\\
 Landkreis Quedlinburg\\
 Landkreis Hettstedt
-†
-†
-†
+
+
+
 Th√ºringen
-†
+
 296
 Nordhausen - Worbis - Heiligenstadt
 Landkreis Nordhausen\\
@@ -488,11 +488,11 @@ Landkreis Suhl\\
 Landkreis Schmalkalden\\
 Landkreis Ilmenau\\
 Landkreis Neuhaus
-†
-†
-†
+
+
+
 Sachsen
-†
+
 308
 Delitzsch - Eilenburg - Torgau - Wurzen
 Landkreis Delitzsch\\

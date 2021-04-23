@@ -36,14 +36,14 @@ verordnet das Bundesministerium für Arbeit und Soziales:
 - 1. :: in der allgemeinen Rentenversicherung jährlich 78 000 Euro und monatlich 6 500 Euro,
 - 2. :: in der knappschaftlichen Rentenversicherung jährlich 96 000 Euro und monatlich 8 000 Euro.
 
-Die Anlage 2 zum Sechsten Buch Sozialgesetzbuch wird für den Zeitraum �1. 1. 2018 -- 31. 12. 2018“ um die Jahresbeträge ergänzt.
+Die Anlage 2 zum Sechsten Buch Sozialgesetzbuch wird für den Zeitraum 1. 1. 2018 -- 31. 12. 2018“ um die Jahresbeträge ergänzt.
 
 (2) Die Beitragsbemessungsgrenzen (Ost) betragen im Jahr 2018
 
 - 1. :: in der allgemeinen Rentenversicherung jährlich 69 600 Euro und monatlich 5 800 Euro,
 - 2. :: in der knappschaftlichen Rentenversicherung jährlich 85 800 Euro und monatlich 7 150 Euro.
 
-Die Anlage 2a zum Sechsten Buch Sozialgesetzbuch wird für den Zeitraum �1. 1. 2018 -- 31. 12. 2018“ um die Jahresbeträge ergänzt.
+Die Anlage 2a zum Sechsten Buch Sozialgesetzbuch wird für den Zeitraum 1. 1. 2018 -- 31. 12. 2018“ um die Jahresbeträge ergänzt.
 
 
 § 4 - Jahresarbeitsentgeltgrenze in der Krankenversicherung
@@ -57,7 +57,7 @@ Die Anlage 10 zum Sechsten Buch Sozialgesetzbuch wird wie folgt ergänzt:
 | Jahr  | Umrechnungswert | vorläufiger\\   |
 |       |                 | Umrechnungswert |
 |-------+-----------------+-----------------|
-| �2016 | 1,1415          |                 |
+| 2016 | 1,1415          |                 |
 | 2018  |                 | 1,1248”.        |
 
 

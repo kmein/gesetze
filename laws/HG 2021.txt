@@ -7,8 +7,8 @@ Ausfertigungsdatum: 21.12.2020
 § 1 - Feststellung des Haushaltsplans
 
 (1) Der diesem Gesetz als Anlage beigefügte Bundeshaushaltsplan für das Haushaltsjahr 2021 wird in Einnahmen und Ausgaben auf 498 620 000 000 Euro festgestellt.
-(2) Der dem Kapitel 6002 des Bundeshaushalts für das Haushaltsjahr 2021 als Anlage 2 beigefügte Wirtschaftsplan des Sondervermögens �Digitale Infrastruktur“ wird für das Jahr 2021 in Einnahmen und Ausgaben auf 4 194 108 000 Euro und mit den ausgebrachten Vermerken festgestellt.
-(3) Der dem Kapitel 6002 des Bundeshaushalts für das Haushaltsjahr 2021 als Anlage 3 beigefügte Wirtschaftsplan des Sondervermögens �Energie- und Klimafonds“ wird für das Jahr 2021 in Einnahmen und Ausgaben auf 42 694 600 000 Euro festgestellt.
+(2) Der dem Kapitel 6002 des Bundeshaushalts für das Haushaltsjahr 2021 als Anlage 2 beigefügte Wirtschaftsplan des Sondervermögens Digitale Infrastruktur“ wird für das Jahr 2021 in Einnahmen und Ausgaben auf 4 194 108 000 Euro und mit den ausgebrachten Vermerken festgestellt.
+(3) Der dem Kapitel 6002 des Bundeshaushalts für das Haushaltsjahr 2021 als Anlage 3 beigefügte Wirtschaftsplan des Sondervermögens Energie- und Klimafonds“ wird für das Jahr 2021 in Einnahmen und Ausgaben auf 42 694 600 000 Euro festgestellt.
 
 § 2 - Kreditermächtigungen
 
@@ -111,7 +111,7 @@ Ausgaben anderer als der in den Nummern 1 bis 5 aufgeführten Titel, die durch H
 (8) Das Aufkommen an Mineralölsteuer, das nach Artikel 1 des Straßenbaufinanzierungsgesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 912-3, veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 19 des Gesetzes vom 14. August 2017 (BGBl. I S. 3122) geändert worden ist, und nach Artikel 3 des Verkehrsfinanzgesetzes 1971 vom 28. Februar 1972 (BGBl. I S. 201), das zuletzt durch Artikel 99 des Gesetzes vom 8. Dezember 2010 (BGBl. I S. 1864) geändert worden ist, für Zwecke des Straßenwesens gebunden ist, ist auch für sonstige verkehrspolitische Zwecke im Bereich des Bundesministeriums für Verkehr und digitale Infrastruktur zu verwenden.
 (9) Die Erhebung von Mehreinnahmen bei Kapitel 6002 Titel 359 01 bedarf der Einwilligung des Haushaltsausschusses des Deutschen Bundestages.
 (10) Innerhalb eines Kapitels dürfen für interne Verrechnungen nach § 61 der Bundeshaushaltsordnung bei Titel 981 .3 Mehrausgaben bis zur Höhe der Einsparungen geleistet und Ausgabetitel bis zur Höhe der Einnahmen bei Titel 381 .3 verstärkt werden. Das Bundesministerium der Finanzen wird ermächtigt, diese Titel auszubringen.
-(11) § 20 Absatz 1 der Bundeshaushaltsordnung findet auf die Festtitel 428 .2 �Entgelte für Wissenschaftlerinnen und Wissenschaftler“ keine Anwendung.
+(11) § 20 Absatz 1 der Bundeshaushaltsordnung findet auf die Festtitel 428 .2 Entgelte für Wissenschaftlerinnen und Wissenschaftler“ keine Anwendung.
 
 § 7 - Überlassung und Veräußerung von Vermögensgegenständen sowie Verzicht auf Auslagenerstattung
 
@@ -228,7 +228,7 @@ Die obersten Bundesbehörden werden ermächtigt, Planstellen in gleichwertige St
 § 20 - Sonderregelungen
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt zuzulassen, dass von einem kw-Vermerk mit Datumsangabe abgewichen wird, wenn die Planstelle oder Stelle weiter benötigt wird, weil sie nicht rechtzeitig frei wird. In diesem Fall fällt die nächste freiwerdende Planstelle oder Stelle der betreffenden Besoldungs- oder Entgeltgruppe weg.
-(2) Die obersten Bundesbehörden werden ermächtigt, Planstellen und Stellen, die einen kw-Vermerk tragen, nach ihrem Freiwerden mit schwerbehinderten Menschen wiederzubesetzen, wenn es sich um eine Neueinstellung oder eine beamtenrechtliche Anstellung handelt und eine nach den §§ 154 bis 159 des Neunten Buches Sozialgesetzbuch berechnete Beschäftigungsquote schwerbehinderter Menschen von 6 Prozent bei den Planstellen und Stellen des Einzelplans nicht erreicht ist. Mit Ausscheiden des schwerbehinderten Menschen aus der Planstelle oder Stelle fällt diese weg. Sie bleibt ausnahmsweise erhalten, wenn die Beschäftigungsquote nach Satz 1 zu diesem Zeitpunkt noch nicht erreicht ist und die Planstelle oder Stelle wieder mit einem schwerbehinderten Menschen besetzt wird. Die Sätze 1 bis 3 gelten nicht, wenn die Planstelle oder Stelle den Vermerk �kw mit Wegfall der Aufgabe“ trägt, sowie für Ersatzplanstellen und Ersatzstellen, die nach § 17 oder auf Grund der entsprechenden Regelungen früherer Haushaltsgesetze ausgebracht wurden oder als ausgebracht gelten.
+(2) Die obersten Bundesbehörden werden ermächtigt, Planstellen und Stellen, die einen kw-Vermerk tragen, nach ihrem Freiwerden mit schwerbehinderten Menschen wiederzubesetzen, wenn es sich um eine Neueinstellung oder eine beamtenrechtliche Anstellung handelt und eine nach den §§ 154 bis 159 des Neunten Buches Sozialgesetzbuch berechnete Beschäftigungsquote schwerbehinderter Menschen von 6 Prozent bei den Planstellen und Stellen des Einzelplans nicht erreicht ist. Mit Ausscheiden des schwerbehinderten Menschen aus der Planstelle oder Stelle fällt diese weg. Sie bleibt ausnahmsweise erhalten, wenn die Beschäftigungsquote nach Satz 1 zu diesem Zeitpunkt noch nicht erreicht ist und die Planstelle oder Stelle wieder mit einem schwerbehinderten Menschen besetzt wird. Die Sätze 1 bis 3 gelten nicht, wenn die Planstelle oder Stelle den Vermerk kw mit Wegfall der Aufgabe“ trägt, sowie für Ersatzplanstellen und Ersatzstellen, die nach § 17 oder auf Grund der entsprechenden Regelungen früherer Haushaltsgesetze ausgebracht wurden oder als ausgebracht gelten.
 (3) Behörden, für die Planstellen und Stellen im Haushaltsplan beschlossen werden, dürfen Arbeitsverträge, die nach dem Teilzeit- und Befristungsgesetz vom 21. Dezember 2000 (BGBl. I S. 1966), das zuletzt durch Artikel 10 des Gesetzes vom 22. November 2019 (BGBl. I S. 1746) geändert worden ist, ohne Vorliegen eines sachlichen Grundes kalendermäßig befristet sind, nicht abschließen, wenn die Anzahl der nach dem Teilzeit- und Befristungsgesetz sachgrundlos befristeten Arbeitsverträge damit 2,5 Prozent ihres Stellensolls im jeweiligen Kapitel übersteigen würde. Das Bundesministerium der Finanzen wird ermächtigt, bei Vorliegen zwingender Gründe Ausnahmen zuzulassen. Ein zwingender Grund liegt insbesondere vor, wenn der Stellenaufbau zur Beendigung sachgrundlos befristeter Beschäftigungsverhältnisse noch nicht abgeschlossen ist.
 
 § 21 - Überhangpersonal
@@ -237,7 +237,7 @@ Freie Planstellen und Stellen sind vorrangig mit Bediensteten zu besetzen, die b
 
 § 22 - Stundung von Ansprüchen
 
-§ 59 Absatz 1 Satz 1 Nummer 1 der Bundeshaushaltsordnung findet im Haushaltsjahr 2021 mit der Ma�und der Anspruch durch die Stundung nicht gefährdet wird“ gestrichen werden.
+§ 59 Absatz 1 Satz 1 Nummer 1 der Bundeshaushaltsordnung findet im Haushaltsjahr 2021 mit der Maund der Anspruch durch die Stundung nicht gefährdet wird“ gestrichen werden.
 
 § 23 - Fortgeltung
 
@@ -250,45 +250,45 @@ Dieses Gesetz tritt am 1. Januar 2021 in Kraft.
 Anlage - Gesamtplan des Bundeshaushaltsplans 2021
 
 (Fundstelle: BGBl. I 2020, 3217 - 3228)
-�
-�
-�
-�
+
+
+
+
 - Zu Spalte 3: :: Darin enthalten sind\\
   -- Steuereinnahmen in Höhe von 292 794 000 T€,\\
   -- Einnahmen aus Krediten in Höhe von 179 820 000 T€ sowie\\
   -- sonstige Einnahmen in Höhe von 26 006 000 T€.
 
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - Datengrundlage: :: Statistisches Bundesamt und gesamtwirtschaftliche Vorausschätzungen der Bundesregierung.
 - Zu 9.: :: Der Mittelabfluss der einzelnen Sondervermögen basiert auf vorsichtigen Schätzungen.
 
 Differenzen durch Rundung möglich.
-�
-�
-�
-�
-�
-�
-�
+
+
+
+
+
+
+

@@ -120,7 +120,7 @@ Anlage - Kategorisierung, Buchführung und Transportmeldung radioaktiver Abfäll
 Radioaktive Abfälle mit vernachlässigbarer Wärmeentwicklung werden nach ihrem Verarbeitungszustand in die folgenden Kategorien eingeteilt:
 Tabelle 1\\
 Kategorien
-�
+
 - 1. :: Kennung für elektronische Buchführungssysteme
   \\
   Jeder angefallene radioaktive Abfall, der als deklarierbare Einheit gekennzeichnet werden kann und keiner betrieblichen Änderung mehr unterzogen wird, ist zu erfassen und in der Dokumentation mit einer eindeutigen Kennung je Behälter oder Einheit zu versehen. Die Kennung hat aus einer Buchstaben- und Zahlenkombination zu bestehen, aufgeteilt wie folgt:\\
@@ -133,7 +133,7 @@ Kategorien
   Dabei gilt folgende Codierung:\\
   \\
   | AA     | Die beiden ersten Stellen (AA) bezeichnen in codierter Form den Erfasser der Daten.                                                                                                                                                                                              |
-  |        | Für die Erfassung durch den Verursacher ist der Code �_E“ zu verwenden. Codes für andere Erfasser werden auf Anfrage vom Dritten nach § 9a Absatz 3 Satz 2 zweiter Halbsatz des Atomgesetzes festgelegt, bei Bedarf aktualisiert und an zentraler Stelle zur Verfügung gestellt. |
+  |        | Für die Erfassung durch den Verursacher ist der Code _E“ zu verwenden. Codes für andere Erfasser werden auf Anfrage vom Dritten nach § 9a Absatz 3 Satz 2 zweiter Halbsatz des Atomgesetzes festgelegt, bei Bedarf aktualisiert und an zentraler Stelle zur Verfügung gestellt. |
   | BBB    | Die Stellen drei bis fünf (BBB) stehen für den Ablieferungspflichtigen/Abführungspflichtigen des Abfalls (Verursacherkürzel).                                                                                                                                                    |
   |        | Das Verursacherkürzel wird vom Dritten nach § 9a Absatz 3 Satz 2 zweiter Halbsatz des Atomgesetzes in einer Kürzelliste festgelegt, bei Bedarf aktualisiert und an zentraler Stelle zur Verfügung gestellt.                                                                      |
   | CCCC   | Die Stellen sechs bis neun (CCCC) sind Ziffern und bezeichnen das Jahr, in dem der Abfall erfasst wird.                                                                                                                                                                          |

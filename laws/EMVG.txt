@@ -6,15 +6,15 @@ Ausfertigungsdatum: 14.12.2016
 
 Inhaltsübersicht
 
-�
-�
-�
-�
-�
-�
-�
-�
-�
+
+
+
+
+
+
+
+
+
 
 § 1 - Anwendungsbereich
 
@@ -43,41 +43,41 @@ Inhaltsübersicht
 
 Im Sinne dieses Gesetzes
 
-- 1. :: sind �Betriebsmittel“ Geräte und ortsfeste Anlagen;
-- 2. :: ist �Gerät“
+- 1. :: sind Betriebsmittel“ Geräte und ortsfeste Anlagen;
+- 2. :: ist Gerät“
   - a) :: ein für den Endnutzer bestimmtes fertiges Produkt mit einer eigenständigen Funktion, das elektromagnetische Störungen verursachen kann oder dessen Betrieb durch elektromagnetische Störungen beeinträchtigt werden kann,
   - b) :: eine Verbindung von Produkten nach Buchstabe a, die als Funktionseinheit auf dem Markt bereitgestellt werden,
   - c) :: ein Bauteil, das dazu bestimmt ist, vom Endnutzer in ein Gerät eingebaut zu werden und das elektromagnetische Störungen verursachen kann oder dessen Betrieb durch elektromagnetische Störungen beeinträchtigt werden kann,
   - d) :: eine Baugruppe, die aus Bauteilen nach Buchstabe c besteht,
   - e) :: ein serienmäßig vorbereiteter Baukasten, der nach der Montage eine eigenständige Funktion erfüllt und elektromagnetische Störungen verursachen kann, oder
   - f) :: eine bewegliche Anlage; bewegliche Anlage ist eine Verbindung von Geräten oder anderen Einrichtungen zu dem Zweck, an verschiedenen Orten betrieben zu werden;
-- 3. :: ist �ortsfeste Anlage“ eine besondere Verbindung von Geräten oder anderen Einrichtungen zu dem Zweck, auf Dauer an einem vorbestimmten Ort installiert und betrieben zu werden;
-- 4. :: ist �elektromagnetische Verträglichkeit“ die Fähigkeit eines Betriebsmittels, in seiner elektromagnetischen Umgebung zufriedenstellend zu arbeiten, ohne elektromagnetische Störungen zu verursachen, die für andere in dieser Umgebung vorhandene Betriebsmittel unannehmbar wären;
-- 5. :: ist �elektromagnetische Störung“ jede elektromagnetische Erscheinung, die die Funktion eines Betriebsmittels beeinträchtigen könnte; eine elektromagnetische Störung kann ein elektromagnetisches Rauschen, ein unerwünschtes Signal oder eine Veränderung des Ausbreitungsmediums selbst sein;
-- 6. :: ist �Störfestigkeit“ die Fähigkeit eines Betriebsmittels, unter Einfluss einer elektromagnetischen Störung ohne Funktionsbeeinträchtigung zu arbeiten;
-- 7. :: ist �elektromagnetische Umgebung“ die Summe aller elektromagnetischen Erscheinungen, die an einem bestimmten Ort festgestellt werden kann;
-- 8. :: sind �Sicherheitszwecke“ Zwecke zum Schutz des menschlichen Lebens oder von Gütern;
-- 9. :: ist �Bereitstellen auf dem Markt“ jede entgeltliche oder unentgeltliche Abgabe eines Geräts zum Vertrieb, zum Verbrauch oder zur Verwendung auf dem Markt der Europäischen Union im Rahmen einer Geschäftstätigkeit;
-- 10. :: ist �Inverkehrbringen“ das erstmalige Bereitstellen eines Gerätes auf dem Markt;
-- 11. :: ist �Hersteller“ jede natürliche oder juristische Person oder rechtsfähige Personengesellschaft, die ein Gerät herstellt, entwickeln oder herstellen lässt und dieses Gerät unter ihrem eigenen Namen oder ihrer eigenen Handelsmarke vermarktet;
-- 12. :: ist �Bevollmächtigter“ jede in der Europäischen Union ansässige natürliche oder juristische Person oder rechtsfähige Personengesellschaft, die ein Hersteller schriftlich beauftragt hat, in seinem Namen bestimmte Aufgaben wahrzunehmen;
-- 13. :: ist �Einführer“ jede in der Europäischen Union ansässige natürliche oder juristische Person oder rechtsfähige Personengesellschaft, die ein Gerät aus einem Drittstaat auf dem Markt in Verkehr bringt;
-- 14. :: ist �Händler“ jede natürliche oder juristische Person oder rechtsfähige Personengesellschaft in der Lieferkette, die ein Gerät auf dem Markt bereitstellt, mit Ausnahme des Herstellers oder des Einführers;
-- 15. :: sind �Wirtschaftsakteure“ der Hersteller, der Bevollmächtigte, der Einführer und der Händler;
-- 16. :: ist �Senderbetreiber“ derjenige, dem Frequenzen zum Betreiben von Sendefunkgeräten oder Funknetzen zugeteilt sind;
-- 17. :: ist �technische Spezifikation“ ein Dokument, in dem die technischen Anforderungen vorgeschrieben sind, denen ein Betriebsmittel genügen muss;
-- 18. :: ist �harmonisierte Norm“ eine Norm gemäß Artikel 2 Absatz 1 Buchstabe c der Verordnung (EU) Nr. 1025/2012 des Europäischen Parlaments und des Rates vom 25. Oktober 2012 zur europäischen Normung, zur Änderung der Richtlinien 89/686/EWG und 93/15/EWG des Rates sowie der Richtlinien 94/9/EG, 94/25/EG, 95/16/EG, 97/23/EG, 98/34/EG, 2004/22/EG, 2007/23/EG, 2009/23/EG und 2009/105/EG des Europäischen Parlaments und des Rates und zur Aufhebung des Beschlusses 87/95/EWG des Rates und des Beschlusses Nr. 1673/2006/EG des Europäischen Parlaments und des Rates (ABl. L 316 vom 14.11.2012, S. 12);
-- 19. :: ist �Akkreditierung“ die Bestätigung durch eine nationale Akkreditierungsstelle, dass eine Konformitätsbewertungsstelle die in harmonisierten Normen festgelegten Anforderungen und gegebenenfalls national festgelegte zusätzliche Anforderungen, einschließlich solcher in relevanten sektoralen Akkreditierungssystemen, erfüllt, um eine spezielle Konformitätsbewertungstätigkeit durchzuführen;
-- 20. :: ist �Konformitätsbewertung“ das Verfahren zur Bewertung, ob ein Gerät die Anforderungen des § 4 erfüllt;
-- 21. :: ist �notifizierte Stelle“ eine Stelle, die Konformitätsbewertungstätigkeiten, einschließlich Kalibrierungen, Prüfungen, Zertifizierungen und Inspektionen, durchführt und nach § 21 notifiziert ist;
-- 22. :: ist �Rückruf“ jede Maßnahme, die darauf abzielt, die Rückgabe eines dem Endnutzer bereitgestellten Gerätes zu erwirken;
-- 23. :: ist �Rücknahme“ jede Maßnahme, mit der verhindert werden soll, dass ein Gerät, das sich in der Lieferkette befindet, auf dem Markt bereitgestellt wird;
-- 24. :: ist �CE-Kennzeichnung“ die Kennzeichnung, durch die der Hersteller erklärt, dass das Gerät den Anforderungen genügt, die in den Harmonisierungsrechtsvorschriften der Europäischen Union, die ihre Anbringung vorschreiben, festgelegt sind;
-- 25. :: ist �EU-Konformitätserklärung“ eine Erklärung gemäß Artikel 15 der Richtlinie 2014/30/EU;
-- 26. :: sind �Harmonisierungsvorschriften der Europäischen Union“ Rechtsvorschriften der Europäischen Union zur Harmonisierung der Bedingungen für die Vermarktung von Produkten;
-- 27. :: ist �Bundesnetzagentur“ die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen;
-- 28. :: ist �Stand der Technik“ der allgemein anerkannte Stand der Technik in Bezug auf die elektromagnetische Verträglichkeit entsprechend den harmonisierten Normen;
-- 29. :: sind �allgemein anerkannte Regeln der Technik“ technische Festlegungen für Verfahren, Einrichtungen und Betriebsweisen, die nach der herrschenden Auffassung der beteiligten Kreise geeignet sind, die elektromagnetische Verträglichkeit zu gewährleisten, und die sich in der Praxis bewährt haben.
+- 3. :: ist ortsfeste Anlage“ eine besondere Verbindung von Geräten oder anderen Einrichtungen zu dem Zweck, auf Dauer an einem vorbestimmten Ort installiert und betrieben zu werden;
+- 4. :: ist elektromagnetische Verträglichkeit“ die Fähigkeit eines Betriebsmittels, in seiner elektromagnetischen Umgebung zufriedenstellend zu arbeiten, ohne elektromagnetische Störungen zu verursachen, die für andere in dieser Umgebung vorhandene Betriebsmittel unannehmbar wären;
+- 5. :: ist elektromagnetische Störung“ jede elektromagnetische Erscheinung, die die Funktion eines Betriebsmittels beeinträchtigen könnte; eine elektromagnetische Störung kann ein elektromagnetisches Rauschen, ein unerwünschtes Signal oder eine Veränderung des Ausbreitungsmediums selbst sein;
+- 6. :: ist Störfestigkeit“ die Fähigkeit eines Betriebsmittels, unter Einfluss einer elektromagnetischen Störung ohne Funktionsbeeinträchtigung zu arbeiten;
+- 7. :: ist elektromagnetische Umgebung“ die Summe aller elektromagnetischen Erscheinungen, die an einem bestimmten Ort festgestellt werden kann;
+- 8. :: sind Sicherheitszwecke“ Zwecke zum Schutz des menschlichen Lebens oder von Gütern;
+- 9. :: ist Bereitstellen auf dem Markt“ jede entgeltliche oder unentgeltliche Abgabe eines Geräts zum Vertrieb, zum Verbrauch oder zur Verwendung auf dem Markt der Europäischen Union im Rahmen einer Geschäftstätigkeit;
+- 10. :: ist Inverkehrbringen“ das erstmalige Bereitstellen eines Gerätes auf dem Markt;
+- 11. :: ist Hersteller“ jede natürliche oder juristische Person oder rechtsfähige Personengesellschaft, die ein Gerät herstellt, entwickeln oder herstellen lässt und dieses Gerät unter ihrem eigenen Namen oder ihrer eigenen Handelsmarke vermarktet;
+- 12. :: ist Bevollmächtigter“ jede in der Europäischen Union ansässige natürliche oder juristische Person oder rechtsfähige Personengesellschaft, die ein Hersteller schriftlich beauftragt hat, in seinem Namen bestimmte Aufgaben wahrzunehmen;
+- 13. :: ist Einführer“ jede in der Europäischen Union ansässige natürliche oder juristische Person oder rechtsfähige Personengesellschaft, die ein Gerät aus einem Drittstaat auf dem Markt in Verkehr bringt;
+- 14. :: ist Händler“ jede natürliche oder juristische Person oder rechtsfähige Personengesellschaft in der Lieferkette, die ein Gerät auf dem Markt bereitstellt, mit Ausnahme des Herstellers oder des Einführers;
+- 15. :: sind Wirtschaftsakteure“ der Hersteller, der Bevollmächtigte, der Einführer und der Händler;
+- 16. :: ist Senderbetreiber“ derjenige, dem Frequenzen zum Betreiben von Sendefunkgeräten oder Funknetzen zugeteilt sind;
+- 17. :: ist technische Spezifikation“ ein Dokument, in dem die technischen Anforderungen vorgeschrieben sind, denen ein Betriebsmittel genügen muss;
+- 18. :: ist harmonisierte Norm“ eine Norm gemäß Artikel 2 Absatz 1 Buchstabe c der Verordnung (EU) Nr. 1025/2012 des Europäischen Parlaments und des Rates vom 25. Oktober 2012 zur europäischen Normung, zur Änderung der Richtlinien 89/686/EWG und 93/15/EWG des Rates sowie der Richtlinien 94/9/EG, 94/25/EG, 95/16/EG, 97/23/EG, 98/34/EG, 2004/22/EG, 2007/23/EG, 2009/23/EG und 2009/105/EG des Europäischen Parlaments und des Rates und zur Aufhebung des Beschlusses 87/95/EWG des Rates und des Beschlusses Nr. 1673/2006/EG des Europäischen Parlaments und des Rates (ABl. L 316 vom 14.11.2012, S. 12);
+- 19. :: ist Akkreditierung“ die Bestätigung durch eine nationale Akkreditierungsstelle, dass eine Konformitätsbewertungsstelle die in harmonisierten Normen festgelegten Anforderungen und gegebenenfalls national festgelegte zusätzliche Anforderungen, einschließlich solcher in relevanten sektoralen Akkreditierungssystemen, erfüllt, um eine spezielle Konformitätsbewertungstätigkeit durchzuführen;
+- 20. :: ist Konformitätsbewertung“ das Verfahren zur Bewertung, ob ein Gerät die Anforderungen des § 4 erfüllt;
+- 21. :: ist notifizierte Stelle“ eine Stelle, die Konformitätsbewertungstätigkeiten, einschließlich Kalibrierungen, Prüfungen, Zertifizierungen und Inspektionen, durchführt und nach § 21 notifiziert ist;
+- 22. :: ist Rückruf“ jede Maßnahme, die darauf abzielt, die Rückgabe eines dem Endnutzer bereitgestellten Gerätes zu erwirken;
+- 23. :: ist Rücknahme“ jede Maßnahme, mit der verhindert werden soll, dass ein Gerät, das sich in der Lieferkette befindet, auf dem Markt bereitgestellt wird;
+- 24. :: ist CE-Kennzeichnung“ die Kennzeichnung, durch die der Hersteller erklärt, dass das Gerät den Anforderungen genügt, die in den Harmonisierungsrechtsvorschriften der Europäischen Union, die ihre Anbringung vorschreiben, festgelegt sind;
+- 25. :: ist EU-Konformitätserklärung“ eine Erklärung gemäß Artikel 15 der Richtlinie 2014/30/EU;
+- 26. :: sind Harmonisierungsvorschriften der Europäischen Union“ Rechtsvorschriften der Europäischen Union zur Harmonisierung der Bedingungen für die Vermarktung von Produkten;
+- 27. :: ist Bundesnetzagentur“ die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen;
+- 28. :: ist Stand der Technik“ der allgemein anerkannte Stand der Technik in Bezug auf die elektromagnetische Verträglichkeit entsprechend den harmonisierten Normen;
+- 29. :: sind allgemein anerkannte Regeln der Technik“ technische Festlegungen für Verfahren, Einrichtungen und Betriebsweisen, die nach der herrschenden Auffassung der beteiligten Kreise geeignet sind, die elektromagnetische Verträglichkeit zu gewährleisten, und die sich in der Praxis bewährt haben.
 
 
 § 4 - Grundlegende Anforderungen an die elektromagnetische Verträglichkeit

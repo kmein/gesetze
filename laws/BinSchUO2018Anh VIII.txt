@@ -6,34 +6,34 @@ Ausfertigungsdatum: 21.09.2018
 
 Inhaltsverzeichnis
 
-�
+
 
 § 1.01 - Begriffsbestimmungen
 
 Im Sinne dieses Anhangs gilt als
 
-- 1. :: �Motor“ ein Motor, der nach dem Prinzip der Kompressionszündung arbeitet (Dieselmotor);
-- 2. :: �Typgenehmigung“ die Entscheidung, mit der die zuständige Behörde bestätigt, dass ein Motortyp, eine Motorenfamilie oder eine Motorengruppe hinsichtlich des Niveaus der Emission von gasförmigen Schadstoffen und luftverunreinigenden Partikeln aus dem Motor (den Motoren) den technischen Anforderungen dieses Anhangs genügt;
-- 3. :: �Einbauprüfung“ das Verfahren, durch das die zuständige Behörde sicherstellt, dass der in ein Fahrzeug eingebaute Motor auch nach etwaigen seit der Erteilung der Typgenehmigung vorgenommener Änderungen und/oder Einstellungen hinsichtlich des Niveaus der Emission von gasförmigen Schadstoffen und luftverunreinigenden Partikeln den technischen Anforderungen dieses Anhangs genügt;
-- 4. :: �Zwischenprüfung“ das Verfahren, durch das die zuständige Behörde sicherstellt, dass der in einem Fahrzeug betriebene Motor auch nach etwaigen seit der Einbauprüfung vorgenommenen Änderungen und/oder Einstellungen hinsichtlich des Niveaus der Emission von gasförmigen Schadstoffen und luftverunreinigenden Partikeln den technischen Anforderungen dieses Anhangs genügt;
-- 5. :: �Sonderprüfung“ das Verfahren, durch das die zuständige Behörde sicherstellt, dass der in einem Fahrzeug betriebene Motor auch nach jeder wesentlichen Änderung hinsichtlich des Niveaus der Emission von gasförmigen Schadstoffen und luftverunreinigenden Partikeln den technischen Anforderungen dieses Anhangs genügt;
-- 6. :: �Motortyp“ eine Zusammenfassung von Motoren, die sich hinsichtlich der in Anlage J Teil II Anhang 1 aufgeführten wesentlichen Merkmale nicht unterscheiden; von einem Motortyp wird mindestens eine Einheit hergestellt;
-- 7. :: �Motorenfamilie“ eine von einem Hersteller festgelegte und von der zuständigen Behörde typgenehmigte Zusammenfassung von Motoren, die konstruktionsbedingt ähnliche Eigenschaften hinsichtlich des Niveaus der Emission von gasförmigen Schadstoffen und luftverunreinigenden Partikeln aufweisen sollen und den Anforderungen dieses Anhangs entsprechen;
-- 8. :: �Motorengruppe“ eine von einem Hersteller festgelegte und von der zuständigen Behörde genehmigte Zusammenfassung von Motoren, die konstruktionsbedingt ähnliche Eigenschaften hinsichtlich des Niveaus der Emission von gasförmigen Schadstoffen und luftverunreinigenden Partikeln aufweisen sollen und den Anforderungen dieses Anhangs entsprechen, wobei eine Einstellung oder Modifikation einzelner Motoren nach der Typprüfung in festgelegten Grenzen zulässig ist;
-- 9. :: �Stamm-Motor“ ein aus einer Motorenfamilie oder einer Motorengruppe ausgewählter Motor, der den Anforderungen von Anlage J Teil I Abschnitt 5 entspricht;
-- 10. :: �Nennleistung“ die Nutzleistung des Motors bei Nenndrehzahl und Volllast;
-- 11. :: �Hersteller“ die gegenüber der zuständigen Behörde für alle Belange des Typgenehmigungsverfahrens und die Übereinstimmung der Produktion verantwortliche Person oder Stelle. Diese Person oder Stelle muss nicht an allen Stufen der Konstruktion des Motors beteiligt sein. Wird der Motor erst nach seiner ursprünglichen Fertigung durch entsprechende Veränderungen und Ergänzungen für die Verwendung auf einem Fahrzeug im Sinne dieses Kapitels hergerichtet, ist der Hersteller im Regelfall diejenige Person oder Stelle, die die Veränderungen oder Ergänzungen vorgenommen hat;
-- 12. :: �Beschreibungsbogen“ das Dokument nach Anlage J Teil II, in dem die vom Antragsteller zu liefernden Angaben festgelegt sind;
-- 13. :: �Beschreibungsmappe“ die Gesamtheit der Daten, Zeichnungen, Fotografien und anderen Unterlagen, die der Antragsteller dem technischen Dienst oder der zuständigen Behörde nach den Anforderungen im Beschreibungsbogen einzureichen hat;
-- 14. :: �Beschreibungsunterlagen“ die Beschreibungsmappe zuzüglich aller Prüfberichte und sonstiger Dokumente, die der technische Dienst oder die zuständige Behörde in Ausübung ihrer Funktionen beigefügt haben;
-- 15. :: �Typgenehmigungsbogen“ das Dokument nach Anlage J Teil III, mit dem die zuständige Behörde die Typgenehmigung bescheinigt;
-- 16. :: �Motorparameterprotokoll“ das Dokument nach Anlage J Teil VIII, in dem alle Parameter, einschließlich Bauteile (Komponenten) und Motoreinstellungen, die das Niveau der Emission von gasförmigen Schadstoffen und luftverunreinigenden Partikeln des Motors beeinflussen einschließlich deren Änderungen, festgehalten sind.
-- 17. :: �Anleitung des Herstellers zur Kontrolle der abgasrelevanten Komponenten und Motorparameter“ das nach § 1.11 Nummer 3 zu Zwecken der Durchführung der Einbau-, Zwischen- oder Sonderprüfungen erstellte Dokument.
+- 1. :: Motor“ ein Motor, der nach dem Prinzip der Kompressionszündung arbeitet (Dieselmotor);
+- 2. :: Typgenehmigung“ die Entscheidung, mit der die zuständige Behörde bestätigt, dass ein Motortyp, eine Motorenfamilie oder eine Motorengruppe hinsichtlich des Niveaus der Emission von gasförmigen Schadstoffen und luftverunreinigenden Partikeln aus dem Motor (den Motoren) den technischen Anforderungen dieses Anhangs genügt;
+- 3. :: Einbauprüfung“ das Verfahren, durch das die zuständige Behörde sicherstellt, dass der in ein Fahrzeug eingebaute Motor auch nach etwaigen seit der Erteilung der Typgenehmigung vorgenommener Änderungen und/oder Einstellungen hinsichtlich des Niveaus der Emission von gasförmigen Schadstoffen und luftverunreinigenden Partikeln den technischen Anforderungen dieses Anhangs genügt;
+- 4. :: Zwischenprüfung“ das Verfahren, durch das die zuständige Behörde sicherstellt, dass der in einem Fahrzeug betriebene Motor auch nach etwaigen seit der Einbauprüfung vorgenommenen Änderungen und/oder Einstellungen hinsichtlich des Niveaus der Emission von gasförmigen Schadstoffen und luftverunreinigenden Partikeln den technischen Anforderungen dieses Anhangs genügt;
+- 5. :: Sonderprüfung“ das Verfahren, durch das die zuständige Behörde sicherstellt, dass der in einem Fahrzeug betriebene Motor auch nach jeder wesentlichen Änderung hinsichtlich des Niveaus der Emission von gasförmigen Schadstoffen und luftverunreinigenden Partikeln den technischen Anforderungen dieses Anhangs genügt;
+- 6. :: Motortyp“ eine Zusammenfassung von Motoren, die sich hinsichtlich der in Anlage J Teil II Anhang 1 aufgeführten wesentlichen Merkmale nicht unterscheiden; von einem Motortyp wird mindestens eine Einheit hergestellt;
+- 7. :: Motorenfamilie“ eine von einem Hersteller festgelegte und von der zuständigen Behörde typgenehmigte Zusammenfassung von Motoren, die konstruktionsbedingt ähnliche Eigenschaften hinsichtlich des Niveaus der Emission von gasförmigen Schadstoffen und luftverunreinigenden Partikeln aufweisen sollen und den Anforderungen dieses Anhangs entsprechen;
+- 8. :: Motorengruppe“ eine von einem Hersteller festgelegte und von der zuständigen Behörde genehmigte Zusammenfassung von Motoren, die konstruktionsbedingt ähnliche Eigenschaften hinsichtlich des Niveaus der Emission von gasförmigen Schadstoffen und luftverunreinigenden Partikeln aufweisen sollen und den Anforderungen dieses Anhangs entsprechen, wobei eine Einstellung oder Modifikation einzelner Motoren nach der Typprüfung in festgelegten Grenzen zulässig ist;
+- 9. :: Stamm-Motor“ ein aus einer Motorenfamilie oder einer Motorengruppe ausgewählter Motor, der den Anforderungen von Anlage J Teil I Abschnitt 5 entspricht;
+- 10. :: Nennleistung“ die Nutzleistung des Motors bei Nenndrehzahl und Volllast;
+- 11. :: Hersteller“ die gegenüber der zuständigen Behörde für alle Belange des Typgenehmigungsverfahrens und die Übereinstimmung der Produktion verantwortliche Person oder Stelle. Diese Person oder Stelle muss nicht an allen Stufen der Konstruktion des Motors beteiligt sein. Wird der Motor erst nach seiner ursprünglichen Fertigung durch entsprechende Veränderungen und Ergänzungen für die Verwendung auf einem Fahrzeug im Sinne dieses Kapitels hergerichtet, ist der Hersteller im Regelfall diejenige Person oder Stelle, die die Veränderungen oder Ergänzungen vorgenommen hat;
+- 12. :: Beschreibungsbogen“ das Dokument nach Anlage J Teil II, in dem die vom Antragsteller zu liefernden Angaben festgelegt sind;
+- 13. :: Beschreibungsmappe“ die Gesamtheit der Daten, Zeichnungen, Fotografien und anderen Unterlagen, die der Antragsteller dem technischen Dienst oder der zuständigen Behörde nach den Anforderungen im Beschreibungsbogen einzureichen hat;
+- 14. :: Beschreibungsunterlagen“ die Beschreibungsmappe zuzüglich aller Prüfberichte und sonstiger Dokumente, die der technische Dienst oder die zuständige Behörde in Ausübung ihrer Funktionen beigefügt haben;
+- 15. :: Typgenehmigungsbogen“ das Dokument nach Anlage J Teil III, mit dem die zuständige Behörde die Typgenehmigung bescheinigt;
+- 16. :: Motorparameterprotokoll“ das Dokument nach Anlage J Teil VIII, in dem alle Parameter, einschließlich Bauteile (Komponenten) und Motoreinstellungen, die das Niveau der Emission von gasförmigen Schadstoffen und luftverunreinigenden Partikeln des Motors beeinflussen einschließlich deren Änderungen, festgehalten sind.
+- 17. :: Anleitung des Herstellers zur Kontrolle der abgasrelevanten Komponenten und Motorparameter“ das nach § 1.11 Nummer 3 zu Zwecken der Durchführung der Einbau-, Zwischen- oder Sonderprüfungen erstellte Dokument.
 
 
 § 1.02 - Grundregel
 
-�
+
 
 - 1. :: Dieser Anhang gilt für alle Motoren mit einer Nennleistung (P_{N}) von 19 kW oder mehr, die in Fahrzeuge oder in Maschinen an Bord eingebaut sind, sofern diese Maschinen nicht unter einschlägige Verordnungen oder Richtlinien der Europäischen Union hinsichtlich der Emission von gasförmigen Schadstoffen und luftverunreinigenden Partikeln fallen.\\
   \\
@@ -67,7 +67,7 @@ Im Sinne dieses Anhangs gilt als
 
 § 1.03 - Antrag auf Typgenehmigung
 
-�
+
 
 - 1. :: Ein Antrag auf Typgenehmigung für einen Motortyp, eine Motorenfamilie oder eine Motorengruppe ist vom Hersteller bei der zuständigen Behörde zu stellen. Dem Antrag sind eine Beschreibungsmappe und der Entwurf eines Motorparameterprotokolls und der Entwurf einer Anleitung des Herstellers zur Kontrolle der abgasrelevanten Komponenten und Motorparameter beizufügen. Der Hersteller hat für die Typprüfungen einen Motor, der den in Anlage J Teil II Anhang 1 aufgeführten wesentlichen Merkmalen entspricht, vorzuführen.
 - 2. :: Stellt die zuständige Behörde im Fall eines Antrags auf Typgenehmigung für eine Motorenfamilie oder eine Motorengruppe fest, dass der eingereichte Antrag hinsichtlich des ausgewählten Stamm-Motors für die in Anlage J Teil II Anhang 2 beschriebene Motorenfamilie oder Motorengruppe nicht repräsentativ ist, so ist ein anderer und gegebenenfalls ein zusätzlicher, von der zuständigen Behörde zu bezeichnender Stamm-Motor zur Genehmigung nach Nummer 1 bereitzustellen.
@@ -76,7 +76,7 @@ Im Sinne dieses Anhangs gilt als
 
 § 1.04 - Typgenehmigungsverfahren
 
-�
+
 
 - 1. :: Die zuständige Behörde, bei der der Antrag gestellt wird, erteilt die Typgenehmigung für alle Motortypen, Motorenfamilien oder Motorengruppen, die den Beschreibungen in den Beschreibungsmappen entsprechen und den Anforderungen dieses Kapitels genügen.
 - 2. :: Die zuständige Behörde füllt für jeden Motortyp, jede Motorenfamilie oder jede Motorengruppe, die sie genehmigt, alle einschlägigen Teile des Typgenehmigungsbogens aus, dessen Muster in Anlage J Teil III enthalten ist; sie erstellt oder prüft das Inhaltsverzeichnis zu den Beschreibungsunterlagen. Typgenehmigungsbogen sind nach dem Verfahren in Anlage J Teil IV zu nummerieren. Der ausgefüllte Typgenehmigungsbogen und seine Anlagen sind dem Antragsteller zuzustellen.
@@ -91,7 +91,7 @@ Im Sinne dieses Anhangs gilt als
 
 § 1.05 - Änderung von Genehmigungen
 
-�
+
 
 - 1. :: Die zuständige Behörde, die die Typgenehmigung erteilt hat, ergreift die erforderlichen Maßnahmen, um sicherzustellen, dass ihr jede Änderung der in den Beschreibungsunterlagen erwähnten Einzelheiten mitgeteilt wird.
 - 2. :: Der Antrag auf eine Änderung oder Erweiterung einer Typgenehmigung ist ausschließlich an die zuständige Behörde zu stellen, die die ursprüngliche Typgenehmigung erteilt hat.
@@ -104,7 +104,7 @@ Im Sinne dieses Anhangs gilt als
 
 § 1.06 - Übereinstimmung
 
-�
+
 
 - 1. :: An jeder in Übereinstimmung mit der Typgenehmigung hergestellten Einheit müssen die in Anlage J Teil I Abschnitt 1 festgelegten Kennzeichen einschließlich der Typgenehmigungsnummer vom Hersteller angebracht sein.
 - 2. :: Enthält die Typgenehmigung Einschränkungen der Verwendung nach § 1.04 Nummer 3, so müssen jeder hergestellten Einheit detaillierte Angaben über diese Einschränkungen und sämtliche Einbauvorschriften vom Hersteller beigefügt sein.
@@ -116,7 +116,7 @@ Im Sinne dieses Anhangs gilt als
 
 § 1.08 - Kontrolle der Identifizierungsnummern
 
-�
+
 
 - 1. :: Die zuständige Behörde, die eine Typgenehmigung erteilt, sorgt dafür, dass die Identifizierungsnummern der in Übereinstimmung mit den Anforderungen dieses Anhangs hergestellten Motoren -- erforderlichenfalls in Zusammenarbeit mit den anderen zuständigen Behörden -- registriert und kontrolliert werden.
 - 2. :: Eine zusätzliche Kontrolle der Identifizierungsnummern kann in Verbindung mit der Kontrolle der Übereinstimmung der Produktion nach § 1.09 erfolgen.
@@ -126,7 +126,7 @@ Im Sinne dieses Anhangs gilt als
 
 § 1.09 - Konformität der Produktion
 
-�
+
 
 - 1. :: Die zuständige Behörde, die eine Typgenehmigung erteilt, vergewissert sich vorher -- erforderlichenfalls in Zusammenarbeit mit den anderen zuständigen Behörden --, dass geeignete Vorkehrungen getroffen wurden, um eine wirksame Kontrolle der Konformität der Produktion hinsichtlich der Anforderungen der Anlage J Teil I Abschnitt 4 sicherzustellen.
 - 2. :: Die zuständige Behörde, die eine Typgenehmigung erteilt hat, vergewissert sich -- erforderlichenfalls in Zusammenarbeit mit den anderen zuständigen Behörden --, dass die in Nummer 1 genannten Vorkehrungen hinsichtlich der Bestimmungen der Anlage J Teil I Abschnitt 4 weiterhin ausreichen und jeder nach den Anforderungen dieses Anhangs mit einer Typgenehmigungsnummer ausgestattete Motor weiterhin der Beschreibung im Typgenehmigungsbogen und seinen Anhängen für den genehmigten Motortyp, die genehmigte Motorenfamilie oder die genehmigte Motorengruppe entspricht.
@@ -134,7 +134,7 @@ Im Sinne dieses Anhangs gilt als
 
 § 1.10 - Nichtübereinstimmung mit dem genehmigten Motortyp, der genehmigten Motorenfamilie oder der genehmigten Motorengruppe
 
-�
+
 
 - 1. :: Eine Nichtübereinstimmung mit dem genehmigten Motortyp, der genehmigten Motorenfamilie oder der genehmigten Motorengruppe liegt vor, wenn Abweichungen von den Merkmalen im Typgenehmigungsbogen oder gegebenenfalls von den Beschreibungsunterlagen festgestellt werden, die von der zuständigen Behörde, die die Typgenehmigung erteilt hat, nicht nach § 1.05 Nummer 3 genehmigt worden sind.
 - 2. :: Stellt die zuständige Behörde, die eine Typgenehmigung erteilt hat, fest, dass Motoren, die mit einer Konformitätsbescheinigung oder einem Genehmigungszeichen versehen sind, nicht mit dem Motortyp, der Motorenfamilie oder der Motorengruppe übereinstimmen, für den oder die sie die Genehmigung erteilt hat, so ergreift sie die erforderlichen Maßnahmen, um sicherzustellen, dass die in Produktion befindlichen Motoren wieder mit dem genehmigten Motortyp, der genehmigten Motorenfamilie oder der genehmigten Motorengruppe übereinstimmen. Die zuständige Behörde, die die mangelnde Übereinstimmung festgestellt hat, unterrichtet die anderen zuständigen Behörden und das Sekretariat der Zentralkommission für die Rheinschifffahrt von den getroffenen Maßnahmen, die bis zum Entzug der Typgenehmigung gehen können.
@@ -144,7 +144,7 @@ Im Sinne dieses Anhangs gilt als
 
 § 1.11 - Einbau-, Zwischen- und Sonderprüfung
 
-�
+
 
 - 1. :: Die zuständige Behörde prüft anlässlich der Einbauprüfung nach § 1.02 Nummer 4, bei Zwischenprüfungen nach § 1.02 Nummer 5 und bei Sonderprüfungen nach § 1.02 Nummer 6 den aktuellen Zustand des Motors in Bezug auf die im Motorparameterprotokoll spezifizierten Komponenten, die Kalibrierung und die Einstellung seiner Parameter.
   Kommt die Behörde zu dem Ergebnis, dass der Motor nicht mit dem genehmigten Motortyp, der genehmigten Motorenfamilie oder der genehmigten Motorengruppe übereinstimmt, kann sie verlangen, dass die Konformität des Motors wiederhergestellt wird, die Typgenehmigung nach § 1.05 entsprechend geändert wird oder eine Messung der tatsächlichen Emissionen anordnen.
@@ -161,7 +161,7 @@ Im Sinne dieses Anhangs gilt als
 
 § 1.12 - Zuständige Behörden und Technische Dienste
 
-�
+
 
 - 1. :: Die Rheinuferstaaten und Belgien teilen der Zentralkommission für die Rheinschifffahrt die Namen und Anschriften der zuständigen Behörden und Technischen Dienste mit, die für die Durchführung dieses Anhangs verantwortlich sind. Die Technischen Dienste müssen der Norm DIN EN ISO/IEC 17025, Ausgabe August 2005, unter Beachtung der nachfolgenden Bedingungen genügen:
   - a) :: Motorenhersteller können nicht als Technische Dienste anerkannt werden.
@@ -171,7 +171,7 @@ Im Sinne dieses Anhangs gilt als
 
 § 1.13 - Übergangsbestimmungen
 
-�
+
 
 - 1. :: Die Vorschriften dieses Anhangs gelten nicht
   - a) :: für Motoren, die vor dem 1. Januar 2003 an Bord installiert waren,
@@ -188,29 +188,29 @@ Im Sinne dieses Anhangs gilt als
 
 Anlage J - – gilt nur für Fahrzeuge mit Schiffsattest – Emission von gasförmigen Schadstoffen und luftverunreinigenden Partikeln – Ergänzende Bestimmungen und Muster von Bescheinigungen –
 
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Stamm-Motor/Motortyp<<FnR.FnA1-F804091_08>>[[#FnA1-F804091_08][2]]} :
 
 | 0.  | Allgemeines                                                                                                                                                         |
@@ -241,12 +241,12 @@ Datum, Unterschrift des Motorherstellers
  \\
 ..............................................................................................................
 
-�
+
 
  \\
 ...............................................................................................................
 
-      �
+      
 
 - <<FnA1-F804091_07>>[[#FnR.FnA1-F804091_07][1]] :: Nummer des Beschreibungsbogens ist von der zuständigen Behörde zu vergeben.
 - <<FnA1-F804091_08>>[[#FnR.FnA1-F804091_08][2]] :: Nichtzutreffendes streichen.
@@ -255,18 +255,18 @@ Datum, Unterschrift des Motorherstellers
 \\
 \\
 
-      �
+      
 
 - <<FnA2-F804091_10>>[[#FnR.FnA2-F804091_10][1]] :: Nichtzutreffendes streichen.
 - <<FnA2-F804091_11>>[[#FnR.FnA2-F804091_11][2]] :: Toleranz angeben.
 
-      �
+      
 
 - <<FnA3-F804091_12>>[[#FnR.FnA3-F804091_12][1]] :: Unter Berücksichtigung der in der Rheinschiffsuntersuchungsordnung Anhang J Teil I Abschnitt 5 angegebenen Vorschriften auszufüllen.
-- <<FnA3-F804091_13>>[[#FnR.FnA3-F804091_13][2]] :: �n. z.“ für �nicht zutreffend“ angeben.
+- <<FnA3-F804091_13>>[[#FnR.FnA3-F804091_13][2]] :: n. z.“ für nicht zutreffend“ angeben.
 - <<FnA3-F804091_14>>[[#FnR.FnA3-F804091_14][3]] :: Ausführliche Beschreibung siehe Anlage 1.
 
-      �
+      
 
 - <<FnA4-F804091_15>>[[#FnR.FnA4-F804091_15][1]] :: Für jeden Motor der Motorenfamilie/Motorengruppe gesondert vorzulegen. Tabellarische Auflistungen sind zulässig.
 - <<FnA4-F804091_16>>[[#FnR.FnA4-F804091_16][2]] :: Nichtzutreffendes streichen.
@@ -298,11 +298,11 @@ Herstellerseitige Bezeichnung für den (die) Motortyp(en), den Stamm-Motor und g
 
 Herstellerseitige Typenkodierung entsprechend den Angaben am Motor/an den Motoren:\\
 
-�
+
 
 Stelle:
 
-�
+
 
 Art der Anbringung:
 
@@ -353,9 +353,9 @@ kPa
 
 Für die Durchführung der Prüfungen verantwortlicher Technischer Dienst<<FnR.FnA5-F804091_20>>[[#FnA5-F804091_20][1]]} :
 
-�
 
-�
+
+
 
 3.
 
@@ -369,43 +369,43 @@ Nummer des Prüfberichts:
 
 Der Unterzeichnete bescheinigt hiermit die Richtigkeit der Herstellerangaben im beigefügten Beschreibungsbogen des (der) obengenannten Motors/Motoren sowie die Gültigkeit der beigefügten Prüfergebnisse in Bezug auf den Motortyp oder den Stamm-Motor. Das (die) Prüfexemplar(e) wurde(n) mit Genehmigung der zuständigen Behörde vom Hersteller ausgewählt und als Baumuster des (Stamm-)Motors vorgestellt<<FnR.FnA5-F804091_22>>[[#FnA5-F804091_22][3]]} :
 
-�
+
 
 Die Typgenehmigung wird erteilt/erweitert/verweigert/entzogen[[#FnA5-F804091_22][3]]} :
 
-�
+
 
 Ort:
 
-�
+
 
 Datum:
 
-�
+
 
 Unterschrift:
 
-�
+
 
 - Anlagen: :: Beschreibungsmappe
 -  :: Prüfergebnisse (siehe Anlage 1)
 
-      �
+      
 
 - <<FnA5-F804091_18>>[[#FnR.FnA5-F804091_18][1]] :: Nichtzutreffendes streichen.
 - <<FnA5-F804091_19>>[[#FnR.FnA5-F804091_19][2]] :: z. B. Schiffsantrieb -- Propellerkurve, Schiffshauptantrieb -- konstante Drehzahl.
-- <<FnA5-F804091_20>>[[#FnR.FnA5-F804091_20][1]] :: Werden die Prüfungen von der zuständigen Behörde selbst durchgeführt, �entfällt“ angeben.
+- <<FnA5-F804091_20>>[[#FnR.FnA5-F804091_20][1]] :: Werden die Prüfungen von der zuständigen Behörde selbst durchgeführt, entfällt“ angeben.
 - <<FnA5-F804091_21>>[[#FnR.FnA5-F804091_21][2]] :: Gegebenenfalls inklusive Korrelationsstudie zu Probenahmesystemen, die von den Bezugssystemen abweichen, gemäß Anhang VIII Anlage J, Teil I, Abschnitt 3.1.1.
 - <<FnA5-F804091_22>>[[#FnR.FnA5-F804091_22][3]] :: Nichtzutreffendes streichen.
 
-      �
+      
 
 - <<FnA6-F804091_23>>[[#FnR.FnA6-F804091_23][1]] :: Nichtzutreffendes streichen.
 - <<FnA6-F804091_24>>[[#FnR.FnA6-F804091_24][2]] :: Im Fall mehrerer Prüfzyklen für jeden Einzelnen anzugeben.
 - <<FnA6-F804091_25>>[[#FnR.FnA6-F804091_25][3]] :: Hier den zugrunde gelegten Prüfzyklus entsprechend den Bestimmungen der Richtlinie zur Rheinschiffsuntersuchungsordnung Nummer 16 Teil II Abschnitt 3.6 eintragen.
 
 Siegel der zuständigen Behörde
-      �
+      
 
 - <<FnA7-F804091_26>>[[#FnR.FnA7-F804091_26][1]] :: Entsprechend Typgenehmigungsbogen.
 - <<FnA7-F804091_27>>[[#FnR.FnA7-F804091_27][2]] :: Zutreffendes eintragen.
@@ -423,10 +423,10 @@ Nummer der Typgenehmigung:\\
 Ausstellungsdatum:\\
 Datum der Erstausstellung (bei Nachträgen):\\
 Bezeichnung der Motorenfamilie/Motorengruppe<<FnR.FnA8-F804091_29>>[[#FnA8-F804091_29][2]]} :
-      �
+      
 
 - <<FnA8-F804091_28>>[[#FnR.FnA8-F804091_28][1]] :: Nichtzutreffendes streichen.
-- <<FnA8-F804091_29>>[[#FnR.FnA8-F804091_29][2]] :: Gegebenenfalls weglassen; das Beispiel zeigt eine Motorenfamilie mit �n“ verschiedenen Motoren, von denen Einheiten
+- <<FnA8-F804091_29>>[[#FnR.FnA8-F804091_29][2]] :: Gegebenenfalls weglassen; das Beispiel zeigt eine Motorenfamilie mit n“ verschiedenen Motoren, von denen Einheiten
   -  :: des Motors 1 mit den Kennnummern ... 001 bis ..... m,
   -  :: des Motors 2 mit den Kennnummern ... 001 bis ..... p,
   -  :: des Motors n mit den Kennnummern ... 001 bis ..... q
@@ -434,21 +434,21 @@ Bezeichnung der Motorenfamilie/Motorengruppe<<FnR.FnA8-F804091_29>>[[#FnA8-F8040
   hergestellt wurden.
 
 Siegel der zuständigen Behörde
-      �
+      
 
 - <<FnA9-F804091_30>>[[#FnR.FnA9-F804091_30][1]] :: Flüssigkeit oder Luft.
 - <<FnA9-F804091_31>>[[#FnR.FnA9-F804091_31][2]] :: Zu verwendende Abkürzungen: DI = Direkteinspritzung, PC = Vor-/Wirbelkammer, NA = Saugmotor, TC = Turboaufladung, TCA = Turboaufladung mit Zwischenkühlung.\\
   Beispiele: DI NA, DI TC, DI TCA, PC NA, PC TC, PC TCA.
 - <<FnA9-F804091_32>>[[#FnR.FnA9-F804091_32][3]] :: Zu verwendende Abkürzungen: CAT = Katalysator, PT = Partikelfilter, EGR = Abgasrückführung.
 
-      �
+      
 
 - <<FnA10-F804091_33>>[[#FnR.FnA10-F804091_33][1]] :: Siehe § 1.11 Nummer 3 und Anlage J Teil I Abschnitt 2.4.
 - <<FnA10-F804091_34>>[[#FnR.FnA10-F804091_34][2]] :: Vom Prüfer auszufüllen.
 - <<FnA10-F804091_41>>[[#FnR.FnA10-F804091_41][1]] :: Zutreffendes ankreuzen.
 
 - A) :: | Bauteilprüfung                                                                                                                                                                                   |
-  | Zusätzliche abgasrelevante Bauteile, die in der �Anleitung des Herstellers zur Durchführung der Kontrolle der abgasrelevanten Komponenten und Motorparameter“ aufgeführt sind, sind einzutragen. |
+  | Zusätzliche abgasrelevante Bauteile, die in der Anleitung des Herstellers zur Durchführung der Kontrolle der abgasrelevanten Komponenten und Motorparameter“ aufgeführt sind, sind einzutragen. |
   | | Bauteil                | Ermittelte Bauteilnummer | Übereinstimmung[[#FnA11-F804091_36][1]]} |                                                                                               |
   | |------------------------+--------------------------+--------------------------------------------|                                                                                               |
   | | Nockenwelle/Kolben     |                          |  □ Ja   □ Nein   □ entfällt                |                                                                                               |
@@ -471,6 +471,6 @@ Siegel der zuständigen Behörde
 
 - D) :: Bemerkungen:
 
-      �
+      
 
 - <<FnA11-F804091_36>>[[#FnR.FnA11-F804091_36][1]] :: Zutreffendes ankreuzen.

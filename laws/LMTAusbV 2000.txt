@@ -184,26 +184,26 @@ betriebliche und technische Kommunikation (Â§ 3 Nr. 5)
 a)
 Betriebsanleitungen und -anweisungen anwenden
 4
- 
- 
- 
+
+
+
 b)
 arbeitsbezogene Berichte anfertigen
- 
- 
- 
- 
+
+
+
+
 c)
 Informationen beschaffen, bewerten und austauschen
- 
- 
+
+
 3
- 
+
 d)
 betriebliche Informationssysteme nutzen
- 
- 
- 
+
+
+
 3
 e)
 situationsgerechte GesprÃ¤che im Arbeitsumfeld fÃ¼hren und betriebliche PrÃ¤sentationstechniken anwenden
@@ -212,28 +212,28 @@ QualitÃ¤tsmanagement (Â§ 3 Nr. 6)
 a)
 Bedeutung und Struktur des QualitÃ¤tsmanagements darstellen
 6
- 
- 
- 
+
+
+
 b)
 rechtliche und betriebsbezogene Vorgaben des QualitÃ¤tsmanagements anwenden
 c)
 GrundsÃ¤tze und Vorschriften der Personal-, Produkt- und Betriebshygiene anwenden
 d)
 Proben nehmen und analytische Untersuchungen durchfÃ¼hren
- 
+
 6
- 
- 
+
+
 e)
 Roh-, Zusatz-, Hilfsstoffe, Halbfabrikate und Fertigprodukte auf Menge, Gewicht und Beschaffenheit prÃ¼fen
 f)
 Verpackungsmaterialien prÃ¼fen
 g)
 Arbeitsergebnisse kontrollieren und bewerten
- 
- 
- 
+
+
+
 6
 h)
 Kontrollergebnisse dokumentieren und sichern
@@ -242,28 +242,28 @@ Auftragsannahme, Arbeitsplanung und -Organisation (Â§ 3 Nr. 7)
 a)
 Arbeitsauftrag in Arbeitsschritte gliedern
 2
- 
- 
- 
+
+
+
 b)
 Arbeitsmittel auswÃ¤hlen und SicherungsmaÃŸnahmen festlegen
 c)
 Materialbedarf ermitteln, bestellen und annehmen
- 
+
 2
- 
- 
+
+
 d)
 Arbeitszeit und Personaleinsatz unter BerÃ¼cksichtigung von Team- und Gruppenarbeit planen
- 
- 
+
+
 2
- 
+
 e)
 Arbeitsplatz unter BerÃ¼cksichtigung des Gesamtarbeitsablaufs einrichten
- 
- 
- 
+
+
+
 4
 f)
 Arbeitsplatz technisch einrichten, Personal anforderungsgerecht einsetzen
@@ -272,56 +272,56 @@ Bereitstellen und Vorbereiten von Roh-, Zusatz-, Hilfsstoffen und Halbfabrikaten
 a)
 Roh-, Zusatz-, Hilfsstoffe und Halbfabrikate unter wirtschaftlichen und fertigungstechnischen Gesichtspunkten bereitstellen
 10
- 
- 
- 
+
+
+
 b)
 Roh-, Zusatz-, Hilfsstoffe und Halbfabrikate nach Rezepturen fÃ¼r die Fertigung vorbereiten
 9
 Steuern von Produktionsprozessen (Â§ 3 Nr. 9)
 a)
 Produktionsmaschinen und -anlagen rÃ¼sten, in Betrieb nehmen und bedienen
- 
- 
+
+
 14
- 
+
 b)
 Produktionsmaschinen und -anlagen umrÃ¼sten, in Betrieb nehmen und bedienen
 c)
 Produktionsprozesse unter BerÃ¼cksichtigung verfahrenstechnischer und betriebsbezogener Vorschriften steuern und Ã¼berwachen
- 
- 
- 
+
+
+
 14
 d)
 StÃ¶rungen im Produktionsprozess feststellen und nach rechtlichen und betriebsbezogenen Vorgaben MaÃŸnahmen ergreifen
- 
- 
- 
+
+
+
 11
 10
 Bereitstellen und Einsetzen von Verpackungsmaterialien sowie Verpacken von Produkten (Â§ 3 Nr. 10)
 a)
 Verpackungsmaterialien und Fertigprodukte nach wirtschaftlichen und fertigungstechnischen Gesichtspunkten bereitstellen
 14
- 
- 
- 
+
+
+
 b)
 Verpackungsmaschinen und -anlagen rÃ¼sten, in Betrieb nehmen und bedienen
 c)
 Verpackungsmaschinen und -anlagen umrÃ¼sten, in Betrieb nehmen und bedienen
- 
+
 14
- 
- 
+
+
 d)
 Verpackungstechniken anwenden
 e)
 Verpackungsprozesse steuern und Ã¼berwachen
- 
- 
- 
+
+
+
 14
 f)
 StÃ¶rungen im Verpackungsprozess feststellen und nach rechtlichen und betriebsbezogenen Vorgaben MaÃŸnahmen ergreifen
@@ -330,17 +330,17 @@ Lagern von Materialien und Produkten (Â§ 3 Nr. 11)
 a)
 Roh-, Zusatz-, Hilfsstoffe, Halbfabrikate und Fertigprodukte qualitÃ¤tserhaltend nach
 10
- 
- 
- 
+
+
+
 b)
 logistischen Gesichtspunkten lagern Verpackungsmaterialien ihren Eigenschaften gemÃ¤ÃŸ lagern
 c)
 Lagerbestandskontrollen durchfÃ¼hren
- 
- 
+
+
 3
- 
+
 d)
 Inventur durchfÃ¼hren
 12
@@ -348,21 +348,21 @@ Reinigen, Pflegen und Warten von GerÃ¤ten, Maschinen und Anlagen (Â§ 3 Nr. 12)
 a)
 GerÃ¤te, Maschinen und Anlagen reinigen und pflegen
 6
- 
- 
- 
+
+
+
 b)
 Maschinen und Anlagen begleitend warten
- 
+
 4
- 
- 
+
+
 c)
 WartungsplÃ¤ne erstellen
- 
- 
+
+
 4
- 
+
 d)
 vorbeugende Wartung durchfÃ¼hren
 e)

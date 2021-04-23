@@ -57,7 +57,7 @@ Das Überschreiten der Auslandsgrenze ist nur an zugelassenen Grenzübergangsste
 - 10. :: Staatsangehörigkeit und
 - 11. :: Seriennummer.
 
-Die Angabe des Geschlechts richtet sich nach der Eintragung im Melderegister. Ist dort das Geschlecht nicht mit weiblich oder männlich angegeben, wird im Pass das Geschlecht mit �X“ bezeichnet. Abweichend von den Sätzen 3 und 4 ist einem Passbewerber, dessen Vornamen auf Grund gerichtlicher Entscheidung gemäß § 1 des Transsexuellengesetzes geändert wurden, auf Antrag ein Pass mit der Angabe des anderen, von dem Geburtseintrag abweichenden Geschlechts auszustellen. Passbewerbern, deren Angabe zum Geschlecht nach § 45b des Personenstandsgesetzes geändert wurde, kann auf Antrag abweichend von den Sätzen 3 und 4 auch ein Pass mit der Angabe des vorherigen Geschlechts ausgestellt werden, wenn die vorherige Angabe männlich oder weiblich war.
+Die Angabe des Geschlechts richtet sich nach der Eintragung im Melderegister. Ist dort das Geschlecht nicht mit weiblich oder männlich angegeben, wird im Pass das Geschlecht mit X“ bezeichnet. Abweichend von den Sätzen 3 und 4 ist einem Passbewerber, dessen Vornamen auf Grund gerichtlicher Entscheidung gemäß § 1 des Transsexuellengesetzes geändert wurden, auf Antrag ein Pass mit der Angabe des anderen, von dem Geburtseintrag abweichenden Geschlechts auszustellen. Passbewerbern, deren Angabe zum Geschlecht nach § 45b des Personenstandsgesetzes geändert wurde, kann auf Antrag abweichend von den Sätzen 3 und 4 auch ein Pass mit der Angabe des vorherigen Geschlechts ausgestellt werden, wenn die vorherige Angabe männlich oder weiblich war.
 
 (2) Der Pass enthält eine Zone für das automatische Lesen. Diese darf lediglich enthalten:
 
@@ -73,7 +73,7 @@ Die Angabe des Geschlechts richtet sich nach der Eintragung im Melderegister. Is
 - 5. :: die Seriennummer des Passes, die sich beim Reisepass, beim Dienstpass und beim Diplomatenpass aus der Behördenkennzahl der Passbehörde und einer zufällig zu vergebenden Passnummer zusammensetzt, die neben Ziffern auch Buchstaben enthalten kann und beim Kinderreisepass, vorläufigen Reisepass, vorläufigen Dienstpass und vorläufigen Diplomatenpass aus einem Serienbuchstaben und sieben Ziffern besteht,
 - 6. :: die Abkürzung "D" für die Eigenschaft als Deutscher oder im Fall amtlicher Pässe bei abweichender Staatsangehörigkeit die entsprechende Abkürzung hierfür,
 - 7. :: den Tag der Geburt,
-- 8. :: die Abkürzung �F“ für Passinhaber weiblichen Geschlechts, die Abkürzung �M“ für Passinhaber männlichen Geschlechts und das Zeichen �<“ für Passinhaber anderen Geschlechts,
+- 8. :: die Abkürzung F“ für Passinhaber weiblichen Geschlechts, die Abkürzung M“ für Passinhaber männlichen Geschlechts und das Zeichen <“ für Passinhaber anderen Geschlechts,
 - 9. :: die Gültigkeitsdauer des Passes,
 - 9a. :: Versionsnummer des Passmusters,
 - 10. :: die Prüfziffern und

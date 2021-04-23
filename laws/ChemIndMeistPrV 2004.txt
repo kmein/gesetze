@@ -222,8 +222,8 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 § 7 - Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
-(2) Im Prüfungsteil �Fachrichtungsübergreifende Basisqualifikationen“ sind die Prüfungsleistungen für jeden Prüfungsbereich einzeln zu bewerten. Aus den einzelnen Bewertungen wird als Bewertung für den Prüfungsteil das arithmetische Mittel berechnet.
-(3) Im Prüfungsteil �Handlungsspezifische Qualifikationen“ sind als Prüfungsleistungen zu bewerten:
+(2) Im Prüfungsteil Fachrichtungsübergreifende Basisqualifikationen“ sind die Prüfungsleistungen für jeden Prüfungsbereich einzeln zu bewerten. Aus den einzelnen Bewertungen wird als Bewertung für den Prüfungsteil das arithmetische Mittel berechnet.
+(3) Im Prüfungsteil Handlungsspezifische Qualifikationen“ sind als Prüfungsleistungen zu bewerten:
 
 - 1. :: nach Maßgabe des Absatzes 4 die Situationsaufgabe I nach § 5 Absatz 6,
 - 2. :: nach Maßgabe des Absatzes 5 die Situationsaufgabe II nach § 5 Absatz 7 und
@@ -249,23 +249,23 @@ Aus den einzelnen Bewertungen wird als zusammengefasste Bewertung das arithmetis
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsbestandteilen jeweils mindestens 50 Punkte erreicht worden sind:
 
-- 1. :: in jedem Prüfungsbereich des Prüfungsteils �Fachrichtungsübergreifende Basisqualifikationen“,
-- 2. :: im Prüfungsteil �Handlungsspezifische Qualifikationen“
+- 1. :: in jedem Prüfungsbereich des Prüfungsteils Fachrichtungsübergreifende Basisqualifikationen“,
+- 2. :: im Prüfungsteil Handlungsspezifische Qualifikationen“
   - a) :: in der Situationsaufgabe I nach § 5 Absatz 6,
   - b) :: in der Situationsaufgabe II nach § 5 Absatz 7 und
   - c) :: in der schriftlichen Ausarbeitung nach § 5 Absatz 8.
 
 (2) Ist die Prüfung bestanden, so werden die folgenden Bewertungen jeweils kaufmännisch auf eine ganze Zahl gerundet:
 
-- 1. :: die Bewertung für den Prüfungsteil �Fachrichtungsübergreifende Basisqualifikationen“,
-- 2. :: die Bewertung für den Prüfungsteil �Handlungsspezifische Qualifikationen“ sowie
-- 3. :: die zusammengefasste Bewertung für die Situationsaufgabe II im Prüfungsteil �Handlungsspezifische Qualifikationen“.
+- 1. :: die Bewertung für den Prüfungsteil Fachrichtungsübergreifende Basisqualifikationen“,
+- 2. :: die Bewertung für den Prüfungsteil Handlungsspezifische Qualifikationen“ sowie
+- 3. :: die zusammengefasste Bewertung für die Situationsaufgabe II im Prüfungsteil Handlungsspezifische Qualifikationen“.
 
-(3) Den Bewertungen für den Prüfungsteil �Fachrichtungsübergreifende Basisqualifikationen“ und für den Prüfungsteil �Handlungsspezifische Qualifikationen“ ist nach Anlage 1 die jeweilige Note als Dezimalzahl zuzuordnen.
+(3) Den Bewertungen für den Prüfungsteil Fachrichtungsübergreifende Basisqualifikationen“ und für den Prüfungsteil Handlungsspezifische Qualifikationen“ ist nach Anlage 1 die jeweilige Note als Dezimalzahl zuzuordnen.
 (4) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das gewichtete arithmetische Mittel zu berechnen. Dabei werden die Bewertungen wie folgt gewichtet:
 
-- 1. :: die Bewertung für den Prüfungsteil �Fachrichtungsübergreifende Basisqualifikationen“ mit 25 Prozent,
-- 2. :: die Bewertung für den Prüfungsteil �Handlungsspezifische Qualifikationen“ mit 75 Prozent.
+- 1. :: die Bewertung für den Prüfungsteil Fachrichtungsübergreifende Basisqualifikationen“ mit 25 Prozent,
+- 2. :: die Bewertung für den Prüfungsteil Handlungsspezifische Qualifikationen“ mit 75 Prozent.
 
 Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerundeten Gesamtpunktzahl wird nach Anlage 1 eine Note als Dezimalzahl und die Note in Worten zugeordnet. Die zugeordnete Note ist die Gesamtnote.
 
@@ -329,10 +329,10 @@ Teil A -- Zeugnis ohne Prüfungsergebnisse:
 Teil B -- Zeugnis mit Prüfungsergebnissen:
 Alle Angaben des Teils A sowie zusätzlich:
 
-- 1. :: zum Prüfungsteil �Fachrichtungsübergreifende Basisqualifikationen“
+- 1. :: zum Prüfungsteil Fachrichtungsübergreifende Basisqualifikationen“
   - a) :: Benennung dieses Prüfungsteils und Bewertung mit Note sowie
   - b) :: Benennung der vier Prüfungsbereiche und Bewertung mit Punkten,
-- 2. :: zum Prüfungsteil �Handlungsspezifische Qualifikationen“
+- 2. :: zum Prüfungsteil Handlungsspezifische Qualifikationen“
   - a) :: Benennung dieses Prüfungsteils und Bewertung mit Note,
   - b) :: Benennung der Situationsaufgabe I nach § 5 Absatz 6 und Bewertung mit Punkten,
   - c) :: Benennung der Situationsaufgabe II nach § 5 Absatz 7 und Bewertung mit Punkten sowie

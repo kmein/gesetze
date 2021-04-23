@@ -191,7 +191,7 @@ Qualitätsmanagement (§ 3 Nr. 5)
 a)
 qualitätssichernde Maßnahmen dem Produktionsprozess zuordnen
 6
-�
+
 b)
 Normen und Spezifikationen zur Sicherung der Produktqualität einhalten
 c)
@@ -200,7 +200,7 @@ d)
 Prüfarten und Prüfmittel nach Normen auswählen und anwenden
 e)
 Prüfergebnisse auswerten und qualitätssichernde statistische Verfahren anwenden
-�
+
 6
 f)
 Methoden und Instrumente des Qualitätsmanagements zur kontinuierlichen Verbesserung im eigenen Arbeitsbereich anwenden und einsetzen
@@ -209,7 +209,7 @@ Arbeitsvorbereitung (§ 3 Nr. 6)
 a)
 Arbeitsabläufe und -schritte unter Berücksichtigung technischer und wirtschaftlicher Gesichtspunkte auftragsbezogen festlegen
 5
-�
+
 b)
 erforderliche Werkzeuge auswählen
 c)
@@ -223,7 +223,7 @@ betriebliche und technische Kommunikation (§ 3 Nr. 7)
 a)
 Informationen beschaffen und bewerten; deutsche und englische Fachausdrücke anwenden
 5
-�
+
 b)
 Teil-, Gruppen- und Explosionszeichnungen lesen und anwenden sowie Skizzen und Stücklisten anfertigen
 c)
@@ -241,10 +241,10 @@ Teamarbeit (§ 3 Nr. 8)
 a)
 Kommunikationsregeln anwenden; Hilfsmittel zur Kommunikationsförderung einsetzen
 2
-�
+
 b)
 Aufgaben im Team bearbeiten, abstimmen und durchführen; Ergebnisse auswerten, kontrollieren und dokumentieren
-�
+
 4
 c)
 Problemlösungsmethoden anwenden
@@ -255,12 +255,12 @@ Verfahren der Glasherstellung und -weiterverarbeitung (§ 3 Nr. 9)
 a)
 Gemengeaufbereitung überwachen
 8
-�
+
 b)
 Schmelzprozess überwachen
 c)
 Prozess der Formgebung und Entspannung überwachen und sicherstellen
-�
+
 8
 d)
 Weiterbearbeitungsverfahren anwenden
@@ -270,7 +270,7 @@ Veredlungsverfahren anwenden
 Transport und Lagerung (§ 3 Nr. 10)
 a)
 Transport und Lagerung der Betriebs- und Hilfsstoffe sowie der Produkte sicherstellen
-�
+
 2
 b)
 Störungen erkennen und Maßnahmen zu deren Beseitigung ergreifen
@@ -281,7 +281,7 @@ Metallbearbeitung (§ 3 Nr. 11)
 a)
 Werkstoffe manuell und maschinell bearbeiten, insbesondere durch Bohren, Schleifen, Feilen, Gewindeschneiden, Sägen und Scheren
 12
-�
+
 b)
 Werkstücke durch Messen und Lehren auf Maßgenauigkeit prüfen
 c)
@@ -295,7 +295,7 @@ Elektrotechnik (§ 3 Nr. 12)
 a)
 Spannung, Strom, Widerstand und Leistung in Stromkreisen zuordnen, messen und ihre Abhängigkeit zueinander berechnen
 6
-�
+
 b)
 Gefahren des elektrischen Stroms, Sicherheitsvorschriften und Schutzmaßnahmen zuordnen und anwenden
 c)
@@ -307,22 +307,22 @@ Montieren von Bauteilen und Baugruppen einschließlich Funktionsprüfung (§ 3 N
 a)
 Bauteile und Baugruppen nach technischen Unterlagen zur Montage vorbereiten
 6
-�
+
 b)
 Bauteile und Baugruppen unter Beachtung der Maßtoleranzen passen sowie durch Messen, Lehren und Sichtprüfen funktionsgerecht ausrichten und Lage sichern
-�
+
 6
 14
 Instandhaltungsarbeiten an Maschinen und Anlagen (§ 3 Nr. 14)
 a)
 Werkzeuge, Prüfzeuge, Maschinen und Geräte warten
 4
-�
+
 b)
 Betriebsstoffe, insbesondere Öle, Kühl- und Schmierstoffe, nach Vorschriften auffüllen, wechseln und sammeln
 c)
 Produktionsanlagen und Fertigungssysteme inspizieren und Verschleißteile im Rahmen der vorbeugenden Instandhaltung austauschen oder Austausch veranlassen
-�
+
 4
 d)
 Glasmaschinen und Glaseinrichtungen oder Systeme nach Wartungs- und Inspektionslisten, insbesondere unter Berücksichtigung der Prüfwerte, der Betriebsund Hilfsstoffe sowie der Wartungshäufigkeit, warten
@@ -333,10 +333,10 @@ Mess- und Steuerungstechnik (§ 3 Nr. 15)
 a)
 elektrische, pneumatische und hydraulische Schaltungen nach Angaben, Zeichnungsvorlagen, Schaltplänen und Vorschriften aufbauen, anschließen und prüfen
 6
-�
+
 b)
 Steuerungen mit Signal- und Steuerungsbauteilen aufbauen, prüfen und in Betrieb nehmen
-�
+
 6
 c)
 Bauteile anhand von Typenschildern zuordnen
@@ -347,12 +347,12 @@ Regelungstechnik (§ 3 Nr. 16)
 a)
 Messwerte erfassen und protokollieren
 4
-�
+
 b)
 Regelungen in Produktionsprozessen prüfen und Parameter in Abstimmung verändern
 c)
 Störungen feststellen und Maßnahmen zu ihrer Beseitigung einleiten
-�
+
 6
 d)
 Prozesse mit Prozessleitsystemen überwachen und Parameter in Abstimmung verändern
@@ -361,10 +361,10 @@ Einrichten, Umrüsten und Prüfen von Maschinen, Systemen und Produktionsanlagen
 a)
 Werkzeuge, Vorrichtungen, Formen und Modelle einrichten und einstellen
 8
-�
+
 b)
 die Gesamtfunktion beeinflussende Einzelfunktionen, insbesondere Beweglichkeit, Dichtheit, Laufruhe, Drehfrequenz, Druck, Temperatur und Verfahrwege, im Betriebszustand prüfen und einstellen
-�
+
 8
 c)
 das Zusammenwirken von verknüpften Funktionen bei verketteten Baugruppen und die Gesamtfunktion nach Vorgabe prüfen und einstellen
@@ -372,7 +372,7 @@ das Zusammenwirken von verknüpften Funktionen bei verketteten Baugruppen und di
 Herstellen der Betriebsbereitschaft von Produktionsanlagen (§ 3 Nr. 18)
 a)
 Betriebsbereitschaft durch Sicherstellen und Prüfen, insbesondere von Befestigung, Schmierung, Kühlung, Energieversorgung und Entsorgung, herstellen
-�
+
 8
 b)
 Daten und Programme eingeben und den Programmablauf bis zur Betriebsbereitschaft der Anlage überwachen
@@ -384,7 +384,7 @@ Maschinen und Produktionsanlagen in Betrieb nehmen
 Bedienen, Steuern und Regeln von Produktionsanlagen; Überwachen des Produktionsablaufes (§ 3 Nr. 19)
 a)
 Betriebsdaten an Produktionsanlagen in Abhängigkeit von Werkzeug, Werkstück sowie der Verfahrenstechnik einhalten
-�
+
 14
 b)
 Mess-, Steuer- und Regeleinrichtungen des Produktionsablaufes überwachen und nach Vorgaben einhalten

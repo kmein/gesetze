@@ -197,17 +197,17 @@ Planen und Vorbereiten von ArbeitsablÃ¤ufen (Â§ 3 Nr. 5)
 a)
 Zeitplan und Reihenfolge der Arbeitsschritte unter Beachtung mÃ¼ndlicher und schriftlicher Vorgaben abstimmen und festlegen
 4
- 
- 
- 
+
+
+
 b)
 Verbrauchsmaterial und Arbeitsmittel bereitstellen
 c)
 Verbrauchsmaterial und Fertigungskosten ermitteln und berechnen
- 
+
 5
- 
- 
+
+
 d)
 PlÃ¤ne und Zeichnungen lesen und umsetzen sowie HandbÃ¼cher anwenden
 6
@@ -215,31 +215,31 @@ Anfertigen von Skizzen und Zeichnungen (Â§ 3 Nr. 6)
 a)
 Vorlagen, insbesondere durch Handzeichnen, vergrÃ¶ÃŸern und verkleinern
 2
- 
- 
- 
+
+
+
 b)
 Vorlagen nach gestalterischen Gesichtspunkten anpassen, verÃ¤ndern und entwerfen
- 
+
 6
- 
- 
+
+
 c)
 WerkstÃ¼cke zeichnen
 d)
 ErgÃ¤nzungen, insbesondere nach stilistischen Merkmalen, zeichnerisch darstellen
- 
- 
- 
+
+
+
 3
 7
 AuswÃ¤hlen, Handhaben, Pflegen und Instandhalten von Werkzeugen und Maschinen (Â§ 3 Nr. 7)
 a)
 Werkzeuge, GerÃ¤te und Maschinen prÃ¼fen, auswÃ¤hlen und handhaben
 6
- 
- 
- 
+
+
+
 b)
 Werkzeuge, GerÃ¤te und Maschinen pflegen, warten und instandhalten, insbesondere unter Beachtung des Umwelt- und Gesundheitsschutzes
 c)
@@ -249,9 +249,9 @@ AuswÃ¤hlen, Lagern und Entsorgen von Werk- und Hilfsstoffen (Â§ 3 Nr. 8)
 a)
 Werk- und Hilfsstoffe, insbesondere Blattmetalle, Metallpulver, Holzwerkstoffe, Farb-, Binde-, Grundierungs- und LÃ¶semittel auswÃ¤hlen
 5
- 
- 
- 
+
+
+
 b)
 Werk- und Hilfsstoffe unter Beachtung des Umweltschutzes lagern und entsorgen
 9
@@ -259,114 +259,114 @@ Vorbereiten von UntergrÃ¼nden (Â§ 3 Nr. 9)
 a)
 Grundierungen, insbesondere fÃ¼r Vergolde- und Maltechniken, ansetzen, zubereiten und aufbringen
 12
- 
- 
- 
+
+
+
 b)
 grundierte Objekte nacharbeiten und schleifen
 10
- 
- 
- 
+
+
+
 c)
 UntergrÃ¼nde unter Beachtung des Umwelt- und Gesundheitsschutzes fÃ¼r Grundierungen vorbereiten, insbesondere
 6
- 
- 
- 
- 
+
+
+
+
 aa)
 HolzwerkstÃ¼cke auf SchÃ¤dlingsbefall prÃ¼fen, Holzfehler beseitigen sowie schleifen und verkitten
- 
+
 bb)
 Kunststoffe und Glas reinigen und entfetten
- 
+
 cc)
 MetalluntergrÃ¼nde entfetten, entrosten und vor Korrosion schÃ¼tzen
- 
- 
+
+
 2
- 
- 
+
+
 dd)
 mineralische UntergrÃ¼nde auf Feuchtigkeit prÃ¼fen, schleifen, glÃ¤tten und ausgleichen
- 
- 
- 
+
+
+
 2
 10
 AusfÃ¼hren von Verzierungen (Â§ 3 Nr. 10)
 a)
 Rahmen mit plastischen Ornamenten verzieren
- 
- 
+
+
 6
- 
+
 b)
 OberflÃ¤chenverzierungen unter Beachtung von Gestaltungsprinzipien sowie historischen und zeitgenÃ¶ssischen Stilelementen auswÃ¤hlen und nach Vorgaben und freier Gestaltung ausfÃ¼hren, insbesondere
- 
+
 6
- 
- 
- 
+
+
+
 aa)
 gravieren
- 
+
 bb)
 radieren
- 
- 
+
+
 8
- 
- 
+
+
 cc)
 punzieren
- 
+
 dd)
 strukturieren
- 
- 
- 
+
+
+
 7
- 
+
 ee)
 sandeln
- 
+
 ff)
 Aufsetzarbeiten ausfÃ¼hren
 c)
 Negativformen aus Abformmaterialien herstellen, insbesondere aus Silicon
- 
- 
- 
+
+
+
 3
 11
 Vergolden, Versilbern, Metallisieren (Â§ 3 Nr. 11)
 a)
 Metallisierungen mit Schlagmetallen und Blattaluminium ausfÃ¼hren
 3
- 
- 
- 
+
+
+
 b)
 Glanz- und Mattvergoldungen sowie Glanz- und Mattversilberungen auf Polimentgrund ausfÃ¼hren
- 
+
 7
- 
- 
+
+
 c)
 Ã–lvergoldungen ausfÃ¼hren
 d)
 Metallpulver auf UntergrÃ¼nde auftragen
- 
- 
+
+
 2
- 
+
 e)
 Mordentvergoldungen ausfÃ¼hren
- 
- 
- 
+
+
+
 4
 f)
 Hinterglasvergoldungen und Hinterglasversilberungen in Glanz- und Mattechnik ausfÃ¼hren
@@ -375,62 +375,62 @@ Herstellen und Gestalten von Rahmungen (Â§ 3 Nr. 12)
 a)
 Rahmenleisten zuschneiden und verbinden
 4
- 
- 
- 
+
+
+
 b)
 Flachglas objektbezogen auswÃ¤hlen und zuschneiden
 c)
 Passepartout objektbezogen auswÃ¤hlen und zuschneiden
- 
- 
+
+
 5
- 
+
 d)
 Bilder und Objekte, insbesondere unter Beachtung konservatorischer Gesichtspunkte, einrahmen
 e)
 Rahmenleisten, insbesondere unter Beachtung von KundenwÃ¼nschen sowie gestalterischen und stilistischen Merkmalen, auswÃ¤hlen
- 
- 
- 
+
+
+
 3
 13
 AusfÃ¼hren von Maltechniken (Â§ 3 Nr. 13)
 a)
 Streich- und Malwerkzeuge auswÃ¤hlen und handhaben
- 
- 
+
+
 3
- 
+
 b)
 ÃœberzÃ¼ge nach gestalterischen und maltechnischen Gesichtspunkten auswÃ¤hlen und auftragen
 c)
 Schriften malen
- 
- 
- 
+
+
+
 5
 d)
 Farb- und Bindemittel ansetzen und mischen
 e)
 Objekte, insbesondere unter Beachtung stilistischer Merkmale, farbig gestalten und fassen
- 
- 
- 
+
+
+
 10
 f)
 Imitationsmalereien ausfÃ¼hren
- 
- 
- 
+
+
+
 10
 14
 AusfÃ¼hren von Erhaltungs- und Restaurierungsarbeiten (Â§ 3 Nr. 14)
 a)
 Fehler und SchÃ¤den hinsichtlich ihrer Ursachen erkennen und beurteilen sowie Arbeitsumfang der Restaurierung abschÃ¤tzen und dokumentieren
- 
- 
- 
+
+
+
 5
 b)
 Objekte unter Beachtung kunsthistorischer Aspekte und denkmalpflegerischer Vorgaben reinigen und restaurieren
@@ -438,9 +438,9 @@ Objekte unter Beachtung kunsthistorischer Aspekte und denkmalpflegerischer Vorga
 QualitÃ¤tssicherung (Â§ 3 Nr. 15)
 a)
 Ziele, Aufgaben und Bedeutung der QualitÃ¤tssicherung beschreiben
- 
- 
- 
+
+
+
 2
 b)
 Arbeitsergebnisse kontrollieren

@@ -265,14 +265,14 @@ Gemeinsame integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Leistungen
 
-- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit mindestens �ausreichend“,
-- 2. :: im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens �ausreichend“,
-- 3. :: in mindestens drei Prüfungsbereichen von Teil 2 der Abschlussprüfung mit mindestens �ausreichend“ und
-- 4. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit �ungenügend“
+- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit mindestens ausreichend“,
+- 2. :: im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens ausreichend“,
+- 3. :: in mindestens drei Prüfungsbereichen von Teil 2 der Abschlussprüfung mit mindestens ausreichend“ und
+- 4. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit ungenügend“
 
 bewertet worden sind.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als �ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 § 10 - Abschlussprüfung in der Fachrichtung Halbzeuge
 
@@ -389,14 +389,14 @@ bewertet worden sind.
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Leistungen
 
-- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit mindestens �ausreichend“,
-- 2. :: im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens �ausreichend“,
-- 3. :: in mindestens drei Prüfungsbereichen von Teil 2 der Abschlussprüfung mit mindestens �ausreichend“ und
-- 4. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit �ungenügend“
+- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit mindestens ausreichend“,
+- 2. :: im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens ausreichend“,
+- 3. :: in mindestens drei Prüfungsbereichen von Teil 2 der Abschlussprüfung mit mindestens ausreichend“ und
+- 4. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit ungenügend“
 
 bewertet worden sind.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als �ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 § 14 - Abschlussprüfung in der Fachrichtung Mehrschichtkautschukteile
 
@@ -516,14 +516,14 @@ bewertet worden sind.
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Leistungen
 
-- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit mindestens �ausreichend“,
-- 2. :: im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens �ausreichend“,
-- 3. :: in mindestens drei Prüfungsbereichen von Teil 2 der Abschlussprüfung mit mindestens �ausreichend“ und
-- 4. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit �ungenügend“
+- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit mindestens ausreichend“,
+- 2. :: im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens ausreichend“,
+- 3. :: in mindestens drei Prüfungsbereichen von Teil 2 der Abschlussprüfung mit mindestens ausreichend“ und
+- 4. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit ungenügend“
 
 bewertet worden sind.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als �ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 § 18 - Abschlussprüfung in der Fachrichtung Compound- und Masterbatchherstellung
 
@@ -637,14 +637,14 @@ bewertet worden sind.
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Leistungen
 
-- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit mindestens �ausreichend“,
-- 2. :: im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens �ausreichend“,
-- 3. :: in mindestens drei Prüfungsbereichen von Teil 2 der Abschlussprüfung mit mindestens �ausreichend“ und
-- 4. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit �ungenügend“
+- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit mindestens ausreichend“,
+- 2. :: im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens ausreichend“,
+- 3. :: in mindestens drei Prüfungsbereichen von Teil 2 der Abschlussprüfung mit mindestens ausreichend“ und
+- 4. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit ungenügend“
 
 bewertet worden sind.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als �ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 § 22 - Abschlussprüfung in der Fachrichtung Bauteile
 
@@ -757,14 +757,14 @@ bewertet worden sind.
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Leistungen
 
-- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit mindestens �ausreichend“,
-- 2. :: im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens �ausreichend“,
-- 3. :: in mindestens drei Prüfungsbereichen von Teil 2 der Abschlussprüfung mit mindestens �ausreichend“ und
-- 4. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit �ungenügend“
+- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit mindestens ausreichend“,
+- 2. :: im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens ausreichend“,
+- 3. :: in mindestens drei Prüfungsbereichen von Teil 2 der Abschlussprüfung mit mindestens ausreichend“ und
+- 4. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit ungenügend“
 
 bewertet worden sind.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als �ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 § 26 - Abschlussprüfung in der Fachrichtung Faserverbundtechnologie
 
@@ -880,14 +880,14 @@ bewertet worden sind.
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Leistungen
 
-- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit mindestens �ausreichend“,
-- 2. :: im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens �ausreichend“,
-- 3. :: in mindestens drei Prüfungsbereichen von Teil 2 der Abschlussprüfung mit mindestens �ausreichend“ und
-- 4. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit �ungenügend“
+- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit mindestens ausreichend“,
+- 2. :: im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens ausreichend“,
+- 3. :: in mindestens drei Prüfungsbereichen von Teil 2 der Abschlussprüfung mit mindestens ausreichend“ und
+- 4. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit ungenügend“
 
 bewertet worden sind.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als �ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 § 30 - Abschlussprüfung in der Fachrichtung Kunststofffenster
 
@@ -998,14 +998,14 @@ bewertet worden sind.
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Leistungen
 
-- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit mindestens �ausreichend“,
-- 2. :: im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens �ausreichend“,
-- 3. :: in mindestens drei Prüfungsbereichen von Teil 2 der Abschlussprüfung mit mindestens �ausreichend“ und
-- 4. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit �ungenügend“
+- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit mindestens ausreichend“,
+- 2. :: im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens ausreichend“,
+- 3. :: in mindestens drei Prüfungsbereichen von Teil 2 der Abschlussprüfung mit mindestens ausreichend“ und
+- 4. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit ungenügend“
 
 bewertet worden sind.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als �ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 § 34 - Inkrafttreten, Außerkrafttreten
 
@@ -1053,7 +1053,7 @@ Unterscheiden, Zuordnen und Handhaben von polymeren Werkstoffen, Zuschlag- und H
 
 8
 
-�
+
 
 2
 
@@ -1069,7 +1069,7 @@ Herstellen von Bauteilen und Baugruppen\\
 
 16
 
-�
+
 
 3
 
@@ -1087,7 +1087,7 @@ Messen, Steuern, Regeln\\
 
 8
 
-�
+
 
 4
 
@@ -1099,14 +1099,14 @@ Sicherstellen der Betriebsfähigkeit von technischen Systemen zur Be- und Verarb
 
 6
 
-�
+
 
 - c) :: Maschinen, Geräte und Anlagen in Betrieb nehmen und bedienen
 - d) :: Funktion von Maschinen und Systemen durch Messen, Steuern und Regeln überwachen und sicherstellen
 - e) :: Störungen an Maschinen und Systemen, auch unter Beachtung von Schnittstellen, feststellen und Fehler eingrenzen
 - f) :: Möglichkeiten der Beseitigung von Störungen und Fehlern beurteilen, Maßnahmen zur Störungs- und Fehlerbeseitigung ergreifen
 
-�
+
 
 4
 
@@ -1121,7 +1121,7 @@ Warten und Instandhalten von Betriebsmitteln\\
 
 4
 
-�
+
 
 6
 
@@ -1129,11 +1129,11 @@ Fertigungsplanung und\\
 -steuerung\\
 (§ 4 Absatz 2 Abschnitt A Nummer 6)
 
-�
 
-�
 
-�
+
+
+
 
 6.1
 
@@ -1145,12 +1145,12 @@ Fertigungsplanung\\
 
 4
 
-�
+
 
 - c) :: Personaleinsatz im Arbeitsbereich abschätzen
 - d) :: Materialfluss planen
 
-�
+
 
 2
 
@@ -1164,12 +1164,12 @@ Sicherstellen der Fertigungsvoraussetzungen\\
 
 4
 
-�
+
 
 - c) :: Einsatzmaterialien aufbereiten
 - d) :: Materialfluss sicherstellen
 
-�
+
 
 2
 
@@ -1182,20 +1182,20 @@ Fertigungssteuerung\\
 - b) :: Prozessleittechnik anwenden
 - c) :: Prozessabläufe auswerten, optimieren und dokumentieren
 
-�
+
 
 4
 
-�
 
-�
+
+
 
 - d) :: Störungen im Prozessablauf feststellen und Maßnahmen zur Beseitigung ergreifen
 - e) :: Auftragsabwicklung, Leistungen und Verbrauch dokumentieren
 
-�
 
-�
+
+
 
 7
 
@@ -1206,7 +1206,7 @@ Zur Fortsetzung der Berufsausbildung sollen Ausbildungsinhalte der Berufsbildpos
 
 8
 
-�
+
 
 \\
 \\
@@ -1253,7 +1253,7 @@ Anwenden von Verfahrenstechniken zur Herstellung von Formteilen\\
 - g) :: Fehler und Störungen im Produktionsablauf eingrenzen; Maßnahmen zu ihrer Behebung ergreifen und dokumentieren
 - h) :: verfahrensbezogene Berechnungen durchführen
 
-�
+
 
 24
 
@@ -1262,9 +1262,9 @@ Anwenden von Verfahrenstechniken zur Herstellung von Formteilen\\
 Anwenden verfahrensspezifischer Steuerungs- und Automatisierungstechnik\\
 (§ 4 Absatz 2 Abschnitt B Nummer 2)
 
-�
 
-�
+
+
 
 2.1
 
@@ -1274,20 +1274,20 @@ Automatisierungstechnik\\
 - a) :: Mess-, Steuerungs- und Regelungstechnik sowie deren Einrichtungen an Maschinen und Geräten unter Beachtung der Sicherheitsvorschriften anwenden
 - b) :: Fehler und Störungen eingrenzen; Maßnahmen zu ihrer Behebung ergreifen und dokumentieren
 
-�
+
 
 4
 
-�
 
-�
+
+
 
 - c) :: Programmabläufe anhand von Funktionsplänen nachvollziehen und überwachen
 - d) :: Parameter nach betrieblichen Vorgaben einstellen und Regelkreise optimieren
 
-�
 
-�
+
+
 
 2.2
 
@@ -1299,7 +1299,7 @@ Pneumatik und Hydraulik\\
 - c) :: Fehler und Störungen in steuerungstechnischen Systemen und Baugruppen eingrenzen und Maßnahmen zu ihrer Behebung ergreifen
 - d) :: Bauteile, insbesondere im Rahmen von Wartungsarbeiten, nach Wartungsplänen austauschen
 
-�
+
 
 4
 
@@ -1312,7 +1312,7 @@ Bedienen automatisierter Anlagen\\
 - b) :: Fehler und Störungen im Produktionsablauf eingrenzen und Maßnahmen zu ihrer Behebung ergreifen
 - c) :: Wartungs-, Instandhaltungspläne und Bedienungsanleitungen anwenden
 
-�
+
 
 4
 
@@ -1328,7 +1328,7 @@ Aufbereiten polymerer Werkstoffe zur Herstellung von Formteilen\\
 - e) :: Mischungsverhältnisse der Komponenten berechnen und Mischungen unter Beachtung der Rezeptur herstellen
 - f) :: Recyclingverfahren von Formteilen unterscheiden und anwenden
 
-�
+
 
 6
 
@@ -1341,7 +1341,7 @@ Handhaben von Betriebsmitteln zur Herstellung von Formteilen\\
 - b) :: Funktionsfähigkeit von Betriebsmitteln sicherstellen
 - c) :: Werkzeuge reinigen, konservieren und einlagern
 
-�
+
 
 6
 
@@ -1353,19 +1353,19 @@ Be- und Nachbearbeiten von Formteilen\\
 - a) :: manuelle und maschinelle Verfahren zum spanlosen und spanenden Trennen und Bearbeiten von Formteilen unterscheiden und anwenden
 - b) :: Oberflächen nachbehandeln
 
-�
 
-�
 
-�
 
-�
+
+
+
+
 
 - c) :: Formteile nachbehandeln, insbesondere tempern oder konditionieren
 - d) :: Formteile nach Auftragsdaten, technischen Zeichnungen und Kundenanforderungen kennzeichnen
 - e) :: Fertigteile verpacken, transportieren und lagern
 
-�
+
 
 4
 
@@ -1415,7 +1415,7 @@ Anwenden von Verfahrenstechniken zur Herstellung von Halbzeugen\\
 - h) :: Fehler und Störungen im Produktionsablauf eingrenzen; Maßnahmen zu ihrer Behebung ergreifen und dokumentieren
 - i) :: verfahrensbezogene Berechnungen durchführen
 
-�
+
 
 24
 
@@ -1424,11 +1424,11 @@ Anwenden von Verfahrenstechniken zur Herstellung von Halbzeugen\\
 Anwenden verfahrensspezifischer Steuerungs- und Automatisierungstechnik\\
 (§ 4 Absatz 2 Abschnitt C Nummer 2)
 
-�
 
-�
 
-�
+
+
+
 
 2.1
 
@@ -1439,7 +1439,7 @@ Automatisierungstechnik\\
 - b) :: Programmabläufe anhand von Funktionsplänen nachvollziehen und überwachen
 - c) :: Parameter nach betrieblichen Vorgaben einstellen und Regelkreise optimieren
 
-�
+
 
 3
 
@@ -1453,7 +1453,7 @@ Pneumatik und Hydraulik\\
 - c) :: Bauteile, insbesondere im Rahmen von Wartungsarbeiten, nach Wartungsplan austauschen
 - d) :: Fehler und Störungen in steuerungstechnischen Systemen und Baugruppen eingrenzen; Maßnahmen zu ihrer Behebung ergreifen
 
-�
+
 
 3
 
@@ -1466,7 +1466,7 @@ Bedienen automatisierter Anlagen\\
 - b) :: Fehler und Störungen im Produktionsablauf eingrenzen; Maßnahmen zu ihrer Behebung ergreifen
 - c) :: Wartungs- und Instandhaltungspläne sowie Bedienungsanleitungen anwenden
 
-�
+
 
 4
 
@@ -1482,7 +1482,7 @@ Aufbereiten polymerer Werkstoffe zur Herstellung von Halbzeugen\\
 - e) :: Zuschlag- und Hilfsstoffe gemäß der Mischungsanforderungen und Mischungseigenschaften auswählen und einsetzen
 - f) :: Recyclingverfahren von Halbzeugen unterscheiden und anwenden
 
-�
+
 
 8
 
@@ -1494,7 +1494,7 @@ Handhaben von Betriebsmitteln zur Herstellung von Halbzeugen\\
 - a) :: Werkzeuge vorbereiten, rüsten, reinigen, konservieren und einlagern
 - b) :: Funktionsfähigkeit der Betriebsmittel sicherstellen
 
-�
+
 
 6
 
@@ -1509,7 +1509,7 @@ Be- und Nachbearbeiten von Halbzeugen\\
 - d) :: Halbzeuge nachbehandeln, insbesondere tempern oder konditionieren
 - e) :: Halbzeuge nach Auftragsdaten, technischen Zeichnungen und Kundenanforderungen kennzeichnen
 
-�
+
 
 4
 
@@ -1558,7 +1558,7 @@ Anwenden von Verfahrenstechniken zur Herstellung von Mehrschichtkautschukteilen\
 - g) :: Fehler und Störungen im Produktionsablauf eingrenzen; Maßnahmen zu ihrer Behebung ergreifen und dokumentieren
 - h) :: verfahrensbezogene Berechnungen durchführen
 
-�
+
 
 22
 
@@ -1567,11 +1567,11 @@ Anwenden von Verfahrenstechniken zur Herstellung von Mehrschichtkautschukteilen\
 Anwenden verfahrensspezifischer Steuerungs- und Automatisierungstechnik\\
 (§ 4 Absatz 2 Abschnitt D Nummer 2)
 
-�
 
-�
 
-�
+
+
+
 
 2.1
 
@@ -1583,7 +1583,7 @@ Automatisierungstechnik\\
 - c) :: Programmabläufe anhand von Funktionsplänen nachvollziehen und überwachen
 - d) :: Parameter nach betrieblicher Vorgabe einstellen und Regelkreise optimieren
 
-�
+
 
 3
 
@@ -1597,7 +1597,7 @@ Pneumatik und Hydraulik\\
 - c) :: Fehler und Störungen in steuerungstechnischen Systemen und Baugruppen eingrenzen; Maßnahmen zu ihrer Behebung ergreifen und dokumentieren
 - d) :: Bauteile, insbesondere im Rahmen von Wartungsarbeiten, nach Wartungsplan austauschen
 
-�
+
 
 3
 
@@ -1610,7 +1610,7 @@ Bedienen automatisierter Anlagen\\
 - b) :: Fehler und Störungen im Produktionsablauf eingrenzen; Maßnahmen zu ihrer Behebung ergreifen und dokumentieren
 - c) :: Wartungs- und Instandhaltungspläne sowie Bedienungsanleitungen anwenden
 
-�
+
 
 4
 
@@ -1628,7 +1628,7 @@ Aufbereiten polymerer Werkstoffe und Festigkeitsträger zur Herstellung von Mehr
 - g) :: Zuschlag- und Hilfsstoffe gemäß der Mischungsanforderungen und Mischungseigenschaften auswählen und einsetzen
 - h) :: Recyclingverfahren von Mehrschichtkautschukteilen unterscheiden
 
-�
+
 
 8
 
@@ -1641,7 +1641,7 @@ Handhaben von Betriebsmitteln zur Herstellung von Mehrschichtkautschukteilen\\
 - b) :: universelle und werkstückabhängige Vorrichtungen zum Positionieren, Spannen, Führen und Teilen vorbereiten und rüsten
 - c) :: Funktionsfähigkeit der Betriebsmittel sicherstellen
 
-�
+
 
 6
 
@@ -1655,7 +1655,7 @@ Be- und Nachbearbeiten von Mehrschichtkautschukteilen\\
 - c) :: Nachbehandlungsmöglichkeiten von Oberflächen unterscheiden; Verfahren anwenden
 - d) :: Halbzeuge und Endprodukte verpacken, transportieren und lagern
 
-�
+
 
 6
 
@@ -1705,7 +1705,7 @@ Anwenden von Verfahrenstechniken zur Herstellung von Compounds und Masterbatches
 - h) :: Fehler und Störungen im Produktionsablauf eingrenzen; Maßnahmen zu ihrer Behebung ergreifen und dokumentieren
 - i) :: verfahrensbezogene Berechnungen durchführen
 
-�
+
 
 26
 
@@ -1722,7 +1722,7 @@ Aufbereiten polymerer Werkstoffe\\
 - f) :: Mischungsverhältnisse der Komponenten berechnen und Mischungen unter Beachtung des Rezepturaufbaus herstellen und materialspezifisch aufbereiten
 - g) :: Farbmittel, Zuschlag- und Hilfsstoffe gemäß der Mischungsanforderungen und Mischungseigenschaften auswählen und einsetzen
 
-�
+
 
 12
 
@@ -1736,20 +1736,20 @@ Anwenden von Prüfverfahren\\
 - c) :: Prüfeinrichtungen, Verbrauchsmaterialien und Hilfsmittel auswählen und bereitstellen
 - d) :: Stichproben nach Vorgaben entnehmen, Probenentnahme dokumentieren
 
-�
+
 
 12
 
-�
 
-�
+
+
 
 - e) :: physikalische und chemische Prüfungen von polymeren Werkstoffen durchführen, insbesondere hinsichtlich Dichte, Viskosität, Farbe und mechanischer, elektrischer, elektrostatischer und thermischer Eigenschaften
 - f) :: Prüfergebnisse analysieren; Fehlerursachen feststellen und beseitigen
 
-�
 
-�
+
+
 
 4
 
@@ -1759,7 +1759,7 @@ Durchführen von Maßnahmen zum werkstofflichen Recycling\\
 - a) :: Arten von Recyclingverfahren unterscheiden und auswählen
 - b) :: Möglichkeiten der stofflichen Wiederverwendung nutzen
 
-�
+
 
 2
 
@@ -1810,7 +1810,7 @@ Fügen, Montieren und Demontieren von Rohrleitungssystemen, Bauteilen und Baugru
 - i) :: Recyclingverfahren unterscheiden und Recyclingsysteme nutzen
 - j) :: verfahrensbezogene Berechnungen durchführen
 
-�
+
 
 26
 
@@ -1823,13 +1823,13 @@ Be- und Nachbearbeiten von Rohrleitungssystemen, Bauteilen und Baugruppen\\
 - b) :: Verfahren zum Umformen unterscheiden und anwenden
 - c) :: Nachbearbeitungsmöglichkeiten von Oberflächen unterscheiden und anwenden
 
-�
 
-�
 
-�
 
-�
+
+
+
+
 
 - d) :: Reparaturverfahren unterscheiden und durchführen
 - e) :: Oberflächen und Kanten schützen
@@ -1837,7 +1837,7 @@ Be- und Nachbearbeiten von Rohrleitungssystemen, Bauteilen und Baugruppen\\
 - g) :: verfahrensbezogene Berechnungen durchführen
 - h) :: Prüfverfahren anwenden, Ergebnisse beurteilen und dokumentieren
 
-�
+
 
 \\
 16
@@ -1850,7 +1850,7 @@ Erstellen und Anwenden von technischen Unterlagen\\
 - a) :: Rohrleitungsteile und -systeme oder Bauteile und -gruppen ausmessen und Skizzen erstellen
 - b) :: technische Zeichnungen und isometrische Darstellungen nach Skizzen erstellen, Abwicklungen anfertigen
 
-�
+
 
 10
 
@@ -1902,7 +1902,7 @@ Anwenden von Verfahrenstechniken zur Herstellung von Faserverbundbauteilen\\
 - j) :: Verarbeitungsverfahren unter Berücksichtigung der verfahrensspezifischen Parameter anwenden, Parameter einstellen, optimieren und dokumentieren
 - k) :: verfahrensbezogene Berechnungen durchführen
 
-�
+
 
 20
 
@@ -1911,11 +1911,11 @@ Anwenden von Verfahrenstechniken zur Herstellung von Faserverbundbauteilen\\
 Anwenden verfahrensspezifischer Steuerungs- und Automatisierungstechnik\\
 (§ 4 Absatz 2 Abschnitt G Nummer 2)
 
-�
 
-�
 
-�
+
+
+
 
 2.1
 
@@ -1927,7 +1927,7 @@ Automatisierungstechnik\\
 - c) :: Programmabläufe anhand von Funktionsplänen nachvollziehen und überwachen
 - d) :: Parameter nach betrieblicher Vorgabe einstellen und Regelkreise optimieren
 
-�
+
 
 3
 
@@ -1940,7 +1940,7 @@ Bedienen automatisierter Anlagen\\
 - b) :: Fehler und Störungen im Produktionsablauf eingrenzen, Maßnahmen zu ihrer Behebung ergreifen und dokumentieren
 - c) :: Wartungs- und Instandhaltungspläne sowie Bedienungsanleitungen anwenden
 
-�
+
 
 3
 
@@ -1958,7 +1958,7 @@ Handhaben von polymeren Werkstoffen, Fasermaterialien, Stütz- und Hilfsstoffen\
 - g) :: Recyclingverfahren von Faserverbundwerkstoffen unterscheiden
 - h) :: Vorgaben für Lagerung und Transport anwenden
 
-�
+
 
 6
 
@@ -1974,7 +1974,7 @@ Fügen, Montieren und Demontieren von Bauteilen und Baugruppen aus Faserverbundw
 - e) :: Bauteile nach Auftragsdaten, technischen Zeichnungen oder Kundenanforderungen kennzeichnen
 - f) :: Bauteile und Baugruppen verpacken, transportieren und lagern
 
-�
+
 
 4
 
@@ -1988,7 +1988,7 @@ Be- und Nachbearbeiten von Bauteilen und Baugruppen aus Faserverbundwerkstoffen\
 - c) :: Reparaturverfahren unterscheiden und durchführen
 - d) :: Nachbehandlung und Maßnahmen zum Oberflächenschutz durchführen
 
-�
+
 
 8
 
@@ -2002,7 +2002,7 @@ Handhaben von Werkzeugen und Vorrichtungen\\
 - c) :: Funktionsfähigkeit der Betriebsmittel sicherstellen
 - d) :: Werkzeuge reinigen und einlagern
 
-�
+
 
 4
 
@@ -2016,7 +2016,7 @@ Anwenden von Prüfverfahren\\
 - c) :: zerstörungsfreie Prüfverfahren, insbesondere Röntgenprüfung, Ultraschallprüfung, Thermografieprüfung und Klopfprüfung, unterscheiden
 - d) :: Maß- und Sichtprüfungen durchführen
 
-�
+
 
 4
 
@@ -2068,7 +2068,7 @@ Fügen, Montieren und Demontieren von Fenster-, Tür- und Fassadenelementen\\
 - j) :: Vorschriften zur Lagerung und zum Transport anwenden
 - k) :: Zusatz- und Hilfsstoffe, insbesondere Glas, Füllungen, Paneele, Kleb- und Dichtstoffe und Dämmmaterialien, den Einsatzgebieten zuordnen und anwenden
 
-�
+
 
 \\
 \\
@@ -2088,9 +2088,9 @@ Fügen, Montieren und Demontieren von Fenster-, Tür- und Fassadenelementen\\
 \\
 20
 
-�
 
-�
+
+
 
 - l) :: Schließverfahren unterscheiden, Schließsysteme einbauen
 - m) :: Sicherheitsbeschläge unterschiedlicher Sicherheitsstufen auswählen und einbauen
@@ -2098,9 +2098,9 @@ Fügen, Montieren und Demontieren von Fenster-, Tür- und Fassadenelementen\\
 - o) :: demontierte Fenster-, Tür- und Fassadenelemente dem Recycling zuführen
 - p) :: verfahrensbezogene Berechnungen durchführen
 
-�
 
-�
+
+
 
 2
 
@@ -2113,7 +2113,7 @@ Anwenden verfahrensspezifischer Steuerungs- und Automatisierungstechnik\\
 - d) :: Aufbau und Wirkungsweise von Automatisierungssystemen unterscheiden und Systeme bedienen
 - e) :: Fehler und Störungen im Produktionsablauf eingrenzen; Maßnahmen zu ihrer Behebung ergreifen und dokumentieren
 
-�
+
 
 10
 
@@ -2128,7 +2128,7 @@ Be- und Nachbearbeiten von Fenster-, Tür- und Fassadenelementen\\
 - d) :: Verfahren zum Umformen anwenden
 - e) :: Oberflächen und Kanten schützen
 
-�
+
 
 14
 
@@ -2141,7 +2141,7 @@ Anwenden von Prüfverfahren\\
 - b) :: Prüfverfahren, insbesondere Ecken- und Funktionsprüfungen, durchführen und Ergebnisse beurteilen
 - c) :: Nachbehandlungsmöglichkeiten von Oberflächen anwenden
 
-�
+
 
 8
 
@@ -2187,7 +2187,7 @@ Berufsbildung, Arbeits- und Tarifrecht\\
 - d) :: wesentliche Teile des Arbeitsvertrages nennen
 - e) :: wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
-�
+
 
 2
 
@@ -2199,7 +2199,7 @@ Aufbau und Organisation des Ausbildungsbetriebes\\
 - c) :: Beziehung des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 - d) :: Grundlagen, Aufgaben und Arbeitsweisen der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
-�
+
 
 3
 
@@ -2239,7 +2239,7 @@ Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsber
 - c) :: Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 - d) :: Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
-�
+
 
 5
 
@@ -2253,14 +2253,14 @@ Durchführen von qualitätssichernden Maßnahmen\\
 
 4
 
-�
+
 
 - e) :: betriebliche Qualitätssicherungssysteme im Arbeitsbereich anwenden und Ursachen von Qualitätsmängeln systematisch suchen, beseitigen und dokumentieren
 - f) :: Prüfverfahren und Prüfmittel auswählen, Prüfverfahren und Prüfmittel anwenden, Ergebnisse bewerten und dokumentieren
 - g) :: zur kontinuierlichen Verbesserung und Optimierung der Qualität beitragen
 - h) :: statistische Verfahren zur Qualitätssicherung anwenden
 
-�
+
 
 6
 
@@ -2279,13 +2279,13 @@ Betriebliche und technische Kommunikation, Datenschutz\\
 
 10
 
-�
+
 
 - h) :: Informationen, auch aus englischsprachigen technischen Unterlagen, bewerten
 - i) :: Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und zielorientiert führen, kulturelle Identitäten und Besonderheiten berücksichtigen
 - j) :: Sachverhalte darstellen, Protokolle anfertigen, englische Fachbegriffe in der Kommunikation anwenden
 
-�
+
 
 4
 
@@ -2303,12 +2303,12 @@ Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse\\
 
 6
 
-�
+
 
 - g) :: Auftragsabwicklungen unter Berücksichtigung sicherheitstechnischer, betriebswirtschaftlicher und ökologischer Gesichtspunkte festlegen sowie mit vor- und nachgelagerten Bereichen abstimmen
 - h) :: Teilaufträge veranlassen, Ergebnisse prüfen
 - i) :: Arbeitsschritte unter Berücksichtigung funktionaler und fertigungstechnischer Gesichtspunkte festlegen
 
-�
+
 
 4

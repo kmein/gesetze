@@ -66,7 +66,7 @@ Organe der Filmförderungsanstalt sind
 - 9. :: ein Mitglied, gemeinsam durch den ANGA Verband Deutscher Kabelnetzbetreiber e. V., den eco -- Verband der Internetwirtschaft e. V. sowie den Bundesverband Informationswirtschaft, Telekommunikation und neue Medien e. V.,
 - 10. :: je ein Mitglied durch
   - a) :: die Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland und
-  - b) :: die Anstalt des öffentlichen Rechts �Zweites Deutsches Fernsehen“,
+  - b) :: die Anstalt des öffentlichen Rechts Zweites Deutsches Fernsehen“,
 - 11. :: zwei Mitglieder durch den Verband Privater Rundfunk und Telemedien e. V.,
 - 12. :: drei Mitglieder durch die Allianz Deutscher Produzenten -- Film & Fernsehen e. V.,
 - 13. :: je ein Mitglied durch
@@ -678,7 +678,7 @@ Der Verwaltungsrat kann Einzelheiten zu den Bestimmungen des § 54 Absatz 3, des
 
 § 73 - Förderhilfen, Referenzpunkte
 
-(1) Referenzfilmförderung wird dem Hersteller eines programmfüllenden Films mit Herstellungskosten bis zu 8 Millionen Euro gewährt, wenn der Film mindestens 150 000 Referenzpunkte erreicht hat. Für Filme mit Herstellungskosten von mehr als 8 Millionen Euro und weniger als 20 Millionen Euro beträgt die ma�besonders wertvoll“ der Deutschen Film- und Medienbewertung erreicht, reduziert sich die zu erreichende Referenzpunktzahl jeweils um 50 000 Referenzpunkte.
+(1) Referenzfilmförderung wird dem Hersteller eines programmfüllenden Films mit Herstellungskosten bis zu 8 Millionen Euro gewährt, wenn der Film mindestens 150 000 Referenzpunkte erreicht hat. Für Filme mit Herstellungskosten von mehr als 8 Millionen Euro und weniger als 20 Millionen Euro beträgt die mabesonders wertvoll“ der Deutschen Film- und Medienbewertung erreicht, reduziert sich die zu erreichende Referenzpunktzahl jeweils um 50 000 Referenzpunkte.
 (2) Die Referenzpunkte werden aus dem Zuschauererfolg sowie dem Erfolg bei international bedeutsamen Festivals und Preisen ermittelt.
 (3) Der Vorstand kann auf Antrag abweichend von Absatz 1 nicht programmfüllende Filme mit einer Vorführzeit von mehr als 30 Minuten im Rahmen der Referenzfilmförderung zulassen, wenn die Gesamtwürdigung des jeweiligen Films dies rechtfertigt.
 
@@ -693,8 +693,8 @@ Der Verwaltungsrat kann Einzelheiten zu den Bestimmungen des § 54 Absatz 3, des
 (1) Die Berücksichtigung des Erfolgs bei Festivals und Preisen setzt bei programmfüllenden Filmen voraus, dass der Film im Inland eine Besucherzahl von mindestens 50 000 erreicht hat.
 (2) Preise und Erfolge bei Festivals werden wie folgt berücksichtigt:
 
-- 1. :: Auszeichnung eines Films mit dem Deutschen Filmpreis, dem Academy Award (�Oscar“) oder dem Wettbewerbshauptpreis auf den internationalen Festivals in Berlin, Cannes oder Venedig mit jeweils 200 000 Referenzpunkten,
-- 2. :: Auszeichnung eines Films mit dem Europäischen Filmpreis, Wettbewerbshauptpreis auf sonstigen international bedeutsamen Festivals, Nominierung eines Films für den Deutschen Filmpreis oder den Academy Award (�Oscar“) sowie eine Teilnahme am Hauptwettbewerb der internationalen Festivals in Berlin, Cannes oder Venedig mit jeweils 100 000 Referenzpunkten,
+- 1. :: Auszeichnung eines Films mit dem Deutschen Filmpreis, dem Academy Award (Oscar“) oder dem Wettbewerbshauptpreis auf den internationalen Festivals in Berlin, Cannes oder Venedig mit jeweils 200 000 Referenzpunkten,
+- 2. :: Auszeichnung eines Films mit dem Europäischen Filmpreis, Wettbewerbshauptpreis auf sonstigen international bedeutsamen Festivals, Nominierung eines Films für den Deutschen Filmpreis oder den Academy Award (Oscar“) sowie eine Teilnahme am Hauptwettbewerb der internationalen Festivals in Berlin, Cannes oder Venedig mit jeweils 100 000 Referenzpunkten,
 - 3. :: Teilnahme am Hauptwettbewerb von sonstigen international bedeutsamen Festivals oder die Nominierung für den Europäischen Filmpreis mit jeweils 50 000 Referenzpunkten.
 
 (3) Bei der Berechnung der Referenzpunktzahl nach Absatz 2 werden die Nominierungen für den mit einem Preis auf demselben Festival ausgezeichneten Film nicht berücksichtigt. Die nach Absatz 2 Nummer 2 und 3 zu berücksichtigenden Festivalteilnahmen werden durch Richtlinie des Verwaltungsrats festgelegt. Bei der Festlegung ist neben der kulturellen Bedeutung des Festivals auch seiner Werbewirkung für den Zuschauererfolg im Inland und für den Auslandsabsatz angemessen Rechnung zu tragen.
@@ -703,7 +703,7 @@ Der Verwaltungsrat kann Einzelheiten zu den Bestimmungen des § 54 Absatz 3, des
 
 § 76 - Förderhilfen, Referenzpunkte
 
-(1) Referenzfilmförderung wird dem Hersteller eines programmfüllenden Kinder- oder Erstlingsfilms sowie dem Hersteller eines programmfüllenden Films mit Herstellungskosten bis zu 1 Million Euro (Filme mit niedrigen Herstellungskosten) gewährt, wenn der Film nach Ma�besonders wertvoll“ der Deutschen Film- und Medienbewertung erreicht, reduziert sich die zu erreichende Referenzpunktzahl auf 25 000 Referenzpunkte.
+(1) Referenzfilmförderung wird dem Hersteller eines programmfüllenden Kinder- oder Erstlingsfilms sowie dem Hersteller eines programmfüllenden Films mit Herstellungskosten bis zu 1 Million Euro (Filme mit niedrigen Herstellungskosten) gewährt, wenn der Film nach Mabesonders wertvoll“ der Deutschen Film- und Medienbewertung erreicht, reduziert sich die zu erreichende Referenzpunktzahl auf 25 000 Referenzpunkte.
 (2) Referenzfilmförderung wird dem Hersteller eines programmfüllenden Dokumentarfilms gewährt, wenn der Film mindestens 25 000 Referenzpunkte erreicht hat.
 (3) Der Vorstand kann auf Antrag abweichend von den Absätzen 1 und 2 nicht programmfüllende Filme mit einer Vorführzeit von mehr als 30 Minuten im Rahmen der Referenzfilmförderung zulassen, wenn die Gesamtwürdigung des jeweiligen Films dies rechtfertigt.
 
@@ -797,7 +797,7 @@ Wurde die nach § 83 Absatz 3 Satz 2 in Verbindung mit § 67 Absatz 2 zulässige
 § 91 - Referenzförderung
 
 (1) Referenzförderung wird dem Hersteller eines Kurzfilms sowie eines nicht programmfüllenden Kinderfilms gewährt, wenn der Film nach Maßgabe des Absatzes 2 mindestens 15 Referenzpunkte erreicht. Bei Filmen mit mindestens 40 Referenzpunkten werden die Referenzpunkte mit dem Faktor 1,5 multipliziert.
-(2) Die Referenzpunkte werden aus dem Erfolg bei international und national bedeutsamen Festivals und Preisen ermittelt. Für die Auszeichnung mit dem Prädikat �besonders wertvoll“ der Deutschen Film- und Medienbewertung erhält ein Film zehn Referenzpunkte.
+(2) Die Referenzpunkte werden aus dem Erfolg bei international und national bedeutsamen Festivals und Preisen ermittelt. Für die Auszeichnung mit dem Prädikat besonders wertvoll“ der Deutschen Film- und Medienbewertung erhält ein Film zehn Referenzpunkte.
 
 § 92 - Erfolge bei Festivals und Preise
 

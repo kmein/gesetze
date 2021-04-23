@@ -141,14 +141,14 @@ statt.
 
 (8) Die Abschlussprüfung ist bestanden, wenn die Leistungen
 
-- 1. :: im Gesamtergebnis mit mindestens �ausreichend“,
-- 2. :: im Prüfungsbereich �Labortechnik und Untersuchungswesen“ mit mindestens �ausreichend“,
-- 3. :: in mindestens einem weiteren Prüfungsbereich mit mindestens �ausreichend“,
-- 4. :: in keinem Prüfungsbereich mit �ungenügend“
+- 1. :: im Gesamtergebnis mit mindestens ausreichend“,
+- 2. :: im Prüfungsbereich Labortechnik und Untersuchungswesen“ mit mindestens ausreichend“,
+- 3. :: in mindestens einem weiteren Prüfungsbereich mit mindestens ausreichend“,
+- 4. :: in keinem Prüfungsbereich mit ungenügend“
 
 bewertet worden sind.
 
-(9) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als �ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
+(9) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 § 7 - Bestehende Berufsausbildungsverhältnisse
 

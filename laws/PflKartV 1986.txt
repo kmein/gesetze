@@ -224,7 +224,7 @@ Das Ergebnis der Prüfung auf Viruskrankheiten, Bakterielle Ringfäule und Schle
 - 5. :: das angegebene Nettogewicht der Partie, aus der die Probe für die Prüfung auf Knollenkrankheiten und äußere Mängel entnommen worden ist,
 - 6. :: im Falle der Anerkennung die Kategorie und die Klasse sowie die Anerkennungsnummer.
 
-(2) Die Anerkennungsnummer setzt sich aus den Buchstaben �DE”, dem von der Anerkennungsstelle genutzten Länderkennzeichen (Kennzeichen der Anerkennungsstelle), der Angabe der letzten Ziffer der Jahreszahl der Anerkennung, einem Gedankenstrich sowie einer mehrstelligen, von der Anerkennungsstelle festgesetzten Zahl zusammen.
+(2) Die Anerkennungsnummer setzt sich aus den Buchstaben DE”, dem von der Anerkennungsstelle genutzten Länderkennzeichen (Kennzeichen der Anerkennungsstelle), der Angabe der letzten Ziffer der Jahreszahl der Anerkennung, einem Gedankenstrich sowie einer mehrstelligen, von der Anerkennungsstelle festgesetzten Zahl zusammen.
 (3) Die Anerkennungsstelle benachrichtigt den Vermehrer von der Erteilung des Bescheides.
 (4) Erfüllt Pflanzgut die für die entsprechende Kategorie oder Klasse festgelegten Anforderungen nicht, so wird es auf Antrag als Pflanzgut in einer der dieser Kategorie oder Klasse jeweils nachfolgenden Kategorien oder Klassen anerkannt, wenn es die hierfür festgelegten Anforderungen erfüllt.
 
@@ -333,7 +333,7 @@ Ist Pflanzgut einer chemischen Behandlung unterzogen worden, so ist dies anzugeb
 
 Werden die Angaben auf einem Etikett oder bei Klarsichtpackungen, bei denen die Angaben durch die Verpackung hindurch deutlich lesbar sind, auf einem Einleger gemacht, so müssen die Etiketten oder Einleger die Kennfarbe haben.
 
-(4) Die Betriebsnummer wird für Betriebe, die Kleinpackungen herstellen, von der Anerkennungsstelle, in deren Bereich der Betrieb liegt, auf Antrag festgesetzt. Die Betriebsnummer setzt sich aus den Buchstaben �DE”, einer Zahl und dem Kennzeichen der Anerkennungsstelle zusammen.
+(4) Die Betriebsnummer wird für Betriebe, die Kleinpackungen herstellen, von der Anerkennungsstelle, in deren Bereich der Betrieb liegt, auf Antrag festgesetzt. Die Betriebsnummer setzt sich aus den Buchstaben DE”, einer Zahl und dem Kennzeichen der Anerkennungsstelle zusammen.
 
 § 31 - Abgabe in kleinen Mengen
 
@@ -481,8 +481,8 @@ Anlage 4 - (zu § 24 Absatz 2, § 24a, § 25 Satz 1 und § 32 Absatz 1a)Angaben 
 (Fundstelle: BGBl. I 2015, 2330;\\
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 - 1 :: Vorstufenpflanzgut, Basispflanzgut, Zertifiziertes Pflanzgut
-- 1.1 :: �EU-Norm“
-- 1.2 :: �Bundesrepublik Deutschland“
+- 1.1 :: EU-Norm“
+- 1.2 :: Bundesrepublik Deutschland“
 - 1.3 :: Kennzeichen der Anerkennungsstelle
 - 1.3a :: Amtlich zugeteilte Seriennummer
 - 1.4 :: Art
@@ -490,19 +490,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 - 1.6 :: Kategorie und die jeweilige Klasse oder EU-Klasse nach § 3
 - 1.7 :: Feldgeneration (Angabe liegt nach Maßgabe des § 3 im Ermessen des Inverkehrbringers)
 - 1.8 :: Anerkennungsnummer
-- 1.9 :: �Verschließung ...“ (Monat, Jahr)
+- 1.9 :: Verschließung ...“ (Monat, Jahr)
 - 1.10 :: Angegebenes Füllgewicht
 - 1.11 :: Angegebene Sortierung
 - 1.12 :: Erzeugerland
 - 1.13 :: Zusätzliche Angaben
 - 2 :: Pflanzgut nach § 3 Absatz 2 des Saatgutverkehrsgesetzes
 - 2.1 :: Angaben nach den Nummern 1.2, 1.3a, 1.4, 1.9, 1.11
-- 2.2 :: �Bundessortenamt“
+- 2.2 :: Bundessortenamt“
 - 2.3 :: Genehmigungsnummer des Bundessortenamtes
 - 2.3a :: Partienummer
 - 2.4 :: Vorläufige Bezeichnung der Sorte, ihre Kennnummer und, sofern vorhanden, in Klammern die vorgeschlagene Sortenbezeichnung
 - 2.5 :: Angaben nach § 32 Absatz 1 Satz 2 Nummer 3 Buchstabe d
-- 2.6 :: �Nur für Tests und Versuche“
+- 2.6 :: Nur für Tests und Versuche“
 - 3. :: Kennzeichnung mit einem nach den in § 24a Absatz 1 genannten Rechtsakten der Europäischen Union erforderlichen Pflanzenpass entsprechend den dort geregelten Vorgaben
 
 

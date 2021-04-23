@@ -7,12 +7,12 @@ Ausfertigungsdatum: 10.02.1992
 Inhalts√ºbersicht
 
 Abschnitt 1
-†
+
 Anwendungsbereich
 ¬ß 1
 Anwendungsbereich
 Abschnitt 2
-†
+
 Bilanz und Gewinn- und Verlustrechnung
 ¬ß 2
 Formbl√§tter
@@ -35,14 +35,14 @@ Verrechnung
 ¬ß 11
 Anteilige Zinsen
 Abschnitt 3
-†
+
 Vorschriften zu einzelnen Posten der Bilanz (Formblatt 1)
-†
-†
+
+
 Unterabschnitt 1
-†
-†
-†
+
+
+
 Posten der Aktivseite
 ¬ß 12
 Barreserve (Nr. 1)
@@ -62,12 +62,12 @@ Beteiligungen (Nr. 7)
 Ausgleichsforderungen gegen die √∂ffentliche Hand einschlie√ülich Schuldverschreibungen aus deren Umtausch (Nr. 10)
 ¬ß 20
 Sonstige Verm√∂gensgegenst√§nde (Nr. 14)
-†
-†
+
+
 Unterabschnitt 2
-†
-†
-†
+
+
+
 Posten der Passivseite
 ¬ß 21
 Verbindlichkeiten gegen√ºber Kreditinstituten (Nr. 1), Verbindlichkeiten gegen√ºber Kunden (Nr. 2)
@@ -84,7 +84,7 @@ Eventualverbindlichkeiten (Nr. 1 unter dem Strich)
 ¬ß 27
 Andere Verpflichtungen (Nr. 2 unter dem Strich)
 Abschnitt 4
-†
+
 Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung (Formbl√§tter 2 und 3)
 ¬ß 28
 Zinsertr√§ge (Formblatt 2 Spalte Ertr√§ge Nr. 1, Formblatt 3 Nr. 1)
@@ -99,7 +99,7 @@ Bestimmte Abschreibungen und Wertberichtigungen sowie Zuf√ºhrungen zu R√ºckstell
 ¬ß 33
 Bestimmte Abschreibungen und Wertberichtigungen (Formblatt 2 Spalte Aufwendungen Nr. 8, Formblatt 3 Nr. 15), bestimmte Ertr√§ge (Formblatt 2 Spalte Ertr√§ge Nr. 7, Formblatt 3 Nr. 16)
 Abschnitt 5
-†
+
 Anhang
 ¬ß 34
 Zus√§tzliche Erl√§uterungen
@@ -108,17 +108,17 @@ Zus√§tzliche Pflichtangaben
 ¬ß 36
 Termingesch√§fte
 Abschnitt 6
-†
+
 Konzernrechnungslegung
 ¬ß 37
 Konzernrechnungslegung
 Abschnitt 7
-†
+
 Ordnungswidrigkeiten
 ¬ß 38
 Ordnungswidrigkeiten
 Abschnitt 8
-†
+
 Schlu√üvorschriften
 ¬ß 39
 √úbergangsvorschriften
@@ -364,7 +364,7 @@ In diese Posten sind die in ¬ß 340c Abs. 2 des Handelsgesetzbuchs bezeichneten A
 (1) Zu den Posten der Bilanz und der Gewinn- und Verlustrechnung sind im Anhang anzugeben:
 
 - 1. :: eine Aufgliederung der in den Bilanzposten "Schuldverschreibungen und andere festverzinsliche Wertpapiere" (Aktivposten Nr. 5), "Aktien und andere nicht festverzinsliche Wertpapiere" (Aktivposten Nr. 6), "Beteiligungen" (Aktivposten Nr. 7), "Anteile an verbundenen Unternehmen" (Aktivposten Nr. 8) enthaltenen b√∂rsenf√§higen Wertpapiere nach b√∂rsennotierten und nicht b√∂rsennotierten Wertpapieren;
-- 1a. :: eine Aufgliederung des Bilanzpostens ‚ÄHandelsbestand‚Äú (Aktivposten Nr. 6a) in derivative Finanzinstrumente, Forderungen, Schuldverschreibungen und andere festverzinsliche Wertpapiere, Aktien und andere nicht festverzinsliche Wertpapiere sowie sonstige Verm√∂gensgegenst√§nde und eine Aufgliederung des Bilanzpostens ‚ÄHandelsbestand‚Äú (Passivposten Nr. 3a) in derivative Finanzinstrumente und Verbindlichkeiten;
+- 1a. :: eine Aufgliederung des Bilanzpostens Handelsbestand‚Äú (Aktivposten Nr. 6a) in derivative Finanzinstrumente, Forderungen, Schuldverschreibungen und andere festverzinsliche Wertpapiere, Aktien und andere nicht festverzinsliche Wertpapiere sowie sonstige Verm√∂gensgegenst√§nde und eine Aufgliederung des Bilanzpostens Handelsbestand‚Äú (Passivposten Nr. 3a) in derivative Finanzinstrumente und Verbindlichkeiten;
 - 2. :: der Betrag der nicht mit dem Niederstwert bewerteten b√∂rsenf√§higen Wertpapiere jeweils zu folgenden Posten der Bilanz "Schuldverschreibungen und andere festverzinsliche Wertpapiere" (Aktivposten Nr. 5) sowie "Aktien und andere nicht festverzinsliche Wertpapiere" (Aktivposten Nr. 6); es ist anzugeben, in welcher Weise die so bewerteten Wertpapiere von den mit dem Niederstwert bewerteten b√∂rsenf√§higen Wertpapieren abgegrenzt worden sind;
 - 3. :: der auf das Leasing-Gesch√§ft entfallende Betrag zu jedem davon betroffenen Posten der Bilanz, ferner die im Posten "Abschreibungen und Wertberichtigungen auf immaterielle Anlagewerte und Sachanlagen" (Formblatt 2 Spalte Aufwendungen Nr. 5, Formblatt 3 Nr. 11) enthaltenen Abschreibungen und Wertberichtigungen auf Leasinggegenst√§nde sowie die im Posten "Sonstige betriebliche Ertr√§ge" (Formblatt 2 Spalte Ertr√§ge Nr. 8, Formblatt 3 Nr. 8) enthaltenen Ertr√§ge aus Leasinggesch√§ften;
 - 4. :: die in den folgenden Posten enthaltenen wichtigsten Einzelbetr√§ge, sofern sie f√ºr die Beurteilung des Jahresabschlusses nicht unwesentlich sind: "Sonstige Verm√∂gensgegenst√§nde" (Formblatt 1, Aktivposten Nr. 14), "Sonstige Verbindlichkeiten" (Formblatt 1, Passivposten Nr. 5), "Sonstige betriebliche Aufwendungen" (Formblatt 2 Spalte Aufwendungen Nr. 6, Formblatt 3 Nr. 12), "Sonstige betriebliche Ertr√§ge" (Formblatt 2 Spalte Ertr√§ge Nr. 8, Formblatt 3 Nr. 8), "Au√üerordentliche Aufwendungen" (Formblatt 2 Spalte Aufwendungen Nr. 11, Formblatt 3 Nr. 21) und "Au√üerordentliche Ertr√§ge" (Formblatt 2 Spalte Ertr√§ge Nr. 10, Formblatt 3 Nr. 20). Die Betr√§ge und ihre Art sind zu erl√§utern;
@@ -481,1259 +481,1259 @@ bzgl. der einzelnen √Ñnderungen vgl. Fu√ünote)\\
 \\
 Aufwendungen
 Ertr√§ge
-†
+
 Euro
 Euro
 Euro
-†
+
 Euro
 Euro
 1.
 Zinsaufwendungen *1) *9)
-†
-†
+
+
 ...
 1.
 Zinsertr√§ge aus *2) *9)
-†
-†
+
+
 2.
 Provisionsaufwendungen *4)
-†
-†
+
+
 ...
-†
+
 a)
 Kredit- und Geldmarktgesch√§ften
 ...
-†
+
 3.
 Nettoaufwand des Handelsbestands
-†
-†
+
+
 ...
-†
+
 b)
 festverzinslichen Wertpapieren und Schuldbuchforderungen
 ...
 ...
 *6)
 *7)
-†
-†
-†
-†
-†
+
+
+
+
+
 ---
-†
+
 4.
 Allgemeine
-†
-†
-†
+
+
+
 2.
 Laufende Ertr√§ge aus
-†
-†
-†
+
+
+
 Verwaltungsaufwendungen
-†
-†
-†
-†
+
+
+
+
 a)
 Aktien und anderen nicht festverzinslichen Wertpapieren
 ...
-†
-†
+
+
 a)
 Personalaufwand
-†
-†
-†
-†
+
+
+
+
 b)
 Beteiligungen *3)
 ...
-†
-†
-†
+
+
+
 aa)
 L√∂hne und Geh√§lter
 ...
-†
-†
-†
+
+
+
 c)
 Anteilen an verbundenen Unternehmen
 ...
-†
-†
-†
+
+
+
 ab)
 Soziale Abgaben und Aufwendungen f√ºr Altersversorgung und f√ºr Unterst√ºtzung
 ....
 ...
-†
-†
-†
-†
+
+
+
+
 ---
-†
-†
-†
-†
-†
+
+
+
+
+
 ---
-†
-†
+
+
 3.
 Ertr√§ge aus Gewinngemeinschaften, Gewinnabf√ºhrungs- oder Teilgewinnabf√ºhrungsvertr√§gen
-†
+
 ...
-†
-†
-†
+
+
+
 darunter: f√ºr Altersversorgung ... Euro
-†
-†
-†
+
+
+
 4.
 Provisionsertr√§ge *5)
-†
+
 ...
-†
+
 b)
 andere Verwaltungsaufwendungen
-†
+
 ...
 ...
 5.
 Nettoertrag des Handelsbestands
-†
+
 ...
-†
-†
-†
+
+
+
 ---
-†
+
 *6)
 *7)
-†
-†
-†
+
+
+
 5.
 Abschreibungen und Wertberichtigungen auf immaterielle Anlagewerte und Sachanlagen *8)
-†
-†
+
+
 ...
 6.
 Ertr√§ge aus Zuschreibungen zu Forderungen und bestimmten Wertpapieren sowie aus der Aufl√∂sung von R√ºckstellungen im Kreditgesch√§ft
-†
+
 ...
 6.
 Sonstige betriebliche Aufwendungen
-†
-†
+
+
 ...
 7.
 Ertr√§ge aus Zuschreibungen zu Beteiligungen, Anteilen an verbundenen Unternehmen und wie Anlageverm√∂gen behandelten Wertpapieren
-†
+
 ...
 7.
 Abschreibungen und Wertberichtigungen auf Forderungen und bestimmte Wertpapiere sowie Zuf√ºhrungen zu R√ºckstellungen im Kreditgesch√§ft
-†
-†
+
+
 ...
 8.
 Sonstige betriebliche Ertr√§ge
-†
+
 ...
 8.
 Abschreibungen und Wertberichtigungen auf Beteiligungen, Anteile an verbundenen Unternehmen und wie Anlageverm√∂gen behandelte Wertpapiere
-†
-†
+
+
 ...
 9.
 (weggefallen)
-†
+
 ...
 9.
 Aufwendungen aus Verlust√ºbernahme
-†
-†
+
+
 ...
 10.
 Au√üerordentliche Ertr√§ge
-†
+
 ...
 10.
 (weggefallen)
-†
-†
+
+
 ...
 11.
 Ertr√§ge aus Verlust√ºbernahme
-†
+
 ...
 11.
 Au√üerordentliche Aufwendungen
-†
-†
+
+
 ...
 12.
 Jahresfehlbetrag
-†
+
 ...
 12.
 Steuern vom Einkommen und vom Ertrag
-†
-†
+
+
 ...
-†
+
 13.
 Sonstige Steuern, soweit nicht unter Posten 6 ausgewiesen
-†
-†
+
+
 ...
 14.
 Auf Grund einer Gewinngemeinschaft, eines Gewinnabf√ºhrungs- oder eines Teilgewinnabf√ºhrungsvertrags abgef√ºhrte Gewinne
-†
-†
+
+
 ...
 15.
 Jahres√ºberschu√ü
-†
-†
+
+
 ...
-†
-†
-†
+
+
+
 ---
-†
+
 Summe der Aufwendungen
-†
-†
+
+
 ...
-†
+
 Summe der Ertr√§ge
-†
+
 ...
-†
-†
-†
+
+
+
 ===
-†
-†
+
+
 ===
 noch Gewinn- und Verlustrechnung (Kontoform)
-†
-†
+
+
 Euro
 Euro
 1.
 Jahres√ºberschu√ü/Jahresfehlbetrag
-†
+
 ....
 2.
 Gewinnvortrag/Verlustvortrag aus dem Vorjahr
-†
+
 ....
-†
-†
-†
+
+
+
 ---
-†
-†
-†
+
+
+
 ....
 3.
 Entnahmen aus der Kapitalr√ºcklage
-†
+
 ....
-†
-†
-†
+
+
+
 ---
-†
-†
-†
+
+
+
 ....
 4.
 Entnahmen aus Gewinnr√ºcklagen
-†
-†
-†
+
+
+
 a) aus der gesetzlichen R√ºcklage
 ...
-†
-†
+
+
 b) aus der R√ºcklage f√ºr Anteile an einem herrschenden oder mehrheitlich beteiligten Unternehmen
 ...
-†
-†
+
+
 c) aus satzungsm√§√üigen R√ºcklagen
 ...
-†
-†
+
+
 d) aus anderen Gewinnr√ºcklagen
 ...
 ...
-†
-†
+
+
 ---
 ---
-†
-†
-†
+
+
+
 ...
 5.
 Entnahmen aus Genu√ürechtskapital
-†
+
 ...
-†
-†
-†
+
+
+
 ---
-†
-†
-†
+
+
+
 ...
 6.
 Einstellungen in Gewinnr√ºcklagen
-†
-†
-†
+
+
+
 a) in die gesetzliche R√ºcklage
 ...
-†
-†
+
+
 b) in die R√ºcklage f√ºr Anteile an einem herrschenden oder mehrheitlich beteiligten Unternehmen
 ...
-†
-†
+
+
 c) in satzungsm√§√üige R√ºcklagen
 ...
-†
-†
+
+
 d) in andere Gewinnr√ºcklagen
 ...
 ...
-†
-†
+
+
 ---
 ---
-†
-†
-†
+
+
+
 ...
 7.
 Wiederauff√ºllung des Genu√ürechtskapitals
-†
+
 ...
-†
-†
-†
+
+
+
 ---
 8.
 Bilanzgewinn/Bilanzverlust
-†
+
 ...
-†
-†
+
+
 ===
 *1)
 Bausparkassen haben den Posten 1 Zinsaufwendungen in der Gewinn- und Verlustrechnung wie folgt zu untergliedern
-†
-†
+
+
 "a)
 f√ºr Bauspareinlagen
 ... Euro
-†
-†
-†
+
+
+
 b)
 andere Zinsaufwendungen
 ... Euro
 ... Euro".
-†
+
 --------
-†
+
 *2)
 Bausparkassen haben im Ertragsposten 1 den Unterposten a Zinsertr√§ge aus Kredit- und Geldmarktgesch√§ften in der Gewinn- und Verlustrechnung wie folgt zu untergliedern:
-†
-†
+
+
 "aa)
 Bauspardarlehen
 ... Euro
-†
-†
-†
+
+
+
 ab)
 Vor- und Zwischenfinanzierungskrediten
 ... Euro
-†
-†
-†
+
+
+
 ac)
 sonstigen Baudarlehen
 ... Euro
-†
-†
-†
+
+
+
 ad)
 sonstigen Kredit- und Geldmarktgesch√§ften
 ... Euro
 ... Euro".
-†
+
 --------
-†
+
 *3)
 Institute in genossenschaftlicher Rechtsform und genossenschaftliche Zentralbanken haben im Ertragsposten 2 den Unterposten b Laufende Ertr√§ge aus Beteiligungen in der Gewinn- und Verlustrechnung um die Worte "und aus Gesch√§ftsguthaben bei Genossenschaften" zu erg√§nzen.
 *4)
 Bausparkassen haben den Posten 2 Provisionsaufwendungen in der Gewinn- und Verlustrechnung wie folgt zu untergliedern:
-†
-†
+
+
 "a)
 Provisionen f√ºr Vertragsabschlu√ü und -Vermittlung
 ... Euro
-†
-†
-†
+
+
+
 b)
 andere Provisionsaufwendungen
 ... Euro
 ... Euro".
-†
-†
-†
-†
+
+
+
+
 --------
-†
-†
+
+
 Institute, die Skontrof√ºhrer im Sinne des ¬ß 27 Abs. 1 des B√∂rsengesetzes und nicht CRR-Kreditinstitute im Sinne des ¬ß 1 Abs. 3d Satz 1 des Gesetzes √ºber das Kreditwesen sind, haben den Aufwandposten 2 Provisionsaufwendungen wie folgt zu untergliedern:
-†
-†
+
+
 "davon:
-†
-†
-†
-†
+
+
+
+
 a)
 Courtageaufwendungen
 ... Euro
-†
-†
-†
+
+
+
 b)
 Courtage f√ºr Poolausgleich
 ... Euro"
-†
+
 *5)
 Bausparkassen haben den Posten 4 Provisionsertr√§ge in der Gewinn- und Verlustrechnung wie folgt zu untergliedern:
-†
-†
+
+
 "a)
 aus Vertragsabschlu√ü und -vermittlung
 ... Euro
-†
-†
-†
+
+
+
 b)
 aus der Darlehensregelung nach der Zuteilung
 ... Euro
-†
-†
-†
+
+
+
 c)
 aus Bereitstellung und Bearbeitung von Vor- und Zwischenfinanzierungskrediten
 ... Euro
-†
-†
-†
+
+
+
 d)
 andere Provisionsertr√§ge
 ... Euro
 ... Euro".
-†
-†
-†
-†
+
+
+
+
 --------
-†
-†
+
+
 Institute, die Skontrof√ºhrer im Sinne des ¬ß 27 Abs. 1 des B√∂rsengesetzes und nicht CRR-Kreditinstitute im Sinne des ¬ß 1 Abs. 3d Satz 1 des Gesetzes √ºber das Kreditwesen sind, haben den Ertragsposten 4 Provisionsertr√§ge wie folgt zu untergliedern:
-†
-†
+
+
 "davon:
-†
-†
-†
-†
+
+
+
+
 a)
 Courtageertr√§ge
-†
+
 ... Euro
-†
-†
+
+
 b)
 Courtage aus Poolausgleich
-†
+
 ... Euro"
 *6)
 Kreditgenossenschaften, die das Warengesch√§ft betreiben, haben nach dem Aufwandposten 3 Nettoaufwand des Handelsbestands oder nach dem Ertragsposten 5 Nettoertrag des Handelsbestands in der Gewinn- und Verlustrechnung folgenden Posten einzuf√ºgen:
-†
-†
+
+
 "3a./5a.
 Rohergebnis aus Warenverkehr und Nebenbetrieben
-†
+
 ... Euro".
 *7)
 Finanzdienstleistungsinstitute, sofern sie nicht Skontrof√ºhrer im Sinne des ¬ß 27 Abs. 1 des B√∂rsengesetzes sind, haben anstatt des Aufwandpostens 3 Nettoaufwand des Handelsbestands in der Gewinn- und Verlustrechnung folgenden Posten aufzuf√ºhren:
-†
-†
+
+
 "3. Aufwand des Handelsbestands
-†
+
 ... Euro"
-†
+
 und anstatt des Ertragspostens 5 Nettoertrag des Handelsbestands folgenden Posten aufzuf√ºhren:
-†
-†
+
+
 "5. Ertrag des Handelsbestands
-†
+
 ... Euro".
-†
+
 Institute, die Skontrof√ºhrer im Sinne des ¬ß 27 Abs. 1 des B√∂rsengesetzes und nicht CRR-Kreditinstitute im Sinne des ¬ß 1 Abs. 3d Satz 1 des Gesetzes √ºber das Kreditwesen sind, haben anstatt des Aufwandpostens 3 Nettoaufwand des Handelsbestands in der Gewinn- und Verlustrechnung folgende Posten aufzuf√ºhren:
-†
-†
+
+
 "3. Aufwand des Handelsbestands
-†
+
 ... Euro
-†
-†
+
+
 davon:
-†
-†
-†
-†
+
+
+
+
 a)
 Wertpapiere
 ... Euro
-†
-†
-†
+
+
+
 b)
 Futures
 ... Euro
-†
-†
-†
+
+
+
 c)
 Optionen
 ... Euro
-†
-†
-†
+
+
+
 d)
 Kursdifferenzen aus Aufgabegesch√§ften
 ... Euro"
-†
-†
+
+
 und anstatt des Ertragspostens 5 Nettoertrag des Handelsbestands folgende Posten aufzuf√ºhren:
-†
-†
+
+
 "5. Ertrag des Handelsbestands
-†
+
 ... Euro
-†
-†
+
+
 davon:
-†
-†
-†
-†
+
+
+
+
 a)
 Wertpapiere
 ... Euro
-†
-†
-†
+
+
+
 b)
 Futures
 ... Euro
-†
-†
-†
+
+
+
 c)
 Optionen
 ... Euro
-†
-†
-†
+
+
+
 d)
 Kursdifferenzen aus Aufgabegesch√§ften
 ... Euro"
-†
+
 *8)
 Finanzdienstleistungsinstitute im Sinn des ¬ß 1 Absatz 1a Nummer 10 des Kreditwesengesetzes haben den Aufwandsposten Nummer 5 wie folgt zu untergliedern:
-†
-†
+
+
 "5. Abschreibungen und Wertberichtigungen
-†
-†
-†
-†
+
+
+
+
 a)
 auf Leasingverm√∂gen
 ... Euro
-†
-†
-†
+
+
+
 b)
 auf immaterielle Anlagewerte und Sachanlagen
 ... Euro
 ... Euro".
-†
-†
-†
-†
+
+
+
+
 --------
-†
+
 *9)
-Finanzdienstleistungsinstitute im Sinn des ¬ß 1 Absatz 1a Nummer 10 des Kreditwesengesetzes haben vor dem Ertragsposten ‚Ä1. Zinsertr√§ge‚Ä01. Leasingertr√§ge‚Ä1. Zinsaufwendungen‚Ä01. Leasingaufwendungen‚Äù auszuweisen.
+Finanzdienstleistungsinstitute im Sinn des ¬ß 1 Absatz 1a Nummer 10 des Kreditwesengesetzes haben vor dem Ertragsposten 1. Zinsertr√§ge01. Leasingertr√§ge1. Zinsaufwendungen01. Leasingaufwendungen‚Äù auszuweisen.
 
 Formblatt 3 - (Staffelform)Gewinn- und Verlustrechnungder ................................................ f√ºr die Zeit vom ............... bis ...............
 
 (Fundstelle: BGBl. I 1998, S. 3679 - 3681;\\
 bez√ºglich der einzelnen √Ñnderungen vgl. Fu√ünote)\\
 \\
-†
+
 Euro
 Euro
 Euro
 1.
 Zinsertr√§ge aus *1) *9)
-†
-†
-†
-†
+
+
+
+
 a)
 Kredit- und Geldmarktgesch√§ften
 .........
-†
-†
-†
+
+
+
 b)
 festverzinslichen Wertpapieren und Schuldbuchforderungen
 .........
 ........
-†
-†
+
+
 ------
-†
-†
+
+
 2.
 Zinsaufwendungen *2) *9)
-†
+
 .........
 .........
-†
-†
+
+
 ------
-†
+
 3.
 Laufende Ertr√§ge aus
-†
-†
-†
-†
+
+
+
+
 a)
 Aktien und anderen nicht festverzinslichen Wertpapieren
-†
+
 ........
-†
-†
+
+
 b)
 Beteiligungen *3)
-†
+
 ........
 ........
-†
+
 c)
 Anteilen an verbundenen Unternehmen
-†
+
 ........
 ........
-†
-†
+
+
 -----
-†
+
 4.
 Ertr√§ge aus Gewinngemeinschaften, Gewinnabf√ºhrungs- oder Teilgewinnabf√ºhrungsvertr√§gen
-†
-†
+
+
 ........
 5.
 Provisionsertr√§ge *4)
-†
+
 ........
-†
+
 6.
 Provisionsaufwendungen *5)
-†
+
 ........
 ........
-†
-†
+
+
 ------
-†
+
 7.
 Nettoertrag oder Nettoaufwand des Handelsbestands
-†
-†
-†
+
+
+
 *6)
 *7)
-†
-†
-†
-†
-†
+
+
+
+
+
 8.
 Sonstige betriebliche Ertr√§ge
-†
-†
+
+
 ........
 9.
 (weggefallen)
-†
-†
+
+
 ........
 10.
 Allgemeine Verwaltungsaufwendungen
-†
-†
-†
-†
+
+
+
+
 a)
 Personalaufwand
-†
-†
-†
-†
-†
+
+
+
+
+
 aa)
 L√∂hne und Geh√§lter
 ........
-†
-†
-†
-†
+
+
+
+
 ab)
 Soziale Abgaben und Aufwendungen f√ºr Altersversorgung und f√ºr Unterst√ºtzung
 ........
 ........
-†
-†
+
+
 ------
-†
-†
-†
-†
-†
+
+
+
+
+
 darunter:
-†
-†
-†
-†
-†
-†
+
+
+
+
+
+
 f√ºr Altersversorgung ..... Euro
-†
-†
-†
-†
+
+
+
+
 b)
 andere Verwaltungsaufwendungen
-†
+
 ........
 ........
-†
-†
+
+
 ------
-†
+
 11.
 Abschreibungen und Wertberichtigungen auf immaterielle Anlagewerte und Sachanlagen *8)
-†
-†
+
+
 ........
 12.
 Sonstige betriebliche Aufwendungen
-†
-†
+
+
 ........
 13.
 Abschreibungen und Wertberichtigungen auf Forderungen und bestimmte Wertpapiere sowie Zuf√ºhrungen zu R√ºckstellungen im Kreditgesch√§ft
-†
+
 ........
-†
+
 14.
 Ertr√§ge aus Zuschreibungen zu Forderungen und bestimmten Wertpapieren sowie aus der Aufl√∂sung von R√ºckstellungen im Kreditgesch√§ft
-†
+
 ........
 ........
-†
-†
+
+
 ------
-†
+
 15.
 Abschreibungen und Wertberichtigungen auf Beteiligungen, Anteile an verbundenen Unternehmen und wie Anlageverm√∂gen behandelte Wertpapiere
-†
+
 ........
-†
+
 16.
 Ertr√§ge aus Zuschreibungen zu Beteiligungen, Anteilen an verbundenen Unternehmen und wie Anlageverm√∂gen behandelten Wertpapieren
-†
+
 ........
 ........
-†
-†
+
+
 ------
-†
+
 17.
 Aufwendungen aus Verlust√ºbernahme
-†
-†
+
+
 ........
-†
-†
-†
+
+
+
 ------
 18.
 (weggefallen)
-†
-†
+
+
 ........
-†
-†
-†
+
+
+
 ------
 19.
 Ergebnis der normalen Gesch√§ftst√§tigkeit
-†
-†
+
+
 ........
 20.
 Au√üerordentliche Ertr√§ge
-†
+
 ........
-†
+
 21.
 Au√üerordentliche Aufwendungen
-†
+
 ........
-†
-†
-†
+
+
+
 ------
-†
+
 22.
 Au√üerordentliches Ergebnis
-†
+
 ........
 ........
 23.
 Steuern vom Einkommen und vom Ertrag
-†
+
 ........
-†
+
 24.
 Sonstige Steuern, soweit nicht unter Posten 12 ausgewiesen
-†
+
 ........
 ........
-†
-†
+
+
 -----
-†
+
 25.
 Ertr√§ge aus Verlust√ºbernahme
-†
-†
+
+
 ........
 26.
 Auf Grund einer Gewinngemeinschaft, eines Gewinnabf√ºhrungs- oder eines Teilgewinnabf√ºhrungsvertrags abgef√ºhrte Gewinne
-†
-†
+
+
 ........
-†
-†
-†
+
+
+
 -----
 27.
 Jahres√ºberschu√ü/Jahresfehlbetrag
-†
-†
+
+
 ........
 28.
 Gewinnvortrag/Verlustvortrag aus dem Vorjahr
-†
-†
+
+
 ........
-†
-†
-†
+
+
+
 -----
-†
-†
+
+
 ........
 29.
 Entnahmen aus der Kapitalr√ºcklage
-†
-†
+
+
 ........
-†
-†
-†
+
+
+
 -----
-†
-†
+
+
 ........
 30.
 Entnahmen aus Gewinnr√ºcklagen
-†
-†
-†
-†
+
+
+
+
 a)
 aus der gesetzlichen R√ºcklage
-†
+
 ..........
-†
-†
+
+
 b)
 aus der R√ºcklage f√ºr Anteile an einem herrschenden oder mehrheitlich beteiligten Unternehmen
-†
+
 ..........
-†
-†
+
+
 c)
 aus satzungsm√§√üigen R√ºcklagen
-†
+
 ..........
 ..........
-†
+
 d)
 aus anderen Gewinnr√ºcklagen
-†
+
 ..........
 ..........
-†
-†
+
+
 ------
 ------
-†
-†
+
+
 ..........
 31.
 Entnahmen aus Genu√ürechtskapital
-†
-†
+
+
 ..........
-†
-†
-†
+
+
+
 ------
-†
-†
+
+
 ..........
 32.
 Einstellungen in Gewinnr√ºcklagen
-†
-†
-†
-†
+
+
+
+
 a)
 in die gesetzliche R√ºcklage
-†
+
 ..........
-†
-†
+
+
 b)
 in die R√ºcklage f√ºr Anteile an einem herrschenden oder mehrheitlich beteiligten Unternehmen
-†
+
 ..........
-†
-†
+
+
 c)
 in satzungsm√§√üige R√ºcklagen
-†
+
 ..........
-†
-†
+
+
 d)
 in andere Gewinnr√ºcklagen
-†
+
 ..........
 ..........
-†
-†
+
+
 ------
 ------
-†
-†
+
+
 ..........
 33.
 Wiederauff√ºllung des Genu√ürechtskapitals
-†
-†
+
+
 ..........
-†
-†
-†
+
+
+
 ------
 34.
 Bilanzgewinn/Bilanzverlust
-†
-†
+
+
 ..........
-†
-†
-†
+
+
+
 =====
 *1)
 Bausparkassen haben im Ertragsposten 1 den Unterposten a Zinsertr√§ge aus Kredit- und Geldmarktgesch√§ften in der Gewinn- und Verlustrechnung wie folgt zu untergliedern:
-†
-†
-†
+
+
+
 "aa)
 Bauspardarlehen
 ... Euro
-†
+
 ab)
 Vor- und Zwischenfinanzierungskrediten
 ... Euro
-†
+
 ac)
 sonstigen Baudarlehen
 ... Euro
-†
+
 ad)
 sonstigen Kredit- und Geldmarktgesch√§ften
 ... Euro
 ... Euro".
-†
+
 ------
-†
+
 *2)
 Bausparkassen Gewinn- und haben den Posten 2 Zinsaufwendungen in der Verlustrechnung wie folgt zu untergliedern:
-†
-†
-†
+
+
+
 "a)
 f√ºr Bauspareinlagen
 ... Euro
-†
+
 b)
 andere Zinsaufwendungen
 ... Euro
 ... Euro".
-†
+
 --------
-†
+
 *3)
 Institute in genossenschaftlicher Rechtsform und genossenschaftliche Zentralbanken haben im Ertragsposten 3 den Unterposten b Laufende Ertr√§ge aus Beteiligungen in der Gewinn- und Verlustrechnung um die Worte "und aus Gesch√§ftsguthaben bei Genossenschaften" zu erg√§nzen.
-†
-†
+
+
 *4)
 Bausparkassen haben den Posten 5 Provisionsertr√§ge in der Gewinn- und Verlustrechnung wie folgt zu untergliedern:
-†
-†
-†
+
+
+
 "a)
 aus Vertragsabschlu√ü und -Vermittlung
 ... Euro
-†
+
 b)
 aus der Darlehensregelung nach der Zuteilung
 ... Euro
-†
+
 c)
 aus Bereitstellung und Bearbeitung von Vor- und Zwischenfinanzierungskrediten
 ... Euro
-†
+
 d)
 andere Provisionsertr√§ge
 ... Euro
 ... Euro".
-†
+
 --------
-†
-†
+
+
 Institute, die Skontrof√ºhrer im Sinne des ¬ß 27 Abs. 1 des B√∂rsengesetzes und nicht CRR-Kreditinstitute im Sinne des ¬ß 1 Abs. 3d Satz 1 des Gesetzes √ºber das Kreditwesen sind, haben den Ertragsposten 5 Provisionsertr√§ge wie folgt zu untergliedern:
-†
-†
-†
+
+
+
 "davon:
-†
-†
+
+
 a)
 Courtageertr√§ge
 ... Euro
-†
+
 b)
 Courtage aus Poolausgleich
 ... Euro"
-†
+
 *5)
 Bausparkassen haben den Posten 6 Provisionsaufwendungen in der Gewinn- und Verlustrechnung wie folgt zu untergliedern:
-†
-†
-†
+
+
+
 "a)
 Provisionen f√ºr Vertragsabschlu√ü und -Vermittlung
 ... Euro
-†
+
 b)
 andere Provisionsaufwendungen
 ... Euro
 .. Euro".
-†
+
 --------
-†
-†
+
+
 Institute, die Skontrof√ºhrer im Sinne des ¬ß 27 Abs. 1 des B√∂rsengesetzes und nicht CRR-Kreditinstitute im Sinne des ¬ß 1 Abs. 3d Satz 1 des Gesetzes √ºber das Kreditwesen sind, haben den Aufwandposten 6 Provisionsaufwendungen wie folgt zu untergliedern:
-†
-†
-†
+
+
+
 "davon:
-†
-†
+
+
 a)
 Courtageaufwendungen
 ... Euro
-†
+
 b)
 Courtage f√ºr Poolausgleich
 ... Euro"
-†
+
 *6)
 Kreditgenossenschaften, die das Warengesch√§ft betreiben, haben nach dem Aufwand- oder Ertragsposten 7 Nettoertrag oder Nettoaufwand des Handelsbestands in der Gewinn- und Verlustrechnung folgenden Posten einzuf√ºgen:
-†
-†
-†
+
+
+
 "7a.
 Rohergebnis aus Warenverkehr und Nebenbetrieben
 ... Euro".
-†
+
 *7)
 Finanzdienstleistungsinstitute, sofern sie nicht Skontrof√ºhrer im Sinne des ¬ß 27 Abs. 1 des B√∂rsengesetzes sind, haben anstatt des Aufwand- oder Ertragspostens 7 Nettoertrag oder Nettoaufwand des Handelsbestands in der Gewinn- und Verlustrechnung folgende Posten aufzuf√ºhren:
-†
-†
-†
-†
+
+
+
+
 "7a.
 Ertrag des Handelsbestands
 ... Euro
-†
-†
-†
+
+
+
 7b.
 Aufwand des Handelsbestands
 ... Euro".
-†
-†
+
+
 Institute, die Skontrof√ºhrer im Sinne des ¬ß 27 Abs. 1 des B√∂rsengesetzes und nicht CRR-Kreditinstitute im Sinne des ¬ß 1 Abs. 3d Satz 1 des Gesetzes √ºber das Kreditwesen sind, haben anstatt des Aufwand- oder Ertragspostens 7 Nettoertrag oder Nettoaufwand des Handelsbestands in der Gewinn- und Verlustrechnung folgende Posten aufzuf√ºhren:
-†
-†
-†
-†
+
+
+
+
 "7a.
 Ertrag des Handelsbestands
-†
+
 ... Euro
-†
-†
+
+
 davon:
-†
-†
-†
-†
+
+
+
+
 aa)
 Wertpapiere
 ... Euro
-†
-†
-†
+
+
+
 ab)
 Futures
 ... Euro
-†
-†
-†
+
+
+
 ac)
 Optionen
 ... Euro
-†
-†
-†
+
+
+
 ad)
 Kursdifferenzen aus Aufgabegesch√§ften
 ... Euro
-†
-†
-†
+
+
+
 7b.
 Aufwand des Handelsbestands
-†
+
 ... Euro
-†
-†
+
+
 davon:
-†
-†
-†
-†
+
+
+
+
 ba)
 Wertpapiere
 ... Euro
-†
-†
-†
+
+
+
 bb)
 Futures
 ... Euro
-†
-†
-†
+
+
+
 bc)
 Optionen
 ... Euro
-†
-†
-†
+
+
+
 bd)
 Kursdifferenzen aus Aufgabegesch√§ften
 ... Euro"
-†
+
 *8)
 Finanzdienstleistungsinstitute im Sinn des ¬ß 1 Absatz 1a Nummer 10 des Kreditwesengesetzes haben den Aufwandsposten Nummer 11 wie folgt zu untergliedern:
-†
-†
-†
-"11. Abschreibungen und Wertberichtigungen †
+
+
+
+"11. Abschreibungen und Wertberichtigungen 
 a)
 auf Leasingverm√∂gen
 ... Euro
-†
+
 b)
 auf immaterielle Anlagewerte und Sachanlagen
 ... Euro
 ... Euro."
-†
+
 ------
-†
+
 *9)
-Finanzdienstleistungsinstitute im Sinn des ¬ß 1 Absatz 1a Nummer 10 des Kreditwesengesetzes haben vor dem Ertragsposten ‚Ä1. Zinsertr√§ge‚Ä01. Leasingertr√§ge‚Ä02. Leasingaufwendungen‚Äù auszuweisen.
-†
-†
+Finanzdienstleistungsinstitute im Sinn des ¬ß 1 Absatz 1a Nummer 10 des Kreditwesengesetzes haben vor dem Ertragsposten 1. Zinsertr√§ge01. Leasingertr√§ge02. Leasingaufwendungen‚Äù auszuweisen.
+
+
