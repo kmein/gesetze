@@ -30,7 +30,7 @@ Ausfertigungsdatum: 12.11.2008
 
 § 4 - Preismeldepflicht
 
-(1) Schlachtbetriebe haben für Schlachtkörper von Rinder, Schweinen und Schafen nach Maßgabe der folgenden Vorschriften Meldungen über Auszahlungspreise und geschlachtete Mengen zu erstatten.
+(1) Schlachtbetriebe haben für Schlachtkörper von Rindern, Schweinen und Schafen nach Maßgabe der folgenden Vorschriften Meldungen zu erstatten.
 (2) Schlachtkörper, die nach den lebensmittelrechtlichen Vorschriften als ganz oder teilweise untauglich für den menschlichen Genuss befunden worden sind, sowie Schlachtkörper im Sinne des Anhanges III Abschnitt 1 Kapitel IV Nummer 2 Buchstabe c oder Kapitel VI der Verordnung (EG) Nr. 853/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 mit spezifischen Hygienevorschriften für Lebensmittel tierischen Ursprungs (ABl. L 139 vom 30.4.2004, S. 55), die zuletzt durch die Verordnung (EU) Nr. 517/2013 des Rates vom 13. Mai 2013 (ABl. L 158 vom 10.6.2013, S. 1) geändert worden ist, von notgeschlachteten Tieren dürfen nicht in die Preismeldung einbezogen werden, wenn bei ihnen ein niedrigerer Preis als bei vollständig für den menschlichen Genuss tauglichen Schlachtkörpern gleicher Handelsklasse ausbezahlt wird.
 
 § 5 - Ausnahmen
@@ -40,20 +40,25 @@ Ausfertigungsdatum: 12.11.2008
 
 § 6 - Inhalt der Preismeldung
 
-(1) Die Meldungen haben für den jeweiligen Berichtszeitraum zu enthalten:
+(1) Die Meldungen haben für den jeweiligen Berichtszeitraum folgende Angaben zu enthalten:
 
-- 1. :: die geschlachtete Gesamtmenge nach Stückzahl und Schlachtgewicht und
-- 2. :: die mit den Schlachtgewichten gewogenen Durchschnitte der Auszahlungspreise pro Kilogramm nach Absatz 4.
+- 1. :: für die Schlachtkörper von konventionell erzeugten Rindern sowie allen Schweinen und Schafen:
+  - a) :: die geschlachtete Gesamtmenge nach Stückzahl und nach Schlachtgewicht und
+  - b) :: die mit den Schlachtgewichten gewogenen Durchschnitte der Auszahlungspreise pro 100 Kilogramm sowie
+- 2. :: für die Schlachtkörper der Rinder, bei deren Aufzucht und Haltung die Produktionsvorschriften nach den Artikeln 11 und 14 der Verordnung (EG) Nr. 834/2007 des Rates vom 28. Juni 2007 über die ökologische/biologische Produktion und die Kennzeichnung von ökologischen/biologischen Erzeugnissen und zur Aufhebung der Verordnung (EWG) Nr. 2092/91 (ABl. L 189 vom 20.7.2007, S. 1; L 300 vom 18.10.2014, S. 72), die zuletzt durch die Verordnung (EU) Nr. 517/2013 (ABl. L 158 vom 10.6.2013, S. 1) geändert worden ist in der jeweils geltenden Fassung, eingehalten worden sind, zusätzlich und in separater Form:
+  - a) :: die geschlachtete Gesamtmenge nach Stückzahl und nach Schlachtgewicht sowie
+  - b) :: die repräsentativen Verkaufspreise nach Anhang II Nummer 9 der Durchführungsverordnung (EU) 2019/1746 der Kommission vom 1. Oktober 2019 zur Änderung der Durchführungsverordnung (EU) 2017/1185 mit Durchführungsbestimmungen zu den Verordnungen (EU) Nr. 1307/2013 und (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates in Bezug auf die Übermittlung von Informationen und Dokumenten an die Kommission (ABl. L 268 vom 22.10.2019, S. 6). Die repräsentativen Verkaufspreise sind die mit den Schlachtgewichten gewogenen Durchschnitte der Auszahlungspreise an die Lieferanten.
 
-Die Meldungen nach Satz 1 sind wie folgt zu unterteilen:
-
-- 1. :: bei Rindern nach den gesetzlichen Kategorien und Handelsklassen für Rinderschlachtkörper,
-- 2. :: bei Schweinen nach den gesetzlichen Handelsklassen für Schweineschlachtkörper und
-- 3. :: bei Schafen nach den gesetzlichen Kategorien für Schafschlachtkörper.
+  Die Preismeldungen sind wie folgt zu unterteilen:
+  - 1. :: bei Rindern
+    - a) :: nach den gesetzlichen Kategorien für Rinderschlachtkörper und
+    - b) :: nach den gesetzlichen Handelsklassen für Rinderschlachtkörper,
+  - 2. :: bei Schweinen nach den gesetzlichen Handelsklassen für Schweineschlachtkörper und
+  - 3. :: bei Schafen nach den gesetzlichen Kategorien für Schafschlachtkörper.
 
 (2) Schweine mit einem Zweihälftengewicht von weniger als 80 Kilogramm und mehr als 110 Kilogramm sind bei den Meldungen nach Absatz 1 Satz 1 Nr. 2 nicht zu berücksichtigen. Satz 1 gilt nicht für die Handelsklassen M und V. Auf Verlangen der nach Landesrecht zuständigen Behörden ist der Muskelfleischanteil jedes Schweineschlachtkörpers zu übermitteln.
 (3) Die nach Landesrecht zuständigen Behörden können bestimmen, dass bei Meldungen über Preise von Schweinen zusätzlich die für Schlachtkörper mit bestimmten Muskelfleischanteilen zu zahlenden Auszahlungspreise pro Kilogramm gemäß Absatz 4 anzugeben sind.
-(4) Der Auszahlungspreis pro Kilogramm ist der an den Lieferanten frei Eingang Schlachtstätte zu zahlende Preis ohne Umsatzsteuer. Dieser Preis ist ausgedrückt je Kilogramm Schlachtgewicht des nach § 2 Abs. 2 zugeschnittenen Schlachtkörpers.
+(4) Der Auszahlungspreis ist der an den Lieferanten frei Eingang Schlachtstätte zu zahlende Preis ohne Umsatzsteuer. Dieser Preis ist ausgedrückt je 100 Kilogramm Schlachtgewicht des nach § 2 Abs. 2 zugeschnittenen Schlachtkörpers.
 (5) Wird der Kaufpreis im Wege der pauschalen Abrechnung für mehrere geschlachtete Rinder, Schweine oder Schafe einheitlich für die gesamte Anlieferungsmenge festgelegt und auf das Schlachtgewicht bezogen, so ist die Gesamtstückzahl der im Berichtszeitraum gelieferten Tiere, bei Rindern und Schafen für jede Kategorie, zu melden. Bei Rindern und Schafen ist zusätzlich das Gesamtschlachtgewicht der Tiere und der dafür zu zahlende gewogene Auszahlungspreis pro Kilogramm ohne Umsatzsteuer in Euro/Kilogramm Schlachtgewicht für jede Kategorie zu melden. Wird bei Schafen der Kaufpreis auf das Lebendgewicht bezogen, gelten die Sätze 1 und 2 entsprechend. Der zur Berechnung des gewogenen Auszahlungspreises pro Kilogramm herangezogene Gesamtauszahlungsbetrag ist die Summe der an die Lieferanten zu zahlenden Auszahlungspreise frei Eingang Schlachtstätte ohne Umsatzsteuer.
 (6) Der Inhaber des Schlachtbetriebs ist verpflichtet, die Unterlagen über die Preismeldungen zwei Jahre lang aufzubewahren. Die Frist beginnt mit Ablauf des Jahres, in dem das jeweilige Tier geschlachtet worden ist.
 
@@ -62,6 +67,7 @@ Die Meldungen nach Satz 1 sind wie folgt zu unterteilen:
 (1) Die Meldungen sind nach vorgeschriebenem Muster schriftlich oder elektronisch an die nach Landesrecht zuständige Behörde (Meldebehörde) zu erstatten. Sie sind wöchentlich für die Zeit von Montag bis einschließlich Sonntag zu erstatten. Die Meldebehörde kann bestimmen, dass zusätzlich zu der nach den Sätzen 1 und 2 zu erstattenden Wochenmeldung bis zu zwei Zwischenmeldungen über jeweils einen Tag oder mehrere Tage abgegeben werden müssen, soweit dies aus Gründen der Marktbeobachtung erforderlich ist. Die Verpflichtung zur Abgabe der Zwischenmeldung kann auf bestimmte Tierarten, Kategorien und Handelsklassen beschränkt werden. Von ihr können Betriebe ausgenommen werden, deren Meldungen unter Berücksichtigung der umgesetzten Mengen keine Bedeutung haben. Die Meldebehörde kann festlegen, dass die Zwischenmeldung nur die Preise zu enthalten hat.
 (2) Die Meldebehörde legt den Zeitpunkt fest, bis zu dem die Meldungen eingegangen sein müssen. Sie kann bestimmen, dass die Meldung ausschließlich schriftlich oder ausschließlich elektronisch zu erfolgen hat.
 (3) Die Meldungen sind vorab fernmündlich oder fernschriftlich zu erstatten, wenn der Eingang der schriftlichen oder elektronischen Meldungen nach vorgeschriebenem Muster zu dem nach Absatz 2 bestimmten Zeitpunkt nicht gewährleistet ist.
+(4) Erhält ein Schlachtbetrieb nach Abgabe der Preismeldung Kenntnis von einer Unrichtigkeit oder Unvollständigkeit einer gemeldeten Angabe, hat er die Änderung der gemeldeten Angaben unverzüglich der Meldebehörde zu melden. Für die Korrekturmeldung ist das Muster nach § 10 Absatz 1 zu verwenden.
 
 § 8 - Preisfeststellung
 
@@ -76,7 +82,8 @@ Meldegebiet ist das jeweilige Land. Die Bekanntgabe der in den einzelnen Länder
 
 § 10 - Muster
 
-Soweit in dieser Verordnung vorgesehen ist, dass Meldungen oder sonstige Mitteilungen nach vorgeschriebenem Muster zu erstatten oder zu erstellen sind, werden die Muster von der zuständigen Behörde im Bundesanzeiger bekannt gegeben.
+(1) Soweit in dieser Verordnung vorgesehen ist, dass Meldungen oder sonstige Mitteilungen nach vorgeschriebenem Muster zu erstatten oder zu erstellen sind, werden die Muster von der Bundesanstalt festgelegt. Die festgelegten Muster werden von der Bundesanstalt im Bundesanzeiger bekannt gegeben.
+(2) Die zuständige Meldebehörde kann im Einvernehmen mit der Bundesanstalt die vorgeschriebenen Muster ändern. Die geänderten Muster werden von der Bundesanstalt im Bundesanzeiger bekannt gegeben.
 
 § 11 - Auskunftspflichten
 
@@ -91,8 +98,9 @@ Ordnungswidrig im Sinne des § 16 Abs. 1 Nr. 3 des Fleischgesetzes handelt, wer 
 - 1. :: entgegen § 1 Schlachtkörper von Rindern, Schweinen oder Schafen nicht, nicht richtig oder nicht rechtzeitig kennzeichnet,
 - 2. :: entgegen § 2 Abs. 1 das Schlachtgewicht nicht, nicht richtig oder nicht rechtzeitig feststellt,
 - 3. :: entgegen § 2 Abs. 3 Satz 1 vor der Feststellung des Schlachtgewichts andere als die in Satz 1 genannten Teile abtrennt,
-- 4. :: entgegen § 3 oder § 6 Abs. 6 Unterlagen nicht oder nicht in der vorgeschriebenen Weise erstellt oder nicht für die vorgeschriebene Dauer aufbewahrt oder
-- 5. :: entgegen § 4 Abs. 1, § 6 Abs. 1, 4 Satz 1 oder Abs. 5 Satz 1 oder 2 oder § 7 Abs. 1 Satz 1 und 2 und Abs. 2 Meldungen nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet.
+- 4. :: entgegen § 3 oder § 6 Abs. 6 Unterlagen nicht oder nicht in der vorgeschriebenen Weise erstellt oder nicht für die vorgeschriebene Dauer aufbewahrt,
+- 5. :: entgegen § 4 Abs. 1, § 6 Abs. 1, 4 Satz 1 oder Abs. 5 Satz 1 oder 2 oder § 7 Abs. 1 Satz 1 und 2 und Abs. 2 Meldungen nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet oder
+- 6. :: entgegen § 7 Absatz 4 Satz 1 eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
 
 
 § 13 - Überwachung, Duldungs- und Auskunftspflichten

@@ -18,15 +18,14 @@ Auf Grund des § 18 Absatz 3 des Arbeitsschutzgesetzes, der durch Artikel 1 Numm
 (1) Der Arbeitgeber hat gemäß der §§ 5 und 6 des Arbeitsschutzgesetzes die Gefährdungsbeurteilung hinsichtlich zusätzlich erforderlicher Maßnahmen des betrieblichen Infektionsschutzes unter Berücksichtigung der SARS-CoV-2-Arbeitsschutzregel zu überprüfen und zu aktualisieren.
 (2) Der Arbeitgeber hat alle geeigneten technischen und organisatorischen Maßnahmen zu treffen, um betriebsbedingte Personenkontakte zu reduzieren. Die gleichzeitige Nutzung von Räumen durch mehrere Personen ist auf das betriebsnotwendige Minimum zu reduzieren. Die Maßnahmen gelten auch für Pausenbereiche.
 (3) Betriebsbedingte Zusammenkünfte mehrerer Personen sind auf das betriebsnotwendige Minimum zu reduzieren und nach Möglichkeit durch die Verwendung von Informationstechnologie zu ersetzen. Können solche betriebsnotwendigen Zusammenkünfte nicht durch Informationstechnologie ersetzt werden, so hat der Arbeitgeber durch andere geeignete Schutzmaßnahmen den gleichwertigen Schutz der Beschäftigten sicherzustellen, insbesondere durch Lüftungsmaßnahmen, geeignete Abtrennungen zwischen den anwesenden Personen oder sonstige im Hygienekonzept ausgewiesene Maßnahmen.
-(4) Der Arbeitgeber hat den Beschäftigten im Fall von Büroarbeit oder vergleichbaren Tätigkeiten anzubieten, diese Tätigkeiten in deren Wohnung auszuführen, wenn keine zwingenden betriebsbedingten Gründe entgegenstehen.
-(5) Ist die gleichzeitige Nutzung von Räumen durch mehrere Personen erforderlich, so darf eine Mindestfläche von 10 Quadratmetern für jede im Raum befindliche Person nicht unterschritten werden. Lassen zwingende betriebsbedingte Gründe, insbesondere die auszuführenden Tätigkeiten oder die baulichen Verhältnisse, die Einhaltung der Mindestfläche nach Satz 1 nicht zu, hat der Arbeitgeber durch andere geeignete Schutzmaßnahmen den gleichwertigen Schutz der Beschäftigten sicherzustellen, insbesondere durch:
+(4) Ist die gleichzeitige Nutzung von Räumen durch mehrere Personen erforderlich, so darf eine Mindestfläche von 10 Quadratmetern für jede im Raum befindliche Person nicht unterschritten werden. Lassen zwingende betriebsbedingte Gründe, insbesondere die auszuführenden Tätigkeiten oder die baulichen Verhältnisse, die Einhaltung der Mindestfläche nach Satz 1 nicht zu, hat der Arbeitgeber durch andere geeignete Schutzmaßnahmen den gleichwertigen Schutz der Beschäftigten sicherzustellen, insbesondere durch:
 
 - 1. :: Lüftungsmaßnahmen,
 - 2. :: geeignete Abtrennungen zwischen den anwesenden Personen,
 - 3. :: Tragepflicht von Mund-Nase-Schutz oder Atemschutzmasken für alle anwesenden Personen,
 - 4. :: sonstige im Hygienekonzept ausgewiesene Maßnahmen.
 
-(6) In Betrieben mit mehr als zehn Beschäftigten sind die Beschäftigten in möglichst kleine Arbeitsgruppen einzuteilen. Personenkontakte zwischen den einzelnen Arbeitsgruppen im Betriebsablauf sowie Änderungen dieser Einteilung sind auf das betriebsnotwendige Minimum zu reduzieren. Zeitversetztes Arbeiten ist zu ermöglichen, soweit die betrieblichen Gegebenheiten dies zulassen.
+(5) In Betrieben mit mehr als zehn Beschäftigten sind die Beschäftigten in möglichst kleine Arbeitsgruppen einzuteilen. Personenkontakte zwischen den einzelnen Arbeitsgruppen im Betriebsablauf sowie Änderungen dieser Einteilung sind auf das betriebsnotwendige Minimum zu reduzieren. Zeitversetztes Arbeiten ist zu ermöglichen, soweit die betrieblichen Gegebenheiten dies zulassen.
 
 § 3 - Betriebliche Hygienekonzepte
 
@@ -53,16 +52,8 @@ Auf Grund des § 18 Absatz 3 des Arbeitsschutzgesetzes, der durch Artikel 1 Numm
 
 § 5 - Tests in Bezug auf einen direkten Erregernachweis des Coronavirus SARS-CoV-2
 
-(1) Zur Minderung des betrieblichen SARS-CoV-2-Infektionsrisikos hat der Arbeitgeber Beschäftigten, soweit diese nicht ausschließlich in ihrer Wohnung arbeiten, mindestens einmal pro Kalenderwoche einen Test in Bezug auf einen direkten Erregernachweis des Coronavirus SARS-CoV-2 anzubieten.
-(2) Folgenden Beschäftigten hat der Arbeitgeber abweichend von Absatz 1 mindestens zwei Tests pro Kalenderwoche in Bezug auf einen direkten Erregernachweis des Coronavirus SARS-CoV-2 anzubieten:
-
-- 1. :: den Beschäftigten, die vom Arbeitgeber oder auf dessen Veranlassung in Gemeinschaftsunterkünften untergebracht sind,
-- 2. :: den Beschäftigten, die unter klimatischen Bedingungen in geschlossenen Räumen arbeiten, die eine Übertragung des Coronavirus SARS-CoV-2 begünstigen,
-- 3. :: den Beschäftigten in Betrieben, die personennahe Dienstleistungen anbieten, bei denen direkter Körperkontakt zu anderen Personen nicht vermieden werden kann,
-- 4. :: den Beschäftigten, die betriebsbedingt Tätigkeiten mit Kontakt zu anderen Personen ausüben, sofern die anderen Personen einen Mund-Nase-Schutz nicht tragen müssen, und
-- 5. :: den Beschäftigten, die betriebsbedingt in häufig wechselnden Kontakt mit anderen Personen treten.
-
-(3) Nachweise über die Beschaffung von Tests nach Absatz 1 und Absatz 2 oder Vereinbarungen mit Dritten über die Testung der Beschäftigten sind vom Arbeitgeber vier Wochen aufzubewahren.
+(1) Zur Minderung des betrieblichen SARS-CoV-2-Infektionsrisikos hat der Arbeitgeber Beschäftigten, soweit diese nicht ausschließlich in ihrer Wohnung arbeiten, mindestens zweimal pro Kalenderwoche einen Test in Bezug auf einen direkten Erregernachweis des Coronavirus SARS-CoV-2 anzubieten.
+(2) Nachweise über die Beschaffung von Tests nach Absatz 1 oder Vereinbarungen mit Dritten über die Testung der Beschäftigten sind vom Arbeitgeber bis zum 30. Juni 2021 aufzubewahren.
 
 § 6 - Inkrafttreten, Außerkrafttreten
 

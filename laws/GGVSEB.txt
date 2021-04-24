@@ -78,7 +78,7 @@ Die nachfolgenden Begriffe werden im Sinne dieser Verordnung wie folgt verwendet
 - 17. :: UNECE (United Nations Economic Commission for Europe) ist die Wirtschaftskommission der Vereinten Nationen für Europa;
 - 18. :: GGVSee ist die Gefahrgutverordnung See in der Fassung der Bekanntmachung vom 7. Dezember 2017 (BGBl. I S. 3862; 2018 I S. 131);
 - 19. :: Ortsbewegliche Druckgeräte sind die in Artikel 2 Nummer 1 der Richtlinie 2010/35/EU bestimmten Gefäße und Tanks für Gase sowie die übrigen in den Kapiteln 6.2 und 6.8 ADR/RID bestimmten Gefäße und Tanks für Gase;
-- 20. :: Bundeswasserstraßen sind die Wasserstraßen nach § 1 Absatz 1 und Absatz 4 des Bundeswasserstraßengesetzes in der Fassung der Bekanntmachung vom 23. Mai 2007 (BGBl. I S. 962, 2008 I S. 1980) in der jeweils geltenden Fassung mit Ausnahme der Elbe im Hamburger Hafen.
+- 20. :: Bundeswasserstraßen sind die Wasserstraßen nach § 1 Absatz 1 und Absatz 4 des Bundeswasserstraßengesetzes in der Fassung der Bekanntmachung vom 23. Mai 2007 (BGBl. I S. 962, 2008 I S. 1980) in der jeweils geltenden Fassung mit Ausnahme der Elbe im Hamburger Hafen.
 
 
 § 3 - Zulassung zur Beförderung
@@ -251,13 +251,13 @@ Das Bundesamt für die Sicherheit der nuklearen Entsorgung ist zuständige Behö
 - 6. :: - a) :: die Prüfung zur Zulassung einer Änderung nach den Absätzen 1.8.7.2.5 und 6.8.2.3.4 ADR/RID und
   - b) :: die Bescheinigung über die Zulassung einer Änderung nach Absatz 1.8.7.2.5 ADR/RID.
 
-Satz 1 Nummer 1 und 2, jeweils Buchstabe b, und Nummer 5 und 6 gilt nicht, sofern diese Aufgaben in den Geltungsbereich der Ortsbewegliche-Druckgeräte-Verordnung fallen. Für alle vorgenannten Aufgaben nach Kapitel 6.7 ADR/RID sind auch die Benannten Stellen nach § 16 der Ortsbewegliche-Druckgeräte-Verordnung zuständig, die nicht nach der DIN EN ISO/IEC 17020:2012 akkreditiert, aber von der Bundesanstalt für Materialforschung und -prüfung nach § 6 Absatz 5 der Gefahrgutverordnung See als Prüfstelle anerkannt sind.
+Satz 1 Nummer 1 und 2, jeweils Buchstabe b, und Nummer 5 und 6 gilt nicht, sofern diese Aufgaben in den Geltungsbereich der Ortsbewegliche-Druckgeräte-Verordnung fallen. Für alle vorgenannten Aufgaben nach Kapitel 6.7 ADR/RID sind auch die Benannten Stellen nach § 16 der Ortsbewegliche-Druckgeräte-Verordnung zuständig, die nicht nach der DIN EN ISO/IEC 17020:2012 akkreditiert, aber von der Bundesanstalt für Materialforschung und -prüfung nach § 6 Absatz 5 der Gefahrgutverordnung See als Prüfstelle anerkannt sind.
 
 (2) Das Bundesministerium für Verkehr und digitale Infrastruktur richtet einen Erfahrungsaustausch zwischen den zuständigen Stellen nach Absatz 1 und § 9 und der nationalen Akkreditierungsstelle sowie den Baumusterzulassungsbehörden nach § 8 Absatz 1 Satz 1 Nummer 1 Buchstabe g bis l und § 15 Absatz 1 Nummer 10 ein, an dem die vorgenannten Behörden und Stellen teilnehmen müssen.
 
 § 13 - Ergänzende Zuständigkeiten der Benannten Stellen für Druckgefäße
 
-(1) Die nach § 16 Absatz 1 der Ortsbewegliche-Druckgeräte-Verordnung anerkannten Benannten Stellen sind zuständig für
+(1) Die nach § 16 Absatz 1 der Ortsbewegliche-Druckgeräte-Verordnung anerkannten Benannten Stellen sind zuständig für
 
 - 1. :: die Bescheinigung über die Zulassung einer Änderung nach Absatz 1.8.7.2.5 ADR/RID;
 - 2. :: die Aufgaben nach Unterabschnitt 4.1.4.1 Verpackungsanweisung P 200 mit Ausnahme des Absatzes 9 ADR/RID im Einvernehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur;
@@ -287,7 +287,7 @@ Die Benennende Behörde im Sinne des § 2 Nummer 9 der Ortsbewegliche-Druckgerä
 Einzelheiten zu Satz 1 Nummer 1 bis 3 können die Industrie- und Handelskammern durch Satzung regeln.
 
 (4) Die amtlich anerkannten Sachverständigen für den Kraftfahrzeugverkehr, die von der zuständigen obersten Landesbehörde oder der von ihr bestimmten Stelle benannt oder die bei einer nach Landesrecht zuständigen Stelle tätig sind, und die Technischen Dienste, die im Rahmen der Benennung für die Prüfung von Gesamtfahrzeugen mindestens für die Prüfung von Gefahrgutfahrzeugen benannt sind, sind zuständig für die erste Untersuchung nach Unterabschnitt 9.1.2.1 Satz 2 zur Übereinstimmung mit den anwendbaren Vorschriften der Kapitel 9.2 bis 9.8 und die Ausstellung einer ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.2.1 Satz 4 in Verbindung mit Unterabschnitt 9.1.3.1 ADR.
-(5) Die für Hauptuntersuchungen nach § 29 der Straßenverkehrs-Zulassungs-Ordnung berechtigten Personen sind zuständig für die jährliche technische Untersuchung und die Verlängerung der Gültigkeit von ADR-Zulassungsbescheinigungen nach Unterabschnitt 9.1.2.3 sowie für nicht vorgeschriebene informelle Änderungen oder Ergänzungen in Nummer 11 von ADR-Zulassungsbescheinigungen nach Unterabschnitt 9.1.3.1 ADR.
+(5) Die für Hauptuntersuchungen nach § 29 der Straßenverkehrs-Zulassungs-Ordnung berechtigten Personen sind zuständig für die jährliche technische Untersuchung und die Verlängerung der Gültigkeit von ADR-Zulassungsbescheinigungen nach Unterabschnitt 9.1.2.3 sowie für nicht vorgeschriebene informelle Änderungen oder Ergänzungen in Nummer 11 von ADR-Zulassungsbescheinigungen nach Unterabschnitt 9.1.3.1 ADR.
 (6) Die Zulassungsbehörden nach der Fahrzeug-Zulassungsverordnung sind zuständig für Änderungen in Nummer 4 und 5 von ADR-Zulassungsbescheinigungen nach Unterabschnitt 9.1.3.1 ADR.
 
 § 15 - Besondere Zuständigkeiten im Eisenbahnverkehr
@@ -365,14 +365,14 @@ Die Zulassung gilt als erteilt für die von einer Industrie- und Handelskammer �
 Zuständige Behörde nach Satz 1 Nummer 4 und 5 sowie Unterabschnitt 7.1.5.5 ADN ist auch die jeweils nach Landesrecht zuständige Stelle. Die in Nummer 2 genannte Genehmigung kann widerruflich erteilt, befristet und mit Auflagen versehen werden, soweit dies erforderlich ist, um die Einhaltung der gefahrgutbeförderungsrechtlichen Vorschriften sicherzustellen.
 
 (7) Die jeweilige nach Landesrecht zuständige Stelle ist zuständige Behörde für Kontrollen nach Unterabschnitt 1.8.1.4 ADN.
-(8) Die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation ist zuständig nach der IMO Resolution A.749 (18) einschließlich deren Anlage “Code über Intaktstabilität aller Schiffstypen” in der Fassung der Bekanntmachung vom 18. März 1999 (VkBl. S. 164) für die Prüfung der Stabilitätsunterlagen nach Absatz 9.2.0.94.4 ADN.
+(8) Die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation ist zuständig nach der IMO Resolution A.749 (18) einschlieCode über Intaktstabilität aller Schiffstypen“ in der Fassung der Bekanntmachung vom 18. März 1999 (VkBl. S. 164) für die Prüfung der Stabilitätsunterlagen nach Absatz 9.2.0.94.4 ADN.
 
 § 17 - Pflichten des Auftraggebers des Absenders
 
 (1) Der Auftraggeber des Absenders im Straßen- und Eisenbahnverkehr sowie in der Binnenschifffahrt hat
 
 - 1. :: sich vor Erteilung eines Auftrags an den Absender zu vergewissern, ob die gefährlichen Güter nach Teil 2 ADR/RID/ADN klassifiziert sind und nach § 3 befördert werden dürfen;
-- 2. :: dafür zu sorgen, dass dem Absender die Angaben nach den Unterabschnitten 5.4.1.1, 5.4.1.2 sowie den Absätzen 5.5.2.4.1, 5.5.2.4.3 und 5.5.3.7.1 ADR/RID/ADN, im Straßenverkehr mit Ausnahme von Namen und Anschrift des Absenders nach Absatz 5.4.1.1.1 Buchstabe g ADR, schriftlich oder elektronisch mitgeteilt werden, und ihn, wenn Güter auf der Straße befördert werden, die § 35 Absatz 4 Satz 1 oder § 35a Absatz 1 oder Absatz 4 Satz 1 unterliegen, auf deren Beachtung schriftlich oder elektronisch hinzuweisen und
+- 2. :: dafür zu sorgen, dass dem Absender die Angaben nach den Unterabschnitten 5.4.1.1, 5.4.1.2 sowie den Absätzen 5.5.2.4.1, 5.5.2.4.3 und 5.5.3.7.1 ADR/RID/ADN, im Straßenverkehr mit Ausnahme von Namen und Anschrift des Absenders nach Absatz 5.4.1.1.1 Buchstabe g ADR, schriftlich oder elektronisch mitgeteilt werden, und ihn, wenn Güter auf der Straße befördert werden, die § 35 Absatz 4 Satz 1 oder § 35a Absatz 1 oder Absatz 4 Satz 1 unterliegen, auf deren Beachtung schriftlich oder elektronisch hinzuweisen und
 - 3. :: dafür zu sorgen, dass der Absender bei Beförderung nach Kapitel 3.4 auf das gefährliche Gut in begrenzten Mengen unter Angabe der Bruttomasse und bei Beförderung nach Kapitel 3.5 auf das gefährliche Gut in freigestellten Mengen unter Angabe der Anzahl der Versandstücke, ausgenommen bei Beförderungen nach Unterabschnitt 3.5.1.4 ADR/RID/ADN, hingewiesen wird.
 
 (2) Der Auftraggeber des Absenders im Eisenbahnverkehr hat dafür zu sorgen, dass dem Absender die Angaben nach Absatz 1.1.4.4.5 RID schriftlich oder elektronisch mitgeteilt werden.
@@ -384,7 +384,7 @@ Zuständige Behörde nach Satz 1 Nummer 4 und 5 sowie Unterabschnitt 7.1.5.5 ADN
 
 - 1. :: den Beförderer und, wenn die gefährlichen Güter über deutsche See-, Binnen- oder Flughäfen eingeführt worden sind, den Verlader, der als erster die gefährlichen Güter zur Beförderung mit Straßenfahrzeugen, mit der Eisenbahn oder mit Binnenschiffen übergibt oder im Straßenverkehr oder im Binnenschiffsverkehr selbst befördert, mit Erteilung des Beförderungsauftrags
   - a) :: auf das gefährliche Gut durch die Angaben nach Absatz 5.4.1.1.1 Buchstabe a bis d ADR/RID/ADN oder Absatz 5.4.1.1.2 Buchstabe a bis d ADN
-  - b) :: und, wenn Güter auf der Straße befördert werden, die den §§ 35 und 35a unterliegen, auf deren Beachtung
+  - b) :: und, wenn Güter auf der Straße befördert werden, die den §§ 35 und 35a unterliegen, auf deren Beachtung
 
   schriftlich oder elektronisch hinzuweisen; bei Beförderungen nach den Kapiteln 3.4 und 3.5 ADR/RID/ADN ist ein allgemeiner Hinweis auf das gefährliche Gut in begrenzten und freigestellten Mengen erforderlich;
 - 2. :: den Beförderer vor der Beförderung nach Abschnitt 3.4.12 ADR/RID/ADN in nachweisbarer Form über die Bruttomasse der in begrenzten Mengen zu versendenden gefährlichen Güter zu informieren;
@@ -446,7 +446,7 @@ Zuständige Behörde nach Satz 1 Nummer 4 und 5 sowie Unterabschnitt 7.1.5.5 ADN
 - 4. :: dafür zu sorgen, dass die Vorschriften über die Begrenzung der beförderten Mengen nach Absatz 7.5.5.2.1 und Unterabschnitt 7.5.5.3 ADR eingehalten werden;
 - 5. :: dafür zu sorgen, dass
   - a) :: die Begleitpapiere nach Unterabschnitt 8.1.2.1 Buchstabe a und Unterabschnitt 8.1.2.2 Buchstabe a und c sowie bei innerstaatlichen Beförderungen in Aufsetztanks die Bescheinigung über die Prüfung des Aufsetztanks nach Absatz 6.8.2.4.5 und Unterabschnitt 6.9.5.3, sofern die Übergangsvorschrift nach Unterabschnitt 1.6.3.41 ADR in Anspruch genommen wird, und
-  - b) :: die Ausnahmezulassung nach § 5 Absatz 1 Nummer 1, Absatz 6 oder 7
+  - b) :: die Ausnahmezulassung nach § 5 Absatz 1 Nummer 1, Absatz 6 oder 7
 
   dem Fahrzeugführer vor Beförderungsbeginn übergeben werden;
 - 6. :: dafür zu sorgen, dass nur Fahrzeugführer mit einer gültigen Bescheinigung nach Unterabschnitt 8.2.2.8 ADR eingesetzt werden;
@@ -579,7 +579,6 @@ Zuständige Behörde nach Satz 1 Nummer 4 und 5 sowie Unterabschnitt 7.1.5.5 ADN
   - b) :: von Versandstücken nach Abschnitt 5.1.4, Absatz 5.1.5.4.1, den Abschnitten 5.2.1, 5.2.2, nach Unterabschnitt 5.5.3.4 sowie nach den anwendbaren Sondervorschriften in Kapitel 3.3 ADR/RID/ADN
 
   zu beachten und
-
 - 6. :: Versandstücke in den Umverpackungen zu sichern.
 
 (2) Der Verpacker im Straßenverkehr hat die Vorschriften über
@@ -962,8 +961,10 @@ In diesem Fall hat der Beförderer vor Beginn der Beförderung im Beförderungsp
 
 § 35b - Gefährliche Güter, für deren Beförderung die §§ 35 und 35a gelten
 
-Für die nachfolgend genannten gefährlichen Güter gelten die §§ 35 und 35a wie folgt:
-Tabelle
+Für die nachfolgend genannten gefährlichen Güter gelten die §§ 35 und 35a wie folgt:\\
+\\
+Tabelle\\
+\\
 lfd.\\
 Nr.
 Klasse/\\
@@ -995,8 +996,7 @@ explosive Stoffe und Gegenstände mit Explosivstoff
 § 35 und § 35a
 1 000 kg Nettoexplosivstoffmasse
 1 000 kg Nettoexplosivstoffmasse
-Beförderungen in Tanks sind nur für die UN-\\
-Nummern 0331 und 0332 zulässig (Siehe Ausnahmen nach § 35c Absatz 9)
+Beförderungen in Tanks sind nur für die UN- Nummern 0331 und 0332 zulässig (Siehe Ausnahmen nach § 35c Absatz 9)
 2
 2
 entzündbare Gase (Klassifizierungscodes, die nur den Buchstaben F enthalten)
@@ -1074,36 +1074,36 @@ Die angegebenen Mengen beziehen sich auf die Beförderungseinheit. Werden versch
 
 § 35c - Ausnahmen zu den §§ 35 und 35a
 
-(1) Die §§ 35 und 35a gelten nicht für Beförderungen von entzündbaren Gasen nach § 35b Tabelle laufende Nummer 2, wenn Tanks verwendet werden,
+(1) Die §§ 35 und 35a gelten nicht für Beförderungen von entzündbaren Gasen nach § 35b Tabelle laufende Nummer 2, wenn Tanks verwendet werden,
 
 - 1. :: die als Doppelwandtanks mit Vakuumisolierung gebaut sind,
 - 2. :: deren Summe der Wanddicken der metallenen Außenwand und des Innentanks die Mindestwanddicke nach Absatz 6.8.2.1.18 ADR nicht unterschreitet,
 - 3. :: deren Wanddicke des Innentanks die Mindestwanddicke nach Absatz 6.8.2.1.19 ADR nicht unterschreitet und
 - 4. :: deren Innentanks aus austenitischen Chrom-Nickel- oder Chrom-Nickel-Molybdän-Stählen bestehen.
 
-(2) Für die Tanks nach Absatz 1 ist dies in der ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.3.1 ADR oder in einer besonderen Bescheinigung des Tankherstellers oder eines Sachverständigen oder Technischen Dienstes nach § 14 Absatz 4 zu bestätigen. Bescheinigungen nach der Ausnahme Nr. 40 (S) der Gefahrgut-Ausnahmeverordnung (GGAV) sowie der Ausnahme 13 (S) der GGAV gelten weiter.
-(3) § 35a gilt nicht für Beförderungen von entzündbaren flüssigen Stoffen nach § 35b Tabelle laufende Nummer 4, sofern die Beförderungen in
+(2) Für die Tanks nach Absatz 1 ist dies in der ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.3.1 ADR oder in einer besonderen Bescheinigung des Tankherstellers oder eines Sachverständigen oder Technischen Dienstes nach § 14 Absatz 4 zu bestätigen. Bescheinigungen nach der Ausnahme Nr. 40 (S) der Gefahrgut-Ausnahmeverordnung (GGAV) sowie der Ausnahme 13 (S) der GGAV gelten weiter.
+(3) § 35a gilt nicht für Beförderungen von entzündbaren flüssigen Stoffen nach § 35b Tabelle laufende Nummer 4, sofern die Beförderungen in
 
 - 1. :: nicht wanddickenreduzierten zylindrischen Tanks nach Kapitel 6.7 oder 6.8 ADR, die nach einem Berechnungsdruck von mindestens 0,4 Mega-Pascal (4 Bar) bemessen sind oder mit einem Prüfdruck von mindestens 0,4 Mega-Pascal (4 Bar) geprüft sind,
-- 2. :: Tanks, deren Sicherheitsniveau um 50 Prozent höher ist, als das eines Tanks aus Baustahl nach Absatz 6.8.2.1.18 ADR (Nummer 12 in Bild 21 des Forschungsberichts 203 Sicherheitsniveaus von Transporttanks für Gefahrgut“<<FnR.f805931_02>>[[#f805931_02][1]]} und Bekanntmachung zur Anwendung des Forschungsberichts 203<<FnR.f805931_03>>[[#f805931_03][2]]} ), wenn die Kenngröße f_{3} zur Ermittlung der Risikozahl mindestens 0,5 beträgt und das Sicherheitsniveau von der nach § 12 für die Baumusterprüfung zuständigen Stelle bescheinigt wurde,
+- 2. :: Tanks, deren Sicherheitsniveau um 50 Prozent höher ist, als das eines Tanks aus Baustahl nach Absatz 6.8.2.1.18 ADR (Nummer 12 in Bild 21 des Forschungsberichts 203 Sicherheitsniveaus von Transporttanks für Gefahrgut“<<FnR.F815065_01a>>[[#F815065_01a][1]]} und Bekanntmachung zur Anwendung des Forschungsberichts 203<<FnR.F815065_02a>>[[#F815065_02a][2]]} ), wenn die Kenngröße f_{3} zur Ermittlung der Risikozahl mindestens 0,5 beträgt und das Sicherheitsniveau von der nach § 12 für die Baumusterprüfung zuständigen Stelle bescheinigt wurde,
 - 3. :: Doppelwandtanks nach Absatz 6.8.2.1.20 Buchstabe b Nummer 2 und 3 linke Spalte oder
 - 4. :: Doppelwandtanks nach Absatz 6.8.2.1.20 rechte Spalte, in Aufsetztanks nach Absatz 6.8.2.1.20 Buchstabe b letzter Satz linke Spalte oder in Saug-Druck-Tanks für Abfälle nach Kapitel 6.10 ADR
 
 durchgeführt werden.
 
-(4) Für die Tanks nach Absatz 3 Nummer 1 bis 3 ist dies in der ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.3.1 ADR oder in einer besonderen Bescheinigung des Tankherstellers oder eines Sachverständigen oder Technischen Dienstes nach § 14 Absatz 4 zu bestätigen. Bescheinigungen nach der Ausnahme Nr. 47 (S) der GGAV sowie der Ausnahme 14 (S) der GGAV gelten weiter.
+(4) Für die Tanks nach Absatz 3 Nummer 1 bis 3 ist dies in der ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.3.1 ADR oder in einer besonderen Bescheinigung des Tankherstellers oder eines Sachverständigen oder Technischen Dienstes nach § 14 Absatz 4 zu bestätigen. Bescheinigungen nach der Ausnahme Nr. 47 (S) der GGAV sowie der Ausnahme 14 (S) der GGAV gelten weiter.
 (5) § 35 gilt nicht für Beförderungen von entzündbaren Gasgemischen der UN-Nummer 1965 (§ 35b Tabelle laufende Nummer 2), sofern die gesamte Beförderungsstrecke im Geltungsbereich dieser Verordnung nicht mehr als 300 Kilometer beträgt.
 (6) Die §§ 35 und 35a gelten nicht für Beförderungen von entzündbaren Gasgemischen der UN-Nummer 1965 (§ 35b Tabelle laufende Nummer 2) in Tanks nach Abschnitt 1.2.1 ADR bis 11 000 kg Nettomasse in der Beförderungseinheit, sofern die Fahrzeuge mit einem automatischen Blockierverhinderer (ABV) nach § 41 Absatz 18 oder § 41b der Straßenverkehrs-Zulassungs-Ordnung ausgerüstet sind und dies in der ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.3.1 ADR vermerkt ist.
-(7) Die §§ 35 und 35a gelten nicht für Beförderungen von entzündbaren Gasgemischen der UN-Nummer 1965 (§ 35b Tabelle laufende Nummer 2) in Tanks nach Abschnitt 1.2.1 ADR von mehr als 11 000 kg bis 22 000 kg Nettomasse in der Beförderungseinheit, sofern die Fahrzeuge mit einem automatischen Blockierverhinderer (ABV) nach § 41 Absatz 18 oder § 41b der Straßenverkehrs-Zulassungs-Ordnung und mit einer Fahrdynamikregelung (Electronic Stability Control -- ESC) ausgerüstet sind und dies in der ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.3.1 ADR vermerkt ist.
+(7) Die §§ 35 und 35a gelten nicht für Beförderungen von entzündbaren Gasgemischen der UN-Nummer 1965 (§ 35b Tabelle laufende Nummer 2) in Tanks nach Abschnitt 1.2.1 ADR von mehr als 11 000 kg bis 22 000 kg Nettomasse in der Beförderungseinheit, sofern die Fahrzeuge mit einem automatischen Blockierverhinderer (ABV) nach § 41 Absatz 18 oder § 41b der Straßenverkehrs-Zulassungs-Ordnung und mit einer Fahrdynamikregelung (Electronic Stability Control -- ESC) ausgerüstet sind und dies in der ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.3.1 ADR vermerkt ist.
 (8) § 35 Absatz 2 gilt nicht für Beförderungen von entzündbaren Gasen der UN-Nummern 1038, 1961, 1966, 1972, 3138 und 3312 (§ 35b Tabelle laufende Nummer 2).
 (9) Die §§ 35 und 35a gelten nicht für Beförderungen zum Ort der Verwendung, sofern die gesamte Beförderungsstrecke im Geltungsbereich dieser Verordnung nicht mehr als 300 Kilometer beträgt, von explosiven Stoffen und Gegenständen mit Explosivstoff (§ 35b Tabelle laufende Nummer 1)
 
-- 1. :: der UN-Nummern 0065, 0082 und 0241 (Unterklasse 1.1) und der UN-Nummern 0331 und 0332 (Unterklasse 1.5), wenn für diese explosiven Stoffe und Gegenstände mit Explosivstoff der Konformitätsnachweis nach § 5 des Sprengstoffgesetzes erbracht wurde und diese explosiven Stoffe und Gegenstände mit Explosivstoff eine Schlagempfindlichkeit von mehr als 30 Joule sowie eine Reibempfindlichkeit von mehr als 280 Newton bei Durchführung der Prüfverfahren<<FnR.f805931_04>>[[#f805931_04][3]]} haben, und
+- 1. :: der UN-Nummern 0065, 0082 und 0241 (Unterklasse 1.1) und der UN-Nummern 0331 und 0332 (Unterklasse 1.5), wenn für diese explosiven Stoffe und Gegenstände mit Explosivstoff der Konformitätsnachweis nach § 5 des Sprengstoffgesetzes erbracht wurde und diese explosiven Stoffe und Gegenstände mit Explosivstoff eine Schlagempfindlichkeit von mehr als 30 Joule sowie eine Reibempfindlichkeit von mehr als 280 Newton bei Durchführung der Prüfverfahren<<FnR.F815065_03a>>[[#F815065_03a][3]]} haben, und
 - 2. :: der UN-Nummer 0081 (Unterklasse 1.1)
   - a) :: bis 1 000 kg Nettoexplosivstoffmasse in der Beförderungseinheit, sofern die Fahrzeuge mit einem automatischen Blockierverhinderer (ABV) nach § 41 Absatz 18 oder § 41b der Straßenverkehrs-Zulassungs-Ordnung, oder
   - b) :: bis 3 000 kg Nettoexplosivstoffmasse in der Beförderungseinheit, sofern die Fahrzeuge mit einem automatischen Blockierverhinderer (ABV) nach § 41 Absatz 18 oder § 41b der Straßenverkehrs-Zulassungs-Ordnung und mit einer Fahrdynamikregelung (Electronic Stability Control -- ESC)
 
-  ausgerüstet sind und dies in der ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.3.1 ADR vermerkt ist. Die Ausnahmen nach Satz 1 Nummer 1 und Nummer 2 Buchstabe a oder b können nebeneinander in Anspruch genommen werden. § 35b Satz 3 ist nicht anzuwenden.
+  ausgerüstet sind und dies in der ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.3.1 ADR vermerkt ist. Die Ausnahmen nach Satz 1 Nummer 1 und Nummer 2 Buchstabe a oder b können nebeneinander in Anspruch genommen werden. § 35b Satz 3 ist nicht anzuwenden.
 
 
 § 36 - Prüffrist für Feuerlöschgeräte
@@ -1120,7 +1120,7 @@ Für die Beförderung erwärmter flüssiger und fester Stoffe der UN-Nummern 325
 
 § 37 - Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinne des § 10 Absatz 1 Nummer 1 Buchstabe b des Gefahrgutbeförderungsgesetzes handelt, wer vorsätzlich oder fahrlässig
+(1) Ordnungswidrig im Sinne des § 10 Absatz 1 Nummer 1 Buchstabe b des Gefahrgutbeförderungsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 - 1. :: entgegen § 4 Absatz 2 eine Behörde oder einen Betreiber der Eisenbahninfrastruktur nicht oder nicht rechtzeitig benachrichtigt oder nicht oder nicht rechtzeitig benachrichtigen lässt und nicht mit Informationen versieht oder versehen lässt,
 - 2. :: entgegen § 4 Absatz 3 die Sendung nicht oder nicht rechtzeitig anhält oder die Beförderung fortsetzt,
@@ -1422,7 +1422,7 @@ Anlage 1 - (weggefallen)
 
 Anlage 2 - Einschränkungen aus Gründen der Sicherheit der Beförderung gefährlicher Güter zu den Teilen 1 bis 9 des ADR und zu den Teilen 1 bis 7 des RID für innerstaatliche Beförderungen sowie zu den Teilen 1 bis 9 des ADN für innerstaatliche und grenzüberschreitende Beförderungen
 
-(Fundstelle: BGBl. I 2019, 292 --- 297)
+(Fundstelle: BGBl. I 2021, 515 - 519)
 - 1. :: (weggefallen)
 - 2. :: Im Straßenverkehr gelten für innerstaatliche Beförderungen mit Fahrzeugen, die in Deutschland zugelassen sind, und für innerstaatliche Beförderungen im Eisenbahnverkehr die nachstehenden Einschränkungen zu den Teilen 1 bis 7 des ADR/RID:
 - 2.1 :: Regelung zu den Freistellungen in Zusammenhang mit der Art der Beförderungsdurchführung nach Unterabschnitt 1.1.3.1 ADR/RID:
@@ -1452,8 +1452,7 @@ Anlage 2 - Einschränkungen aus Gründen der Sicherheit der Beförderung gefähr
   Gefahrgutbeförderungen in Reisezügen sind vorbehaltlich der Regelungen in den Buchstaben a und b verboten.
   - a) :: Die in den Unterabschnitten 1.1.2.2 und 1.1.2.3 in Verbindung mit den Kapiteln 7.6 und 7.7 RID genannten Regelungen bzw. Sicherheitsvorschriften sind auch für die innerstaatliche Beförderung zu beachten.
   - b) :: Im Übersetzverkehr mit der Eisenbahn über den Hindenburgdamm zwischen Niebüll und Westerland (Sylt) ist abweichend von den Unterabschnitten 1.1.2.2 und 1.1.2.3 in Verbindung mit den Kapiteln 7.6 und 7.7 RID die Gefahrgutbeförderung in Reisezügen unter Beachtung der nachfolgenden Bestimmungen erlaubt:
-    - aa) :: Folgende Güter sind in folgenden Beförderungsmitteln zur Beförderung zugelassen:\\
-      \\
+    - aa) :: Folgende Güter sind in folgenden Beförderungsmitteln zur Beförderung zugelassen:
       | Gefahrgüter der Klassen 1.4 und 2 bis 9          | Beförderung in Versandstücken\\                                                       |
       |                                                  | in gedeckten und bedeckten Straßenfahrzeugen                                          |
       |--------------------------------------------------+---------------------------------------------------------------------------------------|
@@ -1465,9 +1464,6 @@ Anlage 2 - Einschränkungen aus Gründen der Sicherheit der Beförderung gefähr
       |   gruppe II und III ohne Nebengefahr giftig und  |                                                                                       |
       | - d) :: Gefahrgüter der Klasse 9, Verpackungs-\\ |                                                                                       |
       |   gruppe II und III                              |                                                                                       |
-
-      \\
-      \\
     - bb) :: Die Beförderung gefährlicher Güter erfolgt im Huckepackverkehr unter Beachtung der Vorschriften nach Unterabschnitt 1.1.4.4 RID.
     - cc) :: Zwischenwagen oder Elemente einer fest gekuppelten Einheit:
       Erfolgt die Beförderung mit einzeln gekuppelten Güterwagen, ist zwischen den Güterwagen, auf denen mit gefährlichen Gütern beladene Straßenfahrzeuge verladen sind, und den übrigen Güterwagen, auf denen sich Personenkraftfahrzeuge oder mit Fahrgästen besetzte Busse befinden, mindestens ein unbeladener Güterwagen oder ein Güterwagen, der nur mit Straßenfahrzeugen ohne gefährliches Gut beladen ist, zu befördern.
@@ -1488,33 +1484,24 @@ Anlage 2 - Einschränkungen aus Gründen der Sicherheit der Beförderung gefähr
 - 6.2 :: Folgende Übergangsbestimmungen gelten bei der Beförderung nachstehender Stoffe:
 - 6.2.1 :: Folgende Stoffe dürfen in Tankschiffen des Typs N geschlossen mit einem Einstelldruck des Hochgeschwindigkeitsventils von mindestens 6 kPa (0,06 Bar) (Prüfdruck der Ladetanks von 10 kPa (0,10 Bar)) befördert werden:
   - a) :: Alle Stoffe, für die in Kapitel 3.2 Tabelle C ADN mindestens ein Tankschiff des Typs N offen, Typ N offen mit Flammendurchschlagsicherung oder Typ N geschlossen mit einem Einstelldruck des Hochgeschwindigkeitsventils von 10 kPa (0,10 Bar) gefordert wird.
-  - b) :: Das nachstehend aufgeführte Schiff hatte am 31.12.1986 eine Sondergenehmigung für bestimmte Stoffe und ist auf Grund seiner Bauweise, d. h. mit Doppelboden und Wallgängen, zugelassen für die Beförderung von den in der separaten Liste aufgenommenen Stoffen.\\
-    \\
+  - b) :: Das nachstehend aufgeführte Schiff hatte am 31.12.1986 eine Sondergenehmigung für bestimmte Stoffe und ist auf Grund seiner Bauweise, d. h. mit Doppelboden und Wallgängen, zugelassen für die Beförderung von den in der separaten Liste aufgenommenen Stoffen.
     | Schiffsname        | ENI Nummer | Stoffliste Nummer |
     |--------------------+------------+-------------------|
     | T.M.S. PIZ EVEREST | 0232 6324  | 1                 |
-
-    \\
-    \\
 - 6.2.2 :: Folgende Stoffe dürfen in Tankschiffen des Typs N geschlossen mit einem Einstelldruck des Hochgeschwindigkeitsventils von mindestens 10 kPa (0,10 Bar) (Prüfdruck der Ladetanks von 65 kPa (0,65 Bar)) befördert werden:
   - a) :: Alle Stoffe, für die in Kapitel 3.2 Tabelle C ADN mindestens ein Tankschiff des Typs N offen, des Typs N offen mit Flammendurchschlagsicherung oder des Typs N geschlossen mit einem Einstelldruck des Hochgeschwindigkeitsventils von 10 kPa (0,10 Bar) gefordert wird.
     Wenn das Hochgeschwindigkeitsventil umgebaut wird auf 50 kPa (0,50 Bar), dürfen alle Stoffe, für die in Kapitel 3.2 Tabelle C ADN ein Einstelldruck des Hochgeschwindigkeitsventils von 50 kPa (0,50 Bar) gefordert wird, befördert werden.
-  - b) :: Das nachstehend aufgeführte Schiff hatte am 31.12.1986 eine Sondergenehmigung für bestimmte Stoffe und ist auf Grund seiner Bauweise, d. h. mit Doppelboden und Wallgängen, zugelassen für die Beförderung von den in der separaten Liste aufgenommenen Stoffen.\\
-    \\
+  - b) :: Das nachstehend aufgeführte Schiff hatte am 31.12.1986 eine Sondergenehmigung für bestimmte Stoffe und ist auf Grund seiner Bauweise, d. h. mit Doppelboden und Wallgängen, zugelassen für die Beförderung von den in der separaten Liste aufgenommenen Stoffen.
     | Schiffsname      | ENI Nummer | Stoffliste Nummer |
     |------------------+------------+-------------------|
     | T.M.S. EILTANK 9 | 0430 4830  | 5                 |
-
-    \\
-    \\
 - 6.2.3 :: Folgende Stoffe dürfen in Tankschiffen des Typs C mit einem Einstelldruck des Hochgeschwindigkeitsventils von mindestens 9 kPa (0,09 Bar) befördert werden:
   Alle Stoffe, für die in Kapitel 3.2 Tabelle C ADN mindestens ein Tankschiff des Typs N oder des Typs C mit einem Einstelldruck des Hochgeschwindigkeitsventils von 10 kPa (0,10 Bar) gefordert wird.
 - 6.2.4 :: Folgende Stoffe dürfen in Tankschiffen des Typs C mit einem Einstelldruck des Hochgeschwindigkeitsventils von mindestens 35 kPa (0,35 Bar) befördert werden:
   Alle Stoffe, für die in Kapitel 3.2 Tabelle C ADN mindestens ein Tankschiff des Typs N oder des Typs C mit einem Einstelldruck des Hochgeschwindigkeitsventils von 35 kPa (0,35 Bar) gefordert wird.
   Wenn das Hochgeschwindigkeitsventil umgebaut wird auf 50 kPa (0,50 Bar), dürfen alle Stoffe, für die in Kapitel 3.2 Tabelle C ADN ein Einstelldruck des Hochgeschwindigkeitsventils von 50 kPa (0,50 Bar) gefordert wird, befördert werden.
 
-Stoffliste Nummer 1:\\
-\\
+Stoffliste Nummer 1:
 | UN-\\  | Klasse und\\         | Verpackungs-\\ | Benennung und Beschreibung                                                                           |
 | Nummer | Klassifizierungscode | gruppe         |                                                                                                      |
 |--------+----------------------+----------------+------------------------------------------------------------------------------------------------------|
@@ -1566,13 +1553,9 @@ Stoffliste Nummer 1:\\
 |        |                      |                | MIT MEHR ALS 10 % BENZEN                                                                             |
 | 3455   | 6.1, TC2             | II             | CRESOLE, FEST, GESCHMOLZEN                                                                           |
 
-\\
-\\
-
 Stofflisten Nummer 2 bis 4\\
 (weggefallen)
-Stoffliste Nummer 5:\\
-\\
+Stoffliste Nummer 5:
 | UN-\\  | Klasse und\\         | Verpackungs-\\ | Benennung und Beschreibung                         |
 | Nummer | Klassifizierungscode | gruppe         |                                                    |
 |--------+----------------------+----------------+----------------------------------------------------|
@@ -1598,7 +1581,7 @@ Stoffliste Nummer 5:\\
 
 Anlage 3 - (zu § 36b)Festlegung der Anforderungen für besonders ausgerüstete Fahrzeuge/Wagen und Container/Großcontainer nach Abschnitt 7.3.3 Sondervorschrift VC 3 zur Beförderung erwärmter flüssiger und fester Stoffe der UN-Nummern 3257 und 3258 ADR/RID
 
-(Fundstelle: BGBl. I 2019, 298 -- 303)
+(Fundstelle: BGBl. I 2021, 520 - 526)
 - 1. :: Anwendungsbereich
   Erwärmte Stoffe der UN-Nummern 3257 und 3258 dürfen in loser Schüttung in besonders ausgerüsteten Fahrzeugen/Wagen oder Containern/Großcontainern befördert werden, wenn die nachfolgenden Anforderungen erfüllt werden.
 - 1.1 :: Erwärmte flüssige Stoffe, UN-Nummer 3257, sind insbesondere
@@ -1617,13 +1600,13 @@ Anlage 3 - (zu § 36b)Festlegung der Anforderungen für besonders ausgerüstete 
 - 2.2 :: Die Umschließungen sind gemäß den Grundsätzen der Ladungssicherung nach Unterabschnitt 7.5.7.1 ADR/RID auf dem Fahrzeug/Wagen zu befestigen. Die heißen Güter sind in ihren Umschließungen so einzubringen und zu befördern, dass sich die relative Lage der Güter zu ihren Umschließungen bei normaler Beförderung nicht ändert (Beispiel: Sandbett mit Querverstrebungen bei Brammen, Coil-Wannen, Beförderung in loser Schüttung in Behältern).
 - 2.3 :: Von der Anbringung von Kennzeichen nach Kapitel 5.3 ADR/RID auf den Umschließungen kann abgesehen werden, wenn diese bereits auf dem Fahrzeug/Wagen angebracht wurden.
 - 3. :: Brand- und Explosionsschutz
-  Jede Brandgefahr durch thermische Einwirkung des Stoffes auf die Umschließung, das Fahrzeug/den Wagen oder Ladungssicherungshilfsmittel sowie jede Explosionsgefahr durch z. B. austretende Dämpfe oder chemische Reaktion entstandener Gase ist zu vermeiden (z. B. durch Schutzgase).
+  Jede Brandgefahr durch thermische Einwirkung des Stoffes auf die Umschließung, das Fahrzeug/den Wagen oder Ladungssicherungshilfsmittel sowie jede Explosionsgefahr durch z. B. austretende Dämpfe oder chemische Reaktion entstandener Gase ist zu vermeiden (z. B. durch Schutzgase).
 - 4. :: Zusätzliche Anforderungen für die Beförderung flüssiger Metalle in Tiegeln
 - 4.1 :: Konstruktion und Prüfung der Tiegel
   Tiegel, die seit dem 1. September 2016 gebaut werden, sind nach dem Stand der Technik unter Anwendung eines geeigneten technischen Regelwerks (EN 14025:2013 oder gleichwertiges Sicherheitsniveau) konstruktiv zu berechnen und herzustellen. Die konstruktive Auslegung ist im Rahmen eines Baumusterprüfverfahrens durch eine Stelle nach § 12 der GGVSEB auf Einhaltung der konstruktiven Anforderungen aus dem verwendeten technischen Regelwerk zu überprüfen. Hinsichtlich der Anforderungen an die zu prüfenden Unterlagen wird auf die Maßgaben der EN 12972:2007 hingewiesen. Über das Ergebnis der Baumusterprüfung ist ein qualifizierter Prüfbericht durch die mit der Prüfungsdurchführung beauftragte Stelle nach § 12 der GGVSEB auszustellen. Eine Kopie des Baumusterprüfberichts ist der Tiegelakte jedes hergestellten Tiegels gemäß Nummer 4.7 dieser Anlage beizufügen.
   Bei der Dimensionierung und der Befestigung der Tiegel auf dem Fahrzeug/Wagen sind der hydrostatische Druck und die Schwallwirkung des flüssigen Metalls zu berücksichtigen. Dabei sind die Beschleunigungen des Absatzes 6.8.2.1.2 ADR bzw. die Beanspruchungen des Absatzes 6.8.2.1.2 RID zugrunde zu legen. Diese Anforderung gilt auch für Tiegel, die vor dem oben genannten Datum hergestellt wurden.
   Die Verschlüsse der Tiegel sind ebenfalls gemäß einem geeigneten technischen Regelwerk auszulegen und so zu gestalten, dass sie auch bei umgekipptem befülltem Tiegel dicht bleiben.
-  Die Einfüll- und Ausgussöffnungen müssen konstruktiv geschützt werden, z. B. durch Kragen, Abweiser, Käfige oder gleichwertige Konstruktionen (siehe dazu die Beispiele in Anhang 2). Dabei ist die Schutzeinrichtung an der Tiegeloberseite so auszulegen, dass sie insgesamt einer statischen Belastung standhält, die der doppelten Masse des befüllten Tiegels entspricht.
+  Die Einfüll- und Ausgussöffnungen müssen konstruktiv geschützt werden, z. B. durch Kragen, Abweiser, Käfige oder gleichwertige Konstruktionen (siehe dazu die Beispiele in Anhang 2). Dabei ist die Schutzeinrichtung an der Tiegeloberseite so auszulegen, dass sie insgesamt einer statischen Belastung standhält, die der doppelten Masse des befüllten Tiegels entspricht.
   Plastische Verformungen der Schutzeinrichtung durch das Einwirken der oben genannten Belastung sind soweit zulässig, wie der Schutz der Einfüll- und Ausgussöffnungen gewährleistet bleibt. Die Nachrüstung der Schutzeinrichtung bei vorhandenen Tiegeln war bis zum 30. Juni 2018 abzuschließen.
   Die Überprüfung der vorgesehenen Schutzeinrichtung hinsichtlich ihrer konstruktiven Auslegung, Dimensionierung und Ausführung je Tiegel obliegt den Stellen nach § 12 der GGVSEB. Dazu ist jeweils ein qualifizierter Prüfbericht auszustellen sowie erforderlichenfalls nach erfolgtem Anbau eine außerordentliche Prüfung gemäß Nummer 4.5 dieser Anlage durchzuführen. Der Prüfbericht über die Schutzeinrichtung sowie gegebenenfalls die außerordentliche Prüfung sind der Tiegelakte gemäß Nummer 4.7 dieser Anlage beizufügen.
 - 4.2 :: Erstmalige Prüfung der Tiegel vor der Inbetriebnahme
@@ -1679,22 +1662,20 @@ Anlage 3 - (zu § 36b)Festlegung der Anforderungen für besonders ausgerüstete 
   - -- :: die Gefügeuntersuchung.
 - 5.10 :: Die wiederkehrenden Prüfungen sind spätestens nach acht Jahren durchzuführen. Bei jeder Erneuerung der Feuerfestauskleidung (Verschleiß- und Dauerfutter) muss eine Innenbesichtigung der metallischen Oberfläche erfolgen.
 - 5.11 :: Wenn die Sicherheit der Pfanne durch Ausbesserung, Umbau oder Unfall beeinträchtigt sein kann, ist eine außerordentliche Prüfung vorzunehmen.
-- 5.12 :: Alle vorstehenden Prüfungen sind durch eine Stelle nach § 12 der GGVSEB durchzuführen. Über die Prüfungen sind von den Prüfstellen Bescheinigungen auszustellen, die vom Betreiber aufzubewahren sind.
+- 5.12 :: Alle vorstehenden Prüfungen sind durch eine Stelle nach § 12 der GGVSEB durchzuführen. Über die Prüfungen sind von den Prüfstellen Bescheinigungen auszustellen, die vom Betreiber aufzubewahren sind.
 - 5.13 :: Während der Beförderung darf die Oberflächentemperatur im frei zugänglichen Bereich des metallischen Außenbehälters 250 °C nicht übersteigen.
 - 5.14 :: Die feuerfeste Auskleidung der Pfannen ist vom Betreiber vor dem ersten Einsatz zu kontrollieren.
 - 5.15 :: Das Aufheizen ist nach einem Aufheizplan entsprechend der gewählten Steinqualität und Art der Auskleidung vorzunehmen und zu überwachen.
 - 5.16 :: Vor jeder Verwendung ist der ordnungsgemäße Zustand der Pfannen vom Betreiber oder Befüller zu überprüfen. Zutreffendenfalls sind Nachbesserungen vorzunehmen. Hierüber sind Aufzeichnungen zu führen.
 - 5.17 :: Während des Transports ist die Einfüllöffnung der Pfannen mit einem Deckel dicht zu verschließen.
 
-Anhang 1
 Bild 1
-[[../normengrafiken/bgbl1_2019/j0258-1_0010.jpg]]
+[[../normengrafiken/bgbl1_2021/j0481-1_0010.jpg]]
 Bild 2
-[[../normengrafiken/bgbl1_2019/j0258-1_0020.jpg]]
-Anhang 2
+[[../normengrafiken/bgbl1_2021/j0481-1_0020.jpg]]
 Schutzeinrichtung Kragen“
-[[../normengrafiken/bgbl1_2019/j0258-1_0030.jpg]]
+[[../normengrafiken/bgbl1_2021/j0481-1_0030.jpg]]
 Schutzeinrichtung Abweiser“
-[[../normengrafiken/bgbl1_2019/j0258-1_0040.jpg]]
+[[../normengrafiken/bgbl1_2021/j0481-1_0040.jpg]]
 Schutzeinrichtung Käfig“
- [[../normengrafiken/bgbl1_2019/j0258-1_0050.jpg]]
+[[../normengrafiken/bgbl1_2021/j0481-1_0050.jpg]]
