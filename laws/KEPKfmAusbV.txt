@@ -135,7 +135,7 @@ Zu vermittelnde Fertigkeiten und Kenntnisse
 3
 1
 Der Ausbildungsbetrieb (§ 4 Nr. 1)
-
+ 
 1.1
 Stellung, Rechtsform und Struktur des Ausbildungsbetriebes (§ 4 Nr. 1.1)
 a)
@@ -183,7 +183,7 @@ d)
 Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 2
 Arbeitsorganisation (§ 4 Nr. 2)
-
+ 
 2.1
 Arbeitsplanung (§ 4 Nr. 2.1)
 a)
@@ -208,7 +208,7 @@ d)
 Notwendigkeit der Datensicherung begründen; betriebliche Datenschutz- und Datensicherungsmaßnahmen anwenden
 3
 Kommunikation und Kooperation (§ 4 Nr. 3)
-
+ 
 3.1
 Kundenorientierte Kommunikation (§ 4 Nr. 3.1)
 a)
@@ -231,7 +231,7 @@ c)
 zur Vermeidung von Kommunikationsstörungen beitragen und Möglichkeiten der Konfliktlösung anwenden
 4
 Angebotsgestaltung (§ 4 Nr. 4)
-
+ 
 4.1
 Dienstleistungsangebot (§ 4 Nr. 4.1)
 a)
@@ -264,7 +264,7 @@ c)
 Auswirkungen von Qualität und Kundenzufriedenheit auf das Betriebsergebnis darstellen
 5
 Marketing und Vertrieb von Dienstleistungen (§ 4 Nr. 5)
-
+ 
 5.1
 Märkte, Zielgruppen (§ 4 Nr. 5.1)
 a)
@@ -303,7 +303,7 @@ d)
 Beschwerdemanagement als Element einer kundenorientierten Geschäftspolitik anwenden
 6
 Steuerung und Kontrolle von Betriebsprozessen (§ 4 Nr. 6)
-
+ 
 6.1
 Sendungsbearbeitung (§ 4 Nr. 6.1)
 a)
@@ -356,7 +356,7 @@ e)
 rechtliche Bedingungen beim Einsatz von Beschäftigten des eigenen Unternehmens und von Fremddienstleistern berücksichtigen
 8
 Kaufmännische Steuerung und Kontrolle (§ 4 Nr. 8)
-
+ 
 8.1
 Betriebliches Rechnungswesen (§ 4 Nr. 8.1)
 a)

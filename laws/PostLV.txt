@@ -86,7 +86,7 @@ Anlage 1 - (zu § 2 Absatz 2)
 Die in § 2 Absatz 1 aufgeführten Laufbahnen umfassen folgende Ämter:
 Einfacher Dienst\\
 \\
-
+ 
 Amtsbezeichnungen
 Zu der Laufbahn gehörende Ämter
 im nichttechnischen\\
@@ -96,7 +96,7 @@ Postverwaltungsdienst
 Ämter der Besoldungsgruppe A 3<<FnR.FnA1-f776036_01>>[[#FnA1-f776036_01][1)]]}
 Postoberschaffnerin/\\
 Postoberschaffner
-
+ 
 Ämter der Besoldungsgruppe A 4<<FnR.FnA1-f776036_02>>[[#FnA1-f776036_02][2)]]}
 Posthauptschaffnerin/\\
 Posthauptschaffner
@@ -111,7 +111,7 @@ Postbetriebsassistent
 Posthauptwartin/Posthauptwart
 Mittlerer Dienst\\
 \\
-
+ 
 Amtsbezeichnungen
 Zu der Laufbahn gehörende Ämter
 im nichttechnischen\\
@@ -120,7 +120,7 @@ im technischen\\
 Postverwaltungsdienst
 Ämter der Besoldungsgruppe A 6<<FnR.FnA1-f776036_03>>[[#FnA1-f776036_03][3)]]}
 Postsekretärin/Postsekretär
-
+ 
 Ämter der Besoldungsgruppe A 7<<FnR.FnA1-f776036_04>>[[#FnA1-f776036_04][4)]]}
 Postobersekretärin/\\
 Postobersekretär
@@ -136,7 +136,7 @@ Postbetriebsinspektor
 Technische Postbetriebsinspektorin/Technischer Postbetriebsinspektor
 Gehobener Dienst\\
 \\
-
+ 
 Amtsbezeichnungen
 Zu der Laufbahn gehörende Ämter
 im nichttechnischen\\
@@ -166,7 +166,7 @@ Technischer Postoberamtsrat
 Höherer Dienst\\
 \\
 
-
+ 
 
 Amtsbezeichnungen
 

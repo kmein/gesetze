@@ -267,7 +267,7 @@ Höchstbetrag der Herstellungskosten im Sinne des § 7 des Schutzbaugesetzes 1)\
 
 162.750
 
-
+ 
 
 ohne Sandvorfilter 2)
 
@@ -369,7 +369,7 @@ mit Sandvorfilter 2)
 
 316.940
 
-
+ 
 
 ----------
 
@@ -377,16 +377,16 @@ mit Sandvorfilter 2)
 
 - 2) :: Bei Ausführung des Schutzraumes als Tiefgarage erhöht sich der Höchstbetrag um 25.000 DM.
 
-
+ 
 
 Zahl der Schutzplätze
 
 Höchstbetrag der Herstellungskosten im Sinne des § 7 des Schutzbaugesetzes 1)\\
 - DM -
 
+ 
 
-
-
+ 
 
 ohne Sandvorfilter 3)
 
@@ -482,7 +482,7 @@ mit Sandvorfilter 3)
 
 5.175.000
 
-
+ 
 
 ----------
 

@@ -214,21 +214,21 @@ Eine Fahrerlaubnis der beantragten Klasse darf nur erteilt werden, wenn der Bewe
 |       |         | - b) :: 17 Jahre                                                                                                                                                                                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |       |         |   - aa) :: bei der Teilnahme am Begleiteten Fahren ab 17 nach § 48a,                                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |       |         |   - bb) :: bei Erteilung der Fahrerlaubnis während oder nach Abschluss einer Berufsausbildung in                                                                                                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-|       |         |     - aaa) :: dem staatlich anerkannten Ausbildungsberuf Berufskraftfahrer / Berufskraftfahrerin“,                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-|       |         |     - bbb) :: dem staatlich anerkannten Ausbildungsberuf Fachkraft im Fahrbetrieb“ oder                                                                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|       |         |     - aaa) :: dem staatlich anerkannten Ausbildungsberuf „Berufskraftfahrer / Berufskraftfahrerin“,                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|       |         |     - bbb) :: dem staatlich anerkannten Ausbildungsberuf „Fachkraft im Fahrbetrieb“ oder                                                                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |       |         |     - ccc) :: einem staatlich anerkannten Ausbildungsberuf, in dem vergleichbare Fertigkeiten und Kenntnisse zum Führen von Kraftfahrzeugen auf öffentlichen Straßen vermittelt werden.                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |  6    | C1, C1E | 18 Jahre                                                                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |  7    | C, CE   | - a) :: 21 Jahre,                                                                                                                                                                                      | Im Falle des Buchstaben b Doppelbuchstabe bb ist die Fahrerlaubnis mit den Auflagen zu versehen, dass von ihr nur bei Fahrten im Inland und im Rahmen des Ausbildungsverhältnisses Gebrauch gemacht werden darf. Die Auflagen entfallen, wenn der Inhaber der Fahrerlaubnis das 21. Lebensjahr vollendet oder die Berufsausbildung nach Buchstabe b Doppelbuchstabe bb vor Vollendung des 21. Lebensjahres erfolgreich abgeschlossen hat.                                            |
 |       |         | - b) :: 18 Jahre nach                                                                                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |       |         |   - aa) :: erfolgter Grundqualifikation nach § 2 Absatz 1 Nummer 1 des Berufskraftfahrerqualifikationsgesetzes vom 26. November 2020 (BGBl. I S. 2575) in der jeweils geltenden Fassung,               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |       |         |   - bb) :: für Personen während oder nach Abschluss einer Berufsausbildung nach                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-|       |         |     - aaa) :: dem staatlich anerkannten Ausbildungsberuf Berufskraftfahrer / Berufskraftfahrerin“,                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-|       |         |     - bbb) :: dem staatlich anerkannten Ausbildungsberuf Fachkraft im Fahrbetrieb“ oder                                                                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|       |         |     - aaa) :: dem staatlich anerkannten Ausbildungsberuf „Berufskraftfahrer / Berufskraftfahrerin“,                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|       |         |     - bbb) :: dem staatlich anerkannten Ausbildungsberuf „Fachkraft im Fahrbetrieb“ oder                                                                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |       |         |     - ccc) :: einem staatlich anerkannten Ausbildungsberuf, in dem vergleichbare Fertigkeiten und Kenntnisse zum Führen von Kraftfahrzeugen auf öffentlichen Straßen vermittelt werden.                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |  8    | D1, D1E | - a) :: 21 Jahre,                                                                                                                                                                                      | Bis zum Erreichen des nach Buchstabe a vorgeschriebenen Mindestalters ist die Fahrerlaubnis mit den Auflagen zu versehen, dass von ihr nur                                                                                                                                                                                                                                                                                                                                           |
 |       |         | - b) :: 18 Jahre für Personen während oder nach Abschluss einer Berufsausbildung nach                                                                                                                  | - 1. :: bei Fahrten im Inland und                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-|       |         |   - aa) :: dem staatlich anerkannten Ausbildungsberuf Berufskraftfahrer/Berufskraftfahrerin“,                                                                                                         | - 2. :: im Rahmen des Ausbildungsverhältnisses                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-|       |         |   - bb) :: dem staatlich anerkannten Ausbildungsberuf Fachkraft im Fahrbetrieb“ oder                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|       |         |   - aa) :: dem staatlich anerkannten Ausbildungsberuf „Berufskraftfahrer/Berufskraftfahrerin“,                                                                                                         | - 2. :: im Rahmen des Ausbildungsverhältnisses                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|       |         |   - bb) :: dem staatlich anerkannten Ausbildungsberuf „Fachkraft im Fahrbetrieb“ oder                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |       |         |   - cc) :: einem staatlich anerkannten Ausbildungsberuf, in dem vergleichbare Fertigkeiten und Kenntnisse zur Durchführung von Fahrten mit Kraftfahrzeugen auf öffentlichen Straßen vermittelt werden. | Gebrauch gemacht werden darf. Die Auflage nach Nummer 1 entfällt, wenn der Fahrerlaubnisinhaber das Mindestalter nach Buchstabe a erreicht hat. Die Auflage nach Nummer 2 entfällt, wenn der Fahrerlaubnisinhaber das Mindestalter nach Buchstabe a erreicht oder die Ausbildung nach Buchstabe b abgeschlossen hat.                                                                                                                                                                 |
 |  9    | D, DE   | - a) :: 24 Jahre,                                                                                                                                                                                      | - 1. :: Im Falle des Buchstaben c Doppelbuchstabe bb ist die Fahrerlaubnis mit der Auflage zu versehen, dass von ihr nur bei Fahrten zur Personenbeförderung im Linienverkehr im Sinne der §§ 42 und 43 des Personenbeförderungsgesetzes Gebrauch gemacht werden darf, sofern die Länge der jeweiligen Linie nicht mehr als 50 Kilometer beträgt. Die Auflage entfällt, wenn der Inhaber der Fahrerlaubnis das 23. Lebensjahr vollendet hat.                                         |
 |       |         | - b) :: 23 Jahre nach beschleunigter Grundqualifikation durch Ausbildung und Prüfung nach § 2 Absatz 2 des Berufskraftfahrerqualifikationsgesetzes,                                                    | - 2. :: In den Fällen der Buchstaben d bis f ist die Fahrerlaubnis mit den Auflagen zu versehen, dass von ihr nur                                                                                                                                                                                                                                                                                                                                                                    |
@@ -236,8 +236,8 @@ Eine Fahrerlaubnis der beantragten Klasse darf nur erteilt werden, wenn der Bewe
 |       |         |   - aa) :: nach erfolgter Grundqualifikation nach § 2 Absatz 1 Nummer 1 des Berufskraftfahrerqualifikationsgesetzes oder                                                                               |   - 2.2 :: im Rahmen des Ausbildungsverhältnisses und                                                                                                                                                                                                                                                                                                                                                                                                                                |
 |       |         |   - bb) :: nach beschleunigter Grundqualifikation durch Ausbildung und Prüfung nach § 2 Absatz 2 des Berufskraftfahrerqualifikationsgesetzes im Linienverkehr bis 50 km,                               |   - 2.3 :: bei Fahrten zur Personenbeförderung im Sinne der §§ 42 und 43 des Personenbeförderungsgesetzes, soweit die Länge der jeweiligen Linie nicht mehr als 50 Kilometer beträgt oder bei Fahrten ohne Fahrgäste,                                                                                                                                                                                                                                                                |
 |       |         | - d) :: 20 Jahre für Personen während oder nach Abschluss einer Berufsausbildung nach                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-|       |         |   - aa) :: dem staatlich anerkannten Ausbildungsberuf Berufskraftfahrer/Berufskraftfahrerin“,                                                                                                         |   Gebrauch gemacht werden darf. Die Auflage nach Nummer 2.1 entfällt, wenn der Fahrerlaubnisinhaber entweder das 24. Lebensjahr vollendet oder die Berufsausbildung abgeschlossen und das 21. Lebensjahr vollendet hat. Die Auflage nach Nummer 2.2 entfällt, wenn der Fahrerlaubnisinhaber entweder das 24. Lebensjahr vollendet oder die Berufsausbildung abgeschlossen hat. Die Auflage nach Nummer 2.3 entfällt, wenn der Fahrerlaubnisinhaber das 20. Lebensjahr vollendet hat. |
-|       |         |   - bb) :: dem staatlich anerkannten Ausbildungsberuf Fachkraft im Fahrbetrieb“ oder                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|       |         |   - aa) :: dem staatlich anerkannten Ausbildungsberuf „Berufskraftfahrer/Berufskraftfahrerin“,                                                                                                         |   Gebrauch gemacht werden darf. Die Auflage nach Nummer 2.1 entfällt, wenn der Fahrerlaubnisinhaber entweder das 24. Lebensjahr vollendet oder die Berufsausbildung abgeschlossen und das 21. Lebensjahr vollendet hat. Die Auflage nach Nummer 2.2 entfällt, wenn der Fahrerlaubnisinhaber entweder das 24. Lebensjahr vollendet oder die Berufsausbildung abgeschlossen hat. Die Auflage nach Nummer 2.3 entfällt, wenn der Fahrerlaubnisinhaber das 20. Lebensjahr vollendet hat. |
+|       |         |   - bb) :: dem staatlich anerkannten Ausbildungsberuf „Fachkraft im Fahrbetrieb“ oder                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |       |         |   - cc) :: einem staatlich anerkannten Ausbildungsberuf, in dem vergleichbare Fertigkeiten und Kenntnisse zur Durchführung von Fahrten mit Kraftfahrzeugen auf öffentlichen Straßen vermittelt werden, |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |       |         | - e) :: 18 Jahre für Personen während oder nach Abschluss einer Berufsausbildung nach Buchstabe d im Linienverkehr bis 50 km,                                                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |       |         | - f) :: 18 Jahre für Personen während oder nach Abschluss einer Berufsausbildung nach Buchstabe d bei Fahrten ohne Fahrgäste.                                                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
@@ -266,8 +266,8 @@ Abweichend von den Nummern 7 und 9 der Tabelle in Satz 1 beträgt im Inland das 
 
 - 1. :: für die Fragestellung (Absatz 6 Satz 1) zuständigen Facharzt mit verkehrsmedizinischer Qualifikation,
 - 2. :: Arzt des Gesundheitsamtes oder einem anderen Arzt der öffentlichen Verwaltung,
-- 3. :: Arzt mit der Gebietsbezeichnung Arbeitsmedizin“ oder der Zusatzbezeichnung Betriebsmedizin“,
-- 4. :: Arzt mit der Gebietsbezeichnung Facharzt für Rechtsmedizin“ oder
+- 3. :: Arzt mit der Gebietsbezeichnung „Arbeitsmedizin“ oder der Zusatzbezeichnung „Betriebsmedizin“,
+- 4. :: Arzt mit der Gebietsbezeichnung „Facharzt für Rechtsmedizin“ oder
 - 5. :: Arzt in einer Begutachtungsstelle für Fahreignung, der die Anforderungen nach Anlage 14 erfüllt,
 
 erstellt werden soll. Die Behörde kann auch mehrere solcher Anordnungen treffen. Der Facharzt nach Satz 3 Nummer 1 soll nicht zugleich der den Betroffenen behandelnde Arzt sein.
@@ -737,11 +737,11 @@ Dem Fahreignungs-Bewertungssystem sind die in Anlage 13 bezeichneten Zuwiderhand
 (2) Die verkehrspädagogische Teilmaßnahme zielt auf die Vermittlung von Kenntnissen zum Risikoverhalten, die Verbesserung der Gefahrenkognition, die Anregung zur Selbstreflexion und die Entwicklung von Verhaltensvarianten ab. Sie umfasst zwei Module zu je 90 Minuten entsprechend der Anlage 16. Neben den dort genannten Lehr- und Lernmethoden und Medien dürfen auch Methoden und Medien eingesetzt werden, die den gleichen Lernerfolg gewährleisten. Über die Geeignetheit der Methoden und Medien entscheidet die nach Landesrecht zuständige Behörde, die zur Bewertung ein unabhängiges wissenschaftliches Gutachten einer für die Bewertung geeigneten Stelle einholen kann. Die verkehrspädagogische Teilmaßnahme kann als Einzelmaßnahme oder in Gruppen mit bis zu sechs Teilnehmern durchgeführt werden.
 (3) Modul 1 der verkehrspädagogischen Teilmaßnahme umfasst folgende Bausteine:
 
-- 1. :: Einzelbaustein Seminarüberblick“,
+- 1. :: Einzelbaustein „Seminarüberblick“,
 - 2. :: teilnehmerbezogene Darstellung der individuellen Fahrerkarriere und Sicherheitsverantwortung,
 - 3. :: teilnehmerbezogene Darstellung der individuellen Mobilitätsbedeutung,
 - 4. :: Darstellung der individuellen Mobilitätsbedeutung als Hausaufgabe,
-- 5. :: Einzelbaustein Erläuterung des Fahreignungs-Bewertungssystems“,
+- 5. :: Einzelbaustein „Erläuterung des Fahreignungs-Bewertungssystems“,
 - 6. :: tatbezogene Bausteine zu Verkehrsregeln und Rechtsfolgen bei Zuwiderhandlungen mit folgenden Varianten:
   - a) :: Geschwindigkeit,
   - b) :: Abstand,
@@ -751,14 +751,14 @@ Dem Fahreignungs-Bewertungssystem sind die in Anlage 13 bezeichneten Zuwiderhand
   - f) :: Telefonieren im Fahrzeug,
   - g) :: Alkohol und andere berauschende Mittel,
   - h) :: Straftaten,
-- 7. :: Festigungsbaustein Übung zur Klärung der individuellen Mobilitätssituation“ und
-- 8. :: Hausaufgabenbaustein Übung zur Selbstbeobachtung“.
+- 7. :: Festigungsbaustein „Übung zur Klärung der individuellen Mobilitätssituation“ und
+- 8. :: Hausaufgabenbaustein „Übung zur Selbstbeobachtung“.
 
 (4) Modul 2 der verkehrspädagogischen Teilmaßnahme umfasst folgende Bausteine:
 
 - 1. :: Auswertung der Hausaufgaben,
 - 2. :: tatbezogene Bausteine zu Risikoverhalten und Unfallfolgen und
-- 3. :: Festigungsbaustein individuelle Sicherheitsverantwortung“.
+- 3. :: Festigungsbaustein „individuelle Sicherheitsverantwortung“.
 
 (5) Die Auswahl der tatbezogenen Bausteine nach den Absätzen 3 und 4 wird vom Seminarleiter in Abhängigkeit von den in den individuellen Fahrerkarrieren dargestellten Verkehrszuwiderhandlungen vorgenommen. Modul 2 der verkehrspädagogischen Teilmaßnahme darf frühestens nach Ablauf von einer Woche nach Abschluss des Moduls 1 begonnen werden.
 (6) Die verkehrspsychologische Teilmaßnahme zielt darauf ab, dem Teilnehmer Zusammenhänge zwischen auslösenden und aufrechterhaltenden Bedingungen des regelwidrigen Verkehrsverhaltens aufzuzeigen. Sie soll beim Teilnehmer Reflexionsbereitschaft erzeugen und Veränderungsbereitschaft schaffen. Sie umfasst zwei Sitzungen zu je 75 Minuten und ist als Einzelmaßnahme durchzuführen.
@@ -773,7 +773,7 @@ Dem Fahreignungs-Bewertungssystem sind die in Anlage 13 bezeichneten Zuwiderhand
   - c) :: die Festlegung der zu erreichenden Schritte
 
   und
-- 5. :: die Hausaufgaben Selbstbeobachtung des Verhaltens in kritischen Situationen“ und Erprobung des neuen Zielverhaltens“.
+- 5. :: die Hausaufgaben „Selbstbeobachtung des Verhaltens in kritischen Situationen“ und „Erprobung des neuen Zielverhaltens“.
 
 (8) Sitzung 2 der verkehrspsychologischen Teilmaßnahme dient der Festigung der Lösungsstrategien. Sie umfasst
 
@@ -875,7 +875,7 @@ Macht die nach Landesrecht zuständige Behörde von der Möglichkeit der Qualit�
 § 47 - Verfahrensregelungen
 
 (1) Nach der Entziehung sind von einer deutschen Behörde ausgestellte nationale und internationale Führerscheine unverzüglich der entscheidenden Behörde abzuliefern oder bei Beschränkungen oder Auflagen zur Eintragung vorzulegen. Die Verpflichtung zur Ablieferung oder Vorlage des Führerscheins besteht auch, wenn die Entscheidung angefochten worden ist, die zuständige Behörde jedoch die sofortige Vollziehung ihrer Verfügung angeordnet hat.
-(2) Nach der Entziehung oder der Feststellung der fehlenden Fahrberechtigung oder bei Beschränkungen oder Auflagen sind ausländische und im Ausland ausgestellte internationale Führerscheine unverzüglich der entscheidenden Behörde vorzulegen; Absatz 1 Satz 2 gilt entsprechend. Nach einer Entziehung oder der Feststellung der fehlenden Fahrberechtigung wird auf dem Führerschein vermerkt, dass von der Fahrerlaubnis im Inland kein Gebrauch gemacht werden darf. Dies soll in der Regel durch die Anbringung eines roten, schräg durchgestrichenen D“ auf einem dafür geeigneten Feld des Führerscheins, im Falle eines EU-Kartenführerscheins im Feld 13, und bei internationalen Führerscheinen durch Ausfüllung des dafür vorgesehenen Vordrucks erfolgen. Im Falle von Beschränkungen oder Auflagen werden diese in den Führerschein eingetragen. Die entscheidende Behörde teilt die Aberkennung der Fahrberechtigung oder die Feststellung der fehlenden Fahrberechtigung in Deutschland der Behörde, die den Führerschein ausgestellt hat, über das Kraftfahrt-Bundesamt mit. Erfolgt die Entziehung durch die erteilende oder eine sonstige zuständige ausländische Behörde, sind ausländische und im Ausland ausgestellte internationale Führerscheine unverzüglich der Fahrerlaubnisbehörde vorzulegen und dort in Verwahrung zu nehmen. Die Fahrerlaubnisbehörde sendet die Führerscheine über das Kraftfahrt-Bundesamt an die entziehende Stelle zurück.
+(2) Nach der Entziehung oder der Feststellung der fehlenden Fahrberechtigung oder bei Beschränkungen oder Auflagen sind ausländische und im Ausland ausgestellte internationale Führerscheine unverzüglich der entscheidenden Behörde vorzulegen; Absatz 1 Satz 2 gilt entsprechend. Nach einer Entziehung oder der Feststellung der fehlenden Fahrberechtigung wird auf dem Führerschein vermerkt, dass von der Fahrerlaubnis im Inland kein Gebrauch gemacht werden darf. Dies soll in der Regel durch die Anbringung eines roten, schräg durchgestrichenen „D“ auf einem dafür geeigneten Feld des Führerscheins, im Falle eines EU-Kartenführerscheins im Feld 13, und bei internationalen Führerscheinen durch Ausfüllung des dafür vorgesehenen Vordrucks erfolgen. Im Falle von Beschränkungen oder Auflagen werden diese in den Führerschein eingetragen. Die entscheidende Behörde teilt die Aberkennung der Fahrberechtigung oder die Feststellung der fehlenden Fahrberechtigung in Deutschland der Behörde, die den Führerschein ausgestellt hat, über das Kraftfahrt-Bundesamt mit. Erfolgt die Entziehung durch die erteilende oder eine sonstige zuständige ausländische Behörde, sind ausländische und im Ausland ausgestellte internationale Führerscheine unverzüglich der Fahrerlaubnisbehörde vorzulegen und dort in Verwahrung zu nehmen. Die Fahrerlaubnisbehörde sendet die Führerscheine über das Kraftfahrt-Bundesamt an die entziehende Stelle zurück.
 (3) Ist dem Betroffenen nach § 31 eine deutsche Fahrerlaubnis erteilt worden, ist er aber noch im Besitz des ausländischen Führerscheins, ist auf diesem die Entziehung oder die Feststellung der fehlenden Fahrberechtigung zu vermerken. Der Betroffene ist verpflichtet, der Fahrerlaubnisbehörde den Führerschein zur Eintragung vorzulegen.
 
 § 48 - Fahrerlaubnis zur Fahrgastbeförderung
@@ -1342,7 +1342,7 @@ Der Facharzt hat seine verkehrsmedizinische Qualifikation (§ 11 Absatz 2 Satz 3
 
 - 1. :: Begutachtungsstellen für Fahreignung (§ 66),
 - 2. :: der Arzt des Gesundheitsamtes oder ein anderer Arzt der öffentlichen Verwaltung und
-- 3. :: die Ärzte mit der Gebietsbezeichnung Arbeitsmedizin“ und die Ärzte mit der Zusatzbezeichnung Betriebsmedizin“
+- 3. :: die Ärzte mit der Gebietsbezeichnung „Arbeitsmedizin“ und die Ärzte mit der Zusatzbezeichnung „Betriebsmedizin“
 
 als amtlich anerkannte Sehteststelle. Absatz 4 ist anzuwenden.
 
@@ -1399,7 +1399,7 @@ Die nach Absatz 1 zuständige oberste Landesbehörde oder die von ihr bestimmte 
 
 § 71a - Träger von unabhängigen Stellen für die Bestätigung der Eignung von eingesetzten psychologischen Testverfahren und -geräten
 
-(1) Die Eignung von psychologischen Testverfahren und -geräten, die Träger von Begutachtungsstellen für die Feststellung der Fahreignung sowie Ärzte mit der Gebietsbezeichnung Arbeitsmedizin“ oder der Zusatzbezeichnung Betriebsmedizin“ zur Erstellung von Gutachten nach Anlage 5 einsetzen, muss von Trägern unabhängiger Stellen bestätigt werden. Die Träger unabhängiger Stellen haben die Eignung der eingesetzten psychologischen Testverfahren und -geräte nach dem allgemein anerkannten Stand der Wissenschaft und nach MaRichtlinie zur Bestätigung der Eignung der Testverfahren und -geräte und der Eignung der Kurse zur Wiederherstellung der Kraftfahreignung“ vom 31. März 2017 (VkBl. S. 227 ff.), die zuletzt durch Verlautbarung vom 10. Februar 2020 (VkBl. S. 164) geändert worden ist, zu prüfen.
+(1) Die Eignung von psychologischen Testverfahren und -geräten, die Träger von Begutachtungsstellen für die Feststellung der Fahreignung sowie Ärzte mit der Gebietsbezeichnung „Arbeitsmedizin“ oder der Zusatzbezeichnung „Betriebsmedizin“ zur Erstellung von Gutachten nach Anlage 5 einsetzen, muss von Trägern unabhängiger Stellen bestätigt werden. Die Träger unabhängiger Stellen haben die Eignung der eingesetzten psychologischen Testverfahren und -geräte nach dem allgemein anerkannten Stand der Wissenschaft und nach Maßgabe der vom Bundesministerium für Verkehr und digitale Infrastruktur im Benehmen mit den zuständigen Obersten Landesbehörden erlassenen „Richtlinie zur Bestätigung der Eignung der Testverfahren und -geräte und der Eignung der Kurse zur Wiederherstellung der Kraftfahreignung“ vom 31. März 2017 (VkBl. S. 227 ff.), die zuletzt durch Verlautbarung vom 10. Februar 2020 (VkBl. S. 164) geändert worden ist, zu prüfen.
 (2) Der Träger einer unabhängigen Stelle bedarf für seine Tätigkeit nach Absatz 1 der amtlichen Anerkennung durch die nach Landesrecht zuständigen Behörden in dem Bundesland, in dem er seinen Sitz hat. Hat der Träger einer unabhängigen Stelle seinen Sitz außerhalb der Bundesrepublik Deutschland, kann er die amtliche Anerkennung in einem Bundesland seiner Wahl beantragen.
 (3) Der Träger der unabhängigen Stelle hat die amtliche Anerkennung schriftlich zu beantragen. Die amtliche Anerkennung wird erteilt, wenn der Träger der unabhängigen Stelle die Voraussetzungen der Anlage 14a erfüllt und sich dies von der Bundesanstalt für Straßenwesen nach § 72 bestätigen lässt.
 (4) Die amtliche Anerkennung kann mit Nebenbestimmungen, insbesondere mit Auflagen verbunden werden, um die ordnungsgemäße Tätigkeit des Trägers der unabhängigen Stelle sicherzustellen.
@@ -1457,7 +1457,7 @@ müssen sich hinsichtlich der Erfüllung der jeweiligen für sie geltenden fachl
 (3) Die Genehmigung von Ausnahmen von den Vorschriften dieser Verordnung kann mit Auflagen verbunden werden.
 (4) Über erteilte Ausnahmegenehmigungen oder angeordnete Auflagen stellt die entscheidende Verwaltungsbehörde eine Bescheinigung aus, sofern die Ausnahme oder Auflage nicht im Führerschein vermerkt wird. Die Bescheinigung hat das Format DIN A5 und die Farbe rosa, der Umfang beträgt 1 Blatt, ein beidseitiger Druck ist möglich. Das Trägermaterial besteht aus Sicherheitspapier mit einer Stärke von 90 g/m², ohne optische Aufheller, in das die folgenden fälschungserschwerenden Sicherheitsmerkmale eingearbeitet sind:
 
-- 1. :: als Wasserzeichen das gesetzlich für die Bundesdruckerei geschützte Motiv: Bundesadler“,
+- 1. :: als Wasserzeichen das gesetzlich für die Bundesdruckerei geschützte Motiv: „Bundesadler“,
 - 2. :: nur unter UV-Licht sichtbar gelb und blau fluoreszierende Melierfasern,
 - 3. :: chemische Reagenzien.
 
@@ -1593,8 +1593,8 @@ Zu den nachstehend bezeichneten Vorschriften gelten folgende Bestimmungen:
   Ein Internationaler Führerschein, der bis zum 31. Dezember 2010 nach Artikel 41 und Anhang 7 des Übereinkommens über den Straßenverkehr vom 8. November 1968 in der bis zum 31. Dezember 2010 geltenden Fassung im Ausland ausgestellt wurde, berechtigt im Rahmen seiner Gültigkeitsdauer zum Führen von Kraftfahrzeugen im Inland.
 - 14. :: § 48 Absatz 3 (Weitergeltung der bisherigen Führerscheine zur Fahrgastbeförderung)
   Führerscheine zur Fahrgastbeförderung, die nach den bis zum 1. September 2002 vorgeschriebenen Mustern ausgefertigt sind, bleiben gültig. Führerscheine zur Fahrgastbeförderung, die dem Muster 4 der Anlage 8 in der bis zum 1. September 2002 geltenden Fassung entsprechen, dürfen bis zum 31. Dezember 2002 weiter ausgefertigt werden.
-- 15. :: Anlage 8b (Prüfungsbescheinigung zum Begleiteten Fahren ab 17 Jahre“)
-  Eine Prüfungsbescheinigung zum Begleiteten Fahren ab 17 Jahre“ darf bis zum 1. April 2016 nach dem bis zum Ablauf des 20. Oktober 2015 geltenden Muster der Anlage 8a ausgestellt werden.
+- 15. :: Anlage 8b (Prüfungsbescheinigung zum „Begleiteten Fahren ab 17 Jahre“)
+  Eine Prüfungsbescheinigung zum „Begleiteten Fahren ab 17 Jahre“ darf bis zum 1. April 2016 nach dem bis zum Ablauf des 20. Oktober 2015 geltenden Muster der Anlage 8a ausgestellt werden.
 - 16. :: (weggefallen)
 - 17. :: §§ 66 und 70 (Anerkennung von Trägern von Begutachtungsstellen für Fahreignung und Trägern, die Kurse zur Wiederherstellung der Kraftfahreignung nach § 70 durchführen)
   Die bestehenden Anerkennungen von Begutachtungsstellen für Fahreignung nach § 66 und Kursen zur Wiederherstellung der Kraftfahreignung nach § 70 müssen bis zum Ablauf des 31. Dezember 2018 den geänderten Vorschriften angepasst werden; davon ausgenommen sind die Regelungen nach Anlage 14 Absatz 2 Nummer 7 und Anlage 15 Absatz 2 Nummer 6. Bis zu diesem Zeitpunkt ist der Anerkennungsbehörde ein Gutachten der Bundesanstalt vorzulegen, dass die ab dem 1. Mai 2014 geltenden Anforderungen gemäß der Anlage 14 Absatz 2 Nummer 8 und der Anlage 15 Absatz 2 Nummer 7 erfüllt werden. Die Bestätigung durch eine unabhängige Stelle nach Anlage 14 Absatz 2 Nummer 7 ist spätestens bis zum 25. Juni 2021 nachzuweisen. Die Bestätigung durch eine unabhängige Stelle nach Anlage 15 Absatz 2 Nummer 6 ist spätestens drei Jahre, nachdem erstmals eine unabhängige Stelle nach § 71b Satz 2 in Verbindung mit § 71a Absatz 2 Satz 1 anerkannt worden ist, nachzuweisen. Das Bundesministerium für Verkehr und digitale Infrastruktur gibt die erstmaligen Anerkennungen mit Datum im Verkehrsblatt bekannt. Die Bestätigung nach Anlage 5 Nummer 2 Satz 2 muss bis zum Ablauf der in Satz 3 genannten Frist vorliegen.
@@ -1655,11 +1655,11 @@ Anlage 2 - (zu § 5 Absatz 2 und 4)Ausbildungs- und Prüfbescheinigungen für Mo
 
 (Fundstelle: BGBl. I 2010, 2016 - 2017; bzgl. einzelner Änderungen vgl. Fußnote)
 - a) :: Ausbildungsbescheinigung für Mofas und zwei- und dreirädrige Kraftfahrzeuge bis 25 km/h
-  
+   
 - b) :: Prüfbescheinigung zum Führen von Mofas und zwei- und dreirädrigen Kraftfahrzeugen bis 25 km/h
   Farbe: dunkelgrau; Breite 140 mm, Höhe 105 mm, einmal faltbar auf Format DIN A7; Typendruck\\
   \\
-  
+   
 
 
 Anlage 3 - (zu § 6 Absatz 6)Umstellung von Fahrerlaubnissen alten Rechts und Umtausch von Führerscheinen nach bisherigen Mustern
@@ -1911,8 +1911,8 @@ Grundlage für die Beurteilung der Eignung zum Führen von Kraftfahrzeugen sind 
   - b) :: soweit für die Feststellung der Eignung die Vorlage von Abstinenzbelegen erforderlich ist, dürfen hierfür ausschließlich Belege von Stellen anerkannt werden, in denen die nach Stand der Wissenschaft und Technik erforderlichen Rahmenbedingungen der Abstinenzkontrolle wie Terminvergabe, Identitätskontrolle und Probenentnahme gewährleistet sind; dies kann angenommen werden, wenn die Befunderhebung und Befundauswertung verantwortlich von
     - aa) :: einem Facharzt mit verkehrsmedizinischer Qualifikation, der nicht zugleich der den Betroffenen behandelnde Arzt sein darf,
     - bb) :: einem Arzt des Gesundheitsamtes oder anderen Arzt der öffentlichen Verwaltung,
-    - cc) :: einem Arzt mit der Gebietsbezeichnung Facharzt für Rechtsmedizin“,
-    - dd) :: einem Arzt mit der Gebietsbezeichnung Arbeitsmedizin“ oder der Zusatzbezeichnung Betriebsmedizin“,
+    - cc) :: einem Arzt mit der Gebietsbezeichnung „Facharzt für Rechtsmedizin“,
+    - dd) :: einem Arzt mit der Gebietsbezeichnung „Arbeitsmedizin“ oder der Zusatzbezeichnung „Betriebsmedizin“,
     - ee) :: einem Arzt in einer Begutachtungsstelle für Fahreignung,
     - ff) :: einem Arzt/Toxikologen in einem für forensisch-toxikologische Zwecke akkreditierten Labor
 
@@ -1965,7 +1965,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 - 1.5 :: Besteht eine fortschreitende Augenkrankheit, ist eine regelmäßige augenärztliche Untersuchung und Beratung erforderlich.
 - 2. :: Klassen C, C1, CE, C1E, D, D1, DE, D1E und der Fahrerlaubnis zur Fahrgastbeförderung (§ 12 Absatz 6, § 48 Absatz 4 Nummer 4 und Absatz 5 Nummer 2)
   Bewerber um die Erteilung oder Verlängerung der Fahrerlaubnis müssen die nachfolgenden Mindestanforderungen an das Sehvermögen erfüllen:
-- 2.1 :: Untersuchung durch einen Augenarzt, einen Arzt mit der Gebietsbezeichnung Arbeitsmedizin“, einen Arzt mit der Zusatzbezeichnung Betriebsmedizin“, einen Arzt bei einer Begutachtungsstelle für Fahreignung, einen Arzt des Gesundheitsamtes oder einen anderen Arzt der öffentlichen Verwaltung.
+- 2.1 :: Untersuchung durch einen Augenarzt, einen Arzt mit der Gebietsbezeichnung „Arbeitsmedizin“, einen Arzt mit der Zusatzbezeichnung „Betriebsmedizin“, einen Arzt bei einer Begutachtungsstelle für Fahreignung, einen Arzt des Gesundheitsamtes oder einen anderen Arzt der öffentlichen Verwaltung.
   Über die Untersuchung ist eine Bescheinigung gemäß dem Muster dieser Anlage zu erstellen.
 - 2.1.1 :: Zentrale Tagessehschärfe
   Feststellung unter Einhaltung der DIN 58220, Ausgabe Januar 1997.
@@ -2564,7 +2564,7 @@ Anlage 7a - (§ 6a Absatz 3 und 4)Fahrerschulung ab 17 Jahre
   - b) :: einem Aufbau des Anhängers kastenförmig oder damit vergleichbar, mindestens 1,2 m Breite und 1,5 m Höhe und
   - c) :: einer Sicht nach hinten nur über Außenspiegel
 
-  zu verwenden. Schulungsfahrzeuge müssen mit akustisch oder optisch kontrollierbaren Einrichtungen zur Betätigung der Pedale (Doppelbedienungseinrichtungen) ausgerüstet sein. Die Fahrzeugkombination darf nicht der Klasse B zuzuordnen sein. Die Fahrzeugkombination darf nicht der Klasse B zuzuordnen sein. Sie dürfen ein Schild mit der Aufschrift FAHRSCHULE“ entsprechend § 5 Absatz 4 der Durchführungsverordnung zum Fahrlehrergesetz führen.
+  zu verwenden. Schulungsfahrzeuge müssen mit akustisch oder optisch kontrollierbaren Einrichtungen zur Betätigung der Pedale (Doppelbedienungseinrichtungen) ausgerüstet sein. Die Fahrzeugkombination darf nicht der Klasse B zuzuordnen sein. Die Fahrzeugkombination darf nicht der Klasse B zuzuordnen sein. Sie dürfen ein Schild mit der Aufschrift „FAHRSCHULE“ entsprechend § 5 Absatz 4 der Durchführungsverordnung zum Fahrlehrergesetz führen.
 - 5. :: Schulungsstrecke für die fahrpraktischen Übungen
   Etwa die Hälfte Fahrzeit der fahrpraktischen Übungen nach Nummer 3.3 soll für Fahrstrecken außerhalb geschlossener Ortschaften, möglichst auch unter Einschluss der Autobahnen oder Kraftfahrstraßen mit Fahrbahnen für eine Richtung, die durch Mittelstreifen oder sonstige bauliche Einrichtungen getrennt sind und mindestens zwei Fahrstreifen je Richtung haben, verwendet werden.
 - 6. :: Abschluss der Schulung
@@ -2617,8 +2617,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 - 2. :: Beschreibung des Führerscheins
 - 2.1 :: Seite 1 (Vorderseite)
   Seite 1 enthält:
-  - a) :: Die Bezeichnung FÜHRERSCHEIN“ sowie deren Wiederholung in den Sprachen der Mitgliedstaaten der Europäischen Union als Unterdruck auf dem Führerschein.
-  - b) :: Die Aufschrift BUNDESREPUBLIK DEUTSCHLAND“ sowie das Zeichen der Europäischen Union (zwölf goldene Sterne in einem blauen Rechteck), in welches das Nationalitätszeichen D eingefügt ist.
+  - a) :: Die Bezeichnung „FÜHRERSCHEIN“ sowie deren Wiederholung in den Sprachen der Mitgliedstaaten der Europäischen Union als Unterdruck auf dem Führerschein.
+  - b) :: Die Aufschrift „BUNDESREPUBLIK DEUTSCHLAND“ sowie das Zeichen der Europäischen Union (zwölf goldene Sterne in einem blauen Rechteck), in welches das Nationalitätszeichen D eingefügt ist.
   - c) :: Folgende Daten zum Inhaber des Führerscheins und zu seiner Fahrerlaubnis entsprechend der auf dem Führerschein aufgebrachten Nummerierung; Nummer 8 (Wohnort) ist nicht vorhanden, da die Angabe nach der Richtlinie 2006/126/EG fakultativ ist und im deutschen Führerschein nicht ausgewiesen wird:
     - 1. :: Name, Doktorgrad
     - 2. :: Vorname
@@ -2634,7 +2634,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
   Seite 2 enthält:
   - a) :: folgende Daten zur Fahrerlaubnis des Inhabers entsprechend der auf dem Führerschein aufgebrachten Nummerierung:
     - 9. :: Sämtliche, auch durch andere eingeschlossene Fahrerlaubnisklassen, die der Inhaber besitzt. Nicht erteilte Klassen werden durch einen Strich entwertet.
-    - 10. :: Das Datum der Erteilung der Fahrerlaubnis der jeweiligen Fahrerlaubnisklasse. Das Erteilungsdatum einzelner oder mehrerer Fahrerlaubnisklassen kann auch im Feld 14 unter Angabe der Nummer 10 eingetragen sein. In diesen Fällen wird in der Spalte 10 mittels *)“ darauf verwiesen.
+    - 10. :: Das Datum der Erteilung der Fahrerlaubnis der jeweiligen Fahrerlaubnisklasse. Das Erteilungsdatum einzelner oder mehrerer Fahrerlaubnisklassen kann auch im Feld 14 unter Angabe der Nummer 10 eingetragen sein. In diesen Fällen wird in der Spalte 10 mittels „*)“ darauf verwiesen.
     - 11. :: Das Gültigkeitsdatum befristet erteilter Fahrerlaubnisklassen.
     - 12. :: Beschränkungen und Zusatzangaben (einschließlich Auflagen) zu den erteilten Fahrerlaubnisklassen in verschlüsselter Form gemäß Anlage 9. Beschränkungen und Zusatzangaben (einschließlich Auflagen), die nur für eine Fahrerlaubnisklasse gelten, werden in der Zeile der jeweiligen Klasse vermerkt. Solche, die für alle Fahrerlaubnisklassen gelten, werden in der letzten Zeile der Spalte ausgewiesen.
     - 13. :: Ein Feld für Eintragungen anderer Mitgliedstaaten nach Wohnsitznahme des Inhabers in diesem Staat.
@@ -2649,8 +2649,8 @@ Vorderseite[[../normengrafiken/bgbl1_2017/j3232-1_0010.jpg]]\\
 Rückseite[[../normengrafiken/bgbl1_2017/j3232-1_0020.jpg]]
 [[../normengrafiken/bgbl1_2013/j0035-1_0010.jpg]]
 [[../normengrafiken/bgbl1_2013/j0035-1_0020.jpg]]
-
-- 1. :: Anstelle der Streichung der nicht zutreffenden Berechtigungen können die zutreffenden Berechtigungen allein eingetragen werden; dann entfällt der Hinweis *) Nichtzutreffendes streichen“.
+ 
+- 1. :: Anstelle der Streichung der nicht zutreffenden Berechtigungen können die zutreffenden Berechtigungen allein eingetragen werden; dann entfällt der Hinweis „*) Nichtzutreffendes streichen“.
 - 2. :: Geringfügige Abweichungen vom vorgeschriebenen Muster sind zulässig, soweit Besonderheiten des Verfahrens, insbesondere der Einsatz maschineller Datenverarbeitung, dies erfordern.
 
 
@@ -2664,7 +2664,7 @@ Anlage 8a - (zu § 22 Absatz 4 Satz 7)
 
 In das Trägermaterial sind die folgenden fälschungserschwerenden Sicherheitsmerkmale eingearbeitet:
 
-- 1. :: als Wasserzeichen das gesetzlich für die Bundesdruckerei geschützte Motiv Bundesadler“,
+- 1. :: als Wasserzeichen das gesetzlich für die Bundesdruckerei geschützte Motiv „Bundesadler“,
 - 2. :: nur unter UV-Licht sichtbare gelb und blau fluoreszierende Melierfasern,
 - 3. :: chemische Reagenzien.
 
@@ -2684,7 +2684,7 @@ Anlage 8b - (zu § 48a)
 
 In das Trägermaterial sind die folgenden fälschungserschwerenden Sicherheitsmerkmale eingearbeitet:
 
-- 1. :: als Wasserzeichen das gesetzlich für die Bundesdruckerei geschützte Motiv Bundesadler“,
+- 1. :: als Wasserzeichen das gesetzlich für die Bundesdruckerei geschützte Motiv „Bundesadler“,
 - 2. :: nur unter UV-Licht sichtbare gelb und blau fluoreszierende Melierfasern,
 - 3. :: chemische Reagenzien.
 
@@ -2829,7 +2829,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
 
 (Vorderseite des ersten Umschlagblattes)
 [[../normengrafiken/bgbl1_2010/j2279-1_0010.pdf][PDF-Dokument wird in eigenem Fenster angezeigt]]
-
+ 
 (Rückseite des ersten Umschlagblattes)
 [[../normengrafiken/bgbl1_2010/j2279-1_0020.pdf][PDF-Dokument wird in eigenem Fenster angezeigt]]
 [[../normengrafiken/bgbl1_2010/j2279_0021.pdf][PDF-Dokument wird in eigenem Fenster angezeigt]]
@@ -2941,55 +2941,55 @@ Prothese/Orthese der Beine
 
  12
 
-
+ 
 
 (weggefallen)
 
  13
 
-
+ 
 
 (weggefallen)
 
  14
 
-
+ 
 
 (weggefallen)
 
  15
 
-
+ 
 
 (weggefallen)
 
  16
 
-
+ 
 
 (weggefallen)
 
  17
 
-
+ 
 
 (weggefallen)
 
  18
 
-
+ 
 
 (weggefallen)
 
  19
 
-
+ 
 
 (weggefallen)
 
  20
 
-
+ 
 
 (weggefallen)
 
@@ -3157,7 +3157,7 @@ Maßnahme, um eine Blockierung oder Betätigung des Gaspedals zu verhindern
 
  48
 
-
+ 
 
 (weggefallen)
 
@@ -3537,17 +3537,17 @@ Beschränkt auf Fahrzeuge mit einer alkoholempfindlichen Wegfahrsperre gemäß E
 
 70
 
-Umtausch des Führerscheins Nummer ..., ausgestellt durch ... (EU/UN-Unterscheidungszeichen, im Falle eines Drittlandes, z. B. 70.0123456789.NL“)
+Umtausch des Führerscheins Nummer ..., ausgestellt durch ... (EU/UN-Unterscheidungszeichen, im Falle eines Drittlandes, z. B. „70.0123456789.NL“)
 
 112
 
 71
 
-Duplikat des Führerscheins Nummer ... (EU/UN-Unterscheidungszeichen, im Falle eines Drittlandes, z. B. 71.987654321.HR“)
+Duplikat des Führerscheins Nummer ... (EU/UN-Unterscheidungszeichen, im Falle eines Drittlandes, z. B. „71.987654321.HR“)
 
 113
 
-
+ 
 
 (weggefallen)
 
@@ -3559,25 +3559,25 @@ Nur für vierrädrige Kraftfahrzeuge der Klasse B (B1)
 
 115
 
-
+ 
 
 (weggefallen)
 
 116
 
-
+ 
 
 (weggefallen)
 
 117
 
-
+ 
 
 (weggefallen)
 
 118
 
-
+ 
 
 (weggefallen)
 
@@ -3597,9 +3597,9 @@ Nur Fahrzeuge, die den in Klammern angegebenen Spezifikationen entsprechen, bei 
 
 79 (C1E > 12 000 kg, L ≤ 3)
 
+ 
 
-
-
+ 
 
 Beschränkung der Klasse CE auf Grund der aus der bisherigen Klasse 3 resultierenden Berechtigung zum Führen von dreiachsigen Zügen mit Zugfahrzeug der Klasse C1 und mehr als 12 000 kg Gesamtmasse und von Zügen mit Zugfahrzeug der Klasse C1 und zulassungsfreien Anhängern, wobei die Gesamtmasse mehr als 12 000 kg betragen kann und von dreiachsigen Zügen aus einem Zugfahrzeug der Klasse C1 und einem Anhänger, bei denen die zulässige Gesamtmasse des Anhängers die Leermasse des Zugfahrzeugs übersteigt (nicht durch C1E abgedeckter Teil). Die vorgenannten Berechtigungen gelten nicht für Sattelzüge mit einer zulässigen Gesamtmasse von mehr als 7,5 t.\\
 Der Buchstabe L steht in dieser Schlüsselung für die Anzahl der Achsen.
@@ -3608,9 +3608,9 @@ Der Buchstabe L steht in dieser Schlüsselung für die Anzahl der Achsen.
 
 79 (S1 ≤ 25/7 500 kg)
 
+ 
 
-
-
+ 
 
 Begrenzung der Klassen D und DE auf Kraftomnibusse mit 24 Fahrgastplätzen oder maximal 7 500 kg zulässiger Gesamtmasse, auch mit Anhänger. Die Angabe S1 steht in dieser Schlüsselung für die Anzahl der Sitzplätze, einschließlich Fahrersitz.
 
@@ -3618,9 +3618,9 @@ Begrenzung der Klassen D und DE auf Kraftomnibusse mit 24 Fahrgastplätzen oder 
 
 79 (L ≤ 3)
 
+ 
 
-
-
+ 
 
 Beschränkung der Klasse CE auf Kombinationen von nicht mehr als drei Achsen. Der Buchstabe L steht in dieser Schlüsselung für die Anzahl der Achsen.
 
@@ -3674,7 +3674,7 @@ Nur für Inhaber einer Fahrerlaubnis für zweirädrige Krafträder der Klasse A,
 
 132
 
-
+ 
 
 (weggefallen)
 
@@ -3868,13 +3868,13 @@ Klasse L, gültig auch zum Führen von Zugmaschinen mit einer durch die Bauart b
 
 175[[#FnA2-bjnr198000010bjne010011305_01][*]]}
 
-Klasse L, auch gültig zum Führen von Kraftfahrzeugen mit einer durch die Bauart bestimmten Höchstgeschwindigkeit von nicht mehr als 25 km/h und zum Führen von Kraftfahrzeugen mit Ausnahme der zu den Klassen A, A1, A2 und AM gehörenden mit einem Hubraum von nicht mehr als 50 cm
+Klasse L, auch gültig zum Führen von Kraftfahrzeugen mit einer durch die Bauart bestimmten Höchstgeschwindigkeit von nicht mehr als 25 km/h und zum Führen von Kraftfahrzeugen mit Ausnahme der zu den Klassen A, A1, A2 und AM gehörenden mit einem Hubraum von nicht mehr als 50 cm³
 
 6
 
 176
 
-Auflage: Bis zur Vollendung des 18. Lebensjahres nur für Fahrten im Inland und im Rahmen des Ausbildungsverhältnisses in dem staatlich anerkannten Ausbildungsberuf Berufskraftfahrer/Berufskraftfahrerin“ oder Fachkraft im Fahrbetrieb“ oder einem staatlich anerkannten Ausbildungsberuf, in dem vergleichbare Fertigkeiten und Kenntnisse zum Führen von Kraftfahrzeugen auf öffentlichen Straßen vermittelt werden
+Auflage: Bis zur Vollendung des 18. Lebensjahres nur für Fahrten im Inland und im Rahmen des Ausbildungsverhältnisses in dem staatlich anerkannten Ausbildungsberuf „Berufskraftfahrer/Berufskraftfahrerin“ oder „Fachkraft im Fahrbetrieb“ oder einem staatlich anerkannten Ausbildungsberuf, in dem vergleichbare Fertigkeiten und Kenntnisse zum Führen von Kraftfahrzeugen auf öffentlichen Straßen vermittelt werden
 
  7
 
@@ -3911,7 +3911,7 @@ Klasse T, nur gültig für Kraftfahrzeuge der Klasse S (seit dem 19.1.2013 AM)
 182<<FnR.FnA2-bjnr198000010bjne010011305_02>>[[#FnA2-bjnr198000010bjne010011305_02][**]]}
 
 Auflagen zu den Klassen D1, D1E, D und DE:\\
-Bis zur Vollendung des 21. Lebensjahres nur Fahrten im Inland und im Rahmen des Ausbildungsverhältnisses in dem staatlich anerkannten Ausbildungsberuf Berufskraftfahrer/Berufskraftfahrerin“ oder Fachkraft im Fahrbetrieb“ oder einem staatlich anerkannten Ausbildungsberuf, in dem vergleichbare Fertigkeiten und Kenntnisse zum Führen von Kraftfahrzeugen auf öffentlichen Straßen vermittelt werden. Die Auflagen, nur im Rahmen des Ausbildungsverhältnisses von der Fahrerlaubnis Gebrauch zu machen, entfallen nach Abschluss der Ausbildung auch vor Vollendung des 21. Lebensjahres.
+Bis zur Vollendung des 21. Lebensjahres nur Fahrten im Inland und im Rahmen des Ausbildungsverhältnisses in dem staatlich anerkannten Ausbildungsberuf „Berufskraftfahrer/Berufskraftfahrerin“ oder „Fachkraft im Fahrbetrieb“ oder einem staatlich anerkannten Ausbildungsberuf, in dem vergleichbare Fertigkeiten und Kenntnisse zum Führen von Kraftfahrzeugen auf öffentlichen Straßen vermittelt werden. Die Auflagen, nur im Rahmen des Ausbildungsverhältnisses von der Fahrerlaubnis Gebrauch zu machen, entfallen nach Abschluss der Ausbildung auch vor Vollendung des 21. Lebensjahres.
 
 13
 
@@ -3940,7 +3940,7 @@ Auflagen zu den Klassen C und CE:\\
 Bis zur Vollendung des 21. Lebensjahres nur
 
 - 1. :: bei Fahrten im Inland und
-- 2. :: im Rahmen des Ausbildungsverhältnisses in dem staatlich anerkannten Ausbildungsberuf Berufskraftfahrer/Berufskraftfahrerin“ oder Fachkraft im Fahrbetrieb“ oder einem staatlich anerkannten Ausbildungsberuf, in dem vergleichbare Fertigkeiten und Kenntnisse zum Führen von Kraftfahrzeugen auf öffentlichen Straßen vermittelt werden.
+- 2. :: im Rahmen des Ausbildungsverhältnisses in dem staatlich anerkannten Ausbildungsberuf „Berufskraftfahrer/Berufskraftfahrerin“ oder „Fachkraft im Fahrbetrieb“ oder einem staatlich anerkannten Ausbildungsberuf, in dem vergleichbare Fertigkeiten und Kenntnisse zum Führen von Kraftfahrzeugen auf öffentlichen Straßen vermittelt werden.
 
 Die Auflagen nach Nummer 1 und 2 entfallen, auch vor Vollendung des 21. Lebensjahres, wenn der Fahrerlaubnisinhaber die Berufsausbildung abgeschlossen hat.
 
@@ -3952,7 +3952,7 @@ Auflagen zu den Klassen D1 und D1E:\\
 Bis zur Vollendung des 21. Lebensjahres nur
 
 - 1. :: bei Fahrten im Inland und
-- 2. :: im Rahmen des Ausbildungsverhältnisses in dem staatlich anerkannten Ausbildungsberuf Berufskraftfahrer/Berufskraftfahrerin“ oder Fachkraft im Fahrbetrieb“ oder einem staatlich anerkannten Ausbildungsberuf, in dem vergleichbare Fertigkeiten und Kenntnisse zum Führen von Kraftfahrzeugen auf öffentlichen Straßen vermittelt werden.
+- 2. :: im Rahmen des Ausbildungsverhältnisses in dem staatlich anerkannten Ausbildungsberuf „Berufskraftfahrer/Berufskraftfahrerin“ oder „Fachkraft im Fahrbetrieb“ oder einem staatlich anerkannten Ausbildungsberuf, in dem vergleichbare Fertigkeiten und Kenntnisse zum Führen von Kraftfahrzeugen auf öffentlichen Straßen vermittelt werden.
 
 Die Auflage nach Nummer 1 entfällt, wenn der Fahrerlaubnisinhaber das 21. Lebensjahr vollendet hat. Die Auflage nach Nummer 2 entfällt, wenn der Fahrerlaubnisinhaber das 21. Lebensjahr vollendet oder die Berufsausbildung abgeschlossen hat.
 
@@ -3964,7 +3964,7 @@ Auflagen zu den Klassen D und DE:\\
 Bis zur Vollendung des 24. Lebensjahres nur
 
 - 1. :: bei Fahrten im Inland,
-- 2. :: im Rahmen des Ausbildungsverhältnisses in dem staatlich anerkannten Ausbildungsberuf Berufskraftfahrer/Berufskraftfahrerin“ oder Fachkraft im Fahrbetrieb“ oder einem staatlich anerkannten Ausbildungsberuf, in dem vergleichbare Fertigkeiten und Kenntnisse zum Führen von Kraftfahrzeugen auf öffentlichen Straßen vermittelt werden und
+- 2. :: im Rahmen des Ausbildungsverhältnisses in dem staatlich anerkannten Ausbildungsberuf „Berufskraftfahrer/Berufskraftfahrerin“ oder „Fachkraft im Fahrbetrieb“ oder einem staatlich anerkannten Ausbildungsberuf, in dem vergleichbare Fertigkeiten und Kenntnisse zum Führen von Kraftfahrzeugen auf öffentlichen Straßen vermittelt werden und
 - 3. :: bei Fahrten zur Personenbeförderung im Linienverkehr nach den §§ 42 und 43 Personenbeförderungsgesetz bei Linienlängen von bis zu 50 Kilometern oder bei Fahrten ohne Fahrgäste.
 
 Die Auflage nach Nummer 1 entfällt, wenn der Fahrerlaubnisinhaber das 21. Lebensjahr vollendet und die Berufsausbildung abgeschlossen hat.\\
@@ -4001,7 +4001,7 @@ Bis zur Vollendung des 24. Lebensjahres nur im Inland und nur für das Führen v
 
 22
 
-
+ 
 
 (weggefallen)
 
@@ -4065,7 +4065,7 @@ Berechtigt abweichend von § 6 Absatz 1 der Fahrerlaubnis-Verordnung zum Führen
 
 Anlage 10 - (zu den §§ 26 und 27)Dienstfahrerlaubnisse der Bundeswehr
 
-
+ 
 (Fundstelle: BGBl. I 2019, 223 - 225)
 a) bis zum Ablauf des 31. Dezember 1998 erteilt
 | Lfd.\\ | Dienstfahrerlaubnisklasse | Berechtigung auch zum Führen von Dienstfahrzeugen der Klassen | Zu erteilende allgemeine Fahrerlaubnisklassen | Zuteilung\\                                        | Weitere Berechtigungen oder Einschränkungen:\\                                           |
@@ -4164,9 +4164,9 @@ alle
 nein
 nein
 (weggefallen)
-
-
-
+ 
+ 
+ 
 Monaco
 alle
 nein
@@ -4212,9 +4212,9 @@ B/BE[[#bjnr198000010bjne010211124_01][1)]]}
 nein
 nein
 Fahrerlaubnisse aus den Australischen Territorien<<FnR.bjnr198000010bjne010211124_11>>[[#bjnr198000010bjne010211124_11][11)]]} :
-
-
-
+ 
+ 
+ 
 -- Australian Capital Territory
 C<<FnR.bjnr198000010bjne010211124_12>>[[#bjnr198000010bjne010211124_12][12)]]} , R[[#bjnr198000010bjne010211124_12][12)]]}
 nein<<FnR.bjnr198000010bjne010211124_07>>[[#bjnr198000010bjne010211124_07][7)]]}
@@ -4250,8 +4250,8 @@ nein
 Pkw-Fahrerlaubnisse der US-Bundes-\\
 staaten und US-amerikanischen\\
 Außengebiete[[#bjnr198000010bjne010211124_01][1)]]} :
-
-
+ 
+ 
 -- Alabama
 D
 nein
@@ -4426,9 +4426,9 @@ C
 nein
 nein
 Fahrerlaubnisse der Kanadischen Provinzen[[#bjnr198000010bjne010211124_01][1)]]} :
-
-
-
+ 
+ 
+ 
 -- Alberta
 5
 nein
@@ -4613,10 +4613,10 @@ Im Fahreignungsregister sind nachfolgende Entscheidungen zu speichern und im Fah
   | 3.2.5      | die Vorfahrt                                                                                                                      | 34                                                                                                                                                                                                                 |
   | 3.2.6      | das Abbiegen, Wenden und Rückwärtsfahren                                                                                          | 39.1, 41, 42.1, 44, 45                                                                                                                                                                                             |
   | 3.2.7      | Park- oder Halteverbote mit Behinderung von Rettungsfahrzeugen                                                                    | 51b.3, 53.1                                                                                                                                                                                                        |
-  | 3.2.7a     | Unzulässiges Halten in zweiter Reihe“                                                                                            | 51a.1, 51a.2, 51a.3                                                                                                                                                                                                |
+  | 3.2.7a     | Unzulässiges Halten in „zweiter Reihe“                                                                                            | 51a.1, 51a.2, 51a.3                                                                                                                                                                                                |
   | 3.2.7b     | Unzulässiges Parken auf Geh- und Radwegen oder Radschnellwegen                                                                    | 52a.1, 52a.2, 52a.2.1, 52a.3, 52a.4                                                                                                                                                                                |
   | 3.2.7c     | Unzulässiges Halten auf Schutzstreifen für den Radverkehr                                                                         | 54a.1, 54a.2, 54a.3                                                                                                                                                                                                |
-  | 3.2.7d     | Unzulässiges Parken in zweiter Reihe“                                                                                            | 58.1, 58.1.1, 58.1.2, 58.2, 58.2.1                                                                                                                                                                                 |
+  | 3.2.7d     | Unzulässiges Parken in „zweiter Reihe“                                                                                            | 58.1, 58.1.1, 58.1.2, 58.2, 58.2.1                                                                                                                                                                                 |
   | 3.2.8      | das Liegenbleiben von Fahrzeugen                                                                                                  | 66                                                                                                                                                                                                                 |
   | 3.2.9      | die Beleuchtung                                                                                                                   | 76                                                                                                                                                                                                                 |
   | 3.2.10     | die Benutzung von Autobahnen und Kraftfahrstraßen                                                                                 | 79, 80.1, 82, 83.1, 83.2, 85, 87a, 88                                                                                                                                                                              |
@@ -4786,20 +4786,20 @@ Anlage 15a - (zu § 71b) Voraussetzungen für die amtliche Anerkennung als Träg
 Anlage 16 - (zu § 42 Absatz 2)Rahmenlehrplan für die Durchführung der verkehrspädagogischen Teilmaßnahme des Fahreignungsseminars
 
 (Fundstelle: BGBl. I 2013, 3930 - 3932)
-- 1. :: Baustein Seminarüberblick“
-  
-- 2. :: Baustein Individuelle Fahrkarriere und Sicherheitsverantwortung“
-  
-- 3. :: Baustein Individuelle Mobilitätsbedeutung“
-  
-- 4. :: Baustein Hausaufgabe Darstellung der individuellen Mobilitätsbedeutung“
+- 1. :: Baustein „Seminarüberblick“
+   
+- 2. :: Baustein „Individuelle Fahrkarriere und Sicherheitsverantwortung“
+   
+- 3. :: Baustein „Individuelle Mobilitätsbedeutung“
+   
+- 4. :: Baustein Hausaufgabe „Darstellung der individuellen Mobilitätsbedeutung“
   |     | Lehr-Lernziele\\                                                                             | Lehr-Lerninhalte                                      | Lehr-Lernmethoden | Medien/Materialien                |
   |     | Der Seminarteilnehmer kann ...                                                               |                                                       |                   |                                   |
   |-----+----------------------------------------------------------------------------------------------+-------------------------------------------------------+-------------------+-----------------------------------|
   | 4.1 | ... begründen, inwiefern ein Mobilitätsverlust zu einer Abnahme seiner Lebensqualität führt. | -- Individuelle Bedeu-\\                              | Hausaufgabe       | Arbeitsblatt\\                    |
-  |     |                                                                                              |  tung des Mobilseins\\                                |                   | Meine individuelle Mobilitäts-\\ |
+  |     |                                                                                              |  tung des Mobilseins\\                                |                   | „Meine individuelle Mobilitäts-\\ |
   |     |                                                                                              | -- Individuelle Konsequenzen eines Mobilitätsverlusts |                   | bedeutung“                        |
-- 5. :: Baustein Erläuterung des Fahreignungs-Bewertungssystems“
+- 5. :: Baustein „Erläuterung des Fahreignungs-Bewertungssystems“
   |     | Lehr-Lernziele\\                            | Lehr-Lerninhalte             | Lehr-Lernmethoden | Medien/Materialien |
   |     | Der Seminarteilnehmer kann ...              |                              |                   |                    |
   |-----+---------------------------------------------+------------------------------+-------------------+--------------------|
@@ -4808,9 +4808,9 @@ Anlage 16 - (zu § 42 Absatz 2)Rahmenlehrplan für die Durchführung der verkehr
   |     |                                             |  verstößen\\                 |                   |                    |
   |     |                                             | -- Stufen des Punktsystems\\ |                   |                    |
   |     |                                             | -- Fristen zur Punktetilgung |                   |                    |
-- 6. :: Baustein Verkehrsregeln und Rechtsfolgen bei Regelverstößen“
-  
-- 7. :: Baustein Übung zur Klärung der individuellen Mobilitätssituation“
+- 6. :: Baustein „Verkehrsregeln und Rechtsfolgen bei Regelverstößen“
+   
+- 7. :: Baustein „Übung zur Klärung der individuellen Mobilitätssituation“
   |     | Lehr-Lernziele\\                                                                                     | Lehr-Lerninhalte                                | Lehr-Lernmethoden | Medien/Materialien |
   |     | Der Seminarteilnehmer kann ...                                                                       |                                                 |                   |                    |
   |-----+------------------------------------------------------------------------------------------------------+-------------------------------------------------+-------------------+--------------------|
@@ -4821,20 +4821,20 @@ Anlage 16 - (zu § 42 Absatz 2)Rahmenlehrplan für die Durchführung der verkehr
   |     |                                                                                                      |  Bewertungssystems\\                            |                   |                    |
   |     |                                                                                                      | -- Fahrerlaubnisentzug als Folge tatbezogener\\ |                   |                    |
   |     |                                                                                                      | Regelverstöße                                   |                   |                    |
-- 8. :: Baustein Hausaufgabe Übung zur Selbstbeobachtung“
+- 8. :: Baustein Hausaufgabe „Übung zur Selbstbeobachtung“
   |     | Lehr-Lernziele\\                                                                  | Lehr-Lerninhalte                                              | Lehr-Lernmethoden | Medien/Materialien      |
   |     | Der Seminarteilnehmer kann ...                                                    |                                                               |                   |                         |
   |-----+-----------------------------------------------------------------------------------+---------------------------------------------------------------+-------------------+-------------------------|
-  | 8.1 | ... auslösende und aufrechterhaltende Bedingungen seines Tatverhaltens schildern. | -- Individuelle Gelegenheitsstrukturen, die das Begehen von\\ | Hausaufgabe       | Arbeitsblatt Selbst-\\ |
+  | 8.1 | ... auslösende und aufrechterhaltende Bedingungen seines Tatverhaltens schildern. | -- Individuelle Gelegenheitsstrukturen, die das Begehen von\\ | Hausaufgabe       | Arbeitsblatt „Selbst-\\ |
   |     |                                                                                   | Regelverstößen\\                                              |                   | beobachtung“            |
   |     |                                                                                   | fördern                                                       |                   |                         |
 
-- 9. :: Baustein Auswertung der Hausaufgaben“
-  
-- 10. :: Baustein Risikoverhalten und Unfallfolgen“
-  
-- 11. :: Baustein Individuelle Sicherheitsverantwortung“
-  
+- 9. :: Baustein „Auswertung der Hausaufgaben“
+   
+- 10. :: Baustein „Risikoverhalten und Unfallfolgen“
+   
+- 11. :: Baustein „Individuelle Sicherheitsverantwortung“
+   
 
 
 Anlage 17 - (zu § 43a Nummer 3 Buchstabe a)Inhalte der Prüfung im Rahmen der Qualitätssicherung der Fahreignungsseminare und Einweisungslehrgänge

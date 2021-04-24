@@ -17,21 +17,21 @@ verordnet das Bundesministerium der Finanzen:
 
 Inhaltsübersicht
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 § 1 - Vorbereitungsdienst
 
@@ -67,7 +67,7 @@ Dienstvorgesetzte oder Dienstvorgesetzter der Anwärterinnen und Anwärter ist d
 § 6 - Bewertung der Leistungen
 
 (1) Die Leistungen der Anwärterinnen und Anwärter werden wie folgt bewertet:
-
+ 
 Prozentualer Anteil der\\
 erreichten Punktzahl\\
 an der erreichbaren\\
@@ -76,7 +76,7 @@ Rangpunkte/\\
 Rangpunktzahl
 Note
 Notendefinition
-
+ 
 1
 2
 3
@@ -187,11 +187,11 @@ Mitglieder einer Auswahlkommission können auch vergleichbare Tarifbeschäftigte
 § 12 - Aufbau des Vorbereitungsdienstes
 
 Der Vorbereitungsdienst gliedert sich wie folgt:
-
+ 
 Abschnitt
 Ausbildungsort
 Dauer
-
+ 
 1
 2
 3

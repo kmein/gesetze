@@ -212,15 +212,15 @@ Nummer
 Prüfungsteil
 UKW-Sprechfunkzeugnis für den Binnenschifffahrtsfunk (UBI)
 Ergänzungsprüfung für Inhaber des ROC, GOC, UBZ, LRC und SRC
-
+ 
 A.
 Theoretische Kenntnisse über den Binnenschifffahrtsfunk
-
-
+ 
+ 
 1.
 Kenntnisse und wesentliche Merkmale des Binnenschifffahrtsfunks
-
-
+ 
+ 
 1.1
 Verkehrskreise
 X
@@ -247,8 +247,8 @@ X
 X
 2.
 Rangfolge und Arten des Verkehrs im Binnenschifffahrtsfunk
-
-
+ 
+ 
 2.1
 Not-, Dringlichkeits- und Sicherheitsverkehr
 X
@@ -260,7 +260,7 @@ X
 2.3
 Bestätigung von Meldungen
 X
-
+ 
 2.4
 Anweisungen von Landfunkstellen
 X
@@ -272,11 +272,11 @@ X
 2.6
 Testsendungen
 X
-
+ 
 3.
 Funkstellen im Binnenschifffahrtsfunk
-
-
+ 
+ 
 3.1
 Schiffsfunkstellen
 X
@@ -303,12 +303,12 @@ X
 X
 4.
 Grundkenntnisse über Frequenzen und ihre Nutzung
-
-
+ 
+ 
 4.1
 Ausbreitung der Ultrakurzwellen (UKW/VHF)
 X
-
+ 
 4.2
 Zuweisung der UKW-Kanäle im Binnenschifffahrtsfunk
 X
@@ -316,39 +316,39 @@ X
 4.3
 Betriebsarten Simplex, Duplex, Semi-Duplex
 X
-
+ 
 4.4
 Digitaler Selektivruf (DSC)
 X
-
+ 
 4.5
 Zwei-Kanal-Überwachung (Dual watch)
 X
-
+ 
 4.6
 Begrenzung der Sendeleistung
 X
 X
 5.
 Automatisches Senderidentifizierungssystem (ATIS)
-
-
+ 
+ 
 5.1
 Bildung der ATIS-Nummer
 X
 X
 6.
 Grundkenntnisse über Bestimmungen und Veröffentlichungen, die den Binnenschifffahrtsfunk betreffen
-
-
+ 
+ 
 6.1
 Aufsicht über die Schiffsfunkstelle
 X
-
+ 
 6.2
 Fernmeldegeheimnis und Abhörverbot
 X
-
+ 
 6.3
 Handbuch Binnenschifffahrtsfunk
 X
@@ -375,49 +375,49 @@ X
 X
 7.
 Technische Kenntnisse
-
-
+ 
+ 
 7.1
 Strom, Spannung und Leistung
 X
-
+ 
 7.2
 Antennen
 X
-
-
+ 
+ 
 B.
 Praktische Kenntnisse und Fähigkeiten für das Bedienen einer Schiffsfunkstelle
-
-
+ 
+ 
 1.
 Praktische Kenntnisse
-
-
+ 
+ 
 1.1
 UKW-Funkanlagen
 X
-
+ 
 1.2
 Grundeinstellung
 X
-
+ 
 1.3
 Kanalauswahl
 X
-
+ 
 1.4
 Sendeleistung
 X
-
+ 
 1.5
 Rauschsperre (Squelch)
 X
-
+ 
 2.
 Abwicklung des Binnenschifffahrtsfunks
-
-
+ 
+ 
 2.1
 Notverkehr
 X
@@ -433,27 +433,27 @@ X
 2.4
 Routinegespräch
 X
-
+ 
 2.5
 Testsendungen
 X
-
+ 
 3.
 Allgemeine Form der Abwicklung des Binnenschifffahrtsfunks
-
-
+ 
+ 
 3.1
 Anruf an eine Funkstelle
 X
-
+ 
 3.2
 Beantwortung von Anrufen
 X
-
+ 
 3.3
 Anruf an alle Funkstellen
 X
-
+ 
 
 Anlage 4 - (zu § 9 Abs. 3)  Vorschriften für den Prüfungsverlauf
 

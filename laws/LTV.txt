@@ -148,7 +148,7 @@ bzgl. einzelner Änderungen vgl. Fußnote)
 - 1.1 :: auf der Ems
   im Verkehr auf den Fahrtstrecken zwischen
   - a) :: Emden-Reede und Borkum oder der Außenstation des Lotsenschiffes bei der Leuchttonne\\
-    | Westerems“ |  100 vom Hundert |
+    | „Westerems“ |  100 vom Hundert |
   - b) :: | Papenburg-Schleuse und Emden-Reede | 10 vom Hundert |
 
   - c) :: | Papenburg-Schleuse und Leer-Schleuse |  5 vom Hundert |
@@ -158,9 +158,9 @@ bzgl. einzelner Änderungen vgl. Fußnote)
   - e) :: | Emden-Reede und der Binnenrandzelbake | 50 vom Hundert |
 
   - f) :: der Binnenrandzelbake und der Außenstation des Lotsenschiffes bei Leuchttonne
-    | Westerems“ | 50 vom Hundert |
+    | „Westerems“ | 50 vom Hundert |
   - g) :: Borkum-Hafen und der Außenstation des Lotsenschiffes bei Leuchttonne
-    | Westerems“ |  55 vom Hundert |
+    | „Westerems“ |  55 vom Hundert |
 
   und im Verkehr auf den Fahrtstrecken
   - h) :: | von Emden-Reede nach Delfzijl oder Eemshaven | 55 vom Hundert |
@@ -171,7 +171,7 @@ bzgl. einzelner Änderungen vgl. Fußnote)
 - 1.2 :: auf der Weser
   im Verkehr auf den Fahrtstrecken zwischen
   - a) :: Bremen und der Außenstation des Lotsenschiffes bei der Leuchttonne
-    | 3/Jade 2“ oder der Schlüsseltonne“ | 100 vom Hundert |
+    | „3/Jade 2“ oder der „Schlüsseltonne“ | 100 vom Hundert |
   - b) :: | Bremen und Elsfleth | 15 vom Hundert |
 
   - c) :: | Elsfleth und Brake | 5 vom Hundert |
@@ -182,16 +182,16 @@ bzgl. einzelner Änderungen vgl. Fußnote)
 
   - f) :: | Bremerhaven oder der Reede von Blexen und den Ankerplätzen bei Hoheweg | 35 vom Hundert |
 
-             
+              
 
   - g) :: den Ankerplätzen bei Hoheweg und der Außenstation des Lotsenschiffes bei der
-    | Leuchttonne 3/Jade 2“ oder der Schlüsseltonne“ | 30 vom Hundert |
+    | Leuchttonne „3/Jade 2“ oder der „Schlüsseltonne“ | 30 vom Hundert |
 
   des Betrages nach Abschnitt B Teil I Spalte 2;
 - 1.3 :: auf der Jade
   im Verkehr auf den Fahrtstrecken zwischen
   - a) :: Wilhelmshaven und der Außenstation des Lotsenschiffes bei der Leuchttonne
-    | 3/Jade 2“ | 100 vom Hundert |
+    | „3/Jade 2“ | 100 vom Hundert |
   - b) :: | der inneren Grenze des Seelotsreviers und Schillig-Reede | 50 vom Hundert |
 
   - c) :: | Schillig-Reede und der äußeren Grenze des Seelotsreviers | 50 vom Hundert |
@@ -200,7 +200,7 @@ bzgl. einzelner Änderungen vgl. Fußnote)
 - 1.4 :: auf der Elbe
   im Verkehr auf den Fahrtstrecken zwischen
   - a) :: | Hamburg und der Außenstation des Lotsenschiffes\\ | 100 vom Hundert |
-          | bei der Tonne Elbe“                              |                 |
+          | bei der Tonne „Elbe“                              |                 |
 
   - b) :: | Hamburg und der Kaianlage vor Bützfleth/Stade | 20 vom Hundert |
 
@@ -209,7 +209,7 @@ bzgl. einzelner Änderungen vgl. Fußnote)
   - d) :: | Brunsbüttel und Cuxhaven | 20 vom Hundert |
 
   - e) :: | Cuxhaven und der Außenstation des Lotsenschiffes\\ | 40 vom Hundert |
-          | bei der Tonne Elbe“                               |                |
+          | bei der Tonne „Elbe“                               |                |
 
   - f) :: | dem Elbehafen Brunsbüttel und Wedel | 40 vom Hundert |
 
@@ -240,19 +240,19 @@ bzgl. einzelner Änderungen vgl. Fußnote)
   des Betrages nach Abschnitt B Teil II Spalte 2;
 - 1.7 :: auf der Trave
   im Verkehr auf den Fahrtstrecken zwischen
-  - a) :: | den Lübecker Stadthäfen und der Leuchttonne Trave“ in der Lübecker Bucht | 100 vom Hundert |
+  - a) :: | den Lübecker Stadthäfen und der Leuchttonne „Trave“ in der Lübecker Bucht | 100 vom Hundert |
 
   - b) :: den Kaianlagen von Lübeck-Siems, Lübeck-Schlutup, Lübeck-Herrenwyk
-    | und der Leuchttonne Trave“ in der Lübecker Bucht | 90 vom Hundert |
+    | und der Leuchttonne „Trave“ in der Lübecker Bucht | 90 vom Hundert |
   - c) :: den Lübecker Stadthäfen und den Kaianlagen von Lübeck-Siems,
     | Lübeck-Schlutup und Lübeck-Herrenwyk | 50 vom Hundert |
-  - d) :: den Kaianlagen von Lübeck-Travemünde und der Leuchttonne Trave“
+  - d) :: den Kaianlagen von Lübeck-Travemünde und der Leuchttonne „Trave“
     | in der Lübecker Bucht | 25 vom Hundert |
 
   des Betrages nach Abschnitt A Teil II Spalte 3;
 - 1.8 :: auf der Flensburger Förde
   im Verkehr auf den Fahrtstrecken zwischen
-  - a) :: | Flensburg und der Tonne Flensburger Förde“ | 100 vom Hundert |
+  - a) :: | Flensburg und der Tonne „Flensburger Förde“ | 100 vom Hundert |
 
   - b) :: Flensburg und der Grenze des Seelotsreviers auf der Fahrt nach den dänischen
     | Häfen an der Flensburger Förde ohne Annahme eines Seelotsen | 65 vom Hundert |
@@ -260,11 +260,11 @@ bzgl. einzelner Änderungen vgl. Fußnote)
   des Betrages nach Abschnitt B Teil II Spalte 4;
 - 1.9 :: in der Wismarer Bucht (Lotsbezirk Wismar)
   im Verkehr auf den Fahrtstrecken zwischen
-  - a) :: | Wismar und dem Offentief“ oder der Tonne Wismar“ | 100 vom Hundert |
+  - a) :: | Wismar und dem „Offentief“ oder der Tonne „Wismar“ | 100 vom Hundert |
 
-  - b) :: Wismar und Innenreede sowie Innenreede und dem Offentief“ oder
-    | der Tonne Wismar“ | 50 vom Hundert |
-  - c) :: | der Tonne Wismar“ und Außenreede | 25 vom Hundert |
+  - b) :: Wismar und Innenreede sowie Innenreede und dem „Offentief“ oder
+    | der Tonne „Wismar“ | 50 vom Hundert |
+  - c) :: | der Tonne „Wismar“ und Außenreede | 25 vom Hundert |
 
   des Betrages nach Abschnitt B Teil III Spalte 1;
 - 1.10 :: in der Mecklenburger Bucht vor Rostock-Warnemünde (Lotsbezirk Rostock)
@@ -282,14 +282,14 @@ bzgl. einzelner Änderungen vgl. Fußnote)
   des Betrages nach Abschnitt B Teil III Spalte 2;
 - 1.11 :: auf den Gewässern um Rügen (Lotsbezirk Stralsund)
   und im Verkehr auf den Fahrtstrecken zwischen
-  - a) :: | Stralsund-Seehafen-Nord und der Tonne Gellen“ | 100 vom Hundert |
+  - a) :: | Stralsund-Seehafen-Nord und der Tonne „Gellen“ | 100 vom Hundert |
 
-  - b) :: | Stralsund-Seehafen-Süd und der Tonne Gellen“ |  100 vom Hundert |
+  - b) :: | Stralsund-Seehafen-Süd und der Tonne „Gellen“ |  100 vom Hundert |
 
   - c) :: Stralsund-Seehafen-Nord und der Osteinfahrt bei den Tonnen
-    | Landtief B“ oder Osttief 2“ | 150 vom Hundert |
+    | „Landtief B“ oder „Osttief 2“ | 150 vom Hundert |
   - d) :: Stralsund-Seehafen-Süd und der Osteinfahrt bei den Tonnen
-    | Landtief B“ oder Osttief 2“ | 150 vom Hundert |
+    | „Landtief B“ oder „Osttief 2“ | 150 vom Hundert |
   - e) :: | alle übrigen Fahrtstrecken im Lotsbezirk Stralsund | 100 vom Hundert |
 
   des Betrages nach Abschnitt B Teil III Spalte 3.
@@ -300,58 +300,58 @@ Die Lotsabgabe beträgt
 
 - 2.1 :: für Fahrzeuge, die eingehend oder ein- und ausgehend zur Annahme von Seelotsen verpflichtet sind oder ohne Annahmepflicht Seelotsenberatung in Anspruch nehmen, im Verkehr auf Fahrtstrecken zwischen den Außenstationen der Lotsenschiffe bei
   - a) :: der Leuchttonne\\
-    Westerems“ und\\
+    „Westerems“ und\\
     der Lotsenversetzposition bei der\\
     Leuchttonne\\
-    | GW/TG“ | 50 vom Hundert |
+    | „GW/TG“ | 50 vom Hundert |
   - b) :: der Leuchttonne\\
-    3/Jade2“ und den\\
+    „3/Jade2“ und den\\
     Lotsenversetzpositionen bei dem\\
-    Feuerschiff GB“\\
+    Feuerschiff „GB“\\
     oder im Verkehrstrennungsgebiet\\
-    | Jade Approach“ | 50 vom Hundert |
-  - c) :: der Tonne Elbe“\\
+    | „Jade Approach“ | 50 vom Hundert |
+  - c) :: der „Tonne Elbe“\\
     und der Lotsenversetzstation bei der\\
-    | Tonne E3“ | 50 vom Hundert |
+    | Tonne „E3“ | 50 vom Hundert |
 
   des Höchstbetrages nach Abschnitt B Teil I;\\
   dies gilt nicht, wenn sich der Lotse bereits vor Beginn der Lotsung an Bord befindet oder nach der Lotsung an Bord verbleibt;
 - 2.2 :: für Fahrzeuge, wenn das Lotsenversetzmittel aus nicht revierbedingten Gründen vergeblich eingesetzt wird bei den Lotsenversetzpositionen
-  - a) :: Leuchttonne Westerems“ oder\\
+  - a) :: Leuchttonne „Westerems“ oder\\
     Leuchttonne\\
-    | GW/TG“ | 50 vom Hundert |
+    | „GW/TG“ | 50 vom Hundert |
   - b) :: Leuchttonne\\
-    3/Jade“ oder im\\
+    „3/Jade“ oder im\\
     Verkehrstrennungsgebiet
-    | Jade Approach“ | 50 vom Hundert |
-  - c) :: Tonne Elbe“ oder\\
-    | Tonne E3“ | 50 vom Hundert |
+    | „Jade Approach“ | 50 vom Hundert |
+  - c) :: Tonne „Elbe“ oder\\
+    | Tonne „E3“ | 50 vom Hundert |
 
   des Höchstbetrages nach Abschnitt B Teil I;
 - 2.3 :: wenn der Seelotse bei den Außenstationen der Lotsenschiffe durch Hubschrauber versetzt oder ausgeholt wird, weil eine andere Versetzungsart nicht möglich ist, bei
   - a) :: Leuchttonne\\
-    | Westerems“ | 50 vom Hundert |
+    | „Westerems“ | 50 vom Hundert |
   - b) :: Leuchttonne\\
-    | 3/Jade2“ | 50 vom Hundert |
-  - c) :: | Tonne Elbe“ | 50 vom Hundert |
+    | „3/Jade2“ | 50 vom Hundert |
+  - c) :: | Tonne „Elbe“ | 50 vom Hundert |
 
   des Höchstbetrages nach Abschnitt B Teil I;
 - 2.4 :: wenn der Seelotse auf Wunsch der Schiffsführung durch Hubschrauber versetzt oder ausgeholt wird, obwohl eine Versetzung durch ein Schiff hätte erfolgen können bei den Lotsenversetzpositionen
-  - a) :: Leuchttonne Westerems“ oder\\
+  - a) :: Leuchttonne „Westerems“ oder\\
     Leuchttonne\\
-    | GW/TG“ | 100 vom Hundert |
+    | „GW/TG“ | 100 vom Hundert |
   - b) :: Leuchttonne\\
-    3/Jade2“ oder im\\
-    Verkehrstrennungsgebiet Jade\\
+    „3/Jade2“ oder im\\
+    Verkehrstrennungsgebiet „Jade\\
     | Approach“ | 100 vom Hundert |
 
     100 vom Hundert
-  - c) :: Tonne Elbe“ oder\\
-    | Tonne E3“ | 100 vom Hundert |
+  - c) :: Tonne „Elbe“ oder\\
+    | Tonne „E3“ | 100 vom Hundert |
 
   des Höchstbetrages nach Abschnitt B Teil I.
 
-
+ 
 
 Anlage 2
 
@@ -362,15 +362,15 @@ bzgl. einzelner Änderungen vgl. Fußnote)
 - 1.1 :: auf der Ems
   im Verkehr auf den Fahrtstrecken zwischen
   | a) | Emden-Reede und der Außenstation des Lotsenschiffes bei der Leuchttonne\\           |   100 vom Hundert |
-  |    | Westerems“                                                                         |                   |
+  |    | „Westerems“                                                                         |                   |
   | b) | Papenburg-Schleuse und Emden-Reede                                                  |  85 vom Hundert   |
   | c) | Papenburg-Schleuse und Leer-Schleuse                                                |  55 vom Hundert   |
   | d) | Leer-Schleuse und Emden-Reede                                                       | 55 vom Hundert    |
   | e) | Emden-Reede und der Binnenrandzelbake                                               | 55 vom Hundert    |
   | f) | der Binnenrandzelbake und der Außenstation des Lotsenschiffes bei der Leuchttonne\\ | 55 vom Hundert    |
-  |    | Westerems“                                                                         |                   |
+  |    | „Westerems“                                                                         |                   |
   | g) | Borkum-Hafen und der Außenstation des Lotsenschiffes bei der Leuchttonne\\          | 85 vom Hundert    |
-  |    | Westerems“                                                                         |                   |
+  |    | „Westerems“                                                                         |                   |
 
   und im Verkehr auf den Fahrtstrecken
   | h) | von Emden-Reede nach Delfzijl oder Eemshaven  | 85 vom Hundert |
@@ -396,17 +396,17 @@ bzgl. einzelner Änderungen vgl. Fußnote)
 - 1.3 :: auf der Außenweser
   im Verkehr auf den Fahrtstrecken zwischen
   | a) | Bremerhaven und der Außenstation des Lotsenschiffes bei der Leuchttonne\\    | 100 vom Hundert |
-  |    | 3/Jade 2“ oder der Schlüsseltonne“                                         |                 |
+  |    | „3/Jade 2“ oder der „Schlüsseltonne“                                         |                 |
   | b) | der Reede von Blexen und Bremerhaven                                         | 25 vom Hundert  |
-  | c) | der Au3/Jade 2“ und der\\ | 20 vom Hundert  |
-  |    | Schlüsseltonne“ im unmittelbaren Zusammenhang mit einer Streckenlotsung\\   |                 |
+  | c) | der Außenstation des Lotsenschiffes bei der Leuchttonne „3/Jade 2“ und der\\ | 20 vom Hundert  |
+  |    | „Schlüsseltonne“ im unmittelbaren Zusammenhang mit einer Streckenlotsung\\   |                 |
   |    | von oder nach Bremerhaven                                                    |                 |
 
   des Betrages nach Abschnitt B Teil I Spalte 3;
 - 1.4 :: auf der Jade
   im Verkehr auf den Fahrtstrecken zwischen
   | a) | Wilhelmshaven und der Außenstation des Lotsenschiffes bei der Leuchttonne\\                                                                                                  | 100 vom Hundert |
-  |    | 3/Jade 2“                                                                                                                                                                   |                 |
+  |    | „3/Jade 2“                                                                                                                                                                   |                 |
   | b) | bei Lotsungen -- unmittelbar vor Antritt oder nach Abschluss einer Fahrtstreckenlotsung -- von oder nach den Pieranlagen sowie zwischen den Ankerplätzen und den Pieranlagen | 39 vom Hundert  |
 
   des Betrages nach Abschnitt B Teil I Spalte 4;
@@ -418,12 +418,12 @@ bzgl. einzelner Änderungen vgl. Fußnote)
   | d) | Hamburg und der Kaianlage vor Bützfleth/Stade         | 90 vom Hundert  |
   | e) | der Kaianlage vor Bützfleth/Stade und Brunsbüttel     | 100 vom Hundert |
   | f) | Brunsbüttel und der Außenstation des Lotsenschiffes\\ | 100 vom Hundert |
-  |    | bei der Tonne Elbe“                                  |                 |
+  |    | bei der Tonne „Elbe“                                  |                 |
   | g) | dem Elbehafen Brunsbüttel und der Außenstation\\      | 115 vom Hundert |
-  |    | des Lotsenschiffes bei der Tonne Elbe“               |                 |
+  |    | des Lotsenschiffes bei der Tonne „Elbe“               |                 |
   | h) | Brunsbüttel und Cuxhaven                              | 65 vom Hundert  |
   | i) | Cuxhaven und der Außenstation des Lotsenschiffes\\    | 85 vom Hundert  |
-  |    | bei der Tonne Elbe“                                  |                 |
+  |    | bei der Tonne „Elbe“                                  |                 |
   | j) | den Schleusen des Nord-Ostsee-Kanals\\                | 50 vom Hundert  |
   |    | und den Reeden vor Brunsbüttel                        |                 |
   | k) | den Schleusen des Nord-Ostsee-Kanals\\                | 70 vom Hundert  |
@@ -464,36 +464,36 @@ bzgl. einzelner Änderungen vgl. Fußnote)
   des Betrages nach Abschnitt B Teil II Spalte 2;
 - 1.8 :: auf der Trave
   im Verkehr auf den Fahrtstrecken zwischen
-  | a) | den Lübecker Stadthäfen und der Leuchttonne Trave“ in der Lübecker Bucht | 100 vom Hundert |
+  | a) | den Lübecker Stadthäfen und der Leuchttonne „Trave“ in der Lübecker Bucht | 100 vom Hundert |
   | b) | den Kaianlagen von Lübeck-Siems, Lübeck-Schlutup, Lübeck-Herrenwyk\\      | 90 vom Hundert  |
-  |    | und der Leuchttonne Trave“ in der Lübecker Bucht                         |                 |
+  |    | und der Leuchttonne „Trave“ in der Lübecker Bucht                         |                 |
   | c) | den Lübecker Stadthäfen und den Kaianlagen von Lübeck-Siems,\\            | 70 vom Hundert  |
   |    | Lübeck-Schlutup und Lübeck-Herrenwyk                                      |                 |
-  | d) | den Kaianlagen von Lübeck-Travemünde und der Leuchttonne Trave“\\        | 70 vom Hundert  |
+  | d) | den Kaianlagen von Lübeck-Travemünde und der Leuchttonne „Trave“\\        | 70 vom Hundert  |
   |    | in der Lübecker Bucht                                                     |                 |
 
   des Betrages nach Abschnitt B Teil II Spalte 3;
 - 1.9 :: auf der Flensburger Förde
   |   | im Verkehr auf den Fahrtstrecken zwischen Flensburg und der Tonne\\ | 100 vom Hundert |
-  |   | Flensburger Förde“                                                 |                 |
+  |   | „Flensburger Förde“                                                 |                 |
 
   des Betrages nach Abschnitt B Teil II Spalte 4;
 - 1.10 :: auf den Fahrtstrecken zwischen
-  | a) | der AuWesterems“ und\\            | 15 vom Hundert |
-  |    | der Lotsenversetzposition bei der Leuchttonne GW/TG“                                |                |
-  | b) | der Au3/Jade 2“ und\\             | 12 vom Hundert |
-  |    | der Lotsenversetzposition bei dem Feuerschiff GB“ oder im Verkehrstrennungsgebiet\\ |                |
-  |    | Jade Approach“                                                                      |                |
-  | c) | der AuElbe“\\                           |  8 vom Hundert |
-  |    | und der Lotsenversetzposition bei der Tonne E 3“                                    |                |
+  | a) | der Außenstation des Lotsenschiffes bei der Leuchttonne „Westerems“ und\\            | 15 vom Hundert |
+  |    | der Lotsenversetzposition bei der Leuchttonne „GW/TG“                                |                |
+  | b) | der Außenstation des Lotsenschiffes bei der Leuchttonne „3/Jade 2“ und\\             | 12 vom Hundert |
+  |    | der Lotsenversetzposition bei dem Feuerschiff „GB“ oder im Verkehrstrennungsgebiet\\ |                |
+  |    | „Jade Approach“                                                                      |                |
+  | c) | der Außenstation des Lotsenschiffes bei der Tonne „Elbe“\\                           |  8 vom Hundert |
+  |    | und der Lotsenversetzposition bei der Tonne „E 3“                                    |                |
 
   des Höchstbetrages nach Abschnitt B Teil I;
 - 1.11 :: in der Wismarer Bucht (Lotsbezirk Wismar)
   im Verkehr auf den Fahrtstrecken zwischen
-  | a) | Wismar und dem Offentief“ oder der Tonne Wismar“                          | 100 vom Hundert |
-  | b) | Wismar und Innenreede sowie Innenreede und dem Offentief“ oder der Tonne\\ | 50 vom Hundert  |
-  |    | Wismar“                                                                    |                 |
-  | c) | Tonne Wismar“ und Außenreede                                               | 25 vom Hundert  |
+  | a) | Wismar und dem „Offentief“ oder der Tonne „Wismar“                          | 100 vom Hundert |
+  | b) | Wismar und Innenreede sowie Innenreede und dem „Offentief“ oder der Tonne\\ | 50 vom Hundert  |
+  |    | „Wismar“                                                                    |                 |
+  | c) | Tonne „Wismar“ und Außenreede                                               | 25 vom Hundert  |
 
   des Betrages nach Abschnitt B Teil III Spalte 1;
 - 1.12 :: in der Mecklenburger Bucht vor Rostock-Warnemünde (Lotsbezirk Rostock)
@@ -507,12 +507,12 @@ bzgl. einzelner Änderungen vgl. Fußnote)
   des Betrages nach Abschnitt B Teil III Spalte 2;
 - 1.13 :: auf den Gewässern um Rügen (Lotsbezirk Stralsund) und
   im Verkehr auf den Fahrtstrecken zwischen
-  | a) | Stralsund-Seehafen-Nord und der Tonne Gellen“                                 | 100 vom Hundert  |
-  | b) | Stralsund-Seehafen-Süd und der Tonne Gellen“                                  | 110 vom Hundert  |
-  | c) | Stralsund-Seehafen-Nord und der Osteinfahrt bei den Tonnen Landtief B“ oder\\ | 150 vom Hundert  |
-  |    | Osttief 2“                                                                    |                  |
-  | d) | Stralsund-Seehafen-Süd und der Osteinfahrt bei den Tonnen Landtief B“ oder\\  | 140 vom Hundert  |
-  |    | Osttief 2“                                                                    |                  |
+  | a) | Stralsund-Seehafen-Nord und der Tonne „Gellen“                                 | 100 vom Hundert  |
+  | b) | Stralsund-Seehafen-Süd und der Tonne „Gellen“                                  | 110 vom Hundert  |
+  | c) | Stralsund-Seehafen-Nord und der Osteinfahrt bei den Tonnen „Landtief B“ oder\\ | 150 vom Hundert  |
+  |    | „Osttief 2“                                                                    |                  |
+  | d) | Stralsund-Seehafen-Süd und der Osteinfahrt bei den Tonnen „Landtief B“ oder\\  | 140 vom Hundert  |
+  |    | „Osttief 2“                                                                    |                  |
   | e) | alle übrigen Fahrtstrecken im Lotsbezirk Stralsund                             |  100 vom Hundert |
 
   des Betrages nach Abschnitt B Teil III Spalte 3.
@@ -532,7 +532,7 @@ bzgl. einzelner Änderungen vgl. Fußnote)
 - 3.1 :: im Falle des Tatbestandes nach Abschnitt 2.1.2 für den vergeblichen Weg der Betrag nach dem Abschnitt B Teil IV Nr. 4;
 - 3.2 :: im Falle des Tatbestandes nach Abschnittsnummer 2.1.4 oder 2.1.5 für 24 Stunden ein Tagegeld nach dem Abschnitt B Teil IV Nr. 5;
 - 3.2.1 :: bei freier Verpflegung und angemessener Unterkunft an Bord jedoch ein ermäßigtes Tagegeld nach dem Abschnitt B Teil IV Nr. 6;
-- 3.3 :: ein Tagegeld nach dem Abschnitt B Teil IV Nr. 5, wenn der Seelotse für Lotsungen nach Abschnittsnummer 1.10 Buchstabe a bei der Lotsenversetzposition bei der Leuchttonne GW/TG“ mit dem Hubschrauber versetzt oder ausgeholt wird, der angeforderte Seelotse am Standort des Hubschraubers oder bei der Lotsenversetzposition bereitsteht und aus nicht revierbedingten Gründen nicht an oder von Bord gebracht werden kann;
-- 3.4 :: ein Tagegeld nach dem Abschnitt B Teil IV Nr. 5, wenn der Seelotse für Lotsungen nach Abschnittsnummer 1.10 Buchstabe b bei dem Feuerschiff GB oder bei den Lotsenversetzpositionen im Verkehrstrennungsgebiet Jade Approach“ versetzt oder ausgeholt wird, oder der angeforderte Seelotse am Standort des Lotsenversetzmittels oder bei der Lotsenversetzposition bereitsteht und aus nicht revierbedingten Gründen nicht an oder von Bord gebracht werden kann;
+- 3.3 :: ein Tagegeld nach dem Abschnitt B Teil IV Nr. 5, wenn der Seelotse für Lotsungen nach Abschnittsnummer 1.10 Buchstabe a bei der Lotsenversetzposition bei der Leuchttonne „GW/TG“ mit dem Hubschrauber versetzt oder ausgeholt wird, der angeforderte Seelotse am Standort des Hubschraubers oder bei der Lotsenversetzposition bereitsteht und aus nicht revierbedingten Gründen nicht an oder von Bord gebracht werden kann;
+- 3.4 :: ein Tagegeld nach dem Abschnitt B Teil IV Nr. 5, wenn der Seelotse für Lotsungen nach Abschnittsnummer 1.10 Buchstabe b bei dem Feuerschiff GB oder bei den Lotsenversetzpositionen im Verkehrstrennungsgebiet „Jade Approach“ versetzt oder ausgeholt wird, oder der angeforderte Seelotse am Standort des Lotsenversetzmittels oder bei der Lotsenversetzposition bereitsteht und aus nicht revierbedingten Gründen nicht an oder von Bord gebracht werden kann;
 - 3.5 :: ein geldlicher Ausgleich nach dem Abschnitt B Teil IV Nr. 7, wenn die Schiffsführung nicht in der Lage ist, den Seelotsen im Bedarfsfall angemessen unterzubringen;
 - 3.6 :: die notwendigen, tatsächlich entstandenen Fahrtkosten für den Weg zwischen der Wohnung und der Einsatzstation und der Einsatzstation und dem Fahrzeug. Die Wahl des Verkehrsmittels richtet sich nach den jeweiligen Erfordernissen einer möglichst zügigen und termingerechten Besetzung des Fahrzeugs. Werden für den Weg zwischen der Einsatzstation und dem Fahrzeug öffentliche Verkehrsmittel benutzt, so sind die Fahrtkosten der 1. Klasse und die Flugkosten der Economy- oder Business-Klasse erstattungsfähig. Für die Höhe der Fahrtauslagen ist die jeweils verkehrsgünstigste Strecke zugrunde zu legen. Die Generaldirektion Wasserstraßen und Schifffahrt kann die Art des Verkehrsmittels und die Höhe der Auslagen durch Richtlinien festlegen.

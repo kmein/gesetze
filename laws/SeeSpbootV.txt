@@ -7,21 +7,21 @@ Ausfertigungsdatum: 29.08.2002
 Inhaltsübersicht
 
 Abschnitt 1
-
+ 
 Allgemeine Bestimmungen
 § 1
 Geltungsbereich
 § 2
 Begriffsbestimmungen
 Abschnitt 2
-
+ 
 Inbetriebnahme von Sportbooten oder Wassermotorrädern
 § 3
 CE-Kennzeichnung
 § 4
 Kennzeichnung von Wassermotorrädern im Inland
 Abschnitt 3
-
+ 
 Vermietung von Sportbooten oder Wassermotorrädern im Inland
 § 5
 Bootszeugnis
@@ -42,21 +42,21 @@ Pflichten der Mieter und Bootsführer
 § 13
 Beschränkungen und Ausnahmen
 Abschnitt 4
-
+ 
 Gewerbsmäßige Nutzung von Sportbooten im Inland
 § 14
 Sicherheitszeugnis
 § 15
 Fahrerlaubnis
 Abschnitt 5
-
+ 
 Schlussvorschriften für Sportboote und Wassermotorräder im Inland
 § 16
 Ordnungswidrigkeiten
 § 17
 Überwachung
 Abschnitt 6
-
+ 
 Sportboote unter deutscher Flagge im Ausland
 § 18
 Vermietung im Ausland
@@ -105,7 +105,7 @@ Besetzung von gewerbsmäßig genutzten Sportbooten (§ 15 Abs. 2)
 - 8. :: Berufsgenossenschaft
   die Dienststelle Schiffssicherheit bei der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation.
 
-(2) Für die Begriffe Küstengewässer“, küstennahe Seegewässerweltweite Fahrt” ist § 1 Absatz 2 der Sportseeschifferscheinverordnung in der Fassung der Bekanntmachung vom 3. März 1998 (BGBl. I S. 394), die zuletzt durch Artikel 4 der Verordnung vom 7. April 2010 (BGBl. I S. 399) geändert worden ist, in der jeweils geltenden Fassung anzuwenden.
+(2) Für die Begriffe „Küstengewässer“, „küstennahe Seegewässer” und „weltweite Fahrt” ist § 1 Absatz 2 der Sportseeschifferscheinverordnung in der Fassung der Bekanntmachung vom 3. März 1998 (BGBl. I S. 394), die zuletzt durch Artikel 4 der Verordnung vom 7. April 2010 (BGBl. I S. 399) geändert worden ist, in der jeweils geltenden Fassung anzuwenden.
 
 § 3 - CE-Kennzeichnung
 
@@ -300,7 +300,7 @@ Bootsname:
 
 Kennzeichen:
 
-
+ 
 
 1.
 
@@ -329,7 +329,7 @@ m
 
 m
 
-
+ 
 
 7.
 
@@ -349,15 +349,15 @@ Bedingungen und Auflagen
 
 Das vorstehend beschriebene Sportboot/Wassermotorrad ist für fahrtüchtig befunden worden.
 
-
+ 
 
 Hinweis: Das Bootszeugnis gilt nur für die Vermietung des Sportbootes. Als Vermietung im Sinne dieser Verordnung gilt die Überlassung eines Sportbootes an den Mieter ohne Gestellung eines Bootsführers oder einer Besatzung.
 
-
+ 
 
 Das Bootszeugnis ist gültig bis zum ............. Wasserstraßen- und Schifffahrtsamt
 
-
+ 
 
 (Dienstsiegel)
 
@@ -365,25 +365,25 @@ Das Bootszeugnis ist gültig bis zum ............. Wasserstraßen- und Schifffah
 
 ...............................................
 
-
+ 
 
 (im Auftrag)
 
-
+ 
 
 ...............................................
 
-
+ 
 
 (Unterschrift)
 
-
+ 
 
 zu 8.
 
 Mindestausrüstung
 
-
+ 
 
 Lfd. Nr.
 
@@ -395,7 +395,7 @@ Bemerkungen/Hinweise
 
 1
 
-
+ 
 
 Positionslaternen +++)
 
@@ -403,7 +403,7 @@ gem. KVR/SeeSchStrO
 
 2
 
-
+ 
 
 Ankerlaterne +++), Ankerball, Kegel, Nebelhorn
 
@@ -411,119 +411,119 @@ gem. KVR
 
 3
 
-
+ 
 
 Feuerlöscher ++) a 2 kg, Pulver
 
-
+ 
 
 4
 
-
+ 
 
 Log
 
-
+ 
 
 5
 
-
+ 
 
 Kompass, Handpeilkompass
 
-
+ 
 
 6
 
-
+ 
 
 Radarreflektor, Fernglas, Handlampe mit Morsetaste
 
-
+ 
 
 7
 
-
+ 
 
 Rettungsringe, davon mindestens .. Ring(e) mit Leine und Licht
 
-
+ 
 
 8
 
-
+ 
 
 vollautom. Rettungswesten ++)/ Feststoffwesten DIN 7929/EN 396/399
 
-
+ 
 
 9
 
-
+ 
 
 Sicherheitsgurte DIN 7925 und Sicherheitsleinen DIN 7927
 
-
+ 
 
 10
 
-
+ 
 
 Rettungsfloß ++) (Größe entsprechend Personenzahl)
 
-
+ 
 
 11
 
-
+ 
 
 .. Fallschirmsignale, rot, .. .. Handfackeln, rot, schwimmfähige Rauchsignale, orange
 
-
+ 
 
 12
 
-
+ 
 
 Flagge "N" und "C"/Bundesflagge
 
-
+ 
 
 13
 
-
+ 
 
 Erste-Hilfe-Kasten
 
-
+ 
 
 14
 
-
+ 
 
 1. Anker .... kg mit ... m Kette und .... m Leine/2. Anker ... kg
 
-
+ 
 
 15
 
-
+ 
 
 Schlepptrosse .... m Länge, Bootshaken, Wurfleine 16 m Länge
 
-
+ 
 
 16
 
-
+ 
 
 Fender, Festmacher
 
-
+ 
 
 17
 
-
+ 
 
 Kochanlage (Petroleum/Spiritus/Gas ++))
 
@@ -531,39 +531,39 @@ Prüfbesch. SeeBG/DVGW
 
 18
 
-
+ 
 
 Handlot oder Echolot
 
-
+ 
 
 19
 
-
+ 
 
 Empfangsanlage (Radio) oder NAVTEX
 
-
+ 
 
 20
 
-
+ 
 
 Barometer
 
-
+ 
 
 21
 
-
+ 
 
 Logbuch oder Tagebuch
 
-
+ 
 
 22
 
-
+ 
 
 Seekarten, Seehandbuch, Leuchtfeuerverzeichnis gem. Fahrtgebiet
 
@@ -571,63 +571,63 @@ bei Erfordernis
 
 23
 
-
+ 
 
 Navigationshilfsmittel
 
-
+ 
 
 24
 
-
+ 
 
 Bug- und Heckkorb, Seereling
 
-
+ 
 
 25
 
-
+ 
 
 Außenbordtreppe
 
-
+ 
 
 26
 
-
+ 
 
 Toilette
 
-
+ 
 
 27
 
-
+ 
 
 Kojen
 
-
+ 
 
 28
 
-
+ 
 
 Wassertank .... l Inhalt/Kraftstofftank ..... l Inhalt
 
-
+ 
 
 29
 
-
+ 
 
 Absperrventile an Brennstofftanks
 
-
+ 
 
 30
 
-
+ 
 
 Fäkalientank/-aufbereitungsanlage
 
@@ -635,39 +635,39 @@ Fäkalientank/-aufbereitungsanlage
 
 31
 
-
+ 
 
 Treibanker
 
-
+ 
 
 32
 
-
+ 
 
 Ersatzteile
 
-
+ 
 
 33
 
-
+ 
 
 Leckdichtungsmaterial
 
-
+ 
 
 34
 
-
+ 
 
 Werkzeug
 
-
+ 
 
 35
 
-
+ 
 
 Feuerlöschanlage ++) im Motorraum
 
@@ -675,7 +675,7 @@ bei Motoryachten
 
 36
 
-
+ 
 
 Sturmfock/Trysegel
 
@@ -683,29 +683,29 @@ bei Segelyachten
 
 37
 
-
+ 
 
 Reffeinrichtung
 
 38
 
-
+ 
 
 Drahtschere/Bolzenschneider
 
 39
 
-
+ 
 
 Kappbeil
 
-
+ 
 
 Zusätzlich für Sportboote mit einer Länge über alles von 12,00 Metern und mehr:
 
 40
 
-
+ 
 
 Fahrtstörungslaternen +++), Bälle
 
@@ -713,7 +713,7 @@ gem. KVR
 
 41
 
-
+ 
 
 Schallsignalanlage +++)
 
@@ -721,7 +721,7 @@ gem. KVR
 
 42
 
-
+ 
 
 Glocke, Durchmesser 200 mm +++)
 
@@ -729,7 +729,7 @@ gem. KVR
 
 43
 
-
+ 
 
 UKW-Sprechfunkanlage/GMDSS
 
@@ -737,35 +737,35 @@ zugelassen
 
 44
 
-
+ 
 
 Navigationsanlage (Funkpeiler, GPS etc.)
 
-
+ 
 
 45
 
-
+ 
 
 Feuerlöscher ++) a 2 kg
 
+ 
 
-
-
+ 
 
 Sonstige Ausrüstung/Hinweise
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
+ 
 
 - *) :: erforderlich, wenn ausgefüllt
 - ++) :: Prüfungsnachweis

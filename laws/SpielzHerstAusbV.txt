@@ -206,19 +206,19 @@ Planen und Vorbereiten von Arbeitsabläufen\\
 
 8
 
+ 
 
+ 
 
-
-
-
+ 
 
 - e) :: Fertigungsverfahren im Hinblick auf die Wirtschaftlichkeit des Arbeitsprozesses, die Produktqualität sowie den Arbeits- und Gesundheitsschutz auswählen
 
+ 
 
+ 
 
-
-
-
+ 
 
 3
 
@@ -235,19 +235,19 @@ Auswählen von Werk- und Hilfsstoffen\\
 
 10
 
+ 
 
+ 
 
-
-
-
+ 
 
 - f) :: Werk- und Hilfsstoffe nach ihren technischen und gesundheitlichen Anforderungen und nach ihrer Wirtschaftlichkeit auswählen sowie im Hinblick auf ihren Verwendungszweck und die äußere Gestaltung des Spielzeugs einsetzen
 
+ 
 
+ 
 
-
-
-
+ 
 
 3
 
@@ -262,11 +262,11 @@ Be- und Verarbeiten von Werk- und Hilfsstoffen\\
 
 10
 
+ 
 
+ 
 
-
-
-
+ 
 
 - d) :: Holz- und Holzwerkstoffe be- und verarbeiten, insbesondere anreißen, zuschneiden, bohren, schleifen und hobeln
 - e) :: Holzverbindungen herstellen, insbesondere mit Nut, Zapfen und Dübeln sowie durch Kleben
@@ -276,11 +276,11 @@ Be- und Verarbeiten von Werk- und Hilfsstoffen\\
 
 10
 
+ 
 
+ 
 
-
-
-
+ 
 
 8
 
@@ -291,22 +291,22 @@ Einrichten und Bedienen von Maschinen, Anlagen und Zusatzeinrichtungen\\
 - b) :: Handmaschinen einsetzen
 - c) :: Maschinen, Anlagen und Zusatzeinrichtungen unter Beachtung der Unfallverhütungs-, Gesundheits- und Umweltschutzvorschriften bedienen und überwachen
 
+ 
 
-
-
+ 
 
 10
 
-
+ 
 
 - d) :: mechanische, pneumatische, hydraulische, elektrische und elektronische Steuer- und Regelsysteme anwenden
 - e) :: Maschinen, Anlagen und Zusatzeinrichtungen einrichten
 
+ 
 
+ 
 
-
-
-
+ 
 
 8
 
@@ -319,24 +319,24 @@ Instandhalten von Werkzeugen und Maschinen\\
 
 2
 
+ 
 
+ 
 
-
-
-
+ 
 
 - b) :: Geräte und Hilfsmittel zur Maschinenpflege nach Wartungsplan einsetzen
 - c) :: Werkzeuge und Maschinen reinigen und pflegen
 - d) :: Maschinenstörungen feststellen und Fehlerbeseitigung einleiten, Vorbeugemaßnahmen ergreifen
 - e) :: vorbeugende Instandhaltung durchführen, insbesondere Verschleißteile kontrollieren, austauschen oder Austausch veranlassen
 
+ 
 
-
-
+ 
 
 6
 
-
+ 
 
 10
 
@@ -348,22 +348,22 @@ Herstellen von Rohteilen\\
 - c) :: Vorrichtungen und Schablonen zur Holzbearbeitung herstellen
 - d) :: prismatische, rotationssymmetrische und flächenhafte Holzteile anfertigen
 
-
+ 
 
 14
 
+ 
 
-
-
+ 
 
 - e) :: Kunststoffteile nach unterschiedlichen Verfahrenstechniken unter Einhaltung von Rezepturen und technologischen Parametern anfertigen
 - f) :: Materialbedarf ermitteln
 
+ 
 
+ 
 
-
-
-
+ 
 
 10
 
@@ -377,22 +377,22 @@ Veredeln von Oberflächen\\
 
 6
 
+ 
 
+ 
 
-
-
-
+ 
 
 - c) :: mit Farbe gestalten, insbesondere durch Bemalen, Bedrucken, Farbspritzen und Prägen
 - d) :: Reststoffe nach Sorten trennen, lagern und umweltgerecht entsorgen
 
+ 
 
-
-
+ 
 
 6
 
-
+ 
 
 12
 
@@ -404,13 +404,13 @@ Zusammenfügen und Montieren\\
 - c) :: geeignete Grifftechniken anwenden, richtige Körperhaltung beachten
 - d) :: Baugruppen montieren, insbesondere kleben, schrauben und nageln
 
-
+ 
 
 12
 
+ 
 
-
-
+ 
 
 - e) :: Körper- und Zubehörteile montieren
 - f) :: Effekt- und Bewegungsmechanismen einbauen
@@ -418,11 +418,11 @@ Zusammenfügen und Montieren\\
 - h) :: Augen einsetzen
 - i) :: Haare befestigen
 
+ 
 
+ 
 
-
-
-
+ 
 
 8
 
@@ -436,11 +436,11 @@ Dekorieren\\
 - c) :: Plüschnähte auskratzen, Körper ausformen und garnieren
 - d) :: Bau- und Körperteile gestalten, insbesondere durch Bemalen, Spritzen und Aufsticken
 
+ 
 
+ 
 
-
-
-
+ 
 
 8
 
@@ -454,11 +454,11 @@ Qualitätssicherung\\
 
 6
 
+ 
 
+ 
 
-
-
-
+ 
 
 - c) :: Qualität überprüfen, insbesondere auf Funktionstüchtigkeit und Verarbeitung
 - d) :: Prüftechniken anwenden und Prüfergebnisse bewerten
@@ -466,23 +466,23 @@ Qualitätssicherung\\
 - f) :: Retouren und Reklamationen bearbeiten
 - g) :: Erzeugnisse gemäß den betrieblichen Richtlinien verpacken sowie lager- und versandfertig machen
 
+ 
 
+ 
 
-
-
-
+ 
 
 4
 
 15
 
-
+ 
 
 Zur Fortsetzung der Berufsausbildung sollen Ausbildungsinhalte aus der laufenden Nummer 8, aus der laufenden Nummer 12 oder der laufenden Nummer 13 des Ausbildungsrahmenplanes unter Berücksichtigung betriebsbedingter Schwerpunkte vertieft vermittelt werden.
 
+ 
 
-
-
+ 
 
 4
 

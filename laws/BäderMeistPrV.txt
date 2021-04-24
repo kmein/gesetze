@@ -291,8 +291,8 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
 - 1. :: in den Prüfungsteilen nach § 3 Absatz 1 Nummer 1 bis 3,
-- 2. :: im Prüfungsfach Management und Führungsaufgaben“,
-- 3. :: im Prüfungsfach Betriebstechnische Situationsaufgabe“.
+- 2. :: im Prüfungsfach „Management und Führungsaufgaben“,
+- 3. :: im Prüfungsfach „Betriebstechnische Situationsaufgabe“.
 
 (2) Ist die Prüfung bestanden, sind die folgenden Bewertungen jeweils kaufmännisch auf eine ganze Zahl zu runden:
 

@@ -227,11 +227,11 @@ Planen und Vorbereiten von Arbeitsabläufen, Kontrollieren der Arbeitsergebnisse
 
 6*)
 
+ 
 
+ 
 
-
-
-
+ 
 
 6
 
@@ -292,11 +292,11 @@ Aufstellen und Prüfen von Gerüsten sowie von Förder- und Transporteinrichtung
 
 4
 
+ 
 
+ 
 
-
-
-
+ 
 
 11
 
@@ -312,11 +312,11 @@ Verarbeiten von Holz, Herstellen von Holzverbindungen\\
 
 20
 
+ 
 
+ 
 
-
-
-
+ 
 
 12
 
@@ -357,11 +357,11 @@ Bauteile nach funktionalen, statischen und gestalterischen Gesichtspunkten mit h
 
 22
 
+ 
 
+ 
 
-
-
-
+ 
 
 15
 
@@ -384,7 +384,7 @@ Herstellen von Dämmungen sowie von Schutz- und Trennschichten im Fassadenbau\\
 
 - *) :: Die Ausbildungsinhalte der laufenden Nummern 5 bis 9 sind im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
 
-
+ 
 
 II. Berufliche Fachbildung
 
@@ -399,22 +399,22 @@ Planen und Vorbereiten von Arbeitsabläufen, Kontrollieren der Arbeitsergebnisse
 - d) :: Technische Regelwerke, Herstellervorgaben und Bedienungsanweisungen anwenden
 - e) :: Witterungsbedingungen bei der Durchführung von Arbeiten berücksichtigen
 
-
+ 
 
 2*)
 
+ 
 
-
-
+ 
 
 - f) :: Maßnahmen zur Sicherstellung des Arbeitsablaufes ergreifen
 - g) :: Arbeitsabläufe und Arbeitszusammenhänge erkennen, Verbesserungen vorschlagen
 
+ 
 
+ 
 
-
-
-
+ 
 
 2*)
 
@@ -435,24 +435,24 @@ Einrichten, Sichern und Räumen von Baustellen\\
 - k) :: Baustellenabfälle getrennt sammeln, Maßnahmen für den Abtransport ergreifen
 - l) :: Baustoffe, Geräte und Maschinen für den Abtransport vorbereiten
 
-
+ 
 
 2*)
 
+ 
 
-
-
+ 
 
 - m) :: Verkehrs- und Transportwege auf ihre Eignung beurteilen, Maßnahmen zur Nutzung veranlassen
 - n) :: Verkehrsleiteinrichtungen nach vorgegebenem Verkehrszeichenplan aufstellen und unterhalten
 - o) :: Lagerung von Gefahrstoffen sicherstellen
 - p) :: Baustelle für die Übergabe räumen
 
+ 
 
+ 
 
-
-
-
+ 
 
 2*)
 
@@ -465,13 +465,13 @@ Durchführen von Messungen\\
 - b) :: Schnur- und Visiergerüste anbringen und einmessen
 - c) :: Meßgeräte auf Funktion prüfen und warten
 
-
+ 
 
 3*)
 
+ 
 
-
-
+ 
 
 4
 
@@ -484,13 +484,13 @@ Prüfen, Transportieren und Lagern von Baustoffen und Bauteilen\\
 - d) :: Kunststoffe und Verbundbaustoffe hinsichtlich ihrer Eigenschaften dem Verwendungszweck zuordnen
 - e) :: Klebe-, Anstrich- und Dichtungsmittel dem Verwendungszweck zuordnen
 
+ 
 
-
-
+ 
 
 3*)
 
-
+ 
 
 - f) :: Sonderelemente, insbesondere Photovoltaikelemente und transparente Wärmedämmungen, auf Unversehrtheit prüfen
 - g) :: Bauteile auf farbliche Übereinstimmung und Gleichmäßigkeit der Oberflächen beurteilen
@@ -499,11 +499,11 @@ Prüfen, Transportieren und Lagern von Baustoffen und Bauteilen\\
 - k) :: Bedarf an Bau- und Bauhilfsstoffen sowie an Bauteilen ermitteln, diese anfordern und bereitstellen
 - l) :: Lagerlisten führen
 
+ 
 
+ 
 
-
-
-
+ 
 
 2*)
 
@@ -516,13 +516,13 @@ Bearbeiten von Baustoffen und Bauteilen für den Fassadenbau, Behandeln von Ober
 - b) :: Korrosionsschutz sicherstellen
 - c) :: Oberflächen behandeln, Schäden ausbessern
 
+ 
 
-
-
+ 
 
 4
 
-
+ 
 
 6
 
@@ -537,11 +537,11 @@ Einbauen von Verankerungs-, Verbindungs- und Befestigungselementen, Herstellen v
 - f) :: Klebeverbindungen herstellen
 - g) :: Maßnahmen zum Korrosionsschutz ergreifen
 
+ 
 
+ 
 
-
-
-
+ 
 
 4
 
@@ -556,11 +556,11 @@ Herstellen von Dämmungen sowie von Schutz- und Trennschichten im Fassadenbau\\
 - d) :: Entdröhnungsstoffe aufbringen
 - e) :: Dichtungsbänder einlegen sowie Abdeckbänder und Profile aufsetzen, Dichtungsmassen verarbeiten
 
+ 
 
+ 
 
-
-
-
+ 
 
 3
 
@@ -575,13 +575,13 @@ Kontrollieren der Einbaubedingungen zur Vorbereitung der Montage\\
 - d) :: Untergründe unter Berücksichtigung der Fassadenstatik auf Verankerungsmöglichkeiten prüfen
 - e) :: Abwicklungen aufreißen, Schablonen herstellen
 
-
+ 
 
 4
 
+ 
 
-
-
+ 
 
 9
 
@@ -595,23 +595,23 @@ Herstellen und Montieren von Unterkonstruktionen\\
 - e) :: Einzelteile der Unterkonstruktion miteinander verbinden
 - f) :: Unterkonstruktionen thermisch vom Untergrund entkoppeln, ausrichten und verankern
 
-
+ 
 
 10
 
+ 
 
-
-
+ 
 
 - g) :: Maßnahmen gegen Kontaktkorrosion ergreifen
 - h) :: Sonderbauteile montieren
 - i) :: Bewegungsfugen ausbilden
 
+ 
 
+ 
 
-
-
-
+ 
 
 8
 
@@ -625,25 +625,25 @@ Befestigen von Fassadenelementen und Einbauteilen\\
 - c) :: Beschichtungen und Konservierungsmittel aufbringen
 - d) :: Fassadenelemente aus mineralischen Baustoffen, insbesondere Keramik und Faserzement, an Unterkonstruktionen befestigen
 
-
+ 
 
 5
 
+ 
 
-
-
+ 
 
 - e) :: Fassadenelemente aus Metall, insbesondere Tafeln, Kassetten, Paneele und Profile, an Unterkonstruktionen befestigen
 - f) :: Fassadenelemente an vorhandene Bauteile anpassen und Anschlüsse herstellen
 - g) :: Fugen ausbilden, schließen, abdichten, hinterlegen und abdecken
 
+ 
 
-
-
+ 
 
 17
 
-
+ 
 
 - h) :: gestalterische Gesichtspunkte, Verlegearten und Fugenausbildung bei der Montage beachten
 - i) :: Fassadenelemente aus Glas befestigen, insbesondere mit Schrauben, Bolzen und Schienen sowie durch Kleben
@@ -654,11 +654,11 @@ Befestigen von Fassadenelementen und Einbauteilen\\
 - o) :: Formteile, Sonderbauteile und Einbauteile ausrichten, einsetzen und befestigen
 - p) :: Rinnen und Fallrohre abbauen und anbringen, Entwässerungsanschlüsse herstellen
 
+ 
 
+ 
 
-
-
-
+ 
 
 17
 
@@ -673,11 +673,11 @@ Herstellen und Schließen von Aussparungen, Herstellen von An- und Abschlüssen\
 - d) :: Lüftungsgitter sowie Be- und Entlüftungsprofile ausrichten und einbauen
 - e) :: Belange des Naturschutzes berücksichtigen
 
+ 
 
+ 
 
-
-
-
+ 
 
 4
 
@@ -693,11 +693,11 @@ Errichten von Blitzschutzanlagen für den äußeren Blitzschutz\\
 - e) :: blitzstromtragfähige Verbindungselemente an die Fassadenkonstruktion anschließen und Fassadenunterkonstruktion elektrisch leitend verbinden
 - f) :: Trennstelle einbauen und Widerstände von Erdungs- und Blitzschutzanlagen messen und dokumentieren
 
+ 
 
+ 
 
-
-
-
+ 
 
 4
 
@@ -718,11 +718,11 @@ Instandhalten und Sanieren von Fassaden\\
 - k) :: nachträgliche und zusätzliche Dämmungen einbauen
 - l) :: Wartungsarbeiten durchführen und dokumentieren
 
+ 
 
+ 
 
-
-
-
+ 
 
 4
 
@@ -735,23 +735,23 @@ Qualitätssichernde Maßnahmen, Anfertigen von Baudokumenten\\
 - b) :: Tagesbericht erstellen
 - c) :: ausgeführte Arbeiten bis zur Abnahme vor Beschädigungen schützen
 
+ 
 
-
-
+ 
 
 2*)
 
-
+ 
 
 - d) :: qualitätssichernde Maßnahmen im Rahmen des Arbeitsauftrages durchführen, Arbeitsergebnisse feststellen und dokumentieren
 - e) :: Aufmaß anfertigen
 - f) :: Leistung berechnen
 
+ 
 
+ 
 
-
-
-
+ 
 
 2*)
 

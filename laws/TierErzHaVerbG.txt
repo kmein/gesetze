@@ -158,7 +158,7 @@ Anlage - (zu § 3 Absatz 1 Satz 2 Nummer 2)Anforderungen an die Haltung von Pelz
 
 (BGBl. I 2017, 2149 --- 2150)
 Die §§ 3 und 4 der Tierschutz-Nutztierhaltungsverordnung bleiben von den Vorschriften dieser Anlage unberührt.
-
+ 
 
 - 1. :: Pelztiere dürfen nur in Haltungseinrichtungen gehalten werden, die den Anforderungen nach den Nummern 2 bis 9 entsprechen.
 - 2. :: Die Haltungseinrichtung muss
@@ -194,7 +194,7 @@ Die §§ 3 und 4 der Tierschutz-Nutztierhaltungsverordnung bleiben von den Vorsc
   ausgestattet sein. Haltungseinrichtungen müssen ferner mit Tunnelröhren, Haltungseinrichtungen für Sumpfbiber und Chinchillas zusätzlich mit Kisten ausgestattet sein.
 - 9. :: Gebäude müssen so zu beleuchten sein, dass sich die Tiere untereinander erkennen und durch die mit der Fütterung und Pflege betrauten Personen in Augenschein genommen werden können. Gebäude, die nach dem 12. Dezember 2006 in Benutzung genommen worden sind, müssen mit Lichtöffnungen versehen sein, deren Fläche mindestens 5 Prozent der Grundfläche entspricht und die so angeordnet sind, dass eine möglichst gleichmäßige Verteilung des Lichts gewährleistet wird.
 
-
+ 
 
 - 10. :: Wer Pelztiere hält, hat sicherzustellen, dass
   - a) :: nicht ausgewachsene Tiere nicht einzeln gehalten werden;

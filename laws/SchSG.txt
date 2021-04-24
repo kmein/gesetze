@@ -690,7 +690,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
   \\
   Zu Regel 1.1:\\
   \\
-  Klarstellung des Begriffs Massengutschiff“ und Anleitung zur Anwendung von Regeln im SOLAS-Übereinkommen auf Schiffe, die gelegentlich Massengüter in loser Schüttung befördern und nicht als Massengutschiffe entsprechend Regel XII/1.1 und Kapitel II-1 eingestuft sind (MSC.277(85))
+  Klarstellung des Begriffs „Massengutschiff“ und Anleitung zur Anwendung von Regeln im SOLAS-Übereinkommen auf Schiffe, die gelegentlich Massengüter in loser Schüttung befördern und nicht als Massengutschiffe entsprechend Regel XII/1.1 und Kapitel II-1 eingestuft sind (MSC.277(85))
   Angenommen am 28. November 2008
   (VkBl. 2010 S. 487)\\
   \\
@@ -1223,7 +1223,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 - I.4 :: Zu Kapitel V:
 - I.4.0 :: Zu Regel V/14\\
   \\
-  EntschlieGrundsätze für eine sichere Mindestbesatzung“
+  Entschließung A.1047(27) „Grundsätze für eine sichere Mindestbesatzung“
   Angenommen am 30. November 2011
   (VkBl. 2013 S. 201)
 - I.4.1 :: Zu Regel V/15 (hinsichtlich der anzuwendenden Mindestanforderungen):\\
@@ -1823,12 +1823,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Entschließung MSC.302(87)
     Angenommen am 17. Mai 2010
     (VkBl. 2012 S. 829)
-  - 33. :: MEPC.2/Rundschreiben 18 Vorläufige Einstufung Flüssiger Stoffe“ vom 17. Dezember 2010
+  - 33. :: MEPC.2/Rundschreiben 18 „Vorläufige Einstufung Flüssiger Stoffe“ vom 17. Dezember 2010
     (VkBl. 2013 S. 125)
-  - 34. :: EntschlieÜberarbeitete Empfehlungen zum Begehen geschlossener Räume an Bord von Schiffen“
+  - 34. :: Entschließung A.1050(27) „Überarbeitete Empfehlungen zum Begehen geschlossener Räume an Bord von Schiffen“
     Angenommen am 30. November 2011
     (VkBl. 2013 S. 782)
-  - 35. :: EntschlieAnwendung von Regel III/17-1 SOLAS auf Schiffe, auf die sich Kapitel III nicht bezieht“
+  - 35. :: Entschließung MSC.346(91) „Anwendung von Regel III/17-1 SOLAS auf Schiffe, auf die sich Kapitel III nicht bezieht“
     Angenommen am 30. November 2012
     (VkBl. 2014 S. 625)
   - 36. :: Richtlinien für die Zulassung von Leichtschaum-Feuerlöschsystemen unter Verwendung von Innenraumluft für den Schutz von Maschinenräumen und Ladepumpenräumen, MSC.1/Rundschreiben 1271

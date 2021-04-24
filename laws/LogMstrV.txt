@@ -53,15 +53,15 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetz
 
 § 3 - Zulassungsvoraussetzungen
 
-(1) Zur Prüfung im Prüfungsteil Grundlegende Qualifikationen“ ist zuzulassen, wer Folgendes nachweist:
+(1) Zur Prüfung im Prüfungsteil „Grundlegende Qualifikationen“ ist zuzulassen, wer Folgendes nachweist:
 
 - 1. :: eine mit Erfolg abgelegte Abschlussprüfung in einem anerkannten Ausbildungsberuf aus dem Bereich der Logistik oder
 - 2. :: eine mit Erfolg abgelegte Abschlussprüfung in einem sonstigen anerkannten Ausbildungsberuf und danach eine mindestens einjährige Berufspraxis oder
 - 3. :: eine mindestens vierjährige Berufspraxis.
 
-(2) Zur Prüfung im Prüfungsteil Handlungsspezifische Qualifikationen“ ist zuzulassen, wer Folgendes nachweist:
+(2) Zur Prüfung im Prüfungsteil „Handlungsspezifische Qualifikationen“ ist zuzulassen, wer Folgendes nachweist:
 
-- 1. :: das Ablegen des Prüfungsteils Grundlegende Qualifikationen“, das nicht länger als fünf Jahre zurückliegt, und
+- 1. :: das Ablegen des Prüfungsteils „Grundlegende Qualifikationen“, das nicht länger als fünf Jahre zurückliegt, und
 - 2. :: über die in Absatz 1 Nummer 1 bis 3 genannten Voraussetzungen hinaus ein Jahr Berufspraxis.
 
 (3) Die Berufspraxis nach den Absätzen 1 und 2 soll wesentliche Bezüge zur Tätigkeit eines Geprüften Logistikmeisters/einer Geprüften Logistikmeisterin nach § 1 Absatz 3 aufweisen.
@@ -69,7 +69,7 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetz
 
 § 4 - Grundlegende Qualifikationen
 
-(1) Im Prüfungsteil Grundlegende Qualifikationen“ ist in folgenden Prüfungsbereichen zu prüfen:
+(1) Im Prüfungsteil „Grundlegende Qualifikationen“ ist in folgenden Prüfungsbereichen zu prüfen:
 
 - 1. :: Rechtsbewusstes Handeln,
 - 2. :: Betriebswirtschaftliches Handeln,
@@ -77,7 +77,7 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetz
 - 4. :: Zusammenarbeit im Betrieb,
 - 5. :: Berücksichtigen naturwissenschaftlicher und technischer Gesetzmäßigkeiten.
 
-(2) Im Prüfungsbereich Rechtsbewusstes Handeln“ soll die Fähigkeit nachgewiesen werden, bezogen auf die beruflichen Aufgaben einschlägige Rechtsvorschriften zu berücksichtigen. Dazu gehört die Fähigkeit, die Arbeitsbedingungen der Mitarbeiter und Mitarbeiterinnen unter arbeitsrechtlichen Aspekten zu gestalten sowie den Arbeits-, Gesundheits- und Umweltschutz nach rechtlichen Grundlagen zu gewährleisten und die Zusammenarbeit mit den entsprechenden Institutionen sicherzustellen. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(2) Im Prüfungsbereich „Rechtsbewusstes Handeln“ soll die Fähigkeit nachgewiesen werden, bezogen auf die beruflichen Aufgaben einschlägige Rechtsvorschriften zu berücksichtigen. Dazu gehört die Fähigkeit, die Arbeitsbedingungen der Mitarbeiter und Mitarbeiterinnen unter arbeitsrechtlichen Aspekten zu gestalten sowie den Arbeits-, Gesundheits- und Umweltschutz nach rechtlichen Grundlagen zu gewährleisten und die Zusammenarbeit mit den entsprechenden Institutionen sicherzustellen. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: Berücksichtigen arbeitsrechtlicher Vorschriften und Bestimmungen bei der Gestaltung individueller Arbeitsverhältnisse und bei Fehlverhalten von Mitarbeitern und Mitarbeiterinnen, insbesondere unter Berücksichtigung des Arbeitsvertragsrechts, des Tarifvertragsrechts und betrieblicher Vereinbarungen;
 - 2. :: Berücksichtigen der Vorschriften des Betriebsverfassungsgesetzes, insbesondere der Beteiligungsrechte betriebsverfassungsrechtlicher Organe;
@@ -86,7 +86,7 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetz
 - 5. :: Berücksichtigen der Vorschriften des Umweltrechts, insbesondere hinsichtlich des Gewässer- und Bodenschutzes, der Abfallbeseitigung, der Luftreinhaltung und der Lärmbekämpfung, des Strahlenschutzes und des Schutzes vor gefährlichen Stoffen;
 - 6. :: Berücksichtigen einschlägiger wirtschaftsrechtlicher Vorschriften und Bestimmungen, insbesondere der Produktverantwortung, der Produkthaftung sowie des Datenschutzes.
 
-(3) Im Prüfungsbereich Betriebswirtschaftliches Handeln“ soll die Fähigkeit nachgewiesen werden, bezogen auf die beruflichen Aufgaben betriebswirtschaftliche Gesichtspunkte zu berücksichtigen und volkswirtschaftliche Zusammenhänge herzustellen. Es sollen Unternehmensformen dargestellt sowie deren Auswirkungen auf die eigene Aufgabenwahrnehmung analysiert und beurteilt werden können. Weiterhin soll die Fähigkeit nachgewiesen werden, betriebliche Abläufe nach wirtschaftlichen Gesichtspunkten zu planen, zu beurteilen und zu beeinflussen. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(3) Im Prüfungsbereich „Betriebswirtschaftliches Handeln“ soll die Fähigkeit nachgewiesen werden, bezogen auf die beruflichen Aufgaben betriebswirtschaftliche Gesichtspunkte zu berücksichtigen und volkswirtschaftliche Zusammenhänge herzustellen. Es sollen Unternehmensformen dargestellt sowie deren Auswirkungen auf die eigene Aufgabenwahrnehmung analysiert und beurteilt werden können. Weiterhin soll die Fähigkeit nachgewiesen werden, betriebliche Abläufe nach wirtschaftlichen Gesichtspunkten zu planen, zu beurteilen und zu beeinflussen. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: Berücksichtigen der ökonomischen Handlungsprinzipien von Unternehmen unter Einbeziehung volkswirtschaftlicher Zusammenhänge und sozialer Wirkungen;
 - 2. :: Berücksichtigen der Grundsätze betrieblicher Aufbau- und Ablauforganisation;
@@ -94,7 +94,7 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetz
 - 4. :: Anwenden von Methoden der Entgeltfindung und der kontinuierlichen betrieblichen Verbesserung;
 - 5. :: Durchführen von Kostenrechnungen sowie Anwenden von Kalkulationsverfahren.
 
-(4) Im Prüfungsbereich Anwenden von Methoden der Information, Kommunikation und Planung“ soll die Fähigkeit nachgewiesen werden, Projekte und Prozesse zu analysieren, zu planen und transparent zu machen. Dazu gehört die Fähigkeit, Daten aufzubereiten, technische Unterlagen zu erstellen, entsprechende Planungstechniken einzusetzen sowie angemessene Präsentationstechniken anzuwenden. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(4) Im Prüfungsbereich „Anwenden von Methoden der Information, Kommunikation und Planung“ soll die Fähigkeit nachgewiesen werden, Projekte und Prozesse zu analysieren, zu planen und transparent zu machen. Dazu gehört die Fähigkeit, Daten aufzubereiten, technische Unterlagen zu erstellen, entsprechende Planungstechniken einzusetzen sowie angemessene Präsentationstechniken anzuwenden. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: Erfassen, Analysieren und Aufbereiten von Prozess- und Produktionsdaten mittels EDV-Systemen und Bewerten visualisierter Daten;
 - 2. :: Bewerten von Planungstechniken und Analysemethoden sowie deren Anwendungsmöglichkeiten;
@@ -103,7 +103,7 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetz
 - 5. :: Anwenden von Projektmanagementmethoden;
 - 6. :: Auswählen und Anwenden von Informations- und Kommunikationsformen einschließlich des Einsatzes entsprechender Informations- und Kommunikationsmittel.
 
-(5) Im Prüfungsbereich Zusammenarbeit im Betrieb“ soll die Fähigkeit nachgewiesen werden, Zusammenhänge des Sozialverhaltens zu erkennen, ihre Auswirkungen auf die Zusammenarbeit zu beurteilen und durch angemessene Maßnahmen auf eine zielorientierte und effiziente Zusammenarbeit hinzuwirken. Dazu gehört die Fähigkeit, die Leistungsbereitschaft der Mitarbeiter und Mitarbeiterinnen zu fördern, betriebliche Probleme und soziale Konflikte zu lösen sowie Führungsgrundsätze zu berücksichtigen und angemessene Führungstechniken anzuwenden. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(5) Im Prüfungsbereich „Zusammenarbeit im Betrieb“ soll die Fähigkeit nachgewiesen werden, Zusammenhänge des Sozialverhaltens zu erkennen, ihre Auswirkungen auf die Zusammenarbeit zu beurteilen und durch angemessene Maßnahmen auf eine zielorientierte und effiziente Zusammenarbeit hinzuwirken. Dazu gehört die Fähigkeit, die Leistungsbereitschaft der Mitarbeiter und Mitarbeiterinnen zu fördern, betriebliche Probleme und soziale Konflikte zu lösen sowie Führungsgrundsätze zu berücksichtigen und angemessene Führungstechniken anzuwenden. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: Beurteilen und Fördern der beruflichen Entwicklung Einzelner unter Beachtung des bisherigen Berufsweges und unter Beachtung persönlicher und sozialer Gegebenheiten;
 - 2. :: Beurteilen und Berücksichtigen des Einflusses von Arbeitsorganisation und Arbeitsplatz auf das Sozialverhalten und das Betriebsklima sowie Ergreifen von Maßnahmen zu deren Verbesserung;
@@ -112,7 +112,7 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetz
 - 5. :: Anwenden von Führungsmethoden und -techniken einschließlich Vereinbarungen entsprechender Handlungsspielräume, um Leistungsbereitschaft und Zusammenarbeit der Mitarbeiter und Mitarbeiterinnen zu fördern;
 - 6. :: Fördern der Kommunikation und Kooperation durch Anwenden von Methoden zur Lösung betrieblicher Probleme und sozialer Konflikte.
 
-(6) Im Prüfungsbereich Berücksichtigen naturwissenschaftlicher und technischer Gesetzmäßigkeiten“ soll die Fähigkeit nachgewiesen werden, naturwissenschaftliche und technische Gesetzmäßigkeiten bei der Lösung von Aufgaben aus der logistischen Praxis anzuwenden. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(6) Im Prüfungsbereich „Berücksichtigen naturwissenschaftlicher und technischer Gesetzmäßigkeiten“ soll die Fähigkeit nachgewiesen werden, naturwissenschaftliche und technische Gesetzmäßigkeiten bei der Lösung von Aufgaben aus der logistischen Praxis anzuwenden. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: Berücksichtigen der Auswirkungen naturwissenschaftlicher und technischer Gesetzmäßigkeiten auf Materialien, Maschinen, Mensch und Umwelt;
 - 2. :: Berechnen technischer Größen unter Berücksichtigung von Normen, Sicherheitsvorschriften und Umweltvorschriften für Lagerung, Umschlag und Transport;
@@ -124,19 +124,19 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetz
 
 § 5 - Handlungsspezifische Qualifikationen
 
-(1) Der Prüfungsteil Handlungsspezifische Qualifikationen“ umfasst die Handlungsbereiche:
+(1) Der Prüfungsteil „Handlungsspezifische Qualifikationen“ umfasst die Handlungsbereiche:
 
 - 1. :: Logistikprozesse,
 - 2. :: Betriebliche Organisation und Kostenwesen,
 - 3. :: Führung und Personal.
 
-(2) Der Handlungsbereich Logistikprozesse“ gliedert sich in folgende Qualifikationsschwerpunkte:
+(2) Der Handlungsbereich „Logistikprozesse“ gliedert sich in folgende Qualifikationsschwerpunkte:
 
 - 1. :: Logistikkonzepte,
 - 2. :: Leistungserstellung,
 - 3. :: Prozesssteuerung und -optimierung.
 
-(3) Im Qualifikationsschwerpunkt Logistikkonzepte“ soll die Fähigkeit nachgewiesen werden, an der Erarbeitung und Weiterentwicklung von logistischen Konzepten unter Berücksichtigung der Unternehmensziele, von Marktbedingungen und Kundenbedürfnissen, von rechtlichen Rahmenbedingungen sowie von ökonomischen, ökologischen und sozialen Aspekten der Nachhaltigkeit mitzuwirken. Dazu gehört die Fähigkeit, Wertschöpfungsprozesse und Logistikkonzepte in Zusammenarbeit mit Prozesspartnern zu prüfen und zu bewerten sowie die Umsetzung von Logistikkonzepten zu planen. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(3) Im Qualifikationsschwerpunkt „Logistikkonzepte“ soll die Fähigkeit nachgewiesen werden, an der Erarbeitung und Weiterentwicklung von logistischen Konzepten unter Berücksichtigung der Unternehmensziele, von Marktbedingungen und Kundenbedürfnissen, von rechtlichen Rahmenbedingungen sowie von ökonomischen, ökologischen und sozialen Aspekten der Nachhaltigkeit mitzuwirken. Dazu gehört die Fähigkeit, Wertschöpfungsprozesse und Logistikkonzepte in Zusammenarbeit mit Prozesspartnern zu prüfen und zu bewerten sowie die Umsetzung von Logistikkonzepten zu planen. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: Darstellen des Einflusses logistischer Abläufe auf die Wertschöpfungskette;
 - 2. :: Mitwirken bei der Entwicklung von logistischen Gesamtprozessen unter Einbeziehung von Teilprozessen sowie Erkennen von Zielkonflikten;
@@ -145,7 +145,7 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetz
 - 5. :: Mitwirken bei Kapazitätsplanungen;
 - 6. :: Mitwirken bei der Erarbeitung von Leistungsvorgaben für Geräte, Anlagen und Dienstleistungen und bei deren Auswahl.
 
-(4) Im Qualifikationsschwerpunkt Leistungserstellung“ soll die Fähigkeit nachgewiesen werden, unter Berücksichtigung betrieblicher und gesetzlicher Vorgaben den Materialfluss vom Wareneingang bis zum Warenausgang einschließlich aller auftragsbezogenen Tätigkeiten zu organisieren, die ordnungsgemäße Verpackung und Verladung sicherzustellen, den weiteren Transport zu planen und Reklamationen zu bearbeiten. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(4) Im Qualifikationsschwerpunkt „Leistungserstellung“ soll die Fähigkeit nachgewiesen werden, unter Berücksichtigung betrieblicher und gesetzlicher Vorgaben den Materialfluss vom Wareneingang bis zum Warenausgang einschließlich aller auftragsbezogenen Tätigkeiten zu organisieren, die ordnungsgemäße Verpackung und Verladung sicherzustellen, den weiteren Transport zu planen und Reklamationen zu bearbeiten. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: Organisieren des Wareneingangs und Veranlassen der Reklamationsbearbeitung;
 - 2. :: Steuern und Überwachen der Einlagerung und der Warenpflege;
@@ -155,7 +155,7 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetz
 - 6. :: Organisieren des Güterumschlags;
 - 7. :: Berücksichtigen der rechtlichen Rahmenbedingungen.
 
-(5) Im Qualifikationsschwerpunkt Prozesssteuerung und -optimierung“ soll die Fähigkeit nachgewiesen werden, die logistische Leistungserstellung zu steuern und zu verbessern und Maßnahmen zur Behebung von Störungen einzuleiten. Dazu gehört die Fähigkeit, die Verfügbarkeit der Betriebsmittel zu gewährleisten und deren Funktionsfähigkeit sicherzustellen, die Erfassung von logistischen Vorgängen insbesondere mit Hilfe von Informations- und Kommunikationssystemen zu organisieren sowie Prozessdaten zu bewerten. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(5) Im Qualifikationsschwerpunkt „Prozesssteuerung und -optimierung“ soll die Fähigkeit nachgewiesen werden, die logistische Leistungserstellung zu steuern und zu verbessern und Maßnahmen zur Behebung von Störungen einzuleiten. Dazu gehört die Fähigkeit, die Verfügbarkeit der Betriebsmittel zu gewährleisten und deren Funktionsfähigkeit sicherzustellen, die Erfassung von logistischen Vorgängen insbesondere mit Hilfe von Informations- und Kommunikationssystemen zu organisieren sowie Prozessdaten zu bewerten. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: Umsetzen von geplanten logistischen Prozessen;
 - 2. :: Ermitteln und Überwachen von Prozessdaten und Ableiten von Maßnahmen;
@@ -164,13 +164,13 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetz
 - 5. :: Sicherstellen von Kommunikations- und Abstimmungsprozessen;
 - 6. :: Nutzen von Informations- und Kommunikationssystemen.
 
-(6) Der Handlungsbereich Betriebliche Organisation und Kostenwesen“ gliedert sich in folgende Qualifikationsschwerpunkte:
+(6) Der Handlungsbereich „Betriebliche Organisation und Kostenwesen“ gliedert sich in folgende Qualifikationsschwerpunkte:
 
 - 1. :: Betriebliches Kostenwesen und Logistikcontrolling,
 - 2. :: Arbeits-, Umwelt- und Gesundheitsschutz,
 - 3. :: Qualitätsmanagement.
 
-(7) Im Qualifikationsschwerpunkt Betriebliches Kostenwesen und Logistikcontrolling“ soll die Fähigkeit nachgewiesen werden, betriebswirtschaftliche Zusammenhänge und kostenrelevante Einflussfaktoren zu erfassen und zu beurteilen sowie Möglichkeiten der Kostenbeeinflussung aufzuzeigen und Maßnahmen zum kostenbewussten Handeln zu planen, zu organisieren, einzuleiten und zu überwachen. Dazu gehört die Fähigkeit, Kennzahlen zu nutzen, Kalkulationsverfahren und Methoden der Zeitwirtschaft anzuwenden und organisatorische sowie personelle Maßnahmen unter Ertrags- und Kostengesichtspunkten zu beurteilen. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(7) Im Qualifikationsschwerpunkt „Betriebliches Kostenwesen und Logistikcontrolling“ soll die Fähigkeit nachgewiesen werden, betriebswirtschaftliche Zusammenhänge und kostenrelevante Einflussfaktoren zu erfassen und zu beurteilen sowie Möglichkeiten der Kostenbeeinflussung aufzuzeigen und Maßnahmen zum kostenbewussten Handeln zu planen, zu organisieren, einzuleiten und zu überwachen. Dazu gehört die Fähigkeit, Kennzahlen zu nutzen, Kalkulationsverfahren und Methoden der Zeitwirtschaft anzuwenden und organisatorische sowie personelle Maßnahmen unter Ertrags- und Kostengesichtspunkten zu beurteilen. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: Planen, Erfassen, Analysieren und Bewerten der arbeitsbereichsbezogenen Kosten;
 - 2. :: Überwachen und Einhalten zugeteilter Budgets;
@@ -179,7 +179,7 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetz
 - 5. :: Mitarbeit bei der Erarbeitung relevanter Kennzahlen für das Logistikcontrolling und deren Nutzung zur Bewertung und Optimierung logistischer Prozesse unter Einbeziehung der Kosten- und Leistungsrechnung;
 - 6. :: Vorbereiten arbeitsbereichsbezogener kostenrelevanter Entscheidungen.
 
-(8) Im Qualifikationsschwerpunkt Arbeits-, Umwelt- und Gesundheitsschutz“ soll die Fähigkeit nachgewiesen werden, einschlägige Gesetze, Vorschriften und Bestimmungen in ihrer Bedeutung zu erkennen und ihre Einhaltung sicherzustellen. Dazu gehört die Fähigkeit, Gefahren vorzubeugen, Störungen zu erkennen und zu analysieren sowie Maßnahmen zu ihrer Vermeidung oder Beseitigung einzuleiten sowie sicherzustellen, dass sich die Mitarbeiter und Mitarbeiterinnen arbeits-, umwelt- und gesundheitsschutzbewusst verhalten und entsprechend handeln. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(8) Im Qualifikationsschwerpunkt „Arbeits-, Umwelt- und Gesundheitsschutz“ soll die Fähigkeit nachgewiesen werden, einschlägige Gesetze, Vorschriften und Bestimmungen in ihrer Bedeutung zu erkennen und ihre Einhaltung sicherzustellen. Dazu gehört die Fähigkeit, Gefahren vorzubeugen, Störungen zu erkennen und zu analysieren sowie Maßnahmen zu ihrer Vermeidung oder Beseitigung einzuleiten sowie sicherzustellen, dass sich die Mitarbeiter und Mitarbeiterinnen arbeits-, umwelt- und gesundheitsschutzbewusst verhalten und entsprechend handeln. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: Überprüfen und Gewährleisten der Arbeitssicherheit, des Arbeits-, Gesundheits- und Umweltschutzes im Betrieb;
 - 2. :: Fördern des Bewusstseins der Mitarbeiter und Mitarbeiterinnen bezüglich der Arbeitssicherheit und des betrieblichen Arbeits-, Umwelt- und Gesundheitsschutzes;
@@ -187,19 +187,19 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetz
 - 4. :: Überwachen der Lagerung von und des Umgangs mit umweltbelastenden und gesundheitsgefährdenden Stoffen;
 - 5. :: Planen, Vorschlagen, Einleiten und Überprüfen von Maßnahmen zur Verbesserung der Arbeitssicherheit sowie zur Reduzierung und Vermeidung von Unfällen und von Umwelt- und Gesundheitsbelastungen.
 
-(9) Im Qualifikationsschwerpunkt Qualitätsmanagement“ soll die Fähigkeit nachgewiesen werden, die Qualitätsziele durch Anwendung entsprechender Methoden und Beeinflussung des Qualitätsbewusstseins der Mitarbeiter und Mitarbeiterinnen zu sichern, bei der Realisierung eines Qualitätsmanagementsystems mitzuwirken und zu dessen Verbesserung und Weiterentwicklung beizutragen. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(9) Im Qualifikationsschwerpunkt „Qualitätsmanagement“ soll die Fähigkeit nachgewiesen werden, die Qualitätsziele durch Anwendung entsprechender Methoden und Beeinflussung des Qualitätsbewusstseins der Mitarbeiter und Mitarbeiterinnen zu sichern, bei der Realisierung eines Qualitätsmanagementsystems mitzuwirken und zu dessen Verbesserung und Weiterentwicklung beizutragen. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: Berücksichtigen des Einflusses des Qualitätsmanagementsystems auf das Unternehmen;
 - 2. :: Fördern des Qualitätsbewusstseins der Mitarbeiter und Mitarbeiterinnen;
 - 3. :: Anwenden von Methoden zur Sicherung und Verbesserung der Qualität;
 - 4. :: kontinuierliches Umsetzen der Qualitätsmanagementziele durch Planen, Sichern und Lenken von qualitätswirksamen Maßnahmen.
 
-(10) Der Handlungsbereich Führung und Personal“ gliedert sich in folgende Qualifikationsschwerpunkte:
+(10) Der Handlungsbereich „Führung und Personal“ gliedert sich in folgende Qualifikationsschwerpunkte:
 
 - 1. :: Personalführung,
 - 2. :: Personalentwicklung.
 
-(11) Im Qualifikationsschwerpunkt Personalführung“ soll die Fähigkeit nachgewiesen werden, den Personalbedarf zu ermitteln und den Personaleinsatz entsprechend den Anforderungen sicherzustellen sowie die Mitarbeiter und Mitarbeiterinnen nach betrieblichen Anforderungen zu führen und ihre Eigenverantwortung zu fördern. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(11) Im Qualifikationsschwerpunkt „Personalführung“ soll die Fähigkeit nachgewiesen werden, den Personalbedarf zu ermitteln und den Personaleinsatz entsprechend den Anforderungen sicherzustellen sowie die Mitarbeiter und Mitarbeiterinnen nach betrieblichen Anforderungen zu führen und ihre Eigenverantwortung zu fördern. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: Ermitteln und Bestimmen des qualitativen und quantitativen Personalbedarfs unter Berücksichtigung technischer und organisatorischer Veränderungen;
 - 2. :: Auswahl und Einsatz der Mitarbeiter und Mitarbeiterinnen unter Berücksichtigung ihrer persönlichen und fachlichen Eignung sowie der betrieblichen Anforderungen;
@@ -211,7 +211,7 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetz
 - 8. :: Einrichten, Moderieren und Steuern von Arbeits- und Projektgruppen;
 - 9. :: Berücksichtigen der rechtlichen und organisatorischen Rahmenbedingungen beim Einsatz von Fremdpersonal und Fremdfirmen.
 
-(12) Im Qualifikationsschwerpunkt Personalentwicklung“ soll die Fähigkeit nachgewiesen werden, eine systematische Personalentwicklung durchzuführen. Dazu gehört die Fähigkeit, Personalentwicklungspotenziale einzuschätzen und Personalentwicklungs- und Qualifizierungsziele festzulegen. Es sollen entsprechende Maßnahmen geplant, ihre Ergebnisse überprüft und deren Umsetzung gefördert werden können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(12) Im Qualifikationsschwerpunkt „Personalentwicklung“ soll die Fähigkeit nachgewiesen werden, eine systematische Personalentwicklung durchzuführen. Dazu gehört die Fähigkeit, Personalentwicklungspotenziale einzuschätzen und Personalentwicklungs- und Qualifizierungsziele festzulegen. Es sollen entsprechende Maßnahmen geplant, ihre Ergebnisse überprüft und deren Umsetzung gefördert werden können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: Festlegen von Personalentwicklungszielen;
 - 2. :: Durchführen von Potenzialeinschätzungen nach vorgegebenen Kriterien und unter Anwendung entsprechender Instrumente und Methoden;
@@ -233,13 +233,13 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 § 7 - Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
-(2) Im Prüfungsteil Grundlegende Qualifikationen“ sind die Prüfungsleistungen für jeden Prüfungsbereich einzeln zu bewerten. Aus den einzelnen Bewertungen ist als Bewertung für den Prüfungsteil das arithmetische Mittel zu berechnen.
-(3) Im Prüfungsteil Handlungsspezifische Qualifikationen“ sind als Prüfungsleistungen zu bewerten:
+(2) Im Prüfungsteil „Grundlegende Qualifikationen“ sind die Prüfungsleistungen für jeden Prüfungsbereich einzeln zu bewerten. Aus den einzelnen Bewertungen ist als Bewertung für den Prüfungsteil das arithmetische Mittel zu berechnen.
+(3) Im Prüfungsteil „Handlungsspezifische Qualifikationen“ sind als Prüfungsleistungen zu bewerten:
 
 - 1. :: die beiden schriftlichen Situationsaufgaben nach § 5 Absatz 13 und
 - 2. :: das Fachgespräch nach § 5 Absatz 16.
 
-Aus den Bewertungen für jede der beiden schriftlichen Situationsaufgaben und der Bewertung für das Fachgespräch ist als Bewertung für den Prüfungsteil Handlungsspezifische Qualifikationen“ das arithmetische Mittel zu berechnen.
+Aus den Bewertungen für jede der beiden schriftlichen Situationsaufgaben und der Bewertung für das Fachgespräch ist als Bewertung für den Prüfungsteil „Handlungsspezifische Qualifikationen“ das arithmetische Mittel zu berechnen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
@@ -247,22 +247,22 @@ Aus den Bewertungen für jede der beiden schriftlichen Situationsaufgaben und de
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
-- 1. :: in jedem Prüfungsbereich des Prüfungsteils Grundlegende Qualifikationen“,
-- 2. :: im Prüfungsteil Handlungsspezifische Qualifikationen“
+- 1. :: in jedem Prüfungsbereich des Prüfungsteils „Grundlegende Qualifikationen“,
+- 2. :: im Prüfungsteil „Handlungsspezifische Qualifikationen“
   - a) :: in jeder der beiden schriftlichen Situationsaufgaben und
   - b) :: im Fachgespräch.
 
 (2) Ist die Prüfung bestanden, so werden die folgenden Bewertungen jeweils kaufmännisch auf eine ganze Zahl gerundet:
 
-- 1. :: die Bewertung für den Prüfungsteil Grundlegende Qualifikationen“,
-- 2. :: die Bewertung für den Prüfungsteil Handlungsspezifische Qualifikationen“,
+- 1. :: die Bewertung für den Prüfungsteil „Grundlegende Qualifikationen“,
+- 2. :: die Bewertung für den Prüfungsteil „Handlungsspezifische Qualifikationen“,
 - 3. :: die Bewertung der Situationsaufgabe, in der eine mündliche Ergänzungsprüfung durchgeführt wurde.
 
-(3) Der Bewertung für den Prüfungsteil Grundlegende Qualifikationen“, den Bewertungen für die beiden Situationsaufgaben und der Bewertung des Fachgesprächs ist nach Anlage 1 die jeweilige Note als Dezimalzahl zuzuordnen.
+(3) Der Bewertung für den Prüfungsteil „Grundlegende Qualifikationen“, den Bewertungen für die beiden Situationsaufgaben und der Bewertung des Fachgesprächs ist nach Anlage 1 die jeweilige Note als Dezimalzahl zuzuordnen.
 (4) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das gewichtete arithmetische Mittel zu berechnen. Dabei werden die Bewertungen wie folgt gewichtet:
 
-- 1. :: die Bewertung für den Prüfungsteil Grundlegende Qualifikationen“ mit 25 Prozent,
-- 2. :: die Bewertung für den Prüfungsteil Handlungsspezifische Qualifikationen“ mit 75 Prozent.
+- 1. :: die Bewertung für den Prüfungsteil „Grundlegende Qualifikationen“ mit 25 Prozent,
+- 2. :: die Bewertung für den Prüfungsteil „Handlungsspezifische Qualifikationen“ mit 75 Prozent.
 
 Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerundeten Gesamtpunktzahl ist nach Anlage 1 eine Note als Dezimalzahl und die Note in Worten zuzuordnen. Die zugeordnete Note ist die Gesamtnote.
 
@@ -321,10 +321,10 @@ Teil A -- Zeugnis ohne Prüfungsergebnisse:
 Teil B -- Zeugnis mit Prüfungsergebnissen:
 Alle Angaben des Teils A sowie zusätzlich:
 
-- 1. :: zum Prüfungsteil Grundlegende Qualifikationen“
+- 1. :: zum Prüfungsteil „Grundlegende Qualifikationen“
   - a) :: Benennung dieses Prüfungsteils und Bewertung mit Note sowie
   - b) :: Benennung der Prüfungsbereiche und Bewertung mit Punkten,
-- 2. :: zum Prüfungsteil Handlungsspezifische Qualifikationen“
+- 2. :: zum Prüfungsteil „Handlungsspezifische Qualifikationen“
   - a) :: Benennung dieses Prüfungsteils,
   - b) :: Benennung der integrativen schriftlichen Situationsaufgaben in zwei der folgenden Handlungsbereiche Logistikprozesse, Betriebliche Organisation und Kostenwesen, Führung und Personal und jeweils Bewertung mit Punkten und Note sowie
   - c) :: Benennung des Fachgesprächs unter Benennung des Handlungsbereichs und Bewertung mit Punkten und Note,

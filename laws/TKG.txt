@@ -12,7 +12,7 @@ Inhaltsübersicht
 
 Teil 1
 Allgemeine Vorschriften
-
+ 
 § 1
 Zweck des Gesetzes
 § 2
@@ -29,13 +29,13 @@ Meldepflicht
 Strukturelle Separierung
 § 8
 Internationaler Status
-
+ 
 Teil 2
 Marktregulierung
-
+ 
 Abschnitt 1
 Verfahren der Marktregulierung
-
+ 
 § 9
 Grundsatz
 § 9a
@@ -54,10 +54,10 @@ Rechtsfolgen der Marktanalyse
 Verfahren bei sonstigen marktrelevanten Maßnahmen
 § 15a
 Regulierungskonzepte und Antrag auf Auskunft über den Regulierungsrahmen für Netze der nächsten Generation
-
+ 
 Abschnitt 2
 Zugangsregulierung
-
+ 
 § 16
 Verträge über Zusammenschaltung
 § 17
@@ -80,10 +80,10 @@ Getrennte Rechnungsführung
 Anordnungen durch die Bundesnetzagentur
 § 26
 Veröffentlichung
-
+ 
 Abschnitt 3
 Entgeltregulierung
-
+ 
   Unterabschnitt 1
   Allgemeine Vorschriften
 § 27
@@ -92,7 +92,7 @@ Ziel der Entgeltregulierung
 Missbräuchliches Verhalten eines Unternehmens mit beträchtlicher Marktmacht bei der Forderung und Vereinbarung von Entgelten
 § 29
 Anordnungen im Rahmen der Entgeltregulierung
-
+ 
   Unterabschnitt 2
   Regulierung von Entgelten für Zugangsleistungen
 § 30
@@ -113,15 +113,15 @@ Veröffentlichung
 Abweichung von genehmigten Entgelten
 § 38
 Nachträgliche Regulierung von Entgelten
-
+ 
   Unterabschnitt 3
   Regulierung von Entgelten für Endnutzerleistungen
 § 39
 Entgeltregulierung bei Endnutzerleistungen
-
+ 
 Abschnitt 4
 Sonstige Verpflichtungen
-
+ 
 § 40
 Funktionelle Trennung
 § 41
@@ -132,18 +132,18 @@ Freiwillige Trennung durch ein vertikal integriertes Unternehmen
 Anschluss von Telekommunikationsendeinrichtungen
 § 41c
 Schnittstellenbeschreibungen der Betreiber öffentlicher Telekommunikationsnetze
-
+ 
 Abschnitt 5
 Besondere Missbrauchsaufsicht
-
+ 
 § 42
 Missbräuchliches Verhalten eines Unternehmens mit beträchtlicher Marktmacht
 § 43
 Vorteilsabschöpfung durch die Bundesnetzagentur
-
+ 
 Teil 3
 Kundenschutz
-
+ 
 § 43a
 Verträge
 § 43b
@@ -194,10 +194,10 @@ Bereitstellen von Teilnehmerdaten
 Schlichtung
 § 47b
 Abweichende Vereinbarungen
-
+ 
 Teil 4
 Rundfunkübertragung
-
+ 
 § 48
 Interoperabilität von Fernseh- und Radiogeräten
 § 49
@@ -206,13 +206,13 @@ Interoperabilität der Übertragung digitaler Fernsehsignale
 Zugangsberechtigungssysteme
 § 51
 Streitschlichtung
-
+ 
 Teil 5
 Vergabe von Frequenzen, Nummern und Wegerechten
-
+ 
 Abschnitt 1
 Frequenzordnung
-
+ 
 § 52
 Aufgaben
 § 53
@@ -241,10 +241,10 @@ Widerruf der Frequenzzuteilung, Verzicht
 Überwachung, Anordnung der Außerbetriebnahme
 § 65
 Einschränkung der Frequenzzuteilung
-
+ 
 Abschnitt 2
 Nummerierung
-
+ 
 § 66
 Nummerierung
 § 66a
@@ -275,13 +275,13 @@ Internationaler entgeltfreier Telefondienst
 Umgehungsverbot
 § 67
 Befugnisse der Bundesnetzagentur
-
+ 
 Abschnitt 3
 Wegerechte und Mitnutzung
-
+ 
 Unterabschnitt 1
 Wegerechte
-
+ 
 § 68
 Grundsatz der Benutzung öffentlicher Wege
 § 69
@@ -302,12 +302,12 @@ Spätere besondere Anlagen
 Beeinträchtigung von Grundstücken und Gebäuden
 § 77
 Ersatzansprüche
-
-
+ 
+ 
 Unterabschnitt 2
 Mitnutzung öffentlicher Versorgungsnetze
-
-
+ 
+ 
 § 77a
 Infrastrukturatlas der zentralen Informationsstelle des Bundes
 § 77b
@@ -344,10 +344,10 @@ Genehmigungsfristen für Bauarbeiten
 Vorausschau zum Mobilfunknetzausbau
 § 77r
 Verordnungsermächtigung
-
+ 
 Teil 6
 Universaldienst
-
+ 
 § 78
 Universaldienstleistungen
 § 79
@@ -368,23 +368,23 @@ Leistungseinstellungen
 Sicherheitsleistungen
 § 87
 Umsatzmeldungen
-
+ 
 Teil 7
 Fernmeldegeheimnis, Datenschutz, Öffentliche Sicherheit
-
+ 
 Abschnitt 1
 Fernmeldegeheimnis
-
+ 
 § 88
 Fernmeldegeheimnis
 § 89
 Abhörverbot, Geheimhaltungspflicht der Betreiber von Empfangsanlagen
 § 90
 Missbrauch von Sende- oder sonstigen Telekommunikationsanlagen
-
+ 
 Abschnitt 2
 Datenschutz
-
+ 
 § 91
 Anwendungsbereich
 § 92
@@ -419,10 +419,10 @@ Auskunftserteilung
 Telegrammdienst
 § 107
 Nachrichtenübermittlungssysteme mit Zwischenspeicherung
-
+ 
 Abschnitt 3
 Öffentliche Sicherheit
-
+ 
 § 108
 Notruf
 § 109
@@ -455,13 +455,13 @@ Sicherheitskonzept
 Auskunftsersuchen des Bundesnachrichtendienstes
 § 115
 Kontrolle und Durchsetzung von Verpflichtungen
-
+ 
 Teil 8
 Bundesnetzagentur
-
+ 
 Abschnitt 1
 Organisation
-
+ 
 § 116
 Aufgaben und Befugnisse
 § 117
@@ -486,10 +486,10 @@ Bereitstellung von Informationen
 Mediation
 § 125
 Wissenschaftliche Beratung
-
+ 
 Abschnitt 2
 Befugnisse
-
+ 
 § 126
 Untersagung
 § 127
@@ -502,10 +502,10 @@ Beschlagnahme
 Vorläufige Anordnungen
 § 131
 Abschluss des Verfahrens
-
+ 
 Abschnitt 3
 Verfahren
-
+ 
   Unterabschnitt 1
   Beschlusskammern
 § 132
@@ -520,7 +520,7 @@ Verfahren der nationalen Streitbeilegung
 Anhörung, mündliche Verhandlung
 § 136
 Betriebs- oder Geschäftsgeheimnisse
-
+ 
   Unterabschnitt 2
   Gerichtsverfahren
 § 137
@@ -531,17 +531,17 @@ Vorlage- und Auskunftspflicht der Bundesnetzagentur
 Informationssystem zu eingelegten Rechtsbehelfen
 § 139
 Beteiligung der Bundesnetzagentur bei bürgerlichen Rechtsstreitigkeiten
-
+ 
   Unterabschnitt 3
   Internationale Aufgaben
 § 140
 Internationale Aufgaben
 § 141
 Anerkannte Abrechnungsstelle für den Seefunkverkehr
-
+ 
 Teil 9
 Abgaben
-
+ 
 § 142
 Gebühren und Auslagen
 § 143
@@ -554,15 +554,15 @@ Kosten von außergerichtlichen Streitbeilegungsverfahren
 Kosten des Vorverfahrens
 § 147
 Mitteilung der Bundesnetzagentur
-
+ 
 Teil 10
 Straf- und Bußgeldvorschriften
-
+ 
 § 148
 Strafvorschriften
 § 149
 Bußgeldvorschriften
-
+ 
 Teil 11
 Übergangs- und Schlussvorschriften
 § 150
@@ -609,33 +609,33 @@ Zweck dieses Gesetzes ist es, durch technologieneutrale Regulierung den Wettbewe
 Im Sinne dieses Gesetzes ist oder sind
 
 - 1. :: "Anruf" eine über einen öffentlich zugänglichen Telekommunikationsdienst aufgebaute Verbindung, die eine zweiseitige Sprachkommunikation ermöglicht;
-- 2. :: Anwendungs-Programmierschnittstelle“ die Software-Schnittstelle zwischen Anwendungen, die von Sendeanstalten oder Diensteanbietern zur Verfügung gestellt werden, und den Anschlüssen in den erweiterten digitalen Fernsehempfangsgeräten für digitale Fernseh- und Rundfunkdienste;
+- 2. :: „Anwendungs-Programmierschnittstelle“ die Software-Schnittstelle zwischen Anwendungen, die von Sendeanstalten oder Diensteanbietern zur Verfügung gestellt werden, und den Anschlüssen in den erweiterten digitalen Fernsehempfangsgeräten für digitale Fernseh- und Rundfunkdienste;
 - 2a. :: "Auskunftsdienste" bundesweit jederzeit telefonisch erreichbare Dienste, insbesondere des Rufnummernbereichs 118, die ausschließlich der neutralen Weitergabe von Rufnummer, Name, Anschrift sowie zusätzlichen Angaben von Telekommunikationsnutzern dienen. Die Weitervermittlung zu einem erfragten Teilnehmer oder Dienst kann Bestandteil des Auskunftsdienstes sein;
-- 2b. :: Baudenkmäler“ nach Landesrecht geschützte Gebäude oder Gebäudemehrheiten;
+- 2b. :: „Baudenkmäler“ nach Landesrecht geschützte Gebäude oder Gebäudemehrheiten;
 - 3. :: "Bestandsdaten" Daten eines Teilnehmers, die für die Begründung, inhaltliche Ausgestaltung, Änderung oder Beendigung eines Vertragsverhältnisses über Telekommunikationsdienste erhoben werden;
 - 4. :: "beträchtliche Marktmacht" eines oder mehrerer Unternehmen gegeben, wenn die Voraussetzungen nach § 11 Absatz 1 Satz 3 und 4 vorliegen;
-- 4a. :: Betreiberauswahl“ der Zugang eines Teilnehmers zu den Diensten aller unmittelbar zusammengeschalteten Anbieter von öffentlich zugänglichen Telekommunikationsdiensten im Einzelwahlverfahren durch Wählen einer Kennzahl;
-- 4b. :: Betreibervorauswahl“ der Zugang eines Teilnehmers zu den Diensten aller unmittelbar zusammengeschalteten Anbieter von öffentlich zugänglichen Telekommunikationsdiensten durch festgelegte Vorauswahl, wobei der Teilnehmer unterschiedliche Voreinstellungen für Orts- und Fernverbindungen vornehmen kann und bei jedem Anruf die festgelegte Vorauswahl durch Wählen einer Betreiberkennzahl übergehen kann;
+- 4a. :: „Betreiberauswahl“ der Zugang eines Teilnehmers zu den Diensten aller unmittelbar zusammengeschalteten Anbieter von öffentlich zugänglichen Telekommunikationsdiensten im Einzelwahlverfahren durch Wählen einer Kennzahl;
+- 4b. :: „Betreibervorauswahl“ der Zugang eines Teilnehmers zu den Diensten aller unmittelbar zusammengeschalteten Anbieter von öffentlich zugänglichen Telekommunikationsdiensten durch festgelegte Vorauswahl, wobei der Teilnehmer unterschiedliche Voreinstellungen für Orts- und Fernverbindungen vornehmen kann und bei jedem Anruf die festgelegte Vorauswahl durch Wählen einer Betreiberkennzahl übergehen kann;
 - 5. :: "Dienst mit Zusatznutzen" jeder Dienst, der die Erhebung und Verwendung von Verkehrsdaten oder Standortdaten in einem Maße erfordert, das über das für die Übermittlung einer Nachricht oder die Entgeltabrechnung dieses Vorganges erforderliche Maß hinausgeht;
 - 6. :: "Diensteanbieter" jeder, der ganz oder teilweise geschäftsmäßig
   - a) :: Telekommunikationsdienste erbringt oder
   - b) :: an der Erbringung solcher Dienste mitwirkt;
 - 7. :: "digitales Fernsehempfangsgerät" ein Fernsehgerät mit integriertem digitalem Decoder oder ein an ein Fernsehgerät anschließbarer digitaler Decoder zur Nutzung digital übertragener Fernsehsignale, die mit Zusatzsignalen, einschließlich einer Zugangsberechtigung, angereichert sein können;
-- 7a. :: digitales Hochgeschwindigkeitsnetz“ ein Telekommunikationsnetz, das die Möglichkeit bietet, Datendienste mit Geschwindigkeiten von mindestens 50 Megabit pro Sekunde bereitzustellen;
-- 7b. :: Einzelrichtlinien“
+- 7a. :: „digitales Hochgeschwindigkeitsnetz“ ein Telekommunikationsnetz, das die Möglichkeit bietet, Datendienste mit Geschwindigkeiten von mindestens 50 Megabit pro Sekunde bereitzustellen;
+- 7b. :: „Einzelrichtlinien“
   - a) :: die Richtlinie 2002/20/EG des Europäischen Parlaments und des Rates vom 7. März 2002 über die Genehmigung elektronischer Kommunikationsnetze und -dienste (Genehmigungsrichtlinie) (ABl. L 108 vom 24.4.2002, S. 21), die zuletzt durch die Richtlinie 2009/140/EG (ABl. L 337 vom 18.12.2009, S. 37) geändert worden ist;
   - b) :: die Richtlinie 2002/19/EG des Europäischen Parlaments und des Rates vom 7. März 2002 über den Zugang zu elektronischen Kommunikationsnetzen und zugehörigen Einrichtungen sowie deren Zusammenschaltung (Zugangsrichtlinie) (ABl. L 108 vom 24.4.2002, S. 7), die zuletzt durch die Richtlinie 2009/140/EG (ABl. L 337 vom 18.12.2009, S. 37) geändert worden ist;
   - c) :: die Richtlinie 2002/22/EG des Europäischen Parlaments und des Rates vom 7. März 2002 über den Universaldienst und Nutzerrechte bei elektronischen Kommunikationsnetzen und -diensten (Universaldienstrichtlinie) (ABl. L 108 vom 24.4.2002, S. 51), die zuletzt durch die Richtlinie 2009/136/EG (ABl. L 337 vom 18.12.2009, S. 11) geändert worden ist;
   - d) :: die Richtlinie 2002/58/EG des Europäischen Parlaments und des Rates vom 12. Juli 2002 über die Verarbeitung personenbezogener Daten und den Schutz der Privatsphäre in der elektronischen Kommunikation (Datenschutzrichtlinie für elektronische Kommunikation) (ABl. L 201 vom 31.7.2002, S. 37), die zuletzt durch die Richtlinie 2009/136/EG (ABl. L 337 vom 18.12.2009, S. 11) geändert worden ist, und
   - e) :: die Richtlinie 2014/61/EU des Europäischen Parlaments und des Rates vom 15. Mai 2014 über Maßnahmen zur Reduzierung der Kosten des Ausbaus von Hochgeschwindigkeitsnetzen für die elektronische Kommunikation (Kostensenkungsrichtlinie) (ABl. L 155 vom 23.5.2014, S. 1);
-- 8. :: Endnutzer“ ein Nutzer, der weder öffentliche Telekommunikationsnetze betreibt noch öffentlich zugängliche Telekommunikationsdienste erbringt;
+- 8. :: „Endnutzer“ ein Nutzer, der weder öffentliche Telekommunikationsnetze betreibt noch öffentlich zugängliche Telekommunikationsdienste erbringt;
 - 8a. :: "entgeltfreie Telefondienste" Dienste, insbesondere des Rufnummernbereichs (0)800, bei deren Inanspruchnahme der Anrufende kein Entgelt zu entrichten hat;
-- 8b. :: Service-Dienste” Dienste, insbesondere des Rufnummernbereichs (0)180, die bundesweit zu einem einheitlichen Entgelt zu erreichen sind;
+- 8b. :: „Service-Dienste” Dienste, insbesondere des Rufnummernbereichs (0)180, die bundesweit zu einem einheitlichen Entgelt zu erreichen sind;
 - 9. :: "Frequenznutzung" jede gewollte Aussendung oder Abstrahlung elektromagnetischer Wellen zwischen 9 kHz und 3 000 GHz zur Nutzung durch Funkdienste und andere Anwendungen elektromagnetischer Wellen;
-- 9a. :: Frequenzzuweisung“ die Benennung eines bestimmten Frequenzbereichs für die Nutzung durch einen oder mehrere Funkdienste oder durch andere Anwendungen elektromagnetischer Wellen, falls erforderlich mit weiteren Festlegungen;
-- 9b. :: gemeinsamer Zugang zum Teilnehmeranschluss“ die Bereitstellung des Zugangs zum Teilnehmeranschluss oder zum Teilabschnitt in der Weise, dass die Nutzung eines bestimmten Teils der Kapazität der Netzinfrastruktur, wie etwa eines Teils der Frequenz oder Gleichwertiges, ermöglicht wird;
-- 9c. :: GEREK“ das Gremium Europäischer Regulierungsstellen für elektronische Kommunikation;
-- 9d. :: Gerät“ eine Funkanlage, eine Telekommunikationsendeinrichtung oder eine Kombination von beiden;
+- 9a. :: „Frequenzzuweisung“ die Benennung eines bestimmten Frequenzbereichs für die Nutzung durch einen oder mehrere Funkdienste oder durch andere Anwendungen elektromagnetischer Wellen, falls erforderlich mit weiteren Festlegungen;
+- 9b. :: „gemeinsamer Zugang zum Teilnehmeranschluss“ die Bereitstellung des Zugangs zum Teilnehmeranschluss oder zum Teilabschnitt in der Weise, dass die Nutzung eines bestimmten Teils der Kapazität der Netzinfrastruktur, wie etwa eines Teils der Frequenz oder Gleichwertiges, ermöglicht wird;
+- 9c. :: „GEREK“ das Gremium Europäischer Regulierungsstellen für elektronische Kommunikation;
+- 9d. :: „Gerät“ eine Funkanlage, eine Telekommunikationsendeinrichtung oder eine Kombination von beiden;
 - 10. :: "geschäftsmäßiges Erbringen von Telekommunikationsdiensten" das nachhaltige Angebot von Telekommunikation für Dritte mit oder ohne Gewinnerzielungsabsicht;
 - 10a. :: (weggefallen)
 - 11. :: "Kundenkarten" Karten, mit deren Hilfe Telekommunikationsverbindungen hergestellt und personenbezogene Daten erhoben werden können;
@@ -644,18 +644,18 @@ Im Sinne dieses Gesetzes ist oder sind
 - 11c. :: "Kurzwahl-Sprachdienste" Kurzwahldienste, bei denen die Kommunikation sprachgestützt erfolgt;
 - 11d. :: "Massenverkehrs-Dienste" Dienste, insbesondere des Rufnummernbereichs (0)137, die charakterisiert sind durch ein hohes Verkehrsaufkommen in einem oder mehreren kurzen Zeitintervallen mit kurzer Belegungsdauer zu einem Ziel mit begrenzter Abfragekapazität;
 - 12. :: "nachhaltig wettbewerbsorientierter Markt" ein Markt, auf dem der Wettbewerb so abgesichert ist, dass er ohne sektorspezifische Regulierung besteht;
-- 12a. :: Netzabschlusspunkt“ der physische Punkt, an dem einem Teilnehmer der Zugang zu einem Telekommunikationsnetz bereitgestellt wird; in Netzen, in denen eine Vermittlung oder Leitwegebestimmung erfolgt, wird der Netzabschlusspunkt anhand einer bestimmten Netzadresse bezeichnet, die mit der Nummer oder dem Namen eines Teilnehmers verknüpft sein kann;
+- 12a. :: „Netzabschlusspunkt“ der physische Punkt, an dem einem Teilnehmer der Zugang zu einem Telekommunikationsnetz bereitgestellt wird; in Netzen, in denen eine Vermittlung oder Leitwegebestimmung erfolgt, wird der Netzabschlusspunkt anhand einer bestimmten Netzadresse bezeichnet, die mit der Nummer oder dem Namen eines Teilnehmers verknüpft sein kann;
 - 12b. :: "Neuartige Dienste" Dienste, insbesondere des Rufnummernbereichs (0)12, bei denen Nummern für einen Zweck verwendet werden, für den kein anderer Rufnummernraum zur Verfügung steht;
 - 13. :: "Nummern" Zeichenfolgen, die in Telekommunikationsnetzen Zwecken der Adressierung dienen;
 - 13a. :: "Nummernart" die Gesamtheit aller Nummern eines Nummernraums für einen bestimmten Dienst oder eine bestimmte technische Adressierung;
 - 13b. :: "Nummernbereich" eine für eine Nummernart bereitgestellte Teilmenge des Nummernraums;
 - 13c. :: "Nummernraum" die Gesamtheit aller Nummern, die für eine bestimmte Art der Adressierung verwendet werden;
 - 13d. :: "Nummernteilbereich" eine Teilmenge eines Nummernbereichs;
-- 14. :: Nutzer“ jede natürliche oder juristische Person, die einen öffentlich zugänglichen Telekommunikationsdienst für private oder geschäftliche Zwecke in Anspruch nimmt oder beantragt, ohne notwendigerweise Teilnehmer zu sein;
+- 14. :: „Nutzer“ jede natürliche oder juristische Person, die einen öffentlich zugänglichen Telekommunikationsdienst für private oder geschäftliche Zwecke in Anspruch nimmt oder beantragt, ohne notwendigerweise Teilnehmer zu sein;
 - 15. :: "öffentliches Münz- und Kartentelefon" ein der Allgemeinheit zur Verfügung stehendes Telefon, für dessen Nutzung als Zahlungsmittel unter anderem Münzen, Kredit- und Abbuchungskarten oder Guthabenkarten, auch solche mit Einwahlcode, verwendet werden können;
 - 16. :: "öffentliches Telefonnetz" ein Telekommunikationsnetz, das zur Bereitstellung des öffentlich zugänglichen Telefondienstes genutzt wird und darüber hinaus weitere Dienste wie Telefax- oder Datenfernübertragung und einen funktionalen Internetzugang ermöglicht;
-- 16a. :: öffentliches Telekommunikationsnetz“ ein Telekommunikationsnetz, das ganz oder überwiegend der Bereitstellung öffentlich zugänglicher Telekommunikationsdienste dient, die die Übertragung von Informationen zwischen Netzabschlusspunkten ermöglichen;
-- 16b. :: öffentliche Versorgungsnetze“ entstehende, betriebene oder stillgelegte physische Infrastrukturen für die öffentliche Bereitstellung von
+- 16a. :: „öffentliches Telekommunikationsnetz“ ein Telekommunikationsnetz, das ganz oder überwiegend der Bereitstellung öffentlich zugänglicher Telekommunikationsdienste dient, die die Übertragung von Informationen zwischen Netzabschlusspunkten ermöglichen;
+- 16b. :: „öffentliche Versorgungsnetze“ entstehende, betriebene oder stillgelegte physische Infrastrukturen für die öffentliche Bereitstellung von
   - a) :: Erzeugungs-, Leitungs- oder Verteilungsdiensten für
     - aa) :: Telekommunikation,
     - bb) :: Gas,
@@ -663,36 +663,36 @@ Im Sinne dieses Gesetzes ist oder sind
     - dd) :: Fernwärme oder
     - ee) :: Wasser, ausgenommen Trinkwasser im Sinne des § 3 Nummer 1 der Trinkwasserverordnung in der Fassung der Bekanntmachung vom 10. März 2016 (BGBl. I S. 459), die durch Artikel 4 Absatz 21 des Gesetzes vom 18. Juli 2016 (BGBl. I S. 1666) geändert worden ist; zu den öffentlichen Versorgungsnetzen zählen auch physische Infrastrukturen zur Abwasserbehandlung und -entsorgung sowie die Kanalisationssysteme;
   - b) :: Verkehrsdiensten; zu diesen Infrastrukturen gehören insbesondere Schienenwege, Straßen, Wasserstraßen, Brücken, Häfen und Flugplätze;
-- 17. :: öffentlich zugänglicher Telefondienst“ ein der Öffentlichkeit zur Verfügung stehender Dienst, der direkt oder indirekt über eine oder mehrere Nummern eines nationalen oder internationalen Telefonnummernplans oder eines anderen Adressierungsschemas das Führen folgender Gespräche ermöglicht:
+- 17. :: „öffentlich zugänglicher Telefondienst“ ein der Öffentlichkeit zur Verfügung stehender Dienst, der direkt oder indirekt über eine oder mehrere Nummern eines nationalen oder internationalen Telefonnummernplans oder eines anderen Adressierungsschemas das Führen folgender Gespräche ermöglicht:
   - a) :: aus- und eingehende Inlandsgespräche oder
   - b) :: aus- und eingehende Inlands- und Auslandsgespräche;
-- 17a. :: öffentlich zugängliche Telekommunikationsdienste“ der Öffentlichkeit zur Verfügung stehende Telekommunikationsdienste;
-- 17b. :: passive Netzinfrastrukturen“ Komponenten eines Netzes, die andere Netzkomponenten aufnehmen sollen, selbst jedoch nicht zu aktiven Netzkomponenten werden; hierzu zählen zum Beispiel Fernleitungen, Leer- und Leitungsrohre, Kabelkanäle, Kontrollkammern, Einstiegsschächte, Verteilerkästen, Gebäude und Gebäudeeingänge, Antennenanlagen und Trägerstrukturen wie Türme, Ampeln und Straßenlaternen, Masten und Pfähle; Kabel, einschließlich unbeschalteter Glasfaserkabel, sind keine passiven Netzinfrastrukturen;
+- 17a. :: „öffentlich zugängliche Telekommunikationsdienste“ der Öffentlichkeit zur Verfügung stehende Telekommunikationsdienste;
+- 17b. :: „passive Netzinfrastrukturen“ Komponenten eines Netzes, die andere Netzkomponenten aufnehmen sollen, selbst jedoch nicht zu aktiven Netzkomponenten werden; hierzu zählen zum Beispiel Fernleitungen, Leer- und Leitungsrohre, Kabelkanäle, Kontrollkammern, Einstiegsschächte, Verteilerkästen, Gebäude und Gebäudeeingänge, Antennenanlagen und Trägerstrukturen wie Türme, Ampeln und Straßenlaternen, Masten und Pfähle; Kabel, einschließlich unbeschalteter Glasfaserkabel, sind keine passiven Netzinfrastrukturen;
 - 17c. :: "Premium-Dienste" Dienste, insbesondere der Rufnummernbereiche (0)190 und (0)900, bei denen über die Telekommunikationsdienstleistung hinaus eine weitere Dienstleistung erbracht wird, die gegenüber dem Anrufer gemeinsam mit der Telekommunikationsdienstleistung abgerechnet wird und die nicht einer anderen Nummernart zuzurechnen ist;
 - 18. :: "Rufnummer" eine Nummer, durch deren Wahl im öffentlich zugänglichen Telefondienst eine Verbindung zu einem bestimmten Ziel aufgebaut werden kann;
 - 18a. :: "Rufnummernbereich" eine für eine Nummernart bereitgestellte Teilmenge des Nummernraums für das öffentliche Telefonnetz;
-- 18b. :: Schnittstelle“ ein Netzabschlusspunkt, das heißt, der physische Anschlusspunkt, über den der Benutzer Zugang zu öffentlichen Telekommunikationsnetzen erhält;
+- 18b. :: „Schnittstelle“ ein Netzabschlusspunkt, das heißt, der physische Anschlusspunkt, über den der Benutzer Zugang zu öffentlichen Telekommunikationsnetzen erhält;
 - 19. :: "Standortdaten" Daten, die in einem Telekommunikationsnetz oder von einem Telekommunikationsdienst erhoben oder verwendet werden und die den Standort des Endgeräts eines Endnutzers eines öffentlich zugänglichen Telekommunikationsdienstes angeben;
-- 19a. :: Teilabschnitt“ eine Teilkomponente des Teilnehmeranschlusses, die den Netzabschlusspunkt am Standort des Teilnehmers mit einem Konzentrationspunkt oder einem festgelegten zwischengeschalteten Zugangspunkt des öffentlichen Festnetzes verbindet;
+- 19a. :: „Teilabschnitt“ eine Teilkomponente des Teilnehmeranschlusses, die den Netzabschlusspunkt am Standort des Teilnehmers mit einem Konzentrationspunkt oder einem festgelegten zwischengeschalteten Zugangspunkt des öffentlichen Festnetzes verbindet;
 - 20. :: "Teilnehmer" jede natürliche oder juristische Person, die mit einem Anbieter von öffentlich zugänglichen Telekommunikationsdiensten einen Vertrag über die Erbringung derartiger Dienste geschlossen hat;
 - 21. :: "Teilnehmeranschluss" die physische Verbindung, mit dem der Netzabschlusspunkt in den Räumlichkeiten des Teilnehmers mit den Hauptverteilerknoten oder mit einer gleichwertigen Einrichtung in festen öffentlichen Telefonnetzen verbunden wird;
 - 22. :: "Telekommunikation" der technische Vorgang des Aussendens, Übermittelns und Empfangens von Signalen mittels Telekommunikationsanlagen;
 - 23. :: "Telekommunikationsanlagen" technische Einrichtungen oder Systeme, die als Nachrichten identifizierbare elektromagnetische oder optische Signale senden, übertragen, vermitteln, empfangen, steuern oder kontrollieren können;
 - 24. :: "Telekommunikationsdienste" in der Regel gegen Entgelt erbrachte Dienste, die ganz oder überwiegend in der Übertragung von Signalen über Telekommunikationsnetze bestehen, einschließlich Übertragungsdienste in Rundfunknetzen;
-- 24a. :: Telekommunikationsendeinrichtung“ eine direkt oder indirekt an die Schnittstelle eines öffentlichen Telekommunikationsnetzes angeschlossene Einrichtung zum Aussenden, Verarbeiten oder Empfangen von Nachrichten; sowohl bei direkten als auch bei indirekten Anschlüssen kann die Verbindung über elektrisch leitenden Draht, über optische Faser oder elektromagnetisch hergestellt werden; bei einem indirekten Anschluss ist zwischen der Telekommunikationsendeinrichtung und der Schnittstelle des öffentlichen Netzes ein Gerät geschaltet;
+- 24a. :: „Telekommunikationsendeinrichtung“ eine direkt oder indirekt an die Schnittstelle eines öffentlichen Telekommunikationsnetzes angeschlossene Einrichtung zum Aussenden, Verarbeiten oder Empfangen von Nachrichten; sowohl bei direkten als auch bei indirekten Anschlüssen kann die Verbindung über elektrisch leitenden Draht, über optische Faser oder elektromagnetisch hergestellt werden; bei einem indirekten Anschluss ist zwischen der Telekommunikationsendeinrichtung und der Schnittstelle des öffentlichen Netzes ein Gerät geschaltet;
 - 25. :: "telekommunikationsgestützte Dienste" Dienste, die keinen räumlich und zeitlich trennbaren Leistungsfluss auslösen, sondern bei denen die Inhaltsleistung noch während der Telekommunikationsverbindung erfüllt wird;
-- 26. :: Telekommunikationslinien“ unter- oder oberirdisch geführte Telekommunikationskabelanlagen, einschließlich ihrer zugehörigen Schalt- und Verzweigungseinrichtungen, Masten und Unterstützungen, Kabelschächte und Kabelkanalrohre, sowie weitere technische Einrichtungen, die für das Erbringen von öffentlich zugänglichen Telekommunikationsdiensten erforderlich sind;
+- 26. :: „Telekommunikationslinien“ unter- oder oberirdisch geführte Telekommunikationskabelanlagen, einschließlich ihrer zugehörigen Schalt- und Verzweigungseinrichtungen, Masten und Unterstützungen, Kabelschächte und Kabelkanalrohre, sowie weitere technische Einrichtungen, die für das Erbringen von öffentlich zugänglichen Telekommunikationsdiensten erforderlich sind;
 - 27. :: "Telekommunikationsnetz" die Gesamtheit von Übertragungssystemen und gegebenenfalls Vermittlungs- und Leitwegeinrichtungen sowie anderweitigen Ressourcen, einschließlich der nicht aktiven Netzbestandteile, die die Übertragung von Signalen über Kabel, Funk, optische und andere elektromagnetische Einrichtungen ermöglichen, einschließlich Satellitennetzen, festen, leitungs- und paketvermittelten Netzen, einschließlich des Internets, und mobilen terrestrischen Netzen, Stromleitungssystemen, soweit sie zur Signalübertragung genutzt werden, Netzen für Hör- und Fernsehfunk sowie Kabelfernsehnetzen, unabhängig von der Art der übertragenen Information;
-- 27a. :: Überbau“ die nachträgliche Dopplung von Telekommunikationsinfrastrukturen durch parallele Errichtung, soweit damit dasselbe Versorgungsgebiet erschlossen werden soll;
+- 27a. :: „Überbau“ die nachträgliche Dopplung von Telekommunikationsinfrastrukturen durch parallele Errichtung, soweit damit dasselbe Versorgungsgebiet erschlossen werden soll;
 - 28. :: "Übertragungsweg" Telekommunikationsanlagen in Form von Kabel- oder Funkverbindungen mit ihren übertragungstechnischen Einrichtungen als Punkt-zu-Punkt- oder Punkt-zu-Mehrpunktverbindungen mit einem bestimmten Informationsdurchsatzvermögen (Bandbreite oder Bitrate) einschließlich ihrer Abschlusseinrichtungen;
-- 28a. :: umfangreiche Renovierungen“ Tief- oder Hochbauarbeiten am Standort des Endnutzers, die strukturelle Veränderungen an den gesamten gebäudeinternen passiven Netzinfrastrukturen oder einem wesentlichen Teil davon umfassen;
+- 28a. :: „umfangreiche Renovierungen“ Tief- oder Hochbauarbeiten am Standort des Endnutzers, die strukturelle Veränderungen an den gesamten gebäudeinternen passiven Netzinfrastrukturen oder einem wesentlichen Teil davon umfassen;
 - 29. :: "Unternehmen" das Unternehmen selbst oder mit ihm im Sinne des § 36 Abs. 2 und § 37 Abs. 1 und 2 des Gesetzes gegen Wettbewerbsbeschränkungen verbundene Unternehmen;
 - 30. :: "Verkehrsdaten" Daten, die bei der Erbringung eines Telekommunikationsdienstes erhoben, verarbeitet oder genutzt werden;
-- 30a. :: Verletzung des Schutzes personenbezogener Daten“ eine Verletzung der Datensicherheit, die zum Verlust, zur unrechtmäßigen Löschung, Veränderung, Speicherung, Weitergabe oder sonstigen unrechtmäßigen Verwendung personenbezogener Daten führt, die übertragen, gespeichert oder auf andere Weise im Zusammenhang mit der Bereitstellung öffentlich zugänglicher Telekommunikationsdienste verarbeitet werden sowie der unrechtmäßige Zugang zu diesen;
-- 30b. :: vollständig entbündelter Zugang zum Teilnehmeranschluss“ die Bereitstellung des Zugangs zum Teilnehmeranschluss oder zum Teilabschnitt in der Weise, dass die Nutzung der gesamten Kapazität der Netzinfrastruktur ermöglicht wird;
-- 30c. :: Warteschleife“ jede vom Nutzer eines Telekommunikationsdienstes eingesetzte Vorrichtung oder Geschäftspraxis, über die Anrufe entgegengenommen oder aufrechterhalten werden, ohne dass das Anliegen des Anrufers bearbeitet wird. Dies umfasst die Zeitspanne ab Rufaufbau vom Anschluss des Anrufers bis zu dem Zeitpunkt, an dem mit der Bearbeitung des Anliegens des Anrufers begonnen wird, gleichgültig ob dies über einen automatisierten Dialog oder durch eine persönliche Bearbeitung erfolgt. Ein automatisierter Dialog beginnt, sobald automatisiert Informationen abgefragt werden, die für die Bearbeitung des Anliegens erforderlich sind. Eine persönliche Bearbeitung des Anliegens beginnt, sobald eine natürliche Person den Anruf entgegennimmt und bearbeitet. Hierzu zählt auch die Abfrage von Informationen, die für die Bearbeitung des Anliegens erforderlich sind. Als Warteschleife ist ferner die Zeitspanne anzusehen, die anlässlich einer Weiterleitung zwischen Beendigung der vorhergehenden Bearbeitung des Anliegens und der weiteren Bearbeitung vergeht, ohne dass der Anruf technisch unterbrochen wird. Keine Warteschleife sind automatische Bandansagen, wenn die Dienstleistung für den Anrufer vor Herstellung der Verbindung erkennbar ausschließlich in einer Bandansage besteht;
+- 30a. :: „Verletzung des Schutzes personenbezogener Daten“ eine Verletzung der Datensicherheit, die zum Verlust, zur unrechtmäßigen Löschung, Veränderung, Speicherung, Weitergabe oder sonstigen unrechtmäßigen Verwendung personenbezogener Daten führt, die übertragen, gespeichert oder auf andere Weise im Zusammenhang mit der Bereitstellung öffentlich zugänglicher Telekommunikationsdienste verarbeitet werden sowie der unrechtmäßige Zugang zu diesen;
+- 30b. :: „vollständig entbündelter Zugang zum Teilnehmeranschluss“ die Bereitstellung des Zugangs zum Teilnehmeranschluss oder zum Teilabschnitt in der Weise, dass die Nutzung der gesamten Kapazität der Netzinfrastruktur ermöglicht wird;
+- 30c. :: „Warteschleife“ jede vom Nutzer eines Telekommunikationsdienstes eingesetzte Vorrichtung oder Geschäftspraxis, über die Anrufe entgegengenommen oder aufrechterhalten werden, ohne dass das Anliegen des Anrufers bearbeitet wird. Dies umfasst die Zeitspanne ab Rufaufbau vom Anschluss des Anrufers bis zu dem Zeitpunkt, an dem mit der Bearbeitung des Anliegens des Anrufers begonnen wird, gleichgültig ob dies über einen automatisierten Dialog oder durch eine persönliche Bearbeitung erfolgt. Ein automatisierter Dialog beginnt, sobald automatisiert Informationen abgefragt werden, die für die Bearbeitung des Anliegens erforderlich sind. Eine persönliche Bearbeitung des Anliegens beginnt, sobald eine natürliche Person den Anruf entgegennimmt und bearbeitet. Hierzu zählt auch die Abfrage von Informationen, die für die Bearbeitung des Anliegens erforderlich sind. Als Warteschleife ist ferner die Zeitspanne anzusehen, die anlässlich einer Weiterleitung zwischen Beendigung der vorhergehenden Bearbeitung des Anliegens und der weiteren Bearbeitung vergeht, ohne dass der Anruf technisch unterbrochen wird. Keine Warteschleife sind automatische Bandansagen, wenn die Dienstleistung für den Anrufer vor Herstellung der Verbindung erkennbar ausschließlich in einer Bandansage besteht;
 - 31. :: "wirksamer Wettbewerb" die Abwesenheit von beträchtlicher Marktmacht im Sinne des § 11 Absatz 1 Satz 3 und 4;
-- 32. :: Zugang“ die Bereitstellung von Einrichtungen oder Diensten für ein anderes Unternehmen unter bestimmten Bedingungen zum Zwecke der Erbringung von Telekommunikationsdiensten, auch bei deren Verwendung zur Erbringung von Diensten der Informationsgesellschaft oder Rundfunkinhaltediensten. Dies umfasst unter anderem Folgendes:
+- 32. :: „Zugang“ die Bereitstellung von Einrichtungen oder Diensten für ein anderes Unternehmen unter bestimmten Bedingungen zum Zwecke der Erbringung von Telekommunikationsdiensten, auch bei deren Verwendung zur Erbringung von Diensten der Informationsgesellschaft oder Rundfunkinhaltediensten. Dies umfasst unter anderem Folgendes:
   - a) :: Zugang zu Netzkomponenten, einschließlich nicht aktiver Netzkomponenten, und zugehörigen Einrichtungen, wozu auch der feste oder nicht feste Anschluss von Geräten gehören kann. Dies beinhaltet insbesondere den Zugang zum Teilnehmeranschluss sowie zu Einrichtungen und Diensten, die erforderlich sind, um Dienste über den Teilnehmeranschluss zu erbringen, einschließlich des Zugangs zur Anschaltung und Ermöglichung des Anbieterwechsels des Teilnehmers und zu hierfür notwendigen Informationen und Daten und zur Entstörung;
   - b) :: Zugang zu physischen Infrastrukturen wie Gebäuden, Leitungsrohren und Masten;
   - c) :: Zugang zu einschlägigen Softwaresystemen, einschließlich Systemen für die Betriebsunterstützung;
@@ -702,9 +702,9 @@ Im Sinne dieses Gesetzes ist oder sind
   - g) :: Zugang zu Zugangsberechtigungssystemen für Digitalfernsehdienste und
   - h) :: Zugang zu Diensten für virtuelle Netze;
 - 33. :: "Zugangsberechtigungssysteme" technische Verfahren oder Vorrichtungen, welche die erlaubte Nutzung geschützter Rundfunkprogramme von einem Abonnement oder einer individuellen Erlaubnis abhängig machen;
-- 33a. :: Zugangspunkt zu passiven gebäudeinternen Netzkomponenten“ ein physischer Punkt innerhalb oder außerhalb des Gebäudes, der für Eigentümer und Betreiber öffentlicher Telekommunikationsnetze zugänglich ist und den Anschluss an die hochgeschwindigkeitsfähigen gebäudeinternen passiven Netzinfrastrukturen ermöglicht;
-- 33b. :: zugehörige Dienste“ diejenigen mit einem Telekommunikationsnetz oder einem Telekommunikationsdienst verbundenen Dienste, welche die Bereitstellung von Diensten über dieses Netz oder diesen Dienst ermöglichen, unterstützen oder dazu in der Lage sind. Darunter fallen unter anderem Systeme zur Nummernumsetzung oder Systeme, die eine gleichwertige Funktion bieten, Zugangsberechtigungssysteme und elektronische Programmführer sowie andere Dienste wie Dienste im Zusammenhang mit Identität, Standort und Präsenz des Nutzers;
-- 33c. :: zugehörige Einrichtungen“ diejenigen mit einem Telekommunikationsnetz oder einem Telekommunikationsdienst verbundenen zugehörigen Dienste, physischen Infrastrukturen und sonstigen Einrichtungen und Komponenten, welche die Bereitstellung von Diensten über dieses Netz oder diesen Dienst ermöglichen, unterstützen oder dazu in der Lage sind. Darunter fallen unter anderem Gebäude, Gebäudezugänge, Verkabelungen in Gebäuden, Antennen, Türme und andere Trägerstrukturen, Leitungsrohre, Leerrohre, Masten, Einstiegsschächte und Verteilerkästen;
+- 33a. :: „Zugangspunkt zu passiven gebäudeinternen Netzkomponenten“ ein physischer Punkt innerhalb oder außerhalb des Gebäudes, der für Eigentümer und Betreiber öffentlicher Telekommunikationsnetze zugänglich ist und den Anschluss an die hochgeschwindigkeitsfähigen gebäudeinternen passiven Netzinfrastrukturen ermöglicht;
+- 33b. :: „zugehörige Dienste“ diejenigen mit einem Telekommunikationsnetz oder einem Telekommunikationsdienst verbundenen Dienste, welche die Bereitstellung von Diensten über dieses Netz oder diesen Dienst ermöglichen, unterstützen oder dazu in der Lage sind. Darunter fallen unter anderem Systeme zur Nummernumsetzung oder Systeme, die eine gleichwertige Funktion bieten, Zugangsberechtigungssysteme und elektronische Programmführer sowie andere Dienste wie Dienste im Zusammenhang mit Identität, Standort und Präsenz des Nutzers;
+- 33c. :: „zugehörige Einrichtungen“ diejenigen mit einem Telekommunikationsnetz oder einem Telekommunikationsdienst verbundenen zugehörigen Dienste, physischen Infrastrukturen und sonstigen Einrichtungen und Komponenten, welche die Bereitstellung von Diensten über dieses Netz oder diesen Dienst ermöglichen, unterstützen oder dazu in der Lage sind. Darunter fallen unter anderem Gebäude, Gebäudezugänge, Verkabelungen in Gebäuden, Antennen, Türme und andere Trägerstrukturen, Leitungsrohre, Leerrohre, Masten, Einstiegsschächte und Verteilerkästen;
 - 34. :: "Zusammenschaltung" derjenige Zugang, der die physische und logische Verbindung öffentlicher Telekommunikationsnetze herstellt, um Nutzern eines Unternehmens die Kommunikation mit Nutzern desselben oder eines anderen Unternehmens oder die Inanspruchnahme von Diensten eines anderen Unternehmens zu ermöglichen; Dienste können von den beteiligten Parteien erbracht werden oder von anderen Parteien, die Zugang zum Netz haben. Zusammenschaltung ist ein Sonderfall des Zugangs und wird zwischen Betreibern öffentlicher Telekommunikationsnetze hergestellt.
 
 

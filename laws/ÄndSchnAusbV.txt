@@ -192,14 +192,14 @@ Planen und Vorbereiten von Arbeitsabläufen\\
 
 6
 
-
+ 
 
 - g) :: Produktinformationen beurteilen, Produkteigenschaften von Werk- und Hilfsstoffen berücksichtigen
 - h) :: Änderungsmöglichkeiten an Großstücken feststellen, Alternativen unter Berücksichtigung der Modellgestaltung und unter Einhaltung der Modelltreue vorschlagen
 - i) :: Eingang von Werk- und Hilfsstoffen sowie Zubehör auf Vollständigkeit und Mängel prüfen und dokumentieren
 - j) :: Bestände prüfen, Nachbestellungen vornehmen
 
-
+ 
 
 4
 
@@ -214,7 +214,7 @@ Beraten von Kunden\\
 
 5
 
-
+ 
 
 - d) :: Änderungsaufträge auf Umsetzbarkeit prüfen und annehmen
 - e) :: Kunden über Änderungsmöglichkeiten und Kosten informieren
@@ -222,7 +222,7 @@ Beraten von Kunden\\
 - g) :: Reklamationen und Beschwerden entgegennehmen und bearbeiten, Beteiligte informieren
 - h) :: Zahlungsverkehr, insbesondere Barzahlungen, abwickeln
 
-
+ 
 
 5
 
@@ -236,12 +236,12 @@ Instandhalten von Geräten, Maschinen und Zusatzeinrichtungen\\
 
 2
 
-
+ 
 
 - c) :: Störungen feststellen, Fehler beseitigen und Fehlerbeseitigung veranlassen
 - d) :: Bügelgeräte, insbesondere Dampferzeuger, betriebsbereit halten
 
-
+ 
 
 2
 
@@ -256,7 +256,7 @@ Zurichten von Kleinstücken und Hilfsstoffen\\
 
 5
 
-
+ 
 
 9
 
@@ -268,7 +268,7 @@ Zurichten von Großstücken und Hilfsstoffen\\
 - c) :: Schnitte abnehmen, insbesondere bei Neufütterungen
 - d) :: Bereiche von Großstücken freilegen, nach Markierungen abzeichnen und zurechtschneiden
 
-
+ 
 
 6
 
@@ -288,7 +288,7 @@ Ausführen von Näharbeiten\\
 
 23
 
-
+ 
 
 - i) :: Verarbeitungstechniken festlegen, insbesondere Stich- und Nahtarten
 - j) :: Zubehör, insbesondere Knöpfe, Borten, Haken und Ösen, annähen, Druckknöpfe anbringen
@@ -299,7 +299,7 @@ Ausführen von Näharbeiten\\
 - o) :: Großstücke enger- und weitermachen, kürzen, verlängern und modernisieren
 - p) :: Reparaturen an Großstücken durchführen, insbesondere an Schlitzen, Manschetten, Bündchen und Aufschlägen
 
-
+ 
 
 24
 
@@ -311,7 +311,7 @@ Ausführen von Näharbeiten\\
 - a) :: Vorhänge und Decken ändern, insbesondere kürzen und verlängern
 - b) :: Bezüge ändern
 
-
+ 
 
 4
 
@@ -330,12 +330,12 @@ Ausführen von Bügelarbeiten\\
 
 8
 
-
+ 
 
 - h) :: empfindliche Stoffe, insbesondere Samt, dämpfen und bügeln
 - i) :: Änderungsteile unter Berücksichtigung von Form und Aussehen bügeln
 
-
+ 
 
 4
 
@@ -351,12 +351,12 @@ Durchführen von qualitätssichernden Maßnahmen\\
 
 3
 
-
+ 
 
 - e) :: Endkontrolle durchführen, Arbeitsdaten und Zeiten dokumentieren
 - f) :: Ursachen von Qualitätsmängeln feststellen, Lösungen zur Fehlerbeseitigung festlegen, Korrektur- und Vorbeugungsmaßnahmen durchführen
 - g) :: zur kontinuierlichen Verbesserung von Arbeitsabläufen beitragen
 
-
+ 
 
 3

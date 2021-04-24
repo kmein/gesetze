@@ -46,9 +46,9 @@ Für die Prüfung von Dampfkesselanlagen werden folgende Gebühren erhoben:
 
 \\
 
+ 
 
-
-
+ 
 
 elektrischen Leistung N in kW und beträgt in EUR 0,07 x N + 56,24.
 
@@ -68,9 +68,9 @@ Bei Abgaswasservorwärmern, die vom Dampfkessel wasserseitig absperrbar sind, be
 
 Bei Dampfkesseln beträgt der Zuschlag für die Prüfung der Einrichtungen für den Betrieb
 
+ 
 
-
-
+ 
 
 a)
 
@@ -78,15 +78,15 @@ mit ständiger Beaufsichtigung von einer Warte aus oder mit eingeschränkter Bea
 
 41,93 EUR
 
+ 
 
-
-
+ 
 
 oder
 
+ 
 
-
-
+ 
 
 b)
 
@@ -98,45 +98,45 @@ ohne ständige Beaufsichtigung über 72 Stunden
 
 Bei Heißwassererzeugern, die ein Ausdehnungsgefäß oder einen Auffangbehälter besitzen, beträgt der Zuschlag jeweils bei einem Rauminhalt
 
+ 
 
-
-
+ 
 
 bis 50 Liter
 
 46,02 EUR,
 
-
+ 
 
 über 50 Liter bis 400 Liter
 
 53,69 EUR,
 
-
+ 
 
 über 400 Liter bis 2.000 Liter
 
 72,60 EUR,
 
-
+ 
 
 über 2.000 Liter bis 5.000 Liter
 
 96,63 EUR,
 
-
+ 
 
 über 5.000 Liter bis 10.000 Liter
 
 115,04 EUR,
 
-
+ 
 
 über 10.000 Liter
 
 115,04 EUR
 
-
+ 
 
 und zusätzlich je weitere und angefangene 10.000 Liter
 
@@ -297,43 +297,43 @@ Fundstelle des Originaltextes: BGBl. I 2001, 3479 - 3482
 
 Grundgebühr
 
+ 
 
-
-
+ 
 
 Die Grundgebühr beträgt für die Behälter mit einem Rauminhalt
 
-
+ 
 
 bis 400 Liter
 
 53,69 EUR,
 
-
+ 
 
 über 400 Liter bis 2.000 Liter
 
 72,60 EUR,
 
-
+ 
 
 über 2.000 Liter bis 5.000 Liter
 
 96,63 EUR,
 
-
+ 
 
 über 5.000 Liter bis 10.000 Liter
 
 115,04 EUR,
 
-
+ 
 
 über 10.000 Liter
 
 115,04 EUR
 
-
+ 
 
 und zusätzlich je weitere und angefangene 10.000 Liter
 
@@ -372,27 +372,27 @@ und zusätzlich je weitere und angefangene 10.000 Liter
 
 bei Prüfungen vor Inbetriebnahme
 
+ 
 
-
-
+ 
 
 für die 2. Prüfung
 
 85 v. H. der Gebühr nach Nummer 1.1,
 
-
+ 
 
 für die 3. bis 10. Prüfung
 
 75 v. H. der Gebühr nach Nummer 1.1,
 
-
+ 
 
 für die 11. bis 20. Prüfung
 
 50 v. H. der Gebühr nach Nummer 1.1,
 
-
+ 
 
 für die 21. und jede weitere Prüfung
 
@@ -402,21 +402,21 @@ für die 21. und jede weitere Prüfung
 
 bei wiederkehrenden Prüfungen
 
+ 
 
-
-
+ 
 
 für die 2. Prüfung
 
 85 v. H. der Gebühr nach Nummer 1.1,
 
-
+ 
 
 für die 3. und jede weitere Prüfung
 
 75 v. H. der Gebühr nach Nummer 1.1.
 
-
+ 
 
 Die Berechnung der Gebühr nach den Nummern 1.2.1.1 und 1.2.1.2 beginnt mit der Prüfung des größten Umfanges.
 
@@ -445,33 +445,33 @@ Die Berechnung der Gebühr nach den Nummern 1.2.1.1 und 1.2.1.2 beginnt mit der 
 
 Prüfung der Zeichnungsunterlagen bei Druckgaskartuschen, Einwegbehältern,
 
+ 
 
-
-
+ 
 
 Flaschen und Feuerlöschern
 
 85,90 EUR,
 
-
+ 
 
 Fässern
 
 125,78 EUR,
 
-
+ 
 
 Flaschenbündeln (Gestelle und Ausrüstung) und Treibgastanks
 
 168,73 EUR,
 
-
+ 
 
 Fahrzeugbehältern und Containern (im Werksverkehr)
 
+ 
 
-
-
+ 
 
 -
 
@@ -479,7 +479,7 @@ für alle Gase, ausgenommen flüssige tiefkalte Druckgase
 
 289,39 EUR,
 
-
+ 
 
 -
 
@@ -487,11 +487,11 @@ für flüssige tiefkalte Druckgase
 
 374,78 EUR.
 
-
+ 
 
 Bei Behälterbaugruppen mit gleichem Durchmesser wird nur ein Behälter berechnet.
 
-
+ 
 
 -  :: - 2.2.2 :: Werkstoffprüfung
   - 2.2.2.1 :: Für die Beurteilung und Auswertung der erforderlichen Prüfungen werden je Probesatz, bestehend aus 1 Zugprobe, 1 Satz Kerbschlagbiegeproben und 1 Faltprobe 20,45 EUR erhoben.
@@ -588,14 +588,14 @@ Für die Prüfung von Aufzugsanlagen und von Aufzugswärtern werden folgende Geb
 
 Grundgebühr
 
-
+ 
 
 Art der Aufzugsanlagen
 
 Grundgebühr G\\
 in EUR
 
-
+ 
 
 Gruppe I:
 
@@ -608,7 +608,7 @@ Gruppe I:
 
 107,37
 
-
+ 
 
 Gruppe II:
 
@@ -620,7 +620,7 @@ Gruppe II:
 
 82,83
 
-
+ 
 
 Gruppe III:
 
@@ -633,26 +633,26 @@ Gruppe III:
 
 53,69
 
-
+ 
 
 Gruppe IV:\\
 Fassadenaufzug
 
 117,60
 
-
+ 
 
 Die noch als Lastenaufzüge mit Fangvorrichtung oder Aufsetzvorrichtung bezeichneten Aufzüge fallen unter die Gruppe I, die noch als Lastenaufzüge ohne Fangvorrichtung oder Aufsetzvorrichtung bezeichneten Aufzüge fallen unter die Gruppe II und die noch als Kleinlastenaufzüge bezeichneten Aufzüge fallen unter die Gruppe III.
 
-
+ 
 
 1.3
 
 Prüfungsfaktoren
 
+ 
 
-
-
+ 
 
 Art der Prüfung
 
@@ -664,9 +664,9 @@ Aufzüge
 
 der Gruppe
 
+ 
 
-
-
+ 
 
 I
 
@@ -676,11 +676,11 @@ III
 
 IV
 
-
+ 
 
 Abnahmeprüfung
 
-
+ 
 
 Prüfung der Anzeigeunterlagen
 
@@ -1007,9 +1007,9 @@ Fundstelle des Originaltextes: BGBl. I 2001, 3487 - 3492\\
 
 Für die Prüfung der elektrischen Einrichtungen von Lägern und Füllstellen werden für jede in sich geschlossene Anlage eine Grundgebühr von 37,32 EUR und folgende Zuschläge erhoben:
 
+ 
 
-
-
+ 
 
 explosionsgeschützte Bauart
 
@@ -1019,15 +1019,15 @@ in EUR
 
 in EUR
 
-
+ 
 
 für jedes Gerät (Motoren, Transformatoren, Umformer, Gleichrichter)
 
+ 
 
+ 
 
-
-
-
+ 
 
 - bis zu einer Leistung von je 15 kW
 
@@ -1035,7 +1035,7 @@ für jedes Gerät (Motoren, Transformatoren, Umformer, Gleichrichter)
 
 7,16,
 
-
+ 
 
 - bis zu einer Leistung von je mehr als 15 kW
 
@@ -1043,7 +1043,7 @@ für jedes Gerät (Motoren, Transformatoren, Umformer, Gleichrichter)
 
 12,27,
 
-
+ 
 
 für jede Leuchte
 
@@ -1051,7 +1051,7 @@ für jede Leuchte
 
 3,07.
 
-
+ 
 
 Die Gebühr für die Prüfung der Schalt- und Verteilungsanlagen ist in vorstehenden Sätzen enthalten. Für die Prüfung der Mess-, Steuer- und Regelanlagen werden Gebühren nach Nummer 11 erhoben.
 
@@ -1059,21 +1059,21 @@ Die Gebühr für die Prüfung der Schalt- und Verteilungsanlagen ist in vorstehe
 
 Für die Prüfung der elektrischen Einrichtungen von Tankstellen werden folgende Gebühren erhoben
 
-
+ 
 
 8.1.2.1
 
 für die Prüfung von Abgabeeinrichtungen
 
+ 
 
-
-
+ 
 
 - für jede Förder- und Abgabeeinheit
 
 36,81 EUR,
 
-
+ 
 
 - für jede Zusatzeinrichtung (Belegdrucker/Mess-, Rechen- oder Anzeigeeinheit mit Fernübertragung)
 
@@ -1085,85 +1085,85 @@ für die Prüfung jeder Einrichtung zur Ableitung statischer Ladung jeder zusät
 
 7,16 EUR,
 
-
+ 
 
 für die Prüfung von Gasrückführsystemen je Einzelanlage
 
 18,41 EUR.
 
-
+ 
 
 Für die Prüfung sonstiger elektrischer Einrichtungen werden Gebühren nach Nummer 11 erhoben.
 
-
+ 
 
 8.2
 
 Einrichtungen für den Blitzschutz
 
-
+ 
 
 8.2.1
 
 Für die Prüfung der Einrichtung für den Blitzschutz wird für jede in sich geschlossene Anlage
 
+ 
 
-
-
+ 
 
 eine Grundgebühr von
 
 34,26 EUR
 
-
+ 
 
 und ein Zuschlag für jede Trennstelle von
 
 7,16 EUR
 
-
+ 
 
 erhoben.
 
-
+ 
 
 8.3
 
 Einrichtungen für den kathodischen Korrosionsschutz
 
-
+ 
 
 8.3.1
 
 Für die Prüfung des kathodischen Korrosionsschutzes an Tankstellen werden erhoben
 
+ 
 
-
-
+ 
 
 Prüfung nach VDE 0165 je Abgabeeinrichtung
 
 4,60 EUR,
 
-
+ 
 
 Funktionsprüfung für den ersten Tank
 
 65,45 EUR,
 
-
+ 
 
 für jeden weiteren Tank ein Zuschlag von
 
 21,47 EUR,
 
-
+ 
 
 für jede Fremdstromanlage ein Zuschlag von
 
 10,74 EUR,
 
-
+ 
 
 für jede Anode ein Zuschlag von
 
@@ -1173,21 +1173,21 @@ für jede Anode ein Zuschlag von
 
 Für die Prüfung auf Erfordernis eines kathodischen Korrosionsschutzes an Tankstellen werden erhoben
 
+ 
 
-
-
+ 
 
 Messung des spezifischen Bodenwiderstandes
 
 65,45 EUR,
 
-
+ 
 
 Messung des Tank-/Bodenpotentials je Tank
 
 36,30 EUR,
 
-
+ 
 
 Ermittlung des Ausbreitungswiderstandes je Tank
 
@@ -1197,19 +1197,19 @@ Ermittlung des Ausbreitungswiderstandes je Tank
 
 Für die Prüfung auf Erfordernis des kathodischen Korrosionsschutzes von Lägern und Füllstellen werden Gebühren nach Nummer 11 erhoben.
 
-
+ 
 
 8.4
 
 Angeordnete Prüfungen
 
+ 
 
-
-
+ 
 
 Für angeordnete Prüfungen werden Gebühren nach den Nummern 8.1 bis 8.3 erhoben.
 
-
+ 
 
 -  :: - 9 :: Fernleitungen
   - 9.1 :: Für jede der nachstehenden Prüfungen von Fernleitungen zum Befördern brennbarer Flüssigkeiten

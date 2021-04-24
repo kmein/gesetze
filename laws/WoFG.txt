@@ -7,14 +7,14 @@ Ausfertigungsdatum: 13.09.2001
 Inhaltsübersicht
 
 Teil 1
-
+ 
 Allgemeines zur Förderung
-
-
+ 
+ 
 Abschnitt 1
-
-
-
+ 
+ 
+ 
 Zweck und Maßnahmen der Förderung
 § 1
 Zweck und Anwendungsbereich, Zielgruppe
@@ -24,12 +24,12 @@ Fördergegenstände und Fördermittel
 Durchführung der Aufgaben und Zuständigkeiten
 § 4
 Bauland, sonstige Rahmenbedingungen
-
-
+ 
+ 
 Abschnitt 2
-
-
-
+ 
+ 
+ 
 Grundsätze, Voraussetzungen und Förderzusage
 § 5
 Anforderungen an die Förderung
@@ -49,26 +49,26 @@ Förderempfänger
 Bevorzugung von Maßnahmen, zusätzliche Förderung
 § 13
 Förderzusage
-
-
+ 
+ 
 Abschnitt 3
-
-
-
+ 
+ 
+ 
 Kooperationsvertrag
 § 14
 Zweck, Beteiligte
 § 15
 Gegenstände des Kooperationsvertrags
 Teil 2
-
+ 
 Begriffsbestimmungen, Durchführung der sozialen Wohnraumförderung
-
-
+ 
+ 
 Abschnitt 1
-
-
-
+ 
+ 
+ 
 Begriffsbestimmungen
 § 16
 Wohnungsbau, Modernisierung
@@ -78,12 +78,12 @@ Wohnraum
 Haushaltsangehörige
 § 19
 Wohnfläche, Betriebskosten
-
-
+ 
+ 
 Abschnitt 2
-
-
-
+ 
+ 
+ 
 Einkommensermittlung
 § 20
 Gesamteinkommen
@@ -95,12 +95,12 @@ Zeitraum für die Ermittlung des Jahreseinkommens
 Pauschaler Abzug
 § 24
 Frei- und Abzugsbeträge
-
-
+ 
+ 
 Abschnitt 3
-
-
-
+ 
+ 
+ 
 Begründung und Sicherung von Belegungs- und Mietbindungen sowie von Bindungen für selbst genutztes Wohneigentum
 § 25
 Anwendungsbereich
@@ -120,12 +120,12 @@ Freistellung von Belegungsbindungen
 Sonstige Vorschriften der Sicherung
 § 33
 Geldleistung bei Gesetzesverstößen
-
-
+ 
+ 
 Abschnitt 4
-
-
-
+ 
+ 
+ 
 Ausgleich von Fehlförderungen
 § 34
 Grundlagen der Ausgleichszahlung
@@ -136,7 +136,7 @@ Höhe der Ausgleichszahlung und Leistungszeitraum
 § 37
 Wegfall und Minderung der Ausgleichszahlung
 Teil 3
-
+ 
 Bundesmittel
 § 38
 Bereitstellung und Verteilung von Finanzhilfen
@@ -145,7 +145,7 @@ Verzinsung und Tilgung
 § 40
 Rückflüsse an den Bund
 Teil 4
-
+ 
 Ergänzungsvorschriften
 § 41
 Berichterstattung
@@ -158,7 +158,7 @@ Sonderregelungen für einzelne Länder
 § 45
 Förderung mit Wohnungsfürsorgemitteln
 Teil 5
-
+ 
 Überleitungs- und Schlussvorschriften
 § 46
 Zeitlicher Anwendungsbereich

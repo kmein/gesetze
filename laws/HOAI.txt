@@ -414,133 +414,133 @@ Euro
   7 838
   7 838
  10 341
- 1
+ 1 
   5 000
   8 799
   8 799
  12 926
  12 926
  17 054
- 2
+ 2 
   7 699
  14 502
  14 502
  21 305
  21 305
  28 109
- 3
+ 3 
  10 306
  19 413
  19 413
  28 521
  28 521
  37 628
- 4
+ 4 
  12 669
  23 866
  23 866
  35 062
  35 062
  46 258
- 5
+ 5 
  14 864
  28 000
  28 000
  41 135
  41 135
  54 271
- 6
+ 6 
  16 931
  31 893
  31 893
  46 856
  46 856
  61 818
- 7
+ 7 
  18 896
  35 595
  35 595
  52 294
  52 294
  68 992
- 8
+ 8 
  20 776
  39 137
  39 137
  57 497
  57 497
  75 857
- 9
+ 9 
  22 584
  42 542
  42 542
  62 501
  62 501
  82 459
-10
+10 
  24 330
  45 830
  45 830
  67 331
  67 331
  88 831
-15
+15 
  32 325
  60 892
  60 892
  89 458
  89 458
 118 025
-20
+20 
  39 427
  74 270
  74 270
 109 113
 109 113
 143 956
-25
+25 
  46 385
  87 376
  87 376
 128 366
 128 366
 169 357
-30
+30 
  52 975
  99 791
  99 791
 146 606
 146 606
 193 422
-40
+40 
  65 342
 123 086
 123 086
 180 830
 180 830
 238 574
-50
+50 
  76 901
 144 860
 144 860
 212 819
 212 819
 280 778
-60
+60 
  87 599
 165 012
 165 012
 242 425
 242 425
 319 838
-80
+80 
 107 471
 202 445
 202 445
 297 419
 297 419
 392 393
-100 
+100  
 125 791
 236 955
 236 955
@@ -837,133 +837,133 @@ Euro
   6 980
   6 980
   7 828
- 2
+ 2 
   6 008
   6 985
   6 985
   8 036
   8 036
   9 013
- 3
+ 3 
   7 450
   8 661
   8 661
   9 965
   9 965
  11 175
- 4
+ 4 
   8 770
  10 195
  10 195
  11 730
  11 730
  13 155
- 5
+ 5 
  10 006
  11 632
  11 632
  13 383
  13 383
  15 009
-10
+10 
  15 445
  17 955
  17 955
  20 658
  20 658
  23 167
-15
+15 
  20 183
  23 462
  23 462
  26 994
  26 994
  30 274
-20
+20 
  24 513
  28 496
  28 496
  32 785
  32 785
  36 769
-25
+25 
  28 560
  33 201
  33 201
  38 199
  38 199
  42 840
-30
+30 
  32 394
  37 658
  37 658
  43 326
  43 326
  48 590
-40
+40 
  39 580
  46 011
  46 011
  52 938
  52 938
  59 370
-50
+50 
  46 282
  53 803
  53 803
  61 902
  61 902
  69 423
-75
+75 
  61 579
  71 586
  71 586
  82 362
  82 362
  92 369
-100 
+100  
  75 430
  87 687
  87 687
 100 887
 100 887
 113 145
-125 
+125  
  88 255
 102 597
 102 597
 118 042
 118 042
 132 383
-150 
+150  
 100 288
 116 585
 116 585
 134 136
 134 136
 150 433
-175 
+175  
 111 675
 129 822
 129 822
 149 366
 149 366
 167 513
-200 
+200  
 122 516
 142 425
 142 425
 163 866
 163 866
 183 774
-225 
+225  
 133 555
 155 258
 155 258
 178 630
 178 630
 200 333
-250 
+250  
 144 284
 167 730
 167 730
@@ -3523,7 +3523,7 @@ LPH 6 Mitwirkung bei der Vorbereitung der Vergabe
 
 Beiträge zu Ausschreibungsunterlagen
 
-
+ 
 
 LPH 7 Mitwirkung bei der Vergabe
 
@@ -3533,14 +3533,14 @@ Mitwirken beim Prüfen und Bewerten der Angebote auf Erfüllung der Anforderunge
 
 LPH 8 Objektüberwachung und Dokumentation
 
-
+ 
 
 - -- :: Mitwirken bei der Baustellenkontrolle
 - -- :: Messtechnisches Überprüfen der Qualität der Bauausführung und von Bauteil- oder Raumeigenschaften
 
 LPH 9 Objektbetreuung
 
-
+ 
 
 - -- :: Mitwirken bei Audits in Zertifizierungsprozessen
 
@@ -3659,7 +3659,7 @@ Leistungsbild Geotechnik
 - -- :: Mitwirken während der Planung oder Ausführung des Objekts sowie Besprechungs- und Ortstermine
 - -- :: geotechnische Freigaben
 
-
+ 
 
 1.3.4
 
@@ -3847,7 +3847,7 @@ Leistungsbild Planungsbegleitende Vermessung
 - d) :: Darstellen der Höhen in Punkt-, Raster- oder Schichtlinienform
 - e) :: Liefern der Pläne und Daten in analoger und digitaler Form
 
-
+ 
 
 1.4.5
 
@@ -4370,7 +4370,7 @@ LPH 2 Vorplanung (Projekt- und Planungsvorbereitung)
   - -- :: Farb- und Materialcollagen
   - -- :: digitales Geländemodell
 
-
+ 
 
 - -- :: 3-D oder 4-D Gebäudemodellbearbeitung (Building Information Modelling BIM)
 - -- :: Aufstellen einer vertieften Kostenschätzung nach Positionen einzelner Gewerke
@@ -4514,346 +4514,346 @@ V
 Wohnen
 -- Einfache Behelfsbauten für vorübergehende Nutzung
 x
-
-
-
-
+ 
+ 
+ 
+ 
 -- Einfache Wohnbauten mit gemeinschaftlichen Sanitär- und Kücheneinrichtungen
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Einfamilienhäuser, Wohnhäuser oder Hausgruppen in verdichteter Bauweise
-
-
+ 
+ 
 x
 x
-
+ 
 -- Wohnheime, Gemeinschaftsunterkünfte, Jugendherbergen, -freizeitzentren, -stätten
-
-
+ 
+ 
 x
 x
-
+ 
 Ausbildung/Wissenschaft/Forschung
 -- Offene Pausen-, Spielhallen
 x
-
-
-
-
+ 
+ 
+ 
+ 
 -- Studentenhäuser
-
-
+ 
+ 
 x
 x
-
+ 
 -- Schulen mit durchschnittlichen Planungsanforderungen, zum Beispiel Grundschulen, weiterführende Schulen und Berufsschulen
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Schulen mit hohen Planungsanforderungen, Bildungszentren, Hochschulen, Universitäten, Akademien
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Hörsaal-, Kongresszentren
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Labor- oder Institutsgebäude
-
-
-
+ 
+ 
+ 
 x
 x
 Büro/Verwaltung/Staat/Kommune
 -- Büro-, Verwaltungsgebäude
-
-
+ 
+ 
 x
 x
-
+ 
 -- Wirtschaftsgebäude, Bauhöfe
-
-
+ 
+ 
 x
 x
-
+ 
 -- Parlaments-, Gerichtsgebäude
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Bauten für den Strafvollzug
-
-
-
+ 
+ 
+ 
 x
 x
 -- Feuerwachen, Rettungsstationen
-
-
+ 
+ 
 x
 x
-
+ 
 -- Sparkassen- oder Bankfilialen
-
-
+ 
+ 
 x
 x
-
+ 
 -- Büchereien, Bibliotheken, Archive
-
-
+ 
+ 
 x
 x
-
+ 
 Gesundheit/Betreuung
 -- Liege- oder Wandelhallen
 x
-
-
-
-
+ 
+ 
+ 
+ 
 -- Kindergärten, Kinderhorte
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Jugendzentren, Jugendfreizeitstätten
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Betreuungseinrichtungen, Altentagesstätten
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Pflegeheime oder Bettenhäuser, ohne oder mit medizinisch-technischer Einrichtungen,
-
-
+ 
+ 
 x
 x
-
+ 
 -- Unfall-, Sanitätswachen, Ambulatorien
-
+ 
 x
 x
-
-
+ 
+ 
 -- Therapie- oder Rehabilitations-Einrichtungen, Gebäude für Erholung, Kur oder Genesung
-
-
+ 
+ 
 x
 x
-
+ 
 -- Hilfskrankenhäuser
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Krankenhäuser der Versorgungsstufe I oder II, Krankenhäuser besonderer Zweckbestimmung
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Krankenhäuser der Versorgungsstufe III, Universitätskliniken
-
-
-
-
+ 
+ 
+ 
+ 
 x
 Handel und Verkauf/Gastgewerbe
 -- Einfache Verkaufslager, Verkaufsstände, Kioske
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Ladenbauten, Discounter, Einkaufszentren, Märkte, Messehallen
-
-
+ 
+ 
 x
 x
-
+ 
 -- Gebäude für Gastronomie, Kantinen oder Mensen
-
-
+ 
+ 
 x
 x
-
+ 
 -- Großküchen, mit oder ohne Speiseräume
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Pensionen, Hotels
-
-
+ 
+ 
 x
 x
-
+ 
 Freizeit/Sport
 -- Einfache Tribünenbauten
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Bootshäuser
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Turn- oder Sportgebäude
-
-
+ 
+ 
 x
 x
-
+ 
 -- Mehrzweckhallen, Hallenschwimmbäder, Großsportstätten
-
-
-
+ 
+ 
+ 
 x
 x
 Gewerbe/Industrie/Landwirtschaft
 -- Einfache Landwirtschaftliche Gebäude, zum Beispiel Feldscheunen, Einstellhallen
 x
-
-
-
-
+ 
+ 
+ 
+ 
 -- Landwirtschaftliche Betriebsgebäude, Stallanlagen
-
+ 
 x
 x
 x
-
+ 
 -- Gewächshäuser für die Produktion
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Einfache geschlossene, eingeschossige Hallen, Werkstätten
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Spezielle Lagergebäude, zum Beispiel Kühlhäuser
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Werkstätten, Fertigungsgebäude des Handwerks oder der Industrie
-
+ 
 x
 x
 x
-
+ 
 -- Produktionsgebäude der Industrie
-
-
+ 
+ 
 x
 x
 x
 Infrastruktur
 -- Offene Verbindungsgänge, Überdachungen, zum Beispiel Wetterschutzhäuser, Carports
 x
-
-
-
-
+ 
+ 
+ 
+ 
 -- Einfache Garagenbauten
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Parkhäuser, -garagen, Tiefgaragen, jeweils mit integrierten weiteren Nutzungsarten
-
+ 
 x
 x
-
-
+ 
+ 
 -- Bahnhöfe oder Stationen verschiedener öffentlicher Verkehrsmittel
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Flughäfen
-
-
-
+ 
+ 
+ 
 x
 x
 -- Energieversorgungszentralen, Kraftwerksgebäude, Großkraftwerke
-
-
-
+ 
+ 
+ 
 x
 x
 Kultur-/Sakralbauten
 -- Pavillons für kulturelle Zwecke
-
+ 
 x
 x
-
-
+ 
+ 
 -- Bürger-, Gemeindezentren, Kultur-/Sakralbauten, Kirchen
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Mehrzweckhallen für religiöse oder kulturelle Zwecke
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Ausstellungsgebäude, Lichtspielhäuser
-
-
+ 
+ 
 x
 x
-
+ 
 -- Museen
-
-
-
+ 
+ 
+ 
 x
 x
 -- Theater-, Opern-, Konzertgebäude
-
-
-
+ 
+ 
+ 
 x
 x
 -- Studiogebäude für Rundfunk oder Fernsehen
-
-
-
+ 
+ 
+ 
 x
 x
 10.3 Objektliste Innenräume
@@ -4867,329 +4867,329 @@ IV
 V
 -- Einfachste Innenräume für vorübergehende Nutzung ohne oder mit einfachsten seriellen Einrichtungsgegenständen
 x
-
-
-
-
+ 
+ 
+ 
+ 
 -- Innenräume mit geringer Planungsanforderung, unter Verwendung von serienmäßig hergestellten Möbeln und Ausstattungsgegenständen einfacher Qualität, ohne technische Ausstattung
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Innenräume mit durchschnittlicher Planungsanforderung, zum überwiegenden Teil unter Verwendung von serienmäßig hergestellten Möbeln und Ausstattungsgegenständen oder mit durchschnittlicher technischer Ausstattung
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Innenräume mit hohen Planungsanforderungen, unter Mitverwendung von serienmäßig hergestellten Möbeln und Ausstattungsgegenständen gehobener Qualität oder gehobener technischer Ausstattung
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Innenräume mit sehr hohen Planungsanforderungen, unter Verwendung von aufwendiger Einrichtung oder Ausstattung oder umfangreicher technischer Ausstattung
-
-
-
-
+ 
+ 
+ 
+ 
 x
 Wohnen
 -- Einfachste Räume ohne Einrichtung oder für vorübergehende Nutzung
 x
-
-
-
-
+ 
+ 
+ 
+ 
 -- Einfache Wohnräume mit geringen Anforderungen an Gestaltung oder Ausstattung
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Wohnräume mit durchschnittlichen Anforderungen, serielle Einbauküchen
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Wohnräume in Gemeinschaftsunterkünften oder Heimen
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Wohnräume gehobener Anforderungen, individuell geplante Küchen und Bäder
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Dachgeschoßausbauten, Wintergärten
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Individuelle Wohnräume in anspruchsvoller Gestaltung mit aufwendiger Einrichtung, Ausstattung und technischer Ausrüstung
-
-
-
-
+ 
+ 
+ 
+ 
 x
 Ausbildung/Wissenschaft/Forschung
 -- Einfache offene Hallen
 x
-
-
-
-
+ 
+ 
+ 
+ 
 -- Lager- oder Nebenräume mit einfacher Einrichtung oder Ausstattung
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Gruppenräume zum Beispiel in Kindergärten, Kinderhorten, Jugendzentren, Jugendherbergen, Jugendheimen
-
-
+ 
+ 
 x
 x
-
+ 
 -- Klassenzimmer, Hörsäle, Seminarräume, Büchereien, Mensen
-
-
+ 
+ 
 x
 x
-
+ 
 -- Aulen, Bildungszentren, Bibliotheken, Labore, Lehrküchen mit oder ohne Speise- oder Aufenthaltsräume, Fachunterrichtsräume mit technischer Ausstattung
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Kongress-, Konferenz-, Seminar-, Tagungsbereiche mit individuellem Ausbau und Einrichtung und umfangreicher technischer Ausstattung
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Räume wissenschaftlicher Forschung mit hohen Ansprüchen und technischer Ausrüstung
-
-
-
-
+ 
+ 
+ 
+ 
 x
 Büro/Verwaltung/Staat/Kommune
 -- Innere Verkehrsflächen
 x
-
-
-
-
+ 
+ 
+ 
+ 
 -- Post-, Kopier-, Putz- oder sonstige Nebenräume ohne baukonstruktive Einbauten
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Büro-, Verwaltungs-, Aufenthaltsräume mit durchschnittlichen Anforderungen, Treppenhäuser, Wartehallen, Teeküchen
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Räume für sanitäre Anlagen, Werkräume, Wirtschaftsräume, Technikräume
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Eingangshallen, Sitzungs- oder Besprechungsräume, Kantinen, Sozialräume
-
-
+ 
+ 
 x
 x
-
+ 
 -- Kundenzentren, -ausstellungen, -präsentationen
-
-
+ 
+ 
 x
 x
-
+ 
 -- Versammlungs-, Konferenzbereiche, Gerichtssäle, Arbeitsbereiche von Führungskräften mit individueller Gestaltung oder Einrichtung oder gehobener technischer Ausstattung
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Geschäfts-, Versammlungs- oder Konferenzräume mit anspruchsvollem Ausbau oder anspruchsvoller Einrichtung, aufwendiger Ausstattung oder sehr hohen technischen Anforderungen
-
-
-
-
+ 
+ 
+ 
+ 
 x
 Gesundheit/Betreuung
 -- Offene Spiel- oder Wandelhallen
 x
-
-
-
-
+ 
+ 
+ 
+ 
 -- Einfache Ruhe- oder Nebenräume
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Sprech-, Betreuungs-, Patienten-, Heimzimmer oder Sozialräume mit durchschnittlichen Anforderungen ohne medizintechnische Ausrüstung
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Behandlungs- oder Betreuungsbereiche mit medizintechnischer Ausrüstung oder Einrichtung in Kranken-, Therapie-, Rehabilitations- oder Pflegeeinrichtungen, Arztpraxen
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Operations-, Kreißsäle, Röntgenräume
-
-
-
+ 
+ 
+ 
 x
 x
 Handel/Gastgewerbe
 -- Verkaufsstände für vorübergehende Nutzung
 x
-
-
-
-
+ 
+ 
+ 
+ 
 -- Kioske, Verkaufslager, Nebenräume mit einfacher Einrichtung und Ausstattung
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Durchschnittliche Laden- oder Gasträume, Einkaufsbereiche, Schnellgaststätten
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Fachgeschäfte, Boutiquen, Showrooms, Lichtspieltheater, Großküchen
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Messestände, bei Verwendung von System- oder Modulbauteilen
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Individuelle Messestände
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Gasträume, Sanitärbereiche gehobener Gestaltung, zum Beispiel in Restaurants, Bars, Weinstuben, Cafés, Clubräumen
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Gast- oder Sanitärbereiche zum Beispiel in Pensionen oder Hotels mit durchschnittlichen Anforderungen oder Einrichtungen oder Ausstattungen
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Gast-, Informations- oder Unterhaltungsbereiche in Hotels mit individueller Gestaltung oder Möblierung oder gehobener Einrichtung oder technischer Ausstattung
-
-
-
+ 
+ 
+ 
 x
-
+ 
 Freizeit/Sport
 -- Neben- oder Wirtschafträume in Sportanlagen oder Schwimmbädern
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Schwimmbäder, Fitness-, Wellness- oder Saunaanlagen, Großsportstätten
-
-
+ 
+ 
 x
 x
-
+ 
 -- Sport-, Mehrzweck- oder Stadthallen, Gymnastikräume, Tanzschulen
-
-
+ 
+ 
 x
 x
-
+ 
 Gewerbe/Industrie/Landwirtschaft/Verkehr
 -- Einfache Hallen oder Werkstätten ohne fachspezifische Einrichtung, Pavillons
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Landwirtschaftliche Betriebsbereiche
-
+ 
 x
 x
-
-
+ 
+ 
 -- Gewerbebereiche, Werkstätten mit technischer oder maschineller Einrichtung
-
-
+ 
+ 
 x
 x
-
+ 
 -- Umfassende Fabrikations- oder Produktionsanlagen
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Räume in Tiefgaragen, Unterführungen
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Gast- oder Betriebsbereiche in Flughäfen, Bahnhöfen
-
-
-
+ 
+ 
+ 
 x
 x
 Kultur-/Sakralbauten
 -- Kultur- oder Sakralbereiche, Kirchenräume
-
-
-
+ 
+ 
+ 
 x
 x
 -- Individuell gestaltete Ausstellungs-, Museums- oder Theaterbereiche
-
-
-
+ 
+ 
+ 
 x
 x
 -- Konzert- oder Theatersäle, Studioräume für Rundfunk, Fernsehen oder Theater
-
-
-
-
+ 
+ 
+ 
+ 
 x
 
 Anlage 11 - (zu § 39 Absatz 4, § 40 Absatz 5)Grundleistungen im Leistungsbild Freianlagen, Besondere Leistungen, Objektliste
@@ -5322,7 +5322,7 @@ LPH 7 Mitwirkung bei der Vergabe
 - f) :: Kostenkontrolle durch Vergleichen der Ausschreibungsergebnisse mit den vom Planer bepreisten Leistungsverzeichnissen und der Kostenberechnung
 - g) :: Mitwirken bei der Auftragserteilung
 
-
+ 
 
 LPH 8 Objektüberwachung (Bauüberwachung) und Dokumentation
 
@@ -5351,7 +5351,7 @@ LPH 8 Objektüberwachung (Bauüberwachung) und Dokumentation
 
 LPH 9 Objektbetreuung
 
-
+ 
 
 - a) :: Fachliche Bewertung der innerhalb der Verjährungsfristen für Gewährleistungsansprüche festgestellten Mängel, längstens jedoch bis zum Ablauf von 5 Jahren seit Abnahme der Leistung, einschließlich notwendiger Begehungen
 - b) :: Objektbegehung zur Mängelfeststellung vor Ablauf der Verjährungsfristen für Mängelansprüche gegenüber den ausführenden Unternehmen
@@ -5373,252 +5373,252 @@ V
 In der freien Landschaft
 -- einfache Geländegestaltung
 x
-
-
-
-
+ 
+ 
+ 
+ 
 -- Einsaaten in der freien Landschaft
 x
-
-
-
-
+ 
+ 
+ 
+ 
 -- Pflanzungen in der freien Landschaft oder Windschutzpflanzungen, mit sehr geringen oder geringen Anforderungen
 x
 x
-
-
-
+ 
+ 
+ 
 -- Pflanzungen in der freien Landschaft mit natur- und artenschutzrechtlichen\\
 Anforderungen (Kompensationserfordernissen)
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Flächen für den Arten- und Biotopschutz mit differenzierten Gestaltungsansprüchen oder mit Biotopverbundfunktion
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Naturnahe Gewässer- und Ufergestaltung
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Geländegestaltungen und Pflanzungen für Deponien, Halden und Entnahmestellen mit geringen oder durchschnittlichen Anforderungen
-
+ 
 x
 x
-
-
+ 
+ 
 -- Freiflächen mit einfachem Ausbau bei kleineren Siedlungen, bei Einzelbauwerken und bei landwirtschaftlichen Aussiedlungen
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Begleitgrün zu Objekten, Bauwerken und Anlagen mit geringen oder\\
 durchschnittlichen Anforderungen
-
+ 
 x
 x
-
-
+ 
+ 
 In Stadt- und Ortslagen
 -- Grünverbindungen ohne besondere Ausstattung
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- innerörtliche Grünzüge, Grünverbindungen mit besonderer Ausstattung
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Freizeitparks und Parkanlagen
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Geländegestaltung ohne oder mit Abstützungen
-
-
+ 
+ 
 x
 x
-
+ 
 -- Begleitgrün zu Objekten, Bauwerken und Anlagen sowie an Ortsrändern
-
+ 
 x
 x
-
-
+ 
+ 
 -- Schulgärten und naturkundliche Lehrpfade und -gebiete
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Hausgärten und Gartenhöfe mit Repräsentationsansprüchen
-
-
-
+ 
+ 
+ 
 x
 x
 Gebäudebegrünung
 -- Terrassen- und Dachgärten
-
-
-
-
+ 
+ 
+ 
+ 
 x
 -- Bauwerksbegrünung vertikal und horizontal mit hohen oder sehr hohen Anforderungen
-
-
-
+ 
+ 
+ 
 x
 x
 -- Innenbegrünung mit hohen oder sehr hohen Anforderungen
-
-
-
+ 
+ 
+ 
 x
 x
 -- Innenhöfe mit hohen oder sehr hohen Anforderungen
-
-
-
+ 
+ 
+ 
 x
 x
 Spiel- und Sportanlagen
 -- Ski- und Rodelhänge ohne oder mit technischer Ausstattung
 x
 x
-
-
-
+ 
+ 
+ 
 -- Spielwiesen
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Ballspielplätze, Bolzplätze, mit geringen oder durchschnittlichen Anforderungen
-
+ 
 x
 x
-
-
+ 
+ 
 -- Sportanlagen in der Landschaft, Parcours, Wettkampfstrecken
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Kombinationsspielfelder, Sport-, Tennisplätze und Sportanlagen mit Tennenbelag\\
 oder Kunststoff- oder Kunstrasenbelag
-
-
+ 
+ 
 x
 x
-
+ 
 -- Spielplätze
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Sportanlagen Typ A bis C oder Sportstadien
-
-
-
+ 
+ 
+ 
 x
 x
 -- Golfplätze mit besonderen natur- und artenschutzrechtlichen Anforderungen oder\\
 in stark reliefiertem Geländeumfeld
-
-
-
+ 
+ 
+ 
 x
 x
 -- Freibäder mit besonderen Anforderungen, Schwimmteiche
-
-
-
+ 
+ 
+ 
 x
 x
 -- Schul- und Pausenhöfe mit Spiel- und Bewegungsangebot
-
-
-
+ 
+ 
+ 
 x
-
+ 
 Sonderanlagen
 -- Freilichtbühnen
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Zelt- oder Camping- oder Badeplätze, mit durchschnittlicher oder hoher Ausstattung oder Kleingartenanlagen
-
-
+ 
+ 
 x
 x
-
+ 
 Objekte
 -- Friedhöfe, Ehrenmale, Gedenkstätten, mit hoher oder sehr hoher Ausstattung
-
-
-
+ 
+ 
+ 
 x
 x
 -- Zoologische und botanische Gärten
-
-
-
-
+ 
+ 
+ 
+ 
 x
 -- Lärmschutzeinrichtungen
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Garten- und Hallenschauen
-
-
-
-
+ 
+ 
+ 
+ 
 x
 -- Freiflächen im Zusammenhang mit historischen Anlagen, historische Park- und Gartenanlagen, Gartendenkmale
-
-
-
-
+ 
+ 
+ 
+ 
 x
 Sonstige Freianlagen
 -- Freiflächen mit Bauwerksbezug, mit durchschnittlichen topographischen Verhältnissen oder durchschnittlicher Ausstattung
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Freiflächen mit Bauwerksbezug, mit schwierigen oder besonders schwierigen topographischen Verhältnissen oder hoher oder sehr hoher Ausstattung
-
-
-
+ 
+ 
+ 
 x
 x
 -- Fußgängerbereiche und Stadtplätze mit hoher oder sehr hoher Ausstattungsintensität
-
-
-
+ 
+ 
+ 
 x
 x
 
@@ -5693,7 +5693,7 @@ LPH 4 Genehmigungsplanung
 
 - -- :: Mitwirken bei der Beschaffung der Zustimmung von Betroffenen
 
-
+ 
 
 LPH 5 Ausführungsplanung
 
@@ -5708,7 +5708,7 @@ LPH 5 Ausführungsplanung
 - -- :: Aufstellen von Ablauf- und Netzplänen
 - -- :: Planen von Anlagen der Verfahrens- und Prozesstechnik für Ingenieurbauwerke gemäß § 41 Nummer 1 bis 3 und 5, die dem Auftragnehmer übertragen werden, der auch die Grundleistungen für die jeweiligen Ingenieurbauwerke erbringt
 
- 
+  
 
 LPH 6 Vorbereiten der Vergabe
 
@@ -5788,103 +5788,103 @@ IV
 V
 -- Zisternen
 x
-
-
-
-
+ 
+ 
+ 
+ 
 -- einfache Anlagen zur Gewinnung und Förderung von Wasser, zum Beispiel\\
 Quellfassungen, Schachtbrunnen
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Tiefbrunnen
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Brunnengalerien und Horizontalbrunnen
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Leitungen für Wasser ohne Zwangspunkte
 x
-
-
-
-
+ 
+ 
+ 
+ 
 -- Leitungen für Wasser mit geringen Verknüpfungen und wenigen Zwangspunkten
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Leitungen für Wasser mit zahlreichen Verknüpfungen und mehreren Zwangspunkten
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Einfache Leitungsnetze für Wasser
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Leitungsnetze mit mehreren Verknüpfungen und zahlreichen Zwangspunkten und\\
 mit einer Druckzone
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Leitungsnetze für Wasser mit zahlreichen Verknüpfungen und zahlreichen\\
 Zwangspunkten
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- einfache Anlagen zur Speicherung von Wasser, zum Beispiel Behälter in\\
 Fertigbauweise, Feuerlöschbecken
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Speicherbehälter
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Speicherbehälter in Turmbaumweise
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- einfache Wasseraufbereitungsanlagen und Anlagen mit mechanischen Verfahren, Pumpwerke und Druckerhöhungsanlagen
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Wasseraufbereitungsanlagen mit physikalischen und chemischen Verfahren, schwierige Pumpwerke und Druckerhöhungsanlagen
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Bauwerke und Anlagen mehrstufiger oder kombinierter Verfahren der Wasseraufbereitung
-
-
-
-
+ 
+ 
+ 
+ 
 x
 Gruppe 2 -- Bauwerke und Anlagen der Abwasserentsorgung\\
 mit Ausnahme Entwässerungsanlagen, die der Zweckbestimmung der Verkehrsanlagen dienen, und Regenwasserversickerung (Abgrenzung zu Freianlagen)
@@ -5896,111 +5896,111 @@ IV
 V
 -- Leitungen für Abwasser ohne Zwangspunkte
 x
-
-
-
-
+ 
+ 
+ 
+ 
 -- Leitungen für Abwasser mit geringen Verknüpfungen und wenigen Zwangspunkten
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Leitungen für Abwasser mit zahlreichen Verknüpfungen und zahlreichen\\
 Zwangspunkten
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- einfache Leitungsnetze für Abwasser
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Leitungsnetze für Abwasser mit mehreren Verknüpfungen und mehreren\\
 Zwangspunkten
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Leitungsnetze für Abwasser mit zahlreichen Zwangspunkten
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Erdbecken als Regenrückhaltebecken
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Regenbecken und Kanalstauräume\\
 mit geringen Verknüpfungen und wenigen Zwangspunkten
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Regenbecken und Kanalstauräume\\
 mit zahlreichen Verknüpfungen und zahlreichen Zwangspunkten, kombinierte Regenwasserbewirtschaftungsanlagen
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Schlammabsetzanlagen, Schlammpolder
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Schlammabsetzanlagen mit mechanischen Einrichtungen
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Schlammbehandlungsanlagen
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Bauwerke und Anlagen für mehrstufige oder kombinierte Verfahren der\\
 Schlammbehandlung
-
-
-
-
+ 
+ 
+ 
+ 
 x
 -- Industriell systematisierte Abwasserbehandlungsanlagen, einfache Pumpwerke\\
 und Hebeanlagen
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Abwasserbehandlungsanlagen mit gemeinsamer aerober Stabilisierung, Pumpwerke und Hebeanlagen
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Abwasserbehandlungsanlagen, schwierige Pumpwerke und Hebeanlagen
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Schwierige Abwasserbehandlungsanlagen
-
-
-
-
+ 
+ 
+ 
+ 
 x
 Gruppe 3 -- Bauwerke und Anlagen des Wasserbaus\\
 ausgenommen Freianlagen nach § 39 Absatz 1
@@ -6011,324 +6011,324 @@ III
 IV
 V
 -- Berieselung und rohrlose Dränung, flächenhafter Erdbau mit unterschiedlichen Schütthöhen oder Materialien
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Beregnung und Rohrdränung
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Beregnung und Rohrdränung bei ungleichmäßigen Boden- und schwierigen\\
 Geländeverhältnissen
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Einzelgewässer mit gleichförmigem ungegliedertem Querschnitt ohne Zwangspunkte, ausgenommen Einzelgewässer mit überwiegend ökologischen und landschaftsgestalterischen Elementen
 x
-
-
-
-
+ 
+ 
+ 
+ 
 -- Einzelgewässer mit gleichförmigem gegliedertem Querschnitt und einigen\\
 Zwangspunkten
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Einzelgewässer mit ungleichförmigem ungegliedertem Querschnitt und einigen Zwangspunkten, Gewässersysteme mit einigen Zwangspunkten
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Einzelgewässer mit ungleichförmigem gegliedertem Querschnitt und vielen Zwangspunkten, Gewässersysteme mit vielen Zwangspunkten, besonders\\
 schwieriger Gewässerausbau mit sehr hohen technischen Anforderungen und ökologischen Ausgleichsmaßnahmen
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Teiche bis 3 m Dammhöhe über Sohle ohne Hochwasserentlastung ausgenommen Teiche ohne Dämme
 x
-
-
-
-
+ 
+ 
+ 
+ 
 -- Teiche mit mehr als 3 m Dammhöhe über Sohle ohne Hochwasserentlastung,\\
 Teiche bis 3 m Dammhöhe über Sohle mit Hochwasserentlastung
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Hochwasserrückhaltebecken und Talsperren bis 5 m Dammhöhe über Sohle\\
 oder bis 100 000 m³ Speicherraum
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Hochwasserrückhaltebecken und Talsperren mit mehr als 100 000 m³ und\\
 weniger als 5 000 000 m³ Speicherraum
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Hochwasserrückhaltebecken und Talsperren mit mehr als 5 000 000 m³\\
 Speicherraum
-
-
-
-
+ 
+ 
+ 
+ 
 x
 -- Deich und Dammbauten
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- schwierige Deich- und Dammbauten
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- besonders schwierige Deich- und Dammbauten
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- einfache Pumpanlagen, Pumpwerke und Schöpfwerke
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Pump- und Schöpfwerke, Siele
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- schwierige Pump- und Schöpfwerke
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Einfache Durchlässe
 x
-
-
-
-
+ 
+ 
+ 
+ 
 -- Durchlässe und Düker
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- schwierige Durchlässe und Düker
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Besonders schwierige Durchlässe und Düker
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- einfache feste Wehre
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- feste Wehre
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- einfache bewegliche Wehre
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- bewegliche Wehre
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- einfache Sperrwerke und Sperrtore
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Sperrwerke
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Kleinwasserkraftanlagen
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Wasserkraftanlagen
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Schwierige Wasserkraftanlagen, zum Beispiel Pumpspeicherwerke oder\\
 Kavernenkraftwerke
-
-
-
-
+ 
+ 
+ 
+ 
 x
 -- Fangedämme, Hochwasserwände
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Fangedämme, Hochwasserschutzwände in schwieriger Bauweise
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- eingeschwommene Senkkästen, schwierige Fangedämme, Wellenbrecher
-
-
-
-
+ 
+ 
+ 
+ 
 x
 -- Bootsanlegestellen mit Dalben, Leitwänden, Festmacher- und Fenderanlagen an stehenden Gewässern
 x
-
-
-
-
+ 
+ 
+ 
+ 
 -- Bootsanlegestellen mit Dalben, Leitwänden, Festmacher- und Fenderanlagen an fließenden Gewässern, einfache Schiffslösch- und -ladestellen, einfache Kaimauern und Piers
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Schiffslösch- und -ladestellen, Häfen, jeweils mit Dalben, Leitwänden, Festmacher- und Fenderanlagen mit hohen Belastungen, Kaimauern und Piers
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Schiffsanlege-, -lösch- und -ladestellen bei Tide oder Hochwasserbeeinflussung, Häfen bei Tide- und Hochwasserbeeinflussung, schwierige Kaimauern und Piers
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Schwierige schwimmende Schiffsanleger, bewegliche Verladebrücken
-
-
-
-
+ 
+ 
+ 
+ 
 x
 -- Einfache Uferbefestigungen
 x
-
-
-
-
+ 
+ 
+ 
+ 
 -- Uferwände und -mauern
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Schwierige Uferwände und -mauern, Ufer- und Sohlensicherung an Wasserstraßen
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Schifffahrtskanäle mit Dalben, Leitwänden, bei einfachen Bedingungen
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Schifffahrtskanäle mit Dalben, Leitwänden, bei schwierigen Bedingungen in Dammstrecken, mit Kreuzungsbauwerken
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Kanalbrücken
-
-
-
-
+ 
+ 
+ 
+ 
 x
 -- einfache Schiffsschleusen, Bootsschleusen
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Schiffsschleusen bei geringen Hubhöhen
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Schiffsschleusen bei großen Hubhöhen und Sparschleusen
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Schiffshebewerke
-
-
-
-
+ 
+ 
+ 
+ 
 x
 -- Werftanlagen, einfache Docks
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- schwierige Docks
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Schwimmdocks
-
-
-
-
+ 
+ 
+ 
+ 
 x
 Gruppe 4 -- Bauwerke und Anlagen für Ver- und Entsorgung\\
 mit Gasen, Energieträgern, Feststoffen einschließlich wassergefährdenden Flüssigkeiten, ausgenommen Anlagen nach § 53 Absatz 2
@@ -6341,79 +6341,79 @@ V
 -- Transportleitungen für Fernwärme, wassergefährdende Flüssigkeiten und Gase\\
 ohne Zwangspunkte
 x
-
-
-
-
+ 
+ 
+ 
+ 
 -- Transportleitungen für Fernwärme, wassergefährdende Flüssigkeiten und Gase\\
 mit geringen Verknüpfungen und wenigen Zwangspunkten
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Transportleitungen für Fernwärme, wassergefährdende Flüssigkeiten und Gase\\
 mit zahlreichen Verknüpfungen oder zahlreichen Zwangspunkten
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Transportleitungen für Fernwärme, wassergefährdende Flüssigkeiten und Gase\\
 mit zahlreichen Verknüpfungen und zahlreichen Zwangspunkten
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Industriell vorgefertigte einstufige Leichtflüssigkeitsabscheider
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Einstufige Leichtflüssigkeitsabscheider
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- mehrstufige Leichtflüssigkeitsabscheider
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Leerrohrnetze mit wenigen Verknüpfungen
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Leerrohrnetze mit zahlreichen Verknüpfungen
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Handelsübliche Fertigbehälter für Tankanlagen
 x
-
-
-
-
+ 
+ 
+ 
+ 
 -- Pumpzentralen für Tankanlagen in Ortbetonbauweise
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Anlagen zur Lagerung wassergefährdender Flüssigkeiten in einfachen Fällen
-
-
+ 
+ 
 x
-
-
+ 
+ 
 Gruppe 5 -- Bauwerke und Anlagen der Abfallentsorgung
 Honorarzone
 I
@@ -6424,155 +6424,155 @@ V
 -- Zwischenlager, Sammelstellen und Umladestationen offener Bauart für Abfälle\\
 oder Wertstoffe ohne Zusatzeinrichtungen
 x
-
-
-
-
+ 
+ 
+ 
+ 
 -- Zwischenlager, Sammelstellen und Umladestationen offener Bauart für Abfälle\\
 oder Wertstoffe mit einfachen Zusatzeinrichtungen
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Zwischenlager, Sammelstellen und Umladestationen offener Bauart für Abfälle\\
 oder Wertstoffe, mit schwierigen Zusatzeinrichtungen
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Einfache, einstufige Aufbereitungsanlagen für Wertstoffe
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Aufbereitungsanlagen für Wertstoffe
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Mehrstufige Aufbereitungsanlagen für Wertstoffe
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Einfache Bauschuttaufbereitungsanlagen
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Bauschuttaufbereitungsanlagen
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Bauschuttdeponien ohne besondere Einrichtungen
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Bauschuttdeponien
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Pflanzenabfall-Kompostierungsanlagen ohne besondere Einrichtungen
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Biomüll-Kompostierungsanlagen, Pflanzenabfall-Kompostierungsanlagen
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Kompostwerke
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Hausmüll- und Monodeponien
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Hausmülldeponien und Monodeponien mit schwierigen technischen Anforderungen
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Anlagen zur Konditionierung von Sonderabfällen
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Verbrennungsanlagen, Pyrolyseanlagen
-
-
-
-
+ 
+ 
+ 
+ 
 x
 -- Sonderabfalldeponien
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Anlagen für Untertagedeponien
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Behälterdeponien
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Abdichtung von Altablagerungen und kontaminierten Standorten
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Abdichtung von Altablagerungen und kontaminierten Standorten mit schwierigen technischen Anforderungen
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Anlagen zur Behandlung kontaminierter Böden einschließlich Bodenluft
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- einfache Grundwasserdekontaminierungsanlagen
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- komplexe Grundwasserdekontaminierungsanlagen
-
-
-
-
+ 
+ 
+ 
+ 
 x
 Gruppe 6 -- konstruktive Ingenieurbauwerke für Verkehrsanlagen
 Honorarzone
@@ -6583,99 +6583,99 @@ IV
 V
 -- Lärmschutzwälle ausgenommen Lärmschutzwälle als Mittel der Geländegestaltung
 x
-
-
-
-
+ 
+ 
+ 
+ 
 -- Einfache Lärmschutzanlagen
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Lärmschutzanlagen
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Lärmschutzanlagen in schwieriger städtebaulicher Situation
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Gerade Einfeldbrücken einfacher Bauart
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Einfeldbrücken
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Einfache Mehrfeld- und Bogenbrücken
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Schwierige Einfeld-, Mehrfeld- und Bogenbrücken
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Schwierige, längs vorgespannte Stahlverbundkonstruktionen
-
-
-
-
+ 
+ 
+ 
+ 
 x
 -- Besonders schwierige Brücken
-
-
-
-
+ 
+ 
+ 
+ 
 x
 -- Tunnel- und Trogbauwerke
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Schwierige Tunnel- und Trogbauwerke
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Besonders schwierige Tunnel- und Trogbauwerke
-
-
-
-
+ 
+ 
+ 
+ 
 x
 -- Untergrundbahnhöfe
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- schwierige Untergrundbahnhöfe
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- besonders schwierige Untergrundbahnhöfe und Kreuzungsbahnhöfe
-
-
-
-
+ 
+ 
+ 
+ 
 x
 Gruppe 7 -- sonstige Einzelbauwerke\\
 sonstige Einzelbauwerke ausgenommen Gebäude und Freileitungs- und Oberleitungsmaste
@@ -6686,201 +6686,201 @@ III
 IV
 V
 -- Einfache Schornsteine
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Schornsteine
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Schwierige Schornsteine
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Besonders schwierige Schornsteine
-
-
-
-
+ 
+ 
+ 
+ 
 x
 -- Einfache Masten und Türme ohne Aufbauten
 x
-
-
-
-
+ 
+ 
+ 
+ 
 -- Masten und Türme ohne Aufbauten
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Masten und Türme mit Aufbauten
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Masten und Türme mit Aufbauten und Betriebsgeschoss
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Masten und Türme mit Aufbauten, Betriebsgeschoss und Publikumseinrichtungen
-
-
-
-
+ 
+ 
+ 
+ 
 x
 -- Einfache Kühltürme
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Kühltürme
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Schwierige Kühltürme
-
-
-
-
+ 
+ 
+ 
+ 
 x
 -- Versorgungsbauwerke und Schutzrohre in sehr einfachen Fällen ohne Zwangspunkte
 x
-
-
-
-
+ 
+ 
+ 
+ 
 -- Versorgungsbauwerke und Schutzrohre mit zugehörigen Schächten für\\
 Versorgungssysteme mit wenigen Zwangspunkten
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Versorgungsbauwerke mit zugehörigen Schächten für Versorgungssysteme unter beengten Verhältnissen
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Versorgungsbauwerke mit zugehörigen Schächten in schwierigen Fällen für\\
 mehrere Medien
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Flach gegründete, einzeln stehende Silos ohne Anbauten
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Einzeln stehende Silos mit einfachen Anbauten, auch in Gruppenbauweise
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Silos mit zusammengefügten Zellenblöcken und Anbauten
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Schwierige Windkraftanlagen
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Unverankerte Stützbauwerke bei geringen Geländesprüngen ohne Verkehrs-\\
 belastung als Mittel zur Geländegestaltung und zur konstruktiven Böschungssicherung
 x
-
-
-
-
+ 
+ 
+ 
+ 
 -- Unverankerte Stützbauwerke bei hohen Geländesprüngen mit Verkehrsbelastungen mit einfachen Baugrund-, Belastungs- und Geländeverhältnissen
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Stützbauwerke mit Verankerung oder unverankerte Stützbauwerke bei\\
 schwierigen Baugrund-, Belastungs- oder Geländeverhältnissen
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Stützbauwerke mit Verankerung und schwierigen Baugrund-, Belastungs- oder Geländeverhältnissen
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Stützbauwerke mit Verankerung und ungewöhnlich schwierigen Randbedingungen
-
-
-
-
+ 
+ 
+ 
+ 
 x
 -- Schlitz- und Bohrpfahlwände, Trägerbohlwände
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Einfache Traggerüste und andere einfache Gerüste
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Traggerüste und andere Gerüste
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Sehr schwierige Gerüste und sehr hohe oder weit gespannte Traggerüste,\\
 verschiebliche (Trag-)Gerüste
-
-
-
-
+ 
+ 
+ 
+ 
 x
 -- eigenständige Tiefgaragen, einfache Schacht- und Kavernenbauwerke, einfache Stollenbauten
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- schwierige eigenständige Tiefgaragen, schwierige Schacht- und Kavernenbauwerke, schwierige Stollenbauwerke
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Besonders schwierige Schacht- und Kavernenbauwerke
-
-
-
-
+ 
+ 
+ 
+ 
 x
 Tabelle Zeile 3 Spalte 2 Kursivdruck: Müsste richtig "der Maßnahme" lauten
 
@@ -7054,227 +7054,227 @@ V
 a) Anlagen des Straßenverkehrs
 Außerörtliche Straßen
 -- ohne besondere Zwangspunkte oder im wenig bewegten Gelände
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- mit besonderen Zwangspunkten oder in bewegtem Gelände
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- mit vielen besonderen Zwangspunkten oder in stark bewegtem Gelände
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- im Gebirge
-
-
-
-
+ 
+ 
+ 
+ 
 x
 Innerörtliche Straßen und Plätze
 -- Anlieger- und Sammelstraßen
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- sonstige innerörtliche Straßen mit normalen verkehrstechnischen Anforderungen oder normaler städtebaulicher Situation (durchschnittliche Anzahl Verknüpfungen\\
 mit der Umgebung)
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- sonstige innerörtliche Straßen mit hohen verkehrstechnischen Anforderungen\\
 oder schwieriger städtebaulicher Situation (hohe Anzahl Verknüpfungen mit der Umgebung)
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- sonstige innerörtliche Straßen mit sehr hohen verkehrstechnischen Anforderungen oder sehr schwieriger städtebaulicher Situation (sehr hohe Anzahl Verknüpfungen\\
 mit der Umgebung)
-
-
-
-
+ 
+ 
+ 
+ 
 x
 Wege
 -- im ebenen Gelände mit einfachen Entwässerungsverhältnissen
 x
-
-
-
-
+ 
+ 
+ 
+ 
 -- im bewegten Gelände mit einfachen Baugrund- und Entwässerungsverhältnissen
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- im bewegten Gelände mit schwierigen Baugrund- und Entwässerungsverhältnissen
-
-
+ 
+ 
 x
-
-
+ 
+ 
 Plätze, Verkehrsflächen
 -- einfache Verkehrsflächen, Plätze außerorts
 x
-
-
-
-
+ 
+ 
+ 
+ 
 -- innerörtliche Parkplätze
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- verkehrsberuhigte Bereiche mit normalen städtebaulichen Anforderungen
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- verkehrsberuhigte Bereiche mit hohen städtebaulichen Anforderungen
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Flächen für Güterumschlag Straße zu Straße
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Flächen für Güterumschlag im kombinierten Ladeverkehr
-
-
-
+ 
+ 
+ 
 x
-
+ 
 Tankstellen, Rastanlagen
 -- mit normalen verkehrstechnischen Anforderungen
 x
-
-
-
-
+ 
+ 
+ 
+ 
 -- mit hohen verkehrstechnischen Anforderungen
-
-
+ 
+ 
 x
-
-
+ 
+ 
 Knotenpunkte
 -- einfach höhengleich
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- schwierig höhengleich
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- sehr schwierig höhengleich
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- einfach höhenungleich
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- schwierig höhenungleich
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- sehr schwierig höhenungleich
-
-
-
-
+ 
+ 
+ 
+ 
 x
 b) Anlagen des Schienenverkehrs
 Gleis und Bahnsteiganlagen der freien Strecke
 -- ohne Weichen und Kreuzungen
 x
-
-
-
-
+ 
+ 
+ 
+ 
 -- ohne besondere Zwangspunkte oder in wenig bewegtem Gelände
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- mit besonderen Zwangspunkten oder in bewegtem Gelände
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- mit vielen Zwangspunkten oder in stark bewegtem Gelände
-
-
-
+ 
+ 
+ 
 x
-
+ 
 Gleis- und Bahnsteiganlagen der Bahnhöfe
 -- mit einfachen Spurplänen
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- mit schwierigen Spurplänen
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- mit sehr schwierigen Spurplänen
-
-
-
+ 
+ 
+ 
 x
-
+ 
 c) Anlagen des Flugverkehrs
 -- einfache Verkehrsflächen für Landeplätze, Segelfluggelände
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- schwierige Verkehrsflächen für Landeplätze, einfache Verkehrsflächen für Flughäfen
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- schwierige Verkehrsflächen für Flughäfen
-
-
-
+ 
+ 
+ 
 x
-
+ 
 
 Anlage 14 - (zu § 51 Absatz 5, § 52 Absatz 2)Grundleistungen im Leistungsbild Tragwerksplanung, Besondere Leistungen, Objektliste
 
@@ -7291,7 +7291,7 @@ LPH 1 Grundlagenermittlung
 - b) :: Zusammenstellen der die Aufgabe beeinflussenden Planungsabsichten
 - c) :: Zusammenfassen, Erläutern und Dokumentieren der Ergebnisse
 
-
+ 
 
 LPH 2 Vorplanung (Projekt- u. Planungsvorbereitung)
 
@@ -7326,7 +7326,7 @@ LPH 3 Entwurfsplanung (System- u. Integrationsplanung)
 - h) :: Mitwirken beim Vergleich der Kostenberechnung mit der Kostenschätzung
 - i) :: Zusammenfassen, Erläutern und Dokumentieren der Ergebnisse
 
-
+ 
 
 LPH 4 Genehmigungsplanung
 
@@ -7371,7 +7371,7 @@ x} diese Besondere Leistung wird bei Leistungsbeschreibung mit Leistungsprogram
 
 LPH 7 Mitwirkung bei der Vergabe
 
-
+ 
 
 - -- :: Mitwirken bei der Prüfung und Wertung der Angebote Leistungsbeschreibung mit Leistungsprogramm des Objektplaners
 - -- :: Mitwirken bei der Prüfung und Wertung von Nebenangeboten
@@ -7379,7 +7379,7 @@ LPH 7 Mitwirkung bei der Vergabe
 
 LPH 8 Objektüberwachung
 
-
+ 
 
 - -- :: Ingenieurtechnische Kontrolle der Ausführung des Tragwerks auf Übereinstimmung mit den geprüften statischen Unterlagen
 - -- :: Ingenieurtechnische Kontrolle der Baubehelfe, zum Beispiel Arbeits- und Lehrgerüste, Kranbahnen, Baugrubensicherungen
@@ -7389,13 +7389,13 @@ LPH 8 Objektüberwachung
 
 LPH 9 Dokumentation und Objektbetreuung
 
-
+ 
 
 - -- :: Baubegehung zur Feststellung und Überwachung von die Standsicherheit betreffenden Einflüssen
 
 14.2 Objektliste Tragwerksplanung
 Nachstehende Tragwerke können in der Regel folgenden Honorarzonen zugeordnet werden:
-
+ 
 Honorarzone
 I
 II
@@ -7405,342 +7405,342 @@ V
 Bewertungsmerkmale zur Ermittlung der Honorarzone bei der Tragwerksplanung
 -- Tragwerke mit sehr geringem Schwierigkeitsgrad, insbesondere einfache statisch bestimmte ebene Tragwerke aus Holz, Stahl, Stein oder unbewehrtem Beton mit ruhenden Lasten, ohne Nachweis horizontaler Aussteifung
 x
-
-
-
-
+ 
+ 
+ 
+ 
 -- Tragwerke mit geringem Schwierigkeitsgrad, insbesondere statisch bestimmte ebene Tragwerke in gebräuchlichen Bauarten ohne Vorspann- und Verbundkonstruktionen, mit vorwiegend ruhenden Lasten
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Tragwerke mit durchschnittlichem Schwierigkeitsgrad, insbesondere schwierige statisch bestimmte und statisch unbestimmte ebene Tragwerke in gebräuchlichen Bauarten und ohne Gesamtstabilitätsuntersuchungen
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Tragwerke mit hohem Schwierigkeitsgrad, insbesondere statisch und konstruktiv schwierige Tragwerke in gebräuchlichen Bauarten und Tragwerke, für deren Standsicherheit- und Festigkeitsnachweis schwierig zu ermittelnde Einflüsse zu berücksichtigen sind
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Tragwerke mit sehr hohem Schwierigkeitsgrad, insbesondere statisch und konstruktiv ungewöhnlich schwierige Tragwerke
-
-
-
-
+ 
+ 
+ 
+ 
 x
 Stützwände, Verbau
 -- unverankerte Stützwände zur Abfangung von Geländesprüngen bis 2 m Höhe und konstruktive Böschungssicherungen bei einfachen Baugrund-, Belastungs- und Geländeverhältnissen
 x
-
-
-
-
+ 
+ 
+ 
+ 
 -- Sicherung von Geländesprüngen bis 4 m Höhe ohne Rückverankerungen bei einfachen Baugrund-, Belastungs- und Geländeverhältnissen wie z. B. Stützwände, Uferwände, Baugrubenverbauten
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Sicherung von Geländesprüngen ohne Rückverankerungen bei schwierigen Baugrund-, Belastungs- oder Geländeverhältnissen oder mit einfacher Rückverankerung bei einfachen Baugrund-, Belastungs- oder Geländeverhältnissen wie z. B. Stützwände, Uferwände, Baugrubenverbauten
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- schwierige, verankerte Stützwände, Baugrubenverbauten oder Uferwände
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Baugrubenverbauten mit ungewöhnlich schwierigen Randbedingungen
-
-
-
-
+ 
+ 
+ 
+ 
 x
 Gründung
 -- Flachgründungen einfacher Art
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Flachgründungen mit durchschnittlichem Schwierigkeitsgrad, ebene und räumliche Pfahlgründungen mit durchschnittlichem Schwierigkeitsgrad
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- schwierige Flachgründungen, schwierige ebene und räumliche Pfahlgründungen, besondere Gründungsverfahren, Unterfahrungen
-
-
-
+ 
+ 
+ 
 x
-
+ 
 Mauerwerk
 -- Mauerwerksbauten mit bis zur Gründung durchgehenden tragenden Wänden ohne Nachweis horizontaler Aussteifung
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Tragwerke mit Abfangung der tragenden beziehungsweise aussteifenden Wände
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Konstruktionen mit Mauerwerk nach Eignungsprüfung (Ingenieurmauerwerk)
-
-
-
+ 
+ 
+ 
 x
-
+ 
 Gewölbe
 -- einfache Gewölbe
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- schwierige Gewölbe und Gewölbereihen
-
-
-
+ 
+ 
+ 
 x
-
+ 
 Deckenkonstruktionen, Flächentragwerke
 -- Deckenkonstruktionen mit einfachem Schwierigkeitsgrad, bei vorwiegend ruhenden Flächenlasten
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- Deckenkonstruktionen mit durchschnittlichem Schwierigkeitsgrad
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- schiefwinklige Einfeldplatten
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- schiefwinklige Mehrfeldplatten
-
-
-
-
+ 
+ 
+ 
+ 
 x
 -- schiefwinklig gelagerte oder gekrümmte Träger
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- schiefwinklig gelagerte, gekrümmte Träger
-
-
-
-
+ 
+ 
+ 
+ 
 x
 -- Trägerroste und orthotrope Platten mit durchschnittlichem Schwierigkeitsgrad
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- schwierige Trägerroste und schwierige orthotrope Platten
-
-
-
-
+ 
+ 
+ 
+ 
 x
 -- Flächentragwerke (Platten, Scheiben) mit durchschnittlichem Schwierigkeitsgrad
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- schwierige Flächentragwerke (Platten, Scheiben, Faltwerke, Schalen)
-
-
-
-
+ 
+ 
+ 
+ 
 x
 -- einfache Faltwerke ohne Vorspannung
-
-
-
+ 
+ 
+ 
 x
-
+ 
 Verbund-Konstruktionen
 -- einfache Verbundkonstruktionen ohne Berücksichtigung des Einflusses von Kriechen und Schwinden
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Verbundkonstruktionen mittlerer Schwierigkeit
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Verbundkonstruktionen mit Vorspannung durch Spannglieder oder andere\\
 Maßnahmen
-
-
-
-
+ 
+ 
+ 
+ 
 x
 Rahmen- und Skelettbauten
 -- ausgesteifte Skelettbauten
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Tragwerke für schwierige Rahmen- und Skelettbauten sowie turmartige Bauten,\\
 bei denen der Nachweis der Stabilität und Aussteifung die Anwendung besonderer Berechnungsverfahren erfordert
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- einfache Rahmentragwerke ohne Vorspannkonstruktionen und ohne Gesamtstabilitätsuntersuchungen
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- Rahmentragwerke mit durchschnittlichem Schwierigkeitsgrad
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- schwierige Rahmentragwerke mit Vorspannkonstruktionen und Stabilitätsuntersuchungen
-
-
-
-
+ 
+ 
+ 
+ 
 x
 Räumliche Stabwerke
 -- räumliche Stabwerke mit durchschnittlichem Schwierigkeitsgrad
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- schwierige räumliche Stabwerke
-
-
-
-
+ 
+ 
+ 
+ 
 x
 Seilverspannte Konstruktionen
 -- einfache seilverspannte Konstruktionen
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- seilverspannte Konstruktionen mit durchschnittlichem bis sehr hohem Schwierigkeitsgrad
-
-
-
-
+ 
+ 
+ 
+ 
 x
 Konstruktionen mit Schwingungsbeanspruchung
 -- Tragwerke mit einfachen Schwingungsuntersuchungen
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- Tragwerke mit Schwingungsuntersuchungen mit durchschnittlichem bis sehr hohem Schwierigkeitsgrad
-
-
-
-
+ 
+ 
+ 
+ 
 x
 Besondere Berechnungsmethoden
 -- schwierige Tragwerke, die Schnittgrößenbestimmungen nach der Theorie II. Ordnung erfordern
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- ungewöhnlich schwierige Tragwerke, die Schnittgrößenbestimmungen nach der Theorie II. Ordnung erfordern
-
-
-
-
+ 
+ 
+ 
+ 
 x
 -- schwierige Tragwerke in neuen Bauarten
-
-
-
-
+ 
+ 
+ 
+ 
 x
 -- Tragwerke mit Standsicherheitsnachweisen, die nur unter Zuhilfenahme modellstatischer Untersuchungen oder durch Berechnungen mit finiten Elementen beurteilt werden können
-
-
-
-
+ 
+ 
+ 
+ 
 x
 -- Tragwerke, bei denen die Nachgiebigkeit der Verbindungsmittel bei der Schnittkraftermittlung zu berücksichtigen ist
-
-
-
-
+ 
+ 
+ 
+ 
 x
 Spannbeton
 -- einfache, äußerlich und innerlich statisch bestimmte und zwängungsfrei gelagerte vorgespannte Konstruktionen
-
-
+ 
+ 
 x
-
-
+ 
+ 
 -- vorgespannte Konstruktionen mit durchschnittlichem Schwierigkeitsgrad
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- vorgespannte Konstruktionen mit hohem bis sehr hohem Schwierigkeitsgrad
-
-
-
-
+ 
+ 
+ 
+ 
 x
 Trag-Gerüste
 -- einfache Traggerüste und andere einfache Gerüste für Ingenieurbauwerke
-
+ 
 x
-
-
-
+ 
+ 
+ 
 -- schwierige Traggerüste und andere schwierige Gerüste für Ingenieurbauwerke
-
-
-
+ 
+ 
+ 
 x
-
+ 
 -- sehr schwierige Traggerüste und andere sehr schwierige Gerüste für Ingenieurbauwerke, zum Beispiel weit gespannte oder hohe Traggerüste
-
-
-
-
+ 
+ 
+ 
+ 
 x
 
 Anlage 15 - (zu § 55 Absatz 3, § 56 Absatz 3)Grundleistungen im Leistungsbild Technische Ausrüstung, Besondere Leistungen, Objektliste
@@ -7813,7 +7813,7 @@ LPH 4 Genehmigungsplanung
 - a) :: Erarbeiten und Zusammenstellen der Vorlagen und Nachweise für öffentlich-rechtliche Genehmigungen oder Zustimmungen einschließlich der Anträge auf Ausnahmen oder Befreiungen sowie Mitwirken bei Verhandlungen mit Behörden
 - b) :: Vervollständigen und Anpassen der Planungsunterlagen, Beschreibungen und Berechnungen
 
-
+ 
 
 LPH 5 Ausführungsplanung
 
@@ -7897,7 +7897,7 @@ LPH 9 Objektbetreuung
 - -- :: Vergleich mit den Bedarfswerten aus der Planung, Vorschläge für die Betriebsoptimierung und zur Senkung des Medien- und Energieverbrauches
 
 Anlage 15.2 Objektliste
-
+ 
 Honorarzone
 I
 II
@@ -7905,276 +7905,276 @@ III
 Anlagengruppe 1 Abwasser-, Wasser- oder Gasanlagen
 -- Anlagen mit kurzen einfachen Netzen
 x
-
-
+ 
+ 
 -- Abwasser-, Wasser-, Gas- oder sanitärtechnische Anlagen mit verzweigten Netzen, Trinkwasserzirkulationsanlagen, Hebeanlagen, Druckerhöhungsanlagen
-
+ 
 x
-
+ 
 -- Anlagen zur Reinigung, Entgiftung oder Neutralisation von Abwasser, Anlagen zur biologischen, chemischen oder physikalischen Behandlung von Wasser, Anlagen mit besonderen hygienischen Anforderungen oder neuen Techniken (zum Beispiel Kliniken, Alten- oder Pflegeeinrichtungen)\\
 -- Gasdruckreglerstationen, mehrstufige Leichtflüssigkeitsabscheider
-
-
+ 
+ 
 x
 Anlagengruppe 2 Wärmeversorgungsanlagen
 -- Einzelheizgeräte, Etagenheizung
 x
-
-
+ 
+ 
 -- Gebäudeheizungsanlagen, mono- oder bivalente Systeme (zum Beispiel Solaranlage zur Brauchwassererwärmung, Wärmepumpenanlagen)\\
 -- Flächenheizungen\\
 -- Hausstationen\\
 -- verzweigte Netze
-
+ 
 x
-
+ 
 -- Multivalente Systeme\\
 -- Systeme mit Kraft-Wärme-Kopplung, Dampfanlagen, Heißwasseranlagen, Deckenstrahlheizungen (zum Beispiel Sport- oder Industriehallen)
-
-
+ 
+ 
 x
 Anlagengruppe 3 Lufttechnische Anlagen
 -- Einzelabluftanlagen
 x
-
-
+ 
+ 
 -- Lüftungsanlagen mit einer thermodynamischen Luftbehandlungsfunktion (zum Beispiel Heizen), Druckbelüftung
-
+ 
 x
-
+ 
 -- Lüftungsanlagen mit mindestens zwei thermodynamischen Luftbehandlungsfunktionen\\
 (zum Beispiel Heizen oder Kühlen), Teilklimaanlagen, Klimaanlagen\\
 -- Anlagen mit besonderen Anforderungen an die Luftqualität (zum Beispiel Operationsräume)\\
 -- Kühlanlagen, Kälteerzeugungsanlagen ohne Prozesskälteanlagen\\
 -- Hausstationen für Fernkälte, Rückkühlanlagen
-
-
+ 
+ 
 x
 Anlagengruppe 4 Starkstromanlagen
 -- Niederspannungsanlagen mit bis zu zwei Verteilungsebenen ab Übergabe EVU einschließlich Beleuchtung oder Sicherheitsbeleuchtung mit Einzelbatterien\\
 -- Erdungsanlagen
 x
-
-
+ 
+ 
 -- Kompakt-Transformatorenstationen, Eigenstromerzeugungsanlagen (zum Beispiel zentrale Batterie- oder unterbrechungsfreie Stromversorgungsanlagen, Photovoltaik-Anlagen)\\
 -- Niederspannungsanlagen mit bis zu drei Verteilebenen ab Übergabe EVU einschließlich Beleuchtungsanlagen\\
 -- zentrale Sicherheitsbeleuchtungsanlagen\\
 -- Niederspannungsinstallationen einschließlich Bussystemen\\
 -- Blitzschutz- oder Erdungsanlagen, soweit nicht in HZ I oder HZ III erwähnt\\
 -- Außenbeleuchtungsanlagen
-
+ 
 x
-
+ 
 -- Hoch- oder Mittelspannungsanlagen, Transformatorenstationen, Eigenstromversorgungsanlagen mit besonderen Anforderungen (zum Beispiel Notstromaggregate, Blockheizkraftwerke, dynamische unterbrechungsfreie Stromversorgung)\\
 -- Niederspannungsanlagen mit mindestens vier Verteilebenen oder mehr als 1 000 A Nennstrom\\
 -- Beleuchtungsanlagen mit besonderen Planungsanforderungen (zum Beispiel Lichtsimulationen in aufwendigen Verfahren für Museen oder Sonderräume)
-
-
+ 
+ 
 x
 -- Blitzschutzanlagen mit besonderen Anforderungen (zum Beispiel für Kliniken, Hochhäuser, Rechenzentren)
-
-
+ 
+ 
 x
 Anlagengruppe 5 Fernmelde- oder informationstechnische Anlagen
 -- Einfache Fernmeldeinstallationen mit einzelnen Endgeräten
 x
-
-
+ 
+ 
 -- Fernmelde- oder informationstechnische Anlagen, soweit nicht in HZ I oder HZ III erwähnt
-
+ 
 x
-
+ 
 -- Fernmelde- oder informationstechnische Anlagen mit besonderen Anforderungen\\
 (zum Beispiel Konferenz- oder Dolmetscheranlagen, Beschallungsanlagen von Sonderräumen, Objektüberwachungsanlagen, aktive Netzwerkkomponenten, Fernübertragungsnetze, Fernwirkanlagen, Parkleitsysteme)
-
-
+ 
+ 
 x
 Anlagengruppe 6 Förderanlagen
 -- Einzelne Standardaufzüge, Kleingüteraufzüge, Hebebühnen
 x
-
-
+ 
+ 
 -- Aufzugsanlagen, soweit nicht in Honorarzone I oder III erwähnt, Fahrtreppen oder Fahrsteige,\\
 Krananlagen, Ladebrücken, Stetigförderanlagen
-
+ 
 x
-
+ 
 -- Aufzugsanlagen mit besonderen Anforderungen, Fassadenaufzüge, Transportanlagen mit\\
 mehr als zwei Sende- oder Empfangsstellen
-
-
+ 
+ 
 x
 Anlagengruppe 7 Nutzungsspezifische oder verfahrenstechnische Anlagen
 7.1. Nutzungsspezifische Anlagen
 -- Küchentechnische Geräte, zum Beispiel für Teeküchen
 x
-
-
+ 
+ 
 -- Küchentechnische Anlagen, zum Beispiel Küchen mittlerer Größe, Aufwärmküchen,\\
 Einrichtungen zur Speise- oder Getränkeaufbereitung, -ausgabe oder -lagerung\\
 (keine Produktionsküche) einschließlich zugehöriger Kälteanlagen
-
+ 
 x
-
+ 
 -- Küchentechnische Anlagen, zum Beispiel Großküchen, Einrichtungen für Produktionsküchen einschließlich der Ausgabe oder Lagerung sowie der zugehörigen Kälteanlagen, Gewerbekälte für Großküchen, große Kühlräume oder Kühlzellen
-
-
+ 
+ 
 x
 -- Wäscherei- oder Reinigungsgeräte, zum Beispiel für Gemeinschaftswaschküchen
 x
-
-
+ 
+ 
 -- Wäscherei- oder Reinigungsanlagen, zum Beispiel Wäschereieinrichtungen für Waschsalons
-
+ 
 x
-
+ 
 -- Wäscherei- oder Reinigungsanlagen, zum Beispiel chemische oder physikalische Einrichtungen für Großbetriebe
-
-
+ 
+ 
 x
 -- Medizin- oder labortechnische Anlagen, zum Beispiel für Einzelpraxen der Allgemeinmedizin
 x
-
-
+ 
+ 
 -- Medizin- oder labortechnische Anlagen, zum Beispiel für Gruppenpraxen der Allgemeinmedizin oder Einzelpraxen der Fachmedizin, Sanatorien, Pflegeeinrichtungen, Krankenhausabteilungen, Laboreinrichtungen für Schulen
-
+ 
 x
-
+ 
 -- Medizin- oder labortechnische Anlagen, zum Beispiel für Kliniken, Institute mit Lehr- oder Forschungsaufgaben, Laboratorien, Fertigungsbetriebe
-
-
+ 
+ 
 x
 -- Feuerlöschgeräte, zum Beispiel Handfeuerlöscher
 x
-
-
+ 
+ 
 -- Feuerlöschanlagen, zum Beispiel manuell betätigte Feuerlöschanlagen
-
+ 
 x
-
+ 
 -- Feuerlöschanlagen, zum Beispiel selbsttätig auslösende Anlagen
-
-
+ 
+ 
 x
 -- Entsorgungsanlagen, zum Beispiel Abwurfanlagen für Abfall oder Wäsche,
 x
-
-
+ 
+ 
 -- Entsorgungsanlagen, zum Beispiel zentrale Entsorgungsanlagen für Wäsche oder Abfall, zentrale Staubsauganlagen
-
-
+ 
+ 
 x
 -- Bühnentechnische Anlagen, zum Beispiel technische Anlagen für Klein- oder Mittelbühnen
-
+ 
 x
-
+ 
 -- Bühnentechnische Anlagen, zum Beispiel für Großbühnen
-
-
+ 
+ 
 x
 -- Medienversorgungsanlagen, zum Beispiel zur Erzeugung, Lagerung, Aufbereitung oder Verteilung medizinischer oder technischer Gase, Flüssigkeiten oder Vakuum
-
-
+ 
+ 
 x
 -- Badetechnische Anlagen, zum Beispiel Aufbereitungsanlagen, Wellenerzeugungsanlagen, höhenverstellbare Zwischenböden
-
-
+ 
+ 
 x
 -- Prozesswärmeanlagen, Prozesskälteanlagen, Prozessluftanlagen, zum Beispiel Vakuumanlagen, Prüfstände, Windkanäle, industrielle Ansauganlagen
-
-
+ 
+ 
 x
 -- Technische Anlagen für Tankstellen, Fahrzeugwaschanlagen
-
-
+ 
+ 
 x
 -- Lagertechnische Anlagen, zum Beispiel Regalbediengeräte (mit zugehörigen Regalanlagen), automatische Warentransportanlagen
-
-
+ 
+ 
 x
 -- Taumittelsprühanlagen oder Enteisungsanlagen
-
+ 
 x
-
+ 
 -- Stationäre Enteisungsanlagen für Großanlagen, zum Beispiel Flughäfen
-
-
+ 
+ 
 x
 7.2. Verfahrenstechnische Anlagen
 -- Einfache Technische Anlagen der Wasseraufbereitung (zum Beispiel Belüftung, Enteisenung, Entmanganung, chemische Entsäuerung, physikalische Entsäuerung)
-
+ 
 x
-
+ 
 -- Technische Anlagen der Wasseraufbereitung (zum Beispiel Membranfiltration, Flockungsfiltration, Ozonierung, Entarsenierung, Entaluminierung, Denitrifikation)
-
-
+ 
+ 
 x
 -- Einfache Technische Anlagen der Abwasserreinigung (zum Beispiel gemeinsame aerobe Stabilisierung)
-
+ 
 x
-
+ 
 -- Technische Anlagen der Abwasserreinigung (zum Beispiel für mehrstufige Abwasserbehandlungsanlagen)
-
-
+ 
+ 
 x
 -- Einfache Schlammbehandlungsanlagen (zum Beispiel Schlammabsetzanlagen mit mechanischen Einrichtungen)
-
+ 
 x
-
+ 
 -- Anlagen für mehrstufige oder kombinierte Verfahren der Schlammbehandlung
-
-
+ 
+ 
 x
 -- Einfache Technische Anlagen der Abwasserableitung
-
+ 
 x
-
+ 
 -- Technische Anlagen der Abwasserableitung
-
-
+ 
+ 
 x
 -- Einfache Technische Anlagen der Wassergewinnung, -förderung, -speicherung
-
+ 
 x
-
+ 
 -- Technische Anlagen der Wassergewinnung, -förderung, -speicherung
-
-
+ 
+ 
 x
 -- Einfache Regenwasserbehandlungsanlagen
-
+ 
 x
-
+ 
 -- Einfache Anlagen für Grundwasserdekontaminierungsanlagen
-
+ 
 x
-
+ 
 -- Komplexe Technische Anlagen für Grundwasserdekontaminierungsanlagen
-
-
+ 
+ 
 x
 -- Einfache Technische Anlagen für die Ver- und Entsorgung mit Gasen (zum Beispiel Odorieranlage)
-
+ 
 x
-
+ 
 -- Einfache Technische Anlagen für die Ver- und Entsorgung mit Feststoffen
-
+ 
 x
-
+ 
 -- Technische Anlagen für die Ver- und Entsorgung mit Feststoffen
-
-
+ 
+ 
 x
 -- Einfache Technische Anlagen der Abfallentsorgung (zum Beispiel für Kompostwerke, Anlagen zur Konditionierung von Sonderabfällen, Hausmülldeponien oder Monodeponien für Sonderabfälle, Anlagen für Untertagedeponien, Anlagen zur Behandlung kontaminierter Böden)
-
+ 
 x
-
+ 
 -- Technische Anlagen der Abfallentsorgung (zum Beispiel für Verbrennungsanlagen, Pyrolyseanlagen, mehrfunktionale Aufbereitungsanlagen für Wertstoffe)
-
-
+ 
+ 
 x
 Anlagengruppe 8 Gebäudeautomation
 -- Herstellerneutrale Gebäudeautomationssysteme oder Automationssysteme mit anlagengruppenübergreifender Systemintegration
-
-
+ 
+ 
 x

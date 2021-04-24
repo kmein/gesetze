@@ -128,7 +128,7 @@ Anlage - (zu § 6)Ausbildungsrahmenplan für die Berufsausbildung zum Fahrzeugla
 
 \\
 
-
+ 
 
 I.Berufliche Grundbildung
 
@@ -211,9 +211,9 @@ Kundenorientierung\\
 
 3*)
 
+ 
 
-
-
+ 
 
 6
 
@@ -226,9 +226,9 @@ Umgang mit Informations- und Kommunikationstechniken\\
 
 2*)
 
+ 
 
-
-
+ 
 
 7
 
@@ -247,9 +247,9 @@ Auftragsübernahme, Planung, Vorbereitung und Organisation von Arbeitsaufgaben, 
 
 6*)
 
+ 
 
-
-
+ 
 
 8
 
@@ -262,11 +262,11 @@ Einrichten von Arbeitsplätzen\\
 - d) :: Leitern und Gerüste auswählen, auf Verwendbarkeit prüfen sowie auf- und abbauen
 - e) :: Wasser- und Energieversorgung veranlassen, Sicherheitsmaßnahmen beim Umgang mit elektrischem Strom ergreifen
 
-
+ 
 
 3*)
 
-
+ 
 
 9
 
@@ -280,9 +280,9 @@ Bedienen und in Stand halten von Geräten, Werkzeugen, Maschinen und Anlagen\\
 
 4
 
+ 
 
-
-
+ 
 
 10
 
@@ -297,9 +297,9 @@ Be- und Verarbeiten von Werk-, Hilfs- und Beschichtungsstoffen sowie von Bauteil
 
 8
 
+ 
 
-
-
+ 
 
 11
 
@@ -315,9 +315,9 @@ Prüfen, Bewerten und Vorbereiten von Untergründen\\
 
 8
 
+ 
 
-
-
+ 
 
 12
 
@@ -334,9 +334,9 @@ Herstellen, Bearbeiten, Behandeln und Gestalten von Oberflächen\\
 
 16
 
+ 
 
-
-
+ 
 
 13
 
@@ -349,11 +349,11 @@ Durchführen von qualitätssichernden Maßnahmen\\
 
 2*)
 
+ 
 
+ 
 
-
-
-
+ 
 
 II. Berufliche Fachbildung
 
@@ -388,23 +388,23 @@ Kundenorientierung\\
 - b) :: Kundenwünsche in die Auftragsausführung einbeziehen und dokumentieren
 - c) :: fertiggestellte Arbeiten übergeben
 
-
+ 
 
 2*)
 
+ 
 
-
-
+ 
 
 - d) :: Kunden auf Instandsetzungsintervalle hinweisen, Instandhaltungsbedingungen erläutern
 - e) :: Kunden hinsichtlich technischer und wirtschaftlicher Durchführbarkeit von Instandsetzungen beraten
 - f) :: Auswirkungen der Kundenzufriedenheit auf das Betriebsergebnis berücksichtigen
 
+ 
 
+ 
 
-
-
-
+ 
 
 2*)
 
@@ -415,73 +415,73 @@ Umgang mit Informations- und Kommunikationstechniken\\
 
 - a) :: Informationen erfassen, aufbereiten, bewerten und anwenden
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 - b) :: Datensysteme nutzen
 
-
+ 
 
 2*)
 
+ 
 
-
-
+ 
 
 - c) :: branchenübliche Software nutzen
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 - d) :: fremdsprachliche Fachbegriffe auftragsbezogen anwenden
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 - e) :: technische und gestalterische Sachverhalte umsetzen
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 - f) :: Daten pflegen und archivieren
 
+ 
 
+ 
 
-
-
-
+ 
 
 3*)
 
 - g) :: Kommunikations- und Informationssysteme nutzen
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 3
 
@@ -498,13 +498,13 @@ Auftragsübernahme, Planung, Vorbereitung und Organisation von Arbeitsaufgaben, 
 - h) :: Messungen durchführen
 - i) :: Materialien bereitstellen
 
-
+ 
 
 3*)
 
+ 
 
-
-
+ 
 
 - k) :: Einsatz von Arbeitsmitteln unter Beachtung der Vorschriften planen und Sicherungsmaßnahmen anwenden
 - l) :: Maßnahmen zur Sicherstellung des Arbeitsablaufes ergreifen
@@ -512,11 +512,11 @@ Auftragsübernahme, Planung, Vorbereitung und Organisation von Arbeitsaufgaben, 
 - n) :: Aufgaben im Team planen und umsetzen, Ergebnisse der Zusammenarbeit auswerten
 - o) :: Sachverhalte darstellen, Gespräche situationsgerecht führen
 
+ 
 
+ 
 
-
-
-
+ 
 
 4*)
 
@@ -529,21 +529,21 @@ Einrichten von Arbeitsplätzen\\
 - b) :: Gefahrstoffe erkennen, Schutzmaßnahmen ergreifen, umweltgerechte Lagerung und Entsorgung veranlassen
 - c) :: Abfallstoffe lagern und Entsorgung veranlassen
 
-
+ 
 
 2*)
 
+ 
 
-
-
+ 
 
 - d) :: Betriebssicherheit von Arbeitshilfen prüfen und beurteilen, insbesondere von Arbeitsbühnen
 
+ 
 
+ 
 
-
-
-
+ 
 
 2
 
@@ -556,34 +556,34 @@ Bedienen und in Stand halten von Geräten, Werkzeugen, Maschinen und Anlagen\\
 - b) :: Geräte, Maschinen und Anlagen warten
 - c) :: Geräte, Maschinen und Anlagen zur Untergrunderstellung und -vorbereitung sowie zur Reinigung und Entschichtung auswählen und handhaben, insbesondere Hochdruckreiniger und Strahlgeräte
 
-
+ 
 
 2
 
+ 
 
-
-
+ 
 
 - d) :: Werkzeuge und Geräte für Unterbodenschutz und Hohlraumversiegelung auswählen und handhaben
 - e) :: Geräte und Anlagen zur Trocknung auswählen, einstellen und bedienen
 
+ 
 
-
-
+ 
 
 3
 
-
+ 
 
 - f) :: Mess- und Prüfgeräte auswählen, handhaben und in Stand halten
 - g) :: Geräte, Maschinen und Anlagen zur Herstellung und Gestaltung von Oberflächen auswählen, einrichten und handhaben
 - h) :: Maschinen und Anlagen, insbesondere mit hydraulischer und pneumatischer Steuerung, einrichten und bedienen
 
+ 
 
+ 
 
-
-
-
+ 
 
 8
 
@@ -596,21 +596,21 @@ Be- und Verarbeiten von Werk-, Hilfs- und Beschichtungsstoffen sowie von Bauteil
 - b) :: Metalle, Hölzer und Kunststoffe unter Einsatz von Maschinen formgebend be- und verarbeiten, Verbindungen herstellen und zur Beschichtung vorbereiten
 - c) :: Beschichtungsstoffe mischen und verarbeiten
 
-
+ 
 
 5
 
+ 
 
-
-
+ 
 
 - d) :: Werk-, Hilfs- und Beschichtungsstoffe nach Zusammensetzung und Verträglichkeit auswählen, zubereiten sowie be- und verarbeiten
 
+ 
 
+ 
 
-
-
-
+ 
 
 4
 
@@ -626,35 +626,35 @@ Prüfen, Bewerten und Vorbereiten von Untergründen\\
 - e) :: Beschriftungen und Folien entfernen
 - f) :: Korrosionsschutz durchführen, insbesondere für Schweißnähte, Hohlräume und Unterböden
 
-
+ 
 
 3
 
+ 
 
-
-
+ 
 
 - g) :: Metallflächen phosphatieren
 - h) :: Untergründe für die Befestigung von Bauteilen und Baugruppen prüfen und beurteilen
 - i) :: Fahrzeuge und Fahrzeugteile ausbeulen, rückformen und in Stand setzen
 
+ 
 
-
-
+ 
 
 3
 
-
+ 
 
 - k) :: Karosserie- und Fahrzeugteile laminieren
 - l) :: Untergründe für nachfolgende Beschichtungen auf Haftfestigkeit und Tragfähigkeit prüfen und beurteilen
 - m) :: Untergrundschäden bewerten und dokumentieren
 
+ 
 
+ 
 
-
-
-
+ 
 
 4
 
@@ -667,24 +667,24 @@ Herstellen, Bearbeiten, Behandeln und Gestalten von Oberflächen\\
 - b) :: Korrosionsschutz sowie Grund- und Füllmaterial aufbringen
 - c) :: Fahrzeuge, Fahrzeugaufbauten und Bauteile in unterschiedlichen Beschichtungstechniken lackieren
 
-
+ 
 
 3
 
+ 
 
-
-
+ 
 
 - d) :: Serienteile und Objekte beschichten
 - e) :: Oberflächen polieren
 
+ 
 
-
-
+ 
 
 7
 
-
+ 
 
 - f) :: Schadensdiagnosen erstellen und dokumentieren
 - g) :: Farbnuancen ermitteln und dokumentieren
@@ -692,11 +692,11 @@ Herstellen, Bearbeiten, Behandeln und Gestalten von Oberflächen\\
 - i) :: Lackierungen aufbereiten, restaurieren, pflegen und konservieren
 - k) :: Spot- und Smart-repair-Systeme auswählen und anwenden
 
+ 
 
+ 
 
-
-
-
+ 
 
 10
 
@@ -711,21 +711,21 @@ Ausführen von Demontage- und Montagearbeiten\\
 - d) :: elektrische und elektronische Bauteile, Baugruppen und Systeme aus- und einbauen und Funktionsfähigkeit überprüfen
 - e) :: mechanische, pneumatische und hydraulische Fahrzeugbauteile aus- und einbauen und auf Funktionsfähigkeit überprüfen
 
+ 
 
-
-
+ 
 
 8
 
-
+ 
 
 - f) :: Fahrzeugverglasungen aus- und einbauen
 
+ 
 
+ 
 
-
-
-
+ 
 
 2
 
@@ -737,34 +737,34 @@ Herstellen von Beschriftungen, Design- und Effektlackierungen\\
 - a) :: Schriften, Zeichen, Muster und Signets erstellen
 - b) :: Übertragungshilfen und -medien anfertigen, auf vorbereitete Untergründe einpassen und übertragen
 
-
+ 
 
 2
 
+ 
 
-
-
+ 
 
 - c) :: Oberflächen durch Muster, Materialien und werkzeugbedingte Strukturen gestalten
 - d) :: kommunikative und dekorative Gestaltung ausführen
 
+ 
 
-
-
+ 
 
 5
 
-
+ 
 
 - e) :: Oberflächeneffekte mit Beschichtungsstoffen herstellen, insbesondere Metalleffekt- und Speziallackierungen
 - f) :: Designlackierungen herstellen
 - g) :: Gestaltungsentwürfe für mobile Werbeträger erstellen und umsetzen
 
+ 
 
+ 
 
-
-
-
+ 
 
 10
 
@@ -777,22 +777,22 @@ Durchführen von qualitätssichernden Maßnahmen\\
 - b) :: zur Verbesserung der Arbeit im eigenen Arbeitsbereich beitragen
 - c) :: Arbeits- und Zwischenergebnisse kontrollieren, bewerten und dokumentieren
 
-
+ 
 
 2*)
 
+ 
 
-
-
+ 
 
 - d) :: Mess- und Prüfergebnisse dokumentieren, auswerten und zur Qualitätsverbesserung in die Arbeitsabläufe einbeziehen
 - e) :: Fahrzeuge zur Übergabe vorbereiten
 
+ 
 
+ 
 
-
-
-
+ 
 
 3*)
 

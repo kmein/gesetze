@@ -11,137 +11,137 @@ Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsges
 Inhaltsübersicht
 
 Teil 1
-
+ 
 Gemeinsame Vorschriften
-
-
+ 
+ 
 § 1
 Staatliche Anerkennung der Ausbildungsberufe
-
-
+ 
+ 
 § 2
 Ausbildungsdauer
-
-
+ 
+ 
 § 3
 Struktur und Zielsetzung der Berufsausbildung
 Teil 2
-
+ 
 Vorschriften für den Ausbildungsberuf Fachkraft für Wasserversorgungstechnik
-
-
+ 
+ 
 § 4
 Ausbildungsberufsbild
-
-
+ 
+ 
 § 5
 Ausbildungsrahmenplan
-
-
+ 
+ 
 § 6
 Ausbildungsplan
-
-
+ 
+ 
 § 7
 Berichtsheft
-
-
+ 
+ 
 § 8
 Zwischenprüfung
-
-
+ 
+ 
 § 9
 Abschlussprüfung
 Teil 3
-
+ 
 Vorschriften für den Ausbildungsberuf Fachkraft für Abwassertechnik
-
-
+ 
+ 
 § 10
 Ausbildungsberufsbild
-
-
+ 
+ 
 § 11
 Ausbildungsrahmenplan
-
-
+ 
+ 
 § 12
 Ausbildungsplan
-
-
+ 
+ 
 § 13
 Berichtsheft
-
-
+ 
+ 
 § 14
 Zwischenprüfung
-
-
+ 
+ 
 § 15
 Abschlussprüfung
 Teil 4
-
+ 
 Vorschriften für den Ausbildungsberuf Fachkraft für Kreislauf- und Abfallwirtschaft
-
-
+ 
+ 
 § 16
 Ausbildungsberufsbild
-
-
+ 
+ 
 § 17
 Ausbildungsrahmenplan
-
-
+ 
+ 
 § 18
 Ausbildungsplan
-
-
+ 
+ 
 § 19
 Berichtsheft
-
-
+ 
+ 
 § 20
 Zwischenprüfung
-
-
+ 
+ 
 § 21
 Abschlussprüfung
 Teil 5
-
+ 
 Vorschriften für den Ausbildungsberuf Fachkraft für Rohr-, Kanal- und Industrieservice
-
-
+ 
+ 
 § 22
 Ausbildungsberufsbild
-
-
+ 
+ 
 § 23
 Ausbildungsrahmenplan
-
-
+ 
+ 
 § 24
 Ausbildungsplan
-
-
+ 
+ 
 § 25
 Berichtsheft
-
-
+ 
+ 
 § 26
 Zwischenprüfung
-
-
+ 
+ 
 § 27
 Abschlussprüfung
 Teil 6
-
+ 
 Übergangs- und Schlussvorschriften
-
-
+ 
+ 
 § 28
 Übergangsregelung
-
-
+ 
+ 
 § 29
 Inkrafttreten, Außerkrafttreten
 Anlagen
@@ -644,7 +644,7 @@ Betriebswirtschaftliche Prozesse, Arbeitsorganisation\\
 
 4
 
-
+ 
 
 6
 
@@ -660,7 +660,7 @@ Information und Dokumentation, qualitätssichernde Maßnahmen\\
 
 4
 
-
+ 
 
 7
 
@@ -677,7 +677,7 @@ Umweltschutztechnik, ökologische Kreisläufe und Hygiene\\
 
 8
 
-
+ 
 
 8
 
@@ -695,7 +695,7 @@ Grundlagen der Maschinen- und Verfahrenstechnik, Mess-, Steuerungs- und Regelung
 
 19
 
-
+ 
 
 9
 
@@ -709,7 +709,7 @@ Umgang mit elektrischen Gefahren\\
 
 4
 
-
+ 
 
 10
 
@@ -727,7 +727,7 @@ Anwenden naturwissenschaftlicher Grundlagen\\
 
 10
 
-
+ 
 
 11
 
@@ -743,7 +743,7 @@ Werk-, Hilfs- und Gefahrstoffe, gefährliche Arbeitsstoffe, Werkstoffbearbeitung
 
 12
 
-
+ 
 
 12
 
@@ -758,7 +758,7 @@ Lagerhaltung, Arbeitsgeräte und Einrichtungen\\
 
 4
 
-
+ 
 
 \\
 Abschnitt 2: Berufsspezifische Fachqualifikationen gemäß § 3 Abs. 1 Nr. 2 Buchstabe a
@@ -771,7 +771,7 @@ Sicherheit von Personen und Anlagen\\
 - a) :: fachspezifische Vorschriften zur Arbeitssicherheit und zum Gesundheitsschutz einhalten
 - b) :: Maßnahmen zum Schutz der Anlagen vor Fremdeinwirkungen ergreifen
 
-
+ 
 
 2
 
@@ -785,7 +785,7 @@ Wasserwirtschaft\\
 - c) :: Möglichkeiten der Gewässernutzung unterscheiden
 - d) :: Wasserbedarf ermitteln und begründen
 
-
+ 
 
 2
 
@@ -798,7 +798,7 @@ Wassergewinnung\\
 - b) :: Maßnahmen zum Schutz von Wasservorkommen erläutern und umsetzen
 - c) :: Anlagen der Wassergewinnung bedienen und instand halten
 
-
+ 
 
 4
 
@@ -813,7 +813,7 @@ Wasserbeschaffenheit, Wasseraufbereitung\\
 - d) :: Verfahren der Wasseraufbereitung erläutern
 - e) :: Anlagen der Wasseraufbereitung bedienen und instand halten
 
-
+ 
 
 12
 
@@ -832,7 +832,7 @@ Wasserförderung, -speicherung und -verteilung\\
 - h) :: Rohrnetze betreiben und instand halten
 - i) :: Sanierungsmöglichkeiten für Rohrnetze beschreiben
 
-
+ 
 
 24
 
@@ -847,7 +847,7 @@ Wasseruntersuchung\\
 - c) :: Wasserproben nehmen, Vor-Ort-Untersuchungen durchführen
 - d) :: physikalischchemische Analysen durchführen, I auswerten und dokumentieren
 
-
+ 
 
 9
 
@@ -862,7 +862,7 @@ Messen, Steuern, Regeln\\
 - d) :: Mess-, Steuerungs- und Regelungseinrichtungen bedienen, kontrollieren und warten
 - e) :: Störungen im Prozessablauf feststellen und Maßnahmen zu deren Beseitigung ergreifen
 
-
+ 
 
 8
 
@@ -879,7 +879,7 @@ Elektrische Anlagen in der Wasserversorgung\\
 - f) :: Ersatzstromerzeuger einsetzen und bedienen
 - g) :: Batterieanlagen einsetzen, prüfen und warten
 
-
+ 
 
 16
 
@@ -892,7 +892,7 @@ Dokumentation\\
 - b) :: Materialbedarf ermitteln und Material anfordern
 - c) :: Betriebsaufzeichnungen führen und auswerten, Berichte erstellen
 
-
+ 
 
 4
 
@@ -904,7 +904,7 @@ Trinkwasserschutz und Kundenanlage\\
 - a) :: Gefährdungen der Trinkwassergüte durch Kundenanlagen feststellen und Maßnahmen einleiten
 - b) :: Bauteile, Apparate und Werkstoffe in Hausinstallationen beschreiben und beurteilten
 
-
+ 
 
 4
 
@@ -916,7 +916,7 @@ Kundenorientierung\\
 - a) :: rechtliche Beziehungen zwischen Unternehmen und Kunden beachten
 - b) :: Gespräche und Verhandlungen kundenorientiert führen, Möglichkeiten zur Kundenbindung nutzen
 
-
+ 
 
 4
 
@@ -927,7 +927,7 @@ Rechtsvorschriften und technische Regelwerke\\
 
 Rechtsvorschriften und technische Regelwerke anwenden
 
-
+ 
 
 2*)
 
@@ -1018,7 +1018,7 @@ Betriebswirtschaftliche Prozesse, Arbeitsorganisation (§ 10 Nr. 5)
 
 4
 
-
+ 
 
 6
 
@@ -1033,7 +1033,7 @@ Information und Dokumentation, qualitätssichernde Maßnahmen (§ 10 Nr. 6)
 
 4
 
-
+ 
 
 7
 
@@ -1049,7 +1049,7 @@ Umweltschutztechnik, ökologische Kreisläufe und Hygiene (§ 10 Nr. 7)
 
 8
 
-
+ 
 
 8
 
@@ -1066,7 +1066,7 @@ Grundlagen der Maschinen- und Verfahrenstechnik, Mess-, Steuerungs- und Regelung
 
 19
 
-
+ 
 
 9
 
@@ -1079,7 +1079,7 @@ Umgang mit elektrischen Gefahren (§ 10 Nr. 9)
 
 4
 
-
+ 
 
 10
 
@@ -1096,7 +1096,7 @@ Anwenden naturwissenschaftlicher Grundlagen (§ 10 Nr. 10)
 
 10
 
-
+ 
 
 11
 
@@ -1111,7 +1111,7 @@ Werk-, Hilfs- und Gefahrstoffe, gefährliche Arbeitsstoffe, Werkstoffbearbeitung
 
 12
 
-
+ 
 
 12
 
@@ -1125,7 +1125,7 @@ Lagerhaltung, Arbeitsgeräte und Einrichtungen (§ 10 Nr. 12)
 
 4
 
-
+ 
 
 \\
 Abschnitt 2: Berufsspezifische Fachqualifikationen gemäß § 3 Abs. 1 Nr. 2 Buchstabe b
@@ -1162,7 +1162,7 @@ Sicherheitsvorschriften und Betriebsanweisungen (§ 10 Nr. 13)
 - d) :: Gefährdungen durch Krankheitserreger in Abwasser und Schlamm berücksichtigten und die Regeln der Arbeitshygiene anwenden
 - e) :: Verhaltensregeln beim Arbeiten in umschlossenen Räumen einhalten
 
-
+ 
 
 2
 
@@ -1178,7 +1178,7 @@ Betrieb und Unterhalt von Entwässerungssystemen (§ 10 Nr. 14)
 - f) :: Netzinformationssysteme nutzen
 - g) :: Sicherung von Arbeitsstellen im Straßenbereich durchführen
 
-
+ 
 
 18
 
@@ -1190,7 +1190,7 @@ Indirekteinleiterüberwachung (§ 10 Nr. 15)
 - b) :: Indirekteinleitungsstellen überwachen; mobile Probenahmen und Messungen vor Ort durchführen
 - c) :: Indirekteinleiterkataster anwenden
 
-
+ 
 
 3
 
@@ -1205,7 +1205,7 @@ Betrieb und Unterhalt von Abwasserbehandlungsanlagen (§ 10 Nr. 16)
 - e) :: Störungen feststellen und Maßnahmen zu deren Beseitigung ergreifen
 - f) :: Betriebsabläufe mit Hilfe der Leittechnik überwachen, steuern und regeln
 
-
+ 
 
 20
 
@@ -1219,7 +1219,7 @@ Klärschlammbehandlung und Verwertung von Abfällen aus Abwasseranlagen (§ 10 N
 - d) :: Abfälle der Verwertung und Beseitigung zuführen
 - e) :: Störungen feststellen und Maßnahmen zu ihrer Beseitigung ergreifen
 
-
+ 
 
 6
 
@@ -1235,7 +1235,7 @@ Probenahme und Untersuchung von Abwasser und Schlamm (§ 10 Nr. 18)
 - f) :: die zur Untersuchung von Abwasser und Schlamm erforderlichen Laborgeräte nach Einsatzmöglichkeiten und Funktionsweisen unterscheiden, auswählen und handhaben
 - g) :: Online-Messgeräte einsetzen und instand halten
 
-
+ 
 
 14
 
@@ -1247,7 +1247,7 @@ Dokumentation, Qualitäts- und Umweltmanagement (§ 10 Nr. 19)
 - b) :: Arbeitsabläufe und Arbeitsergebnisse kontrollieren, dokumentieren und bewerten
 - c) :: Ergebnisse, insbesondere in Betriebstagebüchern und Datenbanken, dokumentieren und sichern
 
-
+ 
 
 2 *)
 
@@ -1263,7 +1263,7 @@ Elektrische Anlagen in der Abwassertechnik (§ 10 Nr. 20)
 - f) :: Ersatzstromerzeuger einsetzen und bedienen
 - g) :: Batterieanlagen einsetzen, prüfen und warten
 
-
+ 
 
 16
 
@@ -1273,7 +1273,7 @@ Rechtsvorschriften und technische Regelwerke (§ 10 Nr. 21)
 
 fachbezogene Rechtsvorschriften und technische Regelwerke anwenden
 
-
+ 
 
 2 *)
 
@@ -1283,7 +1283,7 @@ Vertiefungsphase Kanalbetrieb oder Kläranlagenbetrieb (§ 10 Nr. 22)
 
 Zur Fortsetzung der Berufsausbildung sollen Fertigkeiten und Kenntnisse gemäß der laufenden Nummern 14 und 15 für den Kanalbetrieb oder 16 und 17 für den Kläranlagenbetrieb unter Berücksichtigung betriebsbedingter Schwerpunkte vertieft werden.
 
-
+ 
 
 8
 
@@ -1374,7 +1374,7 @@ Betriebswirtschaftliche Prozesse, Arbeitsorganisation (§ 16 Nr. 5)
 
 4
 
-
+ 
 
 6
 
@@ -1389,7 +1389,7 @@ Information und Dokumentation, qualitätssichernde Maßnahmen (§ 16 Nr. 6)
 
 4
 
-
+ 
 
 7
 
@@ -1405,7 +1405,7 @@ Umweltschutztechnik, ökologische Kreisläufe und Hygiene (§ 16 Nr. 7)
 
 8
 
-
+ 
 
 8
 
@@ -1422,7 +1422,7 @@ Grundlagen der Maschinen- und Verfahrenstechnik, Mess-, Steuerungs- und Regelung
 
 19
 
-
+ 
 
 9
 
@@ -1435,7 +1435,7 @@ Umgang mit elektrischen Gefahren (§ 16 Nr. 9)
 
 4
 
-
+ 
 
 10
 
@@ -1452,7 +1452,7 @@ Anwenden naturwissenschaftlicher Grundlagen (§ 16 Nr. 10)
 
 10
 
-
+ 
 
 11
 
@@ -1467,7 +1467,7 @@ Werk-, Hilfs- und Gefahrstoffe, gefährliche Arbeitsstoffe, Werkstoffbearbeitung
 
 12
 
-
+ 
 
 12
 
@@ -1481,9 +1481,9 @@ Lagerhaltung, Arbeitsgeräte und Einrichtungen (§ 16 Nr. 12)
 
 4
 
+ 
 
-
-
+ 
 
 Abschnitt 2: Berufsspezifische Fachqualifikationen gemäß § 3 Abs. 1 Nr. 2 Buchstabe c
 
@@ -1493,7 +1493,7 @@ Sicherheitsvorschriften und Betriebsanweisungen (§ 16 Nr. 13)
 
 Maßnahmen zur Arbeitssicherheit und zum Arbeitsschutz bei der Sammlung, der Beförderung und der Behandlung von Abfällen, Gefahrstoffen und Sonderabfällen anwenden
 
-
+ 
 
 4
 
@@ -1506,7 +1506,7 @@ Kundenorientiertes Handeln (§ 16 Nr. 14)
 - c) :: rechtliche Beziehungen zwischen Unternehmen und Kunden beachten
 - d) :: Kundenzufriedenheitsanalyse und Lieferantenbewertungen beachten
 
-
+ 
 
 4
 
@@ -1517,7 +1517,7 @@ Kaufmännisches Handeln (§ 16 Nr. 15)
 - a) :: Prinzipien der Abfallwirtschaft sowie Wettbewerbssituation und Grundlagen der Preisgestaltung beschreiben
 - b) :: Angebot und Nachfrage erläutern
 
-
+ 
 
 4
 
@@ -1534,7 +1534,7 @@ Abfälle und Abfallannahme (§ 16 Nr. 16)
 - g) :: Materialien und Produkte zur Verwertung und Beseitigung benennen, Eigenschaften darlegen und Qualitätsanforderungen beschreiben
 - h) :: Bearbeitungskriterien und Reaktionsmöglichkeiten verschiedener Abfälle aufzeigen
 
-
+ 
 
 9
 
@@ -1547,7 +1547,7 @@ Abfallentsorgungsverfahren (§ 16 Nr. 17)
 - c) :: Anforderungen an Prozesse und Anlagentechnik beschreiben
 - d) :: Umweltbelastungen feststellen, Möglichkeiten zu ihrer Vermeidung beschreiben und Gegenmaßnahmen bei Bedarf veranlassen
 
-
+ 
 
 11
 
@@ -1560,7 +1560,7 @@ Betrieb und Instandhaltung (§ 16 Nr. 18)
 - c) :: Geräte, Apparate und Anlagen bedienen, überwachen und warten
 - d) :: Betriebsstörungen feststellen und dokumentieren, Gegenmaßnahmen einleiten
 
-
+ 
 
 8
 
@@ -1573,7 +1573,7 @@ Stoffströme, Logistik und Disposition (§ 16 Nr. 19)
 - c) :: den Einsatz von Fahrzeugen, Personal und Behältern disponieren
 - d) :: Möglichkeiten der Bereitstellung, der Beförderung, der Lagerung und der Zwischenlagerung beschreiben
 
-
+ 
 
 7
 
@@ -1589,7 +1589,7 @@ Qualitätssichernde Maßnahmen (§ 16 Nr. 20)
 - f) :: Analyseergebnisse in Verbindung mit Annahmekriterien beurteilen
 - g) :: Anforderungen der Gütekennzeichnung von Abfällen und Produkten beachten
 
-
+ 
 
 6
 
@@ -1601,7 +1601,7 @@ Informationstechnik (§ 16 Nr. 21)
 - b) :: Balken- und Kreisdiagramme, Ganglinien, Summenlinien und Tabellen für abfallwirtschaftliche Fragestellungen und Dokumentationen erstellen
 - c) :: Formularwesen des Betriebes anwenden
 
-
+ 
 
 4
 
@@ -1613,7 +1613,7 @@ Rechtsvorschriften und technische Regelwerke (§ 16 Nr. 22)
 - b) :: Nachweisverfahren anwenden
 - c) :: über Abfallwirtschaftskonzepte und -bilanzen Auskunft geben und entsprechende Daten aufbereiten
 
-
+ 
 
 4 *)
 
@@ -1657,7 +1657,7 @@ Kaufmännisches Handeln (§ 16 Nr. 15)
 - f) :: Reklamationen bearbeiten
 - g) :: Vorgänge nach gesetzlichen und betrieblichen Anforderungen dokumentieren
 
-
+ 
 
 9
 
@@ -1676,7 +1676,7 @@ Stoffströme, Logistik und Disposition (§ 16 Nr. 19)
 - i) :: Einsatzplanung durchführen und bei der Tourenoptimierung mitwirken
 - k) :: Aufwendungen für die Systeme feststellen sowie Kostenermittlungen und Leistungskontrollen durchführen
 
-
+ 
 
 19
 
@@ -1690,7 +1690,7 @@ Sicherheitsvorschriften und Betriebsanweisungen (§ 16 Nr. 13)
 - d) :: Straßenverkehrsrecht und Güterverkehrsrecht für das Sammeln und den Transport von Abfällen anwenden
 - e) :: tätigkeitsbezogene Betriebsanweisungen anwenden
 
-
+ 
 
 2
 
@@ -1710,7 +1710,7 @@ Abfallentsorgungsverfahren (§ 16 Nr. 17)
 - g) :: Stör- und Fremdstoffe im Aufbereitungs- und Verwertungsprozess beseitigen
 - h) :: Schadstoffe feststellen, Gefährdungspotentiale kennen und Entsorgungswegen zuordnen
 
-
+ 
 
 17
 
@@ -1729,7 +1729,7 @@ Betrieb und Instandhaltung (§ 16 Nr. 18)
 -   :: 
 -   :: 
 
-
+ 
 
 6
 
@@ -1744,7 +1744,7 @@ Stoffströme, Logistik und Disposition (§ 16 Nr. 19)
 - e) :: Restabfälle der Beseitigung zuführen
 - f) :: Personal-, Fahrzeug- und Gerätebereitstellung planen und dokumentieren
 
-
+ 
 
 5
 
@@ -1758,7 +1758,7 @@ Sicherheitsvorschriften und Betriebsanweisungen (§ 16 Nr. 13)
 - d) :: Maßnahmen zum Explosionsschutz durchführen
 - e) :: tätigkeitsbezogene Betriebsanweisungen anwenden
 
-
+ 
 
 2
 
@@ -1778,7 +1778,7 @@ Abfallentsorgungsverfahren (§ 16 Nr. 17)
   - dd) :: mechanischbiologische Behandlung von Abfällen
   - ee) :: Behandlung von Sonderabfällen
 
-
+ 
 
 17
 
@@ -1793,7 +1793,7 @@ Betrieb und Instandhaltung (§ 16 Nr. 18)
 - e) :: Revisionen planen und veranlassen, an Umbauten mitwirken
 - f) :: den laufenden Betrieb und die Instandhaltung dokumentieren
 
-
+ 
 
 6
 
@@ -1809,7 +1809,7 @@ Stoffströme, Logistik und Disposition (§ 16 Nr. 19)
 - f) :: Abfälle zur Beseitigung getrennt erfassen, zwischenlagern und für die Beseitigung bereitstellen
 - g) :: Personal-, Fahrzeug- und Gerätebereitstellung planen und dokumentieren
 
-
+ 
 
 5
 
@@ -1823,7 +1823,7 @@ Sicherheitsvorschriften und Betriebsanweisungen (§ 16 Nr. 13)
 - d) :: Maßnahmen zum Explosionsschutz durchführen
 - e) :: tätigkeitsbezogene Betriebsanweisungen anwenden
 
-
+ 
 
 2
 
@@ -1912,7 +1912,7 @@ Betriebswirtschaftliche Prozesse, Arbeitsorganisation (§ 22 Nr. 5)
 
 4
 
-
+ 
 
 6
 
@@ -1927,7 +1927,7 @@ Information und Dokumentation, qualitätssichernde Maßnahmen (§ 22 Nr. 6)
 
 4
 
-
+ 
 
 7
 
@@ -1943,7 +1943,7 @@ Umweltschutztechnik, ökologische Kreisläufe und Hygiene (§ 22 Nr. 7)
 
 8
 
-
+ 
 
 8
 
@@ -1960,7 +1960,7 @@ Grundlagen der Maschinen- und Verfahrenstechnik, Mess-, Steuerungs- und Regelung
 
 19
 
-
+ 
 
 9
 
@@ -1973,7 +1973,7 @@ Umgang mit elektrischen Gefahren (§ 22 Nr. 9)
 
 4
 
-
+ 
 
 10
 
@@ -1990,7 +1990,7 @@ Anwenden naturwissenschaftlicher Grundlagen (§ 22 Nr. 10)
 
 10
 
-
+ 
 
 11
 
@@ -2005,7 +2005,7 @@ Werk-, Hilfs- und Gefahrstoffe, gefährliche Arbeitsstoffe, Werkstoffbearbeitung
 
 12
 
-
+ 
 
 12
 
@@ -2019,9 +2019,9 @@ Lagerhaltung, Arbeitsgeräte und Einrichtungen (§ 22 Nr. 12)
 
 4
 
+ 
 
-
-
+ 
 
 Abschnitt 2: Berufsspezifische Fachqualifikationen gemäß § 3 Abs. 1 Nr. 2 Buchstabe d
 
@@ -2039,7 +2039,7 @@ Arbeitsvorbereitung, Sichern und Räumen des Arbeitsumfeldes (§ 22 Nr. 13)
 - h) :: Sicherheitsmaßnahmen bei Wartungs- und Unterhaltungsarbeiten ausführen
 - i) :: geräumtes Arbeitsfeld übergeben
 
-
+ 
 
 16
 
@@ -2054,7 +2054,7 @@ Atem-, Brand- und Explosionsschutz (§ 22 Nr. 14)
 - e) :: Gas- und Explosionsschutzmessgeräte einsetzen
 - f) :: Arbeitsmittel in explosionsgefährdeten Bereichen auswählen und einsetzen
 
-
+ 
 
 12
 
@@ -2068,7 +2068,7 @@ Qualitätssichernde Maßnahmen, Sicherheitstechnik und Umweltschutz (§ 22 Nr. 1
 - d) :: kundenspezifische Vorgaben zur Sicherheit, zur Qualität und zum Umweltschutz umsetzen
 - e) :: Gespräche und Verhandlungen kundenorientiert führen, Möglichkeiten zur Kundenbindung nutzen
 
-
+ 
 
 4
 
@@ -2080,7 +2080,7 @@ Entsorgung (§ 22 Nr. 16)
 - b) :: Rückstände, Gemische und reine Stoffe verpacken, aufnehmen und transportieren
 - c) :: Transporteinheiten, Verpackungen und Geräte reinigen
 
-
+ 
 
 4
 
@@ -2094,7 +2094,7 @@ Maschinen und Geräte zur Reinigung (§ 22 Nr. 17)
 - d) :: Störungen an Arbeitsgeräten feststellen, Maßnahmen zur Schadensbegrenzung und Beseitigung
 - e) :: hydrodynamische, mechanische und elektromechanische Verfahren zur Reinigung abwassertechnischer Anlagen anwenden
 
-
+ 
 
 19
 
@@ -2104,7 +2104,7 @@ Rechtsvorschriften und technische Regelwerke (§ 22 Nr. 18)
 
 fachbezogene Rechtsvorschriften und technische Regelwerke anwenden
 
-
+ 
 
 4 *)
 
@@ -2147,7 +2147,7 @@ Reinigung (§ 22 Nr. 19)
 - d) :: Mängel und Fehlanschlüsse feststellen
 - e) :: Lage von Abwasserleitungen und -kanälen bestimmen
 
-
+ 
 
 16
 
@@ -2160,7 +2160,7 @@ Wartung und Unterhalt (§ 22 Nr. 20)
 - c) :: Messsysteme unterscheiden
 - d) :: Reparaturen örtlich begrenzter Schäden durchführen und weitere Sanierungsverfahren unterscheiden
 
-
+ 
 
 16
 
@@ -2200,7 +2200,7 @@ Reinigung (§ 22 Nr. 19)
 - e) :: Oberflächen mit physikalischen Verfahren, insbesondere Hochdruckwasser- und Abrasivtechniken, behandeln
 - f) :: Anlagenteile zum Zweck der Reinigung nach Vorgaben aus- und einbauen
 
-
+ 
 
 16
 
@@ -2212,6 +2212,6 @@ Wartung und Unterhalt (§ 22 Nr. 20)
 - b) :: feste und flüssige Prozesshilfsstoffe in Anlagen austauschen
 - c) :: Anlagenteile zum Austausch von Prozesshilfsstoffen nach Vorgaben aus- und einbauen
 
-
+ 
 
 16

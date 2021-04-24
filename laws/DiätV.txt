@@ -7,45 +7,45 @@ Ausfertigungsdatum: 20.06.1963
 Inhaltsübersicht
 
 Erster Abschnitt
-§
-
+§§
+ 
 Allgemeine Vorschriften
 1 bis 4a
 Zweiter Abschnitt
-
-
+ 
+ 
 Zusatzstoffe und andere Stoffe zur Verwendung in diätetischen Lebensmitteln
 5 bis 10
 Dritter Abschnitt
-
-
+ 
+ 
 Sondervorschriften für bestimmte Lebensmittel
 11 bis 14d
 Vierter Abschnitt
-
-
+ 
+ 
 Kenntlichmachungs- und Kennzeichnungsvorschriften
-
-
+ 
+ 
 Kenntlichmachung von Zusatzstoffen
 15 bis 18
-
+ 
 Allgemeine Kennzeichnung
 19
-
+ 
 Besondere Kennzeichnungen
 21 bis 24
-
+ 
 Form der Kenntlichmachung und Kennzeichnung
 25
 Fünfter Abschnitt
-
-
+ 
+ 
 Straftaten und Ordnungswidrigkeiten
 26
 Sechster Abschnitt
-
-
+ 
+ 
 Schlussvorschriften
 27 bis 29
 23 Anlagen
@@ -100,7 +100,7 @@ Schlussvorschriften
   Lebensmittel, die für die besondere Ernährung von Säuglingen ab Einführung einer angemessenen Beikost bestimmt sind und den größten flüssigen Anteil einer nach und nach abwechslungsreicheren Kost für diese Säuglinge darstellen.
 
 (7) Zusatzstoffe im Sinne dieser Verordnung sind Stoffe im Sinne des § 2 Abs. 3 Satz 1 und 2 des Lebensmittel- und Futtermittelgesetzbuches.
-(8) Für nährwertbezogene Angabe“, gesundheitsbezogene Angabe“ und Angabe bezüglich der Reduzierung eines Krankheitsrisikos“ im Sinne dieser Verordnung gelten die Begriffsbestimmungen in Artikel 2 Abs. 2 Nr. 4, 5 und 6 jeweils in Verbindung mit Artikel 2 Abs. 2 Nr. 1 der Verordnung (EG) Nr. 1924/2006 vom 20. Dezember 2006 über nährwert- und gesundheitsbezogene Angaben über Lebensmittel (ABl. EU Nr. L 12 S. 3).
+(8) Für „nährwertbezogene Angabe“, „gesundheitsbezogene Angabe“ und „Angabe bezüglich der Reduzierung eines Krankheitsrisikos“ im Sinne dieser Verordnung gelten die Begriffsbestimmungen in Artikel 2 Abs. 2 Nr. 4, 5 und 6 jeweils in Verbindung mit Artikel 2 Abs. 2 Nr. 1 der Verordnung (EG) Nr. 1924/2006 vom 20. Dezember 2006 über nährwert- und gesundheitsbezogene Angaben über Lebensmittel (ABl. EU Nr. L 12 S. 3).
 
 § 2
 
@@ -450,7 +450,7 @@ Für Lebensmittel nach Satz 1 darf mit den dort genannten Angaben nicht geworben
 
 § 22a
 
-(1) Diätetische Lebensmittel, die als Säuglingsanfangsnahrung bestimmt sind, dürfen nur mit der Verkehrsbezeichnung Säuglingsanfangsnahrung“ in den Verkehr gebracht werden; wenn ihr Proteingehalt ausschlieSäuglingsmilchnahrung“ in den Verkehr gebracht werden. Diätetische Lebensmittel, die als Folgenahrung bestimmt sind, dürfen nur mit der Verkehrsbezeichnung Folgenahrung“ in den Verkehr gebracht werden; wenn ihr Proteingehalt ausschlieFolgemilch“ in den Verkehr gebracht werden.
+(1) Diätetische Lebensmittel, die als Säuglingsanfangsnahrung bestimmt sind, dürfen nur mit der Verkehrsbezeichnung „Säuglingsanfangsnahrung“ in den Verkehr gebracht werden; wenn ihr Proteingehalt ausschließlich aus Kuhmilchprotein oder Ziegenmilchprotein besteht, dürfen sie nur mit der Verkehrsbezeichnung „Säuglingsmilchnahrung“ in den Verkehr gebracht werden. Diätetische Lebensmittel, die als Folgenahrung bestimmt sind, dürfen nur mit der Verkehrsbezeichnung „Folgenahrung“ in den Verkehr gebracht werden; wenn ihr Proteingehalt ausschließlich aus Kuhmilchprotein oder Ziegenmilchprotein besteht, dürfen sie nur mit der Verkehrsbezeichnung „Folgemilch“ in den Verkehr gebracht werden.
 (2) Erzeugnisse nach Absatz 1 dürfen ferner nur in den Verkehr gebracht werden, wenn die Kennzeichnung
 
 - 1. :: bei Säuglingsanfangsnahrung und Folgenahrung
@@ -462,7 +462,7 @@ Für Lebensmittel nach Satz 1 darf mit den dort genannten Angaben nicht geworben
   - f) :: die Angabe der durchschnittlichen Menge aller in den Anlagen 10 und 11 aufgeführten Mineralstoffe und Vitamine und gegebenenfalls der Menge an Cholin, Inositol und Carnitin je 100 Milliliter des verzehrfertigen Erzeugnisses in Zahlen,
 - 2. :: bei Säuglingsanfangsnahrung,
   - a) :: die Angabe, dass sich das Erzeugnis für die besondere Ernährung von Säuglingen von der Geburt an eignet, wenn sie nicht gestillt werden, und
-  - b) :: ein deutlich sichtbarer und als wichtig“ bezeichneter Hinweis auf die Überlegenheit des Stillens in Verbindung mit der Empfehlung, das Erzeugnis nur auf den Rat unabhängiger Fachleute auf dem Gebiet der Medizin, der Ernährung oder der Arzneimittel bzw. anderer für Säuglings- und Kinderpflege zuständiger Personen zu verwenden,
+  - b) :: ein deutlich sichtbarer und als „wichtig“ bezeichneter Hinweis auf die Überlegenheit des Stillens in Verbindung mit der Empfehlung, das Erzeugnis nur auf den Rat unabhängiger Fachleute auf dem Gebiet der Medizin, der Ernährung oder der Arzneimittel bzw. anderer für Säuglings- und Kinderpflege zuständiger Personen zu verwenden,
 - 3. :: bei Folgenahrung
   - a) :: den warnenden Hinweis, dass sich das Erzeugnis nur für die besondere Ernährung von Säuglingen ab einem Alter von mindestens sechs Monaten eignet, nur Teil einer Mischkost sein soll und nicht als Ersatz für die Muttermilch während der ersten sechs Lebensmonate zu verwenden ist, und
   - b) :: die Angabe, dass die Entscheidung, mit der Verwendung von Beikost allgemein oder in Ausnahmefällen bereits in den ersten sechs Monaten zu beginnen, nur auf den Rat unabhängiger Fachleute auf dem Gebiet der Medizin, der Ernährung oder der Arzneimittel oder anderer für Säuglings- und Kinderpflege zuständiger Personen und unter Berücksichtigung der Wachstums- und Entwicklungsanforderungen des einzelnen Säuglings getroffen werden soll,
@@ -472,7 +472,7 @@ Für Lebensmittel nach Satz 1 darf mit den dort genannten Angaben nicht geworben
 (3) Erzeugnisse nach Absatz 1 dürfen nicht in den Verkehr gebracht werden, wenn in der Kennzeichnung
 
 - 1. :: bei Säuglingsanfangsnahrung und Folgenahrung
-  - a) :: die Begriffe humanisiert“, maternisiert“, adaptiert“ oder gleichsinnige Begriffe,
+  - a) :: die Begriffe „humanisiert“, „maternisiert“, „adaptiert“ oder gleichsinnige Begriffe,
   - b) :: Angaben, die vom Stillen abhalten,
 - 2. :: bei Säuglingsanfangsnahrung
   - a) :: Abbildungen von Säuglingen oder den Gebrauch des Erzeugnisses idealisierende sonstige Abbildungen oder Wortlaute außer Zeichnungen zur leichteren Identifizierung des Erzeugnisses oder zur Darstellung von Zubereitungsmethoden,
@@ -678,34 +678,34 @@ Mindestmengen (außer bei bilanzierten Diäten 1))
 
 Kategorie 1
 
+ 
 
+ 
 
-
-
-
+ 
 
 Vitamine
 
+ 
 
+ 
 
-
-
-
+ 
 
 Vitamin A\\
 - Retinol\\
 - Retinylacetat\\
 - Retinylpalmitat
 
-
+ 
 
 - a) :: bei diätetischen Lebensmitteln, die zur Verwendung als Mahlzeit oder an Stelle einer Mahlzeit oder als Tagesration für kalorienarme Ernährung zur Gewichtsverringerung bestimmt sind, insgesamt bis zu 0,9 Milligramm pro Mahlzeit und bis zu 1,8 Milligramm pro Tagesration, berechnet als Retinol
 
-
+ 
 
 - b) :: bei Margarine- und Mischfetterzeugnissen insgesamt bis zu 10 Milligramm pro Kilogramm, berechnet als Retinol
 
-
+ 
 
 - c) :: bei Zusatznahrungen, die für Schwangere und Stillende bestimmt sind, höchstens 1,1 Milligramm bezogen auf die Tagesverzehrmenge, berechnet als Retinol
 
@@ -713,19 +713,19 @@ Vitamin A\\
 
 - d) :: (weggefallen)
 
-
+ 
 
 - e) :: (weggefallen)
 
-
+ 
 
 - Beta-Carotin *)
 
+ 
 
+ 
 
-
-
-
+ 
 
 Vitamin D\\
 - Vitamin D3\\
@@ -733,728 +733,728 @@ Vitamin D\\
 - Vitamin D2\\
 (Ergocalciferol)
 
-
+ 
 
 - a) :: bei diätetischen Lebensmitteln, die zur Verwendung als Mahlzeit oder an Stelle einer Mahlzeit oder als Tagesration für kalorienarme Ernährung zur Gewichtsverringerung bestimmt sind, insgesamt bis zu 1,6 Mikrogramm pro Mahlzeit und bis zu 5 Mikrogramm pro Tagesration, berechnet als Calciferol
 - b) :: bei Margarine- und Mischfetterzeugnissen insgesamt bis zu 25 Mikrogramm pro Kilogramm, berechnet als Calciferol
 - c) :: (weggefallen)
 
-
+ 
 
 Vitamin E
 
+ 
 
+ 
 
-
-
-
+ 
 
 - D-alpha-Tocopherol *)\\
 - DL-alpha-Tocopherol *)\\
 - D-alpha-Tocopherylacetat\\
 - DL-alpha-Tocopherylacetat
 
+ 
 
+ 
 
-
-
-
+ 
 
 D-alpha-Tocopherylsäuresuccinat
 
+ 
 
+ 
 
-
-
-
+ 
 
 Vitamin K
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Phylloquinon *)
 
+ 
 
+ 
 
-
-
-
+ 
 
 (Phytomenadion *))
 
+ 
 
+ 
 
-
-
-
+ 
 
 Vitamin B1
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Thiaminhydrochlorid
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Thiaminmononitrat
 
+ 
 
+ 
 
-
-
-
+ 
 
 Vitamin B2
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Riboflavin *)
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Riboflavin-5'-phosphat, Natrium
 
+ 
 
+ 
 
-
-
-
+ 
 
 Niacin
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Nicotinsäure
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Nicotinamid
 
+ 
 
+ 
 
-
-
-
+ 
 
 Pantothensäure
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Calcium-Dpantothenat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Natrium-Dpantothenat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - D-Panthenol *)
 
+ 
 
+ 
 
-
-
-
+ 
 
 Vitamin B6
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Pyridoxinhydrochlorid
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Pyridoxin-5'-phosphat - Pyridoxindipalmitat
 
+ 
 
+ 
 
-
-
-
+ 
 
 Folate
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Calcium-L-methylfolat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Vitamin B9 *) (Pteroylglutaminsäure *))
 
+ 
 
+ 
 
-
-
-
+ 
 
 Vitamin B12
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Cyanocobalamin *)
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Hydroxocobalamin
 
+ 
 
+ 
 
-
-
-
+ 
 
 Biotin
 
+ 
 
+ 
 
-
-
-
+ 
 
 - D-Biotin *)
 
+ 
 
+ 
 
-
-
-
+ 
 
 Vitamin C
 
+ 
 
+ 
 
-
-
-
+ 
 
 - L-Ascorbinsäure *)
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Natrium-L-ascorbat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Calcium-L-ascorbat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Kalium-L-ascorbat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - L-Ascorbyl-6-palmitat
 
+ 
 
+ 
 
-
-
-
+ 
 
 Kategorie 2
 
+ 
 
+ 
 
-
-
-
+ 
 
 Mineralstoffe
 
+ 
 
+ 
 
-
-
-
+ 
 
 Calcium
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Calciumcarbonat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Calciumchlorid
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Calciumsalze der
 
+ 
 
+ 
 
-
-
-
+ 
 
 Zitronensäure
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Calciumgluconat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Calciumglycerophosphat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Calciumlactat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Calciumsalze der
 
+ 
 
+ 
 
-
-
-
+ 
 
 Orthophosphorsäure
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Calciumhydroxid
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Calciumoxid
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Calciumsulfat
 
+ 
 
+ 
 
-
-
-
+ 
 
 Magnesium
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Magnesiumacetat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Magnesium-Laspartat
 
 nur für bilanzierte Diäten
 
+ 
 
-
-
+ 
 
 - Magnesiumcarbonat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Magnesiumchlorid
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Magnesiumsalze der
 
+ 
 
+ 
 
-
-
-
+ 
 
 Zitronensäure
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Magnesiumgluconat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Magnesium-
 
+ 
 
+ 
 
-
-
-
+ 
 
 glycerophosphat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Magnesiumsalze der
 
+ 
 
+ 
 
-
-
-
+ 
 
 Orthophosphorsäure
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Magnesiumlactat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Magnesiumhydroxid I
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Magnesiumoxid
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Magnesiumsulfat
 
+ 
 
+ 
 
-
-
-
+ 
 
 Eisen
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Eisencarbonat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Eisencitrat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Eisenammoniumcitrat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Eisenfumarat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Eisenlactat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Eisengluconat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Eisenbisglycinat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Eisennatriumdiphosphat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Eisendiphosphat
 
+ 
 
+ 
 
-
-
-
+ 
 
 (Eisenpyrophosphat)
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Eisensaccharat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Eisensulfat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Elementares Eisen
 
+ 
 
+ 
 
-
-
-
+ 
 
 (Carbonyl + elektrolytisch + wasserstoffreduziert)
 
+ 
 
+ 
 
-
-
-
+ 
 
 Kupfer
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Kupfercarbonat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Kupfercitrat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Kupfergluconat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Kupfersulfat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Kupferlysinkomplex
 
+ 
 
+ 
 
-
-
-
+ 
 
 Jod
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Kaliumjodid - Kaliumjodat - Natriumjodid - Natriumjodat
 
@@ -1466,9 +1466,9 @@ In jodiertem Kochsalzersatz dürfen nur die Kaliumverbindungen verwendet werden.
 
 als
 
+ 
 
-
-
+ 
 
 einer Mahlzeit oder als Tages-
 
@@ -1476,33 +1476,33 @@ Mahlzeit oder an Stelle
 
 einer
 
+ 
 
-
-
+ 
 
 ration für Übergewichtige bestimmt sind und in formulierter Form als Pulver, Granulat oder trinkfertig angeboten werden, höchstens 300 Mikrogramm bezogen auf die Tagesverzehrmenge, berechnet als Jod
 
 Mahlzeit oder als Tagesration für Übergewichtige bestimmt sind und in formulierter Form als Pulver, Granulat oder trinkfertig angeboten werden, mindestens 130 Mikrogramm bezogen auf die Tagesverzehrmenge, berechnet als Jod
 
+ 
 
-
-
-
-- b) :: (weggefallen)
+ 
 
 - b) :: (weggefallen)
 
+- b) :: (weggefallen)
 
+ 
 
-
+ 
 
 - c) :: (weggefallen)
 
 - c) :: für Lebensmittel auf Getreidegrundlage für Säuglinge oder Kleinkinder insgesamt mindestens 100 Mikrogramm pro Kilogramm des verzehrfertigen Erzeugnisses, berechnet als Jod
 
+ 
 
-
-
+ 
 
 - d) :: für jodierten Kochsalzersatz höchstens 25 Milligramm Jod pro Kilogramm jodierter Kochsalzersatz
 
@@ -1510,875 +1510,875 @@ Mahlzeit oder als Tagesration für Übergewichtige bestimmt sind und in formulie
 
 Zink
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Zinkacetat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Zinkcarbonat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Zinkchlorid
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Zinkcitrat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Zinkgluconat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Zinklactat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Zinkoxid
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Zinksulfat
 
+ 
 
+ 
 
-
-
-
+ 
 
 Mangan
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Mangancarbonat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Manganchlorid
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Mangancitrat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Mangangluconat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Manganglycerophosphat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Mangansulfat
 
+ 
 
+ 
 
-
-
-
+ 
 
 Natrium
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Natriumbicarbonat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Natriumcarbonat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Natriumchlorid *)
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Natriumcitrat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Natriumgluconat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Natriumlactat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Natriumhydroxid
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Natriumsalze der
 
+ 
 
+ 
 
-
-
-
+ 
 
 Orthophosphorsäure
 
+ 
 
+ 
 
-
-
-
+ 
 
 Kalium
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Kaliumbicarbonat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Kaliumcarbonat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Kaliumchlorid
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Kaliumcitrat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Kaliumgluconat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Kaliumglycerophosphat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Kaliumhydroxid
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Kaliumlactat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Kaliumsalze der
 
+ 
 
+ 
 
-
-
-
+ 
 
 Orthophosphorsäure
 
+ 
 
+ 
 
-
-
-
+ 
 
 Selen
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Natriumselenat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Natriumhydrogenselenit
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Natriumselenit
 
+ 
 
+ 
 
-
-
-
+ 
 
 Chrom (III) und
 
+ 
 
+ 
 
-
-
-
+ 
 
 Hexahydrate
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Chrom(III)chlorid
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Chrom(III)sulfat
 
+ 
 
+ 
 
-
-
-
+ 
 
 Molybdän (VI)
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Ammoniummolybdat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Natriummolybdat
 
+ 
 
+ 
 
-
-
-
+ 
 
 Fluor
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Kaliumfluorid
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Natriumfluorid
 
+ 
 
+ 
 
-
-
-
+ 
 
 Kategorie 3
 
+ 
 
+ 
 
-
-
-
+ 
 
 Aminosäuren
 
+ 
 
+ 
 
-
-
-
+ 
 
 - L-Alanin
 
+ 
 
+ 
 
-
-
-
+ 
 
 - L-Arginin
 
+ 
 
+ 
 
-
-
-
+ 
 
 - L-Asparaginsäure
 
 nur für bilanzierte Diäten
 
+ 
 
-
-
+ 
 
 - L-Citrullin
 
 nur für bilanzierte Diäten
 
+ 
 
-
-
+ 
 
 - L-Cystein
 
+ 
 
+ 
 
-
-
-
+ 
 
 - L-Cystin
 
+ 
 
+ 
 
-
-
-
+ 
 
 - L-Histidin
 
+ 
 
+ 
 
-
-
-
+ 
 
 - L-Glutaminsäure
 
+ 
 
+ 
 
-
-
-
+ 
 
 - L-Glutamin
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Glycin
 
 nur für bilanzierte Diäten
 
+ 
 
-
-
+ 
 
 - L-Isoleucin
 
+ 
 
+ 
 
-
-
-
+ 
 
 - L-Leucin
 
+ 
 
+ 
 
-
-
-
+ 
 
 - L-Lysin
 
+ 
 
+ 
 
-
-
-
+ 
 
 - L-Lysinacetat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - L-Methionin
 
+ 
 
+ 
 
-
-
-
+ 
 
 - L-Ornithin
 
+ 
 
+ 
 
-
-
-
+ 
 
 - L-Phenylalanin
 
+ 
 
+ 
 
-
-
-
+ 
 
 - L-Prolin
 
 nur für bilanzierte Diäten
 
+ 
 
-
-
+ 
 
 - L-Serin
 
 nur für bilanzierte Diäten
 
+ 
 
-
-
+ 
 
 -L-Threonin
 
+ 
 
+ 
 
-
-
-
+ 
 
 - L-Tryptophan
 
+ 
 
+ 
 
-
-
-
+ 
 
 - L-Tyrosin
 
+ 
 
+ 
 
-
-
-
+ 
 
 - L-Valin
 
+ 
 
+ 
 
-
-
-
+ 
 
 - L-Arginin-L-Aspartat
 
 nur für bilanzierte Diäten
 
+ 
 
-
-
+ 
 
 - L-Lysin-L-Aspartat
 
 nur für bilanzierte Diäten
 
+ 
 
-
-
+ 
 
 - L-Lysin-L-Glutamat
 
 nur für bilanzierte Diäten
 
+ 
 
-
-
+ 
 
 - N-Acetyl-L-Cystein
 
 nur für bilanzierte Diäten
 
+ 
 
-
-
+ 
 
 - N-Acetyl-L-Methionin
 
 nur für bilanzierte Diäten, die für Personen, die älter als 1 Jahr sind, bestimmt sind
 
+ 
 
-
-
+ 
 
 Bei zugelassenen Aminosäuren können auch die Natrium-, Kalium-, Calcium- und Magnesiumsalze sowie ihre Hydrochloride verwendet werden.
 
+ 
 
+ 
 
-
-
-
+ 
 
 Kategorie 4
 
+ 
 
+ 
 
-
-
-
+ 
 
 Carnitin und Taurin
 
+ 
 
+ 
 
-
-
-
+ 
 
 - L-Carnitin *)
 
+ 
 
+ 
 
-
-
-
+ 
 
 - L-Carnitinhydrochlorid
 
+ 
 
+ 
 
-
-
-
+ 
 
 - L-Carnitin-L-Tartrat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Taurin
 
+ 
 
+ 
 
-
-
-
+ 
 
 Kategorie 5
 
+ 
 
+ 
 
-
-
-
+ 
 
 Nucleotide
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Adenosin-5'-phosphorsäure (AMP)
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Natriumsalze
 
+ 
 
+ 
 
-
-
-
+ 
 
 von AMP
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Cytidin-5'-monophosphorsäure (CMP)
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Natriumsalze
 
+ 
 
+ 
 
-
-
-
+ 
 
 von CMP
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Guanosin-5'phosphorsäure (GMP)
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Natriumsalze von GMP
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Inosin-5'-phosphorsäure (IMP)
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Natriumsalze von IMP
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Uridin-5'-phosphorsäure (UMP)
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Natriumsalze von UMP
 
+ 
 
+ 
 
-
-
-
+ 
 
 Kategorie 6
 
+ 
 
+ 
 
-
-
-
+ 
 
 Cholin und Inosit
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Cholin *)
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Cholinchlorid
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Cholincitrat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Cholintartrat
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Inosit
 
+ 
 
+ 
 
-
-
-
+ 
 
 Sonstige Stoffe\\
 - Agar-Agar\\
@@ -2389,7 +2389,7 @@ für diätetische Lebensmittel, die zur Verwendung als Mahlzeit oder an Stelle e
 
 insgesamt bis zu 30 Gramm pro Kilogramm des verzehrfertigen Erzeugnisses, einschließlich der ggf. zu technologischen Zwecken zugesetzten Mengen
 
-
+ 
 
 - Pektin\\
 - amidiertes Pektin
@@ -2398,7 +2398,7 @@ für diätetische Lebensmittel, die zur Verwendung als Mahlzeit oder an Stelle e
 
 insgesamt bis zu 50 Gramm pro Kilogramm des verzehrfertigen Erzeugnisses, einschließlich der ggf. zu technologischen Zwecken zugesetzten Mengen
 
-
+ 
 
 - Johannisbrotkernmehl\\
 - Guarkernmehl\\
@@ -2410,7 +2410,7 @@ für Lebensmittel, geeignet zur Behandlung der Säuglingsdyspepsie
 
 insgesamt bis zu 10 Gramm pro Kilogramm des verzehrfertigen Erzeugnisses
 
-
+ 
 
 1) Die Höchst- und Mindestmengen an verwendeten Stoffen für bilanzierte Diäten richten sich nach den durch § 14b in Verbindung mit Anlage 6 festgelegten Mengenbegrenzungen.
 
@@ -2494,7 +2494,7 @@ Säuglinge
 
 Andere als Säuglinge
 
-
+ 
 
 Mindestmenge bezogen auf 100 KJ
 
@@ -2514,21 +2514,21 @@ Höchstmenge bezogen auf 100 Kcal
 
 Vitamine
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
-
+ 
 
 Vitamin A (myg RE)
 
@@ -2566,19 +2566,19 @@ Vitamin D (myg)
 
 2,5/3
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
+ 
 
 0,75 1)
 
@@ -2730,21 +2730,21 @@ Vitamin B12 (myg)
 
 Panthothensäure
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
-
+ 
 
 (mg)
 
@@ -2800,59 +2800,59 @@ Vitamin E (mg alpha-TE)
 
 3
 
-
-
-mehrfach ungesättigter Fettsäauren, ausgedrückt als Linolsäure, re, nicht weniger als 0,1 mg pro 100 verwertbare
-
-
+ 
 
 mehrfach ungesättigter Fettsäauren, ausgedrückt als Linolsäure, re, nicht weniger als 0,1 mg pro 100 verwertbare
 
-
-
-mehrfach ungesättigter Fettsäauren, ausgedrückt als Linolsäure, re, nicht weniger als 0,1 mg pro 100 verwertbare
-
-
+ 
 
 mehrfach ungesättigter Fettsäauren, ausgedrückt als Linolsäure, re, nicht weniger als 0,1 mg pro 100 verwertbare
 
+ 
 
+mehrfach ungesättigter Fettsäauren, ausgedrückt als Linolsäure, re, nicht weniger als 0,1 mg pro 100 verwertbare
 
+ 
 
+mehrfach ungesättigter Fettsäauren, ausgedrückt als Linolsäure, re, nicht weniger als 0,1 mg pro 100 verwertbare
+
+ 
+
+ 
 
 KJ
 
-
+ 
 
 Kcal
 
-
+ 
 
 KJ
 
-
+ 
 
 Kcal
 
-
+ 
 
 Mineralstoffe
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
-
+ 
 
 Natrium (mg)
 
@@ -2926,15 +2926,15 @@ Calcium (mg)
 
 175/
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 12 1)
 
@@ -2942,7 +2942,7 @@ Calcium (mg)
 
 50 1) 250 1)
 
-
+ 
 
 Phosphor (mg)
 
@@ -2960,7 +2960,7 @@ Phosphor (mg)
 
 80
 
-
+ 
 
 Magnesium (mg)
 
@@ -3090,11 +3090,11 @@ Mangan (myg)
 
 Chrom (myg)
 
-
+ 
 
 2,5
 
-
+ 
 
 10
 
@@ -3108,11 +3108,11 @@ Chrom (myg)
 
 Molybdän (myg)
 
-
+ 
 
 2,5
 
-
+ 
 
 10
 
@@ -3126,19 +3126,19 @@ Molybdän (myg)
 
 Fluorid (mg)
 
-
+ 
 
 0,05
 
-
+ 
 
 0,2
 
-
+ 
 
 0,05
 
-
+ 
 
 0,2
 
@@ -3186,223 +3186,223 @@ Vitaminverbindung
 nicht zur Verwendung zugelassen bei
 Vitamin A
 Retinylacetat
-
-
+ 
+ 
 Retinylpalmitat
-
+ 
 Beta-Carotin
  Säuglingsanfangsnahrung und Folgenahrung
 Retinol
-
+ 
 Vitamin D
 Vitamin D2 (Ergocalciferol)
-
-
+ 
+ 
 Vitamin D3 (Cholecalciferol)
-
+ 
 Vitamin B1
 Thiaminhydrochlorid
-
-
+ 
+ 
 Thiaminnitrat
-
+ 
 Vitamin B2
 Riboflavin
-
-
+ 
+ 
 Riboflavin-5'-phosphat-
-
+ 
 Natrium
-
+ 
 Niacin
 Nicotinsäureamid
-
-
+ 
+ 
 Nicotinsäure
-
+ 
 Vitamin B6
 Pyridoxinhydrochlorid
-
-
+ 
+ 
 Pyridoxin-5'-phosphat
-
+ 
 Pyridoxinpalmitat
 Säuglingsanfangsnahrung und Folgenahrung
 Folsäure
 Folate
-
+ 
 Pantothensäure
 Calcium-D-pantothenat
-
-
+ 
+ 
 Natrium-D-pantothenat
-
+ 
 Dexpanthenol
-
+ 
 Vitamin B12
 Cyanocobalamin
-
-
+ 
+ 
 Hydroxocobalamin
-
+ 
 Biotin
 D-Biotin
-
+ 
 Vitamin C
 L-Ascorbinsäure
-
-
+ 
+ 
 Natrium-L-ascorbat
-
+ 
 Calcium-L-ascorbat
-
+ 
 6-Palmitoyl-L-Ascorbinsäure
-
+ 
 (L-Ascorbylpalmitat)
-
+ 
 Kaliumascorbat
-
+ 
 Vitamin E
 D-Alpha-tocopherol
-
-
+ 
+ 
 DL-Alpha-tocopherol
-
+ 
 D-Alpha-tocopherylacetat
-
+ 
 DL-Alpha-tocopherylacetat
-
+ 
 Vitamin K
 Phyllochinon (Phytomenadion)
-
+ 
 2. Mineralstoffe
 Mineralstoff
 Mineralstoffverbindungen
 nicht zur Verwendung zugelassen bei
 Calcium (Ca)
 Calciumcarbonat
-
-
+ 
+ 
 Calciumchlorid
-
+ 
 Calciumcitrate
-
+ 
 Calciumgluconat
-
+ 
 Calciumglycerophosphat
-
+ 
 Calciumlactat
-
+ 
 Calciumorthophosphat
-
+ 
 Calciumoxid
 Säuglingsanfangsnahrung und Folgenahrung
 Calciumhydroxid
-
+ 
 Magnesium (Mg)
 Magnesiumcarbonat
-
-
+ 
+ 
 Magnesiumchlorid
-
+ 
 Magnesiumlactat
 Säuglingsanfangsnahrung und Folgenahrung
 Magnesiumoxid
-
+ 
 Magnesiumorthophosphate
-
+ 
 Magnesiumsulfat
-
+ 
 Magnesiumgluconat
-
+ 
 Magnesiumglycerophosphat
 Säuglingsanfangsnahrung und Folgenahrung
 Magnesiumhydroxid
-
+ 
 Magnesiumcitrat
-
+ 
 Eisen (Fe)
 elementares Eisen
 Säuglingsanfangsnahrung und Folgenahrung
-
+ 
 Eisen-II-bisglycinat
 Beikost
 Eisen-II-carbonat
 Säuglingsanfangsnahrung und Folgenahrung
 Eisen-II-citrat
-
+ 
 Eisen-II-gluconat
-
+ 
 Eisen-II-lactat
-
+ 
 Eisen-II-sulfat
-
+ 
 Eisen-II-ammoniumcitrat
-
+ 
 Eisen-II-fumarat
-
+ 
 Eisen-III-diphosphat
-
+ 
 Eisen-III-saccharat
 Säuglingsanfangsnahrung und Folgenahrung
 Eisennatriumdiphosphat
 Säuglingsanfangsnahrung und Folgenahrung
 Kupfer (Cu)
 Kupfercitrat
-
-
+ 
+ 
 Kupfergluconat
-
+ 
 Kupfersulfat
-
+ 
 Kupferlysinkomplex
-
+ 
 Kupfercarbonat
-
+ 
 Jod (I)
 Kaliumjodid
-
-
+ 
+ 
 Natriumjodid
-
+ 
 Kaliumjodat
-
+ 
 Natriumjodat
 Säuglingsanfangsnahrung und Folgenahrung
 Zink (Zn)
 Zinkacetat
-
-
+ 
+ 
 Zinkchlorid
-
+ 
 Zinklactat
-
+ 
 Zinksulfat
-
+ 
 Zinkcitrat
-
+ 
 Zinkgluconat
-
+ 
 Zinkoxid
-
+ 
 Mangan (Mn)
 Mangan-II-carbonat
-
-
+ 
+ 
 Mangan-II-chlorid
-
+ 
 Mangan-II-citrat
-
+ 
 Mangan-II-sulfat
-
+ 
 Mangan-II-gluconat
-
+ 
 Mangan-II-glycerophosphat
 Säuglingsanfangsnahrung und Folgenahrung
 Natrium (Na)
 Natriumhydrogencarbonat
 Beikost
-
+ 
 Natriumchlorid
 Natriumcitrat
 Natriumgluconat
@@ -3413,19 +3413,19 @@ Natriumhydroxid
 Kalium (K)
 Kaliumbicarbonat
 Beikost
-
+ 
 Kaliumcarbonat
 Beikost
 Kaliumchlorid
-
+ 
 Kaliumcitrate
-
+ 
 Kaliumgluconat
-
+ 
 Kaliumglycerophosphat
 Säuglingsanfangsnahrung und Folgenahrung
 Kaliumlactat
-
+ 
 Kaliumorthophosphate
 Beikost
 Kaliumhydroxid
@@ -3433,7 +3433,7 @@ Beikost
 Selen (Se)
 Natriumselenat
 Beikost
-
+ 
 Natriumselenit
 3. Aminosäuren und deren Verbindungen sowie sonstige stickstoffhaltige Verbindungen
 Stoff
@@ -3441,31 +3441,31 @@ Nicht zur Verwendung zugelassen bei
 L-Arginin und sein Hydrochlorid
  Säuglingsanfangsnahrung und Folgenahrung<<FnR.bjnr004150963bjne005905360_01>>[[#bjnr004150963bjne005905360_01][1)]]}
 L-Cystin und sein Hydrochlorid
-
+ 
 L-Histidin und sein Hydrochlorid
-
+ 
 L-Isoleucin und sein Hydrochlorid
-
+ 
 L-Leucin und sein Hydrochlorid
-
+ 
 L-Lysin und sein Hydrochlorid
-
+ 
 L-Cystein und sein Hydrochlorid
-
+ 
 L-Methionin
-
+ 
 L-Phenylalanin
-
+ 
 L-Threonin
-
+ 
 L-Tryptophan
-
+ 
 L-Tyrosin
-
+ 
 L-Valin
-
+ 
 L-Carnitin und sein Hydrochlorid
-
+ 
 L-Carnitin-L-Tartrat
 Beikost
 Taurin
@@ -3604,12 +3604,12 @@ Die angegebenen Werte beziehen sich auf das entweder verzehrfertig in den Verkeh
   Andere Kombinationen und Höchstgehalte von Fructo-Oligosacchariden und Galacto-Oligosacchariden können gemäß § 14c Abs. 2 Buchstabe a verwendet werden.
 - 10. :: Mineralstoffe
 - 10.1 :: Säuglingsanfangsnahrung aus Kuhmilchproteinen oder Ziegenmilchproteinen oder Proteinhydrolysaten
-  
+   
 - 10.2 :: Säuglingsanfangsnahrung aus Sojaproteinisolaten, pur oder in einer Mischung mit Kuhmilchproteinen oder Ziegenmilchproteinen
   Es gelten alle Anforderungen aus Nummer 10.1 mit Ausnahme der Anforderungen an Eisen und Phosphor, die wie folgt lauten:
-  
+   
 - 11. :: Vitamine
-  
+   
 - <<FnA1-f770229_04>>[[#FnR.FnA1-f770229_04][1)]] :: RE = Retinoläquivalent, alle trans.
 - <<FnA1-f770229_05>>[[#FnR.FnA1-f770229_05][2)]] :: In Form von Cholecalciferol, davon 10 µg = 400 IE Vitamin D.
 - <<FnA1-f770229_06>>[[#FnR.FnA1-f770229_06][3)]] :: Vorgebildetes Niacin.
@@ -3622,11 +3622,11 @@ Nukleotide
 
 Folgende Nukleotide können verwendet werden:
 
+ 
 
+Höchstwert<<FnR.FnA2-f770229_09>>[[#FnA2-f770229_09][1)]]}      
 
-Höchstwert<<FnR.FnA2-f770229_09>>[[#FnA2-f770229_09][1)]]}     
-
-
+ 
 
 (mg/100 kJ)
 
@@ -3761,12 +3761,12 @@ Die angegebenen Werte beziehen sich auf das entweder verzehrfertig in den Verkeh
   Andere Kombinationen und Höchstgehalte von Fructo-Oligosacchariden und Galacto-Oligosacchariden können gemäß § 14c Abs. 4 Buchstabe a verwendet werden.
 - 8. :: Mineralstoffe
 - 8.1 :: Folgenahrung aus Kuhmilchproteinen oder Ziegenmilchproteinen oder Proteinhydrolysaten
-  
+   
 - 8.2 :: Folgenahrung aus Sojaproteinisolaten, pur oder in einer Mischung mit Kuhmilchproteinen oder Ziegenmilchproteinen
   Es gelten alle Anforderungen aus Nummer 8.1 mit Ausnahme der Anforderungen an Eisen und Phosphor, die wie folgt lauten:
-  
+   
 - 9. :: Vitamine
-  
+   
 - <<FnA1-f770229_10>>[[#FnR.FnA1-f770229_10][1)]] :: RE = Retinoläquivalent, alle trans.
 - <<FnA1-f770229_11>>[[#FnR.FnA1-f770229_11][2)]] :: In Form von Cholecalciferol, davon 10 µg = 400 IE Vitamin D.
 - <<FnA1-f770229_12>>[[#FnR.FnA1-f770229_12][3)]] :: Vorgebildetes Niacin.
@@ -3779,11 +3779,11 @@ Nukleotide
 
 Folgende Nukleotide können verwendet werden:
 
+ 
 
+Höchstwert<<FnR.FnA2-f770229_15>>[[#FnA2-f770229_15][1)]]}     
 
-Höchstwert<<FnR.FnA2-f770229_15>>[[#FnA2-f770229_15][1)]]}    
-
-
+ 
 
 (mg/100 kJ)
 
@@ -3875,11 +3875,11 @@ Die Angaben beziehen sich auf gebrauchsfertige Erzeugnisse, die als solche vertr
 
 Anforderungsschema für Aminosäuren
 
+ 
 
+ 
 
-
-
-
+ 
 
 g/100 g Protein
 
@@ -3923,9 +3923,9 @@ Valin
 
 Nährstoffgehalte je Tag
 
+ 
 
-
-
+ 
 
 Vitamin A
 

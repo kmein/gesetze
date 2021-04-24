@@ -394,7 +394,7 @@ Für ihre Entscheidung kann die Behörde ein Sachverständigengutachten verlange
 
 - 1. :: den Stand von Wissenschaft und Technik, Arbeitsmedizin und Arbeitshygiene sowie sonstiger gesicherter arbeitswissenschaftlicher Erkenntnisse bei der Verwendung von Arbeitsmitteln zu ermitteln und dazu Empfehlungen auszusprechen,
 - 2. :: zu ermitteln, wie die in dieser Verordnung gestellten Anforderungen erfüllt werden können, und dazu die dem jeweiligen Stand der Technik und der Arbeitsmedizin entsprechenden Regeln und Erkenntnisse zu erarbeiten,
-- 3. :: das Bundesministerium für Arbeit und Soziales in Fragen von Sicherheit und Gesundheitsschutz bei der Verwendung von Arbeitsmitteln zu beraten und 
+- 3. :: das Bundesministerium für Arbeit und Soziales in Fragen von Sicherheit und Gesundheitsschutz bei der Verwendung von Arbeitsmitteln zu beraten und  
 - 4. :: die von den zugelassenen Überwachungsstellen nach § 37 Absatz 5 Nummer 8 des Produktsicherheitsgesetzes gewonnenen Erkenntnisse auszuwerten und bei den Aufgaben nach den Nummern 1 bis 3 zu berücksichtigen.
 
 (6) Nach Prüfung kann das Bundesministerium für Arbeit und Soziales
@@ -597,7 +597,7 @@ Inhaltsübersicht
 - 3.2.2 :: Der für die Gerüstbauarbeiten verantwortliche Arbeitgeber oder eine von ihm bestimmte fachkundige Person hat je nach Komplexität des gewählten Gerüsts einen Plan für Aufbau, Verwendung und Abbau zu erstellen. Dabei kann es sich um eine allgemeine Aufbau- und Verwendungsanleitung handeln, die durch Detailangaben für das jeweilige Gerüst ergänzt wird.
 - 3.2.3 :: Die Standsicherheit des Gerüsts muss sichergestellt sein. Der Arbeitgeber hat dafür zu sorgen, dass Gerüste, die freistehend nicht standsicher sind, vor der Verwendung verankert werden. Die Ständer eines Gerüsts sind vor der Möglichkeit des Verrutschens zu schützen, indem sie an der Auflagefläche durch eine Gleitschutzvorrichtung oder durch ein anderes, gleich geeignetes Mittel fixiert werden. Die belastete Fläche muss eine ausreichende Tragfähigkeit haben. Ein unbeabsichtigtes Fortbewegen von fahrbaren Gerüsten während der Arbeiten an hoch gelegenen Arbeitsplätzen muss durch geeignete Vorrichtungen verhindert werden. Während des Aufenthalts von Beschäftigten auf einem fahrbaren Gerüst darf dieses nicht vom Standort fortbewegt werden.
 - 3.2.4 :: Die Abmessungen, die Form und die Anordnung der Lauf- und Arbeitsflächen auf Gerüsten müssen für die auszuführende Tätigkeit geeignet sein. Sie müssen an die zu erwartende Beanspruchung angepasst sein und ein gefahrloses Begehen erlauben. Sie sind dicht aneinander und so zu verlegen, dass sie bei normaler Verwendung nicht wippen und nicht verrutschen können. Zwischen den einzelnen Gerüstflächen und dem Seitenschutz darf kein Zwischenraum vorhanden sein, der zu Gefährdungen von Beschäftigten führen kann.
-- 3.2.5 :: Sind bestimmte Teile eines Gerüsts nicht verwendbar, insbesondere während des Auf-, Ab- oder Umbaus, sind diese Teile mit dem Verbotszeichen Zutritt verboten“ zu kennzeichnen und durch Absperrungen, die den Zugang zu diesen Teilen verhindern, angemessen abzugrenzen.
+- 3.2.5 :: Sind bestimmte Teile eines Gerüsts nicht verwendbar, insbesondere während des Auf-, Ab- oder Umbaus, sind diese Teile mit dem Verbotszeichen „Zutritt verboten“ zu kennzeichnen und durch Absperrungen, die den Zugang zu diesen Teilen verhindern, angemessen abzugrenzen.
 - 3.2.6 :: Der Arbeitgeber hat dafür zu sorgen, dass Gerüste nur unter der Aufsicht einer fachkundigen Person und nach Unterweisung nach § 12 von fachlich hierfür geeigneten Beschäftigten auf-, ab- oder umgebaut werden. Die Unterweisung hat sich insbesondere zu erstrecken auf Informationen über
   - a) :: den Plan für den Auf-, Ab- oder Umbau des betreffenden Gerüsts,
   - b) :: den sicheren Auf-, Ab- oder Umbau des betreffenden Gerüsts,
@@ -865,14 +865,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
   | Druckgeräten zur Erzeugung von Dampf oder Heißwasser mit einer\\            |
   | Temperatur von mehr als 110 Grad Celsius nach Nummer 2.2 Satz 1 Buchstabe b |
 
-  
+   
 - -- :: entzündbare Gase mit den Gefahrenhinweisen H220 oder H221,
 - -- :: entzündbare Flüssigkeiten mit den Gefahrenhinweisen H224 oder H225,
 - -- :: entzündbare Flüssigkeiten, wenn bei der Verwendung die maximal zulässige Temperatur über dem Flammpunkt liegt, aber begrenzt auf einen Flammpunkt von 55 Grad Celsius, mit dem Gefahrenhinweis H226,
 - -- :: pyrophore Flüssigkeiten mit dem Gefahrenhinweis H250,
 - -- :: akut toxisch mit dem Gefahrenhinweis H300, H310 oder H330
 
-
+ 
 
 |   | DN [Millimeter] | PS [Bar] | PS ⋅ DN [Bar ⋅ Millimeter] | Prüfungen\\ | Prüfungen\\ |
 |   |                 |          |                            | nach Nr. 4  | nach Nr. 5  |

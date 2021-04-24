@@ -7,7 +7,7 @@ Ausfertigungsdatum: 20.06.1990
 Inhaltsübersicht
 
 Erster Teil
-
+ 
 Allgemeine Vorschriften
 § 1
 Zweck des Gesetzes
@@ -23,9 +23,9 @@ Aufgaben der Kommission
 (weggefallen)
 § 6
 Allgemeine Sorgfalts- und Aufzeichnungspflichten, Gefahrenvorsorge
-
+ 
 Zweiter Teil
-
+ 
 Gentechnische Arbeiten in gentechnischen Anlagen
 § 7
 Sicherheitsstufen, Sicherheitsmaßnahmen
@@ -41,9 +41,9 @@ Genehmigungsvoraussetzungen
 Anzeige- und Anmeldeverfahren
 § 13
 (weggefallen)
-
+ 
 Dritter Teil
-
+ 
 Freisetzung und Inverkehrbringen
 § 14
 Freisetzung und Inverkehrbringen
@@ -61,9 +61,9 @@ Beobachtung
 Entscheidung der Behörde bei Inverkehrbringen
 § 16e
 Ausnahmen für nicht kennzeichnungspflichtiges Saatgut
-
+ 
 Vierter Teil
-
+ 
 Gemeinsame Vorschriften
 § 17
 Verwendung von Unterlagen
@@ -103,9 +103,9 @@ Auswertung und Bereitstellung von Daten
 Erlass von Rechtsverordnungen und Verwaltungsvorschriften
 § 31
 Zuständige Behörde und zuständige Bundesoberbehörde
-
+ 
 Fünfter Teil
-
+ 
 Haftungsvorschriften
 § 32
 Haftung
@@ -121,17 +121,17 @@ Deckungsvorsorge
 Ansprüche bei Nutzungsbeeinträchtigungen
 § 37
 Haftung nach anderen Rechtsvorschriften
-
+ 
 Sechster Teil
-
+ 
 Straf- und Bußgeldvorschriften
 § 38
 Bußgeldvorschriften
 § 39
 Strafvorschriften
-
+ 
 Siebter Teil
-
+ 
 Übergangs- und Schlussvorschriften
 § 40
 (weggefallen)
@@ -237,7 +237,7 @@ Im Sinne dieses Gesetzes sind
 
 § 4 - Kommission für die Biologische Sicherheit
 
-(1) Unter der Bezeichnung Zentrale Kommission für die Biologische Sicherheit“ (Kommission) wird bei der zuständigen Bundesoberbehörde eine Sachverständigenkommission eingerichtet. Die Kommission setzt sich zusammen aus:
+(1) Unter der Bezeichnung „Zentrale Kommission für die Biologische Sicherheit“ (Kommission) wird bei der zuständigen Bundesoberbehörde eine Sachverständigenkommission eingerichtet. Die Kommission setzt sich zusammen aus:
 
 - 1. :: zwölf Sachverständigen, die über besondere und möglichst auch internationale Erfahrungen in den Bereichen der Mikrobiologie, Zellbiologie, Virologie, Genetik, Pflanzenzucht, Hygiene, Ökologie, Toxikologie und Sicherheitstechnik verfügen; von diesen müssen mindestens sieben auf dem Gebiet der Neukombination von Nukleinsäuren arbeiten; jeder der genannten Bereiche muss durch mindestens einen Sachverständigen, der Bereich der Ökologie durch mindestens zwei Sachverständige vertreten sein;
 - 2. :: je einer sachkundigen Person aus den Bereichen der Gewerkschaften, des Arbeitsschutzes, der Wirtschaft, der Landwirtschaft, des Umweltschutzes, des Naturschutzes, des Verbraucherschutzes und der forschungsfördernden Organisationen.

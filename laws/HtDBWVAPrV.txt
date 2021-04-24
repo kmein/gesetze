@@ -132,23 +132,23 @@ Der Vorbereitungsdienst soll die Mindestdauer von 18 Monaten nicht überschreite
 
 (1) Der Vorbereitungsdienst gliedert sich in Lehrveranstaltungen und eine praktische Ausbildung. Im Einzelnen sind folgende Ausbildungsabschnitte vorzusehen:
 
-- 1. :: Lehrgang Aufgaben und Organisation der Bundeswehr und Statusfragen“,
+- 1. :: Lehrgang „Aufgaben und Organisation der Bundeswehr und Statusfragen“,
 - 2. :: Vorstellung der Verwendungsmöglichkeiten in der Fachrichtung Wehrtechnik des höheren technischen Verwaltungsdienstes,
-- 3. :: Lehrgang Bundeswehr und Sicherheitspolitik“,
-- 4. :: Lehrgang Technisches Projektmanagement“,
-- 5. :: Lehrgang Wirtschaftlichkeit im Projektmanagement“,
-- 6. :: Lehrgang Führungs- und Lenkungsaufgaben“,
-- 7. :: Lehrgang Allgemeine Systemtechnik“,
-- 8. :: Lehrgang Fachtechnische Grundlagen einzelner wehrtechnischer Fachgebiete“,
-- 9. :: Lehrgang Systemtechnik Land“, Systemtechnik Luft“, Systemtechnik See“ oder Systemtechnik Informationstechnologie“,
-- 10. :: Lehrgang Rechtsgrundlagen in der Praxis“ und
+- 3. :: Lehrgang „Bundeswehr und Sicherheitspolitik“,
+- 4. :: Lehrgang „Technisches Projektmanagement“,
+- 5. :: Lehrgang „Wirtschaftlichkeit im Projektmanagement“,
+- 6. :: Lehrgang „Führungs- und Lenkungsaufgaben“,
+- 7. :: Lehrgang „Allgemeine Systemtechnik“,
+- 8. :: Lehrgang „Fachtechnische Grundlagen einzelner wehrtechnischer Fachgebiete“,
+- 9. :: Lehrgang „Systemtechnik Land“, „Systemtechnik Luft“, „Systemtechnik See“ oder „Systemtechnik Informationstechnologie“,
+- 10. :: Lehrgang „Rechtsgrundlagen in der Praxis“ und
 - 11. :: praktische Ausbildung.
 
 (2) Die Lehrgänge nach Absatz 1 Satz 2 Nummer 1 und 3 bis 10 werden von der Bundesakademie für Wehrverwaltung und Wehrtechnik durchgeführt. Sie vermitteln Kenntnisse, die für die Laufbahn des höheren technischen Verwaltungsdienstes erforderlich sind und über die im Studium vermittelten Kenntnisse hinausgehen. Für die Lehrgänge werden von der Bundesakademie für Wehrverwaltung und Wehrtechnik mit Zustimmung des Bundesministeriums der Verteidigung Lehrpläne erstellt.
 (3) Die Reihenfolge und die Dauer der einzelnen Ausbildungsabschnitte ergeben sich aus dem individuellen Ausbildungsplan nach § 18 Absatz 2 Satz 3. Die Ausbildungsabschnitte können durch Exkursionen ergänzt werden.
 (4) Während des Vorbereitungsdienstes werden die Referendarinnen und Referendare einem Einstufungstest in Englisch oder Französisch unterzogen.
 
-§ 10 - Lehrgang Aufgaben und Organisation der Bundeswehr und Statusfragen“
+§ 10 - Lehrgang „Aufgaben und Organisation der Bundeswehr und Statusfragen“
 
 Die Referendarinnen und Referendare werden mit den Rechten und Pflichten der Beamtinnen und Beamten vertraut gemacht. Sie erhalten einen Überblick über das Beamten-, Besoldungs-, Reisekosten-, Umzugs- und Beihilferecht, über die Aufgaben, die Organisation und die rechtlichen Grundlagen der Bundeswehr, insbesondere des Rüstungsbereichs, sowie über die Arbeitsabläufe in der Bundeswehrverwaltung und die Einbindung der Bundesrepublik Deutschland in internationale und überstaatliche Organisationen. Die Referendarinnen und Referendare sollen am Ende des Lehrgangs über ein Grundwissen verfügen, auf dem die weitere Ausbildung aufbaut. Einzelheiten regelt der Lehrplan.
 
@@ -156,19 +156,19 @@ Die Referendarinnen und Referendare werden mit den Rechten und Pflichten der Bea
 
 Die Referendarinnen und Referendare werden bei verschiedenen Dienststellen des Rüstungsbereichs in deren Organisation, Aufgaben und Ausstattung eingeführt. Außerdem werden die zukünftigen Einsatzmöglichkeiten im nationalen und internationalen Rüstungsbereich aufgezeigt. Einzelheiten regelt der Ausbildungsrahmenplan, den die Einstellungsbehörde mit Zustimmung des Bundesministeriums der Verteidigung erstellt.
 
-§ 12 - Lehrgänge Bundeswehr und Sicherheitspolitik“, Technisches Projektmanagement“, Wirtschaftlichkeit im Projektmanagement“ und Führungs- und Lenkungsaufgaben“
+§ 12 - Lehrgänge „Bundeswehr und Sicherheitspolitik“, „Technisches Projektmanagement“, „Wirtschaftlichkeit im Projektmanagement“ und „Führungs- und Lenkungsaufgaben“
 
-(1) Im Lehrgang Bundeswehr und Sicherheitspolitik“ werden den Referendarinnen und Referendaren sicherheitspolitische Aspekte und allgemeine bundeswehrspezifische Themen vermittelt.
-(2) Im Lehrgang Technisches Projektmanagement“ werden die Referendarinnen und Referendare mit den allgemeinen Grundlagen des technischen Projektmanagements im Rüstungsbereich sowie den bundeswehrspezifischen Verfahren und Methoden des Projektmanagements vertraut gemacht.
-(3) Im Lehrgang Wirtschaftlichkeit im Projektmanagement“ werden den Referendarinnen und Referendaren aufgabenspezifisch Grundkenntnisse der Betriebs- und Volkswirtschaftslehre, Grundkenntnisse der verschiedenen Methoden und Verfahren der Wirtschaftlichkeitsbetrachtungen und Grundkenntnisse im Haushaltsrecht vermittelt.
-(4) Im Lehrgang Führungs- und Lenkungsaufgaben“ werden die Referendarinnen und Referendare mit den Grundzügen der Formen sozialer Abhängigkeit, mit der Vorbereitung und Durchführung dienstlicher Gespräche, mit den Ebenen menschlicher Kommunikation sowie mit verschiedenen Präsentationsformen vertraut gemacht.
+(1) Im Lehrgang „Bundeswehr und Sicherheitspolitik“ werden den Referendarinnen und Referendaren sicherheitspolitische Aspekte und allgemeine bundeswehrspezifische Themen vermittelt.
+(2) Im Lehrgang „Technisches Projektmanagement“ werden die Referendarinnen und Referendare mit den allgemeinen Grundlagen des technischen Projektmanagements im Rüstungsbereich sowie den bundeswehrspezifischen Verfahren und Methoden des Projektmanagements vertraut gemacht.
+(3) Im Lehrgang „Wirtschaftlichkeit im Projektmanagement“ werden den Referendarinnen und Referendaren aufgabenspezifisch Grundkenntnisse der Betriebs- und Volkswirtschaftslehre, Grundkenntnisse der verschiedenen Methoden und Verfahren der Wirtschaftlichkeitsbetrachtungen und Grundkenntnisse im Haushaltsrecht vermittelt.
+(4) Im Lehrgang „Führungs- und Lenkungsaufgaben“ werden die Referendarinnen und Referendare mit den Grundzügen der Formen sozialer Abhängigkeit, mit der Vorbereitung und Durchführung dienstlicher Gespräche, mit den Ebenen menschlicher Kommunikation sowie mit verschiedenen Präsentationsformen vertraut gemacht.
 (5) Die Referendarinnen und Referendare werden befähigt, die allgemeinen fachgebietsübergreifenden Aufgaben im Bereich der Wehrtechnik, Funktionen im technischen Projektmanagement sowie Führungsfunktionen in der Bundeswehrverwaltung wahrzunehmen. Einzelheiten regelt der Lehrplan.
 
-§ 13 - Lehrgang Allgemeine Systemtechnik“
+§ 13 - Lehrgang „Allgemeine Systemtechnik“
 
 Die Referendarinnen und Referendare lernen die Anforderungen, die sich aus der vernetzten Operationsführung, der notwendigen Interoperabilität verschiedener Systeme und den gemeinsamen Einsätzen mit den Streitkräften verbündeter Staaten ergeben, kennen. Darüber hinaus werden Kenntnisse der in der Bundeswehr eingeführten Waffensysteme sowie der Waffenwirkungen und des Schutzes gegen Waffensysteme und Waffenwirkungen vermittelt. Einzelheiten regelt der Lehrplan.
 
-§ 14 - Lehrgang Fachtechnische Grundlagen einzelner wehrtechnischer Fachgebiete“
+§ 14 - Lehrgang „Fachtechnische Grundlagen einzelner wehrtechnischer Fachgebiete“
 
 (1) Behandelt werden im Wesentlichen:
 
@@ -193,11 +193,11 @@ Die Referendarinnen und Referendare lernen die Anforderungen, die sich aus der v
 
 (2) Die Referendarinnen und Referendare werden befähigt, die im Hochschulstudium erworbenen Kenntnisse, ergänzt um die Besonderheiten der Wehrtechnik, in ihrem wehrtechnischen Fachgebiet anzuwenden. Einzelheiten regelt der Lehrplan.
 
-§ 15 - Lehrgang Systemtechnik Land“, Systemtechnik Luft“, Systemtechnik See“ oder Systemtechnik Informationstechnologie“
+§ 15 - Lehrgang „Systemtechnik Land“, „Systemtechnik Luft“, „Systemtechnik See“ oder „Systemtechnik Informationstechnologie“
 
 Den Referendarinnen und Referendaren werden, aufbauend auf den wehrtechnischen Fachkenntnissen und den fachgebietsübergreifenden Grundlagen, das zur Planung von Rüstungsprojekten erforderliche Systemverständnis und die erforderlichen Systemkenntnisse in einem der Bereiche Systemtechnik Land, Systemtechnik Luft, Systemtechnik See oder Systemtechnik Informationstechnologie vermittelt. Die Zuordnung der Referendarinnen und Referendare zu einem der Lehrgänge erfolgt durch die Einstellungsbehörde. Einzelheiten regelt der Lehrplan.
 
-§ 16 - Lehrgang Rechtsgrundlagen in der Praxis“
+§ 16 - Lehrgang „Rechtsgrundlagen in der Praxis“
 
 Den Referendarinnen und Referendaren werden die Rechts- und Verwaltungskenntnisse vermittelt, die für die spätere Aufgabenwahrnehmung, insbesondere in Projektleitungen mit einer Vielzahl von Schnittstellen zum nichttechnischen Bereich, erforderlich sind. Einzelheiten regelt der Lehrplan.
 
@@ -277,9 +277,9 @@ Mindestens eine Beamtin oder ein Beamter soll demselben wehrtechnischen Fachgebi
 (1) Durch die schriftlichen Aufsichtsarbeiten sollen die Referendarinnen und Referendare zeigen, dass sie Aufgaben aus dem Bereich der Wehrtechnik rasch und sicher erfassen, in kurzer Frist mit den zugelassenen Hilfsmitteln lösen und das Ergebnis knapp und übersichtlich darstellen können. Die Aufgaben der Aufsichtsarbeiten bestimmt das Oberprüfungsamt auf Vorschlag der Einstellungsbehörde; die Lehrabteilungen der Bundesakademie für Wehrverwaltung und Wehrtechnik unterstützen die Erarbeitung der Aufgaben.
 (2) Jeweils eine Aufgabe der Aufsichtsarbeiten ist zu entnehmen aus
 
-- 1. :: dem Prüfungsgebiet Bundeswehr und Sicherheitspolitik, Technisches Projektmanagement und Wirtschaftlichkeit im Projektmanagement“ (§ 12 Absatz 1 bis 3),
-- 2. :: dem Prüfungsgebiet Fachtechnische Grundlagen einzelner wehrtechnischer Fachgebiete“ (§ 14) und
-- 3. :: dem Prüfungsgebiet Allgemeine Systemtechnik und Systemtechnik Land, Systemtechnik Luft, Systemtechnik See oder Systemtechnik Informationstechnologie“ (§§ 13 und 15).
+- 1. :: dem Prüfungsgebiet „Bundeswehr und Sicherheitspolitik, Technisches Projektmanagement und Wirtschaftlichkeit im Projektmanagement“ (§ 12 Absatz 1 bis 3),
+- 2. :: dem Prüfungsgebiet „Fachtechnische Grundlagen einzelner wehrtechnischer Fachgebiete“ (§ 14) und
+- 3. :: dem Prüfungsgebiet „Allgemeine Systemtechnik und Systemtechnik Land, Systemtechnik Luft, Systemtechnik See oder Systemtechnik Informationstechnologie“ (§§ 13 und 15).
 
 (3) Für die Bearbeitung stehen jeweils sechs Zeitstunden zur Verfügung. Über die Hilfsmittel, die benutzt werden dürfen, entscheidet das Oberprüfungsamt auf Vorschlag der Einstellungsbehörde.
 (4) Die Prüfungsvorschläge und -aufgaben sind bis zum Beginn der jeweiligen Prüfung geheim zu halten.
@@ -287,7 +287,7 @@ Mindestens eine Beamtin oder ein Beamter soll demselben wehrtechnischen Fachgebi
 (6) Die Aufsichtsarbeiten werden anstelle des Namens mit einer Kennziffer versehen. Es wird eine Übersicht mit der Zuordnung der Kennziffern und Namen erstellt, die geheim zu halten ist. Die Übersicht darf den Prüfenden erst nach der endgültigen Bewertung der Aufsichtsarbeiten bekannt gegeben werden.
 (7) Erscheinen Referendarinnen oder Referendare verspätet zu einer Aufsichtsarbeit und wird nicht nach § 27 verfahren, gilt die versäumte Zeit als Bearbeitungszeit.
 (8) Jede Aufsichtsarbeit wird von den Prüfenden unabhängig voneinander nach einem vorab von ihnen gemeinsam festgelegten Bewertungsmaßstab nach § 29 bewertet. Die oder der Zweitprüfende kann Kenntnis von der Bewertung der oder des Erstprüfenden haben. § 20 Absatz 6 Satz 3 und 4 ist entsprechend anzuwenden.
-(9) Eine nicht oder nicht rechtzeitig abgegebene Aufsichtsarbeit gilt als mit ungenügend (0 Rangpunkte)“ bewertet.
+(9) Eine nicht oder nicht rechtzeitig abgegebene Aufsichtsarbeit gilt als mit „ungenügend (0 Rangpunkte)“ bewertet.
 (10) Das Oberprüfungsamt gibt das Ergebnis der jeweiligen Aufsichtsarbeit den Referendarinnen und Referendaren spätestens zwei Monate nach dem Prüfungstag schriftlich bekannt.
 
 § 24 - Praxisarbeit
@@ -297,19 +297,19 @@ Mindestens eine Beamtin oder ein Beamter soll demselben wehrtechnischen Fachgebi
 (3) Die Praxisarbeit ist innerhalb von sechs Wochen nach Aushändigung des Themas anzufertigen und beim Oberprüfungsamt im Original einzureichen. Liegen triftige Gründe vor, kann die Direktorin oder der Direktor des Oberprüfungsamts die Frist auf schriftlichen oder elektronischen Antrag um höchstens drei Wochen verlängern. Der Antrag ist unverzüglich auf dem Dienstweg beim Oberprüfungsamt zu stellen. Die Einstellungsbehörde nimmt zu dem Antrag Stellung.
 (4) Die Praxisarbeit ist ohne fremde Hilfe anzufertigen; alle benutzten Quellen und Hilfsmittel sind anzugeben. In einer Erklärung, die vor dem Textteil der Arbeit einzuheften ist, haben die Referendarinnen und Referendare zu versichern, dass keine anderen als die angegebenen Hilfsmittel verwendet worden sind. Die Erklärung ist eigenhändig zu unterschreiben.
 (5) Die Praxisarbeit wird von den Prüfenden unabhängig voneinander nach einem vorab von ihnen gemeinsam festgelegten Bewertungsmaßstab nach § 29 bewertet. Die oder der Zweitprüfende darf Kenntnis von der Bewertung der oder des Erstprüfenden haben. Weichen die Bewertungen voneinander ab, entscheidet die oder der Vorsitzende des für das wehrtechnische Fachgebiet des Prüflings zuständigen Prüfungsausschusses im Rahmen der vergebenen Rangpunkte; die Entscheidung ist schriftlich zu begründen.
-(6) Haben Referendarinnen oder Referendare die geforderte Praxisarbeit nicht oder nicht fristgerecht abgegeben, gilt sie als mit ungenügend (0 Rangpunkte)“ bewertet.
+(6) Haben Referendarinnen oder Referendare die geforderte Praxisarbeit nicht oder nicht fristgerecht abgegeben, gilt sie als mit „ungenügend (0 Rangpunkte)“ bewertet.
 (7) Das Oberprüfungsamt gibt das Ergebnis der Praxisarbeit den Referendarinnen und Referendaren spätestens zwei Monate nach Abgabetermin schriftlich bekannt.
 (8) Die Verfasserin oder der Verfasser der Praxisarbeit kann frühestens fünf Jahre nach Beendigung des Vorbereitungsdienstes verlangen, dass ihr oder ihm die Arbeit überlassen wird.
 
 § 25 - Zulassung zur mündlichen Prüfung
 
-(1) Das Oberprüfungsamt lässt Referendarinnen und Referendare zur mündlichen Prüfung zu, wenn die Aufsichtsarbeiten und die Praxisarbeit jeweils mit mindestens ausreichend (5 Rangpunkte)“ bewertet worden sind.
+(1) Das Oberprüfungsamt lässt Referendarinnen und Referendare zur mündlichen Prüfung zu, wenn die Aufsichtsarbeiten und die Praxisarbeit jeweils mit mindestens „ausreichend (5 Rangpunkte)“ bewertet worden sind.
 (2) Die Ausbildungsleitung teilt den Referendarinnen und Referendaren im Auftrag des Oberprüfungsamts die Zulassung oder Nichtzulassung rechtzeitig vor der mündlichen Prüfung mit.
 
 § 26 - Mündliche Prüfung
 
 (1) In der mündlichen Prüfung sollen die Referendarinnen und Referendare neben dem speziellen wehrtechnischen Wissen und Können in ihrem Fachgebiet vor allem Verständnis für wehrtechnische, wirtschaftliche und rechtliche Zusammenhänge erkennen lassen. Dabei sollen sie auch Urteilsvermögen, Sicherheit im Auftreten und Ausdrucksfähigkeit beweisen.
-(2) Die mündliche Prüfung wird vor einer Prüfungskommission Land“, einer Prüfungskommission Luft“, einer Prüfungskommission See“ oder einer Prüfungskommission Informationstechnologie“ abgelegt, die sich nach § 20 Absatz 4 zusammensetzt. Die Zuordnung der Referendarinnen und Referendare zu den Prüfungskommissionen richtet sich nach der Teilnahme am Lehrgang nach § 15.
+(2) Die mündliche Prüfung wird vor einer „Prüfungskommission Land“, einer „Prüfungskommission Luft“, einer „Prüfungskommission See“ oder einer „Prüfungskommission Informationstechnologie“ abgelegt, die sich nach § 20 Absatz 4 zusammensetzt. Die Zuordnung der Referendarinnen und Referendare zu den Prüfungskommissionen richtet sich nach der Teilnahme am Lehrgang nach § 15.
 (3) Die mündliche Prüfung bezieht sich auf den gesamten Ausbildungsinhalt des Vorbereitungsdienstes.
 (4) Die oder der Vorsitzende der Prüfungskommission leitet die Prüfung.
 (5) Die Dauer der Prüfung darf 90 Minuten je Referendarin oder Referendar nicht unterschreiten; sie soll 100 Minuten nicht überschreiten. Es sollen nicht mehr als vier Referendarinnen oder Referendare gleichzeitig geprüft werden.
@@ -321,13 +321,13 @@ Mindestens eine Beamtin oder ein Beamter soll demselben wehrtechnischen Fachgebi
 (1) Wer durch eine Erkrankung oder sonstige nicht von ihm zu vertretende Umstände an der Prüfung oder an Teilen der Prüfung nicht teilnehmen kann, hat dies unverzüglich in geeigneter Form nachzuweisen. Eine Erkrankung ist durch Vorlage eines amts-, vertrauens- oder personalärztlichen Zeugnisses oder eines Zeugnisses einer beamteten Ärztin oder eines beamteten Arztes nachzuweisen; ein privatärztliches Zeugnis kann anerkannt werden.
 (2) Referendarinnen oder Referendare können aus wichtigem Grund mit Genehmigung des Oberprüfungsamts von der Prüfung zurücktreten.
 (3) Bei Verhinderung oder Rücktritt nach den Absätzen 1 und 2 gilt die Prüfung oder der betreffende Teil der Prüfung als nicht begonnen. Das Oberprüfungsamt bestimmt, wann die betreffenden Prüfungsteile nachgeholt werden; es entscheidet, ob und inwieweit die bereits abgegebenen Arbeiten gewertet werden.
-(4) Versäumen Referendarinnen oder Referendare ohne ausreichende Entschuldigung einen Prüfungsteil ganz oder teilweise, entscheidet das Oberprüfungsamt, ob die nicht erbrachte Prüfungsleistung nachgeholt werden kann oder mit ungenügend (0 Rangpunkte)“ bewertet wird oder ob die gesamte Prüfung für nicht bestanden erklärt wird.
+(4) Versäumen Referendarinnen oder Referendare ohne ausreichende Entschuldigung einen Prüfungsteil ganz oder teilweise, entscheidet das Oberprüfungsamt, ob die nicht erbrachte Prüfungsleistung nachgeholt werden kann oder mit „ungenügend (0 Rangpunkte)“ bewertet wird oder ob die gesamte Prüfung für nicht bestanden erklärt wird.
 
 § 28 - Täuschung, Ordnungsverstoß
 
 (1) Referendarinnen oder Referendaren, die bei den Aufsichtsarbeiten, der Praxisarbeit oder in der mündlichen Prüfung täuschen, eine Täuschung versuchen oder dazu beitragen oder sonst gegen die Ordnung verstoßen, soll die Fortsetzung der Prüfung unter dem Vorbehalt einer abweichenden Entscheidung des Oberprüfungsamts oder der Prüfungskommission nach Absatz 2 gestattet werden; bei einer erheblichen Störung können sie von der weiteren Teilnahme an dem betreffenden Teil der Prüfung ausgeschlossen werden.
 (2) Über das Vorliegen und die Folgen einer Täuschung, eines Täuschungsversuchs, eines Beitrags zu einem solchen oder eines sonstigen Ordnungsverstoßes während der mündlichen Prüfung entscheidet die Prüfungskommission. § 20 Absatz 6 ist entsprechend anzuwenden.
-(3) Über das Vorliegen und die Folgen einer Täuschung, eines Täuschungsversuchs, eines Beitrags zu einem solchen oder eines sonstigen Ordnungsverstoungenügend (0 Rangpunkte)“ bewerten oder die gesamte Große Staatsprüfung für nicht bestanden erklären.
+(3) Über das Vorliegen und die Folgen einer Täuschung, eines Täuschungsversuchs, eines Beitrags zu einem solchen oder eines sonstigen Ordnungsverstoßes während der Aufsichtsarbeiten oder der Praxisarbeit oder einer Täuschung, die nach Abgabe der Arbeiten festgestellt wird, entscheidet das Oberprüfungsamt nach Anhörung der oder des Vorsitzenden der Prüfungskommission. Die Prüfungskommission oder das Oberprüfungsamt kann je nach der Schwere der Verfehlung die Wiederholung einzelner oder mehrerer Prüfungsleistungen anordnen, die Prüfungsleistung mit „ungenügend (0 Rangpunkte)“ bewerten oder die gesamte Große Staatsprüfung für nicht bestanden erklären.
 (4) Wird eine Täuschung erst nach Abschluss der mündlichen Prüfung bekannt oder kann sie erst nach Abschluss der Prüfung nachgewiesen werden, kann das Oberprüfungsamt nach Anhörung der Einstellungsbehörde die Große Staatsprüfung innerhalb von fünf Jahren nach dem Tag der mündlichen Prüfung für nicht bestanden erklären. Der Bescheid ist mit einer Rechtsbehelfsbelehrung zu versehen.
 (5) Die Referendarin oder der Referendar ist vor der Entscheidung nach den Absätzen 2 bis 4 zu hören.
 
@@ -370,7 +370,7 @@ Durchschnittsrangpunktzahlen werden aus den Rangpunkten errechnet; sie werden au
 
 § 30 - Gesamtergebnis
 
-(1) Die Groausreichend (5 Rangpunkte oder Durchschnittsrangpunktzahl 5)“ bewertet worden ist.
+(1) Die Große Staatsprüfung ist bestanden, wenn jeder Prüfungsteil nach § 21 Absatz 2 mindestens mit „ausreichend (5 Rangpunkte oder Durchschnittsrangpunktzahl 5)“ bewertet worden ist.
 (2) Im Anschluss an die mündliche Prüfung setzt die Prüfungskommission die Abschlussnote fest. Dabei werden berücksichtigt:\\
 \\
 | - 1. :: die Rangpunkte der Aufsichts-\\  | mit je 10 Prozent, |
@@ -396,7 +396,7 @@ Soweit die abschließend errechnete Durchschnittsrangpunktzahl mindestens 5 oder
 
 § 32 - Erwerb der Laufbahnbefähigung
 
-Mit Bestehen der GroBauassessorin“ oder Bauassessor“ zu führen.
+Mit Bestehen der Großen Staatsprüfung erwerben die Referendarinnen und Referendare die Befähigung für den höheren technischen Verwaltungsdienst. Sie sind berechtigt, die Berufsbezeichnung „Bauassessorin“ oder „Bauassessor“ zu führen.
 
 § 33 - Prüfungsakten, Einsichtnahme
 

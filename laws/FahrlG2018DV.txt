@@ -6,12 +6,12 @@ Ausfertigungsdatum: 02.01.2018
 
 Inhaltsverzeichnis
 
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 
 § 1 - Sprachtest; Anpassungslehrgang und Eignungsprüfung
 
@@ -61,7 +61,7 @@ In den Unterrichtsräumen müssen während des theoretischen Unterrichts Lehrmit
 (1) Als Ausbildungsfahrzeuge sind die Fahrzeuge zu verwenden, die den Prüfungsfahrzeugen der Anlage 7 Nummer 2.2 der Fahrerlaubnis-Verordnung entsprechen. Abweichend von Anlage 7 Nummer 2.2.4 der Fahrerlaubnis-Verordnung dürfen für die Ausbildung der Klasse B alle Personenkraftwagen verwendet werden, die eine durch die Bauart bestimmte Höchstgeschwindigkeit von mindestens 130 km/h erreichen. Bei der Klasse A dürfen zu Beginn der Ausbildung Krafträder der Klassen A2 und A1 gemäß Anlage 7 Nummer 2.2.2 und 2.2.3 der Fahrerlaubnis-Verordnung verwendet werden. Bei der Klasse A2 dürfen zu Beginn der Ausbildung Krafträder der Klasse A1 gemäß Anlage 7 Nummer 2.2.3 der Fahrerlaubnis-Verordnung verwendet werden.
 (2) Bei der Ausbildung auf Fahrzeugen der Klassen A1, A2, A, AM und T muss eine geeignete technische Einrichtung zur Verfügung stehen, die es dem Fahrlehrer ermöglicht mit seinem Fahrschüler zu kommunizieren. Die Fahrzeuge der Klassen B, C1, C, D1 und D müssen mit einer Doppelbedienungseinrichtung ausgestattet sein, für die eine Betriebserlaubnis nach der Straßenverkehrs-Zulassungs-Ordnung erteilt worden ist. Der Fahrlehrer muss in der Lage sein, alle wesentlichen Verkehrsvorgänge hinter dem Fahrzeug über Spiegel zu beobachten.
 (3) Die Fahrzeuge der Klassen C1, C, D1 und D müssen mit einem Fahrtenschreiber, der den Vorgaben der Verordnung (EU) Nr. 165/2014 des Europäischen Parlaments und des Rates vom 4. Februar 2014 über Fahrtenschreiber im Straßenverkehr, zur Aufhebung der Verordnung (EWG) Nr. 3821/85 des Rates über das Kontrollgerät im Straßenverkehr und zur Änderung der Verordnung (EG) Nr. 561/2006 des Europäischen Parlaments und des Rates zur Harmonisierung bestimmter Sozialvorschriften im Straßenverkehr (ABl. L 60 vom 28.2.2014, S. 1; L 246 vom 23.9.2015, S. 11) entspricht, ausgestattet sein.
-(4) Die Fahrzeuge dürfen bei der Ausbildung an der Rückseite, zusätzlich auch an der Vorderseite, ein Schild mit der Aufschrift FAHRSCHULE“ in roter Schrift auf weißem Grund führen, das auch retroreflektierend sein kann. Neben oder anstelle einer solchen Kennzeichnung ist auch ein entsprechendes Schild auf dem Dach quer zur Fahrtrichtung zulässig, das auch retroreflektierend sein kann. Das Schild darf nicht auf anderen als Ausbildungsfahrten verwendet werden. Es muss mindestens 350 Millimeter lang und 80 Millimeter breit sein; es darf höchstens 520 Millimeter lang und 110 Millimeter breit sein. Schilder mit zusätzlicher Aufschrift sowie sonstige Einrichtungen, die zu Verwechslungen mit dem Schild Anlass geben oder dessen Wirkung beeinträchtigen können, dürfen im Straßenverkehr nicht verwendet werden; auf eine Ausbildung der Fahrerlaubnisklassen AM, A1, A2, A und T darf zusätzlich hingewiesen werden.
+(4) Die Fahrzeuge dürfen bei der Ausbildung an der Rückseite, zusätzlich auch an der Vorderseite, ein Schild mit der Aufschrift „FAHRSCHULE“ in roter Schrift auf weißem Grund führen, das auch retroreflektierend sein kann. Neben oder anstelle einer solchen Kennzeichnung ist auch ein entsprechendes Schild auf dem Dach quer zur Fahrtrichtung zulässig, das auch retroreflektierend sein kann. Das Schild darf nicht auf anderen als Ausbildungsfahrten verwendet werden. Es muss mindestens 350 Millimeter lang und 80 Millimeter breit sein; es darf höchstens 520 Millimeter lang und 110 Millimeter breit sein. Schilder mit zusätzlicher Aufschrift sowie sonstige Einrichtungen, die zu Verwechslungen mit dem Schild Anlass geben oder dessen Wirkung beeinträchtigen können, dürfen im Straßenverkehr nicht verwendet werden; auf eine Ausbildung der Fahrerlaubnisklassen AM, A1, A2, A und T darf zusätzlich hingewiesen werden.
 
 § 6 - Ausbildungsnachweis
 
@@ -235,7 +235,7 @@ Im örtlichen Fahrlehrerregister sind für die Zwecke des § 58 des Fahrlehrerge
 
 (2) Fahrlehrerscheine und befristete Fahrlehrerscheine, die der bis zum 31. Dezember 2017 geltenden Fassung der Anlagen 1.1 und 1.2 entsprechen, bleiben gültig.
 (3) Abweichend von § 9 Absatz 1 Nummer 3 dürfen Fahrlehrer, die bei Inkrafttreten dieses Gesetzes nicht die Fahrlehrerlaubnis der Klasse DE besitzen und als Lehrkraft an einer Fahrlehrerausbildungsstätte tätig waren, weiterhin eingesetzt werden.
-(4) Abweichend von § 9 Absatz 1 Satz 1 Nummer 4 kann die Lehrkraft mit abgeschlossenem Studium der Erziehungswissenschaft durch eine Lehrkraft mit abgeschlossenem Studium der Psychologie ersetzt werden, die am 31. Dezember 1998 bereits drei Jahre lang die Sachgebiete pädagogische und psychologische Grundsätze, Unterrichtsgestaltung“ an der Fahrlehrerausbildungsstätte unterrichtet hat.
+(4) Abweichend von § 9 Absatz 1 Satz 1 Nummer 4 kann die Lehrkraft mit abgeschlossenem Studium der Erziehungswissenschaft durch eine Lehrkraft mit abgeschlossenem Studium der Psychologie ersetzt werden, die am 31. Dezember 1998 bereits drei Jahre lang die Sachgebiete „pädagogische und psychologische Grundsätze, Unterrichtsgestaltung“ an der Fahrlehrerausbildungsstätte unterrichtet hat.
 (5) Abweichend von § 14 Absatz 2 Nummer 2 dürfen Personen, die bis zum 31. Dezember 1998 Einweisungslehrgänge im Sinne des § 31 des Fahrlehrergesetzes in der bis zum 31. Dezember 1998 geltenden Fassung durchgeführt haben, auch Lehrgänge nach § 45 des Fahrlehrergesetzes in der ab dem 1. Januar 1999 geltenden Fassung durchführen.
 (6) Abweichend von § 15 darf für die Überwachung nach § 51 Absatz 2 Nummer 1 des Fahrlehrergesetzes auch Personal eingesetzt werden, das bis zum 31. Dezember 2017 bereits diese Aufgabe wahrgenommen hat. Satz 1 gilt auch für das ab dem 1. Januar 2018 für die pädagogische Überwachung nach § 51 Absatz 2 Nummer 2 des Fahrlehrergesetzes eingesetzte Personal, sofern dieses eine der in § 15 Absatz 2 geforderten neuntägigen Basisausbildung vergleichbare Ausbildung absolviert hat. In diesen Fällen beginnt die Frist nach § 15 Absatz 3 am 1. Januar 2018.
 (7) Ausbildungsnachweise und Ausbildungsbescheinigungen, die nach dem bis zum Ablauf des 31. Dezember 2019 vorgeschriebenen Muster ausgefertigt wurden, bleiben bis zum Ablauf des 1. Januar 2022 gültig.
@@ -260,7 +260,7 @@ Anlage 1.1 - (zu § 2 Absatz 1)Anwärterschein Fahrlehrer
 (Fundstelle: BGBl. I 2018, 9)
 Zusammenhängend auf Neobondpapier in einer Stärke von 150 g/m² ohne optische Aufheller, Farbe weiß, Breite 222 mm, Höhe 105 mm. In das Trägermaterial sind die folgenden fälschungserschwerenden Sicherheitsmerkmale eingearbeitet:
 
-- 1. :: als Wasserzeichen das gesetzlich für die Bundesdruckerei geschützte Motiv Stilisierter Bundesadler“,
+- 1. :: als Wasserzeichen das gesetzlich für die Bundesdruckerei geschützte Motiv „Stilisierter Bundesadler“,
 - 2. :: nur unter UV-Licht sichtbare rot und blau fluoreszierende Melierfasern,
 - 3. :: chemische Reagenzien.
 
@@ -274,7 +274,7 @@ Anlage 1.2 - (zu § 2 Absatz 1)Fahrlehrerschein
 (Fundstelle: BGBl. I 2018, 10)
 Zusammenhängend auf Neobondpapier in einer Stärke von 150 g/m² ohne optische Aufheller, Farbe gelb, Breite 222 mm, Höhe 105 mm. In das Trägermaterial sind die folgenden fälschungserschwerenden Sicherheitsmerkmale eingearbeitet:
 
-- 1. :: als Wasserzeichen das gesetzlich für die Bundesdruckerei geschützte Motiv Stilisierter Bundesadler“,
+- 1. :: als Wasserzeichen das gesetzlich für die Bundesdruckerei geschützte Motiv „Stilisierter Bundesadler“,
 - 2. :: nur unter UV-Licht sichtbare rot und blau fluoreszierende Melierfasern,
 - 3. :: chemische Reagenzien.
 

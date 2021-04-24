@@ -117,37 +117,37 @@ E 1412
 Distärkephosphat
 E 1413
 Phosphatiertes Distärkephosphat
-
+ 
 Aluminiumoxid
-
+ 
 Butadien-Styrol-Copolymerisate
-
+ 
 Gutta
-
+ 
 Isobutylen-Isopropen-Copolymerisate
-
+ 
 Kautschuk
-
+ 
 Mastix
-
+ 
 Mikrokristalline Wachse
-
+ 
 Kolophonium
-
+ 
 Kolophonester
-
+ 
 Paraffine
-
+ 
 Polyethylen
-
+ 
 Polyisobutylen
-
+ 
 Polyvinylester der unverzweigten Fettsäuren C_{2} bis C_{18}
 E 1520
 Propan-1,2-diol (Propylenglycol), als Kaubase
-
+ 
 Wachsester
-
+ 
 Wollwachs
 
 Anlage 2 - (zu § 3 Abs. 1)  Verkehrsbezeichnungen und Reinheitsanforderungen von für technologische Zwecke zugelassene Zusatzstoffe
@@ -445,7 +445,7 @@ Litholrubin BK
 
 Richtlinie 2008/128/EG vom 22.12.2008, ABl. L 6 vom 10.1.2009, S. 20
 
-
+ 
 
 Aluminiumlacke
 
@@ -2302,21 +2302,21 @@ Paraffin; Gemische gereinigter, überwiegend geradkettiger, gesättigter Kohlenw
 
     Entsprechend der Empfehlung XXV der Kunststoffkommission des Bundesgesundheitsamtes Stand: 1.2.1995
 
-
+ 
 
 Hartparaffin, natürlich
 
 )
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 Hartparaffin, synthetisch
 
@@ -2324,7 +2324,7 @@ Paraffin; Durch Reaktion von Kohlenmonoxid mit Wasserstoff hergestellt
 
 )
 
-
+ 
 
 \\
 Polyethylen
@@ -2343,7 +2343,7 @@ Lanolin;
 
 siehe Arzneibuch
 
-
+ 
 
 siehe Arzneibuch
 
@@ -2351,7 +2351,7 @@ Gutta
 
 Gereinigte Pflanzenexudate (Gummen)
 
-
+ 
 
 )
 
@@ -2365,7 +2365,7 @@ Kautschuk
 
 Gereinigte Pflanzenexudate vorwiegend von Hevea brasiliensis
 
-
+ 
 
 )
 
@@ -2373,7 +2373,7 @@ Kolophonium
 
 Der bei der Terpentinöldestillation zurückbleibende, bis zur Klärung geschmolzene Teil des Kiefernharzes
 
-
+ 
 
 )
 
@@ -2381,7 +2381,7 @@ Mastix
 
 Harz von Pistatia lentiscus L. (Sapindaceae)
 
-
+ 
 
 )
 
@@ -2407,9 +2407,9 @@ Kolophonester
 
 - H: :: Glycerin-, Methyl- und Pentaerythritester des Kolophoniums, auch hydriert oder polymerisiert
 
+ 
 
-
-
+ 
 
 Frei von technisch vermeidbaren Resten monomerer Ausgangsstoffe und von zugesetzten extrahierbaren Fabrikationsstoffen sowie von Chinon, Hydrochinon und Formaldehyd
 
@@ -2419,7 +2419,7 @@ Im wesentlichen aus Kohlenstoff bestehende, großoberflächige Produkte, die aus
 
 Schwarze, leichte, trockene, geruch- und geschmacklose Pulver und Granulate
 
-
+ 
 
 In 20%iger Salpetersäure lösliche Anteile
 
@@ -2435,7 +2435,7 @@ H_{2}O_{2}, Perhydrol, Wasserstoffsuperoxid
 
 siehe Arzneibuch
 
-
+ 
 
 siehe Arzneibuch
 
@@ -2445,7 +2445,7 @@ Monoammoniumorthophosphat
 
 - A: :: Weiße hygroskopische Kristalle
 
-
+ 
 
 Fluor max 10 mg/kg
 
@@ -2455,7 +2455,7 @@ Diammoniumorthophosphat
 
 - G: :: min 97% i.T.
 
-
+ 
 
 Liste A
 
@@ -2464,9 +2464,9 @@ Calciumphytat Calcium-Magnesiumphytat
 Salze der Inosithexaphosphorsäure, Hexa-O-phosphono-Inosit, C_{6}H_{18}O_{24}P_{6} bzw.\\
 C_{6}H_{6}(H_{2}PO_{4}) _{6}
 
+ 
 
-
-
+ 
 
 Liste A
 
@@ -2474,9 +2474,9 @@ Ethyllactat
 
 C_{5}H_{10}O_{3}
 
+ 
 
-
-
+ 
 
 Liste A
 
@@ -2504,9 +2504,9 @@ Schwefel
 
 S
 
+ 
 
-
-
+ 
 
 Liste A
 
@@ -2514,9 +2514,9 @@ Natriumhypochlorit
 
 Natriumsalz der unterchlorigen Säure
 
+ 
 
-
-
+ 
 
 Liste A
 
@@ -2524,9 +2524,9 @@ Cystin
 
 C_{6}H_{12}N_{2}O_{4}S_{2}, Dimeres L-Cystein, 2,2'-Diamino-3,3' dithio-di-propion-säure
 
+ 
 
-
-
+ 
 
 Liste A
 
@@ -2534,9 +2534,9 @@ Silberchlorid
 
 AgCl
 
+ 
 
-
-
+ 
 
 Liste A
 
@@ -2544,9 +2544,9 @@ Silbersulfat
 
 Ag_{2}SO_{4}
 
+ 
 
-
-
+ 
 
 Liste A
 
@@ -2554,9 +2554,9 @@ Natriumsilberchloridkomplex
 
 NaAgCl_{2}
 
+ 
 
-
-
+ 
 
 Liste A
 
@@ -2572,13 +2572,13 @@ Kopal
 
 Fossile, semi-fossile und rezente Harze natürlichen Ursprungs bezogen auf die alkohollöslichen Anteile (CAS-Nr. 9000-14-0)
 
-
+ 
 
 Liste A
 
 - *) :: Die Reinheitsanforderungen beziehen sich auf die angegebenen Gehalte. Bei abweichenden Gehalten muß umgerechnet werden.
 
-
+ 
 
 Die in den Listen B und C verwendeten Abkürzungen bedeuten:
 
@@ -2682,7 +2682,7 @@ E 170
 
 Calciumcarbonate
 
-
+ 
 
 qs*)
 
@@ -2702,7 +2702,7 @@ E 331
 
 Natriumcitrate
 
-
+ 
 
 qs*)
 
@@ -2786,7 +2786,7 @@ Konjak
 - i) :: Konjakgummi
 - ii) :: Konjak-Glukomannan
 
-
+ 
 
 qs*)
 
@@ -2850,7 +2850,7 @@ E 440
 
 Pektine
 
-
+ 
 
 qs*)
 
@@ -2866,7 +2866,7 @@ E 459
 
 Beta-Cyclodextrin
 
-
+ 
 
 1 g/kg
 
@@ -2875,9 +2875,9 @@ E 460
 - i) :: Mikrokristalline Cellulose
 - ii) :: Cellulosepulver
 
+ 
 
-
-
+ 
 
 E 461
 
@@ -2901,7 +2901,7 @@ Ethylmethylcellulose
 
 E 466
 
-Carboxymethylcellulose, Natriumcarboxymethylcellulose
+Carboxymethylcellulose, Natriumcarboxymethylcellulose 
 
 E 468
 
@@ -2915,7 +2915,7 @@ E 469
 
 Enzymatisch hydrolysierte Carboxymethylcellulose
 
-
+ 
 
 qs*)
 
@@ -3049,7 +3049,7 @@ E 501
 
 Kaliumcarbonate
 
-
+ 
 
 qs*)
 
@@ -3185,7 +3185,7 @@ E 953
 
 Isomalt
 
-
+ 
 
 qs*)
 
@@ -3232,7 +3232,7 @@ E 1404
 
 Oxidierte Stärke
 
-
+ 
 
 qs*)
 

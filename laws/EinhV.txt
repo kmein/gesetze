@@ -48,7 +48,7 @@ Anlage 1 - (zu § 1)Gesetzliche Einheiten mit besonderem Namen
 (Fundstelle: BGBl. I 1985, 2273 - 2274;\\
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 \\
-
+ 
 Einheit
 Größe
 Nr.
@@ -108,7 +108,7 @@ gon
 ebener Winkel
 13
 Grad
-
+°
 ebener Winkel
 14
 Grad Celsius
@@ -168,7 +168,7 @@ m
 Länge
 28
 metrisches Karat
-
+ 
 Masse von Edelsteinen
 29
 Millimeter-Quecksilbersäule
@@ -248,7 +248,7 @@ var
 Blindleistung in der elektrischen Energietechnik
 48
 Vollwinkel
-
+ 
 ebener Winkel
 49
 Volt
@@ -280,7 +280,7 @@ Vorsatzzeichen
 Yotta
 Y
 2
-10²
+10²¹
 Zetta
 Z
 3
@@ -292,7 +292,7 @@ E
 Peta
 P
 5
-10¹
+10¹²
 Tera
 T
 6
@@ -304,15 +304,15 @@ G
 Mega
 M
 8
-10
+10³
 Kilo
 k
 9
-10
+10²
 Hekto
 h
 10
-10
+10¹
 Deka
 da
 11

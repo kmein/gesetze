@@ -12,7 +12,7 @@ Allgemeine Bestimmungen
 Personenstand, Aufgaben des Standesamts
 § 2
 Standesbeamte
-
+ 
 Kapitel 2
 Führung der Personenstandsregister
 § 3
@@ -31,13 +31,13 @@ Verlust eines Personenstandsregisters
 Beurkundungsgrundlagen
 § 10
 Auskunfts- und Nachweispflicht
-
+ 
 Kapitel 3
 Eheschließung
-
-
+ 
+ 
 Abschnitt 1
-
+ 
 Zuständigkeit, Anmeldung und Eheschließung
 § 11
 Zuständigkeit und Standesamtsvorbehalt
@@ -49,25 +49,25 @@ Prüfung der Ehevoraussetzungen
 Eheschließung
 § 15
 Eintragung in das Eheregister
-
-
+ 
+ 
 Abschnitt 2
-
+ 
 Fortführung des Eheregisters
 § 16
 Fortführung
-
+ 
 Kapitel 4
 Lebenspartnerschaft
 § 17
 Fortführung des Lebenspartnerschaftsregisters
-
+ 
 Kapitel 5
 Geburt
-
-
+ 
+ 
 Abschnitt 1
-
+ 
 Anzeige und Beurkundung
 § 18
 Anzeige
@@ -77,10 +77,10 @@ Anzeige durch Personen
 Anzeige durch Einrichtungen
 § 21
 Eintragung in das Geburtenregister
-
-
+ 
+ 
 Abschnitt 2
-
+ 
 Besonderheiten
 § 22
 Fehlende Angaben
@@ -92,20 +92,20 @@ Findelkind
 Person mit ungewissem Personenstand
 § 26
 Nachträgliche Ermittlung des Personenstandes
-
-
+ 
+ 
 Abschnitt 3
-
+ 
 Fortführung des Geburtenregisters
 § 27
 Feststellung und Änderung des Personenstandes, sonstige Fortführung
-
+ 
 Kapitel 6
 Sterbefall
-
-
+ 
+ 
 Abschnitt 1
-
+ 
 Anzeige und Beurkundung
 § 28
 Anzeige
@@ -115,22 +115,22 @@ Anzeige durch Personen
 Anzeige durch Einrichtungen und Behörden
 § 31
 Eintragung in das Sterberegister
-
-
+ 
+ 
 Abschnitt 2
-
+ 
 Fortführung des Sterberegisters; Todeserklärungen
 § 32
 Fortführung
 § 33
 Todeserklärungen
-
+ 
 Kapitel 7
 Besondere Beurkundungen
-
-
+ 
+ 
 Abschnitt 1
-
+ 
 Beurkundungen mit Auslandsbezug; besondere Beurkundungsfälle
 § 34
 Eheschließungen im Ausland oder vor ermächtigten Personen im Inland
@@ -146,10 +146,10 @@ Sterbefälle in ehemaligen Konzentrationslagern
 Ehefähigkeitszeugnis
 § 40
 Zweifel über örtliche Zuständigkeit für Beurkundung
-
-
+ 
+ 
 Abschnitt 2
-
+ 
 Familienrechtliche Beurkundungen
 § 41
 Erklärungen zur Namensführung von Ehegatten
@@ -165,22 +165,22 @@ Erklärungen zur Namensführung des Kindes
 Erklärung zur Reihenfolge der Vornamen
 § 45b
 Erklärung zur Geschlechtsangabe und Vornamensführung bei Personen mit Varianten der Geschlechtsentwicklung
-
+ 
 Kapitel 8
 Berichtigungen und gerichtliches Verfahren
-
-
+ 
+ 
 Abschnitt 1
-
+ 
 Berichtigungen ohne Mitwirkung des Gerichts
 § 46
 Änderung einer Anzeige
 § 47
 Berichtigung nach Abschluss der Beurkundung
-
-
+ 
+ 
 Abschnitt 2
-
+ 
 Gerichtliches Verfahren
 § 48
 Berichtigung auf Anordnung des Gerichts
@@ -194,13 +194,13 @@ Gerichtliches Verfahren
 Öffentliche Bekanntmachung der Entscheidung
 § 53
 Wirksamwerden gerichtlicher Entscheidungen; Beschwerde
-
+ 
 Kapitel 9
 Beweiskraft und Benutzung der Personenstandsregister
-
-
+ 
+ 
 Abschnitt 1
-
+ 
 Beweiskraft; Personenstandsurkunden
 § 54
 Beweiskraft der Personenstandsregister und -urkunden
@@ -216,10 +216,10 @@ Lebenspartnerschaftsurkunde
 Geburtsurkunde
 § 60
 Sterbeurkunde
-
-
+ 
+ 
 Abschnitt 2
-
+ 
 Benutzung der Personenstandsregister
 § 61
 Allgemeine Vorschriften für die Benutzung
@@ -239,7 +239,7 @@ Einrichtung zentraler Register
 Mitteilungen an Behörden und Gerichte von Amts wegen
 § 68a
 Rechte der betroffenen Person
-
+ 
 Kapitel 10
 Zwangsmittel, Bußgeldvorschriften, Besonderheiten
 § 69
@@ -250,14 +250,14 @@ Bußgeldvorschriften
 Personenstandsbücher aus Grenzgebieten
 § 72
 (weggefallen)
-
+ 
 Kapitel 11
 Verordnungsermächtigungen
 § 73
 Ermächtigungen zum Erlass von Rechtsverordnungen
 § 74
 Rechtsverordnungen der Landesregierungen
-
+ 
 Kapitel 12
 Übergangsvorschriften
 § 75
@@ -473,7 +473,7 @@ Bei Geburten in Krankenhäusern und sonstigen Einrichtungen, in denen Geburtshil
 
 (1) Kann der Anzeigende die Vornamen des Kindes nicht angeben, so müssen sie binnen eines Monats mündlich oder schriftlich angezeigt werden. Sie werden alsdann bei dem Geburtseintrag beurkundet.
 (2) Die Vornamen des Kindes können nachträglich auch bei einem anderen Standesamt als dem, das die Geburt des Kindes beurkundet hat, angezeigt werden.
-(3) Kann das Kind weder dem weiblichen noch dem männlichen Geschlecht zugeordnet werden, so kann der Personenstandsfall auch ohne eine solche Angabe oder mit der Angabe divers“ in das Geburtenregister eingetragen werden.
+(3) Kann das Kind weder dem weiblichen noch dem männlichen Geschlecht zugeordnet werden, so kann der Personenstandsfall auch ohne eine solche Angabe oder mit der Angabe „divers“ in das Geburtenregister eingetragen werden.
 
 § 23 - Zwillings- oder Mehrgeburten
 
@@ -790,7 +790,7 @@ Ferner können sonstige unrichtige oder unvollständige Eintragungen berichtigt 
 - 3. :: Ort und Tag der Eheschließung,
 - 4. :: die rechtliche Zugehörigkeit eines Ehegatten zu einer Religionsgemeinschaft, sofern sich die Zugehörigkeit aus dem Registereintrag ergibt.
 
-In dem Feld Weitere Angaben aus dem Register“ sind anzugeben
+In dem Feld „Weitere Angaben aus dem Register“ sind anzugeben
 
 - 1. :: die Auflösung der Ehe,
 - 2. :: das Nichtbestehen der Ehe,
@@ -809,7 +809,7 @@ In dem Feld Weitere Angaben aus dem Register“ sind anzugeben
 - 3. :: Ort und Tag der Begründung der Lebenspartnerschaft,
 - 4. :: die rechtliche Zugehörigkeit eines Lebenspartners zu einer Religionsgemeinschaft, sofern sich die Zugehörigkeit aus dem Registereintrag ergibt.
 
-In dem Feld Weitere Angaben aus dem Register“ sind anzugeben
+In dem Feld „Weitere Angaben aus dem Register“ sind anzugeben
 
 - 1. :: die Auflösung der Lebenspartnerschaft,
 - 2. :: das Nichtbestehen der Lebenspartnerschaft,

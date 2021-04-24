@@ -33,7 +33,7 @@ für Erzeugnisse nach § 2 Abs. 1 Nr. 1,
 "Cristallo Superiore 30 v.H."
 "Volloodkristal 30 v.H."
 "Krystal 30 v.H."
-
+ 
 "Bleikristall 24 v.H."
 für Erzeugnisse nach § 2 Abs. 1 Nr. 2,
 "Lead crystal 24 v.H."
@@ -41,12 +41,12 @@ für Erzeugnisse nach § 2 Abs. 1 Nr. 2,
 "Cristallo al Piombo 24 v.H."
 "Loodkristal 24 v.H."
 "Krystal 24 v.H."
-
+ 
 "Preßbleikristall"
 für Erzeugnisse nach § 2 Abs. 1 Nr. 3,
 "Bleikristall gepreßt"
 (wobei beide Wörter in gleichem Schriftbild erscheinen müssen)
-
+ 
 "Kristallglas"
 für Erzeugnisse nach § 2 Abs. 1 Nr. 4
 \\

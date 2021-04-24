@@ -6,7 +6,7 @@ Ausfertigungsdatum: 07.12.2020
 
 § 1 - Errichtung, Sitz, Außenstellen
 
-(1) Im Geschäftsbereich des Bundesministeriums der Finanzen wird das Informationstechnikzentrum Bund in eine bundesunmittelbare nichtrechtsfähige Anstalt des öffentlichen Rechts umgewandelt (Bundesanstalt). Sie ist eine Bundesoberbehörde und trägt die Bezeichnung Informationstechnikzentrum Bund (ITZBund)“.
+(1) Im Geschäftsbereich des Bundesministeriums der Finanzen wird das Informationstechnikzentrum Bund in eine bundesunmittelbare nichtrechtsfähige Anstalt des öffentlichen Rechts umgewandelt (Bundesanstalt). Sie ist eine Bundesoberbehörde und trägt die Bezeichnung „Informationstechnikzentrum Bund (ITZBund)“.
 (2) Die Bundesanstalt hat ihren Sitz in Bonn. Sie kann Außenstellen als Hauptstellen oder Nebenstellen einrichten.
 
 § 2 - Aufgaben und Leistungen der Bundesanstalt
@@ -94,4 +94,4 @@ Der Auftragsverarbeiter der Bundesanstalt darf sich nur mit Zustimmung des Bunde
 
 § 11 - Dienstsiegel
 
-Die Bundesanstalt führt als Dienstsiegel das kleine Bundessiegel mit der Umschrift Informationstechnikzentrum Bund -- ITZBund“.
+Die Bundesanstalt führt als Dienstsiegel das kleine Bundessiegel mit der Umschrift „Informationstechnikzentrum Bund -- ITZBund“.

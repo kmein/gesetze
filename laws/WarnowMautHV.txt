@@ -33,7 +33,7 @@ Fahrzeugart (Beispiele)
 1
 < 1,90 m
 >= 2
-
+ 
 Pkw, Kraftrad
 2
 >= 1,90 m und < 2,40 m
@@ -56,7 +56,7 @@ Mauttabelle einschließlich der gesetzlichen Umsatzsteuer von 16%
 Kategorie
 Sommer (15. Juni - 15. September)
 Winter (1. Januar - 14. Juni/ 16. September - 31. Dezember)
-
+ 
 BGE
 AGE
 BGE

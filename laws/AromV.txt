@@ -29,7 +29,7 @@ Verzehrfertige Lebensmittel, die Chinin enthalten, dürfen gewerbsmäßig nur in
 
 § 4 - Hinweise auf natürliche Herkunft
 
-Aromen, die zur Abgabe an Verbraucherinnen und Verbraucher im Sinne des § 3 Nummer 4 des Lebensmittel- und Futtermittelgesetzbuches bestimmt sind, und in deren Verkehrsbezeichnung der Begriff natürlich“ verwendet wird, dürfen gewerbsmänatürlich“ im Einklang mit Artikel 17 Absatz 2 in Verbindung mit Artikel 16 der Verordnung (EG) Nr. 1334/2008 verwendet wird.
+Aromen, die zur Abgabe an Verbraucherinnen und Verbraucher im Sinne des § 3 Nummer 4 des Lebensmittel- und Futtermittelgesetzbuches bestimmt sind, und in deren Verkehrsbezeichnung der Begriff „natürlich“ verwendet wird, dürfen gewerbsmäßig nur in den Verkehr gebracht werden, wenn der Begriff „natürlich“ im Einklang mit Artikel 17 Absatz 2 in Verbindung mit Artikel 16 der Verordnung (EG) Nr. 1334/2008 verwendet wird.
 
 §§ 4a u. 4b - (weggefallen)
 
@@ -56,7 +56,7 @@ Aromen und alkoholfreie Erfrischungsgetränke, die Chinin oder dessen Salze enth
 - 1. :: entgegen § 4 dort genannte Aromen in den Verkehr bringt oder
 - 2. :: entgegen § 5 dort genannte Erzeugnisse in den Verkehr bringt.
 
-(3a) Nach § 59 Absatz 3 Nummer 2 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer entgegen Artikel 14 Absatz 1 Satz 1 in Verbindung mit Artikel 16 der Verordnung (EG) Nr. 1334/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Aromen und bestimmte Lebensmittelzutaten mit Aromaeigenschaften zur Verwendung in und auf Lebensmitteln sowie zur Änderung der Verordnung (EWG) Nr. 1601/91 des Rates, der Verordnungen (EG) Nr. 2232/96 und (EG) Nr. 110/2008 und der Richtlinie 2000/13/EG (ABl. L 354 vom 31.12.2008, S. 34) Aromen in den Verkehr bringt, in deren Verkehrsbezeichnung der Begriff natürlich“ nicht richtig verwendet wird.
+(3a) Nach § 59 Absatz 3 Nummer 2 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer entgegen Artikel 14 Absatz 1 Satz 1 in Verbindung mit Artikel 16 der Verordnung (EG) Nr. 1334/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Aromen und bestimmte Lebensmittelzutaten mit Aromaeigenschaften zur Verwendung in und auf Lebensmitteln sowie zur Änderung der Verordnung (EWG) Nr. 1601/91 des Rates, der Verordnungen (EG) Nr. 2232/96 und (EG) Nr. 110/2008 und der Richtlinie 2000/13/EG (ABl. L 354 vom 31.12.2008, S. 34) Aromen in den Verkehr bringt, in deren Verkehrsbezeichnung der Begriff „natürlich“ nicht richtig verwendet wird.
 (4) Nach § 59 Abs. 3 Nr. 1 des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer entgegen Artikel 4 Abs. 2 der Verordnung (EG) Nr. 2065/2003 des Europäischen Parlaments und des Rates vom 10. November 2003 über Raucharomen zur tatsächlichen oder beabsichtigten Verwendung in oder auf Lebensmitteln (ABl. EU Nr. L 309 S. 1) ein Raucharoma oder ein Lebensmittel, in oder auf dem ein Raucharoma vorhanden ist, in den Verkehr bringt.
 (5) Wer eine in Absatz 2, 3, 3a oder Absatz 4 bezeichnete Handlung fahrlässig begeht, handelt nach § 60 Abs. 1 des Lebensmittel- und Futtermittelgesetzbuches ordnungswidrig.
 (6) Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 14 Absatz 1 Satz 1 in Verbindung mit Artikel 15 Absatz 1 oder entgegen Artikel 17 Absatz 1 der Verordnung (EG) Nr. 1334/2008 Aromen in den Verkehr bringt, die nicht oder nicht in der vorgeschriebenen Weise gekennzeichnet sind.
@@ -88,7 +88,7 @@ E-Nummer
 
 Aromastoffe
 
-
+ 
 
 Höchstmenge mg/kg verzehrfertiges Lebensmittel
 
@@ -96,43 +96,43 @@ Höchstmenge mg/kg verzehrfertiges Lebensmittel
 
 2
 
-
+ 
 
 3
 
-
+ 
 
 - a) :: Ethylvanillin
 
-
+ 
 
 250
 
-
+ 
 
 Allylphenoxiacetat
 
-
+ 
 
 2
 
-
+ 
 
 alpha-Amylzimtaldehyd
 
-
+ 
 
 1
 
-
+ 
 
 Anisylaceton
 
-
+ 
 
 25
 
-
+ 
 
 Hydroxicitronellal
 
@@ -140,7 +140,7 @@ Hydroxicitronellal
 
 insgesamt 25, berechnet als
 
-
+ 
 
 Hydroxicitronellaldiethylacetal
 
@@ -148,107 +148,107 @@ Hydroxicitronellaldiethylacetal
 
 Hydroxicitronellal
 
-
+ 
 
 Hydroxicitronellaldimethylacetal
 
 )
 
+ 
 
-
-
+ 
 
 6-Methylcumarin
 
-
+ 
 
 30
 
-
+ 
 
 Methylheptincarbonat
 
-
+ 
 
 4
 
-
+ 
 
 ß-Naphthylmethylketon
 
-
+ 
 
 5
 
-
+ 
 
 2-Phenylpropionaldehyd
 
-
+ 
 
 1
 
-
+ 
 
 Piperonylisobutyrat
 
-
+ 
 
 3
 
-
+ 
 
 Propenylguaethol
 
-
+ 
 
 25
 
-
+ 
 
 Resorcindimethylether
 
-
+ 
 
 5
 
-
+ 
 
 Vanillinacetat
 
-
+ 
 
 25
 
-
+ 
 
 - b) :: Ammoniumchlorid
 
-
+ 
 
 20.000
 
-
+ 
 
 - c) :: Chininhydrochlorid\\
   Chininsulfat
 
-
+ 
 
 insgesamt 300 bei Spirituosen,\\
 85 bei alkoholfreien Erfrischungsgetränken, jeweils berechnet als Chinin(einschließlich der Zusätze nach Anlage 4) *)
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 - *) :: Die Höchstmengen beziehen sich auf einen Liter.
 
-
+ 
 
 2. Geschmacksbeeinflussende Stoffe
 
@@ -256,7 +256,7 @@ E-Nummer
 
 Stoffe
 
-
+ 
 
 Höchstmenge mg/kg verzehrfertiges Lebensmittel
 
@@ -264,11 +264,11 @@ Höchstmenge mg/kg verzehrfertiges Lebensmittel
 
 2
 
-
+ 
 
 3
 
-
+ 
 
 L-Alanin
 
@@ -276,31 +276,31 @@ L-Alanin
 
 insgesamt 500 und nicht mehr als 300 je Einzelsubstanz, jeweils berechnet als Aminosäure
 
-
+ 
 
 L-Arginin
 
 )
 
-
+ 
 
 L-Asparaginsäure
 
 )
 
-
+ 
 
 L-Citrullin
 
 )
 
-
+ 
 
 L-Cystein
 
 )
 
-
+ 
 
 L-Cystin
 
@@ -312,101 +312,101 @@ Glycin
 
 )
 
-
+ 
 
 L-Histidin
 
 )
 
-
+ 
 
 L-Isoleucin
 
 )
 
-
+ 
 
 L-Leucin
 
 )
 
-
+ 
 
 L-Lysin
 
 )
 
-
+ 
 
 L-Methionin
 
 )
 
-
+ 
 
 L-Phenylalanin
 
 )
 
-
+ 
 
 L-Serin
 
 )
 
-
+ 
 
 Taurin
 
 )
 
-
+ 
 
 L-Threonin
 
 )
 
-
+ 
 
 L-Valin
 
 )
 
-
+ 
 
 sowie die Natrium- und
 
 )
 
-
+ 
 
 Kaliumverbindungen und die
 
 )
 
-
+ 
 
 Hydrochloride dieser Aminosäuren
 
 )
 
-
+ 
 
 Maltol
 
-
+ 
 
 10
 
-
+ 
 
 Ethylmaltol
 
-
+ 
 
 50
 
-
+ 
 
 3. (weggefallen)
 
@@ -420,7 +420,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 \\
 Lebensmittel, denen Aromen mit Aromastoffen nach Anlage 5 Nr. 1
 Buchstabe a zugesetzt werden dürfen:
-
+ 
 1.
 Künstliche Heiß- und Kaltgetränke, Brausen
 2.

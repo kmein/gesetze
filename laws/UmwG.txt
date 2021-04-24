@@ -9,15 +9,15 @@ Inhaltsübersicht
 Erstes Buch
 Möglichkeiten von Umwandlungen
 § 1
-
+ 
 Zweites Buch
 Verschmelzung
 §§ 2 bis 122
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Erster Teil
 Allgemeine Vorschriften
 §§ 2 bis 38
@@ -30,11 +30,11 @@ Verschmelzung durch Aufnahme
 Dritter Abschnitt
 Verschmelzung durch Neugründung
 §§ 36 bis 38
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Zweiter Teil
 Besondere Vorschriften
 §§ 39 bis 122
@@ -47,11 +47,11 @@ Verschmelzung unter Beteiligung von Personenhandelsgesellschaften
 Zweiter Unterabschnitt
 Verschmelzung unter Beteiligung von Partnerschaftsgesellschaften
 §§ 45a bis 45e
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Zweiter Abschnitt
 Verschmelzung unter Beteiligung von Gesellschaften mit beschränkter Haftung
 §§ 46 bis 59
@@ -61,11 +61,11 @@ Verschmelzung durch Aufnahme
 Zweiter Unterabschnitt
 Verschmelzung durch Neugründung
 §§ 56 bis 59
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Dritter Abschnitt
 Verschmelzung unter Beteiligung von Aktiengesellschaften
 §§ 60 bis 77
@@ -75,19 +75,19 @@ Verschmelzung durch Aufnahme
 Zweiter Unterabschnitt
 Verschmelzung durch Neugründung
 §§ 73 bis 77
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Vierter Abschnitt
 Verschmelzung unter Beteiligung von Kommanditgesellschaften auf Aktien
 § 78
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Fünfter Abschnitt
 Verschmelzung unter Beteiligung eingetragener Genossenschaften
 §§ 79 bis 98
@@ -97,27 +97,27 @@ Verschmelzung durch Aufnahme
 Zweiter Unterabschnitt
 Verschmelzung durch Neugründung
 §§ 96 bis 98
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Sechster Abschnitt
 Verschmelzung unter Beteiligung rechtsfähiger Vereine
 §§ 99 bis 104a
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Siebenter Abschnitt
 Verschmelzung genossenschaftlicher Prüfungsverbände
 §§ 105 bis 108
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Achter Abschnitt
 Verschmelzung von Versicherungsvereinen auf Gegenseitigkeit
 §§ 109 bis 119
@@ -133,31 +133,31 @@ Verschmelzung durch Neugründung
 Vierter Unterabschnitt
 Verschmelzung kleinerer Vereine
 §§ 118 und 119
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Neunter Abschnitt
 Verschmelzung von Kapitalgesellschaften mit dem Vermögen eines Alleingesellschafters
 §§ 120 bis 122
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Zehnter Abschnitt
 Grenzüberschreitende Verschmelzung
 §§ 122a bis 122m
-
+ 
 Drittes Buch
 Spaltung
 §§ 123 bis 173
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Erster Teil
 Allgemeine Vorschriften
 §§ 123 bis 137
@@ -170,11 +170,11 @@ Spaltung zur Aufnahme
 Dritter Abschnitt
 Spaltung zur Neugründung
 §§ 135 bis 137
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Zweiter Teil
 Besondere Vorschriften
 §§ 138 bis 173
@@ -196,11 +196,11 @@ Spaltung unter Beteiligung genossenschaftlicher Prüfungsverbände
 Sechster Abschnitt
 Spaltung unter Beteiligung von Versicherungsvereinen auf Gegenseitigkeit
 § 151
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Siebenter Abschnitt
 Ausgliederung aus dem Vermögen eines Einzelkaufmanns
 §§ 152 bis 160
@@ -213,39 +213,39 @@ Ausgliederung zur Aufnahme
 Dritter Unterabschnitt
 Ausgliederung zur Neugründung
 §§ 158 bis 160
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Achter Abschnitt
 Ausgliederung aus dem Vermögen rechtsfähiger Stiftungen
 §§ 161 bis 167
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Neunter Abschnitt
 Ausgliederung aus dem Vermögen von Gebietskörperschaften oder Zusammenschlüssen von Gebietskörperschaften
 §§ 168 bis 173
-
+ 
 Viertes Buch
 Vermögensübertragung
 §§ 174 bis 189
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Erster Teil
 Möglichkeit der Vermögensübertragung
 §§ 174 und 175
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Zweiter Teil
 Übertragung des Vermögens oder von Vermögensteilen einer Kapitalgesellschaft auf die öffentliche Hand
 §§ 176 und 177
@@ -255,11 +255,11 @@ Vollübertragung
 Zweiter Abschnitt
 Teilübertragung
 § 177
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Dritter Teil
 Vermögensübertragung unter Versicherungsunternehmen
 §§ 178 bis 189
@@ -272,11 +272,11 @@ Vollübertragung
 Zweiter Unterabschnitt
 Teilübertragung
 § 179
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Zweiter Abschnitt
 Übertragung des Vermögens eines Versicherungsvereins auf Gegenseitigkeit auf Aktiengesellschaften oder öffentlich-rechtliche Versicherungsunternehmen
 §§ 180 bis 184
@@ -286,19 +286,19 @@ Vollübertragung
 Zweiter Unterabschnitt
 Teilübertragung
 § 184
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Dritter Abschnitt
 Übertragung des Vermögens eines kleineren Versicherungsvereins auf Gegenseitigkeit auf eine Aktiengesellschaft oder auf ein öffentlich-rechtliches Versicherungsunternehmen
 §§ 185 bis 187
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Vierter Abschnitt
 Übertragung des Vermögens eines öffentlich-rechtlichen Versicherungsunternehmens auf Aktiengesellschaften oder Versicherungsvereine auf Gegenseitigkeit
 §§ 188 und 189
@@ -308,23 +308,23 @@ Vollübertragung
 Zweiter Unterabschnitt
 Teilübertragung
 § 189
-
+ 
 Fünftes Buch
 Formwechsel
 §§ 190 bis 304
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Erster Teil
 Allgemeine Vorschriften
 §§ 190 bis 213
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Zweiter Teil
 Besondere Vorschriften
 §§ 214 bis 304
@@ -337,11 +337,11 @@ Formwechsel von Personenhandelsgesellschaften
 Zweiter Unterabschnitt
 Formwechsel von Partnerschaftsgesellschaften
 §§ 225a bis 225c
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Zweiter Abschnitt
 Formwechsel von Kapitalgesellschaften
 §§ 226 bis 257
@@ -357,19 +357,19 @@ Formwechsel in eine Kapitalgesellschaft anderer Rechtsform
 Vierter Unterabschnitt
 Formwechsel in eine eingetragene Genossenschaft
 §§ 251 bis 257
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Dritter Abschnitt
 Formwechsel eingetragener Genossenschaften
 §§ 258 bis 271
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Vierter Abschnitt
 Formwechsel rechtsfähiger Vereine
 §§ 272 bis 290
@@ -382,30 +382,30 @@ Formwechsel in eine Kapitalgesellschaft
 Dritter Unterabschnitt
 Formwechsel in eine eingetragene Genossenschaft
 §§ 283 bis 290
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Fünfter Abschnitt
 Formwechsel von Versicherungsvereinen auf Gegenseitigkeit
 §§ 291 bis 300
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Sechster Abschnitt
 Formwechsel von Körperschaften und Anstalten des öffentlichen Rechts
 §§ 301 bis 304
 (weggefallen)
-
+ 
 §§ 305 bis 312
-
+ 
 Sechstes Buch
 Strafvorschriften und Zwangsgelder
 §§ 313 bis 316
-
+ 
 Siebentes Buch
 Übergangs- und Schlussvorschriften
 §§ 317 bis 325

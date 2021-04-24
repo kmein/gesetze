@@ -250,7 +250,7 @@ Das Bundesamt für Güterverkehr ist befugt, zu dem in Satz 1 genannten Zweck in
 - 4. :: Zeitpunkt, zu dem der Anbieter eine Sperrung oder Entsperrung ausgelöst hat,
 - 5. :: Zeitpunkt, zu dem das Fahrzeuggerät die Sperrung oder Entsperrung bestätigt hat,
 - 6. :: Art der Sperraktivität, die für ein Fahrzeuggerät durchgeführt wurde,
-- 7. :: eine im System des Anbieters eindeutige Identifikationsnummer für Datensätze vom Datentyp Sperr- oder Entsperrinformation“.
+- 7. :: eine im System des Anbieters eindeutige Identifikationsnummer für Datensätze vom Datentyp „Sperr- oder Entsperrinformation“.
 
 Diese Daten dürfen über den in Satz 1 genannten Zweck hinaus ausschließlich dann zu Zwecken dieses Gesetzes sowie den der Mauterhebung zu Grunde liegenden Gesetzen des Bundes und der Länder gespeichert, verwendet und übermittelt werden, wenn dies für die Erreichung eines dieser Zwecke im Einzelfall jeweils erforderlich ist. Eine Übermittlung, Verwendung oder Beschlagnahme dieser Daten nach anderen Rechtsvorschriften ist unzulässig.
 

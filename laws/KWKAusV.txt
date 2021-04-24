@@ -20,35 +20,35 @@ Inhaltsübersicht
 
 Im Sinn dieser Verordnung ist
 
-- 1. :: Ausschreibung für innovative KWK-Systeme“ eine Ausschreibung für KWK-Strom aus innovativen KWK-Systemen, die im Bundesgebiet errichtet werden sollen,
-- 2. :: Ausschreibung für KWK-Anlagen“ eine Ausschreibung für KWK-Strom aus neuen oder modernisierten KWK-Anlagen, die im Bundesgebiet oder im Staatsgebiet eines Kooperationsstaats errichtet oder modernisiert werden sollen,
-- 3. :: bezuschlagtes Gebot“ ein Gebot, das bei einer Ausschreibung nach Nummer 1 oder Nummer 2 einen Ausschreibungszuschlag erhalten hat,
-- 4. :: Bieter“, wer bei einer Ausschreibung für KWK-Anlagen oder für innovative KWK-Systeme ein Gebot abgegeben hat,
-- 5. :: Einheit“ eine Einheit im Sinn des § 2 Nummer 4 der Marktstammdatenregisterverordnung,
-- 6. :: Gebotsmenge“ die elektrische KWK-Leistung in Kilowatt, für die der Bieter ein Gebot abgegeben hat,
-- 7. :: Gebotstermin“ der Kalendertag, an dem die Frist für die Abgabe von Geboten für eine Ausschreibung nach dieser Verordnung abläuft,
-- 8. :: Gebotswert“ der Wert für die Höhe der Zuschlagszahlung in Cent pro Kilowattstunde KWK-Strom, den der Bieter in seinem Gebot angegeben hat,
-- 9. :: gemeinsame grenzüberschreitende Ausschreibung“ eine Ausschreibung für KWK-Anlagen,
+- 1. :: „Ausschreibung für innovative KWK-Systeme“ eine Ausschreibung für KWK-Strom aus innovativen KWK-Systemen, die im Bundesgebiet errichtet werden sollen,
+- 2. :: „Ausschreibung für KWK-Anlagen“ eine Ausschreibung für KWK-Strom aus neuen oder modernisierten KWK-Anlagen, die im Bundesgebiet oder im Staatsgebiet eines Kooperationsstaats errichtet oder modernisiert werden sollen,
+- 3. :: „bezuschlagtes Gebot“ ein Gebot, das bei einer Ausschreibung nach Nummer 1 oder Nummer 2 einen Ausschreibungszuschlag erhalten hat,
+- 4. :: „Bieter“, wer bei einer Ausschreibung für KWK-Anlagen oder für innovative KWK-Systeme ein Gebot abgegeben hat,
+- 5. :: „Einheit“ eine Einheit im Sinn des § 2 Nummer 4 der Marktstammdatenregisterverordnung,
+- 6. :: „Gebotsmenge“ die elektrische KWK-Leistung in Kilowatt, für die der Bieter ein Gebot abgegeben hat,
+- 7. :: „Gebotstermin“ der Kalendertag, an dem die Frist für die Abgabe von Geboten für eine Ausschreibung nach dieser Verordnung abläuft,
+- 8. :: „Gebotswert“ der Wert für die Höhe der Zuschlagszahlung in Cent pro Kilowattstunde KWK-Strom, den der Bieter in seinem Gebot angegeben hat,
+- 9. :: „gemeinsame grenzüberschreitende Ausschreibung“ eine Ausschreibung für KWK-Anlagen,
   - a) :: die die Bundesrepublik Deutschland und ein oder mehrere Kooperationsstaaten gemeinsam und aufgrund eines einheitlichen Ausschreibungsverfahrens in ihren Staatsgebieten durchführen und
   - b) :: bei der die Zahlungen für KWK-Strom aus KWK-Anlagen entsprechend einer völkerrechtlichen Vereinbarung aufgeteilt und finanziert werden,
-- 10. :: geöffnete ausländische Ausschreibung“ eine Ausschreibung für KWK-Anlagen,
+- 10. :: „geöffnete ausländische Ausschreibung“ eine Ausschreibung für KWK-Anlagen,
   - a) :: die ein anderer Mitgliedstaat in seinem Staatsgebiet, im Bundesgebiet oder im Staatsgebiet eines anderen Mitgliedstaats der Europäischen Union aufgrund eigener Bestimmungen durchführt und
   - b) :: bei der die Zahlungen für KWK-Strom aus KWK-Anlagen aufgrund einer völkerrechtlichen Vereinbarung nach § 25 oder § 27 nach dem Fördersystem des Kooperationsstaats finanziert werden,
-- 11. :: Höchstwert“ der Wert in Cent pro Kilowattstunde KWK-Strom, der höchstens angegeben werden darf,
-- 12. :: innovative erneuerbare Wärme“ die erneuerbare Wärme aus Wärmetechniken,
+- 11. :: „Höchstwert“ der Wert in Cent pro Kilowattstunde KWK-Strom, der höchstens angegeben werden darf,
+- 12. :: „innovative erneuerbare Wärme“ die erneuerbare Wärme aus Wärmetechniken,
   - a) :: die jeweils eine Jahresarbeitszahl von mindestens 1,25 erreichen,
   - b) :: deren Wärmeerzeugung außerhalb des innovativen KWK-Systems für die Raumheizung, die Warmwasseraufbereitung, die Kälteerzeugung oder als Prozesswärme verwendet wird und
   - c) :: die, soweit sie Gas einsetzen, ausschließlich gasförmige Biomasse einsetzen; § 44b Absatz 4 des Erneuerbare-Energien-Gesetzes ist entsprechend anzuwenden,
-- 13. :: Jahresarbeitszahl“ der Quotient aus der Summe der von den Komponenten zur Bereitstellung innovativer erneuerbarer Wärme bereitgestellten Energiemenge und der Summe der dafür eingesetzten Energiemenge in Form von Brennstoffen oder Strom in einem Kalenderjahr,
-- 14. :: Kooperationsstaat“ ein Mitgliedstaat der Europäischen Union, mit dem die Bundesrepublik Deutschland eine völkerrechtliche Vereinbarung nach § 27 abgeschlossen hat,
-- 15. :: Projekt“ ein Projekt im Sinn des § 2 Nummer 10 der Marktstammdatenregisterverordnung,
-- 16. :: Referenzwärme“ die Summe aus der Nutzwärme, die die KWK-Anlage eines innovativen KWK-Systems mit 3 000 Vollbenutzungsstunden bereitstellen kann, und der von dem gleichen innovativen KWK-System innerhalb eines Kalenderjahres bereitgestellten innovativen erneuerbaren Wärme,
-- 17. :: Standort“ der Errichtungsort einer KWK-Anlage, der sich durch die postalische Adresse von anderen Standorten unterscheidet,
-- 18. :: Übertragungsnetzbetreiber“ der Übertragungsnetzbetreiber im Sinn des § 3 Nummer 44 des Erneuerbare-Energien-Gesetzes,
+- 13. :: „Jahresarbeitszahl“ der Quotient aus der Summe der von den Komponenten zur Bereitstellung innovativer erneuerbarer Wärme bereitgestellten Energiemenge und der Summe der dafür eingesetzten Energiemenge in Form von Brennstoffen oder Strom in einem Kalenderjahr,
+- 14. :: „Kooperationsstaat“ ein Mitgliedstaat der Europäischen Union, mit dem die Bundesrepublik Deutschland eine völkerrechtliche Vereinbarung nach § 27 abgeschlossen hat,
+- 15. :: „Projekt“ ein Projekt im Sinn des § 2 Nummer 10 der Marktstammdatenregisterverordnung,
+- 16. :: „Referenzwärme“ die Summe aus der Nutzwärme, die die KWK-Anlage eines innovativen KWK-Systems mit 3 000 Vollbenutzungsstunden bereitstellen kann, und der von dem gleichen innovativen KWK-System innerhalb eines Kalenderjahres bereitgestellten innovativen erneuerbaren Wärme,
+- 17. :: „Standort“ der Errichtungsort einer KWK-Anlage, der sich durch die postalische Adresse von anderen Standorten unterscheidet,
+- 18. :: „Übertragungsnetzbetreiber“ der Übertragungsnetzbetreiber im Sinn des § 3 Nummer 44 des Erneuerbare-Energien-Gesetzes,
   - a) :: dessen Regelzone das Gebiet umfasst, in dem der von dem Bieter in seinem Gebot angegebene Standort der KWK-Anlage im Bundesgebiet liegt,
   - b) :: dessen Regelzone das Gebiet umfasst, in dem das Anschlussnetz liegt, an das die KWK-Anlage im Staatsgebiet eines Kooperationsstaats, die über einen direkten Anschluss an ein Netz im Bundesgebiet verfügt, angeschlossen ist oder
   - c) :: der die nächstgelegene Verbindungsleitung betreibt, die die Grenze zwischen der Bundesrepublik Deutschland und dem Kooperationsstaat, in dessen Staatsgebiet die KWK-Anlage errichtet wird, die über keinen direkten Anschluss an ein Netz im Bundesgebiet verfügt, quert oder überspannt und ausschließlich dem Zweck dient, die nationalen Netze dieser Staaten zu verbinden,
-- 19. :: Zuschlagswert“ der in einem bezuschlagten Gebot angegebene Gebotswert.
+- 19. :: „Zuschlagswert“ der in einem bezuschlagten Gebot angegebene Gebotswert.
 
 (+++ § 2 Nr. 12, 13, 16: Zur Anwendung vgl. § 7a Abs. 4 KWKG 2016 +++)
 

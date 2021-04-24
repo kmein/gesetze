@@ -164,7 +164,7 @@ Aglepriston\\
 Agomelatin\\
 Ajmalin und seine Ester\\
 N
-
+²
 -L-Alanyl-L-glutamin\\
 - zur parenteralen Anwendung -\\
 Alatrofloxacin\\
@@ -2139,7 +2139,7 @@ Polyestradiol\\
 Polymyxin B und M\\
 Poly(O-2-hydroxyethyl)stärke\\
 - zur parenteralen Anwendung -\\
-Poly-O-{3-[(2-aminoethyl)sulfanyl]propyl}_{x}-poly-O-[3-({2-[2-(D-mannopyranosylsulfanyl)ethanimidamido]ethyl}sulfanyl)propyl]_{y}-poly-O-{3-[(2-pentetamidoethyl)sulfanyl]propyl}_{z}-dextran 10 (Tilmanocept“)\\
+Poly-O-{3-[(2-aminoethyl)sulfanyl]propyl}_{x}-poly-O-[3-({2-[2-(D-mannopyranosylsulfanyl)ethanimidamido]ethyl}sulfanyl)propyl]_{y}-poly-O-{3-[(2-pentetamidoethyl)sulfanyl]propyl}_{z}-dextran 10 („Tilmanocept“)\\
 -- als Trägersubstanz für (99m} Tc)Technetium --\\
 Poly(styrolco-divinylbenzol)sulfonsäure (x:y)\\
 als Aluminium-, Calcium-, Kalium- und Natriumsalz\\
@@ -2376,7 +2376,7 @@ Salpetersäure\\
 - in Zubereitungen, die Essigsäure und Oxalsäure enthalten -\\
 Salverin\\
 Samarium(
-¹⁵
+¹⁵³
 Sm)lexidronam\\
 Santonin\\
 Sapropterin (einschließlich seiner Stereoisomerengemische)\\

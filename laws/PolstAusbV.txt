@@ -174,14 +174,14 @@ Die Berufsausbildung dauert drei Jahre.
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
-- 1. :: im Gesamtergebnis mit mindestens ausreichend“,
-- 2. :: im Prüfungsbereich Herstellen eines Polstermöbels oder einer Matratze“ mit mindestens ausreichend“,
-- 3. :: in mindestens zwei weiteren Prüfungsbereichen mit mindestens ausreichend“ und
-- 4. :: in keinem Prüfungsbereich mit ungenügend“.
+- 1. :: im Gesamtergebnis mit mindestens „ausreichend“,
+- 2. :: im Prüfungsbereich „Herstellen eines Polstermöbels oder einer Matratze“ mit mindestens „ausreichend“,
+- 3. :: in mindestens zwei weiteren Prüfungsbereichen mit mindestens „ausreichend“ und
+- 4. :: in keinem Prüfungsbereich mit „ungenügend“.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche Planung“, Fertigung“ oder Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Planung“, „Fertigung“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-- 1. :: der Prüfungsbereich schlechter als mit ausreichend“ bewertetet worden ist und
+- 1. :: der Prüfungsbereich schlechter als mit „ausreichend“ bewertetet worden ist und
 - 2. :: die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
@@ -202,4 +202,4 @@ Diese Verordnung tritt am 1. August 2014 in Kraft. Gleichzeitig tritt die Verord
 Anlage - (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Polsterer und zur Polsterin
 
 (Fundstelle: BGBl. I 2014, 543 - 547)
-
+ 

@@ -253,13 +253,13 @@ Die Berufsausbildung dauert drei Jahre.
 
 (2) Die Gesellenprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
-- 1. :: im Gesamtergebnis aller Prüfungsbereiche mit mindestens ausreichend“,
-- 2. :: in mindestens zwei Prüfungsbereichen mit mindestens ausreichend“,
-- 3. :: in keinem Prüfungsbereich mit ungenügend“.
+- 1. :: im Gesamtergebnis aller Prüfungsbereiche mit mindestens „ausreichend“,
+- 2. :: in mindestens zwei Prüfungsbereichen mit mindestens „ausreichend“,
+- 3. :: in keinem Prüfungsbereich mit „ungenügend“.
 
 (3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche Planung und Konstruktion sowie Wirtschafts- und Sozialkunde durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-- 1. :: der Prüfungsbereich schlechter als mit ausreichend“ bewertet worden ist und
+- 1. :: der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 - 2. :: die mündliche Ergänzungsprüfung für das Bestehen der Gesellenprüfung den Ausschlag geben kann.
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
@@ -276,7 +276,7 @@ Diese Verordnung tritt am 1. August 2014 in Kraft. Gleichzeitig tritt die Verord
 Anlage - (zu § 5 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Zupfinstrumentenmacher und zur Zupfinstrumentenmacherin
 
 (Fundstelle: BGBl. I 2014, 880 - 886)
-
-
-
-
+ 
+ 
+ 
+ 

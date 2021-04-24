@@ -10,11 +10,11 @@ Auf Grund des § 78m Absatz 1 Satz 1 in Verbindung mit Absatz 2 und des § 78n A
 
 Inhaltsübersicht
 
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 
 § 1 - Eintragung von Amtspersonen
 
@@ -36,7 +36,7 @@ Inhaltsübersicht
 § 2 - Angaben zu den Amtspersonen
 
 (1) Zu jeder Amtsperson sind alle amtlichen Tätigkeiten einzutragen, die diese ausübt oder ausgeübt hat.
-(2) Als Zusatz zum Familiennamen werden, sofern von der Amtsperson geführt und mitgeteilt, akademische Grade und Ehrengrade sowie die Bezeichnung Professor“ eingetragen. Nicht-juristische Grade müssen als solche erkennbar sein. Die Eintragung kann davon abhängig gemacht werden, dass die Berechtigung zum Führen des Grades oder der Bezeichnung nachgewiesen wird.
+(2) Als Zusatz zum Familiennamen werden, sofern von der Amtsperson geführt und mitgeteilt, akademische Grade und Ehrengrade sowie die Bezeichnung „Professor“ eingetragen. Nicht-juristische Grade müssen als solche erkennbar sein. Die Eintragung kann davon abhängig gemacht werden, dass die Berechtigung zum Führen des Grades oder der Bezeichnung nachgewiesen wird.
 (3) Hat eine Amtsperson mehrere Vornamen, so sind nur diejenigen einzutragen, die im Rahmen der amtlichen Tätigkeit üblicherweise verwendet werden.
 (4) Zur Amtsperson ist zu deren Identifizierung das Geburtsdatum einzutragen.
 (5) Zur Amtsperson sind deren Beurkundungssprachen einzutragen, sofern sie solche mitgeteilt hat.
@@ -127,7 +127,7 @@ Stellt die eintragende Stelle fest, dass ihre Eintragungen unrichtig oder unvoll
 
 § 13 - Führung der Postfächer
 
-(1) Die Bundesnotarkammer hat die besonderen elektronischen Notarpostfächer auf der Grundlage des Protokollstandards Online Services Computer Interface -- OSCI“ oder eines künftig an dessen Stelle tretenden Standards zu betreiben. Die Bundesnotarkammer hat fortlaufend zu gewährleisten, dass die Postfachinhaber über das Postfach sicher elektronisch kommunizieren können.
+(1) Die Bundesnotarkammer hat die besonderen elektronischen Notarpostfächer auf der Grundlage des Protokollstandards „Online Services Computer Interface -- OSCI“ oder eines künftig an dessen Stelle tretenden Standards zu betreiben. Die Bundesnotarkammer hat fortlaufend zu gewährleisten, dass die Postfachinhaber über das Postfach sicher elektronisch kommunizieren können.
 (2) Der Zugang zum besonderen elektronischen Notarpostfach soll barrierefrei im Sinne der Barrierefreie-Informationstechnik-Verordnung vom 12. September 2011 (BGBl. I S. 1843) in der jeweils geltenden Fassung sein.
 (3) Die Bundesnotarkammer hat zu gewährleisten, dass der Empfänger eines elektronischen Dokuments, das aus dem besonderen elektronischen Notarpostfach ohne qualifizierte elektronische Signatur auf einem sicheren Übermittlungsweg versandt wurde, feststellen kann, ob die Nachricht von dem Postfachinhaber selbst versandt wurde.
 

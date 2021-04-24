@@ -921,7 +921,7 @@ Soweit auf Grund von Rechtsvorschriften bei anderen als den im Artenverzeichnis 
 
 - 1. :: Bezeichnung der Sorte und Synonyme,
 - 2. :: Art, der die Sorte zugehört,
-- 3. :: soweit zutreffend, die Angabe amtliche Beschreibung“ oder amtlich anerkannte Beschreibung“,
+- 3. :: soweit zutreffend, die Angabe „amtliche Beschreibung“ oder „amtlich anerkannte Beschreibung“,
 - 4. :: Tag der Eintragung und Tag der Erneuerung der Eintragung,
 - 5. :: Ablauf der Geltungsdauer der Eintragung.
 

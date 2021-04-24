@@ -337,7 +337,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flughafen Frankfurt (FRA) bei den folgenden Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:\\
 \\
 
-
+ 
 
 Dienst gemäß Anlage 1
 
@@ -472,7 +472,7 @@ Die angegebenen Festlegungen der Zahl der zuzulassenden Selbst- bzw. Drittabfert
 Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flughafen Berlin-Tegel (TXL) bei den folgenden Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:\\
 \\
 
-
+ 
 
 Dienst gemäß Anlage 1
 
@@ -547,7 +547,7 @@ Die angegebenen Festlegungen der Zahl der zuzulassenden Selbst- bzw. Drittabfert
 Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flughafen Hamburg (HAM) bei den folgenden Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:\\
 \\
 
-
+ 
 
 Dienst gemäß Anlage 1
 
@@ -652,7 +652,7 @@ Die angegebenen Festlegungen der Zahl der zuzulassenden Selbst- bzw. Drittabfert
 Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flughafen Stuttgart (STR) bei den folgenden Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:\\
 \\
 
-
+ 
 
 Dienst gemäß Anlage 1
 
@@ -812,7 +812,7 @@ Die angegebenen Festlegungen der Zahl der zuzulassenden Selbst- bzw. Drittabfert
 Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flughafen Nürnberg (NUE) bei den folgenden Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:\\
 \\
 
-
+ 
 
 Dienst gemäß Anlage 1
 
@@ -952,7 +952,7 @@ Die angegebenen Festlegungen der Zahl der zuzulassenden Selbst- bzw. Drittabfert
 Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flughafen Bremen (BRE) bei den folgenden Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:\\
 \\
 
-
+ 
 
 Dienst gemäß Anlage 1
 

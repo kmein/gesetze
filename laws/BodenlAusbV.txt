@@ -223,7 +223,7 @@ Bedeutung und Nutzungsmöglichkeiten von Informations- und Kommunikationssysteme
 
 2*)
 
-
+ 
 
 b)
 
@@ -247,7 +247,7 @@ Arbeitsauftrag erfassen und Vorgaben auf Umsetzbarkeit prüfen
 
 4*)
 
-
+ 
 
 b)
 
@@ -269,7 +269,7 @@ f)
 
 technische Veränderungen feststellen und umsetzen
 
-
+ 
 
 3*)
 
@@ -299,7 +299,7 @@ Skizzen anfertigen und anwenden
 
 5*)
 
-
+ 
 
 b)
 
@@ -325,7 +325,7 @@ g)
 
 Leistungsverzeichnisse anwenden
 
-
+ 
 
 4*)
 
@@ -351,7 +351,7 @@ Arbeitsplatz einrichten, sichern, unterhalten und auflösen, ergonomische Gesich
 
 4*)
 
-
+ 
 
 b)
 
@@ -387,7 +387,7 @@ Werkzeuge, Geräte, Maschinen und technische Einrichtungen auswählen
 
 6
 
-
+ 
 
 b)
 
@@ -405,7 +405,7 @@ e)
 
 Geräte, Maschinen und technische Einrichtungen warten
 
-
+ 
 
 2
 
@@ -423,7 +423,7 @@ Werk- und Hilfsstoffe auswählen, kennzeichnen, transportieren und lagern
 
 7
 
-
+ 
 
 b)
 
@@ -455,7 +455,7 @@ Untergründe auf Belegreife prüfen
 
 21
 
-
+ 
 
 b)
 
@@ -489,7 +489,7 @@ i)
 
 Höhenausgleich zu angrenzenden Bauteilen herstellen
 
-
+ 
 
 12
 
@@ -511,7 +511,7 @@ textile und elastische Bodenbeläge nach Anforderungen auswählen
 
 19
 
-
+ 
 
 b)
 
@@ -533,7 +533,7 @@ f)
 
 textile Bodenbeläge verspannen und verkletten
 
-
+ 
 
 22
 
@@ -585,7 +585,7 @@ a)
 
 Fertigparkett und Schichtwerkstoffe nach Anforderungen und Gestaltungsmerkmalen auswählen
 
-
+ 
 
 18
 
@@ -627,7 +627,7 @@ Erstpflege bei elastischen Bodenbelägen durchführen
 
 4
 
-
+ 
 
 b)
 
@@ -637,7 +637,7 @@ c)
 
 Oberflächenbehandlungsarten festlegen und Oberflächenbehandlungsmittel auswählen
 
-
+ 
 
 5
 
@@ -663,7 +663,7 @@ Profile nach ihrer Funktion auswählen
 
 4
 
-
+ 
 
 b)
 
@@ -673,7 +673,7 @@ c)
 
 System-Sockelleisten anfertigen und anbringen
 
-
+ 
 
 5
 
@@ -689,7 +689,7 @@ a)
 
 Verschmutzungszustand und Schäden hinsichtlich ihrer Ursachen beurteilen und dokumentieren
 
-
+ 
 
 4
 
@@ -715,7 +715,7 @@ Aufgaben und Ziele von qualitätssichernden Maßnahmen anhand betrieblicher Beis
 
 2*)
 
-
+ 
 
 b)
 
@@ -729,7 +729,7 @@ d)
 
 Endkontrolle anhand des Arbeitsauftrages durchführen und Arbeitsergebnisse dokumentieren
 
-
+ 
 
 3*)
 

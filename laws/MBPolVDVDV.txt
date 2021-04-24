@@ -10,38 +10,38 @@ Auf Grund des § 3 Absatz 2 Satz 2 und 3 des Bundespolizeibeamtengesetzes, Satz 
 
 Inhaltsübersicht
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 § 1 - Vorbereitungsdienst
 
@@ -177,7 +177,7 @@ Das Auswahlverfahren besteht aus den folgenden Teilen:
 § 16 - Bewertung
 
 (1) Eine Leistung, die in der Ausbildung, in der Zwischenprüfung oder in der Laufbahnprüfung erbracht wird, ist wie folgt zu bewerten:
-
+ 
 Prozentualer Anteil\\
 der erreichten\\
 Punktzahl\\
@@ -187,7 +187,7 @@ Rangpunkte oder\\
 Rangpunktzahl
 Note
 Notendefinition
-
+ 
 1
 2
 3

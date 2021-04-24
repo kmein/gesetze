@@ -11,7 +11,7 @@ Auf Grund des § 24 Satz 1 Nr. 1, 2 und 4 in Verbindung mit Satz 2 Nr. 1, 2, 4, 
 Inhaltsübersicht
 
 Teil 1
-
+ 
 Allgemeine Bestimmungen
 § 1
 Anwendungsbereich
@@ -20,14 +20,14 @@ Begriffsbestimmungen
 § 3
 Grundsätze der Entgeltbestimmung
 Teil 2
-
+ 
 Methode zur Ermittlung der Netzentgelte
-
-
+ 
+ 
 Abschnitt 1
-
-
-
+ 
+ 
+ 
 Kostenartenrechnung
 § 4
 Grundsätze der Netzkostenermittlung
@@ -45,23 +45,23 @@ Kalkulatorische Steuern
 Kostenmindernde Erlöse und Erträge
 § 10
 Periodenübergreifende Saldierung
-
-
+ 
+ 
 Abschnitt 2
-
-
-
+ 
+ 
+ 
 Kostenstellenrechnung
 § 11
 Grundsätze der Kostenverteilung
 § 12
 Kostenstellen
-
-
+ 
+ 
 Abschnitt 3
-
-
-
+ 
+ 
+ 
 Kostenträgerrechnung
 § 13
 Grundsätze der Entgeltermittlung
@@ -80,61 +80,61 @@ Besondere Regeln für Fernleitungsnetze
 § 20
 Sonderformen der Netznutzung
 § 20a
-
+ 
 § 20b
-
+ 
 § 21
 Netzentgeltbildung bei Anreizregulierung
 Teil 3
-
+ 
 (weggefallen)
-
+ 
 §§ 22 bis 26
 (weggefallen)
-
-
+ 
+ 
 Teil 4
-
-
-
+ 
+ 
+ 
 Pflichten der Netzbetreiber
-
-
+ 
+ 
 § 27
 Veröffentlichungspflichten
-
-
+ 
+ 
 § 28
 Dokumentation
-
-
+ 
+ 
 § 29
 Mitteilungen gegenüber der Regulierungsbehörde
-
-
+ 
+ 
 Teil 5
-
-
-
+ 
+ 
+ 
 Sonstige Bestimmungen
-
-
+ 
+ 
 § 30
 Festlegungen der Regulierungsbehörde
-
-
+ 
+ 
 § 31
 Ordnungswidrigkeiten
-
-
+ 
+ 
 § 32
 Übergangsregelungen
-
-
+ 
+ 
 § 33
 Inkrafttreten
-
-
+ 
+ 
 
 § 1 - Anwendungsbereich
 
@@ -504,29 +504,29 @@ Lagereinrichtung
 14-25
 9.
 EDV-Anlagen
-
+ 
 9.1 Hardware
 4-8
 9.2 Software
 3-5
 10.
 Fahrzeuge
-
+ 
 10.1 Leichtfahrzeuge
 5
 10.2 Schwerfahrzeuge
 8
-
-
-
-
+ 
+ 
+ 
+ 
 II.
 Gasbehälter
 45-55
-
-
-
-
+ 
+ 
+ 
+ 
 III.
 Erdgasverdichteranlagen
 1.
@@ -553,10 +553,10 @@ Nebenanlagen
 8.
 Gebäude, Verkehrswege
 siehe I.2 und I.3
-
-
-
-
+ 
+ 
+ 
+ 
 IV.
 Rohrleitungen/Hausanschlussleitungen
 1.
@@ -588,10 +588,10 @@ Molchschleusen
 8.
 Sicherheitseinrichtungen
 45
-
-
-
-
+ 
+ 
+ 
+ 
 V.
 Mess-, Regel- und Zähleranlagen
 1.
@@ -621,10 +621,10 @@ Nebenanlagen
 9.
 Gebäude
 60
-
-
-
-
+ 
+ 
+ 
+ 
 VI.
 Fernwirkanlagen
 15-20
@@ -651,10 +651,10 @@ Fundstelle des Originaltextes: BGBl. I 2005, 2209
   - 5.1 :: Nebenkostenstelle "Messung Hochdruckleitungsnetz";
   - 5.2 :: Nebenkostenstelle "Messung Mitteldruckleitungsnetz";
   - 5.3 :: Nebenkostenstelle "Messung Niederdruckleitungsnetz".
-- 5a. :: Hauptkostenstelle Messstellenbetrieb“
-  - 5a.1 :: Nebenkostenstelle Messstellenbetrieb Hochdruckleitungsnetz“;
-  - 5a.2 :: Nebenkostenstelle Messstellenbetrieb Mitteldruckleitungsnetz“;
-  - 5a.3 :: Nebenkostenstelle Messstellenbetrieb Niederdruckleitungsnetz“.
+- 5a. :: Hauptkostenstelle „Messstellenbetrieb“
+  - 5a.1 :: Nebenkostenstelle „Messstellenbetrieb Hochdruckleitungsnetz“;
+  - 5a.2 :: Nebenkostenstelle „Messstellenbetrieb Mitteldruckleitungsnetz“;
+  - 5a.3 :: Nebenkostenstelle „Messstellenbetrieb Niederdruckleitungsnetz“.
 - 6. :: Hauptkostenstelle "Abrechnung": Kosten der kaufmännischen Bearbeitung der Zählerdaten; Kosten der Beibringung fälliger Entgelte für die Netznutzung und Abrechnung;
   - 6.1 :: Nebenkostenstelle "Abrechnung Hochdruckleitungsnetz";
   - 6.2 :: Nebenkostenstelle "Abrechnung Mitteldruckleitungsnetz";

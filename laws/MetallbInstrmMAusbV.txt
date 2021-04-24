@@ -205,9 +205,9 @@ Warten und Pflegen von Betriebsmitteln (§ 3 Nr. 5)
 a)
 Betriebsmittel, insbesondere Werkzeuge und Maschinen, durch Reinigen pflegen und vor Korrosion schützen
 2*)
-
-
-
+ 
+ 
+ 
 b)
 Betriebsstoffe, insbesondere Öle, Kühl- und Schmierstoffe, nach Betriebsvorschriften wechseln und auffüllen
 6
@@ -215,9 +215,9 @@ Prüfen, Messen und Kennzeichnen (§ 3 Nr. 6)
 a)
 Längen mit Strichmaßstäben, Meßschiebern und Meßschrauben unter Beachtung von systematischen und zufälligen Meßfehlermöglichkeiten messen
 4*)
-
-
-
+ 
+ 
+ 
 b)
 Längen mit Taster oder Zirkel und Meßschnur indirekt messen
 c)
@@ -239,9 +239,9 @@ Planen und Vorbereiten des Arbeitsablaufes sowie Kontrollieren und Bewerten der 
 a)
 Arbeitsschritte unter Beachtung mündlicher und schriftlicher Vorgaben abstimmen und festlegen sowie Arbeitsablauf sicherstellen
 4*)
-
-
-
+ 
+ 
+ 
 b)
 Teilebedarf abschätzen und bereitstellen
 c)
@@ -257,27 +257,27 @@ Lesen, Anwenden und Erstellen von technischen Unterlagen (§ 3 Nr. 8)
 a)
 Skizzen und Zeichnungen, insbesondere von Bauteilen sowie Stücklisten, anfertigen, lesen und anwenden
 3*)
-
-
-
+ 
+ 
+ 
 b)
 Grundbegriffe der Normung anwenden
 c)
 Tabellen, Diagramme, Handbücher und Bedienungshinweise lesen und anwenden
 d)
 Gesamtzeichnungen lesen und anwenden
-
-
-
+ 
+ 
+ 
 2*)
 9
 Bestimmen und Zuordnen von Instrumenten (§ 3 Nr. 9)
 a)
 Metallblasinstrumente im Hinblick auf Mensur und Konstruktionsmerkmale zuordnen
 2
-
-
-
+ 
+ 
+ 
 b)
 Metallblasinstrumente nach Aufbau und Funktion unterscheiden
 10
@@ -285,9 +285,9 @@ Auswählen und Lagern von Werk- und Hilfsstoffen (§ 3 Nr. 10)
 a)
 Werkstoffe nach ihren Eigenschaften und Halbzeuge nach ihrer Form unterscheiden, auswählen und ihrem Verwendungszweck zuordnen
 2
-
-
-
+ 
+ 
+ 
 b)
 Hilfsstoffe unterscheiden, auswählen, ihrem Verwendungszweck zuordnen und nach Anweisung und Unterlagen unter Beachtung des Umgangs mit gefährlichen Arbeitsstoffen anwenden
 c)
@@ -299,9 +299,9 @@ Ausrichten und Spannen von Werkzeugen und Werkstücken (§ 3 Nr. 11)
 a)
 Spannzeuge unter Berücksichtigung der Größe, der Form, des Werkstoffes und der Bearbeitung von Werkstücken auswählen und befestigen
 3
-
-
-
+ 
+ 
+ 
 b)
 Werkzeuge und Werkstücke, insbesondere mit Maschinenschraubstock und Dreibackenfutter, unter Beachtung der Werkstückstabilität und des Oberflächenschutzes ausrichten und spannen
 c)
@@ -311,9 +311,9 @@ manuelles und maschinelles Spanen (§ 3 Nr. 12)
 a)
 Werkzeuge unter Berücksichtigung der Verfahren und der Werkstücke auswählen
 11
-
-
-
+ 
+ 
+ 
 b)
 Flächen an Werkstücken aus unterschiedlichen Werkstoffen glatt, eben, winklig und parallel auf Maß feilen
 c)
@@ -328,18 +328,18 @@ g)
 Bohrungen in Werkstücken aus unterschiedlichen Werkstoffen auf Maßgenauigkeit manuell reiben
 h)
 Werkzeuge, insbesondere Reißnadel und Körner, am Schleifbock schärfen
-
+ 
 2
-
-
+ 
+ 
 i)
 Werkzeuge, insbesondere Bohrer und Schaber, am Schleifbock schärfen
 k)
 Werkzeuge unter Berücksichtigung der Verfahren, der Werkstoffe und der Schneidengeometrie auswählen
-
-
+ 
+ 
 5
-
+ 
 l)
 Maschinenwerte an Werkzeugmaschinen für Bohr- und Drehoperationen mit Hilfe von Tabellen und Diagrammen bestimmen und einstellen
 m)
@@ -355,9 +355,9 @@ Trennen (§ 3 Nr. 13)
 a)
 Handscheren und Handhebelscheren, insbesondere unter Berücksichtigung des Werkstoffes, der Blechdicke und des Kraftbedarfes, auswählen
 2
-
-
-
+ 
+ 
+ 
 b)
 Feinbleche mit Handscheren und Handhebelscheren nach Anriß scheren
 14
@@ -365,19 +365,19 @@ Umformen (§ 3 Nr. 14)
 a)
 Durchmesser und Wandstärken von zylindrischen Rohren aus Nichteisenmetallen mit Ziehmaschinen umformen und auf Maßgenauigkeit prüfen
 4
-
-
-
+ 
+ 
+ 
 b)
 Gerade zylindrische Rohre aus Nichteisenmetallen zu geraden konischen Rohren von Hand und mit Ziehmaschine umformen, Rohre von Hand richten
 c)
 Eigenschaften von Werkstücken unter Berücksichtigung der stofflichen Zusammensetzung und des Verwendungszwecks durch Bearbeitung und Wärmebehandlung, insbesondere durch Weichglühen, ändern
 d)
 Abwicklungen von Zylindern und Kegeln konstruieren
-
+ 
 16
-
-
+ 
+ 
 e)
 Werkstücke aus Feinblechen nach Abwicklungen herstellen
 f)
@@ -389,9 +389,9 @@ Fügen (§ 3 Nr. 15)
 a)
 Bauteile mit Schrauben, Muttern und Sicherungselementen unter Beachtung der Werkstoffpaarung verbinden und sichern
 4
-
-
-
+ 
+ 
+ 
 b)
 Funktion, Maß- und Lagetoleranzen gefügter Bauteile prüfen
 c)
@@ -402,10 +402,10 @@ e)
 Bleche, Profile und Rohre aus Nichteisenmetallen Weichlöten
 f)
 Lötwerkzeuge, Lote und Flußmittel zum Hartlöten auswählen
-
+ 
 2
-
-
+ 
+ 
 g)
 Bleche, Profile und Rohre aus Nichteisenmetallen hartlöten
 16
@@ -413,75 +413,75 @@ Anfertigen von Bauteilen (§ 3 Nr. 16)
 a)
 Kleinteile entsprechend Verwendungszweck und Funktion auswählen und zuordnen
 6
-
-
-
+ 
+ 
+ 
 b)
 Kleinteile, insbesondere Stützen und Ringe, durch Spanen, Trennen, Umformen und Fügen herstellen
 17
 Zusammenfügen von Instrumententeilen (§ 3 Nr. 17)
 a)
 Einzelteile nach Unterlagen und Anweisungen bereitstellen
-
+ 
 6
-
-
+ 
+ 
 b)
 Maßgenauigkeit der Instrumententeile prüfen und korrigieren
 c)
 Bögen, Züge und Rohre nach Skizze oder Schablone unter Beachtung von Parallelität und Ganggenauigkeit zusammenfügen
-
-
+ 
+ 
 4
-
+ 
 d)
 Ventile nach Skizze oder Schablone unter Beachtung von Parallelität und Ganggenauigkeit zusammenfügen
 e)
 Instrumententeile nach Unterlagen für den Zusammenbau vorbereiten
-
-
-
+ 
+ 
+ 
 12
 f)
 Baugruppen des Instrumentes nach Unterlagen zum Rohbau zusammenfügen
-
-
-
+ 
+ 
+ 
 12
 18
 Behandeln von Oberflächen (§ 3 Nr. 18)
 a)
 Gesundheits- und Umweltschutz, insbesondere in Bezug auf Stäube und Dämpfe, beachten
 5
-
-
-
+ 
+ 
+ 
 b)
 Bauteile und Instrumente zur Oberflächenbehandlung vorbereiten, insbesondere durch Verputzen der Lötstellen
 c)
 Oberflächen manuell schleifen und polieren
 d)
 Oberflächen maschinell schleifen und polieren
-
-
+ 
+ 
 5
-
+ 
 e)
 Oberflächen sichtprüfen sowie für die Weiterbehandlung vorbereiten
 f)
 ganze Instrumente manuell und maschinell schleifen und polieren
-
-
-
+ 
+ 
+ 
 10
 19
 Endmontage und Spielfertigmachen von Metallblasinstrumenten (§ 3 Nr. 19)
 a)
 Instrumententeile und Instrument reinigen
-
-
+ 
+ 
 10
-
+ 
 b)
 Ventile, Druckwerke, Züge und Wasserklappen einbauen, regulieren und Funktionsfähigkeit herstellen
 c)
@@ -490,9 +490,9 @@ d)
 Instrument spielfertig machen und Funktionsprüfung durchführen
 e)
 Töne mit Stimmgerät prüfen
-
-
-
+ 
+ 
+ 
 2
 f)
 durch Verändern der Längenmaße die Stimmung von Instrumenten beeinflussen
@@ -500,10 +500,10 @@ durch Verändern der Längenmaße die Stimmung von Instrumenten beeinflussen
 Endkontrolle und Qualitätssicherung (§ 3 Nr. 20)
 a)
 optische und funktionelle Prüfung durchführen
-
-
+ 
+ 
 2
-
+ 
 b)
 Fehler kennzeichnen
 c)
@@ -514,9 +514,9 @@ Möglichkeiten der wirtschaftlichen Beseitigung von Fehlern beurteilen und Insta
 Instandsetzen von Instrumenten (§ 3 Nr. 21)
 a)
 Reparaturumfang festlegen, Ersatzteile bestimmen
-
-
-
+ 
+ 
+ 
 14
 b)
 Instrument, Baugruppen und Teile demontieren; Verbindungen prüfen und instandsetzen

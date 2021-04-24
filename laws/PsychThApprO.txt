@@ -10,62 +10,62 @@ Auf Grund des § 20 Absatz 1 und 2 des Psychotherapeutengesetzes vom 15. Novembe
 
 Inhaltsübersicht
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 § 1 - Inhalte des Studiums
 
@@ -450,12 +450,12 @@ Die beiden Prüferinnen oder Prüfer und ihre stellvertretenden Personen müssen
 (2) Die beiden Bewertungen erfolgen jeweils getrennt durch jede oder jeden der beiden Prüferinnen oder Prüfer.
 (3) Bewertet werden die Leistungen wie folgt:
 
-- 1. :: eine hervorragende Leistung mit der Note sehr gut“ und dem Notenwert 1,
-- 2. :: eine Leistung, die erheblich über den durchschnittlichen Anforderungen liegt, mit der Note gut“ und dem Notenwert 2,
-- 3. :: eine Leistung, die in jeder Hinsicht den durchschnittlichen Anforderungen gerecht wird, mit der Note befriedigend“ und dem Notenwert 3,
-- 4. :: eine Leistung, die trotz ihrer Mängel noch den Anforderungen genügt, mit der Note ausreichend“ und dem Notenwert 4,
-- 5. :: eine Leistung, die wegen erheblicher Mängel den Anforderungen nicht mehr genügt, aber erkennen lässt, dass die notwendigen Grundkenntnisse vorhanden sind und die Mängel in absehbarer Zeit behoben werden können, mit der Note mangelhaft“ und dem Notenwert 5,
-- 6. :: eine Leistung, die den Anforderungen nicht genügt und bei der selbst die Grundkenntnisse so lückenhaft sind, dass die Mängel in absehbarer Zeit nicht behoben werden können, mit der Note ungenügend“ und dem Notenwert 6.
+- 1. :: eine hervorragende Leistung mit der Note „sehr gut“ und dem Notenwert 1,
+- 2. :: eine Leistung, die erheblich über den durchschnittlichen Anforderungen liegt, mit der Note „gut“ und dem Notenwert 2,
+- 3. :: eine Leistung, die in jeder Hinsicht den durchschnittlichen Anforderungen gerecht wird, mit der Note „befriedigend“ und dem Notenwert 3,
+- 4. :: eine Leistung, die trotz ihrer Mängel noch den Anforderungen genügt, mit der Note „ausreichend“ und dem Notenwert 4,
+- 5. :: eine Leistung, die wegen erheblicher Mängel den Anforderungen nicht mehr genügt, aber erkennen lässt, dass die notwendigen Grundkenntnisse vorhanden sind und die Mängel in absehbarer Zeit behoben werden können, mit der Note „mangelhaft“ und dem Notenwert 5,
+- 6. :: eine Leistung, die den Anforderungen nicht genügt und bei der selbst die Grundkenntnisse so lückenhaft sind, dass die Mängel in absehbarer Zeit nicht behoben werden können, mit der Note „ungenügend“ und dem Notenwert 6.
 
 (4) Aus den beiden einzelnen Notenwerten für die in der mündlich-praktischen Fallprüfung erbrachte Leistung errechnet die oder der Vorsitzende der mündlich-praktischen Fallprüfung den Notenwert für die in der mündlich-praktischen Fallprüfung erbrachte Leistung. Aus den beiden einzelnen Notenwerten für das Sitzungsprotokoll errechnet die oder der Vorsitzende der mündlich-praktischen Fallprüfung den Notenwert für das Sitzungsprotokoll. Der Notenwert für die in der mündlich-praktischen Fallprüfung erbrachte Leistung und der Notenwert für das Sitzungsprotokoll ist jeweils das arithmetische Mittel aus den von den beiden Prüferinnen oder Prüfern als Bewertung vergebenen Notenwerten.
 (5) Der errechnete Notenwert für die in der mündlich-praktischen Fallprüfung erbrachte Leistung und der errechnete Notenwert für das Sitzungsprotokoll werden auf eine ganze Zahl gerundet. Dabei wird bei den Folgeziffern 1, 2, 3 und 4 abgerundet und bei den Folgeziffern 5, 6, 7, 8 und 9 aufgerundet. Der gerundeten Zahl wird der entsprechende Notenwert zugeordnet.
@@ -587,14 +587,14 @@ Die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung ist währen
 
 (1) Hat die Prüfungskandidatin oder der Prüfungskandidat die anwendungsorientierte Parcoursprüfung bestanden, so lautet die Note für die anwendungsorientierte Parcoursprüfung
 
-- 1. :: sehr gut“ (1), wenn ihre oder seine Gesamtpunktzahl mindestens 75 Prozent,
-- 2. :: gut“ (2), wenn ihre oder seine Gesamtpunktzahl mindestens 50, aber weniger als 75 Prozent,
-- 3. :: befriedigend“ (3), wenn ihre oder seine Gesamtpunktzahl mindestens 25, aber weniger als 50 Prozent,
-- 4. :: ausreichend“ (4), wenn ihre oder seine Gesamtpunktzahl weniger als 25 Prozent
+- 1. :: „sehr gut“ (1), wenn ihre oder seine Gesamtpunktzahl mindestens 75 Prozent,
+- 2. :: „gut“ (2), wenn ihre oder seine Gesamtpunktzahl mindestens 50, aber weniger als 75 Prozent,
+- 3. :: „befriedigend“ (3), wenn ihre oder seine Gesamtpunktzahl mindestens 25, aber weniger als 50 Prozent,
+- 4. :: „ausreichend“ (4), wenn ihre oder seine Gesamtpunktzahl weniger als 25 Prozent
 
 über der Gesamtpunktzahl liegt, die die Bestehensgrenze bildet. Die Gesamtpunktzahl, die die Bestehensgrenze bildet, ist die Summe aus den einzelnen Mindestpunktzahlen, die für das Bestehen einer Station erforderlich sind.
 
-(2) Hat die Prüfungskandidatin oder der Prüfungskandidat die anwendungsorientierte Parcoursprüfung nicht bestanden, so lautet die Note für die anwendungsorientierte Parcoursprüfung nicht bestanden“.
+(2) Hat die Prüfungskandidatin oder der Prüfungskandidat die anwendungsorientierte Parcoursprüfung nicht bestanden, so lautet die Note für die anwendungsorientierte Parcoursprüfung „nicht bestanden“.
 (+++ § 54: Zur Geltung vgl. § 65 Abs. 4 +++)
 
 § 55 - Übermittlung der Ergebnisse
@@ -739,7 +739,7 @@ Die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung ist währen
 (1) Die Länder können zur Durchführung der Eignungsprüfung die Prüferinnen oder Prüfer und die Prüfungstermine der mündlich-praktischen Fallprüfung nach Abschnitt 2 Unterabschnitt 2 in Anspruch nehmen. Sie haben sicherzustellen, dass die antragstellenden Personen die Eignungsprüfung innerhalb von sechs Monaten nach der Entscheidung nach § 63 ablegen können.
 (2) Die Eignungsprüfung ist in deutscher Sprache abzulegen.
 (3) Die anonymisierte Patientenanamnese, die Gegenstand der Eignungsprüfung ist, wird der antragstellenden Person am Prüfungstag zwei Stunden vor Beginn der Eignungsprüfung von der oder dem Vorsitzenden der mündlich-praktischen Fallprüfung zur Verfügung gestellt.
-(4) Die Eignungsprüfung ist bestanden, wenn die beiden Prüferinnen oder Prüfer die in der Eignungsprüfung erbrachte Leistung übereinstimmend mit bestanden“ bewerten. Die in der Eignungsprüfung erbrachte Leistung ist mit bestanden zu bewerten, wenn sie den Anforderungen genügt. Kommen die beiden Prüferinnen oder Prüfer zu einer unterschiedlichen Bewertung, so entscheidet die oder der Vorsitzende der mündlich-praktischen Fallprüfung über das Bestehen.
+(4) Die Eignungsprüfung ist bestanden, wenn die beiden Prüferinnen oder Prüfer die in der Eignungsprüfung erbrachte Leistung übereinstimmend mit „bestanden“ bewerten. Die in der Eignungsprüfung erbrachte Leistung ist mit bestanden zu bewerten, wenn sie den Anforderungen genügt. Kommen die beiden Prüferinnen oder Prüfer zu einer unterschiedlichen Bewertung, so entscheidet die oder der Vorsitzende der mündlich-praktischen Fallprüfung über das Bestehen.
 (5) Ist die Eignungsprüfung nicht bestanden worden, so kann sie zweimal wiederholt werden.
 (6) Über die Eignungsprüfung wird eine Bescheinigung nach dem Muster der Anlage 8 erteilt.
 (7) Soweit in § 68 sowie in den Absätzen 1 bis 6 nicht etwas anderes bestimmt ist, gelten die §§ 24 bis 26, 29 bis 31 und 35 bis 45 für die Durchführung der Eignungsprüfung entsprechend.
@@ -1101,28 +1101,28 @@ Anlage 3 - (zu § 33 Absatz 2)Zeugnis über die psychotherapeutische Prüfung
 (Ausstellende Stelle)
 \\
 Frau/Herr ...............................................................................................,
-
+ 
 geboren am .....................................................
 in .............................. ,
-
+ 
 hat die psychotherapeutische Prüfung bestanden.
-
-Sie/Er hat die mündlich-praktische Fallprüfung am .................. in .................. mit der Note  ...........................“ bestanden.
-Sie/Er hat die anwendungsorientierte Parcoursprüfung am ...............  in ...............   mit der Note  ......................“ bestanden.
+ 
+Sie/Er hat die mündlich-praktische Fallprüfung am .................. in .................. mit der Note „ ...........................“ bestanden.
+Sie/Er hat die anwendungsorientierte Parcoursprüfung am ...............  in ...............   mit der Note „ ......................“ bestanden.
  \\
 Ort, Datum........................................., .........................................
-
+ 
  \\
 \\
 \\
 \\
 \\
 Stempel
-
+ 
 \\
 .........................................................................................\\
 (Unterschrift)
-
+ 
 
 Anlage 4 - (zu § 40 Absatz 1)Niederschrift über die mündlich-praktische Fallprüfung nach § 40 der Approbationsordnung für Psychotherapeutinnen und Psychotherapeuten
 

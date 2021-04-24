@@ -219,7 +219,7 @@ auf öffentlichen Straßen nur anordnen oder zulassen, wenn die Voraussetzungen 
 
 § 9 - Besondere Kennzeichen
 
-(1) Auf Antrag wird für ein Fahrzeug, für das ein Gutachten nach § 23 der StraH“ als amtlichen Zusatz hinter der Erkennungsnummer, der von der Zulassungsbehörde auch in der Zulassungsbescheinigung Teil I und Teil II zu vermerken ist. Die Zulassungsbehörde kann im Einzelfall bei der Berechnung des in § 2 Nummer 22 geforderten Mindestzeitraums bestimmte vor dem Zeitpunkt des erstmaligen Inverkehrbringens liegende Zeiten, in denen das Fahrzeug außerhalb des öffentlichen Straßenverkehrs in Betrieb genommen wurde, anrechnen.
+(1) Auf Antrag wird für ein Fahrzeug, für das ein Gutachten nach § 23 der Straßenverkehrs-Zulassungs-Ordnung vorliegt, ein Oldtimerkennzeichen zugeteilt. Dieses Kennzeichen besteht aus einem Unterscheidungszeichen und einer Erkennungsnummer nach § 8 Absatz 1. Es führt als Oldtimerkennzeichen den Kennbuchstaben „H“ als amtlichen Zusatz hinter der Erkennungsnummer, der von der Zulassungsbehörde auch in der Zulassungsbescheinigung Teil I und Teil II zu vermerken ist. Die Zulassungsbehörde kann im Einzelfall bei der Berechnung des in § 2 Nummer 22 geforderten Mindestzeitraums bestimmte vor dem Zeitpunkt des erstmaligen Inverkehrbringens liegende Zeiten, in denen das Fahrzeug außerhalb des öffentlichen Straßenverkehrs in Betrieb genommen wurde, anrechnen.
 (2) Bei Fahrzeugen, deren Halter von der Kraftfahrzeugsteuer befreit ist, ist abweichend von § 10 Absatz 1 ein Kennzeichen mit grüner Beschriftung auf weißem Grund zuzuteilen (grünes Kennzeichen); ausgenommen hiervon sind:
 
 - 1. :: Fahrzeuge von Behörden,
@@ -249,7 +249,7 @@ auf öffentlichen Straßen nur anordnen oder zulassen, wenn die Voraussetzungen 
 § 9a - Kennzeichnung elektrisch betriebener Fahrzeuge
 
 (1) Auf Antrag wird für ein Fahrzeug im Sinne des § 2 Nummer 1 des Elektromobilitätsgesetzes ein Kennzeichen für elektrisch betriebene Fahrzeuge zugeteilt; für ein Fahrzeug im Sinne des § 2 Nummer 3 des Elektromobilitätsgesetzes jedoch nur, wenn dieses die Anforderungen des § 3 Absatz 2 in Verbindung mit § 5 Absatz 2 des Elektromobilitätsgesetzes erfüllt.
-(2) Das Kennzeichen nach Absatz 1 ist das nach § 8 Absatz 1, auch in Verbindung mit § 9 Absatz 2 und 3, zugeteilte Kennzeichen. Es führt den Kennbuchstaben E“ als amtlichen Zusatz hinter der Erkennungsnummer, der von der Zulassungsbehörde auch in der Zulassungsbescheinigung Teil I und Teil II zu vermerken ist. Wird ein Wechselkennzeichen nach § 8 Absatz 1a zugeteilt, ist der Kennbuchstabe E“ auf dem fahrzeugbezogenen Teil anzubringen.
+(2) Das Kennzeichen nach Absatz 1 ist das nach § 8 Absatz 1, auch in Verbindung mit § 9 Absatz 2 und 3, zugeteilte Kennzeichen. Es führt den Kennbuchstaben „E“ als amtlichen Zusatz hinter der Erkennungsnummer, der von der Zulassungsbehörde auch in der Zulassungsbescheinigung Teil I und Teil II zu vermerken ist. Wird ein Wechselkennzeichen nach § 8 Absatz 1a zugeteilt, ist der Kennbuchstabe „E“ auf dem fahrzeugbezogenen Teil anzubringen.
 (3) Mit dem Antrag nach Absatz 1 ist nachzuweisen, dass es sich um ein dort bezeichnetes Fahrzeug handelt.
 (4) Bei einem Fahrzeug im Sinne des Absatzes 1, das nach den Vorschriften seines Herkunftsstaates, der nicht die Bundesrepublik Deutschland ist, zur Teilnahme am Straßenverkehr berechtigt ist, erfolgt die Kennzeichnung durch eine Plakette nach Anlage 3a, die an der Rückseite des Fahrzeuges gut sichtbar anzubringen ist. Die Plakette wird auf Antrag von einer vom Antragsteller aufgesuchten Zulassungsbehörde ausgegeben. Mit dem Antrag ist einer der folgenden Nachweise vorzulegen:
 
@@ -280,8 +280,8 @@ Hintere Kennzeichen müssen eine Beleuchtungseinrichtung haben, die den technisc
 (7) Das vordere Kennzeichen darf bis zu einem Vertikalwinkel von 30 Grad gegen die Fahrtrichtung geneigt sein; der untere Rand darf nicht weniger als 200 mm über der Fahrbahn liegen und die sonst vorhandene Bodenfreiheit des Fahrzeugs nicht verringern. Vorderes und hinteres Kennzeichen müssen in einem Winkelbereich von je 30 Grad beiderseits der Fahrzeuglängsachse stets auf ausreichende Entfernung lesbar sein.
 (8) Anhänger nach § 3 Absatz 2 Satz 1 Nummer 2 Buchstabe a bis c, f und g sowie Anhänger nach § 3 Absatz 2 Satz 1 Nummer 2 Buchstabe d und e, die ein eigenes Kennzeichen nach § 4 nicht führen müssen, haben an der Rückseite ein Kennzeichen zu führen, das der Halter des Zugfahrzeugs für eines seiner Zugfahrzeuge verwenden darf; eine Abstempelung ist nicht erforderlich.
 (9) Wird das hintere Kennzeichen durch einen Ladungsträger oder mitgeführte Ladung teilweise oder vollständig verdeckt, so muss am Fahrzeug oder am Ladungsträger das Kennzeichen wiederholt werden. Eine Abstempelung ist nicht erforderlich. Bei Fahrzeugen, an denen nach § 49a Absatz 9 der Straßenverkehrs-Zulassungs-Ordnung Leuchtenträger zulässig sind, darf das hintere Kennzeichen auf dem Leuchtenträger angebracht sein.
-(10) AuD“.
-(11) Zeichen und Einrichtungen aller Art, die zu Verwechslungen mit Kennzeichen oder dem Unterscheidungszeichen nach Absatz 10 führen oder deren Wirkung beeinträchtigen können, dürfen an Fahrzeugen nicht angebracht werden. Über die Anbringung der Zeichen CD“ für Fahrzeuge von Angehörigen diplomatischer Vertretungen und CC“ für Fahrzeuge von Angehörigen konsularischer Vertretungen entscheidet das Bundesministerium für Verkehr und digitale Infrastruktur. Die Zeichen CD und CC dürfen an einem Fahrzeug auf öffentlichen Straßen nur geführt werden, wenn die Berechtigung in der Zulassungsbescheinigung Teil I eingetragen ist. Der Halter darf die Inbetriebnahme eines Fahrzeugs auf öffentlichen Straßen nur anordnen oder zulassen, wenn die Voraussetzungen nach Satz 3 vorliegen.
+(10) Außer dem Kennzeichen darf nur das Unterscheidungszeichen für den Zulassungsstaat nach Artikel 37 in Verbindung mit Anhang 3 des Übereinkommens vom 8. November 1968 über den Straßenverkehr (BGBl. 1977 II S. 809) am Fahrzeug angebracht werden. Für die Bundesrepublik Deutschland ist dies der Großbuchstabe „D“.
+(11) Zeichen und Einrichtungen aller Art, die zu Verwechslungen mit Kennzeichen oder dem Unterscheidungszeichen nach Absatz 10 führen oder deren Wirkung beeinträchtigen können, dürfen an Fahrzeugen nicht angebracht werden. Über die Anbringung der Zeichen „CD“ für Fahrzeuge von Angehörigen diplomatischer Vertretungen und „CC“ für Fahrzeuge von Angehörigen konsularischer Vertretungen entscheidet das Bundesministerium für Verkehr und digitale Infrastruktur. Die Zeichen CD und CC dürfen an einem Fahrzeug auf öffentlichen Straßen nur geführt werden, wenn die Berechtigung in der Zulassungsbescheinigung Teil I eingetragen ist. Der Halter darf die Inbetriebnahme eines Fahrzeugs auf öffentlichen Straßen nur anordnen oder zulassen, wenn die Voraussetzungen nach Satz 3 vorliegen.
 (12) Unbeschadet des Absatzes 4 dürfen Fahrzeuge auf öffentlichen Straßen nur in Betrieb gesetzt werden, wenn das zugeteilte Kennzeichen auf einem Kennzeichenschild nach Absatz 1, 2 Satz 1, 2 und 3 Halbsatz 1, Absatz 5 Satz 1 und 2 sowie Absatz 6 bis 8 und 9 Satz 1 ausgestaltet, angebracht und beleuchtet ist und die Stempelplakette nach Absatz 3 vorhanden ist und keine verwechslungsfähigen oder beeinträchtigenden Zeichen und Einrichtungen nach Absatz 11 Satz 1 am Fahrzeug angebracht sind. Der Halter darf die Inbetriebnahme eines Fahrzeugs nicht anordnen oder zulassen, wenn die Voraussetzungen nach Satz 1 nicht vorliegen.
 (13) Abweichend von Absatz 2 Satz 1 und Absatz 6 Satz 2 bis 4 dürfen nach § 22a Absatz 1 Nummer 21 der Straßenverkehrs-Zulassungs-Ordnung bauartgenehmigte Beleuchtungseinrichtungen für hintere transparente Kennzeichen oder Beleuchtungseinrichtungen, die mit dem Kennzeichen eine Einheit bilden oder bei der sich das Kennzeichen hinter einer durchsichtigen, lichtleitenden Abschlussscheibe befindet,
 
@@ -293,7 +293,7 @@ soweit jeweils die Nummern 22 und 22a der Technischen Anforderungen an Fahrzeugt
 
 § 11 - Zulassungsbescheinigung Teil I
 
-(1) Die Zulassungsbescheinigung Teil I wird nach den Vorgaben der Anlage 5 ausgefertigt. Sie ist mit einer sichtbaren Markierung mit der Aufschrift Nur für internetbasierte Zulassungsverfahren freilegen. Dokument nur unbeschädigt gültig.“ zu versehen. Die sichtbare Markierung trägt zudem eine Druckstücknummer, die für jede Zulassungsbescheinigung Teil I nur einmal vergeben sein darf. Die sichtbare Markierung muss ferner die darunterliegende Markierung mit der Aufschrift Dokument nicht mehr gültig“ und einen Sicherheitscode so verdecken, dass die darunterliegende Markierung und der Sicherheitscode nur durch Freilegung unumkehrbar sichtbar gemacht werden können.
+(1) Die Zulassungsbescheinigung Teil I wird nach den Vorgaben der Anlage 5 ausgefertigt. Sie ist mit einer sichtbaren Markierung mit der Aufschrift „Nur für internetbasierte Zulassungsverfahren freilegen. Dokument nur unbeschädigt gültig.“ zu versehen. Die sichtbare Markierung trägt zudem eine Druckstücknummer, die für jede Zulassungsbescheinigung Teil I nur einmal vergeben sein darf. Die sichtbare Markierung muss ferner die darunterliegende Markierung mit der Aufschrift „Dokument nicht mehr gültig“ und einen Sicherheitscode so verdecken, dass die darunterliegende Markierung und der Sicherheitscode nur durch Freilegung unumkehrbar sichtbar gemacht werden können.
 (2) Sind für denselben Halter mehrere Anhänger zugelassen, kann zusätzlich von der Zulassungsbehörde auf Antrag ein Verzeichnis der für den Halter zugelassenen Anhänger ausgestellt werden. Aus dem Verzeichnis müssen Name, Vorname und Anschrift des Halters sowie Marke, Fahrzeugklasse und Art des Aufbaus, Leermasse, zulässige Gesamtmasse und bei Sattelanhängern auch die Stützlast, die Fahrzeug-Identifizierungsnummer, das Datum der ersten Zulassung und das Kennzeichen der Anhänger ersichtlich sein.
 (3) Das Kraftfahrt-Bundesamt stellt der Zulassungsbehörde
 
@@ -310,7 +310,7 @@ zur Verfügung, damit die Zulassungsbehörde die Zulassungsbescheinigung Teil I 
 § 12 - Zulassungsbescheinigung Teil II
 
 (1) Mit dem Antrag auf Ausfertigung einer Zulassungsbescheinigung Teil II ist der Zulassungsbehörde die Verfügungsberechtigung über das Fahrzeug nachzuweisen. In begründeten Einzelfällen kann die Zulassungsbehörde beim Kraftfahrt-Bundesamt anfragen, ob das Fahrzeug im Zentralen Fahrzeugregister eingetragen, ein Suchvermerk vorhanden oder ob bereits eine Zulassungsbescheinigung Teil II ausgegeben worden ist. Die Sätze 1 und 2 sind auch anzuwenden, wenn die Ausfüllung eines Vordrucks der Zulassungsbescheinigung Teil II beantragt wird, ohne dass das Fahrzeug zugelassen werden soll. Für Fahrzeuge, die im Ausland zugelassen sind oder waren, ist das Ausfüllen eines Vordrucks einer Zulassungsbescheinigung Teil II nur im Zusammenhang mit der Zulassung des Fahrzeugs zulässig.
-(2) Die Zulassungsbescheinigung Teil II wird nach den Vorgaben der Anlage 7 ausgefertigt. Sie ist mit einer sichtbaren Markierung versehen; neben der sichtbaren Markierung befindet sich der Hinweis Nur zur Nutzung des Sicherheitscodes im internetbasierten Zulassungsverfahren freilegen. Dokument nur unbeschädigt gültig“. Mit der sichtbaren Markierung werden die darunterliegende Markierung mit der Aufschrift Dokument nicht mehr gültig“ und ein Sicherheitscode der Zulassungsbescheinigung Teil II verdeckt.
+(2) Die Zulassungsbescheinigung Teil II wird nach den Vorgaben der Anlage 7 ausgefertigt. Sie ist mit einer sichtbaren Markierung versehen; neben der sichtbaren Markierung befindet sich der Hinweis „Nur zur Nutzung des Sicherheitscodes im internetbasierten Zulassungsverfahren freilegen. Dokument nur unbeschädigt gültig“. Mit der sichtbaren Markierung werden die darunterliegende Markierung mit der Aufschrift „Dokument nicht mehr gültig“ und ein Sicherheitscode der Zulassungsbescheinigung Teil II verdeckt.
 (3) Die Ausfüllung einer Zulassungsbescheinigung Teil II oder deren erstmalige Ausfertigung durch die Zulassungsbehörde ist nur zulässig bei Vorlage
 
 - 1. :: der Übereinstimmungsbescheinigung,
@@ -460,7 +460,7 @@ voraus. Die Gleichwertigkeit der Sicherheit von Verfahren ist gegeben, wenn das 
 
 erfasst und nach § 15c Absatz 2 verifiziert.
 
-(2) Um den Sicherheitscode der Stempelplaketten als Nachweis der Entstempelung sichtbar zu machen, darf der Halter die den Sicherheitscode verdeckende Schicht der Stempelplaketten auf den Kennzeichenschildern entfernen. Um den Sicherheitscode der Zulassungsbescheinigung Teil I als Nachweis des Besitzes der Zulassungsbescheinigung Teil I sichtbar zu machen, darf der Halter die Markierung mit der Aufschrift Nur für internetbasierte Zulassungsverfahren freilegen. Dokument nur unbeschädigt gültig.“ entfernen, wodurch der Schriftzug Dokument nicht mehr gültig“ in der Zulassungsbescheinigung Teil I sichtbar wird. Um den Sicherheitscode der Zulassungsbescheinigung Teil II als Nachweis des Besitzes der Zulassungsbescheinigung Teil II sichtbar zu machen, darf der Halter die Markierung Nur zur Nutzung des Sicherheitscodes im internetbasierten Zulassungsverfahren freilegen. Dokument nur unbeschädigt gültig.“ entfernen, wodurch der Schriftzug Dokument nicht mehr gültig“ in der Zulassungsbescheinigung Teil II sichtbar wird.
+(2) Um den Sicherheitscode der Stempelplaketten als Nachweis der Entstempelung sichtbar zu machen, darf der Halter die den Sicherheitscode verdeckende Schicht der Stempelplaketten auf den Kennzeichenschildern entfernen. Um den Sicherheitscode der Zulassungsbescheinigung Teil I als Nachweis des Besitzes der Zulassungsbescheinigung Teil I sichtbar zu machen, darf der Halter die Markierung mit der Aufschrift „Nur für internetbasierte Zulassungsverfahren freilegen. Dokument nur unbeschädigt gültig.“ entfernen, wodurch der Schriftzug „Dokument nicht mehr gültig“ in der Zulassungsbescheinigung Teil I sichtbar wird. Um den Sicherheitscode der Zulassungsbescheinigung Teil II als Nachweis des Besitzes der Zulassungsbescheinigung Teil II sichtbar zu machen, darf der Halter die Markierung „Nur zur Nutzung des Sicherheitscodes im internetbasierten Zulassungsverfahren freilegen. Dokument nur unbeschädigt gültig.“ entfernen, wodurch der Schriftzug „Dokument nicht mehr gültig“ in der Zulassungsbescheinigung Teil II sichtbar wird.
 (3) Ein Kennzeichenschild, bei dessen Stempelplakette der Sicherheitscode sichtbar ist, gilt als ungestempeltes Kennzeichen im Sinne des § 10 Absatz 4 Satz 1, auch in Verbindung mit Absatz 12.
 
 § 15e - Nachweis der Hauptuntersuchungen und Sicherheitsprüfungen nach § 29 der Straßenverkehrs-Zulassungs-Ordnung
@@ -658,8 +658,8 @@ nach dem Verfahren des Unterabschnitts 1 in Verbindung mit § 15i nach Maßgabe 
 § 16 - Prüfungsfahrten, Probefahrten und Überführungsfahrten mit rotem Kennzeichen
 
 (1) Ein Fahrzeug darf, wenn es vorbehaltlich der Sätze 3 und 4 nicht zugelassen ist, auch ohne eine EG-Typgenehmigung, nationale Typgenehmigung oder Einzelgenehmigung zu Prüfungs-, Probe- oder Überführungsfahrten in Betrieb gesetzt werden, wenn eine dem Pflichtversicherungsgesetz entsprechende Kraftfahrzeug-Haftpflichtversicherung besteht und das Fahrzeug unbeschadet des § 16a ein Kennzeichen mit roter Beschriftung auf weißem rot gerandetem Grund (rotes Kennzeichen) führt. Dies gilt auch für notwendige Fahrten zum Tanken und zur Außenreinigung anlässlich solcher Fahrten nach Satz 1 sowie für notwendige Fahrten zum Zwecke der Reparatur oder Wartung der betreffenden Fahrzeuge. Ein Fahrzeug, dem nach § 9 Absatz 3 ein Saisonkennzeichen zugeteilt ist, darf außerhalb des Betriebszeitraums nach den Sätzen 1 und 2 in Betrieb gesetzt werden, wenn das Saisonkennzeichen nicht gleichzeitig geführt wird. Ein Fahrzeug, dem nach § 8 Absatz 1a ein Wechselkennzeichen zugeteilt ist, darf nach den Sätzen 1 und 2 in Betrieb gesetzt werden, wenn das Wechselkennzeichen weder vollständig noch in Teilen gleichzeitig geführt wird. § 31 Absatz 2 der Straßenverkehrs-Zulassungs-Ordnung bleibt unberührt.
-(2) Rote Kennzeichen und besondere Fahrzeugscheinhefte für Fahrzeuge mit roten Kennzeichen nach Anlage 9 können durch die örtlich zuständige Zulassungsbehörde zuverlässigen Kraftfahrzeugherstellern, Kraftfahrzeugteileherstellern, Kraftfahrzeugwerkstätten und Kraftfahrzeughändlern befristet oder widerruflich zur wiederkehrenden betrieblichen Verwendung, auch an unterschiedlichen Fahrzeugen, zugeteilt werden. Ein rotes Kennzeichen besteht aus einem Unterscheidungszeichen und einer Erkennungsnummer jeweils nach § 8 Absatz 1, jedoch besteht die Erkennungsnummer nur aus Ziffern und beginnt mit 06“. Für jedes Fahrzeug ist eine gesonderte Seite des Fahrzeugscheinheftes zu dessen Beschreibung zu verwenden; die Angaben zum Fahrzeug sind vollständig und in dauerhafter Schrift vor Antritt der ersten Fahrt einzutragen. Das Fahrzeugscheinheft ist bei jeder Fahrt mitzuführen und zuständigen Personen auf Verlangen auszuhändigen. Über jede Prüfungs-, Probe- oder Überführungsfahrt sind fortlaufende Aufzeichnungen zu führen, aus denen das verwendete Kennzeichen, das Datum der Fahrt, deren Beginn und Ende, der Fahrzeugführer mit dessen Anschrift, die Fahrzeugklasse und der Hersteller des Fahrzeugs, die Fahrzeug-Identifizierungsnummer und die Fahrtstrecke ersichtlich sind. Die Aufzeichnungen sind ein Jahr lang aufzubewahren; sie sind zuständigen Personen auf Verlangen jederzeit zur Prüfung auszuhändigen. Nach Ablauf der Frist, für die das Kennzeichen zugeteilt worden ist, ist das Kennzeichen mit dem dazugehörigen Fahrzeugscheinheft der Zulassungsbehörde unverzüglich zurückzugeben.
-(3) Rote Kennzeichen können durch die örtlich zuständige Zulassungsbehörde auch Technischen Prüfstellen sowie anerkannten Überwachungsorganisationen nach Anlage VIIIb der Stra05“.
+(2) Rote Kennzeichen und besondere Fahrzeugscheinhefte für Fahrzeuge mit roten Kennzeichen nach Anlage 9 können durch die örtlich zuständige Zulassungsbehörde zuverlässigen Kraftfahrzeugherstellern, Kraftfahrzeugteileherstellern, Kraftfahrzeugwerkstätten und Kraftfahrzeughändlern befristet oder widerruflich zur wiederkehrenden betrieblichen Verwendung, auch an unterschiedlichen Fahrzeugen, zugeteilt werden. Ein rotes Kennzeichen besteht aus einem Unterscheidungszeichen und einer Erkennungsnummer jeweils nach § 8 Absatz 1, jedoch besteht die Erkennungsnummer nur aus Ziffern und beginnt mit „06“. Für jedes Fahrzeug ist eine gesonderte Seite des Fahrzeugscheinheftes zu dessen Beschreibung zu verwenden; die Angaben zum Fahrzeug sind vollständig und in dauerhafter Schrift vor Antritt der ersten Fahrt einzutragen. Das Fahrzeugscheinheft ist bei jeder Fahrt mitzuführen und zuständigen Personen auf Verlangen auszuhändigen. Über jede Prüfungs-, Probe- oder Überführungsfahrt sind fortlaufende Aufzeichnungen zu führen, aus denen das verwendete Kennzeichen, das Datum der Fahrt, deren Beginn und Ende, der Fahrzeugführer mit dessen Anschrift, die Fahrzeugklasse und der Hersteller des Fahrzeugs, die Fahrzeug-Identifizierungsnummer und die Fahrtstrecke ersichtlich sind. Die Aufzeichnungen sind ein Jahr lang aufzubewahren; sie sind zuständigen Personen auf Verlangen jederzeit zur Prüfung auszuhändigen. Nach Ablauf der Frist, für die das Kennzeichen zugeteilt worden ist, ist das Kennzeichen mit dem dazugehörigen Fahrzeugscheinheft der Zulassungsbehörde unverzüglich zurückzugeben.
+(3) Rote Kennzeichen können durch die örtlich zuständige Zulassungsbehörde auch Technischen Prüfstellen sowie anerkannten Überwachungsorganisationen nach Anlage VIIIb der Straßenverkehrs-Zulassungs-Ordnung für die Durchführung von Prüfungsfahrten im Rahmen der Hauptuntersuchungen, Sicherheitsprüfungen, Begutachtungen nach § 23 der Straßenverkehrs-Zulassungs-Ordnung und Untersuchungen oder Begutachtungen im Rahmen des § 5 widerruflich zur wiederkehrenden betrieblichen Verwendung an unterschiedlichen Fahrzeugen zugeteilt werden. Das rote Kennzeichen besteht aus einem Unterscheidungszeichen und einer Erkennungsnummer jeweils nach § 8 Absatz 1, jedoch besteht die Erkennungsnummer nur aus Ziffern und beginnt mit „05“.
 (4) Mit dem Antrag auf Zuteilung eines roten Kennzeichens sind vom Antragsteller zum Zwecke der Speicherung in den Fahrzeugregistern seine in § 6 Absatz 1 Satz 2 bezeichneten Daten und die in § 6 Absatz 4 Nummer 3 bezeichneten Daten zur Kraftfahrzeug-Haftpflichtversicherung mitzuteilen und auf Verlangen nachzuweisen.
 (5) Rote Kennzeichen sind nach § 10 in Verbindung mit Anlage 4 Abschnitt 1 und 7 auszugestalten und anzubringen. Sie brauchen jedoch nicht fest angebracht zu sein. Fahrzeuge mit roten Kennzeichen dürfen im Übrigen nur nach Maßgabe des § 10 Absatz 12 Satz 1 in Betrieb genommen werden. Der Halter darf die Inbetriebnahme eines Fahrzeugs nicht anordnen oder zulassen, wenn die Voraussetzungen nach Satz 1 und 3 nicht vorliegen.
 (6) Die §§ 29 und 57b der Straßenverkehrs-Zulassungs-Ordnung finden keine Anwendung.
@@ -693,7 +693,7 @@ zur Speicherung in den Fahrzeugregistern mitzuteilen und auf Verlangen nachzuwei
 
 verwendet werden. Kurzzeitkennzeichen sind nach § 10, ausgenommen Absatz 3 Satz 2, 3 und 5 bis 7, in Verbindung mit Anlage 4 Abschnitt 1 und 6 auszugestalten und anzubringen. Sie brauchen jedoch nicht fest angebracht zu sein. Fahrzeuge mit Kurzzeitkennzeichen dürfen im Übrigen nur nach Maßgabe des § 10 Absatz 12 Satz 1 in Betrieb genommen werden. Der Halter darf die Inbetriebnahme eines Fahrzeugs nur anordnen oder zulassen, wenn die Voraussetzungen nach Satz 1 bis 4 vorliegen.
 
-(4) Das Kurzzeitkennzeichen besteht aus einem Unterscheidungszeichen und einer Erkennungsnummer jeweils nach Ma03“ oder 04“. Das Kennzeichenschild für das Kurzzeitkennzeichen enthält außerdem ein Ablaufdatum, das längstens auf fünf Tage ab der Zuteilung zu bemessen ist. Nach Ablauf der Gültigkeit des Kurzzeitkennzeichens darf das Fahrzeug auf öffentlichen Straßen nicht mehr in Betrieb gesetzt werden. Der Halter darf im Falle des Satzes 3 die Inbetriebnahme des Fahrzeugs nicht anordnen oder zulassen.
+(4) Das Kurzzeitkennzeichen besteht aus einem Unterscheidungszeichen und einer Erkennungsnummer jeweils nach Maßgabe des § 8 Absatz 1, jedoch besteht die Erkennungsnummer nur aus Ziffern und beginnt mit „03“ oder „04“. Das Kennzeichenschild für das Kurzzeitkennzeichen enthält außerdem ein Ablaufdatum, das längstens auf fünf Tage ab der Zuteilung zu bemessen ist. Nach Ablauf der Gültigkeit des Kurzzeitkennzeichens darf das Fahrzeug auf öffentlichen Straßen nicht mehr in Betrieb gesetzt werden. Der Halter darf im Falle des Satzes 3 die Inbetriebnahme des Fahrzeugs nicht anordnen oder zulassen.
 (5) Der Fahrzeugschein für Fahrzeuge mit Kurzzeitkennzeichen ist nach dem Muster der Anlage 10 auszufertigen. Die Beschränkungen nach den Absätzen 6 und 7 sind im Fahrzeugschein zu vermerken. Der Fahrzeugschein ist bei jeder Fahrt mitzuführen und zuständigen Personen auf Verlangen zur Prüfung auszuhändigen.
 (6) Liegen die Voraussetzungen nach Absatz 1 Satz 1 Nummer 1 nicht vor, dürfen abweichend von Absatz 1 nur Fahrten, die in unmittelbarem Zusammenhang mit der Erlangung einer neuen Betriebserlaubnis stehen, im Bezirk der Zulassungsbehörde, die für den Standort des Fahrzeugs zuständig ist, oder einem angrenzenden Bezirk und zurück durchgeführt werden.
 (7) Liegen die Voraussetzungen nach Absatz 1 Satz 1 Nummer 2 nicht vor oder liegt der Ablauf der Frist für die nächste Hauptuntersuchung oder Sicherheitsprüfung nach § 29 der Straßenverkehrs-Zulassungs-Ordnung vor dem Ablauf der Gültigkeit des Kurzzeitkennzeichens, dürfen abweichend von Absatz 1 ohne einen Nachweis der durchgeführten Hauptuntersuchung und Sicherheitsprüfung nur Fahrten zu einer Untersuchungsstelle im Bezirk der Zulassungsbehörde, die für den Standort des Fahrzeugs zuständig ist, oder einem angrenzenden Bezirk und zurück durchgeführt werden. Wird dem Fahrzeug nach Nummer 3.1.4.2, 3.1.4.3 oder 3.2.3.2 der Anlage VIII der Straßenverkehrs-Zulassungs-Ordnung bei der Hauptuntersuchung und Sicherheitsprüfung nach § 29 der Straßenverkehrs-Zulassungs-Ordnung keine Mängelfreiheit bescheinigt, dürfen abweichend von Absatz 1 auch Fahrten zur unmittelbaren Reparatur festgestellter Mängel in einer geeigneten Einrichtung im Bezirk der Zulassungsbehörde, die für den Standort des Fahrzeugs zuständig ist, oder einem angrenzenden Bezirk und zurück durchgeführt werden. Auf Fahrzeuge, die nach Nummer 3.1.4.4 oder 3.2.3.3 der Anlage VIII der Straßenverkehrs-Zulassungs-Ordnung als verkehrsunsicher oder verkehrsgefährdend eingestuft wurden, sind die Sätze 1 und 2 nicht anzuwenden.
@@ -702,7 +702,7 @@ verwendet werden. Kurzzeitkennzeichen sind nach § 10, ausgenommen Absatz 3 Satz
 § 17 - Fahrten zur Teilnahme an Veranstaltungen für Oldtimer
 
 (1) Oldtimer, die an Veranstaltungen teilnehmen, die der Darstellung von Oldtimer-Fahrzeugen und der Pflege des kraftfahrzeugtechnischen Kulturgutes dienen, benötigen hierfür sowie für Anfahrten zu und Abfahrten von solchen Veranstaltungen keine Betriebserlaubnis und keine Zulassung, wenn sie ein rotes Oldtimerkennzeichen führen. Dies gilt auch für Probefahrten und Überführungsfahrten sowie für Fahrten zum Zwecke der Reparatur oder Wartung der betreffenden Fahrzeuge. § 31 Absatz 2 der Straßenverkehrs-Zulassungs-Ordnung bleibt unberührt.
-(2) Für die Zuteilung und Verwendung der roten Oldtimerkennzeichen findet § 16 Absatz 2 bis 5 entsprechend mit der Ma07“. Es ist nach § 10 in Verbindung mit Anlage 4 Abschnitt 1 und 7 auszugestalten und anzubringen. Fahrzeuge mit rotem Oldtimerkennzeichen dürfen im Übrigen nur nach Maßgabe des § 10 Absatz 12 in Betrieb genommen werden. Der Halter darf die Inbetriebnahme eines Fahrzeugs nicht anordnen oder zulassen, wenn die Voraussetzungen nach Satz 4 nicht vorliegen.
+(2) Für die Zuteilung und Verwendung der roten Oldtimerkennzeichen findet § 16 Absatz 2 bis 5 entsprechend mit der Maßgabe Anwendung, dass ein Fahrzeugscheinheft für rote Oldtimerkennzeichen nach dem Muster der Anlage 10a ausgegeben wird und dass das Kennzeichen nur an den Fahrzeugen verwendet werden darf, für die es ausgegeben worden ist. Das rote Oldtimerkennzeichen besteht aus einem Unterscheidungszeichen und einer Erkennungsnummer jeweils nach § 8 Absatz 1, jedoch besteht die Erkennungsnummer nur aus Ziffern und beginnt mit „07“. Es ist nach § 10 in Verbindung mit Anlage 4 Abschnitt 1 und 7 auszugestalten und anzubringen. Fahrzeuge mit rotem Oldtimerkennzeichen dürfen im Übrigen nur nach Maßgabe des § 10 Absatz 12 in Betrieb genommen werden. Der Halter darf die Inbetriebnahme eines Fahrzeugs nicht anordnen oder zulassen, wenn die Voraussetzungen nach Satz 4 nicht vorliegen.
 (3) Unberührt bleiben Erlaubnis- und Genehmigungspflichten, soweit sie sich aus anderen Vorschriften, insbesondere aus § 29 Absatz 2 der Straßenverkehrs-Ordnung, ergeben.
 
 § 18 - Fahrten im internationalen Verkehr
@@ -829,7 +829,7 @@ Das zulässige Datenformat wird vom Kraftfahrt-Bundesamt im Bundesanzeiger sowie
 (2) Versicherungskennzeichen nach Absatz 1 müssen reflektierend sein. Die Rückstrahlwerte müssen Abschnitt 5.3.4 des Normblattes DIN 74069, Ausgabe Mai 2016, entsprechen.
 (3) Das Versicherungskennzeichen ist an der Rückseite des Kraftfahrzeugs möglichst unter der Schlussleuchte fest anzubringen. Das Versicherungskennzeichen darf bis zu einem Vertikalwinkel von 30 Grad in Fahrtrichtung geneigt sein. Der untere Rand des Versicherungskennzeichens darf nicht weniger als 200 mm über der Fahrbahn liegen. Versicherungskennzeichen müssen hinter dem Kraftfahrzeug in einem Winkelbereich von je 45 Grad beiderseits der Fahrzeuglängsachse auf eine Entfernung von mindestens 15 m lesbar sein.
 (4) Wird ein Anhänger mitgeführt, so ist die Erkennungsnummer des Versicherungskennzeichens an der Rückseite des Anhängers so zu wiederholen, dass sie in einem Winkelbereich von je 45 Grad beiderseits der Fahrzeuglängsachse bei Tageslicht auf eine Entfernung von mindestens 15 m lesbar ist; die Farben der Schrift und ihres Untergrundes müssen denen des Versicherungskennzeichens des ziehenden Kraftfahrzeugs entsprechen. Eine Einrichtung zur Beleuchtung des Versicherungskennzeichens am ziehenden Kraftfahrzeug und der Erkennungsnummer am Anhänger ist zulässig, jedoch nicht erforderlich.
-(5) AuD“.
+(5) Außer dem Versicherungskennzeichen darf nur das Unterscheidungszeichen des Zulassungsstaates nach Artikel 37 in Verbindung mit Anhang 3 des Übereinkommens vom 8. November 1968 über den Straßenverkehr am Kraftfahrzeug angebracht werden. Für die Bundesrepublik Deutschland ist dies der Großbuchstabe „D“.
 (6) Zeichen und Einrichtungen aller Art, die zu Verwechslungen mit dem Versicherungskennzeichen oder dem Unterscheidungszeichen nach Absatz 5 führen oder seine Wirkung beeinträchtigen können, dürfen an Fahrzeugen nicht angebracht werden.
 (7) Kraftfahrzeuge, die nach § 4 Absatz 3 Satz 1 ein Versicherungskennzeichen führen müssen, dürfen auf öffentlichen Straßen nur in Betrieb gesetzt werden, wenn das Versicherungskennzeichen entsprechend den Absätzen 1 bis 3 ausgestaltet und angebracht ist und verwechslungsfähige oder beeinträchtigende Zeichen und Einrichtungen nach Absatz 6 am Fahrzeug nicht angebracht sind.
 
@@ -1144,10 +1144,10 @@ In den Fahrzeugregistern ist ferner das Datum der Änderung der Halterdaten zu s
 - 13. :: bei bestandener Hauptuntersuchung: Monat und Jahr des Ablaufs der Frist für die nächste Hauptuntersuchung und, soweit erforderlich, für die nächste Sicherheitsprüfung,
 - 14. :: bei bestandener Sicherheitsprüfung: Monat und Jahr des Ablaufs der Frist für die nächste Sicherheitsprüfung,
 - 15. :: Ergebnis
-  - a) :: der Hauptuntersuchung mit der Angabe ohne festgestellte Mängel“, geringe Mängel“, erhebliche Mängel“ oder verkehrsunsicher“ oder
-  - b) :: der Sicherheitsprüfung mit der Angabe ohne festgestellte Mängel“, Mängel“ oder unmittelbar verkehrsgefährdende Mängel“.
+  - a) :: der Hauptuntersuchung mit der Angabe „ohne festgestellte Mängel“, „geringe Mängel“, „erhebliche Mängel“ oder „verkehrsunsicher“ oder
+  - b) :: der Sicherheitsprüfung mit der Angabe „ohne festgestellte Mängel“, „Mängel“ oder „unmittelbar verkehrsgefährdende Mängel“.
 
-Die Übermittlung der Daten durch die zur Durchführung von Hauptuntersuchungen oder Sicherheitsprüfungen nach § 29 berechtigten Personen an das Kraftfahrt-Bundesamt erfolgt nach Maverkehrsunsicher“ oder der Sicherheitsprüfung die Angabe unmittelbar verkehrsgefährdende Mängel“ übermittelt wird und dem Fahrzeug ein Kennzeichen zugeteilt ist, teilt das Kraftfahrt-Bundesamt dies der Zulassungsbehörde mit.
+Die Übermittlung der Daten durch die zur Durchführung von Hauptuntersuchungen oder Sicherheitsprüfungen nach § 29 berechtigten Personen an das Kraftfahrt-Bundesamt erfolgt nach Maßgabe des § 15a Absatz 3. Soweit nach Satz 1 Nummer 15 als Ergebnis der Hauptuntersuchung die Angabe „verkehrsunsicher“ oder der Sicherheitsprüfung die Angabe „unmittelbar verkehrsgefährdende Mängel“ übermittelt wird und dem Fahrzeug ein Kennzeichen zugeteilt ist, teilt das Kraftfahrt-Bundesamt dies der Zulassungsbehörde mit.
 
 (2) Folgende weitere Daten über Hauptuntersuchungen sind im Zentralen Fahrzeugregister zu speichern:
 
@@ -1166,7 +1166,7 @@ Die Übermittlung der Daten durch die zur Durchführung von Hauptuntersuchungen 
 - 13. :: Entgelte und Gebühren,
 - 14. :: Kennnummer des für die Hauptuntersuchung verantwortlichen amtlich anerkannten Sachverständigen oder Prüfers oder des mit der Hauptuntersuchung betrauten Prüfingenieurs,
 - 15. :: für Krafträder: Messdrehzahl und Standgeräuschvergleichswert von Standgeräuschmessungen, soweit Messwerte erhoben wurden,
-- 16. :: im Falle von Mängeln, die vor Abschluss der Untersuchung, längstens jedoch während eines Kalendertages beseitigt wurden: zusätzlich das Ergebnis vor Mängelbeseitigung mit der Angabe geringe Mängel“, erhebliche Mängel“ oder verkehrsunsicher“ sowie die Uhrzeit der Feststellung der Mängelbeseitigung,
+- 16. :: im Falle von Mängeln, die vor Abschluss der Untersuchung, längstens jedoch während eines Kalendertages beseitigt wurden: zusätzlich das Ergebnis vor Mängelbeseitigung mit der Angabe „geringe Mängel“, „erhebliche Mängel“ oder „verkehrsunsicher“ sowie die Uhrzeit der Feststellung der Mängelbeseitigung,
 - 17. :: bei Durchführung der Untersuchung der Umweltverträglichkeit durch eine anerkannte Kraftfahrzeugwerkstatt: Kontrollnummer der anerkannten Kraftfahrzeugwerkstatt sowie das Datum der Untersuchung,
 - 18. :: bei der Hauptuntersuchung festgestellte Mängel und ihre Einstufung einschließlich der Mängelcodes aus der für die Hauptuntersuchung verwendeten Version des Mangelbaums,
 - 19. :: Versionsnummer des verwendeten Mangelbaums,
@@ -1533,7 +1533,7 @@ Im Übrigen tritt diese Verordnung am Tag nach der Verkündung in Kraft. Gleichz
 Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
+ 
 
 Anlage 1 - (aufgehoben)
 
@@ -1558,16 +1558,16 @@ Anlage 3 - (zu § 8 Absatz 1 Satz 6)Unterscheidungszeichen der Fahrzeuge der Bun
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 - 1. :: Unterscheidungszeichen Bund
   | BD  | Dienstfahrzeuge des Bundestages, des Bundesrates, des Bundespräsidialamtes, der Bundesregierung, der Bundesministerien, der Bundesfinanzverwaltung und des Bundesverfassungsgerichts\\ |
-  |     | (Zulassungsbehörde Berlin; Zulassungsbehörde Bonn, Stadt; für BD 16 Kfz-Zulassungsstelle bei der Generalzolldirektion“ -- Dienstort Offenbach)                                        |
+  |     | (Zulassungsbehörde Berlin; Zulassungsbehörde Bonn, Stadt; für BD 16 Kfz-Zulassungsstelle bei der „Generalzolldirektion“ -- Dienstort Offenbach)                                        |
   | BG  | Dienstfahrzeuge der Bundespolizei\\                                                                                                                                                    |
-  |     | (Kfz-Zulassungsstelle beim Beschaffungsamt des Bundesministeriums des Innern“ in Bonn als zentrale Zulassungsbehörde)\\                                                               |
+  |     | (Kfz-Zulassungsstelle beim „Beschaffungsamt des Bundesministeriums des Innern“ in Bonn als zentrale Zulassungsbehörde)\\                                                               |
   |     | (noch gültig, wird nicht mehr zugeteilt)                                                                                                                                               |
   | BP  | Dienstfahrzeuge der Bundespolizei\\                                                                                                                                                    |
-  |     | (Kfz-Zulassungsstelle beim Beschaffungsamt des Bundesministeriums des Innern“ in Bonn als zentrale Zulassungsbehörde)                                                                 |
+  |     | (Kfz-Zulassungsstelle beim „Beschaffungsamt des Bundesministeriums des Innern“ in Bonn als zentrale Zulassungsbehörde)                                                                 |
   | BW  | Bundes-Wasserstraßen- und Schifffahrtsverwaltung\\                                                                                                                                     |
   |     | (Generaldirektion Wasserstraßen und Schifffahrt)                                                                                                                                       |
   | THW | Dienstfahrzeuge der Bundesanstalt Technisches Hilfswerk\\                                                                                                                              |
-  |     | (Kfz-Zulassungsstelle beim Beschaffungsamt des Bundesministeriums des Innern“ in Bonn als zentrale Zulassungsbehörde)                                                                 |
+  |     | (Kfz-Zulassungsstelle beim „Beschaffungsamt des Bundesministeriums des Innern“ in Bonn als zentrale Zulassungsbehörde)                                                                 |
   | Y   | Dienstfahrzeuge der Bundeswehr\\                                                                                                                                                       |
   |     | (Zentrale Militärkraftfahrtstelle -- ZMK, Hardter Straße 9, 41179 Mönchengladbach/Rheindahlen)                                                                                         |
   | X   | Dienstfahrzeuge der auf Grund des Nordatlantikvertrages errichteten internationalen militärischen Hauptquartiere, die ihren regelmäßigen Standort im Inland haben\\                    |
@@ -1646,7 +1646,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
   Verkleinerte zweizeilige Kennzeichen dürfen nur für Leichtkrafträder sowie für Fahrzeuge nach § 10 Absatz 6 Nummer 3 zugeteilt werden.
 - 2. :: Schrift
 - 2.1 :: Beschriftung (fälschungserschwerende Schrift -- FE-Schrift --)
-  Die Beschriftung muss den Schriftmustern Schrift für Kfz-Kennzeichen“ entsprechen. Die Schriftmuster können bei der Bundesanstalt für Straßenwesen, Postfach 10 01 50, 51401 Bergisch Gladbach, bezogen werden. Der waagerechte Abstand der Beschriftung einschließlich der Plaketten zum schwarzen, grünen oder roten Rand, zum Euro-Feld oder zum Feld, in dem der Betriebszeitraum oder das Ablaufdatum angegeben ist, muss auf beiden Seiten gleich sein. Bei der Fertigung der Kennzeichen dürfen die nachstehenden Toleranzen nicht über- oder unterschritten werden.
+  Die Beschriftung muss den Schriftmustern „Schrift für Kfz-Kennzeichen“ entsprechen. Die Schriftmuster können bei der Bundesanstalt für Straßenwesen, Postfach 10 01 50, 51401 Bergisch Gladbach, bezogen werden. Der waagerechte Abstand der Beschriftung einschließlich der Plaketten zum schwarzen, grünen oder roten Rand, zum Euro-Feld oder zum Feld, in dem der Betriebszeitraum oder das Ablaufdatum angegeben ist, muss auf beiden Seiten gleich sein. Bei der Fertigung der Kennzeichen dürfen die nachstehenden Toleranzen nicht über- oder unterschritten werden.
 - 2.1.1 :: einzeilige und zweizeilige Kennzeichen:
   - a) :: Schrifthöhe + 2,0 mm bis -- 1,0 mm,
   - b) :: Strichbreite der Beschriftung ± 1,0 mm,
@@ -1675,7 +1675,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
   Ausgestaltung des Sternenkranzes:
   Die Geometrie des Sternenkranzes ergibt sich aus folgender Abbildung:
   [[../normengrafiken/bgbl1_2011/j0139-1_0060.jpg]]
-  Der Durchmesser des Sternenkranzes entspricht dem Sechsfachen des Durchmessers des einzelnen Sterns. Die Ausführung des Erkennungsbuchstabens D“ erfolgt nach DIN 1451 Teil 2.
+  Der Durchmesser des Sternenkranzes entspricht dem Sechsfachen des Durchmessers des einzelnen Sterns. Die Ausführung des Erkennungsbuchstabens „D“ erfolgt nach DIN 1451 Teil 2.
 - 3.1 :: einzeiliges Kennzeichen
   [[../normengrafiken/bgbl1_2011/j0139-1_0070.jpg]]
 - 3.2 :: zweizeiliges Kennzeichen und Kraftradkennzeichen
@@ -1711,7 +1711,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
   ** 8 mm bis 10 mm\\
   *** 5 mm bis 20 mm
 
-Kennzeichen nach Abschnitt 2 Nummer 1, 2 und 2a, Abschnitt 4 Nummer 1, 2 und 2a und Abschnitt 5a Nummer 1 können als Wechselkennzeichen ausgeführt sein. Die Wechselkennzeichen bestehen nach MaW“ (Schrifthöhe 20 mm, Schriftbreite 25 mm) anzubringen. Auf dem fahrzeugbezogenen Teil ist unter der letzten Ziffer der Erkennungsnummer die Beschriftung des gemeinsamen Kennzeichenteils in schwarzer Schrift mit einer sich bei Ablösung selbstzerstörenden Sicherheitsfolie aufzuführen.
+Kennzeichen nach Abschnitt 2 Nummer 1, 2 und 2a, Abschnitt 4 Nummer 1, 2 und 2a und Abschnitt 5a Nummer 1 können als Wechselkennzeichen ausgeführt sein. Die Wechselkennzeichen bestehen nach Maßgabe des § 8 Absatz 1a aus dem gemeinsamen Kennzeichenteil und dem fahrzeugbezogenen Teil. Auf dem gemeinsamen Kennzeichenteil ist oberhalb der Stempelplakette, bei Kraftradkennzeichen rechts neben der Stempelplakette die Kennzeichnung „W“ (Schrifthöhe 20 mm, Schriftbreite 25 mm) anzubringen. Auf dem fahrzeugbezogenen Teil ist unter der letzten Ziffer der Erkennungsnummer die Beschriftung des gemeinsamen Kennzeichenteils in schwarzer Schrift mit einer sich bei Ablösung selbstzerstörenden Sicherheitsfolie aufzuführen.
 
 - 1. :: einzeiliges Kennzeichen
   [[../normengrafiken/bgbl1_2012/j2232-1_0010.jpg]]
@@ -1726,7 +1726,7 @@ Kennzeichen nach Abschnitt 2 Nummer 1, 2 und 2a, Abschnitt 4 Nummer 1, 2 und 2a 
   Die übrigen Abmessungen entsprechen denen der Kraftradkennzeichen.
 
 - 4. :: Ergänzungsbestimmungen
-  Mehr als acht Stellen (Buchstaben des Unterscheidungszeichens sowie Buchstaben und Ziffern der Erkennungsnummer -- ohne Kennzeichnung W“) auf dem gemeinsamen Kennzeichenteil und dem fahrzeugbezogenen Teil zusammen sind unzulässig. Abschnitt 4 Nummer 4 Satz 1 bis 4 gilt für Oldtimerkennzeichen als Wechselkennzeichen und in Verbindung mit Abschnitt 5a Nummer 1 auch für Kennzeichen für Elektrofahrzeuge als Wechselkennzeichen entsprechend. Bei Oldtimerkennzeichen ist der Kennbuchstabe H“ und bei Kennzeichen für Elektrofahrzeuge der Kennbuchstabe E“ jeweils der letzten Ziffer der Erkennungsnummer auf dem fahrzeugbezogenen Teil des Wechselkennzeichens anzufügen. Die Plakette nach Abschnitt 1 Nummer 6 Satz 1 Buchstabe b ist auf dem fahrzeugbezogenen Teil des hinteren Kennzeichens oben anzubringen. Die Plakette nach Abschnitt 1 Nummer 6 Satz 1 Buchstabe c ist auf dem vorderen und hinteren gemeinsamen Kennzeichenteil jeweils unten sowie auf dem fahrzeugbezogenen Teil des vorderen Kennzeichens, bei Fahrzeugen der Klasse L, die kein vorderes Kennzeichen führen müssen, auf dem fahrzeugbezogenen Teil des hinteren Kennzeichens unten anzubringen.
+  Mehr als acht Stellen (Buchstaben des Unterscheidungszeichens sowie Buchstaben und Ziffern der Erkennungsnummer -- ohne Kennzeichnung „W“) auf dem gemeinsamen Kennzeichenteil und dem fahrzeugbezogenen Teil zusammen sind unzulässig. Abschnitt 4 Nummer 4 Satz 1 bis 4 gilt für Oldtimerkennzeichen als Wechselkennzeichen und in Verbindung mit Abschnitt 5a Nummer 1 auch für Kennzeichen für Elektrofahrzeuge als Wechselkennzeichen entsprechend. Bei Oldtimerkennzeichen ist der Kennbuchstabe „H“ und bei Kennzeichen für Elektrofahrzeuge der Kennbuchstabe „E“ jeweils der letzten Ziffer der Erkennungsnummer auf dem fahrzeugbezogenen Teil des Wechselkennzeichens anzufügen. Die Plakette nach Abschnitt 1 Nummer 6 Satz 1 Buchstabe b ist auf dem fahrzeugbezogenen Teil des hinteren Kennzeichens oben anzubringen. Die Plakette nach Abschnitt 1 Nummer 6 Satz 1 Buchstabe c ist auf dem vorderen und hinteren gemeinsamen Kennzeichenteil jeweils unten sowie auf dem fahrzeugbezogenen Teil des vorderen Kennzeichens, bei Fahrzeugen der Klasse L, die kein vorderes Kennzeichen führen müssen, auf dem fahrzeugbezogenen Teil des hinteren Kennzeichens unten anzubringen.
 
 - 1. :: Leichtkrafträder und Kleinkrafträder
 - 1.1 :: Leichtkrafträder und Kleinkrafträder
@@ -1740,7 +1740,7 @@ Kennzeichen nach Abschnitt 2 Nummer 1, 2 und 2a, Abschnitt 4 Nummer 1, 2 und 2a 
 - 4. :: andere Kraftfahrzeuge und Anhänger -- zweizeilig
   [[../normengrafiken/bgbl1_2011/j0139-1_0170.jpg]]
 - 5. :: Ergänzungsbestimmungen
-  Wird die Ziffer 1“ verwendet oder enthält eine Zeile weniger Ziffern als die entsprechende Zeile des Musters, so vergrößern sich die Abstände zwischen den Ziffern der Zeile gleichmäßig. Die Farbtöne des Untergrundes, des Randes und der Beschriftung sind dem Farbregister RAL 840 HR zu entnehmen, und zwar für schwarz RAL 9005 und weiß RAL 9001. Als Farbtöne sind bei den Bundesfarben zu wählen für schwarz: RAL 9005, für rot: RAL 3002 und für gold: RAL 1006. Bei Kennzeichen nach Nummer 3 werden die letzten drei Ziffern von den vorhergehenden Ziffern durch einen Gruppenabstand in dreifacher Größe des normalen Abstandes getrennt.
+  Wird die Ziffer „1“ verwendet oder enthält eine Zeile weniger Ziffern als die entsprechende Zeile des Musters, so vergrößern sich die Abstände zwischen den Ziffern der Zeile gleichmäßig. Die Farbtöne des Untergrundes, des Randes und der Beschriftung sind dem Farbregister RAL 840 HR zu entnehmen, und zwar für schwarz RAL 9005 und weiß RAL 9001. Als Farbtöne sind bei den Bundesfarben zu wählen für schwarz: RAL 9005, für rot: RAL 3002 und für gold: RAL 1006. Bei Kennzeichen nach Nummer 3 werden die letzten drei Ziffern von den vorhergehenden Ziffern durch einen Gruppenabstand in dreifacher Größe des normalen Abstandes getrennt.
 
 - 1. :: einzeiliges Kennzeichen
   [[../normengrafiken/bgbl1_2011/j0139-1_0180.jpg]]
@@ -1760,10 +1760,10 @@ Kennzeichen nach Abschnitt 2 Nummer 1, 2 und 2a, Abschnitt 4 Nummer 1, 2 und 2a 
   ** 8 mm bis 10 mm\\
   *** 5 mm bis 20 mm
 - 4. :: Ergänzungsbestimmungen
-  Der Kennbuchstabe H“ ist der Erkennungsnummer ohne Leerzeichen in gleicher Schriftart anzufügen. Mehr als
-  - a) :: sieben Stellen (Buchstaben des Unterscheidungszeichens sowie Buchstaben und Ziffern der Erkennungsnummer -- ohne Kennbuchstaben H“) auf einem Kennzeichen nach Nummer 1,
-  - b) :: fünf Stellen in der Erkennungsnummer (Buchstaben und Ziffern -- ohne Kennbuchstaben H“) auf einem Kennzeichen nach Nummer 2 mit einem Größtmaß von 340 mm oder auf einem Kennzeichen nach Nummer 3 oder
-  - c) :: vier Stellen in der Erkennungsnummer (Buchstaben und Ziffern -- ohne Kennbuchstaben H“) auf einem Kennzeichen nach Nummer 2 mit einem Größtmaß von 280 mm oder einem Kennzeichen nach Nummer 2a
+  Der Kennbuchstabe „H“ ist der Erkennungsnummer ohne Leerzeichen in gleicher Schriftart anzufügen. Mehr als
+  - a) :: sieben Stellen (Buchstaben des Unterscheidungszeichens sowie Buchstaben und Ziffern der Erkennungsnummer -- ohne Kennbuchstaben „H“) auf einem Kennzeichen nach Nummer 1,
+  - b) :: fünf Stellen in der Erkennungsnummer (Buchstaben und Ziffern -- ohne Kennbuchstaben „H“) auf einem Kennzeichen nach Nummer 2 mit einem Größtmaß von 340 mm oder auf einem Kennzeichen nach Nummer 3 oder
+  - c) :: vier Stellen in der Erkennungsnummer (Buchstaben und Ziffern -- ohne Kennbuchstaben „H“) auf einem Kennzeichen nach Nummer 2 mit einem Größtmaß von 280 mm oder einem Kennzeichen nach Nummer 2a
 
   sind unzulässig. Für Kennzeichen nach den Nummern 1 und 2 ist die Mittelschrift zu verwenden, es sei denn, die etwa vorgeschriebene oder die vom Hersteller vorgesehene Anbringungsstelle für Kennzeichen lässt dies nicht zu. In diesem Fall darf für die Buchstaben zur Unterscheidung des Verwaltungsbezirks und für die Buchstaben der Erkennungsnummer und die Zahlen der Erkennungsnummer jeweils die Engschrift verwendet werden. Für Oldtimerkennzeichen als Saisonkennzeichen gilt Abschnitt 5a Nummer 2 bis 6 entsprechend.
 
@@ -1790,7 +1790,7 @@ Kennzeichen nach Abschnitt 2 Nummer 1, 2 und 2a, Abschnitt 4 Nummer 1, 2 und 2a 
 
   sind unzulässig.
 
-- 1. :: Die Kennzeichen sind entsprechend Abschnitt 4, jedoch mit dem Kennbuchstaben E“ auszuführen.
+- 1. :: Die Kennzeichen sind entsprechend Abschnitt 4, jedoch mit dem Kennbuchstaben „E“ auszuführen.
 - 2. :: einzeiliges Saisonkennzeichen
   [[../normengrafiken/bgbl1_2017/j0522-1_0010.jpg]]
   - * :: Mindestmaß 8 mm
@@ -1819,10 +1819,10 @@ Kennzeichen nach Abschnitt 2 Nummer 1, 2 und 2a, Abschnitt 4 Nummer 1, 2 und 2a 
 
   Die übrigen Abmessungen entsprechen denen der Saisonkennzeichen gemäß Abschnitt 5 Nummer 3.
 - 6. :: Ergänzungsbestimmungen
-  Der Kennbuchstabe E“ ist der Erkennungsnummer ohne Leerzeichen in gleicher Schriftart anzufügen. Mehr als
-  - a) :: sechs Stellen (Buchstaben des Unterscheidungszeichens sowie Buchstaben und Ziffern der Erkennungsnummer -- ohne Kennbuchstabe E“) auf einem Kennzeichen nach Nummer 2,
-  - b) :: fünf Stellen in der Erkennungsnummer (Buchstaben und Ziffern -- ohne Kennbuchstabe E“) auf einem Kennzeichen nach Nummer 3 mit einem Größtmaß von 340 mm oder
-  - c) :: vier Stellen in der Erkennungsnummer (Buchstaben und Ziffern -- ohne Kennbuchstabe E“) auf einem Kennzeichen nach Nummer 3 mit einem Größtmaß von 280 mm oder einem Kennzeichen nach den Nummern 4 oder 5
+  Der Kennbuchstabe „E“ ist der Erkennungsnummer ohne Leerzeichen in gleicher Schriftart anzufügen. Mehr als
+  - a) :: sechs Stellen (Buchstaben des Unterscheidungszeichens sowie Buchstaben und Ziffern der Erkennungsnummer -- ohne Kennbuchstabe „E“) auf einem Kennzeichen nach Nummer 2,
+  - b) :: fünf Stellen in der Erkennungsnummer (Buchstaben und Ziffern -- ohne Kennbuchstabe „E“) auf einem Kennzeichen nach Nummer 3 mit einem Größtmaß von 340 mm oder
+  - c) :: vier Stellen in der Erkennungsnummer (Buchstaben und Ziffern -- ohne Kennbuchstabe „E“) auf einem Kennzeichen nach Nummer 3 mit einem Größtmaß von 280 mm oder einem Kennzeichen nach den Nummern 4 oder 5
 
   sind unzulässig. Für Kennzeichen nach den Nummern 2 bis 5 gilt Abschnitt 5 Nummer 4 Satz 1 und 2 entsprechend.
 
@@ -1912,13 +1912,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnoten)
 
 - 1. :: Sicherheitsmerkmale
   - a) :: Der Plakettenträger ist transparent.
-  - b) :: Als Sicherheitsmerkmale sind das Kennzeichen“ und die letzten sechs Ziffern der Fahrzeug-Identifizierungsnummer in unmittelbar dauerhaft lesbarer Form als Klarschriftnummer mit der Schrift -- schwarz -- Arial Narrow 6 Punkt auf dem Plakettenträger darzustellen.
+  - b) :: Als Sicherheitsmerkmale sind das „Kennzeichen“ und die letzten sechs Ziffern der Fahrzeug-Identifizierungsnummer in unmittelbar dauerhaft lesbarer Form als Klarschriftnummer mit der Schrift -- schwarz -- Arial Narrow 6 Punkt auf dem Plakettenträger darzustellen.
   - c) :: Ein herstellerspezifisches Sicherheitsmerkmal wird in sichtbarer Form auf dem Plakettenträger dargestellt und ist so zu wählen, dass die automatische Erfassung des Kennzeichens nicht erschwert wird.
   - d) :: Der Plakettenträger hat als zusätzliches Sicherheitsmerkmal ein irreversibles herstellerspezifisches Zerstörungsbild bei physischer Manipulation zu erfüllen. Der Plakettenträger muss bei physischer Manipulation mindestens 1/3 der Druckbildinformationen auf der Stempelplakette oder HU-Plakette irreversibel zerstören oder durch andere geeignete technische Maßnahmen die Freilegungsmerkmale entsprechend unumkehrbar sichtbar machen.
   - e) :: Eine auf dem Plakettenträger aufgebrachte Stempelplakette bzw. eine HU-Plakette muss beim Ausstanzen oder Ausschneiden vom Plakettenträger eine Kennzeichnung aufweisen, anhand derer erkennbar ist, dass diese bereits auf einem Plakettenträger verklebt war und daher nicht ohne ihn verwendet werden kann.
 - 2. :: Schematische Abbildungen der Plakettenträger
   - a) :: Plakettenträger für die Stempelplakette
-    Die schematische Darstellung des Plakettenträgers enthält die Stempelplakette nach Abschnitt B und die auf dem Plakettenträger aufgebrachten Merkmale Kennzeichen“, verkürzte Fahrzeug-Identifizierungsnummer“ und das herstellerspezifische Sicherheitsmerkmal.
+    Die schematische Darstellung des Plakettenträgers enthält die Stempelplakette nach Abschnitt B und die auf dem Plakettenträger aufgebrachten Merkmale „Kennzeichen“, „verkürzte Fahrzeug-Identifizierungsnummer“ und das herstellerspezifische Sicherheitsmerkmal.
     - aa) :: Die Maße des Plakettenträgers ergeben sich wie folgt:
       [[../normengrafiken/bgbl1_2017/j0522-1_0070.jpg]]
       Abbildung 3: Bemaßung des Plakettenträgers
@@ -1930,12 +1930,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnoten)
       [[../normengrafiken/bgbl1_2017/j0522-1_0080.jpg]]
       Abbildung 4: Plakettenträger mit Zerstörungsbild
   - b) :: Plakettenträger für die HU-Plakette
-    Die schematische Darstellung des HU-Plakettenträgers enthält die HU-Plakette nach Anlage IX der StraKennzeichen“ und verkürzte Fahrzeug-Identifizierungsnummer“ und das herstellerspezifische Merkmal.
+    Die schematische Darstellung des HU-Plakettenträgers enthält die HU-Plakette nach Anlage IX der Straßenverkehrs-Zulassungs-Ordnung (zu § 29 Absatz 2, 3, 5 bis 8) und die auf dem Plakettenträger aufgebrachten Merkmale „Kennzeichen“ und „verkürzte Fahrzeug-Identifizierungsnummer“ und das herstellerspezifische Merkmal.
     - aa) :: Die Maße des HU-Plakettenträgers ergeben sich wie folgt:
       [[../normengrafiken/bgbl1_2017/j0522-1_0090.jpg]]
       Abbildung 5: Bemaßung des HU-Plakettenträgers
     - bb) :: Das Kennzeichen ist in der rechten oberen Ecke des Plakettenträgers senkrecht -- endend 2 mm vom äußeren oberen Rand und 1,5 mm vom äußeren rechten Rand des Plakettenträgers -- darzustellen.
-    - cc) :: Die verkürzte Fahrzeug-Identifizierungsnummer ist in der rechten oberen Ecke des Plakettenträgers senkrecht -- endend 2 mm vom äuKennzeichen“ nach Doppelbuchstabe bb vom äußeren rechten Rand des Plakettenträgers -- darzustellen.
+    - cc) :: Die verkürzte Fahrzeug-Identifizierungsnummer ist in der rechten oberen Ecke des Plakettenträgers senkrecht -- endend 2 mm vom äußeren oberen Rand und links vom eingedruckten „Kennzeichen“ nach Doppelbuchstabe bb vom äußeren rechten Rand des Plakettenträgers -- darzustellen.
     - dd) :: Das herstellerspezifische Sicherheitsmerkmal ist in der linken oberen Ecke des Plakettenträgers so darzustellen, dass es in einer Vorbehaltsfläche von 4 x 4 mm auf den Schnittpunkten der Rechteckdiagonalen zu platzieren ist.
     - ee) :: Plakettenträger mit beispielhaftem Zerstörungsbild:
       [[../normengrafiken/bgbl1_2017/j0522-1_0100.jpg]]
@@ -1951,7 +1951,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnoten)
   - Format: :: Breite 210 mm, Höhe 105 mm, zweimal faltbar auf DIN A7, zweiseitig bedruckt.
 
   In das Trägermaterial eingearbeitet sind die folgenden fälschungserschwerenden Sicherheitsmerkmale:
-  - -- :: Wasserzeichen (Motiv: Stilisierter Adler“ -- gesetzlich geschützt für die Bundesdruckerei),
+  - -- :: Wasserzeichen (Motiv: „Stilisierter Adler“ -- gesetzlich geschützt für die Bundesdruckerei),
   - -- :: Melierfasern, teilweise fluoreszierend,
   - -- :: Planchetten, fluoreszierend,
   - -- :: Sicherheitsreagenzien als Schutz gegen chemische Rasurmanipulationen.
@@ -1960,7 +1960,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnoten)
   - -- :: mehrfarbiger Guillochenschutzunterdruck (zweistufig verarbeitet) mit Irisverlauf und integrierten Mikroschriften auf beiden Seiten,
   - -- :: Fluoreszenzaufdruck vorderseitig (Motiv: Bundesadler mit zweigeteilter Linienstruktur), unsichtbar (unter UV-Licht fluoreszierend),
   - -- :: Textfarbe dunkelgrün (unter UV-Licht grün fluoreszierend), Integration von Mikroschriftelementen im Formulartext,
-  - -- :: optisch-variables Element in Form eines Kinegrams (Motiv: Sonne 40“ -- gesetzlich geschützt für die Bundesdruckerei) auf der Rückseite des Dokuments einschließlich eines maschinell prüfbaren Merkmals; das Kinegramm wird durch die Vordrucknummerierung teilweise überdruckt. Die Vordrucknummerierung wird dunkelblau (unter UV-Licht gelb-grün fluoreszierend) aufgebracht,
+  - -- :: optisch-variables Element in Form eines Kinegrams (Motiv: „Sonne 40“ -- gesetzlich geschützt für die Bundesdruckerei) auf der Rückseite des Dokuments einschließlich eines maschinell prüfbaren Merkmals; das Kinegramm wird durch die Vordrucknummerierung teilweise überdruckt. Die Vordrucknummerierung wird dunkelblau (unter UV-Licht gelb-grün fluoreszierend) aufgebracht,
   - -- :: fortlaufende Nummer auf der Vorderseite, die durch die Zulassungsbehörde bei der Ausstellung eingetragen wird, wobei die Einmaligkeit der Nummer sicherzustellen ist.
 - 3. :: Objektsicherung und Fertigungskontrolle:
   Die Herstellung, die Lagerung und der Versand von Rohmaterialien und Vordrucken muss so erfolgen, dass ein Verlust oder ein unberechtigter Zugriff ausgeschlossen ist. Zu diesem Zweck müssen Papierhersteller, Druckereien und Verlage Systeme der Objektsicherung und Fertigungskontrolle unterhalten, die folgenden Anforderungen genügen müssen:
@@ -1995,7 +1995,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnoten)
 - 5. :: Druckstücknummer der Zulassungsbescheinigung Teil I:
   Die Druckstücknummer ist in maschinenlesbarer und unmittelbar lesbarer Form darzustellen. Der maschinenlesbaren Form genügt ein 2D-Code in Form des DataMatrix-Codes. Die Zusammensetzung der Druckstücknummer erfolgt entsprechend der Vorgaben aus Anlage 4a Nummer 1. Der 2D-Code hat eine Mindestgröße von 5 x 5 mm. Als Schriftart ist Arial-Bold mindestens 4 Punkt -- schwarz -- und für die Klarschriftnummer die Schriftart Arial-Bold mindestens 7 Punkt -- schwarz -- zu verwenden.
 - 6. :: Sicherheitscode der Zulassungsbescheinigung Teil I:
-  Der Sicherheitscode muss unmittelbar lesbar sein und ist zusätzlich in maschinenlesbarer Form darzustellen. Der maschinenlesbaren Form genügt ein 2D-Code in Form des DataMatrix-Codes und der Sicherheitscode darf weder aus der Druckstücknummer hervorgehen noch aus dieser ableitbar sein. Der Sicherheitscode der Zulassungsbescheinigung Teil I besteht aus sieben Zeichen. Im Übrigen erfolgt die Zusammensetzung des Sicherheitscodes entsprechend der Vorgaben aus Anlage 4a Nummer 2. Der 2D-Code hat eine MindestgröAußer Betrieb gesetzt“ Arial-Bold 5 Punkt -- schwarz --. Der Sicherheitscode kann nicht durch Durchleuchten erkannt werden.
+  Der Sicherheitscode muss unmittelbar lesbar sein und ist zusätzlich in maschinenlesbarer Form darzustellen. Der maschinenlesbaren Form genügt ein 2D-Code in Form des DataMatrix-Codes und der Sicherheitscode darf weder aus der Druckstücknummer hervorgehen noch aus dieser ableitbar sein. Der Sicherheitscode der Zulassungsbescheinigung Teil I besteht aus sieben Zeichen. Im Übrigen erfolgt die Zusammensetzung des Sicherheitscodes entsprechend der Vorgaben aus Anlage 4a Nummer 2. Der 2D-Code hat eine Mindestgröße von 5 x 5 mm. Für die Klarschriftnummer ist die Schriftart Arial-Bold mindestens 8 Punkt -- schwarz -- zu verwenden, für die Schrift „Außer Betrieb gesetzt“ Arial-Bold 5 Punkt -- schwarz --. Der Sicherheitscode kann nicht durch Durchleuchten erkannt werden.
 
 Vorderseite
 [[../normengrafiken/bgbl1_2017/j0522-1_0110.jpg]]
@@ -2020,7 +2020,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnoten)
   - Format: :: Breite 210 mm, Höhe 12 Zoll (304,8 mm), einseitig bedruckt
 
   In das Trägermaterial eingearbeitet sind die folgenden fälschungserschwerenden Sicherheitsmerkmale:
-  - -- :: Wasserzeichen (Motiv: Stilisierter Adler“ -- gesetzlich geschützt für die Bundesdruckerei),
+  - -- :: Wasserzeichen (Motiv: „Stilisierter Adler“ -- gesetzlich geschützt für die Bundesdruckerei),
   - -- :: Melierfasern, teilweise fluoreszierend,
   - -- :: Planchetten, fluoreszierend,
   - -- :: Sicherheitsreagenzien als Schutz gegen chemische Rasurmanipulationen.
@@ -2032,7 +2032,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnoten)
   - -- :: Textfarbe dunkelgrün (unter UV-Licht grün fluoreszierend), Integration von Mikroschriftelementen im Formulartext,
   - -- :: Vordrucknummerierung dunkelblau (unter UV-Licht gelb-grün fluoreszierend).
 - 3. :: Markierung
-  - a) :: Die sichtbare Markierung stellt eine fälschungserschwerende Sicherheitsabdeckung des darunterliegenden Sicherheitscodes der Zulassungsbescheinigung Teil II und des Hinweises Dokument nicht mehr gültig“ dar. Die Sicherheitsabdeckung wird auf die Zulassungsbescheinigung Teil II in dem freien Feld unter dem Feld Datum (I)“ angebracht. Rechts daneben wird folgender Hinweis vorgedruckt: Nur zur Nutzung des Sicherheitscodes im internetbasierten Zulassungsverfahren freilegen. Dokument nur unbeschädigt gültig.“ Für die Schrift Dokument nicht mehr gültig“ ist die Schriftart Arial-Bold, mindestens 7 Punkt -- schwarz -- zu verwenden.
+  - a) :: Die sichtbare Markierung stellt eine fälschungserschwerende Sicherheitsabdeckung des darunterliegenden Sicherheitscodes der Zulassungsbescheinigung Teil II und des Hinweises „Dokument nicht mehr gültig“ dar. Die Sicherheitsabdeckung wird auf die Zulassungsbescheinigung Teil II in dem freien Feld unter dem Feld „Datum (I)“ angebracht. Rechts daneben wird folgender Hinweis vorgedruckt: „Nur zur Nutzung des Sicherheitscodes im internetbasierten Zulassungsverfahren freilegen. Dokument nur unbeschädigt gültig.“ Für die Schrift „Dokument nicht mehr gültig“ ist die Schriftart Arial-Bold, mindestens 7 Punkt -- schwarz -- zu verwenden.
   - b) :: Schematische Abbildungen:
     Die sichtbare Markierung muss gemäß nachfolgender Abbildung nach vorgegebenen Maßen und farblicher Darstellung gestaltet sein:
     - aa) :: Format:
@@ -2071,13 +2071,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnoten)
   Der Verwertungsnachweis besteht aus einem Satz mit vier Ausfertigungen (Blättern).
   Jedes Blatt besteht aus zwei Seiten.
   Die erste Ausfertigung (Blatt 1) der Seiten 1 bis 2 des Vordrucks enthält in der Kopfzeile folgende Bezeichnung:\\
-  Diese Ausfertigung (rosa) ist für den Fahrzeughalter/-eigentümer bestimmt. “
+  „Diese Ausfertigung (rosa) ist für den Fahrzeughalter/-eigentümer bestimmt. “
   Blatt 2 enthält entsprechend folgende Bezeichnung:\\
-  Diese Ausfertigung (altgold) ist für den Demontagebetrieb bestimmt. “
+  „Diese Ausfertigung (altgold) ist für den Demontagebetrieb bestimmt. “
   Blatt 3 enthält entsprechend folgende Bezeichnung:\\
-  Diese Ausfertigung (blau) ist für die Schredderanlage bestimmt. “
+  „Diese Ausfertigung (blau) ist für die Schredderanlage bestimmt. “
   Blatt 4 enthält entsprechend folgende Bezeichnung:\\
-  Diese Ausfertigung (weiß) ist für die Annahme-/Rücknahmestelle bestimmt. “
+  „Diese Ausfertigung (weiß) ist für die Annahme-/Rücknahmestelle bestimmt. “
 - 2. :: Format
   Ein Muster des Vordrucks ist in Abschnitt 2 verkleinert wiedergegeben. Zur ordnungsgemäßen Verwendung ist der Vordruck im Verhältnis 84:100 zu vergrößern. Das Format DIN A4 ist durch gestrichelte Linien kenntlich gemacht.
 - 3. :: Passergenauigkeit
@@ -2086,7 +2086,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnoten)
 - 4. :: Maschinenlesbarkeit
   Der Vordruck ist maschinenlesbar zu gestalten. Die folgenden Gestaltungsempfehlungen sind zu beachten, wenn Vordrucke als allgemeines Schriftgut zur optischen Belegerfassung vorgesehen sind. Sie finden mit Ausnahme der Nummer 4.2 Satz 2 und 3 keine Anwendung, wenn der Verwertungsnachweis mit Ausnahme von Unterschrift und Stempel vollständig computergestützt erstellt wird.
 - 4.1 :: Farben
-  Bei Vordrucken zur optischen Belegerfassung muss sich der Aufdruck (Text, Linien, Raster) farblich vom Ausfülltext unterscheiden. Ziffern, Zahlen, Nummern und der Passer sollten bei maschinenlesbaren Vordrucken in Blindfarbe gedruckt sein. Bis auf die Ausfertigung weiß“ sind deshalb die Blätter in der unten angegebenen Blindfarbe zu drucken (RAL-Werte nach Euro-Skala):\\
+  Bei Vordrucken zur optischen Belegerfassung muss sich der Aufdruck (Text, Linien, Raster) farblich vom Ausfülltext unterscheiden. Ziffern, Zahlen, Nummern und der Passer sollten bei maschinenlesbaren Vordrucken in Blindfarbe gedruckt sein. Bis auf die Ausfertigung „weiß“ sind deshalb die Blätter in der unten angegebenen Blindfarbe zu drucken (RAL-Werte nach Euro-Skala):\\
   \\
   | Blatt 1\\                                       | \\      | \\                            |
   | (Ausfertigung für den Halter)                   | rosa    | 100 % Yellow und 85 % Magenta |
@@ -2206,39 +2206,39 @@ km/h
 Vorne
 Mitte
 Hinten
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 letzte Seite\\
 \\
 | Hinweise\\                                                                                                                                                            |
@@ -2285,13 +2285,13 @@ Anlage 13 - (zu § 29a Absatz 2 Nummer 3)Versicherungsplakette für Elektroklein
 - 1. :: Schematische Darstellung
   [[../normengrafiken/bgbl1_2019/j0756-1_0070.jpg]]
   Enthält eine Zeile nur eine oder zwei Ziffern oder einen oder zwei Buchstaben, so sind Zahlen und Buchstaben in der Mitte der Zeile anzubringen. Der Abstand vom Rand ist entsprechend zu vergrößern; die übrigen Abstände dürfen nur bis zum angegebenen Höchstmaß vergrößert werden.
-- 2. :: Die Beschriftung erfolgt nach dem Schriftmuster Schrift für Kfz-Kennzeichen“ (fälschungserschwerende Schrift -- FE-Schrift). Die Beschriftung muss den Schriftmustern Schrift für Kfz-Kennzeichen“ entsprechen. Die Schriftmuster können bei der Bundesanstalt für Straßenwesen, Postfach 10 01 50, 51401 Bergisch Gladbach, bezogen werden.
+- 2. :: Die Beschriftung erfolgt nach dem Schriftmuster „Schrift für Kfz-Kennzeichen“ (fälschungserschwerende Schrift -- FE-Schrift). Die Beschriftung muss den Schriftmustern „Schrift für Kfz-Kennzeichen“ entsprechen. Die Schriftmuster können bei der Bundesanstalt für Straßenwesen, Postfach 10 01 50, 51401 Bergisch Gladbach, bezogen werden.
 - 3. :: Maße der Beschriftung und des Randes
   Art der\\
   Beschriftung
 - 4. :: Farben
   Die Farbtöne des Randes und der Beschriftung sind dem Farbregister RAL 840 HR zu entnehmen, und zwar für schwarz RAL 9005, blau RAL 5012 und grün RAL 6010. Der Farbton des Untergrundes der Plakette ist weiß nach DIN 6171 Teil 1: 03.89, Tabelle 3.
 - 5. :: Ergänzungsbestimmungen
-  Das verwendete Material muss eine hinreichende Festigkeit sowie Witterungsbeständigkeit des Aufklebers gewährleisten. Die Plakette samt ihrer vollflächigen Verklebung muss so beschaffen sein, dass diese beim Abziehen reiElektrokleinstfahrzeug“, der von rechts oben nach rechts unten, sowohl vertikal als auch horizontal mittig zwischen den Rahmeninnenseiten platziert, verlaufen soll. Der Schriftzug Elektrokleinstfahrzeug“ ist in der Schriftart Arial in Schrifthöhe 2 mm auszuführen. Zusätzlich muss zwischen den beiden Zeilen der Zahlen-Buchstaben-Kombination der Versicherungsplakette rechtsbündig in Form eines transparenten Hologramms der Schriftzug GDV“ gefolgt von der jeweiligen Jahreszahl des Versicherungsjahres angebracht sein. Der Schriftzug GDV“ sowie die Jahreszahl sind in der Schriftart Euro Plate“ bzw. FE-Schrift (fälschungserschwerende Schrift) in Schrifthöhe 4 mm auszuführen.
+  Das verwendete Material muss eine hinreichende Festigkeit sowie Witterungsbeständigkeit des Aufklebers gewährleisten. Die Plakette samt ihrer vollflächigen Verklebung muss so beschaffen sein, dass diese beim Abziehen reißt, oder es müssen durch Augenschein deutlich erkennbare Veränderungen des Folienkörpers nach einem Entfernen aufgetreten sein, so dass dieser nicht wiederverwendbar wird. Das fälschungserschwerende Merkmal ist in Gestalt eines transparenten diffraktiven Hologrammmotivs, das dauernd fest mit der Folie verbunden ist und die Lesbarkeit der Versicherungsplaketten-Beschriftung nicht beeinträchtigt, vorzusehen. Das verwendete Motiv soll dabei die Anmutung eines Glasbruchs haben. Das Hologramm ist in Form eines durchgehenden Streifens linksbündig am rechten Rand der Versicherungsplakette transparent auszugestalten. Dieser Streifen ist unterlegt mit dem hellgrauen Schriftzug „Elektrokleinstfahrzeug“, der von rechts oben nach rechts unten, sowohl vertikal als auch horizontal mittig zwischen den Rahmeninnenseiten platziert, verlaufen soll. Der Schriftzug „Elektrokleinstfahrzeug“ ist in der Schriftart Arial in Schrifthöhe 2 mm auszuführen. Zusätzlich muss zwischen den beiden Zeilen der Zahlen-Buchstaben-Kombination der Versicherungsplakette rechtsbündig in Form eines transparenten Hologramms der Schriftzug „GDV“ gefolgt von der jeweiligen Jahreszahl des Versicherungsjahres angebracht sein. Der Schriftzug „GDV“ sowie die Jahreszahl sind in der Schriftart „Euro Plate“ bzw. FE-Schrift (fälschungserschwerende Schrift) in Schrifthöhe 4 mm auszuführen.
   Schematische Darstellung des Hologramms:
   [[../normengrafiken/bgbl1_2019/j0756-1_0080.jpg]]

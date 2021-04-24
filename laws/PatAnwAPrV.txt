@@ -14,16 +14,16 @@ Es verordnet auf Grund
 
 Inhaltsübersicht
 
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 § 1 - Voraussetzungen für die Zulassung
 
@@ -288,9 +288,9 @@ Im zweiten und dritten Ausbildungsabschnitt besteht für Bewerberinnen und Bewer
 
 § 28 - Erreichen der Ausbildungsziele
 
-(1) Das Ziel der Ausbildung beim Deutschen Patent- und Markenamt hat erreicht, wem von der Mehrheit der Ausbildenden eine erfolgreiche Ausbildung bescheinigt oder im Fall einer Benotung zumindest die Note ausreichend (4,00 Punkte)“ erteilt worden ist. Zudem muss regelmäßig an den Lehrveranstaltungen teilgenommen worden sein; § 21 Absatz 6 Satz 2 gilt entsprechend.
+(1) Das Ziel der Ausbildung beim Deutschen Patent- und Markenamt hat erreicht, wem von der Mehrheit der Ausbildenden eine erfolgreiche Ausbildung bescheinigt oder im Fall einer Benotung zumindest die Note „ausreichend (4,00 Punkte)“ erteilt worden ist. Zudem muss regelmäßig an den Lehrveranstaltungen teilgenommen worden sein; § 21 Absatz 6 Satz 2 gilt entsprechend.
 (2) Das Deutsche Patent- und Markenamt hat Bewerberinnen und Bewerber, die das Ausbildungsziel des zweiten Ausbildungsabschnitts erreicht haben, zur Fortsetzung der Ausbildung an die Präsidentin oder den Präsidenten des Bundespatentgerichts zu überweisen.
-(3) Das Ziel der Ausbildung beim Bundespatentgericht hat erreicht, wem von allen Ausbildenden zumindest die Note ausreichend (4,00 Punkte)“ erteilt worden ist. Zudem muss regelmäßig an den Lehrveranstaltungen teilgenommen worden sein; § 21 Absatz 6 Satz 2 gilt entsprechend.
+(3) Das Ziel der Ausbildung beim Bundespatentgericht hat erreicht, wem von allen Ausbildenden zumindest die Note „ausreichend (4,00 Punkte)“ erteilt worden ist. Zudem muss regelmäßig an den Lehrveranstaltungen teilgenommen worden sein; § 21 Absatz 6 Satz 2 gilt entsprechend.
 (4) Die Präsidentin oder der Präsident des Bundespatentgerichts hat dem Deutschen Patent- und Markenamt spätestens zwei Wochen vor dem Ende des dritten Ausbildungsabschnitts schriftlich mitzuteilen, welche Bewerberinnen und Bewerber das Ausbildungsziel erreicht haben.
 (+++ § 28 Abs. 1 u. 3: Zur Anwendung vgl. § 76 Abs. 6 +++)
 
@@ -479,7 +479,7 @@ Das Anwesenheitsrecht erstreckt sich nicht auf die Beratungen. An der Bekanntgab
 
 § 43 - Säumnis und Verhinderung
 
-(1) Kommt ein Prüfling einer Ladung zu einer Klausur oder zur mündlichen Prüfung nicht nach (Säumnis), so gilt die jeweilige Prüfungsleistung als mit der Bewertung ungenügend (0 Punkte)“ nicht bestanden. Im Fall der mündlichen Prüfung gilt dies auch, wenn nur ein Teil der Prüfung versäumt wird.
+(1) Kommt ein Prüfling einer Ladung zu einer Klausur oder zur mündlichen Prüfung nicht nach (Säumnis), so gilt die jeweilige Prüfungsleistung als mit der Bewertung „ungenügend (0 Punkte)“ nicht bestanden. Im Fall der mündlichen Prüfung gilt dies auch, wenn nur ein Teil der Prüfung versäumt wird.
 (2) Die Folge der Säumnis nach Absatz 1 tritt nicht ein, wenn der Prüfling die Säumnis nicht zu vertreten hat (Verhinderung).
 (3) Eine Verhinderung ist unverzüglich, in Textform und vor Bekanntgabe der Bewertung der versäumten Prüfung beim Deutschen Patent- und Markenamt geltend zu machen. Die Geltendmachung darf keine Bedingungen enthalten und ist unwiderruflich. Ob ein säumiger Prüfling als verhindert gilt, entscheidet die oder der Vorsitzende der Prüfungskommission.
 (4) Ein Prüfling hat seine Verhinderung nachzuweisen. Eine Verhinderung durch Krankheit ist durch ein amtsärztliches Attest zu belegen, das in der Regel am Tag der versäumten Prüfungsleistung ausgestellt sein muss. In offensichtlichen Fällen kann die oder der Vorsitzende der Prüfungskommission auf die Vorlage eines amtsärztlichen Attests verzichten.
@@ -508,14 +508,14 @@ Das Anwesenheitsrecht erstreckt sich nicht auf die Beratungen. An der Bekanntgab
 
 § 45 - Täuschungsversuch und Ordnungsverstoß
 
-(1) Eine Klausur ist mit ungenügend (0 Punkte)“ zu bewerten, wenn ein Prüfling durch Täuschung versucht, das Ergebnis einer Klausur zu eigenem oder fremdem Vorteil zu beeinflussen. Ein Täuschungsversuch liegt auch vor, wenn ein Prüfling
+(1) Eine Klausur ist mit „ungenügend (0 Punkte)“ zu bewerten, wenn ein Prüfling durch Täuschung versucht, das Ergebnis einer Klausur zu eigenem oder fremdem Vorteil zu beeinflussen. Ein Täuschungsversuch liegt auch vor, wenn ein Prüfling
 
 - 1. :: nicht zugelassene Hilfsmittel benutzt,
 - 2. :: in unzulässiger Weise veränderte Hilfsmittel benutzt oder
 - 3. :: in seinem Zugriffsbereich nicht zugelassene oder unzulässig veränderte Hilfsmittel besitzt und nicht nachweisen kann, dass der Besitz weder auf Vorsatz noch auf grober Fahrlässigkeit beruht.
 
 (2) Nicht zugelassene Hilfsmittel hat die Aufsichtsperson unverzüglich sicherzustellen. Hilfsmittel, bei denen der Verdacht einer unzulässigen Veränderung besteht, sind dem Prüfling bis zur Abgabe der Klausur zu belassen und dann sicherzustellen.
-(3) Eine Klausur ist auch dann mit ungenügend (0 Punkte)“ zu bewerten, wenn ein Prüfling einen Ordnungsverstoß begeht, indem er
+(3) Eine Klausur ist auch dann mit „ungenügend (0 Punkte)“ zu bewerten, wenn ein Prüfling einen Ordnungsverstoß begeht, indem er
 
 - 1. :: nach der Ausgabe und vor der Abgabe einer Klausur den Prüfungssaal oder den weiteren Prüfungsbereich unerlaubt verlässt oder
 - 2. :: eine Klausur nicht oder nicht innerhalb der Bearbeitungszeit abgibt.
@@ -598,7 +598,7 @@ Für den Fall, dass ein Mitglied des Prüfungsausschusses durch Krankheit oder e
 (2) Jede Klausur ist von den dazu bestimmten Mitgliedern einzeln und unabhängig voneinander mit einer Note und Punktzahl nach § 46 zu bewerten. Die Endbewertung für jede Klausur ist der arithmetische Mittelwert aus den beiden Einzelbewertungen, sofern diese nicht um mehr als zwei Punkte voneinander abweichen. Bei größeren Abweichungen haben sich die Prüfenden über den Grund ihrer Bewertungen auszutauschen und diese anschließend zu überprüfen. Weichen die Einzelbewertungen danach immer noch um mehr als zwei Punkte voneinander ab, so hat die oder der Vorsitzende der Prüfungskommission oder ein weiteres von ihr oder ihm bestimmtes Mitglied der Prüfungskommission die Punktzahl der Endbewertung festzulegen. Diese Punktzahl muss im Rahmen der Einzelbewertungen liegen.
 (3) Ein Prüfling hat die schriftliche Prüfung bestanden, wenn er
 
-- 1. :: in mindestens zwei Klausuren zumindest die Endbewertung ausreichend (4,00 Punkte)“ erzielt hat und
+- 1. :: in mindestens zwei Klausuren zumindest die Endbewertung „ausreichend (4,00 Punkte)“ erzielt hat und
 - 2. :: im Durchschnitt aller Klausuren zumindest 3,50 Punkte erzielt hat.
 
 (4) Hat ein Prüfling die schriftliche Prüfung bestanden, ist er zur mündlichen Prüfung zugelassen. Anderenfalls hat er die Prüfung insgesamt nicht bestanden.
@@ -669,7 +669,7 @@ Für den Fall, dass ein Mitglied des Prüfungsausschusses durch Krankheit oder e
 § 54 - Erste Wiederholungsprüfung
 
 (1) Wer die Prüfung nicht bestanden hat, darf sie nach Maßgabe der Absätze 2 bis 4 wiederholen. Der Zulassungsantrag ist beim Deutschen Patent- und Markenamt schriftlich zu stellen und muss sich auf einen bestimmten Prüfungstermin beziehen. Über den Antrag hat das Deutsche Patent- und Markenamt durch schriftlichen Bescheid zu entscheiden.
-(2) Hat ein Prüfling in jeder Klausur zumindest die Endbewertung ausreichend (4,00 Punkte)“ erzielt, so kann der Prüfungsausschuss die Wiederholung auf die mündliche Prüfung beschränken. Diese Beschränkung gilt nur, wenn die mündliche Prüfung innerhalb von 13 Monaten nach der Bekanntgabe des Nichtbestehens der Prüfung abgelegt wird.
+(2) Hat ein Prüfling in jeder Klausur zumindest die Endbewertung „ausreichend (4,00 Punkte)“ erzielt, so kann der Prüfungsausschuss die Wiederholung auf die mündliche Prüfung beschränken. Diese Beschränkung gilt nur, wenn die mündliche Prüfung innerhalb von 13 Monaten nach der Bekanntgabe des Nichtbestehens der Prüfung abgelegt wird.
 (3) Die Zulassung zur Wiederholungsprüfung erfolgt in der Regel unter der Bedingung, dass der Prüfling eine weitere Ausbildung von insgesamt sechs Monaten in einem oder mehreren Ausbildungsabschnitten durchgeführt hat. Die weitere Ausbildung kann ganz oder teilweise in zeitlicher oder inhaltlicher Hinsicht erlassen werden. Über den Umfang und die Art der weiteren Ausbildung hat der Prüfungsausschuss nach Anhörung des Prüflings zu entscheiden.
 (4) Bei Prüflingen nach § 158 der Patentanwaltsordnung tritt an die Stelle der weiteren Ausbildung nach Absatz 3 eine weitere praktische Tätigkeit auf dem Gebiet des gewerblichen Rechtsschutzes.
 (5) Für die Wiederholungsprüfung gelten im Übrigen die §§ 37 bis 53 entsprechend mit der Maßgabe, dass sich im Fall des Absatzes 2 die Prüfungsgebühr auf die Hälfte ermäßigt.
@@ -878,7 +878,7 @@ Jede Klausur wird von allen Mitgliedern des Prüfungsausschusses einzeln und una
 (2) In den Fällen des § 36 Absatz 4 und 5 Satz 1 und 2 ist eine Prüfung im Prüfungstermin Februar 2018 zu ermöglichen, wenn die Zulassungsanträge bis zum 30. November 2017 gestellt wurden.
 (3) Abweichend von § 37 Absatz 1 Satz 1 beträgt die Prüfungsgebühr für Prüfungen, die vor dem 1. Juni 2018 stattfinden, 260 Euro.
 (4) § 34 Absatz 4 Satz 2 und 3 sowie die §§ 39, 40, 43, 44, 46, 47 und 49 bis 52 sind auf Prüfungen, die vor dem 1. Juni 2018 stattfinden, nicht anzuwenden. Stattdessen gelten in diesen Fällen die §§ 29, 31 Absatz 1, die §§ 32 bis 34 Absatz 1 Satz 1 und 2, Absatz 2 und 6, § 35 Absatz 1 bis 3 und 5, § 36 Absatz 1 bis 5 und die §§ 37 und 38 der Patentanwaltsausbildungs- und -prüfungsverordnung in der bis zum 30. September 2017 geltenden Fassung.
-(5) § 45 Absatz 1 Satz 1 und Absatz 3 gilt für Prüfungen, die vor dem 1. Juni 2018 stattfinden, mit der Maungenügend (7)“ zu bewerten sind.
+(5) § 45 Absatz 1 Satz 1 und Absatz 3 gilt für Prüfungen, die vor dem 1. Juni 2018 stattfinden, mit der Maßgabe, dass die Klausuren mit der Note „ungenügend (7)“ zu bewerten sind.
 (6) Die §§ 54 und 55 sind auf Wiederholungsprüfungen, die vor dem 1. Juni 2018 stattfinden, nicht anzuwenden. Stattdessen gelten in diesen Fällen die §§ 39 und 40 Absatz 3 Satz 2 der Patentanwaltsausbildungs- und -prüfungsverordnung in der bis zum 30. September 2017 geltenden Fassung.
 
 § 78 - Übergangsbestimmungen zu Teil 3

@@ -215,27 +215,27 @@ Anlage 2 - (zu § 5 Abs. 3)Probenahme und Untersuchung von Altöl
   - 2.1 :: Grundsatz
     Es werden die Einzelgehalte der folgenden 6 Congenere
 
-
+ 
 
 2,4,4'-Trichlorbiphenyl (PCB 28)
 
-
+ 
 
 2,2',5,5'-Tetrachlorbiphenyl (PCB 52)
 
-
+ 
 
 2,2',4,5,5'-Pentachlorbiphenyl (PCB 101)
 
-
+ 
 
 2,2',3,4',4',5'-Hexachlorbiphenyl (PCB 138)
 
-
+ 
 
 2,2',4,4',5,5'-Hexachlorbiphenyl (PCB 153)
 
-
+ 
 
 2,2',3,4,4',5,5'-Heptachlorbiphenyl (PCB 180)
 

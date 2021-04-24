@@ -392,7 +392,7 @@ Liegt in den Fällen des Satzes 1 eine notariell beurkundete Unterhaltsvereinbar
 (1) Das ungerundete monatliche Wohngeld für bis zu zwölf zu berücksichtigende Haushaltsmitglieder beträgt
 | 1,15 · (M -- (a + b · M + c · Y) ·Y) Euro. |
 
-M“ ist die zu berücksichtigende monatliche Miete oder Belastung in Euro. Y“ ist das monatliche Gesamteinkommen in Euro. a“, b“ und c“ sind nach der Anzahl der zu berücksichtigenden Haushaltsmitglieder unterschiedene Werte und ergeben sich aus der Anlage 2.
+„M“ ist die zu berücksichtigende monatliche Miete oder Belastung in Euro. „Y“ ist das monatliche Gesamteinkommen in Euro. „a“, „b“ und „c“ sind nach der Anzahl der zu berücksichtigenden Haushaltsmitglieder unterschiedene Werte und ergeben sich aus der Anlage 2.
 (2) Die zur Berechnung des Wohngeldes erforderlichen Rechenschritte und Rundungen sind in der Reihenfolge auszuführen, die sich aus der Anlage 3 ergibt.
 (3) Sind mehr als zwölf Haushaltsmitglieder zu berücksichtigen, erhöht sich für das 13. und jedes weitere zu berücksichtigende Haushaltsmitglied das nach den Absätzen 1 und 2 berechnete monatliche Wohngeld um jeweils 51 Euro, höchstens jedoch bis zur Höhe der zu berücksichtigenden Miete oder Belastung.
 
@@ -664,7 +664,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
   zu erlassen, wobei pauschalierende Regelungen getroffen werden dürfen, soweit die Ermittlung im Einzelnen nicht oder nur mit unverhältnismäßig großen Schwierigkeiten möglich ist;
 - 2. :: die Mietenstufen für Gemeinden festzulegen (§ 12);
 - 3. :: die Einzelheiten des Verfahrens des automatisierten Datenabgleichs und die Kosten des Verfahrens (§ 33) zu regeln; dabei kann auch geregelt werden, dass die Länder der Datenstelle die Kosten für die Durchführung des Datenabgleichs zu erstatten haben;
-- 4. :: die Höchstbeträge für Miete und Belastung (Anlage 1) und die Werte für b“ und c“ (Anlage 2) nach einer gesetzlichen Änderung nach § 43 zum 1. Januar jedes zweiten Jahres fortzuschreiben und die bisherigen Höchstbeträge in Anlage 1 und Werte in Anlage 2 zu ersetzen. Soweit der Deutsche Bundestag beschließt, die Höchstbeträge für Miete und Belastung (§ 12 Absatz 1), die Mietenstufen (§ 12 Absatz 2) oder die Höhe des Wohngeldes (§ 19) für ein solches Jahr neu festzusetzen, hat dieser Beschluss Vorrang gegenüber der Verordnungsermächtigung.
+- 4. :: die Höchstbeträge für Miete und Belastung (Anlage 1) und die Werte für „b“ und „c“ (Anlage 2) nach einer gesetzlichen Änderung nach § 43 zum 1. Januar jedes zweiten Jahres fortzuschreiben und die bisherigen Höchstbeträge in Anlage 1 und Werte in Anlage 2 zu ersetzen. Soweit der Deutsche Bundestag beschließt, die Höchstbeträge für Miete und Belastung (§ 12 Absatz 1), die Mietenstufen (§ 12 Absatz 2) oder die Höhe des Wohngeldes (§ 19) für ein solches Jahr neu festzusetzen, hat dieser Beschluss Vorrang gegenüber der Verordnungsermächtigung.
 
 
 § 39 - Wohngeld- und Mietenbericht; Bericht über die Lage und Entwicklung der Wohnungs- und Immobilienwirtschaft in Deutschland
@@ -725,21 +725,21 @@ so ist diese Entscheidung nur rechtswidrig, wenn gleichzeitig die Voraussetzunge
 (1) Wurden durch die Änderung dieses Gesetzes die Höchstbeträge für Miete und Belastung (§ 12 Absatz 1), die Mietenstufen (§ 12 Absatz 2) oder die Höhe des Wohngeldes (§ 19) neu ermittelt und festgesetzt, so werden danach zum 1. Januar jedes zweiten Jahres die folgenden Berechnungsgrößen des Wohngeldes durch Rechtsverordnung mit Zustimmung des Bundesrates (§ 38 Nummer 4) fortgeschrieben:
 
 - 1. :: die Höchstbeträge für Miete und Belastung (Anlage 1) auf Grund der Entwicklung der bundesweiten Bruttokaltmieten, gemessen durch den Teilindex für Nettokaltmiete und Wohnungsnebenkosten des Verbraucherpreisindex für Deutschland des Statistischen Bundesamtes;
-- 2. :: die Werte für b“ (Anlage 2) auf Grund der Entwicklung der bundesweiten Bruttokaltmieten, gemessen durch den Teilindex für Nettokaltmiete und Wohnungsnebenkosten des Verbraucherpreisindex für Deutschland des Statistischen Bundesamtes;
-- 3. :: die Werte für c“ (Anlage 2) auf Grund der bundesweiten Entwicklung der Verbraucherpreise, gemessen durch den Verbraucherpreisindex für Deutschland des Statistischen Bundesamtes.
+- 2. :: die Werte für „b“ (Anlage 2) auf Grund der Entwicklung der bundesweiten Bruttokaltmieten, gemessen durch den Teilindex für Nettokaltmiete und Wohnungsnebenkosten des Verbraucherpreisindex für Deutschland des Statistischen Bundesamtes;
+- 3. :: die Werte für „c“ (Anlage 2) auf Grund der bundesweiten Entwicklung der Verbraucherpreise, gemessen durch den Verbraucherpreisindex für Deutschland des Statistischen Bundesamtes.
 
 Die erste Fortschreibung des Wohngeldes erfolgt zum 1. Januar 2022.
 
 (2) § 12 Absatz 4 Satz 1 findet bei der Fortschreibung des Wohngeldes keine Anwendung.
 (3) Für die Fortschreibung der Berechnungsgrößen maßgeblich ist die prozentuale Veränderung der Jahresdurchschnittswerte der in Absatz 1 genannten Indizes des zweiten Jahres vor Inkrafttreten der Fortschreibung des Wohngeldes gegenüber den jeweiligen Jahresdurchschnittswerten des vierten Jahres vor Inkrafttreten der Fortschreibung.
 (4) Die Höchstbeträge für Miete und Belastung (Anlage 1) werden am 1. Januar 2022 und dann alle zwei Jahre zum 1. Januar um den Prozentsatz erhöht oder verringert, um den sich der vom Statistischen Bundesamt festgestellte Teilindex nach Absatz 1 Nummer 1 verändert hat. Für die Veränderung am 1. Januar 2022 ist die Erhöhung oder Verringerung des Jahresdurchschnitts des Teilindex nach Absatz 1 Nummer 1 maßgeblich, die im Jahr 2020 gegenüber dem Jahr 2018 eingetreten ist. Die sich danach ergebenden Beträge sind jeweils bis unter 0,50 Euro auf den nächsten vollen Euro-Betrag abzurunden sowie ab 0,50 Euro auf den nächsten vollen Euro-Betrag aufzurunden und ergeben die fortgeschriebenen Höchstbeträge für Miete und Belastung (Anlage 1).
-(5) Die Werte für b“ (Anlage 2) werden am 1. Januar 2022 und dann alle zwei Jahre zum 1. Januar mit einhundert multipliziert und anschlieb“ (Anlage 2).
-(6) Die Werte für c“ (Anlage 2) werden am 1. Januar 2022 und dann alle zwei Jahre zum 1. Januar mit einhundert multipliziert und anschliec“ (Anlage 2).
+(5) Die Werte für „b“ (Anlage 2) werden am 1. Januar 2022 und dann alle zwei Jahre zum 1. Januar mit einhundert multipliziert und anschließend durch die Summe aus einhundert und dem Prozentsatz dividiert, um den sich der vom Statistischen Bundesamt festgestellte Teilindex nach Absatz 1 Nummer 2 verändert hat. Für die prozentuale Veränderung am 1. Januar 2022 ist die Erhöhung oder Verringerung des Jahresdurchschnitts des Teilindex nach Absatz 1 Nummer 2 maßgeblich, die im Jahr 2020 gegenüber dem Jahr 2018 eingetreten ist. Die sich danach ergebenden Werte sind jeweils auf die sechste Nachkommastelle abzurunden und ergeben die fortgeschriebenen Werte für „b“ (Anlage 2).
+(6) Die Werte für „c“ (Anlage 2) werden am 1. Januar 2022 und dann alle zwei Jahre zum 1. Januar mit einhundert multipliziert und anschließend durch die Summe aus einhundert und dem Prozentsatz dividiert, um den sich der vom Statistischen Bundesamt festgestellte Verbraucherpreisindex nach Absatz 1 Nummer 3 verändert hat. Für die prozentuale Veränderung am 1. Januar 2022 ist die Erhöhung oder Verringerung des Jahresdurchschnitts des Verbraucherpreisindex nach Absatz 1 Nummer 3 maßgeblich, die im Jahr 2020 gegenüber dem Jahr 2018 eingetreten ist. Die sich danach ergebenden Werte sind jeweils auf die siebte Nachkommastelle abzurunden und ergeben die fortgeschriebenen Werte für „c“ (Anlage 2).
 (7) Für die Fortschreibungen nach dem 1. Januar 2022 gelten die Absätze 4 bis 6 entsprechend.
 
 § 44 - Übergangsregelung bei Fortschreibung des Wohngeldes
 
-(1) Ist Wohngeld vor dem Inkrafttreten der Fortschreibung des Wohngeldes (§ 43) bewilligt worden und dauert mindestens ein Teil des Bewilligungszeitraums nach dem Inkrafttreten der Fortschreibung noch an, so ist abweichend von § 41 Absatz 2 von Amts wegen über die Leistung des Wohngeldes für den Zeitraum vom Inkrafttreten der Fortschreibung bis zum Ende des bisherigen Bewilligungszeitraums neu zu entscheiden. Bei der Entscheidung sind die Höchstbeträge für Miete und Belastung (Anlage 1) und die Werte für b“ und c“ (Anlage 2) in der ab dem Inkrafttreten der aktuellen Fortschreibung geltenden Fassung anzuwenden.
+(1) Ist Wohngeld vor dem Inkrafttreten der Fortschreibung des Wohngeldes (§ 43) bewilligt worden und dauert mindestens ein Teil des Bewilligungszeitraums nach dem Inkrafttreten der Fortschreibung noch an, so ist abweichend von § 41 Absatz 2 von Amts wegen über die Leistung des Wohngeldes für den Zeitraum vom Inkrafttreten der Fortschreibung bis zum Ende des bisherigen Bewilligungszeitraums neu zu entscheiden. Bei der Entscheidung sind die Höchstbeträge für Miete und Belastung (Anlage 1) und die Werte für „b“ und „c“ (Anlage 2) in der ab dem Inkrafttreten der aktuellen Fortschreibung geltenden Fassung anzuwenden.
 (2) Ist bei der Entscheidung nach Absatz 1 Satz 1 nicht berücksichtigt worden, dass sich die Anzahl der zu berücksichtigenden Haushaltsmitglieder, die zu berücksichtigende Miete oder Belastung oder das Gesamteinkommen geändert hat, so ist diese Entscheidung nur rechtswidrig, wenn gleichzeitig die Voraussetzungen des § 27 Absatz 1 oder 2 vorliegen. Im Übrigen bleibt § 45 des Zehnten Buches Sozialgesetzbuch unberührt. Wird die Entscheidung nach Absatz 1 Satz 1 unter den Voraussetzungen des § 45 des Zehnten Buches Sozialgesetzbuch zurückgenommen, so wird der bisherige Bewilligungsbescheid wieder wirksam. Die §§ 27 und 28 bleiben unberührt.
 (3) Ist Wohngeld vor dem Inkrafttreten der aktuellen Fortschreibung bewilligt worden und dauert mindestens ein Teil des Bewilligungszeitraums nach dem Inkrafttreten der Fortschreibung noch an und ist über einen Antrag nach § 27 Absatz 1 oder in einem Verfahren nach § 27 Absatz 2 neu zu entscheiden, so ist für die Zeit bis zum Inkrafttreten der Fortschreibung nach dem bis dahin geltenden Recht, ab dem Inkrafttreten der Fortschreibung nach neuem Recht zu entscheiden.
 (4) Der Bewilligungsbescheid nach Absatz 1 Satz 1 muss auf die besonderen Entscheidungsgrundlagen der Absätze 1 und 2 hinweisen, insbesondere darauf, dass eine Entscheidung nach den §§ 27 oder 28 Absatz 2 oder die Mitteilung über die Unwirksamkeit nach § 28 Absatz 1 oder 3 dem Bewilligungsbescheid noch folgen kann und bezogen auf den Zeitpunkt der Änderung der Verhältnisse, der auch vor dem Inkrafttreten der aktuellen Fortschreibung liegen kann, das Wohngeld wegfallen oder sich verringern kann.
@@ -752,7 +752,7 @@ Anlage 1 - (zu § 12 Absatz 1)
 Anlage 2 - (zu § 19 Absatz 1)
 
 (Fundstelle: BGBl. I 2019, 1882)
-Die in die Formel nach § 19 Absatz 1 Satz 1 einzusetzenden, nach der Anzahl der zu berücksichtigenden Haushaltsmitglieder unterschiedenen Werte a“, b“ und c“ sind der nachfolgenden Tabelle zu entnehmen:\\
+Die in die Formel nach § 19 Absatz 1 Satz 1 einzusetzenden, nach der Anzahl der zu berücksichtigenden Haushaltsmitglieder unterschiedenen Werte „a“, „b“ und „c“ sind der nachfolgenden Tabelle zu entnehmen:\\
 \\
 |   | 1\\          | 2\\          | 3\\          | 4\\          | 5\\          | 6\\          |
 |   | Haushalts-\\ | Haushalts-\\ | Haushalts-\\ | Haushalts-\\ | Haushalts-\\ | Haushalts-\\ |
@@ -780,7 +780,7 @@ Anlage 3 - (zu § 19 Absatz 2)
 (Fundstelle: BGBl. I 2015, 1617)
 Rechenschritte und Rundungen
 
-- 1. :: Werte für M“ und Y“, die unterhalb der folgenden Tabellenwerte liegen, werden durch diese ersetzt:\\
+- 1. :: Werte für „M“ und „Y“, die unterhalb der folgenden Tabellenwerte liegen, werden durch diese ersetzt:\\
   \\
   |   | 1\\          | 2\\          | 3\\          | 4\\          | 5\\          | 6\\          |
   |   | Haushalts-\\ | Haushalts-\\ | Haushalts-\\ | Haushalts-\\ | Haushalts-\\ | Haushalts-\\ |
@@ -798,7 +798,7 @@ Rechenschritte und Rundungen
   | Y | 702          | 787          | 872          | 957          | 1 248        | 1 443        |
 
   \\
-- 2. :: Das ungerundete monatliche Wohngeld ergibt sich durch Einsetzen der Werte für a“, b“, c“ (Anlage 2) und für M“ und Y“ in die Formel nach § 19 Absatz 1 Satz 1 und durch Ausführen der vier folgenden Rechenschritte:\\
+- 2. :: Das ungerundete monatliche Wohngeld ergibt sich durch Einsetzen der Werte für „a“, „b“, „c“ (Anlage 2) und für „M“ und „Y“ in die Formel nach § 19 Absatz 1 Satz 1 und durch Ausführen der vier folgenden Rechenschritte:\\
   \\
   Berechnung der Dezimalzahlen
   z1 = a + b · M + c ∙ Y,

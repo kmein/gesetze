@@ -523,51 +523,51 @@ Generaldirektion Wasserstraßen\\
 und Schifffahrt
  1.
 xxx
-
+ 
  2.
 xxx
-
+ 
 (Bundesadler)
-
+ 
  3.
 01.01.1960 -D- Duisburg
-
-
-
+ 
+ 
+ 
  4.
 02.01.1998
-
-
-
+ 
+ 
+ 
  7.
 ###
 6.
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 (Lichtbild)
-
+ 
  8.
 AB
-
-
+ 
+ 
  9.
 R, Tonnen, kW, > 1 600
-
-
-
+ 
+ 
+ 
 10.
 31.12.2009
-
-
-
+ 
+ 
+ 
 11.
-
+ 
 5.
 xxx
-
+ 
 SCHIFFERPATENT FÜR DEN BINNENSCHIFFSGÜTER- UND -PERSONENVERKEHR
  1.
 Name des Inhabers
@@ -585,21 +585,21 @@ Lichtbild des Inhabers
 Unterschrift des Inhabers
  8.
 A Alle Wasserstraßen außer dem Rhein
-
+ 
 B Alle Wasserstraßen außer Seeschifffahrtsstraßen und dem Rhein
  9.
 --
 R (Radar)
-
+ 
 --
 Klasse und Tragfähigkeit des Schiffes, für die das Patent gilt (Tonnen, kW, mehr als 1 600 Fahrgäste)
 10.
 Ungültigkeitsdatum
 11.
 Vermerk(e)
-
+ 
 Einschränkungen
-
+ 
 Wasserstraßen mit besonderer Streckenkenntnis
 
 Anlage 2 - Muster des Schifferpatentes C(85 mm x 54 mm – Grundfarbe blau,entsprechend ISO-Norm 78.10)
@@ -613,51 +613,51 @@ Generaldirektion Wasserstraßen\\
 und Schifffahrt
  1.
 xxx
-
+ 
  2.
 xxx
-
+ 
 (Bundesadler)
-
+ 
  3.
 01.01.1960 -D- Duisburg
-
-
-
+ 
+ 
+ 
  4.
 02.01.1998
-
-
-
+ 
+ 
+ 
  7.
 ###
 6.
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 (Lichtbild)
-
+ 
  8.
 C1C2
-
-
+ 
+ 
  9.
 R, < 35 m, ≤ 12
-
-
-
+ 
+ 
+ 
 10.
 31.12.2009
-
-
-
+ 
+ 
+ 
 11.
-
+ 
 5.
 xxx
-
+ 
 SCHIFFERPATENT FÜR DEN BINNENSCHIFFSGÜTER- UND -PERSONENVERKEHR
  1.
 Name des Inhabers
@@ -675,19 +675,19 @@ Lichtbild des Inhabers
 Unterschrift des Inhabers
  8.
 C1 Alle Wasserstraßen außer dem Rhein
-
+ 
 C2 Alle Wasserstraßen außer Seeschifffahrtsstraßen und dem Rhein
  9.
 -- R (Radar)
-
+ 
 -- Fahrzeuge mit weniger als 35 m Länge, nicht mehr als 12 Fahrgäste
 10.
 Ungültigkeitsdatum
 11.
 Vermerk(e)
-
+ 
 Einschränkungen
-
+ 
 Wasserstraßen mit besonderer Streckenkenntnis
 
 Anlage 3 - Muster des Feuerlöschbootpatentes D(85 mm x 54 mm – Grundfarbe blau,entsprechend ISO-Norm 78.10)
@@ -700,51 +700,51 @@ Generaldirektion Wasserstraßen\\
 und Schifffahrt
  1.
 xxx
-
+ 
  2.
 xxx
-
+ 
 (Bundesadler)
-
+ 
  3.
 01.01.1960 -D- Duisburg
-
-
-
+ 
+ 
+ 
  4.
 02.01.1998
-
-
-
+ 
+ 
+ 
  7.
 ###
 6.
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 (Lichtbild)
-
+ 
  8.
 D1D2
-
-
+ 
+ 
  9.
 R, F
-
-
-
+ 
+ 
+ 
 10.
 31.12.2009
-
-
-
+ 
+ 
+ 
 11.
-
+ 
 5.
 xxx
-
+ 
 FEUERLÖSCHBOOTPATENT
  1.
 Name des Inhabers
@@ -762,19 +762,19 @@ Lichtbild des Inhabers
 Unterschrift des Inhabers
  8.
 D1 Alle Wasserstraßen außer dem Rhein
-
+ 
 D2 Alle Wasserstraßen außer Seeschifffahrtsstraßen und dem Rhein
  9.
 -- R (Radar)
-
+ 
 -- F (Feuerlöschboote und Fahrzeuge des Zivil- und Katastrophenschutzes)
 10.
 Ungültigkeitsdatum
 11.
 Vermerk(e)
-
+ 
 Einschränkungen
-
+ 
 Wasserstraßen mit besonderer Streckenkenntnis
 
 Anlage 4 - Muster Sportschifferzeugnis(85 mm x 54 mm – Grundfarbe blau,entsprechend ISO-Norm 78.10)
@@ -787,51 +787,51 @@ Generaldirektion Wasserstraßen\\
 und Schifffahrt
  1.
 xxx
-
+ 
  2.
 xxx
-
+ 
 (Bundesadler)
-
+ 
  3.
 01.01.1960 -D- Duisburg
-
-
-
+ 
+ 
+ 
  4.
 02.01.1998
-
-
-
+ 
+ 
+ 
  7.
 ###
 6.
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 (Lichtbild)
-
+ 
  8.
 E
-
-
+ 
+ 
  9.
 R, Tonnen, kW, > 1 600
-
-
-
+ 
+ 
+ 
 10.
 31.12.2009
-
-
-
+ 
+ 
+ 
 11.
-
+ 
 5.
 xxx
-
+ 
 SPORTSCHIFFERZEUGNIS
  1.
 Name des Inhabers
@@ -851,15 +851,15 @@ Unterschrift des Inhabers
 E Alle Wasserstraßen außer Seeschifffahrtsstraßen und dem Rhein
  9.
 -- R (Radar)
-
+ 
 -- S (Sportfahrzeuge mit weniger als 25 m Länge)
 10.
 Ungültigkeitsdatum
 11.
 Vermerk(e)
-
+ 
 Einschränkungen
-
+ 
 Wasserstraßen mit besonderer Streckenkenntnis
 
 Anlage 5 - Muster Fährführerschein(85 mm x 54 mm – Grundfarbe blau,entsprechend ISO-Norm 78.10)
@@ -872,51 +872,51 @@ Generaldirektion Wasserstraßen\\
 und Schifffahrt
  1.
 xxx
-
+ 
  2.
 xxx
-
+ 
 (Bundesadler)
-
+ 
  3.
 01.01.1960 -D- Duisburg
-
-
-
+ 
+ 
+ 
  4.
 02.01.1998
-
-
-
+ 
+ 
+ 
  7.
 ###
 6.
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 (Lichtbild)
-
+ 
  8.
 F, Strom, -km
-
-
+ 
+ 
  9.
 R
-
-
-
+ 
+ 
+ 
 10.
 31.12.2009
-
-
-
+ 
+ 
+ 
 11.
-
+ 
 5.
 xxx
-
+ 
 FÄHRFÜHRERSCHEIN
  1.
 Name des Inhabers
@@ -936,15 +936,15 @@ Unterschrift des Inhabers
 F Die eingetragene Fährstrecke
  9.
 -- R (Radar)
-
+ 
 -- Fähren
 10.
 Ungültigkeitsdatum
 11.
 Vermerk(e)
-
+ 
 Einschränkungen
-
+ 
 Wasserstraßen mit besonderer Streckenkenntnis
 
 Anlage 6 - Muster vorläufiges Patent/Fährführerschein
@@ -976,46 +976,46 @@ Dieses vorläufige Befähigungszeugnis gilt bis zum Erhalt des Zeugnisses für d
 geboren am ..........
 geboren in ..........
 ist Inhaber des Schifferpatentes\\
-A/B/C1/C2/D1/D2/E/F“\\
+„A/B/C1/C2/D1/D2/E/F“\\
 für die Bundeswasserstraße
 Auflagen
 • ..........
 • ..........
 1.
 Wasserstraße xxx
-
-
+ 
+ 
 für den Streckenabschnitt
 ..........
-
+ 
 von km ...
 bis km ...
 (Ort und Datum der Ausstellung)
-(Siegel) 
-
+(Siegel)  
+ 
 2.
 Wasserstraße xxx
-
-
+ 
+ 
 für den Streckenabschnitt
 Generaldirektion Wasserstraßen\\
 und Schifffahrt
-
+ 
 von km ...
 bis km ...
-(Siegel) 
-
+(Siegel)  
+ 
 3.
 Wasserstraße xxx
-
-
+ 
+ 
 für den Streckenabschnitt
-
-
+ 
+ 
 von km ...
 bis km ...
 Im Auftrag ..........
-(Siegel) 
+(Siegel)  
 (Name, Unterschrift, Siegel)
 
 Anlage 7 - Muster Streckenkundezeugnis
@@ -1027,101 +1027,101 @@ Dieses Streckenzeugnis gilt nur in Verbindung mit dem auf den gleichen Namen lau
 BUNDESREPUBLIK DEUTSCHLAND
 Rheinpatent
 vom ..........
-
-
+ 
+ 
 Nr. ..........
 (Bundesadler)
-Schifferpatent A/B“
+Schifferpatent „A/B“
 vom ..........
-
-
+ 
+ 
 Nr. ..........
-
+ 
 Donaukapitänspatent
 vom ..........
-
-
+ 
+ 
 Nr. ..........
-
+ 
 Schifferausweis/
-
-
+ 
+ 
 Schifferpatent C1/C2
-
+ 
 Streckenzeugnis
 Sportschifferzeugnis
 vom ..........
-
-
+ 
+ 
 Nr. ..........
-
+ 
 Fährführerschein
 vom ..........
-
-
+ 
+ 
 Nr. ..........
-
+ 
 Befähigungszeugnis anderer Art
-
+ 
 ..........
-
+ 
 (Bezeichnung)
 vom ..........
 Nr. xxx
-
+ 
 Nr. ..........
-
+ 
 für die darin genannte Fahrzeugart und -größe.
-
+ 
 Herr/\\
 Frau ..........
-
-
-
+ 
+ 
+ 
 (Vor- und Familienname)
-
-
-
+ 
+ 
+ 
 geboren am/in ..........
-
-
+ 
+ 
 ..........
-
-
+ 
+ 
 erhält die Erlaubnis zur Fahrt auf folgenden Wasserstraßen der Zone 3 und 4 (§ 7 Absatz 2, § 9 und Anlage 9 der Binnenschifferpatentverordnung):
-
+ 
 (Lichtbild)
-
+ 
 1.
 Wasserstraße xxx
-
-
-
-
+ 
+ 
+ 
+ 
 von km ..........
 bis km ..........
 ..........
-
+ 
 (Ort und Datum) (Siegel)
 (Eigenhändige Unterschrift des Inhabers)
 2.
 Wasserstraße xxx
 ..........
-
+ 
 von km ..........
 bis km ..........
 (Ort und Datum der Ausstellung)
-
+ 
 (Ort und Datum der Erweiterung) (Siegel)
 Generaldirektion Wasserstraßen\\
 und Schifffahrt
 3.
 Wasserstraße xxx
-
+ 
 von km ..........
 bis km ..........
 Im Auftrag ..........
-
+ 
 (Ort und Datum der Erweiterung) (Siegel)
 (Name, Unterschrift, Siegel)
 
@@ -1133,97 +1133,97 @@ Anlage 8 - Muster Donaukapitänspatent
 Erweiterungen/Extensions
 BUNDESREPUBLIK DEUTSCHLAND
 Die Fahrerlaubnis ist erweitert worden:
-
+ 
 La validité du présent certificat a été étendue:
 RÉPUBLIQUE FÉDÉRALE D´ALLEMAGNE
 1.
 auf den Donauabschnitt/au secteur du Danube
-
-
+ 
+ 
 von/du km ..........
 bis/au km ..........
-
-
+ 
+ 
 ..........
-
-
+ 
+ 
 (Ort und Datum der Erweiterung)/\\
 (Lieu et date de l´extension)
 (Bundesadler)
 (Siegel/cachet)
-
+ 
 2.
 auf den Donauabschnitt/au secteur du Danube
-
-
+ 
+ 
 von/du km ..........
 bis/au km ..........
 Donaukapitänspatent
-
+ 
 ..........
-
-
+ 
+ 
 (Ort und Datum der Erweiterung)/\\
 (Lieu et date de l´extension)
-
+ 
 (Siegel/cachet)
-
+ 
 3.
 auf den Donauabschnitt/au secteur du Danube
 CERTIFICAT\\
 de conducteur de bateau\\
 sur le Danube
-
+ 
 von/du km ..........
 bis/au km ..........
-
+ 
 ..........
-
+ 
 (Ort und Datum der Erweiterung)/\\
 (Lieu et date de l´extension)
-
+ 
 (Siegel/cachet)
-
+ 
 4.
 auf den Donauabschnitt/au secteur du Danube
-
-
+ 
+ 
 von/du km ..........
 bis/au km ..........
-
-
+ 
+ 
 ..........
 Nr. xxx
-
+ 
 (Ort und Datum der Erweiterung)/\\
 (Lieu et date de l´extension)
-
+ 
 (Siegel/cachet)
-
+ 
 Herr/
-
-
-
+ 
+ 
+ 
 Frau ..........
-
-
-
+ 
+ 
+ 
 (Vor- und Familienname)/(Prénom et nom)
-
-
-
+ 
+ 
+ 
 ..........
-
+ 
 (Lichtbild)
-
+ 
 (geboren am/in)/(Lieu et date de naissance)
-
-
-
+ 
+ 
+ 
 erhält die Erlaubnis zur Fahrt (§ 8 Absatz 2 der Binnenschifferpatentverordnung) auf der:
-
-
-
+ 
+ 
+ 
 est autorisé(e) conformément aux règles relatives à la délivrance des certificats de conducteur de bateau arrêtées par les autorités compétentes de la République fédérale d´Allemagne compte tenu des dispositions des «Recommandations sur les prescriptions relatives à la délivrance des certificats de bateau de navigation intérieure sur le Danube» à la Commission du Danube, a conduire des bateaux sur le
 \\
 \\
@@ -1233,14 +1233,14 @@ est autorisé(e) conformément aux règles relatives à la délivrance des certi
 ..........\\
 (Ort und Datum der Ausstellung)/\\
 (Lieu et date de délivrance)
-
+ 
 Generaldirektion Wasserstraßen\\
 und Schifffahrt
 Donau/Danube
-
+ 
 von/du km ..........
 bis/au km ..........
-
+ 
 \\
 (Siegel/Cachet) ..........
 Im Auftrag/\\
@@ -1250,11 +1250,11 @@ par ordre ..........
 (Name, Unterschrift, Siegel)/\\
 (nom, signature, cachet)
 Amtliche Vermerke/observations:
-
+ 
 •
-
+ 
 •
-
+ 
 
 Anlage 9
 
@@ -1315,12 +1315,12 @@ In Spalte 3 bedeuten:
 9
 10
 11
-
-
+ 
+ 
 Fahrerlaubnisklassen
 Nr.
 Prüfungsstoff
-
+ 
 A
 B
 C1
@@ -1331,26 +1331,26 @@ E
 F
 1
 Kenntnis der Verordnungen, Merkblätter und Handbücher
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 1.1
 Binnenschiffahrtsstraßen-Ordnung (einschließlich der vorübergehenden Anordnungen)
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 1.1.1
 Kapitel 1 bis 7, 10 bis 15, 16, 18 bis 25, 27, 28
 1
@@ -1369,10 +1369,10 @@ x
 x
 x
 x
-
-
-
-
+ 
+ 
+ 
+ 
 1.1.3
 Kapitel 16, 17, 22, 25, 26 (für die beantragten Strecken)
 1
@@ -1391,10 +1391,10 @@ x
 x
 x
 x
-
-
-
-
+ 
+ 
+ 
+ 
 1.1.5
 Anlage 3 (Bezeichnung der Fahrzeuge)
 1
@@ -1450,17 +1450,17 @@ x
 x
 x
 x
-
+ 
 Merkblätter/Handbücher
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 1.1.10
 Sprechfunk
 2
@@ -1485,48 +1485,48 @@ x
 x
 1.2
 Vorschriften für Wasserstraßen der Zonen 1 und 2
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 1.2.1
 Kollisionsverhütungsregeln, Seeschifffahrtsstraßen-Ordnung, Schifffahrtsordnung Emsmündung
 1
 x
-
+ 
 x
-
+ 
 x
-
-
+ 
+ 
 (x)
 1.2.2
 Vorschriften zum Schutz der Meeresumwelt
 1
 x
-
+ 
 x
-
+ 
 x
-
-
-
+ 
+ 
+ 
 1.3
 Binnenschiffsuntersuchungsordnung,
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 1.3.1
 Aufbau und Inhalt (insbesondere Sicherheit von Personen und Schiff)
 2
@@ -1537,7 +1537,7 @@ x
 x
 x
 x
-
+ 
 1.3.2
 Sicherheit von Fahrgästen, Stabilität bei Fahrgastschiffen, Schotteinteilung
 2
@@ -1545,10 +1545,10 @@ x
 x
 x
 x
-
-
-
-
+ 
+ 
+ 
+ 
 1.3.3
 Inhalt Fahrtauglichkeitsbescheinigung
 2
@@ -1567,32 +1567,32 @@ x
 x
 x
 x
-
-
-
-
+ 
+ 
+ 
+ 
 1.3.5
 Besondere Anforderungen für die Zonen 1 und 2
 2
 x
-
+ 
 x
-
+ 
 x
-
-
-
+ 
+ 
+ 
 1.4
 Gefahrgutverordnung Binnenschiffahrt
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 1.4.1
 Aufbau (ADN)
 2
@@ -1600,10 +1600,10 @@ x
 x
 x
 x
-
-
-
-
+ 
+ 
+ 
+ 
 1.4.2
 Urkunden/Weisungen (ADN)
 2
@@ -1611,10 +1611,10 @@ x
 x
 x
 x
-
-
-
-
+ 
+ 
+ 
+ 
 1.4.3
 Angabe der vorgeschriebenen Kegelbezeichnung (ADN)
 1
@@ -1622,10 +1622,10 @@ x
 x
 x
 x
-
-
-
-
+ 
+ 
+ 
+ 
 1.4.4
 Auffinden der Betriebsvorschriften
 2
@@ -1633,21 +1633,21 @@ x
 x
 x
 x
-
-
-
-
+ 
+ 
+ 
+ 
 1.5
 Binnenschifferpatentverordnung
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 1.5.1
 Fahrerlaubnisarten
 2
@@ -1677,32 +1677,32 @@ x
 x
 x
 x
-
-
+ 
+ 
 x
 x
 1.7
 Fährenbetriebsverordnung
 1
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 x
 2
 Wasserstraßenkunde (anhand von Kartenmaterial)
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 2.1
 Wasserstraßen (wichtigste geographische, hydrologische, meteorologische und morphologische Merkmale)
 2
@@ -1713,18 +1713,18 @@ x
 x
 x
 x
-
+ 
 2.2
 Ortskenntnisse der beantragten Strecken (Anlage 9)
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 2.2.1
 Fahrwegbeschreibung Berg- und Talfahrt
 1
@@ -1735,7 +1735,7 @@ x
 x
 x
 x
-
+ 
 2.2.2
 Fahrwegabmessungen
 1
@@ -1746,128 +1746,128 @@ x
 x
 x
 x
-
+ 
 2.3
 Kenntnis der beantragten Fährstrecke
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 x
 2.4
 Terrestrische Navigation
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 2.4.1
 Kursbestimmung
 1
 x
-
+ 
 x
-
+ 
 x
-
-
-
+ 
+ 
+ 
 2.4.2
 Standlinien und Schiffsorte
 1
 x
-
+ 
 x
-
+ 
 x
-
-
-
+ 
+ 
+ 
 2.4.3
 nautische Druckschriften und Veröffentlichungen
 2
 x
-
+ 
 x
-
+ 
 x
-
-
-
+ 
+ 
+ 
 2.4.4
 Arbeiten in der Seekarte
 2
 x
-
+ 
 x
-
+ 
 x
-
-
-
+ 
+ 
+ 
 2.4.5
 Seezeichen und Betonnungssysteme
 1
 x
-
+ 
 x
-
+ 
 x
-
-
+ 
+ 
 x
 2.4.6
 Kompasskontrollverfahren
 2
 x
-
+ 
 x
-
+ 
 x
-
-
-
+ 
+ 
+ 
 2.4.7
 Grundlagen der Gezeitenlehre
 2
 x
-
+ 
 x
-
+ 
 x
-
-
+ 
+ 
 x
 3
 Berufskenntnisse (nautische, schiffsbetriebstechnische, berufliche Fähigkeiten)
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 3.1
 Führung des Fahrzeuges
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 3.1.1
 Vorgänge beim Steuern, Manövriereigenschaften
 2
@@ -1925,15 +1925,15 @@ x
 x
 3.2
 Maschinenkenntnisse
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 3.2.1
 Bau, Arbeitsweise der Motoren, Funktion der elektrischen Einrichtungen
 2
@@ -1969,15 +1969,15 @@ x
 x
 3.3
 Laden und Löschen
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 3.3.1
 Bestimmung des Ladegewichtes anhand des Eichscheines
 2
@@ -1985,10 +1985,10 @@ x
 x
 x
 x
-
-
-
-
+ 
+ 
+ 
+ 
 3.3.2
 Anwendung der Tiefgangsanzeiger
 2
@@ -1996,10 +1996,10 @@ x
 x
 x
 x
-
-
-
-
+ 
+ 
+ 
+ 
 3.3.3
 Stauen der Ladung (Stauplan)
 2
@@ -2007,32 +2007,32 @@ x
 x
 x
 x
-
-
+ 
+ 
 x
-
+ 
 3.3.4
 Ladungs- und Seetüchtigkeit
 2
 x
-
+ 
 x
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 3.4
 Verhalten unter besonderen Umständen
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 3.4.1
 Maßnahmen bei Havarien, Erste Hilfe, Abdichtung von Lecks
 2
@@ -2048,24 +2048,24 @@ x
 Besonderheiten der Rettung von Personen, Schiff und Ladung auf Wasserstraßen der Zonen 1 und 2
 2
 x
-
+ 
 x
-
+ 
 x
-
-
+ 
+ 
 x
 3.4.3
 Überleben in Seenot
 2
 x
-
+ 
 x
-
+ 
 x
-
-
-
+ 
+ 
+ 
 3.4.4
 Bedienung von Rettungsgeräten und -ausrüstungen
 2
@@ -2073,8 +2073,8 @@ x
 x
 x
 x
-
-
+ 
+ 
 x
 x
 3.4.5
@@ -2095,8 +2095,8 @@ x
 x
 x
 x
-
-
+ 
+ 
 x
 x
 3.4.7
@@ -2106,7 +2106,7 @@ x
 x
 x
 x
-
-
+ 
+ 
 x
 x

@@ -16,24 +16,24 @@ Diese Verordnung gilt für den Betrieb von UV-Bestrahlungsgeräten, die zu kosme
 
 Für diese Verordnung gelten folgende Begriffsbestimmungen:
 
-- 1. :: UV-Bestrahlungsgeräte“ sind Anlagen, die zur Bestrahlung der Haut UV-Strahlung aussenden können, einschließlich deren Steuerung;
-- 2. :: UV-Strahlung“ ist nichtionisierende Strahlung mit Wellenlängen von 100 bis 400 Nanometern;
-- 3. :: Optische Bauteile“ sind die optisch wirksamen Bestandteile eines UV-Bestrahlungsgerätes, insbesondere UV-Leuchtstofflampen oder Halogen-Metalldampflampen, Reflektoren, Filter und UV-durchlässige Scheiben;
-- 4. :: Hauttypen“ sind die Kategorien der individuellen Hautempfindlichkeit nach Anlage 1;
-- 5. :: UV-Erythem“ ist eine entzündliche Rötung der menschlichen Haut durch UV-Strahlung der Sonne oder von künstlichen Quellen (Sonnenbrand);
-- 6. :: Erythemwirksame Bestrahlungsstärke (E_{ery})“ ist die Summation des Produktes aus gemessener spektraler Bestrahlungsstärke (E_{λ}) in Watt pro Quadratmeter und Nanometer (Wm-2}nm-1}), dem jeweiligen wellenlängenabhängigen Wichtungsfaktor (S_{λ}) für das UV-Erythem nach Anlage 2 und dem jeweiligen Intervall der Wellenlänge Δ_{λ} in Nanometern (nm), wobei gilt Δ_{λ} < 2,5 Nanometer (nm), über den Wellenlängenbereich von 250 bis 400 Nanometern (nm):
+- 1. :: „UV-Bestrahlungsgeräte“ sind Anlagen, die zur Bestrahlung der Haut UV-Strahlung aussenden können, einschließlich deren Steuerung;
+- 2. :: „UV-Strahlung“ ist nichtionisierende Strahlung mit Wellenlängen von 100 bis 400 Nanometern;
+- 3. :: „Optische Bauteile“ sind die optisch wirksamen Bestandteile eines UV-Bestrahlungsgerätes, insbesondere UV-Leuchtstofflampen oder Halogen-Metalldampflampen, Reflektoren, Filter und UV-durchlässige Scheiben;
+- 4. :: „Hauttypen“ sind die Kategorien der individuellen Hautempfindlichkeit nach Anlage 1;
+- 5. :: „UV-Erythem“ ist eine entzündliche Rötung der menschlichen Haut durch UV-Strahlung der Sonne oder von künstlichen Quellen (Sonnenbrand);
+- 6. :: „Erythemwirksame Bestrahlungsstärke (E_{ery})“ ist die Summation des Produktes aus gemessener spektraler Bestrahlungsstärke (E_{λ}) in Watt pro Quadratmeter und Nanometer (Wm-2}nm-1}), dem jeweiligen wellenlängenabhängigen Wichtungsfaktor (S_{λ}) für das UV-Erythem nach Anlage 2 und dem jeweiligen Intervall der Wellenlänge Δ_{λ} in Nanometern (nm), wobei gilt Δ_{λ} < 2,5 Nanometer (nm), über den Wellenlängenbereich von 250 bis 400 Nanometern (nm): 
   \\
   |   | [[../normengrafiken/bgbl1_2011/j1412-1_0010.jpg]] |   |
 
   \\
-- 7. :: Gesamte Bestrahlungsstärke (E_{ges})“ ist die Summation des Produktes aus gemessener spektraler Bestrahlungsstärke (E_{λ}) in Watt pro Quadratmeter und Nanometer (Wm-2}nm-1}) und dem jeweiligen Intervall der Wellenlänge Δ_{λ} in Nanometern, wobei gilt Δ_{λ} < 2,5 Nanometer (nm), über den Wellenlängenbereich von 200 bis 280 Nanometern (nm):
+- 7. :: „Gesamte Bestrahlungsstärke (E_{ges})“ ist die Summation des Produktes aus gemessener spektraler Bestrahlungsstärke (E_{λ}) in Watt pro Quadratmeter und Nanometer (Wm-2}nm-1}) und dem jeweiligen Intervall der Wellenlänge Δ_{λ} in Nanometern, wobei gilt Δ_{λ} < 2,5 Nanometer (nm), über den Wellenlängenbereich von 200 bis 280 Nanometern (nm):
   \\
   |   | [[../normengrafiken/bgbl1_2011/j1412-1_0020.jpg]] |   |
 
   \\
-- 8. :: Erythemwirksame Bestrahlung“ ist die Bestrahlung in Joule pro Quadratmeter (Jm-2}), die ermittelt wird durch Multiplikation der erythemwirksamen Bestrahlungsstärke mit der Bestrahlungsdauer in Sekunden;
-- 9. :: Erythemwirksame Schwellenbestrahlung“ ist der Wert der erythemwirksamen Bestrahlung in Joule pro Quadratmeter (Jm-2}), der bei nicht vorbestrahlter Haut ein gerade noch erkennbares UV-Erythem hervorruft;
-- 10. :: Höchstbestrahlungsdauer“ ist die Bestrahlungsdauer, die bei gegebener erythemwirksamer Bestrahlungsstärke eines UV-Bestrahlungsgerätes bei nicht vorbestrahlter Haut ein gerade noch erkennbares UV-Erythem hervorruft; sie ist der Quotient aus der erythemwirksamen Schwellenbestrahlung des jeweiligen Hauttyps und der erythemwirksamen Bestrahlungsstärke des UV-Bestrahlungsgerätes.
+- 8. :: „Erythemwirksame Bestrahlung“ ist die Bestrahlung in Joule pro Quadratmeter (Jm-2}), die ermittelt wird durch Multiplikation der erythemwirksamen Bestrahlungsstärke mit der Bestrahlungsdauer in Sekunden;
+- 9. :: „Erythemwirksame Schwellenbestrahlung“ ist der Wert der erythemwirksamen Bestrahlung in Joule pro Quadratmeter (Jm-2}), der bei nicht vorbestrahlter Haut ein gerade noch erkennbares UV-Erythem hervorruft;
+- 10. :: „Höchstbestrahlungsdauer“ ist die Bestrahlungsdauer, die bei gegebener erythemwirksamer Bestrahlungsstärke eines UV-Bestrahlungsgerätes bei nicht vorbestrahlter Haut ein gerade noch erkennbares UV-Erythem hervorruft; sie ist der Quotient aus der erythemwirksamen Schwellenbestrahlung des jeweiligen Hauttyps und der erythemwirksamen Bestrahlungsstärke des UV-Bestrahlungsgerätes.
 
 
 § 3 - Anforderungen an den Betrieb von UV-Bestrahlungsgeräten
@@ -110,11 +110,11 @@ Nachweisen nach Satz 1 gleichgestellt sind Nachweise, die in einem Drittstaat au
 (2) Wer ein UV-Bestrahlungsgerät betreibt, hat sicherzustellen, dass folgende Informationen dauerhaft und deutlich sicht- und lesbar an dem UV-Bestrahlungsgerät angebracht sind:
 
 - 1. :: Angaben zur maximalen Bestrahlungsdauer der ersten Bestrahlung von ungebräunter Haut und zur Höchstbestrahlungsdauer für die Hauttypen I bis VI sowie der Hinweis, dass die Hauttypen I und II nach Anlage 5 Ausschlusskriterien für die Nutzung von UV-Bestrahlungsgeräten darstellen,
-- 2. :: ein Hinweis mit der Überschrift Warnung“ und folgendem oder sinngemäVorsicht! UV-Strahlung kann akute Schäden an Augen und Haut verursachen, führt zu vorzeitiger Hautalterung und erhöht das Risiko, an Hautkrebs zu erkranken. Empfehlungen zum Gesundheitsschutz beachten! Schutzbrille tragen! Medikamente und Kosmetika können die UV-Empfindlichkeit der Haut erhöhen. “
+- 2. :: ein Hinweis mit der Überschrift „Warnung“ und folgendem oder sinngemäßem Inhalt: „Vorsicht! UV-Strahlung kann akute Schäden an Augen und Haut verursachen, führt zu vorzeitiger Hautalterung und erhöht das Risiko, an Hautkrebs zu erkranken. Empfehlungen zum Gesundheitsschutz beachten! Schutzbrille tragen! Medikamente und Kosmetika können die UV-Empfindlichkeit der Haut erhöhen. “
 
 Ist es auf Grund der Beschaffenheit des UV-Bestrahlungsgerätes nicht möglich, die Informationen nach Satz 1 am UV-Bestrahlungsgerät anzubringen, können diese Informationen ausnahmsweise in der Bestrahlungskabine angebracht werden; auch hier müssen sie deutlich sicht- und lesbar sein und dem betreffenden UV-Bestrahlungsgerät eindeutig zugeordnet werden können.
 
-(3) Wer ein UV-Bestrahlungsgerät in einem Sonnenstudio oder in einer ähnlichen Einrichtung betreibt, hat im Eingangsbereich des Geschäftsraumes den gut sicht- und lesbaren Hinweis Benutzung von Solarien für Kinder und Jugendliche unter 18 Jahren verboten“ anzubringen. Wer ein UV-Bestrahlungsgerät in sonstigen öffentlich zugänglichen Räumen betreibt, hat einen solchen Hinweis direkt an dem UV-Bestrahlungsgerät anzubringen.
+(3) Wer ein UV-Bestrahlungsgerät in einem Sonnenstudio oder in einer ähnlichen Einrichtung betreibt, hat im Eingangsbereich des Geschäftsraumes den gut sicht- und lesbaren Hinweis „Benutzung von Solarien für Kinder und Jugendliche unter 18 Jahren verboten“ anzubringen. Wer ein UV-Bestrahlungsgerät in sonstigen öffentlich zugänglichen Räumen betreibt, hat einen solchen Hinweis direkt an dem UV-Bestrahlungsgerät anzubringen.
 (4) Wer ein UV-Bestrahlungsgerät betreibt, hat sicherzustellen, dass den Nutzerinnen und Nutzern eine Informationsschrift zu den Gefahren und Risiken einer UV-Bestrahlung zur Mitnahme angeboten wird, deren Inhalt sich aus Anlage 8 ergibt.
 
 § 8 - Dokumentationspflichten
@@ -234,7 +234,7 @@ Für die Richtigkeit der vorstehenden Angaben
 Ort: ..................................................... Datum: ..............................................................
 Unterschrift und Firmenstempel des Betreibers: ........................................................
 Betriebsbuch
-Der Teil Betriebsbuch“ des Geräte- und Betriebsbuches ist vom Betreiber oder durch von ihm Bevollmächtigte (Wartungsfirma etc.) zu führen und vom Betreiber zu bestätigen. Im Betriebsbuch sind alle Wartungsarbeiten, Reparaturarbeiten, Lampen- und Filterwechsel, sonstige zum sicheren Betrieb eines UV-Bestrahlungsgerätes notwendigen Arbeiten und betriebseigene Prüfungen einschließlich der zugehörigen Zertifikate und Erklärungen zu dokumentieren.
+Der Teil „Betriebsbuch“ des Geräte- und Betriebsbuches ist vom Betreiber oder durch von ihm Bevollmächtigte (Wartungsfirma etc.) zu führen und vom Betreiber zu bestätigen. Im Betriebsbuch sind alle Wartungsarbeiten, Reparaturarbeiten, Lampen- und Filterwechsel, sonstige zum sicheren Betrieb eines UV-Bestrahlungsgerätes notwendigen Arbeiten und betriebseigene Prüfungen einschließlich der zugehörigen Zertifikate und Erklärungen zu dokumentieren.
 Qualifiziertes Fachpersonal nach § 4 Absatz 4 UVSV
 Name: ............................................................................... ...............
 Bezeichnung der Schulungseinrichtung: ...................................................
@@ -289,13 +289,13 @@ Stand des Betriebsstundenzählers: .........................................
 
 - <<FnA1-F775557_04>>[[#FnR.FnA1-F775557_04][*)]] :: Äquivalenzbescheinigungen sind dem Geräte- und Betriebsbuch als Anlage beizufügen.
 
-Wenn bei Äquivalenzbescheinigung nein“ angegeben wurde: Von welchem Bautyp sind diese optischen Bauteile?\\
+Wenn bei Äquivalenzbescheinigung „nein“ angegeben wurde: Von welchem Bautyp sind diese optischen Bauteile?\\
 .......................................................................... ...........................\\
 \\
 Sie sind nicht gleichartig mit den Original-Bauteilen. Durch den Austausch mit nicht gleichartigen Bauteilen ergeben sich folgende Änderungen der Eigenschaften des UV-Bestrahlungsgerätes:\\
 .......................................................................... ..............................
 
-Die Anforderungen an die Bestrahlungsstärke nach § 3 UVSV werden erfüllt. Unter Umständen sind eine spektrale Neuvermessung des UV-Bestrahlungsgerätes nach DIN 5050-1, Ausgabe Januar 2010 (über die VDE Verlag GmbH oder die Beuth Verlag GmbH, beide Berlin, zu beziehen und beim Deutschen Patent- und Markenamt archivmäGerätebuch“ des Geräte- und Betriebsbuches notwendig.
+Die Anforderungen an die Bestrahlungsstärke nach § 3 UVSV werden erfüllt. Unter Umständen sind eine spektrale Neuvermessung des UV-Bestrahlungsgerätes nach DIN 5050-1, Ausgabe Januar 2010 (über die VDE Verlag GmbH oder die Beuth Verlag GmbH, beide Berlin, zu beziehen und beim Deutschen Patent- und Markenamt archivmäßig gesichert niedergelegt), und eine Aktualisierung des Kapitels „Gerätebuch“ des Geräte- und Betriebsbuches notwendig.
 (Bestätigung des Betreibers durch entsprechenden Herstellernachweis)
 Bestrahlungszeiten: .......................................................
 Sonstiges: ..................................................................
@@ -322,7 +322,7 @@ Anlage 5 - (zu § 4 Absatz 1 bis 3)Dosierungsplan
   - -- :: Informationen zur Nutzung eines UV-Bestrahlungsgerätes (entsprechend den Hinweisen nach Anlage 7).
   - -- :: Aufklärung über das erhöhte gesundheitliche Risiko durch UV-Bestrahlung, insbesondere im Hinblick auf Hautkrebs, vorzeitige Hautalterung, Augenschäden und UV-Erythem.
 - 2. :: Vorgaben zum Erstellen des Dosierungsplans und zu Bestrahlungspausen
-  - -- :: Individuelle Festlegung der Bestrahlungsdauer in Abhängigkeit vom Hauttyp der Nutzerin oder des Nutzers und der Bestrahlungsstärke des jeweiligen UV-Bestrahlungsgerätes anhand der Tabelle Maximalwerte erythemwirksamer Bestrahlungen“ unter Vermeidung eines UV-Erythems (Sonnenbrand).
+  - -- :: Individuelle Festlegung der Bestrahlungsdauer in Abhängigkeit vom Hauttyp der Nutzerin oder des Nutzers und der Bestrahlungsstärke des jeweiligen UV-Bestrahlungsgerätes anhand der Tabelle „Maximalwerte erythemwirksamer Bestrahlungen“ unter Vermeidung eines UV-Erythems (Sonnenbrand).
   - -- :: Einheitliche erste Bestrahlung ungebräunter Haut von 100 Jm-2}.
   - -- :: Maximal eine UV-Bestrahlung pro Tag (Sonne oder UV-Bestrahlungsgerät).
   - -- :: Mindestens 48 Stunden Abstand zwischen den ersten beiden Bestrahlungen.
@@ -463,23 +463,23 @@ Auch führt häufige und intensive UV-Bestrahlung zum vorzeitigen Altern der Hau
 Die Augen können durch UV-Strahlung langfristig an Grauem Star (Katarakt), einer Trübung der Augenlinse, erkranken.
 Zudem schwächt übermäßige UV-Strahlung das Immunsystem.
 Daher kein Solarium
-für Minderjährige
+➨für Minderjährige
 Die Nutzung von Solarien ist für Minderjährige (Kinder und Jugendliche unter 18 Jahren) per Gesetz verboten. Die Haut von Kindern und Jugendlichen ist gegenüber UV-Strahlung besonders empfindlich. UV-Bestrahlung von Kindern und Jugendlichen steigert das Hautkrebsrisiko.
-für Hauttyp I und II
+➨für Hauttyp I und II
 Menschen mit Hauttyp I oder II haben besonders UV-empfindliche Haut, die in der Sonne keinen ausreichenden Eigenschutz aufbaut. Da die gewünschte Bräunung ausbleibt, sollten sich Menschen dieser Hauttypen keiner UV-Strahlung aussetzen.
-bei vielen Sonnenbränden in der Kindheit
+➨bei vielen Sonnenbränden in der Kindheit
 Sonnenbrände in der Kindheit erhöhen das Risiko, an schwarzem Hautkrebs (malignes Melanom) zu erkranken. Jede zusätzliche UV-Bestrahlung im Erwachsenenalter erhöht dieses Risiko.
-bei großen, auffälligen oder vielen Pigmentmalen
+➨bei großen, auffälligen oder vielen Pigmentmalen
 Für Menschen mit großen, auffälligen oder auffallend vielen Pigmentmalen (Muttermalen, Leberflecken) besteht ein erhöhtes Hautkrebsrisiko. Jede zusätzliche UV-Bestrahlung sollte unbedingt vermieden werden.
-bei Hautkrebs in der Familie
+➨bei Hautkrebs in der Familie
 Ist in der Familie bereits Hautkrebs aufgetreten, ist die Wahrscheinlichkeit, an Hautkrebs zu erkranken, erhöht. Jede zusätzliche UV-Bestrahlung erhöht dieses Risiko.
-wenn man selbst an Hautkrebs erkrankt ist
+➨wenn man selbst an Hautkrebs erkrankt ist
 Wer bereits an Hautkrebs erkrankt ist oder war, sollte jede zusätzliche UV-Bestrahlung vermeiden.
-bei Medikamenteneinnahme
+➨bei Medikamenteneinnahme
 Bestimmte -- auch pflanzliche -- Stoffe können fotoallergische und fototoxische Reaktionen auslösen. Nach Eindringen dieser Substanzen in die Haut oder oraler Einnahme kann UV-Bestrahlung fotoallergische Reaktionen wie Rötungen, Schwellungen, Nässen oder Blasenbildungen an den bestrahlten Hautbereichen auslösen. Personen, die Medikamente einnehmen, sollten ärztlichen Rat einholen oder sich an eine Apotheke wenden, bevor sie sich UV-Strahlung aussetzen.
-mit Kosmetika
+➨mit Kosmetika
 Inhaltsstoffe von Kosmetika können fotoallergische und fototoxische Reaktionen auslösen. Auf Parfüms, Deodorants, Make-Up, Lotionen, Cremes usw. sollte daher verzichten, wer sich in die Sonne oder in ein Solarium legen möchte. Auch hier kann es zu fotoallergischen Reaktionen wie Rötungen, Schwellungen, Nässen oder Blasenbildungen oder sehr lang anhaltenden starken Pigmentierungen an den bestrahlten Hautbereichen kommen.
-zum Vorbräunen im Solarium
+➨zum Vorbräunen im Solarium
 Eine Vorbräunung im Solarium (z. B. vor einem Urlaub) ist nicht zu empfehlen. Zur Ausbildung eines UV-Eigenschutzes der Haut ist vor allem ausreichend UV-B-Strahlung notwendig. Gerade solche Solarien, die ausschließlich oder überwiegend UV-A-Strahlung abgeben, führen zwar zur Bräunung der Haut, reduzieren aber ihre Sonnenbrandempfindlichkeit nicht. Schützen Sie sich lieber im Urlaub vor der Sonne!
-ohne Schutzbrille
+➨ohne Schutzbrille
 Zum Schutz der Augen vor den Gefahren von UV-Strahlung muss im Solarium immer eine geeignete UV-Schutzbrille getragen werden.

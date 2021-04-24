@@ -191,9 +191,9 @@ Betriebliche und technische Kommunikation\\
 
 4*)
 
+ 
 
-
-
+ 
 
 6
 
@@ -208,9 +208,9 @@ Planen und Steuern von Arbeits- und Bewegungsabläufen; Kontrollieren und Beurte
 
 4*)
 
+ 
 
-
-
+ 
 
 7
 
@@ -226,9 +226,9 @@ Prüfen, Anreißen und Kennzeichnen\\
 
 3*)
 
+ 
 
-
-
+ 
 
 8
 
@@ -245,9 +245,9 @@ Grundlagen der mechanischen Fertigungs- und Fügeverfahren, Herstellen von Betri
 
 4
 
+ 
 
-
-
+ 
 
 - h) :: Werkstücke in Bezug auf die Beschichtbarkeit prüfen
 - i) :: Vorrichtungen und Gestelle nach Vorgaben entwerfen und anfertigen
@@ -255,9 +255,9 @@ Grundlagen der mechanischen Fertigungs- und Fügeverfahren, Herstellen von Betri
 
 4
 
+ 
 
-
-
+ 
 
 9
 
@@ -270,9 +270,9 @@ Erfassen von Meßwerten\\
 
 4
 
+ 
 
-
-
+ 
 
 10
 
@@ -285,9 +285,9 @@ Warten von Betriebsmitteln\\
 
 3*)
 
+ 
 
-
-
+ 
 
 11
 
@@ -306,9 +306,9 @@ Vor- und Nachbehandeln von unbeschichteten und beschichteten Oberflächen\\
 
 9
 
+ 
 
-
-
+ 
 
 Alternative A: Holzoberflächen
 
@@ -316,13 +316,13 @@ Alternative A: Holzoberflächen
 - b) :: Holzoberflächen durch abtragende Verfahren, insbesondere manuelles und maschinelles Schleifen, behandeln
 - c) :: Holzoberflächen durch Polieren, Wachsen, Ausbrennen, Ölen, Färben und Konservieren nachbehandeln
 
+ 
 
-
-
+ 
 
 8
 
-
+ 
 
 Alternative B: Kunststoffoberflächen
 
@@ -346,9 +346,9 @@ Regeln von Produktionsprozessen\\
 
 4
 
+ 
 
-
-
+ 
 
 13
 
@@ -363,9 +363,9 @@ Umgang mit Betriebs- und Gefahrstoffen, verfahrenstechnische Grundoperationen\\
 
 6
 
+ 
 
-
-
+ 
 
 14
 
@@ -377,39 +377,39 @@ Qualitätsmanagement\\
 
 7
 
+ 
 
-
-
+ 
 
 - c) :: Qualitätsmanagementsystem in Verbindung mit technischen Unterlagen, insbesondere Normen und Spezifikationen und dessen Wirksamkeit beurteilen, Verfahren anwenden
 
-
+ 
 
 4
 
+ 
 
-
-
+ 
 
 - d) :: Prüfarten und Prüfmittel auswählen, Einsatzfähigkeit der Prüfmittel feststellen und dokumentieren, Prüfpläne und betriebliche Prüfvorschriften anwenden
 - e) :: Ursachen von Fehlern und Qualitätsmängeln systematisch suchen, beseitigen und dokumentieren
 
+ 
 
-
-
+ 
 
 4
 
-
+ 
 
 - f) :: zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen Arbeitsbereich beitragen
 - g) :: Applikationsparameter in ihrem Zusammenwirken in Bezug auf die Fehlerursachen beurteilen
 
+ 
 
+ 
 
-
-
-
+ 
 
 4
 
@@ -421,13 +421,13 @@ Trägerwerkstoffe\\
 - a) :: Herstellungsverfahren und Eigenschaften der Trägerwerkstoffe unterscheiden
 - b) :: Trägerwerkstoffe prüfen und entsprechend ihres Zustandes Korrekturmaßnahmen ergreifen
 
-
+ 
 
 3
 
+ 
 
-
-
+ 
 
 16
 
@@ -437,33 +437,33 @@ Beschichtungsstoffe\\
 - a) :: Eigenschaften von Beschichtungssystemen beurteilen
 - b) :: Lackbestandteile und ihre Wirkungsweise unterscheiden
 
-
+ 
 
 5
 
+ 
 
-
-
+ 
 
 - c) :: Beschichtungsstoffe für den Verarbeitungszweck einstellen und verarbeiten
 - d) :: Verarbeitungsbedingungen einhalten
 
+ 
 
-
-
+ 
 
 3
 
-
+ 
 
 - e) :: bei der Einlagerung von Beschichtungsstoffen Lagerbedingungen einhalten
 - f) :: Einflußgrößen für das Zusammenwirken einzelner Schichten bei Beschichtungssystemen berücksichtigen
 
+ 
 
+ 
 
-
-
-
+ 
 
 6
 
@@ -475,23 +475,23 @@ Anwenden von Applikationsverfahren\\
 - a) :: Sprühverfahren für flüssige oder pulverförmige Beschichtungsstoffe durchführen
 - b) :: Einflußgrößen des Verfahrens und das Beschichtungsergebnis optimieren
 
-
+ 
 
 10
 
+ 
 
-
-
+ 
 
 - c) :: Auftragsverfahren durch Walzen, Gießen, Tauchen oder Elektrotauchen ausführen
 - d) :: manuelle Auftragsverfahren ausführen
 - e) :: Applikationsverfahren in Bezug auf Emissions- und Abfallbehandlung optimieren
 
+ 
 
+ 
 
-
-
-
+ 
 
 9
 
@@ -503,22 +503,22 @@ Erfassen und Dokumentieren von Meßwerten\\
 - a) :: optische und mechanische Schichtkenngrößen, insbesondere Schichtdicken, Härte, Haftfestigkeit, Abrieb, Farbton, Glanzgrad und Oberflächenstruktur, messen und dokumentieren
 - b) :: Stoffkonstanten ermitteln, dokumentieren und einhalten
 
+ 
 
-
-
+ 
 
 6
 
-
+ 
 
 - c) :: verfahrenstechnische Kenngrößen messen, dokumentieren und einhalten
 - d) :: elektrische Größen im Lackierprozeß überwachen, regeln und dokumentieren
 
+ 
 
+ 
 
-
-
-
+ 
 
 6
 
@@ -529,24 +529,24 @@ Bedienen, Überwachen und Warten von Einrichtungen und Anlagen\\
 
 - a) :: Aufbau und Funktionszusammenhänge von Produktionseinrichtungen unterscheiden und dem Produktionsprozeß zuordnen
 
-
+ 
 
 4
 
+ 
 
-
-
+ 
 
 - b) :: Geräte und Anlagen für Vorbehandlung und Applikation einstellen, steuern, regeln und überwachen
 - c) :: Funktionsmerkmale durch Eingabe von Parametern für den Prozeßablauf sowie durch Eingriffe in die Steuerprogramme des Prozeßleitsystems nach Unterlagen und Anweisung ändern
 
+ 
 
-
-
+ 
 
 5
 
-
+ 
 
 - d) :: Meldegeräte, insbesondere Warn- und Diagnoseeinrichtungen, überwachen
 - e) :: Prozeßablauf unter Berücksichtigung der Qualitätsanforderungen anhand technischer Unterlagen überwachen und dokumentieren
@@ -557,11 +557,11 @@ Bedienen, Überwachen und Warten von Einrichtungen und Anlagen\\
 - k) :: Walz-, Gieß-, Druck-, Präge-, Tauch- oder Elektrotauchanlagen einstellen und überwachen
 - l) :: Einrichtungen und Anlagen bedienen sowie bei fehlerhaften Beschichtungen Funktionsmerkmale korrigieren
 
+ 
 
+ 
 
-
-
-
+ 
 
 12
 
@@ -574,11 +574,11 @@ Nachbehandeln von Beschichtungen\\
 - b) :: Beschichtungen auf unterschiedlichen Grundwerkstoffen mittels mechanischer, chemischer, elektromechanischer oder physikalischer Verfahren entfernen
 - c) :: Beschichtungen, insbesondere durch Polieren und Schwabbeln, nachbehandeln
 
+ 
 
+ 
 
-
-
-
+ 
 
 5
 
@@ -591,11 +591,11 @@ Optimieren des Gesamtprozesses\\
 - b) :: Arbeitsvorgänge und Arbeitsabläufe unter Beachtung der jeweiligen Organisationsformen, der Entscheidungsstrukturen und der eigenen Handlungsspielräume optimieren
 - c) :: beim Fertigungsablauf neuer und veränderter Produkte mitwirken und Ergebnisse zur Optimierung nutzen
 
+ 
 
+ 
 
-
-
-
+ 
 
 6
 
@@ -609,11 +609,11 @@ Verfahren der Umwelttechnik\\
 - c) :: mit Betriebsstoffen und Energieträgern sowie den verwendeten Einrichtungen und Anlagen ökonomisch und ökologisch umgehen
 - d) :: Abfälle und Reststoffe erfassen und zur weiteren Verwendung oder zur Entsorgung bereitstellen
 
+ 
 
+ 
 
-
-
-
+ 
 
 4
 

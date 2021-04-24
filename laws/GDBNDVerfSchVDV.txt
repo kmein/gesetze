@@ -10,44 +10,44 @@ Auf Grund des § 26 Absatz 1 Nummer 2 und Absatz 2 des Bundesbeamtengesetzes in 
 
 Inhaltsübersicht
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 § 1 - Studium
 
-Der Diplomstudiengang Gehobener nichttechnischer Dienst in den Nachrichtendiensten des Bundes“ an der Hochschule des Bundes für öffentliche Verwaltung (Hochschule) ist
+Der Diplomstudiengang „Gehobener nichttechnischer Dienst in den Nachrichtendiensten des Bundes“ an der Hochschule des Bundes für öffentliche Verwaltung (Hochschule) ist
 
-- 1. :: in der Fachrichtung Bundesnachrichtendienst“ der Vorbereitungsdienst für den gehobenen Dienst im Bundesnachrichtendienst und
-- 2. :: in der Fachrichtung Verfassungsschutz“ der Vorbereitungsdienst für den gehobenen Dienst im Verfassungsschutz des Bundes.
+- 1. :: in der Fachrichtung „Bundesnachrichtendienst“ der Vorbereitungsdienst für den gehobenen Dienst im Bundesnachrichtendienst und
+- 2. :: in der Fachrichtung „Verfassungsschutz“ der Vorbereitungsdienst für den gehobenen Dienst im Verfassungsschutz des Bundes.
 
 
 § 2 - Ziele des Studiums
@@ -61,8 +61,8 @@ Der Diplomstudiengang Gehobener nichttechnischer Dienst in den Nachrichtendienst
 
 (1) Dienstbehörde ist
 
-- 1. :: für die Studierenden der Fachrichtung Bundesnachrichtendienst“ der Bundesnachrichtendienst und
-- 2. :: für die Studierenden der Fachrichtung Verfassungsschutz“ das Bundesamt für Verfassungsschutz.
+- 1. :: für die Studierenden der Fachrichtung „Bundesnachrichtendienst“ der Bundesnachrichtendienst und
+- 2. :: für die Studierenden der Fachrichtung „Verfassungsschutz“ das Bundesamt für Verfassungsschutz.
 
 (2) Die Dienstbehörde ist für alle beamtenrechtlichen Entscheidungen zuständig, soweit diese Entscheidungen durch diese Verordnung nicht anderen Behörden übertragen werden.
 
@@ -102,7 +102,7 @@ Erholungsurlaub wird in der Regel während der berufspraktischen Studienzeiten g
 
 (1) Die Leistungen der Studierenden im Studium und in den Prüfungen werden wie folgt bewertet:\\
 \\
-
+ 
 Prozentualer Anteil der\\
 erreichten Punktzahl an der\\
 erreichbaren Punktzahl
@@ -110,7 +110,7 @@ Rangpunkte/\\
 Rangpunktzahl
 Note
 Notendefinition
-
+ 
 1
 2
 3
@@ -201,8 +201,8 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 (1) In einem Auswahlverfahren wird festgestellt, ob die Bewerberinnen und Bewerber nach ihren Kenntnissen und Fähigkeiten sowie nach ihrer Persönlichkeit für den Vorbereitungsdienst für den gehobenen Dienst im Bundesnachrichtendienst und für den gehobenen Dienst im Verfassungsschutz des Bundes geeignet sind. Insbesondere wird festgestellt, ob sie über das erforderliche Allgemeinwissen, die erforderlichen kognitiven, methodischen und sozialen Kompetenzen und die erforderliche Leistungsmotivation verfügen.
 (2) Das Auswahlverfahren wird durchgeführt
 
-- 1. :: für die Studienplätze, die in der Fachrichtung Bundesnachrichtendienst” angeboten werden, vom Bundesnachrichtendienst und
-- 2. :: für die Studienplätze, die in der Fachrichtung Verfassungsschutz” angeboten werden, vom Bundesamt für Verfassungsschutz.
+- 1. :: für die Studienplätze, die in der Fachrichtung „Bundesnachrichtendienst” angeboten werden, vom Bundesnachrichtendienst und
+- 2. :: für die Studienplätze, die in der Fachrichtung „Verfassungsschutz” angeboten werden, vom Bundesamt für Verfassungsschutz.
 
 (3) Zum Auswahlverfahren wird zugelassen, wer nach den eingereichten Unterlagen die in der Ausschreibung bestimmten Voraussetzungen erfüllt. Übersteigt die Zahl der geeigneten Bewerberinnen und Bewerber das Dreifache der Zahl der angebotenen Studienplätze, so kann die Zahl der am Auswahlverfahren Teilnehmenden beschränkt werden. Es sind jedoch mindestens dreimal so viele Bewerberinnen und Bewerber zuzulassen, wie Studienplätze angeboten werden. In diesem Fall wird zugelassen, wer nach den eingereichten Unterlagen am besten geeignet ist.
 (4) Schwerbehinderte Bewerberinnen und Bewerber und gleichgestellte behinderte Bewerberinnen und Bewerber sind zum Auswahlverfahren zuzulassen, es sei denn, sie sind offensichtlich fachlich ungeeignet. Vor dem Ausschluss schwerbehinderter Bewerberinnen und Bewerber und gleichgestellter behinderter Bewerberinnen und Bewerber ist die Schwerbehindertenvertretung anzuhören.
@@ -302,10 +302,10 @@ Der mündliche Teil des Auswahlverfahrens ist bestanden, wenn im halbstrukturier
 (2) Das Studium umfasst Fachstudien an der Hochschule und berufspraktische Studienzeiten.
 (3) Das Studium gliedert sich in fünf Studienabschnitte. Die Studienabschnitte verteilen sich wie folgt auf die Semester:\\
 \\
-
+ 
 Semester
 Studienabschnitt
-
+ 
 1
 2
 1
@@ -654,12 +654,12 @@ In der Aussprache werden fachliche Fragen mit Bezug auf die Diplomarbeit und die
 § 62 - Gegenstand und Durchführung der schriftlichen Abschlussprüfung
 
 (1) Die schriftliche Abschlussprüfung besteht aus sechs Klausuren.
-(2) Studierende der Fachrichtung Bundesnachrichtendienst“ schreiben
+(2) Studierende der Fachrichtung „Bundesnachrichtendienst“ schreiben
 
 - 1. :: zwei Klausuren aus dem Studiengebiet nach § 28 Nummer 3 und
 - 2. :: je eine Klausur in den Studiengebieten nach § 28 Nummer 1, 2, 4 und 6.
 
-(3) Studierende der Fachrichtung Verfassungsschutz“ schreiben
+(3) Studierende der Fachrichtung „Verfassungsschutz“ schreiben
 
 - 1. :: zwei Klausuren aus dem Studiengebiet nach § 28 Nummer 3,
 - 2. :: eine Klausur aus dem Studiengebiet nach § 28 Nummer 6 und
@@ -708,8 +708,8 @@ Gleichzeitig mit der Zulassung oder Nichtzulassung zur mündlichen Abschlussprü
 § 68 - Prüfungskommissionen der mündlichen Abschlussprüfung
 
 (1) Für die Durchführung und Bewertung der mündlichen Abschlussprüfung richtet das Prüfungsamt für jede Fachrichtung eine Prüfungskommission oder bei Bedarf mehrere Prüfungskommissionen ein. Das Prüfungsamt bestellt deren Mitglieder und Ersatzmitglieder in der Regel für die Dauer von fünf Jahren. Wiederbestellung ist zulässig. § 9 Absatz 1 gilt entsprechend.
-(2) In die Prüfungskommission für die Fachrichtung Bundesnachrichtendienst” sollen überwiegend Angehörige des Bundesnachrichtendienstes bestellt werden.
-(3) In die Prüfungskommission für die Fachrichtung Verfassungsschutz” sollen überwiegend Angehörige des Bundesamtes für Verfassungsschutz bestellt werden.
+(2) In die Prüfungskommission für die Fachrichtung „Bundesnachrichtendienst” sollen überwiegend Angehörige des Bundesnachrichtendienstes bestellt werden.
+(3) In die Prüfungskommission für die Fachrichtung „Verfassungsschutz” sollen überwiegend Angehörige des Bundesamtes für Verfassungsschutz bestellt werden.
 (4) Das Prüfungsamt stellt sicher, dass alle Prüfungskommissionen den gleichen Bewertungsmaßstab anlegen.
 (5) Eine Prüfungskommission besteht aus
 
@@ -799,7 +799,7 @@ Die mündliche Abschlussprüfung hat bestanden, wer in der mündlichen Abschluss
 (1) Wer die Laufbahnprüfung bestanden hat, erhält
 
 - 1. :: vom Prüfungsamt am Zentrum für Nachrichtendienstliche Aus- und Fortbildung ein Abschlusszeugnis und
-- 2. :: von der Hochschule eine Urkunde über die Verleihung des Diplomgrades Diplom-Verwaltungswirtin (FH)“ oder Diplom-Verwaltungswirt (FH)“.
+- 2. :: von der Hochschule eine Urkunde über die Verleihung des Diplomgrades „Diplom-Verwaltungswirtin (FH)“ oder „Diplom-Verwaltungswirt (FH)“.
 
 (2) Das Abschlusszeugnis enthält
 

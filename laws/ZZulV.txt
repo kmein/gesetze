@@ -14,10 +14,10 @@ Ausfertigungsdatum: 29.01.1998
 
 Im Sinne dieser Verordnung bedeutet:
 
-- 1. :: unbehandelte Lebensmittel“: Lebensmittel im Sinne des Artikels 3 Absatz 2 Buchstabe d der Verordnung (EG) Nr. 1333/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Lebensmittelzusatzstoffe (ABl. L 354 vom 31.12.2008, S. 16);
+- 1. :: „unbehandelte Lebensmittel“: Lebensmittel im Sinne des Artikels 3 Absatz 2 Buchstabe d der Verordnung (EG) Nr. 1333/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Lebensmittelzusatzstoffe (ABl. L 354 vom 31.12.2008, S. 16);
 - 2. :: "Höchstmenge": höchstzulässiger Gehalt an zugesetzten Zusatzstoffen in Lebensmitteln in dem Zustand, in dem die Lebensmittel in den Verkehr gebracht werden, falls in den Anlagen zu dieser Verordnung nichts anderes festgelegt ist; sofern ein Lebensmittel noch der Zubereitung bedarf, bezieht sich die jeweilige Höchstmenge auf das nach der Gebrauchsanleitung zubereitete Lebensmittel;
-- 3. :: Lebensmittel ohne Zuckerzusatz“: Lebensmittel im Sinne des Artikels 3 Absatz 2 Buchstabe e der Verordnung (EG) Nr. 1333/2008;
-- 4. :: brennwertvermindert“: Lebensmittel im Sinne des Artikels 3 Absatz 2 Buchstabe f der Verordnung (EG) Nr. 1333/2008;
+- 3. :: „Lebensmittel ohne Zuckerzusatz“: Lebensmittel im Sinne des Artikels 3 Absatz 2 Buchstabe e der Verordnung (EG) Nr. 1333/2008;
+- 4. :: „brennwertvermindert“: Lebensmittel im Sinne des Artikels 3 Absatz 2 Buchstabe f der Verordnung (EG) Nr. 1333/2008;
 - 5. :: "Verbraucher": Verbraucher im Sinne des § 3 Nr. 4 des Lebensmittel- und Futtermittelgesetzbuches; dem Verbraucher stehen Gaststätten, Einrichtungen zur Gemeinschaftsverpflegung sowie Gewerbetreibende, soweit sie Lebensmittel zum Verbrauch innerhalb ihrer Betriebsstätte beziehen, gleich.
 
 
@@ -53,7 +53,7 @@ Für den Zusatz zu Trinkwasser nach Verlassen der in § 8 der Trinkwasserverordn
 § 7 - Höchstmengenfestsetzungen
 
 (1) Bei dem Herstellen oder Behandeln von Lebensmitteln, die in den Anlagen 1 bis 6a aufgeführt und die dazu bestimmt sind, in den Verkehr gebracht zu werden, dürfen die nach § 3 Abs. 1, § 4 Abs. 1, § 5 Abs. 1, § 6 und § 6a zugelassenen Zusatzstoffe über die in den Anlagen jeweils festgesetzten Höchstmengen, auch im Sinne des Absatzes 2, hinaus nicht verwendet werden. Bei den in Anlage 1 aufgeführten Lebensmitteln ist die Höchstmenge auf die Menge der färbenden Anteile des Zusatzstoffes zu beziehen.
-(2) Sind in den Anlagen Zusatzstoffe für Lebensmittel quantum satis (qs)“ zugelassen, dürfen sie nur nach Artikel 3 Absatz 2 Buchstabe h der Verordnung (EG) Nr. 1333/2008 verwendet werden.
+(2) Sind in den Anlagen Zusatzstoffe für Lebensmittel „quantum satis (qs)“ zugelassen, dürfen sie nur nach Artikel 3 Absatz 2 Buchstabe h der Verordnung (EG) Nr. 1333/2008 verwendet werden.
 (3) Sofern in den Anlagen für Lebensmittel mehrere Zusatzstoffe mit einer gemeinsamen Höchstmenge zugelassen sind, dürfen diese Stoffe vorbehaltlich besonderer Regelungen einzeln oder insgesamt bis zu dieser Höchstmenge verwendet werden.
 
 § 8 - Verwendung von Lebensmitteln mit Zusatzstoffen
@@ -153,11 +153,11 @@ E- Nummer
 
 Zusatzstoff
 
-
+ 
 
 Lebensmittel\\
 
-
+ 
 
 Höchstmenge
 
@@ -165,11 +165,11 @@ Höchstmenge
 
 2
 
-
+ 
 
 3
 
-
+ 
 
 4
 
@@ -215,21 +215,21 @@ Vorbehaltlich besonderer Regelungen in Teil B oder C gelten die Zulassungen nich
 - 30. :: Butter aus Schafs- und Ziegenmilch
 - 31. :: In Teil C aufgeführte Lebensmittel
 
-
+ 
 
 qs
 
 )
 
-
-
-)
-
-
+ 
 
 )
 
+ 
 
+)
+
+ 
 
 E 140
 
@@ -238,15 +238,15 @@ E 140
 
 )
 
-
-
-)
-
-
+ 
 
 )
 
+ 
 
+)
+
+ 
 
 E 141
 
@@ -255,31 +255,31 @@ E 141
 
 )
 
-
-
-)
-
-
+ 
 
 )
 
-
-
-)
-
-
+ 
 
 )
 
-
-
-)
-
-
+ 
 
 )
 
+ 
 
+)
+
+ 
+
+)
+
+ 
+
+)
+
+ 
 
 E 150a
 
@@ -287,11 +287,11 @@ Einfaches Zuckerkulör
 
 )
 
-
+ 
 
 )
 
-
+ 
 
 E 150b
 
@@ -299,15 +299,15 @@ Sulfitlaugen-Zuckerkulör
 
 )
 
-
-
-)
-
-
+ 
 
 )
 
+ 
 
+)
+
+ 
 
 E 150c
 
@@ -315,11 +315,11 @@ Ammoniak-Zuckerkulör
 
 )
 
-
+ 
 
 )
 
-
+ 
 
 E 150d
 
@@ -327,15 +327,15 @@ Ammonsulfit-Zuckerkulör
 
 )
 
-
-
-)
-
-
+ 
 
 )
 
+ 
 
+)
+
+ 
 
 E 153
 
@@ -343,11 +343,11 @@ Pflanzenkohle
 
 )
 
-
+ 
 
 )
 
-
+ 
 
 E 160a
 
@@ -358,25 +358,25 @@ Carotine\\
 
 )
 
-
+ 
 
 )
 
-
+ 
 
 qs
 
 )
 
-
-
-)
-
-
+ 
 
 )
 
+ 
 
+)
+
+ 
 
 E 160c
 
@@ -384,19 +384,19 @@ Paprikaextrakt; Capsanthin; Capsorubin
 
 )
 
-
-
-)
-
-
+ 
 
 )
 
-
+ 
 
 )
 
+ 
 
+)
+
+ 
 
 E 162
 
@@ -404,11 +404,11 @@ Beetenrot
 
 )
 
-
+ 
 
 )
 
-
+ 
 
 E 163
 
@@ -416,11 +416,11 @@ Anthocyane
 
 )
 
-
+ 
 
 )
 
-
+ 
 
 E 170
 
@@ -428,11 +428,11 @@ Calciumcarbonat
 
 )
 
-
+ 
 
 )
 
-
+ 
 
 E 171
 
@@ -440,11 +440,11 @@ Titandioxid
 
 )
 
-
+ 
 
 )
 
-
+ 
 
 E 172
 
@@ -452,29 +452,29 @@ Eisenoxide und Eisenhydroxide
 
 )
 
-
-
-)
-
-
+ 
 
 )
 
-
-
-)
-
-
+ 
 
 )
 
-
+ 
 
 )
 
+ 
 
+)
 
+ 
 
+)
+
+ 
+
+ 
 
 Teil B
 
@@ -484,11 +484,11 @@ E-Nummer
 
 Zusatzstoff
 
-
+ 
 
 Lebensmittel
 
-
+ 
 
 Höchstmenge
 
@@ -496,11 +496,11 @@ Höchstmenge
 
 2
 
-
+ 
 
 3
 
-
+ 
 
 4
 
@@ -512,19 +512,19 @@ Kurkumin
 
 Nichtalkoholische, aromatisierte Getränke
 
-
+ 
 
 100 mg/l, davon E 110, E 122, E 124, E 155 jeweils nur 50 mg/l
 
-
+ 
 
 )
 
+ 
 
+ 
 
-
-
-
+ 
 
 E 102
 
@@ -532,21 +532,21 @@ Tatrazin
 
 )
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
-
-
-
+ 
 
 E 104
 
@@ -554,21 +554,21 @@ Chinolingelb
 
 )
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
-
-
-
+ 
 
 E 110
 
@@ -578,19 +578,19 @@ Gelborange S
 
 Kandierte Früchte oder kandiertes Gemüse; Mostarda di frutta
 
-
+ 
 
 200 mg/kg
 
-
+ 
 
 )
 
+ 
 
+ 
 
-
-
-
+ 
 
 E 120
 
@@ -598,21 +598,21 @@ Echtes Karmin
 
 )
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
-
-
-
+ 
 
 E 122
 
@@ -622,19 +622,19 @@ Azorubin
 
 Rote Obstkonserven
 
-
+ 
 
 200 mg/kg
 
-
+ 
 
 )
 
+ 
 
+ 
 
-
-
-
+ 
 
 E 124
 
@@ -644,19 +644,19 @@ Cochenillerot A
 
 Süßwaren
 
-
+ 
 
 300 mg/kg, davon E 110, E 122, E 124, E 155 jeweils nur 50 mg/kg
 
-
+ 
 
 )
 
+ 
 
+ 
 
-
-
-
+ 
 
 E 129
 
@@ -664,21 +664,21 @@ Allurarot AC
 
 )
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
-
-
-
+ 
 
 E 131
 
@@ -686,21 +686,21 @@ Patentblau V
 
 )
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
-
-
-
+ 
 
 E 132
 
@@ -710,19 +710,19 @@ Indigotin
 
 Dekorationen oder Überzüge
 
-
+ 
 
 500 mg/kg
 
-
+ 
 
 )
 
+ 
 
+ 
 
-
-
-
+ 
 
 E 133
 
@@ -732,19 +732,19 @@ Brillantblau FCF
 
 Feine Backwaren (z.B. Frühstücksgebäck, Kekse, Kuchen und Waffeln)
 
-
+ 
 
 200 mg/kg, davon E 110, E 122, E 124, E 155 jeweils nur 50 mg/kg
 
-
+ 
 
 )
 
+ 
 
+ 
 
-
-
-
+ 
 
 E 142
 
@@ -752,21 +752,21 @@ Grün S
 
 )
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
-
-
-
+ 
 
 E 151
 
@@ -774,29 +774,29 @@ Brillantschwarz BN
 
 )
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 )
 
 Speiseeis
 
-
+ 
 
 150 mg/kg, davon E 110, E 122, E 124, E 155 jeweils nur 50 mg/kg
 
@@ -806,21 +806,21 @@ Braun HT
 
 )
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
-
-
-
+ 
 
 E 160d
 
@@ -828,21 +828,21 @@ Lycopin
 
 )
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
-
-
-
+ 
 
 E 160e
 
@@ -852,29 +852,29 @@ Beta-apo-8'-Carotinal (C 30)
 
 Aromatisierter Schmelzkäse
 
-
+ 
 
 100 mg/kg
 
-
-
-)
-
-
-
-
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
+ 
 
+ 
 
+)
 
+ 
+
+ 
+
+ 
 
 E 160f
 
@@ -884,49 +884,49 @@ Beta-apo-8'-Carotinsäure-Ethylester(C 30)
 
 Dessertspeisen einschließlich aromatisierter Milcherzeugnisse
 
-
+ 
 
 150 mg/kg, davon E 110, E 122, E 124, E 155 jeweils nur 50 mg/kg oder 50 mg/l
 
-
-
-)
-
-
-
-
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-)
-
-
-
-
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
+ 
 
+ 
 
+)
 
+ 
+
+ 
+
+ 
+
+ 
+
+)
+
+ 
+
+ 
+
+ 
 
 E 161b
 
@@ -934,791 +934,791 @@ Lutein
 
 )
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 )
 
 Saucen; Würzmittel (z.B. Currypulver, Tandoori); Pickles; Appetithappen; Chutney und Piccalilli
 
-
+ 
 
 500 mg/kg
 
-
-
-)
-
-
-
-
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-)
-
-
-
-
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
+ 
 
+ 
 
+)
 
+ 
 
+ 
 
+ 
+
+ 
+
+)
+
+ 
+
+ 
+
+ 
+
+ 
 
 )
 
 Senf
 
-
+ 
 
 300 mg/kg
 
-
+ 
 
 )
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 )
 
 Fisch- oder Krebstierpasten
 
-
+ 
 
 100 mg/kg
 
-
-
-)
-
-
-
-
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
+ 
 
+ 
 
+)
 
+ 
 
+ 
 
+ 
+
+ 
 
 )
 
 Vorgekochte Krebstiere
 
-
+ 
 
 250 mg/kg
 
-
+ 
 
 )
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 )
 
 Lachsersatz
 
-
+ 
 
 500 mg/kg
 
-
+ 
 
 )
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 )
 
 Surimi
 
-
+ 
 
 500 mg/kg
 
-
+ 
 
 )
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 )
 
 Fischrogen
 
-
+ 
 
 300 mg/kg
 
-
+ 
 
 )
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 )
 
 Räucherfisch
 
-
+ 
 
 100 mg/kg
 
-
+ 
 
 )
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 )
 
 Snacks: gesalzene und trockene Knabbererzeugnisse auf der Basis von Kartoffeln, Getreide oder Stärke:
 
+ 
 
+ 
 
-
-
-
-
-)
-
-
-
-
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-)
-
-
-
-
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
+ 
 
+ 
 
+)
 
+ 
 
+ 
 
+ 
+
+ 
+
+)
+
+ 
+
+ 
+
+ 
+
+ 
 
 )
 
 - - :: extrudierte und expandierte gesalzene Knabbererzeugnisse
 
-
+ 
 
 200 mg/kg
 
-
-
-)
-
-
-
-
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
+ 
 
+ 
 
+)
 
+ 
 
+ 
 
+ 
+
+ 
 
 )
 
 - - :: sonstige gesalzene Knabbererzeugnisse sowie gesalzene Knabbererzeugnisse auf der Basis von Nüssen und Erdnüssen
 
-
+ 
 
 100 mg/kg
 
-
-
-)
-
-
-
-
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-)
-
-
-
-
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-)
-
-
-
-
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
+ 
 
+ 
 
+)
 
+ 
 
+ 
 
+ 
+
+ 
+
+)
+
+ 
+
+ 
+
+ 
+
+ 
+
+)
+
+ 
+
+ 
+
+ 
+
+ 
 
 )
 
 Eßbare Käserinden und eßbare Wursthüllen
 
-
+ 
 
 qs
 
-
-
-)
-
-
-
-
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
+ 
 
+ 
 
+)
 
+ 
 
+ 
 
+ 
+
+ 
 
 )
 
 Vollständige Zubereitungen, die als Mahlzeit oder Tagesration für Übergewichtige bestimmt sind
 
-
+ 
 
 50 mg/kg
 
-
-
-)
-
-
-
-
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-)
-
-
-
-
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
+ 
 
+ 
 
+)
 
+ 
 
+ 
 
+ 
+
+ 
+
+)
+
+ 
+
+ 
+
+ 
+
+ 
 
 )
 
 Vollständige Zubereitungen und Ernährungszusätze, die unter ärztlicher Kontrolle eingenommen werden
 
-
+ 
 
 50 mg/kg
 
-
-
-)
-
-
-
-
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-)
-
-
-
-
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
+ 
 
+ 
 
+)
 
+ 
 
+ 
 
+ 
+
+ 
+
+)
+
+ 
+
+ 
+
+ 
+
+ 
 
 )
 
 Nahrungsergänzungsmittel/Diätergänzungsstoffe in flüssiger Form
 
-
+ 
 
 100 mg/l
 
-
-
-)
-
-
-
-
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
+ 
 
+ 
 
+)
 
+ 
 
+ 
 
+ 
+
+ 
 
 )
 
 Nahrungsergänzungsmittel/Diätergänzungsstoffe in fester Form
 
-
+ 
 
 300 mg/kg
 
-
-
-)
-
-
-
-
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
+ 
 
+ 
 
+)
 
+ 
 
+ 
 
+ 
+
+ 
 
 )
 
 Suppen
 
-
+ 
 
 50 mg/l
 
-
+ 
 
 )
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 )
 
 Fleisch- oder Fischanaloge auf pflanzlicher Proteinbasis
 
-
+ 
 
 100 mg/kg
 
-
-
-)
-
-
-
-
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
+ 
 
+ 
 
+)
 
+ 
 
+ 
 
+ 
+
+ 
 
 )
 
 Spirituosen (einschl Erzeugnisse mit einem Alkoholgehalt von weniger als 15% vol.) (mit Ausnahme der in Teil A Spalte 3 Nr. 24 und Teil C aufgeführten Spirituosen)
 
-
+ 
 
 200 mg/l
 
-
-
-)
-
-
-
-
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-)
-
-
-
-
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-)
-
-
-
-
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
+ 
 
+ 
 
+)
 
+ 
 
+ 
 
+ 
+
+ 
+
+)
+
+ 
+
+ 
+
+ 
+
+ 
+
+)
+
+ 
+
+ 
+
+ 
+
+ 
 
 )
 
 Obstweine/Fruchtweine(ausgenommen Cidre bouche), auch schäumend und/oder aromatisiert
 
-
+ 
 
 200 mg/l
 
-
-
-)
-
-
-
-
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
+ 
 
+ 
 
+)
 
+ 
+
+ 
+
+ 
 
 E 123
 
 Amaranth
 
-
+ 
 
 Aperitifweine; Spirituosen, einschließlich Erzeugnisse mit einem Alkoholgehalt von weniger als 15% vol. (mit Ausnahme der in Teil A Spalte 3 Nr. 24 und Teil C aufgeführten Spirituosen)
 
-
+ 
 
 30 mg/l
 
+ 
 
-
-
+ 
 
 Fischrogen
 
-
+ 
 
 30 mg/kg
 
@@ -1726,21 +1726,21 @@ E 127
 
 Erythrosin
 
-
+ 
 
 Cocktailkirschen und kandierte Kirschen
 
-
+ 
 
 200 mg/kg
 
+ 
 
-
-
+ 
 
 Bigarreaux-Kirschen(Kaiserkirschen) in Sirup und in Obstcocktails
 
-
+ 
 
 150 mg/kg
 
@@ -1748,11 +1748,11 @@ E 128
 
 Rot 2G
 
-
+ 
 
 Breakfast Sausages mit mindestens 6% Getreideanteil; Hackfleisch mit einem pflanzlichen und/oder Getreideanteil von mindestens 4%
 
-
+ 
 
 20 mg/kg
 
@@ -1760,11 +1760,11 @@ E 154
 
 Braun FK
 
-
+ 
 
 Kippers
 
-
+ 
 
 20 mg/kg
 
@@ -1772,111 +1772,111 @@ E 160b
 
 Annatto; Bixin; Norbixin
 
-
+ 
 
 Dekorationen und Überzüge
 
-
+ 
 
 20 mg/kg
 
+ 
 
-
-
+ 
 
 Feine Backwaren
 
-
+ 
 
 10 mg/kg
 
+ 
 
-
-
+ 
 
 Speiseeis
 
-
+ 
 
 20 mg/kg
 
+ 
 
-
-
+ 
 
 Liköre, einschließlich zugesetzten Alkohol enthaltende Getränke mit weniger als 15 Volumenprozent Alkohol
 
-
+ 
 
 10 mg/l
 
+ 
 
-
-
+ 
 
 Aromatisierter Schmelzkäse
 
-
+ 
 
 15 mg/kg
 
+ 
 
-
-
+ 
 
 Dessertspeisen
 
-
+ 
 
 10 mg/kg
 
+ 
 
-
-
+ 
 
 Snacks: gesalzene und trockene Knabbererzeugnisse auf der Basis von Kartoffeln, Getreide oder Stärke:
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 - - :: extrudierte und expandierte gesalzene Knabbererzeugnisse
 
-
+ 
 
 20 mg/kg
 
+ 
 
-
-
+ 
 
 - - :: sonstige gesalzene Knabbererzeugnisse sowie gesalzene Knabbererzeugnisse auf der Basis von Nüssen und Erdnüssen
 
-
+ 
 
 10 mg/kg
 
+ 
 
-
-
+ 
 
 Räucherfisch
 
-
+ 
 
 10 mg/kg
 
+ 
 
-
-
+ 
 
 Eßbare Käserinde oder eßbare Wursthüllen
 
-
+ 
 
 20 mg/kg
 
@@ -1884,11 +1884,11 @@ E 161g
 
 Canthaxanthin
 
-
+ 
 
 Saucisses de Strasbourg
 
-
+ 
 
 15 mg/kg
 
@@ -1896,11 +1896,11 @@ E 173
 
 Aluminium
 
-
+ 
 
 Überzüge von Zuckerwaren zur Dekoration von Kuchen und Feinen Backwaren
 
-
+ 
 
 qs
 
@@ -1908,11 +1908,11 @@ E 174
 
 Silber
 
-
+ 
 
 Überzüge von Süßwaren; Verzierung von Pralinen; Liköre
 
-
+ 
 
 qs
 
@@ -1920,11 +1920,11 @@ E 175
 
 Gold
 
-
+ 
 
 Überzüge von Süßwaren; Verzierung von Pralinen; Liköre
 
-
+ 
 
 qs
 
@@ -1932,21 +1932,21 @@ E 180
 
 Litholrubin BK
 
-
+ 
 
 Eßbare Käserinde
 
-
+ 
 
 qs
 
-
+ 
 
 ----------
 
 *) Sofern in Teil B nichts anderes festgelegt ist, dürfen den genannten Lebensmitteln auch die in Teil A aufgeführten Zusatzstoffe zugesetzt werden.
 
-
+ 
 
 Teil C
 
@@ -1956,11 +1956,11 @@ Lebensmittel
 
 E-Nummer
 
-
+ 
 
 Zusatzstoff
 
-
+ 
 
 Höchstmenge
 
@@ -1968,11 +1968,11 @@ Höchstmenge
 
 2
 
-
+ 
 
 3
 
-
+ 
 
 4
 
@@ -1980,7 +1980,7 @@ Malt Bread
 
 E 150a
 
-
+ 
 
 Einfaches Zuckerkulör
 
@@ -1990,7 +1990,7 @@ qs
 
 E 150b
 
-
+ 
 
 Sulfitlaugen-Zuckerkulör
 
@@ -1998,7 +1998,7 @@ Sulfitlaugen-Zuckerkulör
 
 E 150c
 
-
+ 
 
 Ammoniak-Zuckerkulör
 
@@ -2006,7 +2006,7 @@ Ammoniak-Zuckerkulör
 
 E 150d
 
-
+ 
 
 Ammonsulfit-Zuckerkulör
 
@@ -2016,7 +2016,7 @@ Bier; Cidre bouche
 
 E 150a
 
-
+ 
 
 Einfaches Zuckerkulör
 
@@ -2026,7 +2026,7 @@ qs
 
 E 150b
 
-
+ 
 
 Sulfitlaugen-Zuckerkulör
 
@@ -2034,7 +2034,7 @@ Sulfitlaugen-Zuckerkulör
 
 E 150c
 
-
+ 
 
 Ammoniak-Zuckerkulör
 
@@ -2042,7 +2042,7 @@ Ammoniak-Zuckerkulör
 
 E 150d
 
-
+ 
 
 Ammonsulfit-Zuckerkulör
 
@@ -2052,11 +2052,11 @@ Butter (einschließlich Butter mit reduziertem Fettgehalt sowie Butterschmalz)
 
 E 160a
 
-
+ 
 
 Carotine
 
-
+ 
 
 qs
 
@@ -2064,7 +2064,7 @@ Margarine; Halbfettmargarine; andere Fettemulsionen und wasserfreie Fette
 
 E 100
 
-
+ 
 
 Kurkumin
 
@@ -2074,7 +2074,7 @@ qs
 
 E 160a
 
-
+ 
 
 Carotine
 
@@ -2082,11 +2082,11 @@ Carotine
 
 E 160b
 
-
+ 
 
 Annatto; Bixin; Norbixin
 
-
+ 
 
 10 mg/kg
 
@@ -2094,7 +2094,7 @@ Sage-Derby-Käse
 
 E 140
 
-
+ 
 
 - i) :: Chlorophylle
 - ii) :: Chlorophylline
@@ -2103,36 +2103,36 @@ E 140
 
 qs
 
-
+ 
 
 )
 
 E 141
 
-
+ 
 
 - i) :: kupferhaltige Komplexe der Chlorophylle
 - ii) :: kupferhaltige Komplexe der Chlorophylline
 
 )
 
-
-
-)
-
-
+ 
 
 )
 
-
-
-)
-
-
+ 
 
 )
 
+ 
 
+)
+
+ 
+
+)
+
+ 
 
 )
 
@@ -2140,7 +2140,7 @@ Reifender orangefarbener, gelber und perlweißer Käse; nicht aromatisierter Sch
 
 E 160a
 
-
+ 
 
 Carotine
 
@@ -2150,27 +2150,27 @@ qs
 
 E 160c
 
-
+ 
 
 Paprikaextrakt; Capsanthin; Capsorubin
 
 )
 
+ 
 
+ 
 
-
-
-
+ 
 
 )
 
 E 160b
 
-
+ 
 
 Annatto; Bixin; Norbixin
 
-
+ 
 
 15 mg/kg
 
@@ -2178,11 +2178,11 @@ Red-Leicester-Käse
 
 E 160b
 
-
+ 
 
 Annatto; Bixin; Norbixin
 
-
+ 
 
 50 mg/kg
 
@@ -2190,11 +2190,11 @@ Mimolette-Käse
 
 E 160b
 
-
+ 
 
 Annatto; Bixin; Norbixin
 
-
+ 
 
 35 mg/kg
 
@@ -2202,11 +2202,11 @@ Morbier-Käse
 
 E 153
 
-
+ 
 
 Pflanzenkohle
 
-
+ 
 
 qs
 
@@ -2214,21 +2214,21 @@ Rot geäderter Käse
 
 E 120
 
-
+ 
 
 Echtes Karmin
 
-
+ 
 
 125 mg/kg
 
 E 163
 
-
+ 
 
 Anthocyane
 
-
+ 
 
 qs
 
@@ -2236,7 +2236,7 @@ Essig
 
 E 150a
 
-
+ 
 
 Einfaches Zuckerkulör
 
@@ -2246,7 +2246,7 @@ qs
 
 E 150b
 
-
+ 
 
 Sulfitlaugen-Zuckerkulör
 
@@ -2254,7 +2254,7 @@ Sulfitlaugen-Zuckerkulör
 
 E 150c
 
-
+ 
 
 Ammoniak-Zuckerkulör
 
@@ -2262,7 +2262,7 @@ Ammoniak-Zuckerkulör
 
 E 150d
 
-
+ 
 
 Ammonsulfit-Zuckerkulör
 
@@ -2272,7 +2272,7 @@ Whisky, Whiskey, Getreidespirituosen (mit Ausnahme von Korn oder Kornbrand oder 
 
 E 150a
 
-
+ 
 
 Einfaches Zuckerkulör
 
@@ -2282,7 +2282,7 @@ qs
 
 E 150b
 
-
+ 
 
 Sulfitlaugen-Zuckerkulör
 
@@ -2290,7 +2290,7 @@ Sulfitlaugen-Zuckerkulör
 
 E 150c
 
-
+ 
 
 Ammoniak-Zuckerkulör
 
@@ -2298,129 +2298,129 @@ Ammoniak-Zuckerkulör
 
 E 150d
 
-
+ 
 
 Ammonsulfit-Zuckerkulör
 
 )
 
+ 
 
+ 
 
-
-
-
-
-)
-
-
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
-
-
-
-
-)
-
-
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
-
-
-
-
-)
-
-
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
-
-
-
-
-)
-
-
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
-
-
-
-
-)
-
-
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
-
-
-
-
-)
-
-
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
-
-
-
-
-)
-
-
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
+ 
 
+)
 
+ 
 
+ 
+
+ 
+
+)
+
+ 
+
+ 
+
+ 
+
+)
+
+ 
+
+ 
+
+ 
+
+)
+
+ 
+
+ 
+
+ 
+
+)
+
+ 
+
+ 
+
+ 
+
+)
+
+ 
+
+ 
+
+ 
+
+)
+
+ 
+
+ 
+
+ 
 
 )
 
@@ -2428,7 +2428,7 @@ In Essig, Salzlake oder Speiseöl eingelegtes Gemüse (außer Oliven)
 
 E 101
 
-
+ 
 
 - i) :: Riboflavin
 - ii) :: Riboflavin-5'-Phosphat
@@ -2437,59 +2437,59 @@ E 101
 
 qs
 
-
+ 
 
 )
 
-
+ 
 
 )
 
 E 140
 
-
+ 
 
 - i) :: Chlorophylle
 - ii) :: Chlorphylline
 
 )
 
-
+ 
 
 )
 
 E 141
 
-
+ 
 
 - i) :: kupferhaltige Komplexe der Chlorophylle
 - ii) :: kupferhaltige Komplexe der Chlorophylline
 
 )
 
-
-
-)
-
-
+ 
 
 )
 
-
-
-)
-
-
+ 
 
 )
 
+ 
 
+)
+
+ 
+
+)
+
+ 
 
 )
 
 E 150a
 
-
+ 
 
 Einfaches Zuckerkulör
 
@@ -2497,7 +2497,7 @@ Einfaches Zuckerkulör
 
 E 150b
 
-
+ 
 
 Sulfitlaugen-Zuckerkulör
 
@@ -2505,7 +2505,7 @@ Sulfitlaugen-Zuckerkulör
 
 E 150c
 
-
+ 
 
 Ammoniak-Zuckerkulör
 
@@ -2513,7 +2513,7 @@ Ammoniak-Zuckerkulör
 
 E 150d
 
-
+ 
 
 Ammonsulfit-Zuckerkulör
 
@@ -2521,7 +2521,7 @@ Ammonsulfit-Zuckerkulör
 
 E 160a
 
-
+ 
 
 Carotine
 
@@ -2529,7 +2529,7 @@ Carotine
 
 E 162
 
-
+ 
 
 Beetenrot
 
@@ -2537,7 +2537,7 @@ Beetenrot
 
 E 163
 
-
+ 
 
 Anthocyane
 
@@ -2547,7 +2547,7 @@ Extrudierte, gepuffte und/oder mit Fruchtgeschmack aromatisierte Frühstücksget
 
 E 150c
 
-
+ 
 
 Ammoniak-Zuckerkulör
 
@@ -2557,7 +2557,7 @@ qs
 
 E 160a
 
-
+ 
 
 Carotine
 
@@ -2565,21 +2565,21 @@ Carotine
 
 E 160b
 
-
+ 
 
 Annatto; Bixin; Norbixin
 
-
+ 
 
 25 mg/kg
 
 E 160c
 
-
+ 
 
 Paprikaextrakt; Capsanthin; Capsorubin
 
-
+ 
 
 qs
 
@@ -2587,7 +2587,7 @@ Mit Fruchtgeschmack aromatisierte Frühstücksgetreideprodukte
 
 E 120
 
-
+ 
 
 Echtes Karmin
 
@@ -2597,7 +2597,7 @@ Echtes Karmin
 
 E 162
 
-
+ 
 
 Beetenrot
 
@@ -2605,17 +2605,17 @@ Beetenrot
 
 E 163
 
-
+ 
 
 Anthocyane
 
 )
 
+ 
 
+ 
 
-
-
-
+ 
 
 )
 
@@ -2623,7 +2623,7 @@ Konfitüren, Gelees und Marmeladen im Sinne der Konfitürenverordnung und ähnli
 
 E 100
 
-
+ 
 
 Kurkumin
 
@@ -2633,49 +2633,49 @@ qs
 
 E 140
 
-
+ 
 
 - i) :: Chlorophylle
 - ii) :: Chlorphylline
 
 )
 
-
+ 
 
 )
 
 E 141
 
-
+ 
 
 - i) :: kupferhaltige Komplexe der Chlorophylle
 - ii) :: kupferhaltige Komplexe der Chlorophylline
 
 )
 
-
-
-)
-
-
+ 
 
 )
 
-
-
-)
-
-
+ 
 
 )
 
+ 
 
+)
+
+ 
+
+)
+
+ 
 
 )
 
 E 150a
 
-
+ 
 
 Einfaches Zuckerkulör
 
@@ -2683,7 +2683,7 @@ Einfaches Zuckerkulör
 
 E 150b
 
-
+ 
 
 Sulfitlaugen-Zuckerkulör
 
@@ -2691,7 +2691,7 @@ Sulfitlaugen-Zuckerkulör
 
 E 150c
 
-
+ 
 
 Ammoniak-Zuckerkulör
 
@@ -2699,7 +2699,7 @@ Ammoniak-Zuckerkulör
 
 E 150d
 
-
+ 
 
 Ammonsulfit-Zuckerkulör
 
@@ -2707,7 +2707,7 @@ Ammonsulfit-Zuckerkulör
 
 E 160a
 
-
+ 
 
 Carotine
 
@@ -2715,23 +2715,23 @@ Carotine
 
 E 160c
 
-
+ 
 
 Paprikaextrakt; Capsanthin; Capsorubin
 
 )
 
+ 
 
+ 
 
-
-
-
+ 
 
 )
 
 E 162
 
-
+ 
 
 Beetenrot
 
@@ -2739,7 +2739,7 @@ Beetenrot
 
 E 163
 
-
+ 
 
 Anthocyane
 
@@ -2747,7 +2747,7 @@ Anthocyane
 
 E 104
 
-
+ 
 
 Chinolingelb
 
@@ -2755,7 +2755,7 @@ Chinolingelb
 
 E 110
 
-
+ 
 
 Gelborange S
 
@@ -2763,7 +2763,7 @@ Gelborange S
 
 E 120
 
-
+ 
 
 Echtes Karmin
 
@@ -2771,7 +2771,7 @@ Echtes Karmin
 
 E 124
 
-
+ 
 
 Cochenillerot A
 
@@ -2781,7 +2781,7 @@ Cochenillerot A
 
 E 142
 
-
+ 
 
 Grün S
 
@@ -2789,7 +2789,7 @@ Grün S
 
 E 160d
 
-
+ 
 
 Lycopin
 
@@ -2797,7 +2797,7 @@ Lycopin
 
 E 161b
 
-
+ 
 
 Lutein
 
@@ -2807,27 +2807,27 @@ Wurst, Pate und Schüssel-Pasteten
 
 E 100
 
-
+ 
 
 Kurkumin
 
-
+ 
 
 20 mg/kg
 
 E 120
 
-
+ 
 
 Echtes Karmin
 
-
+ 
 
 100 mg/kg
 
 E 150a
 
-
+ 
 
 Einfaches Zuckerkulör
 
@@ -2837,7 +2837,7 @@ qs
 
 E 150b
 
-
+ 
 
 Sulfitlaugen-Zuckerkulör
 
@@ -2845,7 +2845,7 @@ Sulfitlaugen-Zuckerkulör
 
 E 150c
 
-
+ 
 
 Ammoniak-Zuckerkulör
 
@@ -2853,7 +2853,7 @@ Ammoniak-Zuckerkulör
 
 E 150d
 
-
+ 
 
 Ammonsulfit-Zuckerkulör
 
@@ -2861,31 +2861,31 @@ Ammonsulfit-Zuckerkulör
 
 E 160a
 
-
+ 
 
 Carotine
 
-
+ 
 
 20 mg/kg
 
 E 160c
 
-
+ 
 
 Paprikaextrakt; Capsanthin; Capsorubin
 
-
+ 
 
 10 mg/kg
 
 E 162
 
-
+ 
 
 Beetenrot
 
-
+ 
 
 qs
 
@@ -2893,11 +2893,11 @@ Luncheon Meat
 
 E 129
 
-
+ 
 
 Allurarot AC
 
-
+ 
 
 25 mg/kg
 
@@ -2905,27 +2905,27 @@ Breakfast Sausages mit mindestens 6% Getreideanteil; Hackfleisch mit mindestens 
 
 E 120
 
-
+ 
 
 Echtes Karmin
 
-
+ 
 
 100 mg/kg
 
 E 129
 
-
+ 
 
 Allurarot AC
 
-
+ 
 
 25 mg/kg
 
 E 150a
 
-
+ 
 
 Einfaches Zuckerkulör
 
@@ -2935,7 +2935,7 @@ qs
 
 E 150b
 
-
+ 
 
 Sulfitlaugen-Zuckerkulör
 
@@ -2943,7 +2943,7 @@ Sulfitlaugen-Zuckerkulör
 
 E 150c
 
-
+ 
 
 Ammoniak-Zuckerkulör
 
@@ -2951,17 +2951,17 @@ Ammoniak-Zuckerkulör
 
 E 150d
 
-
+ 
 
 Ammonsulfit-Zuckerkulör
 
 )
 
+ 
 
+ 
 
-
-
-
+ 
 
 )
 
@@ -2969,21 +2969,21 @@ Chorizo-Wurst; Salchichon
 
 E 120
 
-
+ 
 
 Echtes Karmin
 
-
+ 
 
 200 mg/kg
 
 E 124
 
-
+ 
 
 Cochenillerot A
 
-
+ 
 
 250 mg/kg
 
@@ -2991,21 +2991,21 @@ Sobrasada
 
 E 110
 
-
+ 
 
 Gelborange S
 
-
+ 
 
 135 mg/kg
 
 E 124
 
-
+ 
 
 Cochenillerot A
 
-
+ 
 
 200 mg/kg
 
@@ -3013,7 +3013,7 @@ Pasturmas (eßbarer Überzug)
 
 E 100
 
-
+ 
 
 Kurkumin
 
@@ -3023,24 +3023,24 @@ qs
 
 E 101
 
-
+ 
 
 - i) :: Riboflavin
 - ii) :: Riboflavin-5'-Phosphat
 
 )
 
-
+ 
 
 )
 
-
+ 
 
 )
 
 E 120
 
-
+ 
 
 Echtes Karmin
 
@@ -3050,11 +3050,11 @@ Kartoffelflocken
 
 E 100
 
-
+ 
 
 Kurkumin
 
-
+ 
 
 qs
 
@@ -3062,31 +3062,31 @@ Processed Mushy and Garden Peas (Konserven)
 
 E 102
 
-
+ 
 
 Tartrazin
 
-
+ 
 
 100 mg/kg
 
 E 133
 
-
+ 
 
 Brillantblau FCF
 
-
+ 
 
 20 mg/kg
 
 E 142
 
-
+ 
 
 Grün S
 
-
+ 
 
 10 mg/kg
 
@@ -3094,7 +3094,7 @@ Fleisch, das gemäß fleischhygienerechtlicher und handelsklassenrechtlicher Vor
 
 E 129
 
-
+ 
 
 Allurarot AC oder eine Mischung aus Brillantblau(E 133) und Allurarot(E 129)
 
@@ -3102,33 +3102,33 @@ Allurarot AC oder eine Mischung aus Brillantblau(E 133) und Allurarot(E 129)
 
 qs
 
+ 
 
+ 
 
-
-
-
-
-)
-
-
-
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
+ 
 
+)
 
+ 
 
+ 
+
+ 
 
 )
 
 E 133
 
-
+ 
 
 Brillantblau FCF
 
@@ -3136,25 +3136,25 @@ Brillantblau FCF
 
 E 155
 
-
+ 
 
 Braun HT (jeweils nur zur Kennzeichnung)
 
 )
 
+ 
 
+ 
 
-
-
-
+ 
 
 )
 
+ 
 
+ 
 
-
-
-
+ 
 
 )
 
@@ -3173,7 +3173,7 @@ E-Nummer
 
 Zusatzstoff
 
-
+ 
 
 Lebensmittel
 
@@ -3183,7 +3183,7 @@ Höchstmenge
 
 2
 
-
+ 
 
 3
 
@@ -3259,7 +3259,7 @@ Xylit
 
 )
 
-
+ 
 
 )
 
@@ -3279,7 +3279,7 @@ Süßwaren ohne Zuckerzusatz
 
 )
 
-
+ 
 
 )
 
@@ -3287,7 +3287,7 @@ Kaugummi ohne Zuckerzusatz
 
 )
 
-
+ 
 
 )
 
@@ -3295,7 +3295,7 @@ Saucen
 
 )
 
-
+ 
 
 )
 
@@ -3303,7 +3303,7 @@ Senf
 
 )
 
-
+ 
 
 )
 
@@ -3311,11 +3311,11 @@ Erzeugnisse für besondere Ernährungszwecke
 
 )
 
-
+ 
 
 )
 
-
+ 
 
 )
 
@@ -3324,15 +3324,15 @@ Form
 
 )
 
-
+ 
 
 )
 
-
+ 
 
 E 968
 
-
+ 
 
 )
 
@@ -3652,7 +3652,7 @@ E 415[[#FnA1-BJNR023100998BJNE001405310-1][1)]]}
 
 Xanthan
 
-
+ 
 
 E 417[[#FnA1-BJNR023100998BJNE001405310-1][1)]]}
 
@@ -3959,57 +3959,57 @@ E 297
 
 Fumarsäure
 
-
+ 
 
 Füllungen und Überzüge für Feine Backwaren
 
 2,5 g/kg
 
+ 
 
+ 
 
-
-
-
+ 
 
 Zuckerwaren
 
 1 g/kg
 
+ 
 
+ 
 
-
-
-
+ 
 
 Geleeartige Desserts; Desserts mit Früchtegeschmack; Trockendessertmischungen in Pulverform
 
 4 g/kg
 
+ 
 
+ 
 
-
-
-
+ 
 
 Instantpulver für Getränke auf Früchtebasis
 
 1 g/l
 
+ 
 
+ 
 
-
-
-
+ 
 
 Instanterzeugnisse für die Zubereitung von aromatisierten Schwarz- und Kräutertees
 
 1 g/kg
 
+ 
 
+ 
 
-
-
-
+ 
 
 Kaugummi
 
@@ -4025,17 +4025,17 @@ Nichtalkoholische aromatisierte Getränke
 
 700 mg/l,
 
+ 
 
+ 
 
-
-
-
+ 
 
 )
 
 Molkeproteinhaltige Getränke für Sportler
 
-
+ 
 
 4 g/kg
 
@@ -4049,7 +4049,7 @@ Sterilisierte und ultrahocherhitzte Milch
 
 1 g/l
 
-
+ 
 
 i)
 
@@ -4057,7 +4057,7 @@ Mononatriumphosphat
 
 )
 
-
+ 
 
 ii)
 
@@ -4069,7 +4069,7 @@ Kandiertes Obst
 
 800 mg/kg
 
-
+ 
 
 iii)
 
@@ -4081,17 +4081,17 @@ Obstzubereitungen
 
 800 mg/kg
 
+ 
 
+ 
 
-
-
-
+ 
 
 )
 
 Molkeproteinhaltige Getränke für Sportler
 
-
+ 
 
 4 g/kg
 
@@ -4105,7 +4105,7 @@ Eingedickte Milch mit weniger als 28% Trockenmasse
 
 1 g/kg
 
-
+ 
 
 i)
 
@@ -4113,7 +4113,7 @@ Monokaliumphosphat
 
 )
 
-
+ 
 
 ii)
 
@@ -4125,7 +4125,7 @@ Eingedickte Milch mit mehr als 28% Trockenmasse
 
 1,5 g/kg
 
-
+ 
 
 iii)
 
@@ -4133,9 +4133,9 @@ Trikaliumphosphat
 
 )
 
+ 
 
-
-
+ 
 
 )
 
@@ -4143,9 +4143,9 @@ Milchpulver oder Magermilchpulver
 
 2,5 g/kg
 
+ 
 
-
-
+ 
 
 )
 
@@ -4163,7 +4163,7 @@ Pasteurisierte, sterilisierte oder ultrahocherhitzte Sahne
 
 5 g/kg
 
-
+ 
 
 i)
 
@@ -4171,7 +4171,7 @@ Monocalciumphospat
 
 )
 
-
+ 
 
 ii)
 
@@ -4183,7 +4183,7 @@ Schlagsahne oder Analoge aus Pflanzenfett
 
 5 g/kg
 
-
+ 
 
 iii)
 
@@ -4191,17 +4191,17 @@ Tricaliumphosphat
 
 )
 
+ 
 
+ 
 
-
-
-
+ 
 
 )
 
 Molkeproteinhaltige Getränke für Sportler
 
-
+ 
 
 4 g/kg
 
@@ -4215,7 +4215,7 @@ Frischkäse (außer Mozzarella)
 
 2 g/kg
 
-
+ 
 
 i)
 
@@ -4223,7 +4223,7 @@ Monomagnesiumphosphat
 
 )
 
-
+ 
 
 ii)
 
@@ -4235,17 +4235,17 @@ Schmelzkäse oder Schmelzkäseanaloge
 
 20 g/kg
 
+ 
 
+ 
 
-
-
-
+ 
 
 )
 
 Molkeproteinhaltige Getränke für Sportler
 
-
+ 
 
 4 g/kg
 
@@ -4255,11 +4255,11 @@ Diphosphate
 
 )
 
+ 
 
+ 
 
-
-
-
+ 
 
 i)
 
@@ -4271,7 +4271,7 @@ Fleischerzeugnisse
 
 5 g/kg
 
-
+ 
 
 ii)
 
@@ -4283,7 +4283,7 @@ Getränke für Sportler, Tafelwasser
 
 0,5 g/l
 
-
+ 
 
 iii)
 
@@ -4295,7 +4295,7 @@ Nahrungsergänzungsmittel
 
 qs
 
-
+ 
 
 v)
 
@@ -4307,7 +4307,7 @@ Kochsalz oder Kochsalzersatz
 
 10 g/kg
 
-
+ 
 
 vi)
 
@@ -4319,7 +4319,7 @@ Pflanzeneiweißgetränke
 
 20 g/l
 
-
+ 
 
 vii)
 
@@ -4331,9 +4331,9 @@ Getränkeweißer
 
 30 g/kg
 
+ 
 
-
-
+ 
 
 )
 
@@ -4341,17 +4341,17 @@ Getränkeweißer für Automaten
 
 50 g/kg
 
+ 
 
+ 
 
-
-
-
+ 
 
 )
 
 Molkeproteinhaltige Getränke für Sportler
 
-
+ 
 
 4 g/kg
 
@@ -4361,11 +4361,11 @@ Triphosphate
 
 )
 
+ 
 
+ 
 
-
-
-
+ 
 
 i)
 
@@ -4377,7 +4377,7 @@ Speiseeis
 
 1 g/kg
 
-
+ 
 
 ii)
 
@@ -4389,9 +4389,9 @@ Desserts
 
 3 g/kg
 
+ 
 
-
-
+ 
 
 )
 
@@ -4399,17 +4399,17 @@ Trockendessert in Pulverform
 
 7 g/kg
 
+ 
 
+ 
 
-
-
-
+ 
 
 )
 
 Molkeproteinhaltige Getränke für Sportler
 
-
+ 
 
 4 g/kg
 
@@ -4419,11 +4419,11 @@ Polyphosphate
 
 )
 
+ 
 
+ 
 
-
-
-
+ 
 
 i)
 
@@ -4435,7 +4435,7 @@ Feine Backwaren
 
 20 g/kg
 
-
+ 
 
 ii)
 
@@ -4447,7 +4447,7 @@ Mehl
 
 2,5 g/kg
 
-
+ 
 
 iii)
 
@@ -4459,7 +4459,7 @@ Mehl, backfertig
 
 20 g/kg
 
-
+ 
 
 iv)
 
@@ -4471,9 +4471,9 @@ Soda bread
 
 20 g/kg
 
+ 
 
-
-
+ 
 
 )
 
@@ -4481,9 +4481,9 @@ Flüssigei (Eiklar, Eigelb oder Vollei)
 
 10 g/kg
 
+ 
 
-
-
+ 
 
 )
 
@@ -4491,9 +4491,9 @@ Saucen
 
 5 g/kg
 
+ 
 
-
-
+ 
 
 )
 
@@ -4501,9 +4501,9 @@ Suppen oder Brühen
 
 3 g/kg
 
+ 
 
-
-
+ 
 
 )
 
@@ -4511,9 +4511,9 @@ Instanttee oder Instantkräutertee
 
 2 g/kg
 
+ 
 
-
-
+ 
 
 )
 
@@ -4521,9 +4521,9 @@ Aromen
 
 40 g/kg
 
+ 
 
-
-
+ 
 
 )
 
@@ -4531,9 +4531,9 @@ Kaugummi
 
 qs
 
+ 
 
-
-
+ 
 
 )
 
@@ -4541,9 +4541,9 @@ Trockenlebensmittel in Pulverform
 
 10 g/kg
 
+ 
 
-
-
+ 
 
 )
 
@@ -4551,9 +4551,9 @@ Schokoladen- und Malzgetränke auf Milchbasis
 
 2 g/l
 
+ 
 
-
-
+ 
 
 )
 
@@ -4561,9 +4561,9 @@ Alkoholische Getränke (ausgenommen Bier)
 
 1 g/l
 
+ 
 
-
-
+ 
 
 )
 
@@ -4571,9 +4571,9 @@ Frühstücksgetreidekost
 
 5 g/kg
 
+ 
 
-
-
+ 
 
 )
 
@@ -4581,9 +4581,9 @@ Knabbererzeugnisse
 
 5 g/kg
 
+ 
 
-
-
+ 
 
 )
 
@@ -4591,9 +4591,9 @@ Surimi
 
 1 g/kg
 
+ 
 
-
-
+ 
 
 )
 
@@ -4601,9 +4601,9 @@ Fischpaste oder Paste von Krebstieren
 
 5 g/kg
 
+ 
 
-
-
+ 
 
 )
 
@@ -4611,9 +4611,9 @@ Fischpaste oder Paste von Krebstieren
 
 3 g/kg
 
+ 
 
-
-
+ 
 
 )
 
@@ -4621,9 +4621,9 @@ Lebensmittel für besondere Ernährungszwecke
 
 5 g/kg
 
+ 
 
-
-
+ 
 
 )
 
@@ -4631,9 +4631,9 @@ Glasur für Fleisch- und Gemüseerzeugnisse
 
 4 g/kg
 
+ 
 
-
-
+ 
 
 )
 
@@ -4641,9 +4641,9 @@ Zuckerwaren
 
 5 g/kg
 
+ 
 
-
-
+ 
 
 )
 
@@ -4651,9 +4651,9 @@ Puderzucker
 
 10 g/kg
 
+ 
 
-
-
+ 
 
 )
 
@@ -4661,9 +4661,9 @@ Noodles (Nudeln chinesischer Art)
 
 2 g/kg
 
+ 
 
-
-
+ 
 
 )
 
@@ -4671,9 +4671,9 @@ Rührteig, Panaden
 
 12 g/kg
 
+ 
 
-
-
+ 
 
 )
 
@@ -4681,9 +4681,9 @@ Filets von unverarbeitetem Fisch, gefroren oder tiefgefroren
 
 5 g/kg
 
+ 
 
-
-
+ 
 
 )
 
@@ -4691,9 +4691,9 @@ Unverarbeitete oder verarbeitete Schalen- oder Krebstiere, gefroren oder tiefgef
 
 5 g/kg
 
+ 
 
-
-
+ 
 
 )
 
@@ -4701,9 +4701,9 @@ Verarbeitete (einschließlich gefrorener, tiefgefrorener, gekühlter oder getroc
 
 5 g/kg
 
+ 
 
-
-
+ 
 
 )
 
@@ -4711,9 +4711,9 @@ Streichfette, ausgenommen Butter
 
 5 g/kg
 
+ 
 
-
-
+ 
 
 )
 
@@ -4721,9 +4721,9 @@ Sauerrahmbutter
 
 2 g/kg
 
+ 
 
-
-
+ 
 
 )
 
@@ -4731,9 +4731,9 @@ Krebstiererzeugnisse in Dosen
 
 1 g/kg
 
+ 
 
-
-
+ 
 
 )
 
@@ -4741,9 +4741,9 @@ Emulsionssprays auf Wasserbasis zum Bestreichen von Backformen
 
 30 g/kg
 
+ 
 
-
-
+ 
 
 )
 
@@ -4751,27 +4751,27 @@ Getränke auf Kaffeebasis für Automaten
 
 2 g/l
 
+ 
 
-
-
+ 
 
 )
 
-
+ 
 
 jeweils berechnet als P2O5
 
+ 
 
+ 
 
-
-
-
+ 
 
 )
 
 Molkeproteinhaltige Getränke für Sportler
 
-
+ 
 
 4 g/kg
 
@@ -4779,7 +4779,7 @@ E 353
 
 Metaweinsäure
 
-
+ 
 
 Made wine
 
@@ -4789,7 +4789,7 @@ E 355
 
 Adipinsäure
 
-
+ 
 
 Füllungen und Überzüge für Trockendesserts in Pulverform
 
@@ -4799,55 +4799,55 @@ E 356
 
 Natriumadipat
 
+ 
 
-
-
+ 
 
 E 357
 
 Kaliumadipat
 
-
+ 
 
 1 g/kg
 
+ 
 
+ 
 
-
-
-
+ 
 
 Geleeartige Desserts
 
 6 g/kg
 
+ 
 
+ 
 
-
-
-
+ 
 
 Desserts mit Früchtegeschmack
 
 1 g/kg
 
+ 
 
+ 
 
-
-
-
+ 
 
 Pulver für die Herstellung von Getränken in privaten Haushalten
 
 10 g/l
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 jeweils berechnet als Adipinsäure
 
@@ -4855,27 +4855,27 @@ E 363
 
 Bernsteinsäure
 
-
+ 
 
 Desserts
 
 6 g/kg
 
+ 
 
+ 
 
-
-
-
+ 
 
 Suppen oder Brühen
 
 5 g/kg
 
+ 
 
+ 
 
-
-
-
+ 
 
 Pulver für die Herstellung von Getränken in privaten Haushalten
 
@@ -4885,47 +4885,47 @@ E 385
 
 Calciumdinatrium-methylendiamintetra-acetat (Calciumdinatrium-EDTA)
 
-
+ 
 
 Emulgierte Saucen
 
 75 mg/kg
 
+ 
 
-
-
+ 
 
 Dosen- oder Glaskonserven von Hülsenfrüchten, Leguminosen, Pilzen und Artischocken
 
 250 mg/kg
 
+ 
 
-
-
+ 
 
 Dosen- oder Glaskonserven von Krebs- und Weichtieren
 
 75 mg/kg
 
+ 
 
-
-
+ 
 
 Dosen- oder Glaskonserven von Fischen
 
 75 mg/kg
 
+ 
 
-
-
+ 
 
 Streichfette nach dem Anhang, Buchstabe B oder C der Verordnung (EG) Nr. 2991/94, mit einem Fettgehalt von höchstens 41%
 
 100 mg/kg
 
+ 
 
-
-
+ 
 
 Gefrorene oder tiefgefrorene Krebstiere
 
@@ -4935,147 +4935,147 @@ E 405
 
 Propylenglycolalginat
 
-
+ 
 
 Fettemulsionen
 
 3 g/kg
 
+ 
 
+ 
 
-
-
-
+ 
 
 Feine Backwaren
 
 2 g/kg
 
+ 
 
+ 
 
-
-
-
+ 
 
 Füllungen, Glasuren und Überzüge für Feine Backwaren und Desserts
 
 5 g/kg
 
+ 
 
+ 
 
-
-
-
+ 
 
 Zuckerwaren
 
 1,5 g/kg
 
+ 
 
+ 
 
-
-
-
+ 
 
 Speiseeis auf Wasserbasis
 
 3 g/kg
 
+ 
 
+ 
 
-
-
-
+ 
 
 Knabbererzeugnisse auf Getreide- oder Kartoffelbasis
 
 3 g/kg
 
+ 
 
+ 
 
-
-
-
+ 
 
 Saucen
 
 8 g/kg
 
+ 
 
+ 
 
-
-
-
+ 
 
 Bier
 
 100 mg/l
 
+ 
 
+ 
 
-
-
-
+ 
 
 Kaugummi
 
 5 g/kg
 
+ 
 
+ 
 
-
-
-
+ 
 
 Obst- oder Gemüsezubereitungen
 
 5 g/kg
 
+ 
 
+ 
 
-
-
-
+ 
 
 Nichtalkoholische, aromatisierte Getränke
 
 300 mg/l
 
+ 
 
+ 
 
-
-
-
+ 
 
 Emulsionsliköre
 
 10 g/l
 
+ 
 
+ 
 
-
-
-
+ 
 
 diätetische Lebensmittel für besondere medizinische Zwecke; Diätnahrung, die als Mahlzeit oder Tagesration für Übergewichtige bestimmt ist
 
 1,2 g/kg
 
+ 
 
+ 
 
-
-
-
+ 
 
 Nahrungsergänzungsmittel
 
 1 g/kg
 
+ 
 
+ 
 
-
-
-
+ 
 
 Cider (ausgenommen cidre bouche)
 
@@ -5085,87 +5085,87 @@ E 416
 
 Karayagummi
 
-
+ 
 
 Knabbererzeugnisse auf Getreide- oder Kartoffelbasis
 
 5 g/kg
 
+ 
 
+ 
 
-
-
-
+ 
 
 Überzüge für Nüsse
 
 10 g/kg
 
+ 
 
+ 
 
-
-
-
+ 
 
 Füllungen und Überzüge für Feine Backwaren
 
 5 g/kg
 
+ 
 
+ 
 
-
-
-
+ 
 
 Desserts
 
 6 g/kg
 
+ 
 
+ 
 
-
-
-
+ 
 
 Emulgierte Saucen
 
 10 g/kg
 
+ 
 
+ 
 
-
-
-
+ 
 
 Liköre auf Eierbasis
 
 10 g/l
 
+ 
 
+ 
 
-
-
-
+ 
 
 Nahrungsergänzungsmittel
 
 qs
 
+ 
 
+ 
 
-
-
-
+ 
 
 Kaugummi
 
 5 g/kg
 
+ 
 
+ 
 
-
-
-
+ 
 
 Aromen
 
@@ -5181,7 +5181,7 @@ Lebensmittel allgemein (ausgenommen Getränke und Lebensmittel gemäß Teil A Sp
 
 qs
 
-
+ 
 
 i)
 
@@ -5189,7 +5189,7 @@ Sorbit
 
 )
 
-
+ 
 
 ii)
 
@@ -5215,7 +5215,7 @@ Maltit
 
 )
 
-
+ 
 
 i)
 
@@ -5223,7 +5223,7 @@ Maltit
 
 )
 
-
+ 
 
 ii)
 
@@ -5249,124 +5249,124 @@ Erythrit
 
 )
 
-
+ 
 
 E 425
 
 Konjak
 
-
+ 
 
 Lebensmittel allgemein (ausgenommen Lebensmittel gemäß Teil A Spalte 3 Nr. 1 bis 13 oder zur Herstellung künstlich getrockneter Lebensmittel, die beim Verzehr rehydratisieren sollen, sowie Gelee-Süßwaren)
 
 10 g/kg einzeln oder kombiniert
 
-
+ 
 
 i)
 
 Konjakgummi
 
+ 
 
-
-
+ 
 
 ii)
 
 Konjak-Glukomannan
 
-
+ 
 
 E 426
 
 Sojabohnen-Polyose
 
-
+ 
 
 Getränke auf Milchbasis für den\\
 Einzelhandel
 
 5 g/l
 
+ 
 
+ 
 
-
-
-
+ 
 
 Nahrungsergänzungsmittel
 
 1,5 g/l
 
+ 
 
+ 
 
-
-
-
+ 
 
 Emulgierte Saucen
 
 30 g/l
 
+ 
 
+ 
 
-
-
-
+ 
 
 Abgepackte Feinbackwaren für den\\
 Einzelhandel
 
 10 g/kg
 
+ 
 
+ 
 
-
-
-
+ 
 
 Abgepackte verzehrfertige orientalische Nudeln für den Einzelhandel
 
 10 g/kg
 
+ 
 
+ 
 
-
-
-
+ 
 
 Abgepackter verzehrfertiger Reis für\\
 den Einzelhandel
 
 10 g/kg
 
+ 
 
+ 
 
-
-
-
+ 
 
 Abgepackte verarbeitete Kartoffel- und Reiserzeugnisse (einschließlich\\
 gefrorener, tiefgefrorener, gekühlter und getrockneter verarbeiteter Erzeugnisse) für den Einzelhandel
 
 10 g/kg
 
+ 
 
+ 
 
-
-
-
+ 
 
 Dehydrierte, konzentrierte, gefrorene\\
 und tiefgefrorene Eierzeugnisse
 
 10 g/kg
 
+ 
 
+ 
 
-
-
-
+ 
 
 Gelee-Süßwaren, außer Gelee-Süßwären in Minibechern
 
@@ -5380,11 +5380,11 @@ Speiseeis
 
 2 500 mg/kg
 
-
+ 
 
 Fermentierte Milcherzeugnisse mit Ausnahme von nicht aromatisierten, mit lebenden Bakterien fermentierten Milcherzeugnissen
 
-
+ 
 
 Dessertspeisen und ähnliche Erzeugnisse auf Milchbasis
 
@@ -5410,7 +5410,7 @@ Feine Backwaren
 
 3 g/kg
 
-
+ 
 
 )
 
@@ -5428,7 +5428,7 @@ Milch- oder Sahneanaloge
 
 5 g/kg
 
-
+ 
 
 )
 
@@ -5446,7 +5446,7 @@ Desserts
 
 3 g/kg
 
-
+ 
 
 )
 
@@ -5464,7 +5464,7 @@ Emulgierte Saucen
 
 5 g/kg
 
-
+ 
 
 )
 
@@ -5482,7 +5482,7 @@ Kaugummi
 
 5 g/kg
 
-
+ 
 
 )
 
@@ -5490,7 +5490,7 @@ Nahrungsergänzungsmittel
 
 qs
 
-
+ 
 
 )
 
@@ -5498,7 +5498,7 @@ diätetische Lebensmittel für besondere medizinische Zwecke; Diätnahrung, die 
 
 1 g/kg
 
-
+ 
 
 )
 
@@ -5507,7 +5507,7 @@ Aromen, ausgenommen flüssige Raucharomen und Aromen auf der Basis von Gewürzol
 
 10 g/kg
 
-
+ 
 
 )
 
@@ -5519,7 +5519,7 @@ E 442
 
 Ammoniumsalze von Phosphatidsäuren
 
-
+ 
 
 Kakao- und Schokoladenerzeugnisse im Sinne der Kakaoverordnung einschließlich Füllung oder Süßwaren auf Basis dieser Erzeugnisse
 
@@ -5529,15 +5529,15 @@ E 444
 
 Saccharoseacetatisobutyrat
 
-
+ 
 
 Nichtalkoholische, aromatisierte trübe Getränke
 
 300 mg/l
 
+ 
 
-
-
+ 
 
 Aromatisierte trübe Spirituosen mit einen Alkoholgehalt von weniger als 15%
 
@@ -5547,31 +5547,31 @@ E 445
 
 Glycerinester aus Wurzelharz
 
-
+ 
 
 Nichtalkoholische, aromatisierte trübe Getränke
 
 100 mg/l
 
+ 
 
-
-
+ 
 
 Oberflächenbehandlung von Zitrusfrüchten
 
 50 mg/kg
 
+ 
 
-
-
+ 
 
 Trübe Spirituosen gemäß der Verordnung (EWG) Nr. 1576/89
 
 100 mg/l
 
+ 
 
-
-
+ 
 
 Trübe Spirituosen mit einem Alkoholgehalt von weniger als 15% vol.
 
@@ -5581,37 +5581,37 @@ E 459
 
 Beta-Cyclodextrin
 
-
+ 
 
 Lebensmittel in Tabletten- und Drageeform
 
 qs
 
+ 
 
+ 
 
-
-
-
+ 
 
 eingekapselte Aromen in
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 - aromatisiertem Tee und sofortlöslichem aromatisiertem Getränkepulver
 
 500 mg/l in verzehrfertigen oder nach den Anweisungen des Herstellers rekonstituierten Lebensmitteln
 
+ 
 
+ 
 
-
-
-
+ 
 
 - aromatisierten Knabbererzeugnissen
 
@@ -5621,7 +5621,7 @@ E 468
 
 Vernetzte Natrium-carboxymethylcellulose
 
-
+ 
 
 Feste Nahrungsergänzungsmittel
 
@@ -5631,17 +5631,17 @@ E 473
 
 Zuckerester von Speisefettsäuren
 
-
+ 
 
 Kaffee abgepackt, flüssig
 
 1 g/l
 
+ 
 
+ 
 
-
-
-
+ 
 
 Hitzebehandelte
 
@@ -5657,9 +5657,9 @@ Fleischerzeugnisse
 
 auf den Fettgehalt bezogen
 
+ 
 
-
-
+ 
 
 )
 
@@ -5667,9 +5667,9 @@ Fettemulsionen für Backzwecke
 
 10 g/kg
 
+ 
 
-
-
+ 
 
 )
 
@@ -5677,9 +5677,9 @@ Feine Backwaren
 
 10 g/kg
 
+ 
 
-
-
+ 
 
 )
 
@@ -5687,9 +5687,9 @@ Getränkeweißer
 
 20 g/kg
 
+ 
 
-
-
+ 
 
 )
 
@@ -5697,9 +5697,9 @@ Speiseeis
 
 5 g/kg
 
+ 
 
-
-
+ 
 
 )
 
@@ -5707,9 +5707,9 @@ Zuckerwaren
 
 5 g/kg
 
+ 
 
-
-
+ 
 
 )
 
@@ -5717,9 +5717,9 @@ Desserts
 
 5 g/kg
 
+ 
 
-
-
+ 
 
 )
 
@@ -5727,9 +5727,9 @@ Saucen
 
 10 g/kg
 
+ 
 
-
-
+ 
 
 )
 
@@ -5737,9 +5737,9 @@ Suppen oder Brühen
 
 2 g/kg
 
+ 
 
-
-
+ 
 
 )
 
@@ -5747,9 +5747,9 @@ Sahneanaloge
 
 5 g/kg
 
+ 
 
-
-
+ 
 
 )
 
@@ -5757,9 +5757,9 @@ Sterilisierte Sahne und sterilisierte Sahne mit reduziertem Fettgehalt
 
 5 g/kg
 
+ 
 
-
-
+ 
 
 )
 
@@ -5767,9 +5767,9 @@ Frischobst (nur zur Oberflächenbehandlung)
 
 qs
 
+ 
 
-
-
+ 
 
 )
 
@@ -5777,9 +5777,9 @@ Nichtalkoholische Anis-Getränke
 
 5 g/l
 
+ 
 
-
-
+ 
 
 )
 
@@ -5787,9 +5787,9 @@ Nichtalkoholische Kokosnuss- oder Mandelgetränke
 
 5 g/l
 
+ 
 
-
-
+ 
 
 )
 
@@ -5797,9 +5797,9 @@ Alkoholische Getränke (außer Wein und Bier)
 
 5 g/l
 
+ 
 
-
-
+ 
 
 )
 
@@ -5807,9 +5807,9 @@ Pulver zur Herstellung heißer Getränke
 
 10 g/l
 
+ 
 
-
-
+ 
 
 )
 
@@ -5817,9 +5817,9 @@ Getränke auf der Basis von Milch oder Milcherzeugnissen
 
 5 g/l
 
+ 
 
-
-
+ 
 
 )
 
@@ -5827,9 +5827,9 @@ Nahrungsergänzungsmittel
 
 qs
 
+ 
 
-
-
+ 
 
 )
 
@@ -5837,9 +5837,9 @@ diätetische Lebensmittel für besondere medizinische Zwecke; Diätnahrung, die 
 
 5 g/kg
 
+ 
 
-
-
+ 
 
 )
 
@@ -5851,95 +5851,95 @@ E 475
 
 Polyglycerinester von Speisefettsäuren
 
-
+ 
 
 Feine Backwaren
 
 10 g/kg
 
+ 
 
-
-
+ 
 
 Emulsionsliköre
 
 5 g/l
 
+ 
 
-
-
+ 
 
 Eiprodukte
 
 1 g/kg
 
+ 
 
-
-
+ 
 
 Getränkeweißer
 
 0,5 g/kg
 
+ 
 
-
-
+ 
 
 Kaugummi
 
 5 g/kg
 
+ 
 
-
-
+ 
 
 Fettemulsionen
 
 5 g/kg
 
+ 
 
-
-
+ 
 
 Milch- oder Sahneanaloge
 
 5 g/kg
 
+ 
 
-
-
+ 
 
 Zuckerwaren
 
 2 g/kg
 
+ 
 
-
-
+ 
 
 Desserts
 
 2 g/kg
 
+ 
 
-
-
+ 
 
 Nahrungsergänzungsmittel
 
 qs
 
+ 
 
-
-
+ 
 
 diätetische Lebensmittel für besondere medizinische Zwecke; Diätnahrung, die als Mahlzeit oder Tagesration für Übergewichtige bestimmt ist
 
 5 g/kg
 
+ 
 
-
-
+ 
 
 Frühstücksgetreidekost der Art Granola
 
@@ -5949,31 +5949,31 @@ E 476
 
 Polyglycerin-Polyricinoleat
 
-
+ 
 
 Streichfette nach dem Anhang, Buchstabe A, B oder C der Verordnung (EG) Nr. 2991/94, mit einem Fettgehalt von höchstens 41%
 
 4 g/kg
 
+ 
 
-
-
+ 
 
 Gleichartige Streicherzeugnisse mit einem Fettgehalt von weniger als 10%
 
 4 g/kg
 
+ 
 
-
-
+ 
 
 Salatsaucen
 
 4 g/kg
 
+ 
 
-
-
+ 
 
 Süßwaren auf Kakaobasis, einschließlich Schokolade
 
@@ -5983,71 +5983,71 @@ E 477
 
 Propylenglycolester von Speisefettsäuren
 
-
+ 
 
 Feine Backwaren
 
 5 g/kg
 
+ 
 
-
-
+ 
 
 Fettemulsionen für Backzwecke
 
 10 g/kg
 
+ 
 
-
-
+ 
 
 Milch- oder Sahneanaloge
 
 5 g/kg
 
+ 
 
-
-
+ 
 
 Getränkeweißer
 
 1 g/kg
 
+ 
 
-
-
+ 
 
 Speiseeis
 
 3 g/kg
 
+ 
 
-
-
+ 
 
 Zuckerwaren
 
 5 g/kg
 
+ 
 
-
-
+ 
 
 Desserts
 
 5 g/kg
 
+ 
 
-
-
+ 
 
 Geschlagene Dessertgarnierungen, außer Sahne
 
 30 g/kg
 
+ 
 
-
-
+ 
 
 diätetische Lebensmittel für besondere medizinische Zwecke; Diätnahrung, die als Mahlzeit oder Tagesration für Übergewichtige bestimmt ist
 
@@ -6057,7 +6057,7 @@ E 479b
 
 Thermooxidiertes Sojaöl mit Mono- und Diglyceriden von Speisefettsäuren
 
-
+ 
 
 Fettemulsionen zum Braten
 
@@ -6073,7 +6073,7 @@ Feine Backwaren
 
 5 g/kg
 
-
+ 
 
 )
 
@@ -6081,7 +6081,7 @@ Schnellkochender Reis
 
 4 g/kg
 
-
+ 
 
 )
 
@@ -6099,7 +6099,7 @@ Emulsionsliköre
 
 8 g/l
 
-
+ 
 
 )
 
@@ -6107,7 +6107,7 @@ Spirituosen mit weniger als 15 Vol.-% Alkohol
 
 8 g/l
 
-
+ 
 
 )
 
@@ -6115,7 +6115,7 @@ Kaugummi
 
 2 g/kg
 
-
+ 
 
 )
 
@@ -6123,7 +6123,7 @@ Fettemulsionen
 
 10 g/kg
 
-
+ 
 
 )
 
@@ -6131,7 +6131,7 @@ Desserts
 
 5 g/kg
 
-
+ 
 
 )
 
@@ -6139,7 +6139,7 @@ Zuckerwaren
 
 5 g/kg
 
-
+ 
 
 )
 
@@ -6147,7 +6147,7 @@ Getränkeweißer
 
 3 g/kg
 
-
+ 
 
 )
 
@@ -6155,7 +6155,7 @@ Knabbererzeugnisse auf Getreide- oder Kartoffelbasis
 
 5 g/kg
 
-
+ 
 
 )
 
@@ -6163,7 +6163,7 @@ Konserven von Fleischerzeugnissen, gehackt oder in Würfel zerteilt
 
 4 g/kg
 
-
+ 
 
 )
 
@@ -6171,7 +6171,7 @@ Pulver zur Herstellung heißer Getränke
 
 2 g/l
 
-
+ 
 
 )
 
@@ -6179,7 +6179,7 @@ diätetische Lebensmittel für besondere medizinische Zwecke; Diätnahrung, die 
 
 2 g/kg
 
-
+ 
 
 )
 
@@ -6187,7 +6187,7 @@ Brot (außer Brot im Sinne von Teil C)
 
 3 g/kg
 
-
+ 
 
 )
 
@@ -6199,15 +6199,15 @@ E 483
 
 Stearoyltartrat
 
-
+ 
 
 Backwaren (außer Brot im Sinne von Teil C)
 
 4 g/kg
 
+ 
 
-
-
+ 
 
 Desserts
 
@@ -6263,7 +6263,7 @@ Getränkeweißer
 
 5 g/kg
 
-
+ 
 
 )
 
@@ -6271,7 +6271,7 @@ Teekonzentrate oder Früchte- oder Kräuterteekonzentrate (Flüssigkeit)
 
 0,5 g/l
 
-
+ 
 
 )
 
@@ -6279,7 +6279,7 @@ Speiseeis
 
 0,5 g/kg
 
-
+ 
 
 )
 
@@ -6287,7 +6287,7 @@ Desserts
 
 5 g/kg
 
-
+ 
 
 )
 
@@ -6295,7 +6295,7 @@ Zuckerwaren
 
 5 g/kg
 
-
+ 
 
 )
 
@@ -6303,7 +6303,7 @@ Emulgierte Saucen
 
 5 g/kg
 
-
+ 
 
 )
 
@@ -6311,7 +6311,7 @@ Nahrungsergänzungsmittel
 
 qs
 
-
+ 
 
 )
 
@@ -6319,7 +6319,7 @@ Hefen für Backzwecke
 
 qs
 
-
+ 
 
 )
 
@@ -6327,7 +6327,7 @@ Kaugummi
 
 5 g/kg
 
-
+ 
 
 )
 
@@ -6339,7 +6339,7 @@ E 492
 
 Sorbitantristearat
 
-
+ 
 
 Süßwaren auf Kakaobasis, einschließlich Schokolade
 
@@ -6349,7 +6349,7 @@ E 493
 
 Sorbitanmonolaurat
 
-
+ 
 
 Fruchtgelee; Marmelade
 
@@ -6359,7 +6359,7 @@ E 512
 
 Zinn-II-chlorid
 
-
+ 
 
 Dosen- oder Glaskonserven von Spargel
 
@@ -6391,7 +6391,7 @@ Aluminiumkaliumsulfat
 
 )
 
-
+ 
 
 jeweils berechnet als Aluminium
 
@@ -6401,7 +6401,7 @@ Aluminiumammoniumsulfat
 
 )
 
-
+ 
 
 E 535
 
@@ -6429,7 +6429,7 @@ E 541
 
 Saures Natriumaluminiumphosphat
 
-
+ 
 
 Feine Backwaren (nur scones und Biskuitgebäck)
 
@@ -6473,7 +6473,7 @@ Kochsalz oder Kochsalzersatz
 
 10 g/kg
 
-
+ 
 
 ii)
 
@@ -6531,9 +6531,9 @@ Erzeugnisse zum Einfetten von Backformen
 
 30 g/kg
 
+ 
 
-
-
+ 
 
 )
 
@@ -6609,7 +6609,7 @@ Calciumdiglutamat
 
 )
 
-
+ 
 
 jeweils berechnet als Glutaminsäure
 
@@ -6619,7 +6619,7 @@ Monoammoniumglutamat
 
 )
 
-
+ 
 
 E 625
 
@@ -6627,7 +6627,7 @@ Magnesiumdiglutamat
 
 )
 
-
+ 
 
 E 626
 
@@ -6661,7 +6661,7 @@ Calciumguanylat
 
 )
 
-
+ 
 
 jeweils berechnet als Guanylsäure
 
@@ -6671,7 +6671,7 @@ Inosinsäure
 
 )
 
-
+ 
 
 E 631
 
@@ -6679,9 +6679,9 @@ Dinatriuminosinat
 
 )
 
+ 
 
-
-
+ 
 
 E 632
 
@@ -6689,9 +6689,9 @@ Dikaliuminosinat
 
 )
 
+ 
 
-
-
+ 
 
 E 633
 
@@ -6699,9 +6699,9 @@ Calciuminosinat
 
 )
 
+ 
 
-
-
+ 
 
 E 634
 
@@ -6709,9 +6709,9 @@ Calcium-5'-ribonukleotid
 
 )
 
+ 
 
-
-
+ 
 
 E 635
 
@@ -6719,15 +6719,15 @@ Dinatrium-5'-ribonukleotid
 
 )
 
+ 
 
-
-
+ 
 
 E 650
 
 Zinkacetat
 
-
+ 
 
 Kaugummi
 
@@ -6737,117 +6737,117 @@ E 900
 
 Dimethylpolysiloxan
 
-
+ 
 
 Konfitüren, Gelees und Marmeladen im Sinne der Konfitürenverordnung oder ähnliche Fruchtaufstriche, einschließlich brennwertverminderte Erzeugnisse
 
 10 mg/kg
 
+ 
 
+ 
 
-
-
-
+ 
 
 Suppen oder Brühen
 
 10 mg/kg
 
+ 
 
+ 
 
-
-
-
+ 
 
 Bratöle oder Bratfette
 
 10 mg/kg
 
+ 
 
+ 
 
-
-
-
+ 
 
 Süßwaren (außer Schokolade)
 
 10 mg/kg
 
+ 
 
+ 
 
-
-
-
+ 
 
 Nichtalkoholische, aromatisierte Getränke
 
 10 mg/l
 
+ 
 
+ 
 
-
-
-
+ 
 
 Ananassaft
 
 10 mg/l
 
+ 
 
+ 
 
-
-
-
+ 
 
 Dosen- oder Glaskonserven von Obst und Gemüse
 
 10 mg/kg
 
+ 
 
+ 
 
-
-
-
+ 
 
 Kaugummi
 
 100 mg/kg
 
+ 
 
+ 
 
-
-
-
+ 
 
 Sod...saft; Sodet...saft
 
 10 mg/l
 
+ 
 
+ 
 
-
-
-
+ 
 
 Rührteig
 
 10 mg/kg
 
+ 
 
+ 
 
-
-
-
+ 
 
 Cider (ausgenommen cidre bouche)
 
 10 mg/l
 
+ 
 
+ 
 
-
-
-
+ 
 
 Aromen
 
@@ -6861,9 +6861,9 @@ Als Überzugsmittel für vorverpackte, mit Speiseeis gefüllte Waffeln
 
 qs
 
+ 
 
-
-
+ 
 
 Aromen in nicht alkoholischen aromatisierten Getränken
 
@@ -6887,33 +6887,33 @@ Schellack
 
 - Knabbererzeugnisse
 
+ 
 
-
-
+ 
 
 )
 
 - Nüsse
 
+ 
 
-
-
+ 
 
 )
 
 - Kaffeebohnen;
 
+ 
 
-
-
+ 
 
 )
 
 Nahrungsergänzungsmittel; Frische Zitrusfrüchte, Melonen, Äpfel, Birnen, Pfirsiche oder Ananas (nur zur Oberflächenbehandlung);
 
+ 
 
-
-
+ 
 
 )
 
@@ -6927,11 +6927,11 @@ Carnaubawachs
 
 als Überzugsmittel nur für
 
+ 
 
+ 
 
-
-
-
+ 
 
 )
 
@@ -6939,9 +6939,9 @@ als Überzugsmittel nur für
 
 500 mg/kg
 
+ 
 
-
-
+ 
 
 )
 
@@ -6949,9 +6949,9 @@ als Überzugsmittel nur für
 
 1 200 mg/kg
 
+ 
 
-
-
+ 
 
 )
 
@@ -6959,9 +6959,9 @@ als Überzugsmittel nur für
 
 200 mg/kg
 
+ 
 
-
-
+ 
 
 )
 
@@ -6969,9 +6969,9 @@ als Überzugsmittel nur für
 
 200 mg/kg
 
+ 
 
-
-
+ 
 
 )
 
@@ -6979,9 +6979,9 @@ als Überzugsmittel nur für
 
 200 mg/kg
 
+ 
 
-
-
+ 
 
 )
 
@@ -6989,9 +6989,9 @@ als Überzugsmittel nur für
 
 200 mg/kg
 
+ 
 
-
-
+ 
 
 )
 
@@ -6999,9 +6999,9 @@ als Überzugsmittel nur für
 
 200 mg/kg
 
+ 
 
-
-
+ 
 
 )
 
@@ -7013,33 +7013,33 @@ E 905
 
 Mikrokristallines Wachs
 
-
+ 
 
 Oberflächenbehandlung von
 
 qs
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Süßwaren (außer Schokolade)
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Kaugummi
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Melonen, Papayas, Mangos oder Avocados
 
@@ -7047,31 +7047,31 @@ E 907
 
 Hydriertes Poly-1-decen
 
-
+ 
 
 als Überzugsmittel für
 
 2 g/kg
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Zuckerwaren
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 - Trockenfrüchte
 
-
+ 
 
 E 912
 
@@ -7093,7 +7093,7 @@ E 927b
 
 Carbamid
 
-
+ 
 
 Kaugummi ohne Zuckerzusatz
 
@@ -7103,7 +7103,7 @@ E 943a
 
 Butan
 
-
+ 
 
 Backsprays auf Pflanzenölbasis (nur gewerbliche Verarbeiter)
 
@@ -7113,13 +7113,13 @@ E 943b
 
 Isobutan
 
-
+ 
 
 E 944
 
 Propan
 
-
+ 
 
 Emulsionssprays auf Wasserbasis
 
@@ -7127,7 +7127,7 @@ E 950
 
 Acesulfam-K (nur als Geschmacksverstärker)
 
-
+ 
 
 Kaugummi mit Zuckerzusatz
 
@@ -7137,7 +7137,7 @@ E 951
 
 Aspartam (nur als Geschmacksverstärker)
 
-
+ 
 
 Kaugummi mit Zuckerzusatz
 
@@ -7147,27 +7147,27 @@ E 957
 
 Thaumatin (nur als Geschmacksverstärker)
 
-
+ 
 
 Kaugummi mit Zuckerzusatz
 
 10 mg/kg[[#FnA2-BJNR023100998BJNE001405310-2][*)]]}
 
+ 
 
+ 
 
-
-
-
+ 
 
 Nichtalkoholische, aromatisierte Getränke auf Wasserbasis
 
 0,5 mg/l
 
+ 
 
+ 
 
-
-
-
+ 
 
 Desserts auf Milch- und Nichtmilchbasis
 
@@ -7177,19 +7177,19 @@ E 959
 
 Neohesperidin DC (nur als Geschmacksverstärker)
 
-
+ 
 
 Kaugummi mit Zuckerzusatz
 
-
+ 
 
 150 mg/kg[[#FnA2-BJNR023100998BJNE001405310-2][*)]]}
 
+ 
 
+ 
 
-
-
-
+ 
 
 Streichfette nach dem Anhang, Buchstabe B oder C der Verordnung (EG) Nr. 2991/94;\\
 Fleischerzeugnisse;\\
@@ -7211,7 +7211,7 @@ Neotam\\
 
 Brennwertverminderte oder ohne Zuckerzusatz hergestellte aromatisierte Getränke auf Wasserbasis\\
 Brennwertverminderte oder ohne Zuckerzusatz hergestellte Getränke auf der Basis von Milch/Milcherzeugnissen oder auf Fruchtsaftbasis\\
-Snacks“: gesalzene und trockene Knabbererzeugnisse auf der Basis von Stärke oder Nüssen und Haselnüssen, vorverpackt und bestimmte Aromen enthaltend\\
+„Snacks“: gesalzene und trockene Knabbererzeugnisse auf der Basis von Stärke oder Nüssen und Haselnüssen, vorverpackt und bestimmte Aromen enthaltend\\
 Brennwertverminderte oder ohne Zuckerzusatz hergestellte Süßwaren auf Stärkebasis\\
 Ohne Zuckerzusatz hergestellte, sehr kleine Süßwaren zur Erfrischung des Atems\\
 Stark aromatisierte Rachenerfrischungspastillen ohne Zuckerzusatz\\
@@ -7224,11 +7224,11 @@ Nahrungsergänzungsmittel auf Vitamin- und/oder Mineralstoffbasis in Form von Si
 
 2 mg/l
 
-
+ 
 
 2 mg/l
 
-
+ 
 
 2 mg/l
 
@@ -7236,35 +7236,35 @@ Nahrungsergänzungsmittel auf Vitamin- und/oder Mineralstoffbasis in Form von Si
 
 3 mg/kg
 
-
-
-3 mg/kg
-
-
+ 
 
 3 mg/kg
 
+ 
+
 3 mg/kg
 
+3 mg/kg
 
-
-2 mg/kg
-
-2 mg/kg
+ 
 
 2 mg/kg
 
 2 mg/kg
 
+2 mg/kg
 
+2 mg/kg
+
+ 
 
 2 mg/kg\\
 
-E 999 
+E 999  
 
-Quillajaextrakt 
+Quillajaextrakt  
 
-
+ 
 
 Nichtalkoholische, aromatisierte Getränke auf Wasserbasis;\\
 Cider (ausgenommen cidre bouche)
@@ -7273,7 +7273,7 @@ Cider (ausgenommen cidre bouche)
 )\\
 )
 
-200 mg/l, berechnet als wasserfreier Extrakt 
+200 mg/l, berechnet als wasserfreier Extrakt  
 
 E 1201
 
@@ -7303,13 +7303,13 @@ E 1204
 
 Pullulan
 
-
+ 
 
 Nahrungsergänzungsmittel in Form von Kapseln, Tabletten oder Dragees
 
 qs
 
-
+ 
 
 Sehr kleine Süßwaren zur Erfrischung des Atems in Form dünner Blättchen
 
@@ -7319,7 +7319,7 @@ E 1452
 
 Stärkealuminiumoctenylsuccinat
 
-
+ 
 
 Eingekapselte Vitaminzubereitungen in Nahrungsergänzungsmitteln
 
@@ -7329,7 +7329,7 @@ E 1505
 
 Triethylcitrat
 
-
+ 
 
 Nahrungsergänzungsmittel in Form von Kapseln oder Tabletten\\
 Eiklarpulver
@@ -7342,7 +7342,7 @@ E 1505
 
 Triethylcitrat
 
-
+ 
 
 Aromen
 
@@ -7352,43 +7352,43 @@ E 1517
 
 Glycerindiacetat (Diacetin)
 
+ 
 
-
-
+ 
 
 E 1520
 
 1,2-Propandiol (Propylenglykol)
 
+ 
 
-
-
+ 
 
 E 1519
 
 Benzylalkohol
 
-
+ 
 
 Aromen für
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 - Liköre, aromatisierte Weine, aromatisierte Getränke auf Weinbasis, aromatisierte Weinerzeugnisse, Cocktails
 
 100 mg/l aus allen Quellen in verzehrfertigen oder nach Anweisung des Herstellers rekonstituierten Lebensmitteln
 
+ 
 
+ 
 
-
-
-
+ 
 
 - Süßwaren, einschließlich Schokolade, und Feine Backwaren
 
@@ -7398,7 +7398,7 @@ E 1518
 
 Glycerintriacetat (Triacetin)
 
-
+ 
 
 Kaugummi
 
@@ -7410,9 +7410,9 @@ Aluminiumoxid
 
 )
 
+ 
 
-
-
+ 
 
 -
 
@@ -7420,9 +7420,9 @@ Butadien-Styrol-Copolymerisate
 
 )
 
+ 
 
-
-
+ 
 
 -
 
@@ -7430,9 +7430,9 @@ Gutta
 
 )
 
+ 
 
-
-
+ 
 
 -
 
@@ -7440,9 +7440,9 @@ Isobutylen-Isopren-Copolymerisate
 
 )
 
+ 
 
-
-
+ 
 
 -
 
@@ -7450,9 +7450,9 @@ Kautschuk
 
 )
 
+ 
 
-
-
+ 
 
 -
 
@@ -7460,9 +7460,9 @@ Mastix
 
 )
 
+ 
 
-
-
+ 
 
 -
 
@@ -7470,9 +7470,9 @@ Mikrokristalline
 
 )
 
+ 
 
-
-
+ 
 
 -
 
@@ -7490,9 +7490,9 @@ Kolophonester
 
 )
 
+ 
 
-
-
+ 
 
 -
 
@@ -7500,9 +7500,9 @@ Paraffine
 
 )
 
+ 
 
-
-
+ 
 
 -
 
@@ -7510,9 +7510,9 @@ Polyethylen
 
 )
 
+ 
 
-
-
+ 
 
 -
 
@@ -7520,9 +7520,9 @@ Polyisobutylen
 
 )
 
+ 
 
-
-
+ 
 
 -
 
@@ -7530,15 +7530,15 @@ Polyvinylester der unverzweigten Fettsäuren C(tief)2 bis C(tief)18
 
 )
 
+ 
 
-
-
+ 
 
 E 1521
 
 Polyethylenglykol
 
-
+ 
 
 Nahrungsergänzungsmittel in Form von Kapseln oder Tabletten
 
@@ -7550,9 +7550,9 @@ Propan-1,2-diol (Propylenglykol)
 
 )
 
+ 
 
-
-
+ 
 
 -
 
@@ -7560,9 +7560,9 @@ Wachsester
 
 )
 
+ 
 
-
-
+ 
 
 -
 
@@ -7570,15 +7570,15 @@ Wollwachs
 
 )
 
+ 
 
-
-
+ 
 
 -
 
 Cystin (zur Veränderung der Klebereigenschaften)
 
-
+ 
 
 Weizenmahlerzeugnisse für Brot einschließlich Kleingebäck
 
@@ -8767,7 +8767,7 @@ Kaliumlactat
 
 )
 
-
+ 
 
 E 330
 
@@ -9153,7 +9153,7 @@ E 406
 
 Agar-Agar
 
-
+ 
 
 \\
 \\
@@ -9173,115 +9173,115 @@ E 407
 
 Carrageen
 
-
+ 
 
 E 410
 
 Johannisbrotkernmehl
 
-
+ 
 
 E 412
 
 Guarkernmehl
 
-
+ 
 
 E 415
 
 Xanthan
 
-
+ 
 
 E 440
 
 Pektine
 
-
+ 
 
 E 460
 
 Cellulose
 
-
+ 
 
 E 466
 
 Carboxymethylcellulose
 
-
+ 
 
 E 471
 
 Mono- und Diglyceride von Speisefettsäuren
 
-
+ 
 
 E 1404
 
 Oxidierte Stärke
 
-
+ 
 
 E 1410
 
 Monostärkephosphat
 
-
+ 
 
 E 1412
 
 Distärkephosphat
 
-
+ 
 
 E 1413
 
 Phosphatiertes Distärkephosphat
 
-
+ 
 
 E 1414
 
 Acetyliertes Distärkephosphat
 
-
+ 
 
 E 1420
 
 Acetylierte Stärke
 
-
+ 
 
 E 1422
 
 Acetyliertes Distärkeadipat
 
-
+ 
 
 E 1440
 
 Hydroxypropylstärke
 
-
+ 
 
 E 1442
 
 Hydroxypropyldistärkephosphat
 
-
+ 
 
 E 1450
 
 Stärkenatriumoctenylsuccinat
 
-
+ 
 
 E 1451
 
 Acetylierte oxidierte Stärke
 
-
+ 
 
 - *) :: Kakao- und Schokoladenerzeugnisse mit verringertem Energiegehalt oder ohne Zuckerzusatz fallen nicht unter Anhang 4 Teil C.
 
@@ -9401,55 +9401,55 @@ Nichtalkoholische, aromatisierte Getränke (ausgenommen Getränke auf Milchbasis
 
 150
 
-
+ 
 
 250 Ss + 150 Bs
 
+ 
 
-
-
+ 
 
 Teekonzentrate; Früchte- oder Kräuterteekonzentrate (Flüssigkeit)
 
+ 
 
+ 
 
-
-
-
+ 
 
 600
 
+ 
 
-
-
+ 
 
 Traubensaft, unvergoren, zur sakramentalen Verwendung
 
+ 
 
+ 
 
-
-
-
+ 
 
 2 000
 
+ 
 
-
-
+ 
 
 Obst-/Fruchtwein (auch alkoholfrei); Made wine
 
 200
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 Sod...saft oder Sodet...saft
 
@@ -9457,41 +9457,41 @@ Sod...saft oder Sodet...saft
 
 200
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 Alkoholfreies Bier im Fass
 
-
+ 
 
 200
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 Met
 
 200
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 Spirituosen mit weniger als 15 Vol.-% Alkohol
 
@@ -9499,69 +9499,69 @@ Spirituosen mit weniger als 15 Vol.-% Alkohol
 
 200
 
-
+ 
 
 400
 
+ 
 
-
-
+ 
 
 Füllungen von Ravioli und ähnlichen Erzeugnissen
 
 1 000
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 Zuckerarme Konfitüren, Gelees, Marmeladen sowie ähnliche Erzeugnisse mit reduziertem Brennwert oder zuckerfrei und andere Aufstriche auf Früchtebasis; Mermeladas
 
-
+ 
 
 500
 
-
+ 
 
 1 000
 
+ 
 
-
-
+ 
 
 Kandiertes, kristallisiertes oder glasiertes Obst und Gemüse
 
+ 
 
+ 
 
-
-
-
+ 
 
 1 000
 
+ 
 
-
-
+ 
 
 Trockenfrüchte
 
 1 000
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 Frugtgrod oder Rote Grütze
 
@@ -9569,83 +9569,83 @@ Frugtgrod oder Rote Grütze
 
 500
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 Früchte- oder Gemüsezubereitungen, einschließlich Saucen auf Früchtebasis (ausgenommen Konserven von Mark, Mousse, Kompott, Salaten und ähnlichen Erzeugnissen)
 
 1 000
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 Gemüse in Essig, Lake oder Öl (ausgenommen Oliven)
 
+ 
 
+ 
 
-
-
-
+ 
 
 2 000
 
+ 
 
-
-
+ 
 
 Kartoffelteig oder vorgebackene Kartoffeln, geschnitten
 
 2 000
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 Gnocchi
 
 1 000
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 Polenta
 
 200
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 Oliven oder Zubereitungen auf Olivenbasis
 
@@ -9653,335 +9653,335 @@ Oliven oder Zubereitungen auf Olivenbasis
 
 500
 
-
+ 
 
 1 000
 
+ 
 
-
-
+ 
 
 Geleeüberzug von gekochten, gepökelten oder getrockneten Fleischerzeugnissen; Pasteten
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 1 000
 
-
+ 
 
 Oberflächenbehandlung von getrockneten Fleischerzeugnissen
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 qs
 
 Teilweise haltbar gemachte Fischerzeugnisse, einschließlich Fischrogenerzeugnisse
 
+ 
 
+ 
 
-
-
-
+ 
 
 2 000
 
+ 
 
-
-
+ 
 
 Gesalzener, getrockneter Fisch
 
+ 
 
+ 
 
-
-
-
+ 
 
 200
 
+ 
 
-
-
+ 
 
 Crangon crangon und Crangon vulgaris, gekocht
 
+ 
 
+ 
 
-
-
-
+ 
 
 6 000
 
+ 
 
-
-
+ 
 
 Abgepackter und geschnittener Käse
 
 1 000
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 Nicht reifender Käse
 
 1 000
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 Schmelzkäse
 
 2 000
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 Schichtkäse und Käse mit beigegebenen Lebensmitteln
 
 1 000
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 Nicht hitzebehandelte Dessertspeisen auf Milchbasis
 
+ 
 
+ 
 
-
-
-
+ 
 
 300
 
+ 
 
-
-
+ 
 
 Dickgelegte Milch
 
 1 000
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 Flüssigei (Eiklar, Eigelb oder Vollei)
 
+ 
 
+ 
 
-
-
-
+ 
 
 5 000
 
+ 
 
-
-
+ 
 
 Eiprodukte, getrocknet, konzentriert, gefroren oder tiefgefroren
 
 1 000
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 Abgepacktes und geschnittenes Brot und Roggenbrot
 
 2 000
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 Vorgebackene und abgepackte Backwaren und brennwertvermindertes Brot für den Einzelhandel
 
 2 000
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 Feine Backwaren mit einer Wasseraktivität von mehr als 0,65
 
 2 000
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 Knabbererzeugnisse auf Getreide- oder Kartoffelbasis sowie überzogene Nüsse
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 1 000 (davon 300 PHB max.)
 
-
+ 
 
 Rührteig; Panaden
 
 2 000
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 Süßwaren (außer Schokolade)
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 1 500 (davon 300 PHB max.)
 
 Kaugummi
 
+ 
 
+ 
 
-
-
-
+ 
 
 1 500
 
+ 
 
-
-
+ 
 
 Überzüge, Toppings (Sirup für Pfannkuchen, aromatisierter Sirup für Milchmischgetränke und Speiseeis; ähnliche Erzeugnisse)
 
 1 000
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 Fettemulsionen (ausgenommen Butter) mit einem Fettgehalt von 60% oder mehr
 
 1 000
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 Fettemulsionen mit einem Fettgehalt von weniger als 60%
 
 2 000
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 Emulgierte Saucen mit einem Fettgehalt von 60% oder mehr
 
@@ -9989,13 +9989,13 @@ Emulgierte Saucen mit einem Fettgehalt von 60% oder mehr
 
 500
 
-
+ 
 
 1 000
 
+ 
 
-
-
+ 
 
 Emulgierte Saucen mit mit einem Fettgehalt von weniger als 60%
 
@@ -10003,83 +10003,83 @@ Emulgierte Saucen mit mit einem Fettgehalt von weniger als 60%
 
 1 000
 
-
+ 
 
 2 000
 
+ 
 
-
-
+ 
 
 Nicht emulgierte Saucen
 
+ 
 
+ 
 
-
-
-
+ 
 
 1 000
 
+ 
 
-
-
+ 
 
 Feinkostsalate
 
+ 
 
+ 
 
-
-
-
+ 
 
 1 500
 
+ 
 
-
-
+ 
 
 Senf
 
+ 
 
+ 
 
-
-
-
+ 
 
 1 000
 
+ 
 
-
-
+ 
 
 Würzmittel
 
+ 
 
+ 
 
-
-
-
+ 
 
 1 000
 
+ 
 
-
-
+ 
 
 Flüssige Suppen und Brühen (außer in Dosen)
 
+ 
 
+ 
 
-
-
-
+ 
 
 500
 
+ 
 
-
-
+ 
 
 Aspik
 
@@ -10087,69 +10087,69 @@ Aspik
 
 500
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 Diätische Lebensmittel für besondere medizinische Zwecke; Diätnahrung, die als Mahlzeit oder Tagesration für Übergewichtige bestimmt ist
 
+ 
 
+ 
 
-
-
-
+ 
 
 1 500
 
+ 
 
-
-
+ 
 
 Flüssige Tafelsüßen mit einem Wassergehalt von mehr als 75 vom Hundert
 
 500
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 Pektinlösungen zur Behandlung von Trockenobst einschließlich Weinbeeren
 
 10 000
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 Flüssige Enzymzubereitungen:
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
+ 
 
 Lab und Labaustauscher
 
@@ -10159,11 +10159,11 @@ Lab und Labaustauscher
 
 10 000
 
+ 
 
+ 
 
-
-
-
+ 
 
 andere Enzyme
 
@@ -10173,11 +10173,11 @@ andere Enzyme
 
 5 000
 
+ 
 
+ 
 
-
-
-
+ 
 
 ...Mehu und Makeutettu ...Mehu
 
@@ -10185,143 +10185,143 @@ andere Enzyme
 
 200
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 Fleisch-, Fisch-, Krebstier- und Kopffüßeranaloge und Käse auf der Grundlage von Eiweiß
 
 2 000
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 Dulce de membrillo
 
-
+ 
 
 1 000
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 Marmelada
 
+ 
 
+ 
 
-
-
-
+ 
 
 1 500
 
+ 
 
-
-
+ 
 
 Ostkaka
 
 2 000
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 Pasha
 
 1 000
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 Semmelknödelteig
 
 2 000
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 Käse und Käseanaloge (nur Oberflächenbehandlung)
 
 qs
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 Gekochte rote Rüben
 
-
+ 
 
 2 000
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 Häute auf Kollagenbasis mit einer Wasseraktivität von mehr als 0,6
 
 qs
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 Eiermalfarbe
 
-
+ 
 
 4 000
 
@@ -10329,51 +10329,51 @@ Eiermalfarbe
 
 5 000
 
+ 
 
-
-
+ 
 
 Krebstiere und Weichtiere, gekocht
 
-
+ 
 
 1 000
 
-
+ 
 
 2 000
 
+ 
 
-
-
+ 
 
 Nahrungsergänzungsmittel in flüssiger Form
 
+ 
 
+ 
 
-
-
-
+ 
 
 2 000
 
+ 
 
-
-
+ 
 
 Aromen
 
+ 
 
+ 
 
-
-
-
+ 
 
 1 500
 
+ 
 
-
-
+ 
 
 Fischerzeugnis-Imitate auf Algenbasis
 
@@ -10381,13 +10381,13 @@ Fischerzeugnis-Imitate auf Algenbasis
 
 500
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 Bier im Fass, das mehr als 0,5 % vergärbaren Zucker und/oder Fruchtsäfte oder Fruchtsaftkonzentrate enthält
 
@@ -10395,43 +10395,43 @@ Bier im Fass, das mehr als 0,5 % vergärbaren Zucker und/oder Fruchtsäfte oder 
 
 200
 
-
+ 
 
 400
 
+ 
 
-
-
+ 
 
 Ungeschälte frische Zitrusfrüchte (nur Oberflächenbehandlung)
 
 20
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 Nahrungsergänzungsmittel in trockener Form, die Zubereitungen von Vitamin A oder von Kombinationen aus Vitamin A und D enthalten
 
+ 
 
+ 
 
-
-
-
+ 
 
 1 000\\
 im verzehrfertigen\\
 Erzeugnis
 
+ 
 
-
-
+ 
 
 - <<FnA1-BJNR023100998BJNE001503310_001>>[[#FnR.FnA1-BJNR023100998BJNE001503310_001][1)]] :: Ss + Bs: Ss und Bs einzeln oder in Kombination verwendet.
 - <<FnA1-BJNR023100998BJNE001503310_002>>[[#FnR.FnA1-BJNR023100998BJNE001503310_002][2)]] :: Ss + PHB: Ss und PHB einzeln oder in Kombination verwendet.
@@ -10461,7 +10461,7 @@ Zulassungen<<FnR.FnA2-BJNR023100998BJNE001503310_004>>[[#FnA2-BJNR023100998BJNE0
 
 Lebensmittel
 
-Höchstmenge (mg/kg bzw. mg/l), berechnet als SO
+Höchstmenge (mg/kg bzw. mg/l), berechnet als SO²
 
 1
 
@@ -10485,7 +10485,7 @@ Getrocknete und gesalzene Dorschfische (Gadidae)
 
 Krebstiere und Kopffüßer;
 
-
+ 
 
 in den\\
 essbaren\\
@@ -10498,7 +10498,7 @@ Teilen
 -- Krebstiere der Familien Penaeidae,\\
 Solenoceridae, Aristaeidae:
 
-
+ 
 
 -- weniger als 80 Einheiten
 
@@ -10515,7 +10515,7 @@ Solenoceridae, Aristaeidae:
 \\
 Krebstiere und Kopffüßer:
 
-
+ 
 
 -- gekocht
 
@@ -10523,7 +10523,7 @@ Krebstiere und Kopffüßer:
 
 -- gekochte Krebstiere der Familien Penaeidae, Solenoceridae, Aristaeidae:
 
-
+ 
 
 -- weniger als 80 Einheiten
 
@@ -10615,7 +10615,7 @@ Trockenpilze
 
 Trockenfrüchte
 
-
+ 
 
 -
 
@@ -10845,7 +10845,7 @@ Fleischerzeugnisse
 
 150
 
-
+ 
 
 E 250
 
@@ -10856,60 +10856,60 @@ Sterilisierte Fleischerzeugnisse\\
 
 100
 
-
+ 
 
 Traditionelle nassgepökelte Fleisch-\\
 erzeugnisse (1):
 
+ 
 
-
-
+ 
 
 Wiltshire bacon(1.1);\\
 Entremeada entrecosto, chispe, orelheira e cabeça (salgados), Toucinho fumado(1.2)\\
 und ähnliche Erzeugnisse
 
-
+ 
 
 175
 
+ 
 
-
-
+ 
 
 Wiltshire ham (1.1)\\
 und ähnliche Erzeugnisse
 
-
+ 
 
 100
 
+ 
 
-
-
+ 
 
 Rohschinken nassgepökelt (1.6) und ähnliche Erzeugnisse
 
-
+ 
 
 50
 
 Cured tongue (1.3)
 
-
+ 
 
 50
 
 Traditionelle trockengepökelte Fleischerzeugnisse (2):
 
+ 
 
-
-
+ 
 
 Dry cured bacon (2.1)\\
 und ähnliche Erzeugnisse
 
-
+ 
 
 175
 
@@ -10920,29 +10920,29 @@ Jamón curado, paleta curada, lomo embuchado y cecina (2.2)
 
 Presunto, presunto da pá und paio do lombo (2.3) und ähnliche Erzeugnisse
 
+ 
 
-
-
+ 
 
 Rohschinken trockengepökelt (2.5) und ähnliche Erzeugnisse
 
-
+ 
 
 50
 
+ 
 
-
-
+ 
 
 Andere traditionell gepökelte Fleischerzeugnisse (3):
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 Vysočina\\
 Selský salám\\
@@ -10956,28 +10956,28 @@ und ähnliche Erzeugnisse
 
 180
 
+ 
 
+ 
 
-
-
-
+ 
 
 Rohschinken\\
 trocken-/nassgepökelt (3.1) und ähnliche Erzeugnisse\\
 Jellied veal and brisket (3.2)
 
-
+ 
 
 50
 
 \\
 \\
 
+ 
 
+ 
 
-
-
-
+ 
 
 Verwendete Höchstmenge\\
 (berechnet als NaNO_{3}) mg/kg
@@ -10996,28 +10996,28 @@ Fleischerzeugnisse
 
 150
 
-
+ 
 
 Traditionelle nassgepökelte Fleischerzeugnisse (1):
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 Kylmäsavustettu poronliha\\
 Kallrökt renkött (1.4)
 
 300
 
+ 
 
+ 
 
-
-
-
+ 
 
 Wiltshire bacon und\\
 Wiltshire ham (1.1);\\
@@ -11028,45 +11028,45 @@ Toucinho fumado (1.2)\\
 Rohschinken nassgepökelt (1.6)\\
 und ähnliche Erzeugnisse
 
-
+ 
 
 250
 
+ 
 
-
-
+ 
 
 Bacon, Filet de bacon (1.5); und ähnliche Erzeugnisse
 
-
+ 
 
 250\\
 (ohne Zusatz von E 249\\
 oder E 250)
 
+ 
 
-
-
+ 
 
 Cured tongue (1.3)
 
-
+ 
 
 10
 
+ 
 
-
-
+ 
 
 Traditionelle trockengepökelte Fleischerzeugnisse (2):
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 Dry cured bacon and Dry cured ham (2.1);\\
 Jamón curado, paleta curada, lomo embuchado y cecina (2.2)\\
@@ -11074,35 +11074,35 @@ Presunto, presunto da pá und paio do lombo (2.3);\\
 Rohschinken trockengepökelt (2.5)\\
 und ähnliche Erzeugnisse
 
-
+ 
 
 250
 
+ 
 
-
-
+ 
 
 Jambon sec, jambon sel sec et autres piêces maturées séchées similaires (2.4)
 
-
+ 
 
 250\\
 (ohne Zusatz von E 249\\
 oder E 250)
 
+ 
 
-
-
+ 
 
 Andere traditionell gepökelte Fleischerzeugnisse (3):
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 Rohwürste\\
 (Salami und Kantwurst) (3.3)
@@ -11111,23 +11111,23 @@ Rohwürste\\
 (ohne Zusatz von E 249\\
 oder E 250)
 
+ 
 
+ 
 
-
-
-
+ 
 
 Rohschinken\\
 trocken-/nassgepökelt (3.1)\\
 und ähnliche Erzeugnisse
 
-
+ 
 
 250
 
+ 
 
-
-
+ 
 
 Salchichón y chorizo tradicionales de larga curanción (3.4);\\
 Saucissons secs (3.6)\\
@@ -11137,21 +11137,21 @@ und ähnliche Erzeugnisse
 (ohne Zusatz von E 249\\
 oder E 250)
 
+ 
 
+ 
 
-
-
-
+ 
 
 Jellied veal and brisket (3.2)
 
-
+ 
 
 10
 
+ 
 
-
-
+ 
 
 Hartkäse, halbfester Schnittkäse und Schnittkäse
 
@@ -11159,23 +11159,23 @@ Hartkäse, halbfester Schnittkäse und Schnittkäse
 (in der Käsereimilch oder gleichwertige Menge\\
 bei Zusatz nach Entzug von Molke und Zusatz von Wasser)
 
+ 
 
+ 
 
-
-
-
+ 
 
 Käseanaloge auf Milchbasis
 
+ 
 
-
-
+ 
 
 Eingelegte Heringe und Sprotten
 
 500
 
-
+ 
 
 - <<FnA3-f770809_11>>[[#FnR.FnA3-f770809_11][1)]] :: Zusatz zu Lebensmitteln nur als Nitritpökelsalz.
 - <<FnA3-f770809_12>>[[#FnR.FnA3-f770809_12][2)]] :: Fo-Wert 3 entspricht 3 Minuten Erhitzung auf 121°C (Verminderung der Bakterienlast von einer Milliarde Sporen je 1 000 Dosen auf eine Spore in 1 000 Dosen).
@@ -11242,9 +11242,9 @@ Natriumorthophenylphenol\\
 
 )
 
+ 
 
-
-
+ 
 
 berechnet als Orthophenylphenol
 
@@ -11252,7 +11252,7 @@ E 234
 
 Nisin
 
-
+ 
 
 Grieß- und Tapiokapudding und ähnliche Erzeugnisse\\
 Gereifter Käse und Schmelzkäse\\
@@ -11262,43 +11262,43 @@ Pasteurisiertes Flüssigei (Eiklar, Eigelb oder Vollei)
 
 3 mg/kg
 
+ 
 
+ 
 
-
-
-
+ 
 
 12,5 mg/kg
 
+ 
 
+ 
 
-
-
-
-
-10 mg/kg
-
-
-
-
-
-
+ 
 
 10 mg/kg
 
+ 
 
+ 
 
+ 
 
+10 mg/kg 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
+ 
 
 6,25 mg/l
 
@@ -11315,7 +11315,7 @@ E 239
 
 Hexamethylentetramin
 
-
+ 
 
 Provolone-Käse
 
@@ -11329,7 +11329,7 @@ Propionsäure
 
 Abgepacktes und geschnittenes Brot und Roggenbrot
 
-
+ 
 
 E 281
 
@@ -11337,7 +11337,7 @@ Natriumpropionat
 
 )
 
-
+ 
 
 E 282
 
@@ -11345,7 +11345,7 @@ Calciumpropionat
 
 )
 
-
+ 
 
 E 283
 
@@ -11359,23 +11359,23 @@ Brot mit reduziertem Energiegehalt; Vorgebackenes und abgepacktes Brot; Abgepack
 
 2 000 mg/kg
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
-
-
+ 
 
 Christmas pudding; Abgepacktes Brot
 
@@ -11383,57 +11383,57 @@ Christmas pudding; Abgepacktes Brot
 
 1 000 mg/kg
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
-
-
+ 
 
 Polsebrod, boller und dansk flutes, vorverpackt Käse oder Käseanaloge (nur zur Oberflächenbehandlung)
 
 2 000 mg/kg
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
+ 
 
 qs
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
+ 
 
 jeweils berechnet als Propionsäure
 
@@ -11454,9 +11454,9 @@ Natriumtetraborat\\
 
 )
 
+ 
 
-
-
+ 
 
 berechnet als Borsäure
 
@@ -11464,7 +11464,7 @@ E 1105
 
 Lysozym
 
-
+ 
 
 Gereifter Käse
 
@@ -11506,7 +11506,7 @@ E 311
 
 Octylgallat
 
-
+ 
 
 100[[#FnA4-f770809_02][*)]]} (BHT)
 
@@ -11516,7 +11516,7 @@ Dodecylgallat
 
 Bratöl und -fett, außer Oliventresteröl
 
-
+ 
 
 E 319
 
@@ -11549,42 +11549,42 @@ Vorgekochte Getreidekost
 
 jeweils auf den Fettgehalt bezogen
 
+ 
 
-
-
+ 
 
 Würzmittel
 
 200 (Gallate und BHA, einzeln oder in Kombination) auf den Fettgehalt bezogen
 
+ 
 
-
-
+ 
 
 Trockenkartoffeln
 
 25 (Gallate, TBHQ und BHA, einzeln oder in Kombination)
 
+ 
 
-
-
+ 
 
 Kaugummi\\
 Nahrungsergänzungsmittel
 
 400 (Gallate, TBHQ, BHT und BHA, einzeln oder in Kombination)
 
+ 
 
-
-
+ 
 
 Etherische Öle
 
 1 000 (Gallate, TBHQ und BHA, einzeln oder in Kombination)
 
+ 
 
-
-
+ 
 
 Andere Aromen als etherische Öle
 
@@ -11601,17 +11601,17 @@ haltbar gemachte Fleischerzeugnisse
 
 500
 
+ 
 
-
-
+ 
 
 Haltbar gemachte oder teilweise haltbar gemachte Fischerzeugnisse
 
 1 500
 
+ 
 
-
-
+ 
 
 Fisch mit roter Haut, gefroren oder tiefgefroren
 
@@ -11627,44 +11627,44 @@ Pflanzenöle (ausgenommen natives Öl und Olivenöl) und Fett, sofern der Gehalt
 30 mg/kg\\
 (ausgedrückt als Summe aus Carnosol und Carnosolsäure) auf den Fettgehalt bezogen
 
-
+ 
 
 Fischöle und Algenöl
 
 50 mg/kg\\
 (ausgedrückt als Summe aus Carnosol und Carnosolsäure) auf den Fettgehalt bezogen
 
-
+ 
 
 Schmalz, Rinder-, Geflügel-, Schaf- und Schweinefett\\
 Fette und Öle für die gewerbliche Herstellung von wärmebehandelten Lebensmitteln\\
 Bratöl und -fett, außer Olivenöl und Oliventresteröl\\
 Knabbererzeugnisse (Snacks auf Getreide-, Kartoffel- oder Stärkebasis)
 
+ 
 
-
-
+ 
 
 Saucen
 
 100 mg/kg\\
 (ausgedrückt als Summe aus Carnosol und Carnosolsäure) auf den Fettgehalt bezogen
 
-
+ 
 
 Feine Backwaren
 
 200 mg/kg\\
 (ausgedrückt als Summe aus Carnosol und Carnosolsäure) auf den Fettgehalt bezogen
 
-
+ 
 
 Nahrungsergänzungsmittel
 
 400 mg/kg\\
 (ausgedrückt als Summe aus Carnosol und Carnosolsäure)
 
-
+ 
 
 Trockenkartoffeln\\
 Eierzeugnisse\\
@@ -11673,7 +11673,7 @@ Kaugummi
 200 mg/kg\\
 (ausgedrückt als Summe aus Carnosol und Carnosolsäure)
 
-
+ 
 
 Milchpulver für Verkaufsautomaten\\
 Würzmittel\\
@@ -11682,42 +11682,42 @@ Verarbeitete Nüsse
 200 mg/kg\\
 (ausgedrückt als Summe aus Carnosol und Carnosolsäure) auf den Fettgehalt bezogen
 
-
+ 
 
 Trockensuppen und -brühen
 
 50 mg/kg\\
 (ausgedrückt als Summe aus Carnosol und Carnosolsäure)
 
-
+ 
 
 Trockenfleisch
 
 150 mg/kg\\
 (ausgedrückt als Summe aus Carnosol und Carnosolsäure)
 
-
+ 
 
 Fleisch- und Fischerzeugnisse, außer Trockenfleisch und getrockneter Wurst
 
 150 mg/kg\\
 (ausgedrückt als Summe aus Carnosol und Carnosolsäure) auf den Fettgehalt bezogen
 
-
+ 
 
 Getrocknete Wurst
 
 100 mg/kg\\
 (ausgedrückt als Summe aus Carnosol und Carnosolsäure)
 
-
+ 
 
 Aromen
 
 1 000 mg/kg\\
 (ausgedrückt als Summe aus Carnosol und Carnosolsäure)
 
-
+ 
 
 Trockenmilch zur Herstellung von Speiseeis
 
@@ -11789,7 +11789,7 @@ Stark tocopherolhaltige Extrakte
 
 )
 
-
+ 
 
 E 307
 
@@ -11805,7 +11805,7 @@ Gamma-Tocopherol
 
 )
 
-
+ 
 
 E 309
 
@@ -11813,7 +11813,7 @@ Delta-Tocopherol
 
 )
 
-
+ 
 
 E 322
 
@@ -11895,9 +11895,9 @@ in Erzeugnissen, die hydrolysierte Eiweiße, Peptide oder Aminosäuren enthalten
 
 - 1) :: Wird einem Lebensmittel mehr als einer der Stoffe E 322, E 471, E 472c und E 473 zugesetzt, so sind bei jedem dieser Stoffe von der für dieses Lebensmittel festgesetzten Höchstmenge die Mengen abzuziehen, in der die jeweils anderen Stoffe in diesem Lebensmittel vorhanden sind.
 
+ 
 
-
-
+ 
 
 Teil C\\
 In Säuglingsfolgenahrung zugelassene Zusatzstoffe
@@ -11938,7 +11938,7 @@ Stark tocopherolhaltige Extrakte
 
 )
 
-
+ 
 
 E 307
 
@@ -11954,7 +11954,7 @@ Gamma-Tocopherol
 
 )
 
-
+ 
 
 E 309
 
@@ -11962,7 +11962,7 @@ Delta-Tocopherol
 
 )
 
-
+ 
 
 E 331
 
@@ -12061,9 +12061,9 @@ in Erzeugnissen mit hydrolysierten Eiweißstoffen, Peptiden oder Aminosäuren 1)
 - 1) :: Wird einem Lebensmittel mehr als einer der Stoffe E 322, E 471, E 472c und E 473 zugesetzt, so sind bei jedem dieser Stoffe von der für dieses Lebensmittel festgesetzten Höchstmenge die Mengen abzuziehen, in der die jeweils anderen Stoffe in diesem Lebensmittel vorhanden sind.
 - 2) :: Wird einem Lebensmittel mehr als einer der Stoffe E 407, E 410 und E 412 zugesetzt, so ist bei jedem dieser Stoffe von der für dieses Lebensmittel festgesetzten Höchstmenge die Menge abzuziehen, in der die jeweils anderen Stoffe in diesem Lebensmittel vorhanden sind.
 
+ 
 
-
-
+ 
 
 Teil D\\
 In Getreidebeikost und andere Beikost für Säuglinge und Kleinkinder zugelassene Zusatzstoffe
@@ -12090,11 +12090,11 @@ Calciumcarbonat
 
 )
 
+ 
 
+ 
 
-
-
-
+ 
 
 E 260
 
@@ -12224,7 +12224,7 @@ Natriumcarbonate
 
 Getreidebeikost und andere Beikost
 
-
+ 
 
 E 501
 
@@ -12240,7 +12240,7 @@ Ammoniumcarbonate
 
 )
 
-
+ 
 
 E 300
 
@@ -12248,7 +12248,7 @@ Ascorbinsäure
 
 )
 
-
+ 
 
 Getränke, Säfte oder Babynahrung auf Obst- und Gemüsebasis
 
@@ -12266,19 +12266,19 @@ Calciumascorbat
 
 )
 
+ 
 
-
-
+ 
 
 Fetthaltige Lebensmittel auf Getreidebasis einschließlich Kekse und Zwieback
 
 0,2 g/kg
 
+ 
 
+ 
 
-
-
-
+ 
 
 berechnet als Ascorbinsäure
 
@@ -12288,7 +12288,7 @@ Fettsäureester der Ascorbinsäure
 
 )
 
-
+ 
 
 Fetthaltige Getreidekost; Kekse; Zwieback oder Babynahrung
 
@@ -12300,7 +12300,7 @@ Stark tocopherolhaltige Extrakte
 
 )
 
-
+ 
 
 E 307
 
@@ -12308,7 +12308,7 @@ Alpha-Tocopherol
 
 )
 
-
+ 
 
 E 308
 
@@ -12316,7 +12316,7 @@ Gamma-Tocopherol
 
 )
 
-
+ 
 
 E 309
 
@@ -12324,7 +12324,7 @@ Delta-Tocopherol
 
 )
 
-
+ 
 
 E 338
 
@@ -12341,9 +12341,9 @@ Natriumphosphate
 
 )
 
+ 
 
-
-
+ 
 
 \\
 1 g/kg, berechnet als P(tief)2O (tief)5
@@ -12376,7 +12376,7 @@ Mono- und Diglyceride von Speisefettsäuren
 
 )
 
-
+ 
 
 Kekse oder Zwieback; Lebensmittel auf Getreidebasis; Babynahrung
 
@@ -12406,11 +12406,11 @@ Alginsäure
 
 )
 
-
+ 
 
 Desserts; Pudding
 
-
+ 
 
 E 401
 
@@ -12432,7 +12432,7 @@ Calciumalginat
 
 )
 
-
+ 
 
 E 410
 
@@ -12440,7 +12440,7 @@ Johannisbrotkernmehl
 
 )
 
-
+ 
 
 Getreidebeikost und andere Beikost
 
@@ -12464,7 +12464,7 @@ Xanthan
 
 )
 
-
+ 
 
 Glutenfreie Lebensmittel auf Getreidebasis
 
@@ -12494,7 +12494,7 @@ nur in L(+)-Form
 
 )
 
-
+ 
 
 Kekse oder Zwieback
 
@@ -12540,13 +12540,13 @@ E 920
 
 L-Cystein
 
+ 
 
-
-
+ 
 
 )
 
-
+ 
 
 Kekse für Säuglinge und Kleinkinder
 
@@ -12558,11 +12558,11 @@ Oxidierte Stärke
 
 )
 
+ 
 
+ 
 
-
-
-
+ 
 
 E 1410
 
@@ -12636,7 +12636,7 @@ Getreidebeikost und andere Beikost
 
 - 1) :: Nicht zugelassen in Säuglings- und Kleinkindernahrung für besondere medizinische Zwecke.
 
-
+ 
 
 Teil E\\
 Zusatzstoffe, die in Säuglings- und Kleinkindernahrung für besondere medizinische Zwecke zugelassen sind 1)
@@ -12729,11 +12729,11 @@ Zitronensäureester von Mono- und Diglyceriden von Speisefettsäuren
 
 )
 
+ 
 
+ 
 
-
-
-
+ 
 
 ab Geburt
 
@@ -12741,7 +12741,7 @@ ab Geburt
 
 )
 
-
+ 
 
 E 473
 

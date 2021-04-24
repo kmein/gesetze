@@ -14,7 +14,7 @@ Inhaltsübersicht
 § 1 - Diplomstudium
 
 (1) Als fachspezifischer Vorbereitungsdienst für den gehobenen nichttechnischen Verwaltungsdienst des Bundes wird ein Vorbereitungsdienst für den Verwaltungsinformatikdienst eingerichtet.
-(2) Der Diplomstudiengang Verwaltungsinformatik“ an der Fachhochschule des Bundes für öffentliche Verwaltung (Fachhochschule) ist der Vorbereitungsdienst für den gehobenen Verwaltungsinformatikdienst des Bundes.
+(2) Der Diplomstudiengang „Verwaltungsinformatik“ an der Fachhochschule des Bundes für öffentliche Verwaltung (Fachhochschule) ist der Vorbereitungsdienst für den gehobenen Verwaltungsinformatikdienst des Bundes.
 
 § 2 - Ziele des Studiums
 
@@ -117,8 +117,8 @@ Die Prüfenden werden bestellt, sobald das Thema der Diplomarbeit ausgegeben wor
 § 13 - Zwischenprüfung
 
 (1) Das Grundstudium wird mit der Zwischenprüfung abgeschlossen. In der Zwischenprüfung haben die Studierenden nachzuweisen, dass sie einen Kenntnisstand erreicht haben, der eine erfolgreiche weitere Ausbildung erwarten lässt.
-(2) Die Zwischenprüfung besteht aus einer Klausur zur Modulgruppe Basisqualifikationen“ und drei weiteren Klausuren. Näheres legt die Fachhochschule im Modulhandbuch fest. Die Klausuraufgaben werden von der Dekanin oder dem Dekan am Zentralbereich aus den Vorschlägen ausgewählt, die die Lehrkräfte einreichen. § 15 gilt entsprechend.
-(3) Die Zwischenprüfung ist bestanden, wenn die Klausur zur Modulgruppe Basisqualifikationen“ und zwei weitere Klausuren mit mindestens fünf Rangpunkten bewertet worden sind und eine Durchschnittsrangpunktzahl von mindestens 5 erreicht worden ist.
+(2) Die Zwischenprüfung besteht aus einer Klausur zur Modulgruppe „Basisqualifikationen“ und drei weiteren Klausuren. Näheres legt die Fachhochschule im Modulhandbuch fest. Die Klausuraufgaben werden von der Dekanin oder dem Dekan am Zentralbereich aus den Vorschlägen ausgewählt, die die Lehrkräfte einreichen. § 15 gilt entsprechend.
+(3) Die Zwischenprüfung ist bestanden, wenn die Klausur zur Modulgruppe „Basisqualifikationen“ und zwei weitere Klausuren mit mindestens fünf Rangpunkten bewertet worden sind und eine Durchschnittsrangpunktzahl von mindestens 5 erreicht worden ist.
 (4) Das Prüfungsamt am Zentralbereich stellt den Studierenden über das Ergebnis der bestandenen Zwischenprüfung ein Zeugnis aus, das die Rangpunkte der einzelnen Klausuren sowie die Durchschnittsrangpunktzahl enthält. Wer die Zwischenprüfung nicht bestanden hat, erhält vom Prüfungsamt am Zentralbereich einen schriftlichen Bescheid, aus dem das Ergebnis der Zwischenprüfung und die absolvierten Module hervorgehen. § 26 Absatz 3 gilt entsprechend.
 
 § 14 - Modulprüfungen
@@ -315,7 +315,7 @@ Ist die Laufbahnprüfung bestanden, wird die Rangpunktzahl der Laufbahnprüfung 
 
 § 25 - Abschlusszeugnis
 
-(1) Wer die Laufbahnprüfung bestanden hat, erhält ein Abschlusszeugnis und eine Urkunde über die Verleihung des Diplomgrades Diplom-Verwaltungswirtin -- Schwerpunkt Verwaltungsinformatik (FH)“ oder Diplom-Verwaltungswirt -- Schwerpunkt Verwaltungsinformatik (FH)“. Auf Antrag stellt die Fachhochschule einen Nachweis über die Abschlussnote als Dezimalzahl nach dem Muster in der Anlage aus.
+(1) Wer die Laufbahnprüfung bestanden hat, erhält ein Abschlusszeugnis und eine Urkunde über die Verleihung des Diplomgrades „Diplom-Verwaltungswirtin -- Schwerpunkt Verwaltungsinformatik (FH)“ oder „Diplom-Verwaltungswirt -- Schwerpunkt Verwaltungsinformatik (FH)“. Auf Antrag stellt die Fachhochschule einen Nachweis über die Abschlussnote als Dezimalzahl nach dem Muster in der Anlage aus.
 (2) Das Abschlusszeugnis enthält:
 
 - 1. :: die Feststellung, dass die oder der Studierende die Laufbahnprüfung bestanden und die Befähigung für den gehobenen nichttechnischen Verwaltungsdienst des Bundes erlangt hat,

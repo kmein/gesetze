@@ -170,10 +170,10 @@ Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuf
 Entwickeln von Gestaltungskonzeptionen (§ 3 Nr. 5)
 a)
 Informationen zu Gestaltungskonzeptionen ermitteln und historische und zeitgenössische sowie kultur- und kunstgeschichtliche Bezüge zu den Anforderungen der Produktion herstellen
-
-
+ 
+ 
 8
-
+ 
 b)
 Produktionsanforderungen hinsichtlich gestalterischer und technischer Umsetzungsmöglichkeiten bewerten und Aufgabenverteilung mit den beteiligten Werkstätten abstimmen und festlegen
 c)
@@ -183,9 +183,9 @@ Vorbereiten und Handhaben von Werkzeugen und Geräten (§ 3 Nr. 6)
 a)
 Werkzeuge und Geräte auswählen
 2
-
-
-
+ 
+ 
+ 
 b)
 Werkzeuge und Geräte unter Beachtung der Hygiene reinigen und pflegen
 c)
@@ -195,9 +195,9 @@ Vorbereiten und Lagern von Werkzeugen und Hilfsstoffen (§ 3 Nr. 7)
 a)
 Werk- und Hilfsstoffe auswählen
 2
-
-
-
+ 
+ 
+ 
 b)
 Werk- und Hilfsstoffe vorbereiten
 c)
@@ -207,9 +207,9 @@ Planen und Kalkulieren von Arbeitsabläufen (§ 3 Nr. 8)
 a)
 Fundus sichten und Gegenstände auswählen
 2
-
-
-
+ 
+ 
+ 
 b)
 ergonomische Gesichtspunkte bei Planung und Durchführung der Arbeit beachten
 c)
@@ -218,16 +218,16 @@ d)
 fremd- und fachsprachliche Ausdrücke anwenden
 e)
 Skizzen und Entwürfe anfertigen
-
+ 
 5
-
-
+ 
+ 
 f)
 Arbeitstechniken unter Beachtung von Gestaltungsvorgaben, Kosten und Terminen festlegen
-
-
+ 
+ 
 6
-
+ 
 g)
 Art und Menge der Werk- und Hilfsstoffe ermitteln
 h)
@@ -240,10 +240,10 @@ Arbeiten mit den einzubeziehenden Werkstätten abstimmen
 Abstimmen von Farben(§ 3 Nr. 9)
 a)
 Farben nach der Kombinierbarkeit von Pigmenten, Lösungs-, Binde- und Verdünnungsmitteln auswählen
-
-
+ 
+ 
 6
-
+ 
 b)
 Farben mischen
 c)
@@ -253,9 +253,9 @@ Anfertigen von Perücken, Haarteilen und Körperbehaarungen (§ 3 Nr. 10)
 a)
 Darstellermaße und -haarfarben registrieren, insbesondere Maßkarten und Tabellen anlegen
 16
-
-
-
+ 
+ 
+ 
 b)
 Arbeitsköpfe auswählen, anfertigen und präparieren
 c)
@@ -285,9 +285,9 @@ Anfertigen von Glatzen (§ 3 Nr. 11)
 a)
 Arbeitsköpfe präparieren und Glatzenformen festlegen
 5
-
-
-
+ 
+ 
+ 
 b)
 Monturen, Vollglatzen und Glatzenteile anfertigen
 c)
@@ -296,10 +296,10 @@ d)
 Glatzen von Arbeitsköpfen ablösen
 e)
 Teilglatzen mit eingearbeiteten Befestigungspunkten herstellen
-
-
+ 
+ 
 6
-
+ 
 f)
 Haare durch Knüpfen, Kleben und Stechen befestigen
 12
@@ -307,9 +307,9 @@ Anfertigen von Masken und Körperteilen (§ 3 Nr. 12)
 a)
 unterschiedliche Formen modellieren
 5
-
-
-
+ 
+ 
+ 
 b)
 Körperteile und Köpfe abformen
 c)
@@ -320,15 +320,15 @@ e)
 Masken im Direktverfahren, insbesondere durch Wattieren, Kleben und Nähen, anfertigen
 f)
 Masken und Körperteile, insbesondere durch Strukturieren, Bemalen, Spritzen und Schminken, fertig stellen
-
+ 
 6
-
-
+ 
+ 
 g)
 Art der Beanspruchung ermitteln, Hygiene- und Gesundheitsschutzmaßnahmen festlegen
-
-
-
+ 
+ 
+ 
 12
 h)
 Masken im Hohlformverfahren anfertigen
@@ -338,9 +338,9 @@ Körperteile und Köpfe unter Beachtung der den Rollencharakter kennzeichnenden 
 Anfertigen von Spezialeffekten (§ 3 Nr. 13)
 a)
 trockene und frische Hautveränderungen sowie Aktionsverletzungen anfertigen
-
-
-
+ 
+ 
+ 
 10
 b)
 bewegliche, veränderbare und starre Deformationen anfertigen
@@ -351,18 +351,18 @@ Schminken (§ 3 Nr. 14)
 a)
 Haut, insbesondere unter Beachtung unterschiedlicher Hauttypen und Hautfarben, zum Schminken vorbereiten
 10
-
-
-
+ 
+ 
+ 
 b)
 Grundtechniken des Schminkens anwenden, insbesondere Licht und Schatten setzen
 c)
 Reinigungstechniken anwenden
 d)
 Haut unter Beachtung schminktechnischer Möglichkeiten und der Erfordernisse für Bühnen-, Foto-, Film- oder Fernsehproduktionen schminken
-
-
-
+ 
+ 
+ 
 10
 e)
 Phantasiemasken und plakative Masken sowie Tiermasken nach artentypischen Merkmalen gestalten
@@ -375,28 +375,28 @@ Gestalten von Frisuren mit Eigenhaar und Haarteilen (§ 3 Nr. 15)
 a)
 Haarlängen bestimmen
 10
-
-
-
+ 
+ 
+ 
 b)
 Schneidtechniken auswählen und anwenden
 c)
 Frisuren, insbesondere durch Wickeln, Wellen, Papillotiertechniken und Ondulation, gestalten
 d)
 Schling- und Stecktechniken anwenden
-
+ 
 12
-
-
+ 
+ 
 e)
 Frisuren unter Berücksichtigung Produktionsbezogener Anforderungen, insbesondere an die Haltbarkeit und Wiederauffrisierbarkeit, fertigstellen
 16
 Prüfen von Arbeitsergebnissen (§ 3 Nr. 16)
 a)
 Prüfkriterien festlegen und unter Beachtung von produktions-bezogenen Vorgaben, insbesondere gestalterischer Qualität, Farbrichtigkeit sowie Nah- und Fernwirkung, Haltbarkeit und Funktionalität, anwenden
-
-
-
+ 
+ 
+ 
 6
 b)
 Funktionsprüfungen durchführen
@@ -406,17 +406,17 @@ Maskenbilder testen und korrigieren
 Arbeiten für Proben und Produktionen (§ 3 Nr. 17)
 a)
 mit zwischenmenschlichen Konfliktsituationen umgehen
-
+ 
 3
-
-
+ 
+ 
 b)
 Maskenteile von Darstellern abnehmen, reinigen, aufarbeiten, instand setzen, aufbewahren und registrieren
 c)
 Produktionsschminkpläne erstellen
-
-
-
+ 
+ 
+ 
 14
 d)
 erarbeitetes Maskenbild anlegen

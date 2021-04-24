@@ -66,8 +66,8 @@ Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte und die Ausb
 
 (1) Teil 1 der Gesellenprüfung soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 (2) Teil 1 der Gesellenprüfung erstreckt sich auf die in der Anlage für die ersten drei Ausbildungshalbjahre aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
-(3) Teil 1 der Gesellenprüfung besteht aus dem Prüfungsbereich Arbeitsauftrag“.
-(4) Für den Prüfungsbereich Arbeitsauftrag“ bestehen folgende Vorgaben:
+(3) Teil 1 der Gesellenprüfung besteht aus dem Prüfungsbereich „Arbeitsauftrag“.
+(4) Für den Prüfungsbereich „Arbeitsauftrag“ bestehen folgende Vorgaben:
 
 - 1. :: Der Prüfling soll nachweisen, dass er
   - a) :: manuelle und maschinelle Bearbeitungstechniken, Füge- und Montagetechniken anwenden,
@@ -92,7 +92,7 @@ Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte und die Ausb
 - 3. :: Funktionsanalyse und
 - 4. :: Wirtschafts- und Sozialkunde.
 
-(3) Für den Prüfungsbereich Kundenauftrag“ bestehen folgende Vorgaben:
+(3) Für den Prüfungsbereich „Kundenauftrag“ bestehen folgende Vorgaben:
 
 - 1. :: Der Prüfling soll nachweisen, dass er
   - a) :: Arbeitsabläufe und Teilaufgaben zielorientiert unter Beachtung wirtschaftlicher, technischer, organisatorischer und zeitlicher Vorgaben selbständig planen und umsetzen,
@@ -103,11 +103,11 @@ Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte und die Ausb
 - 2. :: dem Prüfungsbereich sind folgende Tätigkeiten zugrunde zu legen:
   - a) :: Anfertigen, Prüfen, Montieren, Inbetriebnehmen und Instandsetzen von Werkzeugen, Vorrichtungen, Formen, Geräten, Systemen, Maschinen oder deren Bauteile,
   - b) :: die Tätigkeit nach Buchstabe a umfasst auch Arbeitsplanung, Ändern und Optimieren von Programmen für numerisch gesteuerte Geräte, Maschinen oder Anlagen sowie das Erstellen einer Dokumentation mit praxisbezogenen Unterlagen;
-- 3. :: der Prüfling soll im Prüfungsbereich Kundenauftrag“ eine Arbeitsaufgabe, die einem Kundenauftrag entspricht, durchführen und dokumentieren sowie ausgehend von der durchgeführten Arbeitsaufgabe ein Fachgespräch führen; durch das Fachgespräch soll der Prüfling insbesondere zeigen, dass er Kundenaufträge annehmen und dabei Kundenprobleme und -wünsche erkennen sowie fachbezogene Probleme und deren Lösungen kundenbezogen darstellen kann;
+- 3. :: der Prüfling soll im Prüfungsbereich „Kundenauftrag“ eine Arbeitsaufgabe, die einem Kundenauftrag entspricht, durchführen und dokumentieren sowie ausgehend von der durchgeführten Arbeitsaufgabe ein Fachgespräch führen; durch das Fachgespräch soll der Prüfling insbesondere zeigen, dass er Kundenaufträge annehmen und dabei Kundenprobleme und -wünsche erkennen sowie fachbezogene Probleme und deren Lösungen kundenbezogen darstellen kann;
 - 4. :: die Prüfungszeit beträgt 16 Stunden; innerhalb dieser Zeit soll das Fachgespräch insgesamt höchstens 30 Minuten dauern;
 - 5. :: die Ausführung der Arbeitsaufgabe einschließlich der Dokumentation ist mit 70 Prozent und das Fachgespräch mit 30 Prozent zu gewichten.
 
-(4) Für den Prüfungsbereich Fertigungstechnik“ bestehen folgende Vorgaben:
+(4) Für den Prüfungsbereich „Fertigungstechnik“ bestehen folgende Vorgaben:
 
 - 1. :: Der Prüfling soll nachweisen, dass er
   - a) :: die Arbeitssicherheits- und Umweltschutzbestimmungen berücksichtigen,
@@ -122,7 +122,7 @@ Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte und die Ausb
 - 3. :: der Prüfling soll fallbezogene Aufgaben unter Zuhilfenahme praxisüblicher Unterlagen schriftlich bearbeiten und die Ergebnisse in praxisüblicher Form dokumentieren;
 - 4. :: die Prüfungszeit beträgt zwei Stunden.
 
-(5) Für den Prüfungsbereich Funktionsanalyse“ bestehen folgende Vorgaben:
+(5) Für den Prüfungsbereich „Funktionsanalyse“ bestehen folgende Vorgaben:
 
 - 1. :: Der Prüfling soll nachweisen, dass er
   - a) :: Probleme aus Fertigung, Montage, Inbetriebnahme und Instandhaltung analysieren,
@@ -137,7 +137,7 @@ Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte und die Ausb
 - 3. :: der Prüfling soll fallbezogene Aufgaben unter Zuhilfenahme praxisüblicher Unterlagen schriftlich bearbeiten und die Ergebnisse in praxisüblicher Form dokumentieren;
 - 4. :: Die Prüfungszeit beträgt zwei Stunden.
 
-(6) Für den Prüfungsbereich Wirtschafts- und Sozialkunde“ bestehen folgende Vorgaben:
+(6) Für den Prüfungsbereich „Wirtschafts- und Sozialkunde“ bestehen folgende Vorgaben:
 
 - 1. :: Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann;
 - 2. :: der Prüfling soll fallbezogene Aufgaben schriftlich bearbeiten;
@@ -147,25 +147,25 @@ Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte und die Ausb
 § 9 - Gewichtungs- und Bestehensregelung
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:\\
-| 1. | Prüfungsbereich Arbeitsauftrag“    | 30 Prozent,   |
-| 2. | Prüfungsbereich Kundenauftrag“     | 35 Prozent,   |
-| 3. | Prüfungsbereich Fertigungstechnik“ | 12,5 Prozent, |
-| 4. | Prüfungsbereich Funktionsanalyse“  | 12,5 Prozent, |
-| 5. | Prüfungsbereich Wirtschafts- und\\ | 10 Prozent.   |
+| 1. | Prüfungsbereich „Arbeitsauftrag“    | 30 Prozent,   |
+| 2. | Prüfungsbereich „Kundenauftrag“     | 35 Prozent,   |
+| 3. | Prüfungsbereich „Fertigungstechnik“ | 12,5 Prozent, |
+| 4. | Prüfungsbereich „Funktionsanalyse“  | 12,5 Prozent, |
+| 5. | Prüfungsbereich „Wirtschafts- und\\ | 10 Prozent.   |
 |    | Sozialkunde“                        |               |
 
 (2) Die Gesellenprüfung ist bestanden, wenn die Leistungen wie folgt bewertet worden sind:
 
-- 1. :: das Gesamtergebnis von Teil 1 und 2 mit mindestens ausreichend“,
-- 2. :: das Ergebnis von Teil 2 der Gesellenprüfung mit mindestens ausreichend“,
-- 3. :: der Prüfungsbereich Kundenauftrag mit mindestens ausreichend“,
-- 4. :: mindestens zwei der übrigen Prüfungsbereiche von Teil 2 mit mindestens ausreichend“ und
-- 5. :: kein Prüfungsbereich von Teil 2 mit ungenügend“.
+- 1. :: das Gesamtergebnis von Teil 1 und 2 mit mindestens „ausreichend“,
+- 2. :: das Ergebnis von Teil 2 der Gesellenprüfung mit mindestens „ausreichend“,
+- 3. :: der Prüfungsbereich Kundenauftrag mit mindestens „ausreichend“,
+- 4. :: mindestens zwei der übrigen Prüfungsbereiche von Teil 2 mit mindestens „ausreichend“ und
+- 5. :: kein Prüfungsbereich von Teil 2 mit „ungenügend“.
 
 
 § 10 - Mündliche Ergänzungsprüfung
 
-Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche Fertigungstechnik“, Funktionsanalyse“ oder Wirtschafts- und Sozialkunde“, wenn er schlechter als ausreichend“ bewertet wurde, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Fertigungstechnik“, „Funktionsanalyse“ oder „Wirtschafts- und Sozialkunde“, wenn er schlechter als „ausreichend“ bewertet wurde, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 § 11 - Bestehende Berufsausbildungsverhältnisse
 

@@ -74,30 +74,30 @@ Vorbemerkung 1:\\
  (3) Für Eintragungen, die Prokuren betreffen, sind ausschließlich Gebühren nach Teil 4 zu erheben.\\
  (4) Für die Eintragung des Erlöschens der Firma oder des Namens sowie des Schlusses der Abwicklung einer Europäischen wirtschaftlichen Interessenvereinigung werden keine Gebühren erhoben; die Gebühren in Abschnitt 4 bleiben unberührt.
 
+ 
 
+ 
 
-
-
-
+ 
 
 Abschnitt 1\\
 Ersteintragung
 
-
+ 
 
 Eintragung -- außer aufgrund einer Umwandlung nach dem UmwG --
 
-
+ 
 
 1100
 
-- -- :: eines Einzelkaufmanns
+- -- :: eines Einzelkaufmanns 
 
 70,00 €
 
 1101
 
-- -- :: einer Gesellschaft mit bis zu 3 einzutragenden Gesellschaftern oder einer Partnerschaft mit bis zu 3 einzutragenden Partnern
+- -- :: einer Gesellschaft mit bis zu 3 einzutragenden Gesellschaftern oder einer Partnerschaft mit bis zu 3 einzutragenden Partnern 
 
 \\
 100,00 €
@@ -105,27 +105,27 @@ Eintragung -- außer aufgrund einer Umwandlung nach dem UmwG --
 1102
 
 - -- :: einer Gesellschaft mit mehr als 3 einzutragenden Gesellschaftern oder einer Partnerschaft mit mehr als 3 einzutragenden Partnern:\\
-  Die Gebühr 1101 erhöht sich für jeden weiteren einzutragenden Gesellschafter oder jeden weiteren einzutragenden Partner um
+  Die Gebühr 1101 erhöht sich für jeden weiteren einzutragenden Gesellschafter oder jeden weiteren einzutragenden Partner um 
 
 \\
 \\
 40,00 €
 
-
+ 
 
 Eintragung aufgrund einer Umwandlung nach dem UmwG
 
-
+ 
 
 1103
 
-- -- :: eines Einzelkaufmanns
+- -- :: eines Einzelkaufmanns 
 
 150,00 €
 
 1104
 
-- -- :: einer Gesellschaft mit bis zu 3 einzutragenden Gesellschaftern oder einer Partnerschaft mit bis zu 3 einzutragenden Partnern
+- -- :: einer Gesellschaft mit bis zu 3 einzutragenden Gesellschaftern oder einer Partnerschaft mit bis zu 3 einzutragenden Partnern 
 
 \\
 180,00 €
@@ -133,70 +133,70 @@ Eintragung aufgrund einer Umwandlung nach dem UmwG
 1105
 
 - -- :: einer Gesellschaft mit mehr als 3 einzutragenden Gesellschaftern oder einer Partnerschaft mit mehr als 3 einzutragenden Partnern:\\
-  Die Gebühr 1104 erhöht sich für jeden weiteren einzutragenden Gesellschafter oder für jeden weiteren einzutragenden Partner um
+  Die Gebühr 1104 erhöht sich für jeden weiteren einzutragenden Gesellschafter oder für jeden weiteren einzutragenden Partner um 
 
 \\
 \\
 \\
 70,00 €
 
+ 
 
+ 
 
-
-
-
+ 
 
 Abschnitt 2\\
 Errichtung einer Zweigniederlassung
 
 1200
 
-Eintragung einer Zweigniederlassung
+Eintragung einer Zweigniederlassung 
 
 40,00 €
 
+ 
 
+ 
 
-
-
-
+ 
 
 Abschnitt 3\\
 Verlegung der Hauptniederlassung oder des Sitzes
 
+ 
 
+ 
 
-
-
-
+ 
 
 Vorbemerkung 1.3:\\
  Gebühren nach diesem Abschnitt sind nicht zu erheben, wenn das bisherige Gericht zuständig bleibt; Abschnitt 5 bleibt unberührt.
 
-
+ 
 
 Eintragung bei dem Gericht, in dessen Bezirk die Hauptniederlassung oder der Sitz verlegt worden ist, bei
 
-
+ 
 
 1300
 
-- -- :: einem Einzelkaufmann
+- -- :: einem Einzelkaufmann 
 
 60,00 €
 
 1301
 
-- -- :: einer Gesellschaft mit bis zu 3 eingetragenen Gesellschaftern oder einer Partnerschaft mit bis zu 3 eingetragenen Partnern
+- -- :: einer Gesellschaft mit bis zu 3 eingetragenen Gesellschaftern oder einer Partnerschaft mit bis zu 3 eingetragenen Partnern 
 
 \\
 80,00 €
 
-
+ 
 
 - -- :: einer Gesellschaft mit mehr als 3 eingetragenen Gesellschaftern oder einer Partnerschaft mit mehr als 3 eingetragenen Partnern:
 
-
+ 
 
 1302
 
@@ -214,26 +214,26 @@ Eintragung bei dem Gericht, in dessen Bezirk die Hauptniederlassung oder der Sit
 \\
 10,00 €
 
+ 
 
+ 
 
-
-
-
+ 
 
 Abschnitt 4\\
 Umwandlung nach dem Umwandlungsgesetz
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 Eintragung einer Umwandlung nach dem UmwG
 
-
+ 
 
 1400
 
@@ -247,35 +247,35 @@ Eintragung einer Umwandlung nach dem UmwG
 
 180,00 €
 
-
+ 
 
  Für Eintragungen über den Eintritt der Wirksamkeit werden keine besonderen Gebühren erhoben.
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 Abschnitt 5\\
 Sonstige spätere Eintragung
 
+ 
 
+ 
 
-
-
-
+ 
 
 Vorbemerkung 1.5:\\
  Gebühren nach diesem Abschnitt werden nur für Eintragungen erhoben, für die Gebühren nach den Abschnitten 1 bis 4 nicht zu erheben sind.
 
-
+ 
 
 Eintragung einer Tatsache bei
 
-
+ 
 
 1500
 
@@ -305,11 +305,11 @@ Die Gebühren 1500 bis 1502 betragen jeweils
 \\
 30,00 €
 
-
+ 
 
  Tatsachen ohne wirtschaftliche Bedeutung sind nicht als erste Tatsache zu behandeln.
 
-
+ 
 
 1504
 
@@ -331,20 +331,20 @@ Vorbemerkung 2:\\
  (3) Für Eintragungen, die Prokuren betreffen, sind ausschließlich Gebühren nach Teil 4 zu erheben.\\
  (4) Für die Eintragung der Löschung der Gesellschaft und des Schlusses der Abwicklung oder der Liquidation werden keine Gebühren erhoben; die Gebühren 2402 und 2403 bleiben unberührt.
 
+ 
 
+ 
 
-
-
-
+ 
 
 Abschnitt 1\\
 Ersteintragung
 
+ 
 
+ 
 
-
-
-
+ 
 
 2100
 
@@ -363,7 +363,7 @@ Die Gebühr 2100 beträgt
 
 2102
 
-Eintragung einer Aktiengesellschaft, einer Kommanditgesellschaft auf Aktien oder eines Versicherungsvereins auf Gegenseitigkeit -- außer aufgrund einer Umwandlung nach dem UmwG --
+Eintragung einer Aktiengesellschaft, einer Kommanditgesellschaft auf Aktien oder eines Versicherungsvereins auf Gegenseitigkeit -- außer aufgrund einer Umwandlung nach dem UmwG -- 
 
 \\
 \\
@@ -377,11 +377,11 @@ Die Gebühr 2102 beträgt
 \\
 360,00 €
 
-
+ 
 
 Eintragung aufgrund einer Umwandlung nach dem UmwG
 
-
+ 
 
 2104
 
@@ -401,20 +401,20 @@ Eintragung aufgrund einer Umwandlung nach dem UmwG
 
 460,00 €
 
+ 
 
+ 
 
-
-
-
+ 
 
 Abschnitt 2\\
 Errichtung einer Zweigniederlassung
 
+ 
 
+ 
 
-
-
-
+ 
 
 2200
 
@@ -422,53 +422,53 @@ Eintragung einer Zweigniederlassung
 
 120,00 €
 
+ 
 
+ 
 
-
-
-
+ 
 
 Abschnitt 3\\
 Verlegung des Sitzes
 
+ 
 
+ 
 
-
-
-
+ 
 
 2300
 
-Eintragung bei dem Gericht, in dessen Bezirk der Sitz verlegt worden ist
+Eintragung bei dem Gericht, in dessen Bezirk der Sitz verlegt worden ist 
 
 140,00 €
 
-
+ 
 
  Die Gebühr wird nicht erhoben, wenn das bisherige Gericht zuständig bleibt; Abschnitt 5 bleibt unberührt.
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 Abschnitt 4\\
 Besondere spätere Eintragung
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 Eintragung
 
-
+ 
 
 2400
 
@@ -486,11 +486,11 @@ Eintragung
 \\
 210,00 €
 
-
+ 
 
 Eintragung einer Umwandlung nach dem UmwG
 
-
+ 
 
 2402
 
@@ -504,11 +504,11 @@ Eintragung einer Umwandlung nach dem UmwG
 
 240,00 €
 
-
+ 
 
  Für Eintragungen über den Eintritt der Wirksamkeit werden keine besonderen Gebühren erhoben.
 
-
+ 
 
 2404
 
@@ -523,20 +523,20 @@ Eintragung des Übertragungsbeschlusses im Fall des Ausschlusses von Minderheits
 \\
 210,00 €
 
+ 
 
+ 
 
-
-
-
+ 
 
 Abschnitt 5\\
 Sonstige spätere Eintragung
 
+ 
 
+ 
 
-
-
-
+ 
 
 Vorbemerkung 2.5:\\
  Gebühren nach diesem Abschnitt werden nur für Eintragungen erhoben, für die Gebühren nach den Abschnitten 1 bis 4 nicht zu erheben sind.
@@ -550,16 +550,16 @@ Eintragung einer Tatsache
 2501
 
 Eintragung der zweiten und jeder weiteren Tatsache aufgrund derselben Anmeldung:\\
-Die Gebühr 2500 beträgt jeweils
+Die Gebühr 2500 beträgt jeweils 
 
 \\
 40,00 €
 
-
+ 
 
  Tatsachen ohne wirtschaftliche Bedeutung sind nicht als erste Tatsache zu behandeln.
 
-
+ 
 
 2502
 
@@ -581,26 +581,26 @@ Vorbemerkung 3:\\
  (3) Für Eintragungen, die Prokuren betreffen, sind ausschließlich Gebühren nach Teil 4 zu erheben.\\
  (4) Für die Eintragung des Erlöschens der Genossenschaft werden keine Gebühren erhoben; die Gebühren in Abschnitt 4 bleiben unberührt.
 
+ 
 
+ 
 
-
-
-
+ 
 
 Abschnitt 1\\
 Ersteintragung
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 Eintragung
 
-
+ 
 
 3100
 
@@ -614,20 +614,20 @@ Eintragung
 
 360,00 €
 
+ 
 
+ 
 
-
-
-
+ 
 
 Abschnitt 2\\
 Errichtung einer Zweigniederlassung
 
+ 
 
+ 
 
-
-
-
+ 
 
 3200
 
@@ -635,20 +635,20 @@ Eintragung einer Zweigniederlassung
 
 60,00 €
 
+ 
 
+ 
 
-
-
-
+ 
 
 Abschnitt 3\\
 Verlegung des Sitzes
 
+ 
 
+ 
 
-
-
-
+ 
 
 3300
 
@@ -656,32 +656,32 @@ Eintragung bei dem Gericht, in dessen Bezirk der Sitz verlegt worden ist
 
 210,00 €
 
-
+ 
 
  Die Gebühr wird nicht erhoben, wenn das bisherige Gericht zuständig bleibt; Abschnitt 5 bleibt unberührt.
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 Abschnitt 4\\
 Umwandlung nach dem Umwandlungsgesetz
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 Eintragung einer Umwandlung nach dem UmwG
 
-
+ 
 
 3400
 
@@ -695,26 +695,26 @@ Eintragung einer Umwandlung nach dem UmwG
 
 300,00 €
 
-
+ 
 
  Für Eintragungen über den Eintritt der Wirksamkeit werden keine besonderen Gebühren erhoben.
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 Abschnitt 5\\
 Sonstige spätere Eintragung
 
+ 
 
+ 
 
-
-
-
+ 
 
 Vorbemerkung 3.5:\\
  Gebühren nach diesem Abschnitt werden nur für Eintragungen erhoben, für die Gebühren nach den Abschnitten 1 bis 4 nicht zu erheben sind.
@@ -733,11 +733,11 @@ Die Gebühr 3500 beträgt jeweils
 \\
 60,00 €
 
-
+ 
 
  Tatsachen ohne wirtschaftliche Bedeutung sind nicht als erste Tatsache zu behandeln.
 
-
+ 
 
 3502
 
@@ -765,17 +765,17 @@ Gebührenbetrag
 Vorbemerkung 5:\\
  Mit den Gebühren 5001 bis 5006 wird auch der Aufwand für die Prüfung und Aufbewahrung der genannten Unterlagen abgegolten.
 
-
+ 
 
 Entgegennahme
 
-
+ 
 
 5000
 
 (weggefallen)
 
-
+ 
 
 5001
 

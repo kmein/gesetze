@@ -181,18 +181,18 @@ Sie erhöhen sich ferner, wenn die Tätigkeit in den Monaten November bis März 
 (2) Die Zulage für Tätigkeiten nach § 12 Abs. 2 Nr. 2 beträgt für jeden Tag bei\\
 1.
 Inaugenscheinnahme aus besonderem Anlaß, Prüfgängen, Erkundungen, Einweisungen oder Beaufsichtigungen
-
-
+ 
+ 
 1,43 Euro,
 2.
 Instandhalten, Instandsetzen oder Abnehmen
-
-
+ 
+ 
 2,14 Euro,
 3.
 Errichten oder Abbrechen
-
-
+ 
+ 
 2,87 Euro.
 \\
 Die Sätze erhöhen sich, wenn die Tätigkeiten in den Monaten November bis März durchgeführt werden, um jeweils 25 Prozent.
@@ -384,7 +384,7 @@ im Zollfahndungsdienst in der Zentralen Unterstützungsgruppe Zoll
 
 im Zollfahndungsdienst in einer Observationseinheit Zoll
 
-
+ 
 
  4
 
@@ -406,7 +406,7 @@ in der Bundespolizei als Flugsicherheitsbegleiter an Bord deutscher Luftfahrzeug
 
 in der Bundespolizei in einer Beweissicherungs- und Festnahmeeinheit plus
 
-
+ 
 
  8
 
@@ -418,25 +418,25 @@ als Personenschützer, soweit sie nicht von Nummer 5 erfasst sind
 
 in der Bundespolizei in einer Mobilen Fahndungseinheit
 
-
+ 
 
 10
 
 in der Bundespolizei in einer Beweissicherungs- und Festnahmehundertschaft
 
-
+ 
 
 11
 
 bei den Nachrichtendiensten des Bundes in einer Observationsgruppe
 
-
+ 
 
 12
 
 bei den Nachrichtendiensten des Bundes als zur verdeckten Informationsbeschaffung operativ tätiger Beamter im Außendienst oder mit unmittelbarem Kontakt zu Personen von nachrichtendienstlichem Interesse
 
-
+ 
 
 13
 

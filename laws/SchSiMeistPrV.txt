@@ -46,7 +46,7 @@ Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl.
 
 § 3 - Zulassungsvoraussetzungen
 
-(1) Zur Prüfung im Prüfungsteil Grundlegende Qualifikationen“ ist zuzulassen, wer Folgendes nachweist:
+(1) Zur Prüfung im Prüfungsteil „Grundlegende Qualifikationen“ ist zuzulassen, wer Folgendes nachweist:
 
 - 1. :: eine mit Erfolg abgelegte Abschlussprüfung in einem dreijährigen anerkannten Ausbildungsberuf, der einem sicherheitsrelevanten Beruf zugeordnet werden kann, oder
 - 2. :: eine mit Erfolg abgelegte Abschlussprüfung in einem anderen sicherheitsrelevanten anerkannten Ausbildungsberuf und eine mindestens einjährige Berufspraxis oder
@@ -226,13 +226,13 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 § 7 - Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
-(2) Im Prüfungsteil Grundlegende Qualifikationen“ sind die Prüfungsleistungen in jedem Prüfungsbereich einzeln zu bewerten. Aus den einzelnen Bewertungen ist als Bewertung für den Prüfungsteil das arithmetische Mittel zu berechnen.
-(3) Im Prüfungsteil Handlungsspezifische Qualifikationen“ sind als Prüfungsleistungen zu bewerten:
+(2) Im Prüfungsteil „Grundlegende Qualifikationen“ sind die Prüfungsleistungen in jedem Prüfungsbereich einzeln zu bewerten. Aus den einzelnen Bewertungen ist als Bewertung für den Prüfungsteil das arithmetische Mittel zu berechnen.
+(3) Im Prüfungsteil „Handlungsspezifische Qualifikationen“ sind als Prüfungsleistungen zu bewerten:
 
 - 1. :: die beiden schriftlichen Situationsaufgaben nach § 5 Absatz 1 und
 - 2. :: das situationsbezogene Fachgespräch nach § 5 Absatz 6.
 
-Aus den beiden Bewertungen der schriftlichen Situationsaufgaben und der Bewertung für das Fachgespräch ist als Bewertung des Prüfungsteils Handlungsspezifische Qualifikationen“ das arithmetische Mittel zu berechnen.
+Aus den beiden Bewertungen der schriftlichen Situationsaufgaben und der Bewertung für das Fachgespräch ist als Bewertung des Prüfungsteils „Handlungsspezifische Qualifikationen“ das arithmetische Mittel zu berechnen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
@@ -240,21 +240,21 @@ Aus den beiden Bewertungen der schriftlichen Situationsaufgaben und der Bewertun
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
-- 1. :: in jedem Prüfungsbereich des Prüfungsteils Grundlegende Qualifikationen“,
-- 2. :: im Prüfungsteil Handlungsspezifische Qualifikationen“
+- 1. :: in jedem Prüfungsbereich des Prüfungsteils „Grundlegende Qualifikationen“,
+- 2. :: im Prüfungsteil „Handlungsspezifische Qualifikationen“
   - a) :: in jeder der beiden Situationsaufgaben und
   - b) :: im Fachgespräch.
 
 (2) Ist die Prüfung bestanden, so werden die folgenden Bewertungen jeweils kaufmännisch auf eine ganze Zahl gerundet:
 
-- 1. :: die Bewertung für den Prüfungsteil Grundlegende Qualifikationen“ und
-- 2. :: die Bewertung für den Prüfungsteil Handlungsspezifische Qualifikationen“.
+- 1. :: die Bewertung für den Prüfungsteil „Grundlegende Qualifikationen“ und
+- 2. :: die Bewertung für den Prüfungsteil „Handlungsspezifische Qualifikationen“.
 
-(3) Der Bewertung für den Prüfungsteil Grundlegende Qualifikationen“ und der Bewertung für den Prüfungsteil Handlungsspezifische Qualifikationen“ ist nach Anlage 1 die jeweilige Note als Dezimalzahl zuzuordnen.
+(3) Der Bewertung für den Prüfungsteil „Grundlegende Qualifikationen“ und der Bewertung für den Prüfungsteil „Handlungsspezifische Qualifikationen“ ist nach Anlage 1 die jeweilige Note als Dezimalzahl zuzuordnen.
 (4) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das gewichtete arithmetische Mittel zu berechnen. Dabei werden die Bewertungen wie folgt gewichtet:
 
-- 1. :: die Bewertung für den Prüfungsteil Grundlegende Qualifikationen“ mit 25 Prozent,
-- 2. :: die Bewertung für den Prüfungsteil Handlungsspezifische Qualifikationen“ mit 75 Prozent.
+- 1. :: die Bewertung für den Prüfungsteil „Grundlegende Qualifikationen“ mit 25 Prozent,
+- 2. :: die Bewertung für den Prüfungsteil „Handlungsspezifische Qualifikationen“ mit 75 Prozent.
 
 Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerundeten Gesamtpunktzahl ist nach Anlage 1 eine Note als Dezimalzahl und die Note in Worten zuzuordnen. Die zugeordnete Note ist die Gesamtnote.
 
@@ -322,10 +322,10 @@ Teil A -- Zeugnis ohne Prüfungsergebnisse:
 Teil B -- Zeugnis mit Prüfungsergebnissen:
 Alle Angaben des Teils A sowie zusätzlich:
 
-- 1. :: zum Prüfungsteil Grundlegende Qualifikationen“
+- 1. :: zum Prüfungsteil „Grundlegende Qualifikationen“
   - a) :: Benennung dieses Prüfungsteils und Bewertung mit Note sowie
   - b) :: Benennung der Prüfungsbereiche und Bewertung mit Punkten,
-- 2. :: zum Prüfungsteil Handlungsspezifische Qualifikationen“
+- 2. :: zum Prüfungsteil „Handlungsspezifische Qualifikationen“
   - a) :: Benennung dieses Prüfungsteils mit Note,
   - b) :: Benennung der integrativen schriftlichen Situationsaufgaben in den Handlungsbereichen Schutz- und Sicherheitstechnik, Organisation, Führung und Personal und Bewertung mit Punkten sowie
   - c) :: Benennung des situationsbezogenen Fachgesprächs mit Handlungsbereich und Bewertung mit Punkten,

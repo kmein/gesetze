@@ -647,7 +647,7 @@ Zimmerer
 
 Zimmerer (G, A)
 
-
+ 
 
 Bezeichnung des österreichischen Prüfungszeugnisses
 
@@ -1253,7 +1253,7 @@ Werkzeugmaschineur
   - Schleiftechnik\\
   - Frästechnik (A)
 
-
+ 
 
 Bezeichnung des österreichischen Prüfungszeugnisses
 
@@ -1728,7 +1728,7 @@ Wirkwarenerzeuger
 - 1) :: Sofern zu der Ausbildungsberufsbezeichnung eine Fachrichtungsbezeichnung aufgeführt ist, beschränkt sich die Gleichstellung auf diese Fachrichtung oder diesen Schwerpunkt.
 - 2) :: Die Jahreszahl bezieht sich auf das Erlaßjahr der Verordnung.
 
-
+ 
 
 Bezeichnung des österreichischen Prüfungszeugnisses
 
@@ -2061,7 +2061,7 @@ Textilmechaniker/Textilmechanikerin\\
 
 - 1) :: Sofern zu der Ausbildungsberufsbezeichnung eine Fachrichtungs- oder Schwerpunktbezeichnung aufgeführt ist, beschränkt sich die Gleichstellung auf diese Fachrichtung oder diesen Schwerpunkt.
 
-
+ 
 
 Bezeichnung des österreichischen Prüfungszeugnisses
 
@@ -2396,7 +2396,7 @@ Werkstoffprüfer/Werkstoffprüferin (A) Schwerpunkt Metalltechnik
 
 - 1) :: Sofern zu der Ausbildungsberufsbezeichnung eine Fachrichtungs- oder Schwerpunktbezeichnung aufgeführt ist, beschränkt sich die Gleichstellung auf diese Fachrichtung oder diesen Schwerpunkt.
 
-
+ 
 
 Bezeichnung des österreichischen Prüfungszeugnisses
 

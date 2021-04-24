@@ -177,7 +177,7 @@ Aufbereitung von Altholz zu Holzhackschnitzeln und Holzspänen für die Herstell
 ja
 ja
 (ja)
-
+ 
 Die Aufbereitung von Altholz der Altholzkategorie A III ist nur zulässig, wenn Lackierungen und Beschichtungen durch eine Vorbehandlung weitgehend entfernt wurden oder im Rahmen des Aufbereitungsprozesses entfernt werden.
 2
 Gewinnung von Synthesegas zur weiteren chemischen Nutzung
@@ -234,7 +234,7 @@ Holzabfälle aus der Holzbe- und -verarbeitung
 Verschnitt, Abschnitte, Späne von naturbelassenem Vollholz
 A I
 03 01 05
-
+ 
 Verschnitt, Abschnitte, Späne von Holzwerkstoffen und sonstigen behandeltem Holz (ohne schädliche Verunreinigungen)
 A II
 03 01 05
@@ -483,13 +483,13 @@ Standardlösungen mit der Konzentration von 0,05 mg/ml hergestellt.
 
 \\
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 20 Grad C/min
 
@@ -499,15 +499,15 @@ Ofentemperatur:
 
 ................ 160 Grad C (0 min)
 
+ 
 
-
-
+ 
 
 8 Grad C/min
 
+ 
 
-
-
+ 
 
 ...............310 Grad C (5 min)
 
@@ -539,17 +539,17 @@ Blindwerte:
 
 Geräteblindwert (reines Cyclohexan)
 
+ 
 
-
-
+ 
 
 *
 
 Chemikalienblindwert (Durchführung des gesamten Verfahrens ohne Holzprobe)
 
+ 
 
-
-
+ 
 
 *
 
@@ -570,11 +570,11 @@ Probenextrakte nach beschriebener Aufarbeitung.
     - 1.4.4.7.2 :: Kalibrierung über das gesamte Verfahren
       Zur Erstellung der Kalibriergeraden wird das Peakflächenverhältnis von acetyliertem PCP-Standard zu acetyliertem TBP gegen das entsprechende Konzentrationsverhältnis gemäß folgender Gleichung aufgetragen:
 
-
+ 
 
 a(tief)PCP
 
-
+ 
 
 c(tief)PCP
 
@@ -586,7 +586,7 @@ c(tief)PCP
 
 a(tief)TBP
 
-
+ 
 
 c(tief)TBP
 

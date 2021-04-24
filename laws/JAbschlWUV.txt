@@ -103,183 +103,183 @@ Bilanz
 Aktivseite
 A.
 Anlagevermögen
-
+ 
 I.
 Immaterielle Vermögensgegenstände
-
-
+ 
+ 
 1.
 Selbst geschaffene gewerbliche Schutzrechte und ähnliche Rechte und Werte
-
-
+ 
+ 
 2.
 entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten
-
-
+ 
+ 
 3.
 Geschäfts- oder Firmenwert
-
-
+ 
+ 
 4.
 geleistete Anzahlungen
-
+ 
 II.
 Sachanlagen
-
-
+ 
+ 
 1.
 Grundstücke und grundstücksgleiche Rechte mit Wohnbauten
-
-
+ 
+ 
 2.
 Grundstücke und grundstücksgleiche Rechte mit Geschäfts- und anderen Bauten
-
-
+ 
+ 
 3.
 Grundstücke und grundstücksgleiche Rechte ohne Bauten
-
-
+ 
+ 
 4.
 Grundstücke mit Erbbaurechten Dritter
-
-
+ 
+ 
 5.
 Bauten auf fremden Grundstücken
-
-
+ 
+ 
 6.
 technische Anlagen und Maschinen
-
-
+ 
+ 
 7.
 andere Anlagen Betriebs- und Geschäftsausstattung
-
-
+ 
+ 
 8.
 Anlagen im Bau
-
-
+ 
+ 
 9.
 Bauvorbereitungskosten
-
-
+ 
+ 
 10.
 geleistete Anzahlungen
-
+ 
 III.
 Finanzanlagen
-
-
+ 
+ 
 1.
 Anteile an verbundenen Unternehmen
-
-
+ 
+ 
 2.
 Ausleihungen an verbundene Unternehmen
-
-
+ 
+ 
 3.
 Beteiligungen
-
-
+ 
+ 
 4.
 Ausleihungen an Unternehmen, mit denen ein Beteiligungsverhältnis besteht
-
-
+ 
+ 
 5.
 Wertpapiere des Anlagevermögens
-
-
+ 
+ 
 6.
 sonstige Ausleihungen
 B.
 Umlaufvermögen
-
+ 
 I.
 Zum Verkauf bestimmte Grundstücke und andere Vorräte
-
-
+ 
+ 
 1.
 Grundstücke und grundstücksgleiche Rechte ohne Bauten
-
-
+ 
+ 
 2.
 Bauvorbereitungskosten
-
-
+ 
+ 
 3.
 Grundstücke und grundstücksgleiche Rechte mit unfertigen Bauten
-
-
+ 
+ 
 4.
 Grundstücke und grundstücksgleiche Rechte mit fertigen Bauten
-
-
+ 
+ 
 5.
 unfertige Leistungen
-
-
+ 
+ 
 6.
 andere Vorräte
-
-
+ 
+ 
 7.
 geleistete Anzahlungen
-
+ 
 II.
 Forderungen und sonstige Vermögensgegenstände
-
-
+ 
+ 
 1.
 Forderungen aus Vermietung
-
-
+ 
+ 
 2.
 Forderungen aus Grundstücksverkäufen
-
-
+ 
+ 
 3.
 Forderungen aus Betreuungstätigkeit
-
-
+ 
+ 
 4.
 Forderungen aus anderen Lieferungen und Leistungen
-
-
+ 
+ 
 5.
 Forderungen gegen verbundene Unternehmen
-
-
+ 
+ 
 6.
 Forderungen gegen Unternehmen, mit denen ein Beteiligungsverhältnis besteht
-
-
+ 
+ 
 7.
 sonstige Vermögensgegenstände
-
+ 
 III.
 Wertpapiere
-
-
+ 
+ 
 1.
 Anteile an verbundenen Unternehmen
-
-
+ 
+ 
 2.
 eigene Anteile
-
-
+ 
+ 
 3.
 sonstige Wertpapiere
-
+ 
 IV.
 Flüssige Mittel und Bausparguthaben
-
-
+ 
+ 
 1.
 Schecks, Kassenbestand, Bundesbank- und Postgiroguthaben, Guthaben bei Kreditinstituten
-
-
+ 
+ 
 2.
 Bausparguthaben
 C.
@@ -291,95 +291,95 @@ Aktiver Unterschiedsbetrag aus der Vermögensverrechnung
 Passivseite
 A.
 Eigenkapital
-
+ 
 I.
 Gezeichnetes Kapital
-
+ 
 II.
 Kapitalrücklage
-
+ 
 III.
 Gewinnrücklagen
-
-
+ 
+ 
 1.
 gesetzliche Rücklage
-
-
+ 
+ 
 2.
 Rücklage für Anteile an einem herrschenden oder mehrheitlich beteiligten Unternehmen
-
-
+ 
+ 
 3.
 satzungsmäßige Rücklage
-
-
+ 
+ 
 4.
 Bauerneuerungsrücklage
-
-
+ 
+ 
 5.
 andere Gewinnrücklagen
-
+ 
 IV.
 Gewinnvortrag/Verlustvortrag
-
+ 
 V.
 Jahresüberschuß/Jahresfehlbetrag
 B.
 Rückstellungen
-
-
+ 
+ 
 1.
 Rückstellungen für Pensionen und ähnliche Verpflichtungen
-
-
+ 
+ 
 2.
 Steuerrückstellungen
-
-
+ 
+ 
 3.
 Rückstellung für Bauinstandhaltung
-
-
+ 
+ 
 4.
 sonstige Rückstellungen
 C.
 Verbindlichkeiten
-
-
+ 
+ 
 1.
 Anleihen davon konvertibel
-
-
+ 
+ 
 2.
 Verbindlichkeiten gegenüber Kreditinstituten
-
-
+ 
+ 
 3.
 Verbindlichkeiten gegenüber anderen Kreditgebern
-
-
+ 
+ 
 4.
 erhaltene Anzahlungen
-
-
+ 
+ 
 5.
 Verbindlichkeiten aus Lieferungen und Leistungen
-
-
+ 
+ 
 6.
 Verbindlichkeiten aus der Annahme gezogener Wechsel und der Ausstellung eigener Wechsel
-
-
+ 
+ 
 7.
 Verbindlichkeiten gegenüber verbundenen Unternehmen
-
-
+ 
+ 
 8.
 Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht
-
-
+ 
+ 
 9.
 sonstige Verbindlichkeiten davon aus Steuern davon im Rahmen der sozialen Sicherheit
 D.

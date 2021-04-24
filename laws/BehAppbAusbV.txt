@@ -13,7 +13,7 @@ Inhaltsübersicht
 
 § 1 - Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf des Behälter- und Apparatebauers und der Behälter- und Apparatebauerin wird nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe nach Anlage B Abschnitt 1 Nummer 4 Behälter- und Apparatebauer“ der Handwerksordnung staatlich anerkannt.
+Der Ausbildungsberuf des Behälter- und Apparatebauers und der Behälter- und Apparatebauerin wird nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe nach Anlage B Abschnitt 1 Nummer 4 „Behälter- und Apparatebauer“ der Handwerksordnung staatlich anerkannt.
 
 § 2 - Dauer der Berufsausbildung
 
@@ -175,15 +175,15 @@ Teil 2 der Gesellenprüfung findet in folgenden Prüfungsbereichen statt:
 
 (2) Die Gesellenprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
-- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens ausreichend“,
-- 2. :: im Ergebnis von Teil 2 mit mindestens ausreichend“,
-- 3. :: im Prüfungsbereich Behälterbau mit mindestens ausreichend“,
-- 4. :: in mindestens zwei der übrigen Prüfungsbereiche von Teil 2 mit mindestens ausreichend“ und
-- 5. :: in keinem Prüfungsbereich von Teil 2 mit ungenügend“.
+- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens „ausreichend“,
+- 2. :: im Ergebnis von Teil 2 mit mindestens „ausreichend“,
+- 3. :: im Prüfungsbereich Behälterbau mit mindestens „ausreichend“,
+- 4. :: in mindestens zwei der übrigen Prüfungsbereiche von Teil 2 mit mindestens „ausreichend“ und
+- 5. :: in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche Anlagentechnik“, Instandhaltung“ oder Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Anlagentechnik“, „Instandhaltung“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-- 1. :: der Prüfungsbereich schlechter als mit ausreichend“ bewertet worden ist und
+- 1. :: der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 - 2. :: die mündliche Ergänzungsprüfung für das Bestehen der Gesellenprüfung den Ausschlag geben kann.
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.

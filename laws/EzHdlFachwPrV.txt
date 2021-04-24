@@ -27,7 +27,7 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und des § 30 Absatz 5 d
 - 12. :: Umsetzen arbeitsorganisatorischer Veränderungen,
 - 13. :: Umsetzen des Qualitätsmanagements im Vertrieb und Fördern von Nachhaltigkeit.
 
-(3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt für Vertrieb im Einzelhandel“ oder Geprüfte Fachwirtin für Vertrieb im Einzelhandel“.
+(3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss „Geprüfter Fachwirt für Vertrieb im Einzelhandel“ oder „Geprüfte Fachwirtin für Vertrieb im Einzelhandel“.
 
 § 2 - Zulassungsvoraussetzungen
 
@@ -69,7 +69,7 @@ nachweist.
 
 § 4 - Inhalt der Prüfung
 
-(1) Im Handlungsbereich Kundenorientierung“ soll die Fähigkeit nachgewiesen werden, dass Verkaufsprozesse kunden- und erfolgsorientiert gestaltet werden können. In diesem Rahmen kann Folgendes geprüft werden:
+(1) Im Handlungsbereich „Kundenorientierung“ soll die Fähigkeit nachgewiesen werden, dass Verkaufsprozesse kunden- und erfolgsorientiert gestaltet werden können. In diesem Rahmen kann Folgendes geprüft werden:
 
 - 1. :: Gestalten des Beratungsprozesses und Unterstützen der Mitarbeiter bei der Durchführung von Kundengesprächen,
 - 2. :: Durchführen und Auswerten von Kundengesprächen, -befragungen und -foren zur Sicherstellung und Optimierung von Qualitätsstandards,
@@ -77,7 +77,7 @@ nachweist.
 - 4. :: Umsetzen serviceorientierter Konzepte,
 - 5. :: Umsetzen des Beschwerdemanagements und Durchführen eines effizienten Qualitätsmanagements.
 
-(2) Im Handlungsbereich Personalmanagement“ soll die Fähigkeit nachgewiesen werden, dass personalwirtschaftliche Aufgaben im Vertrieb systematisch und entscheidungsorientiert geplant, umgesetzt und analysiert werden können. Dabei sollen unternehmenspolitische Vorgaben und rechtliche Bestimmungen berücksichtigt werden. In diesem Rahmen kann Folgendes geprüft werden:
+(2) Im Handlungsbereich „Personalmanagement“ soll die Fähigkeit nachgewiesen werden, dass personalwirtschaftliche Aufgaben im Vertrieb systematisch und entscheidungsorientiert geplant, umgesetzt und analysiert werden können. Dabei sollen unternehmenspolitische Vorgaben und rechtliche Bestimmungen berücksichtigt werden. In diesem Rahmen kann Folgendes geprüft werden:
 
 - 1. :: Durchführen der Personalbedarfs- und Personalkostenplanung,
 - 2. :: Anwenden von Konzepten des Personalmarketings, Mitwirken bei der Auswahl und Einstellung von Mitarbeitern und Auszubildenden,
@@ -86,7 +86,7 @@ nachweist.
 - 5. :: Bewerten und Einsetzen von Maßnahmen der Personalentwicklung und Personalbindung,
 - 6. :: Auswerten von Personalkennziffern.
 
-(3) Im Handlungsbereich Führung und Kommunikation“ soll die Fähigkeit nachgewiesen werden, dass zielorientiert kommuniziert und Mitarbeiter und Mitarbeiterinnen sowie Projektgruppen geführt werden können. Weiter soll in Verhandlungen und in Konfliktfällen lösungsorientiert agiert werden. Dabei sollen situationsangemessene Methoden der Präsentation, Kommunikation und Motivationsförderung unter Berücksichtigung der betrieblichen Rahmenbedingungen eingesetzt werden. In diesem Rahmen kann Folgendes geprüft werden:
+(3) Im Handlungsbereich „Führung und Kommunikation“ soll die Fähigkeit nachgewiesen werden, dass zielorientiert kommuniziert und Mitarbeiter und Mitarbeiterinnen sowie Projektgruppen geführt werden können. Weiter soll in Verhandlungen und in Konfliktfällen lösungsorientiert agiert werden. Dabei sollen situationsangemessene Methoden der Präsentation, Kommunikation und Motivationsförderung unter Berücksichtigung der betrieblichen Rahmenbedingungen eingesetzt werden. In diesem Rahmen kann Folgendes geprüft werden:
 
 - 1. :: Anwenden von Methoden des Zeit- und des Selbstmanagements,
 - 2. :: Einsetzen von Führungsinstrumenten und -methoden,
@@ -99,7 +99,7 @@ nachweist.
 - 9. :: Einsetzen von Instrumenten zur Konfliktlösung,
 - 10. :: Nutzen von Moderations- und Präsentationstechniken.
 
-(4) Im Handlungsbereich Marketing im Einzelhandel“ soll die Fähigkeit nachgewiesen werden, dass Entwicklungen am Standort des Einzelhandelsbetriebes analysiert und Marketingkonzepte gesteuert und organisiert werden können. Zudem soll die Fähigkeit nachgewiesen werden, dass unter Einsatz von Instrumenten des visuellen Marketings Waren präsentiert und Geschäftsräume gestaltet werden können. Die Maßnahmen sollen nachbereitet und bewertet sowie notwendige Veränderungsprozesse eingeleitet werden. In diesem Rahmen kann Folgendes geprüft werden:
+(4) Im Handlungsbereich „Marketing im Einzelhandel“ soll die Fähigkeit nachgewiesen werden, dass Entwicklungen am Standort des Einzelhandelsbetriebes analysiert und Marketingkonzepte gesteuert und organisiert werden können. Zudem soll die Fähigkeit nachgewiesen werden, dass unter Einsatz von Instrumenten des visuellen Marketings Waren präsentiert und Geschäftsräume gestaltet werden können. Die Maßnahmen sollen nachbereitet und bewertet sowie notwendige Veränderungsprozesse eingeleitet werden. In diesem Rahmen kann Folgendes geprüft werden:
 
 - 1. :: Analysieren und Bewerten der Entwicklung von Märkten und Zielgruppen sowie des Wettbewerbs und der Nachfrage,
 - 2. :: Ableiten von Marktstrategien unter Berücksichtigung von Kooperationsformen und Zusammenwirken der Marketinginstrumente,
@@ -112,7 +112,7 @@ nachweist.
 - 9. :: Umsetzen von E-Commerce-Konzepten und Kundenbindungsprogrammen,
 - 10. :: Umsetzen standortbezogener Öffentlichkeitsarbeit.
 
-(5) Im Handlungsbereich Vertriebssteuerung“ soll gezeigt werden, dass Geschäftsprozesse gesteuert und optimiert sowie aus vertriebsbezogenen Statistiken und Kennziffern Schlussfolgerungen für die Weiterentwicklung der Verkaufsprozesse gezogen werden können. Dabei sollen insbesondere wettbewerbsrechtliche Bestimmungen und Auswirkungen volkswirtschaftlicher Entwicklungen sowie des regionalen Strukturwandels beachtet werden. Es sollen Maßnahmen zur Sicherung der Wettbewerbsfähigkeit entwickelt werden. In diesem Rahmen kann Folgendes geprüft werden:
+(5) Im Handlungsbereich „Vertriebssteuerung“ soll gezeigt werden, dass Geschäftsprozesse gesteuert und optimiert sowie aus vertriebsbezogenen Statistiken und Kennziffern Schlussfolgerungen für die Weiterentwicklung der Verkaufsprozesse gezogen werden können. Dabei sollen insbesondere wettbewerbsrechtliche Bestimmungen und Auswirkungen volkswirtschaftlicher Entwicklungen sowie des regionalen Strukturwandels beachtet werden. Es sollen Maßnahmen zur Sicherung der Wettbewerbsfähigkeit entwickelt werden. In diesem Rahmen kann Folgendes geprüft werden:
 
 - 1. :: Planen von Umsatz, Erträgen und Kosten unter Berücksichtigung von Markt- und Preisentwicklungen, Vertriebskennziffern und Veränderungen im Kaufverhalten von Kunden sowie in der Kundenstruktur,
 - 2. :: Analysieren der warenwirtschaftlichen Daten und der Sortimentsentwicklung, Steuern der Bestände und Ableiten von Maßnahmen,
@@ -150,7 +150,7 @@ Aus den einzelnen Bewertungen des situationsbezogenen Fachgesprächs und der Pr�
 - 1. :: die zusammengefasste Bewertung der schriftlichen Prüfung,
 - 2. :: die zusammengefasste Bewertung der mündlichen Prüfung.
 
-(3) Den Bewertungen für die Prüfungsteile schriftliche Prüfung“ und mündliche Prüfung“ ist nach Anlage 1 die jeweilige Note als Dezimalzahl zuzuordnen.
+(3) Den Bewertungen für die Prüfungsteile „schriftliche Prüfung“ und „mündliche Prüfung“ ist nach Anlage 1 die jeweilige Note als Dezimalzahl zuzuordnen.
 (4) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das arithmetische Mittel der beiden Prüfungsteile zu berechnen. Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerundeten Gesamtpunktzahl ist nach Anlage 1 die Note als Dezimalzahl und die Note in Worten zuzuordnen. Die zugeordnete Note ist die Gesamtnote.
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
@@ -212,11 +212,11 @@ Teil A -- Zeugnis ohne Prüfungsergebnisse:
 Teil B -- Zeugnis mit Prüfungsergebnissen:
 Alle Angaben des Teils A sowie zusätzlich:
 
-- 1. :: zum Prüfungsteil schriftliche Prüfung“
+- 1. :: zum Prüfungsteil „schriftliche Prüfung“
   - a) :: Benennung der Handlungsbereiche in der ersten und zweiten Teilprüfung,
   - b) :: die zusammengefasste Bewertung dieses Prüfungsteils mit Punkten und Note,
   - c) :: Bewertung der beiden betrieblichen Situationsaufgaben jeweils mit Punkten,
-- 2. :: zum Prüfungsteil mündliche Prüfung“ die zusammengefasste Bewertung dieses Prüfungsteils mit Punkten und Note,
+- 2. :: zum Prüfungsteil „mündliche Prüfung“ die zusammengefasste Bewertung dieses Prüfungsteils mit Punkten und Note,
 - 3. :: die errechnete Gesamtpunktzahl für die gesamte Prüfung,
 - 4. :: die Gesamtnote als Dezimalzahl,
 - 5. :: die Gesamtnote in Worten,

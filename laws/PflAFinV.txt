@@ -10,19 +10,19 @@ Auf Grund des § 55 Absatz 1 und des § 56 Absatz 3 des Pflegeberufegesetzes vom
 
 Inhaltsübersicht
 
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 § 1 - Begriffsbestimmungen
 
-(1) Sektor im Sinne dieser Verordnung bezeichnet die jeweilige Gesamtheit der Pflegeeinrichtungen im Sinne des § 7 Absatz 1 Nummer 2 oder 3 des Pflegeberufegesetzes in den Bereichen voll- und teilstationär“ oder ambulant“.
+(1) Sektor im Sinne dieser Verordnung bezeichnet die jeweilige Gesamtheit der Pflegeeinrichtungen im Sinne des § 7 Absatz 1 Nummer 2 oder 3 des Pflegeberufegesetzes in den Bereichen „voll- und teilstationär“ oder „ambulant“.
 (2) Pflegefachkräfte im Sinne dieser Verordnung sind Personen, denen die Erlaubnis zum Führen einer Berufsbezeichnung nach dem Krankenpflegegesetz, dem Altenpflegegesetz oder dem Pflegeberufegesetz erteilt wurde.
 (3) Festsetzungsjahr im Sinne dieser Verordnung ist das Vorjahr des jeweiligen Finanzierungszeitraums nach dem Pflegeberufegesetz.
 (4) Träger der praktischen Ausbildung im Sinne dieser Verordnung sind Einrichtungen nach § 8 Absatz 2 des Pflegeberufegesetzes, die mindestens einen Ausbildungsvertrag mit einer Auszubildenden oder einem Auszubildenden abgeschlossen haben.
@@ -283,25 +283,25 @@ Sonstige zentrale Dienste (z. B. Technischer Dienst, Werkstätten, Hausmeister, 
 Betriebskosten des Schulgebäudes
 5.1
 Betriebskosten der Gebäude(-teile) und Räume, die von der Pflegeschule genutzt werden, ggf. anteilige Zurechnung (Unterrichtsräume, Demonstrationsräume, Gruppenarbeitsräume, Büros, Laboratorien, Medienräume, Besprechungsräume, Bibliothek, Sanitärräume, Archiv u. ä.) wie
-
+ 
 Wasser, Abwasser, Energie, Brennstoffe
-
+ 
 Wirtschaftsbedarf (z. B. Gebäudereinigung)
-
+ 
 Steuern, Abgaben (z. B. Müllentsorgung), Versicherungen
-
-
+ 
+ 
 Instandhaltung/Unterhalt der Außenanlagen
-
-
+ 
+ 
 Gebrauchsgüter
-
-
+ 
+ 
 Mietnebenkosten für Ausbildungsräume
-
+ 
 6.
 Sonstige Gemeinkosten
-
+ 
 B.
 Kosten des Trägers der praktischen Ausbildung
 1.
@@ -367,18 +367,18 @@ Sonstige zentrale Dienste (z. B. Technischer Dienst, Werkstätten, Hausmeister, 
 Betriebskosten der Gebäude
 4.1
 Betriebskosten der Gebäude(-teile) und Räume, die von der Ausbildungsstätte für die praktische Ausbildung genutzt werden, ggf. anteilige Zurechnung (Unterrichtsräume, Demonstrationsräume, Gruppenarbeitsräume, Büros, Laboratorien, Medienräume, Besprechungsräume, Bibliothek, Sanitärräume, Archiv u. ä.) wie
-
+ 
 Wasser, Abwasser, Energie, Brennstoffe
-
+ 
 Wirtschaftsbedarf (z. B. Gebäudereinigung)
-
+ 
 Steuern, Abgaben (z. B. Müllentsorgung), Versicherungen
-
-
+ 
+ 
 Instandhaltung/Unterhalt der Außenanlagen
-
+ 
 Gebrauchsgüter
-
+ 
 Mietnebenkosten für Ausbildungsräume
 5.
 Sonstige Gemeinkosten

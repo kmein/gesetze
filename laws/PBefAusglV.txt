@@ -115,47 +115,47 @@ Reifen
 Sonstiges Material (einschließlich der nicht aktivierten geringwertigen Wirtschaftsgüter) Dazu gehören Werkzeuge und Arbeitsgerät, Reifenreparaturen, Streusand und Salz, Dienstausrüstung und Schutzkleidung, Fahrausweise, Bürobedarf, Dienstkleidung und sonstige Bau-, Betriebs- und Hilfsstoffe.
 2c.
 Fremdleistungen (soweit nicht aktivierungspflichtig) Dazu zählen Unternehmerleistungen, Dienstleistungen und sonstige Fremdleistungen. Zum Konteninhalt der Kostenart Fremdleistungen gehören:
-
-
+ 
+ 
 Unternehmerleistungen
-
-
+ 
+ 
 Leistungen von Bau- und industriellen Unternehmen, Handwerkern u. dgl.
-
-
+ 
+ 
 Dienstleistungen
-
-
+ 
+ 
 Honorar für Bilanzprüfungen, Steuerberatung, freiberufliche Mitarbeit, technische, wirtschaftliche und medizinische Gutachten, Zeichnungen u. dgl.
-
-
+ 
+ 
 Sonstige Fremdleistungen
-
-
+ 
+ 
 Fahrkarten-Verkaufsprovisionen, Depotgebühren, Postfachgebühren, Auskunftsgebühren, Anmietung von Omnibussen, Frachten und Fuhrlöhne für Güter, die nicht aktiviert werden.
 2d.
 Haftpflicht- und Fahrzeugversicherung
-
+ 
 Es sind die für die Rechnungsperiode fälligen Prämien für Haftpflicht- und sonstige Fahrzeugversicherungen sowie die Umlage derartiger Risikogemeinschaften einzutragen.
-
+ 
 Bei der Fahrzeughaftpflichtversicherung ist anzugeben, ob die Versicherungen als Vollkasko-, Teilkasko- oder als gesetzliche Mindestversicherung abgeschlossen sind (ggf. Angaben der Höhe der Selbstkostenbeteiligung).
 2e.
 Sonstige Versicherungen
-
+ 
 Hierher gehören die Prämien für Sachversicherungen, Unfallversicherungen und alle nicht unter 2d aufgeführten Haftpflichtversicherungen.
 3a.
 Löhne und
 3b.
 Gehälter
-
+ 
 Löhne und Gehälter sind nach Art und Umfang nur insoweit zu berücksichtigen, als sie den Grundsätzen wirtschaftlicher Betriebsführung entsprechen (LSP Nr. 23). Es sind die tariflich vereinbarten Löhne und Gehälter einzusetzen (kalkulatorischer Unternehmerlohn siehe Ziffer 8).
 3c.
 Sozialkosten
-
+ 
 Es sind die gesetzlichen und die tariflich vereinbarten Sozialaufwendungen in tatsächlicher Höhe anzusetzen.
 3d.
 Zuwendungen an Pensions- und Unterstützungskassen sowie Pensionsrückstellungen
-
+ 
 Es sind die Kosten bis zur steuerlich zulässigen Höhe einzusetzen.
 4.
 Steuern, Gebühren, Beiträge
@@ -166,31 +166,31 @@ Gewerbekapital- und Lohnsummensteuer
 Vermögensteuer
 4c.
 Sonstige Steuern
-
+ 
 Es sind alle sonstigen Kostensteuern des Verkehrsbetriebs einzusetzen (z.B. Grundsteuer).
 4d.
 Konzessionsgebühren
-
+ 
 Ausgaben für die Benutzung des Verkehrsraums öffentlicher Straßen sind - auch in Form von Pacht- oder Mietzahlungen - nicht in Ansatz zu bringen.
 5.
 Raum- und Gebäudemieten und Pachten
-
+ 
 Für gemietete Gebäude und Gebäudeteile sowie für gepachtete Grundstücke - soweit sie dem Verkehrsbetrieb dienen - sind die vereinbarten Mieten und Pachten einzusetzen; für unternehmenseigene Gebäude und Grundstücke, soweit sie nicht in den anderen Kostenarten enthalten sind, die tatsächlichen Aufwendungen.
 6.
 Sonstige Kosten
-
+ 
 Hierher gehören Postkosten, Reise- und Fahrgeldkosten, Gerichts- und Anwaltskosten, sonstige Verwaltungskosten, ebenso Haftpflichtleistungen, die nicht aus Fremdversicherungen oder aus Rückstellungen gedeckt sind.
 7.
 Kalkulatorische Abschreibungen
-
+ 
 Ausgangsbasis für die kalkulatorischen Abschreibungen sind die Anschaffungs- oder Herstellungskosten, vermindert um Investitionszuschüsse der öffentlichen Hand. Die in der Handels- und Steuerbilanz vorgenommenen Regel- und Sonderabschreibungen bleiben außer Betracht.
 8.
 Kalkulatorischer Unternehmerlohn
-
+ 
 Für die Mitarbeit des Unternehmers in Einzelunternehmen und Personengesellschaften und ggf. unentgeltlich mithelfende Familienangehörige sind angemessene Kosten einzusetzen.
 9.
 Kalkulatorische Zinsen (vgl. Nr. 43 LSP)
-
+ 
 Für die Ermittlung des betriebsnotwendigen Kapitals gilt Ziffer 7 entsprechend.
 Kostenermittlungsbogen
 1

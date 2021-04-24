@@ -34,7 +34,7 @@ Inhaltsübersicht
 (6) Projekttätigkeit ist die Entwicklung und Durchführung eines Projektes zur Minderung von Upstream-Emissionen.
 (7) Kyoto-Projekttätigkeit ist eine Projekttätigkeit nach § 2 Nummer 12 des Projekt-Mechanismen-Gesetzes vom 22. September 2005 (BGBl. I S. 2826), das zuletzt durch Artikel 67 des Gesetzes vom 29. März 2017 (BGBl. I S. 626) geändert worden ist.
 (8) Projektträger ist eine natürliche oder juristische Person, die die Entscheidungsgewalt über eine Projekttätigkeit oder eine Kyoto-Projekttätigkeit innehat; Projektträger können auch mehrere Personen gemeinschaftlich sein.
-(9) Projektgrenze ist die Projektgrenze nach Ziffer 52 des Abschnitts G der Anlage Modalitäten und Verfahren für einen Mechanismus für umweltverträgliche Entwicklung“ des in dem Anhang zum Projekt-Mechanismen-Gesetz abgedruckten Beschlusses 17/CP.7, Modalitäten und Verfahren für einen Mechanismus für umweltverträgliche Entwicklung im Sinne des Artikels 12 des Protokolls von Kyoto.
+(9) Projektgrenze ist die Projektgrenze nach Ziffer 52 des Abschnitts G der Anlage „Modalitäten und Verfahren für einen Mechanismus für umweltverträgliche Entwicklung“ des in dem Anhang zum Projekt-Mechanismen-Gesetz abgedruckten Beschlusses 17/CP.7, Modalitäten und Verfahren für einen Mechanismus für umweltverträgliche Entwicklung im Sinne des Artikels 12 des Protokolls von Kyoto.
 (10) Gastgeberstaat ist der Staat, auf dessen Staatsgebiet oder in dessen ausschließlicher Wirtschaftszone die Projekttätigkeit durchgeführt werden soll.
 (11) Verpflichtete sind die im Sinne des § 37a Absatz 2 des Bundes-Immissionsschutzgesetzes Verpflichteten.
 (12) Verpflichtungsjahr ist der in § 37a Absatz 1 Satz 1 des Bundes-Immissionsschutzgesetzes genannte Zeitraum.
@@ -61,7 +61,7 @@ Zur Anrechnung von Upstream-Emissionsminderungen zur Erfüllung der gesetzlichen
 § 6 - Ermittlung der Upstream-Emissionsminderung
 
 (1) Upstream-Emissionsminderungen werden nach den Grundsätzen und Normen der DIN EN ISO 14064, Ausgabe Mai 2012, DIN EN ISO 14065, Ausgabe Juli 2013, und ISO 14066, Ausgabe April 2011, ermittelt.
-(2) Die Ermittlung der Höhe der Upstream-Emissionsminderungen erfolgt nach der Anlage Modalitäten und Verfahren für einen Mechanismus für umweltverträgliche Entwicklung“ des im Anhang zum Projekt-Mechanismen-Gesetzes abgedruckten Beschlusses 17/CP.7 Modalitäten und Verfahren für einen Mechanismus für umweltverträgliche Entwicklung im Sinne des Artikels 12 des Protokolls von Kyoto“, und zwar entsprechend
+(2) Die Ermittlung der Höhe der Upstream-Emissionsminderungen erfolgt nach der Anlage „Modalitäten und Verfahren für einen Mechanismus für umweltverträgliche Entwicklung“ des im Anhang zum Projekt-Mechanismen-Gesetzes abgedruckten Beschlusses „17/CP.7 Modalitäten und Verfahren für einen Mechanismus für umweltverträgliche Entwicklung im Sinne des Artikels 12 des Protokolls von Kyoto“, und zwar entsprechend
 
 - 1. :: den Berechnungsverfahren, die die Exekutivrat nach Nummer 5 Buchstabe d des Abschnitts C dieser Anlage genehmigt hat,
 - 2. :: den Nummern 44, 45, 47, 48 und 50 bis 52 des Abschnitts G dieser Anlage und

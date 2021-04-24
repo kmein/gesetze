@@ -6,34 +6,34 @@ Ausfertigungsdatum: 08.08.2020
 
 Inhaltsübersicht
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 § 1 - Anwendungsbereich
 
@@ -56,38 +56,38 @@ Inhaltsübersicht
 
 Im Sinne dieses Gesetzes ist oder sind:
 
-- 1. :: Anordnungstermin“ der Termin, der jeweils 31 Monate vor den jeweiligen Zieldaten gemäß § 4 liegt und zu dem die Anordnung der gesetzlichen Reduzierung erfolgt,
-- 2. :: Anlagenbetreiber“, wer unabhängig vom Eigentum eine Steinkohleanlage oder eine Braunkohleanlage für die Erzeugung von elektrischer Energie durch den Einsatz von Kohle nutzt,
-- 3. :: Ausgangsniveau“ die Summe der Nettonennleistung von Steinkohleanlagen, die der Ermittlung des Ausschreibungsvolumens zugrunde gelegt wird,
-- 4. :: Ausschreibung“ ein transparentes, diskriminierungsfreies und wettbewerbliches Verfahren zur Bestimmung der Anspruchsberechtigten und der Höhe des Steinkohlezuschlags,
-- 5. :: Ausschreibungsvolumen“ die Summe der Nettonennleistung in Megawatt, für die der Anspruch auf einen Steinkohlezuschlag zu einem Gebotstermin ausgeschrieben wird,
-- 6. :: bedarfsdimensionierender Netznutzungsfall“ derjenige Netznutzungsfall eines Betrachtungszeitraums, welcher nach der jeweils aktuellen Reservebedarfsfeststellung der Bundesnetzagentur nach § 3 Absatz 1 der Netzreserveverordnung vom 27. Juni 2013 (BGBl. I S. 1947), die zuletzt durch Artikel 15 des Gesetzes vom 13. Mai 2019 (BGBl. I S. 706) geändert worden ist, für einen Betrachtungszeitraum den höchsten Bedarf an Erzeugungskapazität für die Netzreserve aufweist,
-- 7. :: bezuschlagtes Gebot“ ein Gebot, das im Rahmen einer Ausschreibung einen Zuschlag erhalten hat,
-- 8. :: Braunkohle“ Rohbraunkohle, Koks, Kohlebriketts oder Kohlestaub, die jeweils aus Braunkohle hergestellt werden oder durch den Einsatz von Braunkohle entstehen,
-- 9. :: Braunkohleanlage“ eine Anlage zur Erzeugung von elektrischer Energie durch den Einsatz von Braunkohle; wobei jedenfalls die in Anlage 2 aufgeführten Anlagen Braunkohleanlagen in diesem Sinne sind; im Übrigen gilt die Begriffsbestimmung der Steinkohleanlage entsprechend,
-- 10. :: Braunkohle-Kleinanlage“ eine Braunkohleanlage mit einer Nettonennleistung bis zu einschließlich 150 Megawatt,
-- 11. :: Dampfsammelschiene“ eine Einrichtung zur leitungsgebundenen Versorgung mit Dampf, an der mindestens zwei Dampferzeuger und eine Dampfturbine oder ein Dampferzeuger und zwei Dampfturbinen angeschlossen sind; keine Dampfsammelschienen sind Dampfnetze im Sinne des § 2 Nummer 6a des Kraft-Wärme-Kopplungsgesetzes und Wärmenetze im Sinne des § 2 Nummer 32 des Kraft-Wärme-Kopplungsgesetzes,
-- 12. :: Dampfsammelschienenblock“ eine thermodynamisch abgrenzbare Einheit einer Steinkohleanlage, die über eine Dampfsammelschiene verfügt; jeder Block muss über mindestens einen Dampferzeuger, der kein Steinkohle-Reservedampferzeuger ist, eine Turbine und einen Generator verfügen und auch ohne die anderen Blöcke elektrische Energie erzeugen und die angegebene Nettonennleistung erreichen können,
-- 13. :: Gebotsmenge“ die Nettonennleistung in Megawatt, für die der Bieter unter Berücksichtigung von § 14 Absatz 2 ein Gebot abgegeben hat,
-- 14. :: Gebotstermin“ der Kalendertag, an dem die Frist für die Abgabe von Geboten für eine Ausschreibung endet,
-- 15. :: Gebotswert“ der Betrag in Euro pro Megawatt Nettonennleistung, den der Bieter in seinem Gebot angegeben hat,
-- 16. :: gesetzliche Reduzierung“ die aufgrund einer gesetzlichen Regelung angeordnete Reduzierung der Steinkohleverstromung mit der Rechtsfolge des Verbots der Kohleverfeuerung,
-- 17. :: Hauptanlagenteile“ Dampferzeuger, die keine Steinkohle-Reservedampferzeuger sind, Turbinen und Generatoren,
-- 18. :: Hauptenergieträger“ der von einer Anlage zur Erzeugung elektrischer Energie überwiegend, mindestens zu 51 Prozent, in den letzten drei Kalenderjahren vor dem 1. Januar 2020 eingesetzte Brennstoff,
-- 19. :: Höchstpreis“ der gesetzlich nach § 19 festgelegte Wert in Euro pro Megawatt Nettonennleistung,
-- 20. :: Inbetriebnahme“ die erstmalige Inbetriebsetzung einer Stein- oder Braunkohleanlage zum Zweck der kommerziellen Erzeugung elektrischer Energie nach Herstellung der technischen Betriebsbereitschaft der Stein- oder Braunkohleanlage; der Austausch technischer oder baulicher Teile der Steinkohleanlage nach der erstmaligen Inbetriebnahme führt vorbehaltlich der Regelung in § 31 nicht zu einer Änderung des Zeitpunkts der Inbetriebnahme; im Fall eines Dampfsammelschienenblocks nach Nummer 12 steht die Inbetriebnahme des ältesten Dampferzeugers der Inbetriebnahme des Blocks gleich,
-- 21. :: Kohle“ Braunkohle, Steinkohle, Koks, Kohlebriketts, Kohlestaub, Torfbriketts oder Brenntorf,
-- 22. :: Nettonennleistung“ die höchste elektrische Nettodauerleistung als Wirkleistung unter Nennbedingungen, die eine Anlage zur Erzeugung elektrischer Energie erreicht,
-- 23. :: rechnerisch ermittelte Nettonennleistung“ der kleinere Wert eines Vergleichs der Feuerungswärmeleistung sämtlicher Dampferzeuger einer Steinkohleanlage in Megawatt multipliziert mit einem durchschnittlichen elektrischen Wirkungsgrad von 34 Prozent einerseits und der Dauerwirkleistung sämtlicher Generatoren abzüglich 10 Prozent für den Kraftwerkseigenbedarf andererseits,
-- 24. :: Steinkohle“ Koks, Kohlebriketts oder Kohlestaub, die jeweils aus Steinkohle hergestellt werden oder durch den Einsatz von Steinkohle entstehen,
-- 25. :: Steinkohleanlage“ eine Anlage zur Erzeugung von elektrischer Energie durch den Einsatz von Steinkohle; die Anlage umfasst insbesondere alle Hauptanlagenteile und Steinkohle-Reservedampferzeuger, die mechanisch oder thermodynamisch vor dem Übergang zu einem Wärmenetz im Sinne des § 2 Nummer 32 des Kraft-Wärme-Kopplungsgesetzes oder vor dem Übergang zu einem Dampfnetz im Sinne des § 2 Nummer 6a des Kraft-Wärme-Kopplungsgesetzes miteinander verbunden sind; verfügt eine Steinkohleanlage über eine Dampfsammelschiene und wurde nach § 13 eine wirksame Abgrenzung zu Dampfsammelschienenblöcken vorgenommen, gelten die Dampfsammelschienenblöcke zur Erzeugung von elektrischer Energie durch den Einsatz von Steinkohle jeweils als Steinkohleanlage im Sinne dieses Gesetzes,
-- 26. :: Steinkohle-Kleinanlage“ eine Steinkohleanlage mit einer Nettonennleistung bis zu einschließlich 150 Megawatt,
-- 27. :: Steinkohle-Reservedampferzeuger“ ein Dampferzeuger zur Erzeugung von Dampf durch den Einsatz von Steinkohle, der in den letzten drei Kalenderjahren vor dem 1. Januar 2020 durchschnittlich mit weniger als 500 Vollbenutzungsstunden genutzt wurde,
-- 28. :: Steinkohlezuschlag“ der Betrag in Euro, den die Bundesnetzagentur im Rahmen der Ausschreibung nach Teil 3 ermittelt und auf den ab Zuschlagserteilung nach § 23 einmalig ein Anspruch entsteht,
-- 29. :: verbindliche Kohleverfeuerungsverbotsanzeige“ die Anzeige nach § 9 Absatz 1 Nummer 2,
-- 30. :: verbindliche Stilllegungsanzeige“ die Anzeige nach § 9 Absatz 1 Nummer 1,
-- 31. :: verkürztes Verfahren“ verkürzte Ausschreibungsverfahren für die Jahre 2020 und 2021,
-- 32. :: Zielniveau“ die in § 4 geregelte höchstens zugelassene Summe der Nettonennleistung der in der Bundesrepublik Deutschland bis zum jeweiligen Zieldatum am Strommarkt befindlichen Braun- und Steinkohleanlagen.
+- 1. :: „Anordnungstermin“ der Termin, der jeweils 31 Monate vor den jeweiligen Zieldaten gemäß § 4 liegt und zu dem die Anordnung der gesetzlichen Reduzierung erfolgt,
+- 2. :: „Anlagenbetreiber“, wer unabhängig vom Eigentum eine Steinkohleanlage oder eine Braunkohleanlage für die Erzeugung von elektrischer Energie durch den Einsatz von Kohle nutzt,
+- 3. :: „Ausgangsniveau“ die Summe der Nettonennleistung von Steinkohleanlagen, die der Ermittlung des Ausschreibungsvolumens zugrunde gelegt wird,
+- 4. :: „Ausschreibung“ ein transparentes, diskriminierungsfreies und wettbewerbliches Verfahren zur Bestimmung der Anspruchsberechtigten und der Höhe des Steinkohlezuschlags,
+- 5. :: „Ausschreibungsvolumen“ die Summe der Nettonennleistung in Megawatt, für die der Anspruch auf einen Steinkohlezuschlag zu einem Gebotstermin ausgeschrieben wird,
+- 6. :: „bedarfsdimensionierender Netznutzungsfall“ derjenige Netznutzungsfall eines Betrachtungszeitraums, welcher nach der jeweils aktuellen Reservebedarfsfeststellung der Bundesnetzagentur nach § 3 Absatz 1 der Netzreserveverordnung vom 27. Juni 2013 (BGBl. I S. 1947), die zuletzt durch Artikel 15 des Gesetzes vom 13. Mai 2019 (BGBl. I S. 706) geändert worden ist, für einen Betrachtungszeitraum den höchsten Bedarf an Erzeugungskapazität für die Netzreserve aufweist,
+- 7. :: „bezuschlagtes Gebot“ ein Gebot, das im Rahmen einer Ausschreibung einen Zuschlag erhalten hat,
+- 8. :: „Braunkohle“ Rohbraunkohle, Koks, Kohlebriketts oder Kohlestaub, die jeweils aus Braunkohle hergestellt werden oder durch den Einsatz von Braunkohle entstehen,
+- 9. :: „Braunkohleanlage“ eine Anlage zur Erzeugung von elektrischer Energie durch den Einsatz von Braunkohle; wobei jedenfalls die in Anlage 2 aufgeführten Anlagen Braunkohleanlagen in diesem Sinne sind; im Übrigen gilt die Begriffsbestimmung der Steinkohleanlage entsprechend,
+- 10. :: „Braunkohle-Kleinanlage“ eine Braunkohleanlage mit einer Nettonennleistung bis zu einschließlich 150 Megawatt,
+- 11. :: „Dampfsammelschiene“ eine Einrichtung zur leitungsgebundenen Versorgung mit Dampf, an der mindestens zwei Dampferzeuger und eine Dampfturbine oder ein Dampferzeuger und zwei Dampfturbinen angeschlossen sind; keine Dampfsammelschienen sind Dampfnetze im Sinne des § 2 Nummer 6a des Kraft-Wärme-Kopplungsgesetzes und Wärmenetze im Sinne des § 2 Nummer 32 des Kraft-Wärme-Kopplungsgesetzes,
+- 12. :: „Dampfsammelschienenblock“ eine thermodynamisch abgrenzbare Einheit einer Steinkohleanlage, die über eine Dampfsammelschiene verfügt; jeder Block muss über mindestens einen Dampferzeuger, der kein Steinkohle-Reservedampferzeuger ist, eine Turbine und einen Generator verfügen und auch ohne die anderen Blöcke elektrische Energie erzeugen und die angegebene Nettonennleistung erreichen können,
+- 13. :: „Gebotsmenge“ die Nettonennleistung in Megawatt, für die der Bieter unter Berücksichtigung von § 14 Absatz 2 ein Gebot abgegeben hat,
+- 14. :: „Gebotstermin“ der Kalendertag, an dem die Frist für die Abgabe von Geboten für eine Ausschreibung endet,
+- 15. :: „Gebotswert“ der Betrag in Euro pro Megawatt Nettonennleistung, den der Bieter in seinem Gebot angegeben hat,
+- 16. :: „gesetzliche Reduzierung“ die aufgrund einer gesetzlichen Regelung angeordnete Reduzierung der Steinkohleverstromung mit der Rechtsfolge des Verbots der Kohleverfeuerung,
+- 17. :: „Hauptanlagenteile“ Dampferzeuger, die keine Steinkohle-Reservedampferzeuger sind, Turbinen und Generatoren,
+- 18. :: „Hauptenergieträger“ der von einer Anlage zur Erzeugung elektrischer Energie überwiegend, mindestens zu 51 Prozent, in den letzten drei Kalenderjahren vor dem 1. Januar 2020 eingesetzte Brennstoff,
+- 19. :: „Höchstpreis“ der gesetzlich nach § 19 festgelegte Wert in Euro pro Megawatt Nettonennleistung,
+- 20. :: „Inbetriebnahme“ die erstmalige Inbetriebsetzung einer Stein- oder Braunkohleanlage zum Zweck der kommerziellen Erzeugung elektrischer Energie nach Herstellung der technischen Betriebsbereitschaft der Stein- oder Braunkohleanlage; der Austausch technischer oder baulicher Teile der Steinkohleanlage nach der erstmaligen Inbetriebnahme führt vorbehaltlich der Regelung in § 31 nicht zu einer Änderung des Zeitpunkts der Inbetriebnahme; im Fall eines Dampfsammelschienenblocks nach Nummer 12 steht die Inbetriebnahme des ältesten Dampferzeugers der Inbetriebnahme des Blocks gleich,
+- 21. :: „Kohle“ Braunkohle, Steinkohle, Koks, Kohlebriketts, Kohlestaub, Torfbriketts oder Brenntorf,
+- 22. :: „Nettonennleistung“ die höchste elektrische Nettodauerleistung als Wirkleistung unter Nennbedingungen, die eine Anlage zur Erzeugung elektrischer Energie erreicht,
+- 23. :: „rechnerisch ermittelte Nettonennleistung“ der kleinere Wert eines Vergleichs der Feuerungswärmeleistung sämtlicher Dampferzeuger einer Steinkohleanlage in Megawatt multipliziert mit einem durchschnittlichen elektrischen Wirkungsgrad von 34 Prozent einerseits und der Dauerwirkleistung sämtlicher Generatoren abzüglich 10 Prozent für den Kraftwerkseigenbedarf andererseits,
+- 24. :: „Steinkohle“ Koks, Kohlebriketts oder Kohlestaub, die jeweils aus Steinkohle hergestellt werden oder durch den Einsatz von Steinkohle entstehen,
+- 25. :: „Steinkohleanlage“ eine Anlage zur Erzeugung von elektrischer Energie durch den Einsatz von Steinkohle; die Anlage umfasst insbesondere alle Hauptanlagenteile und Steinkohle-Reservedampferzeuger, die mechanisch oder thermodynamisch vor dem Übergang zu einem Wärmenetz im Sinne des § 2 Nummer 32 des Kraft-Wärme-Kopplungsgesetzes oder vor dem Übergang zu einem Dampfnetz im Sinne des § 2 Nummer 6a des Kraft-Wärme-Kopplungsgesetzes miteinander verbunden sind; verfügt eine Steinkohleanlage über eine Dampfsammelschiene und wurde nach § 13 eine wirksame Abgrenzung zu Dampfsammelschienenblöcken vorgenommen, gelten die Dampfsammelschienenblöcke zur Erzeugung von elektrischer Energie durch den Einsatz von Steinkohle jeweils als Steinkohleanlage im Sinne dieses Gesetzes,
+- 26. :: „Steinkohle-Kleinanlage“ eine Steinkohleanlage mit einer Nettonennleistung bis zu einschließlich 150 Megawatt,
+- 27. :: „Steinkohle-Reservedampferzeuger“ ein Dampferzeuger zur Erzeugung von Dampf durch den Einsatz von Steinkohle, der in den letzten drei Kalenderjahren vor dem 1. Januar 2020 durchschnittlich mit weniger als 500 Vollbenutzungsstunden genutzt wurde,
+- 28. :: „Steinkohlezuschlag“ der Betrag in Euro, den die Bundesnetzagentur im Rahmen der Ausschreibung nach Teil 3 ermittelt und auf den ab Zuschlagserteilung nach § 23 einmalig ein Anspruch entsteht,
+- 29. :: „verbindliche Kohleverfeuerungsverbotsanzeige“ die Anzeige nach § 9 Absatz 1 Nummer 2,
+- 30. :: „verbindliche Stilllegungsanzeige“ die Anzeige nach § 9 Absatz 1 Nummer 1,
+- 31. :: „verkürztes Verfahren“ verkürzte Ausschreibungsverfahren für die Jahre 2020 und 2021,
+- 32. :: „Zielniveau“ die in § 4 geregelte höchstens zugelassene Summe der Nettonennleistung der in der Bundesrepublik Deutschland bis zum jeweiligen Zieldatum am Strommarkt befindlichen Braun- und Steinkohleanlagen.
 
 
 § 4 - Zielniveau und Zieldaten
@@ -278,7 +278,7 @@ Der Anspruch auf den erhöhten Zuschlag für KWK-Strom nach § 7 Absatz 2 des Kr
 (2) Die Gebotsmenge nach Absatz 1 Nummer 5 muss stets der gesamten Nettonennleistung der Steinkohleanlage entsprechen.
 (3) Dem Gebot sind Nachweise über das Vorliegen der Voraussetzungen nach Absatz 1 Nummer 10 und § 12 Absatz 1 Satz 2 Nummer 4 bis 8 beizufügen. Gibt ein Bieter in einer Ausschreibung mehrere Gebote für unterschiedliche Steinkohleanlagen ab, muss er die Gebote nummerieren und eindeutig kennzeichnen, welche Nachweise zu welchem Gebot gehören.
 (4) Die Gebote müssen der Bundesnetzagentur spätestens am jeweiligen Gebotstermin zugehen. Nicht fristgerecht eingegangene Gebote bleiben unberücksichtigt. Gebote müssen den Formatvorgaben nach § 11 Absatz 3 entsprechen, soweit die Bundesnetzagentur Formatvorgaben gemacht hat.
-
+ 
 (+++ Teil 3 (§§ 10 bis 26): Zur Anwendung vgl. § 43 Satz 2 +++)
 
 § 15 - Rücknahme von Geboten
@@ -567,7 +567,7 @@ Steinkohleanlagen, für die die gesetzliche Reduzierung nach § 35 Absatz 1 ange
 
 § 41 - Wahlrechte im Stilllegungspfad
 
-(1) In den in Anlage 2 in der Spalte Wahlrecht“ genannten Fällen hat der jeweilige Anlagenbetreiber ein Wahlrecht jeweils zwischen den zwei dort genannten Braunkohleanlagen am selben Standort. Ein Wahlrecht besteht jeweils zwischen den Braunkohleanlagen Weisweiler E und Weisweiler F (Wahlrecht Weisweiler E/F), zwischen Weisweiler G und H (Wahlrecht Weisweiler G/H) sowie vorbehaltlich des § 47 Absatz 2 zwischen Niederaußem G und H (Wahlrecht Niederaußem G/H). Durch Ausübung des jeweiligen Wahlrechts in Bezug auf Weisweiler E/F und Weisweiler G/H kann der jeweilige Anlagenbetreiber bestimmen, welche der beiden vom jeweiligen Wahlrecht betroffenen Braunkohleanlagen zu dem früheren und welche zu dem späteren Stilllegungszeitpunkt endgültig stillgelegt werden soll. Durch Ausübung des Wahlrechts Niederaußem G/H kann der jeweilige Anlagenbetreiber bestimmen, welche der beiden vom Wahlrecht betroffenen Braunkohleanlagen mit Ablauf des 31. Dezember 2029 endgültig stillgelegt und welche zunächst in die Zeitlich gestreckte Stilllegung überführt wird.
+(1) In den in Anlage 2 in der Spalte „Wahlrecht“ genannten Fällen hat der jeweilige Anlagenbetreiber ein Wahlrecht jeweils zwischen den zwei dort genannten Braunkohleanlagen am selben Standort. Ein Wahlrecht besteht jeweils zwischen den Braunkohleanlagen Weisweiler E und Weisweiler F (Wahlrecht Weisweiler E/F), zwischen Weisweiler G und H (Wahlrecht Weisweiler G/H) sowie vorbehaltlich des § 47 Absatz 2 zwischen Niederaußem G und H (Wahlrecht Niederaußem G/H). Durch Ausübung des jeweiligen Wahlrechts in Bezug auf Weisweiler E/F und Weisweiler G/H kann der jeweilige Anlagenbetreiber bestimmen, welche der beiden vom jeweiligen Wahlrecht betroffenen Braunkohleanlagen zu dem früheren und welche zu dem späteren Stilllegungszeitpunkt endgültig stillgelegt werden soll. Durch Ausübung des Wahlrechts Niederaußem G/H kann der jeweilige Anlagenbetreiber bestimmen, welche der beiden vom Wahlrecht betroffenen Braunkohleanlagen mit Ablauf des 31. Dezember 2029 endgültig stillgelegt und welche zunächst in die Zeitlich gestreckte Stilllegung überführt wird.
 (2) Der jeweilige Anlagenbetreiber übt sein Wahlrecht aus, indem er seine Wahl im Fall des Wahlrechts Weisweiler E/F bis zum 31. Dezember 2020, im Fall des Wahlrechts Weisweiler G/H bis zum 1. April 2027 sowie im Fall des Wahlrechts Niederaußem G/H bis zum 31. Dezember 2028 dem jeweils regelzonenverantwortlichen Übertragungsnetzbetreiber schriftlich und unwiderruflich mitteilt. Maßgeblich für die Einhaltung der Frist ist der Zugang der Mitteilung beim jeweils regelzonenverantwortlichen Übertragungsnetzbetreiber. Übt der Anlagenbetreiber sein Wahlrecht nicht oder nicht fristgerecht aus, werden die Braunkohleanlagen Weisweiler E, Weisweiler G und Niederaußem G in Bezug auf das jeweilige Wahlrecht zum früheren des in Anlage 2 für das Wahlrecht genannten Stilllegungszeitpunkts endgültig stillgelegt. Der jeweilige Anlagenbetreiber informiert das Bundesministerium für Wirtschaft und Energie unverzüglich über die Ausübung seines Wahlrechts.
 
 § 42 - Netzreserve

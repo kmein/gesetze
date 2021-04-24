@@ -11,7 +11,7 @@ Auf der Grundlage der §§ 25 Abs. 1 und 82 Abs. 2 und Abs. 4 des Gesetzes vom 2
 Inhaltsübersicht
 
 Erster Teil
-
+ 
 Bauvorlagen
 § 1
 Allgemeines
@@ -36,14 +36,14 @@ Bauvorlagen für Werbeanlagen und Warenautomaten
 § 11
 Antrag und Unterlagen für die Genehmigung von Grundstücksteilungen
 Zweiter Teil
-
+ 
 Bautechnische Prüfung von Bauvorhaben
-
-
+ 
+ 
 Erster Abschnitt
-
-
-
+ 
+ 
+ 
 Prüfämter und Prüfingenieure
 § 12
 Prüfämter und Prüfingenieure
@@ -57,12 +57,12 @@ Zulassungsverfahren
 Gutachten, Gutachterausschuß
 § 17
 Erlöschen, Rücknahme und Widerruf der Zulassung
-
-
+ 
+ 
 Zweiter Abschnitt
-
-
-
+ 
+ 
+ 
 Bautechnische Prüfungen
 § 18
 Übertragung von Prüfaufgaben
@@ -73,7 +73,7 @@ Ausführung von Prüfaufträgen
 § 21
 Typenprüfung - Prüfung Fliegender Bauten
 Dritter Teil
-
+ 
 Überwachung
 § 22
 Überwachungspflicht
@@ -82,7 +82,7 @@ Dritter Teil
 § 24
 Überwachungszeichen
 Vierter Teil
-
+ 
 Schlußvorschrift
 § 25
 Inkrafttreten

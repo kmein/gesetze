@@ -10,12 +10,12 @@ Auf Grund des § 4 Absatz 1 und des § 6 des Berufsbildungsgesetzes, die durch A
 
 Inhaltsübersicht
 
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 
 § 1 - Staatliche Anerkennung des Ausbildungsberufes
 
@@ -203,15 +203,15 @@ Teil 2 der Abschlussprüfung findet in folgenden Prüfungsbereichen statt:
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
-- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens ausreichend“,
-- 2. :: im Ergebnis von Teil 2 mit mindestens ausreichend“,
-- 3. :: in den Prüfungsbereichen Brandbekämpfung und Menschenrettung“ sowie Technische Hilfeleistung und ABC-Einsatz“ mit mindestens ausreichend“,
-- 4. :: in mindestens einem der übrigen Prüfungsbereiche von Teil 2 der Abschlussprüfung mit mindestens ausreichend“ und
-- 5. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit ungenügend“.
+- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens „ausreichend“,
+- 2. :: im Ergebnis von Teil 2 mit mindestens „ausreichend“,
+- 3. :: in den Prüfungsbereichen „Brandbekämpfung und Menschenrettung“ sowie „Technische Hilfeleistung und ABC-Einsatz“ mit mindestens „ausreichend“,
+- 4. :: in mindestens einem der übrigen Prüfungsbereiche von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“ und
+- 5. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit „ungenügend“.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche Grundlagen und Techniken der Gefahrenabwehr“ oder Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Grundlagen und Techniken der Gefahrenabwehr“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-- 1. :: der Prüfungsbereich schlechter als mit ausreichend“ bewertet worden ist und
+- 1. :: der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 - 2. :: die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 Bei der Ermittlung der Ergebnisse für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
@@ -228,4 +228,4 @@ Diese Verordnung tritt am 1. August 2015 in Kraft. Gleichzeitig tritt die Verord
 Anlage - (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Werkfeuerwehrmann und zur Werkfeuerwehrfrau
 
 (Fundstelle: BGBl. I 2015, 834 - 841)
-
+ 

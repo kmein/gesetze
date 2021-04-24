@@ -8,7 +8,7 @@ Inhaltsübersicht
 
 Erstes Kapitel
 Versicherter Personenkreis
-
+ 
 § 1
 Versicherte kraft Gesetzes
 § 1a
@@ -23,59 +23,59 @@ Freiwillige Versicherung
 Freiwillige Weiterversicherung
 § 6
 Verordnungsermächtigung
-
+ 
 Zweites Kapitel
 Leistungen
-
-
+ 
+ 
 Erster Abschnitt
 Leistungen zur Teilhabe
-
+ 
   Erster Unterabschnitt
 Voraussetzungen für die Leistungen
-
+ 
 § 7
 Aufgabe der Leistungen zur Teilhabe
 § 8
 Persönliche und versicherungsrechtliche Voraussetzungen
 § 9
 Ausschluß von Leistungen
-
+ 
   Zweiter Unterabschnitt
 Umfang und Ort der Leistungen
-
+ 
 § 10
 Umfang und Ort der Leistungen
-
+ 
 Zweiter Abschnitt
 Laufende Geldleistungen
-
-
+ 
+ 
   Erster Unterabschnitt
 Renten
-
-
+ 
+ 
 Erster Titel
 Anspruchsvoraussetzungen
-
-
+ 
+ 
   Erster Untertitel
   Renten wegen Alters
-
+ 
 § 11
 Regelaltersrente
 § 12
 Vorzeitige Altersrente
-
+ 
   Zweiter Untertitel
   Renten wegen Erwerbsminderung
-
+ 
 § 13
 Renten wegen Erwerbsminderung
-
+ 
   Dritter Untertitel
   Renten wegen Todes
-
+ 
 § 14
 Witwenrente und Witwerrente
 § 14a
@@ -84,50 +84,50 @@ Witwenrente und Witwerrente
 Waisenrente
 § 16
 Renten wegen Todes bei Verschollenheit
-
+ 
   Vierter Untertitel
   Wartezeiterfüllung
-
+ 
 § 17
 Anrechenbare Zeiten
-
+ 
   Fünfter Untertitel
   Rentenrechtliche Zeiten
-
+ 
 § 18
 Beitragszeiten
 § 19
 Zurechnungszeit
 § 20
 Schadensersatz bei rentenrechtlichen Zeiten
-
+ 
   Sechster Untertitel
   (weggefallen)
-
+ 
 § 21
 (weggefallen)
 § 22
 (weggefallen)
-
+ 
 Zweiter Titel
 Berechnung der Renten
-
+ 
 § 23
 Berechnung der Renten
 § 24
 Zuschläge oder Abschläge aufgrund eines Versorgungsausgleichs
-
+ 
 Dritter Titel
 Anpassung der Renten
-
+ 
 § 25
 Anpassung
 § 26
 Verordnungsermächtigung
-
+ 
 Vierter Titel
 Zusammentreffen von Renten mit Einkommen
-
+ 
 § 27
 Zusammentreffen von Renten
 § 27a
@@ -138,26 +138,26 @@ Vorzeitige Altersrente und Hinzuverdienst
 Einkommensanrechnung auf Renten wegen Todes
 § 29
 Reihenfolge bei der Anwendung von Berechnungsvorschriften
-
+ 
 Fünfter Titel
 Beginn, Änderung, Ruhen und Ende von Renten
-
+ 
 § 30
 Beginn, Änderung, Ruhen und Ende von Renten
-
+ 
 Sechster Titel
 Ausschluß und Minderung von Renten
-
+ 
 § 31
 Ausschluß und Minderung von Renten
-
+ 
   Zweiter Unterabschnitt
 Beitragszuschüsse
-
-
+ 
+ 
 Erster Titel
 Zuschuß zum Beitrag
-
+ 
 § 32
 Anspruchsvoraussetzungen
 § 33
@@ -166,18 +166,18 @@ Berechnung
 Fälligkeit, Beginn und Änderung von Beitragszuschüssen
 § 35
 Verordnungsermächtigung
-
+ 
 Zweiter Titel
 Zuschuss zum Beitrag zur Krankenversicherung
-
+ 
 § 35a
 Zuschuß zum Beitrag zur Krankenversicherung
 § 35b
 (weggefallen)
-
+ 
 Dritter Abschnitt
 Betriebs- und Haushaltshilfe oder sonstige Leistungen zur Aufrechterhaltung des Unternehmens der Landwirtschaft
-
+ 
 § 36
 Betriebs- und Haushaltshilfe bei Arbeitsunfähigkeit, Schwangerschaft und medizinischen Vorsorge- und Rehabilitationsleistungen
 § 37
@@ -186,73 +186,73 @@ Betriebs- und Haushaltshilfe bei Tod des Landwirts
 Überbrückungsgeld
 § 39
 Betriebs- und Haushaltshilfe in anderen Fällen
-
+ 
 Vierter Abschnitt
 Rentenauskunft
-
+ 
 § 40
 Rentenauskunft
-
+ 
 Fünfter Abschnitt
 Leistungen an Berechtigte im Ausland
-
+ 
 § 41
 Grundsatz
 § 42
 Leistungen zur Teilhabe, Renten
-
+ 
 Sechster Abschnitt
 Versorgungsausgleich
-
+ 
 § 43
 Interne und externe Teilung
-
+ 
 Siebter Abschnitt
 Durchführung
-
+ 
   Erster Unterabschnitt
 Beginn und Abschluß des Verfahrens
-
+ 
 § 44
 Beginn und Abschluß
-
+ 
   Zweiter Unterabschnitt
 Auszahlung und Anpassung
-
+ 
 § 45
 Auszahlung und Anpassung
 § 46
 Verordnungsermächtigung
-
+ 
   Dritter Unterabschnitt
 Berechnungsgrundsätze
-
+ 
 § 47
 Berechnungsgrundsätze
-
-
+ 
+ 
   Vierter Unterabschnitt
 Rechtsweg
-
+ 
 § 48
 (weggefallen)
-
+ 
 Drittes Kapitel
 Organisation und Datenschutz
-
+ 
 Erster Abschnitt
 Organisation
-
+ 
 § 49
 Träger der Alterssicherung der Landwirte
 § 50
 Aufgaben der landwirtschaftlichen Alterskasse
 §§ 51 bis 58b
 (weggefallen)
-
+ 
 Zweiter Abschnitt
 Datenschutz
-
+ 
 § 59
 Mitgliedsnummer
 § 60
@@ -269,132 +269,132 @@ Auskünfte der Deutschen Post AG
 (weggefallen)
 § 65
 Verordnungsermächtigung
-
+ 
 Viertes Kapitel
 Finanzierung
-
+ 
 Erster Abschnitt
 Finanzierungsgrundsatz und Lagebericht
-
+ 
 § 66
 Finanzierungsgrundsatz
 § 67
 Lagebericht
-
+ 
 Zweiter Abschnitt
 Beiträge und Verfahren
-
+ 
 Erster Unterabschnitt
 Beitragshöhe
-
+ 
 § 68
 Beitragshöhe
 § 69
 (weggefallen)
-
+ 
   Zweiter Unterabschnitt
 Verteilung der Beitragslast und Zahlung der Beiträge
-
+ 
 § 70
 Verteilung der Beitragslast und Zahlung der Beiträge
-
+ 
   Dritter Unterabschnitt
 Fälligkeit und Wirksamkeit von Beiträgen
-
+ 
 § 71
 Fälligkeit und Wirksamkeit von Beiträgen
-
+ 
   Vierter Unterabschnitt
 Versorgungsausgleich
-
+ 
 § 72
 Wiederauffüllung geminderter Anrechte
-
+ 
   Fünfter Unterabschnitt
 Auskunfts- und Mitteilungspflichten
-
+ 
 § 73
 Auskunfts- und Mitteilungspflichten
-
+ 
   Sechster Unterabschnitt
 (weggefallen)
-
+ 
 § 74
 (weggefallen)
-
+ 
   Siebter Unterabschnitt
 Beitragserstattung
-
+ 
 § 75
 Erstattungsberechtigte
 § 76
 Umfang und Wirkung
 § 77
 Erstattung zu Unrecht entrichteter Beiträge
-
+ 
 Dritter Abschnitt
 Beteiligung des Bundes, Ausgabenbegrenzung
-
+ 
   Erster Unterabschnitt
 Beteiligung des Bundes
-
+ 
 § 78
 Beteiligung des Bundes
-
+ 
   Zweiter Unterabschnitt
 Ausgabenbegrenzung
-
+ 
 § 79
 Reduzierung der Kosten für Verwaltung und Verfahren
 § 80
 Ausgaben für Teilhabe sowie für Betriebs- und Haushaltshilfe
-
+ 
   Dritter Unterabschnitt
 (weggefallen)
-
+ 
 § 81
 (weggefallen)
-
+ 
 Fünftes Kapitel
 Sonderregelungen
-
+ 
 Erster Abschnitt
 Ergänzungen für Sonderfälle
-
+ 
   Erster Unterabschnitt
 Grundsatz
-
+ 
 § 82
 Grundsatz
 § 83
 Besonderheiten für das Beitrittsgebiet
-
+ 
   Zweiter Unterabschnitt
 Versicherter Personenkreis
-
+ 
 § 84
 Versicherungspflicht
 § 85
 Versicherungsfreiheit, Versicherungsbefreiung
-
+ 
   Dritter Unterabschnitt
 Teilhabe
-
+ 
 § 86
 Teilhabe
-
+ 
 Vierter Unterabschnitt
 Vorzeitige Wartezeiterfüllung
-
+ 
 § 87
 Vorzeitige Wartezeiterfüllung
-
+ 
   Fünfter Unterabschnitt
 Anspruchsvoraussetzungen für Renten
-
+ 
 Erster Titel
 Renten wegen Alters und Renten wegen Todes
-
+ 
 § 87a
 Regelaltersrente
 § 87b
@@ -405,63 +405,63 @@ Vorzeitige Altersrente für langjährig Versicherte
 Waisenrente
 § 88
 Rente an frühere Ehegatten
-
+ 
 Zweiter Titel
 Hinzuverdienstgrenze
-
+ 
 § 89
 Hinzuverdienstgrenze
-
+ 
 Dritter Titel
 Wartezeiterfüllung
-
+ 
 § 90
 Wartezeit
 § 91
 Wartezeit für Ehegatten befreiter Landwirte
-
+ 
 Vierter Titel
 Rentenrechtliche Zeiten
-
+ 
 § 92
 Beitragszeiten von Ehegatten und mitarbeitenden Familienangehörigen
 § 92a
 Zurechnungszeit
-
+ 
   Sechster Unterabschnitt
 Berechnung der Renten
-
+ 
 § 93
 Berechnung der Renten
 § 93a
 Abschlag vom Rentenwert
-
+ 
 Zweiter Abschnitt
 Ausnahmen von der Anwendung neuen Rechts
-
+ 
   Erster Unterabschnitt
 Grundsatz
-
+ 
 § 94
 Grundsatz
-
+ 
   Zweiter Unterabschnitt
 Leistungen zur Teilhabe
-
+ 
 § 95
 Leistungen zur Teilhabe
-
+ 
   Dritter Unterabschnitt
 Anspruchsvoraussetzungen für einzelne Renten
-
+ 
 § 95a
 Rente wegen Erwerbsunfähigkeit und wegen Todes
 § 96
 Anspruchsvoraussetzungen für Witwen- oder Witwerrenten
-
+ 
   Vierter Unterabschnitt
 Rentenhöhe
-
+ 
 § 97
 Zuschlag bei Zugangsrenten
 § 98
@@ -490,53 +490,53 @@ Zuschlag bei Witwenrenten und Witwerrenten
 Verordnungsermächtigung
 § 105a
 Widerspruch und Klage gegen die Veränderung des Zahlbetrags der Rente zum 1. April 2004
-
+ 
   Fünfter Unterabschnitt
 Zusammentreffen von Renten mit Einkommen
-
+ 
 § 106
 Zusammentreffen von Renten mit Einkommen
 § 106a
 Einkommensanrechnung auf Renten wegen Todes
-
+ 
 Sechster Unterabschnitt
 Beitragszuschüsse
-
+ 
 § 107
 Beitragszuschüsse
 § 107a
 Ausfertigung von Einkommensteuerbescheiden
 § 107b
 Neuregelung des Zuschusses zum Beitrag zum 1. April 2021
-
+ 
   Siebter Unterabschnitt
 Rentenauskunft
-
+ 
 § 108
 Anspruch auf Rentenauskunft
-
+ 
   Achter Unterabschnitt
 Betriebs- und Haushaltshilfe oder sonstige Leistungen zur Aufrechterhaltung des Unternehmens der Landwirtschaft
-
+ 
 § 109
 Betriebs- und Haushaltshilfe sowie sonstige Leistungen zur Aufrechterhaltung des Unternehmens der Landwirtschaft
 § 110
 (weggefallen)
-
+ 
   Neunter Unterabschnitt
 (weggefallen)
-
+ 
   Zehnter Unterabschnitt
   Organisation und Datenschutz
-
+ 
 § 111
 Zuständige Versicherungsträger
 § 112
 Versicherungskonto
-
+ 
   Elfter Unterabschnitt
 Finanzierung
-
+ 
 § 113
 Lagebericht
 § 114
@@ -557,10 +557,10 @@ Aufrechnung mit Beitragsentlastungen
 (weggefallen)
 § 120
 Berechnung des Zuschusses zum Beitrag für das Beitrittsgebiet
-
+ 
 Dritter Abschnitt
 Landabgaberente
-
+ 
 § 121
 Anspruchsvoraussetzungen
 § 122
@@ -575,21 +575,21 @@ Beginn, Änderung, Ruhen und Ende von Landabgaberenten
 Durchführende Stelle
 § 127
 Kostentragung
-
+ 
 Vierter Abschnitt
 Zuschuß zur Nachzahlung von Beiträgen für Landwirte zur gesetzlichen Rentenversicherung
-
+ 
 § 128
 Versicherungsfreiheit
 § 129
 Kürzung der Renten
-
+ 
 Anlage 1
  (weggefallen)
-
+ 
 Anlage 2
  Umrechnungsfaktoren
-
+ 
 Anlage 3
  Zurechnungszeiten und Abschlag vom allgemeinen Rentenwert
 
@@ -1547,8 +1547,8 @@ vor 1957
 65
 0
 1957
-
-
+ 
+ 
 Januar
 65
 1
@@ -1783,79 +1783,79 @@ Monat
 Jahre
 Monate
 vor 2012
-
+ 
 63
 0
 2012
-
-
-
-
+ 
+ 
+ 
+ 
 Januar
 63
 1
-
+ 
 Februar
 63
 2
-
+ 
 März
 63
 3
-
+ 
 April
 63
 4
-
+ 
 Mai
 63
 5
-
+ 
 Juni bis Dezember
 63
 6
 2013
-
+ 
 63
 7
 2014
-
+ 
 63
 8
 2015
-
+ 
 63
 9
 2016
-
+ 
 63
 10
 2017
-
+ 
 63
 11
 2018
-
+ 
 64
 0
 2019
-
+ 
 64
 2
 2020
-
+ 
 64
 4
 2021
-
+ 
 64
 6
 2022
-
+ 
 64
 8
 2023
-
+ 
 64
 10.
 \\
@@ -2288,432 +2288,432 @@ A.
 Umrechnungsfaktoren für Landwirte
 I.
 Umrechnungsfaktoren für Unverheiratete (Ledige, Geschiedene und Verwitwete)
-
+ 
 Beitragsjahre
 Umrechnungsfaktor
-
+ 
 bis 15
 22,855691
-
+ 
 16
 23,541667
-
+ 
 17
 24,227642
-
+ 
 18
 24,913618
-
+ 
 19
 25,599593
-
+ 
 20
 26,285569
-
+ 
 21
 26,971545
-
+ 
 22
 27,657520
-
+ 
 23
 28,343496
-
+ 
 24
 29,029472
-
+ 
 25
 29,715447
-
+ 
 26
 30,401423
-
+ 
 27
 31,087398
-
+ 
 28
 31,773374
-
+ 
 29
 32,459350
-
+ 
 30
 33,145325
-
+ 
 31
 33,826220
-
+ 
 32
 34,512195
-
+ 
 33
 35,198171
-
+ 
 34
 35,884146
-
+ 
 35
 36,570122
-
+ 
 36
 37,256098
-
+ 
 37
 37,942073
-
+ 
 38
 38,628049
-
+ 
 39
 39,314024
-
+ 
 40
 40,000000
-
+ 
 41
 40,685976
-
+ 
 42
 41,371951
-
+ 
 43
 42,057927
-
+ 
 44
 42,743902
-
+ 
 45
 43,429878
-
+ 
 46
 44,115854
-
+ 
 47
 44,801829
-
+ 
 48
 45,487805
-
+ 
 49
 46,168699
-
+ 
 50
 46,854675
-
+ 
 51
 47,540850
-
+ 
 52
 48,226626
 II.
 Umrechnungsfaktoren für Verheiratete
-
+ 
 Beitragsjahre
 Umrechnungsfaktor
-
+ 
 bis 15
 34,263211
-
+ 
 16
 35,294715
-
+ 
 17
 36,321138
-
+ 
 18
 37,347561
-
+ 
 19
 38,379065
-
+ 
 20
 39,405488
-
+ 
 21
 40,431911
-
+ 
 22
 41,458333
-
+ 
 23
 42,489837
-
+ 
 24
 43,516260
-
+ 
 25
 44,542683
-
+ 
 26
 45,574187
-
+ 
 27
 46,600610
-
+ 
 28
 47,627033
-
+ 
 29
 48,658537
-
+ 
 30
 49,684959
-
+ 
 31
 50,711382
-
+ 
 32
 51,737805
-
+ 
 33
 52,769309
-
+ 
 34
 53,795732
-
+ 
 35
 54,822154
-
+ 
 36
 55,853659
-
+ 
 37
 56,880081
-
+ 
 38
 57,906504
-
+ 
 39
 58,932927
-
+ 
 40
 59,964431
-
+ 
 41
 60,990854
-
+ 
 42
 62,017276
-
+ 
 43
 63,048780
-
+ 
 44
 64,075203
-
+ 
 45
 65,101626
-
+ 
 46
 66,128049
-
+ 
 47
 67,159553
-
+ 
 48
 68,185976
-
+ 
 49
 69,212398
-
+ 
 50
 70,243902
-
+ 
 51
 71,270325
-
+ 
 52
 72,296748
 B.
 Umrechnungsfaktoren für mitarbeitende Familienangehörige
 I.
 Umrechnungsfaktoren für Unverheiratete (Ledige, Geschiedene und Verwitwete)
-
+ 
 Beitragsjahre
 Umrechnungsfaktor
-
+ 
 bis 15
 11,427846
-
+ 
 16
 11,770833
-
+ 
 17
 12,113821
-
+ 
 18
 12,456809
-
+ 
 19
 12,799797
-
+ 
 20
 13,142785
-
+ 
 21
 13,485772
-
+ 
 22
 13,828760
-
+ 
 23
 14,171748
-
+ 
 24
 14,514736
-
+ 
 25
 14,857724
-
+ 
 26
 15,200711
-
+ 
 27
 15,543699
-
+ 
 28
 15,886687
-
+ 
 29
 16,229675
-
+ 
 30
 16,572663
-
+ 
 31
 16,913110
-
+ 
 32
 17,256098
-
+ 
 33
 17,599085
-
+ 
 34
 17,942073
-
+ 
 35
 18,285061
-
+ 
 36
 18,628049
-
+ 
 37
 18,971037
-
+ 
 38
 19,314024
-
+ 
 39
 19,657012
-
+ 
 40
 20,000000
 II.
 Umrechnungsfaktoren für Verheiratete
-
+ 
 Beitragsjahre
 Umrechnungsfaktor
-
+ 
 bis 15
 17,131606
-
+ 
 16
 17,647358
-
+ 
 17
 18,160569
-
+ 
 18
 18,673780
-
+ 
 19
 19,189533
-
+ 
 20
 19,702744
-
+ 
 21
 20,215955
-
+ 
 22
 20,729167
-
+ 
 23
 21,244919
-
+ 
 24
 21,758130
-
+ 
 25
 22,271341
-
+ 
 26
 22,787093
-
+ 
 27
 23,300305
-
+ 
 28
 23,813516
-
+ 
 29
 24,329268
-
+ 
 30
 24,842480
-
+ 
 31
 25,355691
-
+ 
 32
 25,868902
-
+ 
 33
 26,384654
-
+ 
 34
 26,897866
-
+ 
 35
 27,411077
-
+ 
 36
 27,926829
-
+ 
 37
 28,440041
-
+ 
 38
 28,953252
-
+ 
 39
 29,466463
-
+ 
 40
 29,982215
-
+ 
 41
 30,495427
-
+ 
 42
 31,008638
-
+ 
 43
 31,524390
-
+ 
 44
 32,037602
-
+ 
 45
 32,550813
 C.
 Umrechnungsfaktor für Renten an Vollwaisen:
-
+ 
 11,427846
 D.
 Umrechnungsfaktor für Renten an Halbwaisen:
-
+ 
 5,713923
 
 Anlage 3
@@ -2728,113 +2728,113 @@ Werte nach § 93a\\
 Jahr
 Monat
 vor 2001
-
+ 
  0,00
 2001
 Januar
  2,78
-
+ 
 Februar
  5,56
-
+ 
 März
  8,33
-
+ 
 April
 11,11
-
+ 
 Mai
 13,89
-
+ 
 Juni
 16,67
-
+ 
 Juli
 19,44
-
+ 
 August
 22,22
-
+ 
 September
 25,00
-
+ 
 Oktober
 27,78
-
+ 
 November
 30,56
-
+ 
 Dezember
 33,33
 2002
 Januar
 36,11
-
+ 
 Februar
 38,89
-
+ 
 März
 41,67
-
+ 
 April
 44,44
-
+ 
 Mai
 47,22
-
+ 
 Juni
 50,00
-
+ 
 Juli
 52,78
-
+ 
 August
 55,56
-
+ 
 September
 58,33
-
+ 
 Oktober
 61,11
-
+ 
 November
 63,89
-
+ 
 Dezember
 66,67
 2003
 Januar
 69,44
-
+ 
 Februar
 72,22
-
+ 
 März
 75,00
-
+ 
 April
 77,78
-
+ 
 Mai
 80,56
-
+ 
 Juni
 83,33
-
+ 
 Juli
 86,11
-
+ 
 August
 88,89
-
+ 
 September
 91,67
-
+ 
 Oktober
 94,44
-
+ 
 November
 97,22
-
+ 
 Dezember
 100,00

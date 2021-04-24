@@ -6,35 +6,35 @@ Ausfertigungsdatum: 08.07.2019
 
 Inhaltsübersicht
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 § 1 - Ziele
 
@@ -276,10 +276,10 @@ Die besonderen Belange von Studierenden mit Behinderungen sind zur Wahrung ihrer
 
 Für die Noten in den verschiedenen Abschnitten der Zahnärztlichen Prüfung werden folgende Notenstufen festgelegt:
 
-- 1. :: sehr gut“ (1) für eine hervorragende Leistung,
-- 2. :: gut“ (2) für eine Leistung, die erheblich über den durchschnittlichen Anforderungen liegt,
-- 3. :: befriedigend“ (3) für eine Leistung, die in jeder Hinsicht durchschnittlichen Anforderungen gerecht wird,
-- 4. :: ausreichend“ (4) für eine Leistung, die trotz ihrer Mängel noch den Anforderungen genügt.
+- 1. :: „sehr gut“ (1) für eine hervorragende Leistung,
+- 2. :: „gut“ (2) für eine Leistung, die erheblich über den durchschnittlichen Anforderungen liegt,
+- 3. :: „befriedigend“ (3) für eine Leistung, die in jeder Hinsicht durchschnittlichen Anforderungen gerecht wird,
+- 4. :: „ausreichend“ (4) für eine Leistung, die trotz ihrer Mängel noch den Anforderungen genügt.
 
 
 § 25 - Ordnungsverstöße, Täuschungsversuche
@@ -382,20 +382,20 @@ Die Niederschrift ist von der prüfenden und von der beisitzenden Person zu unte
 (1) Die prüfenden Personen bewerten die Leistungen im Ersten Abschnitt der Zahnärztlichen Prüfung anhand von strukturierten Bewertungsbögen mit einer vorgegebenen Musterlösung, die die prüfende Person in Abstimmung mit der Prüfungskommission zuvor festgelegt hat.
 (2) Die Leistungen sind wie folgt zu bewerten:
 
-- 1. :: eine hervorragende Leistung mit der Note sehr gut“ (1),
-- 2. :: eine Leistung, die erheblich über den durchschnittlichen Anforderungen liegt, mit der Note gut“ (2),
-- 3. :: eine Leistung, die in jeder Hinsicht durchschnittlichen Anforderungen gerecht wird, mit der Note befriedigend“ (3),
-- 4. :: eine Leistung, die trotz ihrer Mängel noch den Anforderungen genügt, mit der Note ausreichend“ (4) und
-- 5. :: eine Leistung, die wegen erheblicher Mängel den Anforderungen nicht mehr genügt, mit der Note nicht ausreichend“ (5).
+- 1. :: eine hervorragende Leistung mit der Note „sehr gut“ (1),
+- 2. :: eine Leistung, die erheblich über den durchschnittlichen Anforderungen liegt, mit der Note „gut“ (2),
+- 3. :: eine Leistung, die in jeder Hinsicht durchschnittlichen Anforderungen gerecht wird, mit der Note „befriedigend“ (3),
+- 4. :: eine Leistung, die trotz ihrer Mängel noch den Anforderungen genügt, mit der Note „ausreichend“ (4) und
+- 5. :: eine Leistung, die wegen erheblicher Mängel den Anforderungen nicht mehr genügt, mit der Note „nicht ausreichend“ (5).
 
 (3) Jede prüfende Person erteilt für die Leistung des oder der Studierenden in dem von ihr geprüften Fach eine Note.
 (4) Jede prüfende Person gibt die Note dem oder der Studierenden bekannt und begründet die Note auf Wunsch des oder der Studierenden.
-(5) Jede prüfende Person teilt die Note der der Prüfungskommission vorsitzenden Person unverzüglich schriftlich mit. In dieser Mitteilung ist die Bewertung einer Leistung mit nicht ausreichend“ kurz zu begründen.
+(5) Jede prüfende Person teilt die Note der der Prüfungskommission vorsitzenden Person unverzüglich schriftlich mit. In dieser Mitteilung ist die Bewertung einer Leistung mit „nicht ausreichend“ kurz zu begründen.
 (6) Die Noten dürfen den übrigen prüfenden Personen nicht zugänglich gemacht werden.
 
 § 37 - Bestehen
 
-(1) Der Erste Abschnitt der Zahnärztlichen Prüfung ist bestanden, wenn die Note in jedem Fach mindestens ausreichend“ lautet.
+(1) Der Erste Abschnitt der Zahnärztlichen Prüfung ist bestanden, wenn die Note in jedem Fach mindestens „ausreichend“ lautet.
 (2) Der Erste Abschnitt der Zahnärztlichen Prüfung wird nicht fortgesetzt, sobald feststeht, dass die mündliche Prüfung in zwei Fächern nicht bestanden ist.
 
 § 38 - Wiederholung
@@ -413,10 +413,10 @@ Die Niederschrift ist von der prüfenden und von der beisitzenden Person zu unte
 (2) Die Zahlenwerte der Noten für die Fächer werden addiert und durch sieben geteilt. Die Note wird bis auf die erste Stelle hinter dem Komma ohne Rundung errechnet.
 (3) Die Note lautet\\
 \\
-| 1. | sehr gut“     | bei einem Zahlenwert bis 1,5,                 |
-| 2. | gut“          | bei einem Zahlenwert von über 1,5 bis 2,5,    |
-| 3. | befriedigend“ | bei einem Zahlenwert von über 2,5 bis 3,5 und |
-| 4. | ausreichend“  | bei einem Zahlenwert von über 3,5 bis 4,0.    |
+| 1. | „sehr gut“     | bei einem Zahlenwert bis 1,5,                 |
+| 2. | „gut“          | bei einem Zahlenwert von über 1,5 bis 2,5,    |
+| 3. | „befriedigend“ | bei einem Zahlenwert von über 2,5 bis 3,5 und |
+| 4. | „ausreichend“  | bei einem Zahlenwert von über 3,5 bis 4,0.    |
 
 (4) Die der Prüfungskommission vorsitzende Person übermittelt die Note an die nach § 18 zuständige Stelle.
 
@@ -541,12 +541,12 @@ Die Niederschrift ist von der prüfenden und von der beisitzenden Person zu unte
 (1) Die prüfenden Personen bewerten die Leistungen im Zweiten Abschnitt der Zahnärztlichen Prüfung anhand von strukturierten Bewertungsbögen mit einer vorgegebenen Musterlösung, die die prüfende Person in Abstimmung mit der Prüfungskommission zuvor festgelegt hat. Die Leistungen sind nach § 36 Absatz 2 zu bewerten.
 (2) Jede prüfende Person erteilt für die Leistung des oder der Studierenden in dem von ihr geprüften Fach eine Note. In die Note gehen die Leistung für das praktische Prüfungselement und die Leistung für das mündliche Prüfungselement zu gleichen Teilen ein.
 (3) Jede prüfende Person gibt die Note dem oder der Studierenden bekannt und begründet die Note auf Wunsch des oder der Studierenden.
-(4) Jede prüfende Person teilt die Note der der Prüfungskommission vorsitzenden Person unverzüglich schriftlich mit. In dieser Mitteilung ist die Bewertung einer Leistung mit nicht ausreichend“ kurz zu begründen.
+(4) Jede prüfende Person teilt die Note der der Prüfungskommission vorsitzenden Person unverzüglich schriftlich mit. In dieser Mitteilung ist die Bewertung einer Leistung mit „nicht ausreichend“ kurz zu begründen.
 (5) Die Noten dürfen den übrigen prüfenden Personen nicht zugänglich gemacht werden.
 
 § 53 - Bestehen
 
-(1) Der Zweite Abschnitt der Zahnärztlichen Prüfung ist bestanden, wenn die Note in jedem Fach mindestens ausreichend“ lautet.
+(1) Der Zweite Abschnitt der Zahnärztlichen Prüfung ist bestanden, wenn die Note in jedem Fach mindestens „ausreichend“ lautet.
 (2) Der Zweite Abschnitt der Zahnärztlichen Prüfung wird nicht fortgesetzt, sobald feststeht, dass die mündlich-praktische Prüfung in zwei Fächern nicht bestanden ist.
 
 § 54 - Wiederholung
@@ -564,10 +564,10 @@ Die Niederschrift ist von der prüfenden und von der beisitzenden Person zu unte
 (3) Die mit zwei vervielfachten Zahlenwerte der Noten im Fach Zahnärztliche Prothetik und in der Fächergruppe Zahnerhaltung und die Zahlenwerte der Noten in den übrigen Fächern werden addiert und durch sechs geteilt. Die Note wird bis auf die zweite Stelle hinter dem Komma ohne Rundung errechnet.
 (4) Die Note lautet\\
 \\
-| 1. | sehr gut“     | bei einem Zahlenwert bis 1,50,               |
-| 2. | gut“          | bei einem Zahlenwert von über 1,50 bis 2,50, |
-| 3. | befriedigend“ | bei einem Zahlenwert von über 2,50 bis 3,50, |
-| 4. | ausreichend“  | bei einem Zahlenwert von über 3,50 bis 4,00. |
+| 1. | „sehr gut“     | bei einem Zahlenwert bis 1,50,               |
+| 2. | „gut“          | bei einem Zahlenwert von über 1,50 bis 2,50, |
+| 3. | „befriedigend“ | bei einem Zahlenwert von über 2,50 bis 3,50, |
+| 4. | „ausreichend“  | bei einem Zahlenwert von über 3,50 bis 4,00. |
 
 (5) Die der Prüfungskommission vorsitzende Person übermittelt die Note an die nach § 18 zuständige Stelle.
 
@@ -714,12 +714,12 @@ Die Niederschrift ist von der prüfenden und von der beisitzenden Person zu unte
 (1) Die prüfenden Personen bewerten die Leistungen in dem mündlich-praktischen Teil des Dritten Abschnitts der Zahnärztlichen Prüfung anhand von strukturierten Bewertungsbögen mit einer vorgegebenen Musterlösung, die die prüfende Person in Abstimmung mit der Prüfungskommission zuvor festgelegt hat. Die Leistungen sind nach § 36 Absatz 2 zu bewerten.
 (2) Jede prüfende Person erteilt für die Leistung des oder der Studierenden in dem von ihr geprüften Fach eine Note. In die Note gehen die Leistung für das praktische Prüfungselement, sofern ein solches nach § 64 vorgesehen ist, und die Leistung für das mündliche Prüfungselement zu gleichen Teilen ein.
 (3) Jede prüfende Person gibt die Note dem oder der Studierenden bekannt und begründet die Note auf Wunsch des oder der Studierenden.
-(4) Jede prüfende Person teilt die Note der der Prüfungskommission vorsitzenden Person unverzüglich schriftlich mit. In dieser Mitteilung ist die Bewertung einer Leistung mit nicht ausreichend“ kurz zu begründen.
+(4) Jede prüfende Person teilt die Note der der Prüfungskommission vorsitzenden Person unverzüglich schriftlich mit. In dieser Mitteilung ist die Bewertung einer Leistung mit „nicht ausreichend“ kurz zu begründen.
 (5) Die Noten dürfen den übrigen prüfenden Personen nicht zugänglich gemacht werden.
 
 § 70 - Bestehen des mündlich-praktischen Teils
 
-(1) Der mündlich-praktische Teil des Dritten Abschnitts der Zahnärztlichen Prüfung ist bestanden, wenn die Note in jedem Fach mindestens ausreichend“ lautet.
+(1) Der mündlich-praktische Teil des Dritten Abschnitts der Zahnärztlichen Prüfung ist bestanden, wenn die Note in jedem Fach mindestens „ausreichend“ lautet.
 (2) Der mündlich-praktische Teil wird nicht fortgesetzt, sobald feststeht, dass die mündlich-praktische Prüfung in zwei Fächern nicht bestanden ist.
 
 § 71 - Note für den mündlich-praktischen Teil
@@ -729,10 +729,10 @@ Die Niederschrift ist von der prüfenden und von der beisitzenden Person zu unte
 (3) Die mit zwei vervielfachten Zahlenwerte der Noten im Fach Zahnärztliche Prothetik und in der Fächergruppe Zahnerhaltung und die Zahlenwerte der Noten in den übrigen Fächern werden addiert und durch acht geteilt. Die Note wird bis auf die zweite Stelle hinter dem Komma ohne Rundung errechnet.
 (4) Die Note lautet\\
 \\
-| 1. | sehr gut“     | bei einem Zahlenwert bis 1,50,               |
-| 2. | gut“          | bei einem Zahlenwert von über 1,50 bis 2,50, |
-| 3. | befriedigend“ | bei einem Zahlenwert von über 2,50 bis 3,50, |
-| 4. | ausreichend“  | bei einem Zahlenwert von über 3,50 bis 4,00. |
+| 1. | „sehr gut“     | bei einem Zahlenwert bis 1,50,               |
+| 2. | „gut“          | bei einem Zahlenwert von über 1,50 bis 2,50, |
+| 3. | „befriedigend“ | bei einem Zahlenwert von über 2,50 bis 3,50, |
+| 4. | „ausreichend“  | bei einem Zahlenwert von über 3,50 bis 4,00. |
 
 (5) Die der Prüfungskommission vorsitzende Person übermittelt die Note an die nach § 18 zuständige Stelle.
 
@@ -795,10 +795,10 @@ Die Zahl der für die Bestehensgrenze zu berechnenden Prüfungsfragen ist auf ei
 
 (1) Hat der oder die Studierende den schriftlichen Teil nach § 74 Absatz 1 bestanden, lautet die Note\\
 \\
-| 1. | sehr gut“,     | wenn er oder sie mindestens 75 Prozent,                      |
-| 2. | gut“,          | wenn er oder sie mindestens 50, aber weniger als 75 Prozent, |
-| 3. | befriedigend“, | wenn er oder sie mindestens 25, aber weniger als 50 Prozent, |
-| 4. | ausreichend“,  | wenn er oder sie keine oder weniger als 25 Prozent           |
+| 1. | „sehr gut“,     | wenn er oder sie mindestens 75 Prozent,                      |
+| 2. | „gut“,          | wenn er oder sie mindestens 50, aber weniger als 75 Prozent, |
+| 3. | „befriedigend“, | wenn er oder sie mindestens 25, aber weniger als 50 Prozent, |
+| 4. | „ausreichend“,  | wenn er oder sie keine oder weniger als 25 Prozent           |
 
 \\
 der über die Bestehensgrenze hinaus gestellten Prüfungsfragen richtig beantwortet hat.
@@ -835,10 +835,10 @@ Der Dritte Abschnitt der Zahnärztlichen Prüfung ist bestanden, wenn der schrif
 (2) Die Note für den mündlich-praktischen Teil und die Note für den schriftlichen Teil werden addiert und die Summe wird durch zwei geteilt. Die Note wird bis auf die erste Stelle hinter dem Komma ohne Rundung errechnet.
 (3) Die Note lautet\\
 \\
-| 1. | sehr gut“     | bei einem Zahlenwert bis 1,5,                 |
-| 2. | gut“          | bei einem Zahlenwert von über 1,5 bis 2,5,    |
-| 3. | befriedigend“ | bei einem Zahlenwert von über 2,5 bis 3,5 und |
-| 4. | ausreichend“  | bei einem Zahlenwert von über 3,5 bis 4,0.    |
+| 1. | „sehr gut“     | bei einem Zahlenwert bis 1,5,                 |
+| 2. | „gut“          | bei einem Zahlenwert von über 1,5 bis 2,5,    |
+| 3. | „befriedigend“ | bei einem Zahlenwert von über 2,5 bis 3,5 und |
+| 4. | „ausreichend“  | bei einem Zahlenwert von über 3,5 bis 4,0.    |
 
 
 § 80 - Mitteilung bei endgültigem Nichtbestehen der Prüfung
@@ -1340,7 +1340,7 @@ Die Approbationsordnung für Zahnärzte in der am 30. September 2020 geltenden F
 
 § 134 - Abweichende Regelungen für die Prüfungen
 
-(1) Studierende nach § 133, die am 31. Oktober 2021 die naturwissenschaftliche Vorprüfung noch nicht bestanden haben, haben diese bis zum 31. Oktober 2022 nach der Approbationsordnung für Zahnärzte in der am 30. September 2020 geltenden Fassung abzulegen. Sie haben die zahnärztliche Vorprüfung bis zum 30. April 2025 nach der Approbationsordnung für Zahnärzte in der am 30. September 2020 geltenden Fassung abzulegen. Für das weitere Studium nach Bestehen der zahnärztlichen Vorprüfung gelten die Vorschriften nach dieser Verordnung. Bei dem Antrag auf Zulassung zum Zweiten Abschnitt der Zahnärztlichen Prüfung ist das Praktikum der zahnärztlichen Prothetik nach Anlage 2 nicht nachzuweisen. Beim Zweiten Abschnitt der Zahnärztlichen Prüfung entfällt die Prüfung im Fach Zahnärztliche Prothetik. Abweichend von § 55 Absatz 3 Satz 1 werden dementsprechend bei der Ermittlung der Note für den Zweiten Abschnitt der Zahnärztlichen Prüfung nur der mit zwei vervielfachte Zahlenwert der Note in der Fächergruppe Zahnerhaltung und die Zahlenwerte der Noten in den übrigen Fächern addiert und durch vier geteilt. In dem Zeugnis über das Bestehen des Zweiten Abschnitts der Zahnärztlichen Prüfung nach dem Muster der Anlage 17 ist anstelle der Angabe der Note für das Fach Zahnärztliche Prothetik der Hinweis Entfällt, da die zahnärztliche Vorprüfung nach der Approbationsordnung für Zahnärzte in der am 30. September 2020 geltenden Fassung abgelegt worden ist. “ aufzunehmen.
+(1) Studierende nach § 133, die am 31. Oktober 2021 die naturwissenschaftliche Vorprüfung noch nicht bestanden haben, haben diese bis zum 31. Oktober 2022 nach der Approbationsordnung für Zahnärzte in der am 30. September 2020 geltenden Fassung abzulegen. Sie haben die zahnärztliche Vorprüfung bis zum 30. April 2025 nach der Approbationsordnung für Zahnärzte in der am 30. September 2020 geltenden Fassung abzulegen. Für das weitere Studium nach Bestehen der zahnärztlichen Vorprüfung gelten die Vorschriften nach dieser Verordnung. Bei dem Antrag auf Zulassung zum Zweiten Abschnitt der Zahnärztlichen Prüfung ist das Praktikum der zahnärztlichen Prothetik nach Anlage 2 nicht nachzuweisen. Beim Zweiten Abschnitt der Zahnärztlichen Prüfung entfällt die Prüfung im Fach Zahnärztliche Prothetik. Abweichend von § 55 Absatz 3 Satz 1 werden dementsprechend bei der Ermittlung der Note für den Zweiten Abschnitt der Zahnärztlichen Prüfung nur der mit zwei vervielfachte Zahlenwert der Note in der Fächergruppe Zahnerhaltung und die Zahlenwerte der Noten in den übrigen Fächern addiert und durch vier geteilt. In dem Zeugnis über das Bestehen des Zweiten Abschnitts der Zahnärztlichen Prüfung nach dem Muster der Anlage 17 ist anstelle der Angabe der Note für das Fach Zahnärztliche Prothetik der Hinweis „Entfällt, da die zahnärztliche Vorprüfung nach der Approbationsordnung für Zahnärzte in der am 30. September 2020 geltenden Fassung abgelegt worden ist. “ aufzunehmen.
 (2) Studierende nach § 133, die am 31. Oktober 2021 die naturwissenschaftliche Vorprüfung bestanden und die zahnärztliche Vorprüfung noch nicht bestanden haben, haben die zahnärztliche Vorprüfung bis zum 30. April 2024 nach der Approbationsordnung für Zahnärzte in der am 30. September 2020 geltenden Fassung abzulegen. Für das weitere Studium nach Bestehen der zahnärztlichen Vorprüfung gelten die Vorschriften nach dieser Verordnung. Absatz 1 Satz 4 bis 7 gilt entsprechend.
 (3) Studierende, die unter die Absätze 1 und 2 fallen, können die naturwissenschaftliche Vorprüfung und die zahnärztliche Vorprüfung jeweils einmal nach den Vorgaben der Approbationsordnung für Zahnärzte in der am 30. September 2020 geltenden Fassung wiederholen.
 (4) Der Zweite Abschnitt der Zahnärztlichen Prüfung nach § 2 Absatz 2 Nummer 2 wird ab dem 10. Juli 2022, der Dritte Abschnitt der Zahnärztlichen Prüfung nach § 2 Absatz 2 Nummer 3 wird ab dem 1. Oktober 2024 durchgeführt.
@@ -1407,7 +1407,7 @@ Unterrichtsveranstaltungen in folgenden Fächern und Querschnittsbereichen:
 Anlage 5 - (zu § 12, § 20 Absatz 1 Satz 1 Nummer 4, Absatz 2 Satz 1 Nummer 3und Absatz 3 Satz 1 Nummer 3)Bescheinigung
 
 (Fundstelle: BGBl. I 2019, 969)
-
+ 
 ______________
 
 Anlage 6 - (zu § 12, § 20 Absatz 1 Satz 1 Nummer 4)Bescheinigung zum Antrag auf Zulassung zum Ersten Abschnitt der Zahnärztlichen Prüfung

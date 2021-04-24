@@ -10,16 +10,16 @@ Teil 1
 Allgemeine Bestimmungen
 § 1
 Anwendungsbereich
-
+ 
 Teil 2
 Nachweisführung über die Entsorgung von Abfällen
 § 2
 Kreis der Nachweispflichtigen und Form der Nachweisführung
-
-
-
+ 
+ 
+ 
 Abschnitt 1
-
+ 
 Nachweis über die Zulässigkeit der vorgesehenen Entsorgung
 § 3
 Entsorgungsnachweis
@@ -35,11 +35,11 @@ Freistellung und Privilegierung
 Anordnung, Widerruf
 § 9
 Sammelentsorgungsnachweis
-
-
-
+ 
+ 
+ 
 Abschnitt 2
-
+ 
 Nachweisführung über die durchgeführte Entsorgung
 § 10
 Begleitschein
@@ -49,11 +49,11 @@ Ausfüllen und Handhabung der Begleitscheine
 Übernahmeschein bei Sammelentsorgung
 § 13
 Handhabung des Begleitscheins bei Sammelentsorgung
-
-
-
+ 
+ 
+ 
 Abschnitt 3
-
+ 
 Sonderfälle
 § 14
 Entsorgung durch Dritte, Verbände und Selbstverwaltungskörperschaften
@@ -65,11 +65,11 @@ Kleinmengen
 Vorlage von Belegen auf Verlangen eines früheren Besitzers
 § 16b
 Mitführungspflicht
-
-
-
+ 
+ 
+ 
 Abschnitt 4
-
+ 
 Elektronische Nachweisführung
 § 17
 Grundsatz
@@ -83,7 +83,7 @@ Koordinierung
 Ausnahmen
 § 22
 Störung des Kommunikationssystems
-
+ 
 Teil 3
 Registerführung über die Entsorgung von Abfällen
 § 23
@@ -94,7 +94,7 @@ Führung der Register
 Dauer der Registrierung, elektronische Registerführung
 § 25a
 Registerführung durch Händler und Makler
-
+ 
 Teil 4
 Gemeinsame Bestimmungen
 § 26
@@ -105,15 +105,15 @@ Nachweisführung in besonderen Fällen
 Vergabe von Kennnummern
 § 29
 Ordnungswidrigkeiten
-
+ 
 Teil 5
 Schlussbestimmungen
 § 30
 Übergangsbestimmungen für geltende Freistellungen
 § 31
 (weggefallen)
-
-
+ 
+ 
 Anlage 1
 Formblätter zu Teil 2 Abschnitt 1 und 2 sowie § 24 Abs. 4
 Anlage 2
@@ -315,7 +315,7 @@ Den Nachweis über die ordnungsgemäße Entsorgung von Kleinmengen gefährlicher
 § 16a - Vorlage von Belegen auf Verlangen eines früheren Besitzers
 
 (1) Sofern keine Nachweispflichten nach § 2 Absatz 1 und Absatz 2 Satz 2 bestehen, sind dem Erzeuger oder früheren Besitzer von gefährlichen Abfällen auf dessen Verlangen bei der Übergabe Belege über die Durchführung der Abfallbewirtschaftung von demjenigen vorzulegen, dem der Erzeuger oder Besitzer die gefährlichen Abfälle zur weiteren Bewirtschaftung übergibt. Der Erzeuger oder frühere Besitzer von gefährlichen Abfällen kann die Belege auch noch innerhalb von drei Jahren nach der Übergabe der gefährlichen Abfälle verlangen.
-(2) Der Beleg nach Absatz 1 Satz 1 wird mit Hilfe des Formblatts Begleitschein“ nach Anlage 1 in einfacher Ausfertigung vorgelegt.
+(2) Der Beleg nach Absatz 1 Satz 1 wird mit Hilfe des Formblatts „Begleitschein“ nach Anlage 1 in einfacher Ausfertigung vorgelegt.
 (3) Verlangt der Erzeuger oder der frühere Besitzer der Abfälle die Vorlage eines Belegs nach Absatz 1 Satz 2 erst nach Übergabe der Abfälle, so füllt er den Begleitschein im Sinne des Absatzes 2 nach Maßgabe der für den Abfallerzeuger bestimmten Aufdrucke aus, unterschreibt und übersendet ihn an denjenigen, dem er die Abfälle zur weiteren Bewirtschaftung übergeben hat. Dieser füllt den übersandten Begleitschein im Falle der Beförderung nach Maßgabe der für den Abfallbeförderer bestimmten Aufdrucke und in allen anderen Fällen nach Maßgabe der für den Abfallentsorger bestimmten Aufdrucke aus, unterschreibt ihn und übersendet ihn spätestens zehn Kalendertage nach Eingang dem Erzeuger oder früheren Besitzer der Abfälle.
 (4) Die Vorlagepflicht nach Absatz 1 kann auch durch die Vorlage von Praxisbelegen, wie Wiege- oder Lieferscheinen erfüllt werden, wenn diese die im Begleitschein nach Absatz 2 vorgesehenen Angaben enthalten. Absatz 3 findet entsprechende Anwendung.
 

@@ -6,26 +6,26 @@ Ausfertigungsdatum: 28.04.2020
 
 Inhaltsübersicht
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)\\
 (+++ Inhaltsübersicht: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
@@ -46,16 +46,16 @@ Dieses Gesetz dient der Durchführung und Ergänzung der Verordnung (EU) 2017/74
 
 Ergänzend zu den Begriffsbestimmungen des Artikels 2 der Verordnung (EU) 2017/745 bezeichnet im Sinne dieses Gesetzes der Ausdruck
 
-- 1. :: Produkte“ Medizinprodukte, ihr Zubehör und die in Anhang XVI der Verordnung (EU) 2017/745 aufgeführten und unter den Anwendungsbereich dieser Verordnung fallenden Produkte;
-- 2. :: Fachkreise“ Angehörige der Heilberufe, Angehörige des Heilgewerbes oder Angehörige von Einrichtungen, die der Gesundheit dienen, sowie sonstige Personen, die Medizinprodukte herstellen, prüfen, in der Ausübung ihres Berufs in den Verkehr bringen, implantieren, in Betrieb nehmen, betreiben oder anwenden;
-- 3. :: schriftliche Verordnung“ eine Bescheinigung einer hierzu befugten Person, in der alle für eine Sonderanfertigung oder für die individuelle Anpassung von serienmäßig hergestellten Medizinprodukten erforderlichen Daten, einschließlich der von der befugten Person angefertigten und der Verordnung beigefügten Schablonen, Modelle oder Abdrücke für die Auslegung und die Merkmale des für eine namentlich genannte Person vorgesehenen Produktes enthalten sind, um dem individuellen Zustand oder den individuellen Bedürfnissen dieser Person zu entsprechen;
-- 4. :: sonstige klinische Prüfung“ eines Produktes eine klinische Prüfung, die
+- 1. :: „Produkte“ Medizinprodukte, ihr Zubehör und die in Anhang XVI der Verordnung (EU) 2017/745 aufgeführten und unter den Anwendungsbereich dieser Verordnung fallenden Produkte;
+- 2. :: „Fachkreise“ Angehörige der Heilberufe, Angehörige des Heilgewerbes oder Angehörige von Einrichtungen, die der Gesundheit dienen, sowie sonstige Personen, die Medizinprodukte herstellen, prüfen, in der Ausübung ihres Berufs in den Verkehr bringen, implantieren, in Betrieb nehmen, betreiben oder anwenden;
+- 3. :: „schriftliche Verordnung“ eine Bescheinigung einer hierzu befugten Person, in der alle für eine Sonderanfertigung oder für die individuelle Anpassung von serienmäßig hergestellten Medizinprodukten erforderlichen Daten, einschließlich der von der befugten Person angefertigten und der Verordnung beigefügten Schablonen, Modelle oder Abdrücke für die Auslegung und die Merkmale des für eine namentlich genannte Person vorgesehenen Produktes enthalten sind, um dem individuellen Zustand oder den individuellen Bedürfnissen dieser Person zu entsprechen;
+- 4. :: „sonstige klinische Prüfung“ eines Produktes eine klinische Prüfung, die
   - a) :: nicht Teil eines systematischen und geplanten Prozesses zur Produktentwicklung oder der Produktbeobachtung eines gegenwärtigen oder künftigen Herstellers ist,
   - b) :: nicht mit dem Ziel durchgeführt wird, die Konformität eines Produktes mit den Anforderungen der Verordnung (EU) 2017/745 nachzuweisen,
   - c) :: der Beantwortung wissenschaftlicher oder anderer Fragestellungen dient und
   - d) :: außerhalb eines klinischen Entwicklungsplans nach Anhang XIV Teil A Ziffer 1 Buchstabe a der Verordnung (EU) 2017/745 erfolgt;
-- 5. :: Hauptprüfer“ den verantwortlichen Leiter einer Gruppe von Prüfern, die in einer Prüfstelle eine klinische Prüfung durchführen;
-- 6. :: Leiter der klinischen Prüfung“ einen Prüfer, den der Sponsor mit der Leitung einer im Geltungsbereich dieses Gesetzes in mehreren Prüfstellen durchgeführten klinischen Prüfung beauftragt hat.
+- 5. :: „Hauptprüfer“ den verantwortlichen Leiter einer Gruppe von Prüfern, die in einer Prüfstelle eine klinische Prüfung durchführen;
+- 6. :: „Leiter der klinischen Prüfung“ einen Prüfer, den der Sponsor mit der Leitung einer im Geltungsbereich dieses Gesetzes in mehreren Prüfstellen durchgeführten klinischen Prüfung beauftragt hat.
 
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)\\
 (+++ § 3: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)

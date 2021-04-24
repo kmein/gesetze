@@ -6,7 +6,7 @@ Ausfertigungsdatum: 25.02.1960
 
 Inhaltsverzeichnis
 
-
+ 
 Seite (Teil I)
 I.
 Gemeinsame Vorschriften (§§ 1 bis 4)
@@ -325,7 +325,7 @@ Bilanzbuchhalter
 Buchhalter (Lohnbuchhalter)
 über 45 Jahre
 Chefkameramann
-
+ 
 Einkäufer
 über 45 Jahre
 Ingenieur (Bau-Betriebs-Bild-Film-Maschinen-Meß-Sender-Ton-)
@@ -335,11 +335,11 @@ Konstrukteur
 Korrespondent
 über 45 Jahre
 Leitender Wirtschafter (Landwirtschaft)
-
+ 
 Mitglied von Kulturorchestern (Sonderklasse und Tarifklasse I)
-
+ 
 Oberarzt
-
+ 
 Polier (techn.)
 über 45 Jahre
 Redakteur
@@ -439,17 +439,17 @@ bis 30 Jahre
 Buchhalter (Lohnbuchhalter)
 bis 30 Jahre
 Bühnenmeister
-
+ 
 Expedient
-
+ 
 Fakturist
 bis 45 Jahre
 Forstaufseher
-
+ 
 Ingenieur (Bau-Betriebs-Bild-Film-Maschinen-Meß-Senderton)
 bis 30 Jahre
 Inspizient
-
+ 
 Kartothekführer
 bis 30 Jahre
 Kaufm. Kalkulator
@@ -461,23 +461,23 @@ bis 30 Jahre
 Korrespondent
 bis 30 Jahre
 Kostümbildner
-
+ 
 Laborant
 bis 30 Jahre
 Lagerist
 bis 30 Jahre
 Landwirtschaftlicher Verwaltungsangestellter
-
+ 
 Materialverwalter
-
+ 
 Polier (techn.)
 bis 30 Jahre
 Registrator
-
+ 
 Requisiteur
-
+ 
 Technischer Kalkulator
-
+ 
 Technischer Zeichner
 30 bis 45 Jahre
 Verkäufer
@@ -485,39 +485,39 @@ Verkäufer
 Werkmeister
 bis 30 Jahre
 Werkstattschreiber
-
-
-
+ 
+ 
+ 
 Weibliche Angestellte
-
+ 
 Buchhalterin
 bis 30 Jahre
 Fakturistin
 über 30 Jahre
 Haushälterin
-
+ 
 Kassiererin
 bis 45 Jahre
 Kindergärtnerin
-
+ 
 Kontoristin
 über 30 Jahre
 Kostümbildnerin
-
+ 
 Krankenschwester
-
+ 
 Laborantin
 bis 45 Jahre
 Landwirtschaftliche Verwaltungsangestellte
-
+ 
 Maschinenbuchhalterin
-
+ 
 Sprechstundenhilfe
-
+ 
 Stenotypistin
 30 bis 45 Jahre
 Technische Zeichnerin
-
+ 
 Telefonistin
 über 30 Jahre
 Verkäuferin
@@ -526,22 +526,22 @@ Leistungsgruppe 5\\
 Angestellte in einfacher, schematischer oder mechanischer Tätigkeit, die keine Berufsausbildung erfordert. Ergibt sich nicht nach den Merkmalen der ausgeübten Beschäftigung die Einstufung in eine andere Leistungsgruppe, so gehören hierzu unter anderem:\\
 Männliche Angestellte
 Fotokopist
-
+ 
 Notenwart
-
+ 
 Orchesterwart
-
+ 
 Technischer Zeichner
 bis 30 Jahre
 Verkäufer
 bis 30 Jahre
-
-
+ 
+ 
 Weibliche Angestellte
 Fakturistin
 bis 30 Jahre
 Hauswirtschaftsangestellte
-
+ 
 Kontoristin
 bis 30 Jahre
 Stenotypistin
@@ -617,9 +617,9 @@ Weibliche Angestellte der Leistungsgruppe
 1949 bis 1967
 1951 bis 1952
 1951 bis 30. Juni 1965
-
+ 
 1955 bis 30. Juni 1965
-
+ 
 
 Anlage 3
 
@@ -648,7 +648,7 @@ unter Tage
 1956 bis 30. Juni 1965
 1956 bis 30. Juni 1965
 1948 bis 1967
-
+ 
 1948 bis 1967
 
 Anlage 4
@@ -744,7 +744,7 @@ Jahr
 Arbeiter außerhalb der Land- und Forstwirtschaft der Leistungsgruppe
 Arbeiter in der Landwirtschaft der Leistungsgruppe
 Arbeiter in der Forstwirtschaft der Leistungsgruppe
-
+ 
 1
 2
 3
@@ -1161,12 +1161,12 @@ Arbeiterinnen in der Forstwirtschaft
 1
 2
 Vom 1. Januar 1891 .......
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 bis 31. Dezember 1899 .......
 II
 II
@@ -1175,12 +1175,12 @@ II
 I
 II
 Vom 1. Januar 1900 .......
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 bis 31. Dezember 1906 .......
 II
 II
@@ -1189,12 +1189,12 @@ II
 I
 II
 Vom 1. Januar 1907 .......
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 bis 30. September 1921 .......
 III
 III
@@ -1203,12 +1203,12 @@ II
 II
 II
 Vom 1. Januar 1924 .......
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 bis 31. Dezember 1925 .......
 III
 III
@@ -1217,12 +1217,12 @@ II
 I
 II
 Vom 1. Januar 1926 .......
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 bis 31. Dezember 1927 .......
 IV
 IV
@@ -1231,12 +1231,12 @@ III
 II
 III
 Vom 1. Januar 1928 .......
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 bis 31. Dezember 1933 .......
 IV
 IV
@@ -1245,12 +1245,12 @@ III
 II
 III
 Vom 1. Januar 1934 .......
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 bis 31. Dezember 1938 .......
 IV
 IV
@@ -1259,12 +1259,12 @@ III
 II
 III
 Vom 1. Januar 1939 .......
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 bis 27. Juni 1942 .......
 V
 V
@@ -1284,13 +1284,13 @@ Jahr
 Arbeiterinnen außerhalb der Land- und Forstwirtschaft der Leistungsgruppe
 Arbeiterinnen in der Landwirtschaft der Leistungsgruppe
 Arbeiterinnen in der Forstwirtschaft
-
+ 
 1
 2
 3
 1
 2
-
+ 
 1942
 1.428
 1.452
@@ -1648,11 +1648,11 @@ Angestellte der Leistungsgruppe
 4
 5
 Vom 1. Januar 1891 .............
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 bis 31. Dezember 1899 .............
 D
 D
@@ -1660,11 +1660,11 @@ D
 D
 C
 Vom 1. Januar 1900 .............
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 bis 31. Dezember 1906 .............
 E
 E
@@ -1672,11 +1672,11 @@ E
 D
 C
 Vom 1. Januar 1907 .............
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 bis 31. Dezember 1912 .............
 E
 E
@@ -1684,11 +1684,11 @@ E
 E
 D
 Vom 1. Januar 1913 .............
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 bis 31. Juli 1921 .............
 J
 G
@@ -1696,11 +1696,11 @@ F
 E
 D
 Vom 1. Januar 1924 .............
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 bis 31. Dezember 1925 .............
 E
 D
@@ -1708,11 +1708,11 @@ C
 C
 C
 Vom 1. Januar 1926 .............
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 bis 31. Dezember 1933 .............
 F
 E
@@ -1720,11 +1720,11 @@ D
 C
 C
 Vom 1. Januar 1934 .............
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 bis 31. Dezember 1938 .............
 F
 E
@@ -1732,11 +1732,11 @@ D
 C
 C
 Vom 1. Januar 1939 .............
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 bis 30. Juni 1942 .............
 G
 E
@@ -1754,7 +1754,7 @@ der Rentenversicherung der Angestellten\\
 - in RM/DM -
 Jahr
 Angestellte der Leistungsgruppe
-
+ 
 1
 2
 3
@@ -2068,11 +2068,11 @@ Angestellte der Leistungsgruppe
 4
 5
 Vom 1. Januar 1891 .............
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 bis 31. Dezember 1899 .............
 D
 D
@@ -2080,11 +2080,11 @@ C
 B
 A
 Vom 1. Januar 1900 .............
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 bis 31. Dezember 1906 .............
 E
 D
@@ -2092,11 +2092,11 @@ C
 C
 B
 Vom 1. Januar 1907 .............
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 bis 31. Dezember 1912 .............
 E
 E
@@ -2104,11 +2104,11 @@ D
 C
 B
 Vom 1. Januar 1913 .............
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 bis 31. Juli 1921 .............
 F
 E
@@ -2116,11 +2116,11 @@ D
 C
 B
 Vom 1. Januar 1924 .............
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 bis 31. Dezember 1925 .............
 D
 C
@@ -2128,11 +2128,11 @@ C
 B
 B
 Vom 1. Januar 1926 .............
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 bis 31. Dezember 1933 .............
 E
 D
@@ -2140,11 +2140,11 @@ C
 C
 B
 Vom 1. Januar 1934 .............
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 bis 31. Dezember 1938 .............
 E
 D
@@ -2152,11 +2152,11 @@ C
 C
 B
 Vom 1. Januar 1939 .............
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 bis 30. Juni 1942 .............
 E
 D
@@ -2173,7 +2173,7 @@ Durchschnittliche Bruttojahresarbeitsentgelte der weiblichen Versicherten der Re
 -in RM/DM -
 Jahr
 Angestellte der Leistungsgruppe
-
+ 
 1
 2
 3
@@ -2518,10 +2518,10 @@ in RM/DM\\
 - Arbeiter -
 Jahr
 Bergarbeiter der Leistungsgruppe
-
+ 
 unter Tage
 über Tage
-
+ 
 1
 2
 3
@@ -2839,11 +2839,11 @@ C
 D
 E
 Vom 1. Januar 1891 .............
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 bis 31. Dezember 1899 .............
 3,06
 5,10
@@ -2851,11 +2851,11 @@ bis 31. Dezember 1899 .............
 13,23
 .
 Vom 1. Januar 1900 .............
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 bis 31. Dezember 1906 .............
 2,63
 4,29
@@ -2863,11 +2863,11 @@ bis 31. Dezember 1906 .............
 9,53
 13,28
 Vom 1. Januar 1907 ............
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 bis 31. Dezember 1912 ...........
 2,18
 3,48

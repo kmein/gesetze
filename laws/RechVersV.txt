@@ -14,8 +14,8 @@ Abschnitt 1
 Anwendungsbereich
 § 1
 Anwendungsbereich
-
-
+ 
+ 
 Abschnitt 2
 Bilanz und Gewinn- und Verlustrechnung
 § 2
@@ -26,12 +26,12 @@ Zusammenfassung von Posten
 Davon-Vermerke
 § 5
 Zusätze
-
-
+ 
+ 
 Abschnitt 3
 Vorschriften zu einzelnen Posten der Bilanz
-
-
+ 
+ 
 Unterabschnitt 1
 Posten der Aktivseite
 § 6
@@ -66,7 +66,7 @@ Andere Vermögensgegenstände
 Abgegrenzte Zinsen und Mieten
 § 21
 Ausgleichsbetrag
-
+ 
 Unterabschnitt 2
 Posten der Passivseite
 § 22
@@ -97,7 +97,7 @@ Depotverbindlichkeiten aus dem in Rückdeckung gegebenen Versicherungsgeschäft
 Abrechnungsverbindlichkeiten aus dem Rückversicherungsgeschäft
 § 35
 Ausgleichsbetrag
-
+ 
 Abschnitt 4
 Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung
 § 36
@@ -130,7 +130,7 @@ Sonstige Aufwendungen
 Sonstige Steuern
 § 50
 Ausgleichsposten
-
+ 
 Abschnitt 5
 Anhang
 § 51
@@ -145,12 +145,12 @@ Zeitwert der Kapitalanlagen
 Zeitwert der Grundstücke, grundstücksgleichen Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken
 § 56
 Zeitwert der übrigen Kapitalanlagen
-
+ 
 Abschnitt 6
 Lagebericht
 § 57
 Lagebericht
-
+ 
 Abschnitt 7
 Konzernrechnungslegung
 § 58
@@ -159,19 +159,19 @@ Konzernbilanz und Konzern-Gewinn- und Verlustrechnung
 Konzernanhang
 § 60
 Konzernlagebericht
-
+ 
 Abschnitt 8
 Befreiungen und Vereinfachungen für bestimmte Versicherungsunternehmen
 § 61
 Befreiungen
 § 62
 Vereinfachungen
-
+ 
 Abschnitt 9
 Ordnungswidrigkeiten
 § 63
 Ordnungswidrigkeiten
-
+ 
 Abschnitt 10
 Schlußvorschriften
 § 64
@@ -234,7 +234,7 @@ In der Bilanz (Formblatt 1) sind jeweils gesondert anzugeben:
 
 § 6 - Immaterielle Vermögensgegenstände
 
-(1) Im Posten Immaterielle Vermögensgegenstände“ sind jeweils gesondert auszuweisen:
+(1) Im Posten „Immaterielle Vermögensgegenstände“ sind jeweils gesondert auszuweisen:
 
 - 1. :: Selbst geschaffene gewerbliche Schutzrechte und ähnliche Rechte und Werte;
 - 2. :: entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten;

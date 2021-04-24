@@ -114,17 +114,17 @@ Jahresbeitrag je Bezugseinheit nach § 3 (in DM)
 
 Öffentlicher Mobilfunk
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 1.1
 
-
+ 
 
 C-, D-, E-Netze
 
@@ -136,7 +136,7 @@ Gesamtnetz
 
 1.2
 
-
+ 
 
 Bündelfunk
 
@@ -148,7 +148,7 @@ Kanal
 
 1.3
 
-
+ 
 
 Funkruf
 
@@ -160,7 +160,7 @@ Kanal
 
 1.4
 
-
+ 
 
 TFTS
 
@@ -172,7 +172,7 @@ Kanal
 
 1.5
 
-
+ 
 
 Datenfunk
 
@@ -186,29 +186,29 @@ Kanal
 
 Rundfunkdienst
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 2.1
 
-
+ 
 
 Ton-Rundfunk
 
+ 
 
+ 
 
-
-
-
+ 
 
 2.1.1
 
-
+ 
 
 LW
 
@@ -220,7 +220,7 @@ zugeteilte Frequenz
 
 2.1.2
 
-
+ 
 
 MW
 
@@ -232,7 +232,7 @@ zugeteilte Frequenz
 
 2.1.3
 
-
+ 
 
 KW
 
@@ -244,7 +244,7 @@ zugeteilte Frequenz Theoretische Versorgungsfläche ++) je zugeteilte Frequenz
 
 2.1.4
 
-
+ 
 
 UKW
 
@@ -256,7 +256,7 @@ je angefangene 100 qkm
 
 2.2
 
-
+ 
 
 Fernseh-Rundfunk
 
@@ -271,17 +271,17 @@ je angefangene 100 qkm
 Feste Funkdienste/\\
 Normalfrequenz- und Zeitzeichenfunkdienst
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 3.1
 
-
+ 
 
 koordinierungspflichtige feste Funkanlagen einschließlich Normalfrequenz- und Zeitzeichenfunk
 
@@ -293,7 +293,7 @@ Sendefunkanlage
 
 3.2
 
-
+ 
 
 nicht koordinierungspflichtige feste Funkanlagen
 
@@ -307,17 +307,17 @@ Sendefunkanlage
 
 Nichtöffentlicher Mobiler Landfunk (nömL)
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 4.1
 
-
+ 
 
 Betriebsfunk auf Gemeinschaftsfrequenzen, Grubenfunk, Grundstücks-Sprechfunk, nichtöffentliches Datenfunknetz für Fernwirk- und Alarmierungszwecke, Funkanlagen für Hilfszwecke, Fernwirk-Funkanlagen
 
@@ -329,7 +329,7 @@ Sendefunkanlage
 
 4.2
 
-
+ 
 
 Betriebsfunk auf Frequenzen, die nicht zur Nutzung als "Gemeinschaftsfrequenzen" bestimmt sind, einschließlich Betriebsfunk in Bündelfunktechnik
 
@@ -341,7 +341,7 @@ Kanal
 
 4.3
 
-
+ 
 
 CB-Funk
 
@@ -353,15 +353,15 @@ Zuteilungsinhaber
 
 4.4
 
-
+ 
 
 Grundstücks-Personenruf (Netze ohne Quittungssender)
 
 Netz mit ... Rufempfängern
 
+ 
 
-
-
+ 
 
 bis zu 2
 
@@ -413,15 +413,15 @@ mehr als 1.000
 
 4.5
 
-
+ 
 
 GrundstücksPersonenruf (Netze mit Quittungssendern), Grundstücksüberschreitender Personenruf
 
 Netz mit ... Rufempfängern
 
+ 
 
-
-
+ 
 
 bis zu 2
 
@@ -473,7 +473,7 @@ mehr als 1.000
 
 4.6
 
-
+ 
 
 Fernsehfunkanlagen des nömL, bewegbare Kleinst-Richtfunkanlagen, Funkanlagen zur vorübergehenden Einrichtung von Fernsehleitungen, Funkanlagen für Ton- und Meldeleitungen
 
@@ -485,7 +485,7 @@ Sendefunkanlage
 
 4.7
 
-
+ 
 
 Durchsage-Funkanlagen (Führungs-Funkanlage, drahtlose Mikrofonanlage)
 
@@ -499,17 +499,17 @@ Sendefunkanlage
 
 Flugfunkdienst
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 5.1
 
-
+ 
 
 stationäre Bodenfunkstellen, ortsfeste Flugnavigationsfunkstellen
 
@@ -521,7 +521,7 @@ Funkstelle
 
 5.2
 
-
+ 
 
 übrige Bodenfunkstellen, Luftfunkstellen
 
@@ -573,17 +573,17 @@ Sendefunkanlage
 
 Sonstige Funkanwendungen
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 9.1
 
-
+ 
 
 Demonstrations-\\
 Funkanlagen
@@ -596,7 +596,7 @@ Sendefunkanlage
 
 9.2
 
-
+ 
 
 Versuchs-Funkanlagen
 
@@ -606,37 +606,37 @@ Zuteilung
 
 231
 
+ 
 
-
-
+ 
 
 WLL/DECT
 
-
-
---
+ 
 
 --
 
+--
 
+ 
 
-
+ 
 
 DAB
 
-
-
---
+ 
 
 --
 
+--
 
+ 
 
-
+ 
 
 UMTS
 
-
+ 
 
 --
 
@@ -652,7 +652,7 @@ Pi R(hoch)2\\
 -------------\\
 36
 
-
+ 
 
 -   :: berechnet werden. Durch Addition der 36 Flächenelemente ergibt sich die Theoretische Versorgungsfläche einer Sendeanlage in km(hoch)2. Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für Landausbreitung der Empfehlung ITUR P.370 für 50% Zeit- und 50% Ortswahrscheinlichkeit. Die Geländerauhigkeit beträgt 50 m. Als Parameter sind der Frequenzbereich, in welchem die Nutzung stattfindet, der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven Antennenhöhen und Leistungen erforderlich. Für Entfernungen (R) kleiner 10 km werden die Ausbreitungskurven verwandt, welche zurzeit auch in den Anlagen 1a und 2a der Richtlinien 176 TR 22 bzw. 5 R 22 zu finden sind. Für Sender, die im Rahmen eines Gleichwellennetzes betrieben werden, wird mittels Leistungsadditionsverfahren eine Summenfeldstärke des Netzes berechnet. Die Theoretische Versorgungsfläche entsteht durch Addition von hinreichend kleinen Flächenelementen, in denen die Mindestnutzfeldstärke erreicht wird.
 
@@ -690,15 +690,15 @@ Jahresbeitrag je Bezugseinheit nach § 3 (in Euro)
 
 Öffentlicher Mobilfunk
 
+ 
 
+ 
 
-
-
-
+ 
 
 1.1
 
-
+ 
 
 D-, E-Netze
 
@@ -708,7 +708,7 @@ Netz
 
 1.2
 
-
+ 
 
 Bündelfunk
 
@@ -718,7 +718,7 @@ Kanal
 
 1.3
 
-
+ 
 
 Funkruf
 
@@ -728,7 +728,7 @@ Kanal
 
 1.4
 
-
+ 
 
 Datenfunk
 
@@ -740,25 +740,25 @@ Kanal
 
 Rundfunkdienst
 
+ 
 
+ 
 
-
-
-
+ 
 
 2.1
 
-
+ 
 
 Ton-Rundfunk
 
+ 
 
-
-
+ 
 
 2.1.1
 
-
+ 
 
 LW
 
@@ -768,7 +768,7 @@ Zugeteilte Frequenz
 
 2.1.2
 
-
+ 
 
 MW
 
@@ -778,7 +778,7 @@ Zugeteilte Frequenz
 
 2.1.3
 
-
+ 
 
 KW
 
@@ -788,7 +788,7 @@ Zugeteilte Frequenz Theoretische Versorgungsfläche je zugeteilte Frequenz *)
 
 2.1.4
 
-
+ 
 
 UKW
 
@@ -798,7 +798,7 @@ je angefangene 100 qkm
 
 2.2
 
-
+ 
 
 Fernseh-Rundfunk
 
@@ -808,7 +808,7 @@ je angefangene 100 qkm
 
 2.3
 
-
+ 
 
 T-DAB
 
@@ -821,15 +821,15 @@ je angefangene 100 qkm
 Feste Funkdienste/\\
 Normalfrequenz- und Zeitzeichenfunkdienst
 
+ 
 
+ 
 
-
-
-
+ 
 
 3.1
 
-
+ 
 
 koordinierungspflichtige feste Funkanlagen einschließlich Normalfrequenz- und Zeitzeichenfunk
 
@@ -839,7 +839,7 @@ Sendefunkanlage
 
 3.2
 
-
+ 
 
 nicht koordinierungsrelevante feste Funkanlagen
 
@@ -851,15 +851,15 @@ Sendefunkanlage
 
 Nichtöffentlicher Mobiler Landfunk (nömL)
 
+ 
 
+ 
 
-
-
-
+ 
 
 4.1
 
-
+ 
 
 Betriebsfunk auf Gemeinschaftsfrequenzen, Grubenfunk, Grundstücks-Sprechfunk, nichtöffentliches Datenfunknetz für Fernwirk- und Alarmierungszwecke, Funkanlagen für Hilfszwecke, FernwirkFunkanlagen
 
@@ -869,7 +869,7 @@ Sendefunkanlage
 
 4.2
 
-
+ 
 
 Betriebsfunk auf Frequenzen, die nicht zur Nutzung als "Gemeinschaftsfrequenzen" bestimmt sind, einschließlich Betriebsfunk in Bündelfunktechnik
 
@@ -879,7 +879,7 @@ Kanal
 
 4.3
 
-
+ 
 
 CB-Funk
 
@@ -889,13 +889,13 @@ Zuteilungsinhaber
 
 4.4
 
-
+ 
 
 Grundstücks-Personenruf (Netze ohne Quittungssender)
 
 Netz mit ... Rufempfängern
 
-
+ 
 
 bis zu 2
 
@@ -931,13 +931,13 @@ mehr als 1.000
 
 4.5
 
-
+ 
 
 Grundstücks-Personenruf (Netze mit Quittungssendern), Grundstücksüberschreitender Personenruf
 
 Netz mit ... Rufempfängern
 
-
+ 
 
 bis zu 2
 
@@ -973,7 +973,7 @@ mehr als 1.000
 
 4.6
 
-
+ 
 
 Fernsehfunkanlagen des nömL, bewegbare Kleinst-Richtfunkanlagen, Funkanlagen zur vorübergehenden Einrichtung von Fernsehleitungen, Funkanlagen für Ton- und Meldeleitungen
 
@@ -983,7 +983,7 @@ Sendefunkanlage
 
 4.7
 
-
+ 
 
 Durchsage-Funkanlagen (Führungs-Funkanlage, drahtlose Mikrofonanlage)
 
@@ -993,11 +993,11 @@ Sendefunkanlage
 
 4.8
 
-
+ 
 
 Mietsprechfunkgerät, Funkanlage zur Fernsteuerung von Modellen, drahtlose Mikrofonanlage für Hörgeschädigte
 
-
+ 
 
 kein Betrag
 
@@ -1005,15 +1005,15 @@ kein Betrag
 
 Flugfunkdienst
 
+ 
 
+ 
 
-
-
-
+ 
 
 5.1
 
-
+ 
 
 stationäre Bodenfunkstellen, ortsfeste Flugnavigationsfunkstellen
 
@@ -1023,7 +1023,7 @@ Funkstelle
 
 5.2
 
-
+ 
 
 übrige Bodenfunkstellen, Luftfunkstellen
 
@@ -1067,15 +1067,15 @@ Sendefunkanlage
 
 Sonstige Funkanwendungen
 
+ 
 
+ 
 
-
-
-
+ 
 
 9.1
 
-
+ 
 
 Demonstrations-\\
 Funkanlagen
@@ -1086,7 +1086,7 @@ Sendefunkanlage
 
 9.2
 
-
+ 
 
 Versuchs-Funkanlagen
 
@@ -1096,7 +1096,7 @@ Zuteilung
 
 9.3
 
-
+ 
 
 WLL/DECT\\
 DVB-T\\
@@ -1115,6 +1115,6 @@ Pi R(hoch)2\\
 -----------\\
 36
 
-
+ 
 
 -   :: berechnet werden. Durch Addition der 36 Flächenelemente ergibt sich die Theoretische Versorgungsfläche einer Sendeanlage in km(hoch)2. Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für Landausbreitung der Empfehlung ITU- R P.370 für 50% Zeit- und 50% Ortswahrscheinlichkeit. Die Geländerauhigkeit beträgt 50 m. Als Parameter sind der Frequenzbereich, in welchem die Nutzung stattfindet, der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven Antennenhöhen und Leistungen erforderlich. Für Entfernungen (R) kleiner 10 km werden die Ausbreitungskurven verwandt, welche zurzeit auch in den Anlagen 1a und 2a der Richtlinien 176 TR 22 bzw. 5 R 22 zu finden sind. Für Sender, die im Rahmen eines Gleichwellennetzes betrieben werden, wird mittels Leistungsadditionsverfahren eine Summenfeldstärke des Netzes berechnet. Die Theoretische Versorgungsfläche entsteht durch Addition von hinreichend kleinen Flächenelementen, in denen die Mindestnutzfeldstärke erreicht wird.

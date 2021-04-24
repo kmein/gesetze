@@ -1723,7 +1723,7 @@ Zu vertreten hat ein Ausländer die Gründe nach Satz 1 Nummer 2 insbesondere, w
 
 § 60b - Duldung für Personen mit ungeklärter Identität
 
-(1) Einem vollziehbar ausreisepflichtigen Ausländer wird die Duldung im Sinne des § 60a als Duldung für Personen mit ungeklärter Identität“ erteilt, wenn die Abschiebung aus von ihm selbst zu vertretenden Gründen nicht vollzogen werden kann, weil er das Abschiebungshindernis durch eigene Täuschung über seine Identität oder Staatsangehörigkeit oder durch eigene falsche Angaben selbst herbeiführt oder er zumutbare Handlungen zur Erfüllung der besonderen Passbeschaffungspflicht nach Absatz 2 Satz 1 und Absatz 3 Satz 1 nicht vornimmt. Dem Ausländer ist die Bescheinigung über die Duldung nach § 60a Absatz 4 mit dem Zusatz für Personen mit ungeklärter Identität“ auszustellen.
+(1) Einem vollziehbar ausreisepflichtigen Ausländer wird die Duldung im Sinne des § 60a als „Duldung für Personen mit ungeklärter Identität“ erteilt, wenn die Abschiebung aus von ihm selbst zu vertretenden Gründen nicht vollzogen werden kann, weil er das Abschiebungshindernis durch eigene Täuschung über seine Identität oder Staatsangehörigkeit oder durch eigene falsche Angaben selbst herbeiführt oder er zumutbare Handlungen zur Erfüllung der besonderen Passbeschaffungspflicht nach Absatz 2 Satz 1 und Absatz 3 Satz 1 nicht vornimmt. Dem Ausländer ist die Bescheinigung über die Duldung nach § 60a Absatz 4 mit dem Zusatz „für Personen mit ungeklärter Identität“ auszustellen.
 (2) Besitzt der vollziehbar ausreisepflichtige Ausländer keinen gültigen Pass oder Passersatz, ist er unbeschadet des § 3 verpflichtet, alle ihm unter Berücksichtigung der Umstände des Einzelfalls zumutbaren Handlungen zur Beschaffung eines Passes oder Passersatzes selbst vorzunehmen. Dies gilt nicht für Ausländer ab der Stellung eines Asylantrages (§ 13 des Asylgesetzes) oder eines Asylgesuches (§ 18 des Asylgesetzes) bis zur rechtskräftigen Ablehnung des Asylantrages sowie für Ausländer, wenn ein Abschiebungsverbot nach § 60 Absatz 5 oder 7 vorliegt, es sei denn, das Abschiebungsverbot nach § 60 Absatz 7 beruht allein auf gesundheitlichen Gründen.
 (3) Im Sinne des Absatzes 2 Satz 1 ist dem Ausländer regelmäßig zumutbar,
 
@@ -1736,8 +1736,8 @@ Zu vertreten hat ein Ausländer die Gründe nach Satz 1 Nummer 2 insbesondere, w
 
 Der Ausländer ist auf diese Pflichten hinzuweisen. Sie gelten als erfüllt, wenn der Ausländer glaubhaft macht, dass er die Handlungen nach Satz 1 vorgenommen hat. Weist die Ausländerbehörde den Ausländer darauf hin, dass seine bisherigen Darlegungen und Nachweise zur Glaubhaftmachung der Erfüllung einer bestimmten Handlung oder mehrerer bestimmter Handlungen nach Satz 1 nicht ausreichen, kann die Ausländerbehörde ihn mit Fristsetzung dazu auffordern, die Vornahme der Handlungen nach Satz 1 durch Erklärung an Eides statt glaubhaft zu machen. Die Ausländerbehörde ist hierzu zuständige Behörde im Sinne des § 156 des Strafgesetzbuches.
 
-(4) Hat der Ausländer die zumutbaren Handlungen nach Absatz 2 Satz 1 und Absatz 3 Satz 1 unterlassen, kann er diese jederzeit nachholen. In diesem Fall ist die Verletzung der Mitwirkungspflicht geheilt und dem Ausländer die Bescheinigung über die Duldung nach § 60a Absatz 4 ohne den Zusatz für Personen mit ungeklärter Identität“ auszustellen. Absatz 5 Satz 1 bleibt unberührt.
-(5) Die Zeiten, in denen dem Ausländer die Duldung mit dem Zusatz für Personen mit ungeklärter Identität“ ausgestellt worden ist, werden nicht als Vorduldungszeiten angerechnet. Dem Inhaber einer Duldung mit dem Zusatz für Personen mit ungeklärter Identität“ darf die Ausübung einer Erwerbstätigkeit nicht erlaubt werden. Er unterliegt einer Wohnsitzauflage nach § 61 Absatz 1d.
+(4) Hat der Ausländer die zumutbaren Handlungen nach Absatz 2 Satz 1 und Absatz 3 Satz 1 unterlassen, kann er diese jederzeit nachholen. In diesem Fall ist die Verletzung der Mitwirkungspflicht geheilt und dem Ausländer die Bescheinigung über die Duldung nach § 60a Absatz 4 ohne den Zusatz „für Personen mit ungeklärter Identität“ auszustellen. Absatz 5 Satz 1 bleibt unberührt.
+(5) Die Zeiten, in denen dem Ausländer die Duldung mit dem Zusatz „für Personen mit ungeklärter Identität“ ausgestellt worden ist, werden nicht als Vorduldungszeiten angerechnet. Dem Inhaber einer Duldung mit dem Zusatz „für Personen mit ungeklärter Identität“ darf die Ausübung einer Erwerbstätigkeit nicht erlaubt werden. Er unterliegt einer Wohnsitzauflage nach § 61 Absatz 1d.
 (6) § 84 Absatz 1 Satz 1 Nummer 3 und Absatz 2 Satz 1 und 3 findet Anwendung.
 
 § 60c - Ausbildungsduldung
@@ -2208,7 +2208,7 @@ In der Mitteilung nach Satz 1 Nummer 1 und 2 sind auch die Gründe für die Ents
 - 13. :: Unterschrift,
 - 14. :: Seriennummer,
 - 15. :: Staatsangehörigkeit,
-- 16. :: Geschlecht mit der Abkürzung FM“ für Personen männlichen Geschlechts und X“ in allen anderen Fällen,
+- 16. :: Geschlecht mit der Abkürzung „F” für Personen weiblichen Geschlechts, „M“ für Personen männlichen Geschlechts und „X“ in allen anderen Fällen,
 - 17. :: Größe und Augenfarbe,
 - 18. :: Zugangsnummer.
 
@@ -2217,12 +2217,12 @@ Dokumente nach Satz 1 können unter den Voraussetzungen des § 48 Absatz 2 oder 
 (2) Dokumente mit elektronischem Speicher- und Verarbeitungsmedium nach Absatz 1 enthalten eine Zone für das automatische Lesen. Diese darf lediglich die folgenden sichtbar aufgedruckten Angaben enthalten:
 
 - 1. :: die Abkürzungen
-  - a) :: AR“ für den Aufenthaltstiteltyp nach § 4 Absatz 1 Nummer 2 bis 4,
-  - b) :: AS“ für den Aufenthaltstiteltyp nach § 28 Satz 2 der Aufenthaltsverordnung,
-- 2. :: die Abkürzung D“ für Bundesrepublik Deutschland,
+  - a) :: „AR“ für den Aufenthaltstiteltyp nach § 4 Absatz 1 Nummer 2 bis 4,
+  - b) :: „AS“ für den Aufenthaltstiteltyp nach § 28 Satz 2 der Aufenthaltsverordnung,
+- 2. :: die Abkürzung „D“ für Bundesrepublik Deutschland,
 - 3. :: die Seriennummer des Aufenthaltstitels, die sich aus der Behördenkennzahl der Ausländerbehörde und einer zufällig zu vergebenden Aufenthaltstitelnummer zusammensetzt und die neben Ziffern auch Buchstaben enthalten kann,
 - 4. :: das Geburtsdatum,
-- 5. :: die Abkürzung F“ für Personen weiblichen Geschlechts, M“ für Personen männlichen Geschlechts und das Zeichen <“ in allen anderen Fällen,
+- 5. :: die Abkürzung „F“ für Personen weiblichen Geschlechts, „M“ für Personen männlichen Geschlechts und das Zeichen „<“ in allen anderen Fällen,
 - 6. :: die Gültigkeitsdauer des Aufenthaltstitels oder im Falle eines unbefristeten Aufenthaltsrechts die technische Kartennutzungsdauer,
 - 7. :: die Abkürzung der Staatsangehörigkeit,
 - 8. :: den Namen,
@@ -2273,7 +2273,7 @@ Auf dem Vordruckmuster ist kenntlich zu machen, dass es sich um eine Ausstellung
 
 - 1. :: Name und Vornamen,
 - 2. :: Geburtsdatum,
-- 3. :: Geschlecht mit der Abkürzung F“ für Personen weiblichen Geschlechts, M“ für Personen männlichen Geschlechts und das Zeichen <“ in allen anderen Fällen,
+- 3. :: Geschlecht mit der Abkürzung „F“ für Personen weiblichen Geschlechts, „M“ für Personen männlichen Geschlechts und das Zeichen „<“ in allen anderen Fällen,
 - 4. :: Staatsangehörigkeit,
 - 5. :: Art des Aufenthaltstitels,
 - 6. :: Seriennummer des Vordrucks,
@@ -2289,7 +2289,7 @@ Auf Antrag kann in der Zone für das automatische Lesen bei einer Änderung des 
 
 - 1. :: Geburtsdatum und Geburtsort,
 - 2. :: Staatsangehörigkeit,
-- 3. :: Geschlecht mit der Abkürzung F“ für Personen weiblichen Geschlechts, M“ für Personen männlichen Geschlechts und X“ in allen anderen Fällen,
+- 3. :: Geschlecht mit der Abkürzung „F“ für Personen weiblichen Geschlechts, „M“ für Personen männlichen Geschlechts und „X“ in allen anderen Fällen,
 - 4. :: Größe,
 - 5. :: Farbe der Augen,
 - 6. :: Anschrift,
@@ -2972,7 +2972,7 @@ Das Bundesministerium des Innern, für Bau und Heimat kann durch Rechtsverordnun
 
 (1) Eine vor dem 1. Januar 2005 erteilte Aufenthaltsberechtigung oder unbefristete Aufenthaltserlaubnis gilt fort als Niederlassungserlaubnis entsprechend dem ihrer Erteilung zu Grunde liegenden Aufenthaltszweck und Sachverhalt. Eine unbefristete Aufenthaltserlaubnis, die nach § 1 Abs. 3 des Gesetzes über Maßnahmen für im Rahmen humanitärer Hilfsaktionen aufgenommene Flüchtlinge vom 22. Juli 1980 (BGBl. I S. 1057) oder in entsprechender Anwendung des vorgenannten Gesetzes erteilt worden ist, und eine anschließend erteilte Aufenthaltsberechtigung gelten fort als Niederlassungserlaubnis nach § 23 Abs. 2.
 (2) Die übrigen Aufenthaltsgenehmigungen gelten fort als Aufenthaltserlaubnisse entsprechend dem ihrer Erteilung zu Grunde liegenden Aufenthaltszweck und Sachverhalt.
-(3) Ein Aufenthaltstitel, der vor dem 28. August 2007 mit dem Vermerk Daueraufenthalt-EG“ versehen wurde, gilt als Erlaubnis zum Daueraufenthalt -- EU fort.
+(3) Ein Aufenthaltstitel, der vor dem 28. August 2007 mit dem Vermerk „Daueraufenthalt-EG“ versehen wurde, gilt als Erlaubnis zum Daueraufenthalt -- EU fort.
 (4) Ein Aufenthaltstitel nach Kapitel 2 Abschnitt 3 und 4, der vor dem 1. März 2020 erteilt wurde, gilt mit den verfügten Nebenbestimmungen entsprechend dem der Erteilung zu Grunde liegenden Aufenthaltszweck und Sachverhalt im Rahmen seiner Gültigkeitsdauer fort.
 
 § 102 - Fortgeltung ausländerrechtlicher Maßnahmen und Anrechnung
@@ -2994,7 +2994,7 @@ Für Personen, die vor dem Inkrafttreten dieses Gesetzes gemäß § 1 des Gesetz
 (6) § 23 Abs. 2 in der bis zum 24. Mai 2007 geltenden Fassung findet in den Fällen weiter Anwendung, in denen die Anordnung der obersten Landesbehörde, die auf Grund der bis zum 24. Mai 2007 geltenden Fassung getroffen wurde, eine Erteilung einer Niederlassungserlaubnis bei besonders gelagerten politischen Interessen der Bundesrepublik Deutschland vorsieht. § 23 Abs. 2 Satz 5 und § 44 Abs. 1 Nr. 2 sind auf die betroffenen Ausländer und die Familienangehörigen, die mit ihnen ihren Wohnsitz in das Bundesgebiet verlegen, entsprechend anzuwenden.
 (7) Eine Niederlassungserlaubnis kann auch Ehegatten, Lebenspartnern und minderjährigen ledigen Kindern eines Ausländers erteilt werden, die vor dem 1. Januar 2005 im Besitz einer Aufenthaltsbefugnis nach § 31 Abs. 1 des Ausländergesetzes oder einer Aufenthaltserlaubnis nach § 35 Abs. 2 des Ausländergesetzes waren, wenn die Voraussetzungen des § 26 Abs. 4 erfüllt sind und sie weiterhin die Voraussetzungen erfüllen, wonach eine Aufenthaltsbefugnis nach § 31 des Ausländergesetzes oder eine Aufenthaltserlaubnis nach § 35 Abs. 2 des Ausländergesetzes erteilt werden durfte.
 (8) § 28 Absatz 2 in der bis zum 5. September 2013 geltenden Fassung findet weiter Anwendung auf Familienangehörige eines Deutschen, die am 5. September 2013 bereits einen Aufenthaltstitel nach § 28 Absatz 1 innehatten.
-(9) Ausländer, die eine Aufenthaltserlaubnis nach § 25 Absatz 3 besitzen, weil das Bundesamt oder die Ausländerbehörde festgestellt hat, dass Abschiebungsverbote nach § 60 Absatz 2, 3 oder 7 Satz 2 in der vor dem 1. Dezember 2013 gültigen Fassung vorliegen, gelten als subsidiär Schutzberechtigte im Sinne des § 4 Absatz 1 des Asylgesetzes und erhalten von Amts wegen eine Aufenthaltserlaubnis nach § 25 Absatz 2 Satz 1 zweite Alternative, es sei denn, das Bundesamt hat die Ausländerbehörde über das Vorliegen von Ausschlusstatbeständen im Sinne des § 25 Absatz 3 Satz 2 Buchstabe a bis d in der vor dem 1. Dezember 2013 gültigen Fassung unterrichtet. Die Zeiten des Besitzes der Aufenthaltserlaubnis nach § 25 Absatz 3 Satz 1 in der vor dem 1. Dezember 2013 gültigen Fassung stehen Zeiten des Besitzes einer Aufenthaltserlaubnis nach § 25 Absatz 2 Satz 1 zweite Alternative gleich. § 73b des Asylgesetzes gilt entsprechend.
+(9) Ausländer, die eine Aufenthaltserlaubnis nach § 25 Absatz 3 besitzen, weil das Bundesamt oder die Ausländerbehörde festgestellt hat, dass Abschiebungsverbote nach § 60 Absatz 2, 3 oder 7 Satz 2 in der vor dem 1. Dezember 2013 gültigen Fassung vorliegen, gelten als subsidiär Schutzberechtigte im Sinne des § 4 Absatz 1 des Asylgesetzes und erhalten von Amts wegen eine Aufenthaltserlaubnis nach § 25 Absatz 2 Satz 1 zweite Alternative, es sei denn, das Bundesamt hat die Ausländerbehörde über das Vorliegen von Ausschlusstatbeständen im Sinne des „§ 25 Absatz 3 Satz 2 Buchstabe a bis d in der vor dem 1. Dezember 2013 gültigen Fassung unterrichtet. Die Zeiten des Besitzes der Aufenthaltserlaubnis nach § 25 Absatz 3 Satz 1 in der vor dem 1. Dezember 2013 gültigen Fassung stehen Zeiten des Besitzes einer Aufenthaltserlaubnis nach § 25 Absatz 2 Satz 1 zweite Alternative gleich. § 73b des Asylgesetzes gilt entsprechend.
 (10) Für Betroffene nach § 73b Absatz 1, die als nicht entsandte Mitarbeiter des Auswärtigen Amts in einer Auslandsvertretung tätig sind, findet § 73b Absatz 4 ab dem 1. Februar 2016 Anwendung.
 (11) Für Ausländer, denen zwischen dem 1. Januar 2011 und dem 31. Juli 2015 subsidiärer Schutz nach der Richtlinie 2011/95/EU oder der Richtlinie 2004/38/EG unanfechtbar zuerkannt wurde, beginnt die Frist nach § 29 Absatz 2 Satz 2 Nummer 1 mit Inkrafttreten dieses Gesetzes zu laufen.
 (12) Im Falle einer Abschiebungsandrohung nach den §§ 34 und 35 des Asylgesetzes oder einer Abschiebungsanordnung nach § 34a des Asylgesetzes, die bereits vor dem 1. August 2015 erlassen oder angeordnet worden ist, sind die Ausländerbehörden für die Anordnung eines Einreise- und Aufenthaltsverbots nach § 11 zuständig.

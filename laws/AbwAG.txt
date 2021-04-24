@@ -158,14 +158,14 @@ Verfahren zur Bestimmung der Schädlichkeit des Abwassers
 Oxidierbare Stoffe in chemischem Sauerstoffbedarf (CSB)
 50 Kilogramm Sauerstoff
 20 Milligramm je Liter und
-
+ 
 250 Kilogramm Jahresmenge
 303
 2
 Phosphor
 3 Kilogramm
 0,1 Milligramm je Liter und
-
+ 
 15 Kilogramm Jahresmenge
 108
 3
@@ -180,14 +180,14 @@ Ammoniumstickstoff: 202
 Organische Halogenverbindungen als adsorbierbare organisch gebundene Halogene (AOX)
 2 Kilogramm Halogen, berechnet als organisch gebundenes Chlor
 100 Mikrogramm je Liter und
-
+ 
 10 Kilogramm Jahresmenge
 302
 5
 Metalle und ihre Verbindungen:
-
+ 
 und
-
+ 
 5.1
 Quecksilber
 20 Gramm
@@ -227,7 +227,7 @@ Kupfer
 Metall
 je Liter\\
 Jahresmenge
-
+ 
 6
 Giftigkeit gegenüber Fischeiern
 6 000 Kubikmeter Abwasser geteilt durch G(tief)EI

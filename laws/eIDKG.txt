@@ -6,19 +6,19 @@ Ausfertigungsdatum: 21.06.2019
 
 Inhaltsübersicht
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 § 1 - eID-Karte
 
@@ -70,7 +70,7 @@ und macht deren Namen im Bundesanzeiger bekannt.
 - 2. :: Vornamen,
 - 3. :: Doktorgrad,
 - 4. :: Tag und Ort der Geburt,
-- 5. :: Anschrift; hat der Karteninhaber keine Wohnung in Deutschland, kann die Angabe keine Wohnung in Deutschland“ eingetragen werden,
+- 5. :: Anschrift; hat der Karteninhaber keine Wohnung in Deutschland, kann die Angabe „keine Wohnung in Deutschland“ eingetragen werden,
 - 6. :: Staatsangehörigkeit,
 - 7. :: Ordensname, Künstlername,
 - 8. :: Dokumentenart und

@@ -58,7 +58,7 @@ zugrunde. Abweichend von den Vorgaben in den genannten Protokollen des Gemeinsch
 
 ausreichend sind.
 
-(5) Im Falle einer Erhaltungssorte von Gemüse wird in die Sortenliste statt der Angabe nach § 47 Absatz 1 Nummer 7 des Saatgutverkehrsgesetzes der Hinweis Erhaltungssorte, deren Saatgut gemäfür den Anbau unter bestimmten Bedingungen gezüchtete Sorte, deren Saatgut gemäß Artikel 26 der Richtlinie 2009/145/EG der Kommission kontrolliert wird“ eingetragen.
+(5) Im Falle einer Erhaltungssorte von Gemüse wird in die Sortenliste statt der Angabe nach § 47 Absatz 1 Nummer 7 des Saatgutverkehrsgesetzes der Hinweis „Erhaltungssorte, deren Saatgut gemäß Artikel 11 der Richtlinie 2009/145/EG der Kommission kontrolliert wird“ eingetragen. Handelt es sich um eine Amateursorte, wird abweichend von Satz 1 der Hinweis „für den Anbau unter bestimmten Bedingungen gezüchtete Sorte, deren Saatgut gemäß Artikel 26 der Richtlinie 2009/145/EG der Kommission kontrolliert wird“ eingetragen.
 
 § 3 - Feststellung des landeskulturellen Wertes
 
@@ -142,12 +142,12 @@ Ein Antragsteller kann gegenüber dem Bundessortenamt eine zusätzliche Region f
 
 Saatgut einer Erhaltungssorte darf nur in Packungen in den Verkehr gebracht werden, auf denen sich ein Herstelleretikett, ein Aufdruck oder ein Stempel mit folgenden Angaben befindet:
 
-- 1. :: die Angabe EG-Norm“,
+- 1. :: die Angabe „EG-Norm“,
 - 2. :: Name und Anschrift der für das Kennzeichnen verantwortlichen Person,
-- 3. :: das Jahr der Verschlieverschlossen ... “ oder, aubeprobt ... “, § 40 Absatz 4 der Saatgutverordnung gilt entsprechend,
+- 3. :: das Jahr der Verschließung mit der Angabe „verschlossen ... “ oder, außer bei Pflanzkartoffeln, das Jahr der letzten Probenahme zum Zweck der Keimfähigkeitsprüfung mit der Angabe „beprobt ... “, § 40 Absatz 4 der Saatgutverordnung gilt entsprechend,
 - 4. :: Pflanzenart,
 - 5. :: Sortenbezeichnung der Erhaltungssorte oder Amateursorte,
-- 6. :: die Angabe Erhaltungssorte“, bei Erhaltungssorten von Gemüse die Angabe Standardsaatgut einer ErhaltungssorteStandardsaatgut einer Amateursorte” ,
+- 6. :: die Angabe „Erhaltungssorte“, bei Erhaltungssorten von Gemüse die Angabe „Standardsaatgut einer Erhaltungssorte” , bei Amateursorten die Angabe „Standardsaatgut einer Amateursorte” ,
 - 7. :: Ursprungsregion, außer bei Amateursorten,
 - 8. :: im Falle von Saatgut, dessen Inverkehrbringen nach § 5 Absatz 3 genehmigt worden ist, die Angabe der Region der Saatguterzeugung,
 - 9. :: Bezugsnummer der Partie, vergeben durch die für die Kennzeichnung verantwortliche Person,

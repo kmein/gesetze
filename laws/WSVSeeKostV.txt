@@ -68,11 +68,11 @@ Genehmigung des Verkehrs außergewöhnlich großer Fahrzeuge, Luftkissen-, Tragf
 § 57 Abs. 1 Nr. 1 der Seeschifffahrtsstraßen-Ordnung\\
 Artikel 28 Abs. 1 Nr. 1 und Nr. 1a der Schifffahrtsordnung Emsmündung
 
-
+ 
 
 Bemessungsgrundlage: Schiffsgröße nach Bruttoraumzahl (BRZ)
 
-
+ 
 
 bis 3 000 BRZ
 
@@ -137,11 +137,11 @@ Genehmigung des Verkehrs außergewöhnlicher Schub- und Schleppverbände sowie d
 § 57 Abs. 1 Nr. 2 der Seeschifffahrtsstraßen-Ordnung\\
 Artikel 28 Abs. 1 Nr. 2 der Schifffahrtsordnung Emsmündung
 
-
+ 
 
 - a) :: Anhänge Bruttoraumzahl
 
-
+ 
 
 bis 1 500 BRZ
 
@@ -189,7 +189,7 @@ bis 1 500 BRZ
 
 - b) :: Schwimmkörper
 
-
+ 
 
 bis 100 m
 
@@ -213,7 +213,7 @@ Genehmigung von Stapelläufen
 
 Bemessungsgrundlage: wie zu 2.
 
-
+ 
 
 5
 
@@ -226,7 +226,7 @@ Artikel 28 Abs. 1 Nr. 3 der Schifffahrtsordnung Emsmündung
 
 Bemessungsgrundlage: wie zu 2.
 
-
+ 
 
 6
 
@@ -235,11 +235,11 @@ Genehmigung der Erprobung und der Prüfung der Zugkraft von Fahrzeugen sowie Sta
 § 57 Abs. 1 Nr. 5 der Seeschifffahrtsstraßen-Ordnung\\
 Artikel 28 Abs. 2 Nr. 4 der Schifffahrtsordnung Emsmündung
 
-
+ 
 
 Bemessungsgrundlage: Motorenstärke
 
-
+ 
 
 bis 368 kW ( 500 PS)
 
@@ -280,11 +280,11 @@ Genehmigung wassersportlicher Veranstaltungen auf dem Wasser
 § 57 Abs. 1 Nr. 6 der Seeschifffahrtsstraßen-Ordnung\\
 Artikel 28 Abs. 1 Nr. 6 der Schifffahrtsordnung Emsmündung
 
-
+ 
 
 Bemessungsgrundlage: Anzahl der an der Veranstaltung teilnehmenden Boote
 
-
+ 
 
 bis zu 50 Booten
 
@@ -326,11 +326,11 @@ Gestattung der Durchfahrt durch den Nord-Ostsee-Kanal unter Auflagen für Fahrze
 
 § 42 Abs. 6 der Seeschifffahrtsstraßen-Ordnung
 
-
+ 
 
 Bemessungsgrundlage: Schiffsgröße nach Bruttoraumzahl (BRZ)
 
-
+ 
 
 bis 3 000 BRZ
 
@@ -362,17 +362,17 @@ Erteilung eines Fahrtausweises für Sportfahrzeuge, die ihren ständigen Liegepl
 
 § 51 Abs. 2 der Seeschifffahrtsstraßen-Ordnung
 
-
+ 
 
 - a) :: für muskelbetriebene Sportfahrzeuge
 
-
+ 
 
 12
 
 - b) :: für sonstige Sportfahrzeuge
 
-
+ 
 
 15
 
@@ -395,7 +395,7 @@ Befreiung von den Vorschriften der Seeschifffahrtsstraßen-Ordnung und der Veror
 
 Bemessungsgrundlage: wie zu 2.
 
-
+ 
 
 14
 
@@ -441,9 +441,9 @@ Ersatz eines Befähigungszeugnisses
 
 (nicht besetzt)
 
+ 
 
-
-
+ 
 
 20
 
@@ -473,9 +473,9 @@ Umtausch eines Befähigungszeugnisses
 
 (nicht besetzt)
 
+ 
 
-
-
+ 
 
 24
 
@@ -507,17 +507,17 @@ Erteilung oder Verlängerung der Gültigkeit eines Bootszeugnisses einschließli
 
 § 5, § 6 Abs. 1 und § 18 Abs. 1 und 2 der See-Sportbootverordnung
 
-
+ 
 
 kleine Sportboote
 
-
+ 
 
 20
 
 Wassermotorräder
 
-
+ 
 
 15
 
@@ -565,7 +565,7 @@ Beendigung der Gültigkeit eines Bootszeugnisses aus triftigem Grund im Anschlus
 
 Ersatz eines Bootszeugnisses bei Verlust
 
-
+ 
 
 23
 
@@ -573,7 +573,7 @@ Ersatz eines Bootszeugnisses bei Verlust
 
 Übertragung des Bootszeugnisses bei Veräußerung bzw. Umschreibung des Bootszeugnisses
 
-
+ 
 
 23
 
@@ -625,7 +625,7 @@ Erteilung der Erlaubnis zur Lotstätigkeit außerhalb der Reviere und Ausstellun
 
 Ersatz eines Seelotsenanwärter- oder Seelotsenausweises
 
-
+ 
 
 20
 
@@ -645,7 +645,7 @@ Befreiung von der Lotsenannahmepflicht in besonderen Fällen
 
 Ersatz einer Bescheinigung über die Befreiung von der Lotsenannahmepflicht
 
-
+ 
 
 20
 
@@ -665,11 +665,11 @@ Anordnung der Lotsenannahme im Einzelfall
 
 Prüfung des Schiffsführers
 
+ 
 
+ 
 
-
-
-
+ 
 
 - a) :: Theoretische Prüfung
 
@@ -687,7 +687,7 @@ Prüfung des Schiffsführers
 
 105
 
-
+ 
 
 - b) :: Praktische Prüfung
 -   :: Gesamtstrecke Nord-Ostsee-Kanal
@@ -696,15 +696,15 @@ Prüfung des Schiffsführers
 
 537
 
-
+ 
 
 -   :: Teilstrecke Nord-Ostsee-Kanal
 
-
+ 
 
 75
 
-
+ 
 
 -   :: Teilstrecke Trave
 
@@ -765,11 +765,11 @@ Befreiung von Befahrensverboten
 
 § 2 Abs. 2 der Verordnung über das Befahren des Naturschutzgebietes "Helgoländer Felssockel"
 
-
+ 
 
 Bemessungsgrundlage für Sportboote aller Art:
 
-
+ 
 
 Jugendfahrten
 
@@ -789,11 +789,11 @@ Befreiung von Befahrensverboten
 
 § 2 Abs. 2 der Verordnung über das Befahren der Bundeswasserstraßen in dem Naturschutzgebiet "Dassower See, Inseln Buchhorst und Graswerder (Plönswerder)"
 
-
+ 
 
 Bemessungsgrundlage für Sportboote aller Art:
 
-
+ 
 
 Jugendfahrten
 
@@ -817,11 +817,11 @@ Befreiung von Befahrensverboten
 
 § 5 Abs. 1 und 2 der Verordnung über das Befahren der Bundeswasserstraßen in Nationalparken im Bereich der Nordsee
 
-
+ 
 
 Bemessungsgrundlage für Sportboote aller Art:
 
-
+ 
 
 Jugendfahrten
 
@@ -853,11 +853,11 @@ Befreiung von Befahrensverboten
 
 § 5 Abs. 3 der Verordnung über das Befahren der Bundeswasserstraßen in Nationalparken im Bereich der Nordsee
 
-
+ 
 
 Bemessungsgrundlage für Sportboote aller Art:
 
-
+ 
 
 Jugendfahrten
 
@@ -877,11 +877,11 @@ Befreiung von Befahrensverboten
 
 § 7 Abs. 1 Nr. 1 und 2 der Befahrensregelungsverordnung Küstenbereich Mecklenburg-Vorpommern
 
-
+ 
 
 Bemessungsgrundlage für Sportboote aller Art:
 
-
+ 
 
 Jugendfahrten
 
@@ -919,7 +919,7 @@ Untersagung der Beförderung oder des Umschlages von Öl
 
 In allen übrigen Fällen, die nicht in den lfd. Nummern 1 bis 53 aufgeführt sind, bei schriftlichen Verwaltungsakten nach Aufwand im Einzelfall
 
-
+ 
 
 50 bis 250
 
@@ -927,7 +927,7 @@ In allen übrigen Fällen, die nicht in den lfd. Nummern 1 bis 53 aufgeführt si
 
 Widerruf oder Rücknahme eines Verwaltungsaktes, soweit der Betroffene dazu Anlass gegeben hat
 
-
+ 
 
 bis zu 75 vom Hundert der Gebühr für den Verwaltungsakt
 
@@ -935,7 +935,7 @@ bis zu 75 vom Hundert der Gebühr für den Verwaltungsakt
 
 Antragsablehnung aus anderen Gründen als wegen Unzuständigkeit oder Rücknahme eines Antrages auf Vornahme einer individuell zurechenbaren öffentlichen Leistung nach Beginn der sachlichen Bearbeitung, jedoch vor deren Beendigung
 
-
+ 
 
 bis zu 75 vom Hundert der Gebühr für die individuell zurechenbare öffentliche Leistung
 
@@ -943,23 +943,23 @@ bis zu 75 vom Hundert der Gebühr für die individuell zurechenbare öffentliche
 
 Teilweise oder vollständige Zurückweisung des Widerspruchs, soweit sich der Widerspruch nicht ausschließlich gegen eine Gebührenfestsetzung richtet
 
-
+ 
 
 10 bis zu dem Betrag, der für die Vornahme des angefochtenen Verwaltungsaktes vorgesehen ist
 
-
+ 
 
 Dies gilt nicht, wenn der Widerspruch nur deshalb keinen Erfolg hat, weil die Verletzung einer Verfahrens- oder Formvorschrift nach § 45 des Verwaltungsverfahrensgesetzes unbeachtlich ist.
 
+ 
 
-
-
+ 
 
 58
 
 Rücknahme des Widerspruchs nach Beginn der sachlichen Bearbeitung, jedoch vor deren Beendigung
 
-
+ 
 
 bis zu 75 vom Hundert der Gebühr nach Nr. 57
 

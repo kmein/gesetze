@@ -216,9 +216,9 @@ Planen von Arbeitsabläufen, Einsetzen und Pflegen von Werkzeugen, Geräten und 
 a)
 Arbeitsschritte festlegen
 6
-
-
-
+ 
+ 
+ 
 b)
 Arbeitsplatz einrichten sowie Material und Arbeitsmittel bereitstellen
 c)
@@ -232,9 +232,9 @@ Bestimmen, Einordnen, Versorgen und Pflegen von Pflanzen und Pflanzenteilen (§ 
 a)
 handelsübliche Pflanzen und Pflanzenteile in das botanische System einordnen
 7
-
-
-
+ 
+ 
+ 
 b)
 Blütenkalender aufstellen
 c)
@@ -242,9 +242,9 @@ Sorten und Herkunft von Pflanzen und Pflanzenteilen erläutern
 d)
 Lebensvorgänge von Pflanzen unter Berücksichtigung ihrer Ansprüche an die Wachstumsfaktoren fördern
 11
-
-
-
+ 
+ 
+ 
 e)
 Pflanzen pflegen
 f)
@@ -254,9 +254,9 @@ Gestalten von Pflanzen- und Blumenschmuck (§ 3 Nr. 8)
 a)
 Gestaltungselemente einsetzen und Gestaltungsregeln anwenden
 5
-
-
-
+ 
+ 
+ 
 b)
 Fertigungstechniken ausführen, insbesondere andrahten, stützen, wattieren, abwickeln
 c)
@@ -264,35 +264,35 @@ Präsente und Verpackungen schmücken
 d)
 Pflanzen, Blumen und Werkstoffe dem Verwendungszweck entsprechend auswählen
 4
-
-
-
+ 
+ 
+ 
 e)
 Sträuße und Gestecke nach den Grundregeln der Gestaltung anfertigen
 5
-
-
-
+ 
+ 
+ 
 f)
 Girlanden und Kranzkörper binden
 2
-
-
-
+ 
+ 
+ 
 g)
 Pflanzungen nach den Grundregeln der Gestaltung durchführen
 2
-
-
-
+ 
+ 
+ 
 9
 Anwenden berufsbezogener rechtlicher Vorschriften; Abgabe von Pflanzenschutzmitteln im Fachhandel (§ 3 Nr. 9)
 a)
 Bedeutung und Ziel des Pflanzenschutzgesetzes und der Pflanzenschutz-Sachkundeverordnung erläutern
 5
-
-
-
+ 
+ 
+ 
 b)
 Begriffe des Pflanzenschutzgesetzes, insbesondere integrierter Pflanzenschutz, Pflanzenschutzmittel, Nützlinge, Inverkehrbringen von Pflanzenschutzmitteln, Pflanzenschutzgeräten - nichtgewerblicher Bereich - und Pflanzenstärkungsmitteln, erklären
 c)
@@ -309,38 +309,38 @@ h)
 Vorschriften zum Naturschutz beachten
 10
 Beschaffen und Lagern von Waren (§ 3 Nr. 10)
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 10.1
 Einkauf (§ 3 Nr. 10.1)
 a)
 Bedarfsermittlung durchführen
 2
-
-
-
+ 
+ 
+ 
 b)
 betriebsinterne und externe Informationen für die Warenbeschaffung nutzen
 c)
 Angebote einholen
 11
 Beratung und Verkauf (§ 3 Nr. 11)
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 11.1
 Beraten und Bedienen von Kunden (§ 3 Nr. 11.2)
 a)
 Kundengespräche führen
 3
-
-
-
+ 
+ 
+ 
 b)
 Waren verpacken und aushändigen
 c)
@@ -352,105 +352,105 @@ Abschnitt II
 Planen von Arbeitsabläufen, Einsetzen und Pflegen von Werkzeugen, Geräten und Maschinen (§ 3 Nr. 6)
 a)
 Werkzeuge, Geräte und Maschinen einsatzbereit halten
-
+ 
 2
-
-
+ 
+ 
 b)
 Arbeitszeiten und -ergebnisse festhalten
-
-
+ 
+ 
 2
-
+ 
 c)
 Arbeitsplanung kontrollieren und Ergebnisse bewerten
-
-
-
+ 
+ 
+ 
 2
 2
 Bestimmen, Einordnen, Versorgen und Pflegen von Pflanzen und Pflanzenteilen (§ 3 Nr. 7)
 a)
 handelsübliche Pflanzen und Pflanzenteile in das botanische System einordnen sowie deutsche und botanische Bezeichnungen anwenden
-
+ 
 3
-
-
+ 
+ 
 b)
 Handelszeiten von Pflanzen und Pflanzenteilen erläutern
-
-
+ 
+ 
 2
-
+ 
 3
 Gestalten von Pflanzen- und Blumenschmuck (§ 3 Nr. 8)
 a)
 handwerkliche und gestalterische Vorgehensweise unter Berücksichtigung ökologischer und wirtschaftlicher Gesichtspunkte planen
-
-
+ 
+ 
 5
-
+ 
 b)
 Sträuße und Gestecke, insbesondere unter Berücksichtigung des Werkstoffes, des Anlasses, der Saison und der Form, gestalten
-
+ 
 8
-
-
+ 
+ 
 c)
 Hochzeitsfloristik, insbesondere Brautschmuck, anfertigen
-
-
-
+ 
+ 
+ 
 4
 d)
 Kränze und Girlanden, insbesondere unter Berücksichtigung des Werkstoffes, des Anlasses, der Saison und der Arbeitstechniken, gestalten
-
+ 
 4
-
-
+ 
+ 
 e)
 Trauerfloristik, insbesondere Sarg- und Urnenschmuck sowie Trauergebinde, unter Berücksichtigung der regionalen Friedhofsverordnungen anfertigen
-
-
-
+ 
+ 
+ 
 5
 f)
 Pflanzen unter Berücksichtigung ihrer Eigenschaften und Pflegeansprüche in Gefäße arrangieren
-
-
+ 
+ 
 2
-
+ 
 g)
 unterschiedliche Pflanzsysteme für Raumbegrünung beschreiben
-
-
-
+ 
+ 
+ 
 2
 h)
 Raumschmuck unter Berücksichtigung von Stilarten, Raumgröße und Lichteinwirkung planen und skizzieren
-
-
+ 
+ 
 3
-
+ 
 i)
 Raumschmuck für verschiedene Anlässe ausführen
-
-
-
+ 
+ 
+ 
 4
 k)
 Tische für verschiedene Anlässe schmücken
-
-
+ 
+ 
 3
-
+ 
 4
 Anwenden berufsbezogener rechtlicher Vorschriften; Abgabe von Pflanzenschutzmitteln im Fachhandel (§ 3 Nr. 9)
 a)
 Vorschriften für die Abgabe von Pflanzenschutzmitteln gemäß Pflanzenschutz-Sachkundeverordnung anwenden, insbesondere
-
-
-
+ 
+ 
+ 
 6
 aa)
 Kunden über die Anwendung von Pflanzenschutzmitteln und die damit verbundenen Gefahren unterrichten
@@ -464,18 +464,18 @@ b)
 Vorschriften zum Artenschutz von Pflanzen anwenden
 5
 Beschaffen und Lagern von Waren (§ 3 Nr. 10)
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 5.1
 Einkauf (§ 3 Nr. 10.1)
 a)
 Angebote hinsichtlich Art, Beschaffenheit, Qualität, Menge, Preis, Lieferzeit, Liefer- und Zahlungsbedingungen sowie Umweltverträglichkeit von Ware und Verpackung vergleichen
-
-
-
+ 
+ 
+ 
 4
 b)
 gesetzliche und branchenspezifische Regelungen für Lieferungen und Zahlungen berücksichtigen
@@ -485,10 +485,10 @@ Einkauf durchführen; Liefertermine überwachen
 Warenannahme, Lagerung und Bestandsüberwachung (§ 3 Nr. 10.2)
 a)
 Waren annehmen sowie auf Beschaffenheit, Art, Menge und Preis überprüfen
-
+ 
 2
-
-
+ 
+ 
 b)
 Mängel und Schäden feststellen und beurteilen sowie erforderliche Maßnahmen einleiten; Ware weiterleiten
 c)
@@ -499,9 +499,9 @@ e)
 Waren entsprechend ihren Ansprüchen lagern
 f)
 beim Erstellen und Führen von Warenstatistiken mitwirken
-
-
-
+ 
+ 
+ 
 3
 g)
 durchschnittlichen Lagerbestand, Umschlaghäufigkeit und Lagerdauer beispielhaft berechnen
@@ -509,25 +509,25 @@ h)
 wirtschaftliche Überlegungen zur Zusammensetzung und Höhe des Lagerbestandes darlegen
 6
 Beratung und Verkauf (§ 3 Nr. 11)
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 6.1
 Verkaufsförderung und -vorbereitung (§ 3 Nr. 11.1)
 a)
 Aufgaben zur Warenpräsentation und -dekoration ausführen
-
-
+ 
+ 
 3
-
+ 
 b)
 Erscheinungsbild des Betriebes als Werbeträger beurteilen
-
+ 
 4
-
-
+ 
+ 
 c)
 Verkaufsfähigkeit der Ware prüfen, nichtverkaufsfähige Ware zur weiteren Verwendung aufbereiten oder umweltgerecht entsorgen
 d)
@@ -538,9 +538,9 @@ f)
 Waren auszeichnen
 g)
 an Werbemaßnahmen und Sonderaktionen mitwirken, Erfolgskontrolle durchführen
-
-
-
+ 
+ 
+ 
 3
 h)
 bei der Sortimentsgestaltung mitwirken, Entscheidungsgründe darstellen
@@ -548,17 +548,17 @@ bei der Sortimentsgestaltung mitwirken, Entscheidungsgründe darstellen
 Beraten und Bedienen von Kunden (§ 3 Nr. 11.2)
 a)
 Kunden unter Berücksichtigung von Kaufmotiven und Kundenwünschen beraten
-
-
+ 
+ 
 6
-
+ 
 b)
 Kunden über ökologisch sinnvolle Produkte und Verhaltensweisen informieren
 c)
 Verkaufsgespräche kundenbezogen und situationsgerecht unter Berücksichtigung angemessener sprachlicher und nichtsprachlicher Ausdrucksmöglichkeiten führen
-
-
-
+ 
+ 
+ 
 11
 d)
 Kunden über Eigenschaften und Qualitätsmerkmale von Waren sowie deren Verwendung und Pflege informieren
@@ -572,19 +572,19 @@ Reklamationen entgegennehmen und Lösungen anbieten
 Kaufmännische Steuerung und Kontrolle (§ 3 Nr. 12)
 a)
 Rechnung mit Lieferschein vergleichen und bei Abweichungen betriebsübliche Maßnahmen ergreifen
-
+ 
 3
-
-
+ 
+ 
 b)
 bei der Abwicklung des Zahlungsverkehrs mitwirken
 c)
 beim Schriftverkehr mitwirken
 d)
 betriebliche Steuern und Abgaben nennen
-
-
-
+ 
+ 
+ 
 8
 e)
 bei Inventuren mitwirken, Gründe für Inventurdifferenzen aufzeigen

@@ -11,7 +11,7 @@ Auf Grund des § 6 Abs. 4, § 7 Abs. 2, § 15 Abs. 7 Satz 2, § 22 Abs. 2, § 25
 Inhaltsübersicht
 
 Abschnitt 1
-
+ 
 Nachweis der Sachkunde
 § 1
 Umfang der Sachkunde
@@ -20,12 +20,12 @@ Prüfung
 § 3
 Anderweitiger Nachweis der Sachkunde
 Abschnitt 2
-
+ 
 Nachweis der persönlichen Eignung
 § 4
 Gutachten über die persönliche Eignung
 Abschnitt 3
-
+ 
 Schießsportordnungen; Ausschluss von Schusswaffen; Fachbeirat
 § 5
 Schießsportordnungen
@@ -36,7 +36,7 @@ Unzulässige Schießübungen im Schießsport
 § 8
 Beirat für schießsportliche Fragen
 Abschnitt 4
-
+ 
 Benutzung von Schießstätten
 § 9
 Zulässige Schießübungen auf Schießstätten
@@ -47,28 +47,28 @@ Aufsicht
 § 12
 (weggefallen)
 Abschnitt 5
-
+ 
 Aufbewahrung von Waffen und Munition
 § 13
 Aufbewahrung von Waffen oder Munition
 § 14
 Aufbewahrung von Waffen oder Munition in Schützenhäusern, auf Schießstätten oder im gewerblichen Bereich
 Abschnitt 6
-
+ 
 Vorschriften für das Waffengewerbe
-
+ 
 Unterabschnitt 1
-
-
+ 
+ 
 Fachkunde
 § 15
 Umfang der Fachkunde
 § 16
 Prüfung
-
+ 
 Unterabschnitt 2
-
-
+ 
+ 
 Ersatzdokumentation
 § 17
 Grundsätze für das Führen der Ersatzdokumentation
@@ -80,15 +80,15 @@ Führung der Ersatzdokumentation in gebundener Form
 Führung der Ersatzdokumentation in Karteiform
 § 20
 Führung der Ersatzdokumentation in elektronischer Form
-
+ 
 Unterabschnitt 3
-
-
+ 
+ 
 Kennzeichnung von Waffen
 § 21
 Kennzeichnung von Schusswaffen
 Abschnitt 7
-
+ 
 Ausbildung in der Verteidigung mit Schusswaffen
 § 22
 Lehrgänge und Schießübungen
@@ -99,7 +99,7 @@ Verzeichnisse
 § 25
 Untersagung von Lehrgängen oder Lehrgangsteilen; Abberufung von Aufsichtspersonen oder Ausbildern
 Abschnitt 7a
-
+ 
 Bestimmungen in Bezug auf unbrauchbar gemachte Schusswaffen
 § 25a
 Besondere Bestimmungen in Bezug auf den Umgang mit unbrauchbar gemachten Schusswaffen
@@ -108,21 +108,21 @@ Vernichtung unbrauchbar gemachter Schusswaffen
 § 25c
 Erwerb und Besitz von unbrauchbar gemachten Schusswaffen, die nicht den Vorgaben der Verordnung (EU) 2015/2403 entsprechen
 Abschnitt 8
-
+ 
 Vorschriften mit Bezug zur Europäischen Union und zu Drittstaaten
-
+ 
 Unterabschnitt 1
-
-
+ 
+ 
 Anwendung des Gesetzes auf Bürger der Europäischen Union
 § 26
 Allgemeine Bestimmungen
 § 27
 Besondere Bestimmungen zur Fachkunde
-
+ 
 Unterabschnitt 2
-
-
+ 
+ 
 Erwerb von Waffen und Munition in anderen Mitgliedstaaten; Verbringen und Mitnahme
 § 28
 Erlaubnisse für den Erwerb von Waffen und Munition in einem anderen Mitgliedstaat
@@ -137,7 +137,7 @@ Mitteilungen der Behörden
 § 33
 Europäischer Feuerwaffenpass
 Abschnitt 9
-
+ 
 Ordnungswidrigkeiten und Schlussvorschriften
 § 34
 Ordnungswidrigkeiten
@@ -489,7 +489,7 @@ Bei Schusswaffen, deren Bauart nach § 8 des Beschussgesetzes zugelassen ist, si
 (2) Abweichend von Absatz 1 Satz 1 Nummer 2 und Satz 3 sind wesentliche Teile erlaubnispflichtiger Schusswaffen mit den Angaben nach § 24 Absatz 1 Satz 1 Nummer 1, 2, 4 und 5 des Waffengesetzes zu kennzeichnen, wenn sie einzeln gehandelt werden. Bei Wechsel- oder Einstecksystemen ist der Lauf gemäß Absatz 1 Satz 1 Nummer 1 und 3 und der Verschluss sowie zugehörige Gehäuseteile gemäß Absatz 1 Satz 1 Nummer 2 zu kennzeichnen.
 (3) Wird eine Schusswaffe aus wesentlichen Teilen hergestellt, die bereits mindestens mit einer Seriennummer gekennzeichnet sind, so sind diese wesentlichen Teile abweichend von Absatz 1 Satz 1 Nummer 1 und 2 lediglich mit der Angabe nach § 24 Absatz 1 Satz 1 Nummer 1 des Waffengesetzes zu kennzeichnen. Es ist jedoch sicherzustellen, dass auf dem führenden wesentlichen Teil alle Angaben gemäß Absatz 1 Satz 1 Nummer 1 angebracht sind. Deuten Angaben auf der Schusswaffe auf einen anderen Hersteller hin, so sind diese durch zwei waagerecht dauerhaft eingebrachte Striche zu entwerten, wobei die Angaben weiterhin lesbar bleiben müssen. Angaben auf der Schusswaffe, die auf eine andere Munition oder auf ein anderes Laufkaliber hindeuten, sind zu entwerten.
 (4) Wer ein wesentliches Teil einer Schusswaffe austauscht, hat das neu eingebaute wesentliche Teil wie in Absatz 1 bestimmt zu kennzeichnen. Absatz 3 gilt entsprechend.
-(5) Wer eine Schusswaffe umbaut, hat auf allen wesentlichen Teilen, die beim Umbau verändert wurden, die Angaben nach § 24 Absatz 1 Satz 1 Nummer 1 des Waffengesetzes anzubringen. Bereits vorhandene Angaben müssen weiterhin lesbar bleiben. Hat der Umbau zur Folge, dass die Bewegungsenergie der Geschosse 7,5 Joule überschreitet, so sind alle wesentlichen Teile entsprechend Absatz 1 zu kennzeichnen. Das Kennzeichen nach § 24 Absatz 2 des Waffengesetzes ist zu entfernen. Auf dem führenden wesentlichen Teil ist der Buchstabe U“ anzubringen.
+(5) Wer eine Schusswaffe umbaut, hat auf allen wesentlichen Teilen, die beim Umbau verändert wurden, die Angaben nach § 24 Absatz 1 Satz 1 Nummer 1 des Waffengesetzes anzubringen. Bereits vorhandene Angaben müssen weiterhin lesbar bleiben. Hat der Umbau zur Folge, dass die Bewegungsenergie der Geschosse 7,5 Joule überschreitet, so sind alle wesentlichen Teile entsprechend Absatz 1 zu kennzeichnen. Das Kennzeichen nach § 24 Absatz 2 des Waffengesetzes ist zu entfernen. Auf dem führenden wesentlichen Teil ist der Buchstabe „U“ anzubringen.
 (6) Bei Aussonderung von Schusswaffen aus staatlicher Verfügung und dauerhafter Überführung in zivile Verwendung sind die Angaben nach § 24 Absatz 3 des Waffengesetzes durch zwei waagerecht dauerhaft eingebrachte Striche zu entwerten. Dabei muss erkennbar bleiben, welche nach § 55 Absatz 1 Satz 1 des Waffengesetzes bezeichnete Stelle verfügungsberechtigt über die Schusswaffe war. Vor der dauerhaften Überführung in zivile Verwendung hat die überführende Stelle sicherzustellen, dass die Schusswaffe gemäß Absatz 1 gekennzeichnet ist.
 (7) Die Kennzeichnung gemäß den Absätzen 1 bis 6 hat eine Schriftgröße von mindestens 1,6 Millimetern aufzuweisen. Von der Mindestgröße gemäß Satz 1 kann abgewichen werden, wenn dies aufgrund der geringen Größe des zu kennzeichnenden wesentlichen Teils erforderlich ist. Für die Kennzeichnung gemäß den Absätzen 1 bis 6 sind lateinische Buchstaben sowie das arabische und das römische Zahlensystem zulässig. Wird eine Schusswaffe in den Geltungsbereich des Waffengesetzes verbracht, werden auch Kennzeichnungen in griechischer oder kyrillischer Schrift als ordnungsgemäß anerkannt, sofern die übrigen Vorgaben erfüllt sind.
 (8) Besteht das gemäß den Absätzen 1 bis 7 zu kennzeichnende Gehäuse einer Schusswaffe aus Kunststoff, kann die Kennzeichnung gemäß den Absätzen 1 bis 7 auf einer Metallplatte angebracht werden, die fest mit dem Material des Gehäuses verbunden ist, sodass bei ihrer Entfernung ein Teil des Gehäuses zerstört würde.

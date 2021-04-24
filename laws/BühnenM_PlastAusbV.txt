@@ -208,15 +208,15 @@ Entwickeln von Gestaltungskonzeptionen (§ 3 Nr. 5)
 a)
 Informationen zu Gestaltungskonzepten ermitteln, insbesondere zu den Anforderungen an Dekorationen, historische und zeitgenössische sowie kultur- und kunstgeschichtliche Bezüge
 2
-
-
-
+ 
+ 
+ 
 b)
 Produktionsanforderungen hinsichtlich gestalterischer und technischer Umsetzungsmöglichkeiten auswerten und mit den beteiligten Werkstätten beraten
-
-
+ 
+ 
 3
-
+ 
 c)
 Umsetzungsmöglichkeiten vorstellen und abstimmen
 6
@@ -224,9 +224,9 @@ Planen, Kalkulieren und Organisieren der Arbeiten (§ 3 Nr. 6)
 a)
 Arbeitsschritte und Arbeitstechniken festlegen
 2
-
-
-
+ 
+ 
+ 
 b)
 Arbeitsabläufe nach Terminvorgaben, insbesondere mit anderen Abteilungen, abstimmen und festlegen
 c)
@@ -235,10 +235,10 @@ d)
 Arbeitsplatz einrichten
 e)
 Werk- und Hilfsstoffe auswählen
-
+ 
 3
-
-
+ 
+ 
 f)
 Material und Kostenberechnungen durchführen
 g)
@@ -248,59 +248,59 @@ Anfertigen von Entwürfen und Modellen (§ 3 Nr. 7)
 a)
 lineare und plastische Zeichnungen, insbesondere von Architekturen und Landschaften, anfertigen
 15
-
-
-
+ 
+ 
+ 
 b)
 Modelle, insbesondere Architekturen und Landschaftsteile, anfertigen und plastisch gestalten
 15
-
-
-
+ 
+ 
+ 
 c)
 lineare und plastische Zeichnungen, insbesondere von Lebewesen und Phantasiedarstellungen, anfertigen
-
+ 
 6
-
-
+ 
+ 
 d)
 Dekorationen, insbesondere Lebewesen und Phantasiedarstellungen, modellieren und plastisch gestalten
-
+ 
 6
-
-
+ 
+ 
 8
 Anfertigen von technischen Zeichnungen (§ 3 Nr. 8)
 a)
 Zeichnungen in unterschiedlichen Maßstäben anfertigen
 2
-
-
-
+ 
+ 
+ 
 b)
 Zeichnungen maßstabgerecht übertragen
 c)
 Zeichnungen in unterschiedlichen Ansichten anfertigen
-
+ 
 2
-
-
+ 
+ 
 d)
 räumliche Darstellungen anfertigen
 e)
 Konstruktionszeichnungen anfertigen
-
-
+ 
+ 
 2
-
+ 
 9
 Bearbeiten von Untergründen und Oberflächen (§ 3 Nr. 9)
 a)
 Werkstoffe, insbesondere Textilien, Hölzer, Metalle und Kunststoffe, be- und verarbeiten
 10
-
-
-
+ 
+ 
+ 
 b)
 Untergründe, insbesondere Textilien, Kunststoffe und Folien, auf Lichtdurchlässigkeit, Struktur und Dichte prüfen
 c)
@@ -311,16 +311,16 @@ e)
 Strukturen aus Natur und Technik auswählen und mit plastischen Massen umsetzen
 f)
 vorgefertigte Applikationen aufbringen
-
+ 
 2
-
-
+ 
+ 
 g)
 Gewebe, Folien und plastische Elemente für transparente, durchscheinende und deckende Malereien bearbeiten
-
-
+ 
+ 
 12
-
+ 
 h)
 aufrollbare und starre Dekorationsteile mit Putz-, Mauerwerk-, Stein- und Betonimitationen versehen
 i)
@@ -330,23 +330,23 @@ Anfertigen von Schriften, Zeichen und Ornamenten (§ 3 Nr. 10)
 a)
 Schablonen und Pausen anfertigen und anwenden
 6
-
-
-
+ 
+ 
+ 
 b)
 mit selbstgefertigten Stempeln drucken
 c)
 Tier-, Pflanzen- und geometrische Ornamente zeichnen, malen und plastisch gestalten
-
+ 
 7
-
-
+ 
+ 
 d)
 Buchstaben und Schriften konstruieren und zeichnen
-
-
+ 
+ 
 6
-
+ 
 e)
 Schriften in verschiedenen Techniken ausführen
 f)
@@ -357,24 +357,24 @@ Schriften, Zeichen und Ornamente unterschiedlicher Kulturkreise imitieren
 Prüfen von Arbeitsergebnissen (§ 3 Nr. 11)
 a)
 gestalterische Prüfkriterien entwickeln und unter Berücksichtigung von Vorlagen und Wirkung anwenden
-
-
+ 
+ 
 3
-
+ 
 b)
 Funktionsprüfungen nach geforderter Aufgabenstellung und notwendiger Belastbarkeit durchführen
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 \\
 \\
 A. Fachrichtung Malerei
-
+ 
 Lfd. Nr.
 Teil des Ausbildungsberufsbildes
 Zu vermittelnde Fertigkeiten und Kenntnisse
@@ -390,9 +390,9 @@ Zeitliche Richtwerte in Wochen im Ausbildungsjahr
 Mischen von Farben und Abstimmen auf die Beleuchtung (§ 3 Abs. 2 Nr. 1)
 a)
 Farbmittel nach Verträglichkeit von Pigmenten mit Lösungs-, Binde- und Verdünnungsmitteln sowie Zusatzstoffen auswählen
-
-
-
+ 
+ 
+ 
 6
 b)
 Farben entwurfsgerecht mischen
@@ -406,9 +406,9 @@ Endabstimmung zwischen Malerei und Beleuchtung herbeiführen
 Anfertigen von Kopien und Imitaten (§ 3 Abs. 2 Nr. 2)
 a)
 Riss- und Sprungimitationen anfertigen
-
-
-
+ 
+ 
+ 
 10
 b)
 Holzimitationen durch Malen und Modellieren anfertigen
@@ -424,9 +424,9 @@ Kopien von zeitgenössischen und historischen Kunstwerken, insbesondere von Zeic
 Vorbereiten von Bühnenmalereien (§ 3 Abs. 2 Nr. 3)
 a)
 Vergrößerungstechniken einsetzen und maßstabgerechte Vorzeichnungen für Malereien anfertigen
-
-
-
+ 
+ 
+ 
 10
 b)
 Lasier- und Koloriertechniken anwenden
@@ -438,15 +438,15 @@ grafische Elemente in unterschiedlichen Techniken ausführen
 Herstellen von Bühnenmalereien (§ 3 Abs. 2 Nr. 4)
 a)
 Bildaufbau unter Einbeziehung von Kontrasten, Proportionen, Flächen- und Raumaufteilungen sowie Licht- und Schattenwirkungen entwickeln
-
-
-
+ 
+ 
+ 
 6
 b)
 menschliche und tierische Anatomie in Bewegung und in unterschiedlichen Altersstufen darstellen
-
-
-
+ 
+ 
+ 
 20
 c)
 Architekturen aus unterschiedlichen Epochen und Kulturkreisen sowie Landschaften mit verschiedenen Vegetationsformen darstellen
@@ -455,7 +455,7 @@ freie Formen, Phantasiedarstellungen sowie Farb- und Luftperspektiven darstellen
 \\
 \\
 B. Fachrichtung Plastik
-
+ 
 Lfd. Nr.
 Teil des Ausbildungsberufsbildes
 Zu vermittelnde Fertigkeiten und Kenntnisse
@@ -471,9 +471,9 @@ Zeitliche Richtwerte in Wochen im Ausbildungsjahr
 Auswählen und Anwendung von Werkstoffen und Techniken (§ 3 Abs. 3 Nr. 1)
 a)
 Materialien nach technischer und gesundheitlicher Verträglichkeit auswählen
-
-
-
+ 
+ 
+ 
 4
 b)
 technische und wirtschaftliche Umsetzbarkeit von Entwürfen anhand von Proben und Mustern beurteilen
@@ -483,9 +483,9 @@ Vergrößerungs- und Verkleinerungstechniken einsetzen
 Vervielfältigen von plastischen Elementen (§ 3 Abs. 3 Nr. 2)
 a)
 Abgussformen, verlorene Formen sowie Tiefziehformen konstruieren und anfertigen
-
-
-
+ 
+ 
+ 
 17
 b)
 ausformen und laminieren
@@ -495,9 +495,9 @@ aus- und abgeformte Teile nacharbeiten
 Anwenden von Klebe- und Verbindungstechniken (§ 3 Abs. 3 Nr. 3)
 a)
 nach statischen und dynamischen Bedingungen, insbesondere Holz, Metall, Kunststoff und Textilien, kleben und verbinden
-
-
-
+ 
+ 
+ 
 6
 b)
 Armierungs- und Kaschiertechniken anwenden
@@ -507,9 +507,9 @@ Applikationen herstellen und aufkleben sowie durch Spritzverfahren auftragen
 Kopieren und Imitieren (§ 3 Abs. 3 Nr. 4)
 a)
 Gegenstände, insbesondere Reliefs, Plastiken und Gefäße aus Geschichte und Gegenwart, kopieren
-
-
-
+ 
+ 
+ 
 8
 b)
 Textilimitationen, insbesondere Faltenwürfe, anfertigen
@@ -519,9 +519,9 @@ Oberflächen, insbesondere Stein, Holz, Metall und Risse, imitieren
 Herstellen von plastischen Elementen (§ 3 Abs. 3 Nr. 5)
 a)
 Gestaltungskonzepte unter Einbeziehung von Kontrasten, Proportionen, Raumaufteilungen, Licht- und Schattenwirkungen sowie Perspektiven entwickeln
-
-
-
+ 
+ 
+ 
 17
 b)
 Gestaltungselemente, insbesondere durch Schnitzen, Sägen, Modellieren und Kaschieren, umsetzen

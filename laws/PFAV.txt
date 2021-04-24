@@ -371,7 +371,7 @@ Das Sicherungsvermögen ist nach Maßgabe der Kongruenzregeln in Anlage 3 zu die
 § 21 - Versicherungsmathematische Bestätigung
 
 (1) Bei Pensionsfonds hat der Verantwortliche Aktuar, wenn keine Einwendungen zu erheben sind, die folgende versicherungsmathematische Bestätigung abzugeben:\\
-Es wird bestätigt, dass die in der Bilanz unter den Posten ... der Passiva eingestellte Deckungsrückstellung unter Beachtung des § 341f HGB sowie unter Beachtung der auf Grund des § 240 Satz 1 Nummer 10 bis 12 VAG erlassenen Rechtsverordnungen berechnet worden ist. “
+„Es wird bestätigt, dass die in der Bilanz unter den Posten ... der Passiva eingestellte Deckungsrückstellung unter Beachtung des § 341f HGB sowie unter Beachtung der auf Grund des § 240 Satz 1 Nummer 10 bis 12 VAG erlassenen Rechtsverordnungen berechnet worden ist. “
 (2) Sind Einwendungen zu erheben, so hat der Verantwortliche Aktuar zu erklären, dass die versicherungsmathematische Bestätigung versagt oder eingeschränkt wird. In beiden Fällen ist die Erklärung um zusätzliche Bemerkungen derart zu ergänzen, dass die Gründe für die Versagung oder Inhalt und Tragweite der Einschränkung klar umrissen werden.
 
 § 22 - Versicherungsförmige Garantien
@@ -408,7 +408,7 @@ Andernfalls ist für die gesamte Restlaufzeit der jeweils maßgebliche Rechnungs
 
 § 24 - Zusagen ohne versicherungsförmige Garantien
 
-(1) Soweit ein leistungsbezogener Pensionsplan die periodische Überprüfung und gegebenenfalls Neufestsetzung der für die Zukunft der Höhe und dem Zeitpunkt nach vereinbarten Beiträge in Abhängigkeit von der Entwicklung der Leistungsverpflichtungen und der Vermögensanlage vorsieht (Feststellungsverfahren“), ist die Deckungsrückstellung gemäß § 341f des Handelsgesetzbuchs prospektiv zu bilden, wobei für die Berechnung des Barwertes der künftigen Beiträge die jeweils vereinbarten Beiträge anzusetzen sind. Bei der Berechnung von Barwerten ist für die Zeit vor Rentenbezug der Rechnungszins vorsichtig zu wählen. Er muss die Vertragswährung und die im Bestand befindlichen Vermögenswerte sowie den erwarteten Ertrag künftiger Vermögenswerte angemessen berücksichtigen. § 23 Absatz 1 ist mit der Maßgabe anzuwenden, dass die Rechnungsgrundlagen auf Basis eines besten Schätzwertes unter Einbeziehung einer Sicherheitsspanne, die insbesondere den zeitlichen Abstand bis zur nächsten Neufeststellung der künftig vom Arbeitgeber zu erbringenden Beiträge berücksichtigt, abgeleitet werden. Für die Zeit des Rentenbezugs ist höchstens der jeweils geltende Rechnungszins gemäß § 22 Absatz 1 anzusetzen; wenn der Pensionsfonds eine Garantie übernimmt, darf der zum Zeitpunkt der Garantieübernahme geltende Rechnungszins gemäß § 22 Absatz 1 nicht mehr überschritten werden. Absatz 2 bleibt unberührt.
+(1) Soweit ein leistungsbezogener Pensionsplan die periodische Überprüfung und gegebenenfalls Neufestsetzung der für die Zukunft der Höhe und dem Zeitpunkt nach vereinbarten Beiträge in Abhängigkeit von der Entwicklung der Leistungsverpflichtungen und der Vermögensanlage vorsieht („Feststellungsverfahren“), ist die Deckungsrückstellung gemäß § 341f des Handelsgesetzbuchs prospektiv zu bilden, wobei für die Berechnung des Barwertes der künftigen Beiträge die jeweils vereinbarten Beiträge anzusetzen sind. Bei der Berechnung von Barwerten ist für die Zeit vor Rentenbezug der Rechnungszins vorsichtig zu wählen. Er muss die Vertragswährung und die im Bestand befindlichen Vermögenswerte sowie den erwarteten Ertrag künftiger Vermögenswerte angemessen berücksichtigen. § 23 Absatz 1 ist mit der Maßgabe anzuwenden, dass die Rechnungsgrundlagen auf Basis eines besten Schätzwertes unter Einbeziehung einer Sicherheitsspanne, die insbesondere den zeitlichen Abstand bis zur nächsten Neufeststellung der künftig vom Arbeitgeber zu erbringenden Beiträge berücksichtigt, abgeleitet werden. Für die Zeit des Rentenbezugs ist höchstens der jeweils geltende Rechnungszins gemäß § 22 Absatz 1 anzusetzen; wenn der Pensionsfonds eine Garantie übernimmt, darf der zum Zeitpunkt der Garantieübernahme geltende Rechnungszins gemäß § 22 Absatz 1 nicht mehr überschritten werden. Absatz 2 bleibt unberührt.
 (2) In den Fällen des § 236 Absatz 2 des Versicherungsaufsichtsgesetzes ist die Deckungsrückstellung in der Rentenbezugszeit prospektiv als Barwert der Leistungen zu bilden. Der Rechnungszins ist vorsichtig zu wählen. Er muss die Vertragswährung und die im Bestand befindlichen Vermögenswerte sowie den Ertrag künftiger Vermögenswerte angemessen berücksichtigen. § 23 Absatz 1 ist mit der Maßgabe anzuwenden, dass die Rechnungsgrundlagen auf Basis eines besten Schätzwertes unter Einbeziehung ihrer künftigen Veränderungen abgeleitet werden.
 (3) In den Fällen des § 236 Absatz 3 des Versicherungsaufsichtsgesetzes ist die Deckungsrückstellung in der Rentenbezugszeit nach der retrospektiven Methode zu bilden, wobei die Deckungsrückstellung bei Rentenbeginn dem vorhandenen Versorgungskapital entspricht.
 (+++ § 24 Abs. 2 Satz 2: Zur Anwendung vgl. § 36 Abs. 1 +++)
@@ -628,7 +628,7 @@ Anlage 2 - (zu § 12 Absatz 2 und 3)Formblätter und Nachweisungen
 (Fundstelle: BGBl. I 2016, 859 - 867; bzgl. einzelner Änderungen vgl. Fußnote)
 Nummer 1: Anmerkungen zum Formblatt 800
 
-- 1. :: An die Stelle des Aktivpostens 6.d) eingefordertes, noch nicht eingezahltes Kapital“ tritt bei Pensionsfondsvereinen auf Gegenseitigkeit in der Bilanz der Aktivposten 6.d) Wechsel der Zeichner des Gründungsstocks“.
+- 1. :: An die Stelle des Aktivpostens 6.d) „eingefordertes, noch nicht eingezahltes Kapital“ tritt bei Pensionsfondsvereinen auf Gegenseitigkeit in der Bilanz der Aktivposten 6.d) „Wechsel der Zeichner des Gründungsstocks“.
 - 2. :: Unter diesem Posten ist von Pensionsfondsvereinen auf Gegenseitigkeit der Gründungsstock auszuweisen.
   Sofern Aktiengesellschaften die Angaben gemäß § 152 Absatz 1 AktG in der externen Bilanz gemacht haben, sind diese Angaben hier nicht aufzuführen.
 - 3. :: Sofern Aktiengesellschaften die Angaben gemäß § 152 Absatz 2 und 3 AktG in der externen Bilanz gemacht haben, sind diese Angaben hier nicht aufzuführen.
@@ -673,7 +673,7 @@ Nummer 4: Anmerkungen zur Nachweisung 802
   - a) :: Abschreibungen auf erworbene oder selbst erstellte Sachanlagen für betriebliche Zwecke, einschl. auf eigengenutzte Gebäude,
   - b) :: Abschreibungen auf aktivierte Aufwendungen für die Ingangsetzung und Erweiterung des Geschäftsbetriebs,
   - c) :: Abschreibungen auf die unter den sonstigen immateriellen Vermögensgegenständen ausgewiesenen Kaufpreise für den Erwerb von Gesamt- oder Teil-Versicherungsbeständen sowie erworbene oder selbst geschaffene EDV-Software,
-  - d) :: sonstige Abschreibungen, soweit sie nicht zu den Abschreibungen auf Kapitalanlagen gehören und unter den sonstigen Aufwendungen auszuweisen sind oder bei den Gebuchten Bruttobeiträgen“ als Abzugsposten zu behandeln sind,
+  - d) :: sonstige Abschreibungen, soweit sie nicht zu den Abschreibungen auf Kapitalanlagen gehören und unter den sonstigen Aufwendungen auszuweisen sind oder bei den „Gebuchten Bruttobeiträgen“ als Abzugsposten zu behandeln sind,
   - e) :: Abschreibungen auf selbst geschaffene gewerbliche Schutzrechte und entgeltlich erworbene Konzessionen und Schutzrechte sowie Lizenzen daran.
 - 8. :: Als Beschäftigte sind alle Personen zu erfassen, die im Laufe des Geschäftsjahres in einem Arbeits- oder vergleichbaren Dienstverhältnis mit dem Pensionsfonds gestanden und Bezüge erhalten haben, die steuerrechtlich als Einkünfte aus nichtselbständiger Arbeit zu behandeln sind. Dazu gehören Arbeitnehmer im Innen- und Außendienst, Beamte, Vorstandsmitglieder, Geschäftsführer und andere leitende Kräfte, Auszubildende und Praktikanten. Ruhende Dienstverhältnisse sind nicht zu erfassen. Beschäftigte, die Arbeits- bzw. Dienstverträge mit mehreren Unternehmen haben und von diesen Bezüge erhalten, sind bei dem jeweiligen Unternehmen als Teilzeitbeschäftigte zu erfassen. Die Zahl der Beschäftigten ist im Jahresdurchschnitt auszuweisen. Liegen diese Angaben nicht vor, kann die Zahl am Ende des Geschäftsjahres angegeben werden.
 - 9. :: Berechnung der Vollzeiteinheiten (VZE) in Spalte 4: Summe der vertraglich vereinbarten Wochenarbeitsstunden aller Teilzeitbeschäftigten dividiert durch die geltende reguläre Wochenarbeitszeit eines Vollzeitbeschäftigten. Das Ergebnis ist kaufmännisch zu runden. Beispiel: Fünf Teilzeitbeschäftigte à 20 Stunden ergeben bei einer regulären Wochenarbeitszeit eines Vollzeitbeschäftigten im Unternehmen von 40 Stunden zusammen 2,5 VZE. Einzutragen sind 3 VZE. Liegt ein Arbeits- bzw. Dienstvertrag mit mehreren Unternehmen vor, sind die Teilzeitbeschäftigten bei jedem Unternehmen in der Personenzahl zu berücksichtigen. In die Berechnung der VZE sind nur die bei dem jeweiligen Unternehmen geleisteten Wochenarbeitsstunden in die Berechnung einzubeziehen.
@@ -722,7 +722,7 @@ Nummer 9: Anmerkungen zur Nachweisung 830
 - 10. :: Pensionspläne sind leistungsbezogen, wenn mit ihnen eine Zusage des Arbeitgebers nach § 1 Absatz 1 Satz 1 oder Absatz 2 Nummer 1 des Betriebsrentengesetzes durchgeführt wird.
 - 11. :: Zum Beispiel Wiederinkraftsetzung sowie Erhöhung der Rente.
 - 12. :: Die Davon-Vermerke der Zeilen 16, 17, 18 sowie 19 bis 20 beziehen sich jeweils auf den Bestand am Ende des Geschäftsjahres in Zeile 14.
-- 13. :: Hat die Phase der Restverrentung bereits begonnen, so ist die Eintragung in der Zeile lebenslange Zahlungen“ vorzunehmen.
+- 13. :: Hat die Phase der Restverrentung bereits begonnen, so ist die Eintragung in der Zeile „lebenslange Zahlungen“ vorzunehmen.
 - 14. :: Einzusetzen ist hier der Betrag der im Folgejahr planmäßig zu zahlenden Renten bzw. -- bei Auszahlungsplänen -- Raten (entsprechend der Deckungsrückstellung).
 - 15. :: Die Davon-Vermerke der Zeilen 16, 17 sowie 18 bis 19 beziehen sich jeweils auf den Bestand am Ende des Geschäftsjahres in Zeile 14.
 
@@ -732,7 +732,7 @@ Nummer 10: Anmerkungen zur Nachweisung 842
   - a) :: für das gesamte in den Mitgliedstaaten oder in einem anderen Vertragsstaat betriebene PFG,
   - b) :: für das betriebene PFG in jedem Mitgliedstaat sowie in jedem Vertragsstaat;
 
-  dabei ist für die Kennzeichnung des jeweiligen Mitglied- oder Vertragsstaates und des gesamten PFG im Feld Herkunft des PFG“ die entsprechende Kennzahl gemäß Anlage 1 zu verwenden.
+  dabei ist für die Kennzeichnung des jeweiligen Mitglied- oder Vertragsstaates und des gesamten PFG im Feld „Herkunft des PFG“ die entsprechende Kennzahl gemäß Anlage 1 zu verwenden.
 - 2. :: Einschließlich der Rückstellung für noch nicht abgewickelte beendete Pensionsfondsverträge und Versorgungsverhältnisse.
 - 3. :: Die Davon-Vermerke der Zeilen 16 und 17 beziehen sich auf die Anzahl der Anwärter in Zeile 14.
 - 4. :: Pensionspläne sind beitragsbezogen, wenn mit ihnen eine Zusage des Arbeitgebers nach § 1 Absatz 2 Nummer 2 des Betriebsrentengesetzes durchgeführt wird.
@@ -744,12 +744,12 @@ Nummer 11: Anmerkungen zur Nachweisung 850
   Angaben zu einzelnen Unternehmen oder Maklern können unterbleiben, sofern das betreffende Pensionsfondsgeschäft weniger als 2 Prozent der Bruttobeiträge ausmacht. Über dieses Geschäft ist jeweils zusammengefasst zu berichten.
 - 2. :: Abrechnungsforderungen sind mit einem Pluszeichen (+), Abrechnungsverbindlichkeiten mit einem Minuszeichen (--) zu versehen.
 - 3. :: Der Gesamtsaldo ergibt sich wie folgt: Zeile 04 -- Zeile 06 +/-- Zeile 08. Der sich ergebende Saldo ist entsprechend Unternummer 2 zu kennzeichnen.
-- 4. :: Die Nachweisung ist für jede Rückversicherungsbeziehung vorzulegen. Die Rückversicherungsbeziehungen sind fortlaufend zu nummerieren. Zur Kennzeichnung der Rückversicherungsbeziehung ist die fortlaufende dreistellige Nummer in der Kopfzeile der Nachweisung einzusetzen (beispielsweise 001“).
+- 4. :: Die Nachweisung ist für jede Rückversicherungsbeziehung vorzulegen. Die Rückversicherungsbeziehungen sind fortlaufend zu nummerieren. Zur Kennzeichnung der Rückversicherungsbeziehung ist die fortlaufende dreistellige Nummer in der Kopfzeile der Nachweisung einzusetzen (beispielsweise „001“).
 - 5. :: Hier ist die Nummer einzutragen, unter der die Erst- und Rückversicherungsunternehmen bzw. Rückversicherungsmakler (sowohl inländische als auch ausländische) bei der BaFin geführt werden. Rückversicherungsmakler sind nur dann aufzuführen, wenn diese dem berichtenden Pensionsfonds die das Versicherungsrisiko tragenden Versicherungsunternehmen nicht bekannt gegeben haben. Die Nummern für die einzelnen Unternehmen und Rückversicherungsmakler können bei der BaFin, die die entsprechenden Listen führt, abgefragt werden. Die Nummer für das Geschäft, über das nach Unternummer 1 Absatz 2 Satz 2 zusammengefasst berichtet werden kann, lautet 6000.
 
 Nummer 12: Anmerkungen zur Nachweisung 882
 
-- 1. :: Im Feld Berichtszeitraum“ sind für die einzelnen Stichtage unabhängig vom Abschlussstichtag des Jahresabschlusses folgende Kennziffern anzugeben:
+- 1. :: Im Feld „Berichtszeitraum“ sind für die einzelnen Stichtage unabhängig vom Abschlussstichtag des Jahresabschlusses folgende Kennziffern anzugeben:
   - a) :: zum 30. Juni: 2
   - b) :: zum 31. Dezember: 4
 - 2. :: In allen Datenfeldern sind grundsätzlich kumulierte Werte einzutragen, d. h. es können die statistisch fortgeschriebenen Stückzahlen bzw. die auf den entsprechenden Konten bis zum Halbjahresende aufgelaufenen Beträge verwendet werden.
@@ -761,7 +761,7 @@ Nummer 12: Anmerkungen zur Nachweisung 882
 - 1. :: Allgemeines
   Die formgebundenen Erläuterungen nach den Formblättern und Nachweisungen gemäß den §§ 5 bis 9 sowie 11 sind entweder elektronisch oder auf Papierformularen einzureichen.
 - 2. :: Elektronische Einreichung
-  Die Unternehmen haben die ordnungsgemäGrundsätze für die Durchführung regelmäßiger Datenübermittlungen an das Bundesaufsichtsamt für das Versicherungswesen (Datenübermittlungsgrundsätze -- DÜG)“ zu beachten.
+  Die Unternehmen haben die ordnungsgemäße Datenübermittlung durch Berücksichtigung der am MVP-Portal hinterlegten Informationen und Hinweise sicherzustellen. Bei der Datenerfassung und bei deren Übermittlung an die BaFin sind die „Grundsätze für die Durchführung regelmäßiger Datenübermittlungen an das Bundesaufsichtsamt für das Versicherungswesen (Datenübermittlungsgrundsätze -- DÜG)“ zu beachten.
 - 3. :: Papierformulare
 - 3.1 :: Formblätter und Nachweisungen auf Papierformularen werden in der BaFin mit einem Schriftenlesesystem erfasst. Sie sind nach Prüfung durch die BaFin (siehe Tz. 3.4) -- auf Endlospapier mit EDV-Druckern zu erstellen.
 - 3.2 :: Die einzelnen Formularseiten sind zu vollständigen Formblättern oder Nachweisungen zusammenzustellen.
@@ -775,15 +775,15 @@ Nummer 12: Anmerkungen zur Nachweisung 882
   Sofern ausnahmsweise ergänzende Hinweise und Bemerkungen zu Formblättern und Nachweisungen erforderlich werden, sind sie auf einem separaten Blatt beizufügen.
 - 3.6.2 :: Formularkopf
   Bei der Erstellung der Formularköpfe der Formblätter und Nachweisungen sind die in den Anmerkungen enthaltenen Hinweise zu einzelnen Datenfeldern zu beachten. Bei den Datenfeldern, die auf allen oder mehreren Formblättern und Nachweisungen identisch sind, ist Folgendes zu beachten:
-- 3.6.2.1 :: Im Feld Pb“ ist für Kontrollzwecke der zur Register-Nummer des PF gehörende Prüfbuchstabe anzugeben, der von der BaFin vergeben wird.
-- 3.6.2.2 :: Im Feld MMJJ“ ist der Abschlussstichtag durch die Monatsangabe in Zahlen und durch die beiden letzten Ziffern der Jahreszahl zu kennzeichnen (zum Beispiel: 31.12.2004 = 1204 oder 30.6.2005 = 0605).
-- 3.6.2.3 :: Das Feld Herkunft des PFG“ kennzeichnet das in den Formblättern und Nachweisungen dargestellte Pensionsfondsgeschäft. Bei der Kennzeichnung ist Folgendes zu beachten:
-- 3.6.2.3.1 :: Die Kennzahlen für das Feld Herkunft des PFG“ ergeben sich aus Anlage 1. Das Feld befindet sich auf dem Formblatt 810 und der Nachweisung 842.
+- 3.6.2.1 :: Im Feld „Pb“ ist für Kontrollzwecke der zur Register-Nummer des PF gehörende Prüfbuchstabe anzugeben, der von der BaFin vergeben wird.
+- 3.6.2.2 :: Im Feld „MMJJ“ ist der Abschlussstichtag durch die Monatsangabe in Zahlen und durch die beiden letzten Ziffern der Jahreszahl zu kennzeichnen (zum Beispiel: 31.12.2004 = 1204 oder 30.6.2005 = 0605).
+- 3.6.2.3 :: Das Feld „Herkunft des PFG“ kennzeichnet das in den Formblättern und Nachweisungen dargestellte Pensionsfondsgeschäft. Bei der Kennzeichnung ist Folgendes zu beachten:
+- 3.6.2.3.1 :: Die Kennzahlen für das Feld „Herkunft des PFG“ ergeben sich aus Anlage 1. Das Feld befindet sich auf dem Formblatt 810 und der Nachweisung 842.
 - 3.6.2.3.2 :: In die Kopfzeile des Formblatts 810 und der Nachweisung 842 sind für die Herkunft des PFG folgende Kennzahlen einzusetzen:
   Formblatt 810            Pensionsfonds
-  
+   
 - 3.6.2.3.3 :: Die verschiedenen Ausfertigungen der Formblätter 810 sowie der Nachweisung 842 können in bestimmten Fällen identische Datenteile enthalten. In derartigen Fällen sind die Formblätter und Nachweisungen nicht mehrfach vorzulegen.
-  Vielmehr sind in der Kopfzeile des gemeinsamen“ Formblattes die Kennzahlen für Herkunft des PFG, die gemäß der Tz. 3.6.2.3.2 die verschiedenen Ausfertigungen kennzeichnen würden, miteinander zu kombinieren, d. h. unterschiedliche Kennzahlen in den einzelnen Ausfertigungen sind auch in der kombinierten Kennzahlenzeile anzubringen.
+  Vielmehr sind in der Kopfzeile des „gemeinsamen“ Formblattes die Kennzahlen für Herkunft des PFG, die gemäß der Tz. 3.6.2.3.2 die verschiedenen Ausfertigungen kennzeichnen würden, miteinander zu kombinieren, d. h. unterschiedliche Kennzahlen in den einzelnen Ausfertigungen sind auch in der kombinierten Kennzahlenzeile anzubringen.
   Die Grundvoraussetzungen für identische Datenteile sind in folgenden Fällen gegeben, bei denen die Kombination der Kennzahlenzeilen wie folgt vorzunehmen ist:
   Fall 1: Das PFG hat nur eine Herkunft, d. h., es besteht entweder nur aus inländischem oder ausländischem PFG mit der Folge, dass Herkunft 01 oder Herkunft 99 mit Herkunft 00 identisch sind. Existiert beispielsweise nur inländisches PFG, so gilt Folgendes:
   [[../normengrafiken/bgbl1_2016/j0842-1_0010.pdf][PDF-Dokument wird in eigenem Fenster angezeigt]]
@@ -809,7 +809,7 @@ Nummer 12: Anmerkungen zur Nachweisung 882
   |          | 155 344 783 | 15,2          |
   |          | + 3.227.896 |               |
 - 4. :: Version
-  Die Unterlagen sind in Euro vorzulegen. Die Beträge sind in vollen Euro“ oder TsdEuro“ anzugeben. In der Kopfzeile der Formblätter und Nachweisungen ist in dem Feld Version“ die Zahl 8“ einzusetzen.
+  Die Unterlagen sind in Euro vorzulegen. Die Beträge sind in vollen „Euro“ oder „TsdEuro“ anzugeben. In der Kopfzeile der Formblätter und Nachweisungen ist in dem Feld „Version“ die Zahl „8“ einzusetzen.
 
 
 Anlage 3 - (zu § 20)Kongruenzregeln

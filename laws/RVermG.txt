@@ -201,8 +201,8 @@ Anlage - (zu § 12 Abs. 1)
 Fundstelle des Originaltextes: BGBl. I 1961, 602
 \\
 \\
-
-
+ 
+ 
 I. Baden-Württemberg
 1.
 Badisch-Pfälzische Flugbetrieb AG, Mannheim
@@ -218,8 +218,8 @@ Karlsruher Flughafen GmbH, Karlsruhe
 Siedlungsgesellschaft für das Doggererzgebiet Oberbaden mbH, Karlsruhe
 7.
 Württembergische Heimstätte GmbH, Stuttgart
-
-
+ 
+ 
 II. Bayern
 1.
 Bayerische Bauvereinsbank eGmbH, München
@@ -227,8 +227,8 @@ Bayerische Bauvereinsbank eGmbH, München
 Beamtenwohnungsverein eGmbH, München
 3.
 Landeswohnungsfürsorge Bayern GmbH, München
-
-
+ 
+ 
 III. Berlin
 1.
 Eisenbahn-Betriebs-Gesellschaft Tegel-Borsigwalde mbH, Berlin
@@ -236,15 +236,15 @@ Eisenbahn-Betriebs-Gesellschaft Tegel-Borsigwalde mbH, Berlin
 Reichsanstalt für Film und Bild in Wissenschaft und Unterricht GmbH i.L., Berlin
 3.
 Tempelhofer Feld AG für Grundstücksverwertung, Berlin
-
-
+ 
+ 
 IV. Bremen
 1.
 Beamten-Baugesellschaft Bremen GmbH, Bremen
 2.
 Fischereihafen-Betriebsgesellschaft mbH, Bremerhaven
-
-
+ 
+ 
 V. Hessen
 1.
 Bad Wildunger Heilquelle AG Königsquelle i.L., Bad Wildungen
@@ -256,8 +256,8 @@ Kleinbahn Kassel-Naumburg AG, Frankfurt (Main)
 Nassauische Heimstätte GmbH, Frankfurt (Main)
 5.
 Reinhardsquelle GmbH, Bad Wildungen West
-
-
+ 
+ 
 VI. Niedersachsen
 1.
 Ankum-Bersenbrücker Eisenbahn GmbH, Ankum
@@ -301,8 +301,8 @@ Verden-Walsroder Eisenbahn GmbH, Verden (Aller)
 Wilstedt-Zeven-Tostedter Eisenbahn GmbH, Zeven
 21.
 Wittlager Kreisbahn AG, Bohmte (Holst.)
-
-
+ 
+ 
 VII. Nordrhein-Westfalen
 1.
 Extertalbahn AG, Barntrup
@@ -320,22 +320,22 @@ Kleinbahn Weidenau-Deuz GmbH, Siegen
 Kreis-Altenaer-Eisenbahn AG, Lüdenscheid
 8.
 Wohnungsgesellschaft "Ruhr-Niederrhein" mbH, Essen
-
-
+ 
+ 
 VIII. Rheinland-Pfalz
 1.
 Kaolinwerk Oberwinter GmbH, Oberwinter
 2.
 Heimstätte Rheinland-Pfalz GmbH, Mainz
-
-
+ 
+ 
 IX. Saarland
 1.
 Flughafengesellschaft Saarbrücken-Ensheim mbH, Saarbrücken
 2.
 Merzig-Büschfelder Eisenbahn GmbH, Merzig (Saar)
-
-
+ 
+ 
 X. Schleswig-Holstein
 1.
 Elmshorn-Barmstedt-Oldesloer Eisenbahn AG, Elmshorn

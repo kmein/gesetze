@@ -12,26 +12,26 @@ Inhaltsverzeichnis
 
 Erstes Kapitel
 Allgemeines
-
-
+ 
+ 
 § 1
 Allgemeines
-
+ 
 Zweites Kapitel
 Rentenanspruch
-
+ 
 Erster Abschnitt
 Rentenarten und Voraussetzungen für einen Rentenanspruch
-
+ 
 § 2
 Rentenarten
 § 3
 Voraussetzungen für einen Rentenanspruch
-
+ 
 Zweiter Abschnitt
 Anspruchsvoraussetzungen für einzelne Renten
-
-
+ 
+ 
  Erster Unterabschnitt
  Renten wegen Alters
 § 4
@@ -40,10 +40,10 @@ Altersrente
 Bergmannsaltersrente
 § 6
 Bergmannsvollrente
-
+ 
  Zweiter Unterabschnitt
  Renten wegen verminderter Erwerbsfähigkeit
-
+ 
 § 7
 Invalidenrente
 § 8
@@ -52,10 +52,10 @@ Bergmannsinvalidenrente
 Bergmannsrente
 § 10
 Invalidenrente für Behinderte
-
+ 
  Dritter Unterabschnitt
  Renten wegen Todes
-
+ 
 § 11
 Witwenrente und Witwerrente
 § 12
@@ -66,18 +66,18 @@ Bergmannswitwenrente und Bergmannswitwerrente
 Unterhaltsrente
 § 15
 Waisenrente
-
+ 
  Vierter Unterabschnitt
  Wartezeiterfüllung
-
+ 
 § 16
 Wartezeiten
 § 17
 Anrechenbare Zeiten
-
+ 
  Fünfter Unterabschnitt
  Rentenrechtliche Zeiten
-
+ 
 § 18
 Begriffsbestimmung
 § 19
@@ -96,22 +96,22 @@ Beitragszeiten zur FZR
 Zurechnungszeiten zur FZR
 § 26
 Ermittlung von rentenrechtlichen Zeiten
-
+ 
 Drittes Kapitel
 Rentenhöhe
-
+ 
 Erster Abschnitt
  Grundsatz
-
+ 
 § 27
 Grundsatz
-
+ 
 Zweiter Abschnitt
 Renten aus der Sozialpflichtversicherung
-
+ 
  Erster Unterabschnitt
  Berechnung der Renten
-
+ 
 § 28
 Rentenformel für Monatsbetrag der Renten
 § 29
@@ -126,48 +126,48 @@ Steigerungssatz
 Zuschlag für Untertagetätigkeiten
 § 34
 Mindestrenten und Mindestbeträge
-
+ 
  Zweiter Unterabschnitt
  Sonderbestimmungen
-
+ 
 § 35
 Besonderer Steigerungssatz
 § 36
 Zusätzlicher Steigerungsbetrag
-
+ 
  Dritter Abschnitt
  Renten aus der freiwilligen Zusatzrentenversicherung
-
+ 
 § 37
 Rentenformel für Monatsbetrag der Zusatzrenten
 § 38
 Durchschnittseinkommen für Zusatzrenten
-
+ 
  Vierter Abschnitt
  Erhöhung auf den Stand 31. Dezember 1991
-
+ 
 § 39
 Erhöhung auf den Stand 31. Dezember 1991
-
+ 
  Fünfter Abschnitt
  Berechnung von Geldleistungen
-
+ 
 § 40
 Berechnung von Geldleistungen
-
+ 
 Viertes Kapitel
 Zusammentreffen von Renten
-
+ 
 § 41
 Mehrere Rentenansprüche
 § 42
 Mehrere Renten wegen Todes
 § 43
 Rente und Leistungen aus der Unfallversicherung
-
+ 
 Fünftes Kapitel
 Beginn, Änderung und Ende von Renten
-
+ 
 § 44
 Beginn, Änderung und Ende von Renten
 
@@ -990,7 +990,7 @@ Anlage - (zu § 39)  Tabelle zur Erhöhung auf den Stand 31. Dezember 1991
 
 \\
 
-
+ 
 
 Arbeitsjahre
 
@@ -1522,7 +1522,7 @@ Erhöhung für das Jahr in vom Hundert
 
 0,00
 
-
+ 
 
 Arbeitsjahre
 
@@ -2054,7 +2054,7 @@ Erhöhung für das Jahr in vom Hundert
 
 0,00
 
-
+ 
 
 Arbeitsjahre
 
@@ -2586,7 +2586,7 @@ Erhöhung für das Jahr in vom Hundert
 
 0,00
 
-
+ 
 
 Arbeitsjahre
 
@@ -3118,7 +3118,7 @@ Erhöhung für das Jahr in vom Hundert
 
 0,00
 
-
+ 
 
 Arbeitsjahre
 
@@ -3130,13 +3130,13 @@ Erhöhung für das Jahr in vom Hundert
 
 1970 *)
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 51 ++)
 
@@ -3146,13 +3146,13 @@ Erhöhung für das Jahr in vom Hundert
 
 62,04
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 50
 
@@ -3162,13 +3162,13 @@ Erhöhung für das Jahr in vom Hundert
 
 58,87
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 49
 
@@ -3178,13 +3178,13 @@ Erhöhung für das Jahr in vom Hundert
 
 55,69
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 48
 
@@ -3194,13 +3194,13 @@ Erhöhung für das Jahr in vom Hundert
 
 52,51
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 47
 
@@ -3210,13 +3210,13 @@ Erhöhung für das Jahr in vom Hundert
 
 49,33
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 46
 
@@ -3226,13 +3226,13 @@ Erhöhung für das Jahr in vom Hundert
 
 46,16
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 45
 
@@ -3242,13 +3242,13 @@ Erhöhung für das Jahr in vom Hundert
 
 42,98
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 44
 
@@ -3258,13 +3258,13 @@ Erhöhung für das Jahr in vom Hundert
 
 52,81
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 43
 
@@ -3274,13 +3274,13 @@ Erhöhung für das Jahr in vom Hundert
 
 49,33
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 42
 
@@ -3290,13 +3290,13 @@ Erhöhung für das Jahr in vom Hundert
 
 45,86
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 41
 
@@ -3306,13 +3306,13 @@ Erhöhung für das Jahr in vom Hundert
 
 42,39
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 40
 
@@ -3322,13 +3322,13 @@ Erhöhung für das Jahr in vom Hundert
 
 38,91
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 39
 
@@ -3338,13 +3338,13 @@ Erhöhung für das Jahr in vom Hundert
 
 42,05
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 38
 
@@ -3354,13 +3354,13 @@ Erhöhung für das Jahr in vom Hundert
 
 38,41
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 37
 
@@ -3370,13 +3370,13 @@ Erhöhung für das Jahr in vom Hundert
 
 34,76
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 36
 
@@ -3386,13 +3386,13 @@ Erhöhung für das Jahr in vom Hundert
 
 31,12
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 35
 
@@ -3402,13 +3402,13 @@ Erhöhung für das Jahr in vom Hundert
 
 27,48
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 34
 
@@ -3418,13 +3418,13 @@ Erhöhung für das Jahr in vom Hundert
 
 30,19
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 33
 
@@ -3434,13 +3434,13 @@ Erhöhung für das Jahr in vom Hundert
 
 26,36
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 32
 
@@ -3450,13 +3450,13 @@ Erhöhung für das Jahr in vom Hundert
 
 22,53
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 31
 
@@ -3466,13 +3466,13 @@ Erhöhung für das Jahr in vom Hundert
 
 18,70
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 30
 
@@ -3482,13 +3482,13 @@ Erhöhung für das Jahr in vom Hundert
 
 14,87
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 29
 
@@ -3498,13 +3498,13 @@ Erhöhung für das Jahr in vom Hundert
 
 17,04
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 28
 
@@ -3514,13 +3514,13 @@ Erhöhung für das Jahr in vom Hundert
 
 13,01
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 27
 
@@ -3530,13 +3530,13 @@ Erhöhung für das Jahr in vom Hundert
 
 8,97
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 26
 
@@ -3546,13 +3546,13 @@ Erhöhung für das Jahr in vom Hundert
 
 4,94
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 25
 
@@ -3562,13 +3562,13 @@ Erhöhung für das Jahr in vom Hundert
 
 0,90
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 24
 
@@ -3578,13 +3578,13 @@ Erhöhung für das Jahr in vom Hundert
 
 2,40
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 23
 
@@ -3594,13 +3594,13 @@ Erhöhung für das Jahr in vom Hundert
 
 0,00
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 22
 
@@ -3610,13 +3610,13 @@ Erhöhung für das Jahr in vom Hundert
 
 0,00
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 21
 
@@ -3626,13 +3626,13 @@ Erhöhung für das Jahr in vom Hundert
 
 0,00
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 20
 
@@ -3642,13 +3642,13 @@ Erhöhung für das Jahr in vom Hundert
 
 0,00
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 - *) :: und früher
 - ++) :: und mehr

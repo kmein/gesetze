@@ -652,7 +652,7 @@ Die in der Bundesrepublik Deutschland betriebenen Anlagen zur Spaltung von Kernb
   Nicht zu melden ist eine Reaktorschnellabschaltung,
   - -- :: die ohne sicherheitstechnisches Erfordernis gezielt vom Personal oder automatisch zum Schutz der Experimentiereinrichtungen durchgeführt wird,
   - -- :: die eindeutig auf eine Netzstörung zurückzuführen ist (gilt nicht für Anlagen, bei denen dadurch die elektrische Versorgung einer sicherheitstechnisch wichtigen Einrichtung für die Nachwärmeabfuhr beeinträchtigt ist),
-  - -- :: die in der Anfahrphase bei geringer Reaktorleistung erfolgt; soweit in den Betriebsvorschriften für die geringe Reaktorleistung“ nichts anderes definiert ist, ist die Reaktorleistung gering bei einer Leistung von weniger als 5 Prozent,
+  - -- :: die in der Anfahrphase bei geringer Reaktorleistung erfolgt; soweit in den Betriebsvorschriften für die „geringe Reaktorleistung“ nichts anderes definiert ist, ist die Reaktorleistung gering bei einer Leistung von weniger als 5 Prozent,
   - -- :: die bei Nullleistung ohne erforderliche Zwangskühlung erfolgt oder
   - -- :: die bei Personalausbildung bei Reaktorbetrieb ohne erforderliche Zwangskühlung erfolgt.
 
@@ -691,8 +691,8 @@ Anlage 4 - Meldekriterien für meldepflichtige Ereignisse in Anlagen in Stillleg
 (Fundstelle: BGBl. I 2010, 773 - 776)
 Die Meldekriterien für meldepflichtige Ereignisse für in Stilllegung befindliche Anlagen, Anlagenbereiche oder Anlagenteile gelten für Anlagen, die
 
-- 1. :: der Spaltung von Kernbrennstoffen dienten und bei denen die Schutzziele UnterkritikalitätNachwärmeabfuhr” für den Restbetrieb der in Stilllegung befindlichen Anlage nicht mehr relevant sind oder
-- 2. :: nicht der Spaltung von Kernbrennstoffen dienten und bei denen das Schutzziel Unterkritikalität” nicht mehr relevant ist,
+- 1. :: der Spaltung von Kernbrennstoffen dienten und bei denen die Schutzziele „Unterkritikalität” und „Nachwärmeabfuhr” für den Restbetrieb der in Stilllegung befindlichen Anlage nicht mehr relevant sind oder
+- 2. :: nicht der Spaltung von Kernbrennstoffen dienten und bei denen das Schutzziel „Unterkritikalität” nicht mehr relevant ist,
 
 soweit für diese eine Genehmigung nach § 7 Absatz 3 des Atomgesetzes bereits erteilt wurde.\\
 Liegen diese Anwendungskriterien nicht vor, finden je nach Genehmigungs- und Anlagentyp die Anlagen 1, 2 oder 3 weiterhin Anwendung.
@@ -786,19 +786,19 @@ Liegen diese Anwendungskriterien nicht vor, finden je nach Genehmigungs- und Anl
 - 3.1 :: Einwirkungen von außen
   Kriterium S 3.1.1
   Erdbeben, Flugzeugabsturz, Explosionsdruckwelle oder sonstige Einwirkung von außen, so dass ein Anlagenzustand eingetreten ist,
-  - -- :: bei dem das Schutzziel Einschluss radioaktiver Stoffe“ oder das Schutzziel Begrenzung der Strahlenexposition“ verletzt wurde und
+  - -- :: bei dem das Schutzziel „Einschluss radioaktiver Stoffe“ oder das Schutzziel „Begrenzung der Strahlenexposition“ verletzt wurde und
   - -- :: der sich gefahrbringend auf die Bevölkerung oder die Umgebung auswirkt oder bei dem dies zu besorgen ist.
 
   Kriterium E 3.1.1
-  Erdbeben, Flugzeugabsturz, Explosionsdruckwelle oder sonstige Einwirkung von auEinschluss radioaktiver StoffeBegrenzung der Strahlenexposition” verletzt wurde oder dies zu besorgen ist.
+  Erdbeben, Flugzeugabsturz, Explosionsdruckwelle oder sonstige Einwirkung von außen, so dass ein Anlagenzustand eingetreten ist, bei dem das Schutzziel „Einschluss radioaktiver Stoffe” oder das Schutzziel „Begrenzung der Strahlenexposition” verletzt wurde oder dies zu besorgen ist.
 - 3.2 :: Anlageninterne Ereignisse
   Kriterium S 3.2.1
   Anlageninterner Brand, anlageninterne Explosion, heftige chemische Reaktion, Überflutung oder sonstige Einwirkung von innen, so dass ein Anlagenzustand eingetreten ist,
-  - -- :: bei dem das Schutzziel Einschluss radioaktiver Stoffe“ oder das Schutzziel Begrenzung der Strahlenexposition“ verletzt wurde und
+  - -- :: bei dem das Schutzziel „Einschluss radioaktiver Stoffe“ oder das Schutzziel „Begrenzung der Strahlenexposition“ verletzt wurde und
   - -- :: der sich gefahrbringend auf die Bevölkerung oder die Umgebung auswirkt oder bei dem dies zu besorgen ist.
 
   Kriterium E 3.2.1
-  Anlageninterner Brand, anlageninterne Explosion, heftige chemische Reaktion, Überflutung oder sonstige Einwirkung von innen, so dass ein Anlagenzustand eingetreten ist, bei dem das Schutzziel Einschluss radioaktiver StoffeBegrenzung der Strahlenexposition” verletzt wurde oder dies zu besorgen ist.
+  Anlageninterner Brand, anlageninterne Explosion, heftige chemische Reaktion, Überflutung oder sonstige Einwirkung von innen, so dass ein Anlagenzustand eingetreten ist, bei dem das Schutzziel „Einschluss radioaktiver Stoffe” oder das Schutzziel „Begrenzung der Strahlenexposition” verletzt wurde oder dies zu besorgen ist.
   Kriterium N 3.2.1
   Anlageninterner Brand, anlageninterne Explosion, Überflutung oder sonstige Einwirkung von innen in einem Raum oder Anlagenbereich, in dem radioaktive Stoffe mit einer Aktivität oberhalb der Werte nach Anlage 4 Tabelle 1 Spalte 2 der Strahlenschutzverordnung vorhanden sind oder in dem sich eine sicherheitstechnisch wichtige Einrichtung befindet.
   Nicht zu melden sind örtlich begrenzte Kleinstbrände im Zusammenhang mit Abbau-, Änderungs- oder Instandhaltungsarbeiten, für die vorbeugende planmäßige Brandschutzmaßnahmen getroffen wurden und deren Anwendung bei der Brandbekämpfung wirksam war.

@@ -216,13 +216,13 @@ Betriebliche, technische und kundenorientierte Kommunikation und Auftragsbearbei
 
 5
 
-
+ 
 
 - i) :: maßstabsgerechte Zeichnungen erstellen
 - j) :: Datenträger handhaben, digitale und analoge Mess- und Prüfdaten lesen
 - k) :: mit den Funktionsbereichen des Betriebes zusammenarbeiten, betriebliche Informationsflüsse nutzen und bei betrieblichen Entscheidungsprozessen mitarbeiten
 
-
+ 
 
 3
 
@@ -241,13 +241,13 @@ Planen und Vorbereiten von Arbeitsabläufen\\
 
 6
 
-
+ 
 
 - h) :: Arbeitsabläufe nach ökonomischen, ökologischen und ergonomischen Gesichtspunkten sowie des Personaleinsatzes festlegen
 - i) :: Montagegerüste unter Beachtung der Unfallverhütungsvorschriften aufstellen
 - j) :: Gefahrstoffe identifizieren und für die Entsorgung sichern
 
-
+ 
 
 4
 
@@ -261,14 +261,14 @@ Qualitätsmanagement\\
 
 2
 
-
+ 
 
 - c) :: Ursachen von Fehlern und Qualitätsmängeln systematisch suchen, zur Beseitigung beitragen und dokumentieren
 - d) :: Qualitätssicherungssystem des Betriebes anwenden
 
 2
 
-
+ 
 
 8
 
@@ -285,14 +285,14 @@ Manuelles und maschinelles Bearbeiten von Metallen und Kunststoffen\\
 
 7
 
-
+ 
 
 - h) :: Innen- und Außengewinde herstellen
 - i) :: Rohrleitungen und Kanäle mit unterschiedlichen Verfahren verbinden
 - j) :: Maßnahmen zum Korrosionsschutz auswählen und anwenden
 - k) :: Bleche, Rohre und Profile unter Beachtung des Werkstoffs, der Werkstoffoberfläche, der Werkstückform und der Anschlussmaße maschinell trennen und umformen
 
-
+ 
 
 8
 
@@ -310,7 +310,7 @@ Manuelles und maschinelles Bearbeiten von keramischen Bauteilen\\
 
 25
 
-
+ 
 
 10
 
@@ -325,13 +325,13 @@ Versetzen von Kacheln und anderen keramischen und mineralischen Werkstoffen und 
 
 15
 
-
+ 
 
 - f) :: Verputze herstellen
 - g) :: Kacheln und keramische Formteile anpassen, setzen, verklammern und ausfüttern
 - h) :: Natursteinplatten verlegen und ansetzen
 
-
+ 
 
 15
 
@@ -349,13 +349,13 @@ Herstellen elektrischer Anschlüsse von Komponenten von Ofen- und Luftheizungsba
 
 3
 
-
+ 
 
 - g) :: Funktion elektrischer Bauteile, insbesondere von Fehlerstromschutzeinrichtungen, Schutzkontaktsteckern, Kabelkupplungen und Schutzschaltern, prüfen
 - h) :: Dreh- und Wechselstrommotore nach Typ unterscheiden, Drehrichtung prüfen
 - i) :: elektrische Steuerungs- und Hauptstromkreise überprüfen und schrittweise in Betrieb nehmen
 
-
+ 
 
 5
 
@@ -371,7 +371,7 @@ Installieren elektrischer Baugruppen und Komponenten von Ofen- und Luftheizungsb
 
 2
 
-
+ 
 
 - e) :: Leitungswege nach baulichen, örtlichen und sicherheitstechnischen Gegebenheiten festlegen
 - f) :: Baugruppen und Geräte in unterschiedlichen Verdrahtungsarten nach Unterlagen und Mustern verdrahten
@@ -388,7 +388,7 @@ Installieren elektrischer Baugruppen und Komponenten von Ofen- und Luftheizungsb
 - q) :: Fehler und Störungen unter Beachtung der Schnittstellen, insbesondere hydraulischer und elektrischer Baugruppen, durch Sichtkontrolle feststellen sowie mit Hilfe von Prüfsystemen und Testprogrammen systematisch eingrenzen, auf Ursachen untersuchen, die Möglichkeiten ihrer Beseitigung beurteilen, die Instandsetzung durchführen, Prüfprotokolle erstellen
 - r) :: Schutzeinrichtungen prüfen, Schutzmaßnahmen ergreifen
 
-
+ 
 
 6
 
@@ -402,7 +402,7 @@ Montieren von Mess-, Steuerungs-, Regelungs- und Sicherheitseinrichtungen von Of
 - c) :: elektrische und hydraulische Schaltungsunterlagen auswerten
 - d) :: Steuerungs-, Regelungs- und Überwachungsprogramme prüfen, Regelungsparameter nach Vorgaben einstellen, betreiberspezifische Anforderungen berücksichtigen
 
-
+ 
 
 3
 
@@ -417,7 +417,7 @@ Prüfen und Messen\\
 
 2
 
-
+ 
 
 - d) :: Verfahren und Messgeräte auswählen, Messeinrichtungen aufbauen
 - e) :: physikalische Größen, insbesondere Druck, Temperatur und Strömungsgeschwindigkeit, messen
@@ -426,7 +426,7 @@ Prüfen und Messen\\
 
 4
 
-
+ 
 
 15
 
@@ -442,7 +442,7 @@ Aufbauen und Instandhalten von handwerklich und industriell gefertigten Öfen un
 
 6
 
-
+ 
 
 - g) :: verputzte und verkachelte Warmluft- und Grundöfen, Heizkamine, offene Kamine, Kachelherde und Backöfen setzen und instand halten
 - h) :: Wasser-Wärmetauscher einbauen und hydraulisch einbinden, einschließlich solarthermischer Komponenten
@@ -455,7 +455,7 @@ Aufbauen und Instandhalten von handwerklich und industriell gefertigten Öfen un
 
 9
 
-
+ 
 
 16
 
@@ -469,13 +469,13 @@ Herstellen und Instandhalten von Flächenheizungen und raumlufttechnischen Anlag
 
 5
 
-
+ 
 
 - e) :: Heizeinsätze, Heizgaszüge, Warmlufterzeuger, Ventilatoren, Luftfilter, Luftklappen, Luftdurchlässe und Schalldämpfer instand halten
 - f) :: Flächenheizsysteme instand halten
 - g) :: Warmluftheizungen und Lüftungsanlagen einbauen und instand halten
 
-
+ 
 
 3
 
@@ -491,7 +491,7 @@ Einbauen und Instandhalten von Gas- und Ölbrennern; Brennstoffversorgung und La
 - e) :: Gasversorgungsanlagen einbauen und instand halten
 - f) :: Pelletversorgungs- und Lagerungseinrichtungen einbauen und instand halten
 
-
+ 
 
 12
 
@@ -507,6 +507,6 @@ Kundenberatung\\
 - e) :: Arbeiten unter Berücksichtigung von Kundenwünschen, örtlicher Gegebenheiten sowie nachhaltiger Energiesysteme optimieren
 - f) :: Kunden hinsichtlich der Materialauswahl, Form- und Farbgestaltung beraten
 
-
+ 
 
 4

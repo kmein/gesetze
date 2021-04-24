@@ -335,7 +335,7 @@ Ob ein Unternehmen der Aufsicht unterliegt, entscheidet die Aufsichtsbehörde. D
 
 § 6 - Bezeichnungsschutz
 
-(1) Die Bezeichnungen Versicherung“, Versicherer“, Assekuranz“, Rückversicherung“, Rückversicherer“ und entsprechende fremdsprachliche Bezeichnungen oder eine Bezeichnung, in der eines dieser Worte enthalten ist, dürfen in der Firma, als Zusatz zur Firma, zur Bezeichnung des Geschäftszwecks oder zu Werbezwecken nur von Versicherungsunternehmen im Sinne des § 1 Absatz 1 und 3 sowie von deren Verbänden geführt werden, soweit durch Gesetz nichts anderes bestimmt ist. Versicherungsvermittler dürfen die in Satz 1 genannten Bezeichnungen nur führen, wenn diese mit einem Zusatz versehen sind, der die Vermittlereigenschaft klarstellt.
+(1) Die Bezeichnungen „Versicherung“, „Versicherer“, „Assekuranz“, „Rückversicherung“, „Rückversicherer“ und entsprechende fremdsprachliche Bezeichnungen oder eine Bezeichnung, in der eines dieser Worte enthalten ist, dürfen in der Firma, als Zusatz zur Firma, zur Bezeichnung des Geschäftszwecks oder zu Werbezwecken nur von Versicherungsunternehmen im Sinne des § 1 Absatz 1 und 3 sowie von deren Verbänden geführt werden, soweit durch Gesetz nichts anderes bestimmt ist. Versicherungsvermittler dürfen die in Satz 1 genannten Bezeichnungen nur führen, wenn diese mit einem Zusatz versehen sind, der die Vermittlereigenschaft klarstellt.
 (2) In Zweifelsfällen entscheidet die Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt), ob ein Unternehmen zur Führung der in Absatz 1 genannten Bezeichnungen befugt ist. Sie hat ihre Entscheidung dem Registergericht mitzuteilen.
 (3) Die Bundesanstalt ist berechtigt, in Verfahren des Registergerichts, die sich auf die Eintragung oder Änderung der Rechtsverhältnisse oder der Firma von Unternehmen beziehen, die nach Absatz 1 unzulässige Bezeichnungen verwenden, Anträge zu stellen und die nach dem Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit zulässigen Rechtsmittel einzulegen.
 (4) Führt ein Unternehmen eine Firma oder einen Zusatz zur Firma, deren Gebrauch nach Absatz 1 unzulässig ist oder verwendet ein Unternehmen eine solche Bezeichnung, so hat das Registergericht die Firma, den Zusatz zur Firma oder den Unternehmensgegenstand von Amts wegen zu löschen; § 395 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit ist entsprechend anzuwenden. Das Unternehmen ist zur Unterlassung des Gebrauchs der Firma, des Zusatzes zur Firma oder des Unternehmensgegenstandes durch Festsetzung von Ordnungsgeld anzuhalten; § 392 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit ist entsprechend anzuwenden.
@@ -836,7 +836,7 @@ Vor dem Erlass ist der Versicherungsbeirat zu hören. Die Ermächtigung kann dur
 - 4. :: für die Vermögenswerte, versicherungstechnischen Rückstellungen und sonstigen Verbindlichkeiten gemäß der Solvabilitätsübersicht jeweils gesondert die für ihre Bewertung verwendeten Grundlagen und Methoden zusammen mit einer Erklärung der wesentlichen Unterschiede zu den Grundlagen und Methoden, die zu ihrer Bewertung im Jahresabschluss herangezogen wurden, sowie
 - 5. :: das Kapitalmanagement unter Angabe mindestens der Struktur und des Betrags der Eigenmittel und ihrer Qualität sowie der Beträge der Solvabilitätskapitalanforderung und der Mindestkapitalanforderung.
 
-Haben Versicherungsunternehmen die nach § 134c Absatz 1 bis 3 des Aktiengesetzes erforderlichen Informationen offenzulegen, so können diese im Solvabilitäts- und Finanzbericht bei den Angaben zum Liquiditätsrisiko unter Punkt C.4 des Anhangs XX der Delegierten Verordnung (EU) 2015/35 der Kommission vom 10. Oktober 2014 zur Ergänzung der Richtlinie 2009/138/EG des Europäischen Parlaments und des Rates betreffend die Aufnahme und Ausübung der Versicherungs- und der Rückversicherungstätigkeit (Solvabilität II) (ABl. L 12 vom 17.1.2015, S. 1; L 195 vom 1.8.2018, S. 27), die zuletzt durch die Delegierte Verordnung (EU) 2019/1865 (ABl. L 289 vom 8.11.2019, S. 3) geändert worden ist, offengelegt werden. Den Informationen ist die Überschrift Informationen nach § 134c Absatz 1 bis 3 des Aktiengesetzes“ voranzustellen.
+Haben Versicherungsunternehmen die nach § 134c Absatz 1 bis 3 des Aktiengesetzes erforderlichen Informationen offenzulegen, so können diese im Solvabilitäts- und Finanzbericht bei den Angaben zum Liquiditätsrisiko unter Punkt C.4 des Anhangs XX der Delegierten Verordnung (EU) 2015/35 der Kommission vom 10. Oktober 2014 zur Ergänzung der Richtlinie 2009/138/EG des Europäischen Parlaments und des Rates betreffend die Aufnahme und Ausübung der Versicherungs- und der Rückversicherungstätigkeit (Solvabilität II) (ABl. L 12 vom 17.1.2015, S. 1; L 195 vom 1.8.2018, S. 27), die zuletzt durch die Delegierte Verordnung (EU) 2019/1865 (ABl. L 289 vom 8.11.2019, S. 3) geändert worden ist, offengelegt werden. Den Informationen ist die Überschrift „Informationen nach § 134c Absatz 1 bis 3 des Aktiengesetzes“ voranzustellen.
 
 (3) Kommt die in § 80 genannte Matching-Anpassung zur Anwendung, umfasst die in Absatz 2 Nummer 4 genannte Beschreibung eine Beschreibung der Matching-Anpassung, des Portfolios der Verpflichtungen und der zugeordneten Vermögenswerte, auf die die Matching-Anpassung angewendet wird, sowie eine Quantifizierung der Auswirkungen der Änderung der Matching-Anpassung auf null auf die Finanzlage eines Unternehmens. Die in Absatz 2 Nummer 4 genannte Beschreibung enthält auch eine Erklärung darüber, ob die in § 82 genannte Volatilitätsanpassung vom Unternehmen verwendet wird, sowie eine Quantifizierung der Auswirkungen der Änderung der Volatilitätsanpassung auf null auf die Finanzlage eines Unternehmens.
 (4) Zur Beschreibung der Eigenmittel gehören
@@ -3023,7 +3023,7 @@ Die Pensionskasse stellt sicher, dass Versorgungsanwärtern, die nicht automatis
 
 § 234o - Information der Versorgungsanwärter während der Anwartschaftsphase
 
-(1) Pensionskassen stellen dem Versorgungsanwärter mindestens alle zwölf Monate die für ihn wesentlichen Informationen über den Stand seines Versorgungsverhältnisses zur Verfügung. Die Informationen werden in knapper, präziser Form zusammengestellt und die Überschrift Renteninformation“ vorangestellt.
+(1) Pensionskassen stellen dem Versorgungsanwärter mindestens alle zwölf Monate die für ihn wesentlichen Informationen über den Stand seines Versorgungsverhältnisses zur Verfügung. Die Informationen werden in knapper, präziser Form zusammengestellt und die Überschrift „Renteninformation“ vorangestellt.
 (2) Die Renteninformation muss den Besonderheiten der gesetzlichen Altersversorgungssysteme und dem Arbeits-, Sozial- und Steuerrecht Rechnung tragen.
 (3) Die Pensionskasse hat in die Renteninformation eine Projektion der Altersversorgungsleistungen bis zum voraussichtlichen Renteneintrittsalter aufzunehmen. Sie muss in deutlicher Form darauf hinweisen, dass
 
@@ -4161,7 +4161,7 @@ soweit diese Stellen die Informationen zur Erfüllung ihrer Aufgaben benötigen.
 
 § 313 - Unterrichtung der Gläubiger
 
-(1) Mit dem Eröffnungsbeschluss ist den Gläubigern ein Formblatt zu übersenden, das mit den Worten Aufforderung zur Anmeldung und Erläuterung einer Forderung. Fristen beachten!“ und den entsprechenden Übersetzungen in sämtlichen Amtssprachen der Mitglied- oder Vertragsstaaten überschrieben ist. Das Formblatt wird vom Bundesministerium der Justiz und für Verbraucherschutz im Bundesanzeiger veröffentlicht und enthält insbesondere folgende Angaben:
+(1) Mit dem Eröffnungsbeschluss ist den Gläubigern ein Formblatt zu übersenden, das mit den Worten „Aufforderung zur Anmeldung und Erläuterung einer Forderung. Fristen beachten!“ und den entsprechenden Übersetzungen in sämtlichen Amtssprachen der Mitglied- oder Vertragsstaaten überschrieben ist. Das Formblatt wird vom Bundesministerium der Justiz und für Verbraucherschutz im Bundesanzeiger veröffentlicht und enthält insbesondere folgende Angaben:
 
 - 1. :: welche Fristen einzuhalten sind und welche Folgen deren Versäumung hat;
 - 2. :: wer für die Entgegennahme der Anmeldung und Erläuterung einer Forderung zuständig ist;
@@ -4172,7 +4172,7 @@ soweit diese Stellen die Informationen zur Erfüllung ihrer Aufgaben benötigen.
 - 7. :: die Rechte und Pflichten der Versicherten in Bezug auf den betreffenden Vertrag oder das entsprechende Geschäft.
 
 (2) Ist ein bekannter Gläubiger mit gewöhnlichem Aufenthalt, Wohnsitz oder Sitz in einem anderen Mitglied- oder Vertragsstaat Inhaber einer Forderung als Versicherungsnehmer, Versicherter, Begünstigter oder geschädigter Dritter mit Direktanspruch gegen den Versicherer, so ist er in einer Amtssprache des Mitglied- oder Vertragsstaats zu unterrichten, in dem er seinen gewöhnlichen Aufenthalt oder seinen Wohnsitz oder Sitz hat.
-(3) Gläubiger mit gewöhnlichem Aufenthalt, Wohnsitz oder Sitz in einem anderen Mitglied- oder Vertragsstaat können ihre Forderung in einer Amtssprache dieses anderen Staats anmelden. In diesem Fall muss die Anmeldung in deutscher Sprache mit den Worten Anmeldung und Erläuterung einer Forderung“ überschrieben sein.
+(3) Gläubiger mit gewöhnlichem Aufenthalt, Wohnsitz oder Sitz in einem anderen Mitglied- oder Vertragsstaat können ihre Forderung in einer Amtssprache dieses anderen Staats anmelden. In diesem Fall muss die Anmeldung in deutscher Sprache mit den Worten „Anmeldung und Erläuterung einer Forderung“ überschrieben sein.
 (4) Der Insolvenzverwalter hat die Gläubiger regelmäßig in geeigneter Form über den Fortgang des Insolvenzverfahrens zu unterrichten.
 (+++ § 313: Zur Anwendung vgl. § 237 Abs. 1 Satz 2 +++)
 
@@ -4314,7 +4314,7 @@ Abweichend von Satz 1 kann die Bundesanstalt in den Fällen von Satz 1 Nummer 2 
 
 § 328 - Zustellungen
 
-Will die Aufsichtsbehörde eines anderen Mitglied- oder Vertragsstaats in einem Verfahren nach dessen Vorschriften über die Versicherungsaufsicht einem dort tätigen Versicherungsunternehmen mit Sitz im Inland ein Schriftstück übermitteln, ist die unmittelbare Übermittlung durch die Post nach den für den Postverkehr mit diesem anderen Mitglied- oder Vertragsstaat geltenden Vorschriften zulässig. Zum Nachweis der Zustellung genügt die Versendung des Schriftstücks als eingeschriebener Brief mit den besonderen Versendungsformen eigenhändig“ und Rückschein“. Kann eine Zustellung nicht unmittelbar durch die Post bewirkt werden oder ist dies nach Art oder Inhalt des Schriftstücks nicht zweckmäßig, wird die Zustellung durch die Bundesanstalt bewirkt.
+Will die Aufsichtsbehörde eines anderen Mitglied- oder Vertragsstaats in einem Verfahren nach dessen Vorschriften über die Versicherungsaufsicht einem dort tätigen Versicherungsunternehmen mit Sitz im Inland ein Schriftstück übermitteln, ist die unmittelbare Übermittlung durch die Post nach den für den Postverkehr mit diesem anderen Mitglied- oder Vertragsstaat geltenden Vorschriften zulässig. Zum Nachweis der Zustellung genügt die Versendung des Schriftstücks als eingeschriebener Brief mit den besonderen Versendungsformen „eigenhändig“ und „Rückschein“. Kann eine Zustellung nicht unmittelbar durch die Post bewirkt werden oder ist dies nach Art oder Inhalt des Schriftstücks nicht zweckmäßig, wird die Zustellung durch die Bundesanstalt bewirkt.
 (+++ § 328: Zur Anwendung vgl. § 292 Satz 2 +++)
 
 § 329 - Zusammenarbeit mit der Europäischen Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung
@@ -4763,9 +4763,9 @@ Der maximal abzugsfähige Anteil sinkt am Ende jedes Kalenderjahres linear von 1
 Die Bundesanstalt informiert die Europäische Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung bis zum 1. Januar 2021 jedes Jahr über Folgendes:
 
 - 1. :: die Verfügbarkeit von langfristigen Garantien bei Versicherungsverträgen auf ihren Binnenmärkten und das Verhalten von Versicherungsunternehmen als langfristige Investoren;
-- 2. :: die Zahl der Versicherungsunternehmen, welche die Matching-Anpassung, die Volatilitätsanpassung, die Verlängerung der Frist für die Wiederherstellung gesunder Finanzverhältnisse nach § 134 Absatz 4, das durationsbasierte Untermodul Aktienrisiko“ und die Übergangsmaßnahmen nach den §§ 351 und 352 anwenden;
-- 3. :: die Auswirkungen der Matching-Anpassung, der Volatilitätsanpassung, der symmetrischen Anpassung der Kapitalanforderung für Aktienanlagen gemäAktienrisiko“ und der Übergangsmaßnahmen nach den §§ 351 und 352 auf die Finanzlage der Versicherungsunternehmen auf nationaler Ebene und anonymisiert für jedes Unternehmen;
-- 4. :: die Auswirkungen der Matching-Anpassung, der Volatilitätsanpassung, der symmetrischen Anpassung der Kapitalanforderungen für Aktienanlagen gemäAktienrisiko“ auf das Investitionsverhalten von Versicherungsunternehmen und darauf, ob dies zu einer unangemessenen Kapitalentlastung führt;
+- 2. :: die Zahl der Versicherungsunternehmen, welche die Matching-Anpassung, die Volatilitätsanpassung, die Verlängerung der Frist für die Wiederherstellung gesunder Finanzverhältnisse nach § 134 Absatz 4, das durationsbasierte Untermodul „Aktienrisiko“ und die Übergangsmaßnahmen nach den §§ 351 und 352 anwenden;
+- 3. :: die Auswirkungen der Matching-Anpassung, der Volatilitätsanpassung, der symmetrischen Anpassung der Kapitalanforderung für Aktienanlagen gemäß § 106 Absatz 1, des durationsbasierten Untermoduls „Aktienrisiko“ und der Übergangsmaßnahmen nach den §§ 351 und 352 auf die Finanzlage der Versicherungsunternehmen auf nationaler Ebene und anonymisiert für jedes Unternehmen;
+- 4. :: die Auswirkungen der Matching-Anpassung, der Volatilitätsanpassung, der symmetrischen Anpassung der Kapitalanforderungen für Aktienanlagen gemäß § 106 Absatz 1 und des durationsbasierten Untermoduls „Aktienrisiko“ auf das Investitionsverhalten von Versicherungsunternehmen und darauf, ob dies zu einer unangemessenen Kapitalentlastung führt;
 - 5. :: die Auswirkungen einer Verlängerung der Frist für die Wiederherstellung gesunder Finanzverhältnisse nach § 134 Absatz 4 auf die Bemühungen der Versicherungsunternehmen zur Aufbringung der anrechnungsfähigen Eigenmittel oder zur Senkung des Risikoprofils zur Einhaltung der Solvabilitätskapitalanforderung;
 - 6. :: die Erfüllung oder Nichterfüllung der Pläne betreffend Übergangsmaßnahmen nach § 353 durch Versicherungsunternehmen, die diese Übergangsmaßnahmen nach den §§ 351 und 352 anwenden und die Wahrscheinlichkeit einer geringeren Abhängigkeit von diesen Übergangsmaßnahmen, einschließlich Maßnahmen, die von den Unternehmen und den Aufsichtsbehörden ergriffen wurden oder voraussichtlich ergriffen werden, wobei dem anwendbaren Regelungsumfeld Rechnung zu tragen ist.
 
@@ -4891,13 +4891,13 @@ Anlage 2 - Bezeichnung der Zulassung, die gleichzeitig für mehrere Sparten erte
 (Fundstelle: BGBl. I 2015, 557)
 Umfasst die Zulassung zugleich
 
-- 1. :: Nummer 1 Buchstabe d, die Nummern 3, 7 und 10 Buchstabe a, so wird sie unter der Bezeichnung Kraftfahrtversicherung“ erteilt;
-- 2. :: Nummer 1 Buchstabe d, die Nummern 4, 6, 7 und 12, so wird sie unter der Bezeichnung See- und Transportversicherung“ erteilt;
-- 3. :: Nummer 1 Buchstabe d, die Nummern 5, 7 und 11, so wird sie unter der Bezeichnung Luftfahrtversicherung“ erteilt;
-- 4. :: die Nummern 8 und 9, so wird sie unter der Bezeichnung Feuer- und andere Sachschäden“ erteilt;
-- 5. :: die Nummern 10 bis 13, so wird sie unter der Bezeichnung Haftpflicht“ erteilt;
-- 6. :: die Nummern 14 und 15, so wird sie unter der Bezeichnung Kredit und Kaution“ erteilt;
-- 7. :: die Nummern 1, 3 bis 13 und 16, so wird sie unter der Bezeichnung Schaden- und Unfallversicherung“ erteilt.
+- 1. :: Nummer 1 Buchstabe d, die Nummern 3, 7 und 10 Buchstabe a, so wird sie unter der Bezeichnung „Kraftfahrtversicherung“ erteilt;
+- 2. :: Nummer 1 Buchstabe d, die Nummern 4, 6, 7 und 12, so wird sie unter der Bezeichnung „See- und Transportversicherung“ erteilt;
+- 3. :: Nummer 1 Buchstabe d, die Nummern 5, 7 und 11, so wird sie unter der Bezeichnung „Luftfahrtversicherung“ erteilt;
+- 4. :: die Nummern 8 und 9, so wird sie unter der Bezeichnung „Feuer- und andere Sachschäden“ erteilt;
+- 5. :: die Nummern 10 bis 13, so wird sie unter der Bezeichnung „Haftpflicht“ erteilt;
+- 6. :: die Nummern 14 und 15, so wird sie unter der Bezeichnung „Kredit und Kaution“ erteilt;
+- 7. :: die Nummern 1, 3 bis 13 und 16, so wird sie unter der Bezeichnung „Schaden- und Unfallversicherung“ erteilt.
 
 
 Anlage 3 - Standardformel zur Berechnung der Solvabilitätskapitalanforderung (SCR)
@@ -4906,24 +4906,24 @@ Anlage 3 - Standardformel zur Berechnung der Solvabilitätskapitalanforderung (S
 - 1. :: Berechnung der Basissolvabilitätskapitalanforderung (BSCR)
   Die in § 100 dargelegte Basissolvabilitätskapitalanforderung wird wie folgt ermittelt:
   [[../normengrafiken/bgbl1_2015/j0434-1_0010.jpg]]
-  wobei SCR_{i} das Risikomodul i und SCR_{j} das Risikomodul j bezeichnet; i, j“ bedeutet, dass in der Summe alle möglichen Kombinationen von i und j erfasst sein sollten. Bei der Berechnung treten an die Stelle von SCR_{i} und SCR_{j}:
+  wobei SCR_{i} das Risikomodul i und SCR_{j} das Risikomodul j bezeichnet; „i, j“ bedeutet, dass in der Summe alle möglichen Kombinationen von i und j erfasst sein sollten. Bei der Berechnung treten an die Stelle von SCR_{i} und SCR_{j}:
   SCR_{Nichtleben}: Nichtlebensversicherungstechnisches Risikomodul;
   SCR_{Leben}: Lebensversicherungstechnisches Risikomodul;
   SCR_{Kranken}: Krankenversicherungstechnisches Risikomodul;
   SCR_{Markt}: Risikomodul Marktrisiken;
   SCR_{Ausfall}: Risikomodul Gegenparteiausfall.
-  Der Faktor Corr i, j“ steht für die Angaben in Zeile i und Spalte j der folgenden Korrelationsmatrix:\\
+  Der Faktor „Corr i, j“ steht für die Angaben in Zeile i und Spalte j der folgenden Korrelationsmatrix:\\
   j
 - 2. :: Berechnung des nichtlebensversicherungstechnischen Risikomoduls
   Das in § 101 genannte nichtlebensversicherungstechnische Risikomodul errechnet sich wie folgt:
   [[../normengrafiken/bgbl1_2015/j0434-1_0020.jpg]]
-  wobei SCR_{i} das Untermodul i und SCR_{j} das Untermodul j bezeichnet; i, j“ bedeutet, dass in der Summe alle möglichen Kombinationen von i und j erfasst sein sollten. Bei der Berechnung treten an die Stelle von SCR_{i} und SCR_{j} :
+  wobei SCR_{i} das Untermodul i und SCR_{j} das Untermodul j bezeichnet; „i, j“ bedeutet, dass in der Summe alle möglichen Kombinationen von i und j erfasst sein sollten. Bei der Berechnung treten an die Stelle von SCR_{i} und SCR_{j} :
   SCR_{NL-Prämien/Rückstellung}: Untermodul Nichtlebensversicherungprämien- und ‑reserverisiko;
   SCR_{NL-Katastrophen}: Untermodul Nichtlebenskatastrophenrisiko.
 - 3. :: Berechnung des lebensversicherungstechnischen Risikomoduls
   Das in § 102 genannte lebensversicherungstechnische Risikomodul errechnet sich wie folgt:
   [[../normengrafiken/bgbl1_2015/j0434-1_0030.jpg]]
-  wobei SCR_{i} das Untermodul i und SCRj das Untermodul j bezeichnet; i, j“ bedeutet, dass in der Summe alle möglichen Kombinationen von i und j erfasst sein sollten. Bei der Berechnung treten an die Stelle von SCR_{i} und SCR_{j}:
+  wobei SCR_{i} das Untermodul i und SCRj das Untermodul j bezeichnet; „i, j“ bedeutet, dass in der Summe alle möglichen Kombinationen von i und j erfasst sein sollten. Bei der Berechnung treten an die Stelle von SCR_{i} und SCR_{j}:
   SCR_{Sterblichkeit}: Untermodul Sterblichkeitsrisiko;
   SCR_{Langlebigkeit}: Untermodul Langlebigkeitsrisiko;
   SCR_{Invalidität}: Untermodul Invaliditäts-/Morbiditätsrisiko;
@@ -4935,7 +4935,7 @@ Anlage 3 - Standardformel zur Berechnung der Solvabilitätskapitalanforderung (S
   Struktur des Risikomoduls Marktrisiken
   Das in § 104 genannte Marktrisikomodul errechnet sich wie folgt:
   [[../normengrafiken/bgbl1_2015/j0434-1_0040.jpg]]
-  wobei SCR_{i} das Untermodul i und SCR_{j} das Untermodul j bezeichnet; i, j“ bedeutet, dass in der Summe alle möglichen Kombinationen von i und j erfasst sein sollten. Bei der Berechnung treten an die Stelle von SCR_{i} und SCR_{j}:
+  wobei SCR_{i} das Untermodul i und SCR_{j} das Untermodul j bezeichnet; „i, j“ bedeutet, dass in der Summe alle möglichen Kombinationen von i und j erfasst sein sollten. Bei der Berechnung treten an die Stelle von SCR_{i} und SCR_{j}:
   SCR_{Zins}: Untermodul Zinsänderungsrisiko;
   SCR_{Aktien}: Untermodul Aktienrisiko;
   SCR_{Immobilien}: Untermodul Immobilienrisiko;

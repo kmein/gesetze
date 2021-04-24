@@ -1262,7 +1262,7 @@ Anlage - Höhe der tagesbezogenen Pauschale nach § 1 Absatz 1 Nummer 1
 | 261110027               | Alexianer St. Hedwig-Kliniken Berlin GmbH                                                                | 10115        | Berlin                   | 560 €              |
 | 261110049               | Gemeinschaftskrankenhaus Havelhöhe gGmbH                                                                 | 14089        | Berlin                   | 460 €              |
 | 261110083               | HELIOS Klinikum Emil von Behring                                                                         | 14165        | Berlin                   | 560 €              |
-| 261120029               | Klinik Helle Mitte“ GmbH Berlin                                                                         | 12627        | Berlin                   | 560 €              |
+| 261120029               | Klinik „Helle Mitte“ GmbH Berlin                                                                         | 12627        | Berlin                   | 560 €              |
 | 261200060               | Klinik Ernst von Bergmann Bad Belzig gGmbH                                                               | 14806        | Belzig                   | 460 €              |
 | 261200071               | Ev. Krankenhaus Ludwigsfelde-Teltow gGmbH                                                                | 14974        | Ludwigsfelde             | 360 €              |
 | 261200106               | Kreiskrankenhaus Prignitz                                                                                | 19348        | Perleberg                | 360 €              |
@@ -1276,7 +1276,7 @@ Anlage - Höhe der tagesbezogenen Pauschale nach § 1 Absatz 1 Nummer 1
 | 261200264               | Asklepios Klinikum Uckermarck GmbH                                                                       | 16303        | Schwedt                  | 560 €              |
 | 261200286               | Städtisches Krankenhaus Eisenhüttenstadt GmbH                                                            | 15890        | Eisenhüttenstadt         | 360 €              |
 | 261200297               | Oder-Spree Krankenhaus GmbH                                                                              | 15848        | Beeskow                  | 460 €              |
-| 261200300               | Ev. Krankenhaus Gottesfriede“ Woltersdorf GmbH                                                          | 15569        | Woltersdorf              | 360 €              |
+| 261200300               | Ev. Krankenhaus „Gottesfriede“ Woltersdorf GmbH                                                          | 15569        | Woltersdorf              | 360 €              |
 | 261200311               | Immanuel Klinikum Bernau Herzzentrum Brandenburg                                                         | 16321        | Bernau                   | 760 €              |
 | 261200322               | Klinikum Barnim GmbH Werner-Forßmann-\\                                                                  | 16225        | Eberswalde               | 560 €              |
 |                         | Krankenhaus                                                                                              |              |                          |                    |
@@ -1467,13 +1467,13 @@ Anlage - Höhe der tagesbezogenen Pauschale nach § 1 Absatz 1 Nummer 1
 | 261600020               | Elisabeth Klinikum Schmalkalden GmbH                                                                     | 98574        | Schmalkalden             | 560 €              |
 | 261600042               | Klinikum Bad Salzungen GmbH                                                                              | 36433        | Bad Salzungen            | 460 €              |
 | 261600075               | HELIOS Fachkliniken Hildburghausen                                                                       | 98646        | Hildburghausen           | 560 €              |
-| 261600188               | Thüringen-Kliniken Georgius Agricola“ GmbH                                                              | 07318        | Saalfeld                 | 460 €              |
+| 261600188               | Thüringen-Kliniken „Georgius Agricola“ GmbH                                                              | 07318        | Saalfeld                 | 460 €              |
 | 261600213               | Marienstift Arnstadt                                                                                     | 99310        | Arnstadt                 | 560 €              |
 | 261600246               | HELIOS-Kliniken Bleicherode Fachkrankenhaus für Orthopädie                                               | 99752        | Bleicherode              | 660 €              |
 | 261600280               | SRH Krankenhaus Waltershausen-Friedrichroda GmbH                                                         | 99894        | Friedrichroda            | 560 €              |
 | 261600304               | Waldkliniken Eisenberg GmbH                                                                              | 07607        | Eisenberg                | 660 €              |
 | 261600315               | Kreiskrankenhaus Greiz GmbH                                                                              | 07973        | Greiz                    | 560 €              |
-| 261600337               | Kath. Krankenhaus St. Johann Nepomuk“                                                                   | 99097        | Erfurt                   | 560 €              |
+| 261600337               | Kath. Krankenhaus „St. Johann Nepomuk“                                                                   | 99097        | Erfurt                   | 560 €              |
 | 261600371               | HELIOS Klinik Blankenhain                                                                                | 99444        | Blankenhain              | 760 €              |
 | 261600382               | Robert-Koch-Krankenhaus Apolda GmbH                                                                      | 99510        | Apolda                   | 560 €              |
 | 261600417               | Südharz Klinikum Nordhausen gGmbH                                                                        | 99734        | Nordhausen               | 460 €              |

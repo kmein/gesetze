@@ -1,4 +1,4 @@
-[AufbhV] Verordnung über die Verteilung und Verwendung der Mittel des Fonds Aufbauhilfe“  (Aufbauhilfeverordnung - AufbhV)
+[AufbhV] Verordnung über die Verteilung und Verwendung der Mittel des Fonds „Aufbauhilfe“  (Aufbauhilfeverordnung - AufbhV)
 
 Ausfertigungsdatum: 16.08.2013
 
@@ -108,11 +108,11 @@ Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-Anlage - (zu § 1 Absatz 2 Satz 2)Wirtschaftsplan des Sondervermögens Aufbauhilfe“
+Anlage - (zu § 1 Absatz 2 Satz 2)Wirtschaftsplan des Sondervermögens „Aufbauhilfe“
 
 (Fundstelle: BGBl. I 2014, 1717 -- 1723)
 Vorbemerkung
-In Ausführung des Gesetzes zur Errichtung eines Sondervermögens Aufbauhilfe“ (Aufbauhilfefonds-Errichtungsgesetz -- AufbhG) vom 15. Juli 2013 (BGBl. I S. 2401) wird ein nationaler Fonds Aufbauhilfe“ als Sondervermögen des Bundes errichtet.
+In Ausführung des Gesetzes zur Errichtung eines Sondervermögens „Aufbauhilfe“ (Aufbauhilfefonds-Errichtungsgesetz -- AufbhG) vom 15. Juli 2013 (BGBl. I S. 2401) wird ein nationaler Fonds „Aufbauhilfe“ als Sondervermögen des Bundes errichtet.
 Der Fonds dient der Leistung von Hilfen in den im Sommer 2013 vom Hochwasser betroffenen Ländern. Mit den Fondsmitteln werden Maßnahmen zur Beseitigung der Hochwasserschäden und zum Wiederaufbau der zerstörten Infrastruktur finanziert. Sein Volumen beträgt 8 Mrd. Euro. Die Länder beteiligen sich an der Finanzierung durch die Übernahme von Zinsen und Tilgungen. Dies erfolgt in den Jahren 2014 bis 2019 durch eine Änderung der Umsatzsteuerverteilung zwischen Bund und Ländern und in den Jahren 2020 bis 2033 durch direkte Zahlungen der Länder an den Bund. Weitere Mittel kommen aus dem EU-Solidaritätsfonds.
 Gemäß § 1 Abs. 2 Satz 2 AufbhG werden die von Bund und Ländern geleisteten Soforthilfen, über die im Jahr 2013 Verwaltungsvereinbarungen zwischen dem Bund und den Ländern geschlossen wurden, aus den Mitteln des Fonds erstattet.
 | Überblick                                            | Soll\\  | Soll\\    | Veränderung\\ | Ausgabe-\\ | Ist\\   |
@@ -144,90 +144,90 @@ Soll\\
 Ist\\
 2012\\
 1 000 €
-
+ 
 Einnahmen
-
-
-
-
+ 
+ 
+ 
+ 
 Übrige Einnahmen
-
-
-
+ 
+ 
+ 
 231 01\\
 -813
 Zuführungen des Bundes
 --
 8 000 000
-
+ 
 272 01\\
 -813
 Zuschüsse von der Europäischen Union
 --
 --
-
-
+ 
+ 
 Haushaltsvermerk
-
-
-
-
+ 
+ 
+ 
+ 
 Mehreinnahmen sind wegen bindender Vorgaben der EU zweckgebunden. Sie dienen nur zur Leistung der Mehrausgaben bei folgenden Titeln: Anlage 4 zu Kap. 6002.
-
-
-
-
+ 
+ 
+ 
+ 
 Titelgruppe 01
-
-
-
+ 
+ 
+ 
 Tgr. 01
 Infrastruktur des Bundes
 (--)
 (--)
-
+ 
 359 11\\
 -850
 Entnahme aus Rücklage
 --
 --
-
-
+ 
+ 
 Haushaltsvermerk
-
-
-
-
+ 
+ 
+ 
+ 
 Mehreinnahmen sind gemäß Aufbauhilfefonds-Errichtungsgesetz zweckgebunden. Sie dienen nur zur Leistung der Mehrausgaben bei folgenden Titeln: Tgr. 01 Kap. 6095.
-
-
-
-
+ 
+ 
+ 
+ 
 Titelgruppe 02
-
-
-
+ 
+ 
+ 
 Tgr. 02
 Beseitigung der Hochwasserschäden in den Ländern
 (--)
 (--)
-
+ 
 359 21\\
 -850
 Entnahme aus Rücklage
 --
 --
-
-
+ 
+ 
 Haushaltsvermerk
-
-
-
-
+ 
+ 
+ 
+ 
 Mehreinnahmen sind gemäß Aufbauhilfefonds-Errichtungsgesetz zweckgebunden. Sie dienen nur zur Leistung der Mehrausgaben bei folgenden Titeln: Tgr. 02 Kap. 6095.
-
-
-
+ 
+ 
+ 
 \\
 \\
 Titel\\
@@ -242,33 +242,33 @@ Soll\\
 Ist\\
 2012\\
 1 000 €
-
+ 
 Ausgaben
-
-
-
-
+ 
+ 
+ 
+ 
 Haushaltsvermerk:
-
-
-
-
+ 
+ 
+ 
+ 
 1.
 Mehrausgaben zu Nr. 2 und 3 der Erläuterungen dürfen bis zur Höhe der zweckgebundenen Mehreinnahmen bei folgenden Titeln geleistet werden: 272 01, 359 11 und 359 21.
-
-
-
-
+ 
+ 
+ 
+ 
 2.
 Erstattungen und Rückzahlungen fließen den Ausgaben zu.
-
-
-
-
+ 
+ 
+ 
+ 
 Erläuterungen:
-
-
-
+ 
+ 
+ 
 Bezeichnung
 1 000 €
 1.
@@ -282,26 +282,26 @@ Entnahmen aus Rücklagen
 --
 Zusammen
 --
-
+ 
 Titelgruppe 01
-
-
-
+ 
+ 
+ 
 Tgr. 01
 Infrastruktur des Bundes
 (--)
 (1 320 000)
-
-
+ 
+ 
 Haushaltsvermerk:
-
-
-
-
+ 
+ 
+ 
+ 
 Die Ausgaben der Tgr. 01 sind gegenseitig deckungsfähig.
-
-
-
+ 
+ 
+ 
 611 01\\
 -813
 Zuführung an den Bund
@@ -344,26 +344,26 @@ Zuführung an Rücklage
 --
 --
 --
-
+ 
 Titelgruppe 02
-
-
-
+ 
+ 
+ 
 Tgr. 02
 Beseitigung der Hochwasserschäden in den Ländern
 (--)
 (6 680 000)
-
-
+ 
+ 
 Haushaltsvermerk:
-
-
-
-
+ 
+ 
+ 
+ 
 Die Ausgaben der Tgr. 02 sind gegenseitig deckungsfähig.
-
-
-
+ 
+ 
+ 
 611 21\\
 -820
 Erstattung an den Bund
@@ -390,11 +390,11 @@ Soforthilfen der Länder
 --
 369 742
 --
-
+ 
 Erläuterungen:
-
-
-
+ 
+ 
+ 
 Bezeichnung
 1 000 €
 Sachsen-Anhalt
@@ -427,11 +427,11 @@ Programm zur Unterstützung hochwasserbetroffener Unternehmen der gewerblichen W
 --
 527 468
 --
-
+ 
 Erläuterungen:
-
-
-
+ 
+ 
+ 
 Bezeichnung
 1 000 €
 Sachsen-Anhalt

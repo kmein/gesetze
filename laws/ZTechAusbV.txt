@@ -206,22 +206,22 @@ Lesen und Anwenden von technischen Unterlagen sowie Einsetzen und Handhaben von 
 
 3*)
 
+ 
 
+ 
 
-
-
-
+ 
 
 - e) :: Maschinen, Anlagen und Geräte für formgebende und -verändernde Verfahren, insbesondere rotierende Instrumente, Öfen, Gußmaschinen, galvanotechnische Bäder, Löt- und Schweißgeräte, einstellen, programmieren und handhaben
 - f) :: Störungen an Meßgeräten, Bearbeitungsmaschinen und technischen Einrichtungen feststellen und Maßnahmen zur Störungsbeseitigung ergreifen
 
-
+ 
 
 3*)
 
+ 
 
-
-
+ 
 
 6
 
@@ -237,21 +237,21 @@ Beurteilen und Einsetzen von Werk- und Hilfsstoffen\\
 
 3*)
 
+ 
 
+ 
 
-
-
-
+ 
 
 - g) :: Oberflächen durch elektrochemische Verfahren bearbeiten
 - h) :: Oberflächenverbundsysteme, insbesondere durch Silanisieren, herstellen
 - i) :: Gefügeeigenschaften von Werkstoffen, insbesondere durch Rekristallisieren, Homogenisieren, Vergüten und Tempern, ändern
 
+ 
 
+ 
 
-
-
-
+ 
 
 3*)
 
@@ -264,24 +264,24 @@ Qualitätsmanagement\\
 - b) :: Fertigungsschritte, insbesondere Modell, Biß, Zustand und eingestellte Werte des Kaubewegungssimulators, beurteilen und dokumentieren
 - c) :: Produktqualität, insbesondere Zahnform, -farbe und -stellung, Oberfläche, Sauberkeit und Hygiene, beurteilen und dokumentieren
 
-
+ 
 
 3*)
 
+ 
 
-
-
+ 
 
 - d) :: funktionelle Ränder, Materialstärken und Paßgenauigkeit beurteilen und dokumentieren
 - e) :: Qualitätsabweichungen feststellen sowie Fehlerursachen aufzeigen und beseitigen
 
+ 
 
-
-
+ 
 
 3*)
 
-
+ 
 
 8
 
@@ -295,21 +295,21 @@ Erstellen von zahntechnischen Planungen\\
 
 2*)
 
+ 
 
+ 
 
-
-
-
+ 
 
 - e) :: Planungsmodelle und -skizzen anfertigen
 - f) :: Auftraggeber über technische Möglichkeiten der Werkstückkonstruktion beraten
 - g) :: Auftraggeber über die Biokompatibilität der Werkstoffe informieren und Alternativen aufzeigen
 
+ 
 
+ 
 
-
-
-
+ 
 
 3*)
 
@@ -325,11 +325,11 @@ Erstellen von Arbeitsunterlagen nach Abformungen\\
 
 9
 
+ 
 
+ 
 
-
-
-
+ 
 
 10
 
@@ -342,22 +342,22 @@ Anfertigen von Bißregistrierhilfen und Umsetzen in Kieferbewegungssimulatoren\\
 
 7
 
+ 
 
+ 
 
-
-
-
+ 
 
 - d) :: Modelle nach individuellen Vorgaben lagerichtig in Bewegungssimulationsgeräte übertragen
 - e) :: Bewegungssimulationsgeräte nach Meßdaten einstellen
 
+ 
 
-
-
+ 
 
 3
 
-
+ 
 
 11
 
@@ -372,42 +372,42 @@ Herstellen von partiellem Zahnersatz\\
 
 12
 
+ 
 
+ 
 
-
-
-
+ 
 
 - f) :: Restgebiß in bezug auf Basisgestaltung und Plazierung retentiver und abstützender Elemente analysieren
 - g) :: vorgesehene Halte- und Stützelemente, insbesondere Klammern, Doppelkronen und Geschiebe, funktionsorientiert beurteilen
 
-
+ 
 
 8
 
+ 
 
-
-
+ 
 
 - h) :: Einstückgußprothese unter Berücksichtigung von Gewebebelastung, Statik, Werkstoff, Phonetik, Ästhetik und Parodontalhygiene konstruieren
 - i) :: Gerüst für Einstückgußprothese mit integrierten Halte- und Stützelementen herstellen, insbesondere durch Duplizieren des Hauptmodells sowie Modellieren, Einbetten und Gießen des Gerüstes
 - k) :: Metallbasen für totale Prothesen konstruieren und herstellen
 
+ 
 
-
-
+ 
 
 9
 
-
+ 
 
 - l) :: Gerüst für Einstückgußprothese ausarbeiten und Passungen herstellen
 
+ 
 
+ 
 
-
-
-
+ 
 
 5
 
@@ -424,22 +424,22 @@ Herstellen von totalem Zahnersatz\\
 
 16
 
+ 
 
+ 
 
-
-
-
+ 
 
 - f) :: Zähne nach Funktion und Ästhetik des Ober- und Unterkiefers systembezogen in Wachs aufstellen
 - g) :: Prothesen reokkludieren und Funktionsstörungen durch selektives Einschleifen korrigieren
 
-
+ 
 
 8
 
+ 
 
-
-
+ 
 
 13
 
@@ -452,11 +452,11 @@ Herstellen von kieferorthopädischen Geräten\\
 - d) :: Dehnplatten und Aktivatoren herstellen
 - e) :: kieferorthopädische Geräte reparieren, nachträglich erweitern und unterfüttern
 
+ 
 
+ 
 
-
-
-
+ 
 
 6
 
@@ -467,13 +467,13 @@ Herstellen von festsitzendem Zahnersatz\\
 
 - a) :: Kauflächen und weitere funktionelle Zahnflächen unter Berücksichtigung von Gegenzahnbeziehungen aufbauen und selektiv einschleifen
 
-
+ 
 
 4
 
+ 
 
-
-
+ 
 
 - b) :: Arbeitsunterlagen beurteilen
 - c) :: Präparationsart erkennen sowie Präparationsgrenze freilegen und kennzeichnen
@@ -487,31 +487,31 @@ Herstellen von festsitzendem Zahnersatz\\
 - l) :: Voll- und Verblendkronen funktionsgerecht herstellen
 - m) :: Wurzelkappen und Stiftaufbauten herstellen
 
+ 
 
-
-
+ 
 
 11
 
-
+ 
 
 - n) :: mehrgliedrige Brücken funktionsgerecht herstellen
 
+ 
 
+ 
 
-
-
-
+ 
 
 10
 
 - o) :: Teilkronen und indirekte Füllungen, insbesondere Inlays und Onlays, aus unterschiedlichen Werkstoffen funktionsgerecht herstellen
 
+ 
 
+ 
 
-
-
-
+ 
 
 5
 
@@ -526,11 +526,11 @@ Verarbeiten von zahnfarbenen Werkstoffen\\
 - d) :: Verblendungen zum Erzielen vorgegebener Farbwirkungen und Lichteffekte gestalten
 - e) :: Verblendungen anatomisch anpassen und Funktionsflächen selektiv einschleifen
 
+ 
 
+ 
 
-
-
-
+ 
 
 7
 
@@ -541,11 +541,11 @@ Verarbeiten von zahnfarbenen Werkstoffen\\
 - k) :: Verblendungen durch Bemalen patientengerecht anpassen
 - l) :: Mantelkronen aus Einstoffkomponenten herstellen
 
+ 
 
+ 
 
-
-
-
+ 
 
 15
 
@@ -558,11 +558,11 @@ Einarbeiten von konfektionierten Verbindungselementen; Herstellen von individuel
 - b) :: konfektionierte Geschiebe, Anker und Stege nach Funktion, Material und Abmessung auswählen
 - c) :: konfektionierte Verbindungselemente nach Einschubrichtung, Bißsituation, Statik und harmonischer Beziehung zum Restgebiß einmodellieren
 
+ 
 
+ 
 
-
-
-
+ 
 
 5
 
@@ -571,11 +571,11 @@ Einarbeiten von konfektionierten Verbindungselementen; Herstellen von individuel
 - f) :: Verbindungselemente durch Löten, Angießen und Kleben einarbeiten
 - g) :: Funktion, Abzugskräfte, Handhabung, Stabilität und Gegenzahnbeziehung der Verbindungselemente prüfen und dokumentieren
 
+ 
 
+ 
 
-
-
-
+ 
 
 15
 
@@ -588,11 +588,11 @@ Herstellen von therapeutischen Geräten\\
 - b) :: Wundverschlußplatten herstellen
 - c) :: Schienen, Bißführungsplatten und Aufbißbehelfe herstellen
 
+ 
 
+ 
 
-
-
-
+ 
 
 4
 

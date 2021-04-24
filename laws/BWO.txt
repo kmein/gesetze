@@ -8,7 +8,7 @@ Inhaltsübersicht
 
 Erster Abschnitt
 Wahlorgane (§§ 1 bis 11)
-
+ 
 § 1
 Bundeswahlleiter
 § 2
@@ -32,21 +32,21 @@ Auslagenersatz für Inhaber von Wahlämtern,\\
 Erfrischungsgeld
 § 11
 Geldbußen
-
+ 
 Zweiter Abschnitt
 Vorbereitung der Wahl (§§ 12 bis 48)
-
+ 
   Erster Unterabschnitt\\
 Wahlbezirke
-
+ 
 § 12
 Allgemeine Wahlbezirke
 § 13
 Sonderwahlbezirke
-
+ 
   Zweiter Unterabschnitt\\
 Wählerverzeichnis
-
+ 
 § 14
 Führung des Wählerverzeichnisses
 § 15
@@ -74,10 +74,10 @@ Beschwerde
 Berichtigung des Wählerverzeichnisses
 § 24
 Abschluss des Wählerverzeichnisses
-
+ 
   Dritter Unterabschnitt\\
 Wahlscheine
-
+ 
 § 25
 Voraussetzungen für die Erteilung von\\
 Wahlscheinen
@@ -95,10 +95,10 @@ Vermerk im Wählerverzeichnis
 § 31
 Einspruch gegen die Versagung des Wahlscheines\\
 und Beschwerde
-
+ 
   Vierter Unterabschnitt\\
 Wahlvorschläge, Stimmzettel
-
+ 
 § 32
 Aufforderung zur Einreichung von\\
 Wahlvorschlägen
@@ -134,23 +134,23 @@ Bekanntmachung der Landeslisten
 (weggefallen)
 § 45
 Stimmzettel, Umschläge für die Briefwahl
-
+ 
   Fünfter Unterabschnitt\\
 Wahlräume, Wahlzeit
-
+ 
 § 46
 Wahlräume
 § 47
 Wahlzeit
 § 48
 Wahlbekanntmachung der Gemeindebehörde
-
+ 
 Dritter Abschnitt
 Wahlhandlung (§§ 49 bis 66)
-
+ 
   Erster Unterabschnitt\\
 Allgemeine Bestimmungen
-
+ 
 § 49
 Ausstattung des Wahlvorstandes
 § 50
@@ -175,10 +175,10 @@ Stimmabgabe von Wählern mit Behinderungen
 Stimmabgabe von Inhabern eines Wahlscheines
 § 60
 Schluss der Wahlhandlung
-
+ 
   Zweiter Unterabschnitt\\
 Besondere Regelungen
-
+ 
 § 61
 Wahl in Sonderwahlbezirken
 § 62
@@ -193,11 +193,11 @@ und Justizvollzugsanstalten
 (weggefallen)
 § 66
 Briefwahl
-
+ 
 Vierter Abschnitt
 Ermittlung und Feststellung\\
 der Wahlergebnisse (§§ 67 bis 81)
-
+ 
 § 67
 Ermittlung und Feststellung des Wahlergebnisses im Wahlbezirk
 § 68
@@ -236,21 +236,21 @@ Landeslistenbewerber
 § 81
 Überprüfung der Wahl durch die Landeswahlleiter\\
 und den Bundeswahlleiter
-
+ 
 Fünfter Abschnitt
 Nachwahl, Wiederholungswahl,\\
 Berufung von Listennachfolgern (§§ 82 bis 84)
-
+ 
 § 82
 Nachwahl
 § 83
 Wiederholungswahl
 § 84
 Berufung von Listennachfolgern
-
+ 
 Sechster Abschnitt
 Übergangs- und Schlussbestimmungen (§§ 85 bis 93)
-
+ 
 § 85
 Datenschutzrechtliche Spezialregelungen
 § 86
@@ -269,152 +269,152 @@ Stadtstaatklausel
 (Änderung der Bundeswahlgeräteverordnung)
 § 93
 (Inkrafttreten, Außerkrafttreten)
-
+ 
 Anlagen:
-
+ 
 Anlage 1
 (zu § 18 Absatz 6)
 Antrag auf Eintragung in das Wählerverzeichnis von Wahlberechtigten nach § 12 Absatz 2 Bundeswahlgesetz, die in die Bundesrepublik Deutschland zurückkehren, sowie Versicherung an Eides statt -- Erst- und Zweitausfertigung -- und Merkblatt zum Antrag
-
+ 
 Anlage 2
 (zu § 18 Abs. 5)
 Antrag auf Eintragung in das Wählerverzeichnis von\\
 Wahlberechtigten, die außerhalb der Bundesrepublik Deutschland\\
 leben, sowie Versicherung an Eides statt - Erst- und Zweitausfertigung -\\
 und Merkblatt zum Antrag
-
+ 
 Anlage 3
 (zu § 19 Abs. 1)
 Wahlbenachrichtigung
-
+ 
 Anlage 4
 (zu § 19 Abs. 2)
 Wahlscheinantrag
-
+ 
 Anlage 5
 (zu § 20 Abs. 1)
 Bekanntmachung der Gemeindebehörde über das Recht auf Einsicht\\
 in das Wählerverzeichnis und die Erteilung von Wahlscheinen
-
+ 
 Anlage 6
 (zu § 20 Abs. 2)
 Bekanntmachung der Vertretungen der Bundesrepublik Deutschland\\
 im Ausland für Deutsche zur Wahl zum Deutschen Bundestag
-
+ 
 Anlage 7
 (weggefallen)
-
+ 
 Anlage 8
 (zu § 24 Abs. 1)
 Beurkundung des Abschlusses des Wählerverzeichnisses\\
 durch die Gemeindebehörde
-
+ 
 Anlage 9
 (zu § 26)
 Wahlschein
-
+ 
 Anlage 10
 (zu § 28 Abs. 3 und § 45 Abs. 3)
 Stimmzettelumschlag für die Briefwahl - Vorder- und Rückseite -
-
+ 
 Anlage 11
 (zu § 28 Abs. 3 und § 45 Abs. 4)
 Wahlbriefumschlag - Vorder- und Rückseite -
-
+ 
 Anlage 12
 (zu § 28 Abs. 3)
 Merkblatt zur Briefwahl - Vorder- und Rückseite -
-
+ 
 Anlage 13
 (zu § 34 Abs. 1)
 Kreiswahlvorschlag
-
+ 
 Anlage 14
 (zu § 34 Abs. 4)
 Unterstützungsunterschrift und Bescheinigung des\\
 Wahlrechts (Kreiswahlvorschlag)
-
+ 
 Anlage 15
 (zu § 34 Abs. 5 Nr. 1 und 3 Buchstabe b)
 Zustimmungserklärung für Bewerber eines Kreiswahlvorschlages\\
 mit der Versicherung an Eides statt\\
 zur Parteimitgliedschaft für Bewerber eines Kreiswahlvorschlages einer Partei
-
+ 
 Anlage 16
 (zu § 34 Abs. 5 Nr. 2 und § 39 Abs. 4 Nr. 2)
 Bescheinigung der Wählbarkeit
-
+ 
 Anlage 17
 (zu § 34 Abs. 5 Nr. 3 Buchstabe a)
 Niederschrift über die Mitglieder-/Vertreterversammlung\\
 zur Aufstellung des Bewerbers für den Wahlkreis
-
+ 
 Anlage 18
 (zu § 34 Abs. 5 Nr. 3 Buchstabe a)
 Versicherung an Eides statt zur Bewerberaufstellung im Wahlkreis
-
+ 
 Anlage 19
 (zu § 36 Abs. 6)
 Niederschrift über die Sitzung des Kreiswahlausschusses\\
 zur Entscheidung über die Zulassung der eingereichten\\
 Kreiswahlvorschläge
-
+ 
 Anlage 20
 (zu § 39 Abs. 1)
 Landesliste
-
+ 
 Anlage 21
 (zu § 39 Abs. 3)
 Unterstützungsunterschrift und Bescheinigung des\\
 Wahlrechts (Landesliste)
-
+ 
 Anlage 22
 (zu § 39 Abs. 4 Nr. 1)
 Zustimmungserklärung und Versicherung an Eides statt zur Parteimitgliedschaft für Bewerber\\
 einer Landesliste
-
+ 
 Anlage 23
 (zu § 39 Abs. 4 Nr. 3)
 Niederschrift über die Mitglieder-/Vertreterversammlung\\
 zur Aufstellung der Bewerber für die Landesliste
-
+ 
 Anlage 24
 (zu § 39 Abs. 4 Nr. 3)
 Versicherung an Eides statt zur Aufstellung der Landeslistenbewerber
-
+ 
 Anlage 25
 (weggefallen)
-
+ 
 Anlage 26
 (zu § 28 Abs. 3 und § 45 Abs. 1)
 Stimmzettel
-
+ 
 Anlage 27
 (zu § 48 Abs. 1)
 Wahlbekanntmachung der Gemeindebehörde
-
+ 
 Anlage 28
 (zu § 71 Abs. 7 und § 75 Abs. 4)
 Schnellmeldung über das Ergebnis der Wahl
-
+ 
 Anlage 29
 (zu § 72 Abs. 1)
 Wahlniederschrift (Urnenwahl)
-
+ 
 Anlage 30
 (zu § 72 Abs. 3, § 75 Abs. 6, § 76 Abs. 1 und 6, § 77 Abs. 1, § 78 Abs. 4)
 Zusammenstellung der endgültigen Ergebnisse der Wahl
-
+ 
 Anlage 31
 (zu § 75 Abs. 5)
 Wahlniederschrift (Briefwahl)
-
+ 
 Anlage 32
 (zu § 76 Abs. 6)
 Niederschrift über die Sitzung des Kreiswahlausschusses\\
 zur Ermittlung und Feststellung des Wahlergebnisses im\\
 Wahlkreis
-
+ 
 Anlage 33
 (zu § 77 Abs. 4)
 Niederschrift über die Sitzung des Landeswahlausschusses\\
@@ -1325,14 +1325,14 @@ Statistisches Bundesamt\\
 Zweigstelle Bonn\\
 Postfach 17 03 77\\
 53029 Bonn
-
-
-
-
+ 
+ 
+ 
+ 
 Vom Antragsteller nicht abzusenden.\\
 Wird von der Gemeindebehörde übersandt.
-
-
+ 
+ 
 Betreff: Register nach § 18 Abs. 6 BWO
 Name und Anschrift der Gemeindebehörde:
 ..........
@@ -1352,18 +1352,18 @@ Antrag auf Eintragung in das Wählerverzeichnis für Rückkehrer
 
 Wahlberechtigte können an der Wahl zum Deutschen Bundestag grundsätzlich nur teilnehmen, wenn sie in der Bundesrepublik Deutschland in einem Wählerverzeichnis eingetragen sind.
 
-
+ 
 
 Wahlberechtigt sind nach § 12 Absatz 1 Bundeswahlgesetz alle Deutschen im Sinne des Artikels 116 Absatz 1 des Grundgesetzes, die am Wahltag das 18. Lebensjahr vollendet haben, nicht nach § 13 Bundeswahlgesetz vom Wahlrecht ausgeschlossen sind und seit mindestens drei Monaten in der Bundesrepublik Deutschland eine Wohnung innehaben oder sich sonst gewöhnlich aufhalten.
 
-
+ 
 
 Deutsche, die außerhalb der Bundesrepublik Deutschland leben und in der Bundesrepublik Deutschland nicht für eine Wohnung gemeldet sind, sind wahlberechtigt sofern sie
 
 - -- :: entweder nach Vollendung ihres 14. Lebensjahres mindestens drei Monate ununterbrochen in der Bundesrepublik Deutschland eine Wohnung innegehabt oder sich sonst gewöhnlich aufgehalten haben und dieser Aufenthalt nicht länger als 25 Jahre zurückliegt,
 - -- :: oder aus anderen Gründen persönlich und unmittelbar Vertrautheit mit den politischen Verhältnissen in der Bundesrepublik Deutschland erworben haben und von ihnen betroffen sind.<<FnR.FnA4-f797800_03>>[[#FnA4-f797800_03][*)]]} Siehe hierzu auch die Erläuterungen unter ⑩.
 
-
+ 
 
 Kehren Deutsche, die im Ausland gelebt haben und in der Bundesrepublik Deutschland in dieser Zeit nicht für eine Wohnung gemeldet waren, in das Inland zurück und melden sich hier wieder für eine Wohnung an (Rückkehrer aus dem Ausland), gilt für die Erforderlichkeit und Art der Antragstellung Folgendes:
 
@@ -1372,7 +1372,7 @@ Kehren Deutsche, die im Ausland gelebt haben und in der Bundesrepublik Deutschla
   Wer bereits vor seiner Rückkehr vom Ausland aus einen Antrag nach Anlage 2 (zu § 18 Absatz 5 Bundeswahlordnung) für im Ausland lebende Deutsche gestellt hatte, hat sein Wahlrecht in der Gemeinde auszuüben, in der er aufgrund seiner Antragstellung in das Wählerverzeichnis eingetragen worden ist.
 - -- :: Wer sich erst nach dem 21. Tag vor der Wahl in der Bundesrepublik Deutschland anmelden wird, muss bereits vor seiner Rückkehr in die Bundesrepublik Deutschland vom Ausland aus bis zum 21. Tag vor der Wahl bei der zuständigen Gemeindebehörde den Antrag auf Eintragung in das Wählerverzeichnis nach Anlage 2 (zu § 18 Absatz 5 Bundeswahlordnung) für im Ausland lebende Deutsche stellen, weil er sonst nicht mehr in das Wählerverzeichnis eingetragen wird.
 
-
+ 
 
 Für jeden Antragsteller ist ein besonderes Formblatt (in Erst- und Zweitausfertigung) auszufüllen. Sammelanträge sind nicht möglich.
 
@@ -1388,10 +1388,10 @@ Aktuelle Wohnanschrift im Inland (Zuzugsort).
 
 Anzugeben ist die vor dem Fortzug aus der Bundesrepublik Deutschland*) zuletzt mindestens drei Monate ununterbrochen innegehabte und bei der Meldebehörde gemeldete Wohnung. Wurde diese Dreimonatsfrist nur durch das Innehaben weiterer gemeldeter Wohnungen erfüllt, so sind auch diese anzugeben.
 
-Wenn der Antragsteller sich in der Bundesrepublik Deutschland[[#FnA4-f797800_03][*)]]} gewöhnlich aufgehalten hat, ohne für eine Wohnung gemeldet zu sein, bitte statt der Anschrift angeben: Mein Aufenthalt ist bekannt der “\\
+Wenn der Antragsteller sich in der Bundesrepublik Deutschland[[#FnA4-f797800_03][*)]]} gewöhnlich aufgehalten hat, ohne für eine Wohnung gemeldet zu sein, bitte statt der Anschrift angeben: „Mein Aufenthalt ist bekannt der “\\
 (Angabe der Gemeindebehörde, der der gewöhnliche Aufenthalt zuletzt angezeigt oder sonst nachgewiesen war).
 
-
+ 
 
 Von Seeleuten, die zuletzt auf einem Seeschiff gemustert waren, das die Bundesflagge zu führen berechtigt war, und danach nur noch auf Schiffen unter fremder Flagge fahren, mit folgenden Angaben auszufüllen: Name des letzten deutschen Schiffes, Name des Reeders, Sitz des Reeders (Ort, Land).
 
@@ -1426,15 +1426,15 @@ Kehren Deutsche, die im Ausland gelebt haben, nach dem 42. Tag vor der Wahl in d
 
 Das linke Kästchen ist anzukreuzen, wenn alle dort genannten Voraussetzungen auf den Antragsteller/die Antragstellerin zutreffen. Dies gilt auch, wenn der Antragsteller/die Antragstellerin sich in der Bundesrepublik Deutschland gewöhnlich aufgehalten hat, ohne für eine Wohnung gemeldet zu sein. Vergleiche die Erläuterungen unter ④ Absatz 2.
 
-
+ 
 
 Das rechte Kästchen ist anzukreuzen, wenn nicht alle der beim linken Kästchen genannten Voraussetzungen auf den Antragsteller/die Antragstellerin zutreffen (zum Beispiel weil er/sie niemals eine Wohnung in der Bundesrepublik Deutschland inne hatte oder ein Fortzug länger als 25 Jahre zurückliegt), er/sie aber statt dessen aus anderen, vergleichbaren Gründen persönlich und unmittelbar Vertrautheit mit den politischen Verhältnissen in der Bundesrepublik Deutschland erworben hat und gegenwärtig von ihnen betroffen ist.[[#FnA4-f797800_03][*)]]}
 
-
+ 
 
 In diesen Fällen ist auf einem gesonderten Blatt zu begründen, wodurch und in welcher Weise der Antragsteller/die Antragstellerin persönlich und unmittelbar (auf Grund eigener Erfahrung) Vertrautheit mit den politischen Verhältnissen in der Bundesrepublik Deutschland erworben hat und gegenwärtig von ihnen betroffen ist. Zum Beleg können dem Antrag Unterlagen beigefügt werden.
 
-
+ 
 
 Wahlberechtigt können beispielsweise folgende dauerhaft im Ausland lebende deutsche Staatsangehörige sein (für die nicht bereits die beim linken Kästchen genannten Voraussetzungen zutreffen):
 
@@ -1489,7 +1489,7 @@ Wahlberechtigte, die in der Bundesrepublik Deutschland noch für eine Wohnung ge
 |   | Für Seeleute, die nicht von Amts wegen in das Wählerverzeichnis einzutragen sind, gelten Sonderbestimmungen nach § 17 Absatz 2 Nummer 5 der Bundeswahlordnung (BWO).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | ③ | Von Seeleuten, die auf einem Schiff unter fremder Flagge fahren, mit folgenden Angaben auszufüllen: Name des Schiffes, Name des Reeders, Sitz des Reeders (Ort und Staat).                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | ④ | Anzugeben ist die vor dem Fortzug aus der Bundesrepublik Deutschland*) zuletzt mindestens drei Monate ununterbrochen innegehabte und bei der Meldebehörde gemeldete Wohnung. Wurde diese Dreimonatsfrist nur durch das Innehaben weiterer gemeldeter Wohnungen erfüllt, so sind auch diese anzugeben.                                                                                                                                                                                                                                                                                                                                                    |
-|   | Wenn der Antragsteller sich in der Bundesrepublik Deutschland*) gewöhnlich aufgehalten hat, ohne für eine Wohnung gemeldet zu sein, bitte statt der Anschrift angeben: Mein Aufenthalt ist bekannt der ..........“\\                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|   | Wenn der Antragsteller sich in der Bundesrepublik Deutschland*) gewöhnlich aufgehalten hat, ohne für eine Wohnung gemeldet zu sein, bitte statt der Anschrift angeben: „Mein Aufenthalt ist bekannt der ..........“\\                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 |   | (Angabe der Gemeindebehörde, der der gewöhnliche Aufenthalt zuletzt angezeigt oder sonst nachgewiesen war).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 |   | Von Seeleuten (siehe die Erläuterungen unter ③), die zuletzt auf einem Seeschiff gemustert waren, das die Bundesflagge zu führen berechtigt war, und danach nur noch auf Schiffen unter fremder Flagge fahren, mit folgenden Angaben auszufüllen: Name des letzten deutschen Schiffes, Name des Reeders, Sitz des Reeders (Ort, Land).                                                                                                                                                                                                                                                                                                                   |
 | ⑤ | Von Seeleuten (siehe die Erläuterungen unter ③) hier mit folgenden Angaben auszufüllen: Datum der letzten Abmusterung von einem Seeschiff, das die deutsche Flagge zu führen berechtigt war, Name und Nationalität des Seeschiffes unter fremder Flagge.                                                                                                                                                                                                                                                                                                                                                                                                 |
@@ -1522,49 +1522,49 @@ Anlage 3 - (zu § 19 Absatz 1)
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 Stadt Bonn\\
 Die Oberbürgermeisterin4)}
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Wahlbenachrichtigung\\
 für die Wahl zum Deutschen Bundestag<<FnR.FnA1-f797800_06>>[[#FnA1-f797800_06][2)]]}
-
-
-
-
+ 
+ 
+ 
+ 
 Freimachungs-\\
 vermerk<<FnR.FnA2-f797800_11>>[[#FnA2-f797800_11][7)]]}
-
-
-
+ 
+ 
+ 
 \\
 Wahltag: Sonntag, der ..............................7)}, Wahlzeit: 8.00 Uhr bis 18.00 Uhr\\
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Wahlraum<<FnR.FnA1-f797800_08>>[[#FnA1-f797800_08][4)]]}\\
 Schulgebäude Agnesstraße 1\\
 53225 Bonn\\
@@ -1572,59 +1572,59 @@ barrierefrei/nicht barrierefrei<<FnR.FnA2-f797800_09>>[[#FnA2-f797800_09][5)]]}
 Wahlkreis/Wahlbezirk/\\
 Nummer im Wählerverzeichnis\\
 316 / 00345
-
-
+ 
+ 
 ggf. Weisung zum Sendungsverbleib bei\\
 Unzustellbarkeit und Umzug<<FnR.FnA2-f797800_12>>[[#FnA2-f797800_12][8)]]}
-
-
+ 
+ 
 Auskünfte zu barrierefreien Wahlräumen erhalten Sie unter der Telefonnummer: ...... / .....................,\\
 zu Hilfsmitteln für Blinde und Sehbehinderte unter der Telefonnummer: ...... / .....................<<FnR.FnA2-f797800_10>>[[#FnA2-f797800_10][6)]]}
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Sehr geehrte Bürgerin, sehr geehrter Bürger,
-
-
-
-
+ 
+ 
+ 
+ 
 Sie sind im Wählerverzeichnis eingetragen und können im oben angegebenen Wahlraum wählen.\\
 Bringen Sie dazu bitte diese Wahlbenachrichtigung mit und halten Sie Ihren Personalausweis oder Reisepass bereit. Sie dürfen Ihr Wahlrecht nur persönlich und nur einmal ausüben.
-
-
+ 
+ 
 <<FnR.FnA1-f797800_07>>[[#FnA1-f797800_07][3)]]}  Herrn/Frau\\
 ..........[[#FnA2-f797800_11][7)]]}\\
 ..........\\
 ..........
-
+ 
 Wenn Sie durch Briefwahl oder in einem anderen Wahlraum in Ihrem Wahlkreis wählen wollen, müssen Sie einen Wahlschein beantragen. Den Antrag können Sie mit dem Vordruck auf der Rückseite stellen. Er kann auch ohne Vordruck schriftlich, elektronisch oder mündlich (nicht telefonisch) gestellt werden. Dabei sind Familienname, Vornamen, Geburtsdatum und Anschrift (Straße, Hausnummer, Postleitzahl, Ort) anzugeben; auch dann soll die oben mitgeteilte Nummer im Wählerverzeichnis angegeben werden. Der Antrag kann bei der zuständigen Gemeindebehörde abgegeben oder in einem frankierten Umschlag übersandt werden. Wahlscheinanträge werden von der Gemeindebehörde nur bis zum .........7)} 18.00 Uhr entgegengenommen, bei nachgewiesener plötzlicher Erkrankung noch bis zum Wahltag um 15.00 Uhr.
-
-
-
+ 
+ 
+ 
 Der Wahlschein mit Briefwahlunterlagen wird Ihnen auf dem Postweg übersandt oder überbracht. Sie können ihn auch persönlich bei der Gemeindebehörde abholen. Wer für einen anderen einen Wahlschein beantragt oder abholt, muss eine schriftliche Vollmacht des Wahlberechtigten vorlegen.
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Mit freundlichen Grüßen
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 Stadt Bonn\\
 Die Oberbürgermeisterin\\
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 | - <<FnA1-f797800_05>>[[#FnR.FnA1-f797800_05][1)]] :: Muster für die Versendung der Wahlbenachrichtigung. Auf der Rückseite ist ein Vordruck für den\\ | - <<FnA2-f797800_09>>[[#FnR.FnA2-f797800_09][5)]] :: Für jeden Wahlraum ist -- ggf. durch Piktogramm -- eine Angabe zur Barrierefreiheit anzufügen.                                      |
 |   Wahlscheinantrag (Anlage 4) aufzudrucken.                                                                                                           | - <<FnA2-f797800_10>>[[#FnR.FnA2-f797800_10][6)]] :: Z. B. bundesweite Telefonnummer des Deutschen Blinden- und Sehbehindertenverbandes, DBSV                                            |
 | - <<FnA1-f797800_06>>[[#FnR.FnA1-f797800_06][2)]] :: Muster der Wahlbenachrichtigung kann ggf. auch für zeitgleiche Landtags- und Kommunalwahlen\\    | - <<FnA2-f797800_11>>[[#FnR.FnA2-f797800_11][7)]] :: Wird von der Gemeindebehörde beim Druck der Wahlbenachrichtigungen eingesetzt.                                                      |
@@ -1645,22 +1645,22 @@ Wahlscheinantrag<<FnR.FnA1-f797800_13>>[[#FnA1-f797800_13][1)]]}\\
 (Wahlscheinantrag bitte bei der Gemeindebehörde abgeben\\
 oder bei Postversand im frankierten Umschlag absenden)
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
+ 
 
 Wahlscheinantrag nur ausfüllen, unterschreiben und absenden, wenn Sie nicht in Ihrem Wahlraum, sondern\\
 in einem anderen Wahlbezirk Ihres Wahlkreises oder durch Briefwahl wählen wollen.
 
-
+ 
 
 Für amtliche\\
 Vermerke
@@ -1708,98 +1708,98 @@ Der Wahlschein mit den Briefwahlunterlagen3)}
 
  □  wird abgeholt.
 
-
+ 
 
 ..........\\
 (Datum)        (Unterschrift des Wahlberechtigten oder -- bei Vertretung -- des Bevollmächtigten)
 
+ 
 
-
-
+ 
 
 Vollmacht des Wahlberechtigten
 
+ 
 
-
-
+ 
 
 Ich bevollmächtige3)}
 
+ 
 
-
-
+ 
 
  □  zur Stellung des Antrags auf Erteilung eines Wahlscheins
 
+ 
 
-
-
+ 
 
  □  zur Abholung des Wahlscheins mit Briefwahlunterlagen
 
+ 
 
-
-
+ 
 
 ..........\\
 (Vor- und Familienname, Straße, Hausnummer, Postleitzahl, Ort)
 
+ 
 
-
-
+ 
 
 Mir ist bekannt, dass der Wahlschein mit den Briefwahlunterlagen durch die von mir benannte Person nur abgeholt werden darf, wenn eine schriftliche Vollmacht vorliegt (die Eintragung der bevollmächtigten Person in diesen Antrag genügt) und von der bevollmächtigten Person nicht mehr als vier Wahlberechtigte vertreten werden.
 
+ 
 
-
-
+ 
 
 | ..........\\ | | (Unterschrift des Wahlberechtigten) |   | |
 | (Datum)      |                                             |
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 Erklärung des Bevollmächtigten\\
 (nicht vom Wahlberechtigten auszufüllen)
 
+ 
 
-
-
+ 
 
 Hiermit versichere ich ,\\
 (Name, Vorname)
 
+ 
 
-
-
+ 
 
 dass ich nicht mehr als vier Wahlberechtigte bei der Empfangnahme vertrete und bestätige den Erhalt der Unterlagen.
 
+ 
 
-
-
+ 
 
 | \\      | | (Unterschrift des Bevollmächtigten) |   | |
 | (Datum) |                                             |
 
+ 
 
-
-
+ 
 
 - <<FnA1-f797800_13>>[[#FnR.FnA1-f797800_13][1)]] :: Muster für den Antrag auf Erteilung eines Wahlscheins mit Briefwahlunterlagen.
 - <<FnA1-f797800_14>>[[#FnR.FnA1-f797800_14][2)]] :: Angaben sind von der Gemeinde voreinzutragen.
 - <<FnA1-f797800_15>>[[#FnR.FnA1-f797800_15][3)]] :: Zutreffendes bitte ankreuzen.
 - <<FnA1-f797800_16>>[[#FnR.FnA1-f797800_16][4)]] :: Wer den Antrag für einen anderen stellt, muss durch Vorlage einer schriftlichen Vollmacht nachweisen, dass er dazu berechtigt ist (§ 27 Absatz 3 Bundeswahlordnung).
 
-
+ 
 
 
 Anlage 5 - (zu § 20 Abs. 1)
@@ -1811,129 +1811,129 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 1.
 Das Wählerverzeichnis zur Bundestagswahl für die Gemeinde -
-
+ 
 die Wahlbezirke der Gemeinde ..................................................................................................................................................
-
+ 
 wird in der Zeit vom ..............................................bis .................................................................................................................\\
-                                                               
+                                                                
 (20. bis 16. Tag vor der Wahl)
-
+ 
 während der allgemeinen Öffnungszeiten<<FnR.BJNR017690985BJNE011507160_01>>[[#BJNR017690985BJNE011507160_01][1)]]}
-
+ 
 ................................................................................................................................................................................................................................................................<<FnR.BJNR017690985BJNE011507160_02>>[[#BJNR017690985BJNE011507160_02][2)]]}
-
+ 
 (Ort der Einsichtnahme)
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 für Wahlberechtigte zur Einsichtnahme bereitgehalten. Jeder Wahlberechtigte kann die Richtigkeit oder Vollständigkeit der zu seiner Person im Wählerverzeichnis eingetragenen Daten überprüfen. Sofern ein Wahlberechtigter die Richtigkeit oder Vollständigkeit der Daten von anderen im Wählerverzeichnis eingetragenen Personen überprüfen will, hat er Tatsachen glaubhaft zu machen, aus denen sich eine Unrichtigkeit oder Unvollständigkeit des Wählerverzeichnisses ergeben kann. Das Recht auf Überprüfung besteht nicht hinsichtlich der Daten von Wahlberechtigten, für die im Melderegister ein Sperrvermerk gemäß § 51 Absatz 1 des Bundesmeldegesetzes eingetragen ist.\\
 \\
 Das Wählerverzeichnis wird im automatisierten Verfahren geführt. Die Einsichtnahme ist durch ein Datensichtgerät möglich.<<FnR.BJNR017690985BJNE011507160_03>>[[#BJNR017690985BJNE011507160_03][3)]]}\\
 \\
 Wählen kann nur, wer in das Wählerverzeichnis eingetragen ist oder einen Wahlschein hat.
-
-
+ 
+ 
 2.
 Wer das Wählerverzeichnis für unrichtig oder unvollständig hält, kann in der Zeit vom 20. Tag bis zum 16. Tag vor der Wahl,
-
+ 
 spätestens am ........................................................................ bis ................................................... Uhr, bei der Gemeindebehörde<<FnR.BJNR017690985BJNE011507160_04>>[[#BJNR017690985BJNE011507160_04][4)]]}\\
-                                          
+                                           
 (16. Tag vor der Wahl)
-
+ 
 Einspruch einlegen.
-
+ 
 Der Einspruch kann schriftlich oder durch Erklärung zur Niederschrift eingelegt werden.
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 3.
 Wahlberechtigte, die in das Wählerverzeichnis eingetragen sind, erhalten bis spätestens zum .........................................................................
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 ....................................................................... eine Wahlbenachrichtigung.\\
-                     
+                      
 (21. Tag vor der Wahl)
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Wer keine Wahlbenachrichtigung erhalten hat, aber glaubt, wahlberechtigt zu sein, muss Einspruch gegen das Wählerverzeichnis einlegen, wenn er nicht Gefahr laufen will, dass er sein Wahlrecht nicht ausüben kann.\\
 \\
 Wahlberechtigte, die nur auf Antrag in das Wählerverzeichnis eingetragen werden und die bereits einen Wahlschein und Briefwahlunterlagen beantragt haben, erhalten keine Wahlbenachrichtigung.
-
-
+ 
+ 
 4.
 Wer einen Wahlschein hat, kann an der Wahl im Wahlkreis ..............................................................................................................................................\\
-                                                                                                                                                             
+                                                                                                                                                              
 (Nummer und Name)
-
-
+ 
+ 
 durch Stimmabgabe in einem beliebigen Wahlraum (Wahlbezirk) dieses Wahlkreises
-
-
+ 
+ 
 oder
-
-
-
-
+ 
+ 
+ 
+ 
 durch
-
-
-
-
+ 
+ 
+ 
+ 
 Briefwahl
-
-
+ 
+ 
 teilnehmen.
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 5.
 Einen Wahlschein erhält auf Antrag
-
+ 
 5.1
 ein in das Wählerverzeichnis eingetragener Wahlberechtigter,
-
+ 
 5.2
 ein nicht in das Wählerverzeichnis eingetragener Wahlberechtigter,
-
-
+ 
+ 
 a)
 wenn er nachweist, dass er ohne sein Verschulden die Antragsfrist auf Aufnahme in das Wählerverzeichnis nach § 18 Abs. 1 der Bundeswahlordnung (bis zum .............................) oder die Einspruchsfrist gegen das Wählerverzeichnis nach § 22 Abs. 1 der Bundeswahlordnung (bis zum .............................) versäumt hat,
-
-
+ 
+ 
 b)
 wenn sein Recht auf Teilnahme an der Wahl erst nach Ablauf der Antragsfrist nach § 18 Abs. 1 der Bundeswahlordnung oder der Einspruchsfrist nach § 22 Abs. 1 der Bundeswahlordnung entstanden ist,
-
-
+ 
+ 
 c)
 wenn sein Wahlrecht im Einspruchsverfahren festgestellt worden und die Feststellung erst nach Abschluss des Wählerverzeichnisses zur Kenntnis der Gemeindebehörde gelangt ist.
-
+ 
 Wahlscheine können von in das Wählerverzeichnis eingetragenen Wahlberechtigten bis zum ...................................................................................,
-
+ 
 ........................................................................ 18.00 Uhr, bei der Gemeindebehörde mündlich, schriftlich oder elektronisch beantragt werden.\\
-                        
+                         
   (2. Tag vor der Wahl)
-
+ 
 Im Falle nachweislich plötzlicher Erkrankung, die ein Aufsuchen des Wahlraumes nicht oder nur unter nicht zumutbaren Schwierigkeiten möglich macht, kann der Antrag noch bis zum Wahltage, 15.00 Uhr, gestellt werden.\\
 \\
 Versichert ein Wahlberechtigter glaubhaft, dass ihm der beantragte Wahlschein nicht zugegangen ist, kann ihm bis zum Tage vor der Wahl, 12.00 Uhr, ein neuer Wahlschein erteilt werden.\\
@@ -1941,27 +1941,27 @@ Versichert ein Wahlberechtigter glaubhaft, dass ihm der beantragte Wahlschein ni
 Nicht in das Wählerverzeichnis eingetragene Wahlberechtigte können aus den unter 5.2 Buchstabe a bis c angegebenen Gründen den Antrag auf Erteilung eines Wahlscheines noch bis zum Wahltage, 15.00 Uhr, stellen.\\
 \\
 Wer den Antrag für einen anderen stellt, muss durch Vorlage einer schriftlichen Vollmacht nachweisen, dass er dazu berechtigt ist. Ein Wahlberechtigter mit Behinderung kann sich bei der Antragstellung der Hilfe einer anderen Person bedienen.
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 6.
 Mit dem Wahlschein erhält der Wahlberechtigte
-
+ 
 -
 einen amtlichen Stimmzettel des Wahlkreises,
-
+ 
 -
 einen amtlichen blauen Stimmzettelumschlag,
-
+ 
 -
 einen amtlichen, mit der Anschrift, an die der Wahlbrief zurückzusenden ist, versehenen roten Wahlbriefumschlag und
-
+ 
 -
 ein Merkblatt für die Briefwahl.
-
+ 
 Die Abholung von Wahlschein und Briefwahlunterlagen für einen anderen ist nur möglich, wenn die Berechtigung zur Empfangnahme der Unterlagen durch Vorlage einer schriftlichen Vollmacht nachgewiesen wird und die bevollmächtigte Person nicht mehr als vier Wahlberechtigte vertritt; dies hat sie der Gemeindebehörde vor Empfangnahme der Unterlagen schriftlich zu versichern. Auf Verlangen hat sich die bevollmächtigte Person auszuweisen.
 Ein Wahlberechtigter, der des Lesens unkundig oder wegen einer Behinderung an der Abgabe seiner Stimme gehindert ist, kann sich zur Stimmabgabe der Hilfe einer anderen Person bedienen. Die Hilfsperson muss das 16. Lebensjahr vollendet haben. Die Hilfeleistung ist auf technische Hilfe bei der Kundgabe einer vom Wahlberechtigten selbst getroffenen und geäußerten Wahlentscheidung beschränkt. Unzulässig ist eine Hilfeleistung, die unter missbräuchlicher Einflussnahme erfolgt, die selbstbestimmte Willensbildung oder Entscheidung des Wahlberechtigten ersetzt oder verändert oder wenn ein Interessenkonflikt der Hilfsperson besteht. Die Hilfsperson ist zur Geheimhaltung der Kenntnisse verpflichtet, die sie bei der Hilfeleistung von der Wahl einer anderen Person erlangt hat.
 \\
@@ -1969,24 +1969,24 @@ Ein Wahlberechtigter, der des Lesens unkundig oder wegen einer Behinderung an de
 Bei der Briefwahl muss der Wähler den Wahlbrief mit dem Stimmzettel und dem Wahlschein so rechtzeitig an die angegebene Stelle absenden, dass der Wahlbrief dort spätestens am Wahltage bis 18.00 Uhr eingeht.\\
 \\
 Der Wahlbrief wird innerhalb der Bundesrepublik Deutschland ohne besondere Versendungsform ausschließlich von ..........<<FnR.BJNR017690985BJNE011507160_05>>[[#BJNR017690985BJNE011507160_05][5)]]} unentgeltlich befördert. Er kann auch bei der auf dem Wahlbrief angegebenen Stelle angegeben werden.
-
-
-
-
+ 
+ 
+ 
+ 
 ................................, den ..........................\\
 Die Gemeindebehörde
-                 
-
-
-
-
-
-
-
-
-
-
-
+                  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 ...................................................................
 _______________
 Ein Wahlberechtigter, der des Lesens unkundig oder wegen einer Behinderung an der Abgabe seiner Stimme gehindert ist, kann sich zur Stimmabgabe der Hilfe einer anderen Person bedienen. Die Hilfsperson muss das 16. Lebensjahr vollendet haben. Die Hilfeleistung ist auf technische Hilfe bei der Kundgabe einer vom Wahlberechtigten selbst getroffenen und geäußerten Wahlentscheidung beschränkt. Unzulässig ist eine Hilfeleistung, die unter missbräuchlicher Einflussnahme erfolgt, die selbstbestimmte Willensbildung oder Entscheidung des Wahlberechtigten ersetzt oder verändert oder wenn ein Interessenkonflikt der Hilfsperson besteht. Die Hilfsperson ist zur Geheimhaltung der Kenntnisse verpflichtet, die sie bei der Hilfeleistung von der Wahl einer anderen Person erlangt hat.
@@ -2032,11 +2032,11 @@ Anlage 8 - (zu § 24 Abs. 1)
 Gemeinde ....................................................
 Wahlbezirk ..............................................
 Kreis ...........................................................
-
+ 
 Wahlkreis ....................................................
-
+ 
 Land ...........................................................
-
+ 
 Beurkundung des Abschlusses des Wählerverzeichnisses
 für die Wahl zum Deutschen Bundestag am ............................
 \\
@@ -2049,32 +2049,32 @@ Die Wahlbezirke und die Wahlräume sowie Ort, Tag und Zeit der Wahl sind ortsüb
 Die Wahlbezirke und die Wahlräume sowie Ort, Tag und Zeit der Wahl sind den Wahlberechtigten durch die Wahlbenachrichtigung, Ort, Tag und Zeit der Wahl außerdem am ...................... ortsüblich bekannt gemacht worden.[[#BJNR017690985BJNE011805377_01][1)]]}\\
 \\
 Das Wählerverzeichnis umfasst ................. Blätter.
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Berichtigt\\
 gemäß § 53\\
 Abs. 2 Satz 2\\
 der Bundes-\\
 wahlordnung<<FnR.BJNR017690985BJNE011805377_02>>[[#BJNR017690985BJNE011805377_02][2)]]}
-
+ 
 Berichtigt\\
 gemäß § 53\\
 Abs. 2 Satz 3\\
 der Bundes-\\
 wahlordnung<<FnR.BJNR017690985BJNE011805377_03>>[[#BJNR017690985BJNE011805377_03][3)]]}
-
+ 
 Kennbuchstabe
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 | A 1 |
 
 Wahlberechtigte laut\\
@@ -2083,16 +2083,16 @@ ohne Sperrvermerk\\
 "W" (Wahlschein)
 ............... Personen
 ............... Personen
-
+ 
 ............... Personen
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 | A 2 |
 
 Wahlberechtigte laut\\
@@ -2101,104 +2101,104 @@ mit Sperrvermerk\\
 "W" (Wahlschein)
 ............... Personen
 ............... Personen
-
+ 
 ............... Personen
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 | A 1 + A 2 |
 
 Im Wählerverzeichnis\\
 insgesamt eingetragen
 ............... Personen
 ............... Personen
-
+ 
 ............... Personen
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 ____\\
 \\
-
+ 
 ____\\
 \\
-
-
-
-
+ 
+ 
+ 
+ 
 ...................................,\\
 (Ort)
-
+ 
 ...................................,\\
 (Ort)
-
-
-
-
+ 
+ 
+ 
+ 
 den ..........................
-
+ 
 den ..........................
-
-
-
-
+ 
+ 
+ 
+ 
 Der Wahlvorsteher\\
-
+ 
 Der Wahlvorsteher\\
-
-
-
-
+ 
+ 
+ 
+ 
 ...................................
-
+ 
 ...................................
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 (Dienstsiegel)
-
+ 
 ......................................................., den .....................................\\
 \\
-Die Gemeindebehörde                 
-
-
-
+Die Gemeindebehörde                  
+ 
+ 
+ 
 ......................................................................................................
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 _________________
 
 Anlage 9 - (zu § 26)
@@ -2247,37 +2247,37 @@ ________________________________________________________________________________
 
 Wichtige Hinweise für Briefwähler
 
+ 
 
-
-
+ 
 
 1.
 
 Die Stimmabgabe bei der Briefwahl ist nur gültig, wenn in der unteren Hälfte des Wahlscheines die "Versicherung an Eides statt zur Briefwahl" mit der Unterschrift versehen ist.
 
+ 
 
-
-
+ 
 
 2.
 
 Den Wahlschein nicht in den blauen Stimmzettelumschlag legen, sondern mit diesem in den roten Wahlbriefumschlag stecken. Sonst ist die Stimmabgabe ungültig.
 
+ 
 
-
-
+ 
 
 3.
 
-Wähler, die des Lesens unkundig oder wegen einer Behinderung gehindert sind, den Stimmzettel zu kennzeichnen, können sich der Hilfe einer anderen Person bedienen. Die Hilfsperson muss das 16. Lebensjahr vollendet haben. Sie hat die Versicherung an Eides statt zur Briefwahl“ zu unterzeichnen. Die Hilfeleistung ist auf technische Hilfe bei der Kundgabe einer vom Wahlberechtigten selbst getroffenen und geäußerten Wahlentscheidung beschränkt. Unzulässig ist eine Hilfeleistung, die unter missbräuchlicher Einflussnahme erfolgt, die selbstbestimmte Willensbildung oder Entscheidung des Wahlberechtigten ersetzt oder verändert oder wenn ein Interessenkonflikt der Hilfsperson besteht. Die Hilfsperson ist zur Geheimhaltung der Kenntnisse verpflichtet, die sie bei der Hilfeleistung von der Wahl einer anderen Person erlangt hat. Auf die Strafbarkeit einer im Rahmen zulässiger Assistenz entgegen der Wahlentscheidung des Wahlberechtigten oder ohne eine geäußerte Wahlentscheidung des Wahlberechtigten erfolgten Stimmabgabe wird hingewiesen.
+Wähler, die des Lesens unkundig oder wegen einer Behinderung gehindert sind, den Stimmzettel zu kennzeichnen, können sich der Hilfe einer anderen Person bedienen. Die Hilfsperson muss das 16. Lebensjahr vollendet haben. Sie hat die „Versicherung an Eides statt zur Briefwahl“ zu unterzeichnen. Die Hilfeleistung ist auf technische Hilfe bei der Kundgabe einer vom Wahlberechtigten selbst getroffenen und geäußerten Wahlentscheidung beschränkt. Unzulässig ist eine Hilfeleistung, die unter missbräuchlicher Einflussnahme erfolgt, die selbstbestimmte Willensbildung oder Entscheidung des Wahlberechtigten ersetzt oder verändert oder wenn ein Interessenkonflikt der Hilfsperson besteht. Die Hilfsperson ist zur Geheimhaltung der Kenntnisse verpflichtet, die sie bei der Hilfeleistung von der Wahl einer anderen Person erlangt hat. Auf die Strafbarkeit einer im Rahmen zulässiger Assistenz entgegen der Wahlentscheidung des Wahlberechtigten oder ohne eine geäußerte Wahlentscheidung des Wahlberechtigten erfolgten Stimmabgabe wird hingewiesen.
 
-
+ 
 
 Ein blinder oder sehbehinderter Wähler kann sich zur Kennzeichnung des Stimmzettels einer Stimmzettelschablone bedienen, die von den Blindenverbänden kostenlos zur Verfügung gestellt wird. Zur Verwendung von Stimmzettelschablonen ist die rechte obere Ecke aller Stimmzettel gelocht oder abgeschnitten. Dies dient dem richtigen Anlegen der Stimmzettelschablonen. Auskünfte zu Stimmzettelschablonen erhalten Sie unter der Telefonnummer ....
 
+ 
 
-
-
+ 
 
 4.
 
@@ -2289,9 +2289,9 @@ Bei Beförderung durch ein anderes Postunternehmen ist das dafür fällige Leist
 
 Außerhalb der Bundesrepublik Deutschland sollte der Wahlbrief möglichst bald und am Schalter eines Postamtes eingeliefert sowie Luftpostbeförderung verlangt werden. Der Wahlbrief ist als Briefsendung des internationalen Postdienstes grundsätzlich vollständig freizumachen. Deshalb muss für den Wahlbrief das im Einlieferungsland zu entrichtende Entgelt gezahlt werden. Auf dem Wahlbrief unterhalb der Anschrift das Bestimmungsland "ALLEMAGNE" oder "GERMANY" angeben. Falls ein Wahlberechtigter Bedenken hat, den Wahlbrief wegen seiner Kennzeichnung und der roten Farbe durch die Post im Ausland befördern zu lassen, ist es ihm überlassen, den Wahlbrief in einen neutralen Briefumschlag zu stecken und diesen bei der Post abzugeben.
 
+ 
 
-
-
+ 
 
 5.
 
@@ -2367,24 +2367,24 @@ Anlage 16 - (zu § 34 Abs. 5 Nr. 2 und § 39 Abs. 4 Nr. 2)
 (Fundstelle: Anlageband zum BGBl. I Nr. 26 vom 26. April 2002, S. 27;\\
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 Herr/Frau
-
+ 
 Familienname: .........................................................................................................................................................................................................................................................
-
+ 
 Vornamen: ................................................................................................................................................................................................................................................................
-
+ 
 Geburtsdatum: .........................................................................................................................................................................................................................................................
-
+ 
 Geburtsort: ...............................................................................................................................................................................................................................................................
-
+ 
 Anschrift (Hauptwohnung)
-
+ 
 Straße, Hausnummer: ............................................................................................................................................................................................................................................
-
+ 
 Postleitzahl, Wohnort: ............................................................................................................................................................................................................................................
-
-
+ 
+ 
 ist am Wahltag nach den heute vorliegenden Erkenntnissen Deutsche(r) im Sinne des Artikels 116 Abs. 1 des Grundgesetzes und nicht nach § 15 Abs. 2 des Bundeswahlgesetzes von der Wählbarkeit ausgeschlossen.
-                       
+                        
 (Dienstsiegel)
 \\
 ...................................................., den ................................................
@@ -2393,18 +2393,18 @@ Die Gemeindebehörde                              
 ............................................................................................................
 \\
 \\
-
-
+ 
+ 
 \\
 \\
 Ich bin damit einverstanden, dass für mich eine Bescheinigung der Wählbarkeit eingeholt wird.<<FnR.BJNR017690985BJNE012607160_01>>[[#BJNR017690985BJNE012607160_01][*)]]}\\
 \\
-
+ 
 ......................................, den .................................
-
+ 
 ................................................................................\\
 (Persönliche und handschriftliche Unterschrift des Bewerbers)
-
+ 
 Datenschutzhinweise auf der Rückseite
 Für die in Ihren Angaben auf der Vorderseite enthaltenen personenbezogenen Daten gilt:
 
@@ -2447,41 +2447,41 @@ Anlage 20 - (zu § 39 Abs. 1)
 (Fundstelle: Anlageband zum BGBl. I Nr. 26 vom 26. April 2002, S. 35;\\
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 An den
-
-
+ 
+ 
 Landeswahlleiter
-
+ 
 \\
     Sämtliche Angaben    \\
     in Maschinen- oder    \\
     Druckschrift    \\
 \\
 .........................................................................
-
+ 
 .........................................................................
-
-
+ 
+ 
                                     Landesliste
-
-
-
+ 
+ 
+ 
 der Partei ......................................................................................................................................................................................................................................................................................
 (Name der Partei und Anschrift - i.d.R. des Landesverbandes - sowie ihre Kurzbezeichnung)
-
-
-
+ 
+ 
+ 
 ..........................................................................................................................................................................................................................................................................................................
-
-
-
+ 
+ 
+ 
 für die Wahl zum Deutschen Bundestag am ...............................................................................................................................................................................................................................
 \\
 \\
 1.
 Auf Grund der §§ 18ff. des Bundeswahlgesetzes und des § 39 der Bundeswahlordnung werden als Bewerber für das Land .....................................................................................................................................................................................<<FnR.BJNR017690985BJNE013007377_01>>[[#BJNR017690985BJNE013007377_01][1)]]} vorgeschlagen:\\
 \\
-
-
+ 
+ 
 Lfd.\\
 Nr.
 Familienname\\
@@ -2495,179 +2495,179 @@ Geburtsort
 Anschrift (Hauptwohnung)\\
 - Straße, Hausnummer\\
 - Postleitzahl, Wohnort
-
-
+ 
+ 
 1
 \\
 ....................................................................
-
+ 
 \\
 ..............................
 \\
 ........................................................
-
-
+ 
+ 
 ....................................................................
-
+ 
 ..............................
 ........................................................
-
-
+ 
+ 
 2
 \\
 ....................................................................
-
+ 
 \\
 ..............................
 \\
 ........................................................
-
-
+ 
+ 
 ....................................................................
-
+ 
 ..............................
 ........................................................
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 usw.
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 2.
 Vertrauensperson für die Landesliste ist:
-
-
+ 
+ 
 .............................................................................................................................................................................................................................................................................................
-
-
+ 
+ 
 (Familienname, Vorname)
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 .............................................................................................................................................................................................................................................................................................
-
-
+ 
+ 
 (Straße, Hausnummer, Postleitzahl, Wohnort, Fernruf)
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 .............................................................................................................................................................................................................................................................................................
-
-
+ 
+ 
 (Familienname, Vorname)
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 .............................................................................................................................................................................................................................................................................................
-
-
+ 
+ 
 (Straße, Hausnummer, Postleitzahl, Wohnort, Fernruf)
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 3.
 Der Landesliste sind ..................... Anlagen beigefügt, und zwar
-
-
+ 
+ 
 a)
 ................. Zustimmungserklärungen mit den Versicherungen an Eides statt zur Parteimitgliedschaft der Bewerber,
-
-
+ 
+ 
 b)
 ................. Bescheinigungen der Wählbarkeit der Bewerber,
-
-
+ 
+ 
 c)
 Unterstützungsunterschriften mit dem Nachweis der Wahlberechtigung der Unterzeichner,<<FnR.BJNR017690985BJNE013007377_02>>[[#BJNR017690985BJNE013007377_02][2)]]}
-
-
+ 
+ 
 d)
 eine Ausfertigung der Niederschrift über die Beschlussfassung der Mitglieder- oder Vertreterversammlung nebst Versicherung an Eides statt (§ 27 Abs. 5 in Verbindung mit § 21 Abs. 6 des Bundeswahlgesetzes),
-
-
+ 
+ 
 e)
 eine Vollmacht der anderen beteiligten Vorstände.<<FnR.BJNR017690985BJNE013007377_03>>[[#BJNR017690985BJNE013007377_03][3)]]}
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 ............................................, den ..................................
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 (Persönliche und handschriftliche Unterschriften von drei Mitgliedern des Vorstandes des Landesverbandes der Partei[[#BJNR017690985BJNE013007377_03][3)]]} <<FnR.BJNR017690985BJNE013007377_04>>[[#BJNR017690985BJNE013007377_04][4)]]} )
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 ...........................................................................\\
 (Name)
 ...........................................................................\\
 (Name)
 ...........................................................................\\
 (Name)
-
-
-
+ 
+ 
+ 
 ...........................................................................\\
 (Funktion)
 ...........................................................................\\
 (Funktion)
 ...........................................................................\\
 (Funktion)
-
-
-
+ 
+ 
+ 
 __________________
 
 Anlage 21 - (zu § 39 Abs. 3)
@@ -2728,20 +2728,20 @@ Anlage 23 - (zu § 39 Abs. 4 Nr. 3)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 26 vom 26. April 2002, S. 39 - 40; bzgl. der einzelnen Änderungen vgl. Fußnote)
 Felder bitte ausfüllen oder ☒ ankreuzen
-
+ 
 ................................................................., den .................\\
 (Ort)
-             
-
-
+              
+ 
+ 
 | \\                         |
 |    Sämtliche Angaben   \\  |
 |    in Maschinen- oder   \\ |
 |    Druckschrift   \\       |
 | \\                         |
 
-
-
+ 
+ 
 \\
 
 usw.
@@ -2751,7 +2751,7 @@ Anlage 24 - (zu § 39 Abs. 4 Nr. 3)
 
 (Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 26 vom 26. April 2002, S. 41)
 Wir versichern dem Landeswahlleiter des Landes .....................................................................................................................................................................................................................\\
-                                                                                                                                                                                                 
+                                                                                                                                                                                                  
 (Name des Landes)
 an Eides statt,<<FnR.BJNR017690985BJNE013405377_01>>[[#BJNR017690985BJNE013405377_01][1)]]}
 ______________________
@@ -2771,178 +2771,178 @@ Anlage 27 - (zu § 48 Abs. 1)
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 1.
 Am ............................................................
-
+ 
 findet die
-
+ 
 Wahl zum ............ Deutschen Bundestag
-
+ 
 statt.
-
+ 
 Die Wahl dauert von 8.00 bis 18.00 Uhr.<<FnR.BJNR017690985BJNE013708305_01>>[[#BJNR017690985BJNE013708305_01][1)]]}
-
-
-
+ 
+ 
+ 
 2.
 Die Gemeinde<<FnR.BJNR017690985BJNE013708305_02>>[[#BJNR017690985BJNE013708305_02][2)]]} bildet einen Wahlbezirk.
-
+ 
 Der Wahlraum wird in ..................................................................................................... eingerichtet.
-
+ 
 Die Gemeinde<<FnR.BJNR017690985BJNE013708305_03>>[[#BJNR017690985BJNE013708305_03][3)]]} ist in folgende ....................................................................... Wahlbezirke eingeteilt:\\
-                                                                                   
+                                                                                    
 (Zahl)
-
+ 
 Wahlbezirk 1:
 Ortsteil östlich der Bahnlinie G-P
-
+ 
 Wahlraum:
 Realschule in der Hauptstraße
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Wahlbezirk 2:
 Ortsteil westlich der Bahnlinie G-P
-
+ 
 Wahlraum:
 Saal der Gastwirtschaft "Zum Löwen"
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Wahlbezirk 3:
 Teilort N.
-
+ 
 Wahlraum:
 Grundschule des Teilortes N.
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Die Gemeinde<<FnR.BJNR017690985BJNE013708305_04>>[[#BJNR017690985BJNE013708305_04][4)]]} ist in ....................................................................... allgemeine Wahlbezirke eingeteilt.<<FnR.BJNR017690985BJNE013708305_05>>[[#BJNR017690985BJNE013708305_05][5)]]}\\
-                                                              
+                                                               
 (Zahl)
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 In den Wahlbenachrichtigungen, die den Wahlberechtigten in der Zeit vom ..................................... bis ................................................. übersandt worden sind, sind der Wahlbezirk und der Wahlraum angegeben, in dem der Wahlberechtigte zu wählen hat.
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Der Briefwahlvorstand/Die Briefwahlvorstände tritt/treten zur Ermittlung des Briefwahlergebnisses um ........................................ Uhr in ............................................................... zusammen.
-
-
-
-
+ 
+ 
+ 
+ 
 3.
 Jeder Wahlberechtigte kann nur in dem Wahlraum des Wahlbezirks wählen, in dessen Wählerverzeichnis er eingetragen ist.
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Die Wähler haben die Wahlbenachrichtigung und ihren Personalausweis oder Reisepass zur Wahl mitzubringen.
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Die Wahlbenachrichtigung soll bei der Wahl abgegeben werden.
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Gewählt wird mit amtlichen Stimmzetteln. Jeder Wähler erhält bei Betreten des Wahlraumes einen Stimmzettel ausgehändigt.
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Jeder Wähler hat eine Erststimme und eine Zweitstimme.
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Der Stimmzettel enthält jeweils unter fortlaufender Nummer
-
+ 
 a)
 für die Wahl im Wahlkreis in schwarzem Druck die Namen der Bewerber der zugelassenen Kreiswahlvorschläge unter Angabe der Partei, sofern sie eine Kurzbezeichnung verwendet, auch dieser, bei anderen Kreiswahlvorschlägen außerdem des Kennworts und rechts von dem Namen jedes Bewerbers einen Kreis für die Kennzeichnung,
-
+ 
 b)
 für die Wahl nach Landeslisten in blauem Druck die Bezeichnung der Parteien, sofern sie eine Kurzbezeichnung verwenden, auch dieser, und jeweils die Namen der ersten fünf Bewerber der zugelassenen Landeslisten und links von der Parteibezeichnung einen Kreis für die Kennzeichnung.
-
+ 
 Der Wähler gibt
-
+ 
 seine Erststimme in der Weise ab,
-
-
+ 
+ 
 dass er auf dem linken Teil des Stimmzettels (Schwarzdruck) durch ein in einen Kreis gesetztes Kreuz oder auf andere Weise eindeutig kenntlich macht, welchem Bewerber sie gelten soll,
-
+ 
 und seine Zweitstimme in der Weise,
-
-
+ 
+ 
 dass er auf dem rechten Teil des Stimmzettels (Blaudruck) durch ein in einen Kreis gesetztes Kreuz oder auf andere Weise eindeutig kenntlich macht, welcher Landesliste sie gelten soll.
-
+ 
 Der Stimmzettel muss vom Wähler in einer Wahlkabine des Wahlraumes oder in einem besonderen Nebenraum gekennzeichnet und in der Weise gefaltet werden, dass seine Stimmabgabe nicht erkennbar ist. In der Wahlkabine darf nicht fotografiert oder gefilmt werden.
-
-
-
-
+ 
+ 
+ 
+ 
 4.
 Die Wahlhandlung sowie die im Anschluss an die Wahlhandlung erfolgende Ermittlung und Feststellung des Wahlergebnisses im Wahlbezirk sind öffentlich. Jedermann hat Zutritt, soweit das ohne Beeinträchtigung des Wahlgeschäfts möglich ist.
-
-
-
-
+ 
+ 
+ 
+ 
 5.
 Wähler, die einen Wahlschein haben, können an der Wahl im Wahlkreis, in dem der Wahlschein ausgestellt ist,
-
+ 
 a)
 durch Stimmabgabe in einem beliebigen Wahlbezirk dieses Wahlkreises oder
-
+ 
 b)
 durch Briefwahl
-
+ 
 teilnehmen.
-
+ 
 Wer durch Briefwahl wählen will, muss sich von der Gemeindebehörde einen amtlichen Stimmzettel, einen amtlichen Stimmzettelumschlag sowie einen amtlichen Wahlbriefumschlag beschaffen und seinen Wahlbrief mit dem Stimmzettel (im verschlossenen Wahlumschlag) und dem unterschriebenen Wahlschein so rechtzeitig der auf dem Wahlbriefumschlag angegebenen Stelle zuleiten, dass er dort spätestens am Wahltage bis 18.00 Uhr eingeht. Der Wahlbrief kann auch bei der angegebenen Stelle abgegeben werden.
-
-
-
-
+ 
+ 
+ 
+ 
 6.
 Jeder Wahlberechtigte kann sein Wahlrecht nur einmal und nur persönlich ausüben. Eine Ausübung des Wahlrechts durch einen Vertreter anstelle des Wahlberechtigten ist unzulässig (§ 14 Absatz 4 des Bundeswahlgesetzes).
-
+ 
 Ein Wahlberechtigter, der des Lesens unkundig oder wegen einer Behinderung an der Abgabe seiner Stimme gehindert ist, kann sich hierzu der Hilfe einer anderen Person bedienen. Die Hilfeleistung ist auf technische Hilfe bei der Kundgabe einer vom Wahlberechtigten selbst getroffenen und geäußerten Wahlentscheidung beschränkt. Unzulässig ist eine Hilfeleistung, die unter missbräuchlicher Einflussnahme erfolgt, die selbstbestimmte Willensbildung oder Entscheidung des Wahlberechtigten ersetzt oder verändert oder wenn ein Interessenkonflikt der Hilfsperson besteht (§ 14 Absatz 5 des Bundeswahlgesetzes).
-
+ 
 Wer unbefugt wählt oder sonst ein unrichtiges Ergebnis einer Wahl herbeiführt oder das Ergebnis verfälscht, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft. Unbefugt wählt auch, wer im Rahmen zulässiger Assistenz entgegen der Wahlentscheidung des Wahlberechtigten oder ohne eine geäußerte Wahlentscheidung des Wahlberechtigten eine Stimme abgibt. Der Versuch ist strafbar (§ 107a Absatz 1 und 3 des Strafgesetzbuches).
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 .........................................., den ...............................
-
-
-
-Die Gemeindebehörde               
-
-
-
-
-
-
-
+ 
+ 
+ 
+Die Gemeindebehörde                
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 ....................................................................................
 _____________________
 
@@ -2973,501 +2973,501 @@ am ..........
 
 2.
 Wahlhandlung
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 2.1
 Eröffnung der Wahlhandlung
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 Der Wahlvorsteher eröffnete die Wahlhandlung damit, dass er die anwesenden Mitglieder des Wahlvorstandes auf ihre Verpflichtung zur unparteiischen Wahrnehmung ihres Amtes und zur Verschwiegenheit über die ihnen bei ihrer amtlichen Tätigkeit bekannt gewordenen Angelegenheiten hinwies; er stellte die Erteilung dieses Hinweises an alle Beisitzer vor Aufnahme ihrer Tätigkeit sicher. Er belehrte sie über ihre Aufgaben.
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 Abdrucke des Bundeswahlgesetzes und der Bundeswahlordnung lagen im Wahlraum vor.
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 2.2
 Vorbereitung des Wahlraums
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 Damit die Wähler die Stimmzettel unbeobachtet kennzeichnen konnten, waren im Wahlraum Wahlkabinen oder Tische mit Sichtblenden oder Nebenräume, die nur vom Wahlraum aus betretbar waren, hergerichtet:
-
+ 
 \\
 \\
 \\
 \\
 (Bitte eintragen:)
-
-
-
-
+ 
+ 
+ 
+ 
 Zahl der Wahlkabinen oder Tische mit Sichtblenden:
-
-
-
-
+ 
+ 
+ 
+ 
 ..............................
-
-
-
-
+ 
+ 
+ 
+ 
 Zahl der Nebenräume:
-
-
-
-
+ 
+ 
+ 
+ 
 ..............................
-
-
+ 
+ 
 Vom Tisch des Wahlvorstandes konnten die Wahlkabinen oder Tische mit Sichtblenden oder Eingänge zu den Nebenräumen überblickt werden.
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 2.3
 Vorbereitung der Wahlurne
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 Der Wahlvorstand stellte fest, dass sich die Wahlurne in ordnungsgemäßem Zustand befand und leer war.
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 Sodann wurde die Wahlurne
-
+ 
 (Bitte Zutreffendes ankreuzen:)
-
-
-
-
- □
+ 
+ 
+ 
+ 
+ □ 
 versiegelt.
-
-
-
-
- □
+ 
+ 
+ 
+ 
+ □ 
 verschlossen; der Wahlvorsteher nahm den\\
 Schlüssel in Verwahrung.
-
+ 
 2.4
 Beginn der Stimmabgabe
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Mit der Stimmabgabe wurde um
-
+ 
 | (Bitte eintragen:)\\                        |   |
 | .......... Uhr  ..........Minuten begonnen. |   |
 
-
+ 
 2.5
 Berichtigungen aufgrund nachträglich\\
 ausgestellter Wahlscheine
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 Vor Beginn der Stimmabgabe:
-
+ 
 (Bitte Zutreffendes ankreuzen:)
-
-
-
-
-
- □
+ 
+ 
+ 
+ 
+ 
+ □ 
 Ein Verzeichnis über nachträglich ausgestellte Wahlscheine lag nicht vor. Das Wählerverzeichnis war nicht zu berichtigen.
-
-
-
-
- □
-Vor Beginn der Stimmabgabe berichtigte der Wahlvorsteher das Wählerverzeichnis nach dem Verzeichnis der nachträglich erteilten Wahlscheine, indem er bei den Namen der nachträglich mit Wahlscheinen versehenen Wahlberechtigten in der Spalte für die Stimmabgabe den Vermerk Wahlschein“ oder den Buchstaben W“ eintrug. Der Wahlvorsteher berichtigte auch die Zahlen der Abschlussbescheinigung der Gemeindebehörde; diese Berichtigung wurde von ihm abgezeichnet.
-
-
+ 
+ 
+ 
+ 
+ □ 
+Vor Beginn der Stimmabgabe berichtigte der Wahlvorsteher das Wählerverzeichnis nach dem Verzeichnis der nachträglich erteilten Wahlscheine, indem er bei den Namen der nachträglich mit Wahlscheinen versehenen Wahlberechtigten in der Spalte für die Stimmabgabe den Vermerk „Wahlschein“ oder den Buchstaben „W“ eintrug. Der Wahlvorsteher berichtigte auch die Zahlen der Abschlussbescheinigung der Gemeindebehörde; diese Berichtigung wurde von ihm abgezeichnet.
+ 
+ 
 Während der Stimmabgabe:
-
- □
-Der Wahlvorsteher berichtigte das Wählerverzeichnis später aufgrund der durch die Gemeindebehörde am Wahltag erfolgten Mitteilungen über die noch am Wahltag an erkrankte Wahlberechtigte erteilten Wahlscheine, indem er bei den Namen der noch am Wahltag mit Wahlscheinen versehenen Wahlberechtigten in der Spalte für die Stimmabgabe den Vermerk Wahlschein“ oder den Buchstaben W“ eintrug. Der Wahlvorsteher berichtigte auch die Zahlen der Abschlussbescheinigung der Gemeindebehörde; diese Berichtigung wurde von ihm abgezeichnet.
-
+ 
+ □ 
+Der Wahlvorsteher berichtigte das Wählerverzeichnis später aufgrund der durch die Gemeindebehörde am Wahltag erfolgten Mitteilungen über die noch am Wahltag an erkrankte Wahlberechtigte erteilten Wahlscheine, indem er bei den Namen der noch am Wahltag mit Wahlscheinen versehenen Wahlberechtigten in der Spalte für die Stimmabgabe den Vermerk „Wahlschein“ oder den Buchstaben „W“ eintrug. Der Wahlvorsteher berichtigte auch die Zahlen der Abschlussbescheinigung der Gemeindebehörde; diese Berichtigung wurde von ihm abgezeichnet.
+ 
 2.6
 Ungültigkeit von Wahlscheinen
-
+ 
 (Bitte Zutreffendes ankreuzen:)
-
-
-
-
- □
+ 
+ 
+ 
+ 
+ □ 
 Der Wahlvorstand hat eine Mitteilung über die Ungültigkeit von Wahlscheinen nicht erhalten.
-
-
-
-
- □
+ 
+ 
+ 
+ 
+ □ 
 Der Wahlvorstand wurde vom
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 ..............................
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 unterrichtet, dass folgende(r) Wahlschein(e) für ungültig erklärt worden ist/sind:
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 ..............................\\
 (Bitte Vor- und Familienname des Wahlschein-\\
 inhabers sowie Wahlschein-Nummer eintragen)
-
+ 
 2.7
 Beweglicher Wahlvorstand
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 Im Wahlbezirk
-
+ 
 (Bitte Zutreffendes ankreuzen:)
-
-
-
-
- □
+ 
+ 
+ 
+ 
+ □ 
 war kein beweglicher Wahlvorstand tätig.\\
 (Weiter bei Punkt 2.8)
-
-
-
-
- □
+ 
+ 
+ 
+ 
+ □ 
 war ein beweglicher Wahlvorstand tätig.\\
 (Bitte Zutreffendes ankreuzen:)\\
 Im Wahlbezirk befindet sich
-
-
-
-
- □
+ 
+ 
+ 
+ 
+ □ 
 das kleinere Krankenhaus/Alten- oder\\
 Pflegeheim
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 ..............................,\\
 (Bezeichnung)
-
-
-
-
- □
+ 
+ 
+ 
+ 
+ □ 
 das Kloster
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 ..............................,\\
 (Bezeichnung)
-
-
-
-
- □
+ 
+ 
+ 
+ 
+ □ 
 die sozialtherapeutische Anstalt
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 ..............................,\\
 (Bezeichnung)
-
-
-
-
- □
+ 
+ 
+ 
+ 
+ □ 
 die Justizvollzugsanstalt
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 ..............................,\\
 (Bezeichnung)
-
-
-
-
+ 
+ 
+ 
+ 
 für das/die die Gemeinde die Stimmabgabe vor einem beweglichen Wahlvorstand zugelassen hat.
-
-
-
-
+ 
+ 
+ 
+ 
 Die personelle Zusammensetzung des/der beweglichen Wahlvorstandes/Wahlvorstände für die einzelne(n) Anstalt(en) (drei Mitglieder des Wahlvorstandes einschließlich des Wahlvorstehers oder seines Stellvertreters) ist aus den dieser Niederschrift als
-
-
-
-
+ 
+ 
+ 
+ 
 Anlagen Nr. ..........bis ..........\\
 beigefügten besonderen Niederschriften ersichtlich.
-
-
+ 
+ 
 Der bewegliche Wahlvorstand begab sich zu der von der Gemeindebehörde bestimmten Wahlzeit in die Einrichtung(en) und übergab dort den Wahlberechtigten die Stimmzettel. Er wies die Wahlberechtigten, die sich bei der Stimmabgabe der Hilfe einer anderen Person bedienen wollten, darauf hin, dass sie auch ein von ihnen bestimmtes Mitglied des Wahlvorstandes als Hilfsperson in Anspruch nehmen können. Die Wähler hatten die Möglichkeit, den Stimmzettel unbeobachtet zu kennzeichnen.
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 Nach Prüfung der Wahlscheine warfen die Wähler ihre gefalteten Stimmzettel in die vom beweglichen Wahlvorstand mitgebrachte verschlossene Wahlurne. Soweit ein Wähler es wünschte, warf der Wahlvorsteher oder sein Stellvertreter den gefalteten Stimmzettel in die Wahlurne. Der bewegliche Wahlvorstand vereinnahmte die Wahlscheine und brachte nach Schluss der Stimmabgabe die verschlossene Wahlurne und die eingenommenen Wahlscheine unverzüglich in den Wahlraum zurück. Hier verblieb die verschlossene Wahlurne bis zum Schluss der Wahlhandlung unter ständiger Aufsicht des Wahlvorstandes.
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 2.8
 Beweglicher Wahlvorstand im Sonderwahlbezirk
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 Im Sonderwahlbezirk
-
+ 
 (Bitte Zutreffendes ankreuzen:)
-
-
-
-
- □
+ 
+ 
+ 
+ 
+ □ 
 war kein beweglicher Wahlvorstand tätig.
-
-
-
-
- □
+ 
+ 
+ 
+ 
+ □ 
 begab sich ein beweglicher Wahlvorstand in die Krankenzimmer und verfuhr wie unter Punkt 2.7 beschrieben.
-
+ 
 2.9
 Besondere Vorfälle während der Wahlhandlung
-
+ 
 (Bitte Zutreffendes ankreuzen:)
-
-
-
-
- □
+ 
+ 
+ 
+ 
+ □ 
 waren nicht zu verzeichnen.
-
-
-
-
- □
+ 
+ 
+ 
+ 
+ □ 
 waren zu verzeichnen. Über die besonderen Vorfälle (z. B. Zurückweisung von Wählern in den Fällen des § 56 Absatz 6 und 7 und des § 59 der Bundeswahlordnung) wurden Niederschriften angefertigt, die als Anlagen
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 | \\                                          |   |
 | Nr. ......... bis ......... beigefügt sind. |   |
 
-
-
+ 
+ 
 2.10
 Ablauf der Wahlzeit
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 Um 18.00 Uhr gab der Wahlvorsteher den Ablauf der Wahlzeit bekannt. Danach wurden nur noch die Wähler zur Stimmabgabe zugelassen, die vor Ablauf der Wahlzeit erschienen waren und sich im Wahlraum oder aus Platzgründen davor befanden. Nach Ablauf der Wahlzeit eintreffenden Personen wurde der Zutritt zur Stimmabgabe gesperrt. Nachdem die vor Ablauf der Wahlzeit erschienenen Wähler ihre Stimme abgegeben hatten, erklärte der Wahlvorsteher die Wahlhandlung für geschlossen.
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 | \\                                 |   |
 | Um ......... Uhr ......... Minuten |   |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 erklärte der Wahlvorsteher die Wahl für geschlossen.
-
-
+ 
+ 
 Vom Wahltisch wurden alle nicht benutzten\\
 Stimmzettel entfernt.
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 3.
 Ermittlung und Feststellung des Wahlergebnisses im Wahlbezirk
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 3.1
 Leitung der Ergebnisfeststellung
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 Die Ermittlung und Feststellung des Wahlergebnisses wurden im Anschluss an die Stimmabgabe unter der Leitung des Wahlvorstehers vorgenommen.
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 3.2
 Zahl der Wähler; Öffnung der Wahlurne
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 a)
 Zunächst wurden die im Wählerverzeichnis eingetragenen Stimmabgabevermerke gezählt.
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Die Zählung ergab
-
+ 
 (Bitte Zahl eintragen:)
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 ............ Stimmabgabevermerke
-
-
+ 
+ 
 b)
 Dann wurden die eingenommenen Wahlscheine gezählt.
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Die Zählung ergab
-
+ 
 ............ Wahlscheine (= Wähler mit Wahlschein)
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Diese Zahl hinten in Abschnitt 4 bei [[../normengrafiken/bgbl1_2020/j0199-1_0020.jpg]]\\
 eintragen.
-
-
-
+ 
+ 
+ 
 c)
 Die Feststellung der Zahl der Stimmabgabevermerke im Wählerverzeichnis und der eingenommenen Wahlscheine ergab, dass
-
+ 
 \\
 \\
- □
+ □ 
 \\
 \\
 mehr als 50 Wähler ihre Stimme abgegeben haben\\
 (weiter bei Punkt 3.2 e))
-
-
-
-
-
- □
+ 
+ 
+ 
+ 
+ 
+ □ 
 weniger als 50 Wähler ihre Stimme abgegeben haben; der Kreiswahlleiter wurde unterrichtet\\
 (weiter bei Punkt 3.2 d)).
-
-
+ 
+ 
 d)
 Weil weniger als 50 Wähler ihre Stimme abgegeben haben, hat der Kreiswahlleiter nach § 68 Absatz 2 die gemeinsame Ermittlung und Feststellung des Wahlergebnisses mit einem von ihm bestimmten anderen Wahlvorstand
-
+ 
 | \\                                             |   |
 | \\                                             |   |
 | \\                                             |   |
@@ -3475,37 +3475,37 @@ Weil weniger als 50 Wähler ihre Stimme abgegeben haben, hat der Kreiswahlleiter
 | \\                                             |   |
 | um ......... Uhr ......... Minuten angeordnet. |   |
 
-
-
-
+ 
+ 
+ 
 Der Wahlvorstand des Wahlbezirks mit weniger als 50 Wählern (abgebender Wahlvorstand)
-
+ 
 \\
 ..............................\\
 (abgebender Wahlvorstand/Name oder Nummer des Wahlbezirks)
-
-
-
+ 
+ 
+ 
 hat die verschlossene Wahlurne, die Abschlussbeurkundung, das Wählerverzeichnis und die eingenommenen Wahlscheine dem vom Kreiswahlleiter bestimmten Wahlvorstand (aufnehmender Wahlvorstand)
-
+ 
 \\
 \\
 \\
 \\
 ..............................\\
 (aufnehmender Wahlvorstand/Name oder Nummer des Wahlbezirks)
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 | um ......... Uhr ......... Minuten übergeben. |   |
 
-
-
-
+ 
+ 
+ 
 Am Wahlraum des abgebenden Wahlvorstands wurde ein Hinweis angebracht, wo die gemeinsame Ermittlung und Feststellung des Wahlergebnisses erfolgt. Beim Transport der zu übergebenden Gegenstände waren der Wahlvorsteher und der Schriftführer, ein weiteres Mitglied des Wahlvorstands und soweit möglich weitere im Wahlraum anwesende Wahlberechtigte als Vertreter der Öffentlichkeit anwesend.
-
+ 
 \\
 \\
 \\
@@ -3515,7 +3515,7 @@ Am Wahlraum des abgebenden Wahlvorstands wurde ein Hinweis angebracht, wo die ge
 \\
 \\
 \\
- □
+ □ 
 \\
 \\
 \\
@@ -3527,269 +3527,269 @@ Am Wahlraum des abgebenden Wahlvorstands wurde ein Hinweis angebracht, wo die ge
 \\
 (Bitte durch Ankreuzen bestätigen)\\
 (Weiter bei Punkt 5.4)
-
-
+ 
+ 
 e)
 Sodann wurde die Wahlurne geöffnet; die Stimmzettel wurden entnommen.
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Der Wahlvorsteher überzeugte sich, dass die Wahlurne leer war.
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 f)
 Der Inhalt der Wahlurne wurde vor der Auszählung mit dem Inhalt einer anderen Wahlurne vermischt, weil
-
+ 
 \\
 \\
 (Soweit zutreffend ankreuzen, sonst weiter bei Punkt 3.2 g))
-
-
-
-
-
- □
+ 
+ 
+ 
+ 
+ 
+ □ 
 im Wahlbezirk/Sonderwahlbezirk ein beweglicher Wahlvorstand tätig war
-
-
-
-
-
- □
+ 
+ 
+ 
+ 
+ 
+ □ 
 aufgrund der Anordnung des Kreiswahlleiters
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 von ......... Uhr ......... Minuten die verschlossene Wahlurne, das Wählerverzeichnis, die Abschlussbeurkundung und die eingenommenen Wahlscheine des
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 ..............................\\
 (abgebender Wahlvorstand/Name oder Nummer des Wahlbezirks)
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 um ......... Uhr ......... Minuten zur gemeinsamen Ermittlung und Feststellung des Wahlergebnisses übernommen wurden.
-
-
-
+ 
+ 
+ 
 Bei der Zahl der Wähler (3.2 a), b), g)) und der Zahl der Wahlberechtigten (3.3) sind die Zahlen aus den Wählerverzeichnissen, Abschlussbeurkundungen, eingenommenen Wahlscheinen und Stimmzetteln des abgebenden und des aufnehmenden Wahlvorstands zusammenzuzählen.
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Nach der Vermischung sind die Stimmzettel gemeinsam auszuzählen (ab 3.2 g)).
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 g)
 Sodann wurden die Stimmzettel gezählt.
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Die Zählung ergab
-
+ 
 (Bitte Zahl eintragen:)
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 ............ Stimmzettel (= Wähler insgesamt)
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Diese Zahl hinten in Abschnitt 4 bei [[../normengrafiken/bgbl1_2020/j0199-1_0030.jpg]] eintragen.
-
-
-
-
+ 
+ 
+ 
+ 
 a) + b) zusammen ergab
-
+ 
 ............... Personen.
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 (Bitte Zutreffendes ankreuzen:)
-
-
-
-
-
- □
+ 
+ 
+ 
+ 
+ 
+ □ 
 Die Gesamtzahl a) + b) stimmte mit der Zahl der Stimmzettel unter g) überein.
-
-
-
-
-
- □
+ 
+ 
+ 
+ 
+ 
+ □ 
 Die Gesamtzahl a) + b) war
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 um ............... (Anzahl) größer
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 um ............... (Anzahl) kleiner
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 als die Zahl der Stimmzettel.
+ 
+ 
 
+ 
 
-
-
-
-
+ 
 
 Die Verschiedenheit, die auch bei wiederholter Zählung bestehen blieb, erklärt sich aus folgenden Gründen:
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 (Bitte erläutern:)
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 ............................................................\\
 ............................................................\\
 ............................................................\\
 ............................................................
 
-
+ 
 
 3.3
 
 Zahl der Wahlberechtigten
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
+ 
 
 Der Schriftführer übertrug aus der Bescheinigung über den Abschluss des Wählerverzeichnisses
 
-
+ 
 
 \\
 die Zahl der Wahlberechtigten hinten in Abschnitt 4 unter
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 [[../normengrafiken/bgbl1_2020/j0199-1_0040.jpg]]  der Wahlniederschrift.
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 Sofern der Wahlvorsteher Berichtigungen aufgrund nachträglich ausgestellter Wahlscheine vorgenommen hat (siehe Abschnitt 2.5), ist die berichtigte Zahl einzutragen.
 
-
+ 
 
 3.4
 
 Zählung der Stimmen; Stimmzettelstapel
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
+ 
 
 Nunmehr bildeten mehrere Beisitzer unter Aufsicht des Wahlvorstehers folgende Stimmzettelstapel und behielten sie unter Aufsicht:
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 3.4.1
 
@@ -3800,86 +3800,86 @@ Nunmehr bildeten mehrere Beisitzer unter Aufsicht des Wahlvorstehers folgende St
 - c) :: einen Stapel mit den ungekennzeichneten Stimmzetteln
 - d) :: einen Stapel mit den Stimmzetteln, die Anlass zu Bedenken gaben und über die später vom Wahlvorstand Beschluss zu fassen war.
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
+ 
 
 Der Stapel zu d) wurde ausgesondert und von einem vom Wahlvorsteher dazu bestimmten Beisitzer in Verwahrung genommen.
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 3.4.2
 
 Die Beisitzer, die die nach Landeslisten geordneten Stapel zu a) unter ihrer Aufsicht hatten, übergaben die einzelnen Stapel zu a) in der Reihenfolge der Landeslisten auf dem Stimmzettel nacheinander zu einem Teil dem Wahlvorsteher, zum anderen Teil seinem Stellvertreter. Diese prüften, ob die Kennzeichnung der Stimmzettel eines jeden Stapels gleich lautete und sagten zu jedem Stapel laut an, für welchen Bewerber und für welche Landesliste er Stimmen enthielt. Gab ein Stimmzettel dem Wahlvorsteher oder seinem Stellvertreter Anlass zu Bedenken, so fügten sie den Stimmzettel dem Stapel zu d) bei.
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
+ 
 Nunmehr prüfte der Wahlvorsteher den Stapel zu c) mit den ungekennzeichneten Stimmzetteln, die ihm hierzu von dem Beisitzer, der sie in Verwahrung hatte, übergeben wurden. Der Wahlvorsteher sagte an, dass hier beide Stimmen ungültig sind.
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 Danach zählten je zwei vom Wahlvorsteher bestimmte Beisitzer nacheinander je einen der zu a) und c) gebildeten Stapel unter gegenseitiger Kontrolle durch und ermittelten
-
+ 
 \\
 \\
 (Zwischensummenbildung I)
-
-
+ 
+ 
 die Zahl der für die einzelnen Bewerber
-
+ 
 = Zeilen D1, D2, D3 usw. in Abschnitt 4
-
-
+ 
+ 
 die Zahl der für die einzelnen Landeslisten
-
+ 
 = Zeilen F1, F2, F3 usw. in Abschnitt 4
-
-
+ 
+ 
 abgegebenen Stimmen sowie
-
-
-
-
+ 
+ 
+ 
+ 
 die Zahl der ungültigen Erststimmen und
-
+ 
 = Zeile C in Abschnitt 4
-
-
+ 
+ 
 die Zahl der ungültigen Zweitstimmen.
-
+ 
 = Zeile E in Abschnitt 4
-
-
+ 
+ 
 Die so ermittelten Stimmenzahlen wurden als Zwischensummen I (ZS I) vom Schriftführer hinten in Abschnitt 4 in den genannten Zeilen eingetragen.
-
+ 
 \\
 \\
 \\
@@ -3888,237 +3888,237 @@ Die so ermittelten Stimmenzahlen wurden als Zwischensummen I (ZS I) vom Schriftf
 \\
 \\
 (Nach Eintragung durch Ankreuzen bestätigen)
-
+ 
 3.4.3
 Sodann übergab der Beisitzer, der den nach b) gebildeten Stapel unter seiner Aufsicht hatte, den Stapel dem Wahlvorsteher.
-
-
-
+ 
+ 
+ 
 3.4.3.1
 Der Wahlvorsteher legte die Stimmzettel zunächst getrennt nach Zweitstimmen für die einzelnen Landeslisten und las bei jedem Stimmzettel laut vor, für welche Landesliste die Zweitstimme abgegeben worden war. Bei den Stimmzetteln, auf denen nur die Erststimme abgegeben worden war, sagte er an, dass die nicht abgegebene Zweitstimme ungültig ist, und bildete daraus einen weiteren Stapel. Stimmzettel, die dem Wahlvorsteher Anlass zu Bedenken gaben, fügte er dem Stapel zu d) bei.
-
-
-
-
+ 
+ 
+ 
+ 
 Danach zählten je zwei vom Wahlvorsteher bestimmte Beisitzer nacheinander die vom Wahlvorsteher gebildeten Stapel unter gegenseitiger Kontrolle durch und ermittelten
-
+ 
 \\
 \\
 (Zwischensummenbildung II -- Zweitstimmen --)
-
-
+ 
+ 
 die Zahl der für die einzelnen Landeslisten abgegebenen Stimmen
-
+ 
 = Zeilen F1, F2, F3 usw. in Abschnitt 4
-
-
+ 
+ 
 sowie
-
-
-
-
+ 
+ 
+ 
+ 
 die Zahl der ungültigen Zweitstimmen.
-
+ 
 = Zeile E in Abschnitt 4
-
-
+ 
+ 
 Die so ermittelten Stimmenzahlen wurden als Zwischensummen II (ZS II) vom Schriftführer hinten in Abschnitt 4 in den genannten Zeilen eingetragen.
-
+ 
 \\
 \\
 \\
- □
+ □ 
 \\
 \\
 \\
 (Nach Eintragung durch Ankreuzen bestätigen)
-
+ 
 3.4.3.2
 
 Anschließend ordnete der Wahlvorsteher die Stimmzettel aus dem Stapel zu b) neu, und zwar nach den für die einzelnen Bewerber abgegebenen Erststimmen. Dabei wurde entsprechend 3.4.3.1 verfahren und
 
-
+ 
 
 \\
 \\
 \\
 (Zwischensummenbildung II -- Erststimmen --)
 
+ 
 
-
-
+ 
 
 die Zahl der für die einzelnen Bewerber abgegebenen Stimmen
 
-
+ 
 
 = Zeilen D1, D2, D3 usw. in Abschnitt 4
 
+ 
 
-
-
+ 
 
 sowie
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
+ 
 
 die Zahl der ungültigen Erststimmen
 
-
+ 
 
 = Zeile C in Abschnitt 4
 
+ 
 
-
-
+ 
 
 ermittelt.
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
+ 
 
 Die so ermittelten Stimmenzahlen wurden als Zwischensummen II (ZS II) vom Schriftführer hinten in Abschnitt 4 in den genannten Zeilen eingetragen.
 
+ 
 
-
 \\
 \\
 \\
- □
+ □ 
 
 \\
 \\
 \\
 (Nach Eintragung durch Ankreuzen bestätigen)
 
-
+ 
 
 3.4.4
 
 Die Zählungen nach 3.4.2 und 3.4.3 verliefen wie folgt:
 
-
+ 
 
 \\
 (Bitte Zutreffendes ankreuzen:)
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
- □
+ □ 
 
 Unstimmigkeiten bei den Zählungen haben sich nicht ergeben.
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
- □
+ □ 
 
 Da sich zahlenmäßige Abweichungen ergaben, zählten die beiden Beisitzer den betreffenden Stapel nacheinander erneut.
 
+ 
 
-
-
+ 
 
 Danach ergab sich Übereinstimmung zwischen den Zählungen.
 
-
+ 
 
 \\
- □
+ □ 
 
 \\
 (Bitte durch Ankreuzen bestätigen)
 
-
+ 
 
 3.4.5
 
 Zum Schluss entschied der Wahlvorstand über die Gültigkeit der Stimmen, die auf den übrigen in dem Stapel zu d) ausgesonderten Stimmzetteln abgegeben worden waren. Der Wahlvorsteher gab die Entscheidung mündlich bekannt und sagte jeweils bei gültigen Stimmen an, für welchen Bewerber oder für welche Landesliste die Stimme abgegeben worden war. Er vermerkte auf der Rückseite jedes Stimmzettels, ob beide Stimmen oder nur die Erststimme oder nur die Zweitstimme für gültig oder ungültig erklärt worden waren, und versah die Stimmzettel mit fortlaufenden Nummern.
 
-
+ 
 
 (Zwischensummenbildung ZS III)
 
+ 
 
-
-
+ 
 
 Die so ermittelten gültigen oder ungültigen Stimmen wurden als Zwischensummen III (ZS III) vom Schriftführer hinten in Abschnitt 4 eingetragen.
 
+ 
 
-
 \\
 \\
 \\
- □
+ □ 
 
 \\
 \\
 \\
 (Nach Eintragung durch Ankreuzen bestätigen)
 
-
+ 
 
 3.4.6
 
 Der Schriftführer zählte die Zwischensummen der ungültigen Erst- und Zweitstimmen sowie der gültigen Stimmen jeweils für die einzelnen Wahlvorschläge zusammen. Zwei vom Wahlvorsteher bestimmte Beisitzer überprüften die Zusammenzählung.
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 3.5
 
 Sammlung und Beaufsichtigung der\\
 Stimmzettel
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
+ 
 
 Die vom Wahlvorsteher bestimmten Beisitzer sammelten
 
@@ -4126,77 +4126,77 @@ Die vom Wahlvorsteher bestimmten Beisitzer sammelten
 - b) :: die Stimmzettel, auf denen nur die Zweitstimme abgegeben worden war, getrennt nach den Wahlvorschlägen, denen die Stimmen zugefallen waren,
 - c) :: die ungekennzeichneten Stimmzettel und
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
+ 
 
 - d) :: die Stimmzettel, die Anlass zu Bedenken gegeben hatten,
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
+ 
 
 je für sich und behielten sie unter ihrer Aufsicht.
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
-
-
+ 
 
 Die in d) bezeichneten Stimmzettel sind als Anlagen unter den fortlaufenden Nummern
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
-
-
-
-
-
+ 
 
 .......... bis  .........
 
@@ -4207,27 +4207,27 @@ Die in d) bezeichneten Stimmzettel sind als Anlagen unter den fortlaufenden Numm
 Feststellung und Bekanntgabe des\\
 Wahlergebnisses
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
+ 
 
 Das im nachstehenden Abschnitt 4 der Wahlniederschrift enthaltene Ergebnis wurde vom Wahlvorstand als das Wahlergebnis im Wahlbezirk festgestellt und vom Wahlvorsteher mündlich bekannt gegeben.
 
+ 
 
-
 \\
 \\
 \\
 \\
- □
+ □ 
 
 \\
 \\
@@ -4235,106 +4235,106 @@ Das im nachstehenden Abschnitt 4 der Wahlniederschrift enthaltene Ergebnis wurde
 \\
 (Bitte durch Ankreuzen bestätigen)
 
+ 
 
-
-
+ 
 
 4.
 
 Wahlergebnis
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
+ 
 
 \\
  Kennbuchstaben für die Zahlenangaben\\
 
+ 
 
-
-
+ 
 
 (Wahlniederschrift und Vordruck für die Schnellmeldung sind aufeinander abgestimmt. Die einzelnen Zahlen des Wahlergebnisses sind in die Schnellmeldung (siehe Punkt 5.3) bei demselben Kennbuchstaben einzutragen, mit dem sie in der Wahlniederschrift bezeichnet sind.)
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+[[../normengrafiken/bgbl1_2020/j0199-1_0050.jpg]]    Wahlberechtigte laut Wählerverzeichnis ohne Sperrvermerk „W“ (Wahlschein)<<FnR.f810550_12>>[[#f810550_12][1)]]}
 
-
-
-
-
-
-
-[[../normengrafiken/bgbl1_2020/j0199-1_0050.jpg]]    Wahlberechtigte laut Wählerverzeichnis ohne Sperrvermerk W“ (Wahlschein)<<FnR.f810550_12>>[[#f810550_12][1)]]}
-
-
-
-\\
-............................................................
-
-
-
-
-
-[[../normengrafiken/bgbl1_2020/j0199-1_0060.jpg]]    Wahlberechtigte laut Wählerverzeichnis mit Sperrvermerk W“ (Wahlschein)[[#f810550_12][1)]]}
-
-
+ 
 
 \\
 ............................................................
 
+ 
 
+ 
 
+[[../normengrafiken/bgbl1_2020/j0199-1_0060.jpg]]    Wahlberechtigte laut Wählerverzeichnis mit Sperrvermerk „W“ (Wahlschein)[[#f810550_12][1)]]}
 
+ 
+
+\\
+............................................................
+
+ 
+
+ 
 
 [[../normengrafiken/bgbl1_2020/j0199-1_0070.jpg]] im Wählerverzeichnis insgesamt\\
 eingetragene Wahlberechtigte1)}
 
-
+ 
 
 \\
 ............................................................
 
+ 
 
-
-
+ 
 
 [[../normengrafiken/bgbl1_2020/j0199-1_0080.jpg]]    Wähler insgesamt\\
 [vgl. oben 3.2 g)]
 
-
+ 
 
 \\
 ............................................................
 
+ 
 
-
-
+ 
 
 [[../normengrafiken/bgbl1_2020/j0199-1_0090.jpg]]    darunter Wähler mit Wahlschein\\
 [vgl. oben 3.2 b)]
 
-
+ 
 
 \\
 ............................................................
 
-
+ 
 
 | Ergebnis der Wahl im Wahlkreis (Erststimmen)                                                                                                                                           |
 | Summe [[../normengrafiken/bgbl1_2020/j0199-1_0100.jpg]] + [[../normengrafiken/bgbl1_2020/j0199-1_0110.jpg]] muss mit [[../normengrafiken/bgbl1_2020/j0199-1_0120.jpg]] übereinstimmen. |
@@ -4372,272 +4372,272 @@ Gültige Zweitstimmen:
 
 5.
 Abschluss der Wahlergebnisfeststellung
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 5.1
 Besondere Vorkommnisse bei der\\
 Ergebnisfeststellung
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 Bei der Ermittlung und Feststellung des Wahlergebnisses waren als besondere Vorkommnisse zu verzeichnen:
-
+ 
 \\
 \\
 ............................................................\\
 ............................................................
-
-
+ 
+ 
 Der Wahlvorstand fasste in diesem Zusammenhang folgende Beschlüsse:
-
+ 
 |   | \\ |
 
 ............................................................\\
 ............................................................
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 5.2
 Erneute Zählung
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 (Wenn keine Nachzählung stattgefunden hat, ist der gesamte Abschnitt 5.2 zu streichen.)
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 Das/Die Mitglied(er) des Wahlvorstandes
-
+ 
 ..............................\\
 (Vor- und Familienname)
-
-
+ 
+ 
 beantragte(n) vor Unterzeichnung der Wahlniederschrift eine erneute Zählung der Stimmen, weil
-
+ 
 \\
 ..............................\\
 ..............................\\
 ..............................\\
 (Angabe der Gründe)
-
-
+ 
+ 
 Daraufhin wurde der Zählvorgang (vgl. Abschnitt 3.4) wiederholt. Das in Abschnitt 4 der Wahlniederschrift enthaltene Wahlergebnis für den Wahlbezirk wurde
-
+ 
 \\
 \\
 \\
 (Bitte Zutreffendes ankreuzen:)
-
-
-
- □
+ 
+ 
+ 
+ □ 
 mit dem gleichen Ergebnis erneut festgestellt
-
-
-
-
- □
+ 
+ 
+ 
+ 
+ □ 
 berichtigt\\
 (Die berichtigten Zahlen sind in Abschnitt 4 mit anderer Farbe oder auf andere Weise kenntlich zu machen. Alte Zahlenangaben bitte nicht löschen oder radieren.)
-
-
+ 
+ 
 und vom Wahlvorsteher mündlich bekannt gegeben.
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 5.3
 Schnellmeldung
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 Das Wahlergebnis aus Abschnitt 4 wurde auf den Vordruck für die Schnellmeldung nach dem Muster der Anlage 28 zur Bundeswahlordnung übertragen und
-
+ 
 \\
 \\
 \\
 auf schnellstem Wege (z. B. telefonisch)
-
-
-
-
+ 
+ 
+ 
+ 
 ..............................\\
 (Bitte Art der Übermittlung eintragen)
-
-
-
-
+ 
+ 
+ 
+ 
 an .............................. übermittelt.\\
-(Bitte Empfänger eintragen)   
-
+(Bitte Empfänger eintragen)    
+ 
 5.4
 Anwesenheit des Wahlvorstandes
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 Während der Wahlhandlung waren immer mindestens drei, während der Ermittlung und Feststellung des Wahlergebnisses mindestens fünf Mitglieder des Wahlvorstandes, darunter jeweils der Wahlvorsteher und der Schriftführer oder ihre Stellvertreter, anwesend.
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 5.5
 Öffentlichkeit der Wahlhandlung und\\
 Ergebnisfeststellung
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 Die Wahlhandlung sowie die Ermittlung und Feststellung des Wahlergebnisses waren öffentlich.
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 5.6
 Versicherung zur Richtigkeit der Niederschrift
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 Vorstehende Niederschrift wurde von den Mitgliedern des Wahlvorstandes genehmigt und von ihnen unterschrieben.
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 Ort und Datum\\
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Der Wahlvorsteher\\
-
+ 
 Die übrigen Beisitzer\\
-
+ 
 \\
-
+ 
 Der Stellvertreter\\
-
+ 
 \\
-
+ 
 \\
-
+ 
 Der Schriftführer\\
-
+ 
 \\
-
+ 
 \\
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 5.7
 
 Verweigerung der Unterschrift und Angabe von Gründen
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
+ 
 
 Das/Die Mitglied(er) des Wahlvorstandes
 
-
+ 
 
 ..............................\\
 (Vor- und Familienname)
 
+ 
 
-
-
+ 
 
 verweigerte(n) die Unterschrift unter der Wahlniederschrift, weil
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
-
+ 
 
 ............................................................\\
 ............................................................\\
 ............................................................\\
 (Angabe der Gründe)
 
-
+ 
 
 5.8
 
 Bündelung von Stimmzetteln und Wahlscheinen
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
+ 
 
 Nach Schluss des Wahlgeschäfts wurden alle Stimmzettel und Wahlscheine, die nicht dieser Wahlniederschrift als Anlagen beigefügt sind, wie folgt geordnet, gebündelt und in Papier verpackt (abweichend bei Punkt 3.2 d)):
 
-
+ 
 
 \\
 
@@ -4647,41 +4647,41 @@ Nach Schluss des Wahlgeschäfts wurden alle Stimmzettel und Wahlscheine, die nic
 - d) :: ein Paket mit den eingenommenen Wahlscheinen sowie
 - e) :: ein Paket mit den unbenutzten Stimmzetteln.
 
+ 
 
-
-
+ 
 
 Die Pakete zu a) bis d) wurden versiegelt und mit dem Namen der Gemeinde, der Nummer des Wahlbezirks und der Inhaltsangabe versehen.
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 5.9
 
 Übergabe der Wahlunterlagen
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
+ 
 
 Dem Beauftragten der Gemeindebehörde wurden
 
-
+ 
 
 am ........................, um ......... Uhr, übergeben
 
@@ -4692,37 +4692,37 @@ am ........................, um ......... Uhr, übergeben
   sowie
 - -- :: alle sonstigen dem Wahlvorstand von der Gemeinde zur Verfügung gestellten Gegenstände und Unterlagen.
 
+ 
 
-
-
+ 
 
 Der Wahlvorsteher
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
+ 
 
 \\
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
+ 
 
 |   |   |
 
@@ -4730,47 +4730,47 @@ Der Wahlvorsteher
 
 |   |   |
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
-
+ 
 
 Vom Beauftragten der Gemeindebehörde wurde die Wahlniederschrift mit allen darin verzeichneten Anlagen am .........., um .......... Uhr, auf Vollständigkeit überprüft und übernommen.
 
+ 
 
-
-
+ 
 
 \\
 ..............................\\
 (Unterschrift des Beauftragten der Gemeindebehörde)
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
+ 
 
 Achtung: Es ist sicherzustellen, dass die Wahlniederschrift mit den Anlagen sowie die Pakete mit den weiteren Unterlagen Unbefugten nicht zugänglich sind.
 
-
+ 
 
 
 Anlage 30 - (zu §§ 72 Abs. 3, 75 Abs. 6, 76 Abs. 1 und 6, § 77 Abs. 1, § 78 Abs. 4)
@@ -4791,303 +4791,303 @@ am ..........
 
 2.
 Zulassung der Wahlbriefe
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 2.1
 Eröffnung der Wahlhandlung
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 Der Briefwahlvorsteher eröffnete die Wahlhandlung um\\
 damit, dass er die anwesenden Mitglieder des Briefwahlvorstandes auf ihre Verpflichtung zur unparteiischen Wahrnehmung ihres Amtes und zur Verschwiegenheit über die ihnen bei ihrer amtlichen Tätigkeit bekannt gewordenen Angelegenheiten hinwies; er stellte die Erteilung dieses Hinweises an alle Beisitzer vor Aufnahme ihrer Tätigkeit sicher. Er belehrte sie über ihre Aufgaben.\\
 Abdrucke des Bundeswahlgesetzes und der Bundeswahlordnung lagen im Wahlraum vor.
-
+ 
 (Bitte Uhrzeit eintragen:)\\
 ............... Uhr ............... Minuten
-
+ 
 2.2
 Vorbereitung der Wahlurne
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 Der Briefwahlvorstand stellte fest, dass sich die Wahlurne in ordnungsgemäßem Zustand befand und leer war.
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 (Bitte Zutreffendes ankreuzen:)
-
-
+ 
+ 
 Sodann wurde die Wahlurne
-
- □
+ 
+ □ 
 versiegelt.
-
-
-
-
- □
+ 
+ 
+ 
+ 
+ □ 
 verschlossen; der Briefwahlvorsteher nahm den Schlüssel in Verwahrung.
-
+ 
 2.3
 Anzahl Wahlbriefe; Ungültigkeit von\\
 Wahlscheinen
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 Der Briefwahlvorstand stellte weiter fest, dass ihm von/vom
-
+ 
 (Bitte die zuständige Stelle eintragen:)\\
 ............................................................
-
-
-
-
+ 
+ 
+ 
+ 
 (Bitte Anzahl eintragen:)
-
-
-
-
+ 
+ 
+ 
+ 
 ............... Wahlbriefe übergeben worden sind.
-
-
+ 
+ 
 Der Briefwahlvorstand stellte weiter fest, dass ihm
-
+ 
 (Bitte Zutreffendes ankreuzen:)
-
-
-
-
- □
+ 
+ 
+ 
+ 
+ □ 
 eine Mitteilung, dass keine Wahlscheine für ungültig erklärt worden sind, übergeben worden ist
-
-
-
-
- □
+ 
+ 
+ 
+ 
+ □ 
 .................. (Anzahl) Verzeichnis/Verzeichnisse der für ungültig erklärten Wahlscheine übergeben worden ist/sind
-
-
-
-
- □
+ 
+ 
+ 
+ 
+ □ 
 .................. (Anzahl) Nachtrag/Nachträge zu diesem/n Verzeichnis/Verzeichnissen übergeben worden ist/sind.
-
-
+ 
+ 
 Die in dem/den Verzeichnis/Verzeichnissen der für ungültig erklärten Wahlscheine und in dem/den Nachträgen zu diesem/n Verzeichnis/Verzeichnissen aufgeführten Wahlbriefe wurden ausgesondert und später dem Briefwahlvorstand zur Beschlussfassung vorgelegt (siehe unten unter Punkt 2.5).
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 2.4
 Am Wahltag eingegangene Wahlbriefe
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 Die Wahlbriefe, die am Wahltag bei der auf dem Wahlbriefumschlag angegebenen Stelle noch vor Schluss der Wahlzeit eingegangen waren, wurden dem Briefwahlvorstand überbracht.
-
+ 
 \\
 \\
 \\
 (Bitte Zutreffendes ankreuzen:)
-
-
-
-
- □
+ 
+ 
+ 
+ 
+ □ 
 Nein, es wurden keine noch vor Schluss der Wahlzeit eingegangenen Wahlbriefe überbracht.\\
 (weiter bei Punkt 2.5)
-
-
-
-
- □
+ 
+ 
+ 
+ 
+ □ 
 Ja, es wurden noch vor Schluss der Wahlzeit eingegangene Wahlbriefe überbracht.\\
 (Bitte die weiteren Eintragungen vornehmen:)\\
 Ein Beauftragter des/der\\
 ............................................................\\
 überbrachte um ......... Uhr ............ Minuten\\
 weitere ............... (Anzahl) Wahlbriefe.
-
+ 
 2.5
 Zulassung, Beanstandung und Zurückweisung von Wahlbriefen
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 2.5.1
 Ein vom Briefwahlvorsteher bestimmtes Mitglied des Briefwahlvorstands öffnete die Wahlbriefe nacheinander, entnahm ihnen den Wahlschein und den Stimmzettelumschlag und übergab beide dem Briefwahlvorsteher.
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 2.5.2
 Es wurden
-
+ 
 (Bitte Zutreffendes ankreuzen:)
-
-
-
-
- □
+ 
+ 
+ 
+ 
+ □ 
 keine Wahlbriefe beanstandet.\\
 Nachdem weder der Wahlschein noch der Stimmzettelumschlag zu beanstanden war, wurde der Stimmzettelumschlag ungeöffnet in die Wahlurne gelegt. Die Wahlscheine wurden gesammelt.  \\
 (weiter bei Punkt 3.)
-
-
-
-
- □
+ 
+ 
+ 
+ 
+ □ 
 insgesamt ............... (Anzahl) Wahlbriefe beanstandet.\\
 (weiter bei Punkt 2.5.3)
-
+ 
 2.5.3
 Von den beanstandeten Wahlbriefen wurden durch Beschluss zurückgewiesen
-
+ 
 (Bitte in den zutreffenden Fallgruppen die jeweilige Anzahl an zurückgewiesenen Wahlbriefen eintragen:)
-
-
-
-
+ 
+ 
+ 
+ 
 ......... Wahlbriefe, weil dem Wahlbriefumschlag kein oder kein gültiger Wahlschein beigelegen hat,
-
-
-
-
+ 
+ 
+ 
+ 
 ......... Wahlbriefe, weil dem Wahlbriefumschlag kein Stimmzettelumschlag beigefügt war,
-
-
-
-
+ 
+ 
+ 
+ 
 ......... Wahlbriefe, weil weder der Wahlbriefumschlag noch der Stimmzettelumschlag verschlossen waren,
-
-
-
-
+ 
+ 
+ 
+ 
 ......... Wahlbriefe, weil der Wahlbriefumschlag mehrere Stimmzettelumschläge, aber nicht die gleiche Anzahl gültiger und mit der vorgeschriebenen Versicherung an Eides statt versehener Wahlscheine enthält,
-
-
-
-
+ 
+ 
+ 
+ 
 ......... Wahlbriefe, weil der Wähler oder die Hilfsperson die vorgeschriebene Versicherung an Eides statt zur Briefwahl auf dem Wahlschein nicht unterschrieben hat,
-
-
-
-
+ 
+ 
+ 
+ 
 ......... Wahlbriefe, weil kein amtlicher Stimmzettelumschlag benutzt worden war,
-
-
-
-
+ 
+ 
+ 
+ 
 ......... Wahlbriefe, weil ein Stimmzettelumschlag benutzt worden war, der offensichtlich in einer das Wahlgeheimnis gefährdenden Weise von den übrigen abwich oder einen deutlich fühlbaren Gegenstand enthalten hat.
-
-
-
-
+ 
+ 
+ 
+ 
 Insgesamt: ............... (Anzahl) Wahlbriefe
-
-
+ 
+ 
 Die zurückgewiesenen Wahlbriefe wurden samt Inhalt ausgesondert, mit einem Vermerk über den Zurückweisungsgrund versehen, wieder verschlossen, fortlaufend nummeriert und der Wahlniederschrift beigefügt.
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 2.5.4
 Nach besonderer Beschlussfassung wurden beanstandete Wahlbriefe zugelassen.
-
+ 
 (Bitte Zutreffendes ankreuzen:)
-
-
-
- □
+ 
+ 
+ 
+ □ 
 Nein.\\
 (weiter bei Punkt 3.)
-
-
-
-
- □
+ 
+ 
+ 
+ 
+ □ 
 Ja. Es wurden insgesamt\\
 ............... (Anzahl) Wahlbriefe nach besonderer Beschlussfassung zugelassen. Der/die Stimmzettelumschlag/Stimmzettelumschläge wurde/n ungeöffnet in die Wahlurne gelegt. Die Wahlscheine wurden gesammelt. War Anlass der Beschlussfassung der Wahlschein, so wurde dieser der Wahlniederschrift beigefügt.
-
+ 
 3.
 Ermittlung und Feststellung des\\
 Briefwahlergebnisses
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 3.1
 Öffnung der Wahlbriefe
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 Alle bis 18.00 Uhr eingegangenen Wahlbriefe wurden geöffnet, die Stimmzettelumschläge entnommen und in die Wahlurne gelegt.
-
-
-
+ 
+ 
+ 
 3.2
 Zahl der Wähler; Öffnung der Wahlurne
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 3.2.1
 Zunächst wurden die Wahlscheine gezählt.
-
+ 
 (Bitte Zahl eintragen:)
-
-
+ 
+ 
 Die Zählung ergab
-
+ 
 ............... Wahlscheine.
-
-
+ 
+ 
 Die Zählung ergab, dass
-
- □
+ 
+ □ 
 mehr als 50 Wahlbriefe zugelassen wurden\\
 (weiter bei Punkt 3.2.3)
-
-
-
-
- □
+ 
+ 
+ 
+ 
+ □ 
 weniger als 50 Wahlbriefe zugelassen wurden; der Kreiswahlleiter wurde unterrichtet\\
 (weiter bei Punkt 3.2.2)
-
+ 
 3.2.2
 Weil weniger als 50 Wahlbriefe zugelassen wurden, hat der Kreiswahlleiter nach § 75 Absatz 3 Satz 2 in Verbindung mit § 68 Absatz 2 die gemeinsame Ermittlung und Feststellung des Briefwahlergebnisses mit einem von ihm bestimmten anderen Briefwahlvorstand
-
-
+ 
+ 
 | \\                                             |   |
 | \\                                             |   |
 | \\                                             |   |
@@ -5095,36 +5095,36 @@ Weil weniger als 50 Wahlbriefe zugelassen wurden, hat der Kreiswahlleiter nach �
 | \\                                             |   |
 | um ......... Uhr ......... Minuten angeordnet. |   |
 
-
-
+ 
+ 
 Der Briefwahlvorstand des Briefwahlbezirks mit weniger als 50 Wählern (abgebender Briefwahlvorstand)
-
-
+ 
+ 
 \\
 \\
 ............................................................\\
 (abgebender Briefwahlvorstand/Briefwahlvorstand-Nummer)
-
-
+ 
+ 
 hat die verschlossene Wahlurne und die eingenommenen Wahlscheine dem vom Kreiswahlleiter bestimmten Briefwahlvorstand (aufnehmender Briefwahlvorstand)
-
-
+ 
+ 
 \\
 \\
 \\
 ............................................................\\
 (aufnehmender Briefwahlvorstand/Briefwahlvorstand-Nummer)
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 | um ......... Uhr ......... Minuten übergeben. |   |
 
-
-
+ 
+ 
 Am Wahlraum des abgebenden Briefwahlvorstands wurde ein Hinweis angebracht, wo die gemeinsame Ermittlung und Feststellung des Briefwahlergebnisses erfolgt. Beim Transport der zu übergebenden Gegenstände waren der Briefwahlvorsteher und der Schriftführer, ein weiteres Mitglied des Briefwahlvorstands und soweit möglich weitere im Wahlraum anwesende Wahlberechtigte als Vertreter der Öffentlichkeit anwesend.
-
+ 
 \\
 \\
 \\
@@ -5133,7 +5133,7 @@ Am Wahlraum des abgebenden Briefwahlvorstands wurde ein Hinweis angebracht, wo d
 \\
 \\
 \\
- □
+ □ 
 \\
 \\
 \\
@@ -5144,266 +5144,266 @@ Am Wahlraum des abgebenden Briefwahlvorstands wurde ein Hinweis angebracht, wo d
 \\
 (Bitte durch Ankreuzen bestätigen)\\
 (Weiter bei Punkt 5.4)
-
+ 
 3.2.3
 Sodann wurde die Wahlurne geöffnet.
-
-
+ 
+ 
 (Bitte Uhrzeit eintragen:)
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 | ......... Uhr ......... Minuten |   |
 
-
-
+ 
+ 
 Die Stimmzettelumschläge wurden entnommen. Der Briefwahlvorsteher überzeugte sich, dass die Wahlurne leer war.
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 
 Der Inhalt der Wahlurne wurde vor der Auszählung mit dem Inhalt einer anderen Wahlurne vermischt, weil
 
-
+ 
 
 (Soweit zutreffend ankreuzen, sonst weiter bei Punkt 3.2.4)
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
- □
+ □ 
 
 aufgrund der Anordnung des Kreiswahlleiters\\
 von ......... Uhr ......... Minuten die verschlossene Wahlurne und die eingenommenen Wahlscheine des
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 ............................................................\\
 (abgebender Briefwahlvorstand/Briefwahlvorstand-Nummer)
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 um ......... Uhr ......... Minuten zur gemeinsamen Ermittlung und Feststellung des Briefwahlergebnisses übernommen wurden.
 
+ 
 
-
-
+ 
 
 Bei der Zahl der Wahlscheine (Punkt 3.2.1) sind die eingenommenen Wahlscheine des abgebenden und des aufnehmenden Briefwahlvorstands zusammenzuzählen.
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
+ 
 
 Nach der Vermischung sind die Stimmzettelumschläge und die Stimmzettel gemeinsam auszuzählen (ab Punkt 3.2.4).
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 3.2.4
 
 Sodann wurden die Stimmzettelumschläge ungeöffnet gezählt.
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
-
+ 
 
 (Bitte Zahl eintragen:)
 
+ 
 
-
-
+ 
 
 Die Zählung ergab
 
-
+ 
 
 ............... Stimmzettelumschläge (= Wähler)
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 Diese Zahl hinten in Abschnitt 4 bei Kennbuchstabe [[../normengrafiken/bgbl1_2020/j0199-1_0160.jpg]] = Wähler insgesamt, zugleich [[../normengrafiken/bgbl1_2020/j0199-1_0170.jpg]] eintragen.
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 (Bitte Zutreffendes ankreuzen:)
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
- □
+ □ 
 
 Die Zahl der Stimmzettelumschläge und der Wahlscheine stimmte überein.\\
 (weiter bei Punkt 3.2.5)
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
- □
+ □ 
 
 Die Zahl der Stimmzettelumschläge und der Wahlscheine stimmte nicht überein.
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 Die Verschiedenheit, die auch bei wiederholter Zählung bestehen blieb, erklärt sich aus folgenden Gründen:
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 ............................................................\\
 ............................................................\\
 ............................................................\\
 ............................................................
 
-
+ 
 
 3.2.5
 
 Der Schriftführer übertrug die Zahl der Wähler in Abschnitt 4 Kennbuchstabe B der Wahlniederschrift.
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 3.3
 
 Zählung der Stimmen; Stimmzettelstapel
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
+ 
 
 Nunmehr öffneten mehrere Beisitzer unter Aufsicht des Briefwahlvorstehers die Stimmzettelumschläge, nahmen die Stimmzettel heraus, bildeten daraus die folgenden Stapel und behielten sie unter Aufsicht:
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 3.3.1
 
 - a) :: Die nach den Landeslisten getrennten Stapel mit den Stimmzetteln, auf denen die Erst- und Zweitstimme zweifelsfrei gültig für den Bewerber und die Landesliste derselben Partei abgegeben worden war,
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
+ 
 
 - b) :: einen gemeinsamen Stapel mit
   - -- :: den Stimmzetteln, auf denen die Erst- und die Zweitstimme zweifelsfrei gültig für Bewerber und Landeslisten verschiedener Wahlvorschlagsträger abgegeben worden waren und
@@ -5413,380 +5413,380 @@ Nunmehr öffneten mehrere Beisitzer unter Aufsicht des Briefwahlvorstehers die S
 - e) :: einen Stapel aus Stimmzettelumschlägen, und Stimmzetteln, die Anlass zu Bedenken gaben und über die später vom Briefwahlvorstand Beschluss zu fassen war.
   Die beiden Stapel zu d) und e) wurden ausgesondert und von einem vom Briefwahlvorsteher dazu bestimmten Beisitzer in Verwahrung genommen.
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 3.3.2
 
 Die Beisitzer, die die nach Landeslisten geordneten Stapel zu a) unter ihrer Aufsicht hatten, übergaben die einzelnen Stapel zu a) in der Reihenfolge der Landeslisten auf dem Stimmzettel nacheinander zu einem Teil dem Briefwahlvorsteher, zum anderen Teil seinem Stellvertreter. Diese prüften, ob die Kennzeichnung der Stimmzettel eines jeden Stapels gleich lautete und sagten zu jedem Stapel laut an, für welchen Bewerber und für welche Landesliste er Stimmen enthielt. Gab ein Stimmzettel dem Briefwahlvorsteher oder seinem Stellvertreter Anlass zu Bedenken, so fügten sie den Stimmzettel dem Stapel zu e) bei.
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
+ 
 
 Nunmehr prüfte der Briefwahlvorsteher den Stapel zu c) mit den ungekennzeichneten Stimmzetteln und den leeren Stimmzettelumschlägen, die ihm hierzu von dem Beisitzer, der sie in Verwahrung hatte, übergeben wurden. Der Briefwahlvorsteher sagte an, dass hier beide Stimmen ungültig sind.
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
+ 
 
 Danach zählten je zwei vom Briefwahlvorsteher bestimmte Beisitzer nacheinander je einen der zu a) und c) gebildeten Stapel unter gegenseitiger Kontrolle durch und ermittelten
 
-
+ 
 
 \\
 \\
 (Zwischensummenbildung I)
 
+ 
 
-
-
+ 
 
 die Zahl der für die einzelnen Bewerber
 
-
+ 
 
 = Zeilen D1, D2, D3 usw. in Abschnitt 4
 
+ 
 
-
-
+ 
 
 die Zahl der für die einzelnen Landeslisten
 
-
+ 
 
 = Zeilen F1, F2, F3 usw. in Abschnitt 4
 
+ 
 
-
-
+ 
 
 abgegebenen Stimmen sowie
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 die Zahl der ungültigen Erststimmen und
 
-
+ 
 
 = Zeile C in Abschnitt 4
 
+ 
 
-
-
+ 
 
 die Zahl der ungültigen Zweitstimmen.
 
-
+ 
 
 = Zeile E in Abschnitt 4
 
+ 
 
-
-
+ 
 
 Die so ermittelten Stimmenzahlen wurden als Zwischensummen I (ZS I) vom Schriftführer hinten in Abschnitt 4 in den genannten Zeilen eingetragen.
 
-
+ 
 
 \\
 \\
  □  (Nach Eintragung durch Ankreuzen bestätigen)
 
-
+ 
 
 3.3.3
 
 Sodann übergab der Beisitzer, der den nach b) gebildeten Stapel unter seiner Aufsicht hatte, den Stapel dem Briefwahlvorsteher.\\
 \\
 
+ 
 
+ 
 
-
-
-
+ 
 
 3.3.3.1
 
 Der Briefwahlvorsteher legte die Stimmzettel zunächst getrennt nach Zweitstimmen für die einzelnen Landeslisten und las bei jedem Stimmzettel laut vor, für welche Landesliste die Zweitstimme abgegeben worden war. Bei den Stimmzetteln, auf denen nur die Erststimme abgegeben worden war, sagte er an, dass die nicht abgegebene Zweitstimme ungültig ist, und bildete daraus einen weiteren Stapel. Stimmzettel, die dem Briefwahlvorsteher Anlass zu Bedenken gaben, fügte er dem Stapel zu e) bei.
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
+ 
 
 Danach zählten je zwei vom Briefwahlvorsteher bestimmte Beisitzer nacheinander die vom Briefwahlvorsteher gebildeten Stapel unter gegenseitiger Kontrolle durch und ermittelten
 
-
+ 
 
 \\
 \\
 (Zwischensummenbildung II -- Zweitstimmen --)
 
+ 
 
-
-
+ 
 
 die Zahl der für die einzelnen Landeslisten\\
 abgegebenen Stimmen
 
-
+ 
 
 = Zeilen F1, F2, F3 usw. in Abschnitt 4
 
+ 
 
-
-
+ 
 
 sowie
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 die Zahl der ungültigen Zweitstimmen.
 
-
+ 
 
 = Zeile E in Abschnitt 4
 
+ 
 
-
-
+ 
 
 Die so ermittelten Stimmenzahlen wurden als Zwischensummen II (ZS II) vom Schriftführer hinten in Abschnitt 4 in den genannten Zeilen eingetragen.
 
+ 
 
-
 \\
 \\
 \\
- □
+ □ 
 
 \\
 \\
 \\
 (Nach Eintragung durch Ankreuzen bestätigen)
 
-
+ 
 
 3.3.3.2
 
 Anschließend ordnete der Briefwahlvorsteher die Stimmzettel aus dem Stapel zu b) neu, und zwar nach den für die einzelnen Bewerber abgegebenen Erststimmen. Dabei wurde entsprechend 3.3.3.1 verfahren und die
 
-
+ 
 
 \\
 \\
 \\
 (Zwischensummenbildung II -- Erststimmen --)
 
+ 
 
-
-
+ 
 
 Zahl der für die einzelnen Bewerber\\
 abgegebenen Stimmen
 
-
+ 
 
 = Zeilen D1, D2, D3 usw. in Abschnitt 4
 
+ 
 
-
-
+ 
 
 sowie
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 die Zahl der ungültigen Erststimmen
 
-
+ 
 
 = Zeile C in Abschnitt 4
 
+ 
 
-
-
+ 
 
 ermittelt.
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 Die so ermittelten Stimmenzahlen wurden als Zwischensummen II (ZS II) vom Schriftführer hinten in Abschnitt 4 in den genannten Zeilen eingetragen.
 
+ 
 
-
 \\
 \\
 \\
- □
+ □ 
 
 \\
 \\
 \\
 (Nach Eintragung durch Ankreuzen bestätigen)
 
-
+ 
 
 3.3.4
 
 Die Zählungen nach 3.3.2 und 3.3.3 verliefen wie folgt:
 
-
+ 
 
 (Bitte Zutreffendes ankreuzen:)
 
+ 
 
+ 
 
-
-
- □
+ □ 
 
 Unstimmigkeiten bei den Zählungen haben sich nicht ergeben.
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
- □
+ □ 
 
 Da sich zahlenmäßige Abweichungen ergaben, zählten die beiden Beisitzer den betreffenden Stapel nacheinander erneut.
 
+ 
 
-
-
+ 
 
 Danach ergab sich Übereinstimmung zwischen den Zählungen.
 
-
+ 
 
 \\
- □
+ □ 
 
 \\
 (Bitte durch Ankreuzen bestätigen)
 
-
+ 
 
 3.3.5
 
 Zum Schluss entschied der Briefwahlvorstand über die Gültigkeit der Stimmen, die auf den übrigen in den Stapeln zu d) und e) ausgesonderten Stimmzetteln abgegeben worden waren. Der Briefwahlvorsteher gab die Entscheidung mündlich bekannt und sagte jeweils bei gültigen Stimmen, für welchen Bewerber oder für welche Landesliste die Stimme abgegeben worden war. Er vermerkte auf der Rückseite jedes Stimmzettels, ob beide Stimmen oder nur die Erststimme oder nur die Zweitstimme für gültig oder ungültig erklärt worden waren, und versah die Stimmzettel mit fortlaufenden Nummern.
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
+ 
 
 Die so ermittelten gültigen oder ungültigen Stimmen wurden als Zwischensummen III (ZS III) vom Schriftführer hinten in Abschnitt 4 eingetragen.
 
+ 
 
-
 \\
 \\
 \\
- □
+ □ 
 
 \\
 \\
 \\
 (Nach Eintragung durch Ankreuzen bestätigen)
 
-
+ 
 
 3.3.6
 
 Der Schriftführer zählte die Zwischensummen der ungültigen Erst- und Zweitstimmen sowie der gültigen Stimmen jeweils für die einzelnen Wahlvorschläge zusammen. Zwei vom Briefwahlvorsteher bestimmte Beisitzer überprüften die Zusammenzählung.
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 3.4
 
 Sammlung und Beaufsichtigung der\\
 Stimmzettel
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
+ 
 
 Die vom Briefwahlvorsteher bestimmten Beisitzer sammelten
 
@@ -5797,96 +5797,96 @@ Die vom Briefwahlvorsteher bestimmten Beisitzer sammelten
   die Stimmzettel, die Anlass zu Bedenken gegeben hatten und
   die Stimmzettelumschläge mit mehreren Stimmzetteln,
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
+ 
 
 je für sich und behielten sie unter ihrer Aufsicht.
 
-
+ 
 
 Die in d) bezeichneten Stimmzettelumschläge und Stimmzettel sind als Anlagen unter den fortlaufenden Nummern
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
 
 .......... bis  ..........
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
+ 
 
 beigefügt.
 
+ 
 
-
-
+ 
 
 3.5
 
 Feststellung und Bekanntgabe des\\
 Briefwahlergebnisses
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
+ 
 
 Das im nachstehenden Abschnitt 4 der Wahlniederschrift enthaltene Ergebnis wurde vom Briefwahlvorstand als das Briefwahlergebnis festgestellt und vom Briefwahlvorsteher mündlich bekannt gegeben.
 
+ 
 
-
 \\
 \\
 \\
 \\
- □
+ □ 
 
 \\
 \\
@@ -5894,82 +5894,82 @@ Das im nachstehenden Abschnitt 4 der Wahlniederschrift enthaltene Ergebnis wurde
 \\
 (Bitte durch Ankreuzen bestätigen)
 
-
+ 
 
 4.
 
 Wahlergebnis
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
+ 
 
 \\
  Kennbuchstaben für die Zahlenangaben\\
 
+ 
 
-
-
+ 
 
 (Wahlniederschrift und Vordruck für die Schnellmeldung sind aufeinander abgestimmt. Die einzelnen Zahlen des Wahlergebnisses sind in die Schnellmeldung (siehe Punkt 5.3) bei demselben Kennbuchstaben einzutragen, mit dem sie in der Wahlniederschrift bezeichnet sind.)
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
+ 
 
 [[../normengrafiken/bgbl1_2020/j0199-1_0180.jpg]] Wähler insgesamt [vgl. oben 3.2.4]
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 zugleich
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
+ 
 
 [[../normengrafiken/bgbl1_2020/j0199-1_0190.jpg]] Wähler mit Wahlschein
 
-
+ 
 
 ............................................................
 
-
+ 
 
 | Ergebnis der Wahl im Wahlkreis (Erststimmen)                                                                                                                                           |
 | Summe [[../normengrafiken/bgbl1_2020/j0199-1_0200.jpg]] + [[../normengrafiken/bgbl1_2020/j0199-1_0210.jpg]] muss mit [[../normengrafiken/bgbl1_2020/j0199-1_0220.jpg]] übereinstimmen. |
@@ -6007,292 +6007,292 @@ Gültige Zweitstimmen:
 
 5.
 Abschluss der Wahlergebnisfeststellung
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 5.1
 Besondere Vorkommnisse bei der\\
 Ergebnisfeststellung
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 Bei der Ermittlung und Feststellung des Wahlergebnisses waren als besondere Vorkommnisse zu verzeichnen:
-
+ 
 \\
 \\
 ............................................................\\
 ............................................................
-
-
+ 
+ 
 Der Briefwahlvorstand fasste in diesem Zusammenhang folgende Beschlüsse:
-
+ 
 \\
 ............................................................\\
 ............................................................
-
+ 
 5.2
 Erneute Zählung
-
-
-
-
+ 
+ 
+ 
+ 
 (Wenn keine Nachzählung stattgefunden hat, ist der gesamte Abschnitt 5.2 zu streichen.)
-
-
-
-
+ 
+ 
+ 
+ 
 Das/Die Mitglied(er) des Briefwahlvorstandes
-
+ 
 ............................................................,\\
 (Vor- und Familienname)
-
-
+ 
+ 
 beantragte(n) vor Unterzeichnung der Wahlniederschrift eine erneute Zählung der Stimmen, weil
-
+ 
 \\
 ............................................................\\
 ............................................................\\
 ............................................................\\
 (Angabe der Gründe)
-
-
+ 
+ 
 Daraufhin wurde der Zählvorgang (vgl. Abschnitt 3.3) wiederholt. Das in Abschnitt 4 der Wahlniederschrift enthaltene Wahlergebnis für den Wahlbezirk wurde
-
+ 
 \\
 \\
 \\
 (Bitte Zutreffendes ankreuzen:)
-
-
-
- □
+ 
+ 
+ 
+ □ 
 mit dem gleichen Ergebnis erneut festgestellt
-
-
-
-
- □
+ 
+ 
+ 
+ 
+ □ 
 berichtigt\\
 (Die berichtigten Zahlen sind in Abschnitt 4 mit anderer Farbe oder auf andere Weise kenntlich zu machen. Alte Zahlenangaben nicht löschen oder radieren.)
-
-
+ 
+ 
 und vom Briefwahlvorsteher mündlich bekannt gegeben.
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 5.3
 Schnellmeldung
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 Das Wahlergebnis aus Abschnitt 4 wurde auf den Vordruck für die Schnellmeldung nach dem Muster der Anlage 28 zur Bundeswahlordnung übertragen und
-
+ 
 \\
 \\
 \\
 auf schnellstem Wege (z. B. telefonisch)
-
-
-
-
+ 
+ 
+ 
+ 
 ............................................................\\
 (Bitte Art der Übermittlung eintragen)
-
-
-
-
+ 
+ 
+ 
+ 
 an ............................................................\\
 (Bitte Empfänger eintragen)
-
-
-
-
+ 
+ 
+ 
+ 
 übermittelt.
-
+ 
 5.4
 Anwesenheit des Briefwahlvorstandes
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 Während der Wahlhandlung waren immer mindestens drei, während der Ermittlung und Feststellung des Briefwahlergebnisses mindestens fünf Mitglieder des Briefwahlvorstandes, darunter jeweils der Briefwahlvorsteher und der Schriftführer oder ihre Stellvertreter, anwesend.
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 5.5
 Öffentlichkeit der Wahlbriefzulassung und\\
 Ergebnisfeststellung
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 Die Zulassung der Wahlbriefe sowie die Ermittlung und die Feststellung des Wahlergebnisses waren öffentlich.
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 5.6
 Versicherung zur Richtigkeit der Niederschrift
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 Vorstehende Niederschrift wurde von den Mitgliedern des Wahlvorstandes genehmigt und von ihnen unterschrieben.
+ 
+ 
+ 
+ 
+ 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
 
 Ort und Datum\\
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
+ 
 
 Der Briefwahlvorsteher\\
 
-
+ 
 
 Die übrigen Beisitzer\\
 
-
+ 
 
 \\
 
-
+ 
 
 Der Stellvertreter\\
 
-
-
-\\
-
-
+ 
 
 \\
 
+ 
 
+\\
+
+ 
 
 Der Schriftführer\\
 
-
-
-\\
-
-
+ 
 
 \\
 
+ 
 
+\\
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 5.7
 
 Verweigerung der Unterschrift und Angabe von Gründen
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 Das/Die Mitglied(er) des Briefwahlvorstandes verweigerte(n) die Unterschrift unter der Wahlniederschrift, weil
 
-
+ 
 
 \\
 \\
 ............................................................\\
 (Vor- und Familienname)
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 ............................................................\\
 ............................................................\\
 ............................................................\\
 (Angabe der Gründe)
 
-
+ 
 
 5.8
 
 Bündelung von Stimmzetteln, Stimmzettelumschlägen und Wahlscheinen
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 Nach Schluss des Wahlgeschäfts wurden alle Stimmzettel, Stimmzettelumschläge und Wahlscheine, die nicht dieser Wahlniederschrift als Anlagen beigefügt sind, wie folgt geordnet, gebündelt und in Papier verpackt (abweichend bei Punkt 3.2.2):
 
-
+ 
 
 \\
 \\
@@ -6304,63 +6304,63 @@ Nach Schluss des Wahlgeschäfts wurden alle Stimmzettel, Stimmzettelumschläge u
 - d) :: ein Paket mit den leer abgegebenen Stimmzettelumschlägen sowie
 - e) :: ein Paket mit den eingenommenen Wahlscheinen.
 
+ 
 
-
-
+ 
 
 Die Pakete wurden versiegelt und mit der Nummer des Briefwahlvorstandes sowie der Inhaltsangabe versehen.
 
+ 
 
+ 
 
-
-
-
+ 
 
 5.9
 
 Übergabe der Wahlunterlagen
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 Dem Beauftragten des/der
 
-
+ 
 
 (Bitte eintragen, z. B. Gemeindebehörde)
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 ............................................................
 
+ 
 
-
-
+ 
 
 wurden
 
-
+ 
 
 am .......... , um .......... Uhr, übergeben
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 - -- :: diese Wahlniederschrift mit Anlagen,
 - -- :: die Pakete wie in Abschnitt 5.8 beschrieben,
@@ -6371,37 +6371,37 @@ am .......... , um .......... Uhr, übergeben
   ............................................................
   zur Verfügung gestellten Gegenstände und Unterlagen.
 
+ 
 
-
-
+ 
 
 Der Briefwahlvorsteher
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
+ 
 
 ............................................................\\
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
+ 
 
 |   |   |
 
@@ -6409,48 +6409,48 @@ Der Briefwahlvorsteher
 
 |   |   |
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
-
+ 
 
 Vom Beauftragten des/der ....................  wurde die Wahlniederschrift mit allen darin verzeichneten\\
 Anlagen am .........., um .......... Uhr, auf Vollständigkeit überprüft und übernommen.
 
+ 
 
-
-
+ 
 
 \\
 ............................................................\\
 (Unterschrift des Beauftragten)
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
+ 
 
 Achtung: Es ist sicherzustellen, dass die Wahlniederschrift mit den Anlagen sowie die Pakete mit den weiteren Unterlagen Unbefugten nicht zugänglich sind.
 
-
+ 
 
 
 Anlage 32 - (zu § 76 Abs. 6)

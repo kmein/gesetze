@@ -18,7 +18,7 @@ Anlage 1 - (Anlage IV des BBesG) *)
 (Fundstelle des Originaltextes: BGBl. I 1999, 2208 - 2210)
 \\
 Gültig ab 1. Juni 1999
-
+ 
 1. Bundesbesoldungsordnung A
 Grundgehaltssätze\\
 (Monatsbeträge in DM)
@@ -82,69 +82,69 @@ A 7
 3.455,69
 3.566,06
 A 8
-
+ 
 3.236,59
 3.330,88
 3.472,32
 3.613,75
 3.755,18
 A 9
-
+ 
 3.448,32
 3.541,09
 3.692,02
 3.842,98
 3.993,92
 A 10
-
+ 
 3.715,57
 3.844,51
 4.037,90
 4.231,30
 4.424,69
 A 11
-
-
+ 
+ 
 4.283,08
 4.481,25
 4.679,41
 4.877,58
 A 12
-
-
+ 
+ 
 4.606,26
 4.842,53
 5.078,78
 5.315,04
 A 13
-
-
+ 
+ 
 5.184,74
 5.439,88
 5.695,00
 5.950,13
 A 14
-
-
+ 
+ 
 5.396,12
 5.726,96
 6.057,80
 6.388,64
 A 15
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 7.025,44
 A 16
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 7.759,38
-
+ 
 Besoldungsgruppe
 3-Jahres-Rhythmus
 4-Jahres-Rhythmus
@@ -157,74 +157,74 @@ Stufe
 12
 A 1
 2.903.10
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 A 2
 3.038,31
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 A 3
 3.173,63
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 A 4
 3.308,99
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 A 5
 3.352,27
 3.432,15
-
-
-
-
+ 
+ 
+ 
+ 
 A 6
 3.443,81
 3.531,51
 3.619,22
-
-
-
+ 
+ 
+ 
 A 7
 3.676,41
 3.755,24
 3.834,07
 3.912,92
-
-
+ 
+ 
 A 8
 3.896,62
 3.990,91
 4.085,20
 4.179,50
 4.273,78
-
+ 
 A 9
 4.144,87
 4.248,64
 4.352,41
 4.456,18
 4.559,95
-
+ 
 A 10
 4.618,08
 4.747,02
 4.875,95
 5.004,87
 5.133,80
-
+ 
 A 11
 5.075,75
 5.207,86
@@ -267,15 +267,15 @@ A 16
 9.189,72
 9.526,28
 9.862,83
-
+ 
 Gültig ab 1. Januar 2000
-
-
+ 
+ 
 2. Bundesbesoldungsordnung B
 Grundgehaltssätze\\
 (Monatsbeträge in DM)
 Besoldungsgruppe
-
+ 
 B 1
 8.844,17
 B 2
@@ -298,10 +298,10 @@ B 10
 17.933,76
 B 11
 19.463,55
-
-
+ 
+ 
 Gültig ab 1. Juni 1999 für die Besoldungsgruppen C 1 bis C 3; für die Besoldungsgruppe C 4 ab 1. Januar 2000
-
+ 
 3. Bundesbesoldungsordnung C
 Grundgehaltssätze\\
 (Monatsbeträge in DM)
@@ -336,7 +336,7 @@ C 4
 7.408,37
 7.716,90
 8.025,43
-
+ 
 Besoldungsgruppe
 Stufe
 6
@@ -368,7 +368,7 @@ C 4
 8.951,00
 9.259,53
 9.568,05
-
+ 
 Besoldungsgruppe
 Stufe
 11
@@ -381,7 +381,7 @@ C 1
 6.715,52
 6.885,60
 7.055,69
-
+ 
 C 2
 7.565,80
 7.836,86
@@ -400,9 +400,9 @@ C 4
 10.493,64
 10.802,16
 11.110,70
-
+ 
 Gültig ab 1. Juni 1999 für die Besoldungsgruppen R 1 und R 2; für die Besoldungsgruppen R 3 bis R 10 ab 1. Januar 2000
-
+ 
 4. Bundesbesoldungsordnung R
 Grundgehaltssätze\\
 (Monatsbeträge in DM)
@@ -429,15 +429,15 @@ R 1
 6.650,42
 6.996,89
 R 2
-
-
+ 
+ 
 6.786,84
 7.133,32
 7.479,77
 7.826,24
 R 3
 10.900,12
-
+ 
 R 4
 11.540,58
 R 5
@@ -452,7 +452,7 @@ R 9
 15.221,24
 R 10
 18.707,03
-
+ 
 Besoldungsgruppe
 Stufe
 7
@@ -491,10 +491,10 @@ Gültig ab 1. Juni 1999 für die Besoldungsordnung A,\\
 die Besoldungsgruppen C 1 bis C 3 sowie R 1 und R 2;\\
 für die Besoldungsgruppen B 1 bis B 11, C 4 und R 3 bis R 10\\
 ab 1. Januar 2000
-
+ 
 Familienzuschlag\\
 (Monatsbeträge in DM)
-
+ 
 Stufe 1\\
 (§ 40 Abs. 1)
 Stufe 2\\
@@ -614,7 +614,7 @@ B 8 und höher .
 6.025
 6.598
 7.172
-
+ 
 Besoldungsgruppe
 Stufe
 7
@@ -806,7 +806,7 @@ B 8 und höher .
 5.122
 5.610
 6.096
-
+ 
 Besoldungsgruppe
 Stufe
 7
@@ -998,7 +998,7 @@ B 8 und höher .
 4.217
 4.619
 5.022
-
+ 
 Besoldungsgruppe
 Stufe
 7
@@ -1191,7 +1191,7 @@ B 8 und höher .
 2.952
 3.234
 3.514
-
+ 
 Besoldungsgruppe
 Stufe
 7
@@ -1384,7 +1384,7 @@ B 8 und höher .
 3.585
 3.926
 4.268
-
+ 
 Besoldungsgruppe
 Stufe
 7
@@ -1576,7 +1576,7 @@ B 8 und höher .
 6.638
 7.229
 7.819
-
+ 
 Besoldungsgruppe
 Stufe
 7
@@ -1667,8 +1667,8 @@ B 8 und höher .
 9.001
 9.592
 10.185
-
-
+ 
+ 
 
 Anlage 3g - (Anlage VIg des BBesG)Gültig ab 1. Juni 1999 für die Besoldungsordnung A; für die Besoldungsordnung B ab 1. Januar 2000
 
@@ -1768,7 +1768,7 @@ B 8 und höher .
 5.700
 6.203
 6.704
-
+ 
 Besoldungsgruppe
 Stufe
 7
@@ -1859,8 +1859,8 @@ B 8 und höher .
 7.708
 8.209
 8.711
-
-
+ 
+ 
 
 Anlage 3h - (Anlage VIh des BBesG)Gültig ab 1. Juni 1999 für die Besoldungsordnung A; für die Besoldungsordnung B ab 1. Januar 2000
 
@@ -1960,7 +1960,7 @@ B 8 und höher .
 4.775
 5.189
 5.605
-
+ 
 Besoldungsgruppe
 Stufe
 7
@@ -2051,8 +2051,8 @@ B 8 und höher .
 6.433
 6.849
 7.265
-
-
+ 
+ 
 
 Anlage 3i - (Anlage VIi des BBesG)  Gültig ab 1. Juni 1999 für die Besoldungsordnung A; für die Besoldungsordnung B ab 1. Januar 2000
 
@@ -2060,7 +2060,7 @@ Fundstelle des Originaltextes: BGBl. I 1999, 2216
 \\
 Auslandskinderzuschlag (§ 56)\\
 (Monatsbeträge in DM je Kind)
-
+ 
 nach § 56 Abs. 1 Nr. 1
 nach § 56 Abs. 1 Nr. 2
 Besoldungsgruppe
@@ -2127,7 +2127,7 @@ Bundesbesoldungsgesetz
 
 § 44
 
-
+ 
 
 bis zu
 
@@ -2135,7 +2135,7 @@ bis zu
 
 § 48 Abs. 2
 
-
+ 
 
 bis zu
 
@@ -2143,7 +2143,7 @@ bis zu
 
 § 78
 
-
+ 
 
 bis zu
 
@@ -2167,35 +2167,35 @@ Nummer 4a
 
 Nummer 5
 
-
+ 
 
 Die Zulage beträgt für Mannschaften,
 
+ 
 
+ 
 
-
-
-
+ 
 
 Unteroffiziere/Beamte der Besoldungsgruppen A 5 und A 6
 
-
+ 
 
 70,00
 
-
+ 
 
 Unteroffiziere/Beamte der Besoldungsgruppen A 7 bis A 9
 
-
+ 
 
 100,00
 
-
+ 
 
 Offiziere/Beamte des gehobenen und höheren Dienstes
 
-
+ 
 
 150,00
 
@@ -2203,27 +2203,27 @@ Nummer 5a
 
 Abs. 1
 
-
+ 
 
 Buchstabe a
 
-
+ 
 
 180,00
 
-
+ 
 
 Buchstabe b
 
-
+ 
 
 300,00
 
-
+ 
 
 Buchstabe c
 
-
+ 
 
 430,00
 
@@ -2233,15 +2233,15 @@ Nr. 1
 
 Buchstabe a
 
-
+ 
 
 270,00
 
-
+ 
 
 Buchstabe b
 
-
+ 
 
 200,00
 
@@ -2249,23 +2249,23 @@ Nr. 2
 
 Buchstabe a
 
-
+ 
 
 200,00
 
-
+ 
 
 Buchstabe b
 
-
+ 
 
 80,00
 
 Nr. 3
 
+ 
 
-
-
+ 
 
 130,00
 
@@ -2273,7 +2273,7 @@ Nr. 4
 
 und 5
 
-
+ 
 
 120,00
 
@@ -2281,15 +2281,15 @@ Nr. 6
 
 Buchstabe a
 
-
+ 
 
 200,00
 
-
+ 
 
 Buchstabe b
 
-
+ 
 
 200,00
 
@@ -2297,15 +2297,15 @@ Nr. 7
 
 Buchstabe a
 
-
+ 
 
 200,00
 
-
+ 
 
 Buchstabe b
 
-
+ 
 
 80,00
 
@@ -2313,49 +2313,49 @@ Nr. 8
 
 Buchstabe a
 
-
+ 
 
 250,00
 
-
+ 
 
 Buchstabe b
 
-
+ 
 
 130,00
 
 Nr. 9
 
+ 
 
-
-
+ 
 
 120,00
 
 Nummer 6 Abs. 1
 
-
+ 
 
 Buchstabe a
 
-
+ 
 
 900,00
 
-
+ 
 
 Buchstabe b
 
-
+ 
 
 720,00
 
-
+ 
 
 Buchstabe c
 
-
+ 
 
 576,00
 
@@ -2365,275 +2365,275 @@ Nummer 6a
 
 Nummer 7
 
-
+ 
 
 Die Zulage beträgt für Beamte und Soldaten der Besoldungsgruppen
 
-
+ 
 
 12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe *)
 
-
+ 
 
 A 1 bis A 5
 
 A 5
 
+ 
 
-
-
+ 
 
 A 6 bis A 9
 
 A 9
 
+ 
 
-
-
+ 
 
 A 10 bis A 13
 
 A 13
 
+ 
 
-
-
+ 
 
 A 14, A 15, B 1
 
 A 15
 
+ 
 
-
-
+ 
 
 A 16, B 2 bis B 4
 
 B 3
 
+ 
 
-
-
+ 
 
 B 5 bis B 7
 
 B 6
 
+ 
 
-
-
+ 
 
 B 8 bis B 10
 
 B 9
 
+ 
 
-
-
-
-B 11
+ 
 
 B 11
 
+B 11
 
+ 
 
 Nummer 8
 
-
+ 
 
 Die Zulage beträgt
 
+ 
 
+ 
 
-
-
-
+ 
 
 für Beamte der Besoldungsgruppen
 
+ 
 
+ 
 
-
-
-
+ 
 
 A 1 bis A 5
 
-
+ 
 
 225,00
 
-
+ 
 
 A 6 bis A 9
 
-
+ 
 
 300,00
 
-
+ 
 
 A 10 und höher
 
-
+ 
 
 375,00
 
 Nummer 8a
 
-
+ 
 
 Die Zulage beträgt
 
+ 
 
+ 
 
-
-
-
+ 
 
 für Beamte der Besoldungsgruppen
 
+ 
 
+ 
 
-
-
-
+ 
 
 A 1 bis A 5
 
-
+ 
 
 137,03
 
-
+ 
 
 A 6 bis A 9
 
-
+ 
 
 186,84
 
-
+ 
 
 A 10 bis A 13
 
-
+ 
 
 230,43
 
-
+ 
 
 A 14 und höher
 
-
+ 
 
 274,03
 
-
+ 
 
 für Anwärter der Laufbahngruppe
 
+ 
 
+ 
 
-
-
-
+ 
 
 des mittleren Dienstes
 
-
+ 
 
 99,66
 
-
+ 
 
 des gehobenen Dienstes
 
-
+ 
 
 130,79
 
-
+ 
 
 des höheren Dienstes
 
-
+ 
 
 161,94
 
 Nummer 8b
 
-
+ 
 
 Die Zulage beträgt
 
+ 
 
+ 
 
-
-
-
+ 
 
 für Beamte der Besoldungsgruppen
 
+ 
 
+ 
 
-
-
-
+ 
 
 A 1 bis A 5
 
-
+ 
 
 180,00
 
-
+ 
 
 A 6 bis A 9
 
-
+ 
 
 240,00
 
-
+ 
 
 A 10 bis A 13
 
-
+ 
 
 300,00
 
-
+ 
 
 A 14 und höher
 
-
+ 
 
 360,00
 
 Nummer 9
 
-
+ 
 
 Die Zulage beträgt nach einer Dienstzeit
 
+ 
 
+ 
 
-
-
-
+ 
 
 von einem Jahr
 
-
+ 
 
 124,57
 
-
+ 
 
 von zwei Jahren
 
-
+ 
 
 249,14
 
@@ -2641,71 +2641,71 @@ Nummer 9a
 
 Abs. 1
 
-
+ 
 
 Buchstabe a
 
-
+ 
 
 200,00
 
-
+ 
 
 Buchstabe b
 
-
+ 
 
 400,00
 
-
+ 
 
 Buchstabe c
 
-
+ 
 
 300,00
 
 Abs. 2
 
-
+ 
 
 Buchstabe a
 
-
+ 
 
 80,00
 
-
+ 
 
 Buchstabe b
 
-
+ 
 
 100,00
 
 Nummer 10 Abs. 1
 
-
+ 
 
 Die Zulage beträgt nach einer Dienstzeit
 
+ 
 
+ 
 
-
-
-
+ 
 
 von einem Jahr
 
-
+ 
 
 124,57
 
-
+ 
 
 von zwei Jahren
 
-
+ 
 
 249,14
 
@@ -2721,43 +2721,43 @@ bis zu
 
 Nummer 13c
 
-
+ 
 
 Die Zulage beträgt für Beamte der Besoldungsgruppen
 
+ 
 
+ 
 
-
-
-
+ 
 
 A 1 bis A 7
 
-
+ 
 
 90,00
 
-
+ 
 
 A 8 bis A 11
 
-
+ 
 
 120,00
 
-
+ 
 
 A 12 bis A 15
 
-
+ 
 
 140,00
 
-
+ 
 
 A 16 und höher
 
-
+ 
 
 180,00
 
@@ -2775,27 +2775,27 @@ Nummer 25
 
 Nummer 26 Abs. 1
 
-
+ 
 
 Die Zulage beträgt für Beamte
 
+ 
 
+ 
 
-
-
-
+ 
 
 des mittleren Dienstes
 
-
+ 
 
 33,34
 
-
+ 
 
 des gehobenen Dienstes
 
-
+ 
 
 75,00
 
@@ -2803,69 +2803,69 @@ Nummer 27
 
 Abs. 1
 
-
+ 
 
 Buchstabe a
 
+ 
 
+ 
 
-
-
-
+ 
 
 Doppelbuchstabe aa
 
-
+ 
 
 29,47
 
-
+ 
 
 Doppelbuchstabe bb
 
-
+ 
 
 115,33
 
-
+ 
 
 Buchstabe b
 
-
+ 
 
 128,15
 
-
+ 
 
 Buchstabe c
 
-
+ 
 
 128,15
 
 Abs. 2
 
-
+ 
 
 Buchstabe a
 
+ 
 
+ 
 
-
-
-
+ 
 
 Doppelbuchstabe bb
 
-
+ 
 
 85,87
 
-
+ 
 
 Buchstabe b und c
 
-
+ 
 
 128,15
 
@@ -2875,39 +2875,39 @@ Nummer 30
 
 Besoldungsgruppen
 
-
+ 
 
 Fußnote
 
-
+ 
 
 A 2
 
-
+ 
 
 1
 
 55,07
 
+ 
 
-
-
+ 
 
 2
 
 34,67
 
+ 
 
-
-
+ 
 
 3
 
 101,54
 
+ 
 
-
-
+ 
 
 6
 
@@ -2915,15 +2915,15 @@ A 2
 
 A 3
 
-
+ 
 
 1, 5
 
 101,54
 
+ 
 
-
-
+ 
 
 2
 
@@ -2931,15 +2931,15 @@ A 3
 
 A 4
 
-
+ 
 
 1, 4
 
 101,54
 
+ 
 
-
-
+ 
 
 2
 
@@ -2947,15 +2947,15 @@ A 4
 
 A 5
 
-
+ 
 
 3
 
 55,07
 
+ 
 
-
-
+ 
 
 4, 6
 
@@ -2963,7 +2963,7 @@ A 5
 
 A 6
 
-
+ 
 
 6
 
@@ -2971,15 +2971,15 @@ A 6
 
 A 7
 
-
+ 
 
 2
 
 68,36
 
+ 
 
-
-
+ 
 
 5
 
@@ -2987,7 +2987,7 @@ A 7
 
 A 8
 
-
+ 
 
 2
 
@@ -2995,15 +2995,15 @@ A 8
 
 A 9
 
-
+ 
 
 2, 3, 6
 
 409,89
 
+ 
 
-
-
+ 
 
 7
 
@@ -3011,7 +3011,7 @@ A 9
 
 A 12
 
-
+ 
 
 7, 8
 
@@ -3019,23 +3019,23 @@ A 12
 
 A 13
 
-
+ 
 
 6
 
 190,39
 
+ 
 
-
-
+ 
 
 7
 
 285,57
 
+ 
 
-
-
+ 
 
 11, 12, 13
 
@@ -3043,7 +3043,7 @@ A 13
 
 A 14
 
-
+ 
 
 5
 
@@ -3051,7 +3051,7 @@ A 14
 
 A 15
 
-
+ 
 
 7
 
@@ -3059,7 +3059,7 @@ A 15
 
 B 10
 
-
+ 
 
 1, 2
 
@@ -3069,7 +3069,7 @@ B 10
 
 - *) :: Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091).
 
-
+ 
 
 Dem Grunde nach geregelt in
 
@@ -3085,83 +3085,83 @@ Nummer 2b
 
 Nummer 3
 
-
+ 
 
 Die Zulage beträgt
 
-
+ 
 
 12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe *)
 
-
+ 
 
 für Beamte der Besoldungsgruppe(n)
 
+ 
 
+ 
 
-
-
-
+ 
 
 C 1
 
 A 13
 
+ 
 
-
-
+ 
 
 C 2
 
 A 15
 
+ 
 
-
-
+ 
 
 C 3 und C 4
 
 B 3
 
-
+ 
 
 Nummer 5
 
-
+ 
 
 wenn ein Amt ausgeübt wird
 
+ 
 
+ 
 
-
-
-
+ 
 
 der Besoldungsgruppe R 1
 
-
+ 
 
 402,00
 
-
+ 
 
 der Besoldungsgruppe R 2
 
-
+ 
 
 450,00
 
 Besoldungsgruppe
 
-
+ 
 
 Fußnote
 
-
+ 
 
 C 2
 
-
+ 
 
 1
 
@@ -3171,7 +3171,7 @@ C 2
 
 - *) :: Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091).
 
-
+ 
 
 Dem Grunde nach geregelt in
 
@@ -3183,93 +3183,93 @@ Vorbemerkungen
 
 Nummer 2
 
-
+ 
 
 Die Zulage beträgt
 
-
+ 
 
 12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe *)
 
-
+ 
 
 - a) :: bei Verwendung bei obersten Gerichtshöfen des Bundes für die Richter und Staatsanwälte der Besoldungsgruppe(n)
 
+ 
 
+ 
 
-
-
-
-
-R 1
+ 
 
 R 1
 
+R 1
 
+ 
 
-
+ 
 
 R 2 bis R 4
 
 R 3
 
+ 
 
-
-
+ 
 
 R 5 bis R 7
 
 R 6
 
+ 
 
-
-
+ 
 
 R 8 bis R 10
 
 R 9
 
+ 
 
-
-
+ 
 
 - b) :: bei Verwendung bei obersten Bundesbehörden oder bei obersten Gerichtshöfen des Bundes, wenn ihnen kein Richteramt übertragen ist, für die Richter und Staatsanwälte der Besoldungsgruppe(n)
 
+ 
 
+ 
 
-
-
-
+ 
 
 R 1
 
 A 15
 
+ 
 
-
-
+ 
 
 R 2 bis R 4
 
 B 3
 
+ 
 
-
-
+ 
 
 R 5 bis R 7
 
 B 6
 
+ 
 
-
-
+ 
 
 R 8 bis R 10
 
 B 9
 
-
+ 
 
 Nummer 4
 
@@ -3277,15 +3277,15 @@ Nummer 4
 
 Besoldungsgruppen
 
-
+ 
 
 Fußnote
 
-
+ 
 
 R 1
 
-
+ 
 
 1, 2
 
@@ -3293,7 +3293,7 @@ R 1
 
 R 2
 
-
+ 
 
 3 bis 8, 10
 
@@ -3301,7 +3301,7 @@ R 2
 
 R 3
 
-
+ 
 
 3
 
@@ -3309,7 +3309,7 @@ R 3
 
 R 8
 
-
+ 
 
 2
 
@@ -3352,11 +3352,11 @@ A 1
 2.399,45
 2.455,32
 2.511,18
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 A 2
 2.295,49
 2.350,93
@@ -3365,11 +3365,11 @@ A 2
 2.517,25
 2.572,70
 2.628,14
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 A 3
 2.391,23
 2.450,22
@@ -3378,11 +3378,11 @@ A 3
 2.627,20
 2.686,20
 2.745,19
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 A 4
 2.445,55
 2.515,01
@@ -3391,11 +3391,11 @@ A 4
 2.723,37
 2.792,82
 2.862,28
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 A 5
 2.465,31
 2.554,23
@@ -3405,10 +3405,10 @@ A 5
 2.830,62
 2.899,71
 2.968,81
-
-
-
-
+ 
+ 
+ 
+ 
 A 6
 2.523,67
 2.599,55
@@ -3419,9 +3419,9 @@ A 6
 2.978,90
 3.054,76
 3.130,63
-
-
-
+ 
+ 
+ 
 A 7
 2.634,60
 2.702,79
@@ -3433,10 +3433,10 @@ A 7
 3.248,28
 3.316,47
 3.384,68
-
-
+ 
+ 
 A 8
-
+ 
 2.799,65
 2.881,21
 3.003,56
@@ -3447,9 +3447,9 @@ A 8
 3.533,70
 3.615,27
 3.696,82
-
+ 
 A 9
-
+ 
 2.982,80
 3.063,04
 3.193,60
@@ -3460,9 +3460,9 @@ A 9
 3.764,83
 3.854,60
 3.944,36
-
+ 
 A 10
-
+ 
 3.213,97
 3.325,50
 3.492,78
@@ -3473,10 +3473,10 @@ A 10
 4.217,70
 4.329,21
 4.440,74
-
+ 
 A 11
-
-
+ 
+ 
 3.704,86
 3.876,28
 4.047,69
@@ -3488,8 +3488,8 @@ A 11
 4.847,64
 4.961,91
 A 12
-
-
+ 
+ 
 3.984,41
 4.188,79
 4.393,14
@@ -3501,8 +3501,8 @@ A 12
 5.346,87
 5.483,11
 A 13
-
-
+ 
+ 
 4.484,80
 4.705,50
 4.926,18
@@ -3514,8 +3514,8 @@ A 13
 5.956,04
 6.103,17
 A 14
-
-
+ 
+ 
 4.667,64
 4.953,82
 5.240,00
@@ -3527,11 +3527,11 @@ A 14
 6.575,50
 6.766,28
 A 15
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 6.077,01
 6.391,65
 6.643,36
@@ -3540,11 +3540,11 @@ A 15
 7.398,49
 7.650,21
 A 16
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 6.711,86
 7.075,76
 7.366,87
@@ -3557,7 +3557,7 @@ Gültig ab 1. Januar 2000
 Grundgehaltssätze
 (Monatsbeträge in DM)
 Besoldungsgruppe
-
+ 
 B 1
 7.650,21
 B 2
@@ -3616,7 +3616,7 @@ C 1
 5.808,92
 5.956,04
 6.103,17
-
+ 
 C 2
 4.199,72
 4.434,20
@@ -3710,8 +3710,8 @@ R 1
 7.550,78
 7.850,47
 R 2
-
-
+ 
+ 
 5.870,62
 6.170,32
 6.470,00
@@ -3724,7 +3724,7 @@ R 2
 8.567,86
 R 3
 9.428,60
-
+ 
 R 4
 9.982,60
 R 5
@@ -3744,9 +3744,9 @@ Anlage 7 - (Anlage V des BBesG)  Gültig ab 1. Juni 1999 für die Besoldungsordn
 
 Fundstelle des Originaltextes: BGBl. I 1999, 2223
 \\
-
+ 
 Familienzuschlag (Monatsbeträge in DM)
-
+ 
 Stufe 1 (§ 40 Abs. 1)
 Stufe 2 (§ 40 Abs. 2)
 Besoldungsgruppen A 1 bis A 8
@@ -3802,7 +3802,7 @@ Bundesbesoldungsgesetz
 
 § 44
 
-
+ 
 
 bis zu
 
@@ -3810,7 +3810,7 @@ bis zu
 
 § 48 Abs. 2
 
-
+ 
 
 bis zu
 
@@ -3818,7 +3818,7 @@ bis zu
 
 § 78
 
-
+ 
 
 bis zu
 
@@ -3842,35 +3842,35 @@ Nummer 4a
 
 Nummer 5
 
-
+ 
 
 Die Zulage beträgt für Mannschaften,
 
+ 
 
+ 
 
-
-
-
+ 
 
 Unteroffiziere/Beamte der Besoldungsgruppen A 5 und A 6
 
-
+ 
 
 60,55
 
-
+ 
 
 Unteroffiziere/Beamte der Besoldungsgruppen A 7 bis A 9
 
-
+ 
 
 86,50
 
-
+ 
 
 Offiziere/Beamte des gehobenen und höheren Dienstes
 
-
+ 
 
 129,75
 
@@ -3878,27 +3878,27 @@ Nummer 5a
 
 Abs. 1
 
-
+ 
 
 Buchstabe a
 
-
+ 
 
 155,70
 
-
+ 
 
 Buchstabe b
 
-
+ 
 
 259,50
 
-
+ 
 
 Buchstabe c
 
-
+ 
 
 371,95
 
@@ -3908,15 +3908,15 @@ Nr. 1
 
 Buchstabe a
 
-
+ 
 
 233,55
 
-
+ 
 
 Buchstabe b
 
-
+ 
 
 173,00
 
@@ -3924,23 +3924,23 @@ Nr. 2
 
 Buchstabe a
 
-
+ 
 
 173,00
 
-
+ 
 
 Buchstabe b
 
-
+ 
 
 69,20
 
 Nr. 3
 
+ 
 
-
-
+ 
 
 112,45
 
@@ -3948,7 +3948,7 @@ Nr. 4
 
 und 5
 
-
+ 
 
 103,80
 
@@ -3956,15 +3956,15 @@ Nr. 6
 
 Buchstabe a
 
-
+ 
 
 173,00
 
-
+ 
 
 Buchstabe b
 
-
+ 
 
 173,00
 
@@ -3972,15 +3972,15 @@ Nr. 7
 
 Buchstabe a
 
-
+ 
 
 173,00
 
-
+ 
 
 Buchstabe b
 
-
+ 
 
 69,20
 
@@ -3988,49 +3988,49 @@ Nr. 8
 
 Buchstabe a
 
-
+ 
 
 216,25
 
-
+ 
 
 Buchstabe b
 
-
+ 
 
 112,45
 
 Nr. 9
 
+ 
 
-
-
+ 
 
 103,80
 
 Nummer 6 Abs. 1
 
-
+ 
 
 Buchstabe a
 
-
+ 
 
 778,50
 
-
+ 
 
 Buchstabe b
 
-
+ 
 
 622,80
 
-
+ 
 
 Buchstabe c
 
-
+ 
 
 498,24
 
@@ -4040,275 +4040,275 @@ Nummer 6a
 
 Nummer 7
 
-
+ 
 
 Die Zulage beträgt für Beamte und Soldaten der Besoldungsgruppen
 
-
+ 
 
 12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe *)
 
-
+ 
 
 A 1 bis A 5
 
 A 5
 
+ 
 
-
-
+ 
 
 A 6 bis A 9
 
 A 9
 
+ 
 
-
-
+ 
 
 A 10 bis A 13
 
 A 13
 
+ 
 
-
-
+ 
 
 A 14, A 15, B 1
 
 A 15
 
+ 
 
-
-
+ 
 
 A 16, B 2 bis B 4
 
 B 3
 
+ 
 
-
-
+ 
 
 B 5 bis B 7
 
 B 6
 
+ 
 
-
-
+ 
 
 B 8 bis B 10
 
 B 9
 
+ 
 
-
-
-
-B 11
+ 
 
 B 11
 
+B 11
 
+ 
 
 Nummer 8
 
-
+ 
 
 Die Zulage beträgt
 
+ 
 
+ 
 
-
-
-
+ 
 
 für Beamte der Besoldungsgruppen
 
+ 
 
+ 
 
-
-
-
+ 
 
 A 1 bis A 5
 
-
+ 
 
 194,63
 
-
+ 
 
 A 6 bis A 9
 
-
+ 
 
 259,50
 
-
+ 
 
 A 10 und höher
 
-
+ 
 
 324,38
 
 Nummer 8a
 
-
+ 
 
 Die Zulage beträgt
 
+ 
 
+ 
 
-
-
-
+ 
 
 für Beamte der Besoldungsgruppen
 
+ 
 
+ 
 
-
-
-
+ 
 
 A 1 bis A 5
 
-
+ 
 
 118,53
 
-
+ 
 
 A 6 bis A 9
 
-
+ 
 
 161,62
 
-
+ 
 
 A 10 bis A 13
 
-
+ 
 
 199,32
 
-
+ 
 
 A 14 und höher
 
-
+ 
 
 237,04
 
-
+ 
 
 für Anwärter der Laufbahngruppe
 
+ 
 
+ 
 
-
-
-
+ 
 
 des mittleren Dienstes
 
-
+ 
 
 86,21
 
-
+ 
 
 des gehobenen Dienstes
 
-
+ 
 
 113,13
 
-
+ 
 
 des höheren Dienstes
 
-
+ 
 
 140,08
 
 Nummer 8b
 
-
+ 
 
 Die Zulage beträgt
 
+ 
 
+ 
 
-
-
-
+ 
 
 für Beamte der Besoldungsgruppen
 
+ 
 
+ 
 
-
-
-
+ 
 
 A 1 bis A 5
 
-
+ 
 
 155,70
 
-
+ 
 
 A 6 bis A 9
 
-
+ 
 
 207,60
 
-
+ 
 
 A 10 bis A 13
 
-
+ 
 
 259,50
 
-
+ 
 
 A 14 und höher
 
-
+ 
 
 311,40
 
 Nummer 9
 
-
+ 
 
 Die Zulage beträgt nach einer Dienstzeit
 
+ 
 
+ 
 
-
-
-
+ 
 
 von einem Jahr
 
-
+ 
 
 107,76
 
-
+ 
 
 von zwei Jahren
 
-
+ 
 
 215,52
 
@@ -4316,79 +4316,79 @@ Nummer 9a
 
 Abs. 1
 
-
+ 
 
 Buchstabe a
 
-
+ 
 
 173,00
 
-
+ 
 
 Buchstabe b
 
-
+ 
 
 346,00
 
-
+ 
 
 Buchstabe c
 
-
+ 
 
 259,50
 
 Abs. 2
 
-
+ 
 
 Buchstabe a
 
-
+ 
 
 69,20
 
-
+ 
 
 Buchstabe b
 
-
+ 
 
 86,50
 
 Nummer 10 Abs. 1
 
-
+ 
 
 Die Zulage beträgt
 
+ 
 
+ 
 
-
-
-
+ 
 
 nach einer Dienstzeit
 
+ 
 
+ 
 
-
-
-
+ 
 
 von einem Jahr
 
-
+ 
 
 107,76
 
-
+ 
 
 von zwei Jahren
 
-
+ 
 
 215,52
 
@@ -4404,51 +4404,51 @@ bis zu
 
 Nummer 13c
 
-
+ 
 
 Die Zulage beträgt
 
+ 
 
+ 
 
-
-
-
+ 
 
 für Beamte der Besoldungsgruppen
 
+ 
 
+ 
 
-
-
-
+ 
 
 A 1 bis A 7
 
-
+ 
 
 77,85
 
-
+ 
 
 A 8 bis A 11
 
-
+ 
 
 103,80
 
-
+ 
 
 A 12 bis A 15
 
-
+ 
 
 121,10
 
-
+ 
 
 A 16 und höher
 
-
+ 
 
 155,70
 
@@ -4466,29 +4466,29 @@ Nummer 25
 
 Nummer 26 Abs. 1
 
+ 
 
-
-
+ 
 
 Die Zulage beträgt für Beamte
 
+ 
 
+ 
 
-
-
-
+ 
 
 des mittleren Dienstes
 
-
+ 
 
 28,84
 
-
+ 
 
 des gehobenen Dienstes
 
-
+ 
 
 64,88
 
@@ -4496,69 +4496,69 @@ Nummer 27
 
 Abs. 1
 
-
+ 
 
 Buchstabe a
 
+ 
 
+ 
 
-
-
-
+ 
 
 Doppelbuchstabe aa
 
-
+ 
 
 25,49
 
-
+ 
 
 Doppelbuchstabe bb
 
-
+ 
 
 99,76
 
-
+ 
 
 Buchstabe b
 
-
+ 
 
 110,85
 
-
+ 
 
 Buchstabe c
 
-
+ 
 
 110,85
 
 Abs. 2
 
-
+ 
 
 Buchstabe a
 
+ 
 
+ 
 
-
-
-
+ 
 
 Doppelbuchstabe bb
 
-
+ 
 
 74,28
 
-
+ 
 
 Buchstabe b und c
 
-
+ 
 
 110,85
 
@@ -4568,39 +4568,39 @@ Nummer 30
 
 Besoldungsgruppen
 
-
+ 
 
 Fußnote
 
-
+ 
 
 A 2
 
-
+ 
 
 1
 
 47,64
 
+ 
 
-
-
+ 
 
 2
 
 29,99
 
+ 
 
-
-
+ 
 
 3
 
 87,83
 
+ 
 
-
-
+ 
 
 6
 
@@ -4608,15 +4608,15 @@ A 2
 
 A 3
 
-
+ 
 
 1, 5
 
 87,83
 
+ 
 
-
-
+ 
 
 2
 
@@ -4624,15 +4624,15 @@ A 3
 
 A 4
 
-
+ 
 
 1, 4
 
 87,83
 
+ 
 
-
-
+ 
 
 2
 
@@ -4640,15 +4640,15 @@ A 4
 
 A 5
 
-
+ 
 
 3
 
 47,64
 
+ 
 
-
-
+ 
 
 4, 6
 
@@ -4656,7 +4656,7 @@ A 5
 
 A 6
 
-
+ 
 
 6
 
@@ -4664,15 +4664,15 @@ A 6
 
 A 7
 
-
+ 
 
 2
 
 59,13
 
+ 
 
-
-
+ 
 
 5
 
@@ -4680,7 +4680,7 @@ A 7
 
 A 8
 
-
+ 
 
 2
 
@@ -4688,15 +4688,15 @@ A 8
 
 A 9
 
-
+ 
 
 2, 3, 6
 
 354,55
 
+ 
 
-
-
+ 
 
 7
 
@@ -4704,7 +4704,7 @@ A 9
 
 A 12
 
-
+ 
 
 7, 8
 
@@ -4712,23 +4712,23 @@ A 12
 
 A 13
 
-
+ 
 
 6
 
 164,69
 
+ 
 
-
-
+ 
 
 7
 
 247,02
 
+ 
 
-
-
+ 
 
 11, 12, 13
 
@@ -4736,7 +4736,7 @@ A 13
 
 A 14
 
-
+ 
 
 5
 
@@ -4744,7 +4744,7 @@ A 14
 
 A 15
 
-
+ 
 
 7
 
@@ -4752,7 +4752,7 @@ A 15
 
 B 10
 
-
+ 
 
 1, 2
 
@@ -4762,7 +4762,7 @@ B 10
 
 - *) :: Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S. 1345).
 
-
+ 
 
 Dem Grunde nach geregelt in
 
@@ -4778,83 +4778,83 @@ Nummer 2b
 
 Nummer 3
 
-
+ 
 
 Die Zulage beträgt
 
-
+ 
 
 12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe *)
 
-
+ 
 
 für Beamte der Besoldungsgruppe(n)
 
+ 
 
+ 
 
-
-
-
+ 
 
 C 1
 
 A 13
 
+ 
 
-
-
+ 
 
 C 2
 
 A 15
 
+ 
 
-
-
+ 
 
 C 3 und C 4
 
 B 3
 
-
+ 
 
 Nummer 5
 
-
+ 
 
 wenn ein Amt ausgeübt wird
 
+ 
 
+ 
 
-
-
-
+ 
 
 der Besoldungsgruppe R 1
 
-
+ 
 
 347,73
 
-
+ 
 
 der Besoldungsgruppe R 2
 
-
+ 
 
 389,25
 
 Besoldungsgruppe
 
-
+ 
 
 Fußnote
 
-
+ 
 
 C 2
 
-
+ 
 
 1
 
@@ -4864,7 +4864,7 @@ C 2
 
 - *) :: Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S. 1345).
 
-
+ 
 
 Dem Grunde nach geregelt in
 
@@ -4876,93 +4876,93 @@ Vorbemerkungen
 
 Nummer 2
 
-
+ 
 
 Die Zulage beträgt
 
-
+ 
 
 12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe *)
 
-
+ 
 
 - a) :: bei Verwendung bei obersten Gerichtshöfen des Bundes für die Richter und Staatsanwälte der Besoldungsgruppe(n)
 
+ 
 
+ 
 
-
-
-
-
-R 1
+ 
 
 R 1
 
+R 1
 
+ 
 
-
+ 
 
 R 2 bis R 4
 
 R 3
 
+ 
 
-
-
+ 
 
 R 5 bis R 7
 
 R 6
 
+ 
 
-
-
+ 
 
 R 8 bis R 10
 
 R 9
 
+ 
 
-
-
+ 
 
 - b) :: bei Verwendung bei obersten Bundesbehörden oder bei obersten Gerichtshöfen des Bundes, wenn ihnen kein Richteramt übertragen ist, für die Richter und Staatsanwälte der Besoldungsgruppe(n)
 
+ 
 
+ 
 
-
-
-
+ 
 
 R 1
 
 A 15
 
+ 
 
-
-
+ 
 
 R 2 bis R 4
 
 B 3
 
+ 
 
-
-
+ 
 
 R 5 bis R 7
 
 B 6
 
+ 
 
-
-
+ 
 
 R 8 bis R 10
 
 B 9
 
-
+ 
 
 Nummer 4
 
@@ -4970,15 +4970,15 @@ Nummer 4
 
 Besoldungsgruppen
 
-
+ 
 
 Fußnote
 
-
+ 
 
 R 1
 
-
+ 
 
 1, 2
 
@@ -4986,7 +4986,7 @@ R 1
 
 R 2
 
-
+ 
 
 3 bis 8, 10
 
@@ -4994,7 +4994,7 @@ R 2
 
 R 3
 
-
+ 
 
 3
 
@@ -5002,7 +5002,7 @@ R 3
 
 R 8
 
-
+ 
 
 2
 

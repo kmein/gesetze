@@ -6,86 +6,86 @@ Ausfertigungsdatum: 29.11.2018
 
 Inhaltsübersicht
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 § 1 - Begriffsbestimmungen
 
@@ -713,9 +713,9 @@ Maßgebend bei der Festlegung der Grenze von Kontrollbereich oder Überwachungsb
 
 § 53 - Abgrenzung, Kennzeichnung und Sicherung von Strahlenschutzbereichen
 
-(1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass Kontrollbereiche nach § 52 Absatz 2 Satz 1 Nummer 2 abgegrenzt und zusätzlich zur Kennzeichnung nach § 91 Absatz 1 deutlich sichtbar und dauerhaft mit dem Zusatz Kontrollbereich“ gekennzeichnet werden. Die zuständige Behörde kann Ausnahmen von Satz 1 gestatten, wenn dadurch Einzelne oder die Allgemeinheit nicht gefährdet werden.
-(2) Im Falle von Kontrollbereichen, in denen ausschlieKein Zutritt -- Röntgen“ gekennzeichnet werden. Die dauerhafte Kennzeichnung nach § 91 Absatz 1 und Absatz 1 Satz 1 ist entbehrlich.
-(3) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass Sperrbereiche nach § 52 Absatz 2 Satz 1 Nummer 3 abgegrenzt und zusätzlich zur Kennzeichnung nach § 91 Absatz 1 deutlich sichtbar und dauerhaft mindestens mit dem Zusatz Sperrbereich -- Kein Zutritt“ gekennzeichnet werden. Er hat dafür zu sorgen, dass die Sperrbereiche so abgesichert werden, dass Personen, auch mit einzelnen Körperteilen, nicht unkontrolliert hineingelangen können. Die zuständige Behörde kann Ausnahmen von den Sätzen 1 und 2 gestatten, wenn dadurch Einzelne oder die Allgemeinheit nicht gefährdet werden.
+(1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass Kontrollbereiche nach § 52 Absatz 2 Satz 1 Nummer 2 abgegrenzt und zusätzlich zur Kennzeichnung nach § 91 Absatz 1 deutlich sichtbar und dauerhaft mit dem Zusatz „Kontrollbereich“ gekennzeichnet werden. Die zuständige Behörde kann Ausnahmen von Satz 1 gestatten, wenn dadurch Einzelne oder die Allgemeinheit nicht gefährdet werden.
+(2) Im Falle von Kontrollbereichen, in denen ausschließlich Röntgeneinrichtungen oder genehmigungsbedürftige Störstrahler betrieben werden, hat der Strahlenschutzverantwortliche dafür zu sorgen, dass diese Bereiche während der Einschaltzeit und der Betriebsbereitschaft mindestens mit den Worten „Kein Zutritt -- Röntgen“ gekennzeichnet werden. Die dauerhafte Kennzeichnung nach § 91 Absatz 1 und Absatz 1 Satz 1 ist entbehrlich.
+(3) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass Sperrbereiche nach § 52 Absatz 2 Satz 1 Nummer 3 abgegrenzt und zusätzlich zur Kennzeichnung nach § 91 Absatz 1 deutlich sichtbar und dauerhaft mindestens mit dem Zusatz „Sperrbereich -- Kein Zutritt“ gekennzeichnet werden. Er hat dafür zu sorgen, dass die Sperrbereiche so abgesichert werden, dass Personen, auch mit einzelnen Körperteilen, nicht unkontrolliert hineingelangen können. Die zuständige Behörde kann Ausnahmen von den Sätzen 1 und 2 gestatten, wenn dadurch Einzelne oder die Allgemeinheit nicht gefährdet werden.
 (4) Sperrbereiche, die innerhalb eines Teiles eines Röntgen- oder Bestrahlungsraumes eingerichtet sind, müssen abweichend von Absatz 3 nicht gesondert gekennzeichnet oder abgegrenzt werden, wenn sich während der Einschaltzeit der Röntgeneinrichtung, der Anlage zur Erzeugung ionisierender Strahlung oder der Bestrahlungsvorrichtung nur Personen, an denen ionisierende Strahlung angewendet wird, oder Betreuungs- oder Begleitpersonen in dem Röntgen- oder Bestrahlungsraum aufhalten können.
 (5) Beim ortsveränderlichen Umgang mit radioaktiven Stoffen und beim ortsveränderlichen Betrieb von Anlagen zur Erzeugung ionisierender Strahlung, Röntgeneinrichtungen, Störstrahlern oder Bestrahlungsvorrichtungen hat der Strahlenschutzverantwortliche dafür zu sorgen, dass ein einzurichtender Kontrollbereich so abgegrenzt und gekennzeichnet wird, dass unbeteiligte Personen diesen nicht unbeabsichtigt betreten können. Kann ausgeschlossen werden, dass unbeteiligte Personen den Kontrollbereich unbeabsichtigt betreten können, ist die Abgrenzung nicht erforderlich. Eine zusätzliche Abgrenzung oder Kennzeichnung von Sperrbereichen innerhalb des Kontrollbereichs ist nicht erforderlich.
 
@@ -727,7 +727,7 @@ Maßgebend bei der Festlegung der Grenze von Kontrollbereich oder Überwachungsb
 - 2. :: nur unter Verwendung einer Sonderausrüstung tätig werden kann (Gefahrengruppe II) und
 - 3. :: nur mit einer Sonderausrüstung und unter Hinzuziehung einer Person mit der erforderlichen Fachkunde, um die beim Einsatz in diesem Bereich entstehende Gefährdung durch ionisierende Strahlung sowie die notwendigen Schutzmaßnahmen beurteilen zu können, tätig werden kann (Gefahrengruppe III).
 
-Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass die betroffenen Bereiche jeweils am Zugang deutlich sichtbar und dauerhaft mit dem Zeichen Gefahrengruppe I“, Gefahrengruppe II“ oder Gefahrengruppe III“ gekennzeichnet werden.
+Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass die betroffenen Bereiche jeweils am Zugang deutlich sichtbar und dauerhaft mit dem Zeichen „Gefahrengruppe I“, „Gefahrengruppe II“ oder „Gefahrengruppe III“ gekennzeichnet werden.
 
 (2) Absatz 1 gilt nicht beim ausschließlichen Betrieb von Röntgeneinrichtungen oder Störstrahlern.
 
@@ -1024,7 +1024,7 @@ Beim anzeigebedürftigen Betrieb eines Raumfahrzeugs ist abweichend von den §§
 
 Die angeforderten Unterlagen sind dem anfordernden ermächtigten Arzt unverzüglich zu übergeben.
 
-(2) In der ärztlichen Bescheinigung ist die Tauglichkeit der beruflich exponierten Person für die Wahrnehmung der jeweiligen Aufgabe in den Stufen tauglich“, bedingt tauglich“ und nicht tauglich“ anzugeben. Im Falle einer bedingten Tauglichkeit sind die mit der Einstufung verbundenen tätigkeitsbezogenen Beschränkungen für die beruflich exponierte Person darzulegen.
+(2) In der ärztlichen Bescheinigung ist die Tauglichkeit der beruflich exponierten Person für die Wahrnehmung der jeweiligen Aufgabe in den Stufen „tauglich“, „bedingt tauglich“ und „nicht tauglich“ anzugeben. Im Falle einer bedingten Tauglichkeit sind die mit der Einstufung verbundenen tätigkeitsbezogenen Beschränkungen für die beruflich exponierte Person darzulegen.
 (3) Der nach § 175 Absatz 1 Satz 1 ermächtigte Arzt kann die Erteilung der ärztlichen Bescheinigung davon abhängig machen, dass ihm zuvor folgende Informationen schriftlich mitgeteilt werden:
 
 - 1. :: die Art der Aufgaben der beruflich exponierten Person und die mit diesen Aufgaben verbundenen Arbeitsbedingungen,
@@ -1229,7 +1229,7 @@ Im Falle der Freimessung nach § 42 Absatz 2 hat der Strahlenschutzverantwortlic
 - 3. :: Kontrollbereiche und Sperrbereiche,
 - 4. :: Bereiche, in denen die Kontamination die in § 57 Absatz 2 Satz 1 genannten Werte überschreitet.
 
-Die Strahlenzeichen sind in ausreichender Anzahl deutlich sichtbar und dauerhaft anzubringen. Die Kennzeichnung muss mit Ausnahme von Kontrollbereichen und Sperrbereichen die Worte Vorsicht -- Strahlung“, Radioaktiv“, Kernbrennstoffe“ oder Kontamination“ enthalten, soweit dies nach Größe und Beschaffenheit des zu kennzeichnenden Gegenstandes möglich ist.
+Die Strahlenzeichen sind in ausreichender Anzahl deutlich sichtbar und dauerhaft anzubringen. Die Kennzeichnung muss mit Ausnahme von Kontrollbereichen und Sperrbereichen die Worte „Vorsicht -- Strahlung“, „Radioaktiv“, „Kernbrennstoffe“ oder „Kontamination“ enthalten, soweit dies nach Größe und Beschaffenheit des zu kennzeichnenden Gegenstandes möglich ist.
 
 (2) Die Kennzeichnung ist nicht erforderlich bei Behältnissen oder Geräten, die innerhalb eines Kontrollbereichs in dafür vorgesehenen Bereichen verwendet werden, solange
 
@@ -1247,7 +1247,7 @@ Satz 1 gilt nicht für Behältnisse und Geräte, die hochradioaktive Strahlenque
 - 1. :: eine hochradioaktive Strahlenquelle, soweit technisch möglich, und ihre Schutzbehälter oder Aufbewahrungsbehältnisse bei der Herstellung zusätzlich zur Kennzeichnung mit dem Strahlenzeichen nach Anlage 10 sichtbar und dauerhaft mit einer unverwechselbaren Identifizierungsnummer gekennzeichnet werden und
 - 2. :: die aufgebrachte Identifizierungsnummer dem Bundesamt für Strahlenschutz innerhalb Monatsfrist mitgeteilt wird.
 
-Ist die zusätzliche Kennzeichnung der hochradioaktiven Strahlenquelle technisch nicht möglich oder werden wiederverwendbare Schutzbehälter oder Aufbewahrungsbehältnisse verwendet, so sind diese neben der Kennzeichnung mit dem Strahlenzeichen zusätzlich mit der Angabe hochradioaktive Strahlenquelle“ zu versehen.
+Ist die zusätzliche Kennzeichnung der hochradioaktiven Strahlenquelle technisch nicht möglich oder werden wiederverwendbare Schutzbehälter oder Aufbewahrungsbehältnisse verwendet, so sind diese neben der Kennzeichnung mit dem Strahlenzeichen zusätzlich mit der Angabe „hochradioaktive Strahlenquelle“ zu versehen.
 
 (2) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass alle Vorratsbehälter, die offene radioaktive Stoffe enthalten, deren Aktivität das 10⁴fache der Werte der Anlage 4 Tabelle 1 Spalte 2 überschreitet, so gekennzeichnet werden, dass folgende Einzelheiten feststellbar sind:
 
@@ -2657,7 +2657,7 @@ Anlage 3 - (zu den §§ 5, 6, 7, 8, 9, 14, 82, 96)Genehmigungsfreie Tätigkeiten
 
 (Fundstelle: BGBl. I 2018, 2106 - 2107)
 Genehmigungsfrei nach § 5 Absatz 1 ist die Anwendung von Stoffen am Menschen, wenn die spezifische Aktivität der Stoffe 500 Mikrobecquerel je Gramm nicht überschreitet.
-
+ 
 Genehmigungsfrei nach § 5 Absatz 1 ist
 
 - 1. :: der Umgang mit Stoffen, deren Aktivität die Freigrenzen der Anlage 4 Tabelle 1 Spalte 2 nicht überschreitet,
@@ -2708,7 +2708,7 @@ zu Spalte 1:\\
 
 Kennzeichnung von Radionukliden:\\
 \\
-+“ kennzeichnet Mutternuklide, für die die in Tabelle 2 gelisteten Tochternuklide vollständig durch das Mutternuklid abgedeckt sind; die Expositionen durch diese Tochternuklide sind bei den Freigrenzen, Freigabewerten oder Werten der Oberflächenkontamination bereits berücksichtigt,
+„+“ kennzeichnet Mutternuklide, für die die in Tabelle 2 gelisteten Tochternuklide vollständig durch das Mutternuklid abgedeckt sind; die Expositionen durch diese Tochternuklide sind bei den Freigrenzen, Freigabewerten oder Werten der Oberflächenkontamination bereits berücksichtigt,
 
 \\
 Erläuterung\\
@@ -2717,7 +2717,7 @@ zu den Spalten 2 und 3\\
 
 - 1. :: Bei mehreren Radionukliden ist die Summe der Verhältniszahlen aus der vorhandenen Aktivität (A_{i}) oder aus der vorhandenen spezifischen Aktivität (C_{i}) und den jeweiligen Freigrenzen FG_{i} der einzelnen Radionuklide gemäß Spalte 2 oder 3 zu berechnen (Summenformel), wobei i das jeweilige Radionuklid ist. Diese Summe darf den Wert 1 nicht überschreiten:
 
-
+ 
 
 [[../normengrafiken/bgbl1_2018/j2034-1_0010.jpg]]
 
@@ -2725,7 +2725,7 @@ oder
 
 [[../normengrafiken/bgbl1_2018/j2034-1_0020.jpg]]
 
-
+ 
 
 - 2. :: Radionuklide brauchen bei der Summenbildung nicht berücksichtigt zu werden, wenn der Anteil der unberücksichtigten Nuklide an der Summe aller Verhältniszahlen A_{i}/FG_{i} oder C_{i}/FG_{i} 10 Prozent nicht überschreitet.
 
@@ -2737,30 +2737,30 @@ Bei Messungen nach den §§ 57 und 58 gilt für die zugrunde zu legende Mittelun
 Erläuterung\\
 zu Spalte 4:
 
-Die Angabe TBq“ wird als Abkürzung für Terabecquerel“ verwendet. Die Angabe UL“ als Abkürzung für unbegrenzt“ (unlimited) wird für Radionuklide verwendet, bei denen auch hohe Aktivitäten nicht zu einer Einstufung als hochradioaktive Strahlenquelle führen.
+Die Angabe „TBq“ wird als Abkürzung für „Terabecquerel“ verwendet. Die Angabe „UL“ als Abkürzung für „unbegrenzt“ (unlimited) wird für Radionuklide verwendet, bei denen auch hohe Aktivitäten nicht zu einer Einstufung als hochradioaktive Strahlenquelle führen.
 
 Erläuterung\\
 zu Spalte 5:
 
 Bei Messungen nach den §§ 57 und 58 darf die Mittelungsfläche bis zu 300 cm² betragen.
 
-
+ 
 
 Bei mehreren Radionukliden ist die Summe der Verhältniszahlen aus der vorhandenen Aktivität je Flächeneinheit (A_{s,i}) und den jeweiligen Werten der Oberflächenkontamination (O_{i}) der einzelnen Radionuklide gemäß Tabelle 1 Spalte 5 zu berechnen (Summenformel), wobei i das jeweilige Radionuklid ist. Diese Summe darf den Wert 1 nicht überschreiten:
 
-
+ 
 
 [[../normengrafiken/bgbl1_2018/j2034-1_0030.jpg]]
 
-
+ 
 
 Radionuklide brauchen bei der Summenbildung nicht berücksichtigt zu werden, wenn der Anteil der unberücksichtigten Nuklide an der Summe aller Verhältniszahlen A_{s,i}/O_{i} 10 Prozent nicht überschreitet.
 
-
+ 
 
 Bei der Bestimmung der Oberflächenkontamination für Verkehrsflächen oder Arbeitsplätze nach § 57 Absatz 2 Nummer 1 und 2 sind die festhaftende Oberflächenaktivität und die über die Oberfläche eingedrungene Aktivität nicht einzubeziehen, sofern sichergestellt ist, dass durch diese Aktivitätsanteile keine Gefährdung durch Weiterverbreitung oder Inkorporation möglich ist.
 
-
+ 
 
 Soweit für Radionuklide keine maximal zulässigen Oberflächenkontaminationswerte angegeben sind, sind diese im Einzelfall zu berechnen. Anderenfalls können folgende Werte der Oberflächenkontamination zugrunde gelegt werden:
 
@@ -2773,7 +2773,7 @@ zu den Spalten 6 und\\
 8 bis 11:\\
 \\
 
-Die Angabe Mg/a“ wird als Abkürzung für Megagramm im Kalenderjahr“ verwendet.\\
+Die Angabe „Mg/a“ wird als Abkürzung für „Megagramm im Kalenderjahr“ verwendet.\\
 \\
 Siehe auch Anlage 8 Teil F Nummer 3.
 
@@ -2786,7 +2786,7 @@ Erläuterung\\
 zu Spalte 15:\\
 \\
 
-Die Angabe a“ bedeutet Jahr“, die Angabe d“ bedeutet Tag“, die Angabe h“ bedeutet Stunde“ und die Angabe m“ bedeutet Minute“.
+Die Angabe „a“ bedeutet „Jahr“, die Angabe „d“ bedeutet „Tag“, die Angabe „h“ bedeutet „Stunde“ und die Angabe „m“ bedeutet „Minute“.
 
 Die Regelungen und Erläuterungen zur Freigabe (Spalten 3 und 5 bis 14) finden sich in den §§ 31 bis 42 und Anlage 8.
 
@@ -2802,8 +2802,8 @@ Die Regelungen und Erläuterungen zur Freigabe (Spalten 3 und 5 bis 14) finden s
 [[../normengrafiken/bgbl1_2018/j2034-1_0130.jpg]]
 [[../normengrafiken/bgbl1_2018/j2034-1_0140.jpg]]
 [[../normengrafiken/bgbl1_2018/j2034-1_0150-mod-929x1400.jpg]]
-
-
+ 
+ 
 | Mutternuklid | Tochternuklide                                 |
 |--------------+------------------------------------------------|
 | Mg-28+       | Al-28                                          |
@@ -3202,20 +3202,20 @@ Anlage 11 - (zu den §§ 100, 101, 102, 160, 168, Anlage 6 und Anlage 8)Annahmen
 
 Expositionspfade bleiben unberücksichtigt oder zusätzliche Expositionspfade (z. B. der Sickerwasserpfad bei kontaminierten Ablagerungen) sind zu berücksichtigen, wenn dies auf Grund der örtlichen Besonderheiten des Standortes oder auf Grund der Art der kerntechnischen Anlage, der Art der Anlage im Sinne des § 9a Absatz 3 Satz 1 erster Halbsatz zweiter Satzteil des Atomgesetzes, der Art der Anlage zur Erzeugung ionisierender Strahlung, der Art der anderen Einrichtung oder der Besonderheit der auf sonstigem Weg kontaminierten Bodenfläche begründet ist.
 
-
-
+ 
+ 
 Tabelle 1\\
 Verzehrsraten
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Mittlere Verzehrsraten der repräsentativen Personen in kg/a
-
+ 
 1
 2
 3
@@ -3232,17 +3232,17 @@ gruppe
 > 7 -- ≤ 12 Jahre
 > 12 -- ≤ 17 Jahre
 > 17 Jahre
-
+ 
 Lebensmittel
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Trinkwasser
-55
+55¹
 100
 100
 150
@@ -3329,18 +3329,18 @@ Gemüseprodukte, Säfte
 35
 40
 3
-
-
-
-
-
-
-
-
-Für die Lebensmittelgruppen Trinkwasser“ und Muttermilch, Milchfertigprodukte mit Trinkwasser“ ist anzunehmen, dass 100 Prozent der Produkte kontaminiert sind. Für alle anderen Lebensmittelgruppen ist von 50 Prozent auszugehen. Die Lebensmittelgruppe Getreide“ sowie Kontaminationen über den Staubpfad für die Lebensmittelgruppe Kartoffeln, Wurzelgemüse“ können bei Radionukliden der natürlichen Zerfallsreihen Uran-238 und Thorium-232 grundsätzlich unberücksichtigt bleiben.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Für die Lebensmittelgruppen „Trinkwasser“ und „Muttermilch, Milchfertigprodukte mit Trinkwasser“ ist anzunehmen, dass 100 Prozent der Produkte kontaminiert sind. Für alle anderen Lebensmittelgruppen ist von 50 Prozent auszugehen. Die Lebensmittelgruppe „Getreide“ sowie Kontaminationen über den Staubpfad für die Lebensmittelgruppe „Kartoffeln, Wurzelgemüse“ können bei Radionukliden der natürlichen Zerfallsreihen Uran-238 und Thorium-232 grundsätzlich unberücksichtigt bleiben.
 Bei der Ermittlung der zu erwartenden Exposition nach § 100 Absatz 1 im Rahmen des Genehmigungs- oder Anzeigeverfahrens für Tätigkeiten nach § 4 Absatz 1 Nummer 1 und Nummer 3 bis Nummer 8 des Strahlenschutzgesetzes sowie bei der Ermittlung der erhaltenen Exposition nach § 101 Absatz 1 Nummer 1 oder 2 ist für die Lebensmittelgruppe, die bei mittleren Verzehrsraten zur höchsten Ingestionsdosis führt, die mittlere Verzehrsrate mit dem Faktor in Spalte 8 zu multiplizieren. Zur Festlegung der dosisdominierenden Lebensmittelgruppe sind alle pflanzlichen Produkte außer Blattgemüse zu einer Lebensmittelgruppe zusammenzufassen. Für alle übrigen Lebensmittelgruppen sind die mittleren Verzehrsraten anzusetzen.
 _____________
-
+ 
 | Altersgruppe           | ≤ 1 Jahr | > 1 -- ≤ 2\\ | > 2 -- ≤ 7\\ | > 7 -- ≤ 12\\ | > 12 -- ≤ 17\\ | > 17\\ |
 |                        |          | Jahre        | Jahre        | Jahre         | Jahre          | Jahre  |
 |------------------------+----------+--------------+--------------+---------------+----------------+--------|
@@ -3349,7 +3349,7 @@ _____________
 Atemraten\\
 \\
 
-
+ 
 Tabelle 3\\
 Aufenthaltsdauern, Aufenthaltsorte und Reduktionsfaktoren\\
 \\
@@ -3359,13 +3359,13 @@ Reduktionsfaktor
 Betastrahlung innerhalb der Abluftfahne
 1 760 Stunden pro Kalenderjahr im Freien
 --
-
+ 
 7 000 Stunden pro Kalenderjahr in Gebäuden
 --
 Gammastrahlung aus der Abluftfahne
 1 760 Stunden pro Kalenderjahr im Freien
 --
-
+ 
 7 000 Stunden pro Kalenderjahr in Gebäuden
 0,3
 Gammastrahlung der am Boden abgelagerten radioaktiven Stoffe
@@ -3376,7 +3376,7 @@ Gammastrahlung der am Boden abgelagerten radioaktiven Stoffe
 Inhalation radioaktiver Stoffe
 1 760 Stunden pro Kalenderjahr im Freien
 --
-
+ 
 7 000 Stunden pro Kalenderjahr in Gebäuden
 --
 Aufenthalt auf Sediment
@@ -3385,7 +3385,7 @@ Aufenthalt auf Sediment
 Direktstrahlung<<FnR.FnA2-f804921_05>>[[#FnA2-f804921_05][1]]}
 1 760 Stunden pro Kalenderjahr im Freien
 --
-
+ 
 7 000 Stunden pro Kalenderjahr in Gebäuden
 fallspezifisch<<FnR.FnA2-f804921_06>>[[#FnA2-f804921_06][2]]}
 Für die prospektive Berechnung der Exposition sind die in Tabelle 3 genannten Zahlenwerte für die jeweiligen Expositionspfade zu verwenden. Für den Aufenthalt im Freien sind folgende Fälle zu betrachten:
@@ -3417,7 +3417,7 @@ _____________
   - e) :: Es sind bevorzugt die realen Aufenthaltsdauern und -orte während des betrachteten Zeitraums zu berücksichtigen. Soweit diese Informationen nicht mit vertretbarem Aufwand beschafft werden können, ist wie bei der prospektiven Berechnung der Exposition zu verfahren.
 - 7. :: Bei der Ermittlung der zu erwartenden Exposition nach § 100 Absatz 1 im Rahmen des Genehmigungs- oder Anzeigeverfahrens für Tätigkeiten nach § 4 Absatz 1 Nummer 1 und Nummer 3 bis 8 des Strahlenschutzgesetzes sind die berechneten effektiven Dosen infolge der Ableitung radioaktiver Stoffe mit Luft oder Wasser mit den nachstehenden generischen radionuklidspezifischen Faktoren und expositionspfadspezifischen Faktoren zu multiplizieren.
 
-
+ 
 | Expositionspfad               | Faktor | Radionuklide |
 |-------------------------------+--------+--------------|
 | Gammabodenstrahlung           | 2\\    | I-125\\      |
@@ -3429,7 +3429,7 @@ _____________
 Generische radionuklidspezifische Faktoren\\
 \\
 
-
+ 
 | Expositionspfad                     | Faktor |
 |-------------------------------------+--------|
 | Bei Ableitung mit Luft:             |        |
@@ -3445,8 +3445,8 @@ Generische radionuklidspezifische Faktoren\\
 Expositionspfadspezifische Faktoren\\
 \\
 
-
-
+ 
+ 
 Bei mehreren Radionukliden ist die Summe der Verhältniszahlen aus der mittleren, jährlichen Konzentration der Radionuklide in Luft bzw. in Wasser in Bq/m³ (Cˉ_{ i,a}) und dem jeweiligen berechneten, mittleren, jährlichen Konzentrationswert des jeweiligen Radionuklids (C_{i}) der Tabelle 6 oder 7 zu bestimmen (Summenformel), wobei i das jeweilige Radionuklid ist. Diese Summe darf den Wert 1 nicht überschreiten:
 [[../normengrafiken/bgbl1_2018/j2034-1_0220.jpg]]
 Tochternuklide sind zu berücksichtigen.
@@ -3466,8 +3466,8 @@ Tochternuklide sind zu berücksichtigen.
     - 2.1.1 :: für Abwassermengen ≤ 10⁵ m³ a-1} nicht höher sein als das Zehnfache der jeweiligen Werte der Tabelle 6 Spalte 3 oder Tabelle 8 Spalte 4 oder
     - 2.1.2 :: für Abwassermengen > 10⁵ m³ a-1} nicht höher sein als die jeweiligen Werte der Tabelle 6 Spalte 3 oder Tabelle 8 Spalte 4.
 
-
-
+ 
+ 
 Tabelle 6\\
 Aktivitätskonzentration C_{i} aus Strahlenschutzbereichen\\
 (zu Teil D Nummer 1.1 und 2)\\
@@ -3478,9 +3478,9 @@ A = an Schwebstoffe gebunden (Luft)\\
 E = elementar (Luft)\\
 O = organisch
 in der Luft\\
-in Bq/m
+in Bq/m³
 im Wasser\\
-in Bq/m
+in Bq/m³
 1
 2
 3
@@ -3490,7 +3490,7 @@ A
 1 E+7
 H-3
 O
-
+ 
 7 E+6
 Be-7
 A
@@ -3550,7 +3550,7 @@ A
 7 E+5
 S-35
 O
-
+ 
 1 E+5
 Cl-36
 A
@@ -6416,12 +6416,12 @@ Md-258
 A
 6 E-3
 1 E+3
-
+ 
 Tabelle 7\\
 Aktivitätskonzentration C_{i} aus Strahlenschutzbereichen (zu Teil D Nr. 1.2)\\
 \\
 Radionuklid
-C_{i} in der Luft in Bq/m
+C_{i} in der Luft in Bq/m³
 1
 2
 C-11
@@ -6484,11 +6484,11 @@ Xe-135
 9 E+2
 Xe-138
 2 E+2
-
+ 
 Tabelle 8\\
 Aktivitätskonzentration C_{i} aus Strahlenschutzbereichen (zu Teil D Nummer 1.1 und 2)
 Radionuklidgemisch
-C_{i} in der Luft in Bq/m
+C_{i} in der Luft in Bq/m³
 1
 2
 Beliebiges Gemisch
@@ -6511,8 +6511,8 @@ Pu-240, Pu-242, Pu-244,\\
 Am-241, Am-242m, Am-243, Cm-243, Cm-244, Cm-245, Cm-246, Cm-247, Cm-248, Cm-250, Bk-247, Cf-249,\\
 Cf-251 und Cf-254 unberücksichtigt bleiben können
 1 E-3
-
-
+ 
+ 
 
 Anlage 12 - (zu § 103 Absatz 3)Leitstellen des Bundes für die Emissions- und Immissionsüberwachung
 
@@ -6810,7 +6810,7 @@ Dentalaufnahmegeräte\\
 mit Tubus
 10
 5
-
+ 
 A 4.2
 Spezial-Dentalaufnahmegeräte
 10
@@ -6912,7 +6912,7 @@ E 4
 Geräte für die Gammaradiographie
 5
 2
-
+ 
 F
 Umschlossene radioaktive Stoffe (Dichtheitsprüfungen)
 100

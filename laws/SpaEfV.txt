@@ -134,7 +134,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Anlage 1 - (zu § 3 Nummer 1)Inhaltliche Anforderungen an einen Energieaudit-Bericht entsprechend DIN EN 16247-1
 
 (Fundstelle: BGBl. I 2013, 2863)
-
+ 
 Der genaue Inhalt des Berichts muss dem Anwendungsbereich, dem Ziel und der Gründlichkeit des Energieaudits entsprechen.
 Der Bericht des Energieaudits muss enthalten:
 
@@ -167,7 +167,7 @@ Der Bericht des Energieaudits muss enthalten:
 Anlage 2 - (zu § 3 Nummer 2)Alternatives System
 
 (Fundstelle: BGBl. I 2013, 2864)
-
+ 
 - 1. :: Erfassung und Analyse eingesetzter Energieträger
   - -- :: Bestandsaufnahme der Energieströme und Energieträger.
   - -- :: Ermittlung wichtiger Kenngrößen in Form von absoluten und prozentualen Einsatzmengen, gemessen in technischen und bewertet in monetären Einheiten.

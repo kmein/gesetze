@@ -7,23 +7,23 @@ Ausfertigungsdatum: 14.08.1952
 Inhaltsübersicht
 
 Erster Teil: Grundsätze und Begriffsbestimmungen
-
+ 
 Erster Abschnitt:
 Grundsätze .......................
 §§ 1 - 7
 Zweiter Abschnitt:
 Begriffsbestimmungen .............
 §§ 8 - 15a
-
+ 
 Zweiter Teil: Ausgleichsabgaben (nicht abgedruckt)
 §§ 16 - 227
-
+ 
 Achter Abschnitt:
-
+ 
 § 227a
-
+ 
 Dritter Teil: Ausgleichsleistungen
-
+ 
 Erster Abschnitt:
 Allgemeine Vorschriften ..........
 §§ 228 - 234
@@ -107,7 +107,7 @@ Rückforderung bei Schadensausgleich
 Fünfzehnter Abschnitt:
 Sonstige und Überleitungsvorschriften ....................
 §§ 350 - 358
-
+ 
 Vierter Teil: Gemeinsame Schlußvorschriften
 §§ 359 - 375
 
@@ -543,15 +543,15 @@ Sind Schäden in einer anderen deutschen Währung als Reichsmark festgestellt wo
 (1) Auf Grund der Schadensfeststellung wird der unmittelbar Geschädigte in eine der nachfolgenden Schadensgruppen eingestuft. Die Hauptentschädigung bemißt sich nach einem Grundbetrag, welcher der Schadensgruppe entspricht, in die der unmittelbar Geschädigte eingereiht worden ist.
 (2) Es werden folgende Schadensgruppen gebildet und folgende Grundbeträge festgesetzt:\\
 Schadensgruppe
-
+ 
 Schadensbetrag in Reichsmark RM
-
+ 
 Grundbetrag in Euro EUR
 darin enthaltener Erhöhungsbetrag EUR
 1
-
+ 
 2
-
+ 
 3
 4
 1
@@ -559,7 +559,7 @@ bis
 5.000
 der Schadensbetrag, angesetzt mit dem Divisor 1,95583 in Euro, höchstens
 2.454,20
-
+ 
 2
 bis
 5.500
@@ -705,22 +705,22 @@ bis
 2.000.000
 13.165,77
 1.431,62
-
-
-
+ 
+ 
+ 
 + 10 v.H. des 110.000 RM übersteigenden Schadensbetrags, angesetzt mit dem Divisor 1,95583 in Euro
-
+ 
 31
 über
 2.000.000
-
+ 
 109.799,93
 1.431,62
-
-
-
+ 
+ 
+ 
 + 6,5 v.H. des 2.000.000 RM übersteigenden Schadensbetrags, angesetzt mit dem Divisor 1,95583 in Euro
-
+ 
 
 § 247 - Teilung des Grundbetrags
 
@@ -833,14 +833,14 @@ Bei Zonenschäden ist für den Schadenseintritt der Zeitpunkt maßgebend, der im
 (6a) Der Berechnung nach Absatz 6 werden folgende Schadensgruppen und Grundbeträge zugrunde gelegt:\\
 \\
 Schadensgruppe
-
+ 
 Schadensbetrag in Reichsmark RM
-
+ 
 Grundbetrag in Euro EUR
 1
-
+ 
 2
-
+ 
 3
 1
 bis
@@ -999,18 +999,18 @@ bis
 bis
 1.000.000
 15.747,79
-
-
-
+ 
+ 
+ 
 + 7 v.H. des 200.000 RM übersteigenden Schadensbetrags, angesetzt mit dem Divisor 1,95693 in Euro
 40
 über
 1.000.000
-
+ 
 44.380,14
-
-
-
+ 
+ 
+ 
 + 6,5 v.H. des 1.000.000 RM übersteigenden Schadensbetrags, angesetzt mit dem Divisor 1,95583 in Euro
 (7) Soweit der Zinszuschlag auf einen auf Zonenschäden beruhenden Grundbetrag entfällt, sind auf ihn diejenigen Beträge aus der Nutzung weggenommener Wirtschaftsgüter (§ 14 Abs. 2 des Beweissicherungs- und Feststellungsgesetzes) anzurechnen, über die der unmittelbar Geschädigte oder sein Erbe nach dem für die Gewährung des Zinszuschlags maßgebenden Zeitpunkt verfügt hat. Beim Zusammentreffen von Zonenschäden mit anderen Schäden ist der auf Zonenschäden beruhende Teil des Grundbetrags (Zonenschaden-Teilgrundbetrag) in der Weise zu ermitteln, daß vom gesamten Grundbetrag derjenige Betrag abgezogen wird, der sich für die anderen Schäden allein ohne die Anwendung des § 249 Abs. 1 Satz 5 und Abs. 3 Satz 2 als Grundbetrag ergeben würde.
 (8) Für Entscheidungen nach dem 31. Dezember 2001 sind die Abzugs- und Anrechnungsbeträge nach Absatz 2 Satz 2 und Absatz 7 Satz 1 mit dem Divisor 1,95583 in Euro anzusetzen.

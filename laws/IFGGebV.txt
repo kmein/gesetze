@@ -31,7 +31,7 @@ Gebührentatbestand
 Gebührenbetrag in Euro
 1
 Auskünfte
-
+ 
 1.1
 -
 mündliche und einfache schriftliche Auskünfte auch bei Herausgabe von wenigen Abschriften
@@ -46,7 +46,7 @@ Erteilung einer schriftlichen Auskunft bei Herausgabe von Abschriften, wenn im E
 60 bis 500
 2
 Herausgabe
-
+ 
 2.1
 -
 Herausgabe von Abschriften
@@ -70,7 +70,7 @@ Auslagentatbestand
 Auslagenbetrag in Euro
 1
 Herstellung von Abschriften und Ausdrucken
-
+ 
 1.1
 -
 je DIN A4-Kopie

@@ -6,16 +6,16 @@ Ausfertigungsdatum: 12.12.2019
 
 Inhaltsübersicht
 
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 § 1 - Zweck des Gesetzes
 
@@ -185,7 +185,7 @@ CO_{2}-Transport und -Lagerung
 3.
 Gebäude
 Verbrennung von Brennstoffen in:
-
+ 
 Handel und Behörden;
 1.A.4.a
 Haushalten.

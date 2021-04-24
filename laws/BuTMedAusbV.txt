@@ -10,17 +10,17 @@ Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt durch Artike
 
 Inhaltsübersicht
 
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 § 1 - Staatliche Anerkennung des Ausbildungsberufes
 
@@ -240,9 +240,9 @@ Für den Nachweis ist die erste im Ausbildungsvertrag festgelegte Wahlqualifikat
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen -- auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach § 19 -- wie folgt bewertet worden sind:
 
-- 1. :: im Gesamtergebnis mit mindestens ausreichend“,
-- 2. :: in mindestens drei Prüfungsbereichen mit mindestens ausreichend“ und
-- 3. :: in keinem Prüfungsbereich mit ungenügend“.
+- 1. :: im Gesamtergebnis mit mindestens „ausreichend“,
+- 2. :: in mindestens drei Prüfungsbereichen mit mindestens „ausreichend“ und
+- 3. :: in keinem Prüfungsbereich mit „ungenügend“.
 
 
 § 19 - Mündliche Ergänzungsprüfung
@@ -253,7 +253,7 @@ Für den Nachweis ist die erste im Ausbildungsvertrag festgelegte Wahlqualifikat
 - 1. :: wenn er für einen der folgenden Prüfungsbereiche gestellt worden ist:
   - a) :: Bild- und Tonproduktion oder
   - b) :: Wirtschafts- und Sozialkunde,
-- 2. :: wenn der benannte Prüfungsbereich schlechter als mit ausreichend“ bewertet worden ist und
+- 2. :: wenn der benannte Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 - 3. :: wenn die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 Die mündliche Ergänzungsprüfung darf nur in einem einzigen Prüfungsbereich durchgeführt werden.
@@ -272,8 +272,8 @@ Diese Verordnung tritt am 1. August 2020 in Kraft. Gleichzeitig treten außer Kr
 Anlage - (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Mediengestalter Bild und Ton und zur Mediengestalterin Bild und Ton
 
 (Fundstelle: BGBl. I 2020, 305 - 315)
-
-
-
-
+ 
+ 
+ 
+ 
 Abschnitt B Nummer 4 Spalte 2 Kursivdruck: Fachlich ist wohl § 4 Absatz 3 Nummer 4 gemeint.

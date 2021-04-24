@@ -13,11 +13,11 @@ Art 1 - Zweck der Verordnung und Begriffsbestimmungen
 (1) Dem Wirtschafts- und Handelsbüro der Sonderverwaltungsregion Hongkong der Volksrepublik China in Berlin werden Rechtsfähigkeit sowie, nach Maßgabe dieser Verordnung, Vorrechte und Befreiungen gewährt und Pflichten auferlegt.
 (2) Im Sinne dieser Verordnung haben die nachstehenden Ausdrücke folgende Bedeutung:
 
-- a) :: Der Ausdruck Büro“ bezeichnet das Wirtschafts- und Handelsbüro der Sonderverwaltungsregion Hongkong der Volksrepublik China in Berlin.
-- b) :: Der Ausdruck Geschäftsräume des Büros“ bezeichnet ungeachtet der Eigentumsverhältnisse die Gebäude oder Gebäudeteile und die dazu gehörenden Gelände, die ausschließlich für Zwecke des Büros genutzt werden.
-- c) :: Der Ausdruck Behörden“ bezeichnet Bundes-, Landes- oder Kommunalbehörden nach den Gesetzen, sonstigen Vorschriften und Gepflogenheiten der Bundesrepublik Deutschland.
-- d) :: Der Ausdruck Leiter des Büros“ bezeichnet den in dieser Funktion von der Regierung der Sonderverwaltungsregion Hongkong entsandten Beamten.
-- e) :: Der Ausdruck entsandter Mitarbeiter des Büros“ bezeichnet im Range mit Berufskonsularbeamten vergleichbare, von der Regierung der Sonderverwaltungsregion Hongkong entsandte Beamte, einschließlich des Leiters des Büros, die weder deutsche Staatsangehörige noch in der Bundesrepublik Deutschland ständig ansässig sind.
+- a) :: Der Ausdruck „Büro“ bezeichnet das Wirtschafts- und Handelsbüro der Sonderverwaltungsregion Hongkong der Volksrepublik China in Berlin.
+- b) :: Der Ausdruck „Geschäftsräume des Büros“ bezeichnet ungeachtet der Eigentumsverhältnisse die Gebäude oder Gebäudeteile und die dazu gehörenden Gelände, die ausschließlich für Zwecke des Büros genutzt werden.
+- c) :: Der Ausdruck „Behörden“ bezeichnet Bundes-, Landes- oder Kommunalbehörden nach den Gesetzen, sonstigen Vorschriften und Gepflogenheiten der Bundesrepublik Deutschland.
+- d) :: Der Ausdruck „Leiter des Büros“ bezeichnet den in dieser Funktion von der Regierung der Sonderverwaltungsregion Hongkong entsandten Beamten.
+- e) :: Der Ausdruck „entsandter Mitarbeiter des Büros“ bezeichnet im Range mit Berufskonsularbeamten vergleichbare, von der Regierung der Sonderverwaltungsregion Hongkong entsandte Beamte, einschließlich des Leiters des Büros, die weder deutsche Staatsangehörige noch in der Bundesrepublik Deutschland ständig ansässig sind.
 
 
 Art 2 - Rechtsstellung
@@ -43,8 +43,8 @@ Die amtlichen Archive und Schriftstücke des Büros sind jederzeit unverletzlich
 Art 5 - Verkehrsfreiheit
 
 (1) Dem Büro ist der freie Verkehr für alle amtlichen Zwecke gestattet. Das Büro kann sich im Verkehr mit der Regierung und mit anderen Vertretungen der Sonderverwaltungsregion Hongkong aller geeigneten Mittel, einschließlich verschlüsselter Nachrichten, bedienen.
-(2) Die amtliche Korrespondenz des Büros ist unverletzlich. Als amtliche Korrespondenz“ gilt die gesamte Korrespondenz, welche das Büro und seine Aufgaben betrifft.
-(3) Gepäckstücke, welche die amtliche Korrespondenz bilden, müssen äuAmtliche Korrespondenz“ gekennzeichnet sein; sie dürfen nur die amtliche Korrespondenz sowie ausschließlich für den amtlichen Gebrauch bestimmte Schriftstücke enthalten.
+(2) Die amtliche Korrespondenz des Büros ist unverletzlich. Als „amtliche Korrespondenz“ gilt die gesamte Korrespondenz, welche das Büro und seine Aufgaben betrifft.
+(3) Gepäckstücke, welche die amtliche Korrespondenz bilden, müssen äußerlich sichtbar als „Amtliche Korrespondenz“ gekennzeichnet sein; sie dürfen nur die amtliche Korrespondenz sowie ausschließlich für den amtlichen Gebrauch bestimmte Schriftstücke enthalten.
 (4) Gepäckstücke im Sinne von Absatz 3 dürfen weder geöffnet noch zurückgehalten werden. Haben jedoch die zuständigen Behörden triftige Gründe für die Annahme, dass ein Gepäckstück etwas anderes als Korrespondenz und Schriftstücke im Sinne des Absatzes 3 enthält, können sie verlangen, dass ein Vertreter des Büros die Gepäckstücke in ihrer Gegenwart öffnet.Wird dieses Verlangen abgelehnt, wird das Gepäckstück an seinen Ursprungsort zurückbefördert.
 
 Art 6 - Immunität von der Gerichtsbarkeit und Eingriffen der Verwaltungsbehörden
@@ -60,7 +60,7 @@ Art 7 - Zeugnispflicht
 
 (1) Entsandte Mitarbeiter des Büros können in einem Gerichts- oder Verwaltungsverfahren als Zeugen geladen werden.
 (2) Entsandte Mitarbeiter des Büros sind nicht verpflichtet, Zeugnis über Angelegenheiten zu geben, die mit der Wahrnehmung ihrer Aufgaben zusammenhängen, oder die darauf bezüglichen amtlichen Korrespondenzen und Schriftstücke vorzulegen.
-
+ 
 
 Art 8 - Verzicht auf Vorrechte und Immunitäten
 

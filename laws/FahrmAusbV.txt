@@ -130,8 +130,8 @@ Teil des
 Fertigkeiten und Kenntnisse, die unter Einbeziehung
 Zeitliche Richtwerte in Wochen
 Texten von jeweils rund 1.200 Zeichen in die Fremdsprache.
-
-
+ 
+ 
 Berufsbildes
 Durchführens und Kontrollierens zu vermitteln sind
 1
@@ -146,9 +146,9 @@ a)
 Bedeutung des Ausbildungs-
 während der gesamten Ausbildung zu vermitteln
 jeweils rund 1.200 Zeichen in die deutsche Sprache (Hauptsprache).
-
+ 
 Tarifrecht (§ 5 Nr. 1)
-
+ 
 Abschluss, Dauer und Beendigung, erklären
 b)
 gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -157,8 +157,8 @@ Möglichkeiten der beruflichen Fortbildung nennen
 d)
 wesentliche Teile des
 von drei zur Wahl gestellten Themen gemäß § 2 Abs. 2.
-
-
+ 
+ 
 e)
 wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 2
@@ -184,7 +184,7 @@ Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Brän
 4
 Umweltschutz (§ 5 Nr. 4)
 Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
-
+ 
 a)
 mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 b)
@@ -198,7 +198,7 @@ Planen und Vorbereiten von Arbeitsabläufen sowie Kontrollieren von Arbeitsergeb
 a)
 Arbeitsschritte und -abläufe nach funktionalen, organisatorischen, technischen, wirtschaftlichen Kriterien sowie nach Herstellervorgaben planen und festlegen
 4
-
+ 
 b)
 Werkstoffe, Betriebsmittel und Hilfsstoffe ermitteln
 c)
@@ -211,7 +211,7 @@ f)
 Arbeitsergebnisse durch Soll-Ist-Wertvergleiche kontrollieren
 g)
 Arbeitsabläufe unter Berücksichtigung des Arbeitsauftrages, der Instandhaltungsvorgaben, Einbauanleitungen, der personellen und technischen Gegebenheiten planen, kontrollieren und bewerten
-
+ 
 4
 h)
 Schäden an Bauteilen, Baugruppen und Systemen erkennen, protokollieren und Maßnahmen zu ihrer Beseitigung einleiten
@@ -230,7 +230,7 @@ Qualitätsmanagement (§ 5 Nr. 6)
 a)
 Prüfverfahren und Prüfmittel anforderungsbezogen anwenden
 4
-
+ 
 b)
 Fehler und Qualitätsmängel systematisch suchen, zur Beseitigung beitragen und dokumentieren
 c)
@@ -242,7 +242,7 @@ Messen und Prüfen an Systemen (§ 5 Nr. 7)
 a)
 elektrische Verbindungen auf Schäden prüfen und beurteilen
 4
-
+ 
 b)
 Funktion mechanischer, hydraulischer und pneumatischer Systeme und Gruppen prüfen und dokumentieren
 c)
@@ -256,7 +256,7 @@ Betriebliche und technische Kommunikation (§ 5 Nr. 8)
 a)
 Bedeutung der Information, Kommunikation und Dokumentation für den wirtschaftlichen Betriebsablauf beurteilen, zur Vermeidung von Störungen beitragen
 8
-
+ 
 b)
 betriebliches Informationssystem zum Bearbeiten von Arbeitsaufträgen anwenden und zur Beschaffung von technischen Unterlagen und Informationen nutzen
 c)
@@ -273,7 +273,7 @@ h)
 Vorschriften und Richtlinien für die Verkehrssicherheit von Fahrrädern sowie für das Verhalten im Straßenverkehr anwenden
 i)
 Gesetze und Vorschriften, insbesondere Straßenverkehrsrecht und Schuldrecht, auftragsbezogen beachten
-
+ 
 3
 k)
 Herstellergarantien beachten und Kulanzmöglichkeiten prüfen
@@ -284,7 +284,7 @@ Kommunikation mit internen und externen Kunden (§ 5 Nr. 9)
 a)
 Kundenwünsche und Informationen entgegennehmen, im Betrieb weiterleiten und berücksichtigen
 4
-
+ 
 b)
 Informieren über Instandhaltungsarbeiten
 c)
@@ -293,7 +293,7 @@ d)
 auf Sicherheitsregeln und Vorschriften hinweisen
 e)
 Kommunikationsregeln anwenden
-
+ 
 4
 f)
 Maßnahmen zur Umsetzung von Kundenwünschen einleiten
@@ -308,7 +308,7 @@ Bedienen von Fahrrädern und Systemen (§ 5 Nr. 10)
 a)
 Vorschriften und Hinweise zur Sicherheit und zur Bedienung beachten und anwenden
 4
-
+ 
 b)
 Bedienungsanleitungen lesen, anwenden und erklären
 c)
@@ -318,7 +318,7 @@ Warten, Prüfen und Einstellen von Fahrrädern und Systemen sowie von Betriebsei
 a)
 Arbeits- und Sicherheitsregeln sowie Herstellerrichtlinien beim Transport und Heben von Hand anwenden
 8
-
+ 
 b)
 Fahrräder, Bauteile, Baugruppen und Systeme bewegen, abstellen, anheben, abstützen und sichern
 c)
@@ -327,7 +327,7 @@ d)
 Werterhaltung beim Umgang mit Fahrrädern und Betriebseinrichtungen berücksichtigen
 e)
 mechanische und elektrische Bauteile, Baugruppen und Systeme auf Verschleiß, Beschädigungen, Dichtheit, Lageabweichungen und Funktionsfähigkeit prüfen und dokumentieren
-
+ 
 8
 f)
 hydraulische, pneumatische und elektrische Leitungen, Anschlüsse und mechanische Verbindungen prüfen, Prüfergebnisse dokumentieren
@@ -338,7 +338,7 @@ Montieren, Demontieren und Instandsetzen von Bauteilen, Baugruppen und Systemen 
 a)
 Bauteile, Baugruppen und Systeme demontieren, zerlegen, auf Wiederverwertbarkeit prüfen, kennzeichnen und systematisch ablegen
 16
-
+ 
 b)
 demontierte Bauteile und Baugruppen Systemen zuordnen und auf Vollständigkeit prüfen
 c)
@@ -349,7 +349,7 @@ e)
 Bauteile, Baugruppen und Systeme montieren, in Betrieb nehmen sowie auf Funktion und Formgenauigkeit prüfen
 f)
 Laufräder einspeichen, spannen und zentrieren
-
+ 
 10
 g)
 Fahrräder aus Bauteilen, Baugruppen und Systemen fahrfertig montieren und auf Verkehrssicherheit prüfen
@@ -365,7 +365,7 @@ Fahrzeugbauteile fügen, insbesondere durch Schraub-, Kleb-, Niet-, Press-, Klem
 Manuelles und maschinelles Bearbeiten (§ 5 Nr. 13)
 a)
 Werkzeuge und Hilfsmittel zum Umformen und Trennen auswählen, Bauteile umformen und trennen
-
+ 
 3
 b)
 Bohrungen herstellen, Lagersitze und Führungen in Werkstücken durch Rundreiben und Fräsen auf Passungsdurchmesser bearbeiten
@@ -375,7 +375,7 @@ Innen- und Außengewinde herstellen und in Stand setzen
 Herstellen und Instandhalten von Systemen und Anlagen der Fahrradtechnik (§ 5 Nr. 14)
 a)
 Beleuchtung und Signaleinrichtungen prüfen, einstellen und in Stand setzen
-
+ 
 14
 b)
 Bremssysteme prüfen, einstellen und in Stand setzen
@@ -393,7 +393,7 @@ Sitzsysteme, Lenker, Vorbauten und Anbauteile nach Kundenwunsch und ergonomische
 Bereitstellen von Waren und Dienstleistungen (§ 5 Nr. 15)
 a)
 Waren annehmen, Lieferung prüfen und dokumentieren
-
+ 
 6
 b)
 Waren einlagern, Waren auftragsbezogen bereitstellen

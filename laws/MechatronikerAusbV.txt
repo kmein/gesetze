@@ -56,7 +56,7 @@ Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teile
 
 (1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 (2) Teil 1 der Abschlussprüfung erstreckt sich auf die in der Anlage 1 für das erste Ausbildungsjahr und das dritte Ausbildungshalbjahr aufgeführten Qualifikationen sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
-(3) Teil 1 der Abschlussprüfung besteht aus dem Prüfungsbereich Arbeiten an einem mechatronischen Teilsystem“.
+(3) Teil 1 der Abschlussprüfung besteht aus dem Prüfungsbereich „Arbeiten an einem mechatronischen Teilsystem“.
 (4) Der Prüfling soll zeigen, dass er in der Lage ist,
 
 - 1. :: technische Unterlagen auszuwerten, technische Parameter zu bestimmen, Arbeitsabläufe zu planen und abzustimmen, Material und Werkzeug zu disponieren,
@@ -80,7 +80,7 @@ Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teile
 
 Dabei sind Berufsbildung, Arbeits- und Tarifrecht, Organisation des Ausbildungsbetriebes, Sicherheit und Gesundheitsschutz bei der Arbeit, Umweltschutz, Digitalisierung der Arbeit, Datenschutz und Informationssicherheit, betriebliche und technische Kommunikation, Planen und Steuern von Arbeitsabläufen, Kontrollieren und Beurteilen der Arbeitsergebnisse sowie Geschäftsprozesse und Qualitätsmanagement zu berücksichtigen.
 
-(3) Für den Prüfungsbereich Arbeitsauftrag“ bestehen folgende Vorgaben:
+(3) Für den Prüfungsbereich „Arbeitsauftrag“ bestehen folgende Vorgaben:
 
 - 1. :: Der Prüfling soll zeigen, dass er in der Lage ist,
   - a) :: Arbeitsaufträge zu analysieren, Informationen aus Unterlagen zu beschaffen, technische und organisatorische Schnittstellen zu klären, Lösungsvarianten unter technischen, betriebswirtschaftlichen und ökologischen Gesichtspunkten zu bewerten und auszuwählen,
@@ -88,13 +88,13 @@ Dabei sind Berufsbildung, Arbeits- und Tarifrecht, Organisation des Ausbildungsb
   - c) :: Aufträge durchzuführen, Funktion und Sicherheit zu prüfen und zu dokumentieren, Normen und Spezifikationen zur Qualität und Sicherheit der Systeme zu beachten sowie Ursachen von Fehlern und Mängeln systematisch zu suchen,
   - d) :: Systeme freizugeben und zu übergeben, Fachauskünfte, auch unter Verwendung englischer Fachausdrücke, zu erteilen, Abnahmeprotokolle anzufertigen, Arbeitsergebnisse und Leistungen zu dokumentieren und zu bewerten, Leistungen abzurechnen, Systemdaten und -unterlagen zu dokumentieren;
 - 2. :: dem Prüfungsbereich sind folgende Tätigkeiten zugrunde zu legen: Montage oder Instandhaltung mit jeweils anschließender Inbetriebnahme eines mechatronischen Systems;
-- 3. :: der Prüfling soll zum Nachweis der Anforderungen im Prüfungsbereich Arbeitsauftrag“
+- 3. :: der Prüfling soll zum Nachweis der Anforderungen im Prüfungsbereich „Arbeitsauftrag“
   - a) :: in 20 Stunden einen betrieblichen Auftrag durchführen und mit praxisbezogenen Unterlagen dokumentieren sowie darüber ein auftragsbezogenes Fachgespräch von höchstens 30 Minuten führen; das Fachgespräch wird auf der Grundlage der praxisbezogenen Unterlagen des bearbeiteten betrieblichen Auftrages geführt; unter Berücksichtigung der praxisbezogenen Unterlagen sollen durch das auftragsbezogene Fachgespräch die prozessrelevanten Qualifikationen im Bezug zur Auftragsdurchführung bewertet werden; dem Prüfungsausschuss ist vor der Durchführung des betrieblichen Auftrages die Aufgabenstellung einschließlich eines geplanten Bearbeitungszeitraums zur Genehmigung vorzulegen oder
   - b) :: in 14 Stunden eine Arbeitsaufgabe vorbereiten, durchführen, nachbereiten und mit aufgabenspezifischen Unterlagen dokumentieren sowie darüber ein situatives Fachgespräch von höchstens 20 Minuten führen; die Durchführung der Arbeitsaufgabe beträgt sechs Stunden; durch Beobachtungen der Durchführung, die aufgabenspezifischen Unterlagen und das Fachgespräch sollen die prozessrelevanten Qualifikationen im Bezug zur Durchführung der Arbeitsaufgabe bewertet werden.
 
 Der Ausbildungsbetrieb wählt die Prüfungsvariante nach Satz 1 Nummer 3 aus und teilt sie dem Prüfling und der zuständigen Stelle mit der Anmeldung zur Prüfung mit.
 
-(4) Für den Prüfungsbereich Arbeitsplanung“ bestehen folgende Vorgaben:
+(4) Für den Prüfungsbereich „Arbeitsplanung“ bestehen folgende Vorgaben:
 
 - 1. :: Der Prüfling soll zeigen, dass er in der Lage ist,
   - a) :: Problemanalysen durchzuführen,
@@ -105,7 +105,7 @@ Der Ausbildungsbetrieb wählt die Prüfungsvariante nach Satz 1 Nummer 3 aus und
 - 3. :: der Prüfling soll die Aufgabe schriftlich bearbeiten;
 - 4. :: die Prüfungszeit beträgt 105 Minuten.
 
-(5) Für den Prüfungsbereich Funktionsanalyse“ bestehen folgende Vorgaben:
+(5) Für den Prüfungsbereich „Funktionsanalyse“ bestehen folgende Vorgaben:
 
 - 1. :: Der Prüfling soll zeigen, dass er in der Lage ist,
   - a) :: Maßnahmen zur Instandhaltung oder Inbetriebnahme unter Berücksichtigung betrieblicher Abläufe zu planen,
@@ -119,7 +119,7 @@ Der Ausbildungsbetrieb wählt die Prüfungsvariante nach Satz 1 Nummer 3 aus und
 - 3. :: der Prüfling soll die Aufgabe schriftlich bearbeiten;
 - 4. :: die Prüfungszeit beträgt 105 Minuten.
 
-(6) Für den Prüfungsbereich Wirtschafts- und Sozialkunde“ bestehen folgende Vorgaben:
+(6) Für den Prüfungsbereich „Wirtschafts- und Sozialkunde“ bestehen folgende Vorgaben:
 
 - 1. :: Der Prüfling soll nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen;
 - 2. :: der Prüfling soll praxisorientierte Aufgaben schriftlich bearbeiten;
@@ -139,14 +139,14 @@ Der Ausbildungsbetrieb wählt die Prüfungsvariante nach Satz 1 Nummer 3 aus und
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Leistungen
 
-- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens ausreichend“,
-- 2. :: im Prüfungsbereich Arbeitsauftrag mit mindestens ausreichend“,
-- 3. :: in zwei der Prüfungsbereiche nach Absatz 1 Nummer 3 bis 5 mit mindestens ausreichend“ und
-- 4. :: in keinem Prüfungsbereich von Teil 2 mit ungenügend“
+- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens „ausreichend“,
+- 2. :: im Prüfungsbereich Arbeitsauftrag mit mindestens „ausreichend“,
+- 3. :: in zwei der Prüfungsbereiche nach Absatz 1 Nummer 3 bis 5 mit mindestens „ausreichend“ und
+- 4. :: in keinem Prüfungsbereich von Teil 2 mit „ungenügend“
 
 bewertet worden sind.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der schlechter als ausreichend“ bewerteten Prüfungsbereiche Arbeitsplanung“, Funktionsanalyse“ und Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der schlechter als „ausreichend“ bewerteten Prüfungsbereiche „Arbeitsplanung“, „Funktionsanalyse“ und „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 § 9 - Zusatzqualifikationen
 
@@ -219,7 +219,7 @@ bewertet worden sind.
 (5) Das fallbezogene Fachgespräch wird mit einer Darstellung der praxisbezogenen Aufgabe und des Lösungswegs durch den Prüfling eingeleitet. Ausgehend von der praxisbezogenen Aufgabe und dem dazu erstellten Report entwickelt der Prüfungsausschuss das fallbezogene Fachgespräch so, dass die jeweiligen Anforderungen der Zusatzqualifikation nachgewiesen werden können.
 (6) Das fallbezogene Fachgespräch dauert höchstens 20 Minuten.
 (7) Bewertet wird nur die Leistung, die der Prüfling im fallbezogenen Fachgespräch erbringt.
-(8) Die Prüfung der jeweiligen Zusatzqualifikation ist bestanden, wenn die Prüfungsleistung mit mindestens ausreichend“ bewertet worden ist.
+(8) Die Prüfung der jeweiligen Zusatzqualifikation ist bestanden, wenn die Prüfungsleistung mit mindestens „ausreichend“ bewertet worden ist.
 
 § 17 - Bestandsschutz
 

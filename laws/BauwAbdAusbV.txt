@@ -147,15 +147,15 @@ Anlage - (zu § 6)Ausbildungsrahmenplan für die Berufsausbildung zum Bauwerksab
 (Fundstelle: BGBl. I 1997, 949 - 954)
 \\
 I. Berufliche Grundbildung
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Lfd. Nr.
 Teil des Ausbildungsberufsbildes
 Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
@@ -215,13 +215,13 @@ i)
 Maßnahmen der Ersten Hilfe einleiten
 k)
 zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
-
+ 
 aa)
 für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes beachten
-
+ 
 bb)
 Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
-
+ 
 cc)
 Reststoffe getrennt der Entsorgung zuführen
 5
@@ -247,9 +247,9 @@ Aufstellen und Prüfen von Arbeits- und Schutzgerüsten, Prüfen von Baugruben u
 a)
 Betriebssicherheit von Arbeits- und Schutzgerüsten prüfen, Herstellen der Betriebssicherheit veranlassen
 4
-
-
-
+ 
+ 
+ 
 b)
 Arbeits- und Schutzgerüste aufstellen, unterhalten und abbauen
 c)
@@ -263,9 +263,9 @@ Lesen und Anfertigen von Skizzen, Zeichnungen und Verlegeplänen, Durchführen v
 a)
 Pläne, Zeichnungen, Verlegepläne und Stücklisten lesen und anwenden
 6
-
-
-
+ 
+ 
+ 
 b)
 technische Tabellen, Handbücher, Normen, Richtlinien und Merkblätter anwenden
 c)
@@ -287,9 +287,9 @@ Prüfen von Bau- und Bauhilfsstoffen nach Art und Menge, Lagern und Transportier
 a)
 Bau- und Bauhilfsstoffe den unterschiedlichen Verwendungszwecken zuordnen
 6
-
-
-
+ 
+ 
+ 
 b)
 Klebemassen und Anstriche, insbesondere Bitumen, Voranstriche, gefüllte Massen und Vergußmassen, prüfen und lagern
 c)
@@ -309,9 +309,9 @@ Bereitstellen von Bau- und Bauhilfsstoffen, Werkzeugen und Baugeräten, Inbetrie
 a)
 Bau- und Bauhilfsstoffe, Werkzeuge und Baugeräte bereitstellen
 8
-
-
-
+ 
+ 
+ 
 b)
 Kleingeräte und Werkzeuge instandhalten
 c)
@@ -325,9 +325,9 @@ Ausführen von Holzarbeiten (§ 5 Nr. 10)
 a)
 Schalungen herstellen
 6
-
-
-
+ 
+ 
+ 
 b)
 Holzschutzmittel auftragen
 c)
@@ -339,9 +339,9 @@ Ausführen von Mauer-, Putz-, Beton- und Stemmarbeiten (§ 5 Nr. 11)
 a)
 Mörtel- und Betonmischungen herstellen und einbauen
 8
-
-
-
+ 
+ 
+ 
 b)
 Mauerwerk und Putz ausbessern
 c)
@@ -351,9 +351,9 @@ Verarbeiten von Abdichtungs- und Dämmstoffen (§ 5 Nr. 12)
 a)
 Abdichtungs- und Dämmstoffe messen und zuschneiden
 14
-
-
-
+ 
+ 
+ 
 b)
 Anstrichmittel auftragen
 c)
@@ -379,19 +379,19 @@ Zeitliche Richtwerte in Wochen im Ausbildungsjahr
 Prüfen von Bau- und Bauhilfsstoffen nach Art und Menge, Lagern und Transportieren (§ 5 Nr. 8)
 a)
 Befestigungsmittel prüfen und dem Verwendungszweck zuordnen
-
+ 
 2
-
-
+ 
+ 
 b)
 Dämmstoffe prüfen und lagern
 2
 Ausführen von Mauer-, Putz-, Beton- und Stemmarbeiten (§ 5 Nr. 11)
 a)
 Betonoberflächen im Hinblick auf Abdichtungsarbeiten prüfen
-
-
-
+ 
+ 
+ 
 6
 b)
 Betonoberflächen ausbessern
@@ -399,47 +399,47 @@ Betonoberflächen ausbessern
 Verarbeiten von Abdichtungs- und Dämmstoffen (§ 5 Nr. 12)
 a)
 Bitumen-, Polymerbitumen- und Kunststoffbahnen sowie Metallbänder verkleben, insbesondere im
-
+ 
 10
-
-
-
+ 
+ 
+ 
 -
 Bürstenstreichverfahren,
-
+ 
 -
 Gießverfahren,
-
+ 
 -
 Gieß- und Einwalzverfahren,
-
+ 
 -
 Schweißverfahren sowie durch
-
+ 
 -
 Auftragen von Kunststoffklebern
 b)
 Art der Nahtverbindungen entsprechend dem Baustoff festlegen und Nahtverbindungen herstellen, bei Kunststoffbahnen insbesondere durch
-
+ 
 -
 Quellschweißen,
-
+ 
 -
 Warmgasschweißen,
-
+ 
 -
 Heizkeilschweißen und
-
+ 
 -
 Kleben mit Kontaktklebern
 c)
 Dämmstoffe einbauen
 d)
 Bitumen-, Polymerbitumen- und Kunststoffbahnen durch loses Verlegen und mechanisches Befestigen einbauen
-
-
+ 
+ 
 4
-
+ 
 e)
 Dichtungsbänder einlegen und Abdeckbänder aufsetzen
 f)
@@ -450,10 +450,10 @@ Flüssigkunststoffe auftragen
 Vorbereiten der Abdichtungsarbeiten auf der Baustelle (§ 5 Nr. 13)
 a)
 Zweckmäßigkeit der Abdichtungsmaßnahme, insbesondere hinsichtlich des Wärme- und Brandschutzes, vor Ort prüfen
-
-
+ 
+ 
 6
-
+ 
 b)
 Witterungsverhältnisse im Hinblick auf die Art der Abdichtung einschätzen und entsprechende Maßnahmen veranlassen
 c)
@@ -464,20 +464,20 @@ Temperatur und Feuchte der Abdichtungsunterlage und der Luft prüfen
 Abdichten gegen Bodenfeuchtigkeit, gegen nichtdrückendes und gegen drückendes Wasser (§ 5 Nr. 14)
 a)
 waagerechte, lotrechte, geneigte und geformte Flächen abdichten
-
+ 
 14
-
-
+ 
+ 
 b)
 Ecken, Kanten, Vor- und Rücksprünge abdichten
 c)
 Abdichtungsan- und -abschlüsse herstellen
 d)
 Kehranschlüsse herstellen
-
-
+ 
+ 
 10
-
+ 
 e)
 rückläufige und umgelegte Stöße herstellen
 f)
@@ -492,9 +492,9 @@ k)
 Schutzmaßnahmen für die Abdichtung bei Arbeitsunterbrechungen ergreifen
 l)
 Bewegungsfugen unter Beachtung lotrechter, waagerechter und kombinierter Bewegungen durch Verstärkungen und Fugenflanschenkonstruktionen herstellen
-
-
-
+ 
+ 
+ 
 8
 m)
 bestehende Abdichtungen prüfen, Verbindungen zwischen bestehenden und neuen Abdichtungen herstellen
@@ -504,19 +504,19 @@ Abdichtungen ausbessern
 Abdichten von Dächern (§ 5 Nr. 15)
 a)
 waagerechte, lotrechte, geneigte und geformte Dachflächen sowie Ecken, Kanten und Rundungen an Dachkonstruktionen abdichten
-
-
+ 
+ 
 6
-
+ 
 b)
 Abdichtungsan- und -abschlüsse, insbesondere Wandanschlüsse, Attikaanschlüsse und Dachrandabschlüsse, herstellen
 c)
 Kehlen ausbilden
 d)
 Anschlüsse an Lichtkuppeln und Lichtbändern herstellen
-
-
-
+ 
+ 
+ 
 18
 e)
 Dachdurchdringungen und Dachabläufe einbauen und abdichten
@@ -538,9 +538,9 @@ Abdichtungen unter Dachbegrünungen ausführen
 Abdichten von Verkehrsflächen, insbesondere von Brückentafeln (§ 5 Nr. 16)
 a)
 Oberfläche des Bauwerkes im Hinblick auf Abdichtungsarbeiten prüfen und Maßnahmen veranlassen
-
-
-
+ 
+ 
+ 
 12
 b)
 Abreißfestigkeit von Betonoberflächen messen
@@ -558,9 +558,9 @@ Anschlüsse an Abschlußprofile, Tropftüllen und Abläufe herstellen
 Anfertigen von Bauberichten und Aufmaßskizzen, Qualitätskontrolle (§ 5 Nr. 17)
 a)
 Tages- und Wochenberichte, Stundenlohn- und Baustoffnachweise führen
-
-
-
+ 
+ 
+ 
 8
 b)
 Bestands- und Aufmaßskizzen von ausgeführten Abdichtungsarbeiten anfertigen, Baustoffverbrauchsberechnungen durchführen

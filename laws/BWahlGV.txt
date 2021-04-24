@@ -177,37 +177,37 @@ Identifizierung
 
 Technischer Aufbau
 
-
+ 
 
 2.1
 
 Konstruktion
 
-
+ 
 
 2.2
 
 Belastbarkeit
 
-
+ 
 
 2.3
 
 Haltbarkeit, Funktionssicherheit
 
-
+ 
 
 2.4
 
 Rückwirkungsfreiheit
 
-
+ 
 
 2.5
 
 Energieversorgung
 
-
+ 
 
 2.6
 
@@ -217,43 +217,43 @@ Transport und Aufbewahrung
 
 Funktionsweise
 
-
+ 
 
 3.1
 
 Funktionsprinzip, Verwendungsart
 
-
+ 
 
 3.2
 
 Funktionskontrolle und Fehleranzeige
 
-
+ 
 
 3.3
 
 Darstellung der Wahlvorschläge, Bedienungsvorrichtungen
 
-
+ 
 
 3.4
 
 Stimmenspeicherung, Zählung und Anzeige
 
-
+ 
 
 3.5
 
 Sperrung und Sicherung
 
-
+ 
 
 3.6
 
 Abgabe von Stimmen
 
-
+ 
 
 3.7
 
@@ -408,30 +408,30 @@ Anlage 2 - (zu § 14 Abs. 2 und § 15 Abs. 1 Satz 1)
 
 (Fundstelle des Originaltextes: BGBl. I 1999, 756 - 761)
 Gemeinde ......................................................................................
-
+ 
 Wahlbezirk (Name oder Nummer) ............................................
 Kreis ..............................................................................................
  □ <<FnR.BJNR024590975BJNE002701311_01>>[[#BJNR024590975BJNE002701311_01][1)]]}
 Allgemeiner Wahlbezirk
-
+ 
 Wahlkreis ......................................................................................
  □ [[#BJNR024590975BJNE002701311_01][1)]]}
 Sonderwahlbezirk
-
+ 
 Land ..............................................................................................
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Diese Wahlniederschrift ist auf der\\
 letzten Seite von allen Mitgliedern des\\
 Wahlvorstandes zu unterschreiben.
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 \\
 \\
 
@@ -552,7 +552,7 @@ Wahlvorstandes zu unterschreiben.
 - 5.7 :: Vorstehende Niederschrift wurde von den Mitgliedern des Wahlvorstandes genehmigt und von ihnen unterschrieben.\\
   .............................................. , den .................................... 19 ....\\
   (Ort)
-                                                                          
+                                                                           
 - 5.8 :: Das (Die) Mitglied(er) des Wahlvorstandes ...................................................................................................................................................................................................
 - 5.9 :: Nach Schluß des Wahlgeschäfts übergab der Wahlvorstand am .................................................................................................................................................... ,\\
   ........................ Uhr, dem Beauftragten der Gemeindebehörde
@@ -562,34 +562,34 @@ Anlage 3 - (zu § 14 Abs. 2 und § 15 Abs. 1 Satz 1)
 
 (Fundstelle des Originaltextes: BGBl. I 1999, 762 - 766)
 Gemeinde .....................................................................................
-
+ 
 Wahlbezirk (Name oder Nummer) ............................................
 Kreis ..............................................................................................
  □ <<FnR.BJNR024590975BJNE002800311_01>>[[#BJNR024590975BJNE002800311_01][1)]]}
 Allgemeiner Wahlbezirk
-
+ 
 Land ..............................................................................................
  □ [[#BJNR024590975BJNE002800311_01][1)]]}
 Sonderwahlbezirk
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Diese Wahlniederschrift ist auf der\\
 letzten Seite von allen Mitgliedern des\\
 Wahlvorstandes zu unterschreiben.
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 \\
 \\
 
@@ -655,7 +655,7 @@ Wahlvorstandes zu unterschreiben.
 
 - 2.3 :: Damit die Wähler unbeobachtet ihre Stimme abgeben konnten, war das Wahlgerät im Wahlraum in -- einer -- Wahlzelle -- einem Nebenraum, der nur vom Wahlraum aus betretbar war und dessen Eingang vom Tisch des Wahlvorstandes aus überblickt werden konnte -- aufgestellt[[#BJNR024590975BJNE002800311_02][2)]]} .
 - 2.4 :: Mit der Stimmabgabe wurde um ............... Uhr ............... Minuten begonnen.
-- 2.5 :: Vor Beginn der Stimmabgabe berichtigte der Wahlvorsteher das Wählerverzeichnis nach dem Verzeichnis der nachträglich erteilten Wahlscheine, indem er bei den Namen der nachträglich mit Wahlscheinen versehenen Wahlberechtigten in der Spalte für die Stimmabgabe den Vermerk Wahlschein“ oder den Buchstaben W“ eintrug. Der Wahlvorsteher berichtigte auch die Zahlen der Abschlußbescheinigung der Gemeindebehörde; diese Berichtigung wurde von ihm abgezeichnet[[#BJNR024590975BJNE002800311_02][2)]]} .\\
+- 2.5 :: Vor Beginn der Stimmabgabe berichtigte der Wahlvorsteher das Wählerverzeichnis nach dem Verzeichnis der nachträglich erteilten Wahlscheine, indem er bei den Namen der nachträglich mit Wahlscheinen versehenen Wahlberechtigten in der Spalte für die Stimmabgabe den Vermerk „Wahlschein“ oder den Buchstaben „W“ eintrug. Der Wahlvorsteher berichtigte auch die Zahlen der Abschlußbescheinigung der Gemeindebehörde; diese Berichtigung wurde von ihm abgezeichnet[[#BJNR024590975BJNE002800311_02][2)]]} .\\
   \\
   Der Wahlvorsteher berichtigte später entsprechend das Wählerverzeichnis und die dazugehörige Abschlußbescheinigung unter Berücksichtigung der noch am Wahltage an erkrankte Wahlberechtigte erteilten Wahlscheine[[#BJNR024590975BJNE002800311_02][2)]]} .
 - 2.6 :: Der Wahlvorstand wurde über die Ungültigkeit von Wahlscheinen nicht unterrichtet[[#BJNR024590975BJNE002800311_02][2)]]} .\\
@@ -663,7 +663,7 @@ Wahlvorstandes zu unterschreiben.
   Der Wahlvorstand wurde vom ......................................... unterrichtet, daß folgende(r) Wahlschein(e) für ungültig erklärt worden ist (sind):
   (Vor- und Familienname des Wahlscheininhabers sowie Wahlschein-Nr.)[[#BJNR024590975BJNE002800311_02][2)]]}
   ........................................................................................................................................................................................................................................................................................................
-- 2.7 :: Während der Wahlhandlung überprüfte der Wahlvorsteher oder das von ihm bestimmte Mitglied des Wahlvorstandes an Hand der Kontrollvorrichtungen, ob der Wähler seine Stimme abgegeben hatte und die Vorrichtungen zur Stimmabgabe sodann wieder gesperrt waren. Unterblieb die Abgabe der Stimme, so wurde der Stimmabgabevermerk im Wählerverzeichnis gestrichen und in der Spalte Bemerkungen Nichtwähler“ oder N“ eingetragen.
+- 2.7 :: Während der Wahlhandlung überprüfte der Wahlvorsteher oder das von ihm bestimmte Mitglied des Wahlvorstandes an Hand der Kontrollvorrichtungen, ob der Wähler seine Stimme abgegeben hatte und die Vorrichtungen zur Stimmabgabe sodann wieder gesperrt waren. Unterblieb die Abgabe der Stimme, so wurde der Stimmabgabevermerk im Wählerverzeichnis gestrichen und in der Spalte Bemerkungen „Nichtwähler“ oder „N“ eingetragen.
 - 2.8 :: Während der Wahlhandlung traten an dem Wahlgerät folgende Funktionsstörungen auf, die gemäß Bedienungsanleitung nicht auf einfache Weise und nicht ohne Gefahr für das Bekanntwerden oder Löschen der bereits abgegebenen Stimmen behoben werden konnten,:
   ........................................................................................................................................................................................................................................................................................................\\
   \\
@@ -709,6 +709,6 @@ Wahlvorstandes zu unterschreiben.
 - 5.7 :: Vorstehende Niederschrift wurde von den Mitgliedern des Wahlvorstandes genehmigt und von ihnen unterschrieben.\\
   .............................................. , den .................................... 19 ....\\
   (Ort)
-                                                                          
+                                                                           
 - 5.8 :: Das (Die) Mitglied(er) des Wahlvorstandes ...................................................................................................................................................................................................
 - 5.9 :: Nach Schluß des Wahlgeschäfts übergab der Wahlvorstand

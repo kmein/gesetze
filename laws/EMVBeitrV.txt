@@ -57,7 +57,7 @@ Anlage - EMV-Beiträge 1999 bis 2002  (zu § 1 Abs. 2 Satz 2)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 3361 - 3362
 \\
-
+ 
 Funkdienst/ Funkanwendung
 Nutzergruppen
 Bezugseinheit
@@ -69,130 +69,130 @@ Jahresbeitrag je Bezugseinheit Euro
 5
 1.
 Öffentlicher Mobilfunk
-
-
-
+ 
+ 
+ 
 1.1
-
+ 
 C-, D-, E-Netze
 Gesamtnetz
 35.785,37
 1.2
-
+ 
 Bündelfunk
 Kanal
 39,10
 1.3
-
+ 
 Funkruf
 Kanal
 1.554,50
 1.4
-
+ 
 TFTS
 Kanal
 357,32
 1.5
-
+ 
 Datenfunk
 Kanal
 710,78
 2.
 Rundfunkdienst
-
-
-
+ 
+ 
+ 
 2.1
 Ton-Rundfunk
-
-
-
+ 
+ 
+ 
 2.1.1
-
+ 
 LW
 zugeteilte Frequenz
 15.878,09
 2.1.2
-
+ 
 MW
 zugeteilte Frequenz
 1.020,07
 2.1.3
-
+ 
 KW
 zugeteilte Frequenz
 313,80
 Theoretische Versorgungsfläche
-
+ 
 je zuget. Freq.
-
+ 
 2.1.4
-
+ 
 UKW
 je angefangene 100 qkm
 13,41
 2.1.5
-
+ 
 T-DAB
 je angefangene 100 qkm
 4,05
 2.2
 Fernseh-Rundfunk
-
-
-
+ 
+ 
+ 
 2.2.1
-
+ 
 Fernseh-Rundfunk
 je angefangene 100 qkm
 264,15
 2.2.2
-
+ 
 DVB-T
 je angefangene 100 qkm
 kein Beitrag
 3.
 Feste Funkdienste/ Normalfrequenz und Zeitzeichenfunk
-
-
-
+ 
+ 
+ 
 3.1
-
+ 
 koordinierungspflichtige feste Funkanlagen einschließlich Normalfrequenz- und Zeitzeichenfunk
 Sendefunkanlage
 3,04
 3.2
-
+ 
 nicht koordinierungspflichtige feste Funkanlagen
 Sendefunkanlage
 4,80
 4.
 Nichtöffentlicher Mobiler Landfunk (nömL)
-
-
-
+ 
+ 
+ 
 4.1
-
+ 
 Betriebsfunk auf Gemeinschaftsfrequenzen, Grubenfunk, Grundstücks-Sprechfunk, nichtöffentliches Datenfunknetz für Fernwirk- und Alarmierungszwecke, Funkanlagen für Hilfszwecke, Fernwirk-Funkanlagen
 Sendefunkanlage
 4,68
 4.2
-
+ 
 Betriebsfunk auf Frequenzen, die nicht zur Nutzung als "Gemeinschaftsfrequenzen" bestimmt sind, einschließlich Betriebsfunk in Bündelfunktechnik
 Kanal
 355,27
 4.3
-
+ 
 CB-Funk
 Zuteilungsinhaber
 4,01
 4.4
-
+ 
 Grundstücks-Personenruf (Netze ohne Quittungssender)
 Netz mit .....
-
+ 
 Rufempfängern
-
+ 
 bis zu 2
 0,38
 bis zu 5
@@ -210,12 +210,12 @@ bis zu 1.000
 mehr als 1.000
 36,10
 4.5
-
+ 
 Grundstück-Personenruf (Netze mit Quittungssender)
 Netz mit .....
-
+ 
 Rufempfängern
-
+ 
 bis zu 2
 0,75
 Grundstücksüberschreitender Personenruf
@@ -234,19 +234,19 @@ bis zu 1.000
 mehr als 1.000
 48,00
 4.6
-
+ 
 Fernsehfunkanlagen des nömL, bewegbare Kleinst-Richtfunkanlagen, Funkanlagen zur vorübergehenden Einrichtung von Ton- und Meldeleitungen
 Sendefunkanlage
 24,41
 4.7
-
+ 
 Durchsage-Funkanlagen (Führungs-Funkanlage, drahtlose Mikrofonanlage)
 Sendefunkanlage
 1,68
 4.8
-
+ 
 Mietsprechfunkgerät, Funkanlage zur Fernsteuerung von Modellen, drahtlose Mikrofonanlage für Hörgeschädigte
-
+ 
 kein Beitrag
 5.
 Flugfunkdienst
@@ -273,21 +273,21 @@ Sendefunkanlage
 2,64
 9.
 sonstige Funkanwendungen
-
-
-
+ 
+ 
+ 
 9.1
-
+ 
 Demonstrations-Funkanlagen
 Sendefunkanlage
 0,93
 9.2
-
+ 
 Versuchsfunkanlagen
 Zuteilung
 17,46
 9.3
-
+ 
 WLL
 Sendefunkanlage
 7,06

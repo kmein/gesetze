@@ -192,7 +192,7 @@ Rechtsvorschriften und Normen (§ 4 Abs. 1 Nr. 5)
 a)
 berufsbezogene rechtliche Grundlagen und Normen der Schädlingsbekämpfung beachten und anwenden
 4
-
+ 
 b)
 mit den für die Schädlingsbekämpfung zuständigen Behörden zusammenarbeiten
 6
@@ -200,7 +200,7 @@ Kommunikation und Information (§ 4 Abs. 1 Nr. 6)
 a)
 Informationsquellen nutzen und Informationen auch mit fremdsprachigen Fachbegriffen anwenden
 4
-
+ 
 b)
 betriebsspezifische Kommunikations- und Informationssysteme einsetzen
 c)
@@ -209,19 +209,19 @@ d)
 Regeln zum Datenschutz und zur Datensicherheit anwenden
 e)
 Kommunikationsregeln anwenden
-
+ 
 4
 7
 Planen von Arbeitsabläufen (§ 4 Abs. 1 Nr. 7)
 a)
 Materialien, Geräte, Hilfsmittel und persönliche Schutzausrüstung auswählen und bereitstellen
 4
-
+ 
 b)
 Aufgaben im Team abstimmen und durchführen
 c)
 Arbeitsabläufe festlegen, Arbeits- schritte und Teilaufgaben unter Beachtung wirtschaftlicher und terminlicher Vorgaben sowie zeitlicher Abläufe durchführen; Arbeitsschritte bei Abweichung von der Planung auf die veränderte Situation anpassen
-
+ 
 4
 d)
 Arbeitsabläufe mit weiteren Beteiligten, insbesondere mit anderen Gewerken und Behörden, abstimmen
@@ -230,14 +230,14 @@ Bedienen und Warten von Betriebsmitteln (§ 4 Abs. 1 Nr. 8)
 a)
 Geräte für die Schädlingsbekämpfung bedienen, pflegen und warten
 6
-
+ 
 b)
 Funktionstüchtigkeit und Sicherheit von Geräten überprüfen und Reparaturen veranlassen
 9
 Umgang mit und Anwendung von Gefahrstoffen (§ 4 Abs. 1 Nr. 9)
 Gefahrstoffe
 8
-
+ 
 a)
 erkennen
 b)
@@ -246,7 +246,7 @@ c)
 entsorgen
 d)
 nach Wirkung und Eigenschaften unterscheiden und einordnen
-
+ 
 10
 e)
 transportieren
@@ -259,7 +259,7 @@ Umgang mit und Anwendung von Schädlingsbekämpfungsmitteln (§ 4 Abs. 1 Nr. 10)
 a)
 Schädlingsbekämpfungsmittel nach Wirkung und Eigenschaften unterscheiden
 12
-
+ 
 b)
 Anwendungsverfahren unterscheiden
 c)
@@ -268,18 +268,18 @@ Schädlingsbekämpfungsmittel nach Formulierungen unterscheiden
 Sichern des Arbeitsbereiches (§ 4 Abs. 1 Nr. 11)
 Arbeitsbereiche gegen Zugang durch Nichtbeteiligte, insbesondere durch Information, Kennzeichnung und Absperrung, sichern
 2
-
+ 
 12
 Feststellen von Schädlingsbefall im Gesundheits- und Vorratsschutz, Holz- und Bautenschutz sowie im Pflanzenschutz (§ 4 Abs. 1 Nr. 12)
 a)
 Schädlinge, Spuren und Schadbilder erkennen und bestimmen
 20
-
+ 
 b)
 Schädlingsbefall im Innen- und Außenbereich, insbesondere durch Sichtkontrolle und technisches Monitoring, feststellen
 c)
 Befallsorte eingrenzen, Befallstärke einschätzen und Ursachen ermitteln
-
+ 
 20
 d)
 Dokumentationen erstellen
@@ -288,14 +288,14 @@ Planen und Durchführen von Schädlingsbekämpfungsmaßnahmen im Gesundheits- un
 a)
 Außenbereiche, Innenbereiche und Transportwege gegen Zulauf/Zuflug von Schädlingen absichern
 18
-
+ 
 b)
 Schädlingsbekämpfung mit physikalischen Verfahren durchführen
 c)
 Schädlingsbekämpfung mit biotechnischen Verfahren durchführen
 d)
 Mittel und Verfahren unter Berücksichtigung örtlicher und sachlicher Gegebenheiten auswählen
-
+ 
 20
 e)
 Schädlingsbekämpfung mit chemischen Verfahren durchführen
@@ -306,7 +306,7 @@ Durchführung, Mittel, Maßnahmen und Ergebnisse dokumentieren
 14
 Kundenberatung (§ 4 Abs. 1 Nr. 14)
 Kunden über:
-
+ 
 18
 a)
 Art, Umfang und Ursache des Befalls
@@ -326,7 +326,7 @@ Vertrags- und Geschäftsbedingungen informieren
 Qualitätssichernde Maßnahmen (§ 4 Abs. 1 Nr. 15)
 a)
 betriebsspezifische Maßnahmen der Qualitätssicherung erläutern und aufgabenspezifisch anwenden
-
+ 
 2
 b)
 prozess- und kundenorientiert arbeiten

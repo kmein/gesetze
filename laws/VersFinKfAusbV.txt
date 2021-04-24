@@ -218,116 +218,116 @@ Produkte
 Lebensversicherungen
 --
 Kapitalbildende Lebensversicherung
-
-
+ 
+ 
 --
 Fondsgebundene Lebensversicherung
-
-
+ 
+ 
 --
 Risikolebensversicherung
-
-
+ 
+ 
 --
 Private Rentenversicherung
-
-
+ 
+ 
 --
 Zusatzversicherungen
-
-
+ 
+ 
 --
 Selbständige Berufsunfähigkeitsversicherung
 2.
 Unfallversicherungen
 --
 Einzelunfallversicherung
-
-
+ 
+ 
 --
 Kinderunfallversicherung
-
-
+ 
+ 
 --
 Seniorenunfallversicherung
 3.
 Krankenversicherungen
 --
 Krankheitskostenvollversicherung
-
-
+ 
+ 
 --
 Krankentagegeldversicherung
-
-
+ 
+ 
 --
 Krankenhaustagegeldversicherung
-
-
+ 
+ 
 --
 Zusatzversicherungen
-
-
+ 
+ 
 --
 Pflegepflichtversicherung
-
-
+ 
+ 
 --
 Pflegeergänzungsversicherung
 4.
 Haftpflichtversicherungen
 --
 Privathaftpflichtversicherung
-
-
+ 
+ 
 --
 Tierhalter-Haftpflichtversicherung
 5.
 Rechtsschutzversicherungen
 --
 Privat-, Berufs- und Verkehrsrechtsschutz für Nichtselbständige
-
-
+ 
+ 
 --
 Verkehrsrechtsschutz
 6.
 Kraftfahrtversicherungen
 --
 Kraftfahrt-Haftpflichtversicherung
-
-
+ 
+ 
 --
 Fahrzeugteil- und Fahrzeugvollversicherung
-
-
+ 
+ 
 --
 Verkehrs-Service-Versicherung
 7.
 Sachversicherungen
 --
 Verbundene Hausratversicherung und Haushaltsglasversicherung
-
-
+ 
+ 
 --
 Verbundene Wohngebäudeversicherung
 8.
 Finanzprodukte
 --
 Geldkarte, Bankkarte, Kreditkarten
-
-
+ 
+ 
 --
 Giro-, Festgeld-, Sparkonto
-
-
+ 
+ 
 --
 Aktien, Schuldverschreibungen
-
-
+ 
+ 
 --
 Investmentfonds
-
-
+ 
+ 
 --
 Verbraucherdarlehen
 
@@ -358,7 +358,7 @@ Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
 Der Ausbildungsbetrieb\\
 (§ 4 Abs. 1 Nr. 1)
 
-
+ 
 
 1.1
 
@@ -420,7 +420,7 @@ Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsber
 Arbeitsgestaltung, Kaufmännische Steuerung und Kontrolle\\
 (§ 4 Abs. 1 Nr. 2)
 
-
+ 
 
 2.1
 
@@ -481,7 +481,7 @@ Controlling\\
 Kundenberatung und Verkauf\\
 (§ 4 Abs. 1 Nr. 3)
 
-
+ 
 
 3.1
 
@@ -538,7 +538,7 @@ Der Vermittlung nachfolgender Fertigkeiten, Kenntnisse und Fähigkeiten ist die 
 Bestandskundenmanagement\\
 (§ 4 Abs. 1 Nr. 5)
 
-
+ 
 
 5.1
 
@@ -562,11 +562,11 @@ Kundenbetreuung\\
 - d) :: Beschwerden und Reklamationen entgegennehmen und prüfen sowie Beschwerdemanagement als Instrument zur Qualitätssicherung nutzen
 - e) :: Gründe und Arten von Vertragsänderungen und Vertragsbeendigungen darstellen
 
-
+ 
 
 Abschnitt II: Fachrichtung Versicherung
 
-
+ 
 
 A. Fertigkeiten, Kenntnisse und Fähigkeiten nach § 4 Absatz 2 Nummer 1
 
@@ -582,7 +582,7 @@ Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
 
 3
 
-
+ 
 
 Schaden- und Leistungsbearbeitung\\
 (§ 4 Absatz 2 Nummer 1)
@@ -596,7 +596,7 @@ Der Vermittlung folgender Fertigkeiten, Kenntnisse und Fähigkeiten ist einer de
 - e) :: für Schaden- und Leistungsfälle notwendige Rückstellungen bilden
 - f) :: Schadenservice darstellen
 
-
+ 
 
 B. Fertigkeiten, Kenntnisse und Fähigkeiten in den Wahlqualifikationseinheiten nach § 4 Absatz 2 Nummer 2 in Verbindung mit Absatz 4
 
@@ -617,7 +617,7 @@ Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
 Kundengewinnung und Bestandsausbau\\
 (§ 4 Absatz 4 Nummer 1)
 
-
+ 
 
 1.1
 
@@ -659,7 +659,7 @@ Marketing\\
 Steuerung und Verkaufsförderung in der Vertriebseinheit\\
 (§ 4 Absatz 4 Nummer 3)
 
-
+ 
 
 3.1
 
@@ -686,7 +686,7 @@ in der Vertriebseinheit\\
 Risikomanagement\\
 (§ 4 Absatz 4 Nummer 4)
 
-
+ 
 
 4.1
 
@@ -714,7 +714,7 @@ Vertrieb von Produkten der\\
 betrieblichen Altersvorsorge\\
 (§ 4 Absatz 4 Nummer 5)
 
-
+ 
 
 5.1
 
@@ -742,7 +742,7 @@ Angebot und Antrag\\
 Vertrieb von Versicherungsprodukten für Gewerbekunden\\
 (§ 4 Absatz 4 Nummer 6)
 
-
+ 
 
 6.1
 
@@ -768,7 +768,7 @@ Angebot und Antrag\\
 Optimierung von Kundenbeziehungen und Versicherungsbeständen\\
 (§ 4 Absatz 4 Nummer 7)
 
-
+ 
 
 7.1
 
@@ -802,11 +802,11 @@ Schadenservice und Leistungsmanagement\\
 - e) :: den Nutzen von Schadenservice und Leistungsmanagement für das Unternehmen analysieren und Maßnahmen vorschlagen
 - f) :: bei der Weiterentwicklung des Schadenservice und Leistungsmanagements mitwirken
 
-
+ 
 
 Abschnitt III: Fachrichtung Finanzberatung
 
-
+ 
 
 A. Fertigkeiten, Kenntnisse und Fähigkeiten nach § 4 Absatz 3 Nummer 1
 
@@ -822,7 +822,7 @@ Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
 
 3
 
-
+ 
 
 Anlage in Finanzprodukte\\
 (§ 4 Absatz 3 Nummer 1)
@@ -833,7 +833,7 @@ Anlage in Finanzprodukte\\
 - d) :: steuerliche Vorschriften berücksichtigen
 - e) :: Kauf- und Verkaufsaufträge von Finanzprodukten abwickeln
 
-
+ 
 
 B. Fertigkeiten, Kenntnisse und Fähigkeiten in den Wahlqualifikationseinheiten nach § 4 Absatz 3 Nummer 2 in Verbindung mit Absatz 5
 
@@ -893,7 +893,7 @@ Private Immobilienfinanzierung und Versicherungen\\
 Vertrieb von Produkten der betrieblichen Altersvorsorge\\
 (§ 4 Absatz 5 Nummer 4)
 
-
+ 
 
 4.1
 

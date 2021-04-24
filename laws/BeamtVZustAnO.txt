@@ -1917,16 +1917,16 @@ Erlass des Widerspruchsbescheids zuständig
 \\
 Generalzolldirektion
 21.1 (weggefallen)
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 22.\\
 Ministerinnen/Minister der letzten\\
 DDR-Regierung<<FnR.FnA1-F792144_14>>[[#FnA1-F792144_14][14]]}
@@ -1953,16 +1953,16 @@ DDR-Regierung<<FnR.FnA1-F792144_14>>[[#FnA1-F792144_14][14]]}
 23.\\
 Ehemaliges Bundesministerium für Raum-ordnung, Bauwesen\\
 und Städtebau<<FnR.FnA1-F792144_15>>[[#FnA1-F792144_15][15]]}
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 23.1\\
 Ministerium und nachgeordnete Dienststellen,\\
 bei Versetzung/Eintritt\\
@@ -2248,8 +2248,8 @@ Fußnoten:
 Anlage 2 - (zu § 2)
 
 (Fundstelle: BGBl. I 2016, 2523 --- 2524)
-
-
+ 
+ 
 
 Anlage 3 - (zu § 3 Absatz 6)
 

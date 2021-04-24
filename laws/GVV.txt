@@ -26,7 +26,7 @@ Anlage 1
 2.1 Zusammenwirken der Teilsysteme des EETS-Anbieters und des Mauterhebers
 2.2 Mauterhebung, Kontrolle und Überwachung
 2.3 Qualitätsanforderungen
-
+ 
 1.1 Finanzielle Vorgaben
 
 - 1) :: Sicherheit
@@ -36,7 +36,7 @@ Anlage 1
   Die folgenden Kriterien müssen im Fall einer Bankgarantie erfüllt werden:
   - -- :: Es handelt sich um die Bankgarantie eines Kreditinstituts, welches seinen Sitz oder seine Niederlassung in der Europäischen Union oder in der EFTA hat. Das Kreditinstitut muss ein Investmentgrade-Rating für Langfristverbindlichkeiten von mindestens A3 (Moody´s) bzw. A- (S&P oder Fitch) aufweisen und für Kurzfristverbindlichkeiten von mindestens P2 (Moody´s) bzw. A-2 (S&P) bzw. F-2 (Fitch) aufweisen.
   - -- :: Es handelt sich um eine Bankgarantie auf erstes Anfordern.
-  - -- :: Die Bankgarantie muss sich nach zeitlichem Ablauf automatisch erneuern (revolvierende Bankgarantie“).
+  - -- :: Die Bankgarantie muss sich nach zeitlichem Ablauf automatisch erneuern („revolvierende Bankgarantie“).
 
   Sofern ein anderes Finanzinstrument zur Sicherung der Mauteinnahmen vorgehalten wird, muss dieses einer Bankgarantie, die die genannten Kriterien erfüllt, gleichwertig sein. Ein Finanzinstrument ist gleichwertig, wenn es denselben Grad an Sicherheit wie eine Bankgarantie bietet. Dies kann insbesondere der Fall sein, wenn die Gesellschafter des EETS-Anbieters eine Kapitalintakthalteerklärung in Bezug auf den EETS-Anbieter abgeben und eine der zu besichernden Summe angemessene finanzielle Leistungsfähigkeit besitzen. Die Entscheidung über die Gleichwertigkeit steht im Ermessen des BAG.
   \\
@@ -196,7 +196,7 @@ Anlage 1
   \\
   Der Austausch der entsprechenden Informationen und Daten zwischen dem Mauterheber und dem EETS-Anbieter findet über die Schnittstelle SST 004: Trustobjects statt.
   \\
-  Die sogenannten Trust Objects“ sind sicherheitsrelevante Objekte, wie zum Beispiel Zertifikate, kryptographische Schlüssel oder spezifische Sperrlisten, die für den sicheren Austausch von Datenobjekten erforderlich sind.
+  Die sogenannten „Trust Objects“ sind sicherheitsrelevante Objekte, wie zum Beispiel Zertifikate, kryptographische Schlüssel oder spezifische Sperrlisten, die für den sicheren Austausch von Datenobjekten erforderlich sind.
 - 22) :: Abschnittsbezogene Erhebungsdaten
   \\
   Der EETS-Anbieter übermittelt dem Mauterheber Informationen zu den von den Nutzern befahrenen mautpflichtigen Streckenabschnitten und der erhobenen Maut.
@@ -482,7 +482,7 @@ Anlage 1
   - -- :: Eine Quote für abschnittsbezogene Erhebungsdaten von mindestens 99 %\\
     Die Quote misst die Korrektheit und Rechtzeitigkeit der Übermittlung von abschnittsbezogenen Erhebungsdaten (ABED). Es wird geprüft, ob die abschnittsbezogenen Erhebungsdaten innerhalb der in den Schnittstellenspezifikationen festgelegten Fristen übermittelt wurden und keine Fehler aufweisen.
 
-  Die Einzelheiten zur Messung und Bewertung der Qualitätsparameter sind in der Anlage 5 zum EETS-Zulassungsvertrag, Qualitätsparameter für EETS-Anbieter“, geregelt.
+  Die Einzelheiten zur Messung und Bewertung der Qualitätsparameter sind in der Anlage 5 zum EETS-Zulassungsvertrag, „Qualitätsparameter für EETS-Anbieter“, geregelt.
 - 55) :: System zur Qualitätsmessung
   \\
   Der EETS-Anbieter unterhält ein System zur Messung und Überwachung der Qualität seines Systems und seiner Prozesse.
@@ -498,7 +498,7 @@ Anlage 2
 (Fundstelle: BAnz AT 27.03.2018 V1)
 - 1. :: Einleitung
   \\
-  Im Rahmen des Prüfblocks 1 Dokumentenprüfung“ der Gebrauchstauglichkeitsprüfung soll die Einhaltung der für das BFStrMG geltenden Gebietsvorgaben, basierend auf vom EETS-Anbieter bereitgestellten Dokumenten, bewertet werden. Da der Mauterheber in der Lage sein muss zu prüfen, ob und wie der EETS-Anbieter beabsichtigt, die Vorgaben des Mauterhebers zu erfüllen, muss die vorzulegende Dokumentation die Erfüllung der Gebietsvorgaben vollständig und nachvollziehbar nachweisen.
+  Im Rahmen des Prüfblocks 1 „Dokumentenprüfung“ der Gebrauchstauglichkeitsprüfung soll die Einhaltung der für das BFStrMG geltenden Gebietsvorgaben, basierend auf vom EETS-Anbieter bereitgestellten Dokumenten, bewertet werden. Da der Mauterheber in der Lage sein muss zu prüfen, ob und wie der EETS-Anbieter beabsichtigt, die Vorgaben des Mauterhebers zu erfüllen, muss die vorzulegende Dokumentation die Erfüllung der Gebietsvorgaben vollständig und nachvollziehbar nachweisen.
   \\
   Grundsätzlich werden alle in der Dokumentation enthaltenen Informationen und Beschreibungen hinsichtlich ihrer Nachvollziehbarkeit und Plausibilität geprüft. Je besser die Dokumentation die Erfüllung der Gebietsvorgaben beschreibt, desto zügiger kann die Dokumentenprüfung abgeschlossen werden, da Rückfragen aufgrund von Unklarheiten oder Nachforderung von weiteren Dokumenten vermieden werden können.
   \\
@@ -618,7 +618,7 @@ Mauteinnahmen
 
 Beschreibung des Geschäftsprozesses der Auskehr der Mauteinnahmen an den Mauterheber insbesondere hinsichtlich der Erstellung der Tagesberichte und Gewährleistung der termingerechten Übermittlung.\\
 \\
-Erläuterung der geplanten Umsetzung der Schnittstelle Tagesbericht“ im System des EETS-Anbieters (vgl. Spezifikation der SST 008 -- Tagesbericht“).
+Erläuterung der geplanten Umsetzung der Schnittstelle „Tagesbericht“ im System des EETS-Anbieters (vgl. Spezifikation der SST 008 -- „Tagesbericht“).
 
 Wirtschaftliche Vorgabe
 
@@ -664,7 +664,7 @@ Funktionale Beschreibung der vom EETS-Anbieter eingesetzten mautrelevanten IT-Ko
 \\
 Beschreibung aller Geschäftsprozesse und IT-Serviceprozesse des EETS-Anbieters, die eine Verbindung zum Mauterheber haben, insbesondere in Hinblick auf die Art und Weise der Interaktion zwischen EETS-Anbieter und Mauterheber.\\
 \\
-Erläuterung der geplanten Umsetzung der Schnittstellen Bordgerät -- straBlacklist“, Nutzerlisten“, abschnittsbezogene Erhebungsdaten“, Mautbuchungsnachweise“, Tagesbericht“ sowie der übergreifenden Aspekte“ im System des EETS-Anbieters (vgl. Schnittstellenspezifikationen).
+Erläuterung der geplanten Umsetzung der Schnittstellen „Bordgerät -- straßenseitiges Kontrollequipment“, „Blacklist“, „Nutzerlisten“, „abschnittsbezogene Erhebungsdaten“, „Mautbuchungsnachweise“, „Tagesbericht“ sowie der „übergreifenden Aspekte“ im System des EETS-Anbieters (vgl. Schnittstellenspezifikationen).
 
 Technisch-\\
 organisatorische Vorgabe
@@ -690,7 +690,7 @@ Beschreibung der Geschäftsprozesse in den Bereichen Mauterhebung und -abrechnun
 \\
 Beschreibung der IT-Serviceprozesse des EETS-Anbieters.\\
 \\
-Erläuterung der geplanten Umsetzung der Schnittstellen Bordgerät -- straBlacklist“, Nutzerlisten“, Abschnittsbezogene Erhebungsdaten“, Mautbuchungsnachweise“, Tagesbericht“ sowie der übergreifenden Aspekte“ im System des EETS-Anbieters (vgl. Schnittstellenspezifikationen).
+Erläuterung der geplanten Umsetzung der Schnittstellen „Bordgerät -- straßenseitiges Kontrollequipment“, „Blacklist“, „Nutzerlisten“, „Abschnittsbezogene Erhebungsdaten“, „Mautbuchungsnachweise“, „Tagesbericht“ sowie der „übergreifenden Aspekte“ im System des EETS-Anbieters (vgl. Schnittstellenspezifikationen).
 
 Technisch-\\
 organisatorische Vorgabe
@@ -712,7 +712,7 @@ Funktionale Beschreibung der vom EETS-Anbieter geplanten Schnittstellen und Haup
 \\
 Beschreibung aller Geschäftsprozesse des EETS-Anbieters, die eine Verbindung zum Mauterheber haben, insbesondere in Hinblick auf die Art und Weise der Interaktion zwischen EETS-Anbieter und Mauterheber.\\
 \\
-Erläuterung der geplanten Umsetzung der Schnittstellen, insbesondere Bordgerät -- straBlacklist“, Nutzerlisten“, Abschnittsbezogene Erhebungsdaten“, Mautbuchungsnachweise“, Tagesbericht“ sowie der übergreifenden Aspekte“ im System des EETS-Anbieters (vgl. Schnittstellenspezifikationen).
+Erläuterung der geplanten Umsetzung der Schnittstellen, insbesondere „Bordgerät -- straßenseitiges Kontrollequipment“, „Blacklist“, „Nutzerlisten“, „Abschnittsbezogene Erhebungsdaten“, „Mautbuchungsnachweise“, „Tagesbericht“ sowie der „übergreifenden Aspekte“ im System des EETS-Anbieters (vgl. Schnittstellenspezifikationen).
 
 Technisch-\\
 organisatorische Vorgabe
@@ -732,7 +732,7 @@ Nutzerliste
 
 Beschreibung des Geschäftsprozesses, in dem Anfragen des Mauterhebers bzgl. Adress- und Fahrzeugdaten zu Ahndungszwecken behandelt werden, insbesondere hinsichtlich der Verfügbarkeit und Übermittlung der in Dokument 4.3.3 der Gebietsvorgaben, Schnittstellen 002b und 002c geforderten Informationen.\\
 \\
-Erläuterung der geplanten Umsetzung der Schnittstellen SST 002b/c Adress- und Fahrzeugdaten bzw. weitere Fahrzeuge eines EETS-Nutzers“ im System des EETS-Anbieters (vgl. Dokument 4.3.3 − Spezifikation der Schnittstelle SST 002 -- Nutzerlisten).
+Erläuterung der geplanten Umsetzung der Schnittstellen SST 002b/c „Adress- und Fahrzeugdaten bzw. weitere Fahrzeuge eines EETS-Nutzers“ im System des EETS-Anbieters (vgl. Dokument 4.3.3 − Spezifikation der Schnittstelle SST 002 -- Nutzerlisten).
 
 Technisch-\\
 organisatorische Vorgabe
@@ -743,7 +743,7 @@ Trustobjects
 
 Beschreibung des Geschäftsprozesses des Austauschs der sicherheitsrelevanten Objekte zwischen EETS-Anbieter und Mauterheber.\\
 \\
-Erläuterung der geplanten Umsetzung der Schnittstelle 004 Trustobjects“ im System des EETS-Anbieters (vgl. Dokument 4.3.11 -- Spezifikation der Schnittstelle SST 004 -- Trustobjects).
+Erläuterung der geplanten Umsetzung der Schnittstelle 004 „Trustobjects“ im System des EETS-Anbieters (vgl. Dokument 4.3.11 -- Spezifikation der Schnittstelle SST 004 -- Trustobjects).
 
 Technisch-\\
 organisatorische Vorgabe
@@ -755,7 +755,7 @@ Erhebungsdaten
 
 Beschreibung des Geschäftsprozesses der Übermittlung der abschnittsbezogenen Erhebungsdaten.\\
 \\
-Erläuterung der geplanten Umsetzung der Schnittstelle 006 Abschnittsbezogene Erhebungsdaten“ im System des EETS-Anbieters (vgl. Dokument 4.3.4, Spezifikation der Schnittstelle zum EETS-Anbieter SST 006 -- Abschnittsbezogene Erhebungsdaten).
+Erläuterung der geplanten Umsetzung der Schnittstelle 006 „Abschnittsbezogene Erhebungsdaten“ im System des EETS-Anbieters (vgl. Dokument 4.3.4, Spezifikation der Schnittstelle zum EETS-Anbieter SST 006 -- Abschnittsbezogene Erhebungsdaten).
 
 Technisch-\\
 organisatorische Vorgabe
@@ -766,7 +766,7 @@ Mautbuchungsnachweise
 
 Beschreibung des Geschäftsprozesses der Übermittlung der Mautbuchungsnachweise.\\
 \\
-Erläuterung der geplanten Umsetzung der Schnittstelle 007 Mautbuchungsnachweise“ im System des EETS-Anbieters (vgl. Dokument 4.3.5, Spezifikation der Schnittstelle zum EETS-Anbieter SST 007 -- Mautbuchungsnachweise).
+Erläuterung der geplanten Umsetzung der Schnittstelle 007 „Mautbuchungsnachweise“ im System des EETS-Anbieters (vgl. Dokument 4.3.5, Spezifikation der Schnittstelle zum EETS-Anbieter SST 007 -- Mautbuchungsnachweise).
 
 Technisch-\\
 organisatorische Vorgabe
@@ -777,7 +777,7 @@ Tagesbericht
 
 Beschreibung des Geschäftsprozesses der Übermittlung des Tagesberichts.\\
 \\
-Erläuterung der geplanten Umsetzung der Schnittstelle 008 Tagesbericht“ im System des EETS-Anbieters (vgl. Dokument 4.3.6, Spezifikation der Schnittstelle zum EETS-Anbieter SST 008 − Tagesbericht).
+Erläuterung der geplanten Umsetzung der Schnittstelle 008 „Tagesbericht“ im System des EETS-Anbieters (vgl. Dokument 4.3.6, Spezifikation der Schnittstelle zum EETS-Anbieter SST 008 − Tagesbericht).
 
 Technisch-\\
 organisatorische Vorgabe
@@ -817,7 +817,7 @@ organisatorische Vorgabe
 
 Beschreibung des Geschäftsprozesses der Erfassung von Überwachungsdaten, inkl. Erstellung des geforderten Überwachungsreports.\\
 \\
-Vorlage eines beispielhaften Entwurfs eines Überwachungsreports in den vom Mauterheber geforderten Bereichen (vgl. Vorgaben zu SST 013 -- Überwachungsreports“).
+Vorlage eines beispielhaften Entwurfs eines Überwachungsreports in den vom Mauterheber geforderten Bereichen (vgl. Vorgaben zu SST 013 -- „Überwachungsreports“).
 
 Technisch-\\
 organisatorische Vorgabe
@@ -828,7 +828,7 @@ DSRC-Daten
 
 Beschreibung des Geschäftsprozesses der Übermittlung der DSRC-Daten.\\
 \\
-Erläuterung der geplanten Umsetzung der Schnittstelle SST 301 Fahrzeuggerät des EETS-Anbieters und straßenseitigem Kontrollequipment des Mauterhebers“ im System des EETS-Anbieters (vgl. Dokument 4.3.1 − Spezifikation der DSRC-Schnittstelle zwischen einem Bordgerät und der straßenseitigen Ausrüstung im Mautgebiet BFStrMG).
+Erläuterung der geplanten Umsetzung der Schnittstelle SST 301 „Fahrzeuggerät des EETS-Anbieters und straßenseitigem Kontrollequipment des Mauterhebers“ im System des EETS-Anbieters (vgl. Dokument 4.3.1 − Spezifikation der DSRC-Schnittstelle zwischen einem Bordgerät und der straßenseitigen Ausrüstung im Mautgebiet BFStrMG).
 
 Technisch-\\
 organisatorische Vorgabe
@@ -974,9 +974,9 @@ Beschreibung des Geschäftsprozesses, in dem Anfragen des Mauterhebers bzgl. Adr
 \\
 Beschreibung des Geschäftsprozesses der den Umgang mit Ansprüchen des Mauterhebers im Rahmen der Anbieterausfallhaftung beinhaltet.\\
 \\
-Erläuterung der geplanten Umsetzung der Schnittstelle SST 301 Fahrzeuggerät des EETS-Anbieters und straßenseitigem Kontrollequipment des Mauterhebers“ im System des EETS-Anbieters (vgl. Spezifikation der DSRC-Schnittstelle zwischen einem Bordgerät und der straßenseitigen Ausrüstung im Mautgebiet BFStrMG).\\
+Erläuterung der geplanten Umsetzung der Schnittstelle SST 301 „Fahrzeuggerät des EETS-Anbieters und straßenseitigem Kontrollequipment des Mauterhebers“ im System des EETS-Anbieters (vgl. Spezifikation der DSRC-Schnittstelle zwischen einem Bordgerät und der straßenseitigen Ausrüstung im Mautgebiet BFStrMG).\\
 \\
-Erläuterung der geplanten Umsetzung der Schnittstellen SST 002b/c Adress- und Fahrzeugdaten bzw. weitere Fahrzeuge eines EETS-Nutzers“ im System des EETS-Anbieters (vgl. Spezifikation der Schnittstelle SST 002 -- Nutzerlisten).
+Erläuterung der geplanten Umsetzung der Schnittstellen SST 002b/c „Adress- und Fahrzeugdaten bzw. weitere Fahrzeuge eines EETS-Nutzers“ im System des EETS-Anbieters (vgl. Spezifikation der Schnittstelle SST 002 -- Nutzerlisten).
 
 Technisch-\\
 organisatorische Vorgabe
@@ -985,9 +985,9 @@ organisatorische Vorgabe
 
 Datenübermittlung für Kontrollzwecke
 
-Erläuterung der geplanten Umsetzung der Schnittstelle SST 301 Fahrzeuggerät des EETS-Anbieters und straßenseitigem Kontrollequipment des Mauterhebers“ im System des EETS-Anbieters (vgl. Spezifikation der DSRC-Schnittstelle zwischen einem Bordgerät und der straßenseitigen Ausrüstung im Mautgebiet BFStrMG).\\
+Erläuterung der geplanten Umsetzung der Schnittstelle SST 301 „Fahrzeuggerät des EETS-Anbieters und straßenseitigem Kontrollequipment des Mauterhebers“ im System des EETS-Anbieters (vgl. Spezifikation der DSRC-Schnittstelle zwischen einem Bordgerät und der straßenseitigen Ausrüstung im Mautgebiet BFStrMG).\\
 \\
-Erläuterung der geplanten Umsetzung der Schnittstellen SST 002b/c Adress- und Fahrzeugdaten bzw. weitere Fahrzeuge eines EETS-Nutzers“ im System des EETS-Anbieters (vgl. Spezifikation der Schnittstelle SST 002 -- Nutzerlisten“).\\
+Erläuterung der geplanten Umsetzung der Schnittstellen SST 002b/c „Adress- und Fahrzeugdaten bzw. weitere Fahrzeuge eines EETS-Nutzers“ im System des EETS-Anbieters (vgl. Spezifikation der Schnittstelle SST 002 -- „Nutzerlisten“).\\
 \\
 Darstellung der Maßnahmen und Methoden zur Erkennung und Verhinderung von Manipulation am Fahrzeuggerät.
 
@@ -1000,7 +1000,7 @@ organisatorische Vorgabe
 
 Ermöglichung der Kontrolle
 
-Erläuterung der geplanten Umsetzung der Schnittstelle SST 301 Fahrzeuggerät des EETS-Anbieters und straßenseitigem Kontrollequipment des Mauterhebers“ im System des EETS-Anbieters (vgl. Spezifikation der DSRC-Schnittstelle zwischen einem Bordgerät und der straßenseitigen Ausrüstung im Mautgebiet BFStrMG).\\
+Erläuterung der geplanten Umsetzung der Schnittstelle SST 301 „Fahrzeuggerät des EETS-Anbieters und straßenseitigem Kontrollequipment des Mauterhebers“ im System des EETS-Anbieters (vgl. Spezifikation der DSRC-Schnittstelle zwischen einem Bordgerät und der straßenseitigen Ausrüstung im Mautgebiet BFStrMG).\\
 \\
 Beschreibung der Anzeige- und Ausgabemöglichkeiten der Nutzerschnittstelle (HMI) der OBU (Benutzerhandbuch der OBU).
 

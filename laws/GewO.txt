@@ -52,7 +52,7 @@ Anzeige der grenzüberschreitenden Erbringung von Dienstleistungen in reglementi
 Anerkennung ausländischer Unterlagen und Bescheinigungen
 § 13c
 Anerkennung von ausländischen Befähigungsnachweisen
-
+ 
 Titel II
 Stehendes Gewerbe
 I. Allgemeine Erfordernisse
@@ -64,14 +64,14 @@ Empfangsbescheinigung, Betrieb ohne Zulassung
 (weggefallen)
 § 15b
 (weggefallen)
-
+ 
 II. Erfordernis besonderer Überwachung oder Genehmigung
-
+ 
 A. Anlagen, die einer besonderen Überwachung bedürfen
 §§ 16 bis 28
 (weggefallen)
-
-
+ 
+ 
 B. Gewerbetreibende, die einer besonderen Genehmigung bedürfen
 § 29
 Auskunft und Nachschau
@@ -147,7 +147,7 @@ Gewerbeuntersagung wegen Unzuverlässigkeit
 (weggefallen)
 § 40
 (weggefallen)
-
+ 
 III. Umfang, Ausübung und Verlust der Gewerbebefugnisse
 § 41
 Beschäftigung von Arbeitnehmern
@@ -171,7 +171,7 @@ Untersagung wegen überwiegender Nachteile und Gefahren
 Übergangsregelung
 §§ 53 bis 54
 (weggefallen)
-
+ 
 Titel III
 Reisegewerbe
 § 55
@@ -214,7 +214,7 @@ Verhinderung der Gewerbeausübung
 Anwendbarkeit von Vorschriften des stehenden Gewerbes
 §§ 62 und 63
 (weggefallen)
-
+ 
 Titel IV
 Messen, Ausstellungen, Märkte
 § 64
@@ -247,22 +247,22 @@ Vergütung
 Öffentliche Sicherheit oder Ordnung
 § 71b
 Anwendbarkeit von Vorschriften des stehenden Gewerbes
-
+ 
 Titel V
 Taxen
 §§ 72 bis 80
 (weggefallen)
-
+ 
 Titel VI
 Innungen, Innungsausschüsse, Handwerkskammern, Innungsverbände
 §§ 81 bis 104n
 (weggefallen)
-
+ 
 Titel VIa
 Handwerksrolle
 §§ 104o bis 104u
 (weggefallen)
-
+ 
 Titel VII
 Arbeitnehmer
 I. Allgemeine arbeitsrechtliche Grundsätze
@@ -280,29 +280,29 @@ Zeugnis
 Wettbewerbsverbot
 §§ 111 bis 132a
 (weggefallen)
-
+ 
 II. Meistertitel
 § 133
 Befugnis zur Führung des Baumeistertitels
 §§ 133a bis 139aa
 (weggefallen)
-
+ 
 III. Aufsicht
 § 139b
 Gewerbeaufsichtsbehörde
 §§ 139c bis 139m
 (weggefallen)
-
+ 
 Titel VIII
 Gewerbliche Hilfskassen
 §§ 140 bis 141f
 (weggefallen)
-
+ 
 Titel IX
 Statutarische Bestimmungen
 § 142
 (weggefallen)
-
+ 
 Titel X
 Straf- und Bußgeldvorschriften
 § 143
@@ -327,7 +327,7 @@ Strafbare Verletzung gewerberechtlicher Vorschriften
 Strafbare Verletzung von Prüferpflichten
 § 148b
 Fahrlässige Hehlerei von Edelmetallen und Edelsteinen
-
+ 
 Titel XI
 Gewerbezentralregister
 § 149
@@ -354,7 +354,7 @@ Tilgung von Eintragungen
 Mitteilungen zum Gewerbezentralregister
 § 153b
 Verwaltungsvorschriften
-
+ 
 Schlußbestimmungen
 § 154
 (weggefallen)
@@ -917,7 +917,7 @@ Die Abhaltung von Tanzlustbarkeiten richtet sich nach den landesrechtlichen Best
 (2) Die Zulassung ist ganz oder teilweise, die Unbedenklichkeitsbescheinigung ist ganz zurückzunehmen oder zu widerrufen, wenn Tatsachen bekannt werden, die ihre Versagung rechtfertigen würden, oder wenn der Antragsteller zugelassene Spielgeräte an den in dem Zulassungsschein bezeichneten Merkmalen verändert oder ein für unbedenklich erklärtes Spiel unter nicht genehmigten Bedingungen veranstaltet.
 (3) Die Zulassung und die Unbedenklichkeitsbescheinigung können mit einer Befristung erteilt und mit Auflagen verbunden werden.
 (4) Bei serienmäßig hergestellten Spielen nach § 33d genügt es, wenn die Unbedenklichkeitsbescheinigung für das eingereichte Spiel und für Nachbauten ein Abdruck der Unbedenklichkeitsbescheinigung erteilt wird.
-
+ 
 
 § 33f - Ermächtigung zum Erlaß von Durchführungsvorschriften
 

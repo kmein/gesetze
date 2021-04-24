@@ -6,43 +6,43 @@ Ausfertigungsdatum: 15.03.1974
 
 Inhaltsübersicht
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Anlage (zu § 3 Absatz 6) Kriterien zur Bestimmung des Standes der Technik
 
 § 1 - Zweck des Gesetzes
@@ -827,11 +827,11 @@ Dieser Teil des Gesetzes gilt für den Umgebungslärm, dem Menschen insbesondere
 
 Im Sinne dieses Gesetzes bezeichnen die Begriffe
 
-- 1. :: Umgebungslärm“ belästigende oder gesundheitsschädliche Geräusche im Freien, die durch Aktivitäten von Menschen verursacht werden, einschließlich des Lärms, der von Verkehrsmitteln, Straßenverkehr, Eisenbahnverkehr, Flugverkehr sowie Geländen für industrielle Tätigkeiten ausgeht;
-- 2. :: Ballungsraum“ ein Gebiet mit einer Einwohnerzahl von über 100 000 und einer Bevölkerungsdichte von mehr als 1 000 Einwohnern pro Quadratkilometer;
-- 3. :: Hauptverkehrsstraße“ eine Bundesfernstraße, Landesstraße oder auch sonstige grenzüberschreitende Straße, jeweils mit einem Verkehrsaufkommen von über drei Millionen Kraftfahrzeugen pro Jahr;
-- 4. :: Haupteisenbahnstrecke“ ein Schienenweg von Eisenbahnen nach dem Allgemeinen Eisenbahngesetz mit einem Verkehrsaufkommen von über 30 000 Zügen pro Jahr;
-- 5. :: GroBewegung“ der Start oder die Landung bezeichnet wird, hiervon sind ausschließlich der Ausbildung dienende Bewegungen mit Leichtflugzeugen ausgenommen.
+- 1. :: „Umgebungslärm“ belästigende oder gesundheitsschädliche Geräusche im Freien, die durch Aktivitäten von Menschen verursacht werden, einschließlich des Lärms, der von Verkehrsmitteln, Straßenverkehr, Eisenbahnverkehr, Flugverkehr sowie Geländen für industrielle Tätigkeiten ausgeht;
+- 2. :: „Ballungsraum“ ein Gebiet mit einer Einwohnerzahl von über 100 000 und einer Bevölkerungsdichte von mehr als 1 000 Einwohnern pro Quadratkilometer;
+- 3. :: „Hauptverkehrsstraße“ eine Bundesfernstraße, Landesstraße oder auch sonstige grenzüberschreitende Straße, jeweils mit einem Verkehrsaufkommen von über drei Millionen Kraftfahrzeugen pro Jahr;
+- 4. :: „Haupteisenbahnstrecke“ ein Schienenweg von Eisenbahnen nach dem Allgemeinen Eisenbahngesetz mit einem Verkehrsaufkommen von über 30 000 Zügen pro Jahr;
+- 5. :: „Großflughafen“ ein Verkehrsflughafen mit einem Verkehrsaufkommen von über 50 000 Bewegungen pro Jahr, wobei mit „Bewegung“ der Start oder die Landung bezeichnet wird, hiervon sind ausschließlich der Ausbildung dienende Bewegungen mit Leichtflugzeugen ausgenommen.
 
 
 § 47c - Lärmkarten

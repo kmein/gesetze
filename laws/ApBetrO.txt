@@ -7,14 +7,14 @@ Ausfertigungsdatum: 09.02.1987
 Inhaltsübersicht
 
 Erster Abschnitt
-
+ 
 Allgemeine Bestimmung
 § 1
 Anwendungsbereich
 § 1a
 Begriffsbestimmungen
 Zweiter Abschnitt
-
+ 
 Der Betrieb von öffentlichen Apotheken
 § 2
 Apothekenleiter
@@ -71,7 +71,7 @@ Rezeptsammelstellen
 § 25
 (weggefallen)
 Dritter Abschnitt
-
+ 
 Der Betrieb von Krankenhausapotheken
 § 26
 Anzuwendende Vorschriften
@@ -90,21 +90,21 @@ Abgabe in der Krankenhausapotheke
 § 33
 Dienstbereitschaft der Krankenhausapotheke
 Vierter Abschnitt
-
+ 
 Sondervorschriften
 § 34
 Patientenindividuelles Stellen oder Verblistern von Arzneimitteln
 § 35
 Herstellung von Arzneimitteln zur parenteralen Anwendung
 Fünfter Abschnitt
-
+ 
 Ordnungswidrigkeiten, Übergangs- und Schlussvorschriften
 § 36
 Ordnungswidrigkeiten
 § 37
 Übergangsbestimmungen
 § 35a
-(weggefallen)
+(weggefallen) 
 § 36
 (weggefallen)
 § 37
@@ -400,7 +400,7 @@ Zur Herstellung von Arzneimitteln dürfen nur primäre Verpackungsmaterialien ve
 - 4. :: Gebrauchsanweisung, sofern das Arzneimittel nicht unmittelbar an die verschreibende Person abgegeben wird,
 - 5. :: Wirkstoffe nach Art und Menge und sonstige Bestandteile nach der Art,
 - 6. :: Herstellungsdatum,
-- 7. :: Verwendbarkeitsfrist mit dem Hinweis verwendbar bis“ oder mit der Abkürzung verw. bis“ unter Angabe von Tag, Monat und Jahr und, soweit erforderlich, Angabe der Haltbarkeit nach dem Öffnen des Behältnisses oder nach Herstellung der gebrauchsfertigen Zubereitung,
+- 7. :: Verwendbarkeitsfrist mit dem Hinweis „verwendbar bis“ oder mit der Abkürzung „verw. bis“ unter Angabe von Tag, Monat und Jahr und, soweit erforderlich, Angabe der Haltbarkeit nach dem Öffnen des Behältnisses oder nach Herstellung der gebrauchsfertigen Zubereitung,
 - 8. :: soweit erforderlich, Hinweise auf besondere Vorsichtsmaßnahmen, für die Aufbewahrung oder für die Beseitigung von nicht verwendeten Arzneimitteln oder sonstige besondere Vorsichtsmaßnahmen, um Gefahren für die Umwelt zu vermeiden, und
 - 9. :: soweit das Rezepturarzneimittel auf Grund einer Verschreibung zur Anwendung bei Menschen hergestellt wurde, Name des Patienten.
 

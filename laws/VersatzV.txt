@@ -162,7 +162,7 @@ Konzentration (Masse-%)
 
 Organischer Anteil des Trockenrückstandes der Originalsubstanz, bestimmt als
 
-
+ 
 
 TOC
 
@@ -226,7 +226,7 @@ Cyanid, leicht freisetzbar (CN(hoch)-)
 
 10
 
-
+ 
 
 Organische Stoffe
 
@@ -460,7 +460,7 @@ Bestimmung von organischem Kohlenwasserstoff und Gesamtkohlenstoff nach trockene
 DIN ISO 10694
 August 1996
 Glühverlust
-
+ 
 DIN 38414, Teil 3
 November 1985
 \\
@@ -528,9 +528,9 @@ September 1991
 Zink
 DIN 38406, Teil 8
 Oktober 1980
-
+ 
 für alle Elemente:
-
+ 
 DIN EN ISO 11047
 Juni 1995
 DIN EN ISO 11885
@@ -553,7 +553,7 @@ GC-ECD oder (GC-MS)
 DIN 38407, Teil 3
 Juli 1998
 PAK, gesamt
-
+ 
 DIN 38407, Teil 8
 Oktober 1995
 Naphthalin

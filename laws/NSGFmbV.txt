@@ -1,4 +1,4 @@
-[NSGFmbV] Verordnung über die Festsetzung des Naturschutzgebietes Fehmarnbelt“   (NSGFmbV)
+[NSGFmbV] Verordnung über die Festsetzung des Naturschutzgebietes „Fehmarnbelt“   (NSGFmbV)
 
 Ausfertigungsdatum: 22.09.2017
 
@@ -10,12 +10,12 @@ Auf Grund des § 57 Absatz 2 in Verbindung mit Absatz 1 und 3, § 56 Absatz 1, �
 
 § 1 - Erklärung zum Naturschutzgebiet
 
-Das in § 2 näher bezeichnete Meeresgebiet im Bereich der deutschen ausschlieFehmarnbelt“. Es ist Teil des zusammenhängenden europäischen ökologischen Netzes Natura 2000“ und als Gebiet von gemeinschaftlicher Bedeutung nach der Richtlinie 92/43/EWG des Rates vom 21. Mai 1992 zur Erhaltung der natürlichen Lebensräume sowie der wildlebenden Tiere und Pflanzen (ABl. L 206 vom 22.7.1992, S. 7), die zuletzt durch die Richtlinie 2013/17/EU (ABl. L 158 vom 10.6.2013, S. 193) geändert worden ist, registriert.
+Das in § 2 näher bezeichnete Meeresgebiet im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels wird zum Naturschutzgebiet erklärt. Das Naturschutzgebiet erhält die Bezeichnung „Fehmarnbelt“. Es ist Teil des zusammenhängenden europäischen ökologischen Netzes „Natura 2000“ und als Gebiet von gemeinschaftlicher Bedeutung nach der Richtlinie 92/43/EWG des Rates vom 21. Mai 1992 zur Erhaltung der natürlichen Lebensräume sowie der wildlebenden Tiere und Pflanzen (ABl. L 206 vom 22.7.1992, S. 7), die zuletzt durch die Richtlinie 2013/17/EU (ABl. L 158 vom 10.6.2013, S. 193) geändert worden ist, registriert.
 
 § 2 - Schutzgegenstand
 
-(1) Das Naturschutzgebiet Fehmarnbelt“ hat eine Fläche von 280 Quadratkilometern und liegt in der Ostsee zwischen der deutschen Ostseeinsel Fehmarn und der dänischen Ostseeinsel Lolland. Es umfasst eine Rinne, die nördlich von Fehmarn in den deutlich flacheren umgebenden Meeresboden eingeschnitten ist.
-(2) Das Naturschutzgebiet wird durch die Verbindung der in Anlage 1 aufgeführten Punkte begrenzt. Zwischen den Punkten FMB1 und FMB2 ist die Grenze des Naturschutzgebietes deckungsgleich mit der seewärtigen Abgrenzung der deutschen ausschlieDeutsche Ostseeküste und angrenzende Gewässer“, Ausgabe 1994, XII., des Bundesamtes für Seeschifffahrt und Hydrographie. Die Punkte FMB1 und FMB4 sowie FMB2 und FMB3 sind jeweils durch Loxodrome miteinander verbunden. Die Koordinaten der in Anlage 1 genannten Punkte sind durch Breite und Länge gemäß dem World Geodetic System 1984 (WGS 84) bestimmt.
+(1) Das Naturschutzgebiet „Fehmarnbelt“ hat eine Fläche von 280 Quadratkilometern und liegt in der Ostsee zwischen der deutschen Ostseeinsel Fehmarn und der dänischen Ostseeinsel Lolland. Es umfasst eine Rinne, die nördlich von Fehmarn in den deutlich flacheren umgebenden Meeresboden eingeschnitten ist.
+(2) Das Naturschutzgebiet wird durch die Verbindung der in Anlage 1 aufgeführten Punkte begrenzt. Zwischen den Punkten FMB1 und FMB2 ist die Grenze des Naturschutzgebietes deckungsgleich mit der seewärtigen Abgrenzung der deutschen ausschließlichen Wirtschaftszone gemäß der Proklamation der Bundesrepublik Deutschland über die Errichtung einer ausschließlichen Wirtschaftszone der Bundesrepublik Deutschland in der Nordsee und in der Ostsee vom 25. November 1994 (BGBl. 1994 II S. 3769) zur ausschließlichen Wirtschaftszone des Königreichs Dänemark. Zwischen den Punkten FMB3 und FMB4 ist die Grenze des Naturschutzgebietes deckungsgleich mit der seewärtigen Abgrenzung des deutschen Küstenmeeres gemäß der Proklamation der Bundesregierung über die Ausweitung des deutschen Küstenmeeres vom 19. Oktober 1994 (BGBl. I S. 3428) in Verbindung mit der Seegrenzkarte Nr. 2921 „Deutsche Ostseeküste und angrenzende Gewässer“, Ausgabe 1994, XII., des Bundesamtes für Seeschifffahrt und Hydrographie. Die Punkte FMB1 und FMB4 sowie FMB2 und FMB3 sind jeweils durch Loxodrome miteinander verbunden. Die Koordinaten der in Anlage 1 genannten Punkte sind durch Breite und Länge gemäß dem World Geodetic System 1984 (WGS 84) bestimmt.
 (3) Für die Abgrenzung des deutschen Küstenmeeres und der deutschen ausschließlichen Wirtschaftszone bleiben die diesbezüglichen Proklamationen der Bundesrepublik Deutschland von 1994 maßgeblich.
 (4) Im Naturschutzgebiet wird eine Zone eingerichtet. Die Zone ist im Westen durch den Längengrad 10° 56' E und im Osten durch den Längengrad 11° 03' E, im Übrigen durch die Außengrenzen des Naturschutzgebietes nach Absatz 2 und 3 begrenzt.
 (5) Die Grenze des Naturschutzgebietes ist in Anlage 2 in einer Übersichtskarte im Maßstab 1 : 150 000 blau gekennzeichnet. Die Zone nach § 2 Absatz 4 ist in Anlage 2 ebenfalls grafisch dargestellt.
@@ -127,7 +127,7 @@ Weitergehende Vorschriften bleiben von dieser Verordnung unberührt. Hierzu zäh
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-Anlage 1 - (zu § 2 Absatz 2)Geographische Koordinaten des Naturschutzgebietes Fehmarnbelt“
+Anlage 1 - (zu § 2 Absatz 2)Geographische Koordinaten des Naturschutzgebietes „Fehmarnbelt“
 
 (Fundstelle: BGBl. I 2017, 3409)
 

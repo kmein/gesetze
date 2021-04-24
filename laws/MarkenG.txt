@@ -7,21 +7,21 @@ Ausfertigungsdatum: 25.10.1994
 Inhaltsübersicht
 
 Teil 1
-
+ 
 Anwendungsbereich
 § 1
 Geschützte Marken und sonstige Kennzeichen
 § 2
 Anwendung anderer Vorschriften
 Teil 2
-
+ 
 Voraussetzungen, Inhalt und Schranken des Schutzes von Marken und geschäftlichen Bezeichnungen; Übertragung und Lizenz
-
-
+ 
+ 
 Abschnitt 1
-
-
-
+ 
+ 
+ 
 Marken und geschäftliche Bezeichnungen; Vorrang und Zeitrang
 § 3
 Als Marke schutzfähige Zeichen
@@ -31,12 +31,12 @@ Entstehung des Markenschutzes
 Geschäftliche Bezeichnungen
 § 6
 Vorrang und Zeitrang
-
-
+ 
+ 
 Abschnitt 2
-
-
-
+ 
+ 
+ 
 Voraussetzungen für den Schutz von Marken durch Eintragung
 § 7
 Inhaberschaft
@@ -52,12 +52,12 @@ Agentenmarken
 Durch Benutzung erworbene Marken und geschäftliche Bezeichnungen mit älterem Zeitrang
 § 13
 Sonstige ältere Rechte
-
-
+ 
+ 
 Abschnitt 3
-
-
-
+ 
+ 
+ 
 Schutzinhalt; Rechtsverletzungen
 § 14
 Ausschließliches Recht des Inhabers einer Marke; Unterlassungsanspruch; Schadensersatzanspruch
@@ -81,12 +81,12 @@ Sicherung von Schadensersatzansprüchen
 Urteilsbekanntmachung
 § 19d
 Ansprüche aus anderen gesetzlichen Vorschriften
-
-
+ 
+ 
 Abschnitt 4
-
-
-
+ 
+ 
+ 
 Schranken des Schutzes
 § 20
 Verjährung
@@ -102,12 +102,12 @@ Erschöpfung
 Ausschluß von Ansprüchen bei mangelnder Benutzung
 § 26
 Benutzung der Marke
-
-
+ 
+ 
 Abschnitt 5
-
-
-
+ 
+ 
+ 
 Marken als Gegenstand des Vermögens
 § 27
 Rechtsübergang
@@ -120,14 +120,14 @@ Lizenzen
 § 31
 Angemeldete Marken
 Teil 3
-
+ 
 Verfahren in Markenangelegenheiten
-
-
+ 
+ 
 Abschnitt 1
-
-
-
+ 
+ 
+ 
 Eintragungsverfahren
 § 32
 Erfordernisse der Anmeldung
@@ -155,12 +155,12 @@ Widerspruch
 Einrede mangelnder Benutzung; Entscheidung über den Widerspruch
 § 44
 Eintragungsbewilligungsklage
-
-
+ 
+ 
 Abschnitt 2
-
-
-
+ 
+ 
+ 
 Berichtigung; Teilung; Schutzdauer und Verlängerung
 § 45
 Berichtigung des Registers und von Veröffentlichungen
@@ -168,12 +168,12 @@ Berichtigung des Registers und von Veröffentlichungen
 Teilung der Eintragung
 § 47
 Schutzdauer und Verlängerung
-
-
+ 
+ 
 Abschnitt 3
-
-
-
+ 
+ 
+ 
 Verzicht; Verfalls- und Nichtigkeitsverfahren
 § 48
 Verzicht
@@ -191,12 +191,12 @@ Verfalls- und Nichtigkeitsverfahren vor dem Deutschen Patent- und Markenamt
 Beitritt zum Verfalls- und Nichtigkeitsverfahren
 § 55
 Verfalls- und Nichtigkeitsverfahren vor den ordentlichen Gerichten
-
-
+ 
+ 
 Abschnitt 4
-
-
-
+ 
+ 
+ 
 Allgemeine Vorschriften für das Verfahren vor dem Deutschen Patent- und Markenamt
 § 56
 Zuständigkeiten im Deutschen Patent- und Markenamt
@@ -224,12 +224,12 @@ Kostenregelungen im Verfahren vor dem Deutschen Patent- und Markenamt
 Rechtsverordnungsermächtigung
 § 65a
 Verwaltungszusammenarbeit
-
-
+ 
+ 
 Abschnitt 5
-
-
-
+ 
+ 
+ 
 Verfahren vor dem Bundespatentgericht
 § 66
 Beschwerde
@@ -267,12 +267,12 @@ Vertretung; Vollmacht
 Verfahrenskostenhilfe
 § 82
 Anwendung weiterer Vorschriften; Anfechtbarkeit; Akteneinsicht
-
-
+ 
+ 
 Abschnitt 6
-
-
-
+ 
+ 
+ 
 Verfahren vor dem Bundesgerichtshof
 § 83
 Zugelassene und zulassungsfreie Rechtsbeschwerde
@@ -292,12 +292,12 @@ Entscheidung über die Rechtsbeschwerde
 Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
 § 90
 Kostenentscheidung
-
-
+ 
+ 
 Abschnitt 7
-
-
-
+ 
+ 
+ 
 Gemeinsame Vorschriften
 § 91
 Wiedereinsetzung
@@ -320,7 +320,7 @@ Inlandsvertreter
 § 96a
 Rechtsschutz bei überlangen Gerichtsverfahren
 Teil 4
-
+ 
 Kollektivmarken
 § 97
 Kollektivmarken
@@ -343,7 +343,7 @@ Verfall
 § 106
 Nichtigkeit wegen absoluter Schutzhindernisse
 Teil 5
-
+ 
 Gewährleistungsmarken
 § 106a
 Gewährleistungsmarken
@@ -362,14 +362,14 @@ Verfall
 § 106h
 Nichtigkeit wegen absoluter Schutzhindernisse
 Teil 6
-
+ 
 Schutz von Marken nach dem Madrider Markenabkommen und nach dem Protokoll zum Madrider Markenabkommen; Unionsmarken
-
-
+ 
+ 
 Abschnitt 1
-
-
-
+ 
+ 
+ 
 Schutz von Marken nach dem Madrider Markenabkommen
 § 107
 Entsprechende Anwendung der Vorschriften dieses Gesetzes; Sprache
@@ -395,12 +395,12 @@ Widerspruch aufgrund einer international registrierten Marke und Antrag auf Erkl
 Ausschluß von Ansprüchen wegen mangelnder Benutzung
 § 118
 Zustimmung bei Übertragungen international registrierter Marken
-
-
+ 
+ 
 Abschnitt 2
-
-
-
+ 
+ 
+ 
 Schutz von Marken nach dem Protokoll zum Madrider Markenabkommen
 § 119
 Anwendung der Vorschriften dieses Gesetzes; Sprachen
@@ -416,12 +416,12 @@ Nachträgliche Schutzerstreckung
 Entsprechende Anwendung der Vorschriften über die Wirkung der nach dem Madrider Markenabkommen international registrierten Marken
 § 125
 Umwandlung einer internationalen Registrierung
-
-
+ 
+ 
 Abschnitt 3
-
-
-
+ 
+ 
+ 
 Unionsmarken
 § 125a
 (weggefallen)
@@ -442,14 +442,14 @@ Insolvenzverfahren
 § 125i
 Erteilung der Vollstreckungsklausel
 Teil 7
-
+ 
 Geographische Herkunftsangaben
-
-
+ 
+ 
 Abschnitt 1
-
-
-
+ 
+ 
+ 
 Schutz geographischer Herkunftsangaben
 § 126
 Als geographische Herkunftsangaben geschützte Namen, Angaben oder Zeichen
@@ -459,12 +459,12 @@ Schutzinhalt
 Ansprüche wegen Verletzung
 § 129
 Verjährung
-
-
+ 
+ 
 Abschnitt 2
-
-
-
+ 
+ 
+ 
 Schutz von geographischen Angaben und Ursprungsbezeichnungen gemäß der Verordnung (EU) Nr. 1151/2012
 § 130
 Verfahren vor dem Deutschen Patent- und Markenamt; nationales Einspruchsverfahren
@@ -480,12 +480,12 @@ Rechtsmittel
 Ansprüche wegen Verletzung
 § 136
 Verjährung
-
-
+ 
+ 
 Abschnitt 3
-
-
-
+ 
+ 
+ 
 Ermächtigungen zum Erlaß von Rechtsverordnungen
 § 137
 Nähere Bestimmungen zum Schutz einzelner geographischer Herkunftsangaben
@@ -494,7 +494,7 @@ Sonstige Vorschriften für das Verfahren bei Anträgen und Einsprüchen nach der
 § 139
 Durchführungsbestimmungen zur Verordnung (EU) Nr. 1151/2012; Verordnungsermächtigung
 Teil 8
-
+ 
 Verfahren in Kennzeichenstreitsachen
 § 140
 Kennzeichenstreitsachen
@@ -503,14 +503,14 @@ Gerichtsstand bei Ansprüchen nach diesem Gesetz und dem Gesetz gegen den unlaut
 § 142
 Streitwertbegünstigung
 Teil 9
-
+ 
 Straf- und Bußgeldvorschriften; Beschlagnahme bei der Einfuhr und Ausfuhr
-
-
+ 
+ 
 Abschnitt 1
-
-
-
+ 
+ 
+ 
 Straf- und Bußgeldvorschriften
 § 143
 Strafbare Kennzeichenverletzung
@@ -520,12 +520,12 @@ Strafbare Verletzung der Unionsmarke
 Strafbare Benutzung geographischer Herkunftsangaben
 § 145
 Bußgeldvorschriften
-
-
+ 
+ 
 Abschnitt 2
-
-
-
+ 
+ 
+ 
 Beschlagnahme von Waren bei der Einfuhr und Ausfuhr
 § 146
 Beschlagnahme bei der Verletzung von Kennzeichenrechten
@@ -540,7 +540,7 @@ Verfahren nach der Verordnung (EU) Nr. 608/2013
 § 151
 Verfahren nach deutschem Recht bei geographischen Herkunftsangaben
 Teil 10
-
+ 
 Übergangsvorschriften
 § 152
 Anwendung dieses Gesetzes

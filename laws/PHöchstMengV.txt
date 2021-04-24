@@ -28,7 +28,7 @@ Wasch- und Reinigungsmitteln für alle Waschtemperaturen
 Wasch- und Reinigungsmitteln für Waschtemperaturen bis 60 Grad C
 Spezial-/Feinwaschmitteln
 Vorwaschmitteln
-
+ 
 im gesamten Waschvorgang:
 in der Vorwäsche:
 1
@@ -58,7 +58,7 @@ Wasch- und Reinigungsmitteln für alle Waschtemperaturen
 Wasch- und Reinigungsmitteln für Waschtemperaturen bis 60 Grad C
 Spezial-/Feinwaschmitteln
 Vorwaschmitteln
-
+ 
 im gesamten Waschvorgang:
 in der Vorwäsche:
 1
@@ -90,7 +90,7 @@ Wasserhärtebereich
 Vollwaschmitteln, Alleinwaschmitteln
 Spezialwaschmitteln, Bunt- und Feinwaschmitteln
 Vorwaschmitteln
-
+ 
 im gesamten Waschvorgang:
 in der Vorwäsche:
 1

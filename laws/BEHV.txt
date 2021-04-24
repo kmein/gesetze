@@ -10,43 +10,43 @@ Auf Grund des § 10 Absatz 3 des Brennstoffemissionshandelsgesetzes vom 12. Deze
 
 Inhaltsübersicht
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 § 1 - Anwendungsbereich und Zweck
 
@@ -153,10 +153,10 @@ Käufer im Sinne von Satz 1 ist sowohl derjenige, der für sich selbst Emissions
 
 § 11 - Kontostatus
 
-(1) Die zuständige Behörde kann Konten in den Status offen“, gesperrt“, ausschliegeschlossen“ setzen.
-(2) Von Konten im Status offen“ dürfen sämtliche für die jeweilige Kontoart nach der Anlage 1 zu dieser Verordnung vorgesehenen Vorgänge und Transaktionen veranlasst werden.
-(3) Von Konten im Status gesperrt“ und Konten im Status ausschließlich Abgabe“ können nur die Vorgänge und Transaktionen nach den §§ 13, 24, 26 und 27 veranlasst werden.
-(4) Von Konten im Status geschlossen“ können keine Vorgänge und Transaktionen veranlasst werden. Ein Konto im Status geschlossen“ kann nicht wiedereröffnet werden, keine Emissionszertifikate halten und keine Emissionszertifikate empfangen.
+(1) Die zuständige Behörde kann Konten in den Status „offen“, „gesperrt“, „ausschließlich Abgabe“ oder „geschlossen“ setzen.
+(2) Von Konten im Status „offen“ dürfen sämtliche für die jeweilige Kontoart nach der Anlage 1 zu dieser Verordnung vorgesehenen Vorgänge und Transaktionen veranlasst werden.
+(3) Von Konten im Status „gesperrt“ und Konten im Status „ausschließlich Abgabe“ können nur die Vorgänge und Transaktionen nach den §§ 13, 24, 26 und 27 veranlasst werden.
+(4) Von Konten im Status „geschlossen“ können keine Vorgänge und Transaktionen veranlasst werden. Ein Konto im Status „geschlossen“ kann nicht wiedereröffnet werden, keine Emissionszertifikate halten und keine Emissionszertifikate empfangen.
 
 § 12 - Eröffnung von Konten
 
@@ -174,9 +174,9 @@ Enthält ein Antrag auf Kontoeröffnung nicht die vollständigen Angaben, ist de
 - 3. :: die zuständige Behörde berechtigten Grund zu der Annahme hat, dass ein Konto für eine der in Nummer 2 genannten Straftaten verwendet werden soll, oder
 - 4. :: an der Zuverlässigkeit des Antragstellers, der nicht Verantwortlicher ist, Zweifel bestehen.
 
-(3) Soweit die von einem Verantwortlichen nach § 7 Absatz 1 des Brennstoffemissionshandelsgesetzes zu berichtenden Brennstoffemissionen 50 000 Tonnen Kohlendioxidäquivalent voraussichtlich nicht überschreiten, kann der Verantwortliche einen Antrag auf erleichterte Kontoeröffnung für ein Compliance-Konto stellen. In diesem Fall müssen von dem Verantwortlichen nur die Angaben nach Anlage 2 Nummer 1 bis 8 übermittelt und mindestens eine kontobevollmächtigte Person gemäausschließlich Abgabe“ gesetzt.
-(4) Der Inhaber eines Compliance-Kontos im Status ausschlieoffen“ gesetzt wird. Der Kontoinhaber übermittelt dafür die vollständigen Angaben gemäß Absatz 1 Satz 2 Nummer 1 und gemäß § 16 Absatz 2.
-(5) Wenn die nach § 7 Absatz 1 des Brennstoffemissionshandelsgesetzes berichteten Brennstoffemissionen eines Verantwortlichen mit einem Compliance-Konto im Status ausschlieoffen“ gesetzt wird. Absatz 4 Satz 2 gilt entsprechend.
+(3) Soweit die von einem Verantwortlichen nach § 7 Absatz 1 des Brennstoffemissionshandelsgesetzes zu berichtenden Brennstoffemissionen 50 000 Tonnen Kohlendioxidäquivalent voraussichtlich nicht überschreiten, kann der Verantwortliche einen Antrag auf erleichterte Kontoeröffnung für ein Compliance-Konto stellen. In diesem Fall müssen von dem Verantwortlichen nur die Angaben nach Anlage 2 Nummer 1 bis 8 übermittelt und mindestens eine kontobevollmächtigte Person gemäß § 16 bestimmt werden. Compliance-Konten von Verantwortlichen, die einen Antrag auf erleichterte Kontoeröffnung gestellt haben, werden nach der Eröffnung auf den Kontostatus „ausschließlich Abgabe“ gesetzt.
+(4) Der Inhaber eines Compliance-Kontos im Status „ausschließlich Abgabe“ kann bei der zuständigen Behörde beantragen, dass das Compliance-Konto in den Status „offen“ gesetzt wird. Der Kontoinhaber übermittelt dafür die vollständigen Angaben gemäß Absatz 1 Satz 2 Nummer 1 und gemäß § 16 Absatz 2.
+(5) Wenn die nach § 7 Absatz 1 des Brennstoffemissionshandelsgesetzes berichteten Brennstoffemissionen eines Verantwortlichen mit einem Compliance-Konto im Status „ausschließlich Abgabe“ den Wert von 50 000 Tonnen Kohlendioxidäquivalent überschreiten, ist der Kontoinhaber verpflichtet, bei der zuständigen Behörde zu beantragen, dass das Compliance-Konto in den Status „offen“ gesetzt wird. Absatz 4 Satz 2 gilt entsprechend.
 
 § 13 - Aktualisierung von Kontoangaben
 
@@ -187,7 +187,7 @@ Enthält ein Antrag auf Kontoeröffnung nicht die vollständigen Angaben, ist de
 
 § 14 - Sperrung von Konten
 
-(1) Die zuständige Behörde setzt ein Konto in den Kontostatus gesperrt“, wenn
+(1) Die zuständige Behörde setzt ein Konto in den Kontostatus „gesperrt“, wenn
 
 - 1. :: der Kontoinhaber verstorben ist oder keine Rechtspersönlichkeit mehr hat,
 - 2. :: der Kontoinhaber oder eine kontobevollmächtigte Person gegen die Nutzungsbedingungen gemäß § 9 Absatz 3 schwerwiegend oder wiederholt verstoßen hat,
@@ -200,15 +200,15 @@ Enthält ein Antrag auf Kontoeröffnung nicht die vollständigen Angaben, ist de
 - 9. :: der Verantwortliche bis zum 31. Juli eines Jahres seiner Pflicht gemäß § 26 Absatz 2 Satz 1 nicht nachgekommen ist oder
 - 10. :: der zuständigen Behörde eine Verfügungsbeschränkung gemäß § 25 Absatz 3 vorliegt.
 
-(2) Die zuständige Behörde setzt die Konten wieder in den Status offen“, sobald die Gründe, die zur Setzung in den Status gesperrt“ geführt haben, nicht mehr vorliegen.
+(2) Die zuständige Behörde setzt die Konten wieder in den Status „offen“, sobald die Gründe, die zur Setzung in den Status „gesperrt“ geführt haben, nicht mehr vorliegen.
 
 § 15 - Schließung von Konten
 
-(1) Auf Antrag des Kontoinhabers schliegeschlossen“.
-(2) Die zuständige Behörde schliegeschlossen“, wenn
+(1) Auf Antrag des Kontoinhabers schließt die zuständige Behörde ein Konto und setzt das Konto in den Status „geschlossen“.
+(2) Die zuständige Behörde schließt ein Konto und setzt das Konto in den Status „geschlossen“, wenn
 
 - 1. :: die Voraussetzungen für die Eröffnung des Kontos bei Eröffnung nicht erfüllt waren oder nachträglich weggefallen sind oder
-- 2. :: die Gründe, die zur Setzung des Kontos in den Status gesperrt“ gemäß § 14 geführt haben, trotz Setzung einer angemessenen Frist zur Behebung weiterhin vorliegen.
+- 2. :: die Gründe, die zur Setzung des Kontos in den Status „gesperrt“ gemäß § 14 geführt haben, trotz Setzung einer angemessenen Frist zur Behebung weiterhin vorliegen.
 
 (3) Die zuständige Behörde kann ein Compliance-Konto erst schließen, wenn
 
@@ -322,7 +322,7 @@ Die Informationen nach Satz 1 sind für den Kontoinhaber und die kontobevollmäc
 
 (1) Die zuständige Behörde weist bestehende gerichtliche oder gesetzliche Verfügungsbeschränkungen im Konto aus.
 (2) Von der Verfügungsbeschränkung erfasste Emissionszertifikate können nicht auf ein anderes Konto transferiert werden.
-(3) Betrifft die Verfügungsbeschränkung den Zugang des Kontoinhabers zu seinem gesamten Vermögen, ist das Konto des Kontoinhabers gemägesperrt“ zu setzen.
+(3) Betrifft die Verfügungsbeschränkung den Zugang des Kontoinhabers zu seinem gesamten Vermögen, ist das Konto des Kontoinhabers gemäß § 14 Absatz 1 Nummer 10 in den Status „gesperrt“ zu setzen.
 (4) Nach Beendigung der gerichtlichen oder gesetzlichen Verfügungsbeschränkung hebt die zuständige Behörde die Ausweisung nach Absatz 1 im Konto auf.
 
 § 26 - Eintragung der Brennstoffemissionen
@@ -406,12 +406,12 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Anlage 1 - (zu § 10 Absatz 2)Kontoarten
 
 (Fundstelle: BGBl. I 2020, 3037)
-
+ 
 
 Anlage 2 - (zu § 12 Absatz 1)Mit dem Antrag auf Kontoeröffnung zu übermittelnde Angaben
 
 (Fundstelle: BGBl. I 2020, 3038)
-
+ 
 - 1. :: Name, bei natürlichen Personen zudem Vorname, Adressdaten und weitere Kontaktinformationen wie Telefonnummer und E-Mail-Adresse des Antragstellers,
 - 2. :: Registrierungsnummer des Kontoinhabers, soweit der Antragsteller im Handels-, Genossenschafts-, Partnerschafts- oder Vereinsregister oder in einem ähnlichen Register eingetragen ist,
 - 3. :: Geburtsdatum, Geburtsort und Geburtsland des Antragstellers bei natürlichen Personen,
@@ -426,7 +426,7 @@ Anlage 2 - (zu § 12 Absatz 1)Mit dem Antrag auf Kontoeröffnung zu übermitteln
 Anlage 3 - (zu § 12 Absatz 1)Für die Eröffnung eines Veräußerungs- oder Handelskontos zu übermittelnde Angaben
 
 (Fundstelle: BGBl. I 2020, 3039)
-
+ 
 Zusätzlich zu den Angaben gemäß Anlage 2 sind folgende weitere Angaben und Dokumente erforderlich:
 
 - 1. :: Wenn die Kontoeröffnung von einer juristischen Person oder Personengesellschaft beantragt wird:
@@ -449,7 +449,7 @@ Zusätzlich zu den Angaben gemäß Anlage 2 sind folgende weitere Angaben und Do
 Anlage 4 - (zu § 12 Absatz 1)Für die Eröffnung eines Compliance-Kontos zu übermittelnde Angaben
 
 (Fundstelle: BGBl. I 2020, 3040)
-
+ 
 Zusätzlich zu den Angaben gemäß Anlage 2 sind folgende weitere Angaben und Dokumente erforderlich:
 
 - 1. :: Wenn die Kontoeröffnung von einer juristischen Person oder Personengesellschaft beantragt wird:
@@ -466,7 +466,7 @@ Zusätzlich zu den Angaben gemäß Anlage 2 sind folgende weitere Angaben und Do
 Anlage 5 - (zu § 16 Absatz 2)Von dem Kontoinhaber zu übermittelnde Angaben zu kontobevollmächtigten Personen
 
 (Fundstelle: BGBl. I 2020, 3041)
-
+ 
 - 1. :: Name, Vorname, Adressdaten und weitere Kontaktinformationen wie Telefonnummer und E-Mail-Adresse der kontobevollmächtigten Person,
 - 2. :: Geburtsdatum, Geburtsort und Geburtsland der kontobevollmächtigten Person,
 - 3. :: Art, Gültigkeit sowie Nummer des Ausweisdokuments der kontobevollmächtigten Person,

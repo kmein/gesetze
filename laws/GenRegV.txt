@@ -30,8 +30,8 @@ Form der einzureichenden Abschrift einer Urkunde
 (weggefallen)
 § 11
 (weggefallen)
-
-
+ 
+ 
 Abschnitt 2
 Eintragungen in das Genossenschaftsregister
 § 12
@@ -70,8 +70,8 @@ Gestaltung des Genossenschaftsregisters
 Inhalt der Eintragungen
 § 27
 (weggefallen)
-
-
+ 
+ 
 Anlage 1 Inhalt des Genossenschaftsregisters in spaltenweiser Wiedergabe
 Anlage 2 Inhalt des Genossenschaftsregisters als fortlaufender Text
 
@@ -266,15 +266,15 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 \\
 
-
+ 
 
 Genossenschaftsregister des Amtsgerichts
 
 Nummer der Firma: GnR
 
+ 
 
-
-
+ 
 
 Nummer der Eintragung
 
@@ -309,119 +309,119 @@ Prokura
 
 7
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
 
 -----
 
@@ -475,7 +475,7 @@ Prokura:
 
 Tag der letzten Eintragung:
 
-
+ 
 
 Anmerkung:
 

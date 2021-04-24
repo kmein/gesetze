@@ -68,9 +68,9 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur kann in besonderen
 (2) Voraussetzungen für die Zulassung zur Prüfung sind:
 
 - 1. :: die Vorlage eines lückenlos geführten Ausbildungsbuches,
-- 2. :: eine mindestens mit ausreichend“ benotete Gesamtbewertung nach Anlage 2.
+- 2. :: eine mindestens mit „ausreichend“ benotete Gesamtbewertung nach Anlage 2.
 
-(3) Bei einer mit mangelhaft“ benoteten Gesamtbewertung kann die Lotsenbrüderschaft mit Zustimmung der Aufsichtsbehörde die Ausbildungszeit einmalig um zwei Monate verlängern, um die Zulassung zur Prüfung nach Absatz 2 zu ermöglichen.
+(3) Bei einer mit „mangelhaft“ benoteten Gesamtbewertung kann die Lotsenbrüderschaft mit Zustimmung der Aufsichtsbehörde die Ausbildungszeit einmalig um zwei Monate verlängern, um die Zulassung zur Prüfung nach Absatz 2 zu ermöglichen.
 (4) Erfüllt der Seelotsenanwärter, auch unter Berücksichtigung einer Verlängerung der Ausbildungszeit nach Absatz 3, die Voraussetzungen für die Zulassung zur Prüfung nicht, ist das Ausbildungsverhältnis beendet.
 (5) Die Aufsichtsbehörde setzt den Prüfungstermin fest, unterrichtet die Seelotsenanwärter darüber unter Hinweis auf ihre Rechte und Pflichten im Rahmen der Prüfung und beruft den Prüfungsausschuss ein. Der Prüfungsausschuss wird von einem Vertreter der Aufsichtsbehörde, der mindestens dem gehobenen nicht-technischen Verwaltungsdienst angehören und Erfahrungen im Fachgebiet Lotswesen aufweisen muss, geleitet. Dieser benennt als weitere Mitglieder des Prüfungsausschusses den Ältermann der jeweiligen Brüderschaft, einen Ausbilder des Lotsreviers -- bei der Lotsenbrüderschaft Elbe zwei Ausbilder -- sowie zwei revier- und sachkundige Vertreter der zuständigen Schifffahrtspolizeibehörde.
 (6) Erscheint der Seelotsenanwärter nicht zum Prüfungstermin, setzt ihm der Prüfungsausschuss eine angemessene Frist für den Nachweis, dass er an der Teilnahme durch Krankheit oder einen anderen, von ihm nicht zu vertretenden, wichtigen Grund gehindert war. Der Nachweis ist gegenüber der Aufsichtsbehörde zu erbringen. Wird der verlangte Nachweis erbracht, ist ein erneuter Prüfungstermin festzusetzen. Anderenfalls stellt die Aufsichtsbehörde nach Ablauf der Frist das Nichtbestehen der Prüfung fest.
@@ -97,7 +97,7 @@ Die Prüfung erfolgt entweder einzeln oder bei mehreren Prüflingen als Gruppenp
 
 (1) Die Prüfung ist bestanden, wenn der Prüfungsausschuss feststellt, dass der Seelotsenanwärter nach dem Gesamteindruck der Prüfung die Gewähr dafür bietet, die einem Lotsen übertragenen Aufgaben sicher wahrzunehmen. Die Entscheidung des Prüfungsausschusses erfolgt in nicht öffentlicher Beratung mit Stimmenmehrheit. Bei Stimmengleichheit entscheidet die Stimme des Leiters des Prüfungsausschusses. Die Bekanntgabe der Prüfungsentscheidung erfolgt für jeden Prüfling einzeln und ist auf Verlangen zu begründen. Im Falle des Nichtbestehens sind dem Prüfling die Gründe der Prüfungsentscheidung mitzuteilen und die Rechtsbehelfsbelehrung zu eröffnen.
 (2) Über jede Prüfung ist eine Niederschrift zu erstellen, die von allen Prüfern auf Richtigkeit zu überprüfen und zu unterzeichnen ist. Die Niederschrift muss den wesentlichen Prüfungsablauf, die Prüfungsthemen und eine Feststellung, ob eine Begründung der Prüfungsentscheidung erfolgt ist, erkennen lassen.
-(3) Das Gesamtergebnis der Prüfung ist nur mit Bestanden“ oder Nicht bestanden“ zu bewerten.
+(3) Das Gesamtergebnis der Prüfung ist nur mit „Bestanden“ oder „Nicht bestanden“ zu bewerten.
 
 § 10 - Wiederholung der Prüfung
 
@@ -123,14 +123,14 @@ Jeder Seelotse hat seine Teilnahme an den in den jeweiligen Fortbildungsplänen 
 
 § 15 - Seelotsenanwärterausweis und Seelotsenausweis
 
-(1) Die zuständige Aufsichtsbehörde stellt für die Seelotsenanwärter des Reviers einen Seelotsenanwärterausweis und für die Seelotsen einen Seelotsenausweis nach den Mustern der Anlage 5 aus. Die Seelotsenanwärterausweise sind bei der Bestallung in Seelotsenausweise umzutauschen. Die Teilnehmer einer lotsenspezifischen Grundausbildung erhalten einen Ausweis nach dem Muster der Anlage 5 mit dem Zusatz Grundausbildung“.
+(1) Die zuständige Aufsichtsbehörde stellt für die Seelotsenanwärter des Reviers einen Seelotsenanwärterausweis und für die Seelotsen einen Seelotsenausweis nach den Mustern der Anlage 5 aus. Die Seelotsenanwärterausweise sind bei der Bestallung in Seelotsenausweise umzutauschen. Die Teilnehmer einer lotsenspezifischen Grundausbildung erhalten einen Ausweis nach dem Muster der Anlage 5 mit dem Zusatz „Grundausbildung“.
 (2) Die Seelotsenanwärter und die Seelotsen haben den Ausweis während der Bordlotsung mitzuführen und auf Verlangen der Schiffsführung jederzeit vorzulegen.
 
 Anlage 1 - (zu § 5 Absatz 2)
 
 (Fundstelle: BGBl. I 2014, 237)
-
-
+ 
+ 
 | Schiffsname:       | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | Datum: . . . . . . . . . . . . . . . . . . . . . . |
 | Anleitender Lotse: | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |                                                    |
 | Seelotsenanwärter: | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |                                                    |
@@ -138,125 +138,125 @@ Anlage 1 - (zu § 5 Absatz 2)
 Bitte folgende Beurteilungsskala verwenden:\\
 \\
 1 (sehr gut)
-
+ 
 2 (gut)
-
+ 
 3 (befriedigend)
-
+ 
 4 (ausreichend)
-
+ 
 5 (mangelhaft)
-Bei einem mit 5“ beurteilten Punkt ist der gesamte Einzelbewertungsnachweis mangelhaft.
-
-
-
-
+Bei einem mit „5“ beurteilten Punkt ist der gesamte Einzelbewertungsnachweis mangelhaft.
+ 
+ 
+ 
+ 
 1.
 Fahrweise
 |   |
 
 Zu beurteilen sind:
-
+ 
 --
 Revierkenntnisse
-
+ 
 --
 Einhaltung der für das jeweilige Fahrzeug relevanten Bezugslinie (Radarlinie, Tonnenstrich)
-
+ 
 --
 Rechtzeitige und korrekte Anpassung der Geschwindigkeit
-
+ 
 --
 Rechtzeitige und korrekte Durchführung der Kursänderungen
-
+ 
 --
 Durchführung von Anker- und Anlegemanövern
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 2.
 Verkehrsverhalten
 |   |
 
 Zu beurteilen sind:
-
+ 
 --
 Rücksichtnahme auf andere Verkehrsteilnehmer
-
+ 
 --
 Rücksichtnahme beim Passieren
-
+ 
 --
 Korrekte Durchführung von Überholmanövern
-
+ 
 --
 Erkennen und Reagieren auf sich anbahnende Verkehrssituationen
-
+ 
 --
 Einhaltung der empfohlenen Geschwindigkeiten
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 3.
 Reiseplanung
 |   |
 
 Zu beurteilen sind:
-
+ 
 --
 Reiseplanung von Orderschiffen
-
+ 
 --
 Kenntnisse über den Tidefahrplan (sofern erforderlich)
-
+ 
 --
 Kenntnisse der aktuellen Tidesituation zu jedem Zeitpunkt der Reise
-
+ 
 --
 Vorbereitung des Lotsentransfers
-
+ 
 --
 Vorbereiten eventueller Anker- und Anlegemanöver
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 4.
 Kommunikation
 |   |
 
 Zu beurteilen sind:
-
+ 
 --
 Einhaltung der Meldepunkte
-
+ 
 --
 Kenntnisse und Einhaltung der jeweiligen Hörbereitschaft auf UKW-Kanälen
-
+ 
 --
 Klarheit der Absprachen
-
+ 
 --
 Beherrschung der Reviersprache
-
+ 
 --
 Klarheit der Artikulation
-
+ 
 --
 Erfüllung der Aufgaben innerhalb des Bridgeteams (Informationsaustausch)
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 5.
 Bemerkungen: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
+ 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 \\
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\\
@@ -265,10 +265,10 @@ Unterschrift des anleitenden Lotsen
 Anlage 2 - (zu § 5 Absatz 2)
 
 (Fundstelle: BGBl. I 2014, 238)
-
-
+ 
+ 
 Für den Seelotsenanwärter wird durch die ausbildende Lotsenbrüderschaft eine Gesamtbewertung erstellt, deren Grundlage die Einzelbewertungsnachweise nach Anlage 1 und das Ausbildungsbuch sind.
-Für die Zulassung zur Prüfung gemäausreichend“ vorzulegen, ansonsten ist die Gesamtbewertung mangelhaft“.\\
+Für die Zulassung zur Prüfung gemäß § 7 Absatz 2 dieser Verordnung sind zwölf Einzelbewertungsnachweise nach Anlage 1 mit mindestens der Note „ausreichend“ vorzulegen, ansonsten ist die Gesamtbewertung „mangelhaft“.\\
 \\
 
 - 1. :: Personalien\\
@@ -278,14 +278,14 @@ Für die Zulassung zur Prüfung gemäausreichend“ vorzulegen, ansonsten ist di
   | Name, Vorname des Ausbilders der Lotsenbrüderschaft         | Name, Vorname des Ältermannes der Lotsenbrüderschaft                 |
   | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          |
 
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 2. Ausbildungsbuch, lückenlos geführt:
 ja
 |   |
@@ -293,17 +293,17 @@ ja
 nein
 |   |
 
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 3. Anzahl Einzelbewertungsnachweise:
 mindestens ausreichend
 |   |
@@ -311,15 +311,15 @@ mindestens ausreichend
 mangelhaft
 |   |
 
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 4. Gesamtbewertung:
 mindestens ausreichend
 |   |
@@ -327,83 +327,83 @@ mindestens ausreichend
 mangelhaft
 |   |
 
-
+ 
 \\
 \\
 \\
 \\
 . . . . . . . . . . . . . . . . . . . . . . . . . .
-
+ 
 . . . . . . . . . . . . . . . . . . . . . . . . . .
-
+ 
 . . . . . . . . . . . . . . . . . . . . . . . . . .
 Ort, Datum
-
+ 
 Ausbilder
-
+ 
 Ältermann
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Zur Kenntnis genommen:
-
+ 
 . . . . . . . . . . . . . . . . . . . . . . . . . . .\\
 Seelotsenanwärter
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [[../normengrafiken/bgbl1_2014/j0234-1_0010.jpg]]
 
 Anlage 3 - (zu § 11)
 
 (Fundstelle: BGBl. I 2014, 239)
-
+ 
 Generaldirektion Wasserstraßen und Schifffahrt\\
 Außenstelle Nord
 Generaldirektion Wasserstraßen und Schifffahrt\\
 Außenstelle Nordwest
-
+ 
 Prüfungszeugnis
 über die Befähigung zum Seelotsen
-
+ 
 Der Lotsenanwärter
-
+ 
 Name . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 geboren am . . . . . . . . . . . . . . . . . . . . . in . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 hat die Prüfung zum Seelotsen für das Seelotsrevier
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 bestanden.
-
+ 
 Ort, Datum . . . . . . . . . . . . . . . . . . .
-
+ 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Der Leiter des Prüfungsausschusses
-
-
-
+ 
+ 
+ 
 
 Anlage 4 - (zu § 12 Absatz 2)Fortbildungsrahmenplan
 
 (Fundstelle: BGBl. I 2014, 240 -- 244)
-
+ 
 Kurs/Modul
 Lernziele
 Beschreibung/Inhalte
@@ -413,10 +413,10 @@ Bemerkungen
 Kommunikation und Zusammenwirken mit den\\
 örtlichen Behörden
 Mit diesen Veranstaltungen sollen die Grundsätze der Arbeit von Verkehrszentralen dargelegt, die Kommunikation und die Grundlagen für das Zusammenwirken der beteiligten Parteien an Land und an Bord in einem Revier in verschiedenen Situationen behandelt und trainiert werden, mit dem Ziel einer Weiterentwicklung und Optimierung und als Reaktion auf im Revier beobachtete Fehlentwicklungen und durch die BSU festgestellte Handlungserfordernisse.
-
-
-
-
+ 
+ 
+ 
+ 
 Bezug:\\
 5.5.2, 5.5.3 und 5.5.8 IMO-Resolution\\
 A.960(23)\\
@@ -459,7 +459,7 @@ Aufgabenteilung,
 --
 Kommunikationswege und Durchführung der Kommunikation,
 --
-Zuweisung der Führung einer Gefahrenlageon-scene-commander“,
+Zuweisung der Führung einer Gefahrenlage„on-scene-commander“,
 --
 Fallstudien;
 c)
@@ -472,7 +472,7 @@ Vermittlung einschlägiger Gesetze und Rechtsvorschriften und weiterer Themen au
 c)
 1 Tag/\\
 5 Jahre
-
+ 
 Bridge Resource Management (BRM)
 Diese Veranstaltung soll der effektiven Vorbereitung und Nutzung des Brückenwachdienstes unter Berücksichtigung der Brückenbesetzung und Brückenausstattung dienen.\\
 Im Mittelpunkt stehen die Rolle des Lotsen innerhalb des Brückenteams und das Verhältnis Kapitän/Lotse.
@@ -528,7 +528,7 @@ Training des Manövrierens ausgewählter Fahrzeuge in ausgewählten Revierabschn
 Bezug:\\
 5.5.5 und 5.5.6 unter Berücksichtigung von 5.5.7 IMO-Resolution\\
 A.960(23)\\
-Umsetzung mit Unterstützung von Simulation (möglich in digitalen Full mission Simulatoren“ und/oder in bemannten Schiffsmodellen je nach den revierbezogenen zu trainierenden Inhalten)
+Umsetzung mit Unterstützung von Simulation (möglich in digitalen „Full mission Simulatoren“ und/oder in bemannten Schiffsmodellen je nach den revierbezogenen zu trainierenden Inhalten)
 --
 Training von zu erwartenden hydrodynamischen Effekten in bestimmten Revierabschnitten und in bestimmten Situationen (z. B. Banking, ship to ship interaction usw.),
 --
@@ -569,10 +569,10 @@ Handhabung von Arbeitswesten,
 Bergung von Personen aus dem Wasser,
 --
 Erste Hilfe/Wiederbelebung bis zum Eintreffen des Notarztes.
-
-
-
-
+ 
+ 
+ 
+ 
 
 Anlage 5 - (zu § 15 Absatz 1)Muster der Seelotsenausweise
 

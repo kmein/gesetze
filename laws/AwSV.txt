@@ -26,22 +26,22 @@ Inhaltsübersicht
 § 2 - Begriffsbestimmungen
 
 (1) Für diese Verordnung gelten die Begriffsbestimmungen der Absätze 2 bis 33.
-(2) Wassergefährdende Stoffe“ sind feste, flüssige und gasförmige Stoffe und Gemische, die geeignet sind, dauernd oder in einem nicht nur unerheblichen Ausmaß nachteilige Veränderungen der Wasserbeschaffenheit herbeizuführen, und die nach Maßgabe von Kapitel 2 als wassergefährdend eingestuft sind oder als wassergefährdend gelten.
-(3) Ein Stoff“ ist ein chemisches Element und seine Verbindungen in natürlicher Form oder gewonnen durch ein Herstellungsverfahren, einschließlich der zur Wahrung seiner Stabilität notwendigen Zusatzstoffe und der durch das angewandte Verfahren bedingten Verunreinigungen, aber mit Ausnahme von Lösungsmitteln, die von dem Stoff ohne Beeinträchtigung seiner Stabilität und ohne Änderung seiner Zusammensetzung abgetrennt werden können.
-(4) Ein Gemisch“ besteht aus zwei oder mehreren Stoffen.
-(5) Gasförmig“ sind Stoffe und Gemische, die
+(2) „Wassergefährdende Stoffe“ sind feste, flüssige und gasförmige Stoffe und Gemische, die geeignet sind, dauernd oder in einem nicht nur unerheblichen Ausmaß nachteilige Veränderungen der Wasserbeschaffenheit herbeizuführen, und die nach Maßgabe von Kapitel 2 als wassergefährdend eingestuft sind oder als wassergefährdend gelten.
+(3) Ein „Stoff“ ist ein chemisches Element und seine Verbindungen in natürlicher Form oder gewonnen durch ein Herstellungsverfahren, einschließlich der zur Wahrung seiner Stabilität notwendigen Zusatzstoffe und der durch das angewandte Verfahren bedingten Verunreinigungen, aber mit Ausnahme von Lösungsmitteln, die von dem Stoff ohne Beeinträchtigung seiner Stabilität und ohne Änderung seiner Zusammensetzung abgetrennt werden können.
+(4) Ein „Gemisch“ besteht aus zwei oder mehreren Stoffen.
+(5) „Gasförmig“ sind Stoffe und Gemische, die
 
 - 1. :: bei einer Temperatur von 50 Grad Celsius einen Dampfdruck von mehr als 300 Kilopascal (3 bar) haben oder
 - 2. :: bei einer Temperatur von 20 Grad Celsius und dem Standarddruck von 101,3 Kilopascal vollständig gasförmig sind.
 
-(6) Flüssig“ sind Stoffe und Gemische, die
+(6) „Flüssig“ sind Stoffe und Gemische, die
 
 - 1. :: bei einer Temperatur von 50 Grad Celsius einen Dampfdruck von weniger als 300 Kilopascal (3 bar) haben,
 - 2. :: bei einer Temperatur von 20 Grad Celsius und einem Standarddruck von 101,3 Kilopascal nicht vollständig gasförmig sind und
 - 3. :: einen Schmelzpunkt oder einen Schmelzbeginn bei einer Temperatur von 20 Grad Celsius oder weniger bei einem Standarddruck von 101,3 Kilopascal haben.
 
-(7) Fest“ sind Stoffe und Gemische, die nicht gasförmig oder flüssig sind.
-(8) Gärsubstrate landwirtschaftlicher Herkunft zur Gewinnung von Biogas“ sind
+(7) „Fest“ sind Stoffe und Gemische, die nicht gasförmig oder flüssig sind.
+(8) „Gärsubstrate landwirtschaftlicher Herkunft zur Gewinnung von Biogas“ sind
 
 - 1. :: pflanzliche Biomassen aus landwirtschaftlicher Grundproduktion,
 - 2. :: Pflanzen oder Pflanzenbestandteile, die in landwirtschaftlichen, forstwirtschaftlichen oder gartenbaulichen Betrieben oder im Rahmen der Landschaftspflege anfallen, sofern sie zwischenzeitlich nicht anders genutzt worden sind,
@@ -49,15 +49,15 @@ Inhaltsübersicht
 - 4. :: Silagesickersaft sowie
 - 5. :: tierische Ausscheidungen wie Jauche, Gülle, Festmist und Geflügelkot.
 
-(9) Anlagen zum Umgang mit wassergefährdenden Stoffen“ (Anlagen) sind
+(9) „Anlagen zum Umgang mit wassergefährdenden Stoffen“ (Anlagen) sind
 
 - 1. :: selbständige und ortsfeste oder ortsfest benutzte Einheiten, in denen wassergefährdende Stoffe gelagert, abgefüllt, umgeschlagen, hergestellt, behandelt oder im Bereich der gewerblichen Wirtschaft oder im Bereich öffentlicher Einrichtungen verwendet werden, sowie
 - 2. :: Rohrleitungsanlagen nach § 62 Absatz 1 Satz 2 des Wasserhaushaltsgesetzes.
 
 Als ortsfest oder ortsfest benutzt gelten Einheiten, wenn sie länger als ein halbes Jahr an einem Ort zu einem bestimmten betrieblichen Zweck betrieben werden; Anlagen können aus mehreren Anlagenteilen bestehen.
 
-(10) Fass- und Gebindelager“ sind Lageranlagen für ortsbewegliche Behälter und Verpackungen, deren Einzelvolumen 1,25 Kubikmeter nicht überschreitet.
-(11) Heizölverbraucheranlagen“ sind Lageranlagen und im Bereich der gewerblichen Wirtschaft und öffentlicher Einrichtungen auch Verwendungsanlagen,
+(10) „Fass- und Gebindelager“ sind Lageranlagen für ortsbewegliche Behälter und Verpackungen, deren Einzelvolumen 1,25 Kubikmeter nicht überschreitet.
+(11) „Heizölverbraucheranlagen“ sind Lageranlagen und im Bereich der gewerblichen Wirtschaft und öffentlicher Einrichtungen auch Verwendungsanlagen,
 
 - 1. :: die dem Beheizen oder Kühlen von Wohnräumen, Geschäfts- und sonstigen Arbeitsräumen oder dem Erwärmen von Wasser dienen,
 - 2. :: deren Jahresverbrauch an Heizöl leicht (Heizöl EL) nach DIN 51603-1, Ausgabe August 2008, die bei der Beuth Verlag GmbH, Berlin, zu beziehen und bei der Deutschen Nationalbibliothek archivmäßig gesichert niedergelegt ist, an anderen leichten Heizölen mit gleichwertiger Qualität, an flüssigen Triglyceriden oder an flüssigen Fettsäuremethylestern 100 Kubikmeter nicht übersteigt und
@@ -65,14 +65,14 @@ Als ortsfest oder ortsfest benutzt gelten Einheiten, wenn sie länger als ein ha
 
 Notstromanlagen stehen Heizölverbraucheranlagen gleich.
 
-(12) Eigenverbrauchstankstellen“ sind Lager- und Abfüllanlagen,
+(12) „Eigenverbrauchstankstellen“ sind Lager- und Abfüllanlagen,
 
 - 1. :: die für die Öffentlichkeit nicht zugänglich sind,
 - 2. :: die dafür bestimmt sind, Fahrzeuge und Geräte, die für den zugehörigen Betrieb genutzt werden, mit Kraftstoffen zu versorgen,
 - 3. :: deren Jahresabgabe 100 Kubikmeter nicht übersteigt und
 - 4. :: die nur vom Betreiber oder den von ihm bestimmten und unterwiesenen Personen bedient werden.
 
-(13) Jauche-, Gülle- und Silagesickersaftanlagen (JGS-Anlagen)“ sind Anlagen zum Lagern oder Abfüllen ausschließlich von
+(13) „Jauche-, Gülle- und Silagesickersaftanlagen (JGS-Anlagen)“ sind Anlagen zum Lagern oder Abfüllen ausschließlich von
 
 - 1. :: Wirtschaftsdünger, insbesondere Gülle oder Festmist, im Sinne des § 2 Satz 1 Nummer 2 bis 4 des Düngegesetzes,
 - 2. :: Jauche im Sinne des § 2 Satz 1 Nummer 5 des Düngegesetzes,
@@ -80,36 +80,36 @@ Notstromanlagen stehen Heizölverbraucheranlagen gleich.
 - 4. :: Flüssigkeiten, die während der Herstellung oder Lagerung von Gärfutter durch Zellaufschluss oder Pressdruck anfallen und die überwiegend aus einem Gemisch aus Wasser, Zellsaft, organischen Säuren und Mikroorganismen sowie etwaigem Niederschlagswasser bestehen (Silagesickersaft), oder
 - 5. :: Silage oder Siliergut, soweit hierbei Silagesickersaft anfallen kann.
 
-(14) Biogasanlagen“ sind
+(14) „Biogasanlagen“ sind
 
 - 1. :: Anlagen zum Herstellen von Biogas, insbesondere Vorlagebehälter, Fermenter, Kondensatbehälter und Nachgärer,
 - 2. :: Anlagen zum Lagern von Gärresten oder Gärsubstraten, wenn sie in einem engen räumlichen und funktionalen Zusammenhang mit Anlagen nach Nummer 1 stehen, und
 - 3. :: zu den Anlagen nach den Nummern 1 und 2 gehörige Abfüllanlagen.
 
-(15) Unterirdische Anlagen“ sind Anlagen, bei denen zumindest ein Anlagenteil unterirdisch ist; unterirdisch sind Anlagenteile,
+(15) „Unterirdische Anlagen“ sind Anlagen, bei denen zumindest ein Anlagenteil unterirdisch ist; unterirdisch sind Anlagenteile,
 
 - 1. :: die vollständig oder teilweise im Erdreich eingebettet sind oder
 - 2. :: die nicht vollständig einsehbar in Bauteilen, die unmittelbar mit dem Erdreich in Berührung stehen, eingebettet sind.
 
 Alle anderen Anlagen sind oberirdisch; oberirdisch sind insbesondere auch Anlagen, deren Rückhalteeinrichtungen teilweise im Erdreich eingebettet sind, sowie Behälter, die mit ihren flachen Böden vollflächig oder mit Stützkonstruktionen auf dem Untergrund aufgestellt sind.
 
-(16) Rückhalteeinrichtungen“ sind Anlagenteile zur Rückhaltung von wassergefährdenden Stoffen, die aus undicht gewordenen Anlagenteilen, die bestimmungsgemäß wassergefährdende Stoffe umschließen, austreten; dazu zählen insbesondere Auffangräume, Auffangwannen, Auffangtassen, Auffangvorrichtungen, Rohrleitungen, Schutzrohre, Behälter oder Flächen, in oder auf denen Stoffe zurückgehalten oder in oder auf denen Stoffe abgeleitet werden.
-(17) Doppelwandige Anlagen“ sind Anlagen, die aus zwei unabhängigen Wänden bestehen, deren Zwischenraum als Überwachungsraum ausgestaltet ist, der mit einem Leckanzeigesystem ausgestattet ist, das ein Undichtwerden der inneren und der äußeren Wand anzeigt.
-(18) Abfüll- oder Umschlagflächen“ sind Anlagenteile, die beim Abfüllen oder Umschlagen im Fall einer Betriebsstörung mit wassergefährdenden Stoffen beaufschlagt werden können, zuzüglich der Ablauf- und Stauflächen sowie der Abtrennung von anderen Flächen.
-(19) Rohrleitungen“ sind feste oder flexible Leitungen zum Befördern wassergefährdender Stoffe, einschließlich ihrer Formstücke, Armaturen, Förderaggregate, Flansche und Dichtmittel.
-(20) Lagern“ ist das Vorhalten von wassergefährdenden Stoffen zur weiteren Nutzung, Abgabe oder Entsorgung.
-(21) Erdbecken“ sind ins Erdreich gebaute oder durch Dämme errichtete Becken zum Lagern von Jauche, Gülle und Silagesickersäften, die im Sohlen- und Böschungsbereich aus Erdreich bestehen und gegenüber dem Boden mit Dichtungsbahnen abgedichtet sind.
-(22) Abfüllen“ ist das Befüllen von Behältern oder Verpackungen mit wassergefährdenden Stoffen.
-(23) Umschlagen“ ist das Laden und Löschen von Schiffen, soweit es unverpackte wassergefährdende Stoffe betrifft, sowie das Umladen von wassergefährdenden Stoffen in Behältern oder Verpackungen von einem Transportmittel auf ein anderes. Zum Umschlagen gehört auch das vorübergehende Abstellen von Behältern oder Verpackungen mit wassergefährdenden Stoffen in einer Umschlaganlage im Zusammenhang mit dem Transport.
-(24) Intermodaler Verkehr“ umfasst den Transport von Gütern in ein und derselben Ladeeinheit oder demselben Straßenfahrzeug mit zwei oder mehr Verkehrsträgern, wobei ein Wechsel der Verkehrsträger, aber kein Umschlag der transportierten Güter selbst erfolgt.
-(25) Herstellen“ ist das Erzeugen und Gewinnen von wassergefährdenden Stoffen.
-(26) Behandeln“ ist das Einwirken auf wassergefährdende Stoffe, um deren Eigenschaften zu verändern.
-(27) Verwenden“ ist das Anwenden, Gebrauchen und Verbrauchen von wassergefährdenden Stoffen unter Ausnutzung ihrer Eigenschaften im Bereich der gewerblichen Wirtschaft und im Bereich öffentlicher Einrichtungen.
-(28) Errichten“ ist das Aufstellen, Einbauen oder Einfügen von Anlagen und Anlagenteilen.
-(29) Instandhalten“ ist das Aufrechterhalten des ordnungsgemäInstandsetzen“ ist das Wiederherstellen dieses Zustands.
-(30) Stilllegen“ ist die dauerhafte Außerbetriebnahme einer Anlage.
-(31) Wesentliche Änderungen“ einer Anlage sind Maßnahmen, die die baulichen oder sicherheitstechnischen Merkmale der Anlage verändern.
-(32) Schutzgebiete“ sind
+(16) „Rückhalteeinrichtungen“ sind Anlagenteile zur Rückhaltung von wassergefährdenden Stoffen, die aus undicht gewordenen Anlagenteilen, die bestimmungsgemäß wassergefährdende Stoffe umschließen, austreten; dazu zählen insbesondere Auffangräume, Auffangwannen, Auffangtassen, Auffangvorrichtungen, Rohrleitungen, Schutzrohre, Behälter oder Flächen, in oder auf denen Stoffe zurückgehalten oder in oder auf denen Stoffe abgeleitet werden.
+(17) „Doppelwandige Anlagen“ sind Anlagen, die aus zwei unabhängigen Wänden bestehen, deren Zwischenraum als Überwachungsraum ausgestaltet ist, der mit einem Leckanzeigesystem ausgestattet ist, das ein Undichtwerden der inneren und der äußeren Wand anzeigt.
+(18) „Abfüll- oder Umschlagflächen“ sind Anlagenteile, die beim Abfüllen oder Umschlagen im Fall einer Betriebsstörung mit wassergefährdenden Stoffen beaufschlagt werden können, zuzüglich der Ablauf- und Stauflächen sowie der Abtrennung von anderen Flächen.
+(19) „Rohrleitungen“ sind feste oder flexible Leitungen zum Befördern wassergefährdender Stoffe, einschließlich ihrer Formstücke, Armaturen, Förderaggregate, Flansche und Dichtmittel.
+(20) „Lagern“ ist das Vorhalten von wassergefährdenden Stoffen zur weiteren Nutzung, Abgabe oder Entsorgung.
+(21) „Erdbecken“ sind ins Erdreich gebaute oder durch Dämme errichtete Becken zum Lagern von Jauche, Gülle und Silagesickersäften, die im Sohlen- und Böschungsbereich aus Erdreich bestehen und gegenüber dem Boden mit Dichtungsbahnen abgedichtet sind.
+(22) „Abfüllen“ ist das Befüllen von Behältern oder Verpackungen mit wassergefährdenden Stoffen.
+(23) „Umschlagen“ ist das Laden und Löschen von Schiffen, soweit es unverpackte wassergefährdende Stoffe betrifft, sowie das Umladen von wassergefährdenden Stoffen in Behältern oder Verpackungen von einem Transportmittel auf ein anderes. Zum Umschlagen gehört auch das vorübergehende Abstellen von Behältern oder Verpackungen mit wassergefährdenden Stoffen in einer Umschlaganlage im Zusammenhang mit dem Transport.
+(24) „Intermodaler Verkehr“ umfasst den Transport von Gütern in ein und derselben Ladeeinheit oder demselben Straßenfahrzeug mit zwei oder mehr Verkehrsträgern, wobei ein Wechsel der Verkehrsträger, aber kein Umschlag der transportierten Güter selbst erfolgt.
+(25) „Herstellen“ ist das Erzeugen und Gewinnen von wassergefährdenden Stoffen.
+(26) „Behandeln“ ist das Einwirken auf wassergefährdende Stoffe, um deren Eigenschaften zu verändern.
+(27) „Verwenden“ ist das Anwenden, Gebrauchen und Verbrauchen von wassergefährdenden Stoffen unter Ausnutzung ihrer Eigenschaften im Bereich der gewerblichen Wirtschaft und im Bereich öffentlicher Einrichtungen.
+(28) „Errichten“ ist das Aufstellen, Einbauen oder Einfügen von Anlagen und Anlagenteilen.
+(29) „Instandhalten“ ist das Aufrechterhalten des ordnungsgemäßen Zustands einer Anlage, „Instandsetzen“ ist das Wiederherstellen dieses Zustands.
+(30) „Stilllegen“ ist die dauerhafte Außerbetriebnahme einer Anlage.
+(31) „Wesentliche Änderungen“ einer Anlage sind Maßnahmen, die die baulichen oder sicherheitstechnischen Merkmale der Anlage verändern.
+(32) „Schutzgebiete“ sind
 
 - 1. :: Wasserschutzgebiete nach § 51 Absatz 1 Satz 1 Nummer 1 und 2 des Wasserhaushaltsgesetzes,
 - 2. :: Gebiete, für die eine vorläufige Anordnung nach § 52 Absatz 2 in Verbindung mit § 51 Absatz 1 Satz 1 Nummer 1 oder Nummer 2 des Wasserhaushaltsgesetzes erlassen worden ist, und
@@ -117,7 +117,7 @@ Alle anderen Anlagen sind oberirdisch; oberirdisch sind insbesondere auch Anlage
 
 Ist die weitere Zone eines Schutzgebietes unterteilt, so gilt als Schutzgebiet nur deren innerer Bereich; sind Zonen zum Schutz gegen qualitative und quantitative Beeinträchtigungen unterschiedlich abgegrenzt, gelten die Abgrenzungen zum Schutz gegen qualitative Beeinträchtigungen.
 
-(33) Sachverständige“ sind von nach § 52 anerkannten Sachverständigenorganisationen bestellte Personen, die berechtigt sind, Anlagen zu prüfen und zu begutachten.
+(33) „Sachverständige“ sind von nach § 52 anerkannten Sachverständigenorganisationen bestellte Personen, die berechtigt sind, Anlagen zu prüfen und zu begutachten.
 
 § 3 - Grundsätze
 
@@ -224,7 +224,7 @@ Abweichend von Satz 1 Nummer 8 ist ein festes Gemisch nicht wassergefährdend, w
 
 - 1. :: das Gemisch nach Anlage 1 Nummer 2.2 als nicht wassergefährdend eingestuft werden kann,
 - 2. :: das Gemisch nach anderen Rechtsvorschriften selbst an hydrogeologisch ungünstigen Standorten und ohne technische Sicherungsmaßnahmen offen eingebaut werden darf oder
-- 3. :: das Gemisch der Einbauklasse Z 0 oder Z 1.1 der Mitteilung 20 der Länderarbeitsgemeinschaft Abfall (LAGA) Anforderungen an die stoffliche Verwertung von mineralischen Reststoffen/Abfällen -- Technische Regeln“, Erich Schmidt-Verlag, Berlin, 2004, die bei der Deutschen Nationalbibliothek archivmäßig gesichert niedergelegt ist und in der Bibliothek des Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit eingesehen werden kann, entspricht.
+- 3. :: das Gemisch der Einbauklasse Z 0 oder Z 1.1 der Mitteilung 20 der Länderarbeitsgemeinschaft Abfall (LAGA) „Anforderungen an die stoffliche Verwertung von mineralischen Reststoffen/Abfällen -- Technische Regeln“, Erich Schmidt-Verlag, Berlin, 2004, die bei der Deutschen Nationalbibliothek archivmäßig gesichert niedergelegt ist und in der Bibliothek des Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit eingesehen werden kann, entspricht.
 
 (2) Der Betreiber kann ein festes Gemisch abweichend von § 3 Absatz 2 Satz 1 Nummer 8 nach Maßgabe von Anlage 1 Nummer 5 in eine Wassergefährdungsklasse einstufen.
 (3) Der Betreiber hat die Selbsteinstufung eines festen Gemisches als nicht wassergefährdend oder in eine Wassergefährdungsklasse nach Maßgabe von Anlage 2 Nummer 2 oder Nummer 3 zu dokumentieren und die Dokumentation der zuständigen Behörde im Rahmen der Zulassung der Anlage sowie auf Verlangen der Behörde im Rahmen der Überwachung der Anlage vorzulegen. Der Betreiber hat die Dokumentation und die Selbsteinstufung des Gemisches auf dem aktuellen Stand zu halten. Die zuständige Behörde kann die Dokumentation überprüfen. Sie kann den Betreiber verpflichten, fehlende oder nicht plausible Angaben zu ergänzen oder zu berichtigen.
@@ -689,7 +689,7 @@ Stattdessen ist bei Anlagen nach Satz 1 Nummer 3 das Merkblatt zu Betriebs- und 
 
 Die Angaben nach Satz 3 Nummer 1, 2, 3, 9, 11 und 13 sind auf der ersten Seite des Prüfberichts in optisch deutlich hervorgehobener Form darzustellen.
 
-(4) Stuft der Sachverständige eine Heizölverbraucheranlage nach Abschluss ihrer Prüfung in die Klasse ohne Mangel“ oder mit geringfügigem Mangel“ nach Absatz 2 ein, hat er auf der Anlage an gut sichtbarer Stelle eine Plakette anzubringen, aus der das Datum der Prüfung und das Datum der nächsten Prüfung ersichtlich sind.
+(4) Stuft der Sachverständige eine Heizölverbraucheranlage nach Abschluss ihrer Prüfung in die Klasse „ohne Mangel“ oder „mit geringfügigem Mangel“ nach Absatz 2 ein, hat er auf der Anlage an gut sichtbarer Stelle eine Plakette anzubringen, aus der das Datum der Prüfung und das Datum der nächsten Prüfung ersichtlich sind.
 (5) Bei der Prüfung einer Heizölverbraucheranlage hat der Sachverständige dem Betreiber das Merkblatt nach Anlage 3 auszuhändigen, sofern an der Anlage ein solches Merkblatt nicht bereits aushängt.
 
 § 48 - Beseitigung von Mängeln
@@ -1129,9 +1129,9 @@ Anlage 1 - (zu § 4 Absatz 1, § 8 Absatz 1 und § 10 Absatz 2)Einstufung von St
 - 1 :: Grundsätze
 - 1.1 :: Die in dieser Anlage verwendeten Fachbegriffe, insbesondere zu toxischen Eigenschaften und zu Auswirkungen von Stoffen und Gemischen auf die Umwelt, werden im Sinne der Verordnung (EG) Nr. 1272/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen, zur Änderung und Aufhebung der Richtlinien 67/548/EWG und 1999/45/EG und zur Änderung der Verordnung (EG) Nr. 1907/2006 (ABl. L 353 vom 31.12.2008, S. 1; L 16 vom 20.1.2011, S. 1), die zuletzt durch die Verordnung (EU) 2015/1221 (ABl. L 197 vom 25.7.2015, S. 10) geändert worden ist, in der jeweils geltenden Fassung und der Richtlinie 67/548/EWG des Rates vom 27. Juni 1967 zur Angleichung der Rechts- und Verwaltungsvorschriften für die Einstufung, Verpackung und Kennzeichnung gefährlicher Stoffe (ABl. L 196 vom 16.8.1967, S. 1), die zuletzt durch die Verordnung (EU) Nr. 944/2013 (ABl. L 261 vom 3.10.2013, S. 5) geändert worden ist, verwendet.
 - 1.2 :: Krebserzeugende Stoffe sind alle Stoffe, die einzustufen sind
-  - a) :: nach Anhang VI Tabelle 3.1 der Verordnung (EG) Nr. 1272/2008 als karzinogene Stoffe der Kategorie 1A oder Kategorie 1B (H350: Kann Krebs verursachen“),
-  - b) :: nach Anhang VI Tabelle 3.2 der Verordnung (EG) Nr. 1272/2008 als karzinogene Stoffe der Kategorie 1 oder Kategorie 2 (R45: Kann Krebs erzeugen“) oder
-  - c) :: nach Anhang I der Verordnung (EG) Nr. 1272/2008 als karzinogene Stoffe der Kategorie 1A oder Kategorie 1B (H350: Kann Krebs verursachen“).
+  - a) :: nach Anhang VI Tabelle 3.1 der Verordnung (EG) Nr. 1272/2008 als karzinogene Stoffe der Kategorie 1A oder Kategorie 1B (H350: „Kann Krebs verursachen“),
+  - b) :: nach Anhang VI Tabelle 3.2 der Verordnung (EG) Nr. 1272/2008 als karzinogene Stoffe der Kategorie 1 oder Kategorie 2 (R45: „Kann Krebs erzeugen“) oder
+  - c) :: nach Anhang I der Verordnung (EG) Nr. 1272/2008 als karzinogene Stoffe der Kategorie 1A oder Kategorie 1B (H350: „Kann Krebs verursachen“).
 
   Krebserzeugend sind auch die Stoffe, die in einer Bekanntmachung des Bundesministeriums für Arbeit und Soziales nach § 20 Absatz 4 der Gefahrstoffverordnung vom 26. November 2010 (BGBl. I S. 1643, 1644), die zuletzt durch Artikel 2 der Verordnung vom 3. Februar 2015 (BGBl. I S. 49) geändert worden ist, als krebserzeugend bezeichnet werden. Stoffe, die nur auf inhalativem Weg krebserzeugend wirken, gelten bei der Bestimmung der Wassergefährdungsklasse nicht als krebserzeugend.
 - 1.3 :: Aufschwimmende flüssige Stoffe sind alle flüssigen Stoffe, die unter Normalbedingungen folgende physikalische Eigenschaften aufweisen:
@@ -1497,20 +1497,20 @@ die Anlage ist fachbetriebspflichtig
 Besteht die Gefahr, dass wassergefährdende Stoffe austreten können, oder ist dieses bereits geschehen, sind unverzüglich Maßnahmen zur Schadenbegrenzung zu ergreifen (§ 24 Absatz 1 AwSV).
 Das Austreten einer nicht nur unerheblichen Menge eines wassergefährdenden Stoffes ist unverzüglich einer der folgenden Behörden zu melden, wenn die Stoffe in den Untergrund, in die Kanalisation oder in ein oberirdisches Gewässer gelangt sind oder gelangen können (§ 24 Absatz 2 AwSV):\\
 Feuerwehr
-
+ 
 Telefon: 112
 Polizeidienststelle
-
+ 
 Telefon: 110
 örtlich zuständige Behörde:
-
+ 
 Telefon: . . . . . . . . . .
-
+ 
 Adresse: . . . . . . . . . .
 Betriebliche/-r Ansprechpartner/-in:
-
+ 
 Telefon: . . . . . . . . . .
-
+ 
 Herr/Frau: . . . . . . . . . .
 
 Anlage 5 - (zu § 46 Absatz 2)Prüfzeitpunkte und -intervalle für Anlagen außerhalb von Schutzgebieten und festgesetzten oder vorläufig gesicherten Überschwemmungsgebieten

@@ -138,7 +138,7 @@ Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durc
 3
 1
 Der Ausbildungsbetrieb (§ 4 Nr. 1)
-
+ 
 1.1
 Stellung, Rechtsform und Struktur (§ 4 Nr. 1.1)
 a)
@@ -186,7 +186,7 @@ d)
 Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 2
 Arbeitsorganisation, Kommunikation und Kooperation (§ 4 Nr. 2)
-
+ 
 2.1
 Arbeitsorganisation und Arbeitsplanung (§ 4 Nr. 2.1)
 a)
@@ -239,7 +239,7 @@ b)
 englischsprachige Informationen nutzen und auswerten
 3
 Grundlagen des visuellen Marketings (§ 4 Nr. 3)
-
+ 
 3.1
 Visuelle Verkaufsförderung als Instrument der Unternehmenspolitik (§ 4 Nr. 3.1)
 a)
@@ -296,7 +296,7 @@ e)
 branchenspezifische Software zur Auftrags- und Rechnungsbearbeitung sowie zur Materialverwaltung nutzen
 6
 Projekte des visuellen Marketings (§ 4 Nr. 6)
-
+ 
 6.1
 Entwurf und Planung (§ 4 Nr. 6.1)
 a)
@@ -335,7 +335,7 @@ f)
 Ergebnisse der Projektdurchführung dokumentieren
 7
 Steuerung von Projekten visuellen Marketings (§ 4 Nr. 7)
-
+ 
 7.1
 Beschaffung (§ 4 Nr. 7.1)
 a)

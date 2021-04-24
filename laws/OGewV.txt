@@ -311,11 +311,11 @@ Abfluss und Abflussdynamik
 
 X
 
+ 
 
+ 
 
-
-
-
+ 
 
 Verbindung zu Grundwasserkörpern
 
@@ -323,41 +323,41 @@ X
 
 X
 
+ 
 
-
-
+ 
 
 Wasserstandsdynamik
 
-
+ 
 
 X
 
+ 
 
-
-
+ 
 
 Wassererneuerungszeit
 
-
+ 
 
 X
 
+ 
 
-
-
+ 
 
 Durchgängigkeit
 
-
+ 
 
 X
 
+ 
 
+ 
 
-
-
-
+ 
 
 Morphologie
 
@@ -365,15 +365,15 @@ Tiefen- und Breitenvariation
 
 X
 
+ 
 
+ 
 
-
-
-
+ 
 
 Tiefenvariation
 
-
+ 
 
 X
 
@@ -385,21 +385,21 @@ Struktur und Substrat des Bodens
 
 X
 
+ 
 
-
-
+ 
 
 X
 
 Menge, Struktur und Substrat des Bodens
 
-
-
-X
+ 
 
 X
 
+X
 
+ 
 
 Struktur der Uferzone
 
@@ -407,15 +407,15 @@ X
 
 X
 
+ 
 
-
-
+ 
 
 Struktur der Gezeitenzone
 
+ 
 
-
-
+ 
 
 X
 
@@ -425,19 +425,19 @@ Tidenregime
 
 Süßwasserzustrom
 
+ 
 
-
-
+ 
 
 X
 
-
+ 
 
 Seegangsbelastung
 
+ 
 
-
-
+ 
 
 X
 
@@ -445,11 +445,11 @@ X
 
 Richtung vorherrschender Strömungen
 
+ 
 
+ 
 
-
-
-
+ 
 
 X
 
@@ -627,7 +627,7 @@ Anlage 5 - (zu § 5 Absatz 3)Bewertungsverfahren und Grenzwerte der ökologische
 
 (Fundstelle: BGBl. I 2016,1397 - 1409)
 - 1. :: Fließgewässer
-  - 1. :: Für die biologische Qualitätskomponente Makrophyten/Phytobenthos ist das Bewertungsverfahren PHYLIB<<FnR.FnA1-f793919_07>>[[#FnA1-f793919_07][1]]} (Verfahrensanleitung für die ökologische Bewertung von FlieMakrophyten“, Diatomeen“ und Phytobenthos (ohne Diatomeen)“. Module, die zu ungesicherten Ergebnissen führen, sind nicht anzuwenden. Alternativ kann für die Bewertung der Fließgewässer mit Makrophyten auch das NRW-VERFAHREN<<FnR.FnA1-f793919_08>>[[#FnA1-f793919_08][2]]} angewendet werden.
+  - 1. :: Für die biologische Qualitätskomponente Makrophyten/Phytobenthos ist das Bewertungsverfahren PHYLIB<<FnR.FnA1-f793919_07>>[[#FnA1-f793919_07][1]]} (Verfahrensanleitung für die ökologische Bewertung von Fließgewässern zur Umsetzung der EG-Wasserrahmenrichtlinie: Makrophyten und Phytobenthos) anzuwenden. Das Bewertungsverfahren umfasst die Module „Makrophyten“, „Diatomeen“ und „Phytobenthos (ohne Diatomeen)“. Module, die zu ungesicherten Ergebnissen führen, sind nicht anzuwenden. Alternativ kann für die Bewertung der Fließgewässer mit Makrophyten auch das NRW-VERFAHREN<<FnR.FnA1-f793919_08>>[[#FnA1-f793919_08][2]]} angewendet werden.
   - 2. :: Für die biologische Qualitätskomponente benthische wirbellose Fauna ist das Bewertungsverfahren PERLODES<<FnR.FnA1-f793919_09>>[[#FnA1-f793919_09][3]]} (Bewertungsverfahren von Fließgewässern auf Basis des Makrozoobenthos) anzuwenden.
   - 3. :: Für die biologische Qualitätskomponente Fischfauna ist das Bewertungsverfahren FIBS<<FnR.FnA1-f793919_10>>[[#FnA1-f793919_10][4]]} (fischbasiertes Bewertungssystem für Fließgewässer zur Umsetzung der EG-Wasserrahmenrichtlinie in Deutschland) anzuwenden.
 
@@ -649,9 +649,9 @@ Anlage 5 - (zu § 5 Absatz 3)Bewertungsverfahren und Grenzwerte der ökologische
 - <<FnA1-f793919_19>>[[#FnR.FnA1-f793919_19][13]] :: in der basenreichen Ausprägung
 - <<FnA1-f793919_20>>[[#FnR.FnA1-f793919_20][14]] :: in der karbonatischen Ausprägung
 - <<FnA1-f793919_21>>[[#FnR.FnA1-f793919_21][15]] :: ausgenommen in Lössregionen
-- <<FnA1-f793919_22>>[[#FnR.FnA1-f793919_22][16]] :: mit einem Einzugsgebiet größer als 1 000 km
+- <<FnA1-f793919_22>>[[#FnR.FnA1-f793919_22][16]] :: mit einem Einzugsgebiet größer als 1 000 km²
 - <<FnA1-f793919_23>>[[#FnR.FnA1-f793919_23][17]] :: in Lössregionen
-- <<FnA1-f793919_24>>[[#FnR.FnA1-f793919_24][18]] :: mit einem Einzugsgebiet kleiner als oder gleich 1 000 km
+- <<FnA1-f793919_24>>[[#FnR.FnA1-f793919_24][18]] :: mit einem Einzugsgebiet kleiner als oder gleich 1 000 km²
 - <<FnA1-f793919_25>>[[#FnR.FnA1-f793919_25][19]] :: in rhithraler und potamaler Ausprägung gemäß Birk/van de Weyer 2015 (Fußnote 2)
 - <<FnA1-f793919_26>>[[#FnR.FnA1-f793919_26][20]] :: die Werte bezeichnen die im Rahmen der Interkalibrierung ermittelten EQR-Werte (siehe Beschluss der Europäischen Kommission 2013/480/EU vom 20. September 2013 zur Festlegung der Werte für die Einstufungen des Überwachungssystems des jeweiligen Mitgliedstaats als Ergebnis der Interkalibrierung gemäß der Richtlinie 2000/60/EG des Europäischen Parlaments und des Rates und zur Aufhebung der Entscheidung 2008/915/EG (ABl. L 266 vom 8.10.2013, S. 1)). Sie entsprechen den im fiBS verwendeten Klassengrenzen von 3,75 und 2,5
 
@@ -673,7 +673,7 @@ Legende:
 Seen
 
 - 1. :: Für die biologische Qualitätskomponente Phytoplankton ist das Bewertungsverfahren PSI<<FnR.FnA2-f793919_27>>[[#FnA2-f793919_27][1]]} ,}<<FnR.FnA2-f793919_28>>[[#FnA2-f793919_28][2]]} (Phyto-Seen-Index -- Bewertungsverfahren für Seen mittels Phytoplankton zur Umsetzung der EG-Wasserrahmenrichtlinie in Deutschland Teile 1 und 2) anzuwenden. Durch das Bewertungsverfahren werden ökologische Qualitätsquotienten für die Metrices Biomasse mit den Parametern Gesamtbiovolumen und Chlorophyll a, Algenklassen und den Artenindex berechnet.
-- 2. :: Für die biologische Qualitätskomponente Makrophyten/Phytobenthos ist das Bewertungsverfahren PHYLIB<<FnR.FnA2-f793919_29>>[[#FnA2-f793919_29][3]]} (Bewertung von Seen mit Makrophyten & Phytobenthos für künstliche und natürliche Gewässer sowie Unterstützung der Interkalibrierung) anzuwenden. Das Bewertungsverfahren umfasst die Module Makrophyten“ und Phytobenthos -- Diatomeen“. Nach PHYLIB sind jeweils alle zwei Module anzuwenden, sofern sie zu gesicherten Ergebnissen führen. Module, die zu ungesicherten Ergebnissen führen, sind nicht anzuwenden.
+- 2. :: Für die biologische Qualitätskomponente Makrophyten/Phytobenthos ist das Bewertungsverfahren PHYLIB<<FnR.FnA2-f793919_29>>[[#FnA2-f793919_29][3]]} (Bewertung von Seen mit Makrophyten & Phytobenthos für künstliche und natürliche Gewässer sowie Unterstützung der Interkalibrierung) anzuwenden. Das Bewertungsverfahren umfasst die Module „Makrophyten“ und „Phytobenthos -- Diatomeen“. Nach PHYLIB sind jeweils alle zwei Module anzuwenden, sofern sie zu gesicherten Ergebnissen führen. Module, die zu ungesicherten Ergebnissen führen, sind nicht anzuwenden.
 - 3. :: Für die biologische Qualitätskomponente benthische wirbellose Fauna ist das Bewertungsverfahren AESHNA<<FnR.FnA2-f793919_30>>[[#FnA2-f793919_30][4]]} (Bewertungsverfahren für das eulitorale Makrozoobenthos in Seen zur Umsetzung der EG-Wasserrahmenrichtlinie in Deutschland) anzuwenden.
 - 4. :: Für die biologische Qualitätskomponente Fischfauna ist das Bewertungsverfahren DeLFI-SITE<<FnR.FnA2-f793919_31>>[[#FnA2-f793919_31][5]]} (Deutsches probennahmestandortspezifisches Bewertungsverfahren für Fische in Seen zur Umsetzung der EG-Wasserrahmenrichtlinie) anzuwenden.
 
@@ -900,7 +900,7 @@ AK
 
 0,48
 
-Bewertung mit den Modulen Makrophyten“ und Phytobenthos -- Diatomeen“
+Bewertung mit den Modulen „Makrophyten“ und „Phytobenthos -- Diatomeen“
 
 Typen 5<<FnR.FnA2-f793919_36>>[[#FnA2-f793919_36][10]]} , 7 (DS 7.1)[[#FnA2-f793919_36][10]]}
 
@@ -1002,7 +1002,7 @@ MKg
 
 TKg10
 
-Modul Makrophyten“
+Modul „Makrophyten“
 
 Typen 2, 3, 4,\\
 6[[#FnA2-f793919_36][10]]} ,\\
@@ -1066,7 +1066,7 @@ Typen 5[[#FnA2-f793919_36][10]]} , 6[[#FnA2-f793919_36][10]]} , 7[[#FnA2-f793919
 
 0,55
 
-Bewertung mit dem Modul Phytobenthos -- Diatomeen“
+Bewertung mit dem Modul „Phytobenthos -- Diatomeen“
 
 Typen 7 (DS 7), 13[[#FnA2-f793919_38][12]]}
 
@@ -1141,7 +1141,7 @@ Legende:
 
 Übergangs- und Küstengewässer
 
-- 1. :: Für die biologische Qualitätskomponente Phytoplankton sind im Bereich der Nordsee das Bewertungsverfahren Deutsches Phytoplanktonverfahren für Küstengewässer der Nordsee“<<FnR.FnA3-f793919_40>>[[#FnA3-f793919_40][1]]} und für die Ostsee das Bewertungsverfahren Phytoplanktonbewertungsverfahren für deutsche Ostsee-Küstengewässer“<<FnR.FnA3-f793919_41>>[[#FnA3-f793919_41][2]]} anzuwenden. Durch das Bewertungsverfahren für die Nordsee wird der Parameter Biomasse anhand von Chlorophyll a bestimmt. Durch das Bewertungsverfahren für die Ostsee wird der Parameter Biomasse anhand von Chlorophyll a und des Gesamtbiovolumens oder anhand von Chlorophyll a, des Gesamtbiovolumens, des Biovolumens Cyanophyceen und des Biovolumens Chlorophyceen bestimmt.
+- 1. :: Für die biologische Qualitätskomponente Phytoplankton sind im Bereich der Nordsee das Bewertungsverfahren „Deutsches Phytoplanktonverfahren für Küstengewässer der Nordsee“<<FnR.FnA3-f793919_40>>[[#FnA3-f793919_40][1]]} und für die Ostsee das Bewertungsverfahren „Phytoplanktonbewertungsverfahren für deutsche Ostsee-Küstengewässer“<<FnR.FnA3-f793919_41>>[[#FnA3-f793919_41][2]]} anzuwenden. Durch das Bewertungsverfahren für die Nordsee wird der Parameter Biomasse anhand von Chlorophyll a bestimmt. Durch das Bewertungsverfahren für die Ostsee wird der Parameter Biomasse anhand von Chlorophyll a und des Gesamtbiovolumens oder anhand von Chlorophyll a, des Gesamtbiovolumens, des Biovolumens Cyanophyceen und des Biovolumens Chlorophyceen bestimmt.
 - 2. :: Für die biologische Qualitätskomponente Großalgen und Angiospermen sind für den Bereich der Nordsee die Bewertungsverfahren SG¹ (Bewertungssystem für Seegräser der Küsten- und Übergangsgewässer zur Umsetzung der EG-Wasserrahmenrichtlinie in Deutschland) und HPI<<FnR.FnA3-f793919_42>>[[#FnA3-f793919_42][3]]} (Helgoland Phytobenthic Index) anzuwenden. In der Ostsee sind für diese Qualitätskomponente die Bewertungsverfahren PHYBIBCO (PHYtoBenthic Index for Baltic inner COastal waters -- Verfahren zur Bewertung des ökologischen Zustandes der Makrophyten in den inneren Küstengewässern der Ostsee nach den Vorgaben der EU-Wasserrahmenrichtlinie)<<FnR.FnA3-f793919_43>>[[#FnA3-f793919_43][4]]} und BALCOSIS (Baltic ALgae Community analySIs System -- Verfahren zur Erfassung der Angiospermen- und Makroalgenbeständen in den äußeren Küstengewässern der deutschen Ostseeküste)<<FnR.FnA3-f793919_44>>[[#FnA3-f793919_44][5]]} anzuwenden.
 - 3. :: Für die biologische Qualitätskomponente benthische wirbellose Fauna ist das Bewertungsverfahren MarBIT (Marine Biotic Index Tool)<<FnR.FnA3-f793919_45>>[[#FnA3-f793919_45][6]]} anzuwenden.
 - 4. :: Für die biologische Qualitätskomponente Fischfauna ist das Bewertungsverfahren FAT -- TW (Fish-based Assessment Tool -- Transitional Water bodies -- Fischbasiertes Bewertungswerkzeug für Übergangsgewässer der norddeutschen Ästuare)<<FnR.FnA3-f793919_46>>[[#FnA3-f793919_46][7]]} anzuwenden.
@@ -1173,7 +1173,7 @@ Typen N1, N2
 0,44
 
 Bewertung mit dem Biomasse-Parameter\\
-Chlorophyll a“
+„Chlorophyll a“
 
 Phytoplankton\\
 (Phytoplanktonbewertungsverfahren für deutsche Ostsee-Küstengewässer)
@@ -1185,7 +1185,7 @@ Typen B3<<FnR.FnA3-f793919_47>>[[#FnA3-f793919_47][8]]} , B4[[#FnA3-f793919_47][
 0,60
 
 Bewertung mit den Biomasse-Parametern\\
-Chlorophyll a“, Gesamtbiovolumen“
+„Chlorophyll a“, „Gesamtbiovolumen“
 
 Phytoplankton\\
 (Phytoplanktonindex für deutsche\\
@@ -1197,7 +1197,7 @@ Typen B1, B2, B3<<FnR.FnA3-f793919_48>>[[#FnA3-f793919_48][9]]}
 
 0,60
 
-Bewertung mit den Biomasse-Parametern Chlorophyll a“, Gesamtbiovolumen“, Biovolumen Cyanophyceen“, Biovolumen Chlorophyceen“
+Bewertung mit den Biomasse-Parametern „Chlorophyll a“, „Gesamtbiovolumen“, „Biovolumen Cyanophyceen“, „Biovolumen Chlorophyceen“
 
 Großalgen und Angiospermen\\
 (SG)
@@ -1331,15 +1331,15 @@ Wasser\\
 
 10
 
+ 
 
-
-
+ 
 
 10
 
+ 
 
-
-
+ 
 
  2
 
@@ -1349,15 +1349,15 @@ Wasser\\
 
 30
 
+ 
 
-
-
+ 
 
 30
 
+ 
 
-
-
+ 
 
  3
 
@@ -1367,13 +1367,13 @@ Wasser\\
 
 0,2
 
-
+ 
 
 1
 
 0,02
 
-
+ 
 
 0,2
 
@@ -1385,15 +1385,15 @@ Ametryn
 
 0,5
 
+ 
 
-
-
+ 
 
 0,5
 
+ 
 
-
-
+ 
 
  5
 
@@ -1403,15 +1403,15 @@ Anilin
 
 0,8
 
+ 
 
-
-
+ 
 
 0,8
 
+ 
 
-
-
+ 
 
  6
 
@@ -1419,17 +1419,17 @@ Anilin
 
 Arsen
 
-
-
-40
-
-
-
-
+ 
 
 40
 
+ 
 
+ 
+
+40
+
+ 
 
  7
 
@@ -1439,15 +1439,15 @@ Azinphos-ethyl
 
 0,01
 
+ 
 
-
-
+ 
 
 0,01
 
+ 
 
-
-
+ 
 
  8
 
@@ -1457,15 +1457,15 @@ Azinphos-methyl
 
 0,01
 
+ 
 
-
-
+ 
 
 0,01
 
+ 
 
-
-
+ 
 
  9
 
@@ -1475,15 +1475,15 @@ Bentazon
 
 0,1
 
+ 
 
-
-
+ 
 
 0,1
 
+ 
 
-
-
+ 
 
 10
 
@@ -1493,15 +1493,15 @@ Bromacil
 
 0,6
 
+ 
 
-
-
+ 
 
 0,6
 
+ 
 
-
-
+ 
 
 11
 
@@ -1511,15 +1511,15 @@ Bromoxynil
 
 0,5
 
+ 
 
-
-
+ 
 
 0,5
 
+ 
 
-
-
+ 
 
 12
 
@@ -1529,13 +1529,13 @@ Carbendazim
 
 0,2
 
-
+ 
 
 0,7
 
 0,02
 
-
+ 
 
 0,1
 
@@ -1547,15 +1547,15 @@ Chlorbenzol
 
 1
 
+ 
 
-
-
+ 
 
 1
 
+ 
 
-
-
+ 
 
 14
 
@@ -1565,13 +1565,13 @@ Chloressigsäure
 
 0,6
 
-
+ 
 
 8
 
 0,06
 
-
+ 
 
 2
 
@@ -1583,15 +1583,15 @@ Chlortoluron
 
 0,4
 
+ 
 
-
-
+ 
 
 0,4
 
+ 
 
-
-
+ 
 
 16
 
@@ -1599,17 +1599,17 @@ Chlortoluron
 
 Chrom
 
-
-
-640
-
-
-
-
+ 
 
 640
 
+ 
 
+ 
+
+640
+
+ 
 
 17
 
@@ -1619,15 +1619,15 @@ Cyanid
 
 10
 
+ 
 
-
-
+ 
 
 10
 
+ 
 
-
-
+ 
 
 18
 
@@ -1637,15 +1637,15 @@ Diazinon
 
 0,01
 
+ 
 
-
-
+ 
 
 0,01
 
+ 
 
-
-
+ 
 
 19
 
@@ -1655,15 +1655,15 @@ Dichlorprop
 
 0,1
 
+ 
 
-
-
+ 
 
 0,1
 
+ 
 
-
-
+ 
 
 20
 
@@ -1673,15 +1673,15 @@ Diflufenican
 
 0,009
 
+ 
 
-
-
+ 
 
 0,009
 
+ 
 
-
-
+ 
 
 21
 
@@ -1691,13 +1691,13 @@ Dimethoat
 
 0,07
 
-
+ 
 
 1
 
 0,007
 
-
+ 
 
 0,1
 
@@ -1709,13 +1709,13 @@ Dimoxystrobin
 
 0,03
 
-
+ 
 
 2
 
 0,003
 
-
+ 
 
 0,2
 
@@ -1727,15 +1727,15 @@ Epoxiconazol
 
 0,2
 
+ 
 
-
-
+ 
 
 0,2
 
+ 
 
-
-
+ 
 
 24
 
@@ -1745,15 +1745,15 @@ Etrimphos
 
 0,004
 
+ 
 
-
-
+ 
 
 0,004
 
+ 
 
-
-
+ 
 
 25
 
@@ -1763,15 +1763,15 @@ Fenitrothion
 
 0,009
 
+ 
 
-
-
+ 
 
 0,009
 
+ 
 
-
-
+ 
 
 26
 
@@ -1781,13 +1781,13 @@ Fenpropimorph
 
 0,02
 
-
+ 
 
 20
 
 0,002
 
-
+ 
 
 20
 
@@ -1799,15 +1799,15 @@ Fenthion
 
 0,004
 
+ 
 
-
-
+ 
 
 0,004
 
+ 
 
-
-
+ 
 
 28
 
@@ -1817,13 +1817,13 @@ Flufenacet
 
 0,04
 
-
+ 
 
 0,2
 
 0,004
 
-
+ 
 
 0,02
 
@@ -1835,13 +1835,13 @@ Flurtamone
 
 0,2
 
-
+ 
 
 1
 
 0,02
 
-
+ 
 
 0,1
 
@@ -1853,15 +1853,15 @@ Hexazinon
 
 0,07
 
+ 
 
-
-
+ 
 
 0,07
 
+ 
 
-
-
+ 
 
 31
 
@@ -1872,13 +1872,13 @@ Imidacloprid
 
 0,002
 
-
+ 
 
 0,1
 
 0,0002
 
-
+ 
 
 0,01
 
@@ -1888,17 +1888,17 @@ Imidacloprid
 
 Kupfer
 
-
-
-160
-
-
-
-
+ 
 
 160
 
+ 
 
+ 
+
+160
+
+ 
 
 33
 
@@ -1908,15 +1908,15 @@ Linuron
 
 0,1
 
+ 
 
-
-
+ 
 
 0,1
 
+ 
 
-
-
+ 
 
 34
 
@@ -1926,15 +1926,15 @@ Malathion
 
 0,02
 
+ 
 
-
-
+ 
 
 0,02
 
+ 
 
-
-
+ 
 
 35
 
@@ -1944,15 +1944,15 @@ MCPA
 
 2
 
+ 
 
-
-
+ 
 
 2
 
+ 
 
-
-
+ 
 
 36
 
@@ -1962,15 +1962,15 @@ Mecoprop
 
 0,1
 
+ 
 
-
-
+ 
 
 0,1
 
+ 
 
-
-
+ 
 
 37
 
@@ -1980,15 +1980,15 @@ Metazachlor
 
 0,4
 
+ 
 
-
-
+ 
 
 0,4
 
+ 
 
-
-
+ 
 
 38
 
@@ -1998,15 +1998,15 @@ Methabenzthiazuron
 
 2
 
+ 
 
-
-
+ 
 
 2
 
+ 
 
-
-
+ 
 
 39
 
@@ -2016,15 +2016,15 @@ Metolachlor
 
 0,2
 
+ 
 
-
-
+ 
 
 0,2
 
+ 
 
-
-
+ 
 
 40
 
@@ -2034,15 +2034,15 @@ Metribuzin
 
 0,2
 
+ 
 
-
-
+ 
 
 0,2
 
+ 
 
-
-
+ 
 
 41
 
@@ -2052,13 +2052,13 @@ Monolinuron
 
 0,2
 
-
+ 
 
 20
 
 0,02
 
-
+ 
 
 2
 
@@ -2070,13 +2070,13 @@ Nicosulfuron
 
 0,009
 
-
+ 
 
 0,09
 
 0,0009
 
-
+ 
 
 0,009
 
@@ -2088,15 +2088,15 @@ Nitrobenzol
 
 0,1
 
+ 
 
-
-
+ 
 
 0,1
 
+ 
 
-
-
+ 
 
 44
 
@@ -2106,13 +2106,13 @@ Omethoat
 
 0,004
 
-
+ 
 
 2
 
 0,0004
 
-
+ 
 
 0,2
 
@@ -2124,15 +2124,15 @@ Parathion-ethyl
 
 0,005
 
+ 
 
-
-
+ 
 
 0,005
 
+ 
 
-
-
+ 
 
 46
 
@@ -2142,15 +2142,15 @@ Parathion-methyl
 
 0,02
 
+ 
 
-
-
+ 
 
 0,02
 
+ 
 
-
-
+ 
 
 47
 
@@ -2162,13 +2162,13 @@ PCB-28
 
 0,02
 
-
+ 
 
 0,0005[[#FnA1-f793919_53][5]]}
 
 0,02
 
-
+ 
 
 48
 
@@ -2180,13 +2180,13 @@ PCB-52
 
 0,02
 
-
+ 
 
 0,0005[[#FnA1-f793919_53][5]]}
 
 0,02
 
-
+ 
 
 49
 
@@ -2198,13 +2198,13 @@ PCB-101
 
 0,02
 
-
+ 
 
 0,0005[[#FnA1-f793919_53][5]]}
 
 0,02
 
-
+ 
 
 50
 
@@ -2216,13 +2216,13 @@ PCB-138
 
 0,02
 
-
+ 
 
 0,0005[[#FnA1-f793919_53][5]]}
 
 0,02
 
-
+ 
 
 51
 
@@ -2234,13 +2234,13 @@ PCB-153
 
 0,02
 
-
+ 
 
 0,0005[[#FnA1-f793919_53][5]]}
 
 0,02
 
-
+ 
 
 52
 
@@ -2252,13 +2252,13 @@ PCB-180
 
 0,02
 
-
+ 
 
 0,0005[[#FnA1-f793919_53][5]]}
 
 0,02
 
-
+ 
 
 53
 
@@ -2268,15 +2268,15 @@ Phenanthren
 
 0,5
 
+ 
 
-
-
+ 
 
 0,5
 
+ 
 
-
-
+ 
 
 54
 
@@ -2286,15 +2286,15 @@ Phoxim
 
 0,008
 
+ 
 
-
-
+ 
 
 0,008
 
+ 
 
-
-
+ 
 
 55
 
@@ -2304,15 +2304,15 @@ Picolinafen
 
 0,007
 
+ 
 
-
-
+ 
 
 0,007
 
+ 
 
-
-
+ 
 
 56
 
@@ -2322,15 +2322,15 @@ Pirimicarb
 
 0,09
 
+ 
 
-
-
+ 
 
 0,09
 
+ 
 
-
-
+ 
 
 57
 
@@ -2340,15 +2340,15 @@ Prometryn
 
 0,5
 
+ 
 
-
-
+ 
 
 0,5
 
+ 
 
-
-
+ 
 
 58
 
@@ -2358,15 +2358,15 @@ Propiconazol
 
 1
 
+ 
 
-
-
+ 
 
 1
 
+ 
 
-
-
+ 
 
 59
 
@@ -2376,15 +2376,15 @@ Pyrazon (Chloridazon)
 
 0,1
 
+ 
 
-
-
+ 
 
 0,1
 
+ 
 
-
-
+ 
 
 60
 
@@ -2394,15 +2394,15 @@ Selen<<FnR.FnA1-f793919_52>>[[#FnA1-f793919_52][4]]}
 
 3
 
+ 
 
-
-
+ 
 
 3
 
+ 
 
-
-
+ 
 
 61
 
@@ -2412,15 +2412,15 @@ Silber[[#FnA1-f793919_52][4]]}
 
 0,02
 
+ 
 
-
-
+ 
 
 0,02
 
+ 
 
-
-
+ 
 
 62
 
@@ -2430,13 +2430,13 @@ Sulcotrion
 
 0,1
 
-
+ 
 
 5
 
 0,01
 
-
+ 
 
 1
 
@@ -2448,15 +2448,15 @@ Terbuthylazin
 
 0,5
 
+ 
 
-
-
+ 
 
 0,5
 
+ 
 
-
-
+ 
 
 64
 
@@ -2466,15 +2466,15 @@ Thallium[[#FnA1-f793919_52][4]]}
 
 0,2
 
+ 
 
-
-
+ 
 
 0,2
 
+ 
 
-
-
+ 
 
 65
 
@@ -2484,13 +2484,13 @@ Triclosan
 
 0,02
 
-
+ 
 
 0,2
 
 0,002
 
-
+ 
 
 0,02
 
@@ -2504,13 +2504,13 @@ Triphenylzinn-Kation
 
 0,02
 
-
+ 
 
 0,0005[[#FnA1-f793919_53][5]]}
 
 0,02
 
-
+ 
 
 67
 
@@ -2518,17 +2518,17 @@ Triphenylzinn-Kation
 
 Zink
 
-
-
-800
-
-
-
-
+ 
 
 800
 
+ 
 
+ 
+
+800
+
+ 
 
 - <<FnA1-f793919_49>>[[#FnR.FnA1-f793919_49][1]] :: CAS = Chemical Abstracts Service, internationale Registriernummer für chemische Stoffe
 - <<FnA1-f793919_50>>[[#FnR.FnA1-f793919_50][2]] :: Umweltqualitätsnormen für Wasser sind, wenn nicht ausdrücklich anders bestimmt, als Gesamtkonzentrationen in der gesamten Wasserprobe ausgedrückt.
@@ -2549,7 +2549,7 @@ Anlage 7 - (zu § 5 Absatz 4 Satz 2)Allgemeine physikalisch-chemische Qualitäts
 - 1. :: Anforderungen an den sehr guten ökologischen Zustand und das höchste ökologische Potenzial
 - 1.1 :: Fließgewässer
 - 1.1.1 :: Werte für Temperatur und Temperaturerhöhung mit Zuordnung der Fischgemeinschaften zu den Gewässertypen
-  
+   
 - ff/tempff: :: Gewässer sind fischfrei oder temporär fischfrei
 - Sa-ER: :: salmonidengeprägte Gewässer des Epirhithrals
 - Sa-MR: :: salmonidengeprägte Gewässer des Metarhithrals
@@ -2659,27 +2659,27 @@ MW/a[[#FnA1-f793919_56][3]]}
 
 Typen nach Anlage 1 Nummer 2.1
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
-
-
-
-
+ 
 
 2.1, 3.1, 2.2, 3.2, 4, 11<<FnR.FnA1-f793919_58>>[[#FnA1-f793919_58][5]]}
 
@@ -3389,7 +3389,7 @@ Fließgewässer
 
 Werte für Temperatur und Temperaturerhöhung mit Zuordnung der Fischgemeinschaften zu den Gewässertypen
 
-
+ 
 
 Fischgemeinschaft
 
@@ -3414,7 +3414,7 @@ Anforderungen
 T_{max} Sommer\\
 (April bis November) [°C]
 
-
+ 
 
 ≤ 20
 
@@ -3432,7 +3432,7 @@ T_{max} Sommer\\
 
 Temperaturerhöhung Sommer [∆T in K]
 
-
+ 
 
 ≤ 1,5
 
@@ -3451,7 +3451,7 @@ Temperaturerhöhung Sommer [∆T in K]
 T_{max} Winter\\
 (Dezember bis März) [°C]
 
-
+ 
 
 ≤ 8
 
@@ -3469,7 +3469,7 @@ T_{max} Winter\\
 
 Temperaturerhöhung Winter [∆T in K]
 
-
+ 
 
 ≤ 1
 
@@ -3597,29 +3597,29 @@ Typen nach\\
 Anlage 1\\
 Nummer 2.1
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
-
-
-
-
-
+ 
 
 2.1, 3.1, 2.2, 3.2, 4, 11<<FnR.FnA4-f793919_77>>[[#FnA4-f793919_77][6]]}
 
@@ -4454,638 +4454,638 @@ gefährlicher Stoff
 Alachlor
 15972-60-8
 240-110-8
-
-
-
-
+ 
+ 
+ 
+ 
 X
-
-
+ 
+ 
 2
 Anthracen
 120-12-7
 204-371-1
 X
-
+ 
 X
-
+ 
 X
-
+ 
 X
 3
 Atrazin
 1912-24-9
 217-617-8
-
-
-
-
+ 
+ 
+ 
+ 
 X
-
-
+ 
+ 
 4
 Benzol
 71-43-2
 200-753-7
-
-
-
-
+ 
+ 
+ 
+ 
 X
-
-
+ 
+ 
 5
 Bromierte Diphenylether<<FnR.FnA1-f793919_91>>[[#FnA1-f793919_91][1]]}
-
-
+ 
+ 
 X
-
+ 
 X
 X
 X
-
+ 
 X
 6
 Cadmium und\\
 Cadmiumverbindungen
 7440-43-9
 231-152-8
-
-
+ 
+ 
 X
-
+ 
 X
-
+ 
 X
 6a
 Tetrachlorkohlenstoff
 56-23-5
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 X
-
+ 
 7
 C10-13 Chloralkane<<FnR.FnA1-f793919_92>>[[#FnA1-f793919_92][2]]}
 85535-84-8
 287-476-5
-
-
+ 
+ 
 X
-
+ 
 X
-
+ 
 X
 8
 Chlorfenvinphos
 470-90-6
 207-432-0
-
-
-
-
+ 
+ 
+ 
+ 
 X
-
-
+ 
+ 
 9
 Chlorpyrifos (Chlorpyrifos-Ethyl)
 2921-88-2
 220-864-4
-
-
-
-
+ 
+ 
+ 
+ 
 X
-
-
+ 
+ 
 9a
 Cyclodien Pestizide:
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Aldrin
 309-00-2
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 X
-
+ 
 Dieldrin
 60-57-1
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 X
-
+ 
 Endrin
 72-20-8
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 X
-
+ 
 Isodrin
 465-73-6
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 X
-
+ 
 9b
 DDT insgesamt<<FnR.FnA1-f793919_93>>[[#FnA1-f793919_93][3]]}
 nicht\\
 anwendbar
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 X
-
+ 
 4,4-DDT
 50-29-3
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 X
-
+ 
 10
 1,2-Dichlorethan
 107-06-2
 203-458-1
-
-
-
-
+ 
+ 
+ 
+ 
 X
-
-
+ 
+ 
 11
 Dichlormethan
 75-09-2
 200-838-9
-
-
-
-
+ 
+ 
+ 
+ 
 X
-
-
+ 
+ 
 12
 Bis(2-ethyl-hexyl)phthalat (DEHP)
 117-81-7
 204-211-0
-
-
+ 
+ 
 X
-
+ 
 X
-
+ 
 X
 13
 Diuron
 330-54-1
 206-354-4
-
-
-
-
+ 
+ 
+ 
+ 
 X
-
-
+ 
+ 
 14
 Endosulfan<<FnR.FnA1-f793919_94>>[[#FnA1-f793919_94][4]]}
 115-29-7
 204-079-4
-
-
-
-
+ 
+ 
+ 
+ 
 X
-
+ 
 X
 15
 Fluoranthen
 206-44-0
 205-912-4
 X
-
+ 
 X
-
+ 
 X
-
-
+ 
+ 
 16
 Hexachlorbenzol
 118-74-1
 204-273-9
-
-
+ 
+ 
 X
-
+ 
 X
-
+ 
 X
 17
 Hexachlorbutadien
 87-68-3
 201-765-5
-
-
+ 
+ 
 X
-
+ 
 X
-
+ 
 X
 18
 Hexachlorcyclohexan<<FnR.FnA1-f793919_95>>[[#FnA1-f793919_95][5]]}
 608-73-1
 210-168-9
-
-
+ 
+ 
 X
-
+ 
 X
-
+ 
 X
 19
 Isoproturon
 34123-59-6
 251-835-4
-
-
-
-
+ 
+ 
+ 
+ 
 X
-
-
+ 
+ 
 20
 Blei und Bleiverbindungen
 7439-92-1
 231-100-4
 X
-
+ 
 X
-
+ 
 X
-
-
+ 
+ 
 21
 Quecksilber und\\
 Quecksilberverbindungen
 7439-97-6
 231-106-7
-
-
+ 
+ 
 X
 X
 X
-
+ 
 X
 22
 Naphthalin
 91-20-3
 202-049-5
 X
-
-
-
+ 
+ 
+ 
 X
-
-
+ 
+ 
 23
 Nickel und Nickelverbindungen
 7440-02-0
 231-111-4
 X
-
-
-
+ 
+ 
+ 
 X
-
-
+ 
+ 
 24
 Nonylphenol (4-Nonylphenol)
 84852-15-3<<FnR.FnA1-f793919_96>>[[#FnA1-f793919_96][6]]}
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 X
-
+ 
 X
 25
 Octylphenol<<FnR.FnA1-f793919_97>>[[#FnA1-f793919_97][7]]}
 nicht\\
 anwendbar
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 X
-
-
+ 
+ 
 26
 Pentachlorbenzol
 608-93-5
 210-172-0
-
-
+ 
+ 
 X
-
+ 
 X
-
+ 
 X
 27
 Pentachlorphenol
 87-86-5
 201-778-6
-
-
-
-
+ 
+ 
+ 
+ 
 X
-
-
+ 
+ 
 28
 Polycyclische aromatische\\
 Kohlenwasserstoffe (PAK)
 nicht\\
 anwendbar
-
+ 
 X
-
+ 
 X
 X
 X
-
+ 
 X
 Benzo[a]pyren
 50-32-8
 200-028-5
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Benzo[b]fluoranthen
 205-99-2
 205-911-9
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Benzo[k]fluoranthen
 207-08-9
 205-916-6
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Benzo[g,h,i]-perylen
 191-24-2
 205-883-8
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Indeno[1,2,3-cd]-pyren
 193-39-5
 205-893-2
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 29
 Simazin
 122-34-9
 204-535-2
-
-
-
-
+ 
+ 
+ 
+ 
 X
-
-
+ 
+ 
 29a
 Tetrachlorethylen
 127-18-4
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 X
-
+ 
 29b
 Trichlorethylen
 79-01-6
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 X
-
+ 
 30
 Tributylzinnverbindungen\\
 (Tributylzinn-Kation)
 (36643-28-4)
-
-
-
+ 
+ 
+ 
 X
 X
 X
-
+ 
 X
 31
 Trichlorbenzol<<FnR.FnA1-f793919_98>>[[#FnA1-f793919_98][8]]}
 12002-48-1
 234-413-4
-
-
-
-
+ 
+ 
+ 
+ 
 X
-
-
+ 
+ 
 32
 Trichlormethan
 67-66-3
 200-663-8
-
-
-
-
+ 
+ 
+ 
+ 
 X
-
-
+ 
+ 
 33
 Trifluralin
 1582-09-8
 216-428-8
-
-
-
-
+ 
+ 
+ 
+ 
 X
-
+ 
 X
 34
 Dicofol
 115-32-2
 204-082-0
-
+ 
 X
 X
-
+ 
 X
-
+ 
 X
 35
 Perfluoroktansulfansäure und\\
 ihre Derivate (PFOS)
 1763-23-1
 217-179-8
-
+ 
 X
 X
 X
 X
-
+ 
 X
 36
 Quinoxyfen
 124495-18-7
-
-
+ 
+ 
 X
 X
-
+ 
 X
-
+ 
 X
 37
 Dioxine und dioxinähnliche\\
 Verbindungen<<FnR.FnA1-f793919_99>>[[#FnA1-f793919_99][9]]}
-
-
-
+ 
+ 
+ 
 X
 X
 X
 X
-
+ 
 X
 38
 Aclonifen
 74070-46-5
 277-704-1
-
+ 
 X
-
-
+ 
+ 
 X
-
-
+ 
+ 
 39
 Bifenox
 42576-02-3
 255-894-7
-
+ 
 X
-
-
+ 
+ 
 X
-
-
+ 
+ 
 40
 Cybutryn
 28159-98-0
 248-872-3
-
+ 
 X
-
-
+ 
+ 
 X
-
-
+ 
+ 
 41
 Cypermethrin<<FnR.FnA1-f793919_100>>[[#FnA1-f793919_100][10]]}
 52315-07-8
 257-842-9
-
+ 
 X
-
-
+ 
+ 
 X
-
-
+ 
+ 
 42
 Dichlorvos
 62-73-7
 200-547-7
-
+ 
 X
-
-
+ 
+ 
 X
-
-
+ 
+ 
 43
 Hexabromcyclododecan (HBCDD)<<FnR.FnA1-f793919_101>>[[#FnA1-f793919_101][11]]}
-
-
-
+ 
+ 
+ 
 X
 X
 X
 X
-
+ 
 X
 44
 Heptachlor und\\
@@ -5094,35 +5094,35 @@ Heptachlorepoxid
 1024-57-3
 200-962-3/\\
 213-831-0
-
+ 
 X
 X
 X
 X
-
+ 
 X
 45
 Terbutryn
 886-50-0
 212-950-5
-
+ 
 X
-
-
+ 
+ 
 X
-
-
+ 
+ 
 46
 Nitrat
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Tabelle 2\\
 Umweltqualitätsnormen
 
@@ -5190,7 +5190,7 @@ Alachlor
 
 0,7
 
-
+ 
 
 2
 
@@ -5206,7 +5206,7 @@ Anthracen
 
 0,1
 
-
+ 
 
 3
 
@@ -5222,7 +5222,7 @@ Atrazin
 
 2
 
-
+ 
 
 4
 
@@ -5238,18 +5238,18 @@ Benzol
 
 50
 
-
+ 
 
 5
 
 Bromierte\\
 Diphenylether<<FnR.FnA2-f793919_104>>[[#FnA2-f793919_104][3]]}
 
+ 
 
+ 
 
-
-
-
+ 
 
 0,14
 
@@ -5285,7 +5285,7 @@ und Cadmiumverbindungen\\
 0,9 (Klasse 4)\\
 1,5 (Klasse 5)
 
-
+ 
 
 6a
 
@@ -5304,7 +5304,7 @@ anwendbar
 nicht\\
 anwendbar
 
-
+ 
 
 7
 
@@ -5321,7 +5321,7 @@ Chloralkane
 
 1,4
 
-
+ 
 
 8
 
@@ -5337,7 +5337,7 @@ Chlorfenvinphos
 
 0,3
 
-
+ 
 
 9
 
@@ -5353,14 +5353,14 @@ Chlorpyrifos (Chlorpyrifos-Ethyl)
 
 0,1
 
-
+ 
 
 9a
 
 Cyclodien\\
 Pestizide[[#FnA2-f793919_104][3]]} :
 
-
+ 
 
 Σ = 0,01
 
@@ -5372,63 +5372,63 @@ anwendbar
 nicht\\
 anwendbar
 
-
+ 
 
 Aldrin
 
 309-00-2
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 Dieldrin
 
 60-57-1
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 Endrin
 
 72-20-8
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 Isodrin
 
 465-73-6
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 9b
 
@@ -5447,7 +5447,7 @@ anwendbar
 nicht\\
 anwendbar
 
-
+ 
 
 4,4-DDT[[#FnA2-f793919_104][3]]}
 
@@ -5463,7 +5463,7 @@ anwendbar
 nicht\\
 anwendbar
 
-
+ 
 
 10
 
@@ -5481,7 +5481,7 @@ anwendbar
 nicht\\
 anwendbar
 
-
+ 
 
 11
 
@@ -5499,7 +5499,7 @@ anwendbar
 nicht\\
 anwendbar
 
-
+ 
 
 12
 
@@ -5517,7 +5517,7 @@ anwendbar
 nicht\\
 anwendbar
 
-
+ 
 
 13
 
@@ -5533,7 +5533,7 @@ Diuron
 
 1,8
 
-
+ 
 
 14
 
@@ -5549,7 +5549,7 @@ Endosulfan
 
 0,004
 
-
+ 
 
 15
 
@@ -5573,9 +5573,9 @@ Hexachlorbenzol[[#FnA2-f793919_104][3]]}
 
 118-74-1
 
+ 
 
-
-
+ 
 
 0,05
 
@@ -5589,9 +5589,9 @@ Hexachlorbutadien
 
 87-68-3
 
+ 
 
-
-
+ 
 
 0,6
 
@@ -5613,7 +5613,7 @@ Hexachlorcyclohexan
 
 0,02
 
-
+ 
 
 19
 
@@ -5629,7 +5629,7 @@ Isoproturon
 
 1
 
-
+ 
 
 20
 
@@ -5646,7 +5646,7 @@ Bleiverbindungen
 
 14
 
-
+ 
 
 21
 
@@ -5655,9 +5655,9 @@ und Quecksilberverbindungen
 
 7439-97-6
 
+ 
 
-
-
+ 
 
 0,07
 
@@ -5679,7 +5679,7 @@ Naphthalin
 
 130
 
-
+ 
 
 23
 
@@ -5695,7 +5695,7 @@ Nickel und Nickel-verbindungen
 
 34
 
-
+ 
 
 24
 
@@ -5712,7 +5712,7 @@ Nonylphenol\\
 
 2
 
-
+ 
 
 25
 
@@ -5732,7 +5732,7 @@ anwendbar
 nicht\\
 anwendbar
 
-
+ 
 
 26
 
@@ -5750,7 +5750,7 @@ anwendbar
 nicht\\
 anwendbar
 
-
+ 
 
 27
 
@@ -5766,7 +5766,7 @@ Pentachlorphenol
 
 1
 
-
+ 
 
 28
 
@@ -5787,7 +5787,7 @@ anwendbar
 nicht\\
 anwendbar
 
-
+ 
 
 Benzo[a]pyren[[#FnA2-f793919_104][3]]}
 
@@ -5868,7 +5868,7 @@ Simazin
 
 4
 
-
+ 
 
 29a
 
@@ -5886,7 +5886,7 @@ anwendbar
 nicht\\
 anwendbar
 
-
+ 
 
 29b
 
@@ -5904,7 +5904,7 @@ anwendbar
 nicht\\
 anwendbar
 
-
+ 
 
 30
 
@@ -5923,7 +5923,7 @@ Kation)[[#FnA2-f793919_104][3]]}
 
 0,0015
 
-
+ 
 
 31
 
@@ -5941,7 +5941,7 @@ anwendbar
 nicht\\
 anwendbar
 
-
+ 
 
 32
 
@@ -5959,7 +5959,7 @@ anwendbar
 nicht\\
 anwendbar
 
-
+ 
 
 33
 
@@ -5977,7 +5977,7 @@ anwendbar
 nicht\\
 anwendbar
 
-
+ 
 
 34
 
@@ -6027,18 +6027,18 @@ Quinoxyfen
 
 0,54
 
-
+ 
 
 37
 
 Dioxine und dioxinähnliche\\
 Verbindungen
 
+ 
 
+ 
 
-
-
-
+ 
 
 nicht\\
 anwendbar
@@ -6063,7 +6063,7 @@ Aclinofen
 
 0,012
 
-
+ 
 
 39
 
@@ -6079,7 +6079,7 @@ Bifenox
 
 0,004
 
-
+ 
 
 40
 
@@ -6095,7 +6095,7 @@ Cybutryn
 
 0,016
 
-
+ 
 
 41
 
@@ -6111,7 +6111,7 @@ Cypermethrin
 
 0,00006
 
-
+ 
 
 42
 
@@ -6127,13 +6127,13 @@ Dichlorvos
 
 0,00007
 
-
+ 
 
 43
 
 Hexabromcyclododecan (HBCDD)
 
-
+ 
 
 0,0016
 
@@ -6175,23 +6175,23 @@ Terbutryn
 
 0,034
 
-
+ 
 
 46
 
 Nitrat
 
-
+ 
 
 50 x 10[[#FnA2-f793919_104][3]]}
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 - <<FnA2-f793919_102>>[[#FnR.FnA2-f793919_102][1]] :: Mit Ausnahme von Cadmium, Blei, Quecksilber und Nickel (Metalle) sind die Umweltqualitätsnormen als Gesamtkonzentrationen in der gesamten Wasserprobe ausgedrückt. Bei Metallen bezieht sich die Umweltqualitätsnorm auf die gelöste Konzentration, d. h. die gelöste Phase einer Wasserprobe, die durch Filtration durch ein 0,45-μm-Filter oder eine gleichwertige Vorbehandlung gewonnen wird.
 - <<FnA2-f793919_103>>[[#FnR.FnA2-f793919_103][2]] :: Sofern nicht anders vermerkt, bezieht sich die Biota-UQN auf Fische. Für Stoffe mit den Nummern 15 (Fluoranthen) und 28 (PAK) bezieht sich die Biota-UQN auf Krebstiere und Weichtiere. Für den Stoff mit der Nummer 37 (Dioxine und dioxinähnliche Verbindungen) bezieht sich die Biota-UQN auf Fische, Krebstiere und Weichtiere. Sind für einen Stoff Biota-UQN und JD-UQN für die Gesamtwasserphase vorgesehen, darf die JD-UQN der Einstufung nur zugrunde gelegt werden, wenn die Erhebung von Biotadaten nicht möglich ist.
@@ -6225,7 +6225,7 @@ Anlage 9 - (zu § 9 Absatz 2 und 3 Satz 2, § 11 Absatz 1 Satz 3,§ 13 Absatz 1 
 - 3. :: Anforderungen an die Beurteilung der Überwachungsergebnisse
   - 3.1 :: Berechnung des Jahresdurchschnitts
     - 3.1.1 :: Liegen die Werte physikalisch-chemischer oder chemischer Messgrößen in einer bestimmten Probe unter der Bestimmungsgrenze, so werden die Messergebnisse für die Berechnung des Jahresdurchschnitts durch die Hälfte des Werts der Bestimmungsgrenze ersetzt. Dies gilt nicht für Parameter, die Summen von Stoffen darstellen. In diesen Fällen werden unter der Bestimmungsgrenze liegende Ergebnisse für einzelne Stoffe vor der Summenbildung gleich null gesetzt.
-    - 3.1.2 :: Liegt ein gemäkleiner Bestimmungsgrenze“ bezeichnet.
+    - 3.1.2 :: Liegt ein gemäß Nummer 3.1.1 berechneter Jahresdurchschnitt unter der Bestimmungsgrenze, so wird dieser Wert als „kleiner Bestimmungsgrenze“ bezeichnet.
 
   - 3.2 :: Einhaltung von Umweltqualitätsnormen
     - 3.2.1 :: Umweltqualitätsnormen für die Stoffe der Anlagen 6 und 8, jeweils ausgedrückt als zulässige Höchstkonzentrationen (ZHK-UQN), gelten als eingehalten, wenn die Konzentration bei jeder Einzelmessung an jeder repräsentativen Überwachungsstelle in dem Oberflächenwasserkörper kleiner oder gleich der ZHK-UQN ist. Liegt in den Fällen von Nummer 1.4 die Bestimmungsgrenze über der Umweltqualitätsnorm und alle Messwerte unter der Bestimmungsgrenze, so wird das Ergebnis für den gemessenen Stoff für die Zwecke der Einstufung des chemischen Gesamtzustands des betreffenden Wasserkörpers nicht berücksichtigt.
@@ -6376,7 +6376,7 @@ Anlage 12 - (zu § 8 Absatz 2,§ 12 Absatz 1, Absatz 2 Satz 1 und Absatz 3)Darst
 
   Im Fall von § 12 Absatz 1 Satz 4 sind die für die Einstufung maßgebenden Stoffe durch Nennung der Nummern nach Anlage 8 Tabelle 1 zu kennzeichnen.
 - 3. :: Kennzeichnung von Oberflächenwasserkörpern
-  Oberflächenwasserkörper, für deren Einstufung eine natürliche Hintergrundkonzentration maEinstufung unter Berücksichtigung natürlicher Hintergrundkonzentrationen“ gekennzeichnet.
+  Oberflächenwasserkörper, für deren Einstufung eine natürliche Hintergrundkonzentration maßgebend war, werden auf den Karten nach Nummer 1 oder Nummer 2 mit einem H und der Legende „Einstufung unter Berücksichtigung natürlicher Hintergrundkonzentrationen“ gekennzeichnet.
 
 
 Anlage 13 - (zu § 15 Absatz 1 Satz 1 und Absatz 2 Satz 2)Ermittlung langfristiger Trends

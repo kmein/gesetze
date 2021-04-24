@@ -348,7 +348,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (* Nichtzutreffendes bitte streichen)
 Die/der durch Reisepass oder Personalausweis ausgewiesene
 Vorname: ____________ Name: __________
-geboren am: __________ in: ___________
+geboren am: __________ in: ___________ 
 wurde heute auf die Tauglichkeit zur Führung eines Sportbootes auf den See- und Binnenschifffahrtsstraßen untersucht.
 I. Sehvermögen
 1. Sehschärfe
@@ -365,14 +365,14 @@ Das Farbunterscheidungsvermögen ist als ausreichend anzusehen, wenn der Untersu
 - a) :: Ishihara nach den Tafeln 12 bis 14,
 - b) :: Stilling/Velhagen,
 - c) :: Boström,
-- d) :: HRR (Ergebnis mindestens leicht“),
-- e) :: TMC (Ergebnis mindestens second degree“),
-- f) :: Holmer-Wright B (Ergebnis höchstens 8 Fehler bei small“).
+- d) :: HRR (Ergebnis mindestens „leicht“),
+- e) :: TMC (Ergebnis mindestens „second degree“),
+- f) :: Holmer-Wright B (Ergebnis höchstens 8 Fehler bei „small“).
 
 | Das Farbunterscheidungsvermögen ist | □  ausreichend (tauglich) | □  nicht ausreichend (untauglich), |
 
 der Anomalquotient beträgt _____,_____.
-
+ 
 (Ggf. Ort, Datum, Stempel mit Anschrift und Unterschrift der amtlich anerkannten Sehteststelle)
 II. Hörvermögen
 Das erforderliche Hörvermögen ist vorhanden, wenn Sprache mit oder ohne Hörhilfe in gewöhnlicher Lautstärke aus 3 Metern Entfernung mit dem jeweils dem Sprecher zugewandten Ohr und aus 5 Metern Entfernung mit beiden Ohren zugleich verstanden wird oder mindestens mit dem besseren Ohr mit oder ohne Hörhilfe Sprache in gewöhnlicher Lautstärke aus 5 Metern Entfernung verstanden wird.
@@ -384,7 +384,7 @@ ausreichend (bedingt tauglich)
 □
 Das Hörvermögen ist ohne und mit Hörhilfe nicht ausreichend (untauglich)
 □
-
+ 
 (Ggf. Ort, Datum, Stempel mit Anschrift und Unterschrift des Hörgeräteakustikbetriebes)
 -- bitte wenden --
 III. Sonstige die Tauglichkeit beeinträchtigende Befunde
@@ -513,16 +513,16 @@ Prüfungsausschuss:
 Name:\\
 \\
 Vorname:
-
-
+ 
+ 
 Geb.-Datum:
 Inhaber/in Sportbootführerschein Binnenschifffahrtsstraßen
 mit Antriebsmaschine  □    unter Segel  □
-Inhaber/in Sportbootführerschein Seeschifffahrtsstraßen 
+Inhaber/in Sportbootführerschein Seeschifffahrtsstraßen  
 mit Antriebsmaschine  □
 I. Fähigkeiten mit Antriebsmaschine\\
 I.1 Pflichtmanöver
-
+ 
 1. Versuch
 2. Versuch
 Alle Aufgaben müssen mit ausreichendem Ergebnis ausgeführt werden.
@@ -554,11 +554,11 @@ Alle Aufgaben müssen mit ausreichendem Ergebnis ausgeführt werden.
   □  nicht ausreichend
   □  ausreichend\\
   □  nicht ausreichend
-Ergebnis Pflichtmanöver mit Antriebsmaschine  
+Ergebnis Pflichtmanöver mit Antriebsmaschine   
 ausreichend  □
 nicht ausreichend  □
 I.2 Sonstige Manöver
-
+ 
 1. Versuch
 2. Versuch
 Von maximal drei Aufgaben müssen\\
@@ -595,7 +595,7 @@ ausreichend  □
 nicht ausreichend  □
 II. Fähigkeiten unter Segel\\
 II.1 Pflichtmanöver
-
+ 
 1. Versuch
 2. Versuch
 Alle Aufgaben müssen mit ausreichendem Ergebnis ausgeführt werden.
@@ -615,11 +615,11 @@ Alle Aufgaben müssen mit ausreichendem Ergebnis ausgeführt werden.
   □  nicht ausreichend
   □  ausreichend\\
   □  nicht ausreichend
-Ergebnis Pflichtmanöver unter Segel  
+Ergebnis Pflichtmanöver unter Segel   
 ausreichend  □
 nicht ausreichend  □
 II.2 Sonstige Manöver
-
+ 
 1. Versuch
 2. Versuch
 Von maximal drei\\
@@ -652,11 +652,11 @@ eines Sicherheitsgurts
   □  nicht ausreichend
   □  ausreichend\\
   □  nicht ausreichend
-Ergebnis Sonstige Manöver unter Segel  
+Ergebnis Sonstige Manöver unter Segel   
 ausreichend  □
 nicht ausreichend  □
 III. Knoten
-
+ 
 1. Versuch
 2. Versuch
 Von maximal sieben\\
@@ -723,14 +723,14 @@ Begründung bei nicht ausreichendem Ergebnis der Teile I bis III:\\
 \\
 Praktischer Prüfungsteil mit Antriebsmaschine
 Unterschrift Prüfer/in
-
+ 
 bestanden  □ \\
-nicht bestanden  □
+nicht bestanden  □ 
 Praktischer Prüfungsteil unter Segel
 Unterschrift Prüfer/in
-
+ 
 bestanden  □ \\
-nicht bestanden  □
+nicht bestanden  □ 
 
 Anlage 5 - (zu § 8 Absatz 5)Ausstattung und Besatzung des Prüfungsboots
 
@@ -754,7 +754,7 @@ Für eine Bewerbung als Prüfer in der Sportschifffahrt sind folgende Angaben un
 - -- :: Bewerbung (Anschreiben) mit Name, Vorname, Geburtsdatum, Adresse, dem beruflichen Werdegang (soweit für die Antragsprüfung erforderlich) und der freiwilligen Angabe der E-Mail-Adresse,
 - -- :: Passbild,
 - -- :: Liste und Kopien der Sportbootführerscheine, der Funkzeugnisse und sonstiger nautischer oder technischer Befähigungsnachweise,
-- -- :: Wassersportlicher Lebenslauf“ (Ausbildung, Erfahrung, Lehr- und/oder Prüfertätigkeit),
+- -- :: „Wassersportlicher Lebenslauf“ (Ausbildung, Erfahrung, Lehr- und/oder Prüfertätigkeit),
 - -- :: Umfang der Zeit, die für eine Tätigkeit als Prüfer zur Verfügung stehen würde,
 - -- :: Vereinszugehörigkeit oder Zugehörigkeit zu einer Segelschule oder einer anderen Ausbildungsstätte,
 - -- :: sofern ein Beschäftigungsverhältnis besteht: Nachweis der Genehmigung zur Ausübung der Nebentätigkeit als Prüfer (selbstständiger Sachverständiger) durch den Arbeitgeber oder Dienstherrn,
@@ -787,7 +787,7 @@ Anhang 1 - (zu Anlage 7)Niederschrift
 
 (Fundstelle: BGBl. I 2017, 1037)
 über die Verpflichtungen nach § 83 Absatz 2 Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102) und nach § 5 Bundesdatenschutzgesetz in der Fassung der Bekanntmachung vom 14. Januar 2003 (BGBl. I S. 66) jeweils in geltender Fassung.
-Frau/Herr «Titel
+Frau/Herr «Titel»
 geboren am
 wohnhaft
 wurde heute im Rahmen der Tätigkeit als Prüfer in der Sportschifffahrt verpflichtet, die Arbeit gewissenhaft und unparteiisch auszuüben und die gebotene Verschwiegenheit zu wahren.
@@ -840,7 +840,7 @@ Spree-Oder-Wasserstraße von der Abzweigung aus der Havel bei Spandau bis Oder-S
   Treptower Spree
 - mit: :: Ruhlebener Altarm
   Rummelsburger See
-  Müggelspree von der Einmündung in die Spree-Oder-WasserstraDie Bänke“
+  Müggelspree von der Einmündung in die Spree-Oder-Wasserstraße (Köpenick) bis km 11,40 einschließlich Großem und Kleinem Müggelsee sowie „Die Bänke“
   Langer See
   Großer Krampe
   Seddinsee

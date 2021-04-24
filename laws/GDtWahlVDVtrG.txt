@@ -100,10 +100,10 @@ Stadtbezirk Köpenick vom Stadtbezirk Lichtenberg die Wohnbezirke: 1, 11, 12, 26
 261
 Berlin - Hellersdorf - Mahrzahn
 Stadtbezirk Hellersdorf Stadtbezirk Mahrzahn
-
-
+ 
+ 
 Mecklenburg-Vorpommern
-
+ 
 262
 Wismar - Gadebusch - Grevesmühlen - Doberan - Bützow
 Stadtkreis Wismar Landkreis Wismar Landkreis Bad Doberan Landkreis Grevesmühlen Landkreis Bützow Landkreis Gadebusch
@@ -131,10 +131,10 @@ Stadtkreis Neubrandenburg Landkreis Neubrandenburg Landkreis Waren Landkreis Alt
 270
 Neustrelitz - Strasburg - Pasewalk - Ueckermünde - Anklam
 Landkreis Neustrelitz Landkreis Ueckermünde Landkreis Pasewalk Landkreis Anklam Landkreis Strasburg
-
-
+ 
+ 
 Brandenburg
-
+ 
 271
 Neuruppin - Kyritz - Wittstock - Pritzwalk - Perleberg
 Landkreis Neuruppin Landkreis Perleberg Landkreis Kyritz Landkreis Pritzwalk Landkreis Wittstock
@@ -171,10 +171,10 @@ Landkreis Senftenberg Landkreis Calau Landkreis Spremberg
 282
 Bad Liebenwerda - Finsterwalde - Herzberg - Lübben - Luckau
 Landkreis Bad Liebenwerda Landkreis Finsterwalde Landkreis Herzberg Landkreis Lübben Landkreis Luckau
-
-
+ 
+ 
 Sachsen-Anhalt
-
+ 
 283
 Altmark
 Landkreis Stendal Landkreis Salzwedel Landkreis Osterburg Landkreis Gardelegen Landkreis Klötze
@@ -214,10 +214,10 @@ Landkreis Zeitz Landkreis Hohenmölsen Landkreis Naumburg Landkreis Nebra
 295
 Eisleben - Sangerhausen - Hettstedt
 Landkreis Eisleben Landkreis Hettstedt Landkreis Sangerhausen
-
-
+ 
+ 
 Thüringen
-
+ 
 296
 Nordhausen - Worbis - Heiligenstadt
 Landkreis Nordhausen Landkreis Worbis Landkreis Heiligenstadt
@@ -254,10 +254,10 @@ Landkreis Meiningen Landkreis Bad Salzungen Landkreis Hildburghausen Landkreis S
 307
 Suhl - Schmalkalden -Ilmenau - Neuhaus
 Stadtkreis Suhl Landkreis Suhl Landkreis Schmalkalden Landkreis Ilmenau Landkreis Neuhaus
-
-
+ 
+ 
 Sachsen
-
+ 
 308
 Delitzsch - Eilenburg - Torgau - Wurzen
 Landkreis Delitzsch Landkreis Torgau Landkreis Eilenburg Landkreis Wurzen

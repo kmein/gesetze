@@ -208,11 +208,11 @@ und Fähigkeiten
 
 Zeitliche Richtwerte in Wochen im Ausbildungsjahr
 
+ 
 
+ 
 
-
-
-
+ 
 
 1
 
@@ -233,9 +233,9 @@ Zeitliche Richtwerte in Wochen im Ausbildungsjahr
 Entwurf, Anwendung und programmtechnische Umsetzung mathematischer Methoden, Modelle und Algorithmen\\
 (§ 3 Abs. 2 Abschnitt A Nr. 1)
 
+ 
 
-
-
+ 
 
 1.1
 
@@ -245,9 +245,9 @@ Mathematische Modellierung\\
 - a) :: betriebliche Aufgabenstellungen, insbesondere naturwissenschaftliche, wirtschaftliche oder technische, in interdisziplinärer Kooperation analysieren
 - b) :: betriebliche Aufgabenstellungen unter Anleitung auf mathematische Modelle übertragen
 
+ 
 
-
-
+ 
 
 8
 
@@ -264,18 +264,18 @@ Methoden, Modelle und Algorithmen der Diskreten Mathematik\\
 
 7
 
+ 
 
-
-
+ 
 
 - f) :: Aufgabenstellung der Kombinatorik lösen und die Mächtigkeit von Mengen bestimmen
 - g) :: Fehlerarten bei der Verarbeitung von Messdaten unterscheiden und beachten
 
-
+ 
 
 2
 
-
+ 
 
 1.3
 
@@ -287,9 +287,9 @@ Methoden, Modelle und Algorithmen aus der Analysis\\
 
 2
 
+ 
 
-
-
+ 
 
 - c) :: diskrete Vorgänge mit Hilfe von Folgen und Reihen untersuchen und Grenzwerte ermitteln
 - d) :: Änderungsverhalten von Vorgängen mit Differentialrechnung beschreiben und berechnen
@@ -298,17 +298,17 @@ Methoden, Modelle und Algorithmen aus der Analysis\\
 - g) :: Messwertreihen interpolieren und und approximieren
 - h) :: Problemstellungen, insbesondere Wachstums- und Zerfallprozesse, die sich durch lineare explizite Differentialgleichungen erster Ordnung beschreiben lassen, mit Richtungsfeldern visualisieren, analytisch und mit dem Euler-Cauchy-Verfahren numerisch lösen
 
-
+ 
 
 11
 
-
+ 
 
 - i) :: Integrale analytisch und numerisch berechnen
 
+ 
 
-
-
+ 
 
 9
 
@@ -324,17 +324,17 @@ Methoden, Modelle und Algorithmen aus der Linearen Algebra\\
 
 8
 
+ 
 
-
-
+ 
 
 - e) :: iterative Lösungsverfahren rechnergestützt anwenden
 
-
+ 
 
 2
 
-
+ 
 
 1.5
 
@@ -350,20 +350,20 @@ Methoden, Modelle und Algorithmen aus der Stochastik\\
 - g) :: Regressionsparameter zu zufallsabhängigen Messgrößen in linearen Modellen nach der Methode der kleinsten Fehlerquadrate berechnen und testen
 - h) :: Korrelationskoeffizienten als Maß für den linearen Zusammenhang von Messgrößen berechnen
 
-
+ 
 
 10
 
-
+ 
 
 2
 
 Software-technische Analyse und Planung von Softwarelösungen\\
 (§ 3 Abs. 2 Abschnitt A Nr. 2)
 
+ 
 
-
-
+ 
 
 2.1
 
@@ -374,9 +374,9 @@ Bedarfsanalyse\\
 - b) :: Ist-Analysen durchführen und dokumentieren
 - c) :: Soll-Konzepte entwickeln
 
+ 
 
-
-
+ 
 
 6
 
@@ -389,17 +389,17 @@ Datenschutz, Datensicherheit und Urheberrecht\\
 - b) :: Vorgaben und Vorschriften zur Datensicherheit, Datensicherung und Archivierung beim Umgang mit Daten beachten
 - c) :: Vorschriften zum Urheberrecht anwenden
 
-
+ 
 
 2
 
-
+ 
 
 - d) :: kryptografische Methoden anwenden
 
+ 
 
-
-
+ 
 
 2
 
@@ -413,18 +413,18 @@ DV-Konzept\\
 
 4
 
+ 
 
-
-
+ 
 
 - c) :: betriebliche Vorgaben zur programmtechnischen Implementierung beachten
 - d) :: Qualitätsanforderungen berücksichtigen sowie Versionskontrolle planen
 
-
+ 
 
 4
 
-
+ 
 
 2.4
 
@@ -437,26 +437,26 @@ Algorithmen bei der Umsetzung von Pflichtenheften auswählen, insbesondere
 
 8
 
+ 
 
-
-
+ 
 
 - b) :: iterative und rekursive Algorithmen einsetzen
 - c) :: Komplexität von Algorithmen bezüglich Laufzeit und Speicherplatz sowie ihre Fehleranfälligkeit analysieren und den Programmieraufwand beurteilen
 - d) :: die Algorithmen Binäres Suchen, Textsuche, Breiten- und Tiefensuche, Backtracking und Hash-Verfahren anwenden
 - e) :: Sortierverfahren in Abhängigkeit von Datenmengen und -struktur auswählen
 
-
+ 
 
 8
 
-
+ 
 
 - f) :: parallele Algorithmen einsetzen
 
+ 
 
-
-
+ 
 
 2
 
@@ -469,18 +469,18 @@ Datenmodellierung über Datenstrukturen und in Datenbanken\\
 
 4
 
+ 
 
-
-
+ 
 
 - b) :: relationale oder objektorientierte Datenbankmodelle entwickeln
 - c) :: ein Datenbankmanagementsystem und eine Datenbanksprache anwenden
 
-
+ 
 
 6
 
-
+ 
 
 2.6
 
@@ -493,9 +493,9 @@ Systemkomponenten für die Software-entwicklung\\
 - d) :: Protokolle gemäß dem Schichtenmodell bei Datenkommunikationsanwendungen nutzen
 - e) :: Modelle und Protokolle zur Prozesskommunikation nutzen
 
+ 
 
-
-
+ 
 
 6
 
@@ -504,9 +504,9 @@ Systemkomponenten für die Software-entwicklung\\
 Softwareerstellung\\
 (§ 3 Abs. 2 Abschnitt A Nr. 3)
 
+ 
 
-
-
+ 
 
 3.1
 
@@ -519,15 +519,15 @@ Programmiersprachen\\
 
 12
 
+ 
 
-
-
+ 
 
 - d) :: eine Skriptsprache anwenden
 
+ 
 
-
-
+ 
 
 2
 
@@ -542,9 +542,9 @@ Programmsysteme\\
 - d) :: Versionsverwaltung durchführen
 - e) :: Werkzeuge zum automatisierten Erzeugen von Programmen aus Quelltexten anwenden
 
+ 
 
-
-
+ 
 
 6
 
@@ -557,9 +557,9 @@ Softwarequalität und Test\\
 - b) :: Maßnahmen zur Qualitätssicherung im eigenen Arbeitsbereich planen und anwenden
 - c) :: Qualitätskriterien bei der Entwicklung von Software anwenden
 
+ 
 
-
-
+ 
 
 6
 
@@ -568,9 +568,9 @@ Softwarequalität und Test\\
 Softwareübergabe und Support\\
 (§ 3 Abs. 2 Abschnitt A Nr. 4)
 
+ 
 
-
-
+ 
 
 4.1
 
@@ -582,9 +582,9 @@ Softwaredokumentation und Benutzerunterstützung\\
 - c) :: Benutzer beraten
 - d) :: beim Softwareeinsatz auftretende Fragen systematisieren, Antworten kundengerecht aufbereiten
 
+ 
 
-
-
+ 
 
 3
 
@@ -597,24 +597,24 @@ Mathematische Dokumentation und Interpretation der Ergebnisse\\
 - b) :: Auftraggeber bei der mathematischen Interpretation der Ergebnisse unterstützen und mathematische Problemstellungen und Resultate interdisziplinär kommunizieren
 - c) :: betriebliche Werkzeuge zum Formalsatz einsetzen
 
-
+ 
 
 5
 
+ 
 
-
-
+ 
 
 Abschnitt B Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
 
-
+ 
 
 1
 
 Der Ausbildungsbetrieb\\
 (§ 3 Abs. 2 Abschnitt B Nr. 1)
 
-
+ 
 
 während der gesamten Ausbildungszeit zu vermitteln
 
@@ -666,9 +666,9 @@ Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsber
 Geschäftsprozesse\\
 (§ 3 Abs. 2 Abschnitt B Nr. 2)
 
+ 
 
-
-
+ 
 
 2.1
 
@@ -681,9 +681,9 @@ Leistungsprozesse\\
 
 2
 
+ 
 
-
-
+ 
 
 2.2
 
@@ -698,9 +698,9 @@ Betriebliche Organisation\\
 Arbeitsorganisation und Arbeitstechniken\\
 (§ 3 Abs. 2 Abschnitt B Nr. 3)
 
+ 
 
-
-
+ 
 
 3.1
 
@@ -715,11 +715,11 @@ Information und Kommunikation\\
 - f) :: betriebsspezifische Fachterminologie anwenden
 - g) :: Ergebnisse des Softwareentwicklungsprozesses präsentieren
 
-
+ 
 
 2
 
-
+ 
 
 3.2
 
@@ -733,9 +733,9 @@ Arbeitsplanung\\
 
 2
 
+ 
 
-
-
+ 
 
 3.3
 
@@ -747,15 +747,15 @@ Teamarbeit, Projektmanagement\\
 
 3
 
+ 
 
-
-
+ 
 
 - c) :: Methoden des Projektmanagements anwenden
 - d) :: Zusammenarbeit aktiv gestalten, Möglichkeiten zur Konfliktregelung anwenden
 
+ 
 
-
-
+ 
 
 2

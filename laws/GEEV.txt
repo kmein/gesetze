@@ -43,12 +43,12 @@ Inhaltsübersicht
 
 Im Sinn dieser Verordnung ist
 
-- 1. :: ausländische Stelle“ eine nach § 32 Absatz 3 vom Kooperationsstaat in der völkerrechtlichen Vereinbarung benannte Stelle,
-- 2. :: ausschreibende Stelle“ die Bundesnetzagentur, sofern nicht nach § 32 Absatz 1 eine andere Stelle mit der Aufgabe betraut worden ist,
-- 3. :: Kooperationsstaat“ ein Mitgliedstaat der Europäischen Union, mit dem die Bundesrepublik Deutschland eine völkerrechtliche Vereinbarung abgeschlossen hat,
-- 4. :: Verbindungsleitung“ jede Stromleitung, die die Grenze zwischen der Bundesrepublik Deutschland und einem anderen Mitgliedstaat der Europäischen Union überspannt und ausschließlich dem Zweck dient, die nationalen Netze dieser Staaten zu verbinden,
-- 5. :: völkerrechtliche Vereinbarung“ eine Vereinbarung zwischen der Bundesrepublik Deutschland und einem oder mehreren Mitgliedstaaten der Europäischen Union, in der Instrumente der Kooperationsmaßnahmen im Sinn der Artikel 5 bis 8 oder des Artikels 11 der Richtlinie 2009/28/EG genutzt werden,
-- 6. :: Zuschlagswert“ der Gebotswert des Gebots, das in einer Ausschreibung den höchsten Gebotswert aufweist und einen Zuschlag erhalten hat.
+- 1. :: „ausländische Stelle“ eine nach § 32 Absatz 3 vom Kooperationsstaat in der völkerrechtlichen Vereinbarung benannte Stelle,
+- 2. :: „ausschreibende Stelle“ die Bundesnetzagentur, sofern nicht nach § 32 Absatz 1 eine andere Stelle mit der Aufgabe betraut worden ist,
+- 3. :: „Kooperationsstaat“ ein Mitgliedstaat der Europäischen Union, mit dem die Bundesrepublik Deutschland eine völkerrechtliche Vereinbarung abgeschlossen hat,
+- 4. :: „Verbindungsleitung“ jede Stromleitung, die die Grenze zwischen der Bundesrepublik Deutschland und einem anderen Mitgliedstaat der Europäischen Union überspannt und ausschließlich dem Zweck dient, die nationalen Netze dieser Staaten zu verbinden,
+- 5. :: „völkerrechtliche Vereinbarung“ eine Vereinbarung zwischen der Bundesrepublik Deutschland und einem oder mehreren Mitgliedstaaten der Europäischen Union, in der Instrumente der Kooperationsmaßnahmen im Sinn der Artikel 5 bis 8 oder des Artikels 11 der Richtlinie 2009/28/EG genutzt werden,
+- 6. :: „Zuschlagswert“ der Gebotswert des Gebots, das in einer Ausschreibung den höchsten Gebotswert aufweist und einen Zuschlag erhalten hat.
 
 
 § 4 - Ausschreibungen
@@ -507,29 +507,29 @@ Anlage - (zu § 27 Absatz 1)Höhe der Marktprämie für Strom aus Solaranlagen u
 
 (Fundstelle: BGBl. I 2017, 3117)
 - 1.1 :: Im Sinn dieser Anlage ist:
-  - -- :: MP_{Kooperationsstaat}“ die Höhe der Marktprämie nach § 27 Absatz 2 in Verbindung mit § 23a des Erneuerbare-Energien-Gesetzes in Cent pro Kilowattstunde,
-  - -- :: AW“ der anzulegende Wert nach den §§ 20 und 25,
-  - -- :: MW_{Kooperationsstaat}“ der jeweilige Monatsmarktwert in Cent pro Kilowattstunde.
-- 1.2 :: Die Höhe der Marktprämie nach § 27 Absatz 1 in Verbindung mit § 23a des Erneuerbare-Energien-Gesetzes (MP“) in Cent pro Kilowattstunde direkt vermarkteten und tatsächlich eingespeisten Stroms wird nach der folgenden Formel berechnet:
+  - -- :: „MP_{Kooperationsstaat}“ die Höhe der Marktprämie nach § 27 Absatz 2 in Verbindung mit § 23a des Erneuerbare-Energien-Gesetzes in Cent pro Kilowattstunde,
+  - -- :: „AW“ der anzulegende Wert nach den §§ 20 und 25,
+  - -- :: „MW_{Kooperationsstaat}“ der jeweilige Monatsmarktwert in Cent pro Kilowattstunde.
+- 1.2 :: Die Höhe der Marktprämie nach § 27 Absatz 1 in Verbindung mit § 23a des Erneuerbare-Energien-Gesetzes („MP“) in Cent pro Kilowattstunde direkt vermarkteten und tatsächlich eingespeisten Stroms wird nach der folgenden Formel berechnet:
   MP_{Kooperationsstaat} = AW -- MW_{Kooperationsstaat}.
-  Ergibt sich bei der Berechnung ein Wert kleiner null, wird abweichend von Satz 1 der Wert MP_{Kooperationsstaat}“ mit dem Wert null festgesetzt.
+  Ergibt sich bei der Berechnung ein Wert kleiner null, wird abweichend von Satz 1 der Wert „MP_{Kooperationsstaat}“ mit dem Wert null festgesetzt.
 
 - 2.1 :: Energieträgerspezifischer Monatsmarktwert
-  Als Wert MW_{Kooperationsstaat}“ in Cent pro Kilowattstunde ist anzulegen bei direkt vermarktetem Strom aus
-  - -- :: Windenergieanlagen an Land der Wert MW_{Wind an Land/Kooperationsstaat}“,
-  - -- :: Solaranlagen der Wert MW_{Solar/Kooperationsstaat}“.
+  Als Wert „MW_{Kooperationsstaat}“ in Cent pro Kilowattstunde ist anzulegen bei direkt vermarktetem Strom aus
+  - -- :: Windenergieanlagen an Land der Wert „MW_{Wind an Land/Kooperationsstaat}“,
+  - -- :: Solaranlagen der Wert „MW_{Solar/Kooperationsstaat}“.
 - 2.2 :: Windenergie an Land
-  MW_{Wind an Land/Kooperationsstaat}“ ist der tatsächliche Monatsmittelwert des Marktwerts von Strom aus Windenergieanlagen an Land am Spotmarkt der Strombörse für die jeweilige Preiszone des Kooperationsstaats in Cent pro Kilowattstunde. Dieser Wert wird wie folgt berechnet:
+  „MW_{Wind an Land/Kooperationsstaat}“ ist der tatsächliche Monatsmittelwert des Marktwerts von Strom aus Windenergieanlagen an Land am Spotmarkt der Strombörse für die jeweilige Preiszone des Kooperationsstaats in Cent pro Kilowattstunde. Dieser Wert wird wie folgt berechnet:
 - 2.2.1 :: Für jede Stunde eines Kalendermonats wird der durchschnittliche Wert der Stundenkontrakte am Spotmarkt der Strombörse für die jeweilige Preiszone des Kooperationsstaats mit der Menge des in dieser Stunde nach der Online-Hochrechnung nach Anlage 1 Nummer 3.1 des Erneuerbare-Energien-Gesetzes erzeugten Stroms aus Windenergieanlagen an Land multipliziert.
 - 2.2.2 :: Die Ergebnisse für alle Stunden dieses Kalendermonats werden summiert.
 - 2.2.3. :: Diese Summe wird dividiert durch die Menge des in dem gesamten Kalendermonat nach der Online-Hochrechnung nach Anlage 1 Nummer 3.1 des Erneuerbare-Energien-Gesetzes erzeugten Stroms aus Windenergieanlagen an Land.
 - 2.3 :: Solare Strahlungsenergie
-  MW_{Solar/Kooperationsstaat}“ ist der tatsächliche Monatsmittelwert des Marktwerts von Strom aus Solaranlagen am Spotmarkt der Strombörse für die jeweilige Preiszone des Kooperationsstaats in Cent pro Kilowattstunde. Für die Berechnung von MW_{Solar/Kooperationsstaat}“ sind die Nummern 2.2.1 bis 2.2.3 mit der Maßgabe anzuwenden, dass statt des nach der Online-Hochrechnung nach Anlage 1 Nummer 3.1 des Erneuerbare-Energien-Gesetzes erzeugten Stroms von Windenergieanlagen an Land der nach der Online-Hochrechnung nach Nummer 3.1 erzeugte Strom aus Solaranlagen zugrunde zu legen ist.
+  „MW_{Solar/Kooperationsstaat}“ ist der tatsächliche Monatsmittelwert des Marktwerts von Strom aus Solaranlagen am Spotmarkt der Strombörse für die jeweilige Preiszone des Kooperationsstaats in Cent pro Kilowattstunde. Für die Berechnung von „MW_{Solar/Kooperationsstaat}“ sind die Nummern 2.2.1 bis 2.2.3 mit der Maßgabe anzuwenden, dass statt des nach der Online-Hochrechnung nach Anlage 1 Nummer 3.1 des Erneuerbare-Energien-Gesetzes erzeugten Stroms von Windenergieanlagen an Land der nach der Online-Hochrechnung nach Nummer 3.1 erzeugte Strom aus Solaranlagen zugrunde zu legen ist.
 
 - 3.1 :: Eine vom Kooperationsstaat in der völkerrechtlichen Vereinbarung benannte Stelle muss bis zum Ablauf des fünfzehnten Werktags des Folgemonats auf einer Internetseite, auf drei Stellen nach dem Komma gerundet, folgende Daten in nicht personenbezogener Form veröffentlichen:
   - a) :: den Wert der Stundenkontrakte am Spotmarkt der nach § 27 Absatz 1 festgelegten Strombörse für die Preiszone des Kooperationsstaates für jeden Kalendertag in stündlicher Auflösung,
-  - b) :: den Wert MW_{Wind an Land/Kooperationsstaat}“ nach Maßgabe der Nummer 2.2,
-  - c) :: den Wert MW_{Solar/Kooperationsstaat}“ nach Maßgabe der Nummer 2.3.
+  - b) :: den Wert „MW_{Wind an Land/Kooperationsstaat}“ nach Maßgabe der Nummer 2.2,
+  - c) :: den Wert „MW_{Solar/Kooperationsstaat}“ nach Maßgabe der Nummer 2.3.
 
   Die Internetseite wird auf der Internetseite der Bundesnetzagentur bei der Bekanntgabe der Ausschreibung nach § 5 angegeben.
 - 3.2 :: Soweit die Daten nach Nummer 3.1 nicht bis zum Ablauf des fünfzehnten Werktags des Folgemonats verfügbar sind, sind sie unverzüglich in nicht personenbezogener Form auf der Internetseite nach Nummer 3.1 Satz 2 zu veröffentlichen, sobald sie verfügbar sind.

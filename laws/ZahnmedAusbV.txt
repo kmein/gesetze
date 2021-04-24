@@ -152,7 +152,7 @@ Zu vermittelnde Fertigkeiten und Kenntnisse
 3
 1.
 Der Ausbildungsbetrieb (§ 3 Nr. 1)
-
+ 
 1.1
 Stellung der Zahnarztpraxis im Gesundheitswesen (§ 3 Nr. 1.1)
 a)
@@ -218,7 +218,7 @@ d)
 Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 2.
 Durchführen von Hygienemaßnahmen (§ 3 Nr. 2)
-
+ 
 2.1
 Infektionskrankheiten (§ 3 Nr. 2.1)
 a)
@@ -241,7 +241,7 @@ e)
 kontaminierte Materialien und Abfälle erfassen, sammeln, wiederaufbereiten und entsorgen
 3.
 Arbeitsorganisation Qualitätsmanagement (§ 3 Nr. 3)
-
+ 
 3.1
 Arbeiten im Team (§ 3 Nr. 3.1)
 a)
@@ -270,7 +270,7 @@ g)
 Terminplanung zur Praxisorganisation erstellen und überwachen, insbesondere zu vorgeschriebenen Prüf-, Überwachungs- und Informationsterminen
 4.
 Kommunikation, Information und Datenschutz (§ 3 Nr. 4)
-
+ 
 4.1
 Kommunikationsformen und -methoden (§ 3 Nr. 4.1)
 a)
@@ -343,7 +343,7 @@ g)
 bei lokalen Fluoridierungsmaßnahmen mitwirken
 7.
 Durchführen begleitender Maßnahmen bei der Diagnostik und Therapie unter Anleitung und Aufsicht des Zahnarztes (§ 3 Nr. 7)
-
+ 
 7.1
 Assistenz bei der zahnärztlichen Behandlung (§ 3 Nr. 7.1)
 a)
@@ -396,7 +396,7 @@ f)
 Rettungsdienst alarmieren
 9.
 Praxisorganisation und -verwaltung (§ 3 Nr. 9)
-
+ 
 9.1
 Praxisabläufe (§ 3 Nr. 9.1)
 a)

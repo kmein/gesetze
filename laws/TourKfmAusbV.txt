@@ -156,7 +156,7 @@ Zu vermittelnde Fertigkeiten und Kenntnisse
 3
 1
 Der Ausbildungsbetrieb (§ 5 Abs. 1 Nr. 1)
-
+ 
 1.1
 Stellung, Rechtsform und Struktur des Ausbildungsbetriebes (§ 5 Abs. 1 Nr. 1.1)
 a)
@@ -208,7 +208,7 @@ d)
 Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 2
 Arbeitsorganisation, Informations- und Kommunikationssysteme (§ 5 Abs. 1 Nr. 2)
-
+ 
 2.1
 Arbeitsorganisation (§ 5 Abs. 1 Nr. 2.1)
 a)
@@ -247,7 +247,7 @@ b)
 Daten schützen und sichern
 3
 Kommunikation und Kooperation (§ 5 Abs. 1 Nr. 3)
-
+ 
 3.1
 Kundenorientierte Kommunikation, Kundenbetreuung (§ 5 Abs. 1 Nr. 3.1)
 a)
@@ -288,7 +288,7 @@ c)
 Auskünfte erteilen und einholen, auch in einer fremden Sprache
 4
 Betriebliche Organisation (§ 5 Abs. 1 Nr. 4)
-
+ 
 4.1
 Betriebliche Ablauforganisation (§ 5 Abs. 1 Nr. 4.1)
 a)
@@ -313,7 +313,7 @@ e)
 bei Mängeln von Lieferungen und Leistungen betriebsübliche Maßnahmen durchführen
 5
 Leistungsangebot (§ 5 Abs. 1 Nr. 5)
-
+ 
 5.1
 Destination und Region (§ 5 Abs. 1 Nr. 5.1)
 a)
@@ -348,7 +348,7 @@ d)
 die Qualität von Fremdleistungen bewerten
 6
 Veranstaltungen (§ 5 Abs. 1 Nr. 6)
-
+ 
 6.1
 Veranstaltungskonzeption (§ 5 Abs. 1 Nr. 6.1)
 a)
@@ -371,7 +371,7 @@ d)
 Dokumentationen erstellen und Erfolgskontrollen durchführen
 7
 Marketing (§ 5 Abs. 1 Nr. 7)
-
+ 
 7.1
 Marktanalyse und -beobachtung (§ 5 Abs. 1 Nr. 7.1)
 a)
@@ -408,7 +408,7 @@ e)
 betriebliche Buchungs- und Reservierungssysteme anwenden
 8
 Kaufmännische Steuerung und Kontrolle (§ 5 Abs. 1 Nr. 8)
-
+ 
 8.1
 Betriebliches Rechnungswesen (§ 5 Abs. 1 Nr. 8.1)
 a)
@@ -446,7 +446,7 @@ Zu vermittelnde Fertigkeiten und Kenntnisse
 3
 1
 Gewährleistung der Funktionsfähigkeit von Tourismus- und Freizeiteinrichtungen (§ 5 Abs. 2 Nr. 1)
-
+ 
 1.1
 Betriebssicherheit (§ 5 Abs. 2 Nr. 1.1)
 a)
@@ -477,7 +477,7 @@ d)
 Arbeitsgeräte und Werkzeuge zur Pflege und Wartung nach Funktionalität und Einsatzmöglichkeiten beurteilen
 2
 Gestaltung der Destination (§ 5 Abs. 2 Nr. 2)
-
+ 
 2.1
 Destinationsprofil (§ 5 Abs. 2 Nr. 2.1)
 a)

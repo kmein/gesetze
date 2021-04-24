@@ -498,9 +498,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 \\
 Kontenrahmen für die Buchführung\\
 (Kontenklasse 0 - 8)
-
+ 
 Kontenklasse 0: Ausstehende Einlagen und Anlagevermögen
-
+ 
 01
 Grundstücke und grundstücksgleiche Rechte mit Betriebsbauten
 010
@@ -509,10 +509,10 @@ Bebaute Grundstücke
 Betriebsbauten
 012
 Außenanlagen
-
+ 
 02
 frei
-
+ 
 03
 Grundstücke und grundstücksgleiche Rechte mit Wohnbauten
 030
@@ -521,10 +521,10 @@ Bebaute Grundstücke
 Wohnbauten
 032
 Außenanlagen
-
+ 
 04
 Grundstücke und grundstücksgleiche Rechte ohne Bauten
-
+ 
 05
 Bauten auf fremden Grundstücken
 050
@@ -535,7 +535,7 @@ frei
 Wohnbauten
 053
 Außenanlagen
-
+ 
 06
 Technische Anlagen
 060
@@ -546,7 +546,7 @@ frei
 in Wohnbauten
 063
 in Außenanlagen
-
+ 
 07
 Einrichtungen und Ausstattungen
 070
@@ -567,7 +567,7 @@ Festwerte in Betriebsbauten
 frei
 079
 Festwerte in Wohnbauten
-
+ 
 08
 Anlagen im Bau und Anzahlungen auf Anlagen
 080
@@ -576,7 +576,7 @@ Betriebsbauten
 frei
 082
 Wohnbauten
-
+ 
 09
 Immaterielle Vermögensgegenstände, Beteiligungen und andere Finanzanlagen
 090
@@ -601,9 +601,9 @@ Ausleihungen an Unternehmen, mit denen ein Beteiligungsverhältnis besteht *)
 Wertpapiere des Anlagevermögens
 097
 Sonstige Finanzanlagen
-
+ 
 Kontenklasse 1: Umlaufvermögen, Rechnungsabgrenzung
-
+ 
 10
 Vorräte
 100
@@ -622,30 +622,30 @@ Sonstige Roh-, Hilfs- und Betriebsstoffe
 Unfertige Erzeugnisse, unfertige Leistungen
 107
 Fertige Erzeugnisse, Waren
-
+ 
 11
 Geleistete Anzahlungen\\
 (soweit nicht in Kontengruppe 08 auszuweisen)
-
-
+ 
+ 
 12
 Forderungen aus Lieferungen und Leistungen
-
+ 
 13
 Schecks, Kassenbestand, Bundesbank- und Postgiroguthaben, Guthaben bei Kreditinstituten
-
+ 
 14
 Wertpapiere des Umlaufvermögens
 140
 Anteile an verbundenen Unternehmen *)
-
+ 
 15
 Forderungen nach dem Krankenhausfinanzierungsrecht
 150
 Forderungen nach dem KHG
 151
 Forderungen nach der Bundespflegesatzverordnung
-
+ 
 16
 Sonstige Vermögensgegenstände
 160
@@ -658,30 +658,30 @@ Forderungen gegen Unternehmen, mit denen ein Beteiligungsverhältnis besteht *)
 Andere sonstige Vermögensgegenstände
 164
 Eingefordertes, noch nicht eingezahltes Kapital
-
+ 
 17
 Rechnungsabgrenzung
 170
 Disagio
 171
 Andere Abgrenzungsposten
-
+ 
 18
 Ausgleichsposten nach dem KHG
 180
 Ausgleichsposten aus Darlehensförderung
 181
 Ausgleichsposten für Eigenmittelförderung
-
+ 
 19
 Aktive latente Steuern, Aktiver Unterschiedsbetrag aus der Vermögensverrechnung
 190
 Aktive latente Steuern
 191
 Aktiver Unterschiedsbetrag aus der Vermögensverrechnung
-
+ 
 Kontenklasse 2: Eigenkapital, Sonderposten, Rückstellungen
-
+ 
 20
 Eigenkapital
 200
@@ -700,59 +700,59 @@ Gewinnrücklagen
 Gewinnvortrag/Verlustvortrag
 204
 Jahresüberschuß/Jahresfehlbetrag
-
+ 
 21
 Sonderposten aus Zuwendungen Dritter
-
+ 
 22
 Sonderposten aus Fördermitteln nach dem KHG
-
+ 
 23
 Sonderposten aus Zuweisungen und Zuschüssen der öffentlichen Hand
-
+ 
 24
 Ausgleichsposten aus Darlehensförderung
-
+ 
 27
 Pensionsrückstellungen
-
+ 
 28
 Andere Rückstellungen
 280
 Steuerrückstellungen
 281
 Sonstige Rückstellungen
-
+ 
 29
 frei
-
+ 
 Kontenklasse 3: Verbindlichkeiten, Rechnungsabgrenzung
-
+ 
 30
 frei für spätere Entwicklungen
-
+ 
 31
 frei für spätere Entwicklungen
-
+ 
 32
 Verbindlichkeiten aus Lieferungen und Leistungen
-
+ 
 33
 Verbindlichkeiten aus der Annahme gezogener Wechsel und der Ausstellung eigener Wechsel
-
+ 
 34
 Verbindlichkeiten gegenüber Kreditinstituten
-
+ 
 35
 Verbindlichkeiten nach dem Krankenhausfinanzierungsrecht
 350
 Verbindlichkeiten nach dem KHG
 351
 Verbindlichkeiten nach der Bundespflegesatzverordnung
-
+ 
 36
 Erhaltene Anzahlungen
-
+ 
 37
 Sonstige Verbindlichkeiten
 370
@@ -765,15 +765,15 @@ Verbindlichkeiten gegenüber verbundenen Unternehmen *)
 Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht *)
 374
 Andere sonstige Verbindlichkeiten
-
+ 
 38
 Rechnungsabgrenzung
-
+ 
 39
 Passive latente Steuern
-
+ 
 Kontenklasse 4: Betriebliche Erträge
-
+ 
 40
 Erlöse aus Krankenhausleistungen
 400
@@ -806,7 +806,7 @@ Erlöse aus Ausbildungskostenumlage
 Ausgleichsbeträge nach BPflV
 405
 Zuschlag nach § 18b KHG
-
+ 
 41
 Erlöse aus Wahlleistungen
 410
@@ -815,7 +815,7 @@ Erlöse aus wahlärztlichen Leistungen
 Erlöse aus gesondert berechneter Unterkunft
 413
 Erlöse aus sonstigen nichtärztlichen Wahlleistungen
-
+ 
 42
 Erlöse aus ambulanten Leistungen des Krankenhauses
 420
@@ -824,7 +824,7 @@ Erlöse aus Krankenhausambulanzen
 Erlöse aus Chefarztambulanzen einschließl. Sachkosten
 422
 Erlöse aus ambulanten Operationen nach § 115b SGB V
-
+ 
 43
 Nutzungsentgelte (Kostenerstattung und Vorteilsausgleich) und sonstige Abgaben der Ärzte
 430
@@ -837,7 +837,7 @@ Nutzungsentgelte der Belegärzte
 Nutzungsentgelte für Gutachtertätigkeit u.ä.
 435
 Nutzungsentgelte für die anteilige Abschreibung medizinisch-technischer Großgeräte
-
+ 
 44
 Rückvergütungen, Vergütungen und Sachbezüge
 440
@@ -848,7 +848,7 @@ Erstattungen des Personals für Unterkunft
 Erstattungen des Personals für Verpflegung
 443
 Erstattungen des Personals für sonstige Leistungen
-
+ 
 45
 Erträge aus Hilfs- und Nebenbetrieben, Notarztdienst
 450
@@ -857,14 +857,14 @@ aus Hilfsbetrieben
 aus Nebenbetrieben
 452
 aus der Bereitstellung von Krankenhausärzten für den Notarztdienst
-
+ 
 46
 Erträge aus Fördermitteln nach dem KHG
 460
 Fördermittel, die zu passivieren sind
 461
 Sonstige Fördermittel
-
+ 
 47
 Zuweisungen und Zuschüsse der öffentlichen Hand sowie Zuwendungen Dritter
 470
@@ -875,10 +875,10 @@ Zuwendungen Dritter zur Finanzierung von Investitionen
 Zuweisungen und Zuschüsse der öffentlichen Hand zur Finanzierung laufender Aufwendungen
 473
 Zuwendungen Dritter zur Finanzierung laufender Aufwendungen
-
+ 
 48
 Erträge aus der Einstellung von Ausgleichsposten aus Darlehensförderung und für Eigenmittelförderung
-
+ 
 49
 Erträge aus der Auflösung von Sonderposten, Verbindlichkeiten nach dem KHG und Ausgleichsposten aus Darlehensförderung
 490
@@ -887,9 +887,9 @@ aus der Auflösung von Sonderposten aus Fördermitteln nach dem KHG, zweckentspr
 aus der Auflösung von Sonderposten aus Zuweisungen und Zuschüssen der öffentlichen Hand
 492
 aus der Auflösung von Ausgleichsposten aus Darlehensförderung
-
+ 
 Kontenklasse 5: Andere Erträge
-
+ 
 50
 Erträge aus Beteiligungen und anderen Finanzanlagen
 500
@@ -900,12 +900,12 @@ Erträge aus Beteiligungen an verbundenen Unternehmen *)
 Erträge aus anderen Finanzanlagen
 5010
 Erträge aus anderen Finanzanlagen in verbundenen Unternehmen *)
-
+ 
 51
 Sonstige Zinsen und ähnliche Erträge
 510
 Sonstige Zinsen und ähnliche Erträge aus verbundenen Unternehmen *)
-
+ 
 52
 Erträge aus dem Abgang von Gegenständen des Anlagevermögens und aus Zuschreibungen zu Gegenständen des Anlagevermögens
 520
@@ -914,13 +914,13 @@ Sachanlagevermögen
 Finanzanlagevermögen
 5210
 Finanzanlagen in verbundenen Unternehmen *)
-
+ 
 53
 frei
-
+ 
 54
 Erträge aus der Auflösung von Rückstellungen
-
+ 
 55
 Bestandsveränderungen und andere aktivierte Eigenleistungen
 550
@@ -929,16 +929,16 @@ Bestandsveränderungen der fertigen und unfertigen Erzeugnisse
 Bestandsveränderungen der unfertigen Leistungen
 552
 Andere aktivierte Eigenleistungen
-
+ 
 56
 frei
-
+ 
 57
 Sonstige Erträge
-
+ 
 58
 Erträge aus Ausgleichsbeträgen für frühere Geschäftsjahre
-
+ 
 59
 Übrige Erträge
 590
@@ -947,9 +947,9 @@ Erträge aus Ausgleichsbeträgen für frühere Geschäftsjahre
 Periodenfremde Erträge
 592
 Spenden und ähnliche Zuwendungen
-
+ 
 Kontenklasse 6: Aufwendungen
-
+ 
 60
 Löhne und Gehälter
 6000
@@ -976,30 +976,30 @@ Personal der Ausbildungsstätten
 Sonstiges Personal
 6012
 Nicht zurechenbare Personalkosten
-
+ 
 61
 Gesetzliche Sozialabgaben\\
 (Aufteilung wie 6000 - 6012)
-
+ 
 62
 Aufwendungen für Altersversorgung\\
 (Aufteilung wie 6000 - 6012)
-
+ 
 63
 Aufwendungen für Beihilfen und Unterstützungen\\
 (Aufteilung wie 6000 - 6012)
-
+ 
 64
 Sonstige Personalaufwendungen\\
 (Aufteilung wie 6000 - 6012)
-
+ 
 65
 Lebensmittel und bezogene Leistungen
 650
 Lebensmittel
 651
 Bezogene Leistungen
-
+ 
 66
 Medizinischer Bedarf
 6600
@@ -1038,32 +1038,32 @@ Kosten für Krankentransporte (soweit nicht Durchlaufposten)
 Sonstiger medizinischer Bedarf
 6618
 Honorare für nicht im Krankenhaus angestellte Ärzte
-
+ 
 67
 Wasser, Energie, Brennstoffe
-
+ 
 68
 Wirtschaftsbedarf
 680
 Materialaufwendungen
 681
 Bezogene Leistungen
-
+ 
 69
 Verwaltungsbedarf
-
+ 
 Kontenklasse 7: Aufwendungen
-
+ 
 70
 Aufwendungen für zentrale Dienstleistungen
 700
 Zentraler Verwaltungsdienst
 701
 Zentraler Gemeinschaftsdienst
-
+ 
 71
 Wiederbeschaffte Gebrauchsgüter (soweit Festwerte gebildet wurden)
-
+ 
 72
 Instandhaltung
 720
@@ -1076,7 +1076,7 @@ Instandhaltung Medizintechnik
 Instandhaltung Sonstiges
 721
 Nicht aktivierungsfähige, nach dem KHG geförderte Maßnahmen
-
+ 
 73
 Steuern, Abgaben, Versicherungen
 730
@@ -1085,7 +1085,7 @@ Steuern
 Sonstige Abgaben
 732
 Versicherungen
-
+ 
 74
 Zinsen und ähnliche Aufwendungen
 740
@@ -1094,7 +1094,7 @@ Zinsen und ähnliche Aufwendungen für Betriebsmittelkredite
 Zinsen und ähnliche Aufwendungen an verbundene Unternehmen
 742
 Zinsen und ähnliche Aufwendungen für sonstiges Fremdkapital
-
+ 
 75
 Auflösung von Ausgleichsposten und Zuführungen der Fördermittel nach dem KHG zu Sonderposten oder Verbindlichkeiten
 750
@@ -1109,7 +1109,7 @@ Zuführung zu Ausgleichsposten aus Darlehensförderung
 Zuführung von Zuweisungen oder Zuschüssen der öffentlichen Hand zu Sonderposten oder Verbindlichkeiten (soweit nicht unter KUGr. 752)
 755
 Zuführung der Nutzungsentgelte aus anteiligen Abschreibungen medizinisch-technischer Großgeräte zu Verbindlichkeiten nach dem KHG
-
+ 
 76
 Abschreibungen
 760
@@ -1126,10 +1126,10 @@ Abschreibungen auf Forderungen
 Abschreibungen auf sonstige Vermögensgegenstände
 765
 Abschreibungen auf Vermögensgegenstände des Umlaufvermögens, soweit diese die im Krankenhaus üblichen Abschreibungen überschreiten
-
+ 
 77
 Aufwendungen für die Nutzung von Anlagegütern nach § 9 Abs. 2 Nr. 1 KHG
-
+ 
 78
 Sonstige Aufwendungen
 781
@@ -1138,7 +1138,7 @@ Sachaufwand der Ausbildungsstätten
 Sonstiges
 7821
 Aufwendungen aus Ausbildungsstätten-Umlage nach § 15 Abs. 3 BPflV
-
+ 
 79
 Übrige Aufwendungen
 790
@@ -1151,43 +1151,43 @@ Aufwendungen aus dem Abgang von Gegenständen des Anlagevermögens
 Periodenfremde Aufwendungen
 794
 Spenden und ähnliche Aufwendungen
-
+ 
 Kontenklasse 8:
-
+ 
 80
 frei
-
+ 
 81
 frei
-
+ 
 82
 frei
-
+ 
 83
 frei
-
+ 
 84
 frei
-
+ 
 85
 Eröffnungs- und Abschlußkonten
-
+ 
 86
 Abgrenzung der Erträge, die nicht in die Kostenrechnung eingehen
-
+ 
 87
 Abgrenzung der Aufwendungen, die nicht in die Kostenrechnung eingehen
-
+ 
 88
 Kalkulatorische Kosten
-
+ 
 89
 frei
-
+ 
 Zuordnungsvorschriften zum Kontenrahmen
 Kontengruppe, -untergruppe bzw. Konto
 
-
+ 
 
 03 und 052
 
@@ -1204,7 +1204,7 @@ Die Fördermittel sind mit Eingang des entsprechenden Bewilligungsbescheides als
 
 Bei einem nicht in der Rechtsform der Kapitalgesellschaft geführten Krankenhaus ist das Konto im Einklang mit § 5 Absatz 6 entsprechend anzupassen.
 
-
+ 
 
 60
 
@@ -1212,20 +1212,20 @@ Vergütungen für Überstunden, Bereitschaftsdienst und Rufbereitschaft, Zuschl�
 Aufwendungen für fremdes Personal sind den Konten zuzuordnen, die in Anlage 2 in den Klammerhinweisen unter Nr. 10 Buchstabe b "Aufwendungen für bezogene Leistungen" oder unter Nr. 20 "sonstige betriebliche Aufwendungen" genannt sind.\\
 Kosten für Fremdleistungen sind als Sachkosten bei der Kontengruppe 70 zu buchen.
 
-
+ 
 
 6000
 
 Vergütung an alle Ärzte. Vergütung an Ärzte im Praktikum, soweit diese auf die Besetzung im Ärztlichen Dienst angerechnet werden. An fremde Ärzte gezahlte Honorare sind dem Konto 6618 zuzuordnen.
 
-
+ 
 
 6001
 
 Vergütung an die Pflegedienstleitung und an Pflege- und Pflegehilfspersonal im stationären Bereich (Dienst am Krankenbett). Dazu gehören auch Pflegekräfte in Intensivpflege- und -behandlungseinheiten sowie Dialysestationen, ferner Vergütungen an Schüler und Stationssekretärinnen, soweit diese auf die Besetzung der Stationen mit Pflegepersonal angerechnet werden (siehe auch Konto 6011 "Sonstiges Personal").\\
 Vergütungen für Pflegepersonal, das im medizinisch-technischen Dienst, Funktionsdienst, Wirtschafts- und Versorgungsdienst oder Verwaltungsdienst eingesetzt wird, sind auf die entsprechenden Konten (6002, 6003, 6005 und 6007) zu buchen.
 
-
+ 
 
 6002
 
@@ -1307,7 +1307,7 @@ Bäder- und Massageabteilungen, elektrophysikalische\\
 Abteilungen, Sehschulen, Sprachschulen,\\
 Körperprüfabteilungen usw.
 
-
+ 
 
 6003
 
@@ -1341,7 +1341,7 @@ Beschäftigungstherapeuten (einschließlich Arbeitstherapeuten)
 
 Personal der Zentralsterilisation
 
-
+ 
 
 6004
 
@@ -1349,7 +1349,7 @@ Vergütungen an
 
 Haus- und Reinigungspersonal der Kliniken und Stationen
 
-
+ 
 
 6005
 
@@ -1371,7 +1371,7 @@ Zentrale Bettenaufbereitung\\
 Personal, das mit Verwaltungsarbeit beschäftigt ist, muß bei\\
 Konto 6007 ausgewiesen werden.
 
-
+ 
 
 6006
 
@@ -1383,7 +1383,7 @@ Technische Servicezentren\\
 Technische Zentralen\\
 Instandhaltung, z.B. Maler, Tapezierer und sonstige Handwerker
 
-
+ 
 
 6007
 
@@ -1423,7 +1423,7 @@ Verwaltungsschreibkräfte
 
 Wirtschaftsabteilung
 
-
+ 
 
 6008 EUR
 
@@ -1443,7 +1443,7 @@ Krankenhausfürsorger
 
 Mitarbeiter, die zur Betreuung des Personals und der Personalkinder eingesetzt sind
 
-
+ 
 
 6010 EUR
 
@@ -1457,7 +1457,7 @@ fest eingestellter Lehrkräfte, sind dem Sachaufwand der
 
 Ausbildungsstätten (KUGr. 781) zuzuordnen.
 
-
+ 
 
 6011 EUR
 
@@ -1473,7 +1473,7 @@ Vorschülerinnen\\
 Praktikantinnen und Praktikanten jeglicher Art, soweit nicht auf den Stellenplan einzelner Dienstarten angerechnet\\
 Taschengelder und ähnliche Zuwendungen
 
-
+ 
 
 61
 
@@ -1481,7 +1481,7 @@ Taschengelder und ähnliche Zuwendungen
 
 Hier sind die Arbeitgeberanteile zur Kranken-, Renten- und Arbeitslosenversicherung sowie die Beiträge zur gesetzlichen Unfallversicherung zu buchen. In ihrer Höhe gesetzlich festgelegte Arbeitnehmeranteile, die ganz oder teilweise vom Arbeitgeber übernommen werden, sind als Löhne und Gehälter zu behandeln.
 
-
+ 
 
 62
 
@@ -1490,13 +1490,13 @@ Hier sind die Arbeitgeberanteile zur Kranken-, Renten- und Arbeitslosenversicher
 Hier sind nur die Aufwendungen für Altersversorgung, und zwar Beiträge zu Ruhegehalts- und Zusatzversorgungskassen sowie anderen Versorgungseinrichtungen, ferner Ruhegehälter für ehemalige Mitarbeiter des Krankenhauses zu buchen.\\
 Alle übrigen freiwilligen Sozialleistungen gehören - soweit es nicht Beihilfen und Unterstützungen sind - zu den sonstigen Personalaufwendungen.
 
-
+ 
 
 63
 
 (Aufteilung wie 6000 - 6012)
 
-
+ 
 
 64
 
@@ -1506,14 +1506,14 @@ Sonstige Personalaufwendungen, wie Erstattungen von Fahrtkosten zum
 
 Arbeitsplatz und freiwillige soziale Leistungen an die Mitarbeiter (freiwillige Weihnachtsgeschenke, Jubiläumsgeschenke und -zuwendungen, Zuschuß zum Mittagessen).
 
-
+ 
 
 6618
 
 Honorare für nicht am Krankenhaus angestellte Ärzte sind in der Gewinn- und Verlustrechnung der Nr. 10 Buchstabe b zuzuordnen.\\
 Im Kosten- und Leistungsnachweis werden diese Aufwendungen unter dem "sonstigen medizinischen Bedarf" ausgewiesen.
 
-
+ 
 
 - *) :: Nur für Kapitalgesellschaften.
 

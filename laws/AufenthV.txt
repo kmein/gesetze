@@ -373,7 +373,7 @@ Passersatzpapiere nach Satz 1 Nummer 3 und 4 werden mit einer Gültigkeitsdauer 
 - 2. :: den oder die Vornamen,
 - 3. :: Doktorgrad,
 - 4. :: Tag und Ort der Geburt,
-- 5. :: Geschlecht mit der Abkürzung F“ für Personen weiblichen Geschlechts, M“ für Personen männlichen Geschlechts und X“ in allen anderen Fällen,
+- 5. :: Geschlecht mit der Abkürzung „F“ für Personen weiblichen Geschlechts, „M“ für Personen männlichen Geschlechts und „X“ in allen anderen Fällen,
 - 6. :: Größe,
 - 7. :: Farbe der Augen,
 - 8. :: Wohnort,
@@ -383,14 +383,14 @@ Auf Antrag kann der Passersatz nach Absatz 1 Satz 1 Nummer 1, 3 und 4 bei einer 
 
 (3) Passersatzpapiere nach Absatz 1 Satz 1 Nummer 1, 3 und 4 enthalten eine Zone für das automatische Lesen. Diese darf lediglich enthalten:
 
-- 1. :: die Abkürzung PT“ für Passtyp von Passersatzpapieren nach Absatz 1 Satz 1 Nummer 1, 3 und 4 einschließlich vorläufiger Passersatzpapiere,
-- 2. :: die Abkürzung D“ für Bundesrepublik Deutschland,
+- 1. :: die Abkürzung „PT“ für Passtyp von Passersatzpapieren nach Absatz 1 Satz 1 Nummer 1, 3 und 4 einschließlich vorläufiger Passersatzpapiere,
+- 2. :: die Abkürzung „D“ für Bundesrepublik Deutschland,
 - 3. :: den Familiennamen,
 - 4. :: den oder die Vornamen,
 - 5. :: die Seriennummer des Passersatzes, die sich aus der Behördenkennzahl der Ausländerbehörde und einer zufällig zu vergebenden Passersatznummer zusammensetzt, die neben Ziffern auch Buchstaben enthalten kann und bei vorläufigen Passersatzpapieren aus einem Serienbuchstaben und sieben Ziffern besteht,
 - 6. :: die Abkürzung der Staatsangehörigkeit,
 - 7. :: den Tag der Geburt,
-- 8. :: die Abkürzung F“ für Passersatzpapierinhaber weiblichen Geschlechts, M“ für Passersatzpapierinhaber männlichen Geschlechts und das Zeichen <“ in allen anderen Fällen,
+- 8. :: die Abkürzung „F“ für Passersatzpapierinhaber weiblichen Geschlechts, „M“ für Passersatzpapierinhaber männlichen Geschlechts und das Zeichen „<“ in allen anderen Fällen,
 - 9. :: die Gültigkeitsdauer des Passersatzes,
 - 9a. :: die Versionsnummer des Dokumentenmusters,
 - 10. :: die Prüfziffern und
@@ -884,23 +884,23 @@ An Gebühren sind zu erheben\\
 \\
 1.
 für die Erteilung einer Aufenthaltserlaubnis, einer Blauen Karte EU oder einer ICT-Karte
-
-
+ 
+ 
 a)
 mit einer Geltungsdauer von bis zu einem Jahr
 100 Euro,
-
+ 
 b)
 mit einer Geltungsdauer von mehr als einem Jahr
 100 Euro,
 2.
 für die Verlängerung einer Aufenthaltserlaubnis, einer Blauen Karte EU oder einer ICT-Karte
-
-
+ 
+ 
 a)
 für einen weiteren Aufenthalt von bis zu drei Monaten
 96 Euro,
-
+ 
 b)
 für einen weiteren Aufenthalt von mehr als drei Monaten
 93 Euro,
@@ -950,11 +950,11 @@ für die Verlängerung einer Mobiler-ICT-Karte
 (2) Die Gebührenhöhe beträgt
 
 - 1. :: | für die Erteilung eines\\            | 75 Euro, |
-        | nationalen Visums (Kategorie D“),\\ |          |
+        | nationalen Visums (Kategorie „D“),\\ |          |
         | auch für mehrmalige Einreisen        |          |
 
 - 2. :: | für die Verlängerung eines\\      | 25 Euro, |
-        | nationalen Visums (Kategorie D“) |          |
+        | nationalen Visums (Kategorie „D“) |          |
 
 - 3. :: | für die Verlängerung eines\\  | 60 Euro. |
         | Schengen-Visums im Bundes-\\  |          |
@@ -1003,7 +1003,7 @@ für einen Hinweis nach § 44a Abs. 3 Satz 1 des Aufenthaltsgesetzes in Form ein
 
 für die Ausstellung einer Bescheinigung über die Aussetzung der Abschiebung (§ 60a Abs. 4 des Aufenthaltsgesetzes)
 
-
+ 
 
 - a) :: nur als Klebeetikett
 
@@ -1017,7 +1017,7 @@ für die Ausstellung einer Bescheinigung über die Aussetzung der Abschiebung (�
 
 für die Erneuerung einer Bescheinigung nach § 60a Abs. 4 des Aufenthaltsgesetzes
 
-
+ 
 
 - a) :: nur als Klebeetikett
 
@@ -1119,23 +1119,23 @@ für die Verlängerung eines als vorläufiges Dokument (§ 4 Abs. 1 Satz 2) ausg
 20 Euro,
 3.
 für die Ausstellung einer Grenzgängerkarte (§ 12) mit einer Gültigkeitsdauer von
-
-
+ 
+ 
 a)
 bis zu einem Jahr
 61 Euro,
-
+ 
 b)
 bis zu zwei Jahren
 61 Euro,
 4.
 für die Verlängerung einer Grenzgängerkarte um
-
-
+ 
+ 
 a)
 bis zu einem Jahr
 35 Euro,
-
+ 
 b)
 bis zu zwei Jahren
 35 Euro,
@@ -1389,24 +1389,24 @@ Die nach den Mustern in den Anlagen D4c, D7a, D8a ausgestellten Passersatzpapier
 
 (1) Das Muster des Aufenthaltstitels nach § 4 Abs. 1 Satz 2 Nr. 1 des Aufenthaltsgesetzes (Visum) richtet sich nach der Verordnung (EG) Nr. 1683/95 des Rates vom 29. Mai 1995 über eine einheitliche Visagestaltung (ABl. EG Nr. L 164 S. 1), zuletzt geändert durch die Verordnung (EG) Nr. 856/2008 (ABl. L 235 vom 2.9.2008, S. 1), in der jeweils geltenden Fassung. Es ist in Anlage D13a abgedruckt. Für die Verlängerung im Inland ist das in Anlage D13b abgedruckte Muster zu verwenden.
 (2) Die Muster der Aufenthaltstitel, die nach § 78 Absatz 1 des Aufenthaltsgesetzes als eigenständige Dokumente mit elektronischem Speicher- und Verarbeitungsmedium auszustellen sind, sowie die Muster der Aufenthalts- und Daueraufenthaltskarten, Aufenthaltsdokumente-GB und Aufenthaltsdokumente für Grenzgänger-GB, die nach § 11 Absatz 3 Satz 1 des Freizügigkeitsgesetzes/EU in Verbindung mit § 78 Absatz 1 des Aufenthaltsgesetzes als Dokumente mit elektronischem Speicher- und Verarbeitungsmedium auszustellen sind, richten sich nach der Verordnung (EG) Nr. 1030/2002 des Rates zur einheitlichen Gestaltung des Aufenthaltstitels für Drittstaatenangehörige (ABl. L 157 vom 15.6.2002, S. 1) in der jeweils geltenden Fassung. Gleiches gilt für Aufenthaltserlaubnisse, die nach Maßgabe des Abkommens vom 21. Juni 1999 zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der Schweizerischen Eidgenossenschaft andererseits auf Antrag als Dokumente mit elektronischem Speicher- und Verarbeitungsmedium ausgestellt werden. Die Muster für Dokumente nach den Sätzen 1 und 2 sind in Anlage D14a abgedruckt. Aufenthaltstitel nach § 78 Absatz 1 in Verbindung mit § 4 Absatz 1 Satz 2 Nummer 4 des Aufenthaltsgesetzes, die gemäß dem bis zum 1. Dezember 2013 zu verwendenden Muster der Anlage D14a ausgestellt wurden, behalten ihre Gültigkeit.
-(3) Die Muster für Vordrucke der Aufenthaltstitel nach § 4 Absatz 1 Nummer 2 bis 4 des Aufenthaltsgesetzes richten sich im Fall des § 78a Absatz 1 Satz 1 des Aufenthaltsgesetzes nach der Verordnung (EG) Nr. 1030/2002. Sie sind in Anlage D14 abgedruckt. Bei der Niederlassungserlaubnis, der Erlaubnis zum Daueraufenthalt -- EU, der Blauen Karte EU, der ICT-Karte, der Mobiler-ICT-Karte und der Aufenthaltserlaubnis ist im Feld für Anmerkungen die für die Erteilung maEhem. Inh. der Blauen Karte EU“ einzutragen. Für die Erlaubnis zum Daueraufenthalt -- EU kann im Falle des § 78a Absatz 1 Satz 1 des Aufenthaltsgesetzes der Vordruck der Anlage D14 mit der Bezeichnung Daueraufenthalt-EG“ weiterverwendet werden.
-(4) In einer Aufenthaltserlaubnis, die nach § 18d Absatz 1 des Aufenthaltsgesetzes erteilt wird, oder in einem zu dieser Aufenthaltserlaubnis gehörenden Zusatzblatt nach den Anlagen D11 und D11a oder in dem Trägervordruck nach der Anlage D1 wird der Vermerk Forscher“ eingetragen. In einer Aufenthaltserlaubnis, die nach § 18f des Aufenthaltsgesetzes erteilt wird, oder in einem zu dieser Aufenthaltserlaubnis gehörenden Zusatzblatt nach den Anlagen D11 und D11a oder in dem Trägervordruck nach der Anlage D1 wird der Vermerk Forscher-Mobilität“ eingetragen.
-(4a) In einer Aufenthaltserlaubnis, die nach § 16b Absatz 1 des Aufenthaltsgesetzes erteilt wird, oder in einem zu dieser Aufenthaltserlaubnis gehörenden Zusatzblatt nach den Anlagen D11 und D11a oder in dem Trägervordruck nach der Anlage D1 wird der Vermerk Student“ eingetragen.
-(4b) In einer Aufenthaltserlaubnis, die nach § 16e des Aufenthaltsgesetzes erteilt wird, oder in einem zu dieser Aufenthaltserlaubnis gehörenden Zusatzblatt nach den Anlagen D11 und D11a oder in dem Trägervordruck nach der Anlage D1 wird der Vermerk Praktikant“ eingetragen.
-(4c) In einer Aufenthaltserlaubnis, die nach § 19e des Aufenthaltsgesetzes erteilt wird, oder in einem zu dieser Aufenthaltserlaubnis gehörenden Zusatzblatt nach den Anlagen D11 und D11a oder in dem Trägervordruck nach der Anlage D1 wird der Vermerk Freiwilliger“ eingetragen.
+(3) Die Muster für Vordrucke der Aufenthaltstitel nach § 4 Absatz 1 Nummer 2 bis 4 des Aufenthaltsgesetzes richten sich im Fall des § 78a Absatz 1 Satz 1 des Aufenthaltsgesetzes nach der Verordnung (EG) Nr. 1030/2002. Sie sind in Anlage D14 abgedruckt. Bei der Niederlassungserlaubnis, der Erlaubnis zum Daueraufenthalt -- EU, der Blauen Karte EU, der ICT-Karte, der Mobiler-ICT-Karte und der Aufenthaltserlaubnis ist im Feld für Anmerkungen die für die Erteilung maßgebliche Rechtsgrundlage einzutragen. Bei Inhabern der Blauen Karte EU ist bei Erteilung der Erlaubnis zum Daueraufenthalt -- EU im Feld für Anmerkungen „Ehem. Inh. der Blauen Karte EU“ einzutragen. Für die Erlaubnis zum Daueraufenthalt -- EU kann im Falle des § 78a Absatz 1 Satz 1 des Aufenthaltsgesetzes der Vordruck der Anlage D14 mit der Bezeichnung „Daueraufenthalt-EG“ weiterverwendet werden.
+(4) In einer Aufenthaltserlaubnis, die nach § 18d Absatz 1 des Aufenthaltsgesetzes erteilt wird, oder in einem zu dieser Aufenthaltserlaubnis gehörenden Zusatzblatt nach den Anlagen D11 und D11a oder in dem Trägervordruck nach der Anlage D1 wird der Vermerk „Forscher“ eingetragen. In einer Aufenthaltserlaubnis, die nach § 18f des Aufenthaltsgesetzes erteilt wird, oder in einem zu dieser Aufenthaltserlaubnis gehörenden Zusatzblatt nach den Anlagen D11 und D11a oder in dem Trägervordruck nach der Anlage D1 wird der Vermerk „Forscher-Mobilität“ eingetragen.
+(4a) In einer Aufenthaltserlaubnis, die nach § 16b Absatz 1 des Aufenthaltsgesetzes erteilt wird, oder in einem zu dieser Aufenthaltserlaubnis gehörenden Zusatzblatt nach den Anlagen D11 und D11a oder in dem Trägervordruck nach der Anlage D1 wird der Vermerk „Student“ eingetragen.
+(4b) In einer Aufenthaltserlaubnis, die nach § 16e des Aufenthaltsgesetzes erteilt wird, oder in einem zu dieser Aufenthaltserlaubnis gehörenden Zusatzblatt nach den Anlagen D11 und D11a oder in dem Trägervordruck nach der Anlage D1 wird der Vermerk „Praktikant“ eingetragen.
+(4c) In einer Aufenthaltserlaubnis, die nach § 19e des Aufenthaltsgesetzes erteilt wird, oder in einem zu dieser Aufenthaltserlaubnis gehörenden Zusatzblatt nach den Anlagen D11 und D11a oder in dem Trägervordruck nach der Anlage D1 wird der Vermerk „Freiwilliger“ eingetragen.
 (4d) Bei Forschern oder Studenten, die im Rahmen eines bestimmten Programms mit Mobilitätsmaßnahmen oder im Rahmen einer Vereinbarung zwischen zwei oder mehr anerkannten Hochschuleinrichtungen in die Europäische Union reisen, wird das betreffende Programm oder die Vereinbarung auf der Aufenthaltserlaubnis oder in einem zu dieser Aufenthaltserlaubnis gehörenden Zusatzblatt nach den Anlagen D11 und D11a oder in dem Trägervordruck nach der Anlage D1 angegeben.
-(4e) In einem Aufenthaltstitel, der für eine Saisonbeschäftigung gemäSaisonbeschäftigung“ eingetragen.
+(4e) In einem Aufenthaltstitel, der für eine Saisonbeschäftigung gemäß § 15a der Beschäftigungsverordnung erteilt wird, oder in einem zu diesem Aufenthaltstitel gehörenden Zusatzblatt nach Anlage D11 oder in dem Trägervordruck nach Anlage D13a wird im Feld Anmerkungen der Vermerk „Saisonbeschäftigung“ eingetragen.
 (5) Ist in einem Aufenthaltstitel die Nebenbestimmung eingetragen, wonach die Ausübung einer Erwerbstätigkeit nicht gestattet ist, bezieht sich diese Nebenbestimmung nicht auf die in § 17 Abs. 2 genannten Tätigkeiten, sofern im Aufenthaltstitel nicht ausdrücklich etwas anderes bestimmt ist.
 (6) Wenn die Grenzbehörde die Einreise nach § 60a Abs. 2a Satz 1 des Aufenthaltsgesetzes zulässt und eine Duldung ausstellt, vermerkt sie dies auf dem nach § 58 Nr. 2 vorgesehenen Vordruck.
 (7) Sofern ein Aufenthaltstitel für Zwecke der Aufnahme oder Ausübung einer Erwerbstätigkeit nach § 84 Absatz 2 Satz 2 des Aufenthaltsgesetzes als fortbestehend gilt, dokumentiert die Ausländerbehörde dies auf Antrag des Ausländers in einem Vordruck nach Anlage D11 oder D11a; ist dem Ausländer ein Dokument entsprechend einem in Anlage D1 bis D3 vorgesehenen Muster ausgestellt worden oder wird ihm ein solches Dokument ausgestellt, ist die Eintragung in diesem Dokument vorzunehmen.
-(8) Sofern die Ausländerbehörde auf Antrag des Inhabers feststellt, dass er ein Recht auf Daueraufenthalt nach Artikel 15 des Abkommens über den Austritt des Vereinigten Königreichs GroDaueraufenthalt“ in der zweiten Zeile des Anmerkungsfeldes 1 auf der Rückseite des Aufenthaltsdokuments-GB einträgt.
+(8) Sofern die Ausländerbehörde auf Antrag des Inhabers feststellt, dass er ein Recht auf Daueraufenthalt nach Artikel 15 des Abkommens über den Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union und der Europäischen Atomgemeinschaft (ABl. L 29 vom 31.1.2020, S. 7) besitzt, wird dieses Recht auf Daueraufenthalt dadurch bescheinigt, dass die Ausländerbehörde das Wort „Daueraufenthalt“ in der zweiten Zeile des Anmerkungsfeldes 1 auf der Rückseite des Aufenthaltsdokuments-GB einträgt.
 
 § 59a - Hinweis auf Gewährung internationalen Schutzes
 
-(1) Wird einem Ausländer, dem in der Bundesrepublik Deutschland die Rechtsstellung eines international Schutzberechtigten im Sinne von § 2 Absatz 13 des Aufenthaltsgesetzes zuerkannt wurde, eine Erlaubnis zum Daueraufenthalt -- EU nach § 9a des Aufenthaltsgesetzes erteilt, so ist in dem Feld für Anmerkungen folgender Hinweis aufzunehmen: Durch DEU am [Datum] internationaler Schutz gewährt“.
+(1) Wird einem Ausländer, dem in der Bundesrepublik Deutschland die Rechtsstellung eines international Schutzberechtigten im Sinne von § 2 Absatz 13 des Aufenthaltsgesetzes zuerkannt wurde, eine Erlaubnis zum Daueraufenthalt -- EU nach § 9a des Aufenthaltsgesetzes erteilt, so ist in dem Feld für Anmerkungen folgender Hinweis aufzunehmen: „Durch DEU am [Datum] internationaler Schutz gewährt“.
 (2) Wird einem Ausländer, der im Besitz einer langfristigen Aufenthaltsberechtigung -- EU eines anderen Mitgliedstaates der Europäischen Union ist, die den Hinweis enthält, dass dieser Staat dieser Person internationalen Schutz gewährt, eine Erlaubnis zum Daueraufenthalt -- EU nach § 9a des Aufenthaltsgesetzes erteilt, so ist in dem Feld für Anmerkungen der Erlaubnis zum Daueraufenthalt -- EU ein entsprechender Hinweis aufzunehmen. Vor Aufnahme des Hinweises ist der betreffende Mitgliedstaat in dem Verfahren nach § 91c Absatz 1a des Aufenthaltsgesetzes um Auskunft darüber zu ersuchen, ob der Ausländer dort weiterhin internationalen Schutz genießt. Wurde der internationale Schutz in dem anderen Mitgliedstaat durch eine rechtskräftige Entscheidung aberkannt, wird der Hinweis nach Satz 1 nicht aufgenommen.
 (3) Ist ein Ausländer im Besitz einer Erlaubnis zum Daueraufenthalt -- EU nach § 9a des Aufenthaltsgesetzes, die den Hinweis nach Absatz 2 Satz 1 enthält, und ist die Verantwortung für den internationalen Schutz im Sinne von § 2 Absatz 13 des Aufenthaltsgesetzes nach Maßgabe der einschlägigen Rechtsvorschriften auf Deutschland übergegangen, so ist der Hinweis durch den in Absatz 1 genannten Hinweis zu ersetzen. Die Aufnahme dieses Hinweises hat spätestens drei Monate nach Übergang der Verantwortung auf Deutschland zu erfolgen.
-(4) Ist der Ausländer im Besitz einer Erlaubnis zum Daueraufenthalt -- EU nach § 9a des Aufenthaltsgesetzes und wird ihm in einem anderen Mitgliedstaat der Europäischen Union internationaler Schutz im Sinne von § 2 Absatz 13 des Aufenthaltsgesetzes gewährt, bevor er dort eine langfristige Aufenthaltsberechtigung -- EU erhält, so ist durch die zuständige Ausländerbehörde in das Feld für Anmerkungen der Erlaubnis zum Daueraufenthalt -- EU folgender Hinweis aufzunehmen: Durch [Abkürzung des Mitgliedstaates] am [Datum] internationaler Schutz gewährt“. Die Aufnahme dieses Hinweises hat spätestens drei Monate nachdem ein entsprechendes Ersuchen der zuständigen Stelle des anderen Mitgliedstaates beim Bundesamt für Migration und Flüchtlinge eingegangen ist zu erfolgen.
+(4) Ist der Ausländer im Besitz einer Erlaubnis zum Daueraufenthalt -- EU nach § 9a des Aufenthaltsgesetzes und wird ihm in einem anderen Mitgliedstaat der Europäischen Union internationaler Schutz im Sinne von § 2 Absatz 13 des Aufenthaltsgesetzes gewährt, bevor er dort eine langfristige Aufenthaltsberechtigung -- EU erhält, so ist durch die zuständige Ausländerbehörde in das Feld für Anmerkungen der Erlaubnis zum Daueraufenthalt -- EU folgender Hinweis aufzunehmen: „Durch [Abkürzung des Mitgliedstaates] am [Datum] internationaler Schutz gewährt“. Die Aufnahme dieses Hinweises hat spätestens drei Monate nachdem ein entsprechendes Ersuchen der zuständigen Stelle des anderen Mitgliedstaates beim Bundesamt für Migration und Flüchtlinge eingegangen ist zu erfolgen.
 
 § 60 - Lichtbild
 
@@ -1787,7 +1787,7 @@ Die für die Gewerbeüberwachung zuständigen Behörden teilen den Ausländerbeh
 
 § 76a - Form und Verfahren der Datenübermittlung im Ausländerwesen
 
-(1) Für die Datenübermittlung zwischen den mit der Ausführung des Aufenthaltsgesetzes beauftragten Behörden werden der Datenübermittlungsstandard XAusländer“ und das Übermittlungsprotokoll OSCI-Transport in der im Bundesanzeiger bekannt gemachten jeweils gültigen Fassung verwendet. Die Möglichkeiten des OSCI-Standards zur sicheren Verschlüsselung und Signatur sind bei der Übertragung zu nutzen.
+(1) Für die Datenübermittlung zwischen den mit der Ausführung des Aufenthaltsgesetzes beauftragten Behörden werden der Datenübermittlungsstandard „XAusländer“ und das Übermittlungsprotokoll OSCI-Transport in der im Bundesanzeiger bekannt gemachten jeweils gültigen Fassung verwendet. Die Möglichkeiten des OSCI-Standards zur sicheren Verschlüsselung und Signatur sind bei der Übertragung zu nutzen.
 (2) Absatz 1 ist auf die Datenübermittlung über Vermittlungsstellen entsprechend anzuwenden. Erfolgt die Datenübermittlung zwischen den mit der Ausführung des Aufenthaltsgesetzes beauftragten Behörden über Vermittlungsstellen in verwaltungseigenen Kommunikationsnetzen, kann auch ein dem jeweiligen Landesrecht entsprechendes vom OSCI-Transport abweichendes Übermittlungsprotokoll eingesetzt werden, soweit dies hinsichtlich der Datensicherheit und des Datenschutzes ein den genannten Anforderungen entsprechendes Niveau aufweist. Die Gleichwertigkeit ist durch den Verantwortlichen zu dokumentieren.
 
 § 76b - Technische Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik
@@ -1899,229 +1899,229 @@ Anlage A - (zu § 16)
 
 Inhaber von Nationalpässen und/oder Reiseausweisen für Flüchtlinge sowie sonstiger in den jeweiligen Abkommen genannten Reisedokumente von
 
+ 
 
-
-
+ 
 
 Staat
 
 Zugehörige Fundstelle
 
-
+ 
 
 Australien
 
 GMBl 1953 S. 575
 
-
+ 
 
 Brasilien
 
 BGBl. 2008 II S. 1179
 
-
+ 
 
 Chile
 
 GMBl 1955 S. 22
 
-
+ 
 
 El Salvador
 
 BAnz. 1998 S. 12 778
 
-
+ 
 
 Honduras
 
 GMBl 1963 S. 363
 
-
+ 
 
 Japan
 
 BAnz. 1998 S. 12 778
 
-
+ 
 
 Kanada
 
 GMBl 1953 S. 575
 
-
+ 
 
 Korea (Republik Korea)
 
 BGBl. 1974 II S. 682; BGBl. 1998 II S. 1390
 
-
+ 
 
 Monaco
 
 GMBl 1959 S. 287
 
-
+ 
 
 Neuseeland
 
 BGBl. 1972 II S. 1550
 
-
+ 
 
 Panama
 
 BAnz. 1967 Nr. 171, S. 1
 
-
+ 
 
 San Marino
 
 BGBl. 1969 II S. 203
 
-
+ 
 
 2.
 
 Inhaber dienstlicher Pässe von
 
-
+ 
 
 Staat
 
 Zugehörige Fundstelle
 
-
+ 
 
 Ghana
 
 BGBl. 1998 II S. 2909
 
-
+ 
 
 Philippinen
 
 BAnz. 1968 Nr. 135, S. 2
 
-
+ 
 
 3.
 
 Inhaber von Reiseausweisen für Flüchtlinge von
 
-
+ 
 
 Belgien,
 
+ 
 
-
-
+ 
 
 Dänemark,
 
+ 
 
-
-
+ 
 
 Finnland,
 
+ 
 
-
-
+ 
 
 Irland,
 
+ 
 
-
-
+ 
 
 Island,
 
+ 
 
-
-
+ 
 
 Italien,
 
+ 
 
-
-
+ 
 
 Liechtenstein,
 
+ 
 
-
-
+ 
 
 Luxemburg
 
+ 
 
-
-
+ 
 
 Malta,
 
+ 
 
-
-
+ 
 
 Niederlande,
 
+ 
 
-
-
+ 
 
 Norwegen,
 
+ 
 
-
-
+ 
 
 Polen,
 
+ 
 
-
-
+ 
 
 Portugal,
 
+ 
 
-
-
+ 
 
 Rumänien,
 
+ 
 
-
-
+ 
 
 Schweden,
 
+ 
 
-
-
+ 
 
 Schweiz,
 
+ 
 
-
-
+ 
 
 Slowakei,
 
+ 
 
-
-
+ 
 
 Spanien,
 
+ 
 
-
-
+ 
 
 Tschechische Republik, Ungarn
 
-
+ 
 
 -  :: nach Maßgabe des Europäischen Übereinkommens über die Aufhebung des Sichtvermerkszwangs für Flüchtlinge vom 20. April 1959 (BGBl. 1961 II S. 1097, 1098) sowie hinsichtlich der Inhaber von Reiseausweisen für Flüchtlinge der Schweiz auch nach Maßgabe des Abkommens zwischen der Regierung der Bundesrepublik Deutschland und dem Schweizerischen Bundesrat über die Abschaffung des Sichtvermerkszwangs für Flüchtlinge vom 4. Mai 1962 (BGBl.1962 II S. 2331, 2332).
 
@@ -2205,10 +2205,10 @@ Anlage D1 - Ausweisersatz gemäß § 48 Absatz 2 des Aufenthaltsgesetzes in Verb
 
 (Fundstelle: BGBl. I 2011, 1536 - 1537)
 [[../normengrafiken/bgbl1_2011/j1530-1_0010.jpg]]
-
+ 
 Auf Seite 5 ist eines der in den Anlagen D2a, D13b und D14 wiedergegebenen Klebeetiketten aufzukleben (entfällt bei Dokumenten nach § 78 des Aufenthaltsgesetzes). Es dürfen bis zu zwei Verlängerungen mit demselben Trägervordruck vorgenommen werden. Jeweils ist die Seriennummer des Klebeetiketts oder die Seriennummer des Dokuments nach § 78 des Aufenthaltsgesetzes auf Seite 6 einzutragen. Jede dieser Eintragungen ist mit einem Dienstsiegel zu bestätigen.
 [[../normengrafiken/bgbl1_2011/j1530-1_0020.jpg]]
-
+ 
 
 Anlage D2a - Bescheinigung über die Aussetzung der Abschiebung (Duldung) nach § 60a Abs. 4 Aufenthaltsgesetz
 
@@ -2510,7 +2510,7 @@ Anlage D11a - Zusatzblatt zum Aufenthaltstitel mit elektronischem Speicher- und 
 (Fundstelle: BGBl. I 2011, 1538 - 1539)
 [[../normengrafiken/bgbl1_2011/j1530-1_0030.jpg]]
 [[../normengrafiken/bgbl1_2011/j1530-1_0040.jpg]]
-
+ 
 
 Anlage D12 - Bescheinigung über die Aufenthaltsgestattung (§ 63 des Asylgesetzes)
 
@@ -2582,4 +2582,4 @@ Anlage D16 - Aufkleber zur Anschriftenänderung (§ 78 Absatz 7 Satz 2 des Aufen
 
 (Fundstelle: BGBl. I 2011, 1548)
 [[../normengrafiken/bgbl1_2011/j1530-1_0210.jpg]]
-
+ 

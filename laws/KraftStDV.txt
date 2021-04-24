@@ -62,7 +62,7 @@ Das Bundesamt für Güterverkehr überwacht die Einhaltung der kraftfahrzeugsteu
     - bb) :: anstelle eines grünen Kennzeichens ein Kennzeichen mit schwarzer Beschriftung auf weißem Grund zugeteilt wird: das Kennzeichen und den Tag der Zuteilung,
   - e) :: wenn für einen zum Verkehr zugelassenen Personenkraftwagen in der Zulassungsbescheinigung Teil I (Fahrzeugschein)
     - aa) :: die nachträgliche Anerkennung als schadstoffarm vermerkt wird, den Tag der Anerkennung als schadstoffarm,
-    - bb) :: der Vermerk schadstoffarm“ gelöscht wird, den Tag der Löschung,
+    - bb) :: der Vermerk „schadstoffarm“ gelöscht wird, den Tag der Löschung,
     - cc) :: die Anerkennung als besonders partikelreduziert gelöscht wird, den Tag der Löschung,
   - f) :: wenn ein zum Verkehr zugelassenes Fahrzeug mit einer Abgasreinigungsanlage ausgestattet wird oder diese geändert oder ausgebaut wird,
     - aa) :: die Art der Anlage,

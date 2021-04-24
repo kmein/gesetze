@@ -11,7 +11,7 @@ Auf Grund des § 24a Buchstabe c des Bundesversorgungsgesetzes in der Fassung de
 § 1
 
 Der durch die anerkannten Folgen der Schädigung verursachte außergewöhnliche Verschleiß an Kleidung oder Wäsche wird für die Bemessung des Pauschbetrags nach § 15 des Bundesversorgungsgesetzes bei den nachstehenden Beschädigtengruppen und Verschleißtatbeständen wie folgt bewertet:\\
-
+ 
 Bewertungszahl
 Bewertungszahl beim Zusammentreffen mit
 Nr. 19
@@ -19,18 +19,18 @@ Nr. 20
 1.
 Blinde
 17
-
+ 
 27
 2.
 einseitig Oberarmamputierte
 17
-
-
+ 
+ 
 3.
 einseitig Unterarm- oder Handamputierte
 14
-
-
+ 
+ 
 4.
 einseitig Beinamputierte, die ein Kunstbein mit Beckenkorb erhalten haben,
 27
@@ -44,18 +44,18 @@ sonstige einseitig Beinamputierte
 6.
 einseitig Fußstumpfamputierte, deren Kunstbein über das Knie hinausgeht,
 22
-
-
+ 
+ 
 7.
 einseitig Fußstumpfamputierte, deren Kunstbein nicht über das Knie hinausgeht,
 16
-
-
+ 
+ 
 8.
 einseitig Fußstumpfamputierte mit Apparatausrüstung
 10
-
-
+ 
+ 
 9.
 Beschädigte, die einen Stützapparat mit Beckenkorb erhalten haben,
 27
@@ -64,33 +64,33 @@ Beschädigte, die einen Stützapparat mit Beckenkorb erhalten haben,
 10.
 Beschädigte, die einen Stützapparat für den Rumpf erhalten haben, ausgenommen Beschädigte mit einfachen Leibbandagen,
 22
-
-
+ 
+ 
 11.
 Beschädigte, die einen über Knie oder Ellenbogen hinausgehenden Stützapparat für das Bein oder den Arm erhalten haben,
 22
-
-
+ 
+ 
 12.
 Beschädigte, die einen nicht über Knie oder Ellenbogen hinausgehenden Stützapparat für das Bein oder den Arm erhalten haben,
 16
-
-
+ 
+ 
 13.
 Beschädigte, die Führungsschienen oder gewalkte Schutzhülsen mit Schienenverstärkung für Knie, Hüfte, Hand, Ellenbogen oder Schulter erhalten haben, ausgenommen Beschädigte mit einfachen Bandagen,
 16
-
-
+ 
+ 
 14.
 Beschädigte, die eine Unterschenkelschiene mit Schuhbügel erhalten haben,
 14
-
-
+ 
+ 
 15.
 Beschädigte, die ein Stützmieder mit Schienenverstärkung erhalten haben, ausgenommen Beschädigte mit einfachen Leibbandagen,
 14
-
-
+ 
+ 
 16.
 Beschädigte, die dauernd auf den Gebrauch von zwei Krücken oder Stockstützen angewiesen sind,
 22
@@ -100,57 +100,57 @@ Beschädigte, die dauernd auf den Gebrauch von zwei Krücken oder Stockstützen 
 Beschädigte mit ausgedehnten, stark absondernden Hauterkrankungen oder Fisteleiterungen, mit Kunstafterschließbandage, Urinfänger oder Afterschließbandage,
 38
 57
-
+ 
 18.
 Beschädigte mit absondernden Hauterkrankungen oder Fisteleiterungen geringerer Ausdehnung
 14
-
-
+ 
+ 
 19.
 Beschädigte, die ein handbetriebenes Krankenfahrzeug für den Straßengebrauch erhalten haben,
 19
-
-
+ 
+ 
 20.
 Beschädigte, die ein Motorfahrzeug oder Fahrrad besitzen, bei dessen Beschaffung die Voraussetzungen für die Gewährung eines Zuschusses nach § 11 Abs. 3 BVG gegeben waren, oder die ein elektrisch betriebenes Krankenfahrzeug für Haus- und Straßengebrauch erhalten haben,
 17
-
-
+ 
+ 
 21.
 Blinde, die einen Führhund halten,
 27
-
+ 
 32
 22.
 Blinde mit Verlust zweier Gliedmaßen
 65
-
+ 
 65
 23.
 Doppel-Oberarmamputierte
 43
-
+ 
 53
 24.
 sonstige Doppel-Armamputierte
 39
-
+ 
 50
 25.
 Doppel-Unterarm- oder -Handamputierte
 39
-
+ 
 50
 26.
 Doppel-Arm- oder -Handamputierte, die zugleich einseitig beinamputiert oder fußstumpfamputiert sind und mit einer Apparatausrüstung versorgt werden,
 65
-
+ 
 65
 27.
 einseitig Oberarmamputierte, die zugleich einseitig fußstumpfamputiert sind und deren Kunstbein nicht über das Knie hinausgeht,
 33
-
-
+ 
+ 
 28.
 Zweifach-Amputierte (Bein- und Arm- oder Bein- und Handamputierte)
 36
@@ -179,8 +179,8 @@ Doppel-Fußstumpfamputierte, deren Kunstbeine nicht über das Knie hinausgehen,
 33.
 Doppel-Fußstumpfamputierte mit Apparatausrüstung
 15
-
-
+ 
+ 
 34.
 Beschädigte, die einen Stützapparat oder ein Kunstbein mit Beckenkorb erhalten haben und die dauernd auf den Gebrauch von zwei Krücken oder Stockstützen angewiesen sind,
 49
@@ -209,13 +209,13 @@ einseitig Beinamputierte, die am anderen Bein fußstumpfamputiert sind und mit e
 39.
 einseitig Beinamputierte, die einen Stützapparat für den Rumpf erhalten haben,
 41
-
-
+ 
+ 
 40.
 einseitig Beinamputierte, die einen über den Ellenbogen hinausgehenden Stützapparat für den Arm erhalten haben,
 41
-
-
+ 
+ 
 41.
 einseitig Beinamputierte, die für das verbliebene Bein einen über das Knie hinausgehenden Stützapparat erhalten haben,
 30
@@ -229,8 +229,8 @@ einseitig Beinamputierte, die für das verbliebene Bein einen nicht über das Kn
 43.
 einseitig Beinamputierte, die ein Stützmieder mit Schienenverstärkung erhalten haben,
 33
-
-
+ 
+ 
 44.
 einseitig Beinamputierte, die dauernd auf den Gebrauch von zwei Krücken oder Stockstützen angewiesen sind,
 41
@@ -239,23 +239,23 @@ einseitig Beinamputierte, die dauernd auf den Gebrauch von zwei Krücken oder St
 45.
 einseitig Beinamputierte mit ausgedehnten, stark absondernden Hauterkrankungen oder Fisteleiterungen außerhalb des Stumpfbereiches, mit Kunstafterschließbandage, Urinfänger oder Afterschließbandage
 57
-
-
+ 
+ 
 46.
 einseitig Beinamputierte mit absondernden Hauterkrankungen oder Fisteleiterungen geringerer Ausdehnung außerhalb des Stumpfbereiches
 33
-
-
+ 
+ 
 47.
 Doppel-Beinamputierte, die zugleich einseitig arm- oder handamputiert sind,
 55
-
+ 
 61
 48.
 Doppel-Fußstumpfamputierte mit Apparatausrüstung, die zugleich einseitig arm- oder handamputiert sind,
 55
-
-
+ 
+ 
 49.
 Doppel-Beinamputierte, die dauernd auf den Gebrauch von zwei Krücken oder Stockstützen angewiesen sind,
 49
@@ -289,12 +289,12 @@ Doppel-Beinamputierte, die einen Stützapparat für den Rumpf erhalten haben und
 55.
 Doppel-Beinamputierte, die einen über den Ellenbogen hinausgehenden Stützapparat für den Arm erhalten haben und die dauernd auf den Gebrauch von zwei Krücken oder Stockstützen angewiesen sind,
 57
-
+ 
 62
 56.
 Vierfachamputierte
 65
-
+ 
 65
 57.
 Beschädigte, die einen über das Knie hinausgehenden Stützapparat für das Bein erhalten haben und die dauernd auf den Gebrauch von zwei Krücken oder Stockstützen angewiesen sind,
@@ -309,8 +309,8 @@ Beschädigte, die einen Stützapparat für den Rumpf erhalten haben und die daue
 59.
 Beschädigte, die nicht über die Knie hinausgehende Stützapparate für beide Beine erhalten haben,
 22
-
-
+ 
+ 
 60.
 Beschädigte mit ausgedehnten, stark absondernden Hauterkrankungen oder Fisteleiterungen, mit Kunstafterschließbandage, Urinfänger oder Afterschließbandage, die dauernd auf den Gebrauch von zwei Krücken oder Stockstützen angewiesen sind,
 61

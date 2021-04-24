@@ -26,7 +26,7 @@ Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 des Berufsbildungsgesetzes v
 
 § 2 - Zulassungsvoraussetzungen
 
-(1) Zur Prüfung in den Prüfungsteilen Wirtschaftsbezogene Qualifikationen“ oder Technische Qualifikationen“ ist zuzulassen, wer
+(1) Zur Prüfung in den Prüfungsteilen „Wirtschaftsbezogene Qualifikationen“ oder „Technische Qualifikationen“ ist zuzulassen, wer
 
 - 1. :: eine mit Erfolg abgelegte Abschlussprüfung in einem anerkannten mindestens dreijährigen kaufmännischen, verwaltenden oder gewerblich-technischen Ausbildungsberuf oder
 - 2. :: eine mit Erfolg abgelegte Abschlussprüfung in einem anderen anerkannten Ausbildungsberuf und danach eine mindestens einjährige Berufspraxis im kaufmännischen oder gewerblich-technischen Bereich oder
@@ -36,7 +36,7 @@ nachweist.
 
 (2) Zur Prüfung im Prüfungsteil "Handlungsspezifische Qualifikationen" ist zuzulassen, wer Folgendes nachweist:
 
-- 1. :: das Ablegen der Prüfungsteile Wirtschaftsbezogene Qualifikationen“ und Technische Qualifikationen“ innerhalb der letzten fünf Jahre, und
+- 1. :: das Ablegen der Prüfungsteile „Wirtschaftsbezogene Qualifikationen“ und „Technische Qualifikationen“ innerhalb der letzten fünf Jahre, und
 - 2. :: in den in Absatz 1 Nummer 1 bis 3 genannten Fällen ein weiteres Jahr Berufspraxis.
 
 (3) Die Berufspraxis gemäß den Absätzen 1 und 2 soll wesentliche Bezüge zu den Aufgaben eines Geprüften Technischen Fachwirtes/einer Geprüften Technischen Fachwirtin gemäß § 1 Abs. 3 haben.
@@ -51,7 +51,7 @@ nachweist.
 - 2. :: Technische Qualifikationen,
 - 3. :: Handlungsspezifische Qualifikationen.
 
-(2) Der Prüfungsteil Wirtschaftsbezogene Qualifikationen“ gliedert sich in folgende Qualifikationsbereiche:
+(2) Der Prüfungsteil „Wirtschaftsbezogene Qualifikationen“ gliedert sich in folgende Qualifikationsbereiche:
 
 - 1. :: Volks- und Betriebswirtschaft,
 - 2. :: Rechnungswesen,
@@ -76,14 +76,14 @@ nachweist.
 
 § 4 - Wirtschaftsbezogene Qualifikationen
 
-(1) Im Qualifikationsbereich Volks- und Betriebswirtschaft“ sollen zum einen grundlegende volkswirtschaftliche Zusammenhänge und ihre Bedeutung für die betriebliche Praxis beurteilt werden können. Zum anderen müssen grundlegende betriebliche Funktionen und Funktionsbereiche und deren Zusammenwirken im Betrieb verstanden werden. Weiterhin soll der Vorgang einer Existenzgründung erfasst und in seiner Gesamtheit strukturiert werden können. In diesem Rahmen können geprüft werden:
+(1) Im Qualifikationsbereich „Volks- und Betriebswirtschaft“ sollen zum einen grundlegende volkswirtschaftliche Zusammenhänge und ihre Bedeutung für die betriebliche Praxis beurteilt werden können. Zum anderen müssen grundlegende betriebliche Funktionen und Funktionsbereiche und deren Zusammenwirken im Betrieb verstanden werden. Weiterhin soll der Vorgang einer Existenzgründung erfasst und in seiner Gesamtheit strukturiert werden können. In diesem Rahmen können geprüft werden:
 
 - 1. :: Volkswirtschaftliche Grundlagen,
 - 2. :: Betriebliche Funktionen und deren Zusammenwirken,
 - 3. :: Existenzgründung und Unternehmensrechtsformen,
 - 4. :: Unternehmenszusammenschlüsse.
 
-(2) Im Qualifikationsbereich Rechnungswesen“ soll die Fähigkeit nachgewiesen werden, die Bedeutung des Rechnungswesens als Dokumentations-, Entscheidungs- und Kontrollinstrument für die Unternehmensführung darstellen und begründen zu können. Dazu gehören insbesondere, die bilanziellen Zusammenhänge sowie die Kostenrechnung in Grundzügen erläutern und anwenden zu können. Außerdem sollen die erarbeiteten Zahlen für eine Aussage über die Unternehmenssituation ausgewertet werden können. In diesem Rahmen können geprüft werden:
+(2) Im Qualifikationsbereich „Rechnungswesen“ soll die Fähigkeit nachgewiesen werden, die Bedeutung des Rechnungswesens als Dokumentations-, Entscheidungs- und Kontrollinstrument für die Unternehmensführung darstellen und begründen zu können. Dazu gehören insbesondere, die bilanziellen Zusammenhänge sowie die Kostenrechnung in Grundzügen erläutern und anwenden zu können. Außerdem sollen die erarbeiteten Zahlen für eine Aussage über die Unternehmenssituation ausgewertet werden können. In diesem Rahmen können geprüft werden:
 
 - 1. :: Grundlegende Aspekte des Rechnungswesens,
 - 2. :: Finanzbuchhaltung,
@@ -91,12 +91,12 @@ nachweist.
 - 4. :: Auswertung der betriebswirtschaftlichen Zahlen,
 - 5. :: Planungsrechnung.
 
-(3) Im Qualifikationsbereich Recht und Steuern“ sollen allgemeine Kenntnisse des Bürgerlichen Rechts und des Handelsrechts sowie Kenntnisse des Arbeitsrechts nachgewiesen werden. Weiterhin sollen an unternehmenstypischen Beispielen und Situationen mögliche Vertragsgestaltungen vorbereitet und deren Auswirkungen bewertet werden können. Es müssen außerdem die Grundzüge des unternehmensrelevanten Steuerrechts verstanden werden. In diesem Rahmen können geprüft werden:
+(3) Im Qualifikationsbereich „Recht und Steuern“ sollen allgemeine Kenntnisse des Bürgerlichen Rechts und des Handelsrechts sowie Kenntnisse des Arbeitsrechts nachgewiesen werden. Weiterhin sollen an unternehmenstypischen Beispielen und Situationen mögliche Vertragsgestaltungen vorbereitet und deren Auswirkungen bewertet werden können. Es müssen außerdem die Grundzüge des unternehmensrelevanten Steuerrechts verstanden werden. In diesem Rahmen können geprüft werden:
 
 - 1. :: Rechtliche Zusammenhänge,
 - 2. :: Steuerrechtliche Bestimmungen.
 
-(4) Im Qualifikationsbereich Unternehmensführung“ soll die Fähigkeit nachgewiesen werden, die Inhalte der Betriebsorganisation, der Personalführung und -entwicklung sowie der Planungs- und Analysemethoden im betrieblichen Umfeld zu kennen, deren Auswirkungen auf die Unternehmensführung erläutern und in Teilumfängen anwenden zu können. In diesem Rahmen können geprüft werden:
+(4) Im Qualifikationsbereich „Unternehmensführung“ soll die Fähigkeit nachgewiesen werden, die Inhalte der Betriebsorganisation, der Personalführung und -entwicklung sowie der Planungs- und Analysemethoden im betrieblichen Umfeld zu kennen, deren Auswirkungen auf die Unternehmensführung erläutern und in Teilumfängen anwenden zu können. In diesem Rahmen können geprüft werden:
 
 - 1. :: Betriebsorganisation,
 - 2. :: Personalführung,
@@ -206,8 +206,8 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 § 9 - Bewerten von Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
-(2) In den Prüfungsteilen Wirtschaftsbezogene Qualifikationen“ und Technische Qualifikationen“ sind die Prüfungsleistungen für jeden Qualifikationsbereich einzeln zu bewerten. Aus den einzelnen Bewertungen ist als Bewertung für den jeweiligen Prüfungsteil das arithmetische Mittel zu berechnen.
-(3) Im Prüfungsteil Handlungsspezifische Qualifikationen“ sind als Prüfungsleistungen zu bewerten:
+(2) In den Prüfungsteilen „Wirtschaftsbezogene Qualifikationen“ und „Technische Qualifikationen“ sind die Prüfungsleistungen für jeden Qualifikationsbereich einzeln zu bewerten. Aus den einzelnen Bewertungen ist als Bewertung für den jeweiligen Prüfungsteil das arithmetische Mittel zu berechnen.
+(3) Im Prüfungsteil „Handlungsspezifische Qualifikationen“ sind als Prüfungsleistungen zu bewerten:
 
 - 1. :: die schriftliche Situationsaufgabe nach § 6 Absatz 5 Satz 1,
 - 2. :: nach Maßgabe der Sätze 2 und 3
@@ -225,23 +225,23 @@ Aus den einzelnen Bewertungen des situationsbezogenen Fachgesprächs und der Pr�
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
-- 1. :: in jedem Qualifikationsbereich des Prüfungsteils Wirtschaftsbezogene Qualifikationen“,
-- 2. :: in jedem Qualifikationsbereich des Prüfungsteils Technische Qualifikationen“,
-- 3. :: im Prüfungsteil Handlungsspezifische Qualifikationen“
+- 1. :: in jedem Qualifikationsbereich des Prüfungsteils „Wirtschaftsbezogene Qualifikationen“,
+- 2. :: in jedem Qualifikationsbereich des Prüfungsteils „Technische Qualifikationen“,
+- 3. :: im Prüfungsteil „Handlungsspezifische Qualifikationen“
   - a) :: in der schriftlichen Situationsaufgabe und
   - b) :: in der zusammengefassten Bewertung für das situationsbezogene Fachgespräch und der Präsentation.
 
 (2) Ist die Prüfung bestanden, sind die folgenden Bewertungen jeweils kaufmännisch auf eine ganze Zahl zu runden:
 
-- 1. :: die Bewertungen für die Prüfungsteile Wirtschaftsbezogene Qualifikationen“ und Technische Qualifikationen“ sowie
+- 1. :: die Bewertungen für die Prüfungsteile „Wirtschaftsbezogene Qualifikationen“ und „Technische Qualifikationen“ sowie
 - 2. :: die zusammengefasste Bewertung für das situationsbezogene Fachgespräch und der Präsentation.
 
-(3) Den Bewertungen für die Prüfungsteile Wirtschaftsbezogene Qualifikationen“ und Technische Qualifikationen“, der Bewertung für die schriftliche Situationsaufgabe sowie der zusammengefassten Bewertung für das situationsbezogene Fachgespräch und der Präsentation ist nach Anlage 1 die jeweilige Note als Dezimalzahl zuzuordnen.
+(3) Den Bewertungen für die Prüfungsteile „Wirtschaftsbezogene Qualifikationen“ und „Technische Qualifikationen“, der Bewertung für die schriftliche Situationsaufgabe sowie der zusammengefassten Bewertung für das situationsbezogene Fachgespräch und der Präsentation ist nach Anlage 1 die jeweilige Note als Dezimalzahl zuzuordnen.
 (4) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das gewichtete arithmetische Mittel zu berechnen. Dabei sind die Bewertungen wie folgt zu gewichten:
 
-- 1. :: die Bewertung für den Prüfungsteil Wirtschaftsbezogene Qualifikationen“ mit 15 Prozent,
-- 2. :: die Bewertungen für den Prüfungsteil Technische Qualifikationen“ mit 15 Prozent,
-- 3. :: im Prüfungsteil Handlungsspezifische Qualifikationen“
+- 1. :: die Bewertung für den Prüfungsteil „Wirtschaftsbezogene Qualifikationen“ mit 15 Prozent,
+- 2. :: die Bewertungen für den Prüfungsteil „Technische Qualifikationen“ mit 15 Prozent,
+- 3. :: im Prüfungsteil „Handlungsspezifische Qualifikationen“
   - a) :: die Bewertung der schriftlichen Situationsaufgabe mit 45 Prozent und
   - b) :: die zusammengefasste Bewertung für das situationsbezogene Fachgespräch und der Präsentation mit 25 Prozent.
 
@@ -302,13 +302,13 @@ Teil A -- Zeugnis ohne Prüfungsergebnisse:
 Teil B -- Zeugnis mit Prüfungsergebnissen:
 Alle Angaben des Teils A sowie zusätzlich:
 
-- 1. :: zum Prüfungsteil Wirtschaftsbezogene Qualifikationen“
+- 1. :: zum Prüfungsteil „Wirtschaftsbezogene Qualifikationen“
   - a) :: Benennung und Bewertung dieses Prüfungsteils mit Note sowie
   - b) :: Benennung und Bewertung der vier Qualifikationsbereiche mit Punkten,
-- 2. :: zum Prüfungsteil Technische Qualifikationen“
+- 2. :: zum Prüfungsteil „Technische Qualifikationen“
   - a) :: Benennung und Bewertung dieses Prüfungsteils mit Note sowie
   - b) :: Benennung und Bewertung der drei Qualifikationsbereiche mit Punkten,
-- 3. :: zum Prüfungsteil Handlungsspezifische Qualifikationen“
+- 3. :: zum Prüfungsteil „Handlungsspezifische Qualifikationen“
   - a) :: Benennung des Prüfungsteils,
   - b) :: Benennung der schriftlichen Situationsaufgabe mit Note sowie
   - c) :: Benennung des situationsbezogenen Fachgesprächs mit Präsentation mit Note,

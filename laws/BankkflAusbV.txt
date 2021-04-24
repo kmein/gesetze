@@ -10,14 +10,14 @@ Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt durch Artike
 
 Inhaltsübersicht
 
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 § 1 - Staatliche Anerkennung des Ausbildungsberufes
 
@@ -196,10 +196,10 @@ Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen -- auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach § 16 -- wie folgt bewertet worden sind:
 
-- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens ausreichend“,
-- 2. :: im Ergebnis von Teil 2 mit mindestens ausreichend“,
-- 3. :: in mindestens drei Prüfungsbereichen von Teil 2 mit mindestens ausreichend“ und
-- 4. :: in keinem Prüfungsbereich von Teil 2 mit ungenügend“.
+- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens „ausreichend“,
+- 2. :: im Ergebnis von Teil 2 mit mindestens „ausreichend“,
+- 3. :: in mindestens drei Prüfungsbereichen von Teil 2 mit mindestens „ausreichend“ und
+- 4. :: in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
 
 
 § 16 - Mündliche Ergänzungsprüfung
@@ -211,7 +211,7 @@ Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
   - a) :: Vermögen aufbauen und Risiken absichern,
   - b) :: Finanzierungsvorhaben begleiten oder
   - c) :: Wirtschafts- und Sozialkunde,
-- 2. :: wenn der benannte Prüfungsbereich schlechter als mit ausreichend“ bewertet worden ist und
+- 2. :: wenn der benannte Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 - 3. :: wenn die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 Die mündliche Ergänzungsprüfung darf nur in einem einzigen Prüfungsbereich durchgeführt werden.
@@ -226,5 +226,5 @@ Diese Verordnung tritt am 1. August 2020 in Kraft. Gleichzeitig tritt die Verord
 Anlage - (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Bankkaufmann und zur Bankkauffrau
 
 (Fundstelle: BGBl. I 2020, 125 - 131)
-
-
+ 
+ 

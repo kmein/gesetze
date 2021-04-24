@@ -265,7 +265,7 @@ Anlage 1 - (zu § 7)  Ausbildungsrahmenplan für die Berufsausbildung zum Bauten
 
 \\
 
-
+ 
 
 I. Berufliche Grundbildung - 1. Ausbildungsjahr
 
@@ -448,7 +448,7 @@ Durchführen von qualitätssichernden Maßnahmen\\
 
 2*)
 
-
+ 
 
 II. Berufliche Fachbildung - 2. Ausbildungsjahr
 
@@ -602,7 +602,7 @@ Anlage 2 - (zu § 7)  Ausbildungsrahmenplan für die Berufsausbildung zum Maler 
 
 \\
 
-
+ 
 
 A. Fachrichtung Gestaltung und Instandhaltung
 
@@ -716,7 +716,7 @@ Durchführen von qualitätssichernden Maßnahmen\\
 
 2*)
 
-
+ 
 
 B. Fachrichtung Kirchenmalerei und Denkmalpflege
 
@@ -819,7 +819,7 @@ Durchführen von qualitätssichernden Maßnahmen\\
 
 2*)
 
-
+ 
 
 C. Fachrichtung Bauten- und Korrosionsschutz
 

@@ -21,7 +21,7 @@ Diese Verordnung regelt den Mindestinhalt, die Art, die Sprache, den Umfang und 
 In der Veröffentlichung nach § 11a Absatz 3 Satz 1 des Gesetzes sind anzugeben:
 
 - 1. :: in der Kopfzeile
-  - a) :: eine deutlich hervorgehobene Überschrift Veröffentlichung nach § 11a Absatz 1 VermAnlG“,
+  - a) :: eine deutlich hervorgehobene Überschrift „Veröffentlichung nach § 11a Absatz 1 VermAnlG“,
   - b) :: ein als Betreff erkennbares Schlagwort, das den wesentlichen Inhalt der Veröffentlichung zusammenfasst,
 - 2. :: zum Emittenten
   - a) :: sein Name und
@@ -68,7 +68,7 @@ Der Veröffentlichungspflichtige ist für technische Systemfehler im Verantwortu
 - 1. :: der vorgesehene Zeitpunkt der Veröffentlichung,
 - 2. :: ein Ansprechpartner des veröffentlichungspflichtigen Emittenten mit Rufnummer.
 
-(5) Der Mitteilung ist der Wortlaut der vorgesehenen Veröffentlichung in einer gesonderten Anlage beizufügen. Die Anlage ist im Format DIN A4 zu erstellen und soll einen Umfang von einer Seite nicht überschreiten. In die Anlage ist zusätzlich zum Hinweis nach § 2 Satz 1 Nummer 8 folgender hervorgehobener Hinweis aufzunehmen: Die Bundesanstalt geht davon aus, dass die Vermögensanlage, für die diese Tatsache bekanntgemacht wird, den Voraussetzungen des § 1 des Gesetzes entspricht, und hat diese Voraussetzungen nicht erneut geprüft. “
+(5) Der Mitteilung ist der Wortlaut der vorgesehenen Veröffentlichung in einer gesonderten Anlage beizufügen. Die Anlage ist im Format DIN A4 zu erstellen und soll einen Umfang von einer Seite nicht überschreiten. In die Anlage ist zusätzlich zum Hinweis nach § 2 Satz 1 Nummer 8 folgender hervorgehobener Hinweis aufzunehmen: „Die Bundesanstalt geht davon aus, dass die Vermögensanlage, für die diese Tatsache bekanntgemacht wird, den Voraussetzungen des § 1 des Gesetzes entspricht, und hat diese Voraussetzungen nicht erneut geprüft. “
 (6) Die Mitteilung nach § 11a Absatz 3 Satz 2 des Gesetzes hat unverzüglich nach ihrer Veröffentlichung unter Angabe des Textes der Veröffentlichung, der Medien, an die die Informationen gesandt wurden, sowie des genauen Zeitpunkts der Versendung an die Medien zu erfolgen.
 
 § 5 - Bekanntmachung der Tatsache durch die Bundesanstalt

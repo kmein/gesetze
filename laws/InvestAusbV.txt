@@ -131,7 +131,7 @@ Zu vermittelnde Fertigkeiten und Kenntnisse
 3
 1.
 Der Ausbildungsbetrieb (§ 3 Nr. 1)
-
+ 
 1.1
 Stellung, Rechtsform und Struktur (§ 3 Nr. 1.1)
 a)
@@ -195,7 +195,7 @@ c)
 Bestimmungen zur Verhinderung von Geldwäsche anwenden
 2.
 Kommunikation und Kooperation (§ 3 Nr. 2)
-
+ 
 2.1
 Informations- und Kommunikationssysteme, Datenschutz und Datensicherheit (§ 3 Nr. 2.1)
 a)
@@ -242,7 +242,7 @@ d)
 wesentliche Merkmale eines Fonds und Unterschiede von Fondsarten in einer Fremdsprache erklären
 3.
 Marketing und Vertrieb (§ 3 Nr. 3)
-
+ 
 3.1
 Absatzmärkte, Zielgruppen, Vertriebskanäle (§ 3 Nr. 3.1)
 a)
@@ -273,7 +273,7 @@ c)
 Anleger über Risiken von Investmentfonds aufklären
 4.
 Kaufmännische Steuerung und Kontrolle, Fondsbezogenes Rechnungswesen (§ 3 Nr. 4)
-
+ 
 4.1
 Betriebliches Rechnungswesen (§ 3 Nr. 4.1)
 a)
@@ -334,7 +334,7 @@ e)
 Anlagegrenzen nach rechtlichen Vorschriften, Vertragsbedingungen und internen Richtlinien kontrollieren und betriebsübliche Maßnahmen einleiten
 5.
 Investmentprozess (§ 3 Nr. 5)
-
+ 
 5.1
 Analysen zur Vorbereitung von Kauf- und Verkaufsentscheidungen (§ 3 Nr. 5.1)
 a)
@@ -393,7 +393,7 @@ f)
 Handelsgeschäfte unter Berücksichtigung von Vorgaben und rechtlichen Grundlagen abwickeln
 6.
 Depotgeschäft (§ 3 Nr. 6)
-
+ 
 6.1
 Depotführung (§ 3 Nr. 6.1)
 a)

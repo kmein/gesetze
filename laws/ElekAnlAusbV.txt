@@ -196,12 +196,12 @@ Technische Kommunikation 1)\\
 
 2
 
-
+ 
 
 - d) :: Schaltungsunterlagen von elektrischen Anlagen, insbesondere Stromlaufpläne, Anordnungspläne, Installationspläne und Anschlußpläne, lesen und anwenden sowie Skizzen anfertigen
 - e) :: technische Regelwerke, Arbeitsanweisungen und technische Informationen lesen und anwenden
 
-
+ 
 
 2
 
@@ -217,14 +217,14 @@ Betriebliche Kommunikation 1)\\
 
 2
 
-
+ 
 
 - e) :: Kunden bei der Übergabe der Anlage Leistungsmerkmale erläutern und in die Nutzung einweisen
 - f) :: Telekommunikationsgeräte zur Übertragung von Daten, Sprache, Texten und Bildern einsetzen
 - g) :: Schriftverkehr und Berechnungen durchführen, Sachverhalte fixieren, Protokolle anfertigen, Standardsoftware anwenden
 - h) :: Materialien, Ersatzteile und Betriebsmittel verwalten und bestellen
 
-
+ 
 
 2
 
@@ -238,14 +238,14 @@ Planen der Auftragsabwicklung 2)\\
 
 2
 
-
+ 
 
 - c) :: Räume hinsichtlich ihrer Umgebungsbedingungen und der Zusatzfestlegungen für Räume besonderer Art beurteilen
 - d) :: elektrische Schutzmaßnahmen festlegen
 - e) :: Leitungswege und Gerätestandorte nach baulichen und örtlichen Gegebenheiten sowie unter Berücksichtigung des Aufwandes festlegen
 - f) :: Materialverbrauch ermitteln
 
-
+ 
 
 4
 
@@ -259,7 +259,7 @@ Vorbereiten der Auftragsausführung 2)\\
 
 2
 
-
+ 
 
 - c) :: Zusammenhang von Aufwand, Produktqualität und Auftragsergebnis erkennen sowie kostenbewußt handeln
 - d) :: Möglichkeiten zur Verbesserung der Arbeitsabläufe und Zusammenarbeit erkennen sowie Vorschläge zur Verbesserung von Arbeitsvorgängen machen
@@ -269,7 +269,7 @@ Vorbereiten der Auftragsausführung 2)\\
 - h) :: erforderliche Montage- und Bauteile, Materialien und Betriebsmittel für den Arbeitsablauf feststellen, termingerecht anfordern, transportieren, lagern und montagegerecht bereitstellen
 - i) :: bei der Auftragsbearbeitung mit dem Kunden und anderen Gewerken Informationen austauschen und zusammenarbeiten, bei Leistungsstörungen informieren und Alternativen aufzeigen
 
-
+ 
 
 4
 
@@ -284,14 +284,14 @@ Einrichten und Abräumen der Montagestelle 2)\\
 
 2
 
-
+ 
 
 - d) :: Werkzeuge, Meßgeräte, Bearbeitungsmaschinen und technische Einrichtungen auswählen, disponieren und beschaffen sowie montagegerecht bereitstellen
 - e) :: Werkzeuge, Meßgeräte, Bearbeitungsmaschinen und technische Einrichtungen warten, pflegen und überprüfen, bei Störungen Maßnahmen zu deren Beseitigung einleiten
 - f) :: Leitern, Gerüste und Montagebühnen auswählen, auf- und abbauen
 - g) :: Montagestelle sichern
 
-
+ 
 
 6
 
@@ -308,12 +308,12 @@ Bearbeiten und Verbinden von mechanischen Teilen\\
 
 10
 
-
+ 
 
 - f) :: Klebeverbindungen zwischen gleichen und verschiedenen Werkstoffen herstellen
 - g) :: Bleche und Profile aus Metall schweißen
 
-
+ 
 
 8
 
@@ -327,13 +327,13 @@ Zusammenbauen und Verdrahten von Baugruppen und Schaltschränken 3)\\
 
 8
 
-
+ 
 
 - c) :: Schaltgeräte, insbesondere Last- und Leistungsschalter, Sicherungen und Schütze, einbauen, verdrahten und kennzeichnen
 - d) :: Betriebsmittel zum Steuern, Regeln, Messen und Überwachen einbauen, verdrahten und kennzeichnen
 - e) :: Fehler korrigieren und Änderungen dokumentieren
 
-
+ 
 
 14
 
@@ -346,13 +346,13 @@ Montieren von elektrischen Maschinen, Geräten und sonstigen Betriebsmitteln 2) 
 
 4
 
-
+ 
 
 - b) :: Hebezeuge, Anschlag- und Transportmittel auswählen, zu transportierendes Gut anschlagen, Transport sichern und durchführen
 - c) :: Maschinen, Geräte und sonstige Betriebsmittel auf Untergrund und Tragkonstruktion aufstellen, ausrichten, befestigen und sichern
 - d) :: Schutzeinrichtungen, Verkleidungen und Isolierungen anbringen
 
-
+ 
 
 12
 
@@ -366,12 +366,12 @@ Montieren von Leitungsführungssystemen und Verlegen von Leitungen 2) 3)\\
 
 6
 
-
+ 
 
 - c) :: ein- und mehradrige, geschirmte und ungeschirmte Leitungen zurichten und unter Verwendung der unterschiedlichen Verbindungstechniken anschließen
 - d) :: Kabel und Leitungen verbinden und unter Verwendung der unterschiedlichen Verbindungstechniken an Betriebsmittel anschließen
 
-
+ 
 
 14
 
@@ -385,14 +385,14 @@ Installieren von elektrischen Anlagen 2) 3)\\
 
 6
 
-
+ 
 
 - c) :: Betriebsmittel für Haupt-, Hilfs- und Steuerstromkreise, insbesondere Verteilungseinrichtungen, Schalter und Steckverbindungen, montieren und anschließen
 - d) :: elektrische Maschinen anschließen
 - e) :: Stelleinrichtungen einbauen und anschließen
 - f) :: Erdungen und Potentialausgleichsleitungen verlegen und anschließen
 
-
+ 
 
 16
 
@@ -407,7 +407,7 @@ Prüfen, Messen, Einstellen und Inbetriebnehmen 3)\\
 
 4
 
-
+ 
 
 - d) :: Schaltungen mit logischen Grundfunktionen prüfen
 - e) :: Sollwerte und Funktion von Baugruppen und Geräten prüfen sowie Sollwerte einstellen
@@ -419,7 +419,7 @@ Prüfen, Messen, Einstellen und Inbetriebnehmen 3)\\
 - l) :: Hauptstromkreise prüfen und schrittweise in Betrieb nehmen, Betriebswerte messen, Sollwerte einstellen
 - m) :: Funktionsprüfung unter Betriebsbedingungen durchführen
 
-
+ 
 
 8
 
@@ -432,12 +432,12 @@ Beseitigen von Fehlern in elektrischen Anlagen 3)\\
 
 2
 
-
+ 
 
 - b) :: Geräte und Anlagenteile inspizieren
 - c) :: Anlagenteile zur Aufrechterhaltung der Betriebsfähigkeit nach Serviceunterlagen und Anweisungen warten
 
-
+ 
 
 10
 
@@ -450,16 +450,16 @@ Dokumentation 3)\\
 
 2
 
-
+ 
 
 - b) :: verbrauchtes Material, Ersatzteile, Arbeitszeit und technische Prüfungen dokumentieren
 - c) :: Schaltungsunterlagen von Anlagen aktualisieren
 
-
+ 
 
 4
 
-
+ 
 
 - 1) :: Die laufenden Nummern 1 bis 6 sollen integriert mit anderen Ausbildungsinhalten vermittelt werden.
 - 2) :: Die laufenden Nummern 7 bis 9 sollen insbesondere in Verbindung mit den laufenden Nummern 12 bis 14 vermittelt werden.

@@ -119,7 +119,7 @@ Verordnung zur Ausführung des Impfgesetzes vom 22. Januar 1940 (Reichsgesetzbl.
 6.5
 § 6 Buchstabe f
 (Hinwirken auf eine lückenlose Durchimpfung)
-
+ 
 - § 6 Buchstaben b bis f jeweils Ermöglichung einer Delegation der Zuständigkeit von den Stadt- und Landkreisen auf andere Behörden -
 6.6
 § 11
@@ -129,7 +129,7 @@ Verordnung über den Anschluß von Behörden und Betrieben an den Luftschutzwarn
 7.1
 § 3 Abs. 1 Satz 1 Nr. 2 und 3 und Satz 2
 (Mitwirkung bei der Verpflichtung von Betrieben, Dienststellen und Behörden)
-
+ 
 - Ermöglichung einer Delegation der Zuständigkeit von den obersten Landesbehörden auf andere Behörden -
 8.
 Verordnung zur Durchführung des Wohnungsgemeinnützigkeitsgesetzes in der Fassung der Bekanntmachung vom 24. November 1969 (Bundesgesetzbl. I S. 2141)
@@ -171,7 +171,7 @@ Verordnung zum Schutze gegen Staublungenerkrankungen (Silikose) in der keramisch
 12.1
 § 2
 (Zulassung von Ausnahmen)
-
+ 
 - Ermöglichung der Delegation der Zuständigkeit von den obersten Arbeitsbehörden der Länder auf andere Behörden -
 13.
 Bekanntmachung betreffend die Einrichtung und den Betrieb der Roßhaarspinnereien, Haar- und Borstenzurichtereien sowie der Bürsten- und Pinselmachereien vom 22. Oktober 1902 (Reichsgesetzbl. S. 269)
@@ -262,16 +262,16 @@ Erste Verordnung über Wasser- und Bodenverbände vom 3. September 1937 (Reichsg
 16.22
 § 177
 (Genehmigung zur Auflösung eines Verbandes)
-
+ 
 - Hinsichtlich § 3 Nr. 4, § 15 Satz 2, § 36 Satz 1, § 76 Abs. 1 Satz 2, § 122 Abs. 4 Satz 1, § 154 Buchstabe d, § 156 Abs. 2, § 159 Abs. 5, § 176 Abs. 2 Satz 1 und § 177: Ermöglichung der Delegation der Zuständigkeit auf die oberen Aufsichtsbehörden -
-
+ 
 - Hinsichtlich §§ 32, 48 Abs. 5 Satz 1, § 55 Abs. 2 Satz 1, § 56 Abs. 6, § 69 Abs. 1, § 82 Abs. 2 Nr. 4, § 95 Abs. 1, § 130 Abs. 1 und 3 Satz 1, § 152 Abs. 1, § 175 Abs. 1 Satz 1 und 2 und § 176 Abs. 1 Satz 1: Ermöglichung der Delegation der Zuständigkeit auf die Aufsichtsbehörden. Dies gilt nicht, wenn die Körperschaft, für deren Gebiet die Aufsichtsbehörde zuständig ist, Mitglied des Wasser- und Bodenverbands oder sonst betroffen ist -
 17.
 Verordnung zur Bekämpfung der Bisamratte vom 1. Juli 1938 (Reichsgesetzbl. I S. 847)
 17.1
 § 3 Abs. 2
 (Ermächtigung zur Anordnung bestimmter Maßnahmen zur Bekämpfung der Bisamratte)
-
+ 
 - Ermöglichung der Delegation der Zuständigkeit von den unteren Verwaltungsbehörden auf andere Behörden -
 18.
 Ausführungsvorschriften des Bundesrats zum Viehseuchengesetze vom 7. Dezember 1911 (Reichsgesetzbl. 1912 S. 3), zuletzt geändert durch § 27 Abs. 3 Nr. 1 der Verordnung über Sera und Impfstoffe nach § 17c des Viehseuchengesetzes vom 27. Februar 1973 (Bundesgesetzbl. I S. 134)
@@ -367,7 +367,7 @@ Viehseuchenpolizeiliche Anordnung über die Bekämpfung der ansteckenden Blutarm
 19.5
 § 17 Abs. 4
 (Genehmigung der Wiedereinstellung gesunder Einhufer in Seuchengehöfte)
-
+ 
 - Jeweils Ermöglichung der Delegation der Zuständigkeit von den höheren Verwaltungsbehörden auf andere Behörden -
 20.
 Erste Durchführungsverordnung zum Tierkörperbeseitigungsgesetz vom 23. Februar 1939 (Reichsgesetzbl. I S. 332)
@@ -397,7 +397,7 @@ Verordnung über die Durchführung des Fleischbeschaugesetzes vom 1. November 19
 21.6
 § 25
 (Festsetzung von Untersuchungstagen)
-
+ 
 - Jeweils Ermöglichung der Delegation der Zuständigkeit von den höheren Verwaltungsbehörden auf andere Behörden -
 22.
 Ausführungsbestimmungen A über die Untersuchung und gesundheitspolizeiliche Behandlung der Schlachttiere und des Fleisches bei Schlachtungen im Inland - AB.A -, Beilage 1 zur Verordnung über die Durchführung des Fleischbeschaugesetzes vom 1. November 1940 (Reichsministerialblatt S. 289, 1941 S. 9), zuletzt geändert durch Verordnung zur Änderung der Ausführungsbestimmungen A über die Untersuchung und gesundheitspolizeiliche Behandlung der Schlachttiere und des Fleisches bei Schlachtungen im Inland vom 18. Dezember 1973 (Bundesgesetzbl. 1974 I S. 18, 1193)
@@ -436,7 +436,7 @@ Ausführungsbestimmungen B über die Ausbildung, die Prüfung und die Fortbildun
 23.7
 § 19 Abs. 2 Satz 3
 (Bestimmung des Lehrgangsleiters für Fortbildungslehrgänge)
-
+ 
 - Jeweils Ermöglichung der Delegation der Zuständigkeit von den höheren Verwaltungsbehörden auf andere Behörden -
 24.
 Erste Verordnung zur Ausführung des Milchgesetzes vom 15. Mai 1931 (Reichsgesetzbl. I S. 150), zuletzt geändert durch die Verordnung über Ausnahmen von der Wartezeit nach § 15 Abs. 2 Satz 2 des Lebensmittel- und Bedarfsgegenständegesetzes vom 2. Januar 1975 (Bundesgesetzbl. I S. 124)
@@ -476,10 +476,10 @@ Straßenverkehrs-Zulassungs-Ordnung in der Fassung der Bekanntmachung vom 15. No
 30.1
 § 70 Abs. 1 Nr. 1
 (Zulassung von Ausnahmen)
-
+ 
 - Ermöglichung der Delegation der Zuständigkeit von den höheren Verwaltungsbehörden auf andere Behörden -
 30.2
 § 70 Abs. 2
 (Mitwirkung bei der Zulassung von Ausnahmen)
-
+ 
 - Ermöglichung der Delegation der Zuständigkeit von den obersten Straßenbaubehörden auf andere Behörden -

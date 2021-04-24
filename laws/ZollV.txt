@@ -352,46 +352,46 @@ und deren Wert je Reisender oder je Sendung 700 Euro nicht übersteigt, werden d
 
 (2) Es gelten folgende pauschalierte Einfuhrabgabensätze:\\
 \\
-
-
-
+ 
+ 
+ 
  präferenz-\\
  berechtigte\\
  Waren
 andere\\
 Waren
-
-
-
+ 
+ 
+ 
 EUR\\
 je Liter
 EUR\\
 je Liter
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 1.
 Schaumwein
 2,20
 2,30
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 2.
 Likörwein,\\
 Wermutwein und\\
 anderer aromatisierter Wein
 2,10
 2,10
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 3.
 a)
 Ethylalkohol\\
@@ -402,12 +402,12 @@ unvergällt,\\
 bis zu 5 Liter
 14,40
 14,50
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 b)
 Ethylalkohol\\
 mit einem\\
@@ -417,12 +417,12 @@ unvergällt,\\
 bis zu 5 Liter
 9,80
 9,90
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 c)
 zusammengesetzte alkohol-\\
 haltige Zubereitungen sowie Branntwein,\\
@@ -430,11 +430,11 @@ Likör und andere Spirituosen der\\
 Unterpositionen 2208 2012 bis 2208 9078 des Zolltarifs
 6,60
 6,80
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 4.
 a)
 Zigaretten
@@ -442,110 +442,110 @@ Zigaretten
 je Stück
 0,19\\
 je Stück
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 b)
 Zigarren und\\
 Zigarillos bis zu\\
 250 Stück
 27 %
 42 %
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 des inländischen Kleinverkaufspreises für Zigarren oder Zigarillos derselben Marke oder gleichartiger Beschaffenheit
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 EUR\\
 je kg
 EUR\\
 je kg
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 c)
 Feinschnitt bis zu 1 Kilogramm
 \\
 70,30
 \\
 82,80
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 d)
 Pfeifentabak bis zu 1 Kilogramm
 35,40
 49,30
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 EUR\\
 je Liter
 EUR\\
 je Liter
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 5.
 a)
 Vergaserkraftstoff
 0,90
 0,90
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 b)
 Dieselkraftstoff
 0,70
 0,70
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 % des\\
 Wertes
 % des\\
 Wertes
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 6.
 andere Waren,\\
 ausgenommen Bier im Sinne des § 1 Abs. 2 des Biersteuergesetzes 1993 vom 21. Dezember 1992 (BGBl. I S. 2150, 2158; 1993 I S. 169), das zuletzt durch Artikel 15 des Gesetzes vom 29. Dezember 2003 (BGBl. I S. 3076) geändert worden ist, in der jeweils geltenden Fassung

@@ -595,7 +595,7 @@ die Höhe des Zuschlags ist aus der im Anhang abgedruckten Tabelle zu entnehmen.
 
 Anhänge zu § 29b Abs. 3, 4 und 4a Steigerungsbeträge für den Tarif Z 2002 gemäß § 29b Abs. 3 (Verrentungsprozentsätze)
 
-
+ 
 
 nur Altersrente
 
@@ -605,7 +605,7 @@ Alters- und Invalidenrente
 
 Alters-, Invaliden-und Hinterbliebenenrente
 
-
+ 
 
 Männer
 
@@ -705,19 +705,19 @@ X
 
 1,16%
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
+ 
 
 26
 
@@ -789,19 +789,19 @@ X
 
 1,03%
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
+ 
 
 31
 
@@ -873,19 +873,19 @@ X
 
 0,91%
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
+ 
 
 36
 
@@ -957,19 +957,19 @@ X
 
 0,80%
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
+ 
 
 41
 
@@ -1041,19 +1041,19 @@ X
 
 0,71%
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
+ 
 
 46
 
@@ -1125,19 +1125,19 @@ X
 
 0,62%
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
+ 
 
 51
 
@@ -1279,19 +1279,19 @@ X
 
 0,48%
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
+ 
 
 61
 
@@ -1363,19 +1363,19 @@ X
 
 0,41%
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
+ 
 
 66
 
@@ -1436,7 +1436,7 @@ Alters- und Invalidenrente
 
 Alters-, Invaliden- und Hinterbliebenenrente
 
-
+ 
 
 Männer (Tab. 1A)
 
@@ -1494,7 +1494,7 @@ M. + F. (Tab. 4)
 
 Um den in der Tabelle jeweils genannten Prozentsatz erhöht sich die spätere Altersrente pro vollem Kalendermonat der Nichtinanspruchnahme einer zustehenden Altersrente.
 
-
+ 
 
 Tabelle für Umrechnungsfaktoren\\
 der Rentenbausteine gemäß § 29b Abs. 4a
@@ -1509,7 +1509,7 @@ Alters- und Invalidenrente
 
 Alters-, Invaliden- und Hinterbliebenenrente
 
-
+ 
 
 Männer (Tab. 1A)
 
@@ -1928,11 +1928,11 @@ Versicherte der Abteilung A 2000, die nicht die Voraussetzungen des § 16b erfü
 (2) In der Abteilung A errechnet sich die Jahresrente der beitragsfrei Versicherten aus Steigerungsbeiträgen. Die für ein Kalenderjahr entrichteten Beiträge werden einheitlich mit dem Steigerungsbetrag bewertet, der für das Lebensjahr maßgeblich ist, das der Versicherte in diesem Kalenderjahr beginnt; dasselbe gilt für zugeflossene Altersvorsorgezulagen (§§ 79 ff. EStG), soweit sie nicht zurückgefordert werden; maßgeblich ist das Kalenderjahr des Eingangs der Zulage bei der Kasse. Die Monatsrente dieser Versicherten ergibt sich getrennt für die Ansprüche auf Grund von Beiträgen bis zum 31. Dezember 1999 und für die Ansprüche auf Grund von Beiträgen ab dem 1. Januar 2000. Für den Zeitpunkt der Beitragsfreistellung wird der Barwert der zum 31. Dezember 1999 erreichten Anwartschaften und die Deckungsrückstellung unter Berücksichtigung der geleisteten und erwarteten Beiträge ab dem 1. Januar 2000 errechnet. Beide Teilbeträge werden einschließlich der entsprechenden erreichten Leistungserhöhungen auf Grund der Überschussbeteiligung der folgenden Tabelle in Rentenansprüche umgerechnet:\\
 \\
 
-
+ 
 
 Rentenanspruch
 
-
+ 
 
 aus Beitragszahlung bis 31. Dezember 1999
 

@@ -11,18 +11,18 @@ Ausfertigungsdatum: 23.07.2013
 
 § 2 - Gekennzeichnete Vorhaben
 
-(1) Die im Bundesbedarfsplan mit A1“ gekennzeichneten Vorhaben sind länderübergreifend im Sinne von § 2 Absatz 1 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz. Die im Bundesbedarfsplan mit A2“ gekennzeichneten Vorhaben sind grenzüberschreitend im Sinne von § 2 Absatz 1 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz.
-(2) Die im Bundesbedarfsplan mit B“ gekennzeichneten Vorhaben können als Pilotprojekte für eine verlustarme Übertragung hoher Leistungen über große Entfernungen nach § 12b Absatz 1 Satz 4 Nummer 3 Buchstabe a des Energiewirtschaftsgesetzes errichtet und betrieben werden.
-(3) Die im Bundesbedarfsplan mit C“ gekennzeichneten Vorhaben sind Anbindungsleitungen von den Offshore-Windpark-Umspannwerken zu den Netzverknüpfungspunkten an Land im Sinne von § 2 Absatz 1 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz (Offshore-Anbindungsleitungen). Sie werden im Küstenmeer als Seekabel und landeinwärts bis zu den im Bundesbedarfsplan festgelegten Netzverknüpfungspunkten als Freileitung oder Erdkabel errichtet und betrieben oder geändert.
-(4) Die im Bundesbedarfsplan mit D“ gekennzeichneten Vorhaben sind als Pilotprojekte für den Einsatz von Hochtemperaturleiterseilen nach § 12b Absatz 1 Satz 3 Nummer 3 Buchstabe b des Energiewirtschaftsgesetzes zu errichten und zu betreiben oder zu ändern. Die für die Zulassung des Vorhabens zuständige Behörde kann den Einsatz von Hochtemperaturleiterseilen bei Vorhaben des Bundesbedarfsplans, die nicht unter Satz 1 fallen, genehmigen, soweit dies technisch und wirtschaftlich effizient ist.
-(5) Die im Bundesbedarfsplan mit E“ gekennzeichneten Vorhaben zur Höchstspannungs-Gleichstrom-Übertragung sind nach Maßgabe des § 3 als Erdkabel zu errichten und zu betreiben oder zu ändern.
-(6) Die im Bundesbedarfsplan mit F“ gekennzeichneten Vorhaben zur Höchstspannungs-Drehstrom-Übertragung können als Pilotprojekte nach Maßgabe des § 4 als Erdkabel errichtet und betrieben oder geändert werden.
-(7) Bei der Zulassung der im Bundesbedarfsplan mit G“ gekennzeichneten Vorhaben oder Einzelmaßnahmen ist nach § 5a Absatz 4 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz aufgrund ihrer besonderen Eilbedürftigkeit auf eine Bundesfachplanung zu verzichten.
-(8) Bei den im Bundesbedarfsplan mit H“ gekennzeichneten Vorhaben stehen die energiewirtschaftliche Notwendigkeit und der vordringliche Bedarf für Leerrohre fest, die nach Maßgabe des § 18 Absatz 3 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz zugelassen werden.
+(1) Die im Bundesbedarfsplan mit „A1“ gekennzeichneten Vorhaben sind länderübergreifend im Sinne von § 2 Absatz 1 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz. Die im Bundesbedarfsplan mit „A2“ gekennzeichneten Vorhaben sind grenzüberschreitend im Sinne von § 2 Absatz 1 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz.
+(2) Die im Bundesbedarfsplan mit „B“ gekennzeichneten Vorhaben können als Pilotprojekte für eine verlustarme Übertragung hoher Leistungen über große Entfernungen nach § 12b Absatz 1 Satz 4 Nummer 3 Buchstabe a des Energiewirtschaftsgesetzes errichtet und betrieben werden.
+(3) Die im Bundesbedarfsplan mit „C“ gekennzeichneten Vorhaben sind Anbindungsleitungen von den Offshore-Windpark-Umspannwerken zu den Netzverknüpfungspunkten an Land im Sinne von § 2 Absatz 1 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz (Offshore-Anbindungsleitungen). Sie werden im Küstenmeer als Seekabel und landeinwärts bis zu den im Bundesbedarfsplan festgelegten Netzverknüpfungspunkten als Freileitung oder Erdkabel errichtet und betrieben oder geändert.
+(4) Die im Bundesbedarfsplan mit „D“ gekennzeichneten Vorhaben sind als Pilotprojekte für den Einsatz von Hochtemperaturleiterseilen nach § 12b Absatz 1 Satz 3 Nummer 3 Buchstabe b des Energiewirtschaftsgesetzes zu errichten und zu betreiben oder zu ändern. Die für die Zulassung des Vorhabens zuständige Behörde kann den Einsatz von Hochtemperaturleiterseilen bei Vorhaben des Bundesbedarfsplans, die nicht unter Satz 1 fallen, genehmigen, soweit dies technisch und wirtschaftlich effizient ist.
+(5) Die im Bundesbedarfsplan mit „E“ gekennzeichneten Vorhaben zur Höchstspannungs-Gleichstrom-Übertragung sind nach Maßgabe des § 3 als Erdkabel zu errichten und zu betreiben oder zu ändern.
+(6) Die im Bundesbedarfsplan mit „F“ gekennzeichneten Vorhaben zur Höchstspannungs-Drehstrom-Übertragung können als Pilotprojekte nach Maßgabe des § 4 als Erdkabel errichtet und betrieben oder geändert werden.
+(7) Bei der Zulassung der im Bundesbedarfsplan mit „G“ gekennzeichneten Vorhaben oder Einzelmaßnahmen ist nach § 5a Absatz 4 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz aufgrund ihrer besonderen Eilbedürftigkeit auf eine Bundesfachplanung zu verzichten.
+(8) Bei den im Bundesbedarfsplan mit „H“ gekennzeichneten Vorhaben stehen die energiewirtschaftliche Notwendigkeit und der vordringliche Bedarf für Leerrohre fest, die nach Maßgabe des § 18 Absatz 3 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz zugelassen werden.
 
 § 3 - Erdkabel für Leitungen zur Höchstspannungs-Gleichstrom-Übertragung
 
-(1) Leitungen zur Höchstspannungs-Gleichstrom-Übertragung der im Bundesbedarfsplan mit E“ gekennzeichneten Vorhaben sind nach Maßgabe dieser Vorschrift als Erdkabel zu errichten und zu betreiben oder zu ändern.
+(1) Leitungen zur Höchstspannungs-Gleichstrom-Übertragung der im Bundesbedarfsplan mit „E“ gekennzeichneten Vorhaben sind nach Maßgabe dieser Vorschrift als Erdkabel zu errichten und zu betreiben oder zu ändern.
 (2) Die Leitung kann auf technisch und wirtschaftlich effizienten Teilabschnitten als Freileitung errichtet und betrieben oder geändert werden, soweit
 
 - 1. :: ein Erdkabel gegen die Verbote des § 44 Absatz 1 auch in Verbindung mit Absatz 5 des Bundesnaturschutzgesetzes verstieße und mit dem Einsatz einer Freileitung eine zumutbare Alternative im Sinne des § 45 Absatz 7 Satz 2 des Bundesnaturschutzgesetzes gegeben ist,
@@ -40,11 +40,11 @@ Auf Verlangen der für die Bundesfachplanung oder Zulassung des Vorhabens zustä
 Satz 1 ist weder für die nachträgliche Änderung oder Erweiterung der Leitung noch für den nachträglichen Ersatz- und Parallelneubau anzuwenden.
 
 (5) Als Erdkabel im Sinne dieser Vorschrift gelten alle Erdleitungen einschließlich Kabeltunnel, Nebenbauwerken und gasisolierter Rohrleitungen. § 2 Absatz 5 des Energieleitungsausbaugesetzes ist entsprechend anzuwenden. Kunststoffisolierte Erdkabel mit einer Nennspannung von mehr als 320 Kilovolt bis zu 525 Kilovolt erfüllen die Anforderungen an die technische Sicherheit im Sinne des § 49 des Energiewirtschaftsgesetzes.
-(6) Für Leitungen zur Höchstspannungs-Drehstrom-Übertragung, die der Anbindung von Stromrichteranlagen im Rahmen des im Bundesbedarfsplan mit E“ gekennzeichneten Vorhabens dienen, ist § 4 entsprechend anzuwenden.
+(6) Für Leitungen zur Höchstspannungs-Drehstrom-Übertragung, die der Anbindung von Stromrichteranlagen im Rahmen des im Bundesbedarfsplan mit „E“ gekennzeichneten Vorhabens dienen, ist § 4 entsprechend anzuwenden.
 
 § 4 - Erdkabel für Leitungen zur Höchstspannungs-Drehstrom-Übertragung
 
-(1) Um den Einsatz von Erdkabeln im Drehstrom-Übertragungsnetz als Pilotprojekte zu testen, können die im Bundesbedarfsplan mit F“ gekennzeichneten Vorhaben zur Höchstspannungs-Drehstrom-Übertragung nach Maßgabe dieser Vorschrift als Erdkabel errichtet und betrieben oder geändert werden.
+(1) Um den Einsatz von Erdkabeln im Drehstrom-Übertragungsnetz als Pilotprojekte zu testen, können die im Bundesbedarfsplan mit „F“ gekennzeichneten Vorhaben zur Höchstspannungs-Drehstrom-Übertragung nach Maßgabe dieser Vorschrift als Erdkabel errichtet und betrieben oder geändert werden.
 (2) Im Falle des Neubaus kann eine Höchstspannungs-Drehstrom-Übertragungsleitung eines Vorhabens nach Absatz 1 auf technisch und wirtschaftlich effizienten Teilabschnitten als Erdkabel errichtet und betrieben oder geändert werden, wenn
 
 - 1. :: die Leitung in einem Abstand von weniger als 400 Metern zu Wohngebäuden errichtet werden soll, die im Geltungsbereich eines Bebauungsplans oder im unbeplanten Innenbereich im Sinne des § 34 des Baugesetzbuchs liegen, falls diese Gebiete vorwiegend dem Wohnen dienen,
@@ -101,9 +101,9 @@ A1, B, E
 Höchstspannungsleitung Klein Rogahn -- Isar; Gleichstrom
 A1, B, E
 mit den Bestandteilen
-
+ 
 -- Klein Rogahn -- Landkreis Börde
-
+ 
 -- Landkreis Börde -- Isar
 G
  6
@@ -113,28 +113,28 @@ F
 Höchstspannungsleitung Stade -- Sottrum -- Grafschaft Hoya -- Landesbergen; Drehstrom Nennspannung 380 kV
 F
 mit den Einzelmaßnahmen
-
+ 
 -- Maßnahme Stade -- Sottrum
-
+ 
 -- Maßnahme Sottrum -- Grafschaft Hoya
-
+ 
 -- Maßnahme Grafschaft Hoya -- Landesbergen
-
+ 
  8
 Höchstspannungsleitung Brunsbüttel -- Barlt -- Heide -- Husum -- Klixbüll -- Bundesgrenze (DK); Drehstrom Nennspannung 380 kV
 --
 mit den Einzelmaßnahmen
-
+ 
 -- Maßnahme Barlt -- Heide
-
+ 
 -- Maßnahme Brunsbüttel -- Barlt
-
+ 
 -- Maßnahme Heide -- Husum
-
+ 
 -- Maßnahme Husum -- Klixbüll
-
+ 
 -- Maßnahme Klixbüll -- Grenze DK
-
+ 
  9
 Höchstspannungsleitung Hamm-Uentrop -- Kruckel; Drehstrom Nennspannung 380 kV
 --
@@ -142,11 +142,11 @@ Höchstspannungsleitung Hamm-Uentrop -- Kruckel; Drehstrom Nennspannung 380 kV
 Höchstspannungsleitung Wolmirstedt -- Helmstedt -- Wahle; Drehstrom Nennspannung 380 kV
 A1
 mit den Einzelmaßnahmen
-
+ 
 -- Maßnahme Wolmirstedt -- Helmstedt -- Hattorf -- Wahle
-
+ 
 -- Maßnahme Wolmirstedt -- Helmstedt -- Landkreise Peine/Braunschweig/Salzgitter -- Mehrum Nord
-
+ 
 11
 Höchstspannungsleitung Bertikow -- Pasewalk; Drehstrom Nennspannung 380 kV
 A1
@@ -164,7 +164,7 @@ Höchstspannungsleitung Punkt Metternich -- Niederstedem; Drehstrom Nennspannung
 --
 16
 (aufgehoben)
-
+ 
 17
 Höchstspannungsleitung Mecklar -- Dipperz -- Bergrheinfeld West; Drehstrom Nennspannung 380 kV
 A1, F
@@ -175,26 +175,26 @@ Höchstspannungsleitung Redwitz -- Mechlenreuth -- Etzenricht -- Schwandorf; Dre
 Höchstspannungsleitung Urberach -- Pfungstadt -- Weinheim -- G380 -- Altlußheim -- Daxlanden; Drehstrom Nennspannung 380 kV
 A1
 mit den Einzelmaßnahmen
-
+ 
 -- Maßnahme Urberach -- Pfungstadt -- Weinheim
-
+ 
 -- Maßnahme Weinheim -- Daxlanden
-
+ 
 -- Maßnahme Weinheim -- G380
-
+ 
 -- Maßnahme G380 -- Altlußheim
-
+ 
 -- Maßnahme Altlußheim -- Daxlanden
-
+ 
 20
 Höchstspannungsleitung Grafenrheinfeld -- Kupferzell -- Großgartach; Drehstrom Nennspannung 380 kV
 A1
 mit den Einzelmaßnahmen
-
+ 
 -- Maßnahme Grafenrheinfeld -- Kupferzell
 G
 -- Maßnahme Großgartach -- Kupferzell
-
+ 
 21
 Höchstspannungsleitung Daxlanden -- Kuppenheim -- Bühl -- Eichstetten; Drehstrom Nennspannung 380 kV
 D
@@ -230,17 +230,17 @@ Höchstspannungsleitung Wilhelmshaven -- Conneforde; Drehstrom Nennspannung 380 
 F
 32
 Höchstspannungsleitung Altheim -- Bundesgrenze (AT) -- Pleinting mit Abzweigen Markt Tann/Gemeinde Zeilarn -- Pirach und Matzenhof -- Simbach; Drehstrom Nennspannung 380 kV
-
+ 
 mit den Einzelmaßnahmen
-
+ 
 -- Maßnahme Altheim -- Bundesgrenze (AT)
-
+ 
 -- Maßnahme Bundesgrenze (AT) -- Pleinting
 F
 -- Maßnahme Abzweig Markt Tann/Gemeinde Zeilarn -- Pirach
 F
 -- Maßnahme Abzweig Matzenhof -- Simbach
-
+ 
 33
 Höchstspannungsleitung Schleswig-Holstein -- Südnorwegen (NO) (NORD.LINK); Gleichstrom
 B
@@ -252,7 +252,7 @@ Höchstspannungsleitung Birkenfeld -- Mast 115A; Drehstrom Nennspannung 380 kV
 --
 36
 (aufgehoben)
-
+ 
 37
 Höchstspannungsleitung Emden Ost -- Halbemond; Drehstrom Nennspannung 380 kV
 --
@@ -263,13 +263,13 @@ Höchstspannungsleitung Dollern -- Elsfleth West; Drehstrom Nennspannung 380 kV
 Höchstspannungsleitung Güstrow -- Parchim Süd -- Perleberg -- Stendal West -- Wolmirstedt; Drehstrom Nennspannung 380 kV
 --
 mit den Einzelmaßnahmen
-
+ 
 -- Maßnahme Güstrow -- Parchim Süd
-
+ 
 -- Maßnahme Parchim Süd -- Perleberg
-
+ 
 -- Maßnahme Perleberg -- Stendal West -- Wolmirstedt
-
+ 
 40
 Höchstspannungsleitung Punkt Neuravensburg -- Bundesgrenze (AT); Drehstrom Nennspannung 380 kV
 A2
@@ -277,22 +277,22 @@ A2
 Höchstspannungsleitung Raitersaich -- Ludersheim -- Sittling -- Altheim; Drehstrom Nennspannung 380 kV
 F
 mit den Einzelmaßnahmen
-
+ 
 -- Maßnahme Raitersaich -- Ludersheim
-
+ 
 -- Maßnahme Ludersheim -- Sittling -- Altheim
-
+ 
 42
 Höchstspannungsleitung Kreis Segeberg -- Lübeck -- Siems -- Göhl; Drehstrom Nennspannung 380 kV
 F
 mit den Einzelmaßnahmen
-
+ 
 -- Maßnahme Kreis Segeberg -- Lübeck
-
+ 
 -- Maßnahme Lübeck -- Siems
-
+ 
 -- Maßnahme Lübeck -- Göhl
-
+ 
 43
 Höchstspannungsleitung Borken -- Mecklar; Drehstrom Nennspannung 380 kV
 --
@@ -312,14 +312,14 @@ Höchstspannungsleitung Oberbachern -- Ottenhofen; Drehstrom Nennspannung 380 kV
 Höchstspannungsleitung Heide West -- Polsum; Gleichstrom
 A1, B, E
 mit den Bestandteilen
-
+ 
 -- Heide West -- B 431 südlich Roßkopp (Wewelsfleth)
-
+ 
 -- B 431 südlich Roßkopp (Wewelsfleth) -- L 111 östlich Allwörden (Freiburg (Elbe)/\\
 Wischhafen)
 G
 -- L 111 östlich Allwörden (Freiburg (Elbe)/Wischhafen) -- Polsum
-
+ 
 49
 Höchstspannungsleitung Wilhelmshaven/Landkreis Friesland -- Hamm; Gleichstrom
 A1, B, E
@@ -372,11 +372,11 @@ Höchstspannungsleitung Hattingen -- Linde; Drehstrom Nennspannung 380 kV
 Höchstspannungsleitung Borken -- Gießen Nord -- Karben; Drehstrom Nennspannung 380 kV
 --
 mit den Einzelmaßnahmen
-
+ 
 -- Maßnahme Borken -- Gießen Nord
-
+ 
 -- Maßnahme Gießen Nord -- Karben
-
+ 
 66
 Höchstspannungsleitung Großkrotzenburg -- Dettingen -- Urberach; Drehstrom Nennspannung 380 kV
 --
@@ -402,11 +402,11 @@ A2, G
 Höchstspannungsleitung Wilhelmshaven/Landkreis Friesland -- Fedderwarden -- Conneforde; Drehstrom Nennspannung 380 kV
 --
 mit den Einzelmaßnahmen
-
+ 
 -- Wilhelmshaven/Landkreis Friesland -- Fedderwarden
-
+ 
 -- Wilhelmshaven/Landkreis Friesland -- Conneforde
-
+ 
 74
 Höchstspannungsleitung Punkt Blatzheim -- Oberzier; Drehstrom Nennspannung 380 kV
 --
@@ -423,22 +423,22 @@ F
 Höchstspannungsleitung Grenzkorridor II -- Hanekenfähr (DolWin4); Gleichstrom
 B, E
 mit den Bestandteilen
-
+ 
 -- Grenzkorridor II -- Emden
-
+ 
 -- Emden -- Wietmarschen/Geeste
 A2, G
 -- Wietmarschen/Geeste -- Hanekenfähr
-
+ 
 79
 Höchstspannungsleitung Grenzkorridor II -- Hanekenfähr (BorWin4); Gleichstrom mit den Bestandteilen
 B, E
 -- Grenzkorridor II -- Emden
-
+ 
 -- Emden -- Wietmarschen/Geeste
 A2, G
 -- Wietmarschen/Geeste -- Hanekenfähr
-
+ 
 80
 Höchstspannungsleitung Grenzkorridor V -- Büttel (BorWin6); Gleichstrom
 B

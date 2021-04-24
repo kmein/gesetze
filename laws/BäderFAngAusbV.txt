@@ -204,40 +204,40 @@ Aufrechterhalten der Betriebssicherheit (§ 3 Nr. 5)
 a)
 Rechtsvorschriften und betriebliche Bestimmungen, die für den Betrieb des Bades gelten, anwenden
 12
-
-
+ 
+ 
 b)
 Rechtsvorschriften und betriebliche Grundsätze der Hygiene anwenden
 c)
 Mittel, Geräte und Verfahren zur Reinigung und Desinfektion anwenden und deren Auswahl begründen
 d)
 bei der Organisation von Betriebsabläufen des Badebetriebes mitwirken
-
+ 
 6
-
+ 
 e)
 bei der Kontrolle und Beaufsichtigung im Rahmen der Verkehrssicherungspflicht mitwirken
-
-
+ 
+ 
 6
 6
 Beaufsichtigen des Badebetriebes (§ 3 Nr. 6)
 a)
 Gefahren des Badebetriebes in und an Naturgewässern erläutern
 4
-
-
+ 
+ 
 b)
 Rechtsnormen, Verwaltungsvorschriften, Betriebs- und Dienstanweisungen zur Aufsicht im Badebetrieb sowie die Badeordnung anwenden
 c)
 Beaufsichtigung im Badebetrieb, insbesondere im Beckenbereich, durchführen
-
+ 
 6
-
+ 
 d)
 bei Planung und Organisation des Aufsichtsdienstes mitwirken
-
-
+ 
+ 
 8
 e)
 bedrohliche Situationen im Badebetrieb feststellen und Sofortmaßnahmen einleiten
@@ -246,21 +246,21 @@ Betreuen von Besuchern (§ 3 Nr. 7)
 a)
 Besucher empfangen und informieren
 4
-
-
+ 
+ 
 b)
 Konfliktfelder beschreiben und Möglichkeiten zur Konfliktregelung anwenden
 c)
 über notwendige Hygienemaßnahmen beraten
 d)
 Besucherwünsche ermitteln und entsprechende Spiel- und Sportarrangements anbieten
-
+ 
 6
-
+ 
 e)
 Besucher betreuen
-
-
+ 
+ 
 4
 f)
 Kommunikationsregeln in verschiedenen beruflichen Situationen anwenden und zur Vermeidung von Kommunikationsstörungen beitragen
@@ -269,21 +269,21 @@ Schwimmen (§ 3 Nr. 8)
 a)
 Wettkampftechniken einschließlich Start- und Wendetechniken anwenden
 7
-
-
+ 
+ 
 b)
 Techniken des Strecken- und Tieftauchens anwenden
 c)
 Einfachsprünge ausführen
 d)
 theoretischen und praktischen Schwimmunterricht für Anfänger durchführen
-
+ 
 7
-
+ 
 e)
 Schwimmunterricht für Fortgeschrittene durchführen
-
-
+ 
+ 
 6
 f)
 Spring- und Tauchunterricht für Anfänger durchführen
@@ -292,36 +292,36 @@ Einleiten und Ausüben von Wasserrettungsmaßnahmen (§ 3 Nr. 9)
 a)
 Rettungsmaßnahmen, insbesondere unter Anwendung der Methoden des Rettungsschwimmens, durchführen
 6
-
-
+ 
+ 
 b)
 Rettungssituationen erläutern und entsprechende Rettungsmaßnahmen ableiten
-
+ 
 7
-
+ 
 c)
 Rettungsgeräte für Wasserrettungsmaßnahmen warten und einsetzen
-
-
+ 
+ 
 7
 10
 Durchführen von Erster Hilfe und Wiederbelebungs-maßnahmen (§ 3 Nr. 10)
 a)
 Aufgaben eines Ersthelfers nach den Unfallverhütungsvorschriften des Trägers der gesetzlichen Unfallversicherung ausüben
 4
-
-
+ 
+ 
 b)
 Herz-Lungen-Wiederbelebungs-maßnahmen an Personen unterschiedlicher Altersgruppen unter Berücksichtigung der verschiedenen anatomischen Gegebenheiten durchführen
 c)
 Unfallbeteiligte betreuen
-
+ 
 2
-
+ 
 d)
 Herz-Lungen-Wiederbelebung mit einfachem Gerät, insbesondere Beutel- und Balgbeatmer, durchführen
-
-
+ 
+ 
 2
 e)
 Verletzten mit und ohne Gerät transportieren
@@ -330,16 +330,16 @@ Messen physikalischer und chemischer Größen sowie Bestimmen von Stoffkonstante
 a)
 Länge, Masse, Volumen, Temperatur und Druck messen
 2
-
-
+ 
+ 
 b)
 die Bedeutung von Schmelzpunkt, Siedepunkt und Dichte erläutern
 c)
 pH-Wert und Hygienehilfsparameter bestimmen
 d)
 Proben unter betrieblichen Bedingungen entnehmen
-
-
+ 
+ 
 2
 e)
 Meßgeräte zur Überwachung der Wasserqualität handhaben und pflegen
@@ -348,42 +348,42 @@ Kontrollieren und Sichern des technischen Betriebsablaufes (§ 3 Nr. 12)
 a)
 Betriebsabläufe durch regelmäßige Kontrolle der bädertechnischen Anlagen und der Betriebszustände sichern
 7
-
-
+ 
+ 
 b)
 Arbeits- und Bäderhygiene kontrollieren und sichern
 c)
 Betriebsdaten von Steuer-, Regel- und Sicherheitseinrichtungen prüfen und dokumentieren
-
+ 
 8
-
+ 
 d)
 Notfallpläne zur Bewältigung häufiger Störungen anwenden
 e)
 Prozeßabläufe technischer Anlagen, insbesondere zur Schwimm- und Badebeckenwasseraufbereitung, steuern
-
-
+ 
+ 
 9
 13
 Pflegen und Warten bäder-und freizeittechnischer Einrichtungen (§ 3 Nr. 13)
 a)
 Werkstoffe nach Eigenschaften und Einsatzmöglichkeiten beurteilen
 4
-
-
+ 
+ 
 b)
 Arbeitsgeräte, Werkzeuge und Werkstücke einsetzen
 c)
 einfache Schlauch- und Rohrverbindungen zusammenfügen und lösen
-
+ 
 4
-
+ 
 d)
 Aufbau, Einsatz und Wirkungsweise von Armaturen, Filtern und Aggregaten beschreiben
 e)
 Dichtungen erneuern und Filtereinsätze auswechseln
-
-
+ 
+ 
 4
 f)
 technische Anlagen, Geräte und Werkzeuge pflegen und warten
@@ -393,9 +393,9 @@ Innen- und Außenanlagen pflegen und warten
 Durchführen von Verwaltungsarbeiten im Bad (§ 3 Nr. 14)
 a)
 Ablauforganisation der Verwaltungsarbeiten im Bad beschreiben
-
+ 
 4
-
+ 
 b)
 Kassensysteme unterscheiden und Kassenabrechnungen erstellen
 c)
@@ -408,8 +408,8 @@ f)
 Informations- und Kommunikationssysteme aufgabenorientiert einsetzen
 g)
 ausgewählte Vorschriften des Vertrags- und Haftungsrechts anwenden
-
-
+ 
+ 
 2
 h)
 Zahlungsverkehr abwickeln
@@ -418,17 +418,17 @@ Zahlungsverkehr abwickeln
 a)
 Inhalte und Zielstellung öffentlichkeitswirksamer Maßnahmen darstellen
 2
-
-
+ 
+ 
 b)
 einfache Texte und Werbeträger gestalten
-
+ 
 2
-
+ 
 c)
 bei Planung und Organisation von Werbemaßnahmen mitwirken
-
-
+ 
+ 
 2
 d)
 Werbemaßnahmen durchführen

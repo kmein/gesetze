@@ -135,6 +135,6 @@ Anlage - (zu § 12)
 \\
 
 - 1. :: Nummernraum für das öffentliche Telefonnetz gemäß der Empfehlung E.164 der Internationalen Fernmeldeunion
-  
+   
 - 2. :: Sonstige Nummern
-  
+   

@@ -17,7 +17,7 @@ Auf Grund des § 22 Absatz 3 Satz 1 des Geldwäschegesetzes vom 23. Juni 2017 (B
 - 3. :: Rechtsform des Unternehmens,
 - 4. :: Sitz und Anschrift des Unternehmens, bei Zweigniederlassungen die betreffenden Daten der Zweigniederlassung,
 - 5. :: Kennzeichnung, ob es sich um eine Neueintragung, eine Veränderung oder eine Löschung handelt,
-- 6. :: Verfügbarkeit der Dokumentenarten Aktueller Ausdruck (AD)“, Chronologischer Ausdruck (CD)“, Historischer Ausdruck (HD)“, Unternehmensträgerdaten (UT)“ und Dokumentenansicht (DK)“ zu dem jeweiligen Unternehmen.
+- 6. :: Verfügbarkeit der Dokumentenarten „Aktueller Ausdruck (AD)“, „Chronologischer Ausdruck (CD)“, „Historischer Ausdruck (HD)“, „Unternehmensträgerdaten (UT)“ und „Dokumentenansicht (DK)“ zu dem jeweiligen Unternehmen.
 
 (2) Für Eintragungen im Vereinsregister gilt die Pflicht zur Übermittlung der erforderlichen Indexdaten, soweit vorhanden, nach Satz 1 entsprechend.
 (3) Falls und soweit die Landesjustizverwaltungen für das länderübergreifende, zentrale elektronische Informations- und Kommunikationssystem (§ 9 Absatz 1 Satz 4 des Handelsgesetzbuchs) zusätzlich zu den Indexdaten nach § 1 Absatz 1 und 2 weitere Indexdaten bereitstellen, sind auch diese dem Transparenzregister zu übermitteln.

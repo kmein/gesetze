@@ -10,45 +10,45 @@ Auf Grund des § 56 Absatz 1 und 2 des Pflegeberufegesetzes vom 17. Juli 2017 (B
 
 Inhaltsübersicht
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 § 1 - Inhalt und Gliederung der Ausbildung
 
@@ -134,7 +134,7 @@ Gegenstand der Zwischenprüfung nach § 6 Absatz 5 des Pflegeberufegesetzes ist 
 - 2. :: der ordnungsgemäß schriftlich geführte Ausbildungsnachweis nach § 3 Absatz 5 und
 - 3. :: die Jahreszeugnisse nach § 6 Absatz 1.
 
-(3) Die Zulassung zur staatlichen Prüfung kann nur erteilt werden, wenn die nach § 13 des Pflegeberufegesetzes in Verbindung mit § 1 Absatz 4 zulässigen Fehlzeiten nicht überschritten worden sind und die Durchschnittsnote der Jahreszeugnisse mindestens ausreichend“ beträgt.
+(3) Die Zulassung zur staatlichen Prüfung kann nur erteilt werden, wenn die nach § 13 des Pflegeberufegesetzes in Verbindung mit § 1 Absatz 4 zulässigen Fehlzeiten nicht überschritten worden sind und die Durchschnittsnote der Jahreszeugnisse mindestens „ausreichend“ beträgt.
 (4) Die Zulassung zur staatlichen Prüfung sowie die Prüfungstermine werden der zu prüfenden Person spätestens zwei Wochen vor Prüfungsbeginn schriftlich oder elektronisch mitgeteilt.
 
 § 12 - Nachteilsausgleich
@@ -171,7 +171,7 @@ Gegenstand der Zwischenprüfung nach § 6 Absatz 5 des Pflegeberufegesetzes ist 
 (3) Die Aufsichtsarbeiten dauern jeweils 120 Minuten. Sie sind in der Regel an drei aufeinanderfolgenden Werktagen durchzuführen. Die Aufsichtsführenden werden von der Schulleitung bestellt.
 (4) Die Aufgaben für die Aufsichtsarbeiten werden von der zuständigen Behörde auf Vorschlag der Pflegeschule ausgewählt. Die zuständige Behörde kann zentrale Prüfungsaufgaben vorgeben, die unter Beteiligung von Pflegeschulen erarbeitet werden. In diesem Fall ist von der zuständigen Behörde ein landeseinheitlicher Prüfungstermin festzulegen.
 (5) Jede Aufsichtsarbeit ist von mindestens zwei Fachprüferinnen oder Fachprüfern gemäß § 10 Absatz 1 Satz 2 Nummer 3 zu benoten. Aus den Noten der Fachprüferinnen oder Fachprüfer bildet die oder der Vorsitzende des Prüfungsausschusses im Benehmen mit den Fachprüferinnen oder Fachprüfern die Note der einzelnen Aufsichtsarbeit.
-(6) Der schriftliche Teil der Prüfung ist bestanden, wenn jede der drei Aufsichtsarbeiten mindestens mit ausreichend“ benotet wird.
+(6) Der schriftliche Teil der Prüfung ist bestanden, wenn jede der drei Aufsichtsarbeiten mindestens mit „ausreichend“ benotet wird.
 (7) Die Gesamtnote für den schriftlichen Teil der Prüfung bildet die oder der Vorsitzende des Prüfungsausschusses aus dem arithmetischen Mittel der Noten der Aufsichtsarbeiten und der Vornote für den schriftlichen Teil der Prüfung nach § 13 Absatz 1 und 2.
 (+++ § 14 Abs. 3 Satz 3: Zur Anwendung vgl. § 24 Abs. 3 Satz 4 +++)
 
@@ -189,7 +189,7 @@ Den Schwerpunkt des mündlichen Teils der Prüfung bilden die Auseinandersetzung
 (3) Die zu prüfenden Personen werden einzeln oder zu zweit geprüft. Die Prüfung soll für jede zu prüfende Person mindestens 30 und nicht länger als 45 Minuten dauern. Eine angemessene Vorbereitungszeit unter Aufsicht ist zu gewähren.
 (4) Die Prüfung wird von mindestens zwei Fachprüferinnen oder Fachprüfern gemäß § 10 Absatz 1 Satz 2 Nummer 3 abgenommen und benotet. Die oder der Vorsitzende des Prüfungsausschusses ist berechtigt, sich an der Prüfung zu beteiligen und dabei selbst Prüfungsfragen zu stellen.
 (5) Aus den Noten der Fachprüferinnen oder Fachprüfer bildet die oder der Vorsitzende des Prüfungsausschusses im Benehmen mit den Fachprüferinnen oder Fachprüfern die Prüfungsnote.
-(6) Der mündliche Teil der Prüfung ist bestanden, wenn die Prüfung mindestens mit ausreichend“ benotet wird.
+(6) Der mündliche Teil der Prüfung ist bestanden, wenn die Prüfung mindestens mit „ausreichend“ benotet wird.
 (7) Die Gesamtnote für den mündlichen Teil der Prüfung bildet die oder der Vorsitzende des Prüfungsausschusses aus der Prüfungsnote und der Vornote für den mündlichen Teil der Prüfung nach § 13 Absatz 1 und 2.
 (8) Die oder der Vorsitzende des Prüfungsausschusses kann mit Zustimmung der zu prüfenden Person die Anwesenheit von Zuhörerinnen und Zuhörern beim mündlichen Teil der Prüfung gestatten, wenn ein berechtigtes Interesse besteht.
 
@@ -202,7 +202,7 @@ Den Schwerpunkt des mündlichen Teils der Prüfung bilden die Auseinandersetzung
 (5) Die Prüfung besteht aus der vorab zu erstellenden schriftlichen oder elektronischen Ausarbeitung des Pflegeplans (Vorbereitungsteil), einer Fallvorstellung mit einer Dauer von maximal 20 Minuten, der Durchführung der geplanten und situativ erforderlichen Pflegemaßnahmen und einem Reflexionsgespräch mit einer Dauer von maximal 20 Minuten. Die Prüfung ohne Vorbereitungsteil soll einschließlich des Reflexionsgesprächs die Dauer von 240 Minuten nicht überschreiten und kann durch eine organisatorische Pause von maximal einem Werktag unterbrochen werden. Für den Vorbereitungsteil ist eine angemessene Vorbereitungszeit unter Aufsicht zu gewähren.
 (6) Die Prüfung wird von mindestens zwei Fachprüferinnen oder Fachprüfern, von denen eine oder einer Fachprüferin oder Fachprüfer nach § 10 Absatz 1 Satz 2 Nummer 4 ist, abgenommen und benotet. Die oder der Vorsitzende des Prüfungsausschusses ist berechtigt, sich an der Prüfung zu beteiligen und dabei selbst Prüfungsfragen zu stellen.
 (7) Aus den Noten der Fachprüferinnen oder Fachprüfer bildet die oder der Vorsitzende des Prüfungsausschusses im Benehmen mit den Fachprüferinnen oder Fachprüfern die Prüfungsnote.
-(8) Der praktische Teil der Prüfung ist bestanden, wenn die Prüfung mindestens mit ausreichend“ benotet wird.
+(8) Der praktische Teil der Prüfung ist bestanden, wenn die Prüfung mindestens mit „ausreichend“ benotet wird.
 (9) Die Gesamtnote für den praktischen Teil der Prüfung bildet die oder der Vorsitzende des Prüfungsausschusses aus der Prüfungsnote und der Vornote für den praktischen Teil der Prüfung nach § 13 Absatz 1 und 2.
 
 § 17 - Benotung
@@ -233,9 +233,9 @@ Für die Vornoten und für die staatliche Prüfung gelten folgende Noten:\\
 
 § 19 - Bestehen und Wiederholung der staatlichen Prüfung, Zeugnis
 
-(1) Die staatliche Prüfung ist bestanden, wenn die Gesamtnote des schriftlichen Teils nach § 14 Absatz 7, des mündlichen Teils nach § 15 Absatz 7 und des praktischen Teils der Prüfung nach § 16 Absatz 9 jeweils mindestens mit ausreichend“ benotet worden ist. Die Gesamtnote der staatlichen Prüfung wird aus dem arithmetischen Mittel der drei Prüfungsteile gebildet.
+(1) Die staatliche Prüfung ist bestanden, wenn die Gesamtnote des schriftlichen Teils nach § 14 Absatz 7, des mündlichen Teils nach § 15 Absatz 7 und des praktischen Teils der Prüfung nach § 16 Absatz 9 jeweils mindestens mit „ausreichend“ benotet worden ist. Die Gesamtnote der staatlichen Prüfung wird aus dem arithmetischen Mittel der drei Prüfungsteile gebildet.
 (2) Wer die staatliche Prüfung bestanden hat, erhält ein Zeugnis nach dem Muster der Anlage 8. Wer die staatliche Prüfung nicht bestanden hat, erhält von der oder dem Vorsitzenden des Prüfungsausschusses eine schriftliche oder elektronische Mitteilung, in der die Prüfungsnoten angegeben sind.
-(3) Jede Aufsichtsarbeit der schriftlichen Prüfung, die mündliche Prüfung und die praktische Prüfung können einmal wiederholt werden, wenn die zu prüfende Person die Note mangelhaft“ oder ungenügend“ erhalten hat.
+(3) Jede Aufsichtsarbeit der schriftlichen Prüfung, die mündliche Prüfung und die praktische Prüfung können einmal wiederholt werden, wenn die zu prüfende Person die Note „mangelhaft“ oder „ungenügend“ erhalten hat.
 (4) Hat die zu prüfende Person alle schriftlichen Aufsichtsarbeiten nach § 14 Absatz 2 Satz 1, den praktischen Teil der Prüfung oder alle Teile der Prüfung zu wiederholen, so darf sie zur Wiederholungsprüfung nur zugelassen werden, wenn sie an einer zusätzlichen Ausbildung teilgenommen hat. Im Einzelfall kann die oder der Vorsitzende des Prüfungsausschusses im Benehmen mit den Fachprüferinnen oder Fachprüfern abweichend von Satz 1 über eine zusätzliche Ausbildung entscheiden. Dauer und Inhalt der zusätzlichen Ausbildung bestimmt die oder der Vorsitzende des Prüfungsausschusses. Die zusätzliche Ausbildung darf einschließlich der für die Prüfung erforderlichen Zeit die in § 21 Absatz 2 des Pflegeberufegesetzes festgelegte Dauer von einem Jahr nicht überschreiten; Ausnahmen kann die zuständige Behörde in begründeten Fällen zulassen. Die zu prüfende Person hat ihrem Antrag auf Zulassung zur Wiederholungsprüfung einen Nachweis über die zusätzliche Ausbildung beizufügen.
 (+++ § 19 Abs. 3 u. 4: Zur Anwendung vgl. § 20 Abs. 3 Satz 2, § 21 Abs. 1 Satz 1 u. § 22 Satz 1 +++)\\
 (+++ § 19 Abs. 4: Zur Anwendung vgl. § 39 Abs. 3 Satz 2 +++)
@@ -396,7 +396,7 @@ In allen drei Aufsichtsarbeiten werden die Reflexion und Begründung des eigenen
 (4) Die Aufsichtsarbeiten dauern jeweils mindestens 120 Minuten. Sie sind in der Regel an drei aufeinanderfolgenden Werktagen durchzuführen. Die Aufsichtsführenden werden von der Hochschule bestellt.
 (5) Die Aufgaben für die Aufsichtsarbeiten werden auf Vorschlag der Hochschule durch die Vorsitzenden des Prüfungsausschusses bestimmt.
 (6) Jede Aufsichtsarbeit ist von mindestens zwei Prüferinnen oder Prüfern zu benoten. Aus den Noten der Prüferinnen oder Prüfer bilden die Vorsitzenden des Prüfungsausschusses im Benehmen mit den jeweiligen Prüferinnen oder Prüfern die Note der einzelnen Aufsichtsarbeiten.
-(7) Der schriftliche Teil der staatlichen Prüfung ist bestanden, wenn jede der drei Aufsichtsarbeiten mindestens mit ausreichend“ benotet wird.
+(7) Der schriftliche Teil der staatlichen Prüfung ist bestanden, wenn jede der drei Aufsichtsarbeiten mindestens mit „ausreichend“ benotet wird.
 (8) Die Gesamtnote für den schriftlichen Teil der staatlichen Prüfung ermitteln die Vorsitzenden des Prüfungsausschusses aus den drei Noten der Aufsichtsarbeiten. Soweit die Module im Curriculum hinsichtlich des Arbeitsaufwandes unterschiedlich gewichtet sind, ist dies bei der Ermittlung der Gesamtnote des schriftlichen Prüfungsteils zu berücksichtigen.
 
 § 36 - Mündlicher Teil der Prüfung
@@ -412,7 +412,7 @@ In allen drei Aufsichtsarbeiten werden die Reflexion und Begründung des eigenen
 (4) Die zu prüfenden Personen werden einzeln oder zu zweit geprüft. Die Prüfung soll für jede zu prüfende Person mindestens 30 Minuten und nicht länger als 45 Minuten dauern. Eine angemessene Vorbereitungszeit unter Aufsicht ist zu gewähren.
 (5) Die Prüfung wird von mindestens zwei Prüferinnen oder Prüfern abgenommen und benotet. Die Vorsitzenden des Prüfungsausschusses sind berechtigt, sich an der Prüfung zu beteiligen und dabei selbst Prüfungsfragen zu stellen.
 (6) Aus den Noten der Prüferinnen oder Prüfer bilden die Vorsitzenden des Prüfungsausschusses im Benehmen mit den Prüferinnen und Prüfern die Note für die in der Prüfung erbrachte Leistung.
-(7) Der mündliche Teil der Prüfung ist bestanden, wenn die Prüfungsleistung mindestens mit ausreichend“ benotet wird.
+(7) Der mündliche Teil der Prüfung ist bestanden, wenn die Prüfungsleistung mindestens mit „ausreichend“ benotet wird.
 
 § 37 - Praktischer Teil der Prüfung
 
@@ -423,7 +423,7 @@ In allen drei Aufsichtsarbeiten werden die Reflexion und Begründung des eigenen
 (5) Die Prüfung besteht aus der vorab zu erstellenden schriftlichen oder elektronischen Ausarbeitung des Pflegeplans (Vorbereitungsteil), einer Fallvorstellung mit einer Dauer von maximal 20 Minuten, der Durchführung der geplanten und situativ erforderlichen Pflegemaßnahmen und einem Reflexionsgespräch mit einer Dauer von maximal 20 Minuten. Mit der schriftlichen oder elektronischen Ausarbeitung des Pflegeplans stellt die zu prüfende Person unter Beweis, dass sie in der Lage ist, das Pflegehandeln fall-, situations- und zielorientiert sowie wissenschaftsbasiert oder -orientiert zu strukturieren und zu begründen. Die Prüfung ohne den Vorbereitungsteil soll einschließlich des Reflexionsgesprächs die Dauer von 240 Minuten nicht überschreiten und kann durch eine organisatorische Pause von maximal einem Werktag unterbrochen werden. Für den Vorbereitungsteil ist eine angemessene Vorbereitungszeit unter Aufsicht zu gewähren.
 (6) Die Prüfung wird von mindestens einer Prüferin oder einem Prüfer nach § 33 Absatz 1 Satz 2 Nummer 3 und einer Prüferin oder einem Prüfer nach § 33 Absatz 1 Satz 2 Nummer 4 abgenommen und benotet. Die Vorsitzenden des Prüfungsausschusses sind berechtigt, sich an der Prüfung zu beteiligen und dabei selbst Prüfungsfragen zu stellen.
 (7) Aus den Noten der Prüferinnen oder Prüfer bilden die Vorsitzenden des Prüfungsausschusses im Benehmen mit den Prüferinnen und Prüfern die Note für die in der Prüfung erbrachte Leistung.
-(8) Der praktische Teil der Prüfung ist bestanden, wenn die Prüfungsleistung mindestens mit ausreichend“ benotet wird.
+(8) Der praktische Teil der Prüfung ist bestanden, wenn die Prüfungsleistung mindestens mit „ausreichend“ benotet wird.
 
 § 38 - Niederschrift, Rücktritt von der Prüfung, Versäumnisfolgen, Ordnungsverstöße und Täuschungsversuche, Prüfungsunterlagen
 
@@ -433,7 +433,7 @@ Die §§ 18, 20 bis 23 sind entsprechend anzuwenden.
 
 (1) Die Beurteilung der Prüfungsleistungen erfolgt durch Noten. Die Benotung basiert auf einer Bewertung der Prüfungsleistung in Bezug auf die vollständige Erfüllung der Prüfungsanforderungen. Es gilt das Notensystem nach § 17.
 (2) Die staatliche Prüfung zur Berufszulassung ist bestanden, wenn jeder der nach § 32 Absatz 1 vorgeschriebenen Prüfungsteile bestanden ist. Aus dem arithmetischen Mittel der drei Prüfungsteile wird eine Gesamtnote gebildet.
-(3) Jede Modulprüfung, die Teil der staatlichen Überprüfung ist, kann einmal wiederholt werden, wenn die zu prüfende Person die Note mangelhaft“ oder ungenügend“ erhalten hat. § 19 Absatz 4 ist entsprechend anzuwenden.
+(3) Jede Modulprüfung, die Teil der staatlichen Überprüfung ist, kann einmal wiederholt werden, wenn die zu prüfende Person die Note „mangelhaft“ oder „ungenügend“ erhalten hat. § 19 Absatz 4 ist entsprechend anzuwenden.
 
 § 40 - Erfolgreicher Abschluss der hochschulischen Pflegeausbildung, Zeugnis
 
@@ -452,11 +452,11 @@ Sind die Voraussetzungen nach § 2 des Pflegeberufegesetzes für die Erteilung d
 
 (1) Eine Person, die außerhalb des Geltungsbereiches des Pflegeberufegesetzes eine Ausbildung absolviert hat, kann bei der zuständigen Behörde beantragen, dass ihr die Erlaubnis erteilt wird,
 
-- 1. :: die Berufsbezeichnung Pflegefachfrau“ oder Pflegefachmann“ nach § 1 Absatz 1 des Pflegeberufegesetzes zu führen,
-- 2. :: die Berufsbezeichnung Gesundheits- und Kinderkrankenpflegerin“ oder Gesundheits- und Kinderkrankenpfleger“ nach § 58 Absatz 1 des Pflegeberufegesetzes zu führen oder
-- 3. :: die Berufsbezeichnung Altenpflegerin“ oder Altenpfleger“ nach § 58 Absatz 2 des Pflegeberufegesetzes zu führen.
+- 1. :: die Berufsbezeichnung „Pflegefachfrau“ oder „Pflegefachmann“ nach § 1 Absatz 1 des Pflegeberufegesetzes zu führen,
+- 2. :: die Berufsbezeichnung „Gesundheits- und Kinderkrankenpflegerin“ oder „Gesundheits- und Kinderkrankenpfleger“ nach § 58 Absatz 1 des Pflegeberufegesetzes zu führen oder
+- 3. :: die Berufsbezeichnung „Altenpflegerin“ oder „Altenpfleger“ nach § 58 Absatz 2 des Pflegeberufegesetzes zu führen.
 
-(2) Die Erlaubnis wird erteilt, wenn die Voraussetzungen nach § 2 des Pflegeberufegesetzes vorliegen. Nach Erlaubniserteilung führt die Person die Berufsbezeichnung Pflegefachfrau“ oder Pflegefachmann“, Gesundheits- und Kinderkrankenpflegerin“ oder Gesundheits- und Kinderkrankenpfleger“ oder Altenpflegerin“ oder Altenpfleger“.
+(2) Die Erlaubnis wird erteilt, wenn die Voraussetzungen nach § 2 des Pflegeberufegesetzes vorliegen. Nach Erlaubniserteilung führt die Person die Berufsbezeichnung „Pflegefachfrau“ oder „Pflegefachmann“, „Gesundheits- und Kinderkrankenpflegerin“ oder „Gesundheits- und Kinderkrankenpfleger“ oder „Altenpflegerin“ oder „Altenpfleger“.
 (3) Die zuständige Behörde hat über Anträge auf Erteilung einer Erlaubnis nach Absatz 1 kurzfristig, spätestens vier Monate nach Vorlage der vollständigen Unterlagen durch die antragstellende Person zu entscheiden. In den Fällen des § 41 Absatz 1 des Pflegeberufegesetzes hat die Entscheidung abweichend von Satz 1 spätestens drei Monate nach Vorlage der vollständigen Unterlagen durch die antragstellende Person zu erfolgen. Im Falle des § 81a des Aufenthaltsgesetzes sollen die Entscheidungen nach den Sätzen 1 und 2 innerhalb von zwei Monaten erfolgen.
 (4) Stellt die Behörde hinsichtlich der Gleichwertigkeit der Berufsqualifikation wesentliche Unterschiede fest, erteilt sie der antragstellenden Person einen rechtsmittelfähigen Bescheid. Der Bescheid enthält folgende Angaben:
 
@@ -482,10 +482,10 @@ Sind die Voraussetzungen nach § 2 des Pflegeberufegesetzes für die Erteilung d
 - 3. :: bei Personen, die eine Erlaubnis nach § 58 Absatz 2 des Pflegeberufegesetzes beantragen, die Kompetenzbereiche I bis V der Anlage 4.
 
 (2) Im mündlichen Teil der Prüfung ist eine komplexe Aufgabenstellung zu bearbeiten, die Anforderungen aus mindestens drei verschiedenen Kompetenzbereichen enthält. Die Prüfungsaufgabe besteht in der Bearbeitung einer Fallsituation aus einem anderen Versorgungskontext als dem der praktischen Prüfung und bezieht sich bei Personen, die eine Erlaubnis nach § 1 Absatz 1 des Pflegeberufegesetzes beantragen, auf eine andere Altersstufe der zu pflegenden Menschen.
-(3) Der mündliche Teil der Prüfung soll mindestens 45 und nicht länger als 60 Minuten dauern. Er wird von zwei Fachprüferinnen oder Fachprüfern, von denen eine Person die Voraussetzungen des § 10 Absatz 1 Nummer 3 erfüllen muss, abgenommen und bewertet. Der mündliche Teil der Kenntnisprüfung ist erfolgreich abgeschlossen, wenn die Fachprüferinnen und Fachprüfer in einer Gesamtbetrachtung die mit der Aufgabenstellung geforderten Kompetenzen aus den Kompetenzbereichen I bis V übereinstimmend mit bestanden“ bewerten. Das Bestehen setzt mindestens voraus, dass die Leistung der zu prüfenden Person trotz ihrer Mängel noch den Anforderungen genügt. Kommen die Fachprüferinnen oder Fachprüfer zu einer unterschiedlichen Bewertung, entscheidet die oder der Vorsitzende des Prüfungsausschusses nach Rücksprache mit den Fachprüferinnen oder Fachprüfern über das Bestehen.
+(3) Der mündliche Teil der Prüfung soll mindestens 45 und nicht länger als 60 Minuten dauern. Er wird von zwei Fachprüferinnen oder Fachprüfern, von denen eine Person die Voraussetzungen des § 10 Absatz 1 Nummer 3 erfüllen muss, abgenommen und bewertet. Der mündliche Teil der Kenntnisprüfung ist erfolgreich abgeschlossen, wenn die Fachprüferinnen und Fachprüfer in einer Gesamtbetrachtung die mit der Aufgabenstellung geforderten Kompetenzen aus den Kompetenzbereichen I bis V übereinstimmend mit „bestanden“ bewerten. Das Bestehen setzt mindestens voraus, dass die Leistung der zu prüfenden Person trotz ihrer Mängel noch den Anforderungen genügt. Kommen die Fachprüferinnen oder Fachprüfer zu einer unterschiedlichen Bewertung, entscheidet die oder der Vorsitzende des Prüfungsausschusses nach Rücksprache mit den Fachprüferinnen oder Fachprüfern über das Bestehen.
 (4) Im praktischen Teil der Kenntnisprüfung hat die zu prüfende Person in mindestens zwei und höchstens vier Pflegesituationen nachzuweisen, dass sie die vorbehaltenen Tätigkeiten wahrnehmen und damit die erforderlichen Pflegeprozesse und die Pflegediagnostik verantwortlich planen, organisieren, gestalten, durchführen, steuern und evaluieren kann. Im Rahmen der pflegerischen Versorgung hat eine situationsangemessene Kommunikation mit den zu pflegenden Menschen, ihren Bezugspersonen und den beruflich in die Versorgung eingebundenen Personen deutlich zu werden. Die zuständige Behörde legt einen Einsatzbereich, der im Sinne der Anlage 7 als Pflichteinsatz aufgeführt ist, sowie die Zahl der Pflegesituationen fest.
 (5) Der praktische Teil der Prüfung soll für jede Pflegesituation nicht länger als 120 Minuten dauern und als Patientenprüfung ausgestaltet sein. Sie wird von einer Fachprüferin oder einem Fachprüfer nach § 10 Absatz 1 Nummer 3 und einer Fachprüferin oder einem Fachprüfer nach § 10 Absatz 1 Nummer 4 abgenommen und bewertet. Während der Prüfung sind den Fachprüferinnen und Fachprüfern Nachfragen gestattet, die sich auf das praktische Vorgehen und insbesondere auf die vorbehaltenen Tätigkeiten im Rahmen des Pflegeprozesses beziehen.
-(6) Der praktische Teil der Prüfung ist erfolgreich abgeschlossen, wenn die Fachprüferinnen und Fachprüfer jede Pflegesituation übereinstimmend mit bestanden“ bewerten. Das Bestehen setzt mindestens voraus, dass die Leistung der zu prüfenden Person trotz ihrer Mängel noch den Anforderungen genügt. Kommen die Fachprüferinnen und Fachprüfer zu einer unterschiedlichen Bewertung, entscheidet der oder die Vorsitzende des Prüfungsausschusses nach Rücksprache mit den Fachprüferinnen und Fachprüfern über das Bestehen.
+(6) Der praktische Teil der Prüfung ist erfolgreich abgeschlossen, wenn die Fachprüferinnen und Fachprüfer jede Pflegesituation übereinstimmend mit „bestanden“ bewerten. Das Bestehen setzt mindestens voraus, dass die Leistung der zu prüfenden Person trotz ihrer Mängel noch den Anforderungen genügt. Kommen die Fachprüferinnen und Fachprüfer zu einer unterschiedlichen Bewertung, entscheidet der oder die Vorsitzende des Prüfungsausschusses nach Rücksprache mit den Fachprüferinnen und Fachprüfern über das Bestehen.
 (7) Die Kenntnisprüfung soll mindestens zweimal jährlich angeboten werden und darf im mündlichen Teil sowie in jeder Pflegesituation des praktischen Teils, die nicht bestanden wurde, einmal wiederholt werden.
 (8) Die Kenntnisprüfung findet in Form einer staatlichen Prüfung vor einer staatlichen Prüfungskommission statt. Die Länder können zur Durchführung der Prüfungen die regulären Prüfungstermine der staatlichen Prüfung nach § 9 Absatz 1 nutzen; sie haben dabei sicherzustellen, dass antragstellende Personen die Prüfung innerhalb von sechs Monaten nach der Entscheidung nach § 43 Absatz 4 ablegen können. Soweit in diesem Abschnitt nichts anderes bestimmt ist, gelten die §§ 18, 20 bis 23 für die Durchführung der Kenntnisprüfung entsprechend.
 (9) Über die bestandene Kenntnisprüfung wird eine Bescheinigung nach dem Muster der Anlage 10 erteilt.
@@ -506,7 +506,7 @@ Sind die Voraussetzungen nach § 2 des Pflegeberufegesetzes für die Erteilung d
 - 3. :: von Personen, die eine Erlaubnis nach § 58 Absatz 2 des Pflegeberufegesetzes beantragen, Kompetenzen aus den Kompetenzbereichen I bis V der Anlage 4.
 
 (3) Die Prüfung soll für jede Pflegesituation nicht länger als 120 Minuten dauern und als Patientenprüfung ausgestaltet sein. Sie wird von einer Fachprüferin oder einem Fachprüfer nach § 10 Absatz 1 Nummer 3 und einer Fachprüferin oder einem Fachprüfer nach § 10 Absatz 1 Nummer 4 abgenommen und bewertet. Während der Prüfung sind den Fachprüferinnen und Fachprüfern Nachfragen gestattet, die sich auf das praktische Vorgehen und insbesondere auf die vorbehaltenen Tätigkeiten im Rahmen des Pflegeprozesses beziehen.
-(4) Die Eignungsprüfung ist erfolgreich abgeschlossen, wenn die Fachprüferinnen und Fachprüfer jede Pflegesituation übereinstimmend mit bestanden“ bewerten. Das Bestehen setzt mindestens voraus, dass die Leistung der zu prüfenden Person trotz ihrer Mängel noch den Anforderungen genügt. Kommen die Fachprüferinnen und Fachprüfer zu einer unterschiedlichen Bewertung, entscheidet der oder die Vorsitzende des Prüfungsausschusses nach Rücksprache mit den Fachprüferinnen und Fachprüfern über das Bestehen.
+(4) Die Eignungsprüfung ist erfolgreich abgeschlossen, wenn die Fachprüferinnen und Fachprüfer jede Pflegesituation übereinstimmend mit „bestanden“ bewerten. Das Bestehen setzt mindestens voraus, dass die Leistung der zu prüfenden Person trotz ihrer Mängel noch den Anforderungen genügt. Kommen die Fachprüferinnen und Fachprüfer zu einer unterschiedlichen Bewertung, entscheidet der oder die Vorsitzende des Prüfungsausschusses nach Rücksprache mit den Fachprüferinnen und Fachprüfern über das Bestehen.
 (5) Die Eignungsprüfung soll mindestens zweimal jährlich angeboten werden und darf in jeder Pflegesituation, die nicht bestanden wurde, einmal wiederholt werden. Über die bestandene Eignungsprüfung wird eine Bescheinigung nach dem Muster der Anlage 12 erteilt.
 (6) Die Eignungsprüfung findet in Form einer staatlichen Prüfung vor einer staatlichen Prüfungskommission statt. Die Länder können zur Durchführung der Prüfungen die regulären Prüfungstermine der staatlichen Prüfung nach § 9 Absatz 1 nutzen; sie haben dabei sicherzustellen, dass antragstellende Personen die Prüfung innerhalb von sechs Monaten nach der Entscheidung nach § 43 Absatz 4 ablegen können. Soweit in diesem Abschnitt nichts anderes bestimmt ist, gelten die §§ 18, 20 bis 23 für die Durchführung der Eignungsprüfung entsprechend.
 
@@ -1197,7 +1197,7 @@ Anlage 8 - (zu § 19 Absatz 2 Satz 1)
 (Fundstelle: BGBl. I 2018, 1615)
 Die/der Vorsitzende\\
 des Prüfungsausschusses
-                     “
+„                     “
 
 Anlage 9 - (zu § 44 Absatz 3 Satz 2)
 
@@ -1211,7 +1211,7 @@ Anlage 10 - (zu § 45 Absatz 9)
 (Fundstelle: BGBl. I 2018, 1617)
 Die/der Vorsitzende\\
 des Prüfungsausschusses
-                    “
+„                    “
 
 Anlage 11 - (zu § 46 Absatz 3)
 
@@ -1225,7 +1225,7 @@ Anlage 12 - (zu § 47 Absatz 5 Satz 2)
 \\
 Die/der Vorsitzende\\
 des Prüfungsausschusses
-                    “
+„                    “
 
 Anlage 13 - (zu § 42 Satz 1)
 

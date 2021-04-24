@@ -169,14 +169,14 @@ Technische Kommunikation, Anwenden und Erstellen technischer Unterlagen (§ 6 Nr
 a)
 technische Zeichnungen auswerten und anwenden, Skizzen erstellen
 3
-
+ 
 b)
 Normen, insbesondere Zeichnungs- und Materialnormen, anwenden
 c)
 technische Unterlagen beachten und anwenden
 d)
 informations- und kommunikationstechnische Einrichtungen nutzen
-
+ 
 2
 e)
 Daten dokumentieren und sichern
@@ -187,7 +187,7 @@ Planen und Steuern von Arbeitsabläufen, Kontrollieren und Bewerten der Arbeitse
 a)
 Arbeitsplätze unter Berücksichtigung der betrieblichen Vorgaben, insbesondere nach ergonomischen und ökonomischen Gesichtspunkten, einrichten
 5
-
+ 
 b)
 Arbeitsschritte unter Berücksichtigung funktionaler und fertigungstechnischer Gesichtspunkte festlegen
 c)
@@ -198,7 +198,7 @@ e)
 Prüf-, Messmittel, Werkstücke, Werkzeuge sowie Hilfsmittel bereitstellen
 f)
 an der Entwicklung, Abstimmung und Umsetzung von Verbesserungsmöglichkeiten mitwirken
-
+ 
 6
 g)
 Aufgaben im Team planen und umsetzen, Ergebnisse gemeinsam abstimmen und auswerten
@@ -211,7 +211,7 @@ Warten und Instandhalten von Betriebsmitteln (§ 6 Nr. 7)
 a)
 Arbeitsmittel und Werkzeuge ordnen und sachgemäß lagern
 4
-
+ 
 b)
 VDE-Bestimmungen und Unfallverhütungsvorschriften über das Arbeiten an elektrischen Anlagen im Arbeitsgebiet beachten und anwenden
 c)
@@ -220,7 +220,7 @@ d)
 Störungen an Maschinen und technischen Einrichtungen und Produktionsanlagen feststellen, beseitigen oder Maßnahmen zur Instandsetzung ergreifen
 e)
 Funktion von Sicherheitseinrichtungen prüfen und Funktionstests durchführen
-
+ 
 4
 f)
 Betriebsstoffe an Maschinen, insbesondere Kühl- und Schmierstoffe, unter Beachtung von Betriebs-, Gefahrstoff-, Umwelt- und Gesundheitsvorschriften wechseln und auffüllen
@@ -229,7 +229,7 @@ Auswählen, Be- und Verarbeiten von Werk- und Hilfsstoffen (§ 6 Nr. 8)
 a)
 Werk- und Hilfsstoffe nach Eigenschaften und Wirtschaftlichkeit bewerten und nach ihrem Verwendungszweck einsetzen
 11
-
+ 
 b)
 Garne, Zwirne, textile Flächengebilde, Leder und Lederaustauschstoffe auswählen
 c)
@@ -261,14 +261,14 @@ Messen und Prüfen (§ 6 Nr. 9)
 a)
 Prüf- und Messgeräte auswählen
 2
-
+ 
 b)
 Messverfahren auswählen, Messungen durchführen, Ergebnisse protokollieren
 c)
 Schablonen erstellen und anwenden
 d)
 Bauteile auf Materialfehler, Oberflächenschutz und Oberflächengüte sichtprüfen
-
+ 
 4
 e)
 Funktionen von Einbauteilen, insbesondere Baugruppen und Sicherheitseinrichtungen, prüfen und einstellen
@@ -277,14 +277,14 @@ Einrichten von Maschinen und Anlagen (§ 6 Nr. 10)
 a)
 Werkzeuge, Geräte, Maschinen, Anlagen und Zusatzeinrichtungen auswählen
 3
-
+ 
 b)
 Handwerkzeuge und handgeführte Maschinen handhaben
 c)
 Hebe- und Transportgeräte auswählen und einsetzen
 d)
 Geräte und Maschinen einrichten und unter Verwendung der Schutzeinrichtungen bedienen, Zusatzeinrichtungen einsetzen
-
+ 
 5
 e)
 Maschinensteuerungen einstellen und Funktionsabläufe überwachen
@@ -295,7 +295,7 @@ Montieren von Bauteilen und Baugruppen, Prüfen und Einstellen von Funktionen (�
 a)
 Einbauteile und Baugruppen montagegerecht lagern sowie nach Zeichnung und Kennzeichnung den Montagevorgängen zuordnen
 5
-
+ 
 b)
 Einbauteile auf fehlerfreie Beschaffenheit prüfen; notwendige Maßnahmen zur Fehlerbeseitigung einleiten
 c)
@@ -304,7 +304,7 @@ d)
 Drehmomente überprüfen und einstellen
 e)
 Einbauteile und Baugruppen unter Beachtung der Maßtoleranzen anpassen, ausrichten und Lage sichern
-
+ 
 12
 f)
 Einbauteile und Baugruppen nach technischen Unterlagen sowie unter Beachtung teilespezifischer Montagebedingungen, insbesondere Sicherheitseinrichtungen, Verkleidungen und Instrumententafel, montieren und demontieren
@@ -319,14 +319,14 @@ Einbauen und Prüfen steuerungstechnischer Elemente, Verlegen elektrischer und p
 a)
 elektrische Leitungen, Einbauteile und Baugruppen identifizieren
 4
-
+ 
 b)
 elektrische Schalt- und Anschlusspläne anwenden, Klemmenbezeichnungen und Schaltzeichen zuordnen, Baugruppen in Betrieb nehmen
 c)
 elektrische Leitungen und Einbauteile auf Durchgang prüfen
 d)
 Funktionen montierter elektrischer Bauteile und Baugruppen prüfen
-
+ 
 6
 e)
 pneumatische und elektrische Leitungen zurichten und nach Montage- und Anschlussplänen verlegen, befestigen und anschließen
@@ -337,7 +337,7 @@ Konfektionieren von Polster- und Dämmstoffen, Anfertigen von Schablonen, Vorric
 a)
 Hand- und Handhebelscheren, insbesondere unter Berücksichtigung des Werkstoffes, der Materialdicke und des Kraftbedarfs, auswählen und einsetzen
 18
-
+ 
 b)
 geometrische Körper konstruieren und abwickeln
 c)
@@ -361,7 +361,7 @@ Gestalten, Kaschieren und Bearbeiten von Oberflächen (§ 6 Nr. 14)
 a)
 Oberflächenarten bestimmen, Werk- und Hilfsstoffe auswählen, Kaschiertechniken anwenden
 12
-
+ 
 b)
 Nahtarten, insbesondere Saum-, Verbund-, Keder-, Raff-, Stummel-, Kapp- und Ziernähte, bestimmen
 c)
@@ -372,7 +372,7 @@ Kleinteile mit Leder, Lederaustauschstoffen und Bezugsstoffen beziehen
 Grundlagen der rechnergestützten Produktion, Sichern und Überwachen der Prozessabläufe (§ 6 Nr. 15)
 a)
 Aufbau und Funktionszusammenhänge von Produktionsanlagen unterscheiden
-
+ 
 12
 b)
 Betriebsbereitschaft von Produktionseinrichtungen sicherstellen
@@ -395,14 +395,14 @@ Aufbau und Bezug von Fahrzeugausstattungsteilen (§ 6 Nr. 16)
 a)
 Arten und Aufbau von Polsterteilen unterscheiden; Polsterauflagematerialien auswählen
 8
-
+ 
 b)
 Werkzeuge für Polstergrundvorbehandlung auswählen und handhaben
 c)
 Gestelle, Trägerteile, Sitzkasten, Federkerne und Oberflächen vorbereiten und einsetzen
 d)
 Bewegungsfunktionen von Bauteilen prüfen
-
+ 
 12
 e)
 Untergrundstoffe, Bespannungsmaterialien und Sitzfedersysteme auswählen
@@ -424,7 +424,7 @@ Polsterteile zur Oberflächengestaltung aufteilen, insbesondere durch Pfeifen, A
 Instandsetzen von Fahrzeugausstattungsteilen (§ 16 Nr. 17)
 a)
 Fehler und Störungen unter Beachtung von Kundenangaben durch Sinneswahrnehmung sowie durch Prüfen und Messen eingrenzen und bestimmen
-
+ 
 10
 b)
 schadhafte Inneneinbauteile austauschen und instand setzen
@@ -440,12 +440,12 @@ Bezüge erneuern, ergänzen und aufarbeiten
 Durchführen von qualitätssichernden Maßnahmen (§ 6 Nr. 18)
 Qualitätsstandards und Sicherheitsvorgaben als Schlüsselfaktor im Produktionsprozess beachten und einhalten, insbesondere
 3
-
+ 
 a)
 Prüftechniken anwenden
 b)
 Produktions- und Qualitätsdaten dokumentieren
-
+ 
 5
 c)
 Qualität des Produktionsergebnisses unter Beachtung vor- und nachgelagerter Bereiche kontrollieren und beurteilen

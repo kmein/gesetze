@@ -72,8 +72,8 @@ Ausfertigungsdatum: 04.06.2010
 - 12. :: Zugehörigkeit oder sonstige Beziehung zu einer kriminellen Organisation/Tätergruppe mit Angabe des Namens und Sitzes der Gruppe und Rolle innerhalb der Organisation/Gruppe,
 - 13. :: Beziehungen zu Personen, Gruppenzugehörigkeit,
 - 14. :: Beziehungen zu Institutionen, Örtlichkeiten, Ereignissen und Sachen,
-- 15. :: personengebundene Hinweise gemäFreitodgefahr“ oder die der Eigensicherung der ermittelnden Bediensteten dienen wie bewaffnet“, gewalttätig“, Explosivstoffgefahr“,
-- 16. :: personengebundene Hinweise, die der Ermittlungsunterstützung dienen wie Sexualstraftäter“, Straftäter politisch links motiviert“ oder Straftäter politisch rechts motiviert“,
+- 15. :: personengebundene Hinweise gemäß § 7 Absatz 3 des Bundeskriminalamtgesetzes, die dem Schutz des Betroffenen dienen wie „Freitodgefahr“ oder die der Eigensicherung der ermittelnden Bediensteten dienen wie „bewaffnet“, „gewalttätig“, „Explosivstoffgefahr“,
+- 16. :: personengebundene Hinweise, die der Ermittlungsunterstützung dienen wie „Sexualstraftäter“, „Straftäter politisch links motiviert“ oder „Straftäter politisch rechts motiviert“,
 - 17. :: Angaben zur Religionszugehörigkeit, soweit diese im Einzelfall zur Aufklärung oder Bekämpfung des Terrorismus erforderlich sind,
 - 18. :: Angaben zu einer gegenwärtigen oder früheren Tätigkeit in
   - a) :: einer lebenswichtigen Einrichtung im Sinne des § 1 Absatz 5 des Sicherheitsüberprüfungsgesetzes,
@@ -91,7 +91,7 @@ Ausfertigungsdatum: 04.06.2010
 - 20. :: Hinweis auf einen Bestand in der DNA-AnalyseDatei,
 - 21. :: Daten zu der Maßnahme, die zu der Speicherung geführt hat, oder zu der durch die Speicherung unterstützten Maßnahme wie deren Anlass, Zweck und Befristung,
 - 22. :: Angaben zu bestehenden Auflagen oder Verboten wie Hausverbot, Kontaktverbot, Meldeauflage, Betretens- und Aufenthaltsverbot, Ausreiseuntersagung, Pass- und Personalausweisbeschränkung,
-- 23. :: Status einer Person nach polizeifachlichen Definitionen wie Gefährder“ oder relevante Person“,
+- 23. :: Status einer Person nach polizeifachlichen Definitionen wie „Gefährder“ oder „relevante Person“,
 - 24. :: Hinweis auf einen Bestand in anderen Dateien,
 - 25. :: Angabe, ob der Betroffene in dem Verfahren eines Bundeslandes, das zur Speicherung geführt hat, als Beschuldigter geführt wird oder wurde, und
 - 26. :: Hinweis auf vorhandenes Lichtbild beziehungsweise Phantomzeichnung zum Täter.

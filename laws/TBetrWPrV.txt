@@ -225,15 +225,15 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 § 8 - Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
-(2) Im Prüfungsteil Wirtschaftliches Handeln und betrieblicher Leistungsprozess“ sind die Prüfungsleistungen in jedem Prüfungsbereich nach § 4 Absatz 7 einzeln zu bewerten. Aus den einzelnen Bewertungen wird als Bewertung des Prüfungsteils das arithmetische Mittel berechnet.
-(3) Im Prüfungsteil Management und Führung“ sind als Prüfungsleistungen zu bewerten:
+(2) Im Prüfungsteil „Wirtschaftliches Handeln und betrieblicher Leistungsprozess“ sind die Prüfungsleistungen in jedem Prüfungsbereich nach § 4 Absatz 7 einzeln zu bewerten. Aus den einzelnen Bewertungen wird als Bewertung des Prüfungsteils das arithmetische Mittel berechnet.
+(3) Im Prüfungsteil „Management und Führung“ sind als Prüfungsleistungen zu bewerten:
 
 - 1. :: die beiden schriftlichen Situationsaufgaben nach § 5 Absatz 1 Satz 4 und
 - 2. :: das situationsbezogene Fachgespräch nach § 5 Absatz 6.
 
 Aus den einzelnen Bewertungen wird als Bewertung des Prüfungsteils das arithmetische Mittel berechnet.
 
-(4) Im Prüfungsteil Fachübergreifender technikbezogener Prüfungsteil“ sind als Prüfungsleistungen zu bewerten:
+(4) Im Prüfungsteil „Fachübergreifender technikbezogener Prüfungsteil“ sind als Prüfungsleistungen zu bewerten:
 
 - 1. :: die schriftliche Projektarbeit nach § 6 Absatz 2 und
 - 2. :: das Fachgespräch mit Präsentation nach § 6 Absatz 3.
@@ -250,16 +250,16 @@ Aus den beiden Bewertungen der Prüfungsleistungen wird als Bewertung des Prüfu
 (1) Die Prüfung ist bestanden, wenn in allen Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind.
 (2) Ist die Prüfung bestanden, werden die folgenden Bewertungen jeweils kaufmännisch auf eine ganze Zahl gerundet:
 
-- 1. :: die Bewertung für den Prüfungsteil Wirtschaftliches Handeln und betrieblicher Leistungsprozess“,
-- 2. :: die Bewertung für den Prüfungsteil Management und Führung“ sowie
-- 3. :: die Bewertung für den Prüfungsteil Fachübergreifender technikbezogener Prüfungsteil“.
+- 1. :: die Bewertung für den Prüfungsteil „Wirtschaftliches Handeln und betrieblicher Leistungsprozess“,
+- 2. :: die Bewertung für den Prüfungsteil „Management und Führung“ sowie
+- 3. :: die Bewertung für den Prüfungsteil „Fachübergreifender technikbezogener Prüfungsteil“.
 
 (3) Den Bewertungen für die einzelnen Prüfungsteile ist nach Anlage 1 die jeweilige Note als Dezimalzahl zuzuordnen.
 (4) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das gewichtete arithmetische Mittel zu berechnen. Dabei werden die Bewertungen wie folgt gewichtet:
 
-- 1. :: die Bewertung für den Prüfungsteil Wirtschaftliches Handeln und betrieblicher Leistungsprozess“ mit 30 Prozent,
-- 2. :: die Bewertung für den Prüfungsteil Management und Führung“ mit 30 Prozent,
-- 3. :: die Bewertung für den Prüfungsteil Fachübergreifender technikbezogener Prüfungsteil“ mit 40 Prozent.
+- 1. :: die Bewertung für den Prüfungsteil „Wirtschaftliches Handeln und betrieblicher Leistungsprozess“ mit 30 Prozent,
+- 2. :: die Bewertung für den Prüfungsteil „Management und Führung“ mit 30 Prozent,
+- 3. :: die Bewertung für den Prüfungsteil „Fachübergreifender technikbezogener Prüfungsteil“ mit 40 Prozent.
 
 Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerundeten Gesamtpunktzahl wird nach Anlage 1 die Note als Dezimalzahl und die Note in Worten zugeordnet. Die zugeordnete Note ist die Gesamtnote.
 
@@ -320,7 +320,7 @@ Teil B -- Zeugnis mit Prüfungsergebnissen:
 Alle Angaben des Teils A sowie zusätzlich:
 
 - 1. :: Benennung aller Prüfungsteile, der Prüfungs- und Handlungsbereiche sowie des situationsbezogenen Fachgesprächs nach § 3 Absatz 1, § 4 Absatz 1 und § 5 Absatz 1 und 6,
-- 2. :: Bewertung mit Note für den Prüfungsteil Wirtschaftliches Handeln und betrieblicher Leistungsprozess“, den Prüfungsteil Management und Führung“ und den Prüfungsteil Fachübergreifender technikbezogener Prüfungsteil“,
+- 2. :: Bewertung mit Note für den Prüfungsteil „Wirtschaftliches Handeln und betrieblicher Leistungsprozess“, den Prüfungsteil „Management und Führung“ und den Prüfungsteil „Fachübergreifender technikbezogener Prüfungsteil“,
 - 3. :: die errechnete Gesamtpunktzahl für die gesamte Prüfung,
 - 4. :: die Gesamtnote als Dezimalzahl,
 - 5. :: die Gesamtnote in Worten,

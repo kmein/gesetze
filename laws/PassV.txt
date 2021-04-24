@@ -110,40 +110,40 @@ Die in anderen Rechtsvorschriften oder in zwischenstaatlichen Vereinbarungen fes
 (1) An Gebühren sind zu erheben
 1.
 für die Ausstellung
-
-
+ 
+ 
 a)
 eines Reisepasses nach Anlage 1 an Personen, die das 24. Lebensjahr vollendet haben,
 60 Euro,
-
+ 
 b)
 eines Reisepasses nach Anlage 1 an Personen, die das 24. Lebensjahr noch nicht vollendet haben,
 37,50 Euro,
-
+ 
 c)
 eines Reisepasses mit 48 Seiten nach Anlage 1a zusätzlich zu der in Nummer 1a und 1b bestimmten Gebühr
 22 Euro,
-
+ 
 d)
 eines Reisepasses nach Nummer 1a bis 1c im Expressverfahren zusätzlich zu den dort bestimmten Gebühren
 32 Euro,
-
+ 
 e)
 eines vorläufigen Reisepasses
 26 Euro,
-
+ 
 f)
 eines Kinderreisepasses
 13 Euro,
-
+ 
 g)
 eines Ausweises für Binnenschiffer und deren Familienangehörige für die Flussschifffahrt auf der Donau (§ 7 Abs. 1 Nr. 2)
 16 Euro,
-
+ 
 h)
 eines Ausweises, der von den Behörden und Dienststellen ausgestellt wird, die für die polizeiliche Kontrolle des grenzüberschreitenden Verkehrs zuständig sind (§ 7 Abs. 1 Nr. 7)
 8 Euro,
-
+ 
 i)
 eines Ausweises, der ausschließlich zur Einreise in die Bundesrepublik Deutschland berechtigt (§ 7 Abs. 1 Nr. 8)
 8 Euro,
@@ -732,32 +732,32 @@ Anlage 11 - Formale Anforderungen an die Einträge in Pässe im Sinne des § 1 A
 Vorbemerkung:
 
 - 1. :: Für den Reisepass sowie für den Dienst- und Diplomatenpass gelten die in der nachstehenden Tabelle 1 beschriebenen Anforderungen an die Einträge. Die in der nachstehenden Tabelle 2 beschriebenen Anforderungen an die Einträge gelten für den Kinderreisepass, vorläufigen Reisepass und für den vorläufigen Dienst- und Diplomatenpass.
-- 2. :: Die Passbehörden verwenden zur Personalisierung der Aufkleber Personaldaten der Kinderreisepässe, der vorläufigen Reisepässe, der vorläufigen Dienst- und Diplomatenpässe und der Aufkleber Verlängerung/Änderung der Kinderreisepässe sowie der Aufkleber Dienstort- und Dienstbezeichnungsänderung den Schriftfont UnicodeDoc“. Hierfür sind Tintenstrahldrucker einzusetzen. Die Tinte hat die nach der ISO 1831 geforderten Eigenschaften hinsichtlich maschineller Lesbarkeit im B900-Band zu erfüllen. Es ist ausschließlich solches Schreibmaterial zu verwenden, das nach DIN 16554 urkunden- und kopierecht ist.
-- 3. :: Als Zeichensatz ist der in der jeweils gültigen Fassung der Technischen Richtlinie des Bundesamtes für Sicherheit in der Informationstechnik, BSI: Technische Richtlinie TR-03123, XML-Datenaustauschformat für hoheitliche Dokumente (TR XhD), veröffentlichte Zeichensatz String.Latin“ zu verwenden.
+- 2. :: Die Passbehörden verwenden zur Personalisierung der Aufkleber Personaldaten der Kinderreisepässe, der vorläufigen Reisepässe, der vorläufigen Dienst- und Diplomatenpässe und der Aufkleber Verlängerung/Änderung der Kinderreisepässe sowie der Aufkleber Dienstort- und Dienstbezeichnungsänderung den Schriftfont „UnicodeDoc“. Hierfür sind Tintenstrahldrucker einzusetzen. Die Tinte hat die nach der ISO 1831 geforderten Eigenschaften hinsichtlich maschineller Lesbarkeit im B900-Band zu erfüllen. Es ist ausschließlich solches Schreibmaterial zu verwenden, das nach DIN 16554 urkunden- und kopierecht ist.
+- 3. :: Als Zeichensatz ist der in der jeweils gültigen Fassung der Technischen Richtlinie des Bundesamtes für Sicherheit in der Informationstechnik, BSI: Technische Richtlinie TR-03123, XML-Datenaustauschformat für hoheitliche Dokumente (TR XhD), veröffentlichte Zeichensatz „String.Latin“ zu verwenden.
 - 4. :: Der maschinenlesbare Bereich in den Pässen sowie die Zugangsnummer (CAN) sind im Schriftfont OCR-B zu beschriften.
-- 5. :: In den Datenfeldern Name“ (Familienname und Geburtsname) sowie Vornamen“ sind alle Namensbestandteile komplett darzustellen, soweit dies technisch entsprechend den Vorgaben der nachstehenden Tabellen umsetzbar ist.
+- 5. :: In den Datenfeldern „Name“ (Familienname und Geburtsname) sowie „Vornamen“ sind alle Namensbestandteile komplett darzustellen, soweit dies technisch entsprechend den Vorgaben der nachstehenden Tabellen umsetzbar ist.
 - 6. :: Grundsätzlich sind alle Einträge in der Schriftgröße 1 gemäß den Vorgaben der nachstehenden Tabellen vorzunehmen:
   - a) :: Für den Reisepass sowie den Dienst- und Diplomatenpass gilt:
     Wird in einem Datenfeld die zur Verfügung stehende Zeichenzahl in der Schriftgröße 1 überschritten, sind sämtliche Zeichen des entsprechenden Datenfeldes in Schriftgröße 2 einzutragen.
     Sollte auch unter Ausnutzung der Schriftgröße 2 die nach Maßgabe der nachstehenden Tabelle 1 maximal zur Verfügung stehende Zeichenzahl nicht ausreichen, sind die Einträge des Datenfeldes (z. B. Vornamen) entsprechend gekürzt vorzunehmen.
   - b) :: Für den Kinderreisepass, den vorläufigen Reisepass sowie den vorläufigen Dienst- und Diplomatenpass gilt:
     Grundsätzlich sind alle Einträge in der Schriftgröße 1 im Fettsatz gemäß den Vorgaben der nachstehenden Tabelle 2 vorzunehmen.
-    Einträge im Datenfeld Name“ sind gemäß den Vorgaben der nachstehenden Tabelle 2 in den Schriftgrößen 1 und 2 im Fettsatz zulässig. Einträge in den sonstigen Datenfeldern sind nur in der Schriftgröße 1 zulässig. Sollte unter Ausnutzung dieser Schriftgrößen die zur Verfügung stehende Zeichenzahl nicht ausreichen, sind die Einträge des Datenfeldes (z. B. Vornamen) entsprechend gekürzt vorzunehmen.
+    Einträge im Datenfeld „Name“ sind gemäß den Vorgaben der nachstehenden Tabelle 2 in den Schriftgrößen 1 und 2 im Fettsatz zulässig. Einträge in den sonstigen Datenfeldern sind nur in der Schriftgröße 1 zulässig. Sollte unter Ausnutzung dieser Schriftgrößen die zur Verfügung stehende Zeichenzahl nicht ausreichen, sind die Einträge des Datenfeldes (z. B. Vornamen) entsprechend gekürzt vorzunehmen.
 
   Unterschiedliche Schriftgrößen innerhalb eines Datenfeldes sind unzulässig.
   Bei der Personalisierung des Aufklebers zur Änderung der Dienstort- und Dienstbezeichnung sind die Eintragungen in der Schriftgröße 1 im Fettsatz vorzunehmen.
 - 7. :: Sofern neben dem Familiennamen auch ein Geburtsname vorhanden ist, gilt für den Reisepass sowie den Dienst- und Diplomatenpass:
-  Der Geburtsname ist in das Feld Geburtsname“ einzutragen.
+  Der Geburtsname ist in das Feld „Geburtsname“ einzutragen.
   Für den Kinderreisepass, den vorläufigen Reisepass sowie den vorläufigen Dienst- und Diplomatenpass gilt:
-  Der Geburtsname ist im Feld Name“ in einer eigenen Zeile einzutragen. Ihm ist die Zeichenfolge GEB.“ bzw. geb. “ unter Hinzufügung eines Leerzeichens voranzustellen.
-- 8. :: Soweit ein oder mehrere Doktorgrade vorhanden sind, wird dieser bzw. werden diese im Datenfeld Name“ eingetragen. Entsprechend der für die Eintragung des Doktorgrades bzw. der Doktorgrade benötigten Zeichenzahl verringert sich die Anzahl der verbleibenden Zeichen für den Namenseintrag.
+  Der Geburtsname ist im Feld „Name“ in einer eigenen Zeile einzutragen. Ihm ist die Zeichenfolge „GEB.“ bzw. „geb. “ unter Hinzufügung eines Leerzeichens voranzustellen.
+- 8. :: Soweit ein oder mehrere Doktorgrade vorhanden sind, wird dieser bzw. werden diese im Datenfeld „Name“ eingetragen. Entsprechend der für die Eintragung des Doktorgrades bzw. der Doktorgrade benötigten Zeichenzahl verringert sich die Anzahl der verbleibenden Zeichen für den Namenseintrag.
 - 9. :: Die alphanumerische Seriennummer des Reisepasses, Dienstpasses und Diplomatenpasses wird ausschließlich aus den Buchstaben C, F, G, H, J, K, L, M, N, P, R, T, V, W, X, Y, Z und den Ziffern 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 gebildet.
   Beim Kinderreisepass, vorläufigen Reisepass, vorläufigen Dienstpass und vorläufigen Diplomatenpass besteht die Seriennummer aus einem Serienbuchstaben und sieben Ziffern.
 - 10. :: Das Lichtbild, das von der antragstellenden Person in den Abmaßen 35 x 45 mm vorzulegen ist, ist bei der Personalisierung im vorläufigen Reisepass, im Dienstpass, im Diplomatenpass sowie im Kinderreisepass in den Abmessungen 32 x 41 mm verkleinert darzustellen.
 - 11. :: Die Schriftgröße ist am Großbuchstaben E auszurichten.
-- 12. :: Die Eintragung zur Staatsangehörigkeit im Reisepass, Kinderreisepass und vorläufigen Reisepass lautet DEUTSCH“.
+- 12. :: Die Eintragung zur Staatsangehörigkeit im Reisepass, Kinderreisepass und vorläufigen Reisepass lautet „DEUTSCH“.
   Für Dienstpass und Diplomatenpass sowie für vorläufigen Dienstpass und vorläufigen Diplomatenpass gilt:
-  Ist die Staatsbürgerschaft deutsch, lautet der Eintrag DEUTSCH“. In allen anderen Fällen ist die Eintragung in Form des 3-Letter-Codes gemäß ICAO Doc 9303 (3 Zeichen) vorzunehmen.
+  Ist die Staatsbürgerschaft deutsch, lautet der Eintrag „DEUTSCH“. In allen anderen Fällen ist die Eintragung in Form des 3-Letter-Codes gemäß ICAO Doc 9303 (3 Zeichen) vorzunehmen.
 
 Tabelle 1: Reisepass, Dienst- und Diplomatenpass
 Datenfelder
@@ -798,28 +798,28 @@ Name<<FnR.FnA1-F797417_02>>[[#FnA1-F797417_02][2]]}
 40 Zeichen pro Zeile; 1 Zeile
 [a]
 62 Zeichen pro Zeile, 2 Zeilen
-
+ 
 [b]
 40 Zeichen pro Zeile; 1 Zeile
 [b]
 62 Zeichen pro Zeile, 1 Zeile
 [b]
 Geburtsname
-
-
-
+ 
+ 
+ 
 (insgesamt 80 Zeichen)
 ODER
-
-
+ 
+ 
 [a]
 62 Zeichen pro Zeile, 1 Zeile
-
-
+ 
+ 
 [b]
 62 Zeichen pro Zeile, 2 Zeilen
-
-
+ 
+ 
 (insgesamt 186 Zeichen)
  2
 Vornamen

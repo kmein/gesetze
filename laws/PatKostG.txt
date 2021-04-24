@@ -147,27 +147,27 @@ A. Gebühren des Deutschen Patent- und Markenamts\\
 (2) Die Gebühren Nummer 313 600, 323 100, 331 600, 331 610, 333 000, 333 300, 333 350, 333 400, 333 450, 346 100 und 362 100 werden für jeden Antragsteller gesondert erhoben.
 I. Patentsachen
 1. Erteilungsverfahren
-
+ 
 Anmeldeverfahren Nationale Anmeldung (§ 34 PatG)
-
-
+ 
+ 
 --  bei elektronischer Anmeldung
-
+ 
 311 000
     --  die bis zu zehn Patentansprüche enthält . . . . . . . . . .
 40
 311 050
     --  die mehr als zehn Patentansprüche enthält:
-
-
+ 
+ 
         Die Gebühr 311 000 erhöht sich für jeden weiteren Anspruch um jeweils . . . . . . . . . .
 20
 311 100
 -- bei Anmeldung in Papierform: Die Gebühren 311 000 und 311 050 erhöhen sich jeweils auf das 1,5fache.
-
-
+ 
+ 
 Internationale Anmeldung (Artikel III § 4 Abs. 2 Satz 1 IntPatÜbkG)
-
+ 
 311 150
 -- die bis zu zehn Patentansprüche enthält
 60
@@ -177,12 +177,12 @@ Internationale Anmeldung (Artikel III § 4 Abs. 2 Satz 1 IntPatÜbkG)
 311 200
 Recherche (§ 43 PatG) . . . . . . . . . .
 300
-
+ 
 Prüfungsverfahren
-
-
+ 
+ 
 (§ 44 PatG)
-
+ 
 311 300
 -- wenn ein Antrag nach § 43 PatG bereits gestellt worden ist . . . . . . . . . .
 150
@@ -192,9 +192,9 @@ Prüfungsverfahren
 311 500
 Anmeldeverfahren für ein ergänzendes Schutzzertifikat (§ 49a PatG) . . . . . . . . . .
 300
-
+ 
 Verlängerung der Laufzeit eines ergänzenden Schutzzertifikats (§ 49a Abs. 3 PatG)
-
+ 
 311 600
 -- wenn der Antrag zusammen mit dem Antrag auf Erteilung des ergänzenden Schutzzertifikats gestellt wird . . . . . . . . . .
 100
@@ -202,16 +202,16 @@ Verlängerung der Laufzeit eines ergänzenden Schutzzertifikats (§ 49a Abs. 3 P
 -- wenn der Antrag nach dem Antrag auf Erteilung des ergänzenden Schutzzertifikats gestellt wird . . . . . . . . . .
 200
 2. Aufrechterhaltung eines Patents oder einer Anmeldung
-
+ 
 Jahresgebühren gemäß § 17 Abs. 1 PatG
-
+ 
 312 030
 für das 3. Patentjahr . . . . . . . . . .
 70
 312 031
 -- bei Lizenzbereitschaftserklärung
-
-
+ 
+ 
     (§ 23 Abs. 1 PatG) . . . . . . . . . .
 35
 312 032
@@ -222,8 +222,8 @@ für das 4. Patentjahr . . . . . . . . . .
 70
 312 041
 -- bei Lizenzbereitschaftserklärung
-
-
+ 
+ 
     (§ 23 Abs. 1 PatG) . . . . . . . . . .
 35
 312 042
@@ -234,8 +234,8 @@ für das 5. Patentjahr . . . . . . . . . .
 90
 312 051
 -- bei Lizenzbereitschaftserklärung
-
-
+ 
+ 
     (§ 23 Abs. 1 PatG) . . . . . . . . . .
 45
 312 052
@@ -246,8 +246,8 @@ für das 6. Patentjahr . . . . . . . . . .
 130
 312 061
 -- bei Lizenzbereitschaftserklärung
-
-
+ 
+ 
     (§ 23 Abs. 1 PatG) . . . . . . . . . .
 65
 312 062
@@ -258,8 +258,8 @@ für das 7. Patentjahr . . . . . . . . . .
 180
 312 071
 -- bei Lizenzbereitschaftserklärung
-
-
+ 
+ 
     (§ 23 Abs. 1 PatG) . . . . . . . . . .
 90
 312 072
@@ -270,8 +270,8 @@ für das 8. Patentjahr . . . . . . . . . .
 240
 312 081
 -- bei Lizenzbereitschaftserklärung
-
-
+ 
+ 
     (§ 23 Abs. 1 PatG) . . . . . . . . . .
 120
 312 082
@@ -282,8 +282,8 @@ für das 9. Patentjahr . . . . . . . . . .
 290
 312 091
 -- bei Lizenzbereitschaftserklärung
-
-
+ 
+ 
     (§ 23 Abs. 1 PatG) . . . . . . . . . .
 145
 312 092
@@ -294,8 +294,8 @@ für das 10. Patentjahr . . . . . . . . . .
 350
 312 101
 -- bei Lizenzbereitschaftserklärung
-
-
+ 
+ 
     (§ 23 Abs. 1 PatG) . . . . . . . . . .
 175
 312 102
@@ -306,8 +306,8 @@ für das 11. Patentjahr . . . . . . . . . .
 470
 312 111
 -- bei Lizenzbereitschaftserklärung
-
-
+ 
+ 
     (§ 23 Abs. 1 PatG) . . . . . . . . . .
 235
 312 112
@@ -318,8 +318,8 @@ für das 12. Patentjahr . . . . . . . . . .
 620
 312 121
 -- bei Lizenzbereitschaftserklärung
-
-
+ 
+ 
     (§ 23 Abs. 1 PatG) . . . . . . . . . .
 310
 312 122
@@ -330,8 +330,8 @@ für das 13. Patentjahr . . . . . . . . . .
 760
 312 131
 -- bei Lizenzbereitschaftserklärung
-
-
+ 
+ 
     (§ 23 Abs. 1 PatG) . . . . . . . . . .
 380
 312 132
@@ -342,8 +342,8 @@ für das 14. Patentjahr . . . . . . . . . .
 910
 312 141
 -- bei Lizenzbereitschaftserklärung
-
-
+ 
+ 
     (§ 23 Abs. 1 PatG) . . . . . . . . . .
 455
 312 142
@@ -354,8 +354,8 @@ für das 15. Patentjahr . . . . . . . . . .
 1 060
 312 151
 -- bei Lizenzbereitschaftserklärung
-
-
+ 
+ 
     (§ 23 Abs. 1 PatG) . . . . . . . . . .
 530
 312 152
@@ -366,8 +366,8 @@ für das 16. Patentjahr . . . . . . . . . .
 1 230
 312 161
 -- bei Lizenzbereitschaftserklärung
-
-
+ 
+ 
     (§ 23 Abs. 1 PatG)
 615
 312 162
@@ -378,8 +378,8 @@ für das 17. Patentjahr
 1 410
 312 171
 -- bei Lizenzbereitschaftserklärung
-
-
+ 
+ 
     (§ 23 Abs. 1 PatG) . . . . . . . . . .
 705
 312 172
@@ -390,8 +390,8 @@ für das 18. Patentjahr . . . . . . . . . .
 1 590
 312 181
 -- bei Lizenzbereitschaftserklärung
-
-
+ 
+ 
     (§ 23 Abs. 1 PatG) . . . . . . . . . .
 795
 312 182
@@ -402,8 +402,8 @@ für das 19. Patentjahr . . . . . . . . . .
 1 760
 312 191
 -- bei Lizenzbereitschaftserklärung
-
-
+ 
+ 
     (§ 23 Abs. 1 PatG) . . . . . . . . . .
 880
 312 192
@@ -414,16 +414,16 @@ für das 20. Patentjahr
 1 940
 312 201
 -- bei Lizenzbereitschaftserklärung
-
-
+ 
+ 
     (§ 23 Abs. 1 PatG) . . . . . . . . . .
 970
 312 202
 -- Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . .
 50
-
+ 
 Zahlung der 3. bis 5. Jahresgebühr bei Fälligkeit der 3. Jahresgebühr:
-
+ 
 312 205
 Die Gebühren 312 030 bis 312 050 ermäßigen sich auf . . . . . . . . . .
 200
@@ -433,16 +433,16 @@ Die Gebühren 312 030 bis 312 050 ermäßigen sich auf . . . . . . . . . .
 312 207
 -- Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . .
 50
-
+ 
 Jahresgebühren gemäß § 16a PatG
-
+ 
 312 210
 für das 1. Jahr des ergänzenden Schutzes . . . . . . . . . .
 2 650
 312 211
 -- bei Lizenzbereitschaftserklärung
-
-
+ 
+ 
     (§ 23 Abs. 1 PatG) . . . . . . . . . .
 1 325
 312 212
@@ -453,8 +453,8 @@ für das 2. Jahr des ergänzenden Schutzes . . . . . . . . . .
 2 940
 312 221
 -- bei Lizenzbereitschaftserklärung
-
-
+ 
+ 
     (§ 23 Abs. 1 PatG) . . . . . . . . . .
 1 470
 312 222
@@ -465,8 +465,8 @@ für das 3. Jahr des ergänzenden Schutzes . . . . . . . . . .
 3 290
 312 231
 -- bei Lizenzbereitschaftserklärung
-
-
+ 
+ 
     (§ 23 Abs. 1 PatG)
 1 645
 312 232
@@ -477,8 +477,8 @@ für das 4. Jahr des ergänzenden Schutzes . . . . . . . . . .
 3 650
 312 241
 -- bei Lizenzbereitschaftserklärung
-
-
+ 
+ 
     (§ 23 Abs. 1 PatG) . . . . . . . . . .
 1 825
 312 242
@@ -489,8 +489,8 @@ für das 5. Jahr des ergänzenden Schutzes . . . . . . . . . .
 4 120
 312 251
 -- bei Lizenzbereitschaftserklärung
-
-
+ 
+ 
     (§ 23 Abs. 1 PatG) . . . . . . . . . .
 2 060
 312 252
@@ -501,8 +501,8 @@ für das 6. Jahr des ergänzenden Schutzes . . . . . . . . . .
 4 520
 312 261
 -- bei Lizenzbereitschaftserklärung
-
-
+ 
+ 
     (§ 23 Abs. 1 PatG) . . . . . . . . . .
 2 260
 312 262
@@ -512,31 +512,31 @@ für das 6. Jahr des ergänzenden Schutzes . . . . . . . . . .
 313 000
 Weiterbehandlungsgebühr (§ 123a PatG) . . . . . . . . . .
 100
-
+ 
 Erfindervergütung
-
+ 
 313 200
 -- Festsetzungsverfahren (§ 23 Abs. 4 PatG) . . . . . . . . . .
 60
 313 300
 -- Verfahren bei Änderung der Festsetzung
-
-
+ 
+ 
     (§ 23 Abs. 5 PatG) . . . . . . . . . .
 120
-
+ 
 Recht zur ausschließlichen Benutzung der Erfindung
-
+ 
 313 400
 -- Eintragung der Einräumung
-
-
+ 
+ 
     (§ 30 Abs. 4 Satz 1 PatG) . . . . . . . . . .
 25
 313 500
 -- Löschung dieser Eintragung
-
-
+ 
+ 
     (§ 30 Abs. 4 Satz 3 PatG) . . . . . . . . . .
 25
 313 600
@@ -544,13 +544,13 @@ Einspruchsverfahren (§ 59 Abs. 1 und Abs. 2 PatG) . . . . . . . . . .
 200
 313 700
 Beschränkungs- oder Widerrufsverfahren
-
-
+ 
+ 
 (§ 64 PatG) . . . . . . . . . .
 120
-
+ 
 Veröffentlichung von Übersetzungen oder berichtigten Übersetzungen
-
+ 
 313 800
 -- der Patentansprüche europäischer Patentanmeldungen (Artikel II § 2 Abs. 1 IntPatÜbkG) . . . . . . . . . .
 60
@@ -560,11 +560,11 @@ Veröffentlichung von Übersetzungen oder berichtigten Übersetzungen
 60
 313 820
 (weggefallen)
-
+ 
 313 900
 Übermittlung der internationalen Anmeldung
-
-
+ 
+ 
 (Artikel III § 1 Abs. 2 IntPatÜbkG) . . . . . . . . . .
 90
 4. Anträge im Zusammenhang mit der Erstreckung gewerblicher Schutzrechte
@@ -573,8 +573,8 @@ Veröffentlichung von Übersetzungen oder berichtigten Übersetzungen von erstre
 150
 314 200
 Recherche für ein erstrecktes Patent
-
-
+ 
+ 
 (§ 11 ErstrG) . . . . . . . . . .
 250
 5. Anträge im Zusammenhang mit ergänzenden Schutzzertifikaten
@@ -586,9 +586,9 @@ Antrag auf Widerruf der Verlängerung der Laufzeit . . . . . . . . . .
 200
 II. Gebrauchsmustersachen
 1. Eintragungsverfahren
-
+ 
 Anmeldeverfahren Nationale Anmeldung (§ 4 GebrMG)
-
+ 
 321 000
 -- bei elektronischer Anmeldung . . . . . . . . . .
 30
@@ -597,17 +597,17 @@ Anmeldeverfahren Nationale Anmeldung (§ 4 GebrMG)
 40
 321 150
 Internationale Anmeldung
-
-
+ 
+ 
 (Artikel III § 4 Abs. 2 Satz 1 IntPatÜbkG)
 40
 321 200
 Recherche (§ 7 GebrMG) . . . . . . . . . .
 250
 2. Aufrechterhaltung eines Gebrauchsmusters
-
+ 
 Aufrechterhaltungsgebühren gemäß § 23 Abs. 2 GebrMG
-
+ 
 322 100
 für das 4. bis 6. Schutzjahr . . . . . . . . . .
 210
@@ -635,12 +635,12 @@ Löschungsverfahren (§ 16 GebrMG) . . . . . . . . . .
 300
 III. Marken; geographische Angaben und Ursprungsbezeichnungen
 1. Eintragungsverfahren
-
+ 
 Anmeldeverfahren einschließlich der Klassengebühr bis zu drei Klassen
-
-
+ 
+ 
 -- für eine Marke (§ 32 MarkenG)
-
+ 
 331 000
     -- bei elektronischer Anmeldung . . . . . . . . . .
 290
@@ -650,9 +650,9 @@ Anmeldeverfahren einschließlich der Klassengebühr bis zu drei Klassen
 331 200
 -- für eine Kollektiv- oder Gewährleistungsmarke (§§ 97 und 106a MarkenG)
 900
-
+ 
 Klassengebühr ab der vierten Klasse pro Klasse
-
+ 
 331 300
 -- für eine Marke (§ 32 MarkenG) . . . . . . . . . .
 100
@@ -662,9 +662,9 @@ Klassengebühr ab der vierten Klasse pro Klasse
 331 500
 Beschleunigte Prüfung der Anmeldung (§ 38 MarkenG) . . . . . . . . . .
 200
-
+ 
 Widerspruchsverfahren (§ 42 MarkenG)
-
+ 
 331 600
 -- Grundbetrag für ein Widerspruchszeichen . . . . . . . . . .
 250
@@ -678,9 +678,9 @@ Verfahren bei Teilung einer Anmeldung (§ 40 MarkenG) . . . . . . . . . .
 Verfahren bei Teilübertragung einer Anmeldung (§ 27 Abs. 4, § 31 MarkenG)
 300
 2. Verlängerung der Schutzdauer
-
+ 
 Verlängerungsgebühr einschließlich der Klassengebühr bis zu drei Klassen
-
+ 
 332 100
 -- für eine Marke (§ 47 Abs. 2 und 3 MarkenG) . . . . . . . . . .
 750
@@ -693,9 +693,9 @@ Verlängerungsgebühr einschließlich der Klassengebühr bis zu drei Klassen
 332 201
     -- Verspätungszuschlag (§ 7 Abs. 3 Satz 2) . . . . . . . . . .
 50
-
+ 
 Klassengebühr bei Verlängerung für jede Klasse ab der vierten Klasse
-
+ 
 332 300
 -- für eine Marke, Kollektiv- oder Gewährleistungsmarke (§ 47 Abs. 2 und 3, §§ 97, 106a MarkenG)
 260
@@ -715,9 +715,9 @@ Verfahren bei Teilung einer Eintragung (§ 46 MarkenG) . . . . . . . . . .
 333 200
 Verfahren bei Teilübertragung einer Eintragung (§§ 46, 27 Abs. 4 MarkenG)
 300
-
+ 
 Verfalls- und Nichtigkeitsverfahren (§ 53 MarkenG)
-
+ 
 333 300
 -- Nichtigkeit wegen absoluter Schutzhindernisse (§ 50 MarkenG) und älterer Rechte (§ 51 MarkenG) . . . . . . . . . .
 400
@@ -730,9 +730,9 @@ Verfalls- und Nichtigkeitsverfahren (§ 53 MarkenG)
 333 450
 -- Weiterverfolgung des Verfallsantrags nach Widerspruch des Markeninhabers . . . . . . . . . .
 300
-
+ 
 Recht zur Benutzung der Marke
-
+ 
 333 500
 -- Eintragung einer Lizenz (§ 30 Abs. 6 Satz 1 MarkenG) . . . . . . . . . .
 50
@@ -749,18 +749,18 @@ Nationale Gebühr für die internationale Registrierung nach Artikel 3 des Madri
 334 300
 Nationale Gebühr für die nachträgliche Schutzerstreckung nach Artikel 3ter} Abs. 2 des Madrider Markenabkommens (§ 111 MarkenG) oder nach Artikel 3ter} Abs. 2 des Protokolls zum Madrider Markenabkommen (§ 123 Abs. 1 MarkenG) sowie nach dem Madrider Markenabkommen und dem Protokoll zum Madrider Markenabkommen (§ 123 Abs. 2 MarkenG) . . . . . . . . . .
 120
-
+ 
 Umwandlungsverfahren einschließlich der Klassengebühr bis zu drei Klassen (§ 125 Abs. 1 MarkenG)
-
+ 
 334 500
 -- für eine Marke (§ 32 MarkenG) . . . . . . . . . .
 300
 334 600
 -- für eine Kollektiv- oder Gewährleistungsmarke (§§ 97 und 106a MarkenG) . . . . . . . . . .
 900
-
+ 
 Klassengebühr bei Umwandlung für jede Klasse ab der vierten Klasse
-
+ 
 334 700
 -- für eine Marke (§ 32 MarkenG) . . . . . . . . . .
 100
@@ -768,18 +768,18 @@ Klassengebühr bei Umwandlung für jede Klasse ab der vierten Klasse
 -- für eine Kollektiv- oder Gewährleistungsmarke (§§ 97 und 106a MarkenG) . . . . . . . . . .
 150
 5. Gemeinschaftsmarken
-
+ 
 Umwandlungsverfahren (§ 125d Abs. 1 MarkenG)
-
+ 
 335 200
 -- für eine Marke (§ 32 MarkenG) . . . . . . . . . .
 300
 335 300
 -- für eine Kollektiv- oder Gewährleistungsmarke (§§ 97 und 106a MarkenG) . . . . . . . . . .
 900
-
+ 
 Klassengebühr bei Umwandlung ab der zweiten Klasse pro Klasse
-
+ 
 335 400
 -- für eine Marke (§ 32 MarkenG) . . . . . . . . . .
 100
@@ -805,37 +805,37 @@ Löschungsverfahren (§ 132 Abs. 2 MarkenG) . . . . . . . . . .
 IV. Designsachen
 1. Anmeldeverfahren
 Ein Satz typografischer Schriftzeichen gilt als ein Design.
-
+ 
 Anmeldeverfahren
-
-
+ 
+ 
 -- für ein Design (§ 11 DesignG)
-
+ 
 341 000
     -- bei elektronischer Anmeldung . . . . . . . . . .
 60
 341 100
     -- bei Anmeldung in Papierform . . . . . . . . . .
 70
-
+ 
 -- für jedes Design einer Sammelanmeldung (§ 12 Absatz 1 DesignG)
-
+ 
 341 200
     -- bei elektronischer Anmeldung
-
-
+ 
+ 
         für 2 bis 10 Designs . . . . . . . . . .
 60
-
+ 
         für jedes weitere Design . . . . . . . . . .
 6
 341 300
     -- bei Anmeldung in Papierform
-
-
+ 
+ 
         für 2 bis 10 Designs . . . . . . . . . .
 70
-
+ 
         für jedes weitere Design . . . . . . . . . .
 7
 341 400
@@ -843,63 +843,63 @@ Anmeldeverfahren
 30
 341 500
 -- für jedes Design einer Sammelanmeldung bei Aufschiebung der Bildbekanntmachung (§§ 12, 21 DesignG)
-
-
+ 
+ 
     -- für 2 bis 10 Designs . . . . . . . . . .
 30
-
+ 
     -- für jedes weitere Design . . . . . . . . . .
 3
 Erstreckung des Schutzes auf die Schutzdauer des § 27 Absatz 2 DesignG bei Aufschiebung der Bildbekanntmachung gemäß § 21 Absatz 2 DesignG
-
+ 
 Erstreckungsgebühr
-
+ 
 341 600
 -- für ein Design . . . . . . . . . .
 40
 341 700
 -- für jedes einzutragende Design einer Sammelanmeldung
-
-
+ 
+ 
     -- für 2 bis 10 Designs . . . . . . . . . .
 40
-
+ 
     -- für jedes weitere Design . . . . . . . . . .
 4
 2. Aufrechterhaltung der Schutzdauer
-
+ 
 Aufrechterhaltungsgebühren gemäß § 28 Absatz 1 DesignG
-
-
+ 
+ 
 für das 6. bis 10. Schutzjahr
-
+ 
 342 100
 -- für jedes eingetragene Design, auch in einer Sammelanmeldung . . . . . . . . . .
 90
 342 101
 -- Verspätungszuschlag für jedes eingetragene Design, auch in einer Sammelanmeldung (§ 7 Absatz 1 Satz 2 DesignG) . . . . . . . . . .
 50
-
+ 
 für das 11. bis 15. Schutzjahr
-
+ 
 342 200
 -- für jedes eingetragene Design, auch in einer Sammelanmeldung . . . . . . . . . .
 120
 342 201
 -- Verspätungszuschlag für jedes eingetragene Design, auch in einer Sammelanmeldung (§ 7 Absatz 1 Satz 2 DesignG) . . . . . . . . . .
 50
-
+ 
 für das 16. bis 20. Schutzjahr
-
+ 
 342 300
 -- für jedes eingetragene Design, auch in einer Sammelanmeldung . . . . . . . . . .
 150
 342 301
 -- Verspätungszuschlag für jedes eingetragene Design, auch in einer Sammelanmeldung (§ 7 Absatz 1 Satz 2 DesignG) . . . . . . . . . .
 50
-
+ 
 für das 21. bis 25. Schutzjahr
-
+ 
 342 400
 -- für jedes eingetragene Design, auch in einer Sammelanmeldung . . . . . . . . . .
 180
@@ -932,25 +932,25 @@ Aufrechterhaltungsgebühren für das 21. bis 25. Schutzjahr . . . . . . . . . .
 -- Verspätungszuschlag für jedes eingetragene Design, auch in einer Sammelanmeldung (§ 7 Absatz 1 Satz 2 DesignG) . . . . . . . . . .
 50
 4. Gemeinschaftsgeschmacksmuster
-
+ 
 Weiterleitung einer Gemeinschaftsgeschmacksmusteranmeldung (§ 62 DesignG)
-
+ 
 344 100
 für jede Anmeldung . . . . . . . . . .
 25
-
+ 
 Eine Sammelanmeldung gilt als eine Anmeldung.
-
+ 
 5. Designs nach dem Haager Abkommen
-
+ 
 Weiterleitung einer Designanmeldung nach dem Haager Abkommen (§ 68 DesignG)
-
+ 
 345 100
 für jede Anmeldung . . . . . . . . . .
 25
-
+ 
 Eine Sammelanmeldung gilt als eine Anmeldung.
-
+ 
 6. Sonstige Anträge
 346 000
 Weiterbehandlungsgebühr (§ 17 DesignG) . . . . . . . . . .
@@ -960,9 +960,9 @@ Nichtigkeitsverfahren (§ 34a DesignG) für jedes eingetragene Design . . . . . 
 300
 V. Topografieschutzsachen
 1. Anmeldeverfahren
-
+ 
 Anmeldeverfahren (§ 3 HalblSchG)
-
+ 
 361 000
 -- bei elektronischer Anmeldung . . . . . . . . . .
 290
@@ -978,9 +978,9 @@ Löschungsverfahren (§ 8 HalblSchG) . . . . . . . . . .
 300
 VI. Topographieschutzsachen
 1. Anmeldeverfahren
-
+ 
 Anmeldeverfahren (§ 3 HalblSchG)
-
+ 
 361 000
 -- bei elektronischer Anmeldung . . . . . . . . . .
 290
@@ -1044,11 +1044,11 @@ in anderen Fällen . . . . . . . . . .
 
 200 EUR
 
-
+ 
 
 Beschwerden in Verfahrenskostenhilfesachen, Beschwerden nach § 11 Abs. 2 PatKostG und nach § 11 Abs. 2 DPMAVwKostV sind gebührenfrei.
 
-
+ 
 
 II. Klageverfahren
 
@@ -1064,9 +1064,9 @@ Verfahren im Allgemeinen . . . . . . . . . .
 
 Beendigung des gesamten Verfahrens durch
 
+ 
 
-
-
+ 
 
 - a) :: Zurücknahme der Klage
   - -- :: vor dem Schluss der mündlichen Verhandlung,
@@ -1075,19 +1075,19 @@ Beendigung des gesamten Verfahrens durch
   - b) :: Anerkenntnis- und Verzichtsurteil,
   - c) :: Abschluss eines Vergleichs vor Gericht, wenn nicht bereits ein Urteil vorausgegangen ist:
 
+ 
 
-
-
+ 
 
 Die Gebühr 402 100 ermäßigt sich auf/. . . . . . . . . .
 
 1,5
 
-
+ 
 
 Erledigungserklärungen stehen der Zurücknahme nicht gleich. Die Ermäßigung tritt auch ein, wenn mehrere Ermäßigungstatbestände erfüllt sind.
 
-
+ 
 
 2. Sonstige Klageverfahren
 
@@ -1101,37 +1101,37 @@ Verfahren im Allgemeinen . . . . . . . . . .
 
 Beendigung des gesamten Verfahrens durch
 
+ 
 
-
-
+ 
 
 a) Zurücknahme der Klage vor dem Schluss der mündlichen Verhandlung,
 
+ 
 
-
-
+ 
 
 b) Anerkenntnis- und Verzichtsurteil,
 
+ 
 
-
-
+ 
 
 c) Abschluss eines Vergleichs vor Gericht, wenn nicht bereits ein Urteil vorausgegangen ist:
 
+ 
 
-
-
+ 
 
 Die Gebühr 402 200 ermäßigt sich auf/. . . . . . . . . .
 
 1,5
 
-
+ 
 
 Erledigungserklärungen stehen der Zurücknahme nicht gleich. Die Ermäßigung tritt auch ein, wenn mehrere Ermäßigungstatbestände erfüllt sind.
 
-
+ 
 
 3. Erlass einer einstweiligen Verfügung wegen Erteilung einer Zwangslizenz (§ 85 PatG, § 85a in Verbindung mit\\
     § 85 PatG und § 20 GebrMG in Verbindung mit § 81 PatG)
@@ -1146,15 +1146,15 @@ Verfahren über den Antrag . . . . . . . . . .
 
 In dem Verfahren findet eine mündliche
 
+ 
 
-
-
+ 
 
 Verhandlung statt:
 
+ 
 
-
-
+ 
 
 Die Gebühr 402 300 erhöht sich auf . . . . . . . . . .
 
@@ -1164,37 +1164,37 @@ Die Gebühr 402 300 erhöht sich auf . . . . . . . . . .
 
 Beendigung des gesamten Verfahrens durch
 
+ 
 
-
-
+ 
 
 a) Zurücknahme des Antrags vor dem Schluss der mündlichen Verhandlung,
 
+ 
 
-
-
+ 
 
 b) Anerkenntnis- und Verzichtsurteil,
 
+ 
 
-
-
+ 
 
 c) Abschluss eines Vergleichs vor Gericht, wenn nicht bereits ein Urteil vorausgegangen ist:
 
+ 
 
-
-
+ 
 
 Die Gebühr 402 310 ermäßigt sich auf/. . . . . . . . . .
 
 1,5
 
-
+ 
 
 Erledigungserklärungen stehen der Zurücknahme nicht gleich. Die Ermäßigung tritt auch ein, wenn mehrere Ermäßigungstatbestände erfüllt sind.
 
-
+ 
 
 III. Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör
 
@@ -1202,9 +1202,9 @@ III. Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör
 
 Verfahren über die Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör nach § 321a ZPO i. V. m. § 99 Abs. 1 PatG, § 82 Abs. 1 MarkenG
 
+ 
 
-
-
+ 
 
 Die Rüge wird in vollem Umfang verworfen oder zurückgewiesen
 

@@ -13,7 +13,7 @@ Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des Berufsbildungsgesetzes, v
 Der Ausbildungsberuf Medientechnologe Siebdruck und Medientechnologin Siebdruck wird
 
 - 1. :: nach § 4 Absatz 1 des Berufsbildungsgesetzes und
-- 2. :: nach § 25 der Handwerksordnung für die Ausbildung für das Gewerbe Nummer 41 Siebdrucker“ der Anlage B 1 der Handwerksordnung
+- 2. :: nach § 25 der Handwerksordnung für die Ausbildung für das Gewerbe Nummer 41 „Siebdrucker“ der Anlage B 1 der Handwerksordnung
 
 staatlich anerkannt.
 
@@ -181,14 +181,14 @@ statt.
 
 (2) Die Abschluss- oder Gesellenprüfung ist bestanden, wenn die Leistungen
 
-- 1. :: im Gesamtergebnis mit mindestens ausreichend“,
-- 2. :: im Prüfungsbereich Siebdruckproduktion mit mindestens ausreichend“,
-- 3. :: in mindestens zwei weiteren Prüfungsbereichen mit mindestens ausreichend“ und
-- 4. :: in keinem Prüfungsbereich mit ungenügend“
+- 1. :: im Gesamtergebnis mit mindestens „ausreichend“,
+- 2. :: im Prüfungsbereich Siebdruckproduktion mit mindestens „ausreichend“,
+- 3. :: in mindestens zwei weiteren Prüfungsbereichen mit mindestens „ausreichend“ und
+- 4. :: in keinem Prüfungsbereich mit „ungenügend“
 
 bewertet worden sind.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der schlechter als ausreichend“ bewerteten Prüfungsbereiche Auftragsplanung und Kommunikation“ oder Prozesstechnologie“ oder Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der schlechter als „ausreichend“ bewerteten Prüfungsbereiche „Auftragsplanung und Kommunikation“ oder „Prozesstechnologie“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 § 9 - Zusatzqualifikation
 
@@ -270,7 +270,7 @@ Abschnitt A Nummer 1)
 
 6
 
-
+ 
 
 2
 
@@ -290,7 +290,7 @@ Abschnitt A Nummer 2)
 
 26
 
-
+ 
 
 3
 
@@ -311,7 +311,7 @@ Abschnitt A Nummer 3)
 
 14
 
-
+ 
 
 4
 
@@ -331,7 +331,7 @@ Abschnitt A Nummer 4)
 
 26
 
-
+ 
 
 5
 
@@ -347,7 +347,7 @@ Abschnitt A Nummer 5)
 
 6
 
-
+ 
 
 6
 
@@ -364,7 +364,7 @@ Abschnitt A Nummer 6)
 - f) :: Farbwirkung im Zusammenspiel mit Bedruckstoff und Beleuchtung beurteilen
 - g) :: Farbräume und Farbsysteme anwenden, Standards und Normen beachten
 
-
+ 
 
 10
 
@@ -382,7 +382,7 @@ Abschnitt A Nummer 7)
 - f) :: Sicherheitseinrichtungen auf ihre Wirksamkeit überprüfen
 - g) :: Änderungen an Maschineneinstellungen und Austausch von Maschinenteilen sowie Prüfergebnisse dokumentieren
 
-
+ 
 
 10
 
@@ -427,20 +427,20 @@ Abschnitt B Nummer I.1)
 - b) :: Daten übernehmen, kontrollieren und auf den Standardisierungsprozess anpassen
 - c) :: Druckkapazitäten ermitteln und für den Standardprozess festlegen
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 - d) :: Siebdruckmaschine nach Standards einrichten, Maschinenparameter festlegen und dokumentieren
 - e) :: standardisierte Bedruckstoffe und Druckfarben auftragsbezogen auswählen und festlegen
 - f) :: standardisierte Siebdruckform zum Druckprodukt auswählen und festlegen
 - g) :: Druckkontrollelemente im Fortdruck visuell und messtechnisch kontrollieren, nach Prozessstandard auswerten und Ergebnisse dokumentieren
 
-
+ 
 
 \\
 13
@@ -459,7 +459,7 @@ Abschnitt B Nummer I.2)
 - f) :: veredeltes Druckprodukt, insbesondere auf Trocknung, Glanz, Block- und Scheuerfestigkeit, prüfen
 - g) :: Veredelungsprozess dokumentieren
 
-
+ 
 
 13
 
@@ -476,7 +476,7 @@ Abschnitt B Nummer I.3)
 - e) :: Qualitätskontrolle nach Kundenvorgaben und Qualitätsstandards durchführen
 - f) :: Produkte material- und transportgerecht lagern
 
-
+ 
 
 13
 
@@ -494,7 +494,7 @@ Abschnitt B Nummer I.4)
 - f) :: Arbeitsergebnisse prüfen und beurteilen, Qualitätskontrolle nach Kundenvorgaben und Qualitätsstandards durchführen
 - g) :: Produkte material- und transportgerecht lagern
 
-
+ 
 
 13
 
@@ -511,7 +511,7 @@ Abschnitt B Nummer I.5)
 - e) :: Daten und Vorlagen für die weitere Verwendung prüfen, bewerten und daraus einen Arbeitsauftrag erstellen
 - f) :: Urheberrechte und verwandte Schutzrechte sowie den Datenschutz bei der Auftragsvorbereitung berücksichtigen
 
-
+ 
 
 13
 
@@ -527,7 +527,7 @@ Abschnitt B Nummer I.6)
 - d) :: Schrift mit grafischen Elementen kombinieren und mit dem Plotter als Schneidefilm herstellen
 - e) :: Schrift und grafische Elemente in Selbstklebefolie schneiden, entgittern und produktspezifisch weiterverarbeiten
 
-
+ 
 
 13
 
@@ -548,7 +548,7 @@ Abschnitt B Nummer I.7)
 - i) :: Druckobjekt auswählen, vorbehandeln und das Druckbild auf das Druckobjekt transferieren, dabei Anpressdruck und Temperatur an Kalander oder Transferpresse kontrollieren
 - j) :: Produkte material- und transportgerecht lagern
 
-
+ 
 
 13
 
@@ -562,13 +562,13 @@ Abschnitt B Nummer I.8)
 - b) :: Vorgaben für die Druckvorstufe aus dem Druck- und dem Weiterverarbeitungsprozess ableiten und anpassen
 - c) :: rotative Druckform messen, prüfen und beurteilen, bei Abweichungen korrigieren
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 - d) :: Druckfarbsysteme unterscheiden und entsprechend der Verwendung und Weiterverarbeitung auswählen
 - e) :: Druckmaschine auf Bedruckstoff einstellen, auftragsbezogen einrichten und bedienen
@@ -578,7 +578,7 @@ Abschnitt B Nummer I.8)
 - i) :: Druckprodukt während des Fortdrucks nach Qualitätsstandards und Vorlagen prüfen und optimieren
 - j) :: Druckprodukt material- und transportgerecht lagern
 
-
+ 
 
 \\
 \\
@@ -604,7 +604,7 @@ Nummer I.9)
 - i) :: Maschineneinstellungen sowie Prüfergebnisse dokumentieren
 - j) :: bedruckte Objekte material- und transportgerecht lagern
 
-
+ 
 
 13
 
@@ -622,7 +622,7 @@ Nummer I.10)
 - d) :: Revisionsmuster erstellen und prüfen
 - e) :: Produktionsdaten sichern und archivieren
 
-
+ 
 
 13
 
@@ -640,23 +640,23 @@ Nummer I.11)
 - d) :: Digitaldrucke erstellen und während des Fortdrucks nach Qualitätsstandards und Vorlagen prüfen und optimieren
 - e) :: Maschinenlauf und Trocknung überwachen sowie Farbhaftung und Beständigkeiten prüfen und optimieren
 
-
+ 
 
 13\\
 \\
 
+ 
 
-
-
+ 
 
 - f) :: systemspezifische Wartungs- und Reinigungsarbeiten ausführen
 - g) :: Arbeitsergebnisse auf Qualitätsstandards und Umsetzung von Auftragsvorgaben prüfen, beurteilen und optimieren
 - h) :: Produktionsdaten sichern und archivieren
 - i) :: Druckprodukte material- und transportgerecht lagern
 
+ 
 
-
-
+ 
 
 2. Auswahlliste II (Wahlqualifikationen nach § 3 Nummer 3)\\
 \\
@@ -707,7 +707,7 @@ Nummer II.1)
 - k) :: Weiterverarbeitung von Druckbogen festlegen
 - l) :: bedruckte Produkte material- und transportgerecht lagern
 
-
+ 
 
 26
 
@@ -723,13 +723,13 @@ Nummer II.2)
 - c) :: Farbreihenfolge bei Mehrfarbdrucken festlegen
 - d) :: Druckfarbsysteme unterscheiden und entsprechend der Verwendung und Weiterverarbeitung auswählen, Farbtöne mischen und unter Verwendung von Zusatzstoffen druckfertig einstellen
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 - e) :: Bedruckstoffdurchlauf mit Passsystemen und Registersteuerung einrichten
 - f) :: mehrfarbige Motive andrucken, Druckergebnis mit Vorgaben abstimmen; Farbeinstellung, Farbdeckung, Stand- und Passergenauigkeit sowie Trocknung prüfen
@@ -741,7 +741,7 @@ Nummer II.2)
 - l) :: Druckprodukte auf Verarbeitungsfähigkeit prüfen
 - m) :: bedruckte Rollen material- und transportgerecht lagern
 
-
+ 
 
 \\
 \\
@@ -767,7 +767,7 @@ Nummer II.3)
 - h) :: Maschineneinstellungen sowie Prüfergebnisse dokumentieren
 - i) :: bedruckte Objekte material- und transportgerecht lagern
 
-
+ 
 
 26
 
@@ -783,13 +783,13 @@ Nummer II.4)
 - c) :: Zusatzaggregate für den technischen Siebdruck einrichten
 - d) :: Druckfarbsysteme und Verdruckstoffe unterscheiden und entsprechend der Verwendung und Weiterverarbeitung auswählen, Farbtöne mischen und unter Verwendung von Zusatzstoffen druckfertig einstellen und andrucken
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 - e) :: mehrfarbige Arbeiten andrucken, Druckergebnis mit Vorgaben abstimmen; Farbeinstellung, Farbdeckung, Stand- und Passergenauigkeit sowie Trocknung prüfen
 - f) :: Schichtstärke und Eigenschaften der Verdruckstoffe messen, optimieren und dokumentieren
@@ -798,7 +798,7 @@ Nummer II.4)
 - i) :: fertigungsspezifische Weiterverarbeitungsschritte festlegen
 - j) :: bedruckte Materialien transportgerecht lagern
 
-
+ 
 
 26
 
@@ -820,7 +820,7 @@ Nummer II.5)
 - i) :: Spezialanwendungen materialbezogen einsetzen und Produktbearbeitung festlegen
 - j) :: bedruckte Textilien material- und transportgerecht lagern
 
-
+ 
 
 26
 
@@ -841,15 +841,15 @@ Nummer II.6)
 - g) :: Zusatzaggregate einrichten und bedienen
 - h) :: Einbrennfarben, keramische Druckfarben sowie Gold- und Silberfarben auswählen sowie druckfertig einstellen, andrucken, messen und prüfen
 
-
+ 
 
 26\\
 \\
 \\
 
+ 
 
-
-
+ 
 
 - i) :: Freigabemuster für den Seriendruck erstellen und kontrollieren
 - j) :: Maschinenlauf, Druck- und Farbverhalten überwachen und optimieren
@@ -857,9 +857,9 @@ Nummer II.6)
 - l) :: Weiterverarbeitungsschritte steuern, überwachen und optimieren, weitere Produktbearbeitung festlegen
 - m) :: bedruckte Produkte material- und transportgerecht lagern
 
+ 
 
-
-
+ 
 
 II.7
 
@@ -880,7 +880,7 @@ Nummer II.7)
 - j) :: Weiterverarbeitungsschritte steuern, überwachen und optimieren, weitere Produktbearbeitung festlegen
 - k) :: bedruckte Produkte material- und transportgerecht lagern
 
-
+ 
 
 26
 
@@ -926,9 +926,9 @@ Abschnitt C Nummer 1)
 - d) :: wesentliche Teile des Arbeitsvertrages nennen
 - e) :: wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
+ 
 
-
-
+ 
 
 2
 
@@ -974,9 +974,9 @@ Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsber
 - c) :: Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 - d) :: Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
+ 
 
-
-
+ 
 
 5
 
@@ -996,6 +996,6 @@ Abschnitt C Nummer 5)
 - i) :: Teambesprechungen durchführen, Sachverhalte und Lösungen visualisieren und präsentieren, Gesprächsergebnisse dokumentieren, deutsche und englische Fachbegriffe anwenden
 - j) :: mit vor- und nachgelagerten Bereichen und externen Partnern kommunizieren, Übergabeprozesse abstimmen, Reklamationen beurteilen
 
-
+ 
 
 6

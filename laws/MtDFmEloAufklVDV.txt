@@ -10,36 +10,36 @@ Auf Grund des § 26 Absatz 1 Nummer 2 und Absatz 2 des Bundesbeamtengesetzes, de
 
 Inhaltsübersicht
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 § 1 - Vorbereitungsdienst
 
@@ -206,17 +206,17 @@ Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 
 (2) Die fachtheoretische Ausbildung besteht aus den folgenden Ausbildungsabschnitten:
 
-- 1. :: Lehrgang Grundlagen der Fernmelde- und Elektronischen Aufklärung“,
-- 2. :: Lehrgang Fachtechnische Grundlagen der Fernmelde- und Elektronischen Aufklärung I“,
-- 3. :: Lehrgang Fachtechnische Grundlagen der Fernmelde- und Elektronischen Aufklärung II“,
-- 4. :: Lehrgang Elektronische Kampfführung Grundlagen der Sprechfunkaufklärung“,
-- 5. :: Lehrgang Informationstechnische Systeme der Fernmelde- und Elektronischen Aufklärung“,
-- 6. :: Lehrgang Elektronische Kampfführung -- Grundlagen der elektronischen Aufklärung“,
-- 7. :: Lehrgang Elektronische Kampfführung -- Grundlagen der Tastfunkaufklärung“,
-- 8. :: Lehrgang Informationssysteme und Informationsgewinnung“,
-- 9. :: Lehrgang Grundlagen der Auswertung der Fernmeldeaufklärung“,
-- 10. :: Lehrgang Technische Aufklärung“ und
-- 11. :: Lehrgang Rechtsgrundlagen in der Praxis für den mittleren technischen Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes“.
+- 1. :: Lehrgang „Grundlagen der Fernmelde- und Elektronischen Aufklärung“,
+- 2. :: Lehrgang „Fachtechnische Grundlagen der Fernmelde- und Elektronischen Aufklärung I“,
+- 3. :: Lehrgang „Fachtechnische Grundlagen der Fernmelde- und Elektronischen Aufklärung II“,
+- 4. :: Lehrgang „Elektronische Kampfführung Grundlagen der Sprechfunkaufklärung“,
+- 5. :: Lehrgang „Informationstechnische Systeme der Fernmelde- und Elektronischen Aufklärung“,
+- 6. :: Lehrgang „Elektronische Kampfführung -- Grundlagen der elektronischen Aufklärung“,
+- 7. :: Lehrgang „Elektronische Kampfführung -- Grundlagen der Tastfunkaufklärung“,
+- 8. :: Lehrgang „Informationssysteme und Informationsgewinnung“,
+- 9. :: Lehrgang „Grundlagen der Auswertung der Fernmeldeaufklärung“,
+- 10. :: Lehrgang „Technische Aufklärung“ und
+- 11. :: Lehrgang „Rechtsgrundlagen in der Praxis für den mittleren technischen Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes“.
 
 (3) Die praktische Ausbildung besteht aus den folgenden Ausbildungsabschnitten:
 
@@ -251,8 +251,8 @@ Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 (1) Vor Beginn der Ausbildung erstellt die oder der Ausbildungsbeauftragte im Einvernehmen mit der jeweiligen Ausbildungsleitung für jede Anwärterin und jeden Anwärter einen individuellen Ausbildungsplan.
 (2) Im Ausbildungsplan sind die konkreten Zeiträume der einzelnen Ausbildungsabschnitte und die konkreten Ausbildungsstationen festzulegen. Folgende Abschnitte sind aufzuführen:
 
-- 1. :: der Zeitraum des Lehrgangs Fachtechnische Grundlagen der Fernmelde- und Elektronischen Aufklärung I“ (§ 19 Absatz 2 Nummer 2) beim Bundesnachrichtendienst,
-- 2. :: der Zeitraum des Lehrgangs Rechtsgrundlagen in der Praxis für den mittleren technischen Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes“ (§ 19 Absatz 2 Nummer 11) beim Bildungszentrum der Bundeswehr und
+- 1. :: der Zeitraum des Lehrgangs „Fachtechnische Grundlagen der Fernmelde- und Elektronischen Aufklärung I“ (§ 19 Absatz 2 Nummer 2) beim Bundesnachrichtendienst,
+- 2. :: der Zeitraum des Lehrgangs „Rechtsgrundlagen in der Praxis für den mittleren technischen Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes“ (§ 19 Absatz 2 Nummer 11) beim Bildungszentrum der Bundeswehr und
 - 3. :: die Durchführung der berufspraktischen Fremdsprachenausbildung (§ 19 Absatz 3 Nummer 1) beim Bundessprachenamt.
 
 (3) Die Anwärterin oder der Anwärter erhält ein Exemplar des Ausbildungsplans.
@@ -279,9 +279,9 @@ Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 (1) Die Inhalte und die Dauer der berufspraktischen Fremdsprachenausbildung nach § 19 Absatz 3 Nummer 1 werden auf der Grundlage des Ausbildungsrahmenplans geregelt.
 (2) Die Festlegung der Ausbildungsinhalte und die Durchführung der berufspraktischen Fremdsprachenausbildung obliegt dem Bundessprachenamt.
 
-§ 25 - Lehrgang Grundlagen der Fernmelde- und Elektronischen Aufklärung“
+§ 25 - Lehrgang „Grundlagen der Fernmelde- und Elektronischen Aufklärung“
 
-(1) Im Lehrgang Grundlagen der Fernmelde- und Elektronischen Aufklärung“ werden den Anwärterinnen und Anwärtern die Grundlagen der Organisation der Bundeswehr, der Fernmelde- und Elektronischen Aufklärung sowie des Fernmeldebetriebs vermittelt.
+(1) Im Lehrgang „Grundlagen der Fernmelde- und Elektronischen Aufklärung“ werden den Anwärterinnen und Anwärtern die Grundlagen der Organisation der Bundeswehr, der Fernmelde- und Elektronischen Aufklärung sowie des Fernmeldebetriebs vermittelt.
 (2) Die Anwärterinnen und Anwärter werden zur Anwendung der Grundlagen der Fernmelde- und Elektronischen Aufklärung befähigt. Sie sollen insbesondere in der Lage sein,
 
 - 1. :: die rechtlichen Rahmenbedingungen und Einschränkungen des militärischen Nachrichtenwesens und der Aufklärung zu verstehen und zu beachten,
@@ -291,9 +291,9 @@ Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 - 5. :: ausgewählte Grundlagen der militärischen Sicherheit, im eigenen Tätigkeitsbereich anzuwenden.
 
 
-§ 26 - Lehrgang Fachtechnische Grundlagen der Fernmelde- und Elektronischen Aufklärung I“
+§ 26 - Lehrgang „Fachtechnische Grundlagen der Fernmelde- und Elektronischen Aufklärung I“
 
-(1) Im Lehrgang Fachtechnische Grundlagen der Fernmelde- und Elektronischen Aufklärung I“ werden den Anwärterinnen und Anwärtern die fachtechnischen Grundlagen der Aufklärung, insbesondere der Nachrichtengewinnung und Nachrichtenbearbeitung bei dem Bundesnachrichtendienst, vermittelt.
+(1) Im Lehrgang „Fachtechnische Grundlagen der Fernmelde- und Elektronischen Aufklärung I“ werden den Anwärterinnen und Anwärtern die fachtechnischen Grundlagen der Aufklärung, insbesondere der Nachrichtengewinnung und Nachrichtenbearbeitung bei dem Bundesnachrichtendienst, vermittelt.
 (2) Inhaltliche Schwerpunkte des Lehrgangs sind Auftrag, Gliederung und Arbeitsweise des Bundesnachrichtendienstes im Allgemeinen und der Abteilung Technische Aufklärung im Besonderen. Insbesondere werden den Anwärterinnen und Anwärtern
 
 - 1. :: technische Grundlagen zum Themenbereich Kommunikation vermittelt,
@@ -302,9 +302,9 @@ Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 - 4. :: aktuelle länder- und themenbezogene Aufklärungsschwerpunkte vermittelt.
 
 
-§ 27 - Lehrgang Fachtechnische Grundlagen der Fernmelde- und Elektronischen Aufklärung II“
+§ 27 - Lehrgang „Fachtechnische Grundlagen der Fernmelde- und Elektronischen Aufklärung II“
 
-(1) Im Lehrgang Fachtechnische Grundlagen der Fernmelde- und Elektronischen Aufklärung II“ werden den Anwärterinnen und Anwärtern Grundlagen in den Bereichen RADAR sowie Einsatzgrundsätze und Besonderheiten des Fernmeldebetriebs einschließlich der praktischen Anwendung in der Fernmelde- und Elektronischen Aufklärung der Bundeswehr vermittelt. Die fachspezifischen technischen Kenntnisse nach § 26 werden vertieft. Zudem werden Grundkenntnisse in den Bereichen Sprechfunkaufklärung, Tastfunkaufklärung und elektronische Aufklärung vermittelt.
+(1) Im Lehrgang „Fachtechnische Grundlagen der Fernmelde- und Elektronischen Aufklärung II“ werden den Anwärterinnen und Anwärtern Grundlagen in den Bereichen RADAR sowie Einsatzgrundsätze und Besonderheiten des Fernmeldebetriebs einschließlich der praktischen Anwendung in der Fernmelde- und Elektronischen Aufklärung der Bundeswehr vermittelt. Die fachspezifischen technischen Kenntnisse nach § 26 werden vertieft. Zudem werden Grundkenntnisse in den Bereichen Sprechfunkaufklärung, Tastfunkaufklärung und elektronische Aufklärung vermittelt.
 (2) Die Anwärterinnen und Anwärter sollen in der Lage sein,
 
 - 1. :: die Besonderheiten bewaffneter Kräfte sowie der Waffen- und Führungssysteme von Streitkräften bestimmter Staaten unter Berücksichtigung der Einsatzgrundsätze zu verstehen und zu erläutern,
@@ -313,23 +313,23 @@ Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 - 4. :: die grundlegenden physikalischen Gesetzmäßigkeiten der Ausbreitung elektromagnetischer Wellen und die Grundlagen der Antennentechnik zu verstehen und zu erläutern.
 
 
-§ 28 - Lehrgang Elektronische Kampfführung – Grundlagen der Sprechfunkaufklärung“
+§ 28 - Lehrgang „Elektronische Kampfführung – Grundlagen der Sprechfunkaufklärung“
 
-(1) Im Lehrgang Elektronische Kampfführung -- Grundlagen der Sprechfunkaufklärung“ werden den Anwärterinnen und Anwärtern aufbauend auf den bisher erworbenen Kenntnissen der Fernmelde- und Elektronischen Aufklärung weiterführende Fähigkeiten und Fertigkeiten im Bereich der betrieblichen und technischen Grundlagen der Sprechfunkaufklärung vermittelt.
+(1) Im Lehrgang „Elektronische Kampfführung -- Grundlagen der Sprechfunkaufklärung“ werden den Anwärterinnen und Anwärtern aufbauend auf den bisher erworbenen Kenntnissen der Fernmelde- und Elektronischen Aufklärung weiterführende Fähigkeiten und Fertigkeiten im Bereich der betrieblichen und technischen Grundlagen der Sprechfunkaufklärung vermittelt.
 (2) Die Anwärterinnen und Anwärter sollen in der Lage sein,
 
 - 1. :: Funkverkehre im symmetrischen und asymmetrischen Umfeld, in Deutsch und nach Einweisung in ausgewählten Fremdsprachen zu erfassen, auszuwerten und unter Nutzung der festgelegten Formate zu melden, sowie
 - 2. :: den Aufbau, die Funktionsweise und die Aufklärung aktueller Übertragungssysteme zu verstehen und zu beschreiben.
 
 
-§ 29 - Lehrgang Informationstechnische Systeme der Fernmelde- und Elektronischen Aufklärung“
+§ 29 - Lehrgang „Informationstechnische Systeme der Fernmelde- und Elektronischen Aufklärung“
 
-(1) Im Lehrgang Informationstechnische Systeme der Fernmelde- und Elektronischen Aufklärung“ werden den Anwärterinnen und Anwärtern Fähigkeiten und Fertigkeiten für die Nutzung der informationstechnischen Systeme der Fernmelde- und Elektronischen Aufklärung vermittelt.
+(1) Im Lehrgang „Informationstechnische Systeme der Fernmelde- und Elektronischen Aufklärung“ werden den Anwärterinnen und Anwärtern Fähigkeiten und Fertigkeiten für die Nutzung der informationstechnischen Systeme der Fernmelde- und Elektronischen Aufklärung vermittelt.
 (2) Die Anwärterinnen und Anwärter sollen in der Lage sein, das Wissen zu Aufbau, Funktion und Anwendungsbereiche der informationstechnischen Systeme zu kennen, zu beschreiben und auftragsbezogen anzuwenden.
 
-§ 30 - Lehrgang Elektronische Kampfführung – Grundlagen der elektronischen Aufklärung“
+§ 30 - Lehrgang „Elektronische Kampfführung – Grundlagen der elektronischen Aufklärung“
 
-(1) Im Lehrgang Elektronische Kampfführung -- Grundlagen der elektronischen Aufklärung“ werden den Anwärterinnen und Anwärtern aufbauend auf den bisher erworbenen Kenntnissen der Fernmelde- und Elektronischen Aufklärung weiterführende Fähigkeiten und Fertigkeiten im Bereich der betrieblichen und technischen Grundlagen der elektronischen Aufklärung vermittelt. Die Anwärterinnen und Anwärter wenden die weiterführenden Fähigkeiten und Fertigkeiten auftragsbezogen an.
+(1) Im Lehrgang „Elektronische Kampfführung -- Grundlagen der elektronischen Aufklärung“ werden den Anwärterinnen und Anwärtern aufbauend auf den bisher erworbenen Kenntnissen der Fernmelde- und Elektronischen Aufklärung weiterführende Fähigkeiten und Fertigkeiten im Bereich der betrieblichen und technischen Grundlagen der elektronischen Aufklärung vermittelt. Die Anwärterinnen und Anwärter wenden die weiterführenden Fähigkeiten und Fertigkeiten auftragsbezogen an.
 (2) Die Anwärterinnen und Anwärter sollen in der Lage sein,
 
 - 1. :: Einsatzmöglichkeiten der Systeme und Komponenten der elektronischen Kampfführung sowie unterschiedlicher Radarsysteme anhand der jeweiligen Leistungsmerkmale anzuwenden,
@@ -338,12 +338,12 @@ Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 - 4. :: typische Verfahren zur analogen und digitalen Signalverarbeitung anzuwenden.
 
 
-§ 31 - Lehrgang Elektronische Kampfführung – Grundlagen der Tastfunkaufklärung“
+§ 31 - Lehrgang „Elektronische Kampfführung – Grundlagen der Tastfunkaufklärung“
 
 (1) Den Anwärterinnen und Anwärtern werden, aufbauend auf den bisher erworbenen fachlichen Kenntnissen der Fernmelde- und Elektronischen Aufklärung, die betrieblichen und technischen Grundlagen der Tastfunkaufklärung vermittelt.
 (2) Die Anwärterinnen und Anwärter sollen in der Lage sein, die rechnergestützte Aufnahme von gemischten Buchstaben, Ziffern und Sonderzeichen in Form von Tastfunksignalen in 5er-Gruppen durchzuführen. Das Mindestziel sind acht Wörter pro Minute.
 
-§ 32 - Lehrgang Informationssysteme und Informationsgewinnung“
+§ 32 - Lehrgang „Informationssysteme und Informationsgewinnung“
 
 (1) Den Anwärterinnen und Anwärtern werden die grundlegenden Fähigkeiten und Fertigkeiten der Informationsgewinnung und Recherche, insbesondere in offen zugänglichen Informationsquellen, unter Berücksichtigung der gültigen Rechts- und Weisungslage, unter Nutzung der zur Verfügung stehenden Informationssysteme, auftragsbezogen vermittelt.
 (2) Die Anwärterinnen und Anwärter sollen in der Lage sein,
@@ -354,7 +354,7 @@ Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 - 4. :: die Verfahren und Methoden der IT-Recherche zu kennen, anzuwenden und die damit gewonnenen Erkenntnisse zu analysieren und bewerten zu können.
 
 
-§ 33 - Lehrgang Grundlagen der Auswertung der Fernmeldeaufklärung“
+§ 33 - Lehrgang „Grundlagen der Auswertung der Fernmeldeaufklärung“
 
 (1) Den Anwärterinnen und Anwärtern werden, aufbauend auf den bisher erworbenen fachlichen Kenntnissen und Fertigkeiten, grundlegende Auswertefähigkeiten unter Berücksichtigung der Arbeits- und Betriebsabläufe in der Auswertung der Fernmeldeaufklärung vermittelt.
 (2) Die Anwärterinnen und Anwärter sollen in der Lage sein,
@@ -364,12 +364,12 @@ Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 - 3. :: die vermittelten Inhalte sinnvoll miteinander zu verknüpfen und anzuwenden.
 
 
-§ 34 - Lehrgang Technische Aufklärung“
+§ 34 - Lehrgang „Technische Aufklärung“
 
 (1) Die Anwärterinnen und Anwärter vertiefen die in der Ausbildung vermittelten Fähigkeiten und Fertigkeiten und erwerben weiterführende Kenntnisse in der technischen Aufklärung.
 (2) Die Anwärterinnen und Anwärter sollen in der Lage sein, alle in den Lehrgängen nach den §§ 25 bis 33 vermittelten sowie in diesem Lehrgang vertieften Inhalte zu beschreiben und sicher anzuwenden.
 
-§ 35 - Lehrgang Rechtsgrundlagen in der Praxis für den mittleren technischen Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes“
+§ 35 - Lehrgang „Rechtsgrundlagen in der Praxis für den mittleren technischen Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes“
 
 Die Anwärterinnen und Anwärter werden vertraut gemacht mit
 
@@ -419,20 +419,20 @@ Die Anwärterinnen und Anwärter vertiefen die in der bisherigen fachtheoretisch
 
 Während der fachtheoretischen Ausbildung haben die Anwärterinnen und Anwärter folgende Leistungsnachweise zu erbringen:
 
-- 1. :: in den Lehrgängen Grundlagen der Fernmelde- und Elektronischen Aufklärung“, Fachtechnische Grundlagen der Fernmelde- und Elektronischen Aufklärung I und II“ sowie Technische Aufklärung“ jeweils
+- 1. :: in den Lehrgängen „Grundlagen der Fernmelde- und Elektronischen Aufklärung“, „Fachtechnische Grundlagen der Fernmelde- und Elektronischen Aufklärung I und II“ sowie „Technische Aufklärung“ jeweils
   - a) :: eine Klausur und
   - b) :: ein weiterer schriftlicher oder mündlicher Leistungstest,
-- 2. :: im Lehrgang Elektronische Kampfführung -- Grundlagen der Sprechfunkaufklärung“
+- 2. :: im Lehrgang „Elektronische Kampfführung -- Grundlagen der Sprechfunkaufklärung“
   - a) :: drei schriftliche Leistungstests sowie
   - b) :: zwei Leistungstests, die mündlich oder praktisch erbracht werden können,
-- 3. :: im Lehrgang Elektronische Kampfführung -- Grundlagen der elektronischen Aufklärung“
+- 3. :: im Lehrgang „Elektronische Kampfführung -- Grundlagen der elektronischen Aufklärung“
   - a) :: drei schriftliche Leistungstests und
   - b) :: zwei praktische Leistungstests,
-- 4. :: im Lehrgang Elektronische Kampfführung -- Grundlagen der Tastfunkaufklärung“
+- 4. :: im Lehrgang „Elektronische Kampfführung -- Grundlagen der Tastfunkaufklärung“
   - a) :: einen schriftlichen Leistungstest und
   - b) :: zwei praktische Leistungstests an einem computergestützten Arbeitsplatz für die Aufnahme von Tastfunksignalen; die Leistungstests können in der jeweils vorgegebenen Zeit zweimal durchgeführt werden, die bessere Leistung wird gewertet,
-- 5. :: im Lehrgang Grundlagen der Auswertung der Fernmeldeaufklärung“ fünf schriftliche oder praktische Leistungstests und
-- 6. :: im Lehrgang Rechtsgrundlagen in der Praxis für den mittleren technischen Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes“ zwei Klausuren.
+- 5. :: im Lehrgang „Grundlagen der Auswertung der Fernmeldeaufklärung“ fünf schriftliche oder praktische Leistungstests und
+- 6. :: im Lehrgang „Rechtsgrundlagen in der Praxis für den mittleren technischen Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes“ zwei Klausuren.
 
 
 § 40 - Durchführung der Klausuren und Leistungstests
@@ -444,7 +444,7 @@ Während der fachtheoretischen Ausbildung haben die Anwärterinnen und Anwärter
 § 41 - Nachholung von Klausuren und Leistungstests
 
 (1) Können Anwärterinnen und Anwärter an einer Klausur oder einem Leistungstest nicht teilnehmen und ihn nicht innerhalb des Ausbildungsabschnitts nachholen, erhalten sie Gelegenheit, die Klausur oder den Leistungsnachweis zu einem späteren Zeitpunkt der Ausbildung zu erbringen.
-(2) Wird der Leistungsnachweis ohne ausreichende Entschuldigung nicht bis zum ersten Tag der schriftlichen Prüfung der Laufbahnprüfung erbracht, gilt er als mit ungenügend“ (0 Rangpunkte) bewertet.
+(2) Wird der Leistungsnachweis ohne ausreichende Entschuldigung nicht bis zum ersten Tag der schriftlichen Prüfung der Laufbahnprüfung erbracht, gilt er als mit „ungenügend“ (0 Rangpunkte) bewertet.
 
 § 42 - Zeugnis je Lehrgang
 
@@ -526,7 +526,7 @@ Die Laufbahnprüfung besteht aus
 
 (1) Mitglieder einer Prüfungskommission für die Bewertung der schriftlichen Prüfung sind
 
-- 1. :: im Prüfungsgebiet Rechtsgrundlagen in der Praxis für den mittleren technischen Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes“
+- 1. :: im Prüfungsgebiet „Rechtsgrundlagen in der Praxis für den mittleren technischen Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes“
   - a) :: eine Beamtin oder ein Beamter des gehobenen nichttechnischen Verwaltungsdienstes als Vorsitzende oder Vorsitzender und
   - b) :: mindestens eine Beamtin oder ein Beamter des gehobenen nichttechnischen Verwaltungsdienstes als Beisitzende oder Beisitzender,
 - 2. :: in den übrigen Prüfungsgebieten
@@ -571,12 +571,12 @@ Wird mit dem Vorsitz der mündlichen Prüfung eine Beamtin oder ein Beamter des 
 (1) In der schriftlichen Prüfung sollen die Anwärterinnen und Anwärter zeigen, dass sie die Aufgaben im Bereich des mittleren technischen Dienstes der Fernmelde- und Elektronischen Aufklärung des Bundes rasch und sicher erfassen, in kurzer Frist mit den zugelassenen Hilfsmitteln lösen und das Ergebnis knapp und übersichtlich darstellen können.
 (2) Die schriftliche Prüfung besteht aus vier Klausuren:
 
-- 1. :: einer Klausur mit Aufgaben aus dem Lehrinhalt des Lehrgangs Rechtsgrundlagen in der Praxis für den mittleren technischen Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes“ (§ 35),
+- 1. :: einer Klausur mit Aufgaben aus dem Lehrinhalt des Lehrgangs „Rechtsgrundlagen in der Praxis für den mittleren technischen Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes“ (§ 35),
 - 2. :: drei Klausuren mit Aufgaben aus den Lehrinhalten der Lehrgänge nach den §§ 25 bis 30 und den §§ 32 bis 34.
 
 Bei den Klausuren nach Satz 1 Nummer 2 ist die Zusammenfassung von Lehrinhalten aus mehreren Lehrgängen in einer Klausur zulässig.
 
-(3) Die Aufgabe für die Klausur im Prüfungsgebiet aus dem Lehrinhalt des Lehrgangs Rechtsgrundlagen in der Praxis für den mittleren technischen Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes“ bestimmt das Prüfungsamt auf Vorschlag des Bildungszentrums der Bundeswehr. Die Aufgaben für die übrigen drei Klausuren bestimmt das Prüfungsamt auf Vorschlag der Schule Strategische Aufklärung der Bundeswehr und der Schule des Bundesnachrichtendienstes.
+(3) Die Aufgabe für die Klausur im Prüfungsgebiet aus dem Lehrinhalt des Lehrgangs „Rechtsgrundlagen in der Praxis für den mittleren technischen Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes“ bestimmt das Prüfungsamt auf Vorschlag des Bildungszentrums der Bundeswehr. Die Aufgaben für die übrigen drei Klausuren bestimmt das Prüfungsamt auf Vorschlag der Schule Strategische Aufklärung der Bundeswehr und der Schule des Bundesnachrichtendienstes.
 (4) Die Bearbeitungszeit für jede Klausur beträgt drei Zeitstunden. Pro Tag darf nur eine Klausur geschrieben werden. Die Klausuren werden an aufeinander folgenden Arbeitstagen geschrieben. Nach der zweiten Klausur ist ein freier Tag vorzusehen.
 (5) Die Vorschläge und die Aufgaben unterliegen der Verschwiegenheitspflicht und sind bis zum Beginn der jeweiligen Prüfung unter Verschluss zu halten.
 
