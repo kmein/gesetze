@@ -13,7 +13,7 @@ pkgs.mkShell {
 
       ${recht}/bin/recht list \
       | ${pkgs.ansifilter}/bin/ansifilter \
-      | ${pkgs.glibc_multi}/bin/iconv -t utf8//IGNORE \
+      | ${pkgs.glibc.bin}/bin/iconv -t utf8//IGNORE \
       | while read -r law; do
         law_title="''${law##*] }"
         law_abbreviation="$(echo $law | ${pkgs.gnugrep}/bin/grep -o '^\[.*]' | ${pkgs.gnused}/bin/sed 's/[][]//g')"
@@ -21,7 +21,7 @@ pkgs.mkShell {
 
         ${recht}/bin/recht get "$law_abbreviation" \
         | ${pkgs.ansifilter}/bin/ansifilter \
-        | ${pkgs.glibc_multi}/bin/iconv -t utf8//IGNORE > "$law_path"
+        | ${pkgs.glibc.bin}/bin/iconv -t utf8//IGNORE > "$law_path"
 
         echo "- [$law_abbreviation](''${law_path// /%20}) $law_title" | tee -a index.md
       done
