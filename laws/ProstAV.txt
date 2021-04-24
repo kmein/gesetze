@@ -65,13 +65,13 @@ Anlage - (zu § 2)Anmeldebescheinigung und Aliasbescheinigung
 
 - 1. :: Ausgestaltung der Anmeldebescheinigung und der Aliasbescheinigung:\\
   \\
-  | Trägermaterial: | speziell ausgestattetes Sicherheitspapier als Substrat geschützt für die Bundesdruckerei mit dem Motiv Blütenkelch“. |
+  | Trägermaterial: | speziell ausgestattetes Sicherheitspapier als Substrat geschützt für die Bundesdruckerei mit dem Motiv „Blütenkelch“. |
   | Format:         | Breite 210 mm, Höhe 105 mm, zweimal faltbar auf DIN A 7, zweiseitig bedruckt.                                         |
 
   \\
   \\
   In das Trägermaterial eingearbeitet sind die folgenden fälschungserschwerenden Sicherheitsmerkmale:
-  - -- :: Wasserzeichen (Motiv: Blütenkelch“ -- geschützt für die Bundesdruckerei),
+  - -- :: Wasserzeichen (Motiv: „Blütenkelch“ -- geschützt für die Bundesdruckerei),
   - -- :: Melierfasern, sichtbare und unsichtbare.
 - 2. :: Sicherheitsmerkmale:
   Der Druck auf dem Trägermaterial weist folgende fälschungserschwerende Sicherheitsmerkmale auf:
@@ -81,13 +81,13 @@ Anlage - (zu § 2)Anmeldebescheinigung und Aliasbescheinigung
   - -- :: optisch-variables Element in Form eines Emblems mit einer optisch variablen Sicherheitsfarbe.
 - 3. :: Die Seriennummer besteht aus einem Serienbuchstaben und sieben Ziffern.
 - 4. :: Formale Anforderungen an die Eintragungen der variablen Daten durch die zuständigen Behörden:
-  Die zuständigen Behörden tragen die variablen Daten bis auf die Unterschrift der ausstellenden Person ein und verwenden zur Personalisierung des Dokumentes den Schriftfont UnicodeDoc“ im Fettdruck. Hierfür sind Tintenstrahldrucker einzusetzen. Zur Erschwerung von Fälschungen ist Folgendes sicherzustellen:
+  Die zuständigen Behörden tragen die variablen Daten bis auf die Unterschrift der ausstellenden Person ein und verwenden zur Personalisierung des Dokumentes den Schriftfont „UnicodeDoc“ im Fettdruck. Hierfür sind Tintenstrahldrucker einzusetzen. Zur Erschwerung von Fälschungen ist Folgendes sicherzustellen:
   - a) :: Die Tinte hat die nach der ISO 1831:1980-10 geforderten Eigenschaften hinsichtlich maschineller Lesbarkeit im B900-Band zu erfüllen.
-  - b) :: Als Zeichensatz ist der in der jeweils gültigen Fassung der Technischen Richtlinie des Bundesamtes für Sicherheit in der Informationstechnik, BSI: Technische Richtlinie TR-03123, XML-Datenaustauschformat für hoheitliche Dokumente (TR XhD), veröffentlichte Zeichensatz String.LatinXhD“ zu verwenden.
+  - b) :: Als Zeichensatz ist der in der jeweils gültigen Fassung der Technischen Richtlinie des Bundesamtes für Sicherheit in der Informationstechnik, BSI: Technische Richtlinie TR-03123, XML-Datenaustauschformat für hoheitliche Dokumente (TR XhD), veröffentlichte Zeichensatz „String.LatinXhD“ zu verwenden.
   - c) :: Für die Ausstellung der Anmeldebescheinigung und der Aliasbescheinigung ist das gleiche Blankodokument zu verwenden.
-  - d) :: Soll das Dokument als Anmeldebescheinigung ausgestellt werden, so ist das Datenfeld Aliasname“ durch den Eintrag ---“ zu kennzeichnen.
-  - e) :: Soll das Dokument als Aliasbescheinigung ausgestellt werden, so sind die Datenfelder Vorname“, Name“ sowie Geburtsort“ durch den Eintrag ---“ zu kennzeichnen.
-  - f) :: Nicht benötigter Platz im Datenfeld Länder/Kommunen“ ist mit einer fortlaufenden Linie zu personalisieren.
+  - d) :: Soll das Dokument als Anmeldebescheinigung ausgestellt werden, so ist das Datenfeld „Aliasname“ durch den Eintrag „---“ zu kennzeichnen.
+  - e) :: Soll das Dokument als Aliasbescheinigung ausgestellt werden, so sind die Datenfelder „Vorname“, „Name“ sowie „Geburtsort“ durch den Eintrag „---“ zu kennzeichnen.
+  - f) :: Nicht benötigter Platz im Datenfeld „Länder/Kommunen“ ist mit einer fortlaufenden Linie zu personalisieren.
   - g) :: Das Foto sollte (insbesondere bei der Aufnahme mit einer Digitalkamera) mit einer Druckauflösung von mindestens 600 dpi vorliegen.
 - 5. :: Datenfelder, Feldlängen und zulässige Zeichen:\\
   \\

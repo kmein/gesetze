@@ -128,7 +128,7 @@ Zu vermittelnde Fertigkeiten und Kenntnisse
 3
 1.
 Ausbildungspraxis (§ 3 Nr. 1)
-
+ 
 1.1
 Bedeutung, Stellung und gesetzliche Grundlagen der steuerberatenden und wirtschaftsprüfenden Berufe (§ 3 Nr. 1.1)
 a)
@@ -173,7 +173,7 @@ c)
 zur sparsamen Material- und Energieverwendung im beruflichen Einwirkungsbereich beitragen
 2.
 Praxis- und Arbeitsorganisation (§ 3 Nr. 2)
-
+ 
 2.1
 Inhalt und Organisation der Arbeitsabläufe (§ 3 Nr. 2.1)
 a)
@@ -218,7 +218,7 @@ f)
 betriebliche Regelungen zur Datensicherheit anwenden
 4.
 Rechnungswesen (§ 3 Nr. 4)
-
+ 
 4.1
 Buchführungs- und Bilanzierungs- Vorschriften (§ 3 Nr. 4.1)
 a)
@@ -261,7 +261,7 @@ b)
 Bilanz sowie Gewinn- und Verlustrechnung aus der Buchführung entwickeln
 5.
 Betriebswirtschaftliche Facharbeit (§ 3 Nr. 5)
-
+ 
 5.1
 Auswerten der Rechnungslegung (§ 3 Nr. 5.1)
 a)
@@ -282,7 +282,7 @@ b)
 Eigen- und Fremdfinanzierung; Außen- und Innenfinanzierung an Beispielen erläutern
 6.
 Steuerliche Facharbeit (§ 3 Nr. 6)
-
+ 
 6.1
 Abgabenordnung (§ 3 Nr. 6.1)
 a)

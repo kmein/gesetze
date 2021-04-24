@@ -9,9 +9,9 @@ Ausfertigungsdatum: 16.12.2016
 (1) Diese Verordnung gilt für Kaseine und Kaseinate, die für die menschliche Ernährung bestimmt sind, und für Mischungen daraus.
 (2) Für die Anwendung dieser Verordnung gelten folgende Begriffsbestimmungen:
 
-- 1. :: Säure-Nährkasein“: ein Milcherzeugnis, das durch Trennen, Waschen und Trocknen des mit Säure ausgefällten Koagulats von Magermilch oder anderen Milcherzeugnissen gewonnen wird;
-- 2. :: Labnährkasein“: ein Milcherzeugnis, das durch Trennen, Waschen und Trocknen des Koagulats von Magermilch oder anderen Milcherzeugnissen gewonnen wird; das Koagulat entsteht durch die Reaktion mit Lab oder anderen milchkoagulierenden Enzymen;
-- 3. :: Nährkaseinat“: ein Milcherzeugnis, das durch die Behandlung von Nährkasein oder von Koagulat von Nährkasein mit neutralisierenden Stoffen und anschließender Trocknung gewonnen wird.
+- 1. :: „Säure-Nährkasein“: ein Milcherzeugnis, das durch Trennen, Waschen und Trocknen des mit Säure ausgefällten Koagulats von Magermilch oder anderen Milcherzeugnissen gewonnen wird;
+- 2. :: „Labnährkasein“: ein Milcherzeugnis, das durch Trennen, Waschen und Trocknen des Koagulats von Magermilch oder anderen Milcherzeugnissen gewonnen wird; das Koagulat entsteht durch die Reaktion mit Lab oder anderen milchkoagulierenden Enzymen;
+- 3. :: „Nährkaseinat“: ein Milcherzeugnis, das durch die Behandlung von Nährkasein oder von Koagulat von Nährkasein mit neutralisierenden Stoffen und anschließender Trocknung gewonnen wird.
 
 
 § 2 - Anforderungen
@@ -26,7 +26,7 @@ Ausfertigungsdatum: 16.12.2016
 - 1. :: bei Säure-Nährkaseinen, Labnährkaseinen und Nährkaseinaten die in § 1 Absatz 2 für sie jeweils festgelegte Bezeichnung;
 - 2. :: bei Nährkaseinaten die Angabe der Art oder der Arten der aus den verwendeten Lebensmittelzusatzstoffen stammenden Kationen Natrium, Kalium, Calcium, Ammonium und Magnesium;
 - 3. :: wenn Kaseine und Kaseinate als Mischungen in Verkehr gebracht werden,
-  - a) :: die Bezeichnung Mischung aus“, gefolgt von den Bezeichnungen der Kaseine und Kaseinate, aus denen die Mischung besteht, in absteigender Reihenfolge ihres Gewichtsanteils, und
+  - a) :: die Bezeichnung „Mischung aus“, gefolgt von den Bezeichnungen der Kaseine und Kaseinate, aus denen die Mischung besteht, in absteigender Reihenfolge ihres Gewichtsanteils, und
   - b) :: wenn die Mischung Nährkaseinate enthält, bezogen auf die Nährkaseinate
     - aa) :: die Angabe nach Nummer 2 sowie
     - bb) :: der Proteingehalt;

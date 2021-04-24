@@ -234,15 +234,15 @@ Kenntnisse der Glasschmelze und der wichtigsten Eigenschaften des Glases(§ 3 Nr
 a)
 Eigenschaften unterschiedlicher Glassorten, insbesondere von Kristall-, Farb- und Antikglas, bei Herstellung, Verarbeitung und Gebrauch gegenüberstellen
 2
-
-
+ 
+ 
 b)
 Zusammensetzung des Glasgemenges einschließlich Recyclingglas für die unterschiedlichen Glasarten begründen
 c)
 Vorbereitung des Hafens für die Schmelze durch Tempern und Glasieren beschreiben
 4
-
-
+ 
+ 
 d)
 Schmelzführung, Läuterung und manuelle Heißverarbeitung des Glases beschreiben
 e)
@@ -252,8 +252,8 @@ Anfertigen und Umsetzen von Entwurfsskizzen (§ 3 Nr. 7)
 a)
 Glasprodukte skizzieren
 6
-
-
+ 
+ 
 b)
 Entwürfe in Werkzeichnungen, insbesondere in Schnittzeichnungen, umsetzen
 c)
@@ -263,88 +263,88 @@ Anfangen einer Glasmenge, Anfertigen eines Kölbels (§ 3 Nr. 8)
 a)
 Oberfläche der Glasschmelze abfehmen
 6
-
-
+ 
+ 
 b)
 Glasmacherpfeife und sonstige Werkzeuge vorbereiten
 c)
 Glasmenge, insbesondere für Stiel- und Bodenglas sowie Kölbel, anfangen
 6
-
-
+ 
+ 
 d)
 Glasportionen durch Wälzen vorformen
 6
-
-
+ 
+ 
 e)
 Kölbel gleichmäßig aufblasen und vorstreichen
 6
-
-
+ 
+ 
 9
 Vorformen des Glaspostens sowie Formen durch Gießen (§ 3 Nr. 9)
 a)
 unterschiedliche Möglichkeiten des Vorformens durch Gebrauch von Löffel, Wulgerholz oder Wälzplatte gegenüberstellen
 6
-
-
+ 
+ 
 b)
 Glasposten vorstreichen
-
+ 
 4
-
+ 
 c)
 Glasposten mit Hilfe des Löffels bearbeiten
-
+ 
 8
-
+ 
 d)
 Glasmasse durch Gießen formen
-
+ 
 4
-
+ 
 10
 Glasmenge über Kölbel oder Nabel verarbeiten (§ 3 Nr. 10)
 a)
 erforderliche Glasmenge über Kölbel, Nabel oder Kugel anfangen
-
+ 
 5
-
+ 
 b)
 Glasposten wulgern, wälzen, formen, auf- und einblasen
-
+ 
 17
-
+ 
 c)
 Regeln für die Zusammensetzung mehrerer Glassorten nennen
-
+ 
 5
-
+ 
 d)
 Glasposten an einen vorgeblasenen Glasrohling ansetzen
-
+ 
 4
-
+ 
 11
 Fertigformen vorgeformter Glasposten (§ 3 Nr. 11)
 a)
 gestellten, vorgeformten Glasposten in die Fertigform einführen und in der geforderten Wandstärke unter Drehen ein- oder festblasen
-
-
+ 
+ 
 8
 b)
 Beschaffenheit und verschiedene Arten von Optikformen beschreiben
-
-
+ 
+ 
 6
 c)
 Glasposten in die Optikform eindrücken oder einblasen
 d)
 Eintraggeräte beschreiben
 4
-
-
+ 
+ 
 e)
 Entspannungsprozeß und Kühlanlagen erläutern
 f)
@@ -354,31 +354,31 @@ Freiformen von Glasposten (§ 3 Nr. 12)
 a)
 Gestaltungsmöglichkeiten durch Freiformen von Glasposten an Beispielen beschreiben
 4
-
-
+ 
+ 
 b)
 Glasposten ausschwenken, ausziehen, ausschneiden und schleudern
-
-
+ 
+ 
 4
 c)
 Heißveredelungen durch Spinnen, Reißen und Nuppen auflegen, anwenden
-
-
+ 
+ 
 4
 13
 Verformen von Glasposten nach Wiedererwärmen (§ 3 Nr. 13)
 a)
 Beispiele für die Verformung wiedererwärmter Glasposten nennen
-
-
+ 
+ 
 2
 b)
 Glasposten wiedererwärmen
 c)
 Glasposten durch Ausschwenken, Ausziehen, Ausschneiden, Auftreiben oder Andrücken verformen
-
-
+ 
+ 
 4
 d)
 fertiggeformte Glasgegenstände von der Pfeife oder dem Hefteisen abschlagen
@@ -386,8 +386,8 @@ fertiggeformte Glasgegenstände von der Pfeife oder dem Hefteisen abschlagen
 Wiedererwärmen und Formen geblasener Glasgegenstände (§ 3 Nr. 14)
 a)
 geblasenen Glasgegenstand an ein Nabeleisen anheften oder in die Zange nehmen
-
-
+ 
+ 
 4
 b)
 Glasgegenstand im Schmelzofen oder in der Auftreibtrommel wiedererwärmen
@@ -397,25 +397,25 @@ wiedererwärmten Glasgegenstand ausschneiden und auftreiben
 Überfangen von Glasposten (§ 3 Nr. 15)
 a)
 Glasposten mit Farbglas aus dem Hafen überfangen
-
-
+ 
+ 
 2
 b)
 Glasposten durch Farbzapfen überfangen
-
-
+ 
+ 
 2
 c)
 Glasposten durch Überfangmäntel oder Trichter überfangen
-
-
+ 
+ 
 2
 16
 Formen und Ansetzen von Glasrohlingen (§ 3 Nr. 16)
 a)
 Glasmasse für Stiel- und Bodenglas aufsetzen und abschneiden
-
-
+ 
+ 
 10
 b)
 Stielglas mit verschiedenen Scheren zum Stiel formen und ziehen oder pressen
@@ -426,19 +426,19 @@ Qualitätssicherung (§ 3 Nr. 17)
 a)
 Qualitätsmerkmale sowie typische Material- und Verarbeitungsfehler einschließlich deren Ursachen nennen
 2
-
-
+ 
+ 
 b)
 Produkte nach Qualitätsmerkmalen prüfen und sortieren
-
+ 
 5
-
+ 
 c)
 Ursachen von Glas- und Arbeitsfehlern beseitigen oder deren Beseitigung veranlassen
 d)
 Zusammenhänge zwischen Fehlermöglichkeiten bei der Glasherstellung, Weiterverarbeitung und Veredelung aufzeigen
-
-
+ 
+ 
 4
 
 Anhang EV - Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III  (BGBl. II 1990, 889, 1135)

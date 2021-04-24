@@ -851,7 +851,7 @@ Anhang 2 - Anforderungen an den Standort, geologische Barriere, Langzeitsicherhe
   Für die Führung der Einzelnachweise sind die Hinweise nach Nummer 2.1 zu beachten.
 - 2.1 :: Hinweise zur Durchführung des Langzeitsicherheitsnachweises
 - 2.1.1 :: Umfang und Anforderungen
-  Bei der Beseitigung von gefährlichen Abfällen in Deponien der Klasse IV ist der Langzeitsicherheitsnachweis für das Gesamtsystem Abfall/Untertagebauwerk/Gebirgskörper“ unter Berücksichtigung planmäßiger und außerplanmäßiger (hypothetischer) Ereignisabläufe zu führen, wobei den standortspezifischen Gegebenheiten Rechnung zu tragen ist.
+  Bei der Beseitigung von gefährlichen Abfällen in Deponien der Klasse IV ist der Langzeitsicherheitsnachweis für das Gesamtsystem „Abfall/Untertagebauwerk/Gebirgskörper“ unter Berücksichtigung planmäßiger und außerplanmäßiger (hypothetischer) Ereignisabläufe zu führen, wobei den standortspezifischen Gegebenheiten Rechnung zu tragen ist.
   Der Langzeitsicherheitsnachweis als übergreifender und zusammenfassender Einzelnachweis im Rahmen der standortbezogenen Sicherheitsbeurteilung basiert im Wesentlichen auf den Ergebnissen der beiden Einzelnachweise,
   - 1. :: dem geotechnischen Standsicherheitsnachweis und
   - 2. :: dem Sicherheitsnachweis für die Ablagerungs- und Stilllegungsphase.
@@ -925,7 +925,7 @@ Anhang 2 - Anforderungen an den Standort, geologische Barriere, Langzeitsicherhe
     - a) :: betriebsbegleitende geotechnische Messungen und
     - b) :: gebirgsmechanische Grundsätze für die Verwahrung und für Abschlussbauwerke.
 - 2.1.5 :: Nachweis der Langzeitsicherheit
-  Aufbauend auf den vorlaufenden Untersuchungsergebnissen sind in dem übergreifenden und zusammenfassenden Langzeitsicherheitsnachweis für das Gesamtsystem Abfall/Untertagebauwerk/Gebirgskörper“ auf der Grundlage des Mehrbarrierensystems folgende Einzelsysteme zu bewerten:
+  Aufbauend auf den vorlaufenden Untersuchungsergebnissen sind in dem übergreifenden und zusammenfassenden Langzeitsicherheitsnachweis für das Gesamtsystem „Abfall/Untertagebauwerk/Gebirgskörper“ auf der Grundlage des Mehrbarrierensystems folgende Einzelsysteme zu bewerten:
   - 1. :: Bewertung der natürlichen Barrieren -- Verhalten des Wirtsgesteins, des Nebengesteins und des Deckgebirges;
   - 2. :: Bewertung von technischen Eingriffen:
     - a) :: Schächte,
@@ -1354,10 +1354,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 - 3.3.2.1 :: Allgemeines:
   Der Gärtest wird auf Grundlage der DIN 38414-8, Ausgabe Juni 1985, Deutsche Einheitsverfahren zur Wasser-, Abwasser- und Schlammuntersuchung; Schlamm und Sedimente (Gruppe S); Bestimmung des Faulverhaltens (S8) mit Modifikationen (siehe die Nummern 3.3.2.4 bis 3.3.2.11) durchgeführt. Alle Abweichungen von der nachfolgend aufgeführten Methode sind zu dokumentieren.
 - 3.3.2.2 :: Versuchsaufbau und Gasmessung:
-  Für die Durchführung der Bestimmung wird eine Apparatur nach Bild 2 verwendet. Sie besteht aus einem Eudiometerrohr (B) mit einem Volumen von 300 bis 400 ml, das von oben nach unten graduiert ist (Skalenteilungswert 5 ml) und mit einem Glasschliff auf die Standflasche (A), Volumen etwa 500 ml, aufgesetzt wird. Durch den Boden des Eudiometerrohres geht ein Verbindungsrohr (C), das dem in der Standflasche entwickelten Faulgas den Eintritt in das Messrohr ermöglicht. Das Verbindungsrohr wird durch vierseitig angebrachte Glasstäbe in der Position gehalten (E). Am unteren Ende des Eudimeterrohres ist eine Glasolive angebracht, von der eine ausreichend lang bemessene Schlauchverbindung (F) zu einem Niveaugefäß (G) aus Glas oder Kunststoff (Volumen mindestens 750 ml) führt. Am oberen Ende des Eudiometerrohres ist ein Kegelhahn (H) zur Entnahme von Gasproben und zur Einstellung des Nullpunktes (D) angebracht.“ [DIN 38414-8, Seite 3 (Ausgabe Juni 1985)]
-  Sperrflüssigkeit: 30 ml Schwefelsäure, H_{2}SO_{4} (p = 1,84 g/ml), werden zu 1 l destilliertem Wasser gegeben; in dieser Mischung werden unter leichtem Erwärmen 200 g Natriumsulfat-Decahydrat, Na_{2}SO_{4} * 10 H_{2}O, gelöst. Die Lösung wird durch Zugabe einiger Tropfen Methylorange-Lösung (0,1 g Methylorange-Natriumsalz gelöst in 100 ml destilliertem Wasser) rotorange gefärbt. Die Sperrflüssigkeit ist bei Raumtemperatur aufzubewahren. Bei niedrigen Temperaturen kann Natriumsulfat auskristallisieren, das erst durch Erwärmen der Mischung wieder in Lösung gebracht werden muss.“ [DIN 38414-8, Seite 3, Ausgabe Juni 1985]
-  Die Standflasche (A) wird mit der angegebenen ...“ Menge Probe, Impfschlamm und Wasser ... gefüllt; die in der Flasche enthaltene Luft wird mit Stickstoff verdrängt und das Eudiometerrohr (B) aufgesetzt. Mit Hilfe des Niveaugefä... übertreten. Das Niveaugefä... ist im Dunkeln aufzubewahren. Das entwickelte Gasvolumen wird jeweils bei Niveaugleichheit der Sperrflüssigkeit mit dem Eudiometerrohr und Niveaugefäß abgelesen, nachdem vorher der Inhalt der Standflasche (A) vorsichtig umgeschwenkt wurde.“ [DIN 38414-8, Seite 5, Ausgabe Juni 1985]
-  Bei jeder Ablesung des Gasvolumens im Eudiometerrohr sind Temperatur und Luftdruck zu bestimmen, um das Gasvolumen auf den Normzustand umrechnen zu können. Das Niveau der Sperrflüssigkeit wird -- je nach Gasentwicklung -- nach jeder oder nach mehreren Ablesungen bei geöffnetem Hahn (H) auf 0 eingestellt; dabei darf keine Luft durch den Hahn (H) angesaugt werden.“ [DIN 38414-8, Seite 5, Ausgabe Juni 1985]
+  Für die Durchführung der Bestimmung wird eine Apparatur nach Bild 2 verwendet. „Sie besteht aus einem Eudiometerrohr (B) mit einem Volumen von 300 bis 400 ml, das von oben nach unten graduiert ist (Skalenteilungswert 5 ml) und mit einem Glasschliff auf die Standflasche (A), Volumen etwa 500 ml, aufgesetzt wird. Durch den Boden des Eudiometerrohres geht ein Verbindungsrohr (C), das dem in der Standflasche entwickelten Faulgas den Eintritt in das Messrohr ermöglicht. Das Verbindungsrohr wird durch vierseitig angebrachte Glasstäbe in der Position gehalten (E). Am unteren Ende des Eudimeterrohres ist eine Glasolive angebracht, von der eine ausreichend lang bemessene Schlauchverbindung (F) zu einem Niveaugefäß (G) aus Glas oder Kunststoff (Volumen mindestens 750 ml) führt. Am oberen Ende des Eudiometerrohres ist ein Kegelhahn (H) zur Entnahme von Gasproben und zur Einstellung des Nullpunktes (D) angebracht.“ [DIN 38414-8, Seite 3 (Ausgabe Juni 1985)]
+  „Sperrflüssigkeit: 30 ml Schwefelsäure, H_{2}SO_{4} (p = 1,84 g/ml), werden zu 1 l destilliertem Wasser gegeben; in dieser Mischung werden unter leichtem Erwärmen 200 g Natriumsulfat-Decahydrat, Na_{2}SO_{4} * 10 H_{2}O, gelöst. Die Lösung wird durch Zugabe einiger Tropfen Methylorange-Lösung (0,1 g Methylorange-Natriumsalz gelöst in 100 ml destilliertem Wasser) rotorange gefärbt. Die Sperrflüssigkeit ist bei Raumtemperatur aufzubewahren. Bei niedrigen Temperaturen kann Natriumsulfat auskristallisieren, das erst durch Erwärmen der Mischung wieder in Lösung gebracht werden muss.“ [DIN 38414-8, Seite 3, Ausgabe Juni 1985]
+  „Die Standflasche (A) wird mit der angegebenen ...“ Menge Probe, Impfschlamm und Wasser „... gefüllt; die in der Flasche enthaltene Luft wird mit Stickstoff verdrängt und das Eudiometerrohr (B) aufgesetzt. Mit Hilfe des Niveaugefäßes (G) wird bei geöffnetem Hahn (H) des Eudiometerrohres das Niveau der Sperrflüssigkeit auf die 0-Marke eingestellt. Dabei darf auf keinen Fall Sperrflüssigkeit in das Verbindungsrohr (C) und damit in ...“ den Probenraum „... übertreten. Das Niveaugefäß muss noch etwa zu einem Viertel gefüllt sein. Anschließend wird der Hahn (H) geschlossen. Die Standflasche (A) mit der ...“ Probenmischung „... ist im Dunkeln aufzubewahren. Das entwickelte Gasvolumen wird jeweils bei Niveaugleichheit der Sperrflüssigkeit mit dem Eudiometerrohr und Niveaugefäß abgelesen, nachdem vorher der Inhalt der Standflasche (A) vorsichtig umgeschwenkt wurde.“ [DIN 38414-8, Seite 5, Ausgabe Juni 1985]
+  „Bei jeder Ablesung des Gasvolumens im Eudiometerrohr sind Temperatur und Luftdruck zu bestimmen, um das Gasvolumen auf den Normzustand umrechnen zu können. Das Niveau der Sperrflüssigkeit wird -- je nach Gasentwicklung -- nach jeder oder nach mehreren Ablesungen bei geöffnetem Hahn (H) auf 0 eingestellt; dabei darf keine Luft durch den Hahn (H) angesaugt werden.“ [DIN 38414-8, Seite 5, Ausgabe Juni 1985]
   \\
   \\
   [[../normengrafiken/bgbl1_2009/j0900-1_0020.jpg]]
@@ -1368,7 +1368,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 - 3.3.2.5 :: Probenaufbereitung:
   Die Originalprobe ist in ihrer Gesamtheit feucht auf eine Korngröße kleiner oder gleich 10 mm zu zerkleinern. Gegebenenfalls können Störstoffe (Glas, Steine und Metalle) vor dem Zerkleinern ausgeschleust werden. Ihre Massenanteile sind bei der Auswertung des Versuchs zu berücksichtigen.
 - 3.3.2.6 :: Impfschlamm:
-  Als Impfschlamm eignet sich Faulschlamm einer kommunalen Kläranlage, der keiner messbaren Hemmung während der Faulung unterlegen ist und der etwa einen Monat unter den nachstehenden Bedingungen gehalten wurde. Er darf keine gröberen Teile enthalten und soll möglichst wenig Gas entwickeln. Es ist zweckmäßig, ein größeres Volumen (etwa 10 Liter) des Impfschlammes mit etwa 5 Prozent Trockenrückstand unter anaeroben Bedingungen im geschlossenen System bei (35 ± 1) °C bereitzuhalten, um eine größere Anzahl von Untersuchungen gleichzeitig durchführen zu können. Im letzten Fall ist dafür Sorge zu tragen, dass die Umgebungstemperatur keinen größeren Schwankungen unterliegt (z. B. Abdeckung der Apparatur durch eine Haube o. Ä.). Dem Impfschlamm kann bei der weiteren Lagerung alle zwei Wochen ein geringer Volumenanteil an faulfähigen Stoffen (etwa 0,1 Prozent) in Form von Rohschlamm zugesetzt werden. Der Rohschlamm muss frei von toxischen Stoffen sein und sollte keine größeren Teile enthalten. Nach jeder Zugabe muss gründlich gemischt werden. Dieser Impfschlamm darf erst 1 Woche nach der letzten Rohschlammzugabe für den Versuchsansatz verwendet werden.“ [DIN 38414-8, Seite 4, Ausgabe Juni 1985]
+  „Als Impfschlamm eignet sich Faulschlamm einer kommunalen Kläranlage, der keiner messbaren Hemmung während der Faulung unterlegen ist und der etwa einen Monat unter den nachstehenden Bedingungen gehalten wurde. Er darf keine gröberen Teile enthalten und soll möglichst wenig Gas entwickeln. Es ist zweckmäßig, ein größeres Volumen (etwa 10 Liter) des Impfschlammes mit etwa 5 Prozent Trockenrückstand unter anaeroben Bedingungen im geschlossenen System bei (35 ± 1) °C bereitzuhalten, um eine größere Anzahl von Untersuchungen gleichzeitig durchführen zu können. Im letzten Fall ist dafür Sorge zu tragen, dass die Umgebungstemperatur keinen größeren Schwankungen unterliegt (z. B. Abdeckung der Apparatur durch eine Haube o. Ä.). Dem Impfschlamm kann bei der weiteren Lagerung alle zwei Wochen ein geringer Volumenanteil an faulfähigen Stoffen (etwa 0,1 Prozent) in Form von Rohschlamm zugesetzt werden. Der Rohschlamm muss frei von toxischen Stoffen sein und sollte keine größeren Teile enthalten. Nach jeder Zugabe muss gründlich gemischt werden. Dieser Impfschlamm darf erst 1 Woche nach der letzten Rohschlammzugabe für den Versuchsansatz verwendet werden.“ [DIN 38414-8, Seite 4, Ausgabe Juni 1985]
 - 3.3.2.7 :: Probenmasse:
   Es werden 50 g der aufbereiteten Probe in die Versuchsapparatur eingesetzt. Die Proben werden mit 50 ml Impfschlamm versetzt und der Ansatz mit Leitungswasser auf 300 ml aufgefüllt.
 - 3.3.2.8 :: Referenzansatz:
@@ -1384,7 +1384,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
   Die Ermittlung der gebildeten Gasvolumina erfolgt analog DIN 38414-8, Nr. 10, Ausgabe Juni 1985:
   Vorlage für die Datensammlung und Berechnung für jeden Ansatz ist Tabelle 1. Mit folgender Gleichung ist die Berechnung des Normvolumens des in den einzelnen Zeitabschnitten gebildeten Gases durchzuführen:\\
   \\
-  V_{O} = V 
+  V_{O} = V ·
 - V_{O} :: Gasvolumen, in ml
 - V :: gebildetes Gasvolumen, in ml
 - P_{L} :: Luftdruck zum Zeitpunkt der Ablesung, in mbar
@@ -1412,17 +1412,17 @@ Das Versuchsprotokoll nach Tabelle 1 ist für jede angesetzte Mischung aus der P
 
 V_{S} =
 
-∑V_{n} · 10
+∑V_{n} · 10²
 
-
+ 
 
 __________
 
-
+ 
 
 m · W_{T}
 
-
+ 
 
 Formel 2 nach DIN 38414-8, Seite 8, Ausgabe Juni 1985
 
@@ -1615,7 +1615,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
   \\
   Tabelle
   Nr.
-- <<FnA1-f772033_35>>[[#FnR.FnA1-f772033_35][1)]] :: Die zu messenden Parameter sind in der Deponiezulassung festzulegen. Mit Ausnahme der Häufigkeit der Kontrollen ist die LAGA-Mitteilung 28 Technische Regeln für die Überwachung von Grund-, Sicker- und Oberflächenwasser sowie oberirdischer Gewässer bei Deponien“ (Stand April 2019, redaktionell ergänzt November 2019, abrufbar unter https://www.laga-online.de/Publikationen-50-Mitteilungen.html), zu beachten.
+- <<FnA1-f772033_35>>[[#FnR.FnA1-f772033_35][1)]] :: Die zu messenden Parameter sind in der Deponiezulassung festzulegen. Mit Ausnahme der Häufigkeit der Kontrollen ist die LAGA-Mitteilung 28 „Technische Regeln für die Überwachung von Grund-, Sicker- und Oberflächenwasser sowie oberirdischer Gewässer bei Deponien“ (Stand April 2019, redaktionell ergänzt November 2019, abrufbar unter https://www.laga-online.de/Publikationen-50-Mitteilungen.html), zu beachten.
 - <<FnA1-f772033_36>>[[#FnR.FnA1-f772033_36][2)]] :: Organoleptische Kontrollen sind an noch offenen Deponieabschnitten wöchentlich vom Deponiebetreiber durchzuführen. An temporär oder endgültig abgedeckten oder abgedichteten Deponieabschnitten oder Deponien hat der Deponiebetreiber die Wirksamkeit einer eventuellen Entgasung oder der Restgasoxidation halbjährlich mittels Messungen mit Flammenionisationsdetektor, Laser-Absorptionsspektrometrie oder mittels anderer gleichwertiger Verfahren auf der Deponieoberfläche und an Gaspegeln im näheren Deponieumfeld zu kontrollieren.
 - <<FnA1-f772033_37>>[[#FnR.FnA1-f772033_37][3)]] :: Die Grundwasserstände sind mindestens bei jeder Probennahme für die Bestimmung der Grundwasserbeschaffenheit zu messen. Bei stark schwankendem Grundwasserspiegel sind die Messungen häufiger vorzunehmen.
 - <<FnA1-f772033_38>>[[#FnR.FnA1-f772033_38][4)]] :: Es ist eine Nullmessung vor dem Beginn der Ablagerungsphase durchzuführen, die mindestens die Parameter des zu erwartenden Sickerwassers umfasst. Danach ergeben sich die zu messenden Parameter auf Grund der Zusammensetzung des Sickerwassers und der Grundwasserqualität. Die Untersuchungen für Nummer 3.2 sind von Prüflaboratorien durchzuführen, die für die betreffenden Untersuchungen nach DIN EN ISO/IEC 17025: 2018-03 (Allgemeine Anforderungen an die Kompetenz von Prüf- und Kalibrierlaboratorien) akkreditiert und gegebenenfalls nach landesspezifischen Vorgaben notifiziert oder anerkannt sind. Die von der Länderarbeitsgemeinschaft Abfall herausgegebenen Technischen Regeln für die Überwachung von Grund-, Sicker- und Oberflächenwasser sowie oberirdischer Gewässer bei Deponien (LAGA Mitteilung 28, Stand April 2019, redaktionell ergänzt November 2019, abrufbar unter https://www.laga-online.de/Publikationen-50-Mitteilungen.html), sind zu beachten.

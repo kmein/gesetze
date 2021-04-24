@@ -822,7 +822,7 @@ Diese Grundsätze der Guten Laborpraxis finden ebenfalls Anwendung auf Phasen vo
   - 9) :: Standardarbeitsanweisungen (Standard Operating Procedures, SOPs) sind dokumentierte Verfahrensanweisungen über die Durchführung derjenigen Untersuchungen oder Tätigkeiten, die in der Regel in Prüfplänen oder Prüfrichtlinien nicht in entsprechender Ausführlichkeit beschrieben sind.
   - 10) :: Verzeichnis mit Status aller Prüfungen (Master Schedule) ist eine Zusammenstellung von Informationen, die der Abschätzung der Arbeitsbelastung und der Verfolgung des Ablaufs von Prüfungen in einer Prüfeinrichtung dient.
 - 2.3 :: Begriffe betreffend die nicht-klinischen gesundheits- und umweltrelevanten Sicherheitsprüfungen
-  - 1) :: Nicht-klinische gesundheits- und umweltrelevante Sicherheitsprüfung, nachstehend mit Prüfung“ bezeichnet, ist eine Untersuchung oder eine Reihe von Untersuchungen, die mit einem Prüfgegenstand unter Labor- oder Umweltbedingungen durchgeführt wird, um Daten über seine Eigenschaften und über seine Unbedenklichkeit zu gewinnen, mit der Absicht, diese den zuständigen Bewertungsbehörden einzureichen.
+  - 1) :: Nicht-klinische gesundheits- und umweltrelevante Sicherheitsprüfung, nachstehend mit „Prüfung“ bezeichnet, ist eine Untersuchung oder eine Reihe von Untersuchungen, die mit einem Prüfgegenstand unter Labor- oder Umweltbedingungen durchgeführt wird, um Daten über seine Eigenschaften und über seine Unbedenklichkeit zu gewinnen, mit der Absicht, diese den zuständigen Bewertungsbehörden einzureichen.
   - 2) :: Kurzzeitprüfung ist eine Prüfung von kurzer Dauer, die nach weithin gebräuchlichen Routinemethoden durchgeführt wird.
   - 3) :: Prüfplan ist ein Dokument, das die Ziele und experimentelle Gesamtplanung zur Durchführung der Prüfung beschreibt; es schließt sämtliche Prüfplanänderungen ein.
   - 4) :: Prüfplanänderung ist eine geplante Veränderung des Prüfplans nach Beginn der Prüfung in Form einer Ergänzung.
@@ -1059,20 +1059,20 @@ Anhang 2 - (zu § 19b Abs. 1)Landessiegel/Coloured Logo Gute Laborpraxis/Good La
 
 (Fundstelle: BGBl. I 2013, 3532)
 □ Prüfeinrichtung/Test facility   □ Prüfstandort/Test site
-
-
-
+ 
+ 
+ 
 (Unverwechselbare Bezeichnung und Adresse/Unequivocal name and address)
 Prüfungen nach Kategorien/Areas of Expertise
 (gemäß/according ChemVwV-GLP Nr. 5.3/OECD guidance)
-
+ 
 Datum der Inspektion/Date of Inspection
 (Tag.Monat.Jahr/day.month.year)
-
+ 
 Unterschrift, Datum/Signature, Date
-
+ 
 (Name und Funktion der verantwortlichen Person/\\
 Name and function of responsible person)
-
+ 
 (Name und Adresse der GLP-Überwachungsbehörde/\\
 Name and address of the GLP Monitoring Authority)

@@ -7,7 +7,7 @@ Ausfertigungsdatum: 12.03.2004
 Inhaltsübersicht
 
 Abschnitt 1
-
+ 
 Schutzvoraussetzungen
 § 1
 Begriffsbestimmungen
@@ -22,7 +22,7 @@ Offenbarung
 § 6
 Neuheitsschonfrist
 Abschnitt 2
-
+ 
 Berechtigte
 § 7
 Recht auf das eingetragene Design
@@ -33,7 +33,7 @@ Ansprüche gegenüber Nichtberechtigten
 § 10
 Entwerferbenennung
 Abschnitt 3
-
+ 
 Eintragungsverfahren
 § 11
 Anmeldung
@@ -70,14 +70,14 @@ Elektronische Verfahrensführung, Verordnungsermächtigung
 § 26
 Verordnungsermächtigungen
 Abschnitt 4
-
+ 
 Entstehung und Dauer des Schutzes
 § 27
 Entstehung und Dauer des Schutzes
 § 28
 Aufrechterhaltung
 Abschnitt 5
-
+ 
 Eingetragenes Design als Gegenstand des Vermögens
 § 29
 Rechtsnachfolge
@@ -88,7 +88,7 @@ Lizenz
 § 32
 Angemeldete Designs
 Abschnitt 6
-
+ 
 Nichtigkeit und Löschung
 § 33
 Nichtigkeit
@@ -105,7 +105,7 @@ Teilweise Aufrechterhaltung
 § 36
 Löschung
 Abschnitt 7
-
+ 
 Schutzwirkungen und Schutzbeschränkungen
 § 37
 Gegenstand des Schutzes
@@ -120,7 +120,7 @@ Reparaturklausel
 § 41
 Vorbenutzungsrecht
 Abschnitt 8
-
+ 
 Rechtsverletzungen
 § 42
 Beseitigung, Unterlassung und Schadenersatz
@@ -147,7 +147,7 @@ Ansprüche aus anderen gesetzlichen Vorschriften
 § 51
 Strafvorschriften
 Abschnitt 9
-
+ 
 Verfahren in Designstreitsachen
 § 52
 Designstreitsachen
@@ -160,7 +160,7 @@ Gerichtsstand bei Ansprüchen nach diesem Gesetz und dem Gesetz gegen den unlaut
 § 54
 Streitwertbegünstigung
 Abschnitt 10
-
+ 
 Vorschriften über Maßnahmen der Zollbehörde
 § 55
 Beschlagnahme bei der Ein- und Ausfuhr
@@ -171,7 +171,7 @@ Zuständigkeiten, Rechtsmittel
 § 57a
 Verfahren nach der Verordnung (EU) Nr. 608/2013
 Abschnitt 11
-
+ 
 Besondere Bestimmungen
 § 58
 Inlandsvertreter
@@ -182,7 +182,7 @@ Eingetragene Designs nach dem Erstreckungsgesetz
 § 61
 Typografische Schriftzeichen
 Abschnitt 12
-
+ 
 Gemeinschaftsgeschmacksmuster
 § 62
 Weiterleitung der Anmeldung
@@ -201,7 +201,7 @@ Erteilung der Vollstreckungsklausel
 § 65
 Strafbare Verletzung eines Gemeinschaftsgeschmacksmusters
 Abschnitt 13
-
+ 
 Schutz eingetragener Designs nach dem Haager Abkommen
 § 66
 Anwendung dieses Gesetzes
@@ -216,7 +216,7 @@ Nachträgliche Schutzentziehung
 § 71
 Wirkung der internationalen Eintragung
 Abschnitt 14
-
+ 
 Übergangsvorschriften
 § 72
 Anzuwendendes Recht

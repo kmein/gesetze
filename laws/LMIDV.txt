@@ -104,8 +104,8 @@ Bei den betreffenden Lebensmitteln oder in einem Aushang in der Verkaufsstätte 
 - 14. :: den Anforderungen an die weiteren erforderlichen Angaben nach Artikel 10 Absatz 1 in Verbindung mit folgenden Nummern des Anhanges III der Verordnung (EU) Nr. 1169/2011:
   - a) :: den Nummern 1., 2., 3. oder Nummer 4.,
   - b) :: der Nummer 5.1. in Verbindung mit
-    - aa) :: Nummer (3), (4), (5) oder Nummer (7) in Spalte Angabe“ der Tabelle oder
-    - bb) :: Nummer (1), (2), (6) oder Nummer (8) in Spalte Angabe“ der Tabelle,
+    - aa) :: Nummer (3), (4), (5) oder Nummer (7) in Spalte „Angabe“ der Tabelle oder
+    - bb) :: Nummer (1), (2), (6) oder Nummer (8) in Spalte „Angabe“ der Tabelle,
   - c) :: der Nummer 6.,
 - 15. :: den Anforderungen an die weiteren Vorgaben der Kennzeichnung nach
   - a) :: Artikel 9 Absatz 2 Satz 1,
@@ -139,4 +139,4 @@ Bei den betreffenden Lebensmitteln oder in einem Aushang in der Verkaufsstätte 
 Anlage - (zu § 4a Absatz 1) Abbildung des Nutri-Score-Kennzeichens
 
 (Fundstelle: BGBl. I 2020, 2267)
-
+ 

@@ -45,9 +45,9 @@ In jedem Kalenderjahr sollen dem Lebensarbeitszeitkonto nicht mehr als 80 Stunde
 
 (3) Das Zeitguthaben ist bis zum Eintritt in den Ruhestand durch Freistellung vom Dienst unter Fortzahlung der Besoldung vollständig abzubauen. Ist eine Freistellung bis zum Eintritt in den Ruhestand nicht möglich, so ist das verbleibende Zeitguthaben abzugelten. Die Höhe der Abgeltung beträgt je Stunde:
 
-- 1. :: 12 Euro in den Besoldungsgruppen A 2 bis A 4,
-- 2. :: 15 Euro in den Besoldungsgruppen A 5 bis A 8,
-- 3. :: 20 Euro in den Besoldungsgruppen A 9 bis A 12,
+- 1. :: 12 Euro in den Besoldungsgruppen A 2 bis A 4, 
+- 2. :: 15 Euro in den Besoldungsgruppen A 5 bis A 8, 
+- 3. :: 20 Euro in den Besoldungsgruppen A 9 bis A 12, 
 - 4. :: 27 Euro in den Besoldungsgruppen A 13 bis A 16.
 
 (4) Die näheren Einzelheiten zur Führung der Lebensarbeitszeitkonten, der Durchführung der Freistellungszeiten sowie zur Abgeltung der Zeitguthaben regelt der Vorstand der Deutschen Telekom AG.

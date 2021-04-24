@@ -256,7 +256,7 @@ Wird Bier unter Steueraussetzung zu Begünstigte befördert, hat der Beförderer
 - 2. :: die Beförderung ausschließlich im Steuergebiet erfolgt und
 - 3. :: die einzelnen Beförderungen von einem Lieferschein oder einem entsprechenden Handelsdokument mit der deutlich sichtbaren Aufschrift
   \\
-  unversteuertes Bier zur Bevorratung\\
+  „unversteuertes Bier zur Bevorratung\\
   von Schiffen und Flugzeugen“
   \\
   begleitet werden.
@@ -269,7 +269,7 @@ Für das Erstellen des Entwurfs des zusammengefassten elektronischen Verwaltungs
 
 (1) Für Beförderungen von Bier unter Steueraussetzung in Betriebe von Verwendern (§ 23a Absatz 1 des Gesetzes) hat der Steuerlagerinhaber als Versender aus seinem Steuerlager im Steuergebiet oder der registrierte Versender vom Ort der Einfuhr im Steuergebiet das Begleitdokument zu verwenden. Anstelle des Begleitdokuments kann der Versender ein Handelsdokument verwenden, das alle in dem Begleitdokument enthaltenen Angaben aufweist. Er hat das Handelsdokument mit der Aufschrift\\
 \\
-| Begleitdokument für\\                       |
+| „Begleitdokument für\\                       |
 | die Beförderung verbrauchsteuerpflichtiger\\ |
 | Waren unter Steueraussetzung“\\              |
 | \\                                           |
@@ -279,13 +279,13 @@ zu kennzeichnen.
 (3) Der Verwender hat die zweite Ausfertigung als Beleg zu seinen Aufzeichnungen zu nehmen und dem zuständigen Hauptzollamt (§ 4 Absatz 2) unverzüglich die mit seinem Empfangsvermerk versehene dritte und vierte Ausfertigung vorzulegen. Dieses bestätigt die Übereinstimmung der beiden Ausfertigungen und die Empfangsberechtigung auf der dritten Ausfertigung (Rückschein). Der bestätigte Rückschein ist vom Verwender spätestens binnen zwei Wochen nach dem Empfang des Bieres an den Versender zurückzusenden. Die vierte Ausfertigung verbleibt beim zuständigen Hauptzollamt.
 (4) Zur Vereinfachung des Verfahrens kann das für den Versender zuständige Hauptzollamt (§ 4 Absatz 2) auf Antrag des Versenders zulassen, dass dieser anstelle des Begleitdokuments nach Absatz 1 für das in einem Kalendermonat an denselben Verwender abgegebene Bier eine Sammelanmeldung in dreifacher Ausfertigung unter Angabe der Lieferscheinnummern und der Biermengen nach Steuerklassen dem Verwender bis zum siebten Arbeitstag des folgenden Monats übersendet, wenn die einzelnen Sendungen von einem Lieferschein mit der deutlich sichtbaren Aufschrift\\
 \\
-| Unversteuertes Bier“\\ |
+| „Unversteuertes Bier“\\ |
 | \\                      |
 
 begleitet werden. Der Verwender hat die Erstausfertigung zu seinen Aufzeichnungen zu nehmen und unverzüglich die mit seinem Empfangsvermerk versehene zweite und dritte Ausfertigung dem für ihn zuständigen Hauptzollamt vorzulegen. Das zuständige Hauptzollamt bestätigt die Übereinstimmung der beiden Ausfertigungen und die Empfangsberechtigung durch Stempelabdruck auf der zweiten Ausfertigung. Der Verwender hat die bestätigte Sammelanmeldung als Rückschein spätestens zwei Wochen nach dem Versandmonat an den Versender zurückzuschicken. Die zurückgeschickte Sammelanmeldung hat der Versender zu seinen Aufzeichnungen zu nehmen. Das für den Versender zuständige Hauptzollamt kann weitere Vereinfachungen des Verfahrens zulassen, wenn Steuerbelange dadurch nicht beeinträchtigt werden.
 (5) Das für den Versender zuständige Hauptzollamt kann auf Antrag in geeigneten Fällen, soweit dies der Vereinfachung des Verfahrens dient und Steuerbelange nicht gefährdet erscheinen, insbesondere zulassen, dass anstelle des Dokuments nach Absatz 1 Lieferscheine oder Rechnungen verwendet werden. Der Versender hat diese mit der Aufschrift\\
 \\
-| Lieferschein/Rechnung für die\\                |
+| „Lieferschein/Rechnung für die\\                |
 | Beförderung von verbrauchsteuerpflichtigen\\    |
 | Waren unter Steueraussetzung im Steuergebiet“\\ |
 | \\                                              |
@@ -412,7 +412,7 @@ Arzneimittelhersteller haben außerdem ihre arzneimittelrechtliche Herstellungsb
 § 39d - Abgabe von Bier, zweckwidrige Verwendung
 
 (1) Das zuständige Hauptzollamt kann dem Verwender auf Antrag gestatten, in Ausnahmefällen Bier im Rahmen seiner Erlaubnis zur steuerfreien Verwendung an Steuerlager oder an andere Verwender abzugeben. Der Verwender hat dem Bier bei der Abgabe Handelspapiere beizugeben, die mit der Aufschrift
-Unversteuertes Bier“
+„Unversteuertes Bier“
 versehen sind.
 (2) Die Steueranmeldung nach § 23a Absatz 3 Satz 5 des Gesetzes ist nach amtlich vorgeschriebenem Vordruck abzugeben.
 
@@ -452,7 +452,7 @@ Die mit der Steueraufsicht betrauten Amtsträger können von Waren, die der Bier
 § 45 - Beförderung von Bier des steuerrechtlich freien Verkehrs durch einen anderen Mitgliedstaat
 
 (1) Wer Bier des steuerrechtlich freien Verkehrs zu gewerblichen Zwecken durch das Gebiet eines anderen Mitgliedstaats an einen Empfänger im Steuergebiet befördern will, hat das vereinfachte Begleitdokument auszufertigen. Der Versender hat in Feld 3 des vereinfachten Begleitdokuments den Hinweis
-| Transit/Bier des steuerrechtlich freien Verkehrs“ |
+| „Transit/Bier des steuerrechtlich freien Verkehrs“ |
 
 anzubringen sowie die Anschrift des zuständigen Hauptzollamts (§ 4 Absatz 2) zu vermerken. Der Beförderer des Bieres hat die Ausfertigungen zwei und drei des vereinfachten Begleitdokuments während der Beförderung mitzuführen. Er hat das Bier auf dem kürzesten zumutbaren Weg durch den anderen Mitgliedstaat (Transitmitgliedstaat) zu befördern.
 (2) Der Versender hat die erste Ausfertigung des vereinfachten Begleitdokuments spätestens am Versandtag dem zuständigen Hauptzollamt vorzulegen. Nach Beendigung der Beförderung hat der Empfänger die Übernahme des Bieres auf der dritten Ausfertigung des vereinfachten Begleitdokuments zu bestätigen und diese dem für den Versender zuständigen Hauptzollamt vorzulegen.

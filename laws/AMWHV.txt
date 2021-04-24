@@ -12,7 +12,7 @@ Anwendungsbereich und Begriffsbestimmungen
 Anwendungsbereich
 § 2
 Begriffsbestimmungen
-
+ 
 Abschnitt 2
 Allgemeine Anforderungen
 § 3
@@ -33,7 +33,7 @@ Tätigkeiten im Auftrag
 Allgemeine Dokumentation
 § 11
 Selbstinspektionen und Lieferantenqualifizierung
-
+ 
 Abschnitt 3
 Arzneimittel, Blutprodukte und andere Blutbestandteile sowie Produkte menschlicher Herkunft
 § 12
@@ -54,7 +54,7 @@ Rückstellmuster
 Beanstandungen und Rückruf
 § 20
 Aufbewahrung der Dokumentation
-
+ 
 Abschnitt 4
 Wirkstoffe nicht menschlicher Herkunft
 § 21
@@ -75,14 +75,14 @@ Rückstellmuster
 Beanstandungen und Rückruf
 § 29
 Aufbewahrung der Dokumentation
-
+ 
 Abschnitt 5
 Sondervorschriften
 § 30
 Ergänzende Regelungen für Fütterungsarzneimittel
 § 31
 Ergänzende Regelungen für Blutspendeeinrichtungen
-
+ 
 Abschnitt 5a
 Sondervorschriften für Entnahme- und Gewebeeinrichtungen sowie für Gewebespenderlabore
 § 32
@@ -105,7 +105,7 @@ Inverkehrbringen, Einfuhr und Transport durch die Gewebeeinrichtung
 Meldung schwerwiegender unerwünschter Reaktionen und schwerwiegender Zwischenfälle und Rückruf
 § 41
 Aufbewahrung der Dokumentation
-
+ 
 Abschnitt 5b
 Ergänzende Vorschriften für die Kodierung von Gewebe und Gewebezubereitungen
 § 41a
@@ -116,7 +116,7 @@ Bestimmungen für die Verwendung des Einheitlichen Europäischen Codes; Meldepfl
 Kodierung in anderen Fällen und sonstige Pflichten der Gewebeeinrichtungen
 § 41d
 Format des Einheitlichen Europäischen Codes
-
+ 
 Abschnitt 5c
 Sondervorschriften für Einrichtungen mit einer Erlaubnis nach § 13 des Arzneimittelgesetzes oder § 72 des Arzneimittelgesetzes
 § 41e
@@ -125,12 +125,12 @@ Ergänzende Anforderungen an die Gewebevigilanz
 Ergänzende Anforderungen zur Kennzeichnung
 § 41g
 Ergänzende Anforderungen zur Einfuhr
-
+ 
 Abschnitt 6
 Ordnungswidrigkeiten
 § 42
 Ordnungswidrigkeiten
-
+ 
 Abschnitt 7
 Schlussvorschriften
 § 43
@@ -199,7 +199,7 @@ Im Sinne dieser Verordnung
 - 21. :: ist eindeutige Spendennummer die eindeutige Nummer gemäß Anhang VII der Richtlinie 2006/86/EG der Kommission vom 24. Oktober 2006 zur Umsetzung der Richtlinie 2004/23/EG des Europäischen Parlaments und des Rates hinsichtlich der Anforderungen an die Rückverfolgbarkeit, der Meldung schwerwiegender Zwischenfälle und unerwünschter Reaktionen sowie bestimmter technischer Anforderungen an die Kodierung, Verarbeitung, Konservierung, Lagerung und Verteilung von menschlichen Geweben und Zellen (ABl. L 294 vom 25.10.2006, S. 32), die zuletzt durch die Richtlinie (EU) 2015/565 (ABl. L 93 vom 9.4.2015, S. 43) geändert worden ist, die einer bestimmten Gewebespende nach dem von der Entnahme- oder Gewebeeinrichtung festzulegenden Zuteilungssystem zugewiesen wird,
 - 22. :: ist Produktkennungssequenz der zweite Teil des Einheitlichen Europäischen Codes, bestehend aus dem Produktcode, der Splitnummer und dem Verfallsdatum,
 - 23. :: ist Produktcode die Kennung der spezifischen Art der Gewebe oder Gewebezubereitung im EU-Kompendium der Gewebe- und Zellprodukte gemäß § 4 Absatz 30d des Arzneimittelgesetzes; der Produktcode besteht aus
-  - a) :: der Kennung des Systems für die Produktkodierung, das die Einrichtung verwendet (E“ für EUTC, A“ für ISBT128, B“ für Eurocode), und
+  - a) :: der Kennung des Systems für die Produktkodierung, das die Einrichtung verwendet („E“ für EUTC, „A“ für ISBT128, „B“ für Eurocode), und
   - b) :: der Produktnummer für Gewebe oder Gewebezubereitungen im betreffenden Produktkodierungssystem für das Gewebe oder die Gewebezubereitungsart,
 - 24. :: ist Splitnummer die Nummer gemäß Anhang VII der Richtlinie 2006/86/EG, die der Unterscheidung und eindeutigen Kennzeichnung von Geweben oder Gewebezubereitungen dient, die mit derselben eindeutigen Spendennummer und demselben Produktcode gekennzeichnet sind und aus derselben Einrichtung stammen,
 - 25. :: ist Verfallsdatum das Datum gemäß Anhang VII der Richtlinie 2006/86/EG, bis zu dem die Gewebe oder Gewebezubereitungen verwendet werden können,
@@ -690,7 +690,7 @@ Das Entnahmeverfahren muss der spendenden Person und der Art der Spende angemess
 - 2. :: Tag und, sofern möglich, Uhrzeit der Entnahme,
 - 3. :: Warnung vor einem möglichen Gefährdungspotenzial,
 - 4. :: sofern vorhanden, Art der verwendeten Zusätze,
-- 5. :: bei autologen Spenden der Hinweis Nur zur autologen Verwendung“ und bei gerichteten Spenden die Angaben zum Empfänger,
+- 5. :: bei autologen Spenden der Hinweis „Nur zur autologen Verwendung“ und bei gerichteten Spenden die Angaben zum Empfänger,
 - 6. :: sofern erforderlich, der Spendenkennungssequenz nach § 41b Absatz 1 oder der eindeutigen Spendennummer nach § 41b Absatz 2.
 
 Sofern die Angaben nach Satz 1 Nr. 2 bis 5 nicht auf dem Behältnis gemacht werden können, sind sie in einem Begleitdokument aufzuführen, das dem Behältnis beigefügt wird. Aus der Kennzeichnung der Proben für die Laboruntersuchung müssen insbesondere die Zuordnung zur spendenden Person zweifelsfrei möglich sein und Angaben über Ort und Zeit der Probenahme hervorgehen.
@@ -713,7 +713,7 @@ Alle Abweichungen im Prozess und von der Festlegung der Spezifikation sind zu do
 (1) Der Transport ist nach vorher erstellter Standardarbeitsanweisung durchzuführen. Das Verfahren muss der Spende angemessen sein und die Eigenschaften der Gewebe schützen, die für ihre Verwendung erforderlich sind, sowie das Risiko einer Verunreinigung, insbesondere einer mikrobiellen Verunreinigung, der Spende minimieren. Es muss die Art des Transportbehältnisses und dessen Kennzeichnung nach Absatz 2, die Mitgabe eventueller Proben sowie des Entnahmeberichts nach § 34 Abs. 7 an die be- oder verarbeitende Gewebeeinrichtung festlegen.
 (2) Unbeschadet des § 7 Abs. 3 sind die Behältnisse für den Transport des Gewebes zur Be- oder Verarbeitung mindestens mit folgenden Angaben zu versehen:
 
-- 1. :: Vorsicht“ und Gewebe und Zellen“,
+- 1. :: „Vorsicht“ und „Gewebe und Zellen“,
 - 2. :: Anschriften und Telefonnummern der Entnahmeeinrichtung und der Gewebeeinrichtung, die die Gewebe oder Gewebezubereitungen zur Be- oder Verarbeitung erhalten soll, sowie die Namen der jeweiligen Ansprechpartner,
 - 3. :: Datum und Uhrzeit des Transportbeginns, relevante Transport- und Lagerungsbedingungen,
 - 4. :: Vorsichtsmaßnahmen und Hinweise für die Handhabung und die Verwendung.
@@ -784,7 +784,7 @@ Darüber hinaus ist für die Empfänger der Gewebe oder Gewebezubereitungen eine
 (4) Der Transport ist nach vorher festgelegter Standardarbeitsanweisung durchzuführen. Das Verfahren muss dem Gewebe oder der Gewebezubereitung angemessen sein und die Eigenschaften des Gewebes oder der Gewebezubereitung schützen, die für ihre Verwendung erforderlich sind, sowie das Risiko einer Verunreinigung, insbesondere einer mikrobiellen Verunreinigung, des Gewebes oder der Gewebezubereitung minimieren.
 (5) Unbeschadet des § 7 Abs. 3 sind die Transportbehältnisse mindestens mit folgenden Angaben zu versehen:
 
-- 1. :: Vorsicht“ und Gewebe und Zellen“,
+- 1. :: „Vorsicht“ und „Gewebe und Zellen“,
 - 2. :: Kennung der Gewebeeinrichtung, die die Gewebe oder Gewebezubereitungen be- oder verarbeitet hat, sowie der Einrichtung, die die Gewebe oder Gewebezubereitungen erhalten soll, einschließlich ihrer Anschriften und Telefonnummern, sowie
 - 3. :: relevante Transport- und Lagerungsbedingungen sowie erforderlichenfalls weitere Vorsichtsmaßnahmen und Hinweise für die Handhabung.
 
@@ -839,7 +839,7 @@ Innerhalb derselben Einrichtung nach Satz 1 Nummer 2 und 3 bedeutet, dass alle T
 - 1. :: die von der Entnahmeeinrichtung nach Absatz 1 oder von der Gewebeeinrichtung nach Absatz 3 oder Absatz 4 zugeteilte Spendenkennungssequenz wird als erster Teil des Einheitlichen Europäischen Codes verwendet,
 - 2. :: die Gewebeeinrichtung legt das für die Produktkennungssequenz verwendete Produktkodierungssystem in einer Standardarbeitsanweisung fest,
 - 3. :: für den zweiten Teil des Einheitlichen Europäischen Codes wird aus dem EU-Kompendium der Gewebe- und Zellprodukte gemäß § 4 Absatz 30d des Arzneimittelgesetzes mit dem festgelegten Produktkodierungssystem die Produktnummer für das Gewebe oder die Gewebezubereitung ermittelt und mit der Kennung des Produktkodierungssystems zum Produktcode als ersten Teil der Produktkennungssequenz vervollständigt,
-- 4. :: die Produktkennungssequenz wird durch eine geeignete Splitnummer und das Verfallsdatum vervollständigt; bei Geweben oder Gewebezubereitungen, für die kein Verfallsdatum erforderlich ist, ist spätestens vor ihrem Inverkehrbringen zur Anwendung beim Menschen als Verfallsdatum 00000000“ anzugeben.
+- 4. :: die Produktkennungssequenz wird durch eine geeignete Splitnummer und das Verfallsdatum vervollständigt; bei Geweben oder Gewebezubereitungen, für die kein Verfallsdatum erforderlich ist, ist spätestens vor ihrem Inverkehrbringen zur Anwendung beim Menschen als Verfallsdatum „00000000“ anzugeben.
 
 Der Einheitliche Europäische Code wird unlöschbar auf dem Etikett des Gewebes oder der Gewebezubereitung dauerhaft angebracht. Dieser Einheitliche Europäische Code wird außerdem in dem Begleitdokument nach § 36 Absatz 8 Satz 1 vermerkt. Kann der Einheitliche Europäische Code aus Platzmangel nicht auf dem Etikett untergebracht werden, muss er durch das Begleitdokument eindeutig den mit diesem Etikett verpackten Geweben oder Gewebezubereitungen zuzuordnen sein.
 
@@ -860,7 +860,7 @@ Der Einheitliche Europäische Code wird unlöschbar auf dem Etikett des Gewebes 
 
 (1) Der Einheitliche Europäische Code muss die folgenden Anforderungen erfüllen:
 
-- 1. :: der Einheitliche Europäische Code wird in visuell lesbarer Form angezeigt; ihm ist das Akronym SEC“ vorangestellt;
+- 1. :: der Einheitliche Europäische Code wird in visuell lesbarer Form angezeigt; ihm ist das Akronym „SEC“ vorangestellt;
 - 2. :: der Einheitliche Europäische Code wird mit der Spendenkennungssequenz und der Produktkennungssequenz, getrennt durch eine Leerstelle oder in zwei aufeinanderfolgenden Zeilen, gedruckt.
 
 (2) Andere Systeme für die Kennzeichnung und Rückverfolgbarkeit können zusätzlich verwendet werden.

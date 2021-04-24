@@ -10,56 +10,56 @@ Auf Grund des § 26 Absatz 1 Nummer 2 und Absatz 2 des Bundesbeamtengesetzes -- 
 
 Inhaltsübersicht
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 § 1 - Studium
 
-(1) Als fachspezifischer Vorbereitungsdienst für den gehobenen nichttechnischen Verwaltungsdienst des Bundes wird der Vorbereitungsdienst gehobener nichttechnischer Verwaltungsdienst des Bundes -- Fachrichtung digitale Verwaltung und Cyber-Sicherheit -- “ eingerichtet.
-(2) Der Diplom-Studiengang Digital Administration and Cyber Security“ an der Hochschule des Bundes für öffentliche Verwaltung (Hochschule) ist der Vorbereitungsdienst für den gehobenen nichttechnischen Verwaltungsdienst des Bundes im Verwendungsbereich digitale Verwaltung und Cyber-Sicherheit“.
+(1) Als fachspezifischer Vorbereitungsdienst für den gehobenen nichttechnischen Verwaltungsdienst des Bundes wird der Vorbereitungsdienst „gehobener nichttechnischer Verwaltungsdienst des Bundes -- Fachrichtung digitale Verwaltung und Cyber-Sicherheit -- “ eingerichtet.
+(2) Der Diplom-Studiengang „Digital Administration and Cyber Security“ an der Hochschule des Bundes für öffentliche Verwaltung (Hochschule) ist der Vorbereitungsdienst für den gehobenen nichttechnischen Verwaltungsdienst des Bundes im Verwendungsbereich „digitale Verwaltung und Cyber-Sicherheit“.
 
 § 2 - Ziele des Studiums
 
-Das Studium vermittelt in enger Verbindung von Wissenschaft und Praxis die wissenschaftlichen Methoden und Kenntnisse sowie die berufspraktischen Fähigkeiten und Kenntnisse, die für die Erfüllung der Aufgaben im gehobenen nichttechnischen Dienst des Bundes im Verwendungsbereich digitale Verwaltung und Cyber-Sicherheit“ erforderlich sind. Es soll die Studierenden zu verantwortlichem Handeln im freiheitlichen, demokratischen und sozialen Rechtsstaat sowie zur Zusammenarbeit und im föderalen und europäischen Raum befähigen.
+Das Studium vermittelt in enger Verbindung von Wissenschaft und Praxis die wissenschaftlichen Methoden und Kenntnisse sowie die berufspraktischen Fähigkeiten und Kenntnisse, die für die Erfüllung der Aufgaben im gehobenen nichttechnischen Dienst des Bundes im Verwendungsbereich „digitale Verwaltung und Cyber-Sicherheit“ erforderlich sind. Es soll die Studierenden zu verantwortlichem Handeln im freiheitlichen, demokratischen und sozialen Rechtsstaat sowie zur Zusammenarbeit und im föderalen und europäischen Raum befähigen.
 
 § 3 - Dienstbehörde
 
@@ -110,7 +110,7 @@ Die Zeiten des Erholungsurlaubs bestimmt
 § 9 - Bewertung der Leistungen im Studium und in den Prüfungen
 
 (1) Die Leistungen der Studierenden im Studium und in den Prüfungen werden wie folgt bewertet:
-
+ 
 Prozentualer Anteil der\\
 erreichten Punktzahl an der\\
 erreichbaren Punktzahl
@@ -118,7 +118,7 @@ Rangpunkte/\\
 Rangpunktzahl
 Note
 Notendefinition
-
+ 
 1
 2
 3
@@ -306,10 +306,10 @@ Der mündliche Teil des Auswahlverfahrens ist bestanden, wenn im halbstrukturier
 (1) Das Studium dauert in der Regel drei Jahre.
 (2) Das Studium umfasst 24 Monate Fachstudien an der Hochschule und zwölf Monate berufspraktische Studienzeiten.
 (3) Das Studium gliedert sich in fünf Studienabschnitte. Die Studienabschnitte verteilen sich wie folgt auf die Semester:
-
+ 
 Semester
 Studienabschnitt
-
+ 
 1
 2
 1
@@ -334,7 +334,7 @@ Hauptstudium II
 
 § 23 - Vertiefungsrichtung
 
-In der berufspraktischen Studienzeit II sowie im Hauptstudium II ist entweder die Vertiefungsrichtung Digital Administration“ oder die Vertiefungsrichtung Cyber Security“ zu absolvieren. Welche Studierenden welche Vertiefungsrichtung absolvieren, gibt die Hochschule mit der Einstellungszusage bekannt.
+In der berufspraktischen Studienzeit II sowie im Hauptstudium II ist entweder die Vertiefungsrichtung „Digital Administration“ oder die Vertiefungsrichtung „Cyber Security“ zu absolvieren. Welche Studierenden welche Vertiefungsrichtung absolvieren, gibt die Hochschule mit der Einstellungszusage bekannt.
 
 § 24 - Module
 
@@ -347,7 +347,7 @@ Die Studieninhalte werden in Modulen vermittelt.
 
 - 1. :: welche Module angeboten werden,
 - 2. :: welche Pflichtmodule in welchen Studienabschnitten zu absolvieren sind,
-- 3. :: welche Pflichtmodule in der Vertiefungsrichtung Digital Administration“ und welche Pflichtmodule in der Vertiefungsrichtung Cyber Security“ zu absolvieren sind,
+- 3. :: welche Pflichtmodule in der Vertiefungsrichtung „Digital Administration“ und welche Pflichtmodule in der Vertiefungsrichtung „Cyber Security“ zu absolvieren sind,
 - 4. :: die Inhalte der Pflichtmodule,
 - 5. :: die inhaltlichen Anforderungen an die Spezialmodule (§ 31),
 - 6. :: in welchen Studienabschnitten Wahlpflichtmodule eingerichtet sind,
@@ -383,11 +383,11 @@ Im Hauptstudium I sind Module aus folgenden Fachgebieten zu absolvieren:
 
 Im Hauptstudium II sind Module aus folgenden Fachgebieten zu absolvieren:
 
-- 1. :: in der Vertiefungsrichtung Digital Administration“
+- 1. :: in der Vertiefungsrichtung „Digital Administration“
   - a) :: IT-gestütztes Verwaltungsmanagement,
   - b) :: praktische Informatik,
   - c) :: angewandte Informatik und
-- 2. :: in der Vertiefungsrichtung Cyber Security“
+- 2. :: in der Vertiefungsrichtung „Cyber Security“
   - a) :: rechtliche Grundlagen der Informationssicherheit,
   - b) :: technische Informatik,
   - c) :: praktische Informatik.
@@ -501,14 +501,14 @@ Die Laufbahnprüfung besteht aus
 - 2. :: die von ihr oder ihm erreichte Punktzahl die durchschnittliche Leistung aller Klausurteilnehmerinnen und Klausurteilnehmer um nicht mehr als 22 Prozent unterschreitet.
 
 (5) Überschreitet die erreichte Punktzahl die Mindestpunktzahl, werden die Rangpunkte wie folgt vergeben:
-
+ 
 Überschreiten\\
 um ... Prozent\\
 der Differenz zwischen\\
 erreichbarer Punktzahl\\
 und Mindestpunktzahl
 Rangpunkte
-
+ 
 1
 2
  1
@@ -542,15 +542,15 @@ Rangpunkte
  8,33
 6
 11
-0 
+0  
 5
 Unterschreitet die erreichte Punktzahl die Mindestpunktzahl, werden die Rangpunkte wie folgt vergeben:
-
+ 
 Unterschreiten der\\
 Mindestpunktzahl\\
 bis ... Prozent
 Rangpunkte
-
+ 
 1
 2
 1
@@ -797,13 +797,13 @@ Die Diplomarbeit hat bestanden, wer in jedem Bestandteil der Diplomarbeit eine R
 (1) Wer die Laufbahnprüfung bestanden hat, erhält
 
 - 1. :: ein Abschlusszeugnis,
-- 2. :: eine Urkunde über die Verleihung des Diplomgrades Diplom-Verwaltungswirtin (FH) oder Diplom-Verwaltungswirt (FH),
+- 2. :: eine Urkunde über die Verleihung des Diplomgrades „Diplom-Verwaltungswirtin (FH) oder Diplom-Verwaltungswirt (FH),
 - 3. :: ein Transcript of Records und
 - 4. :: ein Diploma Supplement.
 
 (2) Das Abschlusszeugnis enthält
 
-- 1. :: die Angabe, dass die oder der Studierende das Studium im Rahmen des Vorbereitungsdienstes gehobener nichttechnischer Verwaltungsdienst des Bundes -- Fachrichtung digitale Verwaltung und Cyber-Sicherheit --“ absolviert hat,
+- 1. :: die Angabe, dass die oder der Studierende das Studium im Rahmen des Vorbereitungsdienstes „gehobener nichttechnischer Verwaltungsdienst des Bundes -- Fachrichtung digitale Verwaltung und Cyber-Sicherheit --“ absolviert hat,
 - 2. :: die Feststellung, dass die oder der Studierende die Laufbahnprüfung bestanden hat und die Befähigung für den gehobenen nichttechnischen Verwaltungsdienst des Bundes erworben hat,
 - 3. :: die Rangpunktzahl der Laufbahnprüfung und die Abschlussnote sowie
 - 4. :: das Thema, die Rangpunktzahl und die Note der Diplomarbeit.

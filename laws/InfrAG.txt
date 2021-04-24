@@ -55,7 +55,7 @@ ist eine Abgabe zu entrichten (Infrastrukturabgabe).
 - 10. :: Kraftfahrzeugen mit einem Antrieb ausschließlich durch Elektromotoren, die ganz oder überwiegend aus mechanischen oder elektrochemischen Energiespeichern oder aus emissionsfrei betriebenen Energiewandlern gespeist werden,
 - 11. :: Kraftfahrzeugen, die ein grünes Kennzeichen nach den zulassungsrechtlichen Vorschriften führen,
 - 12. :: Kraftfahrzeugen, die für schwerbehinderte Personen zugelassen sind, die durch einen Ausweis im Sinne des Neunten Buches Sozialgesetzbuch oder des Artikels 3 des Gesetzes über die unentgeltliche Beförderung Schwerbehinderter im öffentlichen Personenverkehr vom 9. Juli 1979 (BGBl. I S. 989)
-  - a) :: mit dem Merkzeichen H“, BI“ oder aG“ nachweisen, dass sie hilflos, blind oder außergewöhnlich gehbehindert sind, oder
+  - a) :: mit dem Merkzeichen „H“, „BI“ oder „aG“ nachweisen, dass sie hilflos, blind oder außergewöhnlich gehbehindert sind, oder
   - b) :: mit orangefarbenem Flächenaufdruck nachweisen, dass sie die Voraussetzungen des § 145 Absatz 1 Satz 1 des Neunten Buches Sozialgesetzbuch erfüllen, und
 - 13. :: selbstfahrenden Wohnwagen (Wohnmobilen) mit einem zulässigen Gesamtgewicht von mehr als 3 500 Kilogramm, die dem Schaustellergewerbe dienen.
 

@@ -14,11 +14,11 @@ Zulassung des Luftfahrtgeräts und Eintragung der Luftfahrzeuge
 §§ 6 bis 13
 3. Luftfahrzeugregister und Kennzeichen ...
 §§ 14 bis 19a
-
+ 
 Zweiter Abschnitt
 (weggefallen)
 §§ 20 bis 37
-
+ 
 Dritter Abschnitt
 Flugplätze
 1. Flughäfen ..............................
@@ -29,7 +29,7 @@ Flugplätze
 §§ 49 bis 53
 4. Segelfluggelände .......................
 §§ 54 bis 60
-
+ 
 Vierter Abschnitt
 Verwendung und Betrieb von Luftfahrtgerät
 1. Gewerbsmäßige Verwendung von Luftfahrzeugen .........................
@@ -52,7 +52,7 @@ Verwendung und Betrieb von Luftfahrtgerät
 §§ 90 bis 93a
 10. Einflug und Verbringung ausländischer Luftfahrzeuge in das Hoheitsgebiet der Bundesrepublik Deutschland .............
 §§ 94 bis 100a
-
+ 
 Fünfter Abschnitt
 Haftpflichtversicherung
 1. Anwendungsbereich ........................
@@ -65,14 +65,14 @@ Haftpflichtversicherung
 § 104
 5. Gemeinsame Vorschriften ..................
 §§ 105 bis 106a
-
+ 
 Sechster Abschnitt
 Kosten, Ordnungswidrigkeiten und Schlußvorschriften ........................
 §§ 107 bis 109
-
+ 
 Anlage 1
 Vorschriften über den Eintragungsschein und das Lufttüchtigkeitszeugnis sowie die Kennzeichnung von Luftfahrzeugen
-
+ 
 Anlage 2
 Zu berücksichtigende Informationen gemäß § 48c
 
@@ -943,43 +943,43 @@ für Flugzeuge, Drehflügler, Luftschiffe, Motorsegler, Segelflugzeuge und beman
 
 Flugzeuge
 
-
+ 
 
 über 20 000 Kilogramm höchstzulässige Startmasse
 
 A,
 
-
+ 
 
 von 14 000 bis 20 000 Kilogramm
 
 B,
 
-
+ 
 
 von 5 700 bis 14 000 Kilogramm
 
 C,
 
-
+ 
 
 einmotorig bis 2 000 Kilogramm
 
 E,
 
-
+ 
 
 einmotorig von 2 000 bis 5 700 Kilogramm
 
 F,
 
-
+ 
 
 mehrmotorig bis 2 000 Kilogramm
 
 G,
 
-
+ 
 
 mehrmotorig von 2 000 bis 5 700 Kilogramm
 
@@ -999,13 +999,13 @@ K,
 
 Luftsportgeräte,
 
-
+ 
 
 motorgetrieben
 
 M,
 
-
+ 
 
 nichtmotorgetrieben
 

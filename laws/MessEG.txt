@@ -6,40 +6,40 @@ Ausfertigungsdatum: 25.07.2013
 
 Inhaltsübersicht
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 § 1 - Anwendungsbereich des Gesetzes
 
@@ -124,7 +124,7 @@ Im Sinne dieses Gesetzes und der auf seiner Grundlage ergangenen Rechtsverordnun
 - 2. :: im geschäftlichen Verkehr zum Schutz des lauteren Handelsverkehrs sowie
 - 3. :: im amtlichen Verkehr und bei Messungen im öffentlichen Interesse,
 
-durch Rechtsverordnung mit Zustimmung des Bundesrates diejenigen Messgeräte näher zu bestimmen, die vom Anwendungsbereich dieses Gesetzes erfasst sind. Dabei kann die Bundesregierung auch die Begriffe amtlicher Verkehr“ und Messungen im öffentlichen Interesse“ nach Satz 1 Nummer 3 näher bestimmen. Rechtsverordnungen nach Satz 1 können auch zur Umsetzung von Rechtsakten der Europäischen Union erlassen werden.
+durch Rechtsverordnung mit Zustimmung des Bundesrates diejenigen Messgeräte näher zu bestimmen, die vom Anwendungsbereich dieses Gesetzes erfasst sind. Dabei kann die Bundesregierung auch die Begriffe „amtlicher Verkehr“ und „Messungen im öffentlichen Interesse“ nach Satz 1 Nummer 3 näher bestimmen. Rechtsverordnungen nach Satz 1 können auch zur Umsetzung von Rechtsakten der Europäischen Union erlassen werden.
 
 (2) Die Bundesregierung wird ermächtigt, zur Umsetzung von Rechtsakten der Europäischen Union durch Rechtsverordnung mit Zustimmung des Bundesrates sonstige Messgeräte näher zu bestimmen.
 (3) Die Bundesregierung wird ferner ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Teilgeräte zu bestimmen, soweit dies mit den in Absatz 1 Satz 1 genannten Zwecken vereinbar ist. Rechtsverordnungen nach Satz 1 können auch zur Umsetzung von Rechtsakten der Europäischen Union erlassen werden.
@@ -278,7 +278,7 @@ Die Konformitätsbewertungsstellen nach § 14 Absatz 1 dürfen Bewertungen von M
 
 § 18 - Vergabe von Kennnummern
 
-(1) Die anerkennende Stelle vergibt an Konformitätsbewertungsstellen nach § 13 Absatz 1 oder § 14 Absatz 1, die nicht nach § 17 zu notifizieren sind, eine Kennnummer. Die Kennnummer besteht aus den GroDE“ und vier nachfolgenden Ziffern. Die anerkennende Stelle veröffentlicht ein Verzeichnis der Konformitätsbewertungsstellen mit den von ihr vergebenen Kennnummern sowie Angaben zu den Tätigkeiten, für die die Anerkennung ausgesprochen wurde.
+(1) Die anerkennende Stelle vergibt an Konformitätsbewertungsstellen nach § 13 Absatz 1 oder § 14 Absatz 1, die nicht nach § 17 zu notifizieren sind, eine Kennnummer. Die Kennnummer besteht aus den Großbuchstaben „DE“ und vier nachfolgenden Ziffern. Die anerkennende Stelle veröffentlicht ein Verzeichnis der Konformitätsbewertungsstellen mit den von ihr vergebenen Kennnummern sowie Angaben zu den Tätigkeiten, für die die Anerkennung ausgesprochen wurde.
 (2) Konformitätsbewertungsstellen nach § 14 Absatz 1 dürfen Bewertungen von Messgeräten, bei deren Bewertung sie die Kennnummer nach Absatz 1 verwenden, nicht vornehmen, sofern die anerkennende Stelle die Kennnummer zurückgezogen hat. Die anerkennende Stelle hat die Kennnummer zurückzuziehen, wenn die Kompetenz der Konformitätsbewertungsstelle nicht mehr gegeben ist.
 
 § 19 - Verpflichtungen der anerkannten Konformitätsbewertungsstelle

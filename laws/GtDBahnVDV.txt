@@ -59,7 +59,7 @@ Erholungsurlaub wird in Absprache mit der Ausbildungsleiterin oder dem Ausbildun
 § 6 - Bewertung der Leistungen
 
 (1) Die Leistungen der Anwärterinnen und Anwärter werden wie folgt bewertet:
-
+ 
 Prozentualer Anteil der\\
 erreichten Punktzahl\\
 an der erreichbaren Punktzahl
@@ -68,13 +68,13 @@ Rangpunkte/ Rangpunktzahl
 Note
 \\
 Notendefinition
-
+ 
 1
 2
 3
 4
  1
-100,00 bis 93,70
+100,00 bis 93,70 
 15
 sehr gut
 eine Leistung, die den Anforderungen in besonderem Maße entspricht
@@ -262,7 +262,7 @@ Die Prüfungskommission kann um bis zu drei Mitglieder erweitert werden, wenn di
 - 2. :: | die Durchschnittsrangpunktzahl\\   | mit 54 Prozent \\ |
         | der schriftlichen Abschlussprüfung |                   |
 
-  und
+  und 
 
 - 3. :: | die Durchschnittsrangpunktzahl\\ | mit 26 Prozent. |
         | der mündlichen Abschlussprüfung  |                 |

@@ -201,23 +201,23 @@ Planen und Steuern von Arbeitsabläufen; Kontrollieren und Beurteilen von Ergebn
 
 3*)
 
+ 
 
+ 
 
-
-
-
+ 
 
 - e) :: Bearbeitungsmaschinen und technische Einrichtungen betriebsbereit machen und überprüfen sowie Maßnahmen zur Fehlerbeseitigung ergreifen
 - f) :: Arbeitsschritte unter Berücksichtigung funktionaler, konstruktiver, fertigungstechnischer und wirtschaftlicher Gesichtspunkte festlegen
 - g) :: Arbeitsergebnisse zusammenführen, erbrachte Leistungen kontrollieren und anhand von Vorgaben bewerten sowie dokumentieren
 
-
+ 
 
 3*)
 
+ 
 
-
-
+ 
 
 6
 
@@ -230,11 +230,11 @@ Betriebliche und technische Kommunikation\\
 
 4*)
 
+ 
 
+ 
 
-
-
-
+ 
 
 - d) :: Informationen beschaffen und auswerten; Informations- und Kommunikationstechniken nutzen; Daten sichern und schützen
 - e) :: deutsche und fremdsprachliche Fachausdrücke anwenden
@@ -242,24 +242,24 @@ Betriebliche und technische Kommunikation\\
 - g) :: Versuche und Arbeitsabläufe protokollieren sowie Arbeitspläne erstellen und anwenden
 - h) :: mit anderen Funktionsbereichen des Betriebes zusammenarbeiten, betriebliche Kommunikation nutzen und bei Entscheidungsprozessen mitwirken
 
-
+ 
 
 4*)
 
+ 
 
-
-
+ 
 
 - i) :: Aufgaben im Team planen und umsetzen, Ergebnisse abstimmen und auswerten
 - k) :: branchenübliche Standardsoftware anwenden
 
+ 
 
-
-
+ 
 
 4*)
 
-
+ 
 
 7
 
@@ -269,22 +269,22 @@ Qualitätsmanagement\\
 - a) :: tätigkeitsbezogene Elemente des Qualitätsmanagementsystems des Betriebes anwenden
 - b) :: Prüfergebnisse auswerten und qualitätssichernde statistische Verfahren anwenden
 
+ 
 
-
-
+ 
 
 4*)
 
-
+ 
 
 - c) :: Ursachen von Fehlern und Qualitätsmängeln systematisch suchen, beseitigen und dokumentieren
 - d) :: Methoden und Instrumente des Qualitätsmanagements zur kontinuierlichen Verbesserung im eigenen Arbeitsbereich anwenden
 
+ 
 
+ 
 
-
-
-
+ 
 
 6*)
 
@@ -301,11 +301,11 @@ Bereitstellen von Werkzeugen sowie von Werk-, Betriebs- und Hilfsstoffen\\
 
 4*)
 
+ 
 
+ 
 
-
-
-
+ 
 
 9
 
@@ -317,22 +317,22 @@ Warten und Pflegen von Betriebsmitteln\\
 
 5*)
 
+ 
 
+ 
 
-
-
-
+ 
 
 - c) :: Betriebsbereitschaft der Produktionsanlagen sicherstellen, Verschleißteile austauschen und den Austausch veranlassen
 - d) :: Maschinen und technische Einrichtungen nach Wartungs- und Inspektionsplänen, insbesondere unter Berücksichtigung von Prüfwerten, von Betriebs- und Hilfsstoffen sowie der Wartungshäufigkeit, warten
 
+ 
 
-
-
+ 
 
 5*)
 
-
+ 
 
 10
 
@@ -345,32 +345,32 @@ Messen und Prüfen, Endkontrolle\\
 
 4*)
 
+ 
 
+ 
 
-
-
-
+ 
 
 - d) :: optische Eigenschaften prüfen, insbesondere Dioptrie, Achslage, Zentrierung und Addition
 - e) :: kosmetische Abweichungen feststellen, insbesondere Oberflächenfehler, Werkstofffehler und Farbabweichung
 
-
+ 
 
 4*)
 
+ 
 
-
-
+ 
 
 - f) :: Korrekturen durchführen und veranlassen
 - g) :: Endkontrolle mit Messanlagen durchführen und Messprotokolle auswerten
 - h) :: Produkte zum Versand zusammenstellen und verpacken
 
+ 
 
+ 
 
-
-
-
+ 
 
 6*)
 
@@ -389,11 +389,11 @@ Grundlagen der Metallbearbeitung\\
 
 4
 
+ 
 
+ 
 
-
-
-
+ 
 
 12
 
@@ -406,40 +406,40 @@ Bedienen von Produktionsanlagen, Überwachen von Produktionsabläufen\\
 
 6
 
+ 
 
+ 
 
-
-
-
+ 
 
 - d) :: mechanische und elektrische Sicherheitsvorrichtungen und Meldesysteme auf ihre Wirksamkeit prüfen
 - e) :: Betriebsdaten an Produktionsanlagen in Abhängigkeit von Werkzeug, Werkstück sowie Verfahrenstechnik einhalten
 
-
+ 
 
 7
 
+ 
 
-
-
+ 
 
 - f) :: Produktionsprozesse und Funktionsmerkmale nach Vorgaben überwachen, einhalten und ändern
 
+ 
 
-
-
+ 
 
 8
 
-
+ 
 
 - g) :: Störungen im Materialfluss und an Produktionsanlagen feststellen, eingrenzen und beheben und deren Behebung veranlassen
 
+ 
 
+ 
 
-
-
-
+ 
 
 4
 
@@ -456,29 +456,29 @@ Bearbeiten von Brillengläsern\\
 
 16
 
+ 
 
+ 
 
-
-
-
+ 
 
 - f) :: Rohlinge unter Berücksichtigung der Art und Beschaffenheit läppen und polieren
 
-
+ 
 
 8
 
+ 
 
-
-
+ 
 
 - g) :: Brillengläser formranden
 
+ 
 
+ 
 
-
-
-
+ 
 
 2
 
@@ -493,22 +493,22 @@ Reinigen von Gläsern\\
 
 6
 
+ 
 
+ 
 
-
-
-
+ 
 
 - d) :: Reinigungsbäder nach betrieblichen Vorschriften ansetzen und prüfen, Reinigungsmittel einer umweltgerechten Entsorgung zuführen
 - e) :: Hilfsmittel vor Bestückung der Reinigungsanlage auswählen, Reinigungsanlage bestücken und bedienen
 
+ 
 
-
-
+ 
 
 4
 
-
+ 
 
 15
 
@@ -520,24 +520,24 @@ Oberflächenveredlung\\
 - c) :: Brillengläser nach Vorgabe färben und Transmissionstest durchführen
 - d) :: Brillengläser auf Farbgleichheit prüfen
 
+ 
 
-
-
+ 
 
 5
 
-
+ 
 
 - e) :: Beschichtungsmaterialien unterscheiden und den Verfahren zuordnen
 - f) :: Brillengläser zum Beschichten vorbereiten
 - g) :: Beschichtungsanlagen prozessbezogen vorbereiten, bestücken und bedienen
 - h) :: Oberflächen nach der Beschichtung auf Festigkeit, Reflexion und Transmission prüfen
 
+ 
 
+ 
 
-
-
-
+ 
 
 15
 
@@ -554,11 +554,11 @@ Kundenberatung\\
 - f) :: Wartungs- und Pflegehinweise erläutern
 - g) :: Auswirkungen der Kundenzufriedenheit auf das Betriebsergebnis darstellen
 
+ 
 
+ 
 
-
-
-
+ 
 
 15
 

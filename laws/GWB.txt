@@ -10,7 +10,7 @@ Teil 1
  Wettbewerbsbeschränkungen
 Kapitel 1
 Wettbewerbsbeschränkende Vereinbarungen, Beschlüsse und abgestimmte Verhaltensweisen
-
+ 
 § 1
 Verbot wettbewerbsbeschränkender Vereinbarungen
 § 2
@@ -19,10 +19,10 @@ Freigestellte Vereinbarungen
 Mittelstandskartelle
 §§ 4 bis 17
 (weggefallen)
-
+ 
  Kapitel 2
 Marktbeherrschung, sonstiges wettbewerbsbeschränkendes Verhalten
-
+ 
 § 18
 Marktbeherrschung
 § 19
@@ -33,18 +33,18 @@ Missbräuchliches Verhalten von Unternehmen mit überragender marktübergreifend
 Verbotenes Verhalten von Unternehmen mit relativer oder überlegener Marktmacht
 § 21
 Boykottverbot, Verbot sonstigen wettbewerbsbeschränkenden Verhaltens
-
+ 
 Kapitel 3
 Anwendung des europäischen Wettbewerbsrechts
-
+ 
 § 22
 Verhältnis dieses Gesetzes zu den Artikeln 101 und 102 des Vertrages über die Arbeitsweise der Europäischen Union
 § 23
 (weggefallen)
-
+ 
 Kapitel 4
 Wettbewerbsregeln
-
+ 
 § 24
 Begriff, Antrag auf Anerkennung
 § 25
@@ -53,10 +53,10 @@ Stellungnahme Dritter
 Anerkennung
 § 27
 Veröffentlichung von Wettbewerbsregeln, Bekanntmachungen
-
+ 
 Kapitel 5
 Sonderregeln für bestimmte Wirtschaftsbereiche
-
+ 
 § 28
 Landwirtschaft
 § 29
@@ -69,12 +69,12 @@ Verträge der Wasserwirtschaft
 Wasserwirtschaft, Meldepflicht
 § 31b
 Wasserwirtschaft, Aufgaben und Befugnisse der Kartellbehörde, Sanktionen
-
+ 
  Kapitel 6
 Befugnisse der Kartellbehörden, Schadensersatz und Vorteilsabschöpfung
 Abschnitt 1
 Befugnisse der Kartellbehörden
-
+ 
 § 32
 Abstellung und nachträgliche Feststellung von Zuwiderhandlungen
 § 32a
@@ -87,10 +87,10 @@ Kein Anlass zum Tätigwerden
 Entzug der Freistellung
 § 32e
 Untersuchungen einzelner Wirtschaftszweige und einzelner Arten von Vereinbarungen
-
+ 
 Abschnitt 2
 Schadensersatz und Vorteilsabschöpfung
-
+ 
 § 33
 Unterlassungsanspruch, Schadensersatzpflicht
 § 33a
@@ -113,10 +113,10 @@ Verjährung
 Vorteilsabschöpfung durch die Kartellbehörde
 § 34a
 Vorteilsabschöpfung durch Verbände
-
+ 
 Kapitel 7
  Zusammenschlusskontrolle
-
+ 
 § 35
 Geltungsbereich der Zusammenschlusskontrolle
 § 36
@@ -139,10 +139,10 @@ Ministererlaubnis
 Bekanntmachungen
 § 43a
 Evaluierung
-
+ 
 Kapitel 8
 Monopolkommission
-
+ 
 § 44
 Aufgaben
 § 45
@@ -151,12 +151,12 @@ Mitglieder
 Beschlüsse, Organisation, Rechte und Pflichten der Mitglieder
 § 47
 Übermittlung statistischer Daten
-
+ 
 Kapitel 9
 Markttransparenzstellen für den Großhandel mit Strom und Gas und für Kraftstoffe
 Abschnitt 1
 Markttransparenzstelle für den Großhandel im Bereich Strom und Gas
-
+ 
 § 47a
 Einrichtung, Zuständigkeit, Organisation
 § 47b
@@ -177,34 +177,34 @@ Berichtspflichten, Veröffentlichungen
 Zusammenarbeit mit anderen Behörden und Aufsichtsstellen
 § 47j
 Vertrauliche Informationen, operationelle Zuverlässigkeit, Datenschutz
-
+ 
 Abschnitt 2
 Markttransparenzstelle für Kraftstoffe
-
+ 
 § 47k
 Marktbeobachtung im Bereich Kraftstoffe
-
+ 
 Abschnitt 3
 Evaluierung
-
+ 
 § 47l
 Evaluierung der Markttransparenzstellen
-
+ 
 Teil 2
 Kartellbehörden
 Kapitel 1
 Allgemeine Vorschriften
-
+ 
 § 48
 Zuständigkeit
 § 49
 Bundeskartellamt und oberste Landesbehörde
 § 50
 Vollzug des europäischen Rechts
-
+ 
 Kapitel 2
 Behördenzusammenarbeit
-
+ 
 § 50a
 Ermittlungen im Netzwerk der europäischen Wettbewerbsbehörden
 § 50b
@@ -217,24 +217,24 @@ Informationsaustausch im Netzwerk der europäischen Wettbewerbsbehörden
 Sonstige Zusammenarbeit mit ausländischen Wettbewerbsbehörden
 § 50f
 Zusammenarbeit mit anderen Behörden
-
+ 
 Kapitel 3
 Bundeskartellamt
-
+ 
 § 51
 Sitz, Organisation
 § 52
 Veröffentlichung allgemeiner Weisungen
 § 53
 Tätigkeitsbericht und Monitoringberichte
-
+ 
 Teil 3
 Verfahren
 Kapitel 1
  Verwaltungssachen
 Abschnitt 1
 Verfahren vor den Kartellbehörden
-
+ 
 § 54
 Einleitung des Verfahrens, Beteiligte, Beteiligtenfähigkeit
 § 55
@@ -257,10 +257,10 @@ Einstweilige Anordnungen
 Verfahrensabschluss, Begründung der Verfügung, Zustellung
 § 62
 Gebührenpflichtige Handlungen
-
+ 
 Abschnitt 2
 Gemeinsame Bestimmungen für Rechtsbehelfsverfahren
-
+ 
 § 63
 Beteiligte am Rechtsbehelfsverfahren, Beteiligtenfähigkeit
 § 64
@@ -281,10 +281,10 @@ Akteneinsicht
 Kostentragung und -festsetzung
 § 72
 Geltung von Vorschriften des Gerichtsverfassungsgesetzes und der Zivilprozessordnung
-
+ 
 Abschnitt 3
 Beschwerde
-
+ 
 § 73
 Zulässigkeit, Zuständigkeit
 § 74
@@ -293,10 +293,10 @@ Frist und Form
 Untersuchungsgrundsatz
 § 76
 Beschwerdeentscheidung
-
+ 
 Abschnitt 4
 Rechtsbeschwerde und Nichtzulassungsbeschwerde
-
+ 
 § 77
 Zulassung, absolute Rechtsbeschwerdegründe
 § 78
@@ -305,12 +305,12 @@ Nichtzulassungsbeschwerde
 Rechtsbeschwerdeberechtigte, Form und Frist
 § 80
 Rechtsbeschwerdeentscheidung
-
+ 
 Kapitel 2
 Bußgeldsachen
 Abschnitt 1
 Bußgeldvorschriften
-
+ 
 § 81
 Bußgeldtatbestände
 § 81a
@@ -327,10 +327,10 @@ Ausfallhaftung im Übergangszeitraum
 Verzinsung der Geldbuße
 § 81g
 Verjährung der Geldbuße
-
+ 
 Abschnitt 2
 Kronzeugenprogramm
-
+ 
 § 81h
 Ziel und Anwendungsbereich
 § 81i
@@ -345,10 +345,10 @@ Ermäßigung der Geldbuße
 Marker
 § 81n
 Kurzantrag
-
+ 
 Abschnitt 3
 Bußgeldverfahren
-
+ 
 § 82
 Zuständigkeiten in Kartellbußgeldsachen
 § 82a
@@ -363,16 +363,16 @@ Rechtsbeschwerde zum Bundesgerichtshof
 Wiederaufnahmeverfahren gegen Bußgeldbescheid
 § 86
 Gerichtliche Entscheidung bei der Vollstreckung
-
+ 
 Kapitel 3
 Vollstreckung
-
+ 
 § 86a
 Vollstreckung
-
+ 
 Kapitel 4
  Bürgerliche Rechtsstreitigkeiten
-
+ 
 § 87
 Ausschließliche Zuständigkeit der Landgerichte
 § 88
@@ -389,10 +389,10 @@ Offenlegung aus der Behördenakte
 Beweisregeln
 § 89e
 Gemeinsame Vorschriften für die §§ 33g und 89b bis 89d
-
+ 
  Kapitel 5
  Gemeinsame Bestimmungen
-
+ 
 § 90
 Benachrichtigung und Beteiligung der Kartellbehörden
 § 90a
@@ -409,14 +409,14 @@ Kartellsenat beim Bundesgerichtshof
 Ausschließliche Zuständigkeit
 § 96
 (weggefallen)
-
+ 
 Teil 4
 Vergabe von öffentlichen Aufträgen und Konzessionen
 Kapitel 1
 Vergabeverfahren
 Abschnitt 1
 Grundsätze, Definitionen und Anwendungsbereich
-
+ 
 § 97
 Grundsätze der Vergabe
 § 98
@@ -453,12 +453,12 @@ Vergabe von öffentlichen Aufträgen und Konzessionen, die verschiedene Tätigke
 Verordnungsermächtigung
 § 114
 Monitoring und Vergabestatistik
-
+ 
 Abschnitt 2
 Vergabe von öffentlichen Aufträgen durch öffentliche Auftraggeber
 Unterabschnitt 1
 Anwendungsbereich
-
+ 
 § 115
 Anwendungsbereich
 § 116
@@ -467,10 +467,10 @@ Besondere Ausnahmen
 Besondere Ausnahmen für Vergaben, die Verteidigungs- oder Sicherheitsaspekte umfassen
 § 118
 Bestimmten Auftragnehmern vorbehaltene öffentliche Aufträge
-
+ 
 Unterabschnitt 2
 Vergabeverfahren und Auftragsausführung
-
+ 
 § 119
 Verfahrensarten
 § 120
@@ -505,12 +505,12 @@ Kündigung von öffentlichen Aufträgen in besonderen Fällen
 Informations- und Wartepflicht
 § 135
 Unwirksamkeit
-
+ 
 Abschnitt 3
 Vergabe von öffentlichen Aufträgen in besonderen Bereichen und von Konzessionen
 Unterabschnitt 1
 Vergabe von öffentlichen Aufträgen durch Sektorenauftraggeber
-
+ 
 § 136
 Anwendungsbereich
 § 137
@@ -527,10 +527,10 @@ Verfahrensarten
 Sonstige anwendbare Vorschriften
 § 143
 Regelung für Auftraggeber nach dem Bundesberggesetz
-
+ 
 Unterabschnitt 2
 Vergabe von verteidigungs- oder sicherheitsspezifischen öffentlichen Aufträgen
-
+ 
 § 144
 Anwendungsbereich
 § 145
@@ -539,10 +539,10 @@ Besondere Ausnahmen für die Vergabe von verteidigungs- oder sicherheitsspezifis
 Verfahrensarten
 § 147
 Sonstige anwendbare Vorschriften
-
+ 
 Unterabschnitt 3
 Vergabe von Konzessionen
-
+ 
 § 148
 Anwendungsbereich
 § 149
@@ -557,12 +557,12 @@ Anforderungen im Konzessionsvergabeverfahren
 Vergabe von Konzessionen über soziale und andere besondere Dienstleistungen
 § 154
 Sonstige anwendbare Vorschriften
-
+ 
 Kapitel 2
 Nachprüfungsverfahren
 Abschnitt 1
 Nachprüfungsbehörden
-
+ 
 § 155
 Grundsatz
 § 156
@@ -573,10 +573,10 @@ Besetzung, Unabhängigkeit
 Einrichtung, Organisation
 § 159
 Abgrenzung der Zuständigkeit der Vergabekammern
-
+ 
 Abschnitt 2
 Verfahren vor der Vergabekammer
-
+ 
 § 160
 Einleitung, Antrag
 § 161
@@ -599,10 +599,10 @@ Entscheidung der Vergabekammer
 Aussetzung des Vergabeverfahrens
 § 170
 Ausschluss von abweichendem Landesrecht
-
+ 
 Abschnitt 3
 Sofortige Beschwerde
-
+ 
 § 171
 Zulässigkeit, Zuständigkeit
 § 172
@@ -631,16 +631,16 @@ Kosten des Verfahrens vor der Vergabekammer
 Korrekturmechanismus der Kommission
 § 184
 Unterrichtungspflichten der Nachprüfungsinstanzen
-
+ 
 Teil 5
 Anwendungsbereich der Teile 1 bis 3
-
+ 
 § 185
 Unternehmen der öffentlichen Hand, Geltungsbereich
-
+ 
 Teil 6
 Übergangs- und Schlussbestimmungen
-
+ 
 § 186
 Übergangsbestimmungen
 
@@ -2536,7 +2536,7 @@ Als Sektorentätigkeiten gelten auch Tätigkeiten nach Satz 1, die im Zusammenha
 - 1. :: der Förderung von Öl oder Gas oder
 - 2. :: der Exploration oder Förderung von Kohle oder anderen festen Brennstoffen.
 
-(7) Für die Zwecke der Absätze 1 bis 3 umfasst der Begriff Einspeisung“ die Erzeugung und Produktion sowie den Groß- und Einzelhandel. Die Erzeugung von Gas fällt unter Absatz 6.
+(7) Für die Zwecke der Absätze 1 bis 3 umfasst der Begriff „Einspeisung“ die Erzeugung und Produktion sowie den Groß- und Einzelhandel. Die Erzeugung von Gas fällt unter Absatz 6.
 (+++ § 102: Zur Anwendung vgl. § 41 Abs. 2 MessbG +++)
 
 § 103 - Öffentliche Aufträge, Rahmenvereinbarungen und Wettbewerbe

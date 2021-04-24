@@ -10,7 +10,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 Inhaltsübersicht
 
-
+ 
 Abschnitt 1\\
 Allgemeine Vorschriften
 § 1
@@ -19,8 +19,8 @@ Ziel und Anwendungsbereich des Gesetzes
 Begriffsbestimmungen
 § 2
 Aufklärung der Bevölkerung, Erklärung zur Organ- und Gewebespende, Organ- und Gewebespenderegister, Organ- und Gewebespendeausweis
-
-
+ 
+ 
 Abschnitt 2\\
 Entnahme von Organen\\
 und Geweben bei toten Spendern
@@ -36,8 +36,8 @@ Nachweisverfahren
 Achtung der Würde des Organ- und Gewebespenders
 § 7
 Datenverarbeitung, Auskunftspflicht
-
-
+ 
+ 
 Abschnitt 3\\
 Entnahme von Organen\\
 und Geweben bei lebenden Spendern
@@ -49,8 +49,8 @@ Entnahme von Knochenmark bei minderjährigen Personen
 Entnahme von Organen und Geweben in besonderen Fällen
 § 8c
 Entnahme von Organen und Geweben zur Rückübertragung
-
-
+ 
+ 
 Abschnitt 3a\\
 Gewebeeinrichtungen,\\
 Untersuchungslabore, Register
@@ -60,8 +60,8 @@ Besondere Pflichten der Gewebeeinrichtungen
 Untersuchungslabore
 § 8f
 (weggefallen)
-
-
+ 
+ 
 Abschnitt 4\\
 Entnahme, Vermittlung und\\
 Übertragung von Organen, Zusammenarbeit\\
@@ -84,8 +84,8 @@ Zusammenarbeit bei der Entnahme von Organen und Geweben, Koordinierungsstelle
 Organvermittlung, Vermittlungsstelle
 § 12a
 Angehörigenbetreuung
-
-
+ 
+ 
 Abschnitt 5\\
 Meldungen, Dokumentation,\\
 Rückverfolgung, Datenschutz, Fristen
@@ -101,9 +101,9 @@ Rückverfolgungsverfahren bei Geweben
 Datenschutz
 § 15
 Aufbewahrungs- und Löschungsfristen
-
-
-
+ 
+ 
+ 
 Abschnitt 5a\\
 Transplantationsregister
 § 15a
@@ -124,8 +124,8 @@ Datenübermittlung durch die Transplantationsregisterstelle zu Forschungszwecken
 Aufbewahrungs- und Löschungsfristen
 § 15i
 Verordnungsermächtigungen
-
-
+ 
+ 
 Abschnitt 5b\\
 Richtlinien zum Stand\\
 der Erkenntnisse der medizinischen\\
@@ -136,14 +136,14 @@ Richtlinien zum Stand der Erkenntnisse der medizinischen Wissenschaft bei Organe
 Verordnungsermächtigung
 § 16b
 Richtlinien zum Stand der Erkenntnisse der medizinischen Wissenschaft zur Entnahme von Geweben und deren Übertragung
-
-
+ 
+ 
 Abschnitt 6\\
 Verbotsvorschriften
 § 17
 Verbot des Organ- und Gewebehandels
-
-
+ 
+ 
 Abschnitt 7\\
 Straf- und Bußgeldvorschriften
 § 18
@@ -152,8 +152,8 @@ Organ- und Gewebehandel
 Weitere Strafvorschriften
 § 20
 Bußgeldvorschriften
-
-
+ 
+ 
 Abschnitt 8\\
 Schlussvorschriften
 § 21

@@ -452,7 +452,7 @@ Anlage 2 - (zu § 3)Digitales Tachographensystem im StraßenverkehrPolicy für d
   - • :: VO (EG) 2135/98
   - • :: VO (EG) 1360/2002
   - • :: VO (EG) 561/2006
-  - • :: Common Security Guideline“.<<FnR.f770348_01>>[[#f770348_01][1)]]} .
+  - • :: „Common Security Guideline“.<<FnR.f770348_01>>[[#f770348_01][1)]]} .
 - 1.1 :: Zuständige Organisationen
   Das Tachographen-System verfügt über folgende Organisation<<FnR.f770348_02>>[[#f770348_02][2)]]} :
   [[../normengrafiken/bgbl1_2008/j0054-1_0010.jpg]]
@@ -651,7 +651,7 @@ Anlage 2 - (zu § 3)Digitales Tachographensystem im StraßenverkehrPolicy für d
   Die D-CA stellt die Vertraulichkeit und Integrität aller bei ihr erzeugten, verwendeten und/oder gespeicherten nichtöffentlicher Schlüssel sicher und verhindert wirksam jeglichen Missbrauch dieser Schlüssel. Hierzu hat sie besonders geeignete technische Systeme einzusetzen, die eine der folgenden Anforderungen erfüllen:
   - • :: FIPS 140-2 (oder 140-1); Level 3 oder höher [FIPS],
   - • :: CEN Workshop Agreement 14176-2 [CEN],
-  - • :: Zertifizierung nach EAL 4 oder höher [CC] in Verbindung mit ISO 15408 [CC] oder E3 oder höher [ITSEC] auf der Grundlage eines Schutzprofils oder von Sicherheitsvorgaben (security targets“), die die Anforderungen dieser D-MSA-Policy -- basierend auf einer umfassenden Risikoanalyse -- auch infrastrukturelle und nichttechnische Sicherheitsmaßnahmen erfasst,
+  - • :: Zertifizierung nach EAL 4 oder höher [CC] in Verbindung mit ISO 15408 [CC] oder E3 oder höher [ITSEC] auf der Grundlage eines Schutzprofils oder von Sicherheitsvorgaben („security targets“), die die Anforderungen dieser D-MSA-Policy -- basierend auf einer umfassenden Risikoanalyse -- auch infrastrukturelle und nichttechnische Sicherheitsmaßnahmen erfasst,
   - • :: äquivalente Sicherheitskriterien, die nachweislich eine gleichwertige Sicherheit gewährleisten.
 
   Ebenso ist aufzuzeigen, dass diese Systeme bei der D-CA in einer ausreichend sicheren Betriebsumgebung eingesetzt werden.
@@ -676,7 +676,7 @@ Anlage 2 - (zu § 3)Digitales Tachographensystem im StraßenverkehrPolicy für d
   [r6.9]
   Die D-CA hat den privaten Schlüssel und alle Ersatzschlüssel durch technisch-organisatorische Maßnahmen wirksam vor Missbrauch, Veränderung und unbefugter Kenntnisnahme zu schützen.
   [r6.10]
-  Die D-CA verhindert durch technisch-organisatorische Ma4-Augen-Prinzip“).
+  Die D-CA verhindert durch technisch-organisatorische Maßnahmen wirkungsvoll, dass ein Zugriff auf MS.SK durch eine einzelne Person allein erfolgen kann („4-Augen-Prinzip“).
   [r6.11]
   Es findet keine Schlüsselhinterlegung von MS.SK statt, d. h. einschließlich Geräteschlüssel.
   [r6.12]
@@ -729,7 +729,7 @@ Anlage 2 - (zu § 3)Digitales Tachographensystem im StraßenverkehrPolicy für d
   [r7.7]
   Die D-CA stellt sicher, dass innerhalb ihres Verantwortungsbereiches das Auftreten von Schlüsselduplikaten mit hoher Wahrscheinlichkeit ausgeschlossen ist.
   [r7.8]
-  Die Schlüsselerzeugung kann auf Vorrat erfolgen (Batch-Verfahren“), sofern durch technisch-organisatorische Maßnahmen sichergestellt ist, dass ein Missbrauch der vorgehaltenen Schlüsselpaare wirksam verhindert wird. Der Schlüsselvorrat darf die Produktionsmenge eines Monats nicht überschreiten.
+  Die Schlüsselerzeugung kann auf Vorrat erfolgen („Batch-Verfahren“), sofern durch technisch-organisatorische Maßnahmen sichergestellt ist, dass ein Missbrauch der vorgehaltenen Schlüsselpaare wirksam verhindert wird. Der Schlüsselvorrat darf die Produktionsmenge eines Monats nicht überschreiten.
 - 7.3 :: Schlüsselverwendung
   [r7.9]
   D-MSA, D-CA, D-CP und Hersteller stellen innerhalb ihres Einflussbereiches sicher, dass die jeweiligen privaten Schlüssel ausschließlich zum Zwecke ihrer Bestimmung gemäß der VO (EG) 3821/85, VO (EG) 2135/98 und VO (EG) 1360/2002 genutzt werden können. Dies schließt insbesondere ein, dass nach Beendigung des Personalisierungsvorgangs keine Kopien dieser Schlüssel außerhalb der gesicherten Umgebungen der Kontrollkarten und Kontrollgeräte existieren.
@@ -745,7 +745,7 @@ Anlage 2 - (zu § 3)Digitales Tachographensystem im StraßenverkehrPolicy für d
   [r8.1]
   Die D-CA stellt innerhalb ihres Einflussbereichs sicher, dass vor der Ausstellung eines Zertifikats eine ordnungsgemäße Registrierung des D-CP bzw. des Herstellers von Fahrzeugeinheiten in den dafür zuständigen Stellen stattgefunden hat.
   [r8.2]
-  Insbesondere stellt dabei der D-CP sicher, dass die Registrierungsdaten eine eindeutige Zuweisung der Certificate Holder Reference“ nach Anforderung CSM_017 aus Anlage 11 zu Anhang I (B) der VO (EG) 2135/98 ermöglicht.
+  Insbesondere stellt dabei der D-CP sicher, dass die Registrierungsdaten eine eindeutige Zuweisung der „Certificate Holder Reference“ nach Anforderung CSM_017 aus Anlage 11 zu Anhang I (B) der VO (EG) 2135/98 ermöglicht.
   [r8.3]
   Sofern die Schlüsselgenerierung außerhalb der D-CA stattfindet, erstellt die D-CA das beantragte Zertifikat nur dann, wenn der D-CP bzw. der Hersteller von Fahrzeugeinheiten gemäß einem vorab vereinbarten Verfahren nachgewiesen hat, dass er über den zugehörigen privaten Schlüssel verfügt. Der private Schlüssel soll dabei die gesicherte Umgebung der Schlüsselgenerierung nicht verlassen.
 - 8.2 :: Zertifikatserteilung
@@ -1072,9 +1072,9 @@ Anlage 2 - (zu § 3)Digitales Tachographensystem im StraßenverkehrPolicy für d
 | Privater Schlüssel     | In der asymmetrischen Kryptographie der private (geheime) Teil eines Schlüsselpaars. Dieser dient meistens zur Erzeugung einer digitalen Signatur oder zur Entschlüsselung einer Nachricht.\\                                                                                                                                 |
 |                        | (s. auch Öffentlicher Schlüssel)                                                                                                                                                                                                                                                                                              |
 | PS                     | Das Practice Statement der D-CA, des D-CP, der Hersteller von Fahrzeugeinheiten und der Hersteller von Weg-/Geschwindigkeitsgebern, wie es in Kapitel 4 der D-MSA-Policy definiert ist.\\                                                                                                                                     |
-|                        | Im internationalen Kontext ist dafür die Bezeichnung Certification Practice Statement (CPS)“ gebräuchlich.                                                                                                                                                                                                                   |
+|                        | Im internationalen Kontext ist dafür die Bezeichnung „Certification Practice Statement (CPS)“ gebräuchlich.                                                                                                                                                                                                                   |
 | Root-CA                | Die europäische Zertifizierungsstelle für den elektronischen Fahrtenschreiber gemäß der VO (EG) 3821/85, VO (EG) 2135/98 und VO (EG) 1360/2002.                                                                                                                                                                               |
-| Root-Policy            | Digital Tachograph System -- European Root Policy“ erstellt vom JRC in Ispra.                                                                                                                                                                                                                                                |
+| Root-Policy            | „Digital Tachograph System -- European Root Policy“ erstellt vom JRC in Ispra.                                                                                                                                                                                                                                                |
 | RSA                    | Spezielles Verfahren der asymmetrischen Kryptographie. Gemäß Anlage 11 des Anhangs I (B) der VO (EG) 2135/98 wird im elektronischen Fahrtenschreiber das RSA-Verfahren zur Erstellung digitaler Signaturen eingesetzt.                                                                                                        |
 | SysAdmin               | Der Systemadministrator des D-CP                                                                                                                                                                                                                                                                                              |
 | Zertifikat             | In der asymmetrischen Kryptographie wird durch ein Z. die Bindung eines öffentlichen Schlüssels an eine im Z. bezeichnete Identität (Person, Organisation, Maschine usw.), die sich im Besitz des zugehörigen privaten Schlüssels befindet, bestätigt.\\                                                                      |

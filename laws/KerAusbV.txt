@@ -82,7 +82,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 (1) Zur Ermittlung des Ausbildungsstands ist eine Zwischenprüfung durchzuführen. Sie soll zum Ende des zweiten Ausbildungsjahres stattfinden.
 (2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für die ersten drei Ausbildungshalbjahre aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
-(3) Die Zwischenprüfung findet im Prüfungsbereich Erstellen keramischer Gegenstände“ statt. Für diesen Prüfungsbereich bestehen folgende Vorgaben:
+(3) Die Zwischenprüfung findet im Prüfungsbereich „Erstellen keramischer Gegenstände“ statt. Für diesen Prüfungsbereich bestehen folgende Vorgaben:
 
 - 1. :: der Prüfling soll nachweisen, dass er
   - a) :: Skizzen anfertigen,
@@ -128,7 +128,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 - 3. :: Keramische Technologie und Gestaltung,
 - 4. :: Wirtschafts- und Sozialkunde.
 
-(4) Für den Prüfungsbereich Herstellen eines keramischen Produkts“ bestehen folgende Vorgaben:
+(4) Für den Prüfungsbereich „Herstellen eines keramischen Produkts“ bestehen folgende Vorgaben:
 
 - 1. :: der Prüfling soll nachweisen, dass er
   - a) :: Werkzeichnungen anfertigen und anwenden,
@@ -148,7 +148,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 - 3. :: der Prüfling soll Prüfungsstücke herstellen, mit praxisbezogenen Unterlagen dokumentieren und hierüber ein auftragsbezogenes Fachgespräch führen. Dabei sind die in den Wahlqualifikationen erworbenen Fertigkeiten, Kenntnisse und Fähigkeiten zu berücksichtigen;
 - 4. :: die Prüfungszeit beträgt insgesamt 24 Stunden; innerhalb dieser Zeit soll das Fachgespräch in höchstens 20 Minuten durchgeführt werden.
 
-(5) Für den Prüfungsbereich Herstellen von keramischen Roherzeugnissen“ bestehen folgende Vorgaben:
+(5) Für den Prüfungsbereich „Herstellen von keramischen Roherzeugnissen“ bestehen folgende Vorgaben:
 
 - 1. :: der Prüfling soll nachweisen, dass er
   - a) :: keramische Formlinge nach Vorgaben herstellen oder dekorieren,
@@ -177,7 +177,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 - 3. :: der Prüfling soll eine Arbeitsaufgabe, die aus mehreren Teilen bestehen kann, durchführen. Dabei sind die in den Wahlqualifikationen erworbenen Fertigkeiten, Kenntnisse und Fähigkeiten zu berücksichtigen;
 - 4. :: die Prüfungszeit beträgt fünf Stunden.
 
-(6) Für den Prüfungsbereich Keramische Technologie und Gestaltung“ bestehen folgende Vorgaben:
+(6) Für den Prüfungsbereich „Keramische Technologie und Gestaltung“ bestehen folgende Vorgaben:
 
 - 1. :: der Prüfling soll nachweisen, dass er
   - a) :: Rohstoff- und Werkstoffeigenschaften bestimmen,
@@ -193,28 +193,28 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 - 2. :: der Prüfling soll praxisbezogene Aufgaben schriftlich bearbeiten;
 - 3. :: die Prüfungszeit beträgt 210 Minuten.
 
-(7) Für den Prüfungsbereich Wirtschafts- und Sozialkunde“ bestehen folgende Vorgaben:
+(7) Für den Prüfungsbereich „Wirtschafts- und Sozialkunde“ bestehen folgende Vorgaben:
 
 - 1. :: der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann;
 - 2. :: der Prüfling soll praxisbezogene Aufgaben schriftlich bearbeiten;
 - 3. :: die Prüfungszeit beträgt 60 Minuten.
 
 (8) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:\\
-| 1. Prüfungsbereich Herstellen eines keramischen Produkts“      | 15 Prozent, |
-| 2. Prüfungsbereich Herstellen von keramischen Roherzeugnissen“ | 45 Prozent, |
-| 3. Prüfungsbereich Keramische Technologie und Gestaltung“      | 30 Prozent, |
-| 4. Prüfungsbereich Wirtschafts- und Sozialkunde“               | 10 Prozent. |
+| 1. Prüfungsbereich „Herstellen eines keramischen Produkts“      | 15 Prozent, |
+| 2. Prüfungsbereich „Herstellen von keramischen Roherzeugnissen“ | 45 Prozent, |
+| 3. Prüfungsbereich „Keramische Technologie und Gestaltung“      | 30 Prozent, |
+| 4. Prüfungsbereich „Wirtschafts- und Sozialkunde“               | 10 Prozent. |
 
 (9) Die Gesellenprüfung ist bestanden, wenn die Leistungen
 
-- 1. :: im Gesamtergebnis mit mindestens ausreichend“,
-- 2. :: im Prüfungsbereich Herstellen von keramischen Roherzeugnissen“ mit mindestens ausreichend“,
-- 3. :: in mindestens zwei der übrigen Prüfungsbereiche mit mindestens ausreichend“ und
-- 4. :: in keinem Prüfungsbereich mit ungenügend“
+- 1. :: im Gesamtergebnis mit mindestens „ausreichend“,
+- 2. :: im Prüfungsbereich „Herstellen von keramischen Roherzeugnissen“ mit mindestens „ausreichend“,
+- 3. :: in mindestens zwei der übrigen Prüfungsbereiche mit mindestens „ausreichend“ und
+- 4. :: in keinem Prüfungsbereich mit „ungenügend“
 
 bewertet worden sind.
 
-(10) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als ausreichend“ bewerteten Prüfungsbereiche, in denen die Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
+(10) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen die Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
 § 8 - Bestehende Berufsausbildungsverhältnisse
 
@@ -269,7 +269,7 @@ Abschnitt A Nummer 1)
 
 2
 
-
+ 
 
 2
 
@@ -285,7 +285,7 @@ Abschnitt A Nummer 2)
 
 2
 
-
+ 
 
 3
 
@@ -302,11 +302,11 @@ Abschnitt A Nummer 3)
 
 8
 
-
+ 
 
 - e) :: Rohlinge zuschneiden, anpassen, verbinden und verputzen
 
-
+ 
 
 7
 
@@ -323,7 +323,7 @@ Abschnitt A Nummer 4)
 
 2
 
-
+ 
 
 5
 
@@ -336,11 +336,11 @@ Abschnitt A Nummer 5)\\
 
 7
 
-
+ 
 
 - b) :: Oberflächen gestalten, Glasuren und Dekore entwickeln und ausführen
 
-
+ 
 
 8
 
@@ -355,11 +355,11 @@ Abschnitt A Nummer 6)
 
 4
 
-
+ 
 
 - c) :: Brennöfen bedienen und Brennvorgänge überwachen
 
-
+ 
 
 4
 
@@ -373,11 +373,11 @@ Abschnitt A Nummer 7)
 
 2
 
-
+ 
 
 - b) :: Brenn- und Oberflächenfehler erkennen, Maßnahmen zur Fehlerbeseitigung ergreifen
 
-
+ 
 
 \\
 2
@@ -426,7 +426,7 @@ Abschnitt B Nummer 1)
 
 24
 
-
+ 
 
 - f) :: Entwurfs- und Arbeitszeichnungen nach eigenen Ideen und Kundenwünschen unter Berücksichtigung gestalterischer und technischer Möglichkeiten anfertigen
 - g) :: große Formen drehen
@@ -434,7 +434,7 @@ Abschnitt B Nummer 1)
 - i) :: Deckelformen drehen und anpassen
 - j) :: Ränder und Tüllen formen
 
-
+ 
 
 24
 
@@ -451,7 +451,7 @@ Abschnitt B Nummer 2)
 
 24
 
-
+ 
 
 - d) :: Formteile mit Masseblatt aufbauen und überschlagen
 - e) :: Schablonen herstellen
@@ -462,7 +462,7 @@ Abschnitt B Nummer 2)
 - j) :: geometrische Formteile aufbauen
 - k) :: figürliche Formteile und Reliefs modellieren
 
-
+ 
 
 24
 
@@ -483,11 +483,11 @@ Abschnitt B Nummer 3)
 
 24
 
+ 
 
+ 
 
-
-
-
+ 
 
 - h) :: Dekorentwürfe nach eigenen Ideen und nach Kundenwunsch unter Beachtung gestalterischer und dekortechnischer Möglichkeiten anfertigen
 - i) :: Dekorwerkzeuge, insbesondere Stempel, anfertigen
@@ -495,7 +495,7 @@ Abschnitt B Nummer 3)
 - k) :: Dekorationen eindrücken, stempeln und ritzen
 - l) :: Rohlinge, insbesondere durch Schneiden und Ausstechen, dekorieren
 
-
+ 
 
 24
 
@@ -515,12 +515,12 @@ Abschnitt B Nummer 4)
 
 12
 
-
+ 
 
 - d) :: Werkzeuge auswählen, Maschinen, Formen und Schablonen unter Berücksichtigung der geforderten Scherbendicke einrichten
 - e) :: Rohlinge nachbearbeiten
 
-
+ 
 
 12
 
@@ -536,13 +536,13 @@ Abschnitt B Nummer 5)
 
 12
 
-
+ 
 
 - d) :: Henkel für große und komplexe Formen unter Beachtung von Funktion und Ästhetik ziehen und ansetzen
 - e) :: Henkel und Formteile frei formen und angarnieren
 - f) :: Henkel und Formteile nacharbeiten
 
-
+ 
 
 12
 
@@ -558,12 +558,12 @@ Abschnitt B Nummer 6)
 
 12
 
-
+ 
 
 - c) :: ein- und mehrteilige Arbeitsformen entsprechend den Formgebungsverfahren herstellen
 - d) :: Funktionsfähigkeit von Einrichtungen und Arbeitsformen überprüfen
 
-
+ 
 
 12
 
@@ -605,17 +605,17 @@ Abschnitt C Nummer 1)
 - a) :: Bedeutung des Ausbildungsvertrags, insbesondere Abschluss, Dauer und Beendigung, erklären
 - b) :: gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
 
+ 
 
+ 
 
-
-
-
+ 
 
 - c) :: Möglichkeiten der beruflichen Fortbildung nennen
 - d) :: wesentliche Teile des Arbeitsvertrags nennen
 - e) :: wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
-
+ 
 
 2
 
@@ -630,7 +630,7 @@ Abschnitt C Nummer 2)
 - c) :: Beziehungen des ausbildenden Betriebs und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 - d) :: Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebs beschreiben
 
-
+ 
 
 3
 
@@ -675,13 +675,13 @@ Abschnitt C Nummer 5)
 
 2
 
-
+ 
 
 - d) :: Material- und Zeitbedarf ermitteln
 - e) :: Arbeitsschritte unter Berücksichtigung wirtschaftlicher und terminlicher Vorgaben planen und durchführen
 - f) :: Aufgaben im Team planen und durchführen, kulturelle Besonderheiten und Verhaltensregeln berücksichtigen
 
-
+ 
 
 2
 
@@ -697,11 +697,11 @@ Abschnitt C Nummer 6)
 
 2
 
-
+ 
 
 - d) :: Störungen an Maschinen und Einrichtungen feststellen und Maßnahmen zur Störungsbeseitigung ergreifen
 
-
+ 
 
 2
 
@@ -719,14 +719,14 @@ Abschnitt C Nummer 7)
 
 2
 
-
+ 
 
 - d) :: betriebliche Daten erfassen, bearbeiten und sichern, Datenschutz beachten
 - e) :: Richtlinien und Normen anwenden
 - f) :: technische Unterlagen und Fertigungsvorschriften anwenden
 - g) :: Sachverhalte darstellen; englische Fachbegriffe anwenden
 
-
+ 
 
 4
 
@@ -743,11 +743,11 @@ Abschnitt C Nummer 8)
 
 3
 
-
+ 
 
 - d) :: Ursachen von Fehlern und Qualitätsabweichungen feststellen, dokumentieren und Maßnahmen zur Behebung ergreifen
 
-
+ 
 
 5
 
@@ -765,7 +765,7 @@ Abschnitt C Nummer 9)
 
 6
 
-
+ 
 
 - e) :: Kundenwünsche ermitteln und Kunden hinsichtlich Realisierung und Gestaltung beraten
 - f) :: Arbeitsaufträge dokumentieren und kundenorientiert durchführen
@@ -774,17 +774,17 @@ Abschnitt C Nummer 9)
 - i) :: Produkte, insbesondere unter Beachtung der Marktentwicklung, gestalten
 - j) :: Angebote nach betrieblichen Vorgaben unter Berücksichtigung von Materialkosten, Zeitaufwand und Personalbedarf erstellen, Angebote unterbreiten
 
-
+ 
 
 8
 
+ 
 
-
-
+ 
 
 - k) :: Perspektiven, Voraussetzungen, Rahmenbedingungen, Chancen und Risiken von Selbständigkeit aufzeigen
 - l) :: rechtliche und finanzielle Bedingungen für die Gründung eines Unternehmens erläutern, Rechtsformen unterscheiden
 
+ 
 
-
-
+ 

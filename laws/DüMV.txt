@@ -32,7 +32,7 @@ Im Sinne dieser Verordnung sind:
 - 10. :: organische Substanz: über den Glühverlust ermittelte organische Kohlenstoffverbindungen tierischer und pflanzlicher Herkunft,
 - 11. :: flüssige Stoffe: Stoffe mit einem Trockenmassegehalt bis zu 15 vom Hundert, soweit
   - a) :: keine abweichenden Vorgaben zur Abgrenzung bei einzelnen Düngemitteln nach Anlage 1 oder Stoffen nach Anlage 2 vorgeschrieben sind oder
-  - b) :: nicht durch eine wissenschaftlich anerkannte Methode auch bei einem höheren Trockenmassegehalt der Aggregatzustand flüssig“ festgestellt wird,
+  - b) :: nicht durch eine wissenschaftlich anerkannte Methode auch bei einem höheren Trockenmassegehalt der Aggregatzustand „flüssig“ festgestellt wird,
 - 12. :: kaltwasserlöslicher Stickstoff: bei 20 °C Wassertemperatur im Wasser gelöster Stickstoff,
 - 13. :: heißwasserlöslicher Stickstoff: in siedendem Wasser gelöster Stickstoff,
 - 14. :: verfügbarer Stickstoff: in Wasser oder in 0,0125 molarer Calciumchloridlösung gelöster Stickstoff,
@@ -48,8 +48,8 @@ Im Sinne dieser Verordnung sind:
 - 24. :: Angabe in vom Hundert: auf die Masse bezogene Angabe, soweit keine andere Bezugsgröße genannt ist,
 - 25. :: Angabe von Gehalten: auf die Frischmasse bezogene und als Gesamtgehalt ausgedrückte Angabe, soweit keine andere Bezugsgröße genannt ist,
 - 26. :: Angabe der Toleranz:
-  - a) :: als Vom-Hundert-Wert: maximale Abweichung des ermittelten Wertes vom gekennzeichneten Wert in vom Hundert des gekennzeichneten Wertes, ausgedrückt in %“,
-  - b) :: in Vom-Hundert-Punkten: maximale Abweichung des ermittelten Wertes in vom Hundert vom gekennzeichneten Wert in vom Hundert durch Differenzbildung, ausgedrückt in %-Punkt“.
+  - a) :: als Vom-Hundert-Wert: maximale Abweichung des ermittelten Wertes vom gekennzeichneten Wert in vom Hundert des gekennzeichneten Wertes, ausgedrückt in „%“,
+  - b) :: in Vom-Hundert-Punkten: maximale Abweichung des ermittelten Wertes in vom Hundert vom gekennzeichneten Wert in vom Hundert durch Differenzbildung, ausgedrückt in „%-Punkt“.
 
 
 § 2 - Geltungsbereich
@@ -219,7 +219,7 @@ befallen sind und nicht einer geeigneten hygienisierenden Behandlung unterzogen 
     | MgO        | x 0,6   | = Mg           |
     | MgCO_{3}   | x 0,288 | = Mg,          |
 - 4. :: bei organischen und organisch-mineralischen Düngemitteln nach Anlage 1 Abschnitt 3 und Wirtschaftsdüngern gemäß § 4 Absatz 1 zusätzlich ein Gehalt an verfügbarem Stickstoff gekennzeichnet ist, wenn in der Trockenmasse mehr als 1,5 vom Hundert Stickstoff (Gesamt-N) enthalten ist und der verfügbare Stickstoff einen Anteil von 10 vom Hundert des Gesamt-N übersteigt,
-- 5. :: Nebenbestandteile nach Anlage 2 Tabelle 1, wenn diese die Werte nach Anlage 2 Tabelle 1.1 bis 1.4 Spalte 2 erreichen, durch das vorangestellte Wort Nebenbestandteile:“ und anschließend wie folgt gekennzeichnet sind:
+- 5. :: Nebenbestandteile nach Anlage 2 Tabelle 1, wenn diese die Werte nach Anlage 2 Tabelle 1.1 bis 1.4 Spalte 2 erreichen, durch das vorangestellte Wort „Nebenbestandteile:“ und anschließend wie folgt gekennzeichnet sind:
   - a) :: die Nährstoffgehalte der für den Düngemitteltyp nicht bestimmenden Nebenbestandteile in Anlage 2 Tabelle 1.1 Spalte 1,
   - b) :: Nährstoffe in Wirtschaftsdüngern, Bodenhilfsstoffen, Kultursubstraten oder Pflanzenhilfsmitteln nach Anlage 2 Tabelle 1.2 Spalte 1,
   - c) :: weitere Nebenbestandteile nach Anlage 2 Tabelle 1.3 Spalte 1,
@@ -252,11 +252,11 @@ befallen sind und nicht einer geeigneten hygienisierenden Behandlung unterzogen 
 (7) Die Angaben zur Kennzeichnung nach den Absätzen 1 bis 5 in Verbindung mit ergänzenden Vorgaben nach Anlage 2 Tabelle 10 müssen in deutscher Sprache abgefasst und deutlich lesbar sein; andere Sprachen dürfen zusätzlich verwendet sein.
 (8) Angaben nach Anlage 2 Tabelle 10.2 bis 10.3 müssen von Angaben nach Tabelle 10.1 deutlich abgesetzt sein. Kennzeichnungsangaben nach Tabelle 10.5 einschließlich solcher für andere Länder oder in anderen Sprachen müssen von Angaben nach Tabelle 10.1 bis 10.4 deutlich abgesetzt sein.
 (9) Eine Kennzeichnung im eigenen Betrieb erzeugter Wirtschaftsdünger ist nicht erforderlich, wenn bei einer Abgabe an Dritte zum dortigen eigenen Verbrauch die abgegebene Menge eine Tonne Frischmasse je Kalenderjahr nicht überschreitet. Eine Kennzeichnung ist ferner nicht erforderlich, wenn im eigenen Betrieb angefallener Dünger an einen landwirtschaftlichen Betrieb zur Verwertung als Düngemittel auf dessen Flächen abgegeben wird und vom abgebenden Betrieb eine Abgabemenge von insgesamt 200 Tonnen Frischmasse im Kalenderjahr nicht überschritten wird.
-(10) Düngemittel, die entsprechend den Anforderungen der Absätze 1 bis 8 oder des § 7a gekennzeichnet sind, dürfen nicht gleichzeitig als EG-Düngemittel“ nach § 7 gekennzeichnet sein.
+(10) Düngemittel, die entsprechend den Anforderungen der Absätze 1 bis 8 oder des § 7a gekennzeichnet sind, dürfen nicht gleichzeitig als „EG-Düngemittel“ nach § 7 gekennzeichnet sein.
 
 § 7 - Kennzeichnung bei EG-Düngemitteln
 
-Wer ein Düngemittel mit der Bezeichnung EG-Düngemittel“ in den Verkehr bringt, hat dafür zu sorgen, dass das Düngemittel entsprechend den Anforderungen des Artikels 7 in Verbindung mit Artikel 10 und 11 der Verordnung (EG) Nr. 2003/2003 des Europäischen Parlaments und des Rates vom 13. Oktober 2003 über Düngemittel (ABl. L 304 vom 21.11.2003, S. 1) gekennzeichnet ist.
+Wer ein Düngemittel mit der Bezeichnung „EG-Düngemittel“ in den Verkehr bringt, hat dafür zu sorgen, dass das Düngemittel entsprechend den Anforderungen des Artikels 7 in Verbindung mit Artikel 10 und 11 der Verordnung (EG) Nr. 2003/2003 des Europäischen Parlaments und des Rates vom 13. Oktober 2003 über Düngemittel (ABl. L 304 vom 21.11.2003, S. 1) gekennzeichnet ist.
 
 § 7a - Kennzeichnung bei Inverkehrbringen nach § 5 Absatz 1 Satz 2 des Düngegesetzes
 
@@ -344,7 +344,7 @@ Vorbemerkungen und Hinweise
 - 3 :: Die Mindestgehalte nach Spalte 2 des jeweiligen Ausgangstyps reduzieren sich im Falle einer Mischung nach Nummer 1 für das jeweilige Endprodukt um ein Drittel, soweit nicht ausschließlich eine Zugabe von Magnesiumdüngern erfolgt.
 - 4 :: Für Kalkdünger gelten die Mindestgehalte nach Spalte 2 und, vorbehaltlich der besonderen Bestimmungen in Spalte 6, die angegebenen Gehalte an CaO oder CaCO_{3} auch dann als erreicht, wenn das Düngemittel anstelle eines Teiles CaO einen Teil MgO und anstelle eines Teiles CaCO_{3} einen Teil MgCO_{3} enthält.
 
-
+ 
 
 Typenbezeichnung
 
@@ -364,7 +364,7 @@ Art der Herstellung
 
 Besondere Bestimmungen, Hinweise
 
-
+ 
 
 1
 
@@ -417,17 +417,17 @@ auch Zugabe von
   nach Anlage 2 Tabelle 7\\
   Zeile 7.3.16
 
-Das Düngemittel darf als Kohlensaurer\\
+Das Düngemittel darf als „Kohlensaurer\\
 Magnesiumkalk“ bezeichnet sein, wenn der\\
 Gehalt an MgCO_{3} und MgO mehr als 15 % beträgt.\\
-Das Düngemittel darf mit dem Hinweis leicht umsetzbar“ gekennzeichnet sein, wenn die\\
+Das Düngemittel darf mit dem Hinweis „leicht umsetzbar“ gekennzeichnet sein, wenn die\\
 Reaktivität mindestens 80 % beträgt.\\
 Bei der Herstellung aus Meeralgen:
 
 - -- :: Mindestgehalt nach Spalte 2: 65 % CaCO_{3},
 - -- :: keine Mischung mit anderen kohlensauren\\
   Kalken,
-- -- :: das Düngemittel muss als Kohlensaurer\\
+- -- :: das Düngemittel muss als „Kohlensaurer\\
   Kalk aus Meeralgen“ bezeichnet sein.
 
 Bei Herstellung aus holozänen Kalken:
@@ -435,7 +435,7 @@ Bei Herstellung aus holozänen Kalken:
 - -- :: Mindestgehalt nach Spalte 2: 60 % CaCO_{3},
 - -- :: keine Mischung mit anderen kohlensauren\\
   Kalken,
-- -- :: das Düngemittel muss als Kohlensaurer\\
+- -- :: das Düngemittel muss als „Kohlensaurer\\
   Kalk aus holozänem Kalk“ bezeichnet sein.
 
 Bei der Zugabe von Azotobakter nach\\
@@ -451,7 +451,7 @@ nach Buchstabe c Spalte 5:
   von unbehandelten Pflanzenteilen,
 - -- :: Mindestgehalt nach Spalte 2: 70 % CaCO_{3},
 - -- :: das Düngemittel muss mit dem Hinweis\\
-  Enthält basisch wirksame Pflanzenasche“ gekennzeichnet sein.
+  „Enthält basisch wirksame Pflanzenasche“ gekennzeichnet sein.
 
 1.4.2
 
@@ -478,11 +478,11 @@ aus Kalkstein, Dolomit oder\\
 Kreide natürlicher Lagerstätten; auch Mischen untereinander\\
 durch Brennen
 
-Das Düngemittel darf als Branntkalk, körnig“\\
-oder Magnesium-Branntkalk, körnig“ bezeichnet\\
+Das Düngemittel darf als „Branntkalk, körnig“\\
+oder „Magnesium-Branntkalk, körnig“ bezeichnet\\
 sein, wenn es zusätzlich folgenden Anforderungen entspricht:\\
 Siebdurchgang: bis zu 5 % bei 0,4 mm\\
-Im Rahmen der Hinweise zur sachgerechten Anwendung Kennzeichnung mit dem Hinweis: Bei der Anwendung in der Forstwirtschaft die hohe Wirkungsintensität beachten“.
+Im Rahmen der Hinweise zur sachgerechten Anwendung Kennzeichnung mit dem Hinweis: „Bei der Anwendung in der Forstwirtschaft die hohe Wirkungsintensität beachten“.
 
 1.4.3
 
@@ -512,11 +512,11 @@ durch Mischen oder Brennen, auch teilweises Brennen,\\
 auch Zugabe von Wasser zur Staubbindung
 
 Bezeichnung nach Spalte 1 gilt auch für recarbonatisierten Branntkalk.\\
-Im Rahmen der Hinweise zur sachgerechten Anwendung Kennzeichnung mit dem Hinweis: Bei der Anwendung in der Forstwirtschaft die hohe Wirkungsintensität beachten“.\\
+Im Rahmen der Hinweise zur sachgerechten Anwendung Kennzeichnung mit dem Hinweis: „Bei der Anwendung in der Forstwirtschaft die hohe Wirkungsintensität beachten“.\\
 Bei Zugabe von Wasser zur Staubbindung\\
 im Rahmen der Hinweise zur sachgerechten\\
 Anwendung Kennzeichnung mit dem Hinweis:\\
-Bei längerer Lagerung verringerte Wirkungs-\\
+„Bei längerer Lagerung verringerte Wirkungs-\\
 geschwindigkeit durch Recarbonatisierung\\
 möglich“.
 
@@ -576,13 +576,13 @@ Bei Zugabe phosphathaltiger Stoffe nach Spalte 5:\\
 
 Kennzeichnung der Phosphatlöslichkeiten nach Anlage 2 Tabelle 4 Nummer 4.2.11, 4.2.1 und 4.2.2
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 - a) :: 97 % bei 1,0 mm\\
   80 % bei 0,315 mm
@@ -591,13 +591,13 @@ Kennzeichnung der Phosphatlöslichkeiten nach Anlage 2 Tabelle 4 Nummer 4.2.11, 
 - c) :: 97 % bei 0,63 mm\\
   75 % bei 0,16 mm.
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 Bei Siebdurchgang nach Buchstabe b:\\
 Löslichkeit von Calcium und Magnesium, bewertet nach Umsetzung in verdünnter Salzsäure, mindestens 30 %\\
@@ -612,7 +612,7 @@ P_{2}O_{5} 0,8 %-Punkt
 - b) :: Absieben zerfallener Konverterschlacke und Pfannenschlacke
 - c) :: Vermahlen von Konverterschlacke nach Zugabe von phosphathaltigen Stoffen in die Schlackenschmelze
 
-
+ 
 
 1.4.6
 
@@ -645,7 +645,7 @@ Kalke nach Anlage 2 Tabelle 6 Nummer 6.4.12 und 6.4.13 dürfen abweichend von de
 1.5 Vorgaben für Sekundärnährstoffdünger\\
 \\
 
-
+ 
 
 Typenbezeichnung
 
@@ -665,7 +665,7 @@ Art der Herstellung
 
 Besondere Bestimmungen, Hinweise
 
-
+ 
 
 1
 
@@ -694,7 +694,7 @@ Ca 0,7 %-Punkt
 
 Calciumchlorid
 
-
+ 
 
 1.5.2
 
@@ -716,7 +716,7 @@ in Wasser
 Bei Suspendieren oder Lösen in Wasser:
 
 - -- :: Bezeichnung nach Spalte 1:\\
-  Calciumformiat-flüssig“,
+  „Calciumformiat-flüssig“,
 - -- :: Mindestgehalt nach Spalte 2: 15 % Ca.
 
 1.5.3
@@ -744,7 +744,7 @@ Magnesiumcarbonat;\\
 mechanisches Aufbereiten\\
 von Magnesit
 
-Das Düngemittel darf auch als Magnesit“\\
+Das Düngemittel darf auch als „Magnesit“\\
 bezeichnet sein.
 
 1.5.4
@@ -766,7 +766,7 @@ Magnesiumoxid\\
 Brennen von Magnesit nur bei einer Brenntemperatur\\
 ≤ 1 800 °C
 
-
+ 
 
 1.5.5
 
@@ -788,7 +788,7 @@ Magnesiumsilikate;\\
 mechanisches Aufbereiten\\
 magnesiumhaltiger Gesteine
 
-
+ 
 
 1.5.6
 
@@ -817,13 +817,13 @@ Bei Zugabe von Kaliumsulfat:
 - -- :: Mindestgehalte nach Spalte 2:\\
   8 % MgO, 6 % K_{2}O, insgesamt 20 %
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 Dolomit: 97 % bei 3,15 mm\\
 und 70 % bei 1 mm\\
@@ -835,7 +835,7 @@ Toleranzen:\\
 MgO 0,9 %-Punkt\\
 K_{2}O 1 %-Punkt
 
-
+ 
 
 - -- :: Weiterer typbestimmender Bestandteil nach\\
   Spalte 3: wasserlösliches Kaliumoxid
@@ -861,7 +861,7 @@ Magnesiumoxid, -hydroxid\\
 oder Magnesiumsalze;\\
 Suspendieren in Wasser
 
-
+ 
 
 1.5.9
 
@@ -883,7 +883,7 @@ S 0,5 %-Punkt
 Schwefel aus Natur- oder\\
 Industrieherkünften
 
-
+ 
 
 1.5.10
 
@@ -909,7 +909,7 @@ S 0,5 %-Punkt
 Sulfate, Sulfite, Hydroxide,\\
 Carbonate oder Oxide von Calcium oder Magnesium aus Natur- und Industrieherkünften
 
-
+ 
 
 1.5.11
 
@@ -935,12 +935,12 @@ Sulfate, Sulfite, Hydroxide, Oxide oder Carbonate von Calcium;\\
 aus Sprühabsorptionsverfahren\\
 bei der Monoverbrennung von Steinkohle
 
-Im Rahmen der Hinweise zur sachgerechten Anwendung Ergänzung der Kennzeichnung um die Worte Bei der Bemessung der Düngung auf den Schwefelbedarf achten“.
+Im Rahmen der Hinweise zur sachgerechten Anwendung Ergänzung der Kennzeichnung um die Worte „Bei der Bemessung der Düngung auf den Schwefelbedarf achten“.
 
 - 1. :: Nährstoffe, Nährstoffformen und Nährstofflöslichkeiten sind entsprechend ihrer Angabe in der Kennzeichnung zu bewerten.
 - 2. :: Nährstoffformen und Nährstofflöslichkeiten in den Spalten 3 und 4 beziehen sich auf die jeweiligen Nummern in den Zeilen der Anlage 2 Tabellen 3 und 4.
 
-
+ 
 
 Typenbezeichnung
 
@@ -960,7 +960,7 @@ Art der Herstellung
 
 Besondere Bestimmungen, Hinweise
 
-
+ 
 
 1
 
@@ -1153,9 +1153,9 @@ Trägermaterial:
 auch Zugabe von Kohlen-\\
 saurem Kalk aus Meeralgen
 
-Bei Einschlieverkapselt“ zu bezeichnen.\\
+Bei Einschließen in Kapseln ist das Düngemittel als „verkapselt“ zu bezeichnen.\\
 Bei Verwendung von Ionenaustauschern ist die Kennzeichnung wie folgt zu ergänzen:\\
-Das Düngemittel ist nach Gebrauch nicht mehr als Stoff nach § 2 des Düngegesetzes, ausgenommen Wiederverwertung zum selben Zweck, zulässig und in Systemen zu verwenden, die eine Entsorgung des gebrauchten Trägermaterials ermöglichen“.\\
+„Das Düngemittel ist nach Gebrauch nicht mehr als Stoff nach § 2 des Düngegesetzes, ausgenommen Wiederverwertung zum selben Zweck, zulässig und in Systemen zu verwenden, die eine Entsorgung des gebrauchten Trägermaterials ermöglichen“.\\
 Bei Verwendung von Aschen nach Spalte 5:
 
 - -- :: Mindestgehalt nach Spalte 2 für festen\\
@@ -1180,7 +1180,7 @@ aus Meeralgen:
 4.1 Vorgaben für Düngemittel der Abschnitte 1, 2, 3 oder 5 mit zusätzlich den Typ bestimmenden Spurennährstoffen\\
 \\
 
-
+ 
 
 Typenbezeichnung
 
@@ -1204,7 +1204,7 @@ Art der Herstellung
 
 Besondere Bestimmungen, Hinweise
 
-
+ 
 
 1
 
@@ -1221,9 +1221,9 @@ Besondere Bestimmungen, Hinweise
 4.1.1
 
 Typenbezeichnung für Düngemittel nach Abschnitt 1, 2, 3 oder 5, ergänzt\\
-durch die Angabe mit Spurennährstoff“\\
+durch die Angabe „mit Spurennährstoff“\\
 oder\\
-durch die Angabe mit“ sowie durch den Namen der Spurennährstoffe oder ihr chemisches Symbol in der Reihenfolge der Spalte 2
+durch die Angabe „mit“ sowie durch den Namen der Spurennährstoffe oder ihr chemisches Symbol in der Reihenfolge der Spalte 2
 
 0,02 % B\\
 0,004 % Co\\
@@ -1275,7 +1275,7 @@ auf forstliche Flächen.
 
 4.2 Vorgaben für Düngemittel, die als typbestimmende Bestandteile nur Spurennährstoffe enthalten\\
 \\
-
+ 
 Typenbezeichnung
 Mindestgehalte
 Typbestimmende\\
@@ -1288,7 +1288,7 @@ weitere Erfordernisse
 Wesentliche Zusammensetzung;\\
 Art der Herstellung
 Besondere Bestimmungen, Hinweise
-
+ 
 1
 2
 3
@@ -1308,7 +1308,7 @@ Siebdurchgang:\\
 Toleranzen:\\
 Cu 0,4 %-Punkt
 Suspendieren von Kupferhydroxid
-
+ 
 4.2.2
 Eisensalz
 8 % Fe
@@ -1322,7 +1322,7 @@ Dolomit;\\
 Mischen von Eisen(II)-Salz mit\\
 Gesteinsmehl oder Dolomit;\\
 auch chelatisiert mit Glycin
-Das Anion des Mineralsalzes muss angegeben sein. Bei Zugabe von Glycin im Rahmen der Hinweise zur sachgerechten Anwendung Kennzeichnung mit dem Hinweis: Anwendungsvorgabe: Produkt ist ausschließlich zur Blattanwendung zugelassen“.
+Das Anion des Mineralsalzes muss angegeben sein. Bei Zugabe von Glycin im Rahmen der Hinweise zur sachgerechten Anwendung Kennzeichnung mit dem Hinweis: „Anwendungsvorgabe: Produkt ist ausschließlich zur Blattanwendung zugelassen“.
 4.2.3
 Eisen-\\
 Dünger
@@ -1370,7 +1370,7 @@ Das Düngemittel muss mindestens zwei der in Spalte 3 genannten Spurennährstoff
 Die Art des Ausgangsmaterials muss angegeben sein.
 Entspricht ein Düngemittel einem Düngemitteltyp nach Abschnitt 1 bis 4, darf es nicht als Düngemittel nach diesem Abschnitt gekennzeichnet werden.\\
 \\
-
+ 
 Typenbezeichnung
 Mindestgehalte\\
 (bezogen\\
@@ -1385,7 +1385,7 @@ weitere Erfordernisse
 Wesentliche Zusammensetzung;\\
 Art der Herstellung
 Besondere Bestimmungen, Hinweise
-
+ 
 1
 2
 3
@@ -1440,7 +1440,7 @@ Anlage 2 - (zu § 1 Nummer 11, § 3 Absatz 1 und 2, § 4 Absatz 1 und 2, § 6 Ab
 
 (Fundstelle: BGBl. I 2012, 2512 - 2544)
 - 1. :: Für Kultursubstrate aus mineralischen Bestandteilen, die im Rahmen der Hinweise zur sachgerechten Anwendung für eine ausschließliche Verwendung als Dachsubstrate oder als Substrate für die Innenraumbegrünung gekennzeichnet sind, genügt für die Angabe von Gehalten nach Nummer 1.2.1 bis 1.3.4, ausgenommen Nummer 1.3.3, die Angabe einer Obergrenze.
-- 2. :: Angaben zur Verordnung (EG) Nr. 1069/2009“ beziehen sich auf die Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte und zur Aufhebung der Verordnung (EG) Nr. 1774/2002 (Verordnung über tierische Nebenprodukte) (ABl. L 300 vom 14.11.2009, S. 1).
+- 2. :: Angaben zur „Verordnung (EG) Nr. 1069/2009“ beziehen sich auf die Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte und zur Aufhebung der Verordnung (EG) Nr. 1774/2002 (Verordnung über tierische Nebenprodukte) (ABl. L 300 vom 14.11.2009, S. 1).
 
 Die letzte Stelle der Kennziffer in Tabelle 4.2 Spalte 1 entspricht der in der Düngemittelanalytik genutzten Nummer für die Phosphatlöslichkeiten.
 Die letzte Stelle der für geforderte Löslichkeiten genutzten Kennziffer in der Spalte 3 entsprechen der in der Düngemittelanalytik genutzten Nummer für die Phosphatlöslichkeiten.
@@ -1474,17 +1474,17 @@ Für Düngemittel außer Wirtschaftsdünger
 
 Für Wirtschaftsdünger, Bodenhilfsstoffe, Kultursubstrate oder Pflanzenhilfsmittel
 
-
-
-Kennzeichnung
-
-Inhalt der Kennzeichnung, Hinweise
+ 
 
 Kennzeichnung
 
 Inhalt der Kennzeichnung, Hinweise
 
+Kennzeichnung
 
+Inhalt der Kennzeichnung, Hinweise
+
+ 
 
 1
 
@@ -1515,31 +1515,31 @@ Typenbezeichnung und weitere damit verbundene Angaben
   - -- :: in der Reihenfolge nach Anlage 1 Spalte 2,
   - -- :: ohne den Zahlen hinzugefügte weitere Angaben.
 - 2. :: Bei flüssigen Düngemitteln ist die Typbezeichnung\\
-  um die Worte flüssig“, Lösung“ oder Suspension“ gemäß der Art der Herstellung nach Anlage 1 Spalte 5 der jeweiligen Beschreibung des Düngemitteltyps zu ergänzen.
+  um die Worte „flüssig“, „Lösung“ oder „Suspension“ gemäß der Art der Herstellung nach Anlage 1 Spalte 5 der jeweiligen Beschreibung des Düngemitteltyps zu ergänzen.
 
 Bezeichnung nach der vorgesehenen Zweckbestimmung
 
 Bezeichnung als Wirtschaftsdünger, Bodenhilfsstoff, Kultursubstrat oder Pflanzenhilfsmittel nach § 2\\
 Düngegesetz.
 
+ 
 
-
-
+ 
 
 - 3. :: Bei Kalken darf ab einem Gehalt an MgCO_{3} von\\
   15 % oder MgO von 7 % die Typenbezeichnung\\
-  um das vorgestellte Wort Magnesium“ ergänzt sein. Abweichend von Satz 1 darf das Düngemittel als Kohlensaurer Magnesiumkalk“ bezeichnet sein, wenn der Gehalt an MgCO_{3} und MgO mehr als 15 % beträgt.
+  um das vorgestellte Wort „Magnesium“ ergänzt sein. Abweichend von Satz 1 darf das Düngemittel als „Kohlensaurer Magnesiumkalk“ bezeichnet sein, wenn der Gehalt an MgCO_{3} und MgO mehr als 15 % beträgt.
 
+ 
 
-
-
+ 
 
 10.1.2
 
 Für Düngemittel verwendete Hauptbestandteile nach Tabelle 6 oder Tabelle 7
 
 - 1. :: Angabe im Anschluss an die Typenbezeichnung\\
-  mit den Worten: unter Verwendung von ... “ und unter Angabe des verwendeten Stoffes nach\\
+  mit den Worten: „unter Verwendung von ... “ und unter Angabe des verwendeten Stoffes nach\\
   Tabelle 6 oder Tabelle 7, jeweils Spalte 1 in\\
   absteigender Reihenfolge nach eingesetzten\\
   Mengenanteilen. Eine Behandlung der Haupt-\\
@@ -1548,19 +1548,19 @@ Für Düngemittel verwendete Hauptbestandteile nach Tabelle 6 oder Tabelle 7
   um nach Tabelle 6 oder Tabelle 7 Spalte 3 vor-\\
   gegebene weitere Angaben für diese Stoffe.
 - 3. :: Die Produktbezeichnung darf mit den Worten\\
-  auf der Basis von Torf“ ergänzt sein, wenn im\\
+  „auf der Basis von Torf“ ergänzt sein, wenn im\\
   Produkt mehr als 75 % Torf enthalten sind.
 
 Für Bodenhilfsstoffe, Kultursubstrate oder Pflanzenhilfsmittel, verwendete Hauptbestandteile nach Tabelle 6 oder Tabelle 7
 
 - 1. :: Angabe im Anschluss an die Bezeichnung nach\\
-  Nummer 10.1.1 mit den Worten: unter Verwendung von ...“ und Angabe der Stoffe nach Tabelle 6 oder Tabelle 7, jeweils Spalte 1 in absteigender Reihenfolge nach eingesetzten Mengenanteilen. Eine\\
+  Nummer 10.1.1 mit den Worten: „unter Verwendung von ...“ und Angabe der Stoffe nach Tabelle 6 oder Tabelle 7, jeweils Spalte 1 in absteigender Reihenfolge nach eingesetzten Mengenanteilen. Eine\\
   Behandlung der Hauptbestandteile gemäß § 1 Nummer 17 und 18 darf angegeben werden.
 - 2. :: Gegebenenfalls Ergänzung der Kennzeichnung\\
   um nach Tabelle 6 oder Tabelle 7 Spalte 3 vor-\\
   gegebene weitere Angaben für diese Stoffe.
 - 3. :: Die Produktbezeichnung darf mit den Worten\\
-  auf der Basis von Torf“ ergänzt sein, wenn im\\
+  „auf der Basis von Torf“ ergänzt sein, wenn im\\
   Produkt mehr als 75 % Torf enthalten sind.
 
 10.1.3
@@ -1569,19 +1569,19 @@ Zugabe von Hüllsubstanzen
 
 - 1. :: Die Typbezeichnung ist durch folgende Angaben\\
   zu ergänzen:
-  - -- :: umhüllt“, wenn mindestens 90 % des Produktes\\
+  - -- :: „umhüllt“, wenn mindestens 90 % des Produktes\\
     umhüllt sind,
-  - -- :: teilweise umhüllt“, wenn mindestens 25 %\\
+  - -- :: „teilweise umhüllt“, wenn mindestens 25 %\\
     des Produktes umhüllt sind,
-  - -- :: mit umhülltem [Nährstoff]“,
-  - -- :: mit teilweise umhülltem [Nährstoff]“.
+  - -- :: „mit umhülltem [Nährstoff]“,
+  - -- :: „mit teilweise umhülltem [Nährstoff]“.
 - 2. :: Der Anteil des umhüllten Düngemittels am\\
   gesamten Düngemittel oder der Anteil des umhüllten Nährstoffes am jeweiligen Gesamtnährstoffgehalt ist als Prozentwert in ganzen Zahlen hinzuzufügen.
 
 Wirtschaftsdünger
 
 - 1. :: Bei Wirtschaftsdüngern ist die Angabe nach\\
-  Nummer 10.1.1 mit den Worten: unter Verwendung von ...“ und die Angabe der Hauptbestandteile,\\
+  Nummer 10.1.1 mit den Worten: „unter Verwendung von ...“ und die Angabe der Hauptbestandteile,\\
   bei Exkrementen die Tierart zu ergänzen.
 - 2. :: Zusätzlich sind anzugeben:
   - -- :: Nährstoffgehalte für N, P_{2}O_{5} und K_{2}O,
@@ -1602,8 +1602,8 @@ Zugabe von Nitrifikationshemmstoffen nach Tabelle 8\\
 Nummer 8.2.2 oder Ureasehemmstoffen nach Nummer 8.2.3
 
 Die Typbezeichnung nach Anlage 1 Spalte 1 der\\
-jeweiligen Beschreibung des Düngemitteltyps muss durch die Angabe mit Nitrifikationshemmstoff“ oder\\
-mit Ureasehemmstoff“ unter nachfolgender Angabe\\
+jeweiligen Beschreibung des Düngemitteltyps muss durch die Angabe „mit Nitrifikationshemmstoff“ oder\\
+„mit Ureasehemmstoff“ unter nachfolgender Angabe\\
 des verwendeten Hemmstoffes nach Tabelle 2 Spalte 1 ergänzt sein.
 
 Bodenhilfsstoffe
@@ -1647,7 +1647,7 @@ Zugabe von
 - -- :: Kalk zu Düngemitteln nach Anlage 1 Abschnitte 1 und 2,
 - -- :: mineralischen Einnährstoffdüngern nach der Verordnung (EG) Nr. 2003/2003 und Düngemitteln nach Anlage 1 Abschnitt 1 zu Düngemitteln nach Anlage 1 Abschnitt 1.4
 
-Die Typenbezeichnung ist um das Wort mit“ und die Angabe des zugegebenen Düngertyps zu ergänzen.
+Die Typenbezeichnung ist um das Wort „mit“ und die Angabe des zugegebenen Düngertyps zu ergänzen.
 
 Pflanzenhilfsmittel
 
@@ -1674,9 +1674,9 @@ Für mineralische Mehrnährstoffdünger nach Anlage 1 Abschnitt 2
 Ist eine Angabe von Phosphatbestandteilen nach\\
 Tabelle 5 vorgeschrieben, so muss diese Angabe der Typenbezeichnung hinzugefügt sein.
 
+ 
 
-
-
+ 
 
 10.1.8
 
@@ -1706,11 +1706,11 @@ Typbestimmende Bestandteile und Nährstoffformen
   nach Anlage 1 Spalte 2 der jeweiligen Beschreibung des Düngemitteltyps -- die Gehalte an basisch\\
   wirksamen Bestandteilen, bewertet als CaO.\\
   In Klammern darf zusätzlich die Bezeichnung\\
-  Neutralisationswert“ angefügt sein.
+  „Neutralisationswert“ angefügt sein.
 
+ 
 
-
-
+ 
 
 10.1.9
 
@@ -1719,12 +1719,12 @@ nach Anlage 1 Abschnitt 4
 
 Liegt ein Spurennährstoff ganz oder teilweise in\\
 organisch gebundener Form vor, so muss sein Gehalt\\
-im Düngemittel unmittelbar hinter der Angabe des wasserlöslichen Gehaltes in Prozent angegeben sein, und zwar in der Form als Chelat von ... “ oder\\
-als Komplex von ...“.
+im Düngemittel unmittelbar hinter der Angabe des wasserlöslichen Gehaltes in Prozent angegeben sein, und zwar in der Form „als Chelat von ... “ oder\\
+„als Komplex von ...“.
 
+ 
 
-
-
+ 
 
 10.1.10
 
@@ -1816,9 +1816,9 @@ als Nebenbestandteile
     Kalium als wasserlösliches Kaliumoxid.
 - 3. :: Bei Kultursubstraten: Angabe der Nährstoffe in mg/l bezogen auf das Nettovolumen, dabei für N, P_{2}O_{5}, K_{2}O und Mg als pflanzenverfügbare (lösliche) Nährstoffe unter Angabe der Methode.
 
+ 
 
-
-
+ 
 
 - -- :: Phosphat: Gesamtphosphat nach Tabelle 4 Nummer 4.2.11, wasserlösliches Phosphat nach Tabelle 4 Nummer 4.2.1 und neutral-ammoncitratlösliches Phosphat nach Tabelle 4 Nummer 4.2.2, wenn jeweils ein Gehalt von 1 Prozent erreicht wird; Gehalt weiterer Phosphatlöslichkeiten nach Tabelle 4 fakultativ,
 - -- :: andere Nährstoffe:
@@ -1829,21 +1829,21 @@ als Nebenbestandteile
   = wenn mindestens ein Viertel des Gesamt-\\
   gehaltes wasserlöslich ist, Angabe des Gesamtgehaltes und des wasserlöslichen Gehaltes.
 
+ 
 
-
-
+ 
 
 10.2.3
 
 Aufbereitungshilfsmittel nach Tabelle 8.1 oder Anwendungshilfsmittel nach Tabelle 8.2
 
-- 1. :: Angabe des Zwecks der Zugabe (z. B.: enthält\\
-  Mittel zur Staubbindung“, unter Verwendung\\
+- 1. :: Angabe des Zwecks der Zugabe (z. B.: „enthält\\
+  Mittel zur Staubbindung“, „unter Verwendung\\
   von Mitteln zur Konditionierung“).
 - 2. :: Ab einem Mengenanteil von 0,5 %/TM zusätzlich\\
   die Angabe des zugegebenen Stoffes nach Spalte 1 in Verbindung mit der Angabe des Zwecks der\\
-  Zugabe (z. B. unter Verwendung von Schwefel\\
-  als Hüllsubstanz“ oder enthält Vinasse zur Staub-\\
+  Zugabe (z. B. „unter Verwendung von Schwefel\\
+  als Hüllsubstanz“ oder „enthält Vinasse zur Staub-\\
   bindung“).
 - 3. :: Gegebenenfalls Ergänzung der Kennzeichnung\\
   um nach Spalte 3 der Tabelle 8.1 oder 8.2 vor-\\
@@ -1852,13 +1852,13 @@ Aufbereitungshilfsmittel nach Tabelle 8.1 oder Anwendungshilfsmittel nach Tabell
 Aufbereitungshilfsmittel nach\\
 Tabelle 8.1 oder Anwendungshilfsmittel nach Tabelle 8.2
 
-- 1. :: Angabe des Zwecks der Zugabe (z. B.: enthält\\
-  Mittel zur Staubbindung“, unter Verwendung\\
+- 1. :: Angabe des Zwecks der Zugabe (z. B.: „enthält\\
+  Mittel zur Staubbindung“, „unter Verwendung\\
   von Mitteln zur Konditionierung“).
 - 2. :: Ab einem Mengenanteil von 0,5 %/TM zusätzlich\\
   die Angabe des zugegebenen Stoffes nach Spalte 1 in Verbindung mit der Angabe des Zwecks der\\
-  Zugabe (z. B.: unter Verwendung von Schwefel\\
-  als Hüllsubstanz“ oder enthält Vinasse zur\\
+  Zugabe (z. B.: „unter Verwendung von Schwefel\\
+  als Hüllsubstanz“ oder „enthält Vinasse zur\\
   Staubbindung“).
 - 3. :: Gegebenenfalls Ergänzung der Kennzeichnung\\
   um nach Spalte 3 der Tabelle 8.1 oder 8.2\\
@@ -1928,9 +1928,9 @@ Für mineralische Mehrnährstoffdünger nach Anlage 1 Abschnitt 2
 Ist Ammoniumthiosulfat als Stickstoffkomponente\\
 verwendet, ist im Rahmen der Hinweise zur sachgerechten Anwendung auf eine verlangsamte Wirksamkeit hinzuweisen, wenn ein Mengenanteil am Stickstoff von 25 % überschritten ist.
 
+ 
 
-
-
+ 
 
 10.3.3
 
@@ -1941,15 +1941,15 @@ Abschnitt 4.2) enthalten, zusätzliche Angaben im\\
 Rahmen der Hinweise zur sachgerechten Anwendung:
 
 - 1. :: Ergänzung der Kennzeichnung mit den Worten:\\
-  Nur bei tatsächlichem Bedarf verwenden.\\
+  „Nur bei tatsächlichem Bedarf verwenden.\\
   Empfohlene Aufwandmenge nicht überschreiten. “
 - 2. :: Angabe einer sachgerechten Anwendungszeit\\
   (Vegetationsstand, Wiederholungen) und den\\
   erforderlichen Mengenaufwand je Flächeneinheit.
 
+ 
 
-
-
+ 
 
 10.3.4
 
@@ -1964,7 +1964,7 @@ Für organische oder organisch-mineralische Düngemittel nach Anlage 1 Abschnitt
   Produkteigenschaften und für Stickstoff Angaben\\
   zum zeitlichen Verlauf der Verfügbarkeit.
 - 3. :: Bei Verwendung von Klärschlämmen oder Bio-\\
-  abfällen mit dem Hinweis: Bei einer Aufbringung\\
+  abfällen mit dem Hinweis: „Bei einer Aufbringung\\
   auf landwirtschaftlich genutzten Flächen sind\\
   Anwendungs- und Mengenbeschränkungen aus\\
   abfallrechtlichen Vorschriften (AbfKlärV, BioAbfV)\\
@@ -1977,27 +1977,27 @@ Bei Verwendung organischer Ausgangsstoffe nach Tabelle 7
   eigenschaften und für Stickstoff Angaben zum\\
   zeitlichen Verlauf der Verfügbarkeit.
 - 3. :: Bei Verwendung von Klärschlämmen oder Bio-\\
-  abfällen mit dem Hinweis: Bei einer Aufbringung\\
+  abfällen mit dem Hinweis: „Bei einer Aufbringung\\
   auf landwirtschaftlich genutzten Flächen sind\\
   Anwendungs- und Mengenbeschränkungen aus\\
   abfallrechtlichen Vorschriften (AbfKlärV, BioAbfV)\\
   zu beachten“.\\
 
+ 
 
+ 
 
-
-
-- 4. :: Bei Verwendung von Stoffen nach der Verordnung (EG) Nr. 1069/2009 -- auOrganisches Düngemittel unter Verwendung von tierischen Nebenprodukten -- Zugang für Nutztiere zu den behandelten Flächen während eines Zeitraumes von mindestens 21 Tagen nach der Ausbringung verboten“, soweit in Anlage 2 Tabelle 7.2 Spalte 3 nichts anderes bestimmt ist.
+- 4. :: Bei Verwendung von Stoffen nach der Verordnung (EG) Nr. 1069/2009 -- außer Gülle im Sinne dieser VO -- im Rahmen der Hinweise zur sachgerechten Lagerung und Anwendung der Hinweis „Organisches Düngemittel unter Verwendung von tierischen Nebenprodukten -- Zugang für Nutztiere zu den behandelten Flächen während eines Zeitraumes von mindestens 21 Tagen nach der Ausbringung verboten“, soweit in Anlage 2 Tabelle 7.2 Spalte 3 nichts anderes bestimmt ist.
 
 Hinweis:\\
 Es bestehen ggf. spezifische Anforderungen an Lagerung und Anwendung, die sich aus der Verwendung bestimmter tierischer Nebenprodukte nach der Verordnung (EG) Nr. 1069/2009 ergeben.\\
 \\
 \\
 
-
+ 
 
 - 4. :: Bei Verwendung von Stoffen nach der Verordnung (EG) Nr. 1069/2009 -- außer Gülle im Sinne dieser VO -- im Rahmen der Hinweise zur sachgerechten\\
-  Lagerung und Anwendung: der Hinweis Organisches Düngemittel / Bodenverbesserungsmittel\\
+  Lagerung und Anwendung: der Hinweis „Organisches Düngemittel / Bodenverbesserungsmittel\\
   unter Verwendung von tierischen Nebenprodukten -- Zugang für Nutztiere zu den behandelten Flächen\\
   während eines Zeitraumes von mindestens\\
   21 Tagen nach der Ausbringung verboten“ soweit\\

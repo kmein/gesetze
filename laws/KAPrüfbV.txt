@@ -10,27 +10,27 @@ Auf Grund des § 38 Absatz 5 Satz 1, des § 106 Satz 1, des § 121 Absatz 4 Satz
 
 Inhaltsübersicht
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 § 1 - Anwendungsbereich
 
@@ -419,20 +419,20 @@ Im Prüfungsbericht ist zu beurteilen, ob die getroffenen organisatorischen Vork
 (1) Auf die Prüfung der Investmentaktiengesellschaft und der Investmentkommanditgesellschaft sind die §§ 5, 6, 10 bis 13 Absatz 1 bis 5, die §§ 14, 25 Absatz 3 sowie die §§ 26 bis 33 entsprechend anzuwenden, soweit sich aus den Vorschriften dieses Kapitels nichts anderes ergibt. Auf die intern verwaltete Investmentgesellschaft sind darüber hinaus § 8 Absatz 4 sowie in Bezug auf die für den Betrieb der Investmentgesellschaft notwendigen Vermögensgegenstände und Schulden (Investmentbetriebsvermögen) die §§ 15 bis 20 entsprechend anzuwenden; in Bezug auf die dem Sondervermögen vergleichbaren Vermögensgegenstände und Schulden (Investmentanlagevermögen) sind die §§ 21, 22 und 33 entsprechend anzuwenden.
 (2) Die in Absatz 1 genannten Vorschriften sind bei der Investmentaktiengesellschaft mit folgenden Maßgaben entsprechend anzuwenden:
 
-- 1. :: an die Stelle des Wortes externe Kapitalverwaltungsgesellschaft“ tritt das Wort Investmentaktiengesellschaft“;
-- 2. :: an die Stelle des Wortes Anteil“ tritt das Wort Aktie“;
-- 3. :: an die Stelle des Wortes Anteilinhaber“ tritt das Wort Aktionär“;
-- 4. :: an die Stelle des Wortes Anlagebedingungen“ treten die Wörter Satzung und Anlagebedingungen“;
-- 5. :: an die Stelle des Wortes Sondervermögen“ tritt das Wort Gesellschaftsvermögen“ oder das Wort Teilgesellschaftsvermögen“;
-- 6. :: die Wörter der wesentlichen Geschäftssparten“ bleiben außer Betracht.
+- 1. :: an die Stelle des Wortes „externe Kapitalverwaltungsgesellschaft“ tritt das Wort „Investmentaktiengesellschaft“;
+- 2. :: an die Stelle des Wortes „Anteil“ tritt das Wort „Aktie“;
+- 3. :: an die Stelle des Wortes „Anteilinhaber“ tritt das Wort „Aktionär“;
+- 4. :: an die Stelle des Wortes „Anlagebedingungen“ treten die Wörter „Satzung und Anlagebedingungen“;
+- 5. :: an die Stelle des Wortes „Sondervermögen“ tritt das Wort „Gesellschaftsvermögen“ oder das Wort „Teilgesellschaftsvermögen“;
+- 6. :: die Wörter „der wesentlichen Geschäftssparten“ bleiben außer Betracht.
 
 (3) Die in Absatz 1 genannten Vorschriften sind bei der Investmentkommanditgesellschaft mit folgenden Maßgaben entsprechend anzuwenden:
 
-- 1. :: an die Stelle des Wortes externe Kapitalverwaltungsgesellschaft“ tritt das Wort Investmentkommanditgesellschaft“;
-- 2. :: an die Stelle des Wortes Anteilinhaber“ tritt das Wort Anleger“;
-- 3. :: an die Stelle des Wortes Anlagebedingungen“ treten die Wörter Gesellschaftsvertrag und Anlagebedingungen“;
-- 4. :: an die Stelle des Wortes Sondervermögen“ tritt das Wort Gesellschaftsvermögen“ oder das Wort Teilgesellschaftsvermögen“;
-- 5. :: die Wörter der wesentlichen Geschäftssparten“ bleiben außer Betracht.
+- 1. :: an die Stelle des Wortes „externe Kapitalverwaltungsgesellschaft“ tritt das Wort „Investmentkommanditgesellschaft“;
+- 2. :: an die Stelle des Wortes „Anteilinhaber“ tritt das Wort „Anleger“;
+- 3. :: an die Stelle des Wortes „Anlagebedingungen“ treten die Wörter „Gesellschaftsvertrag und Anlagebedingungen“;
+- 4. :: an die Stelle des Wortes „Sondervermögen“ tritt das Wort „Gesellschaftsvermögen“ oder das Wort „Teilgesellschaftsvermögen“;
+- 5. :: die Wörter „der wesentlichen Geschäftssparten“ bleiben außer Betracht.
 
 
 § 45 - Darstellung der rechtlichen, wirtschaftlichen und organisatorischen Grundlagen
@@ -482,7 +482,7 @@ bezüglich einzelner Änderungen vgl. Fußnote)
 Die angegebenen Beträge (kaufmännische Rundung) lauten auf Tsd. Euro (EUR); Prozentangaben sind mit einer Nachkommastelle anzugeben (kaufmännische Rundung).\\
 \\
 
-
+ 
 
 Position
 
@@ -502,9 +502,9 @@ Daten zu den organisatorischen Grundlagen
   ja (= 0) / nein (= 1)
 - 4. :: Personalbestand gemäß § 267 Absatz 5 HGB
 
+ 
 
-
-
+ 
 
 (2)
 
@@ -513,16 +513,16 @@ Daten zur Vermögenslage
 - 1. :: Eigenmittel gemäß § 25 KAGB
 - 2. :: Kursreserven bei Schuldverschreibungen und anderen festverzinslichen Wertpapieren
   - a) :: Bruttobetrag der Kursreserven
-  - b) :: Nettobetrag der Kursreserven (unter Berücksichtigung von Sicherungsgeschäften)
+  - b) :: Nettobetrag der Kursreserven (unter Berücksichtigung von Sicherungsgeschäften)¹
 - 3. :: Kursreserven bei Aktien und anderen nicht festverzinslichen Wertpapieren sowie bei Beteiligungen und Anteilen an verbundenen Unternehmen
   - a) :: Bruttobetrag der Kursreserven
   - b) :: Nettobetrag der Kursreserven (unter Berücksichtigung von Sicherungsgeschäften)<<FnR.FnA1-fn782017_01>>[[#FnA1-fn782017_01][1]]}
 - 4. :: Vermiedene Abschreibungen auf Schuldverschreibungen und auf andere festverzinsliche Wertpapiere durch Übernahme in das Anlagevermögen
 - 5. :: Vermiedene Abschreibungen auf Aktien und auf andere nicht festverzinsliche Wertpapiere durch Übernahme in das Anlagevermögen
 
+ 
 
-
-
+ 
 
 (3)
 
@@ -535,13 +535,13 @@ Daten zur Ertragslage
     - aa) :: Portfolioverwaltung von Sondervermögen
     - bb) :: durch andere erbrachte individuelle Vermögensverwaltung
   - d) :: Provisionen für den Vertrieb von Investmentanteilen<<FnR.FnA1-fn782017_03>>[[#FnA1-fn782017_03][3]]}
-  - e) :: Rückvergütungen nach § 101 Absatz 2 Nummer 4 Alt. 1, ggf. in Verbindung mit § 120 Absatz 4 Satz 2, §§ 148 und 158 Satz 2 KAGB
+  - e) :: Rückvergütungen nach § 101 Absatz 2 Nummer 4 Alt. 1, ggf. in Verbindung mit § 120 Absatz 4 Satz 2, §§ 148 und 158 Satz 2 KAGB³
   - f) :: Sonstige Provisionserträge<<FnR.FnA1-fn782017_04>>[[#FnA1-fn782017_04][4]]}
   - g) :: Für Rechnung der Gesellschaft gezahlte Vergütung für die durch andere erbrachte individuelle Vermögensverwaltung im Sinne des § 20 Absatz 2 Nummer 1 und Absatz 3 Nummer 2 KAGB
   - h) :: Für Rechnung der Gesellschaft gezahlte Entgelte für Beratungsleistungen in Bezug auf die
     - aa) :: Portfolioverwaltung von Sondervermögen
     - bb) :: individuelle Vermögensverwaltung im Sinne des § 20 Absatz 2 Nummer 1 und Absatz 3 Nummer 2 KAGB
-  - i) :: Für die Vermittlung von Investmentanteilen, die von der Gesellschaft ausgegeben wurden, für Rechnung der Gesellschaft gezahlte Provisionen
+  - i) :: Für die Vermittlung von Investmentanteilen, die von der Gesellschaft ausgegeben wurden, für Rechnung der Gesellschaft gezahlte Provisionen³
   - j) :: Sonstige Provisionsaufwendungen
   - k) :: Provisionsergebnis (Saldo)
 - 2. :: Zinsergebnis
@@ -564,9 +564,9 @@ Daten zur Ertragslage
 - 14. :: Entnahmen aus Genussrechtskapital
 - 15. :: Wiederauffüllung des Genussrechtskapitals
 
+ 
 
-
-
+ 
 
 (4)
 
@@ -585,9 +585,9 @@ Ergänzende Angaben
   - b) :: Nachrangige Forderungen an Kunden
   - c) :: Sonstige nachrangige Vermögensgegenstände
 
+ 
 
-
-
+ 
 
 \\
 _____________\\
@@ -605,7 +605,7 @@ _____________\\
 Anlage 2 - (zu § 26 Absatz 1 Nummer 14)Berechnung der Portfolioumschlagsrate
 
 (Fundstelle: BGBl. I 2013, 2794)
-
+ 
 Die Portfolioumschlagsrate eines Sondervermögens, einer Investmentaktiengesellschaft mit veränderlichem Kapital oder einer offenen Investmentkommanditgesellschaft wird folgendermaßen ermittelt: Der niedrigere Betrag des Gegenwertes der Käufe und Verkäufe der Vermögensgegenstände des betreffenden Berichtszeitraums wird durch den durchschnittlichen Nettoinventarwert dividiert. Der durchschnittliche Nettoinventarwert ist das arithmetische Mittel der ermittelten Nettoinventarwerte der Vermögensgegenstände.
 Die Portfolioumschlagsrate ist nach folgender Formel zu berechnen und in Prozent anzugeben:
 Portfolioumschlagsrate = Min(X ,Y)/M

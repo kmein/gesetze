@@ -45,10 +45,10 @@ A. Gebühren
 Nummer
 Gebührentatbestand
 Gebührenbetrag in Deutscher Mark
-
+ 
 I.
 Benutzung von Archivgut im Bundesarchiv
-
+ 
 1.1
 1.
 Karten, Plakate, Bild- oder anderes Archivgut, dessen Benutzung besonderen Aufwand voraussetzt, je angefangenem Tag
@@ -69,16 +69,16 @@ Benutzung von Archivgut außerhalb des Bundesarchivs je Aufbewahrungseinheit
 III.
 Bearbeitung von Anfragen Schriftliche Auskünfte oder Ermittlung von Archiv- und Bibliotheksgut je angefangener halben Stunde
 30,00
-
+ 
 IV.
 Wiedergabe von Archivgut
-
-
+ 
+ 
 1.
 Publikationen im Druck oder auf elektronischen Speichermedien je Reproduktion bei einer Auflage
-
+ 
 4.11
-
+ 
 a)
 bis 3.000 Exemplare
 30,00
@@ -110,15 +110,15 @@ bis 300.000 Exemplare
 h)
 über 300.000 Exemplare
 350,00
-
+ 
 Neuauflagen, Nachdrucke, Übersetzungen oder Lizenzausgaben werden wie neue Publikationen behandelt.Rec Bei gleichzeitiger Publikation im Druck und auf CD-ROM wird für die CD-ROM-Ausgabe ein Nachlass von 50% auf die Gebühr für die gedruckte Ausgabe gewährt.
-
-
+ 
+ 
 2.
 Fernsehsendungen, Videoproduktionen oder Kinofilme je zur Verfügung gestellter Reproduktion
-
+ 
 4.21
-
+ 
 a)
 lokal
 10,00
@@ -138,12 +138,12 @@ europaweit
 e)
 weltweit
 150,00
-
+ 
 3.
 Einblendung in Onlinedienste je Reproduktion
-
+ 
 4.31
-
+ 
 a)
 eine Woche
 50,00
@@ -178,21 +178,21 @@ B. Auslagen
 Nummer
 Auslagentatbestand
 Höhe
-
+ 
 I.
 Ausführung reprographischer Arbeiten
-
-
+ 
+ 
 1.
 Elektro-/Xerokopien je Stück
-
+ 
 01.1
-
+ 
 von Archivgut
 DIN A 4
 0,80 DM
 01.2
-
+ 
 DIN A 3
 0,90 DM
 01.3
@@ -200,26 +200,26 @@ von Bibliotheksgut
 DIN A 4
 0,40 DM
 01.4
-
+ 
 DIN A 3
 0,45 DM
-
+ 
 2.
 Kopien über Reader Printer oder Computerausdrucke je Stück oder je Blatt
-
+ 
 02.1
-
+ 
 DIN A 4
 0,30 DM
 02.2
 DIN A 3
 0,40 DM
-
+ 
 3.
 Farbkopien je Stück
-
+ 
 03.1
-
+ 
 DIN A 4
 10,50 DM
 03.2
@@ -229,23 +229,23 @@ DIN A 3
 4.
 Aufnahmen auf Dokumenten-Mikrorollfilm (35 mm) oder Mikrofiche je Stück (insgesamt mindestens 6,00 DM)
 0,90 DM
-
+ 
 5.
 Duplizierung von Mikrofilmen (Diazo) 35 mm je Meter (insgesamt mindestens 6,00 DM)
-
+ 
 05.1
-
+ 
 unter 30 m
 2,00 DM
 05.2
 ab 30 m
 1,70 DM
-
+ 
 6.
 Aufnahmen auf Bildfilm je Stück
-
+ 
 06.1
-
+ 
 24 x 36 mm
 4,50 DM
 06.2
@@ -265,17 +265,17 @@ Aufnahmen auf Dokumenten-Mikroplanfilm (DIN A 5) je Stück
 8.
 Duplizierung von Mikrofiches (DIN A 6) je Stück
 3,00 DM
-
+ 
 9.
 Aufnahmen auf Farbfilm je Stück (insgesamt mindestens 15,00 DM)
-
-
-
+ 
+ 
+ 
 a)
 Color-Negativfilm
-
+ 
 09.1
-
+ 
 24 x 36 mm
 5,50 DM
 09.2
@@ -284,12 +284,12 @@ Color-Negativfilm
 09.3
 9 x 12 cm
 15,00 DM
-
+ 
 b)
 Color-Diapositiv
-
+ 
 09.4
-
+ 
 24 x 36 mm
 7,00 DM
 09.5
@@ -298,12 +298,12 @@ Color-Diapositiv
 09.6
 9 x 12 cm
 16,00 DM
-
+ 
 10.
 Fotografische Rückvergrößerungen auf Dokumentenpapier je Stück
-
+ 
 10.1
-
+ 
 DIN A 4
 3,00 DM
 10.2
@@ -318,12 +318,12 @@ DIN A 1
 10.5
 DIN A 0
 31,00 DM
-
+ 
 11.
 Schwarz-weiß-Rückvergrößerungen auf klischeefähigem Bildpapier (Bildreproduktionen) je Stück
-
+ 
 11.1
-
+ 
 10,5 x 14,8 cm (WPK)
 3,50 DM
 11.2
@@ -341,16 +341,16 @@ Schwarz-weiß-Rückvergrößerungen auf klischeefähigem Bildpapier (Bildreprodu
 11.6
 40 x 50 cm
 28,00 DM
-
+ 
 II.
 Kopierung auf elektronische Speichermedien
-
-
+ 
+ 
 1.
 Dateien je Stück
-
+ 
 12.1
-
+ 
 a)
 Magnetband oder DAT-Kassette oder CD
 80,00 DM
@@ -358,12 +358,12 @@ Magnetband oder DAT-Kassette oder CD
 b)
 Diskette
 11,00 DM
-
+ 
 2.
 Tonträger je Stück
-
+ 
 13.1
-
+ 
 a)
 Kassette
 30,00 DM
@@ -371,64 +371,64 @@ Kassette
 b)
 DAT-Kassette
 40,00 DM
-
+ 
 c)
 Magnetband
-
+ 
 13.3
-
+ 
 bis zu 15 Minuten Spieldauer
 30,00 DM
 13.4
-
+ 
 jede weitere Minute
 2,00 DM
-
+ 
 III.
 Benutzungskopien bei Kinofilmen und Videomaterialien
-
-
+ 
+ 
 1.
 Duplizierung von Kinofilmen je Meter
-
-
-
+ 
+ 
+ 
 a)
 Teile von Filmrollen (Abklammerung)
-
+ 
 14.1
-
+ 
 Schwarz/weiß
 4,20 DM
 14.2
 Farbe
 6,30 DM
-
+ 
 b)
 Ganze Filmrollen
-
+ 
 14.3
-
+ 
 Schwarz/weiß
 2,10 DM
 14.4
 Farbe
 3,15 DM
-
+ 
 2.
 je Vorführung
-
-
-
+ 
+ 
+ 
 a)
 Kinofilme je Meter
-
+ 
 15.1
-
+ 
 Schwarz/weiß
 0,08 DM
 15.2
-
+ 
 Farbe
 0,12 DM
 15.3

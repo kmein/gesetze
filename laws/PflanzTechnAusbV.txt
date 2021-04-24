@@ -164,13 +164,13 @@ statt.
 
 (9) Die Abschlussprüfung ist bestanden, wenn die Leistungen
 
-- 1. :: im Gesamtergebnis mit mindestens ausreichend“,
-- 2. :: in mindestens drei Prüfungsbereichen mit mindestens ausreichend“,
-- 3. :: in keinem Prüfungsbereich mit ungenügend“
+- 1. :: im Gesamtergebnis mit mindestens „ausreichend“,
+- 2. :: in mindestens drei Prüfungsbereichen mit mindestens „ausreichend“,
+- 3. :: in keinem Prüfungsbereich mit „ungenügend“
 
 bewertet worden sind.
 
-(10) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
+(10) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 § 7 - Bestehende Berufsausbildungsverhältnisse
 
@@ -225,16 +225,16 @@ Nummer 1)
 
 30
 
+ 
 
+ 
 
-
-
-
+ 
 
 - d) :: Wachstumsfaktoren von Pflanzen nach Versuchs- und Vermehrungszielen beeinflussen
 - e) :: Maßnahmen des integrierten Pflanzenschutzes anwenden
 
-
+ 
 
 10
 
@@ -250,18 +250,18 @@ Nummer 2)
 
 10
 
+ 
 
+ 
 
-
-
-
+ 
 
 - d) :: Vorgaben und Pläne bei Versuchen und Untersuchungsreihen umsetzen, insbesondere in Bezug auf statistische Auswertungen
 - e) :: Versuche und Untersuchungsreihen planen und durchführen
 - f) :: Versuche und Untersuchungsreihen dokumentieren und Daten aufbereiten
 - g) :: Pflanzenmaterial nach Vorgabe selektieren
 
-
+ 
 
 15
 
@@ -276,15 +276,15 @@ Nummer 3)
 
 10
 
+ 
 
-
-
+ 
 
 - c) :: Verfahren zur Sortenentwicklung anwenden, dabei geeignete Züchtungs- und Vermehrungsverfahren durchführen
 - d) :: Vorgaben des Sortenrechtes umsetzen
 - e) :: Bedeutung von genetischer Vielfalt und Genbanken für die Pflanzenzüchtung darstellen
 
-
+ 
 
 10
 
@@ -299,14 +299,14 @@ Nummer 4)
 
 10
 
+ 
 
-
-
+ 
 
 - c) :: Maschinen, Geräte und technische Anlagen reinigen, pflegen und prüfen sowie Störungen feststellen und Maßnahmen zu deren Beseitigung ergreifen
 - d) :: Wartung von Maschinen, Geräten und technischen Anlagen veranlassen
 
-
+ 
 
 10
 
@@ -322,11 +322,11 @@ Nummer 5)
 
 8
 
-
+ 
 
 - d) :: Analyseverfahren anwenden
 
-
+ 
 
 10
 
@@ -341,15 +341,15 @@ Nummer 6)
 
 4
 
+ 
 
-
-
+ 
 
 - c) :: Arbeitsabläufe eigenständig und im Team planen und umsetzen
 - d) :: Arbeitsergebnisse dokumentieren, kontrollieren und bewerten
 - e) :: Konflikte im Team lösen
 
-
+ 
 
 9
 
@@ -363,14 +363,14 @@ Nummer 7)
 
 2
 
+ 
 
-
-
+ 
 
 - b) :: betriebliche Qualitätssicherungssysteme anwenden, insbesondere Qualität sichernde Vorbeuge- und Korrekturmaßnahmen einleiten und durchführen
 - c) :: Qualitätsstandards anwenden, Umsetzung überprüfen und beurteilen
 
-
+ 
 
 8
 
@@ -386,13 +386,13 @@ Nummer 8)
 
 4
 
-
+ 
 
 - d) :: Daten sichern und pflegen
 - e) :: Sachverhalte darstellen und Gespräche situationsgerecht führen
 - f) :: berufsspezifische Fachbegriffe anwenden
 
-
+ 
 
 6
 
@@ -436,7 +436,7 @@ Nummer 1)
 - c) :: Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 - d) :: Grundlagen, Aufgabe und Arbeitsweise der betriebsverfassungs- und personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
-
+ 
 
 2
 
@@ -450,7 +450,7 @@ Nummer 2)
 - d) :: wesentliche Teile des Arbeitsvertrages nennen
 - e) :: wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
-
+ 
 
 3
 
@@ -481,9 +481,9 @@ Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsber
 - c) :: Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 - d) :: Abfälle vermeiden, Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
+ 
 
-
-
+ 
 
 5
 
@@ -494,6 +494,6 @@ Nummer 5)
 - a) :: Einflüsse und Auswirkungen von Pflanzenanbau auf das Ökosystem darstellen
 - b) :: Maßnahmen zur Erhaltung genetischer Ressourcen darstellen
 
+ 
 
-
-
+ 

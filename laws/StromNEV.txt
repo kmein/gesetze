@@ -11,7 +11,7 @@ Auf Grund des § 24 Satz 1 Nr. 1 bis 3 in Verbindung mit Satz 2 Nr. 1, 2, 4, 6 u
 Inhaltsübersicht
 
 Teil 1
-
+ 
 Allgemeine Bestimmungen
 § 1
 Anwendungsbereich
@@ -22,14 +22,14 @@ Grundsätze der Entgeltbestimmung
 § 3a
 Ermittlung der umlagefähigen Netzkosten von Offshore-Anbindungsleitungen
 Teil 2
-
+ 
 Methode zur Ermittlung der Netzentgelte
-
-
+ 
+ 
 Abschnitt 1
-
-
-
+ 
+ 
+ 
 Kostenartenrechnung
 § 4
 Grundsätze der Netzkostenermittlung
@@ -51,12 +51,12 @@ Kostenmindernde Erlöse und Erträge
 Behandlung von Netzverlusten
 § 11
 Periodenübergreifende Saldierung
-
-
+ 
+ 
 Abschnitt 2
-
-
-
+ 
+ 
+ 
 Kostenstellenrechnung
 § 12
 Grundsätze der Kostenverteilung
@@ -64,12 +64,12 @@ Grundsätze der Kostenverteilung
 Kostenstellen
 § 14
 Kostenwälzung
-
-
+ 
+ 
 Abschnitt 2a
-
-
-
+ 
+ 
+ 
 Bundeseinheitliche Übertragungsnetzentgelte
 § 14a
 Bildung bundeseinheitlicher Übertragungsnetzentgelte
@@ -79,12 +79,12 @@ Ermittlung der bundeseinheitlichen Übertragungsnetzentgelte
 Ausgleich der Mehr- und Mindereinnahmen auf Grund bundeseinheitlicher Übertragungsnetzentgelte
 § 14d
 Datenaustausch zur Bildung bundeseinheitlicher Übertragungsnetzentgelte
-
-
+ 
+ 
 Abschnitt 3
-
-
-
+ 
+ 
+ 
 Kostenträgerrechnung
 § 15
 Grundsätze der Entgeltermittlung
@@ -101,7 +101,7 @@ Verprobung
 § 21
 Netzentgeltbildung bei Anreizregulierung
 Teil 3
-
+ 
 (weggefallen)
 § 22
 (weggefallen)
@@ -114,7 +114,7 @@ Teil 3
 § 26
 (weggefallen)
 Teil 4
-
+ 
 Pflichten der Netzbetreiber
 § 27
 Veröffentlichungspflichten
@@ -123,7 +123,7 @@ Dokumentation
 § 29
 Mitteilungen gegenüber der Regulierungsbehörde
 Teil 5
-
+ 
 Sonstige Bestimmungen
 § 30
 Festlegungen der Regulierungsbehörde
@@ -635,7 +635,7 @@ Anlagengruppen
 Spanne (Jahre)
 I.
 Allgemeine Anlagen
-
+ 
 1.
 Grundstücke
 0
@@ -662,22 +662,22 @@ Lagereinrichtung
 14-25
 9.
 EDV-Anlagen
-
+ 
 - Hardware
 4-8
 - Software
 3-5
 10.
 Fahrzeuge
-
+ 
 - Leichtfahrzeuge
 5
 - Schwerfahrzeuge
 8
-
+ 
 II.
 Erzeugungsanlagen
-
+ 
 1.
 Dampfkraftwerksanlagen
 20-25
@@ -686,7 +686,7 @@ Kernkraftwerksanlagen
 20-25
 3.
 Wasserkraftwerksanlagen
-
+ 
 - Staustrecken
 50-70
 - Wehranlagen, Einlaufbecken
@@ -708,16 +708,16 @@ andere Kraftwerksanlagen
 6.
 nachträglich eingebaute Umweltschutzanlagen
 10-15
-
+ 
 III.
 Fortleitungs- und Verteilungsanlagen
-
+ 
 1.
 Netzanlagen für Hochspannungsübertragung
-
+ 
 1.1
 Leitungsnetze
-
+ 
 - Freileitung 110-380 kV
 40-50
 - Kabel 220 kV
@@ -740,24 +740,24 @@ Sonstiges
 20-30
 2.
 Netzanlagen des Verteilungsbetriebs
-
+ 
 2.1
 Mittelspannungsnetz
-
+ 
 - Kabel
 40-45
 - Freileitungen
 30-40
 2.2
 Niederspannungsnetz
-
+ 
 - Kabel 1 kV
 40-45
 - Freileitungen 1 kV
 30-40
 2.3
 Stationen mit elektrischen Einrichtungen:
-
+ 
 - 380/220/110/30/10 kV-Stationen
 25-35
 - Hauptverteilerstationen
@@ -779,7 +779,7 @@ in Umspann- und Schaltanlagen
 25-30
 2.4
 Abnehmeranschlüsse
-
+ 
 - Kabel
 35-45
 - Freileitungen
@@ -825,14 +825,14 @@ Fundstelle des Originaltextes: BGBl. I 2005, 2238 - 2239
   - 8.1 :: Nebenkostenstelle "Niederspannungsleitungen": Kosten der Niederspannungsleitungen ohne Anlagen der Straßenbeleuchtung;
   - 8.2 :: Nebenkostenstelle "Anlagen der Straßenbeleuchtung": Kosten der Anlagen der Straßenbeleuchtung.
 - 9. :: Hauptkostenstelle "Hausanschlussleitungen und Hausanschlüsse": Kosten der Erstellung von Hausanschlüssen und Hausanschlussleitungen.
-- 10. :: Hauptkostenstelle Messstellenbetrieb“
-- 10.1 :: Nebenkostenstelle Messstellenbetrieb Höchstspannungsnetz“;
-- 10.2 :: Nebenkostenstelle Messstellenbetrieb Umspannung 380/110 Kilovolt beziehungsweise 220/110 Kilovolt“;
-- 10.3 :: Nebenkostenstelle Messstellenbetrieb Hochspannungsnetz 110 Kilovolt“;
-- 10.4 :: Nebenkostenstelle Messstellenbetrieb Umspannung 110 Kilovolt/Mittelspannung“;
-- 10.5 :: Nebenkostenstelle Messstellenbetrieb Mittelspannung“;
-- 10.6 :: Nebenkostenstelle Messstellenbetrieb Umspannung Mittel-/Niederspannung“;
-- 10.7 :: Nebenkostenstelle Messstellenbetrieb Niederspannung“.
+- 10. :: Hauptkostenstelle „Messstellenbetrieb“
+- 10.1 :: Nebenkostenstelle „Messstellenbetrieb Höchstspannungsnetz“;
+- 10.2 :: Nebenkostenstelle „Messstellenbetrieb Umspannung 380/110 Kilovolt beziehungsweise 220/110 Kilovolt“;
+- 10.3 :: Nebenkostenstelle „Messstellenbetrieb Hochspannungsnetz 110 Kilovolt“;
+- 10.4 :: Nebenkostenstelle „Messstellenbetrieb Umspannung 110 Kilovolt/Mittelspannung“;
+- 10.5 :: Nebenkostenstelle „Messstellenbetrieb Mittelspannung“;
+- 10.6 :: Nebenkostenstelle „Messstellenbetrieb Umspannung Mittel-/Niederspannung“;
+- 10.7 :: Nebenkostenstelle „Messstellenbetrieb Niederspannung“.
 
 Soweit eine Umspannung von 380 Kilovolt oder 220 Kilovolt auf eine andere nachgelagerte Netzebene als 110 Kilovolt erfolgt, wird dies für die Zwecke dieser Verordnung regulatorisch wie eine Umspannung auf 110 Kilovolt behandelt.
 
@@ -881,103 +881,103 @@ Anlage 5 - (zu § 28 Abs. 2 Nr. 6)  Absatzstruktur
 
 (Fundstelle: BGBl. I 2005, 2242)
 \\
-
+ 
 < 2.500 h/a
-
+ 
 Summe der zeitungleichen Jahreshöchstleistungen über alle Entnahmen (Letztverbraucher und Weiterverteiler)
 Anzahl der Entnahmestellen
 Gesamtabgabe an Letztverbraucher und Weiterverteiler
 Netz- oder Umspannebene
 kW
-
+ 
 kWh
 HöS
-
-
-
+ 
+ 
+ 
 HöS/HS
-
-
-
+ 
+ 
+ 
 HS
-
-
-
+ 
+ 
+ 
 HS/MS
-
-
-
+ 
+ 
+ 
 MS
-
-
-
+ 
+ 
+ 
 MS/NS
-
-
-
+ 
+ 
+ 
 NS mit LM
-
-
-
+ 
+ 
+ 
 NS ohne LM
-
-
-
+ 
+ 
+ 
 NS (mit und ohne LM)
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 > 2.500 h/a
-
+ 
 Summe der zeitungleichen Jahreshöchstleistungen über alle Entnahmen (Letztverbraucher und Weiterverteiler)
 Anzahl der Entnahmestellen
 Gesamtabgabe an Letztverbraucher und Weiterverteiler
 Netz- oder Umspannebene
 kW
-
+ 
 kWh
 HöS
-
-
-
+ 
+ 
+ 
 HöS/HS
-
-
-
+ 
+ 
+ 
 HS
-
-
-
+ 
+ 
+ 
 HS/MS
-
-
-
+ 
+ 
+ 
 MS
-
-
-
+ 
+ 
+ 
 MS/NS
-
-
-
+ 
+ 
+ 
 NS mit LM
-
-
-
+ 
+ 
+ 
 NS ohne LM
-
-
-
+ 
+ 
+ 
 NS (mit und ohne LM)
-
-
-
-
+ 
+ 
+ 
+ 
 nachgelagerte Netz- bzw. Umspannebenen
 Gesamtabgabe und -last
-
+ 
 Abgabe an eigene nachgelagerte Netz- oder Umspannebene
 zeitgleiche Jahreshöchstlast
 Gesamtabgabe aus der Netz- oder Umspannebene
@@ -988,53 +988,53 @@ kW
 kWh
 kW
 HöS
-
-
-
-
+ 
+ 
+ 
+ 
 HöS/HS
-
-
-
-
+ 
+ 
+ 
+ 
 HS
-
-
-
-
+ 
+ 
+ 
+ 
 HS/MS
-
-
-
-
+ 
+ 
+ 
+ 
 MS
-
-
-
-
+ 
+ 
+ 
+ 
 MS/NS
-
-
-
-
+ 
+ 
+ 
+ 
 NS mit LM
-
-
-
-
+ 
+ 
+ 
+ 
 NS ohne LM
-
-
-
-
+ 
+ 
+ 
+ 
 NS (mit und ohne LM)
-
-
-
-
+ 
+ 
+ 
+ 
 eigene Entnahme aus vorgelagertem Netz
 zeitgleiche Jahreshöchstlast
 kWh
 kW
-
-
+ 
+ 

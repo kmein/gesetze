@@ -198,32 +198,32 @@ Beurteilen von Pelzfellen und Leder unter Beachtung der Artenschutzbestimmungen 
 a)
 branchenbezogene Bestimmungen anwenden, insbesondere das Washingtoner Artenschutzübereinkommen und die Bundesartenschutzverordnung
 8
-
-
+ 
+ 
 b)
 Pelzfelle und Lederarten nach Provenienzen sowie nach ihren Handels- und zoologischen Bezeichnungen ordnen
 c)
 Pelzfelle und Lederarten nach ihren Eigenschaften und Merkmalen unterscheiden, insbesondere nach ihrem Verwendungszweck und ihren Verarbeitungsmöglichkeiten
 d)
 Auswirkungen von Veredlungsprozessen auf Pelzfelle und Lederarten beurteilen, insbesondere auf Optik und Haltbarkeit
-
+ 
 4
-
+ 
 6
 Entwerfen und Entwickeln von Arbeitsmustern (§ 4 Nr. 6)
 a)
 Musterteile nach ihrer Funktion unterscheiden
-
+ 
 10
-
+ 
 b)
 Muster abnehmen und abgeformte Teile planlegen und bezeichnen, insbesondere für Innenfutter und Besatz
 c)
 Körper abformen
 d)
 Modetendenzen beachten, Kosten einschätzen
-
-
+ 
+ 
 12
 e)
 Grundschnitte nach vorgegebenen Maßen erstellen
@@ -239,46 +239,46 @@ Arbeitsmuster nach vorgegebenen und eigenen Entwürfen herstellen
 Planen und Vorbereiten von Arbeitsabläufen (§ 4 Nr. 7)
 a)
 Auftragsunterlagen prüfen, Auftragsbeschreibung erfassen und Arbeitsabläufe festlegen
-
+ 
 5
-
+ 
 b)
 Skizzen anfertigen sowie Fachzeichnungen anwenden
 c)
 Werkzeuge und Maschinen rationell in den Arbeitsablauf einsetzen
 d)
 Arbeitsgänge nach personellen, organisatorischen und zeitlichen Gesichtspunkten festlegen, Fertigungskosten beachten
-
-
+ 
+ 
 2
 8
 Bereitstellen und Kombinieren von Werk- und Hilfsstoffen (§ 4 Nr. 8)
 a)
 Werk- und Hilfsstoffe sachgerecht lagern
 12
-
-
+ 
+ 
 b)
 Werkstoffe auswählen, insbesondere textile Flächengebilde nach Art und Strukturen einteilen und die wesentlichen Verarbeitungs- und Gebrauchseigenschaften aufzeigen
 c)
 Pelzfelle und Leder unter Berücksichtigung der Materialbeschaffenheit und Verarbeitungstechniken sortieren, insbesondere nach Farb- und Strukturfolgen
-
+ 
 4
-
+ 
 d)
 Zutaten auswählen und zuordnen
 e)
 Pelzfelle und Leder nach modischen Gesichtspunkten und optischen Wirkungsgrundsätzen auswählen
-
-
+ 
+ 
 4
 9
 Vorbereiten und Nachbehandeln von Werkstoffen (§ 4 Nr. 9)
 a)
 Leder und Haare befeuchten und Trockenverfahren anwenden
 5
-
-
+ 
+ 
 b)
 Pelzfelle und Leder strecken und zwecken sowie textile Flächen und andere Werkstoffe bügeln und glätten
 c)
@@ -292,17 +292,17 @@ Schneiden und Zuschneiden von Werk- und Hilfsstoffen (§ 4 Nr. 10)
 a)
 Schneidewerkzeuge handhaben und Schneidetechniken ausführen
 10
-
-
+ 
+ 
 b)
 Pelzfelle anbrachen
 c)
 Leder schneiden
 d)
 Einzelschnitte und Schnittgruppen zur Formveränderung von Pelzfellen ausführen
-
+ 
 14
-
+ 
 e)
 Schnittanlagen bei Material mit unterschiedlichem Haarprofil und unterschiedlicher Haarfarbe ausführen
 f)
@@ -311,33 +311,33 @@ g)
 textile Flächen zuschneiden, insbesondere Zwischenfutter und Futterseiden
 h)
 Auslaßberechnungen durchführen und Ergebnisse anwenden
-
-
+ 
+ 
 10
 11
 Nähen von Werkstücken (§ 4 Nr. 11)
 a)
 Nähmaschinen nach ihrem Einsatz unterscheiden und handhaben, insbesondere Spezialnähmaschinen für Pelzfelle und Leder
 14
-
-
+ 
+ 
 b)
 Nahtarten unterscheiden und entsprechend ihrer Einsatzgebiete anwenden
 c)
 Näharbeiten für die Pelzfell-, Leder- und Textilverarbeitung ausführen
 d)
 Einfütterungsarbeiten ausführen
-
+ 
 10
-
+ 
 e)
 Reparaturen und Umarbeitungen ausführen
 12
 Fertigen von Werkstücken (§ 4 Nr. 12)
 a)
 Fertigungsschritte vom Modell und Material ableiten
-
-
+ 
+ 
 14
 b)
 Verarbeitungstechniken festlegen, insbesondere unter Berücksichtigung der Auswirkungen von natürlichen oder durch Veredlung geschaffenen Materialeigenschaften
@@ -352,8 +352,8 @@ Pflegen und Instandhalten von Arbeitsgeräten und Maschinen (§ 4 Nr. 13)
 a)
 Handwerkszeuge instandhalten
 3
-
-
+ 
+ 
 b)
 Arbeitsmittel und Werkzeuge ordnen und lagern
 c)
@@ -366,17 +366,17 @@ Maschinenstörungen feststellen und Fehlerbeseitigung einleiten
 Qualitätssicherung (§ 4 Nr. 14)
 a)
 Ziele, Aufgaben, Bedeutung und betrieblichen Aufbau der Qualitätssicherung beschreiben
-
+ 
 5
-
+ 
 b)
 Begleitpapiere aus der Produktion bearbeiten, Datenerfassungssysteme anwenden
 c)
 Erzeugnisse gemäß den betrieblichen Richtlinien lager- und versandfertig aufmachen und verpacken
 d)
 Eingangs-, Zwischen- und Endkontrollen ausführen, Prüfergebnisse bewerten
-
-
+ 
+ 
 10
 e)
 Qualitätsausfall überprüfen, insbesondere nach Fertigmaßen und Verarbeitung

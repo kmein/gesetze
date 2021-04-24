@@ -266,11 +266,11 @@ Planen und Vorbereiten des Arbeitsablaufs sowie Kontrollieren und Bewerten des A
 
 4
 
+ 
 
+ 
 
-
-
-
+ 
 
 6
 
@@ -284,30 +284,30 @@ Prüfen, Anreißen und Kennzeichnen\\
 
 4
 
+ 
 
+ 
 
-
-
-
+ 
 
 - e) :: ebene und gewölbte Flächen auf Formgenauigkeit prüfen
 
-
+ 
 
 2
 
+ 
 
-
-
+ 
 
 - f) :: Werkstücke mit Grenzlehren und Gewindelehren prüfen
 - g) :: Oberflächenqualität durch Sichtprüfen beurteilen
 
+ 
 
+ 
 
-
-
-
+ 
 
 2
 
@@ -321,30 +321,30 @@ Lesen, Anwenden und Erstellen von technischen Unterlagen\\
 
 4
 
+ 
 
+ 
 
-
-
-
+ 
 
 - c) :: Tabellen, Diagramme, Handbücher und Bedienungshinweise lesen und anwenden
 - d) :: Zeichnungen lesen und anwenden
 
+ 
 
-
-
+ 
 
 2
 
-
+ 
 
 - e) :: Konstruktive Merkmale zeichnen, insbesondere als Schnittdarstellung
 
+ 
 
+ 
 
-
-
-
+ 
 
 2
 
@@ -357,11 +357,11 @@ Holzblasinstrumente im Hinblick auf Werkstoff, Tonerzeugung und Konstruktionsmer
 
 2
 
+ 
 
+ 
 
-
-
-
+ 
 
 9
 
@@ -372,29 +372,29 @@ Auswählen der Werk- und Hilfsstoffe und deren Lagerung\\
 
 2
 
+ 
 
+ 
 
-
-
-
+ 
 
 - b) :: Hölzer und Metalle lagern
 
+ 
 
-
-
+ 
 
 2
 
-
+ 
 
 - c) :: Hilfs- und Verbrauchsstoffe auswählen und lagern
 
+ 
 
+ 
 
-
-
-
+ 
 
 2
 
@@ -408,21 +408,21 @@ Ausrichten und Spannen von Werkzeugen und Werkstücken\\
 
 3
 
+ 
 
+ 
 
-
-
-
+ 
 
 - c) :: Werkzeuge mittels Spannfutter oder Spannzangen spannen und Meißelhalter ausrichten
 
-
+ 
 
 2
 
+ 
 
-
-
+ 
 
 11
 
@@ -435,30 +435,30 @@ manuelles und maschinelles Bearbeiten von Werkstoffen\\
 
 7
 
+ 
 
+ 
 
-
-
-
+ 
 
 - d) :: vorgefertigte Instrumententeile manuell und maschinell nach Skizzen oder Vorgaben bearbeiten
 
+ 
 
-
-
+ 
 
 6
 
-
+ 
 
 - e) :: besondere Gefahren an Werkzeugmaschinen beachten und Arbeitsschutzvorschriften anwenden
 - f) :: Instrumententeile mit Werkzeugmaschinen, insbesondere Bohr-, Dreh- und Drechselmaschinen, längs-, plan- und runddrehen
 
+ 
 
+ 
 
-
-
-
+ 
 
 5
 
@@ -471,21 +471,21 @@ Warten und Pflegen von Betriebsmitteln\\
 
 2
 
+ 
 
+ 
 
-
-
-
+ 
 
 - b) :: Betriebsstoffe, insbesondere Öle, Kühl- und Schmierstoffe, nach Betriebsvorschriften auffüllen und wechseln und der Entsorgung zuführen
 
+ 
 
-
-
+ 
 
 2
 
-
+ 
 
 13
 
@@ -497,32 +497,32 @@ Anfertigen von Klappenmechanikteilen\\
 
 9
 
+ 
 
+ 
 
-
-
-
+ 
 
 - c) :: Teile der Klappenmechanik durch einhändiges Feilen bearbeiten
 - d) :: Bohrer entsprechend der Werkstoffe auswählen
 - e) :: Teile der Klappenmechanik nach Anzeichnung bohren
 
-
+ 
 
 12
 
+ 
 
-
-
+ 
 
 - f) :: Klappenmechanik durch einhändiges Feilen nach Lehre und Maßvorgabe bearbeiten
 - g) :: Klappenmechanik nach Lehre und Maßangaben durch Bohren bearbeiten
 
+ 
 
+ 
 
-
-
-
+ 
 
 8
 
@@ -536,30 +536,30 @@ Fügen\\
 
 2
 
+ 
 
+ 
 
-
-
-
+ 
 
 - c) :: Mechanikteile zusammenpassen und ausrichten
 - d) :: Klappenteile durch Löten verbinden
 
-
+ 
 
 4
 
+ 
 
-
-
+ 
 
 - e) :: Mechanikteile, insbesondere durch Nieten, Verstiften, Verschrauben oder Löten, verbinden
 
+ 
 
+ 
 
-
-
-
+ 
 
 4
 
@@ -572,13 +572,13 @@ Anfertigen und Zurichten von Kleinwerkzeugen\\
 - b) :: Schnittwerkzeuge schärfen
 - c) :: Maßgenauigkeit prüfen
 
-
+ 
 
 6
 
+ 
 
-
-
+ 
 
 16
 
@@ -588,11 +588,11 @@ Herstellen von Korpussen aus Holz oder Metall\\
 - a) :: Holzkorpusse durch Drehen und Bohren oder Metallkorpusse durch Ziehen, Biegen und Bördeln herstellen
 - b) :: zylindrische und konische Innenbohrungen durch Bohren, Räumen und Drehen herstellen
 
+ 
 
+ 
 
-
-
-
+ 
 
 7
 
@@ -607,21 +607,21 @@ Behandeln von Oberflächen\\
 
 3
 
+ 
 
+ 
 
-
-
-
+ 
 
 - d) :: für Hölzer Verfahren der Oberflächenbehandlung auswählen
 - e) :: Hölzer mit Schutzmitteln imprägnieren
 - f) :: Oberflächen aus Holz behandeln, insbesondere durch Schleifen, Polieren, Lackieren und Färben
 
+ 
 
+ 
 
-
-
-
+ 
 
 3
 
@@ -634,11 +634,11 @@ Bohren von Ton- und Säulchenlöchern\\
 - b) :: Ton- und Säulchenlöcher mit Schablone bohren oder Tonlöcher mit Kopiervorrichtung stanzen, ziehen, fräsen oder bördeln
 - c) :: Oberflächengüte prüfen und Maßhaltigkeit der Bohrungen messen
 
+ 
 
+ 
 
-
-
-
+ 
 
 5
 
@@ -652,21 +652,21 @@ Anbringen und Bearbeiten von Säulchen\\
 
 5
 
+ 
 
+ 
 
-
-
-
+ 
 
 - c) :: Säulchen parallel fräsen
 
+ 
 
-
-
+ 
 
 2
 
-
+ 
 
 20
 
@@ -677,22 +677,22 @@ Zusammenbauen und Einpassen der Klappenmechanik\\
 
 5
 
+ 
 
+ 
 
-
-
-
+ 
 
 - b) :: Klappenmechanik durch Schrauben, Fräsen, Biegen, Feilen und Einpassen auf dem Korpus zusammenbauen
 - c) :: Funktionsprüfung durchführen
 
+ 
 
-
-
+ 
 
 12
 
-
+ 
 
 21
 
@@ -704,11 +704,11 @@ Spielfertigmachen von Instrumenten\\
 - c) :: Instrument spielbar machen und Endkontrolle durchführen
 - d) :: Kunden auf die vorbeugende Instandhaltung, insbesondere Reinigung, hinweisen
 
+ 
 
+ 
 
-
-
-
+ 
 
 8
 
@@ -724,10 +724,10 @@ Reparieren von Instrumenten\\
 - e) :: Defekte beseitigen
 - f) :: Instrument zusammenbauen und prüfen
 
+ 
 
+ 
 
-
-
-
+ 
 
 6

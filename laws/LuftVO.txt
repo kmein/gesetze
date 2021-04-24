@@ -6,29 +6,29 @@ Ausfertigungsdatum: 29.10.2015
 
 Inhaltsübersicht
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 § 1 - Anwendungsbereich
 
@@ -365,7 +365,7 @@ Die Anerkennung kann mit Nebenbestimmungen versehen, insbesondere mit Auflagen v
 - 4. :: ein Führungszeugnis nach § 30 Absatz 1 des Bundeszentralregistergesetzes, sofern er sich erstmals um eine Bescheinigung bewirbt.
 
 (4) Die Prüfung kann auch in einem internet-gestützten Verfahren abgelegt werden. Das Luftfahrt-Bundesamt kann dafür Ausnahmen von dem Erfordernis geeigneter Räumlichkeiten nach Absatz 2 Satz 2 Nummer 1 zulassen, wenn der Antragsteller nachweist, dass eine Täuschung über die Identität des Bewerbers ausgeschlossen ist.
-(5) Das Luftfahrt-Bundesamt legt die Form der Bescheinigung fest und veröffentlicht sie in den Nachrichten für Luftfahrer“.
+(5) Das Luftfahrt-Bundesamt legt die Form der Bescheinigung fest und veröffentlicht sie in den „Nachrichten für Luftfahrer“.
 (6) Die anerkannte Stelle führt ein Verzeichnis über die Namen und Anschriften der geprüften Bewerber. In diesem Verzeichnis sind auch Täuschungsversuche zu vermerken.
 (7) Das Luftfahrt-Bundesamt führt die Aufsicht über die anerkannten Stellen. Beschäftigte des Luftfahrt-Bundesamtes sind hierbei befugt, die Räumlichkeiten der Stellen zu den üblichen Betriebs- und Geschäftszeiten zu betreten und entsprechende Ermittlungen vorzunehmen. Sie sind zu Aufsichtszwecken auch befugt, einer Prüfung beizuwohnen und Einsicht in das Verzeichnis nach Absatz 6 zu nehmen.
 
@@ -702,7 +702,7 @@ Abkürzungen:
   - i) :: Unterschreiten der Entscheidungshöhe oder Sinkflugmindesthöhe ohne Vorliegen der erforderlichen Sichtmerkmale;
   - j) :: Verlust der Wahrnehmung der tatsächlichen eigenen Position oder der Position anderer Luftfahrzeuge;
   - k) :: Unterbrechung der Kommunikation zwischen der Flugbesatzung (Crew Resource Management -- CRM) oder zwischen der Flugbesatzung und anderen Personen (Kabinenbesatzung, Flugverkehrskontrolle, Flugingenieure);
-  - l) :: harte Landung, nach der ein Heavy Landing Check“ für erforderlich angesehen wird;
+  - l) :: harte Landung, nach der ein „Heavy Landing Check“ für erforderlich angesehen wird;
   - m) :: Überschreiten der Grenzwerte für ungleichmäßige Treibstoffverteilung;
   - n) :: falsche Einstellung eines SSR-Codes oder einer Höhenmesser-Teilskala;
   - o) :: falsche Programmierung von Geräten für die Navigation oder für Leistungsberechnungen oder fehlerhafte Eingaben in diese Geräte oder Verwendung fehlerhafter Daten;
@@ -714,7 +714,7 @@ Abkürzungen:
   - u) :: Unmöglichkeit, die vorgesehene Luftfahrzeugkonfiguration während einer Flugphase zu erreichen (z. B. fehlerhaftes Fahrwerk oder fehlerhafte Fahrwerksklappen, Landeklappen, Stabilisatoren, Vorflügel);
   - v) :: gefährliche oder potenziell gefährliche Situation als Folge einer gezielten Simulation von Notfallbedingungen bei Schulungen, Systemüberprüfungen oder zu Schulungszwecken;
   - w) :: anormale Vibrationen;
-  - x) :: Auslösen eines primären Warnsystems, das mit dem Manövrieren des Luftfahrzeugs im Zusammenhang steht, z. B. Konfigurationswarnung, Überzieh-Warnung (Stick Shake“) oder Geschwindigkeitswarnung, es sei denn,
+  - x) :: Auslösen eines primären Warnsystems, das mit dem Manövrieren des Luftfahrzeugs im Zusammenhang steht, z. B. Konfigurationswarnung, Überzieh-Warnung („Stick Shake“) oder Geschwindigkeitswarnung, es sei denn,
     - aa) :: die Flugbesatzung hat eindeutig festgestellt, dass es sich um eine Fehlwarnung handelt und die Fehlwarnung hat nicht zu Schwierigkeiten oder Gefahren infolge der Reaktionen der Flugbesatzung auf die Warnung geführt oder
     - bb) :: das Auslösen ist zu Schulungs- oder Prüfungszwecken erfolgt;
   - y) :: Warnung des Bodenannäherungswarnsystems (Ground Proximity Warning System -- GPWS/Terrain Awareness and Warning System -- TAWS), falls
@@ -736,7 +736,7 @@ Abkürzungen:
   - d) :: Ereignis, das zu einer Noträumung des Luftfahrzeugs führt;
   - e) :: Druckabfall;
   - f) :: Benutzung von Notfallausrüstung oder Anwendung vorgeschriebener Notfallverfahren, um eine Situation zu beherrschen;
-  - g) :: Ereignis, das zur Erklärung eines Notfalls (Mayday“ oder Pan“) führt;
+  - g) :: Ereignis, das zur Erklärung eines Notfalls („Mayday“ oder „Pan“) führt;
   - h) :: Ausfall eines Notfallsystems oder -ausrüstungsteils, einschließlich Ausstiegstüren und Beleuchtung, auch beim Einsatz zu Instandhaltungs-, Schulungs- oder Prüfzwecken;
   - i) :: Ereignisse, die die Notfallverwendung von Sauerstoff durch ein Mitglied der Flugbesatzung erforderlich machen.
 - 3. :: Einsatzunfähigkeit der Flugbesatzung
@@ -753,7 +753,7 @@ Abkürzungen:
 - 6. :: Äußere Sicherheit
   - a) :: Rechtswidriger Eingriff in den Luftverkehr, einschließlich Bombendrohung oder Entführung eines Luftfahrzeugs;
   - b) :: Schwierigkeiten bei der Kontrolle betrunkener, gewalttätiger oder sich Anordnungen widersetzender Fluggäste;
-  - c) :: Entdeckung eines blinden Passagiers“.
+  - c) :: Entdeckung eines „blinden Passagiers“.
 - 7. :: Sonstige Ereignisse
   - a) :: Wiederholt auftretende Ereignisse einer bestimmten Art, die für sich allein genommen nicht als meldefähig angesehen würden, die auf Grund ihrer Häufigkeit aber eine potenzielle Gefahr darstellen;
   - b) :: Vogelschlag, der zu Schäden am Luftfahrzeug oder zum Ausfall oder zu Störungen wesentlicher Funktionen geführt hat;
@@ -1003,14 +1003,14 @@ Anlage 3 - (zu § 18 Absatz 4)Bauliche Anforderungen an Landestellen an Einricht
 Der Betreiber der Einrichtung von öffentlichem Interesse stellt sicher, dass die folgenden baulichen Anforderungen erfüllt sind. Er setzt das Luftrettungsunternehmen hierüber in Kenntnis.
 Die Mindestgröße der Start- und Landefläche beträgt 15 Meter mal 15 Meter; der Durchmesser einer kreisrunden Start- und Landefläche beträgt 15 Meter. Die Start- und Landefläche ist eben und frei von Objekten; ihre Neigung darf 5 Prozent nicht überschreiten. Die Tragfähigkeit der Start- und Landefläche muss der maximalen Startmasse des vom Luftfahrtunternehmen an der Landestelle konkret eingesetzten Hubschraubers entsprechen.
 Die Start- und Landefläche muss unmittelbar von einer 3,5 Meter breiten Sicherheitsfläche umgeben sein. Nummer 3.2.2.4 der Allgemeinen Verwaltungsvorschrift zur Genehmigung der Anlage und des Betriebs von Hubschrauberflugplätzen vom 19. Dezember 2005 (BAnz. Nr. 246a vom 29. Dezember 2005) in der jeweils gültigen Fassung gilt entsprechend. Objekte auf der Sicherheitsfläche müssen brechbar sein.
-Die erforderliche Erkennungsmarkierung für eine Landestelle besteht aus einem weiH“ auf einem roten Kreuz, das sich aus Quadraten zusammensetzt, die an jeder Seite des Quadrates um das H anschlieH“ senkrecht zur Hauptan- und -abflugrichtung liegt.
+Die erforderliche Erkennungsmarkierung für eine Landestelle besteht aus einem weißen „H“ auf einem roten Kreuz, das sich aus Quadraten zusammensetzt, die an jeder Seite des Quadrates um das H anschließen (vergleiche Abbildungen 1 und 2). Die Markierungen sind so auszurichten, dass der Querbalken des „H“ senkrecht zur Hauptan- und -abflugrichtung liegt.
 Die äußere Begrenzung der Start- und Landefläche ist mit einer 0,75 Meter breiten Randmarkierung zu versehen.
 Abbildung 1:
-
+ 
 [[../normengrafiken/bgbl1_2016/j1548-1_0010.jpg]]
-
+ 
 Abbildung 2:
-
+ 
 [[../normengrafiken/bgbl1_2016/j1548-1_0020.jpg]]
 Der Betreiber der Einrichtung von öffentlichem Interesse stellt sicher, dass an exponierter Stelle ein geeigneter Windrichtungsanzeiger angebracht ist, der während des Starts und der Landung vom Luftfahrzeugführer eingesehen werden kann.
 (1) Der Betreiber der Einrichtung von öffentlichem Interesse hält Löschmittel in der Mindestleistungsstufe B nach der Klassifikation der Internationalen Zivilluftfahrt-Organisation im Umfang von mindestens 50 Litern in der Nähe der Start- und Landefläche vor. Er stellt sicher, dass bei Starts und Landungen eine sachkundige Person anwesend ist, die im Umgang mit den Löschmitteln unterwiesen worden ist.

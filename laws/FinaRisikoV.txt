@@ -6,13 +6,13 @@ Ausfertigungsdatum: 06.12.2013
 
 Inhaltsübersicht
 
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 \\
 \\
 
@@ -189,7 +189,7 @@ ____________
 Anlage 13a - (zu § zu § 7 Absatz 3)EKRQU
 
 (Fundstelle: BGBl. I 2018, 1088 -- 1089)
-
+ 
 |                                       |                                      |                            | Stand Ende: |                      |
 | Institutsnummer:                      | Prüfziffer:                          | Name:                      | Ort:        |                      |
 |                                       | Sachbearbeiter:                      |                            | Telefon:    |                      |
@@ -208,7 +208,7 @@ Hartes Kernkapital
 
 010
 
-
+ 
 
 1.1.1
 
@@ -216,7 +216,7 @@ Hartes Kernkapital
 
 020
 
-
+ 
 
 1.1.1.1
 
@@ -224,7 +224,7 @@ Hartes Kernkapital
 
 030
 
-
+ 
 
 1.1.1.2
 
@@ -232,7 +232,7 @@ Hartes Kernkapital
 
 040
 
-
+ 
 
 1.1.2
 
@@ -240,7 +240,7 @@ Hartes Kernkapital
 
 050
 
-
+ 
 
 1.1.3
 
@@ -248,7 +248,7 @@ Hartes Kernkapital
 
 060
 
-
+ 
 
 1.1.4
 
@@ -256,7 +256,7 @@ Hartes Kernkapital
 
 070
 
-
+ 
 
 1.1.5
 
@@ -264,7 +264,7 @@ Hartes Kernkapital
 
 080
 
-
+ 
 
 1.1.6
 
@@ -272,7 +272,7 @@ Hartes Kernkapital
 
 090
 
-
+ 
 
 1.1.7
 
@@ -280,15 +280,15 @@ Hartes Kernkapital
 
 100
 
-
+ 
 
 1.1.8
 
-(+/--) andere Bestandteile oder Abzüge bezüglich des harten Kernkapitals
+(+/--) andere Bestandteile oder Abzüge bezüglich des harten Kernkapitals²
 
 110
 
-
+ 
 
 1.2
 
@@ -296,7 +296,7 @@ Zusätzliches Kernkapital gem. Art. 51 CRR
 
 120
 
-
+ 
 
 1.2.1
 
@@ -304,7 +304,7 @@ Zusätzliches Kernkapital gem. Art. 51 CRR
 
 130
 
-
+ 
 
 1.2.2
 
@@ -312,7 +312,7 @@ Zusätzliches Kernkapital gem. Art. 51 CRR
 
 140
 
-
+ 
 
 1.2.3
 
@@ -320,7 +320,7 @@ Zusätzliches Kernkapital gem. Art. 51 CRR
 
 150
 
-
+ 
 
 1.3
 
@@ -328,15 +328,15 @@ Ergänzungskapital i. S. des Art. 71 CRR in Höhe von höchstens einem Drittel d
 
 160
 
-
+ 
 
 1.3.1
 
-(+/--) andere Bestandteile oder Abzüge bezüglich des Ergänzungskapitals
+(+/--) andere Bestandteile oder Abzüge bezüglich des Ergänzungskapitals²
 
 170
 
-
+ 
 
 1.0
 
@@ -344,7 +344,7 @@ anrechenbare Eigenmittel gesamt (010 + 120 + 160)
 
 180
 
-
+ 
 
 Hinweise zu einzelnen Positionen bitte gesondert erläutern.
 
@@ -365,7 +365,7 @@ Summe der Aufwendungen (einschließlich Steueraufwand) gem. Gewinn- und Verlustr
 
 190
 
-
+ 
 
 2.1.1
 
@@ -373,7 +373,7 @@ Summe der Aufwendungen (einschließlich Steueraufwand) gem. Gewinn- und Verlustr
 
 200
 
-
+ 
 
 2.1.2
 
@@ -381,7 +381,7 @@ Summe der Aufwendungen (einschließlich Steueraufwand) gem. Gewinn- und Verlustr
 
 210
 
-
+ 
 
 2.1.3
 
@@ -389,7 +389,7 @@ Summe der Aufwendungen (einschließlich Steueraufwand) gem. Gewinn- und Verlustr
 
 220
 
-
+ 
 
 2.1.4
 
@@ -397,7 +397,7 @@ Summe der Aufwendungen (einschließlich Steueraufwand) gem. Gewinn- und Verlustr
 
 230
 
-
+ 
 
 2.1.5
 
@@ -405,7 +405,7 @@ Summe der Aufwendungen (einschließlich Steueraufwand) gem. Gewinn- und Verlustr
 
 240
 
-
+ 
 
 2.1.6
 
@@ -413,7 +413,7 @@ Summe der Aufwendungen (einschließlich Steueraufwand) gem. Gewinn- und Verlustr
 
 250
 
-
+ 
 
 2.1.7
 
@@ -421,7 +421,7 @@ Summe der Aufwendungen (einschließlich Steueraufwand) gem. Gewinn- und Verlustr
 
 260
 
-
+ 
 
 2.1.8
 
@@ -429,7 +429,7 @@ Summe der Aufwendungen (einschließlich Steueraufwand) gem. Gewinn- und Verlustr
 
 270
 
-
+ 
 
 2.1.9
 
@@ -437,7 +437,7 @@ Summe der Aufwendungen (einschließlich Steueraufwand) gem. Gewinn- und Verlustr
 
 280
 
-
+ 
 
 2.0
 
@@ -445,7 +445,7 @@ Kosten insgesamt
 
 290
 
-
+ 
 
 Hinweise zu einzelnen Positionen bitte gesondert erläutern.
 
@@ -467,7 +467,7 @@ Eigenmittel-/Kosten-Relation ((180 / 290) x 100)
 
 300
 
-
+ 
 
 Hinweise zu einzelnen Positionen bitte gesondert erläutern.
 
@@ -485,7 +485,7 @@ Berechnung der Gesamtkapitalquote ((010 + 120 + 160) x 100 / (0,25 x 290) x 12,5
 
 310
 
-
+ 
 
 4.2
 
@@ -493,7 +493,7 @@ Berechnung der Kernkapitalquote ((010 + 120) x 100 / (0,25 x 290) x 12,5)
 
 320
 
-
+ 
 
 4.3
 
@@ -501,7 +501,7 @@ Berechnung der harten Kernkapitalquote (010 x 100 / (0,25 x 290) x 12,5)
 
 330
 
-
+ 
 
 Hinweise zu einzelnen Positionen bitte gesondert erläutern.
 

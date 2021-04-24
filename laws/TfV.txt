@@ -13,14 +13,14 @@ Ausfertigungsdatum: 29.04.2011
 
 Im Sinne dieser Verordnung bedeutet:
 
-- 1. :: Triebfahrzeugführer“ eine natürliche Person, die die Voraussetzungen erfüllt, um unmittelbar oder mittelbar Triebfahrzeuge eigenständig, verantwortlich und sicher zu führen;
-- 2. :: Triebfahrzeug“ ein Eisenbahnfahrzeug mit eigenem Antrieb;
-- 3. :: Unternehmer“ das Unternehmen, das den Triebfahrzeugführer verantwortlich einsetzt;
-- 4. :: zuständige Behörde“ das Eisenbahn-Bundesamt;
-- 5. :: zuständige Behörde eines anderen Mitgliedstaates“ eine Sicherheitsbehörde eines anderen Mitgliedstaates nach Artikel 16 der Richtlinie 2004/49/EG des Europäischen Parlaments und des Rates vom 29. April 2004 über Eisenbahnsicherheit in der Gemeinschaft und zur Änderung der Richtlinie 95/18/EG des Rates über die Erteilung von Genehmigungen an Eisenbahnunternehmen und der Richtlinie 2001/14/EG über die Zuweisung von Fahrwegkapazität der Eisenbahn, die Erhebung von Entgelten für die Nutzung von Eisenbahninfrastruktur und die Sicherheitsbescheinigung (Richtlinie über die Eisenbahnsicherheit“) (ABl. L 164 vom 30.4.2004, S. 44, L 220 vom 21.6.2004, S. 16; L 103 vom 22.4.2015, S. 11), die zuletzt durch die Richtlinie 2014/88/EU (ABl. L 201 vom 10.7.2014, S. 9) geändert worden ist;
-- 6. :: Triebfahrzeugführerschein“ die von einer zuständigen Behörde erteilte Fahrerlaubnis nach Artikel 4 Absatz 1 Buchstabe a der Richtlinie 2007/59/EG des Europäischen Parlaments und des Rates vom 23. Oktober 2007 über die Zertifizierung von Triebfahrzeugführern, die Lokomotiven und Züge im Eisenbahnsystem in der Gemeinschaft führen (ABl. L 315 vom 3.12.2007, S. 51), die zuletzt durch die Richtlinie (EU) 2016/882 (ABl. L 146 vom 3.6.2016, S. 22) geändert worden ist;
-- 7. :: Technische Spezifikationen für die Interoperabilität (TSI)“ Spezifikationen im Sinne des Kapitels II der Richtlinie 2008/57/EG des Europäischen Parlaments und des Rates vom 17. Juni 2008 über die Interoperabilität des Eisenbahnsystems in der Gemeinschaft (ABl. L 191 vom 18.7.2008, S. 1; L 103 vom 22.4.2015, S. 11), die zuletzt durch die Richtlinie 2014/106/EU (ABl. L 355 vom 12.12.2014, S. 42) geändert worden ist, oder der Richtlinien 96/48/EG des Rates vom 23. Juli 1996 über die Interoperabilität des transeuropäischen Hochgeschwindigkeitsbahnsystems (ABl. L 235 vom 17.9.1996, S. 6) und 2001/16/EG des Europäischen Parlaments und des Rates vom 19. März 2001 über die Interoperabilität des konventionellen transeuropäischen Eisenbahnsystems (ABl. L 110 vom 20.4.2001, S. 1), die jeweils zuletzt durch die Richtlinie 2007/32/EG (ABl. L 141 vom 2.6.2007, S. 63) geändert worden sind, die für jedes Teilsystem oder Teile davon im Hinblick auf die Erfüllung der grundlegenden Anforderungen gelten und die Interoperabilität gewährleisten;
-- 8. :: Rangierfahrt“ Bewegen von Fahrzeugen im Bahnbetrieb, soweit es sich nicht um eine Zugfahrt entsprechend § 34 Absatz 1 der Eisenbahn-Bau- und Betriebsordnung vom 8. Mai 1967 (BGBl. 1967 II S. 1563) handelt, die zuletzt durch Artikel 2 der Verordnung vom 26. Juli 2017 (BGBl. I S. 3054) geändert worden ist; Fahrten im Baugleis sind stets Rangierfahrten.
+- 1. :: „Triebfahrzeugführer“ eine natürliche Person, die die Voraussetzungen erfüllt, um unmittelbar oder mittelbar Triebfahrzeuge eigenständig, verantwortlich und sicher zu führen;
+- 2. :: „Triebfahrzeug“ ein Eisenbahnfahrzeug mit eigenem Antrieb;
+- 3. :: „Unternehmer“ das Unternehmen, das den Triebfahrzeugführer verantwortlich einsetzt;
+- 4. :: „zuständige Behörde“ das Eisenbahn-Bundesamt;
+- 5. :: „zuständige Behörde eines anderen Mitgliedstaates“ eine Sicherheitsbehörde eines anderen Mitgliedstaates nach Artikel 16 der Richtlinie 2004/49/EG des Europäischen Parlaments und des Rates vom 29. April 2004 über Eisenbahnsicherheit in der Gemeinschaft und zur Änderung der Richtlinie 95/18/EG des Rates über die Erteilung von Genehmigungen an Eisenbahnunternehmen und der Richtlinie 2001/14/EG über die Zuweisung von Fahrwegkapazität der Eisenbahn, die Erhebung von Entgelten für die Nutzung von Eisenbahninfrastruktur und die Sicherheitsbescheinigung („Richtlinie über die Eisenbahnsicherheit“) (ABl. L 164 vom 30.4.2004, S. 44, L 220 vom 21.6.2004, S. 16; L 103 vom 22.4.2015, S. 11), die zuletzt durch die Richtlinie 2014/88/EU (ABl. L 201 vom 10.7.2014, S. 9) geändert worden ist;
+- 6. :: „Triebfahrzeugführerschein“ die von einer zuständigen Behörde erteilte Fahrerlaubnis nach Artikel 4 Absatz 1 Buchstabe a der Richtlinie 2007/59/EG des Europäischen Parlaments und des Rates vom 23. Oktober 2007 über die Zertifizierung von Triebfahrzeugführern, die Lokomotiven und Züge im Eisenbahnsystem in der Gemeinschaft führen (ABl. L 315 vom 3.12.2007, S. 51), die zuletzt durch die Richtlinie (EU) 2016/882 (ABl. L 146 vom 3.6.2016, S. 22) geändert worden ist;
+- 7. :: „Technische Spezifikationen für die Interoperabilität (TSI)“ Spezifikationen im Sinne des Kapitels II der Richtlinie 2008/57/EG des Europäischen Parlaments und des Rates vom 17. Juni 2008 über die Interoperabilität des Eisenbahnsystems in der Gemeinschaft (ABl. L 191 vom 18.7.2008, S. 1; L 103 vom 22.4.2015, S. 11), die zuletzt durch die Richtlinie 2014/106/EU (ABl. L 355 vom 12.12.2014, S. 42) geändert worden ist, oder der Richtlinien 96/48/EG des Rates vom 23. Juli 1996 über die Interoperabilität des transeuropäischen Hochgeschwindigkeitsbahnsystems (ABl. L 235 vom 17.9.1996, S. 6) und 2001/16/EG des Europäischen Parlaments und des Rates vom 19. März 2001 über die Interoperabilität des konventionellen transeuropäischen Eisenbahnsystems (ABl. L 110 vom 20.4.2001, S. 1), die jeweils zuletzt durch die Richtlinie 2007/32/EG (ABl. L 141 vom 2.6.2007, S. 63) geändert worden sind, die für jedes Teilsystem oder Teile davon im Hinblick auf die Erfüllung der grundlegenden Anforderungen gelten und die Interoperabilität gewährleisten;
+- 8. :: „Rangierfahrt“ Bewegen von Fahrzeugen im Bahnbetrieb, soweit es sich nicht um eine Zugfahrt entsprechend § 34 Absatz 1 der Eisenbahn-Bau- und Betriebsordnung vom 8. Mai 1967 (BGBl. 1967 II S. 1563) handelt, die zuletzt durch Artikel 2 der Verordnung vom 26. Juli 2017 (BGBl. I S. 3054) geändert worden ist; Fahrten im Baugleis sind stets Rangierfahrten.
 
 
 § 3 - Fahrberechtigung
@@ -215,8 +215,8 @@ Im Hinblick auf den Teilbereich nach Satz 1 Nummer 3 kann die zuständige Behör
 § 16 - Anerkennung von Ärzten und Psychologen
 
 (1) Wer Tauglichkeitsuntersuchungen bei Triebfahrzeugführern durchführen will, bedarf der Anerkennung. Die zuständige Behörde erkennt auf Antrag Ärzte, Psychologen oder Stellen an, die Untersuchungen nach Anlage 4 durchführen.
-(2) Als Arzt kann für die Durchführung von Untersuchungen nach Anlage 4 anerkannt werden, wer die Gebietsbezeichnung Arbeitsmedizin“ oder die Zusatzbezeichnung Betriebsmedizin“ hat oder über die Anerkennung als Arzt in einer Begutachtungsstelle für Fahreignung gemäß § 11 Absatz 2 der Fahrerlaubnisverordnung und über eine mindestens einjährige Berufserfahrung im Bereich Schienenverkehr verfügt.
-(3) Als Psychologe kann für die Durchführung von Untersuchungen nach Anlage 4 anerkannt werden, wer einen Abschluss eines Hochschulstudiums als Diplom-Psychologe oder eines gleichwertigen Master-Abschlusses in Psychologie nachweist oder über die Anerkennung als Fachpsychologe für Verkehrspsychologie“ und über eine mindestens einjährige Berufserfahrung im Bereich Schienenverkehr verfügt.
+(2) Als Arzt kann für die Durchführung von Untersuchungen nach Anlage 4 anerkannt werden, wer die Gebietsbezeichnung „Arbeitsmedizin“ oder die Zusatzbezeichnung „Betriebsmedizin“ hat oder über die Anerkennung als Arzt in einer Begutachtungsstelle für Fahreignung gemäß § 11 Absatz 2 der Fahrerlaubnisverordnung und über eine mindestens einjährige Berufserfahrung im Bereich Schienenverkehr verfügt.
+(3) Als Psychologe kann für die Durchführung von Untersuchungen nach Anlage 4 anerkannt werden, wer einen Abschluss eines Hochschulstudiums als Diplom-Psychologe oder eines gleichwertigen Master-Abschlusses in Psychologie nachweist oder über die Anerkennung als „Fachpsychologe für Verkehrspsychologie“ und über eine mindestens einjährige Berufserfahrung im Bereich Schienenverkehr verfügt.
 (4) Als Stelle für die Durchführung von Untersuchungen nach Anlage 4 kann anerkannt werden, wer Ärzte und Psychologen mit den Qualifikationen nach den Absätzen 2 und 3 beschäftigt.
 (5) Anerkannte Ärzte und Psychologen sind auf Verlangen der zuständigen Behörde verpflichtet, an einer von dieser organisierten Fortbildung teilzunehmen, wenn sich die Inhalte der sie betreffenden Rechtsvorschriften geändert haben.
 
@@ -284,8 +284,8 @@ Anlage 1 - (zu § 3 Absatz 1 Satz 2 Nummer 1, § 5 Absatz 1 und § 8 Absatz 2 un
   \\
   Der Triebfahrzeugführerschein richtet sich nach dem Gemeinschaftsmodell und den Referenzfarben Pantone Reflex Blue und Pantone Yellow.
   - 1. :: Die Vorderseite des Triebfahrzeugführerscheins enthält folgende Angaben:
-    - a) :: in Blockbuchstaben die Aufschrift Triebfahrzeugführerschein“;
-    - b) :: die Aufschrift Bundesrepublik Deutschland“ als ausstellenden Staat mit deutscher Flagge;
+    - a) :: in Blockbuchstaben die Aufschrift „Triebfahrzeugführerschein“;
+    - b) :: die Aufschrift „Bundesrepublik Deutschland“ als ausstellenden Staat mit deutscher Flagge;
     - c) :: das Unterscheidungszeichen für die Bundesrepublik Deutschland nach dem Ländercode nach ISO 3166 Alpha-2-Code, erschienen im Beuth Verlag GmbH, Berlin, und archivmäßig gesichert niedergelegt beim Deutschen Patent- und Markenamt in München, im Negativdruck in einem blauen Rechteck, umgeben von zwölf gelben Sternen; das Unterscheidungszeichen lautet: DE;
     - d) :: Angaben, die bei Erteilung des Triebfahrzeugführerscheins unter Verwendung der folgenden Nummern einzutragen sind:
       - aa) :: Nummer 1: Name des Inhabers,
@@ -312,7 +312,7 @@ Anlage 1 - (zu § 3 Absatz 1 Satz 2 Nummer 1, § 5 Absatz 1 und § 8 Absatz 2 un
       - bb) :: b.2 Vorgeschriebenes Tragen einer Kommunikationshilfe.
 
     Wird ein Feld nicht benötigt, ist ein Strich einzutragen.
-    Zudem ist die Aufschrift Modell der Europäischen Union“ aufzudrucken.
+    Zudem ist die Aufschrift „Modell der Europäischen Union“ aufzudrucken.
 - C. :: Nummerierung des Triebfahrzeugführerscheins\\
   \\
   Die Nummer wird bei Erteilung des Triebfahrzeugführerscheins von der zuständigen Behörde vergeben und bei einer Verlängerung, Änderung oder Ausstellung eines Ersatzführerscheins beibehalten. Bei der Verlängerung nach zehn Jahren wird der Triebfahrzeugführerschein mit einem neuen Lichtbild und einem neuen Datum des Ablaufs der Gültigkeit versehen.
@@ -347,7 +347,7 @@ Anlage 2 - (zu § 3 Absatz 1 Satz 2 Nummer 2 und § 5 Absatz 2)Gemeinschaftsmode
     - c) :: Nummer 3: Klassen, die wie folgt anzugeben sind:
       Klasse A: Rangierfahrten
       Klasse B: Zugfahrten im Personen- und Güterverkehr.
-      Der Unternehmer kann B“ als umfassende Klasse für Zugfahrten im Personen- und Güterverkehr verwenden; alternativ kann er den Geltungsbereich der Bescheinigung auf einen Fahrzweck beschränken:
+      Der Unternehmer kann „B“ als umfassende Klasse für Zugfahrten im Personen- und Güterverkehr verwenden; alternativ kann er den Geltungsbereich der Bescheinigung auf einen Fahrzweck beschränken:
       B1 = bei Beschränkung auf Zugfahrten im Personenverkehr;
       B2 = bei Beschränkung auf Zugfahrten im Güterverkehr.
       Felder, die nicht vergeben werden, sind mit einem Strich zu versehen.
@@ -357,7 +357,7 @@ Anlage 2 - (zu § 3 Absatz 1 Satz 2 Nummer 2 und § 5 Absatz 2)Gemeinschaftsmode
       | [[../normengrafiken/bgbl1_2011/j0705-1_0050.pdf][PDF-Dokument wird in eigenem Fenster angezeigt]] | = Klasse B, Unterklasse 2 |
     - d) :: Nummer 4: Zusätzliche interne Angaben des Unternehmers.
     - e) :: Nummer 5: Angaben zu Sprachkenntnissen außer der Muttersprache, die für den Betrieb auf der entsprechenden Infrastruktur nötig sind und in denen der Triebfahrzeugführer Kenntnisse besitzt, die den Anforderungen von Anlage 7 Nummer 6 entsprechen.
-    - f) :: Nummer 6: Einschränkungen des Leistungsvermögens und der Fähigkeiten des Triebfahrzeugführers in Bezug auf den Inhalt der Zusatzbescheinigung, wie nur für Tagfahrten zugelassen“; beziehen sich die Einschränkungen auf Fahrzeuge oder die Infrastruktur, erfolgen die Angaben in Textform im Feld Hinweise“ neben den betreffenden Fahrzeugen und Infrastrukturen.
+    - f) :: Nummer 6: Einschränkungen des Leistungsvermögens und der Fähigkeiten des Triebfahrzeugführers in Bezug auf den Inhalt der Zusatzbescheinigung, wie „nur für Tagfahrten zugelassen“; beziehen sich die Einschränkungen auf Fahrzeuge oder die Infrastruktur, erfolgen die Angaben in Textform im Feld „Hinweise“ neben den betreffenden Fahrzeugen und Infrastrukturen.
     - g) :: Nummer 7: Angaben zu Fahrzeugen, die der Triebfahrzeugführer führen darf.
       Die Angaben werden in den folgenden Feldern ausgewiesen:
       - aa) :: ein Feld für das Datum, an dem der Triebfahrzeugführer die betreffende Befähigung erworben hat,
@@ -651,7 +651,7 @@ Text
 
 Verbindlich
 
-2.2
+2.2 
 
 Grund der Aussetzung bzw. der Entziehung
 
@@ -671,7 +671,7 @@ Verbindlich
 Teil 2\\
 Informationen über den erteilten Triebfahrzeugführerschein (entsprechend der Anlage 1 TfV)
 
-3 
+3  
 
 Name des Inhabers
 
@@ -683,7 +683,7 @@ Text
 
 Verbindlich
 
-4 
+4  
 
 Vorname des Inhabers
 
@@ -695,7 +695,7 @@ Text
 
 Verbindlich
 
-5 
+5  
 
 Geburtsdatum des Inhabers
 
@@ -707,7 +707,7 @@ JJJJ-MM-TT
 
 Verbindlich
 
-6 
+6  
 
 Geburtsort des Inhabers
 
@@ -719,7 +719,7 @@ Text
 
 Verbindlich
 
-7 
+7  
 
 Ausstellungsdatum des Triebfahrzeugführerscheins
 
@@ -731,7 +731,7 @@ JJJJ-MM-TT
 
 Verbindlich
 
-8 
+8  
 
 Datum des Ablaufs der Gültigkeit des Triebfahrzeugführerscheins
 
@@ -743,11 +743,11 @@ JJJJ-MM-TT
 
 Verbindlich
 
-9  
+9   
 
 Bezeichnung der zuständigen Behörde
 
-9.1
+9.1 
 
 Bezeichnung der zuständigen Behörde
 
@@ -755,7 +755,7 @@ Text
 
 Verbindlich
 
-11 
+11  
 
 Lichtbild des Inhabers
 
@@ -768,7 +768,7 @@ eingescanntes Bild
 
 Verbindlich
 
-12 
+12  
 
 Unterschrift des Inhabers
 
@@ -781,7 +781,7 @@ eingescannte Unterschrift
 
 Verbindlich
 
-13 
+13  
 
 Anschrift des Inhabers
 
@@ -819,7 +819,7 @@ Alphanumerische Angabe
 
 Verbindlich
 
-14 
+14  
 
 Weitere Angaben
 
@@ -835,15 +835,15 @@ Feld 9a.1 -- Muttersprache(n) des Triebfahrzeugführers
 
 Text
 
-
+ 
 
 Feld 9a.2 -- Zusatzinformation
 
 Text
 
+ 
 
-
-15 
+15  
 
 Gesundheitlich bedingte Einschränkungen
 
@@ -861,14 +861,14 @@ linsen
 (Gemeinschafts-\\
 kodierung b.1)
 
-
+ 
 
 Vorgeschriebenes Tragen einer Kommunikationshilfe
 
 (Gemeinschafts-\\
 kodierung b.2)
 
-
+ 
 
 15a
 
@@ -1137,7 +1137,7 @@ Verbindlich
 
 Datum der Untersuchung
 
-
+ 
 
 JJJJ-MM-TT
 
@@ -1213,7 +1213,7 @@ Verbindlich
 
 Datum der Untersuchung
 
-
+ 
 
 JJJJ-MM-TT
 
@@ -1232,7 +1232,7 @@ Verbindlich
 
 27.4
 
-
+ 
 
 Datum etwaiger\\
 Folgeuntersuchungen
@@ -1260,7 +1260,7 @@ Verbindlich
 
 Datum der Prüfung
 
-
+ 
 
 JJJJ-MM-TT
 
@@ -1271,7 +1271,7 @@ Verbindlich
 Nachfolgende\\
 Überprüfungen
 
-
+ 
 
 JJJJ-MM-TT
 
@@ -1603,17 +1603,17 @@ JJJJ-MM-TT
 
 Verbindlich
 
-
+ 
 
 Gründe für Änderungen in Bezug auf bestimmte\\
 Teile der Zusatzbescheinigung
 
-- -- :: Änderungen in Feld 3, Klasse“
-- -- :: Änderungen in Feld 4, Zusätzliche Angaben“
+- -- :: Änderungen in Feld 3, „Klasse“
+- -- :: Änderungen in Feld 4, „Zusätzliche Angaben“
 - -- :: Änderungen in Feld 5, Erwerb neuer Sprach-\\
   kenntnisse oder regelmäßige Überprüfung\\
   von Kenntnissen
-- -- :: Änderungen in Feld 6, Einschränkungen“
+- -- :: Änderungen in Feld 6, „Einschränkungen“
 - -- :: Änderungen in Spalte 7, Erwerb neuer\\
   Kenntnisse in Bezug auf Fahrzeuge oder\\
   regelmäßige Überprüfung von Kenntnissen

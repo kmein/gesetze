@@ -84,7 +84,7 @@ Der Betreiber einer Vergleichswebsite erfüllt die Anforderung eines unabhängig
 
 § 9 - Wesentlicher Teil des Marktes
 
-(1) Im Hinblick auf die VergleichsgröBankengruppen“ zu entnehmen.
+(1) Im Hinblick auf die Vergleichsgröße nach § 18 Nummer 6 des Zahlungskontengesetzes muss der Betreiber einer Vergleichswebsite sicherstellen, dass die Marktübersicht seiner Vergleichswebsite eine ausgewogene Anzahl von Angeboten aus jeder Bankengruppe enthält. Die Bankengruppen sind den Erläuterungen zur jeweils aktuellen Fassung der Bankenstatistik der Deutschen Bundesbank unter dem Stichwort „Bankengruppen“ zu entnehmen.
 (2) Absatz 1 ist nicht anzuwenden, wenn der Nutzer gezielt
 
 - 1. :: nur bestimmte Kreditinstitute oder Bankengruppen für den Vergleich ausgewählt oder von dem Vergleich ausgeschlossen hat oder

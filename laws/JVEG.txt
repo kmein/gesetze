@@ -9,7 +9,7 @@ Inhaltsübersicht
 Abschnitt 1
   Allgemeine Vorschriften
 § 1
-
+ 
 Geltungsbereich und Anspruchsberechtigte
 § 2
 Geltendmachung und Erlöschen des Anspruchs, Verjährung
@@ -77,9 +77,9 @@ Abschnitt 6
 Übergangsvorschrift
 § 25
 Übergangsvorschrift aus Anlass des Inkrafttretens dieses Gesetzes
-
-
-
+ 
+ 
+ 
 Anlage 1
 (zu § 9 Absatz 1 Satz 1)
 Anlage 2
@@ -466,9 +466,9 @@ Das Honorar beträgt je Organ oder Körperflüssigkeit ..........
 \\
     5,00 bis\\
     70,00 €
-
+ 
  Das Honorar umfasst das verbrauchte Material, soweit es sich um geringwertige Stoffe handelt, und eine kurze gutachtliche Äußerung.
-
+ 
 303
 Die Leistung der in Nummer 302 genannten Art ist außergewöhnlich umfangreich oder schwierig:\\
 Das Honorar 302 beträgt ..........
@@ -479,31 +479,31 @@ Das Honorar 302 beträgt ..........
 Elektrophysiologische Untersuchung eines Menschen ..........
    20,00 bis\\
    160,00 €
-
+ 
  Das Honorar umfasst eine kurze gutachtliche Äußerung und den mit der Untersuchung verbundenen Aufwand.
-
+ 
 305
 Raster-elektronische Untersuchung eines Menschen oder einer Leiche, auch mit Analysenzusatz ..........
 \\
    20,00 bis\\
    430,00 €
-
+ 
  Das Honorar umfasst eine kurze gutachtliche Äußerung und den mit der Untersuchung verbundenen Aufwand.
-
+ 
 306
 Blutentnahme oder Entnahme einer Probe für die genetische Analyse ..........
     10,00 €
-
+ 
  Das Honorar umfasst eine Niederschrift über die Feststellung der Identität.
-
+ 
 307
 Herstellung einer Probe für die genetische Analyse und ihre Überprüfung auf Geeignetheit (z. B. DNA-Menge, humane Herkunft, Ausmaß der Degradation) ..........
 \\
    bis zu\\
    250,00 €
-
+ 
  Das Honorar umfasst das verbrauchte Material, soweit es sich um geringwertige Stoffe handelt, und eine kurze gutachtliche Äußerung.
-
+ 
 308
 Entnahme einer Probe für die genetische Analyse von einem Asservat einschließlich Dokumentation:\\
 je Probe ..........
@@ -568,11 +568,11 @@ Vorbemerkung 4:\\
 400
 Erstellung eines Gutachtens ..........
    170,00 €
-
+ 
  Das Honorar umfasst\\
 1. die administrative Abwicklung, insbesondere die Organisation der Probenentnahmen, und\\
 2. das schriftliche Gutachten, erforderlichenfalls mit biostatistischer Auswertung.\\
-
+ 
 401
 Biostatistische Berechnungen, wenn der mögliche Vater für die Untersuchung nicht zur Verfügung steht und andere mit ihm verwandte Personen an seiner Stelle in die Begutachtung einbezogen werden (Defizienzfall) oder bei Fragestellungen zur Voll- und Halbgeschwisterschaft:\\
 je Person ..........
@@ -580,9 +580,9 @@ je Person ..........
 \\
 \\
     30,00 €
-
+ 
  Beauftragt der Sachverständige eine andere Person mit der biostatistischen Berechnung, werden ihm abweichend von Vorbemerkung 4 Abs. 1 Satz 1 die hierfür anfallenden Auslagen ersetzt.
-
+ 
 402
 Entnahme einer Probe für die genetische Analyse einschließlich der Niederschrift sowie der qualifizierten Aufklärung nach dem Gendiagnostikgesetz ..........
 \\
@@ -646,7 +646,7 @@ Anlage 3 - (zu § 23 Abs. 1)
 (Fundstelle: BGBl. I 2009, 995 - 997;\\
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 Nr.
-
+ 
 Tätigkeit
 Höhe
 Allgemeine Vorbemerkung:\\
@@ -663,72 +663,72 @@ Vorbemerkung 1:\\
 Umsetzung einer Anordnung zur Überwachung der Telekommunikation, unabhängig von der Zahl der dem Anschluss zugeordneten Kennungen:\\
 je Anschluss..........
   100,00 €
-
+ 
   Mit der Entschädigung ist auch der Aufwand für die Abschaltung der Maßnahme entgolten.
-
+ 
 101
 Verlängerung einer Maßnahme zur Überwachung der Telekommunikation oder Umschaltung einer solchen Maßnahme auf Veranlassung der Strafverfolgungsbehörde auf einen anderen Anschluss dieser Stelle ..........
    35,00 €
-
+ 
 Leitungskosten für die Übermittlung der zu überwachenden Telekommunikation:\\
 für jeden überwachten Anschluss,
-
+ 
 102
---
+-- 
 wenn die Überwachungsmaßnahme nicht länger als eine Woche dauert ..........
    24,00 €
 103
---
+-- 
 wenn die Überwachungsmaßnahme länger als eine Woche, jedoch nicht länger als zwei Wochen dauert ..........
    42,00 €
 104
---
+-- 
 wenn die Überwachungsmaßnahme länger als zwei Wochen dauert:\\
 je angefangenen Monat ..........
    75,00 €
-
+ 
 Der überwachte Anschluss ist ein ISDN-Basisanschluss:
-
+ 
 105
---
+-- 
 Die Entschädigung nach Nummer 102 beträgt ..........
    40,00 €
 106
---
+-- 
 Die Entschädigung nach Nummer 103 beträgt ..........
    70,00 €
 107
---
+-- 
 Die Entschädigung nach Nummer 104 beträgt ..........
   125,00 €
-
+ 
 Der überwachte Anschluss ist ein ISDN-Primärmultiplexanschluss:
-
+ 
 108
---
+-- 
 Die Entschädigung nach Nummer 102 beträgt ..........
   490,00 €
 109
---
+-- 
 Die Entschädigung nach Nummer 103 beträgt ..........
   855,00 €
 110
---
+-- 
 Die Entschädigung nach Nummer 104 beträgt ..........
 1 525,00 €
-
+ 
 Der überwachte Anschluss ist ein digitaler Teilnehmeranschluss mit einer Übertragungsgeschwindigkeit von mehr als 144 kbit/s, aber kein ISDN-Primärmultiplexanschluss:
-
+ 
 111
---
+-- 
 Die Entschädigung nach Nummer 102 beträgt ..........
    65,00 €
 112
---
+-- 
 Die Entschädigung nach Nummer 103 beträgt ..........
   110,00 €
 113
---
+-- 
 Die Entschädigung nach Nummer 104 beträgt ..........
   200,00 €
 \\
@@ -744,9 +744,9 @@ je angefragten Kundendatensatz ..........
 Auskunft über Bestandsdaten, zu deren Erteilung auf Verkehrsdaten zurückgegriffen werden muss:\\
 für bis zu 10 in demselben Verfahren gleichzeitig angefragte Kennungen, die der Auskunftserteilung zugrunde liegen ..........
    35,00 €
-
+ 
   Bei mehr als 10 angefragten Kennungen wird die Pauschale für jeweils bis zu 10 weitere Kennungen erneut gewährt. Kennung ist auch eine IP-Adresse.
-
+ 
 202
 Es muss auf Verkehrsdaten nach § 113b Abs. 2 bis 4 TKG zurückgegriffen werden:\\
 Die Pauschale 201 beträgt ..........
@@ -758,9 +758,9 @@ Auskünfte über Verkehrsdaten\\
 Auskunft über gespeicherte Verkehrsdaten:\\
 für jede Kennung, die der Auskunftserteilung zugrunde liegt ..........
    30,00 €
-
+ 
  Die Mitteilung der die Kennung betreffenden Standortdaten ist mit abgegolten.
-
+ 
 301
 Für die Auskunft muss auf Verkehrsdaten nach § 113b Abs. 2 bis 4 TKG zurückgegriffen werden:\\
 Die Pauschale 300 beträgt ..........
@@ -773,9 +773,9 @@ für die zweite und jede weitere in dem Ersuchen verlangte Teilauskunft ........
 Auskunft über gespeicherte Verkehrsdaten zu Verbindungen, die zu einer bestimmten Zieladresse hergestellt wurden, durch Suche in allen Datensätzen der abgehenden Verbindungen eines Betreibers (Zielwahlsuche):\\
 je Zieladresse ..........
    90,00 €
-
+ 
  Die Mitteilung der Standortdaten der Zieladresse ist mit abgegolten.
-
+ 
 304
 Für die Auskunft muss auf Verkehrsdaten nach § 113b Abs. 2 bis 4 TKG zurückgegriffen werden:\\
 Die Pauschale 303 beträgt ..........
@@ -807,48 +807,48 @@ Die Abfrage erfolgt für einen bestimmten, durch eine Adresse bezeichneten Stand
 Für die Auskunft muss auf Verkehrsdaten nach § 113b Abs. 2 bis 4 TKG zurückgegriffen werden:\\
 Die Pauschale 310 beträgt ..........
    70,00 €
-
+ 
 Die Auskunft erfolgt für eine Fläche:
-
+ 
 312
---
+-- 
 Die Entfernung der am weitesten voneinander entfernten Punkte beträgt nicht mehr als 10 Kilometer:\\
 Die Pauschale 310 beträgt ..........
   190,00 €
 313
---
+-- 
 Die Entfernung der am weitesten voneinander entfernten Punkte beträgt mehr als 10, aber nicht mehr als 25 Kilometer:\\
 Die Pauschale 310 beträgt ..........
   490,00 €
 314
---
+-- 
 Die Entfernung der am weitesten voneinander entfernten Punkte beträgt mehr als 25, aber nicht mehr als 45 Kilometer:\\
 Die Pauschale 310 beträgt ..........
   930,00 €
-
+ 
  Liegen die am weitesten voneinander entfernten Punkte mehr als 45 Kilometer auseinander, ist für den darüber hinausgehenden Abstand die Entschädigung nach den Nummern 312 bis 314 gesondert zu berechnen.
-
-
+ 
+ 
 Die Auskunft erfolgt für eine Fläche und es muss auf Verkehrsdaten nach § 113b Abs. 2 bis 4 TKG zurückgegriffen werden:
-
+ 
 315
---
+-- 
 Die Entfernung der am weitesten voneinander entfernten Punkte beträgt nicht mehr als 10 Kilometer:\\
 Die Pauschale 310 beträgt ..........
   230,00 €
 316
---
+-- 
 Die Entfernung der am weitesten voneinander entfernten Punkte beträgt mehr als 10, aber nicht mehr als 25 Kilometer:\\
 Die Pauschale 310 beträgt ..........
   590,00 €
 317
---
+-- 
 Die Entfernung der am weitesten voneinander entfernten Punkte beträgt mehr als 25, aber nicht mehr als 45 Kilometer:\\
 Die Pauschale 310 beträgt ..........
 1 120,00 €
-
+ 
  Liegen die am weitesten voneinander entfernten Punkte mehr als 45 Kilometer auseinander, ist für den darüber hinausgehenden Abstand die Entschädigung nach den Nummern 315 bis 317 gesondert zu berechnen.
-
+ 
 318
 Die Auskunft erfolgt für eine bestimmte Wegstrecke:\\
 Die Pauschale 310 beträgt für jeweils angefangene 10 Kilometer Länge ..........
@@ -861,25 +861,25 @@ Die Pauschale 310 beträgt für jeweils angefangene 10 Kilometer Länge ........
 Umsetzung einer Anordnung zur Übermittlung künftig anfallender Verkehrsdaten in Echtzeit:\\
 je Anschluss ..........
   100,00 €
-
+ 
  Mit der Entschädigung ist auch der Aufwand für die Abschaltung der Übermittlung und die Mitteilung der den Anschluss betreffenden Standortdaten entgolten.
-
+ 
 321
 Verlängerung der Maßnahme im Fall der Nummer 320 ..........
    35,00 €
-
+ 
 Leitungskosten für die Übermittlung der Verkehrsdaten in den Fällen der Nummern 320 und 321:
-
+ 
 322
---
+-- 
 wenn die angeordnete Übermittlung nicht länger als eine Woche dauert ..........
     8,00 €
 323
---
+-- 
 wenn die angeordnete Übermittlung länger als eine Woche, aber nicht länger als zwei Wochen dauert ..........
    14,00 €
 324
---
+-- 
 wenn die angeordnete Übermittlung länger als zwei Wochen dauert:\\
 je angefangenen Monat ..........
    25,00 €

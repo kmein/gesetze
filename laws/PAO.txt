@@ -128,15 +128,15 @@ Die Zulassung zur Patentanwaltschaft ist zu versagen,
 - 2. :: den Abschluss der Berufshaftpflichtversicherung nachgewiesen oder eine vorläufige Deckungszusage vorgelegt hat.
 
 (3) Mit der Zulassung wird die Bewerberin oder der Bewerber Mitglied der Patentanwaltskammer.
-(4) Nach der Zulassung darf die Tätigkeit unter der Berufsbezeichnung Patentanwältin“ oder Patentanwalt“ ausgeübt werden.
+(4) Nach der Zulassung darf die Tätigkeit unter der Berufsbezeichnung „Patentanwältin“ oder „Patentanwalt“ ausgeübt werden.
 
 § 19 - Vereidigung
 
-(1) Der Bewerber hat folgenden Eid vor der Patentanwaltskammer zu leisten: Ich schwöre bei Gott dem Allmächtigen und Allwissenden, die verfassungsmäßige Ordnung zu wahren und die Pflichten eines Patentanwalts gewissenhaft zu erfüllen, so wahr mir Gott helfe.“
+(1) Der Bewerber hat folgenden Eid vor der Patentanwaltskammer zu leisten: „Ich schwöre bei Gott dem Allmächtigen und Allwissenden, die verfassungsmäßige Ordnung zu wahren und die Pflichten eines Patentanwalts gewissenhaft zu erfüllen, so wahr mir Gott helfe.“
 (2) Der Eid kann auch ohne religiöse Beteuerung geleistet werden.
 (3) Gestattet ein Gesetz den Mitgliedern einer Religionsgemeinschaft, an Stelle des Eides eine andere Beteuerungsformel zu gebrauchen, so kann der Patentanwalt, der Mitglied einer solchen Religionsgemeinschaft ist, diese Beteuerungsformel sprechen.
-(4) Wer aus Glaubens- oder Gewissensgründen keinen Eid leisten will, muss folgendes Gelöbnis leisten: Ich gelobe, die verfassungsmäßige Ordnung zu wahren und die Pflichten eines Patentanwalts gewissenhaft zu erfüllen.“
-(5) Leistet eine Bewerberin den Eid nach Absatz 1 oder das Gelöbnis nach Absatz 4, so treten an die Stelle der Wörter eines Patentanwalts“ die Wörter einer Patentanwältin“.
+(4) Wer aus Glaubens- oder Gewissensgründen keinen Eid leisten will, muss folgendes Gelöbnis leisten: „Ich gelobe, die verfassungsmäßige Ordnung zu wahren und die Pflichten eines Patentanwalts gewissenhaft zu erfüllen.“
+(5) Leistet eine Bewerberin den Eid nach Absatz 1 oder das Gelöbnis nach Absatz 4, so treten an die Stelle der Wörter „eines Patentanwalts“ die Wörter „einer Patentanwältin“.
 (6) Über die Vereidigung ist ein Protokoll aufzunehmen, das auch den Wortlaut des Eides oder des Gelöbnisses zu enthalten hat. Das Protokoll ist von dem Patentanwalt und einem Mitglied des Vorstands der Patentanwaltskammer zu unterschreiben. Es ist zu den Personalakten des Patentanwalts zu nehmen.
 
 § 20 - Erlöschen der Zulassung
@@ -179,7 +179,7 @@ Die Zulassung zur Patentanwaltschaft erlischt, wenn durch ein rechtskräftiges U
 
 § 24 - Erlöschen der Befugnis zur Führung der Berufsbezeichnung
 
-(1) Mit dem Erlöschen der Zulassung zur Patentanwaltschaft (§ 20) endet die Befugnis, die Berufsbezeichnung Patentanwältin“ oder Patentanwalt“ zu führen. Die Bezeichnung darf auch nicht mit einem Zusatz, der auf die frühere Berechtigung hinweist, geführt werden.
+(1) Mit dem Erlöschen der Zulassung zur Patentanwaltschaft (§ 20) endet die Befugnis, die Berufsbezeichnung „Patentanwältin“ oder „Patentanwalt“ zu führen. Die Bezeichnung darf auch nicht mit einem Zusatz, der auf die frühere Berechtigung hinweist, geführt werden.
 (2) Die Patentanwaltskammer kann einem Patentanwalt, der wegen hohen Alters oder wegen körperlicher Leiden auf die Rechte aus der Zulassung zur Patentanwaltschaft verzichtet, die Erlaubnis erteilen, sich weiterhin Patentanwalt zu nennen.
 (3) Die Patentanwaltskammer kann eine Erlaubnis, die sie nach Absatz 2 erteilt hat, widerrufen, wenn nachträglich Umstände eintreten, die bei einem Patentanwalt das Erlöschen der Zulassung zur Patentanwaltschaft nach sich ziehen würden.
 
@@ -338,7 +338,7 @@ Die Zulassung nach Satz 1 kann für mehrere Arbeitsverhältnisse erteilt werden.
 
 - 1. :: abweichend von § 18 Absatz 2 der Nachweis des Abschlusses einer Berufshaftpflichtversicherung oder die Vorlage einer vorläufigen Deckungszusage nicht erforderlich ist;
 - 2. :: abweichend von § 18 Absatz 3 die Bewerberin oder der Bewerber unbeschadet des § 18 Absatz 1, 2 Nummer 1 und Absatz 4 mit der Zulassung rückwirkend zu dem Zeitpunkt Mitglied der Patentanwaltskammer wird, zu dem der Antrag auf Zulassung dort eingegangen ist, sofern nicht die Tätigkeit, für die die Zulassung erfolgt, erst nach der Antragstellung begonnen hat; in diesem Fall wird die Mitgliedschaft erst mit dem Zeitpunkt des Beginns der Tätigkeit begründet;
-- 3. :: abweichend von § 18 Absatz 4 die Tätigkeit unter der Berufsbezeichnung Patentanwältin (Syndikuspatentanwältin)“ oder Patentanwalt (Syndikuspatentanwalt)“ auszuüben ist.
+- 3. :: abweichend von § 18 Absatz 4 die Tätigkeit unter der Berufsbezeichnung „Patentanwältin (Syndikuspatentanwältin)“ oder „Patentanwalt (Syndikuspatentanwalt)“ auszuüben ist.
 
 
 § 41c - Erlöschen und Änderung der Zulassung als Syndikuspatentanwalt
@@ -600,7 +600,7 @@ Die Patentanwaltsgesellschaft muß an ihrem Sitz eine Kanzlei unterhalten, in de
 
 § 52k - Firma
 
-(1) Die Firma der Gesellschaft muss die Bezeichnung Patentanwaltsgesellschaft“ enthalten.
+(1) Die Firma der Gesellschaft muss die Bezeichnung „Patentanwaltsgesellschaft“ enthalten.
 (2) Andere als zugelassene Patentanwaltsgesellschaften dürfen die Bezeichnung "Patentanwaltsgesellschaft" nicht führen. Berufliche Zusammenschlüsse, die die Bezeichnung "Patentanwaltsgesellschaft" bereits am 1. März 1999 in ihrem Namen geführt und einen Hinweis auf die Rechtsform hinzugefügt haben, dürfen eine solche Bezeichnung weiterführen.
 
 § 52l - Vertretung vor Gerichten und Behörden
@@ -1365,52 +1365,52 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)\\
 
 Gebührenverzeichnis\\
 Gliederung
-
-
+ 
+ 
 Teil 1
 Berufsgerichtliches Verfahren
-
-
+ 
+ 
 Abschnitt 1 Verfahren vor dem Landgericht
 Unterabschnitt 1
 Berufsgerichtliches Verfahren erster Instanz
 Unterabschnitt 2
 Antrag auf gerichtliche Entscheidung über die Androhung oder die Festsetzung eines Zwangsgelds oder über die Rüge
-
-
+ 
+ 
 Abschnitt 2 Verfahren vor dem Oberlandesgericht
 Unterabschnitt 1
 Berufung
 Unterabschnitt 2
 Beschwerde
-
-
+ 
+ 
 Abschnitt 3 Verfahren vor dem Bundesgerichtshof
 Unterabschnitt 1
 Revision
 Unterabschnitt 2
 Beschwerde
-
-
+ 
+ 
 Abschnitt 4 Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör
-
-
+ 
+ 
 Teil 2
 Gerichtliche Verfahren in verwaltungsrechtlichen Patentanwaltssachen
-
-
+ 
+ 
 Abschnitt 1
 Erster Rechtszug
 Unterabschnitt 1
 Oberlandesgericht
 Unterabschnitt 2
 Bundesgerichtshof
-
-
+ 
+ 
 Abschnitt 2
 Zulassung und Durchführung der Berufung
-
-
+ 
+ 
 Abschnitt 3
 Vorläufiger Rechtsschutz
 Unterabschnitt 1
@@ -1419,8 +1419,8 @@ Unterabschnitt 2
 Bundesgerichtshof als Rechtsmittelinstanz in der Hauptsache
 Unterabschnitt 3
 Bundesgerichtshof
-
-
+ 
+ 
 Abschnitt 4
 Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör
 Nr.
@@ -1435,51 +1435,51 @@ Vorbemerkung 1:
 - (2) :: Wird ein Rechtsmittel oder ein Antrag auf berufsgerichtliche Entscheidung nur teilweise verworfen oder zurückgewiesen, so hat das Gericht die Gebühr zu ermäßigen, soweit es unbillig wäre, den Patentanwalt damit zu belasten.
 - (3) :: Im Verfahren nach Wiederaufnahme werden die gleichen Gebühren wie für das wiederaufgenommene Verfahren erhoben. Wird jedoch nach Anordnung der Wiederaufnahme des Verfahrens das frühere Urteil aufgehoben, gilt für die Gebührenerhebung jeder Rechtszug des neuen Verfahrens mit dem jeweiligen Rechtszug des früheren Verfahrens zusammen als ein Rechtszug. Gebühren werden auch für Rechtszüge erhoben, die nur im früheren Verfahren stattgefunden haben.
 
-
+ 
 
 Abschnitt 1
 
 Verfahren vor dem Landgericht
 
+ 
 
+ 
 
-
-
-
+ 
 
 Unterabschnitt 1
 
 Berufsgerichtliches Verfahren erster Instanz
 
+ 
 
+ 
 
-
-
-
+ 
 
 1110
 
 Verfahren mit Urteil bei Verhängung einer oder mehrerer der folgenden Maßnahmen:
 
-
+ 
 
 1. einer Warnung,
 
-
+ 
 
 2. eines Verweises,
 
-
+ 
 
 3. einer Geldbuße
 
 240,00 EUR
 
+ 
 
+ 
 
-
-
-
+ 
 
 1111
 
@@ -1487,7 +1487,7 @@ Verfahren mit Urteil bei Ausschließung aus der Patentanwaltschaft
 
 480,00 EUR
 
-
+ 
 
 Unterabschnitt 2
 
@@ -1495,11 +1495,11 @@ Antrag auf gerichtliche Entscheidung\\
 über die Androhung oder die Festsetzung eines\\
 Zwangsgelds oder über die Rüge
 
+ 
 
+ 
 
-
-
-
+ 
 
 1120
 
@@ -1508,11 +1508,11 @@ Der Antrag wird verworfen oder zurückgewiesen
 
 160,00 EUR
 
+ 
 
+ 
 
-
-
-
+ 
 
 1121
 
@@ -1521,27 +1521,27 @@ Der Antrag wird verworfen oder zurückgewiesen
 
 160,00 EUR
 
-
+ 
 
 Abschnitt 2
 
 Verfahren vor dem Oberlandesgericht
 
+ 
 
+ 
 
-
-
-
+ 
 
 Unterabschnitt 1
 
 Berufung
 
+ 
 
+ 
 
-
-
-
+ 
 
 1210
 
@@ -1549,11 +1549,11 @@ Berufungsverfahren mit Urteil
 
 1,5
 
+ 
 
+ 
 
-
-
-
+ 
 
 1211
 
@@ -1561,23 +1561,23 @@ Erledigung des Berufungsverfahrens ohne Urteil
 
 0,5
 
-
+ 
 
 Die Gebühr entfällt bei Zurücknahme der Berufung vor Ablauf der Begründungsfrist.
 
+ 
 
-
-
+ 
 
 Unterabschnitt 2
 
 Beschwerde
 
+ 
 
+ 
 
-
-
-
+ 
 
 1220
 
@@ -1588,29 +1588,29 @@ Die Beschwerde wird verworfen oder zurückgewiesen
 
 Von dem Patentanwalt wird eine Gebühr nur erhoben, wenn gegen ihn rechtskräftig eine berufsgerichtliche Maßnahme verhängt worden ist.
 
+ 
 
-
-
+ 
 
 Abschnitt 3
 
 Verfahren vor dem Bundesgerichtshof
 
+ 
 
+ 
 
-
-
-
+ 
 
 Unterabschnitt 1
 
 Revision
 
+ 
 
+ 
 
-
-
-
+ 
 
 1310
 
@@ -1618,11 +1618,11 @@ Revisionsverfahren mit Urteil oder mit Beschluss nach § 128 Abs. 3 Satz 1 der P
 
 2,0
 
+ 
 
+ 
 
-
-
-
+ 
 
 1311
 
@@ -1632,19 +1632,19 @@ Erledigung des Revisionsverfahrens ohne Urteil und ohne Beschluss nach § 128 Ab
 
 Die Gebühr entfällt bei Zurücknahme der Revision vor Ablauf der Begründungsfrist.
 
+ 
 
-
-
+ 
 
 Unterabschnitt 2
 
 Beschwerde
 
+ 
 
+ 
 
-
-
-
+ 
 
 1320
 
@@ -1653,11 +1653,11 @@ Die Beschwerde wird verworfen oder zurückgewiesen
 
 1,0
 
+ 
 
+ 
 
-
-
-
+ 
 
 1321
 
@@ -1668,20 +1668,20 @@ Die Beschwerde wird verworfen oder zurückgewiesen
 
 Von dem Patentanwalt wird eine Gebühr nur erhoben, wenn gegen ihn rechtskräftig eine berufsgerichtliche Maßnahme verhängt worden ist.
 
+ 
 
-
-
+ 
 
 Abschnitt 4
 
 Rüge wegen Verletzung des Anspruchs\\
 auf rechtliches Gehör
 
+ 
 
+ 
 
-
-
-
+ 
 
 1400
 

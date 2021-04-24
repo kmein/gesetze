@@ -126,14 +126,14 @@ Mittel- und Ostdeutsches Tief- und Hügelland
 Westdeutsches Bergland, kolline Stufe
 801 03
 7, 8, 12, 20, 29 bis 400 m
-
-
+ 
+ 
 21, 22, 31 bis 500 m
 Westdeutsches Bergland, montane Stufe
 801 04
 7, 8, 12, 20, 29 über 400 m
-
-
+ 
+ 
 21, 22, 32 über 500 m
 Oberrheingraben
 801 05
@@ -141,14 +141,14 @@ Oberrheingraben
 Südostdeutsches Hügel- und Bergland, kolline Stufe
 801 06
 13, 15, 17-19, 25, 27 bis 600 m
-
-
+ 
+ 
 26, 28, 36, 37 bis 800 m
 Südostdeutsches Hügel- und Bergland, montane Stufe
 801 07
 13, 15, 17-19, 25, 27 über 600 m
-
-
+ 
+ 
 26, 28, 36, 37 über 800 m
 Süddeutsches Hügel- und Bergland, kolline Stufe
 801 08
@@ -269,32 +269,32 @@ Mitteldeutsches Tief- und Hügelland
 Rheinisches und Saarpfälzer Bergland, kolline Stufe
 810 07
 12 bis 400 m
-
+ 
 20, 29 bis 500 m
 Rheinisches und Saarpfälzer Bergland, montane Stufe
 810 08
 12 über 400 m
-
+ 
 20, 29 über 500 m
 Harz-, Weser- und Hessisches Bergland, kolline Stufe
 810 09
 7, 8 bis 400 m
-
+ 
 21, 22, 31 bis 500 m
 Harz-, Weser- und Hessisches Bergland, montane Stufe
 810 10
 7, 8 über 400 m
-
+ 
 21, 22, 31 über 500 m
 Thüringer Wald, Fichtelgebirge und Vogtland, kolline Stufe
 810 11
 15, 25 bis 600 m
-
+ 
 13, 26, 27 bis 700 m
 Thüringer Wald, Fichtelgebirge und Vogtland, montane Stufe
 810 12
 15, 25 über 600 m
-
+ 
 13, 26, 27 über 700 m
 Erzgebirge mit Vorland, kolline Stufe
 810 13
@@ -415,12 +415,12 @@ Rheinisches und Saarpfälzer Bergland sowie Oberrheingraben, montane Stufe
 Weser- und Hessisches Bergland, kolline Stufe
 840 06
 7 bis 400 m
-
+ 
 21, 22, 31 bis 500 m
 Weser- und Hessisches Bergland, montane Stufe
 840 07
 7 über 400 m
-
+ 
 21, 22, 31 über 500 m
 Harz, kolline Stufe
 840 08
@@ -434,13 +434,13 @@ Harz, hochmontane Stufe
 Thüringer Wald und Frankenwald, kolline Stufe
 840 11
 13 bis 700 m
-
-
+ 
+ 
 25 bis 600 m
 Thüringer Wald und Frankenwald, montane Stufe
 840 12
 13 über 700 m
-
+ 
 25 über 600 m
 Vogtland und Ostthüringisches Hügelland
 840 13
@@ -512,21 +512,21 @@ varietas corsicana 849
 Norddeutsches Tiefland
 847 01
 1-5
-
+ 
 848 01
-
-
+ 
+ 
 849 01
-
+ 
 Übriges Bundesgebiet
 847 02
 6-46
-
+ 
 848 02
-
-
+ 
+ 
 849 02
-
+ 
 Pinus sylvestris L.
 Kiefer
 Nordsee-Küstenraum und Rheinisch-Westfälische Bucht
@@ -544,14 +544,14 @@ Mittel- und Ostdeutsches Tiefland
 Westdeutsches Bergland, kolline Stufe
 851 05
 7, 8, 12, 20, 29 bis 400 m
-
-
+ 
+ 
 21, 22, 31 bis 500 m
 Westdeutsches Bergland, montane Stufe
 851 06
 7, 8, 12, 20, 29 über 400 m
-
-
+ 
+ 
 21, 22, 31 über 500 m
 Vogtland, Thüringer Wald und Frankenwald, kolline Stufe
 851 07
@@ -637,16 +637,16 @@ Mittel- und Ostdeutsches Tief- und Hügelland
 West- und Süddeutsches Hügel- und Bergland sowie Alpen, kolline Stufe
 853 04
 7, 8, 12 bis 400 m
-
+ 
 20-23, 29-32, 38, 39 bis 500 m
-
+ 
 24, 33-35, 40-46 bis 600 m
 West- und Süddeutsches Hügel- und Bergland sowie Alpen, montane Stufe
 853 05
 7, 8, 12 über 400 m
-
+ 
 20-23, 29-32, 38, 39 über 500 m
-
+ 
 24, 33-35, 40-46 über 600 m
 Südostdeutsches Hügel- und Bergland
 853 06

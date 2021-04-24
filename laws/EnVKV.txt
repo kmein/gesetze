@@ -181,7 +181,7 @@ Die Kennzeichnungspflicht nach § 3 beginnt zum 1. Januar 1998.
 3. Ermittlung der erforderlichen Angaben
 Die nach dieser Anlage erforderlichen Angaben sind anhand der harmonisierten Normen EN 50229:2007 Elektrische Wasch-Trockner für den Hausgebrauch -- Prüfverfahren zur Bestimmung der Gebrauchseigenschaft der europäischen Normungsorganisation CENELEC zu ermitteln.
 4. Etiketten
-Die Etiketten müssen den Anforderungen des Anhangs I der RL 96/60/EG entsprechen. Im Text des Etiketts ist die unter dem Wortlaut Energieverbrauch“ (Randnummer V) stehende Erklärung (für Waschen und Trockner der vollen Waschkapazität)“ durch die Erläuterung (Zum Waschen und Trocknen der vollen Waschkapazität bei 60 Grad Celsius)“ zu ersetzen. Sofern in den vorgenannten Anhängen von Richtlinien mehrere Sprachfassungen wiedergegeben sind, ist die deutschsprachige Fassung zu verwenden.
+Die Etiketten müssen den Anforderungen des Anhangs I der RL 96/60/EG entsprechen. Im Text des Etiketts ist die unter dem Wortlaut „Energieverbrauch“ (Randnummer V) stehende Erklärung „(für Waschen und Trockner der vollen Waschkapazität)“ durch die Erläuterung „(Zum Waschen und Trocknen der vollen Waschkapazität bei 60 Grad Celsius)“ zu ersetzen. Sofern in den vorgenannten Anhängen von Richtlinien mehrere Sprachfassungen wiedergegeben sind, ist die deutschsprachige Fassung zu verwenden.
 5. Datenblätter
 Die Datenblätter müssen den Anforderungen nach Anhang II der RL 96/60/EG entsprechen. Sie sind in deutscher Sprache abzufassen.
 6. Nicht ausgestellte Geräte

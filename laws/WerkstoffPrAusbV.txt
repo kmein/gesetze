@@ -226,17 +226,17 @@ Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teile
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Leistungen
 
-- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit mindestens ausreichend“,
-- 2. :: im Prüfungsbereich Eigenschaften metallischer Werkstoffe mit mindestens ausreichend“,
-- 3. :: im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens ausreichend“,
-- 4. :: in mindestens zwei der übrigen Prüfungsbereiche von Teil 2 der Abschlussprüfung mit mindestens ausreichend“ und
-- 5. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit ungenügend“
+- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit mindestens „ausreichend“,
+- 2. :: im Prüfungsbereich Eigenschaften metallischer Werkstoffe mit mindestens „ausreichend“,
+- 3. :: im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“,
+- 4. :: in mindestens zwei der übrigen Prüfungsbereiche von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“ und
+- 5. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit „ungenügend“
 
 bewertet worden sind.
 
 (3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche Schadensanalyse, Eigenschaften metallischer Werkstoffe oder Wirtschafts- und Sozialkunde durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-- 1. :: der Prüfungsbereich schlechter als ausreichend“ bewertet worden ist und
+- 1. :: der Prüfungsbereich schlechter als „ausreichend“ bewertet worden ist und
 - 2. :: die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
@@ -353,17 +353,17 @@ Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teile
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Leistungen
 
-- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit mindestens ausreichend“,
-- 2. :: im Prüfungsbereich Eigenschaften polymerer Werkstoffe mit mindestens ausreichend“,
-- 3. :: im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens ausreichend“,
-- 4. :: in mindestens zwei der übrigen Prüfungsbereiche von Teil 2 der Abschlussprüfung mit mindestens ausreichend“ und
-- 5. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit ungenügend“
+- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit mindestens „ausreichend“,
+- 2. :: im Prüfungsbereich Eigenschaften polymerer Werkstoffe mit mindestens „ausreichend“,
+- 3. :: im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“,
+- 4. :: in mindestens zwei der übrigen Prüfungsbereiche von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“ und
+- 5. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit „ungenügend“
 
 bewertet worden sind.
 
 (3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche Schadensanalyse, Eigenschaften polymerer Werkstoffe oder Wirtschafts- und Sozialkunde durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-- 1. :: der Prüfungsbereich schlechter als ausreichend“ bewertet worden ist und
+- 1. :: der Prüfungsbereich schlechter als „ausreichend“ bewertet worden ist und
 - 2. :: die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
@@ -484,17 +484,17 @@ Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teile
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Leistungen
 
-- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit mindestens ausreichend“,
-- 2. :: im Prüfungsbereich Wärmebehandlungsfähigkeit von Bauteilen mit mindestens ausreichend“,
-- 3. :: im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens ausreichend“,
-- 4. :: in mindestens zwei der übrigen Prüfungsbereiche von Teil 2 der Abschlussprüfung mit mindestens ausreichend“ und
-- 5. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit ungenügend“
+- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit mindestens „ausreichend“,
+- 2. :: im Prüfungsbereich Wärmebehandlungsfähigkeit von Bauteilen mit mindestens „ausreichend“,
+- 3. :: im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“,
+- 4. :: in mindestens zwei der übrigen Prüfungsbereiche von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“ und
+- 5. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit „ungenügend“
 
 bewertet worden sind.
 
 (3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche Schadensanalyse, Wärmebehandlungsfähigkeit von Bauteilen oder Wirtschafts- und Sozialkunde durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-- 1. :: der Prüfungsbereich schlechter als ausreichend“ bewertet worden ist und
+- 1. :: der Prüfungsbereich schlechter als „ausreichend“ bewertet worden ist und
 - 2. :: die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
@@ -609,16 +609,16 @@ Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teile
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Leistungen
 
-- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit mindestens ausreichend“,
-- 2. :: im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens ausreichend“,
-- 3. :: in mindestens drei Prüfungsbereichen von Teil 2 der Abschlussprüfung mit mindestens ausreichend“ und
-- 4. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit ungenügend“
+- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit mindestens „ausreichend“,
+- 2. :: im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“,
+- 3. :: in mindestens drei Prüfungsbereichen von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“ und
+- 4. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit „ungenügend“
 
 bewertet worden sind.
 
 (3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche Prüfanweisungen, Beanspruchung technischer Systeme oder Wirtschafts- und Sozialkunde durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-- 1. :: der Prüfungsbereich schlechter als ausreichend“ bewertet worden ist und
+- 1. :: der Prüfungsbereich schlechter als „ausreichend“ bewertet worden ist und
 - 2. :: die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
@@ -674,11 +674,11 @@ Sichtprüfung
 
 Stufe 2
 
+ 
 
+ 
 
-
-
-
+ 
 
 X
 
@@ -698,11 +698,11 @@ Eindringprüfung
 
 Stufe 2
 
+ 
 
+ 
 
-
-
-
+ 
 
 X
 
@@ -722,11 +722,11 @@ Magnetpulverprüfung
 
 Stufe 2
 
+ 
 
+ 
 
-
-
-
+ 
 
 X
 
@@ -746,11 +746,11 @@ Durchstrahlungsprüfung
 
 Stufe 1
 
+ 
 
+ 
 
-
-
-
+ 
 
 X
 
@@ -778,8 +778,8 @@ Lernfeld
 Physikalische, geometrische und physiologische Grundlagen der Sichtprüfung
 3
 X
-
-
+ 
+ 
 Abschnitt A\\
 A4b
 5
@@ -788,16 +788,16 @@ Arbeitstechniken nach Stand der Technik\\
 -- Direkte/indirekte (Videoskopie) Sichtprüfung
 3
 X
-
-
+ 
+ 
 Abschnitt A\\
 A6b
 5
 Prüfgeräte, Messtechnik, Hilfsmittel und deren Handhabung nach Stand der Technik
 5
 X
-
-
+ 
+ 
 Abschnitt F\\
 F5a-c/F8a,b\\
 Abschnitt A\\
@@ -806,28 +806,28 @@ A5b
 Anwendungsbereiche, Merkmals- und Objektkunde bezüglich der prüfbaren Produktsektoren nach Stand der Technik
 6
 X
-
-
+ 
+ 
 Abschnitt A\\
 A1/A2/A3/A4b
 5
 Genereller Prüfablauf und Prüfbericht nach Stand der Technik
 3
 X
-
-
+ 
+ 
 Abschnitt F\\
 F6\\
 Abschnitt A\\
 A5/A6/A8/A9
 5
 Gesamtzahl der Unterrichtseinheiten
-
+ 
 20
-
-
-
-
+ 
+ 
+ 
+ 
 1.2 Stufe 2
 ZfP-Personalzertifizierung nach DIN EN ISO 9712
 Berufsausbildung Werkstoffprüfer/in
@@ -846,16 +846,16 @@ Berufsbildposition
 Lernfeld
 Übersicht über Regelwerke in der Sichtprüfung
 1
-
-
+ 
+ 
 X
 Abschnitt F\\
 F6a
 17d
 Fehlerkunde in der Sichtprüfung bezüglich der prüfbaren Produktsektoren nach Stand der Technik
 2
-
-
+ 
+ 
 X
 Abschnitt A\\
 A1/A2/A3\\
@@ -869,8 +869,8 @@ Erstellen von Prüfanweisungen für die Prüfung von Schweißverbindungen nach S
 -- Interpretation und Bewertung der Ergebnisse\\
 -- Prüfberichte
 2
-
-
+ 
+ 
 X
 Abschnitt F\\
 F6a\\
@@ -884,8 +884,8 @@ Erstellen von Prüfanweisungen für die Prüfung von Schmiedeteilen nach Stand d
 -- Interpretation und Bewertung der Ergebnisse\\
 -- Prüfbericht
 2
-
-
+ 
+ 
 X
 Abschnitt F\\
 F6a\\
@@ -899,8 +899,8 @@ Erstellen von Prüfanweisungen für die Prüfung von Gussstücken nach Stand der
 -- Interpretation und Bewertung der Ergebnisse\\
 -- Prüfbericht
 2
-
-
+ 
+ 
 X
 Abschnitt F\\
 F6a\\
@@ -911,8 +911,8 @@ E1a,b/E2b,e,f/E3a/E4c/E5b,c
 17d
 Erstellen von Prüfanweisungen für die Prüfung an komplexen Bauteilen nach Stand der Technik
 1
-
-
+ 
+ 
 X
 Abschnitt F\\
 F6a\\
@@ -922,12 +922,12 @@ Abschnitt E\\
 E1a,b/E2b,e,f/E3a/E4c/E5b,c
 17d
 Gesamtzahl der Unterrichtseinheiten
-
-
-
+ 
+ 
+ 
 10
-
-
+ 
+ 
 2. Entsprechungen für Eindringprüfung (Penetrant Testing, PT)
 2.1 Stufe 1
 ZfP-Personalzertifizierung nach DIN EN ISO 9712
@@ -948,16 +948,16 @@ Lernfeld
 Physikalisch-chemische Grundlagen der Eindringprüfung
 4
 X
-
-
+ 
+ 
 Abschnitt A\\
 A4b
 5
 Eigenschaften und Kontrolle der Prüfmittelsysteme nach Stand der Technik
 4
 X
-
-
+ 
+ 
 Abschnitt F\\
 F3b/F4/F5a,e,f\\
 Abschnitt A\\
@@ -966,36 +966,36 @@ A4b
 Arbeitssicherheit und Umweltschutz
 2
 X
-
-
+ 
+ 
 Abschnitt F\\
 F4/F5a,e,f
 5
 Anwendungsbereiche, Merkmals- und Objektkunde bezüglich der prüfbaren Produktsektoren nach Stand der Technik
 3
 X
-
-
+ 
+ 
 Abschnitt A\\
 A1/A2/A3/A4b
 5
 Genereller Prüfablauf und Prüfbericht nach Stand der Technik
 2
 X
-
-
+ 
+ 
 Abschnitt F\\
 F6\\
 Abschnitt A\\
 A5/A6/A8a/A9
 5
 Gesamtzahl der Unterrichtseinheiten
-
+ 
 15
-
-
-
-
+ 
+ 
+ 
+ 
 2.2 Stufe 2
 ZfP-Personalzertifizierung nach DIN EN ISO 9712
 Berufsausbildung Werkstoffprüfer/in
@@ -1014,16 +1014,16 @@ Berufsbildposition
 Lernfeld
 Übersicht über Regelwerke in der Eindringprüfung
 1
-
-
+ 
+ 
 X
 Abschnitt F\\
 F6a
 17d
 Fehlerkunde in der Eindringprüfung bezüglich der prüfbaren Produktsektoren nach Stand der Technik
 2
-
-
+ 
+ 
 X
 Abschnitt A\\
 A1/A2/A3\\
@@ -1035,8 +1035,8 @@ Erstellen von Prüfanweisungen für die Prüfung von Schweißverbindungen nach S
 -- Interpretation und Bewertung der Ergebnisse\\
 -- Prüfbericht
 3
-
-
+ 
+ 
 X
 Abschnitt F\\
 F6a\\
@@ -1051,8 +1051,8 @@ Erstellen von Prüfanweisungen für die Prüfung von Schmiedeteilen nach Stand d
 -- Interpretation und Bewertung der Ergebnisse\\
 -- Prüfbericht
 2
-
-
+ 
+ 
 X
 Abschnitt F\\
 F6a\\
@@ -1068,8 +1068,8 @@ Erstellen von Prüfanweisungen für die Prüfung von Gussstücken nach Stand der
 \\
 \\
 2
-
-
+ 
+ 
 \\
 \\
 \\
@@ -1084,17 +1084,17 @@ A5
 17d
 -- Interpretation und Bewertung der Ergebnisse nach Regelwerken und Prüfanweisung\\
 -- Prüfbericht
-
-
-
-
+ 
+ 
+ 
+ 
 Abschnitt E\\
 E1a,b/E2b,e,f/E3a/E4c/E5b,c
-
+ 
 Erstellung von Prüfanweisungen für die Prüfung an komplexen Bauteilen nach Stand der Technik
 2
-
-
+ 
+ 
 X
 Abschnitt F\\
 F6a\\
@@ -1104,12 +1104,12 @@ Abschnitt E\\
 E1a,b/E2b,e,f/E3a/E4c/E5b,c
 17d
 Gesamtzahl der Unterrichtseinheiten
-
-
-
+ 
+ 
+ 
 12
-
-
+ 
+ 
 3. Entsprechungen für Magnetpulverprüfung (Magnetic Testing, MT)
 3.1    Stufe 1
 ZfP-Personalzertifizierung nach DIN EN ISO 9712
@@ -1130,32 +1130,32 @@ Lernfeld
 Physikalische Grundlagen der Magnetpulverprüfung
 4
 X
-
-
+ 
+ 
 Abschnitt A\\
 A4b
 5
 Prüfmittel für die Magnetpulverprüfung nach Stand der Technik
 1
 X
-
-
+ 
+ 
 Abschnitt F\\
 F3b/F5a,e,f,g
 5
 Arbeitssicherheit und Umweltschutz
 1
 X
-
-
+ 
+ 
 Abschnitt F\\
 F3/F4/F8a,d-f
 5
 Prüfgeräte, Magnetisierungstechniken und Entmagnetisierung nach Stand der Technik
 4
 X
-
-
+ 
+ 
 Abschnitt F\\
 F8a,b\\
 Abschnitt A\\
@@ -1164,28 +1164,28 @@ A4b/A5b
 Anwendungsbereiche, Merkmals- und Objektkunde bezüglich der prüfbaren Produktsektoren nach Stand der Technik
 2
 X
-
-
+ 
+ 
 Abschnitt A\\
 A1/A2/A3/A4b
 5
 Genereller Prüfablauf und Prüfbericht nach Prüfanweisung
 3
 X
-
-
+ 
+ 
 Abschnitt F\\
 F6\\
 Abschnitt A\\
 A5/A6/A8/A9
 5
 Gesamtzahl der Unterrichtseinheiten
-
+ 
 15
-
-
-
-
+ 
+ 
+ 
+ 
 3.2    Stufe 2
 ZfP-Personalzertifizierung nach DIN EN ISO 9712
 Berufsausbildung Werkstoffprüfer/in
@@ -1204,16 +1204,16 @@ Berufsbildposition
 Lernfeld
 Übersicht über Regelwerke in der Magnetpulverprüfung
 1
-
-
+ 
+ 
 X
 Abschnitt F\\
 F6a
 17d
 Fehlerkunde in der Magnetpulverprüfung bezüglich der prüfbaren Produktsektoren nach Stand der Technik
 2
-
-
+ 
+ 
 X
 Abschnitt A\\
 A1/A2/A3/A4b\\
@@ -1225,8 +1225,8 @@ Erstellen von Prüfanweisungen für die Prüfung von Schweißverbindungen nach S
 -- Interpretation und Bewertung der Ergebnisse\\
 -- Prüfbericht
 3
-
-
+ 
+ 
 X
 Abschnitt F\\
 F6a\\
@@ -1240,8 +1240,8 @@ Erstellen von Prüfanweisungen für die Prüfung von Schmiedeteilen nach Stand d
 -- Interpretation und Bewertung der Ergebnisse\\
 -- Prüfbericht
 2
-
-
+ 
+ 
 X
 Abschnitt F\\
 F6a\\
@@ -1255,8 +1255,8 @@ Erstellen von Prüfanweisungen für die Prüfung von Gussstücken nach Stand der
 -- Interpretation und Bewertung der Ergebnisse\\
 -- Prüfbericht
 2
-
-
+ 
+ 
 X
 Abschnitt F\\
 F6a\\
@@ -1267,8 +1267,8 @@ E1a,b/E2b,e,f/E3a/E4c/E5b,c
 17d
 Erstellen von Prüfanweisungen für die Prüfung an komplexen Bauteilen nach Stand der Technik
 2
-
-
+ 
+ 
 X
 Abschnitt F\\
 F6a\\
@@ -1278,12 +1278,12 @@ Abschnitt E\\
 E1a,b/E2b,e,f/E3a/E4c/E5b,c
 17d
 Gesamtzahl der Unterrichtseinheiten
-
-
-
+ 
+ 
+ 
 12
-
-
+ 
+ 
 4. Entsprechungen für Ultraschallprüfung (Ultrasonic Testing, UT)
 4.1    Stufe 1
 ZfP-Personalzertifizierung nach DIN EN ISO 9712
@@ -1303,17 +1303,17 @@ Berufsbildposition
 Lernfeld
 Physikalische Grundlagen der Ultraschallprüfung
 10
-
+ 
 X
-
+ 
 Abschnitt A\\
 A4b,f,g
 10
 Ultraschallprüfköpfe und Prüfkopfeigenschaften nach Stand der Technik
 4
-
+ 
 X
-
+ 
 Abschnitt F\\
 F6c/F8\\
 Abschnitt A\\
@@ -1321,9 +1321,9 @@ A4b,f
 10
 Digitale Ultraschallprüfgeräte und Justierung nach Stand der Technik
 4
-
+ 
 X
-
+ 
 Abschnitt A\\
 A4b,f,g
 10
@@ -1335,9 +1335,9 @@ Ultraschallprüftechniken nach Stand der Technik\\
 -- Tauchtechnik\\
 -- Wanddickenmessung
 14
-
+ 
 X
-
+ 
 Abschnitt F\\
 F6c/F8a-c\\
 Abschnitt A\\
@@ -1345,9 +1345,9 @@ A4b,f
 10
 Anwendungsbereiche, Merkmals- und Objektkunde bezüglich der prüfbaren Produktsektoren nach Stand der Technik
 8
-
+ 
 X
-
+ 
 Abschnitt F\\
 F8\\
 Abschnitt A\\
@@ -1355,21 +1355,21 @@ A1/A2/A3/A4b/A5/A6/A7b,d-g/A8/A9
 10
 Generelle Prüfdurchführung und Prüfbericht nach Prüfanweisung
 5
-
+ 
 X
-
+ 
 Abschnitt F\\
 F6\\
 Abschnitt A\\
 A5/A6/A8a/A9
 10
 Gesamtzahl der Unterrichtseinheiten
-
-
+ 
+ 
 45
-
-
-
+ 
+ 
+ 
 5. Entsprechungen für Durchstrahlungsprüfung (Radiographic Testing, RT)
 5.1    Stufe 1
 ZfP-Personalzertifizierung nach DIN EN ISO 9712
@@ -1389,8 +1389,8 @@ Berufsbildposition
 Lernfeld
 Physikalische Grundlagen der Durchstrahlungsprüfung
 8
-
-
+ 
+ 
 X
 Abschnitt F\\
 F5a,b\\
@@ -1400,8 +1400,8 @@ A4b
 16b
 Prüfgeräte, Messtechnik, Hilfsmittel und deren Handhabung nach Stand der Technik
 6
-
-
+ 
+ 
 X
 Abschnitt F\\
 F7a,b/F8a\\
@@ -1411,8 +1411,8 @@ A4b,f,g
 16b
 Röntgenfilme, Folien, Filmeigenschaften und Filmverarbeitung nach Stand der Technik
 5
-
-
+ 
+ 
 X
 Abschnitt F\\
 F7a,b/F8a,d,e\\
@@ -1422,8 +1422,8 @@ A4b
 16b
 Grundlagen der Abbildungstechnik nach Stand der Technik
 6
-
-
+ 
+ 
 X
 Abschnitt A\\
 A4b
@@ -1431,8 +1431,8 @@ A4b
 16b
 Anwendungsbereiche, Merkmals- und Objektkunde bezüglich der prüfbaren Produktsektoren nach Stand der Technik
 10
-
-
+ 
+ 
 X
 Abschnitt F\\
 F8a-c\\
@@ -1442,8 +1442,8 @@ A1/A2/A3/A4b/A5/A6/A7b,d,f,g/A8/A9
 16b
 Filmbetrachtung nach Stand der Technik
 5
-
-
+ 
+ 
 X
 Abschnitt A\\
 A4b
@@ -1451,25 +1451,25 @@ A4b
 16b
 Vorbereitung von Durchstrahlungsprüfungen nach Prüfanweisung und nach Stand der Technik
 7
-
-
+ 
+ 
 X
 Abschnitt A\\
 A4b
 14 \\
 16b
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Abschnitt E\\
 E1a/E2b,e,f/E3a-c/E4b-d/E5b-d
-
+ 
 Generelle Prüfdurchführung und Prüfbericht nach Prüfanweisung
 7
-
-
+ 
+ 
 X
 Abschnitt F\\
 F5a-c,f/F8a/F9a,c,d\\
@@ -1480,12 +1480,12 @@ E5a
 14 \\
 16b
 Gesamtzahl der Unterrichtseinheiten
-
-
-
+ 
+ 
+ 
 54
-
-
+ 
+ 
 6. Entsprechungen für Prüfanweisungen
 6.1    Oberflächenprüfverfahren Stufe 2
 ZfP-Personalzertifizierung nach DIN EN ISO 9712
@@ -1506,8 +1506,8 @@ Lernfeld
 Umsetzen von Verfahrensanweisungen\\
 Inhalte von Prüfanweisungen für Oberflächenverfahren nach Stand der Technik
 4
-
-
+ 
+ 
 X
 Abschnitt F\\
 F5a-d,f\\
@@ -1523,8 +1523,8 @@ E2b/E4c
 -- Eindringprüfung\\
 -- Magnetpulverprüfung
 4
-
-
+ 
+ 
 X
 Abschnitt F\\
 F5a\\
@@ -1535,8 +1535,8 @@ E1a,b
 17d
 Objektspezifische Herstellungs- und Bearbeitungsfehler und deren Anzeigen nach Stand der Technik
 2
-
-
+ 
+ 
 X
 Abschnitt A\\
 A1a,b/A2a,c,d\\
@@ -1545,8 +1545,8 @@ E1a,b
 17d
 Grenzen und Abgrenzung der Oberflächenverfahren
 2
-
-
+ 
+ 
 X
 Abschnitt A\\
 A4b,g\\
@@ -1554,12 +1554,12 @@ Abschnitt E\\
 E1/E4c
 17d
 Gesamtzahl der Unterrichtseinheiten
-
-
-
+ 
+ 
+ 
 12
-
-
+ 
+ 
 1. Entsprechungen für Sichtprüfung (Visual Testing, VT)
 1.1    Stufe 1
 PRAKTISCHE SCHULUNG\\
@@ -1578,8 +1578,8 @@ Berufsbildpositionen
 1) Direkte Sichtprüfung an Schmiedeteilen und Gesenkschmiedeteilen nach Prüfanweisung
 3
 X
-
-
+ 
+ 
 Abschnitt F\\
 F5a-c,f/F6a,b/F7a,b\\
 Abschnitt A\\
@@ -1587,15 +1587,15 @@ A1a/A2a/A4b/A5/A6/A7b,d-g/A8/A9
 2) Bestimmung von Oberflächenrauheiten
 2
 X
-
-
+ 
+ 
 Abschnitt F\\
 F6b
 3) Direkte Sichtprüfung an Schweißnähten, Klassifizierung der Schweißfehler nach Prüfanweisung, Umgang mit Schweißnahtlehren
 3
 X
-
-
+ 
+ 
 Abschnitt F\\
 F5a-c,f/F6a,b/F7a,b\\
 Abschnitt A\\
@@ -1603,8 +1603,8 @@ A1a/A2d/A4b/A5/A6/A7b,d-g/A8/A9a-d
 4) Direkte Sichtprüfung mit dem Endoskop an geschweißten Rohrleitungen nach Prüfanweisung
 2
 X
-
-
+ 
+ 
 Abschnitt F\\
 F5a-c,f/F6a,b/F7a,b\\
 Abschnitt A\\
@@ -1612,18 +1612,18 @@ A1a/A2d/A4b/A5/A6/A7b,d-g/A8/A9
 5) Direkte Sichtprüfung an Druckgussteilen aus Aluminium nach Prüfanweisung durchführen und Ermittlung von Oberflächenrauheit
 2
 X
-
-
+ 
+ 
 Abschnitt F\\
 F5a-c,f/F6a,b/F7a,b\\
 Abschnitt A\\
 A1a/A2a/A4b/A5/A6/A7b,d-g/A8/A9
 Gesamtzahl der Unterrichtseinheiten
-
+ 
 12
-
-
-
+ 
+ 
+ 
 1.2    Stufe 2
 PRAKTISCHE SCHULUNG\\
 zur Umsetzung der DIN EN ISO 9712
@@ -1640,8 +1640,8 @@ Berufsbildpositionen
 3--4
 6) Erstellen von Prüfanweisungen für die direkte Sichtprüfung nach Stand der Technik an ebenen Schweißnähten und Kehlnähten; Prüfdurchführung; Bewertung der Unregelmäßigkeiten; Prüfbericht
 6
-
-
+ 
+ 
 X
 Abschnitt F\\
 F5a-c,f/F6a,b/F7a,b\\
@@ -1651,8 +1651,8 @@ Abschnitt E\\
 E1a/E2a-c,e,f/E3c/E4b,c,e/E5b,c/E6b-d,f/E7a-c
 7) Erstellen von Prüfanweisungen für die Sichtprüfung mit Endoskopen nach Stand der Technik; Prüfdurchführung; Bewertung der Unregelmäßigkeiten; Prüfbericht
 4
-
-
+ 
+ 
 X
 Abschnitt F\\
 F5a-c,f/F6a,b/F7a,b\\
@@ -1662,8 +1662,8 @@ Abschnitt E\\
 E1a,b/E2a-f/E3a,b/E4a-f/E5c,d/E6a-f/E7a-c
 8) Erstellen von Prüfanweisungen für die direkte Sichtprüfung an weiteren Prüfobjekten aus den prüfbaren Produktsektoren nach Stand der Technik; Prüfdurchführung; Bewertung der Unregelmäßigkeiten; Prüfbericht
 4
-
-
+ 
+ 
 X
 Abschnitt F\\
 F5a-c,f/F6a,b/F7a,b\\
@@ -1673,8 +1673,8 @@ Abschnitt E\\
 E1a,b/E2a-f/E3a,b/E4a-f/E5c,d/E6a-f/E7a-c
 9) Erstellung von Prüfanweisungen für die Durchführung von Sichtprüfungen an komplexen Bauteilen nach Stand der Technik
 4
-
-
+ 
+ 
 X
 Abschnitt F\\
 F5a-c,f/F6a,b/F7a,b\\
@@ -1683,11 +1683,11 @@ A1a/A2d/A4b/A5/A6/A7b,d-g/A8/A9\\
 Abschnitt E\\
 E1a,b/E2a-f/E3a,b/E4a-f/E5c,d/E6a-f/E7a-c
 Gesamtzahl der Unterrichtseinheiten
-
-
-
+ 
+ 
+ 
 18
-
+ 
 2. Entsprechungen für Eindringprüfung (Penetrant Testing, PT)
 2.1    Stufe 1
 PRAKTISCHE SCHULUNG\\
@@ -1706,8 +1706,8 @@ Berufsbildpositionen
 1) Eindringprüfung an Schweißnähten mit dem Farb- und fluoreszierendem Eindringverfahren nach Prüfanweisung
 6
 X
-
-
+ 
+ 
 Abschnitt F\\
 F5a-c,f/F6a,b/F7a,b/F8a,e,f\\
 Abschnitt A\\
@@ -1715,8 +1715,8 @@ A1a/A2d/A4b/A5/A6/A7b,d-g/A8/A9
 2) Eindringprüfung an Gussstücken nach Prüfanweisung
 2
 X
-
-
+ 
+ 
 Abschnitt F\\
 F5a-c,f/F6a,b/F7a-c/F8a,e,f\\
 Abschnitt A\\
@@ -1724,18 +1724,18 @@ A1a/A2a/A4b/A5/A6/A7b,d-g/A8/A9
 3) Eindringprüfung an Schmiedestücken nach Prüfanweisung
 2
 X
-
-
+ 
+ 
 Abschnitt F\\
 F5a-c,f/F6a,b/F7a-c/F8a,e,f\\
 Abschnitt A\\
 A1a/A2a/A4b/A5/A6/A7b,d-g/A8/A9
 Gesamtzahl der Unterrichtseinheiten
-
+ 
 10
-
-
-
+ 
+ 
+ 
 2.2    Stufe 2
 PRAKTISCHE SCHULUNG\\
 zur Umsetzung der DIN EN ISO 9712
@@ -1752,22 +1752,22 @@ Berufsbildpositionen
 3-4
 4) Erstellung von Prüfanweisungen für die Eindringprüfung an Schweißnähten nach Stand der Technik; Prüfdurchführung; Bewertung der Unregelmäßigkeiten; Prüfbericht
 6
-
-
+ 
+ 
 X
 Abschnitt F\\
 F5a-c,f/F6a,b/F7a-c/F8a,e,f\\
 Abschnitt A\\
 A1a/A2d/A4b/A5/A6/A7b,d-g/A8/A9
-
-
-
+ 
+ 
+ 
 Abschnitt E\\
 E1a/E2a-c,e,f/E3c/E4b,c,e/ E5b,c/E6b-d,f/E7a-c
 5) Erstellung von Prüfanweisungen für die Prüfung von Schmiedestücken nach Stand der Technik; Prüfdurchführung; Bewertung der Unregelmäßigkeiten; Prüfbericht
 4
-
-
+ 
+ 
 X
 Abschnitt F\\
 F5a-c,f/F6a,b/F7a-c/F8a,e,f\\
@@ -1777,8 +1777,8 @@ Abschnitt E\\
 E1a,b/E2a-f/E3a,b/E4a-f/E5c,d/E6a-f/E7a-c
 6) Erstellung von Prüfanweisungen für die Prüfung von Gussstücken nach Stand der Technik; Prüfdurchführung; Bewertung der Unregelmäßigkeiten; Prüfbericht
 4
-
-
+ 
+ 
 X
 Abschnitt F\\
 F5a-c,f/F6a,b/F7a-c/F8a,e,f\\
@@ -1788,17 +1788,17 @@ Abschnitt E\\
 E1a,b/E2a-f/E3a,b/E4a-f/E5c,d/E6a-f/E7a-c
 7) Erstellung von Prüfanweisungen für die Durchführung von Eindringprüfungen an komplexen Bauteilen nach Stand der Technik
 4
-
-
+ 
+ 
 X
 Abschnitt E\\
 E1a/E2a-c,e/E3c/E4b,c,e/E5b,c/E6b-d,f/E7a-c
 Gesamtzahl der Unterrichtseinheiten
-
-
-
+ 
+ 
+ 
 18
-
+ 
 3. Entsprechungen für Magnetpulverprüfung (Magnetic Testing, MT)
 3.1    Stufe 1
 PRAKTISCHE SCHULUNG\\
@@ -1817,8 +1817,8 @@ Berufsbildpositionen
 1) Prüfen von Bauteilen mit der Universalprüfbank nach Prüfanweisung
 4
 X
-
-
+ 
+ 
 Abschnitt F\\
 F5a-c,f/F6a,b/F7a,b/F8a,e,f\\
 Abschnitt A\\
@@ -1828,8 +1828,8 @@ E1a/E2a-c,e/E4b,c,e/E5c/E6b-d,f/E7a-c
 2) Prüfung von Schweißnähten nach Prüfanweisung
 2
 X
-
-
+ 
+ 
 Abschnitt F\\
 F5a-c,f/F6a,b/F7a,b/F8a,e,f\\
 Abschnitt A\\
@@ -1839,8 +1839,8 @@ E1a/E2a-c,e/E3c/E4b,c,e/E5b,c/E6b-d,f/E7a,b,c
 3) Prüfung von Gussstücken nach Prüfanweisung
 2
 X
-
-
+ 
+ 
 Abschnitt F\\
 F5a-c,f/F6a,b/F7a,b/F8a,e,f\\
 Abschnitt A\\
@@ -1850,8 +1850,8 @@ E1a/E2a-c,e/E4b,c,e/E5c/E6b-d,f/E7a-c
 4) Prüfung von Schmiedestücken nach Prüfanweisung
 2
 X
-
-
+ 
+ 
 Abschnitt F\\
 F5a-c,f/F6a,b/F7a,b/F8a,e,f\\
 Abschnitt A\\
@@ -1859,11 +1859,11 @@ A1a/A2a/A4b/A5/A6/A7b,d-g/A8/A9\\
 Abschnitt E\\
 E1a/E2a-c,e/E4b,c,e/E5c/E6b-d,f/E7a-c
 Gesamtzahl der Unterrichtseinheiten
-
+ 
 10
-
-
-
+ 
+ 
+ 
 3.2    Stufe 2
 PRAKTISCHE SCHULUNG\\
 zur Umsetzung der DIN EN ISO 9712
@@ -1880,8 +1880,8 @@ Berufsbildpositionen
 3--4
 5) Erstellung von Prüfanweisungen für die Magnetpulverprüfung an Schweißnähten nach Stand der Technik; Prüfdurchführung; Bewertung der Unregelmäßigkeiten; Prüfbericht
 5
-
-
+ 
+ 
 X
 Abschnitt F\\
 F5a-c,f/F6a,b/F7a,b/F8a,e,f\\
@@ -1891,8 +1891,8 @@ Abschnitt E\\
 E1a,b/E2a-f/E3a,b/E4a-f/E5c,d/E6a-f/E7a-c
 6) Erstellung von Prüfanweisungen für die Prüfung von Schmiedestücken nach Stand der Technik; Prüfdurchführung; Bewertung der Unregelmäßigkeiten; Prüfbericht
 5
-
-
+ 
+ 
 X
 Abschnitt F\\
 F5a-c,f/F6a,b/F7a,b/F8a,e,f\\
@@ -1902,8 +1902,8 @@ Abschnitt E\\
 E1a,b/E2a-d,e,f/E3a,b/E4a-f/E5c,d/E6a--f/E7a,b,c
 7) Erstellung von Prüfanweisungen für die Prüfung von Gussstücken nach Stand der Technik; Prüfdurchführung; Bewertung der Unregelmäßigkeiten; Prüfbericht
 5
-
-
+ 
+ 
 X
 Abschnitt F\\
 F5a-c,f/F6a,b/F7a,b/F8a,e,f\\
@@ -1913,17 +1913,17 @@ Abschnitt E\\
 E1a,b/E2a-d,e,f/E3a,b/E4a-f/E5c,d/E6a-f/E7a,b,c
 8) Erstellung von Prüfanweisungen für die Prüfung an komplexen Bauteilen nach Stand der Technik
 5
-
-
+ 
+ 
 X
 Abschnitt E\\
 E1a/E2a-c,e/E3c/E4b,c,e/E5b,c/E6b-d,f/E7a-c
 Gesamtzahl der Unterrichtseinheiten
-
-
-
+ 
+ 
+ 
 20
-
+ 
 4. Entsprechungen für Ultraschallprüfung (Ultrasonic Testing, UT)
 4.1    Stufe 1
 PRAKTISCHE SCHULUNG\\
@@ -1941,9 +1941,9 @@ Berufsbildpositionen
 3--4
 1)  Prüfköpfe und Gerätetechniken
 4
-
+ 
 X
-
+ 
 Abschnitt F\\
 F8a-c\\
 Abschnitt A\\
@@ -1951,9 +1951,9 @@ A4b
 2)  Senkrechteinschallung\\
 -- Berechnung von Schallwegen
 1
-
+ 
 X
-
+ 
 Abschnitt F\\
 F8a-c\\
 Abschnitt A\\
@@ -1961,92 +1961,92 @@ A4b
 3)  Schrägeinschallung\\
 -- Bestimmen des X-Maßes und wahren Winkels
 2
-
+ 
 X
-
+ 
 Abschnitt F\\
 F8a-c\\
 Abschnitt A\\
 A4b
 4)  Messung und Berechnung von Schallbündeldurchmesser
 2
-
+ 
 X
-
+ 
 Abschnitt F\\
 F6a/F7a-c\\
 Abschnitt A\\
 A5/A7b,d-g/A8a/A9
 5)  Messung von Schallgeschwindigkeiten mit Zweipunktjustierung
 2
-
+ 
 X
-
+ 
 Abschnitt F\\
 F3a-c/F4a-d/F5f/F6a-f/F8a-c\\
 Abschnitt A\\
 A1a/A2a,c/A3c/A4b/A5/A6/A7b,d,e,g/A8/A9
 6)  Messung von Längen und Wanddicken nach Prüfanweisung
 8
-
+ 
 X
-
+ 
 Abschnitt F\\
 F3a-c/F4a-d/F5f/F6a-f/F8a-c\\
 Abschnitt A\\
 A1a/A2a,d/A3c/A4b/A5/A6/A7b,d,e,g/A8/A9
 7)  Blechprüfung nach Prüfanweisung
 3
-
+ 
 X
-
+ 
 Abschnitt F\\
 F3a-c/F4a-d/F5f/F6a-f/F8a-c\\
 Abschnitt A\\
 A1a/A2a,d/A4b/A5/A6/A7b,d-g/A8/A9
 8)  Prüfung von Schmiedestücken nach Prüfanweisung
 3
-
+ 
 X
-
+ 
 9)  Prüfung von Gussstücken nach Prüfanweisung
 3
-
+ 
 X
-
+ 
 Abschnitt F\\
 F3a-c/F4a-d/F5f/F6a-f/F8a-c\\
 Abschnitt A\\
 A1a/A2a,d/A3c,d/A4b/A5/A6/A7b,d,e,g/A8/A9
 10) Prüfung von Schweißnähten nach Prüfanweisung
 4
-
+ 
 X
-
+ 
 11) Ermittlung von Nebenechos und Zusatzechos nach Prüfanweisung
 2
-
+ 
 X
-
+ 
 Abschnitt F\\
 F3a-c/F4a-d/F5f/F6a-f/F8a-c\\
 Abschnitt A\\
 A1a/A2a,d/A3c/A4b/A5/A6/A7b,d,e,g/A8/A9
 12) Diverse Übungen zur Senkrecht- und Schrägeinschallung an unterschiedlichen Prüfteilen unterschiedlicher Werkstoffe nach Prüfanweisung
 11
-
+ 
 X
-
+ 
 Abschnitt F\\
 F3a-c/F4a-d/F5f/F6a-f/F8a-c\\
 Abschnitt A\\
 A1a/A2a,d/A3c,d/A4b/A5/A6/A7b,d-g/A8/A9
 Gesamtzahl der Unterrichtseinheiten
-
-
+ 
+ 
 45
-
-
+ 
+ 
 5. Entsprechungen für Durchstrahlungsprüfung (Radigraphic Testing, RT)
 5.1    Stufe 1
 PRAKTISCHE SCHULUNG\\
@@ -2064,8 +2064,8 @@ Berufsbildpositionen
 3--4
 1) Aufbau und Bedienung von Röntgenanlagen und Gammaarbeitsgeräten; Strahlenschutz
 4
-
-
+ 
+ 
 X
 Abschnitt F\\
 F3a-c/F5a/F7a,b/8a\\
@@ -2073,8 +2073,8 @@ Abschnitt A\\
 A6b,d
 2) Filmentwicklung, Protokollierung und Auswertung
 4
-
-
+ 
+ 
 X
 Abschnitt F\\
 F4a,b,d/F5a/F8a,d-f\\
@@ -2082,15 +2082,15 @@ Abschnitt A\\
 A1a/A2a,c,d/A8a
 3) Maßnahmen gegen Streustrahlung
 2
-
-
+ 
+ 
 X
 Abschnitt F\\
 F3b,c/F4a,b/F5a,b
 4) Betrachtung vorliegender Durchstrahlungsaufnahmen hinsichtlich Verarbeitungs- und aufnahmetechnischer Fehler
 4
-
-
+ 
+ 
 X
 Abschnitt F\\
 F5a/F7a-c\\
@@ -2098,8 +2098,8 @@ Abschnitt A\\
 A1a/A2a,c,d/A8a
 5) Durchstrahlung von Schweißnähten nach Prüfanweisung
 8
-
-
+ 
+ 
 X
 Abschnitt F\\
 F3a-c/F4a,b,d/F5a-c,f/F6a,b/F7a-c/F8a,d-f\\
@@ -2109,18 +2109,18 @@ Abschnitt E\\
 E1a/E2a-f/E3a,c,d/E4a,d/E5a-c/E6a-f/E7a-c
 6) Anfertigen von Zentral- und Ellipsenaufnahmen von Rohrleitungsabschnitten nach Prüfanweisung
 10
-
-
+ 
+ 
 X
 7) Anfertigen von Doppelwandaufnahmen an Schweißnähten nach Prüfanweisung
 10
-
-
+ 
+ 
 X
 8) Erstellen von Übersichtsaufnahmen von Gussteilen nach Prüfanweisung
 6
-
-
+ 
+ 
 X
 Abschnitt F\\
 F3a-c/F4a,b,d/F5a-c,f/F6a,b/F7a-c/F8a,d-f\\
@@ -2130,8 +2130,8 @@ Abschnitt E\\
 E1a/E2a-f/E3a,c,d/E4a,d/E5b-c/E6a-f/E7a-c
 9) Durchstrahlung von Gussteilen mit Hilfe der Mehrfilmtechnik nach Prüfanweisung
 4
-
-
+ 
+ 
 X
 Abschnitt F\\
 F3a-c/F4a,b,d/F5a-c,f/F6a,b/F7a-c/F8a,d-f\\
@@ -2140,9 +2140,9 @@ A1a/A2a/A4b/A5/A6/A7b,d-g/A8/A9\\
 Abschnitt E\\
 E1a/E2a-f/E3a,c,d/E4a,d/E5b-c/E6a-f/E7a-c
 Gesamtzahl der Unterrichtseinheiten
-
-
-
+ 
+ 
+ 
 52
-
+ 
 Teil B Nr. 5 Überschrift (Kursivdruck): Müsste richtig lauten "Radiographic"

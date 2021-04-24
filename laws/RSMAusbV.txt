@@ -195,15 +195,15 @@ Teil 2 der Gesellenprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (2) Die Gesellenprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
-- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens ausreichend“,
-- 2. :: im Ergebnis von Teil 2 mit mindestens ausreichend“,
-- 3. :: im Prüfungsbereich Kundenauftrag mit mindestens ausreichend“,
-- 4. :: in mindestens zwei der übrigen Prüfungsbereiche von Teil 2 mit mindestens ausreichend“ und
-- 5. :: in keinem Prüfungsbereich von Teil 2 mit ungenügend“.
+- 1. :: im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens „ausreichend“,
+- 2. :: im Ergebnis von Teil 2 mit mindestens „ausreichend“,
+- 3. :: im Prüfungsbereich Kundenauftrag mit mindestens „ausreichend“,
+- 4. :: in mindestens zwei der übrigen Prüfungsbereiche von Teil 2 mit mindestens „ausreichend“ und
+- 5. :: in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche Antriebs- und Steuerungstechnik“, Fertigungs-, Montage- und Servicetechnik“ oder Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Antriebs- und Steuerungstechnik“, „Fertigungs-, Montage- und Servicetechnik“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-- 1. :: der Prüfungsbereich schlechter als mit ausreichend“ bewertet worden ist und
+- 1. :: der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 - 2. :: die mündliche Ergänzungsprüfung für das Bestehen der Gesellenprüfung den Ausschlag geben kann.
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.

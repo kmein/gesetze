@@ -138,7 +138,7 @@ Bei besonderen Anforderungen einer Laufbahn kann der mündliche Teil durch weite
 
 § 11 - Einstellung in den Vorbereitungsdienst
 
-Die Bewerberinnen und Bewerber werden als Beamtinnen und Beamte auf Widerruf in den Vorbereitungsdienst eingestellt. Sie führen als Dienstbezeichnung die Amtsbezeichnung des Eingangsamts ihrer Laufbahn mit dem Zusatz Anwärterin“ oder Anwärter“, in Laufbahnen des höheren Dienstes die Dienstbezeichnung Referendarin“ oder Referendar“. Die für die Gestaltung des Vorbereitungsdienstes zuständige oberste Dienstbehörde kann im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat andere Dienstbezeichnungen festsetzen.
+Die Bewerberinnen und Bewerber werden als Beamtinnen und Beamte auf Widerruf in den Vorbereitungsdienst eingestellt. Sie führen als Dienstbezeichnung die Amtsbezeichnung des Eingangsamts ihrer Laufbahn mit dem Zusatz „Anwärterin“ oder „Anwärter“, in Laufbahnen des höheren Dienstes die Dienstbezeichnung „Referendarin“ oder „Referendar“. Die für die Gestaltung des Vorbereitungsdienstes zuständige oberste Dienstbehörde kann im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat andere Dienstbezeichnungen festsetzen.
 
 § 12 - Mittlerer Dienst
 
@@ -146,7 +146,7 @@ Ein Vorbereitungsdienst für den mittleren Dienst dauert mindestens ein Jahr, in
 
 § 13 - Gehobener Dienst
 
-(1) Ein Vorbereitungsdienst für den gehobenen Dienst dauert in der Regel drei Jahre und besteht aus Fachstudien und berufspraktischen Studienzeiten. Er wird in einem Studiengang, der mit einem Bachelor oder einem Diplomgrad mit dem Zusatz Fachhochschule“ abschließt, an der Hochschule des Bundes für öffentliche Verwaltung oder einer gleichstehenden Hochschuleinrichtung durchgeführt.
+(1) Ein Vorbereitungsdienst für den gehobenen Dienst dauert in der Regel drei Jahre und besteht aus Fachstudien und berufspraktischen Studienzeiten. Er wird in einem Studiengang, der mit einem Bachelor oder einem Diplomgrad mit dem Zusatz „Fachhochschule“ abschließt, an der Hochschule des Bundes für öffentliche Verwaltung oder einer gleichstehenden Hochschuleinrichtung durchgeführt.
 (2) Der Vorbereitungsdienst kann bis auf ein Jahr verkürzt werden, wenn die für die Laufbahnaufgaben erforderlichen wissenschaftlichen und methodischen Grundkenntnisse durch ein mit einem Bachelor abgeschlossenes Hochschulstudium oder durch einen gleichwertigen Abschluss nachgewiesen werden. Zum Erwerb erforderlicher Spezialkenntnisse sind Fachstudien oder Lehrgänge, zum Erwerb erforderlicher berufspraktischer Fähigkeiten und Kenntnisse berufspraktische Studienzeiten und ergänzende Lehrveranstaltungen vorzusehen. Eine Verkürzung lediglich auf Fachstudien oder Lehrgänge ist nicht zulässig.
 
 § 14 - Höherer Dienst
@@ -160,7 +160,7 @@ Ein Vorbereitungsdienst für den höheren Dienst dauert mindestens 18 Monate, in
 - 1. :: einer Erkrankung,
 - 2. :: des Mutterschutzes,
 - 3. :: einer Elternzeit,
-- 4. :: der Ableistung eines Wehr-, Zivil-, Bundesfreiwilligen- oder Entwicklungsdienstes, freiwilligen sozialen oder ökologischen Jahres, anderen Dienstes im Ausland, Internationalen Jugendfreiwilligendienstes, Europäischen Freiwilligendienstes, Freiwilligendienstes weltwärts“ des Bundesministeriums für wirtschaftliche Zusammenarbeit und Entwicklung oder Zivilen Friedensdienstes,
+- 4. :: der Ableistung eines Wehr-, Zivil-, Bundesfreiwilligen- oder Entwicklungsdienstes, freiwilligen sozialen oder ökologischen Jahres, anderen Dienstes im Ausland, Internationalen Jugendfreiwilligendienstes, Europäischen Freiwilligendienstes, Freiwilligendienstes „weltwärts“ des Bundesministeriums für wirtschaftliche Zusammenarbeit und Entwicklung oder Zivilen Friedensdienstes,
 - 5. :: anderer zwingender Gründe
 
 unterbrochen wurde und durch die Verkürzung von Ausbildungsabschnitten die zielgerechte Fortsetzung des Vorbereitungsdienstes nicht gewährleistet ist. Dabei können Abweichungen vom Ausbildungs-, Lehr- oder Studienplan zugelassen werden.
@@ -613,7 +613,7 @@ Anlage 1 - (zu § 9 Absatz 1)
 
 (Fundstelle: BGBl. I 2013, 318 - 320;\\
 bzgl. der einzelnen Änderungen vgl. Fußnote)
-
+ 
 
 Anlage 2 - (zu § 10 Absatz 1)
 

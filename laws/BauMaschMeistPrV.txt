@@ -182,10 +182,10 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes oder
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 (2) Im wirtschafts-, rechts- und sozialkundlichen Teil sind jeweils einzeln zu bewerten:
 
-- 1. :: die schriftlichen Prüfungsleistungen in den Prüfungsfächern Grundlagen für kostenbewusstes Handeln“ und Grundlagen für rechtsbewusstes Handeln“,
-- 2. :: die Prüfungsleistungen im Prüfungsfach Grundlagen für die Zusammenarbeit auf der Arbeitsstätte“ in der schriftlichen und in der mündlichen Prüfung.
+- 1. :: die schriftlichen Prüfungsleistungen in den Prüfungsfächern „Grundlagen für kostenbewusstes Handeln“ und „Grundlagen für rechtsbewusstes Handeln“,
+- 2. :: die Prüfungsleistungen im Prüfungsfach „Grundlagen für die Zusammenarbeit auf der Arbeitsstätte“ in der schriftlichen und in der mündlichen Prüfung.
 
-Aus den Bewertungen für die schriftliche und die mündliche Prüfungsleistung im Prüfungsfach Grundlagen für die Zusammenarbeit auf der Arbeitsstätte“ wird als zusammengefasste Bewertung des Prüfungsfachs das gewichtete arithmetische Mittel berechnet. Dabei sind die Bewertungen wie folgt zu gewichten:
+Aus den Bewertungen für die schriftliche und die mündliche Prüfungsleistung im Prüfungsfach „Grundlagen für die Zusammenarbeit auf der Arbeitsstätte“ wird als zusammengefasste Bewertung des Prüfungsfachs das gewichtete arithmetische Mittel berechnet. Dabei sind die Bewertungen wie folgt zu gewichten:
 
 - 1. :: die schriftliche Prüfungsleistung mit einem Drittel und
 - 2. :: die mündliche Prüfungsleistung mit zwei Dritteln.

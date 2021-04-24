@@ -6,38 +6,38 @@ Ausfertigungsdatum: 12.12.2019
 
 Inhaltsübersicht
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 § 1 - Bezeichnung und Zweck
 
-(1) Zur Gewährleistung hoher Qualitäts- und Sicherheitsstandards bei der Gesundheitsversorgung mit Implantaten wird ein Implantateregister unter der Bezeichnung Implantateregister Deutschland“ errichtet und geführt.
+(1) Zur Gewährleistung hoher Qualitäts- und Sicherheitsstandards bei der Gesundheitsversorgung mit Implantaten wird ein Implantateregister unter der Bezeichnung „Implantateregister Deutschland“ errichtet und geführt.
 (2) Das Implantateregister dient
 
 - 1. :: dem Schutz der Gesundheit und Sicherheit von Patientinnen und Patienten, von Anwendern und von Dritten sowie der Abwehr von Risiken durch Implantate,
@@ -59,17 +59,17 @@ Inhaltsübersicht
 
 Im Sinne dieses Gesetzes bezeichnet der Ausdruck:
 
-- 1. :: Implantat“ ein implantierbares Medizinprodukt eines in der Anlage aufgeführten Implantattyps,
-- 2. :: spezialangefertigtes Implantat“ eine Sonderanfertigung im Sinne des Artikels 2 Nummer 3 der Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates vom 5. April 2017 über Medizinprodukte, zur Änderung der Richtlinie 2001/83/EG, der Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009 und zur Aufhebung der Richtlinien 90/385/EWG und 93/42/EWG des Rates (ABl. L 117 vom 5.5.2017, S. 1), das nicht in einem standardisierten Verfahren hergestellt wird,
-- 3. :: Implantat mit Sonderzulassung“ ein Implantat, das mit einer Ausnahmegenehmigung der zuständigen Behörde nach Artikel 59 Absatz 1 der Verordnung (EU) 2017/745 zur Verwendung für eine einzige Patientin oder einen einzigen Patienten in den Verkehr gebracht und in Betrieb genommen wird,
-- 4. :: implantatbezogene Maßnahme“ die Implantation eines Implantats, die Revision eines Implantats, die sicherheitsbezogenen oder funktionellen Änderungen an einem bereits eingesetzten Implantat, die Explantation eines Implantats und die Amputation einer Extremität nach der Implantation eines Implantats,
-- 5. :: verantwortliche Gesundheitseinrichtungen“ alle Leistungserbringer, die eine implantatbezogene Maßnahme durchführen, wie insbesondere
+- 1. :: „Implantat“ ein implantierbares Medizinprodukt eines in der Anlage aufgeführten Implantattyps,
+- 2. :: „spezialangefertigtes Implantat“ eine Sonderanfertigung im Sinne des Artikels 2 Nummer 3 der Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates vom 5. April 2017 über Medizinprodukte, zur Änderung der Richtlinie 2001/83/EG, der Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009 und zur Aufhebung der Richtlinien 90/385/EWG und 93/42/EWG des Rates (ABl. L 117 vom 5.5.2017, S. 1), das nicht in einem standardisierten Verfahren hergestellt wird,
+- 3. :: „Implantat mit Sonderzulassung“ ein Implantat, das mit einer Ausnahmegenehmigung der zuständigen Behörde nach Artikel 59 Absatz 1 der Verordnung (EU) 2017/745 zur Verwendung für eine einzige Patientin oder einen einzigen Patienten in den Verkehr gebracht und in Betrieb genommen wird,
+- 4. :: „implantatbezogene Maßnahme“ die Implantation eines Implantats, die Revision eines Implantats, die sicherheitsbezogenen oder funktionellen Änderungen an einem bereits eingesetzten Implantat, die Explantation eines Implantats und die Amputation einer Extremität nach der Implantation eines Implantats,
+- 5. :: „verantwortliche Gesundheitseinrichtungen“ alle Leistungserbringer, die eine implantatbezogene Maßnahme durchführen, wie insbesondere
   - a) :: Krankenhäuser im Sinne des § 107 des Fünften Buches Sozialgesetzbuch,
   - b) :: Einrichtungen für ambulantes Operieren,
   - c) :: Behandlungs- oder Versorgungseinrichtungen, in denen eine Behandlung erfolgt, die mit einer Behandlung in den Einrichtungen nach den Buchstaben a und b vergleichbar ist, und
   - d) :: Arztpraxen,
-- 6. :: Produktverantwortlicher“ den Wirtschaftsakteur im Sinne des Artikels 2 Nummer 35 der Verordnung (EU) 2017/745 oder den Sponsor im Sinne des Artikels 2 Nummer 49 der Verordnung (EU) 2017/745,
-- 7. :: sonstige Kostenträger“ die Heilfürsorge der Bundeswehr und der Bundespolizei.
+- 6. :: „Produktverantwortlicher“ den Wirtschaftsakteur im Sinne des Artikels 2 Nummer 35 der Verordnung (EU) 2017/745 oder den Sponsor im Sinne des Artikels 2 Nummer 49 der Verordnung (EU) 2017/745,
+- 7. :: „sonstige Kostenträger“ die Heilfürsorge der Bundeswehr und der Bundespolizei.
 
 
 § 3 - Registerstelle
@@ -544,7 +544,7 @@ Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung
 Anlage - (zu § 2 Nummer 1)Liste der Implantattypen
 
 (Fundstelle: BGBl. I 2019, 2505)
-
+ 
 
 - -- :: Gelenkendoprothesen (für Hüfte, Knie, Schulter, Ellenbogen und Sprunggelenk),
 - -- :: Brustimplantate,

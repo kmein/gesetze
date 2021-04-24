@@ -10,25 +10,25 @@ Auf Grund des § 39 Absatz 1 Satz 1 Nummer 3 in Verbindung mit Satz 2, 4 und 5 d
 
 Inhaltsübersicht
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 § 1 - Anwendungsbereich
 
@@ -53,7 +53,7 @@ Erläuternde Darstellungen zu den in dieser Verordnung geforderten Angaben könn
 
 § 4 - Gegenstand der Berichterstattung
 
-Gegenstand der Berichterstattung ist die Prüfung der Solvabilitätsübersicht, die das Versicherungsunternehmen nach MaBewertung im gesetzlichen Abschluss“ des Meldebogens.
+Gegenstand der Berichterstattung ist die Prüfung der Solvabilitätsübersicht, die das Versicherungsunternehmen nach Maßgabe des Artikels 9 Buchstabe a oder des Artikels 26 Buchstabe a der Durchführungsverordnung (EU) 2015/2450 der Kommission vom 2. Dezember 2015 zur Festlegung technischer Durchführungsstandards hinsichtlich der Meldebögen für die Übermittlung von Informationen an die Aufsichtsbehörde gemäß der Richtlinie 2009/138/EG des Europäischen Parlaments und des Rates (ABl. L 347 vom 31.12.2015, S. 1) in den Meldebogen S.02.01.01 aus Anhang I der Durchführungsverordnung (EU) 2015/2450 eingetragen hat. Von der Prüfung ausgenommen sind die Angaben in der Spalte „Bewertung im gesetzlichen Abschluss“ des Meldebogens.
 
 § 5 - Grundsätze zur Berichterstattung
 
@@ -411,7 +411,7 @@ Der Prüfer hat darüber zu berichten, ob die Anordnungen der Bundesanstalt nach
   - c) :: deren Anzahl in Drittstaaten und von diesen Niederlassungen und sonstigen nachgeordneten Unternehmen die Anzahl der Niederlassungen und sonstigen nachgeordneten Unternehmen, die in Hochrisikostaaten im Sinne des § 15 Absatz 3 Nummer 2 des Geldwäschegesetzes ansässig sind, sowie
 - 5. :: die Anzahl der ausschließlich für das Unternehmen tätigen Vermittler im Inland und im Ausland.
 
-(9) Der Prüfer hat die wesentlichen Ergebnisse seiner Prüfung zusätzlich in einen Erfassungsbogen nach der Anlage zu dieser Verordnung einzutragen und dort zu bewerten. Für die Bewertung ist die für den Erfassungsbogen vorgegebene Klassifizierung zu verwenden. Sofern die jeweiligen zugrunde liegenden Pflichten im Einzelfall im Hinblick auf die Geschäftstätigkeiten des Unternehmens nicht relevant sind, hat der Prüfer dies mit der Feststellung F 5“ zu vermerken. Der Erfassungsbogen ist Teil des Prüfungsberichts und vollständig auszufüllen.
+(9) Der Prüfer hat die wesentlichen Ergebnisse seiner Prüfung zusätzlich in einen Erfassungsbogen nach der Anlage zu dieser Verordnung einzutragen und dort zu bewerten. Für die Bewertung ist die für den Erfassungsbogen vorgegebene Klassifizierung zu verwenden. Sofern die jeweiligen zugrunde liegenden Pflichten im Einzelfall im Hinblick auf die Geschäftstätigkeiten des Unternehmens nicht relevant sind, hat der Prüfer dies mit der Feststellung „F 5“ zu vermerken. Der Erfassungsbogen ist Teil des Prüfungsberichts und vollständig auszufüllen.
 (10) Die Vorschrift zum Prüfintervall nach § 43a Absatz 4 bleibt durch die vorstehenden Absätze unberührt.
 
 § 44 - Schlussbemerkung
@@ -525,50 +525,50 @@ I. Interne Sicherungsmaßnahmen
  1.
 § 5 Abs. 1 und 2 GwG
 Erstellung, Dokumentation, Überprüfung, ggf. Aktualisierung einer Risikoanalyse in Bezug auf Geldwäsche und auf Terrorismusfinanzierung
-
-
+ 
+ 
  2.
 § 6 Abs. 2 Nr. 1 und 4, Abs. 5 GwG
 Durchführung von internen Sicherungsmaßnahmen in Bezug auf Geldwäsche und auf Terrorismusfinanzierung
-
-
+ 
+ 
  3.
 § 6 Abs. 2 Nr. 2 i. V. m. § 7 GwG
 Erfüllung von Pflichten in Bezug auf den Geldwäschebeauftragten (Bestellung, Mitteilung, Ausstattung, Kontrollen)
-
-
+ 
+ 
  4.
 § 6 Abs. 2 Nr. 5 GwG
 Durchführung von Zuverlässigkeitsprüfungen
-
-
+ 
+ 
  5.
 § 6 Abs. 2 Nr. 6 GwG
 Durchführung von Schulungen und Unterrichtung von Mitarbeiter/-innen
-
-
+ 
+ 
  6.
 § 6 Abs. 2 Nr. 7 GwG, § 53 Abs. 2 VAG
 Durchführung von Prüfungen durch die Innenrevision in Bezug auf Maßnahmen zur Verhinderung von Geldwäsche und von Terrorismusfinanzierung
-
-
+ 
+ 
  7.
-
+ 
 nicht belegt
-
-
+ 
+ 
  8.
 § 6 Abs. 7 GwG
 Vertragliche Auslagerung von\\
 internen Sicherungsmaßnahmen
-
-
+ 
+ 
 II. Sorgfaltspflichten in Bezug auf Kunden
  9.
 § 10 Abs. 2 GwG, § 14 Abs. 1 GwG, § 15 Abs. 2 GwG
 Durchführung von Risikobewertungen von Geschäftsbeziehungen und Transaktionen
-
-
+ 
+ 
 10.
 § 10 Abs. 1 Nr. 1\\
 (i. V. m. §§ 11 bis 13 GwG),\\
@@ -576,87 +576,87 @@ Durchführung von Risikobewertungen von Geschäftsbeziehungen und Transaktionen
 Identifizierung des Vertragspartners und der für diesen auftretenden Personen\\
 (einschl. Nichtdurchführungs-/\\
 Beendigungsverpflichtung)
-
-
+ 
+ 
 11.
 § 10 Abs. 1 Nr. 2 GwG\\
 (i. V. m. § 11 Abs. 1 und 5 GwG), § 10 Abs. 9 GwG, § 54 Abs. 1 VAG
 Abklärung und ggf. Identifizierung der wirtschaftlich Berechtigten und des abweichenden Bezugsberechtigten\\
 (einschl. Nichtdurchführungs-/\\
 Beendigungsverpflichtung)
-
-
+ 
+ 
 12.
 § 10 Abs. 1 Nr. 3 GwG,\\
 § 10 Abs. 9 GwG
 Einholung von Informationen zum Zweck/zur Art der Geschäftsverbindung\\
 (einschl. Nichtdurchführungs-/\\
 Beendigungsverpflichtung)
-
-
+ 
+ 
 13.
 § 10 Abs. 1 Nr. 4 GwG,\\
 § 10 Abs. 9 GwG, § 54 Abs. 2 VAG
 Abklärung der politisch exponierte Person-Eigenschaft\\
 (einschl. Nichtdurchführungs-/\\
 Beendigungsverpflichtung)
-
-
+ 
+ 
 14.
 § 10 Abs. 1 Nr. 5 Satzteil 1 GwG
 Laufende Überwachung der Geschäftsbeziehungen
-
-
+ 
+ 
 15.
 § 10 Abs. 1 Nr. 5 Satzteil 2 GwG
 Durchführung von Aktualisierungen
-
-
+ 
+ 
 16.
 § 14 Abs. 1 und 2 GwG
 Durchführung von vereinfachten Sorgfaltspflichten\\
 (Dokumentation, Angemessenheit der Maßnahmen)
-
-
+ 
+ 
 17.
 § 15 Abs. 1 bis 7, Abs. 9\\
 (i. V. m. § 10 Abs. 9 GwG), § 55 VAG
 Durchführung von verstärkten Sorgfaltspflichten (Dokumentation, Angemessenheit der Maßnahmen)
-
-
+ 
+ 
 18.
 § 17 Abs. 1 bis 7 GwG
 Ausführung von Sorgfaltspflichten durch Dritte und vertragliche Auslagerung
-
-
+ 
+ 
 19.
-
+ 
 nicht belegt
-
-
+ 
+ 
 III. Sonstige Pflichten
 20.
 § 6 Abs. 6 GwG
 Organisation und Erfüllung der Auskunftsverpflichtung
-
-
+ 
+ 
 21.
 § 8 GwG, § 54 Abs. 3 Satz 1 VAG
 Durchführung von Aufzeichnungen und Aufbewahrung
-
-
+ 
+ 
 22.
 § 9 (i. V. m. § 5 Abs. 3 GwG)
 Durchführung von gruppenweiten Pflichten
-
-
+ 
+ 
 23.
 § 43 GwG i. V. m. § 47 Abs. 1 bis 4 GwG, § 54 Abs. 3 Satz 2 VAG
 Durchführung des Verdachtsmeldeverfahrens (einschließlich Beachtung des Verbots der Informationsweitergabe)
-
-
+ 
+ 
 24.
 § 6 Abs. 8 und 9, § 7 Abs. 3, § 9 Abs. 3 Satz 3, § 15 Abs. 8 GwG, § 28 Abs. 1 Satz 2 Nr. 5 GwG, § 39 Abs. 3 GwG, § 40 Abs. 1 Satz 2 Nr. 3 GwG
 Befolgung von Anordnungen
-
-
+ 
+ 

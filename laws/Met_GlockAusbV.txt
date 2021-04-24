@@ -292,8 +292,8 @@ Planen von Arbeitsabläufen sowie Kontrollieren und Beurteilen der Arbeitsergebn
 a)
 Arbeitsschritte nach Vorgaben abstimmen und festlegen sowie Arbeitsabläufe sicherstellen
 5
-
-
+ 
+ 
 b)
 Prüf- und Meßmittel zur Kontrolle der Arbeitsergebnisse festlegen
 c)
@@ -307,8 +307,8 @@ Lesen, Anwenden und Erstellen von Arbeitsunterlagen (§ 3 Abs. 1 Nr. 6)
 a)
 technische Zeichnungen lesen und anwenden
 7
-
-
+ 
+ 
 b)
 Skizzen und Werkzeichnungen anfertigen
 c)
@@ -320,8 +320,8 @@ Unterscheiden, Zuordnen und Handhaben von Werk- und Hilfsstoffen (§ 3 Abs. 1 Nr
 a)
 Metalle und Nichtmetalle unterscheiden
 4
-
-
+ 
+ 
 b)
 Wertverhältnisse von Metallen beachten
 c)
@@ -335,8 +335,8 @@ Prüfen und Messen (§ 3 Abs. 1 Nr. 8)
 a)
 Werkstücke und Werkzeuge auf Form-, Paß- und Maßgenauigkeit mit Meßzeugen prüfen
 4
-
-
+ 
+ 
 b)
 Werkstücke auf Form, Farbe und Oberflächenqualität prüfen
 9
@@ -344,8 +344,8 @@ Instandhalten von Betriebsmitteln (§ 3 Abs. 1 Nr. 9)
 a)
 Betriebsmittel bei Wartungsarbeiten reinigen und pflegen
 4
-
-
+ 
+ 
 b)
 Öle, Fette und Säuren unter Einhaltung der Umweltschutzvorschriften lagern und entsorgen
 c)
@@ -357,17 +357,17 @@ manuelles Spanen (§ 3 Abs. 1 Nr. 10)
 a)
 Werkstücke nach vorgegebenen Maßen und Bearbeitungszugaben anreißen und kennzeichnen
 8
-
-
+ 
+ 
 b)
 Werkstücke unter Beachtung von Werkstoffeigenschaften
-
+ 
 - nach Anriß sägen
-
+ 
 - feilen, insbesondere plan, winklig und maßgenau
-
+ 
 - bohren und Gewinde schneiden
-
+ 
 - meißeln, entgraten und schaben
 c)
 Werkstücke von Hand und mit handgeführten Maschinen schleifen
@@ -378,8 +378,8 @@ maschinelles Spanen (§ 3 Abs. 1 Nr. 11)
 a)
 Maschinenwerte zur Bearbeitung von Werkstücken ermitteln und einstellen
 3
-
-
+ 
+ 
 b)
 Werkzeuge nach Bearbeitungsverfahren und Werkstoffen auswählen und einsetzen
 c)
@@ -393,8 +393,8 @@ Trennen und Umformen (§ 3 Abs. 1 Nr. 12)
 a)
 Werkstücke richten, biegen und scherschneiden
 4
-
-
+ 
+ 
 b)
 Werkstücke mit handgeführten und ortsfesten Maschinen trennen
 13
@@ -402,8 +402,8 @@ Fügen (§ 3 Abs. 1 Nr. 13)
 a)
 Werkstücke verschrauben und verstiften
 6
-
-
+ 
+ 
 b)
 Gelenkverbindungen mit Bolzen herstellen
 c)
@@ -415,8 +415,8 @@ Anfertigen von Skizzen, Zeichnungen und Modellen (§ 3 Abs. 1 Nr. 14)
 a)
 Skizzen, Zeichnungen und Modelle unter Anwendung von Gestaltungsprinzipien anfertigen
 7
-
-
+ 
+ 
 b)
 Zeichen, Symbole und Schriften in Originalgröße und unter Maßstabsveränderungen mit Hilfsmitteln übertragen
 c)
@@ -427,9 +427,9 @@ Modelle mit verschiedenen Materialien räumlich gestalten
 Vorbereiten von Modellen zum Einbetten (§ 3 Abs. 1 Nr. 15)
 a)
 Beschaffenheit der Modelle beim Abformen, Einbetten und Gießen beurteilen
-
+ 
 6
-
+ 
 b)
 Einbett- und Modellierverfahren festlegen
 c)
@@ -440,18 +440,18 @@ Formkästen und -mäntel auswählen
 Anbringen von Speiser- und Entlüftungssystemen (§ 3 Abs. 1 Nr. 16)
 a)
 Speiser- und Entlüftungssysteme im Hinblick auf Legierungselemente und Werkstoffeigenschaften anlegen
-
+ 
 10
-
+ 
 b)
 Gießsysteme nach Gießtemperatur ausführen und bestimmen
 17
 Legieren, Schmelzen und Gießen von Metallen (§ 3 Abs. 1 Nr. 17)
 a)
 Legierungsberechnungen durchführen und Gewicht des zu schmelzenden Metalls festlegen
-
+ 
 20
-
+ 
 b)
 Schmelzöfen vorbereiten und unter Beachtung der erforderlichen Anheizzeit und Temperatur in Gang setzen
 c)
@@ -468,9 +468,9 @@ Metalle in vorbereitete Formen gießen
 Freilegen, Prüfen und Bearbeiten von Gußstücken (§ 3 Abs. 1 Nr. 18)
 a)
 Gußstücke unter Beachtung von Abkühlzeit und Gußempfindlichkeit entformen und entkernen
-
+ 
 12
-
+ 
 b)
 Kreislaufmetall von Hand und mit Maschinen abtrennen
 c)
@@ -483,9 +483,9 @@ Gußstücke wärmebehandeln, entgraten und schleifen
 Aufbereiten und Prüfen von Formmassen (§ 3 Abs. 1 Nr. 19)
 a)
 Formmassen aufbereiten
-
+ 
 4
-
+ 
 b)
 Eigenschaften von Formmassen prüfen und Formmassen auswählen
 A. Fachrichtung Zinngußtechnik
@@ -504,8 +504,8 @@ Zeitliche Richtwerte in Wochen im Ausbildungsjahr
 Umsetzen von Entwürfen und Vorlagen (§ 3 Abs. 2 Nr. 1)
 a)
 Vorlagen auf Metall, Kunststoff und Modelliermasse übertragen
-
-
+ 
+ 
 3
 b)
 Schablonen anfertigen
@@ -513,8 +513,8 @@ Schablonen anfertigen
 Gestalten von Zinngegenständen (§ 3 Abs. 2 Nr. 2)
 a)
 Skizzen und Zeichnungen anfertigen
-
-
+ 
+ 
 2
 b)
 plastische Zeichnungen für Gußformen anfertigen
@@ -522,8 +522,8 @@ plastische Zeichnungen für Gußformen anfertigen
 Anfertigen von Gießformen (§ 3 Abs. 2 Nr. 3)
 a)
 Maße unter Beachtung der Gießtechniken ermitteln
-
-
+ 
+ 
 4
 b)
 Kokillen bearbeiten und zum Gießen vorbereiten
@@ -532,8 +532,8 @@ Hilfsformen anfertigen
 4
 spanendes Bearbeiten von Zinngußstücken (§ 3 Abs. 2 Nr. 4)
 Zinngußstücke auf Maßvorgaben bearbeiten, durch
-
-
+ 
+ 
 13
 - Abtrennen des Güssels
 - Entgraten, Schaben, Feilen und Stechen
@@ -543,8 +543,8 @@ Zinngußstücke auf Maßvorgaben bearbeiten, durch
 Gestalten und Bearbeiten von Oberflächen (§ 3 Abs. 2 Nr. 5)
 a)
 Zinngegenstände patinieren, färben, polieren und bürsten
-
-
+ 
+ 
 6
 b)
 Scharnierteile für den Anguß überziehen
@@ -552,8 +552,8 @@ Scharnierteile für den Anguß überziehen
 Aufarbeiten und Reparieren von Zinngegenständen (§ 3 Abs. 2 Nr. 6)
 a)
 Antiquitäten von Nachbildungen unterscheiden und nach Stilrichtungen einordnen
-
-
+ 
+ 
 10
 b)
 Zinngegenstände aufarbeiten, reparieren und konservieren
@@ -561,8 +561,8 @@ Zinngegenstände aufarbeiten, reparieren und konservieren
 Montieren von Zinngegenständen (§ 3 Abs. 2 Nr. 7)
 a)
 Ansetzteile anpassen und befestigen
-
-
+ 
+ 
 14
 b)
 Teile zusammenpassen und verlöten
@@ -584,8 +584,8 @@ Zeitliche Richtwerte in Wochen im Ausbildungsjahr
 Anfertigen von Formen für künstlerische Modelle im Sandgußverfahren (§ 3 Abs. 3 Nr. 1)
 a)
 Modelle auf Unversehrtheit und Komplettierung prüfen
-
-
+ 
+ 
 15
 b)
 Modelle in gießbare Einzelteile zerlegen und Markierungssysteme für die Montage anbringen
@@ -611,8 +611,8 @@ Formen ausblasen und gießfertig machen
 Abformen von Modellen für das Wachsausschmelzverfahren (§ 3 Abs. 3 Nr. 2)
 a)
 Abformungsmethode festlegen
-
-
+ 
+ 
 6
 b)
 Formteilungen und Wandstärke der Negativform festlegen
@@ -622,8 +622,8 @@ Gips-, Silikon- und Gelatinenegativformen anfertigen
 Herstellen von Wachsmodellen (§ 3 Abs. 3 Nr. 3)
 a)
 Wachsmodelle durch Auspinseln, Auslegen und Ausgießen anfertigen
-
-
+ 
+ 
 6
 b)
 Wachsmodelle auf Paßgenauigkeit zum Originalmodell überprüfen
@@ -635,8 +635,8 @@ Wachsmodelle mit Originalen vergleichen, Teilungsnähte und Abweichungen retusch
 Einformen von Modellen im Blockverfahren (§ 3 Abs. 3 Nr. 4)
 a)
 Anguß- und Luftkanäle sowie Kernentlüftungen anbringen
-
-
+ 
+ 
 6
 b)
 Kernstützen an Wachsmodellen anbringen
@@ -650,8 +650,8 @@ Formen gießfertig machen und abgießen
 Einformen von Modellen im keramischen Schalenformverfahren (§ 3 Abs. 3 Nr. 5)
 a)
 Materialien für Keramikguß vorbereiten
-
-
+ 
+ 
 6
 b)
 Wachsmodelle benetzbar machen, Anzahl der Keramikschichten festlegen und auftragen
@@ -665,8 +665,8 @@ Keramikformen gießfertig machen und abgießen
 Anfertigen von Glocken im Lehmform- oder Sandformverfahren (§ 3 Abs. 3 Nr. 6)
 a)
 Schablonen nach vorberechnetem Ton anfertigen
-
-
+ 
+ 
 13
 b)
 Formstoffe zubereiten, Glockenkerne und falsche Glocken anfertigen
@@ -700,8 +700,8 @@ Zeitliche Richtwerte in Wochen im Ausbildungsjahr
 Einformen von Modellen im Sandgußverfahren (§ 3 Abs. 4 Nr. 1)
 a)
 Farbmarkierungen und Gußwerkstoffe Modellen zuordnen
-
-
+ 
+ 
 20
 b)
 Modelle auf Aufstampfboden plazieren, in verlorene Formen einbauen und Schreckplatten anlegen
@@ -721,8 +721,8 @@ Formen gießfertig machen
 Einformen von Kunststoffmodellen im Vollformverfahren (§ 3 Abs. 4 Nr. 2)
 a)
 Modelle auf Fehlerhaftigkeit prüfen
-
-
+ 
+ 
 12
 b)
 Modelle mit Einguß- und Laufsystemen versehen
@@ -732,8 +732,8 @@ Vollformgußformen anfertigen
 Herstellen von Feingußmodellen (§ 3 Abs. 4 Nr. 3)
 a)
 Formstoffe für elastische Negativformen und Stützschalen auswählen; Stückzahlen und Schwierigkeitsgrad beachten
-
-
+ 
+ 
 8
 b)
 elastische Negativformen anfertigen
@@ -743,8 +743,8 @@ paßgenaue Wachsmodelle anfertigen und retuschieren
 Einformen und Gießen von Feingußmodellen (§ 3 Abs. 4 Nr. 4)
 a)
 Keramikmasse mischen
-
-
+ 
+ 
 12
 b)
 Formmantelstärke bestimmen und anfertigen

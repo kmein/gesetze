@@ -7,12 +7,12 @@ Ausfertigungsdatum: 17.12.1999
 Inhaltsübersicht
 
 Abschnitt 1
-
+ 
 Allgemeine Vorschrift
 § 1
 Anordnung als Bundesstatistik
 Abschnitt 2
-
+ 
 Statistik der See- und Binnenschifffahrt
 § 2
 Erhebungsbereich
@@ -23,7 +23,7 @@ Unternehmensstatistik der Binnenschifffahrt
 § 5
 Anschriftenübermittlung
 Abschnitt 3
-
+ 
 Statistik des Güterkraftverkehrs
 § 6
 Erhebungsbereich
@@ -36,7 +36,7 @@ Kennzeichenübermittlung
 § 10
 Vernichtung von Erhebungsunterlagen
 Abschnitt 4
-
+ 
 Statistik des Luftverkehrs
 § 11
 Erhebungsbereich
@@ -49,7 +49,7 @@ Berichtszeitraum
 § 15
 Anschriftenübermittlung
 Abschnitt 5
-
+ 
 Statistik des Schienenverkehrs und des gewerblichen Straßen-Personenverkehrs
 § 16
 Erhebungsbereich
@@ -70,7 +70,7 @@ Berichtszeitraum
 § 24
 Anschriftenübermittlung
 Abschnitt 6
-
+ 
 Durchführungsbestimmungen
 § 25
 Hilfsmerkmale

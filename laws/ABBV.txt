@@ -96,50 +96,50 @@ Anlage - (zu § 2 Absatz 1)
   | [[../normengrafiken/bgbl1_2010/j0856_0010.jpg]] |
 
    \\
-  
+   
   (2) Der Ablösungsbetrag (A) der Erhaltungskosten ist zu ermitteln nach den Formeln:\\
   | [[../normengrafiken/bgbl1_2010/j0856_0020.jpg]] |
 
    \\
-  
+   
   (3) Getrennte Ermittlung von Teilbereichen der Erhaltungskosten:
   Die Berechnungsformel der kapitalisierten Erhaltungskosten (E)\\
   | [[../normengrafiken/bgbl1_2010/j0856_0030.jpg]], wobei [[../normengrafiken/bgbl1_2010/j0856_0040.jpg]] gesetzt ist, |
 
    \\
-  
+   
   setzt sich zusammen aus dem Anteil für die kapitalisierten Erneuerungskosten (E_{e})\\
   | [[../normengrafiken/bgbl1_2010/j0856_0050.jpg]] |
 
    \\
-  
+   
   und dem Anteil für die kapitalisierten jährlichen Unterhaltungskosten (E_{u})\\
   | [[../normengrafiken/bgbl1_2010/j0856_0060.jpg]] |
 
    \\
-  
+   
   Durch Erweiterung des untenstehenden ersten Summanden mit qm} -- 1 können die kapitalisierten Erhaltungskosten für die Erneuerungskosten (E_{e}) in den Anteil der kapitalisierten Kosten der nächsten Erneuerung (E nä}_{e}), die erste Erneuerung nach der Ablösungsvereinbarung,\\
   | [[../normengrafiken/bgbl1_2010/j0856_0070.jpg]] |
 
    \\
-  
+   
   und den Anteil der kapitalisierten Kosten für die weiteren Erneuerungen\\
   | [[../normengrafiken/bgbl1_2010/j0856_0080.jpg]] |
 
    \\
-  
+   
   aufgegliedert werden. Für die Aufwendungen der weiteren Erneuerungen steht nach n Jahren, also zum Zeitpunkt der ersten Erneuerung nach der Ablösungsvereinbarung, mathematisch ausgedrückt durch die Multiplikation der Gleichung mit qn}, ein Betrag von\\
   | [[../normengrafiken/bgbl1_2010/j0856_0090.jpg]] |
 
    \\
-  
+   
   Euro zur Verfügung. Nach weiteren m Jahren, also zum Zeitpunkt der zweiten Erneuerung nach der Ablösungsvereinbarung, mathematisch ausgedrückt durch die Multiplikation der Gleichung mit qm}, steht ein Betrag von\\
   | [[../normengrafiken/bgbl1_2010/j0856_0010.jpg]] |
 
    \\
-  
+   
   Euro zur Verfügung. K_{e} wird entnommen, sodass wieder der gleiche Betrag wie nach der ersten Erneuerung zur Verfügung steht und die weiteren Erneuerungen durch Verzinsung bezahlt werden können.
-  
+   
   | [[../normengrafiken/bgbl1_2010/j0856_0110.jpg]] |
 
   \\
@@ -149,14 +149,14 @@ Anlage - (zu § 2 Absatz 1)
   | [[../normengrafiken/bgbl1_2010/j0856_0120.jpg]] |
 
    \\
-  
+   
   (5) Ermittlung einer zeitlich begrenzten Unterhaltungsverpflichtung:
   Bei einer zeitlich nur begrenzten Unterhaltsverpflichtung über t Jahre ergibt sich die Berechnungsvorschrift für die kapitalisierten jährlichen Unterhaltungskosten (E t}_{u}) durch die Betrachtung eines nachschüssigen Ansparmodells mit dem Zeithorizont t:\\
   | [[../normengrafiken/bgbl1_2010/j0856_0130.jpg]] |
 
    \\
-  
-  Durch den Übergang t →  ergibt sich wiederum die Formel für die zeitlich unbegrenzte Unterhaltungsverpflichtung.
+   
+  Durch den Übergang t → ∞ ergibt sich wiederum die Formel für die zeitlich unbegrenzte Unterhaltungsverpflichtung.
   (6) In den Formeln haben die Berechnungsglieder folgende Bedeutung:
   Variable
 - 2.4 :: Anzuwendender Zinssatz
@@ -213,4 +213,4 @@ Anlage - (zu § 2 Absatz 1)
   Mit den Verwaltungskosten in Höhe von 10 vom Hundert der Kosten nach Nummer 3.3 bis 3.7 sind insbesondere die Aufwendungen für Vorarbeiten, Vorentwürfe, die Bearbeitung des vergabereifen Bauentwurfs, die Vergabe der Bauarbeiten, die Prüfung der statischen Berechnungen und der Ausführungspläne, die Einholung behördlicher Genehmigungen, die örtliche Bauaufsicht (Bauüberwachung) und Bauleitung (Baulenkung), ferner die Stellung von Prüf- und Messgeräten, Messfahrzeugen, Hilfsfahrzeugen für die Bauaufsicht und Bauleitung und von Fahrzeugen für die Probebelastung sowie sonstige Verwaltungstätigkeiten einschließlich des Rechnungs- und Kassendienstes abgegolten.
   Ferner sind damit die Aufwendungen für Umweltverträglichkeitsprüfungen, landschaftspflegerische Begleitpläne, schalltechnische Berechnungen sowie die Erstellung und Prüfung von Berechnungen der Ablösungsbeträge der Erhaltungskosten abgegolten.
 
-
+ 

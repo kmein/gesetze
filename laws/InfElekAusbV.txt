@@ -175,11 +175,11 @@ Lesen und Anwenden technischer Unterlagen\\
 
 4
 
+ 
 
+ 
 
-
-
-
+ 
 
 6
 
@@ -192,11 +192,11 @@ Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse, Qualitätsma
 
 3
 
+ 
 
+ 
 
-
-
-
+ 
 
 - d) :: Gespräche situationsgerecht führen und Sachverhalte präsentieren, Informationen aufgabengerecht bewerten, auswählen und wiedergeben, deutsche und englische Fachbegriffe anwenden
 - e) :: Schriftverkehr und Berechnungen durchführen, Protokolle anfertigen, Daten und Sachverhalte visualisieren, Grafiken erstellen
@@ -204,13 +204,13 @@ Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse, Qualitätsma
 - g) :: Arbeitsergebnisse zusammenführen, kontrollieren und bewerten, Kosten und Erträge von erbrachten Leistungen errechnen und bewerten
 - h) :: Vorschläge zur Verbesserung von Arbeitsabläufen machen
 
+ 
 
-
-
+ 
 
 5
 
-
+ 
 
 - i) :: an der Projektplanung mitwirken, insbesondere für Teilaufgaben eine Personalplanung, Sachmittelplanung, Terminplanung und Kostenplanung durchführen
 - k) :: bei Leistungsstörungen Kunden informieren und Alternativen aufzeigen
@@ -219,11 +219,11 @@ Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse, Qualitätsma
 - n) :: verbrauchtes Material, Ersatzteile und Arbeitszeit sowie Projektablauf dokumentieren, Nachkalkulationen durchführen
 - o) :: Systemdokumentationen und Bedienungsanleitungen zusammenstellen und modifizieren
 
+ 
 
+ 
 
-
-
-
+ 
 
 7
 
@@ -237,45 +237,45 @@ Beraten und Betreuen von Kunden\\
 
 4
 
+ 
 
+ 
 
-
-
-
+ 
 
 - c) :: Kunden hinsichtlich des Verbrauchsmaterials und dessen Betriebssicherheit, insbesondere hinsichtlich der zu verwendenden Papierarten, Papierformate und -gewichte sowie der elektronischen Datenträger, beraten
 - d) :: Kunden auf Gefahren durch Stromversorgung hinweisen sowie hinsichtlich Änderungen beraten
 - e) :: Kunden hinsichtlich der ergonomischen Gestaltung von Geräten, Arbeitstischen und Stühlen beraten
 
-
+ 
 
 4
 
+ 
 
-
-
+ 
 
 - f) :: Kunden hinsichtlich Arbeitsumgebung, Akustik, Klimatisierung, der Vermeidung elektrostatischer Aufladung sowie der Lichtverhältnisse und Beleuchtung beraten
 - g) :: Kunden auf Sicherheitsregeln und Vorschriften hinweisen
 
+ 
 
-
-
+ 
 
 2
 
-
+ 
 
 - h) :: Kunden über Verbesserungsmöglichkeiten von Betriebsabläufen beraten
 - i) :: Kunden hinsichtlich des Wandels in der Systemtechnik beraten
 - k) :: den Kunden hinsichtlich organisatorischer Maßnahmen zum Datenschutz und zur Datensicherung beraten
 - l) :: Kunden hinsichtlich technischer und wirtschaftlicher Durchführbarkeit von Instandsetzungen beraten
 
+ 
 
+ 
 
-
-
-
+ 
 
 4
 
@@ -288,11 +288,11 @@ Benutzerschulungen\\
 - b) :: Schulungsmaßnahmen mit dem Kunden abstimmen und organisatorisch vorbereiten
 - c) :: bei der Durchführung von Schulungen einschließlich deren Erfolgskontrolle mitwirken
 
+ 
 
+ 
 
-
-
-
+ 
 
 4
 
@@ -308,24 +308,24 @@ Verkauf und Geschäftsprozeß\\
 
 4
 
+ 
 
+ 
 
-
-
-
+ 
 
 - e) :: das Erscheinungsbild des Betriebes einschätzen, Sortiment mitgestalten, Warenpräsentation und außenwirksame Werbemaßnahmen vornehmen, an Marketingmaßnahmen und Werbeaktionen und deren Erfolgskontrolle mitwirken
 - f) :: Anfragen erstellen, Angebote auswerten sowie Mängel von Waren beurteilen, dokumentieren und reklamieren
 - g) :: an der Vorbereitung und Durchführung von Vertragsverhandlungen mitwirken, Verträge vorbereiten
 - h) :: Kundenwünsche mit den betrieblichen, wirtschaftlichen und rechtlichen Möglichkeiten abstimmen, Aufträge annehmen
 
+ 
 
-
-
+ 
 
 4
 
-
+ 
 
 - i) :: Trends bei der technischen und wirtschaftlichen Entwicklung von Multimedia-, Informations- und Kommunikationssystemen sowie von Möbeln und Leuchten beurteilen
 - k) :: Kosten für Leistungen, einschließlich Leistungen Dritter, ermitteln sowie Angebote und Kostenvoranschläge erstellen
@@ -333,11 +333,11 @@ Verkauf und Geschäftsprozeß\\
 - m) :: Zahlungsvorgänge abwickeln, Mahnverfahren vorbereiten und nach Absprache einleiten
 - n) :: Reklamationen prüfen und bearbeiten
 
+ 
 
+ 
 
-
-
-
+ 
 
 6
 
@@ -354,11 +354,11 @@ Bedienen und Administrieren von Datenverarbeitungsanlagen, Datenschutz\\
 
 6
 
+ 
 
+ 
 
-
-
-
+ 
 
 - f) :: Daten konvertieren
 - g) :: Datenbanken einrichten und verwalten, Daten pflegen sowie Datenbankabfragen durchführen
@@ -366,11 +366,11 @@ Bedienen und Administrieren von Datenverarbeitungsanlagen, Datenschutz\\
 - i) :: Zugriffsschutzmethoden hard- und softwaremäßig realisieren sowie Zugangsberechtigungen festlegen
 - k) :: Angebote von Informationsdiensten vergleichen und nutzen
 
+ 
 
+ 
 
-
-
-
+ 
 
 5
 
@@ -387,24 +387,24 @@ Montieren und Installieren von Infrastruktur\\
 
 9
 
+ 
 
+ 
 
-
-
-
+ 
 
 - f) :: vorhandene Stromversorgung beurteilen, Änderungen planen
 - g) :: Stromkreise und Schutzmaßnahmen festlegen
 - h) :: Stromkreise installieren, Potentialausgleich durchführen
 - i) :: Schleifenwiderstände und Isolationswiderstände messen und beurteilen, Prüfungen dokumentieren
 
-
+ 
 
 6
 
+ 
 
-
-
+ 
 
 12
 
@@ -420,11 +420,11 @@ Prüfen der Schutzmaßnahmen\\
 
 6
 
+ 
 
+ 
 
-
-
-
+ 
 
 13
 
@@ -434,33 +434,33 @@ Installieren von Systemkomponenten und Netzwerken\\
 - a) :: Kompatibilität von Hardwarekomponenten und Peripheriegeräten beurteilen
 - b) :: Hardwarekonfigurationen kundenspezifisch modifizieren
 
-
+ 
 
 3
 
+ 
 
-
-
+ 
 
 - c) :: Baugruppen hard- und softwaremäßig einstellen, anpassen und inbetriebnehmen
 - d) :: Betriebssysteme und ihre Komponenten auswählen, Hardwarevoraussetzungen beurteilen, Betriebssysteme installieren und konfigurieren
 
+ 
 
-
-
+ 
 
 3
 
-
+ 
 
 - e) :: Komponenten für Informations- und Kommunikationssysteme auswählen und zu Geräten zusammenbauen
 - f) :: Leitungen konfektionieren sowie Komponenten verbinden
 
+ 
 
+ 
 
-
-
-
+ 
 
 3
 
@@ -474,34 +474,34 @@ Installieren von Anwendungssoftware, Programmieren und Testen\\
 
 2
 
+ 
 
+ 
 
-
-
-
+ 
 
 - c) :: Anwendungssoftware bedarfsorientiert konfigurieren
 - d) :: Standardsoftware kundenspezifisch anpassen, insbesondere Makros erstellen und Bedienoberflächen einrichten
 - e) :: Speichermedien und Programme zur Datensicherung installieren
 
-
+ 
 
 3
 
+ 
 
-
-
+ 
 
 - f) :: Datenmodelle und Strukturen aus fachlichen Anforderungen ableiten, Programmspezifikationen und Schnittstellen festlegen
 - g) :: Methoden zur Strukturierung von Daten und Programmen anwenden
 
+ 
 
-
-
+ 
 
 3
 
-
+ 
 
 15
 
@@ -513,21 +513,21 @@ Aufstellen von Geräten und Inbetriebnehmen von Systemen\\
 
 2
 
+ 
 
+ 
 
-
-
-
+ 
 
 - c) :: Endgeräte prüfen, kundengerecht einrichten und in Betrieb nehmen
 
-
+ 
 
 2
 
+ 
 
-
-
+ 
 
 16
 
@@ -540,32 +540,32 @@ Durchführen von Serviceleistungen\\
 
 4
 
+ 
 
+ 
 
-
-
-
+ 
 
 - d) :: Daten von defekten Geräten retten und bereitstellen
 - e) :: Störungsmeldungen aufnehmen, Anwender zu Störungen befragen, Lösungsvorschläge unterbreiten
 
+ 
 
-
-
+ 
 
 4
 
-
+ 
 
 - f) :: technische Hilfestellung bei Anwenderrückfragen geben
 - g) :: Ferndiagnose und -wartung durchführen
 - h) :: Serviceleistungen dokumentieren und abrechnen
 
+ 
 
+ 
 
-
-
-
+ 
 
 5
 
@@ -583,26 +583,26 @@ Analysieren von Fehlern und Instandsetzen von Geräten und Systemen\\
 
 8
 
+ 
 
+ 
 
-
-
-
+ 
 
 - g) :: Funktionsfähigkeit von Systemen und Komponenten prüfen, Protokolle interpretieren
 - h) :: Funktion von optischen Einrichtungen, insbesondere Reflexion und Brechung von Lichtstrahlen, Belichtungszeit und optischem Weg, prüfen und einstellen
 - i) :: Systematik der Fehlersuche anwenden
 - k) :: Geräte unter Beachtung der Vorschriften zur elektromagnetischen Verträglichkeit instandsetzen
 
-
+ 
 
 8
 
+ 
 
+ 
 
-
-
-
+ 
 
 Abschnitt II: Schwerpunkt Bürosystemtechnik
 
@@ -618,11 +618,11 @@ Konzipieren von Informations- und Kommunikationssystemen\\
 - e) :: Datenmodelle und -strukturen von Datenbanken planen
 - f) :: die zu erbringende Leistung dokumentieren
 
+ 
 
+ 
 
-
-
-
+ 
 
 10
 
@@ -636,11 +636,11 @@ Installieren von Systemkomponenten und Netzwerken\\
 - c) :: Netzwerkbetriebssysteme und Treibersoftware für Hardwarekomponenten installieren, in bestehende Systeme einpassen und in Betrieb nehmen
 - d) :: technische Voraussetzungen für die Nutzung von Weit-Verkehrsnetzen schaffen
 
+ 
 
+ 
 
-
-
-
+ 
 
 13
 
@@ -655,11 +655,11 @@ Installieren von Anwendungssoftware, Programmieren und Testen\\
 - d) :: Testkonzept und Testplan erstellen, Testdaten auswählen
 - e) :: informations- und kommunikationstechnische Systeme testen, Testergebnisse dokumentieren und beurteilen
 
+ 
 
+ 
 
-
-
-
+ 
 
 9
 
@@ -673,22 +673,22 @@ Aufstellen von Geräten und Inbetriebnehmen von Systemen\\
 - c) :: Lampen und Leuchten auswählen und installieren sowie Geräte, Büromöbel und Zusatzgeräte entsprechend den Umwelteinflüssen, ergonomischen Anforderungen sowie den Arbeitsabläufen und den Anforderungen der Kunden auf- und einstellen
 - d) :: Leistungsumfang und Einhaltung der Spezifikationen prüfen und dokumentieren
 
+ 
 
-
-
+ 
 
 5
 
-
+ 
 
 - e) :: multifunktionale Informations- und Kommunikationssysteme inbetriebnehmen sowie entsprechend den Kundenwünschen einrichten
 - f) :: Gesamtsystem dem Kunden übergeben, Abnahmeprotokoll erstellen sowie Kunden in die Nutzung der Geräte und Systeme und deren Software einweisen
 
+ 
 
+ 
 
-
-
-
+ 
 
 4
 
@@ -703,15 +703,15 @@ Analysieren von Fehlern und Instandsetzen von Geräten und Systemen\\
 - d) :: Netze prüfen, netzwerkspezifische Messungen durchführen
 - e) :: Monitore und Präsentationsgeräte prüfen und instandsetzen
 
+ 
 
+ 
 
-
-
-
+ 
 
 8
 
-
+ 
 
 Abschnitt III: Schwerpunkt Geräte- und Systemtechnik
 
@@ -726,11 +726,11 @@ Konzipieren von Informations- und Kommunikationssystemen\\
 - d) :: Baugruppen, Geräte, Leitungen und Software auswählen, Kommunikationssysteme zum Aufnehmen, Empfangen, Übertragen, Verteilen, Speichern, Verarbeiten und Wiedergeben von Bild, Ton und Daten planen
 - e) :: die zu erbringende Leistung dokumentieren
 
+ 
 
+ 
 
-
-
-
+ 
 
 7
 
@@ -745,11 +745,11 @@ Installieren von Systemkomponenten und Netzwerken\\
 - d) :: Netzwerkbetriebssysteme installieren
 - e) :: technische Voraussetzungen für die Nutzung von Weit-Verkehrsnetzen schaffen
 
+ 
 
+ 
 
-
-
-
+ 
 
 11
 
@@ -764,11 +764,11 @@ Installieren von Anwendungssoftware, Programmieren und Testen\\
 - d) :: Testkonzept und Testplan erstellen, Testdaten auswählen
 - e) :: informations- und kommunikationstechnische Systeme testen, Testergebnisse dokumentieren und beurteilen
 
+ 
 
+ 
 
-
-
-
+ 
 
 6
 
@@ -784,13 +784,13 @@ Aufstellen von Geräten und Inbetriebnehmen von Systemen\\
 - e) :: Leistungsumfang und Einhaltung der Spezifikationen prüfen und dokumentieren
 - f) :: Gesamtsystem dem Kunden übergeben, Abnahmeprotokoll erstellen sowie Kunden in die Nutzung der Geräte und Software einweisen
 
+ 
 
-
-
+ 
 
 5
 
-
+ 
 
 22
 
@@ -805,10 +805,10 @@ Analysieren von Fehlern und Instandsetzen von Geräten und Systemen\\
 - f) :: Netze prüfen, netzwerkspezifische Messungen durchführen
 - g) :: Baugruppen und Geräte der Informations- und Kommunikationstechnik zum Aufnehmen, Übertragen, Verteilen, Speichern, Verarbeiten und Wiedergeben von Bild, Ton und Daten prüfen und instandsetzen
 
+ 
 
+ 
 
-
-
-
+ 
 
 20

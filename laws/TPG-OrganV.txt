@@ -80,7 +80,7 @@ Bei der Erhebung der Angaben zur Organ- und Spendercharakterisierung nach den §
 
 - 1. :: Bezeichnung der Koordinierungsstelle, einschließlich ihrer Anschrift und Telefonnummer;
 - 2. :: Bezeichnung des Transplantationszentrums, in der das Organ übertragen werden soll, einschließlich seiner Anschrift und Telefonnummer;
-- 3. :: Hinweis, dass der Behälter ein Organ enthält, unter Angabe der Art des Organs sowie, gegebenenfalls, seiner Links- oder Rechtsseitigkeit, und die Aufschrift MIT VORSICHT ZU HANDHABEN“;
+- 3. :: Hinweis, dass der Behälter ein Organ enthält, unter Angabe der Art des Organs sowie, gegebenenfalls, seiner Links- oder Rechtsseitigkeit, und die Aufschrift „MIT VORSICHT ZU HANDHABEN“;
 - 4. :: empfohlene Transportbedingungen, einschließlich Anweisungen für die geeignete Umgebungstemperatur und Lage des Behälters.
 
 Diese Angaben können auch in englischer Sprache erfolgen.
@@ -144,7 +144,7 @@ Der behandelnde Arzt eines Lebendspenders ist verpflichtet, jeden Vorfall, der i
 
 - 1. :: Datum und Uhrzeit der Übermittlung,
 - 2. :: die Kontaktdaten der für die Übermittlung verantwortlichen Person der Vermittlungs- oder Koordinierungsstelle sowie
-- 3. :: den folgenden Hinweis: Enthält personenbezogene Daten. Vor unerlaubter Verbreitung und dem Zugang durch Unbefugte schützen.“
+- 3. :: den folgenden Hinweis: „Enthält personenbezogene Daten. Vor unerlaubter Verbreitung und dem Zugang durch Unbefugte schützen.“
 
 Die Angaben sind zu dokumentieren und auf Anfrage zur Verfügung zu stellen, soweit dies nach den Vorschriften dieser Verordnung und dem Transplantationsgesetz zulässig ist.
 

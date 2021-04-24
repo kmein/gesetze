@@ -8,272 +8,272 @@ Inhaltsübersicht
 
 I.
 Steuergegenstand und Geltungsbereich
-
+ 
 § 1
 Steuerbare Umsätze
-
+ 
 § 1a
 Innergemeinschaftlicher Erwerb
-
+ 
 § 1b
 Innergemeinschaftlicher Erwerb neuer Fahrzeuge
-
+ 
 § 1c
 Innergemeinschaftlicher Erwerb durch diplomatische Missionen, zwischenstaatliche Einrichtungen und Streitkräfte der Vertragsparteien des Nordatlantikvertrags
-
+ 
 § 2
 Unternehmer, Unternehmen
-
+ 
 § 2a
 Fahrzeuglieferer
-
+ 
 § 2b
 Juristische Personen des öffentlichen Rechts
-
+ 
 § 3
 Lieferung, sonstige Leistung
-
+ 
 § 3a
 Ort der sonstigen Leistung
-
+ 
 § 3b
 Ort der Beförderungsleistungen und der damit zusammenhängenden sonstigen Leistungen
-
+ 
 § 3c
 Ort der Lieferung in besonderen Fällen
-
+ 
 § 3d
 Ort des innergemeinschaftlichen Erwerbs
-
+ 
 § 3e
 Ort der Lieferungen und Restaurationsleistungen während einer Beförderung an Bord eines Schiffs, in einem Luftfahrzeug oder in einer Eisenbahn
-
+ 
 § 3f
 (weggefallen)
-
+ 
 § 3g
 Ort der Lieferung von Gas, Elektrizität, Wärme oder Kälte
 II.
 Steuerbefreiungen und Steuervergütungen
-
+ 
 § 4
 Steuerbefreiungen bei Lieferungen und sonstigen Leistungen
-
+ 
 § 4a
 Steuervergütung
-
+ 
 § 4b
 Steuerbefreiung beim innergemeinschaftlichen Erwerb von Gegenständen
-
+ 
 § 5
 Steuerbefreiungen bei der Einfuhr
-
+ 
 § 6
 Ausfuhrlieferung
-
+ 
 § 6a
 Innergemeinschaftliche Lieferung
-
+ 
 § 6b
 Konsignationslagerregelung
-
+ 
 § 7
 Lohnveredelung an Gegenständen der Ausfuhr
-
+ 
 § 8
 Umsätze für die Seeschifffahrt und für die Luftfahrt
-
+ 
 § 9
 Verzicht auf Steuerbefreiungen
 III.
 Bemessungsgrundlagen
-
+ 
 § 10
 Bemessungsgrundlage für Lieferungen, sonstige Leistungen und innergemeinschaftliche Erwerbe
-
+ 
 § 11
 Bemessungsgrundlage für die Einfuhr
 IV.
 Steuer und Vorsteuer
-
+ 
 § 12
 Steuersätze
-
+ 
 § 13
 Entstehung der Steuer
-
+ 
 § 13a
 Steuerschuldner
-
+ 
 § 13b
 Leistungsempfänger als Steuerschuldner
-
+ 
 § 13c
 Haftung bei Abtretung, Verpfändung oder Pfändung von Forderungen
-
+ 
 § 13d
 (weggefallen)
-
+ 
 § 14
 Ausstellung von Rechnungen
-
+ 
 § 14a
 Zusätzliche Pflichten bei der Ausstellung von Rechnungen in besonderen Fällen
-
+ 
 § 14b
 Aufbewahrung von Rechnungen
-
+ 
 § 14c
 Unrichtiger oder unberechtigter Steuerausweis
-
+ 
 § 15
 Vorsteuerabzug
-
+ 
 § 15a
 Berichtigung des Vorsteuerabzugs
 V.
 Besteuerung
-
+ 
 § 16
 Steuerberechnung, Besteuerungszeitraum und Einzelbesteuerung
-
+ 
 § 17
 Änderung der Bemessungsgrundlage
-
+ 
 § 18
 Besteuerungsverfahren
-
+ 
 § 18a
 Zusammenfassende Meldung
-
+ 
 § 18b
 Gesonderte Erklärung innergemeinschaftlicher Lieferungen und bestimmter sonstiger Leistungen im Besteuerungsverfahren
-
+ 
 § 18c
 Meldepflicht bei der Lieferung neuer Fahrzeuge
-
+ 
 § 18d
 Vorlage von Urkunden
-
+ 
 § 18e
 Bestätigungsverfahren
-
+ 
 § 18f
 Sicherheitsleistung
-
+ 
 § 18g
 Abgabe des Antrags auf Vergütung von Vorsteuerbeträgen in einem anderen Mitgliedstaat
-
+ 
 § 18h
 Verfahren der Abgabe der Umsatzsteuererklärung für einen anderen Mitgliedstaat
-
+ 
 § 18i
 Besonderes Besteuerungsverfahren für von nicht im Gemeinschaftsgebiet ansässigen Unternehmern erbrachte sonstige Leistungen
-
+ 
 § 18j
 Besonderes Besteuerungsverfahren für den innergemeinschaftlichen Fernverkauf, für Lieferungen innerhalb eines Mitgliedstaates über eine elektronische Schnittstelle und für von im Gemeinschaftsgebiet, nicht aber im Mitgliedstaat des Verbrauchs ansässigen Unternehmern erbrachte sonstige Leistungen
-
+ 
 § 18k
 Besonderes Besteuerungsverfahren für Fernverkäufe von aus dem Drittlandsgebiet eingeführten Gegenständen in Sendungen mit einem Sachwert von höchstens 150 Euro
-
+ 
 § 19
 Besteuerung der Kleinunternehmer
-
+ 
 § 20
 Berechnung der Steuer nach vereinnahmten Entgelten
-
+ 
 § 21
 Besondere Vorschriften für die Einfuhrumsatzsteuer
-
+ 
 § 22
 Aufzeichnungspflichten
-
+ 
 § 22a
 Fiskalvertretung
-
+ 
 § 22b
 Rechte und Pflichten des Fiskalvertreters
-
+ 
 § 22c
 Ausstellung von Rechnungen im Falle der Fiskalvertretung
-
+ 
 § 22d
 Steuernummer und zuständiges Finanzamt
-
+ 
 § 22e
 Untersagung der Fiskalvertretung
-
+ 
 § 22f
 Besondere Pflichten für Betreiber eines elektronischen Marktplatzes
 VI.
 Sonderregelungen
-
+ 
 § 23
 Allgemeine Durchschnittssätze
-
+ 
 § 23a
 Durchschnittssatz für Körperschaften, Personenvereinigungen und Vermögensmassen im Sinne des § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes
-
+ 
 § 24
 Durchschnittssätze für land- und forstwirtschaftliche Betriebe
-
+ 
 § 25
 Besteuerung von Reiseleistungen
-
+ 
 § 25a
 Differenzbesteuerung
-
+ 
 § 25b
 Innergemeinschaftliche Dreiecksgeschäfte
-
+ 
 § 25c
 Besteuerung von Umsätzen mit Anlagegold
-
+ 
 § 25d
 (weggefallen)
-
+ 
 § 25e
 Haftung beim Handel auf einem elektronischen Marktplatz
-
+ 
 § 25f
 Versagung des Vorsteuerabzugs und der Steuerbefreiung bei Beteiligung an einer Steuerhinterziehung
 VII.
 Durchführung, Bußgeld-, Straf-, Verfahrens-, Übergangs- und Schlussvorschriften
-
+ 
 § 26
 Durchführung, Erstattung in Sonderfällen
-
+ 
 § 26a
 Bußgeldvorschriften
-
+ 
 § 26b
 Schädigung des Umsatzsteueraufkommens
-
+ 
 § 26c
 Gewerbsmäßige oder bandenmäßige Schädigung des Umsatzsteueraufkommens
-
+ 
 § 27
 Allgemeine Übergangsvorschriften
-
+ 
 § 27a
 Umsatzsteuer-Identifikationsnummer
-
+ 
 § 27b
 Umsatzsteuer-Nachschau
-
+ 
 § 28
 Zeitlich begrenzte Fassungen einzelner Gesetzesvorschriften
-
+ 
 § 29
 Umstellung langfristiger Verträge
 Anlage 1 (zu § 4 Nr. 4a)
-
+ 
 Liste der Gegenstände, die der Umsatzsteuerlagerregelung unterliegen können
 Anlage 2 (zu § 12 Absatz 2 Nummer 1, 2, 12, 13 und 14)
-
+ 
 Liste der dem ermäßigten Steuersatz unterliegenden Gegenstände
 Anlage 3 (zu § 13b Absatz 2 Nummer 7)
-
+ 
 Liste der Gegenstände im Sinne des § 13b Absatz 2 Nummer 7
 Anlage 4 (zu § 13b Absatz 2 Nummer 11)
 
@@ -1137,7 +1137,7 @@ Unbeschadet der Verpflichtungen nach Satz 1 Nr. 1 und 2 Satz 2 kann eine Rechnun
 - 7. :: das nach Steuersätzen und einzelnen Steuerbefreiungen aufgeschlüsselte Entgelt für die Lieferung oder sonstige Leistung (§ 10) sowie jede im Voraus vereinbarte Minderung des Entgelts, sofern sie nicht bereits im Entgelt berücksichtigt ist,
 - 8. :: den anzuwendenden Steuersatz sowie den auf das Entgelt entfallenden Steuerbetrag oder im Fall einer Steuerbefreiung einen Hinweis darauf, dass für die Lieferung oder sonstige Leistung eine Steuerbefreiung gilt,
 - 9. :: in den Fällen des § 14b Abs. 1 Satz 5 einen Hinweis auf die Aufbewahrungspflicht des Leistungsempfängers und
-- 10. :: in den Fällen der Ausstellung der Rechnung durch den Leistungsempfänger oder durch einen von ihm beauftragten Dritten gemäGutschrift”.
+- 10. :: in den Fällen der Ausstellung der Rechnung durch den Leistungsempfänger oder durch einen von ihm beauftragten Dritten gemäß Absatz 2 Satz 2 die Angabe „Gutschrift”.
 
 In den Fällen des § 10 Abs. 5 sind die Nummern 7 und 8 mit der Maßgabe anzuwenden, dass die Bemessungsgrundlage für die Leistung (§ 10 Abs. 4) und der darauf entfallende Steuerbetrag anzugeben sind. Unternehmer, die § 24 Abs. 1 bis 3 anwenden, sind jedoch auch in diesen Fällen nur zur Angabe des Entgelts und des darauf entfallenden Steuerbetrags berechtigt. Die Berichtigung einer Rechnung um fehlende oder unzutreffende Angaben ist kein rückwirkendes Ereignis im Sinne von § 175 Absatz 1 Satz 1 Nummer 2 und § 233a Absatz 2a der Abgabenordnung.
 
@@ -1157,12 +1157,12 @@ In den Fällen des § 10 Abs. 5 sind die Nummern 7 und 8 mit der Maßgabe anzuwe
 
 § 14a - Zusätzliche Pflichten bei der Ausstellung von Rechnungen in besonderen Fällen
 
-(1) Hat der Unternehmer seinen Sitz, seine Geschäftsleitung, eine Betriebsstätte, von der aus der Umsatz ausgeführt wird, oder in Ermangelung eines Sitzes seinen Wohnsitz oder gewöhnlichen Aufenthalt im Inland und führt er einen Umsatz in einem anderen Mitgliedstaat aus, an dem eine Betriebsstätte in diesem Mitgliedstaat nicht beteiligt ist, so ist er zur Ausstellung einer Rechnung mit der Angabe Steuerschuldnerschaft des Leistungsempfängers“ verpflichtet, wenn die Steuer in dem anderen Mitgliedstaat von dem Leistungsempfänger geschuldet wird und keine Gutschrift gemäß § 14 Absatz 2 Satz 2 vereinbart worden ist. Führt der Unternehmer eine sonstige Leistung im Sinne des § 3a Absatz 2 in einem anderen Mitgliedstaat aus, so ist die Rechnung bis zum fünfzehnten Tag des Monats, der auf den Monat folgt, in dem der Umsatz ausgeführt worden ist, auszustellen. In dieser Rechnung sind die Umsatzsteuer-Identifikationsnummer des Unternehmers und die des Leistungsempfängers anzugeben. Wird eine Abrechnung durch Gutschrift gemäß § 14 Absatz 2 Satz 2 über eine sonstige Leistung im Sinne des § 3a Absatz 2 vereinbart, die im Inland ausgeführt wird und für die der Leistungsempfänger die Steuer nach § 13b Absatz 1 und 5 schuldet, sind die Sätze 2 und 3 und Absatz 5 entsprechend anzuwenden.
+(1) Hat der Unternehmer seinen Sitz, seine Geschäftsleitung, eine Betriebsstätte, von der aus der Umsatz ausgeführt wird, oder in Ermangelung eines Sitzes seinen Wohnsitz oder gewöhnlichen Aufenthalt im Inland und führt er einen Umsatz in einem anderen Mitgliedstaat aus, an dem eine Betriebsstätte in diesem Mitgliedstaat nicht beteiligt ist, so ist er zur Ausstellung einer Rechnung mit der Angabe „Steuerschuldnerschaft des Leistungsempfängers“ verpflichtet, wenn die Steuer in dem anderen Mitgliedstaat von dem Leistungsempfänger geschuldet wird und keine Gutschrift gemäß § 14 Absatz 2 Satz 2 vereinbart worden ist. Führt der Unternehmer eine sonstige Leistung im Sinne des § 3a Absatz 2 in einem anderen Mitgliedstaat aus, so ist die Rechnung bis zum fünfzehnten Tag des Monats, der auf den Monat folgt, in dem der Umsatz ausgeführt worden ist, auszustellen. In dieser Rechnung sind die Umsatzsteuer-Identifikationsnummer des Unternehmers und die des Leistungsempfängers anzugeben. Wird eine Abrechnung durch Gutschrift gemäß § 14 Absatz 2 Satz 2 über eine sonstige Leistung im Sinne des § 3a Absatz 2 vereinbart, die im Inland ausgeführt wird und für die der Leistungsempfänger die Steuer nach § 13b Absatz 1 und 5 schuldet, sind die Sätze 2 und 3 und Absatz 5 entsprechend anzuwenden.
 (2) Führt der Unternehmer eine Lieferung im Sinne des § 3c im Inland aus, ist er zur Ausstellung einer Rechnung verpflichtet.
 (3) Führt der Unternehmer eine innergemeinschaftliche Lieferung aus, ist er zur Ausstellung einer Rechnung bis zum fünfzehnten Tag des Monats, der auf den Monat folgt, in dem der Umsatz ausgeführt worden ist, verpflichtet. In der Rechnung sind auch die Umsatzsteuer-Identifikationsnummer des Unternehmers und die des Leistungsempfängers anzugeben. Satz 1 gilt auch für Fahrzeuglieferer (§ 2a). Satz 2 gilt nicht in den Fällen der §§ 1b und 2a.
 (4) Eine Rechnung über die innergemeinschaftliche Lieferung eines neuen Fahrzeugs muss auch die in § 1b Abs. 2 und 3 bezeichneten Merkmale enthalten. Das gilt auch in den Fällen des § 2a.
-(5) Führt der Unternehmer eine Leistung im Sinne des § 13b Absatz 2 aus, für die der Leistungsempfänger nach § 13b Absatz 5 die Steuer schuldet, ist er zur Ausstellung einer Rechnung mit der Angabe Steuerschuldnerschaft des Leistungsempfängers“ verpflichtet; Absatz 1 bleibt unberührt. Die Vorschrift über den gesonderten Steuerausweis in einer Rechnung nach § 14 Absatz 4 Satz 1 Nummer 8 wird nicht angewendet.
-(6) In den Fällen der Besteuerung von Reiseleistungen nach § 25 hat die Rechnung die Angabe Sonderregelung für Reisebüros“ und in den Fällen der Differenzbesteuerung nach § 25a die Angabe Gebrauchtgegenstände/Sonderregelung“, Kunstgegenstände/Sonderregelung“ oder Sammlungsstücke und Antiquitäten/Sonderregelung“ zu enthalten. In den Fällen des § 25 Abs. 3 und des § 25a Abs. 3 und 4 findet die Vorschrift über den gesonderten Steuerausweis in einer Rechnung (§ 14 Abs. 4 Satz 1 Nr. 8) keine Anwendung.
+(5) Führt der Unternehmer eine Leistung im Sinne des § 13b Absatz 2 aus, für die der Leistungsempfänger nach § 13b Absatz 5 die Steuer schuldet, ist er zur Ausstellung einer Rechnung mit der Angabe „Steuerschuldnerschaft des Leistungsempfängers“ verpflichtet; Absatz 1 bleibt unberührt. Die Vorschrift über den gesonderten Steuerausweis in einer Rechnung nach § 14 Absatz 4 Satz 1 Nummer 8 wird nicht angewendet.
+(6) In den Fällen der Besteuerung von Reiseleistungen nach § 25 hat die Rechnung die Angabe „Sonderregelung für Reisebüros“ und in den Fällen der Differenzbesteuerung nach § 25a die Angabe „Gebrauchtgegenstände/Sonderregelung“, „Kunstgegenstände/Sonderregelung“ oder „Sammlungsstücke und Antiquitäten/Sonderregelung“ zu enthalten. In den Fällen des § 25 Abs. 3 und des § 25a Abs. 3 und 4 findet die Vorschrift über den gesonderten Steuerausweis in einer Rechnung (§ 14 Abs. 4 Satz 1 Nr. 8) keine Anwendung.
 (7) Wird in einer Rechnung über eine Lieferung im Sinne des § 25b Abs. 2 abgerechnet, ist auch auf das Vorliegen eines innergemeinschaftlichen Dreiecksgeschäfts und die Steuerschuldnerschaft des letzten Abnehmers hinzuweisen. Dabei sind die Umsatzsteuer-Identifikationsnummer des Unternehmers und die des Leistungsempfängers anzugeben. Die Vorschrift über den gesonderten Steuerausweis in einer Rechnung (§ 14 Abs. 4 Satz 1 Nr. 8) findet keine Anwendung.
 
 § 14b - Aufbewahrung von Rechnungen
@@ -2019,7 +2019,7 @@ Lebende Tiere, und zwar
 
 - a) :: (weggefallen)
 
-
+ 
 
 - b) :: Maultiere und Maulesel,
 
@@ -2089,7 +2089,7 @@ aus Position 0504 00 00
 
 - b) :: (weggefallen)
 
-
+ 
 
 - c) :: rohe Knochen
 
@@ -2247,7 +2247,7 @@ Position 1209
 
 (weggefallen)
 
-
+ 
 
 21
 
@@ -2277,7 +2277,7 @@ Unterposition 1302 20
 
 (weggefallen)
 
-
+ 
 
 26
 
@@ -2311,7 +2311,7 @@ aus Position 1517
 
 (weggefallen)
 
-
+ 
 
 28
 
@@ -2377,7 +2377,7 @@ Kapitel 23
 
 (weggefallen)
 
-
+ 
 
 39
 
@@ -2417,7 +2417,7 @@ aus Unterposition 2925 11 00
 
 (weggefallen)
 
-
+ 
 
 45
 
@@ -2479,7 +2479,7 @@ aus Positionen 4907 00 und 9704 00 00
 
 50
 
-Platten, Bänder, nicht flüchtige Halbleiterspeichervorrichtungen, intelligente Karten (smart cards)“ und andere Tonträger oder ähnliche Aufzeichnungsträger, die ausschließlich die Tonaufzeichnung der Lesung eines Buches enthalten, mit Ausnahme der Erzeugnisse, für die Beschränkungen als jugendgefährdende Trägermedien bzw. Hinweispflichten nach § 15 Absatz 1 bis 3 und 6 des Jugendschutzgesetzes in der jeweils geltenden Fassung bestehen
+Platten, Bänder, nicht flüchtige Halbleiterspeichervorrichtungen, „intelligente Karten (smart cards)“ und andere Tonträger oder ähnliche Aufzeichnungsträger, die ausschließlich die Tonaufzeichnung der Lesung eines Buches enthalten, mit Ausnahme der Erzeugnisse, für die Beschränkungen als jugendgefährdende Trägermedien bzw. Hinweispflichten nach § 15 Absatz 1 bis 3 und 6 des Jugendschutzgesetzes in der jeweils geltenden Fassung bestehen
 
 aus Position 8523
 
@@ -2539,7 +2539,7 @@ aus Position 9705 00 00
 
 - c) :: von münzkundlichem Wert, und zwar
 
-
+ 
 
 - aa) :: kursungültige Banknoten einschließlich Briefmarkengeld und Papiernotgeld,
 
@@ -2573,7 +2573,7 @@ aus Unterposition 4014 90
 
 aus Unterposition 0511 99 39
 
-
+ 
 
 - e) :: Periodenhosen (Slips und andere Unterhosen mit einer eingearbeiteten saugfähigen Einlage, zur mehrfachen Verwendung),
 

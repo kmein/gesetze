@@ -12,19 +12,19 @@ Dieses Gesetz gilt für Intelligente Verkehrssysteme im Straßenverkehr und dere
 
 Im Sinne dieses Gesetzes bezeichnet der Begriff
 
-- 1. :: Intelligente Verkehrssysteme“ Systeme, bei denen Informations- und Kommunikationstechnologien im Straßenverkehr und an Schnittstellen zu anderen Verkehrsträgern eingesetzt werden;
-- 2. :: Anwendung Intelligenter Verkehrssysteme“ ein technisches System, ein Verfahren oder ein Gerät für den Einsatz von Intelligenten Verkehrssystemen;
-- 3. :: Dienst Intelligenter Verkehrssysteme“ die Bereitstellung einer Anwendung Intelligenter Verkehrssysteme innerhalb eines bestimmten organisatorischen und technischen Rahmens;
-- 4. :: Schnittstelle“ eine Einrichtung zwischen Systemen, die der Verbindung und der Kommunikation zwischen diesen dient;
-- 5. :: Kontinuität der Dienste“ die Fähigkeit zur unionsweiten nahtlosen Bereitstellung von Diensten in Verkehrsnetzen;
-- 6. :: Straßendaten“ Daten über Merkmale der Straßeninfrastruktur einschließlich fest angebrachter Verkehrszeichen oder ihrer geregelten Sicherheitsmerkmale;
-- 7. :: Verkehrsdaten“ vergangenheitsbezogene Daten und Echtzeitdaten zum Straßenverkehrszustand;
-- 8. :: Reisedaten“ Daten wie Fahrpläne und Tarife öffentlicher Verkehrsmittel als erforderliche Grundlage für die Bereitstellung von Reiseinformationen vor und während der Reise zur Erleichterung der Planung, Buchung und Anpassung der Reise;
-- 9. :: Spezifikationen“ Vorschriften, die die Anforderungen an Intelligente Verkehrssysteme festlegen.
-- 10. :: Nationale Stelle“ ist eine unparteiische und unabhängige Stelle, die die Einhaltung der Anforderungen der Spezifikationen von den Datenlieferanten bewertet, insbesondere auf Verfügbarkeit, Austausch, Weiterverwendung, Format und Aktualisierung von Straßen-, Verkehrs- und Reisedaten.
-- 11. :: Nationaler Zugangspunkt“ ist eine zentrale Stelle, über die Straßen-, Verkehrs- und Reisedaten den Nutzern zur Verfügung und Weiterverwendung bereitgestellt werden. Das Bundesministerium für Verkehr und digitale Infrastruktur bestimmt diese Stelle mit dieser Aufgabenwahrnehmung im Einvernehmen mit den Ländern. Die Übertragung der Aufgabenwahrnehmung ist vom Bundesministerium für Verkehr und digitale Infrastruktur im Bundesanzeiger bekannt zu geben.
-- 12. :: Datenlieferant“ sind öffentliche oder private Stellen, die Daten dem nationalen Zugangspunkt zur Verfügung stellen, insbesondere Straßenverkehrsbehörden, Straßenbetreiber, Hersteller digitaler Karten und Dienstanbieter nach Maßgabe der Delegierten Verordnung (EU) 2015/962, öffentliche und private Straßenbetreiber, Dienstleister, im Bereich der Verkehrsinformationen tätige Rundfunkanbieter nach Maßgabe der Delegierten Verordnung (EU) Nr. 886/2013 sowie Dienstanbieter, Parkplatzbetreiber und Straßenbetreiber nach Maßgabe der Delegierten Verordnung (EU) Nr. 885/2013. Für den Fall, dass auch Daten mit Personenbezug verarbeitet werden, sollten diese anonymisiert werden. Die Daten sind im Einklang mit dem Unionsrecht und dem nationalen Recht zu verarbeiten.
-- 13. :: Nutzer“ sind insbesondere Datenlieferanten und natürliche oder juristische Personen, die Zugang zu den Daten erlangen.
+- 1. :: „Intelligente Verkehrssysteme“ Systeme, bei denen Informations- und Kommunikationstechnologien im Straßenverkehr und an Schnittstellen zu anderen Verkehrsträgern eingesetzt werden;
+- 2. :: „Anwendung Intelligenter Verkehrssysteme“ ein technisches System, ein Verfahren oder ein Gerät für den Einsatz von Intelligenten Verkehrssystemen;
+- 3. :: „Dienst Intelligenter Verkehrssysteme“ die Bereitstellung einer Anwendung Intelligenter Verkehrssysteme innerhalb eines bestimmten organisatorischen und technischen Rahmens;
+- 4. :: „Schnittstelle“ eine Einrichtung zwischen Systemen, die der Verbindung und der Kommunikation zwischen diesen dient;
+- 5. :: „Kontinuität der Dienste“ die Fähigkeit zur unionsweiten nahtlosen Bereitstellung von Diensten in Verkehrsnetzen;
+- 6. :: „Straßendaten“ Daten über Merkmale der Straßeninfrastruktur einschließlich fest angebrachter Verkehrszeichen oder ihrer geregelten Sicherheitsmerkmale;
+- 7. :: „Verkehrsdaten“ vergangenheitsbezogene Daten und Echtzeitdaten zum Straßenverkehrszustand;
+- 8. :: „Reisedaten“ Daten wie Fahrpläne und Tarife öffentlicher Verkehrsmittel als erforderliche Grundlage für die Bereitstellung von Reiseinformationen vor und während der Reise zur Erleichterung der Planung, Buchung und Anpassung der Reise;
+- 9. :: „Spezifikationen“ Vorschriften, die die Anforderungen an Intelligente Verkehrssysteme festlegen.
+- 10. :: „Nationale Stelle“ ist eine unparteiische und unabhängige Stelle, die die Einhaltung der Anforderungen der Spezifikationen von den Datenlieferanten bewertet, insbesondere auf Verfügbarkeit, Austausch, Weiterverwendung, Format und Aktualisierung von Straßen-, Verkehrs- und Reisedaten.
+- 11. :: „Nationaler Zugangspunkt“ ist eine zentrale Stelle, über die Straßen-, Verkehrs- und Reisedaten den Nutzern zur Verfügung und Weiterverwendung bereitgestellt werden. Das Bundesministerium für Verkehr und digitale Infrastruktur bestimmt diese Stelle mit dieser Aufgabenwahrnehmung im Einvernehmen mit den Ländern. Die Übertragung der Aufgabenwahrnehmung ist vom Bundesministerium für Verkehr und digitale Infrastruktur im Bundesanzeiger bekannt zu geben.
+- 12. :: „Datenlieferant“ sind öffentliche oder private Stellen, die Daten dem nationalen Zugangspunkt zur Verfügung stellen, insbesondere Straßenverkehrsbehörden, Straßenbetreiber, Hersteller digitaler Karten und Dienstanbieter nach Maßgabe der Delegierten Verordnung (EU) 2015/962, öffentliche und private Straßenbetreiber, Dienstleister, im Bereich der Verkehrsinformationen tätige Rundfunkanbieter nach Maßgabe der Delegierten Verordnung (EU) Nr. 886/2013 sowie Dienstanbieter, Parkplatzbetreiber und Straßenbetreiber nach Maßgabe der Delegierten Verordnung (EU) Nr. 885/2013. Für den Fall, dass auch Daten mit Personenbezug verarbeitet werden, sollten diese anonymisiert werden. Die Daten sind im Einklang mit dem Unionsrecht und dem nationalen Recht zu verarbeiten.
+- 13. :: „Nutzer“ sind insbesondere Datenlieferanten und natürliche oder juristische Personen, die Zugang zu den Daten erlangen.
 
 
 § 3 - Grundsätze für die Einführung Intelligenter Verkehrssysteme

@@ -20,7 +20,7 @@ sowie in Verbindung mit Artikel 28 des Gesetzes vom 16. Juli 1998 (BGBl. I S. 18
 Inhaltsübersicht
 
 Abschnitt 1
-
+ 
 Organisation, Befugnisse
 § 1
 Leitung, Aufsicht, Übertragung von Verordnungsermächtigungen
@@ -35,7 +35,7 @@ Markenstellen und Markenabteilungen
 § 6
 Designstellen und Designabteilungen
 Abschnitt 2
-
+ 
 Verfahrensvorschriften
 § 7
 DIN-Normen
@@ -238,9 +238,9 @@ Zur Erleichterung der Bearbeitung von Anmeldungen teilt das Deutsche Patent- und
 
 § 20 - Form der Ausfertigungen und Abschriften; formlose Mitteilungen
 
-(1) Ausfertigungen von Dokumenten enthalten in der Kopfzeile die Angabe Deutsches Patent- und Markenamt“, am Schluss die Bezeichnung der zuständigen Stelle oder Abteilung, den Namen und gegebenenfalls die Amtsbezeichnung der Person, die das Dokument unterzeichnet hat. Sie werden von der Person unterschrieben, die die Ausfertigung hergestellt hat. Der Unterschrift steht ein Namensabdruck zusammen mit einem Abdruck des Dienstsiegels des Deutschen Patent- und Markenamts gleich. Für die Ausfertigung elektronischer Dokumente gilt die Verordnung über die elektronische Aktenführung bei dem Patentamt, dem Patentgericht und dem Bundesgerichtshof vom 10. Februar 2010 (BGBl. I S. 83) in ihrer jeweils geltenden Fassung.
+(1) Ausfertigungen von Dokumenten enthalten in der Kopfzeile die Angabe „Deutsches Patent- und Markenamt“, am Schluss die Bezeichnung der zuständigen Stelle oder Abteilung, den Namen und gegebenenfalls die Amtsbezeichnung der Person, die das Dokument unterzeichnet hat. Sie werden von der Person unterschrieben, die die Ausfertigung hergestellt hat. Der Unterschrift steht ein Namensabdruck zusammen mit einem Abdruck des Dienstsiegels des Deutschen Patent- und Markenamts gleich. Für die Ausfertigung elektronischer Dokumente gilt die Verordnung über die elektronische Aktenführung bei dem Patentamt, dem Patentgericht und dem Bundesgerichtshof vom 10. Februar 2010 (BGBl. I S. 83) in ihrer jeweils geltenden Fassung.
 (2) Absatz 1 Satz 1 und 4 ist auf Abschriften entsprechend anzuwenden.
-(3) Formlose Mitteilungen, die mit Hilfe elektronischer Einrichtungen erstellt werden, enthalten die Angabe Deutsches Patent- und Markenamt“ in der Kopfzeile, den Hinweis, dass die Mitteilung elektronisch erstellt wurde und daher nicht unterschrieben ist, und die Angabe der zuständigen Stelle.
+(3) Formlose Mitteilungen, die mit Hilfe elektronischer Einrichtungen erstellt werden, enthalten die Angabe „Deutsches Patent- und Markenamt“ in der Kopfzeile, den Hinweis, dass die Mitteilung elektronisch erstellt wurde und daher nicht unterschrieben ist, und die Angabe der zuständigen Stelle.
 
 § 21 - Zustellung und formlose Übersendung
 

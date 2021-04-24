@@ -8,10 +8,10 @@ Inhaltsübersicht
 
 Abschnitt 1
 Wehrpflicht
-
-
+ 
+ 
 Unterabschnitt 1
-
+ 
 Umfang der Wehrpflicht
 § 1
 Allgemeine Wehrpflicht
@@ -19,10 +19,10 @@ Allgemeine Wehrpflicht
 Geltung der folgenden Vorschriften
 § 3
 Inhalt und Dauer der Wehrpflicht
-
-
+ 
+ 
 Unterabschnitt 2
-
+ 
 Wehrdienst
 § 4
 Arten des Wehrdienstes
@@ -44,10 +44,10 @@ Anrechnung von freiwillig geleistetem Wehrdienst und von geleistetem Zivildienst
 Wehrdienst außerhalb der Bundeswehr; Anrechnung von Wehrdienst und anderen Diensten außerhalb der Bundeswehr
 § 8a
 Tauglichkeitsgrade; Verwendungsgrade
-
-
+ 
+ 
 Unterabschnitt 3
-
+ 
 Wehrdienstausnahmen
 § 9
 Wehrdienstunfähigkeit
@@ -63,7 +63,7 @@ Unabkömmlichstellung
 Zivilschutz oder Katastrophenschutz
 § 13b
 Entwicklungsdienst
-
+ 
 Abschnitt 2
 Wehrersatzwesen
 § 14
@@ -96,7 +96,7 @@ Wehrüberwachung; Haftung
 Änderungsdienst
 § 24b
 Aufenthaltsfeststellungsverfahren
-
+ 
 Abschnitt 3
 Personalakten
 § 25
@@ -105,7 +105,7 @@ Personalakten ungedienter Wehrpflichtiger
 (weggefallen)
 § 27
 (weggefallen)
-
+ 
 Abschnitt 4
 Beendigung des Wehrdienstes und Verlust des Dienstgrades
 § 28
@@ -120,7 +120,7 @@ Verlängerung des Wehrdienstes aus sonstigen Gründen
 Ausschluss aus der Bundeswehr und Verlust des Dienstgrades
 § 31
 Wiederaufnahme des Verfahrens
-
+ 
 Abschnitt 5
 Rechtsbehelfe; Rechtsmittel
 § 32
@@ -131,7 +131,7 @@ Besondere Vorschriften für das Vorverfahren
 Rechtsmittel gegen die Entscheidungen des Verwaltungsgerichts
 § 35
 Besondere Vorschriften für die Anfechtungsklage
-
+ 
 Abschnitt 6
 Einschränkung von Grundrechten, Sonder-, Bußgeld- und Übergangsvorschriften
 §§ 36 bis 41
@@ -695,7 +695,7 @@ Männer, die nach dem Bundesgrenzschutzgesetz vom 18. August 1972 (BGBl. I S. 18
 
 § 44 - Zustellung, Vorführung und Zuführung
 
-(1) Ein Bescheid, der in Ausführung dieses Gesetzes ergeht, ist zuzustellen. Dies gilt nicht für begünstigende Verwaltungsakte. Bei einem Minderjährigen ist an diesen selbst zuzustellen. Ein Einberufungsbescheid zu einer Hilfeleistung im Innern (§ 6c), einer Hilfeleistung im Ausland (§ 6d) oder einer Wehrübung, die als Bereitschaftsdienst angeordnet ist (§ 6 Absatz 6) oder die als Alarmübung nicht länger als drei Tage dauert, kann auch mit gewöhnlichem Standardbrief mit dem Vermerk Vorrangpost“ oder in entsprechender Anwendung des § 5 des Verwaltungszustellungsgesetzes unmittelbar durch die Truppe zugestellt werden.
+(1) Ein Bescheid, der in Ausführung dieses Gesetzes ergeht, ist zuzustellen. Dies gilt nicht für begünstigende Verwaltungsakte. Bei einem Minderjährigen ist an diesen selbst zuzustellen. Ein Einberufungsbescheid zu einer Hilfeleistung im Innern (§ 6c), einer Hilfeleistung im Ausland (§ 6d) oder einer Wehrübung, die als Bereitschaftsdienst angeordnet ist (§ 6 Absatz 6) oder die als Alarmübung nicht länger als drei Tage dauert, kann auch mit gewöhnlichem Standardbrief mit dem Vermerk „Vorrangpost“ oder in entsprechender Anwendung des § 5 des Verwaltungszustellungsgesetzes unmittelbar durch die Truppe zugestellt werden.
 (2) Bei Wehrpflichtigen, die der Erfassung, der Musterung, einer erneuten ärztlichen Untersuchung, der Prüfung der Verfügbarkeit, der Eignungsuntersuchung oder auf eine Aufforderung der Wehrersatzbehörde, sich persönlich zu melden (§ 24 Absatz 6 Satz 1 Nummer 3), unentschuldigt fernbleiben, kann die Vorführung angeordnet werden; das Gleiche gilt bei männlichen Personen, die der Erfassung unentschuldigt fernbleiben (§ 15 Absatz 6). Die Polizei ist um Durchführung zu ersuchen.
 (3) Die Polizei kann ersucht werden, Wehrpflichtige, die ihrer Einberufung unentschuldigt nicht Folge leisten, dem nächsten Feldjägerdienstkommando zuzuführen.
 (4) Die Polizei ist befugt, zum Zweck der Vorführung oder Zuführung die Wohnung und andere Räume des Wehrpflichtigen zu betreten und nach ihm zu suchen. Das Gleiche gilt, außer zur Nachtzeit, für andere Wohnungen und Räume, wenn sich der Wehrpflichtige einem unmittelbar bevorstehenden Zugriff der Polizei durch Betreten solcher Wohnungen und Räume entzieht. Maßnahmen nach den Sätzen 1 und 2 bedürfen einer durch die Wehrersatzbehörde einzuholenden richterlichen Anordnung. Dabei kann das Gericht von einer vorherigen Anhörung des Wehrpflichtigen oder Wohnungsinhabers absehen, wenn es dies für erforderlich hält, um den Zweck der Maßnahme nicht zu gefährden. Personen, die Mitgewahrsam an der Wohnung des Wehrpflichtigen haben, haben das Betreten und Durchsuchen der Wohnung und anderer Räume zu dulden. Unbillige Härten gegenüber Mitgewahrsamsinhabern sind zu vermeiden. Die Anordnung ist bei der Durchsuchung vorzuzeigen. Für die richterliche Anordnung einer Durchsuchung ist das Verwaltungsgericht zuständig, in dessen Bezirk die Durchsuchung vorgenommen werden soll. Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird insoweit eingeschränkt.

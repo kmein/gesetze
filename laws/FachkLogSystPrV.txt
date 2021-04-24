@@ -22,7 +22,7 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und des § 30 Absatz 5 d
 - 7. :: Führen von Mitarbeiterinnen und Mitarbeitern und Fördern ihrer beruflichen Entwicklung,
 - 8. :: Organisieren der Berufsausbildung.
 
-(3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt für Logistiksysteme“ oder Geprüfte Fachwirtin für Logistiksysteme“.
+(3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss „Geprüfter Fachwirt für Logistiksysteme“ oder „Geprüfte Fachwirtin für Logistiksysteme“.
 
 § 2 - Zulassungsvoraussetzungen
 
@@ -57,30 +57,30 @@ nachweist.
 
 (3) Die schriftliche Prüfung wird auf der Grundlage einer betrieblichen Situationsbeschreibung mit zwei gleichgewichtigen, daraus abgeleiteten aufeinander abgestimmten offenen Aufgabenstellungen, die eigenständige Lösungen ermöglichen, durchgeführt, wobei alle Handlungsbereiche situationsbezogen zu thematisieren sind. Die gesamte Bearbeitungsdauer soll 600 Minuten betragen.
 (4) Nach bestandener schriftlicher Prüfung wird die mündliche Prüfung durchgeführt. Die mündliche Prüfung gliedert sich in eine Präsentation und ein Fachgespräch. In ihr soll auch nachgewiesen werden, dass angemessen und sachgerecht kommuniziert und präsentiert werden kann.
-(5) In der Präsentation nach Absatz 4 soll nachgewiesen werden, dass ein komplexes Problem der betrieblichen Praxis erfasst, dargestellt, beurteilt und gelöst werden kann. Die Themenstellung muss sich mindestens auf zwei der Handlungsbereiche nach Absatz 2 beziehen, von denen einer der Handlungsbereich Kommunikation, Führung und Zusammenarbeit“ ist. Die Präsentationszeit soll zehn Minuten nicht überschreiten.
+(5) In der Präsentation nach Absatz 4 soll nachgewiesen werden, dass ein komplexes Problem der betrieblichen Praxis erfasst, dargestellt, beurteilt und gelöst werden kann. Die Themenstellung muss sich mindestens auf zwei der Handlungsbereiche nach Absatz 2 beziehen, von denen einer der Handlungsbereich „Kommunikation, Führung und Zusammenarbeit“ ist. Die Präsentationszeit soll zehn Minuten nicht überschreiten.
 (6) Das Thema der Präsentation wird von der zu prüfenden Person gewählt und mit einer Kurzbeschreibung der Problemstellung, des Ziels und einer Gliederung dem Prüfungsausschuss zum Termin der schriftlichen Prüfung eingereicht.
 (7) Im Fachgespräch soll ausgehend von der Präsentation die Fähigkeit nachgewiesen werden, betriebspraktische Probleme zu analysieren und Lösungsmöglichkeiten unter Beachtung der maßgebenden Einflussfaktoren zu bewerten. Das Fachgespräch soll in der Regel nicht länger als 20 Minuten dauern.
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
 § 4 - Inhalte der Prüfung
 
-(1) Im Handlungsbereich Logistische Anforderungen ermitteln, analysieren und bewerten“ soll die Fähigkeit nachgewiesen werden, logistische Bedürfnisse von Kunden zu ermitteln, deren Wertschöpfungskette zu analysieren und unter betriebswirtschaftlichen Gesichtspunkten zu bewerten. Dabei sollen auch soziale, rechtliche, technische und ökologische Bedingungen zielorientiert und situationsbezogen berücksichtigt werden. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(1) Im Handlungsbereich „Logistische Anforderungen ermitteln, analysieren und bewerten“ soll die Fähigkeit nachgewiesen werden, logistische Bedürfnisse von Kunden zu ermitteln, deren Wertschöpfungskette zu analysieren und unter betriebswirtschaftlichen Gesichtspunkten zu bewerten. Dabei sollen auch soziale, rechtliche, technische und ökologische Bedingungen zielorientiert und situationsbezogen berücksichtigt werden. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: logistische Abläufe und ihre Einbindung in den Wertschöpfungsprozess auf der Grundlage einer Logistiksystemanalyse bewerten,
 - 2. :: Ergebnisse von Analyse und Bewertung gegenüber dem Kunden darstellen.
 
-(2) Im Handlungsbereich Logistische Lösungen entwickeln und planen“ soll die Fähigkeit nachgewiesen werden, logistische Konzepte im Kontext von Prozessketten entscheidungsreif zu entwickeln, deren Umsetzungsbedingungen und Konsequenzen zu ermitteln und ihre Einführung vorzubereiten. Dafür ist die Zusammenarbeit auch unter Berücksichtigung der rechtlichen Verantwortlichkeiten mit den Prozesspartnern zu organisieren. Dabei soll auch gezeigt werden, wie ein Projekt team- und kundenorientiert geleitet werden kann. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(2) Im Handlungsbereich „Logistische Lösungen entwickeln und planen“ soll die Fähigkeit nachgewiesen werden, logistische Konzepte im Kontext von Prozessketten entscheidungsreif zu entwickeln, deren Umsetzungsbedingungen und Konsequenzen zu ermitteln und ihre Einführung vorzubereiten. Dafür ist die Zusammenarbeit auch unter Berücksichtigung der rechtlichen Verantwortlichkeiten mit den Prozesspartnern zu organisieren. Dabei soll auch gezeigt werden, wie ein Projekt team- und kundenorientiert geleitet werden kann. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: alternative logistische Konzepte entwickeln und bewerten,
 - 2. :: logistische Lösungen und deren Umsetzung planen, dabei Information, Dokumentation, Kooperation, Kommunikation im logistischen Netzwerk gestalten,
 - 3. :: an der Vergabe von Dienstleistungen zur Umsetzung von Logistiklösungen mitwirken.
 
-(3) Im Handlungsbereich Logistische Lösungen umsetzen, bewerten und weiterentwickeln“ soll die Fähigkeit nachgewiesen werden, die Umsetzung logistischer Lösungen verantwortlich zu koordinieren und zu bewerten. Insbesondere soll nachgewiesen werden, dass die Kommunikation zwischen den Prozessbeteiligten gefördert, Anpassungsbedarfe und Verbesserungsmöglichkeiten erkannt und in Zusammenarbeit mit den Beteiligten Schlussfolgerungen abgeleitet und geeignete Maßnahmen initiiert werden können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(3) Im Handlungsbereich „Logistische Lösungen umsetzen, bewerten und weiterentwickeln“ soll die Fähigkeit nachgewiesen werden, die Umsetzung logistischer Lösungen verantwortlich zu koordinieren und zu bewerten. Insbesondere soll nachgewiesen werden, dass die Kommunikation zwischen den Prozessbeteiligten gefördert, Anpassungsbedarfe und Verbesserungsmöglichkeiten erkannt und in Zusammenarbeit mit den Beteiligten Schlussfolgerungen abgeleitet und geeignete Maßnahmen initiiert werden können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: Veränderungsprozesse bei der Einführung von logistischen Lösungen zusammen mit den Prozessbeteiligten gestalten,
 - 2. :: Logistikprozesse anhand von Kennzahlen bewerten und optimieren.
 
-(4) Im Handlungsbereich Kommunikation, Führung und Zusammenarbeit“ soll die Fähigkeit nachgewiesen werden, zielorientiert mit Mitarbeitern, Auszubildenden, Geschäftspartnern und Kunden zu kommunizieren und zu kooperieren, Methoden der Kommunikation und des Konfliktmanagements situationsgerecht einzusetzen und ethische Grundsätze zu berücksichtigen. Darüber hinaus soll gezeigt werden, dass Mitarbeiter, Auszubildende und Projektgruppen unter Beachtung der rechtlichen und betrieblichen Rahmenbedingungen sowie der Unternehmensziele geführt und motiviert werden können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(4) Im Handlungsbereich „Kommunikation, Führung und Zusammenarbeit“ soll die Fähigkeit nachgewiesen werden, zielorientiert mit Mitarbeitern, Auszubildenden, Geschäftspartnern und Kunden zu kommunizieren und zu kooperieren, Methoden der Kommunikation und des Konfliktmanagements situationsgerecht einzusetzen und ethische Grundsätze zu berücksichtigen. Darüber hinaus soll gezeigt werden, dass Mitarbeiter, Auszubildende und Projektgruppen unter Beachtung der rechtlichen und betrieblichen Rahmenbedingungen sowie der Unternehmensziele geführt und motiviert werden können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 - 1. :: situationsgerechtes Kommunizieren mit internen und externen Partnern sowie zielgerichtetes Einsetzen von Präsentationstechniken,
 - 2. :: Festlegen und Begründen von Kriterien für die Personalauswahl sowie Mitwirken bei der Personalrekrutierung,

@@ -284,7 +284,7 @@ Anlage 1 - (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann
 
 Sachliche Gliederung -
 
-
+ 
 
 Abschnitt I: Gemeinsame Fertigkeiten und Kenntnisse gemäß § 3 Abs. 1
 
@@ -305,7 +305,7 @@ Zu vermittelnde Fertigkeiten und Kenntnisse
 Der Ausbildungsbetrieb\\
 (§ 4 Nr. 1)
 
-
+ 
 
 1.1
 
@@ -366,7 +366,7 @@ Qualitätsmanagement\\
 Geschäfts- und Leistungsprozess\\
 (§ 4 Nr. 2)
 
-
+ 
 
 2.1
 
@@ -402,7 +402,7 @@ Dienstleistungen\\
 Information, Kommunikation und Kooperation\\
 (§ 4 Nr. 3)
 
-
+ 
 
 3.1
 
@@ -455,7 +455,7 @@ kundenorientierte Kommunikation\\
 Marketing und Verkauf\\
 (§ 4 Nr. 4)
 
-
+ 
 
 4.1
 
@@ -484,7 +484,7 @@ Verkauf\\
 kaufmännische Steuerung und Kontrolle\\
 (§ 4 Nr. 5)
 
-
+ 
 
 5.1
 
@@ -538,7 +538,7 @@ Personalwirtschaft\\
 - e) :: bei der organisatorischen Umsetzung betrieblicher und außerbetrieblicher Fort- und Weiterbildung mitarbeiten
 - f) :: Entgeltarten unterscheiden und bei der Entgeltabrechnung mitwirken
 
-
+ 
 
 Abschnitt II: Berufsspezifische Fertigkeiten und Kenntnisse gemäß § 3 Abs. 2 Buchstabe a
 
@@ -587,7 +587,7 @@ Marketing im Gesundheitswesen\\
 Finanz- und Rechnungswesen im Gesundheitsbereich\\
 (§ 4 Nr. 11)
 
-
+ 
 
 11.1
 
@@ -632,7 +632,7 @@ Qualitätsmanagement im Gesundheitswesen\\
 - b) :: verschiedene Qualitätsmanagementsysteme des Gesundheitswesens anhand von Beispielen unterscheiden
 - c) :: Maßnahmen des Qualitätsmanagement im Betrieb anwenden und deren Einhaltung überprüfen
 
-
+ 
 
 (noch Anlage 1)
 
@@ -782,7 +782,7 @@ Anlage 3 - (zu § 17)Ausbildungsrahmenplan für die Berufsausbildung zum Veranst
 
 - Sachliche Gliederung -
 
-
+ 
 
 Abschnitt I: Gemeinsame Fertigkeiten und Kenntnisse gemäß § 3 Abs. 1
 
@@ -803,7 +803,7 @@ Zu vermittelnde Fertigkeiten und Kenntnisse
 Der Ausbildungsbetrieb\\
 (§ 16 Nr. 1)
 
-
+ 
 
 1.1
 
@@ -864,7 +864,7 @@ Qualitätsmanagement\\
 Geschäfts- und Leistungsprozess\\
 (§ 16 Nr. 2)
 
-
+ 
 
 2.1
 
@@ -900,7 +900,7 @@ Dienstleistungen\\
 Information, Kommunikation und Kooperation\\
 (§ 16 Nr. 3)
 
-
+ 
 
 3.1
 
@@ -953,7 +953,7 @@ kundenorientierte Kommunikation\\
 Marketing und Verkauf\\
 (§ 16 Nr. 4)
 
-
+ 
 
 4.1
 
@@ -982,7 +982,7 @@ Verkauf\\
 kaufmännische Steuerung und Kontrolle\\
 (§ 16 Nr. 5)
 
-
+ 
 
 5.1
 
@@ -1036,7 +1036,7 @@ Personalwirtschaft\\
 - e) :: bei der organisatorischen Umsetzung betrieblicher und außerbetrieblicher Fort- und Weiterbildung mitarbeiten
 - f) :: Entgeltarten unterscheiden und bei der Entgeltabrechnung mitwirken
 
-
+ 
 
 Abschnitt II: Berufsspezifische Fertigkeiten und Kenntnisse gemäß § 3 Abs. 2 Buchstabe c
 
@@ -1045,7 +1045,7 @@ Abschnitt II: Berufsspezifische Fertigkeiten und Kenntnisse gemäß § 3 Abs. 2 
 Vermarktung von Veranstaltungen\\
 (§ 16 Nr. 7)
 
-
+ 
 
 7.1
 
@@ -1093,7 +1093,7 @@ Methoden des Projektmanagements\\
 Planung und Organisation von Veranstaltungen\\
 (§ 16 Nr. 9)
 
-
+ 
 
 9.1
 
@@ -1128,7 +1128,7 @@ Veranstaltungsfinanzierung und -budgetierung\\
 Durchführung von Veranstaltungen\\
 (§ 16 Nr. 10)
 
-
+ 
 
 10.1
 
@@ -1171,7 +1171,7 @@ Veranstaltungsende\\
 Nachbereitung von Veranstaltungen\\
 (§ 16 Nr. 11)
 
-
+ 
 
 11.1
 
@@ -1196,7 +1196,7 @@ finanzielle Abwicklung\\
 Veranstaltungstechnik\\
 (§ 16 Nr. 12)
 
-
+ 
 
 12.1
 
@@ -1238,7 +1238,7 @@ Anwenden von Fremdsprachen bei Fachaufgaben\\
 - b) :: im Ausbildungsbetrieb übliche fremdsprachige Informationen auswerten
 - c) :: Auskünfte erteilen und einholen, auch in einer fremden Sprache
 
-
+ 
 
 (noch Anlage 3)
 

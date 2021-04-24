@@ -407,7 +407,7 @@ sind.
 
    sind,
 
-
+ 
 
  3. für Einfahrsignale bei Zugleitbetrieb.
 
@@ -453,7 +453,7 @@ Hiervon kann bei Ausfahrsignalen an Ausweichgleisen, auf denen keine Durchfahrte
 (1) Auf Bahnen mit besonders dichter Zugfolge muß das Signal für die Fahrt in eine Blockstrecke unter Verschluß der nächsten Blockstelle liegen.\\
 \\
 
-
+ 
 
 (2) Strecken
 
@@ -461,7 +461,7 @@ mit Signalen, die nach § 14 vorgeschrieben sind und auf denen mehr als 80 km/h 
 
 müssen mit Zugbeeinflussung ausgerüstet sein, durch die ein Zug selbsttätig zum Halten gebracht und ein unzulässiges Anfahren gegen Halt zeigende Signale überwacht werden kann.
 
-
+ 
 
 Strecken mit Signalen, die nach § 14 vorgeschrieben sind, auf denen
 
@@ -472,7 +472,7 @@ müssen mit Zugbeeinflussung ausgerüstet sein, durch die ein Zug selbsttätig z
 
 (3) Strecken, auf denen mehr als 160 km/h zugelassen sind, müssen mit Zugbeeinflussung ausgerüstet sein, durch die ein Zug selbsttätig zum Halten gebracht und außerdem geführt werden kann.
 
-
+ 
 
 (4) Für weitere Strecken können die zuständigen Eisenbahnaufsichtsbehörden die Ausrüstung mit Zugbeeinflussung oder technischen Einrichtungen vorschreiben, wenn die örtlichen Verhältnisse oder eine besondere Gefahrensituation dies erfordern.
 
@@ -480,27 +480,27 @@ müssen mit Zugbeeinflussung ausgerüstet sein, durch die ein Zug selbsttätig z
 
 (1) Zugfolgestellen
 
+ 
 
-
-
+ 
 
 und Zuglaufmeldestellen
 
 sind durch Fernmeldeanlagen zu verbinden. Schrankenposten und Streckenfernsprecher sind in die Verbindung einzuschalten.
 
-
+ 
 
 Ausnahmen sind zulässig (§ 3 Abs. 1 Nr. 2).
 
+ 
 
-
-
+ 
 
 (2) Auf Strecken ohne Streckenblockeinrichtung,
 
+ 
 
-
-
+ 
 
 die von Reisezügen\\
 oder\\
@@ -509,21 +509,21 @@ befahren werden,
 
 sind fernmündliche Zugmeldungen durch Sprachspeicher aufzuzeichnen. Ausnahmen sind zulässig (§ 3 Abs. 1 Nr. 2).
 
+ 
 
-
-
+ 
 
 (3) Streckenfernsprecher sind auf freier Strecke einzubauen, soweit es erforderlich ist.
 
+ 
 
-
-
+ 
 
 (4) Strecken, die von Reisezügen befahren werden, sollen mit Zugfunkeinrichtungen ausgerüstet sein. Mit Zugfunkeinrichtungen müssen ausgerüstet sein
 
 - 1. :: Strecken, auf denen mehr als 160 km/h zugelassen sind,
 
-
+ 
 
 - 2. :: Strecken ohne Streckenblockeinrichtungen, auf denen
   - a) :: Reisezüge oder
@@ -533,9 +533,9 @@ sind fernmündliche Zugmeldungen durch Sprachspeicher aufzuzeichnen. Ausnahmen s
 
 (5) Bahnsteige an Gleisen, die mit mehr als 160 km/h befahren werden, sollen mit Lautsprecheranlagen ausgerüstet sein.
 
+ 
 
-
-
+ 
 
 § 17 - Untersuchen und Überwachen der Bahnanlagen
 
@@ -986,7 +986,7 @@ _____________________________\\
 - 2) :: Bei Gleisen, auf denen überwiegend Stadtschnellbahnfahrzeuge verkehren, 960 mm.
 - 3) :: Den Grenzlinien liegen die Bezugslinie G 2, der Regelwert s_{o}= 0,4 des Neigungskoeffizienten eines Fahrzeugs und folgende bautechnische Einflußgrößen zugrunde:\\
   \\
-  
+   
 - 4) :: Den Grenzlinien bei Oberleitung liegt der Neigungskoeffizient s_{o}= 0,225 eines Triebfahrzeuges und das halbe Breitenmaß eines Stromabnehmers von 975 mm zugrunde.
 
 Zu Bild 1\\
@@ -1005,8 +1005,8 @@ im Arbeitshöhenbereich des Stromabnehmers über SO\\
 \\
 Abschrägung\\
 der Ecken
-
-
+ 
+ 
 a
 ≤ 5300
 über 5300\\
@@ -1017,7 +1017,7 @@ bis 5900
 bis 6500
 c
 d
-
+ 
 kV
 mm
 Wechsel-
@@ -1247,13 +1247,13 @@ Der Einfluß des Wechsels der Längsneigung wird wie folgt berechnet:\\
 \\
 
 50 000\\
-r_{a} 
+r_{a}  
 
   [mm]
 
+ 
 
-
-
+ 
 
 r_{a} = Ausrundungsradius in m
 
@@ -1341,25 +1341,25 @@ Spurweite
 
 100
 
-
+ 
 
 43
 
 120
 
-
+ 
 
 39
 
 150
 
-
+ 
 
 34
 
 200
 
-
+ 
 
 30
 
@@ -1457,7 +1457,7 @@ Zwischenwerte dürfen geradlinig eingeschaltet werden.
 Arbeitshöhe des\\
 Stromabnehmers
 Verschiebung
-
+ 
 bei nicht festgelegtem\\
 Gleis
 bei festgelegtem\\
@@ -1543,259 +1543,259 @@ m
 3,54
 3,50
 ▼
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 1300
 3,58
 3,53
 3,50
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 1100
 3,61
 3,56
 3,51
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 950
-
-
+ 
+ 
 3,59
 3,53
 ▼
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 850
-
-
+ 
+ 
 3,61
 3,55
 3,50
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 700
-
-
-
-
+ 
+ 
+ 
+ 
 3,59
 3,53
 ▼
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 600
-
-
-
-
+ 
+ 
+ 
+ 
 3,62
 3,55
 3,50
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 500
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 3,59
 3,52
 ▼
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 450
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 3,61
 3,54
 3,50
 ▼
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 400
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 3,55
 3,52
 3,50
 ▼
-
-
-
-
+ 
+ 
+ 
+ 
 300
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 3,61
 3,56
 3,52
 3,50
 ▼
-
-
+ 
+ 
 250
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 3,60
 3,55
 3,51
 3,50
 ▼
 225
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 3,63
 3,58
 3,56
 3,50
 200
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 3,71
 3,66
 3,62
 3,62
 180
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 3,80
 3,74
 3,69

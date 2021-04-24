@@ -12,14 +12,14 @@ Diese Verordnung regelt die Innovationsausschreibungen nach § 39j des Erneuerba
 
 Im Sinne dieser Verordnung ist:
 
-- 1. :: Anlagenkombination“ ein Zusammenschluss
+- 1. :: „Anlagenkombination“ ein Zusammenschluss
   - a) :: von mehreren Anlagen verschiedener erneuerbarer Energien nach § 3 Nummer 21 des Erneuerbare-Energien-Gesetzes oder
   - b) :: von Anlagen mit Einrichtungen, die zwischengespeicherte Energie, die ausschließlich aus erneuerbaren Energien stammt, aufnehmen und in elektrische Energie umwandeln,
 
   wovon mindestens eine erneuerbare Energie Windenergie an Land oder solare Strahlungsenergie ist, und der über einen gemeinsamen Netzverknüpfungspunkt einspeist,
-- 1a. :: besondere Solaranlage“ eine Solaranlage, die der Festlegung der Bundesnetzagentur nach § 15 entspricht,
-- 2. :: fixe Marktprämie“ die Zahlung eines festen Betrags pro erzeugter Kilowattstunde im Sinne des § 8,
-- 3. :: Innovationsausschreibung“ eine nach den Vorschriften dieser Verordnung durchgeführte Ausschreibung.
+- 1a. :: „besondere Solaranlage“ eine Solaranlage, die der Festlegung der Bundesnetzagentur nach § 15 entspricht,
+- 2. :: „fixe Marktprämie“ die Zahlung eines festen Betrags pro erzeugter Kilowattstunde im Sinne des § 8,
+- 3. :: „Innovationsausschreibung“ eine nach den Vorschriften dieser Verordnung durchgeführte Ausschreibung.
 
 
 § 3 - Anwendung des Erneuerbare-Energien-Gesetzes

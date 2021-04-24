@@ -26,7 +26,7 @@ verordnet das Bundesministerium für Arbeit und Sozialordnung:
 Inhaltsübersicht
 
 Erstes Kapitel
-
+ 
 Allgemeine Vorschriften
 § 1
 Anwendungsbereich
@@ -39,7 +39,7 @@ Verantwortungsbereiche
 § 5
 Ergänzende Regelungen
 Zweites Kapitel
-
+ 
 Auszahlung von Geldleistungen
 § 6
 Zahlungsauftrag
@@ -64,7 +64,7 @@ Zahlungseinstellung durch den Renten Service
 § 16
 Rückforderung zu Unrecht erbrachter Geldleistungen beim Tod von Berechtigten
 Drittes Kapitel
-
+ 
 Durchführung der Anpassung von Geldleistungen
 § 17
 Anpassungsauftrag
@@ -73,7 +73,7 @@ Art und Weise der Anpassung, Anpassungsmitteilung
 § 19
 Unterrichtung der Träger der Rentenversicherung und anderer Stellen
 Viertes Kapitel
-
+ 
 Mit der Auszahlung und der Durchführung der Anpassung von Geldleistungen zusammenhängende Aufgaben
 § 20
 Aufgaben im Rahmen der sozialen Sicherung der Rentner
@@ -90,12 +90,12 @@ Einholung von Auskünften für die Träger der Rentenversicherung
 § 26
 Aufgaben im Rahmen der Statistik
 § 26a
-
+ 
 Aktualisierung des Rentenbestandes zur Umsetzung von Rechtsänderungen
 § 27
 Sonstige Aufgaben
 Fünftes Kapitel
-
+ 
 Vorschüsse zur Auszahlung von Geldleistungen und Abrechnung
 § 28
 Pflicht zur Zahlung monatlicher Vorschüsse
@@ -106,7 +106,7 @@ Zahlung der Vorschüsse
 § 31
 Abrechnung
 Sechstes Kapitel
-
+ 
 Vergütung
 § 32
 Anspruch auf angemessene Vergütung
@@ -119,7 +119,7 @@ Fälligkeit, Vorschüsse und Abrechnung
 § 36
 (weggefallen)
 Siebtes Kapitel
-
+ 
 Schlußvorschriften
 § 37
 Aufhebung von Vorschriften

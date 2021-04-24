@@ -13,7 +13,7 @@ Inhaltsübersicht
 
 § 1 - Bachelorstudium
 
-Das Bachelorstudium Sozialversicherungsrecht LL. B.“ an der Fachhochschule des Bundes für öffentliche Verwaltung (Fachhochschule) ist der Vorbereitungsdienst für den gehobenen nichttechnischen Dienst des Bundes in der Sozialversicherung.
+Das Bachelorstudium „Sozialversicherungsrecht LL. B.“ an der Fachhochschule des Bundes für öffentliche Verwaltung (Fachhochschule) ist der Vorbereitungsdienst für den gehobenen nichttechnischen Dienst des Bundes in der Sozialversicherung.
 \\
 
 #+BEGIN_EXAMPLE
@@ -183,7 +183,7 @@ Die Bachelorprüfung ist die Laufbahnprüfung. Sie besteht aus
 § 17 - Prüfende
 
 (1) Der Prüfungsausschuss bestellt die Prüfenden für die Modulprüfungen, die Bachelorarbeit und die Verteidigung der Bachelorarbeit. Zu Prüfenden für die Modulprüfungen in den Fachstudien werden Lehrende der Fachhochschule bestellt. Für die Bewertung von Modulprüfungen in den Praktika schlagen die Einstellungsbehörden dem Prüfungsausschuss Prüfende vor. Die Prüfenden müssen mindestens einen Bachelorabschluss oder eine gleichwertige Qualifikation besitzen. Sie sind in ihren Prüfungsentscheidungen unabhängig und nicht weisungsgebunden.
-(2) Für jede Modulprüfung wird eine Prüferin oder ein Prüfer bestellt. Die Prüfenden sollen das zu prüfende Modul gelehrt haben. Mündliche Prüfungsleistungen in den Modulprüfungen werden von zwei Prüfenden bewertet. Ein Referat oder eine Präsentation kann, sofern es sich nicht um eine Wiederholungsprüfung handelt, auch von einer oder einem Prüfenden bewertet werden. Schriftliche Prüfungsleistungen, die mit weniger als fünf Rangpunkten (§ 22 Absatz 1) oder mit nicht bestanden“ bewertet werden, sind von einer oder einem Zweitprüfenden zu bewerten.
+(2) Für jede Modulprüfung wird eine Prüferin oder ein Prüfer bestellt. Die Prüfenden sollen das zu prüfende Modul gelehrt haben. Mündliche Prüfungsleistungen in den Modulprüfungen werden von zwei Prüfenden bewertet. Ein Referat oder eine Präsentation kann, sofern es sich nicht um eine Wiederholungsprüfung handelt, auch von einer oder einem Prüfenden bewertet werden. Schriftliche Prüfungsleistungen, die mit weniger als fünf Rangpunkten (§ 22 Absatz 1) oder mit „nicht bestanden“ bewertet werden, sind von einer oder einem Zweitprüfenden zu bewerten.
 (3) Für die Bewertung der Bachelorarbeit und der Verteidigung der Bachelorarbeit bestellt der Prüfungsausschuss mit der Vergabe des Bachelorthemas zwei Prüfende, wobei
 
 - 1. :: mindestens eine oder einer Lehrende oder Lehrender der Fachhochschule sein muss und
@@ -202,7 +202,7 @@ In begründeten Fällen kann der Prüfungsausschuss zwei Angehörige des gehoben
 § 18 - Prüfungsgrundsätze
 
 (1) Die zu prüfenden Studieninhalte sind durch das Modulhandbuch in der jeweils geltenden Fassung festgelegt.
-(2) Eine Prüfung ist bestanden, wenn sie mit mindestens fünf Rangpunkten bewertet worden ist. Die Prüfungen in den Wahlpflichtmodulen werden nur mit bestanden“ oder nicht bestanden“ bewertet.
+(2) Eine Prüfung ist bestanden, wenn sie mit mindestens fünf Rangpunkten bewertet worden ist. Die Prüfungen in den Wahlpflichtmodulen werden nur mit „bestanden“ oder „nicht bestanden“ bewertet.
 (3) Bei der Bewertung von Prüfungsleistungen ist neben der fachlichen Leistung auch die Gliederung und Klarheit der Leistung zu berücksichtigen. Einzelheiten zu den Anforderungen und dem Umfang der Prüfung sowie die Bewertungskriterien werden in einer Richtlinie des Prüfungsausschusses näher bestimmt.
 (4) Gegenstand, wesentlicher Verlauf und Ergebnis einer mündlichen Prüfung werden protokolliert. Das Protokoll ist von den Prüfenden zu unterzeichnen.
 (5) Die Prüfungsergebnisse werden durch schriftlichen Bescheid bekannt gegeben.
@@ -305,7 +305,7 @@ eine Leistung, die den Anforderungen in besonderem Maße entspricht
 \\
 13
 gut
-eine Leistung, die den Anforderungen voll entspricht
+eine Leistung, die den Anforderungen voll entspricht 
 \\
  83,39 bis 79,20\\
 \\
@@ -448,7 +448,7 @@ Unterschreitet die erreichte Punktzahl die Mindestpunktzahl, werden die Rangpunk
 
 § 24 - Fernbleiben, Rücktritt
 
-(1) Bleiben Studierende ohne Genehmigung durch den Prüfungsausschuss einer Prüfung oder einem Prüfungsteil fern oder treten Studierende ohne Genehmigung durch den Prüfungsausschuss von einer Prüfung oder einem Prüfungsteil zurück, gilt die Prüfung oder der Prüfungsteil als mit null Rangpunkten oder mit nicht bestanden“ bewertet.
+(1) Bleiben Studierende ohne Genehmigung durch den Prüfungsausschuss einer Prüfung oder einem Prüfungsteil fern oder treten Studierende ohne Genehmigung durch den Prüfungsausschuss von einer Prüfung oder einem Prüfungsteil zurück, gilt die Prüfung oder der Prüfungsteil als mit null Rangpunkten oder mit „nicht bestanden“ bewertet.
 (2) Bei genehmigtem Fernbleiben oder Rücktritt gilt die Prüfung oder der Prüfungsteil als nicht begonnen. Eine Genehmigung darf nur erteilt werden, wenn ein wichtiger Grund vorliegt. Bei Erkrankung der oder des Studierenden soll die Genehmigung nur erteilt werden, wenn unverzüglich ein ärztliches Attest vorgelegt wird. Auf Verlangen des Prüfungsausschusses ist ein amtsärztliches Attest oder das Attest einer Ärztin oder eines Arztes vorzulegen, die oder der von der Einstellungsbehörde beauftragt worden ist.
 (3) Dauert das genehmigte Fernbleiben nicht länger als die Hälfte der Bearbeitungszeit der Bachelorarbeit oder einer anderen Prüfungsleistung mit mindestens zweitägiger Bearbeitungszeit, so verlängert der Prüfungsausschuss die Bearbeitungszeit auf Antrag der oder des Studierenden entsprechend. Dauert das genehmigte Fernbleiben länger als die Hälfte der Bearbeitungszeit oder treten Studierende mit Genehmigung zurück, gilt die Prüfung als nicht begonnen. Der Prüfungsausschuss bestimmt, zu welchem Zeitpunkt die Prüfung oder die Bachelorarbeit nachgeholt werden. Für die Bachelorarbeit wird ein anderes Thema nach § 20 Absatz 3 bestimmt.
 \\
@@ -501,7 +501,7 @@ Fühlt sich die oder der Studierende während einer Prüfung durch äußere Einw
 (1) Die Bachelorprüfung ist bestanden, wenn
 
 - 1. :: die Modulprüfungen der Pflichtmodule bestanden sind,
-- 2. :: die Modulprüfungen der Wahlpflichtmodule mit bestanden“ bewertet worden sind,
+- 2. :: die Modulprüfungen der Wahlpflichtmodule mit „bestanden“ bewertet worden sind,
 - 3. :: die Bachelorarbeit bestanden ist und
 - 4. :: die Verteidigung der Bachelorarbeit bestanden ist.
 
@@ -538,10 +538,10 @@ Die erworbenen Rangpunkte der Modulprüfungen in den Fachstudien und in den Prak
 - 3. :: das Thema und die Note der Bachelorarbeit, die erworbenen ECTS-Leistungspunkte sowie die erworbenen Rangpunkte,
 - 4. :: die Gewichtung der einzelnen Prüfungsergebnisse nach § 28 Absatz 2 Satz 1.
 
-(3) Die Bachelorurkunde enthält neben der Angabe des Studiengangs den verliehenen akademischen Grad Bachelor of Laws (LL.B.)“.
+(3) Die Bachelorurkunde enthält neben der Angabe des Studiengangs den verliehenen akademischen Grad „Bachelor of Laws (LL.B.)“.
 (4) Das Diploma Supplement wird in deutscher und in englischer Sprache ausgestellt. Es enthält:
 
-- 1. :: die Angabe des Abschlusses Sozialversicherungsrecht LL.B.“,
+- 1. :: die Angabe des Abschlusses „Sozialversicherungsrecht LL.B.“,
 - 2. :: die Bezeichnungen der abgeschlossenen Module und die in den einzelnen Modulen erworbenen ECTS-Leistungspunkte sowie
 - 3. :: die relative Note nach der studiengangbezogenen ECTS-Einstufungstabelle.
 

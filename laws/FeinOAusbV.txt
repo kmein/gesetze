@@ -211,25 +211,25 @@ Planen und Steuern von Arbeitsabläufen; Kontrollieren und Beurteilen von Ergebn
 
 3*)
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 - e) :: Bearbeitungsmaschinen und technische Einrichtungen betriebsbereit machen und überprüfen sowie Maßnahmen zur Fehlerbeseitigung ergreifen
 - f) :: Arbeitsschritte unter Berücksichtigung funktionaler, konstruktiver, fertigungstechnischer und wirtschaftlicher Gesichtspunkte festlegen
 - g) :: Arbeitsergebnisse zusammenführen, erbrachte Leistungen kontrollieren und anhand von Vorgaben bewerten sowie dokumentieren
 
+ 
 
+ 
 
-
-
-
+ 
 
 3*)
 
@@ -244,43 +244,43 @@ Betriebliche und technische Kommunikation\\
 
 4*)
 
+ 
 
+ 
 
-
-
-
+ 
 
 - d) :: Informationen beschaffen und auswerten, Informations- und Kommunikationstechniken nutzen; Daten sichern und schützen
 - e) :: deutsche und fremdsprachliche Fachausdrücke anwenden
 - f) :: technische Unterlagen, insbesondere Reparatur- und Betriebsanleitungen, Kataloge, Tabellen und Diagramme, anwenden
 
-
+ 
 
 2*)
 
+ 
 
-
-
+ 
 
 - g) :: Versuche und Arbeitsabläufe protokollieren sowie Arbeitspläne erstellen und anwenden
 
+ 
 
-
-
+ 
 
 2*)
 
-
+ 
 
 - h) :: mit anderen Funktionsbereichen des Betriebes zusammenarbeiten, betriebliche Kommunikation nutzen und bei Entscheidungsprozessen mitwirken
 - i) :: Aufgaben im Team planen und umsetzen, Ergebnisse abstimmen und auswerten
 - k) :: branchenübliche Standardsoftware anwenden
 
+ 
 
+ 
 
-
-
-
+ 
 
 4*)
 
@@ -293,31 +293,31 @@ Qualitätsmanagement\\
 
 2*)
 
+ 
 
+ 
 
-
-
-
+ 
 
 - b) :: tätigkeitsbezogene Elemente des Qualitätsmanagementsystems des Betriebes anwenden
 
+ 
 
-
-
+ 
 
 2*)
 
-
+ 
 
 - c) :: Prüfergebnisse auswerten und qualitätssichernde statistische Verfahren anwenden
 - d) :: Ursachen von Fehlern und Qualitätsmängeln systematisch suchen, beseitigen und dokumentieren
 - e) :: Methoden und Instrumente des Qualitätsmanagements zur kontinuierlichen Verbesserung im eigenen Arbeitsbereich anwenden
 
+ 
 
+ 
 
-
-
-
+ 
 
 4*)
 
@@ -333,21 +333,21 @@ Bereitstellen von Werkzeugen sowie von Werk-, Betriebs- und Hilfsstoffen\\
 
 4
 
+ 
 
+ 
 
-
-
-
+ 
 
 - e) :: Waren annehmen und anhand von Begleitpapieren auf Richtigkeit, Art, Menge, Beschaffenheit und Absender prüfen sowie Wareneingangsdaten erfassen
 
-
+ 
 
 2
 
+ 
 
-
-
+ 
 
 9
 
@@ -359,20 +359,20 @@ Warten und Pflegen von Betriebsmitteln\\
 
 3*)
 
+ 
 
+ 
 
-
-
-
+ 
 
 - c) :: Betriebsbereitschaft der Produktionsanlagen sicherstellen, Verschleißteile austauschen und den Austausch veranlassen
 - d) :: Maschinen und technische Einrichtungen nach Wartungs- und Inspektionsplänen, insbesondere unter Berücksichtigung von Prüfwerten, von Betriebs- und Hilfsstoffen sowie der Wartungshäufigkeit, warten
 
+ 
 
+ 
 
-
-
-
+ 
 
 3*)
 
@@ -386,41 +386,41 @@ Messen und Prüfen, Endkontrolle\\
 
 6*)
 
+ 
 
+ 
 
-
-
-
+ 
 
 - c) :: optische Bauelemente auf Eigenschaften und Abweichungen, insbesondere auf Oberflächenfehler und Werkstofffehler, prüfen
 
-
+ 
 
 4*)
 
+ 
 
-
-
+ 
 
 - d) :: Funktion von Baugruppen prüfen, Messprotokolle erstellen und auswerten
 
+ 
 
-
-
+ 
 
 2*)
 
-
+ 
 
 - e) :: Korrekturen durchführen und veranlassen
 - f) :: Endkontrolle durchführen und Messprotokolle auswerten und dokumentieren
 - g) :: Produkte zusammenstellen und verpacken
 
+ 
 
+ 
 
-
-
-
+ 
 
 5*)
 
@@ -433,11 +433,11 @@ Grundlagen der Metallbearbeitung\\
 
 4
 
+ 
 
+ 
 
-
-
-
+ 
 
 - b) :: Außen- und Innengewinde unter Beachtung der Werkstoffeigenschaften schneiden
 - c) :: Werkstücke nach Anriss mit Handsäge trennen
@@ -446,13 +446,13 @@ Grundlagen der Metallbearbeitung\\
 - f) :: Werkstücke durch Drehen sowie Stirn-, Umfangs- und Planfräsen bearbeiten
 - g) :: Werkstücke unter Beachtung der Verarbeitungsrichtlinien kleben und verstiften, Schraubverbindungen herstellen
 
-
+ 
 
 4
 
+ 
 
-
-
+ 
 
 12
 
@@ -466,41 +466,41 @@ Fügen\\
 
 4
 
+ 
 
+ 
 
-
-
-
+ 
 
 - e) :: optische Bauelemente schutzlackieren
 
-
+ 
 
 2
 
+ 
 
-
-
+ 
 
 - f) :: Bauteile und Vorrichtungen vorbereiten und verkleben
 - g) :: Klebeverbindungen lösen
 
+ 
 
-
-
+ 
 
 4
 
-
+ 
 
 - h) :: Arbeitsplatz, Bauteile und Vorrichtungen vorbereiten und Bauteile feinkitten
 - i) :: Bauteile und Ansprengkörper vorbereiten und durch Adhäsion verbinden, Verbindungen lösen
 
+ 
 
+ 
 
-
-
-
+ 
 
 5
 
@@ -515,22 +515,22 @@ Reinigen von optischen Bauelementen und Baugruppen\\
 
 3*)
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 - d) :: Reinigungsbäder nach betrieblichen Vorschriften ansetzen und prüfen, Reinigungsmittel einer umweltgerechten Entsorgung zuführen
 - e) :: Hilfsmittel vor Bestückung der Reinigungsanlage auswählen, Reinigungsanlage bestücken und bedienen
 
+ 
 
+ 
 
-
-
-
+ 
 
 3*)
 
@@ -548,11 +548,11 @@ manuelles Bearbeiten
 
 17
 
+ 
 
+ 
 
-
-
-
+ 
 
 maschinelles Bearbeiten
 
@@ -561,31 +561,31 @@ maschinelles Bearbeiten
 - g) :: Läppmittel und Werkzeuge auswählen, Bearbeitungszeiten festlegen sowie Maschinenwerte dem jeweiligen Verwendungszweck zuordnen und einstellen
 - h) :: Polierwerkzeuge unter Berücksichtigung der geometrischen und fertigungstechnischen Anforderungen auswählen, Poliermittelträger und Poliermittel dem Fertigungsprozess zuordnen und anwenden; Poliermittelträger herstellen und abrichten sowie Bewegungsabläufe an den Poliermaschinen einstellen und optimieren
 
-
+ 
 
 6
 
+ 
 
-
-
+ 
 
 - i) :: Programme für numerisch gesteuerte Fertigungsmaschinen erstellen, aufrufen und anwenden sowie Korrekturwerte eingeben, Bauelemente herstellen
 
+ 
 
-
-
+ 
 
 16
 
-
+ 
 
 - k) :: Zentrierglocken herrichten, Spann- und Ausrichtverfahren auswählen und optische Bauelemente ausrichten sowie Linsen zentrierschleifen
 
+ 
 
+ 
 
-
-
-
+ 
 
 3
 
@@ -599,13 +599,13 @@ Oberflächenveredelung\\
 - c) :: Beschichtungsanlagen prozessbezogen vorbereiten, bestücken und bedienen
 - d) :: Oberflächen nach der Beschichtung auf Festigkeit, Reflexion und Transmission prüfen
 
+ 
 
-
-
+ 
 
 6
 
-
+ 
 
 16
 
@@ -619,11 +619,11 @@ Montieren und Justieren von optischen und feinmechanischen Bauteilen zu Baugrupp
 - e) :: voneinander abhängige Einzelfunktionen während des Montagevorganges prüfen
 - f) :: Baugruppen in eingebautem Zustand auf Funktion prüfen und Ergebnisse dokumentieren
 
+ 
 
+ 
 
-
-
-
+ 
 
 6
 
@@ -637,32 +637,32 @@ Bedienen der Produktionsanlagen, Überwachen des Produktionsablaufes\\
 
 2
 
+ 
 
+ 
 
-
-
-
+ 
 
 - c) :: Produktionsprozesse und Funktionsmerkmale unter Berücksichtigung der Qualitätsanforderungen überwachen, ändern und dokumentieren
 - d) :: Programmabläufe von Anlagen überwachen
 
-
+ 
 
 6
 
+ 
 
-
-
+ 
 
 - e) :: mechanische und elektrische Sicherheitsvorrichtungen und Meldesysteme auf ihre Wirksamkeit prüfen
 - f) :: Produktionsprozesse und Funktionsmerkmale nach Vorgabe überwachen und ändern
 - g) :: Störungen an Produktionsanlagen feststellen, eingrenzen und beheben sowie deren Behebung veranlassen
 
+ 
 
+ 
 
-
-
-
+ 
 
 8
 
@@ -675,11 +675,11 @@ Aufbauen und Prüfen von pneumatischen Steuerungen\\
 - b) :: pneumatische Schaltungen nach Schaltplänen aufbauen und prüfen
 - c) :: Druck in pneumatischen Systemen messen, einstellen und kontrollieren
 
+ 
 
+ 
 
-
-
-
+ 
 
 3
 
@@ -692,11 +692,11 @@ Herstellen von Einzel- und Serienteilen\\
 - b) :: Prozessparameter ermitteln, einstellen und optimieren
 - c) :: Einzel- und Serienteile durch konventionelle und numerische Bearbeitungsverfahren herstellen
 
+ 
 
+ 
 
-
-
-
+ 
 
 21
 
@@ -710,11 +710,11 @@ Kundenorientiertes Handeln\\
 - c) :: Wartungs- und Pflegehinweise erläutern
 - d) :: Auswirkungen der Kundenzufriedenheit auf das Betriebsergebnis darstellen
 
+ 
 
+ 
 
-
-
-
+ 
 
 4*)
 

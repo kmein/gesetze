@@ -6,13 +6,13 @@ Ausfertigungsdatum: 30.06.2017
 
 Inhaltsverzeichnis
 
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 § 1 - Erfordernis und Inhalt der Fahrlehrerlaubnis
 
@@ -85,8 +85,8 @@ Unzuverlässig im Sinne des Satzes 1 Nummer 4 ist der Bewerber insbesondere dann
 
 - 1. :: einem für die Fragestellung zuständigen Facharzt mit verkehrsmedizinischer Qualifikation,
 - 2. :: einem Arzt des Gesundheitsamtes oder einem anderen Arzt der öffentlichen Verwaltung,
-- 3. :: einem Arzt mit der Gebietsbezeichnung Arbeitsmedizin“ oder der Zusatzbezeichnung Betriebsmedizin“,
-- 4. :: einem Arzt mit der Gebietsbezeichnung Facharzt für Rechtsmedizin“ oder
+- 3. :: einem Arzt mit der Gebietsbezeichnung „Arbeitsmedizin“ oder der Zusatzbezeichnung „Betriebsmedizin“,
+- 4. :: einem Arzt mit der Gebietsbezeichnung „Facharzt für Rechtsmedizin“ oder
 - 5. :: einem Arzt in einer Begutachtungsstelle für Fahreignung, der die Anforderungen nach Anlage 14 der Fahrerlaubnis-Verordnung erfüllt,
 
 erstellt werden soll. Die Behörde kann auch mehrere solcher Anordnungen treffen. Der Facharzt nach Satz 2 Nummer 1 soll nicht zugleich der den Bewerber behandelnde Arzt sein.

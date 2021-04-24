@@ -7,7 +7,7 @@ Ausfertigungsdatum: 07.05.1956
 Inhaltsübersicht
 
 Erster Abschnitt
-
+ 
 Wahlsystem (§§ 1 bis 7)
 § 1
 Zusammensetzung des Deutschen Bundestages und Wahlrechtsgrundsätze
@@ -24,7 +24,7 @@ Wahl nach Landeslisten
 § 7
 (weggefallen)
 Zweiter Abschnitt
-
+ 
 Wahlorgane (§§ 8 bis 11)
 § 8
 Gliederung der Wahlorgane
@@ -35,7 +35,7 @@ Tätigkeit der Wahlausschüsse und Wahlvorstände
 § 11
 Ehrenämter
 Dritter Abschnitt
-
+ 
 Wahlrecht und Wählbarkeit (§§ 12 bis 15)
 § 12
 Wahlrecht
@@ -46,7 +46,7 @@ Ausübung des Wahlrechts
 § 15
 Wählbarkeit
 Vierter Abschnitt
-
+ 
 Vorbereitung der Wahl (§§ 16 bis 30)
 § 16
 Wahltag
@@ -79,7 +79,7 @@ Zulassung der Landeslisten
 § 30
 Stimmzettel
 Fünfter Abschnitt
-
+ 
 Wahlhandlung (§§ 31 bis 36)
 § 31
 Öffentlichkeit der Wahlhandlung
@@ -94,7 +94,7 @@ Stimmabgabe mit Wahlgeräten
 § 36
 Briefwahl
 Sechster Abschnitt
-
+ 
 Feststellung des Wahlergebnisses (§§ 37 bis 42)
 § 37
 Feststellung des Wahlergebnisses im Wahlbezirk
@@ -109,14 +109,14 @@ Feststellung des Wahlergebnisses im Wahlkreis
 § 42
 Feststellung des Ergebnisses der Landeslistenwahl
 Siebenter Abschnitt
-
+ 
 Besondere Vorschriften für Nachwahlen und Wiederholungswahlen (§§ 43 bis 44)
 § 43
 Nachwahl
 § 44
 Wiederholungswahl
 Achter Abschnitt
-
+ 
 Erwerb und Verlust der Mitgliedschaft im Deutschen Bundestag (§§ 45 bis 48)
 § 45
 Erwerb der Mitgliedschaft im Deutschen Bundestag
@@ -127,7 +127,7 @@ Entscheidung über den Verlust der Mitgliedschaft
 § 48
 Berufung von Listennachfolgern und Ersatzwahlen
 Neunter Abschnitt
-
+ 
 Schlußbestimmungen (§§ 49 bis 55)
 § 49
 Anfechtung
@@ -148,10 +148,10 @@ Fristen, Termine und Form
 § 55
 Reformkommission
 Anlage 1
-
+ 
 (zu § 50 Absatz 3 Satz 3)
 Anlage 2
-
+ 
 (zu § 2 Absatz 2)
 
 § 1 - Zusammensetzung des Deutschen Bundestages und Wahlrechtsgrundsätze

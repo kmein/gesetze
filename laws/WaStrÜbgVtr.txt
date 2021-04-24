@@ -147,9 +147,9 @@ Fundstelle des Originaltextes: BGBl. Teil III 94, S. 40 - 47
 Lfd. Nr.
 Bezeichnung der Wasserstraße
 Endpunkte der Wasserstraße
-
+ 
 I. Preußen
-
+ 
 a) natürliche Wasserstraßen
 1
 Alle
@@ -258,8 +258,8 @@ mit Tegeler See, Glindowsee, Wublitz nebst Schlänitzsee
 Abschlußdamm bei Ütz
 Havel
 Pritzerber See.
-
-
+ 
+ 
 24
 Hotzenplotz
 Mühle bei Krappitz
@@ -549,25 +549,25 @@ Zechliner Gewässer
 Schwarzer See
 Rheinsberger Gewässer
 (Schwarzer See, Zechliner Kanal, Großer Zechliner See, Repenter Kanal, Zootzensee und -kanal).
-
+ 
 b) Künstliche Wasserstraßen
 89
 Berliner Kanäle:
-
-
-
+ 
+ 
+ 
 Landwehrkanal
 Spree
 Spree
-
+ 
 Luisenstädtischer Kanal
 Landwehrkanal
 Spree
-
+ 
 Berlin-Spandauer Schiffahrt-kanal
 Spree
 Berlin-Charlottenburger Verbindungskanal
-
+ 
 Berlin-Charlottenburger Verbindungskanal
 Spree
 Berlin-Spandauer Schiffahrtkanal
@@ -620,18 +620,18 @@ Oder bei Cosel
 Lippe-Seitenkanal
 Lippstadt
 Rhein bei Wesel
-
+ 
 (in Ausführung).
-
-
+ 
+ 
 101
 Masurischer Kanal
 Mauersee
 Alle
-
+ 
 (in Ausführung).
-
-
+ 
+ 
 102
 Neuhauser Speisekanal
 Obere Spree
@@ -649,7 +649,7 @@ Emsfluß
 Plauer Kanal
 Wendsee
 Elbe
-
+ 
 mit Baggerelbe
 Kupierung bei Derben
 Plauer Kanal
@@ -696,12 +696,12 @@ Havel
 Werbellinkanal
 Werbellinsee
 Hohenzollern-kanal
-
+ 
 II. Bayern
 116
 Rhein
 Die bayerische Strecke längs der Pfalz
-
+ 
 117
 Main
 Bamberg
@@ -715,19 +715,19 @@ Ludwigs-Donau-Main-Kanal
 Bamberg
 Kelheim
 mit den dazugehörigen Teilen der Regnitz und der Altmühl.
-
+ 
 III. Sachsen
 120
 Elbe
 Reichsgrenze
 Landesgrenze
-
+ 
 IV. Württemberg
 121
 Neckar
 Plochingen
 Landesgrenze
-
+ 
 V. Baden
 122
 Rhein
@@ -740,39 +740,39 @@ Rhein
 124
 Main
 Strecke längs der Landesgrenze
-
-
+ 
+ 
 VI. Hessen
 125
 Rhein
 Die zum Lande gehörige Strecke
-
+ 
 126
 Main
 Desgleichen
-
+ 
 127
 Neckar
 Desgleichen
-
+ 
 128
 Lahn (siehe Bemerkung am Schluß)
 Gießen
 Landesgrenze
-
+ 
 VII. Hamburg
 129
 Elbe
 Die zum Lande gehörigen Stromteile von Geesthacht bis zur Mündung
-
+ 
 (mit der Norderelbe, Süderelbe, dem Reiherstieg, dem Köhlbrand und der alten Süderelbe).
-
-
+ 
+ 
 VIII. Mecklenburg-Schwerin
 130
 Elbe
 Teilstrecken bei Dömitz und Boitzenburg
-
+ 
 131
 Warnow
 Güstrow
@@ -791,43 +791,43 @@ Malchin
 Landesgrenze
 135
 Mecklenburgische Oberseen einschließlich des Eldearmes Buchholzer Mühle
-
-
-
+ 
+ 
+ 
 IX. Braunschweig
 136
 Weser
 Die zum Lande gehörigen Strecken
-
-
+ 
+ 
 X. Oldenburg
 137
 Weser
 Längs der Landesgrenze
-
+ 
 (Außenweser und Unterweser mit den Nebenarmen).
-
+ 
 138
 Hunte
 Oldenburg
 Weser
-
+ 
 (mit Nebenarmen).
 139
 Ems-Hunte-Kanal
 Landesgrenze
 Hunte bei Oldenburg
-
+ 
 XI. Anhalt
 140
 Elbe
 Die zum Lande gehörige Strecke
-
+ 
 141
 Saale
 Desgleichen
-
-
+ 
+ 
 XII. Bremen
 142
 Weser, Große
@@ -837,28 +837,28 @@ Oldenburgische und preußische Grenze bei Vegesack
 143
 Lesum
 Die zu Bremen gehörige Flußhälfte
-
+ 
 144
 Wümme
 Desgleichen
-
+ 
 145
 Ochtum, Mündungsstrecke
 km 14,25 der Flußstationierung
 Landesgrenze
-
+ 
 XIII. Lippe
 146
 Weser
 Die linksseitige Stromhälfte längs der Landesgrenze
-
-
+ 
+ 
 XIV. Lübeck
 147
 Elbe-Trave-Kanal
 Landesgrenze
 Geniner Brücke
-
+ 
 XV. Mecklenburg-Strelitz
 148
 Havel
@@ -869,7 +869,7 @@ Kammerkanal
 Neustrelitz
 Havelwasserstraße
 (einschließlich Havel von der Woblitz bis zum Labussee).
-
+ 
 Bemerkung zu lfd. Nr. 17, 30, 61, 65, 83 und 128.
 Die Fulda oberhalb Cassel, die Lahn, die Ruhr oberhalb Mülheim, die Saar und die Werra werden nicht im Verfolg des Artikels 97 der Reichsverfassung, sondern auf Grund besonderer Vereinbarung auf das Reich übernommen.
 
@@ -974,7 +974,7 @@ Warnowregulierung zwischen Rostock und Bützow nebst Vertiefung des Bützow-Güs
 2.
 Verbesserungsarbeiten auf Strecken der Eldewasserstraße zwischen Parchim und Dömitz sowie der Störwasserstraße.
 J. Braunschweig
-
+ 
 Regulierung der mit Preußen gemeinschaftlichen Weserstrecke bei Corvey.
 H. Oldenburg
 1.
@@ -990,5 +990,5 @@ Bei der Außenweser die Fortsetzung der Vertiefungsarbeiten von Bremerhaven nach
 N. Lippe
 O. Lübeck
 P. Mecklenburg-Strelitz
-
+ 
 Ausbau des Kammerkanals von Neustrelitz bis Priepert.

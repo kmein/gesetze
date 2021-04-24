@@ -227,7 +227,7 @@ x
 
 x
 
-
+ 
 
 3
 
@@ -241,17 +241,17 @@ x
 
 x
 
-
+ 
 
 4
 
 Grundfertigkeiten der Metallbe- und -verarbeitung (§ 3 Abs. 1 Nr. 4)
 
+ 
 
+ 
 
-
-
-
+ 
 
 26
 
@@ -269,9 +269,9 @@ Messen und Prüfen (§ 3 Abs. 1 Nr. 4 Buchstabe a)
 
 x
 
+ 
 
-
-
+ 
 
 4.2
 
@@ -287,9 +287,9 @@ Anreißen, Körnen, Kennzeichnen (§ 3 Abs. 1 Nr. 4 Buchstabe b)
 
 x
 
+ 
 
-
-
+ 
 
 4.3
 
@@ -305,9 +305,9 @@ Meißeln, Sägen, Feilen (§ 3 Abs. 1 Nr. 4 Buchstabe c)
 
 x
 
+ 
 
-
-
+ 
 
 4.4
 
@@ -321,9 +321,9 @@ Schneiden, Biegen und Richten (§ 3 Abs. 1 Nr. 4 Buchstabe d)
 
 x
 
+ 
 
-
-
+ 
 
 4.5
 
@@ -338,9 +338,9 @@ Bohren, Senken und Gewindeschneiden (§ 3 Abs. 1 Nr. 4 Buchstabe e)
 
 x
 
+ 
 
-
-
+ 
 
 4.6
 
@@ -355,19 +355,19 @@ Fügen (§ 3 Abs. 1 Nr. 4 Buchstabe f)
 
 x
 
+ 
 
-
-
+ 
 
 5
 
 Bergmännische Grundfertigkeiten (§ 3 Abs. 1 Nr. 5)
 
+ 
 
+ 
 
-
-
-
+ 
 
 26
 
@@ -381,9 +381,9 @@ Verarbeiten von Baustoffen (§ 3 Abs. 1 Nr. 5 Buchstabe a)
 
 x
 
+ 
 
-
-
+ 
 
 5.2
 
@@ -396,9 +396,9 @@ Bearbeiten und Fügen von Holz (§ 3 Abs. 1 Nr. 5 Buchstabe b)
 
 x
 
+ 
 
-
-
+ 
 
 5.3
 
@@ -409,9 +409,9 @@ Sichern und Herrichten des Arbeitsplatzes (§ 3 Abs. 1 Nr. 5 Buchstabe c)
 
 x
 
+ 
 
-
-
+ 
 
 5.4
 
@@ -423,9 +423,9 @@ Einbringen von Ausbau (§ 3 Abs. 1 Nr. 5 Buchstabe d)
 
 x
 
+ 
 
-
-
+ 
 
 5.5
 
@@ -436,9 +436,9 @@ Geben von Signalen und Erstatten von Meldungen (§ 3 Abs. 1 Nr. 5 Buchstabe e)
 
 x
 
+ 
 
-
-
+ 
 
 5.6
 
@@ -450,9 +450,9 @@ Umgehen mit Einrichtungen der Wetterführung (§ 3 Abs. 1 Nr. 5 Buchstabe f)
 
 x
 
+ 
 
-
-
+ 
 
 5.7
 
@@ -464,9 +464,9 @@ Fördern und Transportieren (§ 3 Abs. 1 Nr. 5 Buchstabe g)
 
 x
 
+ 
 
-
-
+ 
 
 5.8
 
@@ -478,19 +478,19 @@ Handhaben von Grubensicherheitseinrichtungen (§ 3 Abs. 1 Nr. 5 Buchstabe h)
 
 x
 
+ 
 
-
-
+ 
 
 6
 
 Maschinentechnische Grundfertigkeiten (§ 3 Abs. 1 Nr. 6)
 
+ 
 
+ 
 
-
-
-
+ 
 
 18
 
@@ -504,11 +504,11 @@ Umgehen mit Hebezeugen (§ 3 Abs. 1 Nr. 6 Buchstabe a)
 - d) :: Hebezeuge pflegen
 - e) :: Sicherheitsvorschriften beim Umgehen mit Hebezeugen beachten
 
-
+ 
 
 x
 
-
+ 
 
 6.2
 
@@ -518,11 +518,11 @@ Umgehen mit Fördermitteln (§ 3 Abs. 1 Nr. 6 Buchstabe b)
 - b) :: Sicherheitsvorschriften beim Umgehen mit Fördermitteln beachten
 - c) :: Fördermittel montieren und demontieren
 
-
+ 
 
 x
 
-
+ 
 
 6.3
 
@@ -532,11 +532,11 @@ Umgehen mit Transporteinrichtungen (§ 3 Abs. 1 Nr. 6 Buchstabe c)
 - b) :: Sicherheitsvorschriften beim Umgehen mit Transporteinrichtungen beachten
 - c) :: Transporteinrichtungen montieren und demontieren
 
-
+ 
 
 x
 
-
+ 
 
 6.4
 
@@ -548,13 +548,13 @@ Umgehen mit elektrischen Anlagen (§ 3 Abs. 1 Nr. 6 Buchstabe d)
 - d) :: Beschädigungen an elektrischen Betriebsmitteln feststellen und melden
 - e) :: Sicherheitsvorschriften beim Umgehen mit elektrischen Anlagen nennen und beachten
 
-
+ 
 
 x
 
+ 
 
-
-
+ 
 
 II. Fertigkeiten und Kenntnisse in der Fachrichtung Vortrieb und Gewinnung:
 
@@ -570,7 +570,7 @@ Bohren in Mineral und Nebengestein (§ 3 Abs. 2 Nr. 1 Buchstabe a)
 - f) :: beim Vorbereiten der Sprengarbeit helfen
 - g) :: die Sicherheitsvorschriften bei der Sprengarbeit beachten
 
-
+ 
 
 x
 
@@ -588,11 +588,11 @@ Gewinnen, Lösen, Laden und Abfördern von Mineral und Nebengestein (§ 3 Abs. 2
 - f) :: Mineral und Nebengestein mit Fördermitteln und Transportanlagen abfördern
 - g) :: Fördermittel rücken, verlängern, verkürzen und warten
 
-
+ 
 
 x
 
-
+ 
 
 3
 
@@ -607,7 +607,7 @@ Ausbauen (§ 3 Abs. 2 Nr. 1 Buchstabe c)
 - g) :: Streckenausbau verstärken
 - h) :: Arbeitsbühne errichten
 
-
+ 
 
 x
 
@@ -623,11 +623,11 @@ Unterhalten von Grubenbauen (§ 3 Abs. 2 Nr. 1 Buchstabe d)
 - d) :: Vorpfändung einbringen
 - e) :: Ausbau einbringen
 
-
+ 
 
 x
 
-
+ 
 
 5
 
@@ -635,13 +635,13 @@ Umgehen mit Einrichtungen der Wetterführung (§ 3 Abs. 2 Nr. 1 Buchstabe e)
 
 Einrichtungen der Wetterführung einbauen und warten
 
-
+ 
 
 x
 
+ 
 
-
-
+ 
 
 III. Fertigkeiten und Kenntnisse in der Fachrichtung Transport und Instandhaltung:
 
@@ -656,7 +656,7 @@ Transportieren (§ 3 Abs. 2 Nr. 2 Buchstabe a)
 - e) :: Sicherheitsvorschriften für den Transport sperriger und schwerer Güter beachten
 - f) :: Mängel und Schäden am Transportgut und Transportweg feststellen und melden
 
-
+ 
 
 x
 
@@ -671,11 +671,11 @@ Montieren, Demontieren und Instandhalten von Transporteinrichtungen (§ 3 Abs. 2
 - c) :: Sicherheitsvorschriften für die Reparatur von Transporteinrichtungen beachten
 - d) :: Mängel und Schäden an Transporteinrichtungen feststellen, beseitigen und melden
 
-
+ 
 
 x
 
-
+ 
 
 3
 
@@ -686,7 +686,7 @@ Montieren, Demontieren und Instandhalten von Fördereinrichtungen (§ 3 Abs. 2 N
 - c) :: Sicherheitsvorschriften für die Reparatur an Fördereinrichtungen beachten
 - d) :: Mängel und Schäden an Fördereinrichtungen feststellen, beseitigen und melden
 
-
+ 
 
 x
 
@@ -703,11 +703,11 @@ Instandhalten von Rohr- und Schlauchleitungen (§ 3 Abs. 2 Nr. 2 Buchstabe d)
 - e) :: Mängel und Schäden an Rohr- und Schlauchleitungen und Armaturen feststellen, beseitigen und melden
 - f) :: Sicherheitsvorschriften für die Reparatur von Rohr- und Schlauchleitungen beachten
 
-
+ 
 
 x
 
-
+ 
 
 
 Anhang EV - Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III  (BGBl. II 1990, 889, 1135)

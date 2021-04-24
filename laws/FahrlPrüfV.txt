@@ -6,8 +6,8 @@ Ausfertigungsdatum: 02.01.2018
 
 Inhaltsverzeichnis
 
-
-
+ 
+ 
 
 § 1 - Errichtung
 
@@ -146,15 +146,15 @@ In den Prüfungen und Lehrproben hat der Fahrlehreranwärter oder der Bewerber u
 
 (1) Im schriftlichen Teil der Prüfung hat der Fahrlehreranwärter oder Bewerber seine fachlichen sowie pädagogisch-psychologischen und verkehrspädagogischen Kompetenzen nachzuweisen. Der Fahrlehreranwärter um die Fahrlehrerlaubnisklasse BE hat innerhalb von fünf Zeitstunden
 
-- a) :: je eine Aufgabe aus den Kompetenzbereichen Verkehrsverhalten“, Recht“, Technik“, Unterrichten, Ausbilden und Weiterbilden“ und
-- b) :: eine Aufgabe aus den Kompetenzbereichen Erziehen“ oder Beurteilen“
+- a) :: je eine Aufgabe aus den Kompetenzbereichen „Verkehrsverhalten“, „Recht“, „Technik“, „Unterrichten, Ausbilden und Weiterbilden“ und
+- b) :: eine Aufgabe aus den Kompetenzbereichen „Erziehen“ oder „Beurteilen“
 
 zu bearbeiten.
 
 (2) Bei Erweiterungsprüfungen hat der Bewerber um die Fahrlehrerlaubnisklassen A, CE und DE innerhalb von zweieinhalb Zeitstunden
 
-- a) :: eine Aufgabe aus den Kompetenzbereichen Verkehrsverhalten“ oder Recht“ und
-- b) :: eine Aufgabe aus den Kompetenzbereichen Technik“, Erziehen“, Unterrichten, Ausbilden und Weiterbilden“ oder Beurteilen“
+- a) :: eine Aufgabe aus den Kompetenzbereichen „Verkehrsverhalten“ oder „Recht“ und
+- b) :: eine Aufgabe aus den Kompetenzbereichen „Technik“, „Erziehen“, „Unterrichten, Ausbilden und Weiterbilden“ oder „Beurteilen“
 
 zu bearbeiten.
 
@@ -190,7 +190,7 @@ ungenügend (6),\\
 wenn die Leistung den Anforderungen nicht entspricht und selbst die Grundkenntnisse so lückenhaft sind, dass die Mängel in absehbarer Zeit nicht behoben werden können.
 (2) Bei der Bewertung der Leistungen sind neben Kenntnissen und Fähigkeiten auch Form und Ausdrucksweise zu berücksichtigen.
 (3) Ergeben die Einzelleistungen und die Bewertung bei der Fachkundeprüfung durch die Mitglieder des Prüfungsausschusses einen Mittelwert, so werden Dezimalstellen bis 0,49 abgerundet und ab 0,50 aufgerundet.
-(4) Die Leistungen in allen Prüfungen und Lehrproben (§ 14) müssen mindestens mit der Note ausreichend“ bewertet sein.
+(4) Die Leistungen in allen Prüfungen und Lehrproben (§ 14) müssen mindestens mit der Note „ausreichend“ bewertet sein.
 (5) Bei der Fachkundeprüfung wird eine mangelhafte Leistung im schriftlichen Teil durch eine mindestens befriedigende Leistung im mündlichen Teil, eine mangelhafte Leistung im mündlichen Teil durch eine mindestens befriedigende Leistung im schriftlichen Teil ausgeglichen.
 (+++ § 19: Zur Anwendung vgl. § 16 Abs. 3 +++)\\
 (+++ § 19 Abs. 2: Zur Anwendung vgl. § 20 Abs. 2 +++)

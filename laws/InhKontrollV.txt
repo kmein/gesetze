@@ -66,7 +66,7 @@ zu benennen.
 - 3. :: der Erhöhung einer bedeutenden Beteiligung nach § 2c Absatz 1 Satz 6 des Kreditwesengesetzes oder
 - 4. :: der Erhöhung einer bedeutenden Beteiligung nach § 104 Absatz 1 Satz 6 des Versicherungsaufsichtsgesetzes
 
-ist mit dem Formular Erwerb-Erhöhung“ der Anlage dieser Verordnung anzuzeigen. Bei komplexen Beteiligungsstrukturen sind der Anzeige zusätzlich das Formular Komplexe Beteiligungsstrukturen“ der Anlage dieser Verordnung sowie ein Schaubild der beabsichtigten Beteiligungsstruktur unter Angabe der jeweils gehaltenen Kapitalanteile und Stimmrechtsanteile in Prozent beizufügen. Komplexe Beteiligungsstrukturen liegen insbesondere vor bei Beteiligungen, die gleichzeitig unmittelbar und mittelbar über ein oder mehrere Unternehmen, über mehrere Beteiligungsketten, im Zusammenwirken mit anderen, bei Treuhandverhältnissen oder in anderen Fällen der Zurechnung von Stimmrechtsanteilen nach § 1 Absatz 9 Satz 2 und 3 des Kreditwesengesetzes oder § 7a Absatz 2 Satz 4 und 5 des Versicherungsaufsichtsgesetzes, jeweils in Verbindung mit § 34 Absatz 1 Satz 1 Nummer 2 bis 6 und Absatz 2 des Wertpapierhandelsgesetzes gehalten werden.
+ist mit dem Formular „Erwerb-Erhöhung“ der Anlage dieser Verordnung anzuzeigen. Bei komplexen Beteiligungsstrukturen sind der Anzeige zusätzlich das Formular „Komplexe Beteiligungsstrukturen“ der Anlage dieser Verordnung sowie ein Schaubild der beabsichtigten Beteiligungsstruktur unter Angabe der jeweils gehaltenen Kapitalanteile und Stimmrechtsanteile in Prozent beizufügen. Komplexe Beteiligungsstrukturen liegen insbesondere vor bei Beteiligungen, die gleichzeitig unmittelbar und mittelbar über ein oder mehrere Unternehmen, über mehrere Beteiligungsketten, im Zusammenwirken mit anderen, bei Treuhandverhältnissen oder in anderen Fällen der Zurechnung von Stimmrechtsanteilen nach § 1 Absatz 9 Satz 2 und 3 des Kreditwesengesetzes oder § 7a Absatz 2 Satz 4 und 5 des Versicherungsaufsichtsgesetzes, jeweils in Verbindung mit § 34 Absatz 1 Satz 1 Nummer 2 bis 6 und Absatz 2 des Wertpapierhandelsgesetzes gehalten werden.
 
 (2) Die Absichtsanzeigen sind vollständig im Sinne des § 2c Absatz 1 Satz 7 in Verbindung mit Absatz 1a Satz 1 des Kreditwesengesetzes und des § 104 Absatz 1 Satz 7 in Verbindung mit Absatz 1a Satz 1 des Versicherungsaufsichtsgesetzes, wenn das Formular nach Absatz 1 Satz 1 vollständig ausgefüllt ist und alle erforderlichen Anlagen beigefügt sind. Können nicht alle erforderlichen Anlagen beigefügt werden, sind die Gründe hierfür anzugeben und die fehlenden Anlagen unverzüglich nachzureichen. Erst mit deren Eingang gelten die Absichtsanzeigen als vollständig.
 (3) Eine Anzeige gilt für die Zwecke des § 2c Absatz 1 Satz 7 des Kreditwesengesetzes als vollständig eingegangen, wenn sie bei der Bundesanstalt vollständig eingegangen ist.
@@ -94,7 +94,7 @@ Den Absichtsanzeigen sind folgende Unterlagen und Erklärungen beizufügen:
 
 § 9 - Erklärungen und Unterlagen zur Zuverlässigkeit
 
-(1) Der Anzeigepflichtige hat zu jeder Absichtsanzeige mit dem Formular Angaben zur Zuverlässigkeit“ der Anlage dieser Verordnung anzugeben, ob gegen ihn, gegen eine Person nach § 8 Nummer 3 oder Nummer 7 oder gegen ein von ihm derzeit oder früher geleitetes oder kontrolliertes Unternehmen
+(1) Der Anzeigepflichtige hat zu jeder Absichtsanzeige mit dem Formular „Angaben zur Zuverlässigkeit“ der Anlage dieser Verordnung anzugeben, ob gegen ihn, gegen eine Person nach § 8 Nummer 3 oder Nummer 7 oder gegen ein von ihm derzeit oder früher geleitetes oder kontrolliertes Unternehmen
 
 - 1. :: ein Strafverfahren geführt wird oder zu einem früheren Zeitpunkt ein Strafverfahren wegen eines Verbrechens oder Vergehens geführt worden ist,
 - 2. :: im Zusammenhang mit einer unternehmerischen oder sonstigen beruflichen Tätigkeit ein Ordnungswidrigkeitsverfahren oder vergleichbares Verfahren nach einer anderen Rechtsordnung geführt wird oder mit einer Verurteilung oder sonstigen Sanktion abgeschlossen worden ist,
@@ -266,7 +266,7 @@ Absatz 1 Satz 4 gilt entsprechend.
 - 3. :: der Aufgabe einer bedeutenden Beteiligung nach § 2c Absatz 3 Satz 1 des Kreditwesengesetzes oder
 - 4. :: der Aufgabe einer bedeutenden Beteiligung nach § 104 Absatz 3 Satz 1 des Versicherungsaufsichtsgesetzes
 
-ist mit dem Formular Aufgabe-Verringerung“ der Anlage dieser Verordnung anzuzeigen. Auf die Absichtsanzeigen nach Satz 1 Nummer 1 und 2 ist § 6 Absatz 1 Satz 2 entsprechend anzuwenden.
+ist mit dem Formular „Aufgabe-Verringerung“ der Anlage dieser Verordnung anzuzeigen. Auf die Absichtsanzeigen nach Satz 1 Nummer 1 und 2 ist § 6 Absatz 1 Satz 2 entsprechend anzuwenden.
 
 (2) Der Anzeigepflichtige hat in einer Anlage zu dem Formular nach Absatz 1 Satz 1 zu erklären, auf wen er die Kapital- oder Stimmrechtsanteile übertragen wird. Ist ihm diese Angabe nicht möglich, hat er dies in der Anlage zu begründen.
 (3) Für alle Absichtsanzeigen nach Absatz 1 gilt § 16 Absatz 3 entsprechend.
@@ -316,19 +316,19 @@ Firma\\
 Firma Zeile 1
 Firma Zeile 2
 Rechtsform
-
+ 
 Sitz mit Postleitzahl
-
+ 
 Anschrift der Hauptniederlassung
-
+ 
 Straße, Hausnummer
-
+ 
 Postleitzahl
-
+ 
 Ort
-
+ 
 Rechtsträgerkennung<<FnR.FnA1-f791615_02>>[[#FnA1-f791615_02][2]]} ,}<<FnR.FnA1-f791615_03>>[[#FnA1-f791615_03][3]]}
-
+ 
 Der Anzeigepflichtige hat nach dem Erwerb oder der Erhöhung Kontrolle über das Zielunternehmen:
  □ Ja.  □ Nein.
 Seite 1
@@ -337,51 +337,51 @@ Seite 1
 
 Familienname
 
-
+ 
 
 Geburtsname
 
-
+ 
 
 Sämtliche Vornamen
 
-
+ 
 
 Geburtsdatum
 
-
+ 
 
 Geburtsort, Geburtsstaat
 
-
+ 
 
 Staatsangehörigkeit
 
-
+ 
 
 Anschrift des Hauptwohnsitzes
 
-
+ 
 
 Straße, Hausnummer
 
-
+ 
 
 Postleitzahl<<FnR.FnA1-f791615_04>>[[#FnA1-f791615_04][4]]}
 
-
+ 
 
 Ort
 
-
+ 
 
 Staat
 
-
+ 
 
 Angaben zur Firma, sofern vorhanden
 
-
+ 
 
 Firma\\
 (laut Registereintragung)
@@ -392,20 +392,20 @@ Firma Zeile 2
 
 Sitz mit Postleitzahl⁴
 
-
+ 
 
 Sitzstaat
 
-
+ 
 
 Wirtschaftszweig<<FnR.FnA1-f791615_05>>[[#FnA1-f791615_05][5]]}
 
-
+ 
 
 Ordnungsmerkmale\\
-Registereintragung
+Registereintragung³
 
-
+ 
 
 - 1.2 :: Bitte nur ausfüllen, wenn der Anzeigepflichtige keine natürliche Person ist.
 
@@ -418,48 +418,48 @@ Firma Zeile 2
 
 Rechtsform
 
-
+ 
 
 Sitz mit Postleitzahl⁴
 
-
+ 
 
 Sitzstaat
 
-
+ 
 
 Anschrift der Hauptniederlassung
 
-
+ 
 
 Straße, Hausnummer
 
-
+ 
 
 Postleitzahl⁴
 
-
+ 
 
 Ort
 
-
+ 
 
 Staat
 
-
+ 
 
 Wirtschaftszweig⁵
 
-
+ 
 
 Ordnungsmerkmale\\
-Registereintragung
+Registereintragung³
 
+ 
 
+Rechtsträgerkennung³
 
-Rechtsträgerkennung
-
-
+ 
 
 Seite 2
 - 2. :: Angabe eines Empfangsbevollmächtigten im Inland, sofern der Anzeigepflichtige ohne Wohnsitz oder gewöhnlichen Aufenthalt, Sitz oder Geschäftsleitung im Inland ist:
@@ -468,31 +468,31 @@ Seite 2
 
 Familienname
 
-
+ 
 
 Sämtliche Vornamen
 
-
+ 
 
 Geburtsdatum
 
-
+ 
 
 Anschrift
 
-
+ 
 
 Straße, Hausnummer
 
-
+ 
 
 Postleitzahl
 
-
+ 
 
 Ort
 
-
+ 
 
 - 2.2 :: Bitte nur ausfüllen, wenn Empfangsbevollmächtigter keine natürliche Person ist.
 
@@ -505,39 +505,39 @@ Firma Zeile 2
 
 Rechtsform
 
-
+ 
 
 Sitz mit Postleitzahl
 
-
+ 
 
 Anschrift
 
-
+ 
 
 Straße, Hausnummer
 
-
+ 
 
 Postleitzahl
 
-
+ 
 
 Ort
 
-
+ 
 
 Ordnungsmerkmale\\
-Registereintragung
+Registereintragung³
 
+ 
 
+Rechtsträgerkennung³
 
-Rechtsträgerkennung
-
-
+ 
 
 - 3. :: Die geplanten Kapital- oder Stimmrechtsanteile würden ganz oder teilweise noch einem anderen als dem Mutterunternehmen zugerechnet werden:
-  |  □ Nein. | □ Ja. | Wenn ja“ angekreuzt wurde, ist diesem Formular eine Anlage mit der Nr. _ _<<FnR.FnA1-f791615_06>>[[#FnA1-f791615_06][6]]} beizufügen, in der unter Berücksichtigung des § 4 InhKontrollV diejenigen, denen die Anteile zugerechnet werden würden, anzugeben sind. Der Grund der Zurechnung der Anteile ist ebenfalls anzugeben. |
+  |  □ Nein. | □ Ja. | Wenn „ja“ angekreuzt wurde, ist diesem Formular eine Anlage mit der Nr. _ _<<FnR.FnA1-f791615_06>>[[#FnA1-f791615_06][6]]} beizufügen, in der unter Berücksichtigung des § 4 InhKontrollV diejenigen, denen die Anteile zugerechnet werden würden, anzugeben sind. Der Grund der Zurechnung der Anteile ist ebenfalls anzugeben. |
 
   Seite 3
 - 4. :: Weitere Angaben zum Anzeigepflichtigen
@@ -549,7 +549,7 @@ Rechtsträgerkennung
    □ Nein, weiter mit 5.1.
 - 5. :: Angaben zur geplanten bedeutenden Beteiligung
 - 5.1 :: Auf die Geschäftsleitung des Zielunternehmens könnte, obwohl weniger als 20 % oder keine Kapital- oder Stimmrechtsanteile gehalten werden sollen, ein maßgeblicher Einfluss ausgeübt werden.
-  |  □ Nein. | □ Ja. | Wenn ja“ angekreuzt wurde, ist diesem Formular eine Anlage mit der Nr. _ _⁶ beizufügen, in der die Gründe dafür anzugeben sind. |
+  |  □ Nein. | □ Ja. | Wenn „ja“ angekreuzt wurde, ist diesem Formular eine Anlage mit der Nr. _ _⁶ beizufügen, in der die Gründe dafür anzugeben sind. |
 - 5.2 :: Darstellung der geplanten Beteiligungshöhe am Zielunternehmen<<FnR.FnA1-f791615_07>>[[#FnA1-f791615_07][7]]} ,}<<FnR.FnA1-f791615_08>>[[#FnA1-f791615_08][8]]}
 
 wird durch die\\
@@ -562,7 +562,7 @@ Firma<<FnR.FnA1-f791615_09>>[[#FnA1-f791615_09][9]]} , Rechtsform und Sitz\\
 (lt. Registereintragung) mit PLZ⁴\\
 und Sitzstaat; Ordnungsmerkmale\\
 Registereintragung³, Wirtschaftszweig⁵; Ident-Nr. (falls bekannt), bei natürlichen Personen neben Firma (falls vorhanden) vollständiger Name⁹ und Geburtsdatum,\\
-Rechtsträgerkennung
+Rechtsträgerkennung³
 
 Kapital-\\
 anteil<<FnR.FnA1-f791615_10>>[[#FnA1-f791615_10][10]]} ,}<<FnR.FnA1-f791615_11>>[[#FnA1-f791615_11][11]]}
@@ -586,139 +586,139 @@ Prozent
 
 Tsd. Euro
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
 
 Die geplante durchgerechnete Kapitalquote am Zielunternehmen beträgt    Prozent.
 Seite 5
 - 6. :: Beizufügende Anlagen
 - 6.1 :: Alle erforderlichen Anlagen liegen als fortlaufend nummerierte Anlage diesem Hauptformular bei:
-  |  □ Ja. | □ Nein. | Wenn nein“ angekreuzt wurde, ist diesem Formular eine Anlage mit der Nr. _ _⁶ beizufügen, in der die betreffenden Anlagen aufzuzählen sind und die Gründe dafür anzugeben sind. |
+  |  □ Ja. | □ Nein. | Wenn „nein“ angekreuzt wurde, ist diesem Formular eine Anlage mit der Nr. _ _⁶ beizufügen, in der die betreffenden Anlagen aufzuzählen sind und die Gründe dafür anzugeben sind. |
 - 6.2 :: Auf die Einreichung einzelner Anlagen kann der Anzeigepflichtige entsprechend § 16 Abs. 1 oder 2 InhKontrollV verzichten und reicht diese deshalb nicht ein:
-  |  □ Nein. | □ Ja. | Wenn ja“ angekreuzt wurde, ist diesem Formular eine Anlage mit der Nr. _ _⁶ beizufügen, in der die betreffenden Anlagen aufzuzählen sind und jeweils anzugeben ist, welche Verzichtsregel in Anspruch genommen werden kann. |
+  |  □ Nein. | □ Ja. | Wenn „ja“ angekreuzt wurde, ist diesem Formular eine Anlage mit der Nr. _ _⁶ beizufügen, in der die betreffenden Anlagen aufzuzählen sind und jeweils anzugeben ist, welche Verzichtsregel in Anspruch genommen werden kann. |
 - 6.3 :: Auf Unterlagen und Erklärungen kann nach Ansicht des Anzeigepflichtigen gemäß § 16 Abs. 3 InhKontrollV verzichtet werden<<FnR.FnA1-f791615_15>>[[#FnA1-f791615_15][15]]} :
   |  □ Nein. | □ Ja. |   |
 - 6.4 :: Liste der Anlagen
@@ -731,7 +731,7 @@ Anlage liegt bei
 
 Aufzählung der nicht eingereichten Anlagen mit Angabe der Gründe nach Nummer 6.1 dieses Formulars
 
-
+ 
 
  □ nicht erforderlich\\
  □ ja\\
@@ -739,7 +739,7 @@ Aufzählung der nicht eingereichten Anlagen mit Angabe der Gründe nach Nummer 6
 
 Aufzählung der nicht eingereichten, verzichtbaren Anlagen mit Angabe der Verzichtsregel nach Nummer 6.2 dieses Formulars
 
-
+ 
 
  □ nicht erforderlich\\
  □ ja\\
@@ -749,7 +749,7 @@ Erklärung nach § 2c Abs. 1 Satz 2 KWG oder § 104 Abs. 1\\
 Satz 2 VAG, von welcher Person oder welchem Unternehmen\\
 die Kapital- oder Stimmrechtsanteile übernommen werden
 
-
+ 
 
  □ nicht erforderlich\\
  □ ja\\
@@ -757,16 +757,16 @@ die Kapital- oder Stimmrechtsanteile übernommen werden
 
 Kopie der Bevollmächtigung des Empfangsbevollmächtigten im Inland nach § 3 Satz 2 InhKontrollV
 
-
+ 
 
  □ nicht erforderlich\\
  □ ja\\
  □ wird nachgereicht
 
-Formular Komplexe Beteiligungsstrukturen“ nach § 6 Abs. 1\\
+Formular „Komplexe Beteiligungsstrukturen“ nach § 6 Abs. 1\\
 Satz 2 InhKontrollV oder nach Fußnote 6 dieses Formulars
 
-
+ 
 
  □ nicht erforderlich\\
  □ ja\\
@@ -774,7 +774,7 @@ Satz 2 InhKontrollV oder nach Fußnote 6 dieses Formulars
 
 Schaubild über komplexe Beteiligungsstrukturen nach § 6 Abs. 1 Satz 2 InhKontrollV
 
-
+ 
 
  □ nicht erforderlich\\
  □ ja\\
@@ -782,7 +782,7 @@ Schaubild über komplexe Beteiligungsstrukturen nach § 6 Abs. 1 Satz 2 InhKontr
 
 Nachweis über die Identität oder Existenz des Anzeigepflichtigen nach § 8 Nr. 1 InhKontrollV
 
-
+ 
 
  □ nicht erforderlich\\
  □ ja\\
@@ -790,7 +790,7 @@ Nachweis über die Identität oder Existenz des Anzeigepflichtigen nach § 8 Nr.
 
 Amtlich beglaubigte Kopie der aktuellen Satzung, des aktuellen Gesellschaftsvertrages oder einer gleichwertigen Vereinbarung nach § 8 Nr. 2 InhKontrollV
 
-
+ 
 
  □ nicht erforderlich\\
  □ ja\\
@@ -822,21 +822,21 @@ Fußnoten
 - <<FnA1-f791615_02>>[[#FnR.FnA1-f791615_02][2]] :: Legal Entity Identifier.
 - <<FnA1-f791615_03>>[[#FnR.FnA1-f791615_03][3]] :: Nur anzugeben, sofern eine Eintragung bzw. Rechtsträgerkennung vorliegt.
 - <<FnA1-f791615_04>>[[#FnR.FnA1-f791615_04][4]] :: Die Postleitzahl ist nur von Inländern anzugeben.
-- <<FnA1-f791615_05>>[[#FnR.FnA1-f791615_05][5]] :: Es ist die dreistellige Schlüsselnummer entsprechend der Kundensystematik für die Bankenstatistik“ einzutragen.
+- <<FnA1-f791615_05>>[[#FnR.FnA1-f791615_05][5]] :: Es ist die dreistellige Schlüsselnummer entsprechend der „Kundensystematik für die Bankenstatistik“ einzutragen.
 - <<FnA1-f791615_06>>[[#FnR.FnA1-f791615_06][6]] :: Die vom Anzeigepflichtigen vergebene Nummer der betreffenden Anlage zur Anzeige ist einzutragen.
 - <<FnA1-f791615_07>>[[#FnR.FnA1-f791615_07][7]] :: Nummer 5.2 ist nicht auszufüllen
   - -- :: bei komplexen Beteiligungsstrukturen,
   - -- :: bei mittelbaren Beteiligungsverhältnissen über mehr als vier Ebenen und
   - -- :: wenn sich die Tochtereigenschaft eines zwischengeschalteten Beteiligungsunternehmens nicht aus der Höhe des Kapital- und/oder Stimmrechtsanteils herleiten lässt.
 
-  Stattdessen ist das Formular Komplexe Beteiligungsstrukturen“ der Inhaberkontrollverordnung auszufüllen und als Anlage beizufügen.
+  Stattdessen ist das Formular „Komplexe Beteiligungsstrukturen“ der Inhaberkontrollverordnung auszufüllen und als Anlage beizufügen.
 - <<FnA1-f791615_08>>[[#FnR.FnA1-f791615_08][8]] :: Für beabsichtigte mittelbar gehaltene Beteiligungen gilt: Einzutragen ist die vollständige beabsichtigte Beteiligungskette mit den jeweiligen beabsichtigten unmittelbar gehaltenen Beteiligungsquoten zwischen den Beteiligungsunternehmen. Die Kette beginnt mit der beabsichtigten unmittelbar gehaltenen Beteiligung des Anzeigepflichtigen und endet mit dem Zielunternehmen.
 - <<FnA1-f791615_09>>[[#FnR.FnA1-f791615_09][9]] :: Zu dem unter Nummer 1.1 angegebenen Anzeigepflichtigen muss hier lediglich dessen vollständiger Name (Vorname und Familienname) wiederholt werden. Zu dem unter Nummer 1.2 angegebenen Anzeigepflichtigen bzw. dem auf der Seite 1 angezeigten Zielunternehmen muss lediglich die Firma eingetragen werden.
 - <<FnA1-f791615_10>>[[#FnR.FnA1-f791615_10][10]] :: Beteiligung am Nennwert (Nennkapital, Summe der Kapitalanteile); bei Personenhandelsgesellschaften und Gesellschaften des bürgerlichen Rechts ist auf das durch den Gesellschaftsvertrag festgelegte Beteiligungsverhältnis abzustellen. Angaben in Prozent mit einer Stelle nach dem Komma. Sofern der Nennwert nicht auf Euro lautet, ist zusätzlich der Nennwert in ausländischer Währung (in Tsd.) anzugeben. Der Nennwert ist zum Kurs des Meldestichtages umzurechnen. Sofern es sich bei dem Zielunternehmen um einen Versicherungsverein auf Gegenseitigkeit handelt, sind Prozentangaben in Bezug auf den Gründungsstock einzutragen.
 - <<FnA1-f791615_11>>[[#FnR.FnA1-f791615_11][11]] :: Beabsichtigter unmittelbarer Anteil des vorhergehenden Unternehmens der Beteiligungskette an dem hier genannten Zielunternehmen (keine durchgerechneten Quoten).
 - <<FnA1-f791615_12>>[[#FnR.FnA1-f791615_12][12]] :: Sofern das Kapital des Unternehmens nicht auf Euro lautet, ist zusätzlich das Kapital in ausländischer Währung (in Tsd.) anzugeben. Das Kapital ist zum Kurs des Meldestichtages umzurechnen.
 - <<FnA1-f791615_13>>[[#FnR.FnA1-f791615_13][13]] :: Nur auszufüllen, soweit vom Kapitalanteil abweichend; Angaben in Prozent mit einer Stelle nach dem Komma.
-- <<FnA1-f791615_14>>[[#FnR.FnA1-f791615_14][14]] :: Ist der Anzeigepflichtige oder der die zukünftig gehaltenen Kapital- oder Stimmrechtsanteile Vermittelnde nach dem beabsichtigten Erwerb oder der beabsichtigten Erhöhung ein Mutterunternehmen des Zielunternehmens, ist Mutter“ einzutragen. Ist der die zukünftigen Kapital- oder Stimmrechtsanteile Vermittelnde ein Schwesterunternehmen des Zielunternehmens, ist Schwester“ einzutragen. Ansonsten ist das Feld nicht auszufüllen.
+- <<FnA1-f791615_14>>[[#FnR.FnA1-f791615_14][14]] :: Ist der Anzeigepflichtige oder der die zukünftig gehaltenen Kapital- oder Stimmrechtsanteile Vermittelnde nach dem beabsichtigten Erwerb oder der beabsichtigten Erhöhung ein Mutterunternehmen des Zielunternehmens, ist „Mutter“ einzutragen. Ist der die zukünftigen Kapital- oder Stimmrechtsanteile Vermittelnde ein Schwesterunternehmen des Zielunternehmens, ist „Schwester“ einzutragen. Ansonsten ist das Feld nicht auszufüllen.
 - <<FnA1-f791615_15>>[[#FnR.FnA1-f791615_15][15]] :: Kann nach Ansicht des Anzeigepflichtigen auf sämtliche Unterlagen und Erklärungen verzichtet werden, weiter mit 7. Kommt die Bundesanstalt für Finanzdienstleistungsaufsicht oder die zuständige Landesaufsichtsbehörde bei ihrer Beurteilung zu einem anderen Ergebnis, sind die Angaben nach Nr. 6.4 nachzuholen.
 - <<FnA1-f791615_16>>[[#FnR.FnA1-f791615_16][16]] :: Ist die in der ersten Tabelle genannte Person nur zusammen mit einer oder mehreren anderen Personen zur Vertretung des Anzeigepflichtigen berechtigt, hat diese bzw. haben diese weiteren Personen jeweils eine der nachfolgenden Tabellen auszufüllen. Fehlende Tabellen sind zu ergänzen; ggf. ist ein gesondertes Blatt dem Formular anzufügen, auf dem die Seitenzahlnummerierung des Formulars fortzusetzen ist.
 
@@ -861,67 +861,67 @@ Fremdwährung
 Währung
 Tsd.
 \\
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 \\
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 \\
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 \\
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Die geplante durchgerechnete Kapitalquote am Zielunternehmen beträgt    Prozent.
 Beteiligungsstruktur<<FnR.FnA2-f791615_27>>[[#FnA2-f791615_27][11]]}
 Beteiligtes Unternehmen
 Beteiligungsunternehmen
 besonderer\\
-Vermittler¹
+Vermittler¹²
 Art<<FnR.FnA2-f791615_28>>[[#FnA2-f791615_28][12]]}
 Kapitalanteil13,}<<FnR.FnA2-f791615_30>>[[#FnA2-f791615_30][14]]}
 Stimm-\\
@@ -932,65 +932,65 @@ beherr-schender Einfluss<<FnR.FnA2-f791615_32>>[[#FnA2-f791615_32][16]]}
 in\\
 Prozent
 Tsd. Euro
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Seite 1
 Fußnoten
 - <<FnA2-f791615_17>>[[#FnR.FnA2-f791615_17][1]] :: Die vom Anzeigepflichtigen vergebene Nummer der betreffenden Anlage zur Anzeige ist einzutragen.
-- <<FnA2-f791615_18>>[[#FnR.FnA2-f791615_18][2]] :: Führt eine mittelbare Beteiligungsbeziehung über mehrere Beteiligungsketten vom Anzeigepflichtigen zum Zielunternehmen, so ist nur ein Formular Komplexe Beteiligungsstrukturen“ zu verwenden. In diesem sind alle vorhandenen Beteiligungsketten darzustellen.
-- <<FnA2-f791615_19>>[[#FnR.FnA2-f791615_19][3]] :: In der Unternehmensliste“ ist in der ersten Zeile der Anzeigepflichtige und in der letzten Zeile das Zielunternehmen aufzuführen. Bei Stimmrechtszurechnung sind dazwischen in einer logischen Reihenfolge alle vermittelnden Unternehmen, alle sonstigen Vermittler von Kapital- oder Stimmrechtsanteilen nach § 1 Abs. 9 Satz 2 KWG und § 7a Abs. 2 Satz 4 VAG einschlieUnternehmensliste“ ist bei Bedarf beliebig erweiterbar.
-- <<FnA2-f791615_20>>[[#FnR.FnA2-f791615_20][4]] :: Zu dem im Formular Erwerb-Erhöhung“ oder im Formular Aufgabe-Verringerung“ jeweils unter Nummer 1.1 angegebenen Anzeigepflichtigen muss hier lediglich dessen vollständiger Name (Vorname und Familienname) wiederholt werden. Zu dem im Formular Erwerb-Erhöhung“ oder im Formular Aufgabe-Verringerung“ jeweils unter Nummer 1.2 angegebenen Anzeigepflichtigen bzw. dem auf der jeweiligen Seite 1 angezeigten Zielunternehmen muss lediglich die Firma eingetragen werden.
+- <<FnA2-f791615_18>>[[#FnR.FnA2-f791615_18][2]] :: Führt eine mittelbare Beteiligungsbeziehung über mehrere Beteiligungsketten vom Anzeigepflichtigen zum Zielunternehmen, so ist nur ein Formular „Komplexe Beteiligungsstrukturen“ zu verwenden. In diesem sind alle vorhandenen Beteiligungsketten darzustellen.
+- <<FnA2-f791615_19>>[[#FnR.FnA2-f791615_19][3]] :: In der „Unternehmensliste“ ist in der ersten Zeile der Anzeigepflichtige und in der letzten Zeile das Zielunternehmen aufzuführen. Bei Stimmrechtszurechnung sind dazwischen in einer logischen Reihenfolge alle vermittelnden Unternehmen, alle sonstigen Vermittler von Kapital- oder Stimmrechtsanteilen nach § 1 Abs. 9 Satz 2 KWG und § 7a Abs. 2 Satz 4 VAG einschließlich der Personen, mit denen im Zusammenwirken in sonstiger Weise eine bedeutende Beteiligung gehalten werden soll oder gehalten wird, aufzuführen. Die Anzahl der Zeilen in der „Unternehmensliste“ ist bei Bedarf beliebig erweiterbar.
+- <<FnA2-f791615_20>>[[#FnR.FnA2-f791615_20][4]] :: Zu dem im Formular „Erwerb-Erhöhung“ oder im Formular „Aufgabe-Verringerung“ jeweils unter Nummer 1.1 angegebenen Anzeigepflichtigen muss hier lediglich dessen vollständiger Name (Vorname und Familienname) wiederholt werden. Zu dem im Formular „Erwerb-Erhöhung“ oder im Formular „Aufgabe-Verringerung“ jeweils unter Nummer 1.2 angegebenen Anzeigepflichtigen bzw. dem auf der jeweiligen Seite 1 angezeigten Zielunternehmen muss lediglich die Firma eingetragen werden.
 - <<FnA2-f791615_21>>[[#FnR.FnA2-f791615_21][5]] :: Die Postleitzahl ist nur von Inländern anzugeben.
 - <<FnA2-f791615_22>>[[#FnR.FnA2-f791615_22][6]] :: Nur anzugeben, sofern eine Eintragung bzw. Rechtsträgerkennung vorliegt.
-- <<FnA2-f791615_23>>[[#FnR.FnA2-f791615_23][7]] :: Es ist die dreistellige Schlüsselnummer entsprechend der Kundensystematik für die Bankenstatistik“ einzutragen.
+- <<FnA2-f791615_23>>[[#FnR.FnA2-f791615_23][7]] :: Es ist die dreistellige Schlüsselnummer entsprechend der „Kundensystematik für die Bankenstatistik“ einzutragen.
 - <<FnA2-f791615_24>>[[#FnR.FnA2-f791615_24][8]] :: Legal Entity Identifier.
 - <<FnA2-f791615_25>>[[#FnR.FnA2-f791615_25][9]] :: Sofern das Kapital des Unternehmens nicht auf Euro lautet, ist zusätzlich das Kapital in ausländischer Währung (in Tsd.) anzugeben. Das Kapital ist zum Kurs des Meldestichtages umzurechnen.
-- <<FnA2-f791615_26>>[[#FnR.FnA2-f791615_26][10]] :: Ist der Anzeigepflichtige oder der die zukünftig gehaltenen Kapital- oder Stimmrechtsanteile Vermittelnde ein Mutterunternehmen des Zielunternehmens, ist Mutter“ einzutragen. Ist der die zukünftig gehaltenen Kapital- oder Stimmrechtsanteile Vermittelnde ein Schwesterunternehmen des Zielunternehmens, ist Schwester“ einzutragen. Ansonsten ist das Feld nicht auszufüllen.
+- <<FnA2-f791615_26>>[[#FnR.FnA2-f791615_26][10]] :: Ist der Anzeigepflichtige oder der die zukünftig gehaltenen Kapital- oder Stimmrechtsanteile Vermittelnde ein Mutterunternehmen des Zielunternehmens, ist „Mutter“ einzutragen. Ist der die zukünftig gehaltenen Kapital- oder Stimmrechtsanteile Vermittelnde ein Schwesterunternehmen des Zielunternehmens, ist „Schwester“ einzutragen. Ansonsten ist das Feld nicht auszufüllen.
 - <<FnA2-f791615_27>>[[#FnR.FnA2-f791615_27][11]] :: Alle Beteiligungsbeziehungen zur Darstellung des Beteiligungsgeflechtes, beginnend beim Anzeigepflichtigen über die Vermittler von Anteilen bis hin zum Zielunternehmen, sind in logischer Reihenfolge in der Beteiligungsstruktur darzustellen.\\
-  Dabei ist in einer Zeile der Beteiligungsstruktur jeweils nur eine Beteiligungsbeziehung zwischen zwei Parteien darzustellen. Die Anzahl der Zeilen in der Beteiligungsstruktur“ ist bei Bedarf beliebig erweiterbar.\\
-  In der ersten Zeile ist in der ersten Spalte Beteiligtes Unternehmen“ stets der Anzeigepflichtige und in der zweiten Spalte grundsätzlich das erste Beteiligungsunternehmen einzutragen, das Anteile an dem ihm nachfolgenden zweiten Beteiligungsunternehmen dem Anzeigepflichtigen vermittelt. In der folgenden Zeile, in der die Beziehung (Verkettung) zwischen dem ersten und dem zweiten Beteiligungsunternehmen darzustellen ist, tritt grundsätzlich das erste Beteiligungsunternehmen an die Stelle des Anzeigepflichtigen (Spalte 1), und das zweite Beteiligungsunternehmen tritt grundsätzlich an die Stelle des ersten Beteiligungsunternehmens (Spalte 2). Entsprechendes gilt für die Darstellung der folgenden Beteiligungsbeziehungen bis hin zum Zielunternehmen, das stets in Spalte 2 einzutragen ist.\\
-  Eine Ausnahme gilt für den Fall, dass in einer oder mehreren Beteiligungsbeziehungen eine sonstige Stimmrechtszurechnung nach § 1 Abs. 9 Satz 2 KWG oder § 7a Abs. 2 Satz 4 VAG oder eine sonstige Zurechnung von Kapital- oder Stimmrechtsanteilen durch Zusammenwirken mit anderen erfolgt. Die Beteiligungsbeziehungen sind dann wie folgt darzustellen: Derjenige, der in der jeweils betrachteten Beteiligungsbeziehung die betreffenden Anteile unmittelbar hält, ist in der Spalte besonderer Vermittler“, und derjenige, dem die betreffenden Anteile zugerechnet werden, ist in der ersten Spalte Beteiligtes Unternehmen“ einzutragen. Diese Differenzierung ist aus technischen Gründen vorzunehmen und ermöglicht getrennte Auswertungen durch die Behörde.
-- <<FnA2-f791615_28>>[[#FnR.FnA2-f791615_28][12]] :: Liegt eines der folgenden besonderen Zurechnungsverhältnisse vor, ist in der Spalte besonderer Vermittler“ die Nummer der Person oder des Unternehmens laut Unternehmensliste einzutragen, die oder das die besondere Vermittlerposition gemäArt“ ist der entsprechende Kennbuchstabe des besonderen Zurechnungsverhältnisses zu vermerken. Eine Mehrfachauswahl ist zulässig.
+  Dabei ist in einer Zeile der Beteiligungsstruktur jeweils nur eine Beteiligungsbeziehung zwischen zwei Parteien darzustellen. Die Anzahl der Zeilen in der „Beteiligungsstruktur“ ist bei Bedarf beliebig erweiterbar.\\
+  In der ersten Zeile ist in der ersten Spalte „Beteiligtes Unternehmen“ stets der Anzeigepflichtige und in der zweiten Spalte grundsätzlich das erste Beteiligungsunternehmen einzutragen, das Anteile an dem ihm nachfolgenden zweiten Beteiligungsunternehmen dem Anzeigepflichtigen vermittelt. In der folgenden Zeile, in der die Beziehung (Verkettung) zwischen dem ersten und dem zweiten Beteiligungsunternehmen darzustellen ist, tritt grundsätzlich das erste Beteiligungsunternehmen an die Stelle des Anzeigepflichtigen (Spalte 1), und das zweite Beteiligungsunternehmen tritt grundsätzlich an die Stelle des ersten Beteiligungsunternehmens (Spalte 2). Entsprechendes gilt für die Darstellung der folgenden Beteiligungsbeziehungen bis hin zum Zielunternehmen, das stets in Spalte 2 einzutragen ist.\\
+  Eine Ausnahme gilt für den Fall, dass in einer oder mehreren Beteiligungsbeziehungen eine sonstige Stimmrechtszurechnung nach § 1 Abs. 9 Satz 2 KWG oder § 7a Abs. 2 Satz 4 VAG oder eine sonstige Zurechnung von Kapital- oder Stimmrechtsanteilen durch Zusammenwirken mit anderen erfolgt. Die Beteiligungsbeziehungen sind dann wie folgt darzustellen: Derjenige, der in der jeweils betrachteten Beteiligungsbeziehung die betreffenden Anteile unmittelbar hält, ist in der Spalte „besonderer Vermittler“, und derjenige, dem die betreffenden Anteile zugerechnet werden, ist in der ersten Spalte „Beteiligtes Unternehmen“ einzutragen. Diese Differenzierung ist aus technischen Gründen vorzunehmen und ermöglicht getrennte Auswertungen durch die Behörde.
+- <<FnA2-f791615_28>>[[#FnR.FnA2-f791615_28][12]] :: Liegt eines der folgenden besonderen Zurechnungsverhältnisse vor, ist in der Spalte „besonderer Vermittler“ die Nummer der Person oder des Unternehmens laut Unternehmensliste einzutragen, die oder das die besondere Vermittlerposition gemäß der folgenden Übersicht einnimmt. In der Spalte „Art“ ist der entsprechende Kennbuchstabe des besonderen Zurechnungsverhältnisses zu vermerken. Eine Mehrfachauswahl ist zulässig.
   | Verhältnis                        | besonderer Vermittler                                                 | Spalte Art |
   |-----------------------------------+-----------------------------------------------------------------------+------------|
-  | § 34 Abs. 1 Satz 1 Nr. 2 WpHG     | Dritter im Sinne des § 34 Abs. 1 Satz 1 Nr. 2 WpHG (insb. Treuhänder) | T“        |
-  | § 34 Abs. 1 Satz 1 Nr. 3 WpHG     | Sicherungsnehmer                                                      | S“        |
-  | § 34 Abs. 1 Satz 1 Nr. 4 WpHG     | NieN“        |
-  | § 34 Abs. 1 Satz 1 Nr. 5 WpHG     | Erklärungsempfänger                                                   | E“        |
-  | § 34 Abs. 1 Satz 1 Nr. 6 WpHG     | Vertretener im Sinne des § 34 Abs. 1 Satz 1 Nr. 6 WpHG                | V“        |
-  | § 34 Abs. 2 Satz 1 WpHG           | Dritter im Sinne des § 34 Abs. 2 Satz 1 WpHG                          | D“        |
-  | Unterbeteiligungsverhältnis       | Hauptbeteiligter                                                      | H“        |
-  | Zusammenwirken in sonstiger Weise | Vermittelnder                                                         | Z“        |
+  | § 34 Abs. 1 Satz 1 Nr. 2 WpHG     | Dritter im Sinne des § 34 Abs. 1 Satz 1 Nr. 2 WpHG (insb. Treuhänder) | „T“        |
+  | § 34 Abs. 1 Satz 1 Nr. 3 WpHG     | Sicherungsnehmer                                                      | „S“        |
+  | § 34 Abs. 1 Satz 1 Nr. 4 WpHG     | Nießbrauchsgeber                                                      | „N“        |
+  | § 34 Abs. 1 Satz 1 Nr. 5 WpHG     | Erklärungsempfänger                                                   | „E“        |
+  | § 34 Abs. 1 Satz 1 Nr. 6 WpHG     | Vertretener im Sinne des § 34 Abs. 1 Satz 1 Nr. 6 WpHG                | „V“        |
+  | § 34 Abs. 2 Satz 1 WpHG           | Dritter im Sinne des § 34 Abs. 2 Satz 1 WpHG                          | „D“        |
+  | Unterbeteiligungsverhältnis       | Hauptbeteiligter                                                      | „H“        |
+  | Zusammenwirken in sonstiger Weise | Vermittelnder                                                         | „Z“        |
 - <<FnA2-f791615_29>>[[#FnR.FnA2-f791615_29][13]] :: Beteiligung am Nennwert (Nennkapital, Summe der Kapitalanteile); bei Personenhandelsgesellschaften und Gesellschaften des bürgerlichen Rechts ist auf das durch den Gesellschaftsvertrag festgelegte Beteiligungsverhältnis abzustellen. Angaben in Prozent mit einer Stelle nach dem Komma. Sofern der Nennwert nicht auf Euro lautet, ist zusätzlich der Nennwert in ausländischer Währung (in Tsd.) anzugeben. Der Nennwert ist zum Kurs des Meldestichtages umzurechnen.
 - <<FnA2-f791615_30>>[[#FnR.FnA2-f791615_30][14]] :: Beabsichtigter unmittelbarer Anteil des vorhergehenden Unternehmens der Beteiligungskette an dem hier genannten Zielunternehmen (keine durchgerechneten Quoten).
 - <<FnA2-f791615_31>>[[#FnR.FnA2-f791615_31][15]] :: Nur auszufüllen, soweit vom Kapitalanteil abweichend; Angaben in Prozent mit einer Stelle nach dem Komma.
@@ -1007,55 +1007,55 @@ Angaben des Anzeigepflichtigen
 (Bitte nachfolgend die Angaben zur Identität des vom Anzeigepflichtigen derzeit oder früher geleiteten oder kontrollierten Unternehmens, des persönlich haftenden Gesellschafters oder der Person nach § 8 Nr. 3 oder 7 InhKontrollV eintragen.)
 Bei einer natürlichen Person sind anzugeben:
 Familienname
-
+ 
 Geburtsname
-
+ 
 Sämtliche Vornamen
-
+ 
 Geburtsdatum
-
+ 
 Geburtsort
-
+ 
 Staatsangehörigkeit(en)
-
+ 
 Anschrift des Hauptwohnsitzes
-
+ 
 Straße, Hausnummer
-
+ 
 Postleitzahl<<FnR.FnA3-f791615_38>>[[#FnA3-f791615_38][6]]}
-
+ 
 Ort
-
+ 
 Staat
-
+ 
 Andernfalls sind anzugeben:
 Firma\\
 (laut Registereintragung)
 Firma Zeile 1
 Firma Zeile 2
 Rechtsform
-
+ 
 Sitz mit Postleitzahl⁶
-
+ 
 Sitzstaat
-
+ 
 Ordnungsmerkmale\\
 Registereintragung<<FnR.FnA3-f791615_39>>[[#FnA3-f791615_39][7]]}
-
+ 
 Rechtsträgerkennung7,}<<FnR.FnA3-f791615_40>>[[#FnA3-f791615_40][8]]}
-
+ 
 Seite 1
 - 1. :: Angaben nach § 9 Abs. 1 InhKontrollV
 - 1.1 :: Wird gegen den auf Seite 1 Angegebenen ein Strafverfahren geführt oder wurde zu einem früheren Zeitpunkt gegen ihn ein Strafverfahren wegen eines Verbrechens oder Vergehens geführt?
    □ Nein.
    □ Ja.
-  Wenn ja“ angekreuzt wurde, sind die Verfahren und Sanktionen zu erläutern.<<FnR.FnA3-f791615_41>>[[#FnA3-f791615_41][9]]}
+  Wenn „ja“ angekreuzt wurde, sind die Verfahren und Sanktionen zu erläutern.<<FnR.FnA3-f791615_41>>[[#FnA3-f791615_41][9]]}
   | 1. |   | Siehe auch Anlage Nr. _ _<<FnR.FnA3-f791615_42>>[[#FnA3-f791615_42][10]]} .\\ |
   | 2. |   | Siehe auch Anlage Nr. _ _¹⁰.\\                                               |
 - 1.2 :: Wird gegen den auf Seite 1 Angegebenen im Zusammenhang mit einer unternehmerischen oder sonstigen beruflichen Tätigkeit ein Ordnungswidrigkeitsverfahren oder vergleichbares Verfahren nach einer anderen Rechtsordnung geführt oder wurde ein solches Verfahren gegen ihn mit einer Verurteilung oder sonstigen Sanktion abgeschlossen?
    □ Nein.
    □ Ja.
-  Wenn ja“ angekreuzt wurde, sind die Verfahren und Sanktionen zu erläutern.⁹
+  Wenn „ja“ angekreuzt wurde, sind die Verfahren und Sanktionen zu erläutern.⁹
   | 1. |   | Siehe auch Anlage Nr. _ _¹⁰.\\ |
   | 2. |   | Siehe auch Anlage Nr. _ _¹⁰.\\ |
 
@@ -1063,13 +1063,13 @@ Seite 1
 - 1.3 :: Wird gegen den auf Seite 1 Angegebenen ein Insolvenzverfahren, ein Verfahren zur Abgabe einer eidesstattlichen Versicherung oder ein vergleichbares Verfahren geführt oder wurde ein solches Verfahren zu einem früheren Zeitpunkt geführt?
    □ Nein.
    □ Ja.
-  Wenn ja“ angekreuzt wurde, sind die Verfahren und Sanktionen zu erläutern.⁹
+  Wenn „ja“ angekreuzt wurde, sind die Verfahren und Sanktionen zu erläutern.⁹
   | 1. |   | Siehe auch Anlage Nr. _ _¹⁰.\\ |
   | 2. |   | Siehe auch Anlage Nr. _ _¹⁰.\\ |
 - 1.4 :: Hat gegen den auf Seite 1 Angegebenen eine Aufsichtsbehörde eine aufsichtliche Maßnahme eingeleitet oder wurde gegen ihn ein solches Verfahren bereits mit einer Sanktion abgeschlossen?
    □ Nein.
    □ Ja.
-  Wenn ja“ angekreuzt wurde, sind die Verfahren und Sanktionen zu erläutern.⁹
+  Wenn „ja“ angekreuzt wurde, sind die Verfahren und Sanktionen zu erläutern.⁹
   | 1. |   | Siehe auch Anlage Nr. _ _¹⁰.\\ |
   | 2. |   | Siehe auch Anlage Nr. _ _¹⁰.\\ |
 
@@ -1077,14 +1077,14 @@ Seite 1
 - 1.5 :: Wurde eine Registereintragung, Erlaubnis, Mitgliedschaft oder Gewerbeerlaubnis des auf Seite 1 Angegebenen durch eine Behörde versagt oder aufgehoben oder wurde er in sonstiger Weise vom Betrieb eines Gewerbes oder der Vertretung und Führung dessen Geschäfte ausgeschlossen oder wurde gegen ihn ein entsprechendes Verfahren geführt?
    □ Nein.
    □ Ja.
-  Wenn ja“ angekreuzt wurde, sind die Verfahren und Sanktionen zu erläutern.⁹
+  Wenn „ja“ angekreuzt wurde, sind die Verfahren und Sanktionen zu erläutern.⁹
   | 1. |   | Siehe auch Anlage Nr. _ _¹⁰.\\ |
   | 2. |   | Siehe auch Anlage Nr. _ _¹⁰.\\ |
 - 2. :: Angaben nach § 9 Abs. 3 InhKontrollV<<FnR.FnA3-f791615_43>>[[#FnA3-f791615_43][11]]}
 - 2.1 :: Wurde die Zuverlässigkeit des auf Seite 1 Angegebenen als Erwerber einer bedeutenden Beteiligung an einem Institut, Versicherungsunternehmen, Pensionsfonds oder einer Versicherungs-Holdinggesellschaft im Sinne des § 1b VAG oder als Geschäftsleiter eines Instituts, Versicherungsunternehmens, Pensionsfonds oder einer Versicherungs-Holdinggesellschaft im Sinne des § 1b VAG durch eine andere Aufsichtsbehörde geprüft?
    □ Nein.
    □ Ja.
-  Wenn ja“ angekreuzt wurde, sind nachfolgend zu dem Prüfungsverfahren die Bezeichnung der Aufsichtsbehörde, der Zeitpunkt der Prüfung (Monat/Jahr) sowie das Ergebnis der Prüfung anzugeben.⁹
+  Wenn „ja“ angekreuzt wurde, sind nachfolgend zu dem Prüfungsverfahren die Bezeichnung der Aufsichtsbehörde, der Zeitpunkt der Prüfung (Monat/Jahr) sowie das Ergebnis der Prüfung anzugeben.⁹
   | 1. |   | Siehe auch Anlage Nr. _ _¹⁰.\\ |
   | 2. |   | Siehe auch Anlage Nr. _ _¹⁰.\\ |
 
@@ -1092,25 +1092,25 @@ Seite 1
 - 2.2 :: Ist eine vergleichbare Prüfung zu Nummer 2.1 durch eine andere Behörde in Bezug auf den auf Seite 1 Angegebenen erfolgt?
    □ Nein.
    □ Ja.
-  Wenn ja“ angekreuzt wurde, sind nachfolgend zu dem Prüfungsverfahren die Bezeichnung der Behörde, der Zeitpunkt der Prüfung (Monat/Jahr) sowie das Ergebnis der Prüfung anzugeben.⁹
+  Wenn „ja“ angekreuzt wurde, sind nachfolgend zu dem Prüfungsverfahren die Bezeichnung der Behörde, der Zeitpunkt der Prüfung (Monat/Jahr) sowie das Ergebnis der Prüfung anzugeben.⁹
   | 1. |   | Siehe auch Anlage Nr. _ _¹⁰.\\ |
   | 2. |   | Siehe auch Anlage Nr. _ _¹⁰.\\ |
 - 3. :: Unterschrift(en)
 
-
+ 
 Ort
-
+ 
 Datum
 Unterschrift des Anzeigepflichtigen oder der vertretungsberechtigten Person(en)
-
-
-
+ 
+ 
+ 
 Seite 5
 Fußnoten
 - <<FnA3-f791615_33>>[[#FnR.FnA3-f791615_33][1]] :: Die vom Anzeigepflichtigen vergebene Nummer der betreffenden Anlage zur Anzeige ist einzutragen.
 - <<FnA3-f791615_34>>[[#FnR.FnA3-f791615_34][2]] :: Für den Anzeigepflichtigen, für jede Person nach § 8 Nr. 3 und 7 InhKontrollV, für jedes vom Anzeigepflichtigen derzeit oder früher geleitete oder kontrollierte Unternehmen ist ein gesondertes Formular zu verwenden.
 - <<FnA3-f791615_35>>[[#FnR.FnA3-f791615_35][3]] :: In diesem Fall sind keine Angaben zur Identität des Anzeigepflichtigen in die nachfolgende Tabelle einzutragen.
-- <<FnA3-f791615_36>>[[#FnR.FnA3-f791615_36][4]] :: Ist der persönlich haftende Gesellschafter keine natürliche Person, sind lediglich die Zeilen Firma“, Rechtsform“ und Sitz mit Postleitzahl“ auszufüllen.
+- <<FnA3-f791615_36>>[[#FnR.FnA3-f791615_36][4]] :: Ist der persönlich haftende Gesellschafter keine natürliche Person, sind lediglich die Zeilen „Firma“, „Rechtsform“ und „Sitz mit Postleitzahl“ auszufüllen.
 - <<FnA3-f791615_37>>[[#FnR.FnA3-f791615_37][5]] :: Diese Personen müssen das Formular eigenhändig unterschreiben.
 - <<FnA3-f791615_38>>[[#FnR.FnA3-f791615_38][6]] :: Die Postleitzahl ist nur von Inländern anzugeben.
 - <<FnA3-f791615_39>>[[#FnR.FnA3-f791615_39][7]] :: Nur anzugeben, sofern eine Eintragung oder Rechtsträgerkennung vorliegt.
@@ -1136,19 +1136,19 @@ Firma\\
 Firma Zeile 1
 Firma Zeile 2
 Rechtsform
-
+ 
 Sitz mit Postleitzahl
-
+ 
 Anschrift der Hauptniederlassung
-
+ 
 Straße, Hausnummer
-
+ 
 Postleitzahl
-
+ 
 Ort
-
+ 
 Rechtsträgerkennung<<FnR.FnA4-f791615_45>>[[#FnA4-f791615_45][2]]} ,}<<FnR.FnA4-f791615_46>>[[#FnA4-f791615_46][3]]}
-
+ 
 Der Anzeigepflichtige hat nach der Verringerung Kontrolle über das Zielunternehmen:\\
 (Bitte nur ausfüllen bei der Anzeige der Verringerung der bedeutenden Beteiligung.)
  □ Ja.  □ Nein.
@@ -1158,15 +1158,15 @@ Seite 1
 
 Familienname
 
-
+ 
 
 Geburtsname
 
-
+ 
 
 Sämtliche Vornamen
 
-
+ 
 
 Staatsangehörigkeit
 
@@ -1174,27 +1174,27 @@ Kein Eintrag erforderlich, wenn sich die Angaben seit der letzten Anzeige nicht 
 
 Anschrift des Hauptwohnsitzes      Kein Eintrag erforderlich, wenn sich die Angaben seit der letzten Anzeige nicht verändert haben.
 
-
+ 
 
 Straße, Hausnummer
 
-
+ 
 
 Postleitzahl<<FnR.FnA4-f791615_47>>[[#FnA4-f791615_47][4]]}
 
-
+ 
 
 Ort
 
-
+ 
 
 Staat
 
-
+ 
 
 Angaben zur Firma, sofern vorhanden   Kein Eintrag erforderlich, wenn sich die Angaben seit der letzten Anzeige nicht verändert haben.
 
-
+ 
 
 Firma\\
 (laut Registereintragung)
@@ -1205,18 +1205,18 @@ Firma Zeile 2
 
 Sitz mit Postleitzahl⁴
 
-
+ 
 
 Sitzstaat
 
-
+ 
 
 Wirtschaftszweig<<FnR.FnA4-f791615_48>>[[#FnA4-f791615_48][5]]}
 
 Kein Eintrag erforderlich, wenn sich die Angaben seit der letzten Anzeige nicht verändert haben.
 
 Ordnungsmerkmale\\
-Registereintragung
+Registereintragung³
 
 Kein Eintrag erforderlich, wenn sich die Angaben seit der letzten Anzeige nicht verändert haben.
 
@@ -1231,46 +1231,46 @@ Firma Zeile 2
 
 Rechtsform
 
-
+ 
 
 Sitz mit Postleitzahl⁴
 
-
+ 
 
 Sitzstaat
 
-
+ 
 
 Anschrift der Hauptniederlassung     Kein Eintrag erforderlich, wenn sich die Angaben seit der letzten Anzeige nicht verändert haben.
 
-
+ 
 
 Straße, Hausnummer
 
-
+ 
 
 Postleitzahl⁴
 
-
+ 
 
 Ort
 
-
+ 
 
 Staat
 
-
+ 
 
 Wirtschaftszweig⁵
 
 Kein Eintrag erforderlich, wenn sich die Angaben seit der letzten Anzeige nicht verändert haben.
 
 Ordnungsmerkmale\\
-Registereintragung
+Registereintragung³
 
 Kein Eintrag erforderlich, wenn sich die Angaben seit der letzten Anzeige nicht verändert haben.
 
-Rechtsträgerkennung
+Rechtsträgerkennung³
 
 Kein Eintrag erforderlich, wenn sich die Angaben seit der letzten Anzeige nicht verändert haben.
 
@@ -1286,31 +1286,31 @@ Seite 2
 
 Familienname
 
-
+ 
 
 Sämtliche Vornamen
 
-
+ 
 
 Geburtsdatum
 
-
+ 
 
 Anschrift
 
-
+ 
 
 Straße, Hausnummer
 
-
+ 
 
 Postleitzahl
 
-
+ 
 
 Ort
 
-
+ 
 
 - 2.2 :: Bitte nur ausfüllen, wenn Empfangsbevollmächtigter keine natürliche Person ist.
 
@@ -1323,36 +1323,36 @@ Firma Zeile 2
 
 Rechtsform
 
-
+ 
 
 Sitz mit Postleitzahl
 
-
+ 
 
 Anschrift
 
-
+ 
 
 Straße, Hausnummer
 
-
+ 
 
 Postleitzahl
 
-
+ 
 
 Ort
 
-
+ 
 
 Ordnungsmerkmale\\
-Registereintragung
+Registereintragung³
 
+ 
 
+Rechtsträgerkennung³
 
-Rechtsträgerkennung
-
-
+ 
 
 Seite 3
 - 3. :: Die geplanten Kapital- oder Stimmrechtsanteile würden ganz oder teilweise noch einem anderen als dem Mutterunternehmen zugerechnet werden:\\
@@ -1395,21 +1395,21 @@ Fußnoten
 - <<FnA4-f791615_45>>[[#FnR.FnA4-f791615_45][2]] :: Legal Entity Identifier.
 - <<FnA4-f791615_46>>[[#FnR.FnA4-f791615_46][3]] :: Nur anzugeben, sofern eine Eintragung bzw. Rechtsträgerkennung vorliegt.
 - <<FnA4-f791615_47>>[[#FnR.FnA4-f791615_47][4]] :: Die Postleitzahl ist nur von Inländern anzugeben.
-- <<FnA4-f791615_48>>[[#FnR.FnA4-f791615_48][5]] :: Es ist die dreistellige Schlüsselnummer entsprechend der Kundensystematik für die Bankenstatistik“ einzutragen.
+- <<FnA4-f791615_48>>[[#FnR.FnA4-f791615_48][5]] :: Es ist die dreistellige Schlüsselnummer entsprechend der „Kundensystematik für die Bankenstatistik“ einzutragen.
 - <<FnA4-f791615_49>>[[#FnR.FnA4-f791615_49][6]] :: Die vom Anzeigepflichtigen vergebene Nummer der betreffenden Anlage zur Anzeige ist einzutragen.
 - <<FnA4-f791615_50>>[[#FnR.FnA4-f791615_50][7]] :: Nummer 4.2 ist nicht auszufüllen
   - -- :: bei komplexen Beteiligungsstrukturen,
   - -- :: bei mittelbaren Beteiligungsverhältnissen über mehr als vier Ebenen und
   - -- :: wenn sich die Tochtereigenschaft eines zwischengeschalteten Beteiligungsunternehmens nicht aus der Höhe des Kapital- und/oder Stimmrechtsanteils herleiten lässt.
 
-  Stattdessen ist das Formular Komplexe Beteiligungsstrukturen“ der Inhaberkontrollverordnung auszufüllen und als Anlage beizufügen.
+  Stattdessen ist das Formular „Komplexe Beteiligungsstrukturen“ der Inhaberkontrollverordnung auszufüllen und als Anlage beizufügen.
 - <<FnA4-f791615_51>>[[#FnR.FnA4-f791615_51][8]] :: Für beabsichtigte mittelbar gehaltene Beteiligungen gilt: Einzutragen ist die vollständige beabsichtigte Beteiligungskette mit den jeweiligen beabsichtigten unmittelbar gehaltenen Beteiligungsquoten zwischen den Beteiligungsunternehmen. Die Kette beginnt mit der beabsichtigten unmittelbar gehaltenen Beteiligung des Anzeigepflichtigen und endet mit dem Zielunternehmen.
 - <<FnA4-f791615_52>>[[#FnR.FnA4-f791615_52][9]] :: Zu dem unter Nummer 1.1 angegebenen Anzeigepflichtigen muss hier lediglich dessen vollständiger Name (Vorname und Familienname) wiederholt werden. Zu dem unter Nummer 1.2 angegebenen Anzeigepflichtigen bzw. dem auf der Seite 1 angezeigten Zielunternehmen muss lediglich die Firma eingetragen werden.
 - <<FnA4-f791615_53>>[[#FnR.FnA4-f791615_53][10]] :: Beteiligung am Nennwert (Nennkapital, Summe der Kapitalanteile); bei Personenhandelsgesellschaften und Gesellschaften des bürgerlichen Rechts ist auf das durch den Gesellschaftsvertrag festgelegte Beteiligungsverhältnis abzustellen. Angaben in Prozent mit einer Stelle nach dem Komma. Sofern der Nennwert nicht auf Euro lautet, ist zusätzlich der Nennwert in ausländischer Währung (in Tsd.) anzugeben. Der Nennwert ist zum Kurs des Meldestichtages umzurechnen. Sofern es sich bei dem Zielunternehmen um einen Versicherungsverein auf Gegenseitigkeit handelt, sind Prozentangaben in Bezug auf den Gründungsstock zu machen.
 - <<FnA4-f791615_54>>[[#FnR.FnA4-f791615_54][11]] :: Beabsichtigter unmittelbarer Anteil des vorhergehenden Unternehmens der Beteiligungskette an dem hier genannten Zielunternehmen (keine durchgerechneten Quoten).
 - <<FnA4-f791615_55>>[[#FnR.FnA4-f791615_55][12]] :: Sofern das Kapital des Unternehmens nicht auf Euro lautet, ist zusätzlich das Kapital in ausländischer Währung (in Tsd.) anzugeben. Das Kapital ist zum Kurs des Meldestichtages umzurechnen.
 - <<FnA4-f791615_56>>[[#FnR.FnA4-f791615_56][13]] :: Nur auszufüllen, soweit vom Kapitalanteil abweichend; Angaben in Prozent mit einer Stelle nach dem Komma.
-- <<FnA4-f791615_57>>[[#FnR.FnA4-f791615_57][14]] :: Ist der Anzeigepflichtige oder der die zukünftig noch gehaltenen Kapital- oder Stimmrechtsanteile Vermittelnde ein Mutterunternehmen des Zielunternehmens, ist Mutter“ einzutragen. Ist der die zukünftig noch gehaltenen Kapital- oder Stimmrechtsanteile Vermittelnde ein Schwesterunternehmen des Zielunternehmens, ist Schwester“ einzutragen. Ansonsten ist das Feld nicht auszufüllen.
+- <<FnA4-f791615_57>>[[#FnR.FnA4-f791615_57][14]] :: Ist der Anzeigepflichtige oder der die zukünftig noch gehaltenen Kapital- oder Stimmrechtsanteile Vermittelnde ein Mutterunternehmen des Zielunternehmens, ist „Mutter“ einzutragen. Ist der die zukünftig noch gehaltenen Kapital- oder Stimmrechtsanteile Vermittelnde ein Schwesterunternehmen des Zielunternehmens, ist „Schwester“ einzutragen. Ansonsten ist das Feld nicht auszufüllen.
 - <<FnA4-f791615_58>>[[#FnR.FnA4-f791615_58][15]] :: Ist die in der ersten Tabelle genannte Person nur zusammen mit einer oder mehreren anderen Personen zur Vertretung des Anzeigepflichtigen berechtigt, hat diese bzw. haben diese weiteren Personen jeweils eine der nachfolgenden Tabellen auszufüllen. Fehlende Tabellen sind zu ergänzen; ggf. ist ein gesondertes Blatt dem Formular anzufügen, auf dem die Seitenzahlnummerierung des Formulars fortzusetzen ist.
 
 Diese Seite ist nicht einzureichen.

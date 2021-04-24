@@ -10,16 +10,16 @@ Auf Grund des § 25 Absatz 1 Satz 1 der Handwerksordnung, der durch Artikel 146 
 
 Inhaltsübersicht
 
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Anlage: Ausbildungsrahmenplan für die Berufsausbildung zum Bogenmacher und zur Bogenmacherin
 
 § 1 - Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf des Bogenmachers und der Bogenmacherin wird nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe nach Anlage B Abschnitt 1 Nummer 48 Bogenmacher“ der Handwerksordnung staatlich anerkannt.
+Der Ausbildungsberuf des Bogenmachers und der Bogenmacherin wird nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe nach Anlage B Abschnitt 1 Nummer 48 „Bogenmacher“ der Handwerksordnung staatlich anerkannt.
 
 § 2 - Dauer der Berufsausbildung
 
@@ -210,13 +210,13 @@ Anstelle einer dieser Tätigkeiten kann eine andere Tätigkeit ausgewählt werde
 
 (2) Die Gesellenprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
-- 1. :: im Gesamtergebnis mit mindestens ausreichend“,
-- 2. :: in mindestens drei Prüfungsbereichen mit mindestens ausreichend“ und
-- 3. :: in keinem Prüfungsbereich mit ungenügend“.
+- 1. :: im Gesamtergebnis mit mindestens „ausreichend“,
+- 2. :: in mindestens drei Prüfungsbereichen mit mindestens „ausreichend“ und
+- 3. :: in keinem Prüfungsbereich mit „ungenügend“.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche Planung und Konstruktion“ oder Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Planung und Konstruktion“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-- 1. :: der Prüfungsbereich schlechter als mit ausreichend“ bewertet worden ist und
+- 1. :: der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 - 2. :: die mündliche Ergänzungsprüfung für das Bestehen der Gesellenprüfung den Ausschlag geben kann.
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.

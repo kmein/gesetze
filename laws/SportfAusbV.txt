@@ -189,7 +189,7 @@ Geschäfts- und Leistungsprozess\\
 (§ 3 Abs. 2\\
 Abschnitt A Nr. 2)
 
-
+ 
 
 2.1
 
@@ -234,7 +234,7 @@ Marketing\\
 (§ 3 Abs. 2\\
 Abschnitt A Nr. 3)
 
-
+ 
 
 3.1
 
@@ -335,7 +335,7 @@ Abschnitt A Nr. 9)
 - c) :: den Einsatz technischer Hilfsmittel für die Betreuung sicherstellen
 - d) :: über die Hinzuziehung von externen Fachkräften entscheiden und deren Einsatz organisieren
 
-
+ 
 
 Abschnitt B: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
 
@@ -345,7 +345,7 @@ Der Ausbildungsbetrieb\\
 (§ 3 Abs. 2\\
 Abschnitt B Nr. 1)
 
-
+ 
 
 1.1
 
@@ -402,7 +402,7 @@ Information, Kommunikation und Kooperation\\
 (§ 3 Abs. 2\\
 Abschnitt B Nr. 2)
 
-
+ 
 
 2.1
 

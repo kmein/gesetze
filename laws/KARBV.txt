@@ -16,14 +16,14 @@ jeweils in Verbindung mit § 1 Nummer 3a der Verordnung zur Übertragung von Bef
 
 Inhaltsübersicht
 
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 § 1 - Geltungsbereich
 
@@ -135,7 +135,7 @@ Satz 1 Nummer 9 Buchstabe c Doppelbuchstabe bb gilt nicht für offene inländisc
 - II. :: Verbindlichkeiten
 - III. :: Fondsvermögen.
 
-Bei Spezial-AIF sind den Posten nach Satz 1 die Posten I. Sachwerte“ und II. Beteiligungen“ voranzustellen; die folgenden Posten sind entsprechend umzunummerieren.
+Bei Spezial-AIF sind den Posten nach Satz 1 die Posten „I. Sachwerte“ und „II. Beteiligungen“ voranzustellen; die folgenden Posten sind entsprechend umzunummerieren.
 
 (3) Bei Immobilien-Sondervermögen und offenen inländischen Spezial-AIF mit Anlagen in Immobilien oder Immobilien-Gesellschaften hat die Gliederung der Vermögensübersicht mindestens die folgenden Gliederungspunkte zu enthalten; Leerposten können jeweils entfallen:
 
@@ -309,7 +309,7 @@ Die Posten unter Satz 1 Gliederungsziffer II sind den entsprechenden Posten unte
   - 3. :: Zur Verfügung gestellter Steuerabzugsbetrag
 - II. :: Wiederanlage.
 
-(3) Bei Immobilien-Sondervermögen und offenen inländischen Spezial-AIF mit Anlagen in Immobilien oder Immobilien-Gesellschaften, für die eine Verwendungsrechnung erstellt wird, ist den Posten gemäII. Einbehalt gemäß § 252 des Kapitalanlagegesetzbuches“ voranzustellen; die folgenden Posten sind entsprechend umzunummerieren.
+(3) Bei Immobilien-Sondervermögen und offenen inländischen Spezial-AIF mit Anlagen in Immobilien oder Immobilien-Gesellschaften, für die eine Verwendungsrechnung erstellt wird, ist den Posten gemäß Absatz 1 Gliederungsziffer II der Posten „II. Einbehalt gemäß § 252 des Kapitalanlagegesetzbuches“ voranzustellen; die folgenden Posten sind entsprechend umzunummerieren.
 (4) Sofern für Zwecke der Gesamtausschüttung eine Zuführung aus dem Sondervermögen gemäß Absatz 1 Gliederungsziffer I Nummer 3 vorgenommen wird, ist dies in der Verwendungsrechnung ergänzend zu erläutern.
 (+++ Abschnitt 2 (§§ 6 bis 25): Zur Anwendung vgl. § 35 Abs. 1 +++)
 
@@ -330,7 +330,7 @@ Die Posten unter Satz 1 Gliederungsziffer II sind den entsprechenden Posten unte
   davon nicht realisierte Verluste
 - II. :: Wert des Sondervermögens am Ende des Geschäftsjahres.
 
-(2) Bei Immobilien-Sondervermögen und offenen inländischen Spezial-AIF mit Anlagen in Immobilien oder Immobilien-Gesellschaften ist in der Aufstellung nach Absatz 1 nach Gliederungsziffer I Nummer 4 der Posten 4a. Abschreibung Anschaffungsnebenkosten“ einzufügen.
+(2) Bei Immobilien-Sondervermögen und offenen inländischen Spezial-AIF mit Anlagen in Immobilien oder Immobilien-Gesellschaften ist in der Aufstellung nach Absatz 1 nach Gliederungsziffer I Nummer 4 der Posten „4a. Abschreibung Anschaffungsnebenkosten“ einzufügen.
 (3) Rücknahmeabschläge, die im Sondervermögen verbleiben, sind dem Posten unter Absatz 1 Gliederungsziffer I Nummer 3 Buchstabe b zuzuordnen und mindern diesen.
 (+++ Abschnitt 2 (§§ 6 bis 25): Zur Anwendung vgl. § 35 Abs. 1 +++)
 

@@ -198,13 +198,13 @@ Dieser Teil gilt für die Häfen der Deutschen Marine und der Bundespolizei mit 
 
 - 1. Hafen Eckernförde: :: durch eine Linie, die an einem Uferpunkt im Westen (54° 28,474´ N, 009° 51,438´ E) beginnt und an der Westmole in einem Abstand von 20 m, an den beiden Südmolen unter Einschluss der Hafeneinfahrt in einem Abstand von 50 m verläuft und von dort auf den südwestlichen Eckpunkt des Sperrgebietes Eckernförde Nord (54° 28,310´ N, 009° 52,213´ E) trifft. Von diesem Punkt verläuft die Grenze in gerader Linie zu der ausgebrachten Sperrgebietstonne auf Position (54° 28,426´ N, 009° 52,677´ E) und von dort zu einem Uferpunkt im Osten auf Position (54° 28,545´ N, 009° 52,560´ E);
 - 2. Hafen Kiel: :: - a) :: Tirpitz- und Scheerhafen durch eine Linie, die im Norden an dem Uferpunkt:
-    - (1) :: 54° 21,740´ N; 010° 08,780´ E beginnt und über die Punkte mit den Koordinaten
+    - (1) :: 54° 21,740´ N; 010° 08,780´ E beginnt und über die Punkte mit den Koordinaten 
     - (2) :: 54° 21,660´ N; 010° 09,090´ E
     - (3) :: 54° 21,270´ N; 010° 09,160´ E
     - (4) :: 54° 21,160´ N; 010° 08,930´ E bis zu dem Uferpunkt
     - (5) :: 54° 21,190´ N; 010° 08,470´ E verläuft.
 
-    Die Positionen (2), (3) und (4) sind mit gelben Tonnen mit der Beschriftung Militär-G.“ und einem gelben liegenden Kreuz als Toppzeichen gekennzeichnet;
+    Die Positionen (2), (3) und (4) sind mit gelben Tonnen mit der Beschriftung „Militär-G.“ und einem gelben liegenden Kreuz als Toppzeichen gekennzeichnet;
   - b) :: Arsenalhafen durch die Verbindungslinie eines Punktes auf dem Molenkopf des Arsenalhafens 54° 19,610´ N; 010° 09,530´ E mit dem südwestlich davon gelegenen Uferpunkt 54° 19,470´ N; 010° 09,240´ E;
 
 - 3. Hafen Flensburg-Mürwik: :: (seeseitig der Marineschule Mürwik) durch die Verbindungslinie zwischen den Punkten:
@@ -218,15 +218,15 @@ Dieser Teil gilt für die Häfen der Deutschen Marine und der Bundespolizei mit 
 
 - 5. Hafen Warnemünde: :: - a) :: Deutscher Marinehafen, der in Teilbereichen ebenfalls durch die Bundespolizei genutzt wird, durch eine Linie, die an einem Uferpunkt im Westen (54° 10,166´ N; 012° 06,133´ E) beginnt,\\
     dann über die Sperrgebietstonnen\\
-    Sperr-G. 1“ (54° 10,120´ N; 012° 06,140´ E),\\
-    Sperr-G. 2“ (54° 10,120´ N; 012° 06,310´ E),\\
-    Sperr-G. 3“ (54° 10,140´ N; 012° 06,570´ E)\\
+    „Sperr-G. 1“ (54° 10,120´ N; 012° 06,140´ E),\\
+    „Sperr-G. 2“ (54° 10,120´ N; 012° 06,310´ E),\\
+    „Sperr-G. 3“ (54° 10,140´ N; 012° 06,570´ E)\\
     bis zum Molenkopf der Schutzmole (54° 10,080´ N; 012° 06,730´ E),\\
     nördlich davon folgend über die anschließende Munitionspier und von dort über die Ostkaje, nördliche Hafengrenze, Westkaje bis zum Uferpunkt im Westen (54° 10,166´ N; 012° 06,133´ E) verläuft.
   - b) :: Sperrgebiet Südlich der Munitionspier, das beginnt bei Position 54° 10,150´ N; 012° 07,060´ E auf der Schutzmole und dann über die Sperrgebietstonnen\\
-    Sperr-G. 4“ (54° 10,050´ N; 012° 07,120´ E),\\
-    Sperr-G. 5“ (54° 10,080´ N; 012° 07,620´ E),\\
-    Sperr-G. 6“ (54° 10,250´ N; 012° 08,000´ E) und\\
+    „Sperr-G. 4“ (54° 10,050´ N; 012° 07,120´ E),\\
+    „Sperr-G. 5“ (54° 10,080´ N; 012° 07,620´ E),\\
+    „Sperr-G. 6“ (54° 10,250´ N; 012° 08,000´ E) und\\
     dem Uferpunkt (54° 10,420´ N; 012° 07,790´ E)\\
     in direkter Linie entlang der Munitionspier und der Schutzmole zurück bis zur Position (54° 10,150´ N; 012° 07,060´ E) auf der Schutzmole verläuft.
 
@@ -235,13 +235,13 @@ Dieser Teil gilt für die Häfen der Deutschen Marine und der Bundespolizei mit 
 
 (2) Der Bootsanleger der Liegenschaft Marineschule Bremerhaven besteht aus einer Pontonanlage von ca. 65 m Länge und 3,3 m Breite zwischen den Koordinaten 53° 32,626´ N; 8° 35,218´ E und 53° 32,593´ N; 8° 35,241´ E entlang dem tideabhängigen Teil der Geeste.
 (3) Das Befahren der Wasserflächen der in Absatz 1 bezeichneten Häfen und des in Absatz 2 bezeichneten Bootsanlegers ist verboten. Satz 1 gilt nicht für Dienstfahrzeuge des Bundes und der Länder. Von dem Verbot des Satzes 1 können die zuständigen Bundeswehr- und Bundespolizei-Dienststellen Ausnahmen genehmigen.
-(4) Die Hafenbehörde des Hafen Parow ist der Kasernenkommandant und wird vertreten durch den militärischen Hafenmeister/Leiter Bootshafen. Dieser ist an Werktagen auf dem UKW-Kanal 16/11 Rufname Navel Port Parow“ in der Zeit von 7.00 Uhr bis 16.00 Uhr unter dem Rufzeichen DHJ82 empfangsbereit. Er ist auch unter der Telefonnummer +49 03831-682250 oder -682240 erreichbar.
+(4) Die Hafenbehörde des Hafen Parow ist der Kasernenkommandant und wird vertreten durch den militärischen Hafenmeister/Leiter Bootshafen. Dieser ist an Werktagen auf dem UKW-Kanal 16/11 Rufname „Navel Port Parow“ in der Zeit von 7.00 Uhr bis 16.00 Uhr unter dem Rufzeichen DHJ82 empfangsbereit. Er ist auch unter der Telefonnummer +49 03831-682250 oder -682240 erreichbar.
 
 § 33 - Allgemeines
 
 (1) Das Hafengebiet umfasst den gesamten Neuen Vorhafen, die Seeschleuse und erstreckt sich weiter in südliche Richtung bis an die Grenze des militärischen Hafenbereichs, die im Abstand von 100 m parallel zu den Binnenhäuptern der Seeschleuse verläuft. Die erfassten Wasser- und Landflächen sind Teil des militärischen Sicherheitsbereiches der Marineanlage Heppenser Groden, Wilhelmshaven.
 (2) Im Hafengebiet gelten die Seeschifffahrtsstraßen-Ordnung in der Fassung der Bekanntmachung vom 22. Oktober 1998 (BGBl. I S. 3209; 1999 I S. 193), die durch Artikel 60 der Verordnung vom 2. Juni 2016 (BGBl. I S. 1257) geändert worden ist, und die Internationalen Regeln von 1972 zur Verhütung von Zusammenstößen auf See vom 13. Juni 1977 (BGBl. I S. 816), die zuletzt durch Artikel 1 Nummer 2 der Verordnung vom 18. März 2009 (BGBl. I S. 647) geändert worden sind, in Verbindung mit der Verordnung zu den Internationalen Regeln von 1972 zur Verhütung von Zusammenstößen auf See vom 13. Juni 1977 (BGBl. I S. 813), die zuletzt durch Artikel 62 der Verordnung vom 2. Juni 2016 (BGBl. I S. 1257) geändert worden ist, in der jeweils geltenden Fassung.
-(3) Hafenbehörde ist der militärische Hafenkapitän der Marineanlage Heppenser Groden, Wilhelmshaven. Der militärische Hafenkapitän ist an Werktagen auf dem UKW-Kanal 11 in der Zeit von 7.00 Uhr bis 15.30 Uhr unter dem Rufzeichen WILHELMSHAVEN NAVAL PORT RADIO“ empfangsbereit. Er ist auch unter der Telefonnummer + 49 4421-68 49 20 zu erreichen.
+(3) Hafenbehörde ist der militärische Hafenkapitän der Marineanlage Heppenser Groden, Wilhelmshaven. Der militärische Hafenkapitän ist an Werktagen auf dem UKW-Kanal 11 in der Zeit von 7.00 Uhr bis 15.30 Uhr unter dem Rufzeichen „WILHELMSHAVEN NAVAL PORT RADIO“ empfangsbereit. Er ist auch unter der Telefonnummer + 49 4421-68 49 20 zu erreichen.
 (4) Die Hafenbehörde kann Verkehrsbeschränkungen und Verkehrsverbote innerhalb des Hafenbereichs anordnen und deren Einhaltung überwachen. In Notfällen koordiniert sie die erforderlichen Maßnahmen der Gefahrenabwehr.
 (5) Die Verkehrsregelung beim Ein- und Auslaufen in die beziehungsweise aus der Seeschleuse wird von den Schleusenbediensteten des Wasserstraßen- und Schifffahrtsamtes Wilhelmshaven durchgeführt.
 
@@ -251,7 +251,7 @@ Dieser Teil gilt für die Häfen der Deutschen Marine und der Bundespolizei mit 
 (2) Der Kapitän eines Fahrgastschiffes im Rahmen von Hafenrundfahrten hat sich bei jedem Einlaufen auf UKW-Kanal 11 bei der Hafenbehörde anzumelden.
 (3) Die Hafenbehörde kann die Benutzung des Neuen Vorhafens einschränken oder verweigern, wenn dies allgemeine Hafenbelange oder militärische Gründe erfordern. Die Hafenbehörde kann den Neuen Vorhafen und die Seeschleuse jederzeit sperren, wenn dies zur Abwehr einer Gefahr für die öffentliche Sicherheit und die Leichtigkeit des Verkehrs erforderlich ist. Die Hafenbehörde unterrichtet über ihre Anordnungen nach den Sätzen 1 und 2 unverzüglich die zivilen Hafenbehörden, das Wasserstraßen- und Schifffahrtsamt Wilhelmshaven und die Wasserschutzpolizei Wilhelmshaven.
 (4) Auf Anordnung der Hafenbehörde können die Kapitäne von Fahrzeugen verpflichtet werden, einen Lotsen anzunehmen. Für die Überwegung zur Seeschleuse gilt die Weser/Jade Lotsverordnung in ihrer jeweils geltenden Fassung.
-(5) Jeder Kapitän eines Fahrzeugs, der beabsichtigt mit seinem Fahrzeug die Schleuse zu befahren, ist verpflichtet, sich vor dem Einlaufen in die Seeschleuse bei der Schleusenaufsicht anzumelden. Satz 1 gilt nicht für Sportfahrzeuge; eine Anmeldung wird jedoch empfohlen. Die Küstenfunkstelle WILHELMSHAVEN LOCK“ ist während der Schleusenbetriebszeiten auf den UKW-Kanälen 13 und 16 empfangsbereit.
+(5) Jeder Kapitän eines Fahrzeugs, der beabsichtigt mit seinem Fahrzeug die Schleuse zu befahren, ist verpflichtet, sich vor dem Einlaufen in die Seeschleuse bei der Schleusenaufsicht anzumelden. Satz 1 gilt nicht für Sportfahrzeuge; eine Anmeldung wird jedoch empfohlen. Die Küstenfunkstelle „WILHELMSHAVEN LOCK“ ist während der Schleusenbetriebszeiten auf den UKW-Kanälen 13 und 16 empfangsbereit.
 (6) Der militärische Sicherheitsbereich ist mit mäßiger Geschwindigkeit, jedoch ohne Verzögerung zu durchfahren. Die Anker müssen klar zum Fallen sein.
 (7) Das Anlegen im Neuen Vorhafen ist für zivile Fahrzeuge nur mit Genehmigung der Hafenbehörde gestattet. Die Genehmigung wird in Notfällen durch die Hafenbehörde erteilt.
 (8) Sportfahrzeuge dürfen andere Fahrzeuge nicht behindern. Treten Wartezeiten zum Schleusen ein, müssen Kapitäne von Sportfahrzeugen diese an den von der Hafenbehörde festgelegten, rot gekennzeichneten Liegeplätzen (Festmacherdalben) anlegen. Außer zum Festmachen dürfen die Fahrzeuge nicht verlassen werden.
@@ -302,9 +302,9 @@ in den jeweils geltenden Fassungen, unberührt.
 
 Von den Vorschriften dieser Verordnung sind Fahrzeuge des öffentlichen Dienstes befreit, soweit dies zur Erfüllung hoheitlicher Aufgaben unter gebührender Berücksichtigung der öffentlichen Sicherheit und Ordnung dringend geboten ist.
 
-§ 40 - Ausnahmen für die Deutsche Gesellschaft zur Rettung Schiffbrüchiger“
+§ 40 - Ausnahmen für die „Deutsche Gesellschaft zur Rettung Schiffbrüchiger“
 
-Die Fahrzeuge der Deutschen Gesellschaft zur Rettung Schiffbrüchiger“ sind von den Verboten dieser Verordnung ausgenommen, soweit dies zur Wahrnehmung ihrer Rettungsaufgaben im Einzelfall unumgänglich ist.
+Die Fahrzeuge der „Deutschen Gesellschaft zur Rettung Schiffbrüchiger“ sind von den Verboten dieser Verordnung ausgenommen, soweit dies zur Wahrnehmung ihrer Rettungsaufgaben im Einzelfall unumgänglich ist.
 
 § 41 - Ausnahmen in besonderen Fällen
 

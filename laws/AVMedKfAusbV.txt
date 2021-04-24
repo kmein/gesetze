@@ -117,7 +117,7 @@ Zu vermittelnde Fertigkeiten und Kenntnisse
 3
 1
 Der Ausbildungsbetrieb (§ 3 Nr. 1)
-
+ 
 1.1
 Stellung, Rechtsform und Struktur des Ausbildungsbetriebes (§ 3 Nr. 1.1)
 a)
@@ -177,7 +177,7 @@ d)
 Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 2
 Produktion und Dienstleistungen (§ 3 Nr. 2)
-
+ 
 2.1
 Planung (§ 3 Nr. 2.1)
 a)
@@ -218,7 +218,7 @@ e)
 Verträge verwalten, Rechte archivieren und Produkte lagern
 3
 Marketing und Vertrieb (§ 3 Nr. 3)
-
+ 
 3.1
 Marktbeobachtung (§ 3 Nr. 3.1)
 a)
@@ -257,7 +257,7 @@ b)
 Kundendaten und -informationen für Vermarktung und Vertrieb nutzen
 4
 Kaufmännische Steuerung und Kontrolle (§ 3 Nr. 4)
-
+ 
 4.1
 Rechnungswesen (§ 3 Nr. 4.1)
 a)
@@ -308,7 +308,7 @@ b)
 Honorare und Lizenzen abrechnen
 5
 Kommunikation und Kooperation (§ 3 Nr. 5)
-
+ 
 5.1
 Team- und Projektarbeit (§ 3 Nr. 5.1)
 a)

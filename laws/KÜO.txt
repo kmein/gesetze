@@ -59,7 +59,7 @@ Stellt die zuständige bevollmächtigte Bezirksschornsteinfegerin oder der zust�
 § 2 - Besondere Kehrarbeiten
 
 (1) Eine kehrpflichtige Anlage ist auszubrennen, auszuschlagen oder chemisch zu reinigen, wenn die Verbrennungsrückstände mit den üblichen Kehrwerkzeugen nicht entfernt werden können. Sie darf nicht ausgebrannt werden, wenn ihr Zustand oder sonstige gefahrbringende Umstände entgegenstehen. Ausbrennarbeiten dürfen nur von Personen durchgeführt werden, die zur selbständigen Ausübung des Schornsteinfegerhandwerks berechtigt sind. Der Zeitpunkt des Ausbrennens ist der Eigentümerin oder dem Eigentümer des Grundstücks oder der Räume oder deren Beauftragten, den Hausbewohnern und dem Aufgabenträger für den örtlichen Brandschutz vorher mitzuteilen. Nach dem Ausbrennen ist die Anlage auf Brandgefahren zu überprüfen.
-(2) Reinigungsarbeiten an asbesthaltigen Abgas- und Lüftungsanlagen und Verbrennungsluft- und Abluftanlagen sind von Schornsteinfegerinnen und Schornsteinfegern nach dem Stand der Technik, insbesondere entsprechend den Technischen Regeln für Gefahrstoffe 519 Asbest, Abbruch-, Sanierungs- oder Instandhaltungsarbeiten“ (Bekanntmachung des Bundesministeriums für Arbeit und Soziales vom 20. März 2014, GMBl S. 164, die durch die Bekanntmachung vom 2. März 2015, GMBl S. 136, geändert worden ist), durchzuführen.
+(2) Reinigungsarbeiten an asbesthaltigen Abgas- und Lüftungsanlagen und Verbrennungsluft- und Abluftanlagen sind von Schornsteinfegerinnen und Schornsteinfegern nach dem Stand der Technik, insbesondere entsprechend den Technischen Regeln für Gefahrstoffe 519 „Asbest, Abbruch-, Sanierungs- oder Instandhaltungsarbeiten“ (Bekanntmachung des Bundesministeriums für Arbeit und Soziales vom 20. März 2014, GMBl S. 164, die durch die Bekanntmachung vom 2. März 2015, GMBl S. 136, geändert worden ist), durchzuführen.
 
 § 3 - Pflichten der bevollmächtigten Bezirksschornsteinfegerin oder des bevollmächtigten Bezirksschornsteinfegers
 
@@ -111,16 +111,16 @@ Anlage 1 - (zu § 1 Absatz 4)Anzahl der Kehrungen und Überprüfungen
 Anlage 2 - (zu § 5)
 
 (Fundstelle: BGBl. I 2013, 762 - 772)
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
  Datum des Feuerstättenbescheides:
-
-
-
+ 
+ 
+ 
  Objektnummer laut Feuerstättenbescheid:
 |   |                                                |   |                |   |
 |   | Bevollmächtigte(r) Bezirksschornsteinfeger(in) |   |  Liegenschaft: |   |
@@ -148,26 +148,26 @@ Bemerkungen\\
 Nr.
 Anlage\\
 (Art/Standort oder Verweis auf Anhang)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 | Anschrift des Schornsteinfegerbetriebes                                                                                                                  | Die Schornsteinfegerarbeiten sind entsprechend dem Feuerstättenbescheid ordnungsgemäß durchgeführt worden. |
 | Handwerkskammer, bei der der Betrieb in der Handwerksrolle eingetragen ist bzw. bei der die Anzeige nach § 9 EU/EWR-Handwerk-Verordnung erstattet wurde: | \\                                                                                                         |
 |                                                                                                                                                          | \\                                                                                                         |
@@ -177,33 +177,33 @@ Anlage\\
 | \\                                                                                                                                                       |    Datum     Unterschrift des Eigentümers/Verwalters                                                       |
 | Ausführende(r) Schornsteinfeger(in) (in Druckbuchstaben):\\                                                                                              |                                                                                                            |
 
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 Anschrift des Schornsteinfegerbetriebes
-
+ 
 Datum der Arbeitsausführung:
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 [ ] Überprüfung nach § 1 KÜO<<FnR.F780527_02>>[[#F780527_02][*]]}\\
 [ ] Wiederholungsmessung nach § 1 Absatz 2 KÜO\\
 [ ] Erstmessung nach § 14 Absatz 2 1. BImSchV\\
 [ ] Wiederkehrende Messung nach § 15 Absatz 3 1. BImSchV\\
 [ ] Wiederholungsmessung nach § 14 Absatz 5 1. BImSchV\\
 [ ] Wiederholungsmessung nach § 15 Absatz 5 1. BImSchV
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Ausfertigung für
-
+ 
 |   |                                               |   |                                       |   |
 |   | Name und Anschrift des Eigentümers/Verwalters |   | Betreiber/Aufstellungsort der Anlage: |   |
 |   |                                               |   | Gebäudeteil:                          |   |
@@ -221,51 +221,51 @@ Leistungsbereich/Leistung bei\\
 der Messung\\
 Brennstoff
 Feuerstättenart
-
+ 
 Art der Anlage
 Herstellerbescheinigung nach § 6 1. BImSchV () ja () nein
 Überprüfungsergebnis gemäß KÜO (✓ = in Ordnung, X = mangelhaft, -- = nicht zutreffend):
 Verbrennungsluft/Lüftung
-
+ 
 Abgasabzug:
-
+ 
 Abgasleitung
-
-
+ 
+ 
 Feuerstätte:
-
+ 
 -- an der Strömungssicherung
-
+ 
 O_{2}-Gehalt im Abgas
-
+ 
  %
 -- Befestigung/Abstände
-
+ 
 -- in Brennerhöhe
-
+ 
 unverdünnter CO-Gehalt
-
+ 
 ppm
 -- äußerer Zustand
-
+ 
 -- an anderer Stelle
-
+ 
 O_{2}-Differenz im Ringspalt
-
+ 
  %
 Brenner/Heizgasweg
-
+ 
 Abgasklappe
-
+ 
 Lufttemperatur im Ringspalt
-
+ 
 °C
 Flammenbild
-
+ 
 Verbindungsstück
-
+ 
 Druckdifferenz im Ringspalt
-
+ 
  Pa
 | [ ] Folgende Mängel wurden festgestellt: | [ ] Es wurden keine Mängel festgestellt. |
 
@@ -299,33 +299,33 @@ Bemerkungen:
 | | \\    | Unterschrift des Schornsteinfegers    | | Falls Mängel festgestellt worden sind, die innerhalb einer Frist zu beseitigen sind, oder das Messergebnis nicht der Verordnung entspricht, geben Sie bitte Nachricht, sobald die Mängel beseitigt sind bzw. die Wiederholungsmessung erfolgen kann. |
 | | Datum |                                       | |                                                                                                                                                                                                                                                      |
 
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 Anschrift des Schornsteinfegerbetriebes
-
+ 
 Datum der Arbeitsausführung:
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 [ ] Überprüfung nach § 1 KÜO<<FnR.F780527_03>>[[#F780527_03][*]]}\\
 [ ] Wiederholungsmessung nach § 1 Absatz 2 KÜO\\
 [ ] Erstmessung nach § 14 Absatz 2 1. BImSchV\\
 [ ] Wiederkehrende Messung nach § 15 Absatz 3 1. BImSchV\\
 [ ] Wiederholungsmessung nach § 14 Absatz 5 1. BImSchV\\
 [ ] Wiederholungsmessung nach § 15 Absatz 5 1. BImSchV
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Ausfertigung für
-
+ 
 |   |                                               |   |                                       |   |
 |   | Name und Anschrift des Eigentümers/Verwalters |   | Betreiber/Aufstellungsort der Anlage: |   |
 |   |                                               |   | Gebäudeteil:                          |   |
@@ -343,60 +343,60 @@ Leistungsbereich/Leistung bei\\
 der Messung\\
 Brennstoff
 Feuerstättenart
-
+ 
 Art der Anlage
 Herstellerbescheinigung nach § 6 1. BImSchV  [ ] Ja   [ ]  Nein
 Überprüfungsergebnis gemäß KÜO (✓ = in Ordnung, X = mangelhaft, -- = nicht zutreffend):
 Verbrennungsluft/Lüftung
-
+ 
 Brenner/Heizgasweg
-
+ 
 Verbindungsstück
-
-
+ 
+ 
 Feuerstätte:
-
+ 
 Abgasabzug:
-
+ 
 Abgasleitung
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 O_{2}-Gehalt im Abgas %
-
-
+ 
+ 
 -- Befestigung/Abstände
-
+ 
 -- in Brennerhöhe
-
+ 
 unverdünnter CO-Gehalt
-
+ 
 ppm
 -- äußerer Zustand
-
+ 
 -- an anderer Stelle
-
+ 
 O_{2}-Differenz im Ringspalt
-
+ 
 %
 [ ]  Folgende Mängel wurden festgestellt:
 Lufttemperatur im Ringspalt
-
+ 
 °C
 Druckdifferenz im Ringspalt
-
+ 
 Pa
 [ ]  Es wurden keine Mängel festgestellt.
 [ ] Die Mängel stellen z. Zt. noch keine unmittelbare Gefahr dar, eine Überprüfung durch einen Fachbetrieb wird empfohlen.\\
 [ ] Die Mängel sind aus Sicherheitsgründen bis zum .............................. zu beseitigen.\\
 [ ] Aufgrund der festgestellten Mängel ist eine zusätzliche Überprüfung der Feuerungsanlage erforderlich.
-
+ 
 Grenzwerte:
 Rußzahl
-
+ 
 CO-Gehalt
  1 300 [[../normengrafiken/bgbl1_2013/j0760-1_0010.jpg]]
 Messergebnis gemäß 1. BImSchV:
@@ -405,25 +405,25 @@ Keine
 Abgasverlust
  %
 Rußzahl-Einzelwerte
-
-
-
+ 
+ 
+ 
 Rußzahl-Mittelwert
-
+ 
 Ölderivate
-
+ 
 CO-Gehalt
 [[../normengrafiken/bgbl1_2013/j0760-1_0020.jpg]]
 Wärmeträgertemperatur
   °C
 Verbrennungslufttemperatur
-  °C
+  °C 
 Abgastemperatur
 °C
 Sauerstoffgehalt im Abgas
   %
 Druckdifferenz
-  Pa
+  Pa 
 Abgasverlust
  %
 [ ] Das Messergebnis entspricht der Verordnung.
@@ -438,32 +438,32 @@ Bemerkungen:
 | | \\    | Unterschrift des Schornsteinfegers   | | Falls Mängel festgestellt worden sind, die innerhalb einer Frist zu beseitigen sind, oder das Messergebnis nicht der Verordnung entspricht, geben Sie bitte Nachricht, sobald die Mängel beseitigt sind bzw. die Wiederholungsmessung erfolgen kann. |
 | | Datum |                                      | |                                                                                                                                                                                                                                                      |
 
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 Anschrift des Schornsteinfegerbetriebes
-
+ 
 Datum der Arbeitsausführung:
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 [ ] Überprüfung nach § 14 Absatz 1 1. BImSchV<<FnR.F780527_04>>[[#F780527_04][*]]}\\
 [ ] Messung und Überprüfung nach § 14 Absatz 2 1. BImSchV\\
 [ ] Messung und Überprüfung nach § 15 Absatz 1 bzw. § 25 Absatz 4 1. BImSchV\\
 [ ] Wiederholungsüberprüfung nach § 14 Absatz 5 1. BImSchV\\
 [ ] Beratung nach § 4 Absatz 8 1. BImSchV
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Ausfertigung für
-
+ 
 |   |                                               |   |                                       |   |
 |   | Name und Anschrift des Eigentümers/Verwalters |   | Betreiber/Aufstellungsort der Anlage: |   |
 |   |                                               |   | Gebäudeteil:                          |   |
@@ -500,25 +500,25 @@ Wärmeträgertemperatur\\
 Sauerstoffgehalt\\
        %
 Grenzwert (§ 5 Absatz 1 bzw. § 25 Absatz 2)
-g/m
-g/m
+g/m³
+g/m³
 Messunsicherheit (Anlage 2 Nummer 2.3)
-g/m
-g/m
+g/m³
+g/m³
 Abgastemperatur\\
             °C
 Druckdifferenz\\
        Pa
 Messwert bezogen auf ... % Sauerstoff\\
 (Anlage 2 Nummer 2.2)
-g/m
-g/m
+g/m³
+g/m³
 Messwert abzüglich Messunsicherheit\\
 (Anlage 2 Nummer 2.3)
-g/m
-g/m
+g/m³
+g/m³
 [ ] Das Ergebnis entspricht der Verordnung.
-[ ] Das Ergebnis entspricht nicht der Verordnung, weil  
+[ ] Das Ergebnis entspricht nicht der Verordnung, weil   
 [ ] Die Mängel sind zu beseitigen. Danach ist bis zum ................................................... eine Wiederholungsüberprüfung erforderlich.\\
 Geben Sie bitte Nachricht, sobald diese erfolgen kann (§ 14 Absatz 5).
 | Beratung wurde in folgenden Punkten durchgeführt\\     | [ ] Feuchtegehalt im Brennstoff wurde gemessen\\                                                        |
@@ -534,32 +534,32 @@ Geben Sie bitte Nachricht, sobald diese erfolgen kann (§ 14 Absatz 5).
 | | \\    | Unterschrift des Schornsteinfegers  | | Falls Mängel festgestellt worden sind, die innerhalb einer Frist zu beseitigen sind, oder das Messergebnis nicht der Verordnung entspricht, geben Sie bitte Nachricht, sobald die Mängel beseitigt sind bzw. die Wiederholungsüberprüfung erfolgen kann. |
 | | Datum |                                     | |                                                                                                                                                                                                                                                          |
 
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 Anschrift des Schornsteinfegerbetriebes
-
+ 
 Datum der Arbeitsausführung:
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 [ ] Überprüfung nach § 14 Absatz 1 1. BImSchV<<FnR.F780527_05>>[[#F780527_05][*]]}\\
 [ ] Überprüfung nach § 14 Absatz 2 1. BImSchV\\
 [ ] Überprüfung nach § 15 Absatz 2 1. BImSchV\\
 [ ] Wiederholungsüberprüfung nach § 14 Absatz 5 1. BImSchV\\
 [ ] Beratung nach § 4 Absatz 8 1. BImSchV
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Ausfertigung für
-
+ 
 |   |                                               |   |                                       |   |
 |   | Name und Anschrift des Eigentümers/Verwalters |   | Betreiber/Aufstellungsort der Anlage: |   |
 |   |                                               |   | Gebäudeteil:                          |   |
@@ -587,7 +587,7 @@ Eingesetzte Brennstoffe nach § 3 Absatz 1 (Nr.)
 | Abstand zu Lüftungsöffnungen, Fenstern und Türen ausreichend (§ 19 Absatz 1 Nummer 2):       | [ ]  ja  [ ]  nein |
 
 [ ] Das Ergebnis entspricht der Verordnung.
-[ ] Das Ergebnis entspricht nicht der Verordnung, weil  
+[ ] Das Ergebnis entspricht nicht der Verordnung, weil   
 [ ] Die Mängel sind zu beseitigen. Danach ist bis zum ................................................... eine Wiederholungsüberprüfung erforderlich.\\
 Geben Sie bitte Nachricht, sobald diese erfolgen kann (§ 14 Absatz 5).
 | Beratung wurde in folgenden Punkten durchgeführt\\     | [ ] Feuchtegehalt im Brennstoff wurde gemessen\\                                                        |
@@ -603,29 +603,29 @@ Geben Sie bitte Nachricht, sobald diese erfolgen kann (§ 14 Absatz 5).
 | | \\    | Unterschrift des Schornsteinfegers  | | Falls Mängel festgestellt worden sind, die innerhalb einer Frist zu beseitigen sind, oder das Messergebnis nicht der Verordnung entspricht, geben Sie bitte Nachricht, sobald die Mängel beseitigt sind bzw. die Wiederholungsüberprüfung erfolgen kann. |
 | | Datum |                                     | |                                                                                                                                                                                                                                                          |
 
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 Anschrift des Schornsteinfegerbetriebes
-
+ 
 Datum der Arbeitsausführung:
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 [ ] Überprüfung nach § 1 KÜO<<FnR.F780527_06>>[[#F780527_06][*]]}\\
 [ ] Wiederholungsüberprüfung nach § 1 Absatz 2 KÜO
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Ausfertigung für
-
+ 
 |   |                                               |   |                                       |   |
 |   | Name und Anschrift des Eigentümers/Verwalters |   | Betreiber/Aufstellungsort der Anlage: |   |
 |   |                                               |   | Gebäudeteil:                          |   |
@@ -641,7 +641,7 @@ für
 [ ] einer Wärmepumpe\\
 [ ] einem Brennstoffzellenheizgerät\\
 [ ] ...
-
+ 
 [ ] gasförmige Brennstoffe   [ ] flüssige Brennstoffe   [ ] feste Brennstoffe
 gemäß der Verordnung über die Kehrung und Überprüfung von Anlagen (Kehr- und Überprüfungsordnung -- KÜO) vom 16. Juni 2009 (BGBl. I S. 1292) oder nach Rechtsverordnungen nach § 1 Absatz 1 Satz 3 SchfHwG
 Anlagenbeschreibung: Hersteller, Typ, Herstell-Nr., Errichtung
@@ -651,7 +651,7 @@ Aufstellraum
 Raumgröße
 raumluftabhängig   [ ]  Sonstiges:\\
 raumluftunabhängig    [ ]
-
+ 
 Abgasanlage für
 [ ] Unterdruck (N)
 [ ] Überdruck (P)
@@ -660,39 +660,39 @@ Abgasanlage für
 [ ] dicht geschweißt
 Überprüfungsergebnis gemäß KÜO (✓ = in Ordnung, X = mangelhaft, -- = nicht zutreffend):
 Verbrennungsluft/Lüftung
-
+ 
 Abgasabzug:
-
+ 
 O_{2}-Gehalt im Abgas
    %
 Gerät:
-
+ 
 -- am Gerät
-
+ 
 unverdünnter CO-Gehalt
   ppm
 -- Standsicherheit
-
+ 
 -- am Abgasstutzen
-
+ 
 O_{2}-Differenz im Ringspalt
    %
 -- äußerer Zustand
-
+ 
 -- am Schalldämpfer
-
+ 
 Lufttemperatur im Ringspalt
    °C
 -- Abstände
-
+ 
 Verbindungsstück
-
+ 
 Druckdifferenz im Ringspalt
    Pa
 Schalldämpfer
-
+ 
 Abgasleitung
-
+ 
 Abgastemperatur
    °C
 | [ ]  Folgende Mängel wurden festgestellt: | [ ]  Es wurden keine Mängel festgestellt. |
@@ -718,29 +718,29 @@ Anlage 4 - (zu § 7)Begriffsbestimmungen
 (Fundstelle: BGBl. I 2009, 1305 - 1306; bzgl. einzelner Änderungen vgl. Fußnote)
 Es bedeuten die Begriffe:
 
-- 1. :: Abgasanlage“: Anlage, wie Schornstein, Verbindungsstück, Abgasleitung, Luft-Abgas-System oder Abluftschacht nach Nummer 15 b), für die Ableitung der Abgase von Feuerstätten und Räucheranlagen, sowie eine Anlage zur Abführung von Verbrennungsgasen von Blockheizkraftwerken, Wärmepumpen, ortsfesten Verbrennungsmotoren und Brennstoffzellenheizgeräten;
-- 2. :: Abgasanlage für Überdruck“: Abgasanlage, bei deren Betrieb der statische Druck im Innern höher sein darf als der statische Druck in der Umgebung der Abgasanlage in gleicher Höhe;
-- 3. :: Abgaskanal“: Verbindungsstück, das mit Böden, Decken, Wänden oder anderen Bauteilen fest verbunden ist;
-- 4. :: Abgasleitung“: Abgasanlage, die nicht rußbrandbeständig sein muss;
-- 5. :: Abgasrohr“: Frei verlaufendes Verbindungsstück;
-- 6. :: Abgasweg“: Heizgasweg und Strömungsstrecke der Abgase innerhalb des Verbindungsstücks;
-- 7. :: Blockheizkraftwerk“: Stationärer Motor oder Gasturbine, der oder die nach dem Prinzip der Kraft-Wärme-Kopplung sowohl elektrischen Strom als auch Wärme produziert;
-- 8. :: Brennstoffzellenheizgerät“: Stationäre Anlage, die die im Brennstoff gebundene chemische Energie in einer Brennstoffzelle direkt in elektrische Energie umwandelt und die dabei entstehende Wärme für Heizzwecke nutzt;
-- 9. :: Brennwertfeuerstätte“: Feuerstätte, bei der die Verdampfungswärme des im Abgas enthaltenen Wasserdampfes konstruktionsbedingt durch Kondensation nutzbar gemacht wird;
-- 10. :: Feuerstätte“: Im oder am Gebäude ortsfest benutzte Anlage, die dazu bestimmt ist, durch Verbrennung Wärme zu erzeugen;
-- 11. :: Feuerungsanlage“: Einheit von Verbrennungsluftversorgung, Feuerstätte oder Räucheranlage und Abgasanlage; wenn mehrere nicht überprüfungspflichtige Feuerstätten an eine gemeinsame Abgasanlage angeschlossen sind (Mehrfachbelegung), zählt dies als eine Feuerungsanlage, wenn mehrere überprüfungspflichtige Feuerstätten an eine gemeinsame Abgasanlage angeschlossen sind, zählt jeder Anschluss als Feuerungsanlage;
-- 12. :: Gebäude“: Selbständig benutzbare, überdeckte bauliche Anlagen, die von Menschen betreten werden können und geeignet oder bestimmt sind, dem Schutz von Menschen, Tieren oder Sachen zu dienen;
-- 13. :: Heizgasweg“: Strömungsstrecke der Verbrennungsgase oder Abgase innerhalb der Feuerstätte;
-- 14. :: Luft-Abgas-System“: Abgasanlage mit nebeneinander oder ineinander angeordneten Schächten, durch die Feuerstätten Verbrennungsluft über den Luftschacht aus dem Bereich der Mündung der Abgasanlage zugeführt und von denen Abgase über den Abgasschacht ins Freie abgeführt werden;
-- 15. :: notwendige Abluftanlage“:
+- 1. :: „Abgasanlage“: Anlage, wie Schornstein, Verbindungsstück, Abgasleitung, Luft-Abgas-System oder Abluftschacht nach Nummer 15 b), für die Ableitung der Abgase von Feuerstätten und Räucheranlagen, sowie eine Anlage zur Abführung von Verbrennungsgasen von Blockheizkraftwerken, Wärmepumpen, ortsfesten Verbrennungsmotoren und Brennstoffzellenheizgeräten;
+- 2. :: „Abgasanlage für Überdruck“: Abgasanlage, bei deren Betrieb der statische Druck im Innern höher sein darf als der statische Druck in der Umgebung der Abgasanlage in gleicher Höhe;
+- 3. :: „Abgaskanal“: Verbindungsstück, das mit Böden, Decken, Wänden oder anderen Bauteilen fest verbunden ist;
+- 4. :: „Abgasleitung“: Abgasanlage, die nicht rußbrandbeständig sein muss;
+- 5. :: „Abgasrohr“: Frei verlaufendes Verbindungsstück;
+- 6. :: „Abgasweg“: Heizgasweg und Strömungsstrecke der Abgase innerhalb des Verbindungsstücks;
+- 7. :: „Blockheizkraftwerk“: Stationärer Motor oder Gasturbine, der oder die nach dem Prinzip der Kraft-Wärme-Kopplung sowohl elektrischen Strom als auch Wärme produziert;
+- 8. :: „Brennstoffzellenheizgerät“: Stationäre Anlage, die die im Brennstoff gebundene chemische Energie in einer Brennstoffzelle direkt in elektrische Energie umwandelt und die dabei entstehende Wärme für Heizzwecke nutzt;
+- 9. :: „Brennwertfeuerstätte“: Feuerstätte, bei der die Verdampfungswärme des im Abgas enthaltenen Wasserdampfes konstruktionsbedingt durch Kondensation nutzbar gemacht wird;
+- 10. :: „Feuerstätte“: Im oder am Gebäude ortsfest benutzte Anlage, die dazu bestimmt ist, durch Verbrennung Wärme zu erzeugen;
+- 11. :: „Feuerungsanlage“: Einheit von Verbrennungsluftversorgung, Feuerstätte oder Räucheranlage und Abgasanlage; wenn mehrere nicht überprüfungspflichtige Feuerstätten an eine gemeinsame Abgasanlage angeschlossen sind (Mehrfachbelegung), zählt dies als eine Feuerungsanlage, wenn mehrere überprüfungspflichtige Feuerstätten an eine gemeinsame Abgasanlage angeschlossen sind, zählt jeder Anschluss als Feuerungsanlage;
+- 12. :: „Gebäude“: Selbständig benutzbare, überdeckte bauliche Anlagen, die von Menschen betreten werden können und geeignet oder bestimmt sind, dem Schutz von Menschen, Tieren oder Sachen zu dienen;
+- 13. :: „Heizgasweg“: Strömungsstrecke der Verbrennungsgase oder Abgase innerhalb der Feuerstätte;
+- 14. :: „Luft-Abgas-System“: Abgasanlage mit nebeneinander oder ineinander angeordneten Schächten, durch die Feuerstätten Verbrennungsluft über den Luftschacht aus dem Bereich der Mündung der Abgasanlage zugeführt und von denen Abgase über den Abgasschacht ins Freie abgeführt werden;
+- 15. :: „notwendige Abluftanlage“:
   - a) :: Schacht oder sonstige Anlage, der oder die zum Betrieb einer Feuerstätte oder zur Lüftung eines Raumes mit Feuerstätte erforderlich ist und deren Betrieb beeinflussen kann,
   - b) :: Abluftschacht, der einen Raum entlüftet und Abgase einer Feuerstätte ins Freie leitet;
-- 16. :: notwendige Verbrennungsluftanlage“: Anlage oder Öffnung zur Zuführung von Außenluft zum Zwecke der Verbrennungsluftversorgung der Feuerstätte (einschließlich der Öffnung zum Zwecke des Verbrennungsluftverbundes);
-- 17. :: Nutzungseinheit“: Gebäude oder Teil eines Gebäudes, der selbständig nutzbar ist und einen eigenen Zugang hat (z. B. Wohnung);
-- 18. :: ortsfester Verbrennungsmotor“: Stationäre Wärmekraftmaschine, die durch innere Verbrennung von Treibstoff über Kolben oder eine Turbine mechanische Arbeit verrichtet;
-- 19. :: Räucheranlage“: Anlage zum Konservieren oder zur Geschmacksveränderung von Lebensmitteln, die aus Raucherzeuger, Räucherschrank oder -kammer besteht;
-- 20. :: Raumluftunabhängige Feuerstätte“: Feuerstätte, der die Verbrennungsluft über dichte Leitungen direkt aus dem Freien zugeführt wird, und bei der bei einem statischen Überdruck in der Feuerstätte gegenüber dem Aufstellraum kein Abgas in Gefahr drohender Menge in den Aufstellungsraum austreten kann;
-- 21. :: Schornstein“: Senkrechter Teil der Abgasanlage, der rußbrandbeständig ist;
-- 22. :: Senkrechter Teil der Abgasanlage“: Vom Baugrund oder von einem Unterbau ins Freie führender Teil der Abgasanlage;
-- 23. :: Verbindungsstück“: Vorrichtung zwischen dem Abgasstutzen der Feuerstätte, der Räucheranlage, des Blockheizkraftwerks, der Wärmepumpe, des ortsfesten Verbrennungsmotors oder des Brennstoffzellenheizgeräts und dem senkrechten Teil der Abgasanlage;
-- 24. :: Wärmepumpe“: Maschine, die der Luft, dem Wasser oder dem Erdreich Wärme entzieht, diese über verbrennungsmotorisch angetriebene Kompressoren oder über Sorptionseinrichtungen von einem niedrigen Temperaturniveau auf ein höheres bringt und damit für Heizzwecke bzw. Warmwasserbereitung nutzbar macht.
+- 16. :: „notwendige Verbrennungsluftanlage“: Anlage oder Öffnung zur Zuführung von Außenluft zum Zwecke der Verbrennungsluftversorgung der Feuerstätte (einschließlich der Öffnung zum Zwecke des Verbrennungsluftverbundes);
+- 17. :: „Nutzungseinheit“: Gebäude oder Teil eines Gebäudes, der selbständig nutzbar ist und einen eigenen Zugang hat (z. B. Wohnung);
+- 18. :: „ortsfester Verbrennungsmotor“: Stationäre Wärmekraftmaschine, die durch innere Verbrennung von Treibstoff über Kolben oder eine Turbine mechanische Arbeit verrichtet;
+- 19. :: „Räucheranlage“: Anlage zum Konservieren oder zur Geschmacksveränderung von Lebensmitteln, die aus Raucherzeuger, Räucherschrank oder -kammer besteht;
+- 20. :: „Raumluftunabhängige Feuerstätte“: Feuerstätte, der die Verbrennungsluft über dichte Leitungen direkt aus dem Freien zugeführt wird, und bei der bei einem statischen Überdruck in der Feuerstätte gegenüber dem Aufstellraum kein Abgas in Gefahr drohender Menge in den Aufstellungsraum austreten kann;
+- 21. :: „Schornstein“: Senkrechter Teil der Abgasanlage, der rußbrandbeständig ist;
+- 22. :: „Senkrechter Teil der Abgasanlage“: Vom Baugrund oder von einem Unterbau ins Freie führender Teil der Abgasanlage;
+- 23. :: „Verbindungsstück“: Vorrichtung zwischen dem Abgasstutzen der Feuerstätte, der Räucheranlage, des Blockheizkraftwerks, der Wärmepumpe, des ortsfesten Verbrennungsmotors oder des Brennstoffzellenheizgeräts und dem senkrechten Teil der Abgasanlage;
+- 24. :: „Wärmepumpe“: Maschine, die der Luft, dem Wasser oder dem Erdreich Wärme entzieht, diese über verbrennungsmotorisch angetriebene Kompressoren oder über Sorptionseinrichtungen von einem niedrigen Temperaturniveau auf ein höheres bringt und damit für Heizzwecke bzw. Warmwasserbereitung nutzbar macht.

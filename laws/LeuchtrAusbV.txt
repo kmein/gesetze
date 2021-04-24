@@ -219,8 +219,8 @@ Kenntnisse des Glases und anderer Werk- und Hilfsstoffe in der Leuchtröhrenhers
 a)
 Einteilung des Glases nach Zusammensetzung, Art und Verwendung beschreiben
 4
-
-
+ 
+ 
 b)
 Eigenschaften und Wirkungen von Werkstoffen, insbesondere von Leuchtstoffen, Edelgasen und Quecksilber, beschreiben
 c)
@@ -230,8 +230,8 @@ Wiederaufarbeiten von Leuchtröhren (§ 3 Nr. 8)
 a)
 vorhandene Elektroden absprengen
 10
-
-
+ 
+ 
 b)
 Quecksilber unter Beachtung der Sicherheitsvorschriften entfernen und der Wiederaufbereitung zuführen
 c)
@@ -241,69 +241,69 @@ Verarbeiten von Glas zu Leuchtröhren (§ 3 Nr. 9)
 a)
 Glasbedarf für die zu fertigenden Systeme ermitteln und zusammenstellen
 4
-
-
+ 
+ 
 b)
 Längen anreißen und Glasröhren trennen
 4
-
-
+ 
+ 
 c)
 Glasröhren in der Flamme erhitzen und ausziehen
 4
-
-
+ 
+ 
 d)
 Glasröhren am Tischgebläse formgerecht biegen, blasen, verengen, ausblasen und auftreiben
 12
 4
-
+ 
 e)
 Glasröhren mit dem Handgebläse formgerecht biegen, blasen, verengen, ausblasen und auftreiben
 8
 6
-
+ 
 f)
 Rohrstücke zusammensetzen und verschmelzen
-
+ 
 4
-
+ 
 g)
 verformte Glasteile in der Flamme kühlen
 6
 4
-
+ 
 h)
 zu erhitzende Längen an der Gasflöte einstellen, Glasröhren erhitzen und formgerecht biegen
-
+ 
 8
-
+ 
 i)
 geschlämmte Glasröhren biegen, ansetzen und blasen
-
-
+ 
+ 
 10
 k)
 Glasröhren mit geringem Durchmesser verarbeiten
-
-
+ 
+ 
 12
 10
 Einbringen von Leuchtstoffen (§ 3 Nr. 10)
 a)
 Perl- und Schlämmverfahren erläutern und Verwendungsbereiche abgrenzen
-
+ 
 10
-
+ 
 b)
 Glasperlen mit Binder nach dem Perlverfahren einbringen und Glasröhren mit Leuchtstoffen einstäuben
 11
 Elektrotechnische Kenntnisse für den Betrieb von Leuchtröhren (§ 3 Nr. 11)
 a)
 Zusammenhänge von elektrischer Spannung, Strom und Leistung als physikalische Größen für das Herstellen und Betreiben von Leuchtröhrenanlagen aufzeigen
-
+ 
 6
-
+ 
 b)
 Spannungsbedarf als Funktion von Rohrlänge, -durchmesser und Entladungsart berechnen
 c)
@@ -314,9 +314,9 @@ wichtige VDE-Vorschriften nennen und deren Bedeutung für Leuchtröhrenanlagen e
 Verarbeiten von Elektroden (§ 3 Nr. 12)
 a)
 Funktion, Aufbau und Belastbarkeit von Elektroden beschreiben
-
+ 
 10
-
+ 
 b)
 Elektrodenstellungen bezeichnen und Profilen zuordnen
 c)
@@ -325,8 +325,8 @@ Elektroden nach Buchstabenprofilen oder Zeichnungen auswählen, ansetzen und ver
 Evakuieren und Füllen von Leuchtröhren (§ 3 Nr. 13)
 a)
 Aufbau und Funktion einer Vakuumanlage erklären und die entsprechenden Sicherheitsvorschriften nennen
-
-
+ 
+ 
 16
 b)
 Pumpstengel ansetzen
@@ -338,8 +338,8 @@ e)
 Elektroden durch Ausglühen aktivieren
 f)
 Spülgas einfüllen und Leuchtröhren auf Verunreinigungen prüfen
-
-
+ 
+ 
 6
 g)
 evakuierte Leuchtröhren unter Anwendung der Drucktabelle mit Edelgas füllen
@@ -351,8 +351,8 @@ Pumpstengel abschmelzen
 Einbrennen, Prüfen und Kennzeichnen von Leuchtröhren (§ 3 Nr. 14)
 a)
 Leuchtröhren entsprechend Elektrodenstärke und Edelgasfüllung unter Beachtung der Sicherheitsvorschriften einbrennen
-
-
+ 
+ 
 8
 b)
 Leuchtröhren auf gleichmäßige Leuchtkraft und Paßgenauigkeit prüfen

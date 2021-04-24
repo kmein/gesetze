@@ -23,7 +23,7 @@ Auf Grund des § 58 des Berufsbildungsgesetzes, der durch Artikel 232 Nummer 1 d
 - 9. :: Delegieren von Aufgaben und Anleiten von Mitarbeitern und Mitarbeiterinnen.
 
 (2) In der Umschulungsprüfung haben die Prüfungsteilnehmer und Prüfungsteilnehmerinnen die berufliche Handlungsfähigkeit nachzuweisen, um die qualifizierte berufliche Tätigkeit als Geprüfte Fachkraft Bodenverkehrsdienst im Luftverkehr in einer sich wandelnden Arbeitswelt ausüben zu können. Umschulungsprüfungen werden von der nach dem Berufsbildungsgesetz zuständigen Stelle durchgeführt.
-(3) Die erfolgreich abgelegte Umschulungsprüfung führt zum anerkannten Umschulungsabschluss Geprüfte Fachkraft Bodenverkehrsdienst im Luftverkehr“.
+(3) Die erfolgreich abgelegte Umschulungsprüfung führt zum anerkannten Umschulungsabschluss „Geprüfte Fachkraft Bodenverkehrsdienst im Luftverkehr“.
 
 § 2 - Zulassungsvoraussetzungen für die Umschulungsprüfung
 
@@ -44,27 +44,27 @@ Zur Umschulungsprüfung ist zuzulassen, wer
 
 (1) Die Umschulungsprüfung gliedert sich in zwei Prüfungsteile:
 
-- 1. :: Theorie des Bodenverkehrsdienstes“ und
-- 2. :: Praxis des Bodenverkehrsdienstes“.
+- 1. :: „Theorie des Bodenverkehrsdienstes“ und
+- 2. :: „Praxis des Bodenverkehrsdienstes“.
 
 (2) Die Prüfungsteile können in beliebiger Reihenfolge an verschiedenen Prüfungsterminen geprüft werden; dabei ist mit dem letzten Prüfungsteil spätestens ein Jahr nach dem ersten Prüfungstag des bereits abgelegten Prüfungsteils zu beginnen.
 
-§ 5 - Prüfungsteil Theorie des Bodenverkehrsdienstes“
+§ 5 - Prüfungsteil „Theorie des Bodenverkehrsdienstes“
 
-(1) Im Prüfungsteil Theorie des Bodenverkehrsdienstes“ ist in folgenden Prüfungsbereichen zu prüfen:
+(1) Im Prüfungsteil „Theorie des Bodenverkehrsdienstes“ ist in folgenden Prüfungsbereichen zu prüfen:
 
 - 1. :: Luftfahrzeuge,
 - 2. :: Rechtsvorschriften,
 - 3. :: Kommunikation und Kooperation.
 
-(2) Im Prüfungsbereich Luftfahrzeuge“ können geprüft werden:
+(2) Im Prüfungsbereich „Luftfahrzeuge“ können geprüft werden:
 
 - 1. :: Kenntnis der Merkmale ziviler Luftfahrzeuge,
 - 2. :: Kenntnis der prinzipiellen Anordnung der Laderäume, der Ausstiege, der Versorgungsanschlüsse sowie der Bedienelemente,
 - 3. :: Kenntnis und Anwendung von Ladeanweisungen,
 - 4. :: Durchführen fachspezifischer Berechnungen.
 
-(3) Im Prüfungsbereich Rechtsvorschriften“ können geprüft werden:
+(3) Im Prüfungsbereich „Rechtsvorschriften“ können geprüft werden:
 
 - 1. :: Kenntnis einschlägiger luftfahrtrechtlicher Bestimmungen,
 - 2. :: Kenntnis sonstiger Regelungen, insbesondere Regelungen zum Umgang mit gefährlichen Gütern und besonderen Ladungen,
@@ -72,26 +72,26 @@ Zur Umschulungsprüfung ist zuzulassen, wer
 - 4. :: Kenntnis einschlägiger Regeln für den Gesundheits- und Umweltschutz,
 - 5. :: Kenntnis einschlägiger Grundlagen des Arbeits- und Sozialrechts.
 
-(4) Im Prüfungsbereich Kommunikation und Kooperation“ können geprüft werden:
+(4) Im Prüfungsbereich „Kommunikation und Kooperation“ können geprüft werden:
 
 - 1. :: Anwenden der englischen Sprache als Fremdsprache bei Fachaufgaben,
 - 2. :: Planen und Bearbeiten von Aufgaben im Team, Abstimmen und Auswerten der Ergebnisse,
 - 3. :: Kenntnis der Prozessabläufe bei der Abfertigung,
 - 4. :: Erkennen und Melden von Schäden und besonderen Vorkommnissen.
 
-(5) Die Prüfung im Prüfungsteil Theorie des Bodenverkehrsdienstes“ ist schriftlich in Form von anwendungsbezogenen Aufgaben durchzuführen.
+(5) Die Prüfung im Prüfungsteil „Theorie des Bodenverkehrsdienstes“ ist schriftlich in Form von anwendungsbezogenen Aufgaben durchzuführen.
 (6) Die Bearbeitungszeit für die Aufgaben soll betragen:
 
-- 1. :: im Prüfungsbereich Luftfahrzeuge“ mindestens 120 Minuten,
-- 2. :: im Prüfungsbereich Rechtsvorschriften“ mindestens 90 Minuten und
-- 3. :: im Prüfungsbereich Kommunikation und Kooperation“ mindestens 60 Minuten.
+- 1. :: im Prüfungsbereich „Luftfahrzeuge“ mindestens 120 Minuten,
+- 2. :: im Prüfungsbereich „Rechtsvorschriften“ mindestens 90 Minuten und
+- 3. :: im Prüfungsbereich „Kommunikation und Kooperation“ mindestens 60 Minuten.
 
 Insgesamt soll die Prüfungsdauer 300 Minuten nicht überschreiten.
 
 
-§ 6 - Prüfungsteil Praxis des Bodenverkehrsdienstes“
+§ 6 - Prüfungsteil „Praxis des Bodenverkehrsdienstes“
 
-(1) Im Prüfungsteil Praxis des Bodenverkehrsdienstes“ ist in folgenden Prüfungsbereichen zu prüfen:
+(1) Im Prüfungsteil „Praxis des Bodenverkehrsdienstes“ ist in folgenden Prüfungsbereichen zu prüfen:
 
 - 1. :: Einweisen, Annehmen und Sichern von Luftfahrzeugen,
 - 2. :: Überprüfen und Bedienen der für die Abfertigung erforderlichen Geräte und Fahrzeuge sowie Anwenden von Informationssystemen,
@@ -99,39 +99,39 @@ Insgesamt soll die Prüfungsdauer 300 Minuten nicht überschreiten.
 - 4. :: Baggage Handling,
 - 5. :: Kommunizieren und Kooperieren mit den an der Abfertigung Beteiligten sowie Übernehmen von verantwortlichen Organisationsaufgaben.
 
-(2) Im Prüfungsbereich Einweisen, Annehmen und Sichern von Luftfahrzeugen“ können geprüft werden:
+(2) Im Prüfungsbereich „Einweisen, Annehmen und Sichern von Luftfahrzeugen“ können geprüft werden:
 
 - 1. :: Einweisen von Luftfahrzeugen zur Vorfeldposition,
 - 2. :: Annehmen von Luftfahrzeugen, Kommunizieren mit dem Cockpit,
 - 3. :: Anbringen und Entfernen von Sicherungsvorrichtungen.
 
-(3) Im Prüfungsbereich Überprüfen und Bedienen der für die Abfertigung erforderlichen Geräte und Fahrzeuge sowie Anwenden von Informationssystemen“ können geprüft werden:
+(3) Im Prüfungsbereich „Überprüfen und Bedienen der für die Abfertigung erforderlichen Geräte und Fahrzeuge sowie Anwenden von Informationssystemen“ können geprüft werden:
 
 - 1. :: Überprüfen der Betriebsbereitschaft und Verkehrssicherheit von Geräten und Fahrzeugen,
 - 2. :: Einsetzen von Geräten und Fahrzeugen nach deren Bestimmungen,
 - 3. :: Erkennen und Melden von Störungen und Schäden an Geräten und Fahrzeugen,
 - 4. :: Überprüfen der Funktionalität von Informationssystemen und Anwenden von Informationssystemen.
 
-(4) Im Prüfungsbereich Abfertigen von Luftfahrzeugen“ können geprüft werden:
+(4) Im Prüfungsbereich „Abfertigen von Luftfahrzeugen“ können geprüft werden:
 
 - 1. :: Be- und Entladen von Luftfahrzeugen gemäß Ladeanweisungen,
 - 2. :: Cargo und Mail Handling,
 - 3. :: Sichern der Ladung,
 - 4. :: Abfertigen von gefährlichen Gütern und Sonderfrachten.
 
-(5) Im Prüfungsbereich Baggage Handling“ können geprüft werden:
+(5) Im Prüfungsbereich „Baggage Handling“ können geprüft werden:
 
 - 1. :: Abfertigen des Gepäcks, Bearbeiten von Besonderheiten,
 - 2. :: Be- und Entladen der Lademitteleinheiten unter Berücksichtigung der Sortierkriterien,
 - 3. :: Bedienen von Gepäckfördereinrichtungen,
 - 4. :: Bearbeiten von Besonderheiten, Verfassen von Schadensmeldungen.
 
-(6) Im Prüfungsbereich Kommunizieren und Kooperieren mit den an der Abfertigung Beteiligten sowie Übernehmen von verantwortlichen Organisationsaufgaben“ können geprüft werden:
+(6) Im Prüfungsbereich „Kommunizieren und Kooperieren mit den an der Abfertigung Beteiligten sowie Übernehmen von verantwortlichen Organisationsaufgaben“ können geprüft werden:
 
 - 1. :: situationsgerechtes Kommunizieren,
 - 2. :: Koordinieren von Aufgaben.
 
-(7) Die Prüfung im Prüfungsteil Praxis des Bodenverkehrsdienstes“ ist in Form von praxisorientierten Arbeitsproben und einem situativen Fachgespräch durchzuführen. Das situative Fachgespräch kann in mehrere Gesprächsphasen aufgeteilt werden und ist im Kontext der Arbeitsproben zu führen.
+(7) Die Prüfung im Prüfungsteil „Praxis des Bodenverkehrsdienstes“ ist in Form von praxisorientierten Arbeitsproben und einem situativen Fachgespräch durchzuführen. Das situative Fachgespräch kann in mehrere Gesprächsphasen aufgeteilt werden und ist im Kontext der Arbeitsproben zu führen.
 (8) Die Arbeitsproben sind so zu gestalten, dass sie sich jeweils auf einen Prüfungsbereich nach Absatz 1 Nummer 1 bis 5 beziehen. Je Prüfungsbereich können auch mehrere Arbeitsproben durchgeführt werden. Die Bearbeitungszeit für die Arbeitsproben beträgt insgesamt mindestens 240 Minuten und höchstens 330 Minuten.
 (9) Im situativen Fachgespräch soll der Prüfungsteilnehmer oder die Prüfungsteilnehmerin die Fähigkeit nachweisen, dass er oder sie in der Lage ist, betriebspraktische Aufgabenstellungen zu analysieren und dazu Lösungsmöglichkeiten zu entwickeln. Das situative Fachgespräch soll sich auf Situationen beziehen, die während der Durchführung der Arbeitsproben entstehen, und deren Bewertung unterstützen. Das situative Fachgespräch soll in der Regel 20 Minuten dauern.
 
@@ -141,15 +141,15 @@ Für die Befreiung von einzelnen Prüfungsbestandteilen ist § 62 Absatz 4 des B
 
 § 8 - Bewertung der Prüfungsleistungen; Bestehen der Prüfung
 
-(1) Die Prüfung ist bestanden, wenn die Prüfungsleistung in jedem der geprüften Prüfungsbereiche nach den §§ 5 und 6 mit mindestens ausreichend“ bewertet worden ist.
-(2) Die beiden Prüfungsteile Theorie des Bodenverkehrsdienstes“ und Praxis des Bodenverkehrsdienstes“ sind gesondert mit Punkten zu bewerten.
-(3) Im Prüfungsteil Theorie des Bodenverkehrsdienstes“ sind die Prüfungsbereiche wie folgt zu gewichten:
+(1) Die Prüfung ist bestanden, wenn die Prüfungsleistung in jedem der geprüften Prüfungsbereiche nach den §§ 5 und 6 mit mindestens „ausreichend“ bewertet worden ist.
+(2) Die beiden Prüfungsteile „Theorie des Bodenverkehrsdienstes“ und „Praxis des Bodenverkehrsdienstes“ sind gesondert mit Punkten zu bewerten.
+(3) Im Prüfungsteil „Theorie des Bodenverkehrsdienstes“ sind die Prüfungsbereiche wie folgt zu gewichten:
 | 1. | Luftfahrzeuge                 | mit 50 Prozent, |
 | 2. | Rechtsvorschriften            | mit 25 Prozent, |
 | 3. | Kommunikation und Kooperation | mit 25 Prozent. |
 
-(4) Im Prüfungsteil Praxis des Bodenverkehrsdienstes“ sind für jeden Prüfungsbereich die jeweiligen praxisorientierten Arbeitsproben unter Berücksichtigung des situativen Fachgesprächs zu bewerten. Aus den Punktebewertungen der einzelnen Prüfungsleistungen ist eine Note zu bilden.
-(5) Im Prüfungsteil Praxis des Bodenverkehrsdienstes“ sind die Prüfungsbereiche wie folgt zu gewichten:
+(4) Im Prüfungsteil „Praxis des Bodenverkehrsdienstes“ sind für jeden Prüfungsbereich die jeweiligen praxisorientierten Arbeitsproben unter Berücksichtigung des situativen Fachgesprächs zu bewerten. Aus den Punktebewertungen der einzelnen Prüfungsleistungen ist eine Note zu bilden.
+(5) Im Prüfungsteil „Praxis des Bodenverkehrsdienstes“ sind die Prüfungsbereiche wie folgt zu gewichten:
 | 1. | Einweisen, Annehmen und Sichern von Luftfahrzeugen                                                                               | mit 20 Prozent, |
 | 2. | Überprüfen und Bedienen der für die Abfertigung erforderlichen Geräte und Fahrzeuge sowie Anwenden von Informationssystemen      | \\              |
 |    |                                                                                                                                  | mit 20 Prozent, |
@@ -158,9 +158,9 @@ Für die Befreiung von einzelnen Prüfungsbestandteilen ist § 62 Absatz 4 des B
 | 5. | Kommunizieren und Kooperieren mit den an der Abfertigung Beteiligten sowie Übernehmen von verantwortlichen Organisationsaufgaben | \\              |
 |    |                                                                                                                                  | mit 10 Prozent. |
 
-(6) Aus den Noten der Prüfungsteile Theorie des Bodenverkehrsdienstes“ und Praxis des Bodenverkehrsdienstes“ ist eine Gesamtnote zu bilden. Dabei sind die Prüfungsteile wie folgt zu gewichten:
-| 1. | Theorie des Bodenverkehrsdienstes“ | mit 40 Prozent, |
-| 2. | Praxis des Bodenverkehrsdienstes“  | mit 60 Prozent. |
+(6) Aus den Noten der Prüfungsteile „Theorie des Bodenverkehrsdienstes“ und „Praxis des Bodenverkehrsdienstes“ ist eine Gesamtnote zu bilden. Dabei sind die Prüfungsteile wie folgt zu gewichten:
+| 1. | „Theorie des Bodenverkehrsdienstes“ | mit 40 Prozent, |
+| 2. | „Praxis des Bodenverkehrsdienstes“  | mit 60 Prozent. |
 
 (7) Ist die Prüfung bestanden, stellt die zuständige Stelle darüber ein Zeugnis aus.
 (8) Ist die Prüfung bestanden, stellt die zuständige Stelle ein weiteres Zeugnis aus, in dem mindestens anzugeben sind:
@@ -176,7 +176,7 @@ Für die Befreiung von einzelnen Prüfungsbestandteilen ist § 62 Absatz 4 des B
 § 9 - Wiederholung der Prüfung
 
 (1) Ein Prüfungsteil, der bei der ersten Prüfung nicht bestanden ist, kann zweimal wiederholt werden.
-(2) Wer auf Antrag an einer Wiederholungsprüfung teilnimmt und sich innerhalb von zwei Jahren, gerechnet vom Tag der Beendigung des nicht bestandenen Prüfungsteils an, zur Wiederholungsprüfung anmeldet, ist von der Prüfung in einzelnen Prüfungsbereichen freizustellen, wenn die darin in einer vorangegangenen Prüfung erbrachten Leistungen mit mindestens ausreichend“ bewertet worden sind.
+(2) Wer auf Antrag an einer Wiederholungsprüfung teilnimmt und sich innerhalb von zwei Jahren, gerechnet vom Tag der Beendigung des nicht bestandenen Prüfungsteils an, zur Wiederholungsprüfung anmeldet, ist von der Prüfung in einzelnen Prüfungsbereichen freizustellen, wenn die darin in einer vorangegangenen Prüfung erbrachten Leistungen mit mindestens „ausreichend“ bewertet worden sind.
 
 § 10 - Übergangsvorschriften
 

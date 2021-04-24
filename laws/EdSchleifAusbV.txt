@@ -10,17 +10,17 @@ Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt durch Artike
 
 Inhaltsübersicht
 
-
-
-
-
+ 
+ 
+ 
+ 
 
 § 1 - Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf des Edelsteinschleifers und der Edelsteinschleiferin wird staatlich anerkannt nach
 
 - 1. :: § 4 Absatz 1 des Berufsbildungsgesetzes und
-- 2. :: § 25 der Handwerksordnung zur Ausbildung für das Gewerbe Edelsteinschleifer und -graveure“ nach Anlage B Abschnitt 1 Nummer 37 der Handwerksordnung.
+- 2. :: § 25 der Handwerksordnung zur Ausbildung für das Gewerbe „Edelsteinschleifer und -graveure“ nach Anlage B Abschnitt 1 Nummer 37 der Handwerksordnung.
 
 
 § 2 - Dauer der Berufsausbildung
@@ -160,7 +160,7 @@ Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung Edelsteingravier
 - 1. :: Arbeitsabläufe unter Berücksichtigung gestalterischer, wirtschaftlicher, ökologischer und zeitlicher Vorgaben zu planen und zu dokumentieren,
 - 2. :: Qualitätsvorgaben einzuhalten und Kundenanforderungen zu beachten,
 - 3. :: Vorschriften zur Arbeitssicherheit und zum Gesundheitsschutz einzuhalten und den Umweltschutz zu beachten,
-- 4. :: Steinschnitte unter Beachtung von Steineigenschaften und strukturellen Merkmalen anzufertigen und dabei eine der Techniken vertieft“, erhaben“ oder vollplastisch“ anzuwenden,
+- 4. :: Steinschnitte unter Beachtung von Steineigenschaften und strukturellen Merkmalen anzufertigen und dabei eine der Techniken „vertieft“, „erhaben“ oder „vollplastisch“ anzuwenden,
 - 5. :: gravierte Edelsteine oder gleichartige Werkstoffe unter Beachtung der gestalterischen Absicht zu glätten und sie zu polieren oder zu mattieren,
 - 6. :: Arbeitsergebnisse zu prüfen und
 - 7. :: fachliche Zusammenhänge aufzuzeigen.
@@ -202,13 +202,13 @@ Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung Edelsteingravier
 
 (2) Die Abschluss- oder Gesellenprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
-- 1. :: im Gesamtergebnis mit mindestens ausreichend“,
-- 2. :: in mindestens zwei Prüfungsbereichen mit mindestens ausreichend“ und
-- 3. :: in keinem Prüfungsbereich mit ungenügend“.
+- 1. :: im Gesamtergebnis mit mindestens „ausreichend“,
+- 2. :: in mindestens zwei Prüfungsbereichen mit mindestens „ausreichend“ und
+- 3. :: in keinem Prüfungsbereich mit „ungenügend“.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche Fertigungsplanung“ oder Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Fertigungsplanung“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-- 1. :: der Prüfungsbereich schlechter als mit ausreichend“ bewertet worden ist und
+- 1. :: der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 - 2. :: die mündliche Ergänzungsprüfung für das Bestehen der Abschluss- oder Gesellenprüfung den Ausschlag geben kann.
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
@@ -271,13 +271,13 @@ Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung Edelsteinschleif
 
 (2) Die Abschluss- oder Gesellenprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
-- 1. :: im Gesamtergebnis mit mindestens ausreichend“,
-- 2. :: in mindestens zwei Prüfungsbereichen mit mindestens ausreichend“ und
-- 3. :: in keinem Prüfungsbereich mit ungenügend“.
+- 1. :: im Gesamtergebnis mit mindestens „ausreichend“,
+- 2. :: in mindestens zwei Prüfungsbereichen mit mindestens „ausreichend“ und
+- 3. :: in keinem Prüfungsbereich mit „ungenügend“.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche Fertigungsplanung“ oder Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Fertigungsplanung“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-- 1. :: der Prüfungsbereich schlechter als mit ausreichend“ bewertet worden ist und
+- 1. :: der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 - 2. :: die mündliche Ergänzungsprüfung für das Bestehen der Abschluss- oder Gesellenprüfung den Ausschlag geben kann.
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
@@ -339,13 +339,13 @@ Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung Industriediamant
 
 (2) Die Abschluss- oder Gesellenprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
-- 1. :: im Gesamtergebnis mit mindestens ausreichend“,
-- 2. :: in mindestens zwei Prüfungsbereichen mit mindestens ausreichend“ und
-- 3. :: in keinem Prüfungsbereich mit ungenügend“.
+- 1. :: im Gesamtergebnis mit mindestens „ausreichend“,
+- 2. :: in mindestens zwei Prüfungsbereichen mit mindestens „ausreichend“ und
+- 3. :: in keinem Prüfungsbereich mit „ungenügend“.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche Fertigungsplanung“ oder Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Fertigungsplanung“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-- 1. :: der Prüfungsbereich schlechter als mit ausreichend“ bewertet worden ist und
+- 1. :: der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 - 2. :: die mündliche Ergänzungsprüfung für das Bestehen der Abschluss- oder Gesellenprüfung den Ausschlag geben kann.
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
@@ -416,13 +416,13 @@ Nach der Anfertigung wird mit dem Prüfling ein auftragsbezogenes Fachgespräch 
 
 (2) Die Abschluss- oder Gesellenprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
-- 1. :: im Gesamtergebnis mit mindestens ausreichend“,
-- 2. :: in mindestens zwei Prüfungsbereichen mit mindestens ausreichend“ und
-- 3. :: in keinem Prüfungsbereich mit ungenügend“.
+- 1. :: im Gesamtergebnis mit mindestens „ausreichend“,
+- 2. :: in mindestens zwei Prüfungsbereichen mit mindestens „ausreichend“ und
+- 3. :: in keinem Prüfungsbereich mit „ungenügend“.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche Fertigungsplanung“ oder Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Fertigungsplanung“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-- 1. :: der Prüfungsbereich schlechter als mit ausreichend“ bewertet worden ist und
+- 1. :: der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 - 2. :: die mündliche Ergänzungsprüfung für das Bestehen der Abschluss- oder Gesellenprüfung den Ausschlag geben kann.
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.

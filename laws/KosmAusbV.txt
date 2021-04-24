@@ -194,11 +194,11 @@ Bedienen von Apparaten und Instrumenten\\
 
 - a) :: Apparate und Instrumente unter Beachtung der Sicherheitsvorschriften und der Bedienungsanleitung auswählen, bedienen und einsetzen
 
+ 
 
+ 
 
-
-
-
+ 
 
 2
 
@@ -208,11 +208,11 @@ Bedienen von Apparaten und Instrumenten\\
 
 8
 
+ 
 
+ 
 
-
-
-
+ 
 
 1.6
 
@@ -225,23 +225,23 @@ Verkauf und Warenwirtschaft\\
 
 6
 
+ 
 
+ 
 
-
-
-
+ 
 
 - d) :: Preise kalkulieren und auszeichnen
 - e) :: Waren und Material bestellen, lagern und Bestände pflegen
 - f) :: Inventur durchführen
 
+ 
 
-
-
+ 
 
 6
 
-
+ 
 
 1.7
 
@@ -252,21 +252,21 @@ Kundengespräche und Kundenbetreuung (§ 4 Abs. 1 Nr. 7)
 
 4
 
+ 
 
+ 
 
-
-
-
+ 
 
 - c) :: Kunden unter Berücksichtigung des Warenangebotes, der betrieblichen Serviceleistungen sowie Maßnahmen der Gesundheitsprophylaxe beraten
 - d) :: kundenorientierte Gespräche unter Berücksichtigung des Persönlichkeitsprofils und kundenpsychologischer Grundsätze bei Behandlung, Beratung und Verkauf planen, führen und nachbereiten
 - e) :: Reklamationen entgegennehmen und bearbeiten
 
+ 
 
+ 
 
-
-
-
+ 
 
 10
 
@@ -279,40 +279,40 @@ Beurteilen und Reinigen der Haut\\
 
 4
 
+ 
 
+ 
 
-
-
-
+ 
 
 - b) :: Hautreinigungs- und -pflegemittel auswählen und nach Behandlungsplan dosieren
 - c) :: Hautzonen mit verschiedenen Methoden reinigen
 
 6
 
+ 
 
+ 
 
-
-
-
+ 
 
 - d) :: individuellen Behandlungsplan insbesondere unter Berücksichtigung der Hautverträglichkeit erstellen
 
-
+ 
 
 7
 
+ 
 
-
-
+ 
 
 - e) :: Hautveränderungen erkennen sowie kosmetisch zu behandelnde Hautveränderungen bestimmen und entfernen
 
+ 
 
+ 
 
-
-
-
+ 
 
 8
 
@@ -323,58 +323,58 @@ Pflegende Kosmetik\\
 
 - a) :: Pflegemittel für unterschiedliche Körperzonen, insbesondere für Gesicht, Hände, Nacken und Füße auswählen und nach Behandlungsplan anwenden
 
-
+ 
 
 5
 
+ 
 
-
-
+ 
 
 - b) :: Methoden der Haarentfernung unterscheiden
 - c) :: nicht permanente Haarentfernungsmethoden auswählen und anwenden
 
 4
 
+ 
 
+ 
 
-
-
-
+ 
 
 - d) :: Aromen und Düfte zur Unterstützung kosmetischer Angebote und Maßnahmen einsetzen
 
+ 
 
-
-
+ 
 
 4
 
-
+ 
 
 Pflege und Behandlung des Gesichtes und des Körpers
 
 - e) :: Verfahren und Techniken zur Gesichts- und Körperpflege auswählen und anwenden
 
+ 
 
-
-
+ 
 
 4
 
-
+ 
 
 - f) :: Packungen, Dampfbäder, Masken und Kompressen unter Beachtung möglicher Unverträglichkeitsreaktionen anfertigen, auftragen; Nachbehandlungen durchführen
 - g) :: Methoden der Heliotherapie in ihrer Anwendungs- und Wirkungsweise unterscheiden
 - h) :: betriebsübliche Verfahren der Heliotherapie anwenden
 
-
+ 
 
 6
 
+ 
 
-
-
+ 
 
 Handpflege
 
@@ -384,22 +384,22 @@ Handpflege
 
 6
 
+ 
 
+ 
 
-
-
-
+ 
 
 - m) :: Haut- und Nagelveränderungen behandeln
 - n) :: Nagelfehlwuchs durch Schneiden, Schleifen, Tamponieren beheben
 
+ 
 
-
-
+ 
 
 3
 
-
+ 
 
 Fußpflege
 
@@ -407,25 +407,25 @@ Fußpflege
 - p) :: Verfahren und Techniken zur Fuß- und Nagelpflege auswählen und anwenden
 - q) :: Nagelhaut und Nägel behandeln sowie Nägel formen und gestalten
 
-
+ 
 
 6
 
+ 
 
-
-
+ 
 
 - r) :: vorbeugende Maßnahmen, insbesondere gegen Mykose planen und durchführen
 - s) :: Haut- und Nagelveränderungen behandeln
 - t) :: Nagelfehlwuchs durch Schneiden, Schleifen, Tamponieren beheben
 
+ 
 
-
-
+ 
 
 4
 
-
+ 
 
 1.10
 
@@ -434,33 +434,33 @@ Dekorative Kosmetik\\
 
 - a) :: Farb- und Typberatung unter Berücksichtigung der Kundenwünsche, der Kundentypologie und aktueller Trends durchführen
 
-
+ 
 
 2
 
+ 
 
-
-
+ 
 
 - b) :: Verfahren, Techniken und Arbeitsmaterialien zur dekorativen Gestaltung der Haut und der Nägel auswählen und anwenden
 - c) :: Wimpern und Augenbrauen unter Anwendung verschiedener Techniken, insbesondere durch Formen und Färben gestalten
 
 8
 
+ 
 
+ 
 
-
-
-
+ 
 
 - d) :: künstliche Wimpern auswählen und anbringen
 - e) :: Präparate zur Camouflage auswählen und anwenden
 
+ 
 
+ 
 
-
-
-
+ 
 
 4
 
@@ -476,11 +476,11 @@ Kosmetische Massagen\\
 - e) :: Techniken der manuellen Lymphdrainage unterscheiden
 - f) :: apparativ unterstützte Massagen, insbesondere unter Einsatz von Reizstrom und mechanischen Hilfsmitteln durchführen
 
+ 
 
+ 
 
-
-
-
+ 
 
 16
 
@@ -493,22 +493,22 @@ Ernährungsberatung und Gesundheitsförderung\\
 
 6
 
+ 
 
+ 
 
-
-
-
+ 
 
 - b) :: Empfehlungen zu gesunden Ernährungs- und Lebensweisen unterbreiten
 - c) :: Bewegungs-, Haltungs- und Entspannungsübungen vorschlagen
 
+ 
 
-
-
+ 
 
 5
 
-
+ 
 
 \\
 Abschnitt 2: Wahlqualifikationseinheiten gemäß § 4 Abs. 2
@@ -523,11 +523,11 @@ Permanente Haarentfernung\\
 - c) :: permanente Haarentfernung durchführen
 - d) :: Ergebnis der permanenten Haarentfernung kontrollieren; Nachbehandlung durchführen
 
+ 
 
+ 
 
-
-
-
+ 
 
 12
 
@@ -540,11 +540,11 @@ Hydrotherapie\\
 - b) :: Methoden und Wirkung hydrotherapeutischer Maßnahmen unterscheiden und mögliche Unverträglichkeiten erkennen
 - c) :: Hydrotherapeutische Reizanwendungen in unterschiedlichen Temperaturbereichen anwenden
 
+ 
 
+ 
 
-
-
-
+ 
 
 6
 
@@ -557,11 +557,11 @@ Visagismus\\
 - b) :: Techniken, Hilfsmittel und Präparate typ- und situationsgerecht auswählen
 - c) :: Maßnahmen der Gesichtsgestaltung durchführen
 
+ 
 
+ 
 
-
-
-
+ 
 
 6
 
@@ -575,11 +575,11 @@ Permanentes Make-up\\
 - c) :: über die Wirkung der Maßnahme aufklären und beraten
 - d) :: Ergebnis des permanenten Make-ups kontrollieren und bewerten; Nachbehandlung durchführen
 
+ 
 
+ 
 
-
-
-
+ 
 
 12
 
@@ -592,11 +592,11 @@ Nagelmodellage\\
 - b) :: Präparate, Materialien und Techniken zur Nagelmodellage auswählen
 - c) :: künstliche Nägel anbringen, formen und gestalten
 
+ 
 
+ 
 
-
-
-
+ 
 
 6
 
@@ -609,11 +609,11 @@ Spezielle Fußpflege\\
 - b) :: Maßnahmen zur Vorbeugung von Zehenfehlstellungen beherrschen und anwenden
 - c) :: Nagelfehlstellungen unter Einsatz mechanischer Hilfsmittel beheben
 
+ 
 
+ 
 
-
-
-
+ 
 
 12
 
@@ -626,10 +626,10 @@ Manuelle Lymphdrainage im kosmetischen Bereich\\
 - b) :: Massagebereiche festlegen und Massageplan aufstellen
 - c) :: Techniken der manuellen Lymphdrainage anwenden
 
+ 
 
+ 
 
-
-
-
+ 
 
 12

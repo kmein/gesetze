@@ -28,7 +28,7 @@ Erholungsurlaub wird nur während der berufspraktischen Ausbildung gewährt.
 
 (1) Die Leistungen der Anwärterinnen und Anwärter werden, soweit in dieser Verordnung nichts anderes bestimmt ist, wie folgt bewertet:\\
 \\
-
+ 
 Prozentualer Anteil\\
 der erreichten Punkt-\\
 zahl an der erreich-\\
@@ -37,7 +37,7 @@ Rangpunkte/\\
 Rangpunktzahl
 Note
 Notendefinition
-
+ 
 1
 2
 3
@@ -138,7 +138,7 @@ Der Test nach Satz 1 Nummer 2 umfasst einen Leistungstest, einen Intelligenztest
 - 1. :: einer Gruppenaufgabe und
 - 2. :: einem strukturierten Interview.
 
-(2) Der mündliche Teil dient dazu, die Eignung der Bewerberinnen und Bewerber für den Vorbereitungsdienst im Kompetenzbereich soziales Verhalten“ und in weiteren Kompetenzbereichen zu ermitteln.
+(2) Der mündliche Teil dient dazu, die Eignung der Bewerberinnen und Bewerber für den Vorbereitungsdienst im Kompetenzbereich „soziales Verhalten“ und in weiteren Kompetenzbereichen zu ermitteln.
 (3) Für den mündlichen Teil erlässt die oberste Dienstbehörde oder eine von ihr bestimmte Stelle Auswahlrichtlinien. In ihnen werden festgelegt:
 
 - 1. :: die Kompetenzbereiche,
@@ -152,10 +152,10 @@ Die Auswahlrichtlinien werden auf der Internetseite der Deutschen Bundesbank ver
 
 (1) Für die Einzelbewertungen der im Auswahlverfahren erbrachten Leistungen gelten folgende Noten und Notendefinitionen:\\
 \\
-
+ 
 Note
 Notendefinition
-
+ 
 1
 2
 1
@@ -191,7 +191,7 @@ Die Eignung entspricht nicht den Anforderungen. Die Abweichungen liegen so deutl
 Eine Bewerberin oder ein Bewerber wird von der weiteren Teilnahme am Auswahlverfahren ausgeschlossen, wenn
 
 - 1. :: ein Abschnitt des schriftlichen Teils mit der Note 5 bewertet worden ist oder
-- 2. :: im mündlichen Teil der Kompetenzbereich soziales Verhalten“ oder mindestens zwei andere Kompetenzbereiche mit der Teilnote 4,50 oder schlechter bewertet worden sind.
+- 2. :: im mündlichen Teil der Kompetenzbereich „soziales Verhalten“ oder mindestens zwei andere Kompetenzbereiche mit der Teilnote 4,50 oder schlechter bewertet worden sind.
 
 
 § 13 - Gesamtergebnis des Auswahlverfahrens

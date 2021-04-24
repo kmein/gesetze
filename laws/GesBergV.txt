@@ -69,7 +69,7 @@ Die Organisation der nachgehenden Vorsorge nach Satz 1 kann mit Zustimmung des B
 - 2. :: über die notwendigen Kenntnisse der jeweiligen Arbeitsbedingungen im betroffenen Bergbau verfügen und
 - 3. :: selbst keine Arbeitgeberfunktion gegenüber den zu untersuchenden beschäftigten Personen ausüben.
 
-Bei Ärzten, die berechtigt sind, die Gebietsbezeichnung Arbeitsmedizin“ oder die Zusatzbezeichnung Betriebsmedizin“ zu führen, ist in der Regel davon auszugehen, dass Satz 1 Nummer 1 erfüllt ist. Verfügen die Ärzte nach Satz 1 für bestimmte Untersuchungen nicht über die erforderlichen Fachkenntnisse oder Ausrüstungen, so sind Ärzte hinzuzuziehen, die diese Anforderungen erfüllen. Die nachgehende Vorsorge nach § 4 Absatz 1 ist von Ärzten durchzuführen, die die Anforderungen nach Satz 1 Nummer 1 und 3 erfüllen. Der Unternehmer hat die Auswahl des Arztes unter Beachtung der Vorgaben der Sätze 1 bis 4 nach billigem Ermessen vorzunehmen.
+Bei Ärzten, die berechtigt sind, die Gebietsbezeichnung „Arbeitsmedizin“ oder die Zusatzbezeichnung „Betriebsmedizin“ zu führen, ist in der Regel davon auszugehen, dass Satz 1 Nummer 1 erfüllt ist. Verfügen die Ärzte nach Satz 1 für bestimmte Untersuchungen nicht über die erforderlichen Fachkenntnisse oder Ausrüstungen, so sind Ärzte hinzuzuziehen, die diese Anforderungen erfüllen. Die nachgehende Vorsorge nach § 4 Absatz 1 ist von Ärzten durchzuführen, die die Anforderungen nach Satz 1 Nummer 1 und 3 erfüllen. Der Unternehmer hat die Auswahl des Arztes unter Beachtung der Vorgaben der Sätze 1 bis 4 nach billigem Ermessen vorzunehmen.
 
 (3) Für Art und Umfang der Eignungsuntersuchungen sind die vorgesehenen Tätigkeiten sowie die dabei bestehenden Arbeitsbedingungen maßgebend. Der in Anlage 3 vorgegebene Rahmen ist einzuhalten und der anerkannte Stand der medizinischen Erkenntnisse zu beachten. Die Eignungsuntersuchungen sind nach einem Plan durchzuführen, den der Unternehmer unter Beachtung der Vorgaben nach den Sätzen 1 und 2 und unter Einbeziehung eines Arztes nach Absatz 2 Satz 1 aufzustellen und der zuständigen Behörde anzuzeigen sowie den davon betroffenen Personen zur Kenntnis zu geben hat. In dem Plan sind insbesondere festzulegen:
 
@@ -233,70 +233,70 @@ Anlage 2 - (zu § 3 Absatz 2)Fristen für Nachuntersuchungen
 (Fundstelle: BGBl. I 2017, 3590)
 \\
 \\
-
+ 
 Personengruppen
 Frist
-
-
-
+ 
+ 
+ 
 (Jahr(e))
 1
 Personen, die Tätigkeiten unter Tage nach § 2 Absatz 1 Satz 1 Nummer 1 durchführen
-
-
+ 
+ 
 1.1
 im untertägigen Steinkohlenbergbau
-
+ 
 2
 1.2
 im untertägigen Nichtsteinkohlenbergbau
-
+ 
 3
 1.3
 in Klima-Betrieben
-
-
+ 
+ 
 1.3.1
 wenn sie innerhalb eines Jahrs mehr als 80 Schichten unter Temperatur- und Klimabedingungen nach § 2 Absatz 3 verfahren haben
-
+ 
 2
 1.3.2
 wenn sie innerhalb eines Jahrs mehr als 80 Schichten
-
+ 
 1
-
+ 
 a)
 außerhalb des Salzbergbaus bei Effektivtemperaturen von mehr als 29 Grad Celsius oder
-
-
-
+ 
+ 
+ 
 b)
 im Salzbergbau bei Trockentemperaturen von mehr als 46 Grad Celsius verfahren haben
-
-
+ 
+ 
 1.4
 der Eignungsgruppen 4 einschließlich der Untergruppen 4.1 bis 4.5
-
+ 
 1
 2
 Träger von Atemschutzgeräten nach § 2 Absatz 1 Satz 1 Nummer 2, soweit sich aus Nummer 1 auf Grund des Einsatzes unter Tage nicht eine kürzere Frist ergibt
-
+ 
 3
 3
 Personen, die Fahr- und Steuertätigkeiten nach § 2 Absatz 1 Satz 1 Nummer 3 bis 5 über Tage ausführen
-
+ 
 3
 4
 Personen, die Arbeiten in großer Höhe nach § 2 Absatz 1 Satz 1 Nummer 6 über Tage durchführen, soweit sich aus Nummer 1 auf Grund des Einsatzes unter Tage nicht eine kürzere Frist ergibt
-
+ 
 3
 5
 Taucher, Taucheinsatzleiter, Taucherhelfer und Signalpersonen
-
+ 
 1
 6
 Personen nach den Nummern 2 und 5 nach Krankheiten und Unfällen, die eine wesentliche gesundheitliche Beeinträchtigung zur Folge haben können
-
+ 
 unverzüglich
 Die Frist nach Nummer 1.4 ist ohne Angabe der Eignungs-Untergruppen 4.1 bis 4.5 in der Bescheinigung nach Anlage 4 zu vermerken.
 
@@ -311,41 +311,41 @@ Für Erstuntersuchungen ist folgender Untersuchungsrahmen einzuhalten:
 Anamnese als Grundlage für Untersuchungen nach Maßgabe der Nummern 1.2 bis 1.5.
 1.2
 Allgemeine ärztliche Untersuchung sowie, soweit unter Berücksichtigung der Anamnese und der allgemeinen ärztlichen Untersuchung sowie der konkreten Tätigkeit erforderlich, eine Blut- und Urinanalyse, insbesondere im Hinblick auf die Feststellung von Zuckerkrankheit, und eine elektrokardiographische Untersuchung, gegebenenfalls in Form einer Ergometrie, um insbesondere Erkrankungen des Herz-Kreislaufsystems, des Stoffwechselsystems, des Nervensystems oder des Muskel- und Skelettsystems festzustellen, die folgendes auslösen oder auslösen können:
-
+ 
 a)
 plötzliche Bewusstlosigkeit oder plötzliche Handlungsunfähigkeit,
-
+ 
 b)
 für die Tätigkeit relevante Einschränkung der Mobilität oder motorischen Fähigkeiten,
-
+ 
 c)
 bei Tätigkeiten nach § 2 Absatz 1 Satz 1 Nummer 3 bis 5 für die Tätigkeit relevante Einschränkung der Konzentration, Aufmerksamkeit oder Reaktionsfähigkeit, bei § 2 Absatz 1 Satz 1 Nummer 3 insbesondere im Hinblick auf Monotoniefestigkeit,
-
+ 
 d)
 bei Tätigkeiten nach § 2 Absatz 1 Satz 1 Nummer 3 und 4 eine für die Tätigkeit relevante Einschränkung des Urteilsvermögens,
-
+ 
 e)
 bei Tätigkeiten nach § 2 Absatz 1 Satz 1 Nummer 6 und 7 eine Störung des Gleichgewichtssinns,
-
+ 
 f)
 bei Tätigkeiten nach § 2 Absatz 1 Satz 1 Nummer 1 und 2 und § 16 der Offshore-Bergverordnung, soweit sie eine manuelle Lastenhandhabung, erzwungene Körperhaltungen (zum Beispiel Knien) oder besondere Kraftanstrengungen erfordern oder eine Exposition gegenüber Vibration bedingen, diesbezügliche Einschränkung der Belastbarkeit des Muskel- und Skelettsystems,
-
+ 
 g)
 bei Tätigkeiten nach § 2 Absatz 3 eine fehlende Belastbarkeit unter den besonderen klimatischen Bedingungen des Betriebs.
-
+ 
 Eine Blut- und Urinanalyse im Hinblick auf die Einnahme von Arzneimitteln oder Stoffen ist nur anlassbezogen durchzuführen, wenn auf Grund der Anamnese oder allgemeinen ärztlichen Untersuchung Tatsachen die Annahme rechtfertigen, dass diese in einem Umfang eingenommen werden, die zu Folgen nach Satz 1 führen. Bei Tätigkeiten nach § 2 Absatz 1 Satz 1 Nummer 3 und 4 ist zudem in der Regel ein psychometrischer Leistungstest im Hinblick auf Konzentration, Aufmerksamkeit, Reaktionsfähigkeit und Urteilsvermögen erforderlich.
 1.3
 Untersuchung des Sehvermögens
-
+ 
 a)
 für Nähe und Ferne (mit oder ohne Sehhilfe) und für die Farbwahrnehmung,
-
+ 
 b)
 bei Tätigkeiten nach § 2 Absatz 1 Satz 1 Nummer 1, 3, 4 und 5 zudem Untersuchung des Dämmerungs- und Kontrast-Sehvermögens und bezüglich Überempfindlichkeit gegen Blendung,
-
+ 
 c)
 bei Tätigkeiten nach § 2 Absatz 1 Satz 1 Nummer 3, 4 und 5 zudem Untersuchung des räumlichen Sehens,
-
+ 
 d)
 bei Tätigkeiten nach § 2 Absatz 1 Satz 1 Nummer 4 und 5 zudem Untersuchung des Sehvermögens im Gesichtsfeld.
 1.4
@@ -385,7 +385,7 @@ Name und Anschrift des untersuchenden Arztes
 Allgemeine Beurteilung (Eignungsgruppe nach Anlage 1)
 4
 Einsatzbeschränkungen
-
+ 
 (zum Beispiel bei Absturzgefahr, bei unzureichender Seh- und Farbtüchtigkeit, bei Nacht- oder Schichtarbeit, bei Arbeit mit Druckluftwerkzeugen, bei vorwiegend kniend auszuführenden Arbeiten/niedrigen Grubenbauen, bei manueller Handhabung von Lasten, nur bei bestimmter Trocken- oder Effektivtemperatur, bei Tätigkeiten unter Tage gegebenenfalls Beschränkungen nach § 9 Absatz 2)
 5
 Beurteilung nach anderen Rechtsvorschriften
@@ -405,15 +405,15 @@ Anlage 6 - (zu § 5)  Ermittlung der persönlichen Staubbelastungswerte nach § 
 
 \\
 
-
+ 
 
 Massenanteil des Quarzes in dem Feinstaubgemisch
 
-
+ 
 
 5
 
-
+ 
 
 5
 
@@ -425,19 +425,19 @@ Massenanteil des Quarzes in dem Feinstaubgemisch
 
 - Massen-%
 
-
-
-k
-
-
+ 
 
 k
 
+ 
 
+k
+
+ 
 
 E(tief)c = f(tief)c x S
 
-
+ 
 
 E(tief)c(tief)q =\\
 k x f(tief)c(tief)q x S

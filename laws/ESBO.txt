@@ -172,18 +172,18 @@ Die Vorschriften des § 2 der EBO gelten entsprechend.
 1.
 bei Gleisen ohne Rollfahrzeugbetrieb
 100 mm beim Grundmaß der Spurweite
-
+ 
 von 1.000 mm,
 50 mm beim Grundmaß der Spurweite
-
+ 
 von 750 mm,
 2.
 bei Gleisen mit Rollfahrzeugbetrieb
 80 mm beim Grundmaß der Spurweite
-
+ 
 von 1.000 mm,
 40 mm beim Grundmaß der Spurweite
-
+ 
 von 750 mm.
 (4) Jede Änderung der Überhöhung ist durch eine Rampe zu vermitteln, deren Neigung nicht größer sein darf als 1:300.
 
@@ -241,12 +241,12 @@ auf freier Strecke und bei Überladegleisen
 3,65 m,
 2.
 auf Bahnhöfen, ausgenommen Überladegleise,
-
-
+ 
+ 
 a)
 bei bestehenden Anlagen
 4,00 m,
-
+ 
 b)
 bei Neubauten
 4,50 m.
@@ -908,7 +908,7 @@ unter 70 bis 60
 
 1.260
 
-
+ 
 
 - 2. :: Wenn regelspurige Güterwagen mit höchstens 15,00 m Drehzapfenabstand befördert werden
 
@@ -1126,7 +1126,7 @@ unter 20 bis 15
 
 2.750
 
-
+ 
 
 - 3. :: Wenn regelspurige Güterwagen mit höchstens 8,00 m Radsatzabstand oder Drehzapfenabstand befördert werden
 
@@ -1344,7 +1344,7 @@ unter 20 bis 15
 
 1.760
 
-
+ 
 
 - 4. :: Wenn regelspurige Güterwagen mit höchstens 4,50 m Radsatzabstand befördert werden
 

@@ -1280,7 +1280,7 @@ C_{5}H_{8}N_{4}O_{12}
 7
 Trinitrophenol (Pikrinsäure)
 C_{6}H_{3}N_{3}0_{7}
-
+ 
 Stoffgruppe B
 Lfd. Nr.
 Stoff
@@ -1309,7 +1309,7 @@ C_{8}H_{10}O_{8}
 8
 1-Hydroxy-1'-hydroperoxydicyclohexylperoxid (Cyclohexanonperoxid)
 C_{12}H_{20}O_{5}
-
+ 
 Stoffgruppe C
 Lfd. Nr.
 Stoff

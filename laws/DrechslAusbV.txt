@@ -241,8 +241,8 @@ Instandhalten von Handwerkszeugen (§ 3 Abs. 1 Nr. 6)
 a)
 Werkzeuge zum Drehen, Drechseln, Schneiden, Bohren und Fräsen instandhalten und lagern
 3
-
-
+ 
+ 
 b)
 Werkzeuge schärfen
 c)
@@ -252,8 +252,8 @@ Warten von Drehmaschinen (§ 3 Abs. 1 Nr. 7)
 a)
 Antriebe, Aufbau und Funktion von Drehmaschinen beschreiben
 2
-
-
+ 
+ 
 b)
 Dreheinrichtungen und Zubehör warten
 8
@@ -261,8 +261,8 @@ Einrichten, Bedienen und Warten von Maschinen und Vorrichtungen (§ 3 Abs. 1 Nr.
 a)
 Aufbau und Funktion von Maschinen beschreiben
 8
-
-
+ 
+ 
 b)
 Maschinen einrichten, bedienen und warten
 c)
@@ -277,15 +277,15 @@ g)
 Schärfen von Maschinenwerkzeugen beschreiben
 h)
 Maschinenwerkzeuge auswechseln und einrichten
-
+ 
 2
-
+ 
 i)
 Maschinenwerkzeuge lagern
 k)
 Vorrichtungen nach ihrem Verwendungszweck unterscheiden
-
-
+ 
+ 
 3
 l)
 Vorrichtungen anwenden
@@ -296,8 +296,8 @@ Beschaffenheit und Eigenschaften von Holz und Holzwerkstoffen (§ 3 Abs. 1 Nr. 9
 a)
 Eigenschaften, Erkennungsmerkmale, Handelsformen und Verwendung der berufsüblichen Holzarten und Holzwerkstoffe nennen
 6
-
-
+ 
+ 
 b)
 Holz und Holzwerkstoffe lagern und stapeln
 c)
@@ -310,21 +310,21 @@ f)
 Holz und Holzwerkstoffe nach den für die Verwendung wichtigen Eigenschaften auswählen
 g)
 Furniere auswählen
-
-
+ 
+ 
 1
 10
 Be- und Verarbeiten von Holz und Holzwerkstoffen (§ 3 Abs. 1 Nr. 10)
 a)
 Arbeitsschritte planen und festlegen
-
+ 
 1
-
+ 
 b)
 Meß- und Anreißarbeiten ausführen
 10
-
-
+ 
+ 
 c)
 Säge-, Hobel-, Feil- und Schleifarbeiten ausführen
 d)
@@ -333,8 +333,8 @@ e)
 Holz- und Holzwerkstoffe verleimen und verkleben
 f)
 konstruktive Verbindungen aus Vollholz und Holzwerkstoffen herstellen
-
-
+ 
+ 
 2
 g)
 Materialfehler beseitigen
@@ -343,8 +343,8 @@ Drehen und Drechseln (§ 3 Abs. 1 Nr. 11)
 a)
 Material zur Bearbeitung vorbereiten
 20
-
-
+ 
+ 
 b)
 Material anreißen, zentrieren und einspannen
 c)
@@ -353,9 +353,9 @@ d)
 Zylinder- und Profilformen schlichten
 e)
 Querholz nach Vorgaben formdrehen
-
+ 
 14
-
+ 
 f)
 Profilformen quer zur Faser drehen
 g)
@@ -364,8 +364,8 @@ h)
 Drehteile mit Kopier- und Schabloneneinrichtungen herstellen
 i)
 Drehteile längs zur Faser maßgerecht herstellen
-
-
+ 
+ 
 14
 k)
 Seriendrehteile quer zur Faser maßgerecht herstellen
@@ -374,12 +374,12 @@ Beschaffenheit und Eigenschaften von Edelwerkstoffen (§ 3 Abs. 1 Nr. 12)
 a)
 Arten, Eigenschaften und Verwendung von Edelwerkstoffen beschreiben
 2
-
-
+ 
+ 
 b)
 Edelwerkstoffe materialgerecht lagern
-
-
+ 
+ 
 2
 c)
 Bearbeitungstechniken beschreiben
@@ -389,17 +389,17 @@ wichtige Bestimmungen des Artenschutzgesetzes nennen
 Be- und Verarbeiten von Kunststoffen (§ 3 Abs. 1 Nr. 13)
 a)
 Arten und Eigenschaften üblicher Kunststoffe beschreiben
-
+ 
 3
-
+ 
 b)
 Kunststoffe transportieren und lagern
 c)
 Kunststoffe spanabhebend bearbeiten
 d)
 Kunststoffe spanlos verformen
-
-
+ 
+ 
 2
 e)
 Kunststoffe kleben und schweißen
@@ -408,13 +408,13 @@ Be- und Verarbeiten von Metallen (§ 3 Abs. 1 Nr. 14)
 a)
 Eigenschaften und Verwendung von Stahl und Nichteisenmetallen, soweit sie für den Ausbildungsberuf von Bedeutung sind, beschreiben
 1
-
-
+ 
+ 
 b)
 Meß-, Anreiß-, Säge-, Feil-, Schleif- und Bohrarbeiten ausführen
-
+ 
 4
-
+ 
 c)
 Metallverbindungen herstellen
 d)
@@ -427,9 +427,9 @@ Korrosionsschutzmaßnahmen durchführen
 Überprüfen und Verpacken von Erzeugnissen (§ 3 Abs. 1 Nr. 15)
 a)
 Teile und Erzeugnisse kennzeichnen
-
+ 
 2
-
+ 
 b)
 Teile und Erzeugnisse produkt- und materialgerecht lagern
 c)
@@ -438,8 +438,8 @@ d)
 Erzeugnisse verpacken
 e)
 Qualitätskontrolle durchführen
-
-
+ 
+ 
 2
 II. Fertigkeiten und Kenntnisse in den Fachrichtungen
 A.
@@ -448,17 +448,17 @@ Fachrichtung Drechseln
 Entwerfen und Entwickeln von Erzeugnissen (§ 3 Abs. 2 Nr. 1 Buchstabe a)
 a)
 Arbeitsabläufe planen und beschreiben
-
+ 
 7
-
+ 
 b)
 Produktgestaltung schrittweise an der Drehbank erproben
 c)
 Arbeitsmodelle herstellen
 d)
 Produktentwürfe nach zeitgemäßen und historischen Vorgaben entwickeln
-
-
+ 
+ 
 7
 e)
 Prototypen einschließlich der erforderlichen Hilfsmittel herstellen
@@ -468,9 +468,9 @@ Verfahren und Materialien zur Herstellung von Prototypen protokollieren
 Herstellen von Teilen und Erzeugnissen (§ 3 Abs. 2 Nr. 1 Buchstabe b)
 a)
 geeignete Werkstoffe auswählen
-
+ 
 15
-
+ 
 b)
 Materialbedarf ermitteln
 c)
@@ -487,8 +487,8 @@ h)
 mechanisch spannende Futter und pneumatische Hilfsmittel einsetzen
 i)
 Drehmaschinen einrichten und bedienen
-
-
+ 
+ 
 15
 k)
 Dreheinrichtungen anwenden
@@ -512,17 +512,17 @@ historische und spezielle Arbeitsverfahren des Drechslerhandwerks beschreiben
 Herstellen und Behandeln von Oberflächen (§ 3 Abs. 2 Nr. 1 Buchstabe c)
 a)
 Werkstoffe und Verfahren zur Oberflächenbehandlung beschreiben
-
+ 
 4
-
+ 
 b)
 Oberflächen zur Endbehandlung vorbereiten
 c)
 geeignete Mittel und Verfahren zur Oberflächenbehandlung auswählen und anwenden
 d)
 Oberflächen ausbessern
-
-
+ 
+ 
 4
 e)
 Furniere schneiden, fügen und zusammensetzen
@@ -534,15 +534,15 @@ Fachrichtung Elfenbeinschnitzen
 Gestalten und Entwickeln von Erzeugnissen aus Edelwerkstoffen (§ 3 Abs. 2 Nr. 2 Buchstabe a)
 a)
 Entwurfsidee skizzieren
-
+ 
 3
-
+ 
 b)
 Werkstücke zeichnen, malen und modellieren
 c)
 Modellier- und Abformmaterialien beschreiben und anwenden
-
-
+ 
+ 
 6
 d)
 Werkstoffe für Modelle auswählen
@@ -552,9 +552,9 @@ Modelle in geeigneten Maßstäben herstellen
 Herstellen von Erzeugnissen aus Edelwerkstoffen(§ 3 Abs. 2 Nr. 2Buchstabe b)
 a)
 Edelwerkstoffe unter Beachtung von Arten, Eigenschaften und Verwendung auswählen
-
+ 
 17
-
+ 
 b)
 Bearbeitungslinien und Bearbeitungsschritte festlegen
 c)
@@ -563,8 +563,8 @@ d)
 Teile verbinden
 e)
 Beschläge auswählen und anbringen
-
-
+ 
+ 
 14
 f)
 Materialfehler beseitigen, Teile ergänzen, Schäden ausbessern
@@ -576,17 +576,17 @@ Maßnahmen zur Sicherung und Werterhaltung historischer Erzeugnisse beschreiben 
 Herstellen von Oberflächen (§ 3 Abs. 2 Nr. 2 Buchstabe c)
 a)
 Werkstoffe und Verfahrenstechniken zur Oberflächenbehandlung beschreiben
-
+ 
 6
-
+ 
 b)
 Unterschiedliche Verfahrenstechniken anwenden
 c)
 verschiedene Poliertechniken für Edelwerkstoffe anwenden
 d)
 Oberflächen mit Edelwerkstoffen belegen
-
-
+ 
+ 
 6
 e)
 Beizen und Patinierungen anwenden

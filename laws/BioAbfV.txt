@@ -902,7 +902,7 @@ Anhang 2 - (zu § 2 Nummer 2, § 3 Absatz 2 bis 7)Anforderungen an die hygienisi
   Für die Herstellung der Einlageproben und den Nachweis durch einen Biotest werden folgende Materialien und Reagenzien benötigt:
   - -- :: Kunststofftöpfe mit einem Volumen von 500 ml mit Bodenlochung und Unterschalen,
   - -- :: wasserlösliche Mehrnährstoffdünger,
-  - -- :: Tabaksaatgut (Nicotiana tabacum Samsun“ ),
+  - -- :: Tabaksaatgut (Nicotiana tabacum „Samsun“ ),
   - -- :: Tabaksaatgut (Nicotiana glutinosa L.),
   - -- :: Einheitserde 0 (EE0) als Pflanzsubstrat,
   - -- :: Mörser und Pistill,
@@ -914,9 +914,9 @@ Anhang 2 - (zu § 2 Nummer 2, § 3 Absatz 2 bis 7)Anforderungen an die hygienisi
   - -- :: verschließbare Glas- oder Kunststoffgefäße,
   - -- :: Aufbewahrungsgefäße und Feuchteschalen.
 - 4.3.1.4.1 :: Herstellung der Einlageproben
-  Die Vermehrung des Virus erfolgt in Tabakpflanzen (Nicotiana tabacum Samsun“ ), in denen es sich systemisch ausbreitet. Dazu werden die Tabakpflanzen bei 18 bis 22 °C unter Gewächshausbedingungen bis zum 5-Blattstadium herangezogen. Zur Inokulation werden 2 oder 3 untere Blätter mit einem Gemisch aus Karborund und Bentonit (1:1) dünn eingepudert und die TMV-haltige Suspension (Pflanzenpresssaft aus TMV-infizierten Tabakpflanzen) in 0,05 mol/l Phosphatpuffer nach Sörensen oder entsprechend (pH-Wert 7) auf die bestäubten Blätter aufgetragen. 2 bis 3 Wochen nach der Inokulation können dann virushaltige Blätter mit mosaikartigen Verfärbungen für die Untersuchungen verwendet werden.
-  Jede in den Kompostierungsprozess zur Hygienisierung eingeschleuste Probe enthält 10 g TMV-infizierte Tabakblätter (Nicotiana tabacum Samsun“ ), die in ein rottebeständiges Gazesäckchen (Maschenweite 1 x 1 mm) gefüllt werden. Damit die Rottebedingungen auf die TMV-infizierten Tabakblätter einwirken können, ist das Gazesäckchen der Einlageprobe vollständig mit Kompostrohmaterial zu umgeben.
-  Es sind Positivkontrollen aus 10 g mit TMV-infizierten Tabakblättern (Nicotiana tabacum Samsun“ ) derselben Charge herzustellen, die bei --18 °C aufbewahrt werden.
+  Die Vermehrung des Virus erfolgt in Tabakpflanzen (Nicotiana tabacum „Samsun“ ), in denen es sich systemisch ausbreitet. Dazu werden die Tabakpflanzen bei 18 bis 22 °C unter Gewächshausbedingungen bis zum 5-Blattstadium herangezogen. Zur Inokulation werden 2 oder 3 untere Blätter mit einem Gemisch aus Karborund und Bentonit (1:1) dünn eingepudert und die TMV-haltige Suspension (Pflanzenpresssaft aus TMV-infizierten Tabakpflanzen) in 0,05 mol/l Phosphatpuffer nach Sörensen oder entsprechend (pH-Wert 7) auf die bestäubten Blätter aufgetragen. 2 bis 3 Wochen nach der Inokulation können dann virushaltige Blätter mit mosaikartigen Verfärbungen für die Untersuchungen verwendet werden.
+  Jede in den Kompostierungsprozess zur Hygienisierung eingeschleuste Probe enthält 10 g TMV-infizierte Tabakblätter (Nicotiana tabacum „Samsun“ ), die in ein rottebeständiges Gazesäckchen (Maschenweite 1 x 1 mm) gefüllt werden. Damit die Rottebedingungen auf die TMV-infizierten Tabakblätter einwirken können, ist das Gazesäckchen der Einlageprobe vollständig mit Kompostrohmaterial zu umgeben.
+  Es sind Positivkontrollen aus 10 g mit TMV-infizierten Tabakblättern (Nicotiana tabacum „Samsun“ ) derselben Charge herzustellen, die bei --18 °C aufbewahrt werden.
 - 4.3.1.4.2 :: Nachweis der Infektiosität durch einen Biotest
   Die Inaktivierung der durch den Hygienisierungsprozess der thermophilen Kompostierung geleiteten Erregerproben wird durch einen Biotest nach folgender beschriebener Methode untersucht.
   Probenaufarbeitung
@@ -927,7 +927,7 @@ Anhang 2 - (zu § 2 Nummer 2, § 3 Absatz 2 bis 7)Anforderungen an die hygienisi
   Für die Inokulation der 12 reisolierten TMV-Erregerproben werden insgesamt 12 Nachweispflanzen benötigt, wobei je Prüfbereich vier Proben an vier Pflanzen getestet werden.
   An den Nachweispflanzen werden die Vegetationsspitze und die unteren älteren Blätter entfernt, so dass jeweils vier voll ausgebildete Blätter für die Inokulation an den Pflanzen verbleiben. Für die bessere Vergleichbarkeit bei Lokalläsionen an Pflanzen mit Blättern unterschiedlicher Größe und unterschiedlichen Alters ist das lateinische Quadrat als Versuchsanordnung zu wählen. Voraussetzung hierfür ist die gleiche Anzahl an TMV-Proben, Testpflanzen und Blättern. Bei der Prozessprüfung werden die drei charakteristischen Prüfbereiche des Rottekörpers in jeweils vierfacher Wiederholung überprüft. Das folgende Schema verdeutlicht die Versuchsanordnung der Halbblattmethode unter Einbeziehung der Positiv-Kontrollprobe (P) für die vier zu prüfenden TMV-Proben (A, B, C, D) eines Prüfbereichs:\\
   \\
-  
+   
 - 4.3.2 :: Prüfungen der hygienisierten Bioabfälle
   Bei der Prüfung der hygienisierten Bioabfälle in der Phytohygiene wird der Gehalt an keimfähigen Samen und austriebsfähigen Pflanzenteilen im hygienisierend behandelten Material mit der Kultivierungsmethode bestimmt.
   Die Prüfung wird mit Material aus einer gut durchmischten Sammelprobe (ca. 3 kg) durchgeführt. Die Sammelmischprobe setzt sich aus mindestens fünf verschiedenen Teilproben einer Charge des hygienisierend behandelten, gemäß Nummer 3.3 zu untersuchenden Materials zusammen.
@@ -1040,11 +1040,11 @@ Aufbringungsmenge\\
 (§ 11 Abs. 2 Satz 2 Nr. 8)\\
 t TM/ha/3 Jahre:\\
  □  20   □  30\\
- □
+ □ 
 Abgegebene Menge in t\\
 (§ 11 Abs. 2 Satz 2 Nr. 3):\\
 \\
-
+ 
 Falls Zwischenabnehmer (§ 11 Abs. 2 Satz 2 Nr. 2)\\
 (ggf. weitere Zwischenabnehmer auf zusätzlichem\\
 Blatt) -- Name und Anschrift:
@@ -1109,11 +1109,11 @@ mg KCl/100 g FM\\
 
 Untersuchungsstelle Prüfung Schadstoffe und weitere Parameter (§ 11 Abs. 2 Satz 2 Nr. 7) -- Name und Anschrift:\\
 Untersuchungsstelle Prüfung der hygienisierten Bioabfälle (§ 11 Abs. 2 Satz 2 Nr. 7) -- Name und Anschrift:
-
-
+ 
+ 
 Probenahme-Datum:\\
 Analysen-Nr.:
-
+ 
 Der Aussteller versichert, dass die Anforderungen\\
 a) zur seuchen- und phytohygienischen Unbedenklichkeit nach § 3 Abs. 2 und 3 sowie\\
 b) an die Schwermetallgehalte nach § 4 Abs. 3, auch in Verbindung mit § 5 Abs. 2 Satz 2,\\
@@ -1133,42 +1133,42 @@ Blei
 mg/kg TM
 | Bodenart Ton | □ |
 
-
+ 
 Cadmium
 mg/kg TM
 | Bodenart Lehm | □ |
 
-
+ 
 Chrom
 mg/kg TM
 | Bodenart Sand | □ |
 
-
+ 
 Kupfer
 mg/kg TM
 pH-Wert
-
+ 
 Nickel
 mg/kg TM
 Quecksilber
 mg/kg TM
-
-
+ 
+ 
 Zink
 mg/kg TM
-
-
+ 
+ 
 Untersuchungsstelle Bodenuntersuchung (§ 11 Abs. 2a Satz 2; vom Bewirtschafter im Original des Lieferscheines auszufüllen) -- Name und Anschrift:\\
 Aufbringungsfläche (§ 11 Abs. 2a Satz 2; vom Bewirtschafter im Original des Lieferscheines auszufüllen)\\
 (ggf. weitere Aufbringungsflächen auf zusätzlichem Blatt)
 Gemarkung
   Flur         Flurstücks-Nr.
 oder alternativ Schlagbezeichnung
-
+ 
   Größe      ha
-
+ 
 /
-
+ 
 Datum der Abgabe und\\
 Unterschrift des\\
 Ausstellers

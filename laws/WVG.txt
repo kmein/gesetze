@@ -11,7 +11,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 Inhaltsübersicht
 
 Erster Teil
-
+ 
 Allgemeine Vorschriften für den Verband
 § 1
 Zweck und Rechtsform
@@ -26,14 +26,14 @@ Unternehmen, Plan, Lagerbuch
 § 6
 Satzung
 Zweiter Teil
-
+ 
 Errichtung des Verbands
-
-
+ 
+ 
 Erster Abschnitt
-
-
-
+ 
+ 
+ 
 Errichtungsarten
 § 7
 Arten der Errichtung, Entstehung des Verbands
@@ -43,12 +43,12 @@ Beteiligte
 Heranziehung zur Mitgliedschaft
 § 10
 Zulässigkeit der Errichtung von Amts wegen
-
-
+ 
+ 
 Zweiter Abschnitt
-
-
-
+ 
+ 
+ 
 Errichtungsverfahren
 § 11
 Einleitung des Errichtungsverfahrens
@@ -73,14 +73,14 @@ Erste Berufung der Organe
 § 21
 Verfahrenskosten
 Dritter Teil
-
+ 
 Rechtsverhältnisse des Verbands zu seinen Mitgliedern und Dritten
-
-
+ 
+ 
 Erster Abschnitt
-
-
-
+ 
+ 
+ 
 Mitgliedschaft
 § 22
 Mitgliedschaft
@@ -94,12 +94,12 @@ Verfahren
 Auskunftspflicht
 § 27
 Verschwiegenheitspflicht
-
-
+ 
+ 
 Zweiter Abschnitt
-
-
-
+ 
+ 
+ 
 Verbandsbeiträge
 § 28
 Verbandsbeiträge
@@ -111,10 +111,10 @@ Maßstab für Verbandsbeiträge
 Erhebung der Verbandsbeiträge
 § 32
 Vorausleistungen auf Verbandsbeiträge
-
-
+ 
+ 
 Dritter Abschnitt
-
+ 
 Benutzung von Grundstücken
 § 33
 Benutzung der Grundstücke dinglicher Verbandsmitglieder
@@ -130,10 +130,10 @@ Ausgleichsverfahren
 Anspruch auf Grundstückserwerb
 § 39
 Rechtsverhältnisse bei abgeleiteten Grundstücksnutzungen
-
-
+ 
+ 
 Vierter Abschnitt
-
+ 
 Enteignung für das Unternehmen
 § 40
 Zweck und Gegenstand der Enteignung
@@ -143,19 +143,19 @@ Zulässigkeit und Umfang der Enteignung
 Entschädigung
 § 43
 Anwendung von Landesrecht
-
-
+ 
+ 
 Fünfter Abschnitt
-
-
-
+ 
+ 
+ 
 Verbandsschau
 § 44
 Verbandsschau, Schaubeauftragte
 § 45
 Durchführung der Verbandsschau
 Vierter Teil
-
+ 
 Verbandsverfassung
 § 46
 Organe
@@ -182,34 +182,34 @@ Sitzungen des Vorstands
 § 57
 Geschäftsführer
 Fünfter Teil
-
+ 
 Satzungsänderung sowie Umgestaltung und Auflösung des Verbands
-
-
+ 
+ 
 Erster Abschnitt
-
-
-
+ 
+ 
+ 
 Satzungsänderung
 § 58
 Änderung der Satzung
 § 59
 Satzungsänderung durch die Aufsichtsbehörde
-
-
+ 
+ 
 Zweiter Abschnitt
-
+ 
 Umgestaltung
 § 60
 Zusammenschluß
 § 61
 Übertragung von Aufgaben
-
-
+ 
+ 
 Dritter Abschnitt
-
-
-
+ 
+ 
+ 
 Auflösung
 § 62
 Auflösung des Verbands
@@ -218,14 +218,14 @@ Abwicklung
 § 64
 Aufbewahrung der Bücher, Einsicht
 Sechster Teil
-
+ 
 Rechnungswesen
 § 65
 Haushalt, Rechnungslegung, Prüfung
 § 66
 Schuldübernahme
 Siebter Teil
-
+ 
 Verfahrensvorschriften
 § 67
 Öffentliche Bekanntmachungen
@@ -238,7 +238,7 @@ Geltung von Landesrecht
 § 71
 Schiedsgericht
 Achter Teil
-
+ 
 Aufsicht, Oberverband, Unterverband
 § 72
 Aufsicht, Oberverband, Unterverband
@@ -253,7 +253,7 @@ Ersatzvornahme
 § 77
 Bestellung eines Beauftragten
 Neunter Teil
-
+ 
 Übergangs- und Schlußbestimmungen
 § 78
 Außerkrafttreten

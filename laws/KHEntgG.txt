@@ -7,14 +7,14 @@ Ausfertigungsdatum: 23.04.2002
 Inhaltsübersicht
 
 Abschnitt 1
-
+ 
 Allgemeine Vorschriften
 § 1
 Anwendungsbereich
 § 2
 Krankenhausleistungen
 Abschnitt 2
-
+ 
 Vergütung der Krankenhausleistungen
 § 3
 Grundlagen
@@ -25,14 +25,14 @@ Vereinbarung und Abrechnung von Zu- und Abschlägen
 § 6
 Vereinbarung sonstiger Entgelte
 Abschnitt 3
-
+ 
 Entgeltarten und Abrechnung
 § 7
 Entgelte für allgemeine Krankenhausleistungen
 § 8
 Berechnung der Entgelte
 Abschnitt 4
-
+ 
 Vereinbarungsverfahren
 § 9
 Vereinbarung auf Bundesebene
@@ -49,7 +49,7 @@ Genehmigung
 § 15
 Laufzeit
 Abschnitt 5
-
+ 
 Gesondert berechenbare ärztliche und andere Leistungen
 § 16
 (weggefallen)
@@ -60,7 +60,7 @@ Belegärzte
 § 19
 Kostenerstattung der Ärzte
 Abschnitt 6
-
+ 
 Sonstige Vorschriften
 § 20
 Zuständigkeit der Krankenkassen auf Landesebene
@@ -154,7 +154,7 @@ Abweichend von Satz 1 ist für Leistungen, die durch eine Verlagerung von Leistu
   - a) :: Weiterbildung zur Fachärztin oder zum Facharzt für Hygiene und Umweltmedizin für die Dauer von maximal fünf Jahren durch einen pauschalen Zuschuss in Höhe von jährlich 30 000 Euro, ab dem Jahr 2020 in Höhe von jährlich 40 000 Euro, auch über den Eigenbedarf des jeweiligen Krankenhauses hinaus; spätestens im Jahr 2022 begonnene Weiterbildungen werden auch über das Jahr 2022 hinaus gefördert,
   - b) :: Weiterbildung zur Fachärztin oder zum Facharzt für Mikrobiologie, Virologie und Infektionsepidemiologie zur Befähigung und zum Einsatz in der klinisch-mikrobiologischen Beratung im Krankenhaus für die Dauer von maximal fünf Jahren durch einen pauschalen Zuschuss in Höhe von jährlich 15 000 Euro, auch über den Eigenbedarf des jeweiligen Krankenhauses hinaus; spätestens im Jahr 2022 begonnene Weiterbildungen werden auch über das Jahr 2022 hinaus gefördert,
   - c) :: Fortbildung zur Krankenhaushygienikerin oder zum Krankenhaushygieniker durch strukturierte curriculare Fortbildung Krankenhaushygiene für die Dauer von maximal zwei Jahren durch einen pauschalen Zuschuss in Höhe von jährlich 5 000 Euro; spätestens im Jahr 2022 begonnene Fortbildungen werden auch über das Jahr 2022 hinaus gefördert und
-  - d) :: strukturierte curriculare Fortbildung Antibiotic Stewardship (ABS)“ von Ärztinnen, Ärzten, Krankenhausapothekerinnen und Krankenhausapothekern durch einen pauschalen Zuschuss in Höhe von 5 000 Euro,
+  - d) :: strukturierte curriculare Fortbildung „Antibiotic Stewardship (ABS)“ von Ärztinnen, Ärzten, Krankenhausapothekerinnen und Krankenhausapothekern durch einen pauschalen Zuschuss in Höhe von 5 000 Euro,
 - 3. :: vertraglich vereinbarte externe Beratungsleistungen durch Krankenhaushygienikerinnen oder Krankenhaushygieniker mit abgeschlossener Weiterbildung zur Fachärztin oder zum Facharzt für Hygiene und Umweltmedizin oder für Mikrobiologie, Virologie und Infektionsepidemiologie pauschal in Höhe von 400 Euro je Beratungstag für die Jahre 2013 bis 2026.
 
 Unabhängig von den in Satz 1 genannten Voraussetzungen werden die folgenden Maßnahmen finanziell gefördert:
@@ -162,7 +162,7 @@ Unabhängig von den in Satz 1 genannten Voraussetzungen werden die folgenden Ma�
 - 1. :: nach dem 31. Dezember 2019 vorgenommene Neueinstellungen, interne Besetzungen neu geschaffener Stellen oder Aufstockungen vorhandener Teilzeitstellen von
   - a) :: Fachärztinnen oder Fachärzten für Innere Medizin und Infektiologie in Höhe von 75 Prozent der zusätzlich entstehenden Personalkosten für die Jahre 2020 bis 2022,
   - b) :: Fachärztinnen und Fachärzten mit Zusatz-Weiterbildung Infektiologie in Höhe von 75 Prozent der zusätzlich entstehenden Personalkosten für die Jahre 2020 bis 2022,
-  - c) :: Fachärztinnen und Fachärzten als Expertinnen oder Experten für Antibiotic Stewardship mit strukturierter curricularer Fortbildung Antibiotic Stewardship (ABS)“ in Höhe von 50 Prozent der zusätzlich entstehenden Personalkosten für die Jahre 2020 bis 2022,
+  - c) :: Fachärztinnen und Fachärzten als Expertinnen oder Experten für Antibiotic Stewardship mit strukturierter curricularer Fortbildung „Antibiotic Stewardship (ABS)“ in Höhe von 50 Prozent der zusätzlich entstehenden Personalkosten für die Jahre 2020 bis 2022,
 - 2. :: die in den Jahren 2016 bis 2022 begonnene Weiterbildung zur Fachärztin oder zum Facharzt für Innere Medizin und Infektiologie sowie Zusatz-Weiterbildung Infektiologie für Fachärztinnen und Fachärzte durch einen pauschalen Zuschuss in Höhe von einmalig 30 000 Euro,
 - 3. :: vertraglich vereinbarte externe Beratungsleistungen im Bereich Antibiotic Stewardship durch Fachärztinnen und Fachärzte für Innere Medizin und Infektiologie oder mit abgeschlossener Zusatz-Weiterbildung Infektiologie pauschal in Höhe von 400 Euro je Beratungstag für die Jahre 2016 bis 2026.
 
@@ -215,7 +215,7 @@ Der Zuschlagsbetrag ist das Zuschlagsvolumen, dividiert durch die voraussichtlic
 
 (3h) Die Vertragsparteien nach § 11 vereinbaren für die Zeit ab dem 1. Januar 2025 einen Abschlag in Höhe von bis zu 2 Prozent des Rechnungsbetrags für jeden voll- und teilstationären Fall, sofern ein Krankenhaus nicht sämtliche in § 19 Absatz 1 Satz 1 Nummer 2 bis 6 der Krankenhausstrukturfonds-Verordnung aufgezählten digitalen Dienste bereitstellt. Zu- und Abschläge nach § 7 Absatz 1 Satz 1 Nummer 4 sind bei der Berechnung des Abschlags nicht zu berücksichtigen. Das Nähere zur Umsetzung des Abschlags nach Satz 1 regeln der Spitzenverband Bund der Krankenkassen und die Deutsche Krankenhausgesellschaft in der Vereinbarung nach § 291a Absatz 7a Satz 3 des Fünften Buches Sozialgesetzbuch. Dabei haben sie auch Regelungen zu vereinbaren, die die konkrete Höhe des Abschlags danach festlegen, wie viele der in § 19 Absatz 1 Satz 1 Nummer 2 bis 6 der Krankenhausstrukturfonds-Verordnung aufgezählten digitalen Dienste nicht bereitgestellt sind und wie oft die bereitgestellten digitalen Dienste tatsächlich genutzt werden.
 (3i) Für die Finanzierung von nicht anderweitig finanzierten Mehrkosten, die auf Grund des Coronavirus SARS-CoV-2 im Rahmen der voll- oder teilstationären Behandlung von Patientinnen und Patienten entstehen, die vom 1. Oktober 2020 bis einschließlich 31. Dezember 2021 in das Krankenhaus aufgenommen werden, vereinbaren die Vertragsparteien nach § 11 unter Berücksichtigung der Vereinbarung nach § 9 Absatz 1a Nummer 9 einen Zuschlag je voll- oder teilstationären Fall.
-(4) Die Erlösausgleiche nach § 4 Abs. 3 und § 15 Abs. 3 sowie ein Unterschiedsbetrag nach § 4 Abs. 5 werden über einen gemeinsamen Zu- und Abschlag auf die abgerechnete Höhe der DRG-Fallpauschalen und die Zusatzentgelte (§ 7 Abs. 1 Satz 1 Nr. 1 und 2) sowie auf die sonstigen Entgelte nach § 6 Abs. 1 Satz 1 und Abs. 2a verrechnet und unter der Bezeichnung Zu- oder Abschlag für Erlösausgleiche“ gesondert in der Rechnung ausgewiesen. Die Höhe des Zu- oder Abschlags ist anhand eines Prozentsatzes zu berechnen, der aus dem Verhältnis des zu verrechnenden Betrags einerseits sowie des Gesamtbetrags nach § 4 Abs. 3 Satz 1 andererseits zu ermitteln und von den Vertragsparteien zu vereinbaren ist; wird die Vereinbarung erst während des Kalenderjahres geschlossen, ist ein entsprechender Prozentsatz bezogen auf die im restlichen Kalenderjahr zu erhebenden Entgelte zu vereinbaren. Würden die voll- und teilstationären Entgelte durch einen Zuschlag nach Satz 1 insgesamt um mehr als 15 Prozent erhöht, sind übersteigende Beträge in nachfolgenden Vereinbarungszeiträumen mit Hilfe des Zu- oder Abschlags nach Satz 1 bis jeweils zu dieser Grenze zu verrechnen; für die Jahre 2020 und 2021 gilt abweichend eine Grenze von 30 Prozent. In seltenen Ausnahmefällen können die Vertragsparteien nach § 11 einen höheren Zuschlag vereinbaren, wenn dies erforderlich ist, um eine ansonsten hierdurch entstehende wirtschaftliche Gefährdung des Krankenhauses abzuwenden. Weicht die Summe der für das Kalenderjahr tatsächlich abgerechneten Zu- oder Abschlagsbeträge von dem zu verrechnenden Betrag nach Satz 2 ab, werden die Mehr- oder Mindererlöse vollständig ausgeglichen, indem sie über die Gesamtsumme und den Zu- oder Abschlag für das nächstmögliche Kalenderjahr verrechnet werden; dabei sind die Verrechnungen in die Grenze nach Satz 3 einzubeziehen.
+(4) Die Erlösausgleiche nach § 4 Abs. 3 und § 15 Abs. 3 sowie ein Unterschiedsbetrag nach § 4 Abs. 5 werden über einen gemeinsamen Zu- und Abschlag auf die abgerechnete Höhe der DRG-Fallpauschalen und die Zusatzentgelte (§ 7 Abs. 1 Satz 1 Nr. 1 und 2) sowie auf die sonstigen Entgelte nach § 6 Abs. 1 Satz 1 und Abs. 2a verrechnet und unter der Bezeichnung „Zu- oder Abschlag für Erlösausgleiche“ gesondert in der Rechnung ausgewiesen. Die Höhe des Zu- oder Abschlags ist anhand eines Prozentsatzes zu berechnen, der aus dem Verhältnis des zu verrechnenden Betrags einerseits sowie des Gesamtbetrags nach § 4 Abs. 3 Satz 1 andererseits zu ermitteln und von den Vertragsparteien zu vereinbaren ist; wird die Vereinbarung erst während des Kalenderjahres geschlossen, ist ein entsprechender Prozentsatz bezogen auf die im restlichen Kalenderjahr zu erhebenden Entgelte zu vereinbaren. Würden die voll- und teilstationären Entgelte durch einen Zuschlag nach Satz 1 insgesamt um mehr als 15 Prozent erhöht, sind übersteigende Beträge in nachfolgenden Vereinbarungszeiträumen mit Hilfe des Zu- oder Abschlags nach Satz 1 bis jeweils zu dieser Grenze zu verrechnen; für die Jahre 2020 und 2021 gilt abweichend eine Grenze von 30 Prozent. In seltenen Ausnahmefällen können die Vertragsparteien nach § 11 einen höheren Zuschlag vereinbaren, wenn dies erforderlich ist, um eine ansonsten hierdurch entstehende wirtschaftliche Gefährdung des Krankenhauses abzuwenden. Weicht die Summe der für das Kalenderjahr tatsächlich abgerechneten Zu- oder Abschlagsbeträge von dem zu verrechnenden Betrag nach Satz 2 ab, werden die Mehr- oder Mindererlöse vollständig ausgeglichen, indem sie über die Gesamtsumme und den Zu- oder Abschlag für das nächstmögliche Kalenderjahr verrechnet werden; dabei sind die Verrechnungen in die Grenze nach Satz 3 einzubeziehen.
 (5) Kann ein Zu- oder Abschlag nach Absatz 4 wegen der Schließung des Krankenhauses nicht oder nicht im notwendigen Umfang abgerechnet werden, wird der auf die gesetzliche Krankenversicherung entfallende Anteil des noch auszugleichenden Betrags den gesetzlichen Krankenkassen, deren Versicherte im Vorjahr im Krankenhaus voll- und teilstationär behandelt wurden, gesondert in Rechnung gestellt oder an diese zurückgezahlt. Auf die einzelne Krankenkasse entfällt davon der Teilbetrag, der ihrem entsprechenden Anteil an der Summe der Entgelte im Vorjahr entspricht. Die Vertragsparteien nach § 11 können eine abweichende Vereinbarung schließen.
 
 § 6 - Vereinbarung sonstiger Entgelte
@@ -303,7 +303,7 @@ Ferner dürfen Entgelte für Leistungen nicht berechnet werden, wenn die Prüfun
 (6) Werden die mit einer Fallpauschale vergüteten Leistungen ohne Verlegung des Patienten durch mehrere Krankenhäuser erbracht, wird die Fallpauschale durch das Krankenhaus berechnet, das den Patienten stationär aufgenommen hat.
 (7) Das Krankenhaus kann eine angemessene Vorauszahlung verlangen, wenn und soweit ein Krankenversicherungsschutz nicht nachgewiesen wird. Ab dem achten Tag des Krankenhausaufenthalts kann das Krankenhaus eine angemessene Abschlagszahlung verlangen, deren Höhe sich an den bisher erbrachten Leistungen in Verbindung mit der Höhe der voraussichtlich zu zahlenden Entgelte zu orientieren hat. Die Sätze 1 bis 2 gelten nicht, soweit andere Regelungen über eine zeitnahe Vergütung der allgemeinen Krankenhausleistungen in für das Krankenhaus verbindlichen Regelungen nach den §§ 112 bis 114 des Fünften Buches Sozialgesetzbuch oder in der Vereinbarung nach § 11 Abs. 1 getroffen werden.
 (8) Das Krankenhaus hat dem selbstzahlenden Patienten oder seinem gesetzlichen Vertreter die für ihn voraussichtlich maßgebenden Entgelte so bald wie möglich schriftlich oder in Textform bekannt zu geben, es sei denn, der Patient ist in vollem Umfang für Krankenhausbehandlung versichert. Im Übrigen kann jeder Patient verlangen, dass ihm unverbindlich die voraussichtlich abzurechnende Fallpauschale und deren Höhe sowie voraussichtlich zu zahlende, ergänzende Entgelte mitgeteilt werden. Stehen bei der Aufnahme eines selbstzahlenden Patienten die Entgelte noch nicht endgültig fest, ist hierauf hinzuweisen. Dabei ist mitzuteilen, dass das zu zahlende Entgelt sich erhöht, wenn das neue Entgelt während der stationären Behandlung des Patienten in Kraft tritt. Die voraussichtliche Erhöhung ist anzugeben.
-(9) Die Rechnungen des Krankenhauses für selbstzahlende Patientinnen oder selbstzahlende Patienten sind in einer verständlichen und nachvollziehbaren Form zu gestalten. Dabei sind die Fallpauschalen und Zusatzentgelte mit der Nummerierung und den vollständigen Texten aus dem jeweils anzuwendenden Entgeltkatalog, den maSystemzuschlag“ ausgewiesen. Die Deutsche Krankenhausgesellschaft gibt zur Gestaltung der Rechnung eine entsprechende Empfehlung im Benehmen mit dem Verband der privaten Krankenversicherung ab. Das Verfahren nach § 301 des Fünften Buches Sozialgesetzbuch bleibt unberührt.
+(9) Die Rechnungen des Krankenhauses für selbstzahlende Patientinnen oder selbstzahlende Patienten sind in einer verständlichen und nachvollziehbaren Form zu gestalten. Dabei sind die Fallpauschalen und Zusatzentgelte mit der Nummerierung und den vollständigen Texten aus dem jeweils anzuwendenden Entgeltkatalog, den maßgeblichen Diagnose- und Prozedurenschlüsseln sowie bei Fallpauschalen den effektiven Bewertungsrelationen und dem Landesbasisfallwert auszuweisen. Zu den Diagnose- und Prozedurenschlüsseln sind außerdem die entsprechenden Textfassungen anzugeben. Weitere Entgelte sowie Zu- oder Abschläge sind mit kurzen verständlichen Texten zu bezeichnen. Die Zuschläge nach § 7 Abs. 1 Satz 3 werden in der Rechnung zusammengefasst und gemeinsam als „Systemzuschlag“ ausgewiesen. Die Deutsche Krankenhausgesellschaft gibt zur Gestaltung der Rechnung eine entsprechende Empfehlung im Benehmen mit dem Verband der privaten Krankenversicherung ab. Das Verfahren nach § 301 des Fünften Buches Sozialgesetzbuch bleibt unberührt.
 (10) Zur Förderung der pflegerischen Versorgung ist bei Patientinnen oder Patienten, die zur vollstationären Behandlung in das Krankenhaus aufgenommen werden, für Aufnahmen ab dem 1. Januar 2017 ein Pflegezuschlag abzurechnen und gesondert in der Rechnung auszuweisen. Die Höhe des Pflegezuschlags ist zu ermitteln, indem die jährliche Fördersumme für das Krankenhaus durch die vollstationäre Fallzahl geteilt wird, die für den Vereinbarungszeitraum des Erlösbudgets und der Erlössumme vereinbart oder festgesetzt wurde. Die jährliche Fördersumme für das Krankenhaus ist von den Vertragsparteien nach § 11 zu ermitteln, indem der Anteil der Personalkosten des Krankenhauses für das Pflegepersonal an den Personalkosten für das Pflegepersonal aller Krankenhäuser im Anwendungsbereich dieses Gesetzes errechnet wird und dieser krankenhausindividuelle Anteil auf die jährlich bundesweit zur Verfügung stehende Fördersumme von 500 Millionen Euro bezogen wird. Grundlage für die Personalkosten für das Pflegepersonal aller Krankenhäuser nach Satz 3 sind jeweils die vom Statistischen Bundesamt in der Fachserie 12 Reihe 6.1 ausgewiesenen Vollzeitstellen in der Pflege mit und ohne direktem Beschäftigungsverhältnis mit dem Krankenhaus. Von diesen Vollzeitstellen sind die ausgewiesenen Vollzeitstellen in Einrichtungen der Psychiatrie und der Psychosomatik sowie in Krankenhäusern ohne Versorgungsvertrag abzuziehen. Die nach den Sätzen 4 und 5 ermittelte Zahl der Vollzeitstellen ist zu multiplizieren mit den in der Fachserie 12 Reihe 6.3 ausgewiesenen bundesdurchschnittlichen Kosten pro Pflegekraft jeweils für das Jahr, das zwei Jahre vor dem Jahr liegt, in dem der Pflegezuschlag für das Folgejahr zu vereinbaren ist. Grundlage für die Personalkosten für Pflegepersonal des einzelnen Krankenhauses sind die Vollzeitstellen in der Pflege mit und ohne direktem Beschäftigungsverhältnis mit dem Krankenhaus, die für dasselbe Jahr vom Krankenhaus an das Statistische Landesamt übermittelt wurden und die Eingang in die Statistik gefunden haben. Von diesen Vollzeitstellen sind die ausgewiesenen Vollzeitstellen in seinen Fachabteilungen der Psychiatrie und der Psychosomatik abzuziehen. Die nach den Sätzen 7 und 8 ermittelte Zahl der Vollzeitstellen ist zu multiplizieren mit den in der Fachserie 12 Reihe 6.3 ausgewiesenen durchschnittlichen Kosten pro Pflegekraft im jeweiligen Land. § 5 Absatz 4 Satz 5, § 11 Absatz 4 Satz 3 und 4 sowie § 15 Absatz 2 gelten entsprechend. Der Pflegezuschlag ist bei Patientinnen oder Patienten abzurechnen, die vor dem 1. Januar 2020 zur vollstationären Behandlung in das Krankenhaus aufgenommen werden.
 (11) Das Krankenhaus berechnet bei Patientinnen und Patienten, die im Zeitraum vom 1. Mai 2020 bis zum 31. Dezember 2020 zur voll- oder teilstationären Krankenhausbehandlung in das Krankenhaus aufgenommen werden, einen Zuschlag in Höhe von 0,42 Prozent des Rechnungsbetrags und weist diesen gesondert in der Rechnung aus. Der Zuschlag wird bei der Ermittlung der Erlösausgleiche nicht berücksichtigt.
 
@@ -690,11 +690,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Krankenhaus:
 
-
+ 
 
 Seite:
 
-
+ 
 
 Datum:
 

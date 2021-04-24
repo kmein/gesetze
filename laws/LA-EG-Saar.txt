@@ -7,11 +7,11 @@ Ausfertigungsdatum: 30.07.1960
 Inhaltsübersicht
 
 ERSTER ABSCHNITT
-
-
+ 
+ 
 Grundsätze und Begriffsbestimmungen
-
-
+ 
+ 
 Grundsatz
 § 1
 Ausgleichsleistungen
@@ -22,13 +22,13 @@ Begriffsbestimmungen
 § 4
 Währungsstichtag
 § 5
-
+ 
 ZWEITER ABSCHNITT
-
-
+ 
+ 
 Schadensfeststellung
-
-
+ 
+ 
 Nichtberücksichtigung saarländischer Vorauszahlungen
 § 6
 Feststellung von Hausratverlusten
@@ -39,22 +39,22 @@ Schadensberechnung bei Sparerschäden
 § 9
 Frühere Feststellungen
 § 10
-
+ 
 DRITTER ABSCHNITT
-
-
+ 
+ 
 Ausgleichsleistungen
-
-
-
+ 
+ 
+ 
 Erster Titel
-
-
-
-
+ 
+ 
+ 
+ 
 Ergänzende Vorschriften zu den einzelnen Ausgleichsleistungen
-
-
+ 
+ 
 Kürzung des Grundbetrags der Hauptentschädigung
 § 11
 Anrechnung saarländischer Vorauszahlungen auf die Hauptentschädigung
@@ -87,17 +87,17 @@ Ausschluß der Entschädigungsberechtigung nach dem Währungsausgleichsgesetz
 § 25
 Anwendung von Vorschriften des Altsparergesetzes
 § 26
-
-
-
+ 
+ 
+ 
 Zweiter Titel
-
-
-
-
+ 
+ 
+ 
+ 
 Übergangsvorschriften
-
-
+ 
+ 
 Überleitung der saarländischen Unterhaltshilfe
 § 27
 Übergangsregelung bei der Kriegsschadenrente
@@ -112,13 +112,13 @@ Zweiter Titel
 § 32
 Verwaltungskosten
 § 33
-
+ 
 VIERTER ABSCHNITT
-
-
+ 
+ 
 Sonstige und Schlußvorschriften
-
-
+ 
+ 
 Änderung des Lastenausgleichsgesetzes
 § 34
 Änderung des Allgemeinen Kriegsfolgengesetzes

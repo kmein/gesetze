@@ -146,11 +146,11 @@ Bedingungen
 
 (weggefallen)
 
+ 
 
+ 
 
-
-
-
+ 
 
 2 *)
 
@@ -230,7 +230,7 @@ Fische (außer Masttiere)
 
 sexuelle Inversion während der ersten drei Lebensmonate
 
-
+ 
 
 4 *)
 

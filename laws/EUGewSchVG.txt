@@ -186,156 +186,156 @@ Die in diesem Formblatt enthaltenen Daten sind vertraulich zu behandeln.\\
 Nähere Angaben zu der gefährdenden Person
 1.1
 Familienname:
-
-
+ 
+ 
 1.2
 Vorname(n):
-
-
+ 
+ 
 1.3
 Ggf. Geburtsname oder früherer Name:
-
-
+ 
+ 
 1.4
 Ggf. Aliasname(n):
-
-
+ 
+ 
 1.5
 Geschlecht:
-
-
+ 
+ 
 1.6
 Staatsangehörigkeit:
-
-
+ 
+ 
 1.7
 Kennnummer oder Sozialversicherungsnummer (sofern vorhanden):
-
-
+ 
+ 
 1.8
 Geburtsdatum:
-
-
+ 
+ 
 1.9
 Geburtsort:
-
-
+ 
+ 
 1.10
 Anschrift:
-
-
+ 
+ 
 1.11
 Sprache oder Sprachen, die die gefährdende Person versteht (sofern bekannt):
-
-
+ 
+ 
 2
 Nähere Angaben zu der geschützten Person
 2.1
 Familienname:
-
-
+ 
+ 
 2.2
 Vorname(n):
-
-
+ 
+ 
 2.3
 Ggf. Geburtsname oder früherer Name:
-
-
+ 
+ 
 2.4
 Geschlecht:
-
-
+ 
+ 
 2.5
 Staatsangehörigkeit:
-
-
+ 
+ 
 2.6
 Geburtsdatum:
-
-
+ 
+ 
 2.7
 Geburtsort:
-
-
+ 
+ 
 2.8
 Anschrift:
-
-
+ 
+ 
 2.9
 Sprache oder Sprachen, die die geschützte Person versteht (sofern bekannt):
-
-
+ 
+ 
 3
 Nähere Angaben zu der Europäischen Schutzanordnung
 3.1
 Die Anordnung wurde erlassen am:
-
-
+ 
+ 
 3.2
 Aktenzeichen (sofern vorhanden):
-
-
+ 
+ 
 3.3
 Behörde, die die Anordnung erlassen hat
 3.3.1
 Offizielle Bezeichnung:
-
-
+ 
+ 
 3.3.2
 Anschrift:
-
-
+ 
+ 
 4
 Behörde, die für die Vollstreckung einer Schutzmaßnahme zuständig ist, die eventuell im ausführenden Staat erlassen worden ist
 4.1
 Offizielle Bezeichnung:
-
-
+ 
+ 
 4.2
 Zu kontaktierende Person
 4.2.1
 Name:
-
-
+ 
+ 
 4.2.2
 Funktion (Verwendungsbezeichnung/Dienstrang):
-
-
+ 
+ 
 4.2.3
 Vollständige Anschrift:
-
-
+ 
+ 
 4.2.4
 Telefonnummer (Ländervorwahl) (Regional-/Ortsnetzkennzahl) (Nummer):
-
-
+ 
+ 
 4.2.5
 Faxnummer (Ländervorwahl) (Regional-/Ortsnetzkennzahl) (Nummer):
-
-
+ 
+ 
 4.2.6
 E-Mail:
-
-
+ 
+ 
 4.2.7
 Sprachen, die für die Verständigung genutzt werden können:
-
-
+ 
+ 
 5
 Verstoß gegen das/die von den zuständigen Behörden des vollstreckenden Staates nach Anerkennung der Europäischen Schutzanordnung auferlegte(n) Verbot(e) oder Beschränkung(en) und/oder sonstige Erkenntnisse, die eine weitere Entscheidung nach sich ziehen könnten
 5.1
 Der Verstoß betrifft das/die folgende(n) Verbot(e) oder Beschränkung(en) (Mehrfachwahl möglich):
-
+ 
 --
 ein Verbot des Betretens bestimmter Räumlichkeiten, Orte oder festgelegter Gebiete, in beziehungsweise an denen sich die geschützte Person aufhält oder die sie aufsucht;
-
+ 
 --
 ein Verbot oder eine Regelung jeglicher Form der Kontaktaufnahme -- auch telefonisch, auf elektronischem Weg oder per Post oder Fax oder mit anderen Mitteln -- mit der geschützten Person;
-
+ 
 --
 ein Verbot, sich der geschützten Person auf eine geringere als die festgelegte Entfernung zu nähern, oder eine entsprechende Regelung;
-
+ 
 --
 andere von den zuständigen Behörden des vollstreckenden Staates nach Anerkennung der Europäischen Schutzanordnung getroffene Maßnahmen, die sich auf die Schutzmaßnahme beziehen, die der Europäischen Schutzanordnung zugrunde liegt.
 5.2
@@ -350,50 +350,50 @@ Sonstige Erkenntnisse, die eine weitere Entscheidung nach sich ziehen könnten, 
 Nähere Angaben zu der im vollstreckenden Staat zu kontaktierenden Person, falls zusätzliche Informationen zu dem Verstoß eingeholt werden sollen
 6.1
 Familienname:
-
-
+ 
+ 
 6.2
 Vorname(n):
-
-
+ 
+ 
 6.3
 Anschrift:
-
-
+ 
+ 
 6.4
 Telefonnummer (Ländervorwahl) (Regional-/Ortsnetzkennzahl) (Nummer):
-
-
+ 
+ 
 6.5
 Faxnummer (Ländervorwahl) (Regional-/Ortsnetzkennzahl) (Nummer):
-
-
+ 
+ 
 6.6
 E-Mail:
-
-
+ 
+ 
 6.7
 Sprachen, die für die Verständigung genutzt werden können:
-
-
+ 
+ 
 7
 Unterzeichnender
 7.1
 Name:
-
-
+ 
+ 
 7.2
 Funktion (Verwendungsbezeichnung/Dienstrang):
-
-
+ 
+ 
 \\
 \\
 Datum:
-
-
-
+ 
+ 
+ 
 Unterschrift des Vertreters der das Formblatt ausstellenden Behörde zur Bestätigung der Richtigkeit des Inhalts des Formblatts:
-
-
+ 
+ 
 (Gegebenenfalls) Dienststempel:
-
+ 

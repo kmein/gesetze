@@ -216,9 +216,9 @@ Anlage 3 - (zu § 6 Absatz 1 Satz 2 Nummer 2 und Absatz 4)
 
 Die Erosionsgefährdung durch Wind ist nach DIN 19706, Bodenbeschaffenheit -- Ermittlung der Erosionsgefährdung von Böden durch Wind, zu ermitteln.
 [[../normengrafiken/banz_2014/j3511-1_0010.jpg]]
-
-
-
+ 
+ 
+ 
 Winderosionsgefährdungsklasse
 Stufe nach DIN 19706<<FnR.FnA1-F788068_05>>[[#FnA1-F788068_05][*]]}
 1

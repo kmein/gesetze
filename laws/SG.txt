@@ -610,14 +610,14 @@ tatsächlich betreut oder pflegt. Bei einem Soldaten auf Zeit ist die Gewährung
 
 Für jeden Soldaten ist eine Personalakte zu führen. Sofern in den §§ 29a bis 29d nichts anderes bestimmt ist, gelten die §§ 106 bis 112, 113 Absatz 2 bis 4 und § 114 des Bundesbeamtengesetzes entsprechend. § 112 Absatz 1 Satz 1 des Bundesbeamtengesetzes gilt mit der Maßgabe, dass § 8 der Wehrdisziplinarordnung an die Stelle des § 16 Absatz 3 und 4 Satz 1 des Bundesdisziplinargesetzes tritt, und § 112 Absatz 2 des Bundesbeamtengesetzes gilt mit der Maßgabe, dass § 8 der Wehrdisziplinarordnung vorrangig anzuwenden ist.
 (+++ Hinweis: § 29 wird gem. Art. 64 Nr. 1 G v. 20.11.2019 I 1626 mWv 26.11.2019 wie folgt geändert:\\
-Absatz 1 Satz 1 wird durch die folgenden Sätze ersetzt: Über jeden Soldaten ist eine Personalakte zu führen. Sie ist vertraulich zu behandeln und durch technische und organisatorische Maßnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1;L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung vor unbefugter Einsichtnahme zu schützen.“\\
-In Absatz 1 wird in dem neuen Satz 6 das Wort verwendet“ durch das Wort verarbeitet“ ersetzt.\\
+Absatz 1 Satz 1 wird durch die folgenden Sätze ersetzt: „Über jeden Soldaten ist eine Personalakte zu führen. Sie ist vertraulich zu behandeln und durch technische und organisatorische Maßnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1;L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung vor unbefugter Einsichtnahme zu schützen.“\\
+In Absatz 1 wird in dem neuen Satz 6 das Wort „verwendet“ durch das Wort „verarbeitet“ ersetzt.\\
 In Absatz 1 wird der neue Satz 7 aufgehoben.\\
-In Absatz 2 werden die Wörter erheben und verwenden“ durch das Wort verarbeiten“ ersetzt.\\
-In Absatz 3 werden die Sätze 3 bis 5 durch die folgenden Sätze ersetzt: Den mit Angelegenheiten der Innenrevision beauftragten Beschäftigten ist Einsicht in die Personalakte zu gewähren, soweit sie die zur Erfüllung ihrer Aufgaben erforderlichen Erkenntnisse nicht durch eine in sonstiger Weise erteilte Auskunft aus der Personalakte gewinnen können. Jede Einsichtnahme nach Satz 3 ist zu dokumentieren.“\\
-In Absatz 3 Satz 10 wird das Wort Betroffenen“ durch die Wörter betroffenen Personen“ ersetzt.\\
-In Absatz 4 wird Satz 4 wie folgt gefasst: Die personenbezogenen Daten sind zu anonymisieren, sobald dies nach dem Forschungszweck möglich ist; § 27 Absatz 3 Satz 2 und 3 des Bundesdatenschutzgesetzes gilt entsprechend.“\\
-Die Absätze 7 und 8 werden durch folgenden Absatz 7 ersetzt: (7) § 110 des Bundesbeamtengesetzes gilt entsprechend.“\\
+In Absatz 2 werden die Wörter „erheben und verwenden“ durch das Wort „verarbeiten“ ersetzt.\\
+In Absatz 3 werden die Sätze 3 bis 5 durch die folgenden Sätze ersetzt: „Den mit Angelegenheiten der Innenrevision beauftragten Beschäftigten ist Einsicht in die Personalakte zu gewähren, soweit sie die zur Erfüllung ihrer Aufgaben erforderlichen Erkenntnisse nicht durch eine in sonstiger Weise erteilte Auskunft aus der Personalakte gewinnen können. Jede Einsichtnahme nach Satz 3 ist zu dokumentieren.“\\
+In Absatz 3 Satz 10 wird das Wort „Betroffenen“ durch die Wörter „betroffenen Personen“ ersetzt.\\
+In Absatz 4 wird Satz 4 wie folgt gefasst: „Die personenbezogenen Daten sind zu anonymisieren, sobald dies nach dem Forschungszweck möglich ist; § 27 Absatz 3 Satz 2 und 3 des Bundesdatenschutzgesetzes gilt entsprechend.“\\
+Die Absätze 7 und 8 werden durch folgenden Absatz 7 ersetzt: „(7) § 110 des Bundesbeamtengesetzes gilt entsprechend.“\\
 Absatz 9 wird Absatz 8.\\
 Die Änderungsanweisungen sind wegen textlicher Unstimmigkeit nicht ausführbar! +++)
 

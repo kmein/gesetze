@@ -7,7 +7,7 @@ Ausfertigungsdatum: 22.04.2002
 Inhaltsübersicht
 
 Erster Abschnitt
-
+ 
 Errichtung, Aufsicht, Aufgaben
 § 1
 Errichtung
@@ -28,7 +28,7 @@ Meldung von Verstößen; Verordnungsermächtigung
 § 4e
 Vorschriften über die Verarbeitung personenbezogener Daten
 Zweiter Abschnitt
-
+ 
 Organisation
 § 5
 Organe, Satzung
@@ -41,7 +41,7 @@ Fachbeirat
 § 8a
 Verbraucherbeirat
 Dritter Abschnitt
-
+ 
 Personal
 § 9
 Rechtsstellung der Mitglieder des Direktoriums
@@ -56,14 +56,14 @@ Personalgewinnungszuschlag
 § 11
 Verschwiegenheitspflicht
 Vierter Abschnitt
-
+ 
 Haushaltsplan, Rechnungslegung, Deckung des Verwaltungsaufwands
 § 12
 Haushaltsplan, Rechnungslegung
 § 13
 Deckung der Kosten der Aufsicht
 Fünfter Abschnitt
-
+ 
 Gebühren und Umlage, Zwangsmittel, Bekanntgabe von Allgemeinverfügungen
 § 14
 Gebühren für individuell zurechenbare öffentliche Leistungen
@@ -110,7 +110,7 @@ Erstattung überzahlter Umlagebeträge
 § 17
 Zwangsmittel; Bekanntgabe von Allgemeinverfügungen
 Sechster Abschnitt
-
+ 
 Finanzierung gesonderter Aufgaben
 § 17a
 Finanzierung gesonderter Aufgaben
@@ -121,7 +121,7 @@ Gesonderte Erstattung bei gesonderten Prüfungen
 § 17d
 Gesonderte Umlage
 Siebenter Abschnitt
-
+ 
 Übergangs- und Schlussbestimmungen
 § 18
 Übergangsbestimmungen
@@ -270,7 +270,7 @@ Die Deutsche Bundesbank kann mit einem Vertreter ohne Stimmrecht an den Sitzunge
 
 (1) Die Mitglieder des Direktoriums stehen in einem öffentlich-rechtlichen Amtsverhältnis zum Bund. Sie müssen besondere fachliche Eignung besitzen und werden auf Vorschlag der Bundesregierung durch den Bundespräsidenten ernannt. Die Mitglieder des Direktoriums werden für acht Jahre, ausnahmsweise auch für kürzere Zeit, mindestens jedoch für fünf Jahre bestellt. Wiederbestellung ist zulässig.
 (2) Das Amtsverhältnis der Mitglieder des Direktoriums beginnt mit der Aushändigung der Ernennungsurkunde, wenn nicht in der Urkunde ein späterer Tag bestimmt ist. Es endet mit Ablauf der Amtszeit oder mit der Entlassung. Der Bundespräsident entlässt ein Mitglied des Direktoriums auf dessen Verlangen oder auf Beschluss der Bundesregierung aus wichtigem Grund. Vor der Beschlussfassung der Bundesregierung ist dem Mitglied des Direktoriums Gelegenheit zur Stellungnahme zu geben. Im Falle der Beendigung des Amtsverhältnisses erhält das Mitglied des Direktoriums eine von dem Bundespräsidenten vollzogene Urkunde. Die Entlassung auf Verlangen wird mit der Aushändigung der Urkunde wirksam, wenn in ihr nicht ausdrücklich ein späterer Tag bestimmt ist. Die Entlassung aus wichtigem Grund wird mit dem Vollzug des Beschlusses der Bundesregierung wirksam, wenn sie sie nicht ausdrücklich für einen späteren Tag beschließt.
-(3) Die Mitglieder des Direktoriums leisten vor dem Bundesminister der Finanzen folgenden Eid: Ich schwöre, das Grundgesetz für die Bundesrepublik Deutschland und alle in der Bundesrepublik Deutschland geltenden Gesetze zu wahren und meine Amtspflichten gewissenhaft zu erfüllen, so wahr mir Gott helfe. “ Der Eid kann auch ohne religiöse Beteuerung geleistet werden.
+(3) Die Mitglieder des Direktoriums leisten vor dem Bundesminister der Finanzen folgenden Eid: „Ich schwöre, das Grundgesetz für die Bundesrepublik Deutschland und alle in der Bundesrepublik Deutschland geltenden Gesetze zu wahren und meine Amtspflichten gewissenhaft zu erfüllen, so wahr mir Gott helfe. “ Der Eid kann auch ohne religiöse Beteuerung geleistet werden.
 (4) Die Mitglieder des Direktoriums dürfen ohne Zustimmung des Bundesministeriums der Finanzen neben ihrem Amt kein anderes besoldetes Amt, kein Gewerbe und keinen Beruf ausüben und weder der Leitung eines auf Erwerb gerichteten Unternehmens noch einem Aufsichtsrat, Verwaltungsrat, Beirat oder einem anderen Gremium eines öffentlichen oder privaten Unternehmens, noch einer Regierung oder einer gesetzgebenden Körperschaft des Bundes oder eines Landes angehören. Sie dürfen ohne Zustimmung des Bundesministeriums der Finanzen nicht gegen Entgelt außergerichtliche Gutachten erstellen. Die Zustimmung des Bundesministeriums der Finanzen ist unter den in § 99 Absatz 2 des Bundesbeamtengesetzes genannten Voraussetzungen zu versagen.
 (5) Die §§ 67 bis 69 und 71 des Bundesbeamtengesetzes gelten entsprechend. An die Stelle der obersten Dienstbehörde tritt das Bundesministerium der Finanzen.
 (6) Im Übrigen werden die Rechtsverhältnisse der Mitglieder des Direktoriums durch Verträge geregelt, die das Bundesministerium der Finanzen mit den Mitgliedern des Direktoriums schließt. Die Verträge bedürfen der Zustimmung der Bundesregierung.

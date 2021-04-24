@@ -2561,7 +2561,7 @@ Ansprüche aus einem Sozialplan, der nach dem Zeitpunkt des § 138 Absatz 3 Satz
 (1) Die Anordnung eines Formwechsels muss folgende Bestimmungen enthalten:
 
 - 1. :: die Angabe, dass das Institut oder gruppenangehörige Unternehmen durch den Formwechsel die Rechtsform einer Aktiengesellschaft erlangt;
-- 2. :: die Firma des Rechtsträgers neuer Rechtsform mit dem Zusatz Aktiengesellschaft auf Anordnung“;
+- 2. :: die Firma des Rechtsträgers neuer Rechtsform mit dem Zusatz „Aktiengesellschaft auf Anordnung“;
 - 3. :: die vorläufige Satzung des Rechtsträgers neuer Rechtsform;
 - 4. :: die vorläufigen Mitglieder des Vorstands sowie Art und Umfang ihrer Vertretungsbefugnis;
 - 5. :: die vorläufigen Mitglieder des Aufsichtsrats;
@@ -2581,7 +2581,7 @@ Die Befugnisse nach diesem Gesetz zur Beschränkung von Anteilen oder von sonsti
 
 (3) Der Formwechsel und die sonstigen mit der Anordnung verbundenen eintragungspflichtigen Tatsachen und Rechtsverhältnisse sind unter Bezugnahme auf die Anordnung gemäß Absatz 1 in die entsprechenden Register einzutragen. Die Abwicklungsbehörde hat dem Registergericht für die Eintragung unverzüglich die Anordnung gemäß Absatz 1 einzureichen.
 (4) Die Vorschriften des Aktiengesetzes sind auf den Rechtsträger neuer Rechtsform anzuwenden, soweit Regelungen dieses Gesetzes nicht entgegenstehen.
-(5) Der vorläufige Vorstand hat nach Maauf Anordnung“ in der Firma der Aktiengesellschaft. Der angeordnete Formwechsel bleibt unabhängig von der Anmeldung oder Eintragung wirksam.
+(5) Der vorläufige Vorstand hat nach Maßgabe der für die neue Rechtsform geltenden Gründungsvorschriften unverzüglich die erforderlichen Maßnahmen für die Gründung einzuleiten und bei dem Handelsregister anzumelden, soweit sich nicht aus der Anordnung gemäß Absatz 1 etwas anderes ergibt. Liegen die gesetzlichen Voraussetzungen für die Eintragung der Aktiengesellschaft vor, löscht das Registergericht den Zusatz „auf Anordnung“ in der Firma der Aktiengesellschaft. Der angeordnete Formwechsel bleibt unabhängig von der Anmeldung oder Eintragung wirksam.
 
 §§ 150 bis 152 - (weggefallen)
 

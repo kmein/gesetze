@@ -306,59 +306,59 @@ mehr als
 5 Jahre
 Berufserfahrung bei der Anfertigung von Standsicherheitsnachweisen von statisch und konstruktiv schwierigen Bauvorhaben
 N, E
-
+ 
 N, E
 N, E
-
-
+ 
+ 
 Berufserfahrung bei der bautechnischen Prüfung als Mitarbeiter einer Bauaufsichtsbehörde, eines Prüfamtes oder eines anerkannten Prüfers für bautechnische Nachweise im Eisenbahnbau
 N, E
 N, E
 N, E
 N, E
-
-
+ 
+ 
 Berufserfahrung bei der Bauleitung oder der Überwachung statisch und konstruktiv schwieriger Bauvorhaben
 N, E
 N, E
 N, E
 N, E
-
-
+ 
+ 
 Anerkennung als Prüfingenieur eines Bundeslandes für das Teilgebiet, für das die Anerkennung als Prüfsachverständiger beantragt wird (fakultativ)
 N, E
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Anerkennung als Schweißfachingenieur
-
+ 
 N, E
-
-
-
-
+ 
+ 
+ 
+ 
 Anerkennung als Prüfsachverständiger für das Teilgebiet Felsbau oder Nachweis über eine Qualifikation als Geologe
-
-
-
+ 
+ 
+ 
 N, E
-
-
+ 
+ 
 Berufserfahrung in der Planung, Prüfung und Ausführung von Oberbauanlagen
-
-
-
-
+ 
+ 
+ 
+ 
 N
-
+ 
 Berufserfahrung in der brandschutztechnischen Planung, Prüfung und Ausführung von Gebäuden im Bereich:
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 N
 --
 des abwehrenden Brandschutzes,
@@ -382,7 +382,7 @@ sowie Kenntnis des einschlägigen Regelwerks und der Nachweisverfahren in diesen
 | 2.3.3 | erfolgreiche Planprüfung einer geeigneten Baumaßnahme im neuen Teilgebiet unter Aufsicht eines anerkannten Prüfsachverständigen für die Planprüfung.                                                                  |
 | 3.    | Für die Abnahmeprüfung von Signal-, Telekommunikations- oder elektrotechnischen Anlagen                                                                                                                               |
 | 3.1   | Bei erstmaliger Anerkennung oder bei Erweiterung der Anerkennung auf ein weiteres Fachgebiet:                                                                                                                         |
-| 3.1.1 | zweijährige Tätigkeit als Planer oder Anerkennung als Prüfsachverständiger für die Planprüfung für das Fachgebiet oder Mitarbeit als Helfer bei der Abnahme der Anlagen“ an zehn geeigneten Projekten und            |
+| 3.1.1 | zweijährige Tätigkeit als Planer oder Anerkennung als Prüfsachverständiger für die Planprüfung für das Fachgebiet oder Mitarbeit als „Helfer bei der Abnahme der Anlagen“ an zehn geeigneten Projekten und            |
 | 3.1.2 | erfolgreiche Abnahmeprüfung im Fachgebiet unter Aufsicht eines anerkannten Prüfsachverständigen für die Abnahmeprüfung einer großen und einer kleinen Baumaßnahme.                                                    |
 |       | In Abstimmung mit der zuständigen Behörde kann in besonderen Fällen eine abweichende Anzahl von Projekten nach Nummer 3.1.1 festgelegt werden.                                                                        |
 | 3.2   | Bei Erweiterung der Anerkennung im selben Teilgebiet:                                                                                                                                                                 |

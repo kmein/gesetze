@@ -6,25 +6,25 @@ Ausfertigungsdatum: 27.06.2017
 
 Inhaltsübersicht
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 § 1 - Anwendungsbereich
 
@@ -61,39 +61,39 @@ Die §§ 32 und 37 Absatz 1 Nummer 14 sind auch auf Funkanlagen und Geräte im S
 
 (1) Im Sinne dieses Gesetzes ist beziehungsweise sind
 
-- 1. :: Funkanlage“ ein elektrisches oder elektronisches Erzeugnis, das
+- 1. :: „Funkanlage“ ein elektrisches oder elektronisches Erzeugnis, das
   - a) :: bestimmungsgemäß Funkwellen zum Zweck der Funkkommunikation oder der Funkortung ausstrahlt und/oder empfängt oder
   - b) :: Zubehör, wie zum Beispiel eine Antenne, benötigt, damit es bestimmungsgemäß Funkwellen zum Zweck der Funkkommunikation oder der Funkortung ausstrahlen und/oder empfangen kann;
-- 2. :: Funkkommunikation“ die elektronische Kommunikation mittels Funkwellen;
-- 3. :: Funkortung“ die Bestimmung der Position, der Geschwindigkeit oder anderer Merkmale eines Objekts oder die Erfassung von Daten in Bezug auf diese Parameter mittels der Ausbreitungseigenschaften von Funkwellen;
-- 4. :: Funkwellen“ elektromagnetische Wellen mit Frequenzen unter 3 000 Gigahertz, die sich ohne künstliche Führung im Raum ausbreiten;
-- 5. :: Funkschnittstelle“ die Beschreibung der regulierten Nutzung von Funkfrequenzen;
-- 6. :: Funkanlagenklasse“ eine Klassenbezeichnung für bestimmte Kategorien von Funkanlagen, die im Sinne dieses Gesetzes als vergleichbar gelten, und zur Vorgabe der Funkschnittstellen, für die die Funkanlagen ausgelegt wurden;
-- 7. :: funktechnische Störung“ ein Störeffekt, der
+- 2. :: „Funkkommunikation“ die elektronische Kommunikation mittels Funkwellen;
+- 3. :: „Funkortung“ die Bestimmung der Position, der Geschwindigkeit oder anderer Merkmale eines Objekts oder die Erfassung von Daten in Bezug auf diese Parameter mittels der Ausbreitungseigenschaften von Funkwellen;
+- 4. :: „Funkwellen“ elektromagnetische Wellen mit Frequenzen unter 3 000 Gigahertz, die sich ohne künstliche Führung im Raum ausbreiten;
+- 5. :: „Funkschnittstelle“ die Beschreibung der regulierten Nutzung von Funkfrequenzen;
+- 6. :: „Funkanlagenklasse“ eine Klassenbezeichnung für bestimmte Kategorien von Funkanlagen, die im Sinne dieses Gesetzes als vergleichbar gelten, und zur Vorgabe der Funkschnittstellen, für die die Funkanlagen ausgelegt wurden;
+- 7. :: „funktechnische Störung“ ein Störeffekt, der
   - a) :: für das Funktionieren eines Funknavigationsdienstes oder anderer sicherheitsbezogener Dienste eine Gefahr darstellt oder
   - b) :: einen Funkdienst, der im Einklang mit den geltenden internationalen, gemeinschaftlichen oder nationalen Vorschriften betrieben wird, anderweitig schwerwiegend beeinträchtigt, behindert oder wiederholt unterbricht;
-- 8. :: elektromagnetische Störung“ eine Störung im Sinne von § 3 Nummer 5 des Gesetzes über die elektromagnetische Verträglichkeit von Betriebsmitteln vom 16. Dezember 2016 (BGBl. I S. 2879);
-- 9. :: Bereitstellen auf dem Markt“ jede entgeltliche oder unentgeltliche Abgabe einer Funkanlage zum Vertrieb, zum Gebrauch oder zur Verwendung auf dem Markt der Europäischen Union im Rahmen einer Geschäftstätigkeit;
-- 10. :: Inverkehrbringen“ das erstmalige Bereitstellen von Funkanlagen auf dem Markt der Europäischen Union;
-- 11. :: Inbetriebnahme“ die erstmalige Verwendung von Funkanlagen in der Europäischen Union durch ihre Endnutzer;
-- 12. :: Hersteller“ jede natürliche oder juristische Person oder rechtsfähige Personengesellschaft, die Funkanlagen herstellt oder Funkanlagen entwickeln oder herstellen lässt und diese Funkanlagen unter ihrem Namen oder ihrer Handelsmarke in Verkehr bringt;
-- 13. :: Bevollmächtigter“ jede in der Europäischen Union ansässige natürliche oder juristische Person oder rechtsfähige Personengesellschaft, die ein Hersteller schriftlich beauftragt hat, in seinem Namen bestimmte Aufgaben wahrzunehmen;
-- 14. :: Einführer“ jede in der Europäischen Union ansässige natürliche oder juristische Person oder rechtsfähige Personengesellschaft, die eine Funkanlage aus einem Drittstaat in Verkehr bringt;
-- 15. :: Händler“ jede natürliche oder juristische Person oder rechtsfähige Personengesellschaft in der Lieferkette, die eine Funkanlage auf dem Markt bereitstellt, mit Ausnahme des Herstellers oder des Einführers;
-- 16. :: Wirtschaftsakteure“ der Hersteller, der Bevollmächtigte, der Einführer und der Händler;
-- 17. :: technische Spezifikation“ ein Dokument, in dem die technischen Anforderungen beschrieben sind, denen eine Funkanlage genügen muss;
-- 18. :: harmonisierte Norm“ eine Norm im Sinne von Artikel 2 Nummer 1 Buchstabe c der Verordnung (EU) Nr. 1025/2012 des Europäischen Parlaments und des Rates vom 25. Oktober 2012 zur europäischen Normung, zur Änderung der Richtlinien 89/686/EWG und 93/15/EWG des Rates sowie der Richtlinien 94/9/EG, 94/25/EG, 95/16/EG, 97/23/EG, 98/34/EG, 2004/22/EG, 2007/23/EG, 2009/23/EG und 2009/105/EG des Europäischen Parlaments und des Rates und zur Aufhebung des Beschlusses 87/95/EWG des Rates und des Beschlusses Nr. 1673/2006/EG des Europäischen Parlaments und des Rates (ABl. L 316 vom 14.11.2012, S. 12);
-- 19. :: Akkreditierung“ die Bestätigung durch eine nationale Akkreditierungsstelle, dass eine Konformitätsbewertungsstelle die in harmonisierten Normen festgelegten Anforderungen und gegebenenfalls national festgelegte zusätzliche Anforderungen, einschließlich solcher in relevanten sektoralen Akkreditierungssystemen, erfüllt, um eine spezielle Konformitätsbewertungstätigkeit durchzuführen;
-- 20. :: nationale Akkreditierungsstelle“ eine nationale Akkreditierungsstelle im Sinne von Artikel 2 Nummer 11 der Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über die Vorschriften für die Akkreditierung und Marktüberwachung im Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates (ABl. L 218 vom 13.8.2008, S. 30);
-- 21. :: Konformitätsbewertung“ das Verfahren zur Bewertung, ob eine Funkanlage den Anforderungen des § 4 genügt;
-- 22. :: Konformitätsbewertungsstelle“ eine Stelle, die Konformitätsbewertungstätigkeiten durchführt;
-- 23. :: Rückruf“ jede Maßnahme, die darauf abzielt, die Rückgabe einer dem Endnutzer bereitgestellten Funkanlage zu erwirken;
-- 24. :: Rücknahme“ jede Maßnahme, mit der verhindert werden soll, dass eine Funkanlage, die sich in der Lieferkette befindet, auf dem Markt bereitgestellt wird;
-- 25. :: Harmonisierungsvorschriften der Europäischen Union“ Rechtsvorschriften der Europäischen Union zur Harmonisierung der Bedingungen für die Vermarktung von Produkten;
-- 26. :: CE-Kennzeichnung“ die Kennzeichnung, durch die der Hersteller erklärt, dass die Funkanlage den Anforderungen genügt, die in den Harmonisierungsrechtsvorschriften der Europäischen Union, die ihre Anbringung vorschreiben, festgelegt sind;
-- 27. :: EU-Konformitätserklärung“ eine Erklärung gemäß Artikel 18 in Verbindung mit Anhang VI der Richtlinie 2014/53/EU des Europäischen Parlaments und des Rates vom 16. April 2014 über die Harmonisierung der Rechtsvorschriften der Mitgliedstaaten über die Bereitstellung von Funkanlagen auf dem Markt und zur Aufhebung der Richtlinie 1999/5/EG (ABl. L 153 vom 22.5.2014, S. 62);
-- 28. :: vereinfachte EU-Konformitätserklärung“ eine Erklärung gemäß Artikel 18 in Verbindung mit Anhang VII der Richtlinie 2014/53/EU;
-- 29. :: Senderbetreiber“ derjenige, dem Frequenzen zum Betreiben von Sendefunkgeräten oder Funknetzen zugeteilt sind.
+- 8. :: „elektromagnetische Störung“ eine Störung im Sinne von § 3 Nummer 5 des Gesetzes über die elektromagnetische Verträglichkeit von Betriebsmitteln vom 16. Dezember 2016 (BGBl. I S. 2879);
+- 9. :: „Bereitstellen auf dem Markt“ jede entgeltliche oder unentgeltliche Abgabe einer Funkanlage zum Vertrieb, zum Gebrauch oder zur Verwendung auf dem Markt der Europäischen Union im Rahmen einer Geschäftstätigkeit;
+- 10. :: „Inverkehrbringen“ das erstmalige Bereitstellen von Funkanlagen auf dem Markt der Europäischen Union;
+- 11. :: „Inbetriebnahme“ die erstmalige Verwendung von Funkanlagen in der Europäischen Union durch ihre Endnutzer;
+- 12. :: „Hersteller“ jede natürliche oder juristische Person oder rechtsfähige Personengesellschaft, die Funkanlagen herstellt oder Funkanlagen entwickeln oder herstellen lässt und diese Funkanlagen unter ihrem Namen oder ihrer Handelsmarke in Verkehr bringt;
+- 13. :: „Bevollmächtigter“ jede in der Europäischen Union ansässige natürliche oder juristische Person oder rechtsfähige Personengesellschaft, die ein Hersteller schriftlich beauftragt hat, in seinem Namen bestimmte Aufgaben wahrzunehmen;
+- 14. :: „Einführer“ jede in der Europäischen Union ansässige natürliche oder juristische Person oder rechtsfähige Personengesellschaft, die eine Funkanlage aus einem Drittstaat in Verkehr bringt;
+- 15. :: „Händler“ jede natürliche oder juristische Person oder rechtsfähige Personengesellschaft in der Lieferkette, die eine Funkanlage auf dem Markt bereitstellt, mit Ausnahme des Herstellers oder des Einführers;
+- 16. :: „Wirtschaftsakteure“ der Hersteller, der Bevollmächtigte, der Einführer und der Händler;
+- 17. :: „technische Spezifikation“ ein Dokument, in dem die technischen Anforderungen beschrieben sind, denen eine Funkanlage genügen muss;
+- 18. :: „harmonisierte Norm“ eine Norm im Sinne von Artikel 2 Nummer 1 Buchstabe c der Verordnung (EU) Nr. 1025/2012 des Europäischen Parlaments und des Rates vom 25. Oktober 2012 zur europäischen Normung, zur Änderung der Richtlinien 89/686/EWG und 93/15/EWG des Rates sowie der Richtlinien 94/9/EG, 94/25/EG, 95/16/EG, 97/23/EG, 98/34/EG, 2004/22/EG, 2007/23/EG, 2009/23/EG und 2009/105/EG des Europäischen Parlaments und des Rates und zur Aufhebung des Beschlusses 87/95/EWG des Rates und des Beschlusses Nr. 1673/2006/EG des Europäischen Parlaments und des Rates (ABl. L 316 vom 14.11.2012, S. 12);
+- 19. :: „Akkreditierung“ die Bestätigung durch eine nationale Akkreditierungsstelle, dass eine Konformitätsbewertungsstelle die in harmonisierten Normen festgelegten Anforderungen und gegebenenfalls national festgelegte zusätzliche Anforderungen, einschließlich solcher in relevanten sektoralen Akkreditierungssystemen, erfüllt, um eine spezielle Konformitätsbewertungstätigkeit durchzuführen;
+- 20. :: „nationale Akkreditierungsstelle“ eine nationale Akkreditierungsstelle im Sinne von Artikel 2 Nummer 11 der Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über die Vorschriften für die Akkreditierung und Marktüberwachung im Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates (ABl. L 218 vom 13.8.2008, S. 30);
+- 21. :: „Konformitätsbewertung“ das Verfahren zur Bewertung, ob eine Funkanlage den Anforderungen des § 4 genügt;
+- 22. :: „Konformitätsbewertungsstelle“ eine Stelle, die Konformitätsbewertungstätigkeiten durchführt;
+- 23. :: „Rückruf“ jede Maßnahme, die darauf abzielt, die Rückgabe einer dem Endnutzer bereitgestellten Funkanlage zu erwirken;
+- 24. :: „Rücknahme“ jede Maßnahme, mit der verhindert werden soll, dass eine Funkanlage, die sich in der Lieferkette befindet, auf dem Markt bereitgestellt wird;
+- 25. :: „Harmonisierungsvorschriften der Europäischen Union“ Rechtsvorschriften der Europäischen Union zur Harmonisierung der Bedingungen für die Vermarktung von Produkten;
+- 26. :: „CE-Kennzeichnung“ die Kennzeichnung, durch die der Hersteller erklärt, dass die Funkanlage den Anforderungen genügt, die in den Harmonisierungsrechtsvorschriften der Europäischen Union, die ihre Anbringung vorschreiben, festgelegt sind;
+- 27. :: „EU-Konformitätserklärung“ eine Erklärung gemäß Artikel 18 in Verbindung mit Anhang VI der Richtlinie 2014/53/EU des Europäischen Parlaments und des Rates vom 16. April 2014 über die Harmonisierung der Rechtsvorschriften der Mitgliedstaaten über die Bereitstellung von Funkanlagen auf dem Markt und zur Aufhebung der Richtlinie 1999/5/EG (ABl. L 153 vom 22.5.2014, S. 62);
+- 28. :: „vereinfachte EU-Konformitätserklärung“ eine Erklärung gemäß Artikel 18 in Verbindung mit Anhang VII der Richtlinie 2014/53/EU;
+- 29. :: „Senderbetreiber“ derjenige, dem Frequenzen zum Betreiben von Sendefunkgeräten oder Funknetzen zugeteilt sind.
 
 (2) Wenn die Kommission Durchführungsrechtsakte erlässt, in denen sie festlegt, ob bestimmte Kategorien elektrischer oder elektronischer Produkte der Definition in Absatz 1 Nummer 1 entsprechen, sind diese zu berücksichtigen.
 

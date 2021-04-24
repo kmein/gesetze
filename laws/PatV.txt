@@ -11,14 +11,14 @@ Auf Grund des § 34 Abs. 6 und des § 63 Abs. 4 des Patentgesetzes in der Fassun
 Inhaltsverzeichnis
 
 Abschnitt 1
-
+ 
 Allgemeines
 § 1
 Anwendungsbereich
 § 2
 DIN-Normen, Einheiten im Messwesen, Symbole und Zeichen
 Abschnitt 2
-
+ 
 Patentanmeldungen; Patentverfahren
 § 3
 Form der Einreichung
@@ -45,7 +45,7 @@ Zusammenfassung
 § 14
 Fremdsprachige Dokumente
 Abschnitt 3
-
+ 
 Sonstige Formerfordernisse
 § 15
 Nachgereichte Anmeldungsunterlagen; Änderung von Anmeldungsunterlagen
@@ -56,7 +56,7 @@ Modelle und Proben
 § 18
 (weggefallen)
 Abschnitt 4
-
+ 
 Ergänzende Schutzzertifikate
 § 19
 Form der Einreichung
@@ -65,7 +65,7 @@ Ergänzende Schutzzertifikate für Arzneimittel
 § 21
 Ergänzende Schutzzertifikate für Pflanzenschutzmittel
 Abschnitt 5
-
+ 
 Übergangs- und Schlussbestimmungen
 § 22
 Übergangsregelung
@@ -447,7 +447,7 @@ Bezeichnung der Erfindung
 
 O
 
-
+ 
 
 <130>
 
@@ -495,7 +495,7 @@ Anzahl der SEQ ID NOs
 
 O
 
-
+ 
 
 <170>
 
@@ -503,7 +503,7 @@ Software
 
 F
 
-
+ 
 
 <210>
 
@@ -603,7 +603,7 @@ Verfasser
 
 F
 
-
+ 
 
 <302>
 
@@ -699,7 +699,7 @@ Relevante Reste in SEQ ID NO: x von bis
 
 F
 
-
+ 
 
 <400>
 
@@ -1761,7 +1761,7 @@ Paramecium sp.
 
 <220>
 
-
+ 
 
 <221>
 
@@ -1773,7 +1773,7 @@ CDS
 
 <300>
 
-
+ 
 
 <301>
 
@@ -1835,25 +1835,25 @@ ggacctgatt aggtgagcag gaggaggggg cagttagc atg gtt tca atg ttc agc
 
 296
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
-
-
-
+ 
 
 Met
 
@@ -1867,41 +1867,41 @@ Phe
 
 Ser
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
-
-
-
-
+ 
 
 1
 
+ 
 
+ 
 
-
-
-
+ 
 
 5
 
+ 
 
-
-
+ 
 
 ttg
 
@@ -1969,41 +1969,41 @@ Phe
 
 Gln
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 10
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 15
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 20
 
+ 
 
+ 
 
-
-
-
+ 
 
 tgt
 
@@ -2035,7 +2035,7 @@ aat
 
 ctt
 
-
+ 
 
 389
 
@@ -2069,43 +2069,43 @@ Asn
 
 Leu
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 25
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 30
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 35
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 
 Anlage 2 - (zu § 12)Standards für die Einreichung von Zeichnungen

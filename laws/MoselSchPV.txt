@@ -7,14 +7,14 @@ Ausfertigungsdatum: 03.09.1997
 Inhaltsverzeichnis
 
 Erster Teil
-
+ 
 Auf der gesamten internationalen Moselstrecke anwendbare Bestimmungen
-
-
+ 
+ 
 Kapitel 1
-
-
-
+ 
+ 
+ 
 Allgemeine Bestimmungen
 § 1.01
 Begriffsbestimmungen
@@ -72,12 +72,12 @@ Laden, Löschen und Leichtern
 Sonderrechte der Fahrzeuge der Überwachungsbehörden
 § 1.27
 Anordnungen, Erlaubnisse und Genehmigungen
-
-
+ 
+ 
 Kapitel 2
-
-
-
+ 
+ 
+ 
 Kennzeichnung und Tiefgangsanzeiger der Fahrzeuge; Schiffseichung
 § 2.01
 Kennzeichen der Fahrzeuge, ausgenommen Kleinfahrzeuge und Seeschiffe
@@ -91,17 +91,17 @@ Einsenkungsmarken und Tiefgangsanzeiger
 Kennzeichen der Anker
 § 2.06
 Kennzeichnung der Fahrzeuge, die Flüssigerdgas (LNG) als Brennstoff nutzen
-
-
+ 
+ 
 Kapitel 3
-
-
-
+ 
+ 
+ 
 Bezeichnung der Fahrzeuge
-
-
-
-
+ 
+ 
+ 
+ 
 Abschnitt I.: Allgemeines
 § 3.01
 Begriffsbestimmungen und Anwendungen
@@ -117,15 +117,15 @@ Verbotene oder ausnahmsweise zugelassene Lichter und Sichtzeichen
 (ohne Inhalt)
 § 3.07
 Verbotener Gebrauch von Lichtern, Scheinwerfern, Flaggen, Tafeln und Wimpeln usw.
-
-
-
-
+ 
+ 
+ 
+ 
 Abschnitt II: Nacht- und Tagbezeichnung
-
-
-
-
+ 
+ 
+ 
+ 
 Titel A: Bezeichnung während der Fahrt
 § 3.08
 Bezeichnung einzeln fahrender Fahrzeuge mit Maschinenantrieb
@@ -151,10 +151,10 @@ Zusätzliche Bezeichnung der Fahrzeuge in Fahrt, die einen Vorrang besitzen
 Zusätzliche Bezeichnung manövrierunfähiger Fahrzeuge in Fahrt
 § 3.19
 Bezeichnung der Schwimmkörper und schwimmenden Anlagen in Fahrt
-
-
-
-
+ 
+ 
+ 
+ 
 Titel B: Bezeichnung beim Stilliegen
 § 3.20
 Bezeichnung der Fahrzeuge beim Stilliegen
@@ -170,10 +170,10 @@ Bezeichnung bestimmter stilliegender Fischereifahrzeuge und der Netze oder Ausle
 Bezeichnung schwimmender Geräte bei der Arbeit sowie festgefahrener oder gesunkener Fahrzeuge
 § 3.26
 Zusätzliche Bezeichnung der Fahrzeuge, Schwimmkörper und schwimmenden Anlagen, deren Anker die Schiffahrt gefährden können, und ihrer Anker
-
-
-
-
+ 
+ 
+ 
+ 
 Abschnitt III: Sonstige Bezeichnung
 § 3.27
 Bezeichnung der Fahrzeuge der Überwachungsbehörden
@@ -191,17 +191,17 @@ Hinweis auf das Verbot, zu rauchen, ungeschütztes Licht oder Feuer zu verwenden
 Hinweis auf das Verbot des Stilliegens nebeneinander
 § 3.34
 Zusätzliche Bezeichnung der Fahrzeuge beim Einsatz von Tauchern
-
-
+ 
+ 
 Kapitel 4
-
-
-
+ 
+ 
+ 
 Schallzeichen der Fahrzeuge; Sprechfunk; Informations- und Navigationsgeräte
-
-
-
-
+ 
+ 
+ 
+ 
 Abschnitt I: Schallzeichen
 § 4.01
 Allgemeines
@@ -211,44 +211,44 @@ Gebrauch der Schallzeichen
 Verbotene Schallzeichen
 § 4.04
 Notzeichen
-
-
-
-
+ 
+ 
+ 
+ 
 Abschnitt II: Sprechfunk
 § 4.05
 Sprechfunk
-
-
-
-
+ 
+ 
+ 
+ 
 Abschnitt III: Informations- und Navigationsgeräte
 § 4.06
 Radar
 § 4.07
 Inland AIS und Inland ECDIS
-
-
+ 
+ 
 Kapitel 5
-
-
-
+ 
+ 
+ 
 Schiffahrtszeichen und Bezeichnung der Wasserstraße
 § 5.01
 Schiffahrtszeichen
 § 5.02
 Bezeichnung der Wasserstraße
-
-
+ 
+ 
 Kapitel 6
-
-
-
+ 
+ 
+ 
 Fahrregeln
-
-
-
-
+ 
+ 
+ 
+ 
 Abschnitt I: Allgemeines
 § 6.01
 Fahrt unter Segel
@@ -256,10 +256,10 @@ Fahrt unter Segel
 Gegenseitiges Verhalten von Kleinfahrzeugen und anderen Fahrzeugen
 § 6.02a
 Besondere Fahrregeln für Kleinfahrzeuge
-
-
-
-
+ 
+ 
+ 
+ 
 Abschnitt II: Begegnen und Überholen
 § 6.03
 Allgemeine Grundsätze
@@ -279,10 +279,10 @@ Durch Schiffahrtszeichen verbotenes Begegnen
 Überholen: Verhalten und Zeichengebung der Fahrzeuge
 § 6.11
 Überholverbot durch Schiffahrtszeichen
-
-
-
-
+ 
+ 
+ 
+ 
 Abschnitt III: Weitere Regeln für die Fahrt
 § 6.12
 Fahrt auf Strecken mit vorgeschriebenem Kurs
@@ -308,17 +308,17 @@ Zusammenstellung der Verbände
 Sperrung der Schiffahrt und gesperrte Wasserflächen
 § 6.22a
 Vorbeifahrt an schwimmenden Geräten bei der Arbeit sowie an festgefahrenen oder gesunkenen Fahrzeugen
-
-
-
-
+ 
+ 
+ 
+ 
 Abschnitt IV: Fähren
 § 6.23
 Verhalten der Fähren
-
-
-
-
+ 
+ 
+ 
+ 
 Abschnitt V: Durchfahren von Brücken, Wehren und Schleusen
 § 6.24
 Durchfahren von Brücken und Wehren: Allgemeines
@@ -334,10 +334,10 @@ Durchfahren der Schleusen
 Schleuseneinfahrt und -ausfahrt
 § 6.29
 Vorrecht auf Schleusung
-
-
-
-
+ 
+ 
+ 
+ 
 Abschnitt VI: Unsichtiges Wetter; Benutzung von Radar
 § 6.30
 Allgemeine Regeln für die Fahrt bei unsichtigem Wetter
@@ -349,12 +349,12 @@ Radarfahrt
 Schallzeichen für Fahrzeuge, die nicht mit Radar fahren
 § 6.34
 Bestimmungen für Fahrzeuge, die nicht mit Radar fahren und das Dreitonzeichen hören
-
-
+ 
+ 
 Kapitel 7
-
-
-
+ 
+ 
+ 
 Regeln für das Stilliegen
 § 7.01
 Allgemeine Grundsätze für das Stilliegen
@@ -372,12 +372,12 @@ Besondere Liegestellen
 Mindestabstände bei Beförderung bestimmter gefährlicher Güter beim Stillliegen
 § 7.08
 Wache und Aufsicht
-
-
+ 
+ 
 Kapitel 8
-
-
-
+ 
+ 
+ 
 Zusatzbestimmungen
 § 8.01
 Höchstabmessungen der Fahrzeuge und Verbände
@@ -407,12 +407,12 @@ Sicherheit an Bord von Fahrzeugen, die für die Beförderung und Übernachtung v
 Sicherheit an Bord der Fahrzeuge, die Flüssigerdgas (LNG) als Brennstoff nutzen
 § 8.13
 Anlegestellen für Fahrgastschiffe
-
-
+ 
+ 
 Kapitel 9
-
-
-
+ 
+ 
+ 
 Besondere Regeln für die Fahrt und das Stilliegen
 § 9.01
 Fahrbeschränkungen
@@ -424,26 +424,26 @@ Verkehrsregelung im Unterkanal der Koblenzer Schleusen
 Fahrt von Schubverbänden in der Moselmündung
 § 9.05
 Meldepflicht
-
-
+ 
+ 
 Kapitel 10
-
-
-
+ 
+ 
+ 
 Beschränkung der Schiffahrt bei Hochwasser
 § 10.01
 Hochwassermarken
 § 10.02
 Regeln für die Fahrt, wenn die Hochwassermarken erreicht oder überschritten sind
 Zweiter Teil
-
+ 
 Umweltbestimmungen
-
-
+ 
+ 
 Kapitel 11
-
-
-
+ 
+ 
+ 
 Gewässerschutz und Entsorgung von Schiffsabfällen
 § 11.01
 Begriffsbestimmungen und Anwendung
@@ -474,7 +474,7 @@ Anstrich und Außenreinigung der Fahrzeuge
 | Anlage 8:  | Bezeichnung der Wasserstraße                                                                                                                          |
 | Anlage 9:  | (ohne Inhalt)                                                                                                                                         |
 | Anlage 10: | Muster für das Ölkontrollbuch                                                                                                                         |
-| Anlage 11  | Daten, die in das Inland AIS Gerät einzugeben sind: Erläuterungen Navigationsstatus“ und des Bezugspunktes der Positionsinformation auf dem Fahrzeug |
+| Anlage 11  | Daten, die in das Inland AIS Gerät einzugeben sind: Erläuterungen „Navigationsstatus“ und des Bezugspunktes der Positionsinformation auf dem Fahrzeug |
 
 
 § 1.01 - Begriffsbestimmungen
@@ -523,11 +523,11 @@ In dieser Verordnung gelten als:
   der Zeitraum zwischen Sonnenuntergang und Sonnenaufgang;
 - s) :: "Tag":
   der Zeitraum zwischen Sonnenaufgang und Sonnenuntergang;
-- t) :: weirotes Licht“, grünes Licht“, gelbes Licht“ und blaues Licht“:
+- t) :: „weißes Licht“, „rotes Licht“, „grünes Licht“, „gelbes Licht“ und „blaues Licht“:
   ein Licht, dessen Farbe den Anforderungen der Tabelle 2 der Europäischen Norm EN 14744 : 2005 entspricht;
-- u) :: starkes Licht“, helles Licht“ und gewöhnliches Licht“:
+- u) :: „starkes Licht“, „helles Licht“ und „gewöhnliches Licht“:
   ein Licht, dessen Stärke den Anforderungen der Tabelle 1 der Europäischen Norm EN 14744 : 2005 entspricht;
-- v) :: Funkellicht“, schnelles Funkellicht“:
+- v) :: „Funkellicht“, „schnelles Funkellicht“:
   ein Licht, dessen Anzahl regelmäßiger Lichterscheinungen als Funkellicht der Anforderung der Zeile 1 und als schnelles Funkellicht den Anforderungen der Zeile 2 oder der Zeile 3 der Tabelle 3 der Europäischen Norm EN 14744 : 2005 entspricht;
 - w) :: "kurzer Ton":
   ein Ton von etwa einer Sekunde Dauer,
@@ -541,13 +541,13 @@ In dieser Verordnung gelten als:
   die Richtung zu den Quellen der Mosel;
 - aa) :: "ADN":
   die dem Europäischen Übereinkommen über die internationale Beförderung von gefährlichen Gütern auf Binnenwasserstraßen beigefügte Verordnung (ADN) in der jeweils aktuellen Fassung.
-- ab) :: Inland AIS Gerät“ ein Gerät, das auf einem Fahrzeug eingebaut ist und im Sinne des Standards Schiffsverfolgung und Aufspürung in der Binnenschifffahrt“ (ZKR-Beschluss 2006-I-21) genutzt wird;
-- ac) :: LNG-System“ sämtliche Teile des Fahrzeugs, die Flüssigerdgas (LNG) oder Erdgas enthalten können, wie Motoren, Brennstofftanks und die Schlauch- und Rohrleitungen für das Bunkern;
-- ad) :: Bunkerbereich“ der Bereich in einem Radius von 20 Metern um den Bunkerverteiler;
-- ae) :: Flüssigerdgas (LNG)“ Erdgas, das durch Abkühlung auf eine Temperatur von -161 °C verflüssigt wurde.
-- af) :: festverbundener Tank“ ein mit dem Schiff verbundener Tank, wobei die Tankwände durch den Schiffskörper selbst oder durch vom Schiffskörper unabhängige Wandungen gebildet sein können.
-- ag) :: Wassermotorrad“ ein Kleinfahrzeug, wie ein Wasserbob, Wasserscooter, Jetbike oder Jetski oder ein anderes ähnliches Kleinfahrzeug mit eigenem mechanischem Antrieb, das eine oder mehrere Personen befördern kann und dafür gebaut und ausgelegt ist, um über das Wasser zu gleiten oder Figuren auszuführen.
-- aj) :: ES-TRIN“ der Europäische Standard der technischen Vorschriften für Binnenschiffe in der gültigen Fassung, der vom Europäischen Ausschuss für die Ausarbeitung von Standards im Bereich der Binnenschifffahrt (CESNI) angenommen wurde. Bei der Anwendung des ES-TRIN ist unter Mitgliedstaat ein Moseluferstaat zu verstehen.
+- ab) :: „Inland AIS Gerät“ ein Gerät, das auf einem Fahrzeug eingebaut ist und im Sinne des Standards „Schiffsverfolgung und Aufspürung in der Binnenschifffahrt“ (ZKR-Beschluss 2006-I-21) genutzt wird;
+- ac) :: „LNG-System“ sämtliche Teile des Fahrzeugs, die Flüssigerdgas (LNG) oder Erdgas enthalten können, wie Motoren, Brennstofftanks und die Schlauch- und Rohrleitungen für das Bunkern;
+- ad) :: „Bunkerbereich“ der Bereich in einem Radius von 20 Metern um den Bunkerverteiler;
+- ae) :: „Flüssigerdgas (LNG)“ Erdgas, das durch Abkühlung auf eine Temperatur von -161 °C verflüssigt wurde.
+- af) :: „festverbundener Tank“ ein mit dem Schiff verbundener Tank, wobei die Tankwände durch den Schiffskörper selbst oder durch vom Schiffskörper unabhängige Wandungen gebildet sein können.
+- ag) :: „Wassermotorrad“ ein Kleinfahrzeug, wie ein Wasserbob, Wasserscooter, Jetbike oder Jetski oder ein anderes ähnliches Kleinfahrzeug mit eigenem mechanischem Antrieb, das eine oder mehrere Personen befördern kann und dafür gebaut und ausgelegt ist, um über das Wasser zu gleiten oder Figuren auszuführen.
+- aj) :: „ES-TRIN“ der Europäische Standard der technischen Vorschriften für Binnenschiffe in der gültigen Fassung, der vom Europäischen Ausschuss für die Ausarbeitung von Standards im Bereich der Binnenschifffahrt (CESNI) angenommen wurde. Bei der Anwendung des ES-TRIN ist unter Mitgliedstaat ein Moseluferstaat zu verstehen.
 
 
 § 1.02 - Schiffsführer
@@ -662,7 +662,7 @@ Außenbordarbeiten dürfen nur bei stillliegenden Schiffen durchgeführt werden 
   - h) :: das Radarpatent oder ein gleichwertiges Zeugnis; diese Dokumente sind an Bord nicht erforderlich, wenn die Rheinpatentkarte die Eintragung "Radar" oder das gleichwertige Zeugnis des Schiffsführers die entsprechende Eintragung enthält,
   - i) :: die nach Artikel 7.06 Nummer 1 ES-TRIN erforderliche Bescheinigung über Einbau und Funktion von Radaranlage und Wendeanzeiger,
   - k) :: ein Sprechfunkzeugnis für den Binnenschifffahrtsfunk gemäß Anhang 5 der Regionalen Vereinbarung über den Binnenschifffahrtsfunk,
-  - l) :: die Urkunde(n) Frequenzzuteilung“ oder die Zuteilungsurkunde“,
+  - l) :: die Urkunde(n) „Frequenzzuteilung“ oder die „Zuteilungsurkunde“,
   - m) :: das Handbuch Binnenschifffahrtsfunk, Allgemeiner Teil und Regionaler Teil Rhein/Mosel,
   - n) :: das ordnungsgemäß ausgefüllte Ölkontrollbuch,
   - o) :: die Urkunden für Schiffsdampfkessel und sonstige Druckbehälter,
@@ -843,7 +843,7 @@ Jedes Binnenschiff, das zur Güterbeförderung bestimmt ist, ausgenommen Kleinfa
 
 § 2.04 - Einsenkungsmarken und Tiefgangsanzeiger
 
-- 1. :: An allen Fahrzeugen -- mit Ausnahme der Kleinfahrzeuge -- müssen Marken angebracht sein, welche die Ebene der gröFrischwassermarke im Sommer“ die Einsenkungsmarken. Die Einzelheiten über die Festsetzung der größten Einsenkung und die Grundsätze für die Anbringung der Einsenkungsmarken sind in den Artikeln 4.04, 4.05 und 22.09 ES-TRIN oder in anderen gleichwertigen Vorschriften der Moseluferstaaten geregelt.
+- 1. :: An allen Fahrzeugen -- mit Ausnahme der Kleinfahrzeuge -- müssen Marken angebracht sein, welche die Ebene der größten Einsenkung anzeigen. Bei Seeschiffen ersetzt die „Frischwassermarke im Sommer“ die Einsenkungsmarken. Die Einzelheiten über die Festsetzung der größten Einsenkung und die Grundsätze für die Anbringung der Einsenkungsmarken sind in den Artikeln 4.04, 4.05 und 22.09 ES-TRIN oder in anderen gleichwertigen Vorschriften der Moseluferstaaten geregelt.
   Bei Kanalpenichen (péniches Freycinet) können die Einsenkungsmarken auf jeder Seite durch mindestens eine Eichplatte oder eine Eichmarke, die nach dem Übereinkommen über die Eichung der Binnenschiffe angebracht sind, ersetzt werden.
 - 2. :: An allen Fahrzeugen, deren Tiefgang 1,00 m erreichen kann -- mit Ausnahme der Kleinfahrzeuge und Kanalpenichen (péniches Freycinet) -- müssen Tiefgangsanzeiger angebracht sein. Die Grundsätze für ihre Anbringung sind in den Artikeln 4.06 und 22.09 ES-TRIN geregelt.
 
@@ -857,7 +857,7 @@ Jedes Binnenschiff, das zur Güterbeförderung bestimmt ist, ausgenommen Kleinfa
 § 2.06 - Kennzeichnung der Fahrzeuge, die Flüssigerdgas (LNG) als Brennstoff nutzen(Anlage 3: Bild 66)
 
 - 1. :: Fahrzeuge, die Flüssigerdgas (LNG) als Brennstoff nutzen, müssen ein Kennzeichen tragen.
-- 2. :: Das Kennzeichen ist rechteckig mit der Aufschrift LNG“ in weißen Buchstaben auf rotem Grund und einem weißen Rand von mindestens 5 cm Breite.\\
+- 2. :: Das Kennzeichen ist rechteckig mit der Aufschrift „LNG“ in weißen Buchstaben auf rotem Grund und einem weißen Rand von mindestens 5 cm Breite.\\
   \\
   Die Länge der langen Seite des Rechtecks muss mindestens 60 cm betragen. Die Höhe der Schriftzeichen muss mindestens 20 cm betragen. Die Breite der Schriftzeichen und die Stärke der Striche müssen der Höhe entsprechen.
 - 3. :: Das Kennzeichen muss an einer geeigneten und gut sichtbaren Stelle angebracht sein.
@@ -1405,7 +1405,7 @@ Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 37
 § 3.34 - Zusätzliche Bezeichnung der Fahrzeuge beim Einsatz von Tauchern (Anlage 3: Bild 65)
 
 Fahrzeuge, die für den Einsatz von Tauchern verwendet werden, müssen zusätzlich zu ihrer Bezeichnung auf Grund anderer Bestimmungen dieser Verordnung führen:\\
-eine mindestens 1,00 m hohe, starre Nachbildung des Buchstabensignals A“ des Internationalen Signalbuches an geeigneter Stelle und so hoch, dass sie bei Tag und bei Nacht von allen Seiten sichtbar ist.
+eine mindestens 1,00 m hohe, starre Nachbildung des Buchstabensignals „A“ des Internationalen Signalbuches an geeigneter Stelle und so hoch, dass sie bei Tag und bei Nacht von allen Seiten sichtbar ist.
 
 § 4.01 - Allgemeines
 
@@ -1465,7 +1465,7 @@ eine mindestens 1,00 m hohe, starre Nachbildung des Buchstabensignals A“ des I
   - d) :: schwimmende Geräte ohne eigenen Antrieb.
 - 2. :: Das Inland AIS Gerät muss folgende Anforderungen erfüllen:
   - a) :: das Inland AIS Gerät muss ständig eingeschaltet sein;
-  - b) :: das Inland AIS Gerät muss mit maximaler Leistung senden; dies gilt nicht für Tankschiffe mit dem Navigationsstatus festgemacht“;
+  - b) :: das Inland AIS Gerät muss mit maximaler Leistung senden; dies gilt nicht für Tankschiffe mit dem Navigationsstatus „festgemacht“;
   - c) :: es darf immer nur ein Inland AIS Gerät an Bord eines Fahrzeugs oder Verbands im Sendebetrieb sein;
   - d) :: die eingegebenen Daten des im Sendebetrieb befindlichen Inland AIS Geräts müssen zu jedem Zeitpunkt den tatsächlichen Daten des Fahrzeugs oder Verbands entsprechen.
 - 2a. :: Nummer 2 Buchstabe a gilt nicht,
@@ -1785,7 +1785,7 @@ zeigen.
 - 1. :: Fähren dürfen die Wasserstraßen nur überqueren, wenn sie sich vergewissert haben, daß der übrige Verkehr eine gefahrlose Überfahrt zuläßt und andere Fahrzeuge nicht gezwungen werden, unvermittelt ihren Kurs oder ihre Geschwindigkeit zu ändern.
 - 2. :: Für nicht frei fahrende Fähren gilt außerdem folgendes:
   - a) :: solange eine Fähre nicht in Betrieb ist, muß sie den Liegeplatz einnehmen, den ihr die zuständige Behörde zugewiesen hat; ist ihr ein Liegeplatz nicht zugewiesen, muß sie so liegen, daß das Fahrwasser frei bleibt;
-  - b) :: Fähren mit Längsseil, die so verankert sind, dass sie das Fahrwasser sperren können, dürfen auf der Fahrwasserseite, die der Verankerung des Seils gegenüberliegt, nur so lange liegen, wie dies zum Ein- und Ausladen unbedingt erforderlich ist; während dieser Zeit können näher kommende Fahrzeuge von der Fähre das Freimachen des Fahrwassers verlangen, indem sie rechtzeitig einen langen Ton“ geben;
+  - b) :: Fähren mit Längsseil, die so verankert sind, dass sie das Fahrwasser sperren können, dürfen auf der Fahrwasserseite, die der Verankerung des Seils gegenüberliegt, nur so lange liegen, wie dies zum Ein- und Ausladen unbedingt erforderlich ist; während dieser Zeit können näher kommende Fahrzeuge von der Fähre das Freimachen des Fahrwassers verlangen, indem sie rechtzeitig „einen langen Ton“ geben;
   - c) :: die Fähre darf sich nicht länger im Fahrwasser aufhalten, als der Betrieb es erfordert.
 
 
@@ -2462,7 +2462,7 @@ Der Schiffsführer, die übrige Besatzung und sonstige Personen an Bord, müssen
 - 4. :: Im Bunkerbereich dürfen sich nur Besatzungsmitglieder des zu bebunkernden Fahrzeugs, Mitarbeiter der Bunkerstelle oder Personen aufhalten, die über eine von der zuständigen Behörde erteilte Erlaubnis verfügen.
 - 5. :: Vor Beginn des Bunkerns von Flüssigerdgas (LNG) hat sich der Schiffsführer des zu bebunkernden Fahrzeugs zu vergewissern, dass
   - a) :: das zu bebunkernde Fahrzeug so festgemacht ist, dass Kabel, insbesondere die elektrischen Kabel, die Erdungskabel und die Schlauchleitungen nicht aufgrund von Zug verformt werden und die Fahrzeuge bei Gefahr rasch losgemacht werden können,
-  - b) :: von ihm oder von einer von ihm beauftragten Person und von der für die Bunkerstelle verantwortlichen Person eine Prüfliste für das Bunkern von Flüssigerdgas (LNG) durch Fahrzeuge, die das Kennzeichen nach § 2.06 tragen, gemäJa“ beantwortet sind. Nicht zutreffende Fragen sind zu streichen. Können nicht alle Fragen mit Ja“ beantwortet werden, ist das Bunkern nur mit Genehmigung der zuständigen Behörde gestattet,
+  - b) :: von ihm oder von einer von ihm beauftragten Person und von der für die Bunkerstelle verantwortlichen Person eine Prüfliste für das Bunkern von Flüssigerdgas (LNG) durch Fahrzeuge, die das Kennzeichen nach § 2.06 tragen, gemäß dem Standard der ZKR ausgefüllt und unterschrieben wurde und alle Fragen in der Prüfliste mit „Ja“ beantwortet sind. Nicht zutreffende Fragen sind zu streichen. Können nicht alle Fragen mit „Ja“ beantwortet werden, ist das Bunkern nur mit Genehmigung der zuständigen Behörde gestattet,
   - c) :: alle erforderlichen Genehmigungen vorliegen.
 - 6. :: Die Prüfliste nach Nummer 5 Buchstabe b muss
   - a) :: in zweifacher Ausfertigung ausgefüllt werden,
@@ -2498,7 +2498,7 @@ Anlage 1
 (Fundstelle des Originaltextes: BGBl. II 2011, 1329)
 \\
 Unterscheidungsbuchstabe oder -buchstabengruppe des Landes, in welchem der Heimat- oder Registerort der Fahrzeuge liegt
-
+ 
 (nur Hinweis)
 A
 : Österreich
@@ -2981,7 +2981,7 @@ A. Allgemeine Zeichen\\
 
 "Achtung"
 
-
+ 
 
 ...
 
@@ -2989,7 +2989,7 @@ A. Allgemeine Zeichen\\
 
 "Ich richte meinen Kurs nach Steuerbord"
 
-
+ 
 
 ...
 
@@ -2997,7 +2997,7 @@ A. Allgemeine Zeichen\\
 
 "Ich richte meinen Kurs nach Backbord"
 
-
+ 
 
 ...
 
@@ -3005,7 +3005,7 @@ A. Allgemeine Zeichen\\
 
 "Meine Maschine geht rückwärts"
 
-
+ 
 
 ...
 
@@ -3013,7 +3013,7 @@ A. Allgemeine Zeichen\\
 
 "Ich bin manövrierunfähig"
 
-
+ 
 
 ...
 
@@ -3021,7 +3021,7 @@ Folge sehr kurzer Töne
 
 "Gefahr eines Zusammenstoßes"
 
-
+ 
 
 ...
 
@@ -3035,9 +3035,9 @@ Wiederholte lange Töne oder
 
 Gruppen von Glockenschlägen
 
+ 
 
-
-
+ 
 
 - B. :: Begegnungszeichen
 
@@ -3051,7 +3051,7 @@ Normalfall:
 
 § 6.04 Nr. 4
 
-
+ 
 
 ... 1 kurzer Ton des Talfahrers
 
@@ -3067,7 +3067,7 @@ Abweichung:
 
 § 6.05 Nr. 2
 
-
+ 
 
 ... 2 kurze Töne des Bergfahrers
 
@@ -3105,13 +3105,13 @@ Abweichung:
 
 § 6.05 Nr. 3
 
-
+ 
 
 - C. :: Überholzeichen
 
 Überholen an Backbord des Vorausfahrenden verlangt
 
-
+ 
 
 ... 2 lange Töne 2 kurze Töne des Überholenden
 
@@ -3141,11 +3141,11 @@ Abweichung:
 
 § 6.10 Nr. 4
 
-
+ 
 
 Überholen an Steuerbord des Vorausfahrenden verlangt
 
-
+ 
 
 ... 2 lange Töne, 1 kurzer Ton des Überholenden
 
@@ -3177,7 +3177,7 @@ Abweichung:
 
 Unmöglichkeit des Überholens
 
-
+ 
 
 ... 5 kurze Töne des Vorausfahrenden
 
@@ -3185,11 +3185,11 @@ Unmöglichkeit des Überholens
 
 § 6.10 Nr. 5
 
-
+ 
 
 - D. :: Wendezeichen
 
-
+ 
 
 ... 1 langer Ton, 1 kurzer Ton
 
@@ -3197,7 +3197,7 @@ Unmöglichkeit des Überholens
 
 § 6.13 Nr. 2, § 6.16 Nr. 2
 
-
+ 
 
 ... 1 langer Ton, 2 kurze Töne
 
@@ -3205,12 +3205,12 @@ Unmöglichkeit des Überholens
 
 § 6.13 Nr. 2, § 6.16 Nr. 2
 
-
+ 
 
 - E. :: Zeichen bei der Einfahrt in und der Ausfahrt aus Häfen und\\
   Nebenwasserstraßen
 
-
+ 
 
 ... 3 lange Töne, 1 kurzer Ton
 
@@ -3218,7 +3218,7 @@ Unmöglichkeit des Überholens
 
 § 6.16 Nr. 2
 
-
+ 
 
 ... 3 lange Töne, 2 kurze Töne
 
@@ -3226,7 +3226,7 @@ Unmöglichkeit des Überholens
 
 § 6.16 Nr. 2
 
-
+ 
 
 ... 3 lange Töne
 
@@ -3234,41 +3234,41 @@ Unmöglichkeit des Überholens
 
 § 6.16 Nr. 2
 
-
+ 
 
 - F. :: (ohne Inhalt)
 
-
+ 
 
 - G. :: Zeichen bei unsichtigem Wetter
 
 - a) :: Einzeln fahrende Fahrzeuge und Verbände, die kein Radar benutzen
 
-
+ 
 
 ... 1 langer Ton, längstens jede Minute wiederholt
 
-
+ 
 
 § 6.33 Buchstabe b
 
 - b) :: Fahrzeuge in der Radarfahrt, wenn kein Sprechfunkkontakt zustande kommt
 
-
+ 
 
 ... 1 langer Ton, wiederholt
 
-
+ 
 
 § 6.32 Nr. 2 Buchstabe d
 
 - c) :: Stilliegende Fahrzeuge
 
-
+ 
 
 ... 1 Gruppe von Glockenschlägen, längstens jede Minute wiederholt
 
-
+ 
 
 § 6.31 Nr. 2
 
@@ -3640,41 +3640,41 @@ Taktfeuer:
 
 Unterbrochene Lichterscheinung von gleichbleibender Stärke und Farbe. Es werden verwendet
 
-
+ 
 
 - ununterbrochenes Feuer mit Einzelunterbrechung
 
-
+ 
 
 ... nicht darstellbares Zeichen
 
 (Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 115)
 
-
+ 
 
 oder mit Gruppen von Unterbrechungen
 
-
+ 
 
 Beispiel: 2 Unterbrechungen
 
-
+ 
 
 ... nicht darstellbares Zeichen
 
-
+ 
 
 Gleichtaktfeuer
 
-
+ 
 
 ... nicht darstellbares Zeichen
 
-
+ 
 
 Funkelfeuer
 
-
+ 
 
 ... nicht darstellbares Zeichen
 
@@ -3789,12 +3789,12 @@ Page/Seite/Bladzijde 2
 Le premier carnet de contrôle des huiles usées, muni sur la page 1 du numéro d'ordre 1, est délivré par une autorité compétente sur présentation du certificat de visite en cours de validité ou d'un autre certificat reconnu comme étant équivalent. Cette autorité appose également les indications prévues sur la page 1.
 Tous les carnets suivants seront établis et numérotés dans l'ordre par une autorité compétente. Toutefois, ils ne doivent être remis que sur présentation du carnet précédent. Le carnet précédent doit recevoir la mention indélébile «non valable». Après son renouvellement, le carnet précédent doit être conservé à bord durant au moins six mois à compter de la dernière inscription.
 Das erste Ölkontrollbuch, versehen auf Seite 1 mit der laufenden Nummer 1, wird von einer zuständigen Behörde gegen Vorlage des gültigen Schiffsattestes oder eines als gleichwertig anerkannten Zeugnisses ausgestellt. Sie trägt auch die auf Seite 1 vorgesehenen Angaben ein.
-Alle nachfolgenden Ölkontrollbücher werden von einer zuständigen Behörde mit der Folgenummer nummeriert und ausgegeben. Sie dürfen jedoch nur gegen Vorlage des vorhergehenden Kontrollbuches ausgehändigt werden. Das vorhergehende Kontrollbuch wird unaustilgbar ungültig“ gekennzeichnet. Nach seiner Erneuerung muss das vorhergehende mindestens sechs Monate nach der letzten Eintragung an Bord aufbewahrt werden.
+Alle nachfolgenden Ölkontrollbücher werden von einer zuständigen Behörde mit der Folgenummer nummeriert und ausgegeben. Sie dürfen jedoch nur gegen Vorlage des vorhergehenden Kontrollbuches ausgehändigt werden. Das vorhergehende Kontrollbuch wird unaustilgbar „ungültig“ gekennzeichnet. Nach seiner Erneuerung muss das vorhergehende mindestens sechs Monate nach der letzten Eintragung an Bord aufbewahrt werden.
 Het eerste olie-afgifteboekje, daartoe op bladzijde 1 voorzien van het volgnummer 1, wordt door een bevoegde autoriteit op vertoon van het geldige certificaat van onderzoek of van een gelijkwaardig erkend bewijs afgegeven. Deze autoriteit vult tevens de gegevens op bladzijde 1 in.
-Alle volgende olie-afgifteboekjes worden door een bevoegde autoriteit afgegeven nadat deze daarop het aansluitende volgnummer heeft aangebracht. Ieder volgend olie-afgifteboekje mag echter slechts na overleggen van het vorige boekje worden afgegeven. Het vorige boekje wordt op onuitwisbare wijze als ongeldig“ gemerkt. Na het verkrijgen van een nieuw olie-afgifteboekje moet het voorgaande boekje gedurende tenminste zes maanden na de laatste daarin vermelde datum van afgifte aan boord worden bewaard.
+Alle volgende olie-afgifteboekjes worden door een bevoegde autoriteit afgegeven nadat deze daarop het aansluitende volgnummer heeft aangebracht. Ieder volgend olie-afgifteboekje mag echter slechts na overleggen van het vorige boekje worden afgegeven. Het vorige boekje wordt op onuitwisbare wijze als „ongeldig“ gemerkt. Na het verkrijgen van een nieuw olie-afgifteboekje moet het voorgaande boekje gedurende tenminste zes maanden na de laatste daarin vermelde datum van afgifte aan boord worden bewaard.
 Page 3 et suivantes/Seite 3 und folgende/Bladzijde 3 en volgende
 
-Anlage 11 - Daten, die in das Inland AIS Gerät einzugeben sind: Erläuterungen des Navigationsstatus“ und des Bezugspunktes der Positionsinformation auf dem Fahrzeug“
+Anlage 11 - Daten, die in das Inland AIS Gerät einzugeben sind: Erläuterungen des „Navigationsstatus“ und des „Bezugspunktes der Positionsinformation auf dem Fahrzeug“
 
 (Fundstelle: BGBl. II 2015, 1020)
 - 1. :: Navigationsstatus

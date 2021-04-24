@@ -7,7 +7,7 @@ Ausfertigungsdatum: 13.02.1937
 Inhaltsübersicht
 
 Erster Teil: Das Amt des Notars
-
+ 
 1.
 Abschnitt:
 Bestellung zum Notar
@@ -24,7 +24,7 @@ Die Amtstätigkeit
 Abschnitt:
 Sonstige Pflichten des Notars
 §§ 25 bis 32
-
+ 
 (weggefallen)
 §§ 33 bis 37
 5.
@@ -40,7 +40,7 @@ Abschnitt:
 Allgemeine Vorschriften für das Verwaltungsverfahren
 § 64a
 Zweiter Teil: Notarkammern und Bundesnotarkammer
-
+ 
 1.
 Abschnitt:
 Notarkammern
@@ -50,7 +50,7 @@ Abschnitt:
 Bundesnotarkammer
 §§ 76 bis 91
 Dritter Teil: Aufsicht. Disziplinarverfahren
-
+ 
 1.
 Abschnitt:
 Aufsicht
@@ -172,7 +172,7 @@ Die Bestellung muß versagt werden, wenn der Bewerber weder nachweist, daß eine
 
 § 7g
 
-(1) Die Durchführung der Prüfung obliegt dem bei der Bundesnotarkammer errichteten Prüfungsamt für die notarielle Fachprüfung bei der Bundesnotarkammer“ (Prüfungsamt).
+(1) Die Durchführung der Prüfung obliegt dem bei der Bundesnotarkammer errichteten „Prüfungsamt für die notarielle Fachprüfung bei der Bundesnotarkammer“ (Prüfungsamt).
 (2) Das Prüfungsamt entscheidet über die Zulassung zur Prüfung, bestimmt die Prüfer einschließlich des weiteren Prüfers (§ 7b Abs. 2 Satz 5) sowie die Prüfungsausschüsse, setzt die Prüfungstermine fest, lädt die Prüflinge, stellt das Prüfungsergebnis fest, erteilt das Prüfungszeugnis, entscheidet über die Folgen eines Prüfungsverstoßes und über Widersprüche nach § 7d Abs. 2 Satz 1. Die näheren Einzelheiten regelt das Bundesministerium der Justiz und für Verbraucherschutz durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf.
 (3) Der Leiter des Prüfungsamtes vertritt das Amt im Zusammenhang mit der notariellen Fachprüfung im Verwaltungsverfahren und im gerichtlichen Verfahren. Der Leiter und sein ständiger Vertreter müssen die Befähigung zum Richteramt haben. Sie werden im Einvernehmen mit den Landesjustizverwaltungen, in deren Bereich Anwaltsnotare bestellt werden, nach Anhörung der Bundesnotarkammer durch das Bundesministerium der Justiz und für Verbraucherschutz für die Dauer von fünf Jahren bestellt. Eine erneute Bestellung ist möglich.
 (4) Bei dem Prüfungsamt wird eine Aufgabenkommission eingerichtet. Sie bestimmt die Aufgaben für die schriftliche Prüfung, entscheidet über die zugelassenen Hilfsmittel und erarbeitet Vorschläge für die mündlichen Prüfungen. Die Mitglieder der Aufgabenkommission müssen über eine der in Absatz 6 Satz 1 aufgeführten Qualifikationen verfügen. Sie werden von dem Leiter des Prüfungsamtes im Einvernehmen mit dem Verwaltungsrat für die Dauer von fünf Jahren bestellt. Eine erneute Bestellung ist möglich. Die Mitglieder der Aufgabenkommission erhalten für ihre Tätigkeit eine angemessene Vergütung.
@@ -385,7 +385,7 @@ Der Notar hat durch geeignete Vorkehrungen die Wahrung der Unabhängigkeit und U
 
 (1) Der Notar hat jedes gewerbliche Verhalten, insbesondere eine dem öffentlichen Amt widersprechende Werbung zu unterlassen.
 (2) Eine dem Notar in Ausübung seiner Tätigkeiten nach § 8 erlaubte Werbung darf sich nicht auf seine Tätigkeit als Notar erstrecken.
-(3) Ein Anwaltsnotar, der sich nach § 9 Absatz 2 mit nicht an seinem Amtssitz tätigen Personen verbunden hat oder der weitere Kanzleien oder Zweigstellen unterhält, darf auf Geschäftspapieren, in Verzeichnissen, in der Werbung und auf nicht an einer Geschäftsstelle befindlichen Geschäftsschildern seine Amtsbezeichnung als Notar nur unter Hinweis auf seinen Amtssitz angeben. Der Hinweis muss der Amtsbezeichnung unmittelbar nachfolgen, ihr im Erscheinungsbild entsprechen und das Wort Amtssitz“ enthalten. Satz 1 gilt nicht, soweit die Geschäftspapiere, die Verzeichnisse oder die Werbung keinen Hinweis auf die Verbindung nach § 9 Absatz 2 oder weitere Kanzleien oder Zweigstellen enthalten.
+(3) Ein Anwaltsnotar, der sich nach § 9 Absatz 2 mit nicht an seinem Amtssitz tätigen Personen verbunden hat oder der weitere Kanzleien oder Zweigstellen unterhält, darf auf Geschäftspapieren, in Verzeichnissen, in der Werbung und auf nicht an einer Geschäftsstelle befindlichen Geschäftsschildern seine Amtsbezeichnung als Notar nur unter Hinweis auf seinen Amtssitz angeben. Der Hinweis muss der Amtsbezeichnung unmittelbar nachfolgen, ihr im Erscheinungsbild entsprechen und das Wort „Amtssitz“ enthalten. Satz 1 gilt nicht, soweit die Geschäftspapiere, die Verzeichnisse oder die Werbung keinen Hinweis auf die Verbindung nach § 9 Absatz 2 oder weitere Kanzleien oder Zweigstellen enthalten.
 (4) Amts- und Namensschilder dürfen nur an Geschäftsstellen geführt werden.
 
 § 30
@@ -568,9 +568,9 @@ Eine strafgerichtliche Verurteilung hat für den Notar den Amtsverlust in gleich
 
 § 52
 
-(1) Mit dem Erlöschen des Amtes erlischt die Befugnis, die Bezeichnung Notar“ oder Notarin“ zu führen. Die Bezeichnung darf auch nicht mit einem auf das Erlöschen des Amtes hinweisenden Zusatz geführt werden.
+(1) Mit dem Erlöschen des Amtes erlischt die Befugnis, die Bezeichnung „Notar“ oder „Notarin“ zu führen. Die Bezeichnung darf auch nicht mit einem auf das Erlöschen des Amtes hinweisenden Zusatz geführt werden.
 (2) Ist das Amt eines zur hauptberuflichen Amtsausübung bestellten Notars durch Entlassung (§ 48), wegen Erreichens der Altersgrenze (§ 48a) oder durch Amtsenthebung aus den in § 50 Abs. 1 Nr. 7 bezeichneten Gründen erloschen, so kann die Landesjustizverwaltung dem früheren Notar die Erlaubnis erteilen, seine Amtsbezeichnung mit dem Zusatz "außer Dienst (a.D.)" weiterzuführen. Das gleiche gilt für einen Anwaltsnotar, wenn sein Amt durch Entlassung (§ 48) oder wegen Erreichens der Altersgrenze (§ 48a) erloschen ist oder ihm nach Verzicht auf die Rechte aus der Zulassung zur Rechtsanwaltschaft die Erlaubnis erteilt worden ist, sich weiterhin Rechtsanwalt zu nennen.
-(3) Die Landesjustizverwaltung kann die Erlaubnis zur Führung der Bezeichnung Notar auNotarin außer Dienst“ zurücknehmen oder widerrufen, wenn nachträglich Umstände bekannt werden oder eintreten, die bei einem Notar das Erlöschen des Amtes aus den in § 47 Nummer 5 und 7 oder in § 50 Abs. 1 Nr. 1 bis 6, 8 und 9 bezeichneten Gründen nach sich ziehen würden. Ist der frühere Notar zur Rechtsanwaltschaft zugelassen, so erlischt die Befugnis nach Absatz 2 Satz 1, wenn er sich nach dem Wegfall seiner Zulassung nicht weiterhin Rechtsanwalt nennen darf.
+(3) Die Landesjustizverwaltung kann die Erlaubnis zur Führung der Bezeichnung „Notar außer Dienst“ oder „Notarin außer Dienst“ zurücknehmen oder widerrufen, wenn nachträglich Umstände bekannt werden oder eintreten, die bei einem Notar das Erlöschen des Amtes aus den in § 47 Nummer 5 und 7 oder in § 50 Abs. 1 Nr. 1 bis 6, 8 und 9 bezeichneten Gründen nach sich ziehen würden. Ist der frühere Notar zur Rechtsanwaltschaft zugelassen, so erlischt die Befugnis nach Absatz 2 Satz 1, wenn er sich nach dem Wegfall seiner Zulassung nicht weiterhin Rechtsanwalt nennen darf.
 
 § 53
 
@@ -1378,7 +1378,7 @@ Notarkammern außerhalb der Tätigkeitsbereiche der Notarkasse und Ländernotark
 § 114
 
 (1) Im Land Baden-Württemberg werden Notare nach § 3 Absatz 1 bestellt. Ergänzend gelten dort die besonderen Vorschriften der Absätze 2 bis 7.
-(2) Wer am 31. Dezember 2017 als Notar im Landesdienst oder als Notarvertreter im Sinne des baden-württembergischen Landesgesetzes über die freiwillige Gerichtsbarkeit vom 12. Februar 1975 (Gesetzblatt für Baden-Württemberg S. 116), das zuletzt durch Artikel 4 des Gesetzes vom 21. April 2015 (Gesetzblatt für Baden-Württemberg S. 281) geändert worden ist, in der am 31. Dezember 2017 geltenden Fassung bei den Abteilungen Beurkundung und vorsorgende Rechtspflege“ der staatlichen Notariate tätig war und mit Ablauf des 31. Dezember 2017 auf eigenen Antrag aus dem Landesdienst entlassen wurde, gilt als am 1. Januar 2018 zum Notar im Sinne des § 3 Absatz 1 bestellt. Die Landesjustizverwaltung erteilt als Nachweis über die Bestellung eine Bestallungsurkunde. § 13 gilt entsprechend.
+(2) Wer am 31. Dezember 2017 als Notar im Landesdienst oder als Notarvertreter im Sinne des baden-württembergischen Landesgesetzes über die freiwillige Gerichtsbarkeit vom 12. Februar 1975 (Gesetzblatt für Baden-Württemberg S. 116), das zuletzt durch Artikel 4 des Gesetzes vom 21. April 2015 (Gesetzblatt für Baden-Württemberg S. 281) geändert worden ist, in der am 31. Dezember 2017 geltenden Fassung bei den Abteilungen „Beurkundung und vorsorgende Rechtspflege“ der staatlichen Notariate tätig war und mit Ablauf des 31. Dezember 2017 auf eigenen Antrag aus dem Landesdienst entlassen wurde, gilt als am 1. Januar 2018 zum Notar im Sinne des § 3 Absatz 1 bestellt. Die Landesjustizverwaltung erteilt als Nachweis über die Bestellung eine Bestallungsurkunde. § 13 gilt entsprechend.
 (3) Die Notare nach Absatz 2 führen die notariellen Geschäfte aus den von ihnen am 31. Dezember 2017 geleiteten Referaten und Abteilungen der staatlichen Notariate in ihrer Eigenschaft als nach § 3 Absatz 1 bestellter Notar fort. Das Land Baden-Württemberg bleibt nach den bisherigen landesrechtlichen Vorschriften einschließlich der Überleitungsvorschriften an den Kostenforderungen insoweit berechtigt, als ein Notar im Verhältnis zu einem Notariatsverwalter nach § 58 Absatz 2 Satz 2 berechtigt wäre. Die Notare nach Absatz 2 übernehmen die notariellen Akten und Bücher sowie die amtlich übergebenen Urkunden und Wertgegenstände, die in diesen Referaten und Abteilungen geführt oder die ihnen übergeben wurden. Die Notare nach Absatz 2 können bis zum 31. Dezember 2019 vollständige Jahrgänge von Akten und Büchern sowie hierzu amtlich übergebene Urkunden, die sie zur Wahrnehmung ihrer Aufgaben nicht mehr benötigen, gemäß § 51 Absatz 1 in Verwahrung geben.
 (4) Die am 31. Dezember 2017 noch nicht abgeschlossenen notariellen Geschäfte der Referate und Abteilungen der staatlichen Notariate, die nicht nach Absatz 3 fortgeführt werden, werden von Notariatsabwicklern abgewickelt. Die näheren Bestimmungen zum Amt des Notariatsabwicklers ergeben sich aus Landesrecht.
 (5) Personen, die am 31. Dezember 2017 zum Notar im Landesdienst bestellt waren oder die Voraussetzungen für die Ernennung zum Bezirksnotar erfüllten und sich um eine Bestellung zum Notar nach § 3 Absatz 1 bewerben, stehen Bewerbern gleich, die einen dreijährigen Anwärterdienst als Notarassessor geleistet haben und sich im Anwärterdienst des Landes Baden-Württemberg befinden. § 5 Satz 1 gilt insoweit nicht. § 6 Absatz 3 Satz 1 und 2 gilt mit der Maßgabe, dass auch der berufliche Werdegang der Bewerber zu berücksichtigen ist, vor allem die im Justizdienst des Landes erbrachten Leistungen.

@@ -6,13 +6,13 @@ Ausfertigungsdatum: 21.03.2013
 
 Inhaltsübersicht
 
-
-
-
+ 
+ 
+ 
 
 § 1 - Zweck und Begriffsbestimmungen (zu Artikel 1 IGV)
 
-(1) Dieses Gesetz dient der Durchführung der Internationalen Gesundheitsvorschriften (2005) (IGV) (BGBl. 2007 II S. 930, 932). Sie werden in diesem Gesetz als IGV“ bezeichnet.
+(1) Dieses Gesetz dient der Durchführung der Internationalen Gesundheitsvorschriften (2005) (IGV) (BGBl. 2007 II S. 930, 932). Sie werden in diesem Gesetz als „IGV“ bezeichnet.
 (2) Im Sinne dieses Gesetzes
 
 - 1. :: ist Abreise im Hinblick auf Personen, Gepäckstücke, Frachtstücke, Güter oder Beförderungsmittel das Verlassen eines Hoheitsgebiets;
@@ -404,7 +404,7 @@ Anlage 1a - (zu § 17 Absatz 3)Aussteigekarte für Reisende/Passenger Locator Ca
 Anlage 2 - (zu § 18 Absatz 6 und § 19 Absatz 7)Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2017, 2634 -- 2635)
-
+ 
 
 - 1. :: | Die Gebühr für individuell zurechenbare öffentliche Leistungen nach § 18 Absatz 1 bis 5\\     | 75 Euro. |
         | (Erteilung der freien Verkehrserlaubnis) beträgt, wenn die gesundheitlichen Verhältnisse an\\ |          |

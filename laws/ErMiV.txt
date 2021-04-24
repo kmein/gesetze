@@ -132,16 +132,16 @@ Im Falle des Satzes 1 Nummer 5 Buchstabe c ist die Vermehrung auch dann zulässi
 
 (1) Saatgut einer Erhaltungsmischung darf nur in Packungen in den Verkehr gebracht werden, auf denen sich ein Herstelleretikett, ein Aufdruck oder ein Stempel mit folgenden Angaben befindet:
 
-- 1. :: die Angabe EU-Norm“,
+- 1. :: die Angabe „EU-Norm“,
 - 2. :: Name und Anschrift des Herstellers,
-- 3. :: je nach Erntemethode die Angabe direkt geerntete Mischung“ oder angebaute Mischung“,
-- 4. :: das Jahr der Verschlieverschlossen ... “,
+- 3. :: je nach Erntemethode die Angabe „direkt geerntete Mischung“ oder „angebaute Mischung“,
+- 4. :: das Jahr der Verschließung mit der Angabe „verschlossen ... “,
 - 5. :: die Ursprungsgebiete,
 - 6. :: das Quellgebiet,
 - 7. :: den Entnahmeort,
-- 8. :: die Angabe Erhaltungsmischung“,
+- 8. :: die Angabe „Erhaltungsmischung“,
 - 9. :: die Erhaltungsmischungsnummer,
-- 10. :: den Hinweis enthält Saatgut einer Erhaltungssorte“, sofern eine angebaute Mischung Saatgut von Erhaltungssorten der in Nummer 1.2 der Anlage zur Verordnung über das Artenverzeichnis zum Saatgutverkehrsgesetz aufgeführten Pflanzenarten enthält,
+- 10. :: den Hinweis „enthält Saatgut einer Erhaltungssorte“, sofern eine angebaute Mischung Saatgut von Erhaltungssorten der in Nummer 1.2 der Anlage zur Verordnung über das Artenverzeichnis zum Saatgutverkehrsgesetz aufgeführten Pflanzenarten enthält,
 - 11. :: die prozentuale Zusammensetzung (Gewichtsprozent) der Mischung; bei direkt geernteten Mischungen genügt es, die Arten oder Unterarten anzugeben, die als Bestandteil der Mischung für den Lebensraum am Entnahmeort typisch sind,
 - 12. :: angegebenes Netto- oder Bruttogewicht,
 - 13. :: bei Angaben des Gewichtes und im Falle der Verwendung von granulierten Pflanzenschutzmitteln, Granulierungsstoffen oder anderen festen Zusätzen, die Art des Zusatzstoffes und das ungefähre Verhältnis zwischen dem Gewicht des reinen Saatgutes und dem Gesamtgewicht,
@@ -218,4 +218,4 @@ Unterbayerische Hügel- und Plattenregion
 Südliches Alpenvorland
 18
 Nördliche Kalkalpen
-Quelle, S. 26-28 aus: Prasse, R., Kunzmann, D. & R. Schröder (2010): Entwicklung und praktische Umsetzung naturschutzfachlicher Mindestanforderungen an einen Herkunftsnachweis für gebietseigenes Wildpflanzensaatgut krautiger Pflanzen. Abschlussbericht eines von der DBU finanziell geförderten Forschungsprojekts des Instituts für Umweltplanung der Gottlieb Wilhelm Leibniz Universität Hannover in Kooperation mit dem Verband deutscher Wildsamen- und Wildpflanzenproduzenten e. V., unveröffentlichtes Manuskript, 166 S.“
+Quelle, S. 26-28 aus: „Prasse, R., Kunzmann, D. & R. Schröder (2010): Entwicklung und praktische Umsetzung naturschutzfachlicher Mindestanforderungen an einen Herkunftsnachweis für gebietseigenes Wildpflanzensaatgut krautiger Pflanzen. Abschlussbericht eines von der DBU finanziell geförderten Forschungsprojekts des Instituts für Umweltplanung der Gottlieb Wilhelm Leibniz Universität Hannover in Kooperation mit dem Verband deutscher Wildsamen- und Wildpflanzenproduzenten e. V., unveröffentlichtes Manuskript, 166 S.“

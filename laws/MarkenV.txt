@@ -11,19 +11,19 @@ Auf Grund des § 65 Abs. 1 Nr. 2 bis 10 und 13 sowie des § 138 Abs. 1 des Marke
 Inhaltsübersicht
 
 Teil 1
-
+ 
 Anwendungsbereich
 § 1
 Verfahren in Markenangelegenheiten
 Teil 2
-
+ 
 Verfahren bis zur Eintragung
-
-
+ 
+ 
 Abschnitt 1
-
-
-
+ 
+ 
+ 
 Anmeldungen
 § 2
 Form der Anmeldung
@@ -65,12 +65,12 @@ Fremdsprachige Dokumente
 Berufung auf eine im Ursprungsland eingetragene Marke
 § 18
 Verschiebung des Zeitrangs bei Verkehrsdurchsetzung
-
-
+ 
+ 
 Abschnitt 2
-
-
-
+ 
+ 
+ 
 Klasseneinteilung von Waren und Dienstleistungen
 § 19
 Klassifizierung
@@ -80,17 +80,17 @@ Verzeichnis der Waren und Dienstleistungen
 Entscheidung über die Klassifizierung
 § 22
 (weggefallen)
-
-
+ 
+ 
 Abschnitt 3
-
-
-
+ 
+ 
+ 
 Veröffentlichung der Anmeldung
 § 23
 Veröffentlichungen zur Anmeldung
 Teil 3
-
+ 
 Register, Urkunde, Veröffentlichung
 § 24
 Ort und Form des Registers
@@ -103,14 +103,14 @@ Veröffentlichungen zu Eintragungen im Register
 § 28
 (weggefallen)
 Teil 4
-
+ 
 Einzelne Verfahren
-
-
+ 
+ 
 Abschnitt 1
-
-
-
+ 
+ 
+ 
 Widerspruchsverfahren
 § 29
 Form des Widerspruchs
@@ -120,12 +120,12 @@ Inhalt des Widerspruchs
 Gemeinsame Entscheidung über mehrere Widersprüche
 § 32
 Aussetzung
-
-
+ 
+ 
 Abschnitt 2
-
-
-
+ 
+ 
+ 
 Teilübergang, Teilung von Anmeldungen und Eintragungen
 § 33
 Teilübergang einer eingetragenen Marke
@@ -135,45 +135,45 @@ Rechtsübergang, dingliche Rechte, Insolvenzverfahren und Maßnahmen der Zwangsv
 Teilung von Anmeldungen
 § 36
 Teilung von Eintragungen
-
-
+ 
+ 
 Abschnitt 3
-
-
-
+ 
+ 
+ 
 Verlängerung
 § 37
 Verlängerung durch Gebührenzahlung
 § 38
 Antrag auf teilweise Verlängerung
-
-
+ 
+ 
 Abschnitt 4
-
-
-
+ 
+ 
+ 
 Verzicht
 § 39
 Verzicht
 § 40
 Zustimmung Dritter
-
-
+ 
+ 
 Abschnitt 5
-
-
-
+ 
+ 
+ 
 Löschung
 § 41
 Verfall
 § 42
 Nichtigkeit wegen absoluter Schutzhindernisse und älterer Rechte
-
-
+ 
+ 
 Abschnitt 6
-
-
-
+ 
+ 
+ 
 Lizenz
 § 42a
 Eintragung einer Lizenz
@@ -182,7 +182,7 @@ Eintragung einer Lizenz
 § 42c
 Erklärung der Lizenzierungs- oder Veräußerungsbereitschaft
 Teil 5
-
+ 
 Internationale Registrierungen
 § 43
 Anträge und sonstige Mitteilungen im Verfahren der internationalen Registrierung nach dem Madrider Markenabkommen
@@ -193,14 +193,14 @@ Anträge und sonstige Mitteilungen im Verfahren der internationalen Registrierun
 § 46
 Schutzverweigerung
 Teil 6
-
+ 
 Verfahren nach der Verordnung (EU) Nr. 1151/2012
-
-
+ 
+ 
 Abschnitt 1
-
-
-
+ 
+ 
+ 
 Eintragungsverfahren
 § 47
 Eintragungsantrag
@@ -208,23 +208,23 @@ Eintragungsantrag
 Veröffentlichung des Antrags
 § 49
 Nationaler Einspruch
-
-
+ 
+ 
 Abschnitt 2
-
-
-
+ 
+ 
+ 
 Zwischenstaatliches Einspruchsverfahren nach § 131 des Markengesetzes
 § 50
 Einspruch
 § 51
 Einspruchsverfahren
-
-
+ 
+ 
 Abschnitt 3
-
-
-
+ 
+ 
+ 
 Änderungen der Spezifikation; Löschung; Akteneinsicht
 § 52
 Änderungen der Spezifikation
@@ -235,7 +235,7 @@ Akteneinsicht
 § 55
 (weggefallen)
 Teil 7
-
+ 
 Schlussvorschriften
 § 56
 Übergangsregelung aus Anlass des Inkrafttretens dieser Verordnung
@@ -330,7 +330,7 @@ Wenn der Anmelder angibt, dass die Marke in der vom Deutschen Patent- und Marken
 (2) Die Darstellung der Marke muss auf Papier dauerhaft wiedergegeben und in Farbtönen und Ausführung so beschaffen sein, dass sie die Bestandteile der Marke in allen Einzelheiten deutlich erkennen lässt. Überklebungen, Durchstreichungen und mit nicht dauerhafter Farbe hergestellte Überdeckungen sind unzulässig.
 (3) Für die Darstellung der Marke soll das vom Deutschen Patent- und Markenamt herausgegebene Formblatt verwendet werden, auf das die Darstellung der Marke aufzudrucken oder aufzukleben ist. Die Darstellung der Marke darf nicht kleiner als 8 Zentimeter in der Breite oder 8 Zentimeter in der Höhe sein. In dem für die Darstellung der Marke vorgesehenen Feld dürfen sich lediglich die Markendarstellung und die Angaben nach Absatz 5 befinden. Sonstiger erläuternder Text, erläuternde Bezeichnungen, Symbole oder Bemaßungen dürfen in dem Wiedergabefeld nicht enthalten sein.
 (4) Wird für die Darstellung der Marke das Formblatt nach Absatz 3 nicht verwendet, so muss ein Blatt im Format 21 x 29,7 Zentimeter (DIN-A4) verwendet werden. Die für die Darstellung benutzte Fläche (Satzspiegel) darf nicht größer als 26,2 x 17 Zentimeter und nicht kleiner als 8 Zentimeter in der Breite oder 8 Zentimeter in der Höhe sein. Das Blatt ist nur einseitig zu bedrucken. Vom oberen und vom linken Seitenrand jedes Blattes ist ein Randabstand von mindestens 2,5 Zentimetern einzuhalten.
-(5) Die richtige Stellung der Marke ist durch den Vermerk oben“ abgesetzt oberhalb der Darstellung zu kennzeichnen, soweit sich dies nicht von selbst ergibt.
+(5) Die richtige Stellung der Marke ist durch den Vermerk „oben“ abgesetzt oberhalb der Darstellung zu kennzeichnen, soweit sich dies nicht von selbst ergibt.
 (6) § 6a bleibt unberührt.
 (+++ § 8: Zur Anwendung vgl. §§ 12 Abs. 2, 12a Abs. 2 +++)\\
 (+++ § 8 Abs. 2 bis 6: Zur Anwendung vgl. §§ 9 Abs. 4, 10 Abs. 3, 11 Abs. 3 +++)

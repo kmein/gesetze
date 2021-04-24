@@ -469,7 +469,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 - 2 :: Begriffsbestimmungen
   Im Sinne dieses Teils ist
 - 2.1 :: Fahrgastschiff: ein Schiff, das mehr als 12 Fahrgäste befördert oder das für die Beförderung von mehr als 12 Fahrgästen zugelassen ist;
-- 2.2 :: Neues Fahrgastschiff: ein Schiff, dessen Kiel am oder nach dem 1. Juli 1998 gelegt worden ist oder das sich zu dem genannten Zeitpunkt in einem entsprechenden Bauzustand befand; der Ausdruck entsprechender Bauzustand“ bezeichnet den Zustand, der den Baubeginn eines bestimmten Schiffes oder Fahrzeuges erkennen lässt und in dem die Montage des Schiffes unter Verwendung von mindestens 50 t oder von 1 % des geschätzten Gesamtbedarfs an Baumaterial begonnen hat, je nachdem, welcher Wert kleiner ist;
+- 2.2 :: Neues Fahrgastschiff: ein Schiff, dessen Kiel am oder nach dem 1. Juli 1998 gelegt worden ist oder das sich zu dem genannten Zeitpunkt in einem entsprechenden Bauzustand befand; der Ausdruck „entsprechender Bauzustand“ bezeichnet den Zustand, der den Baubeginn eines bestimmten Schiffes oder Fahrzeuges erkennen lässt und in dem die Montage des Schiffes unter Verwendung von mindestens 50 t oder von 1 % des geschätzten Gesamtbedarfs an Baumaterial begonnen hat, je nachdem, welcher Wert kleiner ist;
 - 2.3 :: Vorhandenes Fahrgastschiff: ein Schiff, das kein neues Schiff ist;
 - 2.4 :: Fahrgast: jede Person mit Ausnahme
   - a) :: des Kapitäns und der Mitglieder der Schiffsbesatzung oder anderer Personen, die in irgendeiner Eigenschaft an Bord eines Schiffes für dessen Belange angestellt, beschäftigt oder sonst tätig sind, und
@@ -500,7 +500,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 - 4.1 :: Die Berufsgenossenschaft erteilt ein Sicherheitszeugnis für Fahrgastschiffe, wenn eine Besichtigung die Übereinstimmung mit den anwendbaren Vorschriften dieses Teils ergeben hat. Das Zeugnis muss an Bord der Schiffe mitgeführt werden.
 - 4.2 :: Für die zu erteilenden Schiffssicherheitszeugnisse gelten folgende Anforderungen:
   - a) :: das Fahrgastschiff muss nach Maßgabe des Artikels 12 der Richtlinie 2009/45/EG besichtigt werden;
-  - b) :: das Zeugnis trägt die Bezeichnung Sicherheitszeugnis für Fahrgastschiffe“;
+  - b) :: das Zeugnis trägt die Bezeichnung „Sicherheitszeugnis für Fahrgastschiffe“;
   - c) :: das Zeugnis muss den Anforderungen nach Artikel 13 der Richtlinie 2009/45/EG entsprechen;
   - d) :: im Falle eines Bäderbootes wird das Zeugnis nur für die Sommermonate ausgestellt;
   - e) :: im Falle eines Bäderbootes oder eines Sportanglerfahrzeuges kann das Zeugnis nicht erneuert werden, wenn seit dem Ablauf der Gültigkeit des letzten Zeugnisses mehr als ein Jahr vergangen ist.
@@ -946,8 +946,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 - 1. :: Begriffsbestimmungen
 - 1.1 :: Die nachfolgenden Vorschriften verwenden die gleichen Begriffe, wie sie im SOLAS-Übereinkommen aufgeführt sind, jedoch mit folgenden Ausnahmen:
-  - a) :: Räume, welche die Hauptantriebsanlage enthalten, sind als Hauptmaschinenräume“ bezeichnet.
-  - b) :: Alle anderen Räume, die maschinelle Anlagen enthalten, sind als Hilfsmaschinenräume“ bezeichnet.
+  - a) :: Räume, welche die Hauptantriebsanlage enthalten, sind als „Hauptmaschinenräume“ bezeichnet.
+  - b) :: Alle anderen Räume, die maschinelle Anlagen enthalten, sind als „Hilfsmaschinenräume“ bezeichnet.
 - 1.2 :: Sind Maschinenräume und Kesselräume nicht vollständig voneinander getrennt, so sind sie als zusammenhängender Maschinen- und Kesselraum anzusehen.
 - 2. :: Bauausführung
 - 2.1 :: Allgemeines
@@ -1080,7 +1080,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 - 9. :: Wasser-Feuerlöschanlage
 - 9.1 :: Feuerlöschpumpen
 - 9.1.1 :: Es muss wenigstens eine maschinell angetriebene, vom Hauptantrieb unabhängige Feuerlöschpumpe vorhanden sein.
-- 9.1.2 :: Ist die Feuerlöschpumpe im Hauptmaschinenraum fest eingebaut, so muss eine weitere maschinell angetriebene Pumpe zur Lieferung von Löschwasser auNotfeuerlöschpumpe“). Der Antrieb dieser Pumpe muss vom Hauptmaschinenraum unabhängig sein. Eine geeignete Tragkraftspritze kann hierfür verwendet werden.
+- 9.1.2 :: Ist die Feuerlöschpumpe im Hauptmaschinenraum fest eingebaut, so muss eine weitere maschinell angetriebene Pumpe zur Lieferung von Löschwasser außerhalb dieses Raumes vorhanden sein („Notfeuerlöschpumpe“). Der Antrieb dieser Pumpe muss vom Hauptmaschinenraum unabhängig sein. Eine geeignete Tragkraftspritze kann hierfür verwendet werden.
 - 9.1.3 :: Sanitär-, Ballast-, Lenz- oder allgemeine Betriebspumpen können als Feuerlöschpumpe verwendet werden. Pumpen, die ständig oder gelegentlich der Ölförderung dienen, gelten nicht als Feuerlöschpumpen und dürfen keine Verbindung zum Feuerlöschsystem haben.
 - 9.1.4 :: Feuerlöschpumpen sind auf der Druckseite mit einem absperrbaren Rückschlagventil zu versehen.
 - 9.2 :: Volumendurchfluss
@@ -1451,7 +1451,7 @@ Die Muster eines Sicherheitszeugnisses für Traditionsschiffe, eines vorläufige
   - 13. :: Küstennähe: eine Entfernung von nicht mehr als 5 Seemeilen bei mittlerem Hochwasser von der Küstenlinie;
   - 14. :: Inlandfahrt: eine Fahrt in Seegebieten von einem deutschen Hafen zu demselben oder einem anderen deutschen Hafen;
   - 15. :: Auslandfahrt: die Fahrt von einem deutschen Hafen zu einem Hafen außerhalb Deutschlands oder umgekehrt;
-  - 16. :: Neues Schiff: ein Schiff, dessen Kiel am oder nach dem 1. Oktober 2015 gelegt wurde oder das sich zu dem genannten Zeitpunkt in einem entsprechenden Bauzustand befand; der Ausdruck entsprechender Bauzustand“ bezeichnet den Zustand,
+  - 16. :: Neues Schiff: ein Schiff, dessen Kiel am oder nach dem 1. Oktober 2015 gelegt wurde oder das sich zu dem genannten Zeitpunkt in einem entsprechenden Bauzustand befand; der Ausdruck „entsprechender Bauzustand“ bezeichnet den Zustand,
     - a) :: der den Baubeginn eines bestimmten Schiffes oder Fahrzeugs erkennen lässt, und
     - b) :: in dem die Montage des Schiffes unter Verwendung von mindestens 50 t oder von 1 % des geschätzten Gesamtbedarfs an Baumaterial begonnen hat, je nachdem, welcher Wert kleiner ist;
   - 17. :: Vorhandenes Schiff: ein Schiff, das kein neues Schiff ist;
@@ -1805,7 +1805,7 @@ Motordrehzahl
 
 i
 
-
+ 
 
 Getriebeuntersetzung (z. B. i = 4 : 1, entspricht i = 4)
 
@@ -1813,7 +1813,7 @@ C-Werte
 
 Aus nachstehender Tabelle:
 
-
+ 
 
 C
 
@@ -1952,7 +1952,7 @@ Akkumulatoren sind in gut be- und entlüfteten Kästen, Schränken oder Räumen 
 - 2.6 :: Auf der Brücke müssen alle wichtigen Bedienungs- und Überwachungseinrichtungen für die Hauptantriebsanlagen, der dazugehörigen Aggregate sowie der sonstigen betriebswichtigen Anlagen installiert sein.
 - 2.7 :: Für die Schleppwinden sind Fahrstände auf der Brücke und für Storewinden auf der Brücke und an Deck vorzusehen. Die Fahrstände sind mit Bedienungs- und Überwachungselementen auszurüsten.
 - 2.8 :: Es müssen zwei unabhängig voneinander wirkende Vorrichtungen vorhanden sein, die das Slippen des Schlepphakens oder die Entriegelung der Schleppwinde ermöglichen. Eine dieser Vorrichtungen muss auch bei Betriebsstörungen funktionsfähig bleiben. Es sind Einrichtungen vorzusehen, um Schlepphaken und Winde von der Brücke und von Deck schnell auszulösen. Sind die Schlepper mit einem hydraulischen Schlepphaken ausgerüstet, genügt ein Auslösesystem. Auslöseelemente für den Schlepphaken müssen auf der Brücke und an Deck angeordnet sein.
-- 2.9 :: Eine Einstiegspforte ist auf jeder Seite in der Verschanzung vorzusehen, damit bei Mensch-über-Bord“ Hilfe geleistet werden kann.
+- 2.9 :: Eine Einstiegspforte ist auf jeder Seite in der Verschanzung vorzusehen, damit bei „Mensch-über-Bord“ Hilfe geleistet werden kann.
 - 3. :: Behördenfahrzeuge
   Für Behördenfahrzeuge kann die Berufsgenossenschaft Ausnahmen von den nach diesem Teil einzuhaltenden Anforderungen zulassen, soweit dies zur Erfüllung hoheitlicher Aufgaben geboten ist.
 - 4. :: Wasserfahrzeuge ohne eigenen Antrieb
@@ -2051,7 +2051,7 @@ Die Muster folgender Zeugnisse und Bescheinigungen werden nach dieser Verordnung
   - 4. :: Schwimmbagger: ein bemanntes Schiff mit Eigenantrieb, das zum Laden von Baggergut auf See geeignet und mit Bodenklappen ausgestattet oder aufklappbar ist;
   - 5. :: Kleinfahrzeug: ein Frachtschiff bis zu einer Bruttoraumzahl von 100;
   - 6. :: Arbeitsboot: ein offenes oder teilgedecktes Fahrzeug zum Transport-, Rettungs-, Berge- und Arbeitseinsatz und ähnlichen Einsatzzwecken in begrenztem Umfang und auf kurzen Strecken in Küstennähe oder als Beiboot in Sichtweite des Mutterschiffs;
-  - 7. :: Neues Schiff: ein Schiff, dessen Kiel am oder nach dem 1. Oktober 2015 gelegt wurde oder das sich zu dem genannten Zeitpunkt in einem entsprechenden Bauzustand befand. Der Ausdruck entsprechender Bauzustand“ bezeichnet den Zustand,
+  - 7. :: Neues Schiff: ein Schiff, dessen Kiel am oder nach dem 1. Oktober 2015 gelegt wurde oder das sich zu dem genannten Zeitpunkt in einem entsprechenden Bauzustand befand. Der Ausdruck „entsprechender Bauzustand“ bezeichnet den Zustand,
     - a) :: der den Baubeginn eines bestimmten Schiffes oder Fahrzeugs erkennen lässt und
     - b) :: in dem die Montage des Schiffes unter Verwendung von mindestens 50 t oder von 1 % des geschätzten Gesamtbedarfs an Baumaterial begonnen hat, je nachdem, welcher Wert kleiner ist;
   - 8. :: Vorhandenes Schiff: ein Schiff, das kein neues Schiff ist;
@@ -2097,7 +2097,7 @@ Die Muster folgender Zeugnisse und Bescheinigungen werden nach dieser Verordnung
 - 9. :: Zeugnismuster
   Das Muster des Nationalen Freibordzeugnisses wird nach dieser Verordnung im Verkehrsblatt bekannt gemacht.
 
-Anhang: Freibordanforderungen und Ausführungen von Verschlüssen bezogen auf die Schiffslänge L“
+Anhang: Freibordanforderungen und Ausführungen von Verschlüssen bezogen auf die Schiffslänge „L“
 
 Schiffsöffnung
 
@@ -2208,7 +2208,7 @@ Der Freibord ist gemäß der internationalen Freibordkonvention (ICLL 1966/88) i
 
 Mindestbughöhe (Reg.[[#FnA2-F799100_13][c]]} 39)
 
-
+ 
 
 Die Mindestbughöhe ist gemäß den Anforderungen der internationalen Freibordkonvention (ICLL 1966/88) zu ermitteln. Im Bereich der nationalen Fahrt kann die erforderliche Bughöhe um maximal 50 % reduziert werden.
 
@@ -2725,12 +2725,12 @@ Erläuterungen
 - 4.2 :: Anforderungen an das Füll- und Ergänzungswasser
   Die Füll- und Ergänzungswasser sollen so aufbereitet sein, dass sie frei von Erdalkalien (Härte) sind. Dies ist ggf. durch geeignete Maßnahmen sicherzustellen.
 - 5. :: Überwachung der Wasserqualität
-  Die Einhaltung der in diesem Teil gestellten Anforderungen ist nach innerbetrieblicher Anweisung zu überwachen. Dies geschieht entweder kontinuierlich und registrierend oder diskontinuierlich (siehe Spalte Überwachung“ in den Tafeln 1 bis 6). Diskontinuierliche Messungen sind in regelmäßigen Zeitabständen gemäß Betriebsanweisung durchzuführen.
+  Die Einhaltung der in diesem Teil gestellten Anforderungen ist nach innerbetrieblicher Anweisung zu überwachen. Dies geschieht entweder kontinuierlich und registrierend oder diskontinuierlich (siehe Spalte „Überwachung“ in den Tafeln 1 bis 6). Diskontinuierliche Messungen sind in regelmäßigen Zeitabständen gemäß Betriebsanweisung durchzuführen.
   Die Ergebnisse sind schriftlich festzuhalten.
 
 - Tafel 1 :: Anforderungen an salzfreies<<FnR.FnA3-F799100_25>>[[#FnA3-F799100_25][1]]} Speisewasser für Durchlauf-Dampferzeuger
 
-
+ 
 
 Einheit
 
@@ -2747,13 +2747,13 @@ Bemerkungen
 
 Konditionierung mit flüchtigen Alkalisierungsmitteln
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 Bei den Leitfähigkeitsgrenzwerten für kurzzeitig zulässige Abweichungen wird vorausgesetzt, dass die Leitfähigkeitserhöhung durch Kohlensäure verursacht wird.\\
 Nach kurzer Betriebszeit muss eine fallende Tendenz der Leitfähigkeitswerte eintreten.
@@ -2762,9 +2762,9 @@ Leitfähigkeit bei 25 °C hinter starksaurem Kationenaustauscher
 
 μS/cm
 
-< 0,2
+< 0,2 
 
-< 5,0
+< 5,0 
 
 kontinuierlich, registrierend
 
@@ -2772,9 +2772,9 @@ pH-Wert bei 25 °C
 
 --
 
-> 9,0
+> 9,0 
 
-> 6,5
+> 6,5 
 
 registrierend, ggf. über Hilfsgrößen
 
@@ -2790,13 +2790,13 @@ diskontinuierlich
 
 Konditionierung mit Oxidationsmitteln
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 Leitfähigkeit bei 25 °C ohne starksauren\\
 Kationenaustauscher
@@ -2813,7 +2813,7 @@ Leitfähigkeit bei 25 °C hinter starksaurem Kationenaustauscher
 
 μS/cm
 
-< 0,2
+< 0,2 
 
 < 1,0
 
@@ -2842,13 +2842,13 @@ kontinuierlich, registrierend
 
 Konditionierung mit Ammoniak und Sauerstoff
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 Leitfähigkeit bei 25 °C hinter starksaurem Kationenaustauscher
 
@@ -2886,7 +2886,7 @@ kontinuierlich, registrierend
 
 - Tafel 2 :: Anforderungen an salzfreies[[#FnA4-F799100_25][1]]} Speisewasser für Umlauf- und Großwasserraum-Dampferzeuger
 
-
+ 
 
 Einheit
 
@@ -2940,7 +2940,7 @@ diskontinuierlich
 
 - Tafel 3 :: Anforderungen an das Kesselwasser von Umlauf- und Großwasserraum-Dampferzeugern bei salzfreiem[[#FnA7-F799100_25][1]]} Speisewasser
 
-
+ 
 
 Einheit
 
@@ -3012,7 +3012,7 @@ pH-Wert bis 25 °C\\
 diskontinuierlich, ggf. über Hilfs-\\
 größen
 
-
+ 
 
 - <<FnA5-F799100_26>>[[#FnR.FnA5-F799100_26][*]] :: Alternativ ist die Anwendung ausschließlich flüchtiger Alkalisierungsmittel möglich, wenn die Speisewasserrichtwerte nach Tafel 2 sowie eine Kesselwasserleitfähigkeit < 3 µS/cm hinter dem Kationenaustauscher eingehalten wird.
 
@@ -3077,7 +3077,7 @@ wasser
 diskontinuierlich, ggf. über Hilfs-\\
 größen
 
-
+ 
 
 - <<FnA9-F799100_28>>[[#FnR.FnA9-F799100_28][*]] :: Bei salzarmem Speisewasser ist eine Phosphatkonzentration von 7,5 bis 15 mg/l PO_{4}, in der Regel durch Trinariumphosphat, einzustellen. Wenn der Mindest-pH-Wert dadurch nicht erreicht wird, soll zusätzlich Natronlauge dosiert werden.
 
@@ -3127,7 +3127,7 @@ ggf. über Hilfsgrößen
 
 - Tafel 6 :: Anforderungen an das Kreislaufwasser<<FnR.FnA13-F799100_30>>[[#FnA13-F799100_30][2]]}
 
-
+ 
 
 Einheit
 
@@ -3709,7 +3709,7 @@ Anhang - zu Anlage 1
    (2) Für Fahrgastschiffe nach Absatz 1 gelten die Vorschriften der Richtlinie 2009/45/EG des Europäischen Parlaments und des Rates vom 6. Mai 2009 über Sicherheitsvorschriften und -normen für Fahrgastschiffe (Neufassung) (ABl. L 163 vom 25.6.2009, S. 1), die durch die Richtlinie (EU) 2016/844 (ABl. L 141 vom 28.5.2016, S. 51) geändert worden ist, in der jeweils geltenden Fassung, soweit nicht in diesem Anhang etwas Abweichendes vorgesehen ist.
 - 2. :: Begriffsbestimmungen
    (1) Im Sinne dieses Anhangs ist
-  - 1. :: Neues Fahrgastschiff: ein Schiff, dessen Kiel am oder nach dem 1. Juli 1998 gelegt worden ist oder das sich zu dem genannten Zeitpunkt in einem entsprechenden Bauzustand befand; der Ausdruck entsprechender Bauzustand“ bezeichnet den Zustand, der den Baubeginn eines bestimmten Schiffes oder Fahrzeuges erkennen lässt und in dem die Montage des Schiffes unter Verwendung von mindestens 50 t oder von 1 % des geschätzten Gesamtbedarfs an Baumaterial begonnen hat, je nachdem, welcher Wert kleiner ist;
+  - 1. :: Neues Fahrgastschiff: ein Schiff, dessen Kiel am oder nach dem 1. Juli 1998 gelegt worden ist oder das sich zu dem genannten Zeitpunkt in einem entsprechenden Bauzustand befand; der Ausdruck „entsprechender Bauzustand“ bezeichnet den Zustand, der den Baubeginn eines bestimmten Schiffes oder Fahrzeuges erkennen lässt und in dem die Montage des Schiffes unter Verwendung von mindestens 50 t oder von 1 % des geschätzten Gesamtbedarfs an Baumaterial begonnen hat, je nachdem, welcher Wert kleiner ist;
   - 2. :: Inlandfahrt: eine Fahrt in Seegebieten von einem deutschen Hafen zu demselben oder einem anderen deutschen Hafen;
   - 3. :: Wattfahrt: die Inlandfahrt auf den Watten der Nordsee, auf denen hoher Seegang ausgeschlossen ist; sie umfasst folgende Gebiete:
     - 1. :: die Ems bis Borkum,

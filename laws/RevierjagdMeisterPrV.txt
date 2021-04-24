@@ -10,26 +10,26 @@ Auf Grund des § 53 Absatz 3 in Verbindung mit Absatz 2 des Berufsbildungsgesetz
 
 Inhaltsübersicht
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 § 1 - Ziel der Meisterprüfung und Bezeichnung des Fortbildungsabschlusses
 
@@ -212,7 +212,7 @@ Die Prüfung besteht aus
 - 5. :: Personalbedarf ermitteln, Mitarbeiter und Mitarbeiterinnen auswählen, einstellen und Aufgaben auf diese übertragen sowie
 - 6. :: Mitarbeiter und Mitarbeiterinnen anleiten, führen, fördern und motivieren sowie deren berufliche Weiterbildung unterstützen.
 
-(3) Das Handlungsfeld Ausbildungsvoraussetzungen prüfen und Ausbildung planen“ nach Absatz 2 Nummer 1 umfasst folgende Kompetenzen:
+(3) Das Handlungsfeld „Ausbildungsvoraussetzungen prüfen und Ausbildung planen“ nach Absatz 2 Nummer 1 umfasst folgende Kompetenzen:
 
 - 1. :: die Vorteile und den Nutzen betrieblicher Ausbildung darstellen und begründen,
 - 2. :: Planungen hinsichtlich des betrieblichen Ausbildungsbedarfs auf der Grundlage der rechtlichen, tarifvertraglichen und betrieblichen Rahmenbedingungen durchführen und Entscheidungen treffen,
@@ -222,7 +222,7 @@ Die Prüfung besteht aus
 - 6. :: die Möglichkeiten des Einsatzes von auf die Berufsausbildung vorbereitenden Maßnahmen einschätzen sowie
 - 7. :: die Aufgaben der an der Ausbildung Mitwirkenden unter Berücksichtigung ihrer Funktionen und Qualifikationen im Betrieb abstimmen.
 
-(4) Das Handlungsfeld Ausbildung vorbereiten und Auszubildende einstellen“ nach Absatz 2 Nummer 2 umfasst folgende Kompetenzen:
+(4) Das Handlungsfeld „Ausbildung vorbereiten und Auszubildende einstellen“ nach Absatz 2 Nummer 2 umfasst folgende Kompetenzen:
 
 - 1. :: auf der Grundlage einer Ausbildungsordnung einen betrieblichen Ausbildungsplan erstellen, der sich insbesondere an berufstypischen Arbeits- und Geschäftsprozessen orientiert,
 - 2. :: die Möglichkeiten der Mitwirkung und Mitbestimmung der betrieblichen Interessenvertretungen in der Berufsbildung berücksichtigen,
@@ -231,7 +231,7 @@ Die Prüfung besteht aus
 - 5. :: den Berufsausbildungsvertrag vorbereiten und die Eintragung des Vertrags bei der zuständigen Stelle veranlassen sowie
 - 6. :: die Möglichkeit prüfen, ob Teile der Berufsausbildung im Ausland durchgeführt werden können.
 
-(5) Das Handlungsfeld Ausbildung durchführen“ nach Absatz 2 Nummer 3 umfasst folgende Kompetenzen:
+(5) Das Handlungsfeld „Ausbildung durchführen“ nach Absatz 2 Nummer 3 umfasst folgende Kompetenzen:
 
 - 1. :: lernförderliche Bedingungen und eine motivierende Lernkultur schaffen, Rückmeldungen geben und empfangen,
 - 2. :: die Probezeit organisieren, gestalten und bewerten,
@@ -243,14 +243,14 @@ Die Prüfung besteht aus
 - 8. :: Leistungen feststellen und bewerten, Leistungsbeurteilungen Dritter und Prüfungsergebnisse auswerten, Beurteilungsgespräche führen und Rückschlüsse für den weiteren Ausbildungsverlauf ziehen sowie
 - 9. :: interkulturelle Kompetenzen fördern.
 
-(6) Das Handlungsfeld Ausbildung abschließen“ nach Absatz 2 Nummer 4 umfasst folgende Kompetenzen:
+(6) Das Handlungsfeld „Ausbildung abschließen“ nach Absatz 2 Nummer 4 umfasst folgende Kompetenzen:
 
 - 1. :: Auszubildende auf die Abschlussprüfung unter Berücksichtigung der Prüfungstermine vorbereiten und die Ausbildung zu einem erfolgreichen Abschluss führen,
 - 2. :: für die Anmeldung der Auszubildenden zu Prüfungen bei der zuständigen Stelle sorgen und die zuständige Stelle auf Besonderheiten hinweisen, die für die Durchführung der Prüfung relevant sind,
 - 3. :: an der Erstellung eines schriftlichen Zeugnisses auf der Grundlage von Leistungsbeurteilungen mitwirken sowie
 - 4. :: Auszubildende über betriebliche Entwicklungswege und berufliche Weiterbildungsmöglichkeiten informieren und beraten.
 
-(7) Das Handlungsfeld Personalbedarf ermitteln, Mitarbeiter und Mitarbeiterinnen auswählen, einstellen und Aufgaben auf diese übertragen“ nach Absatz 2 Nummer 5 umfasst folgende Kompetenzen:
+(7) Das Handlungsfeld „Personalbedarf ermitteln, Mitarbeiter und Mitarbeiterinnen auswählen, einstellen und Aufgaben auf diese übertragen“ nach Absatz 2 Nummer 5 umfasst folgende Kompetenzen:
 
 - 1. :: rechtliche Grundlagen des Arbeits-, Tarif- und Sozialrechts im Betrieb umsetzen,
 - 2. :: Vorschriften zum Datenschutz und zur Datensicherheit beachten,
@@ -260,7 +260,7 @@ Die Prüfung besteht aus
 - 6. :: zur Krankheitsprävention anleiten und Maßnahmen der Krankheitsprävention organisieren sowie
 - 7. :: die Beendigung von Arbeitsverhältnissen durchführen.
 
-(8) Das Handlungsfeld Mitarbeiter und Mitarbeiterinnen anleiten, führen, fördern und motivieren sowie deren berufliche Weiterbildung unterstützen“ nach Absatz 2 Nummer 6 umfasst folgende Kompetenzen:
+(8) Das Handlungsfeld „Mitarbeiter und Mitarbeiterinnen anleiten, führen, fördern und motivieren sowie deren berufliche Weiterbildung unterstützen“ nach Absatz 2 Nummer 6 umfasst folgende Kompetenzen:
 
 - 1. :: Mitarbeiter und Mitarbeiterinnen anleiten, Leistungen und Verhalten gegebenenfalls unter Hinzuziehung von Leistungsbeurteilungen Dritter feststellen und bewerten,
 - 2. :: Mitarbeiter- und Beurteilungsgespräche führen und Entwicklungsmöglichkeiten aufzeigen,
@@ -309,21 +309,21 @@ Für die Befreiung von einzelnen Prüfungsteilen nach § 3 oder von Prüfungen n
 § 18 - Bewertungen in den Prüfungen
 
 (1) Die drei Prüfungsteile nach § 3 sind gesondert zu bewerten.
-(2) Für die Bewertung des Prüfungsteils Jagdbetrieb, Jagd- und Wildtiermanagement und Dienstleistungen“ ist eine Note aus der Bewertung des Arbeitsprojektes (§ 6) und der Bewertung der schriftlichen Prüfung (§ 7) nach folgender Formel zu bilden:\\
+(2) Für die Bewertung des Prüfungsteils „Jagdbetrieb, Jagd- und Wildtiermanagement und Dienstleistungen“ ist eine Note aus der Bewertung des Arbeitsprojektes (§ 6) und der Bewertung der schriftlichen Prüfung (§ 7) nach folgender Formel zu bilden:\\
 \\
 |   | Note des Prüfungsteils = [[../normengrafiken/bgbl1_2019/j0499-1_0010.jpg]]. |
 
-(3) Für die Bewertung des Prüfungsteils Betriebs- und Unternehmensführung“ ist eine Note aus der Bewertung des Arbeitsprojektes (§ 10) und der Bewertung der schriftlichen Prüfung (§ 11) nach folgender Formel zu bilden:\\
+(3) Für die Bewertung des Prüfungsteils „Betriebs- und Unternehmensführung“ ist eine Note aus der Bewertung des Arbeitsprojektes (§ 10) und der Bewertung der schriftlichen Prüfung (§ 11) nach folgender Formel zu bilden:\\
 \\
 |   | Note des Prüfungsteils = [[../normengrafiken/bgbl1_2019/j0499-1_0020.jpg]]. |
 
-(4) Im Prüfungsteil Berufsausbildung und Mitarbeiterführung“ ist zunächst eine Note für die Bewertung des Abschnitts Berufsausbildung“ aus der Bewertung des praktischen Teils (§ 14) und der Bewertung des schriftlichen Teils (§ 15) nach folgender Formel zu bilden:\\
+(4) Im Prüfungsteil „Berufsausbildung und Mitarbeiterführung“ ist zunächst eine Note für die Bewertung des Abschnitts „Berufsausbildung“ aus der Bewertung des praktischen Teils (§ 14) und der Bewertung des schriftlichen Teils (§ 15) nach folgender Formel zu bilden:\\
 \\
 |   | Note des Abschnitts Berufsausbildung = [[../normengrafiken/bgbl1_2019/j0499-1_0030.jpg]]. |
 
 \\
 \\
-AnschlieBerufsausbildung und Mitarbeiterführung“ eine Note aus der Bewertung der Leistung im Abschnitt Berufsausbildung“ nach Satz 1 und der Bewertung der Fallstudie (§ 16) nach folgender Formel zu bilden:\\
+Anschließend ist für die Bewertung des Prüfungsteils „Berufsausbildung und Mitarbeiterführung“ eine Note aus der Bewertung der Leistung im Abschnitt „Berufsausbildung“ nach Satz 1 und der Bewertung der Fallstudie (§ 16) nach folgender Formel zu bilden:\\
 \\
 |   | Note des Prüfungsteils = [[../normengrafiken/bgbl1_2019/j0499-1_0040.jpg]]. |
 
@@ -331,11 +331,11 @@ AnschlieBerufsausbildung und Mitarbeiterführung“ eine Note aus der Bewertung 
 
 § 19 - Bestehen der Meisterprüfung; Zeugnis
 
-(1) Die Prüfung ist bestanden, wenn der Prüfling in jedem Prüfungsteil (§ 3) mindestens die Note ausreichend“ erzielt hat.
+(1) Die Prüfung ist bestanden, wenn der Prüfling in jedem Prüfungsteil (§ 3) mindestens die Note „ausreichend“ erzielt hat.
 (2) Die Prüfung ist nicht bestanden, wenn
 
-- 1. :: eine der Leistungen in den Prüfungen nach den §§ 6 und 7, den §§ 10 und 11 sowie den §§ 14 bis 16 mit ungenügend“ bewertet worden ist oder
-- 2. :: mehr als eine der in Nummer 1 genannten Leistungen mit mangelhaft“ bewertet worden ist.
+- 1. :: eine der Leistungen in den Prüfungen nach den §§ 6 und 7, den §§ 10 und 11 sowie den §§ 14 bis 16 mit „ungenügend“ bewertet worden ist oder
+- 2. :: mehr als eine der in Nummer 1 genannten Leistungen mit „mangelhaft“ bewertet worden ist.
 
 (3) Ist die Meisterprüfung bestanden, stellt die zuständige Stelle darüber ein Zeugnis aus.
 (4) Im Fall des Bestehens stellt die zuständige Stelle für jeden Prüfling ein weiteres Zeugnis aus, in dem mindestens anzugeben sind:
@@ -346,7 +346,7 @@ AnschlieBerufsausbildung und Mitarbeiterführung“ eine Note aus der Bewertung 
 
 § 20 - Mündliche Ergänzungsprüfung
 
-(1) Wurden eine oder zwei der Prüfungen nach den §§ 7, 11 und 15 schlechter als mit ausreichend“ bewertet, ist auf Antrag des Prüflings eine dieser Prüfungen durch eine mündliche Prüfung zu ergänzen, wenn dies den Ausschlag für das Bestehen der Prüfung insgesamt geben kann.
+(1) Wurden eine oder zwei der Prüfungen nach den §§ 7, 11 und 15 schlechter als mit „ausreichend“ bewertet, ist auf Antrag des Prüflings eine dieser Prüfungen durch eine mündliche Prüfung zu ergänzen, wenn dies den Ausschlag für das Bestehen der Prüfung insgesamt geben kann.
 (2) Die mündliche Ergänzungsprüfung soll nicht länger als 30 Minuten dauern.
 (3) Für die Ermittlung des Ergebnisses der ergänzten Prüfung ist die bisherige Note der Prüfung und die Note der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
@@ -355,7 +355,7 @@ AnschlieBerufsausbildung und Mitarbeiterführung“ eine Note aus der Bewertung 
 (1) Eine Meisterprüfung, die nicht bestanden wurde, kann zweimal wiederholt werden.
 (2) In der Wiederholungsprüfung ist der Prüfling auf Antrag von der Prüfung in einzelnen Prüfungsteilen nach § 3 und in einzelnen Prüfungen nach den §§ 6 und 7, den §§ 10 und 11 sowie den §§ 14 bis 16 zu befreien, wenn
 
-- 1. :: die entsprechenden Leistungen in einer vorangegangenen Prüfung mindestens mit ausreichend“ bewertet worden sind und
+- 1. :: die entsprechenden Leistungen in einer vorangegangenen Prüfung mindestens mit „ausreichend“ bewertet worden sind und
 - 2. :: der Prüfling sich innerhalb von zwei Jahren, gerechnet vom Tag der Feststellung des Ergebnisses der nicht bestandenen Prüfung an, zur Wiederholungsprüfung anmeldet.
 
 

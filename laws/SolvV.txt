@@ -471,7 +471,7 @@ Für die Zwecke des Satzes 1 Nummer 2 gilt eine Änderung der Quote für den ant
 (4) Die Ober- und Untergrenzen für jedes Quartil der kombinierten Kapitalpuffer-Anforderung werden wie folgt berechnet:\\
 [[../normengrafiken/bgbl1_2013/j4168-1_0010.jpg]]\\
 [[../normengrafiken/bgbl1_2013/j4168-1_0020.jpg]]\\
-Q_{n}“ steht für die Ordinalzahl des betreffenden Quartils.
+„Q_{n}“ steht für die Ordinalzahl des betreffenden Quartils.
 (+++ § 37: Zur Anwendung vgl. § 1 Abs. 4 +++)
 
 § 38 - Übergangsvorschriften

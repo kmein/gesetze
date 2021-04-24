@@ -10,7 +10,7 @@ Abschnitt 1
 Zweck
 § 1
 Zweck des Gesetzes
-
+ 
 Abschnitt 2
 Prüfungen
 § 2
@@ -31,7 +31,7 @@ Unterrichtung von und Zusammenarbeit mit Behörden im Inland und in der Europäi
 Übermittlung personenbezogener Daten an Mitgliedstaaten der Europäischen Union
 § 7
 Auskunftsansprüche bei anonymen Angeboten und Werbemaßnahmen
-
+ 
 Abschnitt 3
 Bußgeld- und Strafvorschriften
 § 8
@@ -44,7 +44,7 @@ Beschäftigung von Ausländern ohne Genehmigung oder ohne Aufenthaltstitel und z
 Beschäftigung von Ausländern ohne Aufenthaltstitel, die Opfer von Menschenhandel sind
 § 11
 Erwerbstätigkeit von Ausländern ohne Genehmigung oder ohne Aufenthaltstitel in größerem Umfang oder von minderjährigen Ausländern
-
+ 
 Abschnitt 4
 Ermittlungen
 § 12
@@ -59,7 +59,7 @@ Selbstständige Durchführung von Ermittlungsverfahren
 Rechte und Pflichten bei der selbstständigen Durchführung von Ermittlungsverfahren
 § 14c
 Sachliche und örtliche Zuständigkeit bei der selbstständigen Durchführung von Ermittlungsverfahren
-
+ 
 Abschnitt 5
 Datenschutz
 § 15
@@ -72,7 +72,7 @@ Zentrales Informationssystem für die Finanzkontrolle Schwarzarbeit
 Auskunft an die betroffene Person
 § 19
 Löschung
-
+ 
 Abschnitt 6
 Verwaltungsverfahren, Rechtsweg
 § 20
@@ -274,7 +274,7 @@ Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch Rechtsver
 Nach § 5 Absatz 3 Satz 1 in Verwahrung genommene Urkunden sind der Ausländerbehörde unverzüglich zu übermitteln.
 
 (5) Bestehen Anhaltspunkte dafür, dass eine nach § 5 Absatz 3 Satz 1 in Verwahrung genommene Urkunde unecht oder verfälscht ist, ist sie an die zuständige Polizeivollzugsbehörde zu übermitteln.
-(6) Auf die Zusammenarbeit der Behörden der Zollverwaltung mit Behörden anderer Mitgliedstaaten der Europäischen Union und mit Behörden anderer Vertragsstaaten des Abkommens über den Europäischen Wirtschaftraum gemäIMI-Verordnung“) (ABl. L 159 vom 28.5.2014, S. 11) Anwendung.
+(6) Auf die Zusammenarbeit der Behörden der Zollverwaltung mit Behörden anderer Mitgliedstaaten der Europäischen Union und mit Behörden anderer Vertragsstaaten des Abkommens über den Europäischen Wirtschaftraum gemäß § 20 Absatz 2 des Arbeitnehmer-Entsendegesetzes, § 18 Absatz 2 des Mindestlohngesetzes und § 18 Absatz 6 des Arbeitnehmerüberlassungsgesetzes finden die §§ 8a bis 8e des Verwaltungsverfahrensgesetzes in Verbindung mit Artikel 6 Absatz 1, 2 und 4 bis 9, den Artikeln 7 und 21 der Richtlinie 2014/67/EU des Europäischen Parlaments und des Rates vom 15. Mai 2014 zur Durchsetzung der Richtlinie 96/71/EG über die Entsendung von Arbeitnehmern im Rahmen der Erbringung von Dienstleistungen und zur Änderung der Verordnung (EU) Nr. 1024/2012 über die Verwaltungszusammenarbeit mit Hilfe des Binnenmarkt-Informationssystems („IMI-Verordnung“) (ABl. L 159 vom 28.5.2014, S. 11) Anwendung.
 
 § 6a - Übermittlung personenbezogener  Daten an Mitgliedstaaten der Europäischen Union
 

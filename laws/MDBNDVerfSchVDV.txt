@@ -6,37 +6,37 @@ Ausfertigungsdatum: 09.08.2019
 
 Inhaltsübersicht
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 § 1 - Vorbereitungsdienst
 
@@ -53,8 +53,8 @@ Die Ausbildung und Prüfung nach dieser Verordnung sind der Vorbereitungsdienst 
 
 (1) Dienstbehörde ist
 
-- 1. :: für die Anwärterinnen und Anwärter der Fachrichtung Bundesnachrichtendienst“ der Bundesnachrichtendienst und
-- 2. :: für die Anwärterinnen und Anwärter der Fachrichtung Verfassungsschutz“ das Bundesamt für Verfassungsschutz.
+- 1. :: für die Anwärterinnen und Anwärter der Fachrichtung „Bundesnachrichtendienst“ der Bundesnachrichtendienst und
+- 2. :: für die Anwärterinnen und Anwärter der Fachrichtung „Verfassungsschutz“ das Bundesamt für Verfassungsschutz.
 
 (2) Die Dienstbehörde ist für alle beamtenrechtlichen Entscheidungen zuständig, soweit diese Entscheidungen durch diese Verordnung nicht anderen Stellen übertragen werden.
 
@@ -93,7 +93,7 @@ Erholungsurlaub wird in der Regel während der berufspraktischen Ausbildung gew�
 
 (1) Die Leistungen der Anwärterinnen und Anwärter in der Ausbildung und in den Prüfungen werden wie folgt bewertet:\\
 \\
-
+ 
 Prozentualer Anteil der\\
 erreichten Punktzahl\\
 an der erreichbaren\\
@@ -102,7 +102,7 @@ Rangpunkte/\\
 Rangpunktzahl
 Note
 Notendefinition
-
+ 
 1
 2
 3
@@ -194,8 +194,8 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 (1) In einem Auswahlverfahren wird festgestellt, ob die Bewerberinnen und Bewerber nach ihren Kenntnissen und Fähigkeiten sowie nach ihrer Persönlichkeit für den Vorbereitungsdienst geeignet sind. Insbesondere wird festgestellt, ob sie über das erforderliche Allgemeinwissen, die erforderlichen kognitiven, methodischen und sozialen Kompetenzen und die erforderliche Leistungsmotivation verfügen.
 (2) Das Auswahlverfahren wird durchgeführt
 
-- 1. :: für die Ausbildungsplätze, die in der Fachrichtung Bundesnachrichtendienst“ angeboten werden, vom Bundesnachrichtendienst und
-- 2. :: für die Ausbildungsplätze, die in der Fachrichtung Verfassungsschutz“ angeboten werden, vom Bundesamt für Verfassungsschutz.
+- 1. :: für die Ausbildungsplätze, die in der Fachrichtung „Bundesnachrichtendienst“ angeboten werden, vom Bundesnachrichtendienst und
+- 2. :: für die Ausbildungsplätze, die in der Fachrichtung „Verfassungsschutz“ angeboten werden, vom Bundesamt für Verfassungsschutz.
 
 (3) Zum Auswahlverfahren wird zugelassen, wer nach den eingereichten Unterlagen die in der Ausschreibung bestimmten Voraussetzungen erfüllt. Übersteigt die Zahl der geeigneten Bewerberinnen und Bewerber das Dreifache der Zahl der angebotenen Ausbildungsplätze, so kann die Zahl der am Auswahlverfahren Teilnehmenden beschränkt werden. Es sind jedoch mindestens dreimal so viele Bewerberinnen und Bewerber zuzulassen, wie Ausbildungsplätze angeboten werden. In diesem Fall wird zugelassen, wer nach den eingereichten Unterlagen am besten geeignet ist.
 (4) Schwerbehinderte Bewerberinnen und Bewerber und gleichgestellte behinderte Bewerberinnen und Bewerber sind zum Auswahlverfahren zuzulassen, es sei denn, sie sind offensichtlich fachlich ungeeignet. Vor dem Ausschluss schwerbehinderter Bewerberinnen und Bewerber und gleichgestellter behinderter Bewerberinnen und Bewerber ist die Schwerbehindertenvertretung anzuhören.
@@ -287,10 +287,10 @@ Der mündliche Teil des Auswahlverfahrens ist bestanden, wenn die erforderliche 
 (3) Die fachtheoretische Ausbildung unterteilt sich in drei Abschnitte. Die berufspraktische Ausbildung unterteilt sich in zwei Abschnitte.
 (4) Die Abfolge und die Dauer der einzelnen Abschnitte sind wie folgt festgesetzt:\\
 \\
-
+ 
 Abschnitt
 Dauer
-
+ 
 1
 2
 1
@@ -323,8 +323,8 @@ vier Monate
 - 1. :: die Fächer und Inhalte der Lehrgänge der fachtheoretischen Ausbildung,
 - 2. :: die Verteilung der Fächer und Inhalte der fachtheoretischen Ausbildung auf die beiden Fachrichtungen, und zwar welche Fächer und Inhalte
   - a) :: in beiden Fachrichtungen vermittelt werden,
-  - b) :: nur in der Fachrichtung Bundesnachrichtendienst“ vermittelt werden und
-  - c) :: nur in der Fachrichtung Verfassungsschutz“ vermittelt werden,
+  - b) :: nur in der Fachrichtung „Bundesnachrichtendienst“ vermittelt werden und
+  - c) :: nur in der Fachrichtung „Verfassungsschutz“ vermittelt werden,
 - 3. :: die Absolvierung von Leistungstests während der fachtheoretischen Ausbildung, und zwar insbesondere
   - a) :: wie viele Leistungstests zu absolvieren sind,
   - b) :: in welchen Fächern die Leistungstests zu absolvieren sind und
@@ -473,8 +473,8 @@ Das Prüfungsamt am Zentrum für Nachrichtendienstliche Aus- und Fortbildung org
 (1) Das Prüfungsamt bestellt Prüfende in der Regel für die Dauer von fünf Jahren. Wiederbestellung ist zulässig.
 (2) Bestellt werden sollen als Prüfende
 
-- 1. :: für die Fachrichtung Bundesnachrichtendienst“ überwiegend Angehörige des Bundesnachrichtendienstes und
-- 2. :: für die Fachrichtung Verfassungsschutz“ überwiegend Angehörige des Bundesamtes für Verfassungsschutz.
+- 1. :: für die Fachrichtung „Bundesnachrichtendienst“ überwiegend Angehörige des Bundesnachrichtendienstes und
+- 2. :: für die Fachrichtung „Verfassungsschutz“ überwiegend Angehörige des Bundesamtes für Verfassungsschutz.
 
 
 § 41 - Zweck

@@ -70,35 +70,35 @@ Ausstehende fällige Zahlungsverpflichtungen aus der Rangrücktrittsvereinbarung
 
 Der Barwert der zukünftigen Zahlungen entspricht der Summe der Barwerte der jährlichen Zahlungen für die Jahre 2005 bis einschließlich zum Jahr der vollständigen Tilgung der Altschulden. Dabei wird unterstellt, dass die jährlichen Zahlungen auf die Rangrücktrittsvereinbarung am Ende des Kalenderjahres erfolgen, in dem das abzurechnende Geschäftsjahr endet. Der Barwert der einzelnen jährlichen Zahlung wird nach folgender Formel berechnet:\\
 \\
-
-
+ 
+ 
 [[../normengrafiken/bgbl1_2004/j2864_0010.jpg]]
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 BW
 _{L}
 =
 Barwert der Zahlung im Kalenderjahr L
-
+ 
 B
 _{L}
 =
 Zahlung im Kalenderjahr L
-
+ 
 Z
 =
 EU-Referenzzinssatz in vom Hundert gemäß § 7 Abs. 2\\
 des Landwirtschafts-Altschuldengesetzes in Verbindung\\
 mit § 3 Abs. 2 Satz 2 und 3 dieser Verordnung
-
+ 
 L
 =
 Kalenderjahr
-
+ 
 
 § 9 - Verfahrensgrundsätze zur Bestimmung des Ablösebetrages
 

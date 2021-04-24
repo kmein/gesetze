@@ -8,17 +8,17 @@ Inhaltsübersicht
 
 Erster Abschnitt
 
-
+ 
 
 Allgemeine Vorschriften
 
+ 
 
-
-
+ 
 
 - 1. :: Kreditinstitute, Finanzdienstleistungsinstitute, Finanzholding-Gesellschaften, gemischte Finanzholding-Gesellschaften und gemischte Holdinggesellschaften sowie Finanzunternehmen
 
-
+ 
 
 § 1
 
@@ -72,13 +72,13 @@ Verbotene Geschäfte
 
 Entscheidungen der Bundesanstalt für Finanzdienstleistungsaufsicht
 
+ 
 
-
-
+ 
 
 - 2. :: Bundesanstalt für Finanzdienstleistungsaufsicht
 
-
+ 
 
 § 5
 
@@ -164,21 +164,21 @@ Zusammenarbeit mit Abwicklungsbehörden
 
 Verschwiegenheitspflicht
 
-
+ 
 
 Zweiter Abschnitt
 
-
+ 
 
 Vorschriften für Institute, Institutsgruppen, Finanzholding-Gruppen, gemischte Finanzholding-Gruppen und gemischte Holdinggesellschaften
 
+ 
 
-
-
+ 
 
 - 1. :: Eigenmittel und Liquidität
 
-
+ 
 
 § 10
 
@@ -232,13 +232,13 @@ Potentiell systemrelevante Institute
 
 Begründung von Unternehmensbeziehungen
 
+ 
 
-
-
+ 
 
 - 2. :: Kreditgeschäft
 
-
+ 
 
 § 13
 
@@ -300,13 +300,13 @@ Begriff des Kredits für die §§ 15 bis 18
 
 Verordnungsermächtigung für Millionenkredite
 
+ 
 
-
-
+ 
 
 - 2a. :: Refinanzierungsregister
 
-
+ 
 
 § 22a
 
@@ -368,25 +368,25 @@ Rechtsstellung des Sachwalters
 
 Bestellung des Sachwalters bei Insolvenzgefahr
 
+ 
 
-
-
+ 
 
 - 3. :: Kundenrechte
 
-
+ 
 
 § 22p
 
 (weggefallen)
 
+ 
 
-
-
+ 
 
 - 4. :: Werbung und Hinweispflichten der Institute
 
-
+ 
 
 § 23
 
@@ -396,13 +396,13 @@ Werbung
 
 Sicherungseinrichtung
 
+ 
 
-
-
+ 
 
 - 5. :: Besondere Pflichten der Institute und ihrer Geschäftsleiter sowie der Finanzholding-Gesellschaften, der gemischten Finanzholding-Gesellschaften und der gemischten Holdinggesellschaften
 
-
+ 
 
 § 24
 
@@ -448,17 +448,17 @@ Anforderungen bei vertraglich gebundenen Vermittlern
 
 Besondere Anforderungen an die ordnungsgemäße Geschäftsorganisation von CRR-Kreditinstituten sowie von Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen, denen ein CRR-Kreditinstitut angehört; Verordnungsermächtigung
 
+ 
 
+ 
 
-
-
-
+ 
 
 - 5a. :: Bargeldloser Zahlungsverkehr; Verhinderung von Geldwäsche, Terrorismusfinanzierung und sonstigen strafbaren Handlungen zu Lasten der Institute
 
+ 
 
-
-
+ 
 
 § 25g
 
@@ -492,41 +492,41 @@ Verbotene Geschäfte
 
 (weggefallen)
 
+ 
 
+ 
 
-
-
-
+ 
 
 - 5b. :: Vorlage von Rechnungslegungsunterlagen
 
+ 
 
-
-
+ 
 
 § 26
 
 Vorlage von Jahresabschluss, Lagebericht und Prüfungsberichten
 
+ 
 
-
-
+ 
 
 - 5c. :: Offenlegung
 
-
+ 
 
 § 26a
 
 Offenlegung durch die Institute
 
+ 
 
-
-
+ 
 
 - 6. :: Prüfung und Prüferbestellung
 
-
+ 
 
 § 27
 
@@ -544,33 +544,33 @@ Besondere Pflichten des Prüfers
 
 Bestimmung von Prüfungsinhalten
 
+ 
 
-
-
+ 
 
 - 7. :: Befreiungen
 
-
+ 
 
 § 31
 
 Befreiungen; Verordnungsermächtigung
 
-
+ 
 
 Dritter Abschnitt
 
-
+ 
 
 Vorschriften über die Beaufsichtigung der Institute
 
+ 
 
-
-
+ 
 
 - 1. :: Zulassung zum Geschäftsbetrieb
 
-
+ 
 
 § 32
 
@@ -612,13 +612,13 @@ Einschreiten gegen unerlaubte oder verbotene Geschäfte
 
 Folgen der Aufhebung und des Erlöschens der Erlaubnis, Maßnahmen bei der Abwicklung
 
+ 
 
-
-
+ 
 
 - 2. :: Bezeichnungsschutz
 
-
+ 
 
 § 39
 
@@ -640,13 +640,13 @@ Entscheidung der Bundesanstalt
 
 Registervorschriften
 
+ 
 
-
-
+ 
 
 - 3. :: Auskünfte und Prüfungen
 
-
+ 
 
 § 44
 
@@ -664,13 +664,13 @@ Prüfung der Inhaber bedeutender Beteiligungen
 
 Verfolgung unerlaubter Bankgeschäfte und Finanzdienstleistungen
 
+ 
 
-
-
+ 
 
 - 4. :: Maßnahmen in besonderen Fällen
 
-
+ 
 
 § 45
 
@@ -732,13 +732,13 @@ Anordnungsbefugnis nach der Verordnung (EU) Nr. 1286/2014
 
 Maßnahmen bei Verstößen gegen die Verordnung (EU) 2017/2402
 
+ 
 
-
-
+ 
 
 - 4a. :: Maßnahmen gegenüber Kreditinstituten bei Gefahren für die Stabilität des Finanzsystems
 
-
+ 
 
 §§ 48a bis 48s
 
@@ -752,13 +752,13 @@ Maßnahmen zur Begrenzung makroprudenzieller oder systemischer Risiken
 
 Maßnahmen zur Begrenzung makroprudenzieller Risiken im Bereich der Darlehensvergabe zum Bau oder zum Erwerb von Wohnimmobilien; Verordnungsermächtigung
 
+ 
 
-
-
+ 
 
 - 5. :: Vollziehbarkeit, Zwangsmittel, Umlage und Kosten
 
-
+ 
 
 § 49
 
@@ -772,15 +772,15 @@ Sofortige Vollziehbarkeit
 
 Umlage und Kosten
 
-
+ 
 
 Vierter Abschnitt
 
-
+ 
 
 Besondere Vorschriften für Wohnungsunternehmen mit Spareinrichtung
 
-
+ 
 
 § 51a
 
@@ -794,15 +794,15 @@ Anforderungen an die Liquidität für Wohnungsunternehmen mit Spareinrichtung
 
 Sonstige Sondervorschriften für Wohnungsunternehmen mit Spareinrichtung
 
-
+ 
 
 Fünfter Abschnitt
 
-
+ 
 
 Sondervorschriften
 
-
+ 
 
 § 52
 
@@ -832,23 +832,23 @@ Unternehmen mit Sitz in einem Drittstaat; Verordnungsermächtigung
 
 Mutterunternehmen mit Sitz in einem Drittstaat
 
-
+ 
 
 Sechster Abschnitt
 
-
+ 
 
 Sondervorschriften für zentrale Gegenparteien und Zentralverwahrer
 
+ 
 
-
-
+ 
 
 - 1. :: Zentrale Gegenparteien
 
+ 
 
-
-
+ 
 
 § 53e
 
@@ -890,15 +890,15 @@ Inhalt des Zulassungsantrags
 
 Maßnahmen zur Verbesserung der Finanzmittel und der Liquidität einer nach der Verordnung (EU) Nr. 648/2012 zugelassenen zentralen Gegenpartei
 
+ 
 
+ 
 
-
-
-
+ 
 
 - 2. :: Zentralverwahrer
 
-
+ 
 
 § 53o
 
@@ -912,17 +912,17 @@ Anordnungsbefugnis für die Aufsicht nach der Verordnung (EU) Nr. 909/2014
 
 Eigentumsrechte an Zentralverwahrern
 
+ 
 
-
-
+ 
 
 Siebenter Abschnitt
 
-
+ 
 
 Strafvorschriften, Bußgeldvorschriften
 
-
+ 
 
 § 54
 
@@ -980,15 +980,15 @@ Bekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen die Verordn
 
 Bekanntmachung von Sanktionen und Maßnahmen gegen Wertpapierdienstleistungsunternehmen und Betreiber von Datenbereitstellungsdiensten
 
-
+ 
 
 Achter Abschnitt
 
-
+ 
 
 Übergangs- und Schlußvorschriften
 
-
+ 
 
 § 61
 
@@ -1330,7 +1330,7 @@ sind, gelten vorbehaltlich des § 2 Absatz 8a, 9 bis 9c und 9f die Vorgaben der 
 
 (2) Für Finanzdienstleistungsinstitute, die keine CRR-Institute sind, gelten vorbehaltlich des § 2 Absatz 7 bis 9 die Vorgaben der Verordnung (EU) Nr. 575/2013, des Kapitels 2 der Verordnung (EU) 2017/2402 und der auf Grundlage der Verordnung (EU) Nr. 575/2013 und des Kapitels 2 der Verordnung (EU) 2017/2402 erlassenen Rechtsakte die Bestimmungen dieses Gesetzes, die auf Vorgaben der Verordnung (EU) Nr. 575/2013 oder des Kapitels 2 der Verordnung (EU) 2017/2402 verweisen, sowie die in Ergänzung der Verordnung (EU) Nr. 575/2013 erlassenen Rechtsverordnungen nach § 10 Absatz 1 Satz 1 und § 13 Absatz 1 so, als seien diese Finanzdienstleistungsinstitute CRR-Wertpapierfirmen.
 (3) Für Kreditinstitute und Finanzdienstleistungsinstitute, die keine CRR-Institute und keine Wohnungsunternehmen mit Spareinrichtung sind, gelten die Vorgaben von Artikel 4 Absatz 1 Unterabsatz 1, Artikel 5a Absatz 1, der Artikel 8b bis 8d der Verordnung (EG) Nr. 1060/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 über Ratingagenturen (ABl. L 302 vom 17.11.2009, S. 1; L 350 vom 29.12.2009, S. 59; L 145 vom 31.5.2011, S. 57; L 267 vom 6.9.2014, S. 30), die zuletzt durch die Verordnung (EU) 2017/2402 (ABl. L 347 vom 28.12.2017, S. 35) geändert worden ist, und die auf ihrer Grundlage erlassenen Rechtsakte so, als seien diese Kreditinstitute und Finanzdienstleistungsinstitute CRR-Institute.
-(4) Für Kreditinstitute, die zwar über eine Erlaubnis verfügen, Bankgeschäfte im Sinne von § 1 Absatz 1 Satz 2 Nummer 1 und 2 zu betreiben, die aber weder CRR-Kreditinstitute noch Zweigstellen im Sinne des § 53 Absatz 1 Satz 1 sind, gelten die Meldeanforderungen der Verordnung (EU) 2015/534 der Europäischen Zentralbank vom 17. März 2015 über die Meldung aufsichtlicher Finanzinformationen (EZB/2015/13) (ABl. L 86 vom 31.3.2015, S. 13; L 65 vom 8.3.2018, S. 48), die zuletzt durch die Verordnung (EU) 2020/605 (ABl. L 145 vom 7.5.2020, S. 1) geändert worden ist, so, als seien diese Kreditinstitute CRR-Kreditinstitute. Die für die Bestimmung des Meldeumfangs erforderliche Einstufung als bedeutendes oder weniger bedeutendes Kreditinstitut erfolgt auf der Grundlage des GröGesamtwert der Aktiva“ nach Artikel 50 der Verordnung (EU) Nr. 468/2014 der Europäischen Zentralbank vom 16. April 2014 zur Einrichtung eines Rahmenwerks für die Zusammenarbeit zwischen der Europäischen Zentralbank und den nationalen zuständigen Behörden und den nationalen benannten Behörden innerhalb des einheitlichen Aufsichtsmechanismus (SSM-Rahmenverordnung) (EZB/2014/17) (ABl. L 141 vom 14.5.2014, S. 1; L 113 vom 29.4.2017, S. 64; L 65 vom 8.3.2018, S. 49). Die Meldungen sind der Deutschen Bundesbank elektronisch einzureichen.
+(4) Für Kreditinstitute, die zwar über eine Erlaubnis verfügen, Bankgeschäfte im Sinne von § 1 Absatz 1 Satz 2 Nummer 1 und 2 zu betreiben, die aber weder CRR-Kreditinstitute noch Zweigstellen im Sinne des § 53 Absatz 1 Satz 1 sind, gelten die Meldeanforderungen der Verordnung (EU) 2015/534 der Europäischen Zentralbank vom 17. März 2015 über die Meldung aufsichtlicher Finanzinformationen (EZB/2015/13) (ABl. L 86 vom 31.3.2015, S. 13; L 65 vom 8.3.2018, S. 48), die zuletzt durch die Verordnung (EU) 2020/605 (ABl. L 145 vom 7.5.2020, S. 1) geändert worden ist, so, als seien diese Kreditinstitute CRR-Kreditinstitute. Die für die Bestimmung des Meldeumfangs erforderliche Einstufung als bedeutendes oder weniger bedeutendes Kreditinstitut erfolgt auf der Grundlage des Größenkriteriums „Gesamtwert der Aktiva“ nach Artikel 50 der Verordnung (EU) Nr. 468/2014 der Europäischen Zentralbank vom 16. April 2014 zur Einrichtung eines Rahmenwerks für die Zusammenarbeit zwischen der Europäischen Zentralbank und den nationalen zuständigen Behörden und den nationalen benannten Behörden innerhalb des einheitlichen Aufsichtsmechanismus (SSM-Rahmenverordnung) (EZB/2014/17) (ABl. L 141 vom 14.5.2014, S. 1; L 113 vom 29.4.2017, S. 64; L 65 vom 8.3.2018, S. 49). Die Meldungen sind der Deutschen Bundesbank elektronisch einzureichen.
 (+++ § 1a: Zur Nichtanwendung vgl. § 2 Abs. 4 Satz 1, Abs. 5 Satz 1, Abs. 9g, Abs. 9h +++)
 
 § 1b - (weggefallen)
@@ -1538,7 +1538,7 @@ Im Falle einer Untersagung nach Satz 1 bestellt das Gericht am Sitz des Institut
 - 2. :: sie vorsätzlich oder leichtfertig gegen die Bestimmung dieses Gesetzes, gegen die zur Durchführung dieses Gesetzes erlassenen Verordnungen oder gegen Anordnungen der Bundesanstalt verstoßen haben und trotz Verwarnung durch die Bundesanstalt dieses Verhalten fortsetzen.
 
 (+++ § 2d: Zur Anwendung vgl. § 2 Nr. 3 KfWV +++)\\
-§ 2d Abs. 2 Eingangssatz Kursivdruck: IdF d. Art. 1 Nr. 9 Buchst. b G v. 28.8.2013 I 3395 mWv 1.1.2014 (abweichend vom Bundesgesetzblatt wurden an Stelle der Wörter § 10a Abs. 3 Satz 6 oder Satz 7 oder § 10a Absatz 3 Satz 6 oder 7“ die Wörter § 10a Abs. 3 Satz 6 oder Satz 7 oder § 10a Absatz 3a Satz 6 oder 7“ ersetzt durch § 10a Absatz 2 Satz 2 oder Satz 3“)
+§ 2d Abs. 2 Eingangssatz Kursivdruck: IdF d. Art. 1 Nr. 9 Buchst. b G v. 28.8.2013 I 3395 mWv 1.1.2014 (abweichend vom Bundesgesetzblatt wurden an Stelle der Wörter „§ 10a Abs. 3 Satz 6 oder Satz 7 oder § 10a Absatz 3 Satz 6 oder 7“ die Wörter „§ 10a Abs. 3 Satz 6 oder Satz 7 oder § 10a Absatz 3a Satz 6 oder 7“ ersetzt durch „§ 10a Absatz 2 Satz 2 oder Satz 3“)
 
 § 2e - Ausnahmen für gemischte Finanzholding-Gesellschaften
 
@@ -2763,7 +2763,7 @@ Als Kredite im Sinne des § 14 gelten nicht:
 - 4. :: Geldsicherheiten, die im Kontext von Finanzmarktgeschäften für Kunden hinterlegt werden und deren vereinbarte Laufzeit oder Kündigungsfrist einen Geschäftstag nicht überschreitet,
 - 5. :: Kredite, die im Fall der Durchführung des Zahlungsverkehrs, einschließlich der Ausführung von Zahlungsdiensten, der Verrechnung und Abwicklung in jedweder Währung und des Korrespondenzbankgeschäfts, an Institute vergeben werden, die diese Dienste erbringen, sofern die Kredite bis zum Geschäftsschluss zurückzuzahlen sind,
 - 6. :: abgeschriebene Kredite und
-- 7. :: Verfügungen über gutgeschriebene Beträge aus dem Lastschrifteinzugsverfahren, die mit dem Vermerk Eingang vorbehalten“ versehen werden.
+- 7. :: Verfügungen über gutgeschriebene Beträge aus dem Lastschrifteinzugsverfahren, die mit dem Vermerk „Eingang vorbehalten“ versehen werden.
 
 (+++ §§ 17 bis 22: Zur Anwendung vgl. § 3 Nr. 5 KfWV +++)
 
@@ -3714,7 +3714,7 @@ Das Nähere zu Inhalt und Form des Erlaubnisantrages regeln die technischen Regu
   - e) :: (weggefallen)
   - f) :: bei Anlageberatern, Anlagevermittlern und Abschlussvermittlern, die nicht befugt sind, sich bei der Erbringung von Finanzdienstleistungen Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen, und nicht auf eigene Rechnung mit Finanzinstrumenten handeln, ein Betrag von 25 000 Euro, wenn sie zusätzlich als Versicherungsvermittler nach der Richtlinie 2002/92/EG des Europäischen Parlaments und des Rates vom 9. Dezember 2002 über Versicherungsvermittler (ABl. EU Nr. L 9 S. 3) in ein Register eingetragen sind und die Anforderungen des Artikels 4 Abs. 3 der Richtlinie 2002/92/EG erfüllen,
   - g) :: bei Unternehmen, die Eigengeschäfte auch an ausländischen Derivatemärkten und an Kassamärkten nur zur Absicherung dieser Positionen betreiben, das Finanzkommissionsgeschäft oder die Anlagevermittlung nur für andere Mitglieder dieser Märkte erbringen oder im Wege des Eigenhandels im Sinne des § 1 Absatz 1a Satz 2 Nummer 4 Buchstabe a als Market Maker im Sinne des § 36 Absatz 5 des Wertpapierhandelsgesetzes Preise für andere Mitglieder dieser Märkte stellen, ein Betrag von 25 000 Euro, sofern für die Erfüllung der Verträge, die diese Unternehmen an diesen Märkten oder in diesen Handelssystemen schließen, Clearingmitglieder derselben Märkte oder Handelssysteme haften, und
-  - h) :: bei einem Unternehmen im Sinne des Absatzes 1 Nummer 4 des Artikels 4 der Verordnung (EU) 575/2013 (lokale Firma“), abweichend von Buchstabe c ein Betrag im Gegenwert von mindestens 50 000 Euro.
+  - h) :: bei einem Unternehmen im Sinne des Absatzes 1 Nummer 4 des Artikels 4 der Verordnung (EU) 575/2013 („lokale Firma“), abweichend von Buchstabe c ein Betrag im Gegenwert von mindestens 50 000 Euro.
 - 2. :: Tatsachen vorliegen, aus denen sich ergibt, daß ein Antragsteller oder eine der in § 1 Abs. 2 Satz 1 bezeichneten Personen nicht zuverlässig ist;
 - 3. :: Tatsachen die Annahme rechtfertigen, dass der Inhaber einer bedeutenden Beteiligung nicht den im Interesse der Gewährleistung einer soliden und umsichtigen Führung des Instituts zu stellenden Ansprüchen genügt, insbesondere, dass eines der in § 2c Absatz 1b Satz 1 Nummer 1 bis 6 genannten Kriterien erfüllt ist;
 - 4. :: Tatsachen vorliegen, aus denen sich ergibt, daß der Inhaber oder eine der in § 1 Abs. 2 Satz 1 bezeichneten Personen nicht die zur Leitung des Instituts erforderliche fachliche Eignung hat und auch nicht eine andere Person nach § 25c Absatz 5 als Geschäftsleiter bezeichnet wird;
@@ -4607,7 +4607,7 @@ soweit dies zur Erfüllung der Aufgaben der Bundesanstalt erforderlich ist, insb
 
 Soweit eine zentrale Gegenpartei eine Auslagerung gemäß Artikel 35 der Verordnung (EU) Nr. 648/2012 vornimmt, gilt § 25b Absatz 3 Satz 1 und 2 Absatz 4 entsprechend.
 (+++ §§ 53e bis 53n: Zur Anwendung vgl. § 6 KfWV +++)\\
-§ 53k Kursivdruck: IdF d. Art. 1 Nr. 88 G v. 28.8.2013 I 3395 mWv 1.1.2014 (Änderung wegen offensichtlicher Unrichtigkeit der Änderungsanweisung abweichend vom Bundesgesetzblatt nach dem Wort gilt“ eingearbeitet)
+§ 53k Kursivdruck: IdF d. Art. 1 Nr. 88 G v. 28.8.2013 I 3395 mWv 1.1.2014 (Änderung wegen offensichtlicher Unrichtigkeit der Änderungsanweisung abweichend vom Bundesgesetzblatt nach dem Wort „gilt“ eingearbeitet)
 
 § 53l - Anordnungsbefugnis; Maßnahmen bei organisatorischen Mängeln
 
@@ -4934,7 +4934,7 @@ wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
 - 53. :: entgegen Artikel 48 Absatz 2 eine Zentralverwahrer-Verbindung ohne eine erforderliche Genehmigung oder Anzeige einrichtet,
 - 54. :: entgegen Artikel 48 Absatz 4 die Rückübertragung von Wertpapieren veranlasst,
 - 55. :: entgegen Artikel 48 Absatz 5 geeignete Maßnahmen zur Minderung zusätzlicher Risiken nicht oder nicht richtig trifft,
-- 56. :: entgegen Artikel 48 Absatz 7 eine Zentralverwahrer-Verbindung betreibt, die keine Abwicklung Lieferung gegen Zahlung“ ermöglicht,
+- 56. :: entgegen Artikel 48 Absatz 7 eine Zentralverwahrer-Verbindung betreibt, die keine Abwicklung „Lieferung gegen Zahlung“ ermöglicht,
 - 57. :: entgegen Artikel 49 Absatz 3 einem antragstellenden Emittenten nicht innerhalb von drei Monaten eine Antwort zukommen lässt,
 - 58. :: entgegen Artikel 50 einem anderen Zentralverwahrer den Zugang über eine Stand-Verbindung verwehrt,
 - 59. :: entgegen Artikel 51 Absatz 1 den Antrag eines Zentralverwahrers auf eine kundenspezifische Verbindung ablehnt,
@@ -5345,7 +5345,7 @@ Sicherungsobergrenze:
 
 Falls Sie mehrere Einlagen bei demselben Kreditinstitut haben:
 
-Alle Ihre Einlagen bei demselben Kreditinstitut werden aufaddiert“ und die Gesamtsumme unterliegt der Obergrenze von 100 000 Euro [durch entsprechenden Betrag ersetzen, falls die Währung nicht auf Euro lautet] (2)
+Alle Ihre Einlagen bei demselben Kreditinstitut werden „aufaddiert“ und die Gesamtsumme unterliegt der Obergrenze von 100 000 Euro [durch entsprechenden Betrag ersetzen, falls die Währung nicht auf Euro lautet] (2)
 
 Falls Sie ein Gemeinschaftskonto mit einer oder mehreren anderen Personen haben:
 
@@ -5370,7 +5370,7 @@ Weitere Informationen:
 
 Empfangsbestätigung durch den Einleger:
 
-
+ 
 
 Zusätzliche Informationen (für alle oder einige der nachstehenden Punkte)\\
 \\

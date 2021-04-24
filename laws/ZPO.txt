@@ -8,13 +8,13 @@ Inhaltsübersicht
 
 Buch 1
 Allgemeine Vorschriften
-
+ 
 Abschnitt 1
 Gerichte
-
-
+ 
+ 
 Titel 1
-
+ 
 Sachliche Zuständigkeit der Gerichte und Wertvorschriften
 § 1
 Sachliche Zuständigkeit
@@ -38,10 +38,10 @@ Wiederkehrende Nutzungen oder Leistungen
 (weggefallen)
 § 11
 Bindende Entscheidung über Unzuständigkeit
-
-
+ 
+ 
 Titel 2
-
+ 
 Gerichtsstand
 § 12
 Allgemeiner Gerichtsstand; Begriff
@@ -113,10 +113,10 @@ Wahl unter mehreren Gerichtsständen
 Gerichtliche Bestimmung der Zuständigkeit
 § 37
 Verfahren bei gerichtlicher Bestimmung
-
-
+ 
+ 
 Titel 3
-
+ 
 Vereinbarung über die Zuständigkeit der Gerichte
 § 38
 Zugelassene Gerichtsstandsvereinbarung
@@ -124,10 +124,10 @@ Zugelassene Gerichtsstandsvereinbarung
 Zuständigkeit infolge rügeloser Verhandlung
 § 40
 Unwirksame und unzulässige Gerichtsstandsvereinbarung
-
-
+ 
+ 
 Titel 4
-
+ 
 Ausschließung und Ablehnung der Gerichtspersonen
 § 41
 Ausschluss von der Ausübung des Richteramtes
@@ -147,13 +147,13 @@ Unaufschiebbare Amtshandlungen
 Selbstablehnung; Ablehnung von Amts wegen
 § 49
 Urkundsbeamte
-
+ 
 Abschnitt 2
 Parteien
-
-
+ 
+ 
 Titel 1
-
+ 
 Parteifähigkeit; Prozessfähigkeit
 § 50
 Parteifähigkeit
@@ -173,10 +173,10 @@ Prüfung von Amts wegen
 Prozesspfleger
 § 58
 Prozesspfleger bei herrenlosem Grundstück oder Schiff
-
-
+ 
+ 
 Titel 2
-
+ 
 Streitgenossenschaft
 § 59
 Streitgenossenschaft bei Rechtsgemeinschaft oder Identität des Grundes
@@ -188,10 +188,10 @@ Wirkung der Streitgenossenschaft
 Notwendige Streitgenossenschaft
 § 63
 Prozessbetrieb; Ladungen
-
-
+ 
+ 
 Titel 3
-
+ 
 Beteiligung Dritter am Rechtsstreit
 § 64
 Hauptintervention
@@ -221,10 +221,10 @@ Gläubigerstreit
 Urheberbenennung bei Besitz
 § 77
 Urheberbenennung bei Eigentumsbeeinträchtigung
-
-
+ 
+ 
 Titel 4
-
+ 
 Prozessbevollmächtigte und Beistände
 § 78
 Anwaltsprozess
@@ -258,10 +258,10 @@ Mangel der Vollmacht
 Vollmachtloser Vertreter
 § 90
 Beistand
-
-
+ 
+ 
 Titel 5
-
+ 
 Prozesskosten
 § 91
 Grundsatz und Umfang der Kostenpflicht
@@ -303,10 +303,10 @@ Vereinfachter Kostenfestsetzungsbeschluss
 Verteilung nach Quoten
 § 107
 Änderung nach Streitwertfestsetzung
-
-
+ 
+ 
 Titel 6
-
+ 
 Sicherheitsleistung
 § 108
 Art und Höhe der Sicherheit
@@ -320,10 +320,10 @@ Nachträgliche Prozesskostensicherheit
 Höhe der Prozesskostensicherheit
 § 113
 Fristbestimmung für Prozesskostensicherheit
-
-
+ 
+ 
 Titel 7
-
+ 
 Prozesskostenhilfe und Prozesskostenvorschuss
 § 114
 Voraussetzungen
@@ -355,13 +355,13 @@ Einziehung der Kosten
 Beitreibung der Rechtsanwaltskosten
 § 127
 Entscheidungen
-
+ 
 Abschnitt 3
 Verfahren
-
-
+ 
+ 
 Titel 1
-
+ 
 Mündliche Verhandlung
 § 128
 Grundsatz der Mündlichkeit; schriftliches Verfahren
@@ -451,15 +451,15 @@ Unterschreiben des Protokolls
 Protokollberichtigung
 § 165
 Beweiskraft des Protokolls
-
-
+ 
+ 
 Titel 2
-
+ 
 Verfahren bei Zustellungen
-
-
+ 
+ 
 Untertitel 1
-
+ 
 Zustellungen von Amts wegen
 § 166
 Zustellung
@@ -511,10 +511,10 @@ Zeitpunkt der öffentlichen Zustellung
 Heilung von Zustellungsmängeln
 § 190
 Einheitliche Zustellungsformulare
-
-
+ 
+ 
 Untertitel 2
-
+ 
 Zustellungen auf Betreiben der Parteien
 § 191
 Zustellung
@@ -528,10 +528,10 @@ Zustellungsauftrag
 Zustellung von Anwalt zu Anwalt
 §§ 195a bis 213a
 (weggefallen)
-
-
+ 
+ 
 Titel 3
-
+ 
 Ladungen, Termine und Fristen
 § 214
 Ladung zum Termin
@@ -565,10 +565,10 @@ Terminsänderung
 (weggefallen)
 § 229
 Beauftragter oder ersuchter Richter
-
-
+ 
+ 
 Titel 4
-
+ 
 Folgen der Versäumung; Rechtsbehelfsbelehrung; Wiedereinsetzung in den vorigen Stand
 § 230
 Allgemeine Versäumungsfolge
@@ -588,10 +588,10 @@ Wiedereinsetzungsantrag
 Zuständigkeit für Wiedereinsetzung
 § 238
 Verfahren bei Wiedereinsetzung
-
-
+ 
+ 
 Titel 5
-
+ 
 Unterbrechung und Aussetzung des Verfahrens
 § 239
 Unterbrechung durch Tod der Partei
@@ -623,16 +623,16 @@ Ruhen des Verfahrens
 Säumnis beider Parteien; Entscheidung nach Lage der Akten
 § 252
 Rechtsmittel bei Aussetzung
-
+ 
 Buch 2
 Verfahren im ersten Rechtszug
-
+ 
 Abschnitt 1
 Verfahren vor den Landgerichten
-
-
+ 
+ 
 Titel 1
-
+ 
 Verfahren bis zum Urteil
 § 253
 Klageschrift
@@ -740,10 +740,10 @@ Elektronische Akte; Verordnungsermächtigung
 Akteneinsicht; Abschriften
 § 299a
 Datenträgerarchiv
-
-
+ 
+ 
 Titel 2
-
+ 
 Urteil
 § 300
 Endurteil
@@ -821,10 +821,10 @@ Rechtskraft bei Testamentsvollstreckung
 Anerkennung ausländischer Urteile
 § 329
 Beschlüsse und Verfügungen
-
-
+ 
+ 
 Titel 3
-
+ 
 Versäumnisurteil
 § 330
 Versäumnisurteil gegen den Kläger
@@ -868,10 +868,10 @@ Zweites Versäumnisurteil
 Verzicht und Zurücknahme des Einspruchs
 § 347
 Verfahren bei Widerklage und Zwischenstreit
-
-
+ 
+ 
 Titel 4
-
+ 
 Verfahren vor dem Einzelrichter
 § 348
 Originärer Einzelrichter
@@ -883,10 +883,10 @@ Vorsitzender der Kammer für Handelssachen
 Rechtsmittel
 §§ 351 bis 354
 (weggefallen)
-
-
+ 
+ 
 Titel 5
-
+ 
 Allgemeine Vorschriften über die Beweisaufnahme
 § 355
 Unmittelbarkeit der Beweisaufnahme
@@ -924,10 +924,10 @@ Neuer Beweistermin
 Ausländische Beweisaufnahme
 § 370
 Fortsetzung der mündlichen Verhandlung
-
-
+ 
+ 
 Titel 6
-
+ 
 Beweis durch Augenschein
 § 371
 Beweis durch Augenschein
@@ -939,10 +939,10 @@ Beweiskraft gescannter öffentlicher Urkunden
 Beweisaufnahme
 § 372a
 Untersuchungen zur Feststellung der Abstammung
-
-
+ 
+ 
 Titel 7
-
+ 
 Zeugenbeweis
 § 373
 Beweisantritt
@@ -1002,10 +1002,10 @@ Verzicht auf Zeugen
 Befugnisse des mit der Beweisaufnahme betrauten Richters
 § 401
 Zeugenentschädigung
-
-
+ 
+ 
 Titel 8
-
+ 
 Beweis durch Sachverständige
 § 402
 Anwendbarkeit der Vorschriften für Zeugen
@@ -1039,10 +1039,10 @@ Neues Gutachten
 Sachverständigenvergütung
 § 414
 Sachverständige Zeugen
-
-
+ 
+ 
 Titel 9
-
+ 
 Beweis durch Urkunden
 § 415
 Beweiskraft öffentlicher Urkunden über Erklärungen
@@ -1106,10 +1106,10 @@ Würdigung der Schriftvergleichung
 Verwahrung verdächtiger Urkunden
 § 444
 Folgen der Beseitigung einer Urkunde
-
-
+ 
+ 
 Titel 10
-
+ 
 Beweis durch Parteivernehmung
 § 445
 Vernehmung des Gegners; Beweisantritt
@@ -1135,10 +1135,10 @@ Ausbleiben der Partei
 Prozessunfähige
 §§ 456 bis 477
 (weggefallen)
-
-
+ 
+ 
 Titel 11
-
+ 
 Abnahme von Eiden und Bekräftigungen
 § 478
 Eidesleistung in Person
@@ -1154,10 +1154,10 @@ Eidesleistung; Eidesformel
 Eidesleistung sprach- oder hörbehinderter Personen
 § 484
 Eidesgleiche Bekräftigung
-
-
+ 
+ 
 Titel 12
-
+ 
 Selbständiges Beweisverfahren
 § 485
 Zulässigkeit
@@ -1179,7 +1179,7 @@ Benutzung im Prozess
 Unbekannter Gegner
 § 494a
 Frist zur Klageerhebung
-
+ 
 Abschnitt 2
 Verfahren vor den Amtsgerichten
 § 495
@@ -1212,10 +1212,10 @@ Inhalt des Protokolls
 Urteil auf Vornahme einer Handlung
 § 510c
 (weggefallen)
-
+ 
 Buch 3
 Rechtsmittel
-
+ 
 Abschnitt 1
 Berufung
 § 511
@@ -1280,7 +1280,7 @@ Versäumnisverfahren
 Inhalt des Berufungsurteils
 § 541
 Prozessakten
-
+ 
 Abschnitt 2
 Revision
 § 542
@@ -1335,13 +1335,13 @@ Keine Begründung der Entscheidung bei Rügen von Verfahrensmängeln
 Anzuwendende Vorschriften des Berufungsverfahrens
 § 566
 Sprungrevision
-
+ 
 Abschnitt 3
 Beschwerde
-
-
+ 
+ 
 Titel 1
-
+ 
 Sofortige Beschwerde
 § 567
 Sofortige Beschwerde; Anschlussbeschwerde
@@ -1357,10 +1357,10 @@ Begründung, Präklusion, Ausnahmen vom Anwaltszwang
 Gang des Beschwerdeverfahrens
 § 573
 Erinnerung
-
-
+ 
+ 
 Titel 2
-
+ 
 Rechtsbeschwerde
 § 574
 Rechtsbeschwerde; Anschlussrechtsbeschwerde
@@ -1370,7 +1370,7 @@ Frist, Form und Begründung der Rechtsbeschwerde
 Gründe der Rechtsbeschwerde
 § 577
 Prüfung und Entscheidung der Rechtsbeschwerde
-
+ 
 Buch 4
 Wiederaufnahme des Verfahrens
 § 578
@@ -1401,7 +1401,7 @@ Zulässigkeitsprüfung
 Neue Verhandlung
 § 591
 Rechtsmittel
-
+ 
 Buch 5
 Urkunden- und Wechselprozess
 § 592
@@ -1434,7 +1434,7 @@ Klageinhalt; Ladungsfrist
 Beweisvorschriften
 § 605a
 Scheckprozess
-
+ 
 Buch 6
 Musterfeststellungsverfahren
 § 606
@@ -1457,8 +1457,8 @@ Bindungswirkung des Musterfeststellungsurteils; Aussetzung
 Rechtsmittel
 § 615 bis 687
 (weggefallen)
-
-
+ 
+ 
 Buch 7
 Mahnverfahren
 § 688
@@ -1501,13 +1501,13 @@ Sonderregelungen für maschinelle Bearbeitung
 Formulare; Einführung der maschinellen Bearbeitung
 § 703d
 Antragsgegner ohne allgemeinen inländischen Gerichtsstand
-
+ 
 Buch 8
 Zwangsvollstreckung
-
-
+ 
+ 
 Abschnitt 1
-
+ 
 Allgemeine Vorschriften
 § 704
 Vollstreckbare Endurteile
@@ -1741,15 +1741,15 @@ Vollstreckbare Urkunde bei Schiffshypothek
 Landesrechtliche Vollstreckungstitel
 § 802
 Ausschließlichkeit der Gerichtsstände
-
+ 
 Abschnitt 2
 Zwangsvollstreckung wegen Geldforderungen
-
-
+ 
+ 
 Titel 1
-
+ 
 Allgemeine Vorschriften
-
+ 
 § 802a
 Grundsätze der Vollstreckung; Regelbefugnisse des Gerichtsvollziehers
 § 802b
@@ -1774,15 +1774,15 @@ Dauer der Haft; erneute Haft
 Zentrale Verwaltung der Vermögensverzeichnisse
 § 802l
 Auskunftsrechte des Gerichtsvollziehers
-
-
+ 
+ 
 Titel 2
-
+ 
 Zwangsvollstreckung in des bewegliche Vermögen
-
-
+ 
+ 
 Untertitel 1
-
+ 
 Allgemeine Vorschriften
 § 803
 Pfändung
@@ -1798,10 +1798,10 @@ Mitteilungen und Befragung durch den Gerichtsvollzieher
 (weggefallen)
 § 807
 Abnahme der Vermögensauskunft nach Pfändungsversuch
-
-
+ 
+ 
 Untertitel 2
-
+ 
 Zwangsvollstreckung in körperliche Sachen
 § 808
 Pfändung beim Schuldner
@@ -1857,10 +1857,10 @@ Andere Verwertungsart
 Anschlusspfändung
 § 827
 Verfahren bei mehrfacher Pfändung
-
-
+ 
+ 
 Untertitel 3
-
+ 
 Zwangsvollstreckung in Forderungen und andere Vermögensrechte
 § 828
 Zuständigkeit des Vollstreckungsgerichts
@@ -1974,10 +1974,10 @@ Pfändung von Gesamtgutanteilen
 (weggefallen)
 § 863
 Pfändungsbeschränkungen bei Erbschaftsnutzungen
-
-
+ 
+ 
 Titel 3
-
+ 
 Zwangsvollstreckung in das unbewegliche Vermögen
 § 864
 Gegenstand der Immobiliarvollstreckung
@@ -1997,10 +1997,10 @@ Grundstücksgleiche Rechte
 Zwangsvollstreckung in ein Schiff oder Schiffsbauwerk
 § 871
 Landesrechtlicher Vorbehalt bei Eisenbahnen
-
-
+ 
+ 
 Titel 4
-
+ 
 Verteilungsverfahren
 § 872
 Voraussetzungen
@@ -2024,19 +2024,19 @@ Inhalt des Urteils
 Versäumnisurteil
 § 882
 Verfahren nach dem Urteil
-
-
+ 
+ 
 Titel 5
-
+ 
 Zwangsvollstreckung gegen juristische Personen des öffentlichen Rechts
 § 882a
 Zwangsvollstreckung wegen einer Geldforderung
-
-
+ 
+ 
 Titel 6
-
+ 
 Schuldnerverzeichnis
-
+ 
 § 882b
 Inhalt des Schuldnerverzeichnisses
 § 882c
@@ -2091,11 +2091,11 @@ Erteilung von Urkunden an Gläubiger
 Übereignung; Verschaffung von Grundpfandrechten
 § 898
 Gutgläubiger Erwerb
-
+ 
 Abschnitt 4
 §§ 899 bis 915h
 (weggefallen)
-
+ 
 Abschnitt 5
 Arrest und einstweilige Verfügung
 § 916
@@ -2164,17 +2164,17 @@ Schadensersatzpflicht
 Einreichung von Schutzschriften
 § 945b
 Verordnungsermächtigung
-
-
+ 
+ 
  Abschnitt 6
  Grenzüberschreitende vorläufige Kontenpfändung
-
-
-
+ 
+ 
+ 
 Titel 1
-
+ 
 Erlass des Beschlusses zur vorläufigen Kontenpfändung
-
+ 
 § 946
 Zuständigkeit
 § 947
@@ -2183,28 +2183,28 @@ Verfahren
 Ersuchen um Einholung von Kontoinformationen
 § 949
 Nicht rechtzeitige Einleitung des Hauptsacheverfahrens
-
-
-
+ 
+ 
+ 
 Titel 2
-
+ 
 Vollziehung des Beschlusses zur vorläufigen Kontenpfändung
-
-
+ 
+ 
 § 950
 Anwendbare Vorschriften
 § 951
 Vollziehung von im Inland erlassenen Beschlüssen
 § 952
 Vollziehung von in einem anderen Mitgliedstaat erlassenen Beschlüssen
-
-
-
+ 
+ 
+ 
 Titel 3
-
+ 
 Rechtsbehelfe
-
-
+ 
+ 
 § 953
 Rechtsbehelfe des Gläubigers
 § 954
@@ -2215,25 +2215,25 @@ Sicherheitsleistung nach Artikel 38 der Verordnung (EU) Nr. 655/2014
 Rechtsmittel gegen die Entscheidungen nach § 954 Absatz 1 bis 3 und § 955
 § 957
 Ausschluss der Rechtsbeschwerde
-
-
-
+ 
+ 
+ 
 Titel 4
-
+ 
 Schadensersatz; Verordnungsermächtigung
-
-
+ 
+ 
 § 958
 Schadensersatz
 § 959
 Verordnungsermächtigung
-
+ 
 Buch 9
 (weggefallen)
-
+ 
 Buch 10
 Schiedsrichterliches Verfahren
-
+ 
 Abschnitt 1
 Allgemeine Vorschriften
 § 1025
@@ -2244,7 +2244,7 @@ Umfang gerichtlicher Tätigkeit
 Verlust des Rügerechts
 § 1028
 Empfang schriftlicher Mitteilungen bei unbekanntem Aufenthalt
-
+ 
 Abschnitt 2
 Schiedsvereinbarung
 § 1029
@@ -2257,7 +2257,7 @@ Form der Schiedsvereinbarung
 Schiedsvereinbarung und Klage vor Gericht
 § 1033
 Schiedsvereinbarung und einstweilige gerichtliche Maßnahmen
-
+ 
 Abschnitt 3
 Bildung des Schiedsgerichts
 § 1034
@@ -2272,14 +2272,14 @@ Ablehnungsverfahren
 Untätigkeit oder Unmöglichkeit der Aufgabenerfüllung
 § 1039
 Bestellung eines Ersatzschiedsrichters
-
+ 
 Abschnitt 4
 Zuständigkeit des Schiedsgerichts
 § 1040
 Befugnis des Schiedsgerichts zur Entscheidung über die eigene Zuständigkeit
 § 1041
 Maßnahmen des einstweiligen Rechtsschutzes
-
+ 
 Abschnitt 5
 Durchführung des schiedsrichterlichen Verfahrens
 § 1042
@@ -2300,7 +2300,7 @@ Säumnis einer Partei
 Vom Schiedsgericht bestellter Sachverständiger
 § 1050
 Gerichtliche Unterstützung bei der Beweisaufnahme und sonstige richterliche Handlungen
-
+ 
 Abschnitt 6
 Schiedsspruch und Beendigung des Verfahrens
 § 1051
@@ -2319,19 +2319,19 @@ Beendigung des schiedsrichterlichen Verfahrens
 Entscheidung über die Kosten
 § 1058
 Berichtigung, Auslegung und Ergänzung des Schiedsspruchs
-
+ 
 Abschnitt 7
 Rechtsbehelf gegen den Schiedsspruch
 § 1059
 Aufhebungsantrag
-
+ 
 Abschnitt 8
 Voraussetzungen der Anerkennung und Vollstreckung von Schiedssprüchen
 § 1060
 Inländische Schiedssprüche
 § 1061
 Ausländische Schiedssprüche
-
+ 
 Abschnitt 9
 Gerichtliches Verfahren
 § 1062
@@ -2342,15 +2342,15 @@ Allgemeine Vorschriften
 Besonderheiten bei der Vollstreckbarerklärung von Schiedssprüchen
 § 1065
 Rechtsmittel
-
+ 
 Abschnitt 10
 Außervertragliche Schiedsgerichte
 § 1066
 Entsprechende Anwendung der Vorschriften des Buches 10
-
+ 
 Buch 11
 Justizielle Zusammenarbeit in der Europäischen Union
-
+ 
 Abschnitt 1
 Zustellung nach der Verordnung (EG) Nr. 1393/2007
 § 1067
@@ -2363,7 +2363,7 @@ Zuständigkeiten; Verordnungsermächtigungen
 Zustellung nach dem Abkommen zwischen der Europäischen Gemeinschaft und dem Königreich Dänemark vom 19. Oktober 2005 über die Zustellung gerichtlicher und außergerichtlicher Schriftstücke in Zivil- oder Handelssachen
 § 1071
 (weggefallen)
-
+ 
 Abschnitt 2
 Beweisaufnahme nach der Verordnung (EG) Nr. 1206/2001
 § 1072
@@ -2374,7 +2374,7 @@ Teilnahmerechte
 Zuständigkeiten nach der Verordnung (EG) Nr. 1206/2001
 § 1075
 Sprache eingehender Ersuchen
-
+ 
 Abschnitt 3
 Prozesskostenhilfe nach der Richtlinie 2003/8/EG
 § 1076
@@ -2383,13 +2383,13 @@ Anwendbare Vorschriften
 Ausgehende Ersuchen
 § 1078
 Eingehende Ersuchen
-
+ 
 Abschnitt 4
 Europäische Vollstreckungstitel nach der Verordnung (EG) Nr. 805/2004
-
-
+ 
+ 
 Titel 1
-
+ 
 Bestätigung inländischer Titel als Europäische Vollstreckungstitel
 § 1079
 Zuständigkeit
@@ -2397,10 +2397,10 @@ Zuständigkeit
 Entscheidung
 § 1081
 Berichtigung und Widerruf
-
-
+ 
+ 
 Titel 2
-
+ 
 Zwangsvollstreckung aus Europäischen Vollstreckungstiteln im Inland
 § 1082
 Vollstreckungstitel
@@ -2412,13 +2412,13 @@ Anträge nach den Artikeln 21 und 23 der Verordnung (EG) Nr. 805/2004
 Einstellung der Zwangsvollstreckung
 § 1086
 Vollstreckungsabwehrklage
-
+ 
 Abschnitt 5
 Europäisches Mahnverfahren nach der Verordnung (EG) Nr. 1896/2006
-
-
+ 
+ 
 Titel 1
-
+ 
 Allgemeine Vorschriften
 § 1087
 Zuständigkeit
@@ -2426,28 +2426,28 @@ Zuständigkeit
 Maschinelle Bearbeitung
 § 1089
 Zustellung
-
-
+ 
+ 
 Titel 2
-
+ 
 Einspruch gegen den Europäischen Zahlungsbefehl
 § 1090
 Verfahren nach Einspruch
 § 1091
 Einleitung des Streitverfahrens
-
-
+ 
+ 
 Titel 3
-
+ 
 Überprüfung des Europäischen Zahlungsbefehls in Ausnahmefällen
 § 1092
 Verfahren
 § 1092a
 Rechtsbehelf bei Nichtzustellung oder bei nicht ordnungsgemäßer Zustellung des Europäischen Zahlungsbefehls
-
-
+ 
+ 
 Titel 4
-
+ 
 Zwangsvollstreckung aus dem Europäischen Zahlungsbefehl
 § 1093
 Vollstreckungsklausel
@@ -2457,13 +2457,13 @@ Vollstreckungsklausel
 Vollstreckungsschutz und Vollstreckungsabwehrklage gegen den im Inland erlassenen Europäischen Zahlungsbefehl
 § 1096
 Anträge nach den Artikeln 22 und 23 der Verordnung (EG) Nr. 1896/2006; Vollstreckungsabwehrklage
-
+ 
 Abschnitt 6
 Europäisches Verfahren für geringfügige Forderungen nach der Verordnung (EG) Nr. 861/2007
-
-
+ 
+ 
 Titel 1
-
+ 
 Erkenntnisverfahren
 § 1097
 Einleitung und Durchführung des Verfahrens
@@ -2483,10 +2483,10 @@ Säumnis
 Abhilfe bei unverschuldeter Säumnis des Beklagten
 § 1104a
 Gemeinsame Gerichte
-
-
+ 
+ 
 Titel 2
-
+ 
 Zwangsvollstreckung
 § 1105
 Zwangsvollstreckung inländischer Titel
@@ -2498,22 +2498,22 @@ Ausländische Vollstreckungstitel
 Übersetzung
 § 1109
 Anträge nach den Artikeln 22 und 23 der Verordnung (EG) Nr. 861/2007; Vollstreckungsabwehrklage
-
+ 
 Abschnitt 7
 Anerkennung und Vollstreckung nach der Verordnung (EU) Nr. 1215/2012
-
-
+ 
+ 
 Titel 1
-
+ 
 Bescheinigung über inländische Titel
 § 1110
 Zuständigkeit
 § 1111
 Verfahren
-
-
+ 
+ 
 Titel 2
-
+ 
 Anerkennung und Vollstreckung ausländischer Titel im Inland
 § 1112
 Entbehrlichkeit der Vollstreckungsklausel
@@ -2527,10 +2527,10 @@ Versagung der Anerkennung oder der Vollstreckung
 Wegfall oder Beschränkung der Vollstreckbarkeit im Ursprungsmitgliedstaat
 § 1117
 Vollstreckungsabwehrklage
-
+ 
 Abschnitt 8
 Beweis der Echtheit ausländischer öffentlicher Urkunden nach der Verordnung (EU) 2016/1191
-
+ 
 § 1118
 Zentralbehörde
 § 1119
@@ -3749,7 +3749,7 @@ Ist die Zustellung nach § 178 Abs. 1 Nr. 1 oder 2 nicht ausführbar, kann das S
 
 (1) Soweit nicht unmittelbar anwendbare Regelungen der Europäischen Union in ihrer jeweils geltenden Fassung, insbesondere
 
-- 1. :: die Verordnung (EG) Nr. 1393/2007 des Europäischen Parlaments und des Rates vom 13. November 2007 über die Zustellung gerichtlicher und auZustellung von Schriftstücken“) und zur Aufhebung der Verordnung (EG) Nr. 1348/2000 des Rates (ABl. L 324 vom 10.12.2007, S. 79), die durch die Verordnung (EU) Nr. 517/2013 (ABl. L 158 vom 10.6.2013, S. 1) geändert worden ist, sowie
+- 1. :: die Verordnung (EG) Nr. 1393/2007 des Europäischen Parlaments und des Rates vom 13. November 2007 über die Zustellung gerichtlicher und außergerichtlicher Schriftstücke in Zivil- oder Handelssachen in den Mitgliedstaaten („Zustellung von Schriftstücken“) und zur Aufhebung der Verordnung (EG) Nr. 1348/2000 des Rates (ABl. L 324 vom 10.12.2007, S. 79), die durch die Verordnung (EU) Nr. 517/2013 (ABl. L 158 vom 10.6.2013, S. 1) geändert worden ist, sowie
 - 2. :: das Abkommen zwischen der Europäischen Gemeinschaft und dem Königreich Dänemark vom 19. Oktober 2005 über die Zustellung gerichtlicher und außergerichtlicher Schriftstücke in Zivil- oder Handelssachen (ABl. L 300 vom 17.11.2005, S. 55)
 
 maßgeblich sind, gelten für die Zustellung im Ausland die nachfolgenden Absätze 2 bis 5. Für die Durchführung der in Satz 1 genannten Regelungen gelten § 1067 Absatz 1, § 1068 Absatz 1 und § 1069 Absatz 1.
@@ -9116,7 +9116,7 @@ Pfändbarer Betrag bei Unterhaltspflicht für ... Personen
 
 in EUR
 
-
+ 
 
 bis
 
@@ -12610,7 +12610,7 @@ Pfändbarer Betrag bei Unterhaltspflicht für ... Personen
 
 in EUR
 
-
+ 
 
 bis
 
@@ -15816,7 +15816,7 @@ Pfändbarer Betrag bei Unterhaltspflicht für ... Personen
 
 in EUR
 
-
+ 
 
 bis
 
@@ -19002,23 +19002,23 @@ bis
 
 3,50
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
-
-
+ 
 
 Der Mehrbetrag ab 131,58 EUR ist voll pfändbar.
 

@@ -6,25 +6,25 @@ Ausfertigungsdatum: 30.11.2019
 
 Inhaltsübersicht
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 § 1 - Anwendungsbereich
 
@@ -43,22 +43,22 @@ Inhaltsübersicht
 
 Im Sinne dieses Gesetzes ist oder sind:
 
-- 1. :: Allgemeines VN-Übereinkommen“ das Übereinkommen vom 13. Februar 1946 über die Vorrechte und Immunitäten der Vereinten Nationen (BGBl. 1980 II S. 941);
-- 2. :: Abkommen VN-Sonderorganisationen“ das Abkommen vom 21. November 1947 über die Vorrechte und Befreiungen der Sonderorganisationen der Vereinten Nationen (BGBl. 1954 II S. 639);
-- 3. :: Wiener Übereinkommen“ das Wiener Übereinkommen vom 18. April 1961 über diplomatische Beziehungen (BGBl. 1964 II S. 957);
-- 4. :: Protokoll (Nr. 7) über die Vorrechte und Befreiungen der Europäischen Union“, das dem Vertrag über die Europäische Union und dem Vertrag über die Arbeitsweise der Europäischen Union beigefügte Protokoll (Nr. 7) über die Vorrechte und Befreiungen der Europäischen Union vom 8. April 1965 (BGBl. 1965 II S. 1482);
-- 5. :: Sitzabkommen“ das von der Bundesrepublik Deutschland mit einer internationalen Organisation geschlossene Abkommen mit Regelungen für ihre Tätigkeit in Deutschland, in Ergänzung zu den Bestimmungen dieses Gesetzes;
-- 6. :: Sitzgelände“ ungeachtet der Eigentumsverhältnisse die Gebäude und Bauten (Räumlichkeiten), Ausstattung und sonstige Einrichtungen und Anlagen sowie die umgebenden Flächen, die nach einem Abkommen mit der Bundesregierung oder einem sonstigen Rechtsakt von der internationalen Organisation oder der weiteren internationalen Einrichtung in Deutschland in Besitz genommen und genutzt werden;
-- 7. :: Vertreter der Mitglieder“ die Vertreter der Staaten und der internationalen Organisationen, die Mitglieder oder anerkannte Beobachter der internationalen Organisation oder der weiteren internationalen Einrichtung sind;
-- 8. :: Leiter der internationalen Organisation“ oder Leiter der weiteren internationalen Einrichtung“ die gemäß den Statuten zur rechtswirksamen Vertretung der internationalen Organisation oder weiteren internationalen Einrichtung befugte Person;
-- 9. :: Bedienstete der internationalen Organisation“ oder Bedienstete der weiteren internationalen Einrichtung“ der Leiter und die sonstigen Amtsträger der internationalen Organisation oder weiteren internationalen Einrichtung, ungeachtet ihrer Staatsangehörigkeit;
-- 10. :: Unmittelbare Angehörige“ von Bediensteten der internationalen Organisation oder der weiteren internationalen Einrichtung die in ihrem Haushalt lebenden
+- 1. :: „Allgemeines VN-Übereinkommen“ das Übereinkommen vom 13. Februar 1946 über die Vorrechte und Immunitäten der Vereinten Nationen (BGBl. 1980 II S. 941);
+- 2. :: „Abkommen VN-Sonderorganisationen“ das Abkommen vom 21. November 1947 über die Vorrechte und Befreiungen der Sonderorganisationen der Vereinten Nationen (BGBl. 1954 II S. 639);
+- 3. :: „Wiener Übereinkommen“ das Wiener Übereinkommen vom 18. April 1961 über diplomatische Beziehungen (BGBl. 1964 II S. 957);
+- 4. :: „Protokoll (Nr. 7) über die Vorrechte und Befreiungen der Europäischen Union“, das dem Vertrag über die Europäische Union und dem Vertrag über die Arbeitsweise der Europäischen Union beigefügte Protokoll (Nr. 7) über die Vorrechte und Befreiungen der Europäischen Union vom 8. April 1965 (BGBl. 1965 II S. 1482);
+- 5. :: „Sitzabkommen“ das von der Bundesrepublik Deutschland mit einer internationalen Organisation geschlossene Abkommen mit Regelungen für ihre Tätigkeit in Deutschland, in Ergänzung zu den Bestimmungen dieses Gesetzes;
+- 6. :: „Sitzgelände“ ungeachtet der Eigentumsverhältnisse die Gebäude und Bauten (Räumlichkeiten), Ausstattung und sonstige Einrichtungen und Anlagen sowie die umgebenden Flächen, die nach einem Abkommen mit der Bundesregierung oder einem sonstigen Rechtsakt von der internationalen Organisation oder der weiteren internationalen Einrichtung in Deutschland in Besitz genommen und genutzt werden;
+- 7. :: „Vertreter der Mitglieder“ die Vertreter der Staaten und der internationalen Organisationen, die Mitglieder oder anerkannte Beobachter der internationalen Organisation oder der weiteren internationalen Einrichtung sind;
+- 8. :: „Leiter der internationalen Organisation“ oder „Leiter der weiteren internationalen Einrichtung“ die gemäß den Statuten zur rechtswirksamen Vertretung der internationalen Organisation oder weiteren internationalen Einrichtung befugte Person;
+- 9. :: „Bedienstete der internationalen Organisation“ oder „Bedienstete der weiteren internationalen Einrichtung“ der Leiter und die sonstigen Amtsträger der internationalen Organisation oder weiteren internationalen Einrichtung, ungeachtet ihrer Staatsangehörigkeit;
+- 10. :: „Unmittelbare Angehörige“ von Bediensteten der internationalen Organisation oder der weiteren internationalen Einrichtung die in ihrem Haushalt lebenden
   - a) :: Ehegatten, gleichgeschlechtliche Lebenspartner;
   - b) :: Kinder bis zur Vollendung des 18. Lebensjahres, oder, wenn sie unterhaltsberechtigt sind, bis zur Vollendung des 25. Lebensjahres und
   - c) :: Kinder ohne Rücksicht auf ihr Alter, wenn sie als behinderte Menschen auf den Unterhalt des Bediensteten angewiesen sind.
 
   Kinder im Sinne dieses Gesetzes sind auch Personen, die auf Grund nationaler oder internationaler Rechtsvorschriften als Kinder des Bediensteten gelten.
-- 11. :: Sachverständige im Auftrag“ Personen mit Ausnahme der Bediensteten, die Aufträge für die internationale Organisation oder weiteren internationalen Einrichtung durchführen und die, soweit sie für die Vereinten Nationen tätig sind, in den Geltungsbereich der Artikel VI und VII des Allgemeinen VN-Übereinkommens fallen.
+- 11. :: „Sachverständige im Auftrag“ Personen mit Ausnahme der Bediensteten, die Aufträge für die internationale Organisation oder weiteren internationalen Einrichtung durchführen und die, soweit sie für die Vereinten Nationen tätig sind, in den Geltungsbereich der Artikel VI und VII des Allgemeinen VN-Übereinkommens fallen.
 
 
 § 3 - Internationale Organisationen
@@ -189,7 +189,7 @@ Mindert sich die Bemessungsgrundlage nachträglich, hat die Organisation die Bun
 § 17 - Passierschein und Bescheinigung der Vereinten Nationen, Reisedokumente anderer internationaler Organisationen
 
 (1) Der von den Vereinten Nationen ausgestellte Passierschein mit der Bezeichnung Laissez-Passer wird als gültiger Reiseausweis, der einem Pass gleichwertig ist, anerkannt und entgegengenommen. Vorbehaltlich unionsrechtlicher Bestimmungen werden bei Vorlage eines Passierscheins der Vereinten Nationen die etwa erforderlichen Visa kostenlos und so rasch wie möglich ausgestellt. Satz 2 gilt ebenfalls für Sachverständige und sonstige Personen, die ohne im Besitz eines Passierscheins der Vereinten Nationen zu sein, Inhaber einer Bescheinigung darüber sind, dass sie für die Organisation reisen, und über ein anerkanntes und gültiges Reisedokument verfügen.
-(2) Dasselbe gilt für in Anlage 5 Teil III des Leitfadens für Grenzschutzbeamte (Schengen-Handbuch“) aufgelistete Reisedokumente anderer internationaler Organisationen, die von der Bundesrepublik Deutschland als visierfähig anerkannt sind.
+(2) Dasselbe gilt für in Anlage 5 Teil III des Leitfadens für Grenzschutzbeamte („Schengen-Handbuch“) aufgelistete Reisedokumente anderer internationaler Organisationen, die von der Bundesrepublik Deutschland als visierfähig anerkannt sind.
 
 § 18 - Mitteilung zum Personal, Ausstellung von Ausweisen
 

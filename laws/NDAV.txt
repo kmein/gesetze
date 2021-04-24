@@ -16,7 +16,7 @@ Netzanschlussverhältnis
 Anschlussnutzungsverhältnis
 § 4
 Inhalt des Vertrages und der Bestätigung des Netzbetreibers
-
+ 
 Teil 2
 Netzanschluss
 § 5
@@ -41,7 +41,7 @@ Gasanlage
 Inbetriebsetzung der Gasanlage
 § 15
 Überprüfung der Gasanlage
-
+ 
 Teil 3
 Anschlussnutzung
 § 16
@@ -50,14 +50,14 @@ Nutzung des Anschlusses
 Unterbrechung der Anschlussnutzung
 § 18
 Haftung bei Störungen der Anschlussnutzung
-
+ 
 Teil 4
 Gemeinsame Vorschriften
-
-
-
+ 
+ 
+ 
 Abschnitt 1
-
+ 
 Anlagenbetrieb und Rechte des Netzbetreibers
 § 19
 Betrieb von Gasanlagen und Verbrauchsgeräten, Eigenerzeugung
@@ -67,10 +67,10 @@ Technische Anschlussbedingungen
 Zutrittsrecht
 § 22
 Messeinrichtungen
-
-
+ 
+ 
 Abschnitt 2
-
+ 
 Fälligkeit, Folgen von Zuwiderhandlungen, Beendigung der Rechtsverhältnisse
 § 23
 Zahlung, Verzug
@@ -82,7 +82,7 @@ Kündigung des Netzanschlussverhältnisses
 Beendigung des Anschlussnutzungsverhältnisses
 § 27
 Fristlose Kündigung oder Beendigung
-
+ 
 Teil 5
 Schlussbestimmungen
 § 28

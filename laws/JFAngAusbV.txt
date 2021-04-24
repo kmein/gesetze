@@ -156,7 +156,7 @@ zeitliche Richtwerte in Wochen im Ausbildungsjahr
 Die ausbildende Behörde\\
 (§ 3 Nr. 1)
 
-
+ 
 
 während der gesamten Ausbildung zu vermitteln
 
@@ -219,18 +219,18 @@ Kommunikation und Kooperation in berufstypischen Situationen\\
 
 2*)
 
+ 
 
-
-
+ 
 
 - f) :: Notwendigkeit gegenseitiger Information und Vorzüge von Zusammenarbeit aufzeigen; Aufgaben kooperativ lösen
 - g) :: über zusätzliche bürgerorientierte Dienstleistungen der ausbildenden Behörde informieren
 
-
+ 
 
 2*)
 
-
+ 
 
 3
 
@@ -252,9 +252,9 @@ Büroorganisatorische Abläufe\\
 
 8*)
 
+ 
 
-
-
+ 
 
 4
 
@@ -269,32 +269,32 @@ Arbeitsorganisation\\
 
 3
 
+ 
 
-
-
+ 
 
 - f) :: Möglichkeiten der Arbeitsplatz- und Arbeitsraumgestaltung unter Berücksichtigung ergonomischer Grundsätze an Beispielen der ausbildenden Behörde aufzeigen
 - g) :: eigene Arbeitsorganisation rationell und funktionsgerecht gestalten
 - h) :: aus betriebswirtschaftlichen Vorgaben Folgerungen für die Arbeitsorganisation ableiten
 
-
+ 
 
 3
 
-
+ 
 
 5
 
 Informationsverarbeitung\\
 (§ 3 Nr. 5)
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 5.1
 
@@ -307,11 +307,11 @@ Informations- und Kommunikationstechniken, Datenschutz\\
 - d) :: die Vorschriften des Datenschutzrechts über die Erhebung, Verarbeitung und Nutzung von personenbezogenen Daten einhalten
 - e) :: Vorschriften zur Datensicherheit anwenden, Daten sichern
 
-
+ 
 
 6
 
-
+ 
 
 5.2
 
@@ -325,9 +325,9 @@ Textverarbeitung\\
 
 8
 
+ 
 
-
-
+ 
 
 6
 
@@ -339,9 +339,9 @@ Kosten- und Entschädigungsrecht\\
 - c) :: Kosten einziehen, Vorschüsse rückerstatten
 - d) :: Vorschriften über Zeugen- und Sachverständigenentschädigung anwenden
 
+ 
 
-
-
+ 
 
 7
 
@@ -350,13 +350,13 @@ Kosten- und Entschädigungsrecht\\
 Fallbezogene Rechtsanwendung in Zivilverfahren\\
 (§ 3 Nr. 7)
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 7.1
 
@@ -372,9 +372,9 @@ in Zivilprozessverfahren mitwirken, insbesondere
 
 15
 
+ 
 
-
-
+ 
 
 7.2
 
@@ -384,11 +384,11 @@ Zwangsvollstreckung\\
 - a) :: in Zwangsvollstreckungsverfahren in das bewegliche Vermögen mitwirken, insbesondere Schuldnerverzeichnis führen, Auskünfte erteilen
 - b) :: in Zwangsvollstreckungsverfahren in das unbewegliche Vermögen mitwirken, insbesondere Veröffentlichungen veranlassen
 
-
+ 
 
 14
 
-
+ 
 
 7.3
 
@@ -398,9 +398,9 @@ Insolvenzen\\
 - a) :: Veröffentlichungen veranlassen
 - b) :: in Insolvenzverfahren mitwirken, insbesondere bei Eintragungen in die Insolvenztabelle
 
+ 
 
-
-
+ 
 
 10
 
@@ -414,11 +414,11 @@ in Ehe- und Familiensachen mitwirken, insbesondere
 - a) :: Rechtskraft bescheinigen; Rechtskraftbescheinigungen erteilen
 - b) :: Kosten berechnen
 
-
+ 
 
 12
 
-
+ 
 
 8
 
@@ -434,22 +434,22 @@ in Straf- und Ordnungswidrigkeitenverfahren mitwirken, insbesondere
 
 16
 
+ 
 
-
-
+ 
 
 9
 
 Fallbezogene Rechtsanwendung in Verfahren der freiwilligen Gerichtsbarkeit\\
 (§ 3 Nr. 9)
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 9.1
 
@@ -462,11 +462,11 @@ in Verfahren des Grundbuchamtes mitwirken, insbesondere
 - b) :: Einsicht in Grundbuch und Eigentümerkartei gewähren
 - c) :: Anträge präsentieren
 
-
+ 
 
 15
 
-
+ 
 
 9.2
 
@@ -478,9 +478,9 @@ in Verfahren vor dem Nachlaßgericht mitwirken, insbesondere
 - a) :: letztwillige Verfügungen verwahren
 - b) :: letztwillige Verfügungen zur Eröffnung entgegennehmen
 
+ 
 
-
-
+ 
 
 10
 
@@ -491,9 +491,9 @@ Vormundschaftsgerichtliche Angelegenheiten, Betreuung\\
 
 in Verfahren vor dem Vormundschaftsgericht und in Betreuungsverfahren, insbesondere bei Anträgen auf Bestellung eines Betreuers, mitwirken
 
+ 
 
-
-
+ 
 
 12
 
@@ -507,9 +507,9 @@ in Registerverfahren mitwirken, insbesondere
 - a) :: Eintragungen in die Register vornehmen
 - b) :: Veröffentlichungen veranlassen
 
+ 
 
-
-
+ 
 
 13
 

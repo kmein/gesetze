@@ -11,7 +11,7 @@ Auf Grund des § 25 Absatz 1 Satz 1 der Handwerksordnung, der zuletzt durch Arti
 § 1 - Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf des Buchbinders und der Buchbinderin wird nach § 25 der Handwerksordnung für die Ausbildung für das Gewerbe Nummer 39 der Anlage B 1 der Handwerksordnung staatlich anerkannt.
-§ 1 Kursivdruck: Müsste richtig  Anlage B Abschnitt 1“ lauten
+§ 1 Kursivdruck: Müsste richtig „ Anlage B Abschnitt 1“ lauten
 
 § 2 - Dauer der Berufsausbildung
 
@@ -69,7 +69,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten in den Pflichtqualifikatio
 - 4. :: Umweltschutz,
 - 5. :: Betriebliche und kundenorientierte Kommunikation.
 
-§ 4 Abs. 2 Abschn. A Eingangssatz Kursivdruck: Müsste richtig Pflichtqualifikationen" lauten.
+§ 4 Abs. 2 Abschn. A Eingangssatz Kursivdruck: Müsste richtig „Pflichtqualifikationen" lauten.
 
 § 5 - Durchführung der Berufsausbildung
 
@@ -174,14 +174,14 @@ statt.
 
 (2) Die Gesellenprüfung ist bestanden, wenn die Leistungen
 
-- 1. :: im Gesamtergebnis mit mindestens ausreichend“,
-- 2. :: im Prüfungsbereich Buchbinderische Fertigung“ mit mindestens ausreichend“,
-- 3. :: in mindestens zwei weiteren Prüfungsbereichen mit mindestens ausreichend“ und
-- 4. :: in keinem Prüfungsbereich mit ungenügend“
+- 1. :: im Gesamtergebnis mit mindestens „ausreichend“,
+- 2. :: im Prüfungsbereich „Buchbinderische Fertigung“ mit mindestens „ausreichend“,
+- 3. :: in mindestens zwei weiteren Prüfungsbereichen mit mindestens „ausreichend“ und
+- 4. :: in keinem Prüfungsbereich mit „ungenügend“
 
 bewertet worden sind.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der schlechter als ausreichend“ bewerteten Prüfungsbereiche Auftragsplanung und Kommunikation“ oder Fertigungstechniken und buchbinderische Gestaltung“ oder Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der schlechter als „ausreichend“ bewerteten Prüfungsbereiche „Auftragsplanung und Kommunikation“ oder „Fertigungstechniken und buchbinderische Gestaltung“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 § 9 - Bestehende Berufsausbildungsverhältnisse
 
@@ -238,7 +238,7 @@ Abschnitt A Nummer 1)
 
 22
 
-
+ 
 
 2
 
@@ -255,7 +255,7 @@ Abschnitt A Nummer 2)
 
 28
 
-
+ 
 
 3
 
@@ -273,7 +273,7 @@ Abschnitt A Nummer 3)
 
 28
 
-
+ 
 
 4
 
@@ -287,7 +287,7 @@ Abschnitt A Nummer 4)
 - b) :: Werkzeuge, Geräte, Maschinen und Anlagen, insbesondere hinsichtlich Funktion, Aufbau sowie Einsatzmöglichkeiten, beurteilen
 - c) :: Materialverhalten im Fertigungsprozess hinsichtlich der geforderten Qualität beurteilen, dabei Wechselwirkungen verschiedener Materialien beachten
 
-
+ 
 
 10
 
@@ -301,7 +301,7 @@ Abschnitt A Nummer 5)
 - b) :: Sicherheitseinrichtungen auf ihre Wirksamkeit überprüfen
 - c) :: Störungen und Schäden feststellen, Maßnahmen zu deren Behebung ergreifen
 
-
+ 
 
 10
 
@@ -347,7 +347,7 @@ Abschnitt B Nummer I.1)
 - e) :: Trends bewerten und Zielgruppen erschließen
 - f) :: Werbemaßnahmen zur Kundengewinnung und Kundenbindung einschließlich ihrer Kontrollmöglichkeiten darstellen und durchführen
 
-
+ 
 
 13
 
@@ -365,7 +365,7 @@ Abschnitt B Nummer I.2)
 - e) :: betriebliche Leistungen erfassen
 - f) :: Dienstleistungen und Produkte verkaufen
 
-
+ 
 
 13
 
@@ -383,7 +383,7 @@ Abschnitt B Nummer I.3)
 - e) :: Rahmen herstellen sowie Bilder und Objekte einpassen
 - f) :: Arbeitsergebnisse prüfen und dokumentieren
 
-
+ 
 
 13
 
@@ -399,7 +399,7 @@ Abschnitt B Nummer I.4)
 - c) :: Behältnisse herstellen und ausstatten
 - d) :: Arbeitsergebnisse prüfen und dokumentieren
 
-
+ 
 
 13
 
@@ -417,7 +417,7 @@ Abschnitt B Nummer I.5)
 - d) :: Instandsetzung durchführen
 - e) :: Arbeitsergebnisse prüfen und dokumentieren
 
-
+ 
 
 13
 
@@ -436,7 +436,7 @@ Abschnitt B Nummer I.6)
 - e) :: Musterkollektionen erstellen und präsentieren
 - f) :: Arbeitsergebnisse prüfen und dokumentieren
 
-
+ 
 
 13
 
@@ -452,7 +452,7 @@ Abschnitt B Nummer I.7)
 - c) :: Sonderausstattungen anbringen und Funktionalitäten feststellen
 - d) :: Arbeitsergebnisse prüfen und dokumentieren
 
-
+ 
 
 13
 
@@ -470,7 +470,7 @@ Abschnitt B Nummer I.8)
 - e) :: Oberflächenschutz und -veredelung auswählen und aufbringen
 - f) :: Arbeitsergebnisse prüfen und dokumentieren
 
-
+ 
 
 13
 
@@ -486,7 +486,7 @@ Abschnitt B Nummer I.9)
 - c) :: Akzidenzprodukte auftragsbezogen herstellen
 - d) :: Arbeitsergebnisse prüfen und dokumentieren
 
-
+ 
 
 13
 
@@ -534,7 +534,7 @@ Nummer II.1)
 - f) :: Produkte lagern, transport- und versandfertig machen
 - g) :: Arbeitsergebnisse prüfen, beurteilen und dokumentieren
 
-
+ 
 
 26
 
@@ -553,7 +553,7 @@ Nummer II.2)
 - f) :: Qualitätskontrollen nach Normen und Spezifikationen durchführen, Arbeitsergebnis in Bezug auf Verwendbarkeit und Qualität beurteilen, Resultate dokumentieren sowie Belegmuster archivieren
 - g) :: Halbfertigprodukte für den innerbetrieblichen Fertigungsablauf absetzen, Produkte lagern und versenden
 
-
+ 
 
 26
 
@@ -657,13 +657,13 @@ Abschnitt C Nummer 5)
 - e) :: betriebsübliche schriftliche und mündliche Kommunikation durchführen, dabei deutsche und fremdsprachliche Fachbegriffe verwenden
 - f) :: IT-gestützte Kommunikationssysteme nutzen
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 - g) :: Gespräche mit Vorgesetzten, Mitarbeitern und Mitarbeiterinnen sowie im Team situationsgerecht und zielorientiert führen, kulturelle Identitäten berücksichtigen
 - h) :: im Team Aufgaben planen, abstimmen, Entscheidungen erarbeiten und Konflikte lösen
@@ -672,7 +672,7 @@ Abschnitt C Nummer 5)
 - k) :: Beratungsgespräche vorbereiten, Kundenwünsche ermitteln und auf Umsetzbarkeit prüfen
 - l) :: Beschwerden und Reklamationen unter Berücksichtigung der Interessen des Betriebes und der Kundschaft bearbeiten
 
-
+ 
 
 \\
 6

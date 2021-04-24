@@ -38,7 +38,7 @@ in Zusammenhang mit den in den folgenden Prozessphasen genannten Aufgaben durchf
 
 (1) Zur Prüfung ist zuzulassen, wer
 
-- 1. :: eine mit Erfolg abgelegte Abschlussprüfung im anerkannten Ausbildungsberuf Produktionstechnologe/Produktionstechnologin“ und danach eine mindestens einjährige Berufspraxis oder
+- 1. :: eine mit Erfolg abgelegte Abschlussprüfung im anerkannten Ausbildungsberuf „Produktionstechnologe/Produktionstechnologin“ und danach eine mindestens einjährige Berufspraxis oder
 - 2. :: eine mit Erfolg abgelegte Abschlussprüfung in einem sonstigen anerkannten Ausbildungsberuf und danach eine mindestens zweijährige Berufspraxis oder
 - 3. :: eine mindestens vierjährige Berufspraxis
 
@@ -58,9 +58,9 @@ Die Prüfung gliedert sich in die Prüfungsteile:
 Die einzelnen Prüfungsteile können in beliebiger Reihenfolge geprüft werden; dabei ist mit dem letzten Prüfungsteil spätestens fünf Jahre nach dem ersten Prüfungstag des ersten Prüfungsteils zu beginnen.
 
 
-§ 4 - Prüfungsteil Produktionsprozesse“
+§ 4 - Prüfungsteil „Produktionsprozesse“
 
-(1) Im Prüfungsteil Produktionsprozesse“ sollen die folgenden Befähigungen nachgewiesen werden:
+(1) Im Prüfungsteil „Produktionsprozesse“ sollen die folgenden Befähigungen nachgewiesen werden:
 
 - 1. :: Analysieren von technischen und organisatorischen Problemstellungen bei Änderungen von Produktionsprozessen oder der Produktion,
 - 2. :: Konzipieren von Lösungen, Planen der organisatorischen und ausrüstungstechnischen Änderungen sowie der Prozessanpassungen,
@@ -78,16 +78,16 @@ Die einzelnen Prüfungsteile können in beliebiger Reihenfolge geprüft werden; 
 (4) Auf Grund der Dokumentation, der Präsentation und des Fachgesprächs sind die Befähigungen nach Absatz 1 zu bewerten.
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-§ 5 - Prüfungsteil Prozessmanagement“
+§ 5 - Prüfungsteil „Prozessmanagement“
 
-(1) Im Prüfungsteil Prozessmanagement“ soll die Befähigung zur Bewältigung berufstypischer Probleme nachgewiesen werden. Insbesondere sollen folgende Befähigungen nachgewiesen werden:
+(1) Im Prüfungsteil „Prozessmanagement“ soll die Befähigung zur Bewältigung berufstypischer Probleme nachgewiesen werden. Insbesondere sollen folgende Befähigungen nachgewiesen werden:
 
-- 1. :: Im Qualifikationsschwerpunkt Produktionskonzept“ soll die Fähigkeit nachgewiesen werden, neue Prozesse und Prozessbausteine entwickeln, Projekte für den Produktionsanlauf planen und Produktentwickler hinsichtlich produktionsgerechter Gestaltung beraten zu können; in diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+- 1. :: Im Qualifikationsschwerpunkt „Produktionskonzept“ soll die Fähigkeit nachgewiesen werden, neue Prozesse und Prozessbausteine entwickeln, Projekte für den Produktionsanlauf planen und Produktentwickler hinsichtlich produktionsgerechter Gestaltung beraten zu können; in diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
   - a) :: Entwickeln von Fertigungs-, Montage- und Logistikkonzepten für neue Produkte oder Produktänderungen unter Berücksichtigung von Investitionen,
   - b) :: Beurteilen der technischen Machbarkeit von Produktvorschlägen, Beraten der Produktentwickler hinsichtlich produktionsgerechter Gestaltung,
   - c) :: Ermitteln der Durchlaufzeiten und Kosten neuer oder geänderter Produktionsprozesse,
   - d) :: Planen von Projekten für die Prozesserprobung und den Serienhochlauf;
-- 2. :: im Qualifikationsschwerpunkt Produktionsablauf“ soll die Fähigkeit nachgewiesen werden, Produktionsbereiche planen sowie die laufende Produktion gestalten und verbessern zu können; in diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+- 2. :: im Qualifikationsschwerpunkt „Produktionsablauf“ soll die Fähigkeit nachgewiesen werden, Produktionsbereiche planen sowie die laufende Produktion gestalten und verbessern zu können; in diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
   - a) :: Analysieren und Planen von Produktionsaufträgen,
   - b) :: Planen des Personalbedarfs und des Budgets,
   - c) :: Bewerten von Produktqualität und bereichsbezogenen Kosten,
@@ -95,15 +95,15 @@ Die einzelnen Prüfungsteile können in beliebiger Reihenfolge geprüft werden; 
   - e) :: Planen und Gestalten von Produktionsbereichen, Auswählen von Produktionsmitteln, Gestalten von Arbeitsplätzen, Sichern der Datenstrukturen und -flüsse,
   - f) :: Ermitteln von Investitionskosten.
 
-(2) Es sind zwei Situationsaufgaben schriftlich zu bearbeiten. Eine Situationsaufgabe soll schwerpunktmäProduktionskonzept“, die andere Situationsaufgabe den Qualifikationsschwerpunkt Produktionsablauf“ thematisieren. Qualifikationsinhalte aus dem jeweils anderen Qualifikationsschwerpunkt und Qualifikationsinhalte aus dem Prüfungsteil Mitarbeiterführung und Personalmanagement“ sollen berücksichtigt werden. Die Prüfungsdauer der einzelnen Situationsaufgaben beträgt jeweils mindestens 120 Minuten, insgesamt jedoch nicht mehr als 300 Minuten.
+(2) Es sind zwei Situationsaufgaben schriftlich zu bearbeiten. Eine Situationsaufgabe soll schwerpunktmäßig den Qualifikationsschwerpunkt „Produktionskonzept“, die andere Situationsaufgabe den Qualifikationsschwerpunkt „Produktionsablauf“ thematisieren. Qualifikationsinhalte aus dem jeweils anderen Qualifikationsschwerpunkt und Qualifikationsinhalte aus dem Prüfungsteil „Mitarbeiterführung und Personalmanagement“ sollen berücksichtigt werden. Die Prüfungsdauer der einzelnen Situationsaufgaben beträgt jeweils mindestens 120 Minuten, insgesamt jedoch nicht mehr als 300 Minuten.
 (3) Wurde in nicht mehr als einer Situationsaufgabe eine mangelhafte Prüfungsleistung erbracht, ist eine mündliche Ergänzungsprüfung anzubieten. Bei einer ungenügenden schriftlichen Prüfungsleistung besteht diese Möglichkeit nicht. Die Ergänzungsprüfung soll in der Regel nicht länger als 20 Minuten dauern. Die Bewertung der schriftlichen Prüfungsleistung und die der mündlichen Ergänzungsprüfung werden zu einer Prüfungsleistung zusammengefasst. Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
 
-§ 6 - Prüfungsteil Mitarbeiterführung und Personalmanagement“
+§ 6 - Prüfungsteil „Mitarbeiterführung und Personalmanagement“
 
-(1) Im Prüfungsteil Mitarbeiterführung und Personalmanagement“ ist eine Situationsaufgabe schriftlich zu bearbeiten sowie ein situationsbezogenes Fachgespräch zu führen.
+(1) Im Prüfungsteil „Mitarbeiterführung und Personalmanagement“ ist eine Situationsaufgabe schriftlich zu bearbeiten sowie ein situationsbezogenes Fachgespräch zu führen.
 (2) Durch die Bearbeitung der Situationsaufgabe sind folgende Befähigungen nachzuweisen:
 
-- 1. :: Im Qualifikationsschwerpunkt Personalplanung, -auswahl und -entwicklung“ soll die Fähigkeit nachgewiesen werden, den Personalbedarf ermitteln, Personalentwicklungspotentiale einschätzen, Personalentwicklungs- und Qualifizierungsziele festlegen und den Personaleinsatz entsprechend den betrieblichen Anforderungen und arbeitsrechtlichen Bestimmungen unter Beachtung der Beteiligungsrechte der Mitarbeitervertretung sicherstellen zu können; in diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+- 1. :: Im Qualifikationsschwerpunkt „Personalplanung, -auswahl und -entwicklung“ soll die Fähigkeit nachgewiesen werden, den Personalbedarf ermitteln, Personalentwicklungspotentiale einschätzen, Personalentwicklungs- und Qualifizierungsziele festlegen und den Personaleinsatz entsprechend den betrieblichen Anforderungen und arbeitsrechtlichen Bestimmungen unter Beachtung der Beteiligungsrechte der Mitarbeitervertretung sicherstellen zu können; in diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
   - a) :: Ermitteln und Bestimmen des qualitativen und quantitativen Personalbedarfs unter Berücksichtigung technischer und organisatorischer Veränderungen, Erstellen von Anforderungsprofilen,
   - b) :: Planen der Personalgewinnung durch Aus- und Fortbildung sowie durch Rekrutierung,
   - c) :: Vorbereiten und Durchführen von Personalauswahlgesprächen,
@@ -113,7 +113,7 @@ Die einzelnen Prüfungsteile können in beliebiger Reihenfolge geprüft werden; 
   - g) :: Ermitteln von kurz- und langfristigen Qualifizierungsbedarfen,
   - h) :: Mitwirken bei Qualifizierungsaktivitäten und Erstellen von Qualifizierungskonzepten,
   - i) :: Planen und Organisieren von Einarbeitung, Praktika, Aus- und Fortbildung;
-- 2. :: im Qualifikationsschwerpunkt Mitarbeiter- und Teamführung“ soll die Fähigkeit nachgewiesen werden, Personalmaßnahmen durchführen, Mitarbeiter sowie Teams führen, deren Entwicklung fördern, motivieren und einsetzen zu können; in diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+- 2. :: im Qualifikationsschwerpunkt „Mitarbeiter- und Teamführung“ soll die Fähigkeit nachgewiesen werden, Personalmaßnahmen durchführen, Mitarbeiter sowie Teams führen, deren Entwicklung fördern, motivieren und einsetzen zu können; in diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
   - a) :: Beurteilen von Mitarbeitern,
   - b) :: Anwenden von Führungsmethoden und -techniken,
   - c) :: Motivieren der Mitarbeiter zur Bewältigung betrieblicher Aufgaben,
@@ -124,13 +124,13 @@ Die einzelnen Prüfungsteile können in beliebiger Reihenfolge geprüft werden; 
   - h) :: Berücksichtigen von Arbeitsschutzbestimmungen und Arbeitszeitordnungen,
   - i) :: Beenden von Arbeitsverhältnissen, Erstellen von Zeugnissen.
 
-Die Situationsaufgabe ist so zu gestalten, dass beide Qualifikationsschwerpunkte thematisiert werden. Qualifikationsinhalte aus den Qualifikationsschwerpunkten Produktionskonzept“ und Produktionsablauf“ des Prüfungsteils Prozessmanagement sollen berücksichtigt werden. Die Prüfungsdauer der Situationsaufgabe beträgt mindestens 120 Minuten und höchstens 150 Minuten.
+Die Situationsaufgabe ist so zu gestalten, dass beide Qualifikationsschwerpunkte thematisiert werden. Qualifikationsinhalte aus den Qualifikationsschwerpunkten „Produktionskonzept“ und „Produktionsablauf“ des Prüfungsteils Prozessmanagement sollen berücksichtigt werden. Die Prüfungsdauer der Situationsaufgabe beträgt mindestens 120 Minuten und höchstens 150 Minuten.
 
 (3) Wurde in der Situationsaufgabe eine mangelhafte Prüfungsleistung erbracht, ist eine mündliche Ergänzungsprüfung anzubieten. Bei einer ungenügenden schriftlichen Prüfungsleistung besteht diese Möglichkeit nicht. Die einzelne Ergänzungsprüfung soll in der Regel nicht länger als 20 Minuten dauern. Die Bewertung der schriftlichen Prüfungsleistung und die der mündlichen Ergänzungsprüfung werden zu einer Note zusammengefasst. Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
 (4) Durch das situationsbezogene Fachgespräch sind folgende Befähigungen in den in den Nummern 1 und 2 aufgeführten Anwendungsfällen nachzuweisen:
 
-- 1. :: Im Anwendungsfall Vorbereiten und Durchführen eines Einstellungsgespräches“ soll die Fähigkeit nachgewiesen werden, die Rahmenbedingungen für ein Gespräch gestalten, Bewerber beurteilen, Einsatz und Entwicklungsperspektiven für den Bewerber aufzeigen und das Einstellungsgespräch zielgerichtet führen zu können,
-- 2. :: im Anwendungsfall Vorbereiten und Durchführen eines Mitarbeitergespräches“ soll die Fähigkeit nachgewiesen werden, die Rahmenbedingungen für ein Gespräch gestalten, Mitarbeiter beurteilen, Zielvereinbarungen treffen, Entwicklungsperspektiven für den Mitarbeiter aufzeigen, Kritik annehmen sowie das Gespräch zielgerichtet führen zu können.
+- 1. :: Im Anwendungsfall „Vorbereiten und Durchführen eines Einstellungsgespräches“ soll die Fähigkeit nachgewiesen werden, die Rahmenbedingungen für ein Gespräch gestalten, Bewerber beurteilen, Einsatz und Entwicklungsperspektiven für den Bewerber aufzeigen und das Einstellungsgespräch zielgerichtet führen zu können,
+- 2. :: im Anwendungsfall „Vorbereiten und Durchführen eines Mitarbeitergespräches“ soll die Fähigkeit nachgewiesen werden, die Rahmenbedingungen für ein Gespräch gestalten, Mitarbeiter beurteilen, Zielvereinbarungen treffen, Entwicklungsperspektiven für den Mitarbeiter aufzeigen, Kritik annehmen sowie das Gespräch zielgerichtet führen zu können.
 
 Die zu prüfende Person wählt einen der Anwendungsfälle aus. Das situationsbezogene Fachgespräch soll mindestens 45 und höchstens 60 Minuten dauern.
 
@@ -144,8 +144,8 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 § 8 - Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 2 mit Punkten zu bewerten.
-(2) Der Prüfungsteil Produktionsprozesse“, die zwei Situationsaufgaben im Prüfungsteil Prozessmanagement“ sowie die Situationsaufgabe und das situationsbezogene Fachgespräch im Prüfungsteil Mitarbeiterführung und Personalmanagement“ sind einzeln zu bewerten.
-(3) Im Prüfungsteil Prozessmanagement“ ist das arithmetische Mittel aus den Bewertungen der Situationsaufgaben zu bilden. Im Prüfungsteil Mitarbeiterführung und Personalmanagement“ ist das arithmetische Mittel aus den Bewertungen der Situationsaufgabe und des situativen Fachgesprächs zu bilden.
+(2) Der Prüfungsteil „Produktionsprozesse“, die zwei Situationsaufgaben im Prüfungsteil „Prozessmanagement“ sowie die Situationsaufgabe und das situationsbezogene Fachgespräch im Prüfungsteil „Mitarbeiterführung und Personalmanagement“ sind einzeln zu bewerten.
+(3) Im Prüfungsteil „Prozessmanagement“ ist das arithmetische Mittel aus den Bewertungen der Situationsaufgaben zu bilden. Im Prüfungsteil „Mitarbeiterführung und Personalmanagement“ ist das arithmetische Mittel aus den Bewertungen der Situationsaufgabe und des situativen Fachgesprächs zu bilden.
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
 § 9 - Bestehen der Prüfung, Gesamtnote
@@ -154,9 +154,9 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 (2) Ist die Prüfung bestanden, sind die Bewertungen für die Prüfungsteile nach § 8 Absatz 3 jeweils kaufmännisch auf eine ganze Zahl zu runden.
 (3) Den Bewertungen für die Prüfungsteile ist nach Anlage 2 die jeweilige Note als Dezimalzahl zuzuordnen. Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das arithmetische Mittel aus folgenden Bewertungen zu berechnen:
 
-- 1. :: der Bewertung des Prüfungsteils Produktionsprozesse“,
-- 2. :: dem nach § 8 Absatz 3 Satz 1 errechneten arithmetischen Mittel im Prüfungsteil Prozessmanagement“ und
-- 3. :: dem nach § 8 Absatz 3 Satz 2 errechneten arithmetischen Mittel im Prüfungsteil Mitarbeiterführung und Personalmanagement“.
+- 1. :: der Bewertung des Prüfungsteils „Produktionsprozesse“,
+- 2. :: dem nach § 8 Absatz 3 Satz 1 errechneten arithmetischen Mittel im Prüfungsteil „Prozessmanagement“ und
+- 3. :: dem nach § 8 Absatz 3 Satz 2 errechneten arithmetischen Mittel im Prüfungsteil „Mitarbeiterführung und Personalmanagement“.
 
 (4) Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerundeten Gesamtpunktzahl wird nach Anlage 1 die Note als Dezimalzahl und die Note in Worten zugeordnet. Die zugeordnete Note ist die Gesamtnote.
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
@@ -278,9 +278,9 @@ Teil A -- Zeugnis ohne Prüfungsergebnisse:
 Teil B -- Zeugnis mit Prüfungsergebnissen:
 Alle Angaben des Teils A sowie zusätzlich:
 
-- 1. :: zum Prüfungsteil Produktionsprozesse“ die Benennung, die Bewertung und die Note dieses Prüfungsteils sowie die Angabe, dass dieser Prüfungsteil Dokumentation, Präsentation und Fachgespräch beinhaltet,
-- 2. :: zum Prüfungsteil Prozessmanagement“ die Benennung, das nach § 8 Absatz 3 Satz 1 errechnete arithmetische Mittel und die Note dieses Prüfungsteils sowie die Benennung und die jeweilige Bewertung der beiden Situationsaufgaben dieses Prüfungsteils in Punkten,
-- 3. :: zum Prüfungsteil Mitarbeiterführung und Personalmanagement“ die Benennung, das nach § 8 Absatz 3 Satz 2 errechnete arithmetische Mittel und die Note dieses Prüfungsteils sowie die Benennung und die jeweilige Bewertung der Situationsaufgabe und des situationsbezogenen Fachgesprächs in Punkten,
+- 1. :: zum Prüfungsteil „Produktionsprozesse“ die Benennung, die Bewertung und die Note dieses Prüfungsteils sowie die Angabe, dass dieser Prüfungsteil Dokumentation, Präsentation und Fachgespräch beinhaltet,
+- 2. :: zum Prüfungsteil „Prozessmanagement“ die Benennung, das nach § 8 Absatz 3 Satz 1 errechnete arithmetische Mittel und die Note dieses Prüfungsteils sowie die Benennung und die jeweilige Bewertung der beiden Situationsaufgaben dieses Prüfungsteils in Punkten,
+- 3. :: zum Prüfungsteil „Mitarbeiterführung und Personalmanagement“ die Benennung, das nach § 8 Absatz 3 Satz 2 errechnete arithmetische Mittel und die Note dieses Prüfungsteils sowie die Benennung und die jeweilige Bewertung der Situationsaufgabe und des situationsbezogenen Fachgesprächs in Punkten,
 - 4. :: die errechnete Gesamtpunktzahl für die gesamte Prüfung,
 - 5. :: die Gesamtnote als Dezimalzahl,
 - 6. :: die Gesamtnote in Worten,

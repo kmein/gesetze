@@ -126,7 +126,7 @@ Anhang II - Grenzwerte für den VOC-Höchstgehalt
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 - 1. :: Grenzwerte für den VOC-Höchstgehalt von Farben und Lacken zur Beschichtung von Gebäuden, dekorativen Bauelementen und Bauteilen zu dekorativen, funktionalen oder schützenden Zwecken
 
-
+ 
 
 Produktkategorie
 
@@ -146,11 +146,11 @@ Wb
 
 30
 
+ 
 
+ 
 
-
-
-
+ 
 
 Lb
 
@@ -168,11 +168,11 @@ Wb
 
 100
 
+ 
 
+ 
 
-
-
-
+ 
 
 Lb
 
@@ -190,11 +190,11 @@ Wb
 
 40
 
+ 
 
+ 
 
-
-
-
+ 
 
 Lb
 
@@ -212,11 +212,11 @@ Wb
 
 130
 
+ 
 
+ 
 
-
-
-
+ 
 
 Lb
 
@@ -234,11 +234,11 @@ Wb
 
 130
 
+ 
 
+ 
 
-
-
-
+ 
 
 Lb
 
@@ -256,11 +256,11 @@ Wb
 
 130
 
+ 
 
+ 
 
-
-
-
+ 
 
 Lb
 
@@ -278,11 +278,11 @@ Wb
 
 30
 
+ 
 
+ 
 
-
-
-
+ 
 
 Lb
 
@@ -300,11 +300,11 @@ Wb
 
 30
 
+ 
 
+ 
 
-
-
-
+ 
 
 Lb
 
@@ -322,11 +322,11 @@ Wb
 
 140
 
+ 
 
+ 
 
-
-
-
+ 
 
 Lb
 
@@ -344,11 +344,11 @@ Wb
 
 140
 
+ 
 
+ 
 
-
-
-
+ 
 
 Lb
 
@@ -366,11 +366,11 @@ Wb
 
 100
 
+ 
 
+ 
 
-
-
-
+ 
 
 Lb
 
@@ -388,11 +388,11 @@ Wb
 
 200
 
+ 
 
+ 
 
-
-
-
+ 
 
 Lb
 
@@ -407,7 +407,7 @@ Lb
 
 \\
 
-
+ 
 
 Produktkategorie
 
@@ -423,9 +423,9 @@ Vorbereitungsprodukte
 
 850
 
+ 
 
-
-
+ 
 
 Vorreiniger
 
@@ -447,17 +447,17 @@ Füller
 
 540
 
+ 
 
-
-
+ 
 
 Grundbeschichtungsstoffe/Grundierungen
 
 540
 
+ 
 
-
-
+ 
 
 Wash-Primer
 

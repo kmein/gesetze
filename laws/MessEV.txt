@@ -309,20 +309,20 @@ Der Hersteller hat insbesondere die technischen Unterlagen zu erstellen, die in 
 (1) Die in § 8 Absatz 1 genannten Messgeräte sind vorbehaltlich des Absatzes 2 zu kennzeichnen
 
 - 1. :: mit der CE-Kennzeichnung gemäß Artikel 30 der Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über die Vorschriften für die Akkreditierung und Marktüberwachung im Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates (ABl. L 218 vom 13.8.2008, S. 30), nachfolgend
-- 2. :: mit der Metrologie-Kennzeichnung, bestehend aus dem GroM“ und den beiden letzten Ziffern der Jahreszahl des Jahres, in dem die Kennzeichnung angebracht wurde, beides zusammen eingerahmt durch ein Rechteck, dessen Höhe der Höhe der CE-Kennzeichnung entspricht, und nachfolgend
+- 2. :: mit der Metrologie-Kennzeichnung, bestehend aus dem Großbuchstaben „M“ und den beiden letzten Ziffern der Jahreszahl des Jahres, in dem die Kennzeichnung angebracht wurde, beides zusammen eingerahmt durch ein Rechteck, dessen Höhe der Höhe der CE-Kennzeichnung entspricht, und nachfolgend
 - 3. :: mit der Kennnummer der Konformitätsbewertungsstelle, die an der Durchführung des Konformitätsbewertungsverfahrens in der Fertigungsphase beteiligt war; sind mehrere Konformitätsbewertungsstellen in der Fertigungsphase beteiligt, sind deren Kennnummern anzugeben; war in der Fertigungsphase keine Konformitätsbewertungsstelle zu beteiligen, so ist auch keine Kennnummer anzugeben.
 
 (2) Bis zum Ablauf des 19. April 2016 sind Messgeräte in Form nichtselbsttätiger Waagen zu kennzeichnen
 
 - 1. :: mit der CE-Kennzeichnung gemäß Artikel 30 der Verordnung (EG) Nr. 765/2008, nachfolgend
 - 2. :: mit der Kennnummer der Konformitätsbewertungsstelle, die an der Durchführung des Konformitätsbewertungsverfahrens in der Fertigungsphase beteiligt war; sind mehrere Konformitätsbewertungsstellen in der Fertigungsphase beteiligt, sind deren Kennnummern anzugeben; war in der Fertigungsphase keine Konformitätsbewertungsstelle zu beteiligen, so ist auch keine Kennnummer anzugeben,
-- 3. :: mit einer grünen quadratischen Markierung mit einer Seitenlänge von mindestens 12,5 Millimetern, auf die in Schwarz der GroM“ aufgedruckt ist, und
+- 3. :: mit einer grünen quadratischen Markierung mit einer Seitenlänge von mindestens 12,5 Millimetern, auf die in Schwarz der Großbuchstabe „M“ aufgedruckt ist, und
 - 4. :: mit den beiden letzten Ziffern der Jahreszahl des Jahres, in dem die CE-Kennzeichnung angebracht wurde.
 
-(3) Eine Einrichtung, die dazu bestimmt ist, mit einem Messgerät in Form einer nichtselbsttätigen Waage verbunden zu werden und die keinem Konformitätsbewertungsverfahren unterzogen wurde, ist durch eine rote quadratische Markierung mit einer Seitenlänge von mindestens 25 Millimetern zu kennzeichnen, auf der in Schwarz der diagonal durchkreuzte GroM“ auf rotem Hintergrund aufgedruckt ist.
+(3) Eine Einrichtung, die dazu bestimmt ist, mit einem Messgerät in Form einer nichtselbsttätigen Waage verbunden zu werden und die keinem Konformitätsbewertungsverfahren unterzogen wurde, ist durch eine rote quadratische Markierung mit einer Seitenlänge von mindestens 25 Millimetern zu kennzeichnen, auf der in Schwarz der diagonal durchkreuzte Großbuchstabe „M“ auf rotem Hintergrund aufgedruckt ist.
 (4) Messgeräte, die nicht in Absatz 1 oder in Absatz 2 geregelt sind, sind zu kennzeichnen
 
-- 1. :: mit der Zeichenfolge DE-M“, die von einem Rechteck mit einer Höhe von mindestens 5 Millimetern eingerahmt ist, nachfolgend
+- 1. :: mit der Zeichenfolge „DE-M“, die von einem Rechteck mit einer Höhe von mindestens 5 Millimetern eingerahmt ist, nachfolgend
 - 2. :: mit den beiden letzten Ziffern der Jahreszahl des Jahres, in dem die Kennzeichnung angebracht wurde und
 - 3. :: mit der Kennnummer der Konformitätsbewertungsstelle, die in der Fertigungsphase beteiligt war; war in der Fertigungsphase keine Konformitätsbewertungsstelle zu beteiligen, so ist auch keine Kennnummer anzugeben.
 
@@ -356,22 +356,22 @@ Weitere Aufschriften dürfen nur dann aufgebracht werden, wenn eine Verwechselun
 (3) Messgeräte in Form nichtselbsttätiger Waagen sind zusätzlich zu den Angaben nach den Absätzen 1 und 2 mit folgenden Aufschriften zu versehen:
 
 - 1. :: der Genauigkeitsklasse, die in einem Oval oder zwischen zwei durch Halbkreise miteinander verbundenen horizontalen Linien anzugeben ist,
-- 2. :: der Höchstlast, wobei dem Massewert die Buchstabenfolge Max“ vorangestellt ist,
-- 3. :: der Mindestlast, wobei dem Massewert die Buchstabenfolge Min“ vorangestellt ist,
-- 4. :: dem Wert in Masseeinheiten zur Einstufung und zur Eichung einer Waage (Eichwert), wobei dem Wert die Zeichenfolge e =“ vorangestellt ist,
-- 5. :: dem Teilungswert, sofern er von e“ abweicht, wobei dem Wert die Zeichenfolge d =“ vorangestellt ist,
-- 6. :: der additiven Tarahöchstlast, sofern die Waage diese GröT = +“ vorangestellt ist,
-- 7. :: der substraktiven Tarahöchstlast, sofern sie von der Höchstlast abweicht und die Waage diese GröT = --“ vorangestellt ist,
-- 8. :: dem Teilungswert der Taraeinrichtung, sofern er von d“ abweicht, wobei dem Wert die Zeichenfolge d_{T} =“ vorangestellt ist,
-- 9. :: der Tragfähigkeit, sofern sie von der Höchstlast abweicht, wobei dem Wert die Zeichenfolge Lim =“ vorangestellt ist,
-- 10. :: den besonderen Temperaturgrenzen, angegeben in ...°C/...°C“, sofern die Waage für den Einsatz innerhalb besonderer Temperaturgrenzen bestimmt ist,
+- 2. :: der Höchstlast, wobei dem Massewert die Buchstabenfolge „Max“ vorangestellt ist,
+- 3. :: der Mindestlast, wobei dem Massewert die Buchstabenfolge „Min“ vorangestellt ist,
+- 4. :: dem Wert in Masseeinheiten zur Einstufung und zur Eichung einer Waage (Eichwert), wobei dem Wert die Zeichenfolge „e =“ vorangestellt ist,
+- 5. :: dem Teilungswert, sofern er von „e“ abweicht, wobei dem Wert die Zeichenfolge „d =“ vorangestellt ist,
+- 6. :: der additiven Tarahöchstlast, sofern die Waage diese Größe angibt, wobei dem Wert die Zeichenfolge „T = +“ vorangestellt ist,
+- 7. :: der substraktiven Tarahöchstlast, sofern sie von der Höchstlast abweicht und die Waage diese Größe angibt, wobei dem Wert die Zeichenfolge „T = --“ vorangestellt ist,
+- 8. :: dem Teilungswert der Taraeinrichtung, sofern er von „d“ abweicht, wobei dem Wert die Zeichenfolge „d_{T} =“ vorangestellt ist,
+- 9. :: der Tragfähigkeit, sofern sie von der Höchstlast abweicht, wobei dem Wert die Zeichenfolge „Lim =“ vorangestellt ist,
+- 10. :: den besonderen Temperaturgrenzen, angegeben in „...°C/...°C“, sofern die Waage für den Einsatz innerhalb besonderer Temperaturgrenzen bestimmt ist,
 - 11. :: dem Verhältnis zwischen Gewichtsschale und Lastträger, sofern es sich um mechanische Dezimalwaagen handelt.
 
 Die Höchstlast, die Mindestlast, der Eichwert und der Teilungswert müssen in der Nähe der Gewichtsanzeige angebracht sein. Jede Auswerteeinrichtung, die an einen oder mehrere Lastträger angeschlossen oder anschließbar ist, muss auch die entsprechenden Aufschriften für diese Lastträger aufweisen.
 
 (4) Eine Maßverkörperung ist mit einem Nennwert oder einer Skala und der verwendeten Maßeinheit zu markieren und mit einer Angabe oder einem Zeichen zu versehen, anhand derer oder dessen der Hersteller eindeutig zu identifizieren ist. Dies gilt nicht für Gewichtsstücke, sofern dadurch die Messrichtigkeit beeinträchtigt wäre. Weitere Pflichtangaben müssen auf der Verpackung angebracht werden und in den nach § 17 beizufügenden Informationen enthalten sein.
 (5) Werden Maßeinheiten oder Symbole angegeben, müssen diese dem Einheiten- und Zeitgesetz in der Fassung der Bekanntmachung vom 22. Februar 1985 (BGBl. I S. 408), das zuletzt durch Artikel 4 Absatz 68 des Gesetzes vom 7. August 2013 (BGBl. I S. 3154) geändert worden ist, in der jeweils geltenden Fassung entsprechen.
-(6) Die Darstellung des Messwerts an einem Messgerät hat so zu erfolgen, dass der Teilungswert für einen Messwert 1 mal 10n}, 2 mal 10n} oder 5 mal 10n} beträgt, wobei n“ eine ganze Zahl ist, sofern in den gerätespezifischen Anforderungen nach § 8 zur Darstellung des Messwerts nichts anderes bestimmt ist. Die Maßeinheit oder ihr Symbol ist in unmittelbarer Nähe des Zahlenwerts anzugeben.
+(6) Die Darstellung des Messwerts an einem Messgerät hat so zu erfolgen, dass der Teilungswert für einen Messwert 1 mal 10n}, 2 mal 10n} oder 5 mal 10n} beträgt, wobei „n“ eine ganze Zahl ist, sofern in den gerätespezifischen Anforderungen nach § 8 zur Darstellung des Messwerts nichts anderes bestimmt ist. Die Maßeinheit oder ihr Symbol ist in unmittelbarer Nähe des Zahlenwerts anzugeben.
 (+++ § 15 Abs. 5: Zur Anwendung vgl. § 17 Abs. 1 Satz 3 +++)
 
 § 16 - Aufschriften auf sonstigen Messgeräten
@@ -379,7 +379,7 @@ Die Höchstlast, die Mindestlast, der Eichwert und der Teilungswert müssen in d
 Sonstige Messgeräte tragen folgende Aufschriften:
 
 - 1. :: die Fabrikmarke oder den Namen des Herstellers und bei eingeführten Erzeugnissen des Einführers und
-- 2. :: die Höchstlast, wobei dem Massewert die Buchstabenfolge Max“ vorangestellt ist.
+- 2. :: die Höchstlast, wobei dem Massewert die Buchstabenfolge „Max“ vorangestellt ist.
 
 
 § 17 - Beizufügende Informationen
@@ -576,9 +576,9 @@ Die Vergleichsmessungen nach Satz 1 Nummer 2 werden von der Physikalisch-Technis
 Wer eine öffentliche Waage verwendet, hat
 
 - 1. :: die öffentliche Waage mit einem außen angebrachten Schild mit der deutlich lesbaren Aufschrift zu kennzeichnen:\\
-  Öffentliche Waage\\
+  „Öffentliche Waage\\
   Wägebereich von ... kg bis ... kg“;
-  dem Wort Waage“ können Hinweise auf die Art der Waage, ihren Verwendungszweck oder ihren Inhaber beigefügt werden,
+  dem Wort „Waage“ können Hinweise auf die Art der Waage, ihren Verwendungszweck oder ihren Inhaber beigefügt werden,
 - 2. :: den Beginn und die Einstellung des Betriebs einer öffentlichen Waage der zuständigen Behörde unverzüglich anzuzeigen.
 
 
@@ -803,7 +803,7 @@ Die erforderliche Sachkunde ist gegeben, wenn die antragstellende Person
 
 § 49 - Bezeichnung und Anzeige der staatlich anerkannten Prüfstelle
 
-(1) Staatlich anerkannte Prüfstellen führen die Bezeichnung Staatlich anerkannte Prüfstelle“ mit einem Zusatz, der auf die Art der Messgeräte hinweist, für die Eichungen und Befundprüfungen durchgeführt werden dürfen, und den Träger der Prüfstelle nennt.
+(1) Staatlich anerkannte Prüfstellen führen die Bezeichnung „Staatlich anerkannte Prüfstelle“ mit einem Zusatz, der auf die Art der Messgeräte hinweist, für die Eichungen und Befundprüfungen durchgeführt werden dürfen, und den Träger der Prüfstelle nennt.
 (2) Der Träger der staatlich anerkannten Prüfstelle hat der zuständigen Behörde unverzüglich anzuzeigen:
 
 - 1. :: die Aufnahme und die Einstellung des Betriebs der staatlich anerkannten Prüfstelle sowie
@@ -999,7 +999,7 @@ Messgeräte müssen die nachfolgend genannten Anforderungen zur Gewährleistung 
   Der Hersteller gibt die für den Verwendungszweck und zur Gewährleistung der Messrichtigkeit geeignete obere und untere Grenze für die Umgebungstemperatur des Messgeräts sowie die zulässige Umgebungsfeuchte auf der Grundlage des Stands der Technik an. Für Messgeräte nach § 8 Absatz 1 Nummer 1 bis 10 legt der Hersteller die Temperaturgrenzen unter Verwendung der in Tabelle 1 ausgewiesenen Werte fest, sofern sich aus den gerätespezifischen Anforderungen nach § 8 nichts anderes ergibt. Der Hersteller gibt an, ob das Messgerät für betaute oder nicht betaute Feuchtigkeitsbedingungen und ob es für offene oder geschlossene Einsatzorte ausgelegt ist.
   \\
   Tabelle 1
-  
+   
 - 1.2.2 :: Mechanische Umgebungsbedingungen
   Der Hersteller gibt die für den Verwendungszweck und zur Gewährleistung der Messrichtigkeit geeigneten mechanischen Umgebungsbedingungen auf der Grundlage des Stands der Technik an, sofern sich aus den gerätespezifischen Anforderungen nach § 8 nichts anderes ergibt.
 - 1.2.2.1 :: Für Messgeräte im Sinne des § 8 Absatz 1 Nummer 1 bis 10 gibt der Hersteller eine der nachfolgend beschriebenen Klassen M1 bis M3 für die mechanischen Umgebungsbedingungen an:
@@ -1498,7 +1498,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote))
 - 0.1 :: Die Farbe der in den nachfolgend aufgeführten Kennzeichen verwendeten Schriften und Zeichen ist schwarz. Die Kennzeichen können auch als Relief ohne zusätzliche Farbe in eine Plombe eingedrückt werden.
 - 0.2 :: Sind Kennzeichen als Klebemarke ausgeführt, dürfen diese nicht zerstörungsfrei abgelöst werden können.
 - 1. :: Kennzeichen der Eichbehörden (§ 38)
-- 1.1 :: Das Eichkennzeichen besteht im linken Teil aus einem gewundenen Band mit dem Buchstaben D“. Oberhalb des Bandes ist die Kennung der jeweiligen Eichaufsichtsbehörde und unterhalb des Bandes ist ein sechsstrahliger Stern angebracht. Anstelle des Sterns kann auch die Kennung des prüfenden Eichamtes verwendet werden. Rechts neben dem Band steht in einem auf der Spitze stehenden Quadrat mit nach innen gewölbten Kanten die Jahresangabe, bestehend aus den beiden letzten Ziffern des Jahres, in dem die Eichfrist beginnt. Die Mindesthöhe des Eichkennzeichens beträgt 5 mm; in der Ausführung als Schlagstempel beträgt sie 2 mm.
+- 1.1 :: Das Eichkennzeichen besteht im linken Teil aus einem gewundenen Band mit dem Buchstaben „D“. Oberhalb des Bandes ist die Kennung der jeweiligen Eichaufsichtsbehörde und unterhalb des Bandes ist ein sechsstrahliger Stern angebracht. Anstelle des Sterns kann auch die Kennung des prüfenden Eichamtes verwendet werden. Rechts neben dem Band steht in einem auf der Spitze stehenden Quadrat mit nach innen gewölbten Kanten die Jahresangabe, bestehend aus den beiden letzten Ziffern des Jahres, in dem die Eichfrist beginnt. Die Mindesthöhe des Eichkennzeichens beträgt 5 mm; in der Ausführung als Schlagstempel beträgt sie 2 mm.
   Beispiel:
   \\
   [[../normengrafiken/bgbl1_2014/j2010-1_0010.jpg]]\\
@@ -1530,7 +1530,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote))
   Beispiel:
   \\
   [[../normengrafiken/bgbl1_2014/j2010-1_0100.jpg]]\\
-  Erläuterung: Kennzeichen einer Prüfstelle für Elektrizitätsmessgeräte (E), zuständige Behörde Nordrhein-Westfalen (NW), zugeteilte Ordnungsnummer 3“, Jahr der Eichung 2015.
+  Erläuterung: Kennzeichen einer Prüfstelle für Elektrizitätsmessgeräte (E), zuständige Behörde Nordrhein-Westfalen (NW), zugeteilte Ordnungsnummer „3“, Jahr der Eichung 2015.
 - 2.2 :: Das Sicherungszeichen der staatlich anerkannten Prüfstelle entspricht dem oberen Teil des Eichkennzeichens nach Nummer 2.1. Es kann als Plombe ausgeführt werden. Bei Ausführung als Klebemarke ist die Hintergrundfarbe orange, entsprechend der nachfolgenden Darstellung.
   Beispiel:
   \\

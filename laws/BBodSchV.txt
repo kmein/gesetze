@@ -11,41 +11,41 @@ Auf Grund der §§ 6, 8 Abs. 1 und 2 und des § 13 Abs. 1 Satz 2 des Bundes-Bode
 Inhaltsübersicht
 
 Erster Teil
-
+ 
 Allgemeine Vorschriften
 § 1
 Anwendungsbereich
 § 2
 Begriffsbestimmungen
 Zweiter Teil
-
+ 
 Anforderungen an die Untersuchung und Bewertung von Verdachtsflächen und altlastverdächtigen Flächen
 § 3
 Untersuchung
 § 4
 Bewertung
 Dritter Teil
-
+ 
 Anforderungen an die Sanierung von schädlichen Bodenveränderungen und Altlasten
 § 5
 Sanierungsmaßnahmen, Schutz- und Beschränkungsmaßnahmen
 Vierter Teil
-
+ 
 Ergänzende Vorschriften für Altlasten
 § 6
 Sanierungsuntersuchung und Sanierungsplanung
 Fünfter Teil
-
+ 
 Ausnahmen
 § 7
 Ausnahmen
 Sechster Teil
-
+ 
 Ergänzende Vorschriften für die Gefahrenabwehr von schädlichen Bodenveränderungen auf Grund von Bodenerosion durch Wasser
 § 8
 Gefahrenabwehr von schädlichen Bodenveränderungen auf Grund von Bodenerosion durch Wasser
 Siebter Teil
-
+ 
 Vorsorge gegen das Entstehen schädlicher Bodenveränderungen
 § 9
 Besorgnis schädlicher Bodenveränderungen
@@ -56,14 +56,14 @@ Zulässige Zusatzbelastung
 § 12
 Anforderungen an das Aufbringen und Einbringen von Materialien auf oder in den Boden
 Achter Teil
-
+ 
 Schlußbestimmungen
 § 13
 Zugänglichkeit von technischen Regeln und Normblättern
 § 14
 Inkrafttreten
 Anhang 1
-
+ 
 Anforderungen an die Probennahme, Analytik und Qualitätssicherung bei der Untersuchung
 1.
 Untersuchungsumfang und erforderlicher Kenntnisstand
@@ -128,7 +128,7 @@ Normen, Technische Regeln und sonstige Methoden
 6.2
 Bezugsquellen
 Anhang 2
-
+ 
 Maßnahmen-, Prüf- und Vorsorgewerte
 1.
 Wirkungspfad Boden - Mensch (direkter Kontakt)
@@ -169,14 +169,14 @@ Anwendung der Vorsorgewerte
 5.
 Zulässige zusätzliche jährliche Frachten an Schadstoffen über alle Wirkungspfade
 Anhang 3
-
+ 
 Anforderungen an Sanierungsuntersuchungen und den Sanierungsplan
 1.
 Sanierungsuntersuchungen
 2.
 Sanierungsplan
 Anhang 4
-
+ 
 Anforderungen an die Untersuchung und Bewertung von Flächen, bei denen der Verdacht einer schädlichen Bodenveränderung auf Grund von Bodenerosion durch Wasser vorliegt
 1.
 Anwendung
@@ -524,7 +524,7 @@ Bodensättigungsextrakt
 
 Verfahren siehe (1)
 
-
+ 
 
 Elution mit Wasser
 
@@ -539,7 +539,7 @@ Säulen- oder Lysimeterversuch
 
 Die zu erwartende Geschwindigkeit, mit der sich stoffspezifisch die Gleichgewichtskonzentration einstellt, ist zu beachten.
 
-
+ 
 
 (1)
 
@@ -617,7 +617,7 @@ E DIN ISO 11272: 01.94 DIN 19683-12: 04.73
 
 - *) :: Empfohlene Methode.
 
-
+ 
 
 Tabelle 4\\
 Analyse anorganischer Schadstoffgehalte
@@ -668,11 +668,11 @@ DIN 38405-24: 05.87
 
 Cyanide
 
-
+ 
 
 E DIN ISO 11262: 06.94
 
-
+ 
 
 Tabelle 5\\
 Analyse organischer Schadstoffgehalte
@@ -1408,7 +1408,7 @@ Anhang 2
   - d) :: Industrie- und Gewerbegrundstücke
     Unbefestigte Flächen von Arbeits- und Produktionsstätten, die nur während der Arbeitszeit genutzt werden.
 - 1.2 :: Maßnahmenwerte nach § 8 Abs. 1 Satz 2 Nr. 2 des Bundes-Bodenschutzgesetzes für die direkte Aufnahme von Dioxinen/Furanen auf Kinderspielflächen, in Wohngebieten, Park- und Freizeitanlagen und Industrie- und Gewerbegrundstücken (in ng/kg Trockenmasse, Feinboden, Analytik nach Anhang 1)\\
-  
+   
 - <<FnA1-BJNR155400999BJNE002600305_001>>[[#FnR.FnA1-BJNR155400999BJNE002600305_001][1*)]] :: Summe der 2,3,7,8 - TCDD-Toxizitätsäquivalente (nach NATO/CCMS).
 
 1.3
@@ -1421,7 +1421,7 @@ Bei Vorliegen dioxinhaltiger Laugenrückstände aus Kupferschiefer ("Kieselrot")
   Prüfwerte (mg/kg TM)
 - 1) :: In Haus- und Kleingärten, die sowohl als Aufenthaltsbereiche für Kinder als auch für den Anbau von Nahrungspflanzen genutzt werden, ist für Cadmium der Wert von 2,0 mg/kg TM als Prüfwert anzuwenden.
 
-
+ 
 
 Prüfwerte (mg/kg TM)
 
@@ -1476,7 +1476,7 @@ Polychlorierte Biphenyle (PCB(tief)6) 2)
   - c) :: Grünland
     Flächen unter Dauergrünland
 - 2.2 :: Prüf- und Maßnahmenwerte nach § 8 Abs. 1 Satz 2 Nr. 1 und 2 des Bundes-Bodenschutzgesetzes für den Schadstoffübergang Boden - Nutzpflanze auf Ackerbauflächen und in Nutzgärten im Hinblick auf die Pflanzenqualität (in mg/kg Trockenmasse, Feinboden, Analytik nach Anhang 1)\\
-  
+   
 - <<FnA2-BJNR155400999BJNE002600305_004>>[[#FnR.FnA2-BJNR155400999BJNE002600305_004][33)]] :: Auf Flächen mit Brotweizenanbau oder Anbau stark Cadmiumanreichernder Gemüsearten gilt als Maßnahmenwert 0,04 mg/kg Trockenmasse; ansonsten gilt als Maßnahmenwert 0,1 mg/kg Trockenmasse.
 - <<FnA2-BJNR155400999BJNE002600305_003>>[[#FnR.FnA2-BJNR155400999BJNE002600305_003][22)]] :: Bei Böden mit zeitweise reduzierenden Verhältnissen gilt ein Prüfwert von 50 mg/kg Trockenmasse.
 - <<FnA2-BJNR155400999BJNE002600305_002>>[[#FnR.FnA2-BJNR155400999BJNE002600305_002][11)]] :: Extraktionsverfahren für Arsen und Schwermetalle: AN = Ammoniumnitrat, KW = Königswasser.
@@ -1485,7 +1485,7 @@ Polychlorierte Biphenyle (PCB(tief)6) 2)
 
 Maßnahmenwerte nach § 8 Abs. 1 Satz 2 Nr. 2 des Bundes-Bodenschutzgesetzes für den Schadstoffübergang Boden - Nutzpflanze auf Grünlandflächen im Hinblick auf die Pflanzenqualität (in mg/kg Trockenmasse, Feinboden, Arsen und Schwermetalle im Königswasser-Extrakt, Analytik nach Anhang 1)\\
 
-
+ 
 
 Grünland
 
@@ -1533,7 +1533,7 @@ Polychlorierte Biphenyle (PCB(tief)6)
 
 Prüfwerte nach § 8 Abs. 1 Satz 2 Nr. 1 des Bundes-Bodenschutzgesetzes für den Schadstoffübergang Boden - Pflanze auf Ackerbauflächen im Hinblick auf Wachstumsbeeinträchtigungen bei Kulturpflanzen (in mg/kg Trockenmasse, Feinboden, im Ammoniumnitrat-Extrakt, Analytik nach Anhang 1)\\
 
-
+ 
 
 Ackerbau
 
@@ -1641,7 +1641,7 @@ Fluorid
 
 750
 
-
+ 
 
 Organische Stoffe
 
@@ -1775,7 +1775,7 @@ Böden mit naturbedingt und großflächig siedlungsbedingt erhöhten Hintergrund
 
 unbedenklich, soweit eine Freisetzung der Schadstoffe oder zusätzliche Einträge nach § 9 Abs. 2 und 3 dieser Verordnung keine nachteiligen Auswirkungen auf die Bodenfunktionen erwarten lassen
 
-
+ 
 
 4.2 Vorsorgewerte für organische Stoffe\\
 (in mg/kg Trockenmasse, Feinboden)

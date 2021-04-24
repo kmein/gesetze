@@ -28,12 +28,12 @@ Erholungsurlaub wird nur während der berufspraktischen Ausbildung gewährt.
 
 (1) Die Leistungen der Referendarinnen und Referendare werden wie folgt bewertet:\\
 \\
-
+ 
 Rangpunkte/\\
 Rangpunktzahl
 Note
 Notendefinition
-
+ 
 1
 2
 3
@@ -120,7 +120,7 @@ Der Test nach Satz 1 Nummer 3 umfasst einen Leistungstest, einen Intelligenztest
 - 2. :: einem strukturierten Interview mit einer Präsentation sowie
 - 3. :: einem Fachkolloquium.
 
-(2) Die Gruppenaufgabe und das strukturierte Interview dienen dazu, die Eignung der Bewerberinnen und Bewerber für den Vorbereitungsdienst im Kompetenzbereich soziales Verhalten“ und in weiteren Kompetenzbereichen zu ermitteln. Im Fachkolloquium wird geprüft, ob die Bewerberin oder der Bewerber genügend Fachwissen als Grundlage für die Ausbildung besitzt.
+(2) Die Gruppenaufgabe und das strukturierte Interview dienen dazu, die Eignung der Bewerberinnen und Bewerber für den Vorbereitungsdienst im Kompetenzbereich „soziales Verhalten“ und in weiteren Kompetenzbereichen zu ermitteln. Im Fachkolloquium wird geprüft, ob die Bewerberin oder der Bewerber genügend Fachwissen als Grundlage für die Ausbildung besitzt.
 (3) Für den mündlichen Teil erlässt die oberste Dienstbehörde oder eine von ihr bestimmte Stelle Auswahlrichtlinien. In ihnen werden festgelegt:
 
 - 1. :: die Kompetenzbereiche,
@@ -134,10 +134,10 @@ Die Auswahlrichtlinien werden auf der Internetseite der Deutschen Bundesbank ver
 
 (1) Für die Einzelbewertungen der im Auswahlverfahren erbrachten Leistungen gelten folgende Noten und Notendefinitionen:\\
 \\
-
+ 
 Note
 Notendefinition
-
+ 
 1
 2
 1
@@ -175,7 +175,7 @@ Eine Bewerberin oder ein Bewerber wird von der weiteren Teilnahme am Auswahlverf
 
 - 1. :: ein Abschnitt des schriftlichen Teils mit der Note 5 bewertet worden ist,
 - 2. :: das Fachkolloquium mit der Note 5 bewertet worden ist oder
-- 3. :: im mündlichen Teil der Kompetenzbereich soziales Verhalten“ oder mindestens zwei andere Kompetenzbereiche mit der Teilnote 4,50 oder schlechter bewertet worden sind.
+- 3. :: im mündlichen Teil der Kompetenzbereich „soziales Verhalten“ oder mindestens zwei andere Kompetenzbereiche mit der Teilnote 4,50 oder schlechter bewertet worden sind.
 
 
 § 13 - Gesamtergebnis des Auswahlverfahrens

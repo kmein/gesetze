@@ -7,7 +7,7 @@ Ausfertigungsdatum: 17.09.1953
 Inhaltsübersicht
 
 Erster Teil: Ausübung eines Handwerks und eines handwerksähnlichen Gewerbes
-
+ 
 Erster Abschnitt:
 Berechtigung zum selbständigen Betrieb eines zulassungspflichtigen Handwerks
 §§ 1 - 5b
@@ -18,7 +18,7 @@ Dritter Abschnitt:
 Zulassungsfreie Handwerke und handwerksähnliche Gewerbe
 §§ 18 - 20
 Zweiter Teil: Berufsbildung im Handwerk
-
+ 
 Erster Abschnitt:
 Berechtigung zum Einstellen und Ausbilden
 §§ 21 - 24
@@ -44,7 +44,7 @@ Achter Abschnitt:
 Berufsbildungsausschuss
 §§ 43 - 44b
 Dritter Teil: Meisterprüfung, Meistertitel
-
+ 
 Erster Abschnitt:
 Meisterprüfung in einem zulassungspflichtigen Handwerk
 §§ 45 - 51
@@ -52,7 +52,7 @@ Zweiter Abschnitt:
 Meisterprüfung in einem zulassungsfreien Handwerk oder in einem handwerksähnlichen Gewerbe
 §§ 51a - 51e
 Vierter Teil: Organisation des Handwerks
-
+ 
 Erster Abschnitt:
 Handwerksinnungen
 §§ 52 - 78
@@ -66,7 +66,7 @@ Vierter Abschnitt:
 Handwerkskammern
 §§ 90 - 116
 Fünfter Teil: Bußgeld-, Übergangs- und Schlussvorschriften
-
+ 
 Erster Abschnitt:
 Bußgeldvorschriften
 §§ 117 - 118a
@@ -81,88 +81,88 @@ Verzeichnis der Gewerbe, die als zulassungspflichtige Handwerke betrieben werden
 Nr. 1 - 41
 Anlage B:
 Verzeichnis der Gewerbe, die als zulassungsfreie Handwerke oder handwerksähnliche Gewerbe betrieben werden können
-
-
+ 
+ 
 Abschnitt 1
 Nr. 1 - 53
-
+ 
 Abschnitt 2
 Nr. 1 - 57
 Anlage C:
 Wahlordnung für die Wahlen der Mitglieder der Vollversammlung der Handwerkskammern
-
-
+ 
+ 
 Erster Abschnitt:
-
-
+ 
+ 
 Zeitpunkt der Wahl, Wahlleiter und Wahlausschuss
 §§ 1 - 2
-
+ 
 Zweiter Abschnitt:
-
-
+ 
+ 
 Wahlbezirk
 § 3
-
+ 
 Dritter Abschnitt:
-
-
+ 
+ 
 Aufteilung der Mitglieder der Vollversammlung
 § 4
-
+ 
 Vierter Abschnitt:
-
-
+ 
+ 
 (weggefallen)
-
-
+ 
+ 
 Fünfter Abschnitt:
-
-
+ 
+ 
 Wahlvorschläge
 §§ 7 - 11
-
+ 
 Sechster Abschnitt:
-
-
+ 
+ 
 Wahl
 §§ 12 - 18
-
+ 
 Siebenter Abschnitt:
-
-
+ 
+ 
 (weggefallen)
-
-
+ 
+ 
 Achter Abschnitt:
-
-
+ 
+ 
 Wegfall der Wahlhandlung
 § 20
-
+ 
 Neunter Abschnitt:
-
-
+ 
+ 
 Beschwerdeverfahren, Kosten
 §§ 21 - 22
-
+ 
 Anlage:
-
-
+ 
+ 
 Muster des Wahlberechtigungsscheins
-
+ 
 Anlage D:
 Art der personenbezogenen Daten in der Handwerksrolle, in dem Verzeichnis der Inhaber eines zulassungsfreien Handwerks oder handwerksähnlichen Gewerbes und in der Lehrlingsrolle
-
+ 
 I.
 Handwerksrolle
-
+ 
 II.
 Verzeichnis der Inhaber eines zulassungsfreien Handwerks oder handwerksähnlichen Gewerbes
-
+ 
 III.
 Lehrlingsrolle
-
+ 
 
 § 1
 
@@ -678,7 +678,7 @@ und fördert diese durch Beratung der an der Berufsbildung beteiligten Personen.
 Der Lernumfang für den Erwerb dieser Fertigkeiten, Kenntnisse und Fähigkeiten soll mindestens 400 Stunden betragen.
 
 (3) Als Zulassungsvoraussetzung für eine Prüfung der ersten beruflichen Fortbildungsstufe ist als Regelzugang der Abschluss in einem anerkannten Ausbildungsberuf vorzusehen.
-(4) Die Bezeichnung eines Fortbildungsabschlusses der ersten beruflichen Fortbildungsstufe beginnt mit den Wörtern Geprüfter Berufsspezialist für“ oder Geprüfte Berufsspezialistin für“. Die Fortbildungsordnung kann vorsehen, dass dieser Abschlussbezeichnung eine weitere Abschlussbezeichnung vorangestellt wird. Die Abschlussbezeichnung der ersten beruflichen Fortbildungsstufe darf nur führen, wer
+(4) Die Bezeichnung eines Fortbildungsabschlusses der ersten beruflichen Fortbildungsstufe beginnt mit den Wörtern „Geprüfter Berufsspezialist für“ oder „Geprüfte Berufsspezialistin für“. Die Fortbildungsordnung kann vorsehen, dass dieser Abschlussbezeichnung eine weitere Abschlussbezeichnung vorangestellt wird. Die Abschlussbezeichnung der ersten beruflichen Fortbildungsstufe darf nur führen, wer
 
 - 1. :: die Prüfung der ersten beruflichen Fortbildungsstufe bestanden hat oder
 - 2. :: die Prüfung einer gleichwertigen beruflichen Fortbildung auf der Grundlage bundes- oder landesrechtlicher Regelungen, die diese Abschlussbezeichnung vorsehen, bestanden hat.
@@ -693,7 +693,7 @@ Der Lernumfang für den Erwerb dieser Fertigkeiten, Kenntnisse und Fähigkeiten 
 - 1. :: der Abschluss in einem anerkannten Ausbildungsberuf oder
 - 2. :: ein Abschluss der ersten beruflichen Fortbildungsstufe.
 
-(4) Die Bezeichnung eines Fortbildungsabschlusses der zweiten beruflichen Fortbildungsstufe beginnt mit den Wörtern Bachelor Professional in“. Die Fortbildungsordnung kann vorsehen, dass dieser Abschlussbezeichnung eine weitere Abschlussbezeichnung vorangestellt wird. Die Abschlussbezeichnung der zweiten beruflichen Fortbildungsstufe darf nur führen, wer
+(4) Die Bezeichnung eines Fortbildungsabschlusses der zweiten beruflichen Fortbildungsstufe beginnt mit den Wörtern „Bachelor Professional in“. Die Fortbildungsordnung kann vorsehen, dass dieser Abschlussbezeichnung eine weitere Abschlussbezeichnung vorangestellt wird. Die Abschlussbezeichnung der zweiten beruflichen Fortbildungsstufe darf nur führen, wer
 
 - 1. :: die Prüfung der zweiten beruflichen Fortbildungsstufe bestanden hat oder
 - 2. :: die Prüfung einer gleichwertigen beruflichen Fortbildung auf der Grundlage bundes- oder landesrechtlicher Regelungen, die diese Abschlussbezeichnung vorsehen, bestanden hat.
@@ -712,7 +712,7 @@ Die §§ 51 und 51d bleiben unberührt.
 Der Lernumfang für den Erwerb dieser Fertigkeiten, Kenntnisse und Fähigkeiten soll mindestens 1 600 Stunden betragen.
 
 (3) Als Voraussetzung zur Zulassung für eine Prüfung der dritten beruflichen Fortbildungsstufe ist als Regelzugang ein Abschluss auf der zweiten beruflichen Fortbildungsstufe oder eine bestandene Meisterprüfung vorzusehen.
-(4) Die Bezeichnung eines Fortbildungsabschlusses der dritten beruflichen Fortbildungsstufe beginnt mit den Wörtern Master Professional in“. Die Fortbildungsordnung kann vorsehen, dass dieser Abschlussbezeichnung eine weitere Abschlussbezeichnung vorangestellt wird. Die Abschlussbezeichnung der dritten beruflichen Fortbildungsstufe darf führen, wer
+(4) Die Bezeichnung eines Fortbildungsabschlusses der dritten beruflichen Fortbildungsstufe beginnt mit den Wörtern „Master Professional in“. Die Fortbildungsordnung kann vorsehen, dass dieser Abschlussbezeichnung eine weitere Abschlussbezeichnung vorangestellt wird. Die Abschlussbezeichnung der dritten beruflichen Fortbildungsstufe darf führen, wer
 
 - 1. :: die Prüfung der dritten beruflichen Fortbildungsstufe bestanden hat oder
 - 2. :: die Prüfung einer gleichwertigen beruflichen Fortbildung auf der Grundlage bundes- oder landesrechtlicher Regelungen, die diese Abschlussbezeichnung vorsehen, bestanden hat.
@@ -741,9 +741,9 @@ Der Lernumfang für den Erwerb dieser Fertigkeiten, Kenntnisse und Fähigkeiten 
 
 (3) Bestätigt die zuständige oberste Landesbehörde,
 
-- 1. :: dass die Fortbildungsprüfungsregelungen die Voraussetzungen des § 42b Absatz 2 und 3 sowie des § 42a Absatz 2 erfüllen, so beginnt die Bezeichnung des Fortbildungsabschlusses mit den Wörtern Geprüfter Berufsspezialist für“ oder Geprüfte Berufsspezialistin für“,
-- 2. :: dass die Fortbildungsprüfungsregelungen die Voraussetzungen des § 42c Absatz 2 und 3 erfüllen, so beginnt die Bezeichnung des Fortbildungsabschlusses mit den Wörtern Bachelor Professional in“,
-- 3. :: dass die Fortbildungsprüfungsregelungen die Voraussetzungen des § 42d Absatz 2 und 3 erfüllen, so beginnt die Bezeichnung des Fortbildungsabschlusses mit den Wörtern Master Professional in“.
+- 1. :: dass die Fortbildungsprüfungsregelungen die Voraussetzungen des § 42b Absatz 2 und 3 sowie des § 42a Absatz 2 erfüllen, so beginnt die Bezeichnung des Fortbildungsabschlusses mit den Wörtern „Geprüfter Berufsspezialist für“ oder „Geprüfte Berufsspezialistin für“,
+- 2. :: dass die Fortbildungsprüfungsregelungen die Voraussetzungen des § 42c Absatz 2 und 3 erfüllen, so beginnt die Bezeichnung des Fortbildungsabschlusses mit den Wörtern „Bachelor Professional in“,
+- 3. :: dass die Fortbildungsprüfungsregelungen die Voraussetzungen des § 42d Absatz 2 und 3 erfüllen, so beginnt die Bezeichnung des Fortbildungsabschlusses mit den Wörtern „Master Professional in“.
 
 Der Abschlussbezeichnung nach Satz 1 ist in Klammern ein Zusatz beizufügen, aus dem sich zweifelsfrei die Handwerkskammer ergibt, die die Fortbildungsprüfungsregelungen erlassen hat. Die Fortbildungsprüfungsregelungen können vorsehen, dass dieser Abschlussbezeichnung eine weitere Abschlussbezeichnung vorangestellt wird.
 
@@ -964,7 +964,7 @@ Ausbildungsnachweise sind Prüfungszeugnisse und sonstige Befähigungsnachweise,
 § 51
 
 (1) Die Ausbildungsbezeichnung Meister/Meisterin in Verbindung mit einem zulassungspflichtigen Handwerk oder in Verbindung mit einer anderen Ausbildungsbezeichnung, die auf eine Tätigkeit in einem oder mehreren zulassungspflichtigen Handwerken hinweist, darf nur führen, wer für dieses zulassungspflichtige Handwerk oder für diese zulassungspflichtigen Handwerke die Meisterprüfung bestanden hat.
-(2) Wer eine Ausbildungsbezeichnung nach Absatz 1 führen darf, darf zusätzlich die Bezeichnung Bachelor Professional in“ unter Angabe des Handwerks führen, für das er eine Ausbildungsbezeichnung nach Absatz 1 zu führen berechtigt ist.
+(2) Wer eine Ausbildungsbezeichnung nach Absatz 1 führen darf, darf zusätzlich die Bezeichnung „Bachelor Professional in“ unter Angabe des Handwerks führen, für das er eine Ausbildungsbezeichnung nach Absatz 1 zu führen berechtigt ist.
 
 § 51a
 
@@ -1534,7 +1534,7 @@ Dem Vorstand obliegt die Verwaltung der Handwerkskammer; Präsident und Hauptges
 § 110
 
 Die Vollversammlung kann unter Wahrung der im § 93 Abs. 1 bestimmten Verhältniszahl aus ihrer Mitte Ausschüsse bilden und sie mit besonderen regelmäßigen oder vorübergehenden Aufgaben betrauen. § 107 findet entsprechende Anwendung.
-
+ 
 
 § 111
 
@@ -1674,7 +1674,7 @@ In der Einladung zur Sitzung oder zur Beschlussfassung ist der Beschluss nach Sa
 
 (1) Auf Ausbildungsverträge, die vor dem 30. September 2017 abgeschlossen wurden oder bis zu diesem Zeitpunkt abgeschlossen werden, sind § 6 Absatz 2 Satz 5, § 26 Absatz 2 Satz 1, § 36 Absatz 1 Nummer 2 und § 44 Absatz 2 Nummer 1 in ihrer bis zum 5. April 2017 geltenden Fassung weiter anzuwenden.
 (2) Sofern für einen anerkannten Fortbildungsabschluss eine Fortbildungsordnung auf Grund des § 42 in der bis zum Ablauf des 31. Dezember 2019 geltenden Fassung erlassen worden ist, ist diese Fortbildungsordnung bis zum erstmaligen Erlass einer Fortbildungsordnung nach § 42 in der ab dem 1. Januar 2020 geltenden Fassung weiterhin anzuwenden. Sofern eine Fortbildungsprüfungsregelung nach § 42a in der bis zum Ablauf des 31. Dezember 2019 geltenden Fassung erlassen worden ist, ist diese Fortbildungsprüfungsregelung bis zum erstmaligen Erlass einer Fortbildungsprüfungsregelung nach § 42f in der ab dem 1. Januar 2020 geltenden Fassung weiterhin anzuwenden.
-(3) Für Berufsausbildungsverträge mit Ausbildungsbeginn ab dem 1. Januar 2020 ist das Datum bei Vertragsabschluss vereinbarte Vergütung für jedes Ausbildungsjahr“ in der Lehrlingsrolle nach § 28 Absatz 1 und der Anlage D Abschnitt III Nummer 4 in der ab dem 1. Januar 2020 geltenden Fassung zu speichern. Im Übrigen sind für Berufsausbildungsverträge mit Ausbildungsbeginn bis zum Ablauf des 31. Dezember 2020 § 28 und die Anlage D in der am 31. Dezember 2019 geltenden Fassung weiterhin anzuwenden.
+(3) Für Berufsausbildungsverträge mit Ausbildungsbeginn ab dem 1. Januar 2020 ist das Datum „bei Vertragsabschluss vereinbarte Vergütung für jedes Ausbildungsjahr“ in der Lehrlingsrolle nach § 28 Absatz 1 und der Anlage D Abschnitt III Nummer 4 in der ab dem 1. Januar 2020 geltenden Fassung zu speichern. Im Übrigen sind für Berufsausbildungsverträge mit Ausbildungsbeginn bis zum Ablauf des 31. Dezember 2020 § 28 und die Anlage D in der am 31. Dezember 2019 geltenden Fassung weiterhin anzuwenden.
 
 § 126
 

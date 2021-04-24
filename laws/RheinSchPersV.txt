@@ -12,52 +12,52 @@ Inhaltsverzeichnis
 In dieser Verordnung gelten als\\
 \\
 Fahrzeugarten
-- 1. :: Fahrzeug“ ein Binnenschiff, eine Fähre, ein schwimmendes Gerät und ein Seeschiff;
-- 2. :: Binnenschiff“ ein Schiff, das ausschließlich oder vorwiegend für die Fahrt auf Binnengewässern bestimmt ist;
-- 3. :: Seeschiff“ ein Schiff, das zur See- oder Küstenfahrt zugelassen und vorwiegend dafür bestimmt ist;
-- 4. :: Motorschiff“ ein zur Güterbeförderung bestimmtes Schiff, das mit eigener Triebkraft allein fahren kann;
-- 5. :: Fähre“ ein Fahrzeug, das dem Übersetzverkehr dient und von der zuständigen Behörde als Fähre behandelt wird;
-- 6. :: Behördenfahrzeug“ ein Fahrzeug, dessen Länge 25 m nicht überschreitet und das im Rahmen hoheitlicher Aufgaben eingesetzt wird;
-- 7. :: Feuerlöschboot“ ein Fahrzeug, dessen Länge 15 m oder mehr aufweist und das im Rahmen des Rettungsdienstes eingesetzt wird;
-- 8. :: Schleppboot“ ein eigens zum Schleppen gebautes Schiff;
-- 9. :: Schubboot“ ein eigens zur Fortbewegung eines Schubverbandes gebautes Schiff;
-- 10. :: Schleppkahn“ ein zur Güterbeförderung bestimmtes und zur Fortbewegung durch Schleppen gebautes Schiff ohne eigene Triebkraft oder mit eigener Triebkraft, die nur erlaubt kleine Ortsveränderungen vorzunehmen;
-- 11. :: Schubleichter“ ein zur Fortbewegung durch Schieben gebautes oder hierfür besonders eingerichtetes Schiff;
-- 12. :: Fahrgastschiff“ ein zur Beförderung von mehr als zwölf Fahrgästen gebautes und eingerichtetes Schiff;
-- 13. :: Tagesausflugsschiff“ ein Fahrgastschiff ohne Kabinen für die Übernachtung von Fahrgästen, dessen Fahrtauglichkeitsbescheinigung den entsprechenden Vermerk enthält;
-- 14. :: Kabinenschiff“ ein Fahrgastschiff mit Kabinen für die Übernachtung von Fahrgästen, dessen Fahrtauglichkeitsbescheinigung den entsprechenden Vermerk enthält;
-- 15. :: Schwimmendes Gerät“ eine schwimmende Konstruktion mit auf ihm vorhandenen Arbeitseinrichtungen wie Krane, Bagger, Rammen, Elevatoren;
-- 16. :: Sportfahrzeug“ ein für Sport- oder Erholungszwecke bestimmtes Schiff, das kein Fahrgastschiff ist;
+- 1. :: „Fahrzeug“ ein Binnenschiff, eine Fähre, ein schwimmendes Gerät und ein Seeschiff;
+- 2. :: „Binnenschiff“ ein Schiff, das ausschließlich oder vorwiegend für die Fahrt auf Binnengewässern bestimmt ist;
+- 3. :: „Seeschiff“ ein Schiff, das zur See- oder Küstenfahrt zugelassen und vorwiegend dafür bestimmt ist;
+- 4. :: „Motorschiff“ ein zur Güterbeförderung bestimmtes Schiff, das mit eigener Triebkraft allein fahren kann;
+- 5. :: „Fähre“ ein Fahrzeug, das dem Übersetzverkehr dient und von der zuständigen Behörde als Fähre behandelt wird;
+- 6. :: „Behördenfahrzeug“ ein Fahrzeug, dessen Länge 25 m nicht überschreitet und das im Rahmen hoheitlicher Aufgaben eingesetzt wird;
+- 7. :: „Feuerlöschboot“ ein Fahrzeug, dessen Länge 15 m oder mehr aufweist und das im Rahmen des Rettungsdienstes eingesetzt wird;
+- 8. :: „Schleppboot“ ein eigens zum Schleppen gebautes Schiff;
+- 9. :: „Schubboot“ ein eigens zur Fortbewegung eines Schubverbandes gebautes Schiff;
+- 10. :: „Schleppkahn“ ein zur Güterbeförderung bestimmtes und zur Fortbewegung durch Schleppen gebautes Schiff ohne eigene Triebkraft oder mit eigener Triebkraft, die nur erlaubt kleine Ortsveränderungen vorzunehmen;
+- 11. :: „Schubleichter“ ein zur Fortbewegung durch Schieben gebautes oder hierfür besonders eingerichtetes Schiff;
+- 12. :: „Fahrgastschiff“ ein zur Beförderung von mehr als zwölf Fahrgästen gebautes und eingerichtetes Schiff;
+- 13. :: „Tagesausflugsschiff“ ein Fahrgastschiff ohne Kabinen für die Übernachtung von Fahrgästen, dessen Fahrtauglichkeitsbescheinigung den entsprechenden Vermerk enthält;
+- 14. :: „Kabinenschiff“ ein Fahrgastschiff mit Kabinen für die Übernachtung von Fahrgästen, dessen Fahrtauglichkeitsbescheinigung den entsprechenden Vermerk enthält;
+- 15. :: „Schwimmendes Gerät“ eine schwimmende Konstruktion mit auf ihm vorhandenen Arbeitseinrichtungen wie Krane, Bagger, Rammen, Elevatoren;
+- 16. :: „Sportfahrzeug“ ein für Sport- oder Erholungszwecke bestimmtes Schiff, das kein Fahrgastschiff ist;
 
 Fahrzeugzusammenstellungen
-- 17. :: Verband“ ein starrer Verband oder ein Schleppverband;
-- 18. :: Formation“ die Form der Zusammenstellung eines Verbandes;
-- 19. :: Starrer Verband“ ein Schubverband oder gekuppelte Fahrzeuge;
-- 20. :: Schubverband“ eine starre Verbindung von Fahrzeugen, von denen sich mindestens eines vor dem oder den beiden Fahrzeugen mit Maschinenantrieb befindet, das oder die den Verband fortbewegt oder fortbewegen und als schiebendes Fahrzeug“ oder schiebende Fahrzeuge“ bezeichnet werden; als starr gilt auch ein Verband aus einem schiebenden und einem geschobenen Fahrzeug, deren Kupplungen ein gesteuertes Knicken ermöglichen;
-- 21. :: Gekuppelte Fahrzeuge“ eine Zusammenstellung von längsseits starr gekuppelten Fahrzeugen, von denen sich keines vor dem Fahrzeug mit Maschinenantrieb befindet, das die Zusammenstellung fortbewegt;
-- 22. :: Schleppverband“ eine Zusammenstellung von einem oder mehreren Fahrzeugen, schwimmenden Anlagen oder Schwimmkörpern, die von einem oder mehreren zum Verband gehörigen Fahrzeugen mit Maschinenantrieb geschleppt wird;
-- 23. :: Länge“ oder L“ die größte Länge des Schiffskörpers in m, ohne Ruder und Bugspriet;
-- 24. :: Breite“ oder B“ die größte Breite des Schiffskörpers in m, gemessen an der Außenseite der Beplattung (ohne Schaufelräder, Scheuerleisten und Ähnliches);
+- 17. :: „Verband“ ein starrer Verband oder ein Schleppverband;
+- 18. :: „Formation“ die Form der Zusammenstellung eines Verbandes;
+- 19. :: „Starrer Verband“ ein Schubverband oder gekuppelte Fahrzeuge;
+- 20. :: „Schubverband“ eine starre Verbindung von Fahrzeugen, von denen sich mindestens eines vor dem oder den beiden Fahrzeugen mit Maschinenantrieb befindet, das oder die den Verband fortbewegt oder fortbewegen und als „schiebendes Fahrzeug“ oder „schiebende Fahrzeuge“ bezeichnet werden; als starr gilt auch ein Verband aus einem schiebenden und einem geschobenen Fahrzeug, deren Kupplungen ein gesteuertes Knicken ermöglichen;
+- 21. :: „Gekuppelte Fahrzeuge“ eine Zusammenstellung von längsseits starr gekuppelten Fahrzeugen, von denen sich keines vor dem Fahrzeug mit Maschinenantrieb befindet, das die Zusammenstellung fortbewegt;
+- 22. :: „Schleppverband“ eine Zusammenstellung von einem oder mehreren Fahrzeugen, schwimmenden Anlagen oder Schwimmkörpern, die von einem oder mehreren zum Verband gehörigen Fahrzeugen mit Maschinenantrieb geschleppt wird;
+- 23. :: „Länge“ oder „L“ die größte Länge des Schiffskörpers in m, ohne Ruder und Bugspriet;
+- 24. :: „Breite“ oder „B“ die größte Breite des Schiffskörpers in m, gemessen an der Außenseite der Beplattung (ohne Schaufelräder, Scheuerleisten und Ähnliches);
 
 Personal
-- 25. :: Besatzung“ die Decksmannschaft und das Maschinenpersonal;
-- 26. :: Mindestbesatzung“ die vorgeschriebene Mindestbesatzung nach §§ 3.15 bis 3.23 dieser Verordnung;
-- 27. :: Decksmannschaft“ die Besatzung mit Ausnahme des Maschinenpersonals;
-- 28. :: Bordpersonal“ alle Beschäftigten an Bord eines Fahrgastschiffes, die nicht zur Besatzung gehören;
-- 29. :: Sicherheitspersonal“ der Sachkundige für Fahrgastschifffahrt, der Ersthelfer und der Atemschutzgeräteträger und der Sachkundige für Gefahrguttransport;
-- 30. :: Fahrgast“ jede Person an Bord eines Fahrgastschiffes, die nicht zur Besatzung oder zum Bordpersonal gehört;
-- 31. :: Fahrzeit“ die Zeit an Bord eines Fahrzeuges, das sich auf Reisen befindet;
-- 32. :: Radarfahrt“ eine Fahrt bei unsichtigem Wetter, bei der Radar zum Führen des Fahrzeuges benutzt wird;
-- 33. :: Sprechfunkzeugnis“ ein auf der Grundlage der Anlage 5 der Regionalen Vereinbarung über den Binnenschifffahrtsfunk erteiltes gültiges Funkzeugnis;
-- 34. :: Schifferpatent“ ein Rheinpatent oder ein anderes Befähigungszeugnis zum Führen von Fahrzeugen in der Binnenschifffahrt;
-- 35. :: Rheinpatent“ ein Befähigungszeugnis gemäß § 6.04 Nr. 1 zum Führen von Fahrzeugen auf dem Rhein;
+- 25. :: „Besatzung“ die Decksmannschaft und das Maschinenpersonal;
+- 26. :: „Mindestbesatzung“ die vorgeschriebene Mindestbesatzung nach §§ 3.15 bis 3.23 dieser Verordnung;
+- 27. :: „Decksmannschaft“ die Besatzung mit Ausnahme des Maschinenpersonals;
+- 28. :: „Bordpersonal“ alle Beschäftigten an Bord eines Fahrgastschiffes, die nicht zur Besatzung gehören;
+- 29. :: „Sicherheitspersonal“ der Sachkundige für Fahrgastschifffahrt, der Ersthelfer und der Atemschutzgeräteträger und der Sachkundige für Gefahrguttransport;
+- 30. :: „Fahrgast“ jede Person an Bord eines Fahrgastschiffes, die nicht zur Besatzung oder zum Bordpersonal gehört;
+- 31. :: „Fahrzeit“ die Zeit an Bord eines Fahrzeuges, das sich auf Reisen befindet;
+- 32. :: „Radarfahrt“ eine Fahrt bei unsichtigem Wetter, bei der Radar zum Führen des Fahrzeuges benutzt wird;
+- 33. :: „Sprechfunkzeugnis“ ein auf der Grundlage der Anlage 5 der Regionalen Vereinbarung über den Binnenschifffahrtsfunk erteiltes gültiges Funkzeugnis;
+- 34. :: „Schifferpatent“ ein Rheinpatent oder ein anderes Befähigungszeugnis zum Führen von Fahrzeugen in der Binnenschifffahrt;
+- 35. :: „Rheinpatent“ ein Befähigungszeugnis gemäß § 6.04 Nr. 1 zum Führen von Fahrzeugen auf dem Rhein;
 
 Andere Begriffe
-- 36. :: ADN“ die dem europäischen Übereinkommen über die internationale Beförderung von gefährlichen Gütern auf Binnenwasserstraßen beigefügte Verordnung (ADN);
-- 37. :: Binnenschiffszeugnis“ ein Schiffsattest oder Gemeinschaftszeugnis für Binnenschiffe;
-- 38. :: Untersuchungskommission“ die nationale Behörde, die mit der Ausstellung des Schiffsattests beauftragt und deren Zusammensetzung in Anhang II § 2.01 der Binnenschiffsuntersuchungsordnung geregelt ist.
-- 39. :: Flüssigerdgas (LNG)“ Erdgas, das durch Abkühlung auf eine Temperatur von -161° C verflüssigt wurde.
-- 40. :: ES-TRIN“ der Europäische Standard der technischen Vorschriften für Binnenschiffe Ausgabe 2019/12<<FnR.bjnr130030011bjne000202125_01>>[[#bjnr130030011bjne000202125_01][2]]} . Bei der Anwendung des ES-TRIN ist unter Mitgliedstaat ein Rheinuferstaat oder Belgien zu verstehen.
+- 36. :: „ADN“ die dem europäischen Übereinkommen über die internationale Beförderung von gefährlichen Gütern auf Binnenwasserstraßen beigefügte Verordnung (ADN);
+- 37. :: „Binnenschiffszeugnis“ ein Schiffsattest oder Gemeinschaftszeugnis für Binnenschiffe;
+- 38. :: „Untersuchungskommission“ die nationale Behörde, die mit der Ausstellung des Schiffsattests beauftragt und deren Zusammensetzung in Anhang II § 2.01 der Binnenschiffsuntersuchungsordnung geregelt ist.
+- 39. :: „Flüssigerdgas (LNG)“ Erdgas, das durch Abkühlung auf eine Temperatur von -161° C verflüssigt wurde.
+- 40. :: „ES-TRIN“ der Europäische Standard der technischen Vorschriften für Binnenschiffe Ausgabe 2019/12<<FnR.bjnr130030011bjne000202125_01>>[[#bjnr130030011bjne000202125_01][2]]} . Bei der Anwendung des ES-TRIN ist unter Mitgliedstaat ein Rheinuferstaat oder Belgien zu verstehen.
 
 
 § 1.02 - Anordnungen vorübergehender Art der Zentralkommission für die Rheinschifffahrt
@@ -186,7 +186,7 @@ Der Nachweis der Tauglichkeit ist durch Vorlage eines ärztlichen Zeugnisses nac
   - b) :: ab Ausgabedatum jeweils mindestens einmal innerhalb zwölf Monaten einer zuständigen Behörde vorzulegen und mit Kontrollvermerk nach Nummer 3 versehen zu lassen.
 - 5. :: Ein Steuermann ist von der Vorlagepflicht nach Nummer 4 Buchstabe b befreit, wenn er ein Großes Patent nach Teil III dieser Verordnung nicht erwerben will. Sollte er dennoch später dieses Patent erwerben wollen, dann können nur solche Streckenfahrten berücksichtigt werden, die im Schifferdienstbuch eingetragen und mit einem Kontrollvermerk nach Nummer 3 versehen sind.
 - 6. :: Der Schiffsführer hat
-  - a) :: im Schifferdienstbuch regelmäbeabsichtigt nicht den Erwerb eines Schifferpatentes“;
+  - a) :: im Schifferdienstbuch regelmäßig alle Eintragungen nach Maßgabe der in den Schifferdienstbüchern enthaltenen Anweisungen zur Führung des Schifferdienstbuches vorzunehmen, es sei denn, der Inhaber des Schifferdienstbuches ist Steuermann und nimmt auf Seite 10 seines Dienstbuches folgende ordnungsgemäß unterzeichnete Eintragung vor: „beabsichtigt nicht den Erwerb eines Schifferpatentes“;
   - b) :: es bis zur Beendigung des Dienst-, Arbeits- oder sonstigen Verhältnisses sicher im Steuerhaus zu verwahren;
   - c) :: dem Inhaber auf dessen Wunsch das Schifferdienstbuch jederzeit und unverzüglich auszuhändigen.
 
@@ -197,7 +197,7 @@ Der Nachweis der Tauglichkeit ist durch Vorlage eines ärztlichen Zeugnisses nac
 - 2. :: Hat eine zuständige Behörde Zweifel an der Tauglichkeit des Inhabers eines Schifferdienstbuches nach § 3.05 Nr. 1 Buchstabe b),
   - a) :: unterrichtet sie davon die ausstellende Behörde, die die Vorlage eines ärztlichen Zeugnisses nach Anlage B2 oder eines von der ZKR als gleichwertig anerkannten ärztlichen Zeugnisses über den gegenwärtigen Zustand der Tauglichkeit des Inhabers verlangen kann; die Kosten dafür trägt der Inhaber nur dann selbst, wenn sich die Zweifel als begründet erweisen;
   - b) :: kann sie die Gültigkeit des Schifferdienstbuches für eine Dauer aussetzen, die das Datum der von der ausstellenden Behörde auf der Grundlage des neuen ärztlichen Zeugnisses getroffenen Entscheidung nicht überschreiten darf; in diesem Fall unterrichtet sie die ZKR und die ausstellende Behörde von ihrer Entscheidung.
-- 3. :: Ist erwiesen, dass der Inhaber untauglich im Sinne der Nummern 1 und 2 ist, trägt die ausstellende Behörde auf Seite 2 und auf Seite 7 des Schifferdienstbuches den Vermerk UNTAUGLICH“ ein und beglaubigt ihn.
+- 3. :: Ist erwiesen, dass der Inhaber untauglich im Sinne der Nummern 1 und 2 ist, trägt die ausstellende Behörde auf Seite 2 und auf Seite 7 des Schifferdienstbuches den Vermerk „UNTAUGLICH“ ein und beglaubigt ihn.
 
 
 § 3.08 - Anrechnung der Fahrzeiten
@@ -271,9 +271,9 @@ Der Nachweis der Tauglichkeit ist durch Vorlage eines ärztlichen Zeugnisses nac
 § 3.13 - Bordbuch – Fahrtenschreiber
 
 - 1. :: Auf jedem Schiff ist im Steuerhaus ein Bordbuch nach dem Muster der Anlage A1 mitzuführen, ausgenommen auf Schlepp- und Schubbooten, die nur in Häfen verkehren, auf unbemannten Schubleichtern, Behördenfahrzeugen und Sportfahrzeugen. Dieses Bordbuch ist entsprechend der darin enthaltenen Anleitung auszufüllen. Verantwortlich für das Mitführen des Bordbuches und für die Einträge ist der Schiffsführer. Das erste Bordbuch, das mit der Nummer 1, dem Namen des Schiffes und dessen einheitlicher europäischer Schiffsnummer (ENI) oder dessen amtlicher Schiffsnummer zu versehen ist, muss von einer zuständigen Behörde eines Rheinuferstaates oder Belgiens aufgrund der Vorlage eines gültigen Binnenschiffszeugnisses ausgestellt sein. Auf Schiffen, die über ein gemäß Anlage O zur RheinSchUO auf dem Rhein anerkanntes Gemeinschaftszeugnis verfügen, kann statt des von einer zuständigen Behörde eines Rheinuferstaates oder Belgiens ausgestellten Bordbuches ein von einer zuständigen Behörde eines Drittstaates ausgestelltes und von der ZKR anerkanntes Bordbuch mitgeführt werden. Anerkannte Bordbücher sind in mindestens einer der Amtssprachen der ZKR zu führen. Die zuständigen Behörden für die Ausstellung von auf dem Rhein gültigen Bordbüchern ergeben sich aus Anlage A1a.
-- 2. :: Alle nachfolgenden Bordbücher können von allen zuständigen Behörden eines Rheinuferstaates oder Belgiens mit der Folgenummer nummeriert ausgegeben werden, dürfen jedoch nur gegen Vorlage des vorangegangenen Bordbuches ausgehändigt werden. Das vorangegangene Bordbuch muss unaustilgbar ungültig“ gekennzeichnet und dem Schiffsführer zurückgegeben werden.\\
+- 2. :: Alle nachfolgenden Bordbücher können von allen zuständigen Behörden eines Rheinuferstaates oder Belgiens mit der Folgenummer nummeriert ausgegeben werden, dürfen jedoch nur gegen Vorlage des vorangegangenen Bordbuches ausgehändigt werden. Das vorangegangene Bordbuch muss unaustilgbar „ungültig“ gekennzeichnet und dem Schiffsführer zurückgegeben werden.\\
   \\
-  Die Aushändigung des neuen Bordbuches kann bei Vorlage der Bescheinigung nach Nummer 4 erfolgen. Der Schiffseigner hat jedoch dafür zu sorgen, dass das vorangegangene Bordbuch binnen 30 Tagen nach dem Ausstellungsdatum des neuen Bordbuches, das auf der Bescheinigung nach Nummer 4 von der zuständigen Behörde eingetragen worden ist, von derselben zuständigen Behörde unaustilgbar ungültig“ gekennzeichnet wird. Der Schiffseigner hat außerdem dafür zu sorgen, dass dann das Bordbuch wieder an Bord gebracht wird.
+  Die Aushändigung des neuen Bordbuches kann bei Vorlage der Bescheinigung nach Nummer 4 erfolgen. Der Schiffseigner hat jedoch dafür zu sorgen, dass das vorangegangene Bordbuch binnen 30 Tagen nach dem Ausstellungsdatum des neuen Bordbuches, das auf der Bescheinigung nach Nummer 4 von der zuständigen Behörde eingetragen worden ist, von derselben zuständigen Behörde unaustilgbar „ungültig“ gekennzeichnet wird. Der Schiffseigner hat außerdem dafür zu sorgen, dass dann das Bordbuch wieder an Bord gebracht wird.
 - 3. :: Das ungültig gezeichnete Bordbuch ist während sechs Monaten nach der letzten Eintragung an Bord aufzubewahren.
 - 4. :: Mit der Ausgabe des ersten Bordbuches nach Nummer 1 erstellt die Behörde, welche das erste Bordbuch ausgibt, eine Bescheinigung, welche die Ausgabe mit Schiffsname, einheitlicher europäischer Schiffsnummer (ENI) oder amtlicher Schiffsnummer, laufender Nummer des Bordbuches und Datum der Ausgabe bescheinigt. Diese Bescheinigung ist an Bord mitzuführen und auf Verlangen vorzuweisen. Nachfolgende Ausgaben von Bordbüchern nach Nummer 2 sind von der ausgebenden Behörde auf der Bescheinigung einzutragen.
 - 5. :: Die Einhaltung der Ruhezeiten kann zudem durch einen Fahrtenschreiber nachgewiesen werden, der den technischen Anforderungen der Anlage A3 entspricht. Die Aufzeichnungen der Fahrtenschreiber sind während sechs Monaten nach der letzten Aufzeichnung an Bord aufzubewahren.
@@ -361,7 +361,7 @@ Der Nachweis der Tauglichkeit ist durch Vorlage eines ärztlichen Zeugnisses nac
 
 - <<FnA3-bjnr130030011bjne002100000_3>>[[#FnR.FnA3-bjnr130030011bjne002100000_3][3)]] :: Einer der Leichtmatrosen muss über 18 Jahre alt sein.
 
-- <<FnA4-bjnr130030011bjne002100000_4>>[[#FnR.FnA4-bjnr130030011bjne002100000_4][*)]] :: Im Sinne dieses Paragraphen bezeichnet der Begriff Schubleichter“ auch Motorschiffe ohne eigene in Tätigkeit gesetzte Antriebsmaschine und Schleppkähne. Außerdem gilt folgende Gleichwertigkeit: 1 Schubleichter = mehrere Leichter mit einer Gesamtlänge bis zu 76,50 m und einer Gesamtbreite bis zu 15 m.
+- <<FnA4-bjnr130030011bjne002100000_4>>[[#FnR.FnA4-bjnr130030011bjne002100000_4][*)]] :: Im Sinne dieses Paragraphen bezeichnet der Begriff „Schubleichter“ auch Motorschiffe ohne eigene in Tätigkeit gesetzte Antriebsmaschine und Schleppkähne. Außerdem gilt folgende Gleichwertigkeit: 1 Schubleichter = mehrere Leichter mit einer Gesamtlänge bis zu 76,50 m und einer Gesamtbreite bis zu 15 m.
 
 - 2. :: Die in der Tabelle nach Nummer 1 vorgeschriebenen Matrosen dürfen durch Leichtmatrosen ersetzt werden, die ein Mindestalter von 17 Jahren erreicht haben, sich mindestens im dritten Lehrjahr befinden und ein Jahr Fahrzeit in der Binnenschifffahrt nachweisen können.
 - 3. :: Die in der Tabelle nach Nummer 1 vorgeschriebene Mindestbesatzung
@@ -464,7 +464,7 @@ Die Bestimmungen dieses Kapitels gelten nicht für Sportfahrzeuge. Die Besatzung
 
 § 3.23 - Ausnahme
 
-Für die Fahrt unterhalb der Spyck'schen Fähre (km 857,40) genügen, sofern die deutsch-niederländische Grenze in der einen oder anderen Richtung während der Fahrt nicht überschritten wird, anstelle der Vorschriften dieses Kapitels auch die Vorschriften der niederländischen Binnenvaart wet“ (Staatsblad 2007 Nummer 498).
+Für die Fahrt unterhalb der Spyck'schen Fähre (km 857,40) genügen, sofern die deutsch-niederländische Grenze in der einen oder anderen Richtung während der Fahrt nicht überschritten wird, anstelle der Vorschriften dieses Kapitels auch die Vorschriften der niederländischen „Binnenvaart wet“ (Staatsblad 2007 Nummer 498).
 
 § 4.01 - Verweis auf die Bestimmungen des ADN
 
@@ -800,7 +800,7 @@ Ohne Rücksicht auf die betreffende Patentart sind spezifische Streckenkenntniss
   \\
   Die Patentkarte erhält den Aufdruck:\\
   \\
-  GroKleines Patent“, Sportpatent“ oder Behördenpatent“.
+  „Großes Patent“, „Kleines Patent“, „Sportpatent“ oder „Behördenpatent“.
 - 2. :: Auflagen nach § 7.11 Nr. 1 Satz 3 sind auf der Patentkarte einzutragen.
 - 3. :: Die zuständige Behörde erteilt für den Zeitraum zwischen der bestandenen Prüfung und dem Erhalt der Patentkarte nach dem Muster der Anlage D1 ein vorläufiges Rheinpatent nach dem Muster der Anlage D2; ebenso kann die zuständige Behörde ein vorläufiges Rheinpatent für den Zeitraum zwischen dem Fälligkeitsdatum für die Erneuerung des Patents und dem Erhalt der neuen Rheinpatentkarte ausstellen.
 - 4. :: Im Falle der Erweiterung kann eine zuständige Behörde für den Zeitraum zwischen der bestandenen Prüfung und dem Erhalt der endgültigen Patentkarte ein vorläufiges Patent nach Nummer 3 erteilen. Sie teilt dies der ausstellenden Behörde zur Ausstellung der neuen Rheinpatentkarte nach dem Muster der Anlage D1 mit.
@@ -938,10 +938,10 @@ Wer ein Radarpatent erwerben will, muss
 § 8.05 - Ausstellung des Radarpatentes
 
 - 1. :: Hat der Bewerber die Prüfung bestanden, erteilt ihm die zuständige Behörde das Radarpatent nach dem Muster der Anlage D4.
-- 2. :: Der Besitz des Radarpatentes kann auf der Schifferpatentkarte mit der Aufschrift Radar“ zusätzlich dokumentiert werden.
+- 2. :: Der Besitz des Radarpatentes kann auf der Schifferpatentkarte mit der Aufschrift „Radar“ zusätzlich dokumentiert werden.
 - 3. :: Radarpatente nach § 6.03 Nr. 2 erhalten den Vermerk:\\
   \\
-  nur gültig für die Führung von Fähren zwischen .............................. und ..............................“.
+  „nur gültig für die Führung von Fähren zwischen .............................. und ..............................“.
 - 4. :: Ist ein Radarpatent unbrauchbar geworden, verloren gegangen oder sonst abhanden gekommen, stellt die ausstellende Behörde auf Antrag eine Ersatzausfertigung aus, die als solche zu kennzeichnen ist. Der Inhaber muss gegenüber der zuständigen Behörde den Verlust glaubhaft machen. Ein unbrauchbar gewordenes oder wieder aufgefundenes Patent ist bei der ausstellenden Behörde abzuliefern oder ihr zur Entwertung vorzulegen.
 
 
@@ -1063,7 +1063,7 @@ Beim Einbau von Fahrtenschreibern an Bord sind folgende Bedingungen einzuhalten:
 - 1. :: Der Einbau der Fahrtenschreiber darf nur durch eine Fachfirma erfolgen, die von der zuständigen Behörde anerkannt ist.
 - 2. :: Der Fahrtenschreiber muss im Steuerhaus oder an einer anderen gut zugänglichen Stelle eingebaut sein.
 - 3. :: Es muss optisch erkennbar sein, ob das Gerät in Betrieb ist. Das Gerät muss über einen ausfallsicheren Stromkreis mit eigener Absicherung ständig mit elektrischer Energie versorgt werden und direkt an diese Versorgung angeschlossen sein.
-- 4. :: Die Aussage über die Schiffsbewegung, das heiin Fahrt“ ist oder die Fahrt eingestellt“ hat, wird aus der Bewegung der Antriebsanlage hergeleitet. Das entsprechende Signal muss aus der Drehung der Schraube, der Schraubenwelle oder der Antriebsmaschine hergeleitet werden. Bei andersartigen Antrieben ist eine gleichwertige Lösung zu schaffen.
+- 4. :: Die Aussage über die Schiffsbewegung, das heißt ob das Schiff „in Fahrt“ ist oder die „Fahrt eingestellt“ hat, wird aus der Bewegung der Antriebsanlage hergeleitet. Das entsprechende Signal muss aus der Drehung der Schraube, der Schraubenwelle oder der Antriebsmaschine hergeleitet werden. Bei andersartigen Antrieben ist eine gleichwertige Lösung zu schaffen.
 - 5. :: Die technischen Einrichtungen zur Erfassung der Schiffsbewegung sind äußerst betriebssicher zu installieren und gegen unberechtigte Eingriffe zu sichern. Hierzu ist die Übertragungsleitung (einschließlich des Signalgebers und Geräteeingangs) für die Signale von der Antriebsanlage zum Gerät durch geeignete Maßnahmen zu sichern und die Leitungsunterbrechung zu überwachen. Hierfür geeignet sind z. B. Plomben oder Siegel, die mit besonderen Zeichen versehen sind, sowie sichtbare Leitungsverlegung, Überwachungskreise.
 - 6. :: Die anerkannte Fachfirma, die den Einbau durchgeführt oder überwacht hat, führt nach Fertigstellung der Installation eine Funktionsprüfung durch. Sie stellt über die besonderen Merkmale der Anlage (insbesondere Lage und Art von Plomben oder Siegel sowie deren Zeichen und der Überwachungseinrichtungen) und die ordnungsgemäße Funktion eine Bescheinigung aus, die auch Angaben über das zugelassene Gerät enthalten muss. Nach jeder Erneuerung, Änderung oder Instandsetzung ist eine erneute Überprüfung notwendig, die in der Bescheinigung zu vermerken ist.\\
   \\
@@ -1114,9 +1114,9 @@ Anlage B1 - Mindestanforderungen an die Tauglichkeit
     - a) :: Ishihara nach den Tafeln 12 bis 14,
     - b) :: Stilling/Velhagen,
     - c) :: Boström,
-    - d) :: HRR (Ergebnis mindestens leicht“),
-    - e) :: TMC (Ergebnis mindestens second degree“),
-    - f) :: Holmer-Wright B (Ergebnis höchstens 8 Fehler bei small“).
+    - d) :: HRR (Ergebnis mindestens „leicht“),
+    - e) :: TMC (Ergebnis mindestens „second degree“),
+    - f) :: Holmer-Wright B (Ergebnis höchstens 8 Fehler bei „small“).
   - 6. :: Motilität:\\
     \\
     Keine Doppelbilder. Bei Einäugigkeit: normale Beweglichkeit des funktionstüchtigen Auges.
@@ -1204,46 +1204,46 @@ Anlage D7 - Prüfungsprogramm für den Erwerb eines Patentes für den Rhein
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 102 - 103)
 Vorbemerkung:
-
-
-
+ 
+ 
+ 
 Patentarten (Spalten 4 bis 7)
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 A - Großes Patent
-
-
+ 
+ 
 B - Kleines Patent
-
-
+ 
+ 
 C - Sportpatent
-
-
+ 
+ 
 D - Behördenpatent
-
-
-
+ 
+ 
+ 
 geforderte Kenntnisse (Spalte 3)
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 1 - Detailkenntnisse
-
-
+ 
+ 
 2 - Grundkenntnisse
-
+ 
 
 Anlage D8 - Prüfungsprogramm für den Erwerb eines Radarpatentes
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 104 - 105)
 TEIL A --- Theoretischer Teil
-
-
+ 
+ 
 1.
 Radartheorie
 1.1
@@ -1278,8 +1278,8 @@ Nahauflösung
 Radiale Auflösung
 1.5.11
 Azimutale Auflösung
-
-
+ 
+ 
 2.
 Auswertung des Radarbildes
 2.1
@@ -1296,8 +1296,8 @@ Bedeutung der Hilfen zur Radarbildauswertung (Vorauslinie, Entfernungsmessringe,
 Grenzen der Informationsmöglichkeiten durch Radar
 2.7
 (weggefallen)
-
-
+ 
+ 
 3.
 Radarbildstörungen
 3.1
@@ -1324,8 +1324,8 @@ Abschattungen
 Mehrwegausbreitung
 3.3
 Erscheinungsbild der von anderen Radaranlagen ausgehenden Störungen sowie Maßnahmen zu deren Beseitigung
-
-
+ 
+ 
 4.
 Bedienung des Radargerätes
 4.1
@@ -1340,16 +1340,16 @@ Einstellung der Verstärkung
 Einstellung der Dämpfungen und Filter
 4.6
 Beurteilung der Bildqualität
-
-
+ 
+ 
 5.
 Wendegeschwindigkeitsanzeiger
 5.1
 Wirkungsweise
 5.2
 Anwendungsmöglichkeiten
-
-
+ 
+ 
 6.
 Besondere polizeiliche Vorschriften
 6.1
@@ -1358,13 +1358,13 @@ Verwendung von Funk, Schallzeichen, Kursabsprachen
 Materielle Mindestausstattung des Schiffes für die Radarfahrt
 6.3
 Personelle Mindestausstattung und Fähigkeiten für die Radarfahrt
-
-
-
-
+ 
+ 
+ 
+ 
 TEIL B --- Praktischer Teil
-
-
+ 
+ 
 1.
 Maßnahmen vor der Abfahrt
 1.1
@@ -1373,8 +1373,8 @@ Einschalten, Einstellen und Funktionskontrolle der Geräte
 Interpretation des Radarbildes
 1.3
 Aufgabenverteilung an Bord
-
-
+ 
+ 
 2.
 Fahren mit Radar
 2.1

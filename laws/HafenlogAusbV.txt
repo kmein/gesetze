@@ -202,12 +202,12 @@ Logistische Prozesse; qualitätssichernde Maßnahmen\\
 
 6
 
-
+ 
 
 - e) :: Abweichungen in logistischen Prozessen feststellen und Maßnahmen durchführen und veranlassen
 - f) :: qualitätssichernde Maßnahmen im eigenen Bereich anwenden, dabei zur kontinuierlichen Verbesserung von Arbeitsabläufen beitragen
 
-
+ 
 
 8
 
@@ -227,12 +227,12 @@ Arbeitsorganisation; Information und Kommunikation\\
 
 8
 
-
+ 
 
 - i) :: fremdsprachige Formulare bearbeiten, fremdsprachlich kommunizieren
 - j) :: Auswirkungen von Informationen, Kommunikation, Kooperation sowie des eigenen Verhaltens auf Betriebsklima, Arbeitsleistung und Geschäftserfolg beachten
 
-
+ 
 
 6
 
@@ -247,12 +247,12 @@ Güterkontrolle und werterhaltende Maßnahmen\\
 
 12
 
-
+ 
 
 - d) :: Maßnahmen zur Mängel- und Schadensbeseitigung veranlassen und durchführen
 - e) :: Maßnahmen zur Qualitäts- und Werterhaltung durchführen
 
-
+ 
 
 8
 
@@ -268,12 +268,12 @@ Lagerung und Bearbeitung von Gütern\\
 
 12
 
-
+ 
 
 - e) :: rechtliche Bedeutung von Lagerdokumenten, insbesondere bei der Ein- und Auslagerung, beachten
 - f) :: Kundenaufträge zur Güterbearbeitung durchführen
 
-
+ 
 
 8
 
@@ -288,13 +288,13 @@ Ladungsplanung, Umschlag von Gütern\\
 
 12
 
-
+ 
 
 - d) :: Stau- und Beladepläne erstellen, insbesondere unter Berücksichtigung von Gütereigenschaften, Gewichtsverteilung und Tragfähigkeit sowie von Ladevorschriften
 - e) :: Güter entsprechend den Plänen und den rechtlichen Bestimmungen umschlagen
 - f) :: Ladungssicherungsmittel auswählen, Ladung sichern, Verschlussvorschriften anwenden
 
-
+ 
 
 12
 
@@ -310,14 +310,14 @@ Container\\
 
 16
 
-
+ 
 
 - e) :: Ladungssicherungs- und Arbeitsmittel für die Containerbeladung festlegen, bereitstellen und einsetzen
 - f) :: Container siegeln
 - g) :: Arbeitsabläufe und Zuständigkeiten auf Containerterminals berücksichtigen
 - h) :: Containerstaupläne anwenden
 
-
+ 
 
 12
 
@@ -332,14 +332,14 @@ Umschlags- und Versandpapiere\\
 
 12
 
-
+ 
 
 - d) :: Aufgaben der Zollverwaltung darstellen, Verfahren der Zollverwaltung unterscheiden, insbesondere Versand- und Zolllagerverfahren
 - e) :: Anlieferungs-, Auslieferungs- und Begleitpapiere unter Berücksichtigung von Zoll- und Gefahrgutvorschriften auf Richtigkeit und Vollständigkeit prüfen
 - f) :: Listen, insbesondere Lade- und Containerlisten sowie Listen über spezielle Güter, erstellen
 - g) :: Versand- und Begleitpapiere bearbeiten; außenwirtschaftliche Vorschriften beachten
 
-
+ 
 
 12
 
@@ -355,6 +355,6 @@ Umgang mit Gefahrgut\\
 - e) :: Gefahrgut verladen und sichern; Packstücke kennzeichnen, Beförderungsmittel plakatieren
 - f) :: rechtliche Bestimmungen für den Transport von Gefahrgut anwenden
 
-
+ 
 
 12

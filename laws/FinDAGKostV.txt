@@ -75,31 +75,31 @@ Gliederung
 
 Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Kreditwesengesetzes (KWG), Zahlungskontengesetzes (ZKG), der Solvabilitätsverordnung (SolvV), der Liquiditätsverordnung (LiqV), der Großkredit- und Millionenkreditverordnung (GroMiKV), der Verordnung (EU) Nr. 575/2013 und der Verordnung (EU) Nr. 1024/2013
 
-
+ 
 
 1.1
 
 Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Kreditwesengesetzes (KWG)
 
-
+ 
 
 1.2
 
 Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Zahlungskontengesetzes (ZKG)
 
-
+ 
 
 1.3
 
 Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Solvabilitätsverordnung (SolvV), der Liquiditätsverordnung (LiqV) und der Großkredit- und Millionenkreditverordnung (GroMiKV)
 
-
+ 
 
 1.4
 
 Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) Nr. 575/2013
 
-
+ 
 
 1.5
 
@@ -113,13 +113,13 @@ Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Pfandbrie
 
 Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Gesetzes über Bausparkassen und der Bausparkassen-Verordnung
 
-
+ 
 
 3.1
 
 Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Gesetzes über Bausparkassen
 
-
+ 
 
 3.2
 
@@ -129,25 +129,25 @@ Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Bausparka
 
 Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Kapitalanlagegesetzbuchs (KAGB), der Derivateverordnung (DerivateV), der Verordnung (EU) Nr. 345/2013 und der Verordnung (EU) Nr. 346/2013
 
-
+ 
 
 4.1
 
 Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Kapitalanlagegesetzbuches (KAGB)
 
-
+ 
 
 4.2
 
 Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Derivateverordnung (DerivateV)
 
-
+ 
 
 4.3
 
 Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) Nr. 345/2013
 
-
+ 
 
 4.4
 
@@ -226,13 +226,13 @@ Gebühr in Euro
 
 Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Kreditwesengesetzes (KWG), des Zahlungskontengesetzes (ZKG), der Solvabilitätsverordnung (SolvV), der Liquiditätsverordnung (LiqV), der Großkredit- und Millionenkreditverordnung (GroMikV), der Verordnung (EU) Nr. 575/2013<<FnR.F787860_01>>[[#F787860_01][1]]} und der Verordnung (EU) Nr. 1024/2013<<FnR.F787860_02>>[[#F787860_02][2]]}
 
-
+ 
 
 1.1
 
 Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Kreditwesengesetzes (KWG)
 
-
+ 
 
 1.1.1
 
@@ -244,7 +244,7 @@ Freistellung eines Instituts nach § 2 Absatz 4 Satz 1 oder Absatz 5 KWG
 
 Freistellungen nach § 2a KWG
 
-
+ 
 
 1.1.2.1
 
@@ -281,7 +281,7 @@ Erlass einer Anordnung nach § 2a Absatz 6 Satz 3 KWG
 Individuell zurechenbare öffentliche Leistungen in Bezug auf den Erwerb bedeutender Beteiligungen und die Leitungsorgane von Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften\\
 (§ 2c KWG; § 2d KWG)
 
-
+ 
 
 1.1.3.1
 
@@ -302,7 +302,7 @@ Anordnung, dass über die Anteile nur mit Zustimmung der Bundesanstalt verfügt 
 
 (weggefallen)
 
-
+ 
 
 1.1.3.4
 
@@ -316,13 +316,13 @@ Beauftragung des Treuhänders mit der Veräußerung der Anteile, soweit sie eine
 Maßnahmen gegen Personen im Sinne des § 2d Abs. 1 KWG\\
 (§ 2d Abs. 2 KWG)
 
-
+ 
 
 1.1.3.5.1
 
 Verlangen auf Abberufung
 
-
+ 
 
 1.1.3.5.1.1
 
@@ -340,7 +340,7 @@ von Personen, die die Geschäfte einer gemischten Finanzholding-Gesellschaft tat
 
 Untersagung der Ausübung der Tätigkeit
 
-
+ 
 
 1.1.3.5.2.1
 
@@ -359,25 +359,25 @@ von Personen, die die Geschäfte einer gemischten Finanzholding-Gesellschaft tat
 Ermittlung und Festsetzung der Eigenmittel\\
 (§ 10 KWG)
 
-
+ 
 
 1.1.4.1
 
 (weggefallen)
 
-
+ 
 
 1.1.4.1.1
 
 (weggefallen)
 
-
+ 
 
 1.1.4.1.2
 
 (weggefallen)
 
-
+ 
 
 1.1.4.2
 
@@ -396,13 +396,13 @@ Anordnung von zusätzlichen Eigenmittelanforderungen nach § 10 Absatz 3 Satz 1,
 
 (weggefallen)
 
-
+ 
 
 1.1.5
 
 Individuell zurechenbare öffentliche Leistungen in Bezug auf Institutsgruppen und Finanzholding-Gruppen sowie gemischte Finanzholding-Gesellschaften
 
-
+ 
 
 1.1.5.1
 
@@ -423,13 +423,13 @@ Zustimmung zur weiteren Nutzung des Verfahrens nach § 10a Absatz 4 KWG zur Ermi
 
 Individuell zurechenbare öffentliche Leistungen in Bezug auf Kapitalpuffer und Liquiditätsanforderungen
 
-
+ 
 
 1.1.6.1
 
 Individuell zurechenbare öffentliche Leistungen in Bezug auf Kapitalpuffer nach den §§ 10c bis 10g KWG
 
-
+ 
 
 1.1.6.1.1
 
@@ -459,7 +459,7 @@ Genehmigung eines Kapitalerhaltungsplanes nach § 10i Absatz 7 Satz 1 KWG
 
 Individuell zurechenbare öffentliche Leistungen nach § 10i Absatz 8 KWG
 
-
+ 
 
 1.1.6.1.5.1
 
@@ -483,7 +483,7 @@ Anordnung nach § 10i Absatz 8 Satz 2 KWG
 
 Individuell zurechenbare öffentliche Leistungen in Bezug auf Liquidität nach § 11 KWG
 
-
+ 
 
 1.1.6.2.1
 
@@ -508,7 +508,7 @@ Untersagung der Fortführung einer Beteiligung oder Unternehmensbeziehung\\
 
 Entscheidung durch Verwaltungsakt nach § 4 KWG
 
-
+ 
 
 1.1.8.1
 
@@ -526,7 +526,7 @@ Ablehnung eines Antrags auf Erlass eines Feststellungsbescheids nach § 4 Satz 1
 
 Individuell zurechenbare öffentliche Leistungen in Bezug auf Organkredite
 
-
+ 
 
 1.1.9.1
 
@@ -553,7 +553,7 @@ Anordnung der Rückführung auf die angeordneten Obergrenzen\\
 
 Individuell zurechenbare öffentliche Leistungen in Bezug auf organisatorische Anforderungen
 
-
+ 
 
 1.1.10.1
 
@@ -581,7 +581,7 @@ Anordnung von Maßnahmen zur Beseitigung von Mängeln hinsichtlich Strategien, P
 Individuell zurechenbare öffentliche Leistungen in Bezug auf das E-Geld-Geschäft\\
 (§ 25i KWG, auch in Verbindung mit § 10 Absatz 7 GwG)
 
-
+ 
 
 1.1.10.4.1
 
@@ -593,7 +593,7 @@ Maßnahmen nach § 25i Absatz 4 KWG
 
 (weggefallen)
 
-
+ 
 
 1.1.11
 
@@ -607,7 +607,7 @@ Anordnung zur Offenlegung durch die Institute\\
 Befreiungen\\
 (§§ 8c und 31 KWG)
 
-
+ 
 
 1.1.12.1
 
@@ -634,13 +634,13 @@ Befreiung von den Verpflichtungen nach § 29 Absatz 2 Satz 2 KWG im Hinblick auf
 
 (weggefallen)
 
-
+ 
 
 1.1.12.3.2
 
 (weggefallen)
 
-
+ 
 
 1.1.12.4
 
@@ -660,32 +660,32 @@ Befreiung von den Verpflichtungen nach § 25a Absatz 1 Satz 3 Nummer 3 Buchstabe
 
 (weggefallen)
 
-
+ 
 
 1.1.12.7
 
 (weggefallen)
 
-
+ 
 
 1.1.12.8
 
 (weggefallen)
 
-
+ 
 
 1.1.13
 
 Erlaubnis zur Erbringung von Finanzdienstleistungen, zum Betreiben von Bankgeschäften und zur Tätigkeit als Datenbereitstellungsdienst\\
 (§ 32 Absatz 1 Satz 1 KWG, auch in Verbindung mit § 53 KWG; § 32 Absatz 1a Satz 2 in Verbindung mit Satz 1 KWG; § 32 Absatz 1f Satz 1 KWG)
 
-
+ 
 
 1.1.13.1
 
 Erlaubnis zur Erbringung von Finanzdienstleistungen
 
-
+ 
 
 1.1.13.1.1
 
@@ -699,7 +699,7 @@ Erteilung der Erlaubnis zur Erbringung von Finanzdienstleistungen im Sinne von �
 Einzelne, mehrere oder sämtliche Finanzdienstleistungen im Sinne von § 1 Absatz 1a Satz 2 Nummer 1 bis 5, 7 und 9 bis 11 KWG, sofern nicht Nummer 1.1.13.1.1 anwendbar ist\\
 Erteilung einer Erlaubnis zur Erbringung von einzelnen, mehreren oder sämtlichen Finanzdienstleistungen im Hinblick auf
 
-
+ 
 
 1.1.13.1.2.1
 
@@ -725,7 +725,7 @@ Erteilung der Erlaubnis zum ausschließlichen Betreiben des Eigengeschäftes nac
 
 Erlaubnis zum Betreiben von Bankgeschäften
 
-
+ 
 
 1.1.13.2.1
 
@@ -755,7 +755,7 @@ zuzüglich\\
 
 Erlaubnis zur Tätigkeit als Datenbereitstellungsdienst
 
-
+ 
 
 1.1.13.4.1
 
@@ -774,7 +774,7 @@ Feststellung nach § 32 Absatz 1f Satz 4 KWG
 Erlaubniserweiterung\\
 Nachträgliche Erweiterung des Umfangs einer bestehenden Erlaubnis
 
-
+ 
 
 1.1.13.5.1
 
@@ -804,7 +804,7 @@ Erweiterung einer Erlaubnis um die Tätigkeit als Datenbereitstellungsdienst
 
 Erlaubnis zur Erbringung von Finanzdienstleistungen, zum Betreiben von Bankgeschäften und zur Tätigkeit als Datenbereitstellungsdienst sowie Erlaubniserweiterung für eine Personenhandelsgesellschaft
 
-
+ 
 
 1.1.13.6.1
 
@@ -833,7 +833,7 @@ Nummer 1.1.13
 Maßnahmen gegen Geschäftsleiter und Mitglieder des Verwaltungs- oder Aufsichtsorgans\\
 (§ 36 Absatz 1 Satz 1, Absatz 2 und 3 Satz 1 KWG)
 
-
+ 
 
 1.1.15.1
 
@@ -851,7 +851,7 @@ Untersagung der Ausübung ihrer Tätigkeit
 
 Einschreiten gegen ungesetzliche Geschäfte
 
-
+ 
 
 1.1.16.1
 
@@ -861,7 +861,7 @@ Bestellung eines Abwicklers\\
 (§ 37 Absatz 1 Satz 1 und 2 KWG)\\
 im Hinblick auf
 
-
+ 
 
 1.1.16.1.1
 
@@ -873,7 +873,7 @@ Bankgeschäfte oder Finanzdienstleistungen, sofern nicht Nummer 1.1.16.1.3 anwen
 
 (weggefallen)
 
-
+ 
 
 1.1.16.1.3
 
@@ -890,7 +890,7 @@ ein Abwickler bestellt wird\\
 (§ 37 Absatz 1 Satz 1 und 2 KWG)\\
 im Hinblick auf
 
-
+ 
 
 1.1.16.2.1
 
@@ -933,7 +933,7 @@ Nummer 1.1.16.2
 
 Maßnahmen nach Aufhebung und Erlöschen der Erlaubnis
 
-
+ 
 
 1.1.17.1
 
@@ -942,7 +942,7 @@ Bestellung eines Abwicklers\\
 (§ 38 Absatz 1 Satz 1 und 2 KWG; § 38 Absatz 2 Satz 1 und 3 KWG)\\
 im Hinblick auf
 
-
+ 
 
 1.1.17.1.1
 
@@ -971,7 +971,7 @@ ein Abwickler bestellt wird\\
 (§ 38 Absatz 1 Satz 1 und 2 KWG; § 38 Absatz 2 Satz 1 und 3 KWG)\\
 im Hinblick auf
 
-
+ 
 
 1.1.17.2.1
 
@@ -995,7 +995,7 @@ das Sortengeschäft
 
 Maßnahmen zur Verbesserung der Eigenkapitalausstattung und der Liquidität
 
-
+ 
 
 1.1.18.1
 
@@ -1022,7 +1022,7 @@ je Tatbestand
 
 (weggefallen)
 
-
+ 
 
 1.1.18.5
 
@@ -1034,13 +1034,13 @@ Maßnahmen nach § 45 Absatz 5 KWG
 
 Maßnahmen in besonderen Fällen
 
-
+ 
 
 1.1.19.1
 
 Maßnahmen gegenüber Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften
 
-
+ 
 
 1.1.19.1.1
 
@@ -1059,13 +1059,13 @@ Anordnung nach § 45a Abs. 1a KWG
 
 Maßnahmen bei organisatorischen Mängeln
 
-
+ 
 
 1.1.19.2.1
 
 (weggefallen)
 
-
+ 
 
 1.1.19.2.2
 
@@ -1104,7 +1104,7 @@ Anordnung, erhöhte Eigenmittelanforderungen einzuhalten (§ 45b Abs. 1 Satz 2, 
 
 Maßnahmen bei Gefahr
 
-
+ 
 
 1.1.19.3.1
 
@@ -1165,55 +1165,55 @@ Anordnung der Erstattung von Zahlungen nach § 46 Absatz 2 Satz 4 KWG
 
 Maßnahmen im Zusammenhang mit Abwicklungsplänen
 
-
+ 
 
 1.1.20.1
 
 (weggefallen)
 
-
+ 
 
 1.1.20.2
 
 (weggefallen)
 
-
+ 
 
 1.1.20.3
 
 (weggefallen)
 
-
+ 
 
 1.1.20.4
 
 (weggefallen)
 
-
+ 
 
 1.1.20.5
 
 (weggefallen)
 
-
+ 
 
 1.1.20.6
 
 (weggefallen)
 
-
+ 
 
 1.1.20.7
 
 (weggefallen)
 
-
+ 
 
 1.1.20.8
 
 (weggefallen)
 
-
+ 
 
 1.1.20.9
 
@@ -1231,7 +1231,7 @@ Anordnungen zur Sicherstellung der ordnungsgemäßen Geschäftsorganisation nach
 
 Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Zahlungskontengesetzes (ZKG)
 
-
+ 
 
 1.2.1
 
@@ -1250,19 +1250,19 @@ gebührenfrei
 
 Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Solvabilitätsverordnung (SolvV), der Liquiditätsverordnung (LiqV) und der Großkredit- und Millionenkreditverordnung (GroMiKV)
 
-
+ 
 
 1.3.1
 
 Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Solvabilitätsverordnung (SolvV)
 
-
+ 
 
 1.3.1.1
 
 Verwendung interner Risikomessverfahren
 
-
+ 
 
 1.3.1.1.1
 
@@ -1287,19 +1287,19 @@ Erteilung der Erlaubnis, die Eigenmittelanforderungen für eine oder mehrere Ris
 
 (weggefallen)
 
-
+ 
 
 1.3.1.2.1
 
 (weggefallen)
 
-
+ 
 
 1.3.1.2.2
 
 (weggefallen)
 
-
+ 
 
 1.3.1.3
 
@@ -1312,49 +1312,49 @@ Zustimmung zur beantragten Ermittlung der Eigenmittelanforderungen nach Artikel 
 
 (weggefallen)
 
-
+ 
 
 1.3.1.3.2
 
 (weggefallen)
 
-
+ 
 
 1.3.1.3.3
 
 (weggefallen)
 
-
+ 
 
 1.3.1.4
 
 (weggefallen)
 
-
+ 
 
 1.3.1.5
 
 (weggefallen)
 
-
+ 
 
 1.3.1.6
 
 (weggefallen)
 
-
+ 
 
 1.3.1.7
 
 (weggefallen)
 
-
+ 
 
 1.3.2
 
 Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Liquiditätsverordnung (LiqV)
 
-
+ 
 
 1.3.2.1
 
@@ -1374,7 +1374,7 @@ Zustimmung zu einem beantragten Wechsel zum Verfahren nach den §§ 2 bis 8 LiqV
 
 Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) Nr. 575/2013
 
-
+ 
 
 1.4.1
 
@@ -1391,13 +1391,13 @@ Verzicht auf die Einbeziehung einzelner Institute, Finanzinstitute oder Anbieter
 
 (Artikel 19 Absatz 2 der Verordnung (EU) Nr. 575/2013)
 
-
+ 
 
 1.4.3
 
 Erteilung der Erlaubnis
 
-
+ 
 
 1.4.3.1
 
@@ -1460,7 +1460,7 @@ je Tatbestand
 
 Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) Nr. 1024/2013
 
-
+ 
 
 1.5.1
 
@@ -1489,19 +1489,19 @@ Vorlage eines Beschlussentwurfs in Bezug auf die Untersagung des beabsichtigten 
 
 Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Pfandbriefgesetzes (PfandBG)
 
-
+ 
 
 2.1
 
 (weggefallen)
 
-
+ 
 
 2.2
 
 Treuhänder und Stellvertreter (§ 7 Abs. 3 Satz 1 PfandBG)
 
-
+ 
 
 2.2.1
 
@@ -1519,7 +1519,7 @@ Verlängerung der Bestellung
 
 (weggefallen)
 
-
+ 
 
 2.4
 
@@ -1575,13 +1575,13 @@ Erhebung der Gebühr anteilig aus den betroffenen Deckungsmassen, wobei das Verh
 
 Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Gesetzes über Bausparkassen und der Bausparkassen-Verordnung
 
-
+ 
 
 3.1
 
 Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Gesetzes über Bausparkassen
 
-
+ 
 
 3.1.1
 
@@ -1592,7 +1592,7 @@ Genehmigung zur Gewährung von Darlehen nach § 4 Absatz 1 Nummer 1 und 2 des Ge
 
 3.1.2
 
-Genehmigung zur Verwendung des Fonds zur bauspartechnischen Absicherung“ zur Beseitigung eines bausparspezifischen Risikos\\
+Genehmigung zur Verwendung des „Fonds zur bauspartechnischen Absicherung“ zur Beseitigung eines bausparspezifischen Risikos\\
 (§ 6 Absatz 2 Satz 4 des Gesetzes über Bausparkassen)
 
 2 495
@@ -1623,7 +1623,7 @@ Entscheidung über die Beleihung von Pfandobjekten\\
 Genehmigung von Änderungen und Ergänzungen der Allgemeinen Geschäftsgrundsätze und der Allgemeinen Bedingungen für Bausparverträge, welche die in § 5 Absatz 2 und 3 Nummer 1, 2, 4 bis 9 aufgeführten Bestimmungen des Gesetzes über Bausparkassen betreffen\\
 (§ 9 Absatz 1 Satz 1 des Gesetzes über Bausparkassen)
 
-
+ 
 
 3.1.6.1
 
@@ -1694,26 +1694,26 @@ Genehmigung von Ausnahmen von der Laufzeitbeschränkung des § 5 Absatz 2 Satz 1
 
 Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Kapitalanlagegesetzbuches (KAGB) und der Derivateverordnung (DerivateV)
 
-
+ 
 
 4.1
 
 Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Kapitalanlagegesetzbuches (KAGB)
 
-
+ 
 
 4.1.1.1
 
 Entscheidung durch Verwaltungsakt nach § 5 Absatz 3 KAGB
 
-
+ 
 
 4.1.1.1.1
 
 Feststellung, ob ein Unternehmen den Vorschriften des KAGB unterliegt oder ob ein Investmentvermögen im Sinne des § 1 Absatz 1 KAGB vorliegt\\
 (§ 5 Absatz 3 Satz 1 KAGB)
 
-
+ 
 
 4.1.1.1.1.1
 
@@ -1748,7 +1748,7 @@ bis\\
 
 Einschreiten gegen unerlaubte Investmentgeschäfte
 
-
+ 
 
 4.1.1.3.1
 
@@ -1797,13 +1797,13 @@ für eine einzelne oder zwei oder alle drei der aufgezählten Maßnahmen\\
 
 Individuell zurechenbare öffentliche Leistungen in Bezug auf Verwaltungsgesellschaften
 
-
+ 
 
 4.1.2.1
 
 Individuell zurechenbare öffentliche Leistungen in Bezug auf den Erwerb bedeutender Beteiligungen
 
-
+ 
 
 4.1.2.1.1
 
@@ -1833,7 +1833,7 @@ Beauftragung des Treuhänders mit der Veräußerung der Anteile, soweit sie eine
 
 Individuell zurechenbare öffentliche Leistungen in Bezug auf die Erlaubnis zum Geschäftsbetrieb oder die Registrierung
 
-
+ 
 
 4.1.2.2.1
 
@@ -1868,7 +1868,7 @@ Registrierung einer AIF-Kapitalverwaltungsgesellschaft\\
 
 Individuell zurechenbare öffentliche Leistungen in Bezug auf organisatorische Anforderungen
 
-
+ 
 
 4.1.2.3.1
 
@@ -1908,7 +1908,7 @@ Tatbestand
 
 Maßnahmen nach Erlöschen der Erlaubnis
 
-
+ 
 
 4.1.2.6.1
 
@@ -1949,7 +1949,7 @@ Befreiung von der jährlichen Prüfung der Einhaltung der Vorschriften des Wertp
 
 Individuell zurechenbare öffentliche Leistungen in Bezug auf die Verwahrstelle und den Treuhänder
 
-
+ 
 
 4.1.3.1
 
@@ -1959,7 +1959,7 @@ Genehmigung der Auswahl der Verwahrstelle, Genehmigung oder Anordnung des Wechse
 § 80 Absatz 4 KAGB;\\
 § 100b Absatz 4 KAGB)
 
-
+ 
 
 4.1.3.1.1
 
@@ -1984,19 +1984,19 @@ Genehmigung der Errichtung eines Sperrkontos bis zum Zeitpunkt der Beauftragung 
 
 Individuell zurechenbare öffentliche Leistungen in Bezug auf offene inländische Investmentvermögen
 
-
+ 
 
 4.1.4.1
 
 Sondervermögen
 
-
+ 
 
 4.1.4.1.1
 
 Anlagebedingungen
 
-
+ 
 
 4.1.4.1.1.1
 
@@ -2028,7 +2028,7 @@ Genehmigung der Übertragung der Verwaltung eines Sondervermögens oder eines Ge
 
 Investmentaktiengesellschaften mit veränderlichem Kapital
 
-
+ 
 
 4.1.4.2.1
 
@@ -2048,13 +2048,13 @@ Erteilung der Erlaubnis zum Geschäftsbetrieb einer extern verwalteten OGAW-Inve
 
 Individuell zurechenbare öffentliche Leistungen in Bezug auf Publikumsinvestmentvermögen
 
-
+ 
 
 4.1.5.1
 
 Anlagebedingungen
 
-
+ 
 
 4.1.5.1.1
 
@@ -2082,7 +2082,7 @@ Genehmigung der Änderung von Anlagebedingungen\\
 
 Genehmigung von Master-Feeder-Strukturen
 
-
+ 
 
 4.1.5.2.1
 
@@ -2140,7 +2140,7 @@ Tatbestand
 
 Individuell zurechenbare öffentliche Leistungen in Bezug auf offene oder geschlossene inländische Publikums-AIF sowie auf offene inländische Spezial-AIF
 
-
+ 
 
 4.1.6.1
 
@@ -2162,13 +2162,13 @@ Ausstellen einer Bescheinigung über die Bestellung einer Verwahrstelle\\
 
 Individuell zurechenbare öffentliche Leistungen in Bezug auf die Anzeige und die Untersagung des Vertriebs von Investmentvermögen
 
-
+ 
 
 4.1.7.1
 
 Individuell zurechenbare öffentliche Leistungen in Bezug auf die Anzeige und die Untersagung des Vertriebs von OGAW
 
-
+ 
 
 4.1.7.1.1
 
@@ -2219,7 +2219,7 @@ bei Umbrella-Konstruktionen je Teilinvestmentvermögen gesondert
 
 Individuell zurechenbare öffentliche Leistungen in Bezug auf die Anzeige und die Untersagung des Vertriebs von AIF
 
-
+ 
 
 4.1.7.2.1
 
@@ -2326,7 +2326,7 @@ bei Umbrella-Konstruktionen je Teilinvestmentvermögen gesondert
 
 Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Derivateverordnung (DerivateV)
 
-
+ 
 
 4.2.1
 
@@ -2345,7 +2345,7 @@ Bestätigung der Geeignetheit von Risikomodellen\\
 
 Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) Nr. 345/2013<<FnR.F1_782422>>[[#F1_782422][1]]}
 
-
+ 
 
 4.3.1
 
@@ -2369,7 +2369,7 @@ Untersagung des Vertriebs nach Artikel 18 Absatz 3 der Verordnung (EU) Nr. 345/2
 
 Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) Nr. 346/2013<<FnR.F2_782422>>[[#F2_782422][2]]}
 
-
+ 
 
 4.4.1
 
@@ -2393,7 +2393,7 @@ Untersagung des Vertriebs nach Artikel 19 Absatz 3 der Verordnung (EU) Nr. 346/2
 
 Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Wertpapierhandelsgesetzes (WpHG)
 
-
+ 
 
 5.1
 
@@ -2405,7 +2405,7 @@ Maßnahmen nach § 15 Absatz 1 WpHG
 
 Befreiung von der jährlichen Prüfung
 
-
+ 
 
 5.2.1
 
@@ -2446,7 +2446,7 @@ Erlaubnis für ausländische Märkte oder ihre Betreiber, die Handelsteilnehmern
 
 Bekanntmachung von Fehlern bei der Rechnungslegung nach § 109 Absatz 2 WpHG
 
-
+ 
 
 5.6.1
 
@@ -2479,19 +2479,19 @@ bis\\
 
 Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Versicherungsaufsichtsgesetzes (VAG)
 
-
+ 
 
 6.1
 
 Feststellung der Aufsichtspflicht und Freistellung von der Aufsicht
 
-
+ 
 
 6.1.1
 
 Entscheidung durch Verwaltungsakt nach § 4 VAG
 
-
+ 
 
 6.1.1.1
 
@@ -2525,7 +2525,7 @@ Erteilung der Ersterlaubnis zum Geschäftsbetrieb\\
 
 Änderungen des Geschäftsplans sowie Geschäftsbetriebserweiterungen
 
-
+ 
 
 6.3.1
 
@@ -2589,7 +2589,7 @@ Genehmigung der räumlichen Ausdehnung des Geschäftsbetriebs im Dienstleistungs
 
 Genehmigung von Bestandsübertragungen und Umwandlungen
 
-
+ 
 
 6.4.1
 
@@ -2623,7 +2623,7 @@ Genehmigung einer Umwandlung\\
 Individuell zurechenbare öffentliche Leistungen in Bezug auf den Erwerb bedeutender Beteiligungen\\
 (§§ 16 bis 22 VAG)
 
-
+ 
 
 6.5.1
 
@@ -2651,7 +2651,7 @@ Beauftragung des Treuhänders mit der Veräußerung der Anteile, soweit die Ante
 
 Individuell zurechenbare öffentliche Leistungen in Bezug auf Matching-Anpassung, Volatilitätsanpassung, Eigenmittel, interne Modelle
 
-
+ 
 
 6.6.1
 
@@ -2732,7 +2732,7 @@ Festsetzung des Anrechnungswertes belasteter Grundstücke und grundstücksgleich
 
 Prüfung der Qualifikation von Treuhändern und Verantwortlichen Aktuaren im Rahmen der laufenden Aufsicht
 
-
+ 
 
 6.8.1
 
@@ -2762,7 +2762,7 @@ Prüfung eines Treuhänders\\
 
 Individuell zurechenbare öffentliche Leistungen in Bezug auf Pensionskassen und Pensionsfonds
 
-
+ 
 
 6.9.1
 
@@ -2809,7 +2809,7 @@ Genehmigung eines zwischen Arbeitgeber und Pensionsfonds vereinbarten Bedeckungs
 
 Individuell zurechenbare öffentliche Leistungen in Bezug auf Gruppen
 
-
+ 
 
 6.10.1
 
@@ -2843,7 +2843,7 @@ Genehmigung von gruppenspezifischen Parametern\\
 
 Genehmigung eines internen Modells zur Berechnung
 
-
+ 
 
 6.10.5.1
 
@@ -2871,7 +2871,7 @@ der konsolidierten Gruppensolvabilitätskapitalanforderung\\
 
 Genehmigung der Änderung eines internen Modells zur Berechnung
 
-
+ 
 
 6.10.6.1
 
@@ -2914,7 +2914,7 @@ Verlangen auf Abberufung und Untersagung ihrer Tätigkeit\\
 
 Einschreiten gegen unerlaubte Versicherungsgeschäfte
 
-
+ 
 
 6.12.1
 
@@ -2962,7 +2962,7 @@ nach Nummer 6.12.2
 
 Übergangsmaßnahmen bei risikofreien Zinssätzen und versicherungstechnischen Rückstellungen
 
-
+ 
 
 6.13.1
 
@@ -2982,13 +2982,13 @@ Genehmigung der Anwendung der Übergangsmaßnahme bei versicherungstechnischen R
 
 Individuell zurechenbare öffentliche Leistungen auf der Grundlage des § 355 des Versicherungsaufsichtsgesetzes (VAG) vom 1. April 2015 (BGBl. I S. 434)
 
-
+ 
 
 6.14.1
 
 Genehmigung ergänzender Eigenmittel
 
-
+ 
 
 6.14.1.1
 
@@ -3030,7 +3030,7 @@ Genehmigung von internen Voll- oder Partialmodellen\\
 Genehmigung eines internen Modells zur Berechnung\\
 (§ 355 Absatz 1 Nummer 6 VAG)
 
-
+ 
 
 6.14.5.1
 
@@ -3082,7 +3082,7 @@ Genehmigung der Anwendung der Übergangsmaßnahme bei versicherungstechnischen R
 
 Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Geldwäschegesetzes (GwG)
 
-
+ 
 
 7.1
 
@@ -3114,7 +3114,7 @@ Anordnung der Bestellung eines Geldwäschebeauftragten\\
 
 Maßnahmen und Anordnungen nach § 51 Absatz 2 oder 5 GwG
 
-
+ 
 
 7.5.1
 
@@ -3132,32 +3132,32 @@ Untersagung der Ausübung des Geschäfts oder des Berufs nach § 51 Absatz 5 GwG
 
 (weggefallen)
 
-
+ 
 
 9.
 
 Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Zahlungsdiensteaufsichtsgesetzes (ZAG) und der Zahlungsinstituts-Eigenkapitalverordnung (ZIEV)
 
-
+ 
 
 9.1
 
 Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Zahlungsdiensteaufsichtsgesetzes (ZAG)
 
-
+ 
 
 9.1.1
 
 Entscheidung durch Verwaltungsakt nach § 4 Absatz 4 ZAG
 
-
+ 
 
 9.1.1.1
 
 Feststellung, dass ein Unternehmen den Vorschriften des ZAG unterliegt\\
 (§ 4 Absatz 4 Satz 1 ZAG)
 
-
+ 
 
 9.1.1.1.1
 
@@ -3181,7 +3181,7 @@ Ablehnung eines Antrags auf Erlass eines Feststellungsbescheids nach § 4 Absatz
 
 Einschreiten gegen unerlaubte Zahlungsdienste und unerlaubtes E-Geld-Geschäft
 
-
+ 
 
 9.1.2.1
 
@@ -3233,14 +3233,14 @@ für eine einzelne oder zwei oder alle drei der aufgezählten Maßnahmen\\
 
 Erteilung der Erlaubnis zur Erbringung von Zahlungsdiensten und zum Betreiben des E-Geld-Geschäfts
 
-
+ 
 
 9.1.3.1
 
 Erteilung der Erlaubnis zur Erbringung von Zahlungsdiensten\\
 (§ 10 ZAG)
 
-
+ 
 
 9.1.3.1.1
 
@@ -3266,7 +3266,7 @@ Erteilung der Erlaubnis zum Betreiben des E-Geld-Geschäfts im Sinne von § 1 Ab
 Erlaubniserweiterung\\
 Nachträgliche Erweiterung des Umfangs einer bestehenden Erlaubnis
 
-
+ 
 
 9.1.4.1
 
@@ -3284,7 +3284,7 @@ Erlaubniserteilung oder Erlaubniserweiterung für das E-Geld-Geschäft im Sinne 
 
 Erlaubnis zur Erbringung von Zahlungsdiensten oder zum Betreiben des E-Geld-Geschäfts sowie Erlaubniserweiterung für eine Personenhandelsgesellschaft
 
-
+ 
 
 9.1.4.3.1
 
@@ -3302,7 +3302,7 @@ bei Eintritt eines neuen persönlich haftenden Gesellschafters
 
 Maßnahmen nach Aufhebung und Erlöschen der Erlaubnis
 
-
+ 
 
 9.1.5.1
 
@@ -3329,7 +3329,7 @@ Jeder Folgebescheid zu einem Verwaltungsakt im Sinne von Nummer 9.1.5.1,
 Individuell zurechenbare öffentliche Leistungen in Bezug auf den Erwerb bedeutender Beteiligungen\\
 (§ 14 Absatz 1 Satz 2 ZAG in Verbindung mit § 2c KWG)
 
-
+ 
 
 9.1.6.1
 
@@ -3357,7 +3357,7 @@ Beauftragung des Treuhänders mit der Veräußerung der Anteile, soweit sie eine
 Maßnahmen zur korrekten Berechnung der Eigenmittel\\
 (§ 15 ZAG)
 
-
+ 
 
 9.1.7.1
 
@@ -3378,7 +3378,7 @@ Festsetzung eines Korrekturpostens auf die Eigenmittel\\
 Maßnahmen gegen Geschäftsleiter und Mitglieder des Verwaltungs- und des Aufsichtsorgans\\
 (§ 20 Absatz 1 und 3 ZAG)
 
-
+ 
 
 9.1.8.1
 
@@ -3397,7 +3397,7 @@ Untersagung der Ausübung der Tätigkeit als Geschäftsleiter bei Instituten ode
 Maßnahmen in besonderen Fällen\\
 (§ 21 ZAG)
 
-
+ 
 
 9.1.9.1
 
@@ -3445,7 +3445,7 @@ Registrierung von Kontoinformationsdiensten\\
 
 Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Zahlungsinstituts-Eigenkapitalverordnung (ZIEV)
 
-
+ 
 
 9.2.1
 
@@ -3465,32 +3465,32 @@ Genehmigung des Antrages auf Anwendung einer bestimmten Berechnungsmethode auße
 
 (weggefallen)
 
-
+ 
 
 9.2.4
 
 (weggefallen)
 
-
+ 
 
 10.
 
 Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) Nr. 648/2012, der Delegierten Verordnung (EU) 2015/2205, der Delegierten Verordnung (EU) 2016/592, der Delegierten Verordnung (EU) 2016/1178 und der Delegierten Verordnung (EU) 2016/2251
 
-
+ 
 
 10.1
 
 Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) Nr. 648/2012<<FnR.F806824_01>>[[#F806824_01][1]]}
 
-
+ 
 
 10.1.1
 
 Zulassung zur Erbringung von Clearingdienstleistungen als zentrale Gegenpartei\\
 (Art. 14 der Verordnung (EU) Nr. 648/2012)
 
-
+ 
 
 10.1.1.1
 
@@ -3510,7 +3510,7 @@ Nachträgliche Erweiterung des Umfangs einer bestehenden Zulassung\\
 
 Gruppeninterne Freistellungen nach Art. 4 Abs. 2 der Verordnung (EU) Nr. 648/2012
 
-
+ 
 
 10.1.2.1
 
@@ -3530,7 +3530,7 @@ Gestattung der Inanspruchnahme einer gruppeninternen Freistellung bei Bezug zu e
 
 Ausnahmen von der Pflicht zur Einrichtung eines Risikomanagementverfahrens nach Art. 11 Abs. 3 der Verordnung (EU) Nr. 648/2012
 
-
+ 
 
 10.1.3.1
 
@@ -3571,7 +3571,7 @@ Befreiung von der Pflicht zur Einrichtung eines Risikomanagementverfahrens bei G
 
 Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Delegierten Verordnung (EU) 2015/2205<<FnR.F806824_02>>[[#F806824_02][2]]} , der Delegierten Verordnung (EU) 2016/592<<FnR.F806824_03>>[[#F806824_03][3]]} und der Delegierten Verordnung (EU) 2016/1178<<FnR.F806824_04>>[[#F806824_04][4]]}
 
-
+ 
 
 10.2.1
 
@@ -3583,7 +3583,7 @@ Bestätigung nach dem jeweiligen Artikel 3 Absatz 2 Unterabsatz 2 Buchstabe e de
 
 Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Delegierten Verordnung (EU) 2016/2251<<FnR.F806824_05>>[[#F806824_05][5]]}
 
-
+ 
 
 10.3.1
 
@@ -3601,7 +3601,7 @@ Prüfung der Voraussetzungen des Artikels 36 Absatz 3 Buchstabe f in Verbindung 
 
 Individuell zurechenbare Leistungen auf der Grundlage der Verordnung (EU) Nr. 909/2014<<FnR.f791690_01>>[[#f791690_01][*]]}
 
-
+ 
 
 11.1
 
@@ -3633,7 +3633,7 @@ Maßnahmen nach Artikel 17 Absatz 1 der Verordnung (EU) Nr. 1286/2014
 
 Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) 2016/1011<<FnR.F806824_06>>[[#F806824_06][6]]}
 
-
+ 
 
 14.1
 
@@ -3641,11 +3641,11 @@ Anerkennung eines in einem Drittstaat angesiedelten Administrators
 
 11 070
 
-
+ 
 
 (Artikel 32 Absatz 5 in Verbindung mit Absatz 1 der Verordnung (EU) 2016/1011)
 
-
+ 
 
 14.2
 
@@ -3653,11 +3653,11 @@ Anerkennung eines in einem Drittstaat angesiedelten Administrators
 
 7 355
 
-
+ 
 
 (Artikel 33 Absatz 3 der Verordnung (EU) 2016/1011)
 
-
+ 
 
 14.3
 
@@ -3665,11 +3665,11 @@ Zulassung eines Administrators, der mindestens einen kritischen Referenzwert ber
 
 11 070
 
-
+ 
 
 (Artikel 34 Absatz 6 Buchstabe a in Verbindung mit Absatz 1 Buchstabe a in Verbindung mit Artikel 20 der Verordnung (EU) 2016/1011)
 
-
+ 
 
 14.4
 
@@ -3677,11 +3677,11 @@ Zulassung eines Administrators
 
 7 355
 
-
+ 
 
 (Artikel 34 Absatz 6 Buchstabe a in Verbindung mit Absatz 1 Buchstabe a der Verordnung (EU) 2016/1011)
 
-
+ 
 
 14.5
 
@@ -3689,10 +3689,10 @@ Registrierung eines Administrators
 
 5 165
 
-
+ 
 
 (Artikel 34 Absatz 6 Buchstabe b in Verbindung mit Absatz 1 Buchstabe b oder c der Verordnung (EU) 2016/1011)
 
-
+ 
 
 Anlage Gliederung (Inhaltsübersicht) Nr. 1.3 Kursivdruck: Das Wort Solvabilitätsverordung wurde korrekt in Solvabilitätsverordnung berichtigt

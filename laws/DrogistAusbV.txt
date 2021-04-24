@@ -143,7 +143,7 @@ Teil des Ausbildungsberufsbildes
 Zu vermittelnde Fertigkeiten und Kenntnisse
 1.
 Der Ausbildungsbetrieb (§ 3 Nr. 1)
-
+ 
 1.1
 Stellung der Drogerie in der Gesamtwirtschaft (§ 3 Nr. 1 Buchstabe a)
 a)
@@ -234,7 +234,7 @@ i)
 den Einsatz von Geräten zur Erfassung betrieblicher Daten und die Verwendung der Daten für unterschiedliche Formen der Warenwirtschaft beschreiben, erforderliche Fachbegriffe und Abkürzungen erläutern sowie die Geräte anwenden
 2.
 Beschaffung (§ 3 Nr. 2)
-
+ 
 2.1
 Einkaufsplanung (§ 3 Nr. 2 Buchstabe a)
 a)
@@ -267,7 +267,7 @@ f)
 Einwirkungsmöglichkeiten des Ausbildungsbetriebes auf Lieferanten in Bezug auf ökologisch sinnvolle Transport- und Verkaufsverpackungen darstellen
 3.
 Lagerung (§ 3 Nr. 3)
-
+ 
 3.1
 Warenannahme (§ 3 Nr. 3 Buchstabe a)
 a)
@@ -308,7 +308,7 @@ e)
 Ziele und Möglichkeiten einer Steuerung und Kontrolle der Warenbewegungen im Lager beschreiben, Bestandsveränderungen erfassen
 4.
 Absatz (§ 3 Nr. 4)
-
+ 
 4.1
 Verkaufsvorbereitung (§ 3 Nr. 4 Buchstabe a)
 a)
@@ -481,7 +481,7 @@ p)
 betriebliche Risiken beschreiben und Versicherungsmöglichkeiten nennen, bei der Abwicklung eintretender Versicherungsfälle mitwirken
 7.
 Gesundheit und Ernährung (§ 3 Nr. 7)
-
+ 
 7.1
 Mittel zur Wiederherstellung und Erhaltung der Gesundheit (§ 3 Nr. 7 Buchstabe a)
 a)
@@ -512,7 +512,7 @@ c)
 Geeignete Nähr- und Kräftigungsmittel sowie diätetische Lebensmittel für die unter Buchstabe b genannten Ernährungsformen empfehlen
 8.
 Kosmetik, Körperpflege, Parfümerie und Hygiene (§ 3 Nr. 8)
-
+ 
 8.1
 Präparative und dekorative Kosmetik (§ 3 Nr. 8 Buchstabe a)
 a)
@@ -601,7 +601,7 @@ c)
 geeignete Artikel für die allgemeine und besondere Körperhygiene empfehlen
 9.
 Fachrecht (§ 3 Nr. 9)
-
+ 
 9.1
 Handel mit freiverkäuflichen Arzneimitteln (§ 3 Nr. 9 Buchstabe a)
 a)
@@ -658,7 +658,7 @@ e)
 Aufgaben, Rechte und Pflichten der zuständigen Überwachungsstellen beschreiben; örtlich zuständige Behörden nennen
 10.
 Foto (§ 3 Nr. 10)
-
+ 
 10.1
 Filme, Bilder (§ 3 Nr. 10 Buchstabe a)
 a)
@@ -699,7 +699,7 @@ e)
 Paßbilder im Sofortbildverfahren anfertigen
 11.
 Chemischtechnische Waren, Pflanzenschutz (§ 3 Nr. 11)
-
+ 
 11.1
 Chemikalien (§ 3 Nr. 11 Buchstabe a)
 a)

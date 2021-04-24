@@ -214,9 +214,9 @@ Inbetriebnehmen von Maschinen sowie Warten von Betriebsmitteln\\
 
 2
 
+ 
 
-
-
+ 
 
 6
 
@@ -231,9 +231,9 @@ Auswählen, Vorbereiten, Handhaben und Lagern von Werk- und Hilfsstoffen\\
 
 2*)
 
+ 
 
-
-
+ 
 
 7
 
@@ -247,19 +247,19 @@ Planen von Arbeitsabläufen\\
 
 4*)
 
+ 
 
-
-
+ 
 
 - e) :: Umsetzung eigener Entwürfe unter Beachtung technischer Möglichkeiten und Grenzen sowie gestalterischer Absicht planen
 - f) :: Arbeitsablauf selbständig unter Berücksichtigung organisatorischer und informatorischer Notwendigkeiten sowie Dauer der Arbeitsgänge planen und die Durchführung selbständig vorbereiten
 - g) :: gestalterische Prüfkriterien entwickeln, insbesondere unter Beachtung von Proportionen und von Formqualität des Entwurfs
 
-
+ 
 
 4
 
-
+ 
 
 8
 
@@ -285,9 +285,9 @@ Messen und Kennzeichnen sowie Kontrollieren von Arbeitsergebnissen\\
 
 4*)
 
+ 
 
-
-
+ 
 
 9
 
@@ -301,20 +301,20 @@ Gestalten und Darstellen von Schmuck und Gerät\\
 
 5
 
+ 
 
-
-
+ 
 
 - b) :: unter Beachtung von Gestaltungsprinzipien, insbesondere im Hinblick auf Form, Farbe, Glanz und Struktur,
   - aa) :: Schmuck skizzieren
 
   - bb) :: schwarzweiße und farbige Entwürfe zu Edelsteinanordnungen an vorgegebenen Schmuckstücken anfertigen
 
-
+ 
 
 4
 
-
+ 
 
 - *) :: Im Zusammenhang mit anderen im Ausbildungsrahmenplan aufgeführten Ausbildungsinhalten zu vermitteln.
 
@@ -334,9 +334,9 @@ unter Beachtung von Metalleigenschaften und gestellten Anforderungen
 
 8
 
+ 
 
-
-
+ 
 
 11
 
@@ -358,9 +358,9 @@ unter Beachtung von Werkstoffeigenschaften und gestellten Anforderungen
 
 6
 
+ 
 
-
-
+ 
 
 12
 
@@ -380,9 +380,9 @@ unter Beachtung von Werkstoffeigenschaften und gestellten Anforderungen
 
 7
 
+ 
 
-
-
+ 
 
 13
 
@@ -397,9 +397,9 @@ unter Beachtung der ablaufenden chemischen und physikalischen Vorgänge
 
 2
 
+ 
 
-
-
+ 
 
 14
 
@@ -411,27 +411,27 @@ Anfertigen von Kleinwerkzeugen\\
 
 4
 
+ 
 
-
-
+ 
 
 - c) :: unter Beachtung der Einsatzart
   - aa) :: Stichel richten
   - bb) :: Kittstöcke anfertigen
   - cc) :: Zentrums- und Spitzbohrer anfertigen
 
-
+ 
 
 2
 
-
+ 
 
 -   :: - dd) :: An- und Ausdrücker sowie Bockfuß, Punzen und Anreißspitze anfertigen
   - ee) :: Korn- und Millegriffes-Eisen sowie Kornbohrer und Anreiber anfertigen
 
+ 
 
-
-
+ 
 
 2
 
@@ -449,19 +449,19 @@ Behandeln von Oberflächen\\
 
 4
 
+ 
 
-
-
+ 
 
 - b) :: unter Beachtung von Umwelt- und Gesundheitsschutzvorschriften
   - aa) :: galvanische Überzüge herstellen
   - bb) :: Metalle mit chemischen Hilfsmitteln färben
 
-
+ 
 
 2
 
-
+ 
 
 16
 
@@ -474,9 +474,9 @@ unter Beachtung der Eigenschaften von Edelsteinen und organischen Stoffen
 - b) :: Wertverhältnisse von Edelsteinen und organischen Stoffen sowie Sorgfaltspflichten beim Umgang mit diesen Stoffen beachten
 - c) :: Einschlüsse und Risse mit optischen Geräten erkennen sowie Gefahren des Ausspringens beim Fassen beachten
 
+ 
 
-
-
+ 
 
 4
 
@@ -489,9 +489,9 @@ unter Beachtung der gestalterischen Absicht Zargen und Fassungen anfertigen und 
 
 4
 
+ 
 
-
-
+ 
 
 18
 
@@ -504,20 +504,20 @@ unter Beachtung von gestalterischer Absicht sowie Steineigenschaften, insbesonde
 - b) :: Fassungen für Steine justieren
 - c) :: Steine in runden und ovalen Chaton- und Zargenfassungen fassen
 
-
+ 
 
 6
 
-
+ 
 
 - d) :: Steine in Chatonfassungen fassen, insbesondere quadratische, rechteckige, achteckige, Navette-, Baguette-, Carreefassungen, Tropfen-, Halbmond-, Herz- und Fantasieformen
 - e) :: Steine in Zargenfassungen fassen, insbesondere quadratische, rechteckige, achteckige, Navette-, Kasten-, Bogen-, Spann-, Spiegelfassungen, Tropfen-, Halbmond-, Herz- und Fantasieformen
 - f) :: Steine in Halbzargen fassen, insbesondere Navette und Carree in Eckwinkeln fassen
 - g) :: Edel- und synthetische Steine in Facetten- und Chabochonform durch Anreiben fassen, insbesondere Steine in runden, ovalen, eckigen und Fantasieformen
 
+ 
 
-
-
+ 
 
 12
 
@@ -534,22 +534,22 @@ unter Beachtung von gestalterischer Absicht sowie von Möglichkeiten und Grenzen
 - d) :: Formen ohne Bohrungen mit Facetten- und Flachstichel verschneiden
 - e) :: Formen mit Bohrungen und Körnern verschneiden, insbesondere Stern-, Dreieck-, Karo-, Navette-, Tulpen- und Fantasieformen
 
-
+ 
 
 12
 
-
+ 
 
 - f) :: gleich- und auslaufende Kornreihen und Fadenfassungen auf ebenem und modelliertem Untergrund mit Zwei-Korn, Vier-Korn und Fünf-Korn verschneiden
 - g) :: Faßkörner in gleich- und auslaufenden Kornreihen aufstellen und aus der Rippe versäubern und verschneiden
 - h) :: Blendrosen verschneiden
 - i) :: Ornamente auf ebenem und modelliertem Untergrund aufzeichnen sowie bohren, Korn aufstellen und verschneiden
 
-
+ 
 
 10
 
-
+ 
 
 - k) :: Pavee verschneiden
   - aa) :: quadratische Formen anfertigen, insbesondere mit vier, neun und sechzehn gleich großen parallelverlaufenden Bohrungen
@@ -560,27 +560,27 @@ unter Beachtung von gestalterischer Absicht sowie von Möglichkeiten und Grenzen
 
   - dd) :: Sechseck- und Kreisformen anfertigen, insbesondere mit sieben, neunzehn und siebenunddreißig versetzten gleichlaufenden Bohrungen
 
-
+ 
 
 8
 
-
+ 
 
 -   :: - ee) :: Fantasieformen anfertigen, insbesondere mit versetzten und parallellaufenden unterschiedlich großen Bohrungen
 
 - l) :: Fadenfassungen und Pavee als abgedeckte Fassungen anfertigen
 
-
+ 
 
 4
 
-
+ 
 
 - m) :: Modelle mit unterschiedlichen Fassungen gußgerecht verschneiden
 
+ 
 
-
-
+ 
 
 8
 
@@ -595,9 +595,9 @@ Steine vor und nach dem Verschneiden fassen, insbesondere unter Beachtung von ge
 - b) :: Inkrustationen anfertigen
 - c) :: Dreieckform und quadratische Formen fassen
 
+ 
 
-
-
+ 
 
 10
 
@@ -605,17 +605,17 @@ Steine vor und nach dem Verschneiden fassen, insbesondere unter Beachtung von ge
 - e) :: abgedeckt fassen mit Zwei-Korn, Vier-Korn und Fünf-Korn
 - f) :: Millegriffes an verschnittenen und Zargenfassungen radeln und drücken
 
+ 
 
-
-
+ 
 
 14
 
 - g) :: runde und eckige Steine unter Berücksichtigung unterschiedlicher Faßarten in Allianzringen fassen
 
+ 
 
-
-
+ 
 
 4
 
@@ -624,17 +624,17 @@ Steine vor und nach dem Verschneiden fassen, insbesondere unter Beachtung von ge
 
   - bb) :: durch Unterjustieren von einer Seite fassen
 
+ 
 
-
-
+ 
 
 8
 
 - i) :: Steine glatt und mit Stotzen in Karmosierungen fassen
 - k) :: unterschiedliche Faßtechniken in einem Werkstück kombinieren
 
+ 
 
-
-
+ 
 
 16

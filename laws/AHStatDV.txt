@@ -8,8 +8,8 @@ Inhaltsübersicht
 
 Erster Abschnitt
 Begriffsbestimmungen und Anmeldeverfahren
-
-
+ 
+ 
 Verkehrsarten ........................................
 § 1
 Freier Verkehr, ausländische Waren, Waren des freien Verkehrs ............................................
@@ -52,50 +52,50 @@ Ausländische Streitkräfte ............................
 § 20
 Offshore-Lieferungen .................................
 § 21
-
-
+ 
+ 
 Zweiter Abschnitt
 Anmeldepflichtiger, Ausstellungspflichtiger, Ergänzungspflichtiger
-
-
+ 
+ 
 Anmeldepflichtiger ...................................
 § 22
 Ausstellungspflichtiger, Ergänzungspflichtiger .......
 § 23
-
-
+ 
+ 
 Dritter Abschnitt
 Anmeldestellen
-
-
+ 
+ 
 Anmeldestellen .......................................
 § 24
-
-
+ 
+ 
 Vierter Abschnitt
 Zeitpunkt der Anmeldung
-
-
+ 
+ 
 Zeitpunkt der Anmeldung ..............................
 § 25
-
-
+ 
+ 
 Fünfter Abschnitt
 Sicherung der Anmeldung
-
-
+ 
+ 
 Sicherung im Zollverfahren ...........................
 § 26
 Sicherung im Freizonenverkehr ........................
 § 27
 Ladungsverzeichnisse, örtliche Schiffsmeldestellen ...
 § 28
-
-
+ 
+ 
 Sechster Abschnitt
 Erleichterungen und Befreiungen von der Anmeldung
-
-
+ 
+ 
 Andere Papiere als Anmeldescheine ....................
 § 29
 Vereinfachte Anmeldungen, Sammelanmeldungen ..........
@@ -104,18 +104,18 @@ Auskunftspflicht zur Erhebung des Statistischen Wertes im innergemeinschaftliche
 § 30a
 Befreiungen von der Anmeldung ........................
 § 31
-
-
+ 
+ 
 Siebenter Abschnitt
 Übergangs- und Schlußvorschriften
-
-
+ 
+ 
 Übergangsvorschriften ................................
 § 32
 Inkrafttreten ........................................
 § 33
-
-
+ 
+ 
 Befreiungsliste .....................................
 Anlage zu § 31
 
@@ -507,7 +507,7 @@ Liegen in den Fällen von Nummer 1 Buchstabe a im Zeitpunkt der Anmeldung noch k
   und eine Einfuhrgenehmigung oder Einfuhrlizenz nicht erforderlich ist; der Anmeldeschein ist im Kopf mit "§ 30 Abs. 1 Nr. 3 AHStatDV" zu kennzeichnen. Dies gilt entsprechend, wenn für den gemeinsamen Bevollmächtigten ein vereinfachtes Anmeldeverfahren oder Anschreibeverfahren gemäß Teil I Titel IX der Verordnung (EWG) Nr. 2454/93 zugelassen ist. Die Sätze 1 und 2 gelten auch für den außerhalb des Erhebungsgebietes ansässigen Vertragspartner der Einführer, wenn dieser selbst als Anmelder im Sinne der Verordnung (EWG) Nr. 2913/92 auftritt. Der in den Sätzen 1 und 2 genannte gemeinsame Bevollmächtigte oder der in Satz 3 genannte außerhalb des Erhebungsgebietes ansässige Vertragspartner ist an Stelle der einzelnen Einführer Ausstellungspflichtiger für den Anmeldeschein. Die Pflicht der Einführer zur Ausstellung des Anmeldescheines bleibt unberührt, wenn die in den Sätzen 1 bis 3 genannten Personen ihrer Auskunftspflicht nicht ordnungsgemäß nachkommen.
 - 4. :: (weggefallen)
 - 5. :: (weggefallen)
-- 6. :: Teile und Zubehör für Maschinen, Apparate, Geräte, Beförderungsmittel und Instrumente der Kapitel 84 bis 90 des Warenverzeichnisses für die Aueinschließlich des üblicherweise zur Ausrüstung gehörenden Zubehörs und der Ersatzteile“ angemeldet werden. Bei der Anmeldung zur Intrahandelsstatistik ist nur die Angabe der Warennummer des Hauptgegenstands ohne Warenbezeichnung erforderlich. Gehen Teile und Zubehör nach Satz 1 ohne den Hauptgegenstand in einer Sendung aus oder ein und beträgt der statistische Gesamtwert der Sendung nicht mehr als 2 500 Euro, können sie mit den auf sie zutreffenden Warennummern des Warenverzeichnisses für die Außenhandelsstatistik angemeldet werden. Falls nicht bekannt ist, für welche Maschinen, Apparate, Geräte und Instrumente der Kapitel 84, 85 und 90 des Warenverzeichnisses für die Außenhandelsstatistik die Teile und das Zubehör bestimmt sind, dürfen mechanische Teile der Position 8487, elektrische Teile der Position 8548 und optische Teile und Zubehör der Position 9033 des Warenverzeichnisses für die Außenhandelsstatistik zugeordnet werden. Gehen Teile und Zubehör nach Satz 1 ohne den Hauptgegenstand in einer Sendung aus oder ein und beträgt der statistische Gesamtwert der Sendung mehr als 2 500 Euro, so sind die Teile und das Zubehör mit den auf sie zutreffenden Warennummern des Warenverzeichnisses für die Außenhandelsstatistik anzumelden, jedoch dürfen Teile und Zubehör bis zu einem statistischen Wert von einschließlich 1 000 Euro je Teil oder Zubehör, das jeweils einzeln durch verschiedene Warennummern der genannten Kapitel des Warenverzeichnisses für die Außenhandelsstatistik beschrieben wird, der Ware mit dem höchsten statistischen Wert zugerechnet werden. Die Sätze 3 und 5 gelten nicht für Waren der Kapitel 87 bis 89 des Warenverzeichnisses für die Außenhandelsstatistik.
+- 6. :: Teile und Zubehör für Maschinen, Apparate, Geräte, Beförderungsmittel und Instrumente der Kapitel 84 bis 90 des Warenverzeichnisses für die Außenhandelsstatistik, die üblicherweise zur Ausrüstung gehören und zusammen mit dem Hauptgegenstand aus- oder eingehen, können nach Maßgabe des § 6 Absatz 1 mit der Warenbezeichnung und der Warennummer des Hauptgegenstands und dem Zusatz „einschließlich des üblicherweise zur Ausrüstung gehörenden Zubehörs und der Ersatzteile“ angemeldet werden. Bei der Anmeldung zur Intrahandelsstatistik ist nur die Angabe der Warennummer des Hauptgegenstands ohne Warenbezeichnung erforderlich. Gehen Teile und Zubehör nach Satz 1 ohne den Hauptgegenstand in einer Sendung aus oder ein und beträgt der statistische Gesamtwert der Sendung nicht mehr als 2 500 Euro, können sie mit den auf sie zutreffenden Warennummern des Warenverzeichnisses für die Außenhandelsstatistik angemeldet werden. Falls nicht bekannt ist, für welche Maschinen, Apparate, Geräte und Instrumente der Kapitel 84, 85 und 90 des Warenverzeichnisses für die Außenhandelsstatistik die Teile und das Zubehör bestimmt sind, dürfen mechanische Teile der Position 8487, elektrische Teile der Position 8548 und optische Teile und Zubehör der Position 9033 des Warenverzeichnisses für die Außenhandelsstatistik zugeordnet werden. Gehen Teile und Zubehör nach Satz 1 ohne den Hauptgegenstand in einer Sendung aus oder ein und beträgt der statistische Gesamtwert der Sendung mehr als 2 500 Euro, so sind die Teile und das Zubehör mit den auf sie zutreffenden Warennummern des Warenverzeichnisses für die Außenhandelsstatistik anzumelden, jedoch dürfen Teile und Zubehör bis zu einem statistischen Wert von einschließlich 1 000 Euro je Teil oder Zubehör, das jeweils einzeln durch verschiedene Warennummern der genannten Kapitel des Warenverzeichnisses für die Außenhandelsstatistik beschrieben wird, der Ware mit dem höchsten statistischen Wert zugerechnet werden. Die Sätze 3 und 5 gelten nicht für Waren der Kapitel 87 bis 89 des Warenverzeichnisses für die Außenhandelsstatistik.
   Die Sätze 1 bis 5 sind nicht anzuwenden auf
   - a) :: Sendungen, die aus weniger als drei Waren bestehen, die mit unterschiedlichen Warennummern des Warenverzeichnisses für die Außenhandelsstatistik einzureihen sind, sowie
   - b) :: Waren, für die aufgrund der Vorschriften des Zollrechts, des Außenwirtschaftsrechts, des Ursprungsrechts, der Rechtsvorschriften über ein- und ausfuhrrechtliche Verbote und Beschränkungen und aufgrund anderer Rechtsvorschriften eine detaillierte Einreihung der einzelnen Waren in die Kombinierte Nomenklatur erforderlich ist; die Zollstelle kann vom Anmelder im Rahmen der Zulässigkeitsprüfung eine detaillierte Zollanmeldung für entsprechende Waren und Bestimmungsländer verlangen.
@@ -591,36 +591,36 @@ bzgl. der einzelnen Änderungen vgl. Fußnote.
 I. Einfuhr, Ausfuhr, Durchfuhr
 Die Befreiungen erstrecken sich auf die jeweils vermerkten Verkehrsarten Einfuhr (E), Ausfuhr (A), Durchfuhr (D), einschließlich der Ausfuhr und Einfuhr im Zwischenauslandsverkehr; nicht befreit sind Waren, die bereits als Einfuhr auf Lager oder als Einfuhr zur aktiven Veredelung angemeldet worden sind und in eine andere Einfuhrart übergehen oder ausgeführt werden sollen - ausgenommen die Ausfuhr im Zwischenauslandsverkehr -, sowie Waren, die nach vorübergehender Verwendung im Erhebungsgebiet in eine Einfuhrart eingehen.\\
 Voraussetzung für eine Befreiung bei der Ausfuhr sowie im Zwischenauslandsverkehr ist, daß der Ausstellungspflichtige in dem Beförderungspapier oder Begleitpapier, in der Zollanmeldung, auf dem Packstück oder gesondert in einem Begleitschreiben schriftlich erklärt, daß es sich um einen der nachstehenden Fälle handelt. Eine Erklärung entfällt, wenn sich die Voraussetzungen für die Anwendung der Befreiungsliste bereits aus der Art der Ausfuhrsendung oder aus sonstigen Umständen ergeben.\\
-
+ 
 Einfuhr (E)
 Ausfuhr (A)
 Durchfuhr (D)
 Allgemeine Befreiungen, Geschenke, Ehrengaben, Hilfeleistungen
-
-
-
+ 
+ 
+ 
 1.
 Sendungen mit Waren bis zu einem Wert von einschließlich eintausend Euro, für die gemäß Artikel 225 oder Artikel 226 der Verordnung EWG Nr. 2454/93 eine mündliche Zollanmeldung abgegeben wird. Dies gilt nicht bei der Einfuhr von Saat- und Pflanzgut und der zu den Kapiteln 3 und 16 der Einfuhrliste gehörenden Fische und Fischereierzeugnisse.
 E
 A
 -
-
+ 
 Die Befreiung gilt auch nicht für Sendungen mit einer Eigenmasse von mehr als tausend Kilogramm; sie gilt auch nicht für Warenverkehre, die im Rahmen der Verordnung (EWG) Nr. 3330/91 erhoben werden.
-
-
-
+ 
+ 
+ 
 2.
 Geschenke
-
-
-
-
+ 
+ 
+ 
+ 
 a)
 an Staatsoberhäupter, Regierungs- und Parlamentsmitglieder im Rahmen zwischenstaatlicher Beziehungen von amtlichen Stellen
 E
 A
 D
-
+ 
 b)
 die nicht aus geschäftlichen Gründen eingeführt oder ausgeführt werden und weder zum Handel noch zur gewerblichen Verwendung bestimmt sind, im Werte bis einschließlich eintausend Euro je Sendung
 E
@@ -638,27 +638,27 @@ A
 D
 5.
 (weggefallen)
-
-
-
+ 
+ 
+ 
 Zahlungsmittel, Wertpapiere
-
-
-
+ 
+ 
+ 
 6.
 Zahlungsmittel, die im Ausgabeland gesetzliche Zahlungsmittel sind, ausgenommen Münzen aus Platin, Gold oder Silber, die wegen ihres Handelswertes nicht als gesetzliche Zahlungsmittel im Umlauf sind; Silber und Gold für internationale Zahlungen; ausgegebene Wertpapiere
 E
 A
 D
 Postsendungen, Briefmarken
-
-
-
+ 
+ 
+ 
 7.
 Postsendungen, die gemäß Artikel 237 der Verordnung (EWG) Nr. 2454/93 als angemeldet gelten.
-
-
-
+ 
+ 
+ 
 8.
 Briefmarken und andere Waren der Position 97.04 der Kombinierten Nomenklatur zu oder nach vorübergehender Verwendung im Erhebungsgebiet
 E
@@ -670,9 +670,9 @@ E
 A
 -
 Reisegeräte, Reiseverzehr, sonstiges Reisegut, Berufsausrüstung
-
-
-
+ 
+ 
+ 
 10.
 a)
 Waren, die von Reisenden und von Personal der Beförderungsmittel zum eigenen Verbrauch oder Gebrauch während der Reise oder zur Ausübung des Berufs, soweit sie zur üblichen persönlichen Berufsausstattung gehören, mitgeführt oder ihnen zu diesem Zweck vorausgesandt oder nachgesandt werden; außerdem andere durch Reisende mitgeführte, nicht zum Handel bestimmte Waren im Werte bis einschließlich fünftausend Euro
@@ -685,9 +685,9 @@ E
 A
 D
 Beförderungsmittel, Behälter, mitgeführte Betriebsstoffe und Proviant
-
-
-
+ 
+ 
+ 
 11.
 Beförderungsmittel und Lademittel sowie Reittiere, Zugtiere und Lasttiere nebst Zubehör, soweit die Waren nicht Gegenstand eines Handelsgeschäfts sind; Beförderungsmittel und Lademittel, wenn sie während der vorübergehenden Verwendung instand gesetzt werden, Kraftfahrzeuge im Reiseverkehr, Luftfahrzeuge und Binnenschiffe, wenn sie im Rahmen einer aktiven oder passiven Veredelung oder im Rahmen wirtschaftlicher Lohnveredelungsverkehre gewartet oder ausgebessert werden
 E
@@ -700,14 +700,14 @@ A
 -
 11b.
 Trägerraketen für Raumflugkörper
-
-
-
+ 
+ 
+ 
 a)
 bei der Aus- und Einfuhr im Hinblick auf ihren Start in den Weltraum
-
-
-
+ 
+ 
+ 
 b)
 zum Zeitpunkt ihres Starts in den Weltraum
 E
@@ -715,9 +715,9 @@ A
 -
 12.
 Teile von
-
-
-
+ 
+ 
+ 
 a)
 Eisenbahnfahrzeugen, -behältern und -lademitteln, die zurückgeliefert werden, und Ersatzstücke für beschädigte Teile, soweit diese Rücklieferung oder Ersatzlieferung in zwischenstaatlichen Vereinbarungen vorgesehen ist
 E
@@ -735,9 +735,9 @@ E
 -
 12a.
 Teile zur Ausbesserung von
-
-
-
+ 
+ 
+ 
 a)
 im Ausland zugelassenen Kraftfahrzeugen, die während der vorübergehenden Verwendung im Erhebungsgebiet reparaturbedürftig geworden sind
 E
@@ -770,9 +770,9 @@ A
 D
 16.
 Waren des freien Verkehrs, die geliefert werden
-
-
-
+ 
+ 
+ 
 a)
 als Schiffs- und Luftfahrzeugbedarf an Bord deutscher Fahrzeuge oder an Bord fremder Binnenschiffe
 -
@@ -789,9 +789,9 @@ E
 A
 D
 Umschließungen
-
-
-
+ 
+ 
+ 
 18.
 a)
 Behälter (Container) und sonstige Großraumbehältnisse, die wie diese verwendet werden, Paletten, Druckbehälter für verdichtete oder flüssige Gase, Kabeltrommeln und Kettbäume, soweit die Waren nicht Gegenstand eines Handelsgeschäfts sind; diese Waren sind auch dann befreit, wenn sie während der vorübergehenden Verwendung instand gesetzt werden
@@ -800,9 +800,9 @@ A
 D
 b)
 sonstige Umschließungen und Verpackungsmittel
-
-
-
+ 
+ 
+ 
 aa)
 in denen oder mit denen Waren befördert werden
 E
@@ -828,9 +828,9 @@ E
 A
 D
 Messegut, Werbemittel
-
-
-
+ 
+ 
+ 
 19.
 Messe- und Ausstellungsgut zu oder nach vorübergehender Verwendung im Erhebungsgebiet, ausgenommen Waren für Ausstellungen privater Natur in Verkaufsstellen oder Geschäftsräumen
 E
@@ -847,9 +847,9 @@ E
 A
 -
 Fotografien, Pläne, Ton- und Datenträger, kinematographische Filme
-
-
-
+ 
+ 
+ 
 22.
 a)
 Fotografien in Einzelsendungen, die nicht mehr als drei Abzüge je Aufnahme enthalten; Entwürfe, technische Zeichnungen, Planpausen, Beschreibungen und ähnliche Unterlagen, soweit sie nicht Gegenstand eines Handelsgeschäfts sind; Manuskripte, soweit sie nicht veräußert werden; Akten, Urkunden, Korrekturbogen
@@ -877,9 +877,9 @@ E
 A
 -
 Nicht angenommene oder nicht zustellbare Waren, verlaufenes Gut
-
-
-
+ 
+ 
+ 
 23.
 a)
 Waren, die - ohne Anmeldung zu einer Einfuhrart - vom inländischen Empfänger nicht angenommen werden, die nicht zustellbar sind oder die versehentlich in das Erhebungsgebiet gelangten und die wieder ausgeführt werden
@@ -892,9 +892,9 @@ E
 -
 -
 Dienstgegenstände, Bau- und Betriebsmittel für öffentliche Einrichtungen
-
-
-
+ 
+ 
+ 
 24.
 Dienstgegenstände im Verkehr der Behörden; Gegenstände im zwischenstaatlichen Amtsoder Rechtshilfeverkehr
 E
@@ -916,9 +916,9 @@ E
 A
 -
 Diplomaten- und Konsulargut
-
-
-
+ 
+ 
+ 
 28.
 Diplomatengut und Konsulargut sowie Gut, das auf Grund von zwischenstaatlichen Verträgen diesen gleichgestellt ist
 E
@@ -930,9 +930,9 @@ E
 -
 -
 Heirats-, Übersiedlungs- und Erbschaftsgut sowie Hausrat zur Einrichtung einer Zweitwohnung, gebrauchte Kleidung
-
-
-
+ 
+ 
+ 
 30.
 Heiratsgut; Übersiedlungsgut und Erbschaftsgut sowie Hausrat zur Einrichtung einer Zweitwohnung, soweit nicht zum Handel bestimmt
 E
@@ -944,9 +944,9 @@ E
 A
 D
 Ergebnisse der Fischerei und der Jagd auf dem Meere, Strandgut
-
-
-
+ 
+ 
+ 
 32.
 Waren, die deutsche Schiffe auf hoher See oder im schweizerischen Teil des Untersees und des Rheins gewinnen oder aus solchen Waren herstellen und in Häfen des Erhebungsgebietes anlanden; von solchen Schiffen aufgefischtes und an Land gebrachtes seedriftiges Gut; die Befreiung gilt auch für Fangergebnisse deutscher Schiffe, die von ausländischen Schiffen in Häfen des Erhebungsgebietes angelandet werden, wenn die Waren auf Grund einer nach Teil II Titel II Kapitel 3 Artikel 325ff der Verordnung (EWG) Nr. 2454/93 ausgestellten Bescheinigung T 2 M als Ursprungserzeugnisse deutscher Schiffe anzusehen sind
 E
@@ -958,14 +958,14 @@ E
 -
 -
 Kleiner Grenzverkehr, Grenzgebietsabkommen, Deputatkohle
-
-
-
+ 
+ 
+ 
 34.
 Im Verkehr zwischen Personen, die in benachbarten, durch zwischenstaatliche Abkommen festgelegten Grenzzonen oder in benachbarten grenznahen Räumen ansässig sind (kleiner Grenzverkehr):
-
-
-
+ 
+ 
+ 
 a)
 von diesen Personen mitgeführte Waren, die nicht zum Handel bestimmt sind und deren Wert achthundert Euro Mark täglich nicht übersteigt
 E
@@ -993,18 +993,18 @@ A
 -
 38.
 (weggefallen)
-
-
-
+ 
+ 
+ 
 39.
 Deputatkohle
 E
 A
 -
 Abfälle
-
-
-
+ 
+ 
+ 
 41.
 a)
 Abfälle und Fegsel - auch von Waren, die bereits als Einfuhr auf Lager oder als Einfuhr zur aktiven Veredelung angemeldet worden sind -, die bei der Beförderung oder Lagerung anfallen, soweit sie nach Menge und Wert nicht gewerblich verwertbar sind
@@ -1027,27 +1027,27 @@ E
 A
 D
 Brieftauben
-
-
-
+ 
+ 
+ 
 42.
 Brieftauben, die nicht Handelsware sind
 E
 A
 D
 Särge, Urnen, Grabschmuck
-
-
-
+ 
+ 
+ 
 43.
 Särge mit Verstorbenen, Urnen mit der Asche Verstorbener nebst den zugehörigen Gegenständen für ihre Ausschmückung; Gegenstände zum Ausbau, zum Erhalten oder Ausschmücken von Gräbern und Totengedenkstätten, wenn sie nicht Handelsware sind
 E
 A
 D
 Verteidigungsgut, Waren ausländischer Streitkräfte und ihrer Mitglieder
-
-
-
+ 
+ 
+ 
 44.
 a)
 Waren des freien Verkehrs, die vom Bundesministerium der Verteidigung oder einer ihm nachgeordneten Dienststelle zum Gebrauch oder Verbrauch oder zur vorübergehenden Lagerung (Depotverkehr) ausgeführt werden, wenn ein Formblatt für Militärtransporte der deutschen Bundeswehr (Formblatt 302) vorgelegt wird, das vom Bundesministerium der Verteidigung oder einer ihm nachgeordneten Dienststelle ausgestellt worden ist
@@ -1081,9 +1081,9 @@ A
 -
 45.
 Waren, die
-
-
-
+ 
+ 
+ 
 a)
 ausländische Streitkräfte (§ 20 Abs. 1 Satz 1) mit von ihnen erteilten amtlichen Bescheinigungen über die Grenze des Erhebungsgebietes verbringen oder verbringen lassen
 E
@@ -1101,9 +1101,9 @@ A
 -
 d)
 auf NATO-Versandschein über die Grenze des Erhebungsgebietes verbracht werden, soweit die Waren
-
-
-
+ 
+ 
+ 
 aa)
 zur Lagerung in einem NATO-Lager im Erhebungsgebiet oder für die ausländischen Streitkräfte bestimmt sind
 E
@@ -1120,9 +1120,9 @@ durch das Erhebungsgebiet durchgeführt werden
 -
 D
 Durchfuhrsendungen, Waren im Zwischenauslandsverkehr
-
-
-
+ 
+ 
+ 
 46.
 Waren, die durch das Erhebungsgebiet durchgeführt werden, ausgenommen Waren, die von See über die Häfen in den Städten Brake, Bremen, Bremerhaven, Emden, Hamburg, Kiel, Lübeck, Nordenham, Puttgarden, Rostock, Saßnitz oder Warnemünde in das Erhebungsgebiet eingehen oder über diese Häfen nach See aus dem Erhebungsgebiet ausgehen, und der Seeumschlag in diesen Häfen
 -

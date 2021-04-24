@@ -30,7 +30,7 @@ Allgemeines
 Verwendung von Positionslaternen
 § 10
 Kleine Fahrzeuge
-
+ 
 § 11
 Schallsignale der Binnenschiffe
 §§ 12 bis 18
@@ -138,14 +138,14 @@ Bußgeld- und Schlußvorschriften
 Ordnungswidrigkeiten
 § 62
 (Inkrafttreten; Aufhebung von Vorschriften)
-
+ 
 Anlage I
 Schiffahrtszeichen
-
+ 
 Vorbemerkungen
-
+ 
 Abschnitt I - Sichtzeichen
-
+ 
 A. Gebots- und Verbotszeichen
 Nr.
 A. 1
@@ -198,7 +198,7 @@ A.24
 Ein- und Ausfahren Gieselaukanal und Toter Travearm (Altarm der Teerhofinsel)
 A.25
 Einfahren in die Husumer Au
-
+ 
 B. Warnzeichen und Hinweiszeichen
 B. 1
 Fährstelle
@@ -234,7 +234,7 @@ B.16
 Kennzeichnung besonderer Gebiete und Stellen
 B.17
 Festmachetonne
-
+ 
 Abschnitt II - Schallsignale
 C. 1
 Anhalten
@@ -248,12 +248,12 @@ C. 5
 Einfahren in die Zufahrten und Schleusen des Nord-Ostsee-Kanals von See
 C. 6
 Einfahren in die Schleusen des Nord-Ostsee-Kanals vom Kanal aus
-
+ 
 Anlage II
 Sichtzeichen und Schallsignale der Fahrzeuge
-
+ 
 Erläuterung zur Anlage II
-
+ 
 II.1 Sichtzeichen der Fahrzeuge
 Nr.
 1
@@ -286,7 +286,7 @@ Am Ufer festgekommene Fahrzeuge auf dem Nord-Ostsee-Kanal
 Fahrzeuge, die einen Seelotsen anfordern
 16
 Fahrzeuge, die einen Seelotsen absetzen wollen
-
+ 
 II.2 Schallsignale der Fahrzeuge
 1
 Achtungssignal
@@ -304,10 +304,10 @@ Anforderungssignale "Brücke/Sperrtor/Schleuse öffnen"
 Schleppersignale
 8
 (aufgehoben)
-
+ 
 Anlage III
 Karte zu § 1 Abs. 5
-
+ 
 Anlage IV
 (aufgehoben)
 

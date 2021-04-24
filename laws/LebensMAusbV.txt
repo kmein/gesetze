@@ -234,7 +234,7 @@ Nutzen von Informations- und Kommunikationstechnik\\
 
 3
 
-
+ 
 
 6
 
@@ -246,7 +246,7 @@ Umsetzen von lebensmittel- und gewerberechtlichen Bestimmungen\\
 
 3
 
-
+ 
 
 7
 
@@ -261,12 +261,12 @@ Vorbereiten von Arbeitsabläufen; Arbeiten im Team\\
 
 6
 
-
+ 
 
 - f) :: Aufträge und Vorgaben auf Umsetzbarkeit prüfen, Lösungen teamorientiert entwickeln
 - g) :: Zeitaufwand und Personalbedarf ermitteln
 
-
+ 
 
 3
 
@@ -284,7 +284,7 @@ Durchführen von qualitätssichernden Maßnahmen\\
 
 4
 
-
+ 
 
 - g) :: Bedeutung und Wirksamkeit qualitätssichernder Maßnahmen für den betrieblichen Ablauf beurteilen
 - h) :: Betriebsmittel unter Berücksichtigung ihrer Wirkung auf Lebensmittel lagern
@@ -292,7 +292,7 @@ Durchführen von qualitätssichernden Maßnahmen\\
 - j) :: Rezepturen und Arbeitsgänge unter dem Gesichtspunkt der Qualitätssicherung prüfen
 - k) :: Hygienepläne erstellen und anwenden
 
-
+ 
 
 4
 
@@ -311,7 +311,7 @@ Kundenberatung, Verkauf von Produkten\\
 
 12
 
-
+ 
 
 - h) :: Kunden über Zutaten von Erzeugnissen informieren
 - i) :: Ergänzungs-, Ersatz- oder Zusatzangebote unterbreiten
@@ -324,7 +324,7 @@ Kundenberatung, Verkauf von Produkten\\
 - p) :: Aufträge und Bestellungen entgegennehmen und bearbeiten
 - q) :: Trends erfassen und innerbetrieblich weiterleiten
 
-
+ 
 
 20
 
@@ -339,11 +339,11 @@ Handhaben und Pflegen von Anlagen, Maschinen und Geräten\\
 
 6
 
-
+ 
 
 - d) :: Fehlfunktionen an Anlagen, Geräten und Maschinen erkennen und Maßnahmen zur Behebung einleiten
 
-
+ 
 
 2
 
@@ -361,7 +361,7 @@ Lagern und Kontrollieren von Lebensmitteln, Verpackungsmaterial und Betriebsmitt
 
 7
 
-
+ 
 
 12
 
@@ -376,14 +376,14 @@ Durchführen von Geschäftsverkehr Kassenanweisungen beachten\\
 
 4
 
-
+ 
 
 - f) :: Lieferscheine und Rechnungen ausstellen, Rabatte und Skonti berechnen
 - g) :: verbindliche Angebote nach betrieblicher Vorgabe unterbreiten
 - h) :: Wareneingangs- und Warenbestandslisten führen
 - i) :: Inventur durchführen, Ursachen von Differenzen feststellen
 
-
+ 
 
 6
 
@@ -397,12 +397,12 @@ Durchführen von Werbung und Verkaufsförderung\\
 
 6
 
-
+ 
 
 - c) :: Werbung für Einzelprodukte durchführen
 - d) :: Werbeaktionen, insbesondere mit regionalen und jahreszeitlichen Themen und Formen, planen und durchführen
 
-
+ 
 
 8
 
@@ -416,13 +416,13 @@ Verpacken und Aushändigen von Waren\\
 
 2
 
-
+ 
 
 - c) :: Waren anlassbezogen dekorieren und verpacken
 - d) :: Waren versandfertig verpacken
 - e) :: Waren unter Berücksichtigung von Produkteigenschaften transportieren, beim Kunden herrichten
 
-
+ 
 
 4
 
@@ -438,11 +438,11 @@ Präsentieren von Waren\\
 
 5
 
-
+ 
 
 - e) :: Verkaufsräume, auch zu besonderen Anlässen, gestalten
 
-
+ 
 
 5
 
@@ -459,7 +459,7 @@ Umgang mit Waren, Fachberatung\\
 
 16
 
-
+ 
 
 17
 
@@ -471,13 +471,13 @@ Herstellen von Gerichten\\
 
 4
 
+ 
 
-
-
+ 
 
 Abschnitt II: Berufsausbildung in Schwerpunkten
 
-
+ 
 
 A. Schwerpunkt Bäckerei
 
@@ -520,7 +520,7 @@ Umgang mit Waren, Fachberatung\\
 - l) :: Erzeugnisse abbacken
 - m) :: Zusatzsortiment pflegen und gestalten
 
-
+ 
 
 18
 
@@ -535,11 +535,11 @@ Herstellen von Gerichten\\
 - d) :: herzhafte Teigspeisen abbacken
 - e) :: Süßspeisen herstellen
 
-
+ 
 
 8
 
-
+ 
 
 B. Schwerpunkt Konditorei
 
@@ -561,7 +561,7 @@ Umgang mit Waren, Fachberatung\\
 - k) :: Erzeugnisse verzehrfertig anrichten und servieren, insbesondere Servierort vor- und nachbereiten
 - l) :: Zusatzsortiment pflegen und gestalten
 
-
+ 
 
 12
 
@@ -579,11 +579,11 @@ Herstellen von Gerichten\\
 - g) :: Gerichte mit Fleisch und Gemüse zubereiten
 - h) :: Gerichte servieren
 
-
+ 
 
 14
 
-
+ 
 
 C. Schwerpunkt Fleischerei
 
@@ -603,7 +603,7 @@ Umgang mit Waren, Fachberatung\\
 - i) :: kalte und warme Buffets sowie Menüs zusammenstellen
 - j) :: Spezialitäten- und Delikatessensortiment pflegen und präsentieren
 
-
+ 
 
 20
 
@@ -618,6 +618,6 @@ Herstellen von Gerichten\\
 - d) :: Feinkostsalate herstellen
 - e) :: Süßspeisen und Desserts herstellen
 
-
+ 
 
 6

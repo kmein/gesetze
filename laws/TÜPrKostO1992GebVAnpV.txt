@@ -39,31 +39,31 @@ Für die Prüfung von Dampfkesselanlagen werden folgende Gebühren erhoben:
 
 \\
 
-
+ 
 
 bis 100 qm Heizfläche
 
 3,04 x H + 110,-,
 
-
+ 
 
 über 100 qm bis 500 qm Heizfläche
 
 1,24 x H + 283,-,
 
-
+ 
 
 über 500 qm bis 3.000 qm Heizfläche
 
 1,04 x H + 377,-,
 
-
+ 
 
 über 3.000 qm Heizfläche
 
 0,94 x H + 629,-,
 
-
+ 
 
 - b) :: bei elektrisch beheizten Dampfkesseln nach der elektrischen Leistung N in kW und beträgt in DM
 
@@ -85,7 +85,7 @@ Bei Abgaswasservorwärmern, die vom Dampfkessel wasserseitig absperrbar sind, be
 
 Bei Dampfkesseln beträgt der Zuschlag für die Prüfung der Einrichtungen für den Betrieb
 
-
+ 
 
 - a) :: mit ständiger Beaufsichtigung von einer Warte aus oder mit eingeschränkter Beaufsichtigung oder ohne ständige Beaufsichtigung über 24 Stunden
 
@@ -101,43 +101,43 @@ Bei Heißwassererzeugern, die ein Ausdehnungsgefäß oder einen\\
 Auffangbehälter besitzen, beträgt der Zuschlag jeweils bei\\
 einem Rauminhalt
 
-
+ 
 
 bis 50 Liter
 
 90,- DM,
 
-
+ 
 
 über 50 Liter bis 400 Liter
 
 105,- DM,
 
-
+ 
 
 über 400 Liter bis 2.000 Liter
 
 142,- DM,
 
-
+ 
 
 über 2.000 Liter bis 5.000 Liter
 
 189,- DM,
 
-
+ 
 
 über 5.000 Liter bis 10.000 Liter
 
 225,- DM,
 
-
+ 
 
 über 10.000 Liter
 
 225,- DM
 
-
+ 
 
 und zusätzlich je weitere und angefangene 10.000 Liter
 
@@ -158,21 +158,21 @@ n
 
 Anzahl der Rohre in der Rohrwand, wobei jedoch höchstens folgende Rohrzahl zugrunde gelegt werden darf:
 
+ 
 
-
-
+ 
 
 b
 
-
+ 
 
 n(tief)max =
 
 ------------
 
+ 
 
-
-
+ 
 
 2 x d(tief)a
 
@@ -401,7 +401,7 @@ Flaschenbündeln (Gestelle und Ausrüstung) und Treibgastanks
 
 Fahrzeugbehältern und Containern (im Werksverkehr)
 
-
+ 
 
 -
 
@@ -417,7 +417,7 @@ für flüssige tiefkalte Druckgase
 
 Bei Behälterbaugruppen mit gleichem Durchmesser wird nur ein Behälter berechnet.
 
-
+ 
 
 -  :: - 2.2.2 :: Werkstoffprüfung
   - 2.2.2.1 :: Für die Beurteilung und Auswertung der erforderlichen Prüfungen werden je Probesatz, bestehend aus 1 Zugprobe, 1 Satz Kerbschlagbiegeproben und 1 Faltprobe 40,- DM erhoben.
@@ -516,7 +516,7 @@ Für die Prüfung von Aufzugsanlagen und von Aufzugswärtern werden folgende Geb
 
 Grundgebühr
 
-
+ 
 
 Art der Aufzugsanlagen
 
@@ -530,37 +530,37 @@ a)
 
 Personenaufzug, vereinfachter Personenaufzug, Lastenaufzug, Güteraufzug
 
-
+ 
 
 b)
 
 Personen-Umlaufaufzug
 
-
+ 
 
 c)
 
 Mühlenaufzug
 
-
+ 
 
 d)
 
 Bauaufzug mit Personenbeförderung
 
-
+ 
 
 e)
 
 Bremsaufzug (Bremsfahrstuhl in Getreidemühlen)
 
-
+ 
 
 f)
 
 Behindertenaufzug
 
-
+ 
 
 Gruppe II:
 
@@ -570,31 +570,31 @@ a)
 
 Vereinfachter Güteraufzug mit Fangvorrichtung oder Aufsetzvorrichtung
 
-
+ 
 
 b)
 
 Unterfluraufzug mit Fangvorrichtung oder Aufsetzvorrichtung
 
-
+ 
 
 c)
 
 Lagerhausaufzug
 
-
+ 
 
 d)
 
 Kleingüteraufzug mit Fangvorrichtung
 
-
+ 
 
 e)
 
 Behälteraufzug mit Fangvorrichtung oder Aufsetzvorrichtung
 
-
+ 
 
 Gruppe III:
 
@@ -604,37 +604,37 @@ a)
 
 Vereinfachter Güteraufzug ohne Fangvorrichtung oder Aufsetzvorrichtung
 
-
+ 
 
 b)
 
 Unterfluraufzug ohne Fangvorrichtung oder Aufsetzvorrichtung
 
-
+ 
 
 c)
 
 Kleingüteraufzug ohne Fangvorrichtung
 
-
+ 
 
 d)
 
 Ablassvorrichtung
 
-
+ 
 
 e)
 
 Behälteraufzug ohne Fangvorrichtung oder Aufsetzvorrichtung
 
-
+ 
 
 f)
 
 Behindertenaufzug für ausschließlich private Nutzung
 
-
+ 
 
 Gruppe IV:
 
@@ -642,7 +642,7 @@ Gruppe IV:
 
 Fassadenaufzug
 
-
+ 
 
 -  :: -  :: Die noch als Lastenaufzüge mit Fangvorrichtung oder Aufsetzvorrichtung bezeichneten Aufzüge fallen unter die Gruppe I, die noch als Lastenaufzüge ohne Fangvorrichtung oder Aufsetzvorrichtung bezeichneten Aufzüge fallen unter die Gruppe II, und die noch als Kleinlastenaufzüge bezeichneten Aufzüge fallen unter die Gruppe III.
 
@@ -652,7 +652,7 @@ Fassadenaufzug
 
 Prüfungsfaktoren
 
-
+ 
 
 Art der Prüfung
 
@@ -668,23 +668,23 @@ IV
 
 Abnahmeprüfung
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 Prüfung der Anzeigeunterlagen
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 1.3.1
 
@@ -710,17 +710,17 @@ für die gleichzeitig eingereichten Unterlagen jeder weiteren Aufzugsanlage ders
 
 0,60
 
-
+ 
 
 Prüfung der Aufzugsanlage
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 1.3.3
 
@@ -752,23 +752,23 @@ Wiedererrichtung eines Bauaufzuges mit Personenbeförderung
 
 1,30
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 Wiederkehrende Prüfungen Hauptprüfung
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 1.3.6
 
@@ -810,7 +810,7 @@ Zwischenprüfung
 
 Zuschläge
 
-
+ 
 
 1.4.1
 
@@ -824,11 +824,11 @@ Bei mehr als 25m Förderhöhe beträgt der Zuschlag für jede weiteren und angef
 
 42,- DM.
 
-
+ 
 
 Dieser Zuschlag wird bei Zwischenprüfungen nicht erhoben, wenn Zuschläge nach Nummer 1.4.1 berechnet werden.
 
-
+ 
 
 1.4.3
 
@@ -836,11 +836,11 @@ Bei Aufzügen - ausgenommen Fassadenaufzüge mit mehr als 1.000 kg Tragfähigkei
 
 21,- DM.
 
-
+ 
 
 Dieser Zuschlag wird bei Zwischenprüfungen nicht erhoben.
 
-
+ 
 
 1.4.4
 
@@ -854,11 +854,11 @@ Bei Aufzügen, deren Geschwindigkeit nicht über den gesamten Fahrbereich durch 
 
 79,- DM.
 
-
+ 
 
 Dieser Zuschlag wird nicht erhoben bei hydraulischen Aufzügen mit von Kolben bewegten Lastaufnahmemitteln, deren Geschwindigkeit durch fest eingestellte Ventilquerschnitte oder festgelegte und elektrisch überwachte Schieberstellungen bestimmt ist.
 
-
+ 
 
 1.4.6
 
@@ -870,25 +870,25 @@ Bei maschinellem Antrieb von Fahrschacht- oder Fahrkorbtüren oder entsprechende
 
 Bei Aufzügen
 
+ 
 
-
-
+ 
 
 - mit elektrischer Steuerung für Einfahren und Nachstellen bei geöffneter Fahrschacht- oder Fahrkorbtür oder
 
-
+ 
 
 - mit Rampenfahrt oder
 
-
+ 
 
 - mit Umgehungsschaltung oder
 
-
+ 
 
 - mit hydraulischem Antrieb und Absinkverhinderungsschaltung
 
-
+ 
 
 beträgt der Zuschlag
 
@@ -896,7 +896,7 @@ beträgt der Zuschlag
 
 Dieser Zuschlag wird je Anlage nur einmal berechnet.
 
-
+ 
 
 1.4.8
 
@@ -978,13 +978,13 @@ Anhang V - Gebühren für die Prüfung von Anlagen zur Lagerung, Abfüllung und 
 
 Grundgebühr
 
+ 
 
-
-
+ 
 
 Die Grundgebühr beträgt
 
-
+ 
 
 für Läger für ortsbewegliche Gefäße
 
@@ -1006,13 +1006,13 @@ für Tankstellen
 
 Zuschläge
 
+ 
 
-
-
+ 
 
 Die Zuschläge betragen
 
-
+ 
 
 für Läger mit mehr als einem ortsfesten Tank je weiteren Tank
 
@@ -1030,13 +1030,13 @@ für Tankstellen mit mehr als vier Zapfventilen je weiteres Zapfventil
 
 Prüfungsfaktur
 
+ 
 
-
-
+ 
 
 Der Prüfungsfaktor beträgt
 
-
+ 
 
 für die Prüfung vor Inbetriebnahme
 
@@ -1058,13 +1058,13 @@ für die angeordnete Prüfung oder die Prüfung vor Wiederinbetriebnahme
 
 Höchstgebühr
 
+ 
 
-
-
+ 
 
 Die Höchstgebühr beträgt
 
-
+ 
 
 für die Prüfung von Lägern mit ortsfesten Tanks
 
@@ -1082,31 +1082,31 @@ für die Prüfung von Tankstellen
 
 Unterirdische und oberirdische Tanks, ausgenommen Flachbodentanks
 
-
+ 
 
 2.1
 
 Bemessungsgrundlage
 
+ 
 
-
-
+ 
 
 Die je Prüfung zu erhebende Gebühr besteht aus der Grundgebühr nach Nummer 2.1.1, die mit dem Prüfungsfaktor nach Nummer 2.1.2 vervielfacht wird.
 
-
+ 
 
 2.1.1
 
 Grundgebühr
 
+ 
 
-
-
+ 
 
 Die Grundgebühr beträgt für Tanks mit einem Rauminhalt
 
-
+ 
 
 bis 10.000 Liter
 
@@ -1124,19 +1124,19 @@ bis 10.000 Liter
 
 Prüfungsfaktur
 
-
+ 
 
 2.1.2.1
 
 Bei Prüfungen vor Inbetriebnahme oder nach
 
+ 
 
-
-
+ 
 
 wesentlichen Änderungen beträgt der Prüfungsfaktor
 
-
+ 
 
 für die Vorprüfung ohne Nachberechnung der statischen Berechnung
 
@@ -1182,9 +1182,9 @@ für die Ordnungsprüfung (soweit diese getrennt durchgeführt wird)
 
 Bei wiederkehrenden oder angeordneten Prüfungen oder Prüfungen vor Wiederinbetriebnahme beträgt der Prüfungsfaktor
 
+ 
 
-
-
+ 
 
 für die äußere Prüfung
 
@@ -1214,31 +1214,31 @@ für die Ordnungsprüfung (soweit diese getrennt durchgeführt wird)
 
 Flachbodentanks
 
-
+ 
 
 3.1
 
 Bemessungsgrundlage
 
+ 
 
-
-
+ 
 
 Die je Prüfung zu erhebende Gebühr besteht aus der Grundgebühr nach Nummer 3.3.1, die mit dem Prüfungsfaktor nach Nummer 3.1.2 vervielfacht wird.
 
-
+ 
 
 3.1.1
 
 Grundgebühr
 
+ 
 
-
-
+ 
 
 Die Grundgebühr beträgt für Tanks mit einem Rauminhalt
 
-
+ 
 
 bis 5.000 cbm
 
@@ -1264,19 +1264,19 @@ und zusätzlich je weiteren und angefangenen 10.000 cbm
 
 Prüfungsfaktur
 
-
+ 
 
 3.1.2.1
 
 Bei Prüfungen vor Inbetriebnahme oder nach
 
+ 
 
-
-
+ 
 
 wesentlichen Änderungen beträgt der Prüfungsfaktor
 
-
+ 
 
 für die Vorprüfung ohne Nachrechnung der statischen Berechnungen
 
@@ -1314,9 +1314,9 @@ für die Ordnungsprüfung (soweit diese getrennt durchgeführt wird)
 
 Bei wiederkehrenden oder angeordneten Prüfungen und Prüfungen vor Wiederinbetriebnahme beträgt der Prüfungsfaktor
 
+ 
 
-
-
+ 
 
 für die innere Prüfung
 
@@ -1361,21 +1361,21 @@ für die Ordnungsprüfung (soweit diese getrennt durchgeführt wird)
   - 8.1 :: Elektrische Einrichtungen
   - 8.1.1 :: Für die Prüfung der elektrischen Einrichtungen von Lägern und Füllstellen werden für jede in sich geschlossene Anlage eine Grundgebühr von 73,- DM und folgende Zuschläge erhoben:
 
-
+ 
 
 explosionsgeschützte Bauart in DM
 
 normale Bauart in DM
 
-
+ 
 
 für jedes Gerät (Motoren, Transformatoren, Umformer, Gleichrichter)
 
+ 
 
+ 
 
-
-
-
+ 
 
 - bis zu einer Leistung von je 15 kW
 
@@ -1383,7 +1383,7 @@ für jedes Gerät (Motoren, Transformatoren, Umformer, Gleichrichter)
 
 14,-,
 
-
+ 
 
 - bis zu einer Leistung von je mehr als 15 kW
 
@@ -1391,7 +1391,7 @@ für jedes Gerät (Motoren, Transformatoren, Umformer, Gleichrichter)
 
 24,-,
 
-
+ 
 
 für jede Leuchte
 
@@ -1399,7 +1399,7 @@ für jede Leuchte
 
 6,-.
 
-
+ 
 
 Die Gebühr für die Prüfung der Schalt- und Verteilungsanlagen ist in vorstehenden Sätzen enthalten. Für die Prüfung der Mess-, Steuer- und Regelanlagen werden Gebühren nach Nummer 11 erhoben.
 
@@ -1407,13 +1407,13 @@ Die Gebühr für die Prüfung der Schalt- und Verteilungsanlagen ist in vorstehe
 
 Für die Prüfung der elektrischen Einrichtungen von Tankstellen werden folgende Gebühren erhoben
 
-
+ 
 
 8.1.2.1
 
 für die Prüfung von Abgabeeinrichtungen
 
-
+ 
 
 - für jede Förder- und Abgabeeinheit
 
@@ -1435,19 +1435,19 @@ für die Prüfung von Gasrückführsystemen je Einzelanlage
 
 Für die Prüfung sonstiger elektrischer Einrichtungen werden Gebühren nach Nummer 11 erhoben.
 
-
+ 
 
 8.2
 
 Einrichtungen für den Blitzschutz
 
-
+ 
 
 8.2.1
 
 Für die Prüfung der Einrichtung für den Blitzschutz wird für jede in sich geschlossene Anlage
 
-
+ 
 
 eine Grundgebühr von
 
@@ -1459,19 +1459,19 @@ und ein Zuschlag für jede Trennstelle von
 
 erhoben.
 
-
+ 
 
 8.3
 
 Einrichtungen für den kathodischen Korrosionsschutz
 
-
+ 
 
 8.3.1
 
 Für die Prüfung des kathodischen Korrosionsschutzes an Tankstellen werden erhoben
 
-
+ 
 
 Prüfung nach VDE 0165 je Abgabeeinrichtung
 
@@ -1497,7 +1497,7 @@ für jede Anode ein Zuschlag von
 
 Für die Prüfung auf Erfordernis eines kathodischen Korrosionsschutzes an Tankstellen werden erhoben
 
-
+ 
 
 Messung des spezifischen Bodenwiderstandes
 
@@ -1541,7 +1541,7 @@ Ermittlung des Ausbreitungswiderstandes je Tank
     Für die über 150 km hinausgehende Leitungslänge beträgt die entsprechende Minderung 50 v.H., für die über 225 km hinausgehende Leitungslänge 65 v.H.
   - 9.2 :: Der Zahlenwert für den Faktor d wird wie folgt bestimmt:
 
-
+ 
 
 Außendurchmesser der Fernleitung in mm
 
@@ -1553,7 +1553,7 @@ Festigkeits- und Dichtheitsprüfung
 
 Abnahmeprüfung
 
-
+ 
 
 1
 
@@ -1615,19 +1615,19 @@ Abnahmeprüfung
 
 1,4
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 Außendurchmesser der Fernleitung in mm
 
 Wiederkehrende Prüfung (bei Medium)
 
-
+ 
 
 Rohöl
 
@@ -1669,7 +1669,7 @@ Produkt
 
 1,08
 
-
+ 
 
 Ergeben sich hiernach bei den erstmaligen Prüfungen von Leitungen bis zu 273,1 mm Durchmesser unverhältnismäßig hohe Gebühren, so ist die Gebühr entsprechend dem tatsächlichen Aufwand zu mindern.
 
@@ -1677,9 +1677,9 @@ Ergeben sich hiernach bei den erstmaligen Prüfungen von Leitungen bis zu 273,1 
 
 Die Zahlenwerte für den Faktor A und die Mindestlänge l betragen:
 
+ 
 
-
-
+ 
 
 Vorprüfung
 
@@ -1719,21 +1719,21 @@ Faktor A
 
 1.121
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 Wiederkehrende Prüfungen außer Prüfungen des KKS 2) 3)
 
 Wiederkehrende Prüfungen des KKS 3)
 
-
+ 
 
 1
 
@@ -1753,7 +1753,7 @@ Faktor A
 
 42
 
-
+ 
 
 - 1) :: Bei einer Dichtheitsprüfung, die aus einer äußeren Besichtigung besteht, beträgt die Mindestlänge l = 1 km.
 - 2) :: Für jede zusätzliche Dichtheitsprüfung beträgt der Zahlenwert für den Faktor A 16.
@@ -1763,7 +1763,7 @@ Faktor A
 
 Der Zahlenwert für den Faktor B ergibt sich aus den nachstehenden Tabellen. Er errechnet sich aus der Summe der auf jeweils eine Station bezogenen Hilfswerte B 1 bis B 5.
 
-
+ 
 
 Station
 
@@ -1849,13 +1849,13 @@ B 5
 
 7.427
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 Station
 
@@ -1865,7 +1865,7 @@ Wiederkehrende Prüfung der elektrotechnischen Einrichtungen
 
 Wiederkehrende Prüfung der Dichtheit an Slopsystemen
 
-
+ 
 
 1
 
@@ -1915,7 +1915,7 @@ Sicherheits-bzw. Entlastungsstation
 
 314
 
-
+ 
 
 Werden bei einer Fernleitung mehrere artgleiche Stationen gleichzeitig zur Vorprüfung gestellt, so werden für die zweite und alle weiteren Stationen nur 50 v.H. der Tabellenwerte eingesetzt. Dient eine Station mehreren Funktionen, so gilt für diese Station der Gebührensatz, der ihrer Hauptfunktion entspricht, die weiteren Funktionen werden mit 50 v.H. des für sie vorgesehenen Gebührensatzes berechnet.
 
@@ -1923,11 +1923,11 @@ Werden bei einer Fernleitung mehrere artgleiche Stationen gleichzeitig zur Vorpr
 
 Die Zahlenwerte für den Faktor C und die Mindestgebühren betragen:
 
+ 
 
+ 
 
-
-
-
+ 
 
 Durchführung von Dehnungsmessungen
 
@@ -1939,13 +1939,13 @@ Ermittlung neuer Nullwerte für Dehnungsmessungen
 
 Faktor C
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 DMS-Messgitter
 
@@ -1969,13 +1969,13 @@ SDM-Messlängen
 
 Die Gebühren je Prüfung betragen jedoch in DM mindestens
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 DMS-Messgitter
 

@@ -239,13 +239,13 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 § 7 - Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
-(2) Im Prüfungsteil Grundlegende Qualifikationen“ sind die Prüfungsleistungen für jeden Prüfungsbereich einzeln zu bewerten. Aus den einzelnen Bewertungen ist als Bewertung für den Prüfungsteil das arithmetische Mittel zu berechnen.
-(3) Im Prüfungsteil Handlungsspezifische Qualifikationen“ sind als Prüfungsleistungen zu bewerten:
+(2) Im Prüfungsteil „Grundlegende Qualifikationen“ sind die Prüfungsleistungen für jeden Prüfungsbereich einzeln zu bewerten. Aus den einzelnen Bewertungen ist als Bewertung für den Prüfungsteil das arithmetische Mittel zu berechnen.
+(3) Im Prüfungsteil „Handlungsspezifische Qualifikationen“ sind als Prüfungsleistungen zu bewerten:
 
 - 1. :: die beiden schriftlichen Situationsaufgaben nach § 5 Absatz 2 und
 - 2. :: das Fachgespräch nach § 5 Absatz 6.
 
-Aus den Bewertungen für die beiden schriftlichen Situationsaufgaben und der Bewertung für das Fachgespräch ist als Bewertung des Prüfungsteils Handlungsspezifische Qualifikationen“ das arithmetische Mittel zu berechnen.
+Aus den Bewertungen für die beiden schriftlichen Situationsaufgaben und der Bewertung für das Fachgespräch ist als Bewertung des Prüfungsteils „Handlungsspezifische Qualifikationen“ das arithmetische Mittel zu berechnen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
@@ -253,22 +253,22 @@ Aus den Bewertungen für die beiden schriftlichen Situationsaufgaben und der Bew
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
-- 1. :: in jedem Prüfungsbereich des Prüfungsteils Grundlegende Qualifikationen“,
-- 2. :: im Prüfungsteil Handlungsspezifische Qualifikationen“
+- 1. :: in jedem Prüfungsbereich des Prüfungsteils „Grundlegende Qualifikationen“,
+- 2. :: im Prüfungsteil „Handlungsspezifische Qualifikationen“
   - a) :: in jeder der beiden schriftlichen Situationsaufgaben und
   - b) :: im Fachgespräch.
 
 (2) Ist die Prüfung bestanden, so werden die folgenden Bewertungen jeweils kaufmännisch auf eine ganze Zahl gerundet:
 
-- 1. :: die Bewertung für den Prüfungsteil Grundlegende Qualifikationen“,
-- 2. :: die Bewertung für den Prüfungsteil Handlungsspezifische Qualifikationen“,
+- 1. :: die Bewertung für den Prüfungsteil „Grundlegende Qualifikationen“,
+- 2. :: die Bewertung für den Prüfungsteil „Handlungsspezifische Qualifikationen“,
 - 3. :: die Bewertung der Situationsaufgabe, in der eine mündliche Ergänzungsprüfung durchgeführt wurde.
 
-(3) Den einzelnen Bewertungen für den Prüfungsteil Grundlegende Qualifikationen“, für die beiden Situationsaufgaben und für das Fachgespräch ist nach Anlage 1 die jeweilige Note als Dezimalzahl zuzuordnen.
+(3) Den einzelnen Bewertungen für den Prüfungsteil „Grundlegende Qualifikationen“, für die beiden Situationsaufgaben und für das Fachgespräch ist nach Anlage 1 die jeweilige Note als Dezimalzahl zuzuordnen.
 (4) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das gewichtete arithmetische Mittel zu berechnen. Dabei werden die Bewertungen wie folgt gewichtet:
 
-- 1. :: die Bewertung für den Prüfungsteil Grundlegende Qualifikationen“ mit 25 Prozent,
-- 2. :: die Bewertung für den Prüfungsteil Handlungsspezifische Qualifikationen“ mit 75 Prozent.
+- 1. :: die Bewertung für den Prüfungsteil „Grundlegende Qualifikationen“ mit 25 Prozent,
+- 2. :: die Bewertung für den Prüfungsteil „Handlungsspezifische Qualifikationen“ mit 75 Prozent.
 
 Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerundeten Gesamtpunktzahl ist nach Anlage 1 eine Note als Dezimalzahl und die Note in Worten zuzuordnen. Die zugeordnete Note ist die Gesamtnote.
 
@@ -327,14 +327,14 @@ Teil A -- Zeugnis ohne Prüfungsergebnisse:
 Teil B -- Zeugnis mit Prüfungsergebnissen:
 Alle Angaben des Teils A sowie zusätzlich:
 
-- 1. :: zum Prüfungsteil Grundlegende Qualifikationen“
+- 1. :: zum Prüfungsteil „Grundlegende Qualifikationen“
   - a) :: Benennung dieses Prüfungsteils und Bewertung mit Note sowie
   - b) :: Benennung der Prüfungsbereiche und Bewertung mit Punkten,
-- 2. :: zum Prüfungsteil Handlungsspezifische Qualifikationen“
+- 2. :: zum Prüfungsteil „Handlungsspezifische Qualifikationen“
   - a) :: Benennung dieses Prüfungsteils,
-  - b) :: Benennung der Situationsaufgabe im Handlungsbereich Technik“ und Bewertung mit Note,
-  - c) :: Benennung der Situationsaufgabe im Handlungsbereich Organisation“ und Bewertung mit Note,
-  - d) :: Benennung der Situationsaufgabe im Handlungsbereich Führung und Personal“ und Bewertung mit Note sowie
+  - b) :: Benennung der Situationsaufgabe im Handlungsbereich „Technik“ und Bewertung mit Note,
+  - c) :: Benennung der Situationsaufgabe im Handlungsbereich „Organisation“ und Bewertung mit Note,
+  - d) :: Benennung der Situationsaufgabe im Handlungsbereich „Führung und Personal“ und Bewertung mit Note sowie
   - e) :: Benennung des situationsbezogenen Fachgesprächs und des Handlungsbereichs und Bewertung mit Note,
 - 3. :: die errechnete Gesamtpunktzahl für die gesamte Prüfung,
 - 4. :: die Gesamtnote als Dezimalzahl,

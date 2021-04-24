@@ -11,7 +11,7 @@ Auf Grund der §§ 14 und 131l der Wirtschaftsprüferordnung in der Fassung der 
 Inhaltsübersicht
 
 Erster Teil
-
+ 
 Prüfungsverfahren nach § 14 der Wirtschaftsprüferordnung
 § 1
 Antrag auf Zulassung zur Prüfung
@@ -66,7 +66,7 @@ Täuschungsversuch, Ordnungsverstöße
 § 24a
 Einsicht in Prüfungsakten
 Zweiter Teil
-
+ 
 Prüfungsverfahren nach § 131l der Wirtschaftsprüferordnung
 § 25
 Antrag auf Zulassung zur Prüfung
@@ -91,7 +91,7 @@ Täuschungsversuch, Ordnungsverstöße
 § 35
 Einsicht in Prüfungsakten
 Dritter Teil
-
+ 
 Übergangsregelungen
 § 36
 Behandlung schwebender Verfahren

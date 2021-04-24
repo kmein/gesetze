@@ -252,7 +252,7 @@ Die Anerkennungsstelle teilt das Ergebnis der Beschaffenheitsprüfung dem Antrag
 - 8. :: im Falle der Anerkennung die Kategorie und die Anerkennungsnummer,
 - 9. :: die Entscheidung über den Antrag nach § 4 Absatz 8.
 
-(2) Die Anerkennungsnummer setzt sich aus den Buchstaben DE”, dem von der Anerkennungsstelle genutzten Länderkennzeichen (Kennzeichen der Anerkennungsstelle), der Angabe der letzten Ziffer der Jahreszahl der Anerkennung, einem Gedankenstrich sowie einer mehrstelligen, von der Anerkennungsstelle festgesetzten Zahl zusammen.
+(2) Die Anerkennungsnummer setzt sich aus den Buchstaben „DE”, dem von der Anerkennungsstelle genutzten Länderkennzeichen (Kennzeichen der Anerkennungsstelle), der Angabe der letzten Ziffer der Jahreszahl der Anerkennung, einem Gedankenstrich sowie einer mehrstelligen, von der Anerkennungsstelle festgesetzten Zahl zusammen.
 (3) Die Anerkennungsstelle benachrichtigt den Vermehrer von der Erteilung des Bescheides.
 (4) Erfüllt Saatgut, dessen Anerkennung als Basissaatgut beantragt worden ist, nicht die Anforderungen für Basissaatgut, so wird es auf Antrag als Zertifiziertes Saatgut anerkannt, wenn es aus anerkanntem Vorstufensaatgut erwachsen ist und die Anforderungen für Zertifiziertes Saatgut erfüllt. Dies gilt nicht für Sorten, deren Pflanzen durch Kreuzung bestimmter Erbkomponenten erzeugt werden.
 (5) Für die Entscheidung über den Antrag nach Absatz 1 Nummer 9 berücksichtigt die zuständige Anerkennungsstelle die im Juli 2013 mit Kapitel 2.5.4.1 Buchstaben c und d in Verbindung mit Kapitel 2.5.4.2 in die Internationalen Vorschriften für die Prüfung von Saatgut der Internationalen Vereinigung für Saatgutprüfung Ausgabe 2013<<FnR.F783963_02>>[[#F783963_02][*]]} aufgenommenen Bedingungen für die Beprobung und Prüfung der Heterogenität großer Saatgutpartien von Gräsern.
@@ -456,7 +456,7 @@ Saatgutmischungen für andere als die in Absatz 2 genannten Verwendungszwecke d�
 
 § 27 - Antrag, Probenahme
 
-(1) Wer eine Saatgutmischung herstellen will, hat für jede Partie der Mischung eine Mischungsnummer bei der Anerkennungsstelle zu beantragen, in deren Bereich die Mischung hergestellt werden soll. Die Mischungsnummer setzt sich aus den Buchstaben DEM” zusammen. Das Höchstgewicht einer Partie ergibt sich aus Anlage 4 Nr. 7. Das Höchstgewicht einer Partie von Saatgutmischungen von Gemüsesorten einer Gemüseart ist in Anlage 4 Nummer 6 festgelegt.
+(1) Wer eine Saatgutmischung herstellen will, hat für jede Partie der Mischung eine Mischungsnummer bei der Anerkennungsstelle zu beantragen, in deren Bereich die Mischung hergestellt werden soll. Die Mischungsnummer setzt sich aus den Buchstaben „DE”, dem von der Anerkennungsstelle genutzten Länderkennzeichen (Kennzeichen der Anerkennungsstelle), der Angabe der letzten Ziffer der Jahreszahl der Herstellung der Mischung, einem Gedankenstrich sowie einer mehrstelligen, von der Anerkennungsstelle festgesetzten Zahl und dem Buchstaben „M” zusammen. Das Höchstgewicht einer Partie ergibt sich aus Anlage 4 Nr. 7. Das Höchstgewicht einer Partie von Saatgutmischungen von Gemüsesorten einer Gemüseart ist in Anlage 4 Nummer 6 festgelegt.
 (2) Für den Antrag ist ein Vordruck der Anerkennungsstelle zu verwenden.
 (3) Der Antragsteller hat im Antrag
 
@@ -491,7 +491,7 @@ Das Bundessortenamt verbindet die Genehmigung nach § 3 Absatz 2 des Saatgutverk
 
 (1) Vor oder bei der Probenahme nach § 11 Abs. 1, § 24 Abs. 3 Nr. 1 und § 27 Abs. 5 ist jede Packung oder jedes Behältnis des Saatgutes durch den Probenehmer oder unter seiner Aufsicht mit einem Etikett zu kennzeichnen. Als Etikett gilt auch ein Klebeetikett der Anerkennungsstelle.
 (2) Jede Packung oder jedes Behältnis von Standardsaatgut ist von demjenigen, der das Saatgut als erster zu gewerblichen Zwecken in den Verkehr bringt oder neu verpackt und zu gewerblichen Zwecken in den Verkehr bringt, mit einem Etikett zu kennzeichnen. Bei Standardsaatgut, das in einem anderen Vertragsstaat in der in Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union bestimmten Form gekennzeichnet und geschlossen worden ist, entfällt diese Verpflichtung für denjenigen, der es, ohne es neu zu verpacken, im Inland zu gewerblichen Zwecken in den Verkehr bringt.
-(3) Das Etikett muss rechteckig und mindestens 110 x 67 mm groDE”, einer Zahl und einem dem Kennzeichen der Anerkennungsstelle nach § 14 Abs. 2 entsprechenden Kennzeichen der Nachkontrollstelle. Die Bezugsnummer bei Standardsaatgut (Anlage 5 Nr. 2.6) setzt sich aus der Betriebsnummer, der vom Betrieb festgesetzten Partienummer und den Buchstaben "St" zusammen.
+(3) Das Etikett muss rechteckig und mindestens 110 x 67 mm groß sein, die jeweilige Kennfarbe haben und als unverwischbaren Aufdruck die jeweiligen Angaben nach Anlage 5 enthalten; sie können auch zusätzlich in anderen Sprachen gemacht werden. Die amtlich zugeteilte Seriennummer wird bei Saatgut nach Anlage 5 Nummer 1 bis 6 von der zuständigen Anerkennungsstelle vergeben. Die Betriebsnummer bei Standardsaatgut (Anlage 5 Nr. 2.3) wird von der Nachkontrollstelle, in deren Bereich der Betrieb liegt, auf Antrag festgesetzt; sie setzt sich zusammen aus den Buchstaben „DE”, einer Zahl und einem dem Kennzeichen der Anerkennungsstelle nach § 14 Abs. 2 entsprechenden Kennzeichen der Nachkontrollstelle. Die Bezugsnummer bei Standardsaatgut (Anlage 5 Nr. 2.6) setzt sich aus der Betriebsnummer, der vom Betrieb festgesetzten Partienummer und den Buchstaben "St" zusammen.
 (4) Bei Monogermsaatgut und Präzisionssaatgut muss das Etikett zusätzlich die Angabe "Monogermsaatgut" beziehungsweise "Präzisionssaatgut" sowie die angegebenen Ober- und Untergrenzen der Sortierung (Kaliber) enthalten.
 (5) Bei Hybridsorten muss auf dem Etikett zusätzlich zur Sortenbezeichnung angegeben sein:
 
@@ -668,16 +668,16 @@ Ergibt die erneute Beschaffenheitsprüfung nach § 15, dass die Anforderungen an
 (2) Bei Kleinpackungen sind die Kennzeichnung und Verschließung durch den Probenehmer oder unter seiner Aufsicht sowie die Verwendung von Verschlusssicherungen nach § 34, bei Kleinpackungen von Standardsaatgut die Sicherung nach § 38 Abs. 1 Satz 1 nicht erforderlich.
 (3) Bei Kleinpackungen sind zur Kennzeichnung die Angaben nach Anlage 6 Nr. 1.2, 2.2 und 3.2 an oder auf der Packung anzubringen. Werden die Angaben auf einem Etikett oder bei Klarsichtpackungen, bei denen die Angaben durch die Verpackung hindurch deutlich lesbar sind, auf einem eingelegten Etikett gemacht, so muss das Etikett die jeweilige Kennfarbe haben.
 (4) Bei Standardsaatgut kann die Angabe nach Anlage 6 Nr. 2.2.7 verschlüsselt angegeben werden; das Bundessortenamt gibt den jeweils anzuwendenden Jahresschlüssel bekannt.
-(5) Die in Anlage 6 Nr. 1.2.2, 2.2.2 und 3.2.2 vorgesehene Betriebsnummer wird für Betriebe, die Kleinpackungen herstellen, von der Anerkennungsstelle, in deren Bereich der Betrieb liegt, auf Antrag festgesetzt. Die Betriebsnummer setzt sich aus den Buchstaben DE”, einer Zahl und dem Kennzeichen der Anerkennungsstelle zusammen.
+(5) Die in Anlage 6 Nr. 1.2.2, 2.2.2 und 3.2.2 vorgesehene Betriebsnummer wird für Betriebe, die Kleinpackungen herstellen, von der Anerkennungsstelle, in deren Bereich der Betrieb liegt, auf Antrag festgesetzt. Die Betriebsnummer setzt sich aus den Buchstaben „DE”, einer Zahl und dem Kennzeichen der Anerkennungsstelle zusammen.
 (6) Die nach Anlage 6 Nr. 1.2.5, 2.2.5 und 3.2.4 erforderliche Kennnummer der Partie wird Betrieben, die Kleinpackungen herstellen, von der zuständigen Anerkennungsstelle auf Antrag zugeteilt. Die Kennnummer setzt sich aus der Betriebsnummer des die Kleinpackungen herstellenden Betriebes und einer für jeden Antrag des Betriebes festgesetzten laufenden Nummer zusammen; der Betrieb kann dieser laufenden Nummer eine durch einen Bindestrich abgesetzte weitere laufende Nummer für jede Packung hinzufügen. Bei Standardsaatgut ist anstelle der Kennnummer eine Partienummer nach Anlage 6 Nr. 2.2.6 anzugeben. Auf Antrag kann die Anerkennungsstelle Betrieben, die Saatgutmischungen nach der Herstellung unmittelbar in Kleinpackungen abpacken, Kennnummern zuteilen, die sich aus der Mischungsnummer und einer durch einen Bindestrich abgesetzten laufenden Nummer für jede Packung zusammensetzen.
 (7) Bei Kleinpackungen nach Anlage 6 Nr. 1.1.1, 1.1.2 und 3.1.2 sind die Kennnummer, die Angabe der Kategorie, der Füllmenge oder Stückzahl der Körner oder Knäuel entbehrlich, wenn die Kleinpackung mit einer amtlichen Klebemarke in der jeweiligen Kennfarbe versehen ist, die mindestens folgende Angaben enthält:
 
-- 1. :: die Buchstaben DE” und das Kennzeichen oder die Bezeichnung der Anerkennungsstelle,
+- 1. :: die Buchstaben „DE” und das Kennzeichen oder die Bezeichnung der Anerkennungsstelle,
 - 2. :: die Kennnummer,
 - 3. :: die Nennfüllmenge,
 - 4. :: die Kategorie.
 
-Die Klebemarke enthält bei Kleinpackungen nach Anlage 6 Nummer 3.1.2 mindestens die Angaben nach Satz 1 Nummer 1 bis 3 und die Angabe Saatgutmischung“.
+Die Klebemarke enthält bei Kleinpackungen nach Anlage 6 Nummer 3.1.2 mindestens die Angaben nach Satz 1 Nummer 1 bis 3 und die Angabe „Saatgutmischung“.
 
 (8) Kleinpackungen sind so zu schließen, dass sie nicht geöffnet werden können, ohne das Verschlusssystem zu verletzen oder auf der Packung andere deutliche Spuren zu hinterlassen. Kleinpackungen nach Anlage 6 Nr. 1.1.1, 1.1.2 und Kleinpackungen EG B mit Saatgutmischungen (Anlage 6 Nr. 3.1 Spalte 3) dürfen nur unter amtlicher Aufsicht erneut geschlossen werden.
 
@@ -879,19 +879,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 \\
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
+ 
 
 Basissaatgut (Pflanzen)
 
@@ -911,23 +911,23 @@ Zertifiziertes Saatgut zweiter Generation (Pflanzen)
 
 Pflanzen, die
 
+ 
 
+ 
 
-
-
-
+ 
 
 1.1.1.1.1
 
 nicht hinreichend sortenecht sind oder einer anderen Sorte derselben Art oder einer anderen Art, deren Pollen zu Fremdbefruchtung führen können, zugehören:
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 bei Getreide außer Roggen
 
@@ -937,7 +937,7 @@ bei Getreide außer Roggen
 
 30
 
-
+ 
 
 bei Roggen
 
@@ -945,7 +945,7 @@ bei Roggen
 
 15
 
-
+ 
 
 1.1.1.1.2
 
@@ -955,19 +955,19 @@ im Falle von Hybridsorten hinsichtlich ihrer Erbkomponenten den bei der Zulassun
 
 15
 
+ 
 
-
-
+ 
 
 handelt es sich bei den Erbkomponenten um eine
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 a) CMS-Mutterlinie von Gerste,
 
@@ -975,9 +975,9 @@ a) CMS-Mutterlinie von Gerste,
 
 15
 
+ 
 
-
-
+ 
 
 b) CMS-Einfachhybride als mütterliche Komponente von Gerste;
 
@@ -985,17 +985,17 @@ b) CMS-Einfachhybride als mütterliche Komponente von Gerste;
 
 30
 
+ 
 
-
-
+ 
 
 wird Zertifiziertes Saatgut einer Hybridsorte von Getreide in einer Mischung der mütterlichen und väterlichen Erbkomponente erzeugt, so gilt der Anteil der Pflanzen der väterlichen Erbkomponente nicht als Fremdbesatz
 
+ 
 
+ 
 
-
-
-
+ 
 
 1.1.1.2
 
@@ -1017,7 +1017,7 @@ Pflanzen anderer Arten, deren Samen sich aus dem Saatgut nur schwer herausreinig
 
 10
 
-
+ 
 
 davon Flughafer und Flughaferbastarde bei anderem Getreide als Nackthafer, Hafer, Rauhafer
 
@@ -1034,17 +1034,17 @@ davon Flughafer und Flughaferbastarde bei anderem Getreide als Nackthafer, Hafer
 
 \\
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
+ 
 
 Basissaatgut\\
 (Pflanzen)
@@ -1090,21 +1090,21 @@ Zwergsteinbrand (Tilletia controversa)
 
 \\
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
-
+ 
 
 Basissaatgut\\
 (m)
@@ -1122,41 +1122,41 @@ Zertifiziertes Saatgut\\
 
 bei fremdbefruchtenden Arten zu gleichzeitig Pollen abgebenden Feldbeständen
 
+ 
 
+ 
 
-
-
-
+ 
 
 a)
 
 anderer Sorten derselben Art,
 
+ 
 
+ 
 
-
-
-
+ 
 
 b)
 
 derselben Sorte mit starker Unausgeglichenheit
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 und
 
+ 
 
+ 
 
-
-
-
+ 
 
 c)
 
@@ -1194,41 +1194,41 @@ bei Hybridsorten von Weizen
 
 bei Hybridsorten von Roggen zu Feldbeständen
 
+ 
 
+ 
 
-
-
-
+ 
 
 a)
 
 anderer Sorten oder Erbkomponenten von Roggen,
 
+ 
 
+ 
 
-
-
-
+ 
 
 b)
 
 derselben Erbkomponente, die einen über der Norm liegenden Besatz mit nicht hinreichend sortenechten Pflanzen aufweisen, und
 
+ 
 
+ 
 
-
-
-
+ 
 
 c)
 
 anderer Arten, deren Pollen zu Fremdbefruchtung führen können,
 
+ 
 
+ 
 
-
-
-
+ 
 
 im Falle der Erzeugung mit einer männlich sterilen Erbkomponente
 
@@ -1236,13 +1236,13 @@ im Falle der Erzeugung mit einer männlich sterilen Erbkomponente
 
 500
 
-
+ 
 
 bei Erzeugung der väterlichen Erbkomponente
 
 600
 
-
+ 
 
 1.3.1.4
 
@@ -1272,17 +1272,17 @@ bei Triticale zu gleichzeitig Pollen abgebenden Feldbeständen anderer Sorten de
 
 \\
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
+ 
 
 Basissaatgut\\
 (v. H.)
@@ -1316,11 +1316,11 @@ bei frei abblühenden Sorten von Mais
 
 bei Hybridsorten von Sorghum
 
+ 
 
+ 
 
-
-
-
+ 
 
 in der Blütezeit, männliche Komponente
 
@@ -1328,7 +1328,7 @@ in der Blütezeit, männliche Komponente
 
 0,1
 
-
+ 
 
 in der Blütezeit, weibliche Komponente
 
@@ -1336,7 +1336,7 @@ in der Blütezeit, weibliche Komponente
 
 0,3
 
-
+ 
 
 in der Reifezeit
 
@@ -1391,19 +1391,19 @@ Anzahl Pflanzen je 150 m² Fläche
 
 \\
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
+ 
 
 Basissaatgut\\
 (Pflanzen)
@@ -1426,13 +1426,13 @@ Zertifiziertes Saatgut zweiter Generation\\
 
 Pflanzen, die nicht hinreichend sortenecht sind, einer anderen Sorte derselben Art oder einer anderen Art, deren Pollen zu Fremdbefruchtung führen können oder deren Samen sich von dem Saatgut bei der Beschaffenheitsprüfung nur schwer unterscheiden lassen, zugehören:
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 bei Futtererbse, Ackerbohne
 
@@ -1442,7 +1442,7 @@ bei Futtererbse, Ackerbohne
 
 30
 
-
+ 
 
 bei Weißer Lupine, Blauer Lupine, Schmalblättriger Lupine, Gelber Lupine, Blauer Luzerne, Pannonischer Wicke, Saatwicke und Zottelwicke
 
@@ -1452,7 +1452,7 @@ bei Weißer Lupine, Blauer Lupine, Schmalblättriger Lupine, Gelber Lupine, Blau
 
 15
 
-
+ 
 
 bei allen anderen Arten
 
@@ -1460,7 +1460,7 @@ bei allen anderen Arten
 
 15
 
-
+ 
 
 3.1.1.2
 
@@ -1472,17 +1472,17 @@ Pflanzen anderer Arten, deren Samen sich aus dem Saatgut nur schwer herausreinig
 
 30
 
-
+ 
 
 davon
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 Ackerfuchsschwanz, Flughafer (einschließlich Flughaferbastarde) und Ampferarten (außer Kleiner Sauerampfer und Strandampfer) bei Glatthafer, Schwingelarten, Festulolium, Weidelgräsern und Goldhafer
 
@@ -1490,9 +1490,9 @@ je 3
 
 je 5
 
+ 
 
-
-
+ 
 
 Weidelgräser anderer Arten bei Weidelgras
 
@@ -1500,9 +1500,9 @@ Weidelgräser anderer Arten bei Weidelgras
 
 10
 
+ 
 
-
-
+ 
 
 Weidelgräser und andere Sorten von Festulolium bei Festulolium
 
@@ -1510,9 +1510,9 @@ Weidelgräser und andere Sorten von Festulolium bei Festulolium
 
 10
 
+ 
 
-
-
+ 
 
 Ampferarten (außer Kleiner Sauerampfer und Strandampfer) bei kleinkörnigen Leguminosen
 
@@ -1520,7 +1520,7 @@ Ampferarten (außer Kleiner Sauerampfer und Strandampfer) bei kleinkörnigen Leg
 
 5
 
-
+ 
 
 - 3.1.2 :: Der Feldbestand darf keinen Besatz mit Seide, Kleewürger und Kreuzkraut aufweisen.\\
   \\
@@ -1529,17 +1529,17 @@ Ampferarten (außer Kleiner Sauerampfer und Strandampfer) bei kleinkörnigen Leg
 
 \\
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
+ 
 
 Basissaatgut\\
 (Pflanzen)
@@ -1573,9 +1573,9 @@ je 30
 
 (weggefallen)
 
+ 
 
-
-
+ 
 
 - 3.2.2 :: Der Feldbestand von Luzernen oder Klee darf nicht in größerem Ausmaß von Stengelbrenner befallen sein.
 - 3.2.3 :: Der Feldbestand von Lupinen darf nicht in größerem Ausmaß von Anthraknose befallen sein.\\
@@ -1585,25 +1585,25 @@ je 30
 
 \\
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
-
-
-
+ 
 
 Basissaatgut\\
 (m)
@@ -1621,43 +1621,43 @@ Zertifiziertes Saatgut\\
 
 zu gleichzeitig Pollen abgebenden Feldbeständen
 
+ 
 
+ 
 
-
-
-
+ 
 
 a)
 
 anderer Sorten derselben Art,
 
+ 
 
+ 
 
-
-
-
+ 
 
 b)
 
 derselben Sorte mit starker Unausgeglichenheit und
 
+ 
 
+ 
 
-
-
-
+ 
 
 c)
 
 anderer Arten, deren Pollen zu Fremdbefruchtung führen können,
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 bei Samenträgern von Kohlrübe und Futterkohl sowie bei Phazelie und Ölrettich
 
@@ -1665,21 +1665,21 @@ bei Samenträgern von Kohlrübe und Futterkohl sowie bei Phazelie und Ölrettich
 
 200
 
+ 
 
-
-
+ 
 
 bei fremdbefruchtenden Arten,
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
+ 
 
 wenn die Vermehrungsfläche höchstens 2 ha groß ist
 
@@ -1687,11 +1687,11 @@ wenn die Vermehrungsfläche höchstens 2 ha groß ist
 
 100
 
+ 
 
+ 
 
-
-
-
+ 
 
 wenn die Vermehrungsfläche größer als 2 ha ist
 
@@ -1710,17 +1710,17 @@ wenn die Vermehrungsfläche größer als 2 ha ist
 
 \\
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
+ 
 
 Basissaatgut\\
 (Pflanzen)
@@ -1771,17 +1771,17 @@ je 2
 
 \\
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
+ 
 
 Basissaatgut\\
 (v. H.)
@@ -1801,17 +1801,17 @@ Inzuchtlinien
 
 0,1
 
-
+ 
 
 4.1.3.2
 
 Einfachhybriden bei der Verwendung als
 
+ 
 
+ 
 
-
-
-
+ 
 
 a) männliche Komponente
 
@@ -1851,19 +1851,19 @@ Welkekrankheiten bei Lein
 
 \\
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
+ 
 
 Basissaatgut\\
 (m)
@@ -1881,27 +1881,27 @@ Zertifiziertes Saatgut\\
 
 zu gleichzeitig Pollen abgebenden Feldbeständen
 
+ 
 
+ 
 
-
-
-
+ 
 
 a)
 
 anderer Sorten derselben Art,
 
+ 
 
-
-
+ 
 
 b)
 
 derselben Sorte mit starker Unausgeglichenheit und
 
+ 
 
-
-
+ 
 
 c)
 
@@ -1937,25 +1937,25 @@ bei anderen fremdbefruchtenden Öl- und Faserpflanzen
 - 5 :: Sonnenblume
 - 5.1 :: Fremdbesatz
 - 5.1.1 :: Der Feldbestand frei abblühender Sorten darf im Durchschnitt der Auszählungen je 150 qm Fläche höchstens folgenden Fremdbesatz aufweisen:\\
-  
+   
 
 - 5.1.2 :: Bei Hybridsorten darf der Anteil der Pflanzen, die den bei der Zulassung der Sorte festgestellten Ausprägungen der Erbkomponenten nicht hinreichend entsprechen oder die einer anderen Sonnenblumensorte oder Erbkomponente zugehören, im Durchschnitt der Auszählungen höchstens betragen:
 
 \\
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
+ 
 
 Basissaatgut\\
 (v. H.)
@@ -1963,7 +1963,7 @@ Basissaatgut\\
 Zertifiziertes Saatgut\\
 (v. H.)
 
-
+ 
 
 1
 
@@ -1977,17 +1977,17 @@ Inzuchtlinien
 
 0,2
 
-
+ 
 
 5.1.2.2
 
 Einfachhybriden bei der Verwendung als
 
+ 
 
+ 
 
-
-
-
+ 
 
 a)
 
@@ -1995,7 +1995,7 @@ männliche Erbkomponente (nur Pflanzen, die Pollen abgeben, sobald mehr als 2 v.
 
 0,2
 
-
+ 
 
 b)
 
@@ -2003,17 +2003,17 @@ weibliche Erbkomponente (auch Pflanzen, die Pollen abgegeben haben oder Pollen a
 
 0,5
 
-
+ 
 
 5.1.2.3
 
 Inzuchtlinien und Einfachhybriden bei der Verwendung als
 
+ 
 
+ 
 
-
-
-
+ 
 
 a)
 
@@ -2021,7 +2021,7 @@ männliche Erbkomponente (nur Pflanzen, die Pollen abgeben, sobald mehr als 5 v.
 
 0,5
 
-
+ 
 
 b)
 
@@ -2029,7 +2029,7 @@ weibliche Erbkomponente
 
 1,0
 
-
+ 
 
 \\
 \\
@@ -2047,17 +2047,17 @@ weibliche Erbkomponente
 
 \\
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
+ 
 
 Basissaatgut\\
 (m)
@@ -2065,7 +2065,7 @@ Basissaatgut\\
 Zertifiziertes Saatgut\\
 (m)
 
-
+ 
 
 1
 
@@ -2099,17 +2099,17 @@ bei anderen als Hybridsorten
 
 \\
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
+ 
 
 Basissaatgut\\
 (v. H.)
@@ -2131,7 +2131,7 @@ Pflanzen, die nicht hinreichend sortenecht sind, einer anderen Sorte derselben A
 
 1
 
-
+ 
 
 -  :: davon Pflanzen mit anderer Rübenform oder Rübenfarbe
 
@@ -2158,25 +2158,25 @@ Pflanzen anderer Arten, deren Samen sich aus dem Saatgut nur schwer herausreinig
 
 \\
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
+ 
 
 (m)
 
 1
 
-
+ 
 
 2
 
@@ -2184,7 +2184,7 @@ Pflanzen anderer Arten, deren Samen sich aus dem Saatgut nur schwer herausreinig
 
 für die Erzeugung von Basissaatgut zu Bestäubungsquellen der Gattung Beta
 
-
+ 
 
 1 000
 
@@ -2192,31 +2192,31 @@ für die Erzeugung von Basissaatgut zu Bestäubungsquellen der Gattung Beta
 
 für die Erzeugung von Zertifiziertem Saatgut von Zuckerrübe
 
+ 
 
-
-
+ 
 
 6.3.1.2.1
 
 zu diploiden Zuckerrübenbestäubungsquellen, wenn
 
+ 
 
+ 
 
-
-
-
+ 
 
 - a) :: der vorgesehene Pollenspender ausschließlich tetraploid ist
 
-
+ 
 
 600
 
-
+ 
 
 - b) :: der vorgesehene Pollenspender oder einer der vorgesehenen Pollenspender diploid ist
 
-
+ 
 
 300
 
@@ -2224,23 +2224,23 @@ zu diploiden Zuckerrübenbestäubungsquellen, wenn
 
 zu tetraploiden Zuckerrübenbestäubungsquellen, wenn
 
+ 
 
+ 
 
-
-
-
+ 
 
 - a) :: der vorgesehene Pollenspender oder einer der vorgesehenen Pollenspender diploid ist
 
-
+ 
 
 600
 
-
+ 
 
 - b) :: der vorgesehene Pollenspender ausschließlich tetraploid ist
 
-
+ 
 
 300
 
@@ -2248,7 +2248,7 @@ zu tetraploiden Zuckerrübenbestäubungsquellen, wenn
 
 zu Zuckerrübenbestäubungsquellen, bei denen der Ploidiegrad unbekannt ist
 
-
+ 
 
 600
 
@@ -2256,7 +2256,7 @@ zu Zuckerrübenbestäubungsquellen, bei denen der Ploidiegrad unbekannt ist
 
 zwischen zwei Vermehrungsflächen zur Erzeugung von Zuckerrübensaatgut ohne männliche Sterilität
 
-
+ 
 
 300
 
@@ -2264,7 +2264,7 @@ zwischen zwei Vermehrungsflächen zur Erzeugung von Zuckerrübensaatgut ohne mä
 
 zu allen vorstehend nicht genannten Bestäubungsquellen der Gattung Beta
 
-
+ 
 
 1 000
 
@@ -2272,9 +2272,9 @@ zu allen vorstehend nicht genannten Bestäubungsquellen der Gattung Beta
 
 Nummer 6.3.1.2 gilt entsprechend für die Erzeugung von Zertifiziertem Saatgut von Runkelrübe.
 
+ 
 
-
-
+ 
 
 - 6.3.2 :: Eine Unterschreitung der Mindestentfernungen nach Nummer 6.3.1 ist zulässig, sofern der Feldbestand ausreichend gegen Fremdbefruchtung abgeschirmt ist.
 - 6.3.3 :: Bei Feldbeständen von Samenträgern muss zu nicht unter die Nummer 6.3.1 fallenden benachbarten Beständen, bei Feldbeständen zur Erzeugung von Stecklingen muss zu allen benachbarten Beständen ein Trennstreifen von mindestens doppeltem Reihenabstand vorhanden sein.\\
@@ -2288,21 +2288,21 @@ Nummer 6.3.1.2 gilt entsprechend für die Erzeugung von Zertifiziertem Saatgut v
 
 \\
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
-
+ 
 
 in Drillsaat gesäte Bestände (im Durchschnitt der Auszählungen je 150 qm)
 
@@ -2366,9 +2366,9 @@ Porree, Kohlrabi, Grünkohl, Blumenkohl, Brokkoli, Weißkohl, Rotkohl, Wirsing, 
 
 Sellerie, Paprika, Chili, Artischocke, Cardy, Tomate, Aubergine
 
+ 
 
-
-
+ 
 
 1
 
@@ -2378,9 +2378,9 @@ Sellerie, Paprika, Chili, Artischocke, Cardy, Tomate, Aubergine
 
 Mangold, Rote Rübe
 
+ 
 
-
-
+ 
 
 2
 
@@ -2414,9 +2414,9 @@ Kerbel, Endivie, Chicorée, Blattzichorie, Wurzelzichorie, Industriezichorie, Fe
 
 Wassermelone, Melone, Gurke, Riesenkürbis, Gartenkürbis, Ölkürbis, Zucchini, Spargel, Rhabarber,
 
+ 
 
-
-
+ 
 
 0,1
 
@@ -2430,29 +2430,29 @@ Prunkbohne, Buschbohne, Stangenbohne, Erbse, Dicke Bohne
 
 1
 
+ 
 
-
-
+ 
 
 7.1.1.9
 
 Zuckermais, Puffmais
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 7.1.1.9.1
 
 Hybridsorten
 
+ 
 
-
-
+ 
 
 0,1
 
@@ -2462,9 +2462,9 @@ Hybridsorten
 
 frei abblühende Sorten
 
+ 
 
-
-
+ 
 
 0,5
 
@@ -2504,17 +2504,17 @@ frei abblühende Sorten
 
 \\
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
+ 
 
 Basissaatgut\\
 (m)
@@ -2532,9 +2532,9 @@ Zertifiziertes Saatgut\\
 
 bei Roter Rübe
 
+ 
 
-
-
+ 
 
 7.3.1.1.1
 
@@ -2572,9 +2572,9 @@ bei Brassica-Arten zu Bestäubungsquellen anderer Sorten derselben Art und von P
 
 bei Wurzelzichorie, Industriezichorie
 
+ 
 
-
-
+ 
 
 7.3.1.3.1
 
@@ -2745,9 +2745,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 \\
 \\
 
+ 
 
-
-
+ 
 
 Höchstgewicht einer Partie\\
 (t)
@@ -2755,7 +2755,7 @@ Höchstgewicht einer Partie\\
 Mindestgewicht einer Probe\\
 (g)
 
-
+ 
 
 1
 
@@ -2779,9 +2779,9 @@ Getreide außer Mais und Sorghum
 
 Mais
 
+ 
 
-
-
+ 
 
 1.2.1
 
@@ -2803,9 +2803,9 @@ sonstiges Saatgut
 
 Sorghum
 
+ 
 
-
-
+ 
 
 1.3.1
 
@@ -3280,13 +3280,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     - 6.9 :: "Noch nicht anerkanntes Saatgut"
     - 7 :: Saatgut nach § 3 Absatz 2 des Saatgutverkehrsgesetzes
     - 7.1 :: Angaben nach den Nummern 1.25)}, 1.4, 1.10, 4.5
-    - 7.2 :: Bundessortenamt”5)}
+    - 7.2 :: „Bundessortenamt”5)}
     - 7.2a :: Amtlich zugeteilte Seriennummer
     - 7.3 :: Genehmigungsnummer des Bundessortenamtes
     - 7.3a :: Partienummer5)}
     - 7.4 :: vorläufige Bezeichnung der Sorte, ihre Kennnummer und sofern vorhanden in Klammern die vorgeschlagene Sortenbezeichnung
     - 7.5 :: Angaben nach § 43 Absatz 1 Satz 2 Nummer 3 Buchstabe d
-    - 7.6 :: Nur für Tests und Versuche“5)}
+    - 7.6 :: „Nur für Tests und Versuche“5)}
     - 8. :: Kennzeichnung mit einem nach den in § 30a Absatz 1 genannten Rechtsakten der Europäischen Union erforderlichen Pflanzenpass entsprechend den dort geregelten Vorgaben
 
 ----------
@@ -3301,11 +3301,11 @@ Bei Saatgut von Gemüsesorten ist der Hinweis nach § 33 Abs. 8 im Anschluss an 
 
 3)
 
-Bei Zertifiziertem Saatgut zweiter oder dritter Generation sind der Kategoriebezeichnung Zertifiziertes Saatgutzweiter Generationdritter Generation” anzufügen.
+Bei Zertifiziertem Saatgut zweiter oder dritter Generation sind der Kategoriebezeichnung „Zertifiziertes Saatgut” die Wörter „zweiter Generation” oder „dritter Generation” anzufügen.
 
 4)
 
-Bei Zertifiziertem Saatgut erster und zweiter Generation von Sorten von Nacktgerste ist auf dem Etikett zusätzlich der Hinweis Mindestkeimfähigkeit 75 %“ anzugeben. Bei Saatgut von Zuckermais super sweet“ ist auf dem Etikett zusätzlich der Hinweis Mindestkeimfähigkeit 80 %“ anzugeben.
+Bei Zertifiziertem Saatgut erster und zweiter Generation von Sorten von Nacktgerste ist auf dem Etikett zusätzlich der Hinweis „Mindestkeimfähigkeit 75 %“ anzugeben. Bei Saatgut von Zuckermais „super sweet“ ist auf dem Etikett zusätzlich der Hinweis „Mindestkeimfähigkeit 80 %“ anzugeben.
 
 5)
 
@@ -3325,17 +3325,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 \\
 
-
+ 
 
 Bezeichnung
 
-
+ 
 
 Nettogewicht der reinen Körner oder Knäuel
 
 (kg)
 
-
+ 
 
 1
 
@@ -3393,7 +3393,7 @@ Raps
 - 1.2.4 :: Sortenbezeichnung (bei Zertifiziertem Saatgut)
 - 1.2.4a :: Zulassungsnummer (bei Handelssaatgut)
 - 1.2.5 :: Kennnummer der Partie
-- 1.2.6 :: Verschließung ...“ (Monat, Jahr)
+- 1.2.6 :: „Verschließung ...“ (Monat, Jahr)
 - 1.2.7 :: Füllmenge oder Stückzahl der Körner oder Knäuel
 - 1.2.8 :: bei Monogerm- und Präzisionssaatgut die Angaben nach § 29 Abs. 4
 - 1.2.9 :: bei chemisch, besonders physikalisch oder gleichartig behandeltem Saatgut die Angaben nach § 32
@@ -3404,7 +3404,7 @@ Raps
 
 \\
 
-
+ 
 
 Art
 
@@ -3412,7 +3412,7 @@ Nettogewicht der reinen Körner oder Knäuel
 
 (kg)
 
-
+ 
 
 1
 
@@ -3441,7 +3441,7 @@ Prunkbohne, Buschbohne, Stangenbohne, Erbse, Dicke Bohne
 - 2.2.1 :: "EU-Norm"
 - 2.2.2 :: Name und Anschrift des Herstellers der Kleinpackung oder seine Betriebsnummer
 - 2.2.3 :: Art und Sortenbezeichnung
-- 2.2.3a :: bei Saatgutmischungen von Gemüsesorten einer Gemüseart die Angabe Saatgutmischung aus Sorten der Art ... “ (Bezeichnung der Gemüseart) und die Sortenbezeichnungen
+- 2.2.3a :: bei Saatgutmischungen von Gemüsesorten einer Gemüseart die Angabe „Saatgutmischung aus Sorten der Art ... “ (Bezeichnung der Gemüseart) und die Sortenbezeichnungen
 - 2.2.4 :: Kategorie (dabei kann Zertifiziertes Saatgut durch den Buchstaben "Z", Standardsaatgut durch die der Partienummer angefügten Buchstaben "St" abgekürzt werden)
 - 2.2.5 :: Kennnummer (außer bei Standardsaatgut)
 - 2.2.6 :: von dem abfüllenden Betrieb festgesetzte Partienummer (bei Standardsaatgut) oder die bei Saatgutmischungen von Gemüsesorten einer Gemüseart nach § 27 Absatz 1 vergebene Mischungsnummer
@@ -3467,7 +3467,7 @@ Bezeichnung
 
 4
 
-
+ 
 
 "Kleinpackung EG A"
 
@@ -3487,11 +3487,11 @@ Nettogewicht in reinen Körnern
 
 Verwendung zur Futternutzung oder zur Körnererzeugung
 
+ 
 
+ 
 
-
-
-
+ 
 
 3.1.1.1
 
@@ -3507,11 +3507,11 @@ Futternutzung
 
 Körnererzeugung
 
+ 
 
+ 
 
-
-
-
+ 
 
 3.1.1.2.1
 
@@ -3543,9 +3543,9 @@ Andere als unter 3.1.1 genannte Verwendungszwecke (§ 26 Absatz 3 Satz 2)
 
 über 10 bis 30
 
+ 
 
-
-
+ 
 
 ----------
 
@@ -3556,7 +3556,7 @@ Andere als unter 3.1.1 genannte Verwendungszwecke (§ 26 Absatz 3 Satz 2)
     - 3.2.2 :: Name und Anschrift des Herstellers der Kleinpackung oder seine Betriebsnummer
     - 3.2.3 :: "Saatgutmischung für ..." (Verwendungszweck)
     - 3.2.4 :: Kennnummer
-    - 3.2.5 :: Verschließung ...“ (Monat, Jahr)
+    - 3.2.5 :: „Verschließung ...“ (Monat, Jahr)
     - 3.2.6 :: Füllmenge oder Stückzahl der Körner
     - 3.2.7 :: die Angaben nach § 29 Abs. 7 Satz 1, 2 und 4, bei Kleinpackung EG A jedoch nur die Angaben nach § 29 Abs. 7 Satz 1 Nr. 1 und 3
     - 3.2.8 :: bei chemisch, besonders physikalisch oder gleichartig behandeltem Saatgut die Angaben nach § 32
@@ -3721,10 +3721,10 @@ Pourcentage en poids du mélange
 2. ...\\
 3. ...\\
 (...)
-
-
-
-
+ 
+ 
+ 
+ 
 Zahl der Packungen und angegebenes Gewicht der Partie\\
 Number of containers and declared weight of lot  .....................\\
 Nombre d´emballages et poids déclaré du lot
@@ -3756,27 +3756,27 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
   - 1.1.1 :: "Name und Anschrift der zuständigen Behörde"
     "Name and address fo Designated Authority"
     "Nom et adresse de l'Autorite designee"
-  - 1.1.1a :: Amtlich zugeteilte Seriennummer“
-    Officially assigned serial number“
-    Numéro d´ordre attribué officiellement“
+  - 1.1.1a :: „Amtlich zugeteilte Seriennummer“
+    „Officially assigned serial number“
+    „Numéro d´ordre attribué officiellement“
   - 1.1.2 :: "Art (botanischer Name)"
     "Species (Latin name)"
     "Espece (nom latin)"
-  - 1.1.3 :: | Sortenbezeichnung“ | (Bei Mais Angaben nach Nummer 3.4)  \\ |
+  - 1.1.3 :: | „Sortenbezeichnung“ | (Bei Mais Angaben nach Nummer 3.4)  \\ |
 
-    Variety denomination“
-    Dénomination variétale“
+    „Variety denomination“
+    „Dénomination variétale“
 
   -  :: 
   - 1.1.4 :: "Kategorie"
     "Category"
     "Categorie"
-  - 1.1.5 :: Referenznummer“
-    Lot reference number“
-    Numéro de référence du lot“
-  - 1.1.6 :: Angegebenes Gewicht der Packung oder angegebene Zahl der Körner“
-    Declared net or gross weight or declared number of seeds“
-    Poids net ou brut déclaré ou nombre de semences déclaré“
+  - 1.1.5 :: „Referenznummer“
+    „Lot reference number“
+    „Numéro de référence du lot“
+  - 1.1.6 :: „Angegebenes Gewicht der Packung oder angegebene Zahl der Körner“
+    „Declared net or gross weight or declared number of seeds“
+    „Poids net ou brut déclaré ou nombre de semences déclaré“
   - 1.1.7 :: "Datum der Probenahme"
     "Date of sampling"
     "Date de l'echantillonnage"
@@ -3792,9 +3792,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
   - 1.2.1 :: "Landesüblicher Name"
     "Common name"
     "Nome commun"
-  - 1.2.2 :: Sortenbezeichnung“
-    Variety denomination“
-    Dénomination variétale“
+  - 1.2.2 :: „Sortenbezeichnung“
+    „Variety denomination“
+    „Dénomination variétale“
   - 1.2.3 :: "Kategorie"
     "Category"
     "Categorie"
@@ -3811,9 +3811,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
   - 1.3.1 :: "Landesüblicher Name des Gemüses"
     "Common name of the vegetable"
     "Nom commun du legume"
-  - 1.3.2 :: Sortenbezeichnung“
-    Variety denomination“
-    Dénomination variétale“
+  - 1.3.2 :: „Sortenbezeichnung“
+    „Variety denomination“
+    „Dénomination variétale“
   - 1.3.3 :: "Partienummer"
     "Code number"
     "Numero de code"
@@ -3830,53 +3830,53 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     "Semences pre-base"
   - 1.4.3 :: Die Zahl der höchstens vorgesehenen Generationen bis zum Zertifizierten Saatgut erster Generation
   - 1.5 :: Mischungen
-  - 1.5.1 :: Bezeichnung der Mischung“ (gegebenenfalls)
-    Name of the mixture“ (if any)
-    Nom du mélange“ (le cas échéant)
-  - 1.5.2 :: Saatgutmischung für ...“ (z.B. Rasen, Futternutzung, Weide)
-    Seed mixture for ... “ (e.g. turf, lawn, grazing, permanent pasture)
-    Mélange de semences destiné à ...“ (ex. gazon, pelouse, prairie permanente, pâturage, ...)
-  - 1.5.3 :: Name und Anschrift der zuständigen Behörde“
-    Name and address of National Designated Authority“
-    Nom et adresse de l´Autorité nationale désignée“
-  - 1.5.4 :: Mischungsnummer“
-    Reference number of the lot“
-    Numéro de référence du lot“
-  - 1.5.5 :: Amtlich zugeteilte Seriennummer“
-    Officially assigned serial number“
-    Numéro d´ordre attribué officiellement“
-  - 1.5.6 :: Arten, die Bestandteil der Mischung sind“
-    Species of the constituents“
-    Espèces composantes“
-  - 1.5.7 :: Verschließung ... “ (Monat, Jahr)
-    Sealed ...“ (month and year when officially sealed)
-    Scellé ...“ (mois et année du scellement officiel)
-  - 1.5.8 :: Angegebenes Gewicht der Packung oder angegebene Zahl der Körner“
-    Declared net or gross weight or declared number of seeds“
-    Poids net ou brut déclaré ou nombre déclaré de graines pures“
+  - 1.5.1 :: „Bezeichnung der Mischung“ (gegebenenfalls)
+    „Name of the mixture“ (if any)
+    „Nom du mélange“ (le cas échéant)
+  - 1.5.2 :: „Saatgutmischung für ...“ (z.B. Rasen, Futternutzung, Weide)
+    „Seed mixture for ... “ (e.g. turf, lawn, grazing, permanent pasture)
+    „Mélange de semences destiné à ...“ (ex. gazon, pelouse, prairie permanente, pâturage, ...)
+  - 1.5.3 :: „Name und Anschrift der zuständigen Behörde“
+    „Name and address of National Designated Authority“
+    „Nom et adresse de l´Autorité nationale désignée“
+  - 1.5.4 :: „Mischungsnummer“
+    „Reference number of the lot“
+    „Numéro de référence du lot“
+  - 1.5.5 :: „Amtlich zugeteilte Seriennummer“
+    „Officially assigned serial number“
+    „Numéro d´ordre attribué officiellement“
+  - 1.5.6 :: „Arten, die Bestandteil der Mischung sind“
+    „Species of the constituents“
+    „Espèces composantes“
+  - 1.5.7 :: „Verschließung ... “ (Monat, Jahr)
+    „Sealed ...“ (month and year when officially sealed)
+    „Scellé ...“ (mois et année du scellement officiel)
+  - 1.5.8 :: „Angegebenes Gewicht der Packung oder angegebene Zahl der Körner“
+    „Declared net or gross weight or declared number of seeds“
+    „Poids net ou brut déclaré ou nombre déclaré de graines pures“
   - 1.5.9 :: Bei pilliertem, granuliertem oder inkrustiertem Saatgut oder Saatgut mit festen Zusätzen:
-  - 1.5.9.1 :: Art der Behandlung“ oder Art der Zusätze“
-    Nature of treatment“ or nature of additives“
-    Nature du traitement“ ou nature des additifs“
-  - 1.5.9.2 :: Verhältnis der reinen Körner oder Knäuel zum Gesamtgewicht“ (bei Angabe des Gewichtes)
-    Ratio of weight of pure grains to total weight“ (if weight is declared)
-    Rapport entre le poids des graines pures et le poids total“ (en cas d´indication d´un poids)
-  - 1.5.9.3 :: Zahl der keimfähigen Samen je Gewichtseinheit“ (bei granuliertem Saatgut)
-    Number of germinable seeds per unit of weight“ (in case of granulated seed)
-    Nombre de graines pouvant germer par unité de poids“ (en cas des semences granulées)
+  - 1.5.9.1 :: „Art der Behandlung“ oder „Art der Zusätze“
+    „Nature of treatment“ or „nature of additives“
+    „Nature du traitement“ ou „nature des additifs“
+  - 1.5.9.2 :: „Verhältnis der reinen Körner oder Knäuel zum Gesamtgewicht“ (bei Angabe des Gewichtes)
+    „Ratio of weight of pure grains to total weight“ (if weight is declared)
+    „Rapport entre le poids des graines pures et le poids total“ (en cas d´indication d´un poids)
+  - 1.5.9.3 :: „Zahl der keimfähigen Samen je Gewichtseinheit“ (bei granuliertem Saatgut)
+    „Number of germinable seeds per unit of weight“ (in case of granulated seed)
+    „Nombre de graines pouvant germer par unité de poids“ (en cas des semences granulées)
   - 1.5.10 :: Für jeden Bestandteil der Mischung (die Angaben nach den Nummern 1.5.10.1 bis 1.5.10.4 können auf dem Zertifikat oder auf dem amtlichen Etikett gemacht werden; bei Packungen, die weniger als zwei Kilogramm Saatgut enthalten, können diese Angaben auch auf der Packung gemacht werden):
-  - 1.5.10.1 :: Art“ (botanische Bezeichnung)
-    Species“ (Latin name)
-    Espèce“ (dénomination botanique)
-  - 1.5.10.2 :: Sortenbezeichnung“
-    Variety denomination“
-    Dénomination variétale“
-  - 1.5.10.3 :: Anerkennungsnummer“
-    Reference number“
-    Numéro de référence du lot“
-  - 1.5.10.4 :: Anteil in vom Hundert des Gewichts“
-    Percentage by weight of the mixture“
-    Pourcentage en poids du mélange“
+  - 1.5.10.1 :: „Art“ (botanische Bezeichnung)
+    „Species“ (Latin name)
+    „Espèce“ (dénomination botanique)
+  - 1.5.10.2 :: „Sortenbezeichnung“
+    „Variety denomination“
+    „Dénomination variétale“
+  - 1.5.10.3 :: „Anerkennungsnummer“
+    „Reference number“
+    „Numéro de référence du lot“
+  - 1.5.10.4 :: „Anteil in vom Hundert des Gewichts“
+    „Percentage by weight of the mixture“
+    „Pourcentage en poids du mélange“
   - 2 :: Aufdruck und Mindestgröße
   - 2.1 :: Aufdruck
   - 2.1.1 :: Das Etikett und der Einleger sind an einem Ende 3 cm schwarz zu färben und mit den Worten "OECD-Seed-Scheme" und "Systeme OCDE pour les semences" zu versehen. Die verbleibende Fläche muss in schwarzem Druck die Angaben nach Nummer 1 enthalten.

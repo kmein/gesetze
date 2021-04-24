@@ -10,34 +10,34 @@ Das Bundesministerium für Arbeit und Soziales verordnet auf Grund des § 96 des
 
 Inhaltsübersicht
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 § 1 - Geltungsbereich
 
@@ -69,7 +69,7 @@ Diese Verordnung gilt für die Unterkünfte, die Freizeiteinrichtungen und die m
 (3) Spezialschiffe sind Schiffe im Sinne des IMO-Codes über die Sicherheit von Spezialschiffen (VkBl. 2009 S. 84), die für die Beförderung von mehr als zwölf Personen Spezialpersonal vorgesehen sind.
 (4) Fischereifahrzeuge sind Schiffe, die zur gewerblichen Fischerei verwendet werden oder verwendet werden sollen und mit einem durchgehenden wasserdichten Wetterdeck, das bei allen Beladungszuständen oberhalb der Wasserlinie liegt, ausgestattet sind.
 (5) Berufsgenossenschaft im Sinne dieser Verordnung ist die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation.
-(6) Länge“ eines Schiffs ist der größere der beiden folgenden Werte:
+(6) „Länge“ eines Schiffs ist der größere der beiden folgenden Werte:
 
 - 1. :: 96 Prozent der Gesamtlänge, gemessen in einer Wasserlinie in Höhe von 85 Prozent der geringsten Seitenhöhe oberhalb der Oberkante des Kiels, oder
 - 2. :: die Länge von der Vorkante des Vorstevens bis zur Drehachse des Ruderschafts in dieser Wasserlinie.
@@ -462,7 +462,7 @@ Anlage 1 - (zu § 22 Absatz 3)Apothekenschrank für die Aufbewahrung der medizin
 
 (Fundstelle: BGBl. I 2019, 1463)
 [[../normengrafiken/bgbl1_2019/j1453-1_0010.jpg]]
-
+ 
 Erläuterungen:
 Aufbau des Apothekenschrankes
 Der Schrank muss aus einem Oberteil und einem Unterteil von jeweils 1 000 mm Höhe bestehen. Differenzen zur jeweils vorhandenen Deckenhöhe sind durch Füllstücke auszugleichen.

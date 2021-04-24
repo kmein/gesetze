@@ -197,21 +197,21 @@ Die belegte Bandbreite einer Aussendung ist entsprechend dem Stand der Technik a
 Die Funkdienste werden nach primären und sekundären Funkdiensten unterschieden. Ein primärer Funkdienst ist ein Funkdienst, dessen Funkstellen Schutz gegen Störungen durch Funkstellen sekundärer Funkdienste verlangen können, auch wenn diesen Frequenzen bereits zugeteilt sind. Schutz gegen Störungen durch Funkstellen des gleichen oder eines anderen primären Funkdienstes kann nur die Funkstelle verlangen, der die Frequenz früher zugeteilt wurde. Ein sekundärer Funkdienst ist ein Funkdienst, dessen Funkstellen weder Störungen bei den Funkstellen eines primären Funkdienstes verursachen dürfen noch Schutz vor Störungen durch solche Funkstellen verlangen können, unabhängig davon, wann die Frequenzzuteilung an Funkstellen des primären Funkdienstes erfolgt. Sie können jedoch Schutz gegen Störungen durch Funkstellen des gleichen oder eines anderen sekundären Funkdienstes verlangen, deren Frequenzzuteilung später erfolgt.\\
 In den Frequenzbereichen gemäß Buchstabe A gelten die Regelungen des Frequenznutzungsplans und zusätzlich die besonderen Nutzungsbestimmungen nach Buchstabe A und Buchstabe B.\\
 
-
+ 
 
 A Tabellarische Übersicht
 
+ 
 
+ 
 
-
-
-
+ 
 
 -----------------------------------------
 
+ 
 
-
-
+ 
 
 Besondere Nutzungsbestimmungen
 
@@ -267,9 +267,9 @@ A
 
 3
 
+ 
 
-
-
+ 
 
 2a
 
@@ -283,9 +283,9 @@ E
 
 3
 
+ 
 
-
-
+ 
 
 3
 
@@ -333,7 +333,7 @@ A
 
 10
 
-
+ 
 
 4a
 
@@ -349,7 +349,7 @@ E
 
 10
 
-
+ 
 
 5
 
@@ -363,9 +363,9 @@ A
 
 3
 
+ 
 
-
-
+ 
 
 5a
 
@@ -379,9 +379,9 @@ E
 
 3
 
+ 
 
-
-
+ 
 
 6
 
@@ -397,7 +397,7 @@ A
 
 13
 
-
+ 
 
 6a
 
@@ -411,9 +411,9 @@ A
 
 3
 
+ 
 
-
-
+ 
 
 7
 
@@ -445,7 +445,7 @@ A
 
 13
 
-
+ 
 
 9
 
@@ -461,7 +461,7 @@ A
 
 13
 
-
+ 
 
 10
 
@@ -477,7 +477,7 @@ A
 
 13
 
-
+ 
 
 10a
 
@@ -493,7 +493,7 @@ E
 
 13
 
-
+ 
 
 11
 
@@ -509,7 +509,7 @@ A
 
 13
 
-
+ 
 
 12
 
@@ -525,7 +525,7 @@ A
 
 13
 
-
+ 
 
 12a
 
@@ -541,7 +541,7 @@ E
 
 13
 
-
+ 
 
 13
 
@@ -555,9 +555,9 @@ A
 
 5
 
+ 
 
-
-
+ 
 
 14
 
@@ -573,7 +573,7 @@ A
 
 13
 
-
+ 
 
 15
 
@@ -589,7 +589,7 @@ E
 
 13
 
-
+ 
 
 16
 
@@ -605,7 +605,7 @@ A
 
 13
 
-
+ 
 
 17
 
@@ -621,7 +621,7 @@ E
 
 13
 
-
+ 
 
 18
 
@@ -653,7 +653,7 @@ A
 
 13
 
-
+ 
 
 20
 
@@ -667,9 +667,9 @@ A
 
 9
 
+ 
 
-
-
+ 
 
 21
 
@@ -685,7 +685,7 @@ A
 
 13
 
-
+ 
 
 22
 
@@ -701,7 +701,7 @@ A
 
 13
 
-
+ 
 
 23
 
@@ -717,7 +717,7 @@ E
 
 13
 
-
+ 
 
 24
 
@@ -731,9 +731,9 @@ A
 
 13
 
+ 
 
-
-
+ 
 
 25
 
@@ -747,9 +747,9 @@ A
 
 9
 
+ 
 
-
-
+ 
 
 26
 
@@ -763,9 +763,9 @@ A
 
 13
 
+ 
 
-
-
+ 
 
 27
 
@@ -781,7 +781,7 @@ A
 
 13
 
-
+ 
 
 28
 
@@ -797,7 +797,7 @@ A
 
 13
 
-
+ 
 
 29
 
@@ -813,7 +813,7 @@ A
 
 13
 
-
+ 
 
 30
 
@@ -829,7 +829,7 @@ A
 
 13
 
-
+ 
 
 31
 
@@ -843,9 +843,9 @@ A
 
 9
 
+ 
 
-
-
+ 
 
 32
 
@@ -861,7 +861,7 @@ A
 
 13
 
-
+ 
 
 33
 
@@ -877,7 +877,7 @@ A
 
 13
 
-
+ 
 
 34
 
@@ -891,9 +891,9 @@ A
 
 13
 
+ 
 
-
-
+ 
 
 35
 
@@ -907,9 +907,9 @@ A
 
 13
 
+ 
 
-
-
+ 
 
 36
 
@@ -923,9 +923,9 @@ A
 
 14
 
+ 
 
-
-
+ 
 
 - *) :: P: Amateurfunkdienst ist primärer Funkdienst, S: Amateurfunkdienst ist sekundärer Funkdienst gemäß Frequenzbereichszuweisungsplanverordnung. Die mit "P" gekennzeichneten Frequenzbereiche können gleichzeitig auch anderen primären Funkdiensten zugewiesen sein.
 
@@ -962,7 +962,7 @@ Die Regulierungsbehörde erhebt für Amtshandlungen nach § 18 dieser Verordnung
 
 3
 
-
+ 
 
 Lfd. Nr.
 

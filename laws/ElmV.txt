@@ -37,7 +37,7 @@ Die in den Anlagen 1 bis 3 aufgeführten Stoffe dürfen als Extraktionslösungsm
 
 (1) Die in den Anlagen 1 bis 3 aufgeführten Stoffe sowie Ethanol dürfen, sofern sie zur Verwendung als Extraktionslösungsmittel bestimmt sind, gewerbsmäßig nur in den Verkehr gebracht werden, wenn angegeben sind:
 
-- 1. :: die Verkehrsbezeichnung des Stoffes gemäEthanol“,
+- 1. :: die Verkehrsbezeichnung des Stoffes gemäß den Anlagen, bei Ethanol die Verkehrsbezeichnung „Ethanol“,
 - 2. :: der Hinweis, dass der Stoff für die Extraktion von Lebensmitteln geeignet ist,
 - 3. :: eine Angabe zur Identifizierung der Partie,
 - 4. :: der Name oder die Firma und die Anschrift des Herstellers, des Verpackers oder eines in einem Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum niedergelassenen Verkäufers,
@@ -85,73 +85,73 @@ Restgehalt im verzehrfertigen aromatisierten Lebensmittel höchstens
 
 Diethylether
 
-
+ 
 
 2 mg/kg
 
 Hexan<<FnR.FnA1-F801547_11>>[[#FnA1-F801547_11][1]]}
 
-
+ 
 
 1 mg/kg
 
 Methylacetat
 
-
+ 
 
 1 mg/kg
 
 Butan-1-ol
 
-
+ 
 
 1 mg/kg
 
 Butan-2-ol
 
-
+ 
 
 1 mg/kg
 
-Ethylmethylketon
+Ethylmethylketon¹
 
-
+ 
 
 1 mg/kg
 
 Dichlormethan
 
-
+ 
 
 0,02 mg/kg
 
 1,1,1,2-Tetrafluorethan
 
-
+ 
 
 0,02 mg/kg
 
 Methanol
 
-
+ 
 
 1,5 mg/kg
 
 n-Propanol
 
-
+ 
 
 1 mg/kg
 
 Propan-2-ol
 
-
+ 
 
 1 mg/kg
 
 Cyclohexan
 
-
+ 
 
 1 mg/kg
 

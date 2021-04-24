@@ -7,7 +7,7 @@ Ausfertigungsdatum: 11.12.1987
 Inhaltsübersicht
 
 Erster Abschnitt
-
+ 
 Allgemeines
 § 1
 Anwendungsbereich und allgemeine Begriffsbestimmungen
@@ -22,7 +22,7 @@ Technische Aufsicht
 § 6
 Ausnahmen
 Zweiter Abschnitt
-
+ 
 Betriebsleitung
 § 7
 Unternehmer
@@ -31,7 +31,7 @@ Betriebsleiter
 § 9
 Bestätigung als Betriebsleiter
 Dritter Abschnitt
-
+ 
 Betriebsbedienstete
 § 10
 Allgemeine Anforderungen an Betriebsbedienstete
@@ -44,7 +44,7 @@ Verhalten während des Dienstes
 § 14
 Verhalten bei Krankheit
 Vierter Abschnitt
-
+ 
 Betriebsanlagen
 § 15
 Streckenführung
@@ -83,7 +83,7 @@ Haltestellen
 § 32
 Aufzüge, Fahrtreppen und Fahrsteige
 Fünfter Abschnitt
-
+ 
 Fahrzeuge
 § 33
 Fahrzeuggestaltung
@@ -118,7 +118,7 @@ Beschriftungen und Sinnbilder
 § 48
 Ausrüstung für Notfälle
 Sechster Abschnitt
-
+ 
 Betrieb
 § 49
 Fahrordnung
@@ -143,7 +143,7 @@ Benutzen und Betreten der Betriebsanlagen und Fahrzeuge
 § 59
 Betriebsgefährdende oder betriebsstörende Handlungen
 Siebenter Abschnitt
-
+ 
 Verfahrensvorschriften
 § 60
 Prüfung der Bauunterlagen für Betriebsanlagen
@@ -152,7 +152,7 @@ Aufsicht über den Bau von Betriebsanlagen und Fahrzeugen
 § 62
 Inbetriebnahmegenehmigung für Betriebsanlagen und Fahrzeuge
 Achter Abschnitt
-
+ 
 Ordnungswidrigkeiten, Schluß- und Übergangsvorschriften
 § 63
 Ordnungswidrigkeiten
@@ -346,7 +346,7 @@ Die Tätigkeit bei Schienenbahnunternehmen auch während des Vorbereitungsdienst
 - 2. :: geistig und körperlich tauglich ist und
 - 3. :: nicht durch Tatsachen belastet ist, die ihn für die Tätigkeit als unzuverlässig erscheinen lassen.
 
-(2) Die Tauglichkeit muss vor erstmaliger Aufnahme der Tätigkeit durch einen vom Unternehmer beauftragten Arzt festgestellt worden sein. Der Arzt muss die Gebietsbezeichnung Arbeitsmedizin“ oder die Zusatzbezeichnung Betriebsmedizin“ haben oder Arzt in einer amtlich anerkannten Begutachtungsstelle für Fahreignung gemäß § 11 Absatz 2 Nummer 5 der Fahrerlaubnis-Verordnung sein und über eine mindestens einjährige Berufserfahrung in seinem Fachgebiet verfügen.
+(2) Die Tauglichkeit muss vor erstmaliger Aufnahme der Tätigkeit durch einen vom Unternehmer beauftragten Arzt festgestellt worden sein. Der Arzt muss die Gebietsbezeichnung „Arbeitsmedizin“ oder die Zusatzbezeichnung „Betriebsmedizin“ haben oder Arzt in einer amtlich anerkannten Begutachtungsstelle für Fahreignung gemäß § 11 Absatz 2 Nummer 5 der Fahrerlaubnis-Verordnung sein und über eine mindestens einjährige Berufserfahrung in seinem Fachgebiet verfügen.
 (3) Wer das 40. Lebensjahr vollendet hat, darf als Betriebsbediensteter nur weiterbeschäftigt werden, wenn das Weiterbestehen der Tauglichkeit durch einen Arzt nach Absatz 2 festgestellt worden ist. Das gleiche gilt dann jeweils nach Ablauf weiterer fünf Jahre.
 (4) Bestehen begründete Zweifel am Weiterbestehen der Tauglichkeit, insbesondere nach schwerer Krankheit, darf der Betriebsbedienstete als solcher erst weiterbeschäftigt werden, wenn seine Tauglichkeit nach Absatz 2 erneut festgestellt worden ist.
 (5) Über Betriebsbedienstete nach § 1 Abs. 6 Nr. 1 und 2 sind Aufschreibungen zu führen, aus denen insbesondere ihre Tauglichkeit, Ausbildung, Ergebnisse von Prüfungen, Beaufsichtigungen, Unterweisungen und Nachschulungen ersichtlich sein müssen.
@@ -355,7 +355,7 @@ Die Tätigkeit bei Schienenbahnunternehmen auch während des Vorbereitungsdienst
 
 (1) Fahrbedienstete müssen mindestens 21 Jahre alt sein. Dies gilt nicht für:
 
-- 1. :: Auszubildende und Absolventen des staatlich anerkannten Ausbildungsberufs der Fachkraft im Fahrbetrieb“, die das 18. Lebensjahr vollendet haben und die Schienenfahrerlaubnis und seit mindestens einem Jahr die straßenverkehrsrechtliche Fahrerlaubnis der Klasse B besitzen und
+- 1. :: Auszubildende und Absolventen des staatlich anerkannten Ausbildungsberufs der „Fachkraft im Fahrbetrieb“, die das 18. Lebensjahr vollendet haben und die Schienenfahrerlaubnis und seit mindestens einem Jahr die straßenverkehrsrechtliche Fahrerlaubnis der Klasse B besitzen und
 - 2. :: Zugabfertiger und Fahrbedienstete, die Fahrzeuge ausschließlich in Abstellanlagen und Werkstätten bedienen.
 
 Im Fall des Satzes 2 Nummer 1 ist vor Erteilung der ersten Fahrerlaubnis die nach § 10 Absatz 1 Nummer 2 erforderliche geistige und körperliche Eignung durch ein Gutachten entsprechend § 10 Absatz 2 der Fahrerlaubnis-Verordnung nachzuweisen.
@@ -667,7 +667,7 @@ anzunehmen.
 
 Breite im Höhenbereich
 
-
+ 
 
 a)
 
@@ -675,7 +675,7 @@ bis 3,4 m über Schienenoberkante
 
 2,65 m,
 
-
+ 
 
 b)
 
@@ -1106,13 +1106,13 @@ v(hoch)2
 
 3,6 (hoch) 2 x 2 s
 
+ 
 
-
-
+ 
 
 Tabelle 1
 
-
+ 
 
 Grenzwerte\\
 bei Ausfall einer Bremse\\
@@ -1181,11 +1181,11 @@ m
 
 355
 
-
+ 
 
 Tabelle 2
 
-
+ 
 
 Grenzwerte\\
 bei Gefahrbremsungen\\

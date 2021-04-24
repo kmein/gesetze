@@ -22,7 +22,7 @@ Ausfertigungsdatum: 01.09.2017
 - 5. :: Mitgliedschaft in Branchenverbänden mit Hinweis darauf, ob in diesen Branchenverbänden eine Beschwerdestelle existiert,
 - 6. :: Anzahl der Beschwerden, bei denen eine externe Stelle konsultiert wurde, um die Entscheidung vorzubereiten,
 - 7. :: Anzahl der Beschwerden, die im Berichtszeitraum zur Löschung oder Sperrung des beanstandeten Inhalts führten, aufgeschlüsselt nach Beschwerden von Beschwerdestellen und von Nutzern, nach dem Beschwerdegrund, ob ein Fall des § 3 Absatz 2 Nummer 3 Buchstabe a vorlag, ob in diesem Fall eine Weiterleitung an den Nutzer erfolgte sowie ob eine Übertragung an eine anerkannte Einrichtung der Regulierten Selbstregulierung nach § 3 Absatz 2 Nummer 3 Buchstabe b erfolgte,
-- 8. :: Zeit zwischen Beschwerdeeingang beim sozialen Netzwerk und Löschung oder Sperrung des rechtswidrigen Inhalts, aufgeschlüsselt nach Beschwerden von Beschwerdestellen und von Nutzern, nach dem Beschwerdegrund sowie nach den Zeiträumen innerhalb von 24 Stunden“/innerhalb von 48 Stunden“/innerhalb einer Woche“/zu einem späteren Zeitpunkt“,
+- 8. :: Zeit zwischen Beschwerdeeingang beim sozialen Netzwerk und Löschung oder Sperrung des rechtswidrigen Inhalts, aufgeschlüsselt nach Beschwerden von Beschwerdestellen und von Nutzern, nach dem Beschwerdegrund sowie nach den Zeiträumen „innerhalb von 24 Stunden“/„innerhalb von 48 Stunden“/„innerhalb einer Woche“/„zu einem späteren Zeitpunkt“,
 - 9. :: Maßnahmen zur Unterrichtung des Beschwerdeführers sowie des Nutzers, für den der beanstandete Inhalt gespeichert wurde, über die Entscheidung über die Beschwerde.
 
 

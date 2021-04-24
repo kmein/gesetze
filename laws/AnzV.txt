@@ -58,15 +58,15 @@ jeweils in Verbindung mit § 1 Nr. 5 der Verordnung zur Übertragung von Befugni
 
 (1) Für Anzeigen nach § 24 Absatz 1 Nummer 1 des Kreditwesengesetzes über die Absicht, einen Geschäftsleiter zu bestellen und eine Person zur Einzelvertretung des Instituts in dessen gesamtem Geschäftsbereich zu ermächtigen, sowie über den Vollzug, die Aufgabe oder die Änderung einer solchen Absicht haben
 
-- 1. :: Institute, bei denen die Bundesanstalt Aufsichtsbehörde ist, das Formular Personelle Veränderungen bei den Geschäftsleitern“ nach Anlage 1 und
-- 2. :: Institute, bei denen die Europäische Zentralbank Aufsichtsbehörde ist, das Formular Personelle Veränderungen bei den Geschäftsleitern“ nach Anlage 8
+- 1. :: Institute, bei denen die Bundesanstalt Aufsichtsbehörde ist, das Formular „Personelle Veränderungen bei den Geschäftsleitern“ nach Anlage 1 und
+- 2. :: Institute, bei denen die Europäische Zentralbank Aufsichtsbehörde ist, das Formular „Personelle Veränderungen bei den Geschäftsleitern“ nach Anlage 8
 
 zu verwenden.
 
 (2) Für Anzeigen nach § 24 Absatz 1 Nummer 15 des Kreditwesengesetzes über die Bestellung eines Mitglieds und stellvertretender Mitglieder des Verwaltungs- oder Aufsichtsorgans haben
 
-- 1. :: Institute, bei denen die Bundesanstalt Aufsichtsbehörde ist, das Formular Personelle Veränderungen des Verwaltungs- oder Aufsichtsorgans“ nach Anlage 2 und
-- 2. :: Institute, bei denen die Europäische Zentralbank Aufsichtsbehörde ist, das Formular Personelle Veränderungen des Verwaltungs- oder Aufsichtsorgans“ nach Anlage 9
+- 1. :: Institute, bei denen die Bundesanstalt Aufsichtsbehörde ist, das Formular „Personelle Veränderungen des Verwaltungs- oder Aufsichtsorgans“ nach Anlage 2 und
+- 2. :: Institute, bei denen die Europäische Zentralbank Aufsichtsbehörde ist, das Formular „Personelle Veränderungen des Verwaltungs- oder Aufsichtsorgans“ nach Anlage 9
 
 zu verwenden.
 
@@ -114,9 +114,9 @@ In der Erklärung können Strafverfahren unberücksichtigt bleiben, die mangels 
 - 4. :: eine Aufstellung aller weiteren Tätigkeiten der Person, die sie als Geschäftsleiter eines Unternehmens oder als Mitglied eines Verwaltungs- oder Aufsichtsorgans eines oder mehrerer anderer Unternehmen ausführt;
 - 5. :: Angaben zu den Tatsachen, die für die Beurteilung der ausreichenden zeitlichen Verfügbarkeit für die Wahrnehmung der Aufgaben wesentlich sind; dabei ist der zeitliche Aufwand für die einzelnen Tätigkeiten und Mandate, die die Person ausübt, zu schätzen und in seiner geschätzten Summe anzugeben; reine Ehrenämter und Tätigkeiten, die dem Privatleben zuzuordnen sind, brauchen grundsätzlich nicht berücksichtigt zu werden.
 
-(3) Für die Erklärungen nach den Absätzen 1 und 2 ist das Formular Angaben zur Zuverlässigkeit, zeitlichen Verfügbarkeit und zu weiteren Mandaten“ nach Anlage 2a zu verwenden. Das Formular ist vollständig auszufüllen und von der anzuzeigenden Person eigenhändig zu unterzeichnen.
-(4) Ein Institut, bei dem die Europäische Zentralbank Aufsichtsbehörde ist, hat den Anzeigen der Absicht einer Bestellung oder Ermächtigung nach § 24 Absatz 1 Nummer 1 und den Anzeigen nach § 24 Absatz 1 Nummer 15 des Kreditwesengesetzes einen Fragebogen zur Beurteilung der fachlichen Qualifikation, persönlichen Zuverlässigkeit und ausreichenden zeitlichen Verfügbarkeit -- durch das beaufsichtigte Unternehmen auszufüllen“ nach Anlage 10 beizufügen.
-(5) Ein Institut, bei dem die Europäische Zentralbank Aufsichtsbehörde ist, hat den Anzeigen der Absicht einer Bestellung oder Ermächtigung nach § 24 Absatz 1 Nummer 1 und den Anzeigen nach § 24 Absatz 1 Nummer 15 des Kreditwesengesetzes zudem einen von der angezeigten Person vollständig und wahrheitsgemäFragebogen zur Beurteilung der fachlichen Qualifikation, persönlichen Zuverlässigkeit und ausreichenden zeitlichen Verfügbarkeit -- durch die angezeigte Person auszufüllen“ nach Anlage 11 beizufügen.
+(3) Für die Erklärungen nach den Absätzen 1 und 2 ist das Formular „Angaben zur Zuverlässigkeit, zeitlichen Verfügbarkeit und zu weiteren Mandaten“ nach Anlage 2a zu verwenden. Das Formular ist vollständig auszufüllen und von der anzuzeigenden Person eigenhändig zu unterzeichnen.
+(4) Ein Institut, bei dem die Europäische Zentralbank Aufsichtsbehörde ist, hat den Anzeigen der Absicht einer Bestellung oder Ermächtigung nach § 24 Absatz 1 Nummer 1 und den Anzeigen nach § 24 Absatz 1 Nummer 15 des Kreditwesengesetzes einen „Fragebogen zur Beurteilung der fachlichen Qualifikation, persönlichen Zuverlässigkeit und ausreichenden zeitlichen Verfügbarkeit -- durch das beaufsichtigte Unternehmen auszufüllen“ nach Anlage 10 beizufügen.
+(5) Ein Institut, bei dem die Europäische Zentralbank Aufsichtsbehörde ist, hat den Anzeigen der Absicht einer Bestellung oder Ermächtigung nach § 24 Absatz 1 Nummer 1 und den Anzeigen nach § 24 Absatz 1 Nummer 15 des Kreditwesengesetzes zudem einen von der angezeigten Person vollständig und wahrheitsgemäß ausgefüllten „Fragebogen zur Beurteilung der fachlichen Qualifikation, persönlichen Zuverlässigkeit und ausreichenden zeitlichen Verfügbarkeit -- durch die angezeigte Person auszufüllen“ nach Anlage 11 beizufügen.
 
 § 5c - Führungszeugnis der nach § 24 Absatz 1 Nummer 1 und 15 des Kreditwesengesetzes anzuzeigenden Person
 
@@ -135,15 +135,15 @@ In der Erklärung können Strafverfahren unberücksichtigt bleiben, die mangels 
 
 (1) Für Anzeigen nach § 24 Absatz 1 Nummer 2 des Kreditwesengesetzes haben
 
-- 1. :: Institute, bei denen die Bundesanstalt Aufsichtsbehörde ist, das Formular Personelle Veränderungen bei den Geschäftsleitern“ nach Anlage 1 und
-- 2. :: Institute, bei denen die Europäische Zentralbank Aufsichtsbehörde ist, das Formular Personelle Veränderungen bei den Geschäftsleitern“ nach Anlage 8
+- 1. :: Institute, bei denen die Bundesanstalt Aufsichtsbehörde ist, das Formular „Personelle Veränderungen bei den Geschäftsleitern“ nach Anlage 1 und
+- 2. :: Institute, bei denen die Europäische Zentralbank Aufsichtsbehörde ist, das Formular „Personelle Veränderungen bei den Geschäftsleitern“ nach Anlage 8
 
 zu verwenden. In dem Formular sind jeweils die Gründe für das Ausscheiden oder für die Entziehung der Befugnis anzugeben.
 
 (2) Für Anzeigen nach § 24 Absatz 1 Nummer 15a des Kreditwesengesetzes haben
 
-- 1. :: Institute, bei denen die Bundesanstalt Aufsichtsbehörde ist, das Formular Personelle Veränderungen des Verwaltungs- oder Aufsichtsorgans“ nach Anlage 2 und
-- 2. :: Institute, bei denen die Europäische Zentralbank Aufsichtsbehörde ist, das Formular Personelle Veränderungen des Verwaltungs- oder Aufsichtsorgans“ nach Anlage 9
+- 1. :: Institute, bei denen die Bundesanstalt Aufsichtsbehörde ist, das Formular „Personelle Veränderungen des Verwaltungs- oder Aufsichtsorgans“ nach Anlage 2 und
+- 2. :: Institute, bei denen die Europäische Zentralbank Aufsichtsbehörde ist, das Formular „Personelle Veränderungen des Verwaltungs- oder Aufsichtsorgans“ nach Anlage 9
 
 zu verwenden. In dem Formular sind jeweils die Gründe für das Ausscheiden anzugeben.
 
@@ -165,7 +165,7 @@ Mehrere zeitgleich einzureichende Anzeigen nach Satz 1 können in einer Anzeige 
 
 § 7 - Anzeigen von Instituten nach § 12a Absatz 1 Satz 3, § 24 Absatz 1 Nummer 12 und 13, § 24 Absatz 1a Nummer 1 und 2 sowie § 31 Absatz 3 des Kreditwesengesetzes (bedeutende Beteiligungen an anderen Unternehmen, aktivische enge Verbindungen, Beteiligungen an oder Unternehmensbeziehungen mit Unternehmen mit Sitz im Ausland, Befreiungen)
 
-(1) Einzelanzeigen von Instituten über aktivische Beteiligungsverhältnisse nach § 12a Absatz 1 Satz 3, § 24 Absatz 1 Nummer 12 und 13 und § 31 Absatz 3 des Kreditwesengesetzes sind mit dem Formular Aktivische Beteiligungsanzeige“ nach Anlage 3 dieser Verordnung einzureichen. Bei Änderungen des Beteiligungsverhältnisses sind Einzelanzeigen einzureichen, wenn
+(1) Einzelanzeigen von Instituten über aktivische Beteiligungsverhältnisse nach § 12a Absatz 1 Satz 3, § 24 Absatz 1 Nummer 12 und 13 und § 31 Absatz 3 des Kreditwesengesetzes sind mit dem Formular „Aktivische Beteiligungsanzeige“ nach Anlage 3 dieser Verordnung einzureichen. Bei Änderungen des Beteiligungsverhältnisses sind Einzelanzeigen einzureichen, wenn
 
 - 1. :: durch die Änderung 20 Prozent, 30 Prozent oder 50 Prozent des Kapitals oder der Stimmrechte des Unternehmens erreicht, über- oder unterschritten werden,
 - 2. :: das Unternehmen ein Tochterunternehmen wird oder nicht mehr ist,
@@ -211,8 +211,8 @@ Die Absicht von Instituten, sich zu vereinigen, ist von den beteiligten Institut
 
 Für Anzeigen nach § 24 Absatz 2a des Kreditwesengesetzes haben die Mitglieder von Verwaltungs- oder Aufsichtsorganen von CRR-Instituten, die bedeutend im Sinne des § 1 Absatz 3c des Kreditwesengesetzes sind, von Finanzholding-Gesellschaften und von gemischten Finanzholding-Gesellschaften
 
-- 1. :: bei denen die Bundesanstalt Aufsichtsbehörde ist, das Formular Weitere Tätigkeiten von Mitgliedern eines Verwaltungs- oder Aufsichtsorgans“ nach Anlage 6 und
-- 2. :: bei denen die Europäische Zentralbank Aufsichtsbehörde ist, das Formular Weitere Tätigkeiten von Mitgliedern eines Verwaltungs- oder Aufsichtsorgans“ nach Anlage 12
+- 1. :: bei denen die Bundesanstalt Aufsichtsbehörde ist, das Formular „Weitere Tätigkeiten von Mitgliedern eines Verwaltungs- oder Aufsichtsorgans“ nach Anlage 6 und
+- 2. :: bei denen die Europäische Zentralbank Aufsichtsbehörde ist, das Formular „Weitere Tätigkeiten von Mitgliedern eines Verwaltungs- oder Aufsichtsorgans“ nach Anlage 12
 
 zu verwenden.
 
@@ -221,8 +221,8 @@ zu verwenden.
 
 (1) Für Anzeigen nach § 24 Absatz 3 Satz 1 Nummer 1 des Kreditwesengesetzes haben die Geschäftsleiter und die Personen, die die Geschäfte einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-Gesellschaft führen,
 
-- 1. :: bei der die Bundesanstalt Aufsichtsbehörde ist, das Formular Nebentätigkeiten von Geschäftsleitern eines Instituts und Personen, die die Geschäfte einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-Gesellschaft tatsächlich führen“ nach Anlage 6 und
-- 2. :: bei der die Europäische Zentralbank Aufsichtsbehörde ist, das Formular Nebentätigkeiten von Geschäftsleitern eines Instituts und Personen, die die Geschäfte einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-Gesellschaft tatsächlich führen“ nach Anlage 12
+- 1. :: bei der die Bundesanstalt Aufsichtsbehörde ist, das Formular „Nebentätigkeiten von Geschäftsleitern eines Instituts und Personen, die die Geschäfte einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-Gesellschaft tatsächlich führen“ nach Anlage 6 und
+- 2. :: bei der die Europäische Zentralbank Aufsichtsbehörde ist, das Formular „Nebentätigkeiten von Geschäftsleitern eines Instituts und Personen, die die Geschäfte einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-Gesellschaft tatsächlich führen“ nach Anlage 12
 
 zu verwenden.
 
@@ -307,7 +307,7 @@ einzureichen.
   - a) :: Bankgeschäfte im Sinne des § 1 Absatz 1 Satz 2 des Kreditwesengesetzes,
   - b) :: Finanzdienstleistungen im Sinne des § 1 Absatz 1a Satz 2 des Kreditwesengesetzes sowie
   - c) :: Zahlungsdienste im Sinne des § 1 Absatz 2 des Zahlungsdiensteaufsichtsgesetzes,
-- 2a. :: eine Erklärung, dass im Inland der Name oder die Firma des Instituts nur mit dem Zusatz Repräsentanz“ verwendet wird,
+- 2a. :: eine Erklärung, dass im Inland der Name oder die Firma des Instituts nur mit dem Zusatz „Repräsentanz“ verwendet wird,
 - 3. :: der letzte Jahresabschluss und Lagebericht des Instituts und
 - 4. :: eine von der deutschen diplomatischen oder konsularischen Vertretung im Sitzstaat des Instituts beglaubigte Bescheinigung der Behörde, deren Aufsicht das Institut im Sitzstaat und, falls davon abweichend, auch im Sitzstaat der Hauptverwaltung unterliegt, in der diese Behörde bestätigt, dass
   - a) :: das Institut ihrer Solvenzaufsicht unterliegt oder kraft örtlichen Statuts eine Solvenzaufsicht über das Institut nicht besteht,
@@ -321,7 +321,7 @@ Die Unterlagen nach Absatz 2 Satz 1 Nr. 3 und 4 sind nur auf Verlangen der Bunde
 
 § 16 - Anzeigen nach § 12a Absatz 1 Satz 3 und nach § 24 Absatz 3a des Kreditwesengesetzes (Finanzholding-Gesellschaften, gemischte Finanzholding-Gesellschaften)
 
-(1) Für Einzelanzeigen einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-Gesellschaft nach § 12a Absatz 1 Satz 3 und nach § 24 Absatz 3a Satz 4 und 5 des Kreditwesengesetzes ist das Formular Aktivische Beteiligungsanzeige“ nach Anlage 3 dieser Verordnung zu verwenden. Sammelanzeigen nach § 24 Absatz 3a Satz 2 und 5 des Kreditwesengesetzes sind nach dem Stand vom 31. Dezember des Vorjahres bis zum 15. Juni des Folgejahres als Sammlung fortlaufend nummerierter Teilanzeigen mit dem Formular "Aktivische Beteiligungsanzeige" nach Anlage 3 dieser Verordnung einzureichen. § 7 Abs. 1 Satz 2 und Abs. 3 bis 6 gilt entsprechend.
+(1) Für Einzelanzeigen einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-Gesellschaft nach § 12a Absatz 1 Satz 3 und nach § 24 Absatz 3a Satz 4 und 5 des Kreditwesengesetzes ist das Formular „Aktivische Beteiligungsanzeige“ nach Anlage 3 dieser Verordnung zu verwenden. Sammelanzeigen nach § 24 Absatz 3a Satz 2 und 5 des Kreditwesengesetzes sind nach dem Stand vom 31. Dezember des Vorjahres bis zum 15. Juni des Folgejahres als Sammlung fortlaufend nummerierter Teilanzeigen mit dem Formular "Aktivische Beteiligungsanzeige" nach Anlage 3 dieser Verordnung einzureichen. § 7 Abs. 1 Satz 2 und Abs. 3 bis 6 gilt entsprechend.
 (2) Für die Anzeigen nach § 24 Absatz 3a Satz 1 Nummer 1, 2, 4 und 5 und Satz 5 des Kreditwesengesetzes über die Absicht der Bestellung einer Person, die die Geschäfte der Finanzholding-Gesellschaft oder gemischten Finanzholding-Gesellschaft tatsächlich führen soll oder das Ausscheiden dieser Person und über die Bestellung oder das Ausscheiden eines Mitglieds oder stellvertretenden Mitglieds des Verwaltungs-oder Aufsichtsorgans gelten die §§ 5 bis 5f entsprechend.
 
 § 16a - Übergangsvorschrift
@@ -389,23 +389,23 @@ Anlage 2a - (zu § 5b Abs. 3 AnzV)PVZLSI
 
 2.  Angaben zur Person
 □ Herr    □ Frau
-
-
+ 
+ 
 Nachname, sämtliche Vornamen
 Geburtsname
-
-
-
-
+ 
+ 
+ 
+ 
 Geburtsdatum
 Geburtsort
 Staatsangehörigkeit
-
-
-
+ 
+ 
+ 
 Wohnsitz (Straße, Hausnummer, PLZ, Ort, Staat)
-
-
+ 
+ 
 3.  Angaben zur Tätigkeit
 □
 --
@@ -515,11 +515,11 @@ Anlage 3 - (zu § 7 Abs. 1 und 2 sowie § 16 Abs. 1 AnzV)
 □ Enge Verbindung (§ 24 Abs. 1 Nr. 12, Abs. 1a Nr. 1 KWG)
 □ Bedeutende Beteiligung (§ 24 Abs. 1 Nr. 13, Abs. 1a Nr. 2 KWG)
 □ Befreiung (§ 31 Abs. 3 KWG)
-
-
+ 
+ 
 Nachgeordnete Unternehmen von
 □ Instituten/Finanzholding-Gesellschaften/gemischten Finanzholding-Gesellschaften (§ 12a Abs. 1 Satz 3 KWG)
-
+ 
 □ Finanzholding-Gesellschaften/gemischten Finanzholding-Gesellschaften (§ 24 Abs. 3a Satz 2, 4 und 5 KWG)
 2.  Anlass der Anzeige (Nur auszufüllen bei der Abgabe einer Einzelanzeige)
 | □ Entstehen | □ Veränderung | □ Beendigung |   |
@@ -564,11 +564,11 @@ Seite 1
   Es ist sichergestellt, dass die für die Erfüllung der jeweiligen Pflichten nach den §§ 10a und 25 Abs. 2 KWG erforderlichen Angaben eingehen (§ 12a Abs. 1 Satz 1 KWG):
   | □ ja | □ nein |
 
-  Falls nein“ angekreuzt wurde:
+  Falls „nein“ angekreuzt wurde:
   Der nach Art. 36 in Verbindung mit dem Art. 19 Abs. 2 Buchstabe a CRR vorzunehmende Abzug der Buchwerte trägt unseres Erachtens in einer der Zusammenfassung nach § 10a Abs. 4 oder Abs. 5 KWG vergleichbaren Weise dem Risiko aus der Begründung der Beteiligung oder der Unternehmensbeziehung Rechnung (§ 12a Abs. 1 Satz 2 KWG):
   | □ ja | □ nein<<FnR.FnA1-F796418_F19>>[[#FnA1-F796418_F19][19]]} |
 - 5.3 :: Nur auszufüllen, wenn das Beteiligungsunternehmen ein nachgeordnetes Unternehmen ist
-  □ Das Beteiligungsunternehmen ist ein nachgeordnetes Unternehmen im Sinne von Art. 18 Abs. 1, 2 oder Abs. 3 CRR.  
+  □ Das Beteiligungsunternehmen ist ein nachgeordnetes Unternehmen im Sinne von Art. 18 Abs. 1, 2 oder Abs. 3 CRR.   
   □ Das Beteiligungsunternehmen ist ein nachgeordnetes Unternehmen im Sinne von Art. 18 Abs. 4 CRR.
   □ Das Beteiligungsunternehmen ist ein nachgeordnetes Unternehmen im Sinne von Art. 18 Abs. 5 CRR.
   □ Das Beteiligungsunternehmen ist ein nachgeordnetes Unternehmen im Sinne von Art. 49 Abs. 2 CRR.
@@ -586,8 +586,8 @@ Fußnoten:
 - <<FnA1-F796418_F04>>[[#FnR.FnA1-F796418_F04][4]] :: Mehrfachauswahl ist nicht zulässig. Treffen gleichzeitig mehrere Varianten zu, ist die speziellere anzukreuzen. Ist eine speziellere Auswahl nicht festlegbar, ist diejenige Variante auszuwählen, die dem größten Anteil am Geschäft des Unternehmens entspricht.
 - <<FnA1-F796418_F05>>[[#FnR.FnA1-F796418_F05][5]] :: Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 646/2012 (ABl. L 176 vom 27.6.2013, S. 1).
 - <<FnA1-F796418_F06>>[[#FnR.FnA1-F796418_F06][6]] :: Nur bei inländischen Unternehmen anzugeben.
-- <<FnA1-F796418_F07>>[[#FnR.FnA1-F796418_F07][7]] :: Sofern eine einheitliche Identifikationsnummer Legal Entity Identifier“ (LEI) existiert, ist diese anzugeben. Vorläufer der LEI, sog. Pre-LEI, sind ebenfalls zu berücksichtigen.
-- <<FnA1-F796418_F08>>[[#FnR.FnA1-F796418_F08][8]] :: Dreistellige Schlüsselnummer entsprechend Kundensystematik für die Bankenstatistik“.
+- <<FnA1-F796418_F07>>[[#FnR.FnA1-F796418_F07][7]] :: Sofern eine einheitliche Identifikationsnummer „Legal Entity Identifier“ (LEI) existiert, ist diese anzugeben. Vorläufer der LEI, sog. Pre-LEI, sind ebenfalls zu berücksichtigen.
+- <<FnA1-F796418_F08>>[[#FnR.FnA1-F796418_F08][8]] :: Dreistellige Schlüsselnummer entsprechend „Kundensystematik für die Bankenstatistik“.
 - <<FnA1-F796418_F09>>[[#FnR.FnA1-F796418_F09][9]] :: Servicefeld für die elektronische Einreichung.
 - <<FnA1-F796418_F10>>[[#FnR.FnA1-F796418_F10][10]] :: Für mittelbar gehaltene Beteiligungen gilt: Einzutragen ist die vollständige Beteiligungskette mit den jeweiligen unmittelbar gehaltenen Beteiligungsquoten zwischen den Beteiligungsunternehmen. Die Kette beginnt mit der unmittelbar gehaltenen Beteiligung des anzeigepflichtigen Instituts und endet mit dem anzuzeigenden mittelbar gehaltenen Beteiligungsunternehmen unter Nummer 3.
 - <<FnA1-F796418_F11>>[[#FnR.FnA1-F796418_F11][11]] :: Angaben zu den Beteiligungsquoten sind immer zu machen. Der Hauptvordruck ist dabei nur geeignet für einfache mittelbare Beteiligungsverhältnisse bis zu maximal vier Hierarchieebenen. Für komplexe Beteiligungsstrukturen oder mittelbare Beteiligungsverhältnisse über mehr als vier Ebenen sind die Angaben zu den Beteiligungsquoten in der Anlage für komplexe Beteiligungsstrukturen zu machen. In diesem Fall ist Nummer 4 des Hauptvordrucks nicht auszufüllen. Ggf. ist zusätzlich ein Organigramm beizufügen.\\
@@ -601,8 +601,8 @@ Fußnoten:
 - <<FnA1-F796418_F15>>[[#FnR.FnA1-F796418_F15][15]] :: Der Buchwert ist entsprechend dem vom Institut angewandten Buchführungsstandard (beispielsweise HGB, IFRS oder US GAAP) zu ermitteln.
 - <<FnA1-F796418_F16>>[[#FnR.FnA1-F796418_F16][16]] :: Sofern das Kapital des Unternehmens nicht auf Euro lautet, ist zusätzlich das Kapital in ausländischer Währung (in Tsd.) anzugeben. Das Kapital ist zum Kurs des Meldestichtages umzurechnen.
 - <<FnA1-F796418_F17>>[[#FnR.FnA1-F796418_F17][17]] :: Nur auszufüllen, soweit vom Kapitalanteil abweichend; Angaben in Prozent mit einer Stelle nach dem Komma.
-- <<FnA1-F796418_F18>>[[#FnR.FnA1-F796418_F18][18]] :: Ist das Beteiligungsunternehmen ein Tochterunternehmen des anzeigepflichtigen Instituts, ist Tochter“ einzutragen. Ansonsten ist das Feld nicht auszufüllen.
-- <<FnA1-F796418_F19>>[[#FnR.FnA1-F796418_F19][19]] :: Falls nein“ angekreuzt wird, ist dies zu begründen, ggf. sind weitere Unterlagen beizufügen.
+- <<FnA1-F796418_F18>>[[#FnR.FnA1-F796418_F18][18]] :: Ist das Beteiligungsunternehmen ein Tochterunternehmen des anzeigepflichtigen Instituts, ist „Tochter“ einzutragen. Ansonsten ist das Feld nicht auszufüllen.
+- <<FnA1-F796418_F19>>[[#FnR.FnA1-F796418_F19][19]] :: Falls „nein“ angekreuzt wird, ist dies zu begründen, ggf. sind weitere Unterlagen beizufügen.
 - <<FnA1-F796418_F20>>[[#FnR.FnA1-F796418_F20][20]] :: Buchwert der Beteiligung.
 - <<FnA1-F796418_F21>>[[#FnR.FnA1-F796418_F21][21]] :: Namensaktien, vinkulierte Namensaktien, ohne Nennkapital, Komplementär, Kommanditist, Anteil nicht voll einbezahlt, Kapitalveränderung, Fusion, Stammdatenänderung, abweichende Stimmrechtsanteile, Beteiligung resultiert ganz oder teilweise aus einem stillen Beteiligungsverhältnis, Unterbeteiligung.
 
@@ -628,62 +628,62 @@ Tsd. Euro
 Fremdwährung
 Währung
 Tsd.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Die durchgerechnete Kapitalquote beträgt        Prozent.
 BeteiligungsstrukturC}
 Beteiligtes Unternehmen
@@ -691,7 +691,7 @@ Beteiligungs-\\
 unternehmen
 besonderer Vermittler<<FnR.FnA1-F796418_A4_05>>[[#FnA1-F796418_A4_05][E]]}
 ArtE}
-Kapitalanteil¹
+Kapitalanteil¹³
 Stimm-\\
 rechts-\\
 anteil13, 17}\\
@@ -701,60 +701,60 @@ in Prozent
 Tsd. Euro
 Nennwert¹⁴
 Buchwert¹⁵
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Fußnoten:
 
 - <<FnA1-F796418_A4_01>>[[#FnR.FnA1-F796418_A4_01][A]] :: Sofern die Anlage für komplexe Beteiligungsstrukturen beigefügt ist, sind in Nummer 4 des Hauptvordrucks der aktivischen Beteiligung, in Nummer 5 des Hauptvordrucks der passivischen Beteiligung bzw. in Nummer 3 des Hauptvordrucks für Anzeigen nach § 24 Abs. 3 Satz 1 Nr. 2 KWG keine Angaben zu machen.
@@ -762,20 +762,20 @@ Fußnoten:
 - <<FnA1-F796418_A4_03>>[[#FnR.FnA1-F796418_A4_03][C]] :: Die Unternehmensliste enthält alle Unternehmen, die in der Beteiligungsstruktur vorkommen.\\
   Das anzeigepflichtige Institut steht bei aktivischen Beteiligungen immer an erster Stelle, bei passivischen an letzter Stelle. Bei der Anzeige von Schwesterunternehmen steht das gemeinsame Mutterunternehmen an erster und das Schwesterunternehmen an letzter Stelle. Bei der Anzeige einer bedeutenden Beteiligung eines Dritten an einem nachgeordneten ausländischen Unternehmen steht der Anteilseigner an erster und das nachgeordnete ausländische Unternehmen an letzter Stelle.\\
   Die Anzahl der Zeilen in der Unternehmensliste und der Beteiligungsstruktur ist bei Bedarf beliebig erweiterbar.
-- <<FnA1-F796418_A4_04>>[[#FnR.FnA1-F796418_A4_04][D]] :: Ist das Beteiligungsunternehmen ein Tochterunternehmen des anzeigepflichtigen Instituts, ist Tochter“ einzutragen. Ist das Beteiligungsunternehmen ein Mutterunternehmen, ist Mutter“ einzutragen; bei Unternehmensbeziehungen zu Schwesterunternehmen ist Schwester" einzutragen.
-- <<FnA1-F796418_A4_05>>[[#FnR.FnA1-F796418_A4_05][E]] :: Liegt eines der folgenden besonderen Zurechnungsverhältnisse vor, ist in der Spalte besonderer Vermittler“ die Nummer der Person oder des Unternehmens laut Unternehmensliste einzutragen, die oder das die besondere Vermittlerposition gemäArt“ ist der entsprechende Kennbuchstabe des besonderen Zurechnungsverhältnisses zu vermerken. Eine Mehrfachauswahl ist zulässig.
+- <<FnA1-F796418_A4_04>>[[#FnR.FnA1-F796418_A4_04][D]] :: Ist das Beteiligungsunternehmen ein Tochterunternehmen des anzeigepflichtigen Instituts, ist „Tochter“ einzutragen. Ist das Beteiligungsunternehmen ein Mutterunternehmen, ist „Mutter“ einzutragen; bei Unternehmensbeziehungen zu Schwesterunternehmen ist „Schwester" einzutragen.
+- <<FnA1-F796418_A4_05>>[[#FnR.FnA1-F796418_A4_05][E]] :: Liegt eines der folgenden besonderen Zurechnungsverhältnisse vor, ist in der Spalte „besonderer Vermittler“ die Nummer der Person oder des Unternehmens laut Unternehmensliste einzutragen, die oder das die besondere Vermittlerposition gemäß der folgenden Übersicht einnimmt. In der Spalte „Art“ ist der entsprechende Kennbuchstabe des besonderen Zurechnungsverhältnisses zu vermerken. Eine Mehrfachauswahl ist zulässig.
   | Verhältnis                        | besondere Position                                                                                                | Spalte Art |
   |-----------------------------------+-------------------------------------------------------------------------------------------------------------------+------------|
-  | § 34 Abs. 1 Satz 1 Nr. 2 WpHG     | Dritter im Sinne des § 34 Abs. 1 Satz 1 Nr. 2 WpHG (insb. Treuhänder)                                             | T“        |
-  | § 34 Abs. 1 Satz 1 Nr. 3 WpHG     | Sicherungsnehmer                                                                                                  | S“        |
-  | § 34 Abs. 1 Satz 1 Nr. 4 WpHG     | NieN“        |
-  | § 34 Abs. 1 Satz 1 Nr. 5 WpHG     | Erklärungsempfänger                                                                                               | E“        |
-  | § 34 Abs. 1 Satz 1 Nr. 6 WpHG     | Vertretener im Sinne des § 34 Abs. 1 Satz 1 Nr. 6 WpHG                                                            | V“        |
-  | § 34 Abs. 1 Satz 1 Nr. 7 WpHG     | Auf Grund einer Vereinbarung zur Ausübung der Stimmrechte Berechtigter im Sinne des § 34 Abs. 1 Satz 1 Nr. 7 WpHG | A“        |
-  | § 34 Abs. 1 Satz 1 Nr. 8 WpHG     | Verwahrer im Sinne des § 34 Abs. 1 Satz 1 Nr. 8 WpHG                                                              | W“        |
-  | § 34 Abs. 2 Satz 1 WpHG           | Dritter im Sinne des § 34 Abs. 2 Satz 1 WpHG                                                                      | D“        |
-  | Unterbeteiligungsverhältnis       | Hauptbeteiligter                                                                                                  | H“        |
-  | Zusammenwirken in sonstiger Weise | Vermittelnder                                                                                                     | Z“        |
+  | § 34 Abs. 1 Satz 1 Nr. 2 WpHG     | Dritter im Sinne des § 34 Abs. 1 Satz 1 Nr. 2 WpHG (insb. Treuhänder)                                             | „T“        |
+  | § 34 Abs. 1 Satz 1 Nr. 3 WpHG     | Sicherungsnehmer                                                                                                  | „S“        |
+  | § 34 Abs. 1 Satz 1 Nr. 4 WpHG     | Nießbrauchsgeber                                                                                                  | „N“        |
+  | § 34 Abs. 1 Satz 1 Nr. 5 WpHG     | Erklärungsempfänger                                                                                               | „E“        |
+  | § 34 Abs. 1 Satz 1 Nr. 6 WpHG     | Vertretener im Sinne des § 34 Abs. 1 Satz 1 Nr. 6 WpHG                                                            | „V“        |
+  | § 34 Abs. 1 Satz 1 Nr. 7 WpHG     | Auf Grund einer Vereinbarung zur Ausübung der Stimmrechte Berechtigter im Sinne des § 34 Abs. 1 Satz 1 Nr. 7 WpHG | „A“        |
+  | § 34 Abs. 1 Satz 1 Nr. 8 WpHG     | Verwahrer im Sinne des § 34 Abs. 1 Satz 1 Nr. 8 WpHG                                                              | „W“        |
+  | § 34 Abs. 2 Satz 1 WpHG           | Dritter im Sinne des § 34 Abs. 2 Satz 1 WpHG                                                                      | „D“        |
+  | Unterbeteiligungsverhältnis       | Hauptbeteiligter                                                                                                  | „H“        |
+  | Zusammenwirken in sonstiger Weise | Vermittelnder                                                                                                     | „Z“        |
 - <<FnA1-F796418_A4_06>>[[#FnR.FnA1-F796418_A4_06][F]] :: Nur anzukreuzen, wenn sich die Tochtereigenschaft eines zwischengeschalteten Beteiligungsunternehmens nicht aus einem der in § 290 Abs. 2 HGB genannten Beherrschungstatbestände ergibt. Angaben zu den Kapital- und ggf. abweichenden Stimmrechtsanteilen sind in jedem Fall zu machen.
 
 Die Fußnoten 6 bis 17 entsprechen den Fußnoten in Anlage 3 (aktivische Beteiligungsanzeige) und Anlage 5 (passivische Beteiligungsanzeige).
@@ -825,8 +825,8 @@ Anlage 5 - (zu § 8 Abs. 1 und 2 AnzV)
 (§ 1 Abs. 1 Nr. 5 ZAG)
 □ sonstiges Unternehmen
 □ sonstiger Anteilseigner
-
-
+ 
+ 
 4.  Nur auszufüllen bei der Anzeige einer bedeutenden Beteiligung eines Dritten an einem nachgeordneten ausländischen Unternehmen (§ 24 Abs. 1a Nr. 3 KWG)
 5.  Angaben zu den Beteiligungsquoten<<FnR.FnA1-F796418_F510>>[[#FnA1-F796418_F510][10]]} , }<<FnR.FnA1-F796418_F511>>[[#FnA1-F796418_F511][11]]}
 Der Anteilseigner hält an dem Institut eine durchgerechnete Kapitalquote in Höhe von       Prozent.
@@ -837,7 +837,7 @@ Seite 1
   \\
   \\
   □ ja
-  Falls ja“ angekreuzt wurde, sind in der Unternehmensliste der Anlage für komplexe Beteiligungsstrukturen nähere Angaben zu den anderen Personen oder Unternehmen zu machen.\\
+  Falls „ja“ angekreuzt wurde, sind in der Unternehmensliste der Anlage für komplexe Beteiligungsstrukturen nähere Angaben zu den anderen Personen oder Unternehmen zu machen.\\
   \\
   Nur auszufüllen, wenn keine oder weniger als 10 Prozent der Kapital- oder Stimmrechtsanteile gehalten werden
   □ Auf die Geschäftsführung kann ein maßgeblicher Einfluss ausgeübt werden:
@@ -847,11 +847,11 @@ Fußnoten:
 
 - <<FnA1-F796418_F501>>[[#FnR.FnA1-F796418_F501][1]] :: Nur von Sparkassen und Kreditgenossenschaften auszufüllen.
 - <<FnA1-F796418_F502>>[[#FnR.FnA1-F796418_F502][2]] :: Mehrfachauswahl ist zulässig.
-- <<FnA1-F796418_F504>>[[#FnR.FnA1-F796418_F504][4]] :: Mehrfachauswahl ist nicht zulässig. Treffen gleichzeitig mehrere Varianten zu, ist die speziellere anzukreuzen. Ist eine speziellere Auswahl nicht festlegbar, ist diejenige Variante auszuwählen, die dem grösonstiger Anteilseigner“ ist nur für Anteilseigner ohne Unternehmenseigenschaft zu treffen.
+- <<FnA1-F796418_F504>>[[#FnR.FnA1-F796418_F504][4]] :: Mehrfachauswahl ist nicht zulässig. Treffen gleichzeitig mehrere Varianten zu, ist die speziellere anzukreuzen. Ist eine speziellere Auswahl nicht festlegbar, ist diejenige Variante auszuwählen, die dem größten Anteil am Geschäft des Unternehmens entspricht. Die Auswahl „sonstiger Anteilseigner“ ist nur für Anteilseigner ohne Unternehmenseigenschaft zu treffen.
 - <<FnA1-F796418_F505>>[[#FnR.FnA1-F796418_F505][5]] :: Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 646/2012 (ABl. L 176 vom 27.6.2013, S. 1).
 - <<FnA1-F796418_F506>>[[#FnR.FnA1-F796418_F506][6]] :: Nur bei inländischen Anteilseignern anzugeben.
-- <<FnA1-F796418_F507>>[[#FnR.FnA1-F796418_F507][7]] :: Sofern eine einheitliche Identifikationsnummer Legal Entity Identifier“ (LEI) existiert, ist diese anzugeben. Vorläufer der LEI, sog. Pre-LEI sind ebenfalls zu berücksichtigen.
-- <<FnA1-F796418_F508>>[[#FnR.FnA1-F796418_F508][8]] :: Dreistellige Schlüsselnummer entsprechend Kundensystematik für die Bankenstatistik“.
+- <<FnA1-F796418_F507>>[[#FnR.FnA1-F796418_F507][7]] :: Sofern eine einheitliche Identifikationsnummer „Legal Entity Identifier“ (LEI) existiert, ist diese anzugeben. Vorläufer der LEI, sog. Pre-LEI sind ebenfalls zu berücksichtigen.
+- <<FnA1-F796418_F508>>[[#FnR.FnA1-F796418_F508][8]] :: Dreistellige Schlüsselnummer entsprechend „Kundensystematik für die Bankenstatistik“.
 - <<FnA1-F796418_F509>>[[#FnR.FnA1-F796418_F509][9]] :: Servicefeld für die elektronische Einreichung.
 - <<FnA1-F796418_F510>>[[#FnR.FnA1-F796418_F510][10]] :: Einzutragen ist die vollständige Beteiligungskette mit den jeweiligen unmittelbaren Beteiligungsquoten zwischen den Beteiligungsunternehmen. Die Kette beginnt in der ersten Zeile mit dem anzuzeigenden Anteilseigner laut Nummer 3 und endet mit dem anzeigepflichtigen Institut. In der ersten Zeile ist neben der Firma des Anteilseigners lediglich dessen Verhältnis zum Institut anzugeben. Ab der zweiten Zeile sind auch die Angaben zu den Anteilen auszufüllen.
 - <<FnA1-F796418_F511>>[[#FnR.FnA1-F796418_F511][11]] :: Angaben zu den Beteiligungsquoten sind immer zu machen. Der Hauptvordruck ist dabei nur geeignet für einfache mittelbare Beteiligungsverhältnisse bis zu maximal drei Hierarchieebenen. Für komplexe Beteiligungsstrukturen oder mittelbare Beteiligungsverhältnisse über mehr als drei Ebenen sind die Angaben zu den Beteiligungsquoten in der Anlage für komplexe Beteiligungsstrukturen zu machen. In diesem Fall ist die Tabelle unter Nummer 5 des Hauptvordrucks nicht auszufüllen. Die durchgerechnete Kapitalquote unter Nummer 5 des Hauptvordrucks ist in jedem Fall anzugeben. Ggf. ist zusätzlich ein Organigramm beizufügen.\\
@@ -866,7 +866,7 @@ Fußnoten:
 - <<FnA1-F796418_F514>>[[#FnR.FnA1-F796418_F514][14]] :: Beteiligung am Nennwert (Nennkapital, Summe der Kapitalanteile); bei Personenhandelsgesellschaften und Gesellschaften des bürgerlichen Rechts ist auf das durch den Gesellschaftsvertrag festgelegte Beteiligungsverhältnis abzustellen. Angaben in Prozent mit einer Stelle nach dem Komma. Fremdwährungsbeträge sind in Euro umzurechnen. Sofern der Nennwert nicht auf Euro lautet, ist zusätzlich der Nennwert in ausländischer Währung (in Tsd.) anzugeben. Der Nennwert ist zum Kurs des Meldestichtages umzurechnen.
 - <<FnA1-F796418_F516>>[[#FnR.FnA1-F796418_F516][16]] :: Sofern das Kapital des Unternehmens nicht auf Euro lautet, ist zusätzlich das Kapital in ausländischer Währung (in Tsd.) anzugeben. Das Kapital ist zum Kurs des Meldestichtages umzurechnen.
 - <<FnA1-F796418_F517>>[[#FnR.FnA1-F796418_F517][17]] :: Nur auszufüllen, soweit vom Kapitalanteil abweichend; Angaben in Prozent mit einer Stelle nach dem Komma.
-- <<FnA1-F796418_F518>>[[#FnR.FnA1-F796418_F518][18]] :: Ist das Beteiligungsunternehmen ein Mutterunternehmen des anzeigepflichtigen Instituts, ist Mutter“ einzutragen. Ansonsten ist das Feld nicht auszufüllen.
+- <<FnA1-F796418_F518>>[[#FnR.FnA1-F796418_F518][18]] :: Ist das Beteiligungsunternehmen ein Mutterunternehmen des anzeigepflichtigen Instituts, ist „Mutter“ einzutragen. Ansonsten ist das Feld nicht auszufüllen.
 - <<FnA1-F796418_F519>>[[#FnR.FnA1-F796418_F519][19]] :: Namensaktien, vinkulierte Namensaktien, ohne Nennkapital, Komplementär, Kommanditist, Anteil nicht voll einbezahlt, Kapitalveränderung, Fusion, Stammdatenänderung, abweichende Stimmrechtsanteile, Beteiligung resultiert ganz oder teilweise aus einem stillen Beteiligungsverhältnis, Unterbeteiligung.
 
 Diese Seite ist nicht mit einzureichen.
@@ -888,7 +888,7 @@ Anlage 6 - (zu § 10a Nr. 1, § 11 Abs. 1 Nr. 1 AnzV)NTLSI
 - <<FnA1-f804292_01_07>>[[#FnR.FnA1-f804292_01_07][1]] :: oder der einzelvertretungsberechtigten Person oder der Person, die die Geschäfte einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-Gesellschaft tatsächlich führt, oder des Mitglieds eines Verwaltungs- oder Aufsichtsorgans eines CRR-Instituts, das von erheblicher Bedeutung ist, einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-Gesellschaft
 - <<FnA1-f804292_01_08>>[[#FnR.FnA1-f804292_01_08][2]] :: oder der Finanzholding-Gesellschaft oder der gemischten Finanzholding-Gesellschaft
 - <<FnA1-f804292_01_09>>[[#FnR.FnA1-f804292_01_09][3]] :: Mandate in Beiräten sind anzugeben, wenn die Aufgaben und Befugnisse des Beirats denen eines Verwaltungs- oder Aufsichtsorgans entsprechen und gesetzlich, per Satzung oder Gesellschaftsvertrag geregelt sind.
-- <<FnA1-f804292_01_10>>[[#FnR.FnA1-f804292_01_10][4]] :: Sofern eine einheitliche Identifikationsnummer Legal Entity Identifier“ (LEI) existiert, ist diese anzugeben. Vorläufer der LEI, sog. Pre-LEI, sind ebenfalls anzugeben.
+- <<FnA1-f804292_01_10>>[[#FnR.FnA1-f804292_01_10][4]] :: Sofern eine einheitliche Identifikationsnummer „Legal Entity Identifier“ (LEI) existiert, ist diese anzugeben. Vorläufer der LEI, sog. Pre-LEI, sind ebenfalls anzugeben.
 
 
 Anlage 7 - (zu § 11 Abs. 2 AnzV)
@@ -938,8 +938,8 @@ Fußnoten:
 - <<FnA1-F796418_F703>>[[#FnR.FnA1-F796418_F703][3]] :: Mehrfachauswahl ist nicht zulässig. Treffen gleichzeitig mehrere Varianten zu, ist die speziellere anzukreuzen. Ist eine speziellere Auswahl nicht festlegbar, ist diejenige Variante auszuwählen, die dem größten Anteil am Geschäft des Unternehmens entspricht.
 - <<FnA1-F796418_F704>>[[#FnR.FnA1-F796418_F704][4]] :: Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 648/2012 (ABl. L 176 vom 27.6.2013, S. 1) in der jeweils geltenden Fassung.
 - <<FnA1-F796418_F705>>[[#FnR.FnA1-F796418_F705][5]] :: Nur bei inländischen Unternehmen anzugeben.
-- <<FnA1-F796418_F706>>[[#FnR.FnA1-F796418_F706][6]] :: Sofern eine einheitliche Identifikationsnummer Legal Entity Identifier“ (LEI) existiert, ist diese anzugeben. Vorläufer der LEI, sog. Pre-LEI, sind ebenfalls zu berücksichtigen.
-- <<FnA1-F796418_F707>>[[#FnR.FnA1-F796418_F707][7]] :: Dreistellige Schlüsselnummer entsprechend Kundensystematik für die Bankenstatistik“.
+- <<FnA1-F796418_F706>>[[#FnR.FnA1-F796418_F706][6]] :: Sofern eine einheitliche Identifikationsnummer „Legal Entity Identifier“ (LEI) existiert, ist diese anzugeben. Vorläufer der LEI, sog. Pre-LEI, sind ebenfalls zu berücksichtigen.
+- <<FnA1-F796418_F707>>[[#FnR.FnA1-F796418_F707][7]] :: Dreistellige Schlüsselnummer entsprechend „Kundensystematik für die Bankenstatistik“.
 - <<FnA1-F796418_F708>>[[#FnR.FnA1-F796418_F708][8]] :: Für Beteiligungsstrukturen, in denen Treuhandverhältnisse vorkommen, ist neben dem Hauptvordruck die Anlage für komplexe Beteiligungsstrukturen einzureichen. In diesem Fall ist Nummer 3 des Hauptvordrucks nicht auszufüllen.
 - <<FnA1-F796418_F709>>[[#FnR.FnA1-F796418_F709][9]] :: Beteiligung am Nennwert (Nennkapital, Summe der Kapitalanteile); bei Personenhandelsgesellschaften und Gesellschaften des bürgerlichen Rechts ist auf das durch den Gesellschaftsvertrag festgelegte Beteiligungsverhältnis abzustellen. Angaben in Prozent mit einer Stelle nach dem Komma. Sofern der Nennwert nicht auf Euro lautet, ist zusätzlich der Nennwert in ausländischer Währung (in Tsd.) anzugeben. Der Nennwert ist zum Kurs des Meldestichtages umzurechnen.
 - <<FnA1-F796418_F710>>[[#FnR.FnA1-F796418_F710][10]] :: Sofern das Kapital des Unternehmens nicht auf Euro lautet, ist zusätzlich das Kapital in ausländischer Währung (in Tsd.) anzugeben. Das Kapital ist zum Kurs des Meldestichtages umzurechnen.
@@ -1031,13 +1031,13 @@ a. Bitte geben Sie an, welche Tätigkeit die angezeigte Person innehat/innehabe
 □  Vorsitzende(r) des Verwaltungs-/Aufsichtsorgans
 □  Leitungsorgan einer Finanzholding-Gesellschaft oder gemischten Finanzholding-Gesellschaft
 □  sonstige Position (bitte näher erläutern)
-
+ 
 b. Bitte geben Sie möglichst genau an, mit welchen Hauptaufgaben und Verpflichtungen die Tätigkeit in dem beaufsichtigten Unternehmen verbunden ist und wie\\
     viele Mitarbeiterinnen und Mitarbeiter der Person unterstellt sein werden
-
+ 
     Bitte geben Sie an, ob und welchen Ausschüssen/Unterausschüssen des Verwaltungs- oder Aufsichtsorgans oder des Vorstands die Person\\
     angehört/angehören wird und beschreiben Sie diese:
-
+ 
 c. Bitte geben Sie nachfolgende Informationen zur Bestellung der Person:
 Bestellung zum:\\
 (Planmäßige) Amtszeit:
@@ -1061,10 +1061,10 @@ Schulungsinhalte
 Veranstalter (interne Schulung oder Name des externen Veranstalters)
 Beginn:
 Ende:
-
-
-
-
+ 
+ 
+ 
+ 
 2.  Interessenkonflikte
 | Wenn die angezeigte Person in Anlage 2 dieser Anzeige Erklärungen zu potentiellen Interessenkonflikten abgegeben hat, teilen Sie bitte mit, durch welche Maßnahmen der Interessenkonflikt (unabhängig davon, ob dieser als wesentlich oder nicht wesentlich zu betrachten ist) verhindert, abgeschwächt oder gelöst werden soll. Bitte fügen Sie entsprechende Unterlagen (z. B. Satzung, Geschäftsordnung) bei.\\ |
 
@@ -1077,7 +1077,7 @@ Ende:
 |                                                                                                                                                                                                                                                                                                                                                                                                   |
 
 4.  Weitere Informationen/Anmerkungen
-
+ 
 \\
 \\
 Erklärung des beaufsichtigten Unternehmens
@@ -1088,24 +1088,24 @@ Der Unterzeichner/die Unterzeichnerin bestätigt, dass
 □  die Beschreibung der Funktion, die die Person innehat/innehaben soll, diejenigen Aspekte der Aktivitäten des beaufsichtigten Unternehmens, für die die Person zuständig ist/sein soll, zutreffend wiedergibt;
 □  das beaufsichtigte Unternehmen auf Grundlage sorgfältiger Erkundigungen und unter Bezugnahme auf die in § 25c Abs. 1 und 2 KWG oder § 25d Abs. 1 bis 3 KWG bzw. § 2d Abs. 1 KWG geregelten Eignungskriterien der Auffassung ist, dass die angezeigte Person fachlich geeignet oder sachkundig, zuverlässig und ausreichend zeitlich verfügbar ist;
 □  das beaufsichtigte Unternehmen die angezeigte Person auf die gesetzlichen Verpflichtungen, die mit der Funktion, die die Person innehat/innehaben soll, hingewiesen hat.
-
-
-
+ 
+ 
+ 
 Datum, Unterschrift
-
+ 
 Erläuterungen:
 Allgemeines:
 
-- -- :: Die Europäische Zentralbank strebt eine einheitliche Verwaltungspraxis bei der Beurteilung der Eignung und Zuverlässigkeit der Leitungsorgane der beaufsichtigten Unternehmen der am einheitlichen Aufsichtsmechanismus (SSM) teilnehmenden Mitgliedsstaaten an. Dies erfordert eine Harmonisierung der der Beurteilung zugrunde liegenden Informationen. Der vorliegende Fragebogen fuFit and Proper Questionnaire“. Unbeschadet der Harmonisierung der durch die Unternehmen und Personen abzugebenden Informationen legt die Europäische Zentralbank bei der Fit&Proper“-Beurteilung der Leitungsorgane von deutschen Unternehmen die gesetzlichen Anforderungen des Kreditwesengesetzes zugrunde.
-- -- :: Der Fragebogen ist von anzeigenden Instituten oder Finanzholding-Gesellschaften oder gemischten Finanzholdinggesellschaften zu verwenden. Im Fragebogen wird zur besseren Lesbarkeit der Begriff beaufsichtigtes Unternehmen“ verwendet.
+- -- :: Die Europäische Zentralbank strebt eine einheitliche Verwaltungspraxis bei der Beurteilung der Eignung und Zuverlässigkeit der Leitungsorgane der beaufsichtigten Unternehmen der am einheitlichen Aufsichtsmechanismus (SSM) teilnehmenden Mitgliedsstaaten an. Dies erfordert eine Harmonisierung der der Beurteilung zugrunde liegenden Informationen. Der vorliegende Fragebogen fußt insofern auf dem durch das Supervisory Board der Europäischen Zentralbank am 3. August 2016 verabschiedeten „Fit and Proper Questionnaire“. Unbeschadet der Harmonisierung der durch die Unternehmen und Personen abzugebenden Informationen legt die Europäische Zentralbank bei der „Fit&Proper“-Beurteilung der Leitungsorgane von deutschen Unternehmen die gesetzlichen Anforderungen des Kreditwesengesetzes zugrunde.
+- -- :: Der Fragebogen ist von anzeigenden Instituten oder Finanzholding-Gesellschaften oder gemischten Finanzholdinggesellschaften zu verwenden. Im Fragebogen wird zur besseren Lesbarkeit der Begriff „beaufsichtigtes Unternehmen“ verwendet.
 - -- :: Der Fragebogen ist sorgfältig und vollständig auszufüllen.
 - -- :: Der vollständig ausgefüllte Fragebogen ist der Anzeige nach § 24 Abs. 1 Nr. 1 KWG, § 24 Abs. 1 Nr. 15 KWG, § 24 Abs. 3a Satz 1 Nr. 1 i. V. m. Satz 5 KWG oder § 24 Abs. 3a Satz 1 Nr. 4 i. V. m. Satz 5 KWG beizufügen. Eine separate Einreichung ist grundsätzlich möglich.
 
 Zu 1. Angaben zur Tätigkeit:
 Zu c: Informationen zur Bestellung der Person:
 
-- -- :: In der Regel handelt es sich bei den Verträgen der Geschäftsleiter um Dienstverträge. Soweit eine andere Vertragsgestaltung vorliegt, ist Sonstiges“ zu wählen und entsprechend zu erläutern.
-- -- :: Für ein Mitglied eines Verwaltungs- oder Aufsichtsorgans, das kein Arbeitnehmervertreter nach den jeweiligen Mitbestimmungsgesetzen ist, ist regelmäSonstiges“ auszuwählen. Bei dieser Option sollten weitere Erläuterungen (z. B. geborenes Mitglied, Vertreter/in des Anteilseigners) gegeben werden.
+- -- :: In der Regel handelt es sich bei den Verträgen der Geschäftsleiter um Dienstverträge. Soweit eine andere Vertragsgestaltung vorliegt, ist „Sonstiges“ zu wählen und entsprechend zu erläutern.
+- -- :: Für ein Mitglied eines Verwaltungs- oder Aufsichtsorgans, das kein Arbeitnehmervertreter nach den jeweiligen Mitbestimmungsgesetzen ist, ist regelmäßig die Option „Sonstiges“ auszuwählen. Bei dieser Option sollten weitere Erläuterungen (z. B. geborenes Mitglied, Vertreter/in des Anteilseigners) gegeben werden.
 - -- :: Die nach dem KWG vorgeschriebenen Anzeigen sind unverzüglich zu erstatten. Die Bundesanstalt geht regelmäßig davon aus, dass eine Anzeige nicht mehr unverzüglich erfolgt ist, sobald ein Zeitraum von vier Wochen nach Entscheidung des zuständigen Organs überschritten ist.
 
 Zu Erklärung des beaufsichtigten Unternehmens:
@@ -1133,59 +1133,59 @@ Fragebogen zur Beurteilung der fachlichen Qualifikation, persönlichen Zuverläs
 Name
 Bei Namensänderung
 Akademischer Titel
-
+ 
 Früherer akademischer Titel
-
+ 
 Name
-
+ 
 Früherer Name
-
+ 
 Vorname
-
+ 
 Früherer Vorname
-
+ 
 Weitere Vornamen
-
+ 
 Frühere weitere Vornamen
-
-
+ 
+ 
 Datum und Grund der Namensänderung
-
+ 
 Wohnsitz
 Weiterer Wohnsitz
 Straße
-
+ 
 Straße
-
+ 
 Postleitzahl, Ort
-
+ 
 Postleitzahl, Ort
-
+ 
 Land
-
+ 
 Land
-
+ 
 Dort gemeldet seit:
-
+ 
 Dort gemeldet seit:
-
+ 
 Geburtsdatum
-
+ 
 Personalausweisnummer/Reisepassnummer
-
+ 
 Geburtsort
-
+ 
 Ausgestellt in (Land):
-
+ 
 Staatsangehörigkeit
-
+ 
 Gültig bis:
-
+ 
 Telefonnummer (einschl. Ländervorwahl)
-
+ 
 E-Mail-Adresse
-
-Frühere im Finanzsektor im In- und Ausland erteilte/nicht erteilte Genehmigungen und durchgeführte Fit&Proper“-Beurteilungen
+ 
+Frühere im Finanzsektor im In- und Ausland erteilte/nicht erteilte Genehmigungen und durchgeführte „Fit&Proper“-Beurteilungen
 Beteiligte Behörde
 Beteiligtes Unternehmen
 Tätigkeit/Funktion
@@ -1195,21 +1195,21 @@ Ende der\\
 Tätigkeit/Funktion
 Datum der Beurteilung
 Ergebnis der Beurteilung
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Bitte erläutern Sie die Gründe für die oben angeführte Nichterteilung oder negative Fit&Proper“-Beurteilungen:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bitte erläutern Sie die Gründe für die oben angeführte Nichterteilung oder negative „Fit&Proper“-Beurteilungen:
 \\
 
 2.  Angaben zur Zuverlässigkeit
@@ -1295,13 +1295,13 @@ Datum des Abschlusses
 Ausbildungsstätte (Universität, Hochschule,\\
 berufsbildende Einrichtung usw.)
 \\
-
-
-
+ 
+ 
+ 
 \\
-
-
-
+ 
+ 
+ 
 b. Praktische Erfahrungen im Bank-/Finanzbereich
 Position
 Hauptaufgaben
@@ -1318,23 +1318,23 @@ Tätig bis\\
 Grund des\\
 Ausscheidens
 \\
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 \\
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 c. Sonstige relevante Erfahrungen in leitender Position außerhalb des Finanzsektors (als Mitglied eines Leitungsorgans oder der ersten oder zweiten     Führungsebene)
 Position
 Hauptaufgaben
@@ -1351,23 +1351,23 @@ Tätig bis\\
 Grund des\\
 Ausscheidens
 \\
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 \\
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 d. Sonstige relevante Erfahrungen außerhalb des Finanzsektors (z. B. wissenschaftliche oder juristische Tätigkeit, Tätigkeit im Bereich IT, Ingenieurs- oder      Personalwesen, politische Ämter, sonstige nicht gewerbliche Tätigkeit)
 Position
 Hauptaufgaben
@@ -1384,23 +1384,23 @@ Tätig bis\\
 Grund des\\
 Ausscheidens
 \\
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 \\
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Allgemeine Erfahrung im Bankwesen gemäß EBA-Leitlinien zur Beurteilung der Eignung von Mitgliedern des Leitungsorgans und von Inhabern von Schlüsselfunktionen vom 22. November 2012 (EBA/GL/2012/06)
 
 - 1. :: Finanzmärkte
@@ -1517,23 +1517,23 @@ oder Höhe der Investition)
 
 \\
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 \\
 
+ 
 
+ 
 
+ 
 
-
-
-
-
+ 
 
 - f. :: Vertreten Sie in irgendeiner Weise einen Anteilseigner des beaufsichtigten Unternehmens oder dessen Mutter- oder Tochterunternehmen?
 
@@ -1551,15 +1551,15 @@ Art der Vertretung
 
 \\
 
+ 
 
-
-
+ 
 
 \\
 
+ 
 
-
-
+ 
 
 - g. :: Haben Sie oder eine Ihnen persönlich nahestehende Person wesentliche finanzielle Verpflichtungen gegenüber dem beaufsichtigten Unternehmen, dessen Mutter- oder Tochterunternehmen?
 
@@ -1577,15 +1577,15 @@ Art der Vertretung
 
 \\
 
+ 
 
-
-
+ 
 
 \\
 
+ 
 
-
-
+ 
 
 - h. :: Haben oder hatten Sie oder eine Ihnen persönlich nahestehende Person in den letzten zwei Jahren eine Position mit hohem politischem Einfluss inne (auf Bundes-, Landes- oder kommunaler Ebene)?
 
@@ -1609,15 +1609,15 @@ dessen Mutter- oder Tochterunternehmen
 
 \\
 
+ 
 
-
-
+ 
 
 \\
 
+ 
 
-
-
+ 
 
 - i. :: Haben Sie oder eine Ihnen persönlich nahestehende Person weitere Verbindungen oder Engagements oder Positionen inne, die von den vorstehenden Fragen nicht erfasst werden und die den Interessen des beaufsichtigten Unternehmens schaden könnten?
 
@@ -1631,7 +1631,7 @@ Falls JA, erläutern Sie dies bitte näher. Bitte geben Sie dabei z. B. Art, Geg
 
 - a. :: Welcher Zeitaufwand ist für die angezeigte Tätigkeit erforderlich?
 
-
+ 
 
 - b. :: Wurde Ihnen durch eine zuständige Behörde die Genehmigung erteilt, ein zusätzliches Mandat in einem Verwaltungs- oder Aufsichtsorgan innezuhaben?
 
@@ -1679,59 +1679,59 @@ Zusätzliche Informationen
 
 \\
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
-
-
-
-
+ 
 
 \\
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
-
-
-
-
+ 
 
 - d. :: Gesamtzahl der zu berücksichtigenden Geschäftsleitermandate (unter Anwendung der privilegierten Zählweise, ohne Einbezug nicht zu berücksichtigender Mandate)
 
-
+ 
 
 - e. :: Gesamtzahl der zu berücksichtigenden Mandate in Verwaltungs- und Aufsichtsorganen (unter Anwendung der privilegierten Zählweise, ohne Einbezug nicht zu berücksichtigender Mandate)
 
-
+ 
 
 - f. :: Bitte erläutern Sie bei Anwendung der privilegierten Zählweise, ob zwischen den Unternehmen Synergien bestehen und ob es darauf gründende Überschneidungen in Bezug auf den Zeitaufwand für die Ausübung der Mandate gibt:
 
@@ -1739,11 +1739,11 @@ Zusätzliche Informationen
 
 - g. :: Gesamtaufwand pro Woche in Stunden für alle Mandate, ohne das angezeigte Mandat
 
-
+ 
 
 - h. :: Gesamtaufwand pro Jahr in Tagen für alle Mandate, ohne das angezeigte Mandat
 
-
+ 
 
 6.  Weitere Informationen/Anmerkungen
 | \\ |
@@ -1754,24 +1754,24 @@ Der Unterzeichner/die Unterzeichnerin
 □  bestätigt, dass die Angaben nach seinem/ihrem besten Wissen und Gewissen zutreffend und vollständig sind;
 □  bestätigt, dass er/sie das beaufsichtigte Unternehmen bei Eintritt einer wesentlichen Änderung bezüglich der getätigten Angaben unverzüglich informiert;
 □  bestätigt, dass er/sie sich der Verpflichtungen bewusst ist, die sich aus den für seine/ihre Funktion relevanten europäischen und nationalen Rechtsvorschriften sowie internationalen Standards ergeben, einschließlich der Verordnungen, Leitfäden, Leitlinien sowie sonstige von der Europäischen Zentralbank, der Bundesanstalt und der Europäischen Bankaufsichtsbehörde (EBA) veröffentlichten Regelungen oder Richtlinien. Er/sie bestätigt seine/ihre Absicht, diese stets nach bestem Wissen und Gewissen einzuhalten.
-
-
-
-
+ 
+ 
+ 
+ 
 Datum, Unterschrift
-
+ 
 Erläuterungen:
 Allgemeines:
 
-- -- :: Die Europäische Zentralbank strebt eine einheitliche Verwaltungspraxis bei der Beurteilung der Eignung und Zuverlässigkeit der Leitungsorgane der beaufsichtigten Unternehmen der am einheitlichen Aufsichtsmechanismus (SSM) teilnehmenden Mitgliedsstaaten an. Dies erfordert eine Harmonisierung der der Beurteilung zugrunde liegenden Informationen. Der vorliegende Fragebogen fuFit and Proper Questionnaire“. Unbeschadet der Harmonisierung der durch die Unternehmen und Personen abzugebenden Informationen legt die Europäische Zentralbank bei der Fit&Proper“-Beurteilung der Leitungsorgane von deutschen Unternehmen die Regelungen des Kreditwesengesetzes zugrunde.
-- -- :: Der Begriff beaufsichtigtes Unternehmen“ umfasst das anzeigende Institut oder die anzeigende Finanzholding-Gesellschaft oder die anzeigende gemischte Finanzholdinggesellschaft und wird zur besseren Lesbarkeit verwendet.
+- -- :: Die Europäische Zentralbank strebt eine einheitliche Verwaltungspraxis bei der Beurteilung der Eignung und Zuverlässigkeit der Leitungsorgane der beaufsichtigten Unternehmen der am einheitlichen Aufsichtsmechanismus (SSM) teilnehmenden Mitgliedsstaaten an. Dies erfordert eine Harmonisierung der der Beurteilung zugrunde liegenden Informationen. Der vorliegende Fragebogen fußt insofern auf dem durch das Supervisory Board der Europäischen Zentralbank am 3. August 2016 verabschiedeten „Fit and Proper Questionnaire“. Unbeschadet der Harmonisierung der durch die Unternehmen und Personen abzugebenden Informationen legt die Europäische Zentralbank bei der „Fit&Proper“-Beurteilung der Leitungsorgane von deutschen Unternehmen die Regelungen des Kreditwesengesetzes zugrunde.
+- -- :: Der Begriff „beaufsichtigtes Unternehmen“ umfasst das anzeigende Institut oder die anzeigende Finanzholding-Gesellschaft oder die anzeigende gemischte Finanzholdinggesellschaft und wird zur besseren Lesbarkeit verwendet.
 - -- :: Der Fragebogen ist sorgfältig und vollständig auszufüllen.
 - -- :: Der vollständig ausgefüllte Fragebogen ist durch das beaufsichtigte Unternehmen der Anzeige nach § 24 Abs. 1 Nr. 1 KWG, § 24 Abs. 1 Nr. 15 KWG, § 24 Abs. 3a Satz 1 Nr. 1 i. V. m. Satz 5 KWG oder § 24 Abs. 3a Satz 1 Nr. 4 i. V. m. Satz 5 KWG beizufügen; eine separate Einreichung ist grundsätzlich möglich.
 
 Zu 1. Angaben zur Person:
 
 - -- :: Zum Finanzsektor zählen Kreditinstitute, Finanzdienstleistungsinstitute, Zahlungsinstitute, Versicherungsunternehmen und weitere, durch die national zuständige Finanzdienstleistungsaufsicht beaufsichtigte Unternehmen.
-- -- :: Soweit Sie über frühere Fit&Proper“-Beurteilungen nicht persönlich schriftlich informiert wurden, sind die Felder nach bestem Wissen und Gewissen auszufüllen.
+- -- :: Soweit Sie über frühere „Fit&Proper“-Beurteilungen nicht persönlich schriftlich informiert wurden, sind die Felder nach bestem Wissen und Gewissen auszufüllen.
 
 Zu 2. Angaben zur Zuverlässigkeit:
 
@@ -1824,12 +1824,12 @@ Anlage 12 - (zu § 10a Nr. 2, § 11 Abs. 1 Nr. 2 AnzV)NTSI
 - <<FnA1-f804292_04_01>>[[#FnR.FnA1-f804292_04_01][1]] :: oder der einzelvertretungsberechtigten Person oder der Person, die die Geschäfte einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-Gesellschaft tatsächlich führt, oder des Mitglieds eines Verwaltungs- oder Aufsichtsorgans eines CRR-Instituts, das von erheblicher Bedeutung ist, einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-Gesellschaft
 - <<FnA1-f804292_04_02>>[[#FnR.FnA1-f804292_04_02][2]] :: oder der Finanzholding-Gesellschaft oder der gemischten Finanzholding-Gesellschaft
 - <<FnA1-f804292_04_03>>[[#FnR.FnA1-f804292_04_03][3]] :: Mandate in Beiräten sind anzugeben, wenn die Aufgaben und Befugnisse des Beirats denen eines Verwaltungs- oder Aufsichtsorgans entsprechen und gesetzlich, per Satzung oder Gesellschaftsvertrag geregelt sind.
-- <<FnA1-f804292_04_04>>[[#FnR.FnA1-f804292_04_04][4]] :: Sofern eine einheitliche Identifikationsnummer Legal Entity Identifier“ (LEI) existiert, ist diese anzugeben. Vorläufer der LEI, sog. Pre-LEI, sind ebenfalls anzugeben.
+- <<FnA1-f804292_04_04>>[[#FnR.FnA1-f804292_04_04][4]] :: Sofern eine einheitliche Identifikationsnummer „Legal Entity Identifier“ (LEI) existiert, ist diese anzugeben. Vorläufer der LEI, sog. Pre-LEI, sind ebenfalls anzugeben.
 - <<FnA1-f804292_04_05>>[[#FnR.FnA1-f804292_04_05][5]] :: Nur bei Aufnahme einer Tätigkeit auszufüllen.
 
 - a. :: Welcher Zeitaufwand ist für die angezeigte Tätigkeit erforderlich?
 
-
+ 
 
 - b. :: Wurde Ihnen durch eine zuständige Behörde die Genehmigung erteilt, ein zusätzliches Mandat in einem Verwaltungs- oder Aufsichtsorgan innezuhaben?
 
@@ -1877,59 +1877,59 @@ Zusätzliche Informationen
 
 \\
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
-
-
-
-
+ 
 
 \\
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
-
-
-
-
+ 
 
 - d. :: Gesamtzahl der zu berücksichtigenden Geschäftsleitermandate (unter Anwendung der privilegierten Zählweise, ohne Einbezug nicht zu berücksichtigender Mandate)
 
-
+ 
 
 - e. :: Gesamtzahl der zu berücksichtigenden Mandate in Verwaltungs- und Aufsichtsorganen (unter Anwendung der privilegierten Zählweise, ohne Einbezug nicht zu berücksichtigender Mandate)
 
-
+ 
 
 - f. :: Bitte erläutern Sie bei Anwendung der privilegierten Zählweise, ob zwischen den Unternehmen Synergien bestehen und ob es darin begründete Überschneidungen in Bezug auf den Zeitaufwand für die Ausübung der Mandate gibt:
 
@@ -1937,8 +1937,8 @@ Zusätzliche Informationen
 
 - g. :: Gesamtaufwand pro Woche in Stunden für alle Mandate, ohne das angezeigte Mandat
 
-
+ 
 
 - h. :: Gesamtaufwand pro Jahr in Tagen für alle Mandate, ohne das angezeigte Mandat
 
-
+ 

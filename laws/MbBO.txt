@@ -6,12 +6,12 @@ Ausfertigungsdatum: 23.09.1997
 
 Inhaltsverzeichnis
 
-
-
+ 
+ 
 Erster Abschnitt
-
-
-
+ 
+ 
+ 
 Allgemeines
 § 1
 Geltungsbereich
@@ -29,12 +29,12 @@ Abnahmen
 Aufsicht
 § 8
 Instandhaltung
-
-
+ 
+ 
 Zweiter Abschnitt
-
-
-
+ 
+ 
+ 
 Bauordnung
 § 9
 Bauaufsichtliche Genehmigung
@@ -42,12 +42,12 @@ Bauaufsichtliche Genehmigung
 Baubeginn
 § 11
 Bauaufsicht
-
-
+ 
+ 
 Dritter Abschnitt
-
-
-
+ 
+ 
+ 
 Betriebsanlagen
 § 12
 Fahrweg
@@ -59,12 +59,12 @@ Lichtraum
 Bahnsteige
 § 16
 Überwachen der Betriebsanlagen
-
-
+ 
+ 
 Vierter Abschnitt
-
-
-
+ 
+ 
+ 
 Fahrzeuge
 § 17
 Grundsätze
@@ -76,12 +76,12 @@ Trag- und Führsystem
 Bremsen, Kupplung
 § 21
 Überwachungsbedürftige Anlagen der Fahrzeuge
-
-
+ 
+ 
 Fünfter Abschnitt
-
-
-
+ 
+ 
+ 
 Fahrbetrieb
 § 22
 Fahrtvoraussetzungen
@@ -91,12 +91,12 @@ Sicherheitskonzept
 Betriebshandbuch
 § 25
 Störungen im Magnetschwebebahnbetrieb
-
-
+ 
+ 
 Sechster Abschnitt
-
-
-
+ 
+ 
+ 
 Personal
 § 26
 Betriebsbedienstete
@@ -104,12 +104,12 @@ Betriebsbedienstete
 Bestellung des Betriebsleiters
 § 28
 Stellung des Betriebsleiters
-
-
+ 
+ 
 Siebter Abschnitt
-
-
-
+ 
+ 
+ 
 Öffentliche Sicherheit
 § 29
 Benutzen und Betreten der Betriebsanlagen und Fahrzeuge
@@ -119,12 +119,12 @@ Betriebsgefährdende Handlungen
 Tauglichkeit
 § 32
 Ordnungswidrigkeiten
-
-
+ 
+ 
 Anlage
-
-
-
+ 
+ 
+ 
 Lichtraum
 
 § 1 - Geltungsbereich

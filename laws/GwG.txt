@@ -6,12 +6,12 @@ Ausfertigungsdatum: 23.06.2017
 
 Inhaltsübersicht
 
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 
 § 1 - Begriffsbestimmungen
 
@@ -1590,7 +1590,7 @@ Die Liste ist eine nicht abschließende Aufzählung von Faktoren und möglichen 
   - a) :: Lebensversicherungspolicen mit niedriger Prämie,
   - b) :: Versicherungspolicen für Rentenversicherungsverträge, sofern die Verträge weder eine Rückkaufklausel enthalten noch als Sicherheit für Darlehen dienen können,
   - c) :: Rentensysteme und Pensionspläne oder vergleichbare Systeme, die den Arbeitnehmern Altersversorgungsleistungen bieten, wobei die Beiträge vom Gehalt abgezogen werden und die Regeln des Systems den Begünstigten nicht gestatten, ihre Rechte zu übertragen,
-  - d) :: Finanzprodukte oder -dienste, die bestimmten Kunden angemessen definierte und begrenzte Dienstleistungen mit dem Ziel der Einbindung in das Finanzsystem (financial inclusion“) anbieten,
+  - d) :: Finanzprodukte oder -dienste, die bestimmten Kunden angemessen definierte und begrenzte Dienstleistungen mit dem Ziel der Einbindung in das Finanzsystem („financial inclusion“) anbieten,
   - e) :: Produkte, bei denen die Risiken der Geldwäsche und der Terrorismusfinanzierung durch andere Faktoren wie etwa Beschränkungen der elektronischen Geldbörse oder die Transparenz der Eigentumsverhältnisse gesteuert werden (z. B. bestimmte Arten von E-Geld).
 - 3. :: Faktoren bezüglich des geografischen Risikos -- Registrierung, Niederlassung, Wohnsitz in:
   - a) :: Mitgliedstaaten,

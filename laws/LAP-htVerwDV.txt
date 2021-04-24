@@ -11,14 +11,14 @@ Auf Grund des § 15 Abs. 1 Nr. 2 des Bundesbeamtengesetzes in der Fassung der Be
 Inhaltsübersicht
 
 Teil 1
-
+ 
 Allgemeiner Teil
-
-
+ 
+ 
 Kapitel 1
-
-
-
+ 
+ 
+ 
 Anwendungsbereich, Laufbahn, Ausbildung
 § 1
 Anwendungsbereich
@@ -54,23 +54,23 @@ Grundsätze der Ausbildung
 Ausbildungsbehörde, Ausbildungsleitung, Ausbilderinnen und Ausbilder
 § 17
 Beurteilungen während der Ausbildung
-
-
+ 
+ 
 Kapitel 2
-
-
-
+ 
+ 
+ 
 Aufstieg
 § 18
 Ausbildungsaufstieg
 § 19
 Praxisaufstieg
-
-
+ 
+ 
 Kapitel 3
-
-
-
+ 
+ 
+ 
 Prüfungen
 § 20
 Oberprüfungsamt
@@ -105,14 +105,14 @@ Prüfungsakten, Einsichtnahme
 § 35
 Wiederholung
 Teil 2
-
+ 
 Sondervorschriften für die einzelnen Fachrichtungen
-
-
+ 
+ 
 Kapitel 1
-
-
-
+ 
+ 
+ 
 Fachrichtung Hochbau
 § 36
 Einstellungsvoraussetzungen
@@ -122,12 +122,12 @@ Gliederung der Ausbildung
 Prüfungsfächer, Prüfungszeiten
 § 39
 Aufstieg
-
-
+ 
+ 
 Kapitel 2
-
-
-
+ 
+ 
+ 
 Fachrichtung Bauingenieurwesen
 § 40
 Einstellungsvoraussetzungen, Fachgebiet
@@ -137,12 +137,12 @@ Gliederung der Ausbildung
 Prüfungsfächer, Prüfungszeiten
 § 43
 Aufstieg
-
-
+ 
+ 
 Kapitel 3
-
-
-
+ 
+ 
+ 
 Fachrichtung Bahnwesen
 § 44
 Schwerpunktgebiete, Einstellungsvoraussetzungen
@@ -152,12 +152,12 @@ Gliederung der Ausbildung
 Prüfungsfächer, Prüfungszeiten
 § 47
 Aufstieg
-
-
+ 
+ 
 Kapitel 4
-
-
-
+ 
+ 
+ 
 Fachrichtung Maschinen- und Elektrotechnik
 § 48
 Fachgebiete, Einstellungsvoraussetzungen
@@ -167,12 +167,12 @@ Gliederung der Ausbildung
 Prüfungsfächer, Prüfungszeiten
 § 51
 Aufstieg
-
-
+ 
+ 
 Kapitel 5
-
-
-
+ 
+ 
+ 
 Fachrichtung Luftfahrttechnik
 § 52
 Einstellungsvoraussetzungen
@@ -183,7 +183,7 @@ Prüfungsfächer, Prüfungszeiten
 § 55
 Aufstieg
 Teil 3
-
+ 
 Sonstige Vorschriften
 § 56
 Übergangsregelung
@@ -210,8 +210,8 @@ im Eingangsamt (Besoldungsgruppe A 13)
 Baurätin/Baurat,
 4.
 in den Beförderungsämtern der
-
-
+ 
+ 
 a)
 Besoldungsgruppe A 14
 Bauoberrätin/Bauoberrat,
@@ -561,7 +561,7 @@ Fachrichtung: Hochbau
 § 38 - Prüfungsfächer, Prüfungszeiten
 
 Für die schriftliche und mündliche Prüfung sind folgende Prüfungsfächer vorgesehen; die Prüfungszeiten gelten für die mündliche Prüfung:\\
-
+ 
 Stunden
 1.
 Allgemeine Rechts- und Verwaltungsgrundlagen
@@ -581,10 +581,10 @@ Grundzüge des öffentlichen Hochbaues und des Städtebaues
 6.
 Bautechnik
 1 1/4
-
-
+ 
+ 
 -------
-
+ 
 zusammen
 6 1/2
 
@@ -720,41 +720,41 @@ Bundesministerium für Verkehr und digitale Infrastruktur
 - - :: Schifffahrtszeichenwesen
 - - :: Schifffahrtswesen; Befähigungswesen und Lotswesen in der Schifffahrt
 
+ 
 
+ 
 
-
-
-
+ 
 
 6
 
-
+ 
 
 Häusliche Prüfungsarbeit
 
-
+ 
 
 16
 
-
+ 
 
 Lehrgänge *)
 
-
+ 
 
 ca. 12
 
-
+ 
 
 Erholungsurlaub
 
-
+ 
 
 104
 
 24 Monate
 
-
+ 
 
 In begründeten Fällen kann die Reihenfolge der Ausbildungsabschnitt I bis III geändert werden.\\
 -----
@@ -765,38 +765,38 @@ In begründeten Fällen kann die Reihenfolge der Ausbildungsabschnitt I bis III 
 § 42 - Prüfungsfächer, Prüfungszeiten
 
 Für die schriftliche und mündliche Prüfung sind folgende Prüfungsfächer vorgesehen; die Prüfungszeiten gelten für die mündliche Prüfung:\\
-
+ 
 Stunden
 1.
 Allgemeine Rechts- und Verwaltungsgrundlagen
-
+ 
 1
 2.
 Leitungsaufgaben und Wirtschaftlichkeit
-
+ 
 1
 3.
 Wasserstraßen/Wasserwirtschaft
-
+ 
 1 1/4
 4.
 Sondergebiete der Wasserstraßen
-
+ 
 1
 5.
 Vorbereiten und Durchführen von Bauten
-
+ 
 1
 6.
 Fachbezogene Verwaltung und Rechtsvorschriften
-
+ 
 1 1/4
-
-
-
+ 
+ 
+ 
 ------
-
-
+ 
+ 
 zusammen
 6 1/2
 
@@ -830,7 +830,7 @@ Ausbildungsstellen
 
 Ausbildungsinhalte
 
-
+ 
 
 B
 
@@ -857,7 +857,7 @@ Personalangelegenheiten, Rechtsaufsicht, Verwaltungsverfahrensrecht, Betriebsgen
 
 8
 
-
+ 
 
 Abteilung 2:\\
 Technische Aufsicht und Bauaufsicht sowie Zulassung
@@ -871,7 +871,7 @@ Technische Aufsicht und Bauaufsicht sowie Zulassung
 
 2
 
-
+ 
 
 Abteilung 3:\\
 
@@ -885,7 +885,7 @@ Abteilung 3:\\
 
 4
 
-
+ 
 
 Abteilung 4:\\
 Finanzierung von Infrastruktur
@@ -896,7 +896,7 @@ Finanzierung von Infrastruktur
 
 3
 
-
+ 
 
 Sachbereich 1:\\
 Planfeststellung
@@ -907,7 +907,7 @@ Planfeststellung
 
 2
 
-
+ 
 
 Sachbereich 2:\\
 
@@ -920,7 +920,7 @@ Sachbereich 2:\\
 
 8
 
-
+ 
 
 Sachbereich 3:\\
 Technische Aufsicht und Bauaufsicht
@@ -931,7 +931,7 @@ Technische Aufsicht und Bauaufsicht
 
 4
 
-
+ 
 
 Sachbereich 4:\\
 Aufsicht über den Eisenbahnbetrieb
@@ -942,7 +942,7 @@ Aufsicht über den Eisenbahnbetrieb
 
 2
 
-
+ 
 
 Sachbereich 5:\\
 Finanzierung (Verwendungsprüfung)
@@ -953,7 +953,7 @@ Finanzierung (Verwendungsprüfung)
 
 4
 
-
+ 
 
 Sachgebiete 224 und 226:\\
 Zulassung von Sicherungsanlagen
@@ -976,7 +976,7 @@ Fahrdienstleiterausbildung
 
 4
 
-
+ 
 
 Triebfahrzeugführerausbildung
 
@@ -986,7 +986,7 @@ Triebfahrzeugführerausbildung
 
 10 2)}
 
-
+ 
 
 Technik, Bau und Instandhaltung von Anlagen
 
@@ -996,7 +996,7 @@ Technik, Bau und Instandhaltung von Anlagen
 
 1
 
-
+ 
 
 Technik und Instandhaltung von Fahrzeugen
 
@@ -1006,7 +1006,7 @@ Technik und Instandhaltung von Fahrzeugen
 
 2
 
-
+ 
 
 Zusammenwirken der Bereiche: Betrieb, Fahrzeuge, Anlagen und Controlling
 
@@ -1102,31 +1102,31 @@ Luftfahrt-Bundesamt
 
 Aufgaben und Arbeitsweise
 
-
-
-6
+ 
 
 6
 
 6
 
+6
 
+ 
 
 Häusliche Prüfungsarbeit
 
-
-
-17
+ 
 
 17
 
 17
 
+17
 
+ 
 
 Lehrgänge
 
-
+ 
 
 ca. 12
 
@@ -1134,11 +1134,11 @@ ca. 12
 
 ca.12
 
-
+ 
 
 Erholungsurlaub
 
-
+ 
 
 104
 
@@ -1148,7 +1148,7 @@ Erholungsurlaub
 
 24 Monate
 
-
+ 
 
 - 1) :: Davon 8 Wochen Baustellenbereich.
 - 2) :: Davon 4 Wochen Baustellenbereich.
@@ -1159,87 +1159,87 @@ Erholungsurlaub
 
 Für die schriftliche und mündliche Prüfung sind folgende Prüfungsfächer vorgesehen; die Prüfungszeiten gelten für die mündliche Prüfung:\\
 alle Schwerpunktgebiete:
-
+ 
 Stunden
 1.
 Allgemeine Rechts- und Verwaltungsgrundlagen
-
+ 
 1
 2.
 Leitungsaufgaben und Wirtschaftlichkeit
-
+ 
 1
 3.
 Verkehrswesen und allgemeine Bahnbetriebstechnik
-
+ 
 1 1/4
 4.
 Fachbezogene Verwaltung und Rechtsvorschriften
-
+ 
 1
-
-
-
+ 
+ 
+ 
 -------
-
-
+ 
+ 
 zusammen
 4 1/4
 Schwerpunktgebiet Bauingenieurwesen:
-
+ 
 Stunden
 5.
 Technik, Planung und Entwicklung von Bahnanlagen
-
+ 
 1
 6.
 Bau, Betrieb und Instandhaltung von Bahnanlagen
-
+ 
 1 1/4
-
-
-
+ 
+ 
+ 
 ------
-
-
+ 
+ 
 zusammen
 2 1/4
 Schwerpunktgebiet Maschinen- und Elektrotechnik:
-
+ 
 Stunden
 7.
 Technik, Planung und Entwicklung von Fahrzeugen sowie von maschinen- und elektrotechnischen Anlagen
-
+ 
 1
 8.
 Bau, Betrieb und Instandhaltung von Fahrzeugen sowie von maschinen- und elektrotechnischen Anlagen
-
+ 
 1 1/4
-
-
-
+ 
+ 
+ 
 ------
-
-
+ 
+ 
 zusammen
 2 1/4
 Schwerpunktgebiet Sicherungs-, Telekommunikations- und Elektrotechnik:
-
+ 
 Stunden
 9.
 Technik, Planung und Entwicklung von sicherungs-, telekommunikations- und elektrotechnischen Anlagen
-
+ 
 1
 10.
 Bau, Betrieb und Instandhaltung von sicherungs-, telekommunikations- und elektrotechnischen Anlagen
-
+ 
 1 1/4
-
-
-
+ 
+ 
+ 
 ------
-
-
+ 
+ 
 zusammen
 2 1/4
 
@@ -1337,7 +1337,7 @@ Bundesanstalt für Wasserbau, Abteilung Maschinenwesen (mindestens 8 Wochen), di
 - - :: Planungstechniken, Rationalisierung, Systemtechnik, Informationssysteme, Entwicklung, Konstruktion, technische Gestaltung, Bauüberwachung, Aufsichtsbehörde
 
 \\
-III 1 
+III 1  
 
 \\
 14\\
@@ -1375,39 +1375,39 @@ Ausländische fachnahe Verwaltung (Mitgliedstaat der Europäischen Union, Europ�
 - - :: Aufgaben, Status und Organisation der Institution
 - - :: Kompetenzen, Arbeitsweise
 
-
+ 
 
 6
 
-
+ 
 
 Häusliche Prüfungsarbeit
 
-
+ 
 
 14
 
-
+ 
 
 Lehrgänge
 
-
+ 
 
 ca. 12
 
-
+ 
 
 Erholungsurlaub
 
-
+ 
 
 104
 
 24 Monate
 
+ 
 
-
-
+ 
 
 Ausbildungsplan\\
 Fachrichtung: Maschinen- und Elektrotechnik\\
@@ -1484,110 +1484,110 @@ Mittlere oder oberste Landesbehörde als Genehmigungsbehörde
 - - :: Gewerbeaufsicht, technischer Arbeitsschutz und Arbeitsrecht
 - - :: Energieaufsicht, Wasserwirtschaft, Finanzplanung
 
-
+ 
 
 6
 
-
+ 
 
 Häusliche Prüfungsarbeit
 
-
+ 
 
 11
 
-
+ 
 
 Lehrgänge
 
-
+ 
 
 ca. 12
 
-
+ 
 
 Erholungsurlaub
 
-
+ 
 
 104
 
 24 Monate
 
-
+ 
 
 
 § 50 - Prüfungsfächer, Prüfungszeiten
 
 Für die schriftliche und mündliche Prüfung sind folgende Prüfungsfächer vorgesehen; die Prüfungszeiten gelten für die mündliche Prüfung:\\
 Fachgebiet Maschinen- und Elektrotechnik der Wasserstraßen:
-
+ 
 Stunden
 1.
 Allgemeine Rechts- und Verwaltungsgrundlagen
-
+ 
 1
 2.
 Leitungsaufgaben und Wirtschaftlichkeit
-
+ 
 1
 3.
 Fachbezogene Verwaltung und Rechtsvorschriften
-
+ 
 1
 4.
 Maschinenbaueinrichtungen und elektrotechnische Einrichtungen, Landfahrzeuge
-
+ 
 1 1/4
 5.
 Wasserfahrzeuge und schwimmende Anlagen
-
+ 
 1 1/4
 6.
 Beschaffung, Betrieb und Unterhaltung von Objekten des Maschinenwesens
-
+ 
 1
-
-
-
+ 
+ 
+ 
 -----
-
-
+ 
+ 
 zusammen
 6 1/2
 Fachgebiet Maschinen- und Elektrotechnik in der Verwaltung:
-
+ 
 Stunden
 1.
 Allgemeine Rechts- und Verwaltungsgrundlagen
-
+ 
 1
 2.
 Leitungsaufgaben und Wirtschaftlichkeit
-
+ 
 1
 3.
 Fachbezogene Verwaltung und Rechtsvorschriften
-
+ 
 1
 4.
 Elektrotechnische Anlagen
-
+ 
 1 1/4
 5.
 Maschinentechnische und verfahrenstechnische Anlagen
-
+ 
 1
 6.
 Sondergebiete der Maschinen- und Elektrotechnik
-
+ 
 1 1/4
-
-
-
+ 
+ 
+ 
 -----
-
-
+ 
+ 
 zusammen
 6 1/2
 
@@ -1700,74 +1700,74 @@ Luftfahrt-Bundesamt
 
 Vertiefung der theoretischen Kenntnisse durch projektorientierte Mitarbeit an aktuellen Aufgaben im Luftfahrt-Bundesamt, ggf. unter Berücksichtigung der späteren Verwendung
 
-
+ 
 
 6
 
-
+ 
 
 Häusliche Prüfungsarbeit
 
-
+ 
 
 15
 
-
+ 
 
 Lehrgänge: u. a. Rechts- und Verwaltungsgrundlagen, Projektmanagement, Mitarbeiterführung, Planung und Entscheidung, Gesprächs- und Verhandlungsführung, Qualitätsmanagement, Sprachkurs
 
-
+ 
 
 ca. 12
 
-
+ 
 
 Erholungsurlaub
 
-
+ 
 
 104
 
 24 Monate
 
-
+ 
 
 
 § 54 - Prüfungsfächer, Prüfungszeiten
 
 Für die schriftliche und mündliche Prüfung sind folgende Prüfungsfächer vorgesehen; die Prüfungszeiten gelten für die mündliche Prüfung:\\
-
+ 
 Stunden
 1.
 Allgemeine Rechts- und Verwaltungsgrundlagen
-
+ 
 1
 2.
 Leitungsaufgaben und Wirtschaftlichkeit
-
+ 
 1
 3.
 Fachbezogene Verwaltung und Rechtsvorschriften
-
+ 
 1
 4.
 Flugtechnik
-
+ 
 1 1/4
 5.
 Flugbetrieb
-
+ 
 1 1/4
 6.
 Flughäfen, Flugsicherung, Flugunfallwesen, Such- und Rettungsdienst
-
+ 
 1
-
-
-
+ 
+ 
+ 
 -----
-
-
+ 
+ 
 zusammen
 6 1/2
 

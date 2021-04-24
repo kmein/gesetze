@@ -18,8 +18,8 @@ Anwendungsbereich
 Vorrang völkerrechtlicher Vereinbarungen
 § 2a
 Anwendungsbereich der Vorschriften über die Verarbeitung personenbezogener Daten
-
-
+ 
+ 
   Zweiter Abschnitt
   Steuerliche Begriffsbestimmungen
 § 3
@@ -48,8 +48,8 @@ Ständiger Vertreter
 Wirtschaftlicher Geschäftsbetrieb
 § 15
 Angehörige
-
-
+ 
+ 
   Dritter Abschnitt
   Zuständigkeit der Finanzbehörden
 § 16
@@ -86,8 +86,8 @@ Zuständigkeitsstreit
 Gefahr im Verzug
 § 29a
 Unterstützung des örtlich zuständigen Finanzamts auf Anweisung der vorgesetzten Finanzbehörde
-
-
+ 
+ 
   Vierter Abschnitt
   Verarbeitung geschützter Daten und Steuergeheimnis
 § 29b
@@ -106,14 +106,14 @@ Mitteilungen zur Bekämpfung der illegalen Beschäftigung und des Leistungsmissb
 Mitteilungen zur Bekämpfung der Geldwäsche und der Terrorismusfinanzierung
 § 31c
 Verarbeitung besonderer Kategorien personenbezogener Daten durch Finanzbehörden zu statistischen Zwecken
-
-
+ 
+ 
   Fünfter Abschnitt
 Haftungsbeschränkung für Amtsträger
 § 32
 Haftungsbeschränkung für Amtsträger
-
-
+ 
+ 
   Sechster Abschnitt
 Rechte der betroffenen Person
 § 32a
@@ -128,8 +128,8 @@ Form der Information oder Auskunftserteilung
 Verhältnis zu anderen Auskunfts- und Informationszugangsansprüchen
 § 32f
 Recht auf Berichtigung und Löschung, Widerspruchsrecht
-
-
+ 
+ 
   Siebter Abschnitt
 Datenschutzaufsicht, Gerichtlicher Rechtsschutz in datenschutzrechtlichen Angelegenheiten
 § 32g
@@ -140,8 +140,8 @@ Datenschutzrechtliche Aufsicht, Datenschutz-Folgenabschätzung
 Gerichtlicher Rechtsschutz
 § 32j
 Antrag auf gerichtliche Entscheidung bei angenommener Rechtswidrigkeit eines Angemessenheitsbeschlusses der Europäischen Kommission
-
-
+ 
+ 
 Zweiter Teil
 Steuerschuldrecht\\
 \\
@@ -155,8 +155,8 @@ Pflichten der gesetzlichen Vertreter und der Vermögensverwalter
 Pflichten des Verfügungsberechtigten
 § 36
 Erlöschen der Vertretungsmacht
-
-
+ 
+ 
   Zweiter Abschnitt
   Steuerschuldverhältnis
 § 37
@@ -187,8 +187,8 @@ Leistung durch Dritte, Haftung Dritter
 Verschollenheit
 § 50
 Erlöschen und Unbedingtwerden der Verbrauchsteuer, Übergang der bedingten Verbrauchsteuerschuld
-
-
+ 
+ 
   Dritter Abschnitt
   Steuerbegünstigte Zwecke
 § 51
@@ -233,8 +233,8 @@ Krankenhäuser
 Sportliche Veranstaltungen
 § 68
 Einzelne Zweckbetriebe
-
-
+ 
+ 
   Vierter Abschnitt
   Haftung
 § 69
@@ -257,8 +257,8 @@ Haftung des Betriebsübernehmers
 Sachhaftung
 § 77
 Duldungspflicht
-
-
+ 
+ 
 Dritter Teil
 Allgemeine Verfahrensvorschriften\\
 \\
@@ -277,8 +277,8 @@ Bevollmächtigte und Beistände
 Elektronische Übermittlung von Vollmachtsdaten an Landesfinanzbehörden
 § 81
 Bestellung eines Vertreters von Amts wegen
-
-
+ 
+ 
   2. Unterabschnitt
 Ausschließung und Ablehnung von Amtsträgern und anderen Personen
 § 82
@@ -287,8 +287,8 @@ Ausgeschlossene Personen
 Besorgnis der Befangenheit
 § 84
 Ablehnung von Mitgliedern eines Ausschusses
-
-
+ 
+ 
   3. Unterabschnitt
   Besteuerungsgrundsätze, Beweismittel
 I. Allgemeines
@@ -322,8 +322,8 @@ Mitwirkungspflichten der Beteiligten
 Anhörung Beteiligter
 § 92
 Beweismittel
-
-
+ 
+ 
 II. Beweis durch Auskünfte und Sachverständigengutachten
 § 93
 Auskunftspflicht der Beteiligten und anderer Personen
@@ -341,8 +341,8 @@ Eidliche Vernehmung
 Versicherung an Eides statt
 § 96
 Hinzuziehung von Sachverständigen
-
-
+ 
+ 
 III. Beweis durch Urkunden und Augenschein
 § 97
 Vorlage von Urkunden
@@ -352,8 +352,8 @@ Einnahme des Augenscheins
 Betreten von Grundstücken und Räumen
 § 100
 Vorlage von Wertsachen
-
-
+ 
+ 
 IV. Auskunfts- und Vorlageverweigerungsrechte
 § 101
 Auskunfts- und Eidesverweigerungsrecht der Angehörigen
@@ -367,13 +367,13 @@ Verweigerung der Erstattung eines Gutachtens und der Vorlage von Urkunden
 Verhältnis der Auskunfts- und Vorlagepflicht zur Schweigepflicht öffentlicher Stellen
 § 106
 Beschränkung der Auskunfts- und Vorlagepflicht bei Beeinträchtigung des staatlichen Wohls
-
-
+ 
+ 
 V. Entschädigung der Auskunftspflichtigen und der Sachverständigen
 § 107
 Entschädigung der Auskunftspflichtigen und der Sachverständigen
-
-
+ 
+ 
   4. Unterabschnitt
 Fristen, Termine, Wiedereinsetzung
 § 108
@@ -382,8 +382,8 @@ Fristen und Termine
 Verlängerung von Fristen
 § 110
 Wiedereinsetzung in den vorigen Stand
-
-
+ 
+ 
   5. Unterabschnitt
 Rechts- und Amtshilfe
 § 111
@@ -408,8 +408,8 @@ Verwendung von den nach dem Rahmenbeschluss 2006/960/JI des Rates übermittelten
 Umsetzung innerstaatlich anwendbarer völkerrechtlicher Vereinbarungen zur Förderung der Steuerehrlichkeit bei internationalen Sachverhalten
 § 117d
 Statistiken über die zwischenstaatliche Amts- und Rechtshilfe
-
-
+ 
+ 
   Zweiter Abschnitt
   Verwaltungsakte
 § 118
@@ -446,8 +446,8 @@ Widerruf eines rechtmäßigen Verwaltungsakts
 Rücknahme, Widerruf, Aufhebung und Änderung im Einspruchsverfahren
 § 133
 Rückgabe von Urkunden und Sachen
-
-
+ 
+ 
 Vierter Teil
 Durchführung der Besteuerung\\
 \\
@@ -462,8 +462,8 @@ Personenstands- und Betriebsaufnahme
 (weggefallen)
 § 136
 (weggefallen)
-
-
+ 
+ 
   2. Unterabschnitt
 Anzeigepflichten
 § 137
@@ -494,8 +494,8 @@ Auswertung der Mitteilungen grenzüberschreitender Steuergestaltungen
 Angabe der grenzüberschreitenden Steuergestaltung in der Steuererklärung
 § 139
 Anmeldung von Betrieben in besonderen Fällen
-
-
+ 
+ 
   3. Unterabschnitt
 Identifikationsmerkmal
 § 139a
@@ -506,8 +506,8 @@ Identifikationsnummer
 Wirtschafts-Identifikationsnummer
 § 139d
 Verordnungsermächtigung
-
-
+ 
+ 
   Zweiter Abschnitt
 Mitwirkungspflichten\\
 \\
@@ -535,8 +535,8 @@ Kassen-Nachschau
 Ordnungsvorschriften für die Aufbewahrung von Unterlagen
 § 148
 Bewilligung von Erleichterungen
-
-
+ 
+ 
 2. Unterabschnitt
 Steuererklärungen
 § 149
@@ -549,14 +549,14 @@ Aufnahme der Steuererklärung an Amtsstelle
 Verspätungszuschlag
 § 153
 Berichtigung von Erklärungen
-
-
+ 
+ 
   3. Unterabschnitt
   Kontenwahrheit
 § 154
 Kontenwahrheit
-
-
+ 
+ 
 Dritter Abschnitt
 Festsetzungs- und Feststellungsverfahren\\
 \\
@@ -591,8 +591,8 @@ Drittwirkung der Steuerfestsetzung
 Steueranmeldung, Verwendung von Steuerzeichen oder Steuerstemplern
 § 168
 Wirkung einer Steueranmeldung
-
-
+ 
+ 
 II. Festsetzungsverjährung
 § 169
 Festsetzungsfrist
@@ -600,8 +600,8 @@ Festsetzungsfrist
 Beginn der Festsetzungsfrist
 § 171
 Ablaufhemmung
-
-
+ 
+ 
 III. Bestandskraft
 § 172
 Aufhebung und Änderung von Steuerbescheiden
@@ -621,15 +621,15 @@ Umsetzung von Verständigungsvereinbarungen
 Vertrauensschutz bei der Aufhebung und Änderung von Steuerbescheiden
 § 177
 Berichtigung von materiellen Fehlern
-
-
+ 
+ 
   IV. Kosten
 § 178
 Kosten bei besonderer Inanspruchnahme der Zollbehörden
 § 178a
 Kosten bei besonderer Inanspruchnahme der Finanzbehörden
-
-
+ 
+ 
   2. Unterabschnitt
   Gesonderte Feststellung von Besteuerungsgrundlagen, Festsetzung von Steuermessbeträgen
   I. Gesonderte Feststellungen
@@ -643,13 +643,13 @@ Verfahrensvorschriften für die gesonderte Feststellung, Feststellungsfrist, Erk
 Wirkungen der gesonderten Feststellung
 § 183
 Empfangsbevollmächtigte bei der einheitlichen Feststellung
-
-
+ 
+ 
   II. Festsetzung von Steuermessbeträgen
 § 184
 Festsetzung von Steuermessbeträgen
-
-
+ 
+ 
   3. Unterabschnitt
   Zerlegung und Zuteilung
 § 185
@@ -664,16 +664,16 @@ Zerlegungsbescheid
 Änderung der Zerlegung
 § 190
 Zuteilungsverfahren
-
-
+ 
+ 
   4. Unterabschnitt
 Haftung
 § 191
 Haftungsbescheide, Duldungsbescheide
 § 192
 Vertragliche Haftung
-
-
+ 
+ 
   Vierter Abschnitt
   Außenprüfung\\
 \\
@@ -703,8 +703,8 @@ Inhalt und Bekanntgabe des Prüfungsberichts
 Abgekürzte Außenprüfung
 § 203a
 Außenprüfung bei Datenübermittlung durch Dritte
-
-
+ 
+ 
   2. Unterabschnitt
   Verbindliche Zusagen auf Grund einer Außenprüfung
 § 204
@@ -715,16 +715,16 @@ Form der verbindlichen Zusage
 Bindungswirkung
 § 207
 Außerkrafttreten, Aufhebung und Änderung der verbindlichen Zusage
-
-
+ 
+ 
   Fünfter Abschnitt
   Steuerfahndung (Zollfahndung)
 § 208
 Steuerfahndung (Zollfahndung)
 § 208a
 Steuerfahndung des Bundeszentralamts für Steuern
-
-
+ 
+ 
   Sechster Abschnitt
   Steueraufsicht in besonderen Fällen
 § 209
@@ -765,8 +765,8 @@ Abweichende Fälligkeitsbestimmung
 Stundung
 § 223
 (weggefallen)
-
-
+ 
+ 
   2. Unterabschnitt
   Zahlung, Aufrechnung, Erlass
 § 224
@@ -779,8 +779,8 @@ Reihenfolge der Tilgung
 Aufrechnung
 § 227
 Erlass
-
-
+ 
+ 
   3. Unterabschnitt
   Zahlungsverjährung
 § 228
@@ -793,8 +793,8 @@ Hemmung der Verjährung
 Unterbrechung der Verjährung
 § 232
 Wirkung der Verjährung
-
-
+ 
+ 
   Zweiter Abschnitt
   Verzinsung, Säumniszuschläge\\
 \\
@@ -816,14 +816,14 @@ Zinsen bei Aussetzung der Vollziehung
 Höhe und Berechnung der Zinsen
 § 239
 Festsetzung der Zinsen
-
-
+ 
+ 
   2. Unterabschnitt
   Säumniszuschläge
 § 240
 Säumniszuschläge
-
-
+ 
+ 
 Dritter Abschnitt
 Sicherheitsleistung
 § 241
@@ -842,8 +842,8 @@ Annahmewerte
 Austausch von Sicherheiten
 § 248
 Nachschusspflicht
-
-
+ 
+ 
 Sechster Teil
 Vollstreckung\\
 \\
@@ -869,8 +869,8 @@ Einwendungen gegen die Vollstreckung
 Einstellung und Beschränkung der Vollstreckung
 § 258
 Einstweilige Einstellung oder Beschränkung der Vollstreckung
-
-
+ 
+ 
 Zweiter Abschnitt
 Vollstreckung wegen Geldforderungen\\
 \\
@@ -894,8 +894,8 @@ Vollstreckung gegen Erben
 Sonstige Fälle beschränkter Haftung
 § 267
 Vollstreckungsverfahren gegen nicht rechtsfähige Personenvereinigungen
-
-
+ 
+ 
 2. Unterabschnitt
 Aufteilung einer Gesamtschuld
 § 268
@@ -924,8 +924,8 @@ Beschränkung der Vollstreckung
 Form und Inhalt des Aufteilungsbescheids
 § 280
 Änderung des Aufteilungsbescheids
-
-
+ 
+ 
 3. Unterabschnitt
 Vollstreckung in das bewegliche Vermögen
 I. Allgemeines
@@ -937,8 +937,8 @@ Wirkung der Pfändung
 Ausschluss von Gewährleistungsansprüchen
 § 284
 Vermögensauskunft des Vollstreckungsschuldners
-
-
+ 
+ 
 II. Vollstreckung in Sachen
 § 285
 Vollziehungsbeamte
@@ -988,8 +988,8 @@ Vollstreckung in Ersatzteile von Luftfahrzeugen
 Anschlusspfändung
 § 308
 Verwertung bei mehrfacher Pfändung
-
-
+ 
+ 
 III. Vollstreckung in Forderungen und andere Vermögensrechte
 § 309
 Pfändung einer Geldforderung
@@ -1017,16 +1017,16 @@ Unpfändbarkeit von Forderungen
 Mehrfache Pfändung einer Forderung
 § 321
 Vollstreckung in andere Vermögensrechte
-
-
+ 
+ 
 4. Unterabschnitt
 Vollstreckung in das unbewegliche Vermögen
 § 322
 Verfahren
 § 323
 Vollstreckung gegen den Rechtsnachfolger
-
-
+ 
+ 
 5. Unterabschnitt
 Arrest
 § 324
@@ -1035,14 +1035,14 @@ Dinglicher Arrest
 Aufhebung des dinglichen Arrestes
 § 326
 Persönlicher Sicherheitsarrest
-
-
+ 
+ 
 6. Unterabschnitt
 Verwertung von Sicherheiten
 § 327
 Verwertung von Sicherheiten
-
-
+ 
+ 
 Dritter Abschnitt
 Vollstreckung wegen anderer Leistungen als Geldforderungen\\
 \\
@@ -1064,14 +1064,14 @@ Festsetzung der Zwangsmittel
 Ersatzzwangshaft
 § 335
 Beendigung des Zwangsverfahrens
-
-
+ 
+ 
 2. Unterabschnitt
 Erzwingung von Sicherheiten
 § 336
 Erzwingung von Sicherheiten
-
-
+ 
+ 
 Vierter Abschnitt
 Kosten
 § 337
@@ -1094,8 +1094,8 @@ Auslagen
 Reisekosten und Aufwandsentschädigungen
 § 346
 Unrichtige Sachbehandlung, Festsetzungsfrist
-
-
+ 
+ 
 Siebenter Teil
 Außergerichtliches Rechtsbehelfsverfahren\\
 \\
@@ -1117,8 +1117,8 @@ Einspruchsbefugnis bei der einheitlichen Feststellung
 Einspruchsbefugnis des Rechtsnachfolgers
 § 354
 Einspruchsverzicht
-
-
+ 
+ 
 Zweiter Abschnitt
 Verfahrensvorschriften
 § 355
@@ -1153,8 +1153,8 @@ Form, Inhalt und Erteilung der Einspruchsentscheidung
 Entscheidung über den Einspruch
 § 368
 (weggefallen)
-
-
+ 
+ 
 Achter Teil
 Straf- und Bußgeldvorschriften, Straf- und Bußgeldverfahren\\
 \\
@@ -1180,8 +1180,8 @@ Nebenfolgen
 (weggefallen)
 § 376
 Verfolgungsverjährung
-
-
+ 
+ 
 Zweiter Abschnitt
 Bußgeldvorschriften
 § 377
@@ -1206,8 +1206,8 @@ Pflichtverletzung bei Übermittlung von Vollmachtsdaten
 Verfolgungsverjährung
 § 384a
 Verstöße nach Artikel 83 Absatz 4 bis 6 der Verordnung (EU) 2016/679
-
-
+ 
+ 
 Dritter Abschnitt
 Strafverfahren\\
 \\
@@ -1237,8 +1237,8 @@ Verhältnis des Strafverfahrens zum Besteuerungsverfahren
 Akteneinsicht der Finanzbehörde
 § 396
 Aussetzung des Verfahrens
-
-
+ 
+ 
 2. Unterabschnitt
 Ermittlungsverfahren
 I. Allgemeines
@@ -1248,8 +1248,8 @@ Einleitung des Strafverfahrens
 Einstellung wegen Geringfügigkeit
 § 398a
 Absehen von Verfolgung in besonderen Fällen
-
-
+ 
+ 
 II. Verfahren der Finanzbehörde bei Steuerstraftaten
 § 399
 Rechte und Pflichten der Finanzbehörde
@@ -1257,39 +1257,39 @@ Rechte und Pflichten der Finanzbehörde
 Antrag auf Erlass eines Strafbefehls
 § 401
 Antrag auf Anordnung von Nebenfolgen im selbständigen Verfahren
-
-
+ 
+ 
 III. Stellung der Finanzbehörde im Verfahren der Staatsanwaltschaft
 § 402
 Allgemeine Rechte und Pflichten der Finanzbehörde
 § 403
 Beteiligung der Finanzbehörde
-
-
+ 
+ 
 IV. Steuer- und Zollfahndung
 § 404
 Steuer- und Zollfahndung
-
-
+ 
+ 
 V. Entschädigung der Zeugen und der Sachverständigen
 § 405
 Entschädigung der Zeugen und der Sachverständigen
-
-
+ 
+ 
 3. Unterabschnitt
 Gerichtliches Verfahren
 § 406
 Mitwirkung der Finanzbehörde im Strafbefehlsverfahren und im selbständigen Verfahren
 § 407
 Beteiligung der Finanzbehörde in sonstigen Fällen
-
-
+ 
+ 
 4. Unterabschnitt
 Kosten des Verfahrens
 § 408
 Kosten des Verfahrens
-
-
+ 
+ 
 Vierter Abschnitt
 Bußgeldverfahren
 § 409
@@ -1300,8 +1300,8 @@ Ergänzende Vorschriften für das Bußgeldverfahren
 Bußgeldverfahren gegen Rechtsanwälte, Steuerberater, Steuerbevollmächtigte, Wirtschaftsprüfer oder vereidigte Buchprüfer
 § 412
 Zustellung, Vollstreckung, Kosten
-
-
+ 
+ 
 Neunter Teil
 Schlussvorschriften
 § 413
@@ -1310,7 +1310,7 @@ Einschränkung von Grundrechten
 (gegenstandslos)
 § 415
 (Inkrafttreten)
-
+ 
 \\
 \\
 Anlagen\\
@@ -2343,7 +2343,7 @@ Beteiligte sind
 (5) Ist für das Verfahren ein Bevollmächtigter bestellt, so soll sich die Finanzbehörde an ihn wenden. Sie kann sich an den Beteiligten selbst wenden, soweit er zur Mitwirkung verpflichtet ist. Wendet sich die Finanzbehörde an den Beteiligten, so soll der Bevollmächtigte verständigt werden. Für die Bekanntgabe von Verwaltungsakten an einen Bevollmächtigten gilt § 122 Absatz 1 Satz 3 und 4.
 (6) Ein Beteiligter kann zu Verhandlungen und Besprechungen mit einem Beistand erscheinen. Das von dem Beistand Vorgetragene gilt als von dem Beteiligten vorgebracht, soweit dieser nicht unverzüglich widerspricht.
 (7) Soweit ein Bevollmächtigter geschäftsmäßig Hilfe in Steuersachen leistet, ohne dazu befugt zu sein, ist er mit Wirkung für alle anhängigen und künftigen Verwaltungsverfahren des Vollmachtgebers im Zuständigkeitsbereich der Finanzbehörde zurückzuweisen. Die Zurückweisung ist dem Vollmachtgeber und dem Bevollmächtigten bekannt zu geben. Die Finanzbehörde ist befugt, andere Finanzbehörden über die Zurückweisung des Bevollmächtigten zu unterrichten.
-(8) Ein Bevollmächtigter kann von einem schriftlichen, elektronischen oder mündlichen Vortrag zurückgewiesen werden, soweit er hierzu ungeeignet ist. Dies gilt nicht für die in § 3 Nummer 1, § 4 Nummer 1 und 2 und § 23 Absatz 3 des Steuerberatungsgesetzes bezeichneten natürlichen Personen sowie natürliche Personen, die für eine Landwirtschaftliche Buchstelle tätig und nach § 44 des Steuerberatungsgesetzes berechtigt sind, die Berufsbezeichnung Landwirtschaftliche Buchstelle“ zu führen. Die Zurückweisung ist dem Vollmachtgeber und dem Bevollmächtigten bekannt zu geben.
+(8) Ein Bevollmächtigter kann von einem schriftlichen, elektronischen oder mündlichen Vortrag zurückgewiesen werden, soweit er hierzu ungeeignet ist. Dies gilt nicht für die in § 3 Nummer 1, § 4 Nummer 1 und 2 und § 23 Absatz 3 des Steuerberatungsgesetzes bezeichneten natürlichen Personen sowie natürliche Personen, die für eine Landwirtschaftliche Buchstelle tätig und nach § 44 des Steuerberatungsgesetzes berechtigt sind, die Berufsbezeichnung „Landwirtschaftliche Buchstelle“ zu führen. Die Zurückweisung ist dem Vollmachtgeber und dem Bevollmächtigten bekannt zu geben.
 (9) Soweit ein Beistand geschäftsmäßig Hilfe in Steuersachen leistet, ohne dazu befugt zu sein, ist er mit Wirkung für alle anhängigen und künftigen Verwaltungsverfahren des Steuerpflichtigen im Zuständigkeitsbereich der Finanzbehörde zurückzuweisen; Absatz 7 Satz 2 und 3 gilt entsprechend. Ferner kann er vom schriftlichen, elektronischen oder mündlichen Vortrag zurückgewiesen werden, falls er zu einem sachgemäßen Vortrag nicht fähig oder willens ist; Absatz 8 Satz 2 und 3 gilt entsprechend.
 (10) Verfahrenshandlungen, die ein Bevollmächtigter oder ein Beistand vornimmt, nachdem ihm die Zurückweisung bekannt gegeben worden ist, sind unwirksam.
 (+++ § 80: Zur Anwendung vgl. Art. 97 § 1 AOEG 1977 u. § 18h Abs. 6 UStG 1980 +++)
@@ -6042,7 +6042,7 @@ Die Grundrechte auf körperliche Unversehrtheit und Freiheit der Person (Artikel
 
 Anlage 1 - (zu § 60)Mustersatzung für Vereine, Stiftungen, Betriebe gewerblicher Art von juristischen Personen des öffentlichen Rechts, geistliche Genossenschaften und Kapitalgesellschaften(nur aus steuerlichen Gründen notwendige Bestimmungen)
 
- Der -- Die -- ... (Körperschaft) mit Sitz in ... verfolgt ausschlieSteuerbegünstigte Zwecke“ der Abgabenordnung.
+ Der -- Die -- ... (Körperschaft) mit Sitz in ... verfolgt ausschließlich und unmittelbar -- gemeinnützige -- mildtätige -- kirchliche -- Zwecke (nicht verfolgte Zwecke streichen) im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung.
  Zweck der Körperschaft ist ... (z. B. die Förderung von Wissenschaft und Forschung, Jugend- und Altenhilfe, Erziehung, Volks- und Berufsbildung, Kunst und Kultur, Landschaftspflege, Umweltschutz, des öffentlichen Gesundheitswesens, des Sports, Unterstützung hilfsbedürftiger Personen).
  Der Satzungszweck wird verwirklicht insbesondere durch ... (z. B. Durchführung wissenschaftlicher Veranstaltungen und Forschungsvorhaben, Vergabe von Forschungsaufträgen, Unterhaltung einer Schule, einer Erziehungsberatungsstelle, Pflege von Kunstsammlungen, Pflege des Liedgutes und des Chorgesanges, Errichtung von Naturschutzgebieten, Unterhaltung eines Kindergartens, Kinder-, Jugendheimes, Unterhaltung eines Altenheimes, eines Erholungsheimes, Bekämpfung des Drogenmissbrauchs, des Lärms, Förderung sportlicher Übungen und Leistungen).
  Die Körperschaft ist selbstlos tätig; sie verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.
@@ -6057,15 +6057,15 @@ Anlage 1 - (zu § 60)Mustersatzung für Vereine, Stiftungen, Betriebe gewerblich
 Weitere Hinweise
  Bei Betrieben gewerblicher Art von juristischen Personen des öffentlichen Rechts, bei den von einer juristischen Person des öffentlichen Rechts verwalteten unselbständigen Stiftungen und bei geistlichen Genossenschaften (Orden, Kongregationen) ist folgende Bestimmung aufzunehmen:\\
 § 3 Abs. 2:\\
-Der -- die -- das ... erhält bei Auflösung oder Aufhebung der Körperschaft oder bei Wegfall steuerbegünstigter Zwecke nicht mehr als -- seine -- ihre -- eingezahlten Kapitalanteile und den gemeinen Wert seiner -- ihrer -- geleisteten Sacheinlagen zurück. “
+„Der -- die -- das ... erhält bei Auflösung oder Aufhebung der Körperschaft oder bei Wegfall steuerbegünstigter Zwecke nicht mehr als -- seine -- ihre -- eingezahlten Kapitalanteile und den gemeinen Wert seiner -- ihrer -- geleisteten Sacheinlagen zurück. “
 Bei Stiftungen ist diese Bestimmung nur erforderlich, wenn die Satzung dem Stifter einen Anspruch auf Rückgewähr von Vermögen einräumt. Fehlt die Regelung, wird das eingebrachte Vermögen wie das übrige Vermögen behandelt.
 Bei Kapitalgesellschaften sind folgende ergänzende Bestimmungen in die Satzung aufzunehmen:
 
 - 1. :: § 3 Abs. 1 Satz 2:
-  Die Gesellschafter dürfen keine Gewinnanteile und auch keine sonstigen Zuwendungen aus Mitteln der Körperschaft erhalten. “
+  „Die Gesellschafter dürfen keine Gewinnanteile und auch keine sonstigen Zuwendungen aus Mitteln der Körperschaft erhalten. “
 - 2. :: § 3 Abs. 2:
-  Sie erhalten bei ihrem Ausscheiden oder bei Auflösung der Körperschaft oder bei Wegfall steuerbegünstigter Zwecke nicht mehr als ihre eingezahlten Kapitalanteile und den gemeinen Wert ihrer geleisteten Sacheinlagen zurück. “
+  „Sie erhalten bei ihrem Ausscheiden oder bei Auflösung der Körperschaft oder bei Wegfall steuerbegünstigter Zwecke nicht mehr als ihre eingezahlten Kapitalanteile und den gemeinen Wert ihrer geleisteten Sacheinlagen zurück. “
 - 3. :: § 5:
-  Bei Auflösung der Körperschaft oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen der Körperschaft, soweit es die eingezahlten Kapitalanteile der Gesellschafter und den gemeinen Wert der von den Gesellschaftern geleisteten Sacheinlagen übersteigt, ...“.
+  „Bei Auflösung der Körperschaft oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen der Körperschaft, soweit es die eingezahlten Kapitalanteile der Gesellschafter und den gemeinen Wert der von den Gesellschaftern geleisteten Sacheinlagen übersteigt, ...“.
 
-§ 3 Abs. 2 und der Satzteil soweit es die eingezahlten Kapitalanteile der Gesellschafter und den gemeinen Wert der von den Gesellschaftern geleisteten Sacheinlagen übersteigt,“ in § 5 sind nur erforderlich, wenn die Satzung einen Anspruch auf Rückgewähr von Vermögen einräumt.
+§ 3 Abs. 2 und der Satzteil „soweit es die eingezahlten Kapitalanteile der Gesellschafter und den gemeinen Wert der von den Gesellschaftern geleisteten Sacheinlagen übersteigt,“ in § 5 sind nur erforderlich, wenn die Satzung einen Anspruch auf Rückgewähr von Vermögen einräumt.

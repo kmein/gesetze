@@ -8,7 +8,7 @@ Inhaltsübersicht
 
 § 1
 Anwendungsbereich
-
+ 
 1. Kapitel
 Aufgaben der Hochschulen
 1. Abschnitt
@@ -23,7 +23,7 @@ Freiheit von Kunst und Wissenschaft, Forschung, Lehre und Studium
 Staatliche Finanzierung
 § 6
 Bewertung der Forschung, Lehre, Förderung des wissenschaftlichen Nachwuchses und der Gleichstellung der Geschlechter
-
+ 
 2. Abschnitt
 Studium und Lehre
 § 7
@@ -56,7 +56,7 @@ Bachelor- und Masterstudiengänge
 Studium an ausländischen Hochschulen
 § 21
 (weggefallen)
-
+ 
 3. Abschnitt
 Forschung
 § 22
@@ -69,7 +69,7 @@ Veröffentlichung von Forschungsergebnissen
 Forschung mit Mitteln Dritter
 § 26
 Entwicklungsvorhaben
-
+ 
 2. Kapitel
 Zulassung zum Studium
 § 27
@@ -92,7 +92,7 @@ Zentrale Vergabe von Studienplätzen
 Benachteiligungsverbot
 § 35
 Unabhängigkeit der Zulassung von der Landeszugehörigkeit
-
+ 
 3. Kapitel
 Mitglieder der Hochschule
 1. Abschnitt
@@ -105,7 +105,7 @@ Allgemeine Grundsätze der Mitwirkung
 (weggefallen)
 § 41
 Studentenschaft
-
+ 
 2. Abschnitt
 Wissenschaftliches und künstlerisches Personal
 § 42
@@ -154,7 +154,7 @@ Lehrkräfte für besondere Aufgaben
 (weggefallen)
 § 57f
 (weggefallen)
-
+ 
 4. Kapitel
 Rechtsstellung der Hochschule
 § 58
@@ -163,14 +163,14 @@ Rechtsform und Selbstverwaltungsrecht
 Aufsicht
 §§ 60 bis 69
 (weggefallen)
-
+ 
 5. Kapitel
 Staatliche Anerkennung
 § 70
 Anerkennung von Einrichtungen
 § 71
 Gleichstellung von Abschlüssen der Notarschule
-
+ 
 6. Kapitel
 Anpassung des Landesrechts
 § 72
@@ -185,7 +185,7 @@ Bisherige Dienstverhältnisse und Berufungsvereinbarungen
 Besitzstandswahrung bei der Entpflichtung
 § 76a
 Übergangsvorschrift für Hochschulassistenten
-
+ 
 7. Kapitel
 Änderung von Bundesgesetzen, Schlußvorschriften
 §§ 77 bis 80

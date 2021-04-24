@@ -7,214 +7,214 @@ Ausfertigungsdatum: 01.12.1936
 Inhaltsübersicht
 
 Abschnitt I
-
-
+ 
+ 
 Allgemeines
-
-
-
+ 
+ 
+ 
 Steuerberechtigte
 § 1
-
-
+ 
+ 
 Steuergegenstand
 § 2
-
-
+ 
+ 
 Arbeitsgemeinschaften
 § 2a
-
-
+ 
+ 
 Befreiungen
 § 3
-
-
+ 
+ 
 Hebeberechtigte Gemeinde
 § 4
-
-
+ 
+ 
 Steuerschuldner
 § 5
-
-
+ 
+ 
 Besteuerungsgrundlage
 § 6
 Abschnitt II
-
-
+ 
+ 
 Bemessung der Gewerbesteuer
-
-
-
+ 
+ 
+ 
 Gewerbeertrag
 § 7
-
-
+ 
+ 
 Sonderregelung bei der Ermittlung des Gewerbeertrags einer Organgesellschaft
 § 7a
-
-
+ 
+ 
 Sonderregelung bei der Ermittlung des Gewerbeertrags bei unternehmensbezogener Sanierung
 § 7b
-
-
+ 
+ 
 Hinzurechnungen
 § 8
-
-
+ 
+ 
 Hinzurechnung des Gewerbeertrags bei niedriger Gewerbesteuerbelastung
 § 8a
-
-
+ 
+ 
 Kürzungen
 § 9
-
-
+ 
+ 
 Maßgebender Gewerbeertrag
 § 10
-
-
+ 
+ 
 Gewerbeverlust
 § 10a
-
-
+ 
+ 
 Steuermesszahl und Steuermessbetrag
 § 11
 Abschnitt III
-
-
-
+ 
+ 
+ 
 (weggefallen)
 §§ 12 und 13
 Abschnitt IV
-
-
+ 
+ 
 Steuermessbetrag
-
-
-
+ 
+ 
+ 
 Festsetzung des Steuermessbetrags
 § 14
-
-
+ 
+ 
 Steuererklärungspflicht
 § 14a
-
-
+ 
+ 
 Verspätungszuschlag
 § 14b
-
-
+ 
+ 
 Pauschfestsetzung
 § 15
 Abschnitt V
-
-
+ 
+ 
 Entstehung, Festsetzung und Erhebung der Steuer
-
-
-
+ 
+ 
+ 
 Hebesatz
 § 16
-
-
+ 
+ 
 (weggefallen)
 § 17
-
-
+ 
+ 
 Entstehung der Steuer
 § 18
-
-
+ 
+ 
 Vorauszahlungen
 § 19
-
-
+ 
+ 
 Abrechnung über die Vorauszahlungen
 § 20
-
-
+ 
+ 
 Entstehung der Vorauszahlungen
 § 21
-
-
+ 
+ 
 (weggefallen)
 §§ 22 bis 27
 Abschnitt VI
-
-
+ 
+ 
 Zerlegung
-
-
-
+ 
+ 
+ 
 Allgemeines
 § 28
-
-
+ 
+ 
 Zerlegungsmaßstab
 § 29
-
-
+ 
+ 
 Zerlegung bei mehrgemeindlichen Betriebsstätten
 § 30
-
-
+ 
+ 
 Begriff der Arbeitslöhne für die Zerlegung
 § 31
-
-
+ 
+ 
 (weggefallen)
 § 32
-
-
+ 
+ 
 Zerlegung in besonderen Fällen
 § 33
-
-
+ 
+ 
 Kleinbeträge
 § 34
-
-
+ 
+ 
 (weggefallen)
 § 35
 Abschnitt VII
-
-
+ 
+ 
 Gewerbesteuer der Reisegewerbebetriebe
-
-
-
-
+ 
+ 
+ 
+ 
 § 35a
 Abschnitt VIII
-
-
+ 
+ 
 Änderung des Gewerbesteuermessbescheids von Amts wegen
-
-
-
-
+ 
+ 
+ 
+ 
 § 35b
 Abschnitt IX
-
-
+ 
+ 
 Durchführung
-
-
-
+ 
+ 
+ 
 Ermächtigung
 § 35c
 Abschnitt X
-
-
+ 
+ 
 Schlussvorschriften
-
-
-
+ 
+ 
+ 
 Zeitlicher Anwendungsbereich
 § 36
-
-
+ 
+ 
 (weggefallen)
 § 37
 
@@ -628,7 +628,7 @@ Erstreckt sich die Betriebsstätte auf mehrere Gemeinden, so ist der Steuermessb
 (1) Die vorstehende Fassung dieses Gesetzes ist, soweit in den folgenden Absätzen nichts anderes bestimmt ist, erstmals für den Erhebungszeitraum 2020 anzuwenden.
 (2) ¹§ 3 Nummer 1 in der Fassung des Artikels 8 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den Erhebungszeitraum 2019 anzuwenden. ²§ 3 Nummer 13 in der Fassung des Artikels 8 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den Erhebungszeitraum 2015 anzuwenden. ³§ 3 Nummer 24 in der Fassung des Artikels 8 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den Erhebungszeitraum 2019 anzuwenden. ⁴§ 3 Nummer 32 in der Fassung des Artikels 8 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den Erhebungszeitraum 2019 anzuwenden.
 (3) ¹§ 7 Satz 3 in der durch Artikel 8 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) geänderten Fassung ist erstmals für den Erhebungszeitraum 2009 anzuwenden. ²Für den Erhebungszeitraum 2008 ist § 7 Satz 3 in folgender Fassung anzuwenden:
-Der nach § 5a des Einkommensteuergesetzes ermittelte Gewinn einschließlich der Hinzurechnungen nach § 5a Absatz 4 und 4a des Einkommensteuergesetzes und das nach § 8 Absatz 1 Satz 2 des Körperschaftsteuergesetzes ermittelte Einkommen gelten als Gewerbeertrag nach Satz 1.“
+„Der nach § 5a des Einkommensteuergesetzes ermittelte Gewinn einschließlich der Hinzurechnungen nach § 5a Absatz 4 und 4a des Einkommensteuergesetzes und das nach § 8 Absatz 1 Satz 2 des Körperschaftsteuergesetzes ermittelte Einkommen gelten als Gewerbeertrag nach Satz 1.“
 ³§ 7 Satz 7 in der Fassung des Artikels 16 des Gesetzes vom 20. Dezember 2016 (BGBl. I S. 3000) ist erstmals für den Erhebungszeitraum 2017 anzuwenden.
 (4) ¹§ 8 Nummer 1 Buchstabe d Satz 2 ist nur auf Entgelte anzuwenden, die auf Verträgen beruhen, die nach dem 31. Dezember 2019 abgeschlossen worden sind. ²Dabei ist bei Verträgen, die vor dem 1. Januar 2025 abgeschlossen werden, statt einer Reichweite von 80 Kilometern eine Reichweite von 60 Kilometern ausreichend. ³§ 8 Nummer 1 Buchstabe d Satz 2 ist letztmals für den Erhebungszeitraum 2030 anzuwenden.
 (5) ¹§ 9 Nummer 3 Satz 1 erster Halbsatz in der Fassung des Artikels 16 des Gesetzes vom 20. Dezember 2016 (BGBl. I S. 3000) ist erstmals für den Erhebungszeitraum 2017 anzuwenden. ²§ 9 Nummer 5 Satz 12 in der Fassung des Artikels 8 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für Zuwendungen anzuwenden, die nach dem 31. Dezember 2019 geleistet werden.

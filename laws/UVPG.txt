@@ -6,7 +6,7 @@ Ausfertigungsdatum: 12.02.1990
 
 Inhaltsübersicht
 
-
+ 
 
 § 1 - Anwendungsbereich
 
@@ -85,12 +85,12 @@ Die Umweltverträglichkeitsprüfung ist unselbständiger Teil verwaltungsbehörd
 
 § 6 - Unbedingte UVP-Pflicht bei Neuvorhaben
 
-Für ein Neuvorhaben, das in Anlage 1 Spalte 1 mit dem Buchstaben X“ gekennzeichnet ist, besteht die UVP-Pflicht, wenn die zur Bestimmung der Art des Vorhabens genannten Merkmale vorliegen. Sofern Größen- oder Leistungswerte angegeben sind, besteht die UVP-Pflicht, wenn die Werte erreicht oder überschritten werden.
+Für ein Neuvorhaben, das in Anlage 1 Spalte 1 mit dem Buchstaben „X“ gekennzeichnet ist, besteht die UVP-Pflicht, wenn die zur Bestimmung der Art des Vorhabens genannten Merkmale vorliegen. Sofern Größen- oder Leistungswerte angegeben sind, besteht die UVP-Pflicht, wenn die Werte erreicht oder überschritten werden.
 
 § 7 - Vorprüfung bei Neuvorhaben
 
-(1) Bei einem Neuvorhaben, das in Anlage 1 Spalte 2 mit dem Buchstaben A“ gekennzeichnet ist, führt die zuständige Behörde eine allgemeine Vorprüfung zur Feststellung der UVP-Pflicht durch. Die allgemeine Vorprüfung wird als überschlägige Prüfung unter Berücksichtigung der in Anlage 3 aufgeführten Kriterien durchgeführt. Die UVP-Pflicht besteht, wenn das Neuvorhaben nach Einschätzung der zuständigen Behörde erhebliche nachteilige Umweltauswirkungen haben kann, die nach § 25 Absatz 2 bei der Zulassungsentscheidung zu berücksichtigen wären.
-(2) Bei einem Neuvorhaben, das in Anlage 1 Spalte 2 mit dem Buchstaben S“ gekennzeichnet ist, führt die zuständige Behörde eine standortbezogene Vorprüfung zur Feststellung der UVP-Pflicht durch. Die standortbezogene Vorprüfung wird als überschlägige Prüfung in zwei Stufen durchgeführt. In der ersten Stufe prüft die zuständige Behörde, ob bei dem Neuvorhaben besondere örtliche Gegebenheiten gemäß den in Anlage 3 Nummer 2.3 aufgeführten Schutzkriterien vorliegen. Ergibt die Prüfung in der ersten Stufe, dass keine besonderen örtlichen Gegebenheiten vorliegen, so besteht keine UVP-Pflicht. Ergibt die Prüfung in der ersten Stufe, dass besondere örtliche Gegebenheiten vorliegen, so prüft die Behörde auf der zweiten Stufe unter Berücksichtigung der in Anlage 3 aufgeführten Kriterien, ob das Neuvorhaben erhebliche nachteilige Umweltauswirkungen haben kann, die die besondere Empfindlichkeit oder die Schutzziele des Gebietes betreffen und nach § 25 Absatz 2 bei der Zulassungsentscheidung zu berücksichtigen wären. Die UVP-Pflicht besteht, wenn das Neuvorhaben nach Einschätzung der zuständigen Behörde solche Umweltauswirkungen haben kann.
+(1) Bei einem Neuvorhaben, das in Anlage 1 Spalte 2 mit dem Buchstaben „A“ gekennzeichnet ist, führt die zuständige Behörde eine allgemeine Vorprüfung zur Feststellung der UVP-Pflicht durch. Die allgemeine Vorprüfung wird als überschlägige Prüfung unter Berücksichtigung der in Anlage 3 aufgeführten Kriterien durchgeführt. Die UVP-Pflicht besteht, wenn das Neuvorhaben nach Einschätzung der zuständigen Behörde erhebliche nachteilige Umweltauswirkungen haben kann, die nach § 25 Absatz 2 bei der Zulassungsentscheidung zu berücksichtigen wären.
+(2) Bei einem Neuvorhaben, das in Anlage 1 Spalte 2 mit dem Buchstaben „S“ gekennzeichnet ist, führt die zuständige Behörde eine standortbezogene Vorprüfung zur Feststellung der UVP-Pflicht durch. Die standortbezogene Vorprüfung wird als überschlägige Prüfung in zwei Stufen durchgeführt. In der ersten Stufe prüft die zuständige Behörde, ob bei dem Neuvorhaben besondere örtliche Gegebenheiten gemäß den in Anlage 3 Nummer 2.3 aufgeführten Schutzkriterien vorliegen. Ergibt die Prüfung in der ersten Stufe, dass keine besonderen örtlichen Gegebenheiten vorliegen, so besteht keine UVP-Pflicht. Ergibt die Prüfung in der ersten Stufe, dass besondere örtliche Gegebenheiten vorliegen, so prüft die Behörde auf der zweiten Stufe unter Berücksichtigung der in Anlage 3 aufgeführten Kriterien, ob das Neuvorhaben erhebliche nachteilige Umweltauswirkungen haben kann, die die besondere Empfindlichkeit oder die Schutzziele des Gebietes betreffen und nach § 25 Absatz 2 bei der Zulassungsentscheidung zu berücksichtigen wären. Die UVP-Pflicht besteht, wenn das Neuvorhaben nach Einschätzung der zuständigen Behörde solche Umweltauswirkungen haben kann.
 (3) Die Vorprüfung nach den Absätzen 1 und 2 entfällt, wenn der Vorhabenträger die Durchführung einer Umweltverträglichkeitsprüfung beantragt und die zuständige Behörde das Entfallen der Vorprüfung als zweckmäßig erachtet. Für diese Neuvorhaben besteht die UVP-Pflicht. Die Entscheidung der zuständigen Behörde ist nicht anfechtbar.
 (4) Zur Vorbereitung der Vorprüfung ist der Vorhabenträger verpflichtet, der zuständigen Behörde geeignete Angaben nach Anlage 2 zu den Merkmalen des Neuvorhabens und des Standorts sowie zu den möglichen erheblichen Umweltauswirkungen des Neuvorhabens zu übermitteln.
 (5) Bei der Vorprüfung berücksichtigt die Behörde, ob erhebliche nachteilige Umweltauswirkungen durch Merkmale des Vorhabens oder des Standorts oder durch Vorkehrungen des Vorhabenträgers offensichtlich ausgeschlossen werden. Liegen der Behörde Ergebnisse vorgelagerter Umweltprüfungen oder anderer rechtlich vorgeschriebener Untersuchungen zu den Umweltauswirkungen des Vorhabens vor, bezieht sie diese Ergebnisse in die Vorprüfung ein. Bei der allgemeinen Vorprüfung kann sie ergänzend berücksichtigen, inwieweit Prüfwerte für Größe oder Leistung, die die allgemeine Vorprüfung eröffnen, überschritten werden.
@@ -199,7 +199,7 @@ Für die in Anlage 1 Nummer 18.5, 18.7 und 18.8 aufgeführten Industriezonen und
 
 § 14 - Entwicklungs- und Erprobungsvorhaben
 
-(1) Sofern ein in Anlage 1 Spalte 1 mit einem X“ gekennzeichnetes Vorhaben ein Entwicklungs- und Erprobungsvorhaben ist und nicht länger als zwei Jahre durchgeführt wird, besteht für dieses Vorhaben eine UVP-Pflicht abweichend von § 6 nur, wenn sie durch die allgemeine Vorprüfung festgestellt wird. Für die Vorprüfung gilt § 7 Absatz 1 und 3 bis 7 entsprechend. Bei der allgemeinen Vorprüfung ist die Durchführungsdauer besonders zu berücksichtigen.
+(1) Sofern ein in Anlage 1 Spalte 1 mit einem „X“ gekennzeichnetes Vorhaben ein Entwicklungs- und Erprobungsvorhaben ist und nicht länger als zwei Jahre durchgeführt wird, besteht für dieses Vorhaben eine UVP-Pflicht abweichend von § 6 nur, wenn sie durch die allgemeine Vorprüfung festgestellt wird. Für die Vorprüfung gilt § 7 Absatz 1 und 3 bis 7 entsprechend. Bei der allgemeinen Vorprüfung ist die Durchführungsdauer besonders zu berücksichtigen.
 (2) Ein Entwicklungs- und Erprobungsvorhaben ist ein Vorhaben, das ausschließlich oder überwiegend der Entwicklung und Erprobung neuer Verfahren oder Erzeugnisse dient.
 
 § 14a - Besondere Änderungen zur Modernisierung und Digitalisierung von Schienenwegen
@@ -825,7 +825,7 @@ Ist die zuständige Behörde bei der Umweltverträglichkeitsprüfung zugleich Vo
 (12) Für Verfahren nach § 4, die der Entscheidung über die Zulässigkeit von Vorhaben nach Nummer 13.2.2 der Anlage 1 dienen, findet dieses Gesetz nur Anwendung, wenn das Verfahren nach dem 1. März 2010 eingeleitet worden ist. Verfahren nach § 4, die der Entscheidung über die Zulässigkeit von Vorhaben nach den Nummern 3.15, 13.1 bis 13.2.1.3, 13.3 bis 13.18 und 17 der Anlage 1 dienen und die vor dem 1. März 2010 eingeleitet worden sind, sind nach der bis zu diesem Tag geltenden Fassung des Gesetzes zu Ende zu führen.
 (13) Für Verfahren nach § 4, die der Entscheidung über die Zulässigkeit von Vorhaben nach Nummer 17.3 der Anlage 1 dienen, ist dieses Gesetz nur anzuwenden, wenn das Verfahren nach dem 1. August 2013 eingeleitet worden ist.
 
-Anlage 1 - Liste UVP-pflichtige Vorhaben“
+Anlage 1 - Liste „UVP-pflichtige Vorhaben“
 
 (Fundstelle: BGBl. I 2021, 565 -- 582)
 \\
@@ -923,7 +923,7 @@ Soweit die nachfolgenden Aspekte über die in § 16 Absatz 1 Satz 1 genannten Mi
 - 12. :: Eine Referenzliste der Quellen, die für die im UVP-Bericht enthaltenen Angaben herangezogen wurden.
 
 
-Anlage 5 - Liste SUP-pflichtiger Pläne und Programme“
+Anlage 5 - Liste „SUP-pflichtiger Pläne und Programme“
 
 (Fundstelle: BGBl. I 2021, 588 -- 589)
 \\

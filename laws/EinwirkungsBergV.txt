@@ -75,120 +75,120 @@ Auerbach/\\
 Leonie
 flächendeckender Abbau innerhalb Kreideerzformation
 51
-
-
-
+ 
+ 
+ 
 Flußspatbergbau
 Schwarzwald
-
-
-
+ 
+ 
+ 
 80
 75
 Schwerspatbergbau
 Dreislar (Sauerland)
-
-
-
+ 
+ 
+ 
 80
 75
 Schwarzwald
-
-
-
+ 
+ 
+ 
 80
 75
 Südwestharz
-
-
-
+ 
+ 
+ 
 80
 75
 Steinkohlenbergbau
-
+ 
 bei Flözeinfallen von:
-
-
-
-
+ 
+ 
+ 
+ 
 Nordrhein-Westfalen
-0 -- 10
-
+0 -- 10°
+ 
 70
 70
 70
-> 10 -- 20
-
+> 10 -- 20°
+ 
 70
 70
 70
-> 20 -- 30
-
+> 20 -- 30°
+ 
 70
 68
 72
-> 30 -- 40
-
+> 30 -- 40°
+ 
 70
 65
 77
-> 40 -- 50
-
+> 40 -- 50°
+ 
 70
 60
 80
-> 50 -- 60
-
+> 50 -- 60°
+ 
 70
 60
 80
-> 60
-
+> 60°
+ 
 70
 55
 85
 Saarland
-0 -- 10
-
+0 -- 10°
+ 
 73
 73
 73
-> 10 -- 20
-
+> 10 -- 20°
+ 
 73
 68
 76
-> 20 -- 30
-
+> 20 -- 30°
+ 
 73
 64
 78
-> 30 -- 40
-
+> 30 -- 40°
+ 
 73
 61
 82
-> 40 -- 50
-
+> 40 -- 50°
+ 
 73
 58
 84
-> 50
-
+> 50°
+ 
 73
 56
 85
 Steinsalzbergbau
 Niederrhein
-
+ 
 65
-
-
-
+ 
+ 
+ 
 Tonbergbau
 alle Bezirke
-
+ 
 55
-
-
-
+ 
+ 
+ 

@@ -162,8 +162,8 @@ Die Abmessungen der gesundheitsbezogenen Warnhinweise sind im Verhältnis zur je
 
 Zigaretten, Tabak zum Selbstdrehen und Wasserpfeifentabak dürfen nur in den Verkehr gebracht werden, wenn Packungen und Außenverpackungen folgende gesundheitsbezogene Warnhinweise tragen:
 
-- 1. :: den allgemeinen Warnhinweis Rauchen ist tödlich“,
-- 2. :: die Informationsbotschaft Tabakrauch enthält über 70 Stoffe, die erwiesenermaßen krebserregend sind. “ und
+- 1. :: den allgemeinen Warnhinweis „Rauchen ist tödlich“,
+- 2. :: die Informationsbotschaft „Tabakrauch enthält über 70 Stoffe, die erwiesenermaßen krebserregend sind. “ und
 - 3. :: kombinierte Text-Bild-Warnhinweise.
 
 
@@ -183,7 +183,7 @@ Zigaretten, Tabak zum Selbstdrehen und Wasserpfeifentabak dürfen nur in den Ver
 
 § 14 - Kombinierte Text-Bild-Warnhinweise bei Zigaretten, Tabak zum Selbstdrehen und Wasserpfeifentabak
 
-(1) Die kombinierten Text-Bild-Warnhinweise nach § 12 Nummer 3 sind Anhang II der Richtlinie 2014/40/EU in der jeweils geltenden Fassung zu entnehmen. Für deren Format, Layout, Gestaltung und Proportionen gelten die Anforderungen gemäWollen Sie aufhören? Die BZgA hilft: Tel.: 0800 8 313131 (kostenfrei),www.rauchfrei-info.de“.
+(1) Die kombinierten Text-Bild-Warnhinweise nach § 12 Nummer 3 sind Anhang II der Richtlinie 2014/40/EU in der jeweils geltenden Fassung zu entnehmen. Für deren Format, Layout, Gestaltung und Proportionen gelten die Anforderungen gemäß Artikel 2 bis 4 in Verbindung mit Nummer 1 bis 4 des Anhangs des Durchführungsbeschlusses (EU) 2015/1842 der Kommission vom 9. Oktober 2015 über die technischen Spezifikationen für das Layout, die Gestaltung und die Form der kombinierten gesundheitsbezogenen Warnhinweise für Rauchtabakerzeugnisse (ABl. L 267 vom 14.10.2015, S. 5). Sie sind jährlich so zu wechseln, dass sie in gleicher Anzahl auf den Packungen erscheinen, und durch folgende Information zur Raucherentwöhnung zu ergänzen: „Wollen Sie aufhören? Die BZgA hilft: Tel.: 0800 8 313131 (kostenfrei),www.rauchfrei-info.de“.
 (2) Für die Anbringung der kombinierten Text-Bild-Warnhinweise gelten folgende Anforderungen:
 
 - 1. :: sie müssen jeweils 65 Prozent der für sie vorgesehenen Flächen einnehmen,
@@ -205,10 +205,10 @@ Markennamen oder Logos dürfen nicht oberhalb des kombinierten Text-Bild-Warnhin
 
 (1) Andere Rauchtabakerzeugnisse als Zigaretten, Tabak zum Selbstdrehen und Wasserpfeifentabak dürfen nur in den Verkehr gebracht werden, wenn Packungen und Außenverpackungen folgende gesundheitsbezogene Warnhinweise tragen:
 
-- 1. :: den allgemeinen Warnhinweis Rauchen ist tödlich“,
+- 1. :: den allgemeinen Warnhinweis „Rauchen ist tödlich“,
 - 2. :: einen der in Anhang I der Richtlinie 2014/40/EU in der jeweils geltenden Fassung enthaltenen Text-Warnhinweise.
 
-(2) Der allgemeine Warnhinweis ist durch folgende Information zur Raucherentwöhnung zu ergänzen: Wollen Sie aufhören? Die BZgA hilft: Tel.: 0800 8 313131 (kostenfrei), www.rauchfrei-info.de“.
+(2) Der allgemeine Warnhinweis ist durch folgende Information zur Raucherentwöhnung zu ergänzen: „Wollen Sie aufhören? Die BZgA hilft: Tel.: 0800 8 313131 (kostenfrei), www.rauchfrei-info.de“.
 
 § 16 - Allgemeiner Warnhinweis und Text-Warnhinweis bei anderen Rauchtabakerzeugnissen als Zigaretten, Tabak zum Selbstdrehen und Wasserpfeifentabak
 
@@ -233,7 +233,7 @@ Markennamen oder Logos dürfen nicht oberhalb des kombinierten Text-Bild-Warnhin
 
 § 17 - Kennzeichnung rauchloser Tabakerzeugnisse
 
-(1) Rauchlose Tabakerzeugnisse dürfen nur in den Verkehr gebracht werden, wenn die Packungen und AuDieses Tabakerzeugnis schädigt Ihre Gesundheit und macht süchtig. “
+(1) Rauchlose Tabakerzeugnisse dürfen nur in den Verkehr gebracht werden, wenn die Packungen und Außenverpackungen den folgenden gesundheitsbezogenen Warnhinweis tragen: „Dieses Tabakerzeugnis schädigt Ihre Gesundheit und macht süchtig. “
 (2) Der Warnhinweis muss auf den zwei größten Flächen der Packung und der Außenverpackung angebracht werden und jeweils 30 Prozent dieser Flächen einnehmen. Der Warnhinweis muss den Anforderungen des § 13 Absatz 1 Nummer 2 genügen und parallel zum Haupttext ausgerichtet werden.
 
 § 18 - Verbote zum Schutz vor Täuschung
@@ -246,7 +246,7 @@ Es dürfen nicht in den Verkehr gebracht werden:
 - 4. :: Rauchtabakerzeugnisse, bei denen der Anteil an Tabakfolien 25 Prozent des Gewichtes der Tabakmischung übersteigt,
 - 5. :: Tabakerzeugnisse, die chemisch gebleicht sind,
 - 6. :: gefärbter Tabak für Rauchtabakerzeugnisse, ausgenommen schwarzer Rolltabak, oder
-- 7. :: Zigarren, die ein Kunstumblatt oder ein Umblatt aus Tabakfolie besitzen, sofern dies nicht auf den Packungen durch die deutlich sichtbare und leicht lesbare Angabe mit Kunstumblatt" kenntlich gemacht ist; wenn der Gewichtsanteil des Tabaks im Umblatt mehr als 50 Prozent beträgt, kann stattdessen die Angabe mit tabakhaltigem Kunstumblatt" verwendet werden; bei Zigarren, die ein Umblatt aus Tabakfolie besitzen, kann die Kenntlichmachung entfallen, wenn der Gewichtsanteil des Tabaks in der Tabakfolie mindestens 75 Prozent der Trockenmasse beträgt.
+- 7. :: Zigarren, die ein Kunstumblatt oder ein Umblatt aus Tabakfolie besitzen, sofern dies nicht auf den Packungen durch die deutlich sichtbare und leicht lesbare Angabe „mit Kunstumblatt" kenntlich gemacht ist; wenn der Gewichtsanteil des Tabaks im Umblatt mehr als 50 Prozent beträgt, kann stattdessen die Angabe „mit tabakhaltigem Kunstumblatt" verwendet werden; bei Zigarren, die ein Umblatt aus Tabakfolie besitzen, kann die Kenntlichmachung entfallen, wenn der Gewichtsanteil des Tabaks in der Tabakfolie mindestens 75 Prozent der Trockenmasse beträgt.
 
 
 § 19 - Ausgabestelle
@@ -359,7 +359,7 @@ Hersteller und Importeure von elektronischen Zigaretten und Nachfüllbehältern 
 
 § 26 - Beipackzettel
 
-(1) Hersteller und Importeure von elektronischen Zigaretten und Nachfüllbehältern sind zur Erstellung des Beipackzettels nach § 15 Absatz 1 Nummer 1 des Tabakerzeugnisgesetzes verpflichtet. Der Beipackzettel muss die Überschrift Gebrauchsinformation“ tragen und Folgendes enthalten:
+(1) Hersteller und Importeure von elektronischen Zigaretten und Nachfüllbehältern sind zur Erstellung des Beipackzettels nach § 15 Absatz 1 Nummer 1 des Tabakerzeugnisgesetzes verpflichtet. Der Beipackzettel muss die Überschrift „Gebrauchsinformation“ tragen und Folgendes enthalten:
 
 - 1. :: Gebrauchs- und Aufbewahrungsanleitungen,
 - 2. :: Gegenanzeigen,
@@ -381,7 +381,7 @@ Hersteller und Importeure von elektronischen Zigaretten und Nachfüllbehältern 
 - 3. :: einen Hinweis, aus dem das Los zu ersehen ist, zu dem die elektronische Zigarette oder der Nachfüllbehälter gehört, und
 - 4. :: den Hinweis, dass das Erzeugnis nicht in die Hände von Kindern und Jugendlichen gelangen darf.
 
-(2) Die Packungen und AuDieses Produkt enthält Nikotin: einen Stoff, der sehr stark abhängig macht. “
+(2) Die Packungen und Außenverpackungen müssen zusätzlich zu den Anforderungen nach Absatz 1 den folgenden gesundheitsbezogenen Warnhinweis tragen: „Dieses Produkt enthält Nikotin: einen Stoff, der sehr stark abhängig macht. “
 (3) Der Warnhinweis muss auf den zwei größten Flächen der Packung und der Außenverpackung angebracht werden und jeweils 30 Prozent dieser Flächen einnehmen. Er muss den Anforderungen des § 13 Absatz 1 Nummer 2 genügen und parallel zum Haupttext ausgerichtet werden.
 
 § 28 - Inhaltsstoffe
@@ -398,7 +398,7 @@ Für pflanzliche Raucherzeugnisse gilt § 6 Absatz 1 Nummer 1 und 2, Absatz 4 Sa
 
 § 30 - Warnhinweis
 
-(1) Pflanzliche Raucherzeugnisse dürfen nur in den Verkehr gebracht werden, wenn die Packungen und AuDas Rauchen dieses Produkts schädigt Ihre Gesundheit. “
+(1) Pflanzliche Raucherzeugnisse dürfen nur in den Verkehr gebracht werden, wenn die Packungen und Außenverpackungen folgenden gesundheitsbezogenen Warnhinweis tragen: „Das Rauchen dieses Produkts schädigt Ihre Gesundheit. “
 (2) Für die Gestaltung und Anbringung des Warnhinweises auf Packungen und Außenverpackungen gelten folgende Anforderungen: Er muss
 
 - 1. :: auf der äußeren Vorder- und der äußeren Rückseite angebracht werden,

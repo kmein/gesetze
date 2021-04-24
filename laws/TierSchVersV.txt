@@ -6,19 +6,19 @@ Ausfertigungsdatum: 01.08.2013
 
 Inhaltsübersicht
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 § 1 - Anforderungen an die Haltung von Wirbeltieren und Kopffüßern
 
@@ -275,15 +275,15 @@ Die Betäubung darf bei Wirbeltieren nur von einer Person, die die Voraussetzung
 
 (1) Ein Wirbeltier oder ein Kopffüßer, das oder der bereits in einem Versuchsvorhaben verwendet worden ist, darf in einem weiteren Versuchsvorhaben, für das auch ein zuvor noch nicht verwendetes Tier verwendet werden könnte, nur dann verwendet werden, wenn
 
-- 1. :: das Tier nicht in einem Tierversuch verwendet worden ist, der nach Artikel 15 Absatz 1 in Verbindung mit Anhang VIII der Richtlinie 2010/63/EU als schwer“ einzustufen ist,
+- 1. :: das Tier nicht in einem Tierversuch verwendet worden ist, der nach Artikel 15 Absatz 1 in Verbindung mit Anhang VIII der Richtlinie 2010/63/EU als „schwer“ einzustufen ist,
 - 2. :: sein allgemeiner Gesundheitszustand und sein Wohlbefinden vollständig wiederhergestellt sind,
-- 3. :: das Tier im Rahmen des weiteren Versuchsvorhabens nicht in einem Tierversuch verwendet wird, der nach Artikel 15 Absatz 1 in Verbindung mit Anhang VIII der Richtlinie 2010/63/EU als schwer“ einzustufen ist und
+- 3. :: das Tier im Rahmen des weiteren Versuchsvorhabens nicht in einem Tierversuch verwendet wird, der nach Artikel 15 Absatz 1 in Verbindung mit Anhang VIII der Richtlinie 2010/63/EU als „schwer“ einzustufen ist und
 - 4. :: die erneute Verwendung im Einklang mit einer tierärztlichen Empfehlung steht, die Art und Umfang der Schmerzen, Leiden und Schäden berücksichtigt, die das jeweilige Tier während seines gesamten bisherigen Lebensverlaufs erfahren hat.
 
 (2) Die zuständige Behörde kann abweichend von Absatz 1 Nummer 1 die Verwendung eines Wirbeltieres oder eines Kopffüßers in einem weiteren Versuchsvorhaben genehmigen, wenn das Tier
 
-- 1. :: nicht mehr als einmal in einem Tierversuch verwendet worden ist, der nach Artikel 15 Absatz 1 in Verbindung mit Anhang VIII der Richtlinie 2010/63/EU als schwer“ einzustufen ist,
-- 2. :: im Rahmen des weiteren Versuchsvorhabens nicht in einem Tierversuch verwendet wird, der nach Artikel 15 Absatz 1 in Verbindung mit Anhang VIII der Richtlinie 2010/63/EU als schwer“ oder mittel“ einzustufen ist, und
+- 1. :: nicht mehr als einmal in einem Tierversuch verwendet worden ist, der nach Artikel 15 Absatz 1 in Verbindung mit Anhang VIII der Richtlinie 2010/63/EU als „schwer“ einzustufen ist,
+- 2. :: im Rahmen des weiteren Versuchsvorhabens nicht in einem Tierversuch verwendet wird, der nach Artikel 15 Absatz 1 in Verbindung mit Anhang VIII der Richtlinie 2010/63/EU als „schwer“ oder „mittel“ einzustufen ist, und
 - 3. :: zuvor einer tierärztlichen Untersuchung unterzogen worden ist.
 
 
@@ -470,7 +470,7 @@ Die Änderungen dürfen nicht vor Ablauf von zwei Wochen nach Eingang der Anzeig
 (1) Genehmigt die zuständige Behörde ein Versuchsvorhaben, so kann sie zugleich festlegen, dass das Versuchsvorhaben nach seinem Abschluss durch die zuständige Behörde zu bewerten ist und zu welchem Zeitpunkt diese Bewertung vorzunehmen ist. Eine Bewertung nach Satz 1 ist vorzusehen, wenn das Versuchsvorhaben die Durchführung von
 
 - 1. :: Tierversuchen, in denen Primaten verwendet werden,
-- 2. :: Tierversuchen, die nach Artikel 15 Absatz 1 in Verbindung mit Anhang VIII der Richtlinie 2010/63/EU als schwer“ einzustufen sind, oder
+- 2. :: Tierversuchen, die nach Artikel 15 Absatz 1 in Verbindung mit Anhang VIII der Richtlinie 2010/63/EU als „schwer“ einzustufen sind, oder
 - 3. :: Tierversuchen nach § 25 Absatz 2
 
 beinhaltet.
@@ -626,7 +626,7 @@ worden ist.
 Anlage 1 - Kenntnisse und Fähigkeiten, die für die Pflege oder das Töten von Tieren oder die Planung oder die Durchführung von Tierversuchen erforderlich sind
 
 (Fundstelle: BGBl. I 2013, 3140 - 3141)
-
+ 
 - 1. :: Geltende Rechtsvorschriften zur Haltung und Pflege von Tieren, die dazu bestimmt sind, in Tierversuchen verwendet zu werden, oder deren Gewebe oder Organe dazu bestimmt sind, zu wissenschaftlichen Zwecken verwendet zu werden.
 - 2. :: Grundlagen der Biologie und angemessene artspezifische Biologie in Bezug auf Anatomie und physiologische Merkmale.
 - 3. :: Tierverhalten und Haltungsanforderungen und -methoden, einschließlich Anreicherung der Haltungseinrichtungen (allgemein und artspezifisch).
@@ -635,7 +635,7 @@ Anlage 1 - Kenntnisse und Fähigkeiten, die für die Pflege oder das Töten von 
 - 6. :: Anforderung gemäß § 7 Absatz 1 Satz 2 Nummer 2 des Tierschutzgesetzes.
 - 7. :: Verhaltensgerechter Umgang mit Tieren.
 
-
+ 
 - 1. :: Geltende Rechtsvorschriften zum Töten von Tieren zu wissenschaftlichen Zwecken oder von Tieren, die dazu bestimmt sind, in Tierversuchen verwendet zu werden.
 - 2. :: Ethik in Bezug auf die Beziehung zwischen Mensch und Tier, intrinsischer Wert des Lebens.
 - 3. :: Grundlagen der Biologie und angemessene artspezifische Biologie in Bezug auf Anatomie und physiologische Merkmale.
@@ -648,7 +648,7 @@ Anlage 1 - Kenntnisse und Fähigkeiten, die für die Pflege oder das Töten von 
 - 10. :: Wartung der für die Tötung und gegebenenfalls vorhergehende Betäubung notwendigen Geräte oder Anlagen.
 - 11. :: Erkennen artspezifischer Schmerzen und Leiden der am häufigsten für Tierversuche verwendeten Arten.
 
-
+ 
 - 1. :: Geltende Rechtsvorschriften zur Durchführung von Tierversuchen.
 - 2. :: Ethik in Bezug auf die Beziehung zwischen Mensch und Tier, intrinsischer Wert des Lebens und Argumente für und gegen die Verwendung von Tieren zu wissenschaftlichen Zwecken.
 - 3. :: Grundlagen der Biologie und angemessene artspezifische Biologie in Bezug auf Anatomie, physiologische Merkmale, Zucht, Genetik und genetische Veränderung.

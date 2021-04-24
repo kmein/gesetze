@@ -193,7 +193,7 @@ Zuordnen, Bearbeiten und Handhaben von Werk-, Betriebs- und Hilfsstoffen (§ 4 N
 a)
 Werkstoffe identifizieren, nach Verwendungszweck unterscheiden und bearbeiten, Prüftechniken anwenden
 10
-
+ 
 b)
 Einfluss von Werkstoffeigenschaften auf Fertigprodukte berücksichtigen
 c)
@@ -206,7 +206,7 @@ f)
 Eigenschaften und Konstruktionsmerkmale bestimmen, textile Massenberechnungen durchführen
 g)
 Auswirkungen von Fasereigenschaften auf Produktionsprozesse berücksichtigen
-
+ 
 4
 h)
 Veredelungsprozesse hinsichtlich ihrer Art und Auswirkungen unterscheiden
@@ -215,7 +215,7 @@ Betriebliche und technische Kommunikation (§ 4 Nr. 6)
 a)
 Informationen beschaffen, aufbereiten und bewerten
 8
-
+ 
 b)
 betriebliche Vorschriften beachten
 c)
@@ -230,21 +230,21 @@ g)
 Gespräche mit Vorgesetzten, Mitarbeitern und im Team situationsgerecht führen, Sachverhalte darstellen, fremdsprachliche Fachausdrücke anwenden
 h)
 produktionstechnische Daten anwenden und Arbeitsergebnisse dokumentieren
-
+ 
 2
 7
 Planen und Vorbereiten von Arbeitsabläufen (§ 4 Nr. 7)
 a)
 Auftragsunterlagen prüfen, Auftragsziele im eigenen Arbeitsbereich festlegen
 3
-
+ 
 b)
 Werk-, Betriebs- und Hilfsstoffe sowie Arbeitsmittel auswählen und bereitstellen
 c)
 Arbeitsplatz nach ergonomischen und sicherheitsrelevanten Gesichtspunkten einrichten
 d)
 Aufgaben im Team planen und durchführen
-
+ 
 4
 e)
 Arbeitsabläufe und Arbeitsschritte unter Beachtung wirtschaftlicher und terminlicher Vorgaben planen und mit vor- und nachgelagerten Bereichen abstimmen, festlegen und dokumentieren
@@ -253,14 +253,14 @@ Kontrollieren von textilen Fertigungsprozessen und Prüfen von Kenndaten (§ 4 N
 a)
 Prüfverfahren und -mittel nach Verwendungszweck auswählen
 6
-
+ 
 b)
 Prozessabläufe kontrollieren, Prüfungen unter Berücksichtigung von Vorgaben, Toleranzen und Prüfnormen durchführen
 c)
 Prüfergebnisse dokumentieren und bewerten
 d)
 Korrekturmaßnahmen einleiten und durchführen
-
+ 
 3
 e)
 Kenndaten ermitteln, Fehler erfassen und auswerten, Mess- und Prüfprotokolle erstellen und interpretieren
@@ -269,14 +269,14 @@ Branchenspezifische Fertigungstechniken (§ 4 Nr. 9)
 a)
 Produktionsmaschinen und -anlagen nach Fertigungsverfahren und Prozessstufen auswählen
 12
-
+ 
 b)
 Konstruktionen von linienförmigen Gebilden, Flächen oder Verbundstoffen darstellen
 c)
 produktionsbezogene Berechnungen durchführen
 d)
 Prozesszusammenhänge erfassen
-
+ 
 17
 e)
 Arbeitsergebnisse prüfen, dokumentieren und bewerten
@@ -284,13 +284,13 @@ f)
 Mustervorlagen analysieren, Konstruktionstechniken und Produktmerkmale bestimmen
 g)
 technische Patronen oder Schablonen entwickeln sowie Rapporte festlegen und auf technische Durchführbarkeit prüfen
-
+ 
 oder
-
+ 
 Konstruktionstechniken für die Erzeugung von linienförmigen Gebilden, Flächen oder Verbundstoffen festlegen und anwenden
-
+ 
 oder
-
+ 
 Füge- und Formgebungstechniken anwenden
 h)
 Techniken zum Verändern von Oberflächenstrukturen und von Produkteigenschaften festlegen und anwenden
@@ -301,14 +301,14 @@ Steuerungs- und Regelungstechnik (§ 4 Nr. 10)
 a)
 Steuerungssysteme sowie Methoden des Steuerns und Regelns unterscheiden
 8
-
+ 
 b)
 Überwachungseinrichtungen nach Aufbau und Funktion unterscheiden
 c)
 Steuerungs- und Regelungseinrichtungen an Maschinen und Anlagen unter Beachtung der Sicherheitsvorschriften überwachen und bedienen
 d)
 Maschinen und Anlagen zur Änderung von Produkteigenschaften steuern
-
+ 
 8
 e)
 Schalt- und Funktionspläne verschiedener Systeme im Kleinspannungsbereich anwenden
@@ -321,7 +321,7 @@ Einrichten, Bedienen und Überwachen von Produktionsmaschinen und -anlagen (§ 4
 a)
 Produktionsmaschinen und -anlagen hinsichtlich Funktion und Einsatz unterscheiden
 16
-
+ 
 b)
 Werk-, Betriebs- und Hilfsstoffe für die Produktion vorbereiten und kennzeichnen
 c)
@@ -334,7 +334,7 @@ f)
 Maschinen und Anlagen übergeben, dabei über Produktionsprozess, -stand sowie Veränderungen im Produktionsablauf informieren, Übergabe dokumentieren
 g)
 Materialführungs- und Transportsysteme, Warendurchlauf und Produktionsprozesse überwachen und Verfahrensparameter korrigieren
-
+ 
 6
 h)
 Störungen und Abweichungen sowie deren Ursachen feststellen, beseitigen und Beseitigung veranlassen
@@ -345,20 +345,20 @@ Steuern des Materialflusses (§ 4 Nr. 12)
 a)
 Werk-, Betriebs- und Hilfsstoffe sowie Produkte transportieren und lagern
 3
-
+ 
 b)
 Abfälle sammeln, trennen und lagern
 c)
 Materialfluss im eigenen Arbeitsbereich überwachen und sicherstellen
 d)
 Störungen im Materialfluss feststellen und beseitigen, Materialfluss optimieren
-
+ 
 2
 13
 Rüsten von Produktionsmaschinen und -anlagen (§ 4 Nr. 13)
 a)
 Produktionsmaschinen und -anlagen bei Artikelwechsel vorrichten, ab- und umrüsten
-
+ 
 14
 b)
 Austauschteile wechseln und einstellen
@@ -371,12 +371,12 @@ Instandhaltung (§ 4 Nr. 14)
 a)
 Werkstücke und Maschinenelemente gemäß ihren Werkstoffeigenschaften durch spanlose und spanabhebende Formgebung bearbeiten und prüfen
 10
-
+ 
 b)
 Maschinenelemente verbinden und Baugruppen zusammenfügen
 c)
 Werkzeuge, Maschinen und Anlagen kontrollieren und warten, Reparaturen veranlassen
-
+ 
 14
 d)
 Austausch von Zusatzeinrichtungen und Verschleißteilen durchführen und veranlassen
@@ -395,12 +395,12 @@ Durchführen von qualitätssichernden Maßnahmen (§ 4 Nr. 15)
 a)
 Aufgaben und Ziele von qualitätssichernden Maßnahmen unterscheiden
 2
-
+ 
 b)
 Arbeitsabläufe auf Einhaltung der Qualitätsstandards prüfen
 c)
 Produktions-, Qualitäts- und verfahrenstechnische Daten dokumentieren
-
+ 
 4
 d)
 Ursachen von produktspezifischen Qualitätsabweichungen feststellen

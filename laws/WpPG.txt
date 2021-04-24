@@ -68,7 +68,7 @@ Die Bundesanstalt hat dem Anbieter innerhalb von zehn Arbeitstagen nach Eingang 
 
 einschätzen und bestmöglich mit den Merkmalen anderer Wertpapiere vergleichen kann.
 
-(4) Das Wertpapier-Informationsblatt muss den drucktechnisch hervorgehobenen Warnhinweis Der Erwerb dieses Wertpapiers ist mit erheblichen Risiken verbunden und kann zum vollständigen Verlust des eingesetzten Vermögens führen. “ auf der ersten Seite, unmittelbar unterhalb der ersten Überschrift enthalten.
+(4) Das Wertpapier-Informationsblatt muss den drucktechnisch hervorgehobenen Warnhinweis „Der Erwerb dieses Wertpapiers ist mit erheblichen Risiken verbunden und kann zum vollständigen Verlust des eingesetzten Vermögens führen. “ auf der ersten Seite, unmittelbar unterhalb der ersten Überschrift enthalten.
 (5) Das Wertpapier-Informationsblatt muss im Anschluss an die Angaben nach Absatz 3 dieser Vorschrift zudem in folgender Reihenfolge enthalten:
 
 - 1. :: einen Hinweis darauf, dass die inhaltliche Richtigkeit des Wertpapier-Informationsblatts nicht der Prüfung durch die Bundesanstalt unterliegt,
@@ -204,7 +204,7 @@ erforderlich ist.
 - 6. :: entgegen § 4 Absatz 2 ein Wertpapier-Informationsblatt veröffentlicht wird oder
 - 7. :: das Wertpapier-Informationsblatt nicht nach § 4 Absatz 8 aktualisiert wurde.
 
-In einem Auskunfts- und Vorlegungsersuchen nach Absatz 2 ist auf die Befugnis nach Satz 1 hinzuweisen. Die Bekanntmachung darf nur diejenigen personenbezogenen Daten enthalten, die zur Identifizierung des Anbieters, Zulassungsantragstellers oder Emittenten erforderlich sind. Bei nicht bestandskräftigen MaDiese Maßnahme ist noch nicht bestandskräftig. “ Wurde gegen die Maßnahme ein Rechtsmittel eingelegt, sind der Stand und der Ausgang des Rechtsmittelverfahrens bekannt zu machen. Die Bekanntmachung ist spätestens nach fünf Jahren zu löschen. Die Bundesanstalt sieht von einer Bekanntmachung ab, wenn die Bekanntmachung die Finanzmärkte der Bundesrepublik Deutschland oder eines oder mehrerer Staaten des Europäischen Wirtschaftsraums erheblich gefährden würde. Sie kann von einer Bekanntmachung außerdem absehen, wenn eine Bekanntmachung nachteilige Auswirkungen auf die Durchführung strafrechtlicher, bußgeldrechtlicher oder disziplinarischer Ermittlungen haben kann.
+In einem Auskunfts- und Vorlegungsersuchen nach Absatz 2 ist auf die Befugnis nach Satz 1 hinzuweisen. Die Bekanntmachung darf nur diejenigen personenbezogenen Daten enthalten, die zur Identifizierung des Anbieters, Zulassungsantragstellers oder Emittenten erforderlich sind. Bei nicht bestandskräftigen Maßnahmen ist folgender Hinweis hinzuzufügen: „Diese Maßnahme ist noch nicht bestandskräftig. “ Wurde gegen die Maßnahme ein Rechtsmittel eingelegt, sind der Stand und der Ausgang des Rechtsmittelverfahrens bekannt zu machen. Die Bekanntmachung ist spätestens nach fünf Jahren zu löschen. Die Bundesanstalt sieht von einer Bekanntmachung ab, wenn die Bekanntmachung die Finanzmärkte der Bundesrepublik Deutschland oder eines oder mehrerer Staaten des Europäischen Wirtschaftsraums erheblich gefährden würde. Sie kann von einer Bekanntmachung außerdem absehen, wenn eine Bekanntmachung nachteilige Auswirkungen auf die Durchführung strafrechtlicher, bußgeldrechtlicher oder disziplinarischer Ermittlungen haben kann.
 
 (4) Die Bundesanstalt hat ein öffentliches Angebot zu untersagen, wenn
 

@@ -453,7 +453,7 @@ Schweine dürfen aus dem Seuchenbestand nur verbracht werden, soweit die Ergebni
 
 (2) Mit Bekanntgabe der Anordnung nach Absatz 1 Satz 1 hat der Tierhalter des Seuchenbestands sowohl die Maßregeln des § 15 Absatz 2 Satz 1 Nummer 1 bis 8 einzuhalten als auch
 
-- 1. :: an den Zufahrten und Eingängen des Bestands Schilder mit der deutlichen und haltbaren Aufschrift Geflügelpest -- Unbefugter Zutritt verboten“ gut sichtbar anzubringen und,
+- 1. :: an den Zufahrten und Eingängen des Bestands Schilder mit der deutlichen und haltbaren Aufschrift „Geflügelpest -- Unbefugter Zutritt verboten“ gut sichtbar anzubringen und,
 - 2. :: soweit er Hunde und Katzen hält, sicherzustellen, dass diese nicht frei umherlaufen.
 
 (3) Die zuständige Behörde kann, soweit Belange der Tierseuchenbekämpfung nicht entgegenstehen, auf der Grundlage einer von ihr durchgeführten Risikobewertung Ausnahmen von Absatz 1 Satz 1 Nummer 2 Buchstabe b für Futtermittel genehmigen, soweit sichergestellt ist, dass das Futtermittel einer Behandlung unterworfen wird, die das Abtöten des Ansteckungsstoffes gewährleistet. § 13 Absatz 2 gilt entsprechend. Die zuständige Behörde kann ferner Ausnahmen von Absatz 1 Satz 1 Nummer 5 genehmigen, soweit gewährleistet ist, dass die Säugetiere nicht mit im Bestand gehaltenen Vögeln in Kontakt gekommen sind.
@@ -507,7 +507,7 @@ Im Falle einer Anordnung nach Satz 1 Nummer 1 sind die Untersuchungen jeweils an
 
 (4) Die zuständige Behörde
 
-- 1. :: bringt an den Hauptzufahrtswegen zu dem Sperrbezirk Schilder mit der deutlichen und haltbaren Aufschrift Geflügelpest -- Sperrbezirk“ gut sichtbar an,
+- 1. :: bringt an den Hauptzufahrtswegen zu dem Sperrbezirk Schilder mit der deutlichen und haltbaren Aufschrift „Geflügelpest -- Sperrbezirk“ gut sichtbar an,
 - 2. :: führt in den im Sperrbezirk gelegenen Beständen, in denen Vögel zu Erwerbszwecken gehalten werden,
   - a) :: Untersuchungen über den Verbleib von gehaltenen Vögeln, Fleisch von Geflügel, Eiern, tierischen Nebenprodukten und Futtermitteln sowie
   - b) :: die Maßnahmen nach Maßgabe des Kapitels IV Nummer 8.6 des Anhangs der Entscheidung 2006/437/EG
@@ -662,7 +662,7 @@ sind unverzüglich nach jeder Beförderung nach näherer Anweisung der zuständi
 § 27 - Schutzmaßregeln in Bezug auf das Beobachtungsgebiet
 
 (1) Ist Geflügelpest bei einem gehaltenen Vogel amtlich festgestellt, legt die zuständige Behörde um den den Seuchenbestand umgebenden Sperrbezirk ein Beobachtungsgebiet fest. § 21 Absatz 1 Satz 2 gilt entsprechend. Der Radius von Sperrbezirk und Beobachtungsgebiet zusammen beträgt mindestens zehn Kilometer.
-(2) Die zuständige Behörde bringt an den Hauptzufahrtswegen zu dem Beobachtungsgebiet Schilder mit der deutlichen und haltbaren Aufschrift Geflügelpest -- Beobachtungsgebiet“ gut sichtbar an.
+(2) Die zuständige Behörde bringt an den Hauptzufahrtswegen zu dem Beobachtungsgebiet Schilder mit der deutlichen und haltbaren Aufschrift „Geflügelpest -- Beobachtungsgebiet“ gut sichtbar an.
 (3) § 21 Absatz 3, 4 Satz 1 Nummer 2 Buchstabe a, Nummer 3, 4 und 5 und Absatz 5 gilt entsprechend.
 (4) Außerdem gilt, vorbehaltlich der §§ 28 und 29, für das Beobachtungsgebiet Folgendes:
 
@@ -736,7 +736,7 @@ erforderlich ist.
 
 (2) Im Falle der Festlegung einer Kontrollzone
 
-- 1. :: bringt die zuständige Behörde an den Hauptzufahrtswegen zu der Kontrollzone Schilder mit der deutlichen und haltbaren Aufschrift Geflügelpest -- Kontrollzone“ gut sichtbar an,
+- 1. :: bringt die zuständige Behörde an den Hauptzufahrtswegen zu der Kontrollzone Schilder mit der deutlichen und haltbaren Aufschrift „Geflügelpest -- Kontrollzone“ gut sichtbar an,
 - 2. :: kann die zuständige Behörde für die in der Kontrollzone gehaltenen Vögel
   - a) :: serologische oder virologische Untersuchungen oder
   - b) :: unter Berücksichtigung des Anhangs IV der Richtlinie 2005/94/EG die Tötung
@@ -777,7 +777,7 @@ in einen Geflügelbestand oder eine sonstige Vogelhaltung nicht verbracht werden
 - 3. :: in der Kontrollzone, soweit sichergestellt ist, dass die Bruteier von außerhalb des Sperrbezirks, des Beobachtungsgebiets oder der Kontrollzone stammen und die Bruteier in desinfizierten Behältnissen befördert worden sind,
 - 4. :: von außerhalb der Kontrollzone zur Wiederaufstallung in einen Geflügelbestand.
 
-(3) In den Fällen des Absatzes 2 Nummer 2 und 3 muss, soweit bei einem gehaltenen Vogel hochpathogenes aviäres Influenzavirus des Subtyps H5N1 amtlich festgestellt worden ist, die Gesundheitsbescheinigung nach dem Muster 2 des Anhangs IV der Richtlinie 2009/158/EG des Rates vom 30. November 2009 über die tierseuchenrechtlichen Bedingungen für den innergemeinschaftlichen Handel mit Geflügel und Bruteiern sowie für ihre Einfuhr aus Drittländern (ABl. L 343 vom 22.12.2009, S. 74) in der jeweils geltenden Fassung, die Sendungen von Eintagsküken beim Verbringen in andere Mitgliedstaaten begleitet, folgenden Vermerk enthalten: Diese Sendung erfüllt die Hygienebedingungen der Entscheidung 2006/415/EG der Kommission“.
+(3) In den Fällen des Absatzes 2 Nummer 2 und 3 muss, soweit bei einem gehaltenen Vogel hochpathogenes aviäres Influenzavirus des Subtyps H5N1 amtlich festgestellt worden ist, die Gesundheitsbescheinigung nach dem Muster 2 des Anhangs IV der Richtlinie 2009/158/EG des Rates vom 30. November 2009 über die tierseuchenrechtlichen Bedingungen für den innergemeinschaftlichen Handel mit Geflügel und Bruteiern sowie für ihre Einfuhr aus Drittländern (ABl. L 343 vom 22.12.2009, S. 74) in der jeweils geltenden Fassung, die Sendungen von Eintagsküken beim Verbringen in andere Mitgliedstaaten begleitet, folgenden Vermerk enthalten: „Diese Sendung erfüllt die Hygienebedingungen der Entscheidung 2006/415/EG der Kommission“.
 
 § 32 - Weitere Ausnahmen von der Kontrollzonenregelung
 
@@ -788,7 +788,7 @@ in einen Geflügelbestand oder eine sonstige Vogelhaltung nicht verbracht werden
   - a) :: die zuständige Behörde des Mitgliedstaates oder des Drittlandes zugestimmt hat, oder
   - b) :: die Bruteier in einem Bestand erzeugt worden sind, in dem serologische Stichprobenuntersuchungen des Geflügels durchgeführt worden sind, um mit einer Wahrscheinlichkeit von 95 vom Hundert und einer angenommenen Rate von 5 vom Hundert von Geflügelpest befallene Tiere zu erkennen und die Rückverfolgbarkeit der Bruteier sichergestellt ist.
 
-(2) In den Fällen des Absatzes 1 Nummer 2 muss, soweit bei einem gehaltenen Vogel hochpathogenes aviäres Influenzavirus des Subtyps H5N1 amtlich festgestellt worden ist, die Gesundheitsbescheinigung nach dem Muster 1 des Anhangs IV der Richtlinie 2009/158/EG, die Sendungen von Bruteiern beim Verbringen in andere Mitgliedstaaten begleitet, folgenden Vermerk enthalten: Diese Sendung erfüllt die Hygienebedingungen der Entscheidung 2006/415/EG der Kommission“.
+(2) In den Fällen des Absatzes 1 Nummer 2 muss, soweit bei einem gehaltenen Vogel hochpathogenes aviäres Influenzavirus des Subtyps H5N1 amtlich festgestellt worden ist, die Gesundheitsbescheinigung nach dem Muster 1 des Anhangs IV der Richtlinie 2009/158/EG, die Sendungen von Bruteiern beim Verbringen in andere Mitgliedstaaten begleitet, folgenden Vermerk enthalten: „Diese Sendung erfüllt die Hygienebedingungen der Entscheidung 2006/415/EG der Kommission“.
 (3) Für das Verbringen von frischem Fleisch von Geflügel und Federwild gilt § 24, für das Verbringen von tierischen Nebenprodukten § 25 entsprechend.
 
 § 32a - Schutzmaßregeln für Gebiete mit hoher Geflügeldichte
@@ -1259,8 +1259,8 @@ Ferner kann die zuständige Behörde für die Dauer von 30 Tagen nach Festlegung
 (4) Im Fall der Festlegung eines Sperrbezirks nach § 55 Absatz 1 Satz 1 Nummer 1 darf ein innerhalb des Sperrbezirks gelegener Stall oder sonstiger Standort, in oder an dem Vögel gehalten werden, von fremden Personen nicht betreten werden. Satz 1 gilt nicht für den den Stall oder sonstigen Standort betreuenden Tierarzt, dessen jeweilige Hilfspersonen sowie die mit der Tierseuchenbekämpfung beauftragten Personen der zuständigen Behörde.
 (5) Die zuständige Behörde bringt
 
-- 1. :: im Fall der Festlegung eines Sperrbezirks nach § 55 Absatz 1 Satz 1 Nummer 1 an den Hauptzufahrtswegen zu dem Sperrbezirk Schilder mit der deutlichen und haltbaren Aufschrift Wildvogelgeflügelpest-Sperrbezirk“ und
-- 2. :: im Fall der Festlegung eines Beobachtungsgebiets nach § 55 Absatz 1 Satz 1 Nummer 2 oder Absatz 2 an den Hauptzufahrtswegen zu dem Beobachtungsgebiet Schilder mit der deutlichen und haltbaren Aufschrift Wildvogelgeflügelpest-Beobachtungsgebiet“
+- 1. :: im Fall der Festlegung eines Sperrbezirks nach § 55 Absatz 1 Satz 1 Nummer 1 an den Hauptzufahrtswegen zu dem Sperrbezirk Schilder mit der deutlichen und haltbaren Aufschrift „Wildvogelgeflügelpest-Sperrbezirk“ und
+- 2. :: im Fall der Festlegung eines Beobachtungsgebiets nach § 55 Absatz 1 Satz 1 Nummer 2 oder Absatz 2 an den Hauptzufahrtswegen zu dem Beobachtungsgebiet Schilder mit der deutlichen und haltbaren Aufschrift „Wildvogelgeflügelpest-Beobachtungsgebiet“
 
 gut sichtbar an.
 
@@ -1289,7 +1289,7 @@ gut sichtbar an.
 - 3. :: in einen Verarbeitungsbetrieb für Eiprodukte nach Anhang III Abschnitt X Kapitel II der Verordnung (EG) Nr. 853/2004, soweit die Bruteier dort nach Maßgabe des Anhangs II Kapitel XI der Verordnung (EG) Nr. 852/2004 behandelt werden,
 - 4. :: in einen Verarbeitungsbetrieb für Material der Kategorie 1 oder 2 nach Artikel 24 Absatz 1 Buchstabe a der Verordnung (EG) Nr. 1069/2009.
 
-In den Fällen des Satzes 1 Nummer 1 Buchstabe a oder Nummer 2 muss die Gesundheitsbescheinigung nach dem Muster 1 des Anhangs IV der Richtlinie 2009/158/EG, die Sendungen von Bruteiern beim Verbringen in andere Mitgliedstaaten begleitet, folgenden Vermerk enthalten: Diese Sendung erfüllt die Tiergesundheitsbedingungen der Entscheidung 2006/563/EG der Kommission.“
+In den Fällen des Satzes 1 Nummer 1 Buchstabe a oder Nummer 2 muss die Gesundheitsbescheinigung nach dem Muster 1 des Anhangs IV der Richtlinie 2009/158/EG, die Sendungen von Bruteiern beim Verbringen in andere Mitgliedstaaten begleitet, folgenden Vermerk enthalten: „Diese Sendung erfüllt die Tiergesundheitsbedingungen der Entscheidung 2006/563/EG der Kommission.“
 
 
 § 58 - Ausnahmen von der Sperrbezirksregelung für Fleisch

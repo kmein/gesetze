@@ -528,7 +528,7 @@ a)
 
 Firma:
 
-
+ 
 
 b)
 
@@ -544,7 +544,7 @@ a)
 
 Allgemeine Vertretungsregelung:
 
-
+ 
 
 b)
 
@@ -560,7 +560,7 @@ a)
 
 Rechtsform, Beginn und Satzung:
 
-
+ 
 
 b)
 
@@ -597,7 +597,7 @@ Anzahl der bisherigen Eintragungen:
 2.
 a)
 Firma:
-
+ 
 b)
 Sitz, Niederlassung, inländische Geschäftsanschrift, empfangsberechtigte Person Zweigniederlassungen:
 c)
@@ -607,7 +607,7 @@ Grund- oder Stammkapital:
 4.
 a)
 Allgemeine Vertretungsregelung:
-
+ 
 b)
 Vorstand, Leitungsorgan, geschäftsführende Direktoren, persönlich haftende Gesellschafter, Geschäftsführer, Vertretungsberechtigte und besondere Vertretungsbefugnis:
 5.
@@ -615,7 +615,7 @@ Prokura:
 6.
 a)
 Rechtsform, Beginn, Satzung oder Gesellschaftsvertrag:
-
+ 
 b)
 Sonstige Rechtsverhältnisse:
 7.

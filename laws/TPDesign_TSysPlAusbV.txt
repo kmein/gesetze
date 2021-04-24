@@ -200,15 +200,15 @@ Gemeinsame integrative Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Absat
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Leistungen
 
-- 1. :: im Gesamtergebnis von Teil 1 und 2 der Abschlussprüfung mit mindestens ausreichend“,
-- 2. :: im Prüfungsbereich Arbeitsauftrag mit mindestens ausreichend“,
-- 3. :: im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens ausreichend“,
-- 4. :: in mindestens einem der übrigen Prüfungsbereiche von Teil 2 der Abschlussprüfung mit mindestens ausreichend“ und
-- 5. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit ungenügend“
+- 1. :: im Gesamtergebnis von Teil 1 und 2 der Abschlussprüfung mit mindestens „ausreichend“,
+- 2. :: im Prüfungsbereich Arbeitsauftrag mit mindestens „ausreichend“,
+- 3. :: im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“,
+- 4. :: in mindestens einem der übrigen Prüfungsbereiche von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“ und
+- 5. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit „ungenügend“
 
 bewertet worden sind.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 § 10 - Abschlussprüfung in der Fachrichtung Maschinen- und Anlagenkonstruktion
 
@@ -305,15 +305,15 @@ bewertet worden sind.
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Leistungen
 
-- 1. :: im Gesamtergebnis von Teil 1 und 2 der Abschlussprüfung mit mindestens ausreichend“,
-- 2. :: im Prüfungsbereich Arbeitsauftrag mit mindestens ausreichend“,
-- 3. :: im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens ausreichend“,
-- 4. :: in mindestens einem der übrigen Prüfungsbereiche von Teil 2 der Abschlussprüfung mit mindestens ausreichend“ und
-- 5. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit ungenügend“
+- 1. :: im Gesamtergebnis von Teil 1 und 2 der Abschlussprüfung mit mindestens „ausreichend“,
+- 2. :: im Prüfungsbereich Arbeitsauftrag mit mindestens „ausreichend“,
+- 3. :: im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“,
+- 4. :: in mindestens einem der übrigen Prüfungsbereiche von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“ und
+- 5. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit „ungenügend“
 
 bewertet worden sind.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 § 14 - Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -486,15 +486,15 @@ Gemeinsame integrative Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Absat
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Leistungen
 
-- 1. :: im Gesamtergebnis von Teil 1 und 2 der Abschlussprüfung mit mindestens ausreichend“,
-- 2. :: im Prüfungsbereich Arbeitsauftrag mit mindestens ausreichend“,
-- 3. :: im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens ausreichend“,
-- 4. :: in mindestens einem der übrigen Prüfungsbereiche von Teil 2 der Abschlussprüfung mit mindestens ausreichend“ und
-- 5. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit ungenügend“
+- 1. :: im Gesamtergebnis von Teil 1 und 2 der Abschlussprüfung mit mindestens „ausreichend“,
+- 2. :: im Prüfungsbereich Arbeitsauftrag mit mindestens „ausreichend“,
+- 3. :: im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“,
+- 4. :: in mindestens einem der übrigen Prüfungsbereiche von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“ und
+- 5. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit „ungenügend“
 
 bewertet worden sind.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 § 20 - Abschlussprüfung in der Fachrichtung Stahl- und Metallbautechnik
 
@@ -579,15 +579,15 @@ bewertet worden sind.
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Leistungen
 
-- 1. :: im Gesamtergebnis von Teil 1 und 2 der Abschlussprüfung mit mindestens ausreichend“,
-- 2. :: im Prüfungsbereich Konstruktionsauftrag mit mindestens ausreichend“,
-- 3. :: im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens ausreichend“,
-- 4. :: in mindestens einem der übrigen Prüfungsbereiche von Teil 2 der Abschlussprüfung mit mindestens ausreichend“ und
-- 5. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit ungenügend“
+- 1. :: im Gesamtergebnis von Teil 1 und 2 der Abschlussprüfung mit mindestens „ausreichend“,
+- 2. :: im Prüfungsbereich Konstruktionsauftrag mit mindestens „ausreichend“,
+- 3. :: im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“,
+- 4. :: in mindestens einem der übrigen Prüfungsbereiche von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“ und
+- 5. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit „ungenügend“
 
 bewertet worden sind.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 § 24 - Abschlussprüfung in der Fachrichtung Elektrotechnische Systeme
 
@@ -680,15 +680,15 @@ bewertet worden sind.
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Leistungen
 
-- 1. :: im Gesamtergebnis von Teil 1 und 2 der Abschlussprüfung mit mindestens ausreichend“,
-- 2. :: im Prüfungsbereich Arbeitsauftrag mit mindestens ausreichend“,
-- 3. :: im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens ausreichend“,
-- 4. :: in mindestens einem der übrigen Prüfungsbereiche von Teil 2 der Abschlussprüfung mit mindestens ausreichend“ und
-- 5. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit ungenügend“
+- 1. :: im Gesamtergebnis von Teil 1 und 2 der Abschlussprüfung mit mindestens „ausreichend“,
+- 2. :: im Prüfungsbereich Arbeitsauftrag mit mindestens „ausreichend“,
+- 3. :: im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“,
+- 4. :: in mindestens einem der übrigen Prüfungsbereiche von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“ und
+- 5. :: in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit „ungenügend“
 
 bewertet worden sind.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 § 28 - Bestehende Berufsausbildungsverhältnisse
 
@@ -801,9 +801,9 @@ Abschnitt B Nummer 1)
 - a) :: Werkstoffe hinsichtlich ihrer Eigenschaften, Bearbeitungs- und Verwendungsmöglichkeiten beurteilen
 - b) :: Hilfsstoffe unterscheiden und ihrer Verwendung nach zuordnen
 
+ 
 
-
-
+ 
 
 - c) :: Werk- und Hilfsstoffe hinsichtlich ihrer Verfügbarkeit, Wirtschaftlichkeit und Umweltverträglichkeit beurteilen
 - d) :: Werkstoffnormung anwenden
@@ -815,7 +815,7 @@ Produktentwicklung\\
 (§ 4 Absatz 2\\
 Abschnitt B Nummer 2)
 
-
+ 
 
 2.1
 
@@ -1043,9 +1043,9 @@ Abschnitt E Nummer 6)
 - b) :: auftragsbezogene Informationen und Daten beschaffen, bewerten und nutzen
 - c) :: Arbeitsschritte und -abläufe nach funktionalen, organisatorischen, fertigungstechnischen und wirtschaftlichen Kriterien festlegen und sicherstellen
 
+ 
 
-
-
+ 
 
 - d) :: rechtliche, betriebliche und technische Vorschriften beachten
 - e) :: Arbeitsauftrag planen und mit vor- und nachgelagerten Bereichen abstimmen
@@ -1294,7 +1294,7 @@ Abschnitt A Nummer 1)
 - h) :: technische Dokumentations- und Präsentationsunterlagen erstellen
 - i) :: Stücklisten, Tabellen, Diagramme, Handbücher und Bedienungshinweise verwenden
 
-
+ 
 
 2
 
@@ -1408,7 +1408,7 @@ Abschnitt A Nummer 4)
 - a) :: branchentypische Fertigungs- und Fügeverfahren unterscheiden
 - b) :: Montagetechniken unterscheiden
 
-
+ 
 
 2
 
@@ -1713,7 +1713,7 @@ Abschnitt C Nummer 3)
 - e) :: Objekte unter Berücksichtigung von Fügeverfahren und Montagetechniken, insbesondere Kleben, Schweißen, Clip- und Schnappverbindungen, konstruieren
 - g) :: Objekte unter Berücksichtigung von Werkstoffen, insbesondere Bleche, Kunststoff, Holz, Verbundwerkstoffe, Glas, Papier und Pappe, konstruieren
 
-
+ 
 
 8
 
@@ -1726,7 +1726,7 @@ Abschnitt E Nummer 5)
 - c) :: Informationen, insbesondere auch englischsprachige, beschaffen, bewerten und nutzen
 - d) :: Daten pflegen und sichern
 
-
+ 
 
 9
 
@@ -1740,7 +1740,7 @@ Abschnitt E Nummer 6)
 - f) :: Lösungsvarianten prüfen, darstellen und deren Wirtschaftlichkeit vergleichen
 - g) :: Arbeitsergebnisse zusammenführen, erbrachte Leistungen kontrollieren und anhand der Vorgaben bewerten sowie dokumentieren
 
-
+ 
 
 10
 
@@ -1751,7 +1751,7 @@ Abschnitt E Nummer 7)
 - a) :: Ziele und Aufgaben qualitätssichernder Maßnahmen beachten
 - c) :: Fehler und Qualitätsmängel sowie deren Ursachen erkennen und Maßnahmen zur Beseitigung ergreifen und dokumentieren
 
-
+ 
 
 11
 
@@ -1761,7 +1761,7 @@ Abschnitt E Nummer 8)
 
 - a) :: kundenspezifische Anforderungen und Informationen entgegennehmen, im Betrieb weiterleiten und berücksichtigen
 
-
+ 
 
 Zeitrahmen 6: Produkte entwerfen, gestalten und konstruieren
 
@@ -1798,7 +1798,7 @@ Abschnitt C Nummer 1)
 - f) :: Objekte unter Beachtung ergonomischer Richtlinien und rechtlicher Vorgaben gestalten
 - g) :: Objekte unter Berücksichtigung von Materialeigenschaften gestalten
 
-
+ 
 
 2
 
@@ -1855,7 +1855,7 @@ Abschnitt E Nummer 7)
 - c) :: Fehler und Qualitätsmängel sowie deren Ursachen erkennen und Maßnahmen zur Beseitigung der Ursachen ergreifen und dokumentieren
 - d) :: zur kontinuierlichen Verbesserung von Arbeitsvorgängen beitragen
 
-
+ 
 
 7
 
@@ -1901,7 +1901,7 @@ Abschnitt B Nummer 1)
 - a) :: Werkstoffe hinsichtlich ihrer Eigenschaften, Bearbeitungs- und Verwendungsmöglichkeiten beurteilen
 - b) :: Hilfsstoffe unterscheiden und ihrer Verwendung nach zuordnen
 
-
+ 
 
 2
 
@@ -2009,7 +2009,7 @@ Abschnitt E Nummer 7)
 - c) :: Fehler und Qualitätsmängel sowie deren Ursachen erkennen und Maßnahmen zur Beseitigung der Ursachen ergreifen und dokumentieren
 - d) :: zur kontinuierlichen Verbesserung von Arbeitsvorgängen beitragen
 
-
+ 
 
 10
 
@@ -2099,7 +2099,7 @@ Abschnitt D Nummer 4)
 - b) :: Toleranzen und Passungen berechnen
 - c) :: Maschinen- oder Verbindungselemente beanspruchungs- und funktionsgerecht in Konstruktionen verwenden
 
-
+ 
 
 6
 
@@ -2377,9 +2377,9 @@ Abschnitt D Nummer 1)
 - d) :: Angebotszeichnungen anfertigen
 - e) :: Pläne unter Anwendung der einschlägigen Normen und Richtlinien nach Vorlagen, Entwürfen und Anweisungen, insbesondere Verankerungs-, Schweißfolge-, Schachtel-, Montagefolge- und Versandpläne sowie Verlegepläne für Bauelemente, anfertigen
 
+ 
 
-
-
+ 
 
 - f) :: Baustellen-Messpunkte, Raster, Koordinaten und Höhenpunkte festlegen, übertragen und berücksichtigen
 - g) :: Bauteile und Knotenpunkte perspektivisch darstellen
@@ -2459,9 +2459,9 @@ Abschnitt E Nummer 1)
 - a) :: Funktionsschaltpläne und Diagramme anfertigen
 - b) :: Systemkomponenten und Leitungen von energie- und informationstechnischen Anlagen nach Vorgaben berechnen und dimensionieren
 
+ 
 
-
-
+ 
 
 - c) :: Bauteile und Leitungen von energie- und informationstechnischen Anlagen anhand von Katalogen und Datenblättern auswählen, verbinden und darstellen
 - d) :: Steuerschaltungen und Steuerprogramme entwerfen und Schaltungen der Datenübertragung darstellen
@@ -2612,9 +2612,9 @@ Abschnitt F Nummer 6)
 - c) :: Arbeitsschritte und -abläufe nach funktionalen, organisatorischen, fertigungstechnischen und wirtschaftlichen Kriterien festlegen und sicherstellen
 - d) :: rechtliche, betriebliche und technische Vorschriften beachten
 
+ 
 
-
-
+ 
 
 - e) :: Arbeitsauftrag planen und mit vor- und nachgelagerten Bereichen abstimmen
 - f) :: Lösungsvarianten prüfen, darstellen und deren Wirtschaftlichkeit vergleichen
@@ -2845,7 +2845,7 @@ Abschnitt A Nummer 1)
 
 - i) :: Stücklisten, Tabellen, Diagramme, Handbücher und Bedienungshinweise verwenden
 
-
+ 
 
 2
 
@@ -2948,7 +2948,7 @@ Abschnitt A Nummer 1)
 - h) :: technische Dokumentations- und Präsentationsunterlagen erstellen
 - i) :: Stücklisten, Tabellen, Diagramme, Handbücher und Bedienungshinweise verwenden
 
-
+ 
 
 2
 
@@ -3077,7 +3077,7 @@ Abschnitt C Nummer 1)
 - g) :: technische Unterlagen von Anlagen koordinieren und auf Kollisionen prüfen, Kollisionen nach Absprache korrigieren
 - h) :: technische Unterlagen zur Weiterleitung an Fremdgewerke aufbereiten und zusammenstellen
 
-
+ 
 
 2
 
@@ -3189,7 +3189,7 @@ Abschnitt C Nummer 1)
 - b) :: umwelttechnische Vorgaben bei der Anfertigung von technischen Unterlagen beachten
 - f) :: Bezeichnungen für Material, Korrosionsschutz und Zusatzangaben auswählen und eintragen
 
-
+ 
 
 2
 
@@ -3491,7 +3491,7 @@ Abschnitt F Nummer 7)
 - c) :: Fehler und Qualitätsmängel sowie deren Ursachen erkennen und Maßnahmen zur Beseitigung ergreifen und dokumentieren
 - d) :: zur kontinuierlichen Verbesserung von Arbeitsvorgängen beitragen
 
-
+ 
 
 9
 
@@ -3583,7 +3583,7 @@ Abschnitt E Nummer 5)
 - a) :: Übersichtsschaltpläne aus Grundrissplänen erstellen
 - b) :: schematische Darstellungen unter Anwendung der einschlägigen Normen und Sinnbilder nach technischen Unterlagen auch perspektivisch erstellen
 
-
+ 
 
 6
 
@@ -3699,7 +3699,7 @@ Abschnitt F Nummer 7)
 - c) :: Fehler und Qualitätsmängel sowie deren Ursachen erkennen und Maßnahmen zur Beseitigung ergreifen und dokumentieren
 - d) :: zur kontinuierlichen Verbesserung von Arbeitsvorgängen beitragen
 
-
+ 
 
 6
 

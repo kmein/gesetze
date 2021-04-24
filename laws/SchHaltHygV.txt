@@ -192,9 +192,9 @@ Anlage 1 - (zu § 3 Absatz 1)Allgemeine Anforderungen an Schweinehaltungen gemä
 
 (Fundstelle: BGBl. I 2014, S. 331)
 - 1. :: Der Stall sowie die dazugehörenden Nebenräume müssen sich in einem guten baulichen Allgemeinzustand befinden.
-- 2. :: Der Stall muss durch ein Schild Schweinebestand -- für Unbefugte Betreten verboten“ kenntlich gemacht werden.
+- 2. :: Der Stall muss durch ein Schild „Schweinebestand -- für Unbefugte Betreten verboten“ kenntlich gemacht werden.
 - 3. :: Der Stall muss so eingerichtet sein, dass Schweine nicht entweichen können.
-- 4. :: Auslaufhaltungen müssen nach näherer Anweisung der zuständigen Behörde so eingefriedet werden, dass ein Entweichen der Tiere verhindert wird. Sie müssen durch ein Schild Schweinebestand -- unbefugtes Füttern und Betreten verboten“ kenntlich gemacht werden.
+- 4. :: Auslaufhaltungen müssen nach näherer Anweisung der zuständigen Behörde so eingefriedet werden, dass ein Entweichen der Tiere verhindert wird. Sie müssen durch ein Schild „Schweinebestand -- unbefugtes Füttern und Betreten verboten“ kenntlich gemacht werden.
 
 - 1. :: Der Stall und der sonstige Aufenthaltsort der Schweine bei Auslaufhaltung darf von betriebsfremden Personen nur in Abstimmung mit dem Tierhalter betreten werden.
 - 2. :: Stall und Nebenräume müssen jederzeit ausreichend hell beleuchtet werden können.
@@ -287,7 +287,7 @@ Anlage 4 - (zu § 4 Absatz 1)Allgemeine Anforderungen an Freilandhaltungen gemä
 - 1. :: Bei Freilandhaltung
   - a) :: muss diese nach näherer Anweisung der zuständigen Behörde doppelt eingefriedet werden, so dass sie nur durch Ein- und Ausgänge befahren oder betreten werden kann,
   - b) :: müssen die Ein- und Ausgänge gegen unbefugten Zutritt oder unbefugtes Befahren gesichert sein,
-  - c) :: muss der Betrieb durch ein Schild Schweinebestand -- unbefugtes Füttern und Betreten verboten“ kenntlich gemacht werden,
+  - c) :: muss der Betrieb durch ein Schild „Schweinebestand -- unbefugtes Füttern und Betreten verboten“ kenntlich gemacht werden,
   - d) :: muss der Betrieb über ausreichende geeignete Möglichkeiten zur Absonderung aus tierseuchenrechtlichen Gründen der in der Freilandhaltung vorhandenen Schweine verfügen,
   - e) :: muss der Betrieb über Vorrichtungen verfügen, die eine Reinigung und Desinfektion des Schuhzeugs, der Schutzeinrichtungen und der Räder von Fahrzeugen ermöglichen; die Vorrichtungen zur Reinigung und Desinfektion müssen jederzeit einsatzbereit sein und leicht zugänglich im Betrieb lagern.
 - 2. :: Der Tierhalter hat sicherzustellen, dass die Freilandhaltung von betriebsfremden Personen nur in Abstimmung mit dem Tierhalter und nur mit betriebseigener Schutzkleidung oder Einwegkleidung betreten wird, die nach dem Verlassen gereinigt oder unschädlich entsorgt wird.
