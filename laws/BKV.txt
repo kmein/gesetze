@@ -1,319 +1,514 @@
-[BKV] Berufskrankheiten-Verordnung  (BKV)
+[BKV] Verordnung über die Berufsausbildung zum Berufskraftfahrer/zur Berufskraftfahrerin  (Berufskraftfahrer-Ausbildungsverordnung - BKV)
 
-Ausfertigungsdatum: 31.10.1997
+Ausfertigungsdatum: 19.04.2001
 
  
 
 Eingangsformel
 
-Auf Grund des § 9 Abs. 1 und 6 und des § 193 Abs. 8 des Siebten Buches Sozialgesetzbuch - Gesetzliche Unfallversicherung - (Artikel 1 des Gesetzes vom 7. August 1996, BGBl. I S. 1254) verordnet die Bundesregierung:
+Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 35 der Verordnung vom 21. September 1997 (BGBl. I S. 2390) geändert worden ist, in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705 und dem Organisationserlass vom 27. Oktober 1998 (BGBl. I S. 3288) verordnen das Bundesministerium für Verkehr, Bau- und Wohnungswesen und das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-§ 1 - Berufskrankheiten
+§ 1 - Staatliche Anerkennung des Ausbildungsberufes
 
-Berufskrankheiten sind die in der Anlage 1 bezeichneten Krankheiten, die Versicherte infolge einer den Versicherungsschutz nach § 2, 3 oder 6 des Siebten Buches Sozialgesetzbuch begründenden Tätigkeit erleiden.
+Der Ausbildungsberuf Berufskraftfahrer/Berufskraftfahrerin wird staatlich anerkannt.
 
-§ 2 - Erweiterter Versicherungsschutz in Unternehmen der Seefahrt
+§ 2 - Ausbildungsdauer
 
-Für Versicherte in Unternehmen der Seefahrt erstreckt sich die Versicherung gegen Tropenkrankheiten und Fleckfieber auch auf die Zeit, in der sie an Land beurlaubt sind.
+Die Ausbildung dauert drei Jahre.
 
-§ 3 - Maßnahmen gegen Berufskrankheiten, Übergangsleistung
+§ 3 - Ausbildungsberufsbild
 
-(1) Besteht für Versicherte die Gefahr, daß eine Berufskrankheit entsteht, wiederauflebt oder sich verschlimmert, haben die Unfallversicherungsträger dieser Gefahr mit allen geeigneten Mitteln entgegenzuwirken. Ist die Gefahr gleichwohl nicht zu beseitigen, haben die Unfallversicherungsträger darauf hinzuwirken, daß die Versicherten die gefährdende Tätigkeit unterlassen. Den für den medizinischen Arbeitsschutz zuständigen Stellen ist Gelegenheit zur Äußerung zu geben.
-(2) Versicherte, die die gefährdende Tätigkeit unterlassen, weil die Gefahr fortbesteht, haben zum Ausgleich hierdurch verursachter Minderungen des Verdienstes oder sonstiger wirtschaftlicher Nachteile gegen den Unfallversicherungsträger Anspruch auf Übergangsleistungen. Als Übergangsleistung wird
+Gegenstand der Berufsausbildung sind mindestens die Vermittlung der folgenden Fertigkeiten und Kenntnisse:
 
-- 1. :: ein einmaliger Betrag bis zur Höhe der Vollrente oder
-- 2. :: eine monatlich wiederkehrende Zahlung bis zur Höhe eines Zwölftels der Vollrente längstens für die Dauer von fünf Jahren
-
-gezahlt. Renten wegen Minderung der Erwerbsfähigkeit sind nicht zu berücksichtigen.
-
-
-§ 4 - Mitwirkung der für den medizinischen Arbeitsschutz zuständigen Stellen
-
-(1) Die für den medizinischen Arbeitsschutz zuständigen Stellen wirken bei der Feststellung von Berufskrankheiten und von Krankheiten, die nach § 9 Abs. 2 des Siebten Buches Sozialgesetzbuch wie Berufskrankheiten anzuerkennen sind, nach Maßgabe der Absätze 2 bis 4 mit.
-(2) Die Unfallversicherungsträger haben die für den medizinischen Arbeitsschutz zuständigen Stellen über die Einleitung eines Feststellungsverfahrens unverzüglich zu unterrichten; als Unterrichtung gilt auch die Übersendung der Anzeige nach § 193 Abs. 2 und 7 oder § 202 des Siebten Buches Sozialgesetzbuch. Die Unfallversicherungsträger beteiligen die für den medizinischen Arbeitsschutz zuständigen Stellen an dem weiteren Feststellungsverfahren; das nähere Verfahren können die Unfallversicherungsträger mit den für den medizinischen Arbeitsschutz zuständigen Stellen durch Vereinbarung regeln.
-(3) In den Fällen der weiteren Beteiligung nach Absatz 2 Satz 2 haben die Unfallversicherungsträger vor der abschließenden Entscheidung die für den medizinischen Arbeitsschutz zuständigen Stellen über die Ergebnisse ihrer Ermittlungen zu unterrichten. Soweit die Ermittlungsergebnisse aus Sicht der für den medizinischen Arbeitsschutz zuständigen Stellen nicht vollständig sind, können sie den Unfallversicherungsträgern ergänzende Beweiserhebungen vorschlagen; diesen Vorschlägen haben die Unfallversicherungsträger zu folgen.
-(4) Nach Vorliegen aller Ermittlungsergebnisse können die für den medizinischen Arbeitsschutz zuständigen Stellen ein Zusammenhangsgutachten erstellen. Zur Vorbereitung dieser Gutachten können sie die Versicherten untersuchen oder andere Ärzte auf Kosten der Unfallversicherungsträger mit Untersuchungen beauftragen.
-
-§ 5 - Gebühren
-
-(1) Erstellen die für den medizinischen Arbeitsschutz zuständigen Stellen ein Zusammenhangsgutachten nach § 4 Abs. 4, erhalten sie von den Unfallversicherungsträgern jeweils eine Gebühr in Höhe von 200 Euro. Mit dieser Gebühr sind alle Personal- und Sachkosten, die bei der Erstellung des Gutachtens entstehen, einschließlich der Kosten für die ärztliche Untersuchung von Versicherten durch die für den medizinischen Arbeitsschutz zuständigen Stellen abgegolten.
-(2) Ein Gutachten im Sinne des Absatzes 1 setzt voraus, daß der Gutachter unter Würdigung
-
-- 1. :: der Arbeitsanamnese des Versicherten und der festgestellten Einwirkungen am Arbeitsplatz,
-- 2. :: der Beschwerden, der vorliegenden Befunde und der Diagnose
-
-eine eigenständig begründete schriftliche Bewertung des Ursachenzusammenhangs zwischen der Erkrankung und den tätigkeitsbezogenen Gefährdungen unter Berücksichtigung der besonderen für die gesetzliche Unfallversicherung geltenden Bestimmungen vornimmt.
+- 1. :: Berufsbildung, Arbeits- und Tarifrecht,
+- 2. :: Aufbau und Organisation des Ausbildungsbetriebes,
+- 3. :: Sicherheit und Gesundheitsschutz bei der Arbeit,
+- 4. :: Umweltschutz,
+- 5. :: Kontrollieren, Warten und Pflegen der Fahrzeuge,
+- 6. :: Vorbereiten und Durchführen der Beförderung,
+- 7. :: Verkehrssicherheit, Führen von Fahrzeugen auf öffentlichen Straßen,
+- 8. :: Rechtsvorschriften im Straßenverkehr,
+- 9. :: Kundenorientiertes Verhalten,
+- 10. :: Verhalten nach Unfällen und Zwischenfällen,
+- 11. :: Betriebliche Planung und Logistik,
+- 12. :: Beförderungsbezogene Kostenrechnung und Vertragsabwicklung,
+- 13. :: Qualitätssichernde Maßnahmen.
 
 
-§ 6 - Rückwirkung
+§ 4 - Ausbildungsrahmenplan
 
-(1) Leiden Versicherte am 1. August 2017 an einer Krankheit nach den Nummern 1320, 1321, 2115, 4104 (Eierstockkrebs) oder 4113 (Kehlkopfkrebs) der Anlage 1, ist die Krankheit auf Antrag als Berufskrankheit anzuerkennen, wenn sie vor diesem Tag eingetreten ist.
-(2) Leiden Versicherte am 1. Januar 2015 an einer Krankheit nach Nummer 1319, 2113, 2114 oder 5103 der Anlage 1, ist die Krankheit auf Antrag als Berufskrankheit anzuerkennen, wenn sie vor diesem Tag eingetreten ist.
-(3) Leiden Versicherte am 1. Juli 2009 an einer Krankheit nach Nummer 2112, 4114 oder 4115 der Anlage 1, ist diese auf Antrag als Berufskrankheit anzuerkennen, wenn der Versicherungsfall nach dem 30. September 2002 eingetreten ist. Leiden Versicherte am 1. Juli 2009 an einer Krankheit nach Nummer 4113 der Anlage 1, ist diese auf Antrag als Berufskrankheit anzuerkennen, wenn der Versicherungsfall nach dem 30. November 1997 eingetreten ist. Leiden Versicherte am 1. Juli 2009 an einer Krankheit nach Nummer 1318 der Anlage 1, ist die Krankheit auf Antrag als Berufskrankheit anzuerkennen, wenn der Versicherungsfall vor diesem Tag eingetreten ist.
-(4) Leidet ein Versicherter am 1. Oktober 2002 an einer Krankheit nach Nummer 4112 der Anlage 1, ist diese auf Antrag als Berufskrankheit anzuerkennen, wenn der Versicherungsfall nach dem 30. November 1997 eingetreten ist. Satz 1 gilt auch für eine Krankheit nach Nummer 2106 der Anlage 1, wenn diese nicht bereits nach der Nummer 2106 der Anlage 1 in der am 1. Dezember 1997 in Kraft getretenen Fassung als Berufskrankheit anerkannt werden kann.
-(5) Leidet ein Versicherter am 1. Dezember 1997 an einer Krankheit nach Nummer 1316, 1317, 4104 (Kehlkopfkrebs) oder 4111 der Anlage 1, ist diese auf Antrag als Berufskrankheit anzuerkennen, wenn der Versicherungsfall nach dem 31. Dezember 1992 eingetreten ist. Abweichend von Satz 1 ist eine Erkrankung nach Nummer 4111 der Anlage 1 auch dann als Berufskrankheit anzuerkennen, wenn die Erkrankung bereits vor dem 1. Januar 1993 eingetreten und einem Unfallversicherungsträger bis zum 31. Dezember 2009 bekannt geworden ist.
-(6) Hat ein Versicherter am 1. Januar 1993 an einer Krankheit gelitten, die erst auf Grund der Zweiten Verordnung zur Änderung der Berufskrankheiten-Verordnung vom 18. Dezember 1992 (BGBl. I S. 2343) als Berufskrankheit anerkannt werden kann, ist die Krankheit auf Antrag als Berufskrankheit anzuerkennen, wenn der Versicherungsfall nach dem 31. März 1988 eingetreten ist.
-(7) Hat ein Versicherter am 1. April 1988 an einer Krankheit gelitten, die erst auf Grund der Verordnung zur Änderung der Berufskrankheiten-Verordnung vom 22. März 1988 (BGBl. I S. 400) als Berufskrankheit anerkannt werden kann, ist die Krankheit auf Antrag als Berufskrankheit anzuerkennen, wenn der Versicherungsfall nach dem 31. Dezember 1976 eingetreten ist.
-(8) Bindende Bescheide und rechtskräftige Entscheidungen stehen der Anerkennung als Berufskrankheit nach den Absätzen 1 bis 7 nicht entgegen. Leistungen werden rückwirkend längstens für einen Zeitraum bis zu vier Jahren erbracht; der Zeitraum ist vom Beginn des Jahres an zu rechnen, in dem der Antrag gestellt worden ist.
+(1) Die in § 3 genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine vom Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
+(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, dass der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
 
-§ 7 - Aufgaben
+§ 5 - Ausbildungsplan
 
-Der Ärztliche Sachverständigenbeirat Berufskrankheiten (Sachverständigenbeirat) ist ein wissenschaftliches Gremium, das das Bundesministerium bei der Prüfung der medizinischen Erkenntnisse zur Bezeichnung neuer und zur Erarbeitung wissenschaftlicher Stellungnahmen zu bestehenden Berufskrankheiten unterstützt.
+Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-§ 8 - Mitglieder
+§ 6 - Berichtsheft
 
-(1) Der Sachverständigenbeirat besteht in der Regel aus zwölf Mitgliedern, die vom Bundesministerium für Arbeit und Soziales für die Dauer von fünf Jahren berufen werden. Dem Sachverständigenbeirat sollen angehören:
+Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-- 1. :: acht Hochschullehrerinnen oder Hochschullehrer, insbesondere der Fachrichtung Arbeitsmedizin oder Epidemiologie,
-- 2. :: zwei Staatliche Gewerbeärztinnen oder Staatliche Gewerbeärzte und
-- 3. :: zwei Ärztinnen oder Ärzte aus dem betriebs- oder werksärztlichen Bereich.
+§ 7 - Zwischenprüfung
 
-(2) Die Mitgliedschaft im Sachverständigenbeirat ist ein persönliches Ehrenamt, das keine Stellvertretung zulässt. Der Name und die hauptamtliche Funktion der Mitglieder werden vom Bundesministerium für Arbeit und Soziales veröffentlicht.
-(3) Die Mitglieder sind unabhängig und nicht an Weisungen gebunden; sie sind nur ihrem Gewissen verantwortlich und zu unparteiischer Erfüllung ihrer Aufgaben sowie zur Verschwiegenheit verpflichtet. Sie sind auch nach Beendigung ihrer Mitgliedschaft verpflichtet, über die ihnen dabei bekannt gewordenen Angelegenheiten, insbesondere über den Inhalt und den Verlauf der Beratungen, Verschwiegenheit zu wahren.
-(4) Das Bundesministerium für Arbeit und Soziales ist berechtigt, Mitglieder aus sachlichen Gründen oder wenn die persönlichen Voraussetzungen der Berufung entfallen sind, abzuberufen. Die Mitglieder können jederzeit aus eigenem Entschluss die Mitgliedschaft beenden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage zu dieser Verordnung für die ersten 18 Monate aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+(3) Der Prüfling soll in höchstens drei Stunden vier praktische Aufgaben ausführen. Dabei soll der Prüfling zeigen, dass er die Arbeitsschritte selbständig planen sowie Maßnahmen zum Umweltschutz, zur Sicherheit und zum Gesundheitsschutz bei der Arbeit und zur Wirtschaftlichkeit ergreifen kann. Für die praktischen Aufgaben kommen insbesondere in Betracht:
 
-§ 9 - Durchführung der Aufgaben
+- 1. :: Kontrollieren, Warten und Pflegen der Fahrzeuge,
+- 2. :: Verhalten nach Unfällen und Zwischenfällen,
+- 3. :: Erstellen einer Fahrtenroute,
+- 4. :: beförderungsbezogene Kostenrechnung und Vertragsabwicklung.
 
-(1) Zur Durchführung seiner Aufgaben tritt der Sachverständigenbeirat zu Sitzungen zusammen. Das Bundesministerium für Arbeit und Soziales nimmt an den Sitzungen teil. Die Sitzungen sind nicht öffentlich.
-(2) Zu den Sitzungen können ständige Berater sowie externe Sachverständige und Gäste hinzugezogen werden. Für ständige Berater gilt § 8 Absatz 2 und 3, für externe Sachverständige und Gäste gilt § 8 Absatz 3 entsprechend.
-(3) Die Beratungsthemen, die aktuell vom Sachverständigenbeirat geprüft werden, werden vom Bundesministerium für Arbeit und Soziales veröffentlicht.
-(4) Der Sachverständigenbeirat gibt als Ergebnis seiner Beratungen Empfehlungen für neue oder Stellungnahmen zu bestehenden Berufskrankheiten entsprechend dem aktuellen wissenschaftlichen Erkenntnisstand ab. Gibt der Sachverständigenbeirat keine Empfehlung oder Stellungnahme ab, wird ein Abschlussvermerk erstellt. Die Empfehlungen und Stellungnahmen enthalten eine ausführliche wissenschaftliche Begründung, die Abschlussvermerke eine Zusammenfassung der wissenschaftlichen Entscheidungsgründe.
-(5) Das Bundesministerium für Arbeit und Soziales gibt die Empfehlungen und Stellungnahmen des Sachverständigenbeirats bekannt; die Abschlussvermerke werden veröffentlicht. Die vorbereitenden, intern erstellten Beratungsunterlagen des Sachverständigenbeirats sind vertraulich.
 
-§ 10 - Geschäftsstelle
+§ 8 - Abschlussprüfung
 
-(1) Die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin führt die Geschäfte des Sachverständigenbeirats. Sie unterstützt die Arbeit des Sachverständigenbeirats wissenschaftlich und organisatorisch.
-(2) Zur wissenschaftlichen Unterstützung kann der Sachverständigenbeirat die Geschäftsstelle insbesondere beauftragen, zu einzelnen Beratungsthemen systematische Reviews oder Literaturrecherchen durchzuführen. Außerdem unterstützt die Geschäftsstelle die Sachverständigen bei der Erstellung von wissenschaftlichen Empfehlungen und Stellungnahmen.
-(3) Zur organisatorischen Unterstützung verwaltet die Geschäftsstelle insbesondere die Beratungsunterlagen und erstellt die Ergebnisniederschriften der einzelnen Sitzungen.
+(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt fünf Stunden eine praktische Aufgabe I sowie vier praktische Aufgaben II ausführen. Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe selbständig planen, durchführen und kontrollieren und dabei Maßnahmen zur Arbeitsorganisation, zum Umweltschutz, zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zur Wirtschaftlichkeit sowie qualitätssichernde Maßnahmen ergreifen kann.\\
+Für die praktische Aufgabe I kommen insbesondere in Betracht:\\
+Verkehrssicheres Führen einer Fahrzeugkombination oder eines Sattelkraftfahrzeuges der Klasse CE mit einer Mindestlänge von 16 Metern oder eines Fahrzeuges der Klasse D mit einer Mindestlänge von 11,80 Metern auf öffentlichen Straßen.\\
+Für die vier praktischen Aufgaben II kommen insbesondere in Betracht:
 
-§ 11 - Geschäftsordnung
+- 1. :: Feststellen und Beschreiben von Fehlern und Mängeln am Fahrzeug sowie Ergreifen von Maßnahmen zur Fehlerbeseitigung,
+- 2. :: Durchführen einer Abfahrtkontrolle,
+- 3. :: Vorbereitung einer Beförderung, insbesondere
+  - a) :: Kontrollieren von Transportgütern auf Mängel und Schäden sowie Durchführen der Ladungssicherung,
+  - b) :: Kontrollieren von Gepäck auf Mängel und Schäden sowie Sicherstellen der Fahrgastsicherheit,
+- 4. :: Situationsbezogenes Führen eines Kundengespräches.
 
-(1) Der Sachverständigenbeirat gibt sich eine Geschäftsordnung, die der Zustimmung des Bundesministeriums für Arbeit und Soziales bedarf und veröffentlicht wird.
-(2) In der Geschäftsordnung werden insbesondere die Einzelheiten über den Vorsitz und die organisatorische Durchführung der Sitzungen, die Bildung von Arbeitsgruppen sowie die Hinzuziehung externer Sachverständiger geregelt.
+Bei der Aufgabenstellung ist der Ausbildungsschwerpunkt des Ausbildungsbetriebes zu berücksichtigen.
 
-§ 12 - Überprüfung früherer Bescheide
+(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Beförderung, betriebliche Planung und Logistik sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Beförderung sowie betriebliche Planung und Logistik soll der Prüfling zeigen, dass er insbesondere durch Verknüpfung von arbeitsorganisatorischen, technologischen, wirtschaftlichen, logistischen und rechtlichen Inhalten praxisbezogene Fälle kundenorientiert lösen kann. Dabei sollen die Sicherheit und der Gesundheitsschutz bei der Arbeit, der Umweltschutz sowie qualitätssichernde Maßnahmen einbezogen werden. Es kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
-Bescheide, in denen eine Krankheit nach Nummer 1315, 2101, 2104, 2108 bis 2110, 4301, 4302 oder 5101 der Anlage 1 von einem Unfallversicherungsträger vor dem 1. Januar 2021 nur deshalb nicht als Berufskrankheit anerkannt worden ist, weil die Versicherten die verrichtete gefährdende Tätigkeit nicht unterlassen haben, werden von den Unfallversicherungsträgern von Amts wegen überprüft, wenn die Bescheide nach dem 1. Januar 1997 erlassen worden sind.
+- 1. :: im Prüfungsbereich Beförderung:
+  - a) :: Analysieren von Kundenanforderungen, Entwickeln und Festlegen von Lösungskonzepten unter Einsatz geeigneter Fahrzeuge,
+  - b) :: Sicherstellen der Verkehrs- und Betriebssicherheit der Fahrzeuge, der Ladung und Besetzung, Fahrzeugtechnik,
+  - c) :: Rechtsvorschriften im Straßenverkehr;
+- 2. :: im Prüfungsbereich betriebliche Planung und Logistik:
+  - a) :: Erstellen von Beförderungskonzeptionen,
+  - b) :: Planen des Einsatzes von Personal und Sachmitteln;
+- 3. :: im Prüfungsbereich Wirtschafts- und Sozialkunde:
+  allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge aus der Berufs- und Arbeitswelt.
 
-Schlußformel
-
-Der Bundesrat hat zugestimmt.
-
-Anlage 1
-
-(Fundstelle: BGBl. I 1997, 2625 - 2626;\\
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(4) Der schriftliche Teil der Prüfung dauert höchstens:\\
 \\
-Nr.
-Krankheiten
+| 1. | im Prüfungsbereich Beförderung                       | 120 Minuten, |
+| 2. | im Prüfungsbereich betriebliche Planung und Logistik | 120 Minuten, |
+| 3. | im Prüfungsbereich Wirtschafts- und Sozialkunde      | 60 Minuten.  |
+
+(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche sind die jeweiligen bisherigen Ergebnisse und die entsprechenden Ergebnisse der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+(6) Innerhalb des schriftlichen Teils der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:\\
+| 1. | Prüfungsbereich Beförderung                       | 40 Prozent, |
+| 2. | Prüfungsbereich betriebliche Planung und Logistik | 40 Prozent, |
+| 3. | Prüfungsbereich Wirtschafts- und Sozialkunde      | 20 Prozent. |
+
+(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im schriftlichen Teil der Prüfung sowie innerhalb des praktischen Teils der Prüfung in der praktischen Aufgabe I sowie innerhalb des schriftlichen Teils der Prüfung im Prüfungsbereich Beförderung oder im Prüfungsbereich betriebliche Planung und Logistik mindestens ausreichende Leistungen erbracht sind. Werden die Prüfungsleistungen in einer der praktischen Aufgaben oder in einem der Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
+
+§ 9 - Übergangsregelung
+
+Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
+
+§ 10 - Inkrafttreten, Außerkrafttreten
+
+Diese Verordnung tritt am 1. August 2001 in Kraft.
+
+Anlage - (zu § 4 Abs. 1)
+
+(Fundstelle: BGBl. I 2001, 645 - 647; bzgl. einzelner Änderungen vgl. Fußnote)
+
+\\
+
+Ausbildungsrahmenplan für die Berufsausbildung zum Berufskraftfahrer/zur Berufskraftfahrerin
+
+Lfd. Nr.
+
+Teil des Ausbildungsberufsbildes
+
+Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
+
+Zeitliche Richtwerte in Wochen im
+
+1. - 18. Monat
+
+19. - 36. Monat
+
 1
-Durch chemische Einwirkungen verursachte Krankheiten
-11
-Metalle und Metalloide
-1101
-Erkrankungen durch Blei oder seine Verbindungen
-1102
-Erkrankungen durch Quecksilber oder seine Verbindungen
-1103
-Erkrankungen durch Chrom oder seine Verbindungen
-1104
-Erkrankungen durch Cadmium oder seine Verbindungen
-1105
-Erkrankungen durch Mangan oder seine Verbindungen
-1106
-Erkrankungen durch Thallium oder seine Verbindungen
-1107
-Erkrankungen durch Vanadium oder seine Verbindungen
-1108
-Erkrankungen durch Arsen oder seine Verbindungen
-1109
-Erkrankungen durch Phosphor oder seine anorganischen Verbindungen
-1110
-Erkrankungen durch Beryllium oder seine Verbindungen
-12
-Erstickungsgase
-1201
-Erkrankungen durch Kohlenmonoxid
-1202
-Erkrankungen durch Schwefelwasserstoff
-13
-Lösemittel, Schädlingsbekämpfungsmittel (Pestizide) und sonstige chemische Stoffe
-1301
-Schleimhautveränderungen, Krebs oder andere
-Neubildungen der Harnwege durch aromatische Amine
-1302
-Erkrankungen durch Halogenkohlenwasserstoffe
-1303
-Erkrankungen durch Benzol, seine Homologe oder durch Styrol
-1304
-Erkrankungen durch Nitro- oder Aminoverbindungen des Benzols oder seiner Homologe oder ihrer Abkömmlinge
-1305
-Erkrankungen durch Schwefelkohlenstoff
-1306
-Erkrankungen durch Methylalkohol (Methanol)
-1307
-Erkrankungen durch organische Phosphorverbindungen
-1308
-Erkrankungen durch Fluor oder seine Verbindungen
-1309
-Erkrankungen durch Salpetersäureester
-1310
-Erkrankungen durch halogenierte Alkyl-, Aryl- oder Alkylaryloxide
-1311
-Erkrankungen durch halogenierte Alkyl-, Aryl- oder Alkylarylsulfide
-1312
-Erkrankungen der Zähne durch Säuren
-1313
-Hornhautschädigungen des Auges durch Benzochinon
-1314
-Erkrankungen durch para-tertiär-Butylphenol
-1315
-Erkrankungen durch Isocyanate
-1316
-Erkrankungen der Leber durch Dimethylformamid
-1317
-Polyneuropathie oder Enzephalopathie durch organische Lösungsmittel oder deren Gemische
-1318
-Erkrankungen des Blutes, des blutbildenden und des lymphatischen Systems durch Benzol
-1319
-Larynxkarzinom durch intensive und mehrjährige Exposition gegenüber schwefelsäurehaltigen Aerosolen
-1320
-Chronisch-myeloische oder chronisch-lymphatische Leukämie durch 1,3-Butadien bei Nachweis der Einwirkung einer kumulativen Dosis von mindestens 180 Butadien-Jahren (ppm x Jahre)
-1321
-Schleimhautveränderungen, Krebs oder andere Neubildungen der Harnwege durch polyzyklische aromatische Kohlenwasserstoffe bei Nachweis der Einwirkung einer kumulativen Dosis von mindestens 80 Benzo(a)pyren-Jahren [(µg/m³) x Jahre]
- 
-Zu den Nummern 1101 bis 1110, 1201 und 1202, 1303 bis 1309 und 1315:
- 
-Ausgenommen sind Hauterkrankungen. Diese gelten als Krankheiten im Sinne dieser Anlage nur insoweit, als sie Erscheinungen einer Allgemeinerkrankung sind, die durch Aufnahme der schädigenden Stoffe in den Körper verursacht werden, oder gemäß Nummer 5101 zu entschädigen sind.
+
 2
-Durch physikalische Einwirkungen verursachte Krankheiten
-21
-Mechanische Einwirkungen
-2101
-Schwere oder wiederholt rückfällige Erkrankungen der Sehnenscheiden oder des Sehnengleitgewebes sowie der Sehnen- oder Muskelansätze
-2102
-Meniskusschäden nach mehrjährigen andauernden oder häufig wiederkehrenden, die Kniegelenke überdurchschnittlich belastenden Tätigkeiten
-2103
-Erkrankungen durch Erschütterung bei Arbeit mit Druckluftwerkzeugen oder gleichartig wirkenden Werkzeugen oder Maschinen
-2104
-Vibrationsbedingte Durchblutungsstörungen an den Händen
-2105
-Chronische Erkrankungen der Schleimbeutel durch ständigen Druck
-2106
-Druckschädigung der Nerven
-2107
-Abrißbrüche der Wirbelfortsätze
-2108
-Bandscheibenbedingte Erkrankungen der Lendenwirbelsäule durch langjähriges Heben oder Tragen schwerer Lasten oder durch langjährige Tätigkeiten in extremer Rumpfbeugenhaltung, die zu chronischen oder chronisch-rezidivierenden Beschwerden und Funktionseinschränkungen (der Lendenwirbelsäule) geführt haben
-2109
-Bandscheibenbedingte Erkrankungen der Halswirbelsäule durch langjähriges Tragen schwerer Lasten auf der Schulter, die zu chronischen oder chronisch-rezidivierenden Beschwerden und Funktionseinschränkungen (der Halswirbelsäule) geführt haben
-2110
-Bandscheibenbedingte Erkrankungen der Lendenwirbelsäule durch langjährige, vorwiegend vertikale Einwirkung von Ganzkörperschwingungen im Sitzen, die zu chronischen oder chronisch-rezidivierenden Beschwerden und Funktionseinschränkungen (der Lendenwirbelsäule) geführt haben
-2111
-Erhöhte Zahnabrasionen durch mehrjährige quarzstaubbelastende Tätigkeit
-2112
-Gonarthrose durch eine Tätigkeit im Knien oder vergleichbare Kniebelastung mit einer kumulativen Einwirkungsdauer während des Arbeitslebens von mindestens 13 000 Stunden und einer Mindesteinwirkungsdauer von insgesamt einer Stunde pro Schicht
-2113
-Druckschädigung des Nervus medianus im Carpaltunnel (Carpaltunnel-Syndrom) durch repetitive manuelle Tätigkeiten mit Beugung und Streckung der Handgelenke, durch erhöhten Kraftaufwand der Hände oder durch Hand-Arm-Schwingungen
-2114
-Gefäßschädigung der Hand durch stoßartige Krafteinwirkung (Hypothenar-Hammer-Syndrom und Thenar-Hammer-Syndrom)
-2115
-Fokale Dystonie als Erkrankung des zentralen Nervensystems bei Instrumentalmusikern durch feinmotorische Tätigkeit hoher Intensität
-22
-Druckluft
-2201
-Erkrankungen durch Arbeit in Druckluft
-23
-Lärm
-2301
-Lärmschwerhörigkeit
-24
-Strahlen
-2401
-Grauer Star durch Wärmestrahlung
-2402
-Erkrankungen durch ionisierende Strahlen
+
 3
-Durch Infektionserreger oder Parasiten verursachte Krankheiten sowie Tropenkrankheiten
-3101
-Infektionskrankheiten, wenn der Versicherte im Gesundheitsdienst, in der Wohlfahrtspflege oder in einem Laboratorium tätig oder durch eine andere Tätigkeit der Infektionsgefahr in ähnlichem Maße besonders ausgesetzt war
-3102
-Von Tieren auf Menschen übertragbare Krankheiten
-3103
-Wurmkrankheiten der Bergleute, verursacht durch Ankylostoma duodenale oder Strongyloides stercoralis
-3104
-Tropenkrankheiten, Fleckfieber
+
 4
-Erkrankungen der Atemwege und der Lungen, des Rippenfells und Bauchfells und der Eierstöcke
-41
-Erkrankungen durch anorganische Stäube
-4101
-Quarzstaublungenerkrankung (Silikose)
-4102
-Quarzstaublungenerkrankung in Verbindung mit aktiver Lungentuberkulose (Siliko-Tuberkulose)
-4103
-Asbeststaublungenerkrankung (Asbestose) oder durch Asbeststaub verursachte Erkrankungen der Pleura
-4104
-Lungenkrebs, Kehlkopfkrebs oder Eierstockkrebs
- 
--
-in Verbindung mit Asbeststaublungenerkrankung (Asbestose)
- 
--
-in Verbindung mit durch Asbeststaub verursachter Erkrankung der Pleura oder
- 
--
-bei Nachweis der Einwirkung einer kumulativen Asbestfaserstaub-Dosis am Arbeitsplatz von mindestens 25 Faserjahren (25 x 10(hoch)6 ((Fasern/cbm) X Jahre))
-4105
-Durch Asbest verursachtes Mesotheliom des Rippenfells, des Bauchfells oder des Perikards
-4106
-Erkrankungen der tieferen Atemwege und der Lungen durch Aluminium oder seine Verbindungen
-4107
-Erkrankungen an Lungenfibrose durch Metallstäube bei der Herstellung oder Verarbeitung von Hartmetallen
-4108
-Erkrankungen der tieferen Atemwege und der Lungen durch Thomasmehl (Thomasphosphat)
-4109
-Bösartige Neubildungen der Atemwege und der Lungen durch Nickel oder seine Verbindungen
-4110
-Bösartige Neubildungen der Atemwege und der Lungen durch Kokereirohgase
-4111
-Chronische obstruktive Bronchitis oder Emphysem von Bergleuten unter Tage im Steinkohlebergbau bei Nachweis der Einwirkung einer kumulativen Dosis von in der Regel 100 Feinstaubjahren ((mg/cbm) X Jahre)
-4112
-Lungenkrebs durch die Einwirkung von kristallinem Siliziumdioxid (SiO(tief)2) bei nachgewiesener Quarzstaublungenerkrankung (Silikose oder Siliko-Tuberkulose)
-4113
-Lungenkrebs oder Kehlkopfkrebs durch polyzyklische aromatische Kohlenwasserstoffe bei Nachweis der Einwirkung einer kumulativen Dosis von mindestens 100 Benzo[a]pyren-Jahren [(µg/m³) x Jahre]
-4114
-Lungenkrebs durch das Zusammenwirken von Asbestfaserstaub und polyzyklischen aromatischen Kohlenwasserstoffen bei Nachweis der Einwirkung einer kumulativen Dosis, die einer Verursachungswahrscheinlichkeit von mindestens 50 Prozent nach der Anlage 2 entspricht
-4115
-Lungenfibrose durch extreme und langjährige Einwirkung von Schweißrauchen und Schweißgasen -- (Siderofibrose)
-42
-Erkrankungen durch organische Stäube
-4201
-Exogen-allergische Alveolitis
-4202
-Erkrankungen der tieferen Atemwege und der Lungen durch Rohbaumwoll-, Rohflachs- oder Rohhanfstaub (Byssinose)
-4203
-Adenokarzinome der Nasenhaupt- und Nasennebenhöhlen durch Stäube von Eichen- oder Buchenholz
-43
-Obstruktive Atemwegserkrankungen
-4301
-Durch allergisierende Stoffe verursachte obstruktive Atemwegserkrankungen (einschließlich Rhinopathie)
-4302
-Durch chemisch-irritativ oder toxisch wirkende Stoffe verursachte obstruktive Atemwegserkrankungen
+
+1
+
+Berufsbildung, Arbeits- und Tarifrecht (§ 3 Nr. 1)
+
+a)
+
+Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
+
+während der gesamten Ausbildung zu vermitteln
+
+b)
+
+gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
+
+c)
+
+Möglichkeiten der beruflichen Fortbildung nennen
+
+d)
+
+wesentliche Teile des Arbeitsvertrages nennen
+
+e)
+
+wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
+
+2
+
+Aufbau und Organisation des Ausbildungsbetriebes (§ 3 Nr. 2)
+
+a)
+
+Aufbau und Aufgaben des ausbildenden Betriebes erläutern
+
+b)
+
+Grundfunktionen des ausbildenden Betriebes wie Angebot, Beschaffung, Absatz und Verwaltung erklären
+
+c)
+
+Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
+
+d)
+
+Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
+
+3
+
+Sicherheit und Gesundheitsschutz bei der Arbeit (§ 3 Nr. 3)
+
+a)
+
+Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
+
+b)
+
+berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
+
+c)
+
+Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
+
+d)
+
+Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+
+4
+
+Umweltschutz (§ 3 Nr. 4)
+
+Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
+
+a)
+
+mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
+
+b)
+
+für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
+
+c)
+
+Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
+
+d)
+
+Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
+
 5
-Hautkrankheiten
-5101
-Schwere oder wiederholt rückfällige Hauterkrankungen
-5102
-Hautkrebs oder zur Krebsbildung neigende Hautveränderungen durch Ruß, Rohparaffin, Teer, Anthrazen, Pech oder ähnliche Stoffe
-5103
-Plattenepithelkarzinome oder multiple aktinische Keratosen der Haut durch natürliche UV-Strahlung
+
+Kontrollieren, Warten und Pflegen der Fahrzeuge (§ 3 Nr. 5)
+
+a)
+
+Funktionsweise der Fahrzeuge, insbesondere Motor, Kraftübertragung, Fahrwerk, Aufbau, mechanische, elektrische, pneumatische und hydraulische Systeme, erklären
+
+17
+
+ 
+
+b)
+
+Betriebsanleitungen anwenden
+
+c)
+
+Verkehrssicherheit beurteilen, insbesondere durch Sichtkontrolle bei Aufbau und Rädern, Motor und Kraftübertragungselementen, Beschilderung, Zubehör, Sicherungs- und Sicherheitsmitteln
+
+d)
+
+Fahrzeuge und Zubehör warten und pflegen
+
+e)
+
+Betriebsstoffe kontrollieren, wechseln, auffüllen und der Entsorgung zuführen
+
+f)
+
+Dichtheit der Systeme sowie Funktionsfähigkeit von elektrischen Anlagen, Kontrolleinrichtungen und Bremsanlagen prüfen
+
+ 
+
+15
+
+g)
+
+Übernahme- und Abfahrtkontrolle durchführen
+
+h)
+
+Arbeitsplatz ergonomisch einrichten
+
+i)
+
+Fehler und Mängel feststellen, beschreiben und Maßnahmen zu deren Beseitigung ergreifen
+
 6
-Krankheiten sonstiger Ursache
-6101
-Augenzittern der Bergleute
 
-Anlage 2 - Berufskrankheit Nummer 4114 Verursachungswahrscheinlichkeit in Prozent
+Vorbereiten und Durchführen der Beförderung (§ 3 Nr. 6)
 
-(Fundstelle des Originaltextes: BGBl. I 2009, 1274 - 1276)
-.
+a)
+
+Fahrzeuge und Hilfsmittel dem Verwendungszweck zuordnen
+
+6
+
+ 
+
+b)
+
+An- und Aufbauteile anbringen und abnehmen
+
+c)
+
+transportspezifische Skizzen anfertigen
+
+ 
+
+20
+
+d)
+
+Transportgut oder Gepäck annehmen, nach Art und Menge sowie hinsichtlich offener Mängel prüfen; bei Beanstandungen Maßnahmen einleiten
+
+e)
+
+Fahrgastsicherheit feststellen oder Fahrzeugbeladung und Ladesicherung unter Berücksichtigung der Gewichtsverteilung und Höchstladung planen und durchführen
+
+f)
+
+ergonomische Arbeitsweisen anwenden
+
+g)
+
+Fahrzeug- und Beförderungspapiere auf Gültigkeit und Vollständigkeit prüfen
+
+h)
+
+Beförderung sicher und wirtschaftlich durchführen und Maßnahmen bei besonderen Vorkommnissen ergreifen
+
+7
+
+Verkehrssicherheit, Führen von Fahrzeugen auf öffentlichen Straßen (§ 3 Nr. 7)
+
+a)
+
+Einfluss physikalischer und fahrtechnischer Parameter auf die Verkehrssicherheit beurteilen
+
+ 
+
+22
+
+b)
+
+Fahrverhalten entsprechend den Gefahrenquellen im Straßenverkehr ausrichten
+
+c)
+
+Kontrollinstrumente ablesen und bedienen, Informationen auswerten und Maßnahmen ergreifen
+
+d)
+
+Faktoren, die die Fahrtüchtigkeit beeinträchtigen, beachten
+
+e)
+
+Fahrzeugkombination und Sattelkraftfahrzeug der Klasse CE mit einer Mindestlänge von 16 m oder Fahrzeuge der Klasse D mit einer Mindestlänge von 11,80 m auf öffentlichen Straßen innerhalb und außerhalb geschlossener Ortschaften sicher und wirtschaftlich führen
+
+8
+
+Rechtsvorschriften im Straßenverkehr (§ 3 Nr. 8)
+
+a)
+
+Sozialvorschriften einhalten
+
+6*)
+
+ 
+
+b)
+
+Verkehrsspezifische Rechtsvorschriften im Inland und in den Ziel- und Durchfahrtsländern einhalten
+
+ 
+
+11*)
+
+c)
+
+beförderungsspezifische Vorschriften einhalten
+
+9
+
+Kundenorientiertes Verhalten (§ 3 Nr. 9)
+
+a)
+
+Gespräche situationsbezogen führen
+
+6
+
+ 
+
+b)
+
+fremdsprachige Fachbegriffe anwenden
+
+c)
+
+Kommunikationsformen situationsbezogen anwenden
+
+ 
+
+6
+
+d)
+
+Möglichkeiten der Konfliktregelung anwenden
+
+e)
+
+betriebliche Erfordernisse und Kundenwünsche in Einklang bringen, dabei Belange mobilitätseingeschränkter Fahrgäste, insbesondere von Menschen mit Behinderungen, berücksichtigen
+
+10
+
+Verhalten nach Unfällen und Zwischenfällen (§ 3 Nr. 10)
+
+a)
+
+Unfallstellen, Gefahrenstellen und Fahrzeuge absichern
+
+6
+
+ 
+
+b)
+
+Maßnahmen der ersten Hilfe leisten
+
+c)
+
+frei werdende Stoffe hinsichtlich der Umweltgefährdung und Sicherheit beurteilen sowie Maßnahmen ergreifen
+
+d)
+
+Unfälle und Zwischenfälle melden, insbesondere Angaben zu Verletzten, Schäden und Gefahren machen
+
+e)
+
+Spuren sichern, Unfallskizze und Unfallbericht anfertigen
+
+11
+
+Betriebliche Planung und Logistik (§ 3 Nr. 11)
+
+a)
+
+Funktion des Betriebes in der logistischen Kette beachten
+
+25
+
+ 
+
+b)
+
+Arbeitsaufträge unter Beachtung betrieblicher Vorgaben in Arbeitsschritte umsetzen
+
+c)
+
+Straßenkarten, Straßenpläne sowie digitale Systeme anwenden
+
+d)
+
+Informations- und Kommunikationstechniken anwenden
+
+e)
+
+Informationen für die Fahrtenplanung beschaffen und auswerten
+
+f)
+
+Termine planen und abstimmen
+
+g)
+
+Einsatz von Personal und Sachmitteln planen
+
+h)
+
+Fahrten unter wirtschaftlichen Aspekten planen und organisieren
+
+12
+
+Beförderungsbezogene Kostenrechnung und Vertragsabwicklung (§ 3 Nr. 12)
+
+a)
+
+Einflussfaktoren von Betriebskosten der Fahrzeuge berücksichtigen
+
+12
+
+ 
+
+b)
+
+formalisierte Beförderungsverträge abschließen
+
+c)
+
+Abrechnungen durchführen
+
+d)
+
+Erbrachte Leistungen dokumentieren
+
+13
+
+Qualitätssichernde Maßnahmen (§ 3 Nr. 13)
+
+a)
+
+Ziele, Aufgaben und Bedeutung qualitätssichernder Maßnahmen anhand betrieblicher Beispiele erläutern
+
+ 
+
+4*)
+
+b)
+
+qualitätssichernde Maßnahmen im eigenen Arbeitsbereich ausführen, insbesondere zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen Arbeitsbereich beitragen
+
+- *) :: Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
