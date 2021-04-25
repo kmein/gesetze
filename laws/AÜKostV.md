@@ -1,0 +1,39 @@
+# [AÜKostV] Verordnung über die Kosten der Erlaubnis zur Arbeitnehmerüberlassung  (Arbeitnehmerüberlassungserlaubnis-Kostenverordnung - AÜKostV)
+
+Ausfertigungsdatum: 18.06.1982
+
+ 
+
+## Eingangsformel
+
+Auf Grund des durch Artikel 1 Nr. 1 des Gesetzes vom 15. Dezember 1981 (BGBl. I S. 1390) eingefügten Artikels 1 § 2a Abs. 2 Satz 2 des Arbeitnehmerüberlassungsgesetzes vom 7. August 1972 (BGBl. I S. 1393) in Verbindung mit dem Zweiten Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) verordnet die Bundesregierung mit Zustimmung des Bundesrates:
+
+
+## § 1 – Gebühren- und auslagenpflichtige individuell zurechenbare öffentliche Leistungen
+
+Die Bundesagentur für Arbeit erhebt für die Erteilung und Verlängerung der Erlaubnis nach Artikel 1 § 1 des Arbeitnehmerüberlassungsgesetzes Gebühren nach § 2 und Auslagen nach § 3 dieser Verordnung.
+
+
+## § 2 – Höhe der Gebühren
+
+Die Gebühr beträgt für die  
+
+|     |                                                         |             |
+|:----|:--------------------------------------------------------|:------------|
+| 1\. | Erteilung oder Verlängerung einer befristeten Erlaubnis | 1 300 Euro, |
+| 2\. | Erteilung einer unbefristeten Erlaubnis                 | 2 500 Euro. |
+
+
+## § 3 – Auslagen
+
+Als Auslagen werden die in § 10 Absatz 1 Nummer 2 bis 4 des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung bezeichneten Aufwendungen erhoben.
+
+
+## § 4
+
+(weggefallen)
+
+
+## § 5 – Inkrafttreten
+
+Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
