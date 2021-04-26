@@ -1,0 +1,5 @@
+# [BinSchPatentV1998AbwV 5] Fünfte Verordnung zur vorübergehenden Abweichung von der Binnenschifferpatentverordnung
+
+Ausfertigungsdatum: 15.07.2019
+
+ 

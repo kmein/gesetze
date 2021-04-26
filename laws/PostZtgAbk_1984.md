@@ -1,0 +1,5 @@
+# [PostZtgAbk 1984] Postzeitungsabkommen
+
+Ausfertigungsdatum: 27.07.1984
+
+ 
