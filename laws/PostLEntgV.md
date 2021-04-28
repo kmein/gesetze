@@ -1,0 +1,133 @@
+# [PostLEntgV] Verordnung über die Gewährung von Leistungsentgelten an Beamtinnen und Beamte bei der Deutschen Post AG  (Postleistungsentgeltverordnung - PostLEntgV)
+
+Ausfertigungsdatum: 12.12.2005
+
+ 
+
+## Eingangsformel
+
+Auf Grund des § 10 Abs. 2 des Postpersonalrechtsgesetzes vom 14. September 1994 (BGBl. I S. 2325, 2353), der durch Artikel 1 Nr. 5 Buchstabe a des Gesetzes vom 9. November 2004 (BGBl. I S. 2774) neu gefasst worden ist, verordnet das Bundesministerium der Finanzen nach Anhörung des Vorstands der Deutschen Post AG im Einvernehmen mit dem Bundesministerium des Innern:
+
+
+## § 1 – Persönlicher Geltungsbereich, leistungsbezogene Entgelte
+
+Den Beamtinnen und Beamten mit Dienstbezügen, die bei der Deutschen Post AG beschäftigt sind, kann ein nicht ruhegehaltfähiges leistungsbezogenes Entgelt (Leistungsentgelt) gewährt werden.
+
+
+## § 2 – Leistungsentgelt
+
+(1) Das Leistungsentgelt (§ 1 Satz 1) wird als Jahresbetrag für im abgelaufenen Kalenderjahr erzielte Leistungen gewährt. Seine Höhe wird für Beamtinnen und Beamte des einfachen und des mittleren Dienstes auf der Grundlage einer Leistungsbeurteilung (§ 5), für die übrigen Beamtinnen und Beamten auf der Grundlage einer Gesamtbeurteilung (§ 7) ermittelt.
+
+(2) Maßgeblich für die Ermittlung des Leistungsentgelts ist die Besoldungsgruppe der Beamtin oder des Beamten am 1. Dezember des abgelaufenen Kalenderjahres.
+
+(3) Das Leistungsentgelt wird mit den Dienstbezügen für den Monat Mai des auf den Beurteilungszeitraum folgenden Jahres gezahlt. Beurteilungszeitraum ist grundsätzlich das Kalenderjahr. Das Leistungsentgelt wird nicht auf die Besoldung angerechnet.
+
+
+## § 3 – Ermittlung des Niederlassungsbudgets für die Beamtinnen und Beamten des einfachen und des mittleren Dienstes
+
+(1) Jedem Betrieb im Sinne des Zuordnungstarifvertrages (Organisationseinheit) wird für jede Besoldungsgruppe ein Budget zugewiesen.
+
+(2) Das Budget für jede Besoldungsgruppe errechnet sich aus dem Betrag in Höhe von 60 Prozent des monatlichen Endgrundgehaltes der jeweiligen Besoldungsgruppe multipliziert mit der Zahl der im Jahresdurchschnitt in dieser Besoldungsgruppe beschäftigten Beamtinnen und Beamten, wobei einzelne Teilzeitanteile zu einem Vollzeitäquivalent zusammengefasst werden.
+
+(3) Die Leiterin oder der Leiter der Organisationseinheit unterrichtet unmittelbar nach Zuweisung der Budgets schriftlich den Betriebsrat der Organisationseinheit über die dem jeweiligen Budget zugrunde liegenden Daten (Zahl der im Jahresdurchschnitt beschäftigten Beamtinnen und Beamten, Verhältnis der Besoldungsgruppen zueinander) und die Höhe der zugewiesenen Budgets je Besoldungsgruppe.
+
+
+## § 4 – Ermittlung des Zahlbetrages für die Beamtinnen und Beamten des einfachen und des mittleren Dienstes
+
+(1) Zur Ermittlung der auf die einzelnen Beamtinnen und Beamten entfallenden Zahlbeträge wird zunächst, für jede Besoldungsgruppe einer Organisationseinheit gesondert, die Zahl der Beamtinnen und Beamten je Gesamtbeurteilungsstufe mit folgenden Faktoren multipliziert:
+
+| Gesamtbeurteilungsstufe               | Faktor |
+|:--------------------------------------|:------:|
+| erfüllt nicht die Anforderungen       |   0    |
+| erfüllt teilweise die Anforderungen   |   0    |
+| voll und ganz zufriedenstellend       |   1    |
+| übertrifft die Anforderungen          |   2    |
+| übertrifft deutlich die Anforderungen |   3    |
+
+Bei Teilzeitbeschäftigung verringert sich der Faktor prozentual entsprechend dem Umfang der bewilligten Teilzeitbeschäftigung.
+
+(2) Der Quotient aus dem auf die jeweilige Besoldungsgruppe entfallenden Budget nach § 3 und dem nach Absatz 1 ermittelten Gesamtergebnis dieser Besoldungsgruppe ergibt den auf die Beamtinnen und Beamten dieser Besoldungsgruppe mit der Gesamtbeurteilungsstufe „erfüllt voll und ganz die Anforderungen“ jeweils entfallenden Zahlbetrag des Leistungsentgelts. Für die Gesamtbeurteilungsstufe „übertrifft die Anforderungen“ wird dieser Betrag verdoppelt und für die Gesamtbeurteilungsstufe „übertrifft deutlich die Anforderungen“ verdreifacht. Bei den Gesamtbeurteilungsstufen „erfüllt nicht die Anforderungen“ und „erfüllt teilweise die Anforderungen“ ergibt sich kein Zahlbetrag.
+
+(3) Bei Teilzeitbeschäftigung wird das Leistungsentgelt im gleichen Verhältnis wie die Arbeitszeit gekürzt. Bei Altersteilzeit wird das Leistungsentgelt nach der Arbeitszeit bemessen, die während der Altersteilzeit zugrunde gelegt worden ist.
+
+(4) Der Anspruch auf das Leistungsentgelt vermindert sich für die Zeiten, in denen der Beamtin oder dem Beamten keine Bezüge zugestanden haben. Die Minderung beträgt für jeden Kalendermonat ein Zwölftel. Dabei werden Zeiten ohne Bezüge zusammengezählt und der Monat zu 30 Tagen gerechnet. Der Zahlung von Bezügen steht die Zahlung von Mutterschaftsgeld nach dem Mutterschutzgesetz gleich. Für die Dauer einer Elternzeit unterbleibt die Minderung bis zur Vollendung des zwölften Lebensmonats des Kindes.
+
+
+## § 5 – Durchführung der Leistungsbeurteilung für die Beamtinnen und Beamten des einfachen und des mittleren Dienstes
+
+(1) Die Leistungsbeurteilung ist unter Verwendung eines Formblatts nach festgelegten Beurteilungskriterien durch Punktevergabe vorzunehmen. Die sich aus der Leistungsbeurteilung ergebende Gesamtpunktzahl ist einer Gesamtbeurteilungsstufe im Sinne des § 4 Abs. 1 zuzuordnen.
+
+(2) Wer Dienstvorgesetztenbefugnisse gegenüber der Beamtin oder dem Beamten wahrnimmt, nimmt die Leistungsbeurteilung im Januar des auf den Beurteilungszeitraum folgenden Jahres vor und gibt sie der Beamtin oder dem Beamten spätestens zum 31. März desselben Jahres im Rahmen eines Gesprächs bekannt. Dies kann auch durch eine Beauftragte oder einen Beauftragten geschehen.
+
+(3) Der Betriebsrat erhält bis 15. April desselben Jahres eine Zusammenstellung der Ergebnisse der Leistungsbeurteilungen der einzelnen Besoldungsgruppen in anonymisierter Form.
+
+
+## § 6 – Ermittlung des Zahlbetrages für die Beamtinnen und Beamten des gehobenen und des höheren Dienstes
+
+(1) Für Beamtinnen und Beamte wird die Höhe des Leistungsentgelts auf der Grundlage eines Richtbetrages ermittelt, der 60 Prozent des monatlichen Endgrundgehaltes der jeweiligen Besoldungsgruppe beträgt. In der Bundesbesoldungsordnung B tritt an die Stelle des monatlichen Endgrundgehaltes das monatliche Grundgehalt.
+
+(2) Das Leistungsentgelt berechnet sich wie folgt:
+
+<table style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 69%" /><col style="width: 31%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Gesamtbeurteilungsstufe</th><th style="text-align: center;">Leistungsentgelt<br />
+in Prozent des<br />
+Richtbetrages</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">erfüllt nicht die Anforderungen</td><td style="text-align: center;">  0 %</td></tr><tr class="even"><td style="text-align: left;">erfüllt annähernd die Anforderungen</td><td style="text-align: center;"><br />
+ 75 %</td></tr><tr class="odd"><td style="text-align: left;">voll und ganz zufriedenstellend</td><td style="text-align: center;">100 %</td></tr><tr class="even"><td style="text-align: left;">übertrifft die Anforderungen</td><td style="text-align: center;">125 %</td></tr><tr class="odd"><td style="text-align: left;">übertrifft deutlich die Anforderungen</td><td style="text-align: center;"><br />
+200 %</td></tr></tbody></table>
+
+(3) § 4 Abs. 3 und 4 gilt entsprechend.
+
+
+## § 7 – Gesamtbeurteilung der Beamtinnen und Beamten des gehobenen und des höheren Dienstes
+
+(1) Die Gesamtbeurteilung ergibt sich zu gleichen Teilen aus der Leistungsbeurteilung (§ 8) und der Zielbewertung (§ 9), soweit diese Verordnung nichts anderes bestimmt. Die Gesamtbeurteilung wird einer Gesamtbeurteilungsstufe (§ 6 Abs. 2) zugeordnet.
+
+(2) Bis zum 15. April des auf den Beurteilungszeitraum folgenden Jahres erhält der Betriebsrat der jeweiligen Organisationseinheit eine auf Besoldungsgruppen bezogene Zusammenstellung der Gesamtbeurteilungsstufen in anonymisierter Form.
+
+
+## § 8 – Leistungsbeurteilung der Beamtinnen und Beamten des gehobenen und höheren Dienstes
+
+(1) Die Leistungsbeurteilung erfolgt im Januar des auf den Beurteilungszeitraum folgenden Jahres unter Verwendung von Formblättern nach festgelegten Beurteilungskriterien und Beurteilungsstufen.
+
+(2) Wer die Dienstvorgesetztenbefugnisse gegenüber der Beamtin oder dem Beamten wahrnimmt, eröffnet ihr oder ihm die Leistungsbeurteilung spätestens am 31. März des auf den Beurteilungszeitraum folgenden Jahres im Rahmen eines Gesprächs. Dies kann auch durch eine Beauftragte oder einen Beauftragten geschehen.
+
+
+## § 9 – Zielbewertung der Beamtinnen und Beamten des gehobenen und des höheren Dienstes
+
+(1) Die Zielbewertung ermittelt sich aus dem Verhältnis der Zielvereinbarung (§ 10) zur Zielerreichung und erfolgt nach festgelegten Zielerreichungsstufen. § 8 gilt entsprechend.
+
+(2) Ist am Ende des Beurteilungszeitraums eine Zielbewertung nicht möglich, ist dies schriftlich festzuhalten. Die Höhe des Leistungsentgelts richtet sich in diesem Fall ausschließlich nach der Leistungsbeurteilung.
+
+
+## § 10 – Zielvereinbarung für die Beamtinnen und Beamten des gehobenen und des höheren Dienstes
+
+(1) Wer Dienstvorgesetztenbefugnisse gegenüber der Beamtin oder dem Beamten wahrnimmt, schließt mit ihr oder ihm im ersten Quartal des Beurteilungszeitraums schriftlich eine Zielvereinbarung. Dies kann auch durch eine Beauftragte oder einen Beauftragten geschehen. Die Zielvereinbarung nennt bis zu drei Ziele für den Beurteilungszeitraum. Dies können quantitative oder qualitative individuelle Ziele oder Gruppenziele sein. Die Ziele müssen nachvollziehbar, klar zuzuordnen, unmittelbar auf die Tätigkeit bezogen und von der Beamtin oder dem Beamten direkt beeinflussbar sein. Tritt ein Ereignis ein, das Einfluss auf die Zielerreichung hat und das nicht von der Beamtin oder dem Beamten zu vertreten ist, sind die Ziele und deren Gewichtung nach den Regeln dieser Verordnung einvernehmlich anzupassen.
+
+(2) Wer Dienstvorgesetztenbefugnisse gegenüber der Beamtin oder dem Beamten wahrnimmt, führt mit ihr oder ihm vor dem Abschluss der Zielvereinbarung ein Gespräch (Zielvereinbarungsgespräch). Dies kann auch durch eine Beauftragte oder einen Beauftragten geschehen. Die Beamtin oder der Beamte kann zu dem Gespräch ein Mitglied des Betriebsrates hinzuziehen. Zur Vorbereitung auf dieses Gespräch wird der Beamtin oder dem Beamten mindestens zwei Wochen vorher mitgeteilt, welche Ziele vereinbart werden sollen. Gleichzeitig wird sie oder er über die Ziele der jeweiligen übergeordneten fachlichen Ebene unterrichtet. Die Beamtin oder der Beamte kann eigene Ziele vorschlagen. Mit ihr oder ihm werden auch während des Beurteilungszeitraums Gespräche über den Stand der Erreichung der vereinbarten Ziele (Zielerreichungsgespräche) geführt. Hierbei soll gegebenenfalls auch darüber gesprochen werden, wie die Ziele besser erreicht werden können.
+
+(3) Kommt eine Zielvereinbarung im ersten Quartal des Beurteilungszeitraums nicht zustande, soll sie im zweiten Quartal geschlossen werden. Kommt eine Zielvereinbarung auch im zweiten Quartal nicht zustande, findet eine Zielbewertung nicht statt. Grundlage der Gesamtbeurteilung ist dann ausschließlich die Leistungsbeurteilung.
+
+
+## § 11 – Schlichtungsverfahren für die Leistungs- und Gesamtbeurteilung
+
+(1) Die Beamtin oder der Beamte kann gegen die Leistungsbeurteilung nach § 5 innerhalb einer Ausschlussfrist von einer Woche und die Gesamtbeurteilung nach § 7 innerhalb einer Ausschlussfrist von zwei Wochen nach ihrer Bekanntgabe schriftlich mit kurzer Begründung bei der die Dienstvorgesetztenbefugnisse wahrnehmenden Stelleninhaberin oder dem die Dienstvorgesetztenbefugnisse wahrnehmenden Stelleninhaber Gegenvorstellung erheben. Diese oder dieser leitet die Gegenvorstellung unverzüglich an die Schlichtungsstelle weiter.
+
+(2) Für das Verfahren über die Gegenvorstellung wird in jeder Organisationseinheit eine Schlichtungsstelle gebildet.
+
+(3) Die Schlichtungsstelle ist paritätisch mit je zwei von der Dienststelle und dem Betriebsrat benannten Vertreterinnen oder Vertretern besetzt. Die Vertreterinnen oder Vertreter der Dienststelle, die die Leistungsbeurteilung oder die Gesamtbeurteilung vorgenommen oder eröffnet haben, können nicht Mitglieder der Schlichtungsstelle sein.
+
+(4) Die Schlichtungsstelle hat die Dienstvorgesetztenbefugnisse wahrnehmende Stelleninhaberin oder den Dienstvorgesetztenbefugnisse wahrnehmenden Stelleninhaber sowie die beurteilte Beamtin oder den beurteilten Beamten vor ihrer Entscheidung zu hören. Sie hat auf eine gütliche Einigung der Angelegenheit hinzuwirken. Kann eine gütliche Einigung nicht erzielt werden, hat die Schlichtungsstelle innerhalb von zwei Wochen nach Eingang der Gegenvorstellung bei der Schlichtungsstelle eine Empfehlung auszusprechen und schriftlich zu begründen. Sie übermittelt die Empfehlung einschließlich der Begründung der Stelleninhaberin oder dem Stelleninhaber mit den Befugnissen einer oder eines Dienstvorgesetzten zur Entscheidung.
+
+
+## § 12 – Leistungsentgelt bei nicht zu vertretender Verhinderung an der Dienstverrichtung
+
+Eine Leistungs- oder Gesamtbeurteilung findet nicht statt, wenn die Beamtin oder der Beamte infolge von Dienstunfähigkeit oder aus anderen von ihr oder ihm nicht zu vertretenden Gründen im Beurteilungszeitraum weniger als drei Monate aktiven Dienst verrichtet hat. In diesem Fall gilt die im vorangegangenen Beurteilungszeitraum zuerkannte Gesamtbeurteilungsstufe als erreicht. Ist im vorangegangenen Beurteilungszeitraum keine Leistungs- oder Gesamtbeurteilung erfolgt, gilt die Gesamtbeurteilungsstufe „voll und ganz zufriedenstellend” als erreicht.
+
+
+## § 13 – Übergangsregelung
+
+Für die Jahre 2012 bis 2025 wird kein Leistungsentgelt nach § 1 gezahlt.
+
+
+## § 14 – Inkrafttreten, Außerkrafttreten
+
+Diese Verordnung tritt mit Wirkung vom 1. Januar 2005 in Kraft.
