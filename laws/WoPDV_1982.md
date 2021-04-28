@@ -58,6 +58,14 @@ Bereits ausgezahlte Prämien sind an die Bausparkasse oder an das zuständige Fi
 
 ## § 3
 
+Bau- und Wohnungsgenossenschaften im Sinne des § 2 Absatz 1 Nummer 2 des Gesetzes sind Genossenschaften, die nach dem in ihrer Satzung festgesetzten Gegenstand und nach der tatsächlichen Geschäftstätigkeit des Unternehmens die Versorgung ihrer Mitglieder mit Wohnungen bezwecken. Die tatsächliche Geschäftstätigkeit bezweckt dann die Versorgung der Mitglieder mit Wohnungen, wenn mehr als 50 Prozent des Betrags der Geschäftsguthaben der Mitglieder verwendet wird für
+
+1. den Bau oder den Erwerb von Wohnungen, die von den Mitgliedern genutzt werden sollen, oder
+
+2. die Verwaltung, Bestandserhaltung oder Modernisierung von Wohnungen, die von den Mitgliedern genutzt werden.
+
+Bei neu gegründeten Genossenschaften reicht es in den ersten drei Jahren ihres Bestehens für die tatsächliche Geschäftstätigkeit aus, wenn die Genossenschaft unverzüglich mit dem Bau oder dem Erwerb von Wohnungen, die von ihren Mitgliedern genutzt werden sollen, beginnt, wobei die üblichen Vorbereitungen wie Bauland- oder Gebäudebeschaffung, Planungs- und Bauantragsverfahren mit einzubeziehen sind. Bau- und Wohnungsgenossenschaften im Sinne des § 2 Absatz 1 Nummer 2 des Gesetzes haben gegenüber der Bausparkasse sowie gegenüber ihren Mitgliedern in Textform zu erklären, dass die vorgenannten Voraussetzungen vorliegen, und sind verpflichtet, einen Wegfall dieser Voraussetzungen unverzüglich anzuzeigen. Die Bausparkasse hat diese Unterlagen zu den Aufzeichnungen zu nehmen.
+
 
 ## § 4 – Allgemeine Sparverträge
 

@@ -742,6 +742,8 @@ kann den Eigenmitteln nur in den Grenzen des Satzes 2 zugerechnet werden. Die Zu
 
 (6) Mittel gemäß Absatz 1 Satz 1 Nummer 9 Buchstabe a können den Eigenmitteln nur zugerechnet werden bis zu einer Höchstgrenze von 50 Prozent des Betrags, der sich als Minimum der Eigenmittel und der Solvabilitätskapitalanforderung ergibt.
 
+(+++ § 27 Abs. 2 u. 3 in der bis zum 12.1.2019 geltenden Fassung: Zur Weiteranwendung vgl. § 43 Abs. 6 Satz 1 +++)
+
 
 ## § 28 – Berichtspflicht gegenüber der Aufsichtsbehörde
 

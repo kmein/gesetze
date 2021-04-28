@@ -4953,7 +4953,7 @@
 - [SGB 8](laws/SGB_8.md) Sozialgesetzbuch (SGB) - Achtes Buch (VIII) - Kinder- und Jugendhilfe - (Artikel 1 des Gesetzes v. 26. Juni 1990, BGBl. I S. 1163)
 - [SGB IX](laws/SGB_IX.md) Sozialgesetzbuch Neuntes Buch – Rehabilitation und Teilhabe von Menschen mit Behinderungen – (Artikel 1 des Gesetzes v. 23. Dezember 2016, BGBl. I S. 3234)
 - [SGB V-ÜbV](laws/SGB_V-ÜbV.md) Verordnung zur Übertragung der Befugnis zum Erlass von Rechtsverordnungen nach dem Fünften Buch Sozialgesetzbuch auf das Bundesamt für Soziale Sicherung
-- [SGB XIV](laws/SGB_XIV.md) Sozialgesetzbuch Vierzehntes Buch – Soziale Entschädigung – (Artikel 1 des Gesetzes vom 12. Dezember 2019, BGBl. I S. 2652)
+- [SGB XIV](laws/SGB_XIV.md) Sozialgesetzbuch Vierzehntes Buch – Soziale Entschädigung –
 - [SGB2§20Abs2Bek](laws/SGB2§20Abs2Bek.md) Bekanntmachung über die Höhe der Regelleistung nach § 20 Abs. 2 des Zweiten Buches Sozialgesetzbuch für die Zeit ab 1. Juli 2005
 - [SGB2§20Abs2Bek 2006](laws/SGB2§20Abs2Bek_2006.md) Bekanntmachung über die Höhe der Regelleistung nach § 20 Abs. 2 des Zweiten Buches Sozialgesetzbuch für die Zeit ab 1. Juli 2006
 - [SGB2§20Abs2Bek 2007](laws/SGB2§20Abs2Bek_2007.md) Bekanntmachung über die Höhe der Regelleistung nach § 20 Abs. 2 Satz 1 des Zweiten Buches Sozialgesetzbuch für die Zeit ab 1. Juli 2007
