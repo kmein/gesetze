@@ -44,4 +44,4 @@ Ordnungswidrig im Sinne des § 73 Absatz 1a Nummer 24 des Infektionsschutzgesetz
 
 ## § 3 – Inkrafttreten; Außerkrafttreten
 
-Diese Verordnung tritt am 30. Januar 2021 in Kraft; sie tritt mit der Aufhebung der Feststellung der epidemischen Lage von nationaler Tragweite durch den Deutschen Bundestag nach § 5 Absatz 1 Satz 2 des Infektionsschutzgesetzes ansonsten spätestens mit Ablauf des 28. April 2021 außer Kraft.
+Diese Verordnung tritt am 30. Januar 2021 in Kraft; sie tritt mit der Aufhebung der Feststellung der epidemischen Lage von nationaler Tragweite durch den Deutschen Bundestag nach § 5 Absatz 1 Satz 2 des Infektionsschutzgesetzes ansonsten spätestens mit Ablauf des 12. Mai 2021 außer Kraft.
